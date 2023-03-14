@@ -1,0 +1,20 @@
+{
+  "newspaper_id": "dailymirrorlk",
+  "url": "https://www.dailymirror.lk/breaking_news/Sensitive-info-of-state-owned-websites-leaked/108-255546",
+  "time_ut": 1678409916.0,
+  "original_lang": "en",
+  "original_title": "Sensitive info of state owned websites leaked?",
+  "original_body_lines": [
+    "Sensitive information of two Sri Lankan state websites have been leaked to a hacker forum, a cyber threat intelligence platform claimed last week.",
+    "On March 2, the FalconFeeds.io announced on Twitter that the administrator access of Sri Lanka's Ministry of Defence website has been released to a Hacker\u2019s Forum for sale. Personally Identifiable Information (PIIs) such as names, phone numbers and emails were among the data claimed to be on sale, through a data broker named Kelvin Security. Kelvin Security, which describes itself as a hacker group has a history of claiming data breaches in several countries including Colombia, Mexico and Chile.",
+    "When contacted by the Daily Mirror, Defence Ministry media spokesperson Colonel Nalin Herath denied the report stating no data has been compromised as flagged by the intelligence platform, nor has data been made available for sale.",
+    "\u201cThere was an alert we initially got that the Ministry of Defence website was going to be hacked. But there was no such incident,\u201d the Ministry Spokesperson said. \u201cWe were alerted by the United States Embassy.",
+    "Based on that we took some extraordinary precautions and because of that we could prevent a breach,\u201d he said. The US Embassy warning came a day prior to the incident, he added. \"Nothing happened. There was no breach. We adopted certain precautions. But we did not experience an attack or anything,\u201d Herath said.",
+    "Asked of the precautionary measures taken related to this incident, Herath said the Ministry worked with the Computer Emergency Readiness Team (CERT) as well as the Air Force Cyber Operations Centre to look into the issue.",
+    "However sources told Daily Mirror that CERT had not been immediately notified of the alleged breach. \u201cWe haven't got any request asking for any assistance in this regard,\u201d a spokesperson for CERT said.",
+    "Prior to the alleged Defence Ministry data breach, FalconFeeds.io on February 25 had also claimed that '32 admin information' from the Central Bank of Sri Lanka website were leaked. The tweet also contained an image suggesting that the Central Bank\u2019s Twitter handle was compromised.",
+    "The Daily Mirror spoke to several officials at the Central Bank who said there has been no data breach reported. \u201cI think you are referring to the tweet. There was no data breach as such,\u201d an officer who wished to remain anonymous said. Asked if there is an investigation into the incident with other parties, he said \u201cAlong with our service provider, we investigated the claim. But we didn\u2019t find any data breach.\u201d",
+    "When the Daily Mirror spoke to the Financial Sector Computer Security Incident Response Team (FinCSIRT) Manager Kanishka Ratnayake, he said there only appeared to be a security incident with the Central Bank\u2019s Twitter account. \u201cAs per my understanding the Central Bank website was not hacked. It was their twitter page. Asked if there is a team investigating the incident, \u201cMostly government organizations are handled by CERT,\u201d he said.",
+    "The Daily Mirror also spoke to Cyber Security Specialist Asela Waidyalankara who stressed the need of a cohesive cyber security strategy for Sri Lanka, given the frequency of these events. \u201cWe really need to have a coordinated national mechanism to monitor these developments on the dark web and other threat intelligence channels. In other countries there are tools, processes/procedures and people trained to look at these signals, pick it up and address it,\u201d he said.\u00a0(Kalani Kumarasinghe)"
+  ]
+}

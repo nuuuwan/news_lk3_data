@@ -1,0 +1,12 @@
+{
+  "newspaper_id": "dailymirrorlk",
+  "url": "https://www.dailymirror.lk/breaking_news/WhatsApp-adds-option-to-use-the-same-account-on-multiple-phones/108-258174",
+  "time_ut": 1682444322.0,
+  "original_lang": "en",
+  "original_title": "WhatsApp adds option to use the same account on multiple phones",
+  "original_body_lines": [
+    "WhatsApp users are no longer restricted to using their account on just a single phone. Today, the Meta-owned messaging service is announcing that its multi-device feature \u2014 which previously allowed you to access and send messages from additional Android tablets, browsers, or computers alongside your primary phone \u2014 is expanding to support additional smartphones. \u201cOne WhatsApp account, now across multiple phones\u201d is how the service describes the feature, which it says is rolling out to everyone in the coming weeks.",
+    "Setting up a secondary phone to use with your WhatsApp account happens after doing a fresh install of the app. Except, rather than entering your phone number during setup and logging in as usual, you instead tap a new \u201clink to existing account\u201d option. This will generate a QR code to be scanned by your primary WhatsApp phone via the \u201clink a device\u201d option in settings. The new feature works across both iOS and Android devices.",
+    "WhatsApp is pitching the feature as a useful tool for small businesses that might want multiple employees to be able to send and receive messages from the same business number via different phones. But it should be useful for anyone who uses multiple smartphones on a regular basis and wants them all to be associated with the same WhatsApp account."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "newspaper_id": "economynextcom",
+  "url": "https://economynext.com/indian-journalists-targeted-with-spyware-145213/",
+  "time_ut": 1703821800.0,
+  "original_lang": "en",
+  "original_title": "Indian journalists targeted with spyware",
+  "original_body_lines": [
+    "ECONOMYNEXT \u2013 Forensic investigations by Amnesty International\u2019s Security Lab have uncovered use of the invasive Pegasus spyware deployed against Siddharth Varadarajan, founding Editor of The Wire India, and Anand Mangnale, the South Asia Editor at The Organised Crime and Corruption Report Project (OCCRP) this week.",
+    "The sypware, which was developed by Israeli firm NSO Group, has escalated concerns amid a crackdown on civil liberties in India, adversely impacting journalists, activists, and civil society organizations.",
+    "Donncha \u00d3 Cearbhaill, Head of Amnesty International\u2019s Security Lab, expressed grave concern over the unlawful surveillance faced by journalists in India.",
+    "The Security Lab\u2019s analysis unearthed traces of Pegasus activity on devices owned by Varadarajan and Mangnale. Mangnale\u2019s device showed evidence of a zero-click exploit through iMessage in August 2023, aiming to install the Pegasus spyware covertly. Although Mangnale\u2019s device was vulnerable to the exploit, it remains uncertain if the attempt led to a successful compromise.",
+    "The NSO Group responded to these findings by highlighting that their technologies are licensed solely to law enforcement and intelligence agencies to combat terrorism and major crime.\u00a0 However, concerns persist regarding the company\u2019s visibility into targets and the lack of clarity from Indian authorities regarding the procurement or usage of Pegasus spyware.",
+    "The implications of such invasive surveillance practices are pertinent to Sri Lanka, where the government is in the process of implementing the SL-UID program, backed by India.",
+    "Reports have previously highlighted incidents in India where Aadhar cards, a similar biometric identification system, were misused as tools for surveillance.\u00a0Usha Ramanathan, South Asia Editor of Law, Environment and Development Journal has called the ID system a mechanism for discrimination, used primarily for furthering state surveillance by \u201cuniquely identifying\u201d individuals.",
+    "Public pushback from human rights advocates has since intensified following the National Register of Citizens (NRC) controversy, wherein 1.9 million minority Muslims in the state of Assam were declared illegal, with the biometric details of around 4 million individuals registered in the Aadhaar system, within the state. It was found that a majority of the 4 million found their biometric data locked, a year later, barring them from enrolling in the system or receiving welfare.",
+    "The press release by Amnesty International calls for the prohibition of highly invasive spyware, emphasizing the need for independent audits and restrictions on such technologies.",
+    "It said that these revelations serve as a cautionary tale for nations implementing large-scale biometric identification systems, urging stringent measures to prevent misuse and protect citizens\u2019 privacy and rights.",
+    "The SL-UID program promises to enhance governance, streamline services, and bolster national security through advanced identity management systems.",
+    "But concerns loom over the potential vulnerabilities and risks in such large-scale identity programs, without adequate safeguards in place. (Colombo/Dec29/2023)"
+  ]
+}

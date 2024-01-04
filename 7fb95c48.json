@@ -1,0 +1,17 @@
+{
+  "newspaper_id": "economynextcom",
+  "url": "https://economynext.com/sri-lanka-to-study-infobip-centralized-sms-firewall-proposal-145888/",
+  "time_ut": 1704346560.0,
+  "original_lang": "en",
+  "original_title": "Sri Lanka to study Infobip centralized SMS firewall proposal",
+  "original_body_lines": [
+    "ECONOMYNEXT- Sri Lanka\u2019s Cabinet of ministers have granted approval to evaluate a short message service firewall by a company called Infobip to set up a centralised anti-phishing system.",
+    "\u201cIt has been observed that the excessive use of a short message system has led to fraud, spam and illegal activities,\u201d a government statement said.",
+    "\u201cTherefore, it has been recognized of the requirement of a centralized short message system network security appliance firewall (SMS Firewall) to regularize short message exchange in order to confront such challenges.\u201d",
+    "The system will cover SMS and MMS messaging, the statement said.",
+    "Infobip, which the post-cabinet statement said was a UK-based firm, had submitted a proposal to set up an \u201cinternational A2P (application to person) short message services centre\u201d.",
+    "President Ranil Wickremesinghe has proposed appointing a committee with representatives from the Ministry of Finance, Ministry of Technology and the Sri Lanka Telecom Regulatory Commission to evaluate the proposal.",
+    "In addition to spamming, \u201csmishing\u201d (which is similar to phishing, which occurs via email) is a form of cyberattacks that uses text messages, or SMS (Short Message Service), to trick people into disclosing personal information, opening dangerous links, or downloading malicious files on their devices.",
+    "It was not clear whether telecom operators would be consulted. (Colombo/Jan04/2023)"
+  ]
+}

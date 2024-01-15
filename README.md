@@ -1,10 +1,12 @@
 # Articles (Latest 100)
 
-* As of 2024-01-15 13:44:04 *
+> [!NOTE]
+
+> As of **2024-01-15 13:54:05**
 
 ## பசியை போக்க பாக்கு பிடுங்கியவர்  மரணம்
 
-*2024-01-15 11:23:41 - tamilmirrorlk*
+*2024-01-15 11:23:41 - [tamilmirrorlk](https://www.tamilmirror.lk/மலையகம்/பசியை-போக்க-பாக்கு-பிடுங்கியவர்-மரணம்/76-331527)*
 
 இரண்டு நாட்களாக எவ்விதமான உணவும் உட்கொள்ளாது பட்டினியால் வாடிய நபரொருவர், மற்றொருவருக்குச் சொந்தமான பாக்கு மரத்திலேறி, பாக்கு திருட முற்பட்டவேளையில் மரத்திலிருந்து தவறிவிழுந்து மரணமடைந்த சம்பவமொன்று கடுகண்ணாவை பொலிஸ் பிரிவுக்கு உட்பட்ட பிரதேசமொன்றில் இடம்பெற்றுள்ளது.
 
@@ -16,7 +18,7 @@
 
 ## ஏழு வயது சிறுமி துஷ்பிரயோகம்: இருவர் கைது
 
-*2024-01-15 10:38:48 - tamilmirrorlk*
+*2024-01-15 10:38:48 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஏழு-வயது-சிறுமி-துஷ்பிரயோகம்-இருவர்-கைது/175-331522)*
 
 பாடசாலை ஒன்றில் கல்வி கற்கும் ஏழு வயது மற்றும் இரண்டு மாத சிறுமிக்கு பாலியல் வன்கொடுமை செய்த இரு இளைஞர்கள் அட்டமலை பொலிஸாரால் ஞாயிற்றுக்கிழமை (14) கைது செய்யப்பட்டுள்ளனர்.
 
@@ -32,7 +34,7 @@
 
 ## ’’பௌத்தத்தை சிதைப்போருக்கு எதிராக சட்டம் இயற்றவும்''
 
-*2024-01-15 10:08:12 - tamilmirrorlk*
+*2024-01-15 10:08:12 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பௌத்தத்தை-சிதைப்போருக்கு-எதிராக-சட்டம்-இயற்றவும்/175-331521)*
 
 அண்மைக்காலமாக பௌத்த மதம் தொடர்பில் தவறான சித்தாந்தங்களை பரப்பும் குழுக்களின் சம்பவங்களை அடுத்து, இலங்கையிலுள்ள மூன்று பௌத்த பீடங்களின் பிரதான பீடாதிபதிகள் (மகாநாயக்க தேரர்கள்) ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு கூட்டாக இணைந்து கடிதம் ஒன்றை அனுப்பியுள்ளனர்.
 
@@ -44,7 +46,7 @@
 
 ## உள்நாட்டு பிரச்சினைகளிற்குதீர்வை  கண்ட பின்னர் சர்வதேச கடற்பரப்பை பாதுகாக்க செல்லுங்கள் - கர்தினால் மல்கம் ரஞ்சித்
 
-*2024-01-15 09:45:00 - virakesarilk*
+*2024-01-15 09:45:00 - [virakesarilk](https://www.virakesari.lk/article/173975)*
 
 அரசாங்கம் சர்வதேச கடற்பரப்பினை பாதுகாப்பதற்கு முன்னர் உள்நாட்டில் காணப்படும் பிரச்சினைகளிற்கு தீர்வை காணவேண்டும் என கர்தினால் மல்கம் ரஞ்சித் கருத்து வெளியிட்டுள்ளார்.
 
@@ -62,7 +64,7 @@
 
 ## ஒருசீனா கொள்கையில் இலங்கை உறுதி – அலி சப்ரி
 
-*2024-01-15 08:21:00 - virakesarilk*
+*2024-01-15 08:21:00 - [virakesarilk](https://www.virakesari.lk/article/173974)*
 
 தாய்வானின் ஜனாதிபதி தேர்தலில் அந்த நாட்டின் இறைமையை வலியுறுத்தும் வில்லியம் லாய் சிங் வெற்றிபெற்றுள்ள நிலையிலேயே இலங்கை மீண்டும் தனது நிலைப்பாட்டை தெளிவுபடுத்தியுள்ளது.
 
@@ -70,7 +72,7 @@
 
 ## ஜனாதிபதியின் தைத் திருநாள் வாழ்த்து செய்தி
 
-*2024-01-15 02:29:58 - tamilmirrorlk*
+*2024-01-15 02:29:58 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-தைத்-திருநாள்-வாழ்த்து-செய்தி/175-331518)*
 
 உழவர் திருநாளான தைத் திருநாள், மகிழ்ச்சியையும் நன்றியையும் வெளிப்படுத்தும் வகையில், உலகெங்கிலும் உள்ள தமிழ்ச் சமூகத்தால் கொண்டாடப்படும் ஒரு செழிப்பான அறுவடைத் திருவிழாவாகுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க வெளியிட்டுள்ள தனது கை பொங்கல் வாழ்த்து செய்தியில் தெரிவிக்கப்பட்டுள்ளார்.
 
@@ -80,7 +82,7 @@
 
 ## இந்தியாவிடமிருந்து 20 ரயில் எஞ்சின்கள்
 
-*2024-01-15 02:27:21 - tamilmirrorlk*
+*2024-01-15 02:27:21 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவிடமிருந்து-20-ரயில்-எஞ்சின்கள்/175-331517)*
 
 இந்தியாவில் இருந்து இலங்கைக்கு இலவசமாக வழங்கப்படும் 20 ரயில் எஞ்சின்களில் 02 எஞ்சின்கள் எதிர்வரும் 04 ஆம் திகதிக்கு முன்னர் இலங்கைக்கு கொண்டுவரப்படவுள்ளன என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
 
@@ -90,7 +92,7 @@
 
 ## மதுபானசாலைகளுக்கு பூட்டு
 
-*2024-01-15 02:19:03 - tamilmirrorlk*
+*2024-01-15 02:19:03 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலைகளுக்கு-பூட்டு/175-331515)*
 
 தைப்பொங்கல் தினத்தை முன்னிட்டு இன்று வடக்கு மாகாணத்திலும் நுவரெலியா மற்றும் பதுளை ஆகிய மாவட்டங்களிலும் உள்ள மதுபானசாலைகளை மூடுவதற்கு மதுவரித்திணைக்களம் தீர்மானித்துள்ளது.
 
@@ -98,7 +100,7 @@
 
 ## களுகங்கையில் மூழ்கி 3 மாணவர்கள் உயிரிழப்பு
 
-*2024-01-15 02:15:34 - tamilmirrorlk*
+*2024-01-15 02:15:34 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/களுகங்கையில்-மூழ்கி-3-மாணவர்கள்-உயிரிழப்பு/175-331514)*
 
 15 மற்றும் 16 வயதுகளையுடைய இரண்டு மாணவிகளும் 17 வயதுடைய மாணவரொருவருமே இவ்வாறு உயிரிழந்துள்ளனர்.
 
@@ -106,7 +108,7 @@
 
 ## இரு இளைஞர்களின் சடலங்கள் கால்வாயில் கண்டுபிடிப்பு
 
-*2024-01-14 18:51:10 - tamilmirrorlk*
+*2024-01-14 18:51:10 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/இரு-இளைஞர்களின்-சடலங்கள்-கால்வாயில்-கண்டுபிடிப்பு/175-331501)*
 
 கிளிநொச்சி அஹலபுரத்தில் வசிக்கும் 20 மற்றும் 18 வயதுடைய இரு இளைஞர்களின் சடலங்கள் நீர்ப்பாசன கால்வாயில் இருந்து கண்டுபிடிக்கப்பட்டுள்ளன.
 
@@ -116,7 +118,7 @@
 
 ## அதிகாரிகளை சாடுகிறார் கர்தினால்
 
-*2024-01-14 18:35:13 - tamilmirrorlk*
+*2024-01-14 18:35:13 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/அதிகாரிகளை-சாடுகிறார்-கர்தினால்/175-331500)*
 
 சர்வதேச கடல் வழிகளின் பாதுகாப்பை உறுதி செய்வதற்காக கடற்படைக் கப்பலை அனுப்பும் அரசாங்கத்தின் நடவடிக்கையை விமர்சித்த கொழும்பு பேராயர் கர்தினால் மல்கம் ரஞ்சித், உள்ளூர் விவகாரங்கள் அதிகாரிகளால் புறக்கணிக்கப்பட்டுள்ளதாக தெரிவித்துள்ளார்.
 
@@ -130,7 +132,7 @@
 
 ## யாருக்காக நல்லிணக்கச் செயலகம்?
 
-*2024-01-14 18:12:00 - virakesarilk*
+*2024-01-14 18:12:00 - [virakesarilk](https://www.virakesari.lk/article/173954)*
 
 போர் நடந்து கொண்­டி­ருந்த போது சந்­தி­ரிகா குமா­ர­துங்க, சர்­வ­தேச அரங்கில் விடு­தலைப் புலி­களை ஓரம் கட்­டு­வ­தற்­கா­கவும், தனக்­கான ஆத­ரவை உறு­திப்­ப­டுத்திக் கொள்­வ­தற்­கா­கவும் இரு­வேறு அணு­கு­மு­றை­களை கையாண்டார்.
 
@@ -142,7 +144,7 @@
 
 ## 13இன் அதி­காரம் போதுமா?
 
-*2024-01-14 18:10:00 - virakesarilk*
+*2024-01-14 18:10:00 - [virakesarilk](https://www.virakesari.lk/article/173955)*
 
 1987 ஆம் ஆண்டு 13 ஆவது திருத்­தச்­சட்டம் கொண்டு வரப்­பட்ட போதும், அதனை இன்­று­வரை எந்த ஒரு அர­சாங்­கமும் முழு­மை­யாக நடை­மு­றைப்­ப­டுத்­த­வில்லை.
 
@@ -154,7 +156,7 @@
 
 ## நல்லூரை விடப் பெரிய ஆலயம் தேவையா?
 
-*2024-01-14 18:09:00 - virakesarilk*
+*2024-01-14 18:09:00 - [virakesarilk](https://www.virakesari.lk/article/173957)*
 
 நல்லூர் கந்தன் ஆல­யத்தின் கத­வுகள் குறிப்­பிட்ட நேரம் தவிர மற்ற நேரங்­களில் மூடப்­பட்­டி­ருக்கும். எந்த அதி­காரம் படைத்­த­வர்­க­ளுக்­கா­கவும் அந்த கத­வுகள் திறக்­கப்­பட்­டது இல்லை.
 
@@ -164,7 +166,7 @@
 
 ## ஹூத்தி கிளர்ச்சியாளர்கள், செங்கடல் மற்றும் இலங்கை அரசியல்
 
-*2024-01-14 18:05:00 - virakesarilk*
+*2024-01-14 18:05:00 - [virakesarilk](https://www.virakesari.lk/article/173960)*
 
 கடற்படை தளவாடங்கள் என்பது, குறிப்பாக போட்டித்தன்மையான கடற்பரப்பில் ஓர் நாட்டின் புவிசார் அரசியல் நிலைப்பாடு தொடர்ந்து பரிசோதிக்கப்படும் கருவிகளாகும்.
 
@@ -236,7 +238,7 @@
 
 ## இலங்கையில் காலநிலை மாற்ற இராஜதந்திரம்
 
-*2024-01-14 18:03:00 - virakesarilk*
+*2024-01-14 18:03:00 - [virakesarilk](https://www.virakesari.lk/article/173959)*
 
 காலநிலை மாற்றம் என்பது உலகளாவிய காலநிலையில் நீண்ட கால, பாரிய மாற்றங்களைக் குறிக்கிறது. அதிகரித்து வரும் மோசமான உலகளாவிய காலநிலை நிலைமையைக் கருத்திற் கொண்டு, சர்வதேச ஒத்துழைப்புக்கு முன்னுரிமை அளிக்கப்பட வேண்டும். காலநிலை இராஜதந்திரம் என்பது காலநிலை இலக்குகளை உள்ளடக்குவதன் அவசியத்தை சுட்டிக்காட்டுவதுடன் காலநிலை தொடர்பான கரிசனங்களை மிக உயர் நிலையிலான இராஜதந்திர இடைத்தொடர்புகள் மற்றும் பல கொள்கை களங்களினூடாக வெளிப்படுத்துகின்ற ஓர் மூலோபாய அணுகுமுறையாகும். காலநிலை மாற்ற இராஜதந்திரத்தில் தனது வகிபங்கைப் பற்றி அக்கறை கொண்ட இலங்கை, சுற்றாடல் பிரச்சினைகளைத் தீர்ப்பதற்கும், நிலைத்ததன்மையான எதிர்காலத்திற்கு அர்த்தமுள்ள வகையில் பங்களிப்பதற்கும் நம்பிக்கையூட்டும் முயற்சியில் இறங்கியுள்ளது.
 
@@ -298,7 +300,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## புத்தாண்டுக்கு முன் ரணில் விக்கிரமசிங்கவை பொதுவேட்பாளராக அறிவிப்போம் - ஐக்கிய தேசியக் கட்சி
 
-*2024-01-14 17:58:00 - virakesarilk*
+*2024-01-14 17:58:00 - [virakesarilk](https://www.virakesari.lk/article/173964)*
 
 சித்திரை புத்தாண்டுக்கு முன்னர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பொது வேட்பாளராக அறிவிப்போம்.ஐக்கிய மக்கள் சக்தியின் பெரும்பாலானவர்கள் ஜனாதிபதியுடன் ஒன்றிணைவார்கள் என ஐக்கிய தேசியக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஜி.ஹரிசன் தெரிவித்தார்.
 
@@ -314,7 +316,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## ஆடை மாற்றுவதை வீடியோ  எடுத்த ஊழியர் கைது
 
-*2024-01-14 15:38:23 - tamilmirrorlk*
+*2024-01-14 15:38:23 - [tamilmirrorlk](https://www.tamilmirror.lk/மலையகம்/ஆடை-மாற்றுவதை-வீடியோ-எடுத்த-ஊழியர்-கைது/76-331489)*
 
 கண்டி தேசிய வைத்தியசாலையின் சத்திர சிகிச்சை நிபுணர்கள் சத்திர சிகிச்சையறைக்குச் செல்வதற்கு முன்னர் கிருமி நீக்கம் செய்யப்பட்ட ஆடை அறையில் கைத்தொலைபேசியை பொருத்தியதற்காக வைத்தியசாலை ஊழியர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
 
@@ -332,7 +334,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## தெற்­கா­சி­யாவில் தீவி­ர­ம­டையும் பனிப்போர்
 
-*2024-01-14 15:36:00 - virakesarilk*
+*2024-01-14 15:36:00 - [virakesarilk](https://www.virakesari.lk/article/173943)*
 
 இன்­னொரு பக்கம் இலட்­சத்­தீவில் தற்­போ­துள்ள சிறிய விமான நிலை­யத்­துக்கு மேல­தி­க­மாக கூடுதல் பய­ணி­களை கையாளக் கூடிய வகை­யிலும்- இந்­திய பெருங்­க­ட­லிலும் அரபிக் கட­லிலும் தனது படை­ப­லத்தை வலுப்­ப­டுத்திக் கொள்ளும் வகை­யிலும்- ஒரு விமான தளத்தை புதி­தாக கட்­டு­வ­தற்கு இந்­தியா தீர்­மா­னித்­தி­ருக்­கி­றது.
 
@@ -342,7 +344,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## தொடரும் 'இந்­திய' ஏமாற்றுப் படலம்
 
-*2024-01-14 15:34:00 - virakesarilk*
+*2024-01-14 15:34:00 - [virakesarilk](https://www.virakesari.lk/article/173939)*
 
 இலங்கையின் சமகால நிலைமைகளை கருத்தில் கொண்டு, இந்தியா தனது வெளியுறவுக்கொள்கைகளை உடனடியாக மீளாய்வுக்கு உட்படுத்தி உரிய நகர்வுகளை காலம்தாழ்தாது மேற்கொள்ளாது விட்டால் எதிர்காலத்தில், இந்திய - இலங்கை ஒப்பந்தம், 13ஆவது திருத்தச்சட்டம் ஆகியவற்றை அமுலாக்குங்கள் என்று பொது அரங்குகளில் கூட வலியுறுத்த முடியாத அளவிற்கு நிலைமைகள் உருமாற்றம் அடைந்து விடும்.
 
@@ -350,7 +352,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## பணத்துடன் பாய முயன்றவர் கைது
 
-*2024-01-14 15:28:53 - tamilmirrorlk*
+*2024-01-14 15:28:53 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பணத்துடன்-பாய-முயன்றவர்-கைது/175-331487)*
 
 தியத்தலாவையில் தன்னியக்க (ஏ.ரி.எம்) இயந்திரத்தில் பணத்தை பெற்றுக்கொள்வதற்கு உதவிச் செய்வதாகக் கூறி, அப்பெண்ணின் அட்டையை (காட்) பெற்று, மற்றுமோர் அட்டையை கொடுத்து, சுமார் 2 இலட்சம் ரூபாயை பெற்றுக்கொண்டு தலைமறைவாக முயன்ற முன்னாள் இராணுவ வீரர் ஒருவர் கைது செய்யப்பட்டுள்ளார் என தியத்தலாவை பொலிஸார் தெரிவித்துள்ளனர்.
 
@@ -362,7 +364,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## உலக்கையால் தாக்கியதில் உலகை விட்டு பிரிந்தார்
 
-*2024-01-14 15:25:11 - tamilmirrorlk*
+*2024-01-14 15:25:11 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/உலக்கையால்-தாக்கியதில்-உலகை-விட்டு-பிரிந்தார்/175-331485)*
 
 வீட்டுக்குள் அத்துமீறி நுழைந்து பாலியல் வன்புணர முயற்சி செய்வதற்கு முயற்சித்த வேளையில், வீட்டிலிருந்த உலக்கையால் அப்பெண் தாக்கியதில் சந்தேகநபர் மரணமடைந்த சம்பவமொன்று அங்கொட - அளுத்கொட பிரதேசத்தில் இடம்பெற்றுள்ளது.
 
@@ -372,13 +374,13 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## ஜன­நா­ய­கத்­திற்கு சவா­லாகும் செயற்கைப் புல­ன­றிவு
 
-*2024-01-14 13:31:00 - virakesarilk*
+*2024-01-14 13:31:00 - [virakesarilk](https://www.virakesari.lk/article/173934)*
 
 இத்­த­கைய செயற்கைப் புல­ன­றிவு தொழில்­நுட்­பங்கள் மூலம் எழக்­கூ­டிய சவால்­களை முறி­ய­டிப்­ப­தொன்றும் இல­கு­வான காரியம் அல்ல. இணையம் என்ற பெருங்­க­டலில் ஒரு துளி கலந்து விட்டால், அந்தத் துளியை பிரித்­த­றியும் அள­விற்கு சிர­ம­மான காரியம். ஒரு­புறத்தில் மேலைத்­தேய நாடு­களில் டிஜிற்றல் அறிவு மிக்க சமூ­கங்கள் இருப்­பதால், இந்த மாதி­ரி­யான சவால்கள் இருப்­ப­தை­யேனும் சுட்­டிக்­காட்ட முடியும். இது உண்மை, இது பொய் என்­பதை பிரித்துக் காண்­ப­தற்­கு­ரிய அறிவைப் போதிப்­பது மேலைத்­தேய நாடு­க­ளுக்­குள்ள சவால் என்றால், கீழைத்­தேய நாடு­களில் ‘நீங்கள் பார்ப்­பதில் போலிகள் அதிகம்’ என்பதை விபரிப்பதற்கே பெரும் பிரயத்தனப்பட வேண்டியிருக்கும்.
 
 ## க.​பொ.த உயர்தர பரீட்சையில் திருத்தம்
 
-*2024-01-14 13:26:51 - tamilmirrorlk*
+*2024-01-14 13:26:51 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/க-பொ-த-உயர்தர-பரீட்சையில்-திருத்தம்/175-331484)*
 
 க.பொ.த உயர்தரப் பரீட்சையில் விவசாயப் பிரிவின் இரண்டாம் தாளுக்கான விசேட பரீட்சையை எதிர்வரும் பெப்ரவரி முதலாம் திகதி காலை 8.30 மணி முதல் 11.40 மணி வரை நடாத்துவதற்கு இலங்கைப் பரீட்சைகள் திணைக்களம் தீர்மானித்துள்ளது.
 
@@ -388,7 +390,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## செலவழித்த தொகையை மீளக்கோருகிறது ஜப்பான்
 
-*2024-01-14 13:12:26 - tamilmirrorlk*
+*2024-01-14 13:12:26 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/செலவழித்த-தொகையை-மீளக்கோருகிறது-ஜப்பான்/175-331483)*
 
 இலங்கை எல்.ஆர்.டி திட்டத்திற்கு ஏற்கனவே செலவிட்ட தொகையை அது ரத்து செய்யப்பட முன்னதாக வழங்குமாறு ஜப்பான் நிதி அமைச்சர் ஷுனிச்சி சுசுகி மற்றும் அவரது குழுவினர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் ஐக்கிய மக்கள் சக்தி எம்.பி.க்களிடம் தெரிவித்துள்ளதாக SJB பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா தெரிவித்துள்ளார்.
 
@@ -396,7 +398,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## மனித உரிமை விவகாரங்களில் இரட்டை வேடம்போடும் உலக தலைவர்கள் - பல்லாயிரக்கணக்கான மக்களின் உயிர்களிற்கு ஆபத்து - சர்வதேச மனித உரிமை கண்காணிப்பகம்
 
-*2024-01-14 12:59:00 - virakesarilk*
+*2024-01-14 12:59:00 - [virakesarilk](https://www.virakesari.lk/article/173931)*
 
 உலக நாடுகளின் தலைவர்கள் சட்டங்களை நடைமுறைப்படுத்த தவறுவதால் சர்வதேச அளவில் மனிதஉரிமைகள் வீழ்ச்சியடைந்துள்ளன என சர்வதேச மனிதஉரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
 
@@ -416,7 +418,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## DMT அதிகாரிகளை சாடுகிறார் அமைச்சர்
 
-*2024-01-14 12:44:59 - tamilmirrorlk*
+*2024-01-14 12:44:59 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/DMT-அதிகாரிகளை-சாடுகிறார்-அமைச்சர்/175-331482)*
 
 மோட்டார் போக்குவரத்து திணைக்கள (DMT) அதிகாரிகள், திணைக்களத்தின் வருமானத்தை அதிகரிப்பதற்கான முன்மொழிவை அங்கீகரிக்க 15 மாத கால அவகாசம் எடுத்துக் கொண்டதாக தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
 
@@ -432,13 +434,13 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## தமிழ் பொதுவேட்பாளருக்கான நியாயங்களை வழங்கிய ஜனாதிபதி
 
-*2024-01-14 12:34:00 - virakesarilk*
+*2024-01-14 12:34:00 - [virakesarilk](https://www.virakesari.lk/article/173929)*
 
 இந்தப் பயணத்தில் தமிழ்த்தேசிய கட்சிகளின் நடத்தைகள் சகிக்க முடியாதவையாக இருந்தன. அனைத்து கட்சிகளும் கூட்டாக தீர்மானம் எடுத்து சந்திப்பை புறக்கணித்திருக்க வேண்டும். ஏற்கெனவே கூறிய வாக்குறுதிகளை நிறைவேற்றிவிட்டு வாருங்கள் என கோரிக்கையினை வைத்திருக்க வேண்டும். இங்கே கட்சிகள் தன்னிச்சையாகவே நடந்து கொண்டன. சித்தார்த்தன், செல்வம் அடைக்கலநாதன், சாள்ஸ் நிர்மலநாதன் ஆகியோர் ஒருங்கிணைப்பு கூட்டத்தில் கலந்து கொண்டிருந்தனர். அங்கு கூட முறையாக கோரிக்கைகள் எவற்றையும் அவர்கள் முன்வைக்கவில்லை. ஆளும் கட்சியினருக்கும் சோடை போகாத வகையில் எடுபிடிகளாகவே நடந்து கொண்டனர்.
 
 ## வாகன இறக்குமதிக்கான வர்த்தமானி ​​வெளியீடு
 
-*2024-01-14 12:21:31 - tamilmirrorlk*
+*2024-01-14 12:21:31 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதிக்கான-வர்த்தமானி-வெளியீடு/175-331480)*
 
 அரசாங்கத்திற்கு அத்தியாவசியமான வாகனங்களை மட்டும் இறக்குமதி செய்யும் வகையில் புதிய வர்த்தமானி வெளியிடப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
 
@@ -450,7 +452,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## 12 இந்திய மீனவர்கள் கைது
 
-*2024-01-14 11:51:49 - tamilmirrorlk*
+*2024-01-14 11:51:49 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/12-இந்திய-மீனவர்கள்-கைது/175-331478)*
 
 யாழ். காரைநகரிலுள்ள கோவிலான் கலங்கரையை அண்மித்து இலங்கை கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட 12 இந்திய மீனவர்கள் சனிக்கிழமை (13) இரவு  கைது செய்யப்பட்டுள்ளனர்.
 
@@ -458,13 +460,13 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## புதிய செயலாளர்களுக்கான வர்த்தமானி வெளியீடு
 
-*2024-01-14 11:32:28 - tamilmirrorlk*
+*2024-01-14 11:32:28 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளர்களுக்கான-வர்த்தமானி-வெளியீடு/175-331477)*
 
 கல்வி, நீதித்துறை உள்ளிட்ட 11 அமைச்சுகளுக்கு புதிய செயலாளர்களை நியமிப்பதற்கான வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
 
 ## 42,248 சந்தேக நபர்களின் பெயர்ப்பட்டியல் கையளிப்பு
 
-*2024-01-14 11:25:23 - tamilmirrorlk*
+*2024-01-14 11:25:23 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/42-248-சந்தேக-நபர்களின்-பெயர்ப்பட்டியல்-கையளிப்பு/175-331476)*
 
 நாடளாவிய ரீதியில் குற்றச்செயல்களுடன் தொடர்புடைய 42,248 சந்தேக நபர்களின் விரிவான பட்டியலை பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் அனைத்து பொலிஸ் நிலையங்களின் குற்றச் செயல்களுக்கு பொறுப்பான அதிகாரிகளிடம் கையளித்துள்ளார் என பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
 
@@ -478,7 +480,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## பால் மாவின் விலை உயர்வு
 
-*2024-01-14 11:09:57 - tamilmirrorlk*
+*2024-01-14 11:09:57 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பால்-மாவின்-விலை-உயர்வு/175-331475)*
 
 இறக்குமதி செய்யப்படும் பால் மாவின் விலை அடுத்த வாரம் முதல் அதிகரிக்கப்படும் என பால் மா இறக்குமதியாளர்கள் சங்கம் தெரிவித்துள்ளது.
 
@@ -486,7 +488,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## கசினோ கட்டணங்களை அதிகரித்தது நிதியமைச்சு
 
-*2024-01-14 10:53:49 - tamilmirrorlk*
+*2024-01-14 10:53:49 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கசினோ-கட்டணங்களை-அதிகரித்தது-நிதியமைச்சு/175-331473)*
 
 2024 ஜனவரி முதலாம் திகதி, முதல் அமுலுக்கு வரும் வகையில், சூதாட்ட உரிமக் கட்டணம் மற்றும் புதுப்பித்தல் கட்டணங்களை அதிகரிக்கவுள்ளதாக நிதி அமைச்சு அறிவித்துள்ளது.
 
@@ -496,13 +498,13 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## நயினாதீவில் கஞ்சாவுடன் ஒருவர் கைது
 
-*2024-01-14 08:44:52 - tamilmirrorlk*
+*2024-01-14 08:44:52 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/நயினாதீவில்-கஞ்சாவுடன்-ஒருவர்-கைது/175-331469)*
 
 யாழ்ப்பாணம், நயினாதீவில் 21 கிலோ கிராம் கஞ்சா நேற்று விசேட அதிரடிப் படையினரால் கைப்பற்றப்பட்டுள்ளது.
 
 ## விபத்தில் அபிவிருத்தி உத்தியோகத்தர் பலி
 
-*2024-01-14 06:56:47 - tamilmirrorlk*
+*2024-01-14 06:56:47 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-அபிவிருத்தி-உத்தியோகத்தர்-பலி/175-331467)*
 
 யாழ்ப்பாணம், வடமராட்சி கிழக்கு, வெற்றிலைக்கேணி - கோரியடிப் பகுதியில் நேற்று இடம்பெற்ற விபத்தில் அபிவிருத்தி உத்தியோகத்தர் ஒருவர் உயிரிழந்துள்ளார்.
 
@@ -512,7 +514,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## கஞ்சாவுடன் குடும்பஸ்தர் கைது
 
-*2024-01-14 06:34:58 - tamilmirrorlk*
+*2024-01-14 06:34:58 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கஞ்சாவுடன்-குடும்பஸ்தர்-கைது/175-331466)*
 
 வவுனியா, புளியங்குளம் பகுதியில் மோட்டர் சைக்கிள் ஒன்றின் இருக்கைக்குள் மறைத்துக் கொண்டு செல்லப்பட்ட கஞ்சாவுடன் குடும்பஸ்தர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
 
@@ -522,7 +524,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ## Jan 1974  World Tamil Conference in Jaffna, Poiice Attack on Public and Civilian Deaths .
 
-*2024-01-14 01:11:00 - dbsjeyarajcom*
+*2024-01-14 01:11:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83424)*
 
 A significant event in the post-independence history of the Sri Lankan Tamils took place fifty years ago on 10 January 1974 in Jaffna. A joyful cultural celebration was marred by the Sri Lankan Police unleashing violence against  Tamil civilans. Ecstasy turned into agony when  the panic-stricken  people ran helter – skelter for safety.  Seven persons died of electrocution  when  electric wires were dislodged  by  Police firing in the air. Another died of a heart attack in the melee. The fiftieth death anniversary of the tragic victims was  commemorated  in Jaffna on Wednesday.(Jan 10).
 
@@ -598,7 +600,7 @@ This Article appears in the “Political Pulse” Column of “Daily FT”dated 
 
 ## The solution for Sri Lanka is to enact a narrowly drafted Anti-Terror Act that does not cause unholy confusion between who is a terrorist and who is not.
 
-*2024-01-14 00:54:00 - dbsjeyarajcom*
+*2024-01-14 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83435)*
 
 When Sri Lanka’s Justice Minister calls upon an opposing parliamentary colleague taking issue with the ‘new’ Anti-Terrorism Bill tabled in Parliament this week, to justify where and in what country, anti-terrorism laws are solely dispensed with, he is missing the wood for the trees to put it mildly.
 
@@ -652,7 +654,7 @@ This Bill will not solve any of those problems. Rather it has the awful potentia
 
 ## Former Badulla MP Chaminda Wijesiri  says what made him resign from Parliament was the sense of betrayal he felt when his own SJB Colleagues Failed to Support him at the Parliamentary Ethics Committee against him
 
-*2024-01-14 00:45:00 - dbsjeyarajcom*
+*2024-01-14 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83432)*
 
 On Parliament’s first sitting day on Tuesday, Badulla District Samagi Jana Balawegaya (SJB) parliamentarian Chaminda Wijesiri, making a shocking announcement, told the House that he chose to resign as the people had rejected all 225 MPs in the present Parliament and that it no longer had the people’s mandate.
 
@@ -682,7 +684,7 @@ Nevertheless, this did not mean that he supported Mr. Premadasa in all his decis
 
 ## ஆற்றில் அடித்துச் செல்லப்பட்ட பல்கலைக்கழக மாணவன்
 
-*2024-01-13 21:37:22 - tamilmirrorlk*
+*2024-01-13 21:37:22 - [tamilmirrorlk](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆற்றில்-அடித்துச்-செல்லப்பட்ட-பல்கலைக்கழக-மாணவன்/73-331453)*
 
 மட்டக்களப்பு - களுவாஞ்சிகுடி பொலிஸ் பிரிவுக்குபட்பட்ட ஓந்தாச்சிமடத்திற்கும் கோட்டைக்கல்லாறு பகுதிக்கும் இடைப்பட்ட ஆற்றில்  இன்று தோணியில் மீன் பிடித்துக் கொண்டிருந்த இளைஞன் ஒருவர் ஆற்றில் அள்ளுண்டுபோய் காணாமல்போயுள்ளார்.
 
@@ -696,7 +698,7 @@ Nevertheless, this did not mean that he supported Mr. Premadasa in all his decis
 
 ## சோழன் உலக சாதனை படைத்த சிறுவனுக்கு கௌரவிப்பு
 
-*2024-01-13 21:28:31 - tamilmirrorlk*
+*2024-01-13 21:28:31 - [tamilmirrorlk](https://www.tamilmirror.lk/மலையகம்/சோழன்-உலக-சாதனை-படைத்த-சிறுவனுக்கு-கௌரவிப்பு/76-331452)*
 
 அதிக ஞாபக திறன் மூலம் சோழன் உலக சாதனை புத்தகத்தில் இடம்பிடித்த மாற்று திறனாளியான மாணவன் பாக்கியராசா முரளிதரனுக்கு கல்வி இராஜங்க அமைச்சர் அருணாச்சம் அரவிந்தகுமார் நேற்று  கல்வி அமைச்சிக்கு அழைத்து பாராட்டி கௌரவித்து பண பரிசில்களை வழங்கி வைத்தார்.
 
@@ -704,7 +706,7 @@ Nevertheless, this did not mean that he supported Mr. Premadasa in all his decis
 
 ## தாயுடன் தொடர்பை பேணியவரால் சிறுமிகள் துஷ்பிரயோகம்
 
-*2024-01-13 17:11:54 - tamilmirrorlk*
+*2024-01-13 17:11:54 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/தாயுடன்-தொடர்பை-பேணியவரால்-சிறுமிகள்-துஷ்பிரயோகம்/175-331451)*
 
 களுத்துறையில் தாயுடன் தொடர்பை பேணிய நபரால் இரு மகள்மார் பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்திய நபர் கைது செய்யப்பட்டுள்ளார்.
 
@@ -722,7 +724,7 @@ Nevertheless, this did not mean that he supported Mr. Premadasa in all his decis
 
 ## பெண் மீது பெற்றோல் ஊற்றி தீ வைத்த நபர் இவர்தான்... உங்களுக்கு தெரியுமா?
 
-*2024-01-13 16:41:11 - tamilmirrorlk*
+*2024-01-13 16:41:11 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பெண்-மீது-பெற்றோல்-ஊற்றி-தீ-வைத்த-நபர்-இவர்தான்-உங்களுக்கு-தெரியுமா/175-331450)*
 
 கொழும்பு - ஆட்டுப்பட்டித்  தெரு பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் கடந்த 10 ஆம் திகதி பெண் ஒருவரை பெற்றோல் ஊற்றி தீ வைத்து கொலை செய்ய முயற்சித்த சந்தேக நபரை அடையாளம் காண்பதற்கு பொலிஸார் பொதுமக்களின் உதவியை நாடியுள்ளனர்.
 
@@ -732,7 +734,7 @@ Nevertheless, this did not mean that he supported Mr. Premadasa in all his decis
 
 ## “118’’ க்கு அழைப்பெடுத்தால் தண்டனை
 
-*2024-01-13 13:26:07 - tamilmirrorlk*
+*2024-01-13 13:26:07 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/118-க்கு-அழைப்பெடுத்தால்-தண்டனை/175-331449)*
 
 பொது மக்கள் பாதுகாப்பு அமைச்சினால் ஸ்தாபிக்கப்பட்ட 118 தொலைபேசி இலக்கத்திற்கு கிடைக்கக்கூடிய தகவல்கள் குறித்து மேலதிக நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர், சிரேஷ்ட பொலிஸ் அத்தியட்சகர் நிஹால் தல்துவ தெரிவித்தார்.
 
@@ -744,7 +746,7 @@ Nevertheless, this did not mean that he supported Mr. Premadasa in all his decis
 
 ## மின்சார சபையின் விசேட அறிவிப்பு
 
-*2024-01-13 13:18:41 - tamilmirrorlk*
+*2024-01-13 13:18:41 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபையின்-விசேட-அறிவிப்பு/175-331448)*
 
 மின்சார கட்டண திருத்த பிரேரணை தொடர்பான தரவுகள் பொது பயன்பாட்டு ஆணைக்குழுவுக்கு (PUCSL) அனுப்பி வைக்கப்பட்டுள்ளது.
 
@@ -758,13 +760,13 @@ Nevertheless, this did not mean that he supported Mr. Premadasa in all his decis
 
 ## மனித உரிமைகளை மலினப்படுத்தும் சர்வதேச நாணய நிதியத்தின் நிபந்தனைகள்
 
-*2024-01-10 19:58:00 - virakesarilk*
+*2024-01-10 19:58:00 - [virakesarilk](https://www.virakesari.lk/article/173640)*
 
 புதுவருடம் பிறந்து இரு வாரங்கள் கடந்துவிட்டன. சம்பிரதாயத்துக்கு வாழ்த்துக்களைக் கூறிக்கொண்டாலும், இந்த வருடத்தைப் போன்று எதிர்காலம் பற்றிய கவலையுடன் இதற்கு  முன்னர் வேறு...
 
 ## Curtin பல்கலைக்கழகத்தின் Capstone செயற்திட்டம் பட்டதாரிகளுக்கு தமது தொழிற்பாதைகளை சிறப்பாக ஆரம்பிக்க ஊக்கமளிக்கிறது
 
-*2024-01-09 13:01:00 - virakesarilk*
+*2024-01-09 13:01:00 - [virakesarilk](https://www.virakesari.lk/article/173501)*
 
 பட்டப்படிப்புக் காலத்தில் அர்த்தமுள்ள ஒரு தொழிற்துறை அனுபவத்தைப் பெற்றுக்கொள்வது, மாணவர்கள் தமது தொழிற்பாதைக்கு சுமூகமாக மாறிக்கொள்வதற்கு ஒரு முக்கிய படியாகும். இத் தேவையை உணர்ந்து Curtin பல்கலைக்கழகம், தமது Capstone Computing Project (CCP) ஊடாக, பட்டப்படிப்பை பின்பற்றுபவர்கள் தெரிவு செய்யப்பட்ட தொழிற்துறைகளில் அர்த்தமுள்ள தொழில் அனுபவத்தைப் பெறுவதற்கும், தொடர்ந்து முன்செல்ல தேவையான திறன்களை வளர்ப்பதற்கும் உத்தரவாதம் அளிக்கிறது.
 
@@ -776,13 +778,13 @@ Curtin Colombo இல் பட்டப்படிப்பை தொடர்
 
 ## இன்னும்  நிரப்பப்படாமல் உள்ள மூன்று இலட்சத்துக்கும் அதிகமான அரச வேலைவாய்ப்புகள்; வயது, தகுதி அடிப்படையில்  காத்திருக்கும் இளைஞர் யுவதிகள்
 
-*2024-01-09 12:00:00 - virakesarilk*
+*2024-01-09 12:00:00 - [virakesarilk](https://www.virakesari.lk/article/173489)*
 
 பல்வேறு காரணங்களுக்காக சுமார் மூன்று இலட்சத்துக்கும் மேற்பட்ட அரச வேலைவாய்ப்புகள் நிரப்பப்படாமலுள்ளதாக தகவல் அறியும் சட்டத்தின் மூலம் தெரியவந்துள்ளது. 2022 ஆம் ஆண்டின் இறுதி வரை இந்த வெற்றிடங்கள் நிரப்பப்படுவதற்கு எந்தவித நடவடிக்கைகளையும் பொதுநிர்வாக உள்நாட்டலுவல்கள் அமைச்சு எடுக்கவில்லை.  இது தொடர்பில் அமைச்சரைவையின் மூலம் நியமிக்கப்பட்ட விசேட குழுவுக்கு என்ன நடந்தது என்பதும் தெரியவில்லை. அமைச்சுக்கள் ,திணைக்களங்கள்,முப்படைகள், மாகாண சபைகள் அரசாங்கத்துக்கு சொந்தமான நிறுவனங்களில் அங்கீகரிக்கப்பட்ட ஆளணி ஒதுக்கீடுகளாக ( Approved Cadre) 17,15,417 வேலை வாய்ப்புகள் உள்ளன. இந்த எண்ணிக்கையில் தற்போது பணி புரிபவர்களின் எண்ணிக்கை 13,93,883 ஆகும். நிரப்பப்படாமலிருக்கும் வெற்றிடங்களாக 321, 534 உள்ளன. இந்த தகவல்களை முகாமைத்துவ சேவைகள் திணைக்களம் தெரிவித்துள்ளது.
 
 ## Whither the “Ilankaith Thamizhar” (Lankan Tamils) of Sri Lanka?
 
-*2024-01-09 03:33:00 - dbsjeyarajcom*
+*2024-01-09 03:33:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83418)*
 
 The ringing in of a new year is a time for reflection,re-appraisal and renewal. The year 2024 marks the 94th anniversary of universal franchise and the 76th anniversary of Independence from Britain for the Island nation. 2024 also marks the 15th anniversary of the end of its three decade long “civil” war.
 
@@ -862,7 +864,7 @@ This article appears in the “DBS Jeyaraj Column”Of the “Daily Mirror”dat
 
 ## How Former  LTTE  Deputy Leader  Gopalaswamy Mahendrarajah alias “Mahathaya” was Arrested  on 3 August 1993 and Executed on 28 December 1994.
 
-*2024-01-08 18:18:00 - dbsjeyarajcom*
+*2024-01-08 18:18:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83402)*
 
 The  Liberation Tigers of Tamil  Eelam(LTTE) had for long enjoyed the reputation of being a cohesive ,monolithic organization.Whatever the differences within the LTTE, the Tigers, to their credit, were able to project to the outsider a picture of impregnable unity. Despite the rumblings of discontent that have arisen at various times within the LTTE, those sounds were never permitted to reach external ears.
 
@@ -948,7 +950,7 @@ This article appears in the “Political Pulse” Column of the “Daily FT”da
 
 ## Lasantha’s  “Sunday Leader”’ was a long and sustained “Aragalaya”  against Racism,Nepotism and Corruption and the newspaper was an early warning system coupled with a call to action.
 
-*2024-01-08 18:00:00 - dbsjeyarajcom*
+*2024-01-08 18:00:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83412)*
 
 (Text of message delivered at Lasantha Wickrematunge’s Grave, Borella on 8 January 2024)
 
@@ -1018,7 +1020,7 @@ Be outraged. Do that one small thing to improve things. Let us break the silence
 
 ## An unholy nexus between police abusers and politicians is very much out in the open, in the highly mis-titled ‘Yukthiya’ (‘Justice’) operation spearheaded by Public Security Minister Tiran Alles and Acting IGP Deshabandu Tennekoon.
 
-*2024-01-07 00:45:00 - dbsjeyarajcom*
+*2024-01-07 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83407)*
 
 Whether in regard to war crimes, gross corruption or economic white collar crimes, unearthing accountability in Sri Lanka is somewhat akin to peeling away multiple layers of a rotten onion. First, the stench overwhelms you. Secondly, each layer is correspondingly more decayed than the previous. Finally, one is left with the core which is but a revolting mass of pulpy nothingness, to be consigned to the dustbin.
 
@@ -1072,7 +1074,7 @@ At least, the state coffers will not be deprived of scarce resources diverted to
 
 ## Gruesome Killing of Five Tamil Students in Trinco Town: Emblematic Case of Impunity
 
-*2024-01-05 00:54:00 - dbsjeyarajcom*
+*2024-01-05 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=75623)*
 
 (This article written in January 2022  is re-posted  here without changes to mark the 18th anniversary of the gruesome killings)
 
@@ -1132,7 +1134,7 @@ This article written for the “Political Pulse” Column appears in the “Dail
 
 ## The  Tragic Plight of Lionair 602  Flight 25 Years ago.
 
-*2024-01-03 18:18:00 - dbsjeyarajcom*
+*2024-01-03 18:18:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83374)*
 
 When the Tigers Shot Down the Lionair Flight 602 in the Mannar Sea-PART TWO
 
@@ -1210,7 +1212,7 @@ This article appears in the “DBS Jeyaraj Column” of the “Daily Mirror”Da
 
 ## It is unfortunate that Sri Lankan Tamil politics is increasingly becoming a laughing stock! Is there a Tamil leader today who commands  wide acceptance among the Tamil people in both the Northern and Eastern provinces?
 
-*2024-01-03 18:00:00 - dbsjeyarajcom*
+*2024-01-03 18:00:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83388)*
 
 Sri Lanka has seen eight Presidential elections after the introduction of Executive  Presidency in 1978.  But no previous election has been hyped like the upcoming Presidential election months before it is due to be held.
 
@@ -1272,7 +1274,7 @@ Leaders of the Tamil political parties who do not know how to effectively move t
 
 ## Graveside memorial service to mark 15th anniversary of Lasantha’s assassination – On Monday 8 January 9 a.m. at Borella Kanatte
 
-*2024-01-03 18:00:00 - dbsjeyarajcom*
+*2024-01-03 18:00:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83392)*
 
 The 15th anniversary of the assassination of The Sunday Leader founder Editor-in-Chief Lasantha Wickrematunge, which falls on Monday, 8 January, will be marked with a service at his graveside.
 
@@ -1286,7 +1288,7 @@ The investigation into Lasantha’s murder has yielded no tangible results thus 
 
 ## Ranil Wickremesinghe was more correct than his opponents when he opted for direct taxation to raise revenue; by returning to the seemingly easy path of hiking indirect taxes, he has regressed to the economic-policy-levels of those who seek to replace him.
 
-*2024-01-02 18:09:00 - dbsjeyarajcom*
+*2024-01-02 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83366)*
 
 “We talk about Tiananmen Square being all about democracy; it was because they had runaway inflation. The French Revolution wasn’t about liberté, fraternité, egalité, it was about rampant food price inflation” – Albert Edwards (Societe Generale: Global Strategy Alternative View)
 
@@ -1372,7 +1374,7 @@ Unlike in China Mievelle’s cities, the habit of unseeing is one-sided. The upp
 
 ## When the Tigers Shot Down the Lionair Flight  602 in the Mannar Sea.
 
-*2024-01-02 00:45:00 - dbsjeyarajcom*
+*2024-01-02 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83348)*
 
 Twenty-five years ago an Antonov 24 aircraft  carrying fifty-five  civilians  from Jaffna to Colombo was shot down over the Gulf of Mannar  by the Liberation Tigers of Tamil Eelam (LTTE)  on  29 September 1998. The  LTTE known as tigers  was then at war with the Sri Lankan armed forces. Of the fifty- five on board forty-eight  were passengers  and seven crew. All the 48  passengers were Tamil. The  4 -member cockpit  crew were Ukrainian nationals while the 3  cabin crew were Sinhalese.
 
@@ -1440,7 +1442,7 @@ This Article appears in the “DBS Jeyaraj Column “Of the “Daily Mirror”da
 
 ## Sri Lanka’s First Muslim Chief Minister  Najeeb Abdul  Majeed.
 
-*2023-12-31 18:09:00 - dbsjeyarajcom*
+*2023-12-31 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83352)*
 
 Mohammed Najeeb Abdul Majeed created history eleven  years ago when he was sworn in as the  Chief minister of the  Eastern province on 18 September 2012 by the then President Mahinda Rajapaksa. Najeeb Abdul Majeed known popularly as Najeeb achieved  two significant  “firsts” then . Not only did he become   the first Muslim chief minister of the Eastern Province but more importantly Najeeb also gained the honour of being Sri Lanka’s first ever Muslim chief minister.
 
@@ -1526,7 +1528,7 @@ This Article appears n the “political Pulse”Column of the “Daily FT “dat
 
 ## Deshabandu Tennekoon along with Tiran Alles and Sagala Ratnayake presides over a media parade, ironically titled ‘Yukthiya’ (Justice) in catching ‘sprats’ of the drug underworld while their political and police Godfathers escape the net.
 
-*2023-12-31 18:00:00 - dbsjeyarajcom*
+*2023-12-31 18:00:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83358)*
 
 As Sri Lanka’s newest Bribery Commission cracks its shell with more than a smidgen of difficulty in the backdrop of ugly strain between its metaphorical parents, the Constitutional Council and President Ranil Wickremesinghe, circumstances can hardly be less propitious for this fledgling creature to survive, let alone thrive.
 
@@ -1570,7 +1572,7 @@ Not Justice, only inequality and inequity beckons in the nemesis of a New Year.
 
 ## Five of my Favourite  Christmas Carols – How they Originated and Became Widely Popular
 
-*2023-12-28 00:54:00 - dbsjeyarajcom*
+*2023-12-28 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=27241)*
 
 MERRY CHRISTMAS EVERY ONE! COMPLIMENTS OF THE SEASON TO ALL!
 
@@ -1622,7 +1624,7 @@ Nativity scene at St Augustine’s church, South Brunswick, NJ, 2018 💒
 
 ## Popular  Tamil Cinema Actor  and DMDK  Party Founder -Leader  Vijayakanth Known as ‘Captain’  and “Black MGR” passes away at the age of 71.
 
-*2023-12-28 00:45:00 - dbsjeyarajcom*
+*2023-12-28 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83344)*
 
 Tamil super star and Desiya Murpokku Dravida Kazhagam (DMDK) founder Vijayakanth, fondly called as ‘Captain’, passed away at a private hospital in Chennai on Thursday after a prolonged illness. He was 71.
 
@@ -1660,7 +1662,7 @@ In addition to his cinematic achievements, Vijayakanth was honoured with the Kal
 
 ## Patali Champika Ranawaka wants  the  Inland Revenue Department (IRD) to conduct a proper inquiry into the allegatiion against   Public Security Minister Tiran Alles  by the International Consortium of Investigative Journalists (ICIJ) that he has offshore holdings, identified by Pandora Papers.
 
-*2023-12-24 17:09:00 - dbsjeyarajcom*
+*2023-12-24 17:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83335)*
 
 Eksath Janaraja Peremuna leader and SJB MP Patali Champika Ranawaka has said that Public Security Minister Tiran Alles could resort to legal action if there was no basis for the recent declaration by the International Consortium of Investigative Journalists (ICIJ) that he has offshore holdings, identified by Pandora Papers.
 
@@ -1688,7 +1690,7 @@ Referring to ‘Mathata Thitha,’ conducted during Mahinda Rajapaksa’s tenure
 
 ## தமிழரசுக்கட்சியின் தலைமைப் பதவிக்கு மும்முனைப் போட்டி: களத்தில் சுமந்திரன், சிறிதரன், யோகேஸ்வரன்
 
-*2023-12-23 02:22:00 - dbsjeyarajcom*
+*2023-12-23 02:22:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83316)*
 
 (This is a  Tamil Translation of the English article headlined “fSumanthiran , Shritharan and Yoheswaran in Triangular Contest to Become Ilankai Thamil Arasuk Latchi (ITAK)President.)
 
@@ -1770,7 +1772,7 @@ Referring to ‘Mathata Thitha,’ conducted during Mahinda Rajapaksa’s tenure
 
 ## Kandy-born MG Ramachandran (MGR) was Uncrowned King of Tamil Cinema   and Chief Minister of Tamil Nadu State
 
-*2023-12-23 01:11:00 - dbsjeyarajcom*
+*2023-12-23 01:11:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83330)*
 
 Maruthur Gopalan Ramachandran known popularly as  MGR ruled  Tamil movidom for three decades until becoming Chief Minister of India’s Tamil Nadu State in 1977. MGR served as chief minister (CM) for ten years until his demise in 1987. His 36th death anniversary will be commemorated this week on December 24.
 
@@ -1844,7 +1846,7 @@ The MGR phenomenon was no doubt unique, and his mystique continues its hold over
 
 ## Anura Kumara  Dissanayake ’s national liberation movement and the Tamil National question
 
-*2023-12-23 00:54:00 - dbsjeyarajcom*
+*2023-12-23 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83328)*
 
 National People’s Power (NPP) Leader Anura Kumara Dissanayake (AKD) is at present intensely focused on the need for a national liberation movement. According to him, when looking at the social, political, and economic realities of Sri Lanka, it is clear that what is needed today is social change; what is needed for the system change that people yearn for is not a political party, but a national liberation movement.
 
@@ -1912,7 +1914,7 @@ Dissanayake should present himself as a leader who can bring about considerable 
 
 ## Catholic Church in Sri Lank Publicly  Accuses Public Security Minister Tiran Alles of Uttering Lies; “We urge Minister Tiran Alles to refrain from spreading such falsehoods” states  Fr. Jude Chrysantha Director of the  Colombo Archdiocesan Commission for Social Communications
 
-*2023-12-23 00:45:00 - dbsjeyarajcom*
+*2023-12-23 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83323)*
 
 Rev. Fr. Jude Chrysantha has accused Public Security Minister Tiran Alles of making false accusations regarding an alleged appeal made to the Acting Inspector General of Police (IGP) on behalf of Fr. Cyril Gamini after a road accident.
 
@@ -1928,7 +1930,7 @@ Fr. Jude Chrysantha further pointed out that the Cardinal too, remains baffled a
 
 ## The dehumanising of non-Buddhists by the Mahawamsa is the tribal counterpoint to the Buddha’s universalist teaching. Though Sinhala-Buddhist children memorise that Dhammapada stanza, it is the Mahawamsa attitude that guides their lives.
 
-*2023-12-22 00:54:00 - dbsjeyarajcom*
+*2023-12-22 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83312)*
 
 Ain’t even been planted yet.” June Jordan (Calling on all minorities)
 
@@ -1980,7 +1982,7 @@ In Sri Lanka, racist and religious fears were and are used to hack away at broad
 
 ## One cannot deny Ranil Wickremesinghe  the credit for lifting Sri Lanka from its worst-ever economic crisis. Ranil’s  feat would loom large over peers in similar predicaments from Argentina to Lebanon.
 
-*2023-12-20 15:07:00 - dbsjeyarajcom*
+*2023-12-20 15:07:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83304)*
 
 Sri Lankan economy expanded by 1.6 per cent in the third quarter of this year, slowly emerging from one and half years of contraction. With the service sector picking up and manufacturing showing a seasonal hike, the fourth quarter may log 7-8 per cent growth, partially compensating for the first two quarters of negative growth. The momentum is finally here, though given the extent of the economic rout in the first half, the economic growth of 2024 would be negative.
 
@@ -2040,7 +2042,7 @@ But in the election platforms, you wouldn’t hear that. Instead, much of the di
 
 ## The SLPP which I lead is a part of the government. However the present Head of the Government and Head of State is the leader of a different political party with different policies. At this moment, the primary duty of the SLPP is to ensure a stable government until the next national elections. ‘ –Mahinda  Rajapaksa
 
-*2023-12-20 14:41:00 - dbsjeyarajcom*
+*2023-12-20 14:41:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83302)*
 
 (Text of  Media Release Issued by the Sri Lanka Podujana Peramuna (SLPP) on 20 December 2023 under the heading “Reducing the Tax Burden”)
 
@@ -2074,7 +2076,7 @@ Whatever decision the people make at the next elections should be based on ratio
 
 ## “Operation Leader’s Daughter”: The Attempted Fraud Using a False Thuvaraka Prabhakaran.
 
-*2023-12-20 03:33:00 - dbsjeyarajcom*
+*2023-12-20 03:33:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83261)*
 
 Liberation Tigers of Tamil Eelam (LTTE) leader Veluppillai Prabhakaran,his spouse Madhivadhani Erambu. Daughter Thuvaraka  and sons Charles Anthony and Balachandran along with thousands of other Tamils died  in the final phase of the armed conflict at Mullivaaikkaal in the Karaithuriaipattru AGA division of Mullaitheevu district in May 2009.
 
@@ -2160,7 +2162,7 @@ This Article appears in the “Political Pulse”Column of the “Daily FT”dat
 
 ## Sumanthiran , Shritharan  and Yoheswaran in  Triangular Contest to Become   Ilankai Thamil Arasuk Latchi (ITAK)President..
 
-*2023-12-18 00:54:00 - dbsjeyarajcom*
+*2023-12-18 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83292)*
 
 The Ilankai Thamil Arasuk Katchi (ITAK) known in English as the Federal Party (FP) is the premier political party of the Northern and Eastern Sri Lankan Tamils.The ITAK/FP was formed on 18 December 1949. The  75th birth anniversary of ITAK  will be celebrated next year.
 
@@ -2230,7 +2232,7 @@ This is an updated version of the “DBS  Jeyaraj Column” appearing in the “
 
 ## How the Overseas LTTE Raised Funds From the Tamil Diaspora.
 
-*2023-12-18 00:45:00 - dbsjeyarajcom*
+*2023-12-18 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83284)*
 
 Readers have evinced a lot of  interest in the  contents of the first part of this article published last week. This  article’s focus   on the fraudulent attempt to promote an impostor as  Thuvaraka the daughter  of Liberation Tigers of Tamil  Eelam (LTTE) leader Veluppillai Prabhakaran has  evoked much response from readers. The feedback I have been getting is basically of two types.
 
@@ -2310,7 +2312,7 @@ This article appears in the “Political Pulse”Column of “Daily FT” dated 
 
 ## Acting IGP Deshabandu Tennekoon, along with subordinates had violated the law in arresting an ex-soldier for alleged implication in several thefts, thereafter unlawfully detaining and torturing him during 15th -22nd December 2010. States Supre Court Ruling
 
-*2023-12-17 00:54:00 - dbsjeyarajcom*
+*2023-12-17 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83288)*
 
 In another dubious record for Sri Lanka’s paralyzed criminal justice system, the Acting Inspector General of Police (IGP) who had assumed his post recently trailing clouds of controversy regarding his professional conduct, has been held directly responsible by the Supreme Court for violation of Article 11 of the Constitution (freedom from torture and cruel, inhumane and degrading treatment).
 
@@ -2352,7 +2354,7 @@ And we will – along with the Court – helplessly if not hopelessly continue t
 
 ## Anton  Stanislaus Balasingham alias “Bala  Annai” :  An  Up , Close and Personal.  Account.
 
-*2023-12-13 18:18:00 - dbsjeyarajcom*
+*2023-12-13 18:18:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83277)*
 
 The Liberation Tigers of Tamil Eelam (LTTE) ‘Arasiyal Madhiuraignar’ (Political Adviser) Anton Stanislaus Balasingham passed away seventeen  years ago at his South London residence on 14 December 2006.Bala ‘Annai’ (elder brother) as he was generally known among Tamils died of cancer at the age of 68 years. The funeral was held at the Alexandra Palace in London on 20 December 2006. LTTE supremo Veluppillai Prabhakaran conferred the title ‘Thesathin Kural’ (Voice of the Nation) upon Tiger ideologue and political strategist posthumously.
 
@@ -2442,7 +2444,7 @@ th death anniversary of Anton Balasingham draws near on 14 December.
 
 ## “Our appeal to people of the north is not ‘please join us, we will fulfil your needs’. We are appealing to them, to be part of this movement to defeat this corrupt ruling clique. We are saying let us unite, rebuild this country, and fulfil the requirements of the all the communities together” – JVP Leader Anura Kumara Dissanayake
 
-*2023-12-11 01:11:00 - dbsjeyarajcom*
+*2023-12-11 01:11:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83270)*
 
 As Sri Lanka tries to rebuild its battered economy after last year’s devastating crisis, the country’s political scene is gradually heating up, in the run up to two national elections scheduled next year — parliamentary and presidential — that will give citizens their first chance to vote, after they dislodged the Rajapaksas from power in 2022. The National People’s Power [NPP] alliance, led by the leftist Janatha Vimukthi Peramuna (JVP or People’s Liberation Front) is drawing attention, with its leader Anura Kumara Dissanayake topping opinion polls as the people’s preferred choice for President. In a wide-ranging interview, the 55-year-old parliamentarian from Colombo spoke to The Hindu at the JVP’s headquarters and laid out what he has to offer.
 
@@ -2542,7 +2544,7 @@ The party is not built on one person or one leader. We are a collective movement
 
 ## The signal focus of MP’s  during the budget debates should be as to how Sri Lanka’s ‘recovery’ from bankruptcy can be ‘engineered’ to shield the most vulnerable segments of the populace from literal starvation.
 
-*2023-12-09 18:09:00 - dbsjeyarajcom*
+*2023-12-09 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83265)*
 
 Parliamentarians draping shawls supposedly in sympathy for the plight of the people of Gaza while deaf, dumb and blind to the fate of their own constituents and exchanging tiringly customary allegations across the floor of the House as to who is ‘more corrupt’ and ‘who is more communalist’ underlines the growing irrelevance of Sri Lanka’s Parliament in the public perception.
 
@@ -2594,7 +2596,7 @@ ope that pigs will fly, as the simple though inelegant saying goes.
 
 ## A Dysfunctional Government Brings Out a Controversial Acting Top Cop
 
-*2023-12-09 18:00:00 - dbsjeyarajcom*
+*2023-12-09 18:00:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83267)*
 
 The deep shadow of conspiracy that allegedly created the conditions for Gotabaya Rajapaksa to become President through the Easter Sunday massacre continues to darken many aspects of Sri Lankan life.
 
@@ -2650,7 +2652,7 @@ For the Rajapaksa led SLPP, which is on the back foot going into the hustings, a
 
 ## “Nadigaiyar Thilagam “( Doyenne of Actresses) Savitri.; The Rise and Fall  of a Great Actress.
 
-*2023-12-08 03:33:00 - dbsjeyarajcom*
+*2023-12-08 03:33:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83244)*
 
 Yesteryear Actress Nissankara .Savitri was  at one time regarded as the greatest actress to adorn the Tamil silver screen. She was hailed then as   “Nadigaiyar Thilagam “( Doyenne of Actresses) in Tamil and “Mahanati” (Great Actress) in Telugu. Savitri was born on 6 December 1934. This article therefore  is to denote her 89th Birth anniversary .
 
@@ -2728,7 +2730,7 @@ Her estranged husband Gemini returned to her bedside and looked after most of he
 
 ## A Voice for Palestine: How M.A.  Nuhman’s translations of poems on the Palestinian cause have resonated with Sri Lankan Tamils Fighting State Oppression
 
-*2023-12-08 01:11:00 - dbsjeyarajcom*
+*2023-12-08 01:11:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83257)*
 
 Lankan poet and linguist M.A. Nuhman is deeply pained by the bloodshed and mass killings that ravage Gaza, sparing no one — not even infants.
 
@@ -2768,7 +2770,7 @@ That has been his position all through. When everything is political, his poetry
 
 ## In Sri Lanka, saffron is the new colour of impunity. There’s very little a man cannot get away with, from slapstick comic to violently dangerous, if he happens to wear a yellow robe. Monks are not just above the law; they have a law unto themselves. Often, they are the law.
 
-*2023-12-08 00:54:00 - dbsjeyarajcom*
+*2023-12-08 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83251)*
 
 In the grand scheme of things, a monk and a quack draping a robe on a Buddha statue may seem silly, at most. Even if the statue is a 1,500-year-old work of art. Sri Lanka, contrary to President Wickremesinghe’s assertions, is still teetering on the rotten-bridge, a bankrupt country with fractious leaders and no good options. What does one act of vandalism matter?
 
@@ -2824,7 +2826,7 @@ Irrespective who wins the upcoming elections, political monks and Sinhala-Buddhi
 
 ## Kissinger was the last great Realist thinker-practitioner in the fields of foreign policy and diplomacy. Viewed from the standpoint of ethics and morality, his crimes outweighed his constructive contribution, but from a Realist perspective, the evaluation is the reverse.
 
-*2023-12-08 00:45:00 - dbsjeyarajcom*
+*2023-12-08 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83255)*
 
 The responses to Henry Kissinger’s death at 100, proves that if a person’s contribution to his/her field is sufficiently significant, he or she will, on balance, be regarded positively as having made a lasting mark within that field, whatever the horrors he/she may have been responsible for along the way. Kissinger was the last great Realist thinker-practitioner in the fields of foreign policy and diplomacy. Viewed from the standpoint of ethics and morality, his crimes outweighed his constructive contribution, but from a Realist perspective, the evaluation is the reverse.
 
@@ -2870,7 +2872,7 @@ It is as a thinker-practitioner, who late in life assumed sage-like status, disp
 
 ## Alluring actress turned powerful politico Jayalalithaa Jayaram reigned as the  uncrowned Queen of Tamil cinema for a Decade
 
-*2023-12-05 18:18:00 - dbsjeyarajcom*
+*2023-12-05 18:18:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83233)*
 
 Alluring actress turned powerful politico Jayalalithaa Jayaram passed away at the Apollo Hospital in Chennai on 5 December 2016. Her condition had been pronounced grave after being admitted to the Intensive Care Unit following a cardiac seizure on Dec 4. Her Demise seven years ago  caused a void in the politics of India’s Tamil Nadu  state that is yet to be filled adequately.
 
@@ -2954,7 +2956,7 @@ Jayalalithaa at 43 was the youngest-ever Chief Minister to assume office in 1991
 
 ## The JVP does  not have the right ideological inclination and intellectual sophistication to lift the country out of the economic crisis. It might make things worse and cause Gotabaya’s destruction of the economy to look like child’s play
 
-*2023-12-05 18:09:00 - dbsjeyarajcom*
+*2023-12-05 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83238)*
 
 Two weeks back, crisis-hit Argentina elected a far-right outsider as the President, ending nearly eight decades of dominance of the mainstream right and left in the politics of South America’s second-largest economy. President-elect Javier Milei, a libertarian and a media showman, rode on a wave of public anger at the political establishment, as inflation hit triple- digit levels and the country was stuck in yet another sovereign debt crisis.
 
@@ -3004,7 +3006,7 @@ The JVP shows no commitment to economic liberalization, nor does it have the rig
 
 ## Gamini “Gamma”Weerakoon: From Reporter to Editor.
 
-*2023-12-02 03:33:00 - dbsjeyarajcom*
+*2023-12-02 03:33:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83139)*
 
 William  Shakespeare wrote in his play “Julius  Caesar” thus – “His life was gentle, and the elements So mixed in him that Nature might stand up And say to all the world, This was a man.” . Much hackneyed as they may be , these enduring words of the Bard of Avon aptly describe veteran journalist Gamini Weerakoon who breathed his last on 11 November 2023.His funeral was held at Kanatte on Sunday Nov 12.
 
@@ -3074,7 +3076,7 @@ This article appears in the “DBS Jeyaraj Column “of the “Daily Mirror”da
 
 ## Little-known Facts About Legendary LTTE Leader Veluppillai Prabhakaran
 
-*2023-12-02 01:11:00 - dbsjeyarajcom*
+*2023-12-02 01:11:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83195)*
 
 Liberation Tigers of Tamil Eleam (LTTE) leader Veluppillai Prabhakaran was born on 26 November 1954. If he were among the living, Prabhakaran would be celebrating his 69th Birth Anniversary today (Nov 26). This article intends focusing on the life and times of the man who determined the politico-military course of the island nation for many years.
 
@@ -3188,7 +3190,7 @@ Prabhakaran and his family were killed during the final phase of the war in May 
 
 ## The mood on the street is clearly ugly and  turning towards an even more deep-seated rejection of the ruling political establishment beyond the ‘Aragalaya’ (protest) of last year. Then, it was spontaneous anger combined with an idealistic demand to ‘send the crooks home. What is surfacing now is deadlier and vastly unpredictable in form.
 
-*2023-12-02 00:45:00 - dbsjeyarajcom*
+*2023-12-02 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83230)*
 
 Weeks after the November 14th decision of the Supreme Court with the majority holding gross failures in fiscal and monetary discipline by the Rajapaksa-led regime from 2019-2022 had comprised an extraordinary breach of the Public Trust triggering Sri Lanka’s bankruptcy, it does not seem that political leaders or their cheering squads have learnt important lessons reflected therein.
 
@@ -3242,7 +3244,7 @@ Certainly that critical public focus would be more constructive (albeit require 
 
 ## The  Persecution of Mohammed  Ramzy for writing a Facebook post urging Muslims to counter alleged racist attacks against their community through an “ideological jihad” (struggle) using the “pen and keyboard.”
 
-*2023-12-02 00:36:00 - dbsjeyarajcom*
+*2023-12-02 00:36:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83227)*
 
 In April 2020, the Criminal Investigation Department (CID) arrested Mohamed Razeek Mohamed Ramzy at his home in Katugastota for violating the International Covenant on Civil and Political Rights (ICCPR), among other charges.
 
@@ -3298,7 +3300,7 @@ Have his experiences made him afraid to be vocal? “I will keep doing my part,�
 
 ## Recent Arrest of 10 Persons by Sri Lankan  Police Under the “Draconian” Preventionof Terrorism Act  Sparks Concern among Tamil MPs, Human rights activist and International Agencies Including UN.
 
-*2023-12-01 21:51:00 - dbsjeyarajcom*
+*2023-12-01 21:51:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83224)*
 
 Recent arrests made by Sri Lanka police using a controversial anti-terrorism law, whose repeal remains a key demand of rights defenders in the island nation, has sparked concern among Tamil legislators, activists, and international agencies including the UN.
 
@@ -3324,7 +3326,7 @@ Colombo-based missions of the United States, United Kingdom, European Union and 
 
 ## Many see Henry  Kissinger  as the arch-exponent of an amoral realism that tarnishes America.More disturbingly, he was willing to see tens of thousands of people killed if he thought that the national interest demanded it.
 
-*2023-11-30 00:54:00 - dbsjeyarajcom*
+*2023-11-30 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83217)*
 
 For someone who promoted his own views so tirelessly, Henry Kissinger was surprisingly misunderstood. Many see him as the arch-exponent of an amoral realism that tarnishes America. Sure enough, like any diplomat, he lied for his country (and occasionally himself). More disturbingly, he was willing to see tens of thousands of people killed if he thought that the national interest demanded it. Yet what distinguishes Mr Kissinger, who died this week aged 100, was not only his realpolitik, but the fact that his practice of diplomacy was also shot through with idealism. It is a style that still holds valuable lessons today.
 
@@ -3344,7 +3346,7 @@ In other ways, too, Kissingerian diplomacy is harder now than when he was shuttl
 
 ## Henry Kissinger’s  style was to work outside the official machinery of the State Department and the foreign service, which he thought had sapped American diplomacy of its vigour and creativity.
 
-*2023-11-30 00:45:00 - dbsjeyarajcom*
+*2023-11-30 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83211)*
 
 Early in june 1970, soon after America had invaded Cambodia, Henry Kissinger secretly visited Brian McDonnell, a 27-year-old peacenik he had spotted in Lafayette Park opposite the White House. It was one of his many efforts that year to persuade his younger critics that they should give war a chance.
 
@@ -3384,7 +3386,7 @@ In his late 90s he collaborated on books about the qualities of leadership and a
 
 ## President Ranil Wickremesinghe is a Colombo. Resident. Before Making Colombo an “Entertainment Hub”,he should be aware of the numerous issues that not only the residents of the city face but also thousands who come to the city every day.
 
-*2023-11-30 00:25:00 - dbsjeyarajcom*
+*2023-11-30 00:25:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83204)*
 
 (Text of Editorial appearing in the “Daily FT”dated 30 November 2023  under the heading “Get basics right first in Colombo city before envisioning  entertainment hub)
 
@@ -3410,7 +3412,7 @@ While entertainment hubs sound good, it’s a better idea to start with a proper
 
 ## US Justice Dept Files Indictment against Indian National Nikhil Gupta  Over Alleged Conspiracy to Assassinate US Citizen Gurpatwant Singh Pannun; Senior  Indian Intellige Official Suspected of Masterminding Plot to kill Sikh Activist Pannu on US Soil
 
-*2023-11-29 00:54:00 - dbsjeyarajcom*
+*2023-11-29 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83201)*
 
 India has set up a “high-level” enquiry committee to look into allegations made by the United States government regarding an Indian plot targeting Gurpatwant Singh Pannun, a U.S.-based Khalistani activist wanted on terror charges, the Ministry of External Affairs (MEA) announced here on Wednesday.
 
@@ -3452,7 +3454,7 @@ In an interview to Canadian TV this week, High Commissioner Sanjay Kumar Verma a
 
 ## Sri Lanka has reached an “agreement in principle” with India and the Paris Club group of creditors including Japan, on a debt treatment plan; Lenders  ‘expect’ transparency from ‘other bilateral creditors’ alluding to China
 
-*2023-11-29 00:45:00 - dbsjeyarajcom*
+*2023-11-29 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83199)*
 
 Sri Lanka has reached an “agreement in principle” with India and the Paris Club group of creditors including Japan, on a debt treatment plan that will help the crisis-hit island nation tap the next tranche of the International Monetary Fund’s nearly-$3 billion recovery package.
 
@@ -3472,7 +3474,7 @@ China has assured Sri Lanka of cooperation in y:the debt restructuring process a
 
 ## President Wickremesinghe characterised the Constitutional Council (CC) as being ‘part of the executive’. Undeniably, the CC was established to check executive power and  not to act as an executive appendage.
 
-*2023-11-25 18:09:00 - dbsjeyarajcom*
+*2023-11-25 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83190)*
 
 President Ranil Wickremesinghe’s highly inappropriate jocularity in Parliament this week when commenting about the ‘Public Trust’ Doctrine only reinforces the (unfortunately) pejorative stamp of his Presidency as undermining the Constitution.
 
@@ -3534,7 +3536,7 @@ This sort of devilry in the House is to the detriment of the country, the people
 
 ## The  Birth and Growth of the “Maaveerar Naal” (Great Heroes Day) Event.
 
-*2023-11-25 18:09:00 - dbsjeyarajcom*
+*2023-11-25 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83174)*
 
 November 27, 1989, was the day on which the Liberation Tigers of Tamil Eelam (LTTE) first observed its annual “Maaveerar Naal” or Great Heroes Day (GHD).   The event continues to be observed in Sri Lanka and  by sections of the Global Tamil Diaspora despite the military debacle suffered by the LTTE in May 2009. The event has lost much of its lustre after the demise of Tiger supremo Veluppillai Prabhakaran.These are days of decline when compared to the manner in which Great heroes day was observed when the LTTE ruled the roost. Nevertheless, commemorating the fallen Tigers as great heroes annually remains an enduring Tiger legacy despite the LTTE being militarily decimated in Sri Lanka.
 
@@ -3626,7 +3628,7 @@ November 27, therefore, remains an important date in the politics of mourning in
 
 ## “Former President Mahinda Rajapakse,must resign, if he has any semblance of a sense of dignity, and if he respects rule of law, if he respects democracy, he must promptly resign from Parliament  and accept responsibility.”- MA Sumanthiran MP
 
-*2023-11-23 18:00:00 - dbsjeyarajcom*
+*2023-11-23 18:00:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83168)*
 
 (Text of Speech made by Jaffna District Parliamentarian MA Sumanthiran  in Parliament on 22.11.2023)
 
@@ -3672,7 +3674,7 @@ His Excellency the President Ranil Wickramasinghe, I remember in 2015 at the bud
 
 ## Sri Lankan military is Sri Lankan in name only. In reality, it is a Sinhala-Buddhist military wedded to Sinhala-Buddhist interests. An anomaly in a demographically pluralist land and a dangerous one.
 
-*2023-11-22 16:24:00 - dbsjeyarajcom*
+*2023-11-22 16:24:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83163)*
 
 “It is apparent that the continued inaction to reintroduce and/or to raise taxes, and regain the government revenue that was lost, brought about an adverse impact on the economy which had a domino effect on the entire social fabric.” Supreme Court of Sri Lanka
 
@@ -3750,7 +3752,7 @@ But that possibility never materialised. Voting is still approached like an emot
 
 ## Supreme Court ruling has opened a window for any Sri Lankan to seek compensation from the Rajapaksas for economic, physical and psychological distress they had been subjected to due to the economic crisis.
 
-*2023-11-21 18:09:00 - dbsjeyarajcom*
+*2023-11-21 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83159)*
 
 Last week, the Supreme Court ruled that the three Rajapaksa brothers and a cabal of officials were responsible for the economic crisis, delivering an unprecedented judgement that could  be the precursor to Sri Lanka’s long march for justice.
 

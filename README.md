@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 00:28:01**
+As of **2024-01-16 01:27:45**
 
 ## Newspaper Stats
 
@@ -8,13 +8,17 @@ As of **2024-01-16 00:28:01**
 
 * colombotelegraphcom: 20
 
-* newsfirstlk: 25
+* bbccomsinhala: 24
 
 * adaderanalk: 26
+
+* newsfirstlk: 27
 
 * islandlk: 28
 
 * tamilmirrorlk: 34
+
+* economynextcom: 39
 
 * dailyftlk: 90
 
@@ -22,9 +26,45 @@ As of **2024-01-16 00:28:01**
 
 * dbsjeyarajcom: 111
 
-* **Total**: **446**
+* **Total**: **511**
 
 ## Latest Articles (100)
+
+### BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
+
+*2024-01-15 21:40:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/breaking-red-sea-crisis-heats-up-as-houthi-missile-hits-us-cargo-ship/)*
+
+Colombo (News 1st) – Tensions rose further in the Middle East as a Houthi missile fired from Yemen hit a U.S.-owned cargo ship in the Red Sea late Monday (15th), raising the possibility of more U.S. military strikes on Yemen in response, foreign media reported.
+
+The merchant vessel Gibraltar Eagle, flying the flag of the Marshall Islands, was hit in the Red Sea by an anti-ship ballistic missile fired from Yemen by the Houthis, but has not suffered any significant damage and is continuing on its way, U.S. Central Command said.
+
+A second missile that was fired had malfunctioned and crashed on land in Yemen.
+
+The Houthi attacks came a few days after the U.S. and U.K. struck multiple targets across Houthi-controlled areas of Yemen with over 100 bombs and missiles. The Houthis have vowed revenge against the US, UK and any nation that helps the coalition.
+
+The Houthis have been staging attacks against ships in the Red Sea for more than a month, claiming that they are only targeting ships bound to or from Israel or are connected to Israel in some way.
+
+Most of the world's largest shipping firms have suspended sending vessels through the Red Sea and are now using the much longer route around Africa. This has driven shipping rates up and caused some disruption to global supply chains.
+
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
+
+### Regional rivals China, India eye Sri Lanka Telecom
+
+*2024-01-15 20:24:00 - [economynextcom](https://economynext.com/regional-rivals-china-india-eye-sri-lanka-telecom-147326/)*
+
+ECONOMYNEXT – Investors from China and India has expressed interest in buying Sri Lanka Telecom, market sources said, with the two countries already involved in the country’s ports sector.
+
+Jio Platforms Ltd and a unit of Reliance industries of India and Gortune International Investment Holding Ltd have expressed interest in Sri Lanka Telecom.
+
+Gortune International is an entity made up of private Chinese investors, market sources said.
+
+India’s Airtel already has a mobile unit in Sri Lanka’s telecom sector.
+
+India’s Adani group is building a container terminal in Colombo Port, where China already has terminal.
+
+India’s Adani group is building some renewable plant in the island. Concerns have been raised that some of the renewable plants under negotiations are not coming from competitive tenders.
+
+Sri Lanka blocked a Chinese power sector investments in the North which came fro competitive tendering, reportedly under Indian pressure. (Colombo/Jan15/2023)
 
 ### දරුවෙකුගේ ඇගිල්ල වෙන් වෙන්න කැපූ සැකකරු රිමාන්ඩ්
 
@@ -45,6 +85,58 @@ As of **2024-01-16 00:28:01**
 මේ වන විට ඇඟිල්ලක්ද අහිමි වී සිටින මෙම දරුවා කුඩු නඩුවකට පටලවා සිරගත කිරමේ සුදානමක් පිළිබඳව තමන්ට තොරතුරු ලැබි ඇතැයි දැනුම් දුන් නීතීඥ ශ්‍රමින්ද්‍ර සොයිසා මහතා වින්දිතයින්ට යුක්තිය ඉටු කරන්නැයි ඉල්ලීමක්ද කළේය.
 
 සියලු කරුණු සළකා බැලලීමෙන් අනතුරුව සැකකරු රිමාන්ඩ් බාරයට පත් කළ මහෙස්ත්‍රාත්වරයා පැමිණීල්ල කැඳවන ලබන 19 වැනිදා සිද්ධියට අදාළව කරන ලද විමර්ශන වල ප්‍රගතිය අධිකරණයට වාර්තා කරන ලෙස පොලිසියට නියම කළේය.
+
+### Sri Lanka rupee not a one-way bet, hedging instruments, deepening needed: CB Governor
+
+*2024-01-15 19:14:00 - [economynextcom](https://economynext.com/sri-lanka-rupee-not-a-one-way-bet-hedging-instruments-deepening-needed-cb-governor-147314/)*
+
+ECONOMYNEXT – Sri Lanka’s rupee is no longer a one-way bet, and the Central Bank would like to see a deeper market with more hedging instruments in the future Governor Nandalal Weerasinghe said.
+
+“We all know in the past the exchange rate has been a one-way bet, and there has been a lot of speculation,” Governor Weerasinghe said delivering an annual policy speech on January 10.
+
+“Now we have been able to address that part. It is no longer a one way bet. It responds to demand and supply conditions and we will intervene to smoothen out any excess volatility.”
+
+Governor Weerasinghe also dismantled most of the trading controls imposed during the period of inflationary domestic operations, which triggered forex shortages, allowing forex markets to work.
+
+“And also in this kind of environment we would take steps to foster a deeper and more liquid domestic foreign exchange market, that is basically run by you,” he told bankers in the audience.
+
+The central wanted a deeper and more liquid FX market also hedging instruments to hedge exposure for businesses, he said.
+
+“This would be further supported by implementing the FX Global Code in the domestic foreign exchange market, providing a common set of guidance to promote a robust, fair, liquid, open, and appropriately transparent market in which market participants could confidently and effectively transact at competitive prices that reflect available market information.”
+
+The central bank has launched the first phase of an  International Transactions Reporting System (ITRS) in 2023 to collect data on cross-border transactions and foreign currency transactions daily from the banking system.
+
+“The Central Bank plans to report monthly data pertaining to the external current account, particularly on trade in services, based on ITRS data from 2024 onwards,” Governor Weerasinghe said.
+
+“Going forward, all banks are urged to continue to support the development of the ITRS system and to ensure the coverage, accuracy and timeliness of data.”
+
+Under Governor Weerasinghe’s watch the rupee has appreciated from 360 to around 330 to the US dollar on complementary monetary policy.
+
+Sri Lanka rupee came under pressure from large liquidity injections made to suppress rates before and after intervening in forex markets to maintain the exchange rate, driving unsustainable credit over 2021 and 2022, (inflationary monetary policy) triggering reserve losses.
+
+In 2022 March, an attempt was made to float the currency without hiking rates sufficiently and with a surrender rule (buying dollars while the rupee was falling), leading to steep collapse of the rupee to 360 to the US dollar from around 200.
+
+Since the setting up of the central bank in 1950 the rupee has been busted from 4.70 to the US dollar, in a worse fall than Pakistan, India and Bangladesh, all of which started at the same rate as currencies derived from the Indian rupee, which was originally silver based.
+
+Governor Weerasinghe in April 2022 hiked rates, possibly ending hyperinflation and market dollarization, and established a guidance peg at which dollars were bought from banks.
+
+In March the surrender rule was lifted and under his watch the rupee appreciated to around 330 to the US dollar.
+
+Since then, the rupee has fluctuated between 320 to 330 to the US dollar under muted private credit conditions and largely deflationary policy (central bank selling down its Treasuries stock and withdrawing liquidity from dollar purchases).
+
+Analysts have however warned that when private credit picks up, the central bank in the past has resumed inflationary policy to suppress rates, losing its ability to collect reserves, triggering depreciation, and social unrest through rising energy and food prices and long run higher nominal rates. (Colombo/Jan15/2024)
+
+### Sri Lanka revises import duties for 1,222 items under Singapore FTA
+
+*2024-01-15 16:34:00 - [economynextcom](https://economynext.com/sri-lanka-revises-import-duties-for-1222-items-under-singapore-fta-147311/)*
+
+ECONOMYNEXT – Sri Lanka has published import duties of up to 20 percent applied to 1,222 items under a free trade agreement with Singapore.
+
+Sri Lanka usually has a negative list for imports in trade deals.
+
+In addition, so-called para tariffs, such as the Sri Lanka’s Airport Levy as well as an import CESS is also charged from some goods.
+
+Excessively high import duties on some items, imposed to give artificially high profits to politically connected producers while harming consuemrs, have led to undervaluation and corruption, critics say.
 
 ### நீர்க் கட்டணத்தைக் குறைக்க முடியும்;ஜீவன்
 
@@ -152,6 +244,18 @@ Additionally, they have called the government to ensure that any law enforcement
 
 මේ වනවිට කන්දකාඩු  පුනරුත්ථාපන මධ්‍යස්ථානයේ රැඳවියන් තුන්සිය අනූදෙදෙනකු පමණ පුනරුත්ථාපනය වෙමින් සිටිති.
 
+### Man Posing as Avalokiteshwara Arrested in Sri Lanka
+
+*2024-01-15 15:18:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/man-posing-as-avalokiteshwara-arrested-in-sri-lanka/)*
+
+COLOMBO (News 1st); A man impersonating the deity Avalokiteshwara was apprehended by a special team of the Sri Lankan Criminal Investigation Department (CID) in the Pannipitiya area this afternoon.
+
+The suspect, identified as Mahinda Kodituvakku, faces charges of money laundering.
+
+Details surrounding Kodituvakku's modus operandi and the alleged money laundering activities are under investigation by the CID.
+
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
+
 ### තවදුරටත් බලා සිටිනවාද නැත්නම් නැගිටිනවාද?
 
 *2024-01-15 15:15:41 - [adalk](https://www.ada.lk/breaking_news/තවදුරටත්-බලා-සිටිනවාද-නැත්නම්-නැගිටිනවාද-/11-407562)*
@@ -180,7 +284,7 @@ Notably, 123 previously unidentified suspects were recognized through fingerprin
 
 The targeted effort involved distributing a comprehensive list of 35,505 open warrants, 4,258 unapprehended suspects, and 2,485 wanted individuals to all Crime OICs, ensuring coordinated action across Sri Lanka.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### Police investigating A/L paper leak
 
@@ -198,7 +302,7 @@ A teacher who was arrested as a suspect was remanded until the 26th.
 
 The examination department also stated that the second paper of agriculture science which was canceled is re-scheduled for the 1st of next month and that the date may even be revised.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### 24 மணிநேரத்தில் 1,400 ற்கும் மேற்பட்டோர் கைது
 
@@ -246,7 +350,7 @@ The IMF delegation, led by Senior Mission Chief Peter Breuer, acknowledged the h
 
 "While we saw a small uptick in the third quarter of 2023, we're still far from robust, inclusive growth. Inflation hit 70% last year, disproportionately impacting those without savings or buffers. The path to recovery will require sustained commitment to sound economic policies," said Peter Breuer, Senior Mission Chief for Sri Lanka, IMF.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### Over 1,400 wanted suspects arrested within 24-hour ‘Yukthiya’ operation
 
@@ -284,7 +388,7 @@ Reuters could not immediately reach Nguyen Thanh Long's lawyers for comment.
 
 The verdict comes as Vietnam intensifies its years-long anti-graft campaign that has seen hundreds of senior officials investigated for corruption, with many forced to quit, including former president and premier Nguyen Xuan Phuc and two deputy prime ministers.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### Air Quality Plummets in Major Districts in Sri Lanka
 
@@ -298,7 +402,7 @@ In Colombo, the air quality index (AQI) – a measure of pollutants in the air �
 
 Similarly, Jaffna recorded AQI values nearing 100, indicating unhealthy air conditions in the northern city.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### අමතක නොවන උපන්දින තෑග්ගක් දීලා දරුවෝ තුන්දෙනා කළු ගගේ ගියා
 
@@ -566,6 +670,66 @@ With billions of people heading to the polls this year, Georgieva expressed conc
 
 பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தப்பட்ட சிறுமி மருத்துவ பரிசோதனைக்காக மொனராகலை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
 
+### Sri Lanka to have pricing formula for water: Minister
+
+*2024-01-15 10:37:00 - [economynextcom](https://economynext.com/sri-lanka-to-have-pricing-formula-for-water-minister-147299/)*
+
+ECONOMYNEXT – A water price formula will be prepared in consultation with the advisors of the National Water Supply Board and the Asian Development Bank, Water Supply and Estate Infrastructure Development Minister Jeevan Thondaman said.
+
+“A price formula will be introduced for water charges, that can reduce the water charges along with lowering the electricity bill,” Thondaman was quoted as saying in a statement by the Government Department of Information.
+
+Thondaman was speaking at a discussion held at the Peradeniya University Institute of Water Research and Technology.
+
+Last week, the National Steering Committee on Water Sector Reforms met today to finalise several key policies and guidelines in the water sector.
+
+“We are ready to present to the public, for their feedback, Sri Lanka’s new national policies on Drinking Water and Water Safety, as well as new Guidelines on Water Supply Connections,” Thondaman said on X.
+
+“Our aim is to ensure a safe, affordable and reliable water supply for all under a consistent and clear framework.”
+
+The new policies and guidelines are part of the US$ 200 million ADB supported reforms in the water sector.
+
+Thondaman said the goal of the reforms was to create a more sustainable water sector in Sri Lanka that is both climate and consumer conscious. (Colombo/Jan15/2024)
+
+### රංගන ශිල්පියෙකුගේ රංගන ශෛලිය අනුකරණය කිරීම අපරාධමය වරදක්ද?
+
+*2024-01-15 10:30:59 - [bbccomsinhala](https://www.bbc.com/sinhala/articles/cn0qe29n4n6o)*
+
+රංගනය අනුකරණය කිරීම සිනමාවේ පමණක් නොව එදිනෙදා ලෝකයේ ද දක්නට ලැබෙන සාමාන්‍ය සිදුවීමකි. එහෙත් කිසියම් නිර්මාණයක් සඳහා යම් රංගන ශිල්පියෙකුගේ රංගනයක් අනුකරණය කළ හැකිද යන්න වන සැකය කාලයක් තිස්සේ රංගන ක්ෂේත්‍රයේ පැවතුණි.
+
+එහෙත් යමෙකුගේ රංගන ශෛලිය අනුකරණය කිරීම අපරාධමය වරදක් නොවන බව දැක්වෙන ඉතා වැදගත් නඩු තීන්දුවක් ඉකුත් දා ප්‍රකාශයට පත් කෙරිණි.
+
+රංගන ශෛලීන් අනුකරණය කිරීමට අදාළව ශ්‍රී ලංකාවේ නිකුත් කෙරුණු පළමු නඩු තීන්දුව මෙය බව නීතිවේදීහූ පෙන්වා දෙති.
+
+තම රංගන ශෛලිය අනුකරණය කරන බවට චෝදනා කරමින්  ප්‍රවීණ රංගන ශිල්පියකු වන බන්දු සමරසිංහ විසින් බින්දු බෝතලේගමට එරෙහිව ගොනුකරන ලද අපරාධ නඩුවක තීන්දුව දෙමින් කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් විසින් මෙම තීන්දුව ප්‍රකාශයට පත් කරනු ලැබ තිබුණි.
+
+ප්‍රවීණ සිනමා නළු බන්දු සමරසිංහ විසින් කොළඹ අපරාධ කොට්ඨාසයට කරන ලද පැමිණිල්ලකට අනුව මෙම නඩුව ගොනුකර තිබුණි.
+
+පොලිසිය විසින් අධිකරණය හමුවේ චෝදනා කර තිබූ චෝදනා පත්‍රය මගින් සඳහන් කර තිබුණේ උදයකාන්ත වර්ණ සූරිය විසින් අධ්‍යක්ෂණය කළ "ගින්දරි" චිත්‍රපටයට රංගනයෙන් එක් වූ බින්දු බෝතලේගම විසින් පැමිණිලිකාර  බන්දු සමරසිංහගේ රංගන ශෛලිය අණුකරණය කරමින් රංඟනයක නිරත වී ඇති බවයි.
+
+ඒ තුළින් තමන්ට ආර්ථිකමය පාඩුවක් සිදුවන බවත් ඒ හරහා සිය බුද්ධිමය දේපළ අයිතිය උල්ලංඝනය වන බවත් බන්දු සමරසිංහ සිය පැමිණිල්ලේ සඳහන් කර තිබුණි.
+
+ඒ අනුව බුද්ධිමය දේපල පනතේ  178 වන වගන්තිය යටතේ අනුකරණය කිරීම දඬුවම් ලැබිය හැකි වරදක් බවත් බන්දු සමරසිංහ අධිකරණයට ඉදිරිපත් කළ සිය පැමිණිල්ලේ සඳහන් කර ඇත.
+
+නඩු විභාගය පැවති අවස්ථාවේදී අධිකරණය විසින් පැමිණිලිකාර බන්ධු සමරසිංහගේ සාක්ෂියද සටහන් කරගෙන තිබුණි.
+
+දීර්ඝ නඩු විභාගයකින් අනතුරුව තීන්දුව ප්‍රකාශයට පත් කළ කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් විසින් විත්තියේ සාක්ෂි කැඳවීමකින් තොරවම විත්තිකාර බින්දු බෝතලේගම නිදොස් කොට නිදහස් කිරීමට තීන්දු කළේය.
+
+එම තීන්දුව තුළින් මහේස්ත්‍රාත්වරයා සඳහන් කර තිබුණේ "මෙම නඩුවේදී බුද්ධිමය දේපළ කාර්යාංශයේ අධ්‍යක්ෂවරිය සාක්ෂි දී තිබුණා. ඇය සාක්ෂි දෙමින් ප්‍රකාශ කළා බුද්ධිමය දේපළ පනතේ 178 වන වගන්තිය යටතේ රංගනයක් අනුකරණය කිරීම වරදක් වශයෙන් දක්වා නොමැති බව. එය අපරාධමය වරදක් නොවන බවත් ඇයගේ සාක්ෂියෙන් සඳහන් වුණා" ඒ අනුව රංගනයක් අනුකරණය කළ බවට විත්තිකරුට එරෙහිව පැමිණිල්ල විසින් එල්ල කර තිබෙන චෝදනා සාධාරණ සැකයකින් තොරව ඔප්පු වී නොමැති බව මහේස්ත්‍රාත්වරයා තීන්දු කළේය.
+
+එහි ප්‍රතිඵලයක් ලෙස විත්තිකරු විත්තියේ සාක්ෂි නොකැඳවාම නිදොස් කොට නිදහස් කරන බවත් අධිකරණය තීන්දු කළේය.
+
+මෙම තීන්දුව සම්බන්ධයෙන් කරුණු පැහැදිලි කළ අදාල නඩුවේ විත්තිය වෙනුවෙන් පෙනී සිටි නීතිඥ ප්‍රසාද් සූරියාරච්චි  කියා සිටියේ "මේක ඉතා වැදගත් නඩු තීන්දුවක්.මේ නඩු තීන්දුවේ පැහැදිලිවම සඳහන් කර තිබෙනවා යම් කිසිවකුගේ රංගනය ශෛලියක් අනුකරණය කිරීම අපරාධමය වරදක් නොවන බව. මොකද රංගනය කියන දේ අනුකරණය කරන්න පුළුවන්.”
+
+“රංගන ශෛලිය අනුකරණය කිරීම සම්බන්ධයෙන් චෝදනා ගොනු කිරීමට නම් එම අනුකරණය සිදුවන බව ඔප්පු කිරීමට පැහැදිලි නිර්ණායකයක් තිබිය යුතුයි.” ඔහු පැවසීය.
+
+“එහෙත් රංගන ශෛලිය අනුකරණය කළා කියලා ඔප්පු කරන්න පැහැදිලි නිර්ණායකයක් මේ ලෝකයේ නැහැ. එය විද්‍යාත්මකව ඔප්පු කර හැකි ක්‍රමවේදයකුත් නැහැ. ඒ නිසා රංගනයක් අනුකරණය කිරීමෙන් අපරාධමය වරදක් සිදුවන බවට නිගමනයකට එළැඹීමකට අධිකරණයටත් අපහසුයි. ඒවගේම අපගේ බුද්ධිමය දේපළ පනතට අනුව අනුකරණය අපරාධමය වරදක් වශයෙන් දක්වා නැහැ." යනුවෙන් නීතීඥ ප්‍රසාද් සූරියාරච්චි සඳහන් කර සිටියේය.
+
+වැඩිදුරටත් කරුණු දැක්වූ නීතිඥ ප්‍රසාද් සූරියාරච්චි "මේ නඩු තීන්දුව රංගන ශෛලීන් අනුකරණය කිරීමට අදාලව ශ්‍රී ලංකාවේ ප්‍රකාශයට පත් කෙරුණු ප්‍රථම නඩු තීන්දුව වශයෙන් සඳහන් කරන්න පුළුවන්. රංගනයක් අනුකරණය කරන්න පුළුවන්ද බැරිද යන සැකය කාලයක් තිස්සේ රංගන ක්ෂේත්‍රයේ පැවතුණා. දැන් ඊට පැහැදිලි පිළිතුරක් ලැබී තිබෙනවා."යනුවෙන් සඳහන් කර සිටියේය.
+
+ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
+
+ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
+
 ### Health sector employees to go on strike tomorrow
 
 *2024-01-15 10:22:00 - [adaderanalk](https://www.adaderana.lk/news/96411/health-sector-employees-to-go-on-strike-tomorrow)*
@@ -626,7 +790,7 @@ In this operation, naval personnel held 01 Indian poaching trawler with 10 India
 
 The apprehended Indian fishermen (10) and the poaching trawler (01) were brought to the Kankasanthurai harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal action.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### Operation Yukthiya Nets Over 950 Suspects in 24-Hour Blitz
 
@@ -644,7 +808,7 @@ Authorities recovered a substantial amount of narcotics during the operation, wi
 
 Over 2 kilograms of the highly addictive drug were confiscated.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### Talk of The Town | Rebuilding SL : SJB’s blueprint | MP Mayantha Dissanayake | 15th January 2024
 
@@ -652,7 +816,7 @@ Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
 
 Talk of The Town | Rebuilding SL : SJB’s blueprint | MP Mayantha Dissanayake | 15th January 2024
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### Liquor Shops Closed in Parts of Sri Lanka for Thai Pongal
 
@@ -664,7 +828,7 @@ The announcement comes from the Department of Excise, aiming to ensure a respect
 
 "All liquor shops within the Badulla district, with the exception of the Ridhimaliyadda and Mahianganaya divisional secretariat divisions, will be closed today," stated the Department of Excise.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### Sri Lanka To Open Investment Doors at World Economic Forum
 
@@ -680,7 +844,29 @@ Delivering the keynote speech titled "Paving the way to an energy secure Sri Lan
 
 Furthermore, Sri Lanka's investment potential will be showcased at a business roundtable conference co-organized by the Sri Lanka Investment Board and the Swiss Asian Chamber of Commerce.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
+
+### Sri Lanka labour ministry to import SUV, health double cabs
+
+*2024-01-15 09:18:00 - [economynextcom](https://economynext.com/sri-lanka-labour-ministry-to-import-suv-health-double-cabs-147286/)*
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has allowed the import of vehicles which are banned, including a sports utility vehicle and double cabs, for several ministries and state agencies, in a gazette notice.
+
+Ministry of Labor and Foreign Employment will be allowed to import an SUV, the Ministry of Health 21 double cabs, and two buses for the Ministry of Education.
+
+Sri Lankan Airlines would be allowed to import three economy classes ramp coaches. Sri Lanka has seen a surge in tourism.
+
+Sri Lanka has imposed import controls during the tenure of President Gotabaya Rajapaksa after his economic bureaucrats cut rates with printed money to push up growth (target potential output).
+
+The import control law was enacted in 1969 by the economic advisors of the Prime Minister Dudley Senanayake.
+
+In 1968, Sri Lanka’s output was pushed up to 8.2 percent with inflationary central bank operations (mostly rural credit re-finance at the time) and there were BOP deficits for two years running.
+
+Sri Lanka also started to have IMF programs in the 1960s. The 1960s also saw increased use of statistics to justify inflationary central bank operations in the US.
+
+In 1971 the Bretton Woods collapsed and Sri Lanka went into a ‘closed economy’.
+
+In order to operate a reserve collecting central bank with rate cutting powers, Sri Lanka imposes both trade and capital controls, which intensify in periods of mis-targeting rates (rate cuts enforced with reverse repo operations). (Colombo/Jan15/2023)
 
 ### Hospitals Brace for Disruptions as Healthcare Workers Plan To Strike Tomorrow
 
@@ -696,7 +882,7 @@ This involves a wide range of personnel, including nurses, paramedical staff, an
 
 They demand the same increase in their allowances, arguing that their contribution to the healthcare system is equally vital.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### IMF Staff to hold key discussions with Sri Lanka
 
@@ -708,7 +894,7 @@ State Finance Minister Shehan Semasinghe confirmed the delegation's visit, stati
 
 Minister Semasinghe further revealed that the meetings will focus on "further strengthening the IMF-supported program for Sri Lanka."
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### ‘Yukthiya’: 952 drug suspects arrested within 24-hours
 
@@ -811,6 +997,76 @@ Misty conditions can be expected in most provinces in the island during the morn
 மேற்படி எஞ்சின்கள் இலங்கையில் இயங்குவதற்கு ஏற்றவையா என ஆராயவே இவ்வாறு கொண்டுவரப்படவுள்ளன என திணைக்களம் குறிப்பிட்டுள்ளது.
 
 இதன்படி, ரயில் எஞ்சின்களை ஆய்வு செய்வதற்காக இலங்கை ரயில்வே திணைக்களத்தை சேர்ந்த 05 பரிசோதகர்கள் இந்தியாவிற்கு சென்றிருந்தனர். (a)
+
+### ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
+
+*2024-01-15 02:22:12 - [bbccomsinhala](https://www.bbc.com/sinhala/articles/c3gyy4kr0xlo)*
+
+ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
+
+වාහන ලීසිං සම්බන්ධයෙන් අප රටේ බලපවත්නා නීතිය ගැන කතා කරන විට අනිවාර්යයෙන්ම කල්බදු මූල්‍යකරණ පනත සම්බන්ධයෙන් ද දැනුවත් විය යුතු ය. මන්ද යත්, එම පනත මඟින් සියලු කල්බදු නීතිමය කටයුතු ආවරණය වී තිබෙන හෙයිනි.
+
+අප රටෙහි බොහෝදෙනෙකු තුළ කල්බදු, නැතිනම් ලීසිං, සම්බන්ධයෙන් බලපවත්නා නිතීය පිළිබඳ වැටහීමක් තිබේද යන්න සැක සහිතය.
+
+එම නිසා ලීසිං පහසුකම ලබාදෙන්නාත්, එම පහසුකම ලබාගන්නාත් යන දෙපාර්ශවයටම මෙකී නීතිමය රාමුව තුළ ඇති වගකීම් සහ වගවීම් මොනවා ද යන්න හරිහැටි විමසා බැලීම වැදගත් වේ.
+
+ඔන්ලයින් ණය දෙන ආයතනයක සේවිකාවක් මුල්වරට කරන හෙළිදරව්වVAT: ඔබේ ජීවන රටාව වෙනස් කිරීමට බලපෑවේ කොහොමද?
+
+ලීසිං පහසුකමක් ලබා ගැනීමේ දී පළමුව ඔබ විසින් සැළකිලිමත් වියයුතු කරුණ වන්නේ, එකී පහසුකම ලබා ගැනීමට තෝරාගනු ලැබූ මූල්‍ය ආයතනය ශ්‍රී ලංකා මහ බැංකුව යටතේ නියාමනය වන ආයතනයක් ද යන්න පිළිබඳවය.
+
+කිසි විටක කල්බදු සේවා ලබා දෙන ආයතනයක් ශ්‍රී ලංකා මහ බැංකුවේ සුදුසුකම් සපුරා නොමැතිව, අනුමැතියෙන් තොරව පවත්වාගෙන යාම නීතිවිරෝධී ක්‍රියාවක් වන අතර, එවන් වූ ආයතන මඟින් ලීසිං පහසුකම් ලබා ගැනීමෙන් අනතුරුව ඇති වන ගැටලුවල දී ඔබටනීතියේ පිහිට පැතීම ද අපහසු වනු ඇත.
+
+එම නිසා, ඔබ ලීසිං පහසුකමක් ලබා ගැනීමට අපේක්ෂා කරන්නේ නම්, අනිවාර්යයෙන්ම එවන් වූ කල්බදු මූල්‍යමය සේවා සපයන ආයතනවල ලියාපදිංචි ස්වභාවය කෙරෙහි අවධානය යොමු කළ යුතු ය.
+
+පනතේ සදහන් වන පරිදි, මෙය 'ආර්ථිකමය වශයෙන් වටිනාකමක් තිබෙන භාණ්ඩයක් සන්තකයේ තබා ගැනීම සදහා ඇතිකර ගන්නා ගිවිසුමක්' ලෙස සරලව හඳුන්වා තිබේ.
+
+කල්බදු ක්‍රමය යටතේ මෝටර් රථයක් ලබාගැනීම පිළිබඳ කතා කිරීම කාලීන වන්නේ, ලීසිං පහසුකම් යටතේ වාහන ලබාගත් බොහෝ දෙනෙකුට මේ වන විට ගැටලු රැසකට මුහුණදීමට සිදු වී ඇති නිසා ය.
+
+කල්බදු මූල්‍ය පහසුකමක් ලබා ගැනීමට අපේක්ෂා කරන අයෙකු වෙත ඇති අයිතිවාසිකම් මොනවා ද යන්න කල්බදු මූල්‍යකරණ පනතෙහි පැහැදිලිව දක්වා තිබේ.
+
+බදු ලබාගන්නා අයෙකුට බදු දීමනාකරුවෙකු තමන් කැමති පරිදි තෝරා ගැනීමේ අවස්ථාව හිමිවී තිබීම
+
+එසේම, ලීසිං පහසුකම් ලබා දෙන ආයතනයට ඇති අයිතිවාසිකම් පිළිබඳව ද ඔබ දැනුවත් විය යුතු ය.
+
+යම් ආයතනයක් වෙතින් වාහන කල්බදු යටතේ ලබාගෙන රැගෙන ගිය පසු එකී වාහන නඩත්තුව නිසි පරිදි සිදු කරන්නේ ද යන්න සොයා බැලීමට එම ආයතනයට හැකියාව පවතියි. එම අයිතිය එකී ආයතනයට පනත මඟින් ලබා දී ඇති අයිතිවාසිකමකි.
+
+යම් පුද්ගලයෙකු ගිවිසුමට අනුගතව ලීසිං වාරිකය ගෙවාගෙන යෑම දිගින් දිගටම පැහැර හරින්නේ නම්, කල්බදු සහනය ලබාදුන් ආයතනයට අදාළ භාණ්ඩය හෝ වාහනය එය සන්තකයට ලබා ගැනීමට හැකිය.
+
+ගෙවීම් පැහැර හරිනලද වාහනයක් ‍සිය භාරයට ගැනීමට ලීසිං ආයතනයට පවතින හැකියාව කුමක් ද?
+
+කල්බදු ලබාගත් අය දිගින් දිගටම අදාළ වාරික ගෙවීම පැහැරහැර තිබුණත් ලීසිං ආයතනයකට එක වර එම වාහනය අත්පත්කර ගැනීමට නීතිමය අවසරයක් නොමැත.
+
+එය අත්පත් කර ගැනීමට අවශ්‍ය නම්, ඒ සම්බන්ධව පියවර කිහිපයක් අනුගමනය කළ යුතු බව කල්බදු මූල්‍යකරණ පනතෙහි දැක්වේ.
+
+කල්බදු ලබා ගෙන වාරික ගෙවීමට අපොහොසත්ව ඇති එවැනි වාහනයක් මාර්ගයේ ගමන් කරමින් තිබියදී මඟහරස්කොට හෝ වෙන යම් අවස්ථාවක දී හෝ අපහසුතාවට පත්කොට, බියවද්දා ලබා ගැනීමේ හැකියාව පනත මඟින් ලීසිං ආයතන වෙත ලබා දී නොමැත.
+
+පළමුව, ලීසිං වාරික ගෙවීම පැහැරහරින්නන් වෙත අදාළ ආයතනයෙන් ගෙවීමට ඇති හිඟ මුදල සම්බන්ධයෙන් දැන්වීම් කළ යුතු ය.
+
+එසේ දැන්වීම් කළ පසුත් වාරික ගෙවීම පැහැරහරින්නේ නම්, දෙපාර්ශවය අතර ඇතිකර ගත් එම කල්බදු ගිවිසුම අහෝසි කිරීම සඳහා, ආයතනය විසින් ගිවිසුම අහෝසි කළ බව දන්වා පැහැරහරින පාර්ශවය අනිවාර්යයෙන්ම දැන්වීම් කර දැනුවත් කළ යුතු ය.
+
+ඒ අනුව නීත්‍යානුකූලව අදාළ කල්බදු ගිවිසුම අවලංගු වී යන අතර, දිසා අධිකරණය හරහා අදාළ ලීසිං සමාගමට වාහනයේ සන්තකය හිමිකර ගැනීම වෙනුවෙන් පෙත්සමක් ගොනුකර නීත්‍යානුකූලව කරුණු දක්වා, වාහනයේ සන්තකය ලබා ගැනීමට අවස්ථාව දෙන ලෙස අතුරු නියෝගයක් ඉල්ලා සිටිය හැකි ය.
+
+එම අවස්ථාවේ දී, කල්බදු ණය ලබාගෙන ඇති අය අධිකරණයට පැමිණ හේතු දැක්වීමක් සිදු කිරීමට අපොහොසත් වුවහොත් පමණක් අධිකරණයට එම අතුරු නියෝගය ස්ථිර කිරීමට කටයුතු කළ හැකි ය.
+
+එවිට, එම කල්බදු සමාගමට අධිකරණය ලබා දෙන පිස්කල් නියෝගය මඟින් වාහනය අත්පත් කර ගැනීමේ හැකියාව පවතියි.
+
+යම් හෙයකින්, අදාළ කල්බදු පහසුකම ලබා ගත් පාර්ශවය අධිකරණයට පැමිණ ප්‍රමාණවත් හේතු දැක්වීමකින් පසු අධිකරණය සෑහීමට පත්වුවහොත් වාහනයේ සන්තකය ලබා ගැනීම වෙනුවෙන් වූ අදාළ අතුරු නියෝගය අවලංගු විය හැකි අතර, නඩු විභාගය ආරම්භ වනු ඇත. සාක්ෂි විමසා තීන්දුවක් ලබා දීමට අධිකරණය කටයුතු කරනු ඇත.
+
+කල්බදු සමාගම වාහනයේ සන්තකය ලබාගැනීමට නඩුවක් පැවරූ විට බදු ලබාගත් අය ඒ වෙනුවෙන් දැක්විය යුතු කරුණු මොනව ද?
+
+අදාළ වාරික ගෙවීම මඟහැරුනේ කල්බදු සමාගමේ නොසැලකිලිමත්කම මත නම්, ඊට ඇති පැහැදිලි හේතු සාධක ඉදිරිපත් කළ හැකි ය.
+
+බදු හිමියාට හිඟ වාරික සම්බන්ධයෙන් ප්‍රමාණවත් පෙර දැනුම්දීමකින් තොරව, තර්ජනය කර, බියවද්දා නීතිමය ක්‍රමවේදයට පටහැනිව යමින් වාහනයේ සන්තකය අයතා ලෙස ලබා ගැනීමට කල්බදු සමාගම උත්සහ කර ඇත්නම්, එය ද අධිකරණය හමුවේ ප්‍රකාශ කළ හැකි ය.
+
+එසේම, කල්බදු සමාගමට ගෙවීමට ඇති සම්පූර්ණ හිඟ මුදල ගෙවා වාහනය තමා සතුකර ගැනීම කටයුතු කිරීමට උත්සහ කරන අවස්ථාවක දී, විශාල මුදලක් සඳහන් කරමින්, එය ලිඛිතව ලබා නොදී කටයුතු කරන බව හැඟී යන අවස්ථාවක, එම මුදල සම්බන්ධ කරුණු පැහැදිලිව ඊමේල් මාර්ගයෙන් හෝ ලිඛිතව තමා වෙත ලබාදෙන ලෙස සමාගමෙන් ලිඛිත ඉල්ලීමක් කිරීම බදු හිමියාට වැදගත් වනු ඇත.
+
+බදු හිමියා විසින් ගැටලුව විසදා ගැනීමට කටයුතු කරන අවස්ථාවක කල්බදු ආයතනය දිගින් දිගටම එය නොසලකා හරින්නේ නම්, ඒ බව ශ්‍රී ලංකා මහ බැංකුවේ මූල්‍ය පාරිහෝගික සබඳතා දෙපාර්තමේන්තුව වෙතත්, මූල්‍ය ඔම්බුඩ්ස්මන්වරයාටත් පැමිණිලි කළ හැකි අතර, එම ආයතනයන්ට අදාළ මූල්‍ය ආයතන පිළිබඳ ඕනෑම පැමිණිල්ලක් සහ ආරවුලක් පිළිබඳව විමසා බලා විසඳීමට බලය ඇත.
+
+ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
+
+ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
+
+යුරෝ සොයා නීතිවිරෝධීව ඉතාලියට: ‘ජීවිතේ නම් කටුකයි, නමුත් කරන්න දෙයක් නැති කමට කාගෙන ඉන්නවා’
 
 ### மதுபானசாலைகளுக்கு பூட்டு
 
@@ -1070,7 +1326,7 @@ The victims, aged 16, 17, and 18, resided in Dodangoda, Payagala, and Kalutara.
 
 The bodies of the deceased are currently at the Nagoda Hospital.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### Denmark’s King Frederik X takes the throne as his mother steps down
 
@@ -1126,7 +1382,7 @@ These measures emphasize the necessity for all officers to operate strictly with
 
 The Acting IGP is instructed to clearly communicate these requirements to all participating officers and promptly report back to the Commission regarding the implementation of these directives.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### Navy arrest 02 suspects with 10,600 Pregabalin capsules in Talaimannar
 
@@ -1140,7 +1396,7 @@ In a separate operation mounted by SLNS Talaimannar with the assistance of the P
 
 Naval and Police personnel discovered a sack of 10,500 Pregabalin capsules hidden away.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### Police arrest over 95 suspects in 24-hour vehicle sweep
 
@@ -1154,7 +1410,7 @@ The arrests were made under the charges of drunk driving, driving without driver
 
 Police said that 21 motorcycles, 12 three-wheelers and six other vehicles were taken into custody during those operations.
 
-Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### இரு இளைஞர்களின் சடலங்கள் கால்வாயில் கண்டுபிடிப்பு
 
@@ -1165,6 +1421,30 @@ Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
 இருவரும் தங்களது மோட்டார் சைக்கிளின் கட்டுப்பாட்டை இழந்திருக்கலாம் என்றும், அதிக வேகம் காரணமாக, குறிகாட்டும் கம்பத்துடன் மோதியிருக்கலாம் என்றும் பொலிஸார் சந்தேகிக்கின்றனர்.
 
 கிளிநொச்சி நீதவானின் பரிசோதனையின் பின்னர் சடலங்கள் மேலதிக விசாரணைகளுக்காக கிளிநொச்சி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளன.
+
+### Sri Lanka to clear barriers to yacht-based tourism
+
+*2024-01-14 18:40:00 - [economynextcom](https://economynext.com/sri-lanka-to-clear-barriers-to-yacht-based-tourism-147269/)*
+
+ECONOMYNEXT – Sri Lanka’s Tourism Promotion Bureau is in the process of clearing barriers to marine tourism, including leisure activities on yachts, Managing Director Nalin Perera said.
+
+Yacht cruise operators have earlier complained that a specified International Association of Classification Societies (IACS) requirement by Sri Lanka’s Directorate of Merchant Shipping which was not demanded by countries like Thailand or Red Sea nations was blocking ‘live aboard’ cruises.
+
+One reason was that Sri Lanka did not have a proper classification criteria for marine tourism, Perera said.
+
+“The classification has been finalized, but there are few areas we are getting the ADB assistance to clear that one up,” Perera said.
+
+Sri Lanka has dozens of sunken wrecks which can be used to promote diving, Tourism Minister Harin Fernando said.
+
+Sri Lanka is surrounded by the sea, but the island neither has a domestic yatch culture, nor yacht based tourism activities like liveaboard diving cruises.
+
+Yacht cruise operator Aggressor found itself mired in regulations when it tried to start the industry, including requirements for local crew.
+
+The firm said without a domestic industry there were no trained crew to hire on the island.
+
+READ Sri Lanka luxury yacht cruises run aground for second time
+
+Sri Lanka wants to promote a range of marine linked tourism activities as well wider use of yachts including attracting owners to park their luxury yachts in Sri Lanka, Tourism Minister Fernando said.  (Colombo/Jan14/2024)
 
 ### அதிகாரிகளை சாடுகிறார் கர்தினால்
 
@@ -1611,135 +1891,3 @@ Accordingly, the Mahanayaka Theros have sought prompt attention of the President
 சம்பவம் இடம்பெற்றபோது, அப்பெண்ணின் கணவரும் வீட்டில் இருந்துள்ளார் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது
 
 சம்பவத்தின் போது தாக்கியதாகக் கூறப்படும் பெண் கைது செய்யப்பட்டுள்ளார் என தெரிவித்த அங்கொட பொலிஸார், மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் தெரிவித்துள்ளனர்.
-
-### ත්‍රීවිල් එක උකස්කර බූරු ගසා පරාදවී සරම මූණේ ඔතාගෙන කෝච්චියට පනින්න ගිහින්
-
-*2024-01-14 15:18:57 - [adalk](https://www.ada.lk/breaking_news/ත්‍රීවිල්-එක-උකස්කර-බූරු-ගසා-පරාදවී-සරම-මූණේ-ඔතාගෙන-කෝච්චියට-පනින්න-ගිහින්/11-407543)*
-
-රුපියල් ලක්ෂ 10 ක් පමණ වටිනා ත්‍රීරෝද රථයක් රුපියල් එක් ලක්ෂ විසිදහසක උකසට තබා බූරු ගසා පරාදවී ඇතිවූ සිත්තැවුලෙන් සරම ඔළුවේ ඔතාගෙන කෝච්චියට පැන සියදිවි නසාගැනීමට උත්සාහ කල පුද්ගලයකු බේරාගත් බව පානදුර දකුණ පොලිසිය පවසයි .
-
-පානදුර  , මාලමුල්ල ප්‍රදේශයේ පදිංචි 52 හැව්රිදි පුද්ගලයකු මෙසේ බේරාගත් බව පොලිසිය කීය.
-
-පානදුර පොලිස් නිළධාරීන් පසුගියදා (12) පානදුර දුම්රිය ස්ථානයෙන් බැස එන මගීන් පරීක්ෂා කරන අතරතුර එම පුද්ගලයා දුම්රිය මාර්ගයේ බැගයක් සහ සරමක් ඇතැතිව ගමන් කරන අයුරු පොලිස් නිළධාරීන්ට සැකසිතී  පරීක්ෂා කිරීමේදී බැගයේ තිබූ පොතෙහි. ඔහු පානදුර මෝදර බූරු පිටියේදී, ත්‍රීරෝද රථය රුපියල් එක්ලක්ෂ විසි දහසක මුදලකට උකස් කර  පාරාදවී ඇතිවූ  සිත්තැවුලෙන් දුම්රියට පැන දිවි නසාගන්නා බවට සටහන් කර තිබූ බව පොලිසිය කීය.
-
-අතේ තිබූ සරම පිළිබඳ විමසීමේදී සදහන් කර ඇත්තේ දුම්රිය පැමිණෙන විට බිය නිසා මූනේ ඔතාගෙන දුම්රියට පැනීමට රැගෙන ආ බවයි.
-
-පොලිස් නිළධාරීන් විසින් එම තැනැත්තා මනෝ උපදේශනය සදහා යොමුකල බව උසස් පොලිස් නිළධාරීයෙක් කීය.
-
-මූලස්ථාන පොලිස් පරීක්ෂක උපුල් ප්‍රියංකර මහතාගේ උපදෙස් පරිදි  පොලිස් පරීක්ෂක තිලකරත්න සහ උප පොලිස් පරීක්ෂක හේමාල් වීරසිංහ ඇතුළු නිළධාරීන් විසින් සැකකරු ඉදිරි කටයුතු සිදුකර තිබේ.
-
-### Bodies of two youths found in canal in Kilinochchi
-
-*2024-01-14 15:14:00 - [adaderanalk](https://www.adaderana.lk/news/96397/bodies-of-two-youths-found-in-canal-in-kilinochchi)*
-
-The bodies of two youths have been found in an irrigation canal in the Kilinochchi area.
-
-The two youths, aged 20 and 18 years have been identified as residents of the Ahlapuram area of Kilinochchi, the police said.
-
-Police suspect that the duo may have fallen into the canal while travelling at high speed on a motorcycle and losing control of the vehicle which had collided with a sign post.
-
-The bodies have been taken to Kilinochchi Hospital for further investigations, following the on-site examination of Kilinochchi Magistrate.
-
-### රජයේ ඉඩමේ බලෙන් ඉන්න ඇමතිට ඉවත් වෙන්න දැනුම් ‌දෙයි
-
-*2024-01-14 14:35:33 - [adalk](https://www.ada.lk/breaking_news/රජයේ-ඉඩමේ-බලෙන්-ඉන්න-ඇමතිට-ඉවත්-වෙන්න-දැනුම්-‌දෙයි/11-407542)*
-
-ගම්පොළ උඩ පළාත ප්‍රදේශයේ රජයේ ඉඩමක් බලහත්කාරයෙන් අත්පත් කරගෙන එම ඉඩමේ රාජ්‍ය මුදල් භාවිතයෙන් සංස්කෘතික මධ්‍යස්ථානයක් ඇතුළු ඉදිකිරීම් කර ඉන් උපයන ආදායම පෞද්ගලිකව පරිහරණය කළ බව කියන ගම්පොළ ප්‍රදේශයේ ප්‍රබල දේශපාලකයෙකුට අනීතිකව සිදුකරන එම දේපළ පරිහරණය වහාම නවතා ඉන් ඉවත්වන ලෙස උඩ පළාත ප්‍රාදේශීය ලේකම් ආත්මා දිලුක්ෂි ජයරත්න මහත්මිය ලිඛිතව දන්වා තිබේ .
-
-ප්‍රබල දේශපාලකයා මේ ආකාරයෙන් අනීතිකව භුක්ති විඳිමින් පෞද්ගලිකව පරිහරණය කොට ඇත්තේ ගම්පොළ අංගම්මන බටහිර ග්‍රාම නිලධාරී වසමේ රඳාව වත්තේ හෙක්ටයාර 0.3283 පමණ වූ බිම් කොටසකි .
-
-රජයේ ඉඩම් සන්තකය ලබා ගැනීමේ පනතේ 3වන වගන්තියට අනුව එම වත්කම් පිළිබඳව ඇති බලතල ප්‍රකාරව ප්‍රාදේශීය ලේකම්වරිය විසින් අදාල නිවේදනය නිකුත් කොට ඇත්තේ එම සංස්කෘතික මධ්‍යස්ථාන ගොඩනැගිල්ලට ගොස් එහි අදාළ ලිඛිත නිවේදනය ද අලවමිනි .
-
-### Final decision on increasing annual excise licence fees after President’s return
-
-*2024-01-14 13:38:00 - [adaderanalk](https://www.adaderana.lk/news/96396/final-decision-on-increasing-annual-excise-licence-fees-after-presidents-return)*
-
-A final decision on the revision of annual excise licence fees will be taken following further discussions due to the objections by liquor distillers, associations etc., State Minister of Finance Ranjith Siyambalapitiya said.
-
-Accordingly, the state minister also stated that the final decision on the matter will be taken at after President Ranil Wickremesinghe returns to the island.
-
-President Wickremesinghe is currently visiting Switzerland to attend the 54th Annual Meeting of the World Economic Forum.
-
-The Head of State departed the island yesterday (Jan.13) for a 12-day stay in the Swiss town of Davos where the event is taking place.
-
-However, the government had decided to revise the Annual Excise License fees with effect from 12 January 2024 through an Excise Ordinance issued by the President.
-
-Accordingly, the Distillery License fee (except for Palmyra arrack) was increased from Rs. 01  million to Rs. 25 million while the License fee for Palmyra arrack was increased from Rs. 250,000 to Rs. 05 million.
-
-Meanwhile the License fee for bottling of Toddy was increased from Rs. 01 million to Rs. 10 million while the license fee for manufacturing vinegar had been increased from Rs. 500,000 to Rs. 2.5 million. The annual Wholesale License for liquor was increased from Rs. 01 million to Rs. 05 million.
-
-The annual license fee for night clubs had been reduced from Rs. 500,000 to Rs. 250,000.
-
-### ஜன­நா­ய­கத்­திற்கு சவா­லாகும் செயற்கைப் புல­ன­றிவு
-
-*2024-01-14 13:31:00 - [virakesarilk](https://www.virakesari.lk/article/173934)*
-
-இத்­த­கைய செயற்கைப் புல­ன­றிவு தொழில்­நுட்­பங்கள் மூலம் எழக்­கூ­டிய சவால்­களை முறி­ய­டிப்­ப­தொன்றும் இல­கு­வான காரியம் அல்ல. இணையம் என்ற பெருங்­க­டலில் ஒரு துளி கலந்து விட்டால், அந்தத் துளியை பிரித்­த­றியும் அள­விற்கு சிர­ம­மான காரியம். ஒரு­புறத்தில் மேலைத்­தேய நாடு­களில் டிஜிற்றல் அறிவு மிக்க சமூ­கங்கள் இருப்­பதால், இந்த மாதி­ரி­யான சவால்கள் இருப்­ப­தை­யேனும் சுட்­டிக்­காட்ட முடியும். இது உண்மை, இது பொய் என்­பதை பிரித்துக் காண்­ப­தற்­கு­ரிய அறிவைப் போதிப்­பது மேலைத்­தேய நாடு­க­ளுக்­குள்ள சவால் என்றால், கீழைத்­தேய நாடு­களில் ‘நீங்கள் பார்ப்­பதில் போலிகள் அதிகம்’ என்பதை விபரிப்பதற்கே பெரும் பிரயத்தனப்பட வேண்டியிருக்கும்.
-
-### க.​பொ.த உயர்தர பரீட்சையில் திருத்தம்
-
-*2024-01-14 13:26:51 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/க-பொ-த-உயர்தர-பரீட்சையில்-திருத்தம்/175-331484)*
-
-க.பொ.த உயர்தரப் பரீட்சையில் விவசாயப் பிரிவின் இரண்டாம் தாளுக்கான விசேட பரீட்சையை எதிர்வரும் பெப்ரவரி முதலாம் திகதி காலை 8.30 மணி முதல் 11.40 மணி வரை நடாத்துவதற்கு இலங்கைப் பரீட்சைகள் திணைக்களம் தீர்மானித்துள்ளது.
-
-கடந்த 10ம் திகதி தேர்வுத்துறையால் ரத்து செய்யப்பட்ட வேளாண் அறிவியல் இரண்டாம் தாளுக்கு பதிலாக இந்த சிறப்பு தேர்வு வாய்ப்பு நடைபெறுகிறது.
-
-இதன்படி, இம்மாதம் 31ஆம் திகதி முடிவடையவிருந்த 2023(2024) உயர்தரப் பரீட்சை பெப்ரவரி 01ஆம் திகதி நிறைவடையும் எனவும் அன்றைய தினம் அனைத்துப் பரீட்சை நிலையங்களும் வழமை போன்று நடைபெறும் எனவும் பரீட்சை திணைக்களம் தெரிவித்துள்ளது.
-
-### Kandakadu Rehab Centre clash: 15 escaped inmates still missing
-
-*2024-01-14 13:26:00 - [adaderanalk](https://www.adaderana.lk/news/96395/kandakadu-rehab-centre-clash-15-escaped-inmates-still-missing)*
-
-All except 15 inmates who escaped from the Kandakadu Treatment and Rehabilitation Centre have surrendered so far, the Commissioner General of Rehabilitation Major General Darshana Hettiarachchi said.
-
-Furthermore, Major Gen. Hettiarachchi emphasized that the activities of the rehabilitation center are now being carried out as usual.
-
-Several inmates of the Kandakadu Treatment and Rehabilitation Centre had reportedly escaped while at least 25 others sustained injuries on Friday (12), during a clash that occurred between two groups of inmates detained at the camp.
-
-He also mentioned that five of the injured individuals are still receiving treatment at the hospital.
-
-Against this backdrop, several escaped inmates who had later surrendered to police, also claimed that they were repeatedly subjected to harassment by the other detainees at the camp.
-
-Meanwhile, Minister of Justice, Prison Affairs and Constitutional Reforms Wijeyadasa Rajapakshe says that attention has been directed to switching the management of the Kandakadu Treatment and Rehabilitation Centre, in view of the reports on repeated conflicts within the institution.
-
-### සාජන්ගේ රු. 41400ක් සොරකම් කළ කොස්තාපල් අල්ලයි
-
-*2024-01-14 13:21:28 - [adalk](https://www.ada.lk/breaking_news/සාජන්ගේ-රු--41400ක්-සොරකම්-කළ-කොස්තාපල්-අල්ලයි/11-407541)*
-
-උඩ මළුව පොලිස් ස්ථානයට අනුයුක්තව රාජකාරී කරන පොලිස් සැරයන්වරයෙකුගේ බැංකු කාඩ් පත සොරා ගෙන රුපියල් 41000කට වැඩි වටිනාකමකින් යුත් භාණ්ඩ මිලදී ගත් මානම්පිටිය පොලිස්  ස්ථානයේ විශේෂ රාජකාරී කරනු ලබන කොස්තාපල්වරයෙකු අත්අඩංගුවට ගෙන අද (14දා) අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබූ බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
-
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ කදුරුවෙල, ගල්ලෑල්ල, කුසුම්ගම ප්‍රදේශයේ පදිංචි කොස්තාපල්වරයෙකි.
-
-පැමිණිලිකාර සැරයන්වරයා  අනුරාධපුර නගරයේ රාජ්‍ය බැංකුවක ඒ.ටී.එම් යන්ත්‍රයකින් මුදල් ලබා ගන්නා අවස්ථාවේදී සැකකාර පොලිස් කොස්තාපල්වරයා  ඊට පිටුපසින් පෝලිමේ රැඳී සිට මෙම බැංකු කාඩ් පත සොරා ගෙන ඇති බව පැමිණිල්ලේ සඳහන් වේ.
-
-අත්අඩංගුවට ගත් සැකකාර කොස්තාපල්වරයා මෙම කාඩ්පත සොරා ගෙන, රුපියල් 41440 ක් වටිනා භාණ්ඩ මිලදී ගෙන තිබූ බව සිදු කල විමර්ශනවලදී අනාවරණය වූ බවද පොලිසිය සඳහන් කළේය.
-
-සොරකමක්  සිදු කිරීම සහ දේපල සාවද්‍ය පරිහරණය යන චෝදනාව යටතේ පොලිස් කොස්තාපල්වරයා අත්අඩංගුවට ගෙන තිබුණි.
-
-### செலவழித்த தொகையை மீளக்கோருகிறது ஜப்பான்
-
-*2024-01-14 13:12:26 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/செலவழித்த-தொகையை-மீளக்கோருகிறது-ஜப்பான்/175-331483)*
-
-இலங்கை எல்.ஆர்.டி திட்டத்திற்கு ஏற்கனவே செலவிட்ட தொகையை அது ரத்து செய்யப்பட முன்னதாக வழங்குமாறு ஜப்பான் நிதி அமைச்சர் ஷுனிச்சி சுசுகி மற்றும் அவரது குழுவினர் எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச மற்றும் ஐக்கிய மக்கள் சக்தி எம்.பி.க்களிடம் தெரிவித்துள்ளதாக SJB பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா தெரிவித்துள்ளார்.
-
-ஜப்பானிய அமைச்சர் கடன் மறுசீரமைப்பை நிறைவு செய்ய விரும்பியதுடன் சர்வதேச நாணய நிதியத்தின் திட்டத்தை இலங்கை பாதிக்கக் கூடாது என்றும் அவர் கூறியிருந்தார்.
-
-### மனித உரிமை விவகாரங்களில் இரட்டை வேடம்போடும் உலக தலைவர்கள் - பல்லாயிரக்கணக்கான மக்களின் உயிர்களிற்கு ஆபத்து - சர்வதேச மனித உரிமை கண்காணிப்பகம்
-
-*2024-01-14 12:59:00 - [virakesarilk](https://www.virakesari.lk/article/173931)*
-
-உலக நாடுகளின் தலைவர்கள் சட்டங்களை நடைமுறைப்படுத்த தவறுவதால் சர்வதேச அளவில் மனிதஉரிமைகள் வீழ்ச்சியடைந்துள்ளன என சர்வதேச மனிதஉரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
-
-சர்வதேச சட்டங்களை நிறைவேற்றவேண்டிய தங்கள் கடப்பாட்டினை உலக தலைவர்கள் புறக்கணிப்பதால் உலகம் முழுவதும் மனித உரிமை நிலவரம் மோசமடைந்துள்ளது என சர்வதேச மனித உரிமை கண்காணிப்பகம் தனது வருடாந்த அறிக்கையில் தெரிவித்துள்ளது.
-
-தனது வருடாந்த அறிக்கையில் சர்வதேச மனித உரிமை கண்காணிப்பகம் சர்வதேச அளவில் அதிகரிக்கும் மனித உரிமை நெருக்கடிகள் குறித்து கடுமையாக எச்சரித்துள்ளது.
-
-யுத்தகால அநீதிகள் பலமடங்காக அதிகரிக்கின்றன மனித உரிமை பாதுகாவலர்கள் மீதான ஒடுக்குமுறை சர்வதேச மனித உரிமை கொள்கைகள் சட்டங்கள் தாக்குதலிற்குள்ளாகின்றன அரசாங்கங்கள்அவற்றை குறைமதிப்பிற்கு உட்படுத்துகின்றன எனவும் சர்வதேச மனித உரிமை கண்காணிப்பகம்தெரிவித்துள்ளது.
-
-சர்வதேச மனித உரிமை கண்காணிப்பகம் தனது அறிக்கையில் சர்வதேச மனிதஉரிமை சட்டங்கள் குறித்து அரசியல் தலைவர்கள் அக்கறையின்மையை வெளிப்படுத்துவதை சுட்டிக்காட்டியுள்ளது.
-
-மனித உரிமை மீறல்கள் குறித்து தெரிவுசெய்து சீற்றத்தை வெளிப்படுத்துதல் பரிவர்த்தனைஇராஜதந்திரம் சர்வதேச மனித உரிமைகள் மற்றும சட்டங்களை அங்கீகரிப்பதில் இரட்டைநிலைப்பாடுகள் போன்றவற்றினால் ஆயிரக்கணக்கான உயிர்களிற்கு ஆபத்து  ஏற்பட்டுள்ளது எனவும் சர்வதேச மனித உரிமை கண்காணிப்பகம்தெரிவித்துள்ளது.
-
-குறுகியகால ஆதாயங்களிற்காக அரசாங்கங்கள் மனித உரிமைகள் தொடர்பான சட்டபூர்வமான கடமைகளில் இருந்து விலகி அதிகாரத்தை உறுதிப்படுத்த முயல்வதால் உலகம் முழுவதும் மனித உரிமைகள் மீது தொடர்ச்சியான தாக்குதல்கள் இடம்பெறுகின்றன என சர்வதேச மனித உரிமை கண்காணிப்பகத்தின் நிறைவேற்று இயக்குநர் டிரான ஹசன் தெரிவித்துள்ளார்.
-
-இஸ்ரேல் ஹமாஸ் மோதலில் வெளிப்படையாக தெரியும் இரட்டை நிலைப்பாடுகளிற்கு அப்பால் ஏனைய பல மனித உரிமை விவகாரங்களிலும் இரட்டை நிலைப்பாடுகள் காணப்படுகின்றன மனித குலத்திற்கு எதிரான சீன அரசாங்கத்தின் குற்றங்கள் தொடர்பில் மௌனம் கடைப்பிடிக்கப்படுகின்றது உக்ரைனில் இடம்பெறும் மனித உரிமை மீறல்கள்குறித்து பொறுப்புக்கூறலும்நீதியும் அவசியம் என உரத்த குரலில் வேண்டுகோள்கள் விடுக்கப்படும்அதேவேளை ஆப்கானில் அமெரிக்காவின் மனிதஉரிமை துஸ்பிரயோகங்கள் குறித்து மௌனம் காக்கப்படுகின்றது என அவர்தெரிவித்துள்ளார்.

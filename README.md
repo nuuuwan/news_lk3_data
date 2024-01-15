@@ -1,9 +1,464 @@
-# Articles (Latest 100)
+# Newspaper Articles from Sri Lanka :lka:
 
-> [!NOTE]
-> As of **2024-01-15 13:54:05**
+As of **2024-01-15 20:10:20**
 
-## பசியை போக்க பாக்கு பிடுங்கியவர்  மரணம்
+## Newspaper Stats
+
+* 17 - virakesarilk
+
+* 20 - colombotelegraphcom
+
+* 25 - newsfirstlk
+
+* 26 - adaderanalk
+
+* 28 - islandlk
+
+* 34 - tamilmirrorlk
+
+* 90 - dailyftlk
+
+* 93 - adalk
+
+* 111 - dbsjeyarajcom
+
+* **Total**: - **444**
+
+## Latest Articles (100)
+
+### நீர்க் கட்டணத்தைக் குறைக்க முடியும்;ஜீவன்
+
+*2024-01-15 16:25:17 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/நீர்க்-கட்டணத்தைக்-குறைக்க-முடியும்-ஜீவன்/175-331536)*
+
+மின்சாரக் கட்டணக் குறைப்புக்கு அமைவாக நீர்க் கட்டணத்தைக் குறைக்கும் வகையில் நீர் கட்டணச் சூத்திரமொன்றை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்படும் என நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்துள்ளார்.
+
+தேசிய நீர் வழங்கல் வடிகாலமைப்புச் சபை மற்றும் ஆசிய அபிவிருத்தி வங்கியின் (ADB) ஆலோசகர்களுடன் கலந்தாலோசித்து விலைச் சூத்திரம் வகுக்கப்படும் என அமைச்சர் தெரிவித்தார்.
+
+பேராதனைப் பல்கலைக்கழகத்தில் இடம்பெற்ற சந்திப்பின் போது, ​​மின் கட்டணம் அடுத்த மாதம் குறைக்கப்படும் என மின்சக்தி அமைச்சர் உறுதியளித்துள்ளதாகவும், நீர் விநியோகச் செலவு குறைவதால், அதற்கேற்ப நீர்க் கட்டணத்தையும் குறைக்கலாம் என்றும் அவர் தெரிவித்தார்.
+
+2019 ஆம் ஆண்டு ஜனவரி மாதம் மின்சாரக் கட்டணம் 66 வீதத்தால் அதிகரிக்கப்பட்ட போது நீர்க் கட்டணம் அதிகரிக்கப்பட்டதாகத் தெரிவித்த அவர், மின்சாரக் கட்டணம் 50 வீதத்தால் குறைக்கப்படும் போது கணிசமான அளவு நீர்க் கட்டணத்தைக் குறைக்க முடியும் என்றும் தெரிவித்தார்.
+
+### பதுளைக்கு பயணித்த பஸ் பற்றி எரிந்தது
+
+*2024-01-15 15:34:10 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பதுளைக்கு-பயணித்த-பஸ்-பற்றி-எரிந்தது/175-331535)*
+
+தெற்கு அதிவேக நெடுஞ்சாலையில் பெலியத்த நுழைவாயிலுக்கு அருகில் இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பேருந்து ஒன்று தீப்பிடித்து எரிந்துள்ளது.
+
+தீப்பற்றி எரிந்த பேருந்தில் இருந்தவர்கள் அனைவரும் பேருந்தில் இருந்து வெளியேற்றப்பட்டனர் மற்றும் பயணிகள் யாருக்கும் காயம் ஏற்படவில்லை.
+
+பஸ் முற்றாக தீப்பிடித்து எரிந்ததுடன் பொலிஸ் விசேட அதிரடிப்படையினர் தீயை அணைக்கும் பணியில் ஈடுபட்டனர்.
+
+இதன் காரணமாக பெலியத்த நுழைவாயிலில் இருந்து சகல நுழைவாயில் வரையான நெடுஞ்சாலைப் பகுதி மூடப்பட்டுள்ளதுடன், சகல நுழைவாயிலில் இருந்து வெளிவரும் வாகனங்கள் மீண்டும் பெலியத்த நுழைவாயிலில் நுழையும் என பொலிஸார் தெரிவித்தனர்.
+
+கொழும்பில் இருந்து பதுளையை நோக்கி பயணித்த அதிசொகுசு பேருந்தே இவ்வாறு தீப்பிடித்து எரிந்துள்ளது.
+
+### Int’l rights groups urge govt to stop ‘abusive anti-drug operation’ and release arbitrary detainees
+
+*2024-01-15 15:34:00 - [adaderanalk](https://www.adaderana.lk/news/96418/intl-rights-groups-urge-govt-to-stop-abusive-anti-drug-operation-and-release-arbitrary-detainees-)*
+
+Over 30 international human rights organisations including Amnesty International, Human Rights Watch and the International Commission of Jurists have expressed their deep concern regarding the “drastic intensification” of anti-drug operations in Sri Lanka leading to significant human rights violations.
+
+Issuing a joint statement, the 33 international organizations demand the Sri Lankan government to stop the ‘abusive anti-drug operation’ and release the arbitrarily detained individuals.
+
+Furthermore, the statement highlights that this operation is unfolding in a context of already severe repression against persons who use or are suspected of using drugs, and who suffer discrimination and stigma within the Sri Lankan criminal justice system and society.
+
+“Alongside the Sri Lankan police, members of the armed forces have been supporting this operation, during which several human rights violations have been reported. These violations include alleged arbitrary arrests, primarily against individuals from marginalised socio-economic communities; searches conducted without warrants or reasonable suspicion; and degrading treatment including strip searches in public as well as cavity searches. The searches and arrests have been televised, in violation not only of the right to privacy (and of basic human dignity) but also of a person’s right to be presumed innocent”, the joint statement added.
+
+The global organizations, which also point out that according to lawyers, persons are being arrested even when no drugs are found in their possession, simply for having been arrested for drug offences or having been sent to compulsory rehabilitation in the past, mention that the arrests of main livelihood earners and mothers have adversely impacted the ability of families to meet their basic needs during a time of economic crisis in Sri Lanka, and the wellbeing of children.
+
+“Persons are being arrested primarily under Section 54A of the Poisons, Opium and Dangerous Drugs Ordinance, an offence which is non-bailable. As a result, those arrested are bound to spend time (sometimes months) in pretrial detention, thereby exacerbating already poor conditions of imprisonment in an overburdened prison system.”
+
+Furthermore, the statement has drawn attention to the fact that the level of overcrowding of the prison system is at nearly 200% - with punitive drug policies playing a significant role: as of 2022, 63% of convicted persons were sentenced for drug-related offences, as per the statistics issued by the Department of Prisons.
+
+The aforesaid organizations have also expressed in this joint statement that the total number of arrests pursuant to operation Yukthiya has exceeded 29,000 as of 9 January 2024, while nearly 1,500 people are in administrative detention in police custody for further investigation and at least 1,600 more persons have been sent for compulsory drug rehabilitation, “in violation of several fundamental rights; including the right to the highest attainable standard of health, which includes the right to consent to and withdraw from medical treatment”.
+
+“‘Drug treatment’ in these centres is abstinence-based, essential harm reduction services are not available, and persons undergo severe withdrawal symptoms without any medical assistance while in detention.”
+
+“The use of violence to discipline and punish has been reported in at least two compulsory drug rehabilitation centres which are within the purview of the Bureau of the Commissioner General for Rehabilitation and are operated by the military, which is in itself a violation of international standards”, it added.
+
+“The UN Working Group on Arbitrary Detention in its statement at the conclusion of its visit to Sri Lanka 2017expressed concern regarding the involvement of military personnel in drug treatment and rehabilitation, the fact that strenuous physical exercise was the core component of compulsory drug treatment, and at the lack of trained professionals to monitor the health of people in detention. Furthermore, the statement highlighted the irregularities in the judicial process by which persons were sent to drug rehabilitation centres without a medical assessment”, the statement mentioned.
+
+In addition, the organizations say that since the 2016 UN General Assembly Special Session on drugs, there is international consensus on pursuing a holistic and health and human rights-based approach to drugs, which encompasses supply and demand reduction as well as harm reduction.
+
+“The 2019 Ministerial Declaration on drugs – the current global drug policy document - as well as multiple resolutions of the UN General Assembly, the UN Commission on Narcotic Drugs, and the UN Human Rights Council reiterate and recommend a similar approach”, it added.
+
+Further, the joint statement clarified: “a punitive and militarised approach to drug control contravenes recognised international human rights standards and guidelines, is ineffective to protect individual and public health, and ultimately fails to make communities safer”.
+
+Thereby, the 33 global organizations call upon the Government of Sri Lanka to immediately cease operation “Yukthiya” and release persons who have been arrested without evidence or reasonable suspicion. The government should ensure that those arrested who do not have access to legal representation are provided legal aid, they stressed.
+
+Through the statement, it is also demanded to immediately release persons arrested or sent to compulsory drug rehabilitation for using drugs/having a drug dependence, cease involving the armed forces in drug control and treatment activities as consistent with human rights law, repeal laws that allow compulsory drug rehabilitation, close compulsory treatment centres and release persons presently held at the centres within the purview of the Bureau of Commissioner General for Rehabilitation.
+
+Additionally, they have called the government to ensure that any law enforcement operation to address the supply side is conducted respecting due process standards and constitutionally protected fundamental rights.
+
+1. Africa Network of People Who Use Drugs (AfricaNPUD) (Africa)
+
+23. International Network of People who Use Drugs (INPUD) (Global)
+
+### ’அவலோகிதேஸ்வர போதிசத்வா’ கைது
+
+*2024-01-15 15:26:54 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/அவலோகிதேஸ்வர-போதிசத்வா-கைது/175-331534)*
+
+இலங்கையில் 'அவலோகிதேஸ்வர போதிசத்வா' என தன்னைத் தானே அறிவித்துக் கொண்ட மகிந்த கொடித்துவக்கு பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+‘அவலோகிதேஸ்வரர்’ என்று கூறிக்கொள்ளும் குறித்த நபர் பன்னிபிட்டியவில் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார் என பொலிஸார் தெரிவித்தனர்.
+
+கடந்த வாரம் கொடித்துவக்குவிற்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது, ​​கோட்டை நீதவான் நீதிமன்றினால் அவருக்கு  பயணத்தடை விதிக்கப்பட்டது.
+
+மேலும் அவரது வங்கிக் கணக்குகளை விசாரிக்குமாறும் கோட்டை நீதவான் நீதிமன்றம் உத்தரவு பிறப்பித்துள்ளது.
+
+பௌத்த மதத்திற்கு எதிரான மதச் செயல்களில் ஈடுபட்டதாக மஹிந்த கொடித்துவக்கு  மீது குற்றம் சுமத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+### තවදුරටත් බලා සිටිනවාද නැත්නම් නැගිටිනවාද?
+
+*2024-01-15 15:15:41 - [adalk](https://www.ada.lk/breaking_news/තවදුරටත්-බලා-සිටිනවාද-නැත්නම්-නැගිටිනවාද-/11-407562)*
+
+උතුරේත් දකුනේත් නැගෙනහිරත් බටහිරත් වෙසෙන සිංහල, දමිළ, මුස්ලිම් බර්ගර් ඇතුළු සෑම ජන කොට්ඨාසයකටම අයත් ජනතාව රටේ පවතින බංකොලොත්භාවය නිසා දැඩි ලෙස අසරණ වී ඇති බවත් කෘෂිකර්මාන්තය මත පදනම් වූ ස්වයංපෝෂිත ජීවන රටාවක් පැවැති අප රට මේ ආකාරයෙන් දැඩි බංකොලොත් භාවයකට පත් වූයේ පැවැති රජයේ අදුරදර්ශී සහ අත්තනෝමතික පාලනය නිසා බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+එකී බංකොලොත්භාවයෙන් බැට කන ජනතාව කබලෙන් ලිපට ඇද දමීමට වත්මන් රජයේ බදු ප්‍රතිපත්තිය හේතු වු බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මේ බව කියා සිටියේ අද තෛපොංගල් උත්සවය නිමිත්තෙන් විපක්ෂ නායක කාර්‍යාලයේදී පැවැති උත්සවයට එක්වෙමිනි.
+
+තෛපොංගල් උත්සවය සමරන මේ මොහොතේ පවා කෘෂිකාර්මික නිෂ්පාදන සදහා පවා බදු අය කර ඇති බවත් මේ නිසා සහල් ඇතුලු එලවලු මිල අධික ලෙස ඉහල ගොස් ඇති බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+මෙවන් තත්ත්වයක් තුල අප රටක් ලෙස තවදුරටත් බලා සිටිනවාද නැතිනම් ප්‍රජාතන්ත්‍රවාදය වෙනුවෙන් නැගී සිටිනවාද යන්න ජනතාව තීන්දු කල යුතු බවත් එම යහපත් අරමුණ වෙනුවෙන් නැගී සිටිමට ධෛර්ය ශක්තිය ලැබේවා යනුවෙන් ප්‍රාර්ථනා කර සිටින බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මෙහිදි වැඩිදුරටත් පැවසීය.
+
+### Police Net Over 1,400 WANTED Suspects in 24-Hour Crackdown
+
+*2024-01-15 15:10:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/police-net-over-1-400-wanted-suspects-in-24-hour-crackdown/)*
+
+COLOMBO (News 1st); Sri Lanka police apprehended a staggering 1,468 individuals wanted for various offenses in a 24-hour operation.
+
+This targeted sweep stems from the Acting Inspector General’s directive over the weekened, prioritizing the immediate capture of 42,248 listed suspects.
+
+254 suspects with open warrants for drug offenses were apprehended, alongside 942 individuals wanted for other crimes.
+
+Notably, 123 previously unidentified suspects were recognized through fingerprint analysis and apprehended for the first time. Additionally, 149 individuals were arrested in connection with juvenile delinquency.
+
+The targeted effort involved distributing a comprehensive list of 35,505 open warrants, 4,258 unapprehended suspects, and 2,485 wanted individuals to all Crime OICs, ensuring coordinated action across Sri Lanka.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### Police investigating A/L paper leak
+
+*2024-01-15 15:06:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/police-investigating-a-l-paper-leak/)*
+
+COLOMBO (News 1st): An investigation commenced regarding the alleged leak of the Agriculture Question paper one of the Advanced level examination.
+
+The police said that 16 questions of the first paper were found in a mobile device.
+
+The Agriculture second paper of this year's Advanced level examination, which was held on January 10, was suspended.
+
+This was following the information received that the relevant question paper had been leaked and circulated on social media prior to the exam.
+
+A teacher who was arrested as a suspect was remanded until the 26th.
+
+The examination department also stated that the second paper of agriculture science which was canceled is re-scheduled for the 1st of next month and that the date may even be revised.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### 24 மணிநேரத்தில் 1,400 ற்கும் மேற்பட்டோர் கைது
+
+*2024-01-15 15:05:31 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-1-400-ற்கும்-மேற்பட்டோர்-கைது/175-331532)*
+
+நாடு முழுவதும், குற்றச் செயல்களில் ஈடுபட்ட மொத்தம் 42,248 சந்தேக நபர்களில் 1,468 பேர் கடந்த 24 மணி நேரத்தில் கைது செய்யப்பட்டுள்ளதாக பொது பாதுகாப்பு அமைச்சகம் தெரிவித்துள்ளது.
+
+குற்றச் செயல்களுடன் தொடர்புடைய 42,248 சந்தேக நபர்களின் விரிவான பட்டியலை பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் சகல பொலிஸ் நிலையங்களிலும் குற்றப் பிரிவு பொறுப்பதிகாரிகளிடம் கடந்த சனிக்கிழமை கையளித்தார்.
+
+35,505 பேர் பிடியாணை பிறப்பிக்கப்பட்டவர்களாகவும், 4,258 சந்தேக நபர்கள் கைரேகைகள் மூலம் அடையாளம் காணப்பட்டவர்களாகவும் மற்றும் 2,485 நபர்கள் கடந்த இரண்டு ஆண்டுகளில் நாட்டில் நடந்த குற்றங்களுக்காக தேடப்பட்டு வருகின்றனர் எனவும் குறித்த பட்டியல் சுட்டிக்காட்டுகிறது.
+
+ஐஜிபியின் உத்தரவுக்கு இணங்க , பிரிவு அதிகாரிகள், மாவட்ட பொறுப்பாளர்கள், தலைமையக ஆய்வாளர்கள் ,அனைத்து பொலிஸ் நிலையங்களின் குற்றப்பிரிவு நிலையப் பொறுப்பதிகாரிகள் ஆகியோர் நேற்றிலிருந்து (14) நடைபெற்று வரும் 'யுக்திய' நடவடிக்கையில் தீவிரமாக பங்கேற்றனர்.
+
+பட்டியலிலிருந்து கைது செய்யப்பட்டவர்களில் பிடியாணை பிறப்பிக்கப்பட்ட 1,198 பேரும், கைரேகைகள் மூலம் அடையாளம் காணப்பட்ட 4,258 தேடப்படும் சந்தேக நபர்களில் 123 பேரும், கடந்த இரண்டு ஆண்டுகளில் நாட்டில் நடந்த குற்றங்களுக்காக 149 சந்தேக நபர்களும் தேடப்பட்டு வருவதாக அமைச்சகம் தெரிவித்துள்ளது.
+
+### නොකියාම මන්දාම්නුවර ගිය අගමැති
+
+*2024-01-15 15:03:22 - [adalk](https://www.ada.lk/breaking_news/නොකියාම-මන්දාම්නුවර-ගිය-අගමැති/11-407561)*
+
+අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අද (15දා) දින මන්දාරම්නුවර ජනතාව පෙර දැනුම්දීමකින් තොරව  මුණගැසිණි.
+
+ප්‍රදේශයට බලපාන කරුණු, යටිතල පහසුකම් හා සංචාරක ව්‍යාපාරය පිළිබඳව ඔවුන් මෙහිදී අග්‍රාමාත්‍යවරයා සමග බොහෝ අදහස් හුවමාරු කරගත්තේය.
+
+එළවළු වර්ග ඇතුළු අස්වැන්න කල් ඉකුත් නොවී, ප්‍රධාන වෙළඳපොළට ගෙනයාමට ආර්ථික  මධ්‍යස්ථානයක අවශ්‍යතාවය ඔවුන් දැඩිව පෙන්වා දුන්නේය.
+
+දරුවන්ට හා තරුණයන්ට ක්‍රීඩා කිරීමට ක්‍රීඩා පිටියක්, පානීය ජල හා මාර්ග පහසුකම් ඇතුළු යටිතල පහසුකම් රැසක අඩුපාඩුව ඔවුන් පෙන්වා දුන්නේය.
+
+ලංකාවේ සුන්දරම සුවිශේෂි කඳු  ප්‍රදේශය ආරක්ෂා කොට රටට සහ ලොවට දකින්නට සහ විඳින්නට ඔවුන් කටයුතු කරන බැවින් සංචාරක කර්මාන්තය ප්‍රවර්ධනය කිරීමේදී ජන අනන්‍යතාවය, සංස්කෘතිය, සම්ප්‍රදායික තත්ත්වයන් නොවෙනස්ව, විශේෂයෙන් මතින් තොරව සංචාරක ව්‍යාපාරය තම ප්‍රදේශය තුල සංවර්ධනය විය යුතු බව ඔවුන් පැවසීය.
+
+### IMF Talks Tax and Resilience with Sri Lanka’s North
+
+*2024-01-15 14:59:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/imf-talks-tax-and-resilience-with-sri-lanka-s-north/)*
+
+COLOMBO (News 1st); A high-level team from the International Monetary Fund (IMF) visited Sri Lanka's Northern Province on Sunday, holding a focused discussion with Governor P.S.M. Charles and key stakeholders on the region's economic struggles and potential pathways for recovery.
+
+The meeting, organized by the Governor's Secretariat, brought together representatives from Jaffna University, local businesses, small and medium enterprises (SMEs), and the IMF.
+
+Governor Charles briefed the IMF team on pressing issues faced by the province, including ongoing development projects, inadequate infrastructure, climate change impacts, and difficulties in compensating flood-affected farmers.
+
+Jaffna University representatives presented their analysis of the current economic situation, highlighting the challenges posed by the Easter bombings, COVID-19 pandemic, economic crisis, and recent tax increases. They advocated for stricter implementation of anti-corruption laws, revised distribution policies, and continued focus on reconciliation efforts.
+
+Business representatives and SME owners expressed concerns about the new tax policy's burden on their already crisis-stricken activities. They reported difficulties obtaining loans from banks and navigating changes in interest rates, further hindering their operations.
+
+The IMF delegation, led by Senior Mission Chief Peter Breuer, acknowledged the hardships caused by the tax increase and acknowledged the country's need for stricter economic policies to overcome entrenched issues. However, Breuer pointed to positive economic indicators towards the end of 2023 and stressed the importance of sustaining these improvements.
+
+"While we saw a small uptick in the third quarter of 2023, we're still far from robust, inclusive growth. Inflation hit 70% last year, disproportionately impacting those without savings or buffers. The path to recovery will require sustained commitment to sound economic policies," said Peter Breuer, Senior Mission Chief for Sri Lanka, IMF.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### Over 1,400 wanted suspects arrested within 24-hour ‘Yukthiya’ operation
+
+*2024-01-15 14:57:00 - [adaderanalk](https://www.adaderana.lk/news/96417/over-1400-wanted-suspects-arrested-within-24-hour-yukthiya-operation)*
+
+A total of 1,468 out of 42,248 wanted suspects, in the list shared with all police stations as wanted in connection with various crimes, have been arrested during the last 24 hours under the ‘Yukthiya’ operation, the Ministry of Public Security said.
+
+Furthermore, the ministry mentioned that this includes 254 suspects out of the 4,088 suspects against whom open warrants have been issued for dangerous drugs related offences as well as 942 out of 31,417 suspects against whom arrest warrants have been issued over charges which are not related to drugs.
+
+At the same time, this also includes 123 out of 4,258 suspects identified through fingerprints but who had not been arrested thus far while 149 out of 2,485 suspects wanted for crimes committed in the years 2022 and 2023 have also been apprehended during the 24-hour window, according to ministry.
+
+### අවලෝකේතීශ්වර නමින් පෙනී සිටිය මහින්ද අත්අඩංගුවට
+
+*2024-01-15 14:53:21 - [adalk](https://www.ada.lk/breaking_news/අවලෝකේතීශ්වර-නමින්-පෙනී සිටිය-මහින්ද-අත්අඩංගුවට/11-407560)*
+
+අවලෝකේතීශ්වර බෝධිසත්වයන් වහන්සේ බවට තමන්ව හඳුන්වා ගනිමින් බුදුරජාණන් වහන්සේට, භික්ෂූන් වහන්සේලාට හා බෞද්ධාගමට අපහාස වන විකෘති දේශනා කළැයි කියන පුද්ගලයා අද (15) පන්නිපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කොඩිතුවක්කු මුදියන්සේලාගේ මහින්ද කොඩිතුවක්කු නමැති පුද්ගලයෙකි.
+
+පරිගණක අපරාධ විමර්ශන කොට්ඨාසය විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.‍ෙ
+
+අත්අඩංගුවට ගත් සැකකරු ප්‍රකාශ සටහන් කර ගැනීමෙන් අනතුරුව හෙට අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+### Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+*2024-01-15 14:51:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/vietnam-ex-health-minister-gets-18-years-in-jail%c2%a0over-covid-test-kits-scam/)*
+
+(NDTV); A court in Vietnam on Friday (12) sentenced former Health Minister Nguyen Thanh Long to 18 years in prison after finding him guilty of taking bribes in a coronavirus test kit scandal, state media reported.
+
+Nguyen Thanh Long was accused of taking bribes worth $2.25 million in the scandal, in which a local firm was accused of colluding with officials to commission a state-funded research unit to produce and overstate its prices of coronavirus test kits, Phap Luat Online newspaper said.
+
+Reuters could not immediately reach Nguyen Thanh Long's lawyers for comment.
+
+"I was wrong, I am sorry," Nguyen Thanh Long was quoted by the newspaper as saying at the trial.
+
+The verdict comes as Vietnam intensifies its years-long anti-graft campaign that has seen hundreds of senior officials investigated for corruption, with many forced to quit, including former president and premier Nguyen Xuan Phuc and two deputy prime ministers.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### Air Quality Plummets in Major Districts in Sri Lanka
+
+*2024-01-15 14:47:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/air-quality-plummets-in-major-districts-in-sri-lanka/)*
+
+COLOMBO (News 1st); The Central Environmental Authority (CEA) of Sri Lanka is raising serious concerns over a sharp decline in air quality across several key districts of the island nation.
+
+Spokesperson Ajith Weerasundara confirmed a visible decrease in Colombo, Jaffna, and Mannar.
+
+In Colombo, the air quality index (AQI) – a measure of pollutants in the air – soared to unhealthy levels of 105 in densely populated areas like Battaramulla and Colombo Fort.
+
+Similarly, Jaffna recorded AQI values nearing 100, indicating unhealthy air conditions in the northern city.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### අමතක නොවන උපන්දින තෑග්ගක් දීලා දරුවෝ තුන්දෙනා කළු ගගේ ගියා
+
+*2024-01-15 14:44:46 - [adalk](https://www.ada.lk/breaking_news/අමතක-නොවන-උපන්දින-තෑග්ගක්-දීලා-දරුවෝ-තුන්දෙනා-කළු-ගගේ-ගියා/11-407559)*
+
+"මට අමතක නොවන උපන් දින තෑග්ගක් දීලා දරුවෝ තුන්දෙනාම කළුගගේ ගහගෙන ගියා" යැයි කළු ගගේ ගිලී මියගිය යමල් සපුගේ ඉමංගි චතුභාෂිනී (15) ගේ මව වන වලිමුණි කෝකිලා ජයන්ති සිල්වා මහත්මිය හඩාවැටෙමින් පැවසීය .
+
+කළුගගේ කළුතර විද්‍යාලය ඉදිරිපිට කලපුවේ ඊයේ (14) පස්වරුවේ  දියනෑමට ගොස් සිටියදී දියේගිලී තෙන්නකෝන් ආරච්ච්ලලාගේ තිවිදු සත්සර (18), මුකටියවත්තගේ සුභානී සුපේසලා (16) සහ යමල් සපුගේ ඉමංගි චතුභාෂිනී (15)  යන අය මියගොස් තිබුණි.
+
+මියගොස් සිටී අයවලුන්ගේ හදිසි මරණ පරීක්ෂණය  කළුතර හදිසි මරණ පරීක්ෂක දීපාල් ඖෂධරත්න මහතා ඉදිරියේදී අද (15) සිදුකරන ලදී.
+
+හදිසි මරණ පරීක්ෂ වරයා ඉදිරියේ වැඩිදුරටත් සාක්ෂි දෙමින් ඇය මෙසේද පැවසීය.
+
+"දියේගිලී මියගොස් ඇත්තේ මගේ තුන්වන දියණිය යමල් සපුගේ ඉමංගී චතුභාෂිනී. ඇය කළුතර ශාන්ත ජෝන් විදුහලේ 10 වසරේ ඉගෙනුම ලබනවා. එයා කසාද බදින්න පුතා එක්ක යාලුවෝ පිරිසක් ඇවිත් මගේ උපන් දිනයට කේක් කපලා අපි කළුතර මුහුදේ නාන්න ගියා.
+
+මුහුදේ නාල ආයේ ගගට නාන්න ගියා. මගේ දුවයි එයාගෙ අත් අල්ලගෙන හිටපු සුභානී දුවයි ගගේ ගහගෙන ගියා. එයාලා බේරගන්න තිවිදු පුතා පැන්නා තුන්දෙනාම  නොපෙනි ගියා. එතන හිටපු තරුණ ළමයෙක් ගගට පැනලා පුතාව ගොඩට ගත්තා. පැය භාගයක් විතර වාහනයක් නැතිව හිටියා. වාහනයක් තිබුනා නම්  පුතාව බේරගන්න තිබුණා" යනුවෙන් පැවසීය .
+
+දියේගිලී මියගිය මුකටියවත්තගේ සුභානී සුපේසලා (16) යන අයගේ මව වන පතිරණ මුදියාන්සේලාගේ ටෙක්ලා නෙරංජනී  යන අය සාක්කි දෙමින් මෙසේ පැවසීය. "මියගොස් ඇත්තේ මගේ දෙවනි දුව.  මම  මේ ගමන යන්න එපා කිව්වාම එයා මා එක්ක රන්ඩු කලා. මම ණය වගයක් බේරන්න කඩේට ගිය වෙලාවේ ලොකු දුවත් එක්ක හොරෙන් ගිහින්. මගේ දරුවත් කළු ගගේ ගහගෙන ගිහින් කීවාම බස් එකේ යන්න වත් මා ළග සල්ලි තිබුනේ නෑ.  අල්ලපු ගේක ළමයෙක්ගේ බයික් එකකින් නාගොඩ රෝහලට ආවාම දැනගත්තේ මගේ පණ නැතිවෙලා කියලා."
+
+මියගිය සුභානි සුපේසලා ගේ වැඩිමහල් සොයුරිය වන කොටියාවත්තගේ හිරුණි වත්සලා:. "අපි කළු ගගේ එකට නෑවා. මම ගොඩට ඇවිත් බලනකොට නංගි හිටියේ නෑ. එයා අත් අල්ලගෙන හිටපු අනිත් යාළුවා එක්ක ගහගෙන යනවා දැක්කා. අපි බේරදෙන්න කියා කෑ ගැහුවා බෝට්ටුවකින් ආපු මාමලා නංගිවයි ඉමංගිව යි ගොඩට ගෙනාවා. කළුතර රෝහලට ගෙනාවට පස්සේ නංගි මියගිහින් කියලා දැනගත්තා."
+
+තෙන්නකෝන් ආරච්ච්ගේ තිවිදු සත්සර ගේ සීයා වන ගුලවිට ගනිතගේ ගුණපාල (73)  යන අය සාක්කි දෙමින් මෙසේ පැවසීය. "මියගොස් ඇත්තේ මගේ මුණුබුරා. එයාගේ අම්මා එයාට අවුරුද්දක් වෙද්දි පිළිකාවකින් මියගියා. අවුරුදු 17 ක් මම පුතාව හදාගත්තේ. පුතා ආච්චිට කියලා තිබුනා. උපන් දිනේකට කේක් කපන්න යනවා කියලා.  සවස කෝල් එකක් ආවා පුතාට අසනීපයි නාගොඩ රෝහලට එන්න කියලා . ආවම දැනගත්තේ කළු ගගේ ගිලිලා මියගිහින් කියලා."
+
+කළුතර හදිසි මරණ පරීක්ෂක දීපාල් ඖෂධරත්න මහතා ගේ ප්‍රධානත්වයෙන් මරණ පරීක්ෂණය සිදුකරන ලදී. පොලිස් සැරයන් එස්.ඒ.ආර්.කේ.ද සිල්වා (55318) පොලිසිය වෙනුවෙන් සාක්කි මෙහෙයවීය.
+
+කළුතර නාගොඩ ශීක්ෂණ රෝහලේ අධිකරණ වෛද්‍ය නිළධාරී ඩබ්ලිව්. කේ. වෙනුරජිත් සහ එම්.කේ.චානුක යන මහත්වරුන්  විසින් පශ්චාත් මරණ පරීක්ෂණය සිදු දියේගිලී හුස්ම හිරවීමේන් සිදුවූ මරණ බවට නිගමනය කර තිබේ.
+
+### බස්වලට ඉල්ලමක්
+
+*2024-01-15 14:34:22 - [adalk](https://www.ada.lk/breaking_news/බස්වලට-ඉල්ලමක්/11-407558)*
+
+ඉදිරියේදී කොළඹ බලා ධාවනය වීමට නියමිත බස් රථ වල, ආසනයක් වෙන් කරවා ගැනීම සඳහා අනුරාධපුර වලිසිංහ හරිස්චන්ද්‍ර මාවතේ පිහිටා ඇති පෞද්ගලික බස් සමාගමක කාර්යාලයේ ඉදිරිපිට අද (15දා) උදෑසන දිගු මහජන  පෝලිමක් දක්නට ලැබුණි.
+
+අලුත් වැඩියා කටයුතු හේතුවෙන් මහව සිට අනුරාධපුර දක්වා මාස හයක කාලයක් දුම්රිය ධාවනය නොකිරීම හේතුවෙන්, මගින්ට බස් රථවල ගමන් කිරීමට සිදු වීම  හේතුවෙන්,  මෙලෙස දිග පෝලිම්  දක්නට ලැබුණු බව මගීහු පවසති .
+
+### நாடளாவிய ரீதியில் சிறப்பாக இடம்பெற்ற தைப்பொங்கல்
+
+*2024-01-15 14:23:00 - [virakesarilk](https://www.virakesari.lk/article/173985)*
+
+நாட்டில் பொருளாதார நெருக்கடி காணப்பட்டாலும் நாடளவிய ரீதியில் தைப்பொங்கல் பண்டிகை மிகவும் சிறப்பாக கொண்டாடப்பட்டது.
+
+இயற்கைக்கு நன்றி செலுத்தவும் தரணியில் வளம் செழிக்கவும், வேளாண்மைக்கும், அதற்கு உறுதுணையாக இருக்கும், இயற்கைக்கு நன்றி சொல்லி, தைத்திருநாளை வரவேற்கும் பொங்கல் பண்டிகை கொண்டாட்டங்கள் கோலாகலமாக உலகெங்கிலும் வாழும் தமிழர்களால் கொண்டாடப்படுகின்றது.
+
+நமது மண்ணின், பாரம்பரியத்தை பறைசாற்றும் பண்டிகைகளில் பொங்கல் விழா என்றுமே முதன்மையாக உள்ளது. சூரியன் உட்பட நம்மை வாழ வைக்கும், இயற்கைக்கு நன்றி சொல்லவும், வேளாண்மை தொழிலை பெருமைப்படுத்தவும், இயற்கையின் இன்றியமையாமை என்றும் பாதுகாக்கப்பட வேண்டும் உட்பட பல்வேறு சிறப்பம்சங்களோடு, பொங்கல் விழா கொண்டாடப்படுகிறது.
+
+தைப்பொங்கள் விஷேடப் பூஜை புத்தளம் ஸ்ரீ சித்திவிநாயகர் மற்றும் ஸ்ரீ முத்துமாரியம்மன் ஆலயங்களிலும் முன்னெடுக்கப்பட்டன. குறித்தி பூஜை வழிபாடுகளில் இந்துக்கள் கலந்து கொண்டனர்.
+
+தமிழர் திருநாளாம் தைத்திருநாள் என்று கூறக்கூடிய தைப்பொங்கல் விழா இந்து  ஆலயங்களிலும் அதேபோன்று வீடுகளிலும் சிறப்பாக கொண்டாடி வருகின்றனர்.
+
+தைப்பொங்கல் ஆனது சூரிய பகவானுக்கு நன்றி கூறும் முகமாகவும் நமஸ்காரம் செய்கின்ற முகமாகவும் அதேபோன்று உழவர்கள் தங்களுடைய உழவுத் தொழிலை முடித்து அதில் கிடைக்கக்கூடிய அரிசியை தைத்திருநாளில் பொங்கலாகப் பொங்கி சூரிய பகவான் எனும் கதிரவனுக்கு நன்றி கூறும் முகமாகவும் பொங்கல் திருநாளை கொண்டாடி வருகின்றனர்.
+
+இந்த நிலையில் புத்தளம் ஸ்ரீ சித்திவிநாயகர் ஆலயத்திலும் தைப்பொங்கள் விஷேட பூஜை ஆலய பிரதமகுரு சிவஸ்ரீ வெங்கட சுந்தரராம குருக்களின் தலைமையில் பூஜைகள் முன்னெடுக்கப்பட்டது.
+
+அத்துடன் புத்தளம் ஸ்ரீ முத்துமாரியம்மன் ஆலயத்திலும் தைப்பொங்கள் விஷேட பூஜைகள் ஆலய பிரதமகுரு சிவஸ்ரீ அம்பலவானன் குருக்கள் தலைமையில் இடம்பெற்றது.
+
+தைப்பொங்கள் திருநாளைக் கொண்டாடும் இந்து மக்கள் நீராடி புத்தாடை அணிந்து ஆலயத்திற்கு வருகைத் தந்து பூஜை வழிபாடுகளில் ஈடுபட்டு வருவதைக் காணக்கூடியதாக இருந்தது.
+
+தமிழர்களின் பெருவிழாக்களில் ஒன்றான தைப்பொங்கல் விழா இம்முறையும் மன்னார் மாவட்டத்தில் மிக சிறப்பாக தமிழ் மக்களால் கொண்டாடப்பட்டது.
+
+இந்து மற்றும் கத்தோலிக்க ஆலயங்களில் காலையில் இறை வழிபாடுகள் நடைபெற்றபோது பொது மக்கள் பலர் இறைவனுக்கு நன்றி கூறும் முகமாக  ஆலயங்களில் வழிபட்டதையும் காணக்கூடியதாக இருந்தது.
+
+தைப்பொங்கல் பண்டிகையை முன்னிட்டு மட்டக்களப்பு ஆணைப்பந்தி ஸ்ரீ சித்தி விக்னேஸ்வரர் ஆலய விசேட பூஜை வழிபாடுகள்.
+
+வவுனியா குட்செட்வீதி கருமாரி அம்மன் ஆலயத்தில்... சிறப்புற நடந்த பொங்கல் விழாவும், மாட்டுப் பொங்கலும்...
+
+தைப்பொங்கல் தினத்தினை முன்னிட்டு , யாழ்ப்பாணம் -  நயினாதீவு நாக பூசணி அம்மன் ஆலயத்தில்...
+
+### IRD urges public to beware of confidential information being misused during registration for TIN
+
+*2024-01-15 13:50:00 - [adaderanalk](https://www.adaderana.lk/news/96416/ird-urges-public-to-beware-of-confidential-information-being-misused-during-registration-for-tin-)*
+
+The Inland Revenue Department (IRD) urges the general public to follow the guidelines issued by the department and to use the services of authorized tax consultants and auditors, if such services are necessary, to avoid the misuse of their confidential information.
+
+Joining the “At HydePark” current affairs programme on Ada Derana 24, the Senior Deputy Commissioner of the Inland Revenue Department Nihal Wijewardana revealed that several official channels have been opened up for the general public to answer any concerns and ease the process of obtaining the Taxpayer Identification Number (TIN).
+
+Mr. Wijewardana further expressed that people can obtain required assistance regarding the matter directly from the IRD through the hotline number 1944. The general public can also visit the regional offices of the department for any required assistance regarding this or obtain the TIN easily, he added.
+
+“If not you can follow the formal online process introduced by the department by visiting the official website of the Inland Revenue Department through www.ird.gov.lk”
+
+Meanwhile, also joining the program, Deputy Commissioner General of the IRD Saman Shantha outlined that the country’s top tax collecting authority is in the process of implementing a centralised system to collect information pertaining to personal income by linking up with other departments and institutions within the country.
+
+### GMOA opposes health sector trade unions’ strikes; Nurses not to join planned strike
+
+*2024-01-15 13:19:00 - [adaderanalk](https://www.adaderana.lk/news/96415/gmoa-opposes-health-sector-trade-unions-strikes-nurses-not-to-join-planned-strike-)*
+
+The Government Medical Officers’ Association (GMOA) claims that the island-wide strike action organized by health sector employees is unjustified.
+
+The Secretary of the GMOA Dr. Haritha Aluthge expressed that 50% of the wage demands made by the trade unions which are protesting the government’s decision to increase the Disturbance, Availability and Transport (DAT) allowance for doctors have been completed, and that only 15% of the requested increment have been received by the doctors.
+
+“Their demand was to increase the salaries of government employees by Rs. 20,000. They have received Rs. 10,000 so far. It means that 50% of their demands are completed”, he said.
+
+Dr. Aluthge also pointed out that the majority of the protesting health workers are related to the secondary level of government service, while another group of them are in the primary grade.
+
+“The doctors are in the senior grade of the government service. This is hilarious that they are trying to be at the equal level as doctors”, he said.
+
+“This is something that is not happening; and something that must not happen.”
+
+Furthermore, Dr. Aluthge emphasized that it is an ‘illegal strike action’.
+
+Against this backdrop, the All Ceylon Nurses’ Union has decided not to join the strike action to be launched jointly with over 75 health sector trade unions on Tuesday (16), but will only hold a demonstration in front of government hospitals during lunch time.
+
+The Chief Secretary of the union H.M.S Mediwatte stated that this decision was taken in consideration of the inconvenience faced by the patients during health sector employees’ strikes.
+
+He also expressed that the nursing officers from across the island will protest in front of the Health Ministry on Wednesday (17), and will launch a continuous trade union action until their demands are fulfilled.
+
+The health sector employees’ trade unions decided to launch another 24-hour token strike starting from 06.30 a.m. tomorrow (Jan. 16), in protest of the government’s decision to increase DAT allowance for doctors by Rs. 35,000.
+
+Earlier today, President of the Paramedical Services Front (PMSF) Upul Rohana mentioned that around 100,000 health workers including all paramedical services, hospital secretaries, administrative officers as well as health administrative assistants, minor staff and 75 other trade unions of the health staff will join together with this island-wide strike.
+
+“This action will completely disrupt the hospital service. The government should understand that it is not possible to maintain medical services only with the doctors”, Upul Rohana said.
+
+Meanwhile, the President of the Academy of Health Professionals Ravi Kumudesh expressed that if military forces are used to suppress the health workers’ strike, they will continue to carry out the trade union action even further.
+
+Last week, the day-to-day functions of many hospitals across the island had come to a standstill, owing to several trade union actions launched by several health sector employees demanding an allowance of Rs 35,000.
+
+On 08 January 2024, the Cabinet of Ministers gave the nod to President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
+
+### CID arrests self-proclaimed ‘Avalokiteshvara Bodhisattva’
+
+*2024-01-15 13:11:00 - [adaderanalk](https://www.adaderana.lk/news/96414/cid-arrests-self-proclaimed-avalokiteshvara-bodhisattva)*
+
+The Criminal Investigation Department (CID) has arrested Mahinda Kodituwakku, the self-proclaimed ‘Avalokiteshvara Bodhisattva’ at Pannipitiya a short while ago.
+
+Kodituwakku is accused of committing irreligious activities that are contrary to Buddhist teachings.
+
+On Friday (12), the Colombo Fort Magistrate’s Court also imposed an overseas travel ban on him.
+
+Earlier this week, the president of Buddhist Information Centre, Ven. Agulugalle Sri Jinananda Thero had filed a complaint with the CID alleging that Kodituwakku has been misleading the Buddhist community.
+
+### ලෝකයේ හොඳම යොවුන් නිරූපන ශිල්පියා ලංකාවෙන්
+
+*2024-01-15 13:03:46 - [adalk](https://www.ada.lk/picture_story/ලෝකයේ-හොඳම-යොවුන්-නිරූපන-ශිල්පියා-ලංකාවෙන්/10-407557)*
+
+මැලේසියාවේ  පැවති ලෝකයේ හොදම නිරූපන ශිල්පීන් තෝරන ( I am model search international - 2024 ) තරගාවලියේ දී ලෝකයේ හොදම ‌යොවුන් නිරූපන ශිල්පියාට හිමි සම්මානය ඇතුළු තවත් ජයග්‍රහණයන් රාශියක් දිනා ගැනීමට ශ්‍රී ලංකාව නියෝජනය කරමින් එයට සහභාගී වූ ශ්‍රී ලංකා  නිරූපන ශිල්පීන්ගේ  කණ්ඩායම සමත් වී තිබූ අතර ඔවුන් අද (15දා) උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ .
+
+ලෝකයේ හොදම නිරූපන ශිල්පීන් තෝරන මෙම තරගාවලිය මැලේසියාවේ ක්වාලාලම්පූර්  නුවර ඉකුත් 01/10 දින සිට 01/14 දින දක්වා රටවල් 25 නිරූපන ශිල්පීන් 72 කුගේ සහභාගීත්වයෙන් පවත්වා තිබුණි .
+
+එහිදී වයස අවුරුදු 18 - 21 ත් අතර ( MR: Teen ) යෞවන  අංශයෙන් ඉදිරිපත් වූ 19 හැවිරිදි  රසල් කෙනත් පෙරේරා ලෝකයේ හොදම යොවුන් නිරූපන ශිල්පියා ලෙස ජයග්‍රහණය හිමි කර ගැනීමට සමත් වී තිබුණි . ඔහු මීගමුව , වැලිහේන ප්‍රදේශයේ පදිංචිකරුවෙකි . වසර 10 කට පසුව යළිත් වරක් ශ්‍රී ලංකාවට හොදම නිරූපන ශිල්පියා සම්මානය දිනා ගැනීමට හැකි වී තිබීම විශේෂත්වයකි .
+
+එසේම මෙම තරගාවලියේ දී කාන්තා අංශය නියෝජනය කරමින් එයට සහභාගී වූ ශ්‍රී ලංකාවේ 24 හැවිරිදි මෙලෝනි දසනායක තුන් වන ස්ථානය දිනා ගැනීමට සමත් වී සිටියාය . ඇය කොළඹ , වැල්ලවත්ත ප්‍රදේශයේ පදිංචිකාරිනියකි .
+
+කාන්තා යෞවන අංශයෙන් ( Miss Teen  ) ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වූ 20 හැවිරිදි  නිලක්ෂි බණ්ඩාර එහිදී සිව් වන ස්ථානය දිනා ගැනීමට සමත් වූ අතර මීට අමතරව " හොදම සමාජ ක්‍රියාකාරිනී "  සම්මානය ද දිනා ගැනීමට සමත් වී සිටියාය .
+
+මෙම තරගාවලියේ පිරිමි ( MR )  අංශය නියෝජනය කරමින් සහභාගී වූ 28 හැවිරිදි නවීන් ගුණසේකර " හොදම බලාපොරොත්තු තබා ගැනීමට හැකි නිරූපන ශිල්පියා " සම්මානයෙන් පිදුම් ලබා ගැනීමට සමත් වී තිබුණි . ඔහු පිළියන්දල ප්‍රදේශයේ පදිංචිකරුවෙකි .
+
+මෙම තරගාවලියට ඉදිරිපත් වූ රටවල් 25 අතරින් " හොදම ජාතික අධ්‍යක්ෂ " ලෙස සම්මානයට පාත්‍ර වීමට මෙම ශ්‍රී ලංකා කණ්ඩායමේ ජාතික සංවිධායක නිර්මාල් බණ්ඩාර මහතා සමත් වී තිබුණි . මෙම සම්මානය  ශ්‍රී ලංකා නිරූපන ක්ෂේත්‍ර ඉතිහාසයේ  පළමු වතාවට හිමි වී තිබීම විශේෂත්වයකි .
+
+මෙම තරගාවලිය සදහා ශ්‍රී ලංකාව නියෝජනය කරමින් නිරූපන ශිල්පීන් 04 දෙනෙකු ඉදිරිපත් වී සිටි අතර , ඔවුන් සියලු දෙනාම සම්මාන දිනා ගැනීමට සමත් වී තිබුණි .
+
+මෙම සම්මානලාභීන් පිරිස 01/15 දින උදෑසන 09.40 ට මැලේසියාවේ ක්වාලාලම්පූර් නුවර සිට එයාර් ඒෂියා ගුවන් සේවයේ ඒ.කේ.- 045 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබූ අතර ඔවුන් පිළිගැනීම සදහා 2023 වසරේ ( Miss sri Lanka ) ශ්‍රී ලංකා රූ රැජින මල්කි දිසානායක මෙන්ම  මෙම ජයග්‍රාහී නිරූපන ශිල්පීන්ගේ දෙමාපියන් ඇතුළු පිරිසක් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තය වෙත පැමිණ සිටියහ .
+
+### ලංකාවේ කරවල හා උම්බලකඩ පළමුවරට කොරියාවට හා ඔස්ට්‍රේලියාවට යයි
+
+*2024-01-15 12:53:12 - [adalk](https://www.ada.lk/breaking_news/ලංකාවේ-කරවල-හා-උම්බලකඩ-පළමුවරට-කොරියාවට-හා-ඔස්ට්‍රේලියාවට-යයි/11-407556)*
+
+නව තාක්ෂණය භාවිතා කරමින් වේලන ලද කරවළ හා උම්බලකඩ කිලෝග්‍රෑම් 10,000කින් යුත් පළමු කන්ටේනරය අපනයනය කිරීම ඊයේ (14) පහජ්ජාව කරවළ හා උම්බලකඩ නිෂ්පාදනය කරන  මෙගාෆිෂ් ආයතනය විසින් සිදු කරනු ලැබීය.
+
+මෙම කර්මාන්ත ශාලාව විසින් නිෂ්පාදිත කරවළ හා උම්බලකඩ පළමු කන්ටේනරය අපනයනය  කෙරෙන අවස්ථාවට කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ඇතුළු පිරිසක් සහභාගි වූහ.
+
+සාම්ප්‍රධායික කරවල නිෂ්පාදනයේ දී  හිරු එළියෙන් කරවළ වේලීම සිදු කළත් මෙම නව තාක්ෂණය යටතේ කරවළ හා උම්බලකඩ සකසනු ලබන්නේ වායු සමීකරණ පද්ධතියක් ආශ්‍රිතව විජලනය කිරීමේ ක්‍රමවේදයක්  (Air Condition Dehydration) යොදා ගනිමිනි.
+
+මුළුමනින්ම ආරක්ෂිත හා සෞඛ්‍ය සම්පන්න ක්‍රම යොදා ගනිමින් නිෂ්පාදනය කෙරෙන කරවළ හා උම්බලකඩ මිනිස් පරිභෝජනයට ඉතාමත් උචිත වේ. විශේෂයෙන් කරවළ වේලීම සදහා Law Salt ලුණු යොදා ගැනීම, හා මාළුවල අඩංගු තෙල් (Fish Oil) ඉවත් නොවීම වැනි කරුණු නිසා මෙම නව තාක්ෂණය යටතේ වේලන ලද කරවළ ගුණාත්මකබවින් ඉහළ මට්ටමක පවතී.
+
+අපේ රටේ නිෂ්පාදනය කෙරෙන කරවළ හා උම්බලකඩ ඔස්ට්‍රේලියාවට හා කොරියාවට අපනයනය කරන  පළමු අවස්ථාව ද මෙය වේ.
+
+මෙම අවස්ථාවට සහභාගි වූ කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා අදහස් පළ කළේය.
+
+මම 2018 ධීවර අමාත්‍යවරයාව සිටිය දී මෙම ව්‍යාපෘතිය ආරම්භ කිරීමට මුලික පියවර ගත්තා. එවකට ජලජීවි වගා සංවර්ධන අධිකාරියේ සභාපතිවරයා වශයෙන් කටයුතු කළ ජනාධිපති නීතිඥ උපාලි මොහොට්ටි මහතා මෙම ව්‍යාපෘතියට යෝජනා ඉදිරිපත් කළා.
+
+අද එම ව්‍යාපෘතිය සාර්ථක වී තිබෙනවා. සාම්ප්‍රධායික කරවළ සැකසීමේ දී බොහෝ විට අපද්‍රව්‍ය ඊට එකතුවීමට ඉහළ සම්භාවිතාවක් තිබෙනවා. ලුණු වැඩිපුර යොදන්නේ එම තත්ත්වය වළක්වාලීමටයි. නමුත් පළමුවරට වායුසමීකරණ පද්ධති යොදා ගනිමින් සිදු කෙරෙන මෙම කර්මාන්ත ශාලවේ කරවළ නිෂ්පාදනයේ දී අඩුම තරමින් දූවිලි ටිකක් හෝ මැස්සෙක්වත් ඇතුළුවීමට අවකාශයක් නැහැ.
+
+ඒ නිසා මෙම ක්‍රමයට කරවළ හා උම්බලකඩ නිෂ්පාදනය කිරීම මගින් මිනිස් පාරිභෝජනයට ඉතාමත් සුදුසු කරවළ අපිට වෙළෙඳපොලට ඉදිරිපත් කළ හැකියි. මෙමගින් රටට අවශ්‍ය විදේශ විනිමය අපිට ලැබෙනවා. රට තුළ මෙවැනි ව්‍යාපෘති සෑම අංශයක්ම සඳහා යොදාගත හැකියි. යනුවෙන් ද අමාත්‍යවරයා සඳහන් කළේය.
+
+### සියක් නගර ව්‍යාපෘතියට තවත් ලක්ෂ 6000ක්
+
+*2024-01-15 12:03:30 - [adalk](https://www.ada.lk/breaking_news/සියක්-නගර-ව්‍යාපෘතියට-තවත්-ලක්ෂ-6000ක්/11-407555)*
+
+සියක් නගර අලංකරණ ව්‍යාපෘතිය සදහා මෙවර අයවැයෙන් රුපියල් මිලියන 600ක් වෙන්කර ඇති බව නාගරික සංවර්ධන අධිකාරිය පවසයි. එම ප්‍රතිපාදන මගින් ව්‍යාපෘති 9ක වැඩ අවසන් කිරීමට සැලසුම් කර ඇති බවද එම අධිකාරිය සදහන් කරයි.
+
+ගම්පහ, මිනුවන්ගොඩ, පානදුර, අලව්ව, හොරණ හා අවිස්සාවේල්ල යන පොදු වෙළදපොළ සංවර්ධනය කිරීම, වරකාපොළ හා මුලතිව් බස් නැවතුම්පොළ සංවර්ධනය කිරීම සහ නින්දවූර් වෙරළ උද්‍යානය ඉදිකිරීම එම ව්‍යාපෘති වේ.
+
+නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතාගේ උපදෙස් මත මෙම ව්‍යාපෘති ක්‍රියාත්මකය. මෙම වසර අවසන් වනවිට අදාළ ව්‍යාපෘති නිම කිරීම සදහා කඩිනමින් සැලසුම් සකස් කරන ලෙස අමත්‍යවරයා නාගරික සංවර්ධන අධිකාරියට උපදෙස් දී තිබේ.
+
+රට පුරා විසිරී ඇති අඩු පහසුකම් සහිත නගර හඳුනාගෙන ඒවායේ මූලික පහසුකම් වැඩි දියුණු කොට එම නගර ක්‍රමවත් ලෙස අලංකරණය කිරීමේ අරමුණින් සියක් නගර සංවර්ධන වැඩසටහන ආරම්භ කෙරිණ. ඒ 2021 වසරේදීය. මේ සදහා පළමුව කුඩා හා මධ්‍යම ප්‍රමාණයේ  නගර 100 ක් හදුනාගත්තද පසුව එය නගර 116 ක් දක්වා වැඩි විය. 2022 වසර අවසන් වන විට මෙම නගර 116 හි සංවර්ධන කටයුතු අවසන් කෙරුණි. ඒ සදහා වැය කෙරුණු මුළු මුදල රුපියල් මිලියන 1,620 කි.
+
+සියක් නගර අලංකරණ වැඩසටහන යටතේ 2023 වසර සදහා සියලු පළාත් ආවරණය වන පරිදි ව්‍යාපෘති 156 ක් හදුනාගෙන ආරම්භ කරන ලදි. පොදු වෙළදපොළවල්, බස් නැවතුම්පොළවල්, රථගාල්, ඇවිදින මංතීරු, බහුකාර්යය ගොඩනැගිලි, නාගරික උද්‍යාන සහ නගර අලංකරණ ව්‍යාපෘති ඊට ඇතුළත් වේ. 2023 වසර අවසන් වන ඉන් ව්‍යාපෘති 133 ක් අවසන් කර ඇති බව නාගරික සංවර්ධන අධිකාරිය සදහන් කරයි. ඉතිරි ව්‍යාපෘති 23 හි ඉදිකිරීම් කටයුතු සිදු කෙරෙමින් පවතී.
+
+රටේ සියලුම නගර සංවර්ධනය කිරීමේ වගකීම පැවරී ඇත්තේ නාගරික සංවර්ධන අධිකාරියටයි. ඒ වෙනුවෙන් එම අධිකාරිය මේ වනවිට විශාල වැඩ කොටසක් සිදු කරමින් පවතී. අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පෙන්වා දෙන්නේ නාගරික සංවර්ධනය මගින් රටතුළ සෘජු හා වක්‍ර රැකියා විශාල ප්‍රමාණයක් උත්පාදනය කළ හැකි බවයි.
+
+ඇමතිවරයා සදහන් කරන්නේ නගර අලංකරණය කිරීම හරහා සංචාරක ආකර්ෂණය වර්ධනය වනවා සේම නගර ආශ්‍රිතව ජීවත්වන ජනතාවගේ පිරිසිදුභව හා නිරෝගීකම වැඩිවන බවයි. එම නිසා නාගරික සංවර්ධන අධිකාරියට ලැබෙන ආදායම් කළමනාකරණය කරගනිමින් මෙම සංවර්ධන ව්‍යාපෘති ක්‍රියාත්මක කරන ලෙසද නාගරික සංවර්ධන අධිකාරියට ඇමතිවරයා උපදෙස් දී තිබේ.
+
+### 10 Indian fishermen held for poaching in Sri Lankan waters off Point Pedro
+
+*2024-01-15 12:01:00 - [adaderanalk](https://www.adaderana.lk/news/96413/10-indian-fishermen-held-for-poaching-in-sri-lankan-waters-off-point-pedro)*
+
+During a special operation conducted to chase away Indian poaching trawlers from Sri Lankan waters last night (14), the Sri Lanka Navy has apprehended 10 Indian fishermen along with an Indian trawler after having spotted they were engaging in illegal fishing in Sri Lankan waters north of Point Pedro, Jaffna.
+
+The Northern Naval Command which deployed an Inshore Patrol Craft to chase away a cluster of Indian poaching trawlers has held the Indian poaching trawler with the fishermen as they continued to remain in island waters off Point Pedro.
+
+The 10 apprehended Indian fishermen and the poaching trawler were brought to the Kankasanthurai harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal action, the Navy said.
+
+The Navy conducts regular patrols and operations in Sri Lankan waters to curb illegal fishing practices by foreign fishing trawlers, taking into account the consequences of these practices on the livelihood of local fishermen and the marine resources of the country.
+
+### பசியை போக்க பாக்கு பிடுங்கியவர்  மரணம்
 
 *2024-01-15 11:23:41 - [tamilmirrorlk](https://www.tamilmirror.lk/மலையகம்/பசியை-போக்க-பாக்கு-பிடுங்கியவர்-மரணம்/76-331527)*
 
@@ -15,7 +470,43 @@
 
 கண்டி தேசிய வைத்தியசாலையின் நிபுணர் சட்ட வைத்தியர் ஏ.பி.  ஜெயசூரிய சடலத்தின் தடயவியல் பரிசோதனையின் போது உயிரிழந்தவர் இரண்டு நாட்களாக உணவு உண்ணவில்லை என தெரியவந்துள்ளது.
 
-## ஏழு வயது சிறுமி துஷ்பிரயோகம்: இருவர் கைது
+### Artificial Intelligence will affect almost 40% jobs globally: IMF report
+
+*2024-01-15 10:39:00 - [adaderanalk](https://www.adaderana.lk/news/96412/artificial-intelligence-will-affect-almost-40-jobs-globally-imf-report)*
+
+Artificial intelligence (AI) is projected to impact nearly 40% of global jobs, with advanced economies expected to bear a greater share of the consequences compared to emerging markets and low-income countries, according to an analysis by the International Monetary Fund (IMF) reported by Bloomberg.
+
+IMF Managing Director Kristalina Georgieva wrote in a blog post that, in most scenarios, AI is likely to exacerbate overall inequality and called for proactive measures by policymakers to prevent the technology from further intensifying social tensions.
+
+The impact of AI on income inequality will hinge on how well the technology complements high earners. Increased productivity from high-income workers and companies could widen the wealth gap, Georgieva explained.
+
+According to the IMF chief, countries should implement “comprehensive social safety nets” and retraining programs for vulnerable workers to mitigate these effects.
+
+The IMF report, published on Sunday (14 January) evening, highlighted that, while there is potential for AI to fully replace some jobs, the more probable scenario is that it will complement human work. Advanced economies may witness about 60% of jobs affected, surpassing the impact on emerging and low-income countries.
+
+However, the report noted that only half of the jobs affected by AI will face negative consequences; the rest may benefit from enhanced productivity gains due to AI integration.
+
+“Your job may disappear altogether - not good - or artificial intelligence may enhance your job, so you actually will be more productive and your income level may go up,” Georgieva wrote.
+
+Georgieva’s comments align with discussions at the World Economic Forum in Davos, where global business and political leaders are deliberating on AI. Some companies have raised concerns among employees by investing heavily in AI, with examples such as Buzzfeed Inc. using AI for content creation and restructuring its news department.
+
+While the European Union has reached a tentative deal on AI legislation, the US is still considering its federal regulatory stance on the matter.
+
+The IMF report predicts that emerging markets and developing economies will experience a smaller initial impact from AI on labour markets but are also less likely to benefit from the productivity gains that AI integration may bring.
+
+The IMF chief stressed the importance of helping low-income countries seize the opportunities presented by artificial intelligence.
+
+While addressing the potential challenges of AI, she acknowledged its tremendous opportunity for everyone.
+
+She also acknowledged the need for an AI-related productivity boost to sustain global economic growth, emphasising the importance of unlocking productivity for a positive global narrative.
+
+The IMF is set to publish updated economic forecasts later this month, indicating that the global economy is broadly on track to meet previous projections.
+
+Georgieva cautioned that 2024 is likely to be a “very tough year” for fiscal policy worldwide due to countries addressing debt burdens from the Covid-19 pandemic and managing depleted buffers.
+
+With billions of people heading to the polls this year, Georgieva expressed concern that governments might face pressure to increase spending or cut taxes to gain popular support, potentially undermining progress made in the fight against high inflation.
+
+### ஏழு வயது சிறுமி துஷ்பிரயோகம்: இருவர் கைது
 
 *2024-01-15 10:38:48 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஏழு-வயது-சிறுமி-துஷ்பிரயோகம்-இருவர்-கைது/175-331522)*
 
@@ -31,7 +522,21 @@
 
 பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தப்பட்ட சிறுமி மருத்துவ பரிசோதனைக்காக மொனராகலை மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
 
-## ’’பௌத்தத்தை சிதைப்போருக்கு எதிராக சட்டம் இயற்றவும்''
+### Health sector employees to go on strike tomorrow
+
+*2024-01-15 10:22:00 - [adaderanalk](https://www.adaderana.lk/news/96411/health-sector-employees-to-go-on-strike-tomorrow)*
+
+The health sector employees’ trade unions will launch another 24-hour token strike starting from 06.30 a.m. tomorrow (Jan. 16), in protest of the government’s decision to increase the Disturbance, Availability and Transport (DAT) allowance for doctors by Rs. 35,000.
+
+President of the Paramedical Services Front (PMSF) Upul Rohana stressed that the Minister of Health has not provided any discussion regarding their demands.
+
+He mentioned that therefore, around 100,000 health workers including all paramedical services, hospital secretaries, administrative officers as well as health administrative assistants, minor staff and 75 other trade unions of the health staff will join together with this island-wide strike.
+
+“This action will completely disrupt the hospital service. The government should understand that it is not possible to maintain medical services only with the doctors”, Upul Rohana said.
+
+Meanwhile, the President of the Academy of Health Professionals Ravi Kumudesh expressed that if military forces are used to suppress the health workers’ strike, they will continue to carry out the trade union action even further.
+
+### ’’பௌத்தத்தை சிதைப்போருக்கு எதிராக சட்டம் இயற்றவும்''
 
 *2024-01-15 10:08:12 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பௌத்தத்தை-சிதைப்போருக்கு-எதிராக-சட்டம்-இயற்றவும்/175-331521)*
 
@@ -43,7 +548,7 @@
 
 பௌத்த சமூகத்தினுள் சமூகக் குழப்பங்களை ஏற்படுத்தி சமூக ஊடகங்கள் ஊடாக இவ்வாறான திரிபுபடுத்தல்களை ஊக்குவிக்கும் நபர்களை எதிர்த்துப் போராடுவதற்கான சட்ட நடவடிக்கைகளை உருவாக்க வேண்டிய அவசரத்தை அவர்கள் எடுத்துரைத்தனர்.
 
-## உள்நாட்டு பிரச்சினைகளிற்குதீர்வை  கண்ட பின்னர் சர்வதேச கடற்பரப்பை பாதுகாக்க செல்லுங்கள் - கர்தினால் மல்கம் ரஞ்சித்
+### உள்நாட்டு பிரச்சினைகளிற்குதீர்வை  கண்ட பின்னர் சர்வதேச கடற்பரப்பை பாதுகாக்க செல்லுங்கள் - கர்தினால் மல்கம் ரஞ்சித்
 
 *2024-01-15 09:45:00 - [virakesarilk](https://www.virakesari.lk/article/173975)*
 
@@ -61,7 +566,149 @@
 
 2024ம் ஆண்டு தேர்தல்களி;ன் ஆண்டு என அறிகின்றோம் இந்த தடவை சரியான தலைவர்களிடம் மக்கள் ஆட்சியை வழங்குவார்கள் என எதிர்பார்க்கின்றோம் எனவும் அவர் தெரிவித்துள்ளார்.
 
-## ஒருசீனா கொள்கையில் இலங்கை உறுதி – அலி சப்ரி
+### Sri Lanka Navy Seizes Indian Poaching Trawler
+
+*2024-01-15 09:33:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/sri-lanka-navy-seizes-indian-poaching-trawler/)*
+
+COLOMBO (News 1st): The Sri Lanka Navy conducted a special operation to chase away Indian poaching trawlers from Sri Lankan waters on the evening of 14th January 2024.
+
+The operation led to the seizure of 01 Indian trawler with 10 Indian fishermen poaching in Sri Lankan waters north of Point Pedro, Jaffna.
+
+The Navy conducts regular patrols and operations in Sri Lankan waters to curb illegal fishing practices by foreign fishing trawlers, taking into account the consequences of these practices on the livelihood of local fishermen and marine resources of the country.
+
+In continuation of these efforts, the Northern Naval Command deployed an Inshore Patrol Craft to chase away a cluster of Indian poaching trawlers, after having spotted they were engaging in illegal fishing in Sri Lankan waters on 14th January.
+
+In this operation, naval personnel held 01 Indian poaching trawler with 10 Indian fishermen, continued to remain in island waters off Point Pedro.
+
+The apprehended Indian fishermen (10) and the poaching trawler (01) were brought to the Kankasanthurai harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal action.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### Operation Yukthiya Nets Over 950 Suspects in 24-Hour Blitz
+
+*2024-01-15 09:30:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/operation-yukthiya-nets-over-950-suspects-in-24-hour-blitz/)*
+
+COLOMBO (News 1st);  Operation Yukthiya saw the apprehension of a staggering 952 suspects within the past 24 hours, ending their illegal activities at 12:30 AM today.
+
+The Ministry of Public Security confirmed the arrests and reported issuing detention orders to 11 suspects.
+
+Additionally, Operation Yukthiya facilitated the rehabilitation of 10 individuals struggling with drug addiction, directing them towards treatment and recovery.
+
+The operation further dealt a critical blow to organized crime, successfully capturing 29 individuals included on the watchlist of the Police Narcotics Bureau and Special Bureau.
+
+Authorities recovered a substantial amount of narcotics during the operation, with ice constituting the majority of the seizures.
+
+Over 2 kilograms of the highly addictive drug were confiscated.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### Talk of The Town | Rebuilding SL : SJB’s blueprint | MP Mayantha Dissanayake | 15th January 2024
+
+*2024-01-15 09:27:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/talk-of-the-town-rebuilding-sl-sjb%e2%80%99s-blueprint-mp-mayantha-dissanayake-15th-january-2024/)*
+
+Talk of The Town | Rebuilding SL : SJB’s blueprint | MP Mayantha Dissanayake | 15th January 2024
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### Liquor Shops Closed in Parts of Sri Lanka for Thai Pongal
+
+*2024-01-15 09:25:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/liquor-shops-closed-in-parts-of-sri-lanka-for-thai-pongal/)*
+
+COLOMBO (News 1st); Liquor shops in Sri Lanka's Badulla and Nuwara Eliya districts, along with those in the entire Northern Province, will remain closed today, Monday, January 15th, in observance of the Thai Pongal festival.
+
+The announcement comes from the Department of Excise, aiming to ensure a respectful and peaceful environment for celebrating the important harvest festival.
+
+"All liquor shops within the Badulla district, with the exception of the Ridhimaliyadda and Mahianganaya divisional secretariat divisions, will be closed today," stated the Department of Excise.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### Sri Lanka To Open Investment Doors at World Economic Forum
+
+*2024-01-15 09:20:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/sri-lanka-to-open-investment-doors-at-world-economic-forum/)*
+
+COLOMBO (News 1st); The Annual Meeting of the World Economic Forum Annual Meeting will get underway in Davos, Switzerland on Monday (15).
+
+Sri Lankan President Ranil Wickramasinghe arrived in Davos yesterday to participate in the prestigious World Economic Forum (WEF), a pivotal gathering of world leaders, international organizations, and industry titans shaping the global agenda.
+
+Beyond the WEF's main conference, President Wickramasinghe will lead Sri Lanka's presence at the Green Tech Forum, organized by the Swiss-Asian Chamber of Commerce.
+
+Delivering the keynote speech titled "Paving the way to an energy secure Sri Lanka," the President is expected to highlight the nation's commitment to sustainable development and green energy solutions.
+
+Furthermore, Sri Lanka's investment potential will be showcased at a business roundtable conference co-organized by the Sri Lanka Investment Board and the Swiss Asian Chamber of Commerce.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### Hospitals Brace for Disruptions as Healthcare Workers Plan To Strike Tomorrow
+
+*2024-01-15 09:11:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/hospitals-brace-for-disruptions-as-healthcare-workers-plan-to-strike-tomorrow/)*
+
+COLOMBO (News 1st); Tensions are brewing in the Sri Lankan healthcare sector as several supplementary medical professional associations have announced a trade union action effective tomorrow, potentially leaving crucial services unattended.
+
+The move stems from a recent decision by the President to increase doctors' allowances by Rs. 35,000, a decision that other healthcare professionals feel unfairly excludes them.
+
+Public Health Inspectors Union of Sri Lanka Secretary, Shanaka Bopitiya, confirmed the planned action, stating that all professional associations in the health sector, except for doctors, will participate.
+
+This involves a wide range of personnel, including nurses, paramedical staff, and public health inspectors, potentially impacting various healthcare services across the country.
+
+They demand the same increase in their allowances, arguing that their contribution to the healthcare system is equally vital.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### IMF Staff to hold key discussions with Sri Lanka
+
+*2024-01-15 08:59:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/imf-staff-to-hold-key-discussions-with-sri-lanka/)*
+
+COLOMBO (News 1st); A six-member delegation from the International Monetary Fund (IMF) will kick off a crucial discussions with key institutions and authorities about Sri Lanka's economic program.
+
+State Finance Minister Shehan Semasinghe confirmed the delegation's visit, stating they will hold talks with various stakeholders, including the Central Bank, the Electricity Board, and the Ministry of Finance itself.
+
+Minister Semasinghe further revealed that the meetings will focus on "further strengthening the IMF-supported program for Sri Lanka."
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### ‘Yukthiya’: 952 drug suspects arrested within 24-hours
+
+*2024-01-15 08:52:00 - [adaderanalk](https://www.adaderana.lk/news/96410/yukthiya-952-drug-suspects-arrested-within-24-hours)*
+
+A total of 952 suspects have been arrested during a 24-hour period ending at 12.30 am today (15), as part of the island-wide anti-drug operation ‘Yukthiya’, says the Ministry of Public Security.
+
+It said that 276 grams of heroin, 2.98 kg of crystal methamphetamine (Ice) and 4,310 narcotic pills were taken into custody during this period.
+
+### Opposition Leader’s Thai Pongal message
+
+*2024-01-15 08:33:00 - [adaderanalk](https://www.adaderana.lk/news/96409/opposition-leaders-thai-pongal-message)*
+
+In his Thai Pongal message, Opposition Leader Sajith Premadasa urged Sri Lankans everywhere to embrace the essential blessings bestowed by the natural world and embark on a new path, a transformative journey towards making our nation the world’s foremost.
+
+He said that Thai Pongal, often recognized as a festival bringing positive vibrations to the spiritual way of life in the Hindu community, offers a splendid opportunity to express gratitude for the intricate connection between humans and the natural world.
+
+“Following a challenging year marked by the nation’s economic struggles, we now face another year filled with various issues,” Premadasa said, adding that overcoming these obstacles is imperative, transcending barriers of caste, religion, color, or tribe.
+
+With great pleasure, I extend my heartfelt wishes on this auspicious occasion of Thai Pongal, a celebration observed globally by Hindus and Sri Lankans alike, as a time of gratitude to nature.
+
+Our connection with nature has been an integral part of human life since the dawn of civilization. Throughout ancient times, people have revered the sun god, attributing the life-giving force to its radiant presence. The Thai Pongal festival stands out as a unique celebration that pays homage to the Sun God and symbolizes the profound faith people place in this celestial entity. Thai Pongal, often recognized as a festival bringing positive vibrations to the spiritual way of life in the Hindu community, offers a splendid opportunity to express gratitude for the intricate connection between humans and the natural world.
+
+Presenting the freshly harvested produce to the Sun God during this festival is believed to usher in blessings for the upcoming year. Following a challenging year marked by the nation’s economic struggles, we now face another year filled with various issues. Overcoming these obstacles is imperative, transcending barriers of caste, religion, color, or tribe. On this day of Thai Pongal, I urge Sri Lankans everywhere to embrace the essential blessings bestowed by the natural world and embark on a new path, a transformative journey towards making our nation the world’s foremost.
+
+### Thai Pongal marks dawn of a prosperous new year in which expectations are fulfilled - PM
+
+*2024-01-15 08:22:00 - [adaderanalk](https://www.adaderana.lk/news/96408/thai-pongal-marks-dawn-of-a-prosperous-new-year-in-which-expectations-are-fulfilled-pm)*
+
+Prime Minister Dinesh Gunawardena says that ’Thaipongal’, which is a national festival showcasing the excellence of Hindu culture that inherits an agricultural economy, embodies the core values based on peace, unity, and compassion.
+
+This harvest festival, during which the Tamil farmers, having a belief in the traditional lifestyle that is bound up with nature, extend their gratitude to the sun for a rich harvest, will be a reflection of the lifeblood of the nation, he said.
+
+It will be a motivation for the active concept of food security and rural revitalization in the face of the current situation, the PM said in his Thai Pongal message.
+
+’Thaipongal’, which is a national festival showcasing the excellence of Hindu culture that inherits an agricultural economy, embodies the core values based on peace, unity, and compassion.
+
+This harvest festival, during which the Tamil farmers, having a belief in the traditional lifestyle that is bound up with nature, extend their gratitude to the sun for a rich harvest, will be a reflection of the lifeblood of the nation.
+
+It will be a motivation for the active concept of food security and rural revitalization in the face of the current situation.
+
+I extend my greetings to the people all over the world who are celebrating the Thai Pongal festival, marking the dawn of a prosperous new year in which expectations are fulfilled.
+
+### ஒருசீனா கொள்கையில் இலங்கை உறுதி – அலி சப்ரி
 
 *2024-01-15 08:21:00 - [virakesarilk](https://www.virakesari.lk/article/173974)*
 
@@ -69,7 +716,39 @@
 
 தாய்வானில் தேர்தல்கள் அமைதியாக நடந்து முடிந்துள்ளமை மகிழ்ச்சியளிக்கின்றது ஒரு சீனா கொள்கைகளை முன்னிறுத்துவதில் பின்பற்றுவதில் தொடர்ந்தும் உறுதியாக உள்ளது என வெளிவிவகார அமைச்சர் அலிசப்ரி தெரிவித்துள்ளார்.
 
-## ஜனாதிபதியின் தைத் திருநாள் வாழ்த்து செய்தி
+### Thai Pongal serves as a reminder of the value of equality - President
+
+*2024-01-15 07:58:00 - [adaderanalk](https://www.adaderana.lk/news/96407/thai-pongal-serves-as-a-reminder-of-the-value-of-equality-president)*
+
+In his Thai Pongal message, President Ranil Wickremesinghe urged everyone to come together with determination, akin to the unity of siblings, to realize new hopes for the country’s future.
+
+He stated that beyond its agricultural essence, Thai Pongal heralds a fresh start, a time to relinquish the past and welcome new opportunities with unwavering optimism.
+
+Rooted in the belief of the pivotal role of agriculture in rejuvenating Sri Lanka’s economy through the government’s agricultural modernization program, the dawn of Thai symbolizes the inception of a promising journey filled with hope and prosperity, he said.
+
+Thai Pongal also serves as a reminder of the value of equality, the President said, while also wishing the Tamil community worldwide a prosperous and joyous Thai Pongal celebration.
+
+Thai Pongal, a vibrant Hindu harvest festival celebrated by the Tamil Community worldwide, beckons us into a realm of joy and gratitude, signifying not only the bountiful harvest but also the promise of new beginnings. Embraced within the auspicious month of Thai (January) in the Tamil calendar, this celebration harmonizes with the Sun’s northward journey, marking the onset of the harvest season.
+
+Originating around a thousand years ago during the Chola dynasty, this festival commemorates the first harvest of the year. Its purpose is to express gratitude to those who contributed to the harvest.
+
+Beyond its agricultural essence, Thai Pongal heralds a fresh start, a time to relinquish the past and welcome new opportunities with unwavering optimism. Rooted in the belief of the pivotal role of agriculture in rejuvenating Sri Lanka’s economy through the government’s agricultural modernization program, the dawn of Thai symbolizes the inception of a promising journey filled with hope and prosperity.
+
+Thai Pongal also serves as a reminder of the value of equality. I urge everyone to come together with determination, akin to the unity of siblings, to realize new hopes for the country’s future.
+
+I wish the Tamil community worldwide a prosperous and joyous Thai Pongal celebration.
+
+### Misty conditions expected during the morning
+
+*2024-01-15 07:48:00 - [adaderanalk](https://www.adaderana.lk/news/96406/misty-conditions-expected-during-the-morning)*
+
+A few showers may occur in Eastern and Southern provinces today, according to the Meteorology Department.
+
+Mainly fair weather will prevail in the other areas of the island.
+
+Misty conditions can be expected in most provinces in the island during the morning, it said.
+
+### ஜனாதிபதியின் தைத் திருநாள் வாழ்த்து செய்தி
 
 *2024-01-15 02:29:58 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-தைத்-திருநாள்-வாழ்த்து-செய்தி/175-331518)*
 
@@ -79,7 +758,7 @@
 
 அதேபோல் தைப்பொங்கல் நமக்கு சகவாழ்வையும் மதிப்பையும் போதிக்கிறது. அதற்கமைய நாட்டின் எதிர்காலத்துக்கான புதிய எதிர்பார்ப்புக்களை பூர்த்தி செய்வதற்கு ஒருதாய் மக்களாக முன்னேற்றம் அடைய வேண்டும் என அனைவரிடத்திலும் கேட்டுக்கொள்ளும் அதேநேரம், தமிழர்கள் அனைவருக்கும் சுபீட்சமும் மகிழ்ச்சியும் நிறைந்த தைப்பொங்கல் வாழ்த்துக்களைத் தெரிவிக்கிறேன் எனத் தெரிவித்துள்ளார். (a)
 
-## இந்தியாவிடமிருந்து 20 ரயில் எஞ்சின்கள்
+### இந்தியாவிடமிருந்து 20 ரயில் எஞ்சின்கள்
 
 *2024-01-15 02:27:21 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவிடமிருந்து-20-ரயில்-எஞ்சின்கள்/175-331517)*
 
@@ -89,7 +768,7 @@
 
 இதன்படி, ரயில் எஞ்சின்களை ஆய்வு செய்வதற்காக இலங்கை ரயில்வே திணைக்களத்தை சேர்ந்த 05 பரிசோதகர்கள் இந்தியாவிற்கு சென்றிருந்தனர். (a)
 
-## மதுபானசாலைகளுக்கு பூட்டு
+### மதுபானசாலைகளுக்கு பூட்டு
 
 *2024-01-15 02:19:03 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலைகளுக்கு-பூட்டு/175-331515)*
 
@@ -97,7 +776,7 @@
 
 இதன்படி, நுவரெலியா மாவட்டத்திலும் பதுளை மாவட்டத்தின் மஹியங்கனை, ரிதிமாலியத்தை ஆகிய பிரதேச செயலகப்பிரிவுகளுக்கு உட்பட்ட பகுதிகள் தவிர்ந்த ஏனைய அனைத்து மதுபானசாலைகளும் இன்று மூடப்படவுள்ளன.
 
-## களுகங்கையில் மூழ்கி 3 மாணவர்கள் உயிரிழப்பு
+### களுகங்கையில் மூழ்கி 3 மாணவர்கள் உயிரிழப்பு
 
 *2024-01-15 02:15:34 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/களுகங்கையில்-மூழ்கி-3-மாணவர்கள்-உயிரிழப்பு/175-331514)*
 
@@ -105,7 +784,335 @@
 
 களுத்துறை பன்வில மற்றும் தொடங்கொடை பகுதிகளை சேர்ந்தவர்களே இவ்வாறு உயிரிழந்துள்ளனர் என பொலிஸார்   தெரிவித்துள்ளனர். சடலங்கள் தற்போது பிரேத பரிசோதனைக்காக நாகொட போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளன.
 
-## இரு இளைஞர்களின் சடலங்கள் கால்வாயில் கண்டுபிடிப்பு
+### Govt incurred additional cost of over Rs. 1 bn on gas purchases amid crisis: audit report
+
+*2024-01-15 01:29:00 - [adaderanalk](https://www.adaderana.lk/news/96405/govt-incurred-additional-cost-of-over-rs-1-bn-on-gas-purchases-amid-crisis-audit-report)*
+
+The government had to bear an additional cost of Rs. 1,139 billion amidst the economic crisis last year due to cancellation of the term tender and importing Liquefied Petroleum Gas (LPG) at higher rates, the Auditor General’s Department revealed.
+
+This was mentioned in a special audit report compiled on the procurement of liquefied petroleum gas Litro Gas Lanka Ltd for the years 2022 and 2023.
+
+The report indicates that despite having obtained the approval of the Cabinet of Ministers to grant the LP gas tender to the lowest bidder, the Singapore-based Siam Gas Trading Pte Ltd., steps had been taken to commence a new procurement process to buy gas at a higher rate.
+
+Accordingly, the government had to pay a higher rate for the purchase of liquefied petroleum gas, even in the face of an economic crisis, the Auditor General’s Department alleged.
+
+The Technical Evaluation Committee had recommended on April 26, 2022, that Siam Gas Trading, the lowest bidder, should be the supplier qualified for 2022-2023 period. The Procurement Committee also approved this on April 28, 2022.
+
+Later, on May 04, 2022, the Cabinet of Ministers gave the nod to select Siam Gas Trading as the LP gas supplier for the aforementioned period.
+
+The report says that the Board of Appeal, having considered the appeal made by the previous supplier OQ Trading Ltd. against the selection, had given its consent to award the procurement to Siam Gas Trading.
+
+However, despite the approvals so given, it had been decided to commence a new procurement process following the Cabinet Decision dated June 13, 2022, whilst gas was being purchased from OQ Trading Ltd. at a price exceeding that of Siam Gas Trading (CP+ $96) irrespective of the lack of a formal methodology for Sri Lanka to purchase gas since March 2022.
+
+The report revealed that the term procurement had been cancelled despite Siam Gas Trading having being selected, and, as gas had been purchased from OQ Trading Ltd. at a higher price, the government had incurred an additional expenditure of USD 3,145,960 (equivalent to Rs. 1,138,837,430 in total) amidst the economic crisis.
+
+### Indonesian volcano erupts for second time in just over a month
+
+*2024-01-14 23:11:00 - [adaderanalk](https://www.adaderana.lk/news/96404/indonesian-volcano-erupts-for-second-time-in-just-over-a-month)*
+
+Indonesia’s Marapi volcano has erupted for the second time in weeks, the country’s geological agency said Sunday.
+
+According to the Ministry of Energy and Mineral Resources, the 2,891-meter-high (9,500 feet) volcano began erupting at 6 a.m. local time (6 p.m.ET).
+
+The volcano in West Sumatra province erupted at least twice, the agency said according to Reuters.
+
+Reuters also reported nearby houses, vehicles and evacuation tents set up by the local disaster agency were covered in volcanic ash.
+
+The ministry warned residents and visitors not to go within a 4.5 kilometer (2.8 mile) radius of the Verbeek Crater where the eruption took place and told residents in nearby communities to wear masks in the event of falling ash.
+
+Some residents also went to health facilities to receive respiratory check-ups, Reuters added.
+
+A previous eruption on December 3 killed 23 hikers who were on the mountain at the time, and saw volcanic ash being spewed as high as 3,000 meters (9,843 feet) into the air.
+
+Mount Marapi is among the most active volcanoes in Indonesia which lies on the Pacific Ring of Fire with 127 active volcanos – more than anywhere else in the world.
+
+It has erupted 11 times during the early 21st century, with it deadliest single event having killed 60 people in 1979.
+
+### SLPA to establish new terminal services agreements with shipping lines
+
+*2024-01-14 22:59:00 - [islandlk](http://island.lk/slpa-to-establish-new-terminal-services-agreements-with-shipping-lines/)*
+
+The year 2023 witnessed significant growth at the Sri Lanka Ports Authority (SLPA). In comparison to the 1,925,895 TEUs handled by SLPA in 2022, it has handled a total of 1,965,128 TEUs in 2023, reflecting a 2% growth, SLPA said in a press release.
+
+SLPA anticipates positive growth in container operations despite a percentage drop in global container volumes in 2022. SLPA is optimistic that the present growth rates will persist with the expected improvement in import and export activities in the global market and the gradual recovery of the country’s economy.
+
+In 2023, the Port of Colombo (POC) operated 6,951,003 TEUs, marking a 1.17% growth compared to the 6,862,184 TEUs handled in 2022.
+
+The recent growth at the SLPA can be attributed to increased efficiency levels at its terminals that include the Jaya Container Terminal (JCT) and the East Container Terminal (ECT) and their ability to attract new services, establishing connections with new Terminal Services Agreements (TSA) with shipping lines.
+
+SLPA expresses confidence in attracting more services at its terminals in 2024. This confidence will be reinforced by the successful completion of constructions at the East Container Terminal (ECT) and the JCT-V project in near future.
+
+Steep depreciation of rupee shoots up foreign loan interest cost of SLPA last year by 200 percent
+
+SLPA poised as an exemplary model for SOEs, says its chairman
+
+Sri Lanka Ports Authority wins the 2022 GPF Award for the Ports Authority of the Year
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### FitsAir acquires approval for inflight catering
+
+*2024-01-14 22:59:00 - [islandlk](http://island.lk/fitsair-acquires-approval-for-inflight-catering/)*
+
+FitsAir, Sri Lanka’s leading low-cost airline, announced a significant enhancement to its service offerings by obtaining approval for inflight self-catering. This strategic move aligns with the airlines vision to offer low-cost international travel.
+
+FitsAir’s Inflight Catering Services prioritize affordability and variety, providing passengers with wallet-friendly meal choices that won’t strain their budgets. The inflight menu features practical yet satisfying meal options, ensuring passengers receive excellent value for spend. In addition to these selections, the airline offers a range of snack packs and essential refreshments, ensuring travelers stay fueled and refreshed during their journey. The FitsAir menu features locally sourced items that support homegrown brands to ensure passengers feel at home from the moment you board the flight.
+
+SLPA to establish new terminal services agreements with shipping lines
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### මගේ වැඩ නවත්වන්නේ නෑ!
+
+*2024-01-14 22:21:48 - [adalk](https://www.ada.lk/breaking_news/මගේ-වැඩ-නවත්වන්නේ-නෑ-/11-407554)*
+
+කැළණිය විශ්වවිද්‍යාලයේ පැවැති ආරාධිත දේශනයක් නිමවා සරසවියෙන් පිටතට පැමිණෙන අවස්ථාවේදී විශ්වවිද්‍යාලයේ සිසුන් කිහිප දෙනෙක් මෙරට ප්‍රමුඛ ව්‍යාපාරික ඩඩ්ලි සිරිසේන මහතාට විරෝධතාවක් දක්වන ලදී.
+
+මෙම සිදුවීම  පිළිබඳව සිය ෆේස්බුක් ගිණුම ඔස්සේ සටහනක් තබමින් ඔහු ප්‍රකාශ කරන්නේ එම සිසුන් කෙරෙහි තමන්ගේ අනුකම්පාව ප්‍රකාශ කරන බව පහන් සංවේගයෙන් දැනුම් දෙන බවයි.
+
+කැලණිය විශ්වවිද්‍යාලයේ මහජන සම්බන්ධතා හා මාධ්‍ය කළමනාකරණ පශ්චාත් උපාධි ඩිප්ලෝමා පාඨමාලාවේ ආරධිත දේශනය අතිශය සාර්ථක අයුරින් අද දිනයේදී මා විසින් සිදු කළා.
+
+මාගේ එම දේශනය අවසානයේ සිසුන් සමඟින් බොහෝ වේලාවක් සතුටු සාමිචියේ යෙදී ඔවුන් සමඟින් තේ පැන් සංග්‍රහයක්ද භුක්ති විඳීමට මා අමතක නොකළත්, අවසානයේ විශ්ව විද්‍යාල පරිශ්‍රයෙන් පිටතට ඒමේදී සිසුන් කිහිපදෙනෙකු විසින් මා යන මඟ අවහිර වන සේ බාධක යොදමින් මාගේ මඟ විනාඩි දහයක කාලයක් පුරාවට අවහිර කරමින් ඔවුන්ගේ සමාජ පීඩනය මා හරහා පිට කිරීමට පෙළඹුණා.
+
+එම විශ්ව විද්‍යාල පරිශ්‍රය තුලම පුරා පැය දෙකකට වඩා වැඩි  කාලයක් රැඳී සිටිමින් මාගේ ජීවිත අත්දැකීම් සහ ප්‍රායෝගික ව්‍යාපාර භාවිතය සම්බන්ධයෙන් එම සිසුන් පිරිස දැනුමෙන් සන්නද්ධ කළ මා හට ගතවූ දෙපැය තුළ කවරාකාරයේ හෝ බළපෑමක් නොතිබුණත්, එම දේශනය අවසානයේ මාධ්‍ය ආවරණ සහිතව පසුව සිදුවූ මේ සිදුවීම මනා ලෙස සංවිධානාත්මක අයුරින් කවරෙකු හෝ මෙහෙයවූ සිදුවීමක් බව මා හට පසක් වුණා.
+
+කවරාකාරයේ හෝ තමන් සතු පටු අරමුණු විශ්ව විද්‍යාල සිසුන් ලවා කොන්ත්‍රාත් ක්‍රමයට මුදුන්පමුණුවාගැනීමට වෙර දැරූ එම කණ්ඩායම සම්බන්ධයෙන් මා තුළ වෛරයක් නොමැති බවත්, ආදරණීය පියෙකු, වැඩිහිටියෙකු සහ දේශිය ව්‍යවසායකයෙකු ලෙස එම සිසුන් කෙරෙහි අනුකම්පා සිතින් තවදුරටත් ආශිර්වාද කිරීමට කැමති බව පහන් සංවේගයෙන් යුතුව මෙසේ මා පසක් කරනවා.
+
+මට විද්‍යාර්ථයෙකු වීමේ භාග්‍යය නොමැති වුවත් විශ්ව විද්‍යාලය යනු වාදසංවාද පවත්වන තෝතැන්නක් බවත්, ඇතැම් ශිෂ්‍ය සංවිධාන නියෝජනය කරන කිහිපදෙනෙකු විසින් විශ්ව විද්‍යාල පද්ධතිය දකින්නේ තම දේශපාලනයට පමණක් සීමා වූ මතවාදී සිරකඳවුරු නිසාත්, එවැනි සිර කඳවුරු තුළින් රට ගොඩනගන්නට අවැසි පර්යේෂණ හෝ සංවර්ධන දායකත්වයක් ලබා දිය හැකිද යන පැණය මා ඔබ වෙත නඟනවා.
+
+ආදරණීය සහෘදයිනි, ස්වෝත්සාහයෙන් දියුණුවේ හිණිපෙත්තටම පැමිණි දේශීය ව්‍යවසායකයෙකු ලෙස සැඳෑ සමයේ විවේකීව නිවසට වී කල් ගත කිරීම පසෙක ලමින් මාගේ වටිනා කාලය සහ පෞද්ගලික ධනය විය පැහැදම් කරමින් රටේ අනාගත පරපුර වෙනුවෙන් කරන්නා වූ මේ සමාජ සත්කාරය මෙවැනි ක්‍රිකාකාරකම් හේතුවෙන් කිසිලෙසකින්වත් නවතා නොදමන බවත්, මා හට අවශ්‍ය වූයේ සාම්ප්‍රදායික රජයේ සේවකයන් නිර්මාණය කිරීම වෙනුවට මා වැනි ව්‍යවසායකයන් රට තුළ වැඩි වැඩියෙන් බිහි කිරීමට අවශ්‍ය වටපිටාව නිර්මාණය කිරීම පමණක් බවත් මෙසේ අවධාරණය කරනවා.
+
+ආදරණීය දරුවනි, ලෝකය වෙනස් කරන බලගතුම අවිය අධ්‍යාපනය බව වරෙක නෙල්සන් මැන්ඩෙලා විසින් ප්‍රකාශ කළා. මා විසින් පුරා තෙවසරක කාලයක පටන් ජයවර්ධනපුර විශ්වවිද්‍යාලය, පේරාදෙණිය විශ්වවිද්‍යාලය, කොළඹ විශ්වවිද්‍යාලය, රුහුණු විශ්වවිද්‍යාලය, යාපනය විශ්වවිද්‍යාලය හා නැගෙනහිර විශ්වවිද්‍යාලය ඇතුලු සරසවීන් බොහෝ සංඛ්‍යාවක ආරාධිත දේශන සිදුකරමින් රටේ අනාගත ව්‍යවසායකත්ව පරපුරක් බිහිකිරීම වෙනුවෙන් කළා වූ යුතුකම් කොටස මෙකී සුලුතරය විසින් වැරදියට හඳුනාගැනීම සම්බන්ධයෙන් මා කණගාටුවට පත්වන අතර, එම සිසුන් පිරිසට මෙහි සැබෑ අරමුණ සාක්ෂාත් වේවායි ඉතසිතින් යුතුව මා විසින් ප්‍රාර්ථනය කරනවා.
+
+එ නිසා දරුවනි එන්න. මා රට වෙනුවෙන් කර ඇති දේ සියැසින් දැකගන්න
+
+### ලක්ෂ 251ක වාහන වංචාවක් කළ හිටපු කොස්තාපල් අල්ලයි
+
+*2024-01-14 22:05:16 - [adalk](https://www.ada.lk/breaking_news/ලක්ෂ 251ක-වාහන-වංචාවක්-කළ-හිටපු-කොස්තාපල්-අල්ලයි/11-407553)*
+
+සුඛෝපභෝගී වෑන් රථ මෝටර් රථ හා කැබ් රථ වෙළෙඳ පොළේ මිලට වඩා අඩුවෙන් ලබාදෙන බව පවසා රුපියල් දෙකෝටි 51 ක් ලක්ෂයක මුදලක් වංචා කළ හිටපු පොලිස් කොස්තාපල්වරයෙකු අත්අඩංගුවට ගත් බව කොළඹ වංචා විමර්ශන කාර්යාංශය කියයි.
+
+අත්අඩංගුවට ගත් සැකකාර කොස්තාපල්වරයා ජනාධිපති ආරක්ෂක කොට්ඨාසයට අනුක්තව රාජකාරී කල මේ වන විට සේවය අතහැර යාමේ නියෝග ලබා ඇත්තෙකු බව පොලිසිය සඳහන් කරයි.
+
+සැකකරු සමග රුපියල් 71500/= ක මුදලක්, ජංගම දුරකථන දෙකක් , ප්‍රසිද්ධ සමාජ ශාලා කීපයක සාමාජික කාඩ් පත් කිහිපයක්  හා , බැංකු  කාඩ් පත් පොලිසිය මගින් සොයාගෙන ඇත.
+
+සැකකරුට විරුද්ධව ලද පැමිණිලි හතරක් අනුව කොළඹ වංචා විමර්ශන කාර්යාංශයේ  ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක දුමින්ද බාලසූරිය මහතාට ලද තොරතුරකට අනුව  කොළඹ ඩී ආර් විජේවර්ධන මාවතේ ප්‍රසිද්ධ සමාජ ශාලාවක් ඉදිරිපිට දී සැකකරු අත්අඩංගුවට ගෙන  සිදුකළ ප්‍රශ්න කිරීමේදී  නවාතැන් ගෙන සිටි කොල්ලුපිටිය ප්‍රදේශයේ ප්‍රසිද්ධ හෝටලයක කාමරයක් පරික්ෂා කිරීමේදී ඉහත දේපළ සොයා ගත් බව පොලිසිය කියයි.
+
+කොළඹ ඇතුළු විවිධ ප්‍රදේශවල ප්‍රසිද්ධ ව්‍යාපාරිකයන් හමුවට ගොස්   වරායෙන් සහ රේගුවෙන් මෝටර් රථ සහ වෑන් රථ අඩු මුදලට ලබා ගත හැකි බව පවසා  පුද්ගලයන් සිව් දෙනෙකුගෙන් මෙම මුදල් වංචා කර තිබූ බව පොලිසිය කියයි.
+
+2023.11.07 වෙනි දින පුද්ගලයන් දෙදෙනකුගෙන්  මෝටර් රථයක් සහ වෑන් රථයක් ලබා දෙන බව පවසා රුපියල් ලක්ෂ 85 හා 90 ක් ද  2023 .11.14 වෙනි දින කැබ් රථයක් ලබා දෙන බව පවසා පුද්ගලයකුගෙන් රුපියල් ලක්ෂ 53 ක් ද  2024 .01.12 වෙනි දින මෝටර් රථයක් ලබා දෙන බව පවසා පුද්ගලයකුගෙන් රුපියල් ලක්ෂ 28ක මුදලක්ද සැකකරු වංචා කර ඇතැයි පොලිසිය සඳහන් කරයි.
+
+සැකකරු 2008 ආධුනික පොලිස් කොස්තාපල්පු ලෙස මූලික පුහුණුව හදාරා පොලිස්  සේවයට එක්ව ඇති අතර 2022  නියෝග නිකුත් කර ඇත්තෙකු බව විමර්ශනවලදී අනාවරණය වී ඇත.
+
+සැකකරුට විරුද්ධව මේ ආකාරයේ තවත් පැමිණිලි වෙනත් පොලිස් ස්ථානවල වෙත ලැබී ඇද්ද යන්න සොයා බැලීම සඳහා සැකකරුගේ ඡායාරූපය සහිතව දුරකථන පණිවිඩ බැහැර කර ඇති බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+34 හැවිරිදි  සැකකරු බදුල්ල , කහට රුප්ප, කිරිමින්ගොල්ල පදිංචිකරුවෙකි. සැකකරු අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතය.
+
+### මහනාහිමිවරුන්ගෙන් ජනපතිට ලිපියක්
+
+*2024-01-14 21:55:27 - [adalk](https://www.ada.lk/breaking_news/මහනාහිමිවරුන්ගෙන්-ජනපතිට-ලිපියක්/11-407552)*
+
+විවිධ පටු ලාභ අපේක්ෂාවෙන් ගිහි පැවිදි පිරිස් සංවිධානාත්මකව බුදුදහමේ ගාම්භීරත්වය මෙන්ම සුනිශීතභාවය විනාශ කරමින් ධර්ම හානියක් මෙන්ම ශාසනික හානියක් සිදුකිරීමේ අන්තවාදී ක්‍රියාදාමයක නිරත වී සිටි බව ත්‍රෛනිකායික මහ නාහිමිවරුන් ජනපති රනිල් වික්‍රමසිංහ මහතා වෙත ලිපියක් යොමුකරමින් පවසයි.
+
+සම්බුද්ධ ශාසනය සුරක්ෂාව ප්‍රවර්ධනය හා පෝෂණය උදෙසා ශ්‍රී ලංකාවේ ජනපතිවරයා බැඳී සිටින බැවින් ජනපතිවරයානේ අවධානය ඒ පිළිබඳව යොමු කොට ධර්ම විකෘති හා ශාසන විකෘතින්හි යෙදෙමින් පටු ලාභ අපේක්ෂාවෙන් උතුම් ශ්‍රී සද්ධර්මය විනාශ කරන පුද්ගලයන්ට එරෙහිව නීතිය ක්‍රියාත්මක කරනද  උන්වහන්සේලා යොමු කළ ලිපියේ දැක්වෙයි.
+
+### මත්පැන් සාදය මරණයකින් අහවර වෙයි
+
+*2024-01-14 21:42:36 - [adalk](https://www.ada.lk/breaking_news/මත්පැන්-සාදය-මරණයකින්-අහවර-වෙයි/11-407550)*
+
+හංවැල්ල ජල්තර ප්‍රදේශයේ අතහැර දමා තිබූ ගල් කොරියක් මත මත්පැන් සාදයක් පැවැත් වූ දෙමස්සනාගෙන් එක් පුද්ගලයෙකු ගල් කොරියේ අඩි පනහක් පමණ උසින් බිමට වැටී මියගොස් සිටියදී අද  (14) දා දහවල් සොයාගත් බව හංවැල්ල පොලිසිය පවසයි .
+
+මෙසේ මියගොස් ඇත්තේ හංවැල්ල , රනාල , ජල්තර , නවකන්ද පාර , අංක 147 / 8 හි පදිංචි  කුඩා අතුරුගිරිගේ නිශංක කුමාර නමැති (27) හැවිරිදි  එක් දරු පියෙකු බව පොලිසිය කියයි.
+
+මෙම පුද්ගලයා  සිය මවගේ නිවසට පැමිණ සිටියදී  ඊට යාබදව පිහිටි නිවසේ පදිංචි මස්සිනා සමග මෙම ගල් කොරිය මතට පැමිණ  (13) දා අළුයම  02  පමණ වනතෙක් මත්පැන් සාදයක් පවත්වා තිබේ.
+
+පසුව අලුයම දෙකට පමණ සාදය නවත්වා මියගිය පුද්ගලයාට නිදිමත යැයි පවසා අඩි පහක පමණ බෑවුමක් සහිත ගල් කොරිය මත නිදාගෙන තිබේ. ඉන් මඳ වේලාවකට පසුව අනිත් පුද්ගලයාද එම ස්ථානයේම නිදාගෙන ඇති අතර (14) දා දහවල් 10 පමණ ඔහු අවධි වී බැලීමේදී  තමා සමග නිදාගත් අනෙත් පුද්ගලයා නිදා සිටි ස්ථානයේ නොමැති බව දැක අවට විපරම් කර බැලීමේදී නිදාසිටි ගල්කොරිය මත සිට අඩි පනහක් පමණ  පහලින් පිහිටි ගල් වල මතට වැටී සිටිනු දැක තිබේ.
+
+ඒ අනුව ක්ෂණිකව එම ස්ථානයට ගොස් බැලීමේදී ඉහලින් බිමට වැටී අනතුරට පත්ව සිටිනු දැක පසුව ඥාතීන්ට දන්වා ඔවුන් සමග අනතුරට පත්ව සිටි පුද්ගලයා  මත්පැන් සාදයට සහභාගි වූ අනෙත් පුද්ගලයාගේ නිවසට ඔසවාගෙන රැගෙන විත් තිබේ.
+
+එහෙත් මොහු කිසිදු ප්‍රතිචාරයක් නොදැක්වීම නිසා සැකසිතී 119 හදිසි ඇමතුම් අංකයට දැන්වීමෙන් පසුව පොලිස් නිලධාරීන් පැමිණ පරීක්ෂා කිරීමේ දී ඔහු මියගොස් ඇති බවට අනාවරණය වී තිබේ.
+
+ඒ අනුව හෝමාගම හදිසි මරණ පරීක්ෂිකා සාමවිනිසුරු මානෙල් ගමගේ මහත්මිය එම ස්ථානයට ගොස් ස්ථානීය පරීක්ෂණයක් සිදුකොට පශ්චාත් මරණ පරීක්ෂණය සඳහා දේහය හෝමාගම මූලික රෝහලට රැගෙන යන ලෙසට පොලිසියට නියෝග කළාය.
+
+ඊට අමතරව මෙම මරණය සිදුවූ ආකාරය තවදුරටත් විමර්ශනය කොට වාර්තා කරන ලෙසටද සාම විනිසුරු මානෙල් ගමගේ මහත්මිය පොලිසියට නියෝග කළාය.
+
+මත්පැන් පානය කිරීමෙන් අනතුරුව දෙදෙනා අතර ඇති වූ ආරවුලක් හේතුවෙන්  මොහු මිය ගියාද නැතහොත් නිදා සිටි ස්ථානයේ සිට පෙරළී ගොස් පහළට වැටී මියගියා ද යන්න පිළිබඳව මෙතෙක් අනාවරණය වී නොමැති අතර ඒ සම්බන්ධයෙන්  අංශ කිහිපයක් ඔස්සේ පොලිස් විමර්ශන ක්‍රියාත්මකය.
+
+සිද්ධිය සම්බන්ධයෙන්  හංවැල්ල පොලිසියේ පොලිස් සැරයන්  රණසිංහ නිලධාරීහු පරීක්ෂණ පවත්වති.
+
+### පෙම්වතියගේ මවගේ උපදින සතුටට දිය නාමින් සිටි පාසල් වියේ පෙම්වතා හා මිතුරිය මරුට
+
+*2024-01-14 21:37:04 - [adalk](https://www.ada.lk/breaking_news/පෙම්වතියගේ-මවගේ-උපදින-සතුටට-දිය-නාමින්-සිටි-පාසල්-වියේ-පෙම්වතා-හා-මිතුරිය-මරුට/11-407549)*
+
+උපන්දින සැම කළු ගගේ කළුතර විද්‍යාලය ඉදිරිපිට  කලපුවේ අද (14) පස්වරුවේ  දිය නැමට ගිය 15 සහ16 හැව්රිදි  පාසල් සිසුවියන් දෙදෙනෙකු සහ 17 හැව්රිදි සිසුවෙකු දියේගිලී මියගොස් ඇති බව කළුතර දකුණ පොලිසිය පවසයි .
+
+මෙසේ මියගොස් ඇත්තේ කළුතර පන්විල ප්‍රදේශයේ පදිංචිව සිටී ඉවංගී මධුහාෂිනි (15) , දොඩංගොඩ නැවිලියාවත්ත ප්‍රදේශයේ පදිංචිව සිටී කිවිදු සත්සර (17) සහ  දොඩංගොඩ රතුකුරුස නිවාස හී පදිංචිව සිටී සුභානී සුපේසලා (16) නැමැති අයවලුන් බව පොලිසිය කිය. මියගොස් ඇති සිසුවියන් දෙදෙනා මෙවර අපොස සාපෙල විභාගයට පෙනීසිටීමට නියමිතව සිටින අයවලුන් බවද පැවසේ.
+
+මියගොස් ඇති සිසුවා මියගොස් ඇති එක් සිසුවියකගේ පෙම්වතා බවත්, ඇයගේ මවගේ උපන් දිනය නිමිත්තෙන් විනෝදයට දියනාමින් සිටියදී මෙලෙස දියේගිලී ඇති බවත් සදහන් වේ.
+
+ඔවුන් පළමු කළුතර මුහුදේ දියනාමින් සිට ඇති අතර මියගොස් ඇති එක් සිසුවියකගේ ඉල්ලිම මත කළුගගේ කලපුවට දියනැමට පැමිණ ඇති බවද සදහන් වේ.
+
+සිසුවියන් දෙදෙනා පළමුව දියේගිලී ඇති බවත්, ඔවුන් දෙදෙනා බේරාගැනීමට සිසුවා උත්සාහ ගැනීමේදී ඔහුද දියේගිලී ඇති බවත් සදහන් වේ.
+
+දියනාමින් සිටි තිදෙනා දියේ ගිලී ඇති මොහොතේ උදව් ඉල්ලා කෑගැසීමේදී අවට සිටී බෝට්ටු සහ ජෙට්ස්කි කිහිපයක් අතර, ජෙට්ස්කි වලින් ගොඩගෙන 1990 සුව සැරියෙන් කළුතර නාගොඩ ශීක්ෂණ රෝහලට රැගෙන ගොස් ඇති බවත් , රෝහල් ගතකිරිමේදී මියගොස් ඇති බවත් රෝහල් ආරංචි මාර්ග සදහන් කරයි.
+
+එක් සිසුවියකගේ මවගේ උපන්දිනය අදට යෙදී ඇති බවත් , පිරිසඑහි  සතුට  සැමරීමට ගොස් සිට ඇති බවද සඳහන් වේ.
+
+මෘතදේහ පශ්චාත් මරණ පරීක්ෂණ සදහා  කළුතර නාගොඩ ශීක්ෂණ රෝහලේ තැන්පත් කර තිබේ.
+
+### බදු ඉවසාගෙන හිටියොත් රට සංවර්ධන මාවතට - IMF
+
+*2024-01-14 21:26:31 - [adalk](https://www.ada.lk/breaking_news/බදු-ඉවසාගෙන-හිටියොත්-රට-සංවර්ධන-මාවතට---IMF/11-407548)*
+
+ශ්‍රී ලංකාවේ නිල සංචාරයක නිරතව සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ ජාත්‍යන්තර මුල්‍ය අරමුදලේ ජ්‍යෙෂ්ඨ කළමනාකාර අධ්‍යක්ෂ Peter Breuer මහතා ඇතුලු නිලධාරීන් කණ්ඩායම අද (14) සවස උතුරු පලාතේ සංචාරයක නිරත විය.
+
+උතුරු පලාත් ආණ්ඩුකාර කාර්යාලයේදී පළමුව උතුරු පලාත් අණ්ඩුකාර පී.ඒස්.ඒම්. චාල්ස් මහත්මිය හමු වූ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත පිරිස උතුරු පලාතේ ජනජීවිතයේ වර්ථමාන තත්වය සහ සංවර්ධන කටයුතු පිළිබඳව කරුණු විමසා බැලීය.
+
+උතුරු පලාතේ ජීවත්වන ජනතාව ආර්ථිකමය වශයෙන් සවිබල ගැන්වීම, ප්‍රදේශයේ යටිතල පහසුකම් සංවර්ධනය, ජනතාවගේ ජීවන තත්වය නංවාලීම සඳහා ක්‍රියාත්මක කල හැකි සාධනීය යෝජනා පිළිබඳව මෙහිදී සාකච්ඡාවට ලක්විය.
+
+ඉන් අනතුරුව උතුරු පලාත් ආන්ඩුකාර කාර්යාලයේදීම ජාත්‍යන්තර මූල්‍ය අරමුදලේ නිලධාරීන් පිරිස උතුරේ ව්‍යාපාරික නියෝජිතයින්, සරසවි නියෝජිතයින් පිරිසක් මෙන්ම සාමාන්‍ය වැසියන් කිහිප දෙනෙකුද හමු වී සාකච්ඡාවක නිරත විය.
+
+මෙහිදී උතුරේ ව්‍යාපාරික ප්‍රජාව විසින් ජාත්‍යන්තර මූල්‍ය අරමුදලේ නිලධාරීන් වෙතට දැනුම් දී සිටියේ නව බදු ප්‍රතිපත්තිය හේතුවෙන් උතුරේ නැවත පදිංචි වූ ජනතාවට විවිධ අවස්ථාවන්හි ගැටලු සහගත තත්වයන්ට මුහුණ පෑමට සිදුව ඇති බවටය.
+
+ඒහිදී ජාත්‍යන්තර මුල්‍ය අරමුදලේ නිලධාරීන් විසින් පෙන්වා දී ඇත්තේ උතුරේ වැසියන්ට මෙන්ම ශ්‍රීලංකා වාසීන්ට නව බදුප්‍රතිපත්තිය හේතුවෙන් අපහසුතාවන්ට මුහුණ පෑමට සිදුව ඇත්තේ අතීත අවධිමත්වූ බදුප්‍රතිපත්ති හේතුවෙන් බවටත් නව බදු ප්‍රතිපත්තිය යම් කාලයක් ඉවසාගෙන සිටින්නේ නම් රටේ සංවර්ධනය කරා ගමන් කිරීමට හැකියාවක් ඇති බවටය.
+
+ඒමෙන්ම මේ වන විටත් ශ්‍රීලංකාව ඒවැනි වූ ධනාත්මක රටාවකට ගමන් කරමින් සිටින බැවින් යම් කාලයක් ඊට ගතවන බවට ජාත්‍යන්තර මුල්‍ය අරමුදලේ නිලධාරීන් වැඩිදුරටත් පැවසීය.
+
+### රට ජයග්‍රහණයේ මාවතට පිවිසෙලා
+
+*2024-01-14 21:20:52 - [adalk](https://www.ada.lk/breaking_news/රට-ජයග්‍රහණයේ-මාවතට-පිවිසෙලා/11-407547)*
+
+සශ්‍රිකත්වය සහ කෘතගුණ දැක්වීම සංකේතවත් කරන තෛපොංගල් උත්සවය සරු අස්වැන්නක් පමණක් නොව නව ආරම්භයක් පිළිබඳව ද අපේක්ෂා පෙරදැරි කරගත් සැමරුමක් බව ජනපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
+
+තෛපොංගල් දින සැමරුම පිළිබඳ සුබ පැතුම් පණිවිඩයක් නිකුත් කරමින් ඔහු පවසන්නේ වසර දෙකක් පුරා සිදු කළ අසීමිත කැපවීම් හමුවේ රට ජයග්‍රහණයේ මාවතට අවතීරණ වෙමින් තිබෙන අවස්ථා උත්සවය ඇරඹුණු බවයි.
+
+අස්‌වනු සරිකර ගැනීමට ඇප උපකාර කළ සියලු දෙනා වෙත එක හා සමාන මෙත් සිතින් තුති පිදීම මෙම උත්සවයේ අරමුණයි.
+
+බිඳ වැටුණු ශ්‍රී ලංකා ආර්ථිකය නැවත නගා සිටුවමින් සශ්‍රීක රටක් ගොඩනැගීමේ දී අප කෘෂිකර්මාන්තය කෙරෙහි දැඩි විශ්වාසයක් තබා ඇත්තෙමු.
+
+කෘෂි නවීකරණ වැඩපිළිවෙළ සමඟ රට පුරා කෘෂිකර්මාන්තයේ නව පරිවර්තනයක් වෙනුවෙන් අවශ්‍ය සැලසුම් දැනටමත් රජය ක්‍රියාවට නංවා තිබෙන අතර එම කටයුතු සාර්ථක කර ගැනීමට මෙවර තෛපොංගල් සැමරුම ආශිර්වාදයක් වේවායි ප්‍රාර්ථනා කරමි.
+
+එහෙයින් හෙට දවසේ රට වෙනුවෙන් වූ අලුත් බලාපොරොත්තු සඵල කර ගැනීමට එක මවකගේ දරුවන් මෙන් අධිෂ්ඨානයෙන් පෙරට එන ලෙස සියලු දෙනාගෙන් ඉල්ලා සිටිමින් සියලුම ද්‍රවිඩ ජනතාවට සෞභාග්‍යවත් හා ප්‍රීතිමත් තෛපොංගල් සැමරුමකට ශුභාශිංසන එක් කරමි.
+
+### Three teens drown while bathing in Kalutara lagoon
+
+*2024-01-14 20:08:00 - [adaderanalk](https://www.adaderana.lk/news/96403/three-teens-drown-while-bathing-in-kalutara-lagoon)*
+
+Three teenagers, two girls and a boy, have reportedly drowned while bathing in the lagoon in Kalutara this evening (Jan.14).
+
+The deceased students named Ivangi Madubhashini (15), Subhani Supeshala (16) and Kivindu Sathsara (17) have been identified as residents of Panwila, Dodangoda and Neviliyawatte areas in Kalutara respectively, the police said.
+
+Police also mentioned that the two girls were expecting to sit for the upcoming G.C.E. Ordinary Level examination.
+
+The trio had been bathing in the sea area off Kalutara beach, before going to bathe in lagoon at the suggestion of one of the two girls.
+
+The people who were in the vicinity at the time had rescued three teens from water currents with the help of several jet skies and rushed them to Nagoda Teaching Hospital, where they were pronounced dead upon admission.
+
+The bodies of three victims are placed at the Nagoda Teaching Hospital and the post-mortem examinations are yet to be carried out, Ada Derana reporter said.
+
+### Drowning Tragedy: Three children drown in Kalutara
+
+*2024-01-14 19:58:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/14/drowning-tragedy-three-children-drown-in-kalutara/)*
+
+COLOMBO (News 1st) – Two girls and a boy have tragically drowned in the Kalutara River lagoon this evening.
+
+News 1st correspondent reports that the incident happened when the group of three went for a swim in the river.
+
+The victims, aged 16, 17, and 18, resided in Dodangoda, Payagala, and Kalutara.
+
+The bodies of the deceased are currently at the Nagoda Hospital.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### Denmark’s King Frederik X takes the throne as his mother steps down
+
+*2024-01-14 19:12:00 - [adaderanalk](https://www.adaderana.lk/news/96402/denmarks-king-frederik-x-takes-the-throne-as-his-mother-steps-down)*
+
+Denmark’s King Frederik X ascended the throne on Sunday, succeeding his mother, Queen Margrethe II, who formally abdicated after 52 years as monarch, with big crowds gathered in the capital to witness history.
+
+Margrethe, 83, stunned the nation on New Year’s Eve when she announced she planned to become the first Danish monarch in nearly 900 years to voluntarily relinquish the throne.
+
+The succession was formalized the moment Margrethe signed the declaration of her abdication during a meeting of the Council of State at parliament, the royal palace said. Denmark, one of the oldest monarchies in the world, does not have a coronation.
+
+The meeting was attended by government representatives, Margrethe, Frederik, 55, his Australian-born wife Mary, 51, who is now queen, and their oldest son Christian, 18, who is the new heir to the throne.
+
+About an hour after the signing, Prime Minister Mette Frederiksen was due to proclaim the new king on the balcony of the parliament and Frederik will give a short speech.
+
+In close to freezing temperatures, tens of thousands of people from all over Denmark converged on the capital to witness events, in a sign of the huge popularity the monarchy is enjoying in the nation of nearly six million.
+
+“We have come here today because this is history being made in front of our eyes. We just had to be here,” said Soren Kristian Bisgaard, 30, a pilot.
+
+He was drinking champagne with three friends, sitting in camping chairs in front of parliament.
+
+“I’m very fond of the royal family. I have been in the Royal Life Guards myself, standing guard at the royal palace. I’m very proud to have done that and also to be here today,” he said.
+
+Later in the afternoon, the new king and queen were due to ride by horse carriage back to their residence, Amalienborg, a royal complex built in the 1750s and located in central Copenhagen.
+
+The couple will continue to reside with Margrethe, who will retain her title as queen, in Amalienborg albeit in their respective palaces in the octagonal complex.
+
+Margrethe, who in the past had said she would remain on the throne for life, did not give an exact reason for her decision to step down but said that a major back surgery she underwent in February last year had made her consider her future.
+
+“It could be that she thinks Prince Frederik is prepared to take over now,” said Lars Hovbakke Sorensen, a historian and associate professor at University College Absalon in Denmark.
+
+“He’s 55, and maybe the queen wanted to avoid a situation where you would have a very, very old king, as you saw with Prince Charles.” The British king was 73 when he ascended the throne after his mother Queen Elizabeth died in September 2022 aged 96.
+
+The new king and queen take the throne at a time of huge public support and enthusiasm for the monarchy. The most recent survey done after Margrethe announced she would abdicate indicated that 82% of Danes expect Frederik to do well or very well in his new role, while 86% said the same about Mary.
+
+### Operation Yukthiya nabs 771 more suspects within 24 hours
+
+*2024-01-14 19:11:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/14/operation-yukthiya-nabs-771-more-suspects-within-24-hours/)*
+
+771 suspects were arrested in the 24 hours ending at 12:30 AM today during Operation Yukthiya.
+
+The Ministry of Public Security reported that these arrests included 23 individuals for whom detention orders have been issued.
+
+The operation also apprehended 26 suspects listed by the Police Narcotics and Special Bureau.
+
+Over 27 kg of cannabis were also recovered during the operation.
+
+The Acting IGP emphasized intensive deployment of all crime branch officers 24/7 for the next month, covering all police divisions under Operation Yukthiya.
+
+Meanwhile, the National Police Commission issued a statement outlining corrective measures for the Acting IGP regarding Operation Yukthiya.
+
+These measures emphasize the necessity for all officers to operate strictly within the existing legal framework, respecting the principles of the constitution, particularly regarding the protection of basic human rights.
+
+The Acting IGP is instructed to clearly communicate these requirements to all participating officers and promptly report back to the Commission regarding the implementation of these directives.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### Navy arrest 02 suspects with 10,600 Pregabalin capsules in Talaimannar
+
+*2024-01-14 19:09:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/14/navy-arrest-02-suspects-with-10-600-pregabalin-capsules-in-talaimannar/)*
+
+COLOMBO (News 1st) The Sri Lanka Navy and Police STF apprehended 02 suspects with 10,600 Pregabalin capsules and a motorcycle, during special search operations conducted in Mihinthale and Kattukarayankudirippu of Talaimannar.
+
+The suspect was peddling these medicinal drugs on a motorcycle when he was searched on suspicion.
+
+In a separate operation mounted by SLNS Talaimannar with the assistance of the Police STF Northern Province Special Raid Unit in Kattukarayankudirippu, a person was interrogated on suspicion Based on information revealed by the suspect.
+
+Naval and Police personnel discovered a sack of 10,500 Pregabalin capsules hidden away.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### Police arrest over 95 suspects in 24-hour vehicle sweep
+
+*2024-01-14 19:06:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/14/police-arrest-over-95-suspects-in-24-hour-vehicle-sweep/)*
+
+COLOMBO (News 1st) 96 suspects have been arrested so far in the island wide vehicle sweep using roadblocks conducted by the police within 24 hours.
+
+The arrests were made under the charges of drunk driving, driving without driver's license, transportation of duty-free cigarettes, drug and alcohol transportation and vehicle theft.
+
+5,796 vehicles and 15,215 people have been inspected in this operation.
+
+Police said that 21 motorcycles, 12 three-wheelers and six other vehicles were taken into custody during those operations.
+
+Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+### இரு இளைஞர்களின் சடலங்கள் கால்வாயில் கண்டுபிடிப்பு
 
 *2024-01-14 18:51:10 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/இரு-இளைஞர்களின்-சடலங்கள்-கால்வாயில்-கண்டுபிடிப்பு/175-331501)*
 
@@ -115,7 +1122,7 @@
 
 கிளிநொச்சி நீதவானின் பரிசோதனையின் பின்னர் சடலங்கள் மேலதிக விசாரணைகளுக்காக கிளிநொச்சி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளன.
 
-## அதிகாரிகளை சாடுகிறார் கர்தினால்
+### அதிகாரிகளை சாடுகிறார் கர்தினால்
 
 *2024-01-14 18:35:13 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/அதிகாரிகளை-சாடுகிறார்-கர்தினால்/175-331500)*
 
@@ -129,7 +1136,27 @@
 
 “2024 தேர்தல் ஆண்டு என்பதை நாங்கள் புரிந்துகொள்கிறோம். மக்கள் இந்த முறை சரியான தலைவர்களிடம் தேசத்தை ஒப்படைப்பார்கள் என்று நம்புவோம், பிரார்த்தனை செய்வோம், ”என்று அவர் மேலும் கூறினார்
 
-## யாருக்காக நல்லிணக்கச் செயலகம்?
+### Teacher in Ampara arrested over leak of 2023 A/L exam’s Agri Science paper
+
+*2024-01-14 18:33:00 - [adaderanalk](https://www.adaderana.lk/news/96401/teacher-in-ampara-arrested-over-leak-of-2023-al-exams-agri-science-paper)*
+
+The Criminal Investigation Department (CID) has arrested the A/L Agricultural Science teacher of a popular government school in Ampara in relation to the incident of several questions of the 2023 G.C.E Advanced Level examination’s Agricultural Science I & II question papers allegedly being leaked prior to the exam.
+
+The 52-year-old suspected male teacher reportedly also conducts tuition classes for A/L students, the Police Media Spokesman SSP Nihal Thalduwa said.
+
+The police have also found the 2023 G.C.E Advanced Level examination’s Agricultural Science I & II question papers written in his own handwriting at his house.
+
+Police further revealed that the arrested suspect has released the Agricultural Science I question paper on January 08 and the Agricultural Science II question paper on January 10, 2024.
+
+However, the Ampara Magistrate’s Court has ordered to remand the suspect in custody until 26 January 2024, after he was produced before the courts.
+
+On Friday (Jan. 12), the Department of Examinations decided to cancel the 2023 G.C.E. Advanced Level examination’s Agricultural Science I & II question papers, due to reports that several questions of the paper had been leaked prior to the exam.
+
+Accordingly, the relevant test paper, which students sat for on 10 January, had been deemed invalid by the Department of Examinations on account of numerous questions included in the paper having been leaked before the exam date.
+
+The Department of Examinations announced that the date for the rescheduled paper would be notified later.
+
+### யாருக்காக நல்லிணக்கச் செயலகம்?
 
 *2024-01-14 18:12:00 - [virakesarilk](https://www.virakesari.lk/article/173954)*
 
@@ -141,7 +1168,69 @@
 
 அதற்கு, அவ­ருக்கு பக்­க­ப­ல­மாக இருந்­த­வர்கள்  லக் ஷ்மன் கதிர்­கா­மரும், மங்­கள சம­ர­வீ­ரவும். இவர்கள் விடு­தலைப் புலி­க­ளிடம் இருந்து தமிழ் மக்­களை பிரித்­தெ­டுத்து அந்­நி­யப்­ப­டுத்­து­வ­தற்­காக நல்­லி­ணக்க முயற்­சி­களை முன்­னெ­டுத்­தனர்.
 
-## 13இன் அதி­காரம் போதுமா?
+### CINEC Campus wins Presidential Award for Best Education Services Exporter 2022/23
+
+*2024-01-14 18:11:00 - [islandlk](http://island.lk/cinec-campus-wins-presidential-award-for-best-education-services-exporter-2022-23/)*
+
+CINEC affirmed another milestone in outstanding performance and academic excellence with the receipt of the ‘Presidential Export Award in the category of Education Services for two consecutive Years 2021 / 2022 & 2022/2023’. The covetous award was received by Capt. Ajith Peiris, President of CINEC at the awarding ceremony held at the Bandaranaike Memorial International Conference Hall (BMICH) under the patronage of President Ranil Wickramasinghe. Bestowed with the national recognition for exporters particularly in the service sector, CINEC is now privileged to use the “Award Logo” as a marketing tool for a 3 year period, thus intends to further and promote its contribution to the education sector in exploring the global market.
+
+Established in 1990, maintaining a proven track record of achievement, CINEC has now grown from strength to strength. As the leading and most diversified non-state higher educational training institute, it is now equipped with five fully-fledged faculties to offer internationally recognized certificate courses, diplomas, degrees as well as postgraduate degrees from Maritime to Engineering, Management, Logistics, IT, Aviation, Health, Education and Languages and Hotel and Tourism Management.
+
+Hayleys Solar surpasses 150MWp as Sri Lanka’s premier rooftop solar provider
+
+CINEC Campus wins Presidential Award for the Best Education Services Exporter 2022/23
+
+CINEC Campus Metro Branch launches four new UK degree programmes
+
+CINEC Campus recognized for successful commercialization efforts in university research
+
+CINEC Campus awarded for successful commercialisation efforts of university research
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### Soap and Allied Industries marks 25 years of success
+
+*2024-01-14 18:11:00 - [islandlk](http://island.lk/soap-and-allied-industries-marks-25-years-of-success/)*
+
+Soap and Allied Industries (SAIL), a leading entity under Colombo Machinery and Equipment Limited (CMEL), celebrated its 25th anniversary at Shangri-La Colombo.The event included esteemed partners like Nestlé, Hemas, Unilever, and Coca-Cola. Employees were honored with Silver Coins and Dubai tour packages.
+
+SAIL unveiled a new logo symbolizing its journey and inaugurated the Flavour and Fragrance Experience Centre with Argeville of France. Rizky Deen, Director at SAIL, expressed, “SAIL’s 25th anniversary is a testament to our resilience, adaptability, and commitment to excellence. We express our heartfelt gratitude to our customers, partners, and employees who have been integral to our success. The new logo reflects our journey and sets the stage for many more years of excellence in every endeavor.”
+
+Founded in 1998 with three employees and a modest capital, SAIL embarked on its journey in a 500-square-foot rented space. Evolving over the years, it became a leading importer and supplier of chemicals, shaping Sri Lanka’s manufacturing landscape.
+
+SAIL’s comprehensive range of products includes essential ingredients like caustic soda, soap noodles, dyes, pigments, and fragrances required to food and beverage, confectionery, soap and detergent, cosmetics, textiles, rubber, and plastic industries as well as water treatment facilities.
+
+CINEC Campus wins Presidential Award for Best Education Services Exporter 2022/23
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### BOC U.K. embarks on digital transformation initiative
+
+*2024-01-14 18:10:00 - [islandlk](http://island.lk/boc-u-k-embarks-on-digital-transformation-initiative/)*
+
+Bank of Ceylon (UK) Ltd (BOC UK), the only financial institution with a Sri Lankan heritage in the United Kingdom, celebrating its 75th anniversary next year has partnered with IFINITY GLOBAL to embark on a significant digital transformation initiative. This innovative collaboration aims to redefine banking experiences and strengthen BOC UK’s presence in the UK by transforming its traditional banking environment into a digital banking ecosystem revolutionising the way it would do banking in the future.
+
+BOC UK was established in 1949 as the first overseas branch of the Bank of Ceylon and then in 2010 became a wholly-owned subsidiary bank authorised and regulated by the Prudential Regulatory Authority (PRA) and the Financial Conduct Authority (FCA) has launched its ambitious plans to capitalise on its presence in London, the second-largest fintech hub in the world, and Europe’s fintech epicentre. The digital transformation roadmap objectives will ultimately transform the bank into a digital bank with an open banking architecture.
+
+Last year, the bank facilitated over GBP 10 million in inward remittances to Sri Lanka, channeling much-needed foreign currency via its remittance services. During the recent economic turmoil, the bank continued to support trade transactions by adding confirmation to LCs issued by most of the Sri Lankan banks to help the Sri Lankan economy. Further, BOC UK was able to channel more than USD 60 million as bilateral funding swap arrangements. The bank has also helped a few Sri Lankan businesses and entrepreneurs to expand their business into the UK and European markets by helping to set up business and banking services.
+
+David Pieris brings more than 1,600 employees together to mark DPMC’s 30-year journey
+
+Hayleys Solar surpasses 150MWp as Sri Lanka’s premier rooftop solar provider
+
+BOC ends Q2-2023 on positive note, ‘ensuring its presence in SL’s development agenda’
+
+Bank of Ceylon hosts Wesak Bathi Gee in celebration of Wesak Poya Day
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### 13இன் அதி­காரம் போதுமா?
 
 *2024-01-14 18:10:00 - [virakesarilk](https://www.virakesari.lk/article/173955)*
 
@@ -153,7 +1242,27 @@
 
 13 என்ற பொறிக்குள் தமி­ழரைச் சிக்­க­வைத்து. அபி­வி­ருத்தி மாயைக்குள் மூழ்கச் செய்து, அர­சியல் தீர்வு விட­யத்தை இல்­லாமல் ஆக்க முற்­ப­டு­கிறார்.
 
-## நல்லூரை விடப் பெரிய ஆலயம் தேவையா?
+### Hayleys Solar surpasses 150MWp as Sri Lanka’s premier rooftop solar provider
+
+*2024-01-14 18:10:00 - [islandlk](http://island.lk/hayleys-solar-surpasses-150mwp-as-sri-lankas-premier-rooftop-solar-provider/)*
+
+Hayleys Solar, the renewable energy arm of Hayleys Fentons recently surpassed 150MWp of installations, a national record for rooftop solar PV capacity in Sri Lanka, setting a new milestone in the island’s transition to renewable energy.
+
+By March 2023, Hayleys Solar crossed its milestone of 125MW and has continued to add new rooftop solar capacity to its portfolio, in various locations across the country. Its 150MWp of solar capacity is enabling Hayleys Solar to save close to 151,835 tons of carbon dioxide (CO2) emissions released to the air every year.
+
+Expressing his views, Hasith Prematillake, the Managing Director of Hayleys Fentons stated: “This achievement is the largest to be installed across the island by any single entity and supports us to empower the community making solar solutions closer to all via accessibility and affordability. We are grateful for the trust and support our customers have placed in us.”
+
+Hayleys Solar continues to establish solar experience centres island-wide, adding to its portfolio of experience centres in Matara and Jaffna with new launches in Nawala, Katunayake, Kurunegala and Kandy soon, This will make it easier for people from different communities to access and learn about solar solutions.
+
+These centres offer a comprehensive range of applications, including rooftop PV systems, batteries, and inverters, alongside live demonstrations of Solar-powered Water Pumps, Lighting systems and Solar Powered Hot Water Systems. With high electricity tariffs, Hayleys Solar offers easy payment plans and loan facilities to support affordability for households and businesses to transition to solar.
+
+CINEC Campus wins Presidential Award for Best Education Services Exporter 2022/23
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### நல்லூரை விடப் பெரிய ஆலயம் தேவையா?
 
 *2024-01-14 18:09:00 - [virakesarilk](https://www.virakesari.lk/article/173957)*
 
@@ -163,7 +1272,25 @@
 
 அது­போல ஆல­யத்­துக்கு என சில சம்­பி­ர­தாய மர­புகள் உள்­ளன. ஆண்கள் மேலங்­கி­யுடன் ஆல­யத்­துக்குள் செல்ல முடி­யாது. இந்­திய பிர­தமர் நரேந்திர மோடி இலங்கை வந்திருந்த போது, நல்லூர் கந்தன் ஆலயத்திற்கு செல்ல திட்டமிட்டிருந்தார்.
 
-## ஹூத்தி கிளர்ச்சியாளர்கள், செங்கடல் மற்றும் இலங்கை அரசியல்
+### HNB enters Distributor Finance Agreement with the CBL Group
+
+*2024-01-14 18:09:00 - [islandlk](http://island.lk/hnb-enters-distributor-finance-agreement-with-the-cbl-group/)*
+
+HNB PLC, has inked a momentous Distributor Finance Agreement with Ceylon Biscuits Limited (CBL) Group, reinforcing its commitment to fostering economic growth and providing tailored financial solutions to businesses in Sri Lanka.
+
+Under this strategic partnership, HNB PLC has extended its Distributor Financing Scheme to encompass Ceylon Biscuits Limited CBL Foods International (Pvt.) Limited and CBL Exports (Pvt.) Limited. These entities, operating within the confectionery cluster of CBL Group, are internationally renowned for manufacturing and distributing a diverse array of products, including biscuits, wafers, cakes, and chocolates.
+
+Commenting on the collaboration, HNB Deputy General Manager, SME & Micro Finance, Rajive Dissanayake said: “Strengthening our financial partnership with CBL Group through the Distributor Finance Agreement is a testament to our commitment to supporting and empowering businesses in Sri Lanka. This strategic partnership reflects our dedication to providing tailored financial solutions, fostering economic growth, and contributing to the overall prosperity of the communities we serve.
+
+SLPA to establish new terminal services agreements with shipping lines
+
+HNB collaborates with the leading online educational payment portal – MyFees.lk
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### ஹூத்தி கிளர்ச்சியாளர்கள், செங்கடல் மற்றும் இலங்கை அரசியல்
 
 *2024-01-14 18:05:00 - [virakesarilk](https://www.virakesari.lk/article/173960)*
 
@@ -235,7 +1362,7 @@
 
 இங்கே வெளிப்படுத்தப்பட்ட கருத்துக்கள் ஆசிரியரின் சொந்தக் கருத்துக்கள் என்பதுடன் நிறுவனத்தின் பிரதிபலிப்புக்களாக இருக்க வேண்டிய அவசியமில்லை.
 
-## இலங்கையில் காலநிலை மாற்ற இராஜதந்திரம்
+### இலங்கையில் காலநிலை மாற்ற இராஜதந்திரம்
 
 *2024-01-14 18:03:00 - [virakesarilk](https://www.virakesari.lk/article/173959)*
 
@@ -297,7 +1424,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 இங்கே வெளிப்படுத்தப்பட்ட கருத்துக்கள் ஆசிரியரின் சொந்தக் கருத்துக்கள் என்பதுடன் நிறுவனத்தின் பிரதிபலிப்புக்களாக இருக்க வேண்டிய அவசியமில்லை.
 
-## புத்தாண்டுக்கு முன் ரணில் விக்கிரமசிங்கவை பொதுவேட்பாளராக அறிவிப்போம் - ஐக்கிய தேசியக் கட்சி
+### புத்தாண்டுக்கு முன் ரணில் விக்கிரமசிங்கவை பொதுவேட்பாளராக அறிவிப்போம் - ஐக்கிய தேசியக் கட்சி
 
 *2024-01-14 17:58:00 - [virakesarilk](https://www.virakesari.lk/article/173964)*
 
@@ -313,7 +1440,67 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 சித்திரை புத்தாண்டுக்கு முன்னர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பொது வேட்பாளராக அறிவிப்போம்.ஐக்கிய மக்கள் சக்தியின் பெரும்பாலானவர்கள் ஜனாதிபதியுடன் ஒன்றிணைவார்கள்.ஜனாதிபதியின் பொருளாதார கொள்கைகளை ஐக்கிய மக்கள் சக்தியினர் ஏற்றுக்கொண்டுள்ளார்கள்.குறுகிய அரசியல் நோக்கங்களுக்காக அதனை பகிரங்கமாக குறிப்பிட மறுக்கிறார்கள் என்றார்.
 
-## ஆடை மாற்றுவதை வீடியோ  எடுத்த ஊழியர் கைது
+### New Indian High Commissioner Santosh Jha meets former President
+
+*2024-01-14 17:51:00 - [adaderanalk](https://www.adaderana.lk/news/96400/new-indian-high-commissioner-santosh-jha-meets-former-president)*
+
+Newly-appointed Indian High Commissioner Santosh Jha on Saturday met Sri Lanka’s former president Mahinda Rajapaksa and discussed New Delhi’s consistent support to Colombo over the last several decades.
+
+“High Commissioner @santjha met former President @PresRajapaksa and discussed Sri Lanka’s age-old relationship with India, as well as India’s consistent support to Sri Lanka over last several decades as a close friend and neighbour,” the Indian High Commission said in a post on X.
+
+Jha assumed charge as the High Commissioner of India to Sri Lanka in December 2023.
+
+A senior Indian diplomat, Jha was India’s Ambassador to the European Union, Belgium and Luxembourg before taking up his assignment in Colombo.
+
+Jha had also served in Colombo from 2007-2010 as Counsellor at the High Commission, handling work related to commercial and economic matters.
+
+Recalling his previous stint in Sri Lanka, Jha said that he considers it a great privilege to be in Colombo once again to work for further strengthening bilateral friendship and cooperation.
+
+Rajapaksa and his family were ousted from power during anti-government protests in the island nation following an economic crisis in 2022.
+
+### Mahanayaka Theros call for necessary legal provisions to prevent distortion of Buddhist teachings
+
+*2024-01-14 16:47:00 - [adaderanalk](https://www.adaderana.lk/news/96399/mahanayaka-theros-call-for-necessary-legal-provisions-to-prevent-distortion-of-buddhist-teachings-)*
+
+The Chief Prelates (Mahanayaka Theros) of all three Buddhist Chapters in Sri Lanka have called on President Ranil Wickremesinghe to implement the law against the organized groups of people who they claim are spreading false ideologies regarding Buddhism and are harming the Buddhist philosophy and its cultural values.
+
+In a joint letter addressed to the Head of State, the chief prelates highlight that it has become evident that the behaviour of such individuals who are trying to destroy Buddhism can no longer be considered as mere incidents.
+
+Thereby, the Mahanayaka Theros have pointed out that instead of trying to isolate and find solutions to such events, which are carried out in order to corrupt the noble interpretation of the religion, it is time to prepare the necessary legal provisions to prevent such ‘Dharma distortions’ and ‘Sasana distortions’ from repeatedly occurring in the society.
+
+Furthermore, the Mahanayaka Theros have emphasized the urgent need to prepare necessary legal provisions to implement the law against such individuals who are trying to create social disturbances by misleading the Buddhist community by promoting such statements on social media and to regulate the promotion of such statements.
+
+Accordingly, the Mahanayaka Theros have sought prompt attention of the President who is ‘committed to promoting and fostering the safety of Buddhasasana’ regarding the matter.
+
+01. Distortion of Buddhist Teachings - President New by Kaveesha Jayasundara on Scribd
+
+### අවලංගු කළ උසස් පෙළ කෘෂි විද්‍යාව දෙවන ප්‍රශ්න පත්‍රය පෙබ.01 දා
+
+*2024-01-14 15:53:09 - [adalk](https://www.ada.lk/breaking_news/අවලංගු-කළ-උසස්-පෙළ-කෘෂි-විද්‍යාව-දෙවන-ප්‍රශ්න-පත්‍රය-පෙබ-01-දා/11-407546)*
+
+මෙවර අ.පො.ස.උසස් පෙළ විභාගයේ අවලංගු කරන ලද  කෘෂි  විද්‍යාව දෙවන  ප්‍රශ්න පත්‍රය වෙනුවට යළි  නව ප්‍රශ්න පත්‍රයක් ලබාදීමේ විශේෂ විභාගය පෙබරවාරි පළමුවනදා( 1)පැවැත්වීමට ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
+
+මේ අනුව ජනවාරි 31 දිනට අවසන් වීමට නියමිතව තිබූ 2023(2024) උසස් පෙළ විභාගය පෙබරවාරි 01 දායින් අවසන්වන අතර සියලු  විභාග මධ්‍යස්තාන එදිනද සාමාන්‍ය පරිදි පැවත්වෙන බව විභාග දෙපාර්තමේන්තුව පවසයි.
+
+යළි මෙම  කෘෂි  විද්‍යාව දෙවන   ප්‍රශ්න පත්‍රයට පෙනී සිටින  පුද්ගලික අයදුම්කරුවන්ට සිය පුද්ගලික ලිපිනයට හා  පාසල් අයදුම්කරුවන්ට ඔවුන්ගේ  පාසලේ විදුහල්පති වෙතද විභාග ප්‍රවේශ පත්‍රය   එවන බව විභාග දෙපාර්තමේන්තුව මීට පෙර නිවේදනය කර තිබිණි.
+
+ඉකුත් 10 දා සවස  පැවත්වූ මෙම කෘෂි විද්‍යාව දෙවන ප්‍රශ්න පත්‍රය විභාගයට පෙර විවිධ සමාජ මාධ්‍ය ජාලවල සංසරණය වී ඇතැයි අනාවරණය වූ නිසා අවලංගු කළ බව විභාග දෙපාර්තමේන්තුව නිවේදනය කළේය.
+
+මෙම ප්‍රශ්න පත්‍රය පිටවීම සම්බන්ධයෙන් මේ වනවිට අධ්‍යාපන අමාත්‍යාංශය සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශන සිදුකරන බව විභාග දෙපාර්තමේන්තු ආරංචි මාර්ග සඳහන් කරයි.
+
+### මත්ද්‍රව්‍ය ජාවාරම්කාරියගේ නිවසේ මත්කුඩි බීපු බන්ධනාගාර නියාමකවරුන් අල්ලයි
+
+*2024-01-14 15:43:53 - [adalk](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ජාවාරම්කාරියගේ-නිවසේ-මත්කුඩි-බීපු-බන්ධනාගාර-නියාමකවරුන්-අල්ලයි/11-407545)*
+
+අම්පිටිය ගාල්තැන්න මාර්ගයේ දළුක්ගොල්ල ප්‍රදේශයේ ප්‍රසිද්ධ මත්ද්‍රව්‍ය ජාවාරම් කාරණියකගේ නිවසක මත්කුඩු උරමින් සිටි පල්ලෙකැලේ දුම්බර බන්ධනාගාරයේ රාජකාරියේ නියුතු බන්ධනාගාර නියාමකවරුන් දෙදෙනෙකු මහනුවර මූලස්ථාන පොලිසියේ අපරාධ අංශය මගින් අත්අඩංගුවට ගෙන තිබේ .
+
+අම්පිටිය ගල්තැන්න මාර්ගයේ දළුගොල්ල ප්‍රදේශයේ නිවසක කාන්තාවක මත්ද්‍රව්‍ය අලෙවි කරන බවට ලද තොරතුරකට අනුව මහනුවර මූලස්ථාන පොලිසියේ නිලධාරීන් පිරිසක් එම නිවස වටලන විට එම බන්ධනාගාර නියාමකවරුන් දෙදෙනා මත්ද්‍රව්‍ය භාවිතා කරමින් සිට ඇති අතර එම දෙදෙනා අත්අඩංගුවට ගෙන මහනුවර ජාතික රෝහලේ අධිකරණ වෛද්‍ය කාර්යාලයට ඉදිරිපත් කොට රුධිර පරීක්ෂාවක් සිදු කිරීමේදී ඔවුන්ගේ ශරීරයේ අයිස් මද්‍රව්‍ය ඇති බවට තහවුරු වී තිබේ .
+
+එම බන්ධනාගාර නියාමකවරුන් දෙදෙනා අධිකරණයෙන් ලබාගත් රඳවා ගැනීමේ නියෝග මත රඳවාගෙන ප්‍රශ්න කරන අතර පල්ලෙකැලේ දුම්බර බන්ධනාගාරය තුළ සිදුවෙන මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් ඔවුන්ගෙන් දිගින් දිගටම ප්‍රශ්න කරන බව ඉහළ පොලිස් නිලධාරියෙකු පැවසීය .
+
+මහනුවර පොලිස් මූලස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක රසික සම්පත් මහතාගේ උපදෙස් පරිදි අපරාධ අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක නලින් ඉන්දික සහ පොලිස් පරීක්ෂක ශාලිත යන මහත්වරුන් ඇතුළු පොලිස් කණ්ඩායමක් වැඩිදුර විමර්ශන සිදු කරයි .
+
+### ஆடை மாற்றுவதை வீடியோ  எடுத்த ஊழியர் கைது
 
 *2024-01-14 15:38:23 - [tamilmirrorlk](https://www.tamilmirror.lk/மலையகம்/ஆடை-மாற்றுவதை-வீடியோ-எடுத்த-ஊழியர்-கைது/76-331489)*
 
@@ -331,7 +1518,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 அதை பத்திரமாக வைத்து, சந்தேகநபர் கையடக்கத் தொலைபேசியின் காணொளிப் பதிவைஎவ்வாறு இயக்கி குறிப்பிட்ட இடத்தில் வைத்துள்ளார் என்பது குறித்து விசாரணையில் தெரியவந்துள்ளது. அத்துடன், காணொளி நாடாக்களில் ஆடைகளை மாற்றும் வீடியோக்கள் காணப்படுவதாகவும் பொலிஸார் குறிப்பிட்டுள்ளார். சந்தேகநபர் சனிக்கிழமை (13) நீதிமன்றில் முன்னிலைப்படுத்தப்படவிருந்தார்
 
-## தெற்­கா­சி­யாவில் தீவி­ர­ம­டையும் பனிப்போர்
+### தெற்­கா­சி­யாவில் தீவி­ர­ம­டையும் பனிப்போர்
 
 *2024-01-14 15:36:00 - [virakesarilk](https://www.virakesari.lk/article/173943)*
 
@@ -341,7 +1528,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 இலட்­சத்­தீ­வுக்கு சுற்­றுலா பய­ணி­களை ஈர்க்­கின்ற முயற்­சி­களை இந்­திய அர­சாங்கம் எடுக்­கின்ற போதும், அங்கு செல்­வ­தற்­கான வச­திகள் குறை­வாக இருப்­பதால், உட­ன­டி­யாக இந்­திய சுற்­றுலா பய­ணிகள் இலங்­கையை நோக்கி திரும்பக் கூடும்.
 
-## தொடரும் 'இந்­திய' ஏமாற்றுப் படலம்
+### தொடரும் 'இந்­திய' ஏமாற்றுப் படலம்
 
 *2024-01-14 15:34:00 - [virakesarilk](https://www.virakesari.lk/article/173939)*
 
@@ -349,7 +1536,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ஆக, பிராந்தியத் தலைமையை ஏற்றிருக்கும் இந்தியா, எதிர்காலத்தில் தனது இறைமையை நிலைநிறுத்துவதற்கும், இலங்கை வாழ் தமிழர்களுக்குமாக கொள்கை ரீதியான மாற்றத்தை விரும்பியோ விரும்பாமலோ மேற்கொள்ள வேண்டியது காலத்தின் கட்டாயமாகிறது.
 
-## பணத்துடன் பாய முயன்றவர் கைது
+### பணத்துடன் பாய முயன்றவர் கைது
 
 *2024-01-14 15:28:53 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பணத்துடன்-பாய-முயன்றவர்-கைது/175-331487)*
 
@@ -361,7 +1548,17 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 பாதிக்கப்பட்ட பெண், தியத்தலாவை பொலிஸில் முறைப்பாடு செய்ததன் பின்னர் விரைந்து செயற்பட்ட பொலிஸார், அந்த பஸ்ஸை ஹல்துமுல்ல பிரதேசத்தில் வைத்து மடக்கிப்பிடித்து, சந்தேகநபரை கைது செய்துள்ளனர்.
 
-## உலக்கையால் தாக்கியதில் உலகை விட்டு பிரிந்தார்
+### කන්දකාඩුවෙන් පැන්න තවත් 11ක් සොයයි
+
+*2024-01-14 15:26:47 - [adalk](https://www.ada.lk/breaking_news/කන්දකාඩුවෙන්-පැන්න-තවත්-11ක්-සොයයි/11-407544)*
+
+පොළොන්නරුවවැලිකන්ද  කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ පුනරුත්ථාපනය ලබමින් සිටියදී රැඳවියන් අතර  (12)  සවස් වරුවේදී ඇති වූ බහින්බස්වීමක් දුරදිග යාම හේතුවෙන් ඇතිවූ ගැටුම්කාරී තතත්වය මත එයින් පැනගිය රැඳවියන් එකොළොස්දෙනෙකු (11) සොයා තවදුරටත් මෙහෙයුම් ක්‍රියාත්මක බව පොලිසිය පවසයි.
+
+මේ අතර පැනගිය රැඳවියන් අතරින් අල්ලා ගත් රැඳවියන් 18 දෙනෙකු පුලස්තිපුර සහ වැලිකන්ද පොලිස් ස්ථාන මගින් අද (14) මගින් පොළොන්නරුව මහේස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කෙරිණ.
+
+ආහාර ගැටළුවක් මුල්කරගෙන මෙම බහින්බස්වීම දුර දිග ගොස් ඇති අතර ඉන් අනතුරුව රැඳවියන් මෙසේ පලා ගිය බවයි පොලිසිය සඳහන් කළේ.
+
+### உலக்கையால் தாக்கியதில் உலகை விட்டு பிரிந்தார்
 
 *2024-01-14 15:25:11 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/உலக்கையால்-தாக்கியதில்-உலகை-விட்டு-பிரிந்தார்/175-331485)*
 
@@ -371,13 +1568,71 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 சம்பவத்தின் போது தாக்கியதாகக் கூறப்படும் பெண் கைது செய்யப்பட்டுள்ளார் என தெரிவித்த அங்கொட பொலிஸார், மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் தெரிவித்துள்ளனர்.
 
-## ஜன­நா­ய­கத்­திற்கு சவா­லாகும் செயற்கைப் புல­ன­றிவு
+### ත්‍රීවිල් එක උකස්කර බූරු ගසා පරාදවී සරම මූණේ ඔතාගෙන කෝච්චියට පනින්න ගිහින්
+
+*2024-01-14 15:18:57 - [adalk](https://www.ada.lk/breaking_news/ත්‍රීවිල්-එක-උකස්කර-බූරු-ගසා-පරාදවී-සරම-මූණේ-ඔතාගෙන-කෝච්චියට-පනින්න-ගිහින්/11-407543)*
+
+රුපියල් ලක්ෂ 10 ක් පමණ වටිනා ත්‍රීරෝද රථයක් රුපියල් එක් ලක්ෂ විසිදහසක උකසට තබා බූරු ගසා පරාදවී ඇතිවූ සිත්තැවුලෙන් සරම ඔළුවේ ඔතාගෙන කෝච්චියට පැන සියදිවි නසාගැනීමට උත්සාහ කල පුද්ගලයකු බේරාගත් බව පානදුර දකුණ පොලිසිය පවසයි .
+
+පානදුර  , මාලමුල්ල ප්‍රදේශයේ පදිංචි 52 හැව්රිදි පුද්ගලයකු මෙසේ බේරාගත් බව පොලිසිය කීය.
+
+පානදුර පොලිස් නිළධාරීන් පසුගියදා (12) පානදුර දුම්රිය ස්ථානයෙන් බැස එන මගීන් පරීක්ෂා කරන අතරතුර එම පුද්ගලයා දුම්රිය මාර්ගයේ බැගයක් සහ සරමක් ඇතැතිව ගමන් කරන අයුරු පොලිස් නිළධාරීන්ට සැකසිතී  පරීක්ෂා කිරීමේදී බැගයේ තිබූ පොතෙහි. ඔහු පානදුර මෝදර බූරු පිටියේදී, ත්‍රීරෝද රථය රුපියල් එක්ලක්ෂ විසි දහසක මුදලකට උකස් කර  පාරාදවී ඇතිවූ  සිත්තැවුලෙන් දුම්රියට පැන දිවි නසාගන්නා බවට සටහන් කර තිබූ බව පොලිසිය කීය.
+
+අතේ තිබූ සරම පිළිබඳ විමසීමේදී සදහන් කර ඇත්තේ දුම්රිය පැමිණෙන විට බිය නිසා මූනේ ඔතාගෙන දුම්රියට පැනීමට රැගෙන ආ බවයි.
+
+පොලිස් නිළධාරීන් විසින් එම තැනැත්තා මනෝ උපදේශනය සදහා යොමුකල බව උසස් පොලිස් නිළධාරීයෙක් කීය.
+
+මූලස්ථාන පොලිස් පරීක්ෂක උපුල් ප්‍රියංකර මහතාගේ උපදෙස් පරිදි  පොලිස් පරීක්ෂක තිලකරත්න සහ උප පොලිස් පරීක්ෂක හේමාල් වීරසිංහ ඇතුළු නිළධාරීන් විසින් සැකකරු ඉදිරි කටයුතු සිදුකර තිබේ.
+
+### Bodies of two youths found in canal in Kilinochchi
+
+*2024-01-14 15:14:00 - [adaderanalk](https://www.adaderana.lk/news/96397/bodies-of-two-youths-found-in-canal-in-kilinochchi)*
+
+The bodies of two youths have been found in an irrigation canal in the Kilinochchi area.
+
+The two youths, aged 20 and 18 years have been identified as residents of the Ahlapuram area of Kilinochchi, the police said.
+
+Police suspect that the duo may have fallen into the canal while travelling at high speed on a motorcycle and losing control of the vehicle which had collided with a sign post.
+
+The bodies have been taken to Kilinochchi Hospital for further investigations, following the on-site examination of Kilinochchi Magistrate.
+
+### රජයේ ඉඩමේ බලෙන් ඉන්න ඇමතිට ඉවත් වෙන්න දැනුම් ‌දෙයි
+
+*2024-01-14 14:35:33 - [adalk](https://www.ada.lk/breaking_news/රජයේ-ඉඩමේ-බලෙන්-ඉන්න-ඇමතිට-ඉවත්-වෙන්න-දැනුම්-‌දෙයි/11-407542)*
+
+ගම්පොළ උඩ පළාත ප්‍රදේශයේ රජයේ ඉඩමක් බලහත්කාරයෙන් අත්පත් කරගෙන එම ඉඩමේ රාජ්‍ය මුදල් භාවිතයෙන් සංස්කෘතික මධ්‍යස්ථානයක් ඇතුළු ඉදිකිරීම් කර ඉන් උපයන ආදායම පෞද්ගලිකව පරිහරණය කළ බව කියන ගම්පොළ ප්‍රදේශයේ ප්‍රබල දේශපාලකයෙකුට අනීතිකව සිදුකරන එම දේපළ පරිහරණය වහාම නවතා ඉන් ඉවත්වන ලෙස උඩ පළාත ප්‍රාදේශීය ලේකම් ආත්මා දිලුක්ෂි ජයරත්න මහත්මිය ලිඛිතව දන්වා තිබේ .
+
+ප්‍රබල දේශපාලකයා මේ ආකාරයෙන් අනීතිකව භුක්ති විඳිමින් පෞද්ගලිකව පරිහරණය කොට ඇත්තේ ගම්පොළ අංගම්මන බටහිර ග්‍රාම නිලධාරී වසමේ රඳාව වත්තේ හෙක්ටයාර 0.3283 පමණ වූ බිම් කොටසකි .
+
+රජයේ ඉඩම් සන්තකය ලබා ගැනීමේ පනතේ 3වන වගන්තියට අනුව එම වත්කම් පිළිබඳව ඇති බලතල ප්‍රකාරව ප්‍රාදේශීය ලේකම්වරිය විසින් අදාල නිවේදනය නිකුත් කොට ඇත්තේ එම සංස්කෘතික මධ්‍යස්ථාන ගොඩනැගිල්ලට ගොස් එහි අදාළ ලිඛිත නිවේදනය ද අලවමිනි .
+
+### Final decision on increasing annual excise licence fees after President’s return
+
+*2024-01-14 13:38:00 - [adaderanalk](https://www.adaderana.lk/news/96396/final-decision-on-increasing-annual-excise-licence-fees-after-presidents-return)*
+
+A final decision on the revision of annual excise licence fees will be taken following further discussions due to the objections by liquor distillers, associations etc., State Minister of Finance Ranjith Siyambalapitiya said.
+
+Accordingly, the state minister also stated that the final decision on the matter will be taken at after President Ranil Wickremesinghe returns to the island.
+
+President Wickremesinghe is currently visiting Switzerland to attend the 54th Annual Meeting of the World Economic Forum.
+
+The Head of State departed the island yesterday (Jan.13) for a 12-day stay in the Swiss town of Davos where the event is taking place.
+
+However, the government had decided to revise the Annual Excise License fees with effect from 12 January 2024 through an Excise Ordinance issued by the President.
+
+Accordingly, the Distillery License fee (except for Palmyra arrack) was increased from Rs. 01  million to Rs. 25 million while the License fee for Palmyra arrack was increased from Rs. 250,000 to Rs. 05 million.
+
+Meanwhile the License fee for bottling of Toddy was increased from Rs. 01 million to Rs. 10 million while the license fee for manufacturing vinegar had been increased from Rs. 500,000 to Rs. 2.5 million. The annual Wholesale License for liquor was increased from Rs. 01 million to Rs. 05 million.
+
+The annual license fee for night clubs had been reduced from Rs. 500,000 to Rs. 250,000.
+
+### ஜன­நா­ய­கத்­திற்கு சவா­லாகும் செயற்கைப் புல­ன­றிவு
 
 *2024-01-14 13:31:00 - [virakesarilk](https://www.virakesari.lk/article/173934)*
 
 இத்­த­கைய செயற்கைப் புல­ன­றிவு தொழில்­நுட்­பங்கள் மூலம் எழக்­கூ­டிய சவால்­களை முறி­ய­டிப்­ப­தொன்றும் இல­கு­வான காரியம் அல்ல. இணையம் என்ற பெருங்­க­டலில் ஒரு துளி கலந்து விட்டால், அந்தத் துளியை பிரித்­த­றியும் அள­விற்கு சிர­ம­மான காரியம். ஒரு­புறத்தில் மேலைத்­தேய நாடு­களில் டிஜிற்றல் அறிவு மிக்க சமூ­கங்கள் இருப்­பதால், இந்த மாதி­ரி­யான சவால்கள் இருப்­ப­தை­யேனும் சுட்­டிக்­காட்ட முடியும். இது உண்மை, இது பொய் என்­பதை பிரித்துக் காண்­ப­தற்­கு­ரிய அறிவைப் போதிப்­பது மேலைத்­தேய நாடு­க­ளுக்­குள்ள சவால் என்றால், கீழைத்­தேய நாடு­களில் ‘நீங்கள் பார்ப்­பதில் போலிகள் அதிகம்’ என்பதை விபரிப்பதற்கே பெரும் பிரயத்தனப்பட வேண்டியிருக்கும்.
 
-## க.​பொ.த உயர்தர பரீட்சையில் திருத்தம்
+### க.​பொ.த உயர்தர பரீட்சையில் திருத்தம்
 
 *2024-01-14 13:26:51 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/க-பொ-த-உயர்தர-பரீட்சையில்-திருத்தம்/175-331484)*
 
@@ -387,7 +1642,37 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 இதன்படி, இம்மாதம் 31ஆம் திகதி முடிவடையவிருந்த 2023(2024) உயர்தரப் பரீட்சை பெப்ரவரி 01ஆம் திகதி நிறைவடையும் எனவும் அன்றைய தினம் அனைத்துப் பரீட்சை நிலையங்களும் வழமை போன்று நடைபெறும் எனவும் பரீட்சை திணைக்களம் தெரிவித்துள்ளது.
 
-## செலவழித்த தொகையை மீளக்கோருகிறது ஜப்பான்
+### Kandakadu Rehab Centre clash: 15 escaped inmates still missing
+
+*2024-01-14 13:26:00 - [adaderanalk](https://www.adaderana.lk/news/96395/kandakadu-rehab-centre-clash-15-escaped-inmates-still-missing)*
+
+All except 15 inmates who escaped from the Kandakadu Treatment and Rehabilitation Centre have surrendered so far, the Commissioner General of Rehabilitation Major General Darshana Hettiarachchi said.
+
+Furthermore, Major Gen. Hettiarachchi emphasized that the activities of the rehabilitation center are now being carried out as usual.
+
+Several inmates of the Kandakadu Treatment and Rehabilitation Centre had reportedly escaped while at least 25 others sustained injuries on Friday (12), during a clash that occurred between two groups of inmates detained at the camp.
+
+He also mentioned that five of the injured individuals are still receiving treatment at the hospital.
+
+Against this backdrop, several escaped inmates who had later surrendered to police, also claimed that they were repeatedly subjected to harassment by the other detainees at the camp.
+
+Meanwhile, Minister of Justice, Prison Affairs and Constitutional Reforms Wijeyadasa Rajapakshe says that attention has been directed to switching the management of the Kandakadu Treatment and Rehabilitation Centre, in view of the reports on repeated conflicts within the institution.
+
+### සාජන්ගේ රු. 41400ක් සොරකම් කළ කොස්තාපල් අල්ලයි
+
+*2024-01-14 13:21:28 - [adalk](https://www.ada.lk/breaking_news/සාජන්ගේ-රු--41400ක්-සොරකම්-කළ-කොස්තාපල්-අල්ලයි/11-407541)*
+
+උඩ මළුව පොලිස් ස්ථානයට අනුයුක්තව රාජකාරී කරන පොලිස් සැරයන්වරයෙකුගේ බැංකු කාඩ් පත සොරා ගෙන රුපියල් 41000කට වැඩි වටිනාකමකින් යුත් භාණ්ඩ මිලදී ගත් මානම්පිටිය පොලිස්  ස්ථානයේ විශේෂ රාජකාරී කරනු ලබන කොස්තාපල්වරයෙකු අත්අඩංගුවට ගෙන අද (14දා) අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබූ බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
+
+මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ කදුරුවෙල, ගල්ලෑල්ල, කුසුම්ගම ප්‍රදේශයේ පදිංචි කොස්තාපල්වරයෙකි.
+
+පැමිණිලිකාර සැරයන්වරයා  අනුරාධපුර නගරයේ රාජ්‍ය බැංකුවක ඒ.ටී.එම් යන්ත්‍රයකින් මුදල් ලබා ගන්නා අවස්ථාවේදී සැකකාර පොලිස් කොස්තාපල්වරයා  ඊට පිටුපසින් පෝලිමේ රැඳී සිට මෙම බැංකු කාඩ් පත සොරා ගෙන ඇති බව පැමිණිල්ලේ සඳහන් වේ.
+
+අත්අඩංගුවට ගත් සැකකාර කොස්තාපල්වරයා මෙම කාඩ්පත සොරා ගෙන, රුපියල් 41440 ක් වටිනා භාණ්ඩ මිලදී ගෙන තිබූ බව සිදු කල විමර්ශනවලදී අනාවරණය වූ බවද පොලිසිය සඳහන් කළේය.
+
+සොරකමක්  සිදු කිරීම සහ දේපල සාවද්‍ය පරිහරණය යන චෝදනාව යටතේ පොලිස් කොස්තාපල්වරයා අත්අඩංගුවට ගෙන තිබුණි.
+
+### செலவழித்த தொகையை மீளக்கோருகிறது ஜப்பான்
 
 *2024-01-14 13:12:26 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/செலவழித்த-தொகையை-மீளக்கோருகிறது-ஜப்பான்/175-331483)*
 
@@ -395,7 +1680,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 ஜப்பானிய அமைச்சர் கடன் மறுசீரமைப்பை நிறைவு செய்ய விரும்பியதுடன் சர்வதேச நாணய நிதியத்தின் திட்டத்தை இலங்கை பாதிக்கக் கூடாது என்றும் அவர் கூறியிருந்தார்.
 
-## மனித உரிமை விவகாரங்களில் இரட்டை வேடம்போடும் உலக தலைவர்கள் - பல்லாயிரக்கணக்கான மக்களின் உயிர்களிற்கு ஆபத்து - சர்வதேச மனித உரிமை கண்காணிப்பகம்
+### மனித உரிமை விவகாரங்களில் இரட்டை வேடம்போடும் உலக தலைவர்கள் - பல்லாயிரக்கணக்கான மக்களின் உயிர்களிற்கு ஆபத்து - சர்வதேச மனித உரிமை கண்காணிப்பகம்
 
 *2024-01-14 12:59:00 - [virakesarilk](https://www.virakesari.lk/article/173931)*
 
@@ -415,7 +1700,7 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 இஸ்ரேல் ஹமாஸ் மோதலில் வெளிப்படையாக தெரியும் இரட்டை நிலைப்பாடுகளிற்கு அப்பால் ஏனைய பல மனித உரிமை விவகாரங்களிலும் இரட்டை நிலைப்பாடுகள் காணப்படுகின்றன மனித குலத்திற்கு எதிரான சீன அரசாங்கத்தின் குற்றங்கள் தொடர்பில் மௌனம் கடைப்பிடிக்கப்படுகின்றது உக்ரைனில் இடம்பெறும் மனித உரிமை மீறல்கள்குறித்து பொறுப்புக்கூறலும்நீதியும் அவசியம் என உரத்த குரலில் வேண்டுகோள்கள் விடுக்கப்படும்அதேவேளை ஆப்கானில் அமெரிக்காவின் மனிதஉரிமை துஸ்பிரயோகங்கள் குறித்து மௌனம் காக்கப்படுகின்றது என அவர்தெரிவித்துள்ளார்.
 
-## DMT அதிகாரிகளை சாடுகிறார் அமைச்சர்
+### DMT அதிகாரிகளை சாடுகிறார் அமைச்சர்
 
 *2024-01-14 12:44:59 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/DMT-அதிகாரிகளை-சாடுகிறார்-அமைச்சர்/175-331482)*
 
@@ -431,3380 +1716,8 @@ GGGI தற்போதைய சக்தி மற்றும் கடன்
 
 இந்த முன்மொழிவுகளுக்கு தாமதமாக ஒப்புதல் வழங்கப்படுவதால் இழந்த வருமானத்தை மீட்பதற்கு அதிகாரிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட வேண்டும் என்று தான் நம்புவதாக அவர் மேலும் கூறினார்.
 
-## தமிழ் பொதுவேட்பாளருக்கான நியாயங்களை வழங்கிய ஜனாதிபதி
+### தமிழ் பொதுவேட்பாளருக்கான நியாயங்களை வழங்கிய ஜனாதிபதி
 
 *2024-01-14 12:34:00 - [virakesarilk](https://www.virakesari.lk/article/173929)*
 
 இந்தப் பயணத்தில் தமிழ்த்தேசிய கட்சிகளின் நடத்தைகள் சகிக்க முடியாதவையாக இருந்தன. அனைத்து கட்சிகளும் கூட்டாக தீர்மானம் எடுத்து சந்திப்பை புறக்கணித்திருக்க வேண்டும். ஏற்கெனவே கூறிய வாக்குறுதிகளை நிறைவேற்றிவிட்டு வாருங்கள் என கோரிக்கையினை வைத்திருக்க வேண்டும். இங்கே கட்சிகள் தன்னிச்சையாகவே நடந்து கொண்டன. சித்தார்த்தன், செல்வம் அடைக்கலநாதன், சாள்ஸ் நிர்மலநாதன் ஆகியோர் ஒருங்கிணைப்பு கூட்டத்தில் கலந்து கொண்டிருந்தனர். அங்கு கூட முறையாக கோரிக்கைகள் எவற்றையும் அவர்கள் முன்வைக்கவில்லை. ஆளும் கட்சியினருக்கும் சோடை போகாத வகையில் எடுபிடிகளாகவே நடந்து கொண்டனர்.
-
-## வாகன இறக்குமதிக்கான வர்த்தமானி ​​வெளியீடு
-
-*2024-01-14 12:21:31 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/வாகன-இறக்குமதிக்கான-வர்த்தமானி-வெளியீடு/175-331480)*
-
-அரசாங்கத்திற்கு அத்தியாவசியமான வாகனங்களை மட்டும் இறக்குமதி செய்யும் வகையில் புதிய வர்த்தமானி வெளியிடப்பட்டுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
-
-பொதுவாக வாகனங்களை இறக்குமதி செய்வதற்கு வர்த்தமானி அறிவித்தல் வெளியிடப்படவில்லை என்றும், சில அரச நிறுவனங்களின் சில அத்தியாவசிய நடவடிக்கைகளுக்காக சில வாகனங்களை இறக்குமதி செய்வதற்கு மாத்திரமே இந்த வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் தெரிவித்தார்.
-
-வெளிநாட்டு நிதியுதவியுடன் நடைமுறைப்படுத்தப்படும் திட்டங்களுக்கான உதவியைப் பயன்படுத்தி வாகனங்கள் இறக்குமதி செய்யப்படும் என்றும், அந்தத் திட்டங்களின் கீழ், கல்வி அமைச்சுக்கு இரண்டு பேருந்துகளும், சுகாதார அமைச்சுக்கு 21 டபுள் வண்டிகளும், சுகாதார அமைச்சுக்கு 3 பேருந்துகளும் கிடைக்கும். நடமாடும் மகப்பேறு கிளினிக்குகளுக்கான வாகனங்கள் மற்றும் தொழிலாளர் அமைச்சுக்கு ஒரு வாகனம் வழங்கப்படும் என்றும் அவர் குறிப்பிட்டார்
-
-மேலும், ஸ்ரீலங்கன் விமான சேவைக்கு 3 வாகனங்கள் இறக்குமதி செய்யப்படும் எனவும், ஸ்ரீலங்கன் விமான சேவையின் மூன்று வாகனங்கள் தவிர்ந்த ஏனைய அனைத்து வாகனங்களும் வெளிநாட்டுத் திட்டங்களை நடைமுறைப்படுத்தும் திட்டங்களுக்கு வெளிநாட்டு உதவி மூலம் வழங்கப்படும் எனவும் இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளமை  குறிப்பிடத்தக்கது.
-
-## 12 இந்திய மீனவர்கள் கைது
-
-*2024-01-14 11:51:49 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/12-இந்திய-மீனவர்கள்-கைது/175-331478)*
-
-யாழ். காரைநகரிலுள்ள கோவிலான் கலங்கரையை அண்மித்து இலங்கை கடற்பரப்பில் அத்துமீறி மீன்பிடியில் ஈடுபட்ட 12 இந்திய மீனவர்கள் சனிக்கிழமை (13) இரவு  கைது செய்யப்பட்டுள்ளனர்.
-
-கைது செய்யப்பட்ட இந்திய மீனவர்களும், மீன்பிடி இழுவை படகுகளும் காங்கேசன்துறை துறைமுகத்திற்கு கொண்டு வரப்பட்டதுடன், மேலதிக நடவடிக்கைகளுக்காக மயிலடி கடற்றொழில் பரிசோதகரிடம் ஒப்படைக்கப்படவுள்ளதாக கடற்படை தெரிவித்துள்ளது.
-
-## புதிய செயலாளர்களுக்கான வர்த்தமானி வெளியீடு
-
-*2024-01-14 11:32:28 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/புதிய-செயலாளர்களுக்கான-வர்த்தமானி-வெளியீடு/175-331477)*
-
-கல்வி, நீதித்துறை உள்ளிட்ட 11 அமைச்சுகளுக்கு புதிய செயலாளர்களை நியமிப்பதற்கான வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
-
-## 42,248 சந்தேக நபர்களின் பெயர்ப்பட்டியல் கையளிப்பு
-
-*2024-01-14 11:25:23 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/42-248-சந்தேக-நபர்களின்-பெயர்ப்பட்டியல்-கையளிப்பு/175-331476)*
-
-நாடளாவிய ரீதியில் குற்றச்செயல்களுடன் தொடர்புடைய 42,248 சந்தேக நபர்களின் விரிவான பட்டியலை பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் அனைத்து பொலிஸ் நிலையங்களின் குற்றச் செயல்களுக்கு பொறுப்பான அதிகாரிகளிடம் கையளித்துள்ளார் என பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
-
-இந்த பட்டியலில் 35,505 பிடியாணை பிறப்பிக்கப்பட்டவர்களும், கைரேகைகள் மூலம் அடையாளம் காணப்பட்ட 4,258 சந்தேக நபர்கள் மற்றும் கடந்த இரண்டு ஆண்டுகளில் நாட்டில் நடந்த குற்றங்களுக்காக தேடப்பட்டு வரும் 2,485 நபர்களும் உள்ளடங்குவதாக அவர்கள் மேலும் தெரிவித்தனர்.
-
-நாளை (14) முதல் நடைபெறவுள்ள 'யுக்திய' நடவடிக்கையில் அனைத்து பொலிஸ் நிலையங்களின் பிரிவு அதிகாரிகள், மாவட்ட பொறுப்பாளர்கள், தலைமையக ஆய்வாளர்கள் (HQIs), மற்றும் குற்றப்பிரிவு OICகள் அனைவரையும் முனைப்புடன் பங்கேற்குமாறு IGP அறிவுறுத்தியுள்ளார்.
-
-மேலும், அடுத்த மாதத்திற்குள் தேடப்படும் சந்தேக நபர்களை கைது செய்யும் நோக்கில் 24 மணி நேரமும் பொலிஸ் அதிகாரிகளை பணியில் அமர்த்துமாறு அனைத்து குற்றப்பிரிவு OIC களுக்கும் தேசபந்து  உத்தரவு பிறப்பித்துள்ளார்.
-
-போதைப்பொருள் மற்றும் பாதாள உலகத்துடன் தொடர்புடைய நபர்களை இலக்கு வைத்து மேற்கொள்ளப்பட்டு வரும் 'யுக்திய' நடவடிக்கைக்கு மேலதிகமாக, தீவு முழுவதும் குற்றச் செயல்களைக் குறைப்பதில் தீவிரமான முயற்சிகள் வலுவான தாக்கத்தை ஏற்படுத்தும் என்று அமைச்சு தெரிவித்துள்ளது.
-
-## பால் மாவின் விலை உயர்வு
-
-*2024-01-14 11:09:57 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பால்-மாவின்-விலை-உயர்வு/175-331475)*
-
-இறக்குமதி செய்யப்படும் பால் மாவின் விலை அடுத்த வாரம் முதல் அதிகரிக்கப்படும் என பால் மா இறக்குமதியாளர்கள் சங்கம் தெரிவித்துள்ளது.
-
-இதன்படி, இறக்குமதி செய்யப்படும் 400 கிராம் பால் மா பொதியின் விலை 30 ரூபாவினால் அதிகரிக்கப்படவுள்ளதாகவும், இறக்குமதி செய்யப்படும் 1 கிலோ கிராம் பால் மா பொதியின் விலை 75 ரூபாவினால் அதிகரிக்கப்படும் எனவும் தெரிவிக்கப்படுகிறது.
-
-## கசினோ கட்டணங்களை அதிகரித்தது நிதியமைச்சு
-
-*2024-01-14 10:53:49 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கசினோ-கட்டணங்களை-அதிகரித்தது-நிதியமைச்சு/175-331473)*
-
-2024 ஜனவரி முதலாம் திகதி, முதல் அமுலுக்கு வரும் வகையில், சூதாட்ட உரிமக் கட்டணம் மற்றும் புதுப்பித்தல் கட்டணங்களை அதிகரிக்கவுள்ளதாக நிதி அமைச்சு அறிவித்துள்ளது.
-
-அதன்படி, குறைந்தபட்சம் 250 மில்லியன் அமெரிக்க டொலர்களை முதலீடு செய்யும் விண்ணப்பதாரர்களுக்கு, கசினோ உரிமக் கட்டணம் மற்றும் புதுப்பித்தல் கட்டணம் தலா ரூ.10 பில்லியனாக நிர்ணயிக்கப்பட்டுள்ளது.
-
-குறைந்தபட்சம் 500 மில்லியன் அமெரிக்க டொலர் முதலீடு செய்பவர்களுக்கு ரூ. 05 பில்லியன் உரிமக் கட்டணம் மற்றும் ரூ. 10 பில்லியன் புதுப்பித்தல் கட்டணமாக நிர்ணயிக்கப்பட்டுள்ளது.
-
-## நயினாதீவில் கஞ்சாவுடன் ஒருவர் கைது
-
-*2024-01-14 08:44:52 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/நயினாதீவில்-கஞ்சாவுடன்-ஒருவர்-கைது/175-331469)*
-
-யாழ்ப்பாணம், நயினாதீவில் 21 கிலோ கிராம் கஞ்சா நேற்று விசேட அதிரடிப் படையினரால் கைப்பற்றப்பட்டுள்ளது.
-
-## விபத்தில் அபிவிருத்தி உத்தியோகத்தர் பலி
-
-*2024-01-14 06:56:47 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-அபிவிருத்தி-உத்தியோகத்தர்-பலி/175-331467)*
-
-யாழ்ப்பாணம், வடமராட்சி கிழக்கு, வெற்றிலைக்கேணி - கோரியடிப் பகுதியில் நேற்று இடம்பெற்ற விபத்தில் அபிவிருத்தி உத்தியோகத்தர் ஒருவர் உயிரிழந்துள்ளார்.
-
-முல்லைத்தீவு - புதுக்குடியிருப்பு பிரதேச செயலகத்தில் அபிவிருத்தி உத்தியோகத்தராகப் பணிபுரியும் வெற்றிலைக்கேணியைச் சேர்ந்த இரண்டு பிள்ளைகளின் தந்தையான யேசுதாஸ் அன்ரன் பிலிப்பின் தாஸ் என்ற இளம் குடும்பஸ்தரே உயிரிழந்துள்ளார்.
-
-வெற்றிலைக்கேணி கரையோர வீதியால் மருதங்கேணி நோக்கிச் சென்று கொண்டிருந்த இராணுவ உழவு இயந்திரத்துடன் மோட்டார் சைக்கிள் மோதியே விபத்து இடம்பெற்றுள்ளது.
-
-## கஞ்சாவுடன் குடும்பஸ்தர் கைது
-
-*2024-01-14 06:34:58 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கஞ்சாவுடன்-குடும்பஸ்தர்-கைது/175-331466)*
-
-வவுனியா, புளியங்குளம் பகுதியில் மோட்டர் சைக்கிள் ஒன்றின் இருக்கைக்குள் மறைத்துக் கொண்டு செல்லப்பட்ட கஞ்சாவுடன் குடும்பஸ்தர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-வவுனியா, புளியங்குளம் பகுதியில் விசேட அதிரடிப் படையினர் நேற்று விசேட சோதனை நடவடிக்கையை முன்னெடுத்திருந்த போது முல்லைத்தீவு புதுக்குடியிருப்பு பகுதியில் இருந்து மோட்டர் சைக்கிளில் ஏ9 வீதி ஊடாக பொல்காவலை நோக்கி பயணித்த குடும்பஸ்தரை மறித்து சோதனை செய்தனர்.
-
-இதன்போது, மோட்டர் சைக்கிள் இருக்கைப் பகுதிக்குள் சூட்சுமாக மறைத்து வைக்கப்பட்டிருந்த ஒரு கிலோ 375 கிராம் கஞ்சா கண்டுபிடிக்கப்பட்டது. குறித்த சந்தேக நபர் அதிரடிப்படையினரால் கைது செய்யப்பட்டு புளியங்குளம் பொலிஸாரிடம் ஒப்படைக்கப்பட்டுள்ளார். (a)
-
-## Jan 1974  World Tamil Conference in Jaffna, Poiice Attack on Public and Civilian Deaths .
-
-*2024-01-14 01:11:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83424)*
-
-A significant event in the post-independence history of the Sri Lankan Tamils took place fifty years ago on 10 January 1974 in Jaffna. A joyful cultural celebration was marred by the Sri Lankan Police unleashing violence against  Tamil civilans. Ecstasy turned into agony when  the panic-stricken  people ran helter – skelter for safety.  Seven persons died of electrocution  when  electric wires were dislodged  by  Police firing in the air. Another died of a heart attack in the melee. The fiftieth death anniversary of the tragic victims was  commemorated  in Jaffna on Wednesday.(Jan 10).
-
-This columnist then a 19 year old lived in Jaffna and attended the research conference related events. The course of events are yet embedded in memory. What happened then was this.
-
-The fourth world  Tamil Research Conference  of the International Association of Tamil Research(IATR)  was held in Jaffna from  January 3rd to 9th 1974.. The conference attended by  several Internationally reputed Tamil scholars  was purely academic and restricted to a selected audience. However a cultural event was held on Jan 10 for a mass audience with the participation of some of the international Tamil scholars.  The huge crowdSeveral awards were handed out at the event. estimated between 10 to 15,000 spilled over into some streets and roads also.
-
-A platform had been erected in the precincts of Veerasingham hall where the conference had taken place. The crowds attending the event were within Vee0rasingham hall premises and the Jaffna esplanade. The road between the hall and esplanade was full of people. Initially the Police cooperated fully with the organizers and even re-directed traffic along other roads to divert vehicles away from the crowds..  The Police also ensured proper parking of vehicles. The Policemen on duty at the event had no problems with the people and even engaged in amiable conversation with them.
-
-The atmosphere changed  drastically when a Police contingent  led by the then Assistant Superintendent of Polce (ASP) Chandrasekera tried to proceed through the middle of the crowd and asked people  through a hailer to move aside and let the Police vehicles pass. The people at the outer edges of the crowd did so and the vehicles proceeded inward slowly. Since the crowd in the middle was dense, the people could not move away and the Police vehicles got stuck. Some of the youngsters in the crowd began hooting and jeering.
-
-ASP Chandrasekera a former bodyguard to the then Prime Minister Sirimavo Bandaranaike , then ordered his men to crack down forcefully although the Police had not sustained any damage or  faced any real danger.
-
-ASP Chandrasekera tried to justify his action  later   at the Magisterial inquiry by stating that stones were thrown at the Police. He claimed that two Policemen were injured and a vehicle damaged  by the stone throwing. The ASP also said that he was proceeding to the venue because of information that an Indian national and political activist from Tamil Nadu was addressing the meeting though he was not permitted to do so. The person in question was R.Janarthanam the president of the “Ulagath Thamizhar Ilaingar Paeravai” (World Tamil Youth Federation)
-
-Acting under the ASP’s orders  the Policemen numbering over  40 first began firing tear gas cannisters. This was  followed  by helmet wearing cops  baton charging the crowd. The terrified people began  scattering and running in all directions seeking safety. Pandemonium erupted when the Police  began using firearms by firing in the air.
-
-The time was past 8 PM and additional electricity had been obtained through a generator to enhance  illumination. When a Policeman fired upwards, some bullets hit the electric wires and  loosened them . The overhead  wires fell on an iron railing separating the Veerasingham hall and the road. As a result several people got electrocuted. Seven died. Apart from the deaths, over 50 people were injured in the stampede.
-
-In addition to the seven electrocuted , there was another casualty too on that night. This was a well 0knownschool master who had died of a heart attack while fleeing the Police attack. There had also been two more deaths by electrocution the previous day. A parade  with floats   or vehicles with exhibits mounted on a platform was held on Jan 9th in Jaffna. One of the floats was miniature replica  of “Annapoorani” the Valvettithurai built schooner that  was sailed to the USA. One of the sails  struck overhead wires resulting in two men being electrocuted to death. Thus ten persons had died in incidents relating to the Jaffna conference.
-
-Police unleashing violence against  civilans assembled peacefully at a cultural event shocked the people of Jaffna in particular and the Tamils in general. It was compared by some to the Jalianwala Bagh massacre of 1919 in Punjab, India.  Hundreds were killed  when  Gen. Dyer of the British army ordered his troops to fire  on a civilan gathering. “Will the Sinhala majority state not allow Tamils to  even participate in a cultural event in their cultural capital, Jaffna” was the  question in many Tamil “hearts and minds”then.
-
-The overwhelming Tamil mood was morose and resentful. While the Police attack was deplorable and by itself incurred the people’s wrath, there were two important reasons for the collective sense of hurt and grief felt by the Tamil people then.
-
-The first was that the Research conference had been held in Jaffna after a bitter struggle. Tamil politicians, academics, writers and artistes aligned with or sympathetic to the then United Front Government of Prime minister Sirimavo Bandaranaike wanted  the IATR conference to be held in Colombo. Another section of the Tamil people wanted it in Jaffna. Finally the conference was held in Jaffna despite the obstructionist tactics of the Govt and their supporters. Jaffna in its entirety was in a festive mood then Homage paid by foreign scholars to their mother tongue made all Tamils happy and proud. The unnecessary violence unleashed marred the joyful mood and caused anger and sadness.
-
-The second reason was that the ruling Government showed no remorse or regret for the attack or the loss of life. Furthermore the Govt turned a deaf ear to requests that the Govt should set up a commission of inquiry to probe the incident. The matter was raised in Parliament too but there was only a deafening silence.  The magisterial inquiry held by Jaffna magistrate K.Palakidnar had ruled that the deaths were due to” accidental electrocution “. But prevailing Tamil public opinion was for a commission of inquiry to probe the conduct of the Police.
-
-What must be realised is that the impact of an incident like this was tremendous five decades ago. It was like a first of its kind incident. Subsequently as  the ethnic issue escalated into unbridled violence and open war, the Tamils experienced massacres of  far greater proportion. But at that time seven persons dying as a result of Police violence had a profound effect on the Tamil psyche.
-
-It was a crucial factor in strengthening the secessionist tendency among Tamils. It is noteworthy that former Leader of the Opposition and Tamil  United Liberation Front(TULF) leader Appapillai  Amirthalingam  when testifying before the Sansoni Commission observed thus – “the refusal of the government to appoint a Presidential Commission to inquire into the seven deaths and the conduct of the Police which led to those deaths, was a prime cause of the demand for a separate state.”
-
-Tamils in Sri Lanka had looked forward to the  IATR World Tamil research conference being held in Jaffna. Tamils are very proud of their ancient language and literature. Tamil is recognized as a classical language. A unique feature of the  affectionate regard Tamils have for their language is the reference to “Thamizh Thaai”  meaning mother Tamil. Tamils personify their mother tongue as their  mother  or mother Tamil. Hence an international Tamil conference being held in Jaffna was  most welcome. In a land where their language had been deprived of official language status  and where  they had been systematically discriminated  against, the honour and prestige of an international conference on Tamil in Jaffna  was something they eagerly anticipated.
-
-Moreover Jaffna had a special link or connection with the IATR and the convening of Tamil research conferences. The IATR and Tamil research conferences was a brainchild of a distinguished Tamil from Jaffna. Rev Fr Xavier Stanislaus Thaninayagam known respectfully as “Thaninayagam Adigal” was an eminent Catholic Clergyman and renowned linguistic scholar.
-
-Fr. Thaninayagam loved and revered the Tamil language. He  taught at many universities and also  lectured about the Tamil language, culture and literature globally visiting many countries. Thaninayagam Adigal also edited a quarterly journal called “Tamil Culture” specializing in Tamil studies.
-
-Fr Thaninayagam served as  Dean of the faculty  of arts and head of the Indian studies department  at the University of Malaya (UM) at Kuala Lumpur from 1961 to 1966. During this time, Fr. Thaninayagam  participated at the 1964  Orient Scholars Conference in New Delhi. He along with two others convened a meeting of Tamil scholars attending the conference in New Delhi. Thaninayagam proposed the setting up of a  body for  Tamil studies and research. Thaninayagam’s brainchild became a reality in the form of the International Association for Tamil research.(IATR) in New Delhi.
-
-Xavier Thaninayagam followed through by organizing the first world Tamil research conference under the auspices of the IATR  in  April 1966. It was held at the University of Malaya in Kuala Lumpur.  The conference was ceremonially declared open by the Malaysian Prime minister of that time Tunku Abdul Rahman. A total of 145 research papers were submitted.
-
-The second IATR World Conference was held in the  Indian city of Madras (Now Chennai) in January 1968. It was declared open by the Indian President of that time Dr.Zakir Husain who was himself a leading educationist.  163 research papers were submitted.The strongly Tamil nationalist Dravida Munnetra Kazhagam (DMK) ruled the Tamil Nadu state then.
-
-The DNK chief minister CN Annadura’s Govt i, popularised  the academic  conference  by organizing  entertaining  mass -oriented events simultaneously. Apart from a number of cultural events a  gigantic procession followed by a mass meeting at Marina beach was held. The icing on the cake was the erection of ten statues  of Tamil scholars, poets and writers.
-
-The third  IATR  World Tamil Conference was held in Paris in July 1970. Dr.Malcolm Adiseshiah a Tamil hailing from Vellore in Tamil Nadu was  then the deputy director-general of UNESCO. Fr. Thaninayagam in tandem with Dr.Adiseshiah organized theconference in France. It was purely an academic affair. The conference was opened by the  then French minister of culture Edmond Michelet. A total of 16 research papers were submitted. The then  chief minister of Tamil Nadu, Muthuvel Karunanidhi attended the conference. In Paris.
-
-From inception , the IATR research conferences were held every two years. The fourth conference was scheduled to be held in 1972 and Sri Lanka was to be the venue. The Sirimavo Bandaranaike led  Sri Lanka Freedom Party (SLFP)  majority government was not receptive to the idea. It was said  that the  Tamil research conference would radicalise Tamil  sentiments in Sri Lanka. It was also said that the leading Sri Lankan Tamil political party . the Ilankai Thamil Arasuk Katchi(ITAK) could politicise the event. Thuogh the Leftist Lanka Sama Samaja Party(LSSP) and Communist Party(CP) were constituents of the Government, they did not enlighten their senior partner.
-
-The only Tamil minister in the UF Government was Chelliah Kumarasuriar, an engineer,  who held the post and telecommunications ministry portfolio.He had been first appointed Senator and after the abolition of the Senate made  an appointed MP. A group of non -political Tamil academics and professionals  interacted with Kumarasuriar and got his support to conduct the Conference in Sri Lanka. Kumarasuriar in turn  obtained the Government’s green light to hold the conference on the condition that it should only be of an academic nature devoid of politics.
-
-The conference which should have been held in 1972 was not held that year. Finally it was  scheduled for January 1974.
-
-A  committee was set up to organize the conference in Sri Lanka. It was widely representative and consisted of academics, professionals, artistes, writer and journalists. It was supposedly non -political and mandated to organize the conference only.
-
-However the organizing committee was soon divided internally. A bloc or group supportive of Kumarasuriar emerged. The  primary bone of contention was the venue. Kumarasuriar and his group wanted it to be held in Colombo. The others with the tacit support of the ITAK wanted to  be held in Jaffna.
-
-China’s gift to Sri Lanka the Bandaranaike Memorial International Conference Hall (BMICH) had been opened in  Colombo. Kumarasuriar’s group wanted the Tamil conference to be held at the BMICH with the then President (Non -executive) William Gopallawa declaring it open.  They argued that  it was  appropriate to hold the conference n the capital city Colombo. The first and third conferences were held in the Malaysian capital Kula Lumpur and French capital  Paris, it was pointed out.
-
-The others did not agree. They said the Tamil Conference should be held in the largest Tamil city in Sri Lanka -Jaffna. Moreover Jaffna was deemed the cultural capital of Sri Lankan tamils. It was also pointed out that the second conference was held in the Tamil Nadu capital Madras and not New Delhi the Indian capital. After a long tussle the Pro-Jaffna sections in the Committee won the day
-
-The Organizing committee broke up and several resigned or were made to quit. Lake House Journalist T. Sabaratnam working for “Thinakaran” was a member of the organizing committee. He voted for Jaffna as the venue. A furious Kumarasuriar exerted pressure on the ANCL management and forced Sabaratnam to resign from the committee. Retired Supreme Court  Judge H.W. Thambiah was the committee head. He too resigned.
-
-A re-constituted organizing committee was set up with Prof. Vithianandan as President.
-
-Vithianandan had been the premier  force in getting the Conference to be held in Jaffna. The joint secretaries were Dr.Kopan Mahadeva and architect VS Thurairajah. A secretariat was set up in Main street,Jaffna to organize the conference. Fr. Thaninayagam was the Committee patron and adviser. The committee guaranteed that the conference would be purely academic and would not be politicised.
-
-The Govt was not happy about the conference being held in Jaffna and was non -cooperative.  Since the IATR Conference in Madras had been utilised by the ruling DMK to earn political kudos, it was feared that the ITAK would do so in Jaffna. Kumarasuriar and his minions especially the “Mutpoakku Ezhuthhaalar Sanfam”(Progressive Writers association ) and some Tamil academics were hostile. It was in this environment that the 4th IATR World Tamil Research Conference was held in Jaffna. What happened thereafter would be related in the second part of this article.
-
-This Article appears in the “Political Pulse” Column of “Daily FT”dated 12 January 2024.It can be accessed here –
-
-## The solution for Sri Lanka is to enact a narrowly drafted Anti-Terror Act that does not cause unholy confusion between who is a terrorist and who is not.
-
-*2024-01-14 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83435)*
-
-When Sri Lanka’s Justice Minister calls upon an opposing parliamentary colleague taking issue with the ‘new’ Anti-Terrorism Bill tabled in Parliament this week, to justify where and in what country, anti-terrorism laws are solely dispensed with, he is missing the wood for the trees to put it mildly.
-
-The Minister must refrain from engaging in classically ad hominem arguments when he tries to meet his critics on the floor of the House. Rather, his and his Government’s task on hand is to counter the critique of the Bill as ‘seriously flawed’ by discharging the burden in establishing that national security needs have been fairly balanced with the constitutional rights of citizens.
-
-Does this ‘new’ Bill, which by the way is merely the ‘old’ version gazetted in September 2023, reflect that ‘fair balance’? Or does it repeat the ‘same old, same old’ while posing additional dangers?
-
-To be fair, there is one positive difference between the September 2023 gazetted Bill and the Prevention of Terrorism Act (PTA, 1979). The obnoxious provision in the PTA allowing confessions made to a senior police officer to be admissible has been taken out.
-
-Of course, this is too little, too late for thousands of detainees convicted wholly on the strength of confessions extracted through torture during past decades.
-
-Even so, this change is welcome in preventing (otherwise) indefensible convictions which promotes the spread of terrorism and radicalises victims and their families. The Justice Minister also pointed to the fact that stipulating the extension of the period of detention to be by way of a judicial order as a positive safeguard.
-
-Moreover detention orders will be issued by the Secretary to the Ministry of Defence as applied for by the IGP/DIG (Inspector General of Police/Deputy Inspector General of Police) to minimise the endemic practice of ‘locking up’ troublesome individuals and throwing away the key. But are these changes enough, of and by themselves? In all good conscience, we must say no.
-
-The problem was and still is, in the very definitions of what constitutes ‘terrorism’ which portends a ‘clear and present danger’ to constitutional rights. The offence of terrorism is defined in Clause 3 (1) to include any ‘act or illegal omission’ with the following three objectives. Firstly, of ‘intimidating the public or a section of the public,’
-
-secondly of wrongfully compelling the Government, any other Government or an international organisation to do or abstain from doing any act’ and thirdly of ‘propagating war or violating territorial integrity, infringement of sovereignty…’
-
-Good sense seems to have prevailed and clauses replicating the ICCPR Act’s Section 3(1) have been dropped. But Clause 3 (2) continues to define an ‘act or illegal omission’ in unacceptably general terms. These not only encompass murder, hurt, hostage taking but a host of other acts that remain highly problematic.
-
-This is a red warning sign to protests and protestors in this election year. Public anger is steadily growing over lavish and spendthrift behaviour of ruling politicians ranging from freewheeling parties and frequent overseas travel at state expense.
-
-All this moreover while the public bears the brunt of a cruel ‘austerity drive’ in consequence of Sri Lanka declaring bankruptcy in 2022 though the Treasury Secretary and the Central Bank Governor prefer other esoteric terms.
-
-In short, our plight was due to corrupt and venal political leadership aided and abetted by no less corrupt, venal and monumentally inefficient public servants. We do not see any arresting of that corrupt and venal behaviour in any sense whatsoever.
-
-Astonishingly, that despicable conduct continues despite the exponential increase of the country’s poor and the virtually wholesale demolition of the country’s public health and education sector.
-
-Public concerns that the Anti-Terrorism Bill as well as the Online Safety Bill, both pending in the House this month, will be used to suppress and repress protests, is therefore with good reason.
-
-For example, trade union action is currently in full swing against what some segments of the supplementary health sector allege is an unfair increase in allowances given to doctors.
-
-That action can quite easily be brought within Clause 3 (2)(g) of the Anti-Terrorism Bill which defines ‘causing serious damage to the health and safety of the public or a section thereof’ as a ‘terrorist act.’ Legitimate trade union action, however justifiable or not as the case may be, can be construed as acts that cause ‘serious damage’ to public health and safety with the aim of compelling the Government to ‘do or abstain from doing’ any act.
-
-In fact, the long list of prohibited behaviour in Clause 3 (2) gives rise to justifiable apprehensions. Clause 3(2) (e) brings in ‘causing ‘serious damage to any place of public use, a State or Governmental facility, any public or private transportation system or any infrastructure facility or environment within the confines of an ‘act of terrorism.’ These catch up protest actions that may normally ensue in regard to which offences already exist in a plethora of penal laws.
-
-The Bill itself demonstrates overlap between behaviour that may come within ‘ordinary’ penal prohibitions and ‘terrorist’ acts in several instances all of which cannot be analysed here due to lack of column space. The media is particularly targeted which reflects concerns that the Bill is being put forward for collateral purposes. Suffice to say that the zealous use of such powers may well result in large swathes of citizens becoming ‘terrorists.’
-
-For Sri Lanka’s minorities who have had to perennially struggle with bad anti-terrorism laws, this would be poetic justice indeed. The Government has pleaded that it is following the United Kingdom’s counter-terrorism law but that is a dead argument.
-
-Those laws themselves have been consistently rejected for enabling indefinite detention, suspension of human rights obligations and flouting safeguards that have long been a bedrock of the British criminal justice system. Such objections have even stronger force here.
-
-Catastrophic consequences ensue when badly drafted laws are arbitrarily wielded in a country with fragile Rule of Law checks. How can it be said that the power to issue Detention Orders by the Secretary to the Ministry of Defence upon application by the IGP will not be misused when our entire history of emergency/anti-terrorism laws speaks to the contrary? The Supreme Court has reprimanded these officers for abusing their powers, they have even been put into jail.
-
-So, these clauses are not a great victory magnanimously granted to the unfortunate public on whose collective neck, this yoke is attached. And to answer the Justice Minister’s question in Parliament, there is little point in searching with a torchlight to locate those elusive countries that have seen fit not to enact counter-terror laws.
-
-The solution for Sri Lanka is to enact a narrowly drafted Anti-Terror Act that does not cause unholy confusion between who is a terrorist and who is not. We saw this very well in the horrific events of the 2019 Easter Sunday attacks by homegrown ‘jihadists’ allegedly in league with elements of the country’s counter-intelligence apparatus as repeatedly denunciated by the Catholic Church.
-
-This Bill will not solve any of those problems. Rather it has the awful potential to aggravate random politicisation of anti-terror mechanisms and measures. This can only lead to a muddling of the waters which risks being highly deleterious to national security itself.
-
-## Former Badulla MP Chaminda Wijesiri  says what made him resign from Parliament was the sense of betrayal he felt when his own SJB Colleagues Failed to Support him at the Parliamentary Ethics Committee against him
-
-*2024-01-14 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83432)*
-
-On Parliament’s first sitting day on Tuesday, Badulla District Samagi Jana Balawegaya (SJB) parliamentarian Chaminda Wijesiri, making a shocking announcement, told the House that he chose to resign as the people had rejected all 225 MPs in the present Parliament and that it no longer had the people’s mandate.
-
-Mr. Wijesiri also said the immense difficulties he faced the previous week compelled him to submit his resignation as an MP.
-
-Those difficulties related to a complaint against him being taken up by Parliament’s Committee on Ethics and Privileges. What caused him “immense pain” and finally prompted the disillusioned MP to resign was the sense of betrayal he felt after some of his own SJB colleagues failed to support him at this inquiry, Mr. Wijesiri told the Sunday Times.
-
-He said he had to appear before the Ethics and Privileges Committee due to a complaint that he had used abusive language against a senior Parliament official. According to the former MP, the complaint stemmed from an incident several months ago when he wanted to make a speech earlier than scheduled as he had to pick up his child. Mr. Wijesiri claimed Assistant Opposition Whip Gayantha Karunathilake had asked Parliament officials to allow him to make his speech earlier, but one Parliament official did not permit this. “I was incensed by this action, and when the opportunity was given to speak, the tone of my speech changed according to my emotions. I called the official a thief and a political thug.”
-
-MPs have said far worse things in the Chamber and even got into fights without facing censure, Mr. Wijesiri claimed, adding that he was, however, called up before the Ethics and Privileges Committee.
-
-In the months leading up to this incident, the former MP had been alleging that the government was trying to get out of answering questions he raised over culpability regarding the Central Bank bond scam. “The bond scam contributed immensely to the collapse of the Yahapalana Government. President Ranil Wickremesinghe is the main accused in this matter, and current ministers in the government accused the president directly when they were in the opposition. When I kept raising questions on this issue, these ministers chose to duck the issue or use various tactics to avoid answering them. That also raised suspicions in my mind that some Parliament officials too might be aiding them.”
-
-Mr. Wijesiri said he was able to argue his case successfully and was subsequently ruled innocent at the inquiry. “What caused me immense pain, however, was that some of my own party colleagues who were supposed to give evidence on my behalf changed their testimony despite audio from Parliament clearly picking up what was said,” he said, accusing some SJB MPs of making “false statements” when giving evidence. He said he could not speculate why.
-
-He alleged that the Hansard of the speech contained a word he had never used during the speech and that the Committee had been given a fake list containing the names of MPs who were due to speak on the day in question. “I asked the committee to check the video and audio of my speech to see if I had used the word I had allegedly used, but they could not find it. I was also able to show that I could have been given an earlier time to speak since the MP who was supposedly above me on the speakers’ list did not have a speech allocated for that day.”
-
-While it was the inquiry before the Ethics and Privileges Committee that ultimately pushed him into resigning, Mr. Wijesiri said his “disillusionment” with being a parliamentarian started sometime before, particularly after a wave of public disgust over the current group of MPs.
-
-“I have retired from active politics. If I return, it will again be from the SJB, but I don’t believe the SJB wants my brand of politics. I am at peace with my decision, said the former MP, who was first elected to Parliament in 2015 before being re-elected in 2020.
-
-He also scoffed at allegations made by some government MPs that he had taken Rs. 900 million to give up his Parliament seat. “The reputations of those who level those allegations speak for themselves. They are people who started with a salary of Rs. 1,800 but have gone on to buy houses overseas after becoming MPs. I was a successful businessman before entering politics. I earned around Rs. 5–6 million a month. My father, too, was a successful businessman with vast business interests.”
-
-Despite his disillusionment with parliamentary politics and the SJB, Mr. Wijesiri insisted he had no ill feelings towards Opposition Leader Sajith Premadasa. “He is not a deal-maker. It was he who led the effort to hold those who bankrupted this country to account, and it was thanks to him that the Supreme Court ultimately found them guilty of doing so. Others just showed files to the media. We have faith that he will create a more civilised brand of politics,” Mr. Wijesiri said of his former leader.
-
-Nevertheless, this did not mean that he supported Mr. Premadasa in all his decisions, he said. “I regret some of the decisions he took, but I will not go into them as I see signs that the SJB is in the ascendency and its victory will be advantageous to the country. I don’t want to rock the boat by airing those regrets in public,” he said.
-
-## ஆற்றில் அடித்துச் செல்லப்பட்ட பல்கலைக்கழக மாணவன்
-
-*2024-01-13 21:37:22 - [tamilmirrorlk](https://www.tamilmirror.lk/மட்டக்களப்பு/ஆற்றில்-அடித்துச்-செல்லப்பட்ட-பல்கலைக்கழக-மாணவன்/73-331453)*
-
-மட்டக்களப்பு - களுவாஞ்சிகுடி பொலிஸ் பிரிவுக்குபட்பட்ட ஓந்தாச்சிமடத்திற்கும் கோட்டைக்கல்லாறு பகுதிக்கும் இடைப்பட்ட ஆற்றில்  இன்று தோணியில் மீன் பிடித்துக் கொண்டிருந்த இளைஞன் ஒருவர் ஆற்றில் அள்ளுண்டுபோய் காணாமல்போயுள்ளார்.
-
-குறித்த ஆற்றில் நீர் மிகவும் வேகமாக கரைபுரண்டோடிக் கொண்டிருக்கின்றது. இந்நிலையில் குறித்த இளைஞன் தோணியில் மீன் பிடித்துக் கொண்டிருந்துள்ளனர்.
-
-அவ்வேளையில் நீரோட்டத்தில் சிக்குண்டு அவரது தோணி கவிழ்ந்துள்ளது. இதன்போது ஆற்று நீரில் அடித்துச் சென்றுள்ளதில் அவர் காணாமல் போயுள்ளார்.
-
-இவ்வாறு காணமால் போனவர் ஓந்தாச்சிமடம் கிராமத்தில் வசித்துவரும், கிழக்குப் பல்கலைக் கழக மாணவன் அன அடையாளம் காணப்பட்டுள்ளார்.
-
-இந்நிலையில் அவர் மீன்பிடித்துக் கொண்டிருந்த தோடி உடைந்த நிலையில நீர் நிரம்பியவாறு கரை ஒதுங்கியுள்ளது. எனினும் காணாமல்போன இளைஞனை மீனவர்களும், உறவினர்களும் இணைந்து தேடிவருகின்றனர்.
-
-## சோழன் உலக சாதனை படைத்த சிறுவனுக்கு கௌரவிப்பு
-
-*2024-01-13 21:28:31 - [tamilmirrorlk](https://www.tamilmirror.lk/மலையகம்/சோழன்-உலக-சாதனை-படைத்த-சிறுவனுக்கு-கௌரவிப்பு/76-331452)*
-
-அதிக ஞாபக திறன் மூலம் சோழன் உலக சாதனை புத்தகத்தில் இடம்பிடித்த மாற்று திறனாளியான மாணவன் பாக்கியராசா முரளிதரனுக்கு கல்வி இராஜங்க அமைச்சர் அருணாச்சம் அரவிந்தகுமார் நேற்று  கல்வி அமைச்சிக்கு அழைத்து பாராட்டி கௌரவித்து பண பரிசில்களை வழங்கி வைத்தார்.
-
-இந்த நிகழ்வில் கல்வி இராஜாங்க அமைச்சர் உட்பட கல்வி அமைச்சின் அதிகாரிகளும் கலந்து கொண்டனர். R
-
-## தாயுடன் தொடர்பை பேணியவரால் சிறுமிகள் துஷ்பிரயோகம்
-
-*2024-01-13 17:11:54 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/தாயுடன்-தொடர்பை-பேணியவரால்-சிறுமிகள்-துஷ்பிரயோகம்/175-331451)*
-
-களுத்துறையில் தாயுடன் தொடர்பை பேணிய நபரால் இரு மகள்மார் பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்திய நபர் கைது செய்யப்பட்டுள்ளார்.
-
-பாதிக்கப்பட்ட சிறுமிகளின் தந்தை 4 வருடங்களுக்கு முன்னர் மனைவி மற்றும் பிள்ளைகளை விட்டு பிரிந்து சென்றுள்ளார்.
-
-இந்நிலையில், இரு சிறுமிகளின் தாய் வேரொரு நபருடன் தொடர்பை பேணி வந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-பாதிக்கப்பட்ட சிறுமிகள் சுகயீனம் காரணமாக களுத்துறை வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது இரு சிறுமிகளும் பாலியல் துஷ்பிரயோகத்திற்கு உட்பட்டுள்ளமை தெரியவந்துள்ளது.
-
-தாயுடன் தொடர்பை பேணிய நபரே இரு சிறுமிகளையும் அவர்களின் வீட்டில் வைத்து பாலியல் துஷ்பிரயோகத்திற்கு உட்படுத்தியுள்ளார்.
-
-இது தொடர்பில் வைத்தியசாலை நிர்வாகத்தினர் பொலிஸாருக்கு தகவல் தெரிவித்ததையடுத்து சந்தேக நபர் பயாகலை பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-இந்த சம்பவம் தொடர்பான மேலதிக விசாரணைகளை பயாகலை பொலிஸார் மேற்கொண்டு வருகின்றனர். R
-
-## பெண் மீது பெற்றோல் ஊற்றி தீ வைத்த நபர் இவர்தான்... உங்களுக்கு தெரியுமா?
-
-*2024-01-13 16:41:11 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பெண்-மீது-பெற்றோல்-ஊற்றி-தீ-வைத்த-நபர்-இவர்தான்-உங்களுக்கு-தெரியுமா/175-331450)*
-
-கொழும்பு - ஆட்டுப்பட்டித்  தெரு பொலிஸ் பிரிவுக்கு உட்பட்ட பகுதியில் கடந்த 10 ஆம் திகதி பெண் ஒருவரை பெற்றோல் ஊற்றி தீ வைத்து கொலை செய்ய முயற்சித்த சந்தேக நபரை அடையாளம் காண்பதற்கு பொலிஸார் பொதுமக்களின் உதவியை நாடியுள்ளனர்.
-
-குறித்த சந்தேக நபர் கொழும்பு 13, ஆட்டுப்பட்டித்  தெரு, இலக்கம் 93/13 இல் வசிக்கும் மொஹமட் நிஜாம் மொஹமட்  சப்னிஸ் ஆவார்.
-
-சந்தேக நபர் பற்றி ஏதேனும் தகவல் தெரிந்தால், பின்வரும் தொலைபேசி எண்களில் தொடர்பு கொள்ளுமாறு பொலிஸார் கேட்டுள்ளனர்.  R
-
-## “118’’ க்கு அழைப்பெடுத்தால் தண்டனை
-
-*2024-01-13 13:26:07 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/118-க்கு-அழைப்பெடுத்தால்-தண்டனை/175-331449)*
-
-பொது மக்கள் பாதுகாப்பு அமைச்சினால் ஸ்தாபிக்கப்பட்ட 118 தொலைபேசி இலக்கத்திற்கு கிடைக்கக்கூடிய தகவல்கள் குறித்து மேலதிக நடவடிக்கைகள் எடுக்கப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர், சிரேஷ்ட பொலிஸ் அத்தியட்சகர் நிஹால் தல்துவ தெரிவித்தார்.
-
-இதன்மூலம், தேசிய பாதுகாப்பிற்கு நேரடியாகவோ அல்லது மறைமுகமாகவோ அச்சுறுத்தல் ஏற்படுத்தக்கூடிய பயங்கரவாத மற்றும் தீவிரவாத செயற்பாடுகளையும் இந்த இலக்கத்திற்கு வழங்க முடியும் என தெரிவித்துள்ளார்.
-
-இவை சார்ந்த முறைப்பாடுகள் தனிக் குழுவின் கீழ் கண்காணிக்கப்படும் என்றும் அவர் குறிப்பிட்டார்.
-
-மேலும், பொய்யான தகவல்களை வழங்கும் நபர்களுக்கு எதிராக சட்டம் அமுல்படுத்தப்படும் எனவும் தெரிவித்தார். R
-
-## மின்சார சபையின் விசேட அறிவிப்பு
-
-*2024-01-13 13:18:41 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபையின்-விசேட-அறிவிப்பு/175-331448)*
-
-மின்சார கட்டண திருத்த பிரேரணை தொடர்பான தரவுகள் பொது பயன்பாட்டு ஆணைக்குழுவுக்கு (PUCSL) அனுப்பி வைக்கப்பட்டுள்ளது.
-
-இது குறித்து கருத்து தெரிவித்துள்ள மின்சார சபையின் ஊடகப் பேச்சாளர் நோயல் பிரியந்த,
-
-நவம்பர் டிசம்பரில் நல்ல மழை பெய்தது. அதனால் மின்சாரக் கட்டணத்தின் மூலம் மக்களுக்கு அதிகபட்ச நிவாரணம் வழங்க நாங்கள் பணியாற்றி வருகிறோம்.
-
-0-30, 0-60 மற்றும் 0-90 யூனிட்களுக்கு இடைப்பட்ட மக்களைப் பற்றி பேசுகிறார்கள். அவர்களின் வாழ்க்கை நிலைமை மிகவும் கீழ் மட்டத்தில் உள்ளது.
-
-கண்டிப்பாக அந்த வரம்பில் உள்ளவர்களுக்கு குறித்த நிவாரணத்தை வழங்க கடமையாற்றுவோம் என குறிப்பிட்டார். R
-
-## மனித உரிமைகளை மலினப்படுத்தும் சர்வதேச நாணய நிதியத்தின் நிபந்தனைகள்
-
-*2024-01-10 19:58:00 - [virakesarilk](https://www.virakesari.lk/article/173640)*
-
-புதுவருடம் பிறந்து இரு வாரங்கள் கடந்துவிட்டன. சம்பிரதாயத்துக்கு வாழ்த்துக்களைக் கூறிக்கொண்டாலும், இந்த வருடத்தைப் போன்று எதிர்காலம் பற்றிய கவலையுடன் இதற்கு  முன்னர் வேறு...
-
-## Curtin பல்கலைக்கழகத்தின் Capstone செயற்திட்டம் பட்டதாரிகளுக்கு தமது தொழிற்பாதைகளை சிறப்பாக ஆரம்பிக்க ஊக்கமளிக்கிறது
-
-*2024-01-09 13:01:00 - [virakesarilk](https://www.virakesari.lk/article/173501)*
-
-பட்டப்படிப்புக் காலத்தில் அர்த்தமுள்ள ஒரு தொழிற்துறை அனுபவத்தைப் பெற்றுக்கொள்வது, மாணவர்கள் தமது தொழிற்பாதைக்கு சுமூகமாக மாறிக்கொள்வதற்கு ஒரு முக்கிய படியாகும். இத் தேவையை உணர்ந்து Curtin பல்கலைக்கழகம், தமது Capstone Computing Project (CCP) ஊடாக, பட்டப்படிப்பை பின்பற்றுபவர்கள் தெரிவு செய்யப்பட்ட தொழிற்துறைகளில் அர்த்தமுள்ள தொழில் அனுபவத்தைப் பெறுவதற்கும், தொடர்ந்து முன்செல்ல தேவையான திறன்களை வளர்ப்பதற்கும் உத்தரவாதம் அளிக்கிறது.
-
-CCP  ஆனது மாணவர்களால் தமது இறுதி ஆண்டு திட்டமாக மேற்கொள்ளப்படுவதோடு, இது அவர்களுக்கு கல்விசார் பணியாளர்கள், தொழிற்துறை பங்காளர்கள் மற்றும் நியமிக்கப்பட்ட வாடிக்கையாளர்களுடன் கலந்தாலோசித்து மென்பொருள் உருவாக்கல் செயற்திட்டங்களை நடைமுறைப்படுத்தும் வாய்ப்பைப் பெற்றுத் தருகின்றது.
-
-Curtin பல்கலைக்கழகத்தின் Capstone செயற்திட்டம் ஒரு ஆற்றல்மிக்க தொழிற்பாதையின் ஆரம்பப்புள்ளி  ஆகும். இது பட்டதாரிகளுக்கு நடைமுறை திறன்கள் மற்றும் தொழிற்துறையின் தேவைகள் பற்றிய விரிவான புரிதல் என்பவற்றை வழங்கி தாம் தேர்ந்தெடுத்த துறைகளில் அவர்களை மதிப்புமிக்க பங்களிப்பாளர்களாக நிலைநிறுத்துகிறது. இந்த செயற்திட்டத்தின் உறுதியான பலன்களில் விசேடத்துவம் பற்றிய ஆழமான புரிதல் மற்றும் தொழிற்துறைக்கான தடையற்ற நிலைமாற்றம் ஆகியன உள்ளடங்கும்.
-
-Curtin Colombo இல் பட்டப்படிப்பை தொடர்வதற்காக பதிவுசெய்யும் மாணவர்கள் இத்தகைய செயற்திட்டங்களின் மூலம் தொழிற்துறைக்கு தயார்நிலையில் பட்டப்படிப்பை முடிக்க முடியும். எதிர்வரும் 2024 பெப்ரவரி ஆட்சேர்ப்பு பற்றிய மேலதிக விபரங்களுக்கு, www.curtincolombo.lk ஐ பார்வையிடுங்கள் அல்லது 076 555 8989 என்ற இலக்கத்தில் ஆட்சேர்ப்பு அணியைத் தொடர்பு கொள்ளுங்கள்.
-
-## இன்னும்  நிரப்பப்படாமல் உள்ள மூன்று இலட்சத்துக்கும் அதிகமான அரச வேலைவாய்ப்புகள்; வயது, தகுதி அடிப்படையில்  காத்திருக்கும் இளைஞர் யுவதிகள்
-
-*2024-01-09 12:00:00 - [virakesarilk](https://www.virakesari.lk/article/173489)*
-
-பல்வேறு காரணங்களுக்காக சுமார் மூன்று இலட்சத்துக்கும் மேற்பட்ட அரச வேலைவாய்ப்புகள் நிரப்பப்படாமலுள்ளதாக தகவல் அறியும் சட்டத்தின் மூலம் தெரியவந்துள்ளது. 2022 ஆம் ஆண்டின் இறுதி வரை இந்த வெற்றிடங்கள் நிரப்பப்படுவதற்கு எந்தவித நடவடிக்கைகளையும் பொதுநிர்வாக உள்நாட்டலுவல்கள் அமைச்சு எடுக்கவில்லை.  இது தொடர்பில் அமைச்சரைவையின் மூலம் நியமிக்கப்பட்ட விசேட குழுவுக்கு என்ன நடந்தது என்பதும் தெரியவில்லை. அமைச்சுக்கள் ,திணைக்களங்கள்,முப்படைகள், மாகாண சபைகள் அரசாங்கத்துக்கு சொந்தமான நிறுவனங்களில் அங்கீகரிக்கப்பட்ட ஆளணி ஒதுக்கீடுகளாக ( Approved Cadre) 17,15,417 வேலை வாய்ப்புகள் உள்ளன. இந்த எண்ணிக்கையில் தற்போது பணி புரிபவர்களின் எண்ணிக்கை 13,93,883 ஆகும். நிரப்பப்படாமலிருக்கும் வெற்றிடங்களாக 321, 534 உள்ளன. இந்த தகவல்களை முகாமைத்துவ சேவைகள் திணைக்களம் தெரிவித்துள்ளது.
-
-## Whither the “Ilankaith Thamizhar” (Lankan Tamils) of Sri Lanka?
-
-*2024-01-09 03:33:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83418)*
-
-The ringing in of a new year is a time for reflection,re-appraisal and renewal. The year 2024 marks the 94th anniversary of universal franchise and the 76th anniversary of Independence from Britain for the Island nation. 2024 also marks the 15th anniversary of the end of its three decade long “civil” war.
-
-The effects of this lengthy  war were felt in all parts of the country and affected all of its people. While there is no denying that the war impacted on all the people of Sri Lanka it must be admitted that the Tamil people of the North and East bore the brunt of suffering . Also the Tamil inhabited regions of the North and East became in practice the theatre of war. The protracted nature of the conflict saw the north and east virtually turning into a “scorched earth”.
-
-The hopelessly beleaguered Tamils have paid a heavy price for engaging in this uneven war. The Tamil people have undergone a war  of lengthy duration that was in scale and scope excessively disproportionate to their numbers and capacity.The war may have ended but the consequences of prolonged conflict  are yet being felt and will continue to be felt for a very long time.
-
-It is against this backdrop that this column poses   the question  “Whither the  Tamils of Sri Lanka?”. It stems from the  latin  phrase “Quo vadis?”meaning “where are you going?”.Quo vadis is  translated in poetic form as  “whither bound?” or “whither goest thou?”
-
-The phrase has its origin in Christian tradition. It is supposedly the first words uttered by Jesus’s disciple Peter to the risen Christ. .Idiomatically  this phrase calls upon  individuals  and groups to evaluate  their sense of  direction and purpose, entreating them to reflect on their goals and  re- assess the consequences of their  current actions or future choices.
-
-Posing the question Whither the “Ilankai Thamizhar” (Lankan Tamils) of Sri Lanka?  at the beginning of the year in the month of January is qute relevant and apt within the Tamil ethos too. “Thai Piranthaal Vazhi Pirakkum” is a popular saying in Tamil about the month of January or “Thai” in Tamil. It’s meaning in English would be something like this – “When January is born, a way will dawn”.
-
-The birth of January in the Hindu Almanack is in mid-January according to the Western calendar. It generally co-incides with the Tamil harvest festival called “Pongal” or “Thaippongal”.It is usually a season of Thanksgiving and celebration.
-
-Amidst the atmosphere of festive joy, it is also a time of individual and group reflection where the past is re-examined critically, present re-assessed pragmatically and future plans renewed optimistically.
-
-It is in that context therefore that this column  focuses on the past,present and future of Sri Lankan Tamils in this series of  articles  titled “Whither the “Ilankaith Thamizhar”of Sri Lanka?. The objective is to briefly examine the past with the wisdom of hindsight, analyse the present and present a prognosis of a potential future. The articles will be published intermittently and not consecutively.
-
-This evaluation at this point of time is made necessary by the prevailing predicament of the Sri Lankan Tamils. It may not be an exaggeration to state that the Tamils of Sri Lanka are undergoing what is perhaps the worst phase in their post-Independence history.
-
-After gaining Independence, the inability or unwillingness of Sinhala and Tamil politicians to resolve their differences and evolve an equitable model of power sharing resulted in much ethnic friction. This friction escalated into war. Initially it was a low –intensive guerrilla insurgency. Subsequently it developed into positional warfare .Ultimately it was a full-fledged war of a very brutal nature.
-
-Decades of escalating war culminating in the military debacle of Mullivaaikkaal have resulted in the deaths of thousands of people – civilians, guerillas and security forces. The majority of civilian casualties are from the Tamil ethnicity.
-
-Apart from the loss of life there has also been a large loss of limb. Thousands of people have been physically affected in various ways like aerial bombardment, artillery shelling, landmines, explosions, crossfire etc. A large number of those affected are physically impaired or disabled.
-
-There has also been destruction of property and economic regression. Thousands of dwellings were destroyed or heavily damaged. Agriculture, fisheries, small industry etc have been severely curtailed. Educational, health ,transport facilities have eroded. Infra-structure has been demolished. Economic life has de-generated.
-
-Social and cultural activity has diminished. Large –scale social and cultural events have decreased considerably. There has been limited scope for meaningful aesthetic and creative pursuits. In recent times however there are many temple festivals. Schools too engage in sports and cultural activities.
-
-More importantly there has been a brutalisation of society and hardening of values. Much of the violence and criminal activity going on  now  in the north are symptomatic of a post-war society.
-
-In that context one issue overlooked or ignored is the psychological trauma and stress undergone by the people during the years of war. There has been very little psychological counselling. The First World War was for four years. The Second World War was for six years. But this intensive war has gone on for decades and decades. Moreover it was confined to a limited space. The people have paid a huge price.
-
-Mere statistics or journalistic descriptions cannot convey the abject ,forlorn situation facing  Tamils who suffered in this war. The families of disappeared, the families of detenues, the widows, the orphans, the single parent families, the broken households, the limbless, the bed –ridden, the poverty ,the ruins and the graves form together this colossal tragedy. How will this war-affected, impoverished people rise up from the dust-heap pr resurrect themselves from the ashes?
-
-Numerically the Sri Lankan Tamils are a depleted, decaying entity. Death, destruction and displacement have wrought havoc. The ravages of war leading to large-scale migration has resulted in more than a million Tamils relocating to various parts of the world.With their natural increase the Global Tamil Diaspora numbers over two million today. In recent times there has been a rapid increase in Tamils going abroad.
-
-Other reasons such as late marriage due to Dowry problems and a comparatively lower birth rate among more educated Tamils have also contributed to this population drop.
-
-The  last nationwide official census conducted in 2011/12 estimated the Sri Lankan Tamil polulation to be  2,269,266. The Indian Tamil population was 839,504. According to the 2011/12 Census there are 3,113, 247 Tamils (Sri Lankan and Indian)  living in Sri Lanka. Of these 1,611,036 Tamils are living in the Northern and Eastern Provinces. Another 1,502,211 Tamils live outside the Northern and Eastern Provinces. Hence the  North -Eastern Tamil population in Sri Lanka may have exceeded Three and a half million had not large scale migration taken place due to the war.
-
-Apart from  the  decline in   numbers , there has been a qualitative and quantitative change in demography too. The horrors of war and the destruction unleashed in the Northern and Eastern Provinces have resulted in  thousands of Tamils  moving  out of these provinces and seeking  new homes in other parts of the Country particularly Colombo and urban areas of the Western Province.
-
-On the other hand there has been much displacement and relocation within the Northern and Eastern provinces too. Many people have moved out of Internally displaced camps but are yet to return to their original homes. They live with relatives and friends or eke out a miserable living as squatters.
-
-There has also been a trend of families moving out of villages to semi –urban and urban areas. This in turn has transformed the demographics of these places. There are very few “original” inhabitants in some places and in many areas “new” communities of residents have evolved.
-
-A profound result of the war has been the militarisation of the North and East. Before the war began, there were only a few army, navy and airforce installations in the North and East. Security personnel were essentially confined to barracks.
-
-Today the situation is different. There is a pervasive security force presence in almost all areas of the North and East. The bitter reality is that there is little chance of this overwhelming military presence decreasing in the near future.
-
-Actually there is every likelihood of a permanent military presence in certain strategic areas. After decades of fighting a separatist war no government can be expected to withdraw or reduce the military presence in a very short time particularly when “vocal warriors” continue to beat war drums in the Tamil Diaspora. Furthermore militarization is needed to alter the demographic composition of Tamil areas through state aided colonization.
-
-In short, what we witness today is the sad spectacle of a proud people being reduced to deterioration, deprivation and resultant despair in their own land. There is a distinct disconnect between the travails and troubles of the Tamils living in areas comprising the “arena of war” and the chest –thumping rants and raves of sections of the Tamil Diaspora and Tamil Nadu polity.
-
-What is saddening now is the blatant failure of certain elements of Tamil society to comprehend or realise the serious nature of the Tamil predicament today. Like the Bourbons of France these segments seem to have learnt or forgotten nothing.
-
-While the silent majority of Tamils remain passive these “active” sections are once again hogging the megaphone vociferously. Their boasts and demands would make angels weep! Their discourse is provocatively confrontational. As a western diplomat observed to this writer “These guys dont seem to realise that the LTTE lost the war and as a result all Tamils are in a difficult situation”.
-
-The decimation of the tigers militarily has brought about an asymmetrical situation in the power equation. The Tamil people have been declining in almost every sphere since July 1983 but the LTTE had gradually set up a mighty military machine. As stated by this columnist in earlier articles the Tamils had descended horizontally as a people but the LTTE had ascended vertically as an armed force. Now with the LTTE gone the powerless Tamils in Sri Lanka are in dire straits.
-
-Had the LTTE transformed its military strength into political bargaining power at the appropriate time the Tamil people would certainly be in a better position. But this did not happen and today the Tamils as a people are in a difficult situation.
-
-Hard as it may be for some Tamils to admit the Tamil people today are entirely at the mercy of the Sri Lankan state. Despite lip service paid to the contrary by some  the reality today is that there is no effective support Internationally for the Tamil cause. There are Sinhala dominated government in Colombo and the disempowered Tamils have no  effective means to influence it. The LTTE by its acts of omission and commission  has caused irredeemable harm to the Tamil people
-
-There is a deep sense of personal sorrow as I write this article reflecting on the past and pondering about the future. It is a sadness that will not go away in a hurry. It is a sadness compounded by the fact that I foresaw this evolving tragedy and cried out for a course correction to the Liberation Tigers of Tamil Eelam(LTTE) publicly and privately. I urged the LTTE to convert their military muscle into bargaining power at the negotiating table and arrive at a federal or quasi-federal settlement  without pursuing the secessionist war.
-
-Not only was I one of the few Tamil voices in the wilderness but was also attacked viciously by LTTE minions as a traitor and lackey and sell-out for daring to speak truth to power. Today what I feared greatly has come to pass.
-
-What is unbearable about this tragedy is that it need not have happened. Unlike the Tsunami this could have been avoided but the mad dictates of militarism coupled with an irrational, unrealistic reading of the political, military and diplomatic situation has plunged the Tamils into a deep, deep morass.
-
-It is in  this  Situation that this column intends  to try and seek answers to the question “Whither the Ilankai Thamilar of Sri Lanka? This would be done in  forthcoming  articles  to be published intermittently. Tthe objective  is to realistically assess  the present plight of Sri Lankan Tamils and encourage the Tamil people to follow a pragmatic course of action that would enable the long suffering community  to better their lot and regain their rightful position under the Sri Lankan sun.
-
-This article appears in the “DBS Jeyaraj Column”Of the “Daily Mirror”dated 6 January 2024.It can be accessed here –
-
-## How Former  LTTE  Deputy Leader  Gopalaswamy Mahendrarajah alias “Mahathaya” was Arrested  on 3 August 1993 and Executed on 28 December 1994.
-
-*2024-01-08 18:18:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83402)*
-
-The  Liberation Tigers of Tamil  Eelam(LTTE) had for long enjoyed the reputation of being a cohesive ,monolithic organization.Whatever the differences within the LTTE, the Tigers, to their credit, were able to project to the outsider a picture of impregnable unity. Despite the rumblings of discontent that have arisen at various times within the LTTE, those sounds were never permitted to reach external ears.
-
-This “unity”  image however was seriously dented   in August 1993  when the then deputy leader of the LTTE , Gopalaswamy Mahendrarajah alias “Mahathaya” was taken into custody by the movement’s  former intelligence chief Shanmugalingam Sivashankar alias “Pottu Ammaan”. A large number of suspected Mahathaya loyalists were also arrested. The former tiger deputy chief was detained and interrogated on charges of plotting to overthrow tiger supremo   Prabhakaran and take over the  LTTE leadership. After 16  months of incarceration,   Mahathaya was executed on 28 December 1994.
-
-It was this writer who scooped  29 years ago,  the  news of Mahathaya’s arrest and detention at the hands of the organization of  which he was the deputy leader. I first broke the story in Tamil for te Tamil weekly “Muncharie”that I was editing in Toronto then. Subsequently I broke the story in the English language media through articles in the Indian newsmagazine “Frontline” and “The Island” English daily in Sri Lanka.
-
-The arrest,detention,interrogation and execution of tiger deputy chief Mahendrarajah alias Mahathaya is a sordid chapter in  LTTE history. The Tiger intelligence chief Pottu Ammaan was acting on the instructions of his boss and LTTE numero uno Veluppillai Prabhakaran. It is against this backdrop that this column focuses on the arrest and execution of Mahathaya with the aid of earlier writings.
-
-Both Prabhakaran and Mahathaya  hailed  from Valvettithurai (VVT) , a coastal town in Jaffna, which is considered the hotbed of Tamil militancy. They were  of the same  caste and also alumni. of the Chidambara College in VVT. Both were of the same age-group, Prabhakaran being born in 1954 and Mahathaya in 1956. Sharing a common political objective, they had been comrades  in the same organisation for more than 15 years. Mahathaya was inducted into the movement by Prabakaran himself.
-
-Mahathaya  was  the tiger supremo’s acknowledged deputy. Prabakaran was both the leader of the LTTE as well as its military chief. Mahathaya  was its deputy leader and also the president of the  political party of the Tigers, the People’s Front of Liberation Tigers (PFLT).
-
-What then were the circumstances that led to Mahathaya’s fall from grace? The answer could be gleaned  from pertinent events of the past.
-
-Mahathaya , the regional commander of the “Wanni”, comprising Vavuniya, Mullaitivu and Killinochi districts, was elevated as deputy leader in 1987. When Prabhakaran left for India in July 1987 prior to the signing of the Indo Sri Lanka accord, he appointed Mahathaya  as acting leader until his return. More importantly, he also authorised Mahathaya  to countermand, if necessary, any directive issued by Prabhakaran from Indian soil.
-
-Later it was Mahathaya  who signed on behalf of the LTTE the agreement on the North-East Interim Administration. When talks between the Tigers and former Sri Lankan President Ranasinghe Premadasa reached a decisive stage, it was Mahathaya  who led the LTTE delegation. When the LTTE announced its intention of entering democratic politics and formed its political party, Mahathaya  became its first president. The inaugural session of the PFLT in Vaharai in the Eastern Province was chaired by Mahathaya.
-
-Talks between the Sri Lankan Government and the Tigers broke down in June 1990. Fighting described as Eelam War II broke out. Mahathaya  continued  to engage in battle- oriented political activity. Branches called “Sittooravaigal” and “Perooravaigal” were responsible for much of the civilian administration activity of the LTTE. This included, among other things, the issuance of passes to travel outside the North, the collection of civilian taxes and donations, the settlement of civilian disputes and also management of income-generating enterprises run by the LTTE.
-
-Slowly, but surely, disenchantment set in. Charges of alleged mismanagement, corruption, abuse and misuse of powers by the PFLT branches began to be levelled on a low key. Wide- spread resentment against the PFLT branches began to grow.
-
-Even as this state of affairs was developing, rumours began to circulate that a rift had occurred between Prabhakaran and Mahathaya Earlier, during the days of the Indian Peace Keeping Force too similar stories including one which said that Mahathaya  had assassinated Prabhakaran were going around. These were subsequently proved false.
-
-Likewise, the second round of rumours too were dispelled when both the leader and deputy leader mounted the stage hand in hand and jointly addressed crowds at the “Muthamil Vizha,” a cultural festival at Chavakachcheri  in 1991.
-
-But 1992 saw the Sri Lankan armed forces under General Denzil Kobbekaduwa adopting a successful military strategy of encircling the Jaffna peninsula. A military thrust into the peninsula seemed possible and Jaffna was besieged with the “enemy at the gates’ ‘ threat. It seemed certain that the Tigers were about to revert to classical guerilla warfare, abandoning their entrenched positions in Jaffna.
-
-It was at this stage that Prabhakaran dropped a bombshell. Summoning his senior men, the LTTE supremo announced that he was dissolving the PFLT. All party branches were to be disbanded and the functions performed by them were to be implemented by the fighting cadres themselves. To the utter chagrin of Mahathaya , no explanation was given. Apparently, Mahathaya   had  not been consulted by Prabakaran on this issue. An official explanation was proffered by the LTTE for Prabhakaran’s unilateral decision.
-
-Mahathaya  was then sent on a special assignment to the East. After Kobbekaduwa and the Northern Command of the Sri Lankan Army were wiped out in a landmine blast on August 8, 1992, the military balance began to alter dramatically in favour of the LTTE. Mahathaya was recalled to Jaffna and placed in charge of refugee rehabilitation and the welfare of injured and maimed Tiger cadres.
-
-Despite this patch-up,  the wall of trust and friendship beween Mahathaya  and Prabhakaran had breached. The chasm began to widen as personal communication ceased. According to one ex-associate, Prabhakaran was waiting for Mahathaya to approach him while Mahathaya was anticipating  a personal invitation by the leader. It was almost like a lovers’ tiff. Members and well-wishers of the LTTE watched in dismay as the rift deepened. Everyone seemed powerless to arrest the dangerous drift of affairs in the Tiger hierarchy. Mahathaya  confided to a long-time friend, “I don’t know what mistake I have committed. I am waiting for the leader to clarify.”
-
-Mahathaya  began to adopt a low profile. He was virtually blacked out in the Jaffna newspapers. Also, he refrained from wearing military fatigues. While retaining his personal bodyguard of 70 cadres, Mahathaya  however traveled about only with a handful. He began avoiding public events, particularly those in which Prabhakaran participated. A case in point was former LTTE Jaffna commander  Kittu’s funeral house at VVT. Mahathaya kept away by day, but at night visited Kittu’s mother and paid his respects.
-
-But events took a turn for a worse. The long night of August 2 and 3 1993  saw a swift, sharp, surgical strike by the Tigers. Only this time the target was the “enemy within”. An undisclosed number of persons, estimated at over 200, were rounded up by the Tigers. They comprised Tiger cadres, ex-Tiger militants, helpers, supporters and so on. There was an underlying thread. All were persons considered to be close associates or well-wishers of Mahathaya. Many had been either visiting him or had been seen in his company in the recent past.
-
-Mahathaya  too was taken into custody in the early hours of 3 August 1993. His residence was surrounded by three elite Tiger groups. One was led by Balraj, commander of the “Charles Anthony” infantry brigade; the second by Sornam, chief of the ‘Leopards’ Commando Unit; and the third by Soosai, special commander of the ‘Sea Tigers’. Balraj personally requested Mahathaya  to accompany them. He did so instantly and clambered aboard the vehicle along with Balraj, Sornam and Soosai.
-
-Mahathaya’s wife  Yogeswary alias Kalpana, asked Balraj  where her husband was being taken. She was told that he was being escorted to Pottu Ammaan, the LTTE intelligence chief, on the orders of Prabahkaran. Later, Kalpana met Pottu Ammaan directly and inquired about Mahathaya. She was told her husband  was being detained in Kalvayal Chavakacheri and interrogated. The interrogation would take about six months and he could not be seen until that period was over said Pottu.
-
-It became known that Mahathaya  had anticipated such a development and had clearly instructed his bodyguards not to offer any armed resistance if he was arrested. While the trio consisting of Balraj, Sornam and Soosai had come prepared for an armed confrontation, Mahathay’s bodyguards did not fight. They were also arrested and had their weapons confiscated.Later, most of them  were released. But some reportedly refused to take back their weapons and expressed a desire to drop out of the movement.
-
-The circumstances that led to Mahathaya’s arrest were for some time. shrouded in mystery. It was LTTE chief Prabhakaran who lifted this veil of secrecy. In an uncharacteristic move, the Tiger supremo summoned a cross- section of Jaffna citizens who were long-time LTTE supporters. A ten- page charge-sheet against Mahathaya  was read out. Prabahkaran said Mahathaya had been asked to respond to the charge-sheet by July 31st 1993. Prior to that he had requested Mahathaya  to meet him, but the latter had responded negatively. After July 31 Mahathaya had been approached for his response but his curt rejoinder had been: “Let Prabhakaran come to me if he wants my explanation.” Therefore he had no choice other than to resort to this eourse of action, explained  Prahbakaran. Since Mahathaya’s state of mind was an unknown factor, he had resorted to a pre-emptive strike, rationalised the LTTE leader.
-
-Details of the alleged conspiracy were also revealed. According to the charge-sheet, India’s espionage agency Research and Analysis Wing(RAW)  was plotting to eliminate Prabhakaran and the higher echelons of the Tiger leadership. Plans were being drawn to create a ‘fifth column’ within LTTE ranks. The objective was to kill Prabhakaran and 10 other senior leaders, namely Balasingham, Pottu Amman, Balraj, Baby Subramaniam, Soosai, Sornam, Rathinadorai, Thamil Selvan, Karuna and Nadesan. The deputy leader Mahathaya was not included in this alleged list.
-
-The serious vacuum that would then occur was to be filled by Mahathaya. After consolidating his leadership, Mahathaya  would then cooperate in implementing the Indo-Sri Lanka accord. Under Indian supervision, a quasi – federal system would be set up for the North-East and Mahathaya  would be Chief Minister. Since Indian opinion blamed Prabhakaran for Rajiv Gandhi’s assassination, the LTTE supremo was politically unacceptable for any settlement and had to be exterminated. India could not risk a commando-type raid to kill Prabhakaran. So the RAW had hatched a plot to kill the LTTE leader in this manner and Mahathaya  was to be the cat’s paw!
-
-The charge-sheet also outlined particulars about  Manickavasagam Mahendraraja alias “Engineer”  of Punnalai Kadduvan/ Engineer  was a Tiger who had lost a leg in an operation at Tellippalai. He had left for India by country boat to obtain a Jaipur foot. In the aftermath of the Rajiv Gandhi assassination, “Engineer” too had been arrested. He along with Thiyagarajah a  native of Vadamaratchi  resident in Madras, had been brainwashed by RAW. They helped RAW weave the alleged web of conspiracy. Engineer had been sent to Colombo and, helped by Sri Lankan authorities, had reached the North.
-
-The suspicion of the TOSIS. (Tiger Organization Security Intelligence Service) had been aroused by the fact that Engineer, a noted Tiger cadre with a conspicuous Jaipur foot, had been released by Indian authorities and had also travelled safely through Colombo and Vavuniya without being arrested. Subsequently the Intelligence wing discovered the details of the ‘plot’. Engineer had informed Mahathaya  of the conspiracy scheme. Mahathaya had allegedly agreed, and clandestine plans were formulated for the implementation when the TOSIS struck.
-
-Whatever be the merits of the charge-sheet outlining details of the ‘conspiracy’ and of Mahathaya’s alleged role, it seemed  clear that Prabahkaran acted very cautiously then . The pre- emptive mass arrest of Mahathaya  supporters seemed  to have prevented any outbreak of open rebellion. Likewise, meetings with the public contributed to a groundswell of negative opinion against Mahathaya  at that point of time.
-
-Tthe LTTE’s International Secretariat based in London  issued a statement about allegations against Mahathaya, its one-time No. 2. A subsequent statement to a Netherlands-based radio journalist by Anton Balasingham, the LTTE’s political adviser, said that apart from Mahathaya, three others, had been expelled from the organisation. They were now being interrogated by the intelligence network TOSIS (Tiger organisation Security Intelligence Service) headed by Pottu Ammaan.
-
-According to other reports, a video  film of Mahathayas ‘  alleged confession’ was also circulated. The LTTE leader  also consulted cadres about. Mahathaya’s  alleged treachery  and the punishment to be meted out to him. The majority opinion among the cadres would be adhered to. However, Prabakaran had earlier  gone on record that “traitors”, regardless of who they were  would be dealt with in the same manner as the EPRLF and TELO.
-
-Despite the facade of ‘revolutionary justice’ being meted out to Mahathaya, the action taken by the LTTE  had all the hallmarks of a kangaroo court. As in Kafka’s The Trial, the verdict  had  been already arrived at. The basic tenets of natural justice were violated. The principle of the presumption of innocence unless proven guilty has been convoluted into the presumption of guilt unless proven innocent. Ironically, Mahathaya  too in his heyday of power violated these principles and meted out summary justice, resulting in cold-blooded execution.
-
-After a while , residents of Jaffna were  asked  by Tiger cadres to remove portraits of Mahathaya  hanging in their homes. Pictures of Mahathaya  had already  been removed from LTTE establishments. Rumours began circulating that Mahathaya was no more. LTTE members when asked would reply”His story is over. Don’t ask anything. Forget him”.
-
-It was now widely believed that Mahathaya had been executed by the LTTE. But  there was no exact information about when Mahathaya was killed until LTTE Political strategist Anton Balasingham’s spouse Adele Balasingham’s book “The Will to Freedom ‘ was published in 2001. In that  book Adele Balasingham wrote that Mahathaya was executed  on 28 December 1994. She also provided the LTTE perspective on the matter. I conclude this article with relevant excerpts from Adele Balasingham’s book-  –
-
-“Mahathaya and some of his close associates were arrested by the LTTE’s intelligence wing for conspiring to assassinate Mr Pirabakaran. In a massive cordon and search of his camp in Manipay – supervised by senior commanders of the LTTE – Mahattaya was taken into custody along with his friends. We were shocked and surprised by this sudden turn of events. “
-
-“Mr Pirabakaran, who visited our residence that day, told us briefly of a plot hatched by the Indian external intelligence agency – the RAW – involving Mahattaya as the chief conspirator to assassinate him and to take over the leadership of the LTTE. He also said that further investigations were needed to unravel the full scope of the conspiracy.”
-
-“The investigations took several months to complete. Mahattaya, his close associates involved in the conspiracy and several other cadres, who functioned directly under him, were thoroughly investigated. Finally a complete story of a plot emerged.”
-
-“ Confessions by all main actors were tape recorded and video filmed. The leadership also arranged a series of meetings for all the LTTE cadres to explain the aims and objectives behind the plot. Apart from Mahattaya, other senior cadres who were involved in the conspiracy were allowed to make public confessions during those meetings confirming their involvement. “
-
-“It was a complicated and bizarre story of the Indian intelligence agency establishing secret contacts with Mahattaya through his close associates, with the promise of huge funds and political backing from India, if the plot succeeded and the LTTE leadership was eliminated.”
-
-“ A former bodyguard of Mr Pirabakaran was secretly released from the Indian jail in Tamil Nadu and trained as the main assassin. He was sent to Jaffna with an intriguing story of a successful jailbreak as cover. His assignment was to plant a time bomb in Pirabakaran’s bedroom as a part of the overall plot planned by Mahattaya. The young man as soon as he landed in Jaffna was once again included amongst Mr Pirabakaran’s bodyguards. Surprisingly, just a few days before his arrest, he visited our residence to tell us fabulous stories about his jail break.”
-
-“ The investigation established without any doubt that Mahattaya was the chief conspirator. The plot was to assassinate Mr Pirabakaran and some senior commanders loyal to him and assume the leadership of the organization. On 28 December 1994, Mahattaya and a  few of his fellow conspirators were executed on charges of conspiracy to eliminate the leadership.”
-
-This article appears in the “Political Pulse” Column of the “Daily FT”dated 3 January 2024.It can be accessed here –
-
-## Lasantha’s  “Sunday Leader”’ was a long and sustained “Aragalaya”  against Racism,Nepotism and Corruption and the newspaper was an early warning system coupled with a call to action.
-
-*2024-01-08 18:00:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83412)*
-
-(Text of message delivered at Lasantha Wickrematunge’s Grave, Borella on 8 January 2024)
-
-Fifteen years is a long time. A very long time to wait for justice and closure.
-
-Just now we spoke about keeping memories alive. Memories stay strong and our memories have made this gathering possible.
-
-But why are we here? What do we remember about Lasantha that makes us visit his grave? Is it to weep at his grave? What is it that we remember of him and celebrate about him? Please take a moment to reflect on our reasons for being here.
-
-I think we do not want to forget. And there is much we do not wish to forget.
-
-I come from Lasantha’s empowering editorial. There is much in my life that has changed for the better due to his guidance.
-
-The anti-corruption reporting is a humble tribute to this great man. Lasantha was extra ordinary. He was an endearing human being, a trail blazer, a brilliant journalist, lawyer, and a humanist. He contained multitudes. He was also a man who had the courage to propose and mainstream an alternate media narrative, unpopular with those in power but a vivid reflection of the times.
-
-We often speak of hate narratives and regularly discuss dangerous speech and its multiple impacts on people and entire communities. Raisa spoke about how journalists in the North and how their legacies are hardly remembered. She spoke of all the other journalists in Sri Lanka, waiting for justice and closure. She was correct. Journalists who were killed, assaulted, maimed, and driven out. We remember all of them.
-
-But let me remind this gathering that no other southern editorial has experienced hate and violence the way we have. We are a case study. Bombs have been hurled. There had been arson attacks, raids, frivolous litigation, and general harassment. The ultimate was to have The Sunday Leader’s editor eliminated. That is the price this southern newsroom paid.
-
-But why were we targeted? Why was Lasantha singled out? The hate narratives were created and powered by the rulers at the time. And long before hate and dangerous speech became a key topic of discussion, journalists at the Leader and their editor were dealing with daily doses of hate and abuse.
-
-I would now like to read a quote from a long interview given by Lasantha in October 2008, months before his assassination, for a report on the status of media in Sri Lanka which I compiled for the Asia Media Forum.
-
-I quote: “There is a dangerous matser narrative created. Unfortunately, the media too plays a role in promoting racism and in polarising people. It is the heroism of some at the expense of some others that we promote. In promoting hate, some journalists are as complicit as some politicians. This calls for a review of how we practice our craft and why we have chosen to practice it? Should we not tell stories of all people, of their angst, their suffering, the things that irk, the things that hurt, their quests for justice?” Unquote.
-
-Lasantha made a choice, and this was not to tell the story only from the perspective of the victor. There was space for the vanquished and the survivor.
-
-In storytelling, he championed public-spirted journalism and ensured the content was analytical, insightful, and humane. It is that last word ‘humane” that often goes missing in much of the storytelling. In presenting an alternate narrative – quite unpopular with some sections – Lasantha put people at the centre of storytelling. He kept the nation well-informed.
-
-There is also a lot of talk about being a patriot. It is Lasantha’s take on this much-abused word ‘patriotism’ that made me reflect. This word should ideally unite, but in Sri Lanka, it if often used to divide. Lasantha unpacked it differently.
-
-There is patriotism that s blind and meek, endorsing acts and omissions of those with power, or drunk with power. And then there is a fiery form of patriotism that does not let you rest; that denies you sleep. The kind that asks questions, demands responses and cares to speak truth to power. That is the brand of patriotism Lasantha subscribed to.
-
-The stories we told were questioned regularly. There were angry responses to how we told those stories. We were often trashed. Our storytelling was ridiculed, motives were assigned and the content condemned. There was frivolous litigation. Ours was labelled as ‘yellow journalism.’
-
-Over the years, those very same stories have gained public value. The stories have turned red, become stark, stood out as symbols of truth. These ‘yellow’ stories forewarned the tragedy this country was destined to go through. These stories eventually were recognised among the few true accounts of the failure of governance in Sri Lanka. They reflected the systemic issues that eventually made this beautiful country collapse – and caused public outrage.
-
-It is perhaps fate, that 13 years after Lasantha’s gruesome murder, the same stories were turned into effective slogans by angry citizens who commenced protests to demand accountability, an end to corruption and family rule. The Leader was raising these issues 15 years ago, and way before that.
-
-In my view, Lasantha’s was the embodiment of a journalistic ‘Aragalaya.’ He did it way before people began accepting nepotism and corruption to be a deadly mix. Lasantha on the other hand, has done everything possible to warn this nation. Risking his life, he told stories that others would not dare tell.
-
-Let me conclude by reading a portion form my testimony before the People’s Tribunal in May 2022. It will serve all of us as a reminder of what Lasantha raged against.
-
-Here’s The Sunday Leader’s own diagnostic card for this nation. It’s 15 years old but holds true, even today. It shows without a trace of doubt that Lasantha’s was the long and sustained Aragalaya and the newspaper was an early warning system coupled with a call to action.
-
-• Early identification of an authoritarian regime in the making
-
-• Normalisation and mainstreaming of nepotism to create a family brand.
-
-• Strategic weakening of public institutions, the public service, and politicisation, and militarisation of society
-
-• Lack of commitment to protect the dignity and rights of all people.
-
-I hope these words cause you pain. I hope they make you reflect on our own actions and apathy.
-
-15 years is a long time – to anticipate closure. To find criminal justice delivered to a man who spoke on behalf of all of us, whether we stood with him or not.
-
-Impunity takes many forms. The absence of violence does not mean impunity has ended. Impunity is also the delays and derailments of justice. It is also about people who do not care. It is about what we tolerate, ignore, and allow to be normalised.
-
-Here lies an innocent man, killed for his work. For speaking truth to power. His killers roam free.
-
-He would want to reach from his grave and ask you to break that deafening silence; to stand up for what is right, to fight tyranny and injustice, to end to corruption. He would want us to draw from his rebellious spirit, find inspiration, and own our citizenship. Is it too much to ask?
-
-We all deserve a better country now destroyed beyond redemption by our politicians. We all deserve better. Why should we forget? Let us not forget. Let us keep reminding ourselves of the injustices done, the crimes committed!
-
-Be outraged. Do that one small thing to improve things. Let us break the silence of apathy and inaction. Let us not forget.
-
-## An unholy nexus between police abusers and politicians is very much out in the open, in the highly mis-titled ‘Yukthiya’ (‘Justice’) operation spearheaded by Public Security Minister Tiran Alles and Acting IGP Deshabandu Tennekoon.
-
-*2024-01-07 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83407)*
-
-Whether in regard to war crimes, gross corruption or economic white collar crimes, unearthing accountability in Sri Lanka is somewhat akin to peeling away multiple layers of a rotten onion. First, the stench overwhelms you. Secondly, each layer is correspondingly more decayed than the previous. Finally, one is left with the core which is but a revolting mass of pulpy nothingness, to be consigned to the dustbin.
-
-These less than propitious thoughts at the dawn of a less than propitious New Year are compelled by the necessary (albeit reluctant) scrutiny of the Bill seeking to establish a so-called ‘Commission for Truth, Unity and Reconciliation.’ Essentially, if a private entity with more money than commonsense wished to establish bodies with grievously overlapping mandates such as an Office on Missing Persons (OMP), an Office for National Unity and Reconciliation and now, a Commission on those same lines, that is not our business.
-
-If so, we may hold our tongues and say ‘good luck’ to that process. But the problem is when the State spearheads these efforts, when ‘showpiece’ bodies are touted as being what Sri Lankan victims have asked for and when public funds of no inconsiderable amount are expended. Finally, the ‘mountain in labour gives birth to a mouse,’ which must inevitably be the case. And then, where are we? Worse off than before.
-
-Why is a ‘mouse’ so inevitable, someone might ask? In July last year, I answered that question in a caustic reflection as apt now as it was then (‘Go to the law, not another truth and reconciliation charade’, Focus on Rights, July 2nd 2023).
-
-Pointing to thousands of cases where the criminal justice law had been subverted to prevent accountability for extraordinary human rights violations, it was reminded that the priority is to correct systemic failings.
-
-That included state prosecutors mishandling prosecutions in regard to ‘torture’ and other grave crimes, Magistrates hearing inquiries being transferred, family members of victims not allowed to be represented and pardons conferred by the Office of the President on convicted perpetrators of state-sanctioned murders of civilians. Systemic breakdowns in accountability are common from the South to the North.
-
-Abusive and deeply entrenched state security and police structures operate at their whim and fancy. In fact, impunity has only increased under the command of an Acting Inspector General of Police who continues in his post despite a Supreme Court judgement holding him directly responsible for torture in custody.
-
-An unholy nexus between police abusers and politicians is very much out in the open, in the highly mis-titled ‘Yukthiya’ (‘Justice’) operation spearheaded by Public Security Minister Tiran Alles and Acting IGP Deshabandu Tennekoon.
-
-As the Bar Association of Sri Lanka recently cautioned with justifiable alarm, ‘arbitrary arrests, police raids without proper warrants and extrajudicial killings… not only undermine the bedrock principles of justice but also erode public confidence in the integrity of law enforcement agencies.’
-
-That is, if any measure of ‘public confidence’ still exists in the ‘integrity’ of the law enforcement process, we must add. The warning that even criminals have the right to due process had been echoed earlier by the Supreme Court in relation to the Acting IGP (Weheragedera Ranjith Sumangala v Bandara, Police Officer and others, SCM 14.12.2023).
-
-The Court advised the Department of the Police that, ‘Even reconvicted criminals of the most notorious kind are entitled to their fundamental rights.’ All this is, of course, familiar stuff. The steps contingent to an arrest in observing due process, had not been followed in the arrest and torture of an ex-soldier implicated to incidents of theft. This led to the Court holding that a rights violation had been committed.
-
-Meanwhile the Bench’s observation that ‘while findings of fundamental rights are ample, the wrongdoers – specially the big fish in the pond –  are seldom held duly accountable,’ seems (unfortunately) to be apposite in the Weheragedera case as well.
-
-For the decision seems scarcely to have ruffled the feathers of the Acting IGP in question, his patron Minister or the ruling establishment, for that matter. The National Police Commission has been dithering in taking ‘appropriate disciplinary action’ against those implicated. Public appeals to the Attorney General to commence action under the criminal law have been met with a deafening silence.
-
-Replicate this instance by a thousand fold and we have the ‘rotten onion’ of state accountability, as much for the majority as for the minorities. Systemic subversion of the legal system is why no prosecution for emblematic human rights violation has been successful in recent decades. How can that not be the case when the political establishment (Government as well as Opposition) lack the requisite will?
-
-For victims of minority ethnicity, this is punishment upon punishment. That goes beyond the police arresting protestors of Tamil ethnicity heckling the President on his visit to Jaffna this week. That is classic state ‘over-reach,’ predictable and slightly ridiculous.
-
-But the State’s recourse to ‘transitional justice’ bodies without ‘justice’ speaks to systemic manipulation of the law to entrench inequity. And while it may be well and good to cynically ‘engineer’ these mechanisms, the vexed question of state accountability will always surface.
-
-The Bill on ‘Truth, Unity and Reconciliation’ envisages a gargantuan body of not ‘less than seven’ and ‘not more than twenty one members.’ Appointment/removal of members by the President is through ‘recommendations/concurrence’ of the Constitutional Council (CC). Certainly a degree of justifiable scepticism arises in the degree of confidence that can be placed in that safeguard, given the CC’s approval of a controversial Acting IGP.
-
-That apart, what the ‘Truth Commission’ has been tasked to do is much of the ‘same old, same old.’ Its mandate is to investigate, inquire and make recommendations in regard to inter alia, violations of human rights, ‘caused in the course of, or reasonably connected to or consequent to the conflict that took place in the Northern and Eastern provinces during the period 1983-2009 or iots aftermath.’
-
-This hugely long period of time, not only duplicates the work of previous Commissions (this body is empowered to examine those recommendations as well) but makes its task that much more complicated. Its powers are considerable, including ‘search and inspection’ under a magisterial search warrant.
-
-The Commission will also have the power to excavate or observe excavations of suspected sites of mass graves, similar to the authority given to the OMP.
-
-But the nub of the Bill  lies in clause 16 (2) where the Attorney General is empowered to institute criminal proceedings based on material collected during a Commission process.
-
-Specifically, the Commission’s recommendations shall not be ‘determinant’ of civil or criminal liability, the preceding sub-clause details. So, what else is new?
-
-This is exactly what happened with previous such bodies, exactly where the exercise failed and exactly why we talked disparagingly about the ‘mountain and the mouse.’
-
-The mistake lies in even expecting that things may be different, as for example, that the Office of a Special Prosecutor may have been empowered to handle these cases. The challenges of the Commission in addressing state accountability remain formidable. Would victims not be better off without these bodies that the Government parades in Geneva, New York and elsewhere to placate its critics?
-
-At least, the state coffers will not be deprived of scarce resources diverted towards  largely redundant exercises.
-
-## Gruesome Killing of Five Tamil Students in Trinco Town: Emblematic Case of Impunity
-
-*2024-01-05 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=75623)*
-
-(This article written in January 2022  is re-posted  here without changes to mark the 18th anniversary of the gruesome killings)
-
-A  solemn, low key memorial   event was  held in Trincomalee town on Sunday January 2nd. Relatives and friends  laid flowers and lit candles and lamps in memory of five Tamil youths killed  in  Trincomalee town on Jan 2nd 2006. The incident  that happened sixteen years ago  for which justice was not done  is widely known among human rights circles as the “Trinco – 5” case of Sri Lanka. It is regarded as an emblematic case of impunity. So much so that the UN High Commissioner for Human Rights Ms. Michele Bachelet mentioned the incident under the section on “Impunity in emblemtic cases” in her  Annual report to the UN Human Rights Council in March 2021.The relevant excerpt   is as follows –
-
-“In previous reports to the Human Rights Council, OHCHR has tracked the investigation and prosecution of emblematic cases as a key measure of Sri Lanka’s commitment to ending impunity.  These include the killing of five Tamil students in Trincomalee and of 17 humanitarian workers in Muttur in 2006; the assassination of journalist Lasantha Wickrematunge in 2009; the disappearance of journalist Prageeth Eknaligoda in 2010; the killing of protestors by army personnel during a demonstration at Weliwerya in August 2013; the anti-Muslim riots in Aluthgama in 2014 and Digana, in 2018, as well as others. Despite investigations over the years by domestic Commissions of Inquiry and the police, and the arrest of some suspects and trials at bar, not a single emblematic case has been brought to a successful conclusion or conviction.”
-
-Wha then is the Trinco -5  case and why has justice not been done so far? The killing of  Five Tamil students and the injuring of two others in Trincomalee is an incident  about which I have written before. In fact  it was I who first wrote extensively about it   in an  English newspaper in January 2006. I shall therefore re-visit the incident and subsequent developments   relying on some of my earlier writings.
-
-Five Tamil Students were killed near the beach in Trincomalee town sixteen years ago on January 2nd 2006. Two other students also suffered injuries but survived. The names and the dates of birth of the five victims were: (i) Manoharan Ragihar- 22.09.1985, (ii) Yogarajah Hemachchandra – 04.03.1985, (iii) Logitharajah Rohan – 07.04.1985(iv) Thangathurai Sivanantha – 06.04.1985, and (v) Shanmugarajah Gajendran – 16.09.1985. The two injured youths were Yogarajah Poongulalon and Pararajasingham Kokulraj.
-
-The official version put out first was that all seven were members of the Liberation Tigers of Eelam(LTTE) who had been armed with grenades with the intention of attacking a security forces post. The grenades had exploded accidently killing five and injuring two. But the initial claim was soon proved wrong.The post mortem conducted by Dr.Gamini Gunatunga the Judicial Medical Officer in Trincomalee determined that the five had died from gunshot wounds. Three had been shot in the head at close quarters, while two died from shots to the chest and abdomen. Some had injuries that were not caused by gunshots. . The Trincomalee Magistrate Mr. V. Ramakamalan conducted a magisterial inquiry and recorded an interim verdict of gunshot injuries.
-
-Reliable reports in the media as well as by reputed human rights organizations pointed the finger at sections of the security forces stationed in Trincomalee. The war against the LTTE was being renewed and fought at that time. On Feb 12th 2006, some members of the Police and Special Task Force(STF) were taken into custody in connection with the killings. However they were released in April that year for want of tangible evidence. The then Attorney -General, C.R. de Silva issued a directive then that the case should be pursued again if the Prosecution acquired fresh evidence.
-
-The Sri Lanka Human Rights Commission then chaired by Dr.Radhika Coomaraswamy appointed former High Court Judge T. Sundaralingam as a special rapporteur to probe the killings. His report was submitted on March 31st 2006 to the HRC. The report was not publicized due to some procedural hassles and transitionary issues at the HRC. The HRC chairperson Dr. Coomaraswamy’s term of office too had ended on Mar 31st 2006 and she flew to New York that night to take up her new post as UN under secretary in charge of Children in armed conflict. Since the report could not be released unilaterally by the chair and required the full approval of the commission Dr. Coomafaswamy had left it  in her “hand over docket” for her successors for follow up action.
-
-Sri Lanka’s president at that time was Mahinda Rajapaksa.Unfortunately Mahinda Rajapaksa who had been a human rights activist during the UNP regimes of JR Jayawardene and R.Premadasa had changed track after becoming President in 2005. The human rights commission was given step motherly treatment and many of the appointments made to the HRC left much to be desired. Gradually the HRC became highly politicised and lost its lustre and effectiveness during the  Mahinda Rajapaksa period. The Sri Lankan Human Rights Commission suffered great loss of prestige when it was re-classified into Category “B” from that of “A’.
-
-One of the casualties during the dark days of the HRC was the Sundaralingam report. The “official” fate of that report remained a mystery for many years. Subsequently extracts of the report were quoted by Human Rights Organizations and activists in their writings but  there was no official release of the report.
-
-Things changed after the regime change in 2015. Dr. Deepika Udagama was appointed HRC chair in October 2015 after the Constitutional Constitutional Council was renewed and re-invigorated by the  Maithripala Sirisena-  Ranil Wickremesinghe Govt. The HRC regained much of its eroded respect under the new dispensation and was restored to “A’ status after a few years. Among the achievements of the HRC Headed by Dr. Udagama was the release and publication of Special Rapporteur Report by Judge T. Sundaralingam in March 2016.
-
-Interestingly enough a “Wikileaks” report that came to light some  years ago referred to a US state dept cable in October 2006. According to “Wikileaks”, Mahinda’s sibling Basil Rajapaksa who was a Special adviser to the president at that time had admitted to the US ambassador Robert O. Blake(jnr) that the STF was responsible for the killings and that there was no evidence to convict them.. The “Wikileaks” report of the State dept cable quoted Basil Rajapaksa as saying “. “We know the STF did it, but the bullet and gun evidence shows that they did not.They must have separate guns when they want to kill someone.”
-
-The war against the Liberation Tigers of Tamil Eelam(LTTE) ended in 2009 with the military defeat of the tigers. Riding the crest of a wave of war victory euphoria , Mahinda Rajapaksa was re-elected president in 2010. President Mahinda Rajapaksa appointed the Lessons Learnt and Reconciliation Commission (LLRC) in May 2010. It was chaired by former Attorney – General CR de Silva known popularly as “Bulla’ since his rugby playing days at Royal College. The LLRC submitted its report to President Rajapaksa in November 2011 after the mandated 18 month period. Among its observations pertaining to the Trincomalee student killings was the following –“There are strong grounds to surmise the involvement of uniformed personnel in the commission of the crime.” There was no follow up action by the President on the LLRC report then.
-
-The reluctance displayed by the Rajapaksa regime in addressing issues of accountability and reconciliation led to increasing pressure by the “international community” on the Govt. International human rights organizations played a crucial role in helping to sustain this momentum. One of the cases taken up by Human rights activists was the killing of the Trincomalee students referred to in those circles as the “Trinco – 5” case. The families of the murdered Trincomalee students who had fled Sri Lanka in the aftermath of the killings due to intimidation and harassment co-operated with the human rights activists to spotlight the lack of concrete legal action against suspected perpetrators.
-
-The UN Human Rights Council sessions in March 2013 in Geneva was a water shed of sorts. Two of the parents concerned Dr.Kasipillai Manoharan the father of Ragihar and Mr. Aiyamuttu Shanmugarajah the father of Gajendran were in Geneva during the UNHRC sessions and participated in several meetings and conferences held on the sidelines. They pointed out that no sction had been taken for seven years. Their impassioned pleas demanding justice for their children made a profound impact in Geneva. To his credit the then Plantation industries minister Mahinda Samarasinghe who was in Geneva leading the Lankan delegation at the UNHRC returned to Sri Lanka and pressed for an investigation and follow up action, Thereafter the CID re-commenced its probe.
-
-With the CID probe in progress, former  foreign secretary Ravinatha Aryasinha who was then  Sri Lanka’s permanent representative at the UN in Geneva addressed the UNHRC Regular session in May 2013. During the course of his address Aryasinha stated as follows – “ Pursuant to recommendations made by the LLRC, in relation to the killings of the 5 students in Trincomalee, investigations have been concluded and upon studying the material, the Attorney General has advised the Police to initiate non-summary proceedings, and the formal institution of these proceedings before the Trincomalee Magistrate is due to take place in the first week of June”.
-
-On July 4th 2013 , Twelve Special Task Force (STF) personnel and a Police officer. were arrested and produced in courts the following day. The 12 STF Officers were Inspectors Sarath Chandra Perera and Rohitha Vijithakumara, Sgt. M.G. Jayalath, Sgt A.P. Amal Pradeep, Constables s R.K. Ratnayake, M. Chaminda Lalitha, R.M. Udhaya Mahinda Bandara, M.G.H. Sanjeewa, K.A. Tharaka Ruwansiri, J.M. Nimal Bandara, J.M. Senarath Dissanyake and S.J. Indika Thushara of the STF. The Police Officer was Sub -inspector P.G. Ananda Bulanawewa .On October 14th 2013 they were all released on bail. The case however proceeded in fits and starts.
-
-The Thirteen accused were charged by the CID under Section 296 of the Penal Code for committing the murder of Manoharan Rajiharan, Yogarajah Hemachandra, Lohitha Raja Rohan, Thangadorai Sivanathan and Sammugarajah Gajendran by shooting near the Gandhi roundabout on January 2, 2006 and the attempted murder of Yogarajah Poongulalon and Pararajasingham Kokulraj under Section 300 of the Penal Code read with section 32.The CID had submitted seven productions to court in this connection and cited 36 witnesses.
-
-As the case progressed it became apparent that the prosecution was finding it difficult to produce credible witnesses. Some of the key witnesses were the two survivors who were eye-witnesses and some close family members of the murdered students. What had happened over the years was that the two survivor youths and their families as well as the families of the killed students had all fled Trincomalee and Sri Lanka due to fear caused by continuous threats and consistent harassment. A systematic terror campaign had been unleashed to frighten them. This included the sending of letters by post saying Get out of Trincomalee and Sri Lanka. It was specifically mentioned that Sri Lanka was a “Sinhala Rata”.
-
-The families of the victims had therefore left the land of their birth one by one. They were now safe in foreign countries and were not prepared to return to Sri Lanka and testify in a Trincomalee court. Moreover there was palpable fear among the people of Trincomalee to come forward and testify too. Over a hundred persons including vendors, people on the beach,passers – by , auto rickshaw drivers and curious onlookers had witnessed the incident in different degrees. However none was ready to say anything due to intimidation and fear. Contributing to this state of fear was the fate of a Tamil three-wheeler driver and photojournalist. Some days after the killing of the Trinco- 5, they were both killed by “unknown”persons. The three-wheeler driver was an eye witness to the incident and had been prepared to testify in a trial.  The journalist had reportedly published incriminating photographs of the victims showing they had been shot dead point blank.
-
-This state of affairs where key witnesses were reluctant to give evidence in a Sri Lankan court was sought to be remedied by the new government of 2015 headed by President Sirisena and Prime Minister Wickremesinghe. The “Assistance to and Protection of Victims of Crime and Witnesses Act” was passed in 2015, and later amended in 2017, These measures enabled witnesses to testify by skype from a Sri Lamkan diplomatic mission abroad. The witnesses concerned were in Australia, Europe and North America.
-
-The prolonged legal delay even after the advent of the new Govt prompted former US envoy Atul Keshap to tweet about it in January 2018 and re-iterate that “Justice delayed is justice denied”. The then Law and Order minister Sagala Ratnayake responded to it by tweeting that the case was progressing after the legal reforms.“We could not proceed with the case as the main witness was overseas and was not in a position to support proceedings. The case is now progressing as new reforms have allowed the use of Skype evidence,” Sagala Ratnayaka said on Twitter in Jan 2018.
-
-In spite of well-intentioned action by the Yahpalanaya  Govt to proceed with the case the reluctance of the key witnesses to testify persisted. They continued to keep refusing. Dr. Kasipillai Manoharan refused to give evidence via Skype and instead asked that evidence be recorded using satellite technology. There was also opposition to the idea of going to a Sri Lankan diplomatic mission and testifying by skype.The position taken up by the potential witnesses was endorsed by reputed human rights organizations such as the Amnesty International(AI) A news report in a Colombo newspaper published in January 2019 stated as follows –
-
-“Amnesty International said that a witness can only provide evidence to a diplomatic mission of Sri Lanka, which was unacceptable. Justice for the students murdered over 13 years ago still eludes their loved ones and given the difficulties in securing witness testimonies, the Trinco-5 case has seen little to no progress in the most recent past. The Assistance to and Protection of Victims of Crime and Witnesses Act was passed in 2015, and later amended in 2017, enabling witnesses to give evidence from outside Sri Lanka. However, the fact that a witness can only provide such evidence at a diplomatic mission of Sri Lanka means that a witness may face intimidation.The safety of a diplomatic mission is not sufficient for a victim to give evidence, especially in this case where levels of intimidation were so high,” Research, Campaigns, and Communications Assistant at Amnesty International Rehab Mahamoor told “The Sunday Morning”.
-
-It was against this backdrop therefore that the Trincomalee Five case progressed. After lengthy legal proceedings the curtain descended on July 3rd 2019. Eight of the thirty -six witnesses cited had not been heard by court as they had not made themselves available to testify. These included key witnesses including two surviving eye witnesses. Courts was told that the two key survivor eye-witnesses reportedly living abroad were unreachable and untraceable.
-
-After some hearings in 2013 /14 where several witnesses testified proceedings dragged on thereafter without any tangible fresh evidence being provided. Dates were set and re-set and proceedings postponed for umpteen times without witnesses being presented. In fairness to the Attorney -General’s Dept ,its officials tried very hard to persuade the witnesses to turn up and present themselves in court with full protection or testify via skype from abroad. Lawyers appearing for the defence were very patient and cooperated fully with the prosecution by not protesting against the long delay. The case dragged on for more than five years without any positive forward movement . It was heard by three different Magistrates during this period.
-
-Finally Trincomalee Chief Magistrate M.M. Mohammed Hamza on July 3rd 2019 acquitted all thirteen accused of all charges. The Magistrate after considering the evidence ruled that the accused be released due to non-availability of sufficient evidence to continue the case in a satisfactory manner. Additional Solicitor General Dilantha Rathnayake prosecuted and Attorneys Dhanushka Madagedara and S.Chandrasiri appeared for the defence until the last stages of the case. Thus ended the Trinco five case without anyone being convicted due to insufficient evidence. However the “Trinco – 5”case continues to be cited as an emblematic case of impunity in Sri Lanka.
-
-This article written for the “Political Pulse” Column appears in the “Daily FT” of Jan 5, 2022. It can be accessed here:
-
-## The  Tragic Plight of Lionair 602  Flight 25 Years ago.
-
-*2024-01-03 18:18:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83374)*
-
-When the Tigers Shot Down the Lionair Flight 602 in the Mannar Sea-PART TWO
-
-The focus of this two-part article  is the tragic plight of  Lionair 602  flight twenty-five  years ago.  The first part of this article published last week related how the Liberation Tigers of Tamil Eelam(LTTE) shot down an Antonov 24 carrying 48 passengers and 7 crew on 29 September 1998. This  second and final part will describe the  prevailing circumstances before and after  the downing of Flight 602 in the seas off Mannar coast by the LTTE known widely as the tigers.The tragic incident of 1998 occurred during the long war between the Sri Lankan armed forces and the LTTE ended in May 2009.
-
-As stated earlier  the Sri Lankan Army  had re- captured Jaffna through “Operation Riviresa” in 1995-96.  Earlier the LTTE had been in control of the area. Even though  the Jaffna  peninsula  was controlled by the state, Jaffna remained  inaccessible by land from the rest of the country as the LTTE continued to control a major portion of the northern mainland, known as  the Wanni. Transport to and from the Jaffna peninsula was possible only by air or sea.
-
-Civilians were  earlier flown to and from Jaffna  in Air Force flights, for a fee. From August 1996, civilian air  transport was handed over to Lion Airlines, a private airline. The airline, which enjoyed a monopoly in this area, immediately increased the fare to almost double the earlier rate. Operating flights from Colombo to Jaffna and back was highly lucrative. The demand for transport to Jaffna was tremendous and there was always a long waiting list. Subsequently, a second private airline, “Monara”, was allowed to operate flights to Jaffna.
-
-The LTTE was then  in possession of  anti-aircraft missiles. The tigers had  from 1996 onwards brought down a few  Sri Lankan Air Force planes and helicopters by firing surface to air , SAM-7 missiles. As such SLAF aircraft  usually flew far out to the sea from Palaly and proceeded towards Colombo.
-
-When civilan flights  between Jaffna and Colombo commenced, the  planes were asked to observe the same safe routes in the interests of civilian passenger safety. This rule however was frequently observed in the breach by the airlines concerned.
-
-In a bid to cut down on fuel costs and reduce flying time, the passenger planes  regularly deviated from the safe route and flew  by the shorter route hugging the northern coast.  According to the University Teachers for Human Rights (Jaffna)  report, this was known to Flight Control at Palaly and the Defence Ministry had been directly told about it. But no effective action was taken.
-
-As stated earlier  the Sri Lankan Govt began adopting in 1997  the controversial practice of mingling service personnel with civilian passengers aboard Lionair and Monara  flights. Sometimes the planes were chartered exclusively to transport troops and there were instances of passengers being offloaded at the last minute. This practice of mixing security personnel with civilian passengers was certainly a violation of the international humanitarian law, in spirit though not in letter.
-
-After awhile , the  LTTE began warning the Airlines concerned not to  carry security personnel on board or charter civilian planes to the armed forces. These warnings went unheeded. Thereafter the LTTE began to issue  dire threats. Again they were ignored. Although the LTTE had relocated en masse to the Wanni after “Operation Riviresa”, it continued to maintain a  clandestine presence in the peninsula with a local  “headquarters” in Pungudutheevu.
-
-According to the UTHR (J) ,   the LTTE’s warning to the airlines not to charter aircraft to the security forces had largely been  downplayed and suppressed by the Govt t and the airlines. The public was not apprised of the seriousness of the situation. No measures were  reportedly taken to enforce adherence to  secure routes.
-
-It is against this backdrop that the September 29 tragedy occurred. Here is a brief description of  the  events that preceded  the attack on the Lionair plane.
-
-The LTTE  sent letters dated August 9, 1998, to both Lion and Monara that they should stop allowing their planes being used to ferry security personnel to and from Jaffna. These were disregarded. The subject heading of the letters was” notice of attack”.
-
-Then on September 13th 1998 , a second letter on the letterhead of the Thamil Eelam Administrative Service, signed by Thooyavan, the Jaffna district leader of the LTTE, was delivered.The letter said as follows-
-
-: “We have already sent you a letter regarding the conduct of the airlines. You have not taken any action so far. On the contrary you have continued to cooperate with the armed forces.Therefore, as soon as you see this letter, please contact your management  and ask them to temporarily halt the services until further notice. If instead you continue the air service  and an aircraft is attacked resulting in danger to the Tamil people you must take full responsibility and would also have to take the due punishment administered by ourselves. Any aircraft flying after September 15 would be subject to our attack.  While informing  you of this with a heavy heart we are also informing  the people through leaflets”
-
-On  17 September 1998 , Monara suspended its laffina flights. The EPRLF issued a statement on  the following day (September 18) criticising the LTTE for this disruption.
-
-On September 23, the Lion Airlines manager in Jaffna received a letter from the LTTE, which asked him to quit the post. He promptly did so.
-
-On September 24, another letter from the LTTE, signed by the chief of its political wing, Manimaran, was delivered to  the Tamil daily published in Jaffna Uthayan. Titled “A request to the people”, it was a warning and an appeal to the people to stop flying.
-
-Although the LTTE wanted it to be published prominently , the prevailing media  censorship  in force then prevented the paper from doing so.  Had the paper been allowed to do so by the authorities a very large number of civilians in Jaffna would have been made aware of the perilous situation. They may have been wary or cautious about flying to and from Jaffna.
-
-Later on,  handwritten posters, asking people to avoid air travel, appeared at several public places, with the caption, “A warning to the common people ”. Letters warning against air travel were sent also to the  Jaffna University, the Traders Association and some schools.
-
-Another leaflet in Tamil under the heading “A request to the people of the Jaffna peninsula who are subject to military oppression,” issued by the LTTE’S political wing, was  circulated in Jaffna. A paragraph of it stated  as follows:
-
-“In the guise of opening a road to Jaffna for the people, or of providing transportation for them, the Army is doing things to maximise its own interests. Under the pretext of running an air service for the people of the peninsula it is not only squeezing a great deal of money out of them but is using these services to fulfil its military aims…. for this reason banning air travel and taking action against those defying this ban have become unavoidable. Therefore we inform those who travel by air that it would be safer for them in coming times to avoid air travel and to travel by sea..”
-
-In the context of these threats and warnings by the LTTE being publicised,  it became crystal clear to many  Jaffna Tamils who were aware of the LTTE’s warnings that it was the LTTE that was responsible for the shooting down of the plane. If the censorship had not circumscribed the  Tamil newspaper  Uthayan,more people would have known of the LTTE’s warning and perhaps avoided air travel.
-
-Furthermore  it was apparent that  Lion Airlines itself had shown a callous disregard and lack of concern for the safety of both the passengers and the crew. The airline had  not  bother to warn the public of these developments despite the serious nature of the LTTE’s threats.
-
-The  then Government too displayed a serious lack of concern for the people. It further hurt Tamil sentiment by not expressing one word of sympathy for the victims of the tragedy. There was also a visible lack of cooperation with the people in their efforts to recover the bodies of the passengers. The attitudes of both the state and the airline deserved condemnation.
-
-This  criticism of the Govt and Airline does not absolve the LTTE of the blame and responsibility for this horrendous tragedy. That it did warn the airines concerned is evident  but this fact cannot help condone the heinous nature of its crime against humanity, that too of a section with which it claims ethnic kinship.
-
-With the wisdom of hindsight, It became known  that the LTTE was in possession of some anti-aircraft missiles with a higher capability and  range compared to the ones  used earlier. Unlike the shoulder- fired ones with a limited range, these missiles were  capable of targeting planes flying at a high altitude, such as the AN 24.
-
-Moreover,  the firing of these missiles may have required a static platform. Using the St. Sebastian’s Church in Iranaitheevu  was ideal for this. Also the facts that the firing was from within LTTE territory and the plane had not fallen outside LTTE-controlled area enabled the LTTE to hush up the matter at that time.
-
-The most ominous indication that the LTTE was indeed responsible for the shooting down of the plane was the total silence it maintained over the incident. It neither denied its involvement nor accepted responsibility for bringing the plane down. Its news releases and broadcasts refrained from making any mention about the incident.
-
-If the LTTE had not   been responsible for the shooting down of the plane, that organisation and its propagandists would have gone to town condemning the Government for it. But the fact that it kept quiet indicated its culpability.
-
-For obvious reasons, the LTTE could not claim credit openly for shooting down a civilian plane carrying Tamil passengers. At the same time, it did not want to disclaim responsibility either. If it had done so, Tamils may  have continued to keep flying and the air service could  have continued.
-
-The Government and the airline concerned could have exploited the incident to gain propaganda mileage. But again,because of their own “failures” in discharging their responsibilities, neither could do so. Moreover, the censorship that was in force helped black out the incidents.
-
-Whatever the reasons for the  visible lack of concern then , it  only helped alienate the Tamil minority further from the state then .
-
-Fifteen years after the incident  the Sri Lankan navy in May 2013  was able to salvage  the wreckage of the ill-fated plane in the Mannar gulf near Inranaitheevu. A team of 80 Navy frogmen recovered six big parts of the plane, 22  items of clothing and the bones of about 20 persons. The  navy had been informed of the wrecked plane’s location by the Terrorism Investigation Division . The TID  claimed to have  obtained details from an LTTE cadre in TID custody.
-
-The University Teachers for Human Rights, in their  1998 report, drew  attention to international incidents where civilian flights have been shot at. The shooting down of a Korean Airlines aircraft by the Soviet Union and an Iranian Airways aircraft by the United States Navy over the Persian Gulf were some incidents highlighted. There was also a reference to an International Committee of the Red Cross (ICRC) plane, being shot down deliberately by the Nigerian armed forces in 1969 during the Biafra secession war.
-
-What the UTHR  report stated in this context on the shooting down of civilian Flight 602 from Jaffna suffices for the moment as a brief epitaph on the human tragedy. The report said:
-
-“ The Lion Air disaster is unprecedented. This would be the first time a secessionist group or state power had shot down from the air deliberately and calculatedly an aircraft carrying its own civilians. Shooting down a civilian aircraft becomes big news because it is abhorrent. The victims are totally helpless, bereft of any means to save themselves.”
-
-This article appears in the “DBS Jeyaraj Column” of the “Daily Mirror”Dated 30 December 2023.It can be accessed here –
-
-## It is unfortunate that Sri Lankan Tamil politics is increasingly becoming a laughing stock! Is there a Tamil leader today who commands  wide acceptance among the Tamil people in both the Northern and Eastern provinces?
-
-*2024-01-03 18:00:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83388)*
-
-Sri Lanka has seen eight Presidential elections after the introduction of Executive  Presidency in 1978.  But no previous election has been hyped like the upcoming Presidential election months before it is due to be held.
-
-President Ranil Wickremesinghe, who was elected by Parliament for the remainder of the term of President Gotabaya Rajapaksa, after he resigned under a cloud in July 2022, can only remain in office until November 18 this year.
-
-According to the constitution, the next Presidential election should be held within a period of not less than one month and not more than two months before the end of the term of office of the President.
-
-Therefore, the next Presidential election should be held between September 18 and October 18 this year. The date for the election will be determined by the National Election Commission.
-
-There was a stage when there was a serious suspicion that President Wickremesinghe, who postponed the local government elections indefinitely citing the economic crisis, might try to delay the national elections as well. However, he announced several times in recent months that the Presidential elections will be held later this year, followed by parliamentary elections.
-
-Even after his announcement, there is widespread doubt in political circles as to which election will be held first. The President had the power to dissolve the current parliament at any time after February 20, 2023.
-
-Many political observers had commented that Wickramasinghe might dissolve Parliament and go for the general election by the coming March to facilitate the creation of a favourable political situation for him to face the presidential elections.
-
-However, the main opposition political parties have started preparing themselves for the Presidential election since the middle of last year.
-
-A few months ago, United People’s Power (Samagi Jana Balavegaya- SJB) announced that opposition leader Sajith Premadasa was their Presidential candidate and National People’s Power  Anura Kumara Dissanayake as their candidate. Both the parties have already started their election campaigns by holding meetings.
-
-Although United National Party politicians say that Wickremesinghe will contest the Presidential election, he is yet to publicly announce his decision. The President says he will decide whether to run for office only after stabilizing the battered economy. But he has been  making efforts to build a broad coalition to support him. It is not known how far these efforts have progressed. Some ministers from Rajapaksas’ Sri Lanka Podujana Peramuna (SLPP) have already  expressed their willingness to support the President.
-
-The SLPP, which recently held its second national convention in Colombo, has shown dubious signs of fielding billionaire businessman and casino owner Dhammika Perera as its Presidential candidate. Maithripala Sirisena has also announced that he will contest.
-
-A wide range of candidates are likely to contest. The lowest number of candidates contesting in Presidential elections so far was the December 1988 election which was  held during the JVP’s second  armed  insurgency. Former President Ranasinghe Premadasa contested as the candidate of the United National Party, former Prime Minister Sirima Bandaranaike was the candidate of the Sri Lanka Freedom Party and Ossie Abeygunasekara as the candidate of the Sri Lanka Mahajana Party.
-
-35 candidates contested the November 2019 Presidential election. It was the election with the largest number of candidates in the fray. It would not be surprising if even more candidates contest this time.
-
-If the incumbent President is powerful,  it is customary for opposition  parties  to field a common  candidate against him. However, this time, it seems that there is no need for the southern political parties to consider fielding a common candidate as President Wickremesinghe doesn’t have much support  among the people. His United National Party is in a very weak position without proper grassroots vote base.
-
-And there is no possibility that he will win the hearts and minds of the people in the coming days amidst the steep rise in prices as a result of the tax hikes. It is also doubtful if he will come forward to contest the election if he does not get the support of many other parties.
-
-But this time, in a strange turn of events, some Tamil national political parties have started talking about fielding a common  candidate in the Presidential election. Such an idea has never arisen in Tamil politics before.
-
-Tamil candidates have contested Presidential elections before. In the first election held in October 1982, Kumar Ponnambalam, leader of the All Ceylon Tamil Congress, contested. But he got only 173,934 votes.
-
-Even in Jaffna district, Ponnambalam got only about 10,000 more votes than Hector Kobbekaduwa, who contested against the then President J.R. Jayawardene as the candidate of the Sri Lanka Freedom Party. Kobbekaduwa got more than 10 thousand votes than Ponnambalam in Vanni  district. But votes for him  in the electoral districts of Eastern Province were negligible.
-
-MK Sivajilingam of TELO was the other candidate from a Tamil political party who contested the Presidential election. He contested the 2010 January and 2019 November Presidential elections. No need to talk about the votes he got.  A maverick, he once contested the parliamentary election from Kurunegala district.
-
-One Sundaram Mahendran of the NSSP and Subramaniam Gunarathnam of Our National Front contested the 2015 January Presidential Election and the 2019 Presidential Election respectively. Though ethnically Tamils, they could not be considered as having stood for a Tamil cause as they belonged to Leftist parties.
-
-It seems that some of those who are currently talking about a common Tamil candidate are confident that the votes of Tamils, especially North East Tamils, will play a decisive role in electing the next President. There are those who are of the opinion that a common Tamil candidate can use his votes as bargaining power to try to get assurances from the main Presidential candidates on the Tamil question.
-
-There was a time when the votes of ethnic minorities determined the winner of the Presidential elections. That situation, which existed until the latter part of the last century, has largely changed. At the same time, Tamils have invariably been voting on the basis of who “should not” become President, not to “elect” someone as president.
-
-An exception to this was when  minority communities’ votes helped Maithripala Sirisena defeat Mahinda Rajapaksa in the 2015 Presidential election. But in the next Presidential election, Gotabaya Rajapaksa won a landslide victory by receiving the overwhelming majority of Sinhalese votes. He openly declared that it was the majority community which elected him as the leader of the country. The votes of the ethnic minorities did not have any influence in that election.
-
-Meanwhile, in today’s political context, no major candidate in the coming Presidential poll is going to give any guarantee to the Tamils regarding a solution of the ethnic problem as naively expected by some Tamil politicians in the north.
-
-In such a situation, there will be no chance for a common Tamil candidate to negotiate with the main candidates. President Wickremesinghe told Tamil parliamentarians who met him last week that the Parliament elected after the next general election will deal with the issue of a political settlement through a new constitution with a view to ensuring that the political solution to the ethnic problem does not become a major issue in the next Presidential election.
-
-There is a section among Tamil polity that suggests that the Presidential election should be used to get a mandate from the Tamils to show the world what kind of political solution they stand for 0in the aftermath of the  of the civil war that came to an end almost 15 years ago.
-
-They should think for a moment about the fate of the mandate given to the Tamil United Liberation Front (TULF ) by the Northern and Eastern Tamils in the July 1977 parliamentary elections after more than a year after the famous  Vattukkoddai resolution. The tragedy that happened to the politics of the Tamil leaders of those days who claimed that the Tamil people gave them that mandate to carry out a non-violent struggle to achieve Tamil Ealam should be a lesson for today’s  Tamil politicians who are unable to launch even a small human chain campaign successfully.
-
-Above all, can the leaders of today’s Tamil political parties, who cannot even come together to deal with the immediate issues facing the Tamil people, be expected to come to a consensus on selecting  a common candidate? Is there a Tamil leader today who commands  wide acceptance among the Tamil people in both the Northern and Eastern provinces?
-
-Leaders of the Tamil political parties who do not know how to effectively move the struggle for the rights of the Tamil people to the next level in a meaningful will be well advised to allow the Tamil people to vote the way they want without getting into the perverse political act of boosting their egos. It is unfortunate that Sri Lankan Tamil politics is increasingly becoming a laughing stock.
-
-## Graveside memorial service to mark 15th anniversary of Lasantha’s assassination – On Monday 8 January 9 a.m. at Borella Kanatte
-
-*2024-01-03 18:00:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83392)*
-
-The 15th anniversary of the assassination of The Sunday Leader founder Editor-in-Chief Lasantha Wickrematunge, which falls on Monday, 8 January, will be marked with a service at his graveside.
-
-Family, friends, former colleagues, and others will gather at Borella Kanatte at 9 a.m. to mark the anniversary and remember Lasantha.
-
-Assassinated on 8 January 2009, Lasantha was one of Sri Lanka’s leading journalists and an outspoken critic of the then Rajapaksa Government. He was attacked as he drove to work and later died of his injuries.
-
-The brazen attack was carried out by two gunmen on motorcycles in the middle of morning-rush-hour traffic.
-
-The investigation into Lasantha’s murder has yielded no tangible results thus far and his killers still roam free, 15 years later.
-
-## Ranil Wickremesinghe was more correct than his opponents when he opted for direct taxation to raise revenue; by returning to the seemingly easy path of hiking indirect taxes, he has regressed to the economic-policy-levels of those who seek to replace him.
-
-*2024-01-02 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83366)*
-
-“We talk about Tiananmen Square being all about democracy; it was because they had runaway inflation. The French Revolution wasn’t about liberté, fraternité, egalité, it was about rampant food price inflation” – Albert Edwards (Societe Generale: Global Strategy Alternative View)
-
-In China Mieville’s speculative murder mystery, The City & The City, two cities, Beszel and Ul Qoma, occupy the same territory. The citizens of each city are trained from infancy to unsee the other. They exist with each other all their lives without ever seeing, hearing, thinking about or consciously acknowledging each other.
-
-Sri Lanka was always many Sri Lankas, divided vertically along ethno-religious and horizontally along class-caste lines. Perhaps our only moment of unity came as an unintended consequence of Gotabaya Rajapaksa’s economic insanity. Even the pandemic, a common danger, was experienced differently by Lankans (especially the urban poor and the Muslims). But in the fuel and gas queues of 2022, there was a rare sense of togetherness. From tenement gardens to luxury apartments, via middle-class houses, Gota go home rose as a single cry.
-
-That conjunctural unity evaporated once Gota was made to go home. A speedy resolution of the Rajapaksa-wrought crisis was a common demand, but the recovery is being experienced differently by Lankans.
-
-This difference was manageable so long as policy makers tried not to burden, further, the already overburdened poor/vulnerable segments through indirect tax and rate hikes. Indeed, during the first post-Gotabaya year, commendable efforts were made to distribute the costs of economic recovery with some fairness. But this effort now lies largely abandoned.
-
-Ranil Wickremesinghe was more correct than his opponents when he opted for direct taxation to raise revenue; by returning to the seemingly easy path of hiking indirect taxes, he has regressed to the economic-policy-levels of those who seek to replace him.
-
-2024, a crucial election year, dawned with a VAT hike. Prices of essential items, already too high for most Lankans, will increase even further, pushing more families below the poverty line. Even if the economy continues to grow in 2024, that growth will be of little or no benefit to a majority of Lankans who are struggling – and failing – to make ends meet.
-
-One of the most distressing and devastating aspects of the new VAT hike is the removal of all books (locally published and imported, including educational books) from the exempted list. In consequence, the price of every book will increase at least by 18%, placing education beyond the means of more children from poor and low-income families.
-
-According to Samantha Indeevara, the head of Sri Lanka Book Publishers Association, policy makers, including the president and the treasury secretary, were informed of the disastrous consequences of this measure. The only official response was that the IMF made them do it.
-
-Shortly before the 18% VAT on books went into effect, the Government decided to grant China’s Colombo Port Logistics Centre a generous 15-year tax exemption on income and dividends. This decision runs counter to the same IMF conditionality – ending all tax exemptions.
-
-The IMF and other multilateral agencies have been demanding the abolition of the Rajapaksa-era law which facilitates these direct tax exemptions, the Strategic Projects Development Act of 2008, in vain. The Wickremesinghe Government, contrary to its opponents’ sloganeering, is not a creature of the IMF. It merely uses the IMF to justify its decision to opt for the path of least politico-societal resistance. Reducing military expenditure, for instance, is hard, given the entrenched politico-ideological and socio-economic interests involved. It is much easier to increase VAT (including on books) and blame the IMF.
-
-Gotabaya Rajapaksa’s direct tax cuts were hugely popular among the rich and the middle classes. When the Wickremesinghe administration corrected that ruinous error, political opposition, professional groups, Government sector trade unions, and some civil society organisations cried (mass) murder.
-
-Yet no such outcry was heard when the Government announced the VAT increase. Government teachers’ trade unions called a one-day strike to protest the re-imposition of PAYE even though no teacher earns enough to qualify for that tax. Yet those same unions seem unconcerned about the imposition of VAT on educational materials.
-
-The political opposition is yet to demand parliament debates on taxing books and the FUTA and the GMOA are yet to demonstrate against this anti-knowledge measure.
-
-It is easy to tax books, food, or fuel because those hardest hit – the poor – do not protest as readily and as visibly as the middle classes. The real divide is not between the 1% and the 99% or even the 10% and the 90%. It is probably between 33% and 66%.
-
-A few months ago, Ranil Wickremesinghe had the political will to stand up to the richer one-third on behalf of the poorer two-thirds. Not anymore. The consequences of that abdication will be disastrous for him and deadly for Sri Lanka.
-
-In late 2022 and early 2023, the price of eggs, probably the only affordable protein source for most Lankans, increased stratospherically. The Government asked for a reduction. Poultry producers refused, citing high costs. In January 2023, the Government imposed price controls. Producers responded by making eggs unavailable. Eggs became as scarce as milk powder once was.
-
-The Government reacted by importing eggs from India, ignoring the cries of outrage from the poultry industry and political opposition. As the imported-eggs hit the market, prices decreased, making eggs affordable again to ordinary Lankans. Once the demand for exorbitant local eggs dropped, producers also had to allow their prices to reflect the new market reality.
-
-That story is emblematic of one of the main issues assailing not just Sri Lanka, but most of the world: greedflation. Though the term is relatively new, the problem is not – an increase in inflation due to corporate/trader pursuit of über-profits. Once a fringe-left idea, it mainstreamed last year, as establishment economists tried to understand why food inflation – including in staples – remained high in the US and Europe, even when inflation was low; and why high food inflation was unresponsive to standard remedies like interest rate hikes.
-
-In January 2023, the then US Federal Reserve vice chair, in a speech at the University of Chicago, pointed out that “retail mark-ups in a number of sectors have seen material increases in what could be described as a price-price spiral, whereby final prices have risen by more than the increase in input prices.”
-
-In March 2023, economists at the European Central Bank made the implicit explicit by stating that profit margins had become the main driver of inflation, responsible for 66% of real-terms price increases in 2022.
-
-The same month, Paul Donavan, chief economist of the UBS Global Wealth Management, warned of ‘profit-margin led inflation’ and European Central Bank executive board member Fabio Panetta expressed concerns about profits driving up inflation. In May 2023, Isabella Weber, an economist at the University of Massachusetts Amherst published a paper on the subject: “ Inflation, profit, and conflict: why can large firms hike prices in an emergency.”
-
-To explain how companies and other retailers get away with driving up prices via massive mark ups, a new term has been coined – excuse-inflation: the practice of blaming higher prices on extrinsic events, from weather and wars to pandemics and governments.
-
-According to Paul Donovan, profit-push inflation is sustained primarily by “the ability to sell this story that it’s not our fault we’re raising prices – the price of wheat’s gone up, so we’ve got to raise the price of bread” (New Statesman – 31.5.2023).
-
-In Sri Lanka, profit-led inflation is a familiar phenomenon, the manipulation of rice prices by an oligopoly of large mill-owners being the best case in point. Price controls don’t answer, not in Sri Lanka; they merely cause shortages.
-
-Government interventions of innovative nature have better luck. In 2019, finance ministry under Mangala Samaraweera cooperated with small and medium scale rice millers to create a new rice brand called Shakti and release it to the market at an affordable price.
-
-This program was abandoned once the Rajapaksas returned to power. Rice prices sky-rocketed again. Newly-minted president Gotabaya Rajapaksa visited the Narahenpita Economic Centre, sat in a rice shop phoning officials, and eventually imposed price controls – to no avail.
-
-Political consequences of greedflation have been best analysed by economist Albert Edwards, head of global strategy at the 159-year-old French investment bank, Societe Generale. “Up until recently, policy makers, when they have commented in public about the need for restraint, have always focused on households demanding higher wages – warning that this would result in inflation becoming entrenched. These claims are ridiculous as households have suffered huge real wage cuts. It is companies that are driving inflation higher but this has been something Central Bankers are loath to mention” (Global Strategy Alternative View – 13.4.2023).
-
-The familiar trend of profit margins going down when costs go up has been replaced by one where profit margins increase when costs increase. ”The end of greedflation must surely come. Otherwise we may be looking at the end of capitalism. This is a big issue for policymakers that simply cannot be ignored any longer” (ibid).
-
-To understand the outsized role played by greedflation in Lanka’s high living costs, it suffices to study the huge discounts offered by large and medium scale retailers periodically. The rate of discounts, which averages at about 20-30%, are indicative of the mark ups which determine ordinary prices. Unfortunately, Lankan politicians and policymakers seem uninterested in understanding this seminal issue. If the complex nature of inflation, its multiple roots and manifestations go unacknowledged, how can any Government face it successfully?
-
-No taxation without representation was a key rallying cry of colonial America’s struggle for independence. In her biography of American founding father Samuel Adams, Stacey Schiff argues that the tax issue in colonial America was more a case of depiction than reality. The Stamp Act, which was so vilified that a servant in New England refused to enter a barn for fear that Stamp Act might be there, was never implemented. Tea tax benefitted American consumers since it actually lowered tea prices. Yet, politicians like Samuel Adams cleverly manipulated the issue, turning it into a political bombshell.
-
-In Sri Lanka too, the tax issue is being manipulated to the benefit of the better off one-third and to the detriment of the rest. This is being done in two ways: concealing the difference between direct and indirect taxes; and being silent about the connection between defence expenditure/loss making state-owned enterprises and taxes.
-
-Lankan politicians’ preference for the easy path of indirect taxes has turned taxflation into a major component of inflation. For instance, take fuel. Fuel price is determined not just by global prices (though that is the standard political line), but also by government taxes. Sometimes, the tax is even higher than the total cost of importing fuel – in end April 2020, the cost of importing 92 Octane litre was Rs. 28 while the tax was Rs. 108 (https://publicfinance.lk/ta/topics/The-Retail-Price-of-Petrol-and-Diesel-in-Sri-Lanka-is-Higher-Than-Their-Total-Costs-1624449192).
-
-Since taxflation is caused by indirect taxes and not direct taxes, the obvious solution is to rectify the massive imbalance between direct and indirect taxes by shifting more of the burden onto direct taxes.
-
-Ranil Wickremesinghe’s proposal of imposing a wealth tax is an excellent idea; the problem is postponing its implementation until 2025, while hiking up VAT in 2024. Incidentally, the problem with the JVP in this area is not that it is socialist but that it is not socialist enough; in actuality, the JVP is more retrogressive than Ranil Wickremesinghe as it wants to cap PAYE top rate at 24%! A boon for high-earners. This is socialism not of Marx and Engles but of Putin and Xi, with happy queues thrown in.
-
-Taxflation has been necessitated primarily by the ever increasing defence costs and the costs of maintaining such white elephant SOEs like SriLankan. The loss-making airline has just wet-leased two aircrafts from Belgium. The year before an incensed President Mahinda Rajapaksa took over SriLankan, it earned a post-tax profit of $ 7.8 million. In 2007, SriLankan gave to Sri Lanka; since ‘re-nationalisation’ Sri Lanka has been giving to SriLankan. And no politician, not even the ‘neo-liberal’ Ranil Wickremesinghe, is willing to bell such cats.
-
-In Poverty, by America, Matthew Desmond explains society’s complicity in keeping people poor. “The American government gives most help to those who need it least. This is the true nature of our welfare state, and it has far-reaching implications, not only for our bank accounts and poverty levels, but also our psychology and civic spirit.”
-
-We are doing the same with every rupee we take from a poor family via indirect taxation to maintain the military and loss-making SOEs or to fund low taxes/tax breaks to the better off.
-
-Professionals (especially doctors) who threaten to migrate if they are taxed, having reaped the full benefits of our free education system, are as complicit in keeping the poor in poverty as politicians. Monks like the chief incumbent of the Mihintale temple who rides a land cruiser V8 (the price of a second-hand vehicle of this variety seems to average at Rs. 50 million) and demand that people pay their electricity bills are as complicit in making non-poor poor as officials. The only difference is one of appearance; professionals who demand tax cuts and monks who demand free everything are better at hiding their avarice.
-
-“The poor can see the affluent easily enough – on television, for example… But the affluent rarely see the poor,” wrote James Fallows in The blindness of the affluent.
-
-Unlike in China Mievelle’s cities, the habit of unseeing is one-sided. The upper one-third may not see the lower two-thirds, but the latter see the former, all the time. If the gap between the two Sri Lankas continues to widen, 2024 may become a year of conflagration, which will make the violence of 9-11 May 2022 seem like a picnic.
-
-## When the Tigers Shot Down the Lionair Flight  602 in the Mannar Sea.
-
-*2024-01-02 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83348)*
-
-Twenty-five years ago an Antonov 24 aircraft  carrying fifty-five  civilians  from Jaffna to Colombo was shot down over the Gulf of Mannar  by the Liberation Tigers of Tamil Eelam (LTTE)  on  29 September 1998. The  LTTE known as tigers  was then at war with the Sri Lankan armed forces. Of the fifty- five on board forty-eight  were passengers  and seven crew. All the 48  passengers were Tamil. The  4 -member cockpit  crew were Ukrainian nationals while the 3  cabin crew were Sinhalese.
-
-Shooting down a plane with civilians was the first of its kind in Sri Lanka’s long war.The tragic fate of Flight LN 602 would under normal circumstances have  been the epicentre of a major  controversy. But a censorship was in force then. The censorship  prevented precise reporting of the incident within Sri Lanka  then.  I too had to write a detailed article   about the incident and its ramifications for an Indian journal,  so as not to  fall under the purview of  censorship  prevailing in Lanka  then.It is against this backdrop that this column re-visits the colossal tragedy  25 years later in this two part article.
-
-The main players in this deplorable drama , such as the Sri Lankan Government, the Liberation Tigers of Tamil Eelam (LTTE), and the airline concerned, Lion Airlines, all have  to share the blame in different degrees  for what  had happened. Nevertheless, it  was the self-proclaimed liberators of the Tamil people of Sri Lanka, the LTTE, which was  primarily responsible for the tragedy.. All available evidence pointed  to that organisation as being  responsible for shooting down the plane.
-
-Thus the LTTE  scored another despicable  “first” – it became the first organisation claiming to fight for the rights of a particular ethnic group that shot down deliberately a civilian plane carrying passengers who were all members of that ethnic group. However the LTTE escaped  being condemned universally for this outrage  at that time ,mainly because of the prevailing  censorship and the lackadaisical attitude displayed by the Government and Lion Airlines.
-
-In order to  clearly comprehend  what had happened  it is necessary to delve into the environment  that existed then. The available details reflect badly on all parties concerned-the Govt, the LTTE and the airline.
-
-After  the Sri Lankan Army captured Jaffna   through “Operation Riviresa” in 1996, the peninsula has been inaccessible by land from the rest of the country as the LTTE continued to control  a major portion of the northern mainland, known asWanni. Transport to and from the Jaffna peninsula was  possible only by air or sea.
-
-Earlier, civilians were taken in Air Force flights, for a fee. From August 1996, civilian transport was handed over to Lion Airlines, a private airline. The airline, which enjoyed a monopoly in this area, immediately increased the fare to almost double the earlier rate.
-
-Operating  flights fron Colombo to Jaffna and back  was highly lucrative. Although the distance between Colombo and Jaffna is only 400 km, a Colombo-Jaffna return ticket then cost 5,300 or 6,000 SL rupees, depending upon where the ticket was bought. The demand for transport to Jaffna was tremendous  and there was always a long waiting list. Passengers also complained about poor service and harsh conditions of travel. Yet, the need for transport being great, Tamil passengers who used the airline learnt to stomach indignities. Subsequently, a second private airline, “Monara”, was allowed to operate flights to Jaffna.
-
-Since 1997 the Sri Lankan Government began to adopt the controversial practice of mingling service personnel with civilian passengers aboard these flights. Sometimes the planes were chartered exclusively to transport troops and there were  instances of passengers being offloaded at the last minute. This practice was  certainly a violation of the international humanitarian law, in spirit though not in letter.
-
-All legitimate governments are expected to afford full protection to and minimise the risks to the safety of civilians during times of war. The Sri Lankan Government’s practice of taking troops in civilian flights then  was  termed by Tamil politicians as being akin to using civilians as a human shield.
-
-On that fateful day in September 1998 , Flight LN  602 began its journey from Palaly at 1-40 p.m. There were 48 passengers, all of them Tamils, four cockpit crew, all Ukrainian nationals, and three cabin crew, all Sinhalese. The AN-24 had been leased from the Belarusian company Gomelavia. The chief pilot was Capt. Anatoli Matochko.Among the passengers were 17 women and 8 children.
-
-Fifteen minutes later – according to newspaper reports – the pilot had reported a decompression at about 1-55 p.m. when the plane was over the Gulf of Mannar. The Palaly headquarters asked him to turn back but the plane went off the radar screen in a few minutes.
-
-Initially there was little information available after the aircraft went “missing”. This led to much speculation.If the decompression was caused only by a technical fault, the plane would have been able to return to Palaly within 15 to 20  minutes. Moreover, Antonov 24s have the capacity to withstand any decompression difficulty for at least an hour. But the fact that the plane went off the radar screen within a few minutes suggested that the decompression problem was caused by some other factor.
-
-This brought three possibilities to the fore sabotage, an explosion within or the plane being shot down by an external agency.
-
-Sabotage was a remote possibility as maintenance was the responsibility of personnel drawn from the countries which formed part of the erstwhile Soviet Union. The track record of maintenance had been without blemish up to that time.
-
-Secondly, an induced explosion could have been possible either through a suicide bomber or through a time-bomb. But again, the security checks at Palaly were extremely stringent and it would have been virtually impossible for anyone to smuggle a bomb into the plane. This left  the third option of the plane being shot down. There were other factors also that supported this possibility.
-
-According to experts, the decompression problem would not have been that serious if it was a technical fault of the compressor. In that case, the plane would have experienced sustained pressure problems for a while. But if the decompression had resulted from a hole in the fuselage, an additional thrust would have been experienced by it. This would have been owing to a jet of air blowing through the hole.
-
-Since the plane was flying at an altitude of 15.000 feet (about 4,500 metres), this would have seriously impaired the controls, resulting in the aircraft plummeting downwards. This again strengthened  the possibility that an extraneous device like an anti-aircraft missile may have done the damage.
-
-As the events unfolded, more and more evidence that the LTTE had indeed shot down the plane began to emerge. Initially, the state-run Daily News reported that the security forces had intercepted an LTTE radio message on the afternoon of September 29, from a cadre who seemed exuberant that a plane had fallen into the sea off Mannar. Most people, however, did not believe this.
-
-Further information came to light when fishermen from Pesalai in Mannar informed the Mannar “kachcheri” or district secretariat that they had seen an aircraft fall into the sea near Iranaitheevu (Twin Islands) within LTTE-controlled territory. Also two of the passengers aboard the missing plane were from Vankalai, another fishing village in Mannar district. They were undergraduate women students of Jaffna University.
-
-Thereafter, the Catholic parish priest of Vankalai, Fr. Thevasagayampillai, ventured into areas held by the LTTE on a fact-finding mission. The priest reported his findings to the Church authorities.The Church however  maintained an official  silence on the issue thereafter
-
-Subsequently . Fr. Thevasagayampillai told the BBC Tamil service  that he had spoken to fishermen and a few other persons from the Iranaitheevu area. They   confirmed the fact that an aircraft that was visibly on fire had fallen into the sea. The fishermen had also recovered six bodies, he said.
-
-The  Vankalai parish priest as well as the Catholic Church were not very revelatory about the visit to the media. This  conspicuous “silence” itself  pointed to the involvement of the LTTE. Moreover, Fr. Thevasagayampillai’s information about the aircraft being on fire too was  crucially important and indicated that the plane may have been shot down.
-
-The Tamil daily Uthayan, published from Jaffna, wrote an editorial about the incident criticising those  responsible for shooting down the aircraft. In the climate of fear that prevails in Jaffna, the editorial by itself was a bold piece of writing. A little bit of reading between the lines was sufficient to reveal which agency the paper was referring to.
-
-Tamil political parties such as the Eelam People’s Revolutionary Liberation Front (EPRLF) and the People’s Liberation Organisation of Tamil Eelam (PLOTE) were more explicit. They blamed the LTTE for the incident and condemned it severely.
-
-The next development was the release of a special report by the human rights monitoring group, the  University Teachers for Human Rights (UTHR). This organisation, comprising former lecturers of Jaffna University, has issued several reports on the conditions in the Tamil areas and have  been  been critical of both the security forces and the LTTE. In a situation where very little criticism of the LTTE emanated from Tamil circles, the UTHR’s reports were  viewed with disfavour by the LTTE, and its members themselves were at risk. In spite of this predicament, the UTHR report was severely critical of the LTTE on the aircraft incident.
-
-Apart from compiling the events in chronological   detail, the UTHR report carried some startling information.
-
-According to the report, the LTTE had erected a clandestine platform at the St. Sebastian’s Church on Sirutheevu. Iranaitheevu consists of two islands: the northern one is Peruntheevu (big island) and the southern one is Sirutheevu (small island). These islands are about 10 km away from the main LTTE base  at Nachikudah on the Mannar coast. The LTTE had erected the platform under the direction of  its Nachikuda sea tiger chief  named  Arul.
-
-According to the report, the fishermen of the area saw the plane falling and were initially fearful, thinking that it was a Sri Lankan bomber. Then, when they realised that it was a civilian plane, the fisherfolk tried to go to the scene of the crash. But LTTE cadres who had assembled there quickly forbade anyone from going out to sea. The fisherfolk also saw LTTE speedboats rushing to the spot.
-
-The LTTE cadres on shore were excited and started  talking among themselves. One interesting fact overheard was that a 17- year-old cadre had shot down the plane. It was then that the residents of Iranaitheevu realised that it was the LTTE that had shot down the plane and that the clandestine platform erected in their church was used for that destructive purpose.
-
-When more information became  available in the  context of certain happenings in the recent past, the LTTE  was  clearly pinpointed  as the perpetrators of the crime. Furthermore years later the alleged  tiger cadre who brought the plane down was apprehended. Parts of the plane’s wreckage were also salvaged by the navy. These matters will be related in detail in the second and final part of this article next week.
-
-This Article appears in the “DBS Jeyaraj Column “Of the “Daily Mirror”dated 23 November 2023.It can be accessed here –
-
-## Sri Lanka’s First Muslim Chief Minister  Najeeb Abdul  Majeed.
-
-*2023-12-31 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83352)*
-
-Mohammed Najeeb Abdul Majeed created history eleven  years ago when he was sworn in as the  Chief minister of the  Eastern province on 18 September 2012 by the then President Mahinda Rajapaksa. Najeeb Abdul Majeed known popularly as Najeeb achieved  two significant  “firsts” then . Not only did he become   the first Muslim chief minister of the Eastern Province but more importantly Najeeb also gained the honour of being Sri Lanka’s first ever Muslim chief minister.
-
-The  affable  Najeeb who  recorded these two remarkable firsts passed away due to illness  last week  at a private hospital in Colombo on 22 December 2023. The  funeral took place at night on the same day in Najeeb’s hometown of Kinniya in the Trincomalee district. 66 year old Najeeb Abdul Majeed is survived by his wife and five children. This article focuses on Najeeb’s eventful life  with special emphasis on the circumstances that led to his elevation as Lanka’s first Muslim chief minister.
-
-Let me commence with a brief description about Muslim political history in the Trincomalee district. After Independence ,Trincomalee district had two single-  member electorates from 1947 to 1960. One was the Tamil majority Trincomalee Constituency and the other, the Muslim majority Mutur pronounced as “Moodhoor” in Tamil.  Although the electorate was named Mutur which had a substantial mixed population of Muslims and Tamils, the area where Muslims were largely concentrated was Kinniya, the hometown of Najeeb.  It is about 20 km away from Trinco town and about 240 km from Colombo. Kinniya with over 97% Muslims has been the determining factor in  the Muslim politics of Trincomalee.
-
-In 1960 Mutur was made a double –member constituency to enable a Tamil also to be elected along with a Muslim. Trincomalee remained a single member electorate. This arrangement was in force till 1977. It was during this time that Najeeb’s father  Abdul Latheef Abdul Majeed was elected to Parliament from Mutur. He won in July 1960, March 1965 and May  1970 and served as MP continuously for 17 years. AL Abdul Majeed was  known popularly  as “Mutur Majeed”.
-
-In 1977-Trincomalee district was carved into three single-member constituencies. While Trincomalee and Mutur were Tamil and Muslim majority electorates respectively, the newly-created Seruwila was a Sinhala majority electorate. After the electoral reforms under President J.R. Jayewardene where the “first past the post winner” system was converted into a scheme of proportional  representation, the entire Trincomalee district became one electoral district. The electorates of Trincomalee, Muttur and Seruwila became electoral divisions.
-
-Dynastic politics is a common feature in Sri Lankan politics regardless of ethnicity. In the Trincomalee district two Muslim families have dominated politics for decades. Both families hail from Kinniya.
-
-The first to make his mark was Mohammed Ehuthar Hadjiar  Mohammed Ali who won in Mutur as an Independent in 1952 defeating the incumbent A.R.M. Abubucker of the UNP. In 1956  MEH Mohammed Ali contested again as an Independent backed by the Ilankai Thamil Arasu Katchi (ITAK)and won with a handsome majority.
-
-After Mutur was made a double member constituency in 1960 MEH Mohammed Ali contested in March 60 as an Independent and was elected as second MP. The first was T. Ahamparam of the ITAK or Federal party. Mohammed Ali contested on the UNP ticket and lost in the 1960 July elections. In 1962 there was a by-election in Mutur after the demise of Ahamparam. Mohammed Ali joined the ITAK and contested under the house symbol and won. He again contested on the ITAK ticket in March 1965 and was elected as the only Muslim MP in that party. He crossed over to the UNP in 1969  and contested in 1970. Mohammed Ali lost.
-
-Later in 1977 Mohammed Ali’s brother Mohammed Ehuthar Hadjiar Maharoof contested on behalf of the UNP in Mutur  and won. MEH  Maharoof won again in 1989 and 1994 also. He was killed by the LTTE in 1997. The family banner was raised again in the 2012 eastern provincial poll when Imran Maharoof  was elected from the Trincomalee district. Imran, the son of M.E.H. Maharoof  was elected to Parliament in 2015 and 2020. A cousin of Imran , MAM Maharoof known as “Sinna”Maharoof was also an MP.
-
-The other prominent Muslim political family from Kinniya is that of Najeeb’s. His father Abdul Latheef  Abdul Majeed first contested Mutur in March 1960 as an Independent and lost. In a bold move he joined the SLFP and contested the July 1960 polls under the hand symbol. Thereafter Abdul Majeed won the 1965 and 1970 elections too. He lost in 1977 in a three-corner fight among UNP’s  Maharoof, Mackeen Master of  the Muslim United Front and himself on the SLFP ticket.
-
-After A.L. Abdul Majeed’s death in 1987 at the hands of the tigers, his son Najeeb entered politics. Later  Imran the son of M.E.H. Maharoof also killed by the LTTE in 1997  entered politics through the UNP. Thus another generation from the two prominent Muslim political families from Kinniya were in the Trincomalee   political ring.
-
-Najeeb A. Majeed was born on January 1st 1957. He had his early education at Kinniya Central College. Thereafter he joined Zahira College in Gampola. At school Najib excelled in track and field and was once the champion in his age group   at a zonal athletic meet. He also played rugger in the positions of Prop and Lock forward. After Gampola Zahira, Najeeb went to Jaffna and studied at the St. John’s Academy. Some of his Tamil classmates from Jaffna  still remember him with affection.
-
-Later Najeeb moved to Colombo and became a junior executive at a Shipping firm. He also began pursuing legal studies as an external student. His life underwent a drastic transformation when his father A.L. Abdul Majeed was killed by the LTTE. Najeeb relocated to Kinniya and  began following his father’s political footsteps. It was in a way an act of defiance to the forces which killed his father as well as an act of homage to his father’s memory.
-
-Najeeb had his electoral baptism in 1989 when he contested Parliamentary Elections from his father’s party the SLFP. He lost. In 1993 he contested in the Kinniya Pradeshiya Sabha hustings and was elected chairman. In 1994 Najeeb faced Parliamentary Elections again.
-
-This was the time when the Sri Lanka  Muslim Congress  Leader MHM Ashraff had entered into an electoral pact with the People’s Alliance (PA) leader Chandrika Kumaratunga. Under this accord the PA was not able to field Muslim candidates of its own in the North and East. The SLFP to which Najeeb belonged was the chief constituent of the PA. He was however the most formidable Muslim candidate who could compete with the UNP’s M.E.H. Maharoof in Trinco district. So was found, a way out.
-
-Najeeb Abdul Majeed contested the polls in 1994 on the Sri Lanka Muslim Congress ticket by joining it. He was elected on the ‘Tree’ symbol with 21,590 preferences and entered Parliament for the first time. His Muslim political rival M.E.H. Maharoof won from the UNP with 17.043 preference votes.
-
-When Parliamentary polls were held in 2000 the SLMC was once again with the PA although Ashraff was no more. Najeeb contested in the Trincomalee district and won again with 18,173 preferences. Najeeb was appointed deputy minister of Posts and Telecommunications. Subsequently there was a split in the SLMC leading to rival factions being led by Ashraff’s disciple Rauff  Hakeem and Ashraff’s widow Ferial Ashraff.
-
-In 2001 the SLMC contested along with the UNP. Najeeb who had remained loyal to Rauff  Hakeem in the SLMC split up with Ferial Ashraff,  contested as part of the tie UNP. He failed to get elected.
-
-The 2004 Parliamentary elections saw Najeeb bouncing back into Parliament with a rousing victory. He got 26,948 preferencial votes. Soon afterwards there was a split in the Muslim Congress where some MPs revolted against Rauff  Hakeem’s leadership. Najeeb was one of the rebel MPs. Another Muslim  party was formed by Rishad Bathiutheen.
-
-Najeeb joined  Bathiutheen’s party called then as the All Ceylon Muslim Congress. It later became the All Ceylon Makkal Congress.  In 2007 Najeeb  returned to the political roots of his family by rejoining the SLFP which was the premier constituent of the UPFA.
-
-Najeeb was Deputy Minister of Local Government and Provincial Councils in the 2004 – 2010 Parliament. In 2007 he was made non – cabinet minister of Cooperatives by President Mahinda  Rajapaksa.
-
-Najeeb contested Parliamentary polls in 2010 and lost. Thereafter he functioned as the Presidential coordinator for the Trincomalee district and SLFP organiser for the Mutur electoral division. When Provincial Council polls were scheduled to be held in September 2012, Najeeb was among the few ex- MPs who entered the fray. He was elected with 11.726 preference votes.
-
-The 2012  Eastern provincial poll saw a “hung” council with the UPFA –NFF and TNA-UNP combines having fifteen seats each. This made the Muslim Congress with seven seats assume the role of Kingmaker in a council of thirty seven. Initially President Rajapaksa  appointed a high level ministerial committee to work out political arrangements  to form a majority, determine the choice of a new Eastern Provincial Chief Minister and finalise composition of the provincial ministerial board.
-
-The four-member team of then  cabinet ministers Basil Rajapaksa,  Anura Priyadarshana Yapa,  Susil Premajayantha and Dullas Alahapperuma  engaged in detailed discussions with SLMC leader Rauf Hakeem, ACMC leader Rishad Bathiutheen, Tamil Makkal Viduthalap Puligal (TMVP) leader Sivanesathurai Chandrakanthan alias Pillaiyan and National Congress   leader A.H.M. Athaullah. The ministers  also  consulted Sri Lanka Freedom Party (SLFP) stalwarts of the east.
-
-When the discussions began the former Chief Minister of the Eastern Provincial Council “Pillaiyan”was strongly tipped to be re-appointed again as Chief Minister on account of an assurance reportedly given by Mahinda Rajapaksa  to him prior to the Eastern Council being dissolved one year ahead of its scheduled term of office. The Govt was apparently thinking of retaining Pillaiyan as Chief Minister until another Tamil became Chief Minister in the Northern province. The Govt. intended replacing Pillaiyan with a Muslim Eastern Chief Minister after elections were held to the Northern Provincial Council and a Tamil Chief Minister assumed office.
-
-These plans however underwent a drastic change after Muslim leaders of all political hues insisted that a Muslim should be made Eastern Chief Minister due to two reasons.
-
-Firstly they pointed out that a Tamil had been appointed chief minister previously and so it was nothing but fair that a Muslim should be made chief minister this time.
-
-Secondly they stated that only one Tamil had been elected from the UPFA this time whereas seven Muslims had won on the betel symbol. The ministerial panel was reminded that although there were more Muslims elected on the betel symbol in 2008 they had consented to the Govt.’s decision of appointing a Tamil then. Now it was the turn of the Muslims.
-
-Independently the SLMC also pressed for a Muslim chief minister. The SLMC emphasised that in a situation where the Tamil National Alliance (TNA) was offering the chief ministership to a Muslim, if the Muslim Congress joined forces with the Tamil party, it would be impossible to convince its eastern supporters to accept a situation where the SLMC agrees to a Tamil chief minister.
-
-The ministerial panel agreed with this position and informed “Pillaiyan” of the change of plan. He was told that he could not be chief minister again but could be compensated with other posts
-
-When it came to the question of a Muslim chief minister the UPFA constituent parties namely Badhiutheen’s ACMC and Athaullah’s NC forged  a common front. Both parties wanted M.S.S Ameer Ali of Oddamavaddi to be the chief minister. Ameer Ali was elected to the Council from the Batticaloa district. He was from the ACMC  but enjoyed  close rapport with Athaullah.
-
-The SLMC for its part pressed its case for a chief minister from their ranks. Rauff   Hakeem wanted the then  SLMC deputy leader Zainulabdeen  Nazeer Ahamed to be the chief minister. Nazeer Ahamed hailing from Eravur had won from Batticaloa district.
-
-SLFP stalwarts from the East including its Sinhala members insisted that the post should go to a SLFP member. They pointed out that allowing someone from a party other than the SLFP to become the first Muslim chief minister would greatly disappoint party loyalists and set a bad precedent.
-
-If the chief minister was to be a Muslim and that too from the SLFP there was only one choice. It was Mohamed Najeeb Abdul Majeed from Kinniya. Najeeb A Majeed was the only Muslim elected on the UPFA ticket from the SLFP. Three Muslims elected on the UPFA from the Amparai district were from Athaullah’s National congress. Three Muslims elected on the betel symbol from the Batticaloa district were from Badiutheen’s All Ceylon Makkal  Congress Also, the only Muslim elected from the UPFA in Trincomalee was Najeeb.
-
-Under these circumstances the Ministerial panel recommended to President Rajapaksa  that Najeeb be made chief minister. Despite this both the SLMC and ACMC – NC wanted their man made chief minister of the east. Their nominee being  appointed as the first Muslim chief minister was a matter of prestige for these parties. The three-corner tussle ended finally with President Rajapaksa’s direct intervention.
-
-President Rajapaksa held a high level meeting of ministers at “Temple Trees” on September 17th. 2012  President Rajapaksa after discussing matters in detail decided upon a formula to appoint the new chief minister for the Eastern province and also allocate provincial ministry and chairman/deputy chairman posts. The Sri Lanka Freedom Party (SLFP)’s solitary Muslim Provincial Councillor Najeeb Abdul Majeed was formally endorsed as chief minister elect on 17 September 2012.
-
-On the following day Mohammed Najeeb Abdul Majeed was sworn in before President Rajapaksa at “Temple Trees”.In a statement issued by him after assuming office on 18 September 2012, the new chief minister pledged to serve the people of the Eastern province regardless of race and religion. Pointing out that all three main ethnicities were living together in the Province the eastern chief minister promised to preserve and foster goodwill, unity and amity among all three. Najeeb also said he would focus on developing the Eastern Province. He also said there were some problems and that he would try and resolve them through negotiations and discussions.
-
-After serving as eastern  chief minister for two and a half years, Najeeb stepped  down in 2015. Nazeer Ahamed became chief minister. Najeeb himself contested the 2015 Parliamentary poll and failed to get elected. He  tried  to  contest  the 2020 elections too  but the  nomination was reportedly rejected by the Elections Commission. Thus Najeeb was out of Parliament again. Meanwhile his health began to deteriorate and finally the end came after a prolonged period  of illness.
-
-Najeeb’s track record in uplifting his hometown Kinniya is commendable . Among his many achievements for Kinniya is the role he played in  upgrading its status from Pradeshiya Sabha to Urban council, the creation of an educational circuit leading to establishment of new schools and enhancement of existing schools, transforming the Kinniya hospital into a base hospital and the construction of roads and parts of the A-15 highway from Muttur to Kinniya. The  jewel in the crown however is the Kinniya bridge.
-
-The Kinniya bridge is 10m wide and 396m (1,299 ft) long. It has replaced the old ferry service on the Kinniya lagoon which is surrounded by the Koddiyar and Thambalagamam bay. The bridge built with Saudi Arabian assistance is part of the A – 15 highway. It was officially declared open on October 20, 2009 by President  Mahinda Rajapaksa. The Kinniya bridge is the longest bridge in Sri Lanka.
-
-This Article appears n the “political Pulse”Column of the “Daily FT “dated 29 September 2023.It can be accessed here –
-
-## Deshabandu Tennekoon along with Tiran Alles and Sagala Ratnayake presides over a media parade, ironically titled ‘Yukthiya’ (Justice) in catching ‘sprats’ of the drug underworld while their political and police Godfathers escape the net.
-
-*2023-12-31 18:00:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83358)*
-
-As Sri Lanka’s newest Bribery Commission cracks its shell with more than a smidgen of difficulty in the backdrop of ugly strain between its metaphorical parents, the Constitutional Council and President Ranil Wickremesinghe, circumstances can hardly be less propitious for this fledgling creature to survive, let alone thrive.
-
-The Commission is established under a law which the President once airily promised, ‘would be the best in South Asia’ regardless of all the lessons that history teaches us on the sharp difference between a ‘law’ and its implementation. One does not need to go very far to highlight the paradoxes. The President’s own Cabinet is stuffed with (alleged) gross corruptors, the latest scandal linked to the former Minister of Health regarding the unbelievably unconscionable procurement of substandard human immunoglobulin.
-
-This is in the wake of two suspects including the former Secretary to the Ministry of Health alleging that their statements to the Minister’s culpability had not been properly recorded by the Criminal Investigations Department (CID).  Commonsense dictates that the Minister concerned does not have a fig-leaf with which to cover himself. But commonsense is, of course, different from the rigorous course of the law. That is why we advisedly use the term ‘alleged.’
-
-This caution is expressed entirely tongue-in-cheek, if the meaning has to be made clearer to the dim-witted among us. But public sentiment has no such reservations, the question is (legitimately) asked as to why the Minister concerned, continues to serve in the Cabinet with another portfolio. In other words, the mood in the court of public opinion is unforgiving if not murderously angry.  It is the man and woman on the street who have to pay with their lives for these frauds, not the rich who retreat to private hospitals or flee to Singapore after all.
-
-Still, it is to the good that the Maligakanda Magistrate yesterday directed the CID to record ‘additional statements’ from the suspects in question in regard to what had been ‘allegedly’ missed. This is now popularly referred to as the ‘immunoglobulin scam’ along with the ‘garlic scam’, the ‘sugar scam’ and countless others including that pernicious ‘Central Bank bond scam.’ Each scandal under a different Government but with the same old faces and the same drama played out over the media.
-
-Perhaps we can record our history of corruption in this way, a sort of a ‘Mahawamsa of corruption’ as it were and teach this to schoolchildren. That can be in the same way that the proud civilisational history of the country is chanted, the old glories of our ‘chaityas,’ our vistas of fertile paddy fields fed by enormous tanks and the grand kings who repeated that not a single drop of water or a single grain or rice shall be wasted.
-
-In fact, teaching children about political corruption and the demise of a nation will be more to the good than repeating those same old stories of Elara and Dhutugamunu and the invincibility of the Sinhala-Buddhist civilisation. As an aside, those stories of the Sinhala being ‘good’ and the Tamil being ‘evil’ are entirely contradictory of the profound respect that these two (Tamil and Sinhala) kings bore for one another. In this as well as in many other things, history is subverted by priests and political rulers alike for their own glory.
-
-But to return to the point of this column, this is why, in all fairness, we express scepticism at the fate of this latest bribery and corruption fighting body that has come into being as 2023 winds down with extreme popular angst. Nevertheless, we must wish it well. In a country where miracles are in short supply, perhaps this will be a Christmas miracle in every sense of that term. Certainly Sri Lanka needs miraculous happenings, brought about by men and women of fortitude and determination to stand up to political and other pressures.
-
-This is exactly what Jesus Christ did when he lashed out in Jerusalem’s Temple against corrupt money changers and merchants, accusing the Temple leaders of ‘thievery’ as the public cheered him. Biblical historians in fact, speculate that the Temple incident was the proximate reason for hastening Christ’s crucifixion with some (arguable) consensus even in the Gospels to that effect. Then as now, the exploitation of the poor was rudely simple.
-
-Priests along with the political rulers of the day and the ruling elite, feasted, fed off and profited from the gullible. This Christmas, the spectacle of Colombo glittering with lights and festivities contrasted obscenely (and I use that word deliberately) with untold miseries in city slums and remote villages.
-
-And even while the Catholic Church’s Cardinal, Malcolm Ranjith preaches his Christmas sermon of castigating Sri Lanka’s rulers for the inequities that they have brought about, perhaps he might reflect on the Church’s role also in that respect.
-
-But essentially, this is what Sri Lanka’s bankruptcy has bequeathed us, the unprecedented widening of the gap between the (extremely) rich and the (extremely) poor and unprecedented lack of sympathy towards the  widened to an unprecedented extent.
-
-Battered as never before in its post-independence history, the majority of the populace pushed into abject poverty by the very rulers whom they chose to elect with ecstatic hosannas as saviours of Sinhala-Buddhism, 2024 promises only extraordinary social unrest as a devastating tax hike crunches in with force.
-
-This is karmic fate, a consequence of decades-old vicious majority-minority propaganda on which only politicians grew rich. They were aided and abetted, let us not forget, by corporate ‘fatcats’, allies in the judicial, legal, medical professions, patrons in the Sangha and (once upon a time) the Catholic Church.
-
-Those not fortunate enough to flee the country’s shores are condemned to live bereft of adequate nutrition, sub-standard education and paltry healthcare with corruption having a free reign. The living suffer while unborn generations abide by their miserable fates. In other words, just a few decades of grossly corrupt rule by Colombo’s political elite have near-completely reversed highly ranked human development gains since independence.
-
-‘We will break into Colombo’s ‘loku’ (large) houses, this is what the man told me’ a neighbour said last week, relating a chilling conversation that he had with a ‘tuk-tuk’ driver. Ominously, this prophecy was said matter-of-fact, almost as if discussing the price of the fare, no more, no less. ‘We cannot live like this, scrounging on the street, our children have no food and cannot pay for their books that the school demands. But Colombo’s five star- hotels are full of the rich. This is not fair. We will rob,’ he had said.
-
-Ordinary crime has skyrocketed while the country’s acting Inspector General of Police (IGP) Deshabandu Tennekoon along with his political patron, Minister of Public Security Tiran Alles and the President’s Chief of Staff Sagala Ratnayake presides over a media parade, ironically titled ‘Yukthiya’ (Justice) in catching ‘sprats’ of the drug underworld while their political and police Godfathers escape the net.
-
-I say ‘ironic’ for many reasons. First, the word ‘Justice’ has come to be the most reviled term in the country, promising anything but justice.
-
-Second, while ‘Justice’ spearheads an operation against the underworld, that is singularly omitted from the Government’s much touted Bill on ‘Truth, Harmony and Reconciliation’ for the minorities, whatever that may mean.
-
-Not Justice, only inequality and inequity beckons in the nemesis of a New Year.
-
-## Five of my Favourite  Christmas Carols – How they Originated and Became Widely Popular
-
-*2023-12-28 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=27241)*
-
-MERRY CHRISTMAS EVERY ONE! COMPLIMENTS OF THE SEASON TO ALL!
-
-Nativity Scene at Bandaranaike International Airport – Katunayake, Sri Lanka – Dec 2022
-
-An integral part of Christmas  is the singing of Christmas carols in churches as well as at events celebrating Christmas.
-
-The Many Faces of Christmas – Shaped Wooden Puzzle from Sri Lanka ~ Photographed at an exhibit of over 900 nativity scenes hosted by the Church of Jesus Christ of Latter Day Saints in Eugene, Oregon, USA-pic-by Mary Harrsch
-
-There was a time when carolling was an important part of Christmas. ‘’Carol parties” including someone dressed as Santa claus would visit the homes of church members during night and sing carols.Refreshments would be served at each and every home. A few firecrackers too would be lit.
-
-This practice of carolling has become near extinct but happily the tradition of conducting special carol services and carol festivals continue. Most church services relating to Christmas feature the singing of carols.Christmas dinners and parties too witness loud carol singing though not tuneful at all times.
-
-Even though large gatherings at home and elsewhere are not possible this Christmas the singing and playing of carols is still possible albeit on a limited scale.
-
-Most carols sung during yuletide are perennial favourites.Each person has his or her particular favourites. I too have many,many favourite carols. Though I would love to post them all here I have not done so for obvious reasons. Instead I have compiled a  tiny selection of my favourite carols and take great pleasure in sharing five of them with you all on my blog.
-
-The immensely popular English carol “Oh Come all ye faithful”has its origins in another carol “Adeste Fideles” written in Latin. Authorship and composition of Adeste Fideles was long disputed  with the names of several being bandied about.One description called it the Portugese hymn. It was in 1947 that the matter was conclusively cleared.It was proved that both the music and words of the four verses in Latin were composed and written by an Englishman from Lancashire John Francis Wade(1711 -1786).Wade was living in a Catholic monastery in northern France when he wrote this.
-
-There have been many translations into English of Adeste Fideles. The most popular and widely used one is “Oh Come all ye faithful”.It was done by an Anglican living in London,Frederick Oakeley (1802-1880).The carol is usually sung last in church services conducted on Christmas eve. The lines”Oh come let us adore him” sung softly first, repeated a little louder next and finally in a loud crescendo is a singular hallmark of this carol.”Oh come all ye faithful”is universally popular and often referred to as “the International carol”.
-
-O Come All Ye Faithful ~ Performed by the Birmingham Boys Choir at the 37th Annual Christmas Concert, December 2, 2014, Canterbury United Methodist Church, Birmingham, Alabama
-
-This carol regarded at one time as one of the four great Anglican hymns was written by Charles Wesley the son of an Anglican clergyman and brother of John Wesley who pioneered the Methodist church.The inspiration for the hymn was the sounds of London church bells Charles heard while walking to church on Christmas day.When Charles wrote it in 1739 the opening couplet was “Hark! how all the welkin rings / Glory to the King of Kings”.It was Wesley’s fellow evangelist George Whitefield who amended the opening to what it is today in 1753. In 1760 Rev.Martin Madan substituted a few lines to what was originally written by Wesley.
-
-When Charles Wesley wrote the words he requested that it be set to slow solemn music.This was adhered to but the current   buoyantly joyful tune in use today  was an adaptation by the English musician William H.Cummings. The tune was originally composed by Felix Mendelssohn in 1840 for the second chorus “Gott ist Licht” (“God is Light”), of the cantata Festgesang (“Festival Song”). Festgesang was written by the German composer to commemorate Johann Gutenberg and the invention of printing. Mendelssohn died in 1847 and in 1855 Dr. William Cummings,adapted and harmonised the  music to the words of Wesley resulting in one of the most uplifting Christmas Carols.
-
-This is a carol with a lilting melody very much similiar to  a marching tune.It was written in 1857 by an ordained deacon of the Episcopalian church named Rev.John Henry Hopkins Jnr. Rev Hopkins who served as the music director of the New York General Theological Seminary wrote the words and also composed the melody for a grand Christmas pageant he organized in new York in 1857. It later found its way into hymn books in 1863.
-
-The song was written as having been sung by the wisemen from the East who journeyed to Bethlehem to pay homage to baby Jesus.The tale related in the Gospel according to St.Mathew does not specify the number of wisemen but it has been assumed that they were a trio because the number of  gifts namely Gold,Frankincense and Myrrh were three.The Bible refers to the wisemen  being guided by a star which is now commonly called the star of Bethlehem. In later years ,oral tradition transformed the three wisemen of the east into three Kings from the Orient. Western Christian tradition regards the three Kings as Melchior a king from Persia,Balthasarr a king from Arabia and Gaspar a king from India.
-
-This carol is said to be the most published Christian hymn in North America.It was written in 1719 by an English writer of hymns Isaac Watts. Based on Psalm 98 .Watts wrote it as a hymn glorifying Christ’s expected second coming rather than his birth.With the passage of time certain verses of the hymn went out of use and the four verses sung are regarded as a Christmas carol.
-
-The tune sung today  was adapted and arranged to the words of Isaac Watts  by Lowell Mason(1792-1872) in 1839.Mason’s  tune is based on  an older melody composed by William Holford.This composition named ‘comfort’ by Holford is said to be derived from Handel’s’’Messiah’’. The refrains like ‘and heaven and nature sing’and ‘repeat the sounding joy’etc appear in the orchestra opening and accompaniment of the choruses in Messiah. Mason adapted the tune to the words of Watts and changed the tune’s name to ‘Antioch’.
-
-This wonderful carol was originally written as“Stille Nacht,Heilige Nacht’in German.It was first sung on Christmas eve in the year 1818 at the St.Nicholas Parish church in the village Oberndorf by the river Salzach in Austria.The words were written in 1816 by a young priest Fr.Joseph Mohr who invited Fransz Xaver Gruber to set the words to music. Gruber was a schoolmaster and church organist.Gruber did so and “Stille Nacht”was rendered  by both Mohr and Gruber during mass on December 24 th 1818.
-
-The  translation into English in 1859 by Episcopaliaan Bishop John Freeman Young is the version sung nowadays as “Silent night”. It has been translated into 142 languages. The melody used today is  more of a slow,reflective lullaby that differs slightly from Gruber’s original tune that was more lively and sprite.The UNESCO declared the carol as an “intangible cultural heritage”in March 2011.
-
-Crib at Six Mile Run Reformed Church, Franklin Park, NJ- December  2014
-
-I do hope that the quintessence of these five favourite carols imbue you all with festive cheer and the Christmas spirit.May peace,hope and goodwill be experienced and shared by all of us
-
-And now let me once again wish you a merry Christmas and a happy new year through the eternally popular 16th century English Carol:
-
-“We wish you a merry Christmas…………………..and a happy new year!
-
-Nativity scene at St Augustine’s church, South Brunswick, NJ, 2018 💒
-
-## Popular  Tamil Cinema Actor  and DMDK  Party Founder -Leader  Vijayakanth Known as ‘Captain’  and “Black MGR” passes away at the age of 71.
-
-*2023-12-28 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83344)*
-
-Tamil super star and Desiya Murpokku Dravida Kazhagam (DMDK) founder Vijayakanth, fondly called as ‘Captain’, passed away at a private hospital in Chennai on Thursday after a prolonged illness. He was 71.
-
-Vijayakanth’s death marks the end of an influential chapter in Tamil Nadu’s political history and leaves a void in the state’s diverse political tapestry.
-
-MIOT Hospital in Chennai released a statement confirming that ‘Captain’ Vijayakanth, who was admitted for pneumonia, was placed on ventilator support due to the severity of his condition. Despite the dedicated efforts of the medical team, the statement said, he succumbed to illness and passed away on the morning of December 28, 2023.
-
-Vijayakanth had previously been admitted to the same hospital on November 18 for a febrile illness, from which he was discharged on December 11.
-
-On December 14, the actor-turned-politician made his first public appearance post-discharge to participate in DMDK’s executive and general council meeting. During the meeting, his wife Premalatha Vijayakanth was announced as the party’s new general secretary.
-
-The passing of Vijayakanth not only signifies the loss of a distinguished personality but also highlights the diminishing influence of a political party that once held considerable potential.
-
-Vijayakanth stood out as the only Tamil actor after M G Ramachandran or MGR to achieve notable success in the realm of Tamil politics.
-
-Vijayakanth who gave moviegoers their dose of adrenalin rush with his powerful action sequences and fiery dialogues was born as Vijayaraj on August 25, 1952 in Madurai. He debuted in the film industry with ‘Iniikum Ilamai’ in 1979. His popular films include Senthoora Poove, Pulan Visaranai, Chatriyan, Captain Prabhakaran, Chinna Gounder, Sethupathi IPS, Honest Raj, Vanathai Pola, and Ramana, among others. Vijayakanth also headed the actors’ body called Nadigar Sangam.
-
-In 2005, he entered politics by floating his party. The DMDK emerged as a fresh political alternative in Tamil Nadu’s Dravidian politics. Vijayakanth’s popularity, particularly in rural areas, was a critical factor in the party’s initial success.
-
-In the 2006 Tamil Nadu Assembly elections, just a year after its inception, the DMDK secured a surprising 8.4 per cent of the votes, contesting in 232 constituencies, with Vijayakanth being the sole winner. He contested from Virudhachalam constituency. This early success established DMDK as a noteworthy player in the state’s political arena.
-
-He turned the tables in the 2011 Assembly polls by joining hands with AIADMK. His party secured 29 seats, pushing the DMK to a distant third and became the state’s main Opposition.
-
-When DMDK contested alone in 2006 Assembly polls and 2009 Lok Sabha elections, they had 8.4 per cent and 10.3 per cent vote share.
-
-Ever since the party entered coalition politics, the career graph has changed. It was 7.9 per cent vote share in 2011 Assembly polls, 5.1 per cent in 2014 Lok Sabha polls, 2.4 per cent in 2016 Assembly polls, 2.16 per cent in 2019 Lok Sabha polls, and 0.43 per cent in 2021 Assembly polls.
-
-Or to put it straight, the party has not won a single seat in the state after 2011, a period that also marked the beginning of the decline of Vijayakanth’s health and gradual withdrawal from active politics.
-
-His journey in the Tamil film industry is a tale of perseverance and eventual triumph. He faced a series of setbacks with initial films failing to make a mark. Doorathu Idi Muzhakkam in 1980 and Sattam Oru Iruttarai in 1981, marked his presence in the industry. His rugged looks and robust portrayal of characters resonated deeply with audiences, particularly in rural areas, and many started calling him ‘Karuppu MGR,’ a period when MGR’s film and political career was nearing to an end.
-
-It was Captain Prabhakaran (1991), a successful movie that earned him the affectionate moniker ‘Captain’. His role in the 1992 film Chinna Gounder as a village chieftain further cemented his status as a beloved actor among the rural masses, thanks to the film’s phenomenal success.
-
-In addition to his cinematic achievements, Vijayakanth was honoured with the Kalaimamani award by the Tamil Nadu government in 2001, recognising his contributions to Tamil arts and cinema. His remarkable performance in the 2002 anti-corruption hit Ramanaa earned him the Tamil Nadu State Film Award.
-
-## Patali Champika Ranawaka wants  the  Inland Revenue Department (IRD) to conduct a proper inquiry into the allegatiion against   Public Security Minister Tiran Alles  by the International Consortium of Investigative Journalists (ICIJ) that he has offshore holdings, identified by Pandora Papers.
-
-*2023-12-24 17:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83335)*
-
-Eksath Janaraja Peremuna leader and SJB MP Patali Champika Ranawaka has said that Public Security Minister Tiran Alles could resort to legal action if there was no basis for the recent declaration by the International Consortium of Investigative Journalists (ICIJ) that he has offshore holdings, identified by Pandora Papers.
-
-Former Minister and SJB MP Ranawaka said the Inland Revenue Department (IRD) should conduct a proper inquiry into the International Consortium of Investigative Journalists (ICIJ) that he has offshore holdings, identified by Pandora Papers.
-
-Lawmaker Ranawaka said so at a recent public gathering at Ambatale. The ICIJ in a statement said that Minister Alles was the first sitting Sri Lankan minister to be identified in the Pandora Papers data trove as having offshore holdings.
-
-An ICIJ analysis of the leaked records and the UK’s public property register claims that Minister Alles owned two BVI companies that held properties in London.
-
-The BVI Business Companies Act (No 16 of 2004) is the principal statute of the British Virgin Islands relating to British Virgin Islands company law, regulating both offshore companies and local companies.
-
-MP Ranawaka responded to media queries after the conclusion of the public gathering organized by Dhanya Samarasinghe, executive member of the women’s wing of the party.
-
-Asked about the steep increase in taxes, with effect from January 01, 2024, Ranawaka maintained that the delay in restructuring of local debt and shortcomings in the overall process had resulted in the increase of interests, and the government’s failure to tax those individuals and companies, that had benefited through debt restructuring, had led to the imposition of unbearable taxes on the vast majority of people.
-
-MP Ranawaka said that if the whole tax process had been digitised within a short period of time revenue could have been increased by 50 percent. The ex-minister said the government had failed to recover unpaid taxes, penalties and interest amounting to well over 900 bn.
-
-Commenting on the high-profile operation undertaken by Acting IGP Deshabandu Tennakoon, targeting the underworld, particularly gangs engaged in narcotics trade, MP Ranawaka alleged that Tennakoon was engaged in a propaganda campaign to secure the post of IGP.
-
-The Colombo district MP questioned why the police had waited so long to launch such operations.
-
-The former JHU stalwart said that confirmation of Tennakoon as the IGP, in spite of him being faulted by the Supreme Court in respect of a fundamental rights application, would be an affront to the law. The public would lose faith in the process that involved the Constitutional Council.
-
-Referring to ‘Mathata Thitha,’ conducted during Mahinda Rajapaksa’s tenure as the President, and his successor Maithripala Sirisena’s declaration that major drug dealers would be hanged, MP Ranawaka said that the ongoing campaign, too, was nothing but a show.
-
-## தமிழரசுக்கட்சியின் தலைமைப் பதவிக்கு மும்முனைப் போட்டி: களத்தில் சுமந்திரன், சிறிதரன், யோகேஸ்வரன்
-
-*2023-12-23 02:22:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83316)*
-
-(This is a  Tamil Translation of the English article headlined “fSumanthiran , Shritharan and Yoheswaran in Triangular Contest to Become Ilankai Thamil Arasuk Latchi (ITAK)President.)
-
-பெடரல் கட்சி (எவ் பி ) என ஆங்கிலத்தில் அழைக்கப்படும் இலங்கை தமிழரசுக்கட்சி வடக்கு மற்றும் கிழக்கிலுள்ள இலங்கைத் தமிழர்களின் முதன்மையான அரசியல் கட்சியாகும்.தமிழரசுக்கட்சி யா னது 1949 டிசம்பர்18 இல் உருவாக்கப்பட்டது.இலங்கைத் தமிழரசுக்கட்சியின் 75வது தினம் அடுத்த வருடம் கொண்டாடப்படவிருக்கிறது .
-
-தமிழர் ஆயுதப் போராட்டம் வருவதற்கு முன்னர் இலங்கைத் தமிழர்களின் முன்னணி அரசியல் கட்சியாக இலங்கைத்தமிழரசுக்கட்சி இருந்தது. பல ஆண்டுகளாககட்சியின் அளவு மற்றும் செல்வாக்கு குறைந்துள்ள போதிலும், ஏனைய இலங்கை தமிழ் தேசியவாதக் கட்சிகளுடன் ஒப்பிடுகையில் அது இன்னும்குழுவில்சிரேஷ் டராக விளங்குகிறது.
-
-வடக்கு மற்றும் கிழக்கு மாகாணங்களில் உள்ள ஐந்து தேர்தல் மாவட்டங்களில் இருந்தும் பாராளுமன்ற பிரதிநிதிகளை கொண்ட ஒரே இலங்கை தமிழ் அரசியல் கட்சி இக்கட்சி என்பது குறிப்பிடத்தக்கது. தற்போது அக்கட்சிக்கு தேசியப்பட்டியலில் உள்ள ஒரு ஆசனம் உட்பட பாராளுமன்றத்தில் ஆறு ஆசனங்கள் உள்ளன. இவர்களில் இருவர் யாழ்ப்பாண தேர்தல் மாவட்டத்தில் இருந்தும் தலா ஒருவர் வன்னி, திருகோணமலை மற்றும் மட்டக்களப்பு மாவட்டங்களிலிருந்தும் தெரிவு செய்யப்பட்டுள்ளனர். தேசியப் பட்டியல் பாராளுமன்ற உறுப்பினர் திகாமடுல்ல/அம்பாறை தேர்தல் மாவட்டத்தைச் சேர்ந்தவர். எனவே, வடக்குகிழக்கின் அனைத்து தேர்தல் மாவட்டங்களிலும் உள்ள தமிழர்களைஇலங்கை தமிழரசுக்கட்சி பாராளுமன்றத்தில் பிரதிநிதித்துவப்படுத்துவதைக் காணமுடிகிறது.
-
-1949 இல் அதன் தொடக்கத்தில் இருந்து பல ஏற்ற தாழ்வுகளுடன் பரபரப்பானதும் சுவாரஷ்யமானதுமான வரலாற்றைக் கொண்டுள்ளது.புத்தாயிரமாமா ண்டில் தமிழ் தேசியக் கூட்டமைப்பு (ரிஎன்ஏ) எனப்படும் முதன்மையான இலங்கைத் தமிழ் அரசியல் அமைப்பில் கட்சியானதுமுதன்மையான அடையாளமாக மாறியது. 2004 ஆம் ஆண்டு முதல் தமிழ் தேசியக் கூட்டமைப்பு பாராளுமன்றம், மாகாணம் மற்றும் உள்ளூராட்சித் தேர்தல்களில்தமிழரசுக்கட்சியின் சின்னமான ”வீடு’ என்ற பெயரில்இந்த அமைப்பு போட்டியிட்டது.
-
-இந்த வருடத் தொடக்கத்தில் தமிழ்த் தேசியக் கூட்டமைப்பில் ஏற்பட்ட பிளவு, தமிழ்த் தேசியக் கூட்டமைப்பின் மூன்று அங்கத்துவக் கட்சிகளில் இரண்டு, அதாவது தமிழீழ விடுதலை அமைப்பு (டெலோ ) மற்றும் தமிழீழ மக்கள் விடுதலை கழகம் (புளொட் ) ஆகிய கட்சிகள் வெளியேறி, மற்ற மூன்று கட்சிகளுடன் இணைந்து மீண்டும் ஜனநாயக தமிழ் தேசிய கூட்டமைப்பு – டிரிஎன் ஏ எனக் கட்டமைக்கப்பட்டது.. டெலோ (3) மற்றும் புளொட் (1) ஆகிய கட்சிகளுக்கு நான்கு எம்.பி.க்கள் இருப்பதால்பாராளு மன்றத்தில்தமிழ் தேசியக்கூட்டமைப்பு பத்தில் இருந்து ஆறு எம்.பி.க்களாக குறைந்துள்ளது, அவர்கள் அனைவரும் இலங்கைத்தமிழரசுக்கட்சியை சேர்ந்தவர்கள். இதனால் இலங்கைத் தமிழ் அரசியல் கட்சியாகதமிழரசுக்கட்சியே தொடர்ந்தும் பாராளு ளுமன்றத்தில் அதிக ஆசனங்களைப் பெற்றுள்ளது.
-
-நீண்டகாலமாக தாமதமாகியுள்ள அக்கட்சியின் மாநாட் டை அடுத்த ஆண்டு ஜனவரி கடைசி வாரத்தில்நடத்துவதற்கு திட்டமிடப்பட்டுள்ளது. ”மாவை’ என அழைக்கப்படும்
-
-தமிழரசுக்கட்சியின்தற்போதைய தலைவர் சோமசுந்தரம் சேனாதிராஜா தனது பதவியைகைவிடும் தருவாயில் இருப்பதால், ஒரு முக்கியமான தலைமை மாற்றம் போட்டியில் உள்ளது. ”மாவை’ 2014 முதல்தமிழரசுக்கட்சியின் தலைவராக உள்ளார். எனவே, திருகோணமலையில் வரும் ஜனவரி மாதம் நடைபெற உள்ள மாநாட்டில் புதிய தலைவர் தேர்ந்தெடுக்கப்படுவார்.
-
-தமிழரசுக்கட்சியின் தலைவர் பதவிக்கு மூன்று போட்டியாளர்கள் களமிறங்குவது ஒரு கட்சிஎன்ற கண்ணோட்டத்தில் சிக்கலாகத் தோன்றுகிறது. மதியாபரணன் ஆ பிரகாம் சுமந்திரன், சிவஞானம் சிறி தரன் மற்றும் சீனித்தம்பி யோகே ஸ்வரன் ஆகிய மூவர் கட்சி தலைமைப் பதவிக்கு விரும்புபவர்கள். சுமந்திரன் மற்றும்
-
-சிறிதரன் இருவரும் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர்கள் என்பதும் யோகேஸ்வரன் மட்டக்களப்பு மாவட்டமுன்னாள் பாராளுமன்ற உறுப்பினரும் என்பது அனைவரும் அறிந்ததே.
-
-2023 30 நவம்பர் 30 இல் வேட்புமனு தாக்கல் முடிவடைந்தபோது, சுமந்திரன் மற்றும் ஸ்ரீதரன் ஆகிய இரு வேட்பாளர்கள் மட்டுமே களத்தில் இருந்தனர். அதற்கான அறிவிப்பு வெளியிடப்பட்டது. இருப்பினும், மூன்றாவது நியமனம் இரண்டு நாட்களுக்குப் பிறகு தமிழரசுக்கட்சியால் பெறப்பட்டது. இது யோகேஸ்வரன் சார்பாக மட்டக்களப்பில் இருந்து அனுப்பப்பட்டது. இதனால் இரு யாழ்.பாராளுமன்ற உறுப்பினர்களுக்கு இடையிலான நேரடிப் போட்டிக்குப் பதிலாகமும்முனைப் போட்டியாக மாறியது
-
-புதிய தலைவரை தேர்ந்தெடுப்பதற்கான கட்சி தேர்தல் வரவேற்கத்தக்க அம்சமாகும். இருப்பினும்,தமிழரசுக்கட்சி அதன் தொடக்கத்திலிருந்தே அதன் தலைவரை தேர்ந்தெடுப்பதற்கு கட்சி க்குள் வாக்கெடுப்பை மேற்கொண்ட தில்லை. நேரடிப் போட்டியைத் தவிர்க்கும் நடைமுறையை அது ஏற்றுக்கொண்டது மற்றும் அதற்குப் பதிலாக ஏக மனதாக தலைவரைத் தெரிவுசெய்வதை தேர்ந்தெடுத்திருந்தது . 1949 இல் நிறுவப்பட்ட காலத்திலிருந்தே, தமிழரசுக்கட்சி கருத்தொருமைப்பாட் டுடன்தலைவரைத் தேர்ந்தெடுக்கும் முறையைப் பின்பற்றி வந்துள்ளது
-
-”தந்தை செல்வா’ என்று அழைக்கப்படும் சாமுவேல் ஜேம்ஸ் வேலுப்பிள்ளை செல் வநாயகம் இலங்கைத்தமிழரசுக்கட்சியின் இணை ஸ்தாபகர் மற்றும் முதல் தலைவர் ஆவார். எஸ்.ஜே.வி.செல்வநாயகம் அவரது கட்சியினரால் ”ஈழத்து காந்தி’ என்று போற்றப்பட்டார். அவர் விரும்பியிருந்தால் அவரது வாழ்நாளில் கட்சியின் தலைவராக இருந்திருக்கலாம். இருப்பினும் செல்வா தனது முதல் பதவிக் காலத்தின் பின்னர் தலைவர் பதவியில் இருந்து விலகினார்.
-
-இருந்தபோதிலும் செல்வா தலைவராக இருந்தபோது, வன்னியசிங்கம், நாகநாதன், ராஜவரோதயம், இராசமாணிக்கம், அமிர்தலிங்கம் போன்ற அவரது பிரதிநிதிகள் சுழற்சி முறையில் கட்சித் தலைவர்களாக பதவி வகித்தனர். செல்வாவின் ஆசீர்வாதத்துடன்முன்கூட்டியே கருத்தொருமைப்பாட்டின்அடிப்படையில் செயற் படுவதால் தேர்தல் எதுவும் நடக்கவில்லை.
-
-1973 ஆம் ஆண்டு அன்றைய வட்டுக்கோட்டை முன்னாள் பாராளுமன்ற உறுப்பினர் அப்பாப்பிள்ளை அமிர்தலிங்கம் மற்றும் மட்டக்களப்பு பாராளுமன்ற உறுப்பினர் செல்லையா ராஜதுரை ஆகியோர் கட்சித் தலைவர் பதவிக்கு ஒருவருடன் ஒருவர் போட்டியிட்ட நிலையில் தேர்தல் நடைபெற வாய்ப்பு இருந்தது. இந்த மோதல் கட்சியில் விரிசல் ஏற்படக்கூடும் என்று அஞ்சப்பட்டது. செல்வநாயகம் தலையிட்டு ராஜதுரையை போட்டியில் இருந்து விலகச் செய்தார்.
-
-தமிழரசுக்கட்சியின் வரலாற்றில் முதன்முறையாக, புதிய தலைவரைத் தேர்ந்தெடுப்பதற்கான உட்கட்சி வாக்கெடுப்புக்கு அக்கட்சி இப்போது செல்கிறது. வடக்கில்தற்போதுபதவியில் இருந்துவரும் இரண்டு எம்.பி.க்களும், கிழக்கிலிருந்து ஒரு முன்னாள் எம்.பி.யும் களமிறங்குவது முத்தரப்புப் போட்டியாகும். தமிழீழ விடுதலைப் புலிகளுடனான யுத்தம் 2009 இல் முடிவடைந்த பின்னர் 2010 இல் தமிழ் தேசியக் கூட்டமைப்பு எம்.பி.க்களாகஇந்த மூன்று பேரும் இணைந்து பாராளுமன்றத்தில் நுழைந்தனர். மூவருமே ஒரு பொதுவான வயதெல்லையை சேர்ந்தவர்கள்.
-
-போட்டியிடும் மூவரில் மூத்தவரான எம்.ஏ.சுமந்திரன் 1964 ஆம் ஆண்டு பிறந்தவர். அவர் தொழில் ரீதியாக ஒரு சட்டத்தரணி ஆவார். 2010 ஆம் ஆண்டு முதன் முதலாக தேசியப் பட்டியல்மூலம் பாராளுமன்ற உறுப்பினராக நியமிக்கப்பட்டார்.இதையடுத்து 2015 மற்றும் 2020 ஆம் ஆண்டு தேர்தல்களில் யாழ் மாவட்டத்தில் இருந்து பாராளுமன்றத்திற்கு தெரிவானார்.
-
-மூவரில் அடுத்தவர் எஸ். ஸ்ரீதரன் 1968 இல் பிறந்தவர். அவர் முன்னாள் ஆசிரியர் மற்றும்பாடசாலை அதிபர் . ஸ்ரீதரன் 2010, 2015 மற்றும் 2020 தேர்தல்களில் யாழ்ப்பாண மாவட்டத்தில் இருந்து தொடர்ச்சியாக பாராளுமன்றத்திற்கு தேர்ந்தெடுக்கப்பட்டார்.
-
-மூவரில் இளையவர் 1970  இல் பிறந்த எஸ்.யோகேஸ்வரன். யோகேஸ்வரனின் தொழில் சமூக சேவையாகும். யோகேஸ்வரன் 2010 மற்றும் 2015 இல் மட்டக்களப்பு மாவட்டத்தில் இருந்து பாராளுமன்றத்திற்கு தெரிவு செய்யப்பட்டார். அவர் 2020 தேர்தலில் போட்டியிட்டார் ஆனால் தெரிவு செய்யப்படவில்லை.
-
-ஒரு கட்சியின் தலைவரைத் தேர்ந்தெடுப்பதற்கு இலங்கைத்தமிழரசுக்கட்சிக்குள் நியமன நடைமுறையானது, மத்திய செயற்குழுவில் குறைந்தபட்சம் ஆறு உறுப்பினர்கள் எதிர்கால கால வேட்பாளரின் ஒப்புதலுடன் ஒரு பெயரை முன்மொழிய வேண்டும். ஒரே ஒரு வேட்பாளர் இருந்தால்,  தேர்தல் இருக்காது. இரண்டு அல்லது அதற்கு மேற்பட்ட வேட்பாளர்கள் இருந்தால், போட்டி இருக்கும்.
-
-ஒரு தேர்தல் நடந்தால்,தமிழரசுக்கட்சியின் பொதுக்குழு உறுப்பினர்கள் மற்றும் மத்திய செயற்குழு உறுப்பினர்களே வாக்களிக்க தகுதியுடையவர்களாகும் . மத்திய செயற்குழு 50 உறுப்பினர்களைக் கொண்டுள்ளது. ”பொது சபை’ அல்லது பொதுக்குழு 225 உறுப்பினர்களைக் கொண்டுள்ளது. இதனால் 275 பேர் கொண்ட வாக்காளர்கள் புதிய கட்சித் தலைவரைத் தேர்ந்தெடுப்பார்கள். அதன்பிறகு, தேர்ந்தெடுக்கப்பட்ட கட்சித் தலைவர் கட்சி மாநாட்டில் ஏக மனதாக அங்கீகரிக்கப்படுவார்.
-
-மத்திய குழுவில் மாவட்ட அளவில் பிரதிநிதிகளாக தேர்ந்தெடுக்கப்பட்டவர்கள் மற்றும் விசேட நலன்களை பிரதிநிதித்துவப்படுத்த கட்சி தலைமையால் நியமிக்கப்பட்டவர்கள் உள்ளனர். பொதுக்குழுவில் கட்சியின் வலயக் கிளைகளை (கோட்டம்) பிரதிநிதித்துவப்படுத்தும் உறுப்பினர்கள் இருப்பர். வடக்கு மற்றும் கிழக்கு மாகாணங்களில் உள்ள எட்டு மாவட்டங்களில் இருந்தும், கொழும்பிலிருந்தும் 45 வலயக் கிளைகள் உள்ளன. ஒவ்வொரு கிளைக்கும் ஐந்து பிரதிநிதிகள் இருப்பார்கள். பொதுக்குழுவில் 225 உறுப்பினர்கள் இருப்பர்.
-
-2023 நவம்பர் 30, அன்று வேட்புமனு தாக்கல் முடிவடைந்தபோது, சுமந்திரன் மற்றும் சிறிதரன் ஆகிய இரு வேட்பாளர்கள் மட்டுமே களத்தில் இருந்தனர். அதற்கான அறிவிப்பு வெளியிடப்பட்டது. எவ்வாறாயினும், நவம்பர் 30 ஆம் திகதியன்று பதிவு செய்யப்பட்ட தபால் மூலம் அனுப்பப்பட்ட மூன்றாவது நியமனம் இரண்டு நாட்களுக்குப் பிறகுதமிழரசிக செயலாளரான டாக்டர். பி. சத்தியலிங்கத்தால் பெற்றுக்கொள்ளப் பட்டது. இது யோகேஸ்வரன் சார்பாக மட்டக்களப்பில் இருந்து அனுப்பப்பட்டது. இதனால் யாழ்.பாராளுமன்ற உறுப்பினர்களுக்கு இடையிலான நேரடிப் போட்டிக்குப் பதிலாக மும்முனைப் போட்டியாக மாறியது.
-
-குறைந்தபட்சம் ஆறு மத்திய குழு உறுப்பினர்கள் ஒரு வேட்பாளரை பரிந்துரைக்க முடியும் என்றாலும், சுமந்திரனின் வேட்புமனுவை டஜன் பேர் ஆதரித்திருந்தனர். யாழ்ப்பாண மாவட்டத்தைச் சேர்ந்த நான்கு பேரும், கிளிநொச்சி, மன்னார், முல்லைத்தீவு, வவுனியா, அம்பாறை, மட்டக்களப்பு, திருகோணமலை மற்றும் கொழும்பு ஆகிய மாவட்டங்களில் இருந்து தலா ஒருவரும் இதில் அடங்குவர். சுமந்திரனின் பெயரை முன்மொழிந்தவர்களில் மட்டக்களப்பு பாராளுமன்ற உறுப்பினர் சாணக்கியன் இராசமாணிக்கம், ஐ.தே.க நிர்வாக செயலாளர் சேவியர் குலநாயகம் மற்றும் தமிழரசுகட்சியின் சிரேஷ்ட உப தலைவரும் வடமாகாண சபையின் முன்னாள் தலைவருமான சி.வி.கே.சிவஞானம் ஆகியோரும் அடங்குவர்.
-
-யாழ்ப்பாண மாவட்ட பாராளுமன்ற உறுப்பினர் சிறிதரனைப் பொறுத்தமட்டிஅவரின் அரசியல் கோட்டை கிளிநொச்சி மாவட்டமாகும். கிளிநொச்சி தனியான நிர்வாக மாவட்டமாக இருந்தாலும், அது யாழ்ப்பாண தேர்தல் மாவட்டத்தின் ஒரு பகுதியாகும். கடந்த தேர்தல்களில் கிளிநொச்சியில் இருந்தே சிறி தரன்அதிக விருப்பு வாக்குகலாய் பெற்றிருந்தார். அந்தவகையில் அவர் முன்னாள் வடமாகாண அமைச்சர் குருகுலராஜா மற்றும் கரைச்சி பிரதேச சபையின் தலைவர் வேள மாலிஹிதன் உட்பட கிளிநொச்சியிலிருந்து 6 பேரால் பரிந்துரைக்கப்பட்டார்.
-
-சீனித்தம்பி யோகேஸ்வரனும் மட்டக்களப்பு மாவட்டத்தில் இருந்து ஆறு பேரால் பரிந்துரைக்கப்பட்டார். இதில் மட்டக்களப்பு முன்னாள் பாராளுமன்ற உறுப்பினர் அரியநேந்திரனும் ஒருவர். யோகேஸ்வரனின் வேட்புமனு உண்மையில் ஆச்சரியத்தை ஏற்படுத்தியது என்பதும் குறிப்பிடத்தக்கது. சுமந்திரன் மற்றும் சிறிதரன் ஆகியோர் சாத்தியமான போட்டியாளர்கள் என்ற ஊகங்கள் எப்பொழுதும் இருந்தபோதிலும், யோகேஸ்வரனின் பெயர் குறிப்பிடப்படவில்லை. இப்போதும் கூட, முக்கியமான தினத்துக்கு முன்னதாக யோகேஸ்வரன் போட்டியிடுவதில் இருந்து விலகிக் கொள்ளுமாறு யோகேஸ்வரன் வற்புறுத்தப்படக்கூடுமென என்று சிலர் கருத்து தெரிவிக்கின்றனர்.
-
-இந்தச் சூழ்நிலையில், யோகேஸ்வரன் வெளியேறாவிட்டாலும்,தமிழரசுக்கட்சி தலைமைக் கான தேர்தல் சுமந்திரனுக்கும் சிறி தரனுக்கும் இடையிலான ”இருவர் போராட்டமாக’ மாறும் என்று தோன்றுகிறது. தமிழரசுக்கட்சியின் செயற்குழு மற்றும் பொதுக்குழு உறுப்பினர்களை சந்திப்பதன் மூலம் இருவரும்பிரசாரத்தை தொடங்கியுள்ளதாக செய்தி அறிக்கைகள் குறிப்பிடுகின்றன.
-
-இதற்கிடையில், இரு போட்டியாளர்களின் ஆதரவாளர்களும் அனுதாபிகளும் சமூக ஊடகங்களில் தங்களுக்குப் பிடித்தவர்களின் தகுதிகள் மற்றும் நற்பண்புகளைப் பிரசாரம் செய்கிறார்கள். உத்தியோகபூர்வ அல்லது அதிகாரபூர்வமற்ற பிரசாரங்கள் தாழ்ந்த மட்டத்திற்கு இறங்கவில்லை. குறைந்தபட்சம் இன்னும் இல்லை. ஆனால் 2024 பிறந்தபின் பிரசாரங்கள் வேகமெடுக்கத் தொடங்கும் என்பதால் சாத்தியப்பாடு களை நிராகரிக்க முடியாது.
-
-தமிழரசுக்கட்சியின் பழைய காலத்தவர்கள் ,முக்கியஸ்தர்கள் மற்றும் தமிழ் அரசியல் க ட்சியில் அக்கறையுள்ள பார்வையாளர்கள் தலைமைத்துவப் போட்டிக்கான மோசமான நிலைமை ஏற்படும் சந்தர்ப்பம் குறித்து .கவலைப்படுகின்றனர் இப்படியான சண்டை, கட்சியின் கட்டமைப்பைக் குலைத்து கடுமையான விரிசலை ஏற்படுத்தும் என்று அஞ்சப்படுகிறது.
-
-தோல்வியடைந்தவர் தேர்தலுக்குப் பிறகு வெற்றியாளருடன் இணைந்து பணியாற்றத் தயாராக இருப்பார் என்று கூறினாலும், கசப்பான,போட்டிக்குப் பிறகு ஒருவர் மற்றவருடன் இணைந்து பணியாற்ற முடியாது. அந்தந்த ஆதரவாளர்களே சாதகமாக இல்லாமல் இருக்கலாம். அதுமட்டுமின்றி, நாட்டின் தமிழ் அரசியலின் வரலாறு, கருத்தியல் வேறுபாடுகளாகக் காட்டிக் கொள்ளும் தன்னகங்கார மோதல்களின் தொடர்ச்சியாகவே இருந்திருக்கிறது என்பதை மறந்துவிடக் கூடாது. இது தமிழ் போராளிகளுக்கும் பொருந்தும்.
-
-இலங்கை தமிழ் தேசியவாத அரசியலின் முக்கிய அம்சம் வடக்கு மற்றும் கிழக்கில் இருந்து ஒரு அரசியல் கட்சி கணிசமான தொகுதிகளில் வெற்றி பெறுவது தொடர் நிகழ்வாகும். இது சம்பந்தப்பட்ட கட்சிக்கு குறிப்பாக தமிழரசுக்கட்சி கடந்த காலங்களில் அரசாங்கங்களை உருவாக்க மற்றும்/அல்லது உருவாக்காமல் இருக்க உதவியது. அண்மைக் காலங்களில் தமிழ்த் தேசியக் கூட்டமைப்பும் பாராளுமன்றத்தில் வடக்கு மற்றும் கிழக்கு தமிழர்களைப் பிரதிநிதித்துவப்படுத்தும் முதன்மையான அரசியல் கட்டமைப்பின் அடிப்படையில் ஜனாதிபதிகளுடனும் அரசாங்கங்களுடனும் ஈடுபட முடிந்தது.
-
-தமிழ்த் தேசியக் கூட்டமைப்பினரின் அண்மைய முறிவு மற்றும் தமிழ் அரசியலின் அதிகரித்துவரும் பிளவுபடுத்தல்ஆகியவை அடுத்த பாராளுமன்றத்தில் எந்தவொரு தமிழ் கட்சியும் பெரும்பான்மை ஆசனங்களைக் கைப்பற்ற முடியாது என்பதையே உணர்த்துகிறது. ஒப்பீட்டளவில் குரல் கொடுப்பதில் தமிழரசுக்கட்சி மிகவும் மோசமாக இருக்கும், ஒருபுறம் தமிழ் முரண்பாட்டு அரசியல் சிந்தனையையும் மறுபுறம் தமிழ் இணக்கப்பாட்டு அரசியல் சிந்தனையை யும் இழக்க நேரிடும்.
-
-சுமந்திரன்சிறி தரன் தலைமைத்துவ மோதலின் விளைவாக இலங்கைதமிழரசுக்கட்சி உடைந்தால், இரு பிரிவினருக்கும் விளைவுகள் கடுமையாக இருக்கும். ஒரு சமரசத்திற்கு வரும் போட்டியாளர்களால் தேர்தல் நிராகரிக்கப்பட்டால், சாத்தியமான பிளவின் பேரழிவை சிறந்த முறையில் தவிர்க்கலாம் அல்லது பிற்போடப்படலாம்.
-
-இலங்கைத்தமிழரசுக் கட்சி தலைமைத் தேர்தல் நடைபெறும் போது மற்றொரு சாத்தியமான ஆபத்து வெளிப்புறத் தலையீடு ஆகும். வெளிப்புற முகவர்கள் மற்றும்செயற்பாட் டாளர்கள் அதிகளவுக்கு  முடிவைப் பாதிக்க முயற்சி செய்யலாம். மூன்று சாத்தியங்கள் உள்ளன. புலம்பெயர் தமிழர்களின் கூறு கள் , இந்தியாவில் இருந்து கூறுகள் மற்றும் ஆழமான இலங்கைஅரசின் கூறுகள் என்றுமூன்று சாத்தியங்கள் உள்ளன இந்த தருணத்தில் இந்த அம்சங்களைப் பற்றி மேலும் விவரிக்க விரும்பவில்லை, ஆனால் எதிர்காலத்தில் தேவைப்பட்டால் அவ்வாறு செய்வேன்.
-
-ஏற்கனவே கூறியது போல் தேர்தல் பிரசாரம் இப்போதுதான் துவங்கி இன்னும் சூடு பிடிக்கவில்லை.தமிழரசுக்கட்சி தலைமைத்துவப்போட்டி பற்றிய நுண்ணறிவைப் பெற வடக்கு மற்றும் கிழக்கில் உள்ள பல தமிழ் ஊடகவியலாளர்களுடன் நான் உரையாடினேன். இந்த ஊடகவியலாளர் வட்டாரங்களின்பிரகாரம் , சுமந்திரன் மிகக் குறைந்த பெரும்பான்மையுடன் வெற்றி பெறுவார் என எதிர்பார்க்கப்படுகிறது. ஆனால் பிரசாரம் தீவிரமடையும் போது நிலைமை மாறலாம்.
-
-எனவே நல்ல எண்ணம் கொண்டதமிழரசு க்கட்சி பிரமுகர்கள் மற்றும் நலன் விரும்பிகள் இப்போதே தலையிட்டு வருவது விவேகமானது மற்றும் எளிதானது.
-
-இணக்கப்பாடு பற்றி சம்பந்தன், மாவை சேனாதிராஜா, சி.வி.கே.சிவஞானம், குருகுலராஜா போன்ற தமிழரசுக்கட்சியின் தலைவர்கள் மற்றும் சட்டத்தரணி, கே.கனகஈஸ்வரன், கல்விமான் நிர்மலா சந்திரஹாசன் போன்ற ”வெளிப்புற’ நலன் விரும்பிகள் மற்றும் சில செல்வாக்கு மிக்க பத்திரிகை ஆசிரியர்களை சாதகமாக செயற் படக்கூடியவர்களாக நான் நினைத்துக் கொண்டிருக்கிறேன்.
-
-மற்றும் இது சம்பந்தமாக ஆக்கபூர்வமாக. அவர்கள் முன்முயற்சி எடுப்பார்கள் என்றும், போட்டியாளர்களும் அவர்களின் ஆதரவாளர்களும் தமிழரசுக்கட்சி மற்றும் நீண்டகாலமாக அவதிப்படும் தமிழ் மக்களின் நலன்களுக்காக செயற் படுவார்கள் என்றும் நான் நம்புகிறேன்.
-
-சுமந்திரனுக்கும் சிறி தரனுக்கும் இடையில் ஒரு சமரசம் சாத்தியமற்றது என்று நினைக்கும் ஆட்கள் உள்ளனர். அவர்கள் சரியாக இருக்கலாம். ஆனால் சமரச முயற்சியால் எதுவும் இழக்கப்படுவதில்லை. எல்லாவற்றிற்கும் மேலாக, 2020பாரா ளுமன்றத் தேர்தலில் சுமந்திரனும் சிறி தரனும் ஒரு அணியாகச் செயற் பட்டு கூட்டுப் பிரசாரத்தை மேற்கொண்டனர் என்பதை மறந்துவிடக் கூடாது. அதனால்தான் அவர்கள் இருவர் மட்டுமே யாழ்ப்பாணத்தில் வெற்றி பெற்றதமிழரசுக்கட்சி வேட்பாளர்கள். ”ஒன்றுபட்டால்உண்டுவாழ்வு, பிளவுபட்டால் அனைவருக்கும் தாழ்வு’ என்ற பழமொழியை சுமந்திரன் சிறிதரன்ஆகிய இருவரும் மறந்துவிடக் கூடாது.
-
-## Kandy-born MG Ramachandran (MGR) was Uncrowned King of Tamil Cinema   and Chief Minister of Tamil Nadu State
-
-*2023-12-23 01:11:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83330)*
-
-Maruthur Gopalan Ramachandran known popularly as  MGR ruled  Tamil movidom for three decades until becoming Chief Minister of India’s Tamil Nadu State in 1977. MGR served as chief minister (CM) for ten years until his demise in 1987. His 36th death anniversary will be commemorated this week on December 24.
-
-MG Ramachandran entered active politics in the fifties of the last century. He was elected to the state legislature in the sixties and became CM in the seventies. When he died after 10 years as Chief Minister on 24 December 1987, MGR was 70 years of age
-
-MGR –born in Sri Lanka — was a Malayalee hailing from Kerala. He grew up in Tamil Nadu and was active in politics for decades before forming a party and becoming CM.
-
-M.G. Ramachandran’s or MGR’s life was a rags to riches tale!
-
-Since 1967 the South Indian State of Tamil Nadu has been ruled by political parties adhering to what is termed as Dravidian ideology. ‘Dravidianism’ in essence espouses economic development, social justice, equality, the elimination of caste discrimination, women emancipation, secularism, rationalism, self-respect,  greater cooperation among South Indian states, Opposition to Hindi imposition and a Tamil national consciousness.
-
-The ‘Dravidian’ political ideology has been ruling the roost in Tamil Nadu for the past 56 years. Either the Dravida Munnetra Kazhagham (DMK) or its alternative the All India Anna-Dravida Munnetra Kazhagham (AIADMK) have been enjoying power in the State. Currently  the DMK is  ruling the state
-
-In spite of this “Dravidian” heritage of rationalism and self-respect, it is Tamil Nadu that has allowed film stars to exercise political hegemony like no other. In 1977, M.G. Ramachandran became the first film star to take up chief ministership of an Indian state.  He ruled from 1977 to 1987 being thrice elected as chief minister of Tamil Nadu. After his death MGR was succeeded briefly by his wife Janaki Ramachandran, who was herself a former film heroine. Then came, Jayalalithaa Jayaram, MGR’s ‘leading’ lady with whom he had starred in 28 films. She ruled for a total of 15 years. Jayalalithaa was elected as chief minister in 1991, 2001, 2011 and 2016. As a Tamil wag put it, “MGR is the only actor-chief minister, who ensured that his actor wife as well as actor paramour succeed him as CM.”
-
-Interestingly, MGR had a Sri Lankan connection being born in Hantane, Kandy. His father was at that time teaching in an estate school in Kandy. MGR, the youngest child, was born at home in Hantane on Jnuary 17, 1917. He grew up in Kandy till he was two. In 1919 the family returned to India.
-
-MGR’s father Gopalan Menon was a judicial officer who served in places like Trichur and Ernakulam in what is today India’s Kerala State. MGR’s mother Sathyabhama was a not-so-well-educated housewife. There were five children in all. Four were born in India. They were two boys named Chakrapani and Balakrishnan and two girls named Kamalaatchi and Subathra. The youngest born in Sri Lanka was given the name Ramachander at birth. M.G. Ramachander later altered his name to Ramachandran. Three of the five children died in their infancy. Only the eldest Chakrapani born in 1911 and the youngest Ramachander survived.
-
-Meanwhile, the father fell into trouble over an ethical issue. He was interdicted pending a disciplinary inquiry. A chagrined Gopalan Menon resigned and sought fresh employment elsewhere. Sri Lanka during the period of British rule was a powerful magnet for many unemployed or underemployed people of South India. Thus Gopalan or Gopalan Menon (Menon is a caste-denoting suffix) obtained a teaching job in the Island and moved to Kandy where Ramachander was born. However Gopalan fell ill and in 1919 returned to India with his family. They took up residence in a place called Othappaalam where Gopalan started tutoring children from rich families.
-
-Tragedy struck in 1920 as Gopalan passed away due to illness when young MGR was only three and Chakrapani nine. Their mother Sathyabhama then relocated to Kumbakonam, in present day Tamil Nadu, where her brother Narayanan’s family was residing. Chakrapani continued his studies at the Aanaiaddy School in Kumbakonam. A few years later Ramachander also started going to the same school.
-
-Sathyabhama called Sathya struggled to bring up her two sons. She worked as a domestic servant doing cleaning in Brahmin homes. After a while brother Narayanan suggested that Chakrapani should give up school and find work because of the family’s precarious financial state. Narayanan himself was attached to the drama troupe ‘Madurai Original Boys Company’. The troupe specialised in staging plays with young boys as actors. Uncle Narayanan found a place for the nephew at the drama company as an actor. A few years later Ramachander also followed his elder brother’s footsteps and joined the Boys Company. Both brothers toured many places as drama actors.
-
-Meanwhile, the cinema industry began taking root in India. The silent movies gave way to talkies and filmmaking became a craze. Many film companies hired stage actors to act on screen also. Young Ramachander got his first chance in films when the film ‘Sathi Leelavathy’ was made in 1936.
-
-MGR’s career as a film actor proceeded in fits and starts. Though he had the necessary looks, physique and martial skills required by an actor, MGR lacked a good singing voice. In those days the main actors had to sing in their own voices on screen. A Tamil film of yore had song sequences numbering double digits. The inability to sing deprived MGR of opportunities to act in lead or meaty roles. He had to be content with minor roles. MGR acted in only 20 films during the 1936 to 1947 years. His name was displayed as M.G. Ramachander in the titles then.
-
-The film song sphere in Tamil moviedom got a fillip in the forties of the last century. Instead of compelling actors to sing in their own voices, filmmakers introduced the art or craft of playback singing. The songs would be sung by reputed singers and recorded. The actors on screen would lip synch accordingly. Thereafter the sound track and film track would be synchronised accordingly via re-recording. This innovation enabled actors lacking singing talent to get good or lead roles in films.
-
-The novelty of playback singing was like manna from heaven to MGR. A noted singer, M.M. Maariyappah, began to voice for MGR in films. In later years singers like T.M. Soundararajan, Seergali Govindarajan, A.M. Rajah, C. S. Jayaraman, S.P. Balasubramaniam and K.J. Yesuthas voiced for MGR. T.M. Soundarajan is regarded as the best playback singing voice for MGR.
-
-M.G. Ramachandran was picked by Jupiter films to play the hero in the film ‘Rajakumari’ (Princess). ‘Rajakumari’ was a roaring success commercially. MGR now began getting more lead roles. In most films he played an action hero. Soon he became a popular actor whose films were box office hits. The magic initials “MGR” began garnering an incredible number of fans.
-
-Even as MGR was tasting triumph as an actor, tragedy struck. His mother Sathya passed away in 1950. Thereafter MGR began to treat his mother as a divine being and worshipped her portrait daily. He also re-named the Neptune studio he acquired as Sathya Studios and floated a movie production company called Sathya Movies. His residential estate in Ramaavaram was also called Sathya Thottam.
-
-The death of his mother was not the only blow MGR suffered. He lost his first wife Paarkavi a.k.a. Thangamani in 1942 after two years of married life. His second wife Sathaananthavathi whom he married in 1943 was afflicted with tuberculosis and was bedridden for many years. She died in 1962. MGR’s third wife was V.N. Janaki an actress herself. Cupid’s arrows pierced their hearts when they first acted together in the film ‘Marutha Naattu Ilavarasi’ (Princess of Marutha Country).
-
-Though MGR and Janaki fell in love they could not get married formally as both were married to other persons. MGR was married to Sathaananthavathi and Janaki to another artiste named Ganapathy Bhatt. Janaki separated from Bhatt and filed for divorce. She obtained a divorce after protracted legal proceedings. She began living together with MGR from 1959 but could not marry him because his wife Sathaanandavathy was alive. It was only after her death in 1962 that Janaki and MGR got married legally in 1963. Janaki survived MGR and passed away in 1996.
-
-MGR acted in 116 films during the period from 1947 to 1978. He gave up acting in 1977 after he became Tamil Nadu Chief Minister. His last film ‘Maduraiyai Meetta Sundarapaandiyan’ (Madurai Liberator Sundarapaandiyan) was released in 1978. Twelve of MGR’s films were silver jubilee hits running for over 25 weeks each. Another 68 films ran for more than 100 at theatres during their first screenings. Even the MGR films that did not initially run for 100 days turned out to be money-spinners in the long run as each re-release brought large audiences to theatres.
-
-MGR had a formula of his own in the films he acted in. The story had to be sentimental with displays of mother-son love or brother-sister affection. Despite ups and downs and twists and turns, the good guy had to triumph in the end. Needless to say MGR was always the good guy except for a few in the early stages of his career. The films had to have a positive message imparting a lesson to the people. The hero was regularly portrayed as a paragon of virtue who fights for justice on the side of the oppressed. The hero sings philosophical songs.
-
-Besides these features, a typical MGR film always had thrilling fight scenes and titillating love song sequences. MGR got the finest villain actors to play opposite him. Likewise MGR always had the loveliest actresses as his scintillating heroines on screen. Among the actresses with whom MGR paired in the most number of films was Jayalalithaa Jayaram as leading lady. It was well-known that MGR was infatuated with the alluring actress with whom he acted in 28 films. Though unmarried, Jayalalithaa was regarded as the love of MGR’s life. There was a time when MGR in a movie called ‘Thanipiravi’ (Unique Being) played Lord Muruga and Jayalalithaa his consort Valli in a dream sequence. A picture of both together as Murugan and Valli was framed and worshipped by many of his fans.
-
-MGR himself underwent two transformations as his acting career blossomed. Firstly he changed his name from Ramachander to Ramachandran. Nevertheless it was as MGR that he was widely known. Secondly, he joined the ranks of the newly-formed Dravida Munnetra Kazhagham (DMK) led by C.N. Annadurai known as “Anna” or elder brother.
-
-In Tamil Nadu it was the DMK that first attempted to use cinema for political propaganda in the post-independence years. Films scripted by Annadurai were well-received and its political content made great impact. But it was his deputy, Karunanidhi who really hit it big as script-writer. Karunanidhi developed a writing style that was flowery and alliterative and soon became very popular.  It was Karunanidhi who enticed MGR into the DMK political fold.  Both Annadurai and Karunanidhi became chief ministers in later years.
-
-Even as film stars were being used for political propaganda, the film stars in turn began using politics for their personal advancement. MGR himself commenced constructing and consolidating a personal political base. When he starred in films, the lines he delivered on screen carried hidden political meaning. An example was the constant reference to the morning sun, the DMK symbol. In colour productions, MGR would wear the party colours, black and red. He also sang songs on screen pledging sweeping social reforms that would remove socio-political inequalities.
-
-Gradually, MGR’s screen persona started reflecting the DMK’s image. The difference between reality and make-believe blurred, while he continued to pull crowds. As Annadurai once said of MGR, “Sollukku pathu latcham. Mugathukku muppathu latcham.” (One million votes for his speech. Three million for his face).
-
-In his roles, MGR always fought for the underdog against tyranny and injustice. He took special care to project a social message in most songs and took care to act in different roles so that different segments of the population could relate to and identify with him. The movies, titled simply but astutely, in which he played lead roles, include ‘Padagotti’ (Boatman), ‘Meenava Nanban’ (Fisherman Friend), ‘Thoilaali’ (Worker), ‘Vivasayee’ (Agriculturist), ‘Rickshawkaran’ (Rickshawalla) and so on. These occupational groups began treating MGR as one of their own.
-
-A unique feature of the relationship between the movie stars of the Indian south and their fans was the phenomenon of fan clubs. M.G. Ramachandran probably encouraged the proliferation of fan clubs from late 1940s onwards and the clubs ended up as a well-knit federation that counted its membership in the millions. The clubs held annual conventions and also participated in social service projects.
-
-When MGR entered active politics, his fan clubs were in turn politicised and soon became an indispensable component of the DMK propaganda machine. In MGR’s case both spheres mutually reinforced each other — film popularity providing political mileage and political positions strengthening film popularity.
-
-The popularity of MGR within the DMK party and Tamil Nadu State caused major convulsions. In a bid to counteract MGR’s charisma, the then DMK chief minister Karunanidhi encouraged his son M.K. Muthu to enter movies. The father, while in office as Chief Minister, wrote the story and dialogue for Muthu’s first film ‘Pillaiyo Pillai’ (Oh, What a Son). Muthu fan clubs were set up overnight, with father Karunanidhi’s backing.
-
-MGR, realising what was in store, engineered a split within the party in 1972 on the grounds of corruption charges against the incumbent regime. Incidentally, MGR did not have any problems in setting up new party structures —he merely converted his fan clubs into party branches.
-
-MGR formed the Anna-Dravida Munnetra Kazhagham (ADMK) after splitting from the DMK in 1972. He later amended it to All-India Anna Dravida Munnetra Kazhagham (AIADMK). His followers who dubbed him earlier as “Puratchi Nadigar” or ‘Revolutionary Actor’ now hailed him as “Puratchy Thalaiver” (Revolutionary Leader). MGR incurred much mirth among political pundits when he stated that his party ideology was a blend of “capitalism, socialism and communism”. MGR had the last laugh on his detractors when his party romped home as winners in 1977.
-
-MGR became Chief Minister of Tamil Nadu. MGR was elected Chief Minister again in 1980 and 1985 after his party won at the polls.  He was now praised as “Puratchi Mudhalvar” (revolutionary chief minister). MGR died in harness as Chief Minister in 1987. Prime Minister Rajiv Gandhi bestowed upon him posthumously the “Bharat Ratna” which is the highest civilian honour in India.
-
-The MGR phenomenon was no doubt unique, and his mystique continues its hold over Tamil psyche even today. Before his death, he had come to personify the aspirations of the common people but as more than just a symbol. As political leader, he was also seen as a vehicle for realising their dreams.  So powerful and lasting has been the MGR legacy that, decades after his death, the crowds cheer madly at the mere mention of his name at election meetings in Tamil Nadu.
-
-## Anura Kumara  Dissanayake ’s national liberation movement and the Tamil National question
-
-*2023-12-23 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83328)*
-
-National People’s Power (NPP) Leader Anura Kumara Dissanayake (AKD) is at present intensely focused on the need for a national liberation movement. According to him, when looking at the social, political, and economic realities of Sri Lanka, it is clear that what is needed today is social change; what is needed for the system change that people yearn for is not a political party, but a national liberation movement.
-
-He explains that the Janatha Vimukthi Peramuna (JVP) is this party and that the NPP is the national movement.
-
-Judging by the views expressed by Dissanayake at a recent interview with Meera Srinivasan, Colombo correspondent for Chennai-based influential English daily The Hindu, it is understandable that he is trying to say that the NPP – which was formed few years back under JVP leadership in alliance with more than 25 other parties, groups, women and youth rights organisations, and trade unions – will carry forward the national liberation struggle he envisions.
-
-“Looking at developed countries, their progress was largely linked to the national liberation struggle. India had a great national liberation movement. Sri Lanka never had such a movement. When the British ruled the country, there was an opportunity to build a national liberation movement. After they left, there was another opportunity to build such a movement. Our leaders at the time missed both those historic opportunities.
-
-“Now we have a third opportunity which should be used without fail to defeat the corrupt ruling political class. For this purpose, all communities – in the north, east, and south – should be united. The aim of this national liberation struggle is to free the country from a corrupt political culture. Our first priority is to free the country from the corrupt political elite that has been ruining the country for decades,” he explained.
-
-Admitting in the interview that the NPP’s political work has been mainly among the Sinhalese people, Dissanayake appeals to the people of the north to join the national movement as an organic part.
-
-The correspondent, pointing out that a political solution was yet to be found even after nearly 15 years since the end of the civil war, asked Dissanayake what message he would like to give to the Tamil people.
-
-He replied that his party accepted that there were issues in relation to the Tamil and Muslim communities regarding their linguistic rights, cultural affairs, and participation in governance, adding that these problems should be solved.
-
-However, he said nothing about devolution of power or the 13th Amendment, which has become highly controversial in recent times despite being part of the country’s Constitution for 36 years.
-
-Dissanayake, who is widely seen as a potential frontline candidate at the next Presidential Election, should have made clear his movement’s current position on those issues, since many people might expect it.
-
-It seems that the NPP ideal is to bring about social change in the country through a national liberation movement that will defeat the corrupt political elite, thereby finding solutions to all problems facing the country, including the ethnic problem.
-
-The idea of finding solutions to problems through a national struggle that can bring together all communities is not a new approach. It was the approach that the traditional leftist parties put forth from the early part of the last century. History has taught us that the primary cause of their failure was communal politics.
-
-There was also a time when old leftist leaders said that ethnic problems of minorities would disappear in a socialist society that could be brought about by a working-class revolution encompassing all communities.
-
-Those leaders who started their political journey with the ideal of transforming society eventually fell into a communal quagmire in order to survive in parliamentary politics and miserably failed in the end.
-
-In the political history of the world, we have seen that the leftist movements have been the natural and strong allies of the oppressed ethnic minorities. However, in Sri Lanka, the leftist parties did not play that progressive role after the first half of the last century, wherein communal politics came to the fore.
-
-Even the JVP, which has taken on a new avatar as the NPP, is no exception in this regard. The JVP has a negative history of having thus far resisted all attempts towards finding a political solution to the ethnic problem.
-
-The Rajapaksa regime was supported by JVPers due to carrying out the civil war. They also masterminded the severing of the north-east merger.
-
-Even in recent times, they have not changed their longstanding position regarding the ethnic problem. Therefore, it is inevitable for the Tamil people to consider Dissanayake’s call to be a part of his national liberation movement based on how his party approached the ethnic question and their legitimate political aspirations and grievances throughout history.
-
-Even after the experiences of a brutal war, the JVP has not been inclined to change its policy on the ethnic problem. NPP leaders often say that they should not be judged now based on their past politics. Upon realising that it is not enough to mobilise people locally in order to come to power and that the support of the international community, especially its superpowers, is also necessary, they have made major changes in their positions.
-
-They justify their contemporary changes by saying that it is natural to change strategies to suit the changing international situation without compromising on fundamental principles.
-
-In a recent interview, Dissanayake said that the NPP had changed to suit the new age and that there was a difference between theory and reality.
-
-The NPP, which previously rejected international financial institutions such as the International Monetary Fund, the World Bank, and the Asian Development Bank as being controlled by the US and Western imperialist countries, is now ready to work with them and has come forward to cooperate with the private sector, which it described as capitalist forces, and to welcome foreign investments.
-
-Its leaders, who have changed most of their positions, are yet to make any change regarding their stance on the ethnic problem. They cannot progress even an inch in winning the confidence of the Tamil people simply by asking them to join the national movement.
-
-Everyone is aware how the NPP behaved amid protests in the south earlier this year, following President Wickremesinghe’s declaration of his willingness to fully implement the 13th Amendment.
-
-If the NPP had at least shown its willingness to support the President’s efforts to implement the 13th Amendment, it could have sent a positive signal to the Tamil people that it was ready to change its stance in relation to the ethnic problem.
-
-The party also did not participate in the conferences of the parliamentary parties convened by the President thrice earlier this year.
-
-It is well remembered that Dissanayake said at a seminar at the Sri Lanka Foundation Institute last year that if the Tamils accepted the 13th Amendment as a solution to their problem, the NPP would have no problem in supporting it.
-
-However, seeing the opposition to the President’s announcement, he changed his stance, feeling that any comments he might make in favour of the amendment would be a setback to his party’s growing support among the Sinhalese people.
-
-The NPP leaders’ talks of a future NPP regime finding a solution to the ethnic problem that would be acceptable to people of all communities through a new constitution is simply a ploy to sidestep the problem at hand.
-
-The policies and stances adopted by the JVP/NPP so far on the ethnic issue have only helped strengthen the hardline Sinhalese nationalist forces that refuse to accept even the minimal legitimate political aspirations of minority communities.
-
-Dissanayake should desist from behaving like previous Sinhalese political leaders who ruined the country by lagging behind the people’s wrongful thinking for opportunist political advantages. Instead, he should explain to those people the political mistakes of the past and the adverse consequences that may arise from them. He should lead the people forward in a manner that is freed from the past.
-
-Dissanayake should present himself as a leader who can bring about considerable understanding among the Sinhalese people regarding the problems of minority communities. The national liberation movement he envisages will never be complete unless the support that is said to be growing in the south for the NPP today is wisely used to bring about such an understanding. Without such a move, it may end up simply being a movement intended for electoral purposes.
-
-## Catholic Church in Sri Lank Publicly  Accuses Public Security Minister Tiran Alles of Uttering Lies; “We urge Minister Tiran Alles to refrain from spreading such falsehoods” states  Fr. Jude Chrysantha Director of the  Colombo Archdiocesan Commission for Social Communications
-
-*2023-12-23 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83323)*
-
-Rev. Fr. Jude Chrysantha has accused Public Security Minister Tiran Alles of making false accusations regarding an alleged appeal made to the Acting Inspector General of Police (IGP) on behalf of Fr. Cyril Gamini after a road accident.
-
-Convening a special press conference on Friday (22 Dec.) in his capacity as the Director of the Archdiocesan Commission for Social Communications, Fr. Chrysantha said that no such plea for help was made by Cardinal Malcolm Ranjith to Acting IGP Deshabandu Tennakoon.
-
-Speaking to the media in this regard, Fr. Chrysantha disclosed that the Cardinal had become aware of the incident only the following morning, suggesting that it was impossible for him to have contacted Tennakoon the night before seeking assistance.
-
-Minister Tiran Alles had recently claimed that the Cardinal appealed to Tennakoon for help following a road accident involving Fr. Gamini, who was subsequently taken to the police station. The lawmaker alleged that Fr. Cyril Gamini personally thanked the Acting IGP for his assistance.
-
-“At the time of the incident, Fr. Cyril Gamini had no idea that someone would alert the Acting IGP Deshabandu Tennakoon of the matter, because by then he, [Fr. Cyril Gamini], had already agreed to a settlement of sorts with the aggrieved party. Minister Tiran Alles claims, however, that the Father called the Acting IGP the next day, and thanked him. We urge Minister Tiran Alles to refrain from spreading such falsehoods”, Fr. Jude Chrysantha charged, challenging the Minister to prove evidence, if any, with regards to the latter incident.
-
-Fr. Jude Chrysantha further pointed out that the Cardinal too, remains baffled as to who may have made the appeal on his behalf, as he [the Cardinal] has not vested any such powers within any individual or party.
-
-## The dehumanising of non-Buddhists by the Mahawamsa is the tribal counterpoint to the Buddha’s universalist teaching. Though Sinhala-Buddhist children memorise that Dhammapada stanza, it is the Mahawamsa attitude that guides their lives.
-
-*2023-12-22 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83312)*
-
-Ain’t even been planted yet.” June Jordan (Calling on all minorities)
-
-On August 14, 2006 the Sri Lankan air force bombed an orphanage in Vallipunam killing 61 schoolgirls. The Rajapaksa administration insisted that the location was a LTTE training camp and the victims were child soldiers. Independent reports, including by the UTHR-J, confirmed that the victims were students taking part in a non-military first aid programme organised by the LTTE.
-
-Once the civilian nature of the victims became incontestable, Colombo could have acknowledged a mistake and apologised. Instead the regime doubled down on its child soldiers claim. The incident caused an uproar in India but no ripples in the Sinhala South. For most Sinhalese, this killing of 61 schoolgirls didn’t matter because they were Tamil. It was possible to be anti-LTTE while condemning the crimes by the Lankan military; anti-separatism could have gone hand in hand with pity for all victims of the war. But that path of justice and compassion was one most Sinhalese – and Tamils – opted not to take.
-
-Marione Ingram survived the Holocaust as a German Jewish child. When the US Congress censured Democratic congresswoman Rashida Tlaib for her opposition to Israel’s war on Gaza, Marione Ingram called Ms. Tlaib a hero. Ms. Tlaib’s opposition to the war in Gaza is not anti-semitic, Ms. Ingram pointed out. “It is pro-human being.”
-
-“All human beings are born free and equal in dignity and rights.” So begins the UN’s 1948 Universal Declaration of Human Rights, promulgated 75 years ago. The declaration was inspired in part by the horrors of Holocaust. The basis of the Holocaust was the tribalist, anti-universalist belief that not all humans were equal and that some humans were less human than other humans, that they were sub-human (Untermenschen), more like animals. This belief of superior and inferior humans was a Nazi and a Fascist staple but not a Nazi or Fascist construct. For centuries, it had informed and shaped the imperialist project, from Europe to Japan. Just five years before the UN declaration, as the Bengali famine of 1943 was killing one to two million Indians, British officials in India pleaded with the Churchill administration to release food stocks. Winston Churchill’s only response was to send a telegram asking why Gandhi hasn’t died yet. Secretary of State for India, Leopold Amery called Prime Minister Churchill’s indifference to Indian deaths “a Hitler like attitude”.
-
-Fascism didn’t die with Benito Mussolini or Nazism with Adolf Hitler. The foundational principles of their politics exist in other places and other movements including ones claiming to be anti-fascist/Nazi. In June 1948, a group of prominent Jewish Americans (including Albert Einstein and Hannah Arendt) wrote a letter to the New York Times pointing out that Menachem Begin’s newly formed Freedom Party preaches an “admixture of ultranationalism, religious mysticism, and racial superiority” and is “closely akin in its organization, methods, political philosophy, and social appeal to Nazi and Fascist parties…” Sounding eerily prescient, the letter states, that from the Freedom Party’s past actions (especially the Deir Yassin massacre, in which civilian inhabitants of this Arab village were massacred by Zionist paramilitaries, including Begin’s Igrun group) “We can judge what it may be expected to do in the future”. Freedom Party was the forerunner of Likud, which is currently headed by Benjamin Netanyahu, the genocider-in-chief in the war on Gaza.
-
-Most of the writers of this letter belonged to the Jewish left. For them principles of justice and equality mattered more than tribal loyalty. As philosopher Susan Neiman points out, “…the idea of universalism…once defined the left; international solidarity was its watchword… What united was not blood but conviction – first and foremost the conviction that behind all the differences of time and space that separate us, human beings are deeply connected in a wealth of ways” (Left in not Woke). Last month, members of Jewish Voices for Peace briefly occupied the Statue of Liberty under the banner, Never again, for anyone. That universalist worldview, which places front and central the irreducible humanity of all people, is the only solution that can save us from ourselves, be it within national boundaries or globally, from incessant wars to climate change driven mass extinctions.
-
-The 2023 movie The Zone of Interest provides an account of the normal and happy life of the family of Auschwitz commandant Rudolf Höss, a bucolic idyll lived just outside history’s most notorious death camp, in close proximity to gas chambers and crematoria. The victims next door didn’t matter, because they were not seen as human. Animalization of Jews by Nazis facilitated the holocaust, Jay Geller points out in Bestiarium Judaicum: Unnatural Histories of the Jews. Today, Israel is copying that Nazi playbook, dubbing all Gazans human animals unworthy of protection, consideration or pity.
-
-One of the earliest evidence of this de-humanisation of the enemy could be found in the 5th Century CE Lankan chronicle Mahawamsa (The Great Chronicle). After defeating the army of Tamil king Elara, Sinhala king Dutugemunu is troubled by the enemy deaths he had caused. The monk-author of Mahawamsa has a group of monks assuring the king that his conscience need not be troubled: “From this deed arises no hindrance in thy way to heaven. Only one and a half human beings have been killed by thee…The one had come unto the (three) refuges and the other had taken on himself the five precepts. Unbelievers and men of evil life were the rest, not more to be esteemed than beasts…” A dynastic conflict is recast as a religious one, unbelievers are de-humanised, and their mass murder made religiously correct.
-
-The Buddha taught otherwise, preaching against the taking of not just human life, but any life. As the Dhammapada points out, “All fear punishment; all fear death. Comparing oneself with others, one should neither kill nor cause to kill.” The dehumanising of non-Buddhists by the Mahawamsa is the tribal counterpoint to the Buddha’s universalist teaching. Though Sinhala-Buddhist children memorise that Dhammapada stanza, it is the Mahawamsa attitude that guides their lives.
-
-The resultant dichotomy was evocatively portrayed by Sri Lankan Muslim poet and linguist Prof M.A. Nahuman, in response to the 1982 burning of the Jaffna library by government sanctioned thugs. The poet dreams seeing the Buddha’s blood drenched body on the steps of the Jaffna library. When agitated ministers ask the policemen why they shot and killed the Buddha, they reply, “Without killing him/It was impossible to harm a fly…”. When Israeli defence minister (and the supposedly moderate) Yoav Gallant declared a total blockade of Gaza, claiming that the deprivation of food, water, and fuel was the way to fight “human animals”, Prof. Nahuman responded with another poem Oru Palestina Kural (A Palestinian Voice) telling the Israeli government, “People with a sense of justice world over are rising against you…”.
-
-To feel a sense of justice, there must be a sense of solidarity, birthed by a sense of commonality. What could be the connecting thread? Soul? Reason? Consciousness? But all these are nebulous, debatable. Philosopher Jeremy Bentham offered a better yardstick in deciding moral acceptability of actions: the question, he wrote, was not whether the victims could reason or think but can they suffer? He was speaking of non-human animals but it would work fine with human animals as well, we, the descendants of apes.
-
-Victims of the Hamas attack of October 7 suffered; victims of Israel’s Gaza onslaught suffer. The suffering of one group cannot be used to erase the suffering of the other group. Black July cannot be used to justify the subsequent Tiger atrocities any more than those atrocities can be used to justify attacks on civilian Tamils by Sri Lankan forces. But it was precisely what happened, both sides using other’s crimes to justify, efface one’s own crimes. It made the war more brutal than it need have been, and claimed lives that could have been saved.
-
-Similarly, not only is the Holocaust being used to justify Israel’s genocidal war on Gaza but also to silence and punish dissenters in Western societies. Nobel laureate and Chinese dissident Ai Weiwei is a prime example. The Lisson gallery in London has put on hold an exhibition of his work indefinitely for tweeting “The sense of guilt around the persecution of the Jewish people has been, at times, transferred to offset the Arab world.”
-
-The biggest victims of this tribalism of suffering happen to be dissenting Jews, who are being demonised by Israel and its allies as self-haters, and even denied their Jewishness. The ceremony to award the Hannah Arendt Prize for Political Thought to Masha Gessen has been suspended because the Jewish author compared Gaza to a Jewish Ghetto under Nazi rule. Post October 7 Masha Gessen visits Berlin’s Jewish Museum, watches a video of Kibbutz Be’eri and thinks of “the thousands of residents of Gaza killed in retaliation of the lives of Jews killed by Hamas” (In the Shadow of the Holocaust, New Yorker). But Israel, the US, and Germany demand that one thinks only of the Jewish victims and not Palestinian victims.
-
-This demand would be familiar to Hannah Arendt who wrote that Zionist leaders “overlooked” the native Palestinian population because Jews regarded Arabs as “backward people who did not matter.” A fierce critic of “tribal nationalism”, she considered the project of setting up a Jewish state in Palestine without Arab consent stupid; and warned that if the Zionists succeeded, “social experiments would be discarded as impractical luxuries; political thought would centre around military strategy; economic development would be determined exclusively by the needs of war.”
-
-She also criticised Jewish violence against native Arabs as “plain racist chauvinism” that would cause a new wave of “Jew-hatred” in a population that was never anti-Semitic in the European sense (Jew as Pariah: Jewish Identity and Politics in the Modern Age). Commenting on the Arendt Prize controversy, The Guardian quoted an unnamed academic saying, “Hannah Arendt wouldn’t get the Hannah Ardent award in German today.”
-
-Just as the Buddha wouldn’t recognise Sinhala-Buddhism and Nazis would feel a sense of familiarity if they heard of the experience of Mohammed Odeh, the 14 year old Gaza boy arrested and tortured by the IDF; Israeli soldiers wrote numbers on the arms of the detainees and young Mohammed’s was 56. Unlike the Nazi tattoos they will erase, but the dehumanising, mechanising intent is the same.
-
-The dehumanising of the enemy and the atrocities committed within that context are often justified in the name of hard headed realism. But in the end, such realism is self-defeating because it leads to repeated conflicts, militarised states, and populations starved of economic goods in the name of national defence. A poorer world in every sense of the word.
-
-Last week, at a press conference of labour leaders in front of the White House, the United Auto workers (UAW) demanded an immediate ceasefire in Gaza, pointing out that “From opposing fascism in WWII to mobilising against Apartheid South Africa and the CONTRA war, UAW has consistently stood for justice across the globe…” Indeed, when Walter Reuther was elected UAW president in 1946, he argued that the labour movement must think beyond their immediate gains and involve itself in larger causes, from environmentalism and civil rights to nuclear disarmament. When Martin Luther King and other civil rights activists were arrested in Birmingham in 1963, Reuther sent two union representatives with 160,000 dollars in cash to bail them out. This was black civil rights was not a popular cause among whites, including the white working class. Ignoring the possibility of white backlash, Reuther became the only white speaker at the March on Washington.
-
-Principles counted; conscience mattered. Politics of resistance must encompass both. Or else, Change could head in a worse direction rather than a better one.
-
-From Ferguson to Palestine, occupation is a crime, a Black Lives Matter demonstration in Berlin proclaimed. Developing such a sense universality means being able to hold two seemingly contradictory thoughts together. It means condemning the Hamas attack on civilians and Israel’s genocidal war on Gaza; opposing Iran’s incarceration of Nobel laureate Nargis Mohammadi and Israel’s detention of author-activist Ahed Tamimi for forwarding “hate speech” and 12 year old Kareem Ghawanmeh for throwing a stone at the IDF. Criticising the tribalism of Jewish extremists (starting with Prime Minister Netanyahu and his allies) is not anti-Semitism; criticising Hamas’ misogyny is not Islamophobia (similarly one can condemn anti-Muslim racism in Sri Lanka, while also condemning the backwardness of Lankan Muslim leaders who cling to a MMDA which is far more retrogressive than personal laws in many Islamic majority nations; a minority cannot credibly claim equality only for its males.)
-
-As Amira Hass said on Democracy Now, it is possible “to be emotional and rational, to be appalled by what happened on October 7 but also to say that history didn’t begin on October 7.” Freedom from the river to the sea must be freedom for all the residents of that geographic space, Palestinians and Israelis, Muslims, Jews, and Christians, men and women, minorities of every kind.
-
-In Sri Lanka, racist and religious fears were and are used to hack away at broad democratic rights and freedoms. In the midst of the war on Gaza, Israel Supreme Court has banned anti-war demonstrations. Oppression is universal in its essence even when it seems tribal in appearance. Resistance cannot be less so. As the civil rights leader Bayard Rustin said “We will win the battle for rights for gays, or blacks, or Hispanics, or women within the context of whether we are fighting for all. You have to all combine and fight a head on battle – in the name of justice and equality – and even that’s going to be difficult.” Identitarian politics can only weaken. The only obstacle standing between Israel and the obliteration of Gaza is not Hamas or the Islamic world; it is the world.
-
-## One cannot deny Ranil Wickremesinghe  the credit for lifting Sri Lanka from its worst-ever economic crisis. Ranil’s  feat would loom large over peers in similar predicaments from Argentina to Lebanon.
-
-*2023-12-20 15:07:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83304)*
-
-Sri Lankan economy expanded by 1.6 per cent in the third quarter of this year, slowly emerging from one and half years of contraction. With the service sector picking up and manufacturing showing a seasonal hike, the fourth quarter may log 7-8 per cent growth, partially compensating for the first two quarters of negative growth. The momentum is finally here, though given the extent of the economic rout in the first half, the economic growth of 2024 would be negative.
-
-How much of that momentum would continue to next year and beyond is not just an economic function- more than anything, it is a political question. Even after one counts the volatile growth projections in the rich world, the greater danger to the nascent economic recovery of Sri Lanka would be within. And the biggest of all is the marauding political opportunism, likely to be the most distinguished feature in the political stages next year- the election year.
-
-The presidential election should be held by September next year, and Parliamentary polls should follow. Postponed local government elections should also be held at some point, though it is unlikely to precede either of the national polls, for the political leadership would not want it to be a barometer of voter sentiment.
-
-Most of all, Presidential elections would decide the future economic trajectory. Considering that it would precede the rest, anyone who wins the presidential election would convert the early momentum at the Parliamentary polls.
-
-First, it is about personnel: consider the likely contenders for the presidency.
-
-Incumbent Ranil Wickremesinghe is exalted by his acolytes as an economic maestro, but throughout his political life, despite numerous opportunities to prove them right,  he has been an underachiever. He probably lacked that iron the most successful economic reformers in South East and East Asia had in them to convert their economic visions into reality.
-
-But, one cannot deny him the credit for lifting Sri Lanka from its worst-ever economic crisis. If his past performances were unimpressive against more successful international peers, his recent feat would loom large over peers in similar predicaments from Argentina to Lebanon.
-
-That is a commendable achievement. However, Mr Wickremesinghe languishes in a distant third in opinion polls. Without an alliance with the Samagi Jana Balawegaya (SJB), he is unlikely to have a credible shot at the presidency.
-
-Though the likely improvement of the economy may increase his chances, there is much to be seen.
-
-The same applies to the SJB leader Sajith Premadasa, who is in a distant second to JVP’s Anura Kumara Dissanayake in opinion polls. Though one may advise such survey data to be taken with a pinch of salt, the throes of the economic crisis have significantly altered public opinion- and crazy things could happen.
-
-SJB does not necessarily offer a set of realistic alternative policies. Still, it is also muted in the most excessive form of opposition to the government policies, as seen in some of the fringe corners of Pohottuwa’s splinter group and usual antagonists of the Peratugamis and the JVP trade unions.
-
-SJB is negotiating with Pohottuwa’s dissidents for an electoral front. Instead, it should talk to the UNP to form an electoral alliance and field a common presidential candidate.
-
-Third is Anura Kumara Dissanayake, who rides on a wave of popular discontent and leads the opinion polls. He offers nothing in principle but has harvested the protest vote.
-
-Funny enough, in a country where Gotabaya Rajapaksa decimated the economy with his pie-in-the-sky policies, voters are betting on another of the similar ilk to rescue it.
-
-Fourth is a potential SLPP candidate, which some reports suggest may be billionaire businessman Dhammika Perera. However, SLPP is more likely to use the threat of fielding a presidential candidate to extract concessions from President Ranil Wickremesinghe than running and losing handsomely.
-
-Second is about policies:  elections are supposed to offer a platform to debate alternative policy choices.
-
-However, there appears to be no rational alternative to the current IMF-guided formula to stabilize the economy. Therefore, the immediate question is whether there is a less painful way to hit the IMF targets- though such pain is temporary. The broader and more pertinent question would be the policies beyond the IMF guide- to increase the domestic competitiveness, upgrade the productivity of the labour market, train human capital, build private universities, integrate with global supply chains and build an export-led economy.
-
-But you hardly see anything remotely resembling as such. It’s probably because Sri Lankans do not vote for policies. They vote for promises.
-
-Yet, there is relentless opposition to the IMF-mandated revenue measures. And Sri Lanka being Sri Lanka, it is not necessary to offer a realistic alternative to address the pressing economic problems. Elections would amplify this self-serving opportunism, distorting existential economic realities and even seriously challenging future economic reforms.
-
-Mr Wickresminghe, who may be backed by most of the seemingly capable young SLPP  cabinet ministers, presents a set of broad principles that are business-friendly and aimed at liberalizing the economy. But he lacks a sense of urgency. The SJB may not necessarily divert from those principles- they have yet to divulge an alternative program
-
-The JVP is a different kettle of fish. They oppose everything,  not just for publicity, which the SJB is not necessarily immune from. JVP’s ideological leaning, though kept muted at the moment to appear more appealing to the masses beyond their tent, plays a defining role. These contradictions would come into play when/ if JVP has a shot at running the country.
-
-Until then, you hear flimsy, self-serving fixes to rejuvenate the economy. One is the promise to end corruption so that the economy would grow. That is a lofty promise considering corruption is not a function of individuals alone but of over-regulated bureaucratic systems. Corruption is undesirable, for it distorts national policy and robs the public of money. However, the correlation between economic growth and corruption is disputed- most Southeast and East Asian countries were equally corrupt during their high-growth decades.
-
-Eradicating corruption should be a national priority. However, it alone does not promote investment or growth or reduce the burden of the SOEs. Sri Lanka should implement comprehensive economic reforms to remove bottlenecks in each area of the economy. But, such policies are anathema for the JVP and its trade unions.
-
-Another fallacy flaunted in the political stages is resolving the shortage of government revenue by bringing back stolen funds. This is not the first time such offers were made, nor would it be the last time.
-
-While a comprehensive recovery programme with international cooperation may manage to bring back some of the looted wealth, that would have only a nominal impact on the treasury. Nor is Sri Lanka’s economic crisis a  result of runaway corruption and pillage of public funds as it is portrayed in some corners. The economic crisis is the aggregate effect of short-sighted populism- Mahinda Rajapaksa burnt through  US$ 2.5 billion and Gotabaya Rajapaksa US$ 5 billion of foreign reserves just to hold on to an unsustainable rupee peg.
-
-Billions of dollars were wasted on subsidized fuel, electricity, and gas.
-
-The economic crisis results from a political preference to give away non-existent economic resources to appease the public rather than do the hard work to create growth.
-
-But in the election platforms, you wouldn’t hear that. Instead, much of the discourse would promise a revert to old ways.
-
-## The SLPP which I lead is a part of the government. However the present Head of the Government and Head of State is the leader of a different political party with different policies. At this moment, the primary duty of the SLPP is to ensure a stable government until the next national elections. ‘ –Mahinda  Rajapaksa
-
-*2023-12-20 14:41:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83302)*
-
-(Text of  Media Release Issued by the Sri Lanka Podujana Peramuna (SLPP) on 20 December 2023 under the heading “Reducing the Tax Burden”)
-
-Around 40 professional associations and trade unions representing vital sectors of the economy and the public services have been agitating for a reduction in income taxes for many months. In the meantime, the high tax burden has precipitated an exodus of educated and highly trained professionals from the country giving rise to a new crisis.
-
-Following increases in the VAT through the budget for 2024, tax policy is set to become a major political issue in 2024.
-
-The call to reduce taxes is based on solid economic principles. When taxes are low, both individuals and corporations have more money to spend and invest and this acts as a driver of the economy. Low taxes was a cornerstone of my government’s policy and it made a major contribution to the unbroken nine year economic boom that this country experienced between 2006 and 2014.
-
-So as not to burden the people with taxes, my government of 2006-2014 restricted the overall year on year increase in government tax revenue to around Rs. 100 billion a year. Through careful economic management, my government reduced the debt to GDP ratio from 90% at the end of 2005 to 69% at the end of 2014 thus ensuring the feasibility of the low tax regime.
-
-However, over the past several years there have been well-funded propaganda campaigns promoting a headlong and mindless opposition to everything even remotely associated with the name ‘Rajapaksa’ including the low tax policy. In order to blacken the very concept of low taxes, some even claimed that the Rajapaksa-led governments reduced taxes to help cronies. That is an outright lie. Tax exemptions can be granted only under laws like the Board of Investment Act and the Strategic Development Projects Act in order to attract investors for specified projects.
-
-After 2015, the low tax regime was rejected in favor of a high tax regime.
-
-Unsurprisingly, Sri Lanka’s growth rate declined precipitously after 2015 ending up at 0.2 below zero by 2019. Due to bad economic management, the period from 2015 to 2019 saw an increase  in taxes while at the same time experiencing a precipitous increase in foreign debt. When I was voted out in January 2015, the outstanding International Sovereign Bond debt was only USD 5,000 million. The Gotabaya Rajapaksa government of 2020-2022 paid off USD 2,500 in outstanding ISBs which means that only USD 2,500 million in ISBs now remains from my era.
-
-Over USD 10,000 million in new International Sovereign Bonds were taken between 2015 and 2019.  Hence we still have an outstanding ISB stock of USD 12,500 million. It was this USD 10,000 million in new ISBs taken between 2015 and 2019 that broke the back of our economy.
-
-When the Covid-19 pandemic struck Sri Lanka a few months after I became Prime Minister at the end of 2019, we wrote to the IMF in March 2020 asking for emergency assistance. The IMF wrote back saying that our debt levels disqualifies us from their emergency relief package.
-
-They then proposed a raft of conditions that would qualify us for IMF assistance but those conditions would have made it impossible for us to face the Covid-19 threat in the manner that we did in 2020 and 2021.
-
-The present government is now implementing stringent conditions as part of an IMF programme. Thus one thing led to another, finally resulting in a situation where we now see top professionals holding multiple university degrees and professional qualifications agitating on the streets, demanding a reduction in taxes.
-
-The SLPP which I lead is a part of the government. However the present Head of the Government and Head of State is the leader of a different political party with different policies. In a situation where this country was faced with complete anarchy, Parliament elected a President to serve the remainder of former President Gotabaya Rajapaksa’s term. The new President successfully restored law and order to the country. He is now directing government policy as the Executive President. At this moment, the primary duty of the SLPP is to ensure a stable government until the next national elections.
-
-In future, every member of the public should pay special attention to the tax policy and the past economic practices of the political party they vote for. As elections draw closer, once again we see attempts to hustle people blindly and unthinkingly in various directions through ramped up propaganda and social media hysteria.
-
-Whatever decision the people make at the next elections should be based on rational thinking, proper facts and correct data. We are still living through the consequences of January 2015 and this country cannot afford another mistake like that again.
-
-## “Operation Leader’s Daughter”: The Attempted Fraud Using a False Thuvaraka Prabhakaran.
-
-*2023-12-20 03:33:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83261)*
-
-Liberation Tigers of Tamil Eelam (LTTE) leader Veluppillai Prabhakaran,his spouse Madhivadhani Erambu. Daughter Thuvaraka  and sons Charles Anthony and Balachandran along with thousands of other Tamils died  in the final phase of the armed conflict at Mullivaaikkaal in the Karaithuriaipattru AGA division of Mullaitheevu district in May 2009.
-
-Though fourteen years have passed since the war ended, there are many who claim that the LTTE supremo is yet alive and that the body found on the shores of Nandhikkadal lagoon was a look alike of Prabhakaran. Subseqently it was claimed that some other family  members too were alive. In recent times there has been a concerted effort by tigerish and pro-tiger elements to make people believe that Prabhakaran, Madhivadhani and Thuvaraka are alive.
-
-Furthermore it was projected that the LTTE was going to be revived under the leadership of the tiger supremo’s daughter Thuvaraka Prabhakaran.(her name is being spelt by many as Duvaraka and Dwaraka but I am following the manner in which the name is pronounced by Sri Lankan Tamils).
-
-The campaign promoting the LTTE leader’s daughter described as the “Theasathin Puthalvi”(Nation’s daughter) reached its zenith on the LTTE’s “Maaveerar Naal”(great heroes Day) observed on   27 November 2023. It had been the practice in earlier times for LTTE leader Prabhakaran to deliver  a speech on that day.  The last time the Oration was made was on 27 November 2008. In may 2009, the LTTE was militarily defeated and the hierarchy including Prabhakaran was no more. Though Maaveerar Naal was observed every year  in many parts of the  world on November 27th there was no annual address by Prabhakaran as the LTTE leader was not among the living.
-
-However in an unexpected twist this year, it was proclaimed  that Thuvaraka Prabhakaran would deliver the great Heroes day speech on behalf of her father from an undisclosed location.. A sustained campaign of expectation was propagated. While the silent majority of Tamils quietly watched this brazen attempt to bamboozle  the community, several voices were raised in protest against what was obviously a fraudulent exercise. This was resisted by the elements promoting the “duplicate”daughter. The pro-LTTE world was torn asunder by the so called return of the tiger leader’s daughter.
-
-The exultant bang expected on 27 November ended as a pathetic whimper. The visual  image of the woman on the You tube  indicated very clearly that she was an impostor. Moreover the text of the speech was bland and uninspiring. It was obvious that it had been compiled by excerpting paragraphs and lines from previous speeches by Prabhakaran. But the biggest bombshell  of all was the real identity of the woman posing as  Prabhakaran’s daughter Thuvaraka.
-
-Many  Tamil  residents of Switzerland  recognized the woman posing as Praba’s daughter to be none other than a woman named Mithuja Rajaratnam residing in Arbon Thurgau, Switzerland. She was also called Nithya and Suja. It was alleged by several people that the woman had been involved in many  confidence tricks and had  embezzled funds from gullible victims. She was also accused of pretending to be Prabhakaran’s daughter  earlier  and  engaging in a racket to solicit  cash donations from LTTE sympathisers and supporters for the medical expenses of her father.
-
-Most Sri Lankan Tamils know that Prabhakaran and his family are not among the living. It is a truth that many do not want to talk about. When claims are made from time to time that the LTTE leader and family members are alive they know these are not true. However they find it difficult to contradict  these bogus claims because they are reluctant to reiterate that Prabha and family members have died. Hence they remain quiet disbelievers when these false claims are made.
-
-This was what happened when the fraudulent Thuvaraka claim was made too. While some  refuted the bogus claim and challenged the bona dides of the claimant, the majority kept silent. But when an actual woman was shown as Thuvaraka, the scene shifted qualitatively from the abstract to concrete. When a not so unfamiliar  woman with an allegedly notorious reputation of being a fraudster was projected as the LTTE leader’s departed daughter, it was too much to stomach. Moreover it was possible to  concretely denounce  the woman as an impostor instead of issuing abstract denials that Thuwaraka was no more. Hence the excreta collided with the oscillator!
-
-It was also implicitly understood that the scam was being planned and executed with a material  objective. The false Thuvaraka in her fraudulent address had referred to two key points. One was that a large number of Tamils in sri Lana were living in poverty and required help. The other was that many former tigers and families of fallen cadre needed assistance. This was obviously a prelude to the launching of a fund raising campaign by pseudo-Thuvaraka to help “our brothers and sisters in need” in sri Lanka. It was blatantly clear that the flagrant campaign to resurrect Thuvaraka was nothing but a money -making scam.
-
-A terrible fury was unleashed by the hitherto silent majority against those allegedly responsible for this duplicitous exercise. The duplicate Thuvaraka dropped out from the public eye and is reportedly in hiding, The suspected scamsters who organized the racket and those public voices who promoted the false Thuvaraka were  bombarded with emails, FB messages and telephone calls. Many became voluntarily incommunicado. There were many social media posts condemning the attempted fraud and those allegedly responsible.
-
-It is against this backdrop that this column focuses on the duplicitous exercise of promoting a fraudster as the daughter of LTTE leader Veluppillai Prabhakaran.  I had no intended to write about this earlier but am doing so now because of widespread requests by readers .
-
-The fraudulent attempt to portray an impostor as the LTTE leader Prabhakaran’s daughter Thuvaraka  is essentially a Swiss scam! The key character in this charade is a Swiss resident of Sri Lankan Tamil  origin. The two   main personalities who  allegedly plotted and planned this scam are residents of Switzerland. Both of them are members of the LTTE. The speech was filmed at a” secret” location in Switzerland. Of course many others residing in  countries such as  Denmark,Norway, UK, France, Australia, India and Sri Lanka have collaborated in this scam either wittingly or unwittingly but the dynamo is basically Swiss.
-
-What then makes Switzerland  fertile ground for pro-tiger activity? Why was that country a vital source  generating funds for the LTTE in the past? It is necessary to delve into the recent past concerning the Swiss connection in LTTE affairs to understand this in proper perspective. Readers may recall that this column frequently resports to the deep background approach in explaining or analysing  current developments. This column therefore traces the evolution and growth of the LTTE in Switzerland in this article.
-
-The Federal Republic of Switzerland  is known officially as the Swiss Confederation. The landlocked European nation is respected highly on a global scale due to its policy of “armed neutrality “in global affairs.
-
-Switzerland is home to more than 55,000 Tamils of Sri Lankan origin now. Of these, about 35,000 have acquired Swiss citizenship. In the period before 2009, the Swiss Tamil population was about 40 to 45,000. While this number was less than that of the Tamil diaspora in countries like Canada, Britain, USA, France or Australia, the immense contribution made by the Tamils of Switzerland to the war effort of the LTTE in those days proportionately exceeded that of Tamils living in other western countries.  The LTTE functions in Switzerland under the aegis of the world Tamil Coordinating Committee(WTCC) This quantitative contribution earned Switzerland the description “Puligalin Thiraisaeri” (Tiger Treasury) in Europe.
-
-Switzerland had only a handful of Tamils decades ago. The numbers began increasing gradually as the ethnic conflict escalated in Sri  Lanka. The 1979 declaration of emergency in Jaffna, during which Tamil youths like Inbam were executed in cold blood and several others incarcerated, resulted in large numbers of Tamil youth seeking political asylum in European countries. The enactment of the Prevention of Terrorism Act (PTA) exacerbated this outflow further.
-
-The 1981 May-June violence in Jaffna where indiscipline sections of the police force burnt down the Jaffna public library, “Eezhanaadu” newspaper office, TULF headquarters and Jaffna MP Yogeswaran’s house saw another spurt in asylum seeking. Then came the July 1983 anti-Tamil pogrom which resulted in a massive ongoing migration of Tamils to European destinations.
-
-Thus, the Tamil population in Switzerland began increasing with boosts in 1979, 1981 and 1983. Thereafter, there has been a steady flow of Tamils into Switzerland over the years. Some Tamils have been moving out of the country too. In recent times, several media personnel from Sri Lanka have sought refuge in Switzerland. The flow of refugees and asylum seekers from Sri  Lanka increased significantly in the past decade. Currently, there are over 3500 refugee applicants from Sri  Lanka in Switzerland.
-
-Unlike Tamils in countries like the UK, USA, Australia or Canada, the first generation of Swiss Tamils did not go in for higher education in a big way. They were also not well represented in white collar jobs. This situation is changing fast in Switzerland due to the second generation of Tamils who came to the country as young children or were born there. Most Tamils of an earlier period held blue collar jobs in factories, restaurants, transport, city maintenance, senior care and janitorial services. They were generally hard-working and earned about 2-4,000 francs per month (currently one Swiss franc equals 1.143 US dollars and 375.90 Lankan rupees). Several Tamils who earned well in Switzerland later relocated to Britain and Canada.
-
-As stated earlier, the number of Sri Lankan Tamils in Switzerland was estimated at around 45,000 in 2009. These Tamils consisted of supporters from all Tamil political parties and militant organisations. Gradually, the LTTE began gaining supremacy; its plus point was the claim that the LTTE was the sole organisation conducting the armed struggle in Sri Lanka. Persuasion through intensive propaganda coupled with strong arm tactics helped the LTTE establish near monolithic control over the Tamils in Switzerland.
-
-The LTTE in Switzerland received a massive fillip when Sathasivampillai Krishnakumar alias Kittu moved there from London in 1991. The widely-popular Kittu  had been the Tiger military commander for Jaffna from 1984 – 1987. He  had later  set up an international secretariat for the LTTE in London. He was forced to move to Switzerland to evade possible arrest in Britain.
-
-Kittu’s short stay in Switzerland galvanised LTTE supporters. Credible pro-LTTE structures were set up. The charismatic Kittu was also able to attract large numbers of Tamils towards the LTTE in Switzerland. Kittu’s sojourn in Switzerland strengthened the hands of Nadarajah Muralitharan alias Murali, the then LTTE country leader for Switzerland.
-
-Building upon the groundwork laid by Kittu, Murali was able to refurbish and develop the LTTE in Switzerland. During Murali’s tenure from 1991 to 1997, the LTTE in Switzerland grew in strength. Murali set up a network of Tamil schools in Switzerland as well as a chain of grocery shops known as “Makkal Kadaigal” or people’s shops. A negative feature of Murali’s Swiss leadership was the recourse to violence to suppress opposition, stifle dissent or coerce people into paying up.
-
-The methods employed by Murali or Swiss Murali succeeded to a great extent and the Tigers were well-entrenched in Switzerland. LTTE rallies in Zurich, Berne and Geneva saw thousands attending. Tamils from Switzerland also helped increase crowds at meetings in other European countries. Swiss Tamils also achieved a proportionate first in terms of fundraising. The average Swiss Tamil contributed the largest amount to the LTTE on a per capita basis in those days.
-
-Murali became the blue-eyed boy of LTTE supremo Prabhakaran because of the result-oriented performance of Swiss Tamils. There was a time when Prabhakaran told a well–known announcer from the BBC Tamil service that Muralitharan of Switzerland was the most efficient of the LTTE’s overseas branch heads. But Murali  like Humpty Dumpty, was to have a great fall!
-
-In 1996,Murali along with fourteen other LTTE activists, were arrested by Swiss authorities for alleged violence, intimidation and extortion. Subsequently, Murali was detained for eight months while the others were released on bail. Muraliharan on his part sued Swiss authorities for wrongful arrest and confinement. Meanwhile, efforts were underway to threaten and persuade Tamil witnesses from testifying against Murali.
-
-During the period Murali was in jail, his detractors within the LTTE managed to convince the LTTE hierarchy that he had to be removed from office for the benefit of the movement. One of the charges against Murali was his alleged friendship with a pretty woman from Tamil Nadu living in Switzerland. It was alleged that she was an agent of the Indian espionage outfit, Research and Analysis Wing (RAW).
-
-So, Murali was removed from office on the orders of Prabhakaran after he was acquitted and released in 1997. Murali was ordered to return to the Wanni. Refusing to do so, the former Swiss Tiger leader relocated to Canada with his family. He now resides in Canada but is yet referred to as “Swiss Murali.” Interestingly, Murali won his case seeking damages for wrongful arrest and obtained a huge sum of money as compensation from Switzerland while living in Canada.
-
-Despite Swiss Murali’s downfall and departure, the LTTE continued to flourish in Switzerland. After a period of collective leadership, Chelliah Kulasekarasingham alias Kulam a.k.a. AVRO Kulam was appointed Swiss Tiger chief. Kulam was a pioneering member of the LTTE and a close associate of Veluppillai Prabhakaran. Kulam became known as “Avro Kulam” after being arrested for alleged involvement in the bomb explosion in an Air Ceylon plane at Ratmalana in September 1978.
-
-Selvarasah Pathmanathan alias KP was at one time  in charge of the LTTE overseas procurement or arms purchases. KP was also in overall charge of overseas LTTE administration and fundraising. Since KP and Kulam were old comrades there was a sound working relationship between them. But KP was removed from office by Prabhakaran in 2002 in what turned out to be an ill -advised  move.
-
-Kulam’s position was in jeopardy after KP was forced to quit in 2002. Manivannan alias Castro, the new overseas LTTE chief, regarded Kulam as a KP loyalist and began sidelining him. Kulam could not be removed from office by Castro as the veteran Kulam had a close, personal relationship with Prabhakaran. So, Castro began undermining Kulam and gave prominence and power to another person whose nom de guerre was Abdullah. It is this “Abdullah” who is responsible for much of the current Swiss shenanigans and is one of the two behind the Thuvaraka scam.
-
-Abdullah whose real name is Chelliah Jeyapalan hailed from Aanaikottai in Jaffna. He was made financial chief of the Swiss Tigers and effectively wielded real power. Kulam gradually deteriorated into a figurehead. Despite his growing ineffectiveness, there came a time when Kulam was forced out of even his nominal leadership position.
-
-“Avro” Kulam’s removal was in March 2009. The circumstances of his removal had an impact  on LTTE fundraising in Switzerland. What had happened was that in 2007-2008, the LTTE conducted a massive fundraising campaign overseas for what it termed “Iruthi Yutham” or final war. Switzerland once again was at the forefront and a massive amount of money was raised both as general collection and special collection.
-
-But then, in early 2009, Castro instructed the Swiss Tigers to launch another special collection to buy arms. He was very keen that the Swiss Tigers with the reputation of being successful fundraisers for the LTTE should once again take the lead in this. But Kulam the Swiss LTTE chief was not willing and firmly opposed Castro on this. Kulam pointed out that the loans taken for the previous special collection had not been paid up and undertaking another special collection would be too much of a burden for the people to bear.
-
-With direct communications between Prabhakaran and Kulam being ruptured due to the escalation of war, it was easy for Castro and his chief henchman in Europe Sivaparan Perinbananayagm alias Nediyavan to remove Kulam from office.
-
-Once again, a collective leadership was established and a fresh fundraising campaign spearheaded by Jeyapalan alias Abdullah was launched. This resulted in a split in the Swiss Tiger structure with Kulam and his loyalists being estranged and alienated. Vijayaratnam Sivanesan alias Ragupathy a.k.a. Ragu replaced Kulam as the new leader. A new front named Swiss Tamil Coordinating Committee was also set up.
-
-The special collection for the ostensible purpose of raising funds for an emergency purchase of arms struck a responsive chord among many Tiger supporters and loyalists because of the prevailing politico-military environment in Lanka.
-
-The LTTE was being  rapidly boxed into a thin strip of littoral in the Karaithuriapatru AGA division along the Mullaiheeivu coast. When the overseas Tigers launched a fundraising campaign saying arms had to be acquired urgently to commence a counter-offensive and annihilate the enemy, an emotionally-overwrought diaspora began filling Tiger coffers again. Little did they realise then that  the purchase and transport of additional arms – even if possible – could not have reversed the military balance in the Wanni during the final stages of the war. Nevertheless, the period between March 2009 and May 2009 saw a very large sum of money being raised worldwide through bank loans in the form of special collections.
-
-As usual, Switzerland was once again at the forefront and topped the list in raising funds. The financial head Chelliah Jeyapalan alias  Abdullah spearheaded the collection drive. One of the methods resorted to by Tiger supporters in Switzerland was adopting fraudulent means to procure bank loans. It was estimated that huge sums of money had been taken as bank loans after falsifying documents relating to salary details and by overvaluing the worth of assets owned. 182 bank loans amounting to some 15 million Swiss francs had allegedly  been taken this way to fill Tiger coffers.  The negative consequences of this fund raising drive continue to be felt in Switzerland. What happened thereafter will be related in the second part of this article.
-
-This Article appears in the “Political Pulse”Column of the “Daily FT”dated 8 December 2023; It can be accessed here –
-
-## Sumanthiran , Shritharan  and Yoheswaran in  Triangular Contest to Become   Ilankai Thamil Arasuk Latchi (ITAK)President..
-
-*2023-12-18 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83292)*
-
-The Ilankai Thamil Arasuk Katchi (ITAK) known in English as the Federal Party (FP) is the premier political party of the Northern and Eastern Sri Lankan Tamils.The ITAK/FP was formed on 18 December 1949. The  75th birth anniversary of ITAK  will be celebrated next year.
-
-The ITAK was the leading political party of the Sri Lankan Tamils before the advent of the Tamil armed struggle. Though the ITAK has diminished in size and influence over the years, it is still “Primus Inter Pares” (First among equals) in comparison with other Sri Lankan Tamil nationalist parties.
-
-It is indeed noteworthy that the ITAK/FP is the only Sri Lankan Tamil political party that has parliamentary representatives from all five electoral districts in the Northern and Eastern Provinces. Currently the party has six seats in Parliament including one on the national list. Of these two were elected from the Jaffna electoral district and one each from the Wanni, Trincomalee and Batticaloa districts. The national list MP is from the Digamadulla/Amparai electoral district. It could be seen therefore that the ITAK represents Tamils from all electoral districts of the North-East in Parliament.
-
-The ITAK has had from its inception in 1949 a colourful history with many ups and downs. In the new millennium the party became the dominant entity in the premier Sri Lankan Tamil political configuration known as the Tamil National Alliance (TNA). The TNA contested Parliamentary, Provincial and local authority elections under the ITAK symbol of House from 2004 onwards.
-
-The split in the TNA early this year has resulted in two of the three constituent parties of the TNA  namely the Tamil Eelam Liberation Organization (TELO) and Peoples Liberation Organization of Tamil Eelam (PLOTE) moving out and re-configuring along  with three other parties as the  Democratic Tamil National Alliance(DTNA). Since the TELO (3) and PLOTE(1)  have four MP’s, the TNA tally in Parliament has dropped from ten to six MPs all of whom belong to  ITAK. Thus the ITAK continues  to be the Sri Lankan Tamil Political party with the highest number of seats in Parliament.
-
-Currently the ITAK seems to be on the threshold of a potential intra-party crisis. The  ITAK’s long delayed party convention is scheduled for the last week of January next year. A crucial change of leadership is on the cards as the  current ITAK president Somasuntharam Senathirajah known as “Maavai”  is on the verge of relinquishing his post. “Maavai”has been ITAK president since 2014. Hence a new president will be elected at the convention  to be held next January  in Trincomalee.
-
-What appears to be problematic from a party perspective is the fact that three contenders are in the fray for the ITAK presidency. The three aspirants to ITAK leadership are Mathiaparanan Abraham Sumanthiran, Sivagnanam Shritharan and Seenithamby Yoheswaran. As is well known,  Sumanthiran and Shritharan are both Jaffna district MP’s while Yogeswaran is a former Batticaloa district parliamentarian.
-
-An inner party election to  elect a new leader is by itself  a welcome feature . However the ITAK has from its inception never experienced an inner party poll to elect its president. It has adopted the practice of avoiding a direct contest and instead opted  to elect the leader unanimously. From the time  it was founded in 1949, the ITAK/FP has followed this consensual method of electing the leader.
-
-Samuel  James  Veluppillai Chevanayagam known as “Thanthai Chelva” was the co-founder and first president of the ITAK/FP.  SJV Chelvanayagam was venerated by his party members as the “Eezhathu Gandhi”(Gandhi of Eelam). He could have remained president of the party during his lifetime if he had wanted to. Chelva however stepped down as President after two terms   and let others succeed him as President.
-
-Nevertheless Chelva remained the supreme leader while  his deputies like  Vanniasingham, Naganathan,Rajavarothayam,Rasamanickam and Amirthalingam served as party presidents in rotation. There was no election as an  arrangement by consensus  with Chelva’s blessings would be worked out early. In 1973 there was a possibility of an election with the then  Vaddukkoddai ex-MP Appapillai  Amirthalingam and the then Batticaloa MP Chelliah Rajadurai vying with each other for the party presidency. It was feared that the tussle could rupture the party. Chelvanayagam intervened and persuaded Rajadurai to withdraw from the contest.
-
-Now for the first time in ITAK’s history the party seems to be heading for an  inner -party poll to elect a new President. It will be a triangular contest with two sitting MP’s from the north and an ex-MP from the east in the ring All three aspirants  entered Parliament together  as Tamil National Alliance(TNA) MPs in 2010 after the war with the Liberation Tigers of Tamil  Eelam(LTTE) ended in 2009.  All three are members of a common age group, born within years of each other.
-
-The ‘senior” of the  competing trio, MA Sumanthiran  was   born in 1964 and is a lawyer by profession. He  was first appointed as a national list MP in 2010. Subsequently he was elected to Parliament from Jaffna district in the 2015 and 2020 elections.
-
-The next  in the trio is S. Shritharan born in 1968. He is a former teacher and school principal. Shritharan was elected successively to Parliament from Jaffna district in 2010, 2015 and 2020 elections.
-
-The youngest of the trio is S.Yoheswaran born in 1970. Yoheswaran’s profession as well as  vocation is social service.  Yoheswaran  was elected from Batticaloa district to Parliament in 2010 and 2015. He  contested the 2020  poll but was not elected.
-
-The  nomination   procedure within the ITAK   to  elect a  Party president is for  a minimum of six members of the central working committee to propose a name with the prospective candidate’s consent. If there is only one candidate then obviously there wont be an election. If there are two or more candidates , then there will be a contest unless   the contenders barring one pull out or withdraw from the hustings.
-
-If an election does take place, the ITAK’s  General Council members would be eligible to vote.. According to the party Constitution, the  General Council will consist of representatives elected by the party branches and  the Central Working  Committee membersThe “Mathiya Seyal Kuzhu” or Central working committee has 50 members. The party branch representatives are 260 in number/ Thus the “Podhu Sabhai” or General council in total will have  310 members>.Thus a  general council “electorate”of 310 will get to elect the new party president. Thereafter the president would be endorsed unanimously at the party convention.
-
-The 50  member  central committee comprises those elected as representatives at district level and appointed by the party leadership to represent special interests. The  other general council  members  will consist of representatives   zonal branches of the party. There are 51  zonal branches  from the eight districts in the Northern and Eastern provinces/  There is also one from Colombo. Each branch will  have five representatives each . The  zonal branch representatives in the General council wlll be 260 members
-
-When nominations closed on 30 November  2023, there were only two candidates in the fray namely Sumanthiran and Shritharan. An announcement was made  to that effect However a third nomination  dated 30 Nov sent by registered post was received by the ITAK acting secretary Dr.P. Sathialingam two days later. This was sent from Batticaloa on Yoheswaran’s behalf. Thus it became a triangular contest instead of a direct duel between the Jaffna parliamentarians.
-
-Although a minimum of six central committee members could nominate a candidate, Sumanthiran had a dozen endorsing his candidacy. These consisted of four from Jaffna  district and one each from the  districts of Kilinochchi,Mannar, Mullaitheevu, Vavuniya, Amparai, Batticaloa, Trincomalee and Colombo. Among those proposing Sumanthiran’s name were  Batticaloa MP Shanakian Rasamanickam, ITAK administrative secretary Xavier Kulanayagam and ITAK senior vice -president and ex-chairman of the Northern provincial council CVK Sivagnanam.
-
-In the case of Shritharan, the Jaffna district MP’s political stronghold is the Kilinochchi district. Although Kilinochchi is a separate administrative district, it is part of the Jaffna electoral district. The bulk of Shritharan’s preference votes have come from Kilinochchi in the past elections. As such he was nominated by six from Kilinochchi including former Northern provincial minister Kurukularajah and Karaichchi PS chairman Vaelamaalihidhan.
-
-Seenithamby Yoheswaran was also nominated by six from Batticaloa district. Among these was former Batticaloa MP Ariyanendran. It is also noteworthy that Yoeswaran’s candidacy was indeed a surprise. While there was always  speculation  about Sumanthiran and Shritharan being potential contenders, Yoheswaran’s name was never mentioned. Even now there are some who opine that Yoheswaran may be persuaded to withdraw from contesting prior to D-day if he is promised the party secretary post.
-
-Under these circumstances ,it appears that the ITAK presidential election would turn out to be a “duel in the sun” between Sumanthiran and Shritharan even if Yogeswaran does not pull out. News reports indicate that both have commenced  canvassing by meeting members of the ITAK Working committee  and General Council. Meanwhile supporters and sympathisers of both contenders are propagating the merits and virtues of their favourites over social media. The campaigns whether official or unofficial have not descended to low levels. At least not yet. But the possibility cannot be ruled out as the campaigns begin to gather momentum after 2024 dawns.
-
-Most political parties in Sri Lanka do not have a real election to elect the party leader.  It is done by  prior arrangement and is supposedly a unanimous choice. This has been the practice in the ITAK too. But the prospect of a leadership election  would be a progressive and welcome feature. Inner party democracy would be strengthened and a genuinely elected leader;s stature and credibility will be enhanced. But since this would be a new  chapter in the party’s history many are perturbed by doubts and fears.. This is very much so among grassroot supporters of the ITAK.
-
-What old timers and stalwarts of the ITAK as well as concerned observers of the Tamil political scene  worry about is the dismal prospect of a dirty and vicious leadership contest. It is feared that such a duel would tear the party fabric asunder and cause a serious rupture.  Implicit threats by supporeters about the  unsuccessful candidate breaking away from the ITAK and forming a new party or joining another party has contributed to this growing anxiety. The chief candidates have both indicated that they would work unitedly for the party whether they are successful in the leadership bid or not.
-
-Despite assertions that  the loser would be willing to work alongside the winner after the election, it may not be possible for one to work with the other after a bitter, no holds barred tussle. The respective supporters themselves may not be in favour of such “unity”. In a tight election the winner would feel insecure and be paranoid about plots by his rival. Hence the loser would be treated with suspicion. . Besides it must not be forgotten that the history of Tamil politics in this country has been a series of ego clashes posing as ideological differences. This applies to Tamil militancy too.
-
-The mainstay of Sri Lankan Tamil nationalist politics has been the recurring phenomenon of a single political party  winning a sizable bloc of seats from the North and east. This has enabled the party concerned particularly the ITAK to make and/or unmake Governments in the past. In recent times the TNA too has been able to engage with presidents and governments on the basis of being the premier political configuration representing Northern and Eastern Tamils in parliament. It has also given them international approval.
-
-The recent break-up of the TNA as well as increasing fragmentation of the Tamil polity both horizontally and vertically suggests that no single Tamil party would be able to command a majority of seats in the next Parliament.  The  relatively middle of the road ITAK itself is likely to fare poorly , losing out to the school of  Tamil Confrontational  politics on the one hand and the school of Tamil conciliatory politics on the other.
-
-If the ITAK fractures  as a result of the Sumanthiran -Shritharan leadership tussle, the consequences for either faction would be drastic. There is the danger of both factions being marginalized.  The calamity of a potential split can be avoided at best or postponed at worst if the election is negated by the contestants arriving at a compromise.
-
-Another potential danger if and when the ITAK leadership election takes place would be  extraneous intervention. External agencies and actors could try and influence the outcome with not so benign motives. There are three possibilities. Elements from the Tamil Diaspora, elements from India and elements from the Sri Lankan deep state. I do not wish to elaborate more on these aspects at this juncture but would do so if necessary in the future.
-
-As stated earlier the election campaign has just started and is yet to gather steam. I interacted with several Tamil journalists in the north and east to gain an insight  about the  ITAK/FP presidential race. According to these journalistic sources, Sumanthiran is tipped to win with a slender majority.  But the situation could change as the campaign intensifies. Hence it is prudent and easier for well-intentioned ITAK stalwarts and well-wishers to intervene now and bring about a compromise.
-
-I am thinking of ITAK leaders like Sampanthan Maavai Senathirajah, CVK Sivagnanam, Kurukularajah as well as  “outsider” well-wishers like   lawyer K. Kanaga-Iswaran, academic Nirmala Chandrahasan and a few influential newspaper editors as people who could work positively and constructively in this regard. I do hope they would take the initiative and that the contenders  and their supporters would act in the best interests of the ITAK and the long suffering Tamil people.
-
-There are people  who  may think a settlement between Sumanthiran and Shritharan  would be impossible. They may be right. But nothing is lost by making a reconciliation attempt. After all, let it not be forgotten that Sumanthiran and Shritharan  worked as a team and conducted a joint campaign at the 2020 Parliamentary election. That is why they were the only two ITAK candidates to win from Jaffna. The Sumanthiran -Shritharan duo  should  not forget the saying –“United we stand, divided we fall”.
-
-This is an updated version of the “DBS  Jeyaraj Column” appearing in the “Daily Mirror”of 16 December 2023.It can be accessed here –
-
-## How the Overseas LTTE Raised Funds From the Tamil Diaspora.
-
-*2023-12-18 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83284)*
-
-Readers have evinced a lot of  interest in the  contents of the first part of this article published last week. This  article’s focus   on the fraudulent attempt to promote an impostor as  Thuvaraka the daughter  of Liberation Tigers of Tamil  Eelam (LTTE) leader Veluppillai Prabhakaran has  evoked much response from readers. The feedback I have been getting is basically of two types.
-
-The first kind of response is from readers who were unaware or knew  very little about this  false Thuvaraka. They are intrigued and curious about this brazen attempt to hoodwink   people. The  second  kind of response is from persons who are aware of this duplicitous exercise to some extent. Some have even experienced salient aspects of the fraud in different degrees. The input provided by these readers is proving to be invaluable. A common factor between both  types  is the request that I should continue to  write in detail about this  issue.
-
-Before continuing  , there is another  related  dimension that I need to   explain and elaborate. upon Some readers have specifically asked me  about the LTTE’s Nediyavan who was in charge of the overseas tiger network. Since it was I who had first written about him many years ago and also referred to him briefly in this article’s first part, their queries were about  Nediyavan’s role in this  false Thuvaraka fraud. Apparently there had  been media reports stating that Nediyavan was the mastermind behind this duplicitous exercise.
-
-The simple answer is “no, Nediyavan is not involved in this”.. Though Nediyavan was at one time the powerful overseas head of the LTTE, in recent times he has become very inactive and is practically “retired”. What has happened is that the once monolithic LTTE overseas network is now fragmented. There is no single point of control or authority. As a result several tiger outfits are now functioning autonomously. It is a Switzerland based faction of the tigers that is behind this Thuvaraka fraud. They are aided and abetted by individuals and small groups in other countries.. However  Nediyavan’s decline has a direct bearing on the current situation.
-
-In this context the rise and fall of Nediyavan  needs to be recounted here. Perinbanayagam Sivaparan alias  “Nediyavan” is from Sangarathai, Vaddukkoddai in Valigamam West, Jaffna. His  nom de guerre “Nediyavan” means ‘tall man’.  47  year old Nediyavan  joined the LTTE in 1994 when he was 18. He was sent to Russia for higher studies by the LTTE and studied political science but did not complete his degree in Moscow.
-
-Interestingly the financial arrangements for Nediyavan’s studies in Russia were handled by Selvarasah Pathmanathan alias  “KP” who took a personal interest in the youngster. KP who was in charge of overseas administration, fund raising and procurement before 2002, got someone in France to send money regularly to Nediyavan. Ironically, the very same Nediyavan turned against KP later and backstabbed him.
-
-Nediyavan functioned in the LTTE’s political wing and accompanied former Tiger political commissar Suppiah Paramu Thamilselvan for  some of the peace talks held during 2002-2003. He was later transferred to the overseas LTTE administration section under Veeragathy Manivannan alias Castro. Nediyavan was in charge of Castro’s public relations unit and interacted with several overseas functionaries visiting the Wanni during the  Oslo facilitated peace process.
-
-It was then that Nediyavan met his future wife Sivagowri Shanthamohan. She was a Norwegian citizen. Her father’s brother was Gnanendramohan alias Ranjan Lala. Gnanendramohan was one of the pioneering members of the LTTE and a trusted confidante of Prabhakaran. Ranjan Lala was shot in Jaffna by the Army when riding a motor cycle.
-
-Many young, unmarried female Tiger supporters who visited the LTTE controlled areas of the Northern mainland Wanni during the peace process found themselves unable to resist the “five flowery arrows” of “Manmathan” or cupid when they interacted with young Tamil male Tiger militants. Sivaparan and Sivagowri fell in love. Prabhakaran who had been very fond of Ranjan Lala supported the union.
-
-After their marriage, Sivaparan went to Norway in 2006. The LTTE had been sending a number of operatives abroad over the years. These cadres belonged to different departments of the LTTE and began functioning as Tiger operatives in these new countries. Most of these cadres were from the political and intelligence wings.
-
-Nediyavan took up residence in Norway. The matrimonial alliance with Sivagowri had strengthened Nediyavan’s clout within the LTTE. Castro used him to communicate with overseas operatives. Contact between the Wanni and Tigers abroad was under strain as the war escalated. So Castro appointed an international representative on his behalf. This person was to be in overall charge of the LTTE overseas branches. This was none other than Nediyavan.
-
-Selvarasa Pathmanathan alias KP, who at one time was in charge of overseas LTTE branches re-joined the LTTE  and was appointed head of international relations in January 2009. He, with Prabhakaran’s approval, used this position to re-establish control of the overseas LTTE. This was resented by Castro. With Castro’s authority, Nediyavan spearheaded resistance to KP taking over as global Tiger chief.  A key factor in this was KP’s insistence that Nediyavan should submit detailed accounts of financial expenses to him. Since a lot of corruption prevailed then,Nediyavan was reluctant to do so.
-
-This resistance continued even after the LTTE leadership was destroyed in May 2009. While KP donned the leadership mantle on account of his seniority, Nediyavan and his loyalists opposed it. After KP was arrested in Malaysia and deported to Sri Lanka in August 2009, Nediyavan established greater control over the overseas LTTE structures.
-
-Nediyavan’s network primarily consisted  of one-time LTTE branches and front organisations. With the LTTE being proscribed as a foreign terrorist organisation in most western nations many of the identified Tiger branches became dormant or transformed themselves into new entities. New fronts were also established. The Nediyavan group also established a network of “elected” organisations in different countries among the Tamil Diaspora. These organisations were called either “Makkal Peravai” or “Thesiyap Peravai” (Peoples or National Assemblies or Councils) in each country. While these functionaries tried  to project themselves as democratic political activists at one level, many of them at other levels were involved in shady activity. This was because these outfits were fundamentally LTTE branches pretending to be legitimate political formations.
-
-Thus the Nediyavan network, despite its pretensions to the contrary was not transparent or accountable. Moreover, the Nediyavan network was shrouded in secrecy and ambiguity with many activists having shady, controversial pasts. Political statements made by the Nediyavan group were released by the LTTE office calling itself the “Anaithulaga Seyalagam” (International Secretariat or office).
-
-Meanwhile, the Sri Lankan authorities requested Norway to hand over Nediyavan to them some years ago. Oslo did not oblige but Norwegian officials interviewed Nediyavan and warned him that he should not engage in or promote violence while living on Norwegian soil. Thereafter  Norwegian officials monitored Nediyavan closely and also pressured him intensely to desist from tiger activities.
-
-Nediyavan  then relocated  from Oslo to a place  near Bergen which is about 460 km away from Oslo. He  began maintaining  a low profile and  gradually became inaccessible to tiger operatives. While his wife works as a physiotherapist,  Sivaparan is employed at a Day care centre. According to informed Norwegian sources, Nediyavan is  no longer functioning as the LTTE overseas chief.
-
-Viewed against this backdrop, it appears that  the on going  false Thuvaraka  fraud is essentially a Swiss scam that has nothing to do with Nediyavan. The   two tiger Stalwarts behind this fraudulent racket are  Jeevaratnam Jeevakumar alias Chiranjeevi Master and Chellia Jeyapalan alias Abdullah.Chiranjeevi master is  a former deputy of ex-LTTE intelligence chief Pottu Ammaan. The plan devised by Chiranjeevi master is being  allegedly executed  by  Abdullah who is  a former financial head of the LTTE’s Switzerland network.
-
-Abdullah  was  mainly responsible for the  LTTE fund raising drive  un Switzerland shortly before the war ended in 2009. The money collected was not sent to the LTTE in the Wanni.instead it was embezzled by tiger operatives in the Diaspor In order to comprehend the implications and ramifications of this fraud, it is essential to understand how the LTTE fundraising mechanism operated abroad in the years before the war ended. There were generally five modes.
-
-The first was the mode known as “SO” or standing order. This is a method by which committed supporters of the LTTE made arrangements through their banks for a monthly sum to be sent directly to the front organisation of the LTTE in his or her country. This was comparatively a small sum but had regularity and reliability guaranteed. There was no coercion in this because those who contributed were genuine supporters who did so willingly. The funds raised through this method were used for the running of LTTE branches/fronts in each country and not sent to Sri Lanka or used to buy arms.
-
-The second was the annual general collection. This was a collection drive executed on an ongoing basis throughout the years. In this, many Tamils regardless of whether they were active supporters or not were targeted. Pledges were extracted for certain sums of money to be paid in a few instalments. Force, intimidation and coercion were used frequently in these collection drives to make people pay up or increase the sums of money promised. An easy way of frightening Tamils was by threatening harm to family members living in Sri  Lanka. A large number of people paid up willingly too.
-
-Earlier, Tiger collectors used to work on a voluntary basis but later the collectors were paid a commission depending on the amount they collected. This incentive resulted in a massive increase in fundraising. At the same time, enthusiastic collectors engaged in violence and intimidation to increase the amount collected as their own income through commissions too increased proportionately. In France, LTTE collectors had a farm outside Paris where abducted Tamils were taken and held as captives until ransoms were paid or huge amounts of cash pledged as “donations.”
-
-The money raised through these collections was spent in three ways. A substantial portion of it was sent to the LTTE headquarters in Wanni for maintenance and upkeep of the movement. Another portion was sent to procurement agents abroad for arms and ammunition purchases. A third and perhaps the largest portion was used for investment and setting up businesses abroad.
-
-The third form of fundraising was the one known as “special collection.” This is actually a kind of credit or loan arrangement used exclusively to facilitate acquisition of arms. This concept was pioneered by Selvarasah Pathmanathan alias KP decades ago when he was in charge of the LTTE overseas procurement or arms purchases.
-
-What happened then was that huge amounts of money were required at short notice to make arms purchases. KP, who was then in overall charge of overseas LTTE administration and fundraising, hit upon the idea of a special collection to raise funds at short notice.
-
-A special collection was one where trusted, diehard supporters of the LTTE in each country, particularly those whose credit was good with banks, would obtain loans in their names and then transfer the money to the local LTTE agent or front. In most instances, they would use their line of credit or put up their houses as collateral to get loans.
-
-By this method, a huge amount of money would be secured rapidly and utilised for arms purchases. The interest due to the banks for these loans would be given by the local LTTE branch through the funds obtained through standing orders. While the interest was paid off regularly in this way, the principal was also paid off gradually through the money raised by the general collection.
-
-KP made sure that all loans procured by Tiger supporters in their personal capacity for a special collection was paid off without default in due course. His successors too followed suit. Thus, the special collection idea caught on among LTTE supporters and exceedingly large amounts were raised and paid off without mishap. A special collection was usually undertaken once in eighteen months.
-
-Apart from these three modes, there were two other broad methods to generate funds. One was by staging performances and shows and by selling stuff like calendars, videos, DVDs, Audio CDs, books, magazines, newspapers and souvenirs. Money was also raised by staging events like Black Tigers Day and Great Heroes Day along with related celebrations. On the one hand, people were charged large amounts for admission while on the other, people were also pressured to make donations to cover the expenses. Since these events exploited the emotions of people, it was possible to extract huge sums easily.
-
-Finally, there was the investment in commercial concerns. The LTTE justified its entry into pure commercial pursuits by stating that avenues of regular income should be ensured to sustain the armed struggle at all times. Since reliance on contributions alone could prove unsteady in the long run, the Tigers needed to set up commercial enterprises on a wide-ranging basis, it was argued.
-
-Once LTTE supremo Velupillai Prabhakaran gave his consent, the floodgates were opened. The LTTE branches engaged in different types of businesses through front agents or “benamis.” Screening Tamil films, running restaurants and takeout food outlets, operating real estate services, grocery shops, jewellery stores, printing presses, construction, money transfer services, property development, computer services and trucking were some of the enterprises the Tigers were engaged in.
-
-Some businesses were started anew while in many instances, the Tigers pumped in money to existing ones and acquired control. These businesses paid part of the profits to the LTTE while in some instances those running the businesses were paid regular salaries. Since these businesses and services were originally started by people independently, the community at large did not suspect or know about subsequent Tiger infiltration and acquisition of these enterprises.
-
-There was much “abuse and corruption” in this regard as most of the front agents were relatives or close associates of prominent LTTE stalwarts. For instance, the brothers of a well-known senior LTTE leader who is no more were not known to hold a steady job for several years in the country they were living in. Suddenly, both became very prosperous. Today, one brother is the owner of many buildings given on rent while the other owns a fleet of trucks.
-
-Even when the LTTE was active in Sri  Lanka, some of the people running Tiger businesses abroad began siphoning off cash clandestinely. Several LTTE-run businesses went bankrupt while others continued to “show” loss. After the Mullivaikkal debacle of May 2009, many running these businesses as benamis have appropriated them. Some sold off the businesses and buildings and pocketed the cash themselves.
-
-Even as they were misappropriating these assets and funds, these tiger elements continued to describe themselves as tiger functionaries.  Each group or faction operated separately under the broad tiger label.Thus the overseas tiger network began disintegrating and fragmenting.The once monolithic movement began splintering. Currently the are about thirty -five to forty overseas LTTE factions in existence.
-
-These  tiger elements  face a two-fold problem. The first is to hold on or retain the funds and assets they possess in the name of the LTTE. The second is to keep generating more funds from the   Diaspora. There is pressure from LTTE supporters and sympathisers that the assets and funds should be returned to the people or be sent to Sri Lanka  to aid  poorer sections of Tamil society. Tamils in the Diaspora are not donating to the Tamil cause as in the past because they opine that  the struggle has ended.
-
-It is in such a situation that the false Thuvaraka Prabhakaran fraud has been set in motion. Those behind this deception calculate that the twin  problems of retaininf funds and assets as well as reviving financial donations from the public can be resolved through this fraudulent exercise. These matters will be delved into in greater depth in the third part of this article.
-
-This article appears in the “Political Pulse”Column of “Daily FT” dated 15 December 2023. .It can be accessed here-
-
-## Acting IGP Deshabandu Tennekoon, along with subordinates had violated the law in arresting an ex-soldier for alleged implication in several thefts, thereafter unlawfully detaining and torturing him during 15th -22nd December 2010. States Supre Court Ruling
-
-*2023-12-17 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83288)*
-
-In another dubious record for Sri Lanka’s paralyzed criminal justice system, the Acting Inspector General of Police (IGP) who had assumed his post recently trailing clouds of controversy regarding his professional conduct, has been held directly responsible by the Supreme Court for violation of Article 11 of the Constitution (freedom from torture and cruel, inhumane and degrading treatment).
-
-As observed with justifiable ire, the Court had on umpteen times, laid down ‘guiding principles’ as to how law enforcement officers must act but ‘all such attempts continue to fall on deaf ears.’ It was held that Acting IGP Deshabandu Tennekoon, along with subordinates had violated the law in arresting an ex-soldier for alleged implication in several thefts, thereafter unlawfully detaining and torturing him during 15th -22nd December 2010.
-
-Articles 11 (freedom from torture), 12 (1) (right to equal treatment of the law) 13 (1) and (2) (unlawful arrest and detention) were found to have been violated. Writing for the Court, S Thurairaja J (with K Wickremesinghe and Priyantha Fernando JJ agreeing) observed in Weheragedera Ranjith Sumangala v Bandara, Police Officer and others, SCM 14.12.2023), that ‘while findings of fundamental rights are ample, the wrongdoers – specially the big fish in the pond –  are seldom held duly accountable.’
-
-Senior officers, under whose authority and direction their subordinates may act, have a special duty that they do not abuse such authority or go beyond such direction,’ the Bench said. In the wake of this ruling, some have (unconvincingly) opined that this decision does not attract such awful repercussions as for example, a criminal conviction of the senior police officer in question.
-
-However, that argument must be dismissed with force. Pointedly, the Court has directed the National Police Commission to take ‘appropriate disciplinary action’ against the relevant officers and directed each individual respondent to pay compensation amounting to rupees five hundred thousand. Hence, there is little doubt as to the severity of the result.
-
-Indeed, the case illustrates features of abuse familiar to most of us for decades, including the forced admission of guilt through the use of torture while detaining suspects beyond the permissible limits of the law. In response to Sumangala’s fundamental rights petition filed as far back as on 28th March 2011, the police argued that he had been arrested based on a ‘reasonable suspicion’ that he was part of a thieving gang, using ‘minimum force’ since he had resisted arrest.
-
-But the Court found several inconsistencies in the police version, including finding that the police officers lied about the date of arrest being 17th December 2010 whereas the facts of the case established that it had been two days earlier and that the petitioner had been mercilessly tortured in the meantime. Pertinently, what had to be assessed was not the guilt or otherwise of the petitioner in regard to allegations of theft but whether constitutional safeguards in arrest and detention had been observed.
-
-‘Even reconvicted criminals of the most notorious kind are entitled to their fundamental rights,’ the Bench pronounced. As such, the question of a ‘reasonable suspicion’ in regard to alleged implication in theft will matter purely in regard to the question as to whether grounds existed for arrest. That cannot be relevant in regard to the violation of Article 11 as torture, inhuman and degrading treatment are ‘absolutely abominable in law under all circumstances,’ it was reminded.
-
-The complaint of theft in this case had been filed anonymously which required ‘utmost caution’ in further steps to be taken. That caution had not been manifested and the petitioner had not been given reasons for arrest. He had been detailed beyond the time limit permitted by law, was not allowed to consult with his lawyer or communicate with friends and family.
-
-At that time, the incumbent in the seat of the Acting IGP had been serving as Superintendent of Police, Nugegoda Division. Tennekoon’s counter to the Petitioner’s version of events, was filed late this year, ‘did not challenge much of the averments in the petition.’
-
-The impugned and detention was upon Tennekoon’s ‘direction and instruction,’ he had visited the place where the petitioner was detained and had beaten him with a ‘three wheeler rubber band’ after stripping him naked. The medico-legal report corroborated the injuries inflicted upon him, establishing ‘repugnant’ behaviour.’
-
-Meanwhile, the Bench makes the (jurisprudentially colourful) observation that the violations in issue ‘is a glowing testimony as to the almost prophetic prudence of Sir Fitzjames Stevens in making confessions to a police officer inadmissible’ in the drafting of the Indian Evidence Act, followed by Sri Lanka’s Evidence Ordinance. That is certainly so.
-
-But the Court’s lamentations as to why law enforcement officers continue to violate the Constitution have a wider context. First this speaks to the political immunity afforded to perpetrators in uniform. The famous boast from the 1970’s was that, officers found constitutionally culpable by the Court were promoted by the Jayawardene Government and fines ordered to be paid by them, paid out of a ‘special fund’ established for that purpose.
-
-Second, we have the failure under our twin anti-terror laws, the Public Security Ordinance (1947) and the Prevention of Terrorism Act (1979), to observe that same ‘prophetic prudence’ in shutting out confessions to police officers. Indisputably, that has had a terrible impact in subverting if not perverting ‘normal’ law enforcement, as reflected in the routine prevalence of torture in police stations. That is to be expected surely.
-
-If police officers are given extraordinary leeway in extracting confessions using torture from ‘anti-terror’ suspects, that perversion would inevitably seep into all aspects of law enforcement. This is where naively ‘applauding’ tough laws against ‘terrorists’ of minority ethnicity becomes ironic in the extreme. That has now well and truly rebounded on the South as an ex-army officer, Weheragedera Ranjith Sumangala found out to his miserable misfortune. This is precisely why we need to look at ‘anti-terror’ laws with extreme circumspection.
-
-That danger still persists. For example, the Government’s proposed Anti-Terror Bill, the successor to the Wickremesinghe-led Government’s (2015-2019) Counter-Terror Bill, proposed to replace the PTA has been withdrawn for ‘public consultation.’ However its contents do not seem to have undergone significant revision. To give due credit, the Bill omits the provision regarding admissibility of confessions to senior police officers that had been a staple of Sri Lanka’s counter-terror regime.
-
-But that benefit is outweighed by a host of other law enforcement excesses which will inevitably pervert our criminal justice system even further. Ministerial bleating that anyone who is dissatisfied can go to Court against these drafts is not a sufficient answer. The Government must articulate a balanced counter-terror state policy rather than look to the Court to cross the ‘t’s’ and dot the ‘i’s.’
-
-Absent a comprehensive overhaul of practices of ‘ordinary’ law enforcement or ‘counter-terror’ as the case may be, judgements even of the apex court will have limited value. Along with the systemic weakening of individual liberties which crosses boundary lines of ethnicity, the Constitution itself is routinely subjected to cruel, inhumane and degrading treatment.
-
-And we will – along with the Court – helplessly if not hopelessly continue to ask the question posed by the 1st-2nd century Roman satirical poet Juvenal, ‘Quis custodiet ipsos custodes?’ (‘who will guard the guards?’).
-
-## Anton  Stanislaus Balasingham alias “Bala  Annai” :  An  Up , Close and Personal.  Account.
-
-*2023-12-13 18:18:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83277)*
-
-The Liberation Tigers of Tamil Eelam (LTTE) ‘Arasiyal Madhiuraignar’ (Political Adviser) Anton Stanislaus Balasingham passed away seventeen  years ago at his South London residence on 14 December 2006.Bala ‘Annai’ (elder brother) as he was generally known among Tamils died of cancer at the age of 68 years. The funeral was held at the Alexandra Palace in London on 20 December 2006. LTTE supremo Veluppillai Prabhakaran conferred the title ‘Thesathin Kural’ (Voice of the Nation) upon Tiger ideologue and political strategist posthumously.
-
-Balasingham was a colourful yet controversial figure who was admired by some and despised by others. This writer’s relationship with Balasingham too has had its twists and turns. I have both criticised and praised him depending of course on the issue at hand. Likewise he too has both spoken and written ill and well of me. I have written about this man and his role in Tamil affairs on several occasions. I shall rely on some of these writings while focusing on the professional-personal relationship between “Bala Annai” and myself in this article.
-
-Balasingham born on 4 March 1938 was a blend of many strands. His father was from the east and mother from the north. His mother was a Christian and father a Hindu. Though raised as a Catholic Balasingham soon became a rationalist and agnostic.
-
-Balasingham’s first wife was a Jaffna Tamil protestant. His second wife was an Australian woman of Anglo-Saxon extraction. He was a British citizen but yearned for his homeland “Tamil Eelam” which he believed was a state in formation.
-
-Balasingham’s grandfather was a “saiva kurukkal” (non-Brahmin priest) from Mandur in Batticaloa District. His father was an electrical foreman at the Batticaloa Hospital. Bala’s mother was from Jaffna town and a former resident of Martin’s Road. She was a midwife by profession and was working at the Batticaloa Hospital when she met, loved and married Bala’s father Balasingham Snr.
-
-She was later separated and then widowed at an early age. Balasingham along with mother and elder sister moved to the north as a child. They settled down at Karaveddy in the Vadamaratchy sector. Bala’s mother worked as a midwife at the ‘Ambam clinic’ in Karaveddy. Two of Balasingham’s nephews Victor and Anton were working at the ‘Virakesari’ composing section during the time I was a journalist at the Tamil newspaper. Incidentally my mother too was from Kaddaively in the greater Karaveddy area. The postal address was Thunnalai South, Karaveddy. In later years Balasingham would often emphasise this and declare that he and I were from the same place.
-
-In his childhood and early youth Balasingham was known as A.B. Stanislaus. He attended Sacred Heart College in Karaveddy and Nelliaddy Central College (later MMV) in Nelliaddy. Karaveddy was a leftist bastion those days. Young ‘Stanny’ as he was known then also subscribed to leftist ideologies. The doyen of Tamil cartoonists Sivagnanasundaram known as ‘Sundar’ who ran the reputed magazine ‘Sirithiran’ was also from Karaveddy. It was due to Sivagnasundaram’s efforts that Stanislaus was appointed Sub Editor at the Colombo Tamil newspaper Virakesari in the early ’60s.
-
-Former colleagues at the Virakesari speak of Stanny as a man engrossed in reading most of the time. He was not concerned about his appearance and not very particular about clothes. Meals too were not at regular times. At the Virakesari Stanislaus was soon put in charge of foreign news. This entailed translation of Reuters copy and other articles on foreign affairs. Balasingham however was keenly interested in philosophy and psychology. He also dabbled in hypnotism.
-
-Things changed soon as Stanislaus got a job as translator at the British High Commission. There was a transformation in his appearance as he opted for smart clothes now. This was not entirely due to the new job alone. Cupid too had struck. He was enamoured of a beautiful Tamil woman at the British Council adjacent then to the BHC. She was Pearl Rasaratnam, the daughter of Rasaratnam master at Hartley College, Point Pedro.
-
-The family was well-known to my mother’s family. I remember addressing Pearl as “Poo Aunty” in my childhood. One of my sisters was a flower girl at the wedding of Pearl’s sister Rathi. The elder sister Nesam and my Mother taught at the same school for many years The romance between Pearl and Anton resulted in their marriage on 16 July 1968 at the Methodist Church in Kollupitiya.
-
-The post-marriage happiness of the newly-wed Balasingham was short-lived. Anton’s wife Pearl became extremely ill, requiring advanced treatment abroad. British authorities were very sympathetic and generous. Both were allowed to go to England. They left Sri Lanka on 3 August 1971. Balasingham continued his higher education in England. But his wife’s condition deteriorated. It was a life of hardship and sacrifice then with Balasingham having to work, study and care for his ailing wife. She died in November 1976.
-
-Balasingham became acquainted with a hospital staff nurse who was also a ‘stranger’ in Britain as she was from Australia. A second romance flourished between the young widower Anton and the nurse Adele Anne Wilby. They married very simply at the registrar’s office in Brixton, South London on 1 September 1978.
-
-Balasingham teamed up with the LTTE in 1978. He did a lot of writing for the Tigers from London while paying periodic visits to India. When the LTTE broke up in 1980, he aligned himself with the Prabhakaran faction. Balasingham and wife Adele relocated to Chennai (then Madras) after the July 1983 anti-Tamil pogrom.
-
-After entering journalism by joining the Tamil daily ‘Virakesari’ in 1977, I moved to the English daily ‘The Island’ when it was launched in 1981. In 1984/5 I was given the assignment of obtaining interviews from Sri Lankan Tamil militant leaders based in India by Vijitha Yapa who was the Editor at that time. In Tamil Nadu I met with most militant groups but the LTTE was playing hard to get. Finally I was asked to be at a particular spot near the Kannagi statue along the Marina beach at 5:30 p.m. I complied.
-
-A vehicle drew up at 5:30 p.m. sharp and the LTTE stalwart “Nesan” (an ex-seminarian) driving the vehicle asked me to get in front. He then drove the car to another spot and parked. After a while another vehicle came up behind. A man got down and walked up to our vehicle and seated himself behind. As I turned around, he stretched his hand out and said, “I am Balasingham.”
-
-Nesan then began driving the vehicle in a seemingly aimless fashion through many roads and streets. Balasingham kept quizzing me in a curt manner. The hostile questions indicated he was suspicious of me. I changed track and told him about my family and his deceased wife’s family. I also said, “Like you, I too worked at the ‘Virakesari’.”
-
-Balasingham’s attitude changed. He beamed and said, “So you are one of us.” He told Nesan, “Let’s go to Buhari Hotel.” So we went to the Muslim restaurant and had a biriyani dinner while exchanging reminiscences about the past and discussing current politics. This was my first meeting with Balasingham. There were many thereafter.
-
-In 1988 I left for the USA on a Nieman Fellowship for Journalism at Harvard University. I later moved to Canada in 1989 and began editing a Tamil weekly from 1990 onwards in Toronto. I was critical of the LTTE after the Tigers broke the ceasefire with the Chandrika Kumaratunga Government in April 1995 and declared war.
-
-For this I paid a price as the Tigers in Canada started a campaign against the Tamil weekly ‘Muncharie’ owned and edited by me in Toronto. They “banned” it. When the spate of death threats did not deter me, the Tigers began to target the Tamil-owned shops selling the paper and also the predominantly Tamil advertisers. The 48-page tabloid priced at a dollar had 22 pages of advertisement and sold 4,500-5,000 copies. Thanks to the Tiger intimidation and threats many shops stopped selling the paper. The paper shrunk to 24 pages with two pages of advertisements. Sales plummeted to three digits. Rather than survive on my knees by toeing the LTTE line, I opted to die on my feet and stopped publishing in April 1996.
-
-My wife and I worked full-time for the paper. In addition we had nine others working part-time. The paper being stopped was a huge financial blow at that time. Still the demise of ‘Muncharie’ was a blessing in disguise for me as I re-entered English journalism again.
-
-I had started out as a journalist by working for the ‘Virakesari’ in Colombo writing in Tamil. I entered English journalism by working for ‘The Island’ and later ‘The Hindu’. After I came to Canada I went back to Tamil journalism by editing first the weekly ‘Senthamarai’ and later the ‘Muncharie’. Now I went back to English journalism again by writing for ‘The Island’ and later ‘The Sunday Leader,’ ‘The Nation’ and now the ‘Daily Mirror’ and ‘Daily Financial Times’.
-
-Incidentally the Tamil newspapers published in Colombo including my cradle ‘Virakesari’ were unwilling to let me write under my byline in Tamil fearing the LTTE. I turned down offers to write under a nom de plume in Tamil. Hence it has been English journalism for me for the past 27 years!
-
-Though the LTTE had stopped my paper in a bid to silence me, what happened was that I continued writing in English and was critical of both the Governments in power as well as the LTTE. The Tiger supporters began slandering me as a Tamil traitor. Despite being labelled as anti-LTTE I continued with my journalism.
-
-The new millennium brought a surprise. The Tamil Catholic priest Fr. S.J. Emmanuel came to Toronto in mid-2000 and got in touch with me. He said that Balasingham in London wanted to talk to me. This led to my establishing contact with Balasingham again. I had lost contact with him after I left Sri Lanka. However I had earlier “scooped” the news about Balasingham’s return to London from the Wanni in 1999.
-
-While conversing after many years, Balasingham told me that he agreed with my view that the Tamil people needed to end the war and embrace peace with equal rights through a negotiated settlement. Bala Annai said that he was working out a peace process with the help of Norway and wanted me to support it through my writings. I was then writing for ‘The Sunday Leader’.
-
-When I informed the Editor and close friend Lasantha Wickrematunge, he was very happy and said the newspaper will back all efforts to bring about a successful settlement. Thereafter I was in regular contact with Balasingham. There were many occasions where we would spend hours talking off the record. I learnt a lot about the inner workings of the LTTE and its evolution and growth through those conversations.
-
-The ceasefire facilitated by Oslo came into force from 23 February 2002. I was very happy initially. Soon I found the LTTE behaving in a manner that was not conducive to a genuine peaceful settlement. When I remonstrated with Balasingham, I found him unresponsive to my complaints. Slowly he began avoiding me. I waited for six months thinking the LTTE must be given time to get accustomed to a peace process. When that did not happen I began to be critical of the negative acts of omission and commission by the LTTE. Soon I realised that the LTTE was not genuine about peace talks. These thoughts were reflected in my columns.
-
-Balasingham was angry. He “advised” Lasantha not to carry my columns as that could affect the paper’s standing with Tamil readers. Lasantha told me of this and said, “Carry on as usual, Machang.” I continued. Later Balasingham went on to attack me by name at press conferences and at public meetings. All communication between us ceased. Balasingham even instigated sycophantic Tamil editors to attack me viciously in print.
-
-A few years later in the third week of November 2006 I received a telephone call from London. It was from Balasingham. I was surprised as we were not on speaking terms for about three years due to our differences. I was however happy to talk to “Bala Annai” because I had heard earlier that he was terminally ill and that his days were numbered.
-
-Bala Annai said at the outset that he was telephoning and talking to some of his old colleagues, friends and contacts. Although he did not explicitly say so, I realised that it was a farewell call from a man who was to “go out gently into that good night” soon. He had been diagnosed with bile duct cancer (cholangiocarcinoma), a rare and aggressive malignancy of the biliary system. It was in an advanced state and the doctors had given him about four to six more weeks.
-
-Balasingham was his customary jovial self with his jokes and jibes. As the conversation progressed I sensed that he was seriously worried. It was certainly not over his impending death but something else. Soon it came blurting out: “Thambikku oru Ilavum vilanguthillai. Nilaimai Padu moasamaahuthu. Muzhu Ulagamum Saernthu Puligalai Mongappoaguthu” (younger brother is not understanding anything. The situation is becoming worse. The whole world will get together and clobber the Tigers). ‘Younger brother’ referred to LTTE supremo Veluppillai Prabhakaran who was known as Thamby to those of an earlier vintage.
-
-Balasingham went on to say that the so-called international community was infuriated at the conduct of the LTTE. Unless the Tigers did an urgent course correction and acted in an acceptable manner, the Western nations, China, Japan, Pakistan and India were going to back the Rajapaksa regime and ensure that the LTTE was militarily defeated and destroyed. I asked Balasingham as to why he was unable to make Prabhakaran see the writing on the wall and act accordingly. Bala Annai replied ruefully that he had tried and failed.
-
-Speaking further Balasingham said that he had in a direct one to one meeting at Kaeppaapulavu in the northern mainland of Wanni entreated Prabhakaran to see reason and understand the situation. But Prabhakaran did not budge, lamented Bala Annai. “You know how ‘Veeramaarthaandan’ (this was how Balasingham referred to Prabhakaran when annoyed) behaved with me?” asked Bala Annai in Tamil. He then continued to elaborate:
-
-“When I kept on broaching the subject, Prabhakaran abruptly asked me whether I had seen the Tamil movie ‘Autograph’ directed by famous Tamil Nadu film maker Cheran. When I said ‘no’ Prabhakaran said then we must watch it now. So a DVD of the film was played and we watched it on TV in silence. After it was over, I again tried to talk about the situation. Prabhakaran said, “Let’s watch the film again.” So we watched it again. Once it was over I tried again to re-open the topic. Prabhakaran with an impish grin said ‘Innorukkaa Paarppam,’ meaning ‘let’s see it again’. I took the hint and took Prabhakaran’s leave. When he behaves like that I know from experience that nothing would make him relent.”
-
-When I asked Balasingham whether he did not try to make other senior LTTE leaders understand the situation, he replied that people like Thamilselvan, Castro, Pottu Ammaan in the Wanni and Ruthirakumaaran in New York had prejudiced Prabhakaran’s mind against him after the Oslo facilitated peace talks between the Ranil Wickremesinghe Government and LTTE.
-
-Moreover they had also misinformed Prabhakaran into believing that the Sri Lankan armed forces could be defeated and that the world would back the Tigers against Rajapaksa. Balasingham also said that senior leaders like Soosai, ‘Baby’ Subramaniam, Balakumaran and Para understood the predicament but were powerless to persuade Prabhakaran to see reality.
-
-We had talked for about 20 minutes when Balasingham started to cough ceaselessly. He could not continue further and we had to end our conversation. I was extremely saddened by the conversation as I could see that escalation of the war was going to be inevitable. The wretched of the Wanni earth –innocent Tamil civilians – were going to suffer a humanitarian catastrophe.
-
-Subsequent events demonstrated that my fears were justified. Furthermore Balasingham’s ominous foreboding that the international community was going to clobber the Tigers also proved correct. Only they backed Colombo and let it  do the dirty work and now want to probe alleged war crimes.
-
-That final conversation with Balasingham also cleared up a lot of things for me. Chief among them was the “misunderstanding” (to put it mildly) I had with him. He made me understand through that conversation that he had indeed been genuine about a negotiated settlement but was overruled by Prabhakaran as events unfolded.
-
-I did not ask him why he had attacked me publicly or tried to stop me from writing for The Sunday Leader. I felt it was “not done” to do so as the man was dying.
-
-However I felt that he may have been compelled to turn against me publicly in order to safeguard himself within the LTTE. Thamilselvan and Castro were conducting a vicious campaign within the overseas LTTE against me at that time and it was quite possible that Balasingham was vulnerable on account of the close contact he maintained with me in earlier times.
-
-Anton Stanislaus Balasingham passed away peacefully in his South London residence at 1:45 p.m. (British time) on Thursday, 14 December 2006. His loving and devoted Australia-born wife Adele Anne was by his side as Bala Annai breathed his last. All these thoughts about the relationship I had with him arise again as the 17
-
-th death anniversary of Anton Balasingham draws near on 14 December.
-
-## “Our appeal to people of the north is not ‘please join us, we will fulfil your needs’. We are appealing to them, to be part of this movement to defeat this corrupt ruling clique. We are saying let us unite, rebuild this country, and fulfil the requirements of the all the communities together” – JVP Leader Anura Kumara Dissanayake
-
-*2023-12-11 01:11:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83270)*
-
-As Sri Lanka tries to rebuild its battered economy after last year’s devastating crisis, the country’s political scene is gradually heating up, in the run up to two national elections scheduled next year — parliamentary and presidential — that will give citizens their first chance to vote, after they dislodged the Rajapaksas from power in 2022. The National People’s Power [NPP] alliance, led by the leftist Janatha Vimukthi Peramuna (JVP or People’s Liberation Front) is drawing attention, with its leader Anura Kumara Dissanayake topping opinion polls as the people’s preferred choice for President. In a wide-ranging interview, the 55-year-old parliamentarian from Colombo spoke to The Hindu at the JVP’s headquarters and laid out what he has to offer.
-
-The government says there is relative stability now. The IMF programme is being implemented, and austerity measures are coming into effect. What is your assessment of the economic situation in the country now?
-
-The economic crisis in Sri Lanka has not been fully resolved. One major issue is that the country’s goods and services sectors are not being developed. Due to that reason, we are not able to earn enough foreign exchange, or rupee revenue needed to run the country.
-
-According to the budget for the next year, the government is expecting a revenue of over 4,164 billion rupees [LKR], while it is expecting to spend around 11,277 billion rupees [LKR]. Of this revenue, a big portion is going to come from indirect taxes as well as PAYE taxes from the professionals.
-
-Sri Lanka has not been servicing its debt for almost two years. The country needs LKR 7350 billion in 2024 to finance its [domestic] debt obligations. We are not spending in dollars, and we are not paying our debt. That is why the government is able to import gas and fuel. The government has not really found solutions to the real economic crisis.
-
-Corruption and economic democracy have been two focal points of your current campaign. You are adopting a slogan of ‘rich people, rich country’. Could you explain?
-
-In our country, wealth or the means of production is concentrated among a few people. Especially, if someone wants to do business, they must have the right connections with the government, to procure tenders, or government land, or to be able to sell their products at government-run stores or cooperatives. There is no economic democracy. A majority of our people cannot participate in economic activities, because you must have some kind of government connection to do that, especially to do business. There is no transparency. Because of that, the country has become poor, and the people also have become poor.
-
-In Sri Lanka, the top 10% of the rich own and control about 38.4 % of the wealth in the country, and the lowest 10%, or the poorest, they own only 1.1 % of the total wealth. A majority of our people are poor. That is why we need an economic plan which can develop the country and bring people out of poverty.
-
-You highlight corruption, what in your analysis is the source of corruption in Sri Lanka?
-
-The root cause of the corruption in Sri Lanka is the political culture here. Another reason is that the economic [liberalisation] and social policies introduced in 1977, promoted only money/financial relationships rather than human values. It was all about making money. For instance, a person could have made big money by selling drugs, but would have got elected to parliament. For the last 45 years this country has been abandoning human and social values, siding with the power of money. Principles were lost. This socio-economic setup has also fuelled the culture of corruption.
-
-When you say you have to make people rich in order to make the country rich, what kind of policies do you have in mind?
-
-In our economic policy, there are three major fundamentals. First, we have to develop our economy. Second, people should be allowed to participate, that is, people’s participation in economic activity should increase. And then, the benefits of this should be distributed to all the people.
-
-We have developed an economic plan to fulfill these objectives. When we consider the first aspect of economic growth, to develop the economy, we are open to investments. In this regard we need capital, technology, and investments which can help Sri Lanka go to the world market. So, we are encouraging investments that can help Sri Lanka go to the world market and secure a portion of it. We don’t think we should invite investors to come and sell petrol and diesel here.
-
-When you look at the economic strength of provinces in Sri Lanka, 36 % of the GDP is from the Western Province [where capital Colombo is located], 5 % from North Central and 4 % from Uva Province. Our economy is highly concentrated in the Western Province, it should be expanded to other provinces as well. We have developed an economic policy based on Sri Lanka’s location, our natural resources, human resources, civilization, and contemporary global political affairs.
-
-What about Sri Lanka’s continuing import reliance, and its exports’ basket that has not been diversified in decades?
-
-The needs, wants or requirements of human beings have not changed very much over time. They remain similar. The mode or the modes of fulfilling those needs, they are changing. And the market relies on these modes. As a country, we have not been able to cater to these new modes which could have allowed us to secure a portion in the world market. Our research and development have been very weak. Due to that, we are still limited to traditional exports as you said, like tea, rubber, coconut. Just like tea, rubber, coconut, our political leaders are also old, stuck where they were.
-
-As a country, we have not been able to seize the moment and penetrate the markets. We have always missed the opportunity. Sometimes our leaders have tried to seize the opportunity but could not. We have been studying and identifying what are the sectors, especially in goods and services, that Sri Lanka can enter, and what are the new markets we can enter. We cannot continue with this old model.
-
-Shifting to the political scene, opinion polls say you are the most preferred candidate for President. Next year, Sri Lanka’s presidential and parliamentary elections are due, what do you think are your chances realistically?
-
-Governments can collapse within a very short period of time, sometimes within a year, sometimes within four to five years. But systemic change in society takes decades, sometimes even centuries. When we look at the economic, social, and political realities of our country, [it is evident that] this country needs real social change. Other parties can change their leaders, Cabinet of ministers and government. But the country needs social transformation. We think we are the only party that can fulfil this requirement. We do think we have a good chance of winning the elections. We are confident.
-
-When we look at countries that have developed well over time, we see that it [the development] is very much aligned to a national liberation struggle. For example, a country like the US became a developed country, it was linked to a liberation struggle. India also had a big liberation movement.
-
-You mean the anti-Colonial resistance and subsequent nation building exercise?
-
-Yes, yes. But in Sri Lanka we did not have that sort of a movement. For the system change that the country is asking, we need a national liberation movement rather than a political party. That is what we are trying to fulfil. Our party is the JVP, and our national movement is the NPP. We have not only built a party, but also built a massive national liberation movement. That is why we think that we are capable enough to win [polls], and capable enough to fulfil the contemporary requirements of the country.
-
-Right, when you say liberation movement, what are you liberating the country from?
-
-We must liberate the country from this corrupt political culture. That is the first thing we must do —liberate this country from this corrupt elite political leadership which has been ruining the country for the last 75 years.
-
-Your movement, or the NPP, is drawing more attention and support now, including from disillusioned supporters of other parties. With a more diverse support base, how will you accommodate the expectations of traditional JVP supporters, as well as those of others?
-
-The JVP was built for this social change. Ideologically and politically, since the inception of our party, we have believed that we need to build a mass movement. In some periods of our history, we were unable to build a mass movement that was influential, sometimes we faced failures, but today we are satisfied that we have been able to build a massive and capable movement. To answer your specific question, the JVP has been working for this from the beginning. So, there is no contradiction. Although people from other political backgrounds are joining us, after having voted for Pohottuwa [as the Rajapaksas’ party is referred to, based on its lotus bud symbol] or the UNP [United National Party] in the past, when we talk to them, we really know that they had supported them with good hopes and objectives.
-
-Moreover, it is not the functionaries from these parties’ corrupt layers that are joining us. It was a small group that was corrupt. People were not corrupt, they just voted for them. We are not allowing this corrupt lot to join us. Ordinary people are joining us, so we are not really facing any contradiction between them and our party’s support base.
-
-I also ask this because the business community or some affluent sections are wary of the NPP, seeing it as a Left formation. Some within the Left criticise you for not being Left enough. You seem to be getting attacked from both sides. How do you position yourself?
-
-Getting attacked from both sides goes to show that we are in the correct position. We will establish a government to serve the needs of the majority of the people. We are trying our best to provide fair chances for everyone to participate in the economy. We are trying our best to unite the three main [ethnic] communities of this country, we do not do politics based on ethno-nationalism or communalism.
-
-We will engage all the countries while analysing the recent political developments in the world. We will remain a non-aligned country. We will try to build a country where everyone is law-abiding, where no one is above the law. Everyone can debate about the “isms” of the NPP, but we are focussed on for working for the people.
-
-Labels have always given wrong perceptions. Left politics is not a bad thing, it is a good thing. Some people demonise this. That is why we say we are focussed more on working for the majority of our people, rather than on labels.
-
-You talked about engaging all countries. In recent times, you have stepped up your international outreach – meeting head of missions, including India’s. Historically, the JVP has held an image of being anti-India, anti-West, while being perceived as pro-China. What has changed now?
-
-The world has changed, our party has also changed. In the contemporary world, there are big political centres, and we know there are huge political and economic contradictions among these power centres. We are trying to keep Sri Lanka out of this big power rivalry.
-
-We do know that India, who is our closest neighbour, has become a major political and economic centre. So, when we take economic and political decisions, we will always care about how it will impact India. Afterall, there is no contest between India and Sri Lanka. The rivalry is at the geopolitical level, between big powers, it is not between Sri Lanka and India. We are mindful of that.
-
-Elections bring about compulsions. Is the NPP open to alliances, and if you are, are there alliance partners that you see yourself working with next year?
-
-We have built the NPP to fulfil that objective, to make alliances. As I told you, what our country needs is not a mere government or a regime change, but a real social transformation. So, we are ready to work with groups and parties who are ready for that social transformation. We don’t see those in government or the opposition, who have ruled this country, as being eligible for such an alliance.
-
-Next year, it will be 15 years since Sri Lanka’s civil war ended. The political solution is still pending, the Tamil people are concerned about ongoing land grabs, they are not allowed to remember their dead, there were recent reports of torture, of custodial deaths. As you build a national movement with the aim of coming to power, what will you tell the Tamil citizens of this country?
-
-The problem in Sri Lanka was not the war, the problem took the form of a war. Although the war is over, the national question remains. We believe and accept that there are issues, especially regarding the Tamil and Muslim people of this country, in regard to their language rights, cultural issues as well as their participation in governance. We must find solutions for these pending issues.
-
-It was a civil war that was fought here, it was not as if one country defeated another. We think what happened was a catastrophe. As a party, we don’t think that we should celebrate it as a “war victory”. We don’t think the 19th of May [final day of war] is a day to be celebrated. We believe everyone has a right to commemorate their loved ones lost in war. If we can find a common date, to commemorate the victims that would be better.
-
-On the other hand, not only in the north, even in the south this commemoration has been losing its genuine meaning, it has become a political project for some. While people in the north try to commemorate their dead, some from the south want to disrupt it. It has become some kind of game or sport.
-
-You have been trying to mobilise the support of ex-servicemen. How do you think that will be seen by families of JVP cadre who have faced military violence during the insurrections, or the Tamils who continue to have a tense relationship with the military, that is accused of committing war crimes?
-
-Even though it is not our desire, we believe that much of our political work is with the people of the Sinhala community. Among the Sinhala community, we have been organising various sectors, and the ex-servicemen are also part of that. In the north, we are actually weak among the [Tamil] people and ex-militants.
-
-In our history there were armed struggles, military responses. However, we can’t live in our history, we have to allow everyone to participate in this new national movement.
-
-We didn’t have a strong national liberation movement, as I told you. We had two opportunities to build such a movement. First, when the British were ruling the country, we had an opportunity to form a national liberation movement, but we failed. After the British exited the country, our local leaders had a chance at a nation building project, a national movement. They didn’t do that. This is the third opportunity.
-
-We think we have to unite all the people and the communities and the groups in north, east and south, to defeat this corrupt political ruling class. Our appeal to people of the north is not ‘please join us, we will fulfil your needs’. That is not what we are saying. We are appealing to them, to be part of this movement to defeat this corrupt ruling clique. We are saying let us unite, rebuild this country, and fulfil the requirements of the all the communities together.
-
-In our history, political leaders have always asked the people of north to join them saying, we will solve your issues. They always looked at the people of the north as others, the other people. We do not think they are other people, so we ask them to become an organic part of this movement. Even though we are weak [in the north], that is our ambition and that is what we have been doing for the last 15 years.
-
-Next year, it will be 10 years since you became the JVP’s leader. The party’s past remains controversial, how does its future look to you?
-
-The party is not built on one person or one leader. We are a collective movement. We have been working for this for decades. In the near future, we will be able to reach that objective and we will be able to build a better future for the country.
-
-## The signal focus of MP’s  during the budget debates should be as to how Sri Lanka’s ‘recovery’ from bankruptcy can be ‘engineered’ to shield the most vulnerable segments of the populace from literal starvation.
-
-*2023-12-09 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83265)*
-
-Parliamentarians draping shawls supposedly in sympathy for the plight of the people of Gaza while deaf, dumb and blind to the fate of their own constituents and exchanging tiringly customary allegations across the floor of the House as to who is ‘more corrupt’ and ‘who is more communalist’ underlines the growing irrelevance of Sri Lanka’s Parliament in the public perception.
-
-Evidently, the Centre cannot hold. Perhaps this was inevitable post the unprecedented ‘Aragalaya’ (mass protests) of 2022. Sri Lanka’s young had demanded a transformative cleansing of the State in their thousands on Colombo’s streets. Instead of that transformation that may have put a kinder face on the nation’s discontent, old crude games of power politics prevailed.
-
-So, what we have now is a transitional interval where, under a Wickremesinghe Presidency and a Rajapaksa House, the foci of both executive and legislative authority have become alarmingly disconnected from the people.
-
-That is true of both the Government and the main Opposition, content to hurl barbs at each other while disregarding weighty matters that are in the public interest. The signal focus of the House during the budget debates should be as to how Sri Lanka’s ‘recovery’ from bankruptcy can be ‘engineered’ to shield the most vulnerable segments of the populace from literal starvation.
-
-Yet this is far from the case, apart from the Government’s handing out of ‘favours’ be it deeds to land and houses or bolstering the country’s political patronage system in other familiar ways.
-
-There is little sight of intent to trim a bloated state sector apart from selling off prized and historically valuable state assets. Governance reforms that would put the country on a new path are sadly lacking despite a plethora of new laws.
-
-Gross political corrupters remain in the Cabinet despite the President waxing eloquent on debt sustainability and a new anti-corruption law. Other rude contradictions abound. On the one hand, reliance is placed on brutish force reinforced by a raft of Bills on anti-terrorism and ‘controlling’ the media.
-
-These Bills have as their clear object, the purpose of repressing large scale dissent despite history (both in this land and elsewhere) demonstrating how impossible if not unsustainable that is.  Meanwhile state law enforcement and security agencies refuse to permit men and women of the North and East to mourn their dead killed in war and continue to arrest protestors under the Prevention of Terrorism Act (PTA).
-
-On the other hand, the President unblushingly moots a new Commission on Truth and Reconciliation to be established by statute.
-
-Whose truth? Whose reconciliation? If we look at other prongs of the transitional justice mechanism proposed by the Wickremesinghe led government during 2015-2019, pessimistic predictions of their uselessness made at the time are now entirely borne out.
-
-For instance, what have been the signal outcomes of the Office of Missing Persons (OMP) paraded with such enthusiasm in Colombo? Absent any significant power to enable the moving of investigations to the first step of enforcing criminal accountability when significant evidence is collected regarding penal responsibility for the crime of ‘enforced disappearances’, the OMP was foretold to end up as a travesty.
-
-Seven years later, this is unfortunately the case, more or less. The seeds of that negation of the promise of the OMP were evident at the start, quite apart from the Sirisena-Wickremesinghe coalition  collapsing in an ugly tangle of bickering in 2019.
-
-Other so-called ‘prongs’ of that grandly touted effort fared no better. It stands to reason that, doling out Reparations for victims does not need an ‘Office’ as such.
-
-This same task was done to that same extent by other mechanisms earlier, as much as investigations into ‘disappearances’ were accomplished with much greater public support by the several Commissions on Enforced Disappearances in the 1990’s.
-
-Currently, who has confidence in these efforts absent a clear genuineness on the part of the Government to dismantle abusive state structures? And the absurdities roll on.  Sri Lanka’s Department of Police, now in the tender hands of an Acting Inspector General of Police with an alleged record of politically partisan behaviour, sprung into action some days ago by ruthlessly water-cannoning female opposition activists including a female parliamentarian of the Janatha Vimukthi Peramuna (JVP ) led coalition. Ironically, the women were protesting the unbearable cost of living outside Parliament on the same day as the budget vote of the relevant Ministry was due to be taken up.
-
-If ever an incident demonstrated the nonsensical excess of our law enforcement zeal, this would be it.  Were these activists such a formidable threat to the sanctity of the House that they had to be treated so churlishly?
-
-Meanwhile constitutional tussles have reached absurd heights with the centre of the controversy being the Constitutional Council (CC) which the President mis-characterised recently as being ‘part of the executive.’ On its own part, the CC did little favours to itself by first writing to the Chief Justice asking for information on the two judges recommended to be appointed to the Supreme Court and as President of the Court of Appeal and later, apparently ‘withdrawing’ the written communications.
-
-This was in the face of a reported negative response by the Chief Justice. Equally unwise was the CC’s attempt to ‘place before the House,’ the rules relating to the performance and discharge of its functions before gazetting the same.
-
-This is contrary to the enabling constitutional provision (Article   41 G(3). At a different level, the inability of the House to bring in the tenth (and remaining) member of the CC supposed to represent the political party other than those of the Government or the Leader of the Opposition, beggars the proverbial imagination.  That tenth member has to be chosen by ‘agreement of the Members of Parliament’ (Article 41A (f)).
-
-Apart from various parliamentarians offering excuses as to why this failure to fully constitute the CC is not their fault, there seems to be little movement forward on either side of the floor.  Needless to say, such multiple governance failures breed fertile conditions for violent discontent.
-
-That is primarily being optimised to the maximum by the JVP which clearly does not consider it a priority to engage the House except in the most cursory manner. Rather, their campaign by way of fiery rhetoric is to appeal to an angry nation looking for revenge from the ‘elite’ while falling short of clear policies and plans.
-
-All in all, a perfect storm of disasters portend in 2024 with the only miserable certainty being the exponential rise of taxes pushing more segments of the desperate populace to the margins while a grossly corrupt few reap fat profits. As we said last week, it is time that the President stopped talking of climate justice let alone establishing a climate university and floated down to earth.
-
-As a first step, he may well address large scale deforestation in Sri Lanka at the hands of politicians and their rapacious armies of patronage supporters.
-
-ope that pigs will fly, as the simple though inelegant saying goes.
-
-## A Dysfunctional Government Brings Out a Controversial Acting Top Cop
-
-*2023-12-09 18:00:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83267)*
-
-The deep shadow of conspiracy that allegedly created the conditions for Gotabaya Rajapaksa to become President through the Easter Sunday massacre continues to darken many aspects of Sri Lankan life.
-
-Governance is in disarray, and the government’s inability to pick an officer of high calibre, whose reputation is intact, to fill the post of Inspector General of Police, is a glaring example of that.
-
-Most countries groom successors to such high-level posts well in advance, enabling a smooth transition. Malaysia is a good example.
-
-That country, which has a colonial legacy much like ours, saw a change of guard at the top in the Police department when IGP Acryl Sani retired on June 22, 2023.
-
-His successor, Razarudin Husain, who had been groomed for the top job for months, took office the next day, and the government announced that Ayob Khan would be Husain’s successor. That announcement coincided with Husain’s taking office.
-
-The appointment of an IGP was akin to a circus act; President Ranil Wickremasinghe displayed his inability to withstand the pressures brought upon by those wanting their favourites to the top chair. Instead, in true form he simply kept extending outgoing IGP C D Wickremeratne’s term, finally caving in to appoint Deshabandu Tennekoon, a senior DIG as acting IGP.
-
-It’s an appointment that has met with much disappointment and despair. Tennakoon, according to the many reports on him seems to have a chequered history. So much so, that even the Constitutional Council was divided, with three members vetoing the appointment.
-
-Opposition Leader, Sajith Premadasa told Parliament that he and fellow SJB MP Kabir Hasheem and another member he did not name had voted against Tennekoon. “It was five to three,” Premadasa said.
-
-Dogged by allegations of improper conduct, including connections to the underworld, and the alleged cover-up of official involvement in the Easter Sunday massacre, Tennakoon’s copybook is blotted.
-
-Amongst the many posts on social media on Tennakoon, is a video showing him, then Senior Deputy Inspector General of Police in charge of the Western Province accompanying controversial SLPP strongman, State Minister Sanath Nishantha who led a mob of Rajapaksa supporters to attack the Aragalaya in May 2022.
-
-Except for a handful of individuals, the strongest objections to Tennakoon’s appointment come from the Catholic Church in Sri Lanka. Pointing to Presidential and other reports on the Easter tragedy, where Tennakoon is named for negligence in preventing the attack, Malcolm Cardinal Ranjith said “We strongly reject the appointment as the biggest insult to the victims of the Easter Sunday attacks.”
-
-At a press conference soon after the appointment, the Catholic Church’s spokesman Fr. Cyril Gamini told reporters that according to investigative reports. Tennakoon had instructed police officers to release unchecked, a lorry that had been stopped by them on suspicion. The log entered by the police officer, states Fr Cyril Gamini, shows he received a phone call from Tennakoon, instructing the lorry be released. Tennekoon is yet to explain his actions, says Fr Cyril Gamini.
-
-Media reports, which the Church also cites, point to Tennakoon’s clear partisanship to the Rajapaksa’s.
-
-The Catholic Church points to two incidents; the first is Tennakoon accompanying Sanath Nishantha who led the attack on the aragalaya, and the second is his intervention involving the Rs 17.8 million in cash, aragalaya protestors found in the President’s House after Gotabaya Rajapaksa fled. Though the monies were handed over to the Officer-in-Charge of the Fort Police Station, Inspector Sagara Liyanage, is on record stating that Tennakoon instructed him over the phone to hand over the money to Public Security Minister Tiran Alles.
-
-The correct procedure is to deposit such funds in a trust account in a State Bank until ownership is resolved.
-
-Sadly, political interference and an overall drop in standards, where government officers think nothing of openly displaying their partisanship, has left Sri Lanka with a paucity of Officers and Gentlemen who could be appointed to top positions.
-
-The current pool of officers, in order of rank for the IGPs post, is in itself limited;
-
-the other leading candidate is Senior DIG Nilantha Jayawardena, again, like Tennakoon named for the negligence of duty, despite having prior knowledge of the Easter attack and ordered by the courts to pay compensation to the victims.
-
-Tennakoon has an influential Sinhala Buddhist group, the Pavidi Handa on his side. In an attempt to stir up religious disharmony, its members accuse the Church of opposing Tennekoon’s appointment because he is a Buddhist. The group is led by a strong Rajapaksa supporter, and Nurses Union President, Muruththettuwe Ananda Thero.
-
-A younger monk at the press conference also linked the church to the Liberation Tigers of Tamil Eelam (LTTE), stating it was the ‘military arm of the Catholic Church.’ That is as good as accusing the Church of fomenting terror.
-
-Tennakoon, accompanied by some other police officers visited the Chief Prelate of the Asgiriya Chapter, begging for intervention, because they were named in the Presidential Commission on the Easter Sunday bombings.
-
-The visit, in 2021, evoked a tweet by Ambika Satkunanathan, a former Human Rights Commissioner, “In a supposed democracy, the police appeal to Buddhist clergy to influence govt to escape legal consequences for their (in) action. Illustrates influence of Buddhist clergy/Sinhala Buddhist nationalism on government, politicization of police and sense of impunity and entitlement of police.” (Colombo Telegraph, Top Cop Begs Asgiriya Chief Prelate to Save Them from Prosecution Over Easter Attacks)
-
-In the days following the Easter attack, Buddhist priests visited the churches that were damaged and even helped in cleaning up the debris. The country was awash with never-before-seen banners, not even when the LTTE carried out attacks on the Shri Maha Bodhi or the Central Bank, condoling with the Christians. Though that gesture is appreciated, it is clear, it was the anti-Muslim rhetoric at the time, that fuelled that ‘sympathy.’
-
-Tennakoon is a controversial figure, as is his appointment as Acting DIG, and comes at a time when the country seems to be gearing up for an election.
-
-Despite a majority in parliament, recent polls show the SLPP is hugely unpopular.
-
-For the Rajapaksa led SLPP, which is on the back foot going into the hustings, and Wickremasinghe too, having an IGP, who, in past actions has displayed partisanship, is indeed helpful.
-
-## “Nadigaiyar Thilagam “( Doyenne of Actresses) Savitri.; The Rise and Fall  of a Great Actress.
-
-*2023-12-08 03:33:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83244)*
-
-Yesteryear Actress Nissankara .Savitri was  at one time regarded as the greatest actress to adorn the Tamil silver screen. She was hailed then as   “Nadigaiyar Thilagam “( Doyenne of Actresses) in Tamil and “Mahanati” (Great Actress) in Telugu. Savitri was born on 6 December 1934. This article therefore  is to denote her 89th Birth anniversary .
-
-Savitri   was known  as Savitri Ganesh after she married Tamil romantic actor Gemini Ganesan  who was  also known as R. Ganesh and Gemini Ganesh. Savitri in a thespian  career of more than three decades acted in 258 films in five languages. The breakdown was – Telugu- 146;Tamil -90; Kannada -09;Hindi -07 and Malayalam -06. Savitri ruled the roost in Telugu and Tamil filmdom for nearly 15 years in the fifties and sixties of the last century. She was hailed as the finest actress of her time and earned several laudatory sobriquets .
-
-During British rule several regions in India were formed into territorial units known by the term Presidency.Much of what is known today as Andhra Pradesh together with Tamil Nadu comprised the bulk of the Madras presidency then. With Tamil and Telugu being the dominant languages in the Madras presidency most films were made simultaneously in the Tamil and Telugu languages and released together.
-
-The bi-lingual films were made in Chennai city then known as Madras. After the creation of Andhra Pradesh state under the linguistic re-structuring of states principle, Telugu filmmakers began moving to studios in Hyderabad and Vijayawada in the newly created state.
-
-Savitri and other famous Telugu artistes like A. Nageswara Rao, N.T. Ramarao,S. V. Ranga Rao, Bhanumathy, Anjali Devi,Jamuna, Devika,Sowcar Janaki, S.Varalaxmi et al acted in both Telugu and Tamil films those days. Savitri herself made a name for herself by acting in Tamil -Telugu films like “Devdas”, Chandraharam”, “Maaya Bazaar” and “Missiyammaah” etc.
-
-Savitri the actress was extremely popular with Tamil and Telugu audiences during her time and enjoyed what could be termed as a cult following at the peak of her career. Savitri’s screen persona was very lovable  and fans both male and female were infatuated by her. Rising from humble beginnings, she had reached great heights as a popular film star through her acting skills,dedication and hard work. Her controversial  marriage to Gemini Ganesan known as “Kaadhal Mannan” (King of Romance) captured the imagination of all young lovers.
-
-Yet, her life ultimately ended as a tragedy. Her foray into film production and direction brought about financial ruin and caused estrangement from her husband. In a bid to drown her sorrows , Savitri the social drinker drank heavily and became an incurable alcoholic. She died  after being in a diabetic coma for more than 18 months.
-
-Savitri was of Telugu ethnicity and the younger of two daughters. She was born on December 6th  1934 in a small village called Chirravurru in Guntur district in the present day Indian state of Andhra Pradesh. At the time of her birth during British rule Guntur was part of the Madras presidency. Savitri’s parents were  Kuruvaiyya and  Nissankara  Subhadramma .  They belonged to the Kapu caste.Her father  Kuruvaiy died a  when she was only six months old. Savitri’s mother Subhadramma took Savitri and her elder sister Maruti and moved to her husband’s elder brother  Venkatramiah Chowdhury and his wife Durgammaa’s home. Thereafter Savitri’s paternal uncle  Chowdhury became the guardian of both sisters.
-
-Discovering that Savitri had a flair for dancing and acting her paternal uncle let her participate at a very young age in dance dramas staged by a theatre company. The family moved to Vijayawada city where Savitri learnt music and dance from Sista Poornaiyya Shastri. Once Prithviraj Kapoor the father of actors Raj,Shammy and Sashi Kapoor was the chief guest at a show featuring Savitri and was highly impressed by her performance. This made Savitri’s uncle cum guardian think of making his ward an actress in films. As the film industry started flourishing in the post -independence period, Savitri’s uncle Chowdhury began seeking openings in films for her.The family relocated to Chennai in order to facilitate Savitri’s entry into films.
-
-It was then that Savitri met her future husband Gemini Ganesan for the first time.He was then working at the famous “Gemini” film studio owned by the legendary S. S.Vasan. Ganesan’s full name was Ramaswamy Ganesan. He went by the name R.Ganesh at Gemini Studio. In later years when Ganesan entered films as an actor in Tamil films, there was another Ganesan also  acting in films. He was called Sivaji Ganesan because he had made a name for himself by acting as the Mahratta king “Sivaji” in a drama. To differentiate from Sivaji Ganesan, People referred to Ramaswamy Ganesan as “Gemini”Ganesan on account of him having worked at Gemini studio for many years.
-
-Savitri came for an audition at Gemini studio and was tested and interviewed for a part by Gemini Ganesan. She was not selected because she was found too young for the role.Gemini however noted in his report that .Savitri had “striking features, showed much expression and had much promise”.
-
-Savitri got her first break in 1950 through a minor role in the Telugu film “Samsaaram’. After getting a few more films doing small roles ,Savitri got her major break in 1952 through maestro L.V. Prasad who directed “Pelli Chesi Choodu”in Telugu and its Tamil equivalent “Kalyanam Pannip paar”. Savitri was the second heroine in the film starring N.T.Rama Rao and G.Varalaxmi.
-
-Thereater she got to play the lead roles in some more films. In 1953 came “Devdas/ Devadasu” made in Tamil and Telugu by director Vedantam Ragavaiah. Savitri was the heroine and A.Nageswara Rao the hero in both films. The film was a roaring success. Savitri was now established as a heroine in Tamil and Telugu films. She began to get paired with almost all the leading actors in films including her future husband Gemini Ganesan who was earlier known as R. Ganesh in films.
-
-Her first film with him was “Manam Poala Maangalyam” in 1953.It was directed by P.Pullaiyah. Gemini was already married to Alamelu called Bopji and had children by her. This did not deter the man who was regarded as the king of romance on screen as well as off screen. Both Ganesh and Savitri were struck by Cupid’s flowery arrows while acting together in Manam poal Maangalyam. It developed into a full-fledged love affair in 1955 when both acted in “Missiammaah” directed by LV Prasad. By this time R. Ganesh had become Gemini Ganesan. When Gemini attempted to court Savitri, her paternal uncle and mother often obstructed it as much as possible.
-
-When Savitri’s family objected strongly to this liaison, she ran away from home and sought refuge from Gemini. Savitri and Gemini married secretly at the Chamundeswari temple in Mysore(now Mysooru) in a Hindu ritual conducted by a brahmin priest where Gemini tied the “Thaali” around Savitri’s neck.
-
-Gemini who was then living with wife Alamelu and children at Nungampaakkam set up a second home with Savitri in a rented house at Abhiraamapuram. Later Savitri bought extensive property on Habibullah Road in T’Nagar and built a modern mansion. Gemini began shuttling between both houses. The couple had two children a girl Vijayachamundeswari and a son Sathishkumar. Samundeswari is a physiotherapist in India while Sathishkumar is a computer engineer in the USA. Sathish is the only son Gemini had. All his other children from wives Alamaelu and Pushpavalli (mother of actress Rekha) were daughters.
-
-Meanwhile Savitri’s film career blossomed and she soon became the top female star in Tamil and Telugu films. While pairing with the leading male actors, Savitri also acted in many films where the story revolved around the chief female character played by her. Film scripts were specifically written with Savitri in mind. She received top billing in film advertisements. Many box office hits owed their success to Savitri more than the main male actor. She became a highly paid star on par with her male couterparts. Savitri also formed her own Drama/dance troupe “Navabharata Natya Mandali” and staged the play “Aatma Vanchanaa” written by Buchi Baabu.
-
-Savitri and Gemini were very popular in Sri Lanka known formerly as Ceylon too. The couple had many fans from all communities in the Island. Savitri in particular had a lot of female fans. I remember Gemini and Savitri arriving by plane from India at the Ratmalana airport in the early sixties. They were the chief guests at a cultural event named “Silamboli” or tone of the anklets. Hundreds of fans mobbed them at the Airport. The newspapers in all three languages published photographs of their arrival on the front pages. In later years Gemini Ganesan came several times to Sri Lanka.In 1978 Gemini along with actress Rajshree attended a musical show at the Sugathadasa stadium as chief guests.
-
-Savitri bought a lot of property, Jewellery, motor vehicles and expensive sarees with her earnings.She had different types of motor cars. She participated in car races and once won a medal coming first.Savitri also bought costly jewellery and wore them at functions. She had a very expensive diamond necklace of which many photographs appeared in those days. She flouted convention and created controversy by wearing anklets and ankle chains made of gold .This amounted to sacrielege in a socio-cultural context. Photographs of Savitri’s gold-clad feet were widely circulated. Since it was not customary to wear gold on one’s feet, Savitri was severely criticised for this.
-
-Even though she wore gold on her feet, Savitri had a golden heart. She was a great philanthropist who donated lavishly to deserving causes. She also helped several needy people by paying for their education, medical treatment and wedding expenses. She donated extensively to the Indian Defence fund during India’s wars with China in 1962 and Pakistan in 1965-66.Savitri also helped fellow actors. When ace comedian and family friend Chandrababu faced eviction because he could not pay off his mortgage dues, Savitri stepped in with a huge cash payment and prevented it. When the actor Surulirajan faced financial difficulties it was Savitri who came to his rescue without expecting anything in return.
-
-Savitri was regarded as a great actress on equal terms with the legendary Sivaji Ganesan. The great thespian publicly acknowledged that he was extra -careful when acting in scenes with her. “Konjam Asanthaalum Savitri Nammalai Thooki Saappittudum”(If I slip even a little bit Savitri will gobble me up) Sivaji said, implying that the actress had the potential to get the better of him in scenes featuring both.Thus when Sivaji was honoured with the title “Nadigar Thilagam” or Doyen of Male actors, Savitri was bestowed the female equivalent “Nadigaiyar Thilagam” (Doyenne of Actresses).
-
-Savitri acted together with Sivaji in 25 films “Annayin Aanai. “Kaathavaaayan”, “Ratha Thilagam”, “Paasa Malar”, “Padithaal Mattum Poathumaa?, “Navarathri”, “Thiruvilaiyaadal” etc. Both earned much praise for their performances in Paasa Malar where they acted as brother and sister and in Padithaal Mattum Poathumaa? in which Savitri acted as Sivaji’s sister in law. A much remembered performance was in “Thiruvilaiyaadal” in which Sivaji played Lord Shiva and Savitri his consort Parvati/Shakti. Their acting was stormy in shots where they clashed verbally and breezy in the amorous love scenes. Two other memorable sequences were the Shakespearean drama in “Ratha Thilagam” where Sivaji was Othello and Savitri Desdemona and the “Naattukoothu”(Folk drama) in “Navarathri” where both were the lead characters.
-
-Savitri acted with MG Ramachandran( MGR) in only three films namely “Mahadevi”, “Parisu” and “Vaettaikkaaran”. There was much scope for her acting in Mahadevi but the other two were more male -oriented with the prime focus on MGR. As a result she turned down offers to act opposite Ramachandran,
-
-However her most memorable films were with her husband Gemini Ganesan.Both acted together in 44 films Among these were “Missiammaa”, “Yaar Paiyan”, “Maayaa Bazaar”, “Kappaloatiya Thamizhan”, “Paava Mannippu”, “Paarthaal Pasi Theerum”, “Paatha Kaanikkai”, “Hello Mr. Zamindhar”, “Kaathiruntha Kangal”. Poojaikku Vantha Malar”, “Aayiram Roobai” and “Katpaham” . Fans loved seeing these real life parners playing lovers or acting as husband and wife on screen. Their chemistry on screen was terrific. Love duets with Gemini crooning and Savitri cooing were relished by many. Sadly the loving Gemini-Savitri couple got separated after some years.
-
-Despite Gemini’s philandering and Savitri’s professional multi-tasking both enjoyed a loving relationship where he called her “Ammaadi” and she called him “Kannaa”. Sadly their relationship soured and broke – up due to certain reasons.  One of those reasons was her “friendship” with actor Chandrababu. Though Gemini and Savitri separated , there was no formal divorce because they had never been legally married.
-
-Friction between both  began developing when Savitri ventured into film making. Earlier she ran a film unit specialising in outdoor film shooting. She also invested partly in a few films and engaged in film distributon for limited areas. Savitri had from the time of her entry into films wanted to produce and direct films. Her role model was the actress Bhanumathy who directed the film “Chandi Rani” and also co-produced films with her director husband Ramakrishna. She was now encouraged by fellow artistes to produce and direct films.Savitri formed the company Sri Savitri productions and embarked on a venture to direct a film. Gemini a cautious man who believed in making real estate investments over film production was unhappy.
-
-Savitri’s maiden venture as producer -director was the Telugu film”Chinnari Papulu” based on a story written by her friend Veeramachaneni Sarojini. A novel feature of the film was that the well-known playback singer P.Leela composed music for it. The film was a tremendous success. An elated Savitri went on to make K.Balachanders Tamil film “Neerkumizhi” into a Telugu film “Chiranjeevi”. The film crashed badly at the box office. Savitri then made her debut as director in Tamil by re-making Chinnari Papulu” as “Kuzhanthai Ullam”. The film had Gemini Ganesan as the hero with Sowcar Janaki and Vanishri as the heroines. Savitri played a cameo honorary (Gaurava) role. The film did not flop but did not do too well either.
-
-Gemini Ganesan now began advising Savitri not to make any more films. But egged on by a group of self -serving sycophants scrounging off her, Savitri spurned Gemini’s advice and went ahead making films. This led to heated arguments between hu band and wife. Complicating matters further were reports that Gemini Ganesan was having a clandestine affair with actress Rajshree. Apart from this Savitri also started imbibing liquor frequently to relieve stress. Her constant companion in clinking glasses was the writer V.Sarojini. When Gemini objected to Sarojini’s presence and the drinking bouts, an enraged Savitri reportedly asked Gemini to “Get out”.
-
-This was the ultimate straw that broke the camel’s back. Gemini left in a huff and never returned. The loving couple who called each other Ammaadi and Kanna had a permanent rupture. Some of Savitri’s close relatives including her sister Maruti and brother in law Mallikarjun reportedly encouraged the break-up. So did some of Savitri’s woman friends.
-
-Despite Gemini’s opposition Savitri went ahead with film making. She attempted to make two films at the same time. In 1964 savitri along with A.Nageswara Rao and Jamuna acted in the Telugu film “Mooga Manasulu”directed by Adhurthi Subba Rao.The film was a smashing success.It was remade later in Hindi as “Milan” with Sunil Dutt and Nutan and again proved commercially successful.
-
-Now Savitri wanted to re-make it in Tamil as “Praaptham” with Sivaji Ganesan, Chandrakala and herself doing the three key roles. At the same time she bought the rights to the Tamil film “Vietnam Veedu” starring Sivaji and Padmini. Savitri remade the film in Telugu as “Vintha Samsaaram” with Jaggiah and herself in the lead roles.
-
-Both “Praaptham” and “Vintha Samsaaram” were released on the same day in April 1971. “Praaptham” which Savitri directed, produced and acted in barely made even but “Vintha Samsaaram” was an utter failure.
-
-With the exit of Gemini Ganesan a cabal comprising relatives, friends, domestic servants and film company employees had gained much influence and power over savitri. Moreover they had also systematically robbed her. False accounts were presented and funds siphoned off.Jewellery was stolen and some houses and property misappropriated. Savitri being in an inebriated state frequently had aided these dishonest elements. So with her films crashing at the box office Savitri was in a terrible financial crisis. ,As a result Saviri had to sell off her Habibulla road mansion, other houses elsewhere ,estates,jewellery and luxury vehicles to offset her financial losses and reimburse her creditors.
-
-She moved to a rented house and began travelling about in Taxis, three-wheelers and cycle rickshaws. She also started acting in a lot of character roles (Gunachitra)in a minor capacity.Like many other yesteryear heroines Savitri started acting as a mother in many films. Savitri acted in more than 75 films in a nine year period from 1971 to 1980. In spite of her fragile situation, Savitri borrowed money and started a film in Tamil and Telugu about a womal lawyer in 1974. Ravichandran and Bharati acted in Tamil along with Krishna and Vijayanirmala in Telugu. After shooting around 7000 ft of film Savitri abandoned the project on the advice of renowned director Dasari Narayana Rao. Her film making epoch had ended
-
-Her health started deteriorating. Savitri was a diabetic and also suffered from high blood pressure. Furthermore she had become an alcoholic. It was her husband Gemini who made her imbibe liquour first at a diplomatic function organized by the Indonesian embassy in the early sixties. Thereafter she had become an occasional social drinker. However she started drinking frequently due to stress when she became a producer-director. A gang of scroungers surrounded her and exacerbated this tendency.Financial losses and separation with her husband, made Savitri turn to strong drink in a big way for solace and also to drown her sorrows.
-
-Her health began deteriorating. On May 11th 1980 Savitri collapsed at a hotel in Mysore where she had gone for a film shoot.It was due ti hypoglycemia. Apparently she injected insulin and had continued drinking without eating. She was admitted to hospital in Karnataka and later brought to Chennai on May 17th and hospitalised at the Lady Willingdon Hospital.She was in a diabetic coma and was continuously unconscious.
-
-Her estranged husband Gemini returned to her bedside and looked after most of her medical expenses. Savitri was later moved to her home and kept under intensive care. She lay in a coma for nearly 19 months and finally passed away on December 26th 1981.
-
-## A Voice for Palestine: How M.A.  Nuhman’s translations of poems on the Palestinian cause have resonated with Sri Lankan Tamils Fighting State Oppression
-
-*2023-12-08 01:11:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83257)*
-
-Lankan poet and linguist M.A. Nuhman is deeply pained by the bloodshed and mass killings that ravage Gaza, sparing no one — not even infants.
-
-His anger at the brutal violence against civilians, and his solidarity with the people of Palestine, have found familiar expression in Tamil verse. Last month, he wrote a poem, ‘Oru Palestina Kural’ (A Palestinian Voice), as he watched the violence escalate, from his own war-scarred island, tens of thousands of miles away.
-
-Only weeks earlier, the Israeli defence minister Yoav Gallant had said: “We are fighting against human animals,” and later, the Israeli prime minister remarked that “Israel is fighting with the enemies of civilisation,” as he sought to cast the ongoing war as one between the “forces of civilisation and forces of barbarism.”
-
-Disturbed by this framing of the conflict, Nuhman wrote in one of the opening verses:
-
-The subsequent verses throw a series of difficult moral and political questions at the Israeli state, using a Palestinian voice.
-
-“This cannot just go on like this,” Nuhman told The Hindu at a meeting at his home in Kandy recently. The 79-year-old writer and his wife now live just outside the hilly town in Sri Lanka’s Central Province after retiring from their academic careers some years ago.
-
-“America talks about protecting human rights in Ukraine while supporting Israel that is unleashing unspeakable violence in Gaza. Arab countries have also become stooges of the U.S., they are unable to do anything,” he said. Yet, despite big powers backing Israel’s war, he finds the groundswell of support for Palestinians across the world heartening. “People are taking to the streets in large numbers in so many countries, including Israel, to show their solidarity.” He makes the point in his poem too: ‘The world’s biggest terrorists are supporting you, but open your eyes and look around, people with a sense of justice world over are rising against you…’
-
-Nuhman has been following the Palestinian question for some 60 years now, from the time he was a student and later, as a young school teacher. His intellectual curiosity and political persuasion as a leftist led him to the works of several Palestinian poets. “I found their voice, their resistance to oppression coming from deep within very powerful.”
-
-He began translating some of their works for Sri Lankan newspapers and magazines in the 70s, and eventually wrote enough for a collection. “Forever Palestine, a collection of Palestinian resistance poems, brought out by P.S. Sharma of the PLO India Office in the 1970s was a very important source for me,” said Nuhman.
-
-Three editions of Nuhman’s anthology have been published in the last four decades. It includes poems by Palestinian poets such as Mahmoud Darwish, Fadwa Tuqan, Samih al-Qasim, Hanan Ashrawi, and the Syrian poet Nizar Qabbani, who wrote evocatively in support of the Palestinian cause. The first was self-published in 1981, featuring nine Palestinian poets and 30 poems.
-
-The second came out in 2000, also published in Sri Lanka, with 30 poets and 71 of their poems; and the latest, in 2008, was published in India by Adaiyalam Publications, featuring 30 poets and 109 poems. Following Mahmoud Darwish’s passing in 2008, the same Indian publisher also brought out a collection of Nuhman’s translation of his works.
-
-His translations during those years, all from English to Tamil, found many avid readers among Tamils in Sri Lanka, who were facing violent discrimination by the state.  “Nuhman’s translations of Palestinian poets opened up a new vista to young Sri Lankan readers,” University of Jaffna academic and literary historian Karthigesu Sivathamby wrote in Frontline in 1999.
-
-The poems are said to have expanded their imagination, offering a new language of liberation to Tamil readers. “I was not the only one, there was Prof. Sivasegaram, and Pannamathu Kavirayar, and several in Tamil Nadu too, who translated Palestinian poetry to Tamil,” said Nuhman. “At the time I translated them, I was not thinking of anything other than solidarity for the Palestinian cause.”
-
-Nuhman was also resisting the Sinhala majoritarian state’s oppression of Tamils around the same time. His poems took a progressive political line, in accessible language. His iconic poem ‘Buddharin Padukolai’, or ‘Murder’ as its English translation was titled, written after Sinhalese mobs set fire to the Jaffna Public Library in 1981, is a bold and moving response to one of the most malicious acts of Sinhala chauvinism in the island nation. He was teaching at the University of Jaffna at the time. The incident proved a major provocation to the then-nascent Tamil militancy to grow in strength and resolve, to take on the state’s oppression.
-
-Last year, Nagercoil-based publisher Kalachuvadu brought out a collection of Prof. Nuhman’s anti-war poems titled Tuppaakkikku muulai illai (The gun has no brain). In a compelling preface to the anthology, Prof. Nuhman tells critics, who tend to disregard simply written verse with profound political messages, that poetry has always accorded an important place for political views and resistance
-
-“If they [the poems] can invoke in readers a feeling that is sympathetic to peace and social justice, that is good enough,” he writes.
-
-“We do not have to take those who fall for cryptic or pretentious language or mere wordplay seriously. These poems are against injustice and oppression, they are against wars and guns. If they can invoke in readers a feeling in favour of peace and social justice, that is good enough,” he writes.
-
-That has been his position all through. When everything is political, his poetry too will be.
-
-## In Sri Lanka, saffron is the new colour of impunity. There’s very little a man cannot get away with, from slapstick comic to violently dangerous, if he happens to wear a yellow robe. Monks are not just above the law; they have a law unto themselves. Often, they are the law.
-
-*2023-12-08 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83251)*
-
-In the grand scheme of things, a monk and a quack draping a robe on a Buddha statue may seem silly, at most. Even if the statue is a 1,500-year-old work of art. Sri Lanka, contrary to President Wickremesinghe’s assertions, is still teetering on the rotten-bridge, a bankrupt country with fractious leaders and no good options. What does one act of vandalism matter?
-
-According to the law, the quack who masterminded the robe-draping at Avukana and the monk who permitted it should have been arrested and charged. There’s no dearth of evidence, videos, pictures, words of perpetrators themselves. Yet, police are moving at glacial pace. The chances of the perpetrators getting away scot-free are considerable as the march of time sweeps away the memory of their crime.
-
-In Sri Lanka, saffron is the new colour of impunity. There’s very little a man cannot get away with, from slapstick comic to violently dangerous, if he happens to wear a yellow robe. Monks are not just above the law; they have a law unto themselves. Often, they are the law.
-
-Dr. Gabo Maté, a Holocaust survivor, recently highlighted the double-standards in the Western coverage of the Palestinian issue. “…when demonstrators throw stones at the police in Hong Kong, that is considered to be heroism in American press. When Palestinian kids throw stones at the Israeli soldiers they are called terrorists”
-
-(https://www.youtube.com/watch?v=Z0P67aWO1V0). Lankan media accord an identical impunity to monks who break laws and norms. Pastor Jerome Fernando is lambasted for stating his belief in the greatness of Christ – would he be a Christian otherwise? – while Pitiduwe Siridhamma thero’s (aka Arhat Sammanthabadra) distorting of Tripitaka is mostly ignored. One is arrested. The other gets away with an apology.
-
-Zeid Al Hussein, the former UN Human Rights Commissioner, introduced the phrase, tribalism of pain to explain official Western indifference to Gazan sufferings. In Sri Lanka, we have tribalism of law. If you are a monk or a lay Sinhala-Buddhist extremist, the uniformed guardians of law permit you immeasurable leeway. You can invade State institutions, vandalise archaeological monuments, threaten and attack people, and still remain freer than birds.
-
-The impunity goes beyond legal. Politicians who yell at everything ignored the crime committed at the Avukana statue. Monks who interfere in everything turned a collective blind eye to this outrage against Buddhist teachings and traditions. Society, at large, seemed unconcerned. Had the Archaeological Department not intervened, however belatedly, Aukana robe-draping might have kicked off a new trend. Dressing Buddha statues with robes, as if they were mannequins in a shop window, and providing them with slippers – and other such essentials – could have become the new normal.
-
-The Avukana incident is a mirror reflecting the times we live in and an omen of the future that maybe ours. Irrational is the new rational. Gullibility is the highest virtue. We are all unthinking believers now, unquestioning followers, of something or someone. The mind-set that gave us Gotabaya Rajapaksa and the Kelani Cobra lives and thrives.
-
-Superstition is a political thing. In addling minds, in inculcating habits of non-thinking, it enables political outcomes of the worst sort. To paraphrase a quote attributed to Voltaire, belief in absurdities can result in acts of atrocious stupidities of the boomeranging kind. Despairing times are ideal for such inanities. 2024 can be another 2019.
-
-In 2022, Ranil Wickremesinghe gained some political capital by ending deadly queues and resorting a kind of normalcy. In 2023, he exhausted that capital by embroiling himself in disasters, the appointment of Deshabandu Tennakoan as the acting IGP being the latest case in point. Economically, we are back to spending money we don’t have and filling the gap by taxing the poor. According to the latest UNDP report, 55.7% of the population are multi-dimensionally vulnerable. This distress will worsen in 2024, when new VAT hikes kick in.
-
-European economic recovery, post-WWI penalised the poor. The end result was violent political instability and a new war. Post-WWII, Europe opted for a more just economic path, imposing greater burdens on the rich via stratospherically high direct taxes and channelling that money into a multi-faceted welfare state. That led to decades of peace and prosperity.
-
-Recovery is necessary. But much depends on the kind of recovery. Growth rates matter naught, if benefits are gobbled by the rich. Declining inflation is immaterial if ordinary masses have to spend more on daily essentials. When living is a chore, blasé chatter about how well things are going can grate to the point of madness. 2024 promises to be a year like that.
-
-In 2013, Sinhala Ravaya, under Rajapaksa patronage, ‘resettled’ several Sinhala-Buddhist families in Navakkuli, Jaffna, built a temple for them, and named it Sihalaramaya (temple of the Sinhalese). Dinasena Ratugamage writing in Irida Divaina called the exercise ‘inane piety which creates religious wars’.
-
-Sihalaramaya was one of many temples set up in the North and the East during the Rajapaksa years. Since there were no civilian Buddhists in those areas, the military became the sole builder and dayakya (donator/sustainer). This strengthened the nexus between Sinhala-Buddhist monks and Sinhala-Buddhist military, a visceral bond impeding the necessary creation of a Lankan nation undergirded by a Lankan military and a non-Sinhala-Buddhism.
-
-Populists, says political philosopher Jan-Werner Müller, believe they are the sole representative of ‘the real people’ and the silent majority.’ In a Lankan context this is always a euphemism for Sinhalese and especially Sinhala-Buddhists. From 2005 to 2022, the Rajapaksas were the incontestable sole representatives of Lanka’s real people. Now the position is vacant. Had economic recovery continued to move in a more just direction, the space for populism would have diminished. As the gap between haves and have-nots grow, parallel to the number of have-nots, the room for populism cannot but expand. For any Sinhala-Buddhist with political ambitions (laypeople or monks) the temptation would be considerable.
-
-To their credit, UNP, SLFP, SJB, and JVP are not trying to occupy this space overtly. They may not be anti-racist, but they do not peddle racism either. In this admirable reticence, political monks – and marginalised Sinhala parties and politicians – see an opportunity. In their eyes, racism is not a no-go area, but unclaimed ground waiting for its right claimant.
-
-So the Sihalaramaya syndrome is back, the project of claiming North and East for Sinhala-Buddhism, thereby completing the unfinished business of making Sri Lanka a Sinhala-Buddhist country. East is the main battleground, Divulapathana a possible flashpoint. In the absence of any public interest, the issue is being kept alive by activists and media. The latest entrant to the drama is Medagoda Abeytissa thero (who in 2020, called a vote for the Rajapaksas a merit to remember on deathbed). “No one understands Sinhala pain in the North-East,” he lamented. “Muslims and Tamils are allowed in while Sinhalese are not. Sinhalese have become refugees in their birthland.” Then came the threat. “If politicians won’t attend to this, we will ask the Mahanayaka theros to issue a sangha decree. We will gather the people and go as far as we can to regain the rights of Sinhala people in this country.”
-
-As far as we can – how far would that be? When Sinhalese are gathered by monks to regain the rights of Sinhalese (taken from them by Tamils and Muslims), can that journey end in any other destination but violence?
-
-In their project of demographic reengineering in the North and East, the Rajapaksas were influenced and inspired by the settlement policy of the Israeli right. Daniela Weiss is an extremist leader of this settler movement in the West Bank. In a recent interview, she set out in plain language, where this project is headed. “The borders of the homeland of the Jews are the Euphrates in the East and the Nile in the Southwest… We, the Jews, are the sovereigns in the state of Israel and the Land of Israel. They have to accept that… In Israel, there’s a lot of support for settlements, and this is why there have been right wing governments for so many years… we want to close the options for a Palestinian state and the world wants to leave the option open. It’s very simple thing to understand” (New Yorker – 11.11.2023).
-
-Equally simple and comprehensible is the connection between this supremacist attitude and Israel’s inability to achieve peace not just for Palestinians but for itself. A political agenda driven by settlement mentality has brought nothing but war and devastation to Palestinians, Israelis, and the entire region. As Israeli politician and peace activist Avraham Burg wrote, this mindset of exclusivity and exclusionism has created a language of “tension and traumas, conflicts and confrontation” obliterating the possibility of a different language of “building bridges, understanding, forgiveness, and concessions” (The Holocaust is over. We must rise from its ashes). That linguistic choice closes door to reconciliation and peace, turning conflict into permanent national condition. This is one of the futures ahead of us, if the extremist monks and their lay allies have their way.
-
-The coming election year also happens to be the 15th anniversary of the ending of the Eelam War. That fact will play a significant part in the politics and propaganda of the Rajapaksas and the political monks. The references will be celebratory and cautionary, glorying in the victory, while warning that the gains are being rolled back and must be recouped.
-
-For decades, the UNP/anti-UNP divide dominated Lankan elections. Then it shifted to the Rajapaksa/anti-Rajapaksa divide. Now both markers are gone. The UNP is a spent force; the Rajapaksas are a pale shadow of what they once were. In that context, there are no simple demarcating lines, no either-or contestations.
-
-The main battle will not fall between the Government and the opposition as it has always been. It will be drawn in the oppositional space, between its two main constituents, the SJB and the JVP. According to recent opinion polls, the JVP has pulled ahead, quite significantly. Though much can happen between now and election time, a Ranil Wickremesinghe recovery is highly unlikely and the two elections will pit SJB against JVP and Sajith Premadasa against Anura Kumara Dissanayake. Whatever the outcomes, the gap between the victor and the vanquished is unlikely to be wide. In such a situation, accusations of electoral malpractices will fly, and the loser may even try to occupy the streets to deny the (false) winner a chance to govern. Elections will bring legitimacy, not necessarily stability.
-
-While neither the JVP nor the SJB peddle racism in its raw form, both parties are putting considerable efforts to win over the main bulwarks of Sinhala-Buddhist majoritarianism. The JVP is aiming mainly at the military while the SJB is focusing on monks. As a result, neither party is willing to take on majoritarian supremacism or to offer minorities anything other than a pittance (SJB will give more than the JVP). Even more pertinently, given the economic mire we are sunk in, neither party would be willing to take on the financial elephant in the room – the gargantuan sums we persist in bestowing on the military, more than 14 years after the war ended. Without touching that massive pile, a just recovery is impossible. (Incidentally, a key purpose in trying to ignite an ethnic or religious clash is to render any actual reduction of military expenditure impossible).
-
-Citizenship is an escape from clan identity, Brook Manville and Josiah Ober claim in The Civic Bargain. When clan identity seeps into citizenship, citizenship dies in all but name. In such places, you are a citizen only nominally; your real identity is tribal. And tribalism fits in well in any century including the 21st. It is universal in its sweep, timeless in its scope, and Sri Lanka in 2020s in no exception to this rule. One can hear it clearly when monks accuse Ranil Wickremesinghe of pandering to Tamils for their votes, whenever he promises to offer a political solution to the ethnic problem (a promise that is never kept). While pandering to Sinhala-Buddhists for their votes is kosher, any concession, even a verbal one, to minorities is decried as unfair and unjust. Since minorities too are Lankan citizens, what is wrong in cultivating their votes? The question is never asked, or seen as valid.
-
-Irrespective who wins the upcoming elections, political monks and Sinhala-Buddhist supremacism will not lose, since the winning party will not oppose them and the losing party – in its chagrin – might kowtow to them. This political opportunism coupled with the impunity enjoyed by monks could render any meaningful financial, social or political reform – let alone a political solution to the ethnic problem – impossible. As the winner falters and the loser ratchets up the tempo, monks, wielding the banner of a distorted Buddhism, will try to step into the breach, offering themselves as salvation. A kind of Sinhala-Buddhist clericalism will gradually become normal, pushing conflictual agendas and superstitious ideas. The Avukana incident, in its absurd nature and atrocious aftermath, is symptomatic of the danger this degenerated faith and its ambitious adherents pose.
-
-## Kissinger was the last great Realist thinker-practitioner in the fields of foreign policy and diplomacy. Viewed from the standpoint of ethics and morality, his crimes outweighed his constructive contribution, but from a Realist perspective, the evaluation is the reverse.
-
-*2023-12-08 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83255)*
-
-The responses to Henry Kissinger’s death at 100, proves that if a person’s contribution to his/her field is sufficiently significant, he or she will, on balance, be regarded positively as having made a lasting mark within that field, whatever the horrors he/she may have been responsible for along the way. Kissinger was the last great Realist thinker-practitioner in the fields of foreign policy and diplomacy. Viewed from the standpoint of ethics and morality, his crimes outweighed his constructive contribution, but from a Realist perspective, the evaluation is the reverse.
-
-Kissinger’s crimes took place in the global South, from Vietnam, Cambodia and Indonesia to Chile and Angola. His constructive contribution took place in the classic zone of Realism: the relationship between Great Powers.
-
-Like his hero and object of study, Metternich, Henry Kissinger grappled with restoring and maintaining the world order in an era of world revolution (from Vietnam through France to Angola). Unlike Metternich he did so in a nuclear age. How to avoid nuclear war in a revolutionary time, was his central problematique.
-
-He did so with his new ‘concert of powers’ between the besieged USA, the USSR and China. He not only forged such a relationship at the side of Richard Nixon, a highly intelligent but morally vacuous leader, he did so in a manner that further divided America’s competitors while bringing each closer to the USA than to each other.
-
-While I hardly share his vision and values, it would be a-historical not to concede his grand-strategic success after and despite a huge strategic defeat and retreat. Kissinger and Nixon escalated the bombing campaign of North Vietnam, Cambodia and Laos, in order to drive Hanoi to the negotiating table and obtain what he called “peace with honour”; the time and space for a dignified US withdrawal from Vietnam in the hope that the ‘Vietnamization’ campaign of shoring up South Vietnam’s military would pay-off. That gamble failed. But the relationship Kissinger had built with Russia and China and the exacerbation of the contradictions between the two Communist-run giants, ‘contained’ i.e., limited the effects of that failure and saved a US global leadership at the tipping-point.
-
-Certainly, the North came to the negotiating table in Paris, and Kissinger and his Communist counterpart Le Duc Tho were nominated for the Nobel Peace Prize for arriving at an agreement. Kissinger accepted, but veteran revolutionary Le Duc Tho declined the Peace Prize with characteristic clarity, dignity and determination, declaring: “so long as imperialism exists, so will wars”.
-
-Though the iconic Ho Chi Minh had died in 1969, his successors and proteges Le Duan, Vo Nguyen Giap, Pham Van Dong et al, out-thought and out-fought the Americans, launching an offensive in 1975, culminating in the unforgettable sight of a North Vietnamese tank putting its gun-barrel through the gates of the Presidential Palace in South Vietnam, busting open and rolling over the gates. US troops clung to the last helicopters leaving Saigon, ignominiously kicking-off their South Vietnamese clients who were clinging to the skids of the choppers. It was an indelible sight. Kissinger’s Vietnam strategy had conspicuously, failed.
-
-John Stockwell, head of the CIA’s Angola Task Force wrote in his memoir ‘In Search of Enemies’ that Kissinger encouraged apartheid South Africa to intervene to stop the leftist MPLA led by poet and physician Dr. Agostino Neto, from assuming power in Angola when a leftwing military administration had assumed power in Portugal, the colonial power. The South Africans went in but when they were within sight of the capital Luanda, Fidel Castro from across the Atlantic decided to massively reinforce the Cuban military mission that was helping the MPLA. Cuba fought the mighty (nuclear-armed) South Africans for 12 years, crowning their effort with a decisive military victory in Cuito Cuenevale in 1988, which as Nelson Mandela often said, opened the prison gates to him, and the door to the fall of apartheid.
-
-On Kissinger’s watch and probably with his co-authorship, Latin America had been the site of the horrendous Operation Condor: the coordinated renditioning and ‘disappearing’ of young radical activists by the region’s military juntas. Before that decade of the 1970s ended, history hit back with the victory of the leftwing Sandinista revolution in Nicaragua in 1979.
-
-The Sandinista victory came months after a strategically far more crucial defeat of Kissinger’s grand plan. To shore up a teetering US hegemony in a changing global order, he had built up regional ‘sub-systems’ dominated by sub-superpowers. Iran under the Shah of Iran was the exemplar of this strategy. In 1979, the Iranian people led by Ayatollah Khomeini overthrew the man they branded ‘the American Shah’, in a revolution which has remained anti-imperialist in orientation to this day.
-
-Just when it looked like Dr Kissinger had failed in his project to contain and manage the global revolutionary dynamics of his time, Deng Xiaoping’s China made a shocking incursion into North Vietnam. The incursion was beaten back but the whole global game changed. The Sino-Soviet Cold War became the most intense rivalry in world politics, blocking, countervailing and reversing the global revolutionary current on every one of the three continents of the ‘Tricontinental’ world, and in Europe (Portugal) as well. I have tracked this in one of my books (https://www.kriso.ee/fall-global-socialism-counter-narrative-from-db-2016021100839.html?lang=eng).
-
-The Sino-Soviet conflict antedated the Kissinger-Nixon opening to China (a border skirmish in 1969 involved heavy-weapons), but what was new in the late 1970s and through the 1980s was the US-China quasi-alliance. That was the decisive factor causing the retardation, disintegration and reversal of the world revolutionary dynamic. That quasi-alliance would not have been possible without Kissinger’s China policy.
-
-I recall the mood in the US policy elite after Vietnam, because in 1975 I was with my parents at the symposium on ‘US Foreign Policy After Vietnam’ at the Wingspread conference center near Lake Michigan, Wisconsin, designed by Frank Lloyd Wright. Paper presenters included Ray Cline, iconic former Deputy Director of the CIA, Kenneth Myers of Georgetown’s CSIS, and my father Mervyn de Silva among others. I still recall the Soviet academician addressing the conference from his comfort zone of “high détente” and informing the audience that the Portuguese Communists, the Cubans, and other leftists on the offensive throughout the Third World were adherents of “early Leninism”, by which he meant with wry condescension, that they weren’t mature pragmatists as were the Soviet Communists.
-
-At the most crucial moment for the USA in world history, in the wake of the defeat in Vietnam and a string of defeats in Angola, Mozambique, Guinea-Bissau, Iran and Nicaragua symbolizing the initiative held by anti-imperialist forces, the strength and sagacity of Kissinger’s architecture of Great Power relations kicked-in to check and then turn the tide. Zbigniew Brzezinski’s Afghanistan entrapment of the USSR was possible only because of the US rapprochement with China.
-
-What Kissinger demonstrates is that if you have a sound grasp of concepts and history which give you a mastery of the fundamentals of your field, you can make up for the losses that flow from processes beyond your control as well as from your own mistakes, and your main contribution will save your project in the longer term. The fundamentals in Kissinger’s field were not ethics and morality, but the relations of power among states– or more correctly the relations among the Great Powers—and he got those more right than wrong, from the standpoint of US interests.
-
-His Metternichian ‘concert of powers’ between the USA-Russia-China, held the line, thwarting the changed correlation of forces between revolution and the Empire as seen in the victory of Vietnam and its aftermath. Though he lost in Vietnam and the global South, he succeeded in what mattered to him and his nation most, and at the time it mattered most: containing the revolutionary currents of his –and our—time.
-
-It was not easy for Kissinger to push through the policies of détente with Russia and opening to China, because the Republican party was steeped in anti-Communist ideology which saw no difference between Russia and China, and if there was a difference, was certain that China, which had fought the US in Korea was the worst of the two. Kissinger’s lucid mind was able to see that a new course was necessary for US national interest to be best served at a time when extrication from Vietnam and the management of the world order at a time of revolutionary upheaval, was the overriding imperative.
-
-Kissinger’s achievement was dismantled and Russia and China brought together as the unintended result of overassertive US policy. He was increasingly ignored by the foreign policy intelligentsia. Wary of the possibility of a clash between nuclear-armed protagonists NATO and Russia over Ukraine, he urged the neutrality of Ukraine and a negotiated settlement which he predicted would have to leave Russia with Crimea and much (but not all) of what it had taken of Donbass. Nobody in Washington or the collective West listened.
-
-What gave Kissinger his stature was not only his practical achievement but his standing as a thinker whose concepts preceded his practice and whose practice was informed by his conceptual grasp. Even though the Kissingerian architecture of Great Power relations lies in rubble, having been destroyed by unilateralist US administrations—ironically by administrations of the US Republican party he had been associated with—his reputation was ever more firmly established by his thinking, manifested in a succession of lucid, learned and elegantly-executed books.
-
-The universe of thought, foreign policy and ‘world strategy’ (his last book was ‘Leadership: Six Studies in World Strategy’) will miss him. His absence from the realm of thinking-through global politics and the world order– world affairs– will be almost impossible to fill.
-
-It is as a thinker-practitioner, who late in life assumed sage-like status, displaying insights definable as wisdom, that we mourn the loss of Dr. Kissinger. In his domain, Henry Kissinger was a maestro. There is no other on the horizon.
-
-## Alluring actress turned powerful politico Jayalalithaa Jayaram reigned as the  uncrowned Queen of Tamil cinema for a Decade
-
-*2023-12-05 18:18:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83233)*
-
-Alluring actress turned powerful politico Jayalalithaa Jayaram passed away at the Apollo Hospital in Chennai on 5 December 2016. Her condition had been pronounced grave after being admitted to the Intensive Care Unit following a cardiac seizure on Dec 4. Her Demise seven years ago  caused a void in the politics of India’s Tamil Nadu  state that is yet to be filled adequately.
-
-The 68-year-leader of the All-India Anna Dravida Munnetra Kazhagham (AIADMK) served as Chief Minister of Tamil Nadu from 1991-96, 2001-06 and from 2011 to date. Jayalalithaa hailed as “Amma” (meaning mother/madam) was virtually the uncrowned queen of Tamil Nadu during her years of rule as Chief Minister.
-
-There was however an earlier phase in her life when the beautiful Brahmin woman reigned as the uncrowned queen of Tamil cinema for over a decade from the mid-sixties to mid-seventies of the 20th century. This article re-visits the fabulous film career of actress Jayalalithaa.
-
-Jayalalithaa dazzled on the silver screen during the years she was an actress. According to filmographic estimates, she acted in 142 films from 1964 to 1980 in the Tamil, Telugu, Kannada, Malayalam, Hindi and English languages. Of these 77 films ran for over 100 days and 18 for more than 25 weeks.
-
-Though she debuted in Kannada and Telugu language films in 1964 before doing so in Tamil, Jayalalithaa went on to act in about 90 Tamil movies. Telugu came next with nearly 35-40 films. Kannada was third with 10 movies. She acted in two Hindi films as a child artiste in one and leading lady in another. She has also acted in one Malayalam and one English film.
-
-Jayalalithaa’s first film in Tamil was ‘Vennira Aadai’ screened in 1965. The last Tamil feature film where she acted as heroine was ‘Nadhiyai Thedi Vandha Kadal’ released in 1980. In 1992 when she was Chief Minister of Tamil Nadu Jayalalithaa acted in the Tamil film ‘Neenga Nallaa Irukkanum,’ where she played herself on screen in a cameo appearance. She has acted opposite the famous film star-politico M.G. Ramachandran (MGR) in 27 films. MGR was her lead actor in films, paramour in personal life and mentor in politics.
-
-Among her successful films in Tamil were ‘Adimai Penn,’ ‘Naan,’ ‘Maatukkaara Velan,’ ‘Aathiparasakthi,’ ‘Pattikaadaa Pattanamaa,’ ‘Kavalkaran,’ ‘Engiruntho Vanthaal,’ ‘Kumari Penn,’ “Muthuchippi’,‘Kandhan Karunai,’ ‘Nam Naadu,’ ‘Chandrothayam,’ ‘Kudiyiruntha Koavil,’ ‘Engal Thangam,’ ‘Enga Maamaa,’ ‘Suryakanthi,’ ‘Avan Thaan Manithan,’ etc. Apart from MGR, Jayalalithaa acted opposite stars such as Sivaji Ganesan, Gemini Ganesan, Jaishankar, Ravichandran, Muthuraman, A.V.M. Rajan, N.T. Rama Rao, A. Nageswara Rao, Krishna, Sobhan Babu, Rajkumar and Kalyankumar.
-
-Her splendid acting was once praised to the skies by none other than her arch enemy in politics Muttuvel Karunanidhi, the DMK leader. This was 42 years ago. ‘Thirumangalyam’ released in January 1974 was Jayalalithaa’s 100th film. There was a felicitation ceremony where the Chief Minister at the time, Karunanidhi, was the Guest of Honour. Recalling that his late leader C.N. Annadurai had once described actress Bhanumathy as “Nadippukku Ilakkanam Vahuthavar” (devised the grammar of acting), Karunanidhi praised Jayalalithaa in similar vein as “Nadippukku ilakkiam vahuthavar,” which means “devised literature in acting”.
-
-Apart from acting Jayalalithaa was an accomplished dancer too. She lit up the screen and stage by her performances. She was dubbed “Aadal Arasi” or Dancing queen. She excelled in cabaret as well as classical dancing. Her dance drama, ‘Kaviri Thantha Kalaichelvi,’ was a smashing success. Jayalalithaa was multi-talented. She was described as “Kalaichelvi” (Maiden of the Arts) by many. She has been a magazine columnist, short story writer, novelist and film producer before venturing out as MG Ramachandran’s protégé into the sphere of politics where she rose to the top after MGR passed away.
-
-Though she sizzled on the silver screen enacting many glamorous roles, Jayalalithaa was a versatile actress who made an impression if given challenging roles with scope to display histrionic ability. She exuded chic and élan in her film career and was a favourite among teens of that era. She designed many of her costumes and was a trendsetter in fashion for young women. Jayalalithaa was one of the first Tamil film heroines to don bathing costumes on screen and was described as a bombshell in bikini.
-
-People looking at her physical corpulence – which could be a sign of her ill-gotten opulence – may not believe that the rotund lady they saw was at one time slim and lissom. Indeed she was and a ravishing beauty too! Jayalalithaa walked into the hearts of many by adopting an attractive, unique and stylish way of walking hitherto unseen on the Tamil screen. She was the dream girl of many a teenager and the favourite pin-up star of myriad fans in those days.
-
-Jayalalithaa was born on 24 February 1948 at Melukote in the Pandavapura division of Mandya district of present day Karnataka state. Jayalalithaa was given her grandmother’s name Koamalavalli at the time of birth. The name Jayalalithaa was adopted later when she was enrolled in the kindergarten class at Bangalore (now Bengaluru) Bishop Cotton School. It was derived from the names of two houses where she resided in Mysore. One was “Jaya Vilas” and the other “Lalitha Vilas”. The name Jayalalithaa was originally spelled with one ‘a’ at the end. Later in 2001 another ‘a’ was added for numerological reasons. Jayalalitha became Jayalalithaa. However, she was widely known by her pet name “Ammu”. In recent years after becoming Chief Minister, she was referred to as “Amma,” meaning mother or Madam.
-
-Jayalalithaa is of Tamil Vaishnavite Brahmin Aiyengaar stock hailing from Srirangam in the Trichy district of Tamil Nadu state. Both her paternal and maternal grandparents relocated to the state of Karnataka which was formerly known as Mysore. Jayalalithaa’s maternal grandfather, Rengasamy Aiyengar, had moved from Srirangam to Nellore in Andhra Pradesh and thereafter to Karnataka where he worked at Hindustan Aeronautics. Rengasamy had three daughters and a son. His second daughter was named Vedavalli, who later turned to acting in films and adopted the screen name Sandhya. She was Jayalalithaa’s mother.
-
-Jayalalithaa’s paternal grandfather was Dr. Narasimhan Rangachary. He too moved to Mysore and served as the court physician to Krishnaraja Wodeyar IV, who reigned as the Maharajah of Mysore from 1894 to 1940. Rangachary had a son, Jayaram. Vedavalli was given in marriage to Jayaram as his second wife with the concurrence of both families. Jayaram’s first wife was Jayamma, a Kannada woman from Narasipur in Mysore.
-
-Vedavalli had two children by Jayaram. One was a son, Jayakumar, and the other a daughter, Jayalalithaa. The children were born in the lap of luxury as their paternal grandfather Dr. Rangachary had amassed much wealth as the Mysore Maharajah’s personal physician. Fate however decreed that his daughter-in-law Sandhya and granddaughter Jayalalithaa become actresses due to financial difficulties.
-
-Jayalalithaa’s grandfather Rangachary died before she was born. Thereafter things took a turn for the worse. Jayalalithaa’s father Jayaram though a BA graduate had never worked in his life. Worse still, he was a recklessly extravagant spendthrift and wastrel. Within a very short period, he squandered away the family fortunes on alcohol, women and gambling. Jayaram died before his daughter reached the age of three. Whatever that remained of the family wealth went to Jayaram’s first wife.
-
-The widowed Vedavalli was left destitute and returned to her father’s home in Bangalore. She learnt shorthand and typewriting to take up a clerical position to help support the family. Her younger sister Ambujavalli had moved to Chennai (then Madras) and was working as an air hostess. She also started acting in dramas and films using the nom de plume Vidyaavathy. After a while Jayalalithaa’s mother also relocated to Madras and stayed with her sister. She worked in a commercial firm and began dabbling in acting.Soon Vedavalli became a full time actress using the name Sandhya. Sandhya as an actress never became a star but was able to garner many roles. Most of her roles however were in a supportive capacity.
-
-Meanwhile Jayalalithaa lived with her maternal grandfather and unmarried aunt Padmavalli in Bangalore. “Padma chithi,” as she called her aunt, was like a foster mother to her. Jayalalithaa studied at Bangalore’s famous Bishop Cotton Girls school in her early life. She would go to Madras to be with her mother during school holidays. In 1958 Padmavalli got married and left her father’s home. Sandhya then got down her children to Madras to be with her. Jayalalithaa was admitted to the prestigious Sacred Heart Matriculation School popularly known as Church Park Presentation convent or Church Park. She was 10 years old then.
-
-Once Sandhya took her daughter to the studio with her. The film ‘Shree Shaila Mahathmiya’ was being shot. While Jayalalithaa was watching the shooting, a problem arose. The child actor playing the Goddess Parvathy in a school drama scene in the film had not turned up. The producer turned to Sandhya. Jayalalithaa was swiftly dressed up as Parvathy and the scene was shot. This was her first screen performance.
-
-Jayalalithaa was a brilliant student at Church Park and placed first in her class most of the time. She particularly excelled in English. Jayalalithaa’s maternal great grandfather had been a lawyer practising in Karur. It was Sandhya’s hope that her daughter too would become a successful lawyer like her grandfather. The daughter too subscribed to that ambition.
-
-Sandhya however made sure that apart from studies, Jayalalithaa also learnt music, dancing and singing. She learnt Western classical music and how to play the piano at Church Park. Jayalalithaa also learnt carnatic music at home from the vocal guru Gopalakrishna Sarma. The danseuse K.J. Sarasa taught her Bharatha Natyam. She also learnt Kathak and Mohini Aattam.
-
-Jayalalithaa’s Bharatha Natya ‘Arangaetram’ or debut performance was in May 1960. It was held at the Rasika Ranjani Sabha hall in Mylapore. She was 12 years old at the time. The Chief Guest was the great Tamil thespian Sivaji Ganesan. Sivaji in his address commended Jayalalithaa’s dancing. He also praised her physical beauty particularly her figure and fair complexion by describing Jayalalithaa as a “thangachilai” or golden statue.
-
-Sivaji Ganesan also called upon Jayalalithaa to act in films when older. He was definite that she would take to acting. Sivaji predicted then that “Ammu” would become a great film star. Sivaji’s comment did not go down well with Sandhya and Jayalalithaa. Both mother and daughter shared the vision of Jayalalithaa becoming a lawyer. Yet within five years Sivaji Ganesan’s prophecy came true. Furthermore Jayalalithaa was to play leading lady to Sivaji himself before the decade was over.
-
-Her mother Sandhya and aunt Vidyavathy acted in dramas produced by the famous Y.G. Parthasarathy the father of comedian Y.G. Mahendran. YGP as he was known ran the drama troupe United Amateur Artistes (UAA), which staged English and Tamil plays. Soon Jayalalithaa while a school girl began acting in some YGP plays along with her mother and aunt. She acted in plays such as ‘Malathi,’ ‘The Whole Truth,’ ‘Tea House of the August Moon’ and ‘Under Secretary’.
-
-Former Indian President V.V. Giri’s son Shankar Giri saw some of these plays and was impressed by Jayalalithaa. Shankar Giri approached the mother Sandhya and told her that he wanted to cast her daughter in an English docudrama called ‘The Epistle’. Sandhya reluctantly agreed with the condition that shooting should be held only during weekends or school holidays. The film however dragged on and was finally released years later when Jayalalithaa was a star. It was a flop.
-
-Meanwhile, Jayalalithaa continued with her studies and passed her SSLC/Matriculation exams with flying colours. Her marks were the second highest in the state. Entitled to a merit scholarship, Jayalalithaa obtained admission to Stella Maris College in Madras to follow PUC classes when the academic term began. A brilliant career based on education seemed to be beckoning at that juncture. Destiny decreed otherwise.
-
-Sandhya had acted in a Tamil film ‘Karnan’ produced and directed by Kannada filmmaker B.R. Panthulu. The film ran for over a 100 days and a celebration was arranged at the Woodlands Hotel. Jayalalithaa dressed in a silk saree accompanied her mother to the event. She was a “sweet 16” then and a scintillating sight to behold. B.R. Panthulu saw her and immediately decided to cast her opposite Kalyankumar in the Kannada movie ‘Chinnada Gombe’ that he was making.
-
-Sandhya demurred saying her would be studying for her PUC (Pre-university certificate) in two months’ time. Panthulu promised to finish all shooting within two months. Sandya agreed and Jayalalithaa started acting. She was paid Rs. 3,000. Panthulu kept his promise and completed shooting in six weeks. Jayalalithaa forgot all about films and got ready to attend classes at Stella Maris College.
-
-It was at this point of time that one of the greatest Tamil film directors, C.V. Sridhar saw the rushes of ‘Chinnada Gombe’. Sridhar was planning to shoot a colour film with newcomers under his famous banner Chitralaya films. He felt Jayalalithaa was ideal to act in the role of a schizophrenic widow in his film ‘Vennira Aadai’ (White Dress). Sridhar had earlier tried out Hema Malini for the role but was dissatisfied. (Hema later switched to Hindi and became a popular star.) Upon learning that Sandhya and Jayalalithaa were at the YMCA swimming pool for their weekly swim, Sridhar moved swiftly and went to the YMCA to meet mother and daughter. Sandhya was thrilled that the maestro Sridhar wanted her daughter to act in his film.
-
-Jayalalithaa however refused to act in more films. She wanted to study. There was a heated argument at home. Finally Sandhya revealed that the family was in dire straits financially. Acting opportunities were becoming scarce for her and debts were piling up due to their extravagant lifestyle. Being launched by Sridhar meant glowing prospects and a bright future in an acting career. The daughter was asked to make the correct choice. After a long night of deep thought Jayalalithaa conveyed her decision in the morning. It was farewell to studies. She went to Stella Maris for a day and bade adieu!
-
-Jayalalithaa’s first Tamil film ‘Vennira Aadai’ made history even before it was released by getting an ‘A’ certificate as an adults only film. The last time a Tamil film got an A certificate was in 1951 for ‘Marma Yogi’ due to scenes of a ghost. Apparently the Film Certification Board was upset by some shots of Jayalalithaa bathing and dancing in the film. The movie when released ran successfully for over a hundred days in several theatres. Jayalalithaa got rave reviews. Thousands became her fans overnight. A star was born! A fragrant sign of this stardom was in posing for advertisements extolling the virtues of Lux soap.
-
-She began to get a lot of film offers. The biggest and life-changing break came in the form of B.R. Panthulu again. The man who made ‘Chinnada Gombe’ Kannada film with Jayalalithaa now wanted to make a colour film in Tamil with the legendary M.G. Ramachandran (MGR).This was the first MGR film by Panthulu. MGR wanted a new face as his leading lady. Panthulu suggested Jayalalithaa. So MGR and wife Janaki watched the Kannada and Tamil film starring Jayalalithaa. It was MGR’s wife Janaki who insisted that MGR act with Jayalalithaa.
-
-The film was Jayalalithaa’s second Tamil film. It was based on the Rafael Sabatini character Captain Blood. The film named ‘Aayirathil Oruvanor’ or ‘one in a thousand’ was a block buster. MGR was 48 years old and Jayalalithaa only 17. Despite the 31-year age difference the pair hit it off grandly on screen. More films followed and the duo made 27 films together in nine years. Almost every film was a commercial success. The jewel in the crown was ‘Adimai Penn’ or slave girl with Jayalalithaa in a dual role. The film released in 1969 was produced by MGR himself.
-
-It was in this film that Jayalalithaa sang in her own voice for the first time on screen. Usually actors merely lip synch for the screen while the numbers are actually sung by playback singers. The singers P. Susheela, S. Janaki and L.R. Eeaswari used to voice for Jayalalithaa. It so happened that MGR once heard Jayalalithaa singing softly by herself on the sets of another movie ‘Kannan En Kaadhalan’ and felt she sang well. So a solo was given to her in ‘Adimai Penn’. The song ‘Amma Endraal Anbu’ was written by lyricist Vaali and music composed by K.V. Mahadevan. She had a creamy, croony voice and the song got popular. She sang in her own voice in some other films too. Jayalalithaa’s first screen song began with the word ‘Amma’. Years later millions of supporters began calling her “Amma”!
-
-The immensely popular MGR had a fan club network known as Rasikar Mandram. Members of these fan clubs warmed to Jayalalithaa being the leading lady of their leader. Though several actresses such as Bhanumathy, Padmini, Saroja Devi, Manchula, K.R. Vijaya, Latha, etc. had acted paired with MGR, it was Jayalalithaa who captured the hearts of his fans.
-
-Years ago in a movie called Thanipiravi MGR played Lord Muruga and Jayalalithaa his consort Valli, in a dream sequence. A picture of both together as Murugan and Valli was framed and worshipped by many fans. Some people lit camphor and laid flowers before it. MGR’s wife Janaki was called “Anni,” meaning wife of the elder brother by fans, who also referred to Jayalalithaa as “Sinna (small) Anni”. MGR himself was infatuated with her. Though they never formally married, Jayalalithaa was regarded as the love of MGR’s life.
-
-In spite of her unofficial liaison with MGR, the actor to whom Jayalalithaa was linked romantically was Telugu actor Sobhan Babu. He was however married and refused to divorce his wife and marry Jayalalithaa. Once when a Tamil magazine had a gossip article about this relationship, Jayalalithaa wrote an open letter to the publication in which she stated that both of them were in love and would marry if and when Sobhan Babu divorced his wife. That never happened and Jayalalithaa remained single. She was at times referred to as “Selvi” or maiden/unmarried woman.
-
-Jayalalithaa was the uncrowned queen of Tamil cinema from 1966 to 1975 as the most popular highest paid actress. Then came a time when MGR and Jayalalithaa got estranged due to reasons that are unclear. While Jayalalithaa faded away from the screen, MGR himself formed his own political party the All-India Anna Dravida Munnetra Kazhagham (AIADMK) in 1972 and became Chief Minister of Tamil Nadu in 10977. After a few years of separation there was rapprochement between MGR and Ammu.
-
-MGR enticed Jayalalithaa into his party in 1982 and launched her on a successful political career by making her Propaganda Secretary and Rajya Sabha (Upper House) MP. With MGR’s blessings Jayalalithaa blossomed into a formidable politician. After MGR’s death in 1987, she wrested full control of the party in 1989 and led the AIADMK to victory two years later.MGR had been called “Puratchi Thalaiver” or Revolutionary Leader. Jayalalithaa became known by the feminine equivalent of revolutionary leader – “Puratchi Thalaivi”.
-
-Jayalalithaa at 43 was the youngest-ever Chief Minister to assume office in 1991. From that time till her demise Jayalalithaa, who sparkled on the silver screen as uncrowned queen, shone for 25 years as the brightest star in the Tamil Nadu political firmament.
-
-## The JVP does  not have the right ideological inclination and intellectual sophistication to lift the country out of the economic crisis. It might make things worse and cause Gotabaya’s destruction of the economy to look like child’s play
-
-*2023-12-05 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83238)*
-
-Two weeks back, crisis-hit Argentina elected a far-right outsider as the President, ending nearly eight decades of dominance of the mainstream right and left in the politics of South America’s second-largest economy. President-elect Javier Milei, a libertarian and a media showman, rode on a wave of public anger at the political establishment, as inflation hit triple- digit levels and the country was stuck in yet another sovereign debt crisis.
-
-Argentina is the longest-running case of the middle-income trap. Being one of the richest countries in the world in the early 20th century, the Argentinian economy has lurched from crisis to crisis since the early 30s. It defaulted on debt nine times, including three times in the 21st century – the latest default included a US$ 45 billion IMF funding facility extended during the previous crisis.
-
-Mr Miles’s litany of controversial remedies looks more destabilizing than being a coherent fix. However, he has succeeded in exploiting the popular sense of despondency. He has offered to dollarize Argentina’s economy, ditch the national currency, “dynamite” the Central Bank, shut the ministries, including education, health and social welfare, and introduce Bitcoin as legal tender.
-
-However, Argentina is not necessarily an outlier of a global trend of far-right and nationalist takeover of governments.
-
-The same week, far-right and Islamophobic Geert Wilders and his Freedom Party – which canvassed to ban mosques and the Quran and end the ‘tsunami of asylum seekers’ – won the Dutch elections. Elsewhere in Europe, the far-right is the dominant party in governments in Italy, Switzerland and Hungary and partners in Finland and Sweden. In the USA, Donald Trump, once an outsider, has hijacked the Republican Party and leads Joe Biden in opinion polls.
-
-The factors that led to their success vary from Argentina’s economic woes to growing opposition to the unchecked migration to Europe and aggrieved white working-class pride in the US. However, everywhere, the far right and the nationalists – and in rare cases, the far left, as in the case of Chile – managed to convert the protest vote into an election winner.
-
-The prospect of this global trend being replicated in Sri Lanka is very real. In the Sri Lankan case, though the likely shift is not to the right but to the left, which is equally untested and is offering pie-in-the-sky solutions to the pressing economic problems, if it ever turned out to be real, the consequences of these choices would be a lot more devastating than the serial ideocracies of Gotabaya Rajapaksa.
-
-Consider the opinion polls – though you might need to take them with a pinch of salt – the latest round of polling in October by the Sri Lanka Opinion Tracker Survey (SLOTS) of the Institute for Health Policy (IHP) shows Anura Kumara Dissanayake of JVP and the National People’s Power (NPP) gaining the support of half of the likely voters (51 per cent). Sajith Premadasa comes second with 30 %, and President Ranil Wickremesinghe on 13%.
-
-A “generic” candidate for the ruling Sri Lanka Podujana Peramuna (SLPP) was on six per cent.
-
-One might cast reservations about the reliability of data: samples look as if they were picked from the picket lines of Colombo and provinces. Also, what people say in the opinion polls and how they vote at elections may differ. However, considering the Sri Lankan political psyche, one should not be surprised if these numbers or something partially similar – such as the Presidential Elections going for a second round – becomes a reality.
-
-Like elsewhere in the world, where the fringe succeeded in out-manning the mainstream, JVP’s success is not its own feat but the establishment’s failure.
-
-Project Director Ravi Rannan-Eliya commented on the polling results saying, “I suspect this is less voters buying the NPP/JVP policy platform and more voters rejecting the political establishment and the business-as-usual. Establishment parties wanting to compete with the NPP probably need to be doing some serious soul-searching.”
-
-Mr Dissanayake and the JVP/NPP have managed to capitalize on public fury at the economic hardships. Though the JVP has been party to the successive SLFP governments under Chandrika Kumaratunga and Mahinda Rajapaksa, it projects itself as a political outsider and as the alternative government in waiting.
-
-This has not only given liberty to the JVP leadership to criticize the two main parties for the economic failure but has also absolved it from offering meaningful and practical solutions to the pressing economic problems. Any semblance of solutions offered is generalizing, lacking depth, and designed for a receptive, like-minded audience, and to exploit the anger of the Sri Lankans.
-
-They are also self-contradictory; they blame rising government spending and at the same time oppose the cutting down on social welfare. They condemn rising debt and at the same time demand wage increases; they criticize the government for underperforming State Owned Enterprises (SOEs) but oppose their restructuring.
-
-And they lack depth. They emphasize the need to build an export-driven economy, everyone else does too, but then, they oppose the mandatory economic, labour, land, legal, and trade reforms to bridge the local economy with the global supply chains.
-
-They lament the brain drain – of which the scope is exaggerated – but oppose private universities that could provide a real leg up for most Sri Lankan youth.
-
-However, these glaring inconsistencies are not registered in the average local voter, nor are they tackled in the usual media interviews and talk shows. The average voter is more than content with the shared outrage over-pouring on the political stage. Yet the protest vote is a poisoned chalice. This would come to haunt Sri Lanka.
-
-Everyone with average intelligence could identify the fundamental economic problems in Sri Lanka. Still, a few would manage to dissect the actual causes, fewer would offer realistic long-term solutions, and even fewer would persist with their successful implantation.
-
-The JVP succeeds only in the first – identifying the problems – and fails in the rest of the process. The SLFP might have managed two, but its fixes were guided by rent-seeking initiatives and ideological straightjacket. The UNP and SJB do well until the third but have miserably failed in the fourth. They generally have a good idea of the fixes or are willing to listen to the right people and not the economic cavemen the Rajapaksas had as advisors.
-
-However, the UNP has consistently exhibited a lack of political will to turn its economic vision into reality, worst still the SJB does so even before it has a serious shot at political power.
-
-Gotabaya Rajapaksa kicked an ailing economy down the precipice due to his egoistic ideocracy. However, the current economic crisis is the ultimate outcome of a long-term refusal of economic liberalization. Blame the people for opposing every other reform measure. Blame the successive governments for lacking political will like their saucerful counterparts in the East and South East, and probably Chile had during different times of their history.
-
-The JVP shows no commitment to economic liberalization, nor does it have the right ideological inclination and intellectual sophistication to lift the country out of the economic crisis. It might make things worse and cause Gotabaya’s destruction of the economy to look like child’s play.
-
-## Gamini “Gamma”Weerakoon: From Reporter to Editor.
-
-*2023-12-02 03:33:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83139)*
-
-William  Shakespeare wrote in his play “Julius  Caesar” thus – “His life was gentle, and the elements So mixed in him that Nature might stand up And say to all the world, This was a man.” . Much hackneyed as they may be , these enduring words of the Bard of Avon aptly describe veteran journalist Gamini Weerakoon who breathed his last on 11 November 2023.His funeral was held at Kanatte on Sunday Nov 12.
-
-Gamini Weerakoon known to his friends and colleagues as “Gamma” was an integral part of Sri Lanka’s English journalistic realm for more than five decades. He entered journalism  as a news reporter and gradually  rose up  from the ranks to retire as Editor. He served in many capacities such as reporter,  sub- editor, feature writer,news editor,deputy editor, editor, columnist and consulting editor in his eventful career. Until the very end he was in harness as a journalist  by writing the weekly column titled “Doublespeak” for the “Sunday Times”.
-
-Though his entry into Journalism was through “Lake House” Gamma spent the greater part of his  journalistic life at Bloemendhal road with Upali newspapers. It was there that he excelled  as editor for more than two decades. “The Island”of  13 Nov 2023 published an editorial titled “When great Oaks fall” about the former editor. The editorial sums up Gamini Weerakoon’s contribution to Journalism concisely. Here are some excerpts –
-
-‘Fondly known as Gamma to his fellow scribes, Weerakoon left Lake House in the early 1980s to join the team Upali Wijewardene handpicked to launch The Island. He played a key role in crafting a new brand of journalism, which quickly gained immense popularity. He succeeded Vijitha Yapa as the editor, and his was a memorably long innings in journalism. He elevated the quality and effectiveness of Sri Lankan journalism and inspired others to strive for similar levels of achievement.”
-
-“Gamma excelled in editorial writing. He wrote beautifully, forcefully, and persuasively, and his no-holds-barred editorials were simply out of this world; they were loaded with facts and figures, which he clinically analysed with wit and humour thrown in for good measure; they contained very powerful messages that naturally made the conceited rulers of the day furious. The Island became a marked target as a result.”
-
-“The Island bore the brunt of the fury of violent politicians who acted with impunity, but Gamma was not deterred. He would harden under pressure as all good journalists usually do. It was not occasionally that Gamma had a brush with those in authority. He had the pugnacity of a pugilist, and readily pitted himself against the pompous moneybags and self-important politicians, but he was a kind-hearted gentleman, whose integrity was never in question.”
-
-“Having cut his teeth on journalism during the hot metal printing days, Gamma shepherded The Island into the digital age. He was a multifaceted personality, and his interests were numerous although he basically confined himself to international affairs, politics and economics, as a prolific writer.”
-
-“He tenaciously campaigned for media freedom.Gamma did not officially label himself as a media trainer but he mentored quite a few journalists during his UNL days, and many of them have joined other publications or pursued careers in media-related fields.Veteran scribes who have been enriching journalism for decades are like great oaks that leave lasting voids when they fall. Gamma was unarguably one of them.”
-
-Gamma’s demise revived memories of those happy days at Bloemendhal road for me and several other former Island journalists. Even as we communicated with each other about Gamma, a few asked me whether I was going to write about him. I said that I was working on a political article and that I may write about Gamma later on. My friends  wanted me to write on Gamma this week itself. One said” You wrote so many articles about politicos. You must write about Gamma and about yourself.  After all he is a journalist and you both were quite close, no?That clinched it. I shelved the article I was working on. This week’s article is all about Gamini Weerakoon.
-
-Gamini Weerakoon came into my life  42 years ago in  1981 when I joined “The Island” as a Staff Reporter on November 16th. As stated earlier he was known popularly as “Gamma” derived from his name Gamini. However Gamma is the third letter of the Greek alphabet and also denotes the third in a  position, order or class.
-
-“Gamma” Weerakoon was the third in the editorial hierarchy of “The Island” when I joined the newspaper. The first two were the  Editor Vijitha Yapa and Deputy Editor Dalton de Silva. Gamini Weerakoon ranked third as the News editor. However Dalton de Silva quit early to be the Reuters Bureau chief in Colombo. Gamma functioned as both News Editor and acting deputy editor for some time prior to being appointed formally as Deputy Editor. Later  he succeeded Vijitha Yapa as Editor. I have worked under him as a journalist in his three capacities of News Editor,Deputy Editor and Editor.
-
-At the outset I would like to relate the circumstances under which I started working for  the Island in 1981. I was then a journalist   in the Tamil Daily”Virakesari”. Although  I was a Staff reporter at the Editorial in Colombo, I had  been stationed in Jaffna since July 1981. This was because the “Virakesari”s  veteran Jaffna correspondent Sellathurai had been hospitalized with a serious ailment. Since Jaffna was of crucial importance to a Tamil newspaper, I was sent there  from Colombo to hold the Fort.
-
-The “Sunday Island” was launched in October 1981. The Daily Island was to be launched on Nov 16. The paper was looking for a journalist to report from Jaffna as a staff correspondent. My friends Ajith Samaranayake and Ravindran Casinader  who had begun working for “Sunday Island” had recommended my name. I was already acquainted with Vijitha Yapa when he was the media liaison officer at the Greater Colombo Economic Commission (GCEC) headed by Upali Wijewardene. So I came down to Colombo from Jaffna for an interview at Upali newspapers Ltd.
-
-The interview was a life-changing one. I was interviewed by Vijitha Yapa and Gamini Weerakoon. They wanted me to work as the staff correspondent for the paper in Jaffna. I declined the offer and said that I wanted to work in Colombo and not Jaffna. At that point Gamma got up abruptly  and started leaving but Vijitha continued to talk to me and asked me what I wanted to do in Colombo.
-
-Weerakoon tarried at the door and told Yapa “What’s the point in wasting time Vijitha, we want someone in Jaffna but he doesn’t want to be there. So we better look for someone else”. But Yapa replied “That was our idea but he has another idea. We’ll try and work something out”. Gamma just shrugged his shoulders and left but Vijitha continued to engage with me. The end result was that I ended up working for “The Island” in Colombo instead of Jaffna. This was all due to Vijitha Yapa’s accommodative flexibility.
-
-Though Gamma was reluctant to take me on initially, things changed after I starterd working under him. Both Yapa and Gamma wanted me to concentrate on Tamil affairs in writing for the papers. I was hesitant as I feared my copy may be altered  due to political reasons. Both assured me that would not happen as long as I reported the facts accurately. I agreed to do the Tamil round.
-
-I plunged in to work and began enjoying my entry into English journalism. I relocated from Wellawatte to Kotahena to be within walking distance of Upali newspapers. With rising armed militancy, the “Tamil round” in news reporting became turbulently exciting.  I worked hard and wrote many news stories. Many of them were the lead stories. Gamma as news editor  was pleased and began to rely on  me very much.
-
-One day he joked “My friends are saying the paper  is not “The Island” but “The Peninsula” because your by-llnes are dominating the front page”.I reminded him jovially that he did not want to hire me in the first place. He responded by saying that he wanted reports from Jaffna then  and pointed out that Iwas writing the Jaffna stories from Colombo now.He added as an afterthought “I didn’t know you were an Old Thomian then”.
-
-Gradually Gamini Weerakoon and I became very close to each other. Even though we had different political views there existed a bond of friendship between us that baffled many.Gamma in many respects was an enigma.
-
-Gamini Abhaya Weerakoon was born on 19 March 1941. His family was residing in Mt.Lavinia then and young Weerakoon had both his primary and secondary education at the school by the sea. It was as a Thomian that he acquired his lifelong pet name “Gamma”derived from Gamini.
-
-He was a member of the triumphant rugby team of 1961 captained by Tony Sirimanne. Gamma was a unility player in the pack and played in several positions such as lock,prop, second row and wing forward. Among fellow team mates were Wilhelm Koch and Maurice Fairweather.  Gamma won a few field events in Athletics  too.
-
-He entered the Science faculty of the Colombo University as a BSc student but never completed his degree.  Gamma  told me once that he engaged in all types of activity in campus except academic pursuits and was notorious for cutting lectures. This was corroborated by a cousin of mine who was Gamma’s contemporary at Varsity. (my cousin too did not get his degree).
-
-The transition from undergrad to journo was related to me by Gamma himself. When he reached a dead end as a BSc student, Dr. Neelan Tiruchelvam known as Neelan had  come  to Gamma’s aid. Neelan took Gamma to the then Law Faculty Dean Prof.T.Nadarajah who kindly facilitated a transfer for Gamma  to the law faculty. Unfortunately his new avatar as law student did not last long
-
-There was an illness resulting in a  throat operation due to which Gamini Weerakoon’s voice got affected. Though it improved greatly later, Gamma was terribly embarrassed in the initial stages. As he told me once “ I wanted to be an articulate advocate like GG or Colvin making thundering arguments in my powerful voice but  now it had been reduced to a pipsqueak. So I thought there was no point in becoming a lawyer”. Gamma began exploring other possibilities.
-
-Journalism beckoned! Gamini Weerakoon had displayed a flair for writing at school. He was recruited  as a reporter  in 1966 by the legendary Denzil Peiris the then editor of “The Observer” published by Associated Newspapers of Ceylon Ltd.(ANCL).  It is the practice in newspaers to allocate specific areas or spheres to reporters to cover – apart from general assignments –  as part of their journalistic duty.
-
-The second half of the sixties in the 20th century was a period of youth unrest and student turbulence globally. Sri Lanka known then as Ceylon was no exception. The United National Party(UNP) Government under Prime Minister Dudley Senanayake was in power then. The Education Minister was the controversial IMRA Iriyagolla. There were only two universities then in Peradeniya and Colombo and the Education minister was in charge of schools as well as universities. There was much friction among the undergrads,a cademic staff and ministerial authorities. The student unions were highly politicised and inclined towards the left.
-
-The recent undergrad Gamma was assigned the Higher education or campus round to cover as a reporter. It was a very wise and appropriate decision by the Editor. Gamma’s campus contacts were huge and wide. Besides he was able to saunter around varsity precincts like an undergrad. The result was a wide range of news stories many of them scoops and exclusives . Gamini Weerakoon made his mark as a reporter. He also realised that his life’s vocation was journalism.
-
-Apart from the campus round , Gamini reported on other matters  including general politics. He also served as a courts reporter and Parliament affairs reporter at times .  He wrote news features too.After a short  stint at subbing, Gamma became News Editor. In 1973 “Lake House”was taken over by the United Front Govt led by Prime Minister Sirimavo Bandaranaike. There were drastic changes and Gamini became the “Daily News” news editor.
-
-Meanwhile there was romance in the  Beira lake air. Gamma wooed and won the hand of  Lake House journalist Rajitha Unantenna. Rajitha’s father was PB Unantenna , a member of Parliament representing the Hanguranketa constituency in the Central Province. PB Unantenna had been elected from the Sri Lanka Freedom Party(SLFP) in the 1970 elections. He had earlier contested in 1960 and 1965 and lost.
-
-The newly weds took up residence right across Lake House at Regent flats near the Regal theatre. Their only  daughter Surangi was born. It was then that Gamma bought his famous orange  coloured Volkeswagon I think.
-
-In July 1977 the UNP led by Junius Richard Jayewardene came to power in a landslide victory. However  Lake House  was not given back to the rightful owners although JR himself was related to the Wijewardene family. In 1978  , Kotte MP and incumbent speaker Anandatissa de Alwis was appointed Minister of State ( this was a cabinet post different to the present ministers of state). The state owned media came under his purview. Once again there were changes in Lake House, Veteran journalist and the then Reuters Correspondent Clarence “Clarry”Fernando became “Daily News”Editor.Incidently Anandatissa de Alwis was Clarry’s brother in law.
-
-Gamini Weerakoon found himself sidelined and somewhat stifled under the new dispensation.So when Upali Wijewardene launched a newspaper,Gamma  perceived it as an opportunity to move out of Lake House. What happened thereafter would be related in the second and final part of this article .
-
-This article appears in the “DBS Jeyaraj Column “of the “Daily Mirror”dated 18th November 2023.It can be accessed here –
-
-## Little-known Facts About Legendary LTTE Leader Veluppillai Prabhakaran
-
-*2023-12-02 01:11:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83195)*
-
-Liberation Tigers of Tamil Eleam (LTTE) leader Veluppillai Prabhakaran was born on 26 November 1954. If he were among the living, Prabhakaran would be celebrating his 69th Birth Anniversary today (Nov 26). This article intends focusing on the life and times of the man who determined the politico-military course of the island nation for many years.
-
-I have in the past written extensively on the LTTE and its supremo. As such I do not intend re-inventing the wheel all over again. Instead I would be focussing in this piece on some lesser known facts of the LTTE leader’s personal history with the aid of earlier writings.
-
-At the outset I want to emphasise that this article is neither a biography nor an eulogy. It is not even a critique or analysis. What I hope to do is to try and shed some light on the man and his personality without attempting to glorify him. I shall try do so by highlighting certain facets of Prabhakaran’s eventful life.
-
-Thiruvengadam Veluppillai Prabhakaran was born on November 26th 1954. He was the youngest in a family of four children – two boys and two girls. The two sisters live in Canada and India. The brother resides in Denmark. Prabhakaran’s father was Veerasamy Thiruvengadam Velupillai. Prabhakaran’s mother’s name was Paarvathipillai. Her maiden name was also Velupillai. His parents who lived in the northern mainland, Wanni, later surrendered to the armed forces and were placed under protective custody Both are no more now having died of natural causes.
-
-Prabhakaran’s family hailed from the Northern coastal town of Valvettithurai referred to generally as VVT. His father joined the Government clerical service and eventually became a district lands officer. I think he retired from Govt service when the late Gamini Dissanayake was Lands minister.
-
-Prabhakaran’s family was of respected lineage in VVT. They were known as belonging to the “Thirumeni kudumbam” or Thirumeni family. Prabhakaran’s ancestors constructed the famous Sivan temple of VVT. His father should have been the chief trustee but declined to be so as he was in govt service. So his younger brother became chief trustee instead.
-
-The LTTE leader’s father was a duty conscientious mild-mannered gentleman well respected and well-liked. People of VVT used to say that even the grass wouldn’t get crushed when Mr. Velupillai treads on it. Later many comparisons were made about father and younger son. In fact the father disapproved of the son’s path and was not on speaking terms with Prabhakaran for many years.
-
-The name Prabhakaran denotes the Sun or Sooriyan. Later his sycophants and acolytes began calling him “Sooriyathevan” or “Sun God”. Being the youngest in the family he was called “Thambi” or younger brother. This pet name continued to be in vogue when he entered militant ranks as he was then perhaps the youngest of all. Prabhakaran also adopted various names like Mani, Manivannan, Maniam and “Karikaalan”. It was the latter nom de guerre that he used mostly during the early days.
-
-Karikaalan refers to Thirumaavalavan of the Chola dynasty that flew the “Vengai” or Cheetah flag.Colleagues of an earlier vintage referred to him as “maniyathhar”. Contemporaries continued calling him “thamby”. In later years young tigers used to call him “Annai” or elder brother. After a while it became “Thalaiver” or leader. Formally it was “Thesiya thalaiver” or “national leader”. Colloquially he would be called “perisu” or the big one.
-
-Prabhakaran studied at different schools in Jaffna, Vavuniya and Batticaloa because his father was constantly transferred. The schools he studied for many years at a stretch were Government College (Now Mahajana) B’caloa and Chidampara College, VVT. He was not a model student and did not even complete his GCE O’levels.This does not mean that he was unintelligent or did not possess a thirst for knowledge. It was due to Prabhakaran being interested in other things rather than in formal education.
-
-As a schoolboy, Prabhakaran like most youngsters of his age was fond of cycling and playing volley ball and soccer. But he was no sportsman and preferred to read or watch action films.
-
-He has been ridiculed often for telling an American journalist that he learnt his fighting techniques from Clint Eastwood movies. But what happened really was that the US scribe was pointedly questioning him whether he had been trained in Cuba. It was as a joke that Prabha responded citing the all – American Clint Eastwood as his guru and not El Commandante Fidel Castro as implied by the American journo.
-
-Another pursuit in boyhood was the targeting of squirrels, lizards. Chameleons and small birds with a catapult. As a kid Praba would prowl about areas of dense vegetation searching for his quarry.His photogenic memory was legendary. Prabhakaran would remember faces, names and the last time he had seen someone years ago. His eyes were always sharp and roving taking in the surrounding area and ever on the alert. His eyes were large and striking and was teased as “muliyan” (goggle-eye).
-
-When Prabhakaran was in the JSC (Grade eight) class one of his textbooks was “Thirumavalavan”. This was about the Chola emperor Karikalan under whose rule the “Pulikkodi” (tiger flag) had supposedly fluttered proudly from “Imayam muthal Kumari varai” (Himalayas to Cape Comorin) .
-
-Thus Prabhakaran was fascinated by Karikalan and the tiger flag.“Puli” in Tamil denotes the tiger but the tiger on the Chola flag was the “Vengai” or cheetah. It is a far cry from the Bengal tiger on the LTTE flag now. In any case there are no tigers in Sri Lanka. We have only the leopard here. But then we have no lions either but our national flag has one. In a sense the rifle-crossed tiger flag was a direct response to the sword-bearing lion flag.
-
-Prabhakaran known as Mani and Maniam earlier soon took the nom de guerre Karikalan . When arrested by the Indian Police in Pondy bazaar in May 1982, it was that name which is on Indian police records. Later Prabhakaran’s wireless codename was HA or Hotel Alpha. This was derived from Karikalan where Kari became Hari and then HA.
-
-The Chola emperor got the name Karikalan because he was caught in a fire as a boy and had his legs burnt. Karikalan means “Person with dark or black legs”. Prabhakaran too had a similar experience while experimenting with explosives. There was an explosion and his legs were burnt. The skin was dark for years. Thus “Karikalan” suited him appropriately.When Prabhakaran died he was identified by former LTTE spokesperson Daya Master by these dark scars.
-
-Prabhakaran was an avid reader. He was particularly fond of reading history-about historical battles and historical figures.Some of the famous historical figures he admired were Napoleon and Alexander. The Indian freedom struggle fascinated him. He read the Tamil version of Mahatma Gandhi’s autobiography “Satya Sodhanai” in his early teens but was not enamoured of it greatly.
-
-Prabhakaran was also fond of reading Tamil novels particularly those with a historical background. His favourite apparently was “Ponniyin Selvan” the magnum opus of “Kalki” (R. Krishnamoorthy). This is about Prince Arulmolivarman who evolved into the great Chola emperor Raja Raja Cholan.He also liked the historical novels of Akhilan and Chandilyan. “Venkayin Mainthan” and “Kayal Vizhi” by Akhilan and “Yavana Raani”, “Kadal Puraa” and “Jalatheepam” by Chandilyan were his favourites by these two. When the LTTE bought its first maritime vessel it was named “Kadal Puraa” (sea dove) after Chandilyan’s novel.
-
-Yet, the Tamil novel read again and again by Prabhakaran was “Kallukkul Eeram” (moisture in a stone) by RS Nallaperumaal. It is set against the backdrop of India’s freedom struggle against the British.The chief protagonist Rangamani is one who does not believe in Gandhi’s “ahimsa” mode of struggle and espouses violence as the appropriate method to liberate India. No wonder then that Praba loved this novel. But there is a change of heart in the end by the novel’s protagonist, but for the real life protagonist there was no moisture in the stone.
-
-The Indian Freedom Struggle impacted on Prabhakaran greatly. His ideal and idol was Netaji or Subash Chandra Bose. Netaji had ideological differences with the Mahatma about the mode of struggle for independence. At one stage he disapporoved of Gandhi’s “non-violence” and went on to form the Indian National Army (INA) to launch an armed struggle against the British. Subsequently Chandra Bose joined forces with the Germans and Japanese to fight the British. He died in a mysterious aeroplane accident. Netaji’s famous pronouncement was “I shall fight for the freedom of my land until I shed my last drop of blood”. Prabhakaran subscribed to these sentiments whole-heartedly.
-
-Apart from Netaji , Prabhakaran was also impressed by the Sikh freedom fighter Bhagat Singh who was sentenced to the gallows by the British rulers.
-
-Two freedom fighters from Tamil Nadu also made an impact on young Prabhakaran.One was Vaanchinaatha Iyer who shot the Tirunelvely district collector Ashe dead at the Maniaachchi railway station. When chased by the Police Vaanchinaathan shot himself. The other was Thiruppoor Kumaran who withstood heavy beating by the Police but would not let go of the Bharatmatha flag. He was hailed as “Kodi Kaatha Kumaran” (Kumaran who saved the flag)
-
-Prabhakaran was very much interested in contemporary affairs and international politics. A former comrade at arms of Prabhakaran, Thalayasingham Sivakumar alias Anton Master told me how the LTTE subscribed to ‘TIME’ and ‘Newsweek’ those days. Praba would ask friends knowledgeable in English to translate and explain articles to him.
-
-In later years when the LTTE developed into a full-fledged outfit, important articles from magazines and newspapers were translated into Tamil for Prabakharan’s consumption. Also many books on military affairs and warfare were translated into Tamil.
-
-Prabhakaran’s attitude and political thinking was shaped by contemporary events and environment. The gruesome tales he heard as a four year old child about the 1958 anti-Tamil violence impacted greatly.One day Prabhakaran’s home had a woman visitor whose legs were scarred by burns. Upon inquiring the little boy was told that the woman’s home had been set on fire by a “Sinhala” mob. She had escaped with burns.Young Praba also heard the infamous story of the Brahmin priest in Panadura being burnt to death in a bonfire and also about the infant thrown into a tar barrel. All these tales made an indelible impression as a child.
-
-Prabhakaran growing up in Valvettithurai got politically motivated in the late sixties and early seventies of the previous century. This was when former Kayts MP. V. Navaratnam broke away from the Ilankai Thamil Arasu Katchi (ITAK) known as Federal Party (FP) in English.
-
-Navaratnam, once described as the “golden brain” of the FP, formed the “Thamilar Suyaatchi Kazhagham” or Tamil Self-Rule party in 1968. Navaratnam abandoned the federal demand as being too little and too late and instead opted for “Suyaatchi” or “self-rule” a euphemism of sorts for a separate state.
-
-There was a pedagogue named Venugopal master for whom Prabhakaran had great regard and respect. Venugopal master became an active supporter of Navaratnam. Several students including Prabhakaran became his followers and turned into ardent devotees of Tamil self-rule.
-
-The Suyaatchi Kazhagham also started a newspaper ‘Viduthalai’ (Liberation/Freedom). Navaratnam himself translated and serialised ‘Exodus,’ the famous novel written by Leon Uris. It was named ‘Namakkendroru Naadu’ (A Country of Our Own). Young Prabhakaran eagerly devoured it and became hooked on the dream of a country for Tamils.
-
-The Tamil self-rule party was defeated in the 1970 polls. No candidate including Navaratnam won. But the seeds of self-rule sowed in the campaign had taken firm root in the heart and mind of “Thamby” Prabhakaran.
-
-Soon “thamby” began losing interest in meetings and non-violent agitation.These were too tame for him. Greatly inspired by tales of Israel’s Hagannah and Irgun, Prabhakaran became firmly convinced that perceived Sri Lankan state oppression could be resisted only through force.It was then that Prabhakaran wanted to buy a gun and practise shooting.
-
-There was a notorious “chandiyan” (thug) then in Point Pedro called Sambandan. He sold guns illegally. When Prabhakaran approached him for one, Sambandan priced an old pistol at 150 rupees.Prabhakaran and some like-minded youths pooled their resources and came up with the princely sum of 40 rupees. Undeterred Prabhakaran sold his gold ring to augment finances. This had been given to him by his elder brother in law.As was the custom the younger brother of the bride, Prabhakaran ,poured water on the bridegroom’s feet when he entered the bride’s house and got rewarded with a gold ring.
-
-This was how Prabhakaran acquired his first firearm.Prabhakaran began training clandestinely. A retired soldier from Pt Pedro helped him train.
-
-When the LTTE was formed on 5 May 1976 Prabhakaran was only its military commander. The leader and chairman of the five-member central committee of the LTTE was Uma Maheswaran. Praba was also a CC member.The LTTE fragmented in 1980 and Uma Maheswaran formed the PLOTE.
-
-The LTTE under Prabhakaran had a working relationship with the TELO led by Thangathurai and Kuttimani. In 1981 the LTTE re-grouped under the absolute leadership of Prabhakaran. Thereafter it was a virtual one-man dictatorship.
-
-Prabhakaran was also a “puritan” in many ways. He neither drank tea,coffee or liquor nor smoked.Praba even advocated sexual abstinence for all in the early days of the movement. Order and cleanliness was almost an obsession. He was a stickler for discipline.
-
-He was always neatly dressed preferring “bush shirts” and short-sleeved shirts. The bush shirt was helpful as it covered hidden firearms. It is said that even during the early stages of militancy when there was an acute shortage of funds, Prabhakaran would wash and iron his few clothes regularly and always maintain a dapper appearance.
-
-He was a good cook and also fond of good food. He relished Chinese cuisine. Prabhakaran was also fond of pittu, coconut sambol and fried shrimp. He also liked iguana and tortoise flesh. He liked fruits and natural bee’s honey.
-
-Usually LTTE cadres under punishment are assigned duties in the kitchen. Prabhakaran would encourage cadres to cook saying “only a good cook can be a good guerrilla”. He would often cook or help out in the kitchen when at home. A close relative who visited him once was flummoxed to see the feared guerrilla leader busily scraping coconuts in the kitchen.
-
-Hard as it may be for many to believe there was a quiet, spiritual aspect also to Prabhakaran. The “Ithihasam” (epic) Mahabharatham enthralled him. The characters he identified with were Bheema and Karna.Prabhakaran also read the Tamil translations of Swami Vivekananda’s writings and speeches avidly. Another spiritual person he looked up to was Thirumuga Kirupananda Vaariyaar popularly called “Vaariyaar”.
-
-It is the Mahabharatha that relates the tale of Lord Krishna advising the wavering Arjuna on the battlefield “Kurushetra”. The Pandavas and Gouravas (cousins) had assembled to do battle but Arjuna hesitates to fight against his kith and kin and lets slip his bow “Kaandeepam”.Lord Krishna then tenders advice to him that each person is destined to fulfil his or her duty. It was the warrior’s duty to kill his adversary regardless of kinship. Killing the “body” of the enemy was part of heroic valour. The essence of Lord Krishna’s lecture is the “Bhagavat Gita”. Prabhakaran was greatly enamoured of principles enunciated in the ‘Gita’.
-
-In the Tamil film ‘Karnan’ based on the ‘Mahabharatha’ Lord Krishna is played by N.T. Rama Rao and Arjuna by Mutturaman. The Gita episode is picturised as a song ‘Maranathai Enni Kalangidum Vijaya’. This was one of Prabhakaran’s favourite songs. It’s sung by Seerkali Govindarajan.
-
-Madhivadhani Erambu There was a time when Prabhakaran wedded himself to the Tamil Eelam cause ,vowing to be celibate till a separate state was achieved. Despite these lofty ideals, “Manmathan” or cupid struck Prabhakaran with his five-flowered arrows in 1983-84.
-
-Some displaced undergraduates were on a death fast at the Jaffna university premises in 1983 September. When the condition of some girls deteriorated the LTTE broke the fast and abducted those fasting. They were brought to Tamil Nadu.
-
-At one stage four of the abducted girls stayed at the residence of Anton and Adele Balasingham and used to accompany them to the LTTE office in Indranagar. The fairest and prettiest of them all was Madhivadhani Erambu. Her father Erambu was a schoolmaster from Pungudutheevu in Jaffna.
-
-During the Indian “Holi” festival people spray coloured powder and coloured water on each other. Madhivadhani held a bet with her friends and boldly drenched Prabhakaran with turmeric dissolved water. Praba was furious and berated her. Madhi started weeping.
-
-Hours later when the tiger supremo was leaving the office , he found her in a corner sobbing.He went up to her and spoke softly asking her not to cry. Madhivathani looked up at him with tear-filled eyes. Praba’s heart was pierced. The tough Tiger Supremo was smitten by the doe-eyed beauty whose name Madhivadhani meant “moon like face”
-
-Thereafter Prabhakaran began visiting the Balasingham’s frequently. He brought flowers and sweets for Madhi. Prabhakaran had been a shy, introverted person and had never mingled with girls outside his family before. This was a new experience. Anton Balasingham encouraged the romance. \They married in 1984.
-
-Initially there was a hitch. The LTTE code of conduct at that time tabooed marriage. So the top commanders were summoned to Tamil Nadu and a Central committee meeting convened.There a new regulation was introduced enabling those with five years experience to marry.
-
-The Madhi-Praba marriage took place in a temple with senior tiger commanders including Selvarasa Pathmanathan alias KP in attendance as “Maappillai Thozhan”or Best Man.
-
-Prabhakaran and Madhivadhani had three children. The eldest was named Charles Anthony born in 1985. He was named after Praba’s best friend and military commander Charles Anthony alias Seelan who died in Meesalai, Chavakachcheri.
-
-The next was Duvaraga the daughter born in 1986. She was named after a favourite bodyguard Mayooran whose real name was Duvaaragan.
-
-The third was a son born in 1997. He was named Balachandran after Madhivathani’s own brother who also joined the LTTE and died in combat.
-
-Prabhakaran and his family were killed during the final phase of the war in May 2009.The demise of Prabhakaran along with family members and senior commanders marked the end of an eventful chapter in the long drawn out struggle of the Tamil people to achieve equal rights in the Island of Sri Lanka.
-
-## The mood on the street is clearly ugly and  turning towards an even more deep-seated rejection of the ruling political establishment beyond the ‘Aragalaya’ (protest) of last year. Then, it was spontaneous anger combined with an idealistic demand to ‘send the crooks home. What is surfacing now is deadlier and vastly unpredictable in form.
-
-*2023-12-02 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83230)*
-
-Weeks after the November 14th decision of the Supreme Court with the majority holding gross failures in fiscal and monetary discipline by the Rajapaksa-led regime from 2019-2022 had comprised an extraordinary breach of the Public Trust triggering Sri Lanka’s bankruptcy, it does not seem that political leaders or their cheering squads have learnt important lessons reflected therein.
-
-Debates on both the majority (four judges) and minority (one judge) rulings are primarily driven by political partisan agendas. Predictably, the cherry on top of this pedestrian squabbling is a ridiculous distinction drawn between whether the majority decision had said that the Rajapaksas were ‘responsible’ for the economic crisis or (merely?) that their actions were ‘contributory’ thereof.
-
-But analysing the sequence of reasoning in the majority opinion makes it quite clear that this so-called distinction is without a palpable difference, legally and factually. Some aspects of the majority ruling have been remarked upon in these column spaces previously. This includes the Court’s  assessment that the late 2019 policy decision to revise taxes leading to an enormous loss of revenue was a direct factor in the collapse of the economy.
-
-Appropriate remedial action to offset the adverse consequences had not been taken in time. But what could not be remarked on earlier due to constraints of space is the manner in which that judicial assessment is laid out, offering the public a fascinating glimpse into how a nation is driven to ruin by a cabal of political, corrupt, inept and incompetent opportunists.
-
-That result came about, I might add, despite laws, procedures and mechanisms in place to prevent just that disastrous eventuality. That included the Monetary Law which obliged the Monetary Board to detail measures it should take when the country’s international reserve seriously declines. Currently, a plethora of new laws, including brand new statutes ensuring the so-called ‘independence’ of the Central Bank of Sri Lanka and the Monetary Board have been enacted by the Wickremesinghe Presidency.
-
-But there is no measurable public confidence that these same sorry tricks will not be played again by a different set of tricksters. Indeed, the President’s scoffing at the Public Trust doctrine in Parliament just before he took wing to Dubai to speak on climate justice was discussed last week.
-
-Meanwhile his claim at the UN climate summit this week that Sri Lanka needs US 100 billion to become a net zero emitter by 2040 has led to a fair amount of unkind chuckling.
-
-Perchance the President may be better advised to stay back at home and address the vexed question of Governance Justice given that precious little of this is reflected in his administration. That includes the decision to peremptorily sack a Minister of Sports who spoke hard and fast on gargantuan corruption in the country’s apex cricket regulatory body.
-
-That dismissal was justified on the basis that the Minister in question had publicly spoken out on matters that should have been discussed internally in the Cabinet.
-
-Nevertheless, the Sri Lankan electorate has been unimpressed by these acrobatic twists and turns, attributed to the malign influence of a few and contrary to the public interest. The mood on the street is clearly ugly, turning towards an even more deep-seated rejection of the ruling political establishment beyond the ‘Aragalaya’ (protest) of last year. Then, it was spontaneous anger combined with an idealistic demand to ‘send the crooks home.
-
-What is surfacing now is deadlier and vastly unpredictable in form. Even so, this does not seem to perturb the President and his loyalists who rest secure in a net of ever growing draconian laws aimed at stifling and punishing dissent while encouraging corruptors.
-
-But no nation in the world has ever been able to govern its angry electorate through repression alone. That lesson of history appears to have singularly escaped their attention.
-
-That apart, it must be reiterated that issues emanating from the November ruling of the Supreme Court must be looked at in a manner that transcends partisanship. There is little doubt that the 2015-2019 Sirisena-Wickremesinghe ‘yahapalanaya’ coalition’s corruption scandals including the Central Bank bond scam, relaxing rigorous exchange control restrictions and increasing the country’s vulnerability through foreign borrowings formed part of the unhappy backdrop to the 2022 financial collapse.
-
-However, the Court had been moved on a different question in this instance, namely whether specific acts of the Rajapaksa regime in managing fiscal and monetary discipline had been so arbitrary and unreasonable as to violate the Constitution. That question was answered by the majority in the positive.
-
-Differing however, the minority ruling concluded, inter alia that the impugned policy decisions were not grossly arbitrary as to occasion a rights violation.
-
-The majority’s assessment took into account, the Government’s summary ignoring of frequent warnings of impending disaster from early 2020 onwards, made worse by sweeping politically motivated tax reliefs by the Gotabaya Rajapaksa Presidency. These reliefs were judicially observed to have been decided without consultations or discussions with the Central Bank or the Monetary Board.
-
-The Government also failed to consult with the International Monetary Fund (IMF) despite an ongoing Extended Fund Facility (EFF) in regard to which, however, the Government had failed to request the release of the last tranche due in April 2020. Indeed, there seemed to have been a significant gap in deciding whether, in the first instance, to continue with the EFF or not.
-
-In the context of the impending serious economic crisis, that failure was deemed by the majority Bench to be ‘irrational and arbitrary.’ The Government had also disregarded warnings by the IMF regarding an impending problem of serious debt sustainability. Further, then Governor of the Central Bank Professor WD Lakshman had formally reported not once but several times as required under the Monetary Law on the perilous state of the pandemic impacted Sri Lankan economy.
-
-Those reports were submitted to (then) Finance Minister Mahinda Rajapaksa and (later) Basil Rajapaksa. ‘Confidence and appetite for Sri Lanka’s equity and bond markets’ had deteriorated (see at page 79). Continuous downgrading by international rating agencies became marked.
-
-It was a true vicious circle with calamitous consequences for the country. By mid July 2021, those warnings had become shrill if not hysterical. Gross official reserves had depleted to a ‘critical’ level.
-
-This was projected to deplete further ‘without any further significant foreign exchange inflows in the pipeline’ (see at pages 84-85). Earlier, relevant committees of the Monetary Board had already recommended immediate engagement with the IMF. That was pointed out to be imperative given that this was the ‘first timethat
-
-reserves had declined below USD 5 billion since 2009 (at page 81).
-
-Even so, officials and political leaders of the time persisted in emulating the proverbial ostrich by burying their heads in the sand, (this, by the way, is a linguistic excess not found in the ruling), until it was far too late.
-
-In the wake of this ruling, we need sustained debates examining how decades long established fiscal and monetary systems of accountability collapsed like a pack of cards. That must be examined against new laws and policies that are supposedly meant to guard against the repeat of such a disastrous scenario.
-
-Certainly that critical public focus would be more constructive (albeit require more effort) rather than screaming to the heavens to criminally  ‘lynch’ the Rajapaksas or any other as the case may be.
-
-## The  Persecution of Mohammed  Ramzy for writing a Facebook post urging Muslims to counter alleged racist attacks against their community through an “ideological jihad” (struggle) using the “pen and keyboard.”
-
-*2023-12-02 00:36:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83227)*
-
-In April 2020, the Criminal Investigation Department (CID) arrested Mohamed Razeek Mohamed Ramzy at his home in Katugastota for violating the International Covenant on Civil and Political Rights (ICCPR), among other charges.
-
-His crime was to have written a Facebook post urging Muslims to counter alleged racist attacks against their community through an “ideological jihad” (struggle) using the “pen and keyboard.”
-
-Today, free and exonerated by the Supreme Court (SC), Mr. Ramzy, a poet and social media activist, reflects on that painful period and the permanent scars it left on him, his wife, and their two teenage children. “I suffered so much,” he said in an interview with the Sunday Times. “And my family suffered a lot, too.”
-
-Asked if he regrets using the word ‘Jihad’ in his post, which became contentious–and whether he would have phrased the post differently–he said, “I don’t think it’s necessary to change anything about the post. I only need to change something if it’s wrong.”
-
-“I used the word ‘Jihad’ because I wrote that post for the Muslim community,” he maintained. “So, when I address them I should allude to things understood by Muslims, not writing like a plain report. We use poetic words and language from our literature.”
-
-On November 14, this year, the SC held that the fundamental rights of Mr. Ramzy had been infringed. It also determined that by posting the impugned message on the social media site, he had not committed any offence under the ICCPR Act, the Penal Code or the Computer Crime Act—the three laws under which the arrest and detention were carried out.
-
-By then, indelible damage had already been inflicted. In the days following the controversial post, Mr. Ramzy received anti-Muslim hate messages and threats to his life. He complained to the police. It elicited neither a response nor protection. The same evening, he was arrested. He spent the next five months and
-
-eight days in remand. In September 2020, he was granted bail.
-
-Following his arrest, Mr. Ramzy was brought to Colombo and kept overnight at the CID headquarters, where he claims he was beaten by assailants who insulted Allah and shouted, “You tried to declare war on us.” He was produced before a magistrate the next day and placed on remand, where his health deteriorated.
-
-Mr. Ramzy has rheumatoid arthritis, a condition that forced his early retirement as an interpreter for the Agriculture Department. “Because of my ailment, sleeping on the cement floor with no pillows was very painful,” he said. “It was so crowded that some prisoners slept in the toilets, and others even stood.”
-
-Even using the restroom became a hurdle, as the prison only had squatting pans. Within two months, Mr. Ramzy was treated at the prison hospital for ulcers on his legs. “They only gave me painkillers and dressed my wounds,” he said. “The staff claimed they didn’t have the medicine I needed, and since it was Corona time, my family could not continue sending my arthritis medication.”
-
-Another time, while being rushed by prison guards to attend an online meeting with the magistrate, Mr. Ramzy slipped and injured his arm. “My arthritis makes me slow to get ready, but I was forced to hurry,” he said. “I just put up with the pain through the meeting.”
-
-The doctors did not take x-rays until a week later, he claims. They discovered that his arm was fractured: “Still, they did not treat it properly, and it remains deformed to this day.”
-
-COVID-19 was particularly harsh for remand prisoners. Regulations restricted visits. Mr. Ramzy met his family occasionally but maintains that, for the duration of his detention, he didn’t see his lawyers even once. While he did speak with the magistrate via the Internet, watchful prison guards prevented him from speaking freely about the conditions he experienced in custody. The experience has left him with depression, he says.
-
-“Everyone is treated badly in remand,” he related. “But the guards targeted me psychologically, calling me ‘ISIS karaya’ and treating me like a terrorist.” Outside prison, his family, too, were treated like terrorists.
-
-Mr. Ramzy’s daughter was 16 when he was detained. She did her o/levels while her father was in remand prison. She was fearful of getting attacked, so she avoided travelling or attending tuition classes.
-
-“Even after being granted bail by the High Court, friends feared speaking to us, and some neighbours looked at us like we were terrorists,” said Mr. Ramzy. “My reputation was tarnished.”
-
-In addition to the psychological toll, his family suffered financial hardship. His early retirement and consequent small pension meant that, without his supplementary freelance work, daily expenses were hard to meet. To this day, they have not recovered.
-
-“Nowadays, I get less work,” Mr. Ramzy explained. “And typing is difficult because of the arm and the worsening arthritis.”
-
-He maintains that his arrest was targeted harassment, not based on any genuine belief that he had broken the law. (The SC observed in its judgment that there was now a greater trend of people being incorrectly arrested and detained).
-
-“They knew the magistrate would not be able to grant me bail under ICCPR,” Mr. Ramzy said. “That way, they could keep me inside for at least six months.” Even after receiving bail, the case stretched on for three more years.
-
-The SC judgment held that, in arresting and detaining him, CID officers had used sections of the ICCPR, the Penal Code and the Computer Crimes Act as “weapons” and “taken action that amounts to punishment”.
-
-Mr. Ramzy had petitioned the court for Rs. 10 million in compensation. The judgment ordered the State to pay him Rs. 1 million in compensation. The Officer-in-Charge of the Computer and Forensic Training Unit and the CID Director were instructed to each pay him Rs. 30,000 out of their personal funds.
-
-The relatively small compensation is primarily symbolic, he reflects: “Nevertheless, I am very pleased. The judgment will be useful for everyone. Police will hesitate before arbitrarily detaining people.”
-
-Today, Mr. Ramzy continues working as a freelance interpreter, social media activist and civil society member. He works for organisations like the Action Committee for Freedom, Art and Expression and writes on topics close to his heart.
-
-Have his experiences made him afraid to be vocal? “I will keep doing my part,” he responded. “At least for the next generation, we must bring about change in our country and society.”
-
-## Recent Arrest of 10 Persons by Sri Lankan  Police Under the “Draconian” Preventionof Terrorism Act  Sparks Concern among Tamil MPs, Human rights activist and International Agencies Including UN.
-
-*2023-12-01 21:51:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83224)*
-
-Recent arrests made by Sri Lanka police using a controversial anti-terrorism law, whose repeal remains a key demand of rights defenders in the island nation, has sparked concern among Tamil legislators, activists, and international agencies including the UN.
-
-In a post on social media platform ‘X’ on Friday, Tamil National Alliance parliamentarian Shanakiyan Rasamanickam said: “Govt is not genuine in its reconciliation efforts. So far 10 individuals have been arrested under the PTA [Prevention of Terrorism Act] in Batticaloa this week. Amongst the arrested is a woman, student and a politician. The most ridiculous arrest is of a bakery employee for selling a cake. #repealPTA”.
-
-He was referring to the arrests made around ‘Maaveerar Naal’ [Heroes’ Day], marked earlier this week, by Tamil families to remember Liberation Tigers of Tamil Eelam (LTTE) cadre who died in the country’s civil war.
-
-Tamil media reported that the police, in districts across the Tamil-majority north and east, tried to obtain a ban on the remembrance events, in the run-up to the scheduled commemorations. In its editorial on November 28, 2023, Tamil daily Virakesari noted that government authorities’ attempt to seek a ban on ‘Maveerar Day’ commemorations was “wrong”. “Families have a right to remember those who died in the war…preventing that is a violation of a basic human right,” it said. Reports pointed to disruption by the police, although there was no ban on the events.
-
-Mr. Rasamanickam, who represents Batticaloa district in Parliament, pointed to the government’s “double standards” in allowing commemorations. “If the JVP [Janatha Vimukthi Peramana, which led two armed insurrections against the State] can commemorate its leader and members at public events in Colombo, why can’t families in the north and east remember their sons or daughters who were part of the LTTE?
-
-Regardless of whether we agree with someone’s political ideology or not, we must respect everyone’s right to remember their loved one,” he told The Hindu, adding that “memorialisation is part of the healing process.”
-
-Meanwhile, the arrests under the PTA over the last few days have triggered much concern, especially among rights advocates and the international community.
-
-The PTA was enacted in 1979, during President J.R. Jayawardene’s time in office, mainly to crush Tamil youth’s armed struggle against state discrimination. It became a permanent law in 1982. Modelled on South Africa’s Apartheid-era legislation and British laws against Irish militancy, the PTA’s provisions are considered “draconian” by human rights defenders.
-
-The law was also used against insurgent Sinhala youth during the second JVP uprising in the late 1980s, and more recently, against Muslims, in the wake of the Easter Sunday terror attacks of 2019.
-
-In a post on ‘X’, the office of the UN Human Rights chief said: “We are concerned by recent arrests in Northern & Eastern Provinces under Prevention of Terrorism Act, which runs counter to Govt’s promised moratorium on use of the law that violates human rights obligations & should be repealed.”
-
-Colombo-based missions of the United States, United Kingdom, European Union and Canada, too voiced concern. The Sri Lankan government attempted to draft a new terrorism law that, it said, would be in line with international standards. However, legal experts and rights defenders have termed the draft regressive.
-
-## Many see Henry  Kissinger  as the arch-exponent of an amoral realism that tarnishes America.More disturbingly, he was willing to see tens of thousands of people killed if he thought that the national interest demanded it.
-
-*2023-11-30 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83217)*
-
-For someone who promoted his own views so tirelessly, Henry Kissinger was surprisingly misunderstood. Many see him as the arch-exponent of an amoral realism that tarnishes America. Sure enough, like any diplomat, he lied for his country (and occasionally himself). More disturbingly, he was willing to see tens of thousands of people killed if he thought that the national interest demanded it. Yet what distinguishes Mr Kissinger, who died this week aged 100, was not only his realpolitik, but the fact that his practice of diplomacy was also shot through with idealism. It is a style that still holds valuable lessons today.
-
-The would-be Kissingers in the Biden White House (and they exist) confront some daunting challenges. The rivalry between China and America is increasingly poisonous. Bitter wars rage in Ukraine and Gaza. Political divisions are tearing apart Western democracies. Hard-to-solve global issues, such as how to curb climate change and minimise the risks of artificial intelligence, are piling up.
-
-Speaking to The Economist in April, Mr Kissinger himself seemed almost overwhelmed. But his central theme cut to the heart of his idealism. His life’s work, he said, had been devoted to preventing a repeat of the wars in 1914-18 and 1939-45 that had destroyed his childhood in Germany and much of the world besides. Today that means keeping the peace between China and America.
-
-His method still bears examination. It starts with dispassionate analysis. In his later years, Mr Kissinger was often criticised for being soft on China. But his concern was to see off the thinking that portrayed it as a rising power like the Kaiser’s Germany, bent on expansion. China, he countered, saw the rules-based order as America’s rules and America’s order. It wanted room to adjust, not to overturn the system altogether.
-
-Dispassionate analysis leads to Mr Kissinger’s next prescription, to live and let live. Drawing on his study of 19th-century European diplomacy, he argued that stability required states to tolerate each other’s differences. The main threat to peace comes not from realists, he thought, but from zealots and proselytisers who are quick to condemn and who demand change over a point of principle. Hence Mr Kissinger recommended that China and America talk, quietly at first, to build trust and that they avoid issues, like trade and Taiwan, where differences are unbridgeable.
-
-Analysis and tolerance are fortified by Mr Kissinger’s call for military deterrence. America’s assessment of China may be wrong or it may go out of date. The attempt to co-exist could founder. If so, what ultimately keeps the peace is the threat of war and the willingness to carry it through.
-
-Mr Kissinger’s many critics hold him responsible for an orgy of killing in Cambodia and Bangladesh in the 1970s, as well as for helping topple elected governments. He retorted that everything had to be subordinate to peace between America and the Soviet Union. The idea that he was acting out of necessity is a sweeping and unknowable claim. However, as the world’s reaction to Israel’s strikes on Gaza shows, his readiness to sacrifice human life in the search for stability would probably be seen as intolerable today.
-
-In other ways, too, Kissingerian diplomacy is harder now than when he was shuttling around the Middle East as secretary of state. Secret back-channel meetings end up being plastered on TikTok. The world cannot so easily be ordered according to a hierarchy of Soviet- and American-backed allies and clients. It is multipolar. For all that, it would be a pity if Mr Kissinger’s vision of diplomacy died with him. A dangerous world sorely needs his grasp of the subtle interplay between interests, values and the use of force. The search for stability must go on without him. ■
-
-## Henry Kissinger’s  style was to work outside the official machinery of the State Department and the foreign service, which he thought had sapped American diplomacy of its vigour and creativity.
-
-*2023-11-30 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83211)*
-
-Early in june 1970, soon after America had invaded Cambodia, Henry Kissinger secretly visited Brian McDonnell, a 27-year-old peacenik he had spotted in Lafayette Park opposite the White House. It was one of his many efforts that year to persuade his younger critics that they should give war a chance.
-
-As with so many others, he failed with Brian, but they stayed in touch. While Richard Nixon sulked in the West Wing, his national security adviser and the long-haired activist would meet from time to time to talk about the war and the philosophy of Kant, struggling, Mr Kissinger wrote, “to fashion at least a temporary bridge across the mutual incomprehension”. He never lost the belief that he could win over his critics. And not just the movers and shakers, but also those far from the cover of Time and out of range of the Oval Office microphones. By arguing and arguing some more, he was asserting that he belonged and that he counted.
-
-He had started as an outcast, growing up in pre-war Germany among people who despised and rejected him for being a Jew. The Nazis sacked his father from the public high school in Fürth, near Nuremberg. His mother was the first to grasp that the “Hitler State” held no future for her children.
-
-In 1938, 15-year-old Heinz, as he was then, fled to America with his family. He never shed the accent; his voice, like gravel in a goldfish-bowl, added deeply to his seriousness. But his younger brother Walter learned to speak like a regular American, claiming later to be “the Kissinger who listens”.
-
-Even his detractors admitted he had a brilliant mind. His undergraduate thesis was so profuse, at 383 pages, that it supposedly led Harvard to introduce the “Kissinger rule”, limiting students to less than half that length.
-
-His doctorate examined how diplomacy sustained stability in Europe for the best part of a century after Napoleon’s defeat. When he entered Nixon’s administration 15 years later, the insights he had gained from studying Castlereagh and Metternich would help him grapple with the roiling ambitions of the United States and the Soviet Union.
-
-His style was to work outside the official machinery of the State Department and the foreign service, which he thought had sapped American diplomacy of its vigour and creativity. “Back-channels” with the Russians, the Chinese and just about everyone else suited Nixon’s taste for conspiracy. And they suited his own yearning to be at the centre of the action, pulling the strings.
-
-Of course, deception played a useful part, in big matters as well as small. When his team grumbled that they had no dining privileges at the White House, he let them think it was all the chief of staff’s fault. In fact, it was his own idea. He didn’t want his people forging links over lunch with useful contacts outside the National Security Council. Although he was too clever to lie outright, he led people astray. Shimon Peres, an Israeli sparring partner, admiringly called him “the most devious man I have ever met”.
-
-Never did he fall into Castlereagh’s trap of losing his self-belief. He cut ties for a while with Walter Isaacson over his wretched book, with its psychologising and its cheap gibe that Dr K surely felt that even his own three-volume autobiography did not quite do justice to his achievements.
-
-Plenty of aides may have left his service, but many stayed loyal because on the most important questions of the day he was not only penetrating, but he also let them have their say. And nowhere did he face more questions than the realignment of American foreign policy amid the ruins of the Vietnam war.
-
-By 1972, America was vulnerable: humiliated abroad and divided at home. His answer was to exploit growing antagonism between the Soviet Union and China to create a new equilibrium in which each looked to America to bolster its position.
-
-Later, he shuttled between Egypt and Israel to supplant the Soviet Union with America in the Middle East. It was a piece of statecraft worthy of his 19th-century heroes. He had put America back in the driving-seat just when everything was against it.
-
-What thanks did he get? The doubters and intellectuals said he had sacrificed America’s principles and over a million lives. He had fought on in Vietnam and taken the war to Cambodia and Laos for the sake of American “credibility”. He had blessed a Pakistani genocide in what became Bangladesh, because Pakistan was helping him with China. He had plotted coups and assassinations in Chile and an insurgency in Angola, because he thought countries would fall like dominoes to Soviet plots.
-
-When he won the Nobel peace prize in 1973, Christopher Hitchens, a British journalist, said he should have been tried for war crimes—and the charge stuck.
-
-He was comforted that this was the minority view. Magazines and tv hosts laughed at his jokes and feted him as “Nixon’s secret agent” and “the Super Secretary”. He took pains to be photographed with beautiful women. If anyone belonged in the pantheon of Washington power-brokers, it was the boy from Fürth.
-
-Despite his relentless efforts, though, the criticism endured. It was bad enough that the left condemned him as immoral, but the right came to see his desire to engage with China and Russia as suspicious, un-American, values-free realpolitik. None of them grasped that his overriding goal was to avoid at any cost a world war like the one that had driven him out of Germany.
-
-And so that burst of diplomacy in 1969-77 was the only time he served in government. No Kissingerian foreign-policy machinery remained when he left. He went on to make a fortune and was everyone’s idea of an elder statesman. In China he became a superstar.
-
-In his late 90s he collaborated on books about the qualities of leadership and about the dangers of artificial intelligence, which he worried would be the end of the Enlightenment. It was as if he now saw himself as the wise guardian of human civilisation. But in the innermost sanctum of American power, where he most craved to be, he never again quite belonged. ■
-
-## President Ranil Wickremesinghe is a Colombo. Resident. Before Making Colombo an “Entertainment Hub”,he should be aware of the numerous issues that not only the residents of the city face but also thousands who come to the city every day.
-
-*2023-11-30 00:25:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83204)*
-
-(Text of Editorial appearing in the “Daily FT”dated 30 November 2023  under the heading “Get basics right first in Colombo city before envisioning  entertainment hub)
-
-President Ranil Wickremesinghe announced plans this week to make Colombo an “entertainment hub.” Any plan to make the country’s metropolis a more liveable city and make it tourist-friendly is welcome.
-
-Colombo has seen a rapid change in the past decade with the addition of high-rise buildings being the most visible among them. These buildings have altered the face of Colombo, particularly the sea facing areas and has attracted many new residents to the country’s commercial capital.
-
-Along with them have come the high-end shopping malls, cinemas, restaurants, etc. all intended to attract high spending tourists, both local and foreign. While the focus of any visitor to Colombo is on these new shiny structures, there are many areas in the city that are grossly neglected and have been so for years.
-
-Colombo is not a city of the rich, but it is a city of the poor. It is the city that thousands of Sri Lankans flock to each working day to make a living, to Government offices, to hospitals, to schools and universities. But while successive governments have always rolled out plans to attract tourists, little focus is placed on making the city a safer, cleaner, more people-friendly place for the thousands of residents and others who come there every day.
-
-Take the country’s biggest hospital zone located in Colombo that encompasses the National Hospital including the Cardiology Unit, the De Soysa Maternity Home, the Eye Hospital, Dental Institute, the Health Ministry and numerous other institutions that come under it. The area is also home to several big private hospitals, laboratories, pharmacies, etc. Thousands of people from across the country visit these places for their medical needs and any visitor to the area on a weekday can clearly see the lack of basic facilities for them.
-
-There are no proper pedestrian walks or crossings, the roads are full of potholes and open drains pose a danger to the lives of people. It’s a common sight to see patients being wheeled on wheelchairs and stretchers along the road as they get transferred from one hospital to another along the uneven, bouncy roads which will make any patient’s conditions worse than it already is. There are few waiting areas for family members or others accompanying patients to rest while on rainy days there is no place to shelter.
-
-One can only shudder at the plight of a disabled person who tries to navigate these areas as they come to seek medical facilities if they don’t have the luxury of being driven to a hospital or afford a taxi or have someone to accompany them.
-
-The problems afflicting the hospital zone in Colombo is just a snapshot of what ails the country’s commercial capital. There are many neglected areas in Colombo other than this area. The Colombo Municipal Council (CMC) has failed miserably to deal with such issues and most of its plans to give the city a facelift have been cosmetic. The same is true of efforts by the Urban Development Authority (UDA) and its line ministry.
-
-President Ranil Wickremesinghe is a resident of Colombo. He has contested from Colombo since entering politics and should be aware of the numerous issues that not only the residents of the city face but also thousands who come to the city every day.
-
-While entertainment hubs sound good, it’s a better idea to start with a properly designated hospital zone by making it a pedestrian/patient friendly area by curtailing the number of vehicles entering it, better recreational facilities, public toilets, and other basic facilities. Such facilities are not for entertainment purposes but will lessen the burden on the overburdened people of this country. It’s the least the Government can do for its citizens. Step-motherly treatment for its own citizens is not something that should be tolerated any longer.
-
-## US Justice Dept Files Indictment against Indian National Nikhil Gupta  Over Alleged Conspiracy to Assassinate US Citizen Gurpatwant Singh Pannun; Senior  Indian Intellige Official Suspected of Masterminding Plot to kill Sikh Activist Pannu on US Soil
-
-*2023-11-29 00:54:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83201)*
-
-India has set up a “high-level” enquiry committee to look into allegations made by the United States government regarding an Indian plot targeting Gurpatwant Singh Pannun, a U.S.-based Khalistani activist wanted on terror charges, the Ministry of External Affairs (MEA) announced here on Wednesday.
-
-The explosive allegations, contained in a U.S. Department of Justice indictment that was publicly released on Wednesday, accuse a senior Indian intelligence official, as yet unnamed but referred to as CC-1, of masterminding the assassination plot. The indictment alleges that the official enlisted an individual named Nikhil Gupta to hire a hit man with an advance payment, and also suggests that the Gujarat Police dropped criminal charges against Mr. Gupta at the behest of the Indian intelligence official in order to facilitate the contract killing.
-
-It also claims that there is a link between the alleged plot against Mr. Pannun and the plot to kill Hardeep Singh Nijjar, which Canada has accused Indian government agents of masterminding.
-
-“The defendant [Nikhil Gupta] conspired from India to assassinate, right here in New York City, a U.S. citizen of Indian origin who has publicly advocated for the establishment of a sovereign state for Sikhs, an ethnoreligious minority group in India,” U.S. Attorney Damien Williams said, in a press release issued by the office of the U.S. Attorney for the Southern District of New York. “We will not tolerate efforts to assassinate U.S. citizens on U.S. soil, and stand ready to investigate, thwart, and prosecute anyone who seeks to harm and silence Americans here or abroad,” Mr. Williams added.
-
-Nikhil Gupta was arrested in the Czech Republic on June 30 and is being held pending extradition procedures to the U.S., the release said.
-
-The indictment had been referenced in a report by U.S. newspaper The Washington Post on Wednesday, which said that the U.S. allegations have been raised at the most senior levels, including by the U.S. President, U.S. Secretary of State, the National Security Advisor, and the Central Intelligence Agency chief, between June and October this year.
-
-The U.S. allegations, according to reports first published by the U.K.-based Financial Times, predate the allegations made by the Canadian government on the killing of Canada-based Khalistani activist Hardeep Singh Nijjar, which India had earlier denied and called “absurd”. Officials did not say whether the U.S. indictment would make India re-examine the Nijjar case as well, but they indicated that the government was aware of the details contained in the indictment.
-
-According to the MEA, the high-level enquiry committee was set up on November 18 this year, four days before the UK-based Financial Times first published its report saying that the U.S. had “warned” India about “concerns” that the government “was involved in the plot”.
-
-While the MEA has not referred specifically to the allegations that government operatives were involved, it said that the U.S. had shared “inputs” on a “nexus between organized criminals, gun runners, terrorists and others”, which the government is investigating. MEA officials did not respond to a question on which “other” elements had been named.
-
-“India takes such inputs seriously since they impinge on our national security interests as well, and relevant departments were already examining the issue,” MEA spokesperson Arindam Bagchi said in the response released on Wednesday. “Government of India will take necessary follow-up action based on the findings of the Enquiry Committee,” it added, without indicating which agency or officials would lead the “high-level enquiry”.
-
-According to the indictment filed by the U.S. Attorney for the Southern District of New York, the unnamed Indian official was a “Senior Field Officer”, with responsibilities in “Security Management” and “Intelligence,” and had communicated with Mr. Gupta from May 2023, asking him to help arrange Mr. Pannun’s murder.
-
-“CC-1 was employed at all times relevant to this Indictment by the Indian government, resides in India, and directed the assassination plot from India,” the indictment says. It contains detailed accounts of the telephone communications between “CC-1” and “Gupta”, including hiring a hit-man on the promise of a final payment of up to $150,000 for the killing, and sharing details of Mr. Pannun’s whereabouts as well as his residence location.
-
-The communications quoted even said that, in June, when Prime Minister Narendra Modi was due in Washington for a State visit, Mr. Gupta was told to “calm everything” for about 10 days, but otherwise was told to organise the “execution” at the earliest possible date.
-
-In addition, the indictment clearly links the Indian official to the Nijjar killing in Canada on June 17 this year, saying that the official had sent Mr. Gupta a video of the Nijjar killing, claiming that Nijjar was one of “many targets” for Indian covert operations.
-
-Mr. Pannun, the founder of Sikhs for Justice (SFJ), is wanted in India for propagating a separatist “Sikh referendum” in several countries. He most recently issued a threat against Air India flights. Despite India’s designation of Mr. Pannun as a terrorist under the Unlawful Activities (Prevention) Act in 2020, the MEA did not confirm whether it had demanded his extradition to India.
-
-When asked about the allegations of an assassination plot, Mr. Pannun told the U.S.-based Time magazine that it was a “challenge to American sovereignty”. He said that he believed that “the Indian government and the Modi regime want to kill” him for “running the global Khalistan referendum voting campaign”. Another such “referendum” vote is set for January 26, 2024.
-
-The Indian government’s reaction to the U.S. government’s allegations regarding Mr. Pannun, including the establishment of the high-level enquiry committee, is in stark contrast to the reaction to the allegations made by the Canadian government over Nijjar, which included the expulsion of two-thirds of the Canadian High Commission in India.
-
-According to India’s High Commissioner in Ottawa, India’s reactions differed due to the manner in whichthe allegations were made; Canadian Prime Minister Justin Trudeau announced them in Parliament, whereas the U.S. leadership made its concerns known more discreetly.
-
-In an interview to Canadian TV this week, High Commissioner Sanjay Kumar Verma also said that the U.S. inputs were “legally presentable”, whereas the Canadian inputs contained “no specific or relevant information for [India] to look into”.
-
-## Sri Lanka has reached an “agreement in principle” with India and the Paris Club group of creditors including Japan, on a debt treatment plan; Lenders  ‘expect’ transparency from ‘other bilateral creditors’ alluding to China
-
-*2023-11-29 00:45:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83199)*
-
-Sri Lanka has reached an “agreement in principle” with India and the Paris Club group of creditors including Japan, on a debt treatment plan that will help the crisis-hit island nation tap the next tranche of the International Monetary Fund’s nearly-$3 billion recovery package.
-
-“The OCC [Official Creditor Committee] and Sri Lanka agreed on the main parameters of a debt treatment consistent with those of the Extended Fund Facility (EFF) arrangement between Sri Lanka and the IMF,” the Paris Club said in a statement on Wednesday. While the statement did not spell out the parameters, the OCC said it “stands ready and looks forward to formalising” the agreement in the coming weeks in a Memorandum of Understanding with Sri Lanka.
-
-At the height of last year’s crippling economic crisis, Sri Lanka decided to default on its nearly $51 billion foreign debt. A comprehensive restructuring of loans became necessary to begin an economic recovery programme backed by the IMF. Major lenders formed the OCC in May 2023 in response to Colombo’s request for debt treatment. It is co-chaired by India,
-
-Japan, and France, as chair of the Paris Club. The Committee has held several discussions with Sri Lankan authorities over the last few months, evaluating possible options in recasting Colombo’s outstanding debt, such as altering the interest payments or the terms of the loans. China, Sri Lanka’s largest bilateral creditor, has opted to stay out of the platform, but has attended the meetings as an observer.
-
-Japan and India, Sri Lanka’s other two major lenders, have repeatedly emphasised the need for creditor parity and transparency.  In an apparent reference to China, the OCC on Wednesday noted that it expects “other bilateral creditors” to consent to “sharing, in a transparent manner, the information necessary for the OCC to evaluate comparability of treatment regarding their own bilateral agreement.”
-
-The OCC further asked Sri Lanka to continue to engage with its private creditors — who hold the largest chunk of the island’s foreign debt — and swiftly firm up “an agreement on terms at least as favourable as the terms offered by the OCC”.
-
-The IMF, on reaching a staff-level agreement with Sri Lanka October 19, 2023, after its first review of the External Fund Facility, said it had taken note of “a tentative agreement” between Sri Lanka and the Export-Import Bank of China, and that it looked forward to “analyzing the details”. Securing an agreement with official creditors on a debt treatment plan consistent with the Fund’s debt targets was “the critical next step”, the Fund said, indicating that the next instalment of the IMF package was contingent on it.
-
-China has assured Sri Lanka of cooperation in y:the debt restructuring process and Sri Lanka has, in turn, assured other creditors of China’s transparent participation, but the specifics of the possible debt treatment plan are awaited.
-
-## President Wickremesinghe characterised the Constitutional Council (CC) as being ‘part of the executive’. Undeniably, the CC was established to check executive power and  not to act as an executive appendage.
-
-*2023-11-25 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83190)*
-
-President Ranil Wickremesinghe’s highly inappropriate jocularity in Parliament this week when commenting about the ‘Public Trust’ Doctrine only reinforces the (unfortunately) pejorative stamp of his Presidency as undermining the Constitution.
-
-Mind, this is not in the typically crude sledgehammer style of Medamulana rule but more subtle and hence far more dangerous.
-
-The President alleged that the Opposition Leader’s refusal of former President Gotabaya Rajapaksa’s offer to take the Presidency last year in the wake of unprecedented public anger against the Rajapaksas, was a breach of Public Trust.
-
-‘Where does this (ie; Public Trust) end?’ the President caustically asked. This was an obviously sneering aside to the Supreme Court ruling earlier this month referencing the breach of Public Trust by the Rajapaksa ruling coterie and its supporters who catastrophically mismanaged the country’s monetary and fiscal policy from 2020/2021.
-
-That was held by the Court to have directly contributed, (by commission and by omission), to Sri Lanka’s painful bankruptcy.
-
-That extraordinary crisis from which the country is still struggling to extricate itself, has precipitated large segments of the populace into penury, led to the breakdown of the public health and education systems resulting in thousands fleeing its shores.
-
-Not satisfied with that aside, the President went on to say that if he is not given the ‘support’ that he needs at this critical juncture, that again violates the Public Trust.
-
-But such frivolity is both unseemly and imprudent. The core components of the majority Supreme Court ruling is far from what the President mockingly reduces it to.
-
-Public Trust is not a question of a Presidential demand for ‘public support’ or finding fault with the Opposition Leader’s decisions as the case may be.
-
-In fact, this cursory treatment of an important legal doctrine going to the heart of political accountability is a reflection of how little Sri Lanka’s leaders regard the Rule of Law. President Wickremesinghe would do well to refresh his memory on the manner in which the doctrine of Public Trust had been painstakingly developed as an expansion of judicial review of executive and administrative action from the early 1990’s.
-
-Certainly this is not a new jurisprudential graft on judicial thinking of the apex court and he is not the first President challenged therein.  On the contrary, the doctrine forms a bedrock of jurisprudence based on public law principles read with Article 12 (1) ensuring the equal protection of the law.
-
-Its core warning is that discretions and powers vested in those wielding executive and administrative office cannot be ‘absolute, unfettered and unreviewable.’
-
-Through decades, (I must add, when the Court was propelled by its conscience as opposed to political ambition of a few judges), the doctrine has been judicially employed to reprimand constitutional violators for capricious, arbitrary and unreasonable exercise of power.
-
-This has ranged from giving relief for citizens affected by land acquisitions, compensation for evictions, appointments and dismissals and the corrupt exercise of political power.
-
-In the instant decision, the Court’s majority reasoning meticulously examines the various factors that led to the country’s financial collapse. Particularly pivotal were the 2019 tax revisions of the Gotabaya Rajapaksa Presidency which had been justified by the respondents as ‘re-engineering’ the tax system, creating a positive environment to spur business growth despite enormous loss of revenue.
-
-In dismissing that explanation, the Court observed that legislation to that effect had been introduced only in mid 2021 even though, by that time, it was patently clear that such a positive impact had not been evidenced. Instead, an ‘unmanageable budget deficit’ had been created and the country’s credit ratings had been lowered by ratings agencies.
-
-This in turn led to the ‘loss of access to capital markets at reasonable costs which resulted in the drying up of foreign exchange inflows (see at page 74).
-
-Remedial measures were imperative but not taken. These failures had a domino effect on the economy, which finally collapsed. Even so, the response by the Government of the day had been ‘confrontational’ with the Ministry of Finance and the Central Bank refusing to accept the downgrading. This was, in the Court’s view, both irrational and unreasonable, breaching the Public Trust reposed in the (then) President, Prime Minister, Finance Minister and the Secretary to the President.
-
-That same gross negligence was demonstrated in seeking assistance from the International Monetary Fund (IMF) and in not properly assessing the fact that a so-called ‘homegrown solution’ would not be viable to resolve serious economic ills. ‘The sudden departure or deviation from commitments with the international organisation had resulted in consequences detrimental to the country’ the Court observed (see at page 78).
-
-Even so, the attack on the ‘Public Trust Doctrine’ was not the only constitutional fracas that arose vis a vis the President’s remarks in the House. Firing on all guns as it were, President Wickremesinghe also characterised the Constitutional Council (CC) as being ‘part of the executive’ and claimed that it was ‘sabotaging’ the appointment of a new Inspector General of Police (IGP) and judges to the superior courts.
-
-For good measure, it has been proposed to appoint a Parliamentary Select Committee to ‘examine’ the CC’s working. The CC, as initially envisaged in the 17th Amendment, was conceived as a constitutional creature, sui generis in nature, meant to ‘restrict’ Presidential discretion when making appointments to constitutional commissions and key public/judicial offices (SC Determination No 6/2001, Decisions of the Supreme Court on Parliamentary Bills, 1991-2003, Vol VII).
-
-Undeniably, the CC was established to check executive power not to act as an executive appendage. Indeed, this Presidential reduction of the CC places it on par with the discredited Parliamentary Council of the Mahinda Rajapaksa-driven 18th Amendment and the Gotabaya Rajapaksa-driven 20th Amendment. In other words, President Wickremesinghe cannot run with the hare and hunt with the hounds as it were.
-
-He cannot boast that he made a ‘change’ with the 21st Amendment (and earlier with the 19th Amendment) by doing away with the obnoxious Parliamentary Council. And at the same time, reduce the CC to a cipher.
-
-This is not to say that the CC is all that it should be. Far from it. It is deficient in its supposed claim to ‘independence’ in its composition, presided over by the Speaker.
-
-The CC’s procedures in regard to its functioning should also be far more transparent. This has been a long standing problem for several years. That is not rectified by the Opposition Leader’s tabling of the minutes of the CC justifying his position over the still pending appointment of the tenth member to the CC.
-
-But all that does not justify the description of the CC as ‘part of the executive,’ let it be said clearly.
-
-Meanwhile, what is this squabbling over who should occupy front row seats in the House which took up a considerable amount of time with legislators jeering as the President baited the Opposition Leader. Are these matters that should even take up the time of parliamentary business forsooth?
-
-President Wickremesinghe was heard the other day to announce that parliamentary time should not be wasted. Well, it seems as if he is the first offender thereof.
-
-This sort of devilry in the House is to the detriment of the country, the people and indeed, the incumbent holder of the seat of the Presidency himself.
-
-## The  Birth and Growth of the “Maaveerar Naal” (Great Heroes Day) Event.
-
-*2023-11-25 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83174)*
-
-November 27, 1989, was the day on which the Liberation Tigers of Tamil Eelam (LTTE) first observed its annual “Maaveerar Naal” or Great Heroes Day (GHD).   The event continues to be observed in Sri Lanka and  by sections of the Global Tamil Diaspora despite the military debacle suffered by the LTTE in May 2009. The event has lost much of its lustre after the demise of Tiger supremo Veluppillai Prabhakaran.These are days of decline when compared to the manner in which Great heroes day was observed when the LTTE ruled the roost. Nevertheless, commemorating the fallen Tigers as great heroes annually remains an enduring Tiger legacy despite the LTTE being militarily decimated in Sri Lanka.
-
-There is a mystique about “Maaveerar Naal” that has captured the imagination of a very large number of the Sri Lankan Tamil Diaspora. What makes the GHD tick despite the debacle of Mullivaaikkal?
-
-In that context the evolution and growth of the Great Heroes day event makes an interesting study. This writer has in the past written several articles on the topic. This article therefore draws liberally from my earlier writings. Let me begin by tracing in brief the history of this event.
-
-The first ever LTTE member to embrace death in combat was Sathiyanathan of Kambarmalai a northern village adjacent to Valvettithurai, the birthplace of Prabakharan, its leader. Sathiyanathan alias Shankar also known as Suresh died on November 27, 1982.
-
-Incidently, the Sea Tiger special commander Thillaiambalam Sivanesan alias Soosai was married to Shankar’s sister. Soosai is from Poligandy, a coastal village in Vadamaratchy sector. Although Soosai is no more, his wife and children were captured by the Sri Lankan Navy when trying to escape from the Wanni by boat during the last days of the war. The family is now living in Trincomalee under a restricted release order.   Shankar, like Raveendran alias Pandithar, — also of Kambarmalai — was a childhood friend of Prabakharan and one of his earliest recruits. Shankar had gone to Nithiyanandan’s residence in Navalar Road, Jaffna to warn them of a military crackdown on Tamil professionals and intellectuals suspected of being sympathetic towards the LTTE.
-
-Even as Shankar was communicating with Jaffna University Lecturer Muthiah Nithiyanandan and his wife Nirmala, an ex-varsity lecturer who was teaching at a leading Girls School, a posse of soldiers surrounded the house. Shankar managed to shoot his way out of the military cordon but sustained serious injuries in the process. The Nithiyanandans were arrested.
-
-Later Shankar’s condition deteriorated and another senior LTTE member Thalayasingham Sivakumar alias Anton master who later represented the Tigers at the Thimphu talks undertook a perilous, clandestine journey by boat along with the injured Shankar to Tamil Nadu to procure urgent medical assistance for the latter. This was in the pre1983 period when the LTTE consisted only of around 25 to 30 full-time activists and had very few resources, including even wireless communication equipment.
-
-Leaving the grievously injured Shankar in a safe house at Kodiaakkarai, on the coast, Anton went up to Madurai where LTTE chief Prabakharan and some others were staying then. This was the time when Prabakharan was confined by court order to Madurai because of his involvement in a broad daylight shoot out with Peoples Liberation Organisation of Tamil Eelam (PLOTE) chief Uma Maheswaran at Pondy Bazaar in Chennai (then Madras). Thanks to the help rendered by Pazhaniappan Nedumaran, who was then a member of the Tamil Nadu Legislative assembly representing Madurai West, Shankar was brought to a farmhouse belonging to Nedumaran for medical treatment.
-
-The people nursing Shankar in the coastal hideout had ignorantly given a lot of water to quench his thirst. This worsened his condition to a point of no return. Shankar died in Madurai on Prabakharan’s lap mumbling “Thambi, Thambi” (thambi was the endearing term by which Prabakharan was known in the old days), while the visibly shaken and weeping LTTE leader kept stroking his hair. This was one of the few occasions when the latter ever wept in public. Death in combat of a cadre whether immediate or subsequent was a new phenomenon to the LTTE on that day.
-
-Seven years later, in 1989, around 600 LTTE cadres assembled at a secret venue in the Mullaitheevu district jungles of Nithikaikulam on November 27. The occasion was the newly-proclaimed Great Heroes Day or Maaveerar Naal as known in Tamil. This was the time when the Indian Army was fighting the LTTE on behalf of the Sri Lankan government. Thanks to the understanding arrived at between the LTTE and then President Ranasinghe Premadasa, a ceasefire had been declared on September 21, that year.   A withdrawal of troops had been announced in principle. The Indian Parliamentary elections scheduled for December 1989 would determine whether Rajiv Gandhi would be re-elected or not. That verdict would in turn decide the fate of the Indian Army in Sri Lanka. The LTTE leader had in the meantime thought of honouring his dead cadres by observing a unique ceremony called Maaveerar Naal or Great Heroes Day.
-
-The LTTE leader was proud then of the performance of his organisation in having withstood the onslaught of 132,000 troops of the Indian Army. When the Indo-Lanka accord was signed and hostilities ceased, the LTTE had lost 632 cadres in battle. When a cessation of hostilities with the Indian Army was enforced the LTTE had lost a further 711 cadres. Prabakharan wanted to recognise their contribution, honour their sacrifices and pay tribute to their memory in a collective manner. What better way than promulgating a special day? Which better day than the date on which the first LTTE member laid down his life? So November 27 it was.
-
-The first Great Heroes Day was a restricted affair of which the highlight was a highly emotional address delivered extemporaneously by Prabakharan to his enraptured followers. It was at this meeting that Prabakharan uttered his historic pronouncement “If ever Prabakharan betrays the Tamil Eelam cause, you all must kill me”.   This writer saw the video cassette in which the event was recorded. Prabakharan was tracing the history of the LTTE while enraptured cadres listened. At one point, he stated that Tamil United Liberation Front (TULF) Leader Appapillai Amirthalingam was killed by the LTTE. “Amirthalingam had supported Tamil Eelam at one time but later betrayed it. That was why we killed him. Tomorrow, if Prabakharan betrays the Tamil Eelam cause, then you all must kill me. Whoever betrays Tamil Eelam must be killed” the Tiger supremo pronounced then. Subsequently this “scene” was edited out of the video cassette that was widely circulated among the Diaspora.
-
-The 1990s of the last century saw the LTTE controlling the greater part of the northern province and substantial pockets in the eastern province. During this period, the LTTE developed to a great extent, the ceremonial aspect of paying homage to its fallen heroes.
-
-There existed in the martial tradition of the Tamils a concept known as Nadugal Valipaadu which literally meant worshipping the planted stone. Tombstones were erected at the graves of great heroes fallen in battle. These were honoured regularly through special Panegyric rituals.The classical Tamil literary works of the Sangham era are replete with references to this Nadugal Valipaadu concept.
-
-The classical Tamil literary works of the Third ‘Sangham’ (Academy of Poets and Scholars) period are replete with references to this ‘Nadugal/Veerakkal Vazhiipaadu’ practice. The third Sangham period was from the 6th century BCE to the 3rd Century CE. Some of the references to Planted Stone/Hero Stone Worship can be found in the verses of ‘Ahanaanooru’ (35, 53, 67, 131, 289, 297, 343, 365, 387), ‘Puranaanooru’ (221, 222, 223, 232, 261, 306, 314, 329), ‘Aingurunooru’ (352), ‘Pattinappaalai’ (line 79) and ‘Malaipadukadaam’ (lines 388 and 395).
-
-The decline of the Tamil monarchic dynasties along with the advent of Moghul and Nayakkar rule followed by European colonialism saw the martial tradition among Tamils declining and becoming debilitated. The custom of paying homage to heroes fallen in battle became non-existent in an environment where war was virtually unknown for generations.
-
-The advent of the Tamil militant groups in Sri Lanka and the commencement of an armed struggle brought about a change. Now the LTTE went back to the roots of the Tamil martial culture and revived its most potent symbolic and ritual form. A special day to pay homage to Tigers killed in battle was proclaimed as ‘Maaveerar Naal’. Tribute was paid by ritualised observances.
-
-Utilising its control to the maximum of the north and parts of the east during the 1990-1995 period, the LTTE conducted elaborate demonstrations and events as part of observing the “Maaveerar Naal” and “Maaveerar Vaaram” (Great Heroes Week). The week culminated in a grand function on the 27th at a special location attended by Prabakharan himself. With the passage of time, the GHD ceremonies became decentralised. Several observances would be conducted simultaneously but pride of place however was naturally awarded to the one in which Prabakharan participated.
-
-Interestingly the birthday of LTTE leader Prabhakaran was 26 November. Since this day was now within the Great Heroes Week, more importance was attached to it. An outpouring of emotion both genuine as well as sycophantic emerged. Gradually the focus shifted from Great Heroes Day to the leader’s birthday.
-
-Some even thought that Great Heroes Day was to celebrate the leader’s birthday. Soon Prabhakaran acted firmly and clamped down all festive activity connected with his birthday. The week was for the fallen heroes and the red letter day of that week would only be 27 November, the Great Heroes Day, he decreed.
-
-Nevertheless various religious observances were undertaken by followers and well-wishers on 26 November, seeking divine protection and blessings on the man who supposedly personified Tamil resistance to Sinhala chauvinist hegemony.
-
-An important feature of the homage paid by the LTTE to members slain in battle was the construction of several cemeteries called ‘Maaveerar Thuyilum Illangal’ (abodes where the great heroes slumber). In a modern replay of the ancient planted stone/hero stone worship practice, each of the departed cadres was marked by a single tombstone. In most cases the actual body of the dead cadre was not buried at the spot. Most bodies of dead cadres – if and when recovered – were disposed of with honours at the area of combat itself. While these tombstones were laid out in neat rows, a pavilion commemorating them collectively with names and relevant dates was also constructed.
-
-In most cases, the actual body of the dead cadre was not buried at the spot. Most bodies of dead cadres — if and when recovered — were disposed of with honours at the area of combat itself. While these tombstones were laid out in neat rows, a pavilion commemorating them collectively with names and relevant dates was also constructed.
-
-The most touching spectacle of the great heroes day observance was the mass participation of family members at these cemeteries and memorial pavilions. Later G. H. D. ceremonies were observed in foreign cities where substantial concentrations of the Tamil Diaspora lived.
-
-The security forces have demolished many of these “abodes” after seizing territory from the Tigers. These types of action by the security forces have been condemned by many who felt the dead must be respected notwithstanding they were enemy fighters. Also the families of the cadres and relatives would be hurt and angered it was felt.
-
-What must be taken note of is that the LTTE never commemorated or mourned the loss of Tamils who belonged to other Tamil militant movements. The sectarian LTTE did not regard others as fallen heroes. Only LTTE cadres were given that recognition. Families of dead cadres belonging to other movements were not allowed to mourn their loved ones publicly. They could only mourn in private.
-
-As the ethnic conflict continued, the casualty rates also increased. This meant that more and more Tamil families were suffering the losses of their loved ones and becoming grief stricken. Gradually the event became large scale and mass oriented.
-
-This writer has witnessed Great Heroes Day ceremonies held overseas as well as films of functions in Sri Lankan Tamil areas. There is no doubt that the sight of grief stricken emotional outpourings over their loved ones by family members was a profoundly moving one. The families of fallen LTTE cadres were called “Maaveerar Kudumbangal”(Great hero families) and were often given preferential treatment in spheres that came within the ambit of LTTE control.
-
-The LTTE by nurturing this cult of martyrdom achieved many things. It provided those cadres among the living a bond of affiliation with their departed comrades. The cadres got a feeling of reassuring comfort that he or she too would be honoured in similar fashion when dead. The LTTE cadres had fought and died in the belief that posterity would remember and honour their memory and martyrdom.
-
-The GHD observances provided them with the feeling that by sacrificing their lives they would grasp eternity and ensure immortality. Likewise the kith and kin of the departed souls too were gratified that the loss of their loved one has not been in vain. The emotive content of GHD observances also motivated other youths to join the LTTE. The spectacle also inspired the general population in continuing to appreciate the LTTE sacrifices and render support.
-
-The annual great heroes day address by the LTTE leader began to assume great significance and importance over the years. Since Prabakharan was quite reclusive and shunned direct media exposure the GHD appearance became one of those rare occasions where he interacted with the public.
-
-The annual speech was also considered to be something akin to a policy statement by the LTTE. It was dissected by analysts to ascertain what the LTTE leader envisaged for the immediate future. In later years, Prabakharan did not deliver extempore but read from a carefully prepared text usually written by LTTE political adviser Anton Stanislaus Balasingham alias Bala annai.
-
-The setting up of the LTTE’s own radio station “Puligalin Kural” (Voice of Tigers) enabled it to be relayed out. With the development of information technology, the speech was later relayed simultaneously via Internet. The LTTE also had its own “Nitharsanam” TV and GHD proceedings were telecast to the world at large from the Wanni. The emergence of several Tamil broadcasting stations in the western world created a situation where the speech was heard in Tamil homes throughout Europe, Australia and North America. Likewise the acquisition of various television stations by pro-Tiger Tamils enabled wide televised coverage too.
-
-The GHD observances were multi-faceted and diversified. The highlight of the ceremonies was the lighting of candles and torches by those assembled.While people holding these flickering lights lined up and formed an illuminated corridor, a glowing torch was brought in relay form by LTTE cadres in similar fashion to that of the Olympic games.
-
-The flaming torch was then given to the chief guest who then lit a large eternal flame known as Eegai Chudar (Flame of sacrifice) at the Memorial monument. This was followed by the lighting of a myriad lamps and torches making the occasion a festival of lights. Several senior LTTE figures were chief guests at different ceremonies.The flames at various memorials were lit by senior tiger stalwarts. All the ceremonies were attended by members of great hero families taken by procession to the various memorials from different spots. Music was played by troupes from different LTTE formations. The different venues were also decorated with pandals.The red and yellow flags were hoisted widely.
-
-The primary ceremony however was at the site in which Prabakharan himself participated. A newly constructed memorial was the usual venue. After the LTTE flag was hoisted a display demonstration by selected squads from various units of the LTTE was held. A march past was held after which Prabakharan accepted the ceremonial salute. Prabakharan then began his address at 6. 05 pm the time that Shankar breathed his last. The speech was usually about 30 to 40 minutes.
-
-Prabakharan thereafter accepted the flaming torch brought in relay form and went on to light the premier flame of sacrifice. After observing two minutes of silence along with the massive crowd in attendance, the LTTE leader garlands a picture of Sathiyanathan alias Shankar, the first great hero. Thereafter the LTTE leader accompanied by other Tiger members lit the small lamps and placed flowers before the pictures of martyrs.
-
-This then is the history behind the GHD significance. So great was the importance attached to the day that the LTTE opened a special office in Kilinochhi to handle the event as well as affairs concerning dead LTTE cadres and families. A retired educationist Pon.Thiyagam was in charge of this office. He is now living outside Sri Lanka.
-
-It is against this backdrop that the currently prevalent Maaveerar Naal mystique must be viewed. What is deplorable  is the deceitful manner in which Tamil political leaders and sections of the media foster the myth that November 27 is a date of Overall Tamil sorrow and that Maaveerar Naal is a day of national mourning for the Tamils.
-
-What must be taken note of is that the LTTE never commemorated or mourned the loss of Tamils who belonged to other Tamil militant movements. The sectarian LTTE did not regard others as fallen heroes. Only LTTE cadres were given that recognition. Families of dead cadres belonging to other movements were not allowed to mourn their loved ones publicly. They could only mourn in private.
-
-Notwithstanding brazen efforts by vested interests to depict ‘Maaveerar Naal’ falling on 27 November as a day of general Tamil mourning, it must be emphasised that the so-called ‘Great Heroes Day’ was never a national day of Tamil mourning. The ‘Maaveerar Naal’ was an intensely conducted partisan event “of the Tigers, for the Tigers and by the Tigers”. To portray it otherwise as some are doing, including stalwarts of the Tamil National Alliance (TNA), is sheer political hypocrisy.
-
-This does not mean that Tamils do not mourn the loss of their loved ones. They do!
-
-The Tamils have lost those dear and near to them in the communal violence of 1956, 1958, 1977, 1981 and 1983. They have suffered innumerable losses in many forms during the long years of the war. There cannot be a single Tamil living who has not suffered the loss of a loved one during the years of violence and war. What is unacceptable, however, is the deception to depict the “Maaveerar Naal” as a day of universal Tamil mourning.
-
-November 27, therefore, remains an important date in the politics of mourning in which Tiger and pro-Tiger elements indulge in. It would however be a grave blunder to assume that the “Maaveerar Naal” of the LTTE is a day of National mourning for the Tamils of Sri Lanka.
-
-## “Former President Mahinda Rajapakse,must resign, if he has any semblance of a sense of dignity, and if he respects rule of law, if he respects democracy, he must promptly resign from Parliament  and accept responsibility.”- MA Sumanthiran MP
-
-*2023-11-23 18:00:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83168)*
-
-(Text of Speech made by Jaffna District Parliamentarian MA Sumanthiran  in Parliament on 22.11.2023)
-
-Thank you Hon. Chair for the time allocated to speak a few words on these heads of expenditure We have had an interesting debate so far, with his Excellency also participating. One of the institutions under consideration is the constitutional council, many things have been said today back and forth about the constitutional council but I want to raise a more fundamental issue.
-
-There is a vacancy in the constitutional council; all ten members have not been appointed, this is a very serious issue, it’s a very serious issue for us. Because we were entitled to nominate a member, and such a meeting was held, and I proposed a senior parliamentarian Hon. Dharmalingam  Siddharthan to be that member in the constitutional council. But to date he has not been appointed to the constitutional council.
-
-We have raised this many times; the leader of the opposition has raised in Parliament, at the party leaders’ meeting, and the Hon. Speaker has clearly said that it is our right.
-
-In fact others who are claiming to have a right to nominate are all members of the Sri Lanka Podujana Peramuna. The general secretary of Sri Lanka Podujana Peramuna has written to the speaker and said that they are members of the Sri Lanka Podujana Peramuna, if they are not members of the SLPP, they can’t be members of parliament.
-
-So they can’t claim to be ones who have the right to nominate this member to the constitutional council. But this is not just a technicality, by this, the 3rd largest party in parliament, the second largest party in the opposition, has been deprived of our right to participate in the deliberations of the constitutional council.
-
-And what has that resulted in? The President says from the time he took over as Prime Minister and then President, that he’ll resolve the Tamil National Question. He had three all Party conferences: one last year, and two this year for that very purpose. But he is unable to or even this House is unable to resolve this one issue. This is a no-brainer. You keep us out of the constitutional council, and then you talk about resolving the Tamil National Question in a just manner How can you do that? You can’t even fill that vacancy.
-
-Now this has come into sharp focus a few days ago. There is a deadlock – there is a deadlock situation in the constitutional council and everybody knows about this. A deadlock situation when one seat is still vacant. If that had been filled, there wouldn’t have been a deadlock. So the county must know, that while you wax eloquent saying all are equal and everyone in this country has equal representation, to a body like the constitutional council which is a very important body, you still deprived us of our place.
-
-And how can you face anyone and claim that this is governance in the right way. So today I am raising this as serious issue. Not just filling a vacancy in the constitutional council, but as a serious national issue. We have complained, have complained for several decades; is that we have been left out of the national life of this county. Being kept out of the constitutional council is another reflection. Another example of that, which is continuing to date.
-
-In 1972 when the first republican constitution was enacted, you called it autochthonous constitution.  But we were left out in the cold. Every single fundamental resolution that was passed, was passed with the majority vote. And incidentally, incidentally it is Hon. Dharmalingam Siddharthan’s father, Mr. V. Dharmalingam then the MP of the federal party – Ilankai Thamilarasu Katchi, who moved amendments to those fundamental resolutions. Every one of those resolutions was defeated by 84 to 16, 82 to 13, majoritarian, and that’s how we went out and that’s how it became necessary for our party to join hands with All Ceylon Tamil Congress and CWC and start Tamil United Front in 1976. That’s what led to the Vaddukoddai resolution, all that we said was if you can’t accommodate us, if you can’t give us our due place, then let us go, why are you  holding on to us, we have our own way, that’s what we said, that’s what led to a 3 decade old war, but you are still doing that, even today you are doing that, more than a year, you kept us out of the constitutional council, it is our right.
-
-I don’t think I will want to say this in this House any more. We are not beggars; we are not beggars in this country to come begging you to give us this and that. We are a People! We are a People with a heritage, we’ve lived in this country as long as anybody else lived in this country. So if you think, because of your superior numbers, you can trample upon our rights, you are mistaken, you are totally mistaken. We will not cowe down to such efforts. Majoritarian rule, we will not accept. Till the last person lives in this country we will not accept that.
-
-This week is an important week; this is a week in which we honour the dead who fought for us. Who fought for us! I am not hesitant to say it in that way. Why did they fight for us? Because we were thrown out of the national life, there was no other way, things went wrong, we are not in that mode anymore, and we have expressly said we are willing to live within one, united, undivided, indivisible country.
-
-We are yet willing, but then how has it been reciprocated? How is that being reciprocated? It’s up to you, you have to decide. You can’t just string us along all the time. And it is important while the relatives and others in the North and East remember their dead. I say in this house: don’t take us for granted. Superior number doesn’t make you right, superior numbers often make you wrong. Because you think you can bulldoze your way with your numbers. That’s what you do in this house also. That’s what you do in this house also.
-
-I must put something else also right. Today also His Excellency said the opposition leader was invited to form a government, and he did not do that, and that’s a violation of the public trust. That’s wrong, he’s wrong, President was wrong about many fronts today. When he described the constitutional council as part of the executive, he was wrong; you don’t have part of the executive something that the Speaker presides! That’s part of the legislative structure. He was wrong, because the entire opposition had agreed on something at that appointing time.
-
-And there was a document, a national plan that was formulated by the Bar Association of Sri Lanka. And that gave certain time lines to the then President Gotabaya Rajapaksa. So that he would go out gracefully and executive presidency would abolished. And that if he agreed to that, the opposition leader would take over as Prime Minister.
-
-That was the agreement, we as a party was agreed to that, the JVP was agreed to that, the SJB was agreed to that. His excellency as a single member was agreed to that. He violated that. That is why I was the first person here in this house when he took over as Prime Minister, I told him this is a shameful conduct. He was very upset over that, but it was in fact a shameful conduct by him.
-
-That he breached, the agreement that all oppositions have taken together. And a single person ran and took that office for a mess of pottage. He violated that agreement. So I am not defending the leader of the opposition but I think it is time even after a lapse of one full year, that I put the record right. There was that agreement that was violated by his Excellency the President because he saw a crack in the door. He was opportunistic; he put his foot in there, got in there and became the Executive President of this country.
-
-The UNP under him in 1996 in Hambantota had passed a resolution to abolish executive presidency. Now there’s no talk about that. Now there’s no talk about that. Violation of public trust is a very very serious matter.
-
-The reply his excellency gave today amounts to nothing. If you have violated public trust and that’s a pronouncement of the highest court in the country, those persons have been named have no moral right to sit in this house anymore. In another place -in a mature democracy they would have resigned, in another place where they value democracy, where there is value for rule of law, those persons who are found to have violated the public trust would have resigned the next day. But not the Rajapaksas.
-
-They don’t care two hoots, whether it is the public trust or whatever that they have violated. It is only their family and the loot that they have taken from this country that they are concerned about. They can remain that way, but they will have to face the serious ire of the citizens of this country, if they don’t even at this point of time respect rule of law, accept responsibility and bow out of this house. They have no right to continue as representatives of the people in this house. There is only one person there, President Mahinda Rajapakse, but he must resign, if he has any semblance of a sense of dignity, and if he respects rule of law, if he respects democracy, he must promptly resign and accept responsibility.
-
-His Excellency the President Ranil Wickramasinghe, I remember in 2015 at the budget, he spoke volumes, the fact that President Maithripala Sirisena’s expenditure then compared to his predecessors was almost half, but that’s not what we see today. The President’s expenditure is far more than what was there in last year’s budget. So we see a huge shift in his perspective even with regard to allocations for expenditure.
-
-## Sri Lankan military is Sri Lankan in name only. In reality, it is a Sinhala-Buddhist military wedded to Sinhala-Buddhist interests. An anomaly in a demographically pluralist land and a dangerous one.
-
-*2023-11-22 16:24:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83163)*
-
-“It is apparent that the continued inaction to reintroduce and/or to raise taxes, and regain the government revenue that was lost, brought about an adverse impact on the economy which had a domino effect on the entire social fabric.” Supreme Court of Sri Lanka
-
-The Supreme Court judgement about the Rajapaksa culpability for Sri Lanka’s economic ruin couldn’t have come at a better time. The sense of hope generated by the ending of chronic shortages and the partial restoration of normalcy has waned. The forward movement of the economy has grinded to a halt, impeded by multiple malaises solidified through inaction and indifference into components of the governance landscape. The president is no longer walking the talk and the parliament is a demented kindergarten where most debates degenerate into a violent slanging matches.
-
-Economic pain is no more a shared problem as it was during the months of crippling shortages. Now the affliction belongs to those occupying the bottom half of the income totem pole. In 2022, the shared hardships of fuel queues and power cuts brought about a rare sense of solidarity.
-
-At Galle Face and across the country, the rich, the middle classes and the poor stood shoulder to shoulder united in their common deprivation. Now that sense of being in it together is gone. There’s no solidarity any more. Only anger. Nearly a half of Sri Lankans are hurting without hope, a condition that bodes ill for all.
-
-The findings of a recent UNDP survey demonstrate the extent to which the public has lost confidence in the political class, in national institutions, in governance itself.
-
-The judiciary is one of two exceptions to this general disenchantment. Forty percent of respondents trust the judiciary. This week’s landmark supreme court judgement proves that that trust is not misplaced. The judiciary is not immune to the general attrition but it is not broken. It remains a part of a solution rather than a part of the problem.
-
-That the Rajapaksas have learnt nothing from the disaster is obvious from their reaction to the judgement. They don’t believe they did anything wrong. Therefore, they don’t believe they need to change. Maybe some superficial alterations to regain the lost sheen, a bit of a propaganda hype but nothing substantial, nothing real. They and their supporters remain confident of their own inerrancy and their infallibility. In their worldview, the only problem with Gotabaya Rajapaksa is that he ran away.
-
-According to some legal experts, the judgement enables victims of the economic crisis to sue its perpetrators for compensation. Those hardest hit by the crisis are too immersed in the daily struggle to survive to file lawsuits. The political opposition and civil society organisations can intervene to help victims, especially those who lost loved ones or livelihoods, to take the Rajapaksas to courts, but would they?
-
-The Supreme Court points out that “prolonged inaction due to arbitrary, irrational and/or manifestly unreasonable decisions and inadequate measures… heavily contributed to disastrous consequences.” A swathe of lawsuits against the authors of those arbitrary, irrational and unreasonable decisions would send a much needed message to all current and future policymakers that playing fast and loose with society does carry some personal financial risks.
-
-According to the Bible, Adam and Eve existed in a state of innocence until they imbibed the fruit from the tree of knowledge. In Sri Lanka, voters exist in a never ending state of innocence, a forever unknowing. Every election is preceded by hyperbolic hope; in the immediate aftermath comes euphoria, followed by disenchantment, despair and anger.
-
-Then begins the search for the next saviour. There’s no analysis of what went wrong and why. There’s no sense that no party or leader, however perfect, can get everything right and satisfy everyone. Or the acceptance that no leader or party can deliver everyone their particular utopia. Reeling from the last disappointment we, the voters, clutch at the next infatuation, ad nauseam. In this never ending game, salvation and damnation are two sides of the same idiotic coin.
-
-In the accompanying popular discourse, ironies jostle unseen. Take the oft repeated assertion that post independence history has been a litany of crimes and errors with nary a redeeming feature. The obvious conclusion is that colonial times were good times and we were better off as British subjects.
-
-Be that as it may, since all leaders since independence were elected by us, what do those serial bad choices reveal about us as thinking beings? How come we are always wrong, always duped, never capable of learning anything from these mistakes and always so confident we’ll get it just right the next time?
-
-This chronic innocence of the voters is similar not to the ephemeral non knowing of childhood but to the more permanent condition of not being of sound mind. For we, as voters, consciously turn out back on the tree of knowledge. Our voting is sola fide – by faith alone. Evidence plays no role in it, certainly not fact. Propaganda suffices, slicker the better.
-
-Some leaders can wash whiter than white and make every dream come true. In 2019, Gotabaya Rajapaksa was that man, Our Hero who Works. He and his brothers are culpable for the economic crisis. But they did not grab power. They were elected freely by 6.9 million Sri Lankans, almost all of them Sinhalese and most of them Sinhala-Buddhists.
-
-Even in January 2022, even after Gotabaya Rajapaksa decreed his abracadabra transition from chemical to organic fertiliser, he remained more popular than Ranil Wickremesinghe, Sajith Premadasa or Anura Kumara Dissanayake. Had an election been held in January 2022, he would have won with a comfortable majority.
-
-Why did nearly 7 million Sri Lankans vote for Gotabaya Rajapaksa despite the littleness of his mind and the paucity of his understanding? Why did nearly 7 million Sri Lankans expend less critical thinking in voting than they do in their quotidian activities, like purchasing vegetables?
-
-The eternal cry of being being fooled does not suffice. Why were we fooled by such an obvious fraud? Unless and until that question is faced and grappled with, how can we be certain that the same mistake will not be repeated in 2024 and beyond? If we refuse to know about mirages, how can we stop chasing them?
-
-This week, the Supreme Court made another crucial ruling that the 2020 arrest and detention of Ramzy Razeek had been unconstitutional. In early April 2020 Mr. Razeek, a retired government official and social media commentator, made a Facebook post about the Rajapaksa sanctioned campaign to blame the pandemic on Muslims. Muslims, for the sake of all Sri Lankans, should counter these malicious lies, Mr. Razeek wrote via an ideological jihad (struggle) for justice and democracy waged with pen and keyboard.
-
-The closely argued and superbly penned judgement also contains a copy of the original Sinhala post. It’s hard to understand how anyone could have been regarded this post as terroristic. But the details revealed in the various respondent statements indicate that Mr. Razeek’s demonisation and arrest were a continuation of the broader anti-Muslim campaign which brought the Rajapaksas such rich politico-electoral dividends.
-
-As the Supreme Court judgement points out, the information about Mr. Razeek’s supposed criminality “was first received by the CID from the Ministry of Defence.” The informant was the Military Services Assistant to Defence Secretary Kamal Gunaratne (fourth respondent). “In fact, according to this B report, MGLS Hemachandra (third respondent) was the ‘complainant’ whose complaint to the CID dated April 6, 2020 had given rise to the investigation…”
-
-The CID of Ravi Seneviratne, Shani Abeysekara, and Nishantha Silva would have taken one look at the supposedly offensive post and realised its innocuous nature. They wouldn’t have arrested an innocent man and kept him in remand custody for months.
-
-No wonder the Rajapaksas, soon after they returned to power liberated the CID from the professionals and put it under the sway of yes men. What they did to the tax base, foreign reserves, rupee and agriculture, they did to the CID first. Among the charges levelled at the CID’s most brilliant sleuths was that of being pro-Muslim, pro-Tamil and in the case of one a secret Tamil. Racism is a broad blanket under which much was – and will be – hidden.
-
-According to the UNDP survey, the most trusted institution in the country is not the judiciary but the military. Sixty percent of respondents trust the military (13% have no such trust while 22% are neutral and 5% did not respond). It is not hard to surmise that the trust in military cohort would consist primarily of Sinhala-Buddhists while minorities would make up most of the have no trust and neutral categories.
-
-After all, Sri Lankan military is Sri Lankan in name only. In reality, it is a Sinhala-Buddhist military wedded to Sinhala-Buddhist interests. An anomaly in a demographically pluralist land and a dangerous one.
-
-Combine this (military being the most trusted institution) finding with others – 69% do not trust the parliament and a whopping 78% do not trust political parties – and the picture turns grimmer. Never mind that the despised legislature is composed of members the voters themselves elected freely and fairly. We vote for them while despising them. And in the military we trust. How that translates into democratic health is not hard to surmise.
-
-Our continued love affair with the military contributed to the ongoing financial malaise in two ways. It helped prevent any reduction in defence expenditure post war. Against all reason, defence expenditure has moved upwards post war. We spend more on the military now than during the war. It also helped Gotabaya Rajapaksa’s spectacular victory in 2019, a former soldier who would restore to war heroes the honour and glory owed to them in perpetuity.
-
-The military, other than the Sangha, is the only near exclusively Sinhala-Buddhist institution in the land. The high level of trust reposed in it arguably stems from this primordial identification rather than from proven facts of good management or financial probity (the military remains the opaquest institution in Sri Lanka). The military is seen as inerrant and incorrupt the same way every current political saviour is idealised based on belief.
-
-Writing forty years after Israel’s spectacular victory in the Six Day War, author and columnist Meir Shalev, described the deadly dead end Israel finds herself in, thanks to the non-resolution of the Palestinian issue: “Forty years have passed, and Israel has indeed choked.
-
-The country is busy dealing with one matter: the occupation… Forty years have passed, and Israel has neglected everything that the Israel of 1948 wished to occupy itself with: education, research, welfare, health” (Los Angelis Times 5.6.2007).
-
-We too are in a similar bind. Not only did the war guzzle the largest component of national wealth. Post war, right up to today, we spend more on defence than on any other subject from education and health to agriculture, industry and science and technology.
-
-Although we lament about the burden of the state sector, we say nothing about the fact that nearly half of the public wage bill is spent on the military. If state owned enterprises are overstaffed so is the military and with even less justice.
-
-No serious effort has been made and will be made to reduce this unproductive burden because doing so is not electorally safe in a land where the military remains popular. And no leader aspiring to the presidency would want to risk being tarred with the traitor’s brush by angry monks, war heroes and other patriotic actors.
-
-While Ranil Wickremesinghe’s pledge to reduce military expenditure needs to be considered with a pinch of salt, neither Anura Kumara Dissanayake nor Sajith Premadasa is likely to act any better. Military is the real sacred cow to which even the Sangha defers.
-
-When a key logical solution to financial crisis is ruled out a priori, what remains is the unreasonable choices like as hiking taxes or reducing welfare expenditure. Such measures would leave the economic crisis unalleviated while exacerbating public distress and therefore popular discontent. As voters blame civilian politicians, military’s popularity will increase. For any democracy, that is not an enviable place to be in.
-
-When the Sri Lankan economy collapsed like a pack of cards in slow motion under Rajapaksa rule, there was a possibility that past voting errors would be critically examined, resulting in more sensible voting practices in the future.
-
-But that possibility never materialised. Voting is still approached like an emotional deed, a love-hate relationship rather than a fact based transaction. We cannot emerge from this rut unless we adopt a policy of voter beware (similar to buyer beware) in deciding how we cast our ballot. When we vote, we purchase a fallible leader/government for the next five years. All the rest is a mirage.
-
-## Supreme Court ruling has opened a window for any Sri Lankan to seek compensation from the Rajapaksas for economic, physical and psychological distress they had been subjected to due to the economic crisis.
-
-*2023-11-21 18:09:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83159)*
-
-Last week, the Supreme Court ruled that the three Rajapaksa brothers and a cabal of officials were responsible for the economic crisis, delivering an unprecedented judgement that could  be the precursor to Sri Lanka’s long march for justice.
-
-The Court ruled by the majority judgment that the Rajapaksa brothers and five of their acolytes who were handpicked to the top government positions “had demonstrably contributed to the economic crisis” by their actions, omissions, decisions and conduct.
-
-Alongside the Rajapaksas –  President Gotabaya Rajapaksa, then prime minister and Finance Minister Mahinda and Basil Rajapaksa, who succeeded Mahinda as Finance minister- the Court found guilty five close associates who held key government positions by virtue of their loyalty to the family: former Central Bank Governors Ajith Nivard Cabraal and W.D. Lakshman, former Treasury Secretary S.R. Attygalle, the Monetary Board’s former member Samantha Kumarasinghe, and former Finance Ministry Secretary and Presidential Secretary P.B. Jayasundera.
-
-The 120-page judgement highlighted a number of costly ideocracies of Gotabaya Rajapaksa that precipitated the economic crisis, driving millions of families into destitution and doubling the poverty rate in a year.
-
-The Court noted that Gotabaya Rajapaksa’s ‘imprudent” tax revision in 2019 brought about a ‘domino effect’, which resulted in downgrading by rating agencies, depletion of foreign reserves, and loss of access to the international finance market.
-
-The Court also observed: “Additionally, the continued maintenance of an artificial exchange rate and the failure to reverse tax reliefs and seek assistance from the IMF in a timely manner collectively contributed towards the rapid deterioration of the economy. The cumulative effect of the conduct of the respondents, in our view, is what contributed to the ultimate debacle.”
-
-“Gross Official Reserves, which stood at US$ 7,642 million by the end of 2019, had depleted to US$ 155 million by August 2021. The scarcity of foreign exchange with the Government and the Central Bank brought about severe hardships to the people.”
-
-However, unlike the other famous recent court ruling, which found former president Maithripala Sirisena, then IGP and the Defence Secretary, among others, guilty of the negligence that led to the Easter Sunday attack and ordered compensation to the victims, last week’s Supreme Court judgement did not impose financial penalties on the accused. The petitioners had not requested compensation, the Court observed.
-
-The court ruling is a landmark, for it held the highest elected office accountable. Yet without follow-up legal and administrative measures to seek punitive action against the accused, it is nothing more than symbolic.
-
-Opposition leader Sajith Premadasa, TNA MP MA Sumanthiran, many opposition Parliamentarians and a number of civil society groups have demanded legal action to recover funds and revoke the civic rights of the offenders.
-
-The process is clear, but the political will is conspicuously lacking in the current blatantly transactional political arrangement, where Ranil Wickremesinghe rules at the mercy of the Rajapaksas.
-
-Justice Minister Wijedasa Rajapaksa told reporters that pursuant to the court ruling, the President should appoint a Presidential Commission of Inquiry. Any punitive measures recommended by the Presidential Commission should then be passed by a two-thirds majority in Parliament.
-
-Given the current composition of Parliament, which is populated by the representatives of the rejected old regime, that is a tall order.
-
-Thus, Sri Lanka’s quest to hold the kleptocratic old regime leaders accountable may have to wait till the next election.
-
-Yet, the Supreme Court ruling has opened a window for any Sri Lankan to seek compensation from the Rajapaksas for economic, physical and psychological distress they had been subjected to due to the economic crisis.
-
-In the ideal conditions, the Rajapaksas and their rent-seeking acolytes should be sentenced to lengthy prison terms. That would provide a semblance of justice to 22 million Sri Lankans.
-
-On the other hand, the absence of legal actions would suggest that the climate of impunity that the Rajapaksa enjoyed has not ended, even after the family was ousted. That may haunt Sri Lanka as it negotiates to restructure sovereign debt and defends itself at the UN Human Rights Council, which has expanded its scope into economic crimes.
-
-The same week, Mahinda Rajapaksa celebrated his 78th birthday, reverting to his familiar pious self, indulging in alms-givings in sacred Dalada Maligawa and his home turf of Abayaramaya- all the while millions of Sri Lankans who were made destitute by his kleptocratic familial reign are struggling to make ends meet. He was seen cutting the birthday cake on social media, with President Ranil Wickremesinghe looking on.
-
-He told reporters he respected the court ruling, but more ambitious Basil was rather tongue in cheek. For the Rajapaksas, who were the law unto themselves when in power, the rule of law is still an object of sarcasm.
-
-Presidential scion Namal is even more forthcoming; challenging the legal premise of the court ruling, he quipped that future governments would be at fault irrespective of whether they increase or decrease tax, implying that the Court had encroached on the government’s remit
-
-That is a gross mischaracterizing of the court ruling. The Court observed: ‘Public trust reposed on them ( holders of public office and bureaucrats) demands resolving issues. Any conduct which is manifestly unreasonable, arbitrary or irrational that would lead to further aggravation of issues which are detrimental to the public, tantamount to a breach of the trust bestowed on them.”
-
-It is not the government’s right to levy taxes that was challenged before the Court, but a series of arbitrary, irrational decisions taken by the holders of political office and connivance of the bureaucratic acolytes without taking into account their immense negative consequences and the egoistic refusal to reverse these idiotic decisions, even after their repercussions were evident.
-
-Also importantly, Gotabaya Rajapaksa’s massive tax relief was granted at the behest of local wheeler dealers who bankrolled his election campaign. That is high-level corruption at the highest office.
-
-Namal has also erroneously noted that all 225 members in Parliament had voted in favour of the tax revision- they did not. (The opposition SJB has recorded its opposition to the bill). Any effort to suggest a series of disastrous economic decisions of the Gotabaya Rajapaksa as collective decisions by Parliament is bunkum.
-
-For the most of the Rajapaksa regime, Parliament and Cabinet were mere rubber stamps, while the brothers ruled the roost and looted the country.
-
-The Rajapaksas are Sri Lankan equivalent of Ceaușescu. Soon after the Iron Curtain unravelled, the Romanian public stormed his palace; he met his maker. Today, Romania is a thriving EU democracy.
-
-If Sri Lanka is to move forward, the demons of the past should be locked up to make sure their apparitions would not defile the future. The Supreme Court judgment offers a way forward.
-
-If the government refuses to follow up, people may decide to do it on their own. Ranil Wickremesinghe surely does not need to provoke another Aragalaya by trying to save the skin of fallen Rajapaksas.

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 01:27:45**
+As of **2024-01-16 02:27:48**
 
 ## Newspaper Stats
 
@@ -20,15 +20,235 @@ As of **2024-01-16 01:27:45**
 
 * economynextcom: 39
 
-* dailyftlk: 90
-
 * adalk: 95
+
+* dailyftlk: 97
 
 * dbsjeyarajcom: 111
 
-* **Total**: **511**
+* **Total**: **518**
 
 ## Latest Articles (100)
+
+### Hayleys Solar surpasses 150MWp as Sri Lanka’s premier rooftop solar provider
+
+*2024-01-16 01:20:51 - [dailyftlk](https://www.ft.lk/business/Hayleys-Solar-surpasses-150MWp-as-Sri-Lanka-s-premier-rooftop-solar-provider/34-757407)*
+
+Hayleys Solar Executive Director and CEO Roshane Perera (left), and Hayleys Fentons Managing Director Hasith Prematillake
+
+Hayleys Solar, the renewable energy arm of Hayleys Fentons recently surpassed 150MWp of installations, a national record for rooftop solar PV capacity in Sri Lanka, setting a new milestone in the island’s transition to renewable energy.
+
+By March 2023, Hayleys Solar crossed its milestone of 125MW and has continued to add new rooftop solar capacity to its portfolio, in various locations across the country. Its 150MWp of solar capacity is enabling Hayleys Solar to save close to 151,835 tons of carbon dioxide (CO2) emissions released to the air every year.
+
+Expressing his views, Hayleys Fentons Managing Director Hasith Prematillake stated: “This achievement is the largest to be installed across the island by any single entity and supports us to empower the community making solar solutions closer to all via accessibility and affordability. We are grateful for the trust and support our customers have placed in us.”
+
+Hayleys Solar continues to establish solar experience centres island-wide, adding to its portfolio of experience centres in Matara and Jaffna with new launches in Nawala, Katunayake, Kurunegala and Kandy soon, This will make it easier for people from different communities to access and learn about solar solutions.
+
+These centres offer a comprehensive range of applications, including rooftop PV systems, batteries, and inverters, alongside live demonstrations of solar-powered water pumps, lighting systems and solar powered hot water systems.
+
+With high electricity tariffs, Hayleys Solar offers easy payment plans and loan facilities to support affordability for households and businesses to transition to solar.
+
+Hayleys Solar Executive Director and CEO Roshane Perera said, “By far, Hayleys Solar has become a top of mind household name and plays a major role as a trendsetter in the solar energy sphere as the undisputed market leader. Throughout our remarkable journey, we have empowered a diversified clientele including world-renowned organisations and thousands of households. We are very grateful to our loyal clientele who has placed their trust with us”
+
+“We are also in the process of installing the largest battery of 2MWh which will be commissioned by January 2024. I believe it is our responsibility as the market leader to focus on innovation and bring in the latest technologies to drive growth to expand market share in this sector.”
+
+In 2022, amid challenges in power availability, Hayleys Solar enabled the facilitation of a massive project of installing solar at 830 telecommunication towers across Sri Lanka, which supported the community to stay connected.
+
+With its ongoing commitment to adding rooftop solar capacity to empower the community with electricity and energy self-sufficiency, Hayleys Solar is dedicated to improve the livelihoods of many Sri Lankans for generations.
+
+### CIC Agri honours business partners with Lifetime Awards
+
+*2024-01-16 01:20:07 - [dailyftlk](https://www.ft.lk/business/CIC-Agri-honours-business-partners-with-Lifetime-Awards/34-757406)*
+
+Bavani Stores Proprietor Ponnaiyah Krishnananthan receiving the Lifetime Award from Group CEO Aroshan Seresinhe and Agri Cluster MD Waruna Madawanarachchi.
+
+Samarasiri Traders Proprietor M.M. Piyathilaka receiving the Lifetime Award from Group CEO Aroshan Seresinhe and Agri Cluster MD Waruna Madawanarachchi
+
+CIC Agri Businesses recognised and appreciated two of its long-standing business partners Bavani Stores, Jaffna and Samarasiri Traders, Welimada with ‘Lifetime Awards’ at the Annual New Year Invoicing Ceremony which was held at the Lotus Tower recently.
+
+Bavani Stores was founded by Ponnaiyah Krishnananthan also known as Rajan in 1976 and commenced as a grocery shop and later expanded its business to other products. In 1985 Bavani Stores ventured to the sale of agro chemicals, seeds and fertiliser, and was appointed as an authorised distributor for CIC in 1986.Since then Bavani Stores has been one of the key dealers for CIC in the Jaffna Peninsula for over 35 years. Since 2007 Bavani Stores has been categorised as a Gold Dealer and remains as one of topmost Business Partners of CIC Holdings PLC.
+
+Samarasiri Traders was founded in by M.M. Piyathilaka in the late seventies. Initially it was a transport business. However later in 1985 he expanded the business and commenced the sale of agro chemicals, fertiliser and seeds. In 1986 Samarasiri Traders was appointed as the authorised distributor for all CIC products that included fertiliser, seeds, and agro chemicals. Since then, for the past 37 years, he has been successfully covering the entire up-country region with CIC products.
+
+Speaking at the occasion the CIC Agri Businesses Managing Director Waruna Madawanarachchi appreciated and acknowledged the contribution of all business partners. “It has been a very good year for all of us, we at CIC Agri will continue to offer the best solutions at all times with all the quality agri inputs in our portfolio so as to ensure that farmers are always better equipped to face the challenges and are able to reap a bountiful harvest”.
+
+CIC Agri Businesses provides a range of agri inputs from seeds to fertiliser to specialty plant nutrients and host of agro chemicals and pesticides.
+
+As is customary every year key business partners of CIC Agri Businesses received their first invoices for 2024 from the Senior Management of CIC Agri Businesses.
+
+### SFG becomes first CORSIA-accredited validation and verification body in SL
+
+*2024-01-16 01:19:06 - [dailyftlk](https://www.ft.lk/business/SFG-becomes-first-CORSIA-accredited-validation-and-verification-body-in-SL/34-757405)*
+
+The Sustainable Future Group (SFG), Sri Lanka’s premier Sustainability Validation and Verification Body which was South Asia’s first to be IAF-accredited to award ISO 14064-1 and 2 for organisational and project-level GHG reporting, ISO 14067 for product carbon foot printing, and ISO 14065 for environmental information, chalked up another “first” when it was accredited under the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA). The accreditation was granted by the Sri Lanka Accreditation Board (SLAB) recently during the first day of the ‘Environment Matters in Aviation Workshop’ held at the Sri Lanka Civil Aviation Authority (SLCAA) auditorium in the presence of the Ports, Shipping, and Aviation Minister, South Asian Civil Aviation Authorities, South Asian Airplane Operators, and other high-level stakeholders in the Aviation industry. Representatives of the EU – South Asia Aviation Partnership Project II (EU-SAAPP II) who provided guidance, support and training for SFG against the CORSIA Scheme from 2019 up until the point of accreditation were also present at the occasion.
+
+The CORSIA scheme provides specifications for airplane operators to calculate and report its CO2 emissions from its fleet, application of Sustainable Aviation Fuels (SAFs), and offsetting the amount of CO2 emissions which cannot be reduced through the use of technological improvements, operational improvements, and SAF usage with selected types of emissions units from the global carbon market. SFG is now accredited to verify whether airplane operators have correctly calculated its fleet emissions and have offset its residual emissions against the specifications provided in the CORSIA Scheme. Their first assessment was conducted on the ‘Airplane Operator Emissions Report’ of Maldivian Airlines (Island Aviation Services Ltd.) of the Maldives, which comprised of a desk and site review at the Maldivian Airlines office premises. Following the assessment, the results were then verified in accordance with the ISO/IEC 17029:2019 and ISO 14065:2020 standards by SFG.
+
+CORSIA is the first global compliance market-based scheme for any sector implemented by The International Civil Aviation Organisation (ICAO), specialised agency of the United Nations (UN) that oversee and coordinate international air navigation principles and regulations.
+
+The accreditation certificate was handed over to SFG by SLAB Chairman Dr. Sampath Wahala to Sustainability Assurance and Advisory Services Manager Sajeewa Ranasinghe.
+
+### Cardinal slams President’s decision to involve SL in US led Red Sea Op
+
+*2024-01-16 01:09:47 - [dailyftlk](https://www.ft.lk/news/Cardinal-slams-President-s-decision-to-involve-SL-in-US-led-Red-Sea-Op/56-757395)*
+
+Criticises Govt. for overlooking domestic concerns while involving itself in a Middle East conflict
+
+Says SL has leaders who are indifferent to starving countrymen but are gearing up to join war
+
+Stresses Catholic Church is not agitating for disorder or anarchy but it has a right to demand that justice is done
+
+Emphasises it is now time for active protest rather than remaining silent as 2024 is an election year
+
+In yet another scathing attack against the Government, the Archbishop of Colombo Malcolm Cardinal Ranjith on Sunday slammed the decision made by the current Government led by President Ranil Wickremesinghe to send in two Sri Lanka Navy vessels to join the Red Sea operation launched by the US and its allies to safeguard merchant vessels from attacks by Houthi rebels
+
+Ranjith criticised the Government for overlooking domestic concerns while involving itself in a Middle East conflict. “We have leaders who seem indifferent to the hunger of our people, yet they are gearing up for a conflict in the Middle East,” he said.
+
+The Archbishop made these comments during a sermon at All Saints Church in Borella, commemorating the second anniversary of the discovery of a grenade on the church premises that sparked a major controversy at the time.
+
+“It is boastful to announce that we will join an international armada with two small ships while the people here are starving. People are going through serious difficulties, these leaders are hardly concerned, and they only want to enjoy themselves at the cost of the taxpayer” he said.
+
+The Archbishop said the Catholic Church in Sri Lanka is not agitating for disorder or anarchy in the country but it has a right to demand that justice is done. “But where is justice when they manipulate incidents like the grenade incident?” he asked.
+
+Ranjith emphasised that the time has come for active protest rather than remaining silent. “In this election year, we have an opportunity to decide whether these corrupt politicians will persist in governing our country or if a new group will be entrusted with steering our nation towards the future,” he added.
+
+He also accused the authorities of failing to find the real perpetrators who placed a grenade inside the church, who planned the Easter Sunday attacks and those who have harassed the media in the past.
+
+Commenting on the grenade incident, Ranjith said the grenade had been set up to explode on the day. He said the police arrested four innocents including the sacristan of the Church who had picked the grenade up. “These four had no idea what a grenade was. This is why the sacristan picked it up innocently. He did not understand it was a grenade” he said.
+
+The Archbishop remarked that the Minister in Charge of the Police and the Secretary of Defence hastily pointed fingers at the four individuals without conducting a thorough investigation or reviewing the CCTV footage at that time. “This is how justice works in this country. Big shots can remain free even after committing a murder. There is no rule of law. There is only the law of the powerful,” he alleged.
+
+He urged the Government to launch a comprehensive investigation into the incident but expressed scepticism about its execution. Ranjith stated, “We are yet to witness justice being served for those responsible for the Easter Sunday attacks. The perpetrators behind the disappearance of Prageeth Ekneligoda and the killing of Sunday Leader Editor Lasantha Wickramatunga remain unknown. It appears that these critical issues have been overlooked, with authorities seemingly prioritising international concerns over resolving domestic challenges in the country.”
+
+### CID arrests self-proclaimed ‘Bodhisattva Avalokiteshvara’
+
+*2024-01-16 01:08:53 - [dailyftlk](https://www.ft.lk/news/CID-arrests-self-proclaimed-Bodhisattva-Avalokiteshvara/56-757394)*
+
+Investigators of the Police Criminal Investigation Department (CID) arrested Mahinda Kodituwakku, a man professing to be the Bodhisattva Avalokiteshvara yesterday in Pannipitiya.
+
+Kodituwakku who suddenly shot to fame recently through viral videos of him preaching flanked by groups of followers is being accused of distorting Buddhist teachings and engaging in irreligious activities.
+
+According to Police Spokesman SSP Nihal Thalduwa, the suspect has been apprehended on four charges, including violations under the Computer Crimes Act. Additionally, Thalduwa said he faces allegations of insulting the Buddhist doctrine by delivering various sermons, thereby offending religious sentiment.
+
+The Police Spokesperson said the suspect is also facing charges under Sections 291 (a) and 291 (b) of the Penal Code for allegedly uttering words with the explicit intent of causing religious offence and insulting the religion or beliefs of a specific class. Charges under the Money Laundering Act have also been brought against Kodituwakku.
+
+On 12 January the Colombo Fort Magistrate’s Court also imposed an overseas travel ban on him after the police received many complaints, particularly from Buddhist clergy against his activities.
+
+The Magistrate issued the order following Senior Deputy Solicitor General (DSG) Dileepa Peiris requesting a travel ban as it was required for an investigation led by the CID’s Computer Crimes Division.
+
+Peiris revealed that the suspect, who recently arrived from Egypt, organised extravagant ceremonies to welcome himself at the Bandaranaike International Airport and the Kelaniya Raja Maha Viharaya. He said ongoing investigations aim to ascertain whether the suspect misrepresented himself as a Bodhisattva to serve the objectives of a religious fundamentalist organisation or if he acted under the influence of a fundamentalist group. Concurrently, the suspect is under investigation for potential violations of the Prevention of Money Laundering Act.
+
+DSG Peiris accused the suspect of exploiting religion for personal financial gain. He highlighted that the suspect’s sermons, disseminated through his YouTube channel, distort Buddhism and pose significant dangers. Furthermore, he noted that the suspect has publicly admitted to sexually abusing his daughter, potentially making him liable to charges of sexual abuse of a minor. The case against Kodituwakku will be taken up again on 17 January.
+
+Meanwhile, the Mahanayaka Theras also sent a letter to President Ranil Wickramasinghe over the weekend urging him to institute the requisite legal measures to enforce the law against persons involved in distorting Buddha Dharma.
+
+In Buddhism, Avalokiteshvara is a tenth-level bodhisattva associated with great compassion.
+
+### Economy 2024: More challenging than the two previous years
+
+*2024-01-16 00:22:42 - [dailyftlk](https://www.ft.lk/columns/Economy-2024-More-challenging-than-the-two-previous-years/4-757391)*
+
+Unless correct policies are adopted from now onward, becoming a rich country by 2048 will simply be a wish only
+
+It seems that IMF is working with numbers which are pleasing to their ears ignoring the wider external debt problem which the country is faced with. Once Sri Lanka begins to repay the whole debt, it will not be able to maintain the current low-level equilibrium that involves relative stability in the exchange rate, on one side, and the balance in the current account of the balance of payments, on the other
+
+Sri Lanka has entered 2024 having passed 2022, the year of the severest economic crisis, and 2023, the year of the beginning of economic recovery. Having followed an economic recovery package as agreed with IMF for an extended fund facility or EFF, Sri Lanka should now consolidate its position to retain the hard-earned macroeconomic stability and push the economy to a high growth path needed for delivering permanent prosperity to its people. However, the present stability experienced by Sri Lanka is at a low-level equilibrium as observed by the Presidential economic advisor, Dr. Sharmini Cooray in the 2023 Central Bank Anniversary Oration (available at: https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/about/speech_20231102_CBSL_73_anniversary_oration_e.pdf).
+
+What she meant by a low-level equilibrium was that though high inflation has been brought down to an affordable rate of about 5% and the exchange rate from close to Rs. 400 to about Rs. 320 a dollar, that has been attained at a low level of GDP, that is, $ 77 billion in 2022 compared with $ 85 in 2021. The average income of a Sri Lankan, if distributed equally among them and known as per capita income, has also fallen from $ 3,997 in 2021 to $ 3,474 in 2022. Hence, on average, all Sri Lankans have become poorer.
+
+At this level of per capita income, Sri Lanka is categorised by the World Bank as a lower middle-income country because it is a way above the threshold of $ 1,135 attributable to a low income or a poor country. However, the Sri Lanka Government requested the World Bank in late 2022 to treat it as a poor country for the disbursement of concessional funds from the World Bank group. This request has, as a special case, now been granted by the Bank. Hence, Sri Lanka today is like a person who has on paper academic qualifications equivalent to a university degree, but his knowledge is so poor that he is assigned the work that can be handled by a person with only GCE (Advanced level) qualification.
+
+It is just an instance of voluntarily becoming poorer in front of the rest of the world because it helps the country to get low-cost foreign aid. Thus, the GDP numbers released by the authorities do not reflect the true position of Sri Lankans. This is a stigma. Accordingly, the biggest challenge which Sri Lanka faces in 2024 or in later years is to have it removed and show the world that it is not a poor country anymore. But like the proverbial ‘beggar’s wound’, the incentives are to continue to enjoy this stigma.
+
+Sri Lanka enters the new year with a friendly but significantly serious warning by IMF. According to IMF’s Communications Director Julie Kozack, though the progress of the current EFF program is satisfactory, the country should complete the negotiations with the external commercial creditors and implement the agreements with official creditors for the restructuring of the selected items of the central government external debt (available at: https://www.ft.lk/front-page/IMF-urges-swift-action-on-debt-restructuring/44-757364). For external debt restructuring purposes, only the commercial borrowings and those borrowed from bilateral sources were included.
+
+The total public sector borrowings as at the end of 2021 amounted to $ 69 billion, made up of $ 45 billion by the central government and $ 24 billion by other public sector entities (see for details: https://www.ft.lk/columns/Child-s-guide-to-debt-restructuring-Not-a-cakewalk-but-a-task-entailing-hard-work/4-736706). Of this, only $ 33 billion or nearly a half was to be restructured. Even if this is successfully restructured, the problem of country’s foreign indebtedness remains unresolved.
+
+2024 will be an election year, and it is unlikely that the energy and the talent pool of the Government could be diverted to this type of long-term planning. But with every passing moment, the country will lose valuable time which cannot be regained. But there is no choice in my view. The Central Bank with the support from IMF has stabilised the economy at a low-level equilibrium. If no proper policies are adopted to upgrade the real economic activities that will deliver richness and prosperity to people, it will be difficult for the country to maintain even this low-level equilibrium. This is a formidable challenge, and the Government should not take this challenge lightly
+
+It seems that IMF is working with numbers which are pleasing to their ears ignoring the wider external debt problem which the country is faced with. Once Sri Lanka begins to repay the whole debt, it will not be able to maintain the current low-level equilibrium that involves relative stability in the exchange rate, on one side, and the balance in the current account of the balance of payments, on the other.
+
+She has expressed the IMF’s satisfaction about the restructuring of the domestic debt, tagged as domestic debt optimisation by the Sri Lanka Government, in 2023. The reference here is the decision of the Government to pass the entire burden of the domestic debt relief on to the superannuation and pension funds. Among them, the chief burden-bearers are the largest private sector superannuation fund, Employees’ Provident Fund or EPF managed by the Central Bank, and the Employees’ Trust Fund or ETF, managed by a separate board of trustees.
+
+These two funds as well as other provident and pension funds were told by the Government that if they would not agree to the proposed optimisation, they would be subject to an income tax of 30% instead of the 14% they were paying at that time. The tax of 30% was justified because that was the tax paid by other financial institutions and, therefore, it was an equalisation of the tax rates. I discussed in a previous article how this tax comparison would fall on EPF unfairly because EPF and other funds paid taxes on the gross income while financial institutions paid it on the net income (available at: https://www.ft.lk/columns/The-misunderstood-taxation-of-EPF-and-other-superannuation-funds/4-750423).
+
+Accordingly, the amounts of taxes paid by EPF on its gross income would be 70% in 2020, 88% in 2021, and 490% in 2022 when recalculated on the tax base of net income applicable to financial institutions. The other bond holders were freed from this burden and equity in distributing burden required the Government to treat all of them equally.
+
+I therefore pointed out in the article under reference as follows: “If the pain is passed on to all the bondholders equally, it would have been a fair and equitable treatment. Though there is a fear that it would lead to instability of the financial system, that could be avoided it the pain is transferred to all equally. Then the people would have felt that they have been treated fairly. Such a trust is a must when a country goes through a painful adjustment to come out of a serious economic crisis”. But the plan of passing the burden on the superannuation fund holders was carried out as planned. However, it involved the reduction of the earnings of EPF members by a significant margin by Rs. 274 billion over the period 2024 to 2038 (available at: https://www.ft.lk/columns/Apologetic-custodian-of-EPF-also-a-victim/4-753076).
+
+It is about this treatment of the domestic debt that IMF’s communications head has expressed her satisfaction. Since EPF earnings are likely to be lower than 9% after paying a tax of 14%, it will be a challenge for the Government to ensure a minimum rate of return of 9% to EPF members as promised in the debt optimisation plan. It is in fact an unnecessary waste of the taxpayers’ money if the Treasury meets this shortfall.
+
+Sri Lanka’s avowed goal is to deliver richness to its people by 2048 when the country celebrates the centenary of independence from Britain. This is a challenging task since the country is now going through a low-growth scenario till at least 2027. In 2022, it was a negative growth of 7.8% and in 2023, it is projected to have a negative growth of about 4%. From 2024 to 2026, the growth will be at an annual average rate of about 2% according to the forecasts made by both IMF and the World Bank. According to these forecasts, the country will return to the size of its economy which it had in 2021. That amounts to a GDP of $ 85 billion. It is from this level that the country will have to move up to become a rich country by 2048.
+
+I have discussed the main challenges involved in a previous article in this series (available at: https://www.ft.lk/columns/The-Magic-2048-What-is-to-be-done-to-make-Ranilnomics-a-reality/4-747608). In this article, the main challenge has been identified as follows: “In terms of the World Bank classifications, a country will become a rich country if its gross national income or GNI per head reaches the threshold of $ 12,000 and remain at that level or above thereafter. Over the next 25 years, Sri Lanka’s population also will increase requiring the country to produce more to reach this level. The population of the country has been rising at about 1% per annum in the past. But the future population projections are made based on demographic changes. Accordingly, for Sri Lanka, two population projections were made, one at an average growth of half a percent per annum and the other at an average growth of a little over a fifth of a percent. In the first one, the population will rise to 25.4 million by 2048. In the second one, Sri Lanka’s population will peak in 2035 and begin to fall thereafter.
+
+Since EPF earnings are likely to be lower than 9% after paying a tax of 14%, it will be a challenge for the Government to ensure a minimum rate of return of 9% to EPF members as promised in the debt optimisation plan. It is in fact an unnecessary waste of the taxpayers’ money if the Treasury meets this shortfall
+
+“By 2048, its population will be 21.9 million, a little more than its population in 2021.
+
+In terms of the first projection, to generate a GNI per capita of $ 12,000, the total GNI should rise to $ 305 billion or an increase of 243% over the period. The average growth per annum should be about 12%. In terms of the second projection, the GNI should be $ 263 billion marking an increase of 196% over this period. It marks an annual increase, on average, of 10%. Therefore, the annual economic growth to be maintained from 2028 to 2048 will be between 10 and 12% if Sri Lanka is to become a rich country by that last year of the period. This is again a formidable challenge for future
+
+This is a formidable challenge. Unless correct policies are adopted from now onward, becoming a rich country by 2048 will simply be a wish only as it had happened on many occasions in the past. President Ranil Wickremesinghe, addressing the nation in June 2023, announced that he would be following the Growth Lab approach developed by the Center for International Development or CID of Harvard’s Kennedy School of Government (available at: https://www.colombotelegraph.com/index.php/special-statement-delivered-by-president-ranil-wickremesinghe-full-text/). Wickremesinghe has a particular love for CID because he himself had been an alumnus of this prestigious institution.
+
+He explained the Growth Lab approach as follows: “Under the Lab approach, we will bring together Government Ministers, government officials, subject matter experts, and key representatives from the private sector to collaboratively engage in detailed discussions over a period of six weeks. The aim is to collaboratively resolve any roadblocks hindering the roll-out of investments and projects by listening carefully to the private sector. During these discussions, comprehensive implementation plans will be developed, and the necessary facilities to support the implementation of these projects will be organised. Government stakeholders involved in the Labs will dedicate their full-time efforts to ensure the successful execution of these projects. As President, I, along with the Cabinet Ministers, will actively participate in this event to demonstrate the government’s commitment to ensuring success of the Lab process”.
+
+The timeline announced was that the lab will be convened in the third quarter of 2023, its report ready by September 2023, and it will be presented to people for their review, suggestions, and approval before the end of 2023. That will be unveiled for implementation as a ‘national transformation plan’. This plan will be based on four important pillars: reforming both the fiscal and financial sectors, driving investments for accelerated economic growth, introducing social protection to the vulnerable and the implementing a strong good governance program, and transforming the state-owned enterprises or SOEs to function as profit centres.
+
+While these are important goals, they do not cover all the required strategies that should be adopted. For instance, they do not include a human resource development plan to upgrade the country’s human capital to a creative capital stock, encouraging the professionals who are leaving the country to contribute to the country’s development through a system of reverse migration, and introducing high technology to the country’s production structure to help it to compete successfully in the global markets.
+
+Sri Lanka’s avowed goal is to deliver richness to its people by 2048 when the country celebrates the centenary of independence from Britain. This is a challenging task since the country is now going through a low-growth scenario till at least 2027. In 2022, it was a negative growth of 7.8% and in 2023, it is projected to have a negative growth of about 4%. From 2024 to 2026, the growth will be at an annual average rate of about 2% according to the forecasts made by both IMF and the World Bank. According to these forecasts, the country will return to the size of its economy which it had in 2021. That amounts to a GDP of $ 85 billion. It is from this level that the country will have to move up to become a rich country by 2048
+
+Even with the limited scope announced, the Government has missed all these milestones in the timeline. Hence, they will have to be redated for 2024. But 2024 will be an election year, and it is unlikely that the energy and the talent pool of the Government could be diverted to this type of long-term planning. But with every passing moment, the country will lose valuable time which cannot be regained. But there is no choice in my view. The Central Bank with the support from IMF has stabilised the economy at a low-level equilibrium. If no proper policies are adopted to upgrade the real economic activities that will deliver richness and prosperity to people, it will be difficult for the country to maintain even this low-level equilibrium.
+
+This is a formidable challenge, and the Government should not take this
+
+(The writer, a former Deputy Governor of the Central Bank of Sri Lanka, can be reached
+
+### Now, to those taxes
+
+*2024-01-15 23:46:44 - [dailyftlk](https://www.ft.lk/columns/Now-to-those-taxes/4-757374)*
+
+While a State needs tax revenue to meets its expenses, it is widely acknowledged that high taxes act as a disincentive to investment, and consequently, development. In Sri Lanka, it is money taken from a relatively efficient sector to an inefficient State, mainly to pay its debts and to keep afloat many white elephants in an overall unproductive   sector. The most objectionable are the indirect taxes like the ‘VAT’ that leave a deep dent in the average purse, already reeling from the effects of a drastically devalued currency
+
+“Alongside  decayed roués with dubious means of subsistence and of dubious origin, alongside ruined and adventurous offshoots of the bourgeoisie, were vagabonds , discharged soldiers, discharged jailbirds, escaped galley slaves, rogues, mountebanks, lazzaroni, pickpockets, tricksters, gamblers, maquereaus, brothel keepers, porters, literati, organ-grinders, rag-pickers, knife-grinders, tinkers, beggars, in short, the whole indefinite, disintegrated mass, thrown hither and thither, which the French term, la boheme” -The Eighteenth Brumaire of Louis Bonaparte-Karl Marx
+
+No, in the above quote Marx was not describing the Sri Lankan Parliament!
+
+In this instance, Marx’s searing analysis, couched in his accustomed vivacity, was directed at a French social class of early 19th century he describes as the ‘lumpen- proletariat’, which by and large had supported Louis Bonaparte in his quest for the Presidency of France in 1848.Three years later, in 1851, Bonaparte staged a coup d’etat, soaring above the class struggle, that was thought to be imminent. His ascendency despaired outstanding thinkers of the era like Victor Hugo and Karl Marx, who saw Louis Bonaparte as an imposter, a grotesque mediocrity playing the role of a hero.
+
+It was inevitable that Bonaparte would invite comparisons to his epoch making uncle, Emperor Napoleon Bonaparte. Marx mocks the nephew’s (Louis Bonaparte) coup, comparing it with Napoleon Bonaparte’s coup of 1799 on Eighteenth Brumaire. Adopting German philosopher Hegel’s idea that world spirit causes the re-enactment of events, Marx opened his thesis with the celebrated line that history repeats, first as a tragedy (Emperor Napoleon) and then as a farce (nephew Louis Bonaparte). It is uncertain whether Marx accepted the Hegel aphorism as a historical truism, but in the case of Napoleon and his far less illustrious nephew, a telling line indeed.
+
+For France, the 18th and 19th centuries were tumultuous; the land of revolutions, class wars, communes and Napoleon. Marx anticipated a triumphant revolution, but it did not evolve that way. Today France is a highly productive and prosperous country, boasting a vibrant cultural life. Like most western countries, high standards of living across the board have made class definitions and antagonisms meaningless. Uncommonly perceptive Marx may have been, but theoretical postulates must bow to obvious realities. As historian Fukuyama suggests, “history” as an unbroken chain of class struggles may not be tenable in context. That is not to say that human societies will remain static. In time, there is bound to be turmoil and even cataclysmic upheaval, but perhaps not quite on the lines as suggested by Karl Marx.
+
+While the enormous validity of Marx is undeniable, it is also an important factor that his focus was primarily on Europe, then a melting pot of social, economic, national as well as religious ideas. These were years of incredible ferment; everything old was challenged, examined and reformed, if not discarded. Asia was a distant continent, backward and primitive, evoking only an occasional comment from Marx, often derisive. Weak societies, stuck in a mind-set of a bygone era; awash with dark superstitions, in the choking grasp of incompetent despots; they were in no position to resist the European colonisation
+
+Almost every institution we now behold in this country, whether it be the parliament or the judiciary, medical profession or the constabulary, the game of cricket or political parties, owe their introduction to that colonial intrusion.
+
+‘History’ may have ended, ‘races’ have not. In the modern world, certain “peoples” have proved themselves capable of running complex systems, building huge economies, expanding intellectual horizons, providing a high standard of living for its citizens, while at the same time, ensuring a sturdy democratic structure. The endless lines of hopefuls waiting at their door for a better life, is evidence enough of their success, and, a damning testimony to the failure of the feeder countries.
+
+There are other races that have achieved some benchmarks, but not all; successfully building large economies and improving the life of their citizens, relative to the condition they were in before.
+
+There is a third group, repeatedly going from tragedy to comedy, in an endless cycle; limited, inept and fundamentally corrupt. In these countries, in times when the State predominates, their systems are distinguished by corruption, incompetence and stagnation (SriLanka 1970-77). When their private sector comes to the fore, it is cronyism, exploitation and plunder, the free market interpreted by coarse temperaments, through their avaricious eyes
+
+Whether it is State run or private sector heavy, the glaring truth is that Sri Lanka has one of the weakest industrial bases in Asia. Typically, we have clung on to garments, an industry with very little specialisation or innovation and one that keeps migrating to poorer economies (with poor wages) in order to be viable. If not for the plantations established more than two centuries ago, and our blue collar workers in the Middle East, the show would have ended much earlier.
+
+Sri Lanka being a tiny economy, it is inevitable that most businesses are either suppliers or work contractors for the Government. Neither party needs tuition on what makes the system work!
+
+The so called old elite, a comprador class created by the needs of the colonial era, has now given way to a new elite, a parvenu class. If the former were a tragedy, now we have the farce! They are unmistakable; in appearance undistinguished, the expensive designer brands and the contrived casualness sitting awkwardly on the essentially provincial character; ingratiating, self-promoting, slithery; our new rich have all the vices of the old, but none of their virtues! If the former attracted mockery, the latter invites
+
+We do not have an Asian Marx to vivisect the sorry mimic we have made of the adopted system. If there were to be, what he beholds would provide him endless scope for contempt. A lamentable scene, where every aspect of the adopted system is understood only partially, interpreted perversely and works in contradiction of its very purpose.
+
+Our Constitution is a good case in point. Once elected, Sri Lankan politicians become omniscient, the little matter of constitutional tinkering taken in their stride. With cavalier disregard for the consequences (Constitutions are generally rigid, resistant to change) they play at law making. Before the introduction of the 1978 Constitution its spiritual author JR Jayewardene advanced the case for a presidential system, arguing that Sri Lanka needed such a system to embark on our rapid development and that a President carrying a personal mandate from the people need not be deterred in that endeavour by the pressures and restrains that a parliamentary system would necessarily impose. Whatever the legal technicalities may be, the very constitution has now allowed an unelected person to be appointed by Parliament to that
+
+While a State needs tax revenue to meets its expenses, it is widely acknowledged that high taxes act as a disincentive to investment, and consequently, development. In Sri Lanka, it is money taken from a relatively efficient sector to an inefficient State, mainly to pay its debts and to keep afloat many white elephants in an overall unproductive   sector. The most objectionable are the indirect taxes like the ‘VAT’ that leave a deep dent in the average purse, already reeling from the effects of a drastically devalued
+
+And, this is a country where politicians are collecting millions in the guise of election funds, without receipts and without tax!
+
+It is basic to the spirit of democracy that for a Government to impose taxes on the people, must first have a mandate to govern from the people. There cannot be taxation without representation. Leave aside the President, it is extremely doubtful whether the parliamentary majority today   enjoys the trust and confidence of the people any longer. Democracy is not only the holding of periodic elections. For it to have any meaning, the true spirit of democracy must be alive in the hearts and minds of its putative practitioners. If we use the experiences of the past 70 years as a gauge, for these hearts and minds, democracy is just another business, a sure way of hogging the public stage.
+
+When we began our new journey in 1948, there were high expectations. For 70 years we journeyed gaudily and noisily; 70 long years of bombast, phrase-mongering and grandstanding. Now that all this hoopla has ended in a messy train wreck, we see all our post 1948 leaders in true light; second rate men: empty characters with monstrous egos; men of small deeds and big talk.
+
+Not the wreckers of the country, not the beneficiaries from the sleaze, not those who enjoyed all the pageantry and the privileges of the State; the burden has fallen squarely on the millions of our impoverished citizens. Their unelected President demands it. Their elected representatives in Parliament have voted for it.
 
 ### BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
@@ -1811,83 +2031,3 @@ Accordingly, the Mahanayaka Theros have sought prompt attention of the President
 ඉකුත් 10 දා සවස  පැවත්වූ මෙම කෘෂි විද්‍යාව දෙවන ප්‍රශ්න පත්‍රය විභාගයට පෙර විවිධ සමාජ මාධ්‍ය ජාලවල සංසරණය වී ඇතැයි අනාවරණය වූ නිසා අවලංගු කළ බව විභාග දෙපාර්තමේන්තුව නිවේදනය කළේය.
 
 මෙම ප්‍රශ්න පත්‍රය පිටවීම සම්බන්ධයෙන් මේ වනවිට අධ්‍යාපන අමාත්‍යාංශය සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශන සිදුකරන බව විභාග දෙපාර්තමේන්තු ආරංචි මාර්ග සඳහන් කරයි.
-
-### මත්ද්‍රව්‍ය ජාවාරම්කාරියගේ නිවසේ මත්කුඩි බීපු බන්ධනාගාර නියාමකවරුන් අල්ලයි
-
-*2024-01-14 15:43:53 - [adalk](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-ජාවාරම්කාරියගේ-නිවසේ-මත්කුඩි-බීපු-බන්ධනාගාර-නියාමකවරුන්-අල්ලයි/11-407545)*
-
-අම්පිටිය ගාල්තැන්න මාර්ගයේ දළුක්ගොල්ල ප්‍රදේශයේ ප්‍රසිද්ධ මත්ද්‍රව්‍ය ජාවාරම් කාරණියකගේ නිවසක මත්කුඩු උරමින් සිටි පල්ලෙකැලේ දුම්බර බන්ධනාගාරයේ රාජකාරියේ නියුතු බන්ධනාගාර නියාමකවරුන් දෙදෙනෙකු මහනුවර මූලස්ථාන පොලිසියේ අපරාධ අංශය මගින් අත්අඩංගුවට ගෙන තිබේ .
-
-අම්පිටිය ගල්තැන්න මාර්ගයේ දළුගොල්ල ප්‍රදේශයේ නිවසක කාන්තාවක මත්ද්‍රව්‍ය අලෙවි කරන බවට ලද තොරතුරකට අනුව මහනුවර මූලස්ථාන පොලිසියේ නිලධාරීන් පිරිසක් එම නිවස වටලන විට එම බන්ධනාගාර නියාමකවරුන් දෙදෙනා මත්ද්‍රව්‍ය භාවිතා කරමින් සිට ඇති අතර එම දෙදෙනා අත්අඩංගුවට ගෙන මහනුවර ජාතික රෝහලේ අධිකරණ වෛද්‍ය කාර්යාලයට ඉදිරිපත් කොට රුධිර පරීක්ෂාවක් සිදු කිරීමේදී ඔවුන්ගේ ශරීරයේ අයිස් මද්‍රව්‍ය ඇති බවට තහවුරු වී තිබේ .
-
-එම බන්ධනාගාර නියාමකවරුන් දෙදෙනා අධිකරණයෙන් ලබාගත් රඳවා ගැනීමේ නියෝග මත රඳවාගෙන ප්‍රශ්න කරන අතර පල්ලෙකැලේ දුම්බර බන්ධනාගාරය තුළ සිදුවෙන මත්ද්‍රව්‍ය ජාවාරම සම්බන්ධයෙන් ඔවුන්ගෙන් දිගින් දිගටම ප්‍රශ්න කරන බව ඉහළ පොලිස් නිලධාරියෙකු පැවසීය .
-
-මහනුවර පොලිස් මූලස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක රසික සම්පත් මහතාගේ උපදෙස් පරිදි අපරාධ අංශයේ ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක නලින් ඉන්දික සහ පොලිස් පරීක්ෂක ශාලිත යන මහත්වරුන් ඇතුළු පොලිස් කණ්ඩායමක් වැඩිදුර විමර්ශන සිදු කරයි .
-
-### ஆடை மாற்றுவதை வீடியோ  எடுத்த ஊழியர் கைது
-
-*2024-01-14 15:38:23 - [tamilmirrorlk](https://www.tamilmirror.lk/மலையகம்/ஆடை-மாற்றுவதை-வீடியோ-எடுத்த-ஊழியர்-கைது/76-331489)*
-
-கண்டி தேசிய வைத்தியசாலையின் சத்திர சிகிச்சை நிபுணர்கள் சத்திர சிகிச்சையறைக்குச் செல்வதற்கு முன்னர் கிருமி நீக்கம் செய்யப்பட்ட ஆடை அறையில் கைத்தொலைபேசியை பொருத்தியதற்காக வைத்தியசாலை ஊழியர் ஒருவர் கைது செய்யப்பட்டுள்ளார்.
-
-கண்டி தேசிய வைத்தியசாலையின் கண்,காது, மூக்கு சத்திரசிகிச்சை அறையில், சத்திரசிகிச்சையில் பங்குகொள்ளும் பெண் வைத்தியர்கள் ஆடைகளை அணியும் அறையில் இரகசிய இடத்தில், வைத்தியசாலை ஊழியர் ஒருவர்  தனது அலைபேசியின் காணொளிப்பதிவை இயக்கி மறைத்துவைத்துள்ளார். மேலும் பெண் டாக்டர்கள் உடை மாற்றுவதை வீடியோ எடுத்து அதனை பார்த்து விட்டு அழித்தமை பொலிஸ் விசாரணையில் தெரியவந்துள்ளது.
-
-அறுவைசிகிச்சையில் கலந்துகொள்வதற்காக டாக்டர் ஒருவர் தனது உடைகளை மாற்றிக் கொண்டிருந்த போது, உடைமாற்றும் அறையில் அலைபேசி இருப்பதைக் கண்டு, அதைச் சோதித்துள்ளார். அதில், தான் ஆடை மாற்றுவது வீடியோவாக பதிவாகியுள்ளது. அதைச் சோதித்த போது,மருத்துவர் தனது உடைகளை மாற்றிக் கொண்டிருந்தார்,அதை நீக்கிவிட்டு மருத்துவமனை நிர்வாகத்திடம் புகார் அளித்துள்ளார்.
-
-சந்தேகமடைந்தவைத்தியசாலைப் பணியாளரையும் கையடக்கத் தொலைபேசியையும் கண்டிதலைமையகப் பொலிஸாரிடம் ஒப்படைத்ததன் பின்னர், சிலகாலமாகஅழகியபெண் வைத்தியர்கள் ஆடைகளைமாற்றும் காட்சிகளைகையடக்கத் தொலைபேசியில் வீடியோஎடுத்துஅதனைப் பார்த்து அழித்ததாக பொலிஸாரிடம் கூறியுள்ளார்.
-
-எனினும் பொலிஸார் அவரது கைத்தொலைபேசியை சோதனையிட்டபோது, அழகுக்கலைநிபுணர் ஒருவர் ஆடைகளைமாற்றியமைகையடக்கத் தொலைபேசியில் பதிவாகியிருந்ததை அவதானித்துள்ளனர்.
-
-இது தொடர்பில் சந்தேகநபரிடம் மேற்கொள்ளப்பட்டவிசாரணையின் போது, வைத்தியர் அழகுக்கலை நிபுணராக இருந்தமையினால், வீடியோவை நீக்கவில்லை என பொலிஸாரிடம் தெரிவித்துள்ளார்.
-
-அதை பத்திரமாக வைத்து, சந்தேகநபர் கையடக்கத் தொலைபேசியின் காணொளிப் பதிவைஎவ்வாறு இயக்கி குறிப்பிட்ட இடத்தில் வைத்துள்ளார் என்பது குறித்து விசாரணையில் தெரியவந்துள்ளது. அத்துடன், காணொளி நாடாக்களில் ஆடைகளை மாற்றும் வீடியோக்கள் காணப்படுவதாகவும் பொலிஸார் குறிப்பிட்டுள்ளார். சந்தேகநபர் சனிக்கிழமை (13) நீதிமன்றில் முன்னிலைப்படுத்தப்படவிருந்தார்
-
-### தெற்­கா­சி­யாவில் தீவி­ர­ம­டையும் பனிப்போர்
-
-*2024-01-14 15:36:00 - [virakesarilk](https://www.virakesari.lk/article/173943)*
-
-இன்­னொரு பக்கம் இலட்­சத்­தீவில் தற்­போ­துள்ள சிறிய விமான நிலை­யத்­துக்கு மேல­தி­க­மாக கூடுதல் பய­ணி­களை கையாளக் கூடிய வகை­யிலும்- இந்­திய பெருங்­க­ட­லிலும் அரபிக் கட­லிலும் தனது படை­ப­லத்தை வலுப்­ப­டுத்திக் கொள்ளும் வகை­யிலும்- ஒரு விமான தளத்தை புதி­தாக கட்­டு­வ­தற்கு இந்­தியா தீர்­மா­னித்­தி­ருக்­கி­றது.
-
-பய­ணிகள் போக்­கு­வ­ரத்­துக்கும், இந்­திய விமா­னப்­படை பயன்­பாட்­டுக்­கா­கவும்,  உரு­வாக்­கப்­ப­ட­வுள்ள இந்த விமான நிலையம், இது­வரை காலமும் அரபிக் கடலில் பாது­காப்­புக்கு மாலை­தீவை நம்­பி­யி­ருந்த இந்­தி­யா­வுக்கு, மாற்­றா­ன­தொரு தெரி­வாக இருக்கப் போகி­றது.
-
-இலட்­சத்­தீ­வுக்கு சுற்­றுலா பய­ணி­களை ஈர்க்­கின்ற முயற்­சி­களை இந்­திய அர­சாங்கம் எடுக்­கின்ற போதும், அங்கு செல்­வ­தற்­கான வச­திகள் குறை­வாக இருப்­பதால், உட­ன­டி­யாக இந்­திய சுற்­றுலா பய­ணிகள் இலங்­கையை நோக்கி திரும்பக் கூடும்.
-
-### தொடரும் 'இந்­திய' ஏமாற்றுப் படலம்
-
-*2024-01-14 15:34:00 - [virakesarilk](https://www.virakesari.lk/article/173939)*
-
-இலங்கையின் சமகால நிலைமைகளை கருத்தில் கொண்டு, இந்தியா தனது வெளியுறவுக்கொள்கைகளை உடனடியாக மீளாய்வுக்கு உட்படுத்தி உரிய நகர்வுகளை காலம்தாழ்தாது மேற்கொள்ளாது விட்டால் எதிர்காலத்தில், இந்திய - இலங்கை ஒப்பந்தம், 13ஆவது திருத்தச்சட்டம் ஆகியவற்றை அமுலாக்குங்கள் என்று பொது அரங்குகளில் கூட வலியுறுத்த முடியாத அளவிற்கு நிலைமைகள் உருமாற்றம் அடைந்து விடும்.
-
-ஆக, பிராந்தியத் தலைமையை ஏற்றிருக்கும் இந்தியா, எதிர்காலத்தில் தனது இறைமையை நிலைநிறுத்துவதற்கும், இலங்கை வாழ் தமிழர்களுக்குமாக கொள்கை ரீதியான மாற்றத்தை விரும்பியோ விரும்பாமலோ மேற்கொள்ள வேண்டியது காலத்தின் கட்டாயமாகிறது.
-
-### பணத்துடன் பாய முயன்றவர் கைது
-
-*2024-01-14 15:28:53 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பணத்துடன்-பாய-முயன்றவர்-கைது/175-331487)*
-
-தியத்தலாவையில் தன்னியக்க (ஏ.ரி.எம்) இயந்திரத்தில் பணத்தை பெற்றுக்கொள்வதற்கு உதவிச் செய்வதாகக் கூறி, அப்பெண்ணின் அட்டையை (காட்) பெற்று, மற்றுமோர் அட்டையை கொடுத்து, சுமார் 2 இலட்சம் ரூபாயை பெற்றுக்கொண்டு தலைமறைவாக முயன்ற முன்னாள் இராணுவ வீரர் ஒருவர் கைது செய்யப்பட்டுள்ளார் என தியத்தலாவை பொலிஸார் தெரிவித்துள்ளனர்.
-
-சந்தேநபர், மெதவாச்சியை வசிப்பிடமாகக் கொண்டவர் என்பதுடன் இராணுவத்தில் இருந்து விலகிச்சென்றவர் என்பதும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
-
-வங்கியின் தன்னியக்க இயந்திரத்தில் பணத்தை பெற்றுத்தருவதாகக் கூறி, அப்பெண்ணின் அட்டையில் இருந்து பணத்தை மீளப்பெற்று, அதனை கொடுக்காது. அப்பெண்ணிடம் மற்றுமோர் அட்டையை கொடுத்துவிட்டு, கொழும்பை நோக்கிச் சென்ற பஸ்ஸில் பணத்துடன் அந்த நபர் ஏறியுள்ளார்.
-
-பாதிக்கப்பட்ட பெண், தியத்தலாவை பொலிஸில் முறைப்பாடு செய்ததன் பின்னர் விரைந்து செயற்பட்ட பொலிஸார், அந்த பஸ்ஸை ஹல்துமுல்ல பிரதேசத்தில் வைத்து மடக்கிப்பிடித்து, சந்தேகநபரை கைது செய்துள்ளனர்.
-
-### කන්දකාඩුවෙන් පැන්න තවත් 11ක් සොයයි
-
-*2024-01-14 15:26:47 - [adalk](https://www.ada.lk/breaking_news/කන්දකාඩුවෙන්-පැන්න-තවත්-11ක්-සොයයි/11-407544)*
-
-පොළොන්නරුවවැලිකන්ද  කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ පුනරුත්ථාපනය ලබමින් සිටියදී රැඳවියන් අතර  (12)  සවස් වරුවේදී ඇති වූ බහින්බස්වීමක් දුරදිග යාම හේතුවෙන් ඇතිවූ ගැටුම්කාරී තතත්වය මත එයින් පැනගිය රැඳවියන් එකොළොස්දෙනෙකු (11) සොයා තවදුරටත් මෙහෙයුම් ක්‍රියාත්මක බව පොලිසිය පවසයි.
-
-මේ අතර පැනගිය රැඳවියන් අතරින් අල්ලා ගත් රැඳවියන් 18 දෙනෙකු පුලස්තිපුර සහ වැලිකන්ද පොලිස් ස්ථාන මගින් අද (14) මගින් පොළොන්නරුව මහේස්ත්‍රාත් අධිකරණය හමුවට ඉදිරිපත් කෙරිණ.
-
-ආහාර ගැටළුවක් මුල්කරගෙන මෙම බහින්බස්වීම දුර දිග ගොස් ඇති අතර ඉන් අනතුරුව රැඳවියන් මෙසේ පලා ගිය බවයි පොලිසිය සඳහන් කළේ.
-
-### உலக்கையால் தாக்கியதில் உலகை விட்டு பிரிந்தார்
-
-*2024-01-14 15:25:11 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/உலக்கையால்-தாக்கியதில்-உலகை-விட்டு-பிரிந்தார்/175-331485)*
-
-வீட்டுக்குள் அத்துமீறி நுழைந்து பாலியல் வன்புணர முயற்சி செய்வதற்கு முயற்சித்த வேளையில், வீட்டிலிருந்த உலக்கையால் அப்பெண் தாக்கியதில் சந்தேகநபர் மரணமடைந்த சம்பவமொன்று அங்கொட - அளுத்கொட பிரதேசத்தில் இடம்பெற்றுள்ளது.
-
-சம்பவம் இடம்பெற்றபோது, அப்பெண்ணின் கணவரும் வீட்டில் இருந்துள்ளார் என்பது விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது
-
-சம்பவத்தின் போது தாக்கியதாகக் கூறப்படும் பெண் கைது செய்யப்பட்டுள்ளார் என தெரிவித்த அங்கொட பொலிஸார், மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் தெரிவித்துள்ளனர்.

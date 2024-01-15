@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 04:27:46**
+As of **2024-01-16 05:27:53**
 
 ## Newspaper Stats
 
@@ -1146,8 +1146,6 @@ Thondaman said the goal of the reforms was to create a more sustainable water se
 
 ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
 
-ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
-
 ### Health sector employees to go on strike tomorrow
 
 *2024-01-15 10:22:00 - [adaderanalk](https://www.adaderana.lk/news/96411/health-sector-employees-to-go-on-strike-tomorrow)*
@@ -1482,9 +1480,9 @@ Misty conditions can be expected in most provinces in the island during the morn
 
 යුරෝ සොයා නීතිවිරෝධීව ඉතාලියට: ‘ජීවිතේ නම් කටුකයි, නමුත් කරන්න දෙයක් නැති කමට කාගෙන ඉන්නවා’
 
-ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
-
 ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
+
+ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
 
 ### மதுபானசாலைகளுக்கு பூட்டு
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 03:27:50**
+As of **2024-01-16 04:27:46**
 
 ## Newspaper Stats
 
@@ -10,13 +10,13 @@ As of **2024-01-16 03:27:50**
 
 * bbccomsinhala: 24
 
-* adaderanalk: 26
-
 * newsfirstlk: 27
 
 * islandlk: 28
 
-* tamilmirrorlk: 34
+* adaderanalk: 35
+
+* tamilmirrorlk: 38
 
 * economynextcom: 39
 
@@ -26,7 +26,7 @@ As of **2024-01-16 03:27:50**
 
 * dbsjeyarajcom: 111
 
-* **Total**: **518**
+* **Total**: **531**
 
 ## Latest Articles (100)
 
@@ -250,6 +250,78 @@ When we began our new journey in 1948, there were high expectations. For 70 year
 
 Not the wreckers of the country, not the beneficiaries from the sleaze, not those who enjoyed all the pageantry and the privileges of the State; the burden has fallen squarely on the millions of our impoverished citizens. Their unelected President demands it. Their elected representatives in Parliament have voted for it.
 
+### IMF team overseeing Sri Lanka’s bailout programme visits Jaffna
+
+*2024-01-15 23:22:00 - [adaderanalk](https://www.adaderana.lk/news/96428/imf-team-overseeing-sri-lankas-bailout-programme-visits-jaffna)*
+
+A team of senior IMF officials overseeing Sri Lanka’s bailout programme has toured the Tamil-dominated Northern district of Jaffna for the first time under the current USD 2.9 billion agreement, officials said on Monday.
+
+Led by Peter Brueur, the International Monetary Fund senior mission chief for Sri Lanka, the team last week met with the Governor of the Northern province, PMS Charles, and other senior officials and discussed issues related to economic growth in the province, demining programmes, resettlement of conflict-displaced individuals and compensation for conflict victims.
+
+They also discussed the educational matters related to Jaffna University, post-COVID operations, and the adverse effects of climate change on the northern region, the officials said.
+
+The team, which returned to Colombo on Monday, is scheduled to engage with the finance ministry. Talks are expected with Shehan Semasinghe, the state minister of finance, who leads the local IMF engagement under President Ranil Wickremesinghe.
+
+The discussions in Colombo are anticipated to focus on the targets outlined in the current IMF programme, which advocates large scale economic reforms in the island nation.
+
+In a meeting with President Wickremesinghe on Thursday last, Brueur had expressed satisfaction with Sri Lanka’s progress in implementing reforms aimed at revitalising the economy.
+
+The global lender had commended Sri Lanka for its advancements in policy-oriented variables and fiscal consolidation.
+
+Sri Lanka, which declared its first-ever debt default in April 2022, had secured an IMF bailout agreement of USD 2.9 billion over four years by the last quarter of 2022.
+
+The first tranche of USD 1.5 billion was released in March 2023, with the second installment of USD 337 million arriving in December 2023 following the first review.
+
+### Mukesh Ambani’s Jio Platforms may invest in Sri Lanka Telecom - report
+
+*2024-01-15 23:12:00 - [adaderanalk](https://www.adaderana.lk/news/96427/mukesh-ambanis-jio-platforms-may-invest-in-sri-lanka-telecom-report)*
+
+Indian billionaire Mukesh Ambani has plans to expand his horizons in the telecommunications business through his firm Jio Platforms, expressing interest in buying stake in Sri Lanka Telecom PLC, the state-owned telecom company, Indian media reported.
+
+The Sri Lankan government has been struggling with the cash-strapped Telecom PLC, as current authorities continue to push for privatisation of many sectors to revive the economy amid the recent financial crisis.
+
+Sri Lankan government had invited applications from potential bidders for Sri Lanka Telecom PLC by November 10, and Mukesh Ambani’s Jio Platforms was one of three companies that expressed interest in buying the stake of the firm, reported Moneycontrol.
+
+The Sri Lankan government on January 12 issued a press release where it named Jio Platforms as one of the potential bidders for their government telecom company. Apart from Jio, the other two companies in the running are Gortune International Investment Holding Ltd and Pettigo Comercio International LDA.
+
+The press release further said that the proposals by the company will be “evaluated as per the Special Guidelines on Divestiture of State-Owned Enterprises approved by the Cabinet of Ministers.”
+
+Sri Lanka has been mandated by the International Monetary Fund (IMF) to push for the privatisation of all the non-core sectors in the country, in order to pull the Sri Lanka out of the deep cash shortage that triggered the anti-government protests in 2022.
+
+With the Sri Lankan investment, Reliance’s Jio Platform is hoping to enter and dominate the global telecom market. Currently, Jio is market leader among all Indian telecom service providers.
+
+Latest figures released by Telecom Regulatory Authority of India (TRAI) showed that Jio added 31.59 lakh mobile users in October 2023, significantly more that top competitor Bharti Airtel.
+
+Recently, Reliance and Jio shares rallied on the stock market after Mukesh Ambani’s investment announcements at Vibrant Gujarat Summit 2024 in Gandhinagar last week. The jump in shares led to Mukesh Ambani reclaiming the spot of the richest person in Asia.
+
+### பத்து மாவட்டங்களில் அதிக ஆபத்து
+
+*2024-01-15 22:08:32 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பத்து-மாவட்டங்களில்-அதிக-ஆபத்து/175-331550)*
+
+நடப்பாண்டின் முதல் பதினைந்து நாட்களுக்குள், பத்து மாவட்டங்களில் அதிக ஆபத்துள்ள பிரதேசங்களாக அடையாளம் காணப்பட்ட 67 சுகாதார வைத்திய அதிகாரி பிரிவுகளில் 5,029 டெங்கு நோயாளர்கள் பதிவாகியுள்ளதாக தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
+
+மேல் மாகாணத்தில் 1,700  நோயாளர்கள் பதிவாகியுள்ளனர். வட மாகாணத்தில் 1,494 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர்.
+
+நாடளாவிய ரீதியில் மேற்கொள்ளப்பட்டு வரும் ஒருவார கால டெங்கு கட்டுப்பாட்டு வேலைத்திட்டத்தின் முன்னேற்றம் தொடர்பான அறிக்கை நாளை (16ஆம் திகதி) வெளியிடப்படலாம் என தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது. R
+
+### முகத்துவாரம் பகுதியில் துப்பாக்கிச் சூடு; ஒருவர் படுகாயம்
+
+*2024-01-15 21:56:45 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/முகத்துவாரம்-பகுதியில்-துப்பாக்கிச்-சூடு-ஒருவர்-படுகாயம்/175-331541)*
+
+கொழும்பு  - முகத்துவாரம்  பொலிஸ் பிரிவிற்குட்பட்ட ரந்திய உயன  வீட்டுத் தொகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் காயமடைந்துள்ளார்.
+
+முச்சக்கரவண்டியில் வருகை தந்த இருவர் துப்பாக்கிப் பிரயோகத்தை மேற்கொண்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+### One person killed in shooting in Colombo
+
+*2024-01-15 21:43:00 - [adaderanalk](https://www.adaderana.lk/news/96426/one-person-killed-in-shooting-in-colombo)*
+
+A shooting incident has been reported near the “Randiya Uyana” housing scheme in Mattakkuliya this evening (15).
+
+A 42-year-old male who was injured in the shooting was admitted to the Colombo National Hospital and had later succumbed to injuries, police said.
+
+Police said that the shooting was carried out by two individuals who had arrived in a three-wheeler at around 8.00 p.m. and that they had fled the scene afterwards.
+
 ### BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 *2024-01-15 21:40:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/breaking-red-sea-crisis-heats-up-as-houthi-missile-hits-us-cargo-ship/)*
@@ -285,6 +357,24 @@ India’s Adani group is building a container terminal in Colombo Port, where Ch
 India’s Adani group is building some renewable plant in the island. Concerns have been raised that some of the renewable plants under negotiations are not coming from competitive tenders.
 
 Sri Lanka blocked a Chinese power sector investments in the North which came fro competitive tendering, reportedly under Indian pressure. (Colombo/Jan15/2023)
+
+### Person remanded over sword attack on teenager in Ragama
+
+*2024-01-15 20:11:00 - [adaderanalk](https://www.adaderana.lk/news/96425/person-remanded-over-sword-attack-on-teenager-in-ragama)*
+
+The Welisara Magistrate’s Court has ordered a suspect who was arrested over attacking a teenage boy with a sword and was in hiding for 11 days, to be remanded in custody until January 19.
+
+On January 04, the suspect had attacked a 14-year-old child with a sword over a dispute that had occurred between the two groups of people, the police said.
+
+It is reported that a finger of the child’s left hand had been severed due to the sword attack.
+
+However, the suspect, Dilruk Prashantha Silva, a father-of-three, had surrendered to police after evading arrest for 11 days, following the discharge of the victim from the hospital, the police said.
+
+Nevertheless, on Sunday (15) Welisara Magistrate Thusitha Dhammika Uduwawidana ordered the suspect to be remanded in custody, after considering a request made by Ragama Police stating that the investigations are still underway in search of the sword used in the attack.
+
+Attorney-at-Law Shamindra Soysa, who appeared on behalf of the victimized child before the courts, had previously filed a motion alleging that the police, who had arrested the suspect previously, had released the suspect due to the pressure exerted on the investigating officers by a senior police officer.
+
+The magistrate, who took all facts presented into consideration, ordered the case to be recalled on January 19, 2024 and also ordered the police to report the progress of the investigations related to the case to the courts on the aforementioned date.
 
 ### දරුවෙකුගේ ඇගිල්ල වෙන් වෙන්න කැපූ සැකකරු රිමාන්ඩ්
 
@@ -346,6 +436,72 @@ Since then, the rupee has fluctuated between 320 to 330 to the US dollar under m
 
 Analysts have however warned that when private credit picks up, the central bank in the past has resumed inflationary policy to suppress rates, losing its ability to collect reserves, triggering depreciation, and social unrest through rising energy and food prices and long run higher nominal rates. (Colombo/Jan15/2024)
 
+### Kerala cannabis worth over Rs. 02 million held in Jaffna
+
+*2024-01-15 19:08:00 - [adaderanalk](https://www.adaderana.lk/news/96424/kerala-cannabis-worth-over-rs-02-million-held-in-jaffna)*
+
+The Navy has seized a stock of buried Kerala cannabis weighing over 06kg in the Vankalavadi beach vicinity, Jaffna during a search operation.
+
+The search was carried out by the Naval Detachment Nainativu belonging to SLNS Elara in the Northern Naval Command. During the operation, naval personnel have discovered 03 packages of Kerala cannabis, buried in the beach vicinity.
+
+The retrieved stock of Kerala cannabis weighed about 06kg and 40g which was subsequently taken into the naval custody, the navy said.
+
+The gross street value of this stock of Kerala cannabis is believed to be over Rs. 02 million.
+
+Meanwhile, the haul of Kerala cannabis was handed over to the Kayts Police for onward legal action, according to the navy.
+
+### முக்கிய மூன்று மாவட்டங்களுக்கு எச்சரிக்கை
+
+*2024-01-15 18:58:35 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/முக்கிய-மூன்று-மாவட்டங்களுக்கு-எச்சரிக்கை/175-331540)*
+
+கொழும்பு, யாழ்ப்பாணம் மற்றும் மன்னார் மாவட்டங்களில் காற்றின் தரம் குறைந்துள்ளதாக மத்திய சுற்றாடல் அதிகார சபையின் ஊடகப் பேச்சாளர் அஜித் வீரசுந்தர தெரிவித்துள்ளார்.
+
+இந்த மாவட்டங்களில் வசிக்கும் மக்கள் முகக்கவசம் அணியுமாறு சுகாதாரத்துறை கேட்டுக் கொண்டுள்ளது.  R
+
+### Myanmar rebel group claims control of town bordering India, Bangladesh
+
+*2024-01-15 18:47:00 - [adaderanalk](https://www.adaderana.lk/news/96423/myanmar-rebel-group-claims-control-of-town-bordering-india-bangladesh)*
+
+An ethnic armed group in the western Myanmar state of Rakhine said it has taken control of a town bordering India and Bangladesh, marking the latest loss for the military government as it battles rebellion in several parts of the country.
+
+Myanmar is in the throes of an insurgency on multiple fronts, where allied anti-junta groups backed by a pro-democracy parallel government have seized control of several military posts and towns. It is the biggest challenge the junta has faced since it mounted a coup against an elected government in 2021.
+
+A spokesperson for the Arakan Army (AA) said late on Sunday it had conquered Paletwa, a port town on the Kaladan river that is key to trade with neighbouring countries.
+
+“Regarding border stability issues, we will cooperate at our best with neighbouring countries,” said AA spokesperson Khine Thu Kha in a statement, adding the group will take over administration and law enforcement in the area.
+
+A spokesperson for the junta did not respond to a request for comment. Reuters could not independently verify the AA’s claim.
+
+The fall of Paletwa in the west comes after another rebel group in the Three Brotherhood Alliance took Laukkai town on the in northern Shan State on the border with China.
+
+Last week, the junta agreed a ceasefire with that group, the TNLA, for the region bordering China. The talks were held in the Chinese city of Kunming and facilitated by Chinese officials.
+
+But on Sunday, the rebel alliance said junta forces are breaching the ceasefire agreement, launching attacks in several townships in Shan State.
+
+### சிறுவனின் விரலை துண்டித்தவருக்கு விளக்கமறியல்
+
+*2024-01-15 17:16:43 - [tamilmirrorlk](https://www.tamilmirror.lk/மேல்-மாகாணம்/சிறுவனின்-விரலை-துண்டித்தவருக்கு-விளக்கமறியல்/95-331539)*
+
+14 வயதான சிறுவனை கத்தியால் கொத்தி,  கைவிரல் துண்டிக்கப்பட்ட நிலையில் 11 நாட்களாக தலைமறைவாக இருந்த ராகம பிரதேசத்தைச் சேர்ந்த நபரை எதிர்வரும் 19ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு வெலிசர நீதவான் துசித தம்மிக்க உடுவவிதானன திங்கட்கிழமை (15) உத்தரவிட்டுள்ளார்.
+
+ராகம பொலிஸ் உத்தியோகத்தர்கள் விடுத்த கோரிக்கையை ஏற்றுக்கொண்ட நீதவான், சிறுவனின விரலை துண்டாக்க பயன்படுத்தி  கத்தியை கண்டுபிடிக்க விசாரணை நடத்துமாறும் உத்தரவிட்டார்.
+
+ராகம பொடி என்றழைக்கப்படும் குர பிரதேசத்தை சேர்ந்த மூன்று பிள்ளைகளின் தந்தையான  டிலாருக் பிரசாந்த சில்வா என்பவரே  இவ்வாறு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+சம்பவம் தொடர்பான விசாரணைகளின் முன்னேற்றம் குறித்து அறிக்கை சமர்ப்பித்த ராகம பொலிஸ் அதிகாரிகள்,
+
+ஜனவரி 4 ஆம் திகதி இரு தரப்பினருக்கும் இடையில் ஏற்பட்ட தகராறு காரணமாக சந்தேகநபர் தனது அயல் வீட்டில் வசித்த 14 வயதுடைய சிறுவனை கத்தியால் குத்தியதாக தெரிவித்துள்ளனர். சிறுவனின் இடது கையில்   ஒரு விரல் முற்றாக துண்டிக்கப்பட்டது.
+
+மருத்துவமனையில் அனுமதிக்கப்பட்டு சத்திரசிகிச்சைக்கு உட்படுத்தப்பட்ட பின்னர் அவருக்கு உள்நோயாளியாக சிகிச்சை அளிக்கப்பட்டதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+சிறுவன் வைத்தியசாலையில் இருந்து வெளிவந்த பின்னர், கடந்த 13ஆம் திகதி வரை பொலிஸில் ஆஜராகாத சந்தேக நபர்,  வைத்தியசாலையில் இருந்து சிறுவன் விடுவிக்கப்பட்ட பின்னர் பொலிஸில் சரணடைந்தார். அதன்பின்னரே கைது செய்யப்பட்டார் என நீதிமன்றத்துக்கு அறிவித்தனர்.
+
+பாதிக்கப்பட்ட சிறுவனின் சார்பில் ஆஜரான சட்டத்தரணி  ஷ்ரமிந்திர சொய்சா, சிரேஷ்ட அதிகாரியொருவர் புலனாய்வு அதிகாரிகளுக்கு பிரயோகித்த அழுத்தத்தின் காரணமாக முன்னர் கைது செய்யப்பட்ட சந்தேகநபரை விடுவிக்க பொலிஸார் நடவடிக்கை எடுத்ததாக தெரிவித்தார்.
+
+விரலை இழந்த இச்சிறுவனை போதைப்பொருள் வழக்கில் குற்றஞ்சாட்டி கைது செய்வதற்கு முயற்சிகள் மேற்கொள்ளப்படுவதாக தனக்கு தகவல் கிடைத்துள்ளதாகவும், பாதிக்கப்பட்டவருக்கு  நீதி கிடைக்குமாறும் சட்டத்தரணி  ஷ்ரமிந்திர சொய்சா கோரிக்கை விடுத்துள்ளார்.
+
+அனைத்து வாதப்பிரதிவாதங்களை கருத்திற்கொண்ட நீதவான், சந்தேக நபரை விளக்கமறியலில் வைத்ததுடன், சம்பவம் தொடர்பான விசாரணைகளின் முன்னேற்றத்தை எதிர்வரும் 19ஆம் திகதி நீதிமன்றத்தில் அறிவிக்குமாறும்,   பொலிஸாருக்கு உத்தரவிட்டார்.
+
 ### Sri Lanka revises import duties for 1,222 items under Singapore FTA
 
 *2024-01-15 16:34:00 - [economynextcom](https://economynext.com/sri-lanka-revises-import-duties-for-1222-items-under-singapore-fta-147311/)*
@@ -358,6 +514,26 @@ In addition, so-called para tariffs, such as the Sri Lanka’s Airport Levy as w
 
 Excessively high import duties on some items, imposed to give artificially high profits to politically connected producers while harming consuemrs, have led to undervaluation and corruption, critics say.
 
+### Exam centre chief’s peon arrested over 2023 A/L exam paper leak
+
+*2024-01-15 16:33:00 - [adaderanalk](https://www.adaderana.lk/news/96421/exam-centre-chiefs-peon-arrested-over-2023-al-exam-paper-leak)*
+
+The Criminal Investigations Department (CID) has arrested another individual on suspicion of being involved in the incident of several questions of the 2023 G.C.E. Advanced Level examination’s Agricultural Science I & II question papers allegedly being leaked prior to the exam.
+
+The 38-year-old male suspect had served as the peon of the exam centre chief at the A/L examination centre established at the Moratuwa Maha Vidyalaya, Police Media Spokesman SSP Nihal Thalduwa said.
+
+On Sunday (14), the A/L Agricultural Science teacher of a popular government school in Ampara was arrested by the CID in relation to the same incident. The police also found the 2023 G.C.E Advanced Level examination’s Agricultural Science I & II question papers written in his own handwriting at his house.
+
+The 52-year-old male teacher reportedly also conducts tuition classes for A/L students, according to police.
+
+He was ordered to be remanded in custody until 26 January 2024, after he was produced before the Ampara Magistrate’s Court.
+
+On Friday (Jan. 12), the Department of Examinations decided to cancel the 2023 G.C.E. Advanced Level examination’s Agricultural Science I & II question papers, due to reports that several questions of the paper had been leaked prior to the exam.
+
+Accordingly, the relevant test paper, which students sat for on 10 January, had been deemed invalid by the Department of Examinations on account of numerous questions included in the paper having been leaked before the exam date.
+
+The Department of Examinations announced that the date for the rescheduled paper would be notified later.
+
 ### நீர்க் கட்டணத்தைக் குறைக்க முடியும்;ஜீவன்
 
 *2024-01-15 16:25:17 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/நீர்க்-கட்டணத்தைக்-குறைக்க-முடியும்-ஜீவன்/175-331536)*
@@ -369,6 +545,26 @@ Excessively high import duties on some items, imposed to give artificially high 
 பேராதனைப் பல்கலைக்கழகத்தில் இடம்பெற்ற சந்திப்பின் போது, ​​மின் கட்டணம் அடுத்த மாதம் குறைக்கப்படும் என மின்சக்தி அமைச்சர் உறுதியளித்துள்ளதாகவும், நீர் விநியோகச் செலவு குறைவதால், அதற்கேற்ப நீர்க் கட்டணத்தையும் குறைக்கலாம் என்றும் அவர் தெரிவித்தார்.
 
 2019 ஆம் ஆண்டு ஜனவரி மாதம் மின்சாரக் கட்டணம் 66 வீதத்தால் அதிகரிக்கப்பட்ட போது நீர்க் கட்டணம் அதிகரிக்கப்பட்டதாகத் தெரிவித்த அவர், மின்சாரக் கட்டணம் 50 வீதத்தால் குறைக்கப்படும் போது கணிசமான அளவு நீர்க் கட்டணத்தைக் குறைக்க முடியும் என்றும் தெரிவித்தார்.
+
+### Derailment disrupts train services on Up-country Line
+
+*2024-01-15 16:19:00 - [adaderanalk](https://www.adaderana.lk/news/96420/derailment-disrupts-train-services-on-up-country-line)*
+
+The special express train operating from Badulla to Kandy has derailed between the Nanu Oya and Great Western railway stations, the Department of Railways said.
+
+As a result, the trains operating on the Up-country Line, which are passing through the relevant section of the railway line may experience delays, the department announced.
+
+### Passenger bus catches fire on Southern Expressway
+
+*2024-01-15 16:09:00 - [adaderanalk](https://www.adaderana.lk/news/96419/passenger-bus-catches-fire-on-southern-expressway)*
+
+A passenger transport bus has caught fire near the Beliatta interchange on the Southern Expressway this evening (15), the police said.
+
+Police stated that the bus had been completely destroyed due to the fire, and that no passengers were injured in the incident.
+
+The passenger bus was believed to be travelling from Badulla to Colombo, the Expressway Police said.
+
+The cause of the fire has not been ascertained as of yet, while further investigations are being carried out by the Expressway Police in Angunukolapelessa.
 
 ### பதுளைக்கு பயணித்த பஸ் பற்றி எரிந்தது
 
@@ -946,9 +1142,11 @@ Thondaman said the goal of the reforms was to create a more sustainable water se
 
 වැඩිදුරටත් කරුණු දැක්වූ නීතිඥ ප්‍රසාද් සූරියාරච්චි "මේ නඩු තීන්දුව රංගන ශෛලීන් අනුකරණය කිරීමට අදාලව ශ්‍රී ලංකාවේ ප්‍රකාශයට පත් කෙරුණු ප්‍රථම නඩු තීන්දුව වශයෙන් සඳහන් කරන්න පුළුවන්. රංගනයක් අනුකරණය කරන්න පුළුවන්ද බැරිද යන සැකය කාලයක් තිස්සේ රංගන ක්ෂේත්‍රයේ පැවතුණා. දැන් ඊට පැහැදිලි පිළිතුරක් ලැබී තිබෙනවා."යනුවෙන් සඳහන් කර සිටියේය.
 
-ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
+යුරෝ සොයා නීතිවිරෝධීව ඉතාලියට: ‘ජීවිතේ නම් කටුකයි, නමුත් කරන්න දෙයක් නැති කමට කාගෙන ඉන්නවා’
 
 ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
+
+ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
 
 ### Health sector employees to go on strike tomorrow
 
@@ -1282,11 +1480,11 @@ Misty conditions can be expected in most provinces in the island during the morn
 
 බදු හිමියා විසින් ගැටලුව විසදා ගැනීමට කටයුතු කරන අවස්ථාවක කල්බදු ආයතනය දිගින් දිගටම එය නොසලකා හරින්නේ නම්, ඒ බව ශ්‍රී ලංකා මහ බැංකුවේ මූල්‍ය පාරිහෝගික සබඳතා දෙපාර්තමේන්තුව වෙතත්, මූල්‍ය ඔම්බුඩ්ස්මන්වරයාටත් පැමිණිලි කළ හැකි අතර, එම ආයතනයන්ට අදාළ මූල්‍ය ආයතන පිළිබඳ ඕනෑම පැමිණිල්ලක් සහ ආරවුලක් පිළිබඳව විමසා බලා විසඳීමට බලය ඇත.
 
-ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
+යුරෝ සොයා නීතිවිරෝධීව ඉතාලියට: ‘ජීවිතේ නම් කටුකයි, නමුත් කරන්න දෙයක් නැති කමට කාගෙන ඉන්නවා’
 
 ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
 
-යුරෝ සොයා නීතිවිරෝධීව ඉතාලියට: ‘ජීවිතේ නම් කටුකයි, නමුත් කරන්න දෙයක් නැති කමට කාගෙන ඉන්නවා’
+ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
 
 ### மதுபானசாலைகளுக்கு பூட்டு
 
@@ -1711,323 +1909,3 @@ The Department of Examinations announced that the date for the rescheduled paper
 மற்­றொரு பக்கம் தமிழ் மக்­க­ளுடன் நல்­லி­ணக்­கத்தை ஏற்­ப­டுத்­து­வ­தற்கு முயற்சி செய்­வ­தாக காட்டிக் கொண்டார்.
 
 அதற்கு, அவ­ருக்கு பக்­க­ப­ல­மாக இருந்­த­வர்கள்  லக் ஷ்மன் கதிர்­கா­மரும், மங்­கள சம­ர­வீ­ரவும். இவர்கள் விடு­தலைப் புலி­க­ளிடம் இருந்து தமிழ் மக்­களை பிரித்­தெ­டுத்து அந்­நி­யப்­ப­டுத்­து­வ­தற்­காக நல்­லி­ணக்க முயற்­சி­களை முன்­னெ­டுத்­தனர்.
-
-### CINEC Campus wins Presidential Award for Best Education Services Exporter 2022/23
-
-*2024-01-14 18:11:00 - [islandlk](http://island.lk/cinec-campus-wins-presidential-award-for-best-education-services-exporter-2022-23/)*
-
-CINEC affirmed another milestone in outstanding performance and academic excellence with the receipt of the ‘Presidential Export Award in the category of Education Services for two consecutive Years 2021 / 2022 & 2022/2023’. The covetous award was received by Capt. Ajith Peiris, President of CINEC at the awarding ceremony held at the Bandaranaike Memorial International Conference Hall (BMICH) under the patronage of President Ranil Wickramasinghe. Bestowed with the national recognition for exporters particularly in the service sector, CINEC is now privileged to use the “Award Logo” as a marketing tool for a 3 year period, thus intends to further and promote its contribution to the education sector in exploring the global market.
-
-Established in 1990, maintaining a proven track record of achievement, CINEC has now grown from strength to strength. As the leading and most diversified non-state higher educational training institute, it is now equipped with five fully-fledged faculties to offer internationally recognized certificate courses, diplomas, degrees as well as postgraduate degrees from Maritime to Engineering, Management, Logistics, IT, Aviation, Health, Education and Languages and Hotel and Tourism Management.
-
-Hayleys Solar surpasses 150MWp as Sri Lanka’s premier rooftop solar provider
-
-CINEC Campus wins Presidential Award for the Best Education Services Exporter 2022/23
-
-CINEC Campus Metro Branch launches four new UK degree programmes
-
-CINEC Campus recognized for successful commercialization efforts in university research
-
-CINEC Campus awarded for successful commercialisation efforts of university research
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### Soap and Allied Industries marks 25 years of success
-
-*2024-01-14 18:11:00 - [islandlk](http://island.lk/soap-and-allied-industries-marks-25-years-of-success/)*
-
-Soap and Allied Industries (SAIL), a leading entity under Colombo Machinery and Equipment Limited (CMEL), celebrated its 25th anniversary at Shangri-La Colombo.The event included esteemed partners like Nestlé, Hemas, Unilever, and Coca-Cola. Employees were honored with Silver Coins and Dubai tour packages.
-
-SAIL unveiled a new logo symbolizing its journey and inaugurated the Flavour and Fragrance Experience Centre with Argeville of France. Rizky Deen, Director at SAIL, expressed, “SAIL’s 25th anniversary is a testament to our resilience, adaptability, and commitment to excellence. We express our heartfelt gratitude to our customers, partners, and employees who have been integral to our success. The new logo reflects our journey and sets the stage for many more years of excellence in every endeavor.”
-
-Founded in 1998 with three employees and a modest capital, SAIL embarked on its journey in a 500-square-foot rented space. Evolving over the years, it became a leading importer and supplier of chemicals, shaping Sri Lanka’s manufacturing landscape.
-
-SAIL’s comprehensive range of products includes essential ingredients like caustic soda, soap noodles, dyes, pigments, and fragrances required to food and beverage, confectionery, soap and detergent, cosmetics, textiles, rubber, and plastic industries as well as water treatment facilities.
-
-CINEC Campus wins Presidential Award for Best Education Services Exporter 2022/23
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### BOC U.K. embarks on digital transformation initiative
-
-*2024-01-14 18:10:00 - [islandlk](http://island.lk/boc-u-k-embarks-on-digital-transformation-initiative/)*
-
-Bank of Ceylon (UK) Ltd (BOC UK), the only financial institution with a Sri Lankan heritage in the United Kingdom, celebrating its 75th anniversary next year has partnered with IFINITY GLOBAL to embark on a significant digital transformation initiative. This innovative collaboration aims to redefine banking experiences and strengthen BOC UK’s presence in the UK by transforming its traditional banking environment into a digital banking ecosystem revolutionising the way it would do banking in the future.
-
-BOC UK was established in 1949 as the first overseas branch of the Bank of Ceylon and then in 2010 became a wholly-owned subsidiary bank authorised and regulated by the Prudential Regulatory Authority (PRA) and the Financial Conduct Authority (FCA) has launched its ambitious plans to capitalise on its presence in London, the second-largest fintech hub in the world, and Europe’s fintech epicentre. The digital transformation roadmap objectives will ultimately transform the bank into a digital bank with an open banking architecture.
-
-Last year, the bank facilitated over GBP 10 million in inward remittances to Sri Lanka, channeling much-needed foreign currency via its remittance services. During the recent economic turmoil, the bank continued to support trade transactions by adding confirmation to LCs issued by most of the Sri Lankan banks to help the Sri Lankan economy. Further, BOC UK was able to channel more than USD 60 million as bilateral funding swap arrangements. The bank has also helped a few Sri Lankan businesses and entrepreneurs to expand their business into the UK and European markets by helping to set up business and banking services.
-
-David Pieris brings more than 1,600 employees together to mark DPMC’s 30-year journey
-
-Hayleys Solar surpasses 150MWp as Sri Lanka’s premier rooftop solar provider
-
-BOC ends Q2-2023 on positive note, ‘ensuring its presence in SL’s development agenda’
-
-Bank of Ceylon hosts Wesak Bathi Gee in celebration of Wesak Poya Day
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### 13இன் அதி­காரம் போதுமா?
-
-*2024-01-14 18:10:00 - [virakesarilk](https://www.virakesari.lk/article/173955)*
-
-1987 ஆம் ஆண்டு 13 ஆவது திருத்­தச்­சட்டம் கொண்டு வரப்­பட்ட போதும், அதனை இன்­று­வரை எந்த ஒரு அர­சாங்­கமும் முழு­மை­யாக நடை­மு­றைப்­ப­டுத்­த­வில்லை.
-
-இவ்­வா­றான நிலையில், வடக்கை அபி­வி­ருத்தி செய்ய 13ஆவது திருத்தச் சட்­டத்தின் அதி­கா­ரங்­களை போது­மா­னது என்­பது கேலித்­த­ன­மான கருத்­தாகும்.
-
-ஜனா­தி­பதி ரணில் விக்­கி­ர­ம­சிங்க 13 ஆவது திருத்தச் சட்­டத்தை முழு­மை­யாக நடை­மு­றைப்­ப­டுத்­தவும் தயா­ரில்லை. அதனை தாண்டிச் செல்­வ­தற்கும் தயா­ரில்லை.
-
-13 என்ற பொறிக்குள் தமி­ழரைச் சிக்­க­வைத்து. அபி­வி­ருத்தி மாயைக்குள் மூழ்கச் செய்து, அர­சியல் தீர்வு விட­யத்தை இல்­லாமல் ஆக்க முற்­ப­டு­கிறார்.
-
-### Hayleys Solar surpasses 150MWp as Sri Lanka’s premier rooftop solar provider
-
-*2024-01-14 18:10:00 - [islandlk](http://island.lk/hayleys-solar-surpasses-150mwp-as-sri-lankas-premier-rooftop-solar-provider/)*
-
-Hayleys Solar, the renewable energy arm of Hayleys Fentons recently surpassed 150MWp of installations, a national record for rooftop solar PV capacity in Sri Lanka, setting a new milestone in the island’s transition to renewable energy.
-
-By March 2023, Hayleys Solar crossed its milestone of 125MW and has continued to add new rooftop solar capacity to its portfolio, in various locations across the country. Its 150MWp of solar capacity is enabling Hayleys Solar to save close to 151,835 tons of carbon dioxide (CO2) emissions released to the air every year.
-
-Expressing his views, Hasith Prematillake, the Managing Director of Hayleys Fentons stated: “This achievement is the largest to be installed across the island by any single entity and supports us to empower the community making solar solutions closer to all via accessibility and affordability. We are grateful for the trust and support our customers have placed in us.”
-
-Hayleys Solar continues to establish solar experience centres island-wide, adding to its portfolio of experience centres in Matara and Jaffna with new launches in Nawala, Katunayake, Kurunegala and Kandy soon, This will make it easier for people from different communities to access and learn about solar solutions.
-
-These centres offer a comprehensive range of applications, including rooftop PV systems, batteries, and inverters, alongside live demonstrations of Solar-powered Water Pumps, Lighting systems and Solar Powered Hot Water Systems. With high electricity tariffs, Hayleys Solar offers easy payment plans and loan facilities to support affordability for households and businesses to transition to solar.
-
-CINEC Campus wins Presidential Award for Best Education Services Exporter 2022/23
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### நல்லூரை விடப் பெரிய ஆலயம் தேவையா?
-
-*2024-01-14 18:09:00 - [virakesarilk](https://www.virakesari.lk/article/173957)*
-
-நல்லூர் கந்தன் ஆல­யத்தின் கத­வுகள் குறிப்­பிட்ட நேரம் தவிர மற்ற நேரங்­களில் மூடப்­பட்­டி­ருக்கும். எந்த அதி­காரம் படைத்­த­வர்­க­ளுக்­கா­கவும் அந்த கத­வுகள் திறக்­கப்­பட்­டது இல்லை.
-
-சிறி­மாவோ பண்­டா­ர­நா­யக்க பிர­த­ம­ராக இருந்­த­போது, குறித்த நேரம் தவ­றி­யதால் ஆல­யத்­துக்குள் செல்ல முடி­யாமல் திரும்பிச் செல்ல நேரிட்­டது.
-
-அது­போல ஆல­யத்­துக்கு என சில சம்­பி­ர­தாய மர­புகள் உள்­ளன. ஆண்கள் மேலங்­கி­யுடன் ஆல­யத்­துக்குள் செல்ல முடி­யாது. இந்­திய பிர­தமர் நரேந்திர மோடி இலங்கை வந்திருந்த போது, நல்லூர் கந்தன் ஆலயத்திற்கு செல்ல திட்டமிட்டிருந்தார்.
-
-### HNB enters Distributor Finance Agreement with the CBL Group
-
-*2024-01-14 18:09:00 - [islandlk](http://island.lk/hnb-enters-distributor-finance-agreement-with-the-cbl-group/)*
-
-HNB PLC, has inked a momentous Distributor Finance Agreement with Ceylon Biscuits Limited (CBL) Group, reinforcing its commitment to fostering economic growth and providing tailored financial solutions to businesses in Sri Lanka.
-
-Under this strategic partnership, HNB PLC has extended its Distributor Financing Scheme to encompass Ceylon Biscuits Limited CBL Foods International (Pvt.) Limited and CBL Exports (Pvt.) Limited. These entities, operating within the confectionery cluster of CBL Group, are internationally renowned for manufacturing and distributing a diverse array of products, including biscuits, wafers, cakes, and chocolates.
-
-Commenting on the collaboration, HNB Deputy General Manager, SME & Micro Finance, Rajive Dissanayake said: “Strengthening our financial partnership with CBL Group through the Distributor Finance Agreement is a testament to our commitment to supporting and empowering businesses in Sri Lanka. This strategic partnership reflects our dedication to providing tailored financial solutions, fostering economic growth, and contributing to the overall prosperity of the communities we serve.
-
-SLPA to establish new terminal services agreements with shipping lines
-
-HNB collaborates with the leading online educational payment portal – MyFees.lk
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### ஹூத்தி கிளர்ச்சியாளர்கள், செங்கடல் மற்றும் இலங்கை அரசியல்
-
-*2024-01-14 18:05:00 - [virakesarilk](https://www.virakesari.lk/article/173960)*
-
-கடற்படை தளவாடங்கள் என்பது, குறிப்பாக போட்டித்தன்மையான கடற்பரப்பில் ஓர் நாட்டின் புவிசார் அரசியல் நிலைப்பாடு தொடர்ந்து பரிசோதிக்கப்படும் கருவிகளாகும்.
-
-அக்டோபர் 7 அன்று ஹமாஸ் இஸ்ரேல் மீது திடீர் தாக்குதலை நடாத்திய பிறகு, அமெரிக்கா உடனடியாக வளைகுடா மற்றும் மத்திய தரைக்கடல் பகுதிகளுக்கு இரண்டு துருப்புக்காவி குழுக்களை அனுப்பியது. இதன் நோக்கம் இஸ்ரேலைத் தாக்கும் சாத்தியமான இஸ்ரேலிய எதிர்ப்பு சக்திகளைத் தடுப்பதாகும்.
-
-உலகின் பல்வேறு பகுதிகளில் தங்கள் கடற்படை தளவாடங்களை நிலைநிறுத்துவதன் மூலமாக தங்களின் நோக்கங்களை வெளிப்படுத்துவதற்கு உலகளாவிய அதிகாரங்கள் தொடர்ந்து தங்களது கடற்படை திறனைப் பயன்படுத்துகின்றன. பெரும்பாலான நேரங்களில் இந்த கடற்படை தளவாடங்கள் குறிப்பான தேசிய நலன்களை பூர்த்தி செய்ய பயன்படுத்தப்படும். அதற்கு இலங்கையும் வேறுபட்டதல்ல: கடந்த காலத்திலும் அதையே  மேற்கொண்டதுடன், எதிர்காலத்திலும் அதையே மேற்கொள்ளும்.
-
-ஹூத்தி குழுவின் தாக்குதல்களில் இருந்து சர்வதேச கப்பல் வழித்தடங்களை பாதுகாப்பதற்காக இலங்கை கடற்படை கப்பலை பாப் எல் மாண்டேப்பிற்கு அனுப்புவதற்கு தீர்மானிக்கப்பட்டுள்ளதாக இலங்கை ஜனாதிபதி தெரிவித்துள்ளார்.
-
-இந்த அறிக்கையை, குறிப்பாக உள்நாட்டில் கடுமையான பொருளாதார நெருக்கடியின் போது செயற்பாட்டு செலவீனங்கள், கண்காணிப்பு உபகரணம் மற்றும் ஆதரவு தளவாடங்கள் மூலமாக இந்த கப்பல்களில் முதலீடு செய்வதற்கு அரசியல் தலைமை எந்தளவிற்கு தயாராக இருக்கும் என்பதை உறுதிப்படுத்த முடியாது என்றாலும், அதே நேரத்தில் இது கடற்படை தவறவிடக் கூடாத ஒரு வரவேற்கத்தக்க சந்தர்ப்பமாகும்.
-
-இலங்கை கடற்படையானது முன்னைய சந்தர்ப்பங்களிலும் தேசிய நலன்களை நிறைவேற்றும் வகையில் கடற்படையின் நிலைநிறுத்தங்களை நிறைவேற்றியுள்ளது. 1950 ஆம் ஆண்டு புத்தரின் புனித தந்ததாதுவை கப்பல் மூலம் மியான்மருக்கு பரிமாற்றும் பணியில் அப்போதைய அரச இலங்கை கடற்படை ஈடுபட்டது.
-
-சமீப காலங்களில் இருந்து, 2007 முதல் 2008 வரை பிரிவினைவாத பயங்கரவாதிகளின் மிதக்கும் களஞ்சியசாலைகளை வேட்டையாடுவதில் கடற்படை ஒரு தனிச்சிறப்பு வாய்ந்த நிலைநிறுத்தலை மேற்கொண்டது. இராணுவ விருப்பமும் அரசியல் விருப்பமும் ஒருங்கிணைக்கப்பட்டவுடன், பிரிவினைவாத பயங்கரவாதிகளின் மையத்தின் பின்செல்வதற்கு ஓர் துணிச்சலான தீர்மானம் எடுக்கப்பட்டது. கடலோர சரக்குக் கப்பல்கள் துப்பாக்கிச் சூட்டில் ஈடுபட்டுள்ளதுடன் ஆழ்கடல் எல்லைகளில் தஞ்சம் புகுந்தது. இந்தக் கடல்களை கடற்படை அணுகத் துணியவில்லை என்று எதிரி தவறாக உணர்ந்தான்.
-
-பின்னர், போதைப்பொருள் அச்சுறுத்தலால், கடற்படை மீண்டும் கடலுக்குச் சென்றது. அது இம்முறை இலங்கை மீன்பிடிக் கப்பல்களுக்கு போதைப்பொருள் கடத்தும் தாய்க்கப்பலாகச் செயற்பட்ட ஈரானிய பாய்மரக்கப்பலைத் தேடி அரபிக்கடலின் தெற்கே சென்றது.
-
-2019 இல் அந்த தீர்மானம் எடுக்கப்படுவதற்கு முன்னராக, இலங்கை கடற்படை அரபிக் கடல் தங்களுக்கான செயற்பாட்டு பகுதியல்ல என்று முடிவு செய்ததால், இலங்கை கடற்படை இந்திய கடற்படை மற்றும் பஹ்ரைனை தளமாகக் கொண்ட ஒருங்கிணைந்த கடல்சார் படை (CMF) ஆகியவற்றின் உதவியை நாடியது. ஆனால் இந்தியா மற்றும் CMF இரண்டும் கப்பல்கள் கிடைக்காத காரணத்தால் உதவி வழங்க மறுத்தமையால், NHQ தானே நடவடிக்கையில் ஈடுபட முடிவு செய்தது. போதைப்பொருள் கடத்தலில் ஈடுபட்ட பல தாய் கப்பல்கள் மற்றும் இலங்கை மீன்பிடி படகுகள் கைது செய்யப்பட்டமை பின்னைய வரலாறாகும்.
-
-கடற்படை தளவாடங்களை பயன்படுத்துவதில், கருத்திற் கொள்ள வேண்டிய முதன்மையான காரணி, எதற்காக? அவசியம் என்ன? இது நமது தேசிய நலனுக்காகவா? என்பனவாகும்.
-
-மேலே குறிப்பிடப்பட்ட நிகழ்வுகளில், குறிப்பாக தெற்கு அரபிக் கடல் செயற்பாட்டு நலன்களின் ஒரு பகுதியாக கருதுவதில் ஓர் தெளிவான தேசிய நலன் இருந்தது. அதே நேரத்தில், பிரிவினைவாத பயங்கரவாதத்திற்கு தெற்கு மற்றும் தென்கிழக்கு நோக்கிய பரந்த கடற்பகுதி, அவுஸ்திரேலிய பிரத்தியேக பொருளாதார வலயத்தின் உடனடுத்த சுற்றளவு பகுதிவரை, நலனளிக்கும் பகுதியாக இருந்தது.
-
-இங்கே கேட்க வேண்டிய வினா என்னவென்றால், பாப்-எல்-மண்டேப்பும் ஓர் தேசிய நலனை உருவாக்குமா? இந்த பகுப்பாய்வானது, செயற்பாட்டு செலவினங்களின் செலவை சமநிலைப்படுத்த வேண்டிய அவசியத்திற்கு எதிராக அந்த வாய்ப்பைப் பற்றி கலந்துரையாட விரும்புகிறது.
-
-பிராந்திய கடற்படை விவகாரங்களில் பங்கேற்பது நல்லது, ஏனெனில் இவை நமது நம்பகத்தன்மையை அதிகரிப்பதுடன் பிராந்திய பங்காளராக எங்களை ஏற்றுக்கொள்ளும்.
-
-இருப்பினும் இதனை நிரூபிப்பதற்கு நாம் அதிக தூரம் செல்ல வேண்டுமா? ஏற்கனவே பல கடற்படை மன்றங்களில் பாராட்டப்பட்டிருக்கின்ற எங்களின் கடற்படை முக்கிய வகிபங்கை ஆற்றி வருவதால் நாம்  போக வேண்டிய அவசியமில்லை என்று எழுத்தாளர் நம்புகிறார்.
-
-எங்கள் கடல்சார் நியாயாதிக்க எல்லை பாதுகாப்பாகவும் பந்தோபஸ்துடனும் இருப்பதை உறுதிசெய்துள்ளதுடன், கடல்சார் விவகாரங்களை ஒருங்கிணைப்பதில் எங்களுடன் இணைந்துள்ள பிராந்தியங்களில் அனைத்து தேடல் மற்றும் மீட்புப் பணிகளில் ஒத்துழைத்துள்ளோம். மேலும், அவுஸ்திரேலியா, மாலைதீவுகள் மற்றும் BoB பிராந்தியத்திற்கான போதைப்பொருள் வழித்தடங்களைப் பாதுகாப்பதில் நாங்கள் ஏற்கனவே முனைப்பான பங்குதாரராக உள்ளோம்.
-
-முக்கிய கடற்படைகள் சண்டையில் ஈடுபடாமல், தங்களது துருப்புகள் மற்றும் இயந்திரங்களைப் பயிற்றுவிப்பதற்காவே இந்த முக்கியத்துவமான இடங்களுக்குள் குதிக்க விரும்புகின்றன. இந்த " முக்கியத்துவமான இடங்களில்" செயற்படுவதன் மூலமாக நீங்கள் எந்தளவு கற்றுக்கொள்கிறீர்கள் என்பது இந்த கடற்படையினரால் அறியப்படுவதுடன் எந்த உருவகப்படுத்தப்பட்ட  முறைமையாலும் அதனை ஈடு செய்ய முடியாது. இது முக்கியத்துவமான இடங்களுக்கு அருகில் செயற்படும் விடயமேயன்றி முக்கியத்துவமான இடங்களுக்குள் செய்யப்படுவதல்ல.
-
-1980களின் நடுப்பகுதியில், ஈரானிய சிறிய படகுகளால் ஹார்முஸ் ஜலசந்தியில் அவர்கள் நடாத்திய சண்டைகளில் அமெரிக்க கடற்படை சில கடினமான பாடங்களைக் கற்றுக் கொண்டது. அமெரிக்க தந்திரோபாயங்கள் கடற்படை சக்தியை விட விமான சக்தியை (முதன்மையாக ஹெலிகொப்டர்கள்) சார்ந்ததாகும்.
-
-இத்தகைய உயர் ஸ்தாயியில், தீவிரமான மற்றும் ஆற்றல்மிக்க மோதல்களில், இயந்திரங்களும் படையினரும் மிகவும் வேறுபட்டு நடந்து கொள்கிறார்கள். பல நிகழ்வுகளில் ஒன்றில், ஜூலை 3, 1988 அன்று ஈரானிய விமானம் 655 ஐ USS வின்சென்ஸ் சுட்டு வீழ்த்தியமையாகும். பந்தர் அப்பாஸிடம் இருந்து புறப்பட்ட இந்த விமானம் வேகமாக வரும் வேகப்படகு என தவறாக அடையாளம் காணப்பட்டது.
-
-செப்ரெம்பர் 1, 1983 அன்று கொரியன் விமானச்சேவை விமானம் 007 சாகலின் தீவுகளில் சுட்டு வீழ்த்தப்பட்டதாக ரஷ்யர்கள் மூது குற்றம் சாட்டப்பட்டதால், அப்போதைய சோவியத் ஒன்றியத்திற்கு இது பதிலடி கொடுக்கும் தருணமானது. கடற்படை தளவாடங்கள் திரும்பப் பெறப்பட்ட சில நாட்களில், அமெரிக்க கடற்படை நிலைப்படுத்துகை மாற்றப்பட்டதுடன், ஹார்முஸ் ஜலசந்தியில் விரோதங்கள் படிப்படியாக குறைந்துவிட்டன.
-
-நாம் இதுபோன்ற சூழ்நிலைகளுக்கு தயாரா? நமது சொந்த விவகாரங்களை நிர்வகிப்பதில் குழப்பம் ஏற்பட்டிருக்கும் போது, அதிகமான சர்வதேச ஈடுபாடுகள் மற்றும் புவி மூலோபாய அழுத்தங்களில் ஈடுபடுவதற்கு நாம் தயாராக உள்ளோமா?
-
-உலகளாவிய விவகாரங்களை அடைவதற்கான இந்த "அசாதாரண" தீர்மானங்களின் நோக்கங்கள் இருபக்க விளைவை உடையன என்று வரலாறு குறிப்பிடுகிறது. ஒருபுறம், இவை உள்ளக அரசியல் பிரச்சினைகளிலிருந்தான திசைதிருப்பல்களையும், மறுபுறம், அவை ஒரே நேரத்தில் நீங்கள் இருக்கக்கூடிய மற்றும் இல்லாத சூழ்நிலைகளையும் கொண்டுள்ளன! வேறு வார்த்தைகளில் கூறுவதானால், அவை நாம் சொற்களின் மூலமாக மட்டுமே எதையாவது  மேற்கொள்ளக்கூடிய வசதியான வழிவகைகள், செயல்கள் மூலமாக அல்ல!
-
-ஜனாதிபதியின் சிந்தனை செயன்முறையை ஊடக பிரசுரம் மூலமாக ஆய்வு செய்த எழுத்தாளர், அதனை வெற்று வார்த்தைகளின் தொகுப்பாக உணர்கிறார், அங்கு அடிப்படை சிந்தனை புத்திசாலித்தனமாக இருக்கலாம், ஆனால் அதே நேரத்தில் சரியான செயற்திட்டம் அல்லது உத்தி இருக்கவில்லை. ஜனாதிபதி அவர் பேசியபடி நடந்திருந்தால், கடல்சார் விவகாரங்களால் வழிநடாத்தப்படும் உலகளாவிய போட்டியின் சூழலில் இந்த தீவு தேசம் இப்படி இருந்திருக்காது.
-
-இந்த பதட்டமான கடற்பரப்பில் செயற்படுவதற்கு, எங்களது கடல் ரோந்து கப்பல்களுக்கு (OPVs) வெப்ப கமெராக்கள் மற்றும் நிலைப்படுத்தப்பட்ட தளங்களின் வடிவத்தில் புதிய நிறுவல்கள் தேவைப்படுவதுடன், அவை 2009 முதல் மாற்றப்படவில்லை. எங்களின் அனைத்து EW உபகரணங்களும் இப்போது செயற்படாமையால், எங்களுக்கு சிறந்த இலத்திரனியல் போர் உபகரணங்கள் தேவைப்படும்.
-
-ஆயுதங்கள் தொடர்பில் பார்த்தால், OPVகள் இன்னும் மேற்பரப்பு மற்றும் ட்ரோன் அச்சுறுத்தல்களை வினைத்திறனாக எதிர்கொள்ளும் திறன் கொண்டவையாகும். வான்வழி அச்சுறுத்தல்கள் மற்றும் சாத்தியமான ஏவுகணைத் தாக்குதல்களை எதிர்கொள்வதற்கு நாங்கள் பயன்படுத்திய பழைய பயிற்சி நுட்பங்களை புத்துயிரூட்டவேண்டியது ஓர் விடயமாகும். எங்களது சொந்த அலகுகளை அணுகும் எந்தவொரு ட்ரோன் அல்லது மேற்பரப்பு கப்பல்களையும் ஒரு மிகப்பெரிய "நெருப்பு கூம்பின்" கீழ் கொண்டு வருவதுடன், இதனால் அவற்றை அழிக்கலாம்.
-
-இருப்பினும், ஹூத்திகள் ஏவுகணைகளையும் அனுப்புகின்றனர். தொழில்நுட்ப அடிப்படையில் போரின் சமச்சீரற்ற தன்மை நிறைய மாறிவிட்டதுடன், அதனால் அமெரிக்க கடற்படையானது வணிக ரீதியான ட்ரோன்கள், கப்பல் எதிர்ப்பு ஏவுகணைகள் மற்றும் சிறிய ஆளுடைய மற்றும் ஆளில்லா மேற்பரப்பு கப்பல்களைப் பயன்படுத்தும் அரச சார்பற்ற தரப்பினருடன் போட்டியிடுகிறது.
-
-இது சமீபத்திய ஆண்டுகளில் அதிவேகமாக விரிவடைந்த இந்தியாவின் பாதுகாப்புத் துறைக்கான சிறந்த சோதனைக்களமாகும். இந்திய தேசிய நலன்களைப் பாதுகாப்பது என்ற சாக்கில், ரேடார்கள், சென்சார்கள், கண்காணிப்பு கருவிகள் மற்றும் புதிய போர் ஹெலிகொப்டர்கள் கூட போர் எந்தளவிற்கு வினைத்திறனாக இருக்கும் என்பதை சோதிக்க வேண்டிய நேரம் இதுவாகும். இந்த சூழ்நிலைகள் இவ் வடிவத்தில் அடிக்கடி இருப்பதில்லை என்பதுடன் இவ்வாறு இருக்கக்கூடாது.
-
-தீவு நாட்டில் பொருளாதார நெருக்கடி ஏற்பட்டுள்ள வேளையில் ஜனாதிபதியின் அறிக்கை கடற்படையினர் தவறவிடக்கூடாத ஒரு சந்தர்ப்பமாகும். 2022 முதல், கடற்படை ஒருபுறம் இருக்க, ஆயுதப் படைகளில் எதுவித மூலதன முதலீடும் கடினமாக இருந்தது. பாரிய பாதுகாப்பு வரவுசெலவுத் திட்டத்தைப் பற்றி பெருமையாகக் கூறினாலும், பாதுகாப்பு வரவுசெலவுத் திட்டங்களுக்காக செலவு செய்யப்பட்டமை அரச மூலதனச் செலவினங்களில் 30% க்கும் குறைவாக இருப்பதாகவே எழுத்தாளர் கருதுகின்றார். எனவே, இன்றைய செயற்பாட்டுத் தேவைகளுக்காக முதலீடுகளைப் பெறுவதற்கு, அரச தலைவரின் "விருப்பங்கள்" இறுதிவரை பயன்படுத்தப்பட வேண்டும்.
-
-இலங்கை கடற்படை ஏன் இந்த வாய்ப்பை தவறவிடக்கூடாது என்பதற்கான இரண்டாவது காரணம், அது அரேபிய கடலில் போதைப்பொருள் கடத்தலுக்கு எதிரான நமது போரில் நேரடித் தாக்கத்தை ஏற்படுத்தும் ஒரு கடற்பகுதியில் எமது கடற்படை செயற்படுவதற்கான காரணத்தை வழங்குகிறது. எழுத்தாளர், ஒரு கடல்சார் செயற்பாட்டாளராக, இலங்கைக்கான அரேபிய கடலில் போதைப்பொருள் மற்றும் போதைப்பொருட்களை இடைமறிப்பதில் ஆர்வமுள்ள எந்தவொரு பிராந்திய அல்லது பிராந்தியத்திற்கு அப்பாற்பட்ட கடற்படையையும் சந்திக்கவில்லை.
-
-ஆகவே, இது யேமன் வளைகுடா மற்றும் அரபிக்கடலுக்கு (ஒருவேளை வடக்குப் பகுதியில் இல்லாவிட்டாலும்) எங்களது "செயற்பாட்டு ஆர்வத்தை" விரிவுபடுத்தும் நேரமென்பதுடன், அதே நேரத்தில் கடலில் இருந்து போதைப்பொருள் அச்சுறுத்தலை எதிர்த்துப் போராடுவதில் நமது தேசிய ஆர்வத்தை செங்கடலின் தெற்கில் உள்ள மற்ற நாடுகளுடன் கூட்டு சேர்ந்து செயற்படும் அரசியல் ஆர்வத்துடன் ஒருங்கிணைக்க வேண்டும்.
-
-எழுத்தாளர் முன்னறிவிக்கின்ற ஒரேயொரு குறைபாடு, அமெரிக்கத் தலைமையிலான முன்முயற்சிகளுக்கு இலங்கை ஒரு "பங்காளர்" என்று குறியிடப்படுவதுடன், இதன் மூலம் சீன முகாமின் இழப்பில் QUAD முகாமுடனான சாத்தியமான தொடர்பை மறைமுகமாக சுட்டிக்காட்டுவதாகும்! சுதந்திரமான ஊடக அபிப்பிராயதாரர்கள் இந்த முன்னோக்குகளை வலியுறுத்துவதுடன், சிலவேளை நமது சொந்த அரசியல் தலைவர்களை விட இந்திய பாதுகாப்பு ஆய்வாளர்கள் அதிகமாக வலியுறுத்துவார்கள்!
-
-செங்கடலின் தெற்கில் செயற்படுவதால், நாம் எதனைப் பெறுவோம்? எல்லாவற்றிற்கும் மேலாக, அரசாங்கம் முன்னோக்கிச் சென்று உண்மையில் தேவையான தொழில்நுட்பத் தேவைகளில் முதலீடு செய்தால், இலங்கை கடற்படையானது பிராந்திய மற்றும் பிராந்தியத்திற்கு அப்பாற்பட்ட கடற்படைகளுடன் இணைந்து செயற்பட முடியும்.
-
-இது மற்றொரு பிரச்சினையை பொய்யாக்குகிறது. ஈரானும் வளைகுடா நாடுகளும் நமது வருகையை அங்கீகரிக்குமா? கடந்த ஐந்து ஆண்டுகளில் வளைகுடா நாடுகளில் அரசியல் சிந்தனைகள் அதிகளவு மாற்றமடைந்துள்ளதுடன், சமீபத்திய இஸ்ரேல்-காசா போரின் விளைவாக உலகளாவிய பிளவுகள் குறிப்பிடத்தக்கவை என்பதுடன் வெறுமனே மறக்க முடியாதவையாகும். இந்த வளைகுடா நாடுகள் முழுவதுமாக அமெரிக்காவுக்கு ஆதரவாக இருந்தால், நாம் இப்போது வளைகுடா கூட்டணியைப் பார்த்திருப்போம். ஆனால் நாம் அவ்வாறு எதையாவது பார்க்கின்றோமா?
-
-எழுத்தாளர் உலகளாவிய அபிப்பிராய அலை அதிகரித்து வருவதாகவும், இந்த அலை அமெரிக்காவிற்கும் ஐரோப்பாவிற்கும் எதிரானதே அன்றி இலங்கைக்கு எதிரானதல்ல என்று கருதுகிறார். அந்த வகையில், நாம் இதில் ஈடுபடுவதால் ஏற்படும் விளைவைப் பற்றி இன்னமும் கவலைப்பட வேண்டியதில்லை என்று எழுத்தாளர் நம்புகிறார். மறுபுறம், ஒரு நாட்டின் கடற்படைத் தளவாடங்கள் பலிக்கடவாகவோ அல்லது தவறான அரசியல் கணக்கீடுகளுக்கான விலையாகவோ இருக்க முடியாது என்பதுடன் வரலாற்றில் இத்தகைய விலையுயர்ந்த தவறுகள் நிறைந்திருப்பதால் இது மிகவும் பொருத்தமான விடயமாகும்.
-
-இங்கே வெளிப்படுத்தப்பட்ட கருத்துக்கள் ஆசிரியரின் சொந்தக் கருத்துக்கள் என்பதுடன் நிறுவனத்தின் பிரதிபலிப்புக்களாக இருக்க வேண்டிய அவசியமில்லை.
-
-### இலங்கையில் காலநிலை மாற்ற இராஜதந்திரம்
-
-*2024-01-14 18:03:00 - [virakesarilk](https://www.virakesari.lk/article/173959)*
-
-காலநிலை மாற்றம் என்பது உலகளாவிய காலநிலையில் நீண்ட கால, பாரிய மாற்றங்களைக் குறிக்கிறது. அதிகரித்து வரும் மோசமான உலகளாவிய காலநிலை நிலைமையைக் கருத்திற் கொண்டு, சர்வதேச ஒத்துழைப்புக்கு முன்னுரிமை அளிக்கப்பட வேண்டும். காலநிலை இராஜதந்திரம் என்பது காலநிலை இலக்குகளை உள்ளடக்குவதன் அவசியத்தை சுட்டிக்காட்டுவதுடன் காலநிலை தொடர்பான கரிசனங்களை மிக உயர் நிலையிலான இராஜதந்திர இடைத்தொடர்புகள் மற்றும் பல கொள்கை களங்களினூடாக வெளிப்படுத்துகின்ற ஓர் மூலோபாய அணுகுமுறையாகும். காலநிலை மாற்ற இராஜதந்திரத்தில் தனது வகிபங்கைப் பற்றி அக்கறை கொண்ட இலங்கை, சுற்றாடல் பிரச்சினைகளைத் தீர்ப்பதற்கும், நிலைத்ததன்மையான எதிர்காலத்திற்கு அர்த்தமுள்ள வகையில் பங்களிப்பதற்கும் நம்பிக்கையூட்டும் முயற்சியில் இறங்கியுள்ளது.
-
-சுற்றாடல் அமைச்சின் செயலாளரான  கலாநிதி அனில் ஜயசிங்க, "காலநிலை மாற்றம் தொடர்பான அபிவிருத்திக் கொள்கைகள் மற்றும் நிகழ்ச்சித் திட்டங்கள் காலநிலை மாற்றத்தின் பின்னணியில் பல்வேறுபட்ட செயன்முறைகளின் சிக்கலான தன்மைகளைப் புரிவதுடன், நிவர்த்தி செய்யவும், அங்கீகரிக்கவும் வேண்டும்" என்று ஏற்றுக்கொள்கிறார். இது ஓர் "முழுமையான-அரசாங்கம், முழுமையான-சமூகம்" எனும் உத்தியை அவசியமாக்குகின்றது. இது காலநிலை இராஜதந்திரம் மற்றும் தலையீட்டிற்கு பல்வகைமையான உத்தி அவசியம் என்பதை இலங்கையின் அதிகாரத்துவ அமைப்பின் உயர் மட்டங்கள் அங்கீகரித்துள்ளன என்பதை சுட்டிக்காட்டுகிறது.
-
-இலங்கை காலநிலை மாற்ற இராஜதந்திரத்தில், பிரதான சர்வதேச காலநிலை மாநாடுகளில் முனைப்பாக பங்கேற்பதன் மூலமும், பாதிக்கப்படக்கூடிய நாடுகளின் நலன்களுக்காக பரப்புரையாற்றுவதன் மூலமும் செயலூக்கமான பங்களிப்பை வெளிப்படுத்தியுள்ளது. நாடு பச்சை வீட்டு வாயு உமிழ்வைக் குறைப்பதற்கும் குறைந்த காபன் பொருளாதாரத்திற்கு மாறுவதற்கும் தெளிவான உறுதிப்பாட்டை எடுத்துள்ளது. இலங்கை காலநிலை மாற்றங்களினால் ஏற்படும் சவால்களை வெற்றிகரமாக நிர்வகிப்பதற்கும், கடுமையான காலநிலை நிகழ்வுகளுடன் தொடர்புடைய ஆபத்துகளைத் தணிப்பதற்குமென பின்பற்றுகை மற்றும் தாங்குதிறனை  கட்டியெழுப்பும் உத்திகளுக்கு அதிக முன்னுரிமை அளிக்கிறது.
-
-நாடானது பருவநிலை மாற்றத்தை எதிர்ப்பதற்கும் எரிசக்தி பாதுகாப்பு மற்றும் நிலைத்ததன்மை இலக்குகளை மேம்படுத்துவதற்குமான உலகளாவிய முயற்சிகளுக்கு ஏற்ப, புதுப்பிக்கத்தக்க சக்தி முதல்களின் பயன்பாட்டை அதிகரித்து வருகிறது.
-
-இலங்கை காலநிலை நடவடிக்கைகளுக்கான அதன் இயலளவை வலுப்படுத்துவதற்கு வெளிநாட்டு ஒத்துழைப்பை முனைப்பாக நாடுகின்றது. காலநிலை மாற்ற பரிசீலனைகள் தேசியக் கொள்கையில் வெற்றிகரமாக இணைக்கப்பட்டுள்ளதுடன், இது அபிவிருத்தித் திட்டங்களில் காலநிலை தாங்குதிறனை இணைப்பதன் மூலம் பார்க்கப்படுகிறது. இயற்கை வள பாதுகாப்பு செயற்திட்டங்கள் இலங்கையின் காலநிலை இராஜதந்திர முயற்சிகளில் முக்கிய வகிபாகத்தை வகிக்கின்றன.
-
-காலநிலை மாற்றத்தின் விளைவுகளைத் தணிப்பதற்கான சர்வதேச முயற்சிகளைத் தொடர்ந்து, குறிப்பிட்ட கால எல்லைக்குள் காபன் நடுநிலைமையை அடைவதாக இலங்கை உறுதியளித்துள்ளது. பச்சை வீட்டு வாயு உமிழ்வைக் குறைப்பதற்கும் நிலையான நடைமுறைகளைச் செயற்படுத்துவதற்கும் அரசாங்கம் குறிப்பான இலக்குகளையும் காலக்கெடுவையும் நிர்ணயித்துள்ளது. சூரிய ஒளி, காற்று மற்றும் நீர் மின்சாரம் போன்ற புதுப்பிக்கத்தக்க சக்தி முதல்களில் முதன்மையான அவதானம் செலுத்தப்படுகிறது.
-
-இலங்கை தற்போது தனது சக்தி பிரிவை பன்முகப்படுத்துவதற்காக புதுப்பிக்கத்தக்க சக்தி நிகழ்ச்சித் திட்டங்களுக்கு நிதியுதவியை ஊக்குவிப்பதற்கும் அர்ப்பணிப்பதற்கும் குறிப்பிடத்தக்க முயற்சிகளை மேற்கொண்டு வருகிறது. அதே நேரத்தில், நாடு நிலக்கரி, எண்ணெய் மற்றும் இயற்கை எரிவாயு போன்ற புதுப்பிக்க முடியாத சக்தி முதல்களில் தங்கியிருப்பதை குறைத்து வருகின்றது. தேசிய கொள்கைகள் மற்றும் அபிவிருத்தித் திட்டங்களில் காபன் நடுநிலை இலக்குகளை அரசாங்கம் அமுலாக்குவதுடன், நிலையான தொழில்நுட்பத்திற்கு வளங்களை அர்ப்பணிப்பதுடன் பொதுமக்களின் அறிவு மற்றும் ஈடுபாட்டை அதிகரிக்கிறது. பொறுப்புக்கூறலை உறுதி செய்வதற்கும் முன்னேற்றத்தைக் கண்காணிப்பதற்குமென வழக்கமான கண்காணிப்பு மற்றும் செயற்பாடுகளை அறிக்கையிடுவதற்கான ஒரு பொறிமுறை அமைக்கப்பட்டுள்ளது.
-
-காலநிலை மாற்றத்தை எதிர்ப்பதற்கும் சுற்றாடல் பாதுகாப்பு, பொருளாதார செழிப்பு மற்றும் குடிமக்களின் நலன் ஆகியவற்றுக்கு இடையேயான தொடர்பைப் புரிந்துகொள்வதற்குமான இலங்கையின் முன்னெச்சரிக்கையான அணுகுமுறை மேற்கூறிய வாக்குறுதியின் மூலமாக சுட்டிக்காட்டப்படுகிறது.
-
-ஆகஸ்ட் 2023 இல், இலங்கை ஜனாதிபதி ரணில் விக்கிரமசிங்க சிங்கப்பூருக்கு விஜயம் செய்ததுடன் பாரிஸ் ஒப்பந்தத்தின் 6 வது உறுப்புரையுன் கீழ் காபன் வெளியேற்றுகைக்கான கூட்டாண்மை தொடர்பான புரிந்துணர்வு ஒப்பந்தத்தில் (MoU) கையெழுத்திட்டார். காபன் வெளியேற்றுகைகளில் சிறந்த நடைமுறைகளை பரிமாறிக்கொள்வது, பரஸ்பர நன்மை பயக்கும் செயற்திட்டங்களை உருவாக்குவது மற்றும் மூன்றாம் நாடுகளுடன் காபன் சந்தைகளில் சாத்தியமான ஒத்துழைப்பை ஆராய்வது ஆகியவை இப் புரிந்துணர்வு ஒப்பந்தத்தின் நோக்கமாகும்.
-
-இந்த புரிந்துணர்வு ஒப்பந்தமானது சிங்கப்பூரை தளமாகக் கொண்ட காபன் வரி செலுத்தும் நிறுவனங்கள் தங்களது வரிக்குட்பட்ட வெளியேற்றுகைகளில் 5% வரை ஈடுசெய்ய அனுமதிக்கும் வகையில், சரிசெய்யப்பட்ட காபன் வெளியேற்றுகைகளின் சர்வதேச பரிமாற்றத்திற்கான இருதரப்பு பொறிமுறையை நிறுவுகிறது.
-
-காலநிலை இராஜதந்திரமானது சர்வதேச காலநிலை கொள்கையில் வெளியுறவுக் கொள்கையின் வகிபங்கை ஏற்றுக்கொள்வதுடன், சிங்கப்பூரின் நீண்ட காலத்திற்கான குறைந்த வெளியேற்றுகை அபிவிருத்தி உத்தி 2050 க்குள் நிகர பூஜ்ஜிய வெளியேற்றுகையை இலக்காகக் கொண்டுள்ளது. இலங்கையில் காலநிலை மாற்ற பல்கலைக்கழகத்தை உருவாக்குவதற்கான முயற்சிகளையும் ஜனாதிபதி முன்னெடுத்து வருவதுடன், MIT மற்றும் ஹார்வர்டு ஆகிய பல்கலைக்கழகங்கள் இதில் பங்கேற்க ஆர்வமாக உள்ளன.
-
-இலங்கையும் ஜப்பானும் குறைந்த காபன் வளர்ச்சியை அடைவதை நோக்காகக் கொண்ட உறவுமுறையை நிறுவும் குறிக்கோளுடன் ஜப்பானின் கூட்டுக் வெளியேற்றுகை பொறிமுறை தொடர்பான ஒத்துழைப்பு ஒப்பந்தத்தில் 2022 ஒக்டோபரில் கையெழுத்திட்டன. இலங்கை 2023 பெப்ரவரி மாதத்தில் உலகளாவிய பசுமை வளர்ச்சி நிறுவனத்துடன் (GGGI) ஓர் முறைசார் உடன்படிக்கைக்கு வந்தது.
-
-GGGI தற்போதைய சக்தி மற்றும் கடன் போன்ற பொருளாதார தடைகளை கடக்க வேண்டியதன் அவசியத்தை அங்கீகரித்து, பசுமை வளர்ச்சியை விரைவுபடுத்துவதற்கும், நிகர பூஜ்ஜிய உமிழ்வை அடைவதற்கும், நாட்டின் காலநிலை தாங்குதிறனை மேம்படுத்துவதற்குமென இலங்கை அரசாங்கத்திற்கு தனது உதவியை வழங்கியுள்ளது.
-
-இருதரப்பு பங்காண்மை இலங்கைக்கும் அதன் பங்காளர் நாடுகளுக்கும் இடையிலான இராஜதந்திர உறவுகளை மேம்படுத்துகிறது. காலநிலை மாற்ற உறுதிமொழிகள் நேர்மறையான இராஜதந்திர இணைப்புகளுக்கு பங்களிப்பதுடன், மற்றைய விடயங்களில் பாரிய ஒத்துழைப்புக்கான சந்தர்ப்பங்களைத் திறக்கும். இதன் விளைவாக, சர்வதேச காலநிலை பேச்சுவார்த்தைகளில் இலங்கையின் பேச்சுவார்த்தைகளில் ஈடுபடும் நிலை மேம்பட்டுள்ளது. பிற நாடுகளுடனான கூட்டு நடவடிக்கை ஒரு நாட்டின் குரல் மற்றும் செல்வாக்கை வலுப்படுத்துவதுடன், உலகளாவிய காலநிலை ஒப்பந்தங்களில் சிறந்த விளைவுகளின் சாத்தியத்தை அதிகரிக்கிறது.
-
-இலங்கை ஜனாதிபதி ரணில் விக்கிரமசிங்க, உறுதியான காலநிலை முன்முயற்சிகளின் முக்கியத்துவத்தை வலியுறுத்தி ஐ.நா பொதுச்செயலாளரின் விரைவுபடுத்தப்பட்ட காலநிலை நிகழ்ச்சி நிரலுக்கான தனது ஆதரவை மீண்டும் உறுதிப்படுத்தியுள்ளார். 2050 ஆம் ஆண்டளவில் இலங்கையின் மொத்த உள்நாட்டு உற்பத்தியில் 1.5% வீழ்ச்சியடையும் என்று விஞ்ஞானிகள் கணித்த நிலையில், காலநிலை மாற்றத்தின் கடுமையான பொருளாதார விளைவுகளை அவர் வலியுறுத்தினார்.
-
-காலநிலை அபிலாஷைக்கு இலங்கை, புதுப்பிக்கத்தக்க சக்தி உருவாக்கத்தை மையமாகக் கொண்ட பசுமை வளர்ச்சி மூலோபாயமான காலநிலை செழுமைத் திட்டத்தை வெளியிடல் மற்றும் சர்வதேச ஒத்துழைப்பைத் தூண்டுவதற்கு காலநிலை நீதி  அமைப்பை நிறுவுவதற்கு ஆதரவளித்தல் என இருமுனை அணுகுமுறையை மேற்கொண்டுள்ளது.
-
-மேலதிகமாக, ஜனாதிபதி சர்வதேச காலநிலை மாற்ற பல்கலைக்கழகத்தை நிறுவுதல் மற்றும் உயிர்ப்பல்வகைமை மிக்க அயன மண்டல பிராந்தியத்தில் பாதிக்கப்படக்கூடிய மக்களை இலக்காக கொண்ட அயன மண்டல காலநிலை லட்சிய திட்டம் என இரண்டு உலகளாவிய முன்முயற்சிகளை முன்மொழிந்தார். இந்த முன்முயற்சிகள், குறைந்த வருமானம் கொண்ட நாடுகளுக்கான திட்டமிடப்பட்ட கடன் நிவாரணத்துடன், பொதுச்செயலாளரின் விரைவுபடுத்தப்பட்ட காலநிலை நிகழ்ச்சி நிரலுக்கு குறிப்பிடத்தக்க பங்களிப்பை வழங்கும் என்று எதிர்பார்க்கப்படுகிறது.
-
-சர்வதேச நிகழ்வுகள், இருதரப்பு ஒத்துழைப்புகள், உடன்படிக்கைகள் மற்றும் உலகளாவிய முயற்சிகள் ஆகியவற்றின் மூலமாக காலநிலை இராஜதந்திரத்தில் இலங்கையின் பங்கேற்பு குறிப்பிடத்தக்கது. உயிர்ப்பல்வகைமையில் சர்வதேச ஒத்துழைப்பையும் இராஜதந்திர பங்கேற்பையும் வெளிப்படுத்தும் வகையில், சர்வதேச உயிர்ப்பல்வகைமை தினத்தில் அங்காரா பல்கலைக்கழகத்தில் பேசுவதற்காக இலங்கை தூதுவருக்கு அழைப்பு விடுக்கப்பட்டது.
-
-உயிர்ப்பல்வகைமை மற்றும் விவசாய ஒத்துழைப்பை மையமாகக் கொண்டு இலங்கைக்கும் துருக்கிக்கும் இடையிலான இருதரப்பு உறவுகளை மேம்படுத்துவது குறித்து தூதுவரும் அங்காரா பல்கலைக்கழகத்தின் ரெக்டரும் கலந்துரையாடினர். சுற்றுச்சூழல் முன்முயற்சிகள் மற்றும் சர்வதேச மாநாடுகளில் இராஜதந்திர தொடர்புகளை பிரதிபலிக்கும் வகையில், 2024 ஆம் ஆண்டில் உயிரியல் பல்வகைமைக்கான ஐக்கிய நாடுகளின் மாநாட்டிற்கான கட்சிகளின் 16 வது மாநாட்டை நடாத்தியமைக்காக தூதுவர் துருக்கியை பாராட்டினார்.
-
-உயிர்ப்பல்வகைமை இலக்குகள் மற்றும் கிளாஸ்கோ ஒப்பந்தம் ஆகியவற்றுடன் இணைந்த நிகழ்ச்சித் திட்டங்களுக்கு விசேட முக்கியத்துவம் அளித்து, காலநிலை மாற்றத்தைத் தடுப்பதற்கான கூட்டு முயற்சிகளை ஊக்குவிப்பதற்காக இலங்கை அதிகாரிகள் சமீபத்தில் ஐக்கிய இராச்சியத்திற்கு விஜயம் செய்தனர். இது காலநிலை மாற்றத்தின் விளைவுகளை எதிர்கொள்ள உலகளாவிய நடவடிக்கையின் முக்கியமான தேவையை வலியுறுத்துகின்றது. தணிப்பு நடவடிக்கைகளில் பச்சைவீட்டு வாயு வெளியேற்றத்தைக் குறைத்தல், அதிக நிலைத்ததன்மையான நடைமுறைகளுக்கு மாறுதல் மற்றும் காலநிலை மாற்றத்தின் விளைவுகளுக்கான தாங்குதிறனை உருவாக்குதல் ஆகியவை உள்ளடங்கும்.
-
-சூழற்தொகுதிகள் காபன் வரிசைப்படுத்தல் மற்றும் சுற்றுச்சூழல் சமநிலையில் முக்கிய பங்கினை வகிப்பதால் இந்த சுற்றுப்பயணம் உயிர்ப்பல்வகைமை காப்பின் முக்கியத்துவத்தையும் சுட்டிக்காட்டுகிறது. உயிர்ப்பல்வகைமையைப் பாதுகாத்தல் மற்றும் மறுசீரமைத்தல், நிலையான நில பயன்பாட்டு நடைமுறைகள் மற்றும் முக்கிய சூழற்தொகுதி அமைப்புகளைப் பாதுகாத்தல் ஆகியவற்றை இலக்காக கொண்ட செயற்திட்டங்கள் கூட்டு முயற்சிகளின் ஒரு பகுதியாக இருக்கக்கூடும்.
-
-விரைவுபடுத்தப்பட்ட காலநிலை நடவடிக்கைக்கான உலகளாவிய அர்ப்பணிப்பான கிளாஸ்கோ ஒப்பந்தம், சர்வதேச சமூகத்தின் அபிலாஷைகள் மற்றும் அர்ப்பணிப்புகளுடன் ஐக்கிய இராச்சியமும் இலங்கையும் தமது முயற்சிகளை இணைத்துக்கொள்வதைக் குறிக்கிறது. இலங்கையின் சூழலியல் செயற்திட்டங்களுக்கு ஐக்கிய இராச்சியத்தின் ஆதரவு பொதுவான சூழலியல் கரிசனங்களை நிவர்த்தி செய்வதில் கவனம் செலுத்தும் இராஜதந்திர ஈடுபாட்டின் ஒரு பகுதியாகும்.
-
-ஐக்கிய இராச்சியம் மற்றும் இலங்கை ஆகிய இரண்டும் நிகர-பூஜ்ஜிய காபன் உமிழ்வை அடைவதில் உறுதிபூண்டுள்ளதுடன், ஐக்கிய இராச்சியம் நிகர-பூஜ்ஜிய உமிழ்வு தேவைப்படுத்தும் சட்டத்தை இயற்றும் முதல் G7 நாடாக மாறியுள்ளது. காலநிலை இலக்குகளுக்கான இராஜதந்திர ஒத்துழைப்பானது, கொள்கை ஒருங்கிணைப்பு, கூட்டுறவு செயற்திட்டங்கள் மற்றும் உலகளாவிய காலநிலை இலக்குகளில் இரு நாடுகளின் பங்களிப்புகளை மேம்படுத்துவதற்கான சிறந்த நடைமுறைகளின் பரிமாற்றம் ஆகிய உரையாடல்களுடன் புலனாகின்றது. ஒருவருக்கொருவர் சுற்றுச்சூழல் தடத்தின் பதிவுகளை உருவாக்குவது, ஒவ்வொரு நாட்டின் முயற்சிகளுக்குமான பரஸ்பர அங்கீகாரத்தை குறிப்பதுடன், இது காலநிலை மாற்றத்திற்கு மிகவும் வலுவான மற்றும் வினைத்திறனான உலகளாவிய பதிலளிப்புக்கு பங்களிக்கிறது.
-
-இலங்கை உலகளாவிய பச்சைவீட்டு வாயு வெளியேற்றத்தில் 1% க்கும் குறைவான பங்களிப்பை வழங்கினாலும், காலநிலை மாற்றத்தால் பாதிக்கப்படக்கூடியதாகும். 2017 ஆம் ஆண்டில், பெரிய காலநிலை தொடர்பான பேரழிவுகள் உணவு மற்றும் நீர் பற்றாக்குறை மற்றும் உயிரிழப்புகளை ஏற்படுத்தியது. இலங்கை காலநிலை மாற்றத்தைத் தீர்ப்பதற்கு செல்வந்த நாடுகளின் காலநிலைக்கான பணம், காலநிலைக்கு புத்திக்கூர்மையான முதலீடு மற்றும் புவிசார் அரசியல் இணைப்புகளை பயன்படுத்த வேண்டும்.
-
-உலகளாவிய காலநிலை நிதியம் இலங்கையில் 47 காலநிலை மாற்ற முன்முயற்சிகளுக்கு நிதியளிப்பதற்காக மொத்தமாக 38 மில்லியன் அமெரிக்க டொலர்கள் மற்றும் 259 மில்லியன் டொலர்களை மானியமாக வழங்கியுள்ளது. பொதுநலவாய காலநிலை நிதி அணுகல் மையம் பொதுநலவாயத்தின் சிறிய மற்றும் வளர்ந்து வரும் அரசாங்கங்களுக்கான உதவிக்கு முன்னுரிமை அளிக்கிறது. இலங்கை கிடைக்கக்கூடிய அனைத்து வளங்களையும் அதிகப்படுத்துவதற்கும் அவற்றைப் பயன்படுத்துவதற்கும் காலநிலை நிதியுதவி மீது ஒரு கண்ணை வைத்திருக்க வேண்டும். சிறந்த காலநிலை இராஜதந்திரத்துடன், கிடைக்கக்கூடிய காலநிலை நிதியுதவிகளில் நியாயமான பங்கைப் பெறுவதற்கான சிறந்த வாய்ப்பாக இலங்கை உள்ளது.
-
-இறுதியாக, காலநிலை மாற்ற இராஜதந்திரத்திற்கான இலங்கையின் அர்ப்பணிப்பானது, உலகளாவிய காலநிலை பேரழிவால் எதிர்கொள்ளப்படுகின்ற சிக்கலான பிரச்சினைகளைத் தீர்ப்பதற்கான செயலூக்கமான மற்றும் விரிவான அணுகுமுறையை வெளிப்படுத்துகிறது. நாடு காலநிலை நடவடிக்கையின் முக்கியத்துவத்தை அங்கீகரித்துள்ளது மட்டுமல்லாமல், அதன் நலன்களுக்காக வாதிடுவதற்கும் கூட்டுத் தீர்வுகளைத் தேடுவதற்கும் சர்வதேச மன்றங்களில் முனைப்பாக பங்கேற்றுள்ளது.
-
-சாராம்சமாக, இலங்கையின் காலநிலை இராஜதந்திர முன்முயற்சிகள் சுற்றுச்சூழல் பிரச்சினைகளுடன் மட்டுமல்லாமல், காலநிலை நடவடிக்கை மற்றும் பொருளாதார வெற்றி மற்றும் சமூக நல்வாழ்வின் ஒன்றோடொன்று சார்ந்திருப்பதை அங்கீகரிக்க வேண்டும். இலங்கை உலகளாவிய முயற்சிகளில் முனைப்பாக பங்கேற்பதன் மூலமும், மூலோபாய உறவுகளை வளர்த்துக்கொள்வதன் மூலமும், ஆக்கப்பூர்வமான தீர்வுகளை முன்வைப்பதன் மூலமும் காலநிலை மாற்றத்திற்கு எதிரான உலகளாவிய போராட்டத்தில் ஒரு செயலூக்கமான பங்காளராக இருப்பதற்கான தனது அர்ப்பணிப்பை வெளிப்படுத்துகிறது.
-
-நாட்டின் முயற்சிகள் சர்வதேச நோக்கங்களுடன் ஒத்துப்போவதுடன், காலநிலை நீதி தொடர்பான பாரிய கலந்துரையாடலில் சேர்வதுடன், மேலும் இலங்கையை உலகளாவிய காலநிலை இராஜதந்திரக் நகர்வில் பொறுப்பு வாய்ந்த மற்றும் முன்னோக்கிச் சிந்திக்கும் பங்குதாரராக நிலைநிறுத்துகிறது.
-
-இங்கே வெளிப்படுத்தப்பட்ட கருத்துக்கள் ஆசிரியரின் சொந்தக் கருத்துக்கள் என்பதுடன் நிறுவனத்தின் பிரதிபலிப்புக்களாக இருக்க வேண்டிய அவசியமில்லை.
-
-### புத்தாண்டுக்கு முன் ரணில் விக்கிரமசிங்கவை பொதுவேட்பாளராக அறிவிப்போம் - ஐக்கிய தேசியக் கட்சி
-
-*2024-01-14 17:58:00 - [virakesarilk](https://www.virakesari.lk/article/173964)*
-
-சித்திரை புத்தாண்டுக்கு முன்னர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பொது வேட்பாளராக அறிவிப்போம்.ஐக்கிய மக்கள் சக்தியின் பெரும்பாலானவர்கள் ஜனாதிபதியுடன் ஒன்றிணைவார்கள் என ஐக்கிய தேசியக் கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஜி.ஹரிசன் தெரிவித்தார்.
-
-கொழும்பில் ஞாயிற்றுக்கிழமை (14) இடம்பெற்ற நிகழ்வில் கலந்துக் கொண்டு உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
-
-பொருளாதார நெருக்கடியின் போது அரசாங்கத்தை பொறுப்பேற்காமல் தப்பிச் சென்றவர்கள் ஜனாதிபதி தேர்தலுக்கு தயார் என்று குறிப்பிட்டுக் கொள்கிறார்கள். இந்த ஆண்டு இடம்பெறவுள்ள ஜனாதிபதித் தேர்தலில்  போட்டியிடும் தகுதி ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கு மாத்திரமே உள்ளது.
-
-எதிர்க்கட்சித் தலைவருக்கு அரசாங்கத்தை பொறுப்பேற்பதில் ஆசை ஆனால் பயம்.இவரது தயக்கத்துக்காக நாட்டை நெருக்கடிக்குள்ளாக்க முடியாது என்பதற்காகவே முன்னாள் ஜனாதிபதி கோட்டபய ராஜபக்ஷ ஐக்கிய தேசியக் கட்சியின் தலைவர் ரணில் விக்கிரமசிங்க தலைமையிலான அரசாங்கத்தை தோற்றுவித்தார்.
-
-பாரிய நெருக்கடிகளுக்கு மத்தியில் நாடு தற்போது இயல்பு நிலைக்கு திரும்பியுள்ளது,ஆகவே பொருளாதார ரீதியில் ஸ்திரமடைய வேண்டுமாயின் தற்போதைய பொருளாதார கொள்கைகள் தொடர்ந்து செயற்படுத்தப்பட வேண்டும்.அதற்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க தலைமையிலான அரச நிர்வாகம் மீண்டும் தோற்றம் பெற வேண்டும்.
-
-சித்திரை புத்தாண்டுக்கு முன்னர் ஜனாதிபதி ரணில் விக்கிரமசிங்கவை பொது வேட்பாளராக அறிவிப்போம்.ஐக்கிய மக்கள் சக்தியின் பெரும்பாலானவர்கள் ஜனாதிபதியுடன் ஒன்றிணைவார்கள்.ஜனாதிபதியின் பொருளாதார கொள்கைகளை ஐக்கிய மக்கள் சக்தியினர் ஏற்றுக்கொண்டுள்ளார்கள்.குறுகிய அரசியல் நோக்கங்களுக்காக அதனை பகிரங்கமாக குறிப்பிட மறுக்கிறார்கள் என்றார்.
-
-### New Indian High Commissioner Santosh Jha meets former President
-
-*2024-01-14 17:51:00 - [adaderanalk](https://www.adaderana.lk/news/96400/new-indian-high-commissioner-santosh-jha-meets-former-president)*
-
-Newly-appointed Indian High Commissioner Santosh Jha on Saturday met Sri Lanka’s former president Mahinda Rajapaksa and discussed New Delhi’s consistent support to Colombo over the last several decades.
-
-“High Commissioner @santjha met former President @PresRajapaksa and discussed Sri Lanka’s age-old relationship with India, as well as India’s consistent support to Sri Lanka over last several decades as a close friend and neighbour,” the Indian High Commission said in a post on X.
-
-Jha assumed charge as the High Commissioner of India to Sri Lanka in December 2023.
-
-A senior Indian diplomat, Jha was India’s Ambassador to the European Union, Belgium and Luxembourg before taking up his assignment in Colombo.
-
-Jha had also served in Colombo from 2007-2010 as Counsellor at the High Commission, handling work related to commercial and economic matters.
-
-Recalling his previous stint in Sri Lanka, Jha said that he considers it a great privilege to be in Colombo once again to work for further strengthening bilateral friendship and cooperation.
-
-Rajapaksa and his family were ousted from power during anti-government protests in the island nation following an economic crisis in 2022.
-
-### Mahanayaka Theros call for necessary legal provisions to prevent distortion of Buddhist teachings
-
-*2024-01-14 16:47:00 - [adaderanalk](https://www.adaderana.lk/news/96399/mahanayaka-theros-call-for-necessary-legal-provisions-to-prevent-distortion-of-buddhist-teachings-)*
-
-The Chief Prelates (Mahanayaka Theros) of all three Buddhist Chapters in Sri Lanka have called on President Ranil Wickremesinghe to implement the law against the organized groups of people who they claim are spreading false ideologies regarding Buddhism and are harming the Buddhist philosophy and its cultural values.
-
-In a joint letter addressed to the Head of State, the chief prelates highlight that it has become evident that the behaviour of such individuals who are trying to destroy Buddhism can no longer be considered as mere incidents.
-
-Thereby, the Mahanayaka Theros have pointed out that instead of trying to isolate and find solutions to such events, which are carried out in order to corrupt the noble interpretation of the religion, it is time to prepare the necessary legal provisions to prevent such ‘Dharma distortions’ and ‘Sasana distortions’ from repeatedly occurring in the society.
-
-Furthermore, the Mahanayaka Theros have emphasized the urgent need to prepare necessary legal provisions to implement the law against such individuals who are trying to create social disturbances by misleading the Buddhist community by promoting such statements on social media and to regulate the promotion of such statements.
-
-Accordingly, the Mahanayaka Theros have sought prompt attention of the President who is ‘committed to promoting and fostering the safety of Buddhasasana’ regarding the matter.
-
-01. Distortion of Buddhist Teachings - President New by Kaveesha Jayasundara on Scribd
-
-### අවලංගු කළ උසස් පෙළ කෘෂි විද්‍යාව දෙවන ප්‍රශ්න පත්‍රය පෙබ.01 දා
-
-*2024-01-14 15:53:09 - [adalk](https://www.ada.lk/breaking_news/අවලංගු-කළ-උසස්-පෙළ-කෘෂි-විද්‍යාව-දෙවන-ප්‍රශ්න-පත්‍රය-පෙබ-01-දා/11-407546)*
-
-මෙවර අ.පො.ස.උසස් පෙළ විභාගයේ අවලංගු කරන ලද  කෘෂි  විද්‍යාව දෙවන  ප්‍රශ්න පත්‍රය වෙනුවට යළි  නව ප්‍රශ්න පත්‍රයක් ලබාදීමේ විශේෂ විභාගය පෙබරවාරි පළමුවනදා( 1)පැවැත්වීමට ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
-
-මේ අනුව ජනවාරි 31 දිනට අවසන් වීමට නියමිතව තිබූ 2023(2024) උසස් පෙළ විභාගය පෙබරවාරි 01 දායින් අවසන්වන අතර සියලු  විභාග මධ්‍යස්තාන එදිනද සාමාන්‍ය පරිදි පැවත්වෙන බව විභාග දෙපාර්තමේන්තුව පවසයි.
-
-යළි මෙම  කෘෂි  විද්‍යාව දෙවන   ප්‍රශ්න පත්‍රයට පෙනී සිටින  පුද්ගලික අයදුම්කරුවන්ට සිය පුද්ගලික ලිපිනයට හා  පාසල් අයදුම්කරුවන්ට ඔවුන්ගේ  පාසලේ විදුහල්පති වෙතද විභාග ප්‍රවේශ පත්‍රය   එවන බව විභාග දෙපාර්තමේන්තුව මීට පෙර නිවේදනය කර තිබිණි.
-
-ඉකුත් 10 දා සවස  පැවත්වූ මෙම කෘෂි විද්‍යාව දෙවන ප්‍රශ්න පත්‍රය විභාගයට පෙර විවිධ සමාජ මාධ්‍ය ජාලවල සංසරණය වී ඇතැයි අනාවරණය වූ නිසා අවලංගු කළ බව විභාග දෙපාර්තමේන්තුව නිවේදනය කළේය.
-
-මෙම ප්‍රශ්න පත්‍රය පිටවීම සම්බන්ධයෙන් මේ වනවිට අධ්‍යාපන අමාත්‍යාංශය සහ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විමර්ශන සිදුකරන බව විභාග දෙපාර්තමේන්තු ආරංචි මාර්ග සඳහන් කරයි.

@@ -1,28 +1,28 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-15 20:10:20**
+As of **2024-01-15 20:28:09**
 
 ## Newspaper Stats
 
-* 17 - virakesarilk
+* virakesarilk: 17
 
-* 20 - colombotelegraphcom
+* colombotelegraphcom: 20
 
-* 25 - newsfirstlk
+* newsfirstlk: 25
 
-* 26 - adaderanalk
+* adaderanalk: 26
 
-* 28 - islandlk
+* islandlk: 28
 
-* 34 - tamilmirrorlk
+* tamilmirrorlk: 34
 
-* 90 - dailyftlk
+* dailyftlk: 90
 
-* 93 - adalk
+* adalk: 93
 
-* 111 - dbsjeyarajcom
+* dbsjeyarajcom: 111
 
-* **Total**: - **444**
+* **Total**: **444**
 
 ## Latest Articles (100)
 

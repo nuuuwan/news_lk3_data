@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 04:28:15**
+As of **2024-01-17 05:27:47**
 
 ## Newspaper Stats
 
@@ -16,7 +16,7 @@ As of **2024-01-17 04:28:15**
 
 * economynextcom: 51
 
-* tamilmirrorlk: 66
+* tamilmirrorlk: 68
 
 * adaderanalk: 69
 
@@ -26,9 +26,35 @@ As of **2024-01-17 04:28:15**
 
 * adalk: 115
 
-* **Total**: **678**
+* **Total**: **680**
 
 ## Latest Articles (100)
+
+### எரிசக்தி துறையில் முதலீடு செய்ய ஜனாதிபதி அழைப்பு
+
+*2024-01-17 03:25:19 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/எரிசக்தி-துறையில்-முதலீடு-செய்ய-ஜனாதிபதி-அழைப்பு/175-331626)*
+
+இலங்கையின் புதுப்பிக்கத்தக்க எரிசக்தி துறையில் முதலீடு செய்ய இதுவே சரியான தருணம் என்றும், அடுத்து வரும் தசாப்தங்களில் இது அந்தப் பங்குதாரர்களுக்கும் இலங்கை நுகர்வோருக்கும் குறிப்பிடத்தக்க நன்மைகளை ஏற்படுத்தும் என்பதில் சந்தேகமில்லை என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அதற்காக முன்வரும் புதுப்பிக்கத்தக்க எரிசக்தி துறை முதலீட்டாளர்களுக்கு இலங்கை அரசாங்கம் உயர் மட்ட மற்றும் நிலையான கொள்கையை உத்தரவாதம் செய்யும் என்றும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+சுவிஸ்சர்லாந்தின் டாவோஸ் நகரில் நேற்று முன்தினம் (15) இடம்பெற்ற “பசுமை தொழில்நுட்ப மன்றத்தில்” கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார். இதனை  சுவிஸ் - ஆசிய வர்த்தக சம்மேளனம் ஏற்பாடு செய்துள்ளது.
+
+'எரிசக்தியால் பாதுகாப்பான இலங்கைக்கு வழி வகுத்தல்' என்ற தொனிப்பொருளில் தனது உரையை ஆற்றிய ஜனாதிபதி, இலங்கையில் புதுப்பிக்கத்தக்க எரிசக்தித் துறையின் உயர் ஆற்றல்கள் மற்றும் புதுப்பிக்கத்தக்க எரிசக்தி துறைக்கு உகந்த முதலீட்டுடன் கூடிய சூழலை ஏற்படுத்த கடந்த 2 ஆண்டுகளில் அரசாங்கம் எடுத்துள்ள நடவடிக்கைகள் குறித்தும் தெளிவுபடுத்தினார்.
+
+காலநிலை மாற்றத்தைக் குறைப்பதில் இலங்கையின் அர்ப்பணிப்பை வலியுறுத்திய ஜனாதிபதி ரணில் விக்ரமசிங்க, டுபாயில் நடைபெற்ற COP 28 மாநாட்டில் முன்வைக்கப்பட்ட "வெப்பமண்டல முன்முயற்சி" உட்பட ஏனைய நடவடிக்கைகள் குறித்தும் விளக்கினார்.
+
+இலங்கை தனது நிலையான, பசுமையான அபிவிருத்தி நிகழ்ச்சி நிரலை அடைவதற்கான இலட்சியத் திட்டங்களைக் கொண்டிருப்பதாகவும், 2050 ஆம் ஆண்டளவில் நிகர பூஜ்ஜிய உமிழ்வை அடைவதில் உறுதியாக உள்ளதாகவும் ஜனாதிபதி வலியுறுத்தினார்.
+
+துரித புதுப்பிக்கத்தக்க எரிசக்தித் திட்டம் இந்த முழு முயற்சியின் ஒரு முக்கிய அங்கம் என்றும், இது எரிசக்தி பாதுகாப்பிற்கான பாதையில் இன்றியமையாத நடவடிக்கை என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார். (a)
+
+### மென்சீஸ் விமான சேவை தலைவர் ஜனாதிபதியுடன் சந்திப்பு
+
+*2024-01-17 02:35:05 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மென்சீஸ்-விமான-சேவை-தலைவர்-ஜனாதிபதியுடன்-சந்திப்பு/175-331625)*
+
+சுவிட்சர்லாந்தின் டாவோஸ் நகரில் உலக பொருளாதார மாநாட்டுடன் இணைந்ததாக, ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் மென்சீஸ் விமானச் சேவையின் தலைவர் ஹசன் என் ஹவுரிக்கும் இடையில் சந்திப்பொன்று இடம்பெற்றது.
+
+இந்த சந்தர்ப்பத்தில் ஜனாதிபதியின்  தேசிய பாதுகாப்பு தொடர்பான சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவும் இணைந்து கொண்டார். (a)
 
 ### ’’ஜனாதிபதி தேர்தலுக்கு நானே சிறந்த வேட்பாளர்’’
 
@@ -1977,35 +2003,3 @@ Joining a press conference held in Colombo last evening (Jan. 15), Hasaranga emp
 Meanwhile, in response to a question raised by a journalist regarding whether he invited former captain Angelo Mathews to join the T20 squad, Hasaranga emphasized that Mathews is not a retired player and that therefore, there is no need to invite him to the team as he is already in it.
 
 “Angelo Mathews is not a retired player. We could see the performance of a well-experienced player like Mathews…the way he batted until the end of a match so easily. He has not retired to be invited [into the team]”, he claimed.
-
-### Donald Trump wins Iowa caucus, taking early lead to be Republican candidate for the presidency
-
-*2024-01-16 10:34:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/donald-trump-wins-iowa-caucus-taking-early-lead-to-be-republican-candidate-for-the-presidency/)*
-
-Colombo (News 1st) – Former President Donald Trump swept to victory in the Iowa Caucuses, the first step of the Republican Party's selection process of their candidate for the 2024 Presidential Election this November. Trump won 20 of the 40 delegates from the state.
-
-Florida Governor Ron DeSantis came in second with 8 delegates, while former South Carolina Governor Nikki Haley was third with 7 delegates.
-
-Entrepreneur Vivek Ramasamy, who had run a vibrant and entertaining anti-establishment campaign, announced that he was dropping out of the race, after winning just 2 delegates.
-
-The Iowa Caucuses are the first step, with the Republican Party holding separate processes in each state to choose the candidate. All state delegates vote in the final Republican Party National Convention.
-
-A similar process is run by the Democratic Party, which has not yet begun. Incumbent President Joe Biden, 81, is the frontrunner.
-
-Trump, 77, is battling multiple legal challenges in many state and federal courts over his role in the failed 2021 January 6 insurrection, which may disqualify him from being a candidate.
-
-Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
-
-### කැරට් කිලෝව රු. 1800ට වැඩිවෙයි
-
-*2024-01-16 10:28:05 - [adalk](https://www.ada.lk/breaking_news/කැරට්-කිලෝව-රු--1800ට-වැඩිවෙයි/11-407574)*
-
-නොසිතන අයුරින් දිනෙන් දින ඉහළ යන එළවළු මිල හේතුවෙන් නුවරඑළිය දිස්ත්‍රික්කයේ සංචාරක හෝටල්, හෝටල්, ආපනශාලා පවත්වාගෙන යන පිරිස් හා සෙසු  ජනතාව දැඩි දුෂ්කරතාවයන්ට ලක්ව සිටිති.
-
-එළවළු සඳහා ඉතිහාසයේ මෙවැනි මිලක් අන් කවරදාවත් නොතිබුණු බවත්, උඩරට එළවළු වර්ග හා විදෙස් සංචාරකයන් බහුලව භාවිතා කරනු ලබන එළවළු වර්ගවල මිල ගණන් මෙසේ ඉහල යාම හේතුවෙන් තම ව්‍යාපාර කරගෙන යාමට නොහැකි තත්ත්වයක් උදා වී ඇතැයි ඔවුහු පවසති.
-
-මේ වනවිට නුවරඑළියයේ වැවෙන උඩරට එළවළු වර්ගවල මිල ඉතිහාසයේ පළමු වරට මෙසේ ඉහල ‌ගොස් ඇතැයිද, මේ හේතුවෙන් එළවළු නොකා සිටින තත්ත්වයකට  තමන් පත්ව සිටින බව උඩරට ජනතාව පවසති.
-
-උඩරට එළවළු වර්ග වන කැරට් කිලෝවක් රුපියල් 1800 ක්, ගෝවා කිලෝවක් රුපියල් 680 ක්, ලීක්ස් කිලෝවක් රුපියල් 500 ක්, මාලු මිරිස් කිලෝවක් රුපියල් 650 ක්, තක්කාලි කිලෝවක් රුපියල් 800 ක්, බීට්රූට් කිලෝවක් රුපියල් 470 ක් වැනි මිළකටත්, විදෙස් සංචාරකයන්ට  බහුලව ලබා දෙන බ්‍රොකලි කිලෝවක් රුපියල් 3600 ක්, බෙල් පෙපර් කිලෝවක් රුපියල් 800 ක්, බැසිල් කිලෝවක් රුපියල් 2600 ක්, චයිනිස් කැබෙජ් කිලෝවක් රුපියල් 1300 ක්, රෙඩ් කැබෙජ් කිලෝවක් රුපියල් 3200 ක්, අයිස්බර්ග් කිලෝවක් රුපියල් 2300 ක්, සළාද කිලෝවක් රුපියල් 1600 ක්, මල් ගෝවා කිලෝවක් රුපියල් 1300 ක් වැනි තොල මිලකට ඊයේ (16) නුවරඑළිය ආර්ථික මධ්‍යස්ථානයේ එළවළු අළෙවි කෙරිණි.
-
-එළවළු මිල ගණන් මෙසේ ඉහලයාම හේතුවෙන් උඩරට සිල්ලර එළවළු වෙළෙඳසැල් විශාල ප්‍රමාණයක් වැසී ගොස් ඇති බවත්, මාර්ග අවට එළවළු අළෙවි කරමින් ජීවිකාව රැගෙන ගිය විශාල පිරිසක් දැඩි අපහසුතාවයට ලක්ව දැඩි ආර්ථික පීඩාවට පත්ව සිටින බව උඩරට එළවළු වෙළෙඳසැල් හිමියෝ පවසති.

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 01:28:10**
+As of **2024-01-17 02:27:50**
 
 ## Newspaper Stats
 
@@ -16,7 +16,7 @@ As of **2024-01-17 01:28:10**
 
 * economynextcom: 51
 
-* tamilmirrorlk: 62
+* tamilmirrorlk: 66
 
 * adaderanalk: 68
 
@@ -26,9 +26,19 @@ As of **2024-01-17 01:28:10**
 
 * adalk: 115
 
-* **Total**: **669**
+* **Total**: **673**
 
 ## Latest Articles (100)
+
+### ’’ஜனாதிபதி தேர்தலுக்கு நானே சிறந்த வேட்பாளர்’’
+
+*2024-01-16 23:35:00 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதி-தேர்தலுக்கு-நானே-சிறந்த-வேட்பாளர்/175-331624)*
+
+ஜனாதிபதி தேர்தலுக்கு நான் மிகவும் தகுதியான நபர். எனவே மக்கள் கூட்டங்களை நடத்தி செலவுகளை ஏற்றால் நானும் ஜனாதிபதி தேர்தலுக்கு வர முடியும். நான் இன்னும் ஜாதகம் பார்க்கவில்லை. ஆனால் எனக்கு ஒரு ஸ்டார் உள்ளது என்று பாராளுமன்ற உறுப்பினர் குமார வெல்கம தெரிவித்தார்.
+
+பொருளாதார நெருக்கடி என்று சொல்கின்றார்கள். ஆனால் குடும்பத்துடன் நாட்டை விட்டு செல்கிறார்கள். அவர்கள் முதல் வகுப்பிலேயே எங்கும் செல்கின்றனர். நல்ல ஹோட்டல்களுக்குச் சென்றிருக்கிறனர். இவை நிறுத்தப்பட வேண்டும்.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் நல்லது கெட்டது இரண்டும் உண்டு. எனினும் மக்கள் தரப்பில் இருந்து பார்த்தால் அவர்கள் பிரச்சனையில் உள்ளனர். மக்கள் ஆதரவற்ற நிலையில் உள்ளனர் என்றார். R
 
 ### Kerala cannabis worth over Rs. 30 mn seized during naval operation in Jaffna
 
@@ -114,6 +124,18 @@ Also speaking in Davos, Chinese Premier Li Qiang said it was important to keep g
 
 About 12% of world shipping traffic accesses the Suez Canal via the Red
 
+### ஹோட்டல் உரிமையாளரின் மனைவியை தாக்கிய பிச்சைக்காரன்
+
+*2024-01-16 21:24:32 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-உரிமையாளரின்-மனைவியை-தாக்கிய-பிச்சைக்காரன்/175-331611)*
+
+சுமார் 13 வருடங்களாக மதிய உணவு வழங்கி வந்த ஹோட்டல் உரிமையாளரின் மனைவியை கடுமையாக காயப்படுத்திய பிச்சைக்காரனை எதிர்வரும் 30 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் பிரசன்ன அல்விஸ் இன்று உத்தரவிட்டுள்ளார்.
+
+மார்ட்டின் லியனகே என்ற பிச்சைக்காரனை விளக்கமறியலில் வைக்குமாறு உத்தரவிட்ட நீதவான், குறித்த பிச்சைக்காரனின் மனநல அறிக்கையை சமர்ப்பிக்குமாறு பொலிஸாருக்கு உத்தரவிட்டுள்ளார்.
+
+கொழும்பு போக்குவரத்து காவல்துறைக்கு அருகில் ஹோட்டல் நடத்தி வரும் ஹோட்டல் உரிமையாளர், குறித்த பிச்சைக்காரனுக்கு தினமும் சாப்பாடும் பானமும் கொடுத்து வந்திருக்கின்றார்.
+
+குறித்த பிச்சைக்காரர் மஹியங்கனைக்கு அருகில் உள்ள முதியோர் இல்லத்தில் இருந்து தப்பிச் சென்றவராவார், இவர் சாப்பாடு தாமதமாகியதால் ஆத்திரமடைந்து, கடை உரிமையாளரின் மனைவியின் தலையில் சரமாரியாக தாக்கி, கண்ணுக்கு மேல் தாக்கியதாக பாதிக்கப்பட்டவர்கள் சார்பில் சட்டத்தரணி நீதிமன்றில் தெரிவித்தார். R
+
 ### President Ranil meets Al Gore in Davos
 
 *2024-01-16 21:15:00 - [adaderanalk](https://www.adaderana.lk/news/96458/president-ranil-meets-al-gore-in-davos)*
@@ -127,6 +149,20 @@ President Wickremesinghe is currently in Switzerland to attend the 54th Annual M
 The Head of State left for Switzerland on 13 January for a 12-day stay town in the Swiss town of Davos where the event is taking place.
 
 The Annual Meeting of the World Economic Forum for the year 2024 is held from January 15 - 19 in Davos, Switzerland, under the theme ‘Rebuilding Trust’. It aims to restore collective agency, and reinforce the fundamental principles of transparency, consistency and accountability among leaders.
+
+### கொழும்பு பல்கலைக்கழக மாணவியை பலியெடுத்த டெங்கு
+
+*2024-01-16 20:53:29 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-பல்கலைக்கழக-மாணவியை-பலியெடுத்த-டெங்கு/175-331610)*
+
+டெங்கு நோயினால் பாதிக்கப்பட்டு ஹொரண வைத்தியசாலையில் சிகிச்சை பெற்று வந்த 23 வயதுடைய பல்கலைக்கழக மாணவி இன்று உயிரிழந்துள்ளதாக வைத்தியசாலை பணிப்பாளர் டாக்டர் அயந்தி ஜயவர்தன தெரிவித்துள்ளார்.
+
+மாத்தளையைச் சேர்ந்த குறித்த யுவதி, கொழும்பு பல்கலைக்கழகத்தில் முதலாம் ஆண்டில் கல்வி கற்கும் திஸாநாயக்க முதியன்செலாகே ஹாசினி பாக்யா என்ற இளம் யுவதியே உயிரிழந்துள்ளார்.
+
+தீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்ட போது, அவர் சுயநினைவை இழந்துவிட்டதாக அவரது பெற்றோர் தெரிவித்தனர்.
+
+யுவதியை பல்வேறு பரிசோதனைகளுக்கு அனுப்பி வைத்த வைத்தியர்கள் அவருக்கு டெங்கு நோய் இருப்பதை உறுதிப்படுத்தியுள்ளனர்.
+
+அங்கு தீவிர சிகிச்சை பிரிவில் சிகிச்சை பெற்று வந்த யுவதி இன்று (16) அதிகாலை உயிரிழந்துள்ளார். R
 
 ### Saudi Arabia cuts domestic worker hiring fee from several countries including Sri Lanka
 
@@ -251,6 +287,20 @@ This initiative highlights the ministry’s dedication to creating a balanced an
 එබැවින් ආයෝජකයින්ට මෙම ක්ෂේත්‍රය තුළ ඉහළ මට්ටමේ සහ වෙනස් නොවන ප්‍රතිපත්තියක් අපේක්ෂා කළ හැකියි.
 
 ශ්‍රී ලංකාවේ පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ ආයෝජනය කිරීමට හොඳම කාලය මෙය වන අතර, එවැනි ආයෝජන ඉදිරි දශක කිහිපය තුළ එහි පාර්ශ්වකරුවන්ට මෙන්ම ශ්‍රී ලංකාවේ පාරිභෝගිකයින්ට ද සැලකිය යුතු ප්‍රතිලාභයක් ලබා දෙන බවට මට කිසිදු සැකයක් නැහැ.
+
+### பரீட்சைகள் திணைக்களத்தின் விசேட அறிவிப்பு
+
+*2024-01-16 19:38:52 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகள்-திணைக்களத்தின்-விசேட-அறிவிப்பு/175-331609)*
+
+இந்த ஆண்டு நடைபெற்ற க.பொ.த உயர்தர பரீட்சையின் விவசாய விஞ்ஞானம் பகுதி 1 மற்றும் 2 மீண்டும் பெப்ரவரி மாதம் 1 ஆம் திகதி நடைபெறும் என அறிவிக்கப்பட்டுள்ளது.
+
+விவசாய விஞ்ஞான பாடத்தின் வினாத்தாள் பரீட்சைக்கு முன்னதாக வௌிப்படுத்தப்பட்ட சம்பவத்தை தொடர்ந்து கடந்த 12ம் திகதி அந்த பாடத்தின் இரண்டாம் பாகத்தை இரத்து செய்வதற்கு பரீட்சைகள் திணைக்களம் நடவடிக்கை எடுத்திருந்தது.
+
+அதேநேரம் கடந்த 8ஆம் திகதி நடைபெற்ற பரீட்சையின்  முதல் பாகத்தை ரத்து செய்யவும் முடிவு செய்யப்பட்டுள்ளதாக இன்று வெளியிடப்பட்டுள்ள அறிவிப்பில் தெரிவிக்கப்பட்டுள்ளது.
+
+இதன்படி, இந்த ஆண்டுக்கான விவசாய விஞ்ஞான பாட வினாத்தாளின் இரண்டாம் பகுதி பெப்ரவரி 1ஆம் திகதி வியாழக்கிழமை காலை 08.30 முதல் 11.40 மணி வரை நடைபெறவுள்ளது.
+
+முதல் பகுதி பெப்ரவரி 1 ஆம் திகதி வியாழக்கிழமை பிற்பகல் 01.00 மணி முதல் 03.00 மணி வரை நடைபெறவுள்ளது. R
 
 ### කෑම වේල පරක්කු වුණායැයි වසර 13ක් දිවා ආහාරය දුන් හෝටල් හිමියාගේ බරිඳට පහරදුන් යාචකයා රිමාන්ඩ්
 
@@ -1957,53 +2007,3 @@ Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 தம்புத்தேகம பொருளாதார மத்திய நிலையத்தில் ஒரு கிலோ கிராம் கரட் மொத்த விலை 1500.00 ரூபாவாகவும் சில்லறை விலை 1700.00 ரூபாவாகவும்   மேற்கொள்ளப்பட்ட வினவுதலில் தம்புத்தேகம பொருளாதார மத்திய நிலையத்தின் தலைவர் சுனில் செனவிரத்ன தெரிவித்தார்.
 
 ஒரு கிலோ கிராம் போஞ்சி மொத்த விலை 1,000.00 ரூபாவாகவும் சில்லறை விலை 1,400.00 ரூபாவாகவும் உள்ளது. ஒரு கிலோ கிராம் பச்சை மிளகாயின் மொத்த விலை 1,000.00 ரூபாவாகவும், சில்லறை விலை  1,300.00 ரூபாவாகவும் அதிகரித்துள்ளதாக அவர் மேலும் தெரிவித்தனர் . R
-
-### IMF ன் உத்தியோகபூர்வ கலந்துரையாடல் இன்று
-
-*2024-01-16 10:00:51 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/IMF-ன்-உத்தியோகபூர்வ-கலந்துரையாடல்-இன்று/175-331562)*
-
-நாட்டிற்கு வருகை தந்துள்ள சர்வதேச நாணய நிதிய பிரதிநிதிகள்(IMF) குழு மற்றும் இலங்கை அதிகாரிகள் இடையிலான உத்தியோகபூர்வ கலந்துரையாடல் இன்று(16) ஆரம்பமாகவுள்ளது.
-
-6 பேர் அடங்கிய IMF பிரதிநிதிகள் குழு, மின்சார சபை, மத்திய வங்கி மற்றும் நிதி அமைச்சு உள்ளிட்ட நிறுவனங்களின் அதிகாரிகளுடன் கலந்துரையாடலில் ஈடுபடவுள்ளதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
-
-இலங்கை மற்றும் சர்வதேச நாணய நிதியத்திற்கு இடையிலான வேலைத்திட்டத்தை மேலும் வலுப்படுத்துவது தொடர்பில் இதன்போது கலந்துரையாடப்படவுள்ளதாக இராஜாங்க அமைச்சர் தெரிவித்துள்ளார்.
-
-மேலும், அவர்கள் அண்மையில் ஜனாதிபதியை சந்தித்து, பொருளாதார மறுசீரமைப்பை மேற்கொண்டு இலங்கை குறிப்பிடத்தக்களவு முன்னேற்றம் அடைந்துள்ளமை தொடர்பில் தமது பாராட்டுகளை தெரிவித்திருந்தனர்.
-
-### Hospital services left crippled as 72 trade unions launch strike
-
-*2024-01-16 09:57:00 - [adaderanalk](https://www.adaderana.lk/news/96434/hospital-services-left-crippled-as-72-trade-unions-launch-strike-)*
-
-Members of 72 trade unions from the health sector have launched a 24-hour strike this morning (16 Jan.) over several demands.
-
-Accordingly, the strike action, led by the Health Service Trade Unions, represents a wide range of health sector professionals, including radiology and laboratory technicians, pharmacists and drug compounders, midwives, Public Health Inspectors, and entomology officers, and is slated to continue until 06:30 a.m. tomorrow (17 Jan.).
-
-Meanwhile, Health Minister Ramesh Pathirana has invited the trade unions for a discussion this evening, however, Convenor of the Union Ravi Kumudesh warned that the strike will continue in the event unnecessary measures are taken against the unions.
-
-Speaking with regards to the strike on Monday (15 Jan.), President of the Paramedical Services Front (PMSF) Upul Rohana stressed that because Minsiter Pathirana is yet to provide any discussion regarding their demands,  around 100,000 health workers including all paramedical services, hospital secretaries, administrative officers as well as health administrative assistants, minor staff and 75 other trade unions of the health staff will join together with this island-wide strike.
-
-“This action will completely disrupt the hospital service. The government should understand that it is not possible to maintain medical services only with the doctors”, Upul Rohana said.
-
-The trade union action was launched in protest of the government’s decision to increase the  Disturbance, Availability and Transport (DAT) allowance for doctors by Rs. 35,000.
-
-### Sri Lanka rupee opens at 321.60/85 to the US dollar
-
-*2024-01-16 09:46:00 - [economynextcom](https://economynext.com/sri-lanka-rupee-opens-at-321-60-85-to-the-us-dollar-147369/)*
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 321.60/85 to the US dollar on Tuesday from 322.10/20 the previous day, dealers said.
-
-A bond maturing on 01.02.2026, was quoted at 13.70/80 percent from 13.70/75 percent.
-
-A bond maturing on 15.09.2027 was quoted at 14.00/10 percent.
-
-A bond maturing on 15.03.2028 was quoted at 14.15/25 percent from 14.15/20 percent.
-
-The Colombo Stock Exchange opened down after the long weekend; The All Share Price Index was down -0.04 percent at 10,606.56, while the more liquid S&P SL20 was up 0.04 percent at 3,024. (Colombo/Jan16/2024)
-
-### வைத்தியசாலை நடவடிக்கைகளுக்கு முப்படைகள் ஆதரவு
-
-*2024-01-16 09:44:25 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலை-நடவடிக்கைகளுக்கு-முப்படைகள்-ஆதரவு/175-331561)*
-
-நாடளாவிய ரீதியில் சுகாதார சேவை ஊழியர்களால் ஏற்பாடு செய்யப்பட்ட பணிப்புறக்கணிப்புக்கு மத்தியில் வைத்தியசாலை நடவடிக்கைகளுக்கு ஆதரவாக முப்படைகள் அணிதிரட்டப்பட்டுள்ளதாக பாதுகாப்பு படைகளின் பிரதானி ஜெனரல் சவேந்திர சில்வா தெரிவித்துள்ளார்.
-
-வைத்தியரில்லாத ஊழியர்கள் இன்று (16) காலை 8.00 மணி முதல் நாடளாவிய ரீதியில் பணிப்பகிஷ்கரிப்பை மேற்கொள்ள தீர்மானித்துள்ளதாக சுகாதார பிரிவை பிரதிநிதித்துவப்படுத்தும் தொழிற்சங்கங்கள் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.

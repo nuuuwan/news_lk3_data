@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 19:27:51**
+As of **2024-01-16 20:28:02**
 
 ## Newspaper Stats
 
@@ -8,9 +8,9 @@ As of **2024-01-16 19:27:51**
 
 * bbccomsinhala: 25
 
-* virakesarilk: 28
-
 * newsfirstlk: 37
+
+* virakesarilk: 38
 
 * economynextcom: 39
 
@@ -26,9 +26,25 @@ As of **2024-01-16 19:27:51**
 
 * dbsjeyarajcom: 112
 
-* **Total**: **629**
+* **Total**: **639**
 
 ## Latest Articles (100)
+
+### முச்சக்கரவண்டி சாரதிகளின் தொழிற் சங்கங்களை நிறுவுவதற்கான இடைக்கால வழிநடத்தல் குழு ஸ்தாபிப்பு!
+
+*2024-01-16 19:02:00 - [virakesarilk](https://www.virakesari.lk/article/174108)*
+
+நாட்டில் முறைசாரா துறையில் பணிபுரியும் அனைத்து தொழிலாளர்களுக்கும் கௌரவத்தையும் பெருமையையும் வழங்கும் வகையில் ஆரம்பிக்கப்பட்ட 'கரு சரு' திட்டத்தின் ஊடாக முச்சக்கரவண்டி சாரதிகளின் தொழிற்சங்கங்களை நிறுவுவதற்கான இடைக்கால வழிநடத்தல் குழு இன்று (16) முதற்கட்டமாக ஸ்தாபிக்கப்பட்டது.
+
+தொழில் திணைக்களத்தின் கேட்போர்கூடத்தில் தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்காரவின் தலைமையில் நடைபெற்ற துறைசார் குழுக்களை நிறுவது  தொடர்பான கலந்துரையாடலின் போதே இந்தக் குழு ஸ்தாபிக்கப்பட்டது.
+
+முச்சக்கர வண்டி சாரதிகளுக்கான நிபுணத்துவ சபை ஸ்தாபிக்கப்படும் வரை இந்த  இடைக்கால வழிநடத்தல் குழு முச்சக்கரவண்டி சாரதிகளின் தொழில்சார் மற்றும் சமூகப் பாதுகாப்பை உறுதிப்படுத்தும்.
+
+இதன்போது நாடு முழுவதிலும் செயற்பட்டுவரும் அனைத்து முச்சக்கரவண்டிச் சாரதிகளின் சங்கங்களின் பிரதிநிதிகளையும்  உள்ளடக்கிய இந்த இடைக்காலக் குழுவில், அவர்களின் தொழில் கௌரவத்தையும், வளர்ச்சியையும்  மேம்படுத்துவது தொடர்பாக இதற்கு முன்னர் இடம்பெற்ற கலந்துரையாடலில் இணக்கம் காணப்பட்ட விடயங்கள் அடங்கிய பிரேரணை அமைச்சரிடம் கையளிக்கப்பட்டது
+
+இப்பிரேரணைகளை நடைமுறைப்படுத்துவதற்கான முன்மொழிவுகளை சட்டமாக்கி வர்த்தமானியில் வெளியிட நடவடிக்கை மேற்கொண்டு முச்சக்கரவண்டி சாரதிகளாக பணிபுரியும் அனைவரையும் தரவு அமைப்பில் பதிவு செய்து மிகக் குறுகிய காலத்திற்குள் புதிய  கியூ.ஆர். குறியீட்டு முறையயை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்படும் என்று இதன்போது அமைச்சர் உறுதியளித்தார்.
+
+எந்தவொரு சந்தர்ப்பத்திலும் தனியார் துறை காப்புறுதி நிறுவனங்களோ அல்லது வேறு எந்தவொரு தரப்பினரும் சமூகப் பாதுகாப்பு நடவடிக்கைகளில் ஈடுபட மாட்டார்கள். அவ்வாறே நாட்டில் தற்போதுள்ள சமூக பாதுகாப்பு நடைமுறைகள் மற்றும்  புதிய சமூக பாதுகாப்பு முறைமைகள் என்பன அரசின் கண்காணிப்பில்  நடைமுறைப்படுத்தப்படும் எனவும் அமைச்சர் சுட்டிக்காட்டினார்.
 
 ### சந்தைக்கு போகாதவர்களுக்கு மட்டும்
 
@@ -53,6 +69,28 @@ This committee was formed and established under the chairmanship of the Minister
 The committee reportedly includes representatives of all three-wheeler drivers’ associations in Sri Lanka.
 
 Meanwhile, a resolution consisting of the matters agreed upon in the previous discussions regarding the development of the dignity of their profession was also handed over to the minister during the event.
+
+### மென்சீஸ் விமான சேவையின் தலைவரை சந்தித்து ஜனாதிபதி பேச்சு!
+
+*2024-01-16 17:53:00 - [virakesarilk](https://www.virakesari.lk/article/174100)*
+
+சுவிட்சர்லாந்தின்  டாவோஸ் நகரில் உலக பொருளாதார மாநாட்டுடன் இணைந்ததாக, ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் மென்சீஸ் விமான சேவை (Menzies Airlines) யின் தலைவர் ஹசன் என் ஹவுரிக்கும் (Hassan El-Houry)  இடையில் சந்திப்பொன்று இடம்பெற்றது.
+
+இந்த சந்தர்ப்பத்தில் ஜனாதிபதியின் தேசிய பாதுகாப்பு தொடர்பான சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான  சாகல ரத்நாயக்கவும்  இணைந்து கொண்டார்.
+
+### அமெரிக்காவின் முன்னாள் உப ஜனாதிபதி அல்கோரை சந்தித்தார் ஜனாதிபதி ரணில்
+
+*2024-01-16 17:37:00 - [virakesarilk](https://www.virakesari.lk/article/174097)*
+
+சுவிட்சர்லாந்தின் டாவோஸ் நகரில் நடைபெறும் உலக பொருளாதார மாநாட்டுடன் இணைந்த வகையில், ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும், அமெரிக்காவின் முன்னாள் உப ஜனாதிபதி, The Climate Reality Project இன் நிறுவனரும் தலைவருமான அல் கோர் (Al Gore) ஆகியோருக்கும் இடையில் சந்திப்பொன்று இடம்பெற்றது.
+
+காலநிலை மாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தன மற்றும் ஜெனீவாவிற்கான ஐக்கிய நாடுகள் சபையின் இலங்கையின் நிரந்தரப் பிரதிநிதியும் தூதுவருமான ஹிமாலி அருணதிலக்க ஆகியோரும் இச்சந்திப்பில் கலந்துகொண்டனர்.
+
+### பெருந்தோட்ட பகுதி மாணவர்களின் இடைவிலகல்கள்..!
+
+*2024-01-16 17:29:00 - [virakesarilk](https://www.virakesari.lk/article/174094)*
+
+சுதந்திரத்துக்கு பின்பும் இலவச கல்வியை பெறமுடியாத ஒரே சமூகத்தினராக இந்நாட்டில்  மலையக பெருந்தோட்ட சமூகத்தினர் விளங்கினர். இந்த அவலம் சுமார் நாற்பது வருடங்கள் வரை நீடித்தன...
 
 ### Health sector strike to continue as talks with govt fail
 
@@ -134,6 +172,22 @@ Sri Lanka has ambitious plans to fulfil its sustainable, green development agend
 
 It is clear that Sri Lanka’s renewable energy policy direction is underpinned by multiple motivations and drivers. Therefore investors can expect a high degree of policy continuity in this sector going forward as well. This is the best time to invest in Sri Lanka’s renewable energy journey, and I have no doubt such investments will generate significant value for shareholders and Sri Lanka’s consumers over the next several decades.
 
+### பிக்குகள் மாத்திரம் காவி உடையணியும் சட்டம் வேண்டும்: ஒரு சில தேரர்களுக்கு வெளிநாடுகளிலிருந்து கோடிக்கணக்கில் நிதி கிடைக்கிறது! - உதய கம்மன்பில
+
+*2024-01-16 17:14:00 - [virakesarilk](https://www.virakesari.lk/article/174088)*
+
+பௌத்த மதத்தை இல்லாதொழிக்கும் வகையில் ஒழுங்கமைக்கப்பட்ட செயற்பாடுகள் முன்னெடுக்கப்படுகின்றன. இந்த நாட்டில் காவி உடை அணிவதை பிக்குகளுக்கு மாத்திரம் வரையறுக்கும் சட்டம் இயற்றப்பட வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+
+கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் இன்று  (16) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+அவர் மேலும் தெரிவித்ததாவது, பௌத்த மத கோட்பாடுகளை திரிபுபடுத்தி, பௌத்த மதத்தை இல்லாதொழிக்கும் வகையிலான திட்டமிட்ட செயற்பாடுகள் முன்னெடுக்கப்படுகின்றன. இதற்கு புலம்பெயர் அமைப்புக்கள் நிதியுதவி வழங்குகின்றன.
+
+பௌத்த மதத்தை அவதிக்கும் வகையிலான கருத்துக்களை இன்று பல்வேறு தரப்பினர் குறிப்பிடுகின்றனர். பௌத்த கோட்பாட்டை திரிபுபடுத்தும் கருத்துக்களை குறிப்பிடும் ஒரு சில பௌத்த தேரர்களுக்கு வெளிநாடுகளில் இருந்து கோடிக்கணக்கில் நிதி கிடைக்கிறது. ஒரு சிலர் தம்மை பிக்கு என்று அடையாளப்படுத்திக் கொண்டு பௌத்த மதத்தை அவமதிக்கிறார்கள்.
+
+காவி உடையை அனைவரும் அணியும் நிலை இன்று காணப்படுகிறது. இவ்வாறானவர்களை கைது செய்யவும்  முடியாது.பிக்கு ஒருவர்  காவி உடை தரிக்க வேண்டும் என்று ஒழுக்கச் சட்டத்தில் குறிப்பிடப்பட்டுள்ளது.ஆனால் ஏனையோர் காவி உடைய அணிய முடியாது என்று சட்டத்தில் குறிப்பிடப்படவில்லை. ஆகவே காவி உடை அணிந்தவர்கள் எதை செய்தாலும் அவர்களை உடனடியாக கைது செய்ய முடியாத நிலை காணப்படுகிறது.
+
+தான் விரும்பும் ஆடைகளை அணிந்து கொள்ளும் உரிமை அனைவருக்கும் உண்டு. 2300 வருட கால தொன்மையை கொண்டுள்ள பௌத்த கோட்பாட்டை பாதுகாக்க வேண்டுமாயின் இந்த நாட்டில் காவி உடை அணிவதை பிக்குகளுக்கு மாத்திரம் வரையறைக்கும் சட்டம் இயற்றப்பட வேண்டும் என்றார்.
+
 ### Prices of fertilizers used for tea cultivation slashed
 
 *2024-01-16 17:11:00 - [adaderanalk](https://www.adaderana.lk/news/96450/prices-of-fertilizers-used-for-tea-cultivation-slashed-)*
@@ -152,6 +206,96 @@ He explained that the measure was taken in a bid to mandate the use of fertilize
 
 A meeting was held at the premises of the Plantation Industries Ministry this afternoon, with the participation of representatives from tea-growing associations in all eight tea-growing districts and other relevant officials from the Ministry.
 
+### உலகளாவிய தலைமைத்துவ தோல்வியின் விளைவுகளை வளர்ந்து வரும் நாடுகள் சுமக்க வேண்டிய நிலை - சுவிஸ் பசுமை தொழில்நுட்ப மன்றத்தில் ஜனாதிபதி
+
+*2024-01-16 17:06:00 - [virakesarilk](https://www.virakesari.lk/article/174085)*
+
+இலங்கையின் புதுப்பிக்கத்தக்க எரிசக்தி துறையில் முதலீடு செய்ய இதுவே சரியான தருணம் என்றும், அடுத்து வரும் தசாப்தங்களில் இது அந்தப் பங்குதாரர்களுக்கும் இலங்கை நுகர்வோருக்கும் குறிப்பிடத்தக்க நன்மைகளை ஏற்படுத்தும் என்பதில் சந்தேகமில்லை என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+அதற்காக முன்வரும் புதுப்பிக்கத்தக்க வலுசக்தி துறை முதலீட்டாளர்களுக்கு இலங்கை அரசாங்கம் உயர் மட்ட மற்றும் நிலையான கொள்கையை உத்தரவாதம் செய்யும் என்றும் ஜனாதிபதி சுட்டிக்காட்டினார்.
+
+சுவிஸ்சர்லாந்தின் டாவோஸ் நகரில் திங்கட்கிழமை (15) இடம்பெற்ற “பசுமை தொழில்நுட்ப மன்றத்தில்” (Green Tech Forum) கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார். இதனை  சுவிஸ் - ஆசிய வர்த்தக சம்மேளனம் ஏற்பாடு செய்துள்ளது.
+
+'எரிசக்தியால் பாதுகாப்பான இலங்கைக்கு வழி வகுத்தல்' என்ற தொனிப்பொருளில் தனது உரையை ஆற்றிய ஜனாதிபதி, இலங்கையில் புதுப்பிக்கத்தக்க வலுசக்தித் துறையின் உயர் ஆற்றல்கள் மற்றும் புதுப்பிக்கத்தக்க வலுசக்தி துறைக்கு உகந்த முதலீட்டுடன் கூடிய சூழலை ஏற்படுத்த கடந்த 2 ஆண்டுகளில் அரசாங்கம் எடுத்துள்ள நடவடிக்கைகள் குறித்தும் தெளிவுபடுத்தினார்.
+
+காலநிலை மாற்றத்தைக் குறைப்பதில் இலங்கையின் அர்ப்பணிப்பை வலியுறுத்திய ஜனாதிபதி ரணில் விக்ரமசிங்க, டுபாயில் நடைபெற்ற COP28 மாநாட்டில் முன்வைக்கப்பட்ட "வெப்பமண்டல முன்முயற்சி" உட்பட ஏனைய நடவடிக்கைகள் குறித்தும் விளக்கினார்.
+
+இலங்கை தனது நிலையான, பசுமையான அபிவிருத்தி நிகழ்ச்சி நிரலை அடைவதற்கான இலட்சியத் திட்டங்களைக் கொண்டிருப்பதாகவும், 2050 ஆம் ஆண்டளவில் நிகர பூஜ்ஜிய உமிழ்வை அடைவதில் உறுதியாக உள்ளதாகவும் ஜனாதிபதி வலியுறுத்தினார்.
+
+துரித புதுப்பிக்கத்தக்க வலுசக்தித் திட்டம் இந்த முழு முயற்சியின் ஒரு முக்கிய அங்கம் என்றும், இது வலுசக்தி பாதுகாப்பிற்கான பாதையில் இன்றியமையாத நடவடிக்கை என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+இந்த விரிவுரையை வழங்க என்னை அழைத்த சுவிஸ் - ஆசிய வர்த்தக சம்மேளனம் மற்றும் இந்நிகழ்வின் அனைத்து ஏற்பாட்டாளர்களுக்கும்  நன்றி தெரிவிக்கிறேன்.
+
+காலநிலை மாற்றத்தைத் தணிக்க உலகளாவிய நடவடிக்கையை துரிதப்படுத்த வேண்டிய அவசரத் தேவை ஏற்பட்டுள்ளது. இதற்காக பல்வேறு அர்ப்பணிப்புகளைச் செய்த பல உலகளாவிய மன்றங்கள் உள்ளன. இருப்பினும், இதற்காக அர்ப்பணிப்பதை விட செயற்படுவது குறைந்த மட்டத்தில் உள்ளது என்று சொல்ல வேண்டும். உலகளாவிய தலைமைத்துவத்தில் ஏற்பட்ட இந்த தோல்வியின் விளைவுகள் பெரும்பாலும் பூகோள தெற்கின் வளர்ந்து வரும்  நாடுகளுக்கு சுமக்க நேரிடுகிறது.
+
+பொதுவான காலத்தை விட வறட்சி, நீண்ட காலம் நீடிப்பது விவசாய உற்பத்திக்கு இடையூறு விளைவிக்கும் போது நமது உணவு பாதுகாப்பு ஆபத்தில் தள்ளப்படுகிறது. மேலும், தாமதமான பருவமழை காரணமாக நீர்மின் உற்பத்தி தடைபடும்போது நமது வலுசக்தி பாதுகாப்பு ஆபத்தில் உள்ளது.
+
+வறட்சியின் நிறைவில் வெள்ளம் நிலைமை ஏற்படுகிறது. குறிப்பாக, சாதாரண மக்களின் வாழ்க்கையையும் வாழ்வாதாரத்தையும் சீர்குலைக்கிறது. வளர்ச்சியடைந்து வரும் நாடுகளில் பருவநிலை மாற்றத்தால் ஏற்படும் பாதகமான விளைவுகள் அசாதாரணமானது என்பது இதிலிருந்து மிகத் தெளிவாகத் தெரிகிறது.
+
+காலநிலை நீதி  தொடர்பான பிரச்சினையைப் போன்று அதனை தணிக்கவும்  பூகோள தெற்கின் நாடுகளுக்கு மேம்பட்ட பொருளாதாரங்களின் வலுவான பங்களிப்பின் அவசியத்தையும் இது காட்டுகிறது.
+
+காலநிலை மாற்றத்தைத் தணிக்க இலங்கை உறுதிபூண்டுள்ளது என்பதை வலியுறுத்த வேண்டும். டுபாயில் நடைபெற்ற  COP28  மாநாட்டில் "வெப்பமண்டல முன்முயற்சி" ஆரம்பிக்கப்பட்டது. இது வெப்பமண்டல நாடுகளில் காடுகள், வலுசக்தி, சமுத்திரம் மற்றும் சதுப்புநில சுற்றுச்சூழல் அமைப்புகளில் தனியார் முதலீட்டை ஊக்குவிக்கும் திட்டத்தை உருவாக்குகிறது.
+
+அத்தகைய முயற்சிகளின் ஒரு முக்கிய அங்கமான, புதுப்பிக்கத்தக்க ஆற்றலில் நமது முயற்சிகளுக்கு உங்கள் கவனத்தை ஈர்க்க விரும்புகிறேன்.
+
+புதுப்பிக்கத்தக்க ஆற்றலுக்கான நீண்ட வரலாற்றை இலங்கை கொண்டுள்ளது என்பதை நீங்கள் அறிவீர்கள். சுதந்திரத்திற்குப் பிறகு, இலங்கை நீர்மின் உற்பத்தியில் விரிவான வலையமைப்பை உருவாக்கியது. 1950 இல் அதன் முதல் பாரிய  நீர்மின் உற்பத்தி நிலையம் ஆரம்பிக்கப்பட்டது. இது நான்கு நீர்த்தேக்கங்களைக் கொண்டுள்ளது. அதன் பின்னர் நாட்டின் ஆற்றல் தேவைக்காக மகாவலி அபிவிருத்தித் திட்டத்தை ஆரம்பித்தோம். இவ்வாறு ஐந்து பிரதான நீர்த்தேக்கங்கள் உருவாக்கப்பட்டு ஆறாவது நீர்த்தேக்கமாக வளவே கங்கை திட்டம் இணைக்கப்பட்டது. மகாவலி கங்கைத் திட்டத்தின் இறுதிக் கட்டம் ஏழு வருடங்களுக்கு முன்னர் பூர்த்தி செய்யப்பட்டது. இதனால், நீர்மின்சாரத்திற்கு கிடைக்கும் மூலங்களைப் பயன்படுத்தியுள்ளோம்.
+
+இன்றும், இலங்கையின் மின்சார உற்பத்தித் திறனில் சுமார் 40% நீர்மின்சாரமாகும். நீர் மின்சாரம் உகந்த அளவில் பயன்படுத்தப்பட்டதால், காற்றாலை மற்றும் சூரிய மின் உற்பத்தியை தேசிய மின் கட்டமைப்பில் ஒருங்கிணைக்க அதிக முயற்சிகள் மேற்கொள்ளப்பட்டுள்ளன.
+
+2030 ஆம் ஆண்டளவில் இலங்கையின் மின்சாரத் தேவையில் 70% புதுப்பிக்கத்தக்க வலுசக்தி மூலம் பூர்த்தி செய்யப்படுவதை உறுதி செய்வதற்காக அரசாங்கம் தற்போது இந்த செயல்முறையை துரிதப்படுத்தியுள்ளது. இந்த இலக்கை அடைய 11.5 பில்லியன் அமெரிக்க டாலர்கள் வரை பெரிய முதலீடு தேவைப்படுகிறது. இருப்பினும், அண்மைக் காலம் வரை, புதுப்பிக்கத்தக்க வலுசக்தி துறையில் தனியார் துறை முதலீட்டிற்கான கட்டமைப்பு மிகவும் சாதகமாக இல்லை.
+
+கடந்த 2 ஆண்டுகளில், இந்த குறைபாடுகளை சீர் செய்யவும், புதுப்பிக்கத்தக்க வலுசக்தி துறைக்கு உகந்த முதலீட்டு சூழலை உருவாக்கவும் அரசாங்கம் பல நடவடிக்கைகளை எடுத்துள்ளது.
+
+அதன் முதலாவது முன்னெடுப்பாக, செலவு பிரதிபலிப்பு கட்டண முறையை உருவாக்க வேண்டும். 2014 மற்றும் 2022இற்கு இடையில், இலங்கையில் மின்சார கட்டணத்தில் திருத்தம் எதுவும் செய்யப்படவில்லை. இதனால் இலங்கை மின்சார சபைக்கு பணம் கிடைப்பதில்  சிக்கல் ஏற்பட்டதுடன் சில சந்தர்ப்பங்களில் மின்சார விநியோகஸ்தர்களுக்கான கொடுப்பனவுகளில் தாமதம் ஏற்பட்டது.
+
+இருப்பினும், ஒகஸ்ட் 2022 முதல், இது செலவு-பிரதிபலிப்பு விலை சூத்திரத்திற்கு மாறியது. அதன்படி, எதிர்கால மின் உற்பத்தி செலவைப் பிரதிபலிக்கும் வகையில், ஒவ்வொரு காலாண்டிலும் மின் கட்டணங்கள் மறுசீரமைக்கப்படுகின்றன. நீண்ட காலமாக நஷ்டத்தில் இயங்கி வந்த இலங்கை மின்சார சபை 2023 ஆம் ஆண்டு இலாபம் ஈட்டும் நிறுவனமாக மாறியதன் மூலம் ஏற்கனவே இருந்த கடன்களை கணிசமான அளவில் செலுத்த முடிந்தது.
+
+இந்த நிறுவனம் இப்போது வலுவான இருப்புநிலை மற்றும் வலுவான பணப்புழக்க நிலை மற்றும் நிதி பணப் புழக்கத்தை உறுதி செய்யும் கட்டண அறவீட்டு முறையொன்றைக் கொண்டுள்ளது.  உள்ளக மறுசீரமைப்புகள், பசுமை நிதியை ஈர்ப்பதற்கான கட்டமைப்பையும் நாங்கள் தயாரித்து வருகிறோம்.
+
+நிலையான நிதிக்கான வரைபடம், பசுமை நிதி வகைப்படுத்தல், நிலையான அபிவிருத்தி இலக்குகளுக்கான முதலீட்டாளர் வரைபடம் (SDG) மற்றும் தற்போது தயாரிக்கப்பட்டு வரும் பசுமைப் பிணைப்புக் கட்டமைப்பிற்கான வரைப்படம் ஆகியவை  ஊடாக இலங்கைக்கு பலமான காலநிலை நிதியியலைப் பலப்படுத்தி தேவையான சூழல் உருவாக்கப்படுகிறது. நிலையான நிதியுதவியை வழங்குவது இலங்கையின் புதுப்பிக்கத்தக்க வலுசக்தி துறையில் முதலீடுகளுக்கு கூடுதல் ஊக்கத்தை அளிக்கும்.
+
+புதுப்பிக்கத்தக்க வலுசக்தி துறையில் பாரிய அளவிலான தனியார் துறை முதலீடுகளுக்கு சட்டரீதியான தடைகள் உள்ளன. 2022 இல் கொண்டுவரப்பட்ட மின்சாரச் சட்டத் திருத்தம் அந்தச் சட்டத் தடைகளை நீக்குவதற்கான இரண்டாவது படியாகும்.
+
+மூன்றாவதாக, இலங்கை மின்சார சபையை மறுசீரமைக்கும் இறுதிக் கட்டத்தில் அரசாங்கம் உள்ளது. இது மின்சார சபையின் விநியோகம், உற்பத்தி மற்றும் பரிமாற்றத்தில் அதிக நிதி மற்றும் செயல்பாட்டு சுதந்திரத்தை உருவாக்கும்.  இதன் விளைவாக போட்டித்தன்மை மற்றும் வெளிப்படைத்தன்மை ஏற்படும்.
+
+மின் உற்பத்தியில் தனியார் துறை பங்களிப்பு ஏற்கனவே நடைபெற்று வருகிறது, இந்த மறுசீரமைப்பு திட்டத்தின் மூலம் தனியார் துறை பங்கேற்புக்கு அதிக வாய்ப்பு கிடைக்கும்.
+
+ஆசிய  அபிவிருத்தி வங்கியின் ஆதரவுடன் செயல்படுத்தப்படும் இந்த பாரிய மறுசீரமைப்புகள், நுகர்வோர் மற்றும் மிகவும் போட்டி மற்றும் திறமையான மின் உற்பத்தியாளர்களுக்கு அதிக உற்பத்தி வாய்ப்புகளை உருவாக்குகின்றன. மின்சார சபை  திறமையாக செயல்படுவதையும் இது உறுதி செய்கிறது. இந்த மறுசீரமைப்புக்கான சட்ட வரைவு கடந்த மாதம் வெளியிடப்பட்டது.
+
+குறிப்பாக 2026 ஆம் ஆண்டளவில் நாட்டின் தேசிய மின்சாரத் தேவைகளில் 70 சதவீதத்தை புதுப்பிக்கத்தக்க ஆற்றலில் இருந்து பூர்த்தி செய்யும் நோக்கத்திற்காக, கட்டமைப்பின் செயல்திறனை மேம்படுத்தவும் புதுப்பிக்கத்தக்க ஆற்றலை ஒருங்கிணைக்கவும் மேம்பாடுகள் அவசியம். களஞ்சியப்படுத்தல், பரிமாற்றம் மற்றும் விநியோகம் ஆகியவற்றிலும் முதலீடு தேவைப்படுகிறது. 2030 ஆம் ஆண்டு வரை இந்த ஒருங்கிணைப்புக்கான திட்டங்கள் தயாரிக்கப்பட்டு, அவற்றின் செயல்படுத்தல் ஏற்கனவே தொடங்கப்பட்டுள்ளது.
+
+கடந்த இரண்டு ஆண்டுகளில் வலுசக்தி துறையில் செயல்படுத்தப்பட்ட முக்கிய மறுசீரமைப்புகள் இந்தத் துறையில் மீண்டும் ஆர்வத்தை ஏற்படுத்தியது. பாரிய அளவிலான சூரிய மற்றும் காற்றாலை ஆற்றல் திட்டங்கள் ஏற்கனவே செயல்படுத்தப்பட்டுள்ளன.
+
+இந்தியாவின் முன்னணி வர்த்தக நிறுவனம் 350 மெகாவாட் காற்றாலை மின்சாரத்தை உற்பத்தி செய்ய முன்வந்துள்ளது.  இது 2025 இல் தொடங்க எதிர்பார்க்கப்படுகிறது. இந்நிறுவனம் மேலும்  750 மில்லியன் டொலர்களை காற்றாலை ஆற்றலில் முதலீடு செய்ய திட்டமிட்டுள்ளது. அதன்படி காற்றாலை மின்சாரம் இலங்கைக்கு பெரும் வாய்ப்பை வழங்குகிறது.
+
+குறிப்பாக கடலோர காற்றாலை மின்சாரத்தின் ஊடாக  இலங்கைக்கு  தேவையை விட அதிக மின்சாரத்தை உற்பத்தி செய்யும் சாத்தியம் உள்ளதாக உலக வங்கியின் அண்மைய அறிக்கை சுட்டிக்காட்டுகிறது.
+
+இந்த நிலையைக் கருத்தில் கொண்டு, இலங்கைக்கும் இந்தியாவுக்கும் இடையில் வலுசக்தி தொடர்பை ஏற்படுத்துவது தொடர்பான கலந்துரையாடல்கள் முற்போக்கான கட்டத்தில் உள்ளது. மேலதிக  மின்சாரத்தை, குறிப்பாக இந்தியாவின் தென்பகுதியில் வேகமாக வளர்ந்து வரும் தொழில்துறைப் பகுதிக்கு ஏற்றுமதி செய்வதற்கான வாய்ப்பை இது வழங்குகிறது.
+
+சூரிய சக்தி மின்உற்பத்திக்கும் அதிக வாய்ப்பு உள்ளது. இது சுமார் 40 ஜிகாவொட் என மதிப்பிடப்பட்டுள்ளது. கூரைகளில் பொருத்தப்படும்  சூரிய தகடுகளினால்  உருவாக்கப்படும் ஆற்றலைத் தவிர, சூரிய சக்தி  ஆற்றல் சுமார் 200 ஜிகாவாட் ஆகும். அதன்படி, மொத்த அளவை அதிகரிக்க வேண்டும். இது இலங்கையின் காற்றாலை சக்தியை விட அதிகம். இலங்கையில் பசுமை ஹைட்ரஜன் மற்றும் பசுமைஆமோனியாவின் சாத்தியக்கூறுகளையும் நாங்கள் ஆராய்ந்து வருகிறோம்.
+
+இலங்கையின் நிலையான, பசுமையான அபிவிருத்தி நிகழ்ச்சி நிரலை நிறைவேற்றுவதற்கான நம்பிக்கைக்குரிய திட்டங்கள் உள்ளன. 2050 ஆம் ஆண்டளவில் நிகர பூஜ்ஜிய உமிழ்வை அடைய இலங்கை உறுதிபூண்டுள்ளது.
+
+துரித  புதுப்பிக்கத்தக்க வலுசக்தித் திட்டம் இந்த முழு முயற்சியின் ஒரு முக்கிய அங்கமாகும், மேலும் இது ஆற்றல் பாதுகாப்பிற்கான இன்றியமையாத படியாகும்.
+
+இலங்கை தற்போது வறட்சிக் காலத்தில்  அதிக விலைகூடிய  எரிபொருளைச் சார்ந்து இருப்பதால், இந்த புதுப்பிக்கத்தக்க வலுசக்தி ஆதாரங்கள் உற்பத்திச் செலவைக் குறைக்கும் ஆற்றலைக் கொண்டுள்ளது.
+
+இலங்கை தற்போது காலநிலை மாற்றத்தைத் தணித்தல் தொடர்பான சர்வதேச பல்கலைக்கழகத்தை நிறுவுவதற்கான நடவடிக்கைகளில் ஈடுபட்டுள்ளது. இது பசுமை ஆற்றலுக்கான தற்போதைய வாய்ப்புகளை மேலும் திறந்து விடும்.
+
+இலங்கையின் புதுப்பிக்கத்தக்க வலுசக்தி கொள்கையின் திசையை பல்வேறு உந்துதல்களும் பங்குதாரர்களும் ஆதரிக்கின்றனர் என்பது தெளிவாகிறது. எனவே, முதலீட்டாளர்கள் இந்தத் துறையில் உயர்தரம்  மற்றும் நிலையான கொள்கையை எதிர்பார்க்கலாம். இலங்கையின் புதுப்பிக்கத்தக்க வலுசக்தி துறையில் முதலீடு செய்வதற்கு இதுவே சிறந்த தருணம். மேலும் இதுபோன்ற முதலீடுகள் எதிர்வரும் தசாப்தங்களில் அதன் பங்குதாரர்களுக்கும் இலங்கை நுகர்வோருக்கும் அதிக வருமானத்தை தரும் என்பதில் எனக்கு எதுவித சந்தேகமும் கிடையாது.'' என்று ஜனாதிபதி தெரிவித்தார்.
+
+### பிக்மீ சாரதி மீதும் வாடிக்கையாளர் மீதும் பிறிதொரு முச்சக்கர வண்டி சாரதியால் தாக்குதல்!
+
+*2024-01-16 17:03:00 - [virakesarilk](https://www.virakesari.lk/article/174086)*
+
+இன்று செவ்வாய்க்கிழமை (16) பிக்மீ (PickMe) சாரதி ஒருவர் கோண்டாவிலில் உள்ள புகையிரத நிலையத்துக்கு அருகாமையில் வைத்து மற்றும் ஒரு முச்சக்கர வண்டி சாரதியினால் தாக்கப்பட்டார்.
+
+குறிப்பிட்ட சம்பவம் இன்றைய தினம் மதியம் இரண்டரை மணியில் இருந்து 3:30 மணிக்குள் இடம்பெற்றுள்ளதாக பாதிக்கப்பட்ட சாரதி தெரிவித்துள்ளார். இவர் மட்டும் இல்லாமல் இவரை அழைத்த பிரயாணியும் குறிப்பிட்ட மற்றைய சாரதியினால் தாக்கப்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+குறித்த பகுதியில் இருந்த பயணிகள் இருவர் பிக்மீ  மூலம் முச்சக்கர வண்டியை வாடகைக்கு அமர்த்தினார். இதன்போது குறித்த முச்சக்கர வண்டி சாரதி வாடிக்கையாளர்கள் இருவரையும் ஏற்றிக்கொண்டு செல்ல முற்பட்டவேளை அவ்விடத்திற்கு வந்த மற்றொரு முச்சக்கர வண்டி சாரதி அவர் மீது தாக்குதல் மேற்கொண்டுள்ளார். அத்துடன் பயணியையும் தாக்கியுள்ளார்.
+
+இச்சம்பவம் குறித்து கோப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யவுள்ளதாக பாதிக்கப்பட்ட சாரதி தெரிவித்துள்ளார்.
+
 ### Sri Lanka to speed up negotiations to use sea area beyond exclusive economic zone
 
 *2024-01-16 17:00:00 - [adaderanalk](https://www.adaderana.lk/news/96449/sri-lanka-to-speed-up-negotiations-to-use-sea-area-beyond-exclusive-economic-zone-)*
@@ -168,6 +312,18 @@ Accordingly, the Committee Chair pointed out the need to speed up these activiti
 
 Committee members and Members of Parliament Madhura Withanage, S.M.M. Muszhaaraff, officials representing the Ministry of Foreign Affairs were present at the Committee meeting held, according to the Parliamentary Communications Department.
 
+### இந்தியாவில் இந்தி மொழியினைக் கற்பதற்கான புலமைப் பரிசில்
+
+*2024-01-16 16:59:00 - [virakesarilk](https://www.virakesari.lk/article/174084)*
+
+2024-25 கல்வி ஆண்டில், இந்தி மொழியினைக் கற்பதற்கான புலமைப் பரிசில்கள் இந்திய அரசாங்கத்தின் மனித வள மேம்பாட்டுத் துறை அமைச்சினால் வழங்கப்படுகின்றது.
+
+இந்தத் திட்டமானது முழுமையான நிதியுதவியுடன் கூடிய புலமைப்பரிசிலாக காணப்படுவதுடன், இதில் தேர்ந்தெடுக்கப்பட்ட விண்ணப்பதாரர்களுக்கு இருவழி விமான கட்டணம், உதவித்தொகை, தங்குமிடம் மற்றும் வருடாந்த புத்தகக் கொடுப்பனவு ஆகியவை வழங்கப்படும்.
+
+2. 21 வயது முதல் 35 வயதுக்கு இடைப்பட்டவர்களில் இந்தி மொழியினை ஆரம்ப/இடைநிலை மட்டத்தில் பயின்றவர்கள் இப்புலமைப் பரிசிலுக்கு விண்ணப்பிப்பதற்கான தகுதியினைக் கொண்டிருக்கின்றனர்.
+
+இலங்கையைச் சேர்ந்த தகுதிவாய்ந்த மாணவர்கள் முழுமையாக நிரப்பப்பட்ட விண்ணப்ப படிவங்களுடன் 2024 பெப்ரவரி 26 ஆம் திகதி கொழும்பு 07 கிரகரிஸ் வீதி இலக்கம் 16/2 இல் அமைந்துள்ள சுவாமி விவேகானந்தா கலாசார நிலையத்தில் (இந்திய கலாசார நிலையம்) நடைபெறும் நேர்முகத் தேர்விற்காக சமூகமளிக்குமாறு கோரப்படுகின்றார்கள்.
+
 ### பச்சை இலை கஞ்சியை கொடுத்து கைவரிசை
 
 *2024-01-16 16:56:18 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பச்சை-இலை-கஞ்சியை-கொடுத்து-கைவரிசை/175-331607)*
@@ -181,6 +337,20 @@ Committee members and Members of Parliament Madhura Withanage, S.M.M. Muszhaaraf
 கண்டி தேசிய வைத்தியசாலையின் இருதய சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வரும் தனது கணவரைப் பார்ப்பதற்காக வந்த பெண், நோயாளிகளைப் பார்க்கும் நேரம் வரும் வரை அருகில் இருந்த பெஞ்சில் அமர்ந்திருந்ததாக பொலிஸார் தெரிவிக்கின்றனர்.
 
 இதற்கிடையில் அங்கு அமர்ந்திருந்த மற்றொரு பெண், அப் பெண்ணுடன் பேசி நட்பாகி கொண்டுள்ளார். அதன்பின்னர் தான் வாங்கி வந்திருந்த   பச்சை இலை கஞ்சியை குடிக்க கொடுத்துள்ளார்.  கஞ்சியை குடித்ததன் பின்னர் அப்பெண் மயங்கிவிட்டார். சுயநினைவு திரும்பியபோ​தே தான் அணிந்திருந்த, ​​தங்க நகைகள் மற்றும் பணம் காணாமல் போனதை கவனித்து பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+
+### மன்னார் எருக்கலம்பிட்டியில் பல இலட்சம் ரூபா பெறுமதியான சங்குகளுடன் மூவர் கைது
+
+*2024-01-16 16:41:00 - [virakesarilk](https://www.virakesari.lk/article/174064)*
+
+மன்னார் கடற்படைக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் பிரகாரம் மன்னார் பொலிஸ் குற்றப்புலனாய்வு பிரிவினருடன் இணைந்து எருக்கலம் பிட்டி பகுதியில் மேற்கொண்ட திடீர் சோதனை நடவடிக்கையின் போது அனுமதி அளிக்கப்பட்ட அளவை விட சிறிய அளவிலான சங்குகளை உடமையில் வைத்திருந்த பெண் உட்பட மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+திங்கட்கிழமை (16) மதியம் கடற்படைக்கு கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைவாக மன்னார் பொலிஸ் குற்றப்புலனாய்வு பிரிவினருடன் இணைந்து மன்னார் மாவட்டத்திற்கு பொறுப்பான பொலிஸ் அத்தியட்சகர் எல்.வை.ஏ.எஸ். சந்திரபாலவின் ஆலோசனைக்கு அமைய பொலிஸ் அத்தியட்சகர் ஹரத்தின் நெறிப்படுத்தலில் மன்னார் குற்றப்புலனாய்வு பிரிவு பொறுப்பதிகாரிதலைமையிலான குழுவினர் மேற்கொண்ட சுற்றிவளைப்பு நடவடிக்கையின் போது எருக்கலம்பிட்டி பகுதியில் உள்ள வீடு ஒன்றில் அனுமதி வழங்கப்பட்ட அளவை விட அதிக அளவில் சங்குகள் களஞ்சியப் படுத்தப்பட்டிருந்த துடன் அனுமதி வழங்கப்பட்ட அளவை விட சிறிய அளவிலான சங்குளை உடமையில் வைத்திருந்த சந்தேகத்தின் பேரில் மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+குறித்த களஞ்சியசாலையில் 20 ஆயிரம் சங்குகளே களஞ்சியப்படுத்த அனுமதி காணப்பட்ட நிலையில் 30   ஆயிரத்திற்கும் மேற்பட்ட   சங்குகளும் வளர்ச்சி நிலை அடையாத சங்குகளும் களஞ்சியப் படுத்தியதன் அடிப்படையில் வீட்டின் உரிமையாளர் உட்பட பணியாளர்கள் இருவர் உள்ளடங்களாக மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+குறித்த களஞ்சியசாலையில் இருந்து 14,143 சங்குகள், 16 கிலோ கிராம் காய்ந்த அட்டைகள்,700 உயிர் அட்டைகளை போலீசார் பறிமுதல் செய்துள்ளதுடன் மேலதிக விசாரணைகளுக்காக சான்று பொருட்களை மன்னார் பொலிஸ் நிலையத்திற்கு கொண்டு சென்றுள்ளனர்.
+
+மேலதிக விசாரணையின் பின்னர் சங்கு,அட்டைகள் உட்பட சந்தேக நபர்கள் மன்னார் நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளமை குறிப்பிடத்தக்கது.
 
 ### Committee appointed to probe escape of inmates from Kandakadu rehab centre
 
@@ -221,6 +391,24 @@ Furthermore the statement highlighted that the use of violence to discipline and
 They had also took into note the UN Working Group on Arbitrary Detention in its statement at the conclusion of its visit to Sri Lanka 2017expressing concern regarding the involvement of military personnel in drug treatment and rehabilitation, the fact that strenuous physical exercise was the core component of compulsory drug treatment, and at the lack of trained professionals to monitor the health of people in detention.
 
 Through the statement, it was also demanded to immediately release persons arrested or sent to compulsory drug rehabilitation for using drugs/having a drug dependence, cease involving the armed forces in drug control and treatment activities as consistent with human rights law, repeal laws that allow compulsory drug rehabilitation, close compulsory treatment centres and release persons presently held at the centres within the purview of the Bureau of Commissioner General for Rehabilitation.
+
+### AI தொழில்நுட்ப வலுவூட்டப்பட நாட்காட்டியை வெளியிட்டுள்ளது மக்கள் வங்கி
+
+*2024-01-16 16:08:00 - [virakesarilk](https://www.virakesari.lk/article/174066)*
+
+இலங்கையில் டிஜிட்டல் வங்கிச் சேவையில் முன்னணியில் திகழும் மக்கள் வங்கி, 2024 புத்தாண்டுக்காக AI தொழில்நுட்பத்தால் இயங்கும் நாட்காட்டியை அறிமுகப்படுத்தியுள்ளது.
+
+தனது வாடிக்கையாளர்களுக்கு அதிநவீன டிஜிட்டல் வங்கிச்சேவை வசதிகளை வழங்குவதில் தொடர்ந்து அர்ப்பணிப்புடன் உழைத்து வரும் மக்கள் வங்கி, பாரம்பரியத்திற்கு அப்பாற்பட்ட புதிய அனுபவத்தை அனைத்து இலங்கையர்களுக்கும் வழங்கும் நோக்கில் இந்த நாட்காட்டியை அறிமுகப்படுத்த நடவடிக்கை எடுத்துள்ளது.
+
+கடல் சூழலைப் பாதுகாப்பது மற்றும் அங்குள்ள உயிரினங்களைப் பாதுகாப்பதன் முக்கியத்துவத்துடன் ‘Our OCEAN, OUR PRIDE’ என்ற தொனிப்பொருளின் கீழ் மக்கள் வங்கி தனது நாட்காட்டியை உருவாக்கியுள்ளது.
+
+நீல திமிங்கலங்கள், ஆமைகள், டொல்பின்கள் மற்றும் பவளப்பாறைகளின் புகைப்படங்கள் இதில் அடங்கும். Google Play Store அல்லது Apple App store மூலம் தற்போதைய பக்கத்தைப் பதிவிறக்கம் செய்து, மக்கள் வங்கியின் நாட்காட்டியை ஸ்கேன் செய்வதன் மூலம், AI தொழில்நுட்பத்தால் இயக்கப்படும் நேரலை வடிவில் தொடர்புடைய காட்சிகளைக் காணலாம். மேலும், இதைப் பற்றிய கூடுதல் தகவல் விபரங்களை அறியவும் உங்களுக்கு வாய்ப்பு கிடைக்கும்.
+
+இலங்கையின் முன்னணி நிதி நிறுவனங்களில் ஒன்றாக, மக்கள் வங்கியானது வங்கிச்சேவை மற்றும் நிலைபேற்றியலை ஒருங்கிணைத்து பல்வேறு வேலைத்திட்டங்களை முன்னெடுத்துள்ளது. அது தொடர்பான விபரங்களை AI நாட்காட்டியை பயன்படுத்துவதன் மூலமாக அறிந்து கொள்ளுமாறு நீங்கள் அனைவரும் அழைக்கப்படுகிறீர்கள்.
+
+இலங்கையின் முன்னணி வங்கிகளில் ஒன்றான மக்கள் வங்கி, ரூபா 3 டிரில்லியனுக்கும்  அதிகமான சொத்துக்களையும், ரூபா 2.5 டிரில்லியனுக்கும் அதிகமான வைப்புத்தொகைகளையும் திரட்டியுள்ளது, நாடு முழுவதும் 747 கிளைகள் மற்றும் சேவை மையங்கள் மற்றும் 290 சுய வங்கிச்சேவைப் பிரிவுகள் கொண்ட மிகப்பெரிய வலையமைப்புடன் 14.7 மில்லியன் வாடிக்கையாளர்களுக்கு தனது சேவைகளை வழங்கி வருகின்றது.
+
+வாடிக்கையாளரின் தேவைகளுக்கு ஏற்றவாறு பரந்த அளவிலான நிதிச் சேவைகள் மற்றும் விசேட வங்கிச்சேவை வசதிகளை வழங்கும் மக்கள் வங்கி, பொறுப்புள்ள அரச வங்கியாக நாட்டின் சமூக மற்றும் பொருளாதார முன்னேற்றத்திற்கு தொடர்ச்சியாக அர்ப்பணிப்புடன் செயற்பட்டு வருகின்றது.
 
 ### ஆடைகளை திருடிய எம்.பி இராஜினாமா
 
@@ -1759,219 +1947,3 @@ Recently, Reliance and Jio shares rallied on the stock market after Mukesh Amban
 கொழும்பு  - முகத்துவாரம்  பொலிஸ் பிரிவிற்குட்பட்ட ரந்திய உயன  வீட்டுத் தொகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் காயமடைந்துள்ளார்.
 
 முச்சக்கரவண்டியில் வருகை தந்த இருவர் துப்பாக்கிப் பிரயோகத்தை மேற்கொண்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-### One person killed in shooting in Colombo
-
-*2024-01-15 21:43:00 - [adaderanalk](https://www.adaderana.lk/news/96426/one-person-killed-in-shooting-in-colombo)*
-
-A shooting incident has been reported near the “Randiya Uyana” housing scheme in Mattakkuliya this evening (15).
-
-A 42-year-old male who was injured in the shooting was admitted to the Colombo National Hospital and had later succumbed to injuries, police said.
-
-Police said that the shooting was carried out by two individuals who had arrived in a three-wheeler at around 8.00 p.m. and that they had fled the scene afterwards.
-
-### BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-*2024-01-15 21:40:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/breaking-red-sea-crisis-heats-up-as-houthi-missile-hits-us-cargo-ship/)*
-
-Colombo (News 1st) – Tensions rose further in the Middle East as a Houthi missile fired from Yemen hit a U.S.-owned cargo ship in the Red Sea late Monday (15th), raising the possibility of more U.S. military strikes on Yemen in response, foreign media reported.
-
-The merchant vessel Gibraltar Eagle, flying the flag of the Marshall Islands, was hit in the Red Sea by an anti-ship ballistic missile fired from Yemen by the Houthis, but has not suffered any significant damage and is continuing on its way, U.S. Central Command said.
-
-A second missile that was fired had malfunctioned and crashed on land in Yemen.
-
-The Houthi attacks came a few days after the U.S. and U.K. struck multiple targets across Houthi-controlled areas of Yemen with over 100 bombs and missiles. The Houthis have vowed revenge against the US, UK and any nation that helps the coalition.
-
-The Houthis have been staging attacks against ships in the Red Sea for more than a month, claiming that they are only targeting ships bound to or from Israel or are connected to Israel in some way.
-
-Most of the world's largest shipping firms have suspended sending vessels through the Red Sea and are now using the much longer route around Africa. This has driven shipping rates up and caused some disruption to global supply chains.
-
-Protests as Activists Accuse Former Health Minister of Pharma Fraud
-
-### Regional rivals China, India eye Sri Lanka Telecom
-
-*2024-01-15 20:24:00 - [economynextcom](https://economynext.com/regional-rivals-china-india-eye-sri-lanka-telecom-147326/)*
-
-ECONOMYNEXT – Investors from China and India has expressed interest in buying Sri Lanka Telecom, market sources said, with the two countries already involved in the country’s ports sector.
-
-Jio Platforms Ltd and a unit of Reliance industries of India and Gortune International Investment Holding Ltd have expressed interest in Sri Lanka Telecom.
-
-Gortune International is an entity made up of private Chinese investors, market sources said.
-
-India’s Airtel already has a mobile unit in Sri Lanka’s telecom sector.
-
-India’s Adani group is building a container terminal in Colombo Port, where China already has terminal.
-
-India’s Adani group is building some renewable plant in the island. Concerns have been raised that some of the renewable plants under negotiations are not coming from competitive tenders.
-
-Sri Lanka blocked a Chinese power sector investments in the North which came fro competitive tendering, reportedly under Indian pressure.
-
-### Economy 2024: More Challenging Than The Two Previous Years
-
-*2024-01-15 20:11:59 - [colombotelegraphcom](https://www.colombotelegraph.com/index.php/economy-2024-more-challenging-than-the-two-previous-years/)*
-
-Sri Lanka has entered 2024 having passed 2022, the year of the severest economic crisis, and 2023, the year of the beginning of economic recovery. Having followed an economic recovery package as agreed with IMF for an extended fund facility or EFF, Sri Lanka should now consolidate its position to retain the hard-earned macroeconomic stability and push the economy to a high growth path needed for delivering permanent prosperity to its people. However, the present stability experienced by Sri Lanka is at a low-level equilibrium as observed by the Presidential economic advisor, Dr. Sharmini Cooray in the 2023 Central Bank Anniversary Oration.
-
-What she meant by a low-level equilibrium was that though high inflation has been brought down to an affordable rate of about 5% and the exchange rate from close to Rs. 400 to about Rs. 320 a dollar, that has been attained at a low level of GDP, that is, $ 77 billion in 2022 compared with $ 85 in 2021. The average income of a Sri Lankan, if distributed equally among them and known as per capita income, has also fallen from $ 3,997 in 2021 to $ 3,474 in 2022. Hence, on average, all Sri Lankans have become poorer.
-
-At this level of per capita income, Sri Lanka is categorised by the World Bank as a lower middle-income country because it is a way above the threshold of $ 1,135 attributable to a low income or a poor country. However, the Sri Lanka Government requested the World Bank in late 2022 to treat it as a poor country for the disbursement of concessional funds from the World Bank group. This request has, as a special case, now been granted by the Bank. Hence, Sri Lanka today is like a person who has on paper academic qualifications equivalent to a university degree, but his knowledge is so poor that he is assigned the work that can be handled by a person with only GCE (Advanced level) qualification.
-
-It is just an instance of voluntarily becoming poorer in front of the rest of the world because it helps the country to get low-cost foreign aid. Thus, the GDP numbers released by the authorities do not reflect the true position of Sri Lankans. This is a stigma. Accordingly, the biggest challenge which Sri Lanka faces in 2024 or in later years is to have it removed and show the world that it is not a poor country anymore. But like the proverbial ‘beggar’s wound’, the incentives are to continue to enjoy this stigma.
-
-Sri Lanka enters the new year with a friendly but significantly serious warning by IMF. According to IMF’s Communications Director Julie Kozack, though the progress of the current EFF program is satisfactory, the country should complete the negotiations with the external commercial creditors and implement the agreements with official creditors for the restructuring of the selected items of the central government external debt. For external debt restructuring purposes, only the commercial borrowings and those borrowed from bilateral sources were included.
-
-The total public sector borrowings as at the end of 2021 amounted to $ 69 billion, made up of $ 45 billion by the central government and $ 24 billion by other public sector entities. Of this, only $ 33 billion or nearly a half was to be restructured. Even if this is successfully restructured, the problem of country’s foreign indebtedness remains unresolved.
-
-It seems that IMF is working with numbers which are pleasing to their ears ignoring the wider external debt problem which the country is faced with. Once Sri Lanka begins to repay the whole debt, it will not be able to maintain the current low-level equilibrium that involves relative stability in the exchange rate, on one side, and the balance in the current account of the balance of payments, on the other.
-
-She has expressed the IMF’s satisfaction about the restructuring of the domestic debt, tagged as domestic debt optimisation by the Sri Lanka Government, in 2023. The reference here is the decision of the Government to pass the entire burden of the domestic debt relief on to the superannuation and pension funds. Among them, the chief burden-bearers are the largest private sector superannuation fund, Employees’ Provident Fund or EPF managed by the Central Bank, and the Employees’ Trust Fund or ETF, managed by a separate board of trustees.
-
-These two funds as well as other provident and pension funds were told by the Government that if they would not agree to the proposed optimisation, they would be subject to an income tax of 30% instead of the 14% they were paying at that time. The tax of 30% was justified because that was the tax paid by other financial institutions and, therefore, it was an equalisation of the tax rates. I discussed in a previous article how this tax comparison would fall on EPF unfairly because EPF and other funds paid taxes on the gross income while financial institutions paid it on the net incom.
-
-Accordingly, the amounts of taxes paid by EPF on its gross income would be 70% in 2020, 88% in 2021, and 490% in 2022 when recalculated on the tax base of net income applicable to financial institutions. The other bond holders were freed from this burden and equity in distributing burden required the Government to treat all of them equally.
-
-I therefore pointed out in the article under reference as follows: “If the pain is passed on to all the bondholders equally, it would have been a fair and equitable treatment. Though there is a fear that it would lead to instability of the financial system, that could be avoided it the pain is transferred to all equally. Then the people would have felt that they have been treated fairly. Such a trust is a must when a country goes through a painful adjustment to come out of a serious economic crisis”. But the plan of passing the burden on the superannuation fund holders was carried out as planned. However, it involved the reduction of the earnings of EPF members by a significant margin by Rs. 274 billion over the period 2024 to 2038.
-
-It is about this treatment of the domestic debt that IMF’s communications head has expressed her satisfaction. Since EPF earnings are likely to be lower than 9% after paying a tax of 14%, it will be a challenge for the Government to ensure a minimum rate of return of 9% to EPF members as promised in the debt optimisation plan. It is in fact an unnecessary waste of the taxpayers’ money if the Treasury meets this shortfall.
-
-Sri Lanka’s avowed goal is to deliver richness to its people by 2048 when the country celebrates the centenary of independence from Britain. This is a challenging task since the country is now going through a low-growth scenario till at least 2027. In 2022, it was a negative growth of 7.8% and in 2023, it is projected to have a negative growth of about 4%. From 2024 to 2026, the growth will be at an annual average rate of about 2% according to the forecasts made by both IMF and the World Bank. According to these forecasts, the country will return to the size of its economy which it had in 2021. That amounts to a GDP of $ 85 billion. It is from this level that the country will have to move up to become a rich country by 2048.
-
-I have discussed the main challenges involved in a previous article in this series. In this article, the main challenge has been identified as follows: “In terms of the World Bank classifications, a country will become a rich country if its gross national income or GNI per head reaches the threshold of $ 12,000 and remain at that level or above thereafter. Over the next 25 years, Sri Lanka’s population also will increase requiring the country to produce more to reach this level. The population of the country has been rising at about 1% per annum in the past. But the future population projections are made based on demographic changes. Accordingly, for Sri Lanka, two population projections were made, one at an average growth of half a percent per annum and the other at an average growth of a little over a fifth of a percent. In the first one, the population will rise to 25.4 million by 2048. In the second one, Sri Lanka’s population will peak in 2035 and begin to fall thereafter.
-
-“By 2048, its population will be 21.9 million, a little more than its population in 2021. In terms of the first projection, to generate a GNI per capita of $ 12,000, the total GNI should rise to $ 305 billion or an increase of 243% over the period. The average growth per annum should be about 12%. In terms of the second projection, the GNI should be $ 263 billion marking an increase of 196% over this period. It marks an annual increase, on average, of 10%. Therefore, the annual economic growth to be maintained from 2028 to 2048 will be between 10 and 12% if Sri Lanka is to become a rich country by that last year of the period. This is again a formidable challenge for future governments”.
-
-This is a formidable challenge. Unless correct policies are adopted from now onward, becoming a rich country by 2048 will simply be a wish only as it had happened on many occasions in the past. President Ranil Wickremesinghe, addressing the nation in June 2023, announced that he would be following the Growth Lab approach developed by the Center for International Development or CID of Harvard’s Kennedy School of Government. Wickremesinghe has a particular love for CID because he himself had been an alumnus of this prestigious institution.
-
-He explained the Growth Lab approach as follows: “Under the Lab approach, we will bring together Government Ministers, government officials, subject matter experts, and key representatives from the private sector to collaboratively engage in detailed discussions over a period of six weeks. The aim is to collaboratively resolve any roadblocks hindering the roll-out of investments and projects by listening carefully to the private sector. During these discussions, comprehensive implementation plans will be developed, and the necessary facilities to support the implementation of these projects will be organised. Government stakeholders involved in the Labs will dedicate their full-time efforts to ensure the successful execution of these projects. As President, I, along with the Cabinet Ministers, will actively participate in this event to demonstrate the government’s commitment to ensuring success of the Lab process”.
-
-The timeline announced was that the lab will be convened in the third quarter of 2023, its report ready by September 2023, and it will be presented to people for their review, suggestions, and approval before the end of 2023. That will be unveiled for implementation as a ‘national transformation plan’. This plan will be based on four important pillars: reforming both the fiscal and financial sectors, driving investments for accelerated economic growth, introducing social protection to the vulnerable and the implementing a strong good governance program, and transforming the state-owned enterprises or SOEs to function as profit centres.
-
-While these are important goals, they do not cover all the required strategies that should be adopted. For instance, they do not include a human resource development plan to upgrade the country’s human capital to a creative capital stock, encouraging the professionals who are leaving the country to contribute to the country’s development through a system of reverse migration, and introducing high technology to the country’s production structure to help it to compete successfully in the global markets.
-
-Even with the limited scope announced, the Government has missed all these milestones in the timeline. Hence, they will have to be redated for 2024. But 2024 will be an election year, and it is unlikely that the energy and the talent pool of the Government could be diverted to this type of long-term planning. But with every passing moment, the country will lose valuable time which cannot be regained. But there is no choice in my view. The Central Bank with the support from IMF has stabilised the economy at a low-level equilibrium. If no proper policies are adopted to upgrade the real economic activities that will deliver richness and prosperity to people, it will be difficult for the country to maintain even this low-level equilibrium.
-
-This is a formidable challenge, and the Government should not take this challenge lightly.
-
-*The writer, a former Deputy Governor of the Central Bank of Sri Lanka, can be reached at waw1949@gmail.com
-
-### Person remanded over sword attack on teenager in Ragama
-
-*2024-01-15 20:11:00 - [adaderanalk](https://www.adaderana.lk/news/96425/person-remanded-over-sword-attack-on-teenager-in-ragama)*
-
-The Welisara Magistrate’s Court has ordered a suspect who was arrested over attacking a teenage boy with a sword and was in hiding for 11 days, to be remanded in custody until January 19.
-
-On January 04, the suspect had attacked a 14-year-old child with a sword over a dispute that had occurred between the two groups of people, the police said.
-
-It is reported that a finger of the child’s left hand had been severed due to the sword attack.
-
-However, the suspect, Dilruk Prashantha Silva, a father-of-three, had surrendered to police after evading arrest for 11 days, following the discharge of the victim from the hospital, the police said.
-
-Nevertheless, on Sunday (15) Welisara Magistrate Thusitha Dhammika Uduwawidana ordered the suspect to be remanded in custody, after considering a request made by Ragama Police stating that the investigations are still underway in search of the sword used in the attack.
-
-Attorney-at-Law Shamindra Soysa, who appeared on behalf of the victimized child before the courts, had previously filed a motion alleging that the police, who had arrested the suspect previously, had released the suspect due to the pressure exerted on the investigating officers by a senior police officer.
-
-The magistrate, who took all facts presented into consideration, ordered the case to be recalled on January 19, 2024 and also ordered the police to report the progress of the investigations related to the case to the courts on the aforementioned date.
-
-### Hill Country’s hideaway getaway: The Lavender House by Reveal the Collection
-
-*2024-01-15 20:08:00 - [islandlk](http://island.lk/hill-countrys-hideaway-getaway-the-lavender-house-by-reveal-the-collection/)*
-
-Amidst one of the most picturesque and oldest tea estates lies Sri Lanka’s hill country’s best-kept secret, The Lavender House by Reveal the Collection. The exquisite English-style bungalow in Pussellawa blends colonial charm with modern comfort and casts an enchanting spell entirely on its own.
-
-The Lavender House, residing in the historically rich Hellbode tea estate, offers standout experiences like a delightful evening high tea in the estate’s gardens and an opportunity to observe and join the tea-plucking ladies. In 1854, Maurice Worms, who made history by introducing tea sampling sourced from China to Ceylon, planted the first tea plant in the Hellbode tea estate, which was then known as the Condegalla estate alongside the famous Rothschild estate.
-
-The Lavender House offers premium accommodation with five beautifully designed rooms: Plum, Lilac, Violet, Magenta and the Lavender Suite. One can book a single room for an intimate getaway or can reserve the entire villa for a group of family or friends seeking a stress-free and detoxifying getaway experience. The bespoke hospitality of Reveal the Collection continues at The Lavender House with personalised butler service and specially curated culinary offerings from expert chefs.
-
-The bungalow boasts a heated infinity pool overlooking misty mountains, a billiard room, a bar with the finest wine and brew and a unique Mirror Wall that contains signatures of the first owners, governors and estate’s senior planters from the colonial days. The living area with chestnut brown, grey and white colour blended aesthetic interiors and furniture features its lavish style.
-
-The journey at The Lavender House extends beyond its walls. The lush landscapes of Pussellawa offer a playground for adventurers and a haven for those seeking tranquillity. Cascading down Pussellawa, the Gerandi Ella Waterfall remains a picturesque masterpiece—an exclusive secret shared only with the fortunate few. As part of the guest travel experience, The Lavender House orchestrates an exquisite breakfast picnic at the top of this waterfall upon request, tantalising your taste buds while treating your eyes to a view that feels almost surreal.
-
-New Anthoney’s Farms sets industry benchmark as the first poultry producer in Sri Lanka to obtain FSSC 22000 certification
-
-New Year, New VAT: Can Sri Lanka’s poor cope with the increase?
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### New Anthoney’s Farms sets industry benchmark as the first poultry producer in Sri Lanka to obtain FSSC 22000 certification
-
-*2024-01-15 20:07:00 - [islandlk](http://island.lk/new-anthoneys-farms-sets-industry-benchmark-as-the-first-poultry-producer-in-sri-lanka-to-obtain-fssc-22000-certification/)*
-
-Marking yet another milestone in its unwavering commitment towards providing trusted, hygienic, fresh, and quality chicken famous for its ‘green’ label, New Anthoney’s Farms became the first poultry producer in Sri Lanka to obtain the prestigious internationally recognized FSSC 22000 certification.
-
-This achievement reflects well on how New Anthoney’s Farms strives to not just uphold but go beyond the norm to ensure that consumers enjoy the safest chicken available out there in the market.
-
-By adopting FSSC 22000 certification, the company sets a new industry benchmark and marks a significant stride in ensuring the highest standards of quality, safety, and sustainability in the poultry industry, and now invites other poultry producers to follow suit to enhance quality and build trust and resilience in the entire supply chain.
-
-Related Topics:first poultry producer in Sri LankaFSSC 22000 certificationNew Anthoney’s Farms
-
-Hill Country’s hideaway getaway: The Lavender House by Reveal the Collection
-
-New Anthoney’s Farms pioneers frozen crispy chicken in Sri Lanka
-
-New meat supermarket chain in Sri Lanka amidst feed shortage
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### HNB FINANCE appoints Rajive Dissanayake as chairman
-
-*2024-01-15 20:06:00 - [islandlk](http://island.lk/hnb-finance-appoints-rajive-dissanayake-as-chairman/)*
-
-HNB FINANCE PLC announces the appointment of Rajive Dissanayake as the new Chairman of the company, effective from January 8, 2024. Dissanayake succeeds eminent banker Dilshan Rodrigo, former Chairman and HNB Executive Director/COO, who served the board since 2021.
-
-In his capacity as Chairman, Dissanayake is poised to steer HNB FINANCE through a dynamic landscape, aligning the company with evolving market trends and ensuring sustained growth. His proven track record and expertise are expected to fortify HNB FINANCE’S position in the financial services sector, enhancing its capabilities to meet the diverse needs of its clientele.
-
-As a Non-Independent, Non-Executive Director of the Board of Directors of HNB FINANCE since 2017, Dissanayake has previously chaired the Board Audit Committee and the Board Integrated Risk Management Committee. Currently serving as the Chairman of the Board Strategic and Investment Review Committee, he brings a wealth of experience to the helm.
-
-Dissanayake, who boasts over two decades of experience in banking and capital markets, currently holds the position of Deputy General Manager SME & Micro Finance at Hatton National Bank PLC,. He has previously functioned in the capacities of Chief Financial Officer and Chief Strategy Officer at Hatton National Bank PLC, being an integral part of the corporate management team for over eight years.
-
-In addition to his role at HNB FINANCE, Dissanayake serves as a Director of Acuity Partners (Pvt.) Ltd, Lanka Venture PLC and Lanka Energy Fund PLC. A distinguished professional, he is a CFA Charter holder, Fellow Member of the Chartered Institute of Management Accountants, and a Chartered Global Management Accountant. Dissanayake also holds a Bachelor’s Degree in Business Administration from the University of Colombo.
-
-IMF urges Sri Lanka to make urgent preparations for property taxation
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### இஸ்ரேலில் பாலஸ்தீனியர்கள் காரால் மோதி தாக்குதல் - ஒருவர் பலி பலர் காயம்
-
-*2024-01-15 20:06:00 - [virakesarilk](https://www.virakesari.lk/article/174014)*
-
-இஸ்ரேலில் பாலஸ்தீனியர்கள் இருவர் காரால் மீது மோதி மேற்கொண்ட தாக்குதலில் பெண்ணொருவர் கொல்லப்பட்டுள்ளார் 12 பேர் காயமடைந்துள்ளனர்.
-
-பயங்கரவாத தாக்குதல் இடம்பெற்றுள்ளது இரண்டு சந்தேகநபர்கள் கைதுசெய்யப்பட்டுள்ளனர் என இஸ்ரேலிய பாதுகாப்பு படையினர் தெரிவித்துள்ளனர்.
-
-இஸ்ரேலினால் ஆக்கிரமிக்கப்பட்ட ஹெப்ரோனை சேர்ந்த ஒரே குடும்பத்தை சேர்ந்த இருவரே இந்த தாக்குதலை மேற்கொண்டுள்ளனர் இருவரும் சட்டவிரோதமாக இஸ்ரேலிற்குள் நுழைந்துள்ளனர்.
-
-அவர்கள் ஒரேநேரத்தில் செயற்பட்டு இரண்டு கார்களை கடத்தி இந்த தாக்குதலை மேற்கொண்டுள்ளனர் என இஸ்ரேலிய அதிகாரிகள் தெரிவித்துள்ளனர்
-
-### Beyond Plantations: Kahawatte’s holistic approach to sustainable prosperity
-
-*2024-01-15 19:43:00 - [islandlk](http://island.lk/beyond-plantations-kahawattes-holistic-approach-to-sustainable-prosperity/)*
-
-Our latest Regional Plantation Company (RPC) Innovation Update highlights one of Sri Lanka’s trailblazers in sustainable, ethical and community-centric plantation management – Kahawatte Plantations PLC (KWPL) under the MJF Group.
-
-KWPL was established in alignment with the MJF Group’s vision that ‘Business is a Matter of Human Service’, As such their pioneering initiatives not only boost agricultural excellence but also significantly uplift the living standards of their plantation communities and beyond.
-
-KWPL has been at the forefront of a broader movement aimed at fostering innovation and standardizing plantation practices to harmonize economic goals with profound social responsibility. The company has been an advocate for a progressive model that integrates comprehensive welfare programs, environmental stewardship, and community empowerment into its corporate ethos, thus supporting the progressive evolution of Sri Lanka’s plantation industry.
-
-With a history steeped in the rich tradition of Ceylon tea, rubber, cinnamon and an array of diverse crops, KWPL’s journey is marked by its pursuit of excellence in every leaf and life it touches.
-
-The company’s strategic approach goes beyond cultivating crops; it cultivates a sustainable future for all its stakeholders. KWPL’s people-centric strategy is a proactive step towards the diverse ways in which an industry leader can contribute to both the sector and the personnel at its frontlines.
-
-KWPL’s estates span12,400 hectares across the Nawalapitiya and Sabaragamuwa plantation districts. Within each, KWPL is engaged in cultivating tea, cinnamon, rubber, and timber. In the last three years, the company has further expanded its portfolio by venturing into coffee, coconut, and pepper cultivation as part of a strategic diversification that will further strengthen the company’s resilience to increasingly volatile global market conditions, and enhance its value addition potential.
-
-From its inception, Kahawatte has been driven by the philosophy of its parent body, propelling it to take the lead in various community welfare programs across the sixteen estates under its care. What distinguishes these initiatives is their profound impact, as the benefits transcend the plantation population, positively influencing neighbouring communities.
-
-Moreover, the company is committed to a significant investment of Rs. 120 million in the fiscal year 2023/2024 towards development initiatives. This substantial investment will encompass the enhancement of 20 Childhood Development Centres (CDCs), restroom facilities, re-roofing projects, and healthcare centres. The primary objective is to ensure the provision of quality care not only for the employees but also for individuals in the surrounding communities.
-
-Pan Asia ‘Ezy Banking’ spaces in branches to enhance customer digital experience
-
-Malik and Dilhan Fernando appointed Co-Chairs of MJF Holdings Ltd.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.

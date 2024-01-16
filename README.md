@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 18:30:29**
+As of **2024-01-16 19:27:51**
 
 ## Newspaper Stats
 
-* colombotelegraphcom: 20
+* colombotelegraphcom: 21
 
 * bbccomsinhala: 25
 
@@ -16,19 +16,265 @@ As of **2024-01-16 18:30:29**
 
 * islandlk: 40
 
-* adaderanalk: 48
+* adaderanalk: 59
 
-* tamilmirrorlk: 54
+* tamilmirrorlk: 62
 
 * dailyftlk: 97
 
-* adalk: 106
+* adalk: 109
 
 * dbsjeyarajcom: 112
 
-* **Total**: **606**
+* **Total**: **629**
 
 ## Latest Articles (100)
+
+### சந்தைக்கு போகாதவர்களுக்கு மட்டும்
+
+*2024-01-16 18:17:13 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/சந்தைக்கு-போகாதவர்களுக்கு-மட்டும்/175-331608)*
+
+ஹெக்டர் கொப்பேகடுவ விவசாய ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம் தரவு முகாமைத்துவ பிரிவு(அரிசி மற்றும் துணை உணவுப் பயிர்களின் மொத்த விற்பனை விலை) தொடர்பிலான அட்டவனையை, அரசாங்க தகவல் திணைக்களத்தின் ஊடாக அனுப்பிவைத்துள்ளது
+
+### New QR code system for three-wheelers
+
+*2024-01-16 18:02:00 - [adaderanalk](https://www.adaderana.lk/news/96453/new-qr-code-system-for-three-wheelers)*
+
+Minister of Labour and Foreign Employment Manusha Nanayakkara says measures will be taken to introduce a new QR code within a very short period of time, in consideration of the proposal to introduce a QR code in relation to the registration and preparation of a data system for all three-wheeler drivers.
+
+Nanayakkara expressed these views while attending the event for the establishment of the Interim Sectoral Steering Committee today (16) as the first stage of the establishment of professional councils for three-wheeler drivers.
+
+Furthermore, it has also been taken into discussion the preparation of a system enabling the three-wheeler drivers to obtain hired journeys through the internet by means of the professional organization established for them.
+
+This Steering Committee has been formed under the “Garu Saru” program which was commenced in order to provide professional dignity and pride to all those who are employed in the informal services sector in Sri Lanka.
+
+This committee was formed and established under the chairmanship of the Minister of Labor and Foreign Employment Manusha Nanayakkara.
+
+The committee reportedly includes representatives of all three-wheeler drivers’ associations in Sri Lanka.
+
+Meanwhile, a resolution consisting of the matters agreed upon in the previous discussions regarding the development of the dignity of their profession was also handed over to the minister during the event.
+
+### Health sector strike to continue as talks with govt fail
+
+*2024-01-16 17:27:00 - [adaderanalk](https://www.adaderana.lk/news/96452/health-sector-strike-to-continue-as-talks-with-govt-fail)*
+
+The collective of health sector trade unions have decided to continue with their strike action as discussions with the government were unsuccessful.
+
+Representatives of health sector trade unions, engaged in a token strike since this morning (16 Jan.), held a discussion with Acting Finance Minister Shehan Semasinghe and Health Minister Dr. Ramesh Pathirana regarding their demands.
+
+Speaking to reporters after the meeting, the trade union representatives said that the token strike will continue until 06:30 a.m. tomorrow (17 Jan.), as talks had failed.
+
+72 health sector trade unions, led by the Health Service Trade Unions, launched a 24-hour token strike this morning in protest of the government’s decision to increase the  Disturbance, Availability and Transport (DAT) allowance for doctors by Rs. 35,000.
+
+The strike action represents a wide range of health sector professionals, including radiology and laboratory technicians, pharmacists and drug compounders, midwives, Public Health Inspectors, and entomology officers.
+
+Speaking with regards to the strike on Monday (15 Jan.), President of the Paramedical Services Front (PMSF) Upul Rohana stressed that because Minsiter Pathirana is yet to provide any discussion regarding their demands, around 100,000 health workers including all paramedical services, hospital secretaries, administrative officers as well as health administrative assistants, minor staff and 75 other trade unions of the health staff will join together with this island-wide strike.
+
+“This action will completely disrupt the hospital service. The government should understand that it is not possible to maintain medical services only with the doctors”, Upul Rohana said.
+
+### Opportune moment for investing in Sri Lanka’s renewable energy sector – President
+
+*2024-01-16 17:17:00 - [adaderanalk](https://www.adaderana.lk/news/96451/opportune-moment-for-investing-in-sri-lankas-renewable-energy-sector-president)*
+
+President Ranil Wickremesinghe highlighted the present as an opportune moment for investing in Sri Lanka’s renewable energy sector, expressing confidence in its potential to yield substantial benefits for both stakeholders and consumers in the coming decades.
+
+The President also underscored that investors venturing into this sector can anticipate a comprehensive and unwavering policy framework in the realm of renewable energy.
+
+President Ranil Wickremesinghe made these remarks during his address at the “Green Technology Forum” convened on January 15 in Davos, Switzerland. The event was coordinated by the Swiss-Asian Chamber of Commerce.
+
+Speaking on the theme of “Paving the way to an energy secure Sri Lanka,” President Ranil Wickremesinghe highlighted the substantial potential of Sri Lanka’s renewable energy sector. He further outlined the government’s initiatives over the past two years to establish an investment-friendly environment in the renewable energy sector.
+
+Emphasizing Sri Lanka’s dedication to addressing climate change, President Ranil Wickremesinghe elaborated on various measures, including the “Tropical Belt Initiative,” presented at the COP28 conference in Dubai.
+
+Highlighting Sri Lanka’s commitment to sustainable and green development, the President emphasized the nation’s ambitious plans and determination to achieve net-zero emissions by 2050.
+
+President Ranil Wickremesinghe underscored the pivotal role of the rapid renewable energy plan, describing it as a key component of Sri Lanka’s comprehensive efforts towards sustainable development and a crucial step in ensuring energy security.
+
+Following is the full speech delivered by President Ranil Wickremesinghe at the Green Technology Forum in Davos, Switzerland.
+
+I thank the Swiss Asian Chamber of Commerce and their partners in organising this event for the invitation to speak today.
+
+There is an urgent need for acceleration of global actions towards climate change mitigation. There have been multiple global forums which have resulted in numerous commitments towards this end. However, actions have fallen drastically short of commitments.
+
+The fallout of this failure in global leadership is borne largely by developing nations of the global south. When periods of drought extend beyond normal, undermining agricultural production, our food security is in jeopardy. When hydropower gets disrupted due to delayed monsoons, our energy security is in jeopardy. Droughts are often followed by a deluge, leading to flash floods and landslides, disrupting lives and livelihoods of under-privileged communities in particular.
+
+It is very evident that there is a disproportionate impact of the adverse outcomes of climate change on developing countries. This brings to light the issue of climate justice and the need for a stronger contribution from the advanced economies towards adaptation and mitigation efforts in the global south.
+
+That being said, Sri Lanka will forge ahead with its efforts towards climate mitigation. We have also recently launched the Tropical Belt Initiative at the COP28 in Dubai – this creates a framework for catalysing private investment in forests, energy, oceans, mangroves, in the countries of the tropical belt.
+
+Today I want to focus on one key aspect of such efforts, which is our drive towards renewable energy.
+
+In fact, Sri Lanka is a country with a long history of renewable energy. Since independence Sri Lanka developed an extensive network of hydropower, commissioning its first major hydro-power plant in 1950. Hydropower was able to provide for most of the country’s energy needs until the 1990s. Even today, hydropower accounts for around 40% of Sri Lanka’s installed electricity generation capacity.
+
+With hydropower largely exploited to the optimal levels, there has been an increased effort to include wind and solar power generation to the national grid. The government is now accelerating this process to ensure that by 2030, 70% of Sri Lanka’s electricity needs are fulfilled by renewable energy sources.
+
+To reach this target requires a large investment of up to USD 11.5 billion. However, until recently the framework for private investment in the renewable energy sector has not been very conducive. Over the last 2 years several measures have been taken by the government to correct these shortcomings and ensure an optimal investment climate for renewable energy is in place.
+
+The first step was to ensure cost reflective pricing. Between 2014 and 2022 electricity tariffs had not been adjusted. This resulted in major cash flow problems for the Ceylon Electricity Board that sometimes led to payment delays to power suppliers. However, from August 2022 we have shifted to a cost-reflective pricing structure. Accordingly, electricity tariffs are revised every quarter to reflect costs on a forward looking basis.
+
+The CEB, which has long been a loss making entity, returned a profit in 2023, enabling it to settle significant levels of past debt along with some balance sheet structuring. The company now has a strong balance sheet, a far stronger cash flow position, and a pricing structure that ensures liquidity.
+
+Rigidities in the feeding tariff has also been a concern of past investors. However, this has also been addressed with greater flexibility being introduced to the tariff options, including choices between fixed tariff and variable tariff formulas.
+
+In addition to internal reform, we are also putting in place the framework to attract green financing. Sri Lanka has developed the Road Map for Sustainable Finance, Green Finance Taxonomy, the SDG Investor Map and the Green Bond Framework, that is currently under formulation, creates the enabling environment for Sri Lanka to have a robust engagement in climate finance. The availability of sustainable finance will be an added boost for renewable energy investments in Sri Lanka.
+
+There have also been legislative barriers to large scale private investment in the renewable energy sector. Those legal hurdles have also been cleared through necessary amendments to the Electricity Act introduced in 2022.
+
+Thirdly, the government is in the final stages of implementing unbundling of the Ceylon Electricity Board. This will result in greater financial and operational autonomy for the distribution, generation, and transmission arms of the CEB, resulting in competition and transparency. Whilst private participation in generation is already available, the unbundling process will open up opportunities for private participation in distribution as well.
+
+This major reform, implemented with the support of the Asian Development Bank, will ensure the CEB operates at the frontier of efficiency, delivering the best outcome for consumers and the most competitive and efficient producers of electricity. The draft legislation for this reform was already been published last month.
+
+The ambition of 70% electricity from renewals also requires improved system efficiency and upgrades to integrate more renewable energy, particularly from 2026. Investments will be required in storage, transmission, and distribution, along with the ongoing private investments in generation. Plans for this integration up to 2030 are in place and have begun implementation.
+
+Following the major reforms implemented in the energy sector in the last 2 years, there has been renewed interest in this sector. There are already large scale solar and wind power projects that have commenced implementation. A major Indian player has commenced implementation of a 350MW wind power plant that is expected to be commissioned in 2025. The same player is considering a further USD 750 million investment in wind power.
+
+Wind power is a major opportunity for Sri Lanka. A recent World Bank report indicates that off-shore wind power in particular has the potential to generate power far greater than Sri Lanka’s requirements. Considering this, Sri Lanka and India are in advanced stages of talks regarding grid inter-connection to enable Sri Lanka to export surplus electricity particularly to the fast growing industrial belt in the Southern part of India. There is also tremendous potential for the development of green hydrogen in Sri Lanka.
+
+Sri Lanka has ambitious plans to fulfil its sustainable, green development agenda. By 2050 the country has committed to achieving net zero. The accelerated renewable energy plan is a key component of this overall effort and is also an essential step on the path towards energy security. Renewable energy will also drive down costs of generation since at present Sri Lanka is compelled to rely on high cost heavy fuels during the dry season. Sri Lanka is in the process of establishing an international climate university, which will continue to unlock opportunities in green energy.
+
+It is clear that Sri Lanka’s renewable energy policy direction is underpinned by multiple motivations and drivers. Therefore investors can expect a high degree of policy continuity in this sector going forward as well. This is the best time to invest in Sri Lanka’s renewable energy journey, and I have no doubt such investments will generate significant value for shareholders and Sri Lanka’s consumers over the next several decades.
+
+### Prices of fertilizers used for tea cultivation slashed
+
+*2024-01-16 17:11:00 - [adaderanalk](https://www.adaderana.lk/news/96450/prices-of-fertilizers-used-for-tea-cultivation-slashed-)*
+
+The prices of three types of fertilizers used for the cultivation of tea have been reduced by Rs. 2,000, Agriculture and Plantation Industries Minister Mahinda Amaraweera announced on Tuesday (16 Jan.).
+
+Accordingly, the prices of T-750, T-709 and T-200 fertilizers have been reduced by Rs. 2,000.
+
+According to the Minister, directives have been issued to Dr. Jagath Perera, Chairman of the state-owned Ceylon Fertilizer Company and the Colombo Commercial Fertilizer Company to reduce the prices of T-750 and T-709 fertilizers to Rs. 7,735, and that of the T-200 fertilizer to be reduced to Rs. 5,500.
+
+He explained that while the aforementioned price reductions will be applicable to both small and medium-scale tea cultivators, the T-750, T-709 and T-200 fertilizers will be sold at the price of Rs. 9,735 to all large-scale tea cultivation companies.
+
+Minister Amaraweera further explained that the prices of fertilizers used for the cultivation of tea are likely to reduce by 50%, stating that the current prices of the aforementioned fertilizers is Rs. 13,000.
+
+He explained that the measure was taken in a bid to mandate the use of fertilizers for the cultivation of tea, so as to better the country’s tea industry.
+
+A meeting was held at the premises of the Plantation Industries Ministry this afternoon, with the participation of representatives from tea-growing associations in all eight tea-growing districts and other relevant officials from the Ministry.
+
+### Sri Lanka to speed up negotiations to use sea area beyond exclusive economic zone
+
+*2024-01-16 17:00:00 - [adaderanalk](https://www.adaderana.lk/news/96449/sri-lanka-to-speed-up-negotiations-to-use-sea-area-beyond-exclusive-economic-zone-)*
+
+The Sectoral Oversight Committee on International Relations has drawn its attention to the affairs related to the National Oceanic Affairs Committee Secretariat, an agency affiliated to the Ministry of Foreign Affairs.
+
+The Committee to which met on 09 January 2024 chaired by Member of Parliament Akila Ellawala discussed the role of the National Oceanic Affairs Committee Secretariat, challenges faced and future plans, the Parliamentary Communications Department said in a statement.
+
+The current Chairman of the secretariat, Dr. N.P. Vijayananda, addressing the meeting, stated that there is a possibility of using a sea area of 250 nautical miles beyond the exclusive economic zone, which is 200 nautical miles from the land of the country, for economic activities in the country.
+
+According to the United Nations Charter on the Law of the Sea, the agreement of the regional countries is necessary, so the Chairman pointed out that negotiations with other regional countries, including India, are ongoing. It was also discussed that this ocean region is very important for Sri Lanka due to fuel exploration and biodiversity, the statement mentioned.
+
+Accordingly, the Committee Chair pointed out the need to speed up these activities in coordination with the Ministry of Defense and said that he expects to make a request to the minister in charge of the subject.
+
+Committee members and Members of Parliament Madhura Withanage, S.M.M. Muszhaaraff, officials representing the Ministry of Foreign Affairs were present at the Committee meeting held, according to the Parliamentary Communications Department.
+
+### பச்சை இலை கஞ்சியை கொடுத்து கைவரிசை
+
+*2024-01-16 16:56:18 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பச்சை-இலை-கஞ்சியை-கொடுத்து-கைவரிசை/175-331607)*
+
+வைத்தியசாலையின் இருதய சிகிச்சைப் பிரிவுக்கு முன்பாக காத்திருந்த பெண்ணொருவருக்கு, பச்சை இலை கஞ்சியை கொடுத்த மற்றுமொரு பெண், காத்திருந்த பெண் மயங்கிய​தை அடுத்து, அவரிடமிருந்த தங்க நகைகளை அபகரித்துக்கொண்டு ஓடிவிட்டார் என  கண்டி தலைமையக பொலிஸார் தெரிவிக்கின்றனர்.
+
+கண்டி வைத்தியசாலையின் இருதய சிகிச்சைப் பிரிவுக்கு முன்பாகவே இந்த சம்பவம் இடம்பெற்றுள்ளது. இனந்தெரியாத அப்பெண் போதைப்பொருள் கலந்த பச்சை இலை கஞ்சி​யை கொடுத்துள்ளார். அதனை வாங்கி குடித்த  அப்பெண்  மயக்கமடைந்ததை அடுத்தே தனது கைவரிசையை காண்பித்துள்ளார்.
+
+சந்தேக நபரை கைது செய்வதற்கான விசாரணைகளை கண்டி தலைமையக பொலிஸாரின் குற்றப்புலனாய்வு பிரிவினர் மேற்கொண்டு வருகின்றனர்.
+
+கண்டி தேசிய வைத்தியசாலையின் இருதய சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வரும் தனது கணவரைப் பார்ப்பதற்காக வந்த பெண், நோயாளிகளைப் பார்க்கும் நேரம் வரும் வரை அருகில் இருந்த பெஞ்சில் அமர்ந்திருந்ததாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இதற்கிடையில் அங்கு அமர்ந்திருந்த மற்றொரு பெண், அப் பெண்ணுடன் பேசி நட்பாகி கொண்டுள்ளார். அதன்பின்னர் தான் வாங்கி வந்திருந்த   பச்சை இலை கஞ்சியை குடிக்க கொடுத்துள்ளார்.  கஞ்சியை குடித்ததன் பின்னர் அப்பெண் மயங்கிவிட்டார். சுயநினைவு திரும்பியபோ​தே தான் அணிந்திருந்த, ​​தங்க நகைகள் மற்றும் பணம் காணாமல் போனதை கவனித்து பொலிஸில் முறைப்பாடு செய்துள்ளார்.
+
+### Committee appointed to probe escape of inmates from Kandakadu rehab centre
+
+*2024-01-16 16:36:00 - [adaderanalk](https://www.adaderana.lk/news/96448/committee-appointed-to-probe-escape-of-inmates-from-kandakadu-rehab-centre)*
+
+A five-member committee has been appointed to investigate into the recent incident of several inmates escaping the Kandakadu Treatment and Rehabilitation Centre following a clash that occurred among the detainees.
+
+The committee was appointed by Minister of Justice Wijeyadasa Rajapakshe.
+
+Accordingly, the relevant committee, headed by the Supreme Court Judge Hector Yapa, has been instructed to launch an investigation regarding the matter and provide necessary recommendations within a period of 03 weeks.
+
+Additional Secretary (Administration) Ministry of Justice, Prison Affairs and Constitutional Reforms
+
+Senior Assistant Secretary (Legal), Ministry of Justice, Prison Affairs and Constitutional Reforms
+
+Meanwhile, the Office of the Commissioner General of Rehabilitation has also decided to carry out a special investigation into the individuals who are allegedly hindering the process of rehabilitation.
+
+The relevant officers mentioned that there is an ‘invisible arm’ acting behind certain clashes that occur among the detainees of Kandakadu Treatment and Rehabilitation Centre.
+
+The large-scale drug traffickers are reportedly experiencing a shortage of heroin drugs within the coutry and also lack individuals for the transportation of drugs, as a result of the special police operations carried out across the island in order to crack down the drug networks.
+
+The drug addicts who are arrested during drug raids are usually referred to the rehabilitation centres including Kandakadu and Senapura treatment and rehabilitation centres.
+
+At certain instances, it has been observed that the detainees of the rehabilitation centres stage demonstrations over various demands and on some occasions, inmates have escaped from the rehabilitation centres during such instances.
+
+During the preliminary investigations carried out regarding the matter, it has been revealed that the large-scale drug traffickers are manipulating the inmates to create such tense situations within the rehabilitation centres.
+
+Against this backdrop, the Office of the Commissioner General of Rehabilitation has taken measures to initiate an extended investigation into all the inmates detained at the rehabilitation centres island-wide.
+
+The office also highlighted that once the relevant investigations are completed, legal action will be taken against the inmates found responsible for such incidents, after removing them from the relevant rehabilitation centres.
+
+Meanwhile, over 30 international human rights organizations including the Amnesty International, Human Rights Watch and the International Commission of Jurists recently expressed their deep concern regarding the “drastic intensification” of anti-drug operations in Sri Lanka leading to significant human rights violations.
+
+Issuing a joint statement, the 33 international organizations demand the Sri Lankan government to stop the ‘abusive anti-drug operation’ and release the arbitrarily detained individuals.
+
+Furthermore the statement highlighted that the use of violence to discipline and punish has been reported in at least two compulsory drug rehabilitation centres which are within the purview of the Bureau of the Commissioner General for Rehabilitation and are operated by the military, which is in itself a ‘violation of international standards’.
+
+They had also took into note the UN Working Group on Arbitrary Detention in its statement at the conclusion of its visit to Sri Lanka 2017expressing concern regarding the involvement of military personnel in drug treatment and rehabilitation, the fact that strenuous physical exercise was the core component of compulsory drug treatment, and at the lack of trained professionals to monitor the health of people in detention.
+
+Through the statement, it was also demanded to immediately release persons arrested or sent to compulsory drug rehabilitation for using drugs/having a drug dependence, cease involving the armed forces in drug control and treatment activities as consistent with human rights law, repeal laws that allow compulsory drug rehabilitation, close compulsory treatment centres and release persons presently held at the centres within the purview of the Bureau of Commissioner General for Rehabilitation.
+
+### ஆடைகளை திருடிய எம்.பி இராஜினாமா
+
+*2024-01-16 15:55:11 - [tamilmirrorlk](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆடைகளை-திருடிய-எம்-பி-இராஜினாமா/50-331605)*
+
+வர்த்தக நோக்கத்திற்காக ஆடைகளை திருடியதாக குற்றம் சாட்டப்பட்ட நியூசிலாந்து பாராளுமன்ற உறுப்பினர் பதவி விலக முடிவு செய்துள்ளார்.
+
+நியூசிலாந்தின் மத்திய-இடது பசுமைக் கட்சியின் உறுப்பினர் கோல்ரீஸ் கஹ்ராமன், ஆடைகளைத் திருடியதாகக் குற்றம் சாட்டப்பட்டு இராஜினாமா செய்தார்.
+
+43 வயதான அவர் ஒரு சமூக ஆர்வலர் மற்றும் மனித உரிமைகளுக்காக வாதிடுபவராவார். ஐக்கிய நாடுகள் சபையில் மனித உரிமைகளுக்காக வாதிட்ட வழக்கறிஞராகவும் பணியாற்றியுள்ளார்.
+
+ஓக்லாந்தில் உள்ள ஒரு ஆடம்பர சில்லறை விற்பனையாளரிடமிருந்து ஆடைகள் திருடப்பட்டது தொடர்பான பொலிஸாரின் விசாரணைக்குப் பிறகு, பதவி விலக கோல்ரிஸின் முடிவு செய்துள்ளார்.
+
+இது தொடர்பாக செய்தியாளர்களிடம் பேசிய அவர், தான் கடும் மன உளைச்சலுக்கு ஆளானதாகவும், தவறு என்று தெரிந்தும், அந்த மன அழுத்த சூழ்நிலையை போக்கவே அவ்வாறு செய்ததாகவும் விளக்கமளித்துள்ளார்.
+
+### பணம் அனுப்பி , ஆளுநரிடம் கோரிக்கை
+
+*2024-01-16 15:42:50 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பணம்-அனுப்பி-ஆளுநரிடம்-கோரிக்கை/175-331601)*
+
+தமது வீதியை விரைந்து புனரமைத்து தருமாறு தமது ஒரு நாள் வேதனத்தை  வடமாகாண ஆளுநருக்கு மீசாலை மக்கள் அனுப்பி வைத்துள்ளனர்.
+
+யாழ்ப்பாணம் - மீசாலை வடக்கு,  இராமாவில் பகுதியில் உள்ள தட்டாங்குளம் பிள்ளையார் வீதியை புனரமைத்து தருமாறு கோரி 96 பேர் தமது ஒரு நாள் ஊதியமான 1,000 ரூபாய் வீதம் 96,000  ரூபாய் காசோலையும் கடிதம் ஒன்றினையும் வடமாகாண ஆளுநர் பி.எம்.எஸ்.சார்ள்ஸ்க்கு அனுப்பி வைத்துள்ளனர்.
+
+கடித்தில் குறிப்பிடப்பட்டுள்ளதாவது,  “தென்மராட்சி பிரதேச செயலக பிரிவின் ஜே.320 மற்றும் ஜே.321 ஆகிய கிராம சேவகர் பிரிவுக்கு நடுவே அமைந்துள்ள தட்டாங்குளம் பிள்ளையார் வீதியை மேற்குறித்த இரு கிராம சேவகர் பிரிவில் உள்ள மக்கள் பயன்படுத்தி வருகின்றனர்.
+
+இரு கிராம சேவகர் பிரிவு மக்கள் தவிர்த்த அயல் கிராமங்களில் உள்ள சுமார் 300 க்கும் மேற்பட்ட மாணவர்கள் வீரசிங்கம் மத்திய கல்லூரி, வீரசிங்கம் ஆரம்ப பாடசாலை ஆகியவற்றி செல்வதற்கும் இந்த வீதியினையே பயன்படுத்தி வருகின்றனர்.
+
+பயணிக்கவே முடியாத நிலையில் பொரிய குழிகளுடன் இவ்வீதி காணப்படுகிறது. இவ்வாறான பாரிய குழிகளால் மழை காலங்களில் அதிக விபத்துக்களும் நடைபெறுகின்றன.
+
+கடந்த 18 வருடங்களாக புணரமைப்பு செய்யப்படாமல் காணப்படும் இவ்வீதியினை புணரமைத்து தருமாறு சகல தரப்பினர்களிடம் பல கோரிக்கைகள் முன்வைத்துள்ளோம்.
+
+இருப்பினும் இது வரை எந்தவிதமான சிறு புணரமைப்புக் கூட செய்யப்படாமல் பயன்படுத்தவே முடியாத வீதியாக எமது வீதி மாற்றமடைந்து வருகின்றது.
+
+நாளுக்கு நாள் மிக மோசமான வீதியாக மாறி வரும் இவ்வீதியை உடனடியாக புணரமைத்து தர வேண்டும் என்று கோரிக்கையினை முன்வைக்கின்றோம்.
+
+இவ்வீதி புணரமைப்பிற்காக எமது பகுதியில் வசிக்கும் ஒவ்வொருவரிடமும் இருந்து அவர்களின் ஒரு நாள் வேதனமான (ஆயிரம் ரூபாவை) சேகரித்து வங்கியூடாக சுமார் 96 ஆயிரம் ரூபாவினை காசோலையாக அனுப்பி வைத்துள்ளோம்.
+
+அப்பணத்தினையும் புணரமைப்பு பணிகளுக்கான செலவு நிதியில் சேர்த்துக் கொள்வதோடு, வீதியின் புணரமைப்பு பணிகளை துரித கதியில் முன்னெடுக்குமாறு மீண்டும் கோரிக்கை முன்வைக்கின்றோம்.” என்றுள்ளது.
+
+அதேவேளை, குறித்த கோரிக்கை கடிதத்தின் பிரதிகள், ஜனாதிபதி ரணில் விக்ரமசிங்க, பிரதமர் தினேஸ் குணவர்த்தன, யாழ்.மாவட்ட செயலர், சாவகச்சேரி பிரதேச செயலர், கொடிகாமம் பிரதேச சபை செயலாளர் உள்ளிட்டோருக்க அனுப்பி வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+### “ஸ்டென்ட்” குழாய்களுக்கு பற்றாக்குறை
+
+*2024-01-16 15:42:31 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஸ்டென்ட்-குழாய்களுக்கு-பற்றாக்குறை/175-331600)*
+
+கொழும்பு தேசிய வைத்தியசாலையில் இருதய நோயாளர்களுக்கான வழங்கப்படும் “ஸ்டென்ட்” குழாய்களுக்கு பற்றாக்குறை ஏற்பட்டுள்ளமையினால் நோயாளர்கள் கடும் அசௌகரியங்களுக்கு முகங்கொடுத்துள்ளனர்.
+
+இதனால் இருதய நோயாளர்களின் உயிர்கள் அச்சுறுத்தலுக்கு உள்ளாகியுள்ளதாக அரச வைத்திய அதிகாரிகள் சங்கத்தின் ஊடகப் பேச்சாளர், வைத்தியர் சமில் விஜேசிங்க தெரிவித்துள்ளார்.
+
+இதன் காரணமாக பெரும்பாலான நோயாளர்களை காத்திருப்புப் பட்டியலில் இணைக்க வேண்டிய நிலைமை ஏற்பட்டுள்ளது.
+
+இந்த விடயம் தொடர்பில், தேசிய வைத்தியசாலையின் பணிப்பாளர், வைத்தியர் குமார விக்கிரமசிங்கவிடம் வினவிய போது, “ஸ்டென்ட்” குழாய்களுக்கு பற்றாக்குறை ஏற்பட்டுள்ளதாக தெரிவித்தார்.
+
+இது தொடர்பில் சுகாதார அமைச்சின் செயலாளர் விசேட வைத்தியர் பாலித மஹிபாலவிடம் வினவிய போது, “ஸ்டென்ட்” எனப்படும் குழாய்களுக்கு தற்போது பற்றாக்குறை ஏற்பட்டுள்ளதுடன், அவற்றை கொள்வனவு செய்வதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாக குறிப்பிட்டார்.
 
 ### ஈராக்கில் மொசாட்டின் தலைமையகம் மீது தாக்குதல் - உரிமை கோரியது ஈரான் இராணுவம்
 
@@ -47,6 +293,16 @@ As of **2024-01-16 18:30:29**
 இந்த தாக்குதல் மனிதாபிமானமற்றது பயங்கரவாத தாக்குதல் என  எர்பில் ஆளுநர் கண்டனம் வெளியிட்டுள்ளார்.
 
 ஒரு  ஏவுகணைவீடொன்றிற்குள் விழுந்து வெடித்ததில் குர்திஸ்தானை சேர்ந்த கோடீஸ்வர வர்த்தகரும் குடும்பத்தினரும் கொல்லப்பட்டுள்ளனர்.
+
+### கொடியை பதிவிட்டு கொடிகளை பறக்கவிட்டார்
+
+*2024-01-16 15:22:05 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கொடியை-பதிவிட்டு-கொடிகளை-பறக்கவிட்டார்/175-331598)*
+
+அநுராதபுரம் - கலென்பிந்துனுவெவ, கோமரன்கல்ல பிரதேசத்தை சேர்ந்த 37 வயதுடைய பொறியியலாளர் ஒருவர் தவறான முடிவெடுத்து உயிரை மாய்த்துக்கொண்டுள்ள சம்பவம்  திங்கட்கிழமை (15) பதிவாகியுள்ளது.
+
+குறித்த நபர் தன் உயிரை மாய்ப்பதற்கு முன்னதாக தனது முகநூல் ( face book ) பக்கத்தில் வெள்ளைக் கொடி ஒன்றின் புகைப்படத்தை பதிவிட்டதையடுத்து சந்தேகத்தில் நண்பர்கள் மற்றும் உறவினர்கள் அவரது வீட்டிற்கு சென்று பார்த்தபோது வீட்டின் முன்பக்கத்தில் உள்ள அறையொன்றில் உயிரை மாய்த்துகொண்ட   நிலையில் சடலமாக காணப்பட்டுள்ளார்.
+
+மேலும் குறித்த நபர் உயிரை மாய்த்துக்கொண்டமைக்கான காரணம் இதுவரை கண்டறியப்படாத நிலையில் இச் சம்பவம் தொடர்பில் கலென்பிந்துனுவெவ பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
 
 ### வயோதிப பிக்குவினால் பல தடவைகள் கடுமையாக பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தப்பட்ட 16 வயதான இளம் பிக்கு!
 
@@ -71,6 +327,38 @@ As of **2024-01-16 18:30:29**
 நிகழ்நிலை பாதுகாப்பு சட்டம் குறித்து அர்ப்பணிப்புடன் உள்ள நாங்கள் சிறுவர் பாலியல் மற்றும் ஏனைய பாரிய இணைய குற்றங்களை தடுப்பதற்காக பாரிய தளங்களுடன் இணைந்து செயற்படுவோம் எனவும் தெரிவித்துள்ளார்.
 
 இலங்;கை சமூகத்தின் நலனிற்கு இது மிகவும் அவசியமானது அவசர நடவடிக்கைகளிற்கு பதில் பயனளிக்ககூடிய தீர்வுகளை முன்வைப்போம் எனவும் ஹர்சா டிசில்வா தெரிவித்துள்ளார்.
+
+### காளையை தட்டி அடக்கிய வங்கி ஊழியர்: (காணொளி)
+
+*2024-01-16 15:12:03 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/காளையை-தட்டி-அடக்கிய-வங்கி-ஊழியர்-காணொளி/175-331597)*
+
+பிரபல வங்கியின் கிளை ஒன்றில் கால்நடை ஒன்று வழிதவறி நுழைந்த வினோதமான சம்பவம் இந்தியாவின் உத்தரப்பிரதேச மாநிலம் Unnao-வில் உள்ள பெரும் பரபரப்பை ஏற்படுத்தி இருக்கிறது.
+
+சதார் பஜார் என்ற பகுதியில் அமைந்துள்ள குறித்த வங்கியின் பிரதான கிளையில் காளையொன்று வழிதவறி வங்கிக்குள் வந்துள்ளது.
+
+திடீரென வங்கி வளாகத்திற்குள் நுழைந்த காளை, வங்கி வழங்கும் சேவைகளை பெற காத்திருக்கும் வாடிக்கையாளர் போல் ஒரு மூலையில் அமைதியாக நின்றது.
+
+எனினும் வங்கியில் நுழைந்து வாடிக்கையாளர் போல அமைதியாக நின்ற காளையை பார்த்த வாடிக்கையாளர்கள் மற்றும் ஊழியர்கள் பீதியடைந்து அலறினர்.
+
+வங்கிக்குள் காளை புகுந்ததால் ஏற்பட்ட பரபரப்பை தொடர்ந்து தொடர்ந்து வங்கிப் பணிக்காக வந்திருந்த வாடிக்கையாளர்கள் பீதியில் அங்கும் இங்கும் ஓடத் தொடங்கினர்.
+
+### Anticipated Sri Lanka tourism app set to revitalize the island’s tourism sector - report
+
+*2024-01-16 15:11:00 - [adaderanalk](https://www.adaderana.lk/news/96447/anticipated-sri-lanka-tourism-app-set-to-revitalize-the-islands-tourism-sector-report)*
+
+As the first quarter of 2024 beckons, Sri Lanka’s tourism sector is brimming with anticipation. The long-awaited launch of an all-inclusive Sri Lanka Tourism app is in its final stages, promising to significantly uplift the island nation’s tourism industry. The initiative, which earned Cabinet approval back in 2019, is finally gaining momentum after being stalled by COVID-19 and other unforeseen challenges.
+
+Priyantha Fernando, the Chairman of the Sri Lanka Tourism Development Authority, has confirmed the reactivation of the initiative. To finalize the app’s scope and content, management and technical evaluation committees are being formed. The development will be undertaken by the same Malaysian developer who was initially involved. The app’s launch, however, hinges on the progress of technical requirements and necessary clearances. If the development starts from scratch, the release could extend into the second quarter of 2024. But if all goes well, tourists could have access to this comprehensive digital tool as early as March 2024.
+
+The Sri Lanka Tourism app aims to provide comprehensive information on tourist sites, registered establishments, and service providers. It will enable tourists to purchase tickets for attractions and rate their experiences. Additional features include visa application processing and insights into tourists’ areas of interest. This data will aid in creating targeted tourism products.
+
+The app will support multiple languages, including English, German, French, Russian, and Chinese. This move is designed to cater to a wider audience and ensure ease of use for tourists from different linguistic backgrounds. Importantly, the app’s development will not be a financial burden to the government due to a funding arrangement made with the developer in the prior Cabinet agreement.
+
+Apart from the app, Sri Lanka’s Tourism Promotion Bureau is also addressing obstacles to marine tourism, particularly leisure activities on yachts. They have finalized classification criteria for marine tourism and are receiving assistance from the Asian Development Bank to address remaining issues. The goal is to attract wealthy Indian yacht owners to berth their vessels in marinas throughout the country.
+
+The government has also made plans to reduce taxes, introduce water sports, and implement plans for a boat service industry to boost growth in the domestic sector. Sri Lanka aims to attract 2.3 million tourists in 2024, focusing on tourists from India, Russia, China, the UK, and Germany.
+
+On another front, Sri Lanka has installed an AI-automated facial recognition system at Bandaranaike International Airport. This deployment aims to identify nefarious activities such as drug trafficking and ID fraud at international border crossings. This move, although controversial, is part of a crackdown by police and the Ministry of Public Security that saw over 25,000 arrests since December 17, 2023.
 
 ### வைத்தியசாலை சுகாதாரதுறை ஊழியர்கள் பணி பகிஸ்கரிப்பு ; நோயாளர்கள் பெரும் அவதி
 
@@ -115,6 +403,32 @@ Lalith Jayasinghe was remanded on charges of interfering with the police investi
 The Former Senior DIG was charged with interfering with the police in order to prevent the arrest of then Deputy Minister Premalal Jayasekera, who was suspected of being involved in the crime.
 
 Protests as Activists Accuse Former Health Minister of Pharma Fraud
+
+### More details revealed in murder of “Bada Ranji”
+
+*2024-01-16 14:27:00 - [adaderanalk](https://www.adaderana.lk/news/96446/more-details-revealed-in-murder-of-bada-ranji)*
+
+Police have revealed that the person killed in the shooting incident reported near the “Randiya Uyana” housing scheme in Mattakkuliya last evening (15), was one of the individuals who managed the money transactions of the drug network of notorious drug trafficker “Pukudu Kanna”.
+
+Three unidentified individuals who arrived in a three-wheeler had shot at the victim, Sendil Arumugam Dushyanth, who is also known as “Bada Ranji”, at around 08.30 p.m. yesterday, the police said.
+
+He had been rushed to the Colombo National Hospital after suffering gunshot wounds to his chest and left arm, while he later succumbed to his injuries.
+
+Police suspect that the shooting may have been carried out by a rival gang also involved in drug trafficking.
+
+The Colombo-North Crimes Unit is conducting further investigations regarding the incident.
+
+### மின்சார கம்பியில் சிக்கி ஆசிரியர் மரணம்
+
+*2024-01-16 14:13:51 - [tamilmirrorlk](https://www.tamilmirror.lk/மலையகம்/மின்சார-கம்பியில்-சிக்கி-ஆசிரியர்-மரணம்/76-331588)*
+
+பாடசாலை ஆசிரியர்  ஒருவர் மரக்கறி தோட்டம்  ஒன்றில் மின்சார கம்பியில் சிக்கிய நிலையில் செவ்வாய்க்கிழமை (16) சடலமாக மீட்கப்பட்டதாக தலவாக்கலை பொலிஸார் தெரிவித்தனர்.
+
+தலவாக்கலை பாமஸ்டன்  தமிழ் பாடசாலையில் ஆசிரியராக கடமையாற்றும் பாமஸ்டன் தோட்டத்தை வசிப்பிடமாக கொண்டவருமான கே. விஸ்வநாதன் (வயது 58) என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+
+தமது வீட்டுக்கு அருகிலுள்ள மரக்கறி தோட்டமொன்றில் ஒருவர் வீழ்ந்து கிடப்பதை கண்ட பிரதேசவாசிகள் மற்றும் உறவினர்கள் அவரை லிந்துலை பிரதேச வைத்தியசாலைக்கு கொண்டு சென்றுள்ளனர். எனினும், ஏற்கெனவே அவர் உயிரிழந்துவிட்டார் என வைத்தியசாலையின் பிரதம வைத்தியர் தெரிவித்தார்.
+
+இது தொடர்பாக  லிந்துலை  பிரதேச வைத்தியசாலையின் பிரதம வைத்திய அதிகாரி அசேல சுரஞ்சித் கூறுகையில்,  வைத்தியசாலைக்குக் கொண்டுவரும் போதே  அவர் உயிரிழந்திருந்ததாக தெரிவித்தார்.
 
 ### நிகழ்நிலை பாதுகாப்பு சட்டம் குறித்த ஆசிய இணைய அமைப்புகள் கரிசனை - டிரான் அலஸ் தெரிவிப்பது என்ன?
 
@@ -174,6 +488,66 @@ Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
 புத்த பெருமானையும், பிக்குகளையும், பௌத்த மதத்தையும் அவமதிக்கும் வகையில் பிரசங்கங்கள் மேற்கொள்ளப்பட்டமை மற்றும் பணச் சலவைச் சட்டம் மற்றும் பொது ஒழுங்கை மீறியமை தொடர்பில் சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
 
+### Self-proclaimed ‘Avalokiteshvara Bodhisattva’ remanded
+
+*2024-01-16 13:47:00 - [adaderanalk](https://www.adaderana.lk/news/96445/self-proclaimed-avalokiteshvara-bodhisattva-remanded-)*
+
+Mahinda Kodituwakku, the self-proclaimed ‘Avalokiteshvara Bodhisattva’, has been remanded until 24 January, on orders of the Colombo Fort Magistrate’s Court.
+
+Kodituwakku was arrested on 15 January, on charges of committing irreligious activities that are contrary to Buddhist teachings.
+
+On 12 January, the Colombo Fort Magistrate’s Court also imposed an overseas travel ban on him.
+
+Earlier this month, the president of Buddhist Information Centre, Ven. Agulugalle Sri Jinananda Thero had filed a complaint with the CID alleging that Kodituwakku has been misleading the Buddhist community.
+
+Alleging that Kodituwakku has been misleading the Buddhist community, Jinananda Thero claimed that he was directly involved with the recently deceased preacher named Ruwan Prasanna Gunaratna, who had promoted ‘mass suicide’ through his distorted teachings and later died by suicide.
+
+Meanwhile, Ven. Balangoda Kassapa Thero, addressing a media briefing, claimed that this self-proclaimed ‘Bodhisattva’ had sexually abused his own daughter before leaving his house while calling it ‘Abinishkramanaya’ (Great Departure).
+
+Bodhisattvas are enlightened beings on the path to becoming Buddhas but postpone reaching nirvana to help humanity.
+
+### රනිල් වික්‍රමසිංහ මහතාට නැවත අවස්ථාවක් ලබාදිය යුතුයි
+
+*2024-01-16 13:42:48 - [adalk](https://www.ada.lk/breaking_news/රනිල්-වික්‍රමසිංහ-මහතාට-නැවත-අවස්ථාවක්-ලබාදිය-යුතුයි/11-407578)*
+
+මේ මොහොතේ රට පවතින්නේ අත්හදා බැලීම් සිදුකිරීමට සුදුසු අවස්ථාවක නෙවෙයි. අත්හදා බැලීම් සිදුකිරීමට යෑමෙන් සිදුවන්නේ රට තවතවත් අගාධයට ඇද වැටීමයි...
+
+හැමදාම මේ රටේ ජනතාව ජනාධිපතිවරු තේරුවේ ජාතික ප්‍රශ්න විසඳීම මූලික කරගෙනයි. අද රටත් ජනතාවත් මුහුණ දෙන බැරෑරුම්ම ප්‍රශ්නය වන ආර්ථිකය ස්ථාවර කිරීමට සුදුසුම කෙනා තමයි වත්මන් ජනාධිපතිවරයා...
+
+පෙට්ටි කඩයක් එහෙමත් නැත්නම් ආයතනයක් පාලනය කරනවා වගේ රටක් පාලනය කරන්න බෑ...
+
+ආර්ථිකය ගොඩනඟා රට ස්ථාවර කිරීමට වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට නැවත අවස්ථාවක් ලබාදිය යුතු බව ආණ්ඩුපක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා අවධාරණය කරයි.
+
+ඔහු පෙන්වා දෙන්නේ රට මුහුණදී තිබෙන ආර්ථික අර්බුදය විසඳීමට සුදුසුම පුද්ගලයා වත්මන් ජනාධිපතිවරයා බව තම පුද්ගලික විශ්වාසය බවයි.
+
+අමාත්‍යවරයා වැඩිදුරටත් අවධාරණය කරන්නේ  මේ මොහොතේ රට පවතින්නේ අත්හදා බැලීම් සිදුකිරීමට සුදුසු අවස්ථාවක නොවන බවයි. එවැනි අත්හදා බැලීම් සිදුකිරීමට යෑමෙන් සිදුවන්නේ රට තවතවත් අගාධයට ඇද වැටීම බවද හෙතෙම පෙන්වා දෙයි.
+
+මිනුවන්ගොඩ හා ගම්පහ පලාත් පාලන නියෝජිතයන් සමඟ ඊයේ (15) උඩුගම්පල පැවැති සාකච්ඡාවකදී අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මේ බව සඳහන් කළේය.
+
+ගම්පහ සහ මිනුවන්ගොඩ ආසනවල ඉදිරි සංවර්ධන කටයුතු පිළිබඳව දැනුවත් කිරීම සඳහා මෙම සාකච්ඡාව පැවැත්විණ.
+
+එහිදී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මෙසේද පැවසීය.
+
+“ඉදිරි ජනාධිපතිවරණයේදී පොහොට්ටුව මොකද කරන්නෙ කියලා හැමෝම අහනවා. පොහොට්ටුව තවම අපේක්ෂකයෙක් තෝරලා නැති බව මම ඉතා වගකීමෙන් කියනවා. අපේක්ෂකයෙක් ඉදිරිපත් කරනවද නැද්ද කියල පක්ෂය තවම සලකා බලමින් ඉන්නවා. ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය ලබාදිය යුතු බව මම පෞද්ගලිකව විශ්වාස කරනවා. ජනාධිපතිවෙලා නැවැත වරක් රට පාලනය කරන්න ඔහුට ඉහළම සුදුසුකම් තිබෙනවා.
+
+මීට වසර දෙකකට පෙර රටත් ජනතාවත් අතිශයින්ම ඛේදජනක ඉරණමකට මුහුණ දුන්නා. ජනතාව පෝලිම්වල අපා දුක් වින්දා. නමුත් අද වනවිට එදා තිබූ ‍බොහෝ ප්‍රශ්න නිරාකරණය වෙමින් තිබෙනවා. එහෙත් තව රාශියක් ඉතිරිවෙලා තිබෙනවා. හැමදාම මේ රටේ ජනතාව ජනාධිපතිවරු තේරුවේ ජාතික ප්‍රශ්න විසඳීම මූලික කරගෙනයි. 2004දි මහින්ද රාජපක්ෂ මහතා ජනාධිපති කළේ යුද්ධය දිනන්නයි. 2015 මෛත්‍රීපාල සිරිසේන පත් කළේ යහපාලනය ‍ස්ථාපිත කරන්නයි. 2019දි ගෝඨාභය රාජපක්ෂ දිනෙව්වෙ ජාතික ආරක්ෂාව තහවුරු කරන්නයි. එහෙනම් අපි අද රනිල් වික්‍රමසිංහ මහතා ජනාධිපති කරන්න ඕන රටේ ආර්ථිකය සුරක්ෂිත කරන්නයි.
+
+ඒ නිසා රනිල් වික්‍රමසිංහ මහතා ජනාධිපතිවරණ අපේක්ෂකයා ලෙස ඉදිරිපත් වෙනවානම් අපි පක්ෂක් ලෙස සන්ධානගතව ඔහුට සහය දිය යුතුයි කියන තැන මම ඉන්නවා. වත්මන් ජනාධිපතිවරයා, ජනාධිපතිවරණයට ඉදිරිපත්විය යුත්තේ “ජාතික අපේක්ෂකයා” ලෙසයි.
+
+දැන් ජනාධිපතිවරණ අපේක්ෂකයෝ වැහි වැහැලා. එක එක ජාතියේ අපෙක්ෂකයෝ එනවා. පෙට්ටිකඩයක් එහෙමත් නැත්නම් ආයතනයක් පාලනය කරනව වගේ රටක් පාලනය කරන්න බෑ. කයිවාරු ගහන්න ඕනම කෙනෙක්ට පුළුවන්. නමුත් වැඩ කරන්න හැමෝටම බැහැ. ආර්ථික අර්බුධ විසඳලා ජනතාවාදී පාලනයක් ස්ථාපිත කරන්න අපිට ඉතිරිවෙලා තියෙන්නෙ ඉතාම සීමිත කාලයක්.
+
+ඒ නිසා අනිත් අපේක්ෂකයන්ට එක අවස්ථාවක්වත් දෙන්න අවස්ථාවක් අපිට ඉතිරිවෙලා නැහැ. මේක අත්හදා බැලීම් කරන කාලයක් නෙවෙයි. රනිල් වික්‍රමසිංහ කියන්නේ කයිවාරු නැති වැඩ විතරක් තියෙන අනාගතවාදී නායකයෙක්. ඒ නිසා ජනාධිපතිධූරයට මේ මොහොතේ ඉහළම සුදුස්සා වත්මන් ජනාධිපතිවරයා”
+
+### Badulla–Colombo main road re-opened for traffic
+
+*2024-01-16 13:41:00 - [adaderanalk](https://www.adaderana.lk/news/96444/badullacolombo-main-road-re-opened-for-traffic-)*
+
+The Badulla – Colombo main road which was blocked for traffic due to an earth slip in Hali-Ela one week ago was reopened for traffic this afternoon (16 Jan.).
+
+Prabath Abeywardena, the District Secretary of Badulla, affirmed that the National Building Research Organisation (NBRO) has declared the road safe for travel after the Road Development Authority (RDA) cleared the debris, including earth, rocks, and trees.
+
+On 09 January, a stretch of the Badulla – Colombo main road was blocked for traffic due to an earth slip near the 7th Mile Post in Hali-Ela.
+
 ### Vegetable prices skyrocket in Sri Lanka
 
 *2024-01-16 13:35:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/vegetable-prices-skyrocket-in-sri-lanka/)*
@@ -225,6 +599,36 @@ Civil society representatives, mass organization leaders, and social activists j
 Their intention to march from the Ministry to the Cinnamon Gardens Police Station was abruptly halted by a police intervention.
 
 Protests as Activists Accuse Former Health Minister of Pharma Fraud
+
+### පාසලේ තැඹිලි කඩන්න  සිසුවා විදුලිසැර වැදී මරුට
+
+*2024-01-16 13:17:41 - [adalk](https://www.ada.lk/breaking_news/පාසලේ-තැඹිලි-කඩන්න--සිසුවා-විදුලිසැර-වැදී-මරුට/11-407576)*
+
+මාතලේ රත්තොට පුස්සැල්ල නවෝද්‍යා විද්‍යාලයේ එකොළහ වසරෙහි ඉගෙනුම ලැබූ සිසුවෙකු එම විද්‍යාලයේ තැඹිලි ගසට නැග තැඹිලි කැඩීමට යාමේදී විදුලි සැර වැදීමෙන් මියගොස් ඇතැයි රත්තොට පොලිසිය පවසයි.
+
+මෙසේ මරණයට පත්ව ඇත්තේ කළුගල්තැන්න ගම්මඩුව ප්‍රදේශයේ පදිංචි වයස අවුරුදු( 16) ක දසනායක  අසලංක ඉඳුවර නැමැති එකොළහ වසරෙහි ඉගෙනුම ලබන පාසල් සිසුවෙකි.
+
+විද්‍යාලයේ පැවැත්වීමට නියමිත කෘෂිකර්ම කටයුත්තක් සඳහා ඊයේ (15) වන දින විද්‍යාලයට පැමිණෙන ලෙස විද්‍යාලයේ කෘෂිකර්ම ආචාර්යවරයාගෙන් ලද පණිවිඩයකට අනුව මෙම සිසුවා උදෑසන විද්‍යාලය වෙත ගොස් තිබේ.
+
+කෘෂිකර්ම ආචාර්යවරයාගේ පැමිණීමේ ප්‍රමාදයක් හේතුවෙන් එහි පැමිණ සිටි පාසල් සිසුන් විද්‍යාලයේ තැඹිලි ගසකින්  තැඹිලි කැඩීමට තීරණය ගෙන ඇති අතර අදාළ සිසුවා තැඹිලි ගසට නැග තිබේ.
+
+තැඹිලි ගෙඩිය ගෙඩිය කඩා බිමට දැමීමෙන් තැඹිලි පුපුරා යන බැවින් තැඹිලි ඉත්ත පිටින් බෑමට සිසුන් තීරණය කර ඇත. ගසේ සිටි සිසුවා වෙත තැඹිලි බෑම සඳහා විද්‍යාලයේ තිබූ කඹයක් විසිකර ඇති අතර එම කඹය සිසුවාට අල්ලාගැනීමට නොහැකි වීමෙන් තැඹිලි ගස අසල වූ පාසැල් ගොඩනැගිල්ලේ  වහලට විසිව ගොස් ඇත.  වහලයට වැටි කඹය ලබාගැනීමට උණ කෙක්කක් බිම සිටි සිසුන් ගස මත සිටි සිසුවාට ලබාදී ඇති අතර එම කෙක්කාධාරයෙන් කඹය ලබාගැනීමට උත්සාහ කිරීමේදී ඒ අසලින් ගමන් කළ විදුලි රැහැනක උණ කෙක්කගැටී ඇති අතර  කෙක්ක හරහා පැමිණි විදුලි සැර සිසුවාට වැදීමත් සමග  සිසුවා  ගසින් බිමට වැටී තිබේ.
+
+බිමට වැටුණු සිසුවා එහි සිටි අනිත් සිසුන් විසින්  රත්තොට රෝහල වෙත ඇතුළත් කර ඇති අතර රත්තට රෝහලින් මාතලේ දිස්ත්‍රික් මහ රෝහල වෙත සිසුවා ඇතුළත් කළද ඒ වනවිටත් අදාළ සිසුවා මියගොස් ඇති බවට රෝහල් ආරංචි මාර්ග පවසයි.
+
+අදාළ සිද්ධිය පිළිබඳ පරීක්ෂණ කටයුතු රත්තොට පොලිසිය විසින් සිදු කරනු ලබන අතර සිද්ධියට අදාල මහෙස්ත්‍රාත් පරීක්ෂණය මාතලේ වැඩ බලන මහේස්ත්‍රාත් ලසන්ත බාලසූරිය මහතා විසින් සිදුකර තිබේ.
+
+### Kuwait, Sri Lanka bolster bilateral ties across various sectors
+
+*2024-01-16 13:07:00 - [adaderanalk](https://www.adaderana.lk/news/96443/kuwait-sri-lanka-bolster-bilateral-ties-across-various-sectors)*
+
+Sri Lankan Ambassador to Kuwait Kandeepan Balasubramaniam praised the Kuwaiti-Sri Lankan relations that began 53 years ago, describing such relationship as “exceptional and historic,” reports Al-Anba daily.
+
+In a special statement to the daily, Balasubramaniam asserted that the bilateral relations between the two countries have developed significantly at all levels and in various areas of cooperation. He added the mutual visits between the two countries reflect the depth of bilateral relations with Kuwait, explaining that they have distinguished cooperation with Kuwait Fund for Arab Economic Development.
+
+He cited the meeting of Kuwaiti Foreign Minister Sheikh Salem Al- Abdullah with his Sri Lankan counterpart in New York, during which they discussed ways to support and strengthen bilateral relations.
+
+He revealed the number of Sri Lankans in the country has reached about 100,000; including professionals, skilled and semi-skilled workers, as well as domestic workers who constitute the largest percentage. He affirmed that his country continues to send its workers to Kuwait, indicating the two countries are fully cooperating in the field of manpower.
 
 ### ஈராக்கில்  இஸ்ரேலின்  புலனாய்வுபிரிவின் தலைமையகத்தைஇலக்குவைத்து ஈரான் தாக்குதல்- நால்வர் பலி
 
@@ -479,6 +883,12 @@ Audit - Management of Overcrowding in Prisons by Adaderana Online on Scribd
 டிசம்பர் 17 முதல் போதைப்பொருள் தொடர்பான குற்றச்சாட்டில் கைது செய்யப்பட்டதாகக் கூறப்படும் 29,000 நபர்களில் சிலர், தாங்கள் மோசமாக நடத்தப்பட்டதாக அல்லது சித்திரவதை செய்யப்பட்டதாகத் தெரிவித்துள்ளதாக OHCHR செய்தித் தொடர்பாளர் Liz Throssell குற்றம் சாட்டினார்.
 
 ”போதைப்பொருள் கடத்தல்காரர்களை பிடிப்பது நல்லது என்பதால் யுக்திய நடவடிக்கையை நாங்கள் எதிர்க்க மாட்டோம். எனினும், இது நாட்டுக்கு புதிய பிரச்சினையாக மாறக்கூடாது. மேலும், அதை அரசியல் கருவியாக பயன்படுத்தக் கூடாது,'' என அவர் தெரிவித்தார்.
+
+### හෙට නුවරඑළියට මල් තුහින
+
+*2024-01-16 10:51:48 - [adalk](https://www.ada.lk/breaking_news/හෙට-නුවරඑළියට-මල්-තුහින/11-407575)*
+
+ඉදිරි පැය 36ක කාලය තුළදි දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි. ඒසේම හිමිදිරි පාන්දර නුවර එළිය දිස්ත්‍රික්කයෙ ඇතැම් ස්ථානවලට මල් තුහින පතිතවීමේ හැකියාවක්ද ඇති බව එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
 
 ### Indian air traffic disrupted on third day of dense fog
 
@@ -1396,6 +1806,54 @@ India’s Adani group is building some renewable plant in the island. Concerns h
 
 Sri Lanka blocked a Chinese power sector investments in the North which came fro competitive tendering, reportedly under Indian pressure.
 
+### Economy 2024: More Challenging Than The Two Previous Years
+
+*2024-01-15 20:11:59 - [colombotelegraphcom](https://www.colombotelegraph.com/index.php/economy-2024-more-challenging-than-the-two-previous-years/)*
+
+Sri Lanka has entered 2024 having passed 2022, the year of the severest economic crisis, and 2023, the year of the beginning of economic recovery. Having followed an economic recovery package as agreed with IMF for an extended fund facility or EFF, Sri Lanka should now consolidate its position to retain the hard-earned macroeconomic stability and push the economy to a high growth path needed for delivering permanent prosperity to its people. However, the present stability experienced by Sri Lanka is at a low-level equilibrium as observed by the Presidential economic advisor, Dr. Sharmini Cooray in the 2023 Central Bank Anniversary Oration.
+
+What she meant by a low-level equilibrium was that though high inflation has been brought down to an affordable rate of about 5% and the exchange rate from close to Rs. 400 to about Rs. 320 a dollar, that has been attained at a low level of GDP, that is, $ 77 billion in 2022 compared with $ 85 in 2021. The average income of a Sri Lankan, if distributed equally among them and known as per capita income, has also fallen from $ 3,997 in 2021 to $ 3,474 in 2022. Hence, on average, all Sri Lankans have become poorer.
+
+At this level of per capita income, Sri Lanka is categorised by the World Bank as a lower middle-income country because it is a way above the threshold of $ 1,135 attributable to a low income or a poor country. However, the Sri Lanka Government requested the World Bank in late 2022 to treat it as a poor country for the disbursement of concessional funds from the World Bank group. This request has, as a special case, now been granted by the Bank. Hence, Sri Lanka today is like a person who has on paper academic qualifications equivalent to a university degree, but his knowledge is so poor that he is assigned the work that can be handled by a person with only GCE (Advanced level) qualification.
+
+It is just an instance of voluntarily becoming poorer in front of the rest of the world because it helps the country to get low-cost foreign aid. Thus, the GDP numbers released by the authorities do not reflect the true position of Sri Lankans. This is a stigma. Accordingly, the biggest challenge which Sri Lanka faces in 2024 or in later years is to have it removed and show the world that it is not a poor country anymore. But like the proverbial ‘beggar’s wound’, the incentives are to continue to enjoy this stigma.
+
+Sri Lanka enters the new year with a friendly but significantly serious warning by IMF. According to IMF’s Communications Director Julie Kozack, though the progress of the current EFF program is satisfactory, the country should complete the negotiations with the external commercial creditors and implement the agreements with official creditors for the restructuring of the selected items of the central government external debt. For external debt restructuring purposes, only the commercial borrowings and those borrowed from bilateral sources were included.
+
+The total public sector borrowings as at the end of 2021 amounted to $ 69 billion, made up of $ 45 billion by the central government and $ 24 billion by other public sector entities. Of this, only $ 33 billion or nearly a half was to be restructured. Even if this is successfully restructured, the problem of country’s foreign indebtedness remains unresolved.
+
+It seems that IMF is working with numbers which are pleasing to their ears ignoring the wider external debt problem which the country is faced with. Once Sri Lanka begins to repay the whole debt, it will not be able to maintain the current low-level equilibrium that involves relative stability in the exchange rate, on one side, and the balance in the current account of the balance of payments, on the other.
+
+She has expressed the IMF’s satisfaction about the restructuring of the domestic debt, tagged as domestic debt optimisation by the Sri Lanka Government, in 2023. The reference here is the decision of the Government to pass the entire burden of the domestic debt relief on to the superannuation and pension funds. Among them, the chief burden-bearers are the largest private sector superannuation fund, Employees’ Provident Fund or EPF managed by the Central Bank, and the Employees’ Trust Fund or ETF, managed by a separate board of trustees.
+
+These two funds as well as other provident and pension funds were told by the Government that if they would not agree to the proposed optimisation, they would be subject to an income tax of 30% instead of the 14% they were paying at that time. The tax of 30% was justified because that was the tax paid by other financial institutions and, therefore, it was an equalisation of the tax rates. I discussed in a previous article how this tax comparison would fall on EPF unfairly because EPF and other funds paid taxes on the gross income while financial institutions paid it on the net incom.
+
+Accordingly, the amounts of taxes paid by EPF on its gross income would be 70% in 2020, 88% in 2021, and 490% in 2022 when recalculated on the tax base of net income applicable to financial institutions. The other bond holders were freed from this burden and equity in distributing burden required the Government to treat all of them equally.
+
+I therefore pointed out in the article under reference as follows: “If the pain is passed on to all the bondholders equally, it would have been a fair and equitable treatment. Though there is a fear that it would lead to instability of the financial system, that could be avoided it the pain is transferred to all equally. Then the people would have felt that they have been treated fairly. Such a trust is a must when a country goes through a painful adjustment to come out of a serious economic crisis”. But the plan of passing the burden on the superannuation fund holders was carried out as planned. However, it involved the reduction of the earnings of EPF members by a significant margin by Rs. 274 billion over the period 2024 to 2038.
+
+It is about this treatment of the domestic debt that IMF’s communications head has expressed her satisfaction. Since EPF earnings are likely to be lower than 9% after paying a tax of 14%, it will be a challenge for the Government to ensure a minimum rate of return of 9% to EPF members as promised in the debt optimisation plan. It is in fact an unnecessary waste of the taxpayers’ money if the Treasury meets this shortfall.
+
+Sri Lanka’s avowed goal is to deliver richness to its people by 2048 when the country celebrates the centenary of independence from Britain. This is a challenging task since the country is now going through a low-growth scenario till at least 2027. In 2022, it was a negative growth of 7.8% and in 2023, it is projected to have a negative growth of about 4%. From 2024 to 2026, the growth will be at an annual average rate of about 2% according to the forecasts made by both IMF and the World Bank. According to these forecasts, the country will return to the size of its economy which it had in 2021. That amounts to a GDP of $ 85 billion. It is from this level that the country will have to move up to become a rich country by 2048.
+
+I have discussed the main challenges involved in a previous article in this series. In this article, the main challenge has been identified as follows: “In terms of the World Bank classifications, a country will become a rich country if its gross national income or GNI per head reaches the threshold of $ 12,000 and remain at that level or above thereafter. Over the next 25 years, Sri Lanka’s population also will increase requiring the country to produce more to reach this level. The population of the country has been rising at about 1% per annum in the past. But the future population projections are made based on demographic changes. Accordingly, for Sri Lanka, two population projections were made, one at an average growth of half a percent per annum and the other at an average growth of a little over a fifth of a percent. In the first one, the population will rise to 25.4 million by 2048. In the second one, Sri Lanka’s population will peak in 2035 and begin to fall thereafter.
+
+“By 2048, its population will be 21.9 million, a little more than its population in 2021. In terms of the first projection, to generate a GNI per capita of $ 12,000, the total GNI should rise to $ 305 billion or an increase of 243% over the period. The average growth per annum should be about 12%. In terms of the second projection, the GNI should be $ 263 billion marking an increase of 196% over this period. It marks an annual increase, on average, of 10%. Therefore, the annual economic growth to be maintained from 2028 to 2048 will be between 10 and 12% if Sri Lanka is to become a rich country by that last year of the period. This is again a formidable challenge for future governments”.
+
+This is a formidable challenge. Unless correct policies are adopted from now onward, becoming a rich country by 2048 will simply be a wish only as it had happened on many occasions in the past. President Ranil Wickremesinghe, addressing the nation in June 2023, announced that he would be following the Growth Lab approach developed by the Center for International Development or CID of Harvard’s Kennedy School of Government. Wickremesinghe has a particular love for CID because he himself had been an alumnus of this prestigious institution.
+
+He explained the Growth Lab approach as follows: “Under the Lab approach, we will bring together Government Ministers, government officials, subject matter experts, and key representatives from the private sector to collaboratively engage in detailed discussions over a period of six weeks. The aim is to collaboratively resolve any roadblocks hindering the roll-out of investments and projects by listening carefully to the private sector. During these discussions, comprehensive implementation plans will be developed, and the necessary facilities to support the implementation of these projects will be organised. Government stakeholders involved in the Labs will dedicate their full-time efforts to ensure the successful execution of these projects. As President, I, along with the Cabinet Ministers, will actively participate in this event to demonstrate the government’s commitment to ensuring success of the Lab process”.
+
+The timeline announced was that the lab will be convened in the third quarter of 2023, its report ready by September 2023, and it will be presented to people for their review, suggestions, and approval before the end of 2023. That will be unveiled for implementation as a ‘national transformation plan’. This plan will be based on four important pillars: reforming both the fiscal and financial sectors, driving investments for accelerated economic growth, introducing social protection to the vulnerable and the implementing a strong good governance program, and transforming the state-owned enterprises or SOEs to function as profit centres.
+
+While these are important goals, they do not cover all the required strategies that should be adopted. For instance, they do not include a human resource development plan to upgrade the country’s human capital to a creative capital stock, encouraging the professionals who are leaving the country to contribute to the country’s development through a system of reverse migration, and introducing high technology to the country’s production structure to help it to compete successfully in the global markets.
+
+Even with the limited scope announced, the Government has missed all these milestones in the timeline. Hence, they will have to be redated for 2024. But 2024 will be an election year, and it is unlikely that the energy and the talent pool of the Government could be diverted to this type of long-term planning. But with every passing moment, the country will lose valuable time which cannot be regained. But there is no choice in my view. The Central Bank with the support from IMF has stabilised the economy at a low-level equilibrium. If no proper policies are adopted to upgrade the real economic activities that will deliver richness and prosperity to people, it will be difficult for the country to maintain even this low-level equilibrium.
+
+This is a formidable challenge, and the Government should not take this challenge lightly.
+
+*The writer, a former Deputy Governor of the Central Bank of Sri Lanka, can be reached at waw1949@gmail.com
+
 ### Person remanded over sword attack on teenager in Ragama
 
 *2024-01-15 20:11:00 - [adaderanalk](https://www.adaderana.lk/news/96425/person-remanded-over-sword-attack-on-teenager-in-ragama)*
@@ -1517,499 +1975,3 @@ Malik and Dilhan Fernando appointed Co-Chairs of MJF Holdings Ltd.
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
 Save my name, email, and website in this browser for the next time I comment.
-
-### Pan Asia ‘Ezy Banking’ spaces in branches to enhance customer digital experience
-
-*2024-01-15 19:42:00 - [islandlk](http://island.lk/pan-asia-ezy-banking-spaces-in-branches-to-enhance-customer-digital-experience/)*
-
-Pan Asia Bank proudly launched its first Digital Banking Center to enable its customer base to access its banking services round the clock. The new state-of-the-art ‘Ezy Banking’ Center offers unprecedented freedom for Pan Asia Bank customers to conduct all their transactions under one roof digitally while also enjoying the familiarity of a branch location. Pan Asia bank will roll this EZY Banking spaces across its network to provide the convenience of this initiative to all customers around the nation.
-
-Pan Asia Bank has selected the Pettah branch, the business hub in Sri Lanka to locate its first EZY Banking Center with the objective of empowering the business community and to provide best-in-class convenience to them.
-
-Committing to empower entrepreneurship, Pan Asia Bank celebrates New Year
-
-Amazing savings up to 75% for Pan Asia credit/debit Cardholders this festive season
-
-Pan Asia Bank customers to receive next-level experience with the new customer onboarding platform by LinearSix
-
-Pan Asia Bank equips the SMEs to turn-around the nation -hosts another SME workshop in Kurunegala
-
-Pan Asia Bank strengthens financial management skills of SME entrepreneurs
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### A Testament to German Craftsmanship
-
-*2024-01-15 19:40:00 - [islandlk](http://island.lk/a-testament-to-german-craftsmanship/)*
-
-In the world of kitchen design and innovation, few names stand as tall as Häcker. Hailing from Germany, a country renowned for its precision engineering and meticulous attention to detail, Häcker kitchens have earned a global reputation for excellence. With a heritage spanning over seven decades, Häcker has consistently pushed the boundaries of kitchen design, seamlessly blending functionality, aesthetics, and sustainability. In this article, we delve into the essence of Häcker kitchens, exploring what sets them apart and why they continue to be the go-to choice for discerning homeowners and chefs worldwide.
-
-One of the cornerstones of Häcker’s success lies in its unwavering commitment to quality craftsmanship. Häcker Kitchens are crafted using the best German engineering techniques, which have long been synonymous with precision. Each kitchen is a testament to the art of engineering, where form marries function in perfect harmony.
-
-From the selection of materials to the finishing touches, Häcker kitchens exude an air of refined sophistication.
-
-The use of high-quality, durable materials ensures that every kitchen is not only visually stunning but also built to withstand the test of time. This dedication to excellence has earned Häcker a loyal following of homeowners who understand the value of investing in a kitchen that will serve as the heart of their home for years to come.
-
-New Year, New VAT: Can Sri Lanka’s poor cope with the increase?
-
-Pan Asia ‘Ezy Banking’ spaces in branches to enhance customer digital experience
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### New Year, New VAT: Can Sri Lanka’s poor cope with the increase?
-
-*2024-01-15 19:39:00 - [islandlk](http://island.lk/new-year-new-vat-can-sri-lankas-poor-cope-with-the-increase/)*
-
-Lakshila Wanigasinghe is a Research Officer at the IPS with research interests in poverty, social welfare, development, education, and health. She holds an MSc in Economics with a concentration in Development Economics and a BA in Economics with concentrations in International, Financial and Law and Economics from Southern Illinois University Carbondale (SIUC), US. (lakshila@ips.lk)
-
-Ringing in the new year for Sri Lankans was an increase in the value-added tax (VAT) rate to 18% and a withdrawal of tax exemptions on several goods and services. The last day of 2023 witnessed long queues as people rushed to stock up on essentials such as fuel and gas. Although queues are a familiar sight following the onset of the economic crisis, this time around, it was to avoid being hit with the VAT hike.
-
-In light of these developments, this blog aims to shed light on VAT, offering a brief overview and delving into the potential implications of the increase, particularly on the poor and vulnerable.
-
-There are both pros and cons to VAT. While VAT offers a means for governments to generate revenue without overcharging the wealthy, its downside lies in imposing a substantial economic burden on lower-income groups, as consumers ultimately bear the tax burden.
-
-In an attempt to raise government revenue, the VAT rate on applicable goods and services increased from 15% to 18% starting 01st January 2024. This amendment brought 97 previously VAT-exempt goods and services including, fuel, gas, telecommunication services, as well as several food products manufactured using locally cultivated grains, locally manufactured coconut milk, and certain dairy products (locally produced), under the tax umbrella. Items that continue to be VAT-exempt include medicines, educational services, public passenger transport services, and food products such as infant milk powder, locally manufactured rice, bread, etc.
-
-Along with the change in tax rates, the VAT threshold for businesses was also reduced to an annual turnover of LKR 60 million (from LKR 80 million) and LKR 15 million per taxable period (from LKR 20 million). These changes to VAT are expected to generate revenues of around LKR 1,400 billion in 2024.
-
-The tax rate increase and the threshold reduction for businesses liable for VAT signals that more items are applicable for VAT at a higher percentage than before. Although this affects all households, it adds an excessive burden on the already struggling poor and vulnerable groups grappling with the concurrent crises from COVID-19 in 2020 to the ongoing economic crisis.
-
-The fuel price hikes, a direct consequence of the new VAT rates, are expected to trigger a domino effect on the prices of various consumer goods and services, potentially leading to inflation. Although inflation has been low since mid-2023 compared to the beginning of the year, the latter part of 2023 (October to December) witnessed a relative increase in inflation. As per the Colombo Consumer Price Index, inflation between September to December 2023 was recorded as 1.3%, 1.5%, 3.4% and 4.0% respectively. The VAT reforms are likely to add to inflationary pressures in 2024. This, in turn, will further reduce the purchasing power of already constrained households.
-
-A survey conducted by the Department of Census and Statistics (DCS) in 2023 on the impacts of the economic crisis revealed that over 60% of households in the country experienced a decrease in income since March 2022. The survey also finds that over 90% of households experienced an increase in their monthly household expenditure due to the economic crisis. The findings further reveal that 99% of households that experienced a rise in expenditure witnessed an increase in food expenditure. The combination of reduced income and rising expenses is poised to constrain consumer spending, particularly affecting goods and services subject to VAT. For example, the survey results reveal that 83% of households whose expenditure increased due to the economic crisis experienced a rise in transport costs. Following the imposition of VAT on petrol and diesel (previously VAT exempt), the price hike in these commodities will further escalate household expenditure on transport. This will compel some households to self-impose restrictions on the use of certain modes of transport or find alternate solutions due to unaffordability concerns.
-
-Purchasing power constraints force households to adopt various coping strategies to minimise the impacts of these adverse shocks. Around 74% of households that experienced a decline in income did not employ any coping strategies to mitigate the impact while around 7% resorted to a secondary job or additional source of income. Conversely, to cope with the impact of rising expenditure, households employed multiple mechanisms such as limiting/controlling expenses (75%), dietary changes (75%) and reducing/withdrawing savings (46.4%), etc. It is interesting to note that most households chose to adopt coping mechanisms only with respect to mitigating the impact on expenditure although a majority experienced income loss as well.
-
-In the absence of savings – particularly among the poor and vulnerable due to the consecutive adverse shocks –households are likely to borrow to cover their essential expenses. As per survey findings, 55% of households in the country are currently indebted with 22% of such households in debt to meet daily food requirements. Interestingly, 22% of households have accumulated outstanding debt due to the economic crisis while the majority (78%) have not. However, it is concerning that over half of Sri Lankan households are presently indebted, and a considerable share face financial constraints to satisfy essential needs. The VAT reforms are likely to impact these households further through amplified indebtedness due to increased borrowings from both official and unofficial channels. This limits the possibility of timely recovery from shocks as concerns such as repayment challenges will arise in the future. Hence, in addition to struggling at present, the poor and vulnerable are also at risk of facing more prolonged periods of struggle even as the country’s economic crisis subsides.
-
-It is important to support the poor to cope with the VAT hike at least through targeted initiatives that cater to the most vulnerable groups. Using existing social protection programmes to identify the most vulnerable households and providing them with some form of concessions such as reduced prices on certain VAT-liable goods and services that are frequently used by these groups is one such option.
-
-Targeted transfers are another option. While cash transfers are already provided to eligible poor and vulnerable groups in the country it is important to assess if the amounts received by these groups are sufficient to cope with the ongoing crisis and the burden of indirect taxes. Another option worth considering is to provide needy households with dry rations/nutritious food commodities since low-income households spend a large portion of their total expenditure on food and this share may increase further due to the VAT reforms. Further, although it was mentioned that essential items such as fruits and vegetables will not be taxed, these items too are likely to go up in prices due to the indirect nature of the tax.
-
-Although it is too early to assess the true impacts of the VAT amendments on the poor and vulnerable’s ability to survive, they are certainly at elevated risk of facing unaffordability which in turn triggers countless other obstacles. While the degree of the abovementioned risks can vary by household, they can only be measured upon the availability of sufficient consumption data over the upcoming months. Proactive measures, such as timely support in the form of targeted initiatives and concessions, can not only alleviate the immediate challenges but also contribute to the resilience and recovery of the most vulnerable segments of the population.
-
-Hill Country’s hideaway getaway: The Lavender House by Reveal the Collection
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### දරුවෙකුගේ ඇගිල්ල වෙන් වෙන්න කැපූ සැකකරු රිමාන්ඩ්
-
-*2024-01-15 19:31:41 - [adalk](https://www.ada.lk/breaking_news/දරුවෙකුගේ-ඇගිල්ල-වෙන්-වෙන්න-කැපූ-සැකකරු-රිමාන්ඩ්/11-407565)*
-
-බාලවයස්කාර දරුවකුගේ ඇඟිල්ලක් වෙන් වන අන්දමට කඩුවෙන් කොටා දින 11 තිස්සේ සැඟවී සිටි රාගම ප්‍රදේශයේ පුද්ගලයකු ලබන 19 වැනිදා දක්වා රිමාන්ඩ් බාරයේ රඳවා තැබීමට වැලිසර මහෙස්ත්‍රාත් තුසිත ධම්මික උඩුවවිදානන මහතා අද (15) නියම කළේය.
-
-ඇඟිල්ල වෙන් වන අන්දමට දරුවාට කෙටු කඩුව සොයා ගැනීම සඳහා විමර්ශන කරන බව දැනුම් දෙමින් රාගම පොලිසියේ නිලධාරීන් කළ ඉල්ලීමක් පිළිගනිමින් සැකකරු මෙලෙස රිමාන්ඩ් බාරයෙය් රඳවා තැබීමට මහෙස්ත්‍රාත්වරයා නියම කළේය.
-
-මෙලෙස රිමාන්ඩ් බාරයට පත් කරන ලද්දේ රාගම පොඩි වී කුඔුර ප්‍රදේශයේ පදිංචි ඇතීගේ දිලරුක් ප්‍රශශාන්ත සිල්වා නමැති තිදරු පියෙකි.
-
-සිද්ධියට අදාළව කරන ලද විමර්ශන වල ප්‍රගතිය දැක්වෙන වාර්තාවක් ඉදිරිපත් කළ රාගම පොලිසියේ නිලධාරීන් පසුගිය ජනවාරී මස 04 වැනිදා දෙපාර්ශවය අතර ඇති වු ආරඅවුලක් හේතූවෙන් සැකකරු ඔහුගේ අසල්වැසි නිවසක පදිංචිව සිටි 14 හැවරිදි බාලවයස්කාර දරුවකුට කඩුවෙන් කොටා ඇතැයිද ඉන් ඔහුගේ වම් අතේ ඇඟිල්ලක් සම්පුර්ණයෙන්ම වෙන් වී ඇතැයිද පසුව දරුවා ජාතික රෝහලට ඇතුලත් කර ශල්‍යකර්මයකට ලක් කිරීමෙන් පසු නේවාසිකව ප්‍රතිකාර ලබා දී ඇතැයිද දැනුම් දුන්නේය.
-
-දරුවා රෝහලෙන් මුදාහළ පසුගිය 13 වැනිදා තෙක් පොලිසියට ඉදිරිපත් නොවු සැකකරු දරුවා රෝහලෙන් මුදාහළ පසු පොලිසියට පැමිණී අවස්ථාවේදී අත්අඩංගුවට ගත් බව දැනුම් දුන් නිලධාරීහු දරුවාට කෙටු කඩුව සොයා ගැනීම සඳහා විමර්ශන කරන බවද දැනුම් දුන්හ.
-
-වින්දිත බාලවයස්කාර දරුවා වෙනුවෙන් පෙනී සිටි නීතීඥ ශ්‍රමින්ද්‍ර සොයිසා මහතා මීට පෙර දිනයක මෝෂමක් මාර්යෙන් කරුණු දක්වමින් පොලිසියේම ඉහළ නිලධාරියකුගෙන් විමර්ශන නිලධාරීන්ට එල්ල වී ඇති බලපෑම් හේතූවෙන් මීට පෙර අවස්ථාවක අත්අඩංගුවට ගත් මෙම සැකකරු මුදා හැරීමට පොලිසිය කටයුතු කළේ යැයි පැවසීය.
-
-මේ වන විට ඇඟිල්ලක්ද අහිමි වී සිටින මෙම දරුවා කුඩු නඩුවකට පටලවා සිරගත කිරමේ සුදානමක් පිළිබඳව තමන්ට තොරතුරු ලැබි ඇතැයි දැනුම් දුන් නීතීඥ ශ්‍රමින්ද්‍ර සොයිසා මහතා වින්දිතයින්ට යුක්තිය ඉටු කරන්නැයි ඉල්ලීමක්ද කළේය.
-
-සියලු කරුණු සළකා බැලලීමෙන් අනතුරුව සැකකරු රිමාන්ඩ් බාරයට පත් කළ මහෙස්ත්‍රාත්වරයා පැමිණීල්ල කැඳවන ලබන 19 වැනිදා සිද්ධියට අදාළව කරන ලද විමර්ශන වල ප්‍රගතිය අධිකරණයට වාර්තා කරන ලෙස පොලිසියට නියම කළේය.
-
-### வவுனியா மாவட்ட பொது வைத்தியசாலைக்கு அவசரமாக குருதி தேவை
-
-*2024-01-15 19:17:00 - [virakesarilk](https://www.virakesari.lk/article/174000)*
-
-மக்கள் மத்தியில் இரத்ததானம் செய்தல் தொடர்பில் விழிப்புணர்வு குறைவாகவே காணப்படுகின்றது. இதனாலேயே நாடளாவிய ரீதியில் இரத்த வங்கிகளில் குருதித் தட்டுப்பாடு நிலவுகின்றது எனவும் வருகின்ற ஒரு சில வாரங்களில் வவுனியா மாவட்ட பொது வைத்தியசாலை இரத்த வங்கியில் காணப்படும் இரத்தங்கள் முடிவடையவுள்ளமையினால் அவசரமாக குருதியினை வழங்குமாறு வவுனியா மாவட்ட பொது வைத்தியசாலையினர் தெரிவித்துள்ளனர்.
-
-வவுனியா மாவட்ட பொது வைத்தியசாலையில் இரத்த வங்கி சேவை ஓரளவிற்கு திருப்திகரமாக காணப்படுகின்றது. எனினும் சில குருதிவகைகளுக்கு தட்டுப்பாடு நிலவுகின்றது. இதன்படி எதிர்மறை இரத்தவகைகளுக்கு கூடுதல் தட்டுப்பாடு நிலவுகின்றது. அதனை நிவர்த்தி செய்வதற்கு பொது மக்கள் முன்வரவேண்டும் எனினும் மக்களிடையே இரத்ததானம் பற்றிய சரியான விழிப்புணர்வு இல்லாமையே இதற்கு காரணம் என சுட்டிக்காட்டினார்.
-
-மேலும் இரத்ததானம் தொடர்பான விளக்கத்தினை பொதுமக்களுக்கு ஊடகங்களே வழங்க முன்வரவேண்டும் என்றும் மேலதிக தகவல்களை வவுனியா மாவட்ட பொது வைத்தியசாலையின் இரத்த வங்கியூடாக பெற்றுக்கொள்ள முடியும் என குறிப்பிட்டுள்ளனர்.மேலும் 18 – 60 வயதுக்குட்பட்ட 50 கிலோ நிறையுடைய ஆரோக்கிமான நிலையிலுள்ள சுகதேகி ஒருவரால் இரத்ததானம் செய்து கொள்ள முடியும் என்பதை வவுனியா மாவட்ட பொது வைத்தியசாலையின் இரத்த வங்கி பிரிவினர் சுட்டிக்காட்டியுள்ளார்.
-
-இதனையடுத்து இளைஞர்கள் சிலர் ஒன்றிணைந்து வவுனியா மாவட்ட பொது வைத்தியசாலை இரத்த வங்கியில் இரத்ததானம் வழங்கி வைத்திருந்தனர். இரத்த தானம் செய்வோம்! மனித உயிர் காப்போம்! அனைவரும் ஒத்துளைப்பு வழங்குங்கள்.
-
-### Sri Lanka rupee not a one-way bet, hedging instruments, deepening needed: CB Governor
-
-*2024-01-15 19:14:00 - [economynextcom](https://economynext.com/sri-lanka-rupee-not-a-one-way-bet-hedging-instruments-deepening-needed-cb-governor-147314/)*
-
-ECONOMYNEXT – Sri Lanka’s rupee is no longer a one-way bet, and the Central Bank would like to see a deeper market with more hedging instruments in the future Governor Nandalal Weerasinghe said.
-
-“We all know in the past the exchange rate has been a one-way bet, and there has been a lot of speculation,” Governor Weerasinghe said delivering an annual policy speech on January 10.
-
-“Now we have been able to address that part. It is no longer a one way bet. It responds to demand and supply conditions and we will intervene to smoothen out any excess volatility.”
-
-Governor Weerasinghe also dismantled most of the trading controls imposed during the period of inflationary domestic operations, which triggered forex shortages, allowing forex markets to work.
-
-“And also in this kind of environment we would take steps to foster a deeper and more liquid domestic foreign exchange market, that is basically run by you,” he told bankers in the audience.
-
-The central wanted a deeper and more liquid FX market also hedging instruments to hedge exposure for businesses, he said.
-
-“This would be further supported by implementing the FX Global Code in the domestic foreign exchange market, providing a common set of guidance to promote a robust, fair, liquid, open, and appropriately transparent market in which market participants could confidently and effectively transact at competitive prices that reflect available market information.”
-
-The central bank has launched the first phase of an  International Transactions Reporting System (ITRS) in 2023 to collect data on cross-border transactions and foreign currency transactions daily from the banking system.
-
-“The Central Bank plans to report monthly data pertaining to the external current account, particularly on trade in services, based on ITRS data from 2024 onwards,” Governor Weerasinghe said.
-
-“Going forward, all banks are urged to continue to support the development of the ITRS system and to ensure the coverage, accuracy and timeliness of data.”
-
-Under Governor Weerasinghe’s watch the rupee has appreciated from 360 to around 330 to the US dollar on complementary monetary policy.
-
-Sri Lanka rupee came under pressure from large liquidity injections made to suppress rates before and after intervening in forex markets to maintain the exchange rate, driving unsustainable credit over 2021 and 2022, (inflationary monetary policy) triggering reserve losses.
-
-In 2022 March, an attempt was made to float the currency without hiking rates sufficiently and with a surrender rule (buying dollars while the rupee was falling), leading to steep collapse of the rupee to 360 to the US dollar from around 200.
-
-Since the setting up of the central bank in 1950 the rupee has been busted from 4.70 to the US dollar, in a worse fall than Pakistan, India and Bangladesh, all of which started at the same rate as currencies derived from the Indian rupee, which was originally silver based.
-
-Governor Weerasinghe in April 2022 hiked rates, possibly ending hyperinflation and market dollarization, and established a guidance peg at which dollars were bought from banks.
-
-In March the surrender rule was lifted and under his watch the rupee appreciated to around 330 to the US dollar.
-
-Since then, the rupee has fluctuated between 320 to 330 to the US dollar under muted private credit conditions and largely deflationary policy (central bank selling down its Treasuries stock and withdrawing liquidity from dollar purchases).
-
-Analysts have however warned that when private credit picks up, the central bank in the past has resumed inflationary policy to suppress rates, losing its ability to collect reserves, triggering depreciation, and social unrest through rising energy and food prices and long run higher nominal rates.
-
-Sri Lanka’s rupee, and currencies of most other countries that became unstable, started to fall steeply after the International Monetary Fund’s Second Amendment to its articles in 1978, which left countries without a credible anchor (or peg) for money allowing bureaucrats to choose bad ones and depreciate at will. (Colombo/Jan15/2024)
-
-### Kerala cannabis worth over Rs. 02 million held in Jaffna
-
-*2024-01-15 19:08:00 - [adaderanalk](https://www.adaderana.lk/news/96424/kerala-cannabis-worth-over-rs-02-million-held-in-jaffna)*
-
-The Navy has seized a stock of buried Kerala cannabis weighing over 06kg in the Vankalavadi beach vicinity, Jaffna during a search operation.
-
-The search was carried out by the Naval Detachment Nainativu belonging to SLNS Elara in the Northern Naval Command. During the operation, naval personnel have discovered 03 packages of Kerala cannabis, buried in the beach vicinity.
-
-The retrieved stock of Kerala cannabis weighed about 06kg and 40g which was subsequently taken into the naval custody, the navy said.
-
-The gross street value of this stock of Kerala cannabis is believed to be over Rs. 02 million.
-
-Meanwhile, the haul of Kerala cannabis was handed over to the Kayts Police for onward legal action, according to the navy.
-
-### முக்கிய மூன்று மாவட்டங்களுக்கு எச்சரிக்கை
-
-*2024-01-15 18:58:35 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/முக்கிய-மூன்று-மாவட்டங்களுக்கு-எச்சரிக்கை/175-331540)*
-
-கொழும்பு, யாழ்ப்பாணம் மற்றும் மன்னார் மாவட்டங்களில் காற்றின் தரம் குறைந்துள்ளதாக மத்திய சுற்றாடல் அதிகார சபையின் ஊடகப் பேச்சாளர் அஜித் வீரசுந்தர தெரிவித்துள்ளார்.
-
-இந்த மாவட்டங்களில் வசிக்கும் மக்கள் முகக்கவசம் அணியுமாறு சுகாதாரத்துறை கேட்டுக் கொண்டுள்ளது.  R
-
-### විශේෂ දුම්රිය  පීලි පනියි
-
-*2024-01-15 18:57:45 - [adalk](https://www.ada.lk/breaking_news/විශේෂ-දුම්රිය--පීලි-පනියි/11-407564)*
-
-උඩරට දුම්රිය මාර්ගයේ ග්‍රේට්වෙස්ටන් හා නානුඔය දුම්රිය ස්ථාන දෙක අතර අද පස්වරු තුනට පමණ දුම්රියක් පීලි පැමිණීමට  ලක්වූ බව දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
-
-බදුල්ල සිට නුවර බලා  පැමිණි විශේෂ දුම්රියක් මෙසේ පිළිපැනීමට ලක්වී තිබේ. දුම්රියේ පිටුපස  එක් පෙට්ටියක් මෙසේ පීරි පෙනීමට ලක්වී තිබේ.
-
-බදුල්ල සිට ධාවනය වීමට නියමිත දුම්රියන් දෙකක් මේ වන විට පැමිණීමට නියමිත අතර  ඉන්  එක් දුම්රියක් නැවත හරවා බදුල්ල බලාධාවනය වීමට සැලසුම් කර ඇති බවත් බදුල්ල සිට නුවර බලා ධාවනය වීමට නියමිත දුම්රිය තරමක් ප්‍රමාද වී ධාවනය විය හැකි බවත් දුම්රිය  දෙපාර්තමේන්තුව පැවසීය.
-
-මේ අතර කොළඹ සිට බදුල්ල බලා දාවනය වන දුම්රියන් දෙකක් තලවකැලේ සහ හැටන් වලින් ආපසු හරවා කොළඹට ධාවනය  වීමට නියමිත බවද නාවලපිටිය දුම්රිය පාලක මැදිරිය පැවසීය.
-
-මේ අනුව දුම්රිය මගීන්ගේ ප්‍රවාහන අපහසුතාවය මගහැරවීම සඳහා බස් රථ යොදවා එම දුම්රිය මගීන් හැටන් නානුඔය අතර බස් රථ මගින් ප්‍රවාහනය කිරීමට සැලසුම්කර ඇති බවද දුම්රිය පාලක මැදිරිය පැවසීය.
-
-පිළිපැන ඇති දුම්රිය පෙට්ටිය ඉවත් කිරීමේ කටයුතු ආරම්භ කරන බවද දුම්රිය දෙපාර්තමේන්තුවේ උසස් නිලධාරියකු පැවසීය.
-
-### Myanmar rebel group claims control of town bordering India, Bangladesh
-
-*2024-01-15 18:47:00 - [adaderanalk](https://www.adaderana.lk/news/96423/myanmar-rebel-group-claims-control-of-town-bordering-india-bangladesh)*
-
-An ethnic armed group in the western Myanmar state of Rakhine said it has taken control of a town bordering India and Bangladesh, marking the latest loss for the military government as it battles rebellion in several parts of the country.
-
-Myanmar is in the throes of an insurgency on multiple fronts, where allied anti-junta groups backed by a pro-democracy parallel government have seized control of several military posts and towns. It is the biggest challenge the junta has faced since it mounted a coup against an elected government in 2021.
-
-A spokesperson for the Arakan Army (AA) said late on Sunday it had conquered Paletwa, a port town on the Kaladan river that is key to trade with neighbouring countries.
-
-“Regarding border stability issues, we will cooperate at our best with neighbouring countries,” said AA spokesperson Khine Thu Kha in a statement, adding the group will take over administration and law enforcement in the area.
-
-A spokesperson for the junta did not respond to a request for comment. Reuters could not independently verify the AA’s claim.
-
-The fall of Paletwa in the west comes after another rebel group in the Three Brotherhood Alliance took Laukkai town on the in northern Shan State on the border with China.
-
-Last week, the junta agreed a ceasefire with that group, the TNLA, for the region bordering China. The talks were held in the Chinese city of Kunming and facilitated by Chinese officials.
-
-But on Sunday, the rebel alliance said junta forces are breaching the ceasefire agreement, launching attacks in several townships in Shan State.
-
-### Shritharan  Backed by Yoheswaran  Asks Sumanthiran not to Contest the ITAK President Election.
-
-*2024-01-15 18:18:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83440)*
-
-“Suma, Shri And Yohes In Triangular Contest For ITAK/FP Leadership” was the heading of my article published in the “Daily Mirror”of 16 December 2024. Ihe article  was about the forthcoming  election for the Ilankai Thamil Arasuk Katchi(ITAK) President post. The ITAK known as the Federal Party (FP) in English is the premier political Party of  the  Northern and Eastern  Tamils of  Sri Lanka.   Currently the ITAK/FP has six MPs in Parliament representing  the two Northern and three Eastern electoral districts.
-
-As stated earlier the ITAK’s long delayed party convention is scheduled for  January 27 and 28 this year in Trincomalee. A crucial change of leadership is on the cards as the current ITAK President Somasuntharam Senathirajah known as “Maavai” is on the verge of “compulsory  retirement”. “Maavai” has been ITAK President since 2014.
-
-Hence, a new President will be elected one week before   the convention  at a combined meeting of the ITAK “Podhu Sabhai”(General Council) and “Mathiya Seyal Kuzhu” (Central working Committee) to be held on 21 January in Trincomalee. Around 325  persons from the General council and 50 from the Central Working Committee will elect the new president.Voting is by secret ballot. Voting by proxy is not allowed.
-
-Three contenders are in the fray for the ITAK Presidency. The three aspirants to the ITAK leadership  mantle are Mathiaparanan Abraham Sumanthiran, Sivagnanam Shritharan and SeenithambyYoheswaran. As is well known, Sumanthiran and Shritharan are both Jaffna district MP’s while Yogeswaran is a former Batticaloa district Parliamentarian.
-
-The eldest of the competing trio, M A Sumanthiran  was  born in 1964 and is a lawyer by profession. He was first appointed as a national list MP in 2010. Subsequently he was elected to Parliament from the Jaffna district in the 2015 and 2020 elections.
-
-S. Shritharan was  born in 1968. He is a former teacher and school principal. Shritharan was elected successively to Parliament from the Jaffna district in the 2010, 2015 and 2020 elections.
-
-The youngest of the trio is S.Yoheswaran born in 1970. Yoheswaran’s vocation/profession  is social service.  Yoheswaran was elected from the Batticaloa district to Parliament in 2010 and 2015. He contested the 2020 polls but was not elected.
-
-The nomination procedure requires a  minimum of six members of the Central Working Committee  to propose a name with the prospective candidate’s consent. In this instance Sumanthiran’s name was proposed by twelve persons while Shritharan and Yoheswaran were nominated by six persons each. They were from Kilinochchi and Batticaloa district respectively. Sumanthiran was nominated by four persons from Jaffna district and one each from the Kilinochchi, Mannar, Mullaitheevu,Vavuniya,Trincomalee,Batticaloa, Amparai and Colombo districts respectively.
-
-The election to the party president post is  a “first” for the ITAK. Though the party constitution states an election must be held if there are two or more candidates, there has never been a presidential election in the ITAK’s 74 year old history. The Party’s co-founder and respected leader Samuel James Veluppillai Chelvanayagam venerated by his followers as “Thanthai Chelva” adopted the practice of   selecting a leader through a consensus among  senior leaders and obtaining approval from the rank and file at the party convention.
-
-An election of a president for the first time therefore is a refreshing  feature as it strengthens inner -party democracy. However there were many within and without the ITAK who feared that a competitive election could result in  the party breaking up. These  worries were compounded  by the veiled threats issued on behalf of a potential candidate by his supporters that their man would form a new party or join another party if he was not elected president. There was concern that the party would be divided.
-
-This writer too  had some concerns about an election. I felt that under prevailing circumstances , the holding of a presidential election could encourage fissiparous tendencies within the party and ultimately lead to fragmentation. The party could suffer a serious split. Besides an election could  create an opening for extraneous intervention by the global Tamil Diaspora, Elements in India and the Sri Lankan “deep state”
-
-As such  I urged well-intentioned ITAK stalwarts and well-wishers to intervene and bring about a compromise among the candidates thereby avoiding an election.
-
-I  called upon  ITAK leaders like Sampanthan, Maavai Senathirajah, CVK Sivagnanam, Kurukularajah to work positively and constructively in this regard. The ”Daily Mirror”article was translated into Tamil and published in Tamil newspapers. The feedback I received indicated that my viewpoint had struck a responsive chord in some   ITAK members, supporters and well-wishers.
-
-Initially  there were reports of the ITAK’s “emeritus leader”  Rajavarothayam Sampanthan writing a letter to current ITAK  president “Maavai”Senathirajah about the ITAK Presidential election. The Nonagenarian  Trincomalee MP does not hold any post in the ITAK now, but is respectfully referred to as “Perunthalaiver” (Great leader) by  the Tamil media. The Octogenarian  ”Maavai” Senathirajah who was Jaffna district MP for almost two decades, lost in 2020 and is no more an MP.
-
-“Maavai”  SEnathirajah has clung on to the ITAK presidency for nine years despite calls by many to relinquish his post and enable  new leaders  to take over. When Sampanthan became ITAK president in 2010, he served for two , two -year terms and let Senathirajah who was then  the general secretary become president in 2014.  Senathirajah who should have stepped down gracefully in 2018 did not do so. Instead he has hung on to the presidency by “hook or by crook”.  The ITAK Party convention was not held for several years so as to avert  the advent of a new president.
-
-Finally overwhelming pressure from the party rank and file compelled Senathirajah to comply with the demand for a party convention. When it became clear that there was going to be an election,  some had genuine  concerns about a party split as a result, “Maavai”  then suggested  that he should continue further as president instead of having an election. This was rejected by the party. Moreover the rival  candidates themselves   “united” on this issue and reiterated the call for an election.
-
-Under these circumstances, Sampanthan’s letter provided Maavai with another opportunity to remain in office as ITAK president. Sampanthan piqued with some ITAK partymen in Trincomalee alleged that elections for  branch leadership posts  in the district had not been done properly. (Sampanthan’s troubles with the ITAK in Trinco may be discussed in detail in a future article) As such he wanted the present branches to be dissolved and urged that the party convention should not be held until then.
-
-“Maavai” utilsed Sampanthan’s demand to his advantage. He suggested that the ITAK Convention be postponed indefinitely until Sampanthan’s grievances were redressed. Until then he Senathirajah would continue to be  the ITAK’s pro tem president. An ITAK Politbureau meeting was convened at Sampanthan’s Colombo residence on 10 January to discuss the issue.
-
-Meanwhile  Ex-MP Yoheswaran openly aligned with Shritharan and extended support to him in the  ITAK presidential hustings. This made the election a duel between Sumanthiran and Shrithaean.
-
-When the  ITAK politbureau met on  Jan 10th, Senathirajah was in for a surprise. Although the Politbureau meeting had been convened to discuss  matters like Sampanthan’s letter of complaint against the ITAK Trinco branches, postponng the Convention and endorsing  “Maavai” as pro tem ITAK president, those did not happen.
-
-Sampanthan pointedly refrained from discussing  the Trincomalee branch issue. Therefore the matters of postponing the convention and appointing  a pro tem president were not taken up for discussion. What  Maavai did not know was that three  concerned individuals all of them lawyers had visited Sampanthan at different times prior to the Politbureau meeting and discussed Sampanthan’s grievances. The “Perunthalaiver”was satisfied and a  compromise arrived at.. As a result  Sampanthan did not follow up his letter of complaint.
-
-The Politbureau therefore confirmed that the convention would take place. The President election would also be held. Nevertheless, some felt that an election should be averted and the party tradition of electing a president through a consensus should be  continued. Sampanthan too expressed the same sentiments. It appeared that most members of the Politbureau wanted the  candidates to arrive at an understanding and do away with an election. This placed the two main contenders in a delicate position. What was to be done?
-
-Sumanthiran then   stated that he was prepared to discuss the matter  the next day and possibly reach an understanding ,if  Shritharan and Yoheswaran were willing.  Both Shri and Yohes agreed. Sumanthiran then  suggested that all three of them meet the following day and  arrive at a compromise if possible. Thre was agreement and it was decided that Sumanthiran would  meet with Shritharan at the latter’s  residence in Madiwela. Yoheswaran was also staying there.
-
-The meeting took place on January 11th morning at Madiwela.  Sumanthiran began the talks by saying “let us discuss this matter in deference to the wishes of the Politbureau and reach a settlement”.Shritharan cut to the chase immediately by asking Sumanthiran to withdraw  and let him (Shri)become president. He would quit in two years and let Sumanthiran be president.
-
-Taken aback by this blunt “request” Sumanthiran asked Shritharan  why he was making this demand. Shritharan replied in Tamil “You once said that you will work with me as Party leader”. Sumanthiran then refreshed Shritharan’s memory by referring to the context in which he reportedly said this.
-
-“You had announced that you (Shritharan)were ready to take up the  leadership of the ITAK. The media asked me what my response was to your statement. I replied that I would be prepared to work under you if the party elected you as president. Subsequently you apologized to Senathirajah for making such a statement and declared that you wont be interested in a leadership position for five years” Sumanthiran reminded Shritharan
-
-Sumanthiran pointed out that Shritharan had not been elected president and therefore  the question of working under him did not arise. At this point Shritharan asked Sumanthiran why he wanted to be the ITAK president. “Why cant you let me be President this time and take over after me?” asked Shri.He also reiterated that the ITAK presidency could be shared by both on a rotational basis of two years each.
-
-Sumanthiran responded by saying that he was not interested in being president on a rotational basis. He said that the Tamil people were facing a huge crisis at present.  It was the ITAK that could provide positive leadership at this juncture. The party needed both change and continuity.
-
-The President’s counsel pointed out that he could provide both  change and continuity as he had been involved in every major  political initiative undertaken by the ITAK concerning the Tamil national question. He had participated in negotiations and discussions nationally and internationally. He  was in contact with many international leaders and officials. He had also handled legal matters in a number of issues affecting Tamils. Besides he  had good relations with a number of  political leaders from different parties said Sumanthiran
-
-Speaking further Sumanthiran said that on the strength of his background and experience ,he was  confident of leading the ITAK  successfully   in the near future. He said  that with the support of the party, he hoped to accomplish several things for the benefit of the Tamil people during his tenure.  Sumanthiran also said that he had publicly announced that he would retire from Politics when he reached 65 years and that he would be 60 next February. Therefore he was not going to be President for a long time.
-
-The  third candidate Yoheswaran was a silent listener to the conversation. At this juncture Yoheswaran got up and prepared to leave. Shritharan then  said let the election take place and ended the discussion. Sumanthiran left. The discussion did not take more than 20 minutes. Consequently both Sumanthiran and shritharan spoke to Tamil media outlets and said that the party would elect the new president.
-
-The stage therefore is set for  the ITAK presidential election on 21 January. One of the three candidates Yoheswaran has thrown in his lot with  another candidate  Shritharan. The election will therefore be a duel between Sumanthiran and Shritharan. The  fate of the ITAK presidential election will greatly determine the future course of Tamil  Nationalist politics in Sri Lanka.
-
-This Article appears in the “DBS Jeyaraj Column”in the “Daily Mirror”dated 13 January 2024.It can be accessed here =-
-
-### Yohani…doing it with Waves
-
-*2024-01-15 18:10:00 - [islandlk](http://island.lk/yohanidoing-it-with-waves/)*
-
-Yohani de Silva, who came into the spotlight with her remake of ‘Manike Mage Hithe,’ released her very first album, ‘Kella,’ in December, 2023.
-
-‘Kella’ contains 14 tracks, including three songs in English – ‘Submerged,’ ‘Free To Love’ and ‘Cold Sunday.’
-
-Coinciding with the dawn of 2024, Waves, a local brand of footwear, challenged 50 influencers to dance to Yohani’s newest hit single, ‘Kella,’ at the Waves concept store and pick up a new pair of Waves for the new year.
-
-Adding colour to the challenge, Yohani surprised fans at the Waves concept store and took time to interact with her fans.
-
-Yohani shifts base to Mumbai, learning Hindi, but misses her family
-
-Sri Lanka takes the limelight in Bollywood and Sandalwood Cinemas with Yohani
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### சிறுவனின் விரலை துண்டித்தவருக்கு விளக்கமறியல்
-
-*2024-01-15 17:16:43 - [tamilmirrorlk](https://www.tamilmirror.lk/மேல்-மாகாணம்/சிறுவனின்-விரலை-துண்டித்தவருக்கு-விளக்கமறியல்/95-331539)*
-
-14 வயதான சிறுவனை கத்தியால் கொத்தி,  கைவிரல் துண்டிக்கப்பட்ட நிலையில் 11 நாட்களாக தலைமறைவாக இருந்த ராகம பிரதேசத்தைச் சேர்ந்த நபரை எதிர்வரும் 19ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு வெலிசர நீதவான் துசித தம்மிக்க உடுவவிதானன திங்கட்கிழமை (15) உத்தரவிட்டுள்ளார்.
-
-ராகம பொலிஸ் உத்தியோகத்தர்கள் விடுத்த கோரிக்கையை ஏற்றுக்கொண்ட நீதவான், சிறுவனின விரலை துண்டாக்க பயன்படுத்தி  கத்தியை கண்டுபிடிக்க விசாரணை நடத்துமாறும் உத்தரவிட்டார்.
-
-ராகம பொடி என்றழைக்கப்படும் குர பிரதேசத்தை சேர்ந்த மூன்று பிள்ளைகளின் தந்தையான  டிலாருக் பிரசாந்த சில்வா என்பவரே  இவ்வாறு விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
-
-சம்பவம் தொடர்பான விசாரணைகளின் முன்னேற்றம் குறித்து அறிக்கை சமர்ப்பித்த ராகம பொலிஸ் அதிகாரிகள்,
-
-ஜனவரி 4 ஆம் திகதி இரு தரப்பினருக்கும் இடையில் ஏற்பட்ட தகராறு காரணமாக சந்தேகநபர் தனது அயல் வீட்டில் வசித்த 14 வயதுடைய சிறுவனை கத்தியால் குத்தியதாக தெரிவித்துள்ளனர். சிறுவனின் இடது கையில்   ஒரு விரல் முற்றாக துண்டிக்கப்பட்டது.
-
-மருத்துவமனையில் அனுமதிக்கப்பட்டு சத்திரசிகிச்சைக்கு உட்படுத்தப்பட்ட பின்னர் அவருக்கு உள்நோயாளியாக சிகிச்சை அளிக்கப்பட்டதாகவும் தெரிவிக்கப்பட்டுள்ளது.
-
-சிறுவன் வைத்தியசாலையில் இருந்து வெளிவந்த பின்னர், கடந்த 13ஆம் திகதி வரை பொலிஸில் ஆஜராகாத சந்தேக நபர்,  வைத்தியசாலையில் இருந்து சிறுவன் விடுவிக்கப்பட்ட பின்னர் பொலிஸில் சரணடைந்தார். அதன்பின்னரே கைது செய்யப்பட்டார் என நீதிமன்றத்துக்கு அறிவித்தனர்.
-
-பாதிக்கப்பட்ட சிறுவனின் சார்பில் ஆஜரான சட்டத்தரணி  ஷ்ரமிந்திர சொய்சா, சிரேஷ்ட அதிகாரியொருவர் புலனாய்வு அதிகாரிகளுக்கு பிரயோகித்த அழுத்தத்தின் காரணமாக முன்னர் கைது செய்யப்பட்ட சந்தேகநபரை விடுவிக்க பொலிஸார் நடவடிக்கை எடுத்ததாக தெரிவித்தார்.
-
-விரலை இழந்த இச்சிறுவனை போதைப்பொருள் வழக்கில் குற்றஞ்சாட்டி கைது செய்வதற்கு முயற்சிகள் மேற்கொள்ளப்படுவதாக தனக்கு தகவல் கிடைத்துள்ளதாகவும், பாதிக்கப்பட்டவருக்கு  நீதி கிடைக்குமாறும் சட்டத்தரணி  ஷ்ரமிந்திர சொய்சா கோரிக்கை விடுத்துள்ளார்.
-
-அனைத்து வாதப்பிரதிவாதங்களை கருத்திற்கொண்ட நீதவான், சந்தேக நபரை விளக்கமறியலில் வைத்ததுடன், சம்பவம் தொடர்பான விசாரணைகளின் முன்னேற்றத்தை எதிர்வரும் 19ஆம் திகதி நீதிமன்றத்தில் அறிவிக்குமாறும்,   பொலிஸாருக்கு உத்தரவிட்டார்.
-
-### Sri Lanka revises import duties for 1,222 items under Singapore FTA
-
-*2024-01-15 16:34:00 - [economynextcom](https://economynext.com/sri-lanka-revises-import-duties-for-1222-items-under-singapore-fta-147311/)*
-
-ECONOMYNEXT – Sri Lanka has published import duties of up to 20 percent applied to 1,222 items under a free trade agreement with Singapore.
-
-Sri Lanka usually has a negative list for imports in trade deals.
-
-In addition, so-called para tariffs, such as the Sri Lanka’s Airport Levy as well as an import CESS is also charged from some goods.
-
-Excessively high import duties on some items, imposed to give artificially high profits to politically connected producers while harming consuemrs, have led to undervaluation and corruption, critics say.
-
-### Exam centre chief’s peon arrested over 2023 A/L exam paper leak
-
-*2024-01-15 16:33:00 - [adaderanalk](https://www.adaderana.lk/news/96421/exam-centre-chiefs-peon-arrested-over-2023-al-exam-paper-leak)*
-
-The Criminal Investigations Department (CID) has arrested another individual on suspicion of being involved in the incident of several questions of the 2023 G.C.E. Advanced Level examination’s Agricultural Science I & II question papers allegedly being leaked prior to the exam.
-
-The 38-year-old male suspect had served as the peon of the exam centre chief at the A/L examination centre established at the Moratuwa Maha Vidyalaya, Police Media Spokesman SSP Nihal Thalduwa said.
-
-On Sunday (14), the A/L Agricultural Science teacher of a popular government school in Ampara was arrested by the CID in relation to the same incident. The police also found the 2023 G.C.E Advanced Level examination’s Agricultural Science I & II question papers written in his own handwriting at his house.
-
-The 52-year-old male teacher reportedly also conducts tuition classes for A/L students, according to police.
-
-He was ordered to be remanded in custody until 26 January 2024, after he was produced before the Ampara Magistrate’s Court.
-
-On Friday (Jan. 12), the Department of Examinations decided to cancel the 2023 G.C.E. Advanced Level examination’s Agricultural Science I & II question papers, due to reports that several questions of the paper had been leaked prior to the exam.
-
-Accordingly, the relevant test paper, which students sat for on 10 January, had been deemed invalid by the Department of Examinations on account of numerous questions included in the paper having been leaked before the exam date.
-
-The Department of Examinations announced that the date for the rescheduled paper would be notified later.
-
-### நீர்க் கட்டணத்தைக் குறைக்க முடியும்;ஜீவன்
-
-*2024-01-15 16:25:17 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/நீர்க்-கட்டணத்தைக்-குறைக்க-முடியும்-ஜீவன்/175-331536)*
-
-மின்சாரக் கட்டணக் குறைப்புக்கு அமைவாக நீர்க் கட்டணத்தைக் குறைக்கும் வகையில் நீர் கட்டணச் சூத்திரமொன்றை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்படும் என நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்துள்ளார்.
-
-தேசிய நீர் வழங்கல் வடிகாலமைப்புச் சபை மற்றும் ஆசிய அபிவிருத்தி வங்கியின் (ADB) ஆலோசகர்களுடன் கலந்தாலோசித்து விலைச் சூத்திரம் வகுக்கப்படும் என அமைச்சர் தெரிவித்தார்.
-
-பேராதனைப் பல்கலைக்கழகத்தில் இடம்பெற்ற சந்திப்பின் போது, ​​மின் கட்டணம் அடுத்த மாதம் குறைக்கப்படும் என மின்சக்தி அமைச்சர் உறுதியளித்துள்ளதாகவும், நீர் விநியோகச் செலவு குறைவதால், அதற்கேற்ப நீர்க் கட்டணத்தையும் குறைக்கலாம் என்றும் அவர் தெரிவித்தார்.
-
-2019 ஆம் ஆண்டு ஜனவரி மாதம் மின்சாரக் கட்டணம் 66 வீதத்தால் அதிகரிக்கப்பட்ட போது நீர்க் கட்டணம் அதிகரிக்கப்பட்டதாகத் தெரிவித்த அவர், மின்சாரக் கட்டணம் 50 வீதத்தால் குறைக்கப்படும் போது கணிசமான அளவு நீர்க் கட்டணத்தைக் குறைக்க முடியும் என்றும் தெரிவித்தார்.
-
-### Derailment disrupts train services on Up-country Line
-
-*2024-01-15 16:19:00 - [adaderanalk](https://www.adaderana.lk/news/96420/derailment-disrupts-train-services-on-up-country-line)*
-
-The special express train operating from Badulla to Kandy has derailed between the Nanu Oya and Great Western railway stations, the Department of Railways said.
-
-As a result, the trains operating on the Up-country Line, which are passing through the relevant section of the railway line may experience delays, the department announced.
-
-### Passenger bus catches fire on Southern Expressway
-
-*2024-01-15 16:09:00 - [adaderanalk](https://www.adaderana.lk/news/96419/passenger-bus-catches-fire-on-southern-expressway)*
-
-A passenger transport bus has caught fire near the Beliatta interchange on the Southern Expressway this evening (15), the police said.
-
-Police stated that the bus had been completely destroyed due to the fire, and that no passengers were injured in the incident.
-
-The passenger bus was believed to be travelling from Badulla to Colombo, the Expressway Police said.
-
-The cause of the fire has not been ascertained as of yet, while further investigations are being carried out by the Expressway Police in Angunukolapelessa.
-
-### பதுளைக்கு பயணித்த பஸ் பற்றி எரிந்தது
-
-*2024-01-15 15:34:10 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பதுளைக்கு-பயணித்த-பஸ்-பற்றி-எரிந்தது/175-331535)*
-
-தெற்கு அதிவேக நெடுஞ்சாலையில் பெலியத்த நுழைவாயிலுக்கு அருகில் இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பேருந்து ஒன்று தீப்பிடித்து எரிந்துள்ளது.
-
-தீப்பற்றி எரிந்த பேருந்தில் இருந்தவர்கள் அனைவரும் பேருந்தில் இருந்து வெளியேற்றப்பட்டனர் மற்றும் பயணிகள் யாருக்கும் காயம் ஏற்படவில்லை.
-
-பஸ் முற்றாக தீப்பிடித்து எரிந்ததுடன் பொலிஸ் விசேட அதிரடிப்படையினர் தீயை அணைக்கும் பணியில் ஈடுபட்டனர்.
-
-இதன் காரணமாக பெலியத்த நுழைவாயிலில் இருந்து சகல நுழைவாயில் வரையான நெடுஞ்சாலைப் பகுதி மூடப்பட்டுள்ளதுடன், சகல நுழைவாயிலில் இருந்து வெளிவரும் வாகனங்கள் மீண்டும் பெலியத்த நுழைவாயிலில் நுழையும் என பொலிஸார் தெரிவித்தனர்.
-
-கொழும்பில் இருந்து பதுளையை நோக்கி பயணித்த அதிசொகுசு பேருந்தே இவ்வாறு தீப்பிடித்து எரிந்துள்ளது.
-
-### Int’l rights groups urge govt to stop ‘abusive anti-drug operation’ and release arbitrary detainees
-
-*2024-01-15 15:34:00 - [adaderanalk](https://www.adaderana.lk/news/96418/intl-rights-groups-urge-govt-to-stop-abusive-anti-drug-operation-and-release-arbitrary-detainees-)*
-
-Over 30 international human rights organisations including Amnesty International, Human Rights Watch and the International Commission of Jurists have expressed their deep concern regarding the “drastic intensification” of anti-drug operations in Sri Lanka leading to significant human rights violations.
-
-Issuing a joint statement, the 33 international organizations demand the Sri Lankan government to stop the ‘abusive anti-drug operation’ and release the arbitrarily detained individuals.
-
-Furthermore, the statement highlights that this operation is unfolding in a context of already severe repression against persons who use or are suspected of using drugs, and who suffer discrimination and stigma within the Sri Lankan criminal justice system and society.
-
-“Alongside the Sri Lankan police, members of the armed forces have been supporting this operation, during which several human rights violations have been reported. These violations include alleged arbitrary arrests, primarily against individuals from marginalised socio-economic communities; searches conducted without warrants or reasonable suspicion; and degrading treatment including strip searches in public as well as cavity searches. The searches and arrests have been televised, in violation not only of the right to privacy (and of basic human dignity) but also of a person’s right to be presumed innocent”, the joint statement added.
-
-The global organizations, which also point out that according to lawyers, persons are being arrested even when no drugs are found in their possession, simply for having been arrested for drug offences or having been sent to compulsory rehabilitation in the past, mention that the arrests of main livelihood earners and mothers have adversely impacted the ability of families to meet their basic needs during a time of economic crisis in Sri Lanka, and the wellbeing of children.
-
-“Persons are being arrested primarily under Section 54A of the Poisons, Opium and Dangerous Drugs Ordinance, an offence which is non-bailable. As a result, those arrested are bound to spend time (sometimes months) in pretrial detention, thereby exacerbating already poor conditions of imprisonment in an overburdened prison system.”
-
-Furthermore, the statement has drawn attention to the fact that the level of overcrowding of the prison system is at nearly 200% - with punitive drug policies playing a significant role: as of 2022, 63% of convicted persons were sentenced for drug-related offences, as per the statistics issued by the Department of Prisons.
-
-The aforesaid organizations have also expressed in this joint statement that the total number of arrests pursuant to operation Yukthiya has exceeded 29,000 as of 9 January 2024, while nearly 1,500 people are in administrative detention in police custody for further investigation and at least 1,600 more persons have been sent for compulsory drug rehabilitation, “in violation of several fundamental rights; including the right to the highest attainable standard of health, which includes the right to consent to and withdraw from medical treatment”.
-
-“‘Drug treatment’ in these centres is abstinence-based, essential harm reduction services are not available, and persons undergo severe withdrawal symptoms without any medical assistance while in detention.”
-
-“The use of violence to discipline and punish has been reported in at least two compulsory drug rehabilitation centres which are within the purview of the Bureau of the Commissioner General for Rehabilitation and are operated by the military, which is in itself a violation of international standards”, it added.
-
-“The UN Working Group on Arbitrary Detention in its statement at the conclusion of its visit to Sri Lanka 2017expressed concern regarding the involvement of military personnel in drug treatment and rehabilitation, the fact that strenuous physical exercise was the core component of compulsory drug treatment, and at the lack of trained professionals to monitor the health of people in detention. Furthermore, the statement highlighted the irregularities in the judicial process by which persons were sent to drug rehabilitation centres without a medical assessment”, the statement mentioned.
-
-In addition, the organizations say that since the 2016 UN General Assembly Special Session on drugs, there is international consensus on pursuing a holistic and health and human rights-based approach to drugs, which encompasses supply and demand reduction as well as harm reduction.
-
-“The 2019 Ministerial Declaration on drugs – the current global drug policy document - as well as multiple resolutions of the UN General Assembly, the UN Commission on Narcotic Drugs, and the UN Human Rights Council reiterate and recommend a similar approach”, it added.
-
-Further, the joint statement clarified: “a punitive and militarised approach to drug control contravenes recognised international human rights standards and guidelines, is ineffective to protect individual and public health, and ultimately fails to make communities safer”.
-
-Thereby, the 33 global organizations call upon the Government of Sri Lanka to immediately cease operation “Yukthiya” and release persons who have been arrested without evidence or reasonable suspicion. The government should ensure that those arrested who do not have access to legal representation are provided legal aid, they stressed.
-
-Through the statement, it is also demanded to immediately release persons arrested or sent to compulsory drug rehabilitation for using drugs/having a drug dependence, cease involving the armed forces in drug control and treatment activities as consistent with human rights law, repeal laws that allow compulsory drug rehabilitation, close compulsory treatment centres and release persons presently held at the centres within the purview of the Bureau of Commissioner General for Rehabilitation.
-
-Additionally, they have called the government to ensure that any law enforcement operation to address the supply side is conducted respecting due process standards and constitutionally protected fundamental rights.
-
-1. Africa Network of People Who Use Drugs (AfricaNPUD) (Africa)
-
-23. International Network of People who Use Drugs (INPUD) (Global)
-
-### ’அவலோகிதேஸ்வர போதிசத்வா’ கைது
-
-*2024-01-15 15:26:54 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/அவலோகிதேஸ்வர-போதிசத்வா-கைது/175-331534)*
-
-இலங்கையில் 'அவலோகிதேஸ்வர போதிசத்வா' என தன்னைத் தானே அறிவித்துக் கொண்ட மகிந்த கொடித்துவக்கு பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
-
-‘அவலோகிதேஸ்வரர்’ என்று கூறிக்கொள்ளும் குறித்த நபர் பன்னிபிட்டியவில் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார் என பொலிஸார் தெரிவித்தனர்.
-
-கடந்த வாரம் கொடித்துவக்குவிற்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது, ​​கோட்டை நீதவான் நீதிமன்றினால் அவருக்கு  பயணத்தடை விதிக்கப்பட்டது.
-
-மேலும் அவரது வங்கிக் கணக்குகளை விசாரிக்குமாறும் கோட்டை நீதவான் நீதிமன்றம் உத்தரவு பிறப்பித்துள்ளது.
-
-பௌத்த மதத்திற்கு எதிரான மதச் செயல்களில் ஈடுபட்டதாக மஹிந்த கொடித்துவக்கு  மீது குற்றம் சுமத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-### කන්දකාඩුවෙන් පැන්න තවත් 12ක් අතුරුදන්
-
-*2024-01-15 15:19:50 - [adalk](https://www.ada.lk/breaking_news/කන්දකාඩුවෙන්-පැන්න-තවත්-12ක්-අතුරුදන්/11-407563)*
-
-වැලිකන්ද කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ පුනරුත්ථාපන වෙමින් සිටි තවත් තිදෙනෙකු 14 වෙනිදා  රාත්‍රියේ පලාගොස් පුනරුත්ථාපන මධ්‍යස්ථාන ආසන්නයේදී සැඟව සිටියදී ඉන් රැඳවියන් දෙදෙනකු යුද හමුදාව මගින් අත්අඩංගුවට ගෙන ඇති බව වැලිකන්ද පොලිසිය සඳහන් කරයි.
-
-එලෙස පලාගිය රැඳවියන් මුලතිව් ප්‍රදේශයේ පදිංචිකරුවන් වන අතර ඔවුන් තෛපොංගල් උත්සවය සැමරීමට පලායන්නට ඇති බවට වැලිකන්ද පොලිසිය සැක පල කරයි.
-
-ඒ අනුව වැලිකන්ද කන්දකාඩු පුනරුත්ථාපන කඳවුරෙන් පලාගොස් මේ වනවිට අතුරුදහන්ව ඇති සංඛ්‍යාව දොළහ දක්වා වැඩි වී ඇති බවද වැලිකන්ද පොලිසිය පවසයි.
-
-පසුගිය දොළොස්වෙනිදා කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ රැඳවියන් දෙපිරිසක් ආහාර ගැටලුවක් මුල් කරගනිමින් ගල්, මුගුරු, සහ පොලු වලින් පහරදී ගැටුමක් ඇතිකර ගත් අතර එම ගැටුම අතරතුරු
-
-රැඳවියන් අනුදෙදෙනකු පලාගොස් සිටියදී පොලිසිය යුද හමුදාව එක්ව දියත් කළ මෙහෙයුමකදී අසූඑක් දෙනෙකු අත්අඩංගුවට ගනු ලැබූහ.
-
-එලෙස අත්අඩංගුවට ගත් පිරිසෙන් කිහිපදෙනෙකු වවුනියාව පුනරුත්ථාපන මධ්‍යස්ථානයටත් තවත් පිරිසක් කන්දකාඩු හා සේනපුර පුනරුත්ථාපන මධ්‍යස්ථානයටත් බාර දීමට වැලිකන්ද හා පුලස්තිපුර පොලිසිය  පොලිසිය කටයුතු කළහ.
-
-කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ පසුගිය දොළොස් වෙනිදා ඇති වූ සිද්ධියත් සමග අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා එම පුනරුත්ථාපන මධ්‍යස්ථානයේ සියළු නිලධාරීන් මාරු කිරීමට පියවර ගත් අතර එම මධ්‍යස්ථානය තුළ සිටින රැඳවියන් සඳහා  ආරක්ෂාව සඳහා වැඩපිළිවෙළක් ක්‍රියාත්මක කිරීමට කටයුතු කරනු ඇති බවට මාධ්‍ය වෙත අදහස් දක්වමින් සඳහන් කළේය.
-
-කන්ඩකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ ජ්‍යෙෂ්ඨ රැඳවියන්, නවක රැඳවියන්ට විවිධ අඩත්තේට්ටම් කිරීම හේතුවෙන් පසුගිය දොළොස්වැනිදා ඇති වූ ආහාර ගැටලුවක් මුල් කර ගනිමින් එම ගැටුම වර්ධනය වූහ.
-
-වැලිකන්ද කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයෙන් පලාගොස් සිටියදී යුද හමුදාව සහ පොලිසිය එක්ව ක්‍රියාත්මක කර මෙහෙයුමෙන් අත්අඩංගුවට ගත් රැඳවියන් කිහිපදෙනෙකුට අධිකරණ ක්‍රියාමාර්ගගෙන තිබෙන අතර මේ වන විට තත්ත්වය පාලනය කර ඇති බවද කන්දකාඩු  පුනරුත්ථාපන මධ්‍යස්ථානයේ හමුදා නිලධාරියෙකු සඳහන් කළේය.
-
-මේ වනවිට කන්දකාඩු  පුනරුත්ථාපන මධ්‍යස්ථානයේ රැඳවියන් තුන්සිය අනූදෙදෙනකු පමණ පුනරුත්ථාපනය වෙමින් සිටිති.
-
-### Man Posing as Avalokiteshwara Arrested in Sri Lanka
-
-*2024-01-15 15:18:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/man-posing-as-avalokiteshwara-arrested-in-sri-lanka/)*
-
-COLOMBO (News 1st); A man impersonating the deity Avalokiteshwara was apprehended by a special team of the Sri Lankan Criminal Investigation Department (CID) in the Pannipitiya area this afternoon.
-
-The suspect, identified as Mahinda Kodituvakku, faces charges of money laundering.
-
-Details surrounding Kodituvakku's modus operandi and the alleged money laundering activities are under investigation by the CID.
-
-Protests as Activists Accuse Former Health Minister of Pharma Fraud

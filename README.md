@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 09:27:58**
+As of **2024-01-16 10:27:43**
 
 ## Newspaper Stats
 
@@ -378,7 +378,7 @@ India’s Adani group is building a container terminal in Colombo Port, where Ch
 
 India’s Adani group is building some renewable plant in the island. Concerns have been raised that some of the renewable plants under negotiations are not coming from competitive tenders.
 
-Sri Lanka blocked a Chinese power sector investments in the North which came fro competitive tendering, reportedly under Indian pressure. (Colombo/Jan15/2023)
+Sri Lanka blocked a Chinese power sector investments in the North which came fro competitive tendering, reportedly under Indian pressure.
 
 ### Person remanded over sword attack on teenager in Ragama
 
@@ -652,7 +652,9 @@ In March the surrender rule was lifted and under his watch the rupee appreciated
 
 Since then, the rupee has fluctuated between 320 to 330 to the US dollar under muted private credit conditions and largely deflationary policy (central bank selling down its Treasuries stock and withdrawing liquidity from dollar purchases).
 
-Analysts have however warned that when private credit picks up, the central bank in the past has resumed inflationary policy to suppress rates, losing its ability to collect reserves, triggering depreciation, and social unrest through rising energy and food prices and long run higher nominal rates. (Colombo/Jan15/2024)
+Analysts have however warned that when private credit picks up, the central bank in the past has resumed inflationary policy to suppress rates, losing its ability to collect reserves, triggering depreciation, and social unrest through rising energy and food prices and long run higher nominal rates.
+
+Sri Lanka’s rupee, and currencies of most other countries that became unstable, started to fall steeply after the International Monetary Fund’s Second Amendment to its articles in 1978, which left countries without a credible anchor (or peg) for money allowing bureaucrats to choose bad ones and depreciate at will. (Colombo/Jan15/2024)
 
 ### Kerala cannabis worth over Rs. 02 million held in Jaffna
 
@@ -1464,6 +1466,8 @@ Thondaman said the goal of the reforms was to create a more sustainable water se
 
 ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
 
+ලොව පුරා පලස්තීන සරණාගතයින් කීදෙනෙකු වාසය කරනවා ද? පලස්තීන ඩයස්පෝරාව කොතරම් විශාල ද?
+
 ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
 
 ### Health sector employees to go on strike tomorrow
@@ -1799,6 +1803,8 @@ Misty conditions can be expected in most provinces in the island during the morn
 බදු හිමියා විසින් ගැටලුව විසදා ගැනීමට කටයුතු කරන අවස්ථාවක කල්බදු ආයතනය දිගින් දිගටම එය නොසලකා හරින්නේ නම්, ඒ බව ශ්‍රී ලංකා මහ බැංකුවේ මූල්‍ය පාරිහෝගික සබඳතා දෙපාර්තමේන්තුව වෙතත්, මූල්‍ය ඔම්බුඩ්ස්මන්වරයාටත් පැමිණිලි කළ හැකි අතර, එම ආයතනයන්ට අදාළ මූල්‍ය ආයතන පිළිබඳ ඕනෑම පැමිණිල්ලක් සහ ආරවුලක් පිළිබඳව විමසා බලා විසඳීමට බලය ඇත.
 
 ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
+
+ලොව පුරා පලස්තීන සරණාගතයින් කීදෙනෙකු වාසය කරනවා ද? පලස්තීන ඩයස්පෝරාව කොතරම් විශාල ද?
 
 ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
 

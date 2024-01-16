@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 21:27:48**
+As of **2024-01-16 22:27:51**
 
 ## Newspaper Stats
 
@@ -22,13 +22,157 @@ As of **2024-01-16 21:27:48**
 
 * dailyftlk: 97
 
-* adalk: 109
-
 * dbsjeyarajcom: 112
 
-* **Total**: **639**
+* adalk: 115
+
+* **Total**: **645**
 
 ## Latest Articles (100)
+
+### ලංකාවේ අතිරික්ත විදුලිය ඉදිරියේදී ඉන්දියාවේ දකුණු කලාපයට
+
+*2024-01-16 19:59:52 - [adalk](https://www.ada.lk/breaking_news/ලංකාවේ-අතිරික්ත-විදුලිය-ඉදිරියේදී-ඉන්දියාවේ-දකුණු-කලාපයට/11-407585)*
+
+ශ්‍රී ලංකාවේ පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ ආයෝජන සඳහා සුදුසුම කාලය මෙයයි
+
+ඉදිරි දශක කිහිපය තුළ ආයෝජනවල ප්‍රතිලාභ සියලු දෙනාට නිසැකවම හිමි වෙනවා.
+
+දේශගුණික විපර්යාස අවම කිරීම සඳහා ගෝලීය ක්‍රියාමාර්ග වේගවත් කිරීමේ හදිසි අවශ්‍යතාවයක් මතුව තිබෙනවා.
+
+කැපවීම්වලට වඩා ක්‍රියාමාර්ග අවම මට්ටමක පැවතීම කණගාටුවට කරුණක් – ජනපති ස්විස්ටර්ලන්ත හරිත තාක්ෂණ සංසදය අමතමින් අවධාරණය කරයි
+
+ශ්‍රී ලංකාවේ පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ ආයෝජනය කිරීමට සුදුසුම කාලය මෙය වන බවත්, ඉදිරි දශක කිහිපය තුළ එම පාර්ශ්වකරුවන්ට මෙන්ම ශ්‍රී ලාංකීය පාරිභෝගික ජනතාවට ද එමගින් සැලකිය යුතු ප්‍රතිලාභ අත්වන බවට කිසිදු සැකයක් නොමැති බවත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+
+ඒ සඳහා ඉදිරිපත්වන ආයෝජකයන්ට පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රය තුළ ඉහළ මට්ටමේ සහ වෙනස් නොවන ප්‍රතිපත්තියක් ශ්‍රී ලංකා රජය සහතික කරන බවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කළේ ස්විස්ටර්ලන්තයේ ඩාවෝස් නුවර ඊයේ (15) පැවති “හරිත තාක්ෂණ සංසදය” (Green Tech Forum) අමතමිනි. ස්විස් – ආසියානු වාණිජ මණ්ඩලය විසින් මෙය සංවිධානය කර තිබිණි.
+
+“බලශක්තියෙන් සුරක්‍ෂිත ශ්‍රී ලංකාවක් කරා මාවත සැකසීම” යන තේමාව යටතේ සිය දේශනය සිදු කළ ජනාධිපතිවරයා පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ ශ්‍රී ලංකාව තුළ ඇති ඉහළ විභවය මෙන්ම පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රය වෙනුවෙන් ප්‍රශස්ත ආයෝජන සහිත වාතාවරණයක් ඇතිකිරීම වෙනුවෙන් පසුගිය වසර 2 තුළ රජය විසින් ගත් පියවර ද අනාවරණය කළේය.
+
+දේශගුණික විපර්යාස අවම කර ගැනීමේ දී ශ්‍රී ලංකාවේ කැපවීම අවධාරණය කළ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඩුබායි හි පැවති COP28 සමුළුවට ඉදිරිපත් කළ “නිවර්තන කලාපීය මුලපිරීම” ඇතුළු අනෙකුත් ක්‍රියාමාර්ග පිළිබඳව ද පැහැදිළි කළේය.
+
+ශ්‍රී ලංකාවට සිය තිරසර, හරිත සංවර්ධන න්‍යාය පත්‍රය ඉටු කර ගැනීම සඳහා බලාපොරොත්තු සහගත සැලසුම් තිබෙන බවත් 2050 වන විට ශුද්ධ ශුන්‍ය විමෝචන තත්ත්වය ළඟා කර ගැනීම සඳහා ශ්‍රී ලංකාව කැපවී සිටින බවත් ජනාධිපතිවරයා අවධාරණය කළේය.
+
+කඩිනම් පුනර්ජනනීය බලශක්ති සැලැස්ම මෙම සමස්ත ප්‍රයත්නයේ ප්‍රධාන අංගයක් වන අතර එය බලශක්ති සුරක්ෂිතභාවය කරා යන මාවතේ ද අත්‍යවශ්‍ය පියවරක් බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේය.
+
+මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිදු කළ සම්පූර්ණ කථාව මෙසේය,
+
+මෙම දේශනය සිදු කිරීම සඳහා මා වෙත ආරාධනා කිරීම පිළිබඳව ස්විට්සර්ලන්ත – ආසියානු වාණිජ මණ්ඩලයට සහ මෙම උත්සවය සංවිධානය කළ සියලුදෙනාට ස්තූතිවන්ත වෙනවා.
+
+දේශගුණික විපර්යාස අවම කිරීම සඳහා ගෝලීය ක්‍රියාමාර්ග වේගවත් කිරීමේ හදිසි අවශ්‍යතාවයක් මතුව තිබෙනවා. මේ සඳහා විවිධ අයුරින් කැපවීම් සිදු කර ඇති ගෝලීය සංසද කිහිපයක් තිබෙනවා. කෙසේ වෙතත් මේ පිළිබඳ කැපවීම්වලට වඩා ක්‍රියාමාර්ග ගැනීම අවම මට්ටමක පවතින බව කිවයුතුයි.
+
+ගෝලීය නායකත්වය තුළ පවතින මෙම අසාර්ථකත්වය හේතුවෙන් ඇතිවන ප්‍රතිවිපාක බොහෝ දුරට ගෝලීය දකුණේ සංවර්ධනය වෙමින් පවතින රටවලට දැරීමට සිදුවී තිබෙනවා.
+
+කෘෂිකාර්මික නිෂ්පාදනය අඩාල කරමින් නියං කාලසීමාව සාමාන්‍ය කාලසීමාවට වඩා දීර්ඝ වන විට අපගේ ආහාර සුරක්ෂිතතාව අනතුරේ වැටෙනවා. එසේම මෝසම් වැසි ප්‍රමාද වීම නිසා ජල විදුලි ජනනයට බාධා ඇතිවන විට අපේ බලශක්ති සුරක්ෂිතතාව අවදානමට ලක්වනවා.
+
+බොහෝවිට නියඟය අවසානයේ ගංවතුර තත්ත්වයන් ඇතිවෙනවා. විශේෂයෙන්ම එය සාමාන්‍ය ජන ජීවිතය මෙන්ම ඔවුන්ගේ ජීවනෝපායන් ද කඩාකප්පල් කරනවා.සංවර්ධනය වෙමින් පවතින රටවලට මෙම දේශගුණික විපර්යාස හේතුවෙන් ඇතිවන අහිතකර ප්‍රතිඵල මඟින් සිදුවන බලපෑම අසමානුපාතික බව මෙයින් ඉතා පැහැදිලියි.
+
+මෙමගින් දේශගුණික යුක්තිය පිළිබඳ ප්‍රශ්නය සඳහා මෙන්ම ගෝලීය දකුණේ රටවලට දේශගුණික විපර්යාස සඳහා අනුවර්තනය වීමේ සහ ඒවා අවම කිරීමේ ප්‍රයත්නයන් වෙනුවෙන් දියුණු ආර්ථිකයන්ගෙන් සිදු විය යුතු වඩාත් ප්‍රබල දායකත්වයක අවශ්‍යතාවය පෙන්නුම් කරනවා.
+
+ශ්‍රී ලංකාව දේශගුණික විපර්යාස අවම කිරීම සඳහා කැපවී සිටින බව අවධාරණය කළ යුතුයි. ඩුබායි හි පැවති COP28 සමුළුවේදී අප “නිවර්තන කලාපීය මුලපිරීම” ද ආරම්භ කළා. මෙමඟින් නිවර්තන කලාපයේ රටවල වනාන්තර, බලශක්තිය, සාගර, කඩොලාන පරිසර පද්ධතින් තුළ පෞද්ගලික ආයෝජන සඳහා උත්ප්‍රේරණයක් ඇති කිරීම සඳහා වැඩපිළිවෙලක් නිර්මාණය කරනවා.
+
+එවැනි ප්‍රයත්නයන්හි එක් ප්‍රධාන අංගයක් වන පුනර්ජනනීය බලශක්තිය සඳහා අපගේ ඇති උත්සාහය පිළිබඳව මම ඔබගේ අවධානයට යොමු කිරීමට කැමතියි.
+
+ශ්‍රී ලංකාව පුනර්ජනනීය බලශක්තිය පිළිබඳ දීර්ඝ ඉතිහාසයක් ඇති රටක් බව ඔබ දන්නවා. නිදහසින් පසු ශ්‍රී ලංකාව ජල විදුලි බලය සඳහා පුළුල් ජාලයක් නිර්මාණය කළ අතර 1950 වර්ෂයේදී එහි පළමු ප්‍රධාන ජල විදුලි බලාගාරය ආරම්භ කළා. එය ජලාශ හතරකින් සමන්විත වෙනවා.
+
+රටේ බලශක්ති අවශ්‍යතාවන් සඳහා ඉන් පසුව අපි මහවැලි සංවර්ධන ව්‍යපෘතිය ආරම්භ කළා. එමඟින් ප්‍රධාන ජලාශ පහක් නිර්මාණය කෙරුණු අතර වලවේ ගඟ ව්‍යාපෘතිය හයවන ජලාශය ලෙස එක් කෙරුණා.
+
+මහවැලි ගඟ ව්‍යාපෘතියේ අවසන් අදියර සම්පූර්ණ වුණේ මීට වසර හතකට පෙරයි. මේ අනුව ජල විදුලිය සඳහා අප සතුව ප්‍රවතින ප්‍රභවයන් භාවිතාවට ගෙන තිබෙනවා.
+
+අදටත්, ශ්‍රී ලංකාවේ විදුලි උත්පාදන ධාරිතාවෙන් 40% ක් පමණ පවතින්නේ ජල විදුලියයි. ජල විදුලිය බොහෝ දුරට ප්‍රශස්ත මට්ටමින් යෙදා ගෙන ඇති නිසා සුළං සහ සූර්ය බලශක්ති උත්පාදනය ජාතික විදුලි බල පද්ධතියට එක් කර ගැනීම සඳහා වැඩි උත්සාහයක් ගෙන තිබෙනවා.
+
+2030 වසර වන විට ශ්‍රී ලංකාවේ විදුලි අවශ්‍යතාවයෙන් 70%ක් පුනර්ජනනීය බලශක්තියෙන් සපුරා ගැනීම සහතික කිරීම වෙනුවෙන් රජය මේ වන විට මෙම ක්‍රියාවලිය වේගවත් කරමින් සිටිනවා.
+
+මෙම ඉලක්කය සපුරා ගැනීම සඳහා ඇමෙරිකානු ඩොලර් බිලියන 11.5ක් දක්වා විශාල ආයෝජනයක් අවශ්‍ය වෙනවා. කෙසේ වෙතත්, මෑතක් වන තුරුම පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ පෞද්ගලික අංශයේ ආයෝජන සඳහා පැවති රාමුව එතරම් හිතකර තත්ත්වයක පැවතියේ නැහැ.
+
+පසුගිය වසර 2 තුළ රජය විසින් මෙම අඩුපාඩු නිවැරදි කිරීමට සහ පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රය වෙනුවෙන් ප්‍රශස්ත ආයෝජන සහිත වාතාවරණයක් ඇතිකිරීම සඳහා පියවර කිහිපයක් ගෙන තිබෙනවා.
+
+එහි පළමු පියවර පිරිවැය පිළිබිඹු කරන ගාස්තු ක්‍රමයක් ඇති කිරීමයි. 2014 වසරේ සිට 2022 වසර දක්වා කාලය තුළ ශ්‍රී ලංකාවේ විදුලි ගාස්තු සංශෝධනයක් සිදු කර නැහැ. මෙය ලංකා විදුලි බල මණ්ඩලයට මුදල් ගලා ඒම පිළිබඳ ගැටළු ඇති කිරීමට හේතු වූ අතර ඇතැම් අවස්ථාවන්හිදී විදුලි සැපයුම්කරුවන්ට සිදු කළ යුතු ගෙවීම් ප්‍රමාද වීමටද හේතු වුණා.
+
+කෙසේ වෙතත් 2022 අගෝස්තු මාසයේ සිට පිරිවැය පිළිබිඹු කරන මිල සුත්‍රයකට මාරු වුණා. ඒ අනුව, අනාගතයේ විදුලි උත්පාදනය සඳහා පවතින පිරිවැය පිළිබිඹු කරමින් සෑම කාර්තුවකටම වරක් විදුලි ගාස්තු සංශෝධනය කෙරෙනවා.
+
+දිගු කලක් පාඩු ලබන ආයතනයක් වූ ලංකා විදුලිබල මණ්ඩලය, 2023 වසරේ දී ලාභ ලබන ආයතනයක් බවට පත් වූ අතර, එමඟින් අතීතයේ සිට පවතින ණය සැලකිය යුතු මට්ටමකින් පියවා ගැනීමට ද හැකි වුණා.
+
+මෙම ආයතනයට දැන් ශක්තිමත් ශේෂ පත්‍රයක් මෙන්ම වඩා ශක්තිමත් මුදල් ප්‍රවාහ තත්වයක් සහ මූල්‍ය ද්‍රවශීලතාවය සහතික කරනු ලබන ගාස්තු අය කිරීමේ ක්‍රමවේදයක් තිබෙනවා. සමවර්ත ගාස්තුව නම්‍යශීලී නොවීම ආයෝජකයින්ගේ කනස්සල්ලට හේතු වී තිබෙනවා. අභ්‍යන්තර ප්‍රතිසංස්කරණවලට අමතරව හරිත මූල්‍යකරණය ආකර්ෂණය කර ගැනීමේ රාමුව ද අපි සකස් කරමින් සිටිනවා.
+
+ශ්‍රී ලංකාව තිරසාර මූල්‍යකරණය සඳහා වන මාර්ග සිතියම, හරිත මූල්‍ය වර්ගීකරණය, තිරසර සංවර්ධන ඉලක්ක (SDG) සඳහා වන ආයෝජක සිතියම සකස් කර ඇති අතර දැනට සකස් කරමින් පවතින හරිත බැඳුම්කර රාමුව සඳහා වන මාර්ග සිතියම යන පියවර මඟින් ශ්‍රී ලංකාවට දේශගුණික මූල්‍යකරණයේ ශක්තිමත් නියැලීමක් සඳහා අවශ්‍ය පරිසරය නිර්මාණය කරමින් පවතිනවා. තිරසර මූල්‍ය පහසුකම් සැපයීම, ශ්‍රී ලංකාවේ පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ ආයෝජන සඳහා අමතර ශක්තියක් වනු ඇතියි.
+
+පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ පෞද්ගලික අංශයේ මහා පරිමාණ ආයෝජන සඳහා නීතිමය බාධක තිබෙනවා. 2022 වසරේදී හඳුන්වා දුන් විදුලිබල පනතේ සංශෝධන මඟින් එම නීතිමය බාධා ද ඉවත් කිරීමට කටයුතු කිරීම එහි දෙවන පියවරයි.
+
+තුන්වැන්න, රජය ලංකා විදුලිබල මණ්ඩලය ප්‍රතිවුහගතකිරීමේ අවසන් අදියරේ සිටීමයි. මෙමගින් විදුලිබල මණ්ඩලයේ බෙදා හැරීම, උත්පාදනය සහ සම්ප්‍රේෂණය සඳහා වැඩි මූල්‍ය සහ මෙහෙයුම් ස්වාධිපත්‍යයක් ඇති වන අතර එහි ප්‍රතිඵලයක් ලෙස තරගකාරීත්වය සහ විනිවිදභාවය ඇති වෙනවා.
+
+විදුලිය උත්පාදනය සඳහා පුද්ගලික අංශයේ සහභාගීත්වය ලබාගැනීම දැනටමත් සිදුවන අතර, මෙම ප්‍රතිව්‍යුහගතකරණ වැඩසටහන හරහා පුද්ගලික අංශයේ සහභාගීත්වය සඳහා වැඩි අවස්ථාවක් සැලසෙනවා.
+
+ආසියානු සංවර්ධන බැංකුවේ සහාය ඇතිව ක්‍රියාත්මක කරන ලද මෙම ප්‍රධාන ප්‍රතිසංස්කරණ මගින් පාරිභෝගිකයින්ට මෙන්ම වඩාත්ම තරගකාරී හා කාර්යක්ෂම විදුලි නිෂ්පාදකයින්ට වඩා ඵලදායී අවස්ථා නිර්මාණය වෙනවා. එමෙන්ම විදුලිබල මණ්ඩලය කාර්යක්ෂමව ක්‍රියාත්මක වන බව එමගින් සහතික කෙරෙනවා. මෙම ප්‍රතිසංස්කරණ සඳහා වන නීති කෙටුම්පත් පසුගිය මාසයේදී ප්‍රකාශයට පත් කරනු ලැබුවා.
+
+විශේෂයෙන් 2026 වන විට මෙරට ජාතික විදුලිබල අවශ්‍යතාවයෙන් සියයට 70ක් පුනර්ජනනීය බලශක්තියෙන් සපුරා ගැනීමේ අභිලාෂය වෙනුවෙන් පද්ධතියේ කාර්යක්ෂමතාව වැඩිදියුණු කිරීම සහ පුනර්ජනනීය බලශක්තිය ඒකාබද්ධ කිරීම සඳහා වැඩි දියුණු කිරීම් අවශ්‍ය වෙනවා. එසේම ගබඩා කිරීම, සම්ප්‍රේෂණය සහ බෙදා හැරීම සඳහා ආයෝජන අවශ්‍යයි. 2030 දක්වා මෙම ඒකාබද්ධ කිරීම සඳහා සැලසුම් සකස් කර ඇති අතර ඒවා ක්‍රියාත්මක කිරීම මේ වන විට ආරම්භ කර තිබෙනවා.
+
+පසුගිය වසර දෙක තුළ බලශක්ති ක්ෂේත්‍රයේ ක්‍රියාත්මක කරන ලද ප්‍රධාන ප්‍රතිසංස්කරණ හේතුවෙන් මෙම ක්ෂේත්‍රය කෙරෙහි නව උනන්දුවක් ඇති වී තිබෙනවා. දැනටමත් මහා පරිමාණයේ සූර්ය හා සුළං බලශක්ති ව්‍යාපෘති ක්‍රියාත්මක කිරීම ආරම්භ කර තිබෙනවා.
+
+ඉන්දියාවේ ප්‍රමුඛ පෙළේ ව්‍යාපාරයක් මෙගාවොට් 350 ක සුළං විදුලි බලාගාරයක් ක්‍රියාත්මක කිරීමට ඉදිරිපත්ව සිටින අතර එය 2025දී ආරම්භ කිරීමට අපේක්ෂිතයි. මෙම සමාගම තවත් ඩොලර් මිලියන 750ක් සුළං බලශක්තිය සඳහා ආයෝජනය කිරීමට ද සැලසුම් කර තිබෙනවා. ඒ අනුව සුළං බලය මඟින් ශ්‍රී ලංකාවට විශාල අවස්ථාවක් සැලසෙනවා.
+
+විශේෂයෙන් වෙරළාසන්න සුළං බලයට ශ්‍රී ලංකාවේ අවශ්‍යතාවයට වඩා වැඩි බලයක් උත්පාදනය කිරීමේ හැකියාව පවතින බව ලෝක බැංකුවේ මෑතකාලීන වාර්තාවක් පෙන්වා දී තිබෙනවා.
+
+මෙම තත්ත්වය සැලකිල්ලට ගනිමින්, ශ්‍රී ලංකාව සහ ඉන්දියාව අතර බලශක්ති අන්තර් සම්බන්ධතාවයක් ඇති කර ගැනීම සම්බන්ධයෙන් වන සාකච්ඡා ප්‍රගතිශීලී අදියරක තිබෙන බව කිව යුතුයි. විශේෂයෙන් ඉන්දියාවේ දකුණු කොටසෙහි වේගයෙන් වර්ධනය වන කාර්මික කලාපය වෙත ශ්‍රී ලංකාවේ අතිරික්ත විදුලිය අපනයනය කිරීමට එමගින් අවස්ථාව සැලසෙනවා.
+
+සූර්ය බලශක්තිය සඳහා ද ඉහළ විභවයක් පවතිනවා. එය ගිගාවොට් 40ක් පමණ වන බවට ගණන් බලා තිබෙනවා. වහලය මත රඳවන සූර්ය පැනල මඟින් උත්පාදනය කරන බලශක්තිය හැරුණු කොට සූර්ය බලශක්තියේ විභවය ගිගාවොට් 200 ක් පමණ වෙනවා. ඒ අනුව මුළු ප්‍රමාණය තවත් වැඩි විය යුතුයි. මෙය ශ්‍රී ලංකාවේ සුළං බලයට වඩා වැඩි ප්‍රමාණයක්. ශ්‍රී ලංකාවේ හරිත හයිඩ්‍රජන් සහ හරිත ඇමෝනියා සතුව පවතින විභවය පිළිබඳව ද අප සොයා බලනවා.
+
+ශ්‍රී ලංකාවට සිය තිරසර, හරිත සංවර්ධන න්‍යාය පත්‍රය ඉටු කර ගැනීම සඳහා බලාපොරොත්තු සහගත සැලසුම් පවතිනවා. 2050 වන විට ශුද්ධ ශුන්‍ය විමෝචන තත්ත්වය ළඟා කර ගැනීම සඳහා ශ්‍රී ලංකාව කැපවී සිටිනවා.
+
+කඩිනම් පුනර්ජනනීය බලශක්ති සැලැස්ම මෙම සමස්ත ප්‍රයත්නයේ ප්‍රධාන අංගයක් වන අතර එය බලශක්ති සුරක්ෂිතභාවය කරා යන මාවතේ ද අත්‍යවශ්‍ය පියවරක් වෙනවා.
+
+වර්තමානයේ වියළි කාලවලදී ශ්‍රී ලංකාවට අධික මිල සහිත ඉන්ධන මත යැපීමට සිදු වී ඇති නිසා, මෙම පුනර්ජනනීය බලශක්ති ප්‍රභවයන් මඟින් ජනන පිරිවැය අඩු කර ගැනීමේ හැකියාව පවතිනවා.
+
+ශ්‍රී ලංකාව දේශගුණ විපර්යාස අවම කිරීමේ ජාත්‍යන්තර විශ්ව විද්‍යාලයක් පිහිටුවීමේ කටයුතු සඳහා මේ වන විට මුලපුරා තිබෙන අතර එමඟින් හරිත බලශක්තිය සඳහා පවතින අවස්ථා තවදුරටත් විවෘත වනු ඇතියි.
+
+ශ්‍රී ලංකාවේ පුනර්ජනනීය බලශක්තිය පිළිබඳ ප්‍රතිපත්තියේ දිශානතිය සඳහා විවිධ අභිප්‍රේරණයන් හා පාර්ශ්වකරුවන් විසින් සහාය දක්වන බව පැහැදිලියි.
+
+එබැවින් ආයෝජකයින්ට මෙම ක්ෂේත්‍රය තුළ ඉහළ මට්ටමේ සහ වෙනස් නොවන ප්‍රතිපත්තියක් අපේක්ෂා කළ හැකියි.
+
+ශ්‍රී ලංකාවේ පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ ආයෝජනය කිරීමට හොඳම කාලය මෙය වන අතර, එවැනි ආයෝජන ඉදිරි දශක කිහිපය තුළ එහි පාර්ශ්වකරුවන්ට මෙන්ම ශ්‍රී ලංකාවේ පාරිභෝගිකයින්ට ද සැලකිය යුතු ප්‍රතිලාභයක් ලබා දෙන බවට මට කිසිදු සැකයක් නැහැ.
+
+### කෑම වේල පරක්කු වුණායැයි වසර 13ක් දිවා ආහාරය දුන් හෝටල් හිමියාගේ බරිඳට පහරදුන් යාචකයා රිමාන්ඩ්
+
+*2024-01-16 19:26:20 - [adalk](https://www.ada.lk/breaking_news/කෑම-වේල-පරක්කු-වුණායැයි-වසර-13ක්-දිවා-ආහාරය-දුන්-හෝටල්-හිමියාගේ-බරිඳට-පහරදුන්-යාචකයා-රිමාන්ඩ්/11-407583)*
+
+කෑම වේල පරක්කු වුයේ යැයි කියමින් වසර 13 ක් පුරා දිවා ආහාරය දුන් හෝටල් හිමියාගේ බිරිඳගේ හිසට මන්නයකින් පහර දී බරපතල තුවාල කළ  යාචකයෙකු ලබන 30 වැනිදා දක්වා රිමාන්ඩ් බාරයේ රඳවා තැබීමට කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා අද (16) නියම කළේය.
+
+යාචකයාගේ මානසික තත්වය සම්බන්ධයෙන් මානසික වෛද්‍ය වාර්තාවක් කැඳවීමටද මහේස්ත්‍රාත්වරයා පොලිසියට නියම කළේය.
+
+රිමාන්ඩ් බාරයට පත් කිරීමෙන් අනතුරුව මෙලෙස මානසික වෛද්‍ය වාර්තාවක් කැඳවීමට නියම කරන ලද්දේ මාර්ටින් ලියනගේ නමැති යාචකයකුගේය.
+
+සිද්ධියට අදාළව කළ විමර්ශන වල ප්‍රගතිය දැක්වෙන වාර්තාවක් ඉදිරිපත් කළ කෙසෙල්වත්ත පොලිසියේ නිලධාරීහු සැකකාර යාචකයාද අධිකරණයට ඉදිරිපත් කළේය.
+
+සිද්ධියෙන් අගතියට පත් වු හෝටල් හිමියා වෙනුවෙන් පෙනී සිටි නීතිඥ මංජුල පතිරාජ මහතා කරුණු දක්වමින් කොළඹ රථ වාහන පොලීසිය අසල හෝටලයක් පවත්වාගෙනයන තම සේවාදායකයා වසර 13ක් පුරා විත්ති කූඩුවේ සිටින යාචකයාට කන්න බොන්න දී ඇතැයි කීය.
+
+මහියංගණය පැත්තේ වැඩිහිටි නිවාසයකින් පැනලා ආපු මෙම සැකකාර යාචකයා හැමදාම හෝටලයට එන්නේ එකම වෙලාවට යැයිද මෙම සිද්ධිය වු දවසේ උයන්න පරක්කු වීම නිසා සැකකරුට කෑම පිඟාන දෙන්න විනාඩි 10 ක් විතර පරක්කු වී ඇතයිද කී නීතිඥ මංජුල පතිරාජ මහතා කෑම වේල දෙන්න පරක්කු වුනා කියලා උරණ වු සැකකරු මන්නයකින් තම සේවාදායකයාගේ බිරිඳගේ ඔලුවට පහරද ඇතැයිද කීය.
+
+ඇගේ ඇසට උඩින් මන්න පහර වැදුන නිසා යන්තමින් ඇගේ ජීවිතේ බේර ඇතැයි කී නීතිඥ මංජුල පතිරාජ මහතා සැකකරුට ඇප දීම සම්බන්ධයෙන් තමන් සම්පූර්ණයෙන් විරුද්ධ යැයිද කීය.
+
+ඉදිරිපත්වු කරුණු සලකා බැලීමෙන් අනතුරුව අදාළ නියෝග නිකුත් කළ මහේස්ත්‍රාත්වරයා සිද්ධියට අදාළළ කරන විමර්ශන වල ප්‍රගතිය මෙම පැමිණීල්ල යළි කැඳවන ලබන 30 වැනිදා අධිකරණයට දැනුම් දෙන ලෙස පොලිසියට නියම කළේය.
+
+### බන්ධනාගාර නිලධාරීන්ට මත් ද්‍රව්‍ය චෝදනා එල්ලවීම බරපතල ප්‍රශ්නයක්
+
+*2024-01-16 19:18:13 - [adalk](https://www.ada.lk/breaking_news/බන්ධනාගාර-නිලධාරීන්ට-මත්-ද්‍රව්‍ය-චෝදනා-එල්ලවීම-බරපතල-ප්‍රශ්නයක්/11-407582)*
+
+ඇතැම් බන්ධනාගාර නිලධාරීන්ට මත්ද්‍රව්‍ය චෝදනා එල්ලවීම බරපතල ප්‍රශ්නයක් බව අධිකරණ අමාත්‍ය විජයදාස රාජපක්ෂ මහතා පවසයි.
+
+ජාතික සමගිය හා ප්‍රතිසන්ධානය සදහා වු කාර්යාලය විසින් යාපනය දිස්ත්‍රික්කය මුලික කර ගනිමින් සංවිධානය කර ඇති සංහිදියාව වැඩි දියුණු කිරීමේ වැඩසටහන් සදහා සහභාගි වන අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය, ජනාධිපති නීතිඥ, ආචාර්ය විජයදාස රාජපක්ෂ මහතා අද පෙරවරුවේ (16) යාපනය බන්ධනාගාරයේ විශේෂ නිරීක්ෂණ චාරිකාවකට සහභාගි විය.
+
+යාපනය බන්ධනාගාරයට පැමිණි අධිකරණ අමාත්‍යවරයා එම බන්ධනාගාරයේ රැදවියන්ට පවතින ගැටළු පිළිබදව ඔවුන් සමග සාකච්ඡා කළ අතර, බන්ධනාගාර මුළුතැන්ගෙය, කාන්තා අංශය, හා රැදවියන්ගේ  නිෂ්පාදන නිරීක්ෂණය කළේය.
+
+නිරීක්ෂණ චාරිකාව අවසන් කිරීමෙන් පසුව පැවති සාකච්ඡාව අමතමින් අධිකරණ අමාත්‍යතුමා මෙසේ පැවසීය.
+
+ඇතැම් බන්ධනාගාර නිලධාරීන් මත් ද්‍රව්‍ය ජාවාරම හා සම්බන්ධ බවට බරපතල චෝදනා පවතිනවා. යුක්තිය මෙහෙයුම අතරතුර බන්ධනාගාර නිලධාරීන් කිහිප දෙනෙකු අත් අඩංගුවට පත්ව තිබෙනවා . එම තත්වය කණගාටුදායක තත්වයක් බව කිව යුතුයි.
+
+එහෙත් යාපනය බන්ධනාගාරයේ නිලධාරීන්ට එවැනි ආකාරයේ චෝදනා නොමැති බවට අදහස් පළ වුණා. එය අගය කරනවා. අපේ රටේ සෙසු බන්ධනාගාරවලට වඩා ඉතා පිරිසිදු බවින් යුක්තව බන්ධනාගාර පරිශ්‍රය පවත්වා ගෙන යාමට මෙහි නිලධාරින් කටයුතු කර තිබෙනවා. එය ඉතාමත් ප්‍රශංසනීයයි.
+
+ආදර්ශමත් ආයතනයක් ලෙස යාපනය බන්ධනාගාරය හදුන්වා දිය හැකියි. එ පිළිබදව බන්ධනාගාරයේ පරිපාලනයට ස්තූති වන්ත වන අතරම, යාපනය බන්ධනාගාරයට අවශ්‍ය අඩුපාඩු සම්පුර්ණ කර දීමට කටයුතු කරන බවද අමාත්‍යතුමා සදහන් කළේය.
+
+යාපනය බන්ධනාගාරය තුළ අද දිනය වන විට (16) සිරකරුවන් 852 ක් රදවා සිටින අතර, කාන්තා රැදවියන් 38 දෙනෙකු ඒ අතර වෙයි.
+
+අධිකරණ හා බන්ධනාගාර කටයුතු රාජ්‍ය අමාත්‍ය නීතිඥ, අනුරාධ ජයරත්න, අධිකරණ අමාත්‍යාංශයේ ලේකම් එම්.එන්.රණසිංහ, ජාතික සමගිය හා ප්‍රතිසන්ධානය සදහා වු කාර්යාලයේ සභාපති චරිත් මාරඹේ, යාපනය බන්ධනාගාර අධිකාරී එස්. ඉන්ද්‍රකුමාර යන මහත්වරුන් ඇතුළු නිලධාරීන් මෙම නිරීක්ෂණ චාරිකාවට එක් වුහ.
 
 ### முச்சக்கரவண்டி சாரதிகளின் தொழிற் சங்கங்களை நிறுவுவதற்கான இடைக்கால வழிநடத்தல் குழு ஸ்தாபிப்பு!
 
@@ -45,6 +189,22 @@ As of **2024-01-16 21:27:48**
 இப்பிரேரணைகளை நடைமுறைப்படுத்துவதற்கான முன்மொழிவுகளை சட்டமாக்கி வர்த்தமானியில் வெளியிட நடவடிக்கை மேற்கொண்டு முச்சக்கரவண்டி சாரதிகளாக பணிபுரியும் அனைவரையும் தரவு அமைப்பில் பதிவு செய்து மிகக் குறுகிய காலத்திற்குள் புதிய  கியூ.ஆர். குறியீட்டு முறையயை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்படும் என்று இதன்போது அமைச்சர் உறுதியளித்தார்.
 
 எந்தவொரு சந்தர்ப்பத்திலும் தனியார் துறை காப்புறுதி நிறுவனங்களோ அல்லது வேறு எந்தவொரு தரப்பினரும் சமூகப் பாதுகாப்பு நடவடிக்கைகளில் ஈடுபட மாட்டார்கள். அவ்வாறே நாட்டில் தற்போதுள்ள சமூக பாதுகாப்பு நடைமுறைகள் மற்றும்  புதிய சமூக பாதுகாப்பு முறைமைகள் என்பன அரசின் கண்காணிப்பில்  நடைமுறைப்படுத்தப்படும் எனவும் அமைச்சர் சுட்டிக்காட்டினார்.
+
+### ඩෙංගු මාරයා සරසවි සිසුවිය බිලි ගනියි
+
+*2024-01-16 19:00:50 - [adalk](https://www.ada.lk/breaking_news/ඩෙංගු-මාරයා-සරසවි-සිසුවිය-බිලි-ගනියි/11-407581)*
+
+ඩෙංගු රෝගී තත්ත්වයෙන් හොරණ මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටි 23 හැවිරිදි විශ්වවිද්‍යාල සිසුවියක් අද (16) මියගිය බව  රෝහල් අධ්‍යක්ෂක විශේෂඥ වෛද්‍ය අයන්ති ජයවර්ධන මහත්මිය පැවසුවාය.
+
+මෙසේ මරණයට පත් වී ඇත්තේ පෝරුව - දණ්ඩ, මාපුටුගල මානෙල් උයන  පදිංචිව සිටි කොළඹ විශ්ව විද්‍යාලයේ සෞන්දර්ය විශ්ව විද්‍යාලයේ පළවෙනි වසරේ  අධ්‍යාපනය ලබමින් සිටි දිසානායක මුදියන්සේලාගේ හසිනි භාග්‍යා නැමති තරුණියයි.
+
+ඉකුත් 5 වන දින උණ රෝගය වැලදීම හේතුවෙන් හොරණ දිස්ත්‍රික් රෝහල වෙත මියගිය තරුණිය ඇයගේ දෙමව්පියන් විසින් ඇතුළත් කර තිබූ අතර ඇය අංක පහ වාට්ටුවේ දින හයක් තිස්සේ  ප්‍රතිකාර ලබමින් සිට ඇත.
+
+ඉන් අනතුරුව ඇයව 11 වන දින පසුව දැඩිසත්කාර ඒකකයට යොමු කර තිබූ තිබූ අතර ඇයට ඒ වන විට සිහිය නොමැති වී ඇති බව  දෙමාපියන් පවසති.
+
+එහිදී තරුණියව විවිධ පරීක්ෂණවලට යොමු කර තිබූ වෛද්‍යවරු ඇයට ඩෙංගු රෝගය වැළඳී ඇති බවට සනාථ කරගෙන තිබිණ. එලෙස දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි තරුණිය අද (16) අළුයම එහිදී මිය ගොස් තිබිණි.
+
+මියගිය තරුණියගේ පශ්චාත් මරණ පරීක්ෂණය හොරණ මූලික රෝහලේදී මුළු දිවයිනටම සාම විනිසුරු සුමේධ ගුණවර්ධන මහතා විසින් පැවැත් වූ අතර ඉදිරිපත් වූ වෛද්‍ය වාර්තාව සහ සාක්කි සැලකිල්ලට ගෙන තරුණියගේ මරණය ඩෙංගු රෝගය හේතුවෙන් රුධිර වාහනය වීම සමඟම ඇතිවූ සංකූලතා මත සිදුවූ මරණයක් බවට තීරණය කළේය.
 
 ### சந்தைக்கு போகாதவர்களுக்கு மட்டும்
 
@@ -548,6 +708,30 @@ The government has also made plans to reduce taxes, introduce water sports, and 
 
 On another front, Sri Lanka has installed an AI-automated facial recognition system at Bandaranaike International Airport. This deployment aims to identify nefarious activities such as drug trafficking and ID fraud at international border crossings. This move, although controversial, is part of a crackdown by police and the Ministry of Public Security that saw over 25,000 arrests since December 17, 2023.
 
+### වර්ජනයක් නැති රෝහලක්
+
+*2024-01-16 14:55:43 - [adalk](https://www.ada.lk/breaking_news/වර්ජනයක්-නැති-රෝහලක්/11-407580)*
+
+වෛද්‍යවරුන්ට ලබා දුන් රුපියල් 35000 ක  දීමනාව සෙසු සෞඛ්‍ය කාර්ය මණ්ඩලවලටද ලබා දෙන ලෙස රජයට බල කරමින් දිවයින පුරා රෝහල්වල ක්‍රියාත්මක පැය 24ක  සංකේත වැඩ වර්ජනයට හාත්පසින් වෙනස් ආකාරයෙන් බණ්ඩාරගම ප්‍රාදේශීය රෝහලේ කාර්ය මණ්ඩලය රෝගීන්ට සුපුරුදු  සේවය සපයන ආකාරය අද (16) දක්නට ලැබිණි.
+
+වර්ජනයට  ඖෂධ සංයෝජකයින් හා ඖෂධ වේදීන් පමණක්  සේවයට වාර්තා නොකර සහය දැක්වීම හේතුවෙන් ප්‍රතිකාර ලබා ගැනීමට පැමිණෙන රෝගීන් වෛද්‍යවරුන් පරීක්ෂා කර බලා ෆාමසි වලින් ඖෂධ ලබා ගැනීම සඳහා   බෙහෙත් තුන්ඩු නිකුත් කිරීම සිදුකෙරිණි
+
+රෝහලේ  කනිෂ්ඨ කාර්ය මණ්ඩලය ඇතුළු සෙසු කාර්ය මණ්ඩලය  සුපුරුදු ලෙස රෝගීන් වෙනුවෙන් අනෙකුත් රාජකාරිවල නියැලෙනු දක්නට ලැබිණි
+
+රෝගීන් ඇතුළත් කිරීම,   ප්‍රතිකාර ලබා ගැනීම සඳහා පැමිණෙන රෝගීන්   වෛද්‍යවරුන් වෙත යොමු කිරීම ,සායන වලට දින ලබාදීම, දන්ත සායන පවත්වාගෙන යාම ආදිය කනිෂ්ඨ කාර්ය මණ්ඩලය විසින් සිදු කරනු දක්නට ලැබිණි
+
+මේ හේතුවෙන්   පැමිණි බහුතරයක් රෝගීන්  බණ්ඩාරගම දිසාරෝහලේ කාර්ය මණ්ඩලය වෙත සිය ස්තුති ප්‍රණාමය පුද කරන අයුරුද දක්නට ලැබිණි
+
+මේ පිළිබඳ අදහස් දැක්වූ   බණ්ඩාරගම රෝහලේ දිස්ත්‍රික් වෛද්‍ය නිලධාරී ජේ පි සුභසිංහ මහතා,
+
+දිවයින පුරා  මෙහි  වැඩ වර්ජනයක් පැවැත්වුවත් අපි පුළුවන් ආකාරයෙන් බණ්ඩාරගම දිසා රෝහලේ සේවාවන් පවත්වාගෙන යනවා.
+
+අපේ දන්ත සායන වගේම අනෙකුත් සායන හැකි ආකාරයෙන් පවත්වාගෙන යනවා මහජනයා වෙනුවෙන්.
+
+බාහිර රෝගී අංශය වෙත පැමිණෙන රෝගීන්ට , බාහිරින් ප්‍රතිකාර ලබා ගැනීම සඳහා තුන්ඩු ලියා දෙනවා
+
+අපි මහජනතාවගෙන් වැටුප් ලබන සේවකයින් හැටියට හැමදාමත් වර්ජන කියලා හරියන්නේ නැහැ .නමුත් අපි පුළුවන් ආකාරයෙන් සේවාවන් පවත්වාගෙන යන්නට උත්සාහ කරනවා මහජනතාවගේ  සුභ සිද්ධිය ගැන හිතලා" යැයි පැවැසීය.
+
 ### வைத்தியசாலை சுகாதாரதுறை ஊழியர்கள் பணி பகிஸ்கரிப்பு ; நோயாளர்கள் பெரும் அவதி
 
 *2024-01-16 14:38:00 - [virakesarilk](https://www.virakesari.lk/article/174055)*
@@ -661,6 +845,26 @@ The Colombo-North Crimes Unit is conducting further investigations regarding the
 இளநீர் கொப்பை கட்டி இறக்குவதற்குப் பயன்படுத்தப்பட்ட கயிறு அருகில் இருந்த கூரையின் மீது விழுந்துள்ளது. அதனை கொக்கியை பயன்படுத்தி  எடுக்க முயன்ற போதே மின்சாரம் தாக்கி மாணவன் உயிரிழந்தான்.
 
 குறித்த மாணவர் இரத்தோட்ட, கலுகல் சமவெளி கிராமப் பகுதியில் வசிப்பவராவார் என்று தெரிவித்த இரத்தோட்டை பொலிஸார், மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் தெரிவித்தனர்.
+
+### කුඹුරු අක්කර 10000ක් විනාශයි
+
+*2024-01-16 13:55:16 - [adalk](https://www.ada.lk/picture_story/කුඹුරු-අක්කර-10000ක්-විනාශයි/10-407579)*
+
+පොළොන්නරුව මාදුරුඔය, කුඩාඔය, පිඹුරත්තෑව, පූනානි විල්ලූව, පිටාර ගැලීම හේතුවෙන් මහවැලි බී   කලාපයේ නෙළුම්වැව, පන්සියතුන කලාපය, අරලගංවිල, වැලිකන්ද, රුවන්පිටිය, නාමල්ගම, අසේලපුර ඇතුළු පහත් බිම්වල කුඹුරුවල පැලගොයම ගංවතුරට යටවීමේන් අක්කර දාහ දාහක පමණ ප්‍රමාණය පැළගොයමසම්පූර්ණයෙන්ම කුණු වී විනාශ වී ඇති බව මහවැලි බී කලාපයේ ගොවි සංවිධාන නියෝජිතයින් සහ ගොවීන් සඳහන් කරති.
+
+මේ වනවිට පහත් බිම්වල ගංවතුර තත්ත්වය බැස ගියද වතුරෙන් යටවී තිබු ගොයම කිසිදු විටෙක යළිත් දළුලන් නොමැති බවද ගොවීන් සඳහන් කරති.
+
+මෙම තත්ත්වය මත මහවැලි බී කලාපයේ ගොවි පවුල් දෙදෙහස් පන්සියයකට පමණ ආසන්න පිරිසක් දැඩි අසරණතාවයට සහ අපහසුතාවයට පත්ව ඇති අතර එම කුඹුරු යළි මෙම කන්නේ අස්වැද්දීමට කාලයක් නොපවතින බව ද ගොවි සංවිධාන නියෝජිතයින් පෙන්වා දෙති.
+
+ඇතැම් කුඹුරුවල පැලගොයම ගංවතුරට යට වී, දින දෙක තුනක් ඇතුලත එම ගංවතුර බැස යෑම හේතුවෙන් එම පැළ ගොයමට කිසිදු හානියක් නොමැති බවත්, දින පහ හයක් කාලයක් තිස්සේ ගංවතුරින් යටව පැවැති  පැළ ගොයම සහ පීදීමට ආසන්නයේ පැවැති ගොයම් විනාශ වී ඇති බවද මහවැලි බි කලාපයේ ගොවීන් පෙන්වා දෙති.
+
+මෙම තත්ත්වය සැලකිල්ලට ගනිමින් ගංවතුරෙන් හානියට පත් පැලගොයම සඳහා තමන්ට කිසියම් වන්දි මුදලක් ලබාදීමට අවශ්‍ය කටයුතු කරන ලෙසද මහවැලි බි කලාපයේ ගොවි සංවිධාන නියෝජිතයින් සහ ගොවීන් කියති.
+
+අප මේ පිළිබඳව ගොවිජන සේවා දෙපාර්තමේන්තුවේ පොළොන්නරුව දිස්ත්‍රික් සහකාර අරුණ නිරෝෂන්   මහතාගෙන් දුරකථනයෙන් කළ විමසීමකදී පැවසුවේ ගොවි සංවිධාන මට්ටමෙන් ගංවතුරෙන් හානියට පත්   කුඹුරු සඳහා වන්දි මුදලක් ගෙවීමට අවශ්‍ය තොරතුරු ලබාගැනීමට උපදෙස් හා පත්‍රිකාවක් ලබා දී ඇති බවයි.
+
+ඒ අනුව ලබා ගන්නා තොරතුරු මත අදාළ ගොවීන්ට කෘෂිකර්ම රක්ෂණ මණ්ඩලය යටතේ වන්දි මුදලක් ලබාදීමට ඉදිරියේදී කටයුතු කරනු ඇති බවද අරුණ නිරෝෂන් මහතා වැඩිදුරටත් කීය.
+
+මේ වන විට මහවැලි බී කලාපයේ මාදුරුඔය කුඩාඔය පිඹුරත්තෑව ඇතුළු වැව් සහ අමුණුත් පිටාර ගැලීම හේතුවෙන් හානියට පත් කුඹුරු බිම් ප්‍රමාණය කොතෙක්ද යන්න මහවැලි කොට්ඨාශ කළමනාකාරවරුන් හා ඒකක කළමනාකාරවරුන් හරහා තොරතුරු ලබාගනිමින් සිටින බවත්, වහාම ඔවුනට ද වන්දි මුදලක් ලබාදීමට අවශ්‍ය වැඩපිළිවෙල සකසන බව මහවැලි බි කලාපීය නේවාසික කළමනාකාර සුගත් විරසිංහ මහතා අප කළ විමසීමකදී පැවසීය.
 
 ### எதிர்காலத்துக்கான ஒரு புதிய நோக்கே தமிழர்களுக்கு இன்று தேவை
 
@@ -1779,171 +1983,3 @@ DSG Peiris accused the suspect of exploiting religion for personal financial gai
 Meanwhile, the Mahanayaka Theras also sent a letter to President Ranil Wickramasinghe over the weekend urging him to institute the requisite legal measures to enforce the law against persons involved in distorting Buddha Dharma.
 
 In Buddhism, Avalokiteshvara is a tenth-level bodhisattva associated with great compassion.
-
-### Economy 2024: More challenging than the two previous years
-
-*2024-01-16 00:22:42 - [dailyftlk](https://www.ft.lk/columns/Economy-2024-More-challenging-than-the-two-previous-years/4-757391)*
-
-Unless correct policies are adopted from now onward, becoming a rich country by 2048 will simply be a wish only
-
-It seems that IMF is working with numbers which are pleasing to their ears ignoring the wider external debt problem which the country is faced with. Once Sri Lanka begins to repay the whole debt, it will not be able to maintain the current low-level equilibrium that involves relative stability in the exchange rate, on one side, and the balance in the current account of the balance of payments, on the other
-
-Sri Lanka has entered 2024 having passed 2022, the year of the severest economic crisis, and 2023, the year of the beginning of economic recovery. Having followed an economic recovery package as agreed with IMF for an extended fund facility or EFF, Sri Lanka should now consolidate its position to retain the hard-earned macroeconomic stability and push the economy to a high growth path needed for delivering permanent prosperity to its people. However, the present stability experienced by Sri Lanka is at a low-level equilibrium as observed by the Presidential economic advisor, Dr. Sharmini Cooray in the 2023 Central Bank Anniversary Oration (available at: https://www.cbsl.gov.lk/sites/default/files/cbslweb_documents/about/speech_20231102_CBSL_73_anniversary_oration_e.pdf).
-
-What she meant by a low-level equilibrium was that though high inflation has been brought down to an affordable rate of about 5% and the exchange rate from close to Rs. 400 to about Rs. 320 a dollar, that has been attained at a low level of GDP, that is, $ 77 billion in 2022 compared with $ 85 in 2021. The average income of a Sri Lankan, if distributed equally among them and known as per capita income, has also fallen from $ 3,997 in 2021 to $ 3,474 in 2022. Hence, on average, all Sri Lankans have become poorer.
-
-At this level of per capita income, Sri Lanka is categorised by the World Bank as a lower middle-income country because it is a way above the threshold of $ 1,135 attributable to a low income or a poor country. However, the Sri Lanka Government requested the World Bank in late 2022 to treat it as a poor country for the disbursement of concessional funds from the World Bank group. This request has, as a special case, now been granted by the Bank. Hence, Sri Lanka today is like a person who has on paper academic qualifications equivalent to a university degree, but his knowledge is so poor that he is assigned the work that can be handled by a person with only GCE (Advanced level) qualification.
-
-It is just an instance of voluntarily becoming poorer in front of the rest of the world because it helps the country to get low-cost foreign aid. Thus, the GDP numbers released by the authorities do not reflect the true position of Sri Lankans. This is a stigma. Accordingly, the biggest challenge which Sri Lanka faces in 2024 or in later years is to have it removed and show the world that it is not a poor country anymore. But like the proverbial ‘beggar’s wound’, the incentives are to continue to enjoy this stigma.
-
-Sri Lanka enters the new year with a friendly but significantly serious warning by IMF. According to IMF’s Communications Director Julie Kozack, though the progress of the current EFF program is satisfactory, the country should complete the negotiations with the external commercial creditors and implement the agreements with official creditors for the restructuring of the selected items of the central government external debt (available at: https://www.ft.lk/front-page/IMF-urges-swift-action-on-debt-restructuring/44-757364). For external debt restructuring purposes, only the commercial borrowings and those borrowed from bilateral sources were included.
-
-The total public sector borrowings as at the end of 2021 amounted to $ 69 billion, made up of $ 45 billion by the central government and $ 24 billion by other public sector entities (see for details: https://www.ft.lk/columns/Child-s-guide-to-debt-restructuring-Not-a-cakewalk-but-a-task-entailing-hard-work/4-736706). Of this, only $ 33 billion or nearly a half was to be restructured. Even if this is successfully restructured, the problem of country’s foreign indebtedness remains unresolved.
-
-2024 will be an election year, and it is unlikely that the energy and the talent pool of the Government could be diverted to this type of long-term planning. But with every passing moment, the country will lose valuable time which cannot be regained. But there is no choice in my view. The Central Bank with the support from IMF has stabilised the economy at a low-level equilibrium. If no proper policies are adopted to upgrade the real economic activities that will deliver richness and prosperity to people, it will be difficult for the country to maintain even this low-level equilibrium. This is a formidable challenge, and the Government should not take this challenge lightly
-
-It seems that IMF is working with numbers which are pleasing to their ears ignoring the wider external debt problem which the country is faced with. Once Sri Lanka begins to repay the whole debt, it will not be able to maintain the current low-level equilibrium that involves relative stability in the exchange rate, on one side, and the balance in the current account of the balance of payments, on the other.
-
-She has expressed the IMF’s satisfaction about the restructuring of the domestic debt, tagged as domestic debt optimisation by the Sri Lanka Government, in 2023. The reference here is the decision of the Government to pass the entire burden of the domestic debt relief on to the superannuation and pension funds. Among them, the chief burden-bearers are the largest private sector superannuation fund, Employees’ Provident Fund or EPF managed by the Central Bank, and the Employees’ Trust Fund or ETF, managed by a separate board of trustees.
-
-These two funds as well as other provident and pension funds were told by the Government that if they would not agree to the proposed optimisation, they would be subject to an income tax of 30% instead of the 14% they were paying at that time. The tax of 30% was justified because that was the tax paid by other financial institutions and, therefore, it was an equalisation of the tax rates. I discussed in a previous article how this tax comparison would fall on EPF unfairly because EPF and other funds paid taxes on the gross income while financial institutions paid it on the net income (available at: https://www.ft.lk/columns/The-misunderstood-taxation-of-EPF-and-other-superannuation-funds/4-750423).
-
-Accordingly, the amounts of taxes paid by EPF on its gross income would be 70% in 2020, 88% in 2021, and 490% in 2022 when recalculated on the tax base of net income applicable to financial institutions. The other bond holders were freed from this burden and equity in distributing burden required the Government to treat all of them equally.
-
-I therefore pointed out in the article under reference as follows: “If the pain is passed on to all the bondholders equally, it would have been a fair and equitable treatment. Though there is a fear that it would lead to instability of the financial system, that could be avoided it the pain is transferred to all equally. Then the people would have felt that they have been treated fairly. Such a trust is a must when a country goes through a painful adjustment to come out of a serious economic crisis”. But the plan of passing the burden on the superannuation fund holders was carried out as planned. However, it involved the reduction of the earnings of EPF members by a significant margin by Rs. 274 billion over the period 2024 to 2038 (available at: https://www.ft.lk/columns/Apologetic-custodian-of-EPF-also-a-victim/4-753076).
-
-It is about this treatment of the domestic debt that IMF’s communications head has expressed her satisfaction. Since EPF earnings are likely to be lower than 9% after paying a tax of 14%, it will be a challenge for the Government to ensure a minimum rate of return of 9% to EPF members as promised in the debt optimisation plan. It is in fact an unnecessary waste of the taxpayers’ money if the Treasury meets this shortfall.
-
-Sri Lanka’s avowed goal is to deliver richness to its people by 2048 when the country celebrates the centenary of independence from Britain. This is a challenging task since the country is now going through a low-growth scenario till at least 2027. In 2022, it was a negative growth of 7.8% and in 2023, it is projected to have a negative growth of about 4%. From 2024 to 2026, the growth will be at an annual average rate of about 2% according to the forecasts made by both IMF and the World Bank. According to these forecasts, the country will return to the size of its economy which it had in 2021. That amounts to a GDP of $ 85 billion. It is from this level that the country will have to move up to become a rich country by 2048.
-
-I have discussed the main challenges involved in a previous article in this series (available at: https://www.ft.lk/columns/The-Magic-2048-What-is-to-be-done-to-make-Ranilnomics-a-reality/4-747608). In this article, the main challenge has been identified as follows: “In terms of the World Bank classifications, a country will become a rich country if its gross national income or GNI per head reaches the threshold of $ 12,000 and remain at that level or above thereafter. Over the next 25 years, Sri Lanka’s population also will increase requiring the country to produce more to reach this level. The population of the country has been rising at about 1% per annum in the past. But the future population projections are made based on demographic changes. Accordingly, for Sri Lanka, two population projections were made, one at an average growth of half a percent per annum and the other at an average growth of a little over a fifth of a percent. In the first one, the population will rise to 25.4 million by 2048. In the second one, Sri Lanka’s population will peak in 2035 and begin to fall thereafter.
-
-Since EPF earnings are likely to be lower than 9% after paying a tax of 14%, it will be a challenge for the Government to ensure a minimum rate of return of 9% to EPF members as promised in the debt optimisation plan. It is in fact an unnecessary waste of the taxpayers’ money if the Treasury meets this shortfall
-
-“By 2048, its population will be 21.9 million, a little more than its population in 2021.
-
-In terms of the first projection, to generate a GNI per capita of $ 12,000, the total GNI should rise to $ 305 billion or an increase of 243% over the period. The average growth per annum should be about 12%. In terms of the second projection, the GNI should be $ 263 billion marking an increase of 196% over this period. It marks an annual increase, on average, of 10%. Therefore, the annual economic growth to be maintained from 2028 to 2048 will be between 10 and 12% if Sri Lanka is to become a rich country by that last year of the period. This is again a formidable challenge for future governments”.
-
-This is a formidable challenge. Unless correct policies are adopted from now onward, becoming a rich country by 2048 will simply be a wish only as it had happened on many occasions in the past. President Ranil Wickremesinghe, addressing the nation in June 2023, announced that he would be following the Growth Lab approach developed by the Center for International Development or CID of Harvard’s Kennedy School of Government (available at: https://www.colombotelegraph.com/index.php/special-statement-delivered-by-president-ranil-wickremesinghe-full-text/). Wickremesinghe has a particular love for CID because he himself had been an alumnus of this prestigious institution.
-
-He explained the Growth Lab approach as follows: “Under the Lab approach, we will bring together Government Ministers, government officials, subject matter experts, and key representatives from the private sector to collaboratively engage in detailed discussions over a period of six weeks. The aim is to collaboratively resolve any roadblocks hindering the roll-out of investments and projects by listening carefully to the private sector. During these discussions, comprehensive implementation plans will be developed, and the necessary facilities to support the implementation of these projects will be organised. Government stakeholders involved in the Labs will dedicate their full-time efforts to ensure the successful execution of these projects. As President, I, along with the Cabinet Ministers, will actively participate in this event to demonstrate the government’s commitment to ensuring success of the Lab process”.
-
-The timeline announced was that the lab will be convened in the third quarter of 2023, its report ready by September 2023, and it will be presented to people for their review, suggestions, and approval before the end of 2023. That will be unveiled for implementation as a ‘national transformation plan’. This plan will be based on four important pillars: reforming both the fiscal and financial sectors, driving investments for accelerated economic growth, introducing social protection to the vulnerable and the implementing a strong good governance program, and transforming the state-owned enterprises or SOEs to function as profit centres.
-
-While these are important goals, they do not cover all the required strategies that should be adopted. For instance, they do not include a human resource development plan to upgrade the country’s human capital to a creative capital stock, encouraging the professionals who are leaving the country to contribute to the country’s development through a system of reverse migration, and introducing high technology to the country’s production structure to help it to compete successfully in the global markets.
-
-Sri Lanka’s avowed goal is to deliver richness to its people by 2048 when the country celebrates the centenary of independence from Britain. This is a challenging task since the country is now going through a low-growth scenario till at least 2027. In 2022, it was a negative growth of 7.8% and in 2023, it is projected to have a negative growth of about 4%. From 2024 to 2026, the growth will be at an annual average rate of about 2% according to the forecasts made by both IMF and the World Bank. According to these forecasts, the country will return to the size of its economy which it had in 2021. That amounts to a GDP of $ 85 billion. It is from this level that the country will have to move up to become a rich country by 2048
-
-Even with the limited scope announced, the Government has missed all these milestones in the timeline. Hence, they will have to be redated for 2024. But 2024 will be an election year, and it is unlikely that the energy and the talent pool of the Government could be diverted to this type of long-term planning. But with every passing moment, the country will lose valuable time which cannot be regained. But there is no choice in my view. The Central Bank with the support from IMF has stabilised the economy at a low-level equilibrium. If no proper policies are adopted to upgrade the real economic activities that will deliver richness and prosperity to people, it will be difficult for the country to maintain even this low-level equilibrium.
-
-This is a formidable challenge, and the Government should not take this challenge lightly.
-
-(The writer, a former Deputy Governor of the Central Bank of Sri Lanka, can be reached at [email protected].)
-
-### Now, to those taxes
-
-*2024-01-15 23:46:44 - [dailyftlk](https://www.ft.lk/columns/Now-to-those-taxes/4-757374)*
-
-While a State needs tax revenue to meets its expenses, it is widely acknowledged that high taxes act as a disincentive to investment, and consequently, development. In Sri Lanka, it is money taken from a relatively efficient sector to an inefficient State, mainly to pay its debts and to keep afloat many white elephants in an overall unproductive sector. The most objectionable are the indirect taxes like the ‘VAT’ that leave a deep dent in the average purse, already reeling from the effects of a drastically devalued currency
-
-“Alongside  decayed roués with dubious means of subsistence and of dubious origin, alongside ruined and adventurous offshoots of the bourgeoisie, were vagabonds , discharged soldiers, discharged jailbirds, escaped galley slaves, rogues, mountebanks, lazzaroni, pickpockets, tricksters, gamblers, maquereaus, brothel keepers, porters, literati, organ-grinders, rag-pickers, knife-grinders, tinkers, beggars, in short, the whole indefinite, disintegrated mass, thrown hither and thither, which the French term, la boheme” -The Eighteenth Brumaire of Louis Bonaparte-Karl Marx
-
-No, in the above quote Marx was not describing the Sri Lankan Parliament!
-
-In this instance, Marx’s searing analysis, couched in his accustomed vivacity, was directed at a French social class of early 19th century he describes as the ‘lumpen- proletariat’, which by and large had supported Louis Bonaparte in his quest for the Presidency of France in 1848.Three years later, in 1851, Bonaparte staged a coup d’etat, soaring above the class struggle, that was thought to be imminent. His ascendency despaired outstanding thinkers of the era like Victor Hugo and Karl Marx, who saw Louis Bonaparte as an imposter, a grotesque mediocrity playing the role of a hero.
-
-It was inevitable that Bonaparte would invite comparisons to his epoch making uncle, Emperor Napoleon Bonaparte. Marx mocks the nephew’s (Louis Bonaparte) coup, comparing it with Napoleon Bonaparte’s coup of 1799 on Eighteenth Brumaire. Adopting German philosopher Hegel’s idea that world spirit causes the re-enactment of events, Marx opened his thesis with the celebrated line that history repeats, first as a tragedy (Emperor Napoleon) and then as a farce (nephew Louis Bonaparte). It is uncertain whether Marx accepted the Hegel aphorism as a historical truism, but in the case of Napoleon and his far less illustrious nephew, a telling line indeed.
-
-For France, the 18th and 19th centuries were tumultuous; the land of revolutions, class wars, communes and Napoleon. Marx anticipated a triumphant revolution, but it did not evolve that way. Today France is a highly productive and prosperous country, boasting a vibrant cultural life. Like most western countries, high standards of living across the board have made class definitions and antagonisms meaningless. Uncommonly perceptive Marx may have been, but theoretical postulates must bow to obvious realities. As historian Fukuyama suggests, “history” as an unbroken chain of class struggles may not be tenable in context. That is not to say that human societies will remain static. In time, there is bound to be turmoil and even cataclysmic upheaval, but perhaps not quite on the lines as suggested by Karl Marx.
-
-While the enormous validity of Marx is undeniable, it is also an important factor that his focus was primarily on Europe, then a melting pot of social, economic, national as well as religious ideas. These were years of incredible ferment; everything old was challenged, examined and reformed, if not discarded. Asia was a distant continent, backward and primitive, evoking only an occasional comment from Marx, often derisive. Weak societies, stuck in a mind-set of a bygone era; awash with dark superstitions, in the choking grasp of incompetent despots; they were in no position to resist the European colonisation
-
-Almost every institution we now behold in this country, whether it be the parliament or the judiciary, medical profession or the constabulary, the game of cricket or political parties, owe their introduction to that colonial intrusion.
-
-‘History’ may have ended, ‘races’ have not. In the modern world, certain “peoples” have proved themselves capable of running complex systems, building huge economies, expanding intellectual horizons, providing a high standard of living for its citizens, while at the same time, ensuring a sturdy democratic structure. The endless lines of hopefuls waiting at their door for a better life, is evidence enough of their success, and, a damning testimony to the failure of the feeder countries.
-
-There are other races that have achieved some benchmarks, but not all; successfully building large economies and improving the life of their citizens, relative to the condition they were in before.
-
-There is a third group, repeatedly going from tragedy to comedy, in an endless cycle; limited, inept and fundamentally corrupt. In these countries, in times when the State predominates, their systems are distinguished by corruption, incompetence and stagnation (SriLanka 1970-77). When their private sector comes to the fore, it is cronyism, exploitation and plunder, the free market interpreted by coarse temperaments, through their avaricious eyes
-
-Whether it is State run or private sector heavy, the glaring truth is that Sri Lanka has one of the weakest industrial bases in Asia. Typically, we have clung on to garments, an industry with very little specialisation or innovation and one that keeps migrating to poorer economies (with poor wages) in order to be viable. If not for the plantations established more than two centuries ago, and our blue collar workers in the Middle East, the show would have ended much earlier.
-
-Sri Lanka being a tiny economy, it is inevitable that most businesses are either suppliers or work contractors for the Government. Neither party needs tuition on what makes the system work!
-
-The so called old elite, a comprador class created by the needs of the colonial era, has now given way to a new elite, a parvenu class. If the former were a tragedy, now we have the farce! They are unmistakable; in appearance undistinguished, the expensive designer brands and the contrived casualness sitting awkwardly on the essentially provincial character; ingratiating, self-promoting, slithery; our new rich have all the vices of the old, but none of their virtues! If the former attracted mockery, the latter invites
-
-We do not have an Asian Marx to vivisect the sorry mimic we have made of the adopted system. If there were to be, what he beholds would provide him endless scope for contempt. A lamentable scene, where every aspect of the adopted system is understood only partially, interpreted perversely and works in contradiction of its very purpose.
-
-Our Constitution is a good case in point. Once elected, Sri Lankan politicians become omniscient, the little matter of constitutional tinkering taken in their stride. With cavalier disregard for the consequences (Constitutions are generally rigid, resistant to change) they play at law making. Before the introduction of the 1978 Constitution its spiritual author JR Jayewardene advanced the case for a presidential system, arguing that Sri Lanka needed such a system to embark on our rapid development and that a President carrying a personal mandate from the people need not be deterred in that endeavour by the pressures and restrains that a parliamentary system would necessarily impose. Whatever the legal technicalities may be, the very constitution has now allowed an unelected person to be appointed by Parliament to that
-
-While a State needs tax revenue to meets its expenses, it is widely acknowledged that high taxes act as a disincentive to investment, and consequently, development. In Sri Lanka, it is money taken from a relatively efficient sector to an inefficient State, mainly to pay its debts and to keep afloat many white elephants in an overall unproductive   sector. The most objectionable are the indirect taxes like the ‘VAT’ that leave a deep dent in the average purse, already reeling from the effects of a drastically devalued
-
-And, this is a country where politicians are collecting millions in the guise of election funds, without receipts and without tax!
-
-It is basic to the spirit of democracy that for a Government to impose taxes on the people, must first have a mandate to govern from the people. There cannot be taxation without representation. Leave aside the President, it is extremely doubtful whether the parliamentary majority today   enjoys the trust and confidence of the people any longer. Democracy is not only the holding of periodic elections. For it to have any meaning, the true spirit of democracy must be alive in the hearts and minds of its putative practitioners. If we use the experiences of the past 70 years as a gauge, for these hearts and minds, democracy is just another business, a sure way of hogging the public stage.
-
-When we began our new journey in 1948, there were high expectations. For 70 years we journeyed gaudily and noisily; 70 long years of bombast, phrase-mongering and grandstanding. Now that all this hoopla has ended in a messy train wreck, we see all our post 1948 leaders in true light; second rate men: empty characters with monstrous egos; men of small deeds and big talk.
-
-Not the wreckers of the country, not the beneficiaries from the sleaze, not those who enjoyed all the pageantry and the privileges of the State; the burden has fallen squarely on the millions of our impoverished citizens. Their unelected President demands it. Their elected representatives in Parliament have voted for it.
-
-### IMF team overseeing Sri Lanka’s bailout programme visits Jaffna
-
-*2024-01-15 23:22:00 - [adaderanalk](https://www.adaderana.lk/news/96428/imf-team-overseeing-sri-lankas-bailout-programme-visits-jaffna)*
-
-A team of senior IMF officials overseeing Sri Lanka’s bailout programme has toured the Tamil-dominated Northern district of Jaffna for the first time under the current USD 2.9 billion agreement, officials said on Monday.
-
-Led by Peter Brueur, the International Monetary Fund senior mission chief for Sri Lanka, the team last week met with the Governor of the Northern province, PMS Charles, and other senior officials and discussed issues related to economic growth in the province, demining programmes, resettlement of conflict-displaced individuals and compensation for conflict victims.
-
-They also discussed the educational matters related to Jaffna University, post-COVID operations, and the adverse effects of climate change on the northern region, the officials said.
-
-The team, which returned to Colombo on Monday, is scheduled to engage with the finance ministry. Talks are expected with Shehan Semasinghe, the state minister of finance, who leads the local IMF engagement under President Ranil Wickremesinghe.
-
-The discussions in Colombo are anticipated to focus on the targets outlined in the current IMF programme, which advocates large scale economic reforms in the island nation.
-
-In a meeting with President Wickremesinghe on Thursday last, Brueur had expressed satisfaction with Sri Lanka’s progress in implementing reforms aimed at revitalising the economy.
-
-The global lender had commended Sri Lanka for its advancements in policy-oriented variables and fiscal consolidation.
-
-Sri Lanka, which declared its first-ever debt default in April 2022, had secured an IMF bailout agreement of USD 2.9 billion over four years by the last quarter of 2022.
-
-The first tranche of USD 1.5 billion was released in March 2023, with the second installment of USD 337 million arriving in December 2023 following the first review.
-
-### Mukesh Ambani’s Jio Platforms may invest in Sri Lanka Telecom - report
-
-*2024-01-15 23:12:00 - [adaderanalk](https://www.adaderana.lk/news/96427/mukesh-ambanis-jio-platforms-may-invest-in-sri-lanka-telecom-report)*
-
-Indian billionaire Mukesh Ambani has plans to expand his horizons in the telecommunications business through his firm Jio Platforms, expressing interest in buying stake in Sri Lanka Telecom PLC, the state-owned telecom company, Indian media reported.
-
-The Sri Lankan government has been struggling with the cash-strapped Telecom PLC, as current authorities continue to push for privatisation of many sectors to revive the economy amid the recent financial crisis.
-
-Sri Lankan government had invited applications from potential bidders for Sri Lanka Telecom PLC by November 10, and Mukesh Ambani’s Jio Platforms was one of three companies that expressed interest in buying the stake of the firm, reported Moneycontrol.
-
-The Sri Lankan government on January 12 issued a press release where it named Jio Platforms as one of the potential bidders for their government telecom company. Apart from Jio, the other two companies in the running are Gortune International Investment Holding Ltd and Pettigo Comercio International LDA.
-
-The press release further said that the proposals by the company will be “evaluated as per the Special Guidelines on Divestiture of State-Owned Enterprises approved by the Cabinet of Ministers.”
-
-Sri Lanka has been mandated by the International Monetary Fund (IMF) to push for the privatisation of all the non-core sectors in the country, in order to pull the Sri Lanka out of the deep cash shortage that triggered the anti-government protests in 2022.
-
-With the Sri Lankan investment, Reliance’s Jio Platform is hoping to enter and dominate the global telecom market. Currently, Jio is market leader among all Indian telecom service providers.
-
-Latest figures released by Telecom Regulatory Authority of India (TRAI) showed that Jio added 31.59 lakh mobile users in October 2023, significantly more that top competitor Bharti Airtel.
-
-Recently, Reliance and Jio shares rallied on the stock market after Mukesh Ambani’s investment announcements at Vibrant Gujarat Summit 2024 in Gandhinagar last week. The jump in shares led to Mukesh Ambani reclaiming the spot of the richest person in Asia.
-
-### பத்து மாவட்டங்களில் அதிக ஆபத்து
-
-*2024-01-15 22:08:32 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பத்து-மாவட்டங்களில்-அதிக-ஆபத்து/175-331550)*
-
-நடப்பாண்டின் முதல் பதினைந்து நாட்களுக்குள், பத்து மாவட்டங்களில் அதிக ஆபத்துள்ள பிரதேசங்களாக அடையாளம் காணப்பட்ட 67 சுகாதார வைத்திய அதிகாரி பிரிவுகளில் 5,029 டெங்கு நோயாளர்கள் பதிவாகியுள்ளதாக தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது.
-
-மேல் மாகாணத்தில் 1,700  நோயாளர்கள் பதிவாகியுள்ளனர். வட மாகாணத்தில் 1,494 டெங்கு நோயாளர்கள் பதிவாகியுள்ளனர்.
-
-நாடளாவிய ரீதியில் மேற்கொள்ளப்பட்டு வரும் ஒருவார கால டெங்கு கட்டுப்பாட்டு வேலைத்திட்டத்தின் முன்னேற்றம் தொடர்பான அறிக்கை நாளை (16ஆம் திகதி) வெளியிடப்படலாம் என தேசிய டெங்கு கட்டுப்பாட்டு பிரிவு தெரிவித்துள்ளது. R
-
-### முகத்துவாரம் பகுதியில் துப்பாக்கிச் சூடு; ஒருவர் படுகாயம்
-
-*2024-01-15 21:56:45 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/முகத்துவாரம்-பகுதியில்-துப்பாக்கிச்-சூடு-ஒருவர்-படுகாயம்/175-331541)*
-
-கொழும்பு  - முகத்துவாரம்  பொலிஸ் பிரிவிற்குட்பட்ட ரந்திய உயன  வீட்டுத் தொகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் காயமடைந்துள்ளார்.
-
-முச்சக்கரவண்டியில் வருகை தந்த இருவர் துப்பாக்கிப் பிரயோகத்தை மேற்கொண்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.

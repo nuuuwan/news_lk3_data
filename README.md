@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 23:27:48**
+As of **2024-01-17 00:28:08**
 
 ## Newspaper Stats
 
 * colombotelegraphcom: 21
 
-* bbccomsinhala: 25
-
-* newsfirstlk: 37
+* bbccomsinhala: 26
 
 * virakesarilk: 38
+
+* newsfirstlk: 39
 
 * islandlk: 40
 
@@ -26,7 +26,7 @@ As of **2024-01-16 23:27:48**
 
 * adalk: 115
 
-* **Total**: **666**
+* **Total**: **669**
 
 ## Latest Articles (100)
 
@@ -864,6 +864,18 @@ They had also took into note the UN Working Group on Arbitrary Detention in its 
 
 Through the statement, it was also demanded to immediately release persons arrested or sent to compulsory drug rehabilitation for using drugs/having a drug dependence, cease involving the armed forces in drug control and treatment activities as consistent with human rights law, repeal laws that allow compulsory drug rehabilitation, close compulsory treatment centres and release persons presently held at the centres within the purview of the Bureau of Commissioner General for Rehabilitation.
 
+### Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
+
+*2024-01-16 16:14:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/keselwatta-killing-cops-arrest-four-men-in-alleged-revenge-attack/)*
+
+COLOMBO (News 1st); Four individuals from Keselwatta, Colombo, have been apprehended by the Colombo Crime Division in connection with the December 30th slaying of a local resident.
+
+Initial investigations suggest the killing may have been a reprisal for the victim providing information about a drug dealer to the police.
+
+Authorities confirmed that all four arrested individuals reside in the Keselwatta area.
+
+Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
+
 ### AI தொழில்நுட்ப வலுவூட்டப்பட நாட்காட்டியை வெளியிட்டுள்ளது மக்கள் வங்கி
 
 *2024-01-16 16:08:00 - [virakesarilk](https://www.virakesari.lk/article/174066)*
@@ -881,6 +893,70 @@ Through the statement, it was also demanded to immediately release persons arres
 இலங்கையின் முன்னணி வங்கிகளில் ஒன்றான மக்கள் வங்கி, ரூபா 3 டிரில்லியனுக்கும்  அதிகமான சொத்துக்களையும், ரூபா 2.5 டிரில்லியனுக்கும் அதிகமான வைப்புத்தொகைகளையும் திரட்டியுள்ளது, நாடு முழுவதும் 747 கிளைகள் மற்றும் சேவை மையங்கள் மற்றும் 290 சுய வங்கிச்சேவைப் பிரிவுகள் கொண்ட மிகப்பெரிய வலையமைப்புடன் 14.7 மில்லியன் வாடிக்கையாளர்களுக்கு தனது சேவைகளை வழங்கி வருகின்றது.
 
 வாடிக்கையாளரின் தேவைகளுக்கு ஏற்றவாறு பரந்த அளவிலான நிதிச் சேவைகள் மற்றும் விசேட வங்கிச்சேவை வசதிகளை வழங்கும் மக்கள் வங்கி, பொறுப்புள்ள அரச வங்கியாக நாட்டின் சமூக மற்றும் பொருளாதார முன்னேற்றத்திற்கு தொடர்ச்சியாக அர்ப்பணிப்புடன் செயற்பட்டு வருகின்றது.
+
+### Time To Invest In Sri Lanka Is Now – RW In Davos
+
+*2024-01-16 16:08:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/time-to-invest-in-sri-lanka-is-now-rw-in-davos/)*
+
+President Ranil Wickremesinghe highlighted the present as an opportune moment for investing in Sri Lanka’s renewable energy sector, expressing confidence in its potential to yield substantial benefits for both stakeholders and consumers in the coming decades.
+
+The President also underscored that investors venturing into this sector can anticipate a comprehensive and unwavering policy framework in the realm of renewable energy.
+
+President Ranil Wickremesinghe made these remarks during his address at the “Green Technology Forum” convened on January 15 in Davos, Switzerland. The event was coordinated by the Swiss-Asian Chamber of Commerce.
+
+Speaking on the theme of “Paving the way to an energy secure Sri Lanka,” President Ranil Wickremesinghe highlighted the substantial potential of Sri Lanka’s renewable energy sector. He further outlined the government’s initiatives over the past two years to establish an investment-friendly environment in the renewable energy sector.
+
+Emphasizing Sri Lanka’s dedication to addressing climate change, President Ranil Wickremesinghe elaborated on various measures, including the “Tropical Belt Initiative,” presented at the COP28 conference in Dubai.
+
+Highlighting Sri Lanka’s commitment to sustainable and green development, the President emphasized the nation’s ambitious plans and determination to achieve net-zero emissions by 2050.
+
+President Ranil Wickremesinghe underscored the pivotal role of the rapid renewable energy plan, describing it as a key component of Sri Lanka’s comprehensive efforts towards sustainable development and a crucial step in ensuring energy security.
+
+Following is the full speech delivered by President Ranil Wickremesinghe at the Green Technology Forum in Davos, Switzerland.
+
+I thank the Swiss Asian Chamber of Commerce and their partners in organising this event for the invitation to speak today.
+
+There is an urgent need for acceleration of global actions towards climate change mitigation. There have been multiple global forums which have resulted in numerous commitments towards this end. However, actions have fallen drastically short of commitments.
+
+The fallout of this failure in global leadership is borne largely by developing nations of the global south. When periods of drought extend beyond normal, undermining agricultural production, our food security is in jeopardy. When hydropower gets disrupted due to delayed monsoons, our energy security is in jeopardy. Droughts are often followed by a deluge, leading to flash floods and landslides, disrupting lives and livelihoods of under-privileged communities in particular.
+
+It is very evident that there is a disproportionate impact of the adverse outcomes of climate change on developing countries. This brings to light the issue of climate justice and the need for a stronger contribution from the advanced economies towards adaptation and mitigation efforts in the global south.
+
+That being said, Sri Lanka will forge ahead with its efforts towards climate mitigation. We have also recently launched the Tropical Belt Initiative at the COP28 in Dubai – this creates a framework for catalysing private investment in forests, energy, oceans, mangroves, in the countries of the tropical belt.
+
+Today I want to focus on one key aspect of such efforts, which is our drive towards renewable energy.
+
+In fact, Sri Lanka is a country with a long history of renewable energy. Since independence Sri Lanka developed an extensive network of hydropower, commissioning its first major hydro-power plant in 1950. Hydropower was able to provide for most of the country’s energy needs until the 1990s. Even today, hydropower accounts for around 40% of Sri Lanka’s installed electricity generation capacity.
+
+With hydropower largely exploited to the optimal levels, there has been an increased effort to include wind and solar power generation to the national grid. The government is now accelerating this process to ensure that by 2030, 70% of Sri Lanka’s electricity needs are fulfilled by renewable energy sources.
+
+To reach this target requires a large investment of up to USD 11.5 billion. However, until recently the framework for private investment in the renewable energy sector has not been very conducive. Over the last 2 years several measures have been taken by the government to correct these shortcomings and ensure an optimal investment climate for renewable energy is in place.
+
+The first step was to ensure cost reflective pricing. Between 2014 and 2022 electricity tariffs had not been adjusted. This resulted in major cash flow problems for the Ceylon Electricity Board that sometimes led to payment delays to power suppliers. However, from August 2022 we have shifted to a cost-reflective pricing structure. Accordingly, electricity tariffs are revised every quarter to reflect costs on a forward looking basis.
+
+The CEB, which has long been a loss making entity, returned a profit in 2023, enabling it to settle significant levels of past debt along with some balance sheet structuring. The company now has a strong balance sheet, a far stronger cash flow position, and a pricing structure that ensures liquidity.
+
+Rigidities in the feeding tariff has also been a concern of past investors. However, this has also been addressed with greater flexibility being introduced to the tariff options, including choices between fixed tariff and variable tariff formulas.
+
+In addition to internal reform, we are also putting in place the framework to attract green financing. Sri Lanka has developed the Road Map for Sustainable Finance, Green Finance Taxonomy, the SDG Investor Map and the Green Bond Framework, that is currently under formulation, creates the enabling environment for Sri Lanka to have a robust engagement in climate finance. The availability of sustainable finance will be an added boost for renewable energy investments in Sri Lanka.
+
+There have also been legislative barriers to large scale private investment in the renewable energy sector. Those legal hurdles have also been cleared through necessary amendments to the Electricity Act introduced in 2022.
+
+Thirdly, the government is in the final stages of implementing unbundling of the Ceylon Electricity Board. This will result in greater financial and operational autonomy for the distribution, generation, and transmission arms of the CEB, resulting in competition and transparency. Whilst private participation in generation is already available, the unbundling process will open up opportunities for private participation in distribution as well.
+
+This major reform, implemented with the support of the Asian Development Bank, will ensure the CEB operates at the frontier of efficiency, delivering the best outcome for consumers and the most competitive and efficient producers of electricity. The draft legislation for this reform was already been published last month.
+
+The ambition of 70% electricity from renewals also requires improved system efficiency and upgrades to integrate more renewable energy, particularly from 2026. Investments will be required in storage, transmission, and distribution, along with the ongoing private investments in generation. Plans for this integration up to 2030 are in place and have begun implementation.
+
+Following the major reforms implemented in the energy sector in the last 2 years, there has been renewed interest in this sector. There are already large scale solar and wind power projects that have commenced implementation. A major Indian player has commenced implementation of a 350MW wind power plant that is expected to be commissioned in 2025. The same player is considering a further USD 750 million investment in wind power.
+
+Wind power is a major opportunity for Sri Lanka. A recent World Bank report indicates that off-shore wind power in particular has the potential to generate power far greater than Sri Lanka’s requirements. Considering this, Sri Lanka and India are in advanced stages of talks regarding grid inter-connection to enable Sri Lanka to export surplus electricity particularly to the fast growing industrial belt in the Southern part of India. There is also tremendous potential for the development of green hydrogen in Sri Lanka.
+
+Sri Lanka has ambitious plans to fulfil its sustainable, green development agenda. By 2050 the country has committed to achieving net zero. The accelerated renewable energy plan is a key component of this overall effort and is also an essential step on the path towards energy security. Renewable energy will also drive down costs of generation since at present Sri Lanka is compelled to rely on high cost heavy fuels during the dry season. Sri Lanka is in the process of establishing an international climate university, which will continue to unlock opportunities in green energy.
+
+It is clear that Sri Lanka’s renewable energy policy direction is underpinned by multiple motivations and drivers. Therefore investors can expect a high degree of policy continuity in this sector going forward as well. This is the best time to invest in Sri Lanka’s renewable energy journey, and I have no doubt such investments will generate significant value for shareholders and Sri Lanka’s consumers over the next several decades.
+
+Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### ஆடைகளை திருடிய எம்.பி இராஜினாமா
 
@@ -1126,7 +1202,7 @@ Lalith Jayasinghe was remanded on charges of interfering with the police investi
 
 The Former Senior DIG was charged with interfering with the police in order to prevent the arrest of then Deputy Minister Premalal Jayasekera, who was suspected of being involved in the crime.
 
-Protests as Activists Accuse Former Health Minister of Pharma Fraud
+Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### More details revealed in murder of “Bada Ranji”
 
@@ -1314,7 +1390,7 @@ COLOMBO (News 1st) –  Vegetable prices in Sri Lanka skyrocketed on Tuesday (1
 
 These prices were confirmed by the All Ceylon Economic Center Trader's Association
 
-Protests as Activists Accuse Former Health Minister of Pharma Fraud
+Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### වාහන 30 ක් ආනයනයට විශේෂ අවසරයක්
 
@@ -1342,7 +1418,7 @@ He acknowledged the problem, stating that the shortage of stents.
 
 Furthermore, Dr. Palitha Mahipala, Secretary of the Ministry of Health, confirmed the ongoing shortage and assured that orders have been placed to replenish the necessary medical supplies.
 
-Protests as Activists Accuse Former Health Minister of Pharma Fraud
+Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
@@ -1356,7 +1432,7 @@ Civil society representatives, mass organization leaders, and social activists j
 
 Their intention to march from the Ministry to the Cinnamon Gardens Police Station was abruptly halted by a police intervention.
 
-Protests as Activists Accuse Former Health Minister of Pharma Fraud
+Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### පාසලේ තැඹිලි කඩන්න  සිසුවා විදුලිසැර වැදී මරුට
 
@@ -1446,7 +1522,7 @@ Authorities recovered a substantial amount of narcotics during the operation, wi
 
 Over 7 kilograms of the highly addictive drug were confiscated.
 
-Protests as Activists Accuse Former Health Minister of Pharma Fraud
+Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### Sri Lanka faces alarming increase in dengue cases reported this year
 
@@ -1465,6 +1541,20 @@ Last year, a total of 87,078 dengue cases were reported in Sri Lanka with 57 dea
 In the meantime, efforts are underway to control the spread of dengue across the country through the implementation of diverse programmes.
 
 On January 03, a decision was reached in the presence of President Ranil Wickremesinghe to establish an operational unit directly supervised by the Ministry of Health to combat the spread of dengue. The objective of the unit is to create a reporting system for ongoing dengue control programmes, tracking daily progress in the province and outlining future measures.
+
+### 'පට්ටි පොංගල් ගොවීන්ගේ කළු දිනයක්' :  තෘණ භූමියේ අයිතිය ඉල්ලා කරන සටනට දින 124ක්
+
+*2024-01-16 12:04:03 - [bbccomsinhala](https://www.bbc.com/sinhala/articles/ce7kr5pwdwyo)*
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "'පට්ටි පොංගල් ගොවීන්ගේ කළු දිනයක්' :  තෘණ භූමියේ අයිතිය ඉල්ලා කරන සටනට දින 124ක්", ධාවන කාලය 1,4401:44වීඩියෝ ශීර්ෂ වැකිය, ගැටළුව පිළිබඳව බලධාරීන්ගේ අවධානය යොමු කරවීම සඳහා අද 'පට්ටි  පොංගල්‍'. ගොවීන්ගේ කළු විරෝධතා දිනයක් ලෙස ඔවුහු නම්  කළහ.
+
+'පට්ටි පොංගල් ගොවීන්ගේ කළු දිනයක්' :  තෘණ භූමියේ අයිතිය ඉල්ලා කරන සටනට දින 124ක්
+
+මඩකලපුව, මයිලත්තමඩු, මාදවනෙයි තෘණ භූමියේ බලහත්කාරයෙන් වගා කරන ගොවීන් එම ස්ථානයෙන් ඉවත් කරන ලෙස ඉල්ලා දෙමළ කිරි ගොවීන් ආරම්භ කර ඇති විරෝධතාව අද (ජනවාරි 16) අඛණ්ඩව  124 වන දිනටත් ක්‍රියාත්මක වේ.
+
+ඒ ගැටලුව පිළිබඳව බලධාරීන්ගේ අවධානය යොමු කරවීම සඳහා අද 'පට්ටි  පොංගල්‍' ගොවීන්ගේ කළු විරෝධතා දිනයක් ලෙස ඔවුහු නම්  කළහ.
+
+මඩකලපුව නගරයේ කළ විරෝධතාවෙන් අනතුරුව ඔවුහු දිස්ත්‍රික් ලේකම්වරිය හමු වී ගැටලුවට විසඳුම් ඉල්ලා සාකච්ඡා කළහ.
 
 ### மாம்பழ அறுவடையில் சாதனை
 
@@ -1542,7 +1632,7 @@ This closure will trigger the dissolution of various Parliamentary Committees, i
 
 Upon the resumption of the parliamentary session in February, the process of appointing new members and reforming the committees will begin.
 
-Protests as Activists Accuse Former Health Minister of Pharma Fraud
+Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### Iowa caucus 2024: Trump dominates, DeSantis edges Haley for second
 
@@ -1750,7 +1840,7 @@ A similar process is run by the Democratic Party, which has not yet begun. Incum
 
 Trump, 77, is battling multiple legal challenges in many state and federal courts over his role in the failed 2021 January 6 insurrection, which may disqualify him from being a candidate.
 
-Protests as Activists Accuse Former Health Minister of Pharma Fraud
+Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### කැරට් කිලෝව රු. 1800ට වැඩිවෙයි
 
@@ -1802,7 +1892,7 @@ Sri Lanka’s Colombo Port has seen higher transshipment volumes as ships going 
 
 Talk of The Town | Transparency Under a Veil? | Nadishani perera | 16th January 2024
 
-Protests as Activists Accuse Former Health Minister of Pharma Fraud
+Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### MIDDLE EAST CRISIS: Iran attacks site in Iraq it says is a Mossad office. Houthi missile hits US cargo ship
 
@@ -1826,7 +1916,7 @@ The Houthis have been staging attacks against ships in the Red Sea for more than
 
 Most of the world's largest shipping firms have suspended sending vessels through the Red Sea and are now using the much longer route around Africa. This has driven shipping rates up and caused some disruption to global supply chains.
 
-Protests as Activists Accuse Former Health Minister of Pharma Fraud
+Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### ඇවිදගෙන ගිය රසින්ත ඇවිද ගන්නත් බැරිව සෞදියෙන් එයි
 
@@ -1917,41 +2007,3 @@ The Colombo Stock Exchange opened down after the long weekend; The All Share Pri
 நாடளாவிய ரீதியில் சுகாதார சேவை ஊழியர்களால் ஏற்பாடு செய்யப்பட்ட பணிப்புறக்கணிப்புக்கு மத்தியில் வைத்தியசாலை நடவடிக்கைகளுக்கு ஆதரவாக முப்படைகள் அணிதிரட்டப்பட்டுள்ளதாக பாதுகாப்பு படைகளின் பிரதானி ஜெனரல் சவேந்திர சில்வா தெரிவித்துள்ளார்.
 
 வைத்தியரில்லாத ஊழியர்கள் இன்று (16) காலை 8.00 மணி முதல் நாடளாவிய ரீதியில் பணிப்பகிஷ்கரிப்பை மேற்கொள்ள தீர்மானித்துள்ளதாக சுகாதார பிரிவை பிரதிநிதித்துவப்படுத்தும் தொழிற்சங்கங்கள் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
-
-### நிறைந்து வழியும் சிறைச்சாலை
-
-*2024-01-16 09:43:04 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/நிறைந்து-வழியும்-சிறைச்சாலை/175-331560)*
-
-சிறைச்சாலைகளில் உள்ள சிறை அறைகளின் கொள்ளளவை விட அதிகள அளவில் கைதிகள் தடுத்து வைக்கப்பட்டுள்மை தெரியவந்துள்ளது.
-
-கைதிகளின்  எண்ணிக்கை 232 சதவீதமாக அதிகரித்துள்ளதாக சிறைச்சாலைகள் தொடர்பில் முன்னெடுக்கப்பட்ட கணக்காய்வு அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
-
-அத்துடன், சிறைக் கைதிகளை பராமரிக்க ஆண்டுதோறும் 800 கோடி ரூபாய்க்கு மேல் அரச செலவீனங்கள் ஏற்படுவதாக அந்த அறிக்கையில் கூறப்பட்டுள்ளது.
-
-27 சிறைச்சாலைகளில் 187 கழிவறைகள் பற்றாக்குறையாக உள்ளதாகவும், தற்போதுள்ள 287 கழிவறைகள் பழுதடைந்த நிலையில் இருப்பதாகவும் தெரிவிக்கப்பட்டுள்ளது.
-
-கைதிகளுக்கு பிணை வழங்கப்பட்டுள்ள போதிலும் பிணை நிபந்தனைகளை பூர்த்தி செய்ய முடியாமல் பெரும் எண்ணிக்கையிலான கைதிகள் சிறையில் உள்ளதாக அந்த அறிக்கை தெரிவிக்கிறது.
-
-அவ்வாறு சிறையில் உள்ள கைதிகளின் எண்ணிக்கை 1,795 என்றும் அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
-
-மேலும், 2011 முதல் 2020 வரை இரண்டு சிறைச்சாலைகளில் ஏற்பட்ட பல்வேறு பிரச்சனைகளால் பல கட்டடங்கள் அழிக்கப்பட்டுள்ளதாக அந்த அறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
-
-### ‘யுக்திய’ நடவடிக்கை: மேலும் 877 சந்தேக நபர்கள் கைது
-
-*2024-01-16 09:38:07 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-நடவடிக்கை-மேலும்-877-சந்தேக-நபர்கள்-கைது/175-331559)*
-
-நேற்ற (15) நள்ளிரவு 12.30 மணியுடன் நிறைவடைந்த 24 மணித்தியால காலப்பகுதியில் 877 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
-
-இதன் போது 475 கிராம் ஹெரோயின், 501 கிராம் ஐஸ் மற்றும் 126 போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-### ’’ஆகாய விமானம் தாங்கிய போர் விமானம்’’
-
-*2024-01-16 09:34:53 - [tamilmirrorlk](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆகாய-விமானம்-தாங்கிய-போர்-விமானம்/71-331558)*
-
-யாழ்ப்பாணம் - வல்வை உதயசூரியன் கடற்கரையில்  நேற்றைய தினம் திங்கட்கிழமை நடைபெற்ற மாபெரும்  பட்டப் போட்டியில் 60ற்கு மேற்பட்ட பட்டங்கள் வானில் பறக்கவிடப்பட்டு இருந்தன.
-
-போட்டியில் முதலாம் இடத்தினை, "ஆகாய விமானம் தாங்கிய போர் விமானம்" என்ற பட்டம் பெற்றது. அதற்கான பரிசினை அந்த பட்டத்தினை வடிவமைத்த  வினோதன் பெற்றுக்கொண்டார்.
-
-இரண்டாம் இடத்தினை " விண்வெளியில் நிலை நிறுத்திய செயற்கை கோள்" என்ற பட்டம் பெற்றது. அதற்கான பரிசினை , அந்த பட்டத்தினை வடிவமைத்த பிரசாந்த் பெற்றுக்கொண்டார்.
-
-மூன்றாம் இடத்தினை " ஏலியன்ஸ் மர்ம தாக்குதல் விமானம்" என்ற பட்டம் பெற்றது. அதற்கான பரிசினை அந்த பட்டத்தினை வடிவமைத்த கம்ஸன் பெற்றுக்கொண்டார்.  R

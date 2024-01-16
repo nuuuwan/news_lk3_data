@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 07:39:53**
+As of **2024-01-16 08:27:53**
 
 ## Newspaper Stats
 
@@ -24,9 +24,9 @@ As of **2024-01-16 07:39:53**
 
 * dailyftlk: 97
 
-* dbsjeyarajcom: 111
+* dbsjeyarajcom: 112
 
-* **Total**: **547**
+* **Total**: **548**
 
 ## Latest Articles (100)
 
@@ -695,6 +695,76 @@ The fall of Paletwa in the west comes after another rebel group in the Three Bro
 Last week, the junta agreed a ceasefire with that group, the TNLA, for the region bordering China. The talks were held in the Chinese city of Kunming and facilitated by Chinese officials.
 
 But on Sunday, the rebel alliance said junta forces are breaching the ceasefire agreement, launching attacks in several townships in Shan State.
+
+### Shritharan  Backed by Yoheswaran  Asks Sumanthiran not to Contest the ITAK President Election.
+
+*2024-01-15 18:18:00 - [dbsjeyarajcom](https://dbsjeyaraj.com/dbsj/?p=83440)*
+
+“Suma, Shri And Yohes In Triangular Contest For ITAK/FP Leadership” was the heading of my article published in the “Daily Mirror”of 16 December 2024. Ihe article  was about the forthcoming  election for the Ilankai Thamil Arasuk Katchi(ITAK) President post. The ITAK known as the Federal Party (FP) in English is the premier political Party of  the  Northern and Eastern  Tamils of  Sri Lanka.   Currently the ITAK/FP has six MPs in Parliament representing  the two Northern and three Eastern electoral districts.
+
+As stated earlier the ITAK’s long delayed party convention is scheduled for  January 27 and 28 this year in Trincomalee. A crucial change of leadership is on the cards as the current ITAK President Somasuntharam Senathirajah known as “Maavai” is on the verge of “compulsory  retirement”. “Maavai” has been ITAK President since 2014.
+
+Hence, a new President will be elected one week before   the convention  at a combined meeting of the ITAK “Podhu Sabhai”(General Council) and “Mathiya Seyal Kuzhu” (Central working Committee) to be held on 21 January in Trincomalee. Around 325  persons from the General council and 50 from the Central Working Committee will elect the new president.Voting is by secret ballot. Voting by proxy is not allowed.
+
+Three contenders are in the fray for the ITAK Presidency. The three aspirants to the ITAK leadership  mantle are Mathiaparanan Abraham Sumanthiran, Sivagnanam Shritharan and SeenithambyYoheswaran. As is well known, Sumanthiran and Shritharan are both Jaffna district MP’s while Yogeswaran is a former Batticaloa district Parliamentarian.
+
+The eldest of the competing trio, M A Sumanthiran  was  born in 1964 and is a lawyer by profession. He was first appointed as a national list MP in 2010. Subsequently he was elected to Parliament from the Jaffna district in the 2015 and 2020 elections.
+
+S. Shritharan was  born in 1968. He is a former teacher and school principal. Shritharan was elected successively to Parliament from the Jaffna district in the 2010, 2015 and 2020 elections.
+
+The youngest of the trio is S.Yoheswaran born in 1970. Yoheswaran’s vocation/profession  is social service.  Yoheswaran was elected from the Batticaloa district to Parliament in 2010 and 2015. He contested the 2020 polls but was not elected.
+
+The nomination procedure requires a  minimum of six members of the Central Working Committee  to propose a name with the prospective candidate’s consent. In this instance Sumanthiran’s name was proposed by twelve persons while Shritharan and Yoheswaran were nominated by six persons each. They were from Kilinochchi and Batticaloa district respectively. Sumanthiran was nominated by four persons from Jaffna district and one each from the Kilinochchi, Mannar, Mullaitheevu,Vavuniya,Trincomalee,Batticaloa, Amparai and Colombo districts respectively.
+
+The election to the party president post is  a “first” for the ITAK. Though the party constitution states an election must be held if there are two or more candidates, there has never been a presidential election in the ITAK’s 74 year old history. The Party’s co-founder and respected leader Samuel James Veluppillai Chelvanayagam venerated by his followers as “Thanthai Chelva” adopted the practice of   selecting a leader through a consensus among  senior leaders and obtaining approval from the rank and file at the party convention.
+
+An election of a president for the first time therefore is a refreshing  feature as it strengthens inner -party democracy. However there were many within and without the ITAK who feared that a competitive election could result in  the party breaking up. These  worries were compounded  by the veiled threats issued on behalf of a potential candidate by his supporters that their man would form a new party or join another party if he was not elected president. There was concern that the party would be divided.
+
+This writer too  had some concerns about an election. I felt that under prevailing circumstances , the holding of a presidential election could encourage fissiparous tendencies within the party and ultimately lead to fragmentation. The party could suffer a serious split. Besides an election could  create an opening for extraneous intervention by the global Tamil Diaspora, Elements in India and the Sri Lankan “deep state”
+
+As such  I urged well-intentioned ITAK stalwarts and well-wishers to intervene and bring about a compromise among the candidates thereby avoiding an election.
+
+I  called upon  ITAK leaders like Sampanthan, Maavai Senathirajah, CVK Sivagnanam, Kurukularajah to work positively and constructively in this regard. The ”Daily Mirror”article was translated into Tamil and published in Tamil newspapers. The feedback I received indicated that my viewpoint had struck a responsive chord in some   ITAK members, supporters and well-wishers.
+
+Initially  there were reports of the ITAK’s “emeritus leader”  Rajavarothayam Sampanthan writing a letter to current ITAK  president “Maavai”Senathirajah about the ITAK Presidential election. The Nonagenarian  Trincomalee MP does not hold any post in the ITAK now, but is respectfully referred to as “Perunthalaiver” (Great leader) by  the Tamil media. The Octogenarian  ”Maavai” Senathirajah who was Jaffna district MP for almost two decades, lost in 2020 and is no more an MP.
+
+“Maavai”  SEnathirajah has clung on to the ITAK presidency for nine years despite calls by many to relinquish his post and enable  new leaders  to take over. When Sampanthan became ITAK president in 2010, he served for two , two -year terms and let Senathirajah who was then  the general secretary become president in 2014.  Senathirajah who should have stepped down gracefully in 2018 did not do so. Instead he has hung on to the presidency by “hook or by crook”.  The ITAK Party convention was not held for several years so as to avert  the advent of a new president.
+
+Finally overwhelming pressure from the party rank and file compelled Senathirajah to comply with the demand for a party convention. When it became clear that there was going to be an election,  some had genuine  concerns about a party split as a result, “Maavai”  then suggested  that he should continue further as president instead of having an election. This was rejected by the party. Moreover the rival  candidates themselves   “united” on this issue and reiterated the call for an election.
+
+Under these circumstances, Sampanthan’s letter provided Maavai with another opportunity to remain in office as ITAK president. Sampanthan piqued with some ITAK partymen in Trincomalee alleged that elections for  branch leadership posts  in the district had not been done properly. (Sampanthan’s troubles with the ITAK in Trinco may be discussed in detail in a future article) As such he wanted the present branches to be dissolved and urged that the party convention should not be held until then.
+
+“Maavai” utilsed Sampanthan’s demand to his advantage. He suggested that the ITAK Convention be postponed indefinitely until Sampanthan’s grievances were redressed. Until then he Senathirajah would continue to be  the ITAK’s pro tem president. An ITAK Politbureau meeting was convened at Sampanthan’s Colombo residence on 10 January to discuss the issue.
+
+Meanwhile  Ex-MP Yoheswaran openly aligned with Shritharan and extended support to him in the  ITAK presidential hustings. This made the election a duel between Sumanthiran and Shrithaean.
+
+When the  ITAK politbureau met on  Jan 10th, Senathirajah was in for a surprise. Although the Politbureau meeting had been convened to discuss  matters like Sampanthan’s letter of complaint against the ITAK Trinco branches, postponng the Convention and endorsing  “Maavai” as pro tem ITAK president, those did not happen.
+
+Sampanthan pointedly refrained from discussing  the Trincomalee branch issue. Therefore the matters of postponing the convention and appointing  a pro tem president were not taken up for discussion. What  Maavai did not know was that three  concerned individuals all of them lawyers had visited Sampanthan at different times prior to the Politbureau meeting and discussed Sampanthan’s grievances. The “Perunthalaiver”was satisfied and a  compromise arrived at.. As a result  Sampanthan did not follow up his letter of complaint.
+
+The Politbureau therefore confirmed that the convention would take place. The President election would also be held. Nevertheless, some felt that an election should be averted and the party tradition of electing a president through a consensus should be  continued. Sampanthan too expressed the same sentiments. It appeared that most members of the Politbureau wanted the  candidates to arrive at an understanding and do away with an election. This placed the two main contenders in a delicate position. What was to be done?
+
+Sumanthiran then   stated that he was prepared to discuss the matter  the next day and possibly reach an understanding ,if  Shritharan and Yoheswaran were willing.  Both Shri and Yohes agreed. Sumanthiran then  suggested that all three of them meet the following day and  arrive at a compromise if possible. Thre was agreement and it was decided that Sumanthiran would  meet with Shritharan at the latter’s  residence in Madiwela. Yoheswaran was also staying there.
+
+The meeting took place on January 11th morning at Madiwela.  Sumanthiran began the talks by saying “let us discuss this matter in deference to the wishes of the Politbureau and reach a settlement”.Shritharan cut to the chase immediately by asking Sumanthiran to withdraw  and let him (Shri)become president. He would quit in two years and let Sumanthiran be president.
+
+Taken aback by this blunt “request” Sumanthiran asked Shritharan  why he was making this demand. Shritharan replied in Tamil “You once said that you will work with me as Party leader”. Sumanthiran then refreshed Shritharan’s memory by referring to the context in which he reportedly said this.
+
+“You had announced that you (Shritharan)were ready to take up the  leadership of the ITAK. The media asked me what my response was to your statement. I replied that I would be prepared to work under you if the party elected you as president. Subsequently you apologized to Senathirajah for making such a statement and declared that you wont be interested in a leadership position for five years” Sumanthiran reminded Shritharan
+
+Sumanthiran pointed out that Shritharan had not been elected president and therefore  the question of working under him did not arise. At this point Shritharan asked Sumanthiran why he wanted to be the ITAK president. “Why cant you let me be President this time and take over after me?” asked Shri.He also reiterated that the ITAK presidency could be shared by both on a rotational basis of two years each.
+
+Sumanthiran responded by saying that he was not interested in being president on a rotational basis. He said that the Tamil people were facing a huge crisis at present.  It was the ITAK that could provide positive leadership at this juncture. The party needed both change and continuity.
+
+The President’s counsel pointed out that he could provide both  change and continuity as he had been involved in every major  political initiative undertaken by the ITAK concerning the Tamil national question. He had participated in negotiations and discussions nationally and internationally. He  was in contact with many international leaders and officials. He had also handled legal matters in a number of issues affecting Tamils. Besides he  had good relations with a number of  political leaders from different parties said Sumanthiran
+
+Speaking further Sumanthiran said that on the strength of his background and experience ,he was  confident of leading the ITAK  successfully   in the near future. He said  that with the support of the party, he hoped to accomplish several things for the benefit of the Tamil people during his tenure.  Sumanthiran also said that he had publicly announced that he would retire from Politics when he reached 65 years and that he would be 60 next February. Therefore he was not going to be President for a long time.
+
+The  third candidate Yoheswaran was a silent listener to the conversation. At this juncture Yoheswaran got up and prepared to leave. Shritharan then  said let the election take place and ended the discussion. Sumanthiran left. The discussion did not take more than 20 minutes. Consequently both Sumanthiran and shritharan spoke to Tamil media outlets and said that the party would elect the new president.
+
+The stage therefore is set for  the ITAK presidential election on 21 January. One of the three candidates Yoheswaran has thrown in his lot with  another candidate  Shritharan. The election will therefore be a duel between Sumanthiran and Shritharan. The  fate of the ITAK presidential election will greatly determine the future course of Tamil  Nationalist politics in Sri Lanka.
+
+This Article appears in the “DBS Jeyaraj Column”in the “Daily Mirror”dated 13 January 2024.It can be accessed here =-
 
 ### Yohani…doing it with Waves
 
@@ -1927,21 +1997,3 @@ Save my name, email, and website in this browser for the next time I comment.
 එක් සිසුවියකගේ මවගේ උපන්දිනය අදට යෙදී ඇති බවත් , පිරිසඑහි  සතුට  සැමරීමට ගොස් සිට ඇති බවද සඳහන් වේ.
 
 මෘතදේහ පශ්චාත් මරණ පරීක්ෂණ සදහා  කළුතර නාගොඩ ශීක්ෂණ රෝහලේ තැන්පත් කර තිබේ.
-
-### බදු ඉවසාගෙන හිටියොත් රට සංවර්ධන මාවතට - IMF
-
-*2024-01-14 21:26:31 - [adalk](https://www.ada.lk/breaking_news/බදු-ඉවසාගෙන-හිටියොත්-රට-සංවර්ධන-මාවතට---IMF/11-407548)*
-
-ශ්‍රී ලංකාවේ නිල සංචාරයක නිරතව සිටින ජාත්‍යන්තර මූල්‍ය අරමුදලේ ජාත්‍යන්තර මුල්‍ය අරමුදලේ ජ්‍යෙෂ්ඨ කළමනාකාර අධ්‍යක්ෂ Peter Breuer මහතා ඇතුලු නිලධාරීන් කණ්ඩායම අද (14) සවස උතුරු පලාතේ සංචාරයක නිරත විය.
-
-උතුරු පලාත් ආණ්ඩුකාර කාර්යාලයේදී පළමුව උතුරු පලාත් අණ්ඩුකාර පී.ඒස්.ඒම්. චාල්ස් මහත්මිය හමු වූ ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත පිරිස උතුරු පලාතේ ජනජීවිතයේ වර්ථමාන තත්වය සහ සංවර්ධන කටයුතු පිළිබඳව කරුණු විමසා බැලීය.
-
-උතුරු පලාතේ ජීවත්වන ජනතාව ආර්ථිකමය වශයෙන් සවිබල ගැන්වීම, ප්‍රදේශයේ යටිතල පහසුකම් සංවර්ධනය, ජනතාවගේ ජීවන තත්වය නංවාලීම සඳහා ක්‍රියාත්මක කල හැකි සාධනීය යෝජනා පිළිබඳව මෙහිදී සාකච්ඡාවට ලක්විය.
-
-ඉන් අනතුරුව උතුරු පලාත් ආන්ඩුකාර කාර්යාලයේදීම ජාත්‍යන්තර මූල්‍ය අරමුදලේ නිලධාරීන් පිරිස උතුරේ ව්‍යාපාරික නියෝජිතයින්, සරසවි නියෝජිතයින් පිරිසක් මෙන්ම සාමාන්‍ය වැසියන් කිහිප දෙනෙකුද හමු වී සාකච්ඡාවක නිරත විය.
-
-මෙහිදී උතුරේ ව්‍යාපාරික ප්‍රජාව විසින් ජාත්‍යන්තර මූල්‍ය අරමුදලේ නිලධාරීන් වෙතට දැනුම් දී සිටියේ නව බදු ප්‍රතිපත්තිය හේතුවෙන් උතුරේ නැවත පදිංචි වූ ජනතාවට විවිධ අවස්ථාවන්හි ගැටලු සහගත තත්වයන්ට මුහුණ පෑමට සිදුව ඇති බවටය.
-
-ඒහිදී ජාත්‍යන්තර මුල්‍ය අරමුදලේ නිලධාරීන් විසින් පෙන්වා දී ඇත්තේ උතුරේ වැසියන්ට මෙන්ම ශ්‍රීලංකා වාසීන්ට නව බදුප්‍රතිපත්තිය හේතුවෙන් අපහසුතාවන්ට මුහුණ පෑමට සිදුව ඇත්තේ අතීත අවධිමත්වූ බදුප්‍රතිපත්ති හේතුවෙන් බවටත් නව බදු ප්‍රතිපත්තිය යම් කාලයක් ඉවසාගෙන සිටින්නේ නම් රටේ සංවර්ධනය කරා ගමන් කිරීමට හැකියාවක් ඇති බවටය.
-
-ඒමෙන්ම මේ වන විටත් ශ්‍රීලංකාව ඒවැනි වූ ධනාත්මක රටාවකට ගමන් කරමින් සිටින බැවින් යම් කාලයක් ඊට ගතවන බවට ජාත්‍යන්තර මුල්‍ය අරමුදලේ නිලධාරීන් වැඩිදුරටත් පැවසීය.

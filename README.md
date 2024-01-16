@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 14:27:47**
+As of **2024-01-16 15:28:06**
 
 ## Newspaper Stats
 
@@ -10,7 +10,7 @@ As of **2024-01-16 14:27:47**
 
 * bbccomsinhala: 24
 
-* newsfirstlk: 28
+* newsfirstlk: 37
 
 * economynextcom: 39
 
@@ -22,13 +22,25 @@ As of **2024-01-16 14:27:47**
 
 * dailyftlk: 97
 
-* adalk: 105
+* adalk: 106
 
 * dbsjeyarajcom: 112
 
-* **Total**: **587**
+* **Total**: **597**
 
 ## Latest Articles (100)
+
+### Ex-DIG given bail in Kahawatte Shooting Case
+
+*2024-01-16 14:32:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/ex-dig-given-bail-in-kahawatte-shooting-case/)*
+
+COLOMBO (News 1st); Former Senior DIG Lalith Jayasinghe was bail by Ratnapura High Court Judge Lanka Jayaratne over a shooting incident in 2015.
+
+Lalith Jayasinghe was remanded on charges of interfering with the police investigations into the shooting that took place in Kahawatte in 2015 that resulted in the death of one person, and injured several others.
+
+The Former Senior DIG was charged with interfering with the police in order to prevent the arrest of then Deputy Minister Premalal Jayasekera, who was suspected of being involved in the crime.
+
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
 ### இளநீர் பறித்த மாணவன் மின்சாரம் தாக்கி பலி
 
@@ -50,6 +62,16 @@ As of **2024-01-16 14:27:47**
 
 புத்த பெருமானையும், பிக்குகளையும், பௌத்த மதத்தையும் அவமதிக்கும் வகையில் பிரசங்கங்கள் மேற்கொள்ளப்பட்டமை மற்றும் பணச் சலவைச் சட்டம் மற்றும் பொது ஒழுங்கை மீறியமை தொடர்பில் சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
 
+### Vegetable prices skyrocket in Sri Lanka
+
+*2024-01-16 13:35:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/vegetable-prices-skyrocket-in-sri-lanka/)*
+
+COLOMBO (News 1st) –  Vegetable prices in Sri Lanka skyrocketed on Tuesday (16) to unexpected levels.
+
+These prices were confirmed by the All Ceylon Economic Center Trader's Association
+
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
+
 ### වාහන 30 ක් ආනයනයට විශේෂ අවසරයක්
 
 *2024-01-16 13:32:44 - [adalk](https://www.ada.lk/breaking_news/වාහන-30-ක්-ආනයනයට-විශේෂ-අවසරයක්/11-407577)*
@@ -61,6 +83,36 @@ As of **2024-01-16 14:27:47**
 2024 .01.11 දිනෙන් ප්‍රකාශයට පත්කෙරුණු අංක 2366/19 දරණ මෙම ගැසට් පත්‍රය මගින් අධ්‍යාපන අමාත්‍යාංශයට බස් රථ දෙකක්,සෞඛ්‍ය  අමාත්‍යාංශයට ජංගම මාතෘ ඒකක වාහන  තුනක් සහ  ඩබල් කැබ් රථ 21  ක් ,කම්කරු හා විදේශ රැකියා අමාත්‍යාංශයට එස්.යූ.වී රථ එකක් සහ ශ්‍රී ලංකන් ගුවන් සේවයට පිරිමැසුම් පංතියේ රැම්ප් රථ තුනක් වශයෙන් මෙම වාහන ආනයන  අවසරය ලබා දී තිබේ.
 
 වරාය , නාවික හා ගුවන්සේවා අමාත්‍යවරයා ඉදිරිපත් කරන ලද සංදේශයකට  2023.12.11 දින අමාත්‍ය මන්ඩලය මගින් ලබා දුන් තීරණය ප්‍රකාරව මෙම රෙගුලාසි නිකුත් කරන බව ගැසට් නිවේදනයේ සඳහන් වේ.
+
+### Colombo National Hospital Faces Stent Shortage
+
+*2024-01-16 13:27:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/colombo-national-hospital-faces-stent-shortage/)*
+
+Colombo (News 1st): Patients at the Colombo National Hospital are facing difficulties due to a shortage of essential stents required for heart surgery, raising concerns about potential risks for those suffering from cardiac conditions.
+
+Dr. Chamil Wijesinghe, spokesperson for the Government Medical Officers' Association, highlighted the critical situation, stating that the lives of heart patients are at risk due to the lack of readily available stents.
+
+News 1st contacted Dr. Kumara Wickramasinghe, Director of the National Hospital, for confirmation.
+
+He acknowledged the problem, stating that the shortage of stents.
+
+Furthermore, Dr. Palitha Mahipala, Secretary of the Ministry of Health, confirmed the ongoing shortage and assured that orders have been placed to replenish the necessary medical supplies.
+
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
+
+### Protests as Activists Accuse Former Health Minister of Pharma Fraud
+
+*2024-01-16 13:25:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/protests-as-activists-accuse-former-health-minister-of-pharma-fraud/)*
+
+Colombo (News 1st): Tension simmered outside the Ministry of Health this morning (16) as protesters gathered to denounce the alleged involvement of former Minister Keheliya Rambukwella in a pharmaceutical scandal.
+
+The protest began with a symbolic play depicting the human cost of the purported misconduct, allegedly perpetrated under the shadow of a corrupt regime.
+
+Civil society representatives, mass organization leaders, and social activists joined in the demonstration.
+
+Their intention to march from the Ministry to the Cinnamon Gardens Police Station was abruptly halted by a police intervention.
+
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
 ### மொட்டின் ஜனாதிபதி வேட்பாளர் யார்;மஹிந்த பதில்
 
@@ -75,6 +127,24 @@ As of **2024-01-16 14:27:47**
 எவ்வாறாயினும், ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியை முன்னோக்கி கொண்டு செல்லும் வேலைத்திட்டம் தொடர்பில் தற்போது கவனம் செலுத்தப்பட்டுள்ளதாக பாராளுமன்ற உறுப்பினர் மஹிந்த ராஜபக்ச மேலும் தெரிவித்துள்ளார்.
 
 கட்சியின் அமைப்பு நடவடிக்கைகள் குறித்து கலந்துரையாடும் நிகழ்வின் போதே அவர் இதனைக் குறிப்பிட்டார்.
+
+### Operation Yukthiya Nets Over 870 Suspects in 24-Hour Blitz
+
+*2024-01-16 12:26:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/operation-yukthiya-nets-over-870-suspects-in-24-hour-blitz/)*
+
+COLOMBO (News 1st) – Operation Yukthiya saw the apprehension of a staggering 877 suspects within the past 24 hours, ending their illegal activities at 12:30 AM today.
+
+The Ministry of Public Security confirmed the arrests and reported issuing detention orders to 4 suspects.
+
+Additionally, Operation Yukthiya facilitated the rehabilitation of 14 individuals struggling with drug addiction, directing them towards treatment and recovery.
+
+The operation further dealt a critical blow to organized crime, successfully capturing 28 individuals included on the watchlist of the Police Narcotics Bureau and Special Bureau.
+
+Authorities recovered a substantial amount of narcotics during the operation, with ice constituting the majority of the seizures.
+
+Over 7 kilograms of the highly addictive drug were confiscated.
+
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
 ### Sri Lanka faces alarming increase in dengue cases reported this year
 
@@ -155,6 +225,22 @@ Meanwhile, the air quality in New Delhi, India continues to linger between “ve
 The air quality of India’s Delhi (272) ranked first as the poorest air quality in the world and India’s Kolkata (154) is third on the list, according to IQAir.
 
 The AQI (Air Quality Index), used to communicate to the general public the daily air quality, is based on the measurement of particulate matter (PM2.5 and PM10), Ozone (O3), Nitrogen Dioxide (NO2), Sulfur Dioxide (SO2) and Carbon Monoxide (CO) emissions. An AQI value of 50 or below represents good air quality, while an AQI value over 300 represents hazardous air quality, as per international standards.
+
+### Parliament to Conclude Fourth Session Next Week
+
+*2024-01-16 11:18:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/parliament-to-conclude-fourth-session-next-week/)*
+
+Colombo (News 1st): SrI Lanka's Ninth Parliament is nearing the end of its fourth session, with Speaker Mahinda Yapa Abeywardena announcing it will conclude on January 24th.
+
+The fifth session of the Ninth Parliament is then set to commence on February 7th.
+
+The speaker confirmed that the official termination date will be confirmed through a gazette issued by the President.
+
+This closure will trigger the dissolution of various Parliamentary Committees, including the Committee on Public Accounts (COPA) and the Committee on Public Enterprises (COPE).
+
+Upon the resumption of the parliamentary session in February, the process of appointing new members and reforming the committees will begin.
+
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
 ### Iowa caucus 2024: Trump dominates, DeSantis edges Haley for second
 
@@ -319,6 +405,70 @@ Joining a press conference held in Colombo last evening (Jan. 15), Hasaranga emp
 Meanwhile, in response to a question raised by a journalist regarding whether he invited former captain Angelo Mathews to join the T20 squad, Hasaranga emphasized that Mathews is not a retired player and that therefore, there is no need to invite him to the team as he is already in it.
 
 “Angelo Mathews is not a retired player. We could see the performance of a well-experienced player like Mathews…the way he batted until the end of a match so easily. He has not retired to be invited [into the team]”, he claimed.
+
+### Donald Trump wins Iowa caucus, taking early lead to be Republican candidate for the presidency
+
+*2024-01-16 10:34:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/donald-trump-wins-iowa-caucus-taking-early-lead-to-be-republican-candidate-for-the-presidency/)*
+
+Colombo (News 1st) – Former President Donald Trump swept to victory in the Iowa Caucuses, the first step of the Republican Party's selection process of their candidate for the 2024 Presidential Election this November. Trump won 20 of the 40 delegates from the state.
+
+Florida Governor Ron DeSantis came in second with 8 delegates, while former South Carolina Governor Nikki Haley was third with 7 delegates.
+
+Entrepreneur Vivek Ramasamy, who had run a vibrant and entertaining anti-establishment campaign, announced that he was dropping out of the race, after winning just 2 delegates.
+
+The Iowa Caucuses are the first step, with the Republican Party holding separate processes in each state to choose the candidate. All state delegates vote in the final Republican Party National Convention.
+
+A similar process is run by the Democratic Party, which has not yet begun. Incumbent President Joe Biden, 81, is the frontrunner.
+
+Trump, 77, is battling multiple legal challenges in many state and federal courts over his role in the failed 2021 January 6 insurrection, which may disqualify him from being a candidate.
+
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
+
+### කැරට් කිලෝව රු. 1800ට වැඩිවෙයි
+
+*2024-01-16 10:28:05 - [adalk](https://www.ada.lk/breaking_news/කැරට්-කිලෝව-රු--1800ට-වැඩිවෙයි/11-407574)*
+
+නොසිතන අයුරින් දිනෙන් දින ඉහළ යන එළවළු මිල හේතුවෙන් නුවරඑළිය දිස්ත්‍රික්කයේ සංචාරක හෝටල්, හෝටල්, ආපනශාලා පවත්වාගෙන යන පිරිස් හා සෙසු  ජනතාව දැඩි දුෂ්කරතාවයන්ට ලක්ව සිටිති.
+
+එළවළු සඳහා ඉතිහාසයේ මෙවැනි මිලක් අන් කවරදාවත් නොතිබුණු බවත්, උඩරට එළවළු වර්ග හා විදෙස් සංචාරකයන් බහුලව භාවිතා කරනු ලබන එළවළු වර්ගවල මිල ගණන් මෙසේ ඉහල යාම හේතුවෙන් තම ව්‍යාපාර කරගෙන යාමට නොහැකි තත්ත්වයක් උදා වී ඇතැයි ඔවුහු පවසති.
+
+මේ වනවිට නුවරඑළියයේ වැවෙන උඩරට එළවළු වර්ගවල මිල ඉතිහාසයේ පළමු වරට මෙසේ ඉහල ‌ගොස් ඇතැයිද, මේ හේතුවෙන් එළවළු නොකා සිටින තත්ත්වයකට  තමන් පත්ව සිටින බව උඩරට ජනතාව පවසති.
+
+උඩරට එළවළු වර්ග වන කැරට් කිලෝවක් රුපියල් 1800 ක්, ගෝවා කිලෝවක් රුපියල් 680 ක්, ලීක්ස් කිලෝවක් රුපියල් 500 ක්, මාලු මිරිස් කිලෝවක් රුපියල් 650 ක්, තක්කාලි කිලෝවක් රුපියල් 800 ක්, බීට්රූට් කිලෝවක් රුපියල් 470 ක් වැනි මිළකටත්, විදෙස් සංචාරකයන්ට  බහුලව ලබා දෙන බ්‍රොකලි කිලෝවක් රුපියල් 3600 ක්, බෙල් පෙපර් කිලෝවක් රුපියල් 800 ක්, බැසිල් කිලෝවක් රුපියල් 2600 ක්, චයිනිස් කැබෙජ් කිලෝවක් රුපියල් 1300 ක්, රෙඩ් කැබෙජ් කිලෝවක් රුපියල් 3200 ක්, අයිස්බර්ග් කිලෝවක් රුපියල් 2300 ක්, සළාද කිලෝවක් රුපියල් 1600 ක්, මල් ගෝවා කිලෝවක් රුපියල් 1300 ක් වැනි තොල මිලකට ඊයේ (16) නුවරඑළිය ආර්ථික මධ්‍යස්ථානයේ එළවළු අළෙවි කෙරිණි.
+
+එළවළු මිල ගණන් මෙසේ ඉහලයාම හේතුවෙන් උඩරට සිල්ලර එළවළු වෙළෙඳසැල් විශාල ප්‍රමාණයක් වැසී ගොස් ඇති බවත්, මාර්ග අවට එළවළු අළෙවි කරමින් ජීවිකාව රැගෙන ගිය විශාල පිරිසක් දැඩි අපහසුතාවයට ලක්ව දැඩි ආර්ථික පීඩාවට පත්ව සිටින බව උඩරට එළවළු වෙළෙඳසැල් හිමියෝ පවසති.
+
+### Talk of The Town | Transparency Under a Veil? | Nadishani perera | 16th January 2024
+
+*2024-01-16 10:08:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/talk-of-the-town-transparency-under-a-veil-nadishani-perera-16th-january-2024/)*
+
+Talk of The Town | Transparency Under a Veil? | Nadishani perera | 16th January 2024
+
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
+
+### MIDDLE EAST CRISIS: Iran attacks site in Iraq it says is a Mossad office. Houthi missile hits US cargo ship
+
+*2024-01-16 10:08:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/middle-east-crisis-iran-attacks-site-in-iraq-it-says-is-a-mossad-office-houthi-missile-hits-us-cargo-ship/)*
+
+Colombo (News 1st) – UPDATE: Tensions rose further in the Middle East as Iran attacked what it called an Israeli Mossad centre in the northern Iraqi city of Erbil early Tuesday (16th), and a Houthi missile fired from Yemen hit a U.S.-owned cargo ship in the Red Sea, raising the possibility of more U.S. military strikes on Yemen in response, foreign media reported.
+
+At least eight explosions were heard in Erbil, the capital of Iraq’s semi-autonomous Kurdish region, early on Tuesday.
+
+A statement from Iran's Revolutionary Guards Corps (IRGC) said in a statement: “Ballistic missiles were used to destroy espionage centres and gatherings of anti-Iranian terrorist groups in the region late tonight”.
+
+A later IRGC statement, shared by Iran’s IRNA news agency, claimed the group had targeted the headquarters of Israeli spy agency Mossad in Erbil.
+
+Hours before, the merchant vessel Gibraltar Eagle, flying the flag of the Marshall Islands, was hit in the Red Sea by an anti-ship ballistic missile fired from Yemen by the Houthis, but has not suffered any significant damage and is continuing on its way, U.S. Central Command said.
+
+A second missile that was fired had malfunctioned and crashed on land in Yemen.
+
+The Houthi attacks came a few days after the U.S. and U.K. struck multiple targets across Houthi-controlled areas of Yemen with over 100 bombs and missiles. The Houthis have vowed revenge against the US, UK and any nation that helps the coalition.
+
+The Houthis have been staging attacks against ships in the Red Sea for more than a month, claiming that they are only targeting ships bound to or from Israel or are connected to Israel in some way.
+
+Most of the world's largest shipping firms have suspended sending vessels through the Red Sea and are now using the much longer route around Africa. This has driven shipping rates up and caused some disruption to global supply chains.
+
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
 ### ඇවිදගෙන ගිය රසින්ත ඇවිද ගන්නත් බැරිව සෞදියෙන් එයි
 
@@ -638,7 +788,7 @@ The widespread strikes raise concerns about potential disruptions in healthcare 
 
 Patients seeking non-emergency care may face delays or cancellations, while critical services could be stretched thin.
 
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
 ### கைக்குண்டு, கத்தியுடன் இருவர் கைது
 
@@ -960,7 +1110,7 @@ The Houthis have been staging attacks against ships in the Red Sea for more than
 
 Most of the world's largest shipping firms have suspended sending vessels through the Red Sea and are now using the much longer route around Africa. This has driven shipping rates up and caused some disruption to global supply chains.
 
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
 ### Regional rivals China, India eye Sri Lanka Telecom
 
@@ -1596,7 +1746,7 @@ The suspect, identified as Mahinda Kodituvakku, faces charges of money launderin
 
 Details surrounding Kodituvakku's modus operandi and the alleged money laundering activities are under investigation by the CID.
 
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
 ### තවදුරටත් බලා සිටිනවාද නැත්නම් නැගිටිනවාද?
 
@@ -1638,7 +1788,7 @@ Notably, 123 previously unidentified suspects were recognized through fingerprin
 
 The targeted effort involved distributing a comprehensive list of 35,505 open warrants, 4,258 unapprehended suspects, and 2,485 wanted individuals to all Crime OICs, ensuring coordinated action across Sri Lanka.
 
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
 ### Police investigating A/L paper leak
 
@@ -1656,7 +1806,7 @@ A teacher who was arrested as a suspect was remanded until the 26th.
 
 The examination department also stated that the second paper of agriculture science which was canceled is re-scheduled for the 1st of next month and that the date may even be revised.
 
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
 ### 24 மணிநேரத்தில் 1,400 ற்கும் மேற்பட்டோர் கைது
 
@@ -1704,7 +1854,7 @@ The IMF delegation, led by Senior Mission Chief Peter Breuer, acknowledged the h
 
 "While we saw a small uptick in the third quarter of 2023, we're still far from robust, inclusive growth. Inflation hit 70% last year, disproportionately impacting those without savings or buffers. The path to recovery will require sustained commitment to sound economic policies," said Peter Breuer, Senior Mission Chief for Sri Lanka, IMF.
 
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
+Protests as Activists Accuse Former Health Minister of Pharma Fraud
 
 ### Over 1,400 wanted suspects arrested within 24-hour ‘Yukthiya’ operation
 
@@ -1727,205 +1877,3 @@ At the same time, this also includes 123 out of 4,258 suspects identified throug
 පරිගණක අපරාධ විමර්ශන කොට්ඨාසය විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.‍ෙ
 
 අත්අඩංගුවට ගත් සැකකරු ප්‍රකාශ සටහන් කර ගැනීමෙන් අනතුරුව හෙට අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
-
-### Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
-
-*2024-01-15 14:51:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/vietnam-ex-health-minister-gets-18-years-in-jail%c2%a0over-covid-test-kits-scam/)*
-
-(NDTV); A court in Vietnam on Friday (12) sentenced former Health Minister Nguyen Thanh Long to 18 years in prison after finding him guilty of taking bribes in a coronavirus test kit scandal, state media reported.
-
-Nguyen Thanh Long was accused of taking bribes worth $2.25 million in the scandal, in which a local firm was accused of colluding with officials to commission a state-funded research unit to produce and overstate its prices of coronavirus test kits, Phap Luat Online newspaper said.
-
-Reuters could not immediately reach Nguyen Thanh Long's lawyers for comment.
-
-"I was wrong, I am sorry," Nguyen Thanh Long was quoted by the newspaper as saying at the trial.
-
-The verdict comes as Vietnam intensifies its years-long anti-graft campaign that has seen hundreds of senior officials investigated for corruption, with many forced to quit, including former president and premier Nguyen Xuan Phuc and two deputy prime ministers.
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### Air Quality Plummets in Major Districts in Sri Lanka
-
-*2024-01-15 14:47:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/air-quality-plummets-in-major-districts-in-sri-lanka/)*
-
-COLOMBO (News 1st); The Central Environmental Authority (CEA) of Sri Lanka is raising serious concerns over a sharp decline in air quality across several key districts of the island nation.
-
-Spokesperson Ajith Weerasundara confirmed a visible decrease in Colombo, Jaffna, and Mannar.
-
-In Colombo, the air quality index (AQI) – a measure of pollutants in the air – soared to unhealthy levels of 105 in densely populated areas like Battaramulla and Colombo Fort.
-
-Similarly, Jaffna recorded AQI values nearing 100, indicating unhealthy air conditions in the northern city.
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### අමතක නොවන උපන්දින තෑග්ගක් දීලා දරුවෝ තුන්දෙනා කළු ගගේ ගියා
-
-*2024-01-15 14:44:46 - [adalk](https://www.ada.lk/breaking_news/අමතක-නොවන-උපන්දින-තෑග්ගක්-දීලා-දරුවෝ-තුන්දෙනා-කළු-ගගේ-ගියා/11-407559)*
-
-"මට අමතක නොවන උපන් දින තෑග්ගක් දීලා දරුවෝ තුන්දෙනාම කළුගගේ ගහගෙන ගියා" යැයි කළු ගගේ ගිලී මියගිය යමල් සපුගේ ඉමංගි චතුභාෂිනී (15) ගේ මව වන වලිමුණි කෝකිලා ජයන්ති සිල්වා මහත්මිය හඩාවැටෙමින් පැවසීය .
-
-කළුගගේ කළුතර විද්‍යාලය ඉදිරිපිට කලපුවේ ඊයේ (14) පස්වරුවේ  දියනෑමට ගොස් සිටියදී දියේගිලී තෙන්නකෝන් ආරච්ච්ලලාගේ තිවිදු සත්සර (18), මුකටියවත්තගේ සුභානී සුපේසලා (16) සහ යමල් සපුගේ ඉමංගි චතුභාෂිනී (15)  යන අය මියගොස් තිබුණි.
-
-මියගොස් සිටී අයවලුන්ගේ හදිසි මරණ පරීක්ෂණය  කළුතර හදිසි මරණ පරීක්ෂක දීපාල් ඖෂධරත්න මහතා ඉදිරියේදී අද (15) සිදුකරන ලදී.
-
-හදිසි මරණ පරීක්ෂ වරයා ඉදිරියේ වැඩිදුරටත් සාක්ෂි දෙමින් ඇය මෙසේද පැවසීය.
-
-"දියේගිලී මියගොස් ඇත්තේ මගේ තුන්වන දියණිය යමල් සපුගේ ඉමංගී චතුභාෂිනී. ඇය කළුතර ශාන්ත ජෝන් විදුහලේ 10 වසරේ ඉගෙනුම ලබනවා. එයා කසාද බදින්න පුතා එක්ක යාලුවෝ පිරිසක් ඇවිත් මගේ උපන් දිනයට කේක් කපලා අපි කළුතර මුහුදේ නාන්න ගියා.
-
-මුහුදේ නාල ආයේ ගගට නාන්න ගියා. මගේ දුවයි එයාගෙ අත් අල්ලගෙන හිටපු සුභානී දුවයි ගගේ ගහගෙන ගියා. එයාලා බේරගන්න තිවිදු පුතා පැන්නා තුන්දෙනාම  නොපෙනි ගියා. එතන හිටපු තරුණ ළමයෙක් ගගට පැනලා පුතාව ගොඩට ගත්තා. පැය භාගයක් විතර වාහනයක් නැතිව හිටියා. වාහනයක් තිබුනා නම්  පුතාව බේරගන්න තිබුණා" යනුවෙන් පැවසීය .
-
-දියේගිලී මියගිය මුකටියවත්තගේ සුභානී සුපේසලා (16) යන අයගේ මව වන පතිරණ මුදියාන්සේලාගේ ටෙක්ලා නෙරංජනී  යන අය සාක්කි දෙමින් මෙසේ පැවසීය. "මියගොස් ඇත්තේ මගේ දෙවනි දුව.  මම  මේ ගමන යන්න එපා කිව්වාම එයා මා එක්ක රන්ඩු කලා. මම ණය වගයක් බේරන්න කඩේට ගිය වෙලාවේ ලොකු දුවත් එක්ක හොරෙන් ගිහින්. මගේ දරුවත් කළු ගගේ ගහගෙන ගිහින් කීවාම බස් එකේ යන්න වත් මා ළග සල්ලි තිබුනේ නෑ.  අල්ලපු ගේක ළමයෙක්ගේ බයික් එකකින් නාගොඩ රෝහලට ආවාම දැනගත්තේ මගේ පණ නැතිවෙලා කියලා."
-
-මියගිය සුභානි සුපේසලා ගේ වැඩිමහල් සොයුරිය වන කොටියාවත්තගේ හිරුණි වත්සලා:. "අපි කළු ගගේ එකට නෑවා. මම ගොඩට ඇවිත් බලනකොට නංගි හිටියේ නෑ. එයා අත් අල්ලගෙන හිටපු අනිත් යාළුවා එක්ක ගහගෙන යනවා දැක්කා. අපි බේරදෙන්න කියා කෑ ගැහුවා බෝට්ටුවකින් ආපු මාමලා නංගිවයි ඉමංගිව යි ගොඩට ගෙනාවා. කළුතර රෝහලට ගෙනාවට පස්සේ නංගි මියගිහින් කියලා දැනගත්තා."
-
-තෙන්නකෝන් ආරච්ච්ගේ තිවිදු සත්සර ගේ සීයා වන ගුලවිට ගනිතගේ ගුණපාල (73)  යන අය සාක්කි දෙමින් මෙසේ පැවසීය. "මියගොස් ඇත්තේ මගේ මුණුබුරා. එයාගේ අම්මා එයාට අවුරුද්දක් වෙද්දි පිළිකාවකින් මියගියා. අවුරුදු 17 ක් මම පුතාව හදාගත්තේ. පුතා ආච්චිට කියලා තිබුනා. උපන් දිනේකට කේක් කපන්න යනවා කියලා.  සවස කෝල් එකක් ආවා පුතාට අසනීපයි නාගොඩ රෝහලට එන්න කියලා . ආවම දැනගත්තේ කළු ගගේ ගිලිලා මියගිහින් කියලා."
-
-කළුතර හදිසි මරණ පරීක්ෂක දීපාල් ඖෂධරත්න මහතා ගේ ප්‍රධානත්වයෙන් මරණ පරීක්ෂණය සිදුකරන ලදී. පොලිස් සැරයන් එස්.ඒ.ආර්.කේ.ද සිල්වා (55318) පොලිසිය වෙනුවෙන් සාක්කි මෙහෙයවීය.
-
-කළුතර නාගොඩ ශීක්ෂණ රෝහලේ අධිකරණ වෛද්‍ය නිළධාරී ඩබ්ලිව්. කේ. වෙනුරජිත් සහ එම්.කේ.චානුක යන මහත්වරුන්  විසින් පශ්චාත් මරණ පරීක්ෂණය සිදු දියේගිලී හුස්ම හිරවීමේන් සිදුවූ මරණ බවට නිගමනය කර තිබේ.
-
-### බස්වලට ඉල්ලමක්
-
-*2024-01-15 14:34:22 - [adalk](https://www.ada.lk/breaking_news/බස්වලට-ඉල්ලමක්/11-407558)*
-
-ඉදිරියේදී කොළඹ බලා ධාවනය වීමට නියමිත බස් රථ වල, ආසනයක් වෙන් කරවා ගැනීම සඳහා අනුරාධපුර වලිසිංහ හරිස්චන්ද්‍ර මාවතේ පිහිටා ඇති පෞද්ගලික බස් සමාගමක කාර්යාලයේ ඉදිරිපිට අද (15දා) උදෑසන දිගු මහජන  පෝලිමක් දක්නට ලැබුණි.
-
-අලුත් වැඩියා කටයුතු හේතුවෙන් මහව සිට අනුරාධපුර දක්වා මාස හයක කාලයක් දුම්රිය ධාවනය නොකිරීම හේතුවෙන්, මගින්ට බස් රථවල ගමන් කිරීමට සිදු වීම  හේතුවෙන්,  මෙලෙස දිග පෝලිම්  දක්නට ලැබුණු බව මගීහු පවසති .
-
-### நாடளாவிய ரீதியில் சிறப்பாக இடம்பெற்ற தைப்பொங்கல்
-
-*2024-01-15 14:23:00 - [virakesarilk](https://www.virakesari.lk/article/173985)*
-
-நாட்டில் பொருளாதார நெருக்கடி காணப்பட்டாலும் நாடளவிய ரீதியில் தைப்பொங்கல் பண்டிகை மிகவும் சிறப்பாக கொண்டாடப்பட்டது.
-
-இயற்கைக்கு நன்றி செலுத்தவும் தரணியில் வளம் செழிக்கவும், வேளாண்மைக்கும், அதற்கு உறுதுணையாக இருக்கும், இயற்கைக்கு நன்றி சொல்லி, தைத்திருநாளை வரவேற்கும் பொங்கல் பண்டிகை கொண்டாட்டங்கள் கோலாகலமாக உலகெங்கிலும் வாழும் தமிழர்களால் கொண்டாடப்படுகின்றது.
-
-நமது மண்ணின், பாரம்பரியத்தை பறைசாற்றும் பண்டிகைகளில் பொங்கல் விழா என்றுமே முதன்மையாக உள்ளது. சூரியன் உட்பட நம்மை வாழ வைக்கும், இயற்கைக்கு நன்றி சொல்லவும், வேளாண்மை தொழிலை பெருமைப்படுத்தவும், இயற்கையின் இன்றியமையாமை என்றும் பாதுகாக்கப்பட வேண்டும் உட்பட பல்வேறு சிறப்பம்சங்களோடு, பொங்கல் விழா கொண்டாடப்படுகிறது.
-
-தைப்பொங்கள் விஷேடப் பூஜை புத்தளம் ஸ்ரீ சித்திவிநாயகர் மற்றும் ஸ்ரீ முத்துமாரியம்மன் ஆலயங்களிலும் முன்னெடுக்கப்பட்டன. குறித்தி பூஜை வழிபாடுகளில் இந்துக்கள் கலந்து கொண்டனர்.
-
-தமிழர் திருநாளாம் தைத்திருநாள் என்று கூறக்கூடிய தைப்பொங்கல் விழா இந்து  ஆலயங்களிலும் அதேபோன்று வீடுகளிலும் சிறப்பாக கொண்டாடி வருகின்றனர்.
-
-தைப்பொங்கல் ஆனது சூரிய பகவானுக்கு நன்றி கூறும் முகமாகவும் நமஸ்காரம் செய்கின்ற முகமாகவும் அதேபோன்று உழவர்கள் தங்களுடைய உழவுத் தொழிலை முடித்து அதில் கிடைக்கக்கூடிய அரிசியை தைத்திருநாளில் பொங்கலாகப் பொங்கி சூரிய பகவான் எனும் கதிரவனுக்கு நன்றி கூறும் முகமாகவும் பொங்கல் திருநாளை கொண்டாடி வருகின்றனர்.
-
-இந்த நிலையில் புத்தளம் ஸ்ரீ சித்திவிநாயகர் ஆலயத்திலும் தைப்பொங்கள் விஷேட பூஜை ஆலய பிரதமகுரு சிவஸ்ரீ வெங்கட சுந்தரராம குருக்களின் தலைமையில் பூஜைகள் முன்னெடுக்கப்பட்டது.
-
-அத்துடன் புத்தளம் ஸ்ரீ முத்துமாரியம்மன் ஆலயத்திலும் தைப்பொங்கள் விஷேட பூஜைகள் ஆலய பிரதமகுரு சிவஸ்ரீ அம்பலவானன் குருக்கள் தலைமையில் இடம்பெற்றது.
-
-தைப்பொங்கள் திருநாளைக் கொண்டாடும் இந்து மக்கள் நீராடி புத்தாடை அணிந்து ஆலயத்திற்கு வருகைத் தந்து பூஜை வழிபாடுகளில் ஈடுபட்டு வருவதைக் காணக்கூடியதாக இருந்தது.
-
-தமிழர்களின் பெருவிழாக்களில் ஒன்றான தைப்பொங்கல் விழா இம்முறையும் மன்னார் மாவட்டத்தில் மிக சிறப்பாக தமிழ் மக்களால் கொண்டாடப்பட்டது.
-
-இந்து மற்றும் கத்தோலிக்க ஆலயங்களில் காலையில் இறை வழிபாடுகள் நடைபெற்றபோது பொது மக்கள் பலர் இறைவனுக்கு நன்றி கூறும் முகமாக  ஆலயங்களில் வழிபட்டதையும் காணக்கூடியதாக இருந்தது.
-
-தைப்பொங்கல் பண்டிகையை முன்னிட்டு மட்டக்களப்பு ஆணைப்பந்தி ஸ்ரீ சித்தி விக்னேஸ்வரர் ஆலய விசேட பூஜை வழிபாடுகள்.
-
-வவுனியா குட்செட்வீதி கருமாரி அம்மன் ஆலயத்தில்... சிறப்புற நடந்த பொங்கல் விழாவும், மாட்டுப் பொங்கலும்...
-
-தைப்பொங்கல் தினத்தினை முன்னிட்டு , யாழ்ப்பாணம் -  நயினாதீவு நாக பூசணி அம்மன் ஆலயத்தில்...
-
-### IRD urges public to beware of confidential information being misused during registration for TIN
-
-*2024-01-15 13:50:00 - [adaderanalk](https://www.adaderana.lk/news/96416/ird-urges-public-to-beware-of-confidential-information-being-misused-during-registration-for-tin-)*
-
-The Inland Revenue Department (IRD) urges the general public to follow the guidelines issued by the department and to use the services of authorized tax consultants and auditors, if such services are necessary, to avoid the misuse of their confidential information.
-
-Joining the “At HydePark” current affairs programme on Ada Derana 24, the Senior Deputy Commissioner of the Inland Revenue Department Nihal Wijewardana revealed that several official channels have been opened up for the general public to answer any concerns and ease the process of obtaining the Taxpayer Identification Number (TIN).
-
-Mr. Wijewardana further expressed that people can obtain required assistance regarding the matter directly from the IRD through the hotline number 1944. The general public can also visit the regional offices of the department for any required assistance regarding this or obtain the TIN easily, he added.
-
-“If not you can follow the formal online process introduced by the department by visiting the official website of the Inland Revenue Department through www.ird.gov.lk”
-
-Meanwhile, also joining the program, Deputy Commissioner General of the IRD Saman Shantha outlined that the country’s top tax collecting authority is in the process of implementing a centralised system to collect information pertaining to personal income by linking up with other departments and institutions within the country.
-
-### GMOA opposes health sector trade unions’ strikes; Nurses not to join planned strike
-
-*2024-01-15 13:19:00 - [adaderanalk](https://www.adaderana.lk/news/96415/gmoa-opposes-health-sector-trade-unions-strikes-nurses-not-to-join-planned-strike-)*
-
-The Government Medical Officers’ Association (GMOA) claims that the island-wide strike action organized by health sector employees is unjustified.
-
-The Secretary of the GMOA Dr. Haritha Aluthge expressed that 50% of the wage demands made by the trade unions which are protesting the government’s decision to increase the Disturbance, Availability and Transport (DAT) allowance for doctors have been completed, and that only 15% of the requested increment have been received by the doctors.
-
-“Their demand was to increase the salaries of government employees by Rs. 20,000. They have received Rs. 10,000 so far. It means that 50% of their demands are completed”, he said.
-
-Dr. Aluthge also pointed out that the majority of the protesting health workers are related to the secondary level of government service, while another group of them are in the primary grade.
-
-“The doctors are in the senior grade of the government service. This is hilarious that they are trying to be at the equal level as doctors”, he said.
-
-“This is something that is not happening; and something that must not happen.”
-
-Furthermore, Dr. Aluthge emphasized that it is an ‘illegal strike action’.
-
-Against this backdrop, the All Ceylon Nurses’ Union has decided not to join the strike action to be launched jointly with over 75 health sector trade unions on Tuesday (16), but will only hold a demonstration in front of government hospitals during lunch time.
-
-The Chief Secretary of the union H.M.S Mediwatte stated that this decision was taken in consideration of the inconvenience faced by the patients during health sector employees’ strikes.
-
-He also expressed that the nursing officers from across the island will protest in front of the Health Ministry on Wednesday (17), and will launch a continuous trade union action until their demands are fulfilled.
-
-The health sector employees’ trade unions decided to launch another 24-hour token strike starting from 06.30 a.m. tomorrow (Jan. 16), in protest of the government’s decision to increase DAT allowance for doctors by Rs. 35,000.
-
-Earlier today, President of the Paramedical Services Front (PMSF) Upul Rohana mentioned that around 100,000 health workers including all paramedical services, hospital secretaries, administrative officers as well as health administrative assistants, minor staff and 75 other trade unions of the health staff will join together with this island-wide strike.
-
-“This action will completely disrupt the hospital service. The government should understand that it is not possible to maintain medical services only with the doctors”, Upul Rohana said.
-
-Meanwhile, the President of the Academy of Health Professionals Ravi Kumudesh expressed that if military forces are used to suppress the health workers’ strike, they will continue to carry out the trade union action even further.
-
-Last week, the day-to-day functions of many hospitals across the island had come to a standstill, owing to several trade union actions launched by several health sector employees demanding an allowance of Rs 35,000.
-
-On 08 January 2024, the Cabinet of Ministers gave the nod to President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
-
-### CID arrests self-proclaimed ‘Avalokiteshvara Bodhisattva’
-
-*2024-01-15 13:11:00 - [adaderanalk](https://www.adaderana.lk/news/96414/cid-arrests-self-proclaimed-avalokiteshvara-bodhisattva)*
-
-The Criminal Investigation Department (CID) has arrested Mahinda Kodituwakku, the self-proclaimed ‘Avalokiteshvara Bodhisattva’ at Pannipitiya a short while ago.
-
-Kodituwakku is accused of committing irreligious activities that are contrary to Buddhist teachings.
-
-On Friday (12), the Colombo Fort Magistrate’s Court also imposed an overseas travel ban on him.
-
-Earlier this week, the president of Buddhist Information Centre, Ven. Agulugalle Sri Jinananda Thero had filed a complaint with the CID alleging that Kodituwakku has been misleading the Buddhist community.
-
-### ලෝකයේ හොඳම යොවුන් නිරූපන ශිල්පියා ලංකාවෙන්
-
-*2024-01-15 13:03:46 - [adalk](https://www.ada.lk/uncategorized/ලෝකයේ-හොඳම-යොවුන්-නිරූපන-ශිල්පියා-ලංකාවෙන්/1-407557)*
-
-මැලේසියාවේ  පැවති ලෝකයේ හොදම නිරූපන ශිල්පීන් තෝරන ( I am model search international - 2024 ) තරගාවලියේ දී ලෝකයේ හොදම ‌යොවුන් නිරූපන ශිල්පියාට හිමි සම්මානය ඇතුළු තවත් ජයග්‍රහණයන් රාශියක් දිනා ගැනීමට ශ්‍රී ලංකාව නියෝජනය කරමින් එයට සහභාගී වූ ශ්‍රී ලංකා  නිරූපන ශිල්පීන්ගේ  කණ්ඩායම සමත් වී තිබූ අතර ඔවුන් අද (15දා) උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ .
-
-ලෝකයේ හොදම නිරූපන ශිල්පීන් තෝරන මෙම තරගාවලිය මැලේසියාවේ ක්වාලාලම්පූර්  නුවර ඉකුත් 01/10 දින සිට 01/14 දින දක්වා රටවල් 25 නිරූපන ශිල්පීන් 72 කුගේ සහභාගීත්වයෙන් පවත්වා තිබුණි .
-
-එහිදී වයස අවුරුදු 18 - 21 ත් අතර ( MR: Teen ) යෞවන  අංශයෙන් ඉදිරිපත් වූ 19 හැවිරිදි  රසල් කෙනත් පෙරේරා ලෝකයේ හොදම යොවුන් නිරූපන ශිල්පියා ලෙස ජයග්‍රහණය හිමි කර ගැනීමට සමත් වී තිබුණි . ඔහු මීගමුව , වැලිහේන ප්‍රදේශයේ පදිංචිකරුවෙකි . වසර 10 කට පසුව යළිත් වරක් ශ්‍රී ලංකාවට හොදම නිරූපන ශිල්පියා සම්මානය දිනා ගැනීමට හැකි වී තිබීම විශේෂත්වයකි .
-
-එසේම මෙම තරගාවලියේ දී කාන්තා අංශය නියෝජනය කරමින් එයට සහභාගී වූ ශ්‍රී ලංකාවේ 24 හැවිරිදි මෙලෝනි දසනායක තුන් වන ස්ථානය දිනා ගැනීමට සමත් වී සිටියාය . ඇය කොළඹ , වැල්ලවත්ත ප්‍රදේශයේ පදිංචිකාරිනියකි .
-
-කාන්තා යෞවන අංශයෙන් ( Miss Teen  ) ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වූ 20 හැවිරිදි  නිලක්ෂි බණ්ඩාර එහිදී සිව් වන ස්ථානය දිනා ගැනීමට සමත් වූ අතර මීට අමතරව " හොදම සමාජ ක්‍රියාකාරිනී "  සම්මානය ද දිනා ගැනීමට සමත් වී සිටියාය .
-
-මෙම තරගාවලියේ පිරිමි ( MR )  අංශය නියෝජනය කරමින් සහභාගී වූ 28 හැවිරිදි නවීන් ගුණසේකර " හොදම බලාපොරොත්තු තබා ගැනීමට හැකි නිරූපන ශිල්පියා " සම්මානයෙන් පිදුම් ලබා ගැනීමට සමත් වී තිබුණි . ඔහු පිළියන්දල ප්‍රදේශයේ පදිංචිකරුවෙකි .
-
-මෙම තරගාවලියට ඉදිරිපත් වූ රටවල් 25 අතරින් " හොදම ජාතික අධ්‍යක්ෂ " ලෙස සම්මානයට පාත්‍ර වීමට මෙම ශ්‍රී ලංකා කණ්ඩායමේ ජාතික සංවිධායක නිර්මාල් බණ්ඩාර මහතා සමත් වී තිබුණි . මෙම සම්මානය  ශ්‍රී ලංකා නිරූපන ක්ෂේත්‍ර ඉතිහාසයේ  පළමු වතාවට හිමි වී තිබීම විශේෂත්වයකි .
-
-මෙම තරගාවලිය සදහා ශ්‍රී ලංකාව නියෝජනය කරමින් නිරූපන ශිල්පීන් 04 දෙනෙකු ඉදිරිපත් වී සිටි අතර , ඔවුන් සියලු දෙනාම සම්මාන දිනා ගැනීමට සමත් වී තිබුණි .
-
-මෙම සම්මානලාභීන් පිරිස 01/15 දින උදෑසන 09.40 ට මැලේසියාවේ ක්වාලාලම්පූර් නුවර සිට එයාර් ඒෂියා ගුවන් සේවයේ ඒ.කේ.- 045 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබූ අතර ඔවුන් පිළිගැනීම සදහා 2023 වසරේ ( Miss sri Lanka ) ශ්‍රී ලංකා රූ රැජින මල්කි දිසානායක මෙන්ම  මෙම ජයග්‍රාහී නිරූපන ශිල්පීන්ගේ දෙමාපියන් ඇතුළු පිරිසක් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තය වෙත පැමිණ සිටියහ .
-
-### ලෝකයේ හොඳම යොවුන් නිරූපන ශිල්පියා ලංකාවෙන්
-
-*2024-01-15 13:03:46 - [adalk](https://www.ada.lk/picture_story/ලෝකයේ-හොඳම-යොවුන්-නිරූපන-ශිල්පියා-ලංකාවෙන්/10-407557)*
-
-මැලේසියාවේ  පැවති ලෝකයේ හොදම නිරූපන ශිල්පීන් තෝරන ( I am model search international - 2024 ) තරගාවලියේ දී ලෝකයේ හොදම ‌යොවුන් නිරූපන ශිල්පියාට හිමි සම්මානය ඇතුළු තවත් ජයග්‍රහණයන් රාශියක් දිනා ගැනීමට ශ්‍රී ලංකාව නියෝජනය කරමින් එයට සහභාගී වූ ශ්‍රී ලංකා  නිරූපන ශිල්පීන්ගේ  කණ්ඩායම සමත් වී තිබූ අතර ඔවුන් අද (15දා) උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ .
-
-ලෝකයේ හොදම නිරූපන ශිල්පීන් තෝරන මෙම තරගාවලිය මැලේසියාවේ ක්වාලාලම්පූර්  නුවර ඉකුත් 01/10 දින සිට 01/14 දින දක්වා රටවල් 25 නිරූපන ශිල්පීන් 72 කුගේ සහභාගීත්වයෙන් පවත්වා තිබුණි .
-
-එහිදී වයස අවුරුදු 18 - 21 ත් අතර ( MR: Teen ) යෞවන  අංශයෙන් ඉදිරිපත් වූ 19 හැවිරිදි  රසල් කෙනත් පෙරේරා ලෝකයේ හොදම යොවුන් නිරූපන ශිල්පියා ලෙස ජයග්‍රහණය හිමි කර ගැනීමට සමත් වී තිබුණි . ඔහු මීගමුව , වැලිහේන ප්‍රදේශයේ පදිංචිකරුවෙකි . වසර 10 කට පසුව යළිත් වරක් ශ්‍රී ලංකාවට හොදම නිරූපන ශිල්පියා සම්මානය දිනා ගැනීමට හැකි වී තිබීම විශේෂත්වයකි .
-
-එසේම මෙම තරගාවලියේ දී කාන්තා අංශය නියෝජනය කරමින් එයට සහභාගී වූ ශ්‍රී ලංකාවේ 24 හැවිරිදි මෙලෝනි දසනායක තුන් වන ස්ථානය දිනා ගැනීමට සමත් වී සිටියාය . ඇය කොළඹ , වැල්ලවත්ත ප්‍රදේශයේ පදිංචිකාරිනියකි .
-
-කාන්තා යෞවන අංශයෙන් ( Miss Teen  ) ශ්‍රී ලංකාව නියෝජනය කරමින් සහභාගී වූ 20 හැවිරිදි  නිලක්ෂි බණ්ඩාර එහිදී සිව් වන ස්ථානය දිනා ගැනීමට සමත් වූ අතර මීට අමතරව " හොදම සමාජ ක්‍රියාකාරිනී "  සම්මානය ද දිනා ගැනීමට සමත් වී සිටියාය .
-
-මෙම තරගාවලියේ පිරිමි ( MR )  අංශය නියෝජනය කරමින් සහභාගී වූ 28 හැවිරිදි නවීන් ගුණසේකර " හොදම බලාපොරොත්තු තබා ගැනීමට හැකි නිරූපන ශිල්පියා " සම්මානයෙන් පිදුම් ලබා ගැනීමට සමත් වී තිබුණි . ඔහු පිළියන්දල ප්‍රදේශයේ පදිංචිකරුවෙකි .
-
-මෙම තරගාවලියට ඉදිරිපත් වූ රටවල් 25 අතරින් " හොදම ජාතික අධ්‍යක්ෂ " ලෙස සම්මානයට පාත්‍ර වීමට මෙම ශ්‍රී ලංකා කණ්ඩායමේ ජාතික සංවිධායක නිර්මාල් බණ්ඩාර මහතා සමත් වී තිබුණි . මෙම සම්මානය  ශ්‍රී ලංකා නිරූපන ක්ෂේත්‍ර ඉතිහාසයේ  පළමු වතාවට හිමි වී තිබීම විශේෂත්වයකි .
-
-මෙම තරගාවලිය සදහා ශ්‍රී ලංකාව නියෝජනය කරමින් නිරූපන ශිල්පීන් 04 දෙනෙකු ඉදිරිපත් වී සිටි අතර , ඔවුන් සියලු දෙනාම සම්මාන දිනා ගැනීමට සමත් වී තිබුණි .
-
-මෙම සම්මානලාභීන් පිරිස 01/15 දින උදෑසන 09.40 ට මැලේසියාවේ ක්වාලාලම්පූර් නුවර සිට එයාර් ඒෂියා ගුවන් සේවයේ ඒ.කේ.- 045 දරන ගුවන් යානයෙන් කටුනායක ගුවන් තොටුපොළ වෙත පැමිණ තිබූ අතර ඔවුන් පිළිගැනීම සදහා 2023 වසරේ ( Miss sri Lanka ) ශ්‍රී ලංකා රූ රැජින මල්කි දිසානායක මෙන්ම  මෙම ජයග්‍රාහී නිරූපන ශිල්පීන්ගේ දෙමාපියන් ඇතුළු පිරිසක් කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තය වෙත පැමිණ සිටියහ .

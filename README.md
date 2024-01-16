@@ -1,18 +1,16 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 06:52:36**
+As of **2024-01-16 07:39:53**
 
 ## Newspaper Stats
 
-* virakesarilk: 17
+* virakesarilk: 20
 
 * colombotelegraphcom: 20
 
 * bbccomsinhala: 24
 
-* newsfirstlk: 27
-
-* islandlk: 28
+* newsfirstlk: 28
 
 * adaderanalk: 35
 
@@ -20,15 +18,39 @@ As of **2024-01-16 06:52:36**
 
 * economynextcom: 39
 
+* islandlk: 40
+
 * adalk: 95
 
 * dailyftlk: 97
 
 * dbsjeyarajcom: 111
 
-* **Total**: **531**
+* **Total**: **547**
 
 ## Latest Articles (100)
+
+### Health Sector Gripped by Strikes as 72 Professions Walk Out
+
+*2024-01-16 06:23:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/health-sector-gripped-by-strikes-as-72-professions-walk-out/)*
+
+Colombo (News 1st) – Sri Lanka's healthcare sector faces significant disruption today as members of 72 health unions representing a wide range of professionals, including laboratory technicians, radiology technicians, pharmacists, public health inspectors, midwives, drug compounders, and entomology officers, have decided to launch a strike.
+
+The action, led by the Health Service Trade Union Alliance is set to continue until 8 am tomorrow.
+
+The strike stems from a recent decision by the President, also serving as the Minister of Finance, to increase the duty interruption, attendance, and transport allowance (DAT) for doctors by 35,000 rupees.
+
+Union Convenor Ravi Kumadesh has criticized the move as discriminatory and demanded similar financial incentives for other healthcare professionals.
+
+Adding to the tension, government nurses are also poised to launch a 24-hour symbolic strike starting at 7 am tomorrow.
+
+News First reached out to Health Minister Ramesh Pathirana for comment, and he noted that the matter is under discussion with acting Finance Minister Shehan Semasinghe.
+
+The widespread strikes raise concerns about potential disruptions in healthcare services across Sri Lanka.
+
+Patients seeking non-emergency care may face delays or cancellations, while critical services could be stretched thin.
+
+BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 
 ### Hayleys Solar surpasses 150MWp as Sri Lanka’s premier rooftop solar provider
 
@@ -376,6 +398,190 @@ Attorney-at-Law Shamindra Soysa, who appeared on behalf of the victimized child 
 
 The magistrate, who took all facts presented into consideration, ordered the case to be recalled on January 19, 2024 and also ordered the police to report the progress of the investigations related to the case to the courts on the aforementioned date.
 
+### Hill Country’s hideaway getaway: The Lavender House by Reveal the Collection
+
+*2024-01-15 20:08:00 - [islandlk](http://island.lk/hill-countrys-hideaway-getaway-the-lavender-house-by-reveal-the-collection/)*
+
+Amidst one of the most picturesque and oldest tea estates lies Sri Lanka’s hill country’s best-kept secret, The Lavender House by Reveal the Collection. The exquisite English-style bungalow in Pussellawa blends colonial charm with modern comfort and casts an enchanting spell entirely on its own.
+
+The Lavender House, residing in the historically rich Hellbode tea estate, offers standout experiences like a delightful evening high tea in the estate’s gardens and an opportunity to observe and join the tea-plucking ladies. In 1854, Maurice Worms, who made history by introducing tea sampling sourced from China to Ceylon, planted the first tea plant in the Hellbode tea estate, which was then known as the Condegalla estate alongside the famous Rothschild estate.
+
+The Lavender House offers premium accommodation with five beautifully designed rooms: Plum, Lilac, Violet, Magenta and the Lavender Suite. One can book a single room for an intimate getaway or can reserve the entire villa for a group of family or friends seeking a stress-free and detoxifying getaway experience. The bespoke hospitality of Reveal the Collection continues at The Lavender House with personalised butler service and specially curated culinary offerings from expert chefs.
+
+The bungalow boasts a heated infinity pool overlooking misty mountains, a billiard room, a bar with the finest wine and brew and a unique Mirror Wall that contains signatures of the first owners, governors and estate’s senior planters from the colonial days. The living area with chestnut brown, grey and white colour blended aesthetic interiors and furniture features its lavish style.
+
+The journey at The Lavender House extends beyond its walls. The lush landscapes of Pussellawa offer a playground for adventurers and a haven for those seeking tranquillity. Cascading down Pussellawa, the Gerandi Ella Waterfall remains a picturesque masterpiece—an exclusive secret shared only with the fortunate few. As part of the guest travel experience, The Lavender House orchestrates an exquisite breakfast picnic at the top of this waterfall upon request, tantalising your taste buds while treating your eyes to a view that feels almost surreal.
+
+New Anthoney’s Farms sets industry benchmark as the first poultry producer in Sri Lanka to obtain FSSC 22000 certification
+
+New Year, New VAT: Can Sri Lanka’s poor cope with the increase?
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### New Anthoney’s Farms sets industry benchmark as the first poultry producer in Sri Lanka to obtain FSSC 22000 certification
+
+*2024-01-15 20:07:00 - [islandlk](http://island.lk/new-anthoneys-farms-sets-industry-benchmark-as-the-first-poultry-producer-in-sri-lanka-to-obtain-fssc-22000-certification/)*
+
+Marking yet another milestone in its unwavering commitment towards providing trusted, hygienic, fresh, and quality chicken famous for its ‘green’ label, New Anthoney’s Farms became the first poultry producer in Sri Lanka to obtain the prestigious internationally recognized FSSC 22000 certification.
+
+This achievement reflects well on how New Anthoney’s Farms strives to not just uphold but go beyond the norm to ensure that consumers enjoy the safest chicken available out there in the market.
+
+By adopting FSSC 22000 certification, the company sets a new industry benchmark and marks a significant stride in ensuring the highest standards of quality, safety, and sustainability in the poultry industry, and now invites other poultry producers to follow suit to enhance quality and build trust and resilience in the entire supply chain.
+
+Related Topics:first poultry producer in Sri LankaFSSC 22000 certificationNew Anthoney’s Farms
+
+Hill Country’s hideaway getaway: The Lavender House by Reveal the Collection
+
+New Anthoney’s Farms pioneers frozen crispy chicken in Sri Lanka
+
+New meat supermarket chain in Sri Lanka amidst feed shortage
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### HNB FINANCE appoints Rajive Dissanayake as chairman
+
+*2024-01-15 20:06:00 - [islandlk](http://island.lk/hnb-finance-appoints-rajive-dissanayake-as-chairman/)*
+
+HNB FINANCE PLC announces the appointment of Rajive Dissanayake as the new Chairman of the company, effective from January 8, 2024. Dissanayake succeeds eminent banker Dilshan Rodrigo, former Chairman and HNB Executive Director/COO, who served the board since 2021.
+
+In his capacity as Chairman, Dissanayake is poised to steer HNB FINANCE through a dynamic landscape, aligning the company with evolving market trends and ensuring sustained growth. His proven track record and expertise are expected to fortify HNB FINANCE’S position in the financial services sector, enhancing its capabilities to meet the diverse needs of its clientele.
+
+As a Non-Independent, Non-Executive Director of the Board of Directors of HNB FINANCE since 2017, Dissanayake has previously chaired the Board Audit Committee and the Board Integrated Risk Management Committee. Currently serving as the Chairman of the Board Strategic and Investment Review Committee, he brings a wealth of experience to the helm.
+
+Dissanayake, who boasts over two decades of experience in banking and capital markets, currently holds the position of Deputy General Manager SME & Micro Finance at Hatton National Bank PLC,. He has previously functioned in the capacities of Chief Financial Officer and Chief Strategy Officer at Hatton National Bank PLC, being an integral part of the corporate management team for over eight years.
+
+In addition to his role at HNB FINANCE, Dissanayake serves as a Director of Acuity Partners (Pvt.) Ltd, Lanka Venture PLC and Lanka Energy Fund PLC. A distinguished professional, he is a CFA Charter holder, Fellow Member of the Chartered Institute of Management Accountants, and a Chartered Global Management Accountant. Dissanayake also holds a Bachelor’s Degree in Business Administration from the University of Colombo.
+
+IMF urges Sri Lanka to make urgent preparations for property taxation
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### இஸ்ரேலில் பாலஸ்தீனியர்கள் காரால் மோதி தாக்குதல் - ஒருவர் பலி பலர் காயம்
+
+*2024-01-15 20:06:00 - [virakesarilk](https://www.virakesari.lk/article/174014)*
+
+இஸ்ரேலில் பாலஸ்தீனியர்கள் இருவர் காரால் மீது மோதி மேற்கொண்ட தாக்குதலில் பெண்ணொருவர் கொல்லப்பட்டுள்ளார் 12 பேர் காயமடைந்துள்ளனர்.
+
+பயங்கரவாத தாக்குதல் இடம்பெற்றுள்ளது இரண்டு சந்தேகநபர்கள் கைதுசெய்யப்பட்டுள்ளனர் என இஸ்ரேலிய பாதுகாப்பு படையினர் தெரிவித்துள்ளனர்.
+
+இஸ்ரேலினால் ஆக்கிரமிக்கப்பட்ட ஹெப்ரோனை சேர்ந்த ஒரே குடும்பத்தை சேர்ந்த இருவரே இந்த தாக்குதலை மேற்கொண்டுள்ளனர் இருவரும் சட்டவிரோதமாக இஸ்ரேலிற்குள் நுழைந்துள்ளனர்.
+
+அவர்கள் ஒரேநேரத்தில் செயற்பட்டு இரண்டு கார்களை கடத்தி இந்த தாக்குதலை மேற்கொண்டுள்ளனர் என இஸ்ரேலிய அதிகாரிகள் தெரிவித்துள்ளனர்
+
+### Beyond Plantations: Kahawatte’s holistic approach to sustainable prosperity
+
+*2024-01-15 19:43:00 - [islandlk](http://island.lk/beyond-plantations-kahawattes-holistic-approach-to-sustainable-prosperity/)*
+
+Our latest Regional Plantation Company (RPC) Innovation Update highlights one of Sri Lanka’s trailblazers in sustainable, ethical and community-centric plantation management – Kahawatte Plantations PLC (KWPL) under the MJF Group.
+
+KWPL was established in alignment with the MJF Group’s vision that ‘Business is a Matter of Human Service’, As such their pioneering initiatives not only boost agricultural excellence but also significantly uplift the living standards of their plantation communities and beyond.
+
+KWPL has been at the forefront of a broader movement aimed at fostering innovation and standardizing plantation practices to harmonize economic goals with profound social responsibility. The company has been an advocate for a progressive model that integrates comprehensive welfare programs, environmental stewardship, and community empowerment into its corporate ethos, thus supporting the progressive evolution of Sri Lanka’s plantation industry.
+
+With a history steeped in the rich tradition of Ceylon tea, rubber, cinnamon and an array of diverse crops, KWPL’s journey is marked by its pursuit of excellence in every leaf and life it touches.
+
+The company’s strategic approach goes beyond cultivating crops; it cultivates a sustainable future for all its stakeholders. KWPL’s people-centric strategy is a proactive step towards the diverse ways in which an industry leader can contribute to both the sector and the personnel at its frontlines.
+
+KWPL’s estates span12,400 hectares across the Nawalapitiya and Sabaragamuwa plantation districts. Within each, KWPL is engaged in cultivating tea, cinnamon, rubber, and timber. In the last three years, the company has further expanded its portfolio by venturing into coffee, coconut, and pepper cultivation as part of a strategic diversification that will further strengthen the company’s resilience to increasingly volatile global market conditions, and enhance its value addition potential.
+
+From its inception, Kahawatte has been driven by the philosophy of its parent body, propelling it to take the lead in various community welfare programs across the sixteen estates under its care. What distinguishes these initiatives is their profound impact, as the benefits transcend the plantation population, positively influencing neighbouring communities.
+
+Moreover, the company is committed to a significant investment of Rs. 120 million in the fiscal year 2023/2024 towards development initiatives. This substantial investment will encompass the enhancement of 20 Childhood Development Centres (CDCs), restroom facilities, re-roofing projects, and healthcare centres. The primary objective is to ensure the provision of quality care not only for the employees but also for individuals in the surrounding communities.
+
+Pan Asia ‘Ezy Banking’ spaces in branches to enhance customer digital experience
+
+Malik and Dilhan Fernando appointed Co-Chairs of MJF Holdings Ltd.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### Pan Asia ‘Ezy Banking’ spaces in branches to enhance customer digital experience
+
+*2024-01-15 19:42:00 - [islandlk](http://island.lk/pan-asia-ezy-banking-spaces-in-branches-to-enhance-customer-digital-experience/)*
+
+Pan Asia Bank proudly launched its first Digital Banking Center to enable its customer base to access its banking services round the clock. The new state-of-the-art ‘Ezy Banking’ Center offers unprecedented freedom for Pan Asia Bank customers to conduct all their transactions under one roof digitally while also enjoying the familiarity of a branch location. Pan Asia bank will roll this EZY Banking spaces across its network to provide the convenience of this initiative to all customers around the nation.
+
+Pan Asia Bank has selected the Pettah branch, the business hub in Sri Lanka to locate its first EZY Banking Center with the objective of empowering the business community and to provide best-in-class convenience to them.
+
+Committing to empower entrepreneurship, Pan Asia Bank celebrates New Year
+
+Amazing savings up to 75% for Pan Asia credit/debit Cardholders this festive season
+
+Pan Asia Bank customers to receive next-level experience with the new customer onboarding platform by LinearSix
+
+Pan Asia Bank equips the SMEs to turn-around the nation -hosts another SME workshop in Kurunegala
+
+Pan Asia Bank strengthens financial management skills of SME entrepreneurs
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### A Testament to German Craftsmanship
+
+*2024-01-15 19:40:00 - [islandlk](http://island.lk/a-testament-to-german-craftsmanship/)*
+
+In the world of kitchen design and innovation, few names stand as tall as Häcker. Hailing from Germany, a country renowned for its precision engineering and meticulous attention to detail, Häcker kitchens have earned a global reputation for excellence. With a heritage spanning over seven decades, Häcker has consistently pushed the boundaries of kitchen design, seamlessly blending functionality, aesthetics, and sustainability. In this article, we delve into the essence of Häcker kitchens, exploring what sets them apart and why they continue to be the go-to choice for discerning homeowners and chefs worldwide.
+
+One of the cornerstones of Häcker’s success lies in its unwavering commitment to quality craftsmanship. Häcker Kitchens are crafted using the best German engineering techniques, which have long been synonymous with precision. Each kitchen is a testament to the art of engineering, where form marries function in perfect harmony.
+
+From the selection of materials to the finishing touches, Häcker kitchens exude an air of refined sophistication.
+
+The use of high-quality, durable materials ensures that every kitchen is not only visually stunning but also built to withstand the test of time. This dedication to excellence has earned Häcker a loyal following of homeowners who understand the value of investing in a kitchen that will serve as the heart of their home for years to come.
+
+New Year, New VAT: Can Sri Lanka’s poor cope with the increase?
+
+Pan Asia ‘Ezy Banking’ spaces in branches to enhance customer digital experience
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### New Year, New VAT: Can Sri Lanka’s poor cope with the increase?
+
+*2024-01-15 19:39:00 - [islandlk](http://island.lk/new-year-new-vat-can-sri-lankas-poor-cope-with-the-increase/)*
+
+Lakshila Wanigasinghe is a Research Officer at the IPS with research interests in poverty, social welfare, development, education, and health. She holds an MSc in Economics with a concentration in Development Economics and a BA in Economics with concentrations in International, Financial and Law and Economics from Southern Illinois University Carbondale (SIUC), US. (lakshila@ips.lk)
+
+Ringing in the new year for Sri Lankans was an increase in the value-added tax (VAT) rate to 18% and a withdrawal of tax exemptions on several goods and services. The last day of 2023 witnessed long queues as people rushed to stock up on essentials such as fuel and gas. Although queues are a familiar sight following the onset of the economic crisis, this time around, it was to avoid being hit with the VAT hike.
+
+In light of these developments, this blog aims to shed light on VAT, offering a brief overview and delving into the potential implications of the increase, particularly on the poor and vulnerable.
+
+There are both pros and cons to VAT. While VAT offers a means for governments to generate revenue without overcharging the wealthy, its downside lies in imposing a substantial economic burden on lower-income groups, as consumers ultimately bear the tax burden.
+
+In an attempt to raise government revenue, the VAT rate on applicable goods and services increased from 15% to 18% starting 01st January 2024. This amendment brought 97 previously VAT-exempt goods and services including, fuel, gas, telecommunication services, as well as several food products manufactured using locally cultivated grains, locally manufactured coconut milk, and certain dairy products (locally produced), under the tax umbrella. Items that continue to be VAT-exempt include medicines, educational services, public passenger transport services, and food products such as infant milk powder, locally manufactured rice, bread, etc.
+
+Along with the change in tax rates, the VAT threshold for businesses was also reduced to an annual turnover of LKR 60 million (from LKR 80 million) and LKR 15 million per taxable period (from LKR 20 million). These changes to VAT are expected to generate revenues of around LKR 1,400 billion in 2024.
+
+The tax rate increase and the threshold reduction for businesses liable for VAT signals that more items are applicable for VAT at a higher percentage than before. Although this affects all households, it adds an excessive burden on the already struggling poor and vulnerable groups grappling with the concurrent crises from COVID-19 in 2020 to the ongoing economic crisis.
+
+The fuel price hikes, a direct consequence of the new VAT rates, are expected to trigger a domino effect on the prices of various consumer goods and services, potentially leading to inflation. Although inflation has been low since mid-2023 compared to the beginning of the year, the latter part of 2023 (October to December) witnessed a relative increase in inflation. As per the Colombo Consumer Price Index, inflation between September to December 2023 was recorded as 1.3%, 1.5%, 3.4% and 4.0% respectively. The VAT reforms are likely to add to inflationary pressures in 2024. This, in turn, will further reduce the purchasing power of already constrained households.
+
+A survey conducted by the Department of Census and Statistics (DCS) in 2023 on the impacts of the economic crisis revealed that over 60% of households in the country experienced a decrease in income since March 2022. The survey also finds that over 90% of households experienced an increase in their monthly household expenditure due to the economic crisis. The findings further reveal that 99% of households that experienced a rise in expenditure witnessed an increase in food expenditure. The combination of reduced income and rising expenses is poised to constrain consumer spending, particularly affecting goods and services subject to VAT. For example, the survey results reveal that 83% of households whose expenditure increased due to the economic crisis experienced a rise in transport costs. Following the imposition of VAT on petrol and diesel (previously VAT exempt), the price hike in these commodities will further escalate household expenditure on transport. This will compel some households to self-impose restrictions on the use of certain modes of transport or find alternate solutions due to unaffordability concerns.
+
+Purchasing power constraints force households to adopt various coping strategies to minimise the impacts of these adverse shocks. Around 74% of households that experienced a decline in income did not employ any coping strategies to mitigate the impact while around 7% resorted to a secondary job or additional source of income. Conversely, to cope with the impact of rising expenditure, households employed multiple mechanisms such as limiting/controlling expenses (75%), dietary changes (75%) and reducing/withdrawing savings (46.4%), etc. It is interesting to note that most households chose to adopt coping mechanisms only with respect to mitigating the impact on expenditure although a majority experienced income loss as well.
+
+In the absence of savings – particularly among the poor and vulnerable due to the consecutive adverse shocks –households are likely to borrow to cover their essential expenses. As per survey findings, 55% of households in the country are currently indebted with 22% of such households in debt to meet daily food requirements. Interestingly, 22% of households have accumulated outstanding debt due to the economic crisis while the majority (78%) have not. However, it is concerning that over half of Sri Lankan households are presently indebted, and a considerable share face financial constraints to satisfy essential needs. The VAT reforms are likely to impact these households further through amplified indebtedness due to increased borrowings from both official and unofficial channels. This limits the possibility of timely recovery from shocks as concerns such as repayment challenges will arise in the future. Hence, in addition to struggling at present, the poor and vulnerable are also at risk of facing more prolonged periods of struggle even as the country’s economic crisis subsides.
+
+It is important to support the poor to cope with the VAT hike at least through targeted initiatives that cater to the most vulnerable groups. Using existing social protection programmes to identify the most vulnerable households and providing them with some form of concessions such as reduced prices on certain VAT-liable goods and services that are frequently used by these groups is one such option.
+
+Targeted transfers are another option. While cash transfers are already provided to eligible poor and vulnerable groups in the country it is important to assess if the amounts received by these groups are sufficient to cope with the ongoing crisis and the burden of indirect taxes. Another option worth considering is to provide needy households with dry rations/nutritious food commodities since low-income households spend a large portion of their total expenditure on food and this share may increase further due to the VAT reforms. Further, although it was mentioned that essential items such as fruits and vegetables will not be taxed, these items too are likely to go up in prices due to the indirect nature of the tax.
+
+Although it is too early to assess the true impacts of the VAT amendments on the poor and vulnerable’s ability to survive, they are certainly at elevated risk of facing unaffordability which in turn triggers countless other obstacles. While the degree of the abovementioned risks can vary by household, they can only be measured upon the availability of sufficient consumption data over the upcoming months. Proactive measures, such as timely support in the form of targeted initiatives and concessions, can not only alleviate the immediate challenges but also contribute to the resilience and recovery of the most vulnerable segments of the population.
+
+Hill Country’s hideaway getaway: The Lavender House by Reveal the Collection
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
 ### දරුවෙකුගේ ඇගිල්ල වෙන් වෙන්න කැපූ සැකකරු රිමාන්ඩ්
 
 *2024-01-15 19:31:41 - [adalk](https://www.ada.lk/breaking_news/දරුවෙකුගේ-ඇගිල්ල-වෙන්-වෙන්න-කැපූ-සැකකරු-රිමාන්ඩ්/11-407565)*
@@ -395,6 +601,18 @@ The magistrate, who took all facts presented into consideration, ordered the cas
 මේ වන විට ඇඟිල්ලක්ද අහිමි වී සිටින මෙම දරුවා කුඩු නඩුවකට පටලවා සිරගත කිරමේ සුදානමක් පිළිබඳව තමන්ට තොරතුරු ලැබි ඇතැයි දැනුම් දුන් නීතීඥ ශ්‍රමින්ද්‍ර සොයිසා මහතා වින්දිතයින්ට යුක්තිය ඉටු කරන්නැයි ඉල්ලීමක්ද කළේය.
 
 සියලු කරුණු සළකා බැලලීමෙන් අනතුරුව සැකකරු රිමාන්ඩ් බාරයට පත් කළ මහෙස්ත්‍රාත්වරයා පැමිණීල්ල කැඳවන ලබන 19 වැනිදා සිද්ධියට අදාළව කරන ලද විමර්ශන වල ප්‍රගතිය අධිකරණයට වාර්තා කරන ලෙස පොලිසියට නියම කළේය.
+
+### வவுனியா மாவட்ட பொது வைத்தியசாலைக்கு அவசரமாக குருதி தேவை
+
+*2024-01-15 19:17:00 - [virakesarilk](https://www.virakesari.lk/article/174000)*
+
+மக்கள் மத்தியில் இரத்ததானம் செய்தல் தொடர்பில் விழிப்புணர்வு குறைவாகவே காணப்படுகின்றது. இதனாலேயே நாடளாவிய ரீதியில் இரத்த வங்கிகளில் குருதித் தட்டுப்பாடு நிலவுகின்றது எனவும் வருகின்ற ஒரு சில வாரங்களில் வவுனியா மாவட்ட பொது வைத்தியசாலை இரத்த வங்கியில் காணப்படும் இரத்தங்கள் முடிவடையவுள்ளமையினால் அவசரமாக குருதியினை வழங்குமாறு வவுனியா மாவட்ட பொது வைத்தியசாலையினர் தெரிவித்துள்ளனர்.
+
+வவுனியா மாவட்ட பொது வைத்தியசாலையில் இரத்த வங்கி சேவை ஓரளவிற்கு திருப்திகரமாக காணப்படுகின்றது. எனினும் சில குருதிவகைகளுக்கு தட்டுப்பாடு நிலவுகின்றது. இதன்படி எதிர்மறை இரத்தவகைகளுக்கு கூடுதல் தட்டுப்பாடு நிலவுகின்றது. அதனை நிவர்த்தி செய்வதற்கு பொது மக்கள் முன்வரவேண்டும் எனினும் மக்களிடையே இரத்ததானம் பற்றிய சரியான விழிப்புணர்வு இல்லாமையே இதற்கு காரணம் என சுட்டிக்காட்டினார்.
+
+மேலும் இரத்ததானம் தொடர்பான விளக்கத்தினை பொதுமக்களுக்கு ஊடகங்களே வழங்க முன்வரவேண்டும் என்றும் மேலதிக தகவல்களை வவுனியா மாவட்ட பொது வைத்தியசாலையின் இரத்த வங்கியூடாக பெற்றுக்கொள்ள முடியும் என குறிப்பிட்டுள்ளனர்.மேலும் 18 – 60 வயதுக்குட்பட்ட 50 கிலோ நிறையுடைய ஆரோக்கிமான நிலையிலுள்ள சுகதேகி ஒருவரால் இரத்ததானம் செய்து கொள்ள முடியும் என்பதை வவுனியா மாவட்ட பொது வைத்தியசாலையின் இரத்த வங்கி பிரிவினர் சுட்டிக்காட்டியுள்ளார்.
+
+இதனையடுத்து இளைஞர்கள் சிலர் ஒன்றிணைந்து வவுனியா மாவட்ட பொது வைத்தியசாலை இரத்த வங்கியில் இரத்ததானம் வழங்கி வைத்திருந்தனர். இரத்த தானம் செய்வோம்! மனித உயிர் காப்போம்! அனைவரும் ஒத்துளைப்பு வழங்குங்கள்.
 
 ### Sri Lanka rupee not a one-way bet, hedging instruments, deepening needed: CB Governor
 
@@ -477,6 +695,26 @@ The fall of Paletwa in the west comes after another rebel group in the Three Bro
 Last week, the junta agreed a ceasefire with that group, the TNLA, for the region bordering China. The talks were held in the Chinese city of Kunming and facilitated by Chinese officials.
 
 But on Sunday, the rebel alliance said junta forces are breaching the ceasefire agreement, launching attacks in several townships in Shan State.
+
+### Yohani…doing it with Waves
+
+*2024-01-15 18:10:00 - [islandlk](http://island.lk/yohanidoing-it-with-waves/)*
+
+Yohani de Silva, who came into the spotlight with her remake of ‘Manike Mage Hithe,’ released her very first album, ‘Kella,’ in December, 2023.
+
+‘Kella’ contains 14 tracks, including three songs in English – ‘Submerged,’ ‘Free To Love’ and ‘Cold Sunday.’
+
+Coinciding with the dawn of 2024, Waves, a local brand of footwear, challenged 50 influencers to dance to Yohani’s newest hit single, ‘Kella,’ at the Waves concept store and pick up a new pair of Waves for the new year.
+
+Adding colour to the challenge, Yohani surprised fans at the Waves concept store and took time to interact with her fans.
+
+Yohani shifts base to Mumbai, learning Hindi, but misses her family
+
+Sri Lanka takes the limelight in Bollywood and Sandalwood Cinemas with Yohani
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
 
 ### சிறுவனின் விரலை துண்டித்தவருக்கு விளக்கமறியல்
 
@@ -685,6 +923,18 @@ BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
 තෛපොංගල් උත්සවය සමරන මේ මොහොතේ පවා කෘෂිකාර්මික නිෂ්පාදන සදහා පවා බදු අය කර ඇති බවත් මේ නිසා සහල් ඇතුලු එලවලු මිල අධික ලෙස ඉහල ගොස් ඇති බවත් විපක්ෂ නායකවරයා පැවසීය.
 
 මෙවන් තත්ත්වයක් තුල අප රටක් ලෙස තවදුරටත් බලා සිටිනවාද නැතිනම් ප්‍රජාතන්ත්‍රවාදය වෙනුවෙන් නැගී සිටිනවාද යන්න ජනතාව තීන්දු කල යුතු බවත් එම යහපත් අරමුණ වෙනුවෙන් නැගී සිටිමට ධෛර්ය ශක්තිය ලැබේවා යනුවෙන් ප්‍රාර්ථනා කර සිටින බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මෙහිදි වැඩිදුරටත් පැවසීය.
+
+### கொழும்பை வந்தடைந்த “ரிவேரா ”
+
+*2024-01-15 15:11:00 - [virakesarilk](https://www.virakesari.lk/article/173996)*
+
+குறித்த சொகுசுக் கப்பல் மாலைதீவில் இருந்து 1,090 பயணிகள் மற்றும் 790 பணியாளர்களுடன் இலங்கையை வந்தடைந்துள்ளது.
+
+மர்ஷல் தீவுகளின் கொடியுடன் வருகை தந்த ரிவேரா என்ற சொகுசுக் கப்பலில் அமெரிக்க, கனேடிய மற்றும் இந்திய சுற்றுலாப் பயணிகள் அடங்கியுள்ளனர்.
+
+கப்பலில் வந்த சுற்றுலாப் பயணிகள் கொழும்பு உள்ளிட்ட பல பகுதிகளுக்கு விஜயம் செய்யவுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+ரிவேரா சொகுசு பயணிகள் கப்பல் நாளைய தினம், ஹம்பாந்தோட்டை துறைமுகத்துக்கும் அதன்பின்னர் தாய்லாந்தின் புக்கெட் துறைமுகத்துக்கும் பயணிக்கவுள்ளமை குறிப்பிடத்தக்கது.
 
 ### Police Net Over 1,400 WANTED Suspects in 24-Hour Crackdown
 
@@ -1142,7 +1392,7 @@ Thondaman said the goal of the reforms was to create a more sustainable water se
 
 වැඩිදුරටත් කරුණු දැක්වූ නීතිඥ ප්‍රසාද් සූරියාරච්චි "මේ නඩු තීන්දුව රංගන ශෛලීන් අනුකරණය කිරීමට අදාලව ශ්‍රී ලංකාවේ ප්‍රකාශයට පත් කෙරුණු ප්‍රථම නඩු තීන්දුව වශයෙන් සඳහන් කරන්න පුළුවන්. රංගනයක් අනුකරණය කරන්න පුළුවන්ද බැරිද යන සැකය කාලයක් තිස්සේ රංගන ක්ෂේත්‍රයේ පැවතුණා. දැන් ඊට පැහැදිලි පිළිතුරක් ලැබී තිබෙනවා."යනුවෙන් සඳහන් කර සිටියේය.
 
-යුරෝ සොයා නීතිවිරෝධීව ඉතාලියට: ‘ජීවිතේ නම් කටුකයි, නමුත් කරන්න දෙයක් නැති කමට කාගෙන ඉන්නවා’
+ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
 
 ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
 
@@ -1478,11 +1728,9 @@ Misty conditions can be expected in most provinces in the island during the morn
 
 බදු හිමියා විසින් ගැටලුව විසදා ගැනීමට කටයුතු කරන අවස්ථාවක කල්බදු ආයතනය දිගින් දිගටම එය නොසලකා හරින්නේ නම්, ඒ බව ශ්‍රී ලංකා මහ බැංකුවේ මූල්‍ය පාරිහෝගික සබඳතා දෙපාර්තමේන්තුව වෙතත්, මූල්‍ය ඔම්බුඩ්ස්මන්වරයාටත් පැමිණිලි කළ හැකි අතර, එම ආයතනයන්ට අදාළ මූල්‍ය ආයතන පිළිබඳ ඕනෑම පැමිණිල්ලක් සහ ආරවුලක් පිළිබඳව විමසා බලා විසඳීමට බලය ඇත.
 
-යුරෝ සොයා නීතිවිරෝධීව ඉතාලියට: ‘ජීවිතේ නම් කටුකයි, නමුත් කරන්න දෙයක් නැති කමට කාගෙන ඉන්නවා’
+ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
 
 ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
-
-ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
 
 ### மதுபானசாலைகளுக்கு பூட்டு
 
@@ -1697,213 +1945,3 @@ Save my name, email, and website in this browser for the next time I comment.
 ඒහිදී ජාත්‍යන්තර මුල්‍ය අරමුදලේ නිලධාරීන් විසින් පෙන්වා දී ඇත්තේ උතුරේ වැසියන්ට මෙන්ම ශ්‍රීලංකා වාසීන්ට නව බදුප්‍රතිපත්තිය හේතුවෙන් අපහසුතාවන්ට මුහුණ පෑමට සිදුව ඇත්තේ අතීත අවධිමත්වූ බදුප්‍රතිපත්ති හේතුවෙන් බවටත් නව බදු ප්‍රතිපත්තිය යම් කාලයක් ඉවසාගෙන සිටින්නේ නම් රටේ සංවර්ධනය කරා ගමන් කිරීමට හැකියාවක් ඇති බවටය.
 
 ඒමෙන්ම මේ වන විටත් ශ්‍රීලංකාව ඒවැනි වූ ධනාත්මක රටාවකට ගමන් කරමින් සිටින බැවින් යම් කාලයක් ඊට ගතවන බවට ජාත්‍යන්තර මුල්‍ය අරමුදලේ නිලධාරීන් වැඩිදුරටත් පැවසීය.
-
-### රට ජයග්‍රහණයේ මාවතට පිවිසෙලා
-
-*2024-01-14 21:20:52 - [adalk](https://www.ada.lk/breaking_news/රට-ජයග්‍රහණයේ-මාවතට-පිවිසෙලා/11-407547)*
-
-සශ්‍රිකත්වය සහ කෘතගුණ දැක්වීම සංකේතවත් කරන තෛපොංගල් උත්සවය සරු අස්වැන්නක් පමණක් නොව නව ආරම්භයක් පිළිබඳව ද අපේක්ෂා පෙරදැරි කරගත් සැමරුමක් බව ජනපති රනිල් වික්‍රමසිංහ මහතා පවසයි.
-
-තෛපොංගල් දින සැමරුම පිළිබඳ සුබ පැතුම් පණිවිඩයක් නිකුත් කරමින් ඔහු පවසන්නේ වසර දෙකක් පුරා සිදු කළ අසීමිත කැපවීම් හමුවේ රට ජයග්‍රහණයේ මාවතට අවතීරණ වෙමින් තිබෙන අවස්ථා උත්සවය ඇරඹුණු බවයි.
-
-අස්‌වනු සරිකර ගැනීමට ඇප උපකාර කළ සියලු දෙනා වෙත එක හා සමාන මෙත් සිතින් තුති පිදීම මෙම උත්සවයේ අරමුණයි.
-
-බිඳ වැටුණු ශ්‍රී ලංකා ආර්ථිකය නැවත නගා සිටුවමින් සශ්‍රීක රටක් ගොඩනැගීමේ දී අප කෘෂිකර්මාන්තය කෙරෙහි දැඩි විශ්වාසයක් තබා ඇත්තෙමු.
-
-කෘෂි නවීකරණ වැඩපිළිවෙළ සමඟ රට පුරා කෘෂිකර්මාන්තයේ නව පරිවර්තනයක් වෙනුවෙන් අවශ්‍ය සැලසුම් දැනටමත් රජය ක්‍රියාවට නංවා තිබෙන අතර එම කටයුතු සාර්ථක කර ගැනීමට මෙවර තෛපොංගල් සැමරුම ආශිර්වාදයක් වේවායි ප්‍රාර්ථනා කරමි.
-
-එහෙයින් හෙට දවසේ රට වෙනුවෙන් වූ අලුත් බලාපොරොත්තු සඵල කර ගැනීමට එක මවකගේ දරුවන් මෙන් අධිෂ්ඨානයෙන් පෙරට එන ලෙස සියලු දෙනාගෙන් ඉල්ලා සිටිමින් සියලුම ද්‍රවිඩ ජනතාවට සෞභාග්‍යවත් හා ප්‍රීතිමත් තෛපොංගල් සැමරුමකට ශුභාශිංසන එක් කරමි.
-
-### Three teens drown while bathing in Kalutara lagoon
-
-*2024-01-14 20:08:00 - [adaderanalk](https://www.adaderana.lk/news/96403/three-teens-drown-while-bathing-in-kalutara-lagoon)*
-
-Three teenagers, two girls and a boy, have reportedly drowned while bathing in the lagoon in Kalutara this evening (Jan.14).
-
-The deceased students named Ivangi Madubhashini (15), Subhani Supeshala (16) and Kivindu Sathsara (17) have been identified as residents of Panwila, Dodangoda and Neviliyawatte areas in Kalutara respectively, the police said.
-
-Police also mentioned that the two girls were expecting to sit for the upcoming G.C.E. Ordinary Level examination.
-
-The trio had been bathing in the sea area off Kalutara beach, before going to bathe in lagoon at the suggestion of one of the two girls.
-
-The people who were in the vicinity at the time had rescued three teens from water currents with the help of several jet skies and rushed them to Nagoda Teaching Hospital, where they were pronounced dead upon admission.
-
-The bodies of three victims are placed at the Nagoda Teaching Hospital and the post-mortem examinations are yet to be carried out, Ada Derana reporter said.
-
-### Drowning Tragedy: Three children drown in Kalutara
-
-*2024-01-14 19:58:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/14/drowning-tragedy-three-children-drown-in-kalutara/)*
-
-COLOMBO (News 1st) – Two girls and a boy have tragically drowned in the Kalutara River lagoon this evening.
-
-News 1st correspondent reports that the incident happened when the group of three went for a swim in the river.
-
-The victims, aged 16, 17, and 18, resided in Dodangoda, Payagala, and Kalutara.
-
-The bodies of the deceased are currently at the Nagoda Hospital.
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### Denmark’s King Frederik X takes the throne as his mother steps down
-
-*2024-01-14 19:12:00 - [adaderanalk](https://www.adaderana.lk/news/96402/denmarks-king-frederik-x-takes-the-throne-as-his-mother-steps-down)*
-
-Denmark’s King Frederik X ascended the throne on Sunday, succeeding his mother, Queen Margrethe II, who formally abdicated after 52 years as monarch, with big crowds gathered in the capital to witness history.
-
-Margrethe, 83, stunned the nation on New Year’s Eve when she announced she planned to become the first Danish monarch in nearly 900 years to voluntarily relinquish the throne.
-
-The succession was formalized the moment Margrethe signed the declaration of her abdication during a meeting of the Council of State at parliament, the royal palace said. Denmark, one of the oldest monarchies in the world, does not have a coronation.
-
-The meeting was attended by government representatives, Margrethe, Frederik, 55, his Australian-born wife Mary, 51, who is now queen, and their oldest son Christian, 18, who is the new heir to the throne.
-
-About an hour after the signing, Prime Minister Mette Frederiksen was due to proclaim the new king on the balcony of the parliament and Frederik will give a short speech.
-
-In close to freezing temperatures, tens of thousands of people from all over Denmark converged on the capital to witness events, in a sign of the huge popularity the monarchy is enjoying in the nation of nearly six million.
-
-“We have come here today because this is history being made in front of our eyes. We just had to be here,” said Soren Kristian Bisgaard, 30, a pilot.
-
-He was drinking champagne with three friends, sitting in camping chairs in front of parliament.
-
-“I’m very fond of the royal family. I have been in the Royal Life Guards myself, standing guard at the royal palace. I’m very proud to have done that and also to be here today,” he said.
-
-Later in the afternoon, the new king and queen were due to ride by horse carriage back to their residence, Amalienborg, a royal complex built in the 1750s and located in central Copenhagen.
-
-The couple will continue to reside with Margrethe, who will retain her title as queen, in Amalienborg albeit in their respective palaces in the octagonal complex.
-
-Margrethe, who in the past had said she would remain on the throne for life, did not give an exact reason for her decision to step down but said that a major back surgery she underwent in February last year had made her consider her future.
-
-“It could be that she thinks Prince Frederik is prepared to take over now,” said Lars Hovbakke Sorensen, a historian and associate professor at University College Absalon in Denmark.
-
-“He’s 55, and maybe the queen wanted to avoid a situation where you would have a very, very old king, as you saw with Prince Charles.” The British king was 73 when he ascended the throne after his mother Queen Elizabeth died in September 2022 aged 96.
-
-The new king and queen take the throne at a time of huge public support and enthusiasm for the monarchy. The most recent survey done after Margrethe announced she would abdicate indicated that 82% of Danes expect Frederik to do well or very well in his new role, while 86% said the same about Mary.
-
-### Operation Yukthiya nabs 771 more suspects within 24 hours
-
-*2024-01-14 19:11:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/14/operation-yukthiya-nabs-771-more-suspects-within-24-hours/)*
-
-771 suspects were arrested in the 24 hours ending at 12:30 AM today during Operation Yukthiya.
-
-The Ministry of Public Security reported that these arrests included 23 individuals for whom detention orders have been issued.
-
-The operation also apprehended 26 suspects listed by the Police Narcotics and Special Bureau.
-
-Over 27 kg of cannabis were also recovered during the operation.
-
-The Acting IGP emphasized intensive deployment of all crime branch officers 24/7 for the next month, covering all police divisions under Operation Yukthiya.
-
-Meanwhile, the National Police Commission issued a statement outlining corrective measures for the Acting IGP regarding Operation Yukthiya.
-
-These measures emphasize the necessity for all officers to operate strictly within the existing legal framework, respecting the principles of the constitution, particularly regarding the protection of basic human rights.
-
-The Acting IGP is instructed to clearly communicate these requirements to all participating officers and promptly report back to the Commission regarding the implementation of these directives.
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### Navy arrest 02 suspects with 10,600 Pregabalin capsules in Talaimannar
-
-*2024-01-14 19:09:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/14/navy-arrest-02-suspects-with-10-600-pregabalin-capsules-in-talaimannar/)*
-
-COLOMBO (News 1st) The Sri Lanka Navy and Police STF apprehended 02 suspects with 10,600 Pregabalin capsules and a motorcycle, during special search operations conducted in Mihinthale and Kattukarayankudirippu of Talaimannar.
-
-The suspect was peddling these medicinal drugs on a motorcycle when he was searched on suspicion.
-
-In a separate operation mounted by SLNS Talaimannar with the assistance of the Police STF Northern Province Special Raid Unit in Kattukarayankudirippu, a person was interrogated on suspicion Based on information revealed by the suspect.
-
-Naval and Police personnel discovered a sack of 10,500 Pregabalin capsules hidden away.
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### Police arrest over 95 suspects in 24-hour vehicle sweep
-
-*2024-01-14 19:06:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/14/police-arrest-over-95-suspects-in-24-hour-vehicle-sweep/)*
-
-COLOMBO (News 1st) 96 suspects have been arrested so far in the island wide vehicle sweep using roadblocks conducted by the police within 24 hours.
-
-The arrests were made under the charges of drunk driving, driving without driver's license, transportation of duty-free cigarettes, drug and alcohol transportation and vehicle theft.
-
-5,796 vehicles and 15,215 people have been inspected in this operation.
-
-Police said that 21 motorcycles, 12 three-wheelers and six other vehicles were taken into custody during those operations.
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### இரு இளைஞர்களின் சடலங்கள் கால்வாயில் கண்டுபிடிப்பு
-
-*2024-01-14 18:51:10 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/இரு-இளைஞர்களின்-சடலங்கள்-கால்வாயில்-கண்டுபிடிப்பு/175-331501)*
-
-கிளிநொச்சி அஹலபுரத்தில் வசிக்கும் 20 மற்றும் 18 வயதுடைய இரு இளைஞர்களின் சடலங்கள் நீர்ப்பாசன கால்வாயில் இருந்து கண்டுபிடிக்கப்பட்டுள்ளன.
-
-இருவரும் தங்களது மோட்டார் சைக்கிளின் கட்டுப்பாட்டை இழந்திருக்கலாம் என்றும், அதிக வேகம் காரணமாக, குறிகாட்டும் கம்பத்துடன் மோதியிருக்கலாம் என்றும் பொலிஸார் சந்தேகிக்கின்றனர்.
-
-கிளிநொச்சி நீதவானின் பரிசோதனையின் பின்னர் சடலங்கள் மேலதிக விசாரணைகளுக்காக கிளிநொச்சி வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளன.
-
-### Sri Lanka to clear barriers to yacht-based tourism
-
-*2024-01-14 18:40:00 - [economynextcom](https://economynext.com/sri-lanka-to-clear-barriers-to-yacht-based-tourism-147269/)*
-
-ECONOMYNEXT – Sri Lanka’s Tourism Promotion Bureau is in the process of clearing barriers to marine tourism, including leisure activities on yachts, Managing Director Nalin Perera said.
-
-Yacht cruise operators have earlier complained that a specified International Association of Classification Societies (IACS) requirement by Sri Lanka’s Directorate of Merchant Shipping which was not demanded by countries like Thailand or Red Sea nations was blocking ‘live aboard’ cruises.
-
-One reason was that Sri Lanka did not have a proper classification criteria for marine tourism, Perera said.
-
-“The classification has been finalized, but there are few areas we are getting the ADB assistance to clear that one up,” Perera said.
-
-Sri Lanka has dozens of sunken wrecks which can be used to promote diving, Tourism Minister Harin Fernando said.
-
-Sri Lanka is surrounded by the sea, but the island neither has a domestic yatch culture, nor yacht based tourism activities like liveaboard diving cruises.
-
-Yacht cruise operator Aggressor found itself mired in regulations when it tried to start the industry, including requirements for local crew.
-
-The firm said without a domestic industry there were no trained crew to hire on the island.
-
-READ Sri Lanka luxury yacht cruises run aground for second time
-
-Sri Lanka wants to promote a range of marine linked tourism activities as well wider use of yachts including attracting owners to park their luxury yachts in Sri Lanka, Tourism Minister Fernando said.  (Colombo/Jan14/2024)
-
-### அதிகாரிகளை சாடுகிறார் கர்தினால்
-
-*2024-01-14 18:35:13 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/அதிகாரிகளை-சாடுகிறார்-கர்தினால்/175-331500)*
-
-சர்வதேச கடல் வழிகளின் பாதுகாப்பை உறுதி செய்வதற்காக கடற்படைக் கப்பலை அனுப்பும் அரசாங்கத்தின் நடவடிக்கையை விமர்சித்த கொழும்பு பேராயர் கர்தினால் மல்கம் ரஞ்சித், உள்ளூர் விவகாரங்கள் அதிகாரிகளால் புறக்கணிக்கப்பட்டுள்ளதாக தெரிவித்துள்ளார்.
-
-பொரளை அனைத்து புனிதர்களின் தேவாலயத்தில் கைக்குண்டு கண்டுபிடிக்கப்பட்டதன் இரண்டாம் ஆண்டு நிறைவை முன்னிட்டு நடைபெற்ற விசேட ஆராதனையின் போது உரையாற்றிய கர்தினால், கடந்த காலங்களில் ஊடகங்களுக்கு தொல்லை கொடுத்தவர்கள், ஈஸ்டர் பண்டிகைக்கு திட்டமிட்டு தாக்குதல்களை நடாத்தியவர்கள் மற்றும் தேவாலயத்திற்குள் கைக்குண்டு வைத்த உண்மையான குற்றவாளிகளை கண்டுபிடிக்க அதிகாரிகள் தவறிவிட்டனர் எனவும் தெரிவித்தார்.
-
-”ஈஸ்டர் ஞாயிறு தாக்குதலின் பின்னணியில் இருந்தவர்களுக்கு நீதி வழங்கப்படுவதை நாம் இன்னும் பார்க்கிறோம். பிரகீத் எக்னெலிகொட காணாமல் போனதற்கும் சண்டே லீடர் ஆசிரியர் லசந்த விக்ரமதுங்கவின் கொலைக்கும் யார் காரணம் என்று இன்னும் யாருக்கும் தெரியவில்லை.
-
-அனைத்து விடயங்களும் கம்பளத்தின் கீழ் மூடி மறைக்கப்பட்டுள்ளன. நாட்டில் எரியும் பிரச்சினைகளைத் தீர்ப்பதற்குப் பதிலாக சர்வதேச கடல்களைப் பாதுகாப்பதற்கு அதிகாரிகள் முன்னுரிமை கொடுப்பதாகத் தெரிகிறது,” என்று அவர் மேலும் கூறினார்.
-
-“2024 தேர்தல் ஆண்டு என்பதை நாங்கள் புரிந்துகொள்கிறோம். மக்கள் இந்த முறை சரியான தலைவர்களிடம் தேசத்தை ஒப்படைப்பார்கள் என்று நம்புவோம், பிரார்த்தனை செய்வோம், ”என்று அவர் மேலும் கூறினார்
-
-### Teacher in Ampara arrested over leak of 2023 A/L exam’s Agri Science paper
-
-*2024-01-14 18:33:00 - [adaderanalk](https://www.adaderana.lk/news/96401/teacher-in-ampara-arrested-over-leak-of-2023-al-exams-agri-science-paper)*
-
-The Criminal Investigation Department (CID) has arrested the A/L Agricultural Science teacher of a popular government school in Ampara in relation to the incident of several questions of the 2023 G.C.E Advanced Level examination’s Agricultural Science I & II question papers allegedly being leaked prior to the exam.
-
-The 52-year-old suspected male teacher reportedly also conducts tuition classes for A/L students, the Police Media Spokesman SSP Nihal Thalduwa said.
-
-The police have also found the 2023 G.C.E Advanced Level examination’s Agricultural Science I & II question papers written in his own handwriting at his house.
-
-Police further revealed that the arrested suspect has released the Agricultural Science I question paper on January 08 and the Agricultural Science II question paper on January 10, 2024.
-
-However, the Ampara Magistrate’s Court has ordered to remand the suspect in custody until 26 January 2024, after he was produced before the courts.
-
-On Friday (Jan. 12), the Department of Examinations decided to cancel the 2023 G.C.E. Advanced Level examination’s Agricultural Science I & II question papers, due to reports that several questions of the paper had been leaked prior to the exam.
-
-Accordingly, the relevant test paper, which students sat for on 10 January, had been deemed invalid by the Department of Examinations on account of numerous questions included in the paper having been leaked before the exam date.
-
-The Department of Examinations announced that the date for the rescheduled paper would be notified later.
-
-### யாருக்காக நல்லிணக்கச் செயலகம்?
-
-*2024-01-14 18:12:00 - [virakesarilk](https://www.virakesari.lk/article/173954)*
-
-போர் நடந்து கொண்­டி­ருந்த போது சந்­தி­ரிகா குமா­ர­துங்க, சர்­வ­தேச அரங்கில் விடு­தலைப் புலி­களை ஓரம் கட்­டு­வ­தற்­கா­கவும், தனக்­கான ஆத­ரவை உறு­திப்­ப­டுத்திக் கொள்­வ­தற்­கா­கவும் இரு­வேறு அணு­கு­மு­றை­களை கையாண்டார்.
-
-ஒரு பக்கம் ஈவி­ரக்­க­மற்ற போரை தீவி­ர­மாக முன்­னெ­டுத்தார். அதில் உயி­ரி­ழப்­புகள், படு­கொ­லைகள், மனித உரி­மைகள் மீறல்கள் இடம்­பெ­று­வதை அவர் தடுக்­க­வில்லை.
-
-மற்­றொரு பக்கம் தமிழ் மக்­க­ளுடன் நல்­லி­ணக்­கத்தை ஏற்­ப­டுத்­து­வ­தற்கு முயற்சி செய்­வ­தாக காட்டிக் கொண்டார்.
-
-அதற்கு, அவ­ருக்கு பக்­க­ப­ல­மாக இருந்­த­வர்கள்  லக் ஷ்மன் கதிர்­கா­மரும், மங்­கள சம­ர­வீ­ரவும். இவர்கள் விடு­தலைப் புலி­க­ளிடம் இருந்து தமிழ் மக்­களை பிரித்­தெ­டுத்து அந்­நி­யப்­ப­டுத்­து­வ­தற்­காக நல்­லி­ணக்க முயற்­சி­களை முன்­னெ­டுத்­தனர்.

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 22:27:51**
+As of **2024-01-16 23:27:48**
 
 ## Newspaper Stats
 
@@ -12,13 +12,13 @@ As of **2024-01-16 22:27:51**
 
 * virakesarilk: 38
 
-* economynextcom: 39
-
 * islandlk: 40
 
-* adaderanalk: 59
+* economynextcom: 51
 
 * tamilmirrorlk: 62
+
+* adaderanalk: 68
 
 * dailyftlk: 97
 
@@ -26,9 +26,129 @@ As of **2024-01-16 22:27:51**
 
 * adalk: 115
 
-* **Total**: **645**
+* **Total**: **666**
 
 ## Latest Articles (100)
+
+### Kerala cannabis worth over Rs. 30 mn seized during naval operation in Jaffna
+
+*2024-01-16 22:34:00 - [adaderanalk](https://www.adaderana.lk/news/96462/kerala-cannabis-worth-over-rs-30-mn-seized-during-naval-operation-in-jaffna)*
+
+A stock of 34 kilograms of Kerala Cannabis was seized by the Sri Lanka Navy in a recent operation on the Pungudutivu Island in Jaffna.
+
+The stock, valued at an estimate of over Rs. 13 million, was seized during a naval operation carried out on Monday (15 Jan.).
+
+The consignment of Kerala cannabis was found in 16 parcels inside a sack hidden in the shrubs in the beach vicinity, the Navy reported.
+
+Accordingly, the haul of Kerala cannabis will remain in the custody of the Navy until it is handed over to the relevant authorities for onward legal action.
+
+### Badulla night-mail train breaks down
+
+*2024-01-16 22:32:00 - [adaderanalk](https://www.adaderana.lk/news/96461/badulla-night-mail-train-breaks-down)*
+
+The night-mail train plying from Colombo to Badulla reportedly suffered a technical breakdown near the Veyangoda railway crossing a short while ago.
+
+The Sri Lanka Railways Department assured, however, that measures are afoot to resolve the matter promptly.
+
+### Maldivian parliamentary delegation led by Speaker call on Acting Foreign Minister
+
+*2024-01-16 21:57:00 - [adaderanalk](https://www.adaderana.lk/news/96460/maldivian-parliamentary-delegation-led-by-speaker-call-on-acting-foreign-minister)*
+
+A delegation of the Maldivian Parliament, led by the Speaker of the People’s Majlis, called on Sri Lanka’s Acting Foreign Minister on Tuesday (16 Jan.).
+
+The Speaker of the People’s Majlis of Maldives Mohamed Aslam, accompanied by a delegation of Members of Parliament, called on Acting Foreign Minister Tharaka Balasuriya today, at the Ministry of Foreign Affairs.
+
+The Acting Foreign Minister welcomed the visiting delegation and exchanged views on bilateral relations between the two countries, particularly in relation to the cooperation between the legislatures.
+
+The seven-member delegation, comprising members of the Sri Lanka-Maldives Parliamentary Friendship Association, is on an official visit to Sri Lanka from 15-19 January 2024 at the invitation of Parliament Speaker Mahinda Yapa Abeywardana.
+
+Senior officials of the Ministry of Foreign Affairs and the High Commission of Maldives in Colombo were also present at the meeting, the ministry said.
+
+### Another ship hit in Red Sea, disruption seen driving up prices
+
+*2024-01-16 21:29:00 - [adaderanalk](https://www.adaderana.lk/news/96459/another-ship-hit-in-red-sea-disruption-seen-driving-up-prices)*
+
+Disruptions to Red Sea shipping caused by Houthi attacks will push up prices of consumer goods, an executive from port and freight operator DP World said on Tuesday as a missile struck another vessel in the region.
+
+The Iran-allied Houthi militia has threatened to expand its attacks to include U.S. ships in response to American and British strikes on its sites in Yemen.
+
+Attacks by the Houthis on ships in the region since November have impacted companies and alarmed major powers - an escalation of Israel’s more than three-month-old war with Palestinian Hamas militants in Gaza. The Houthis say they are acting in solidarity with Palestinians.
+
+DP World CFO Yuvraj Narayan said he expected disruptions to hit European consumers hardest.
+
+“The cost of goods into Europe from Asia will be significantly higher,” Narayan told Reuters at the annual World Economic Forum meeting in Davos, Switzerland.
+
+“European consumers will feel the pain ... It will hit developed economies more than it will hit developing economies,” the Dubai-based logistics company’s finance chief added.
+
+Two heads of international banking groups said privately in Davos they were worried the crisis might cause inflationary pressures which could ultimately delay or reverse interest rate cuts and jeopardise hopes for a U.S. economic soft landing.
+
+War risk insurance premiums for shipments through the Red Sea are rising, insurance sources said on Tuesday.
+
+In Spain, four factories owned by French tyre maker Michelin are planning to halt output again this weekend due to delays in the delivery of raw materials.
+
+A Malta-flagged, Greek-owned bulk carrier was targeted and hit by a missile while northbound in the Red Sea 76 nautical miles northwest of the Yemeni port of Saleef, a security firm and two Greek shipping ministry sources said on Tuesday.
+
+The vessel, the Zografia, was sailing from Vietnam to Israel with 24 crew on board and was empty of cargo when attacked, one of the Greek sources said. “There were no injuries, only material damage,” the source added. It was still sailing but would probably reroute for safety checks.
+
+Underlining concerns, Japanese shipping operator Nippon Yusen (9101.T), opens new tab, also known as NYK Line, instructed its vessels navigating near the Red Sea to wait in safe waters and is considering route changes, a company spokesperson said.
+
+Shipping giant Maersk (MAERSKb.CO), opens new tab, however, sent two container ships through the Red Sea carrying goods for the U.S. military and government.
+
+Container vessels have been pausing or diverting from the Red Sea that leads to the Suez Canal, the fastest freight route from Asia to Europe. Many ships have been forced to circumnavigate South Africa’s Cape of Good Hope instead.
+
+British oil major Shell (SHEL.L), opens new tab has suspended all shipments through the Red Sea indefinitely after the U.S. and UK strikes triggered fears of further escalation, the Wall Street Journal reported on Tuesday. Shell declined to comment.
+
+Russian tanker group Sovcomflot (FLOT.MM), opens new tab is also considering alternative routes in case the crisis escalates, TASS news agency reported. Sovcomflot did not immediately respond to a Reuters request for comment.
+
+European diplomats said member states of the European Union had given initial backing to creation of a naval mission by Feb. 19 to help protect ships from Houthi attacks in the Red Sea.
+
+The existing U.S.-led coalition meant to safeguard commercial traffic in the Red Sea is weak because regional powerhouses Saudi Arabia, the United Arab Emirates and Egypt have not taken part, Yemen’s vice president said on Tuesday.
+
+“This Bab al-Mandab corridor is of interest to the whole world and to the region, so regional intervention is key,” Aidarous al-Zubaidi told Reuters in an interview, referring to the narrow strait at the southern entrance to the Red Sea.
+
+Zubaidi’s separatist Southern Transitional Council is part of an alliance that opposes the Houthis in Yemen.
+
+Saudi Arabia’s foreign minister underline the link between Houthi attacks on commercial ships to the war in Gaza. Prince Faisal bin Farhan Al Saud said the kingdom’s priority is finding a path to de-escalation through a ceasefire in Gaza.
+
+Also speaking in Davos, Chinese Premier Li Qiang said it was important to keep global supply chains “stable and smooth”.
+
+About 12% of world shipping traffic accesses the Suez Canal via the Red
+
+### President Ranil meets Al Gore in Davos
+
+*2024-01-16 21:15:00 - [adaderanalk](https://www.adaderana.lk/news/96458/president-ranil-meets-al-gore-in-davos)*
+
+President Ranil Wickremesinghe has convened a meeting with the former Vice President of the United States and founder/Chairman of The Climate Reality Project, Mr. Al Gore, on Tuesday (16 Jan.).
+
+This meeting took place in conjunction with the World Economic Forum in Davos, Switzerland, with the participation of Mr. Ruwan Wijewardena, the President’s Senior Adviser on Climate Change and Ms. Himali Arunathilaka, Ambassador and the Permanent Representative of Sri Lanka to the United Nations in Geneva.
+
+President Wickremesinghe is currently in Switzerland to attend the 54th Annual Meeting of the World Economic Forum.
+
+The Head of State left for Switzerland on 13 January for a 12-day stay town in the Swiss town of Davos where the event is taking place.
+
+The Annual Meeting of the World Economic Forum for the year 2024 is held from January 15 - 19 in Davos, Switzerland, under the theme ‘Rebuilding Trust’. It aims to restore collective agency, and reinforce the fundamental principles of transparency, consistency and accountability among leaders.
+
+### Saudi Arabia cuts domestic worker hiring fee from several countries including Sri Lanka
+
+*2024-01-16 20:33:00 - [adaderanalk](https://www.adaderana.lk/news/96457/saudi-arabia-cuts-domestic-worker-hiring-fee-from-several-countries-including-sri-lanka)*
+
+Saudi Arabia has announced a reduction in the fees for recruiting domestic workers from several countries, including the Philippines, Sri Lanka, Bangladesh, Uganda, Kenya, and Ethiopia.
+
+The revised fees unveiled by the Ministry of Human Resources and Social Development are: From SR15,900 to SR14,700 for the Philippines; from SR15,000 to SR13,800 for Sri Lanka; from SR13,000 to SR11,750 for Bangladesh; from SR10,870 to SR9,000 for Kenya; from SR9,500 to SR8,300 for Uganda and from SR6,900 to SR5,900 for Ethiopia.
+
+The decision is part of the ministry’s efforts to review and regulate recruitment costs, ensuring fair pricing in line with the changing costs in the recruitment industry.
+
+Furthermore, the ministry has previously instructed licensed recruitment companies and offices to establish upper limits for the costs of recruiting domestic workers from specific nationalities.
+
+The set upper limit for recruiting domestic workers from Sierra Leone and Burundi is SR7,500, and SR10,000 from Thailand, exclusive of the value-added tax (VAT).
+
+The decision ‘aligns with the ministry’s broader goals to develop all services, improve the labour market environment and enhance its appeal,’ according to the ministry.
+
+It reflects the ministry’s commitment to periodically reviewing costs, services, and systems in response to economic changes, ensuring they are appropriately aligned.
+
+The ministry also emphasized the importance of adherence to these new price ceilings and stated that compliance would be monitored through the Musaned platform.
+
+This initiative highlights the ministry’s dedication to creating a balanced and fair recruitment environment in the kingdom.
 
 ### ලංකාවේ අතිරික්ත විදුලිය ඉදිරියේදී ඉන්දියාවේ දකුණු කලාපයට
 
@@ -174,6 +294,20 @@ As of **2024-01-16 22:27:51**
 
 අධිකරණ හා බන්ධනාගාර කටයුතු රාජ්‍ය අමාත්‍ය නීතිඥ, අනුරාධ ජයරත්න, අධිකරණ අමාත්‍යාංශයේ ලේකම් එම්.එන්.රණසිංහ, ජාතික සමගිය හා ප්‍රතිසන්ධානය සදහා වු කාර්යාලයේ සභාපති චරිත් මාරඹේ, යාපනය බන්ධනාගාර අධිකාරී එස්. ඉන්ද්‍රකුමාර යන මහත්වරුන් ඇතුළු නිලධාරීන් මෙම නිරීක්ෂණ චාරිකාවට එක් වුහ.
 
+### New date announced for 2023 A/L Agri. Science papers I and II
+
+*2024-01-16 19:11:00 - [adaderanalk](https://www.adaderana.lk/news/96456/new-date-announced-for-2023-al-agri-science-papers-i-and-ii-)*
+
+The 2023 G.C.E. Advanced Level examination’s Agricultural Science question paper I has also been annulled, says the Department of Examinations while announcing a fresh date for the relevant exams.
+
+On 12 January, the Department of Examinations decided to cancel the second paper of the 2023 G.C.E. Advanced Level examination’s Agricultural Science subject, due to reports that several questions of the paper had been leaked on social media prior to the exam.
+
+Meanwhile, investigations into the incident carried out by the Criminal Investigations Department (CID) have now uncovered that several questions from paper I of the Agricultural Science subject had also been leaked, the Examinations Department said in a statement today.
+
+Accordingly, the Department said that both question papers have now been annulled with immediate effect, and the new exam date and time are as follows:
+
+The Department further said that the admission card for school applicants for this exam will be sent to the respective school principals, while admission cards for private applicants will be mailed to them.
+
 ### முச்சக்கரவண்டி சாரதிகளின் தொழிற் சங்கங்களை நிறுவுவதற்கான இடைக்கால வழிநடத்தல் குழு ஸ்தாபிப்பு!
 
 *2024-01-16 19:02:00 - [virakesarilk](https://www.virakesari.lk/article/174108)*
@@ -206,6 +340,104 @@ As of **2024-01-16 22:27:51**
 
 මියගිය තරුණියගේ පශ්චාත් මරණ පරීක්ෂණය හොරණ මූලික රෝහලේදී මුළු දිවයිනටම සාම විනිසුරු සුමේධ ගුණවර්ධන මහතා විසින් පැවැත් වූ අතර ඉදිරිපත් වූ වෛද්‍ය වාර්තාව සහ සාක්කි සැලකිල්ලට ගෙන තරුණියගේ මරණය ඩෙංගු රෝගය හේතුවෙන් රුධිර වාහනය වීම සමඟම ඇතිවූ සංකූලතා මත සිදුවූ මරණයක් බවට තීරණය කළේය.
 
+### Sri Lanka Ambuluwawa tourist project to attract thrill seekers
+
+*2024-01-16 19:00:00 - [economynextcom](https://economynext.com/sri-lanka-ambuluwawa-tourist-project-to-attract-thrill-seekers-147479/)*
+
+ECONOMYNEXT – The Ambuluwawa Biodiversity Center will be developed as a tourist zone with opportunities for adventure sports, State Minister of Justice and Prisons Anuradha Jayaratne said.
+
+“We hope to bring fifteen percent of the tourists coming to Sri Lanka to Ambuluwawa,” Jayaratne was quoted by the Government Information Department.
+
+Various adventure sports and recreational activities will be offered in an area spread over 8 acres of the 450-acre Biodiversity Center, the minister said at an event to promote Ambuluwawa as a tourist area.
+
+“The Ella Odyssey train will stop at Gampola station for a short while so tourists can take in the Ambuluwawa tourism experience.”
+
+According to Jayaratne, 8% of tourists coming to the island visit Ambuluwawa.
+
+He claimed the area will be developed into an economic hub of the Kandy District, particularly Gampola town, with the introduction of a cable car project.
+
+Sri Lanka’s Board of Investment signed an agreement to develop a cable car system in the country in November 2023.
+
+“Amber Adventure signed an agreement for 4.5 million US dollars, in collaboration with Ambuluwawa Bio Diversity Center, and technical and product expertise from China Machine-Building International Corporation,” the BoI said on X (twitter) at the time.
+
+Several proposed cable car systems in various parts of the island, including one in the hill country town of Nuwara Eliya, have not materialized so far.
+
+Sri Lanka is targeting 2.3 million tourists in 2024 with India, Russia, China, the United Kingdom and Germany expected to bring most of the arrivals, Chairman of the Sri Lanka Tourism Development Authority (SLTDA), Priyantha Fernando has said.
+
+Tourist authorities say Sri Lanka needs to sell a product that attracts high spending tourists.
+
+“We are going to market Sri Lanka in a way that you can’t think possible,” President Ranil Wickremesinghe has said. “So we will have to re-think our tourist policies.” (Colombo/Jan16/2024)
+
+### President discusses effective progress of debt restructuring at Business Roundtable in Switzerland
+
+*2024-01-16 18:48:00 - [adaderanalk](https://www.adaderana.lk/news/96455/president-discusses-effective-progress-of-debt-restructuring-at-business-roundtable-in-switzerland-)*
+
+Addressing the Business Roundtable organized by BOI Sri Lanka and the Swiss-Asian Chamber of Commerce yesterday, during his official tour to Switzerland to attend the 54th Annual Meeting of the World Economic Forum, President Ranil Wickremesinghe highlighted significant strides in Sri Lanka’s economic recovery and outlined future growth prospects.
+
+President Wickremesinghe began by acknowledging the challenging times the nation faced, noting the adverse effects of the recent crisis on businesses, small enterprises and the overall population. He mentioned a constructive meeting with the International Monetary Fund (IMF), where it was surprising to learn that Sri Lanka had over performed despite the difficulties.
+
+One key aspect highlighted by the President was the successful debt restructuring in collaboration with the IMF, emphasizing its necessity for dealing with creditors. He outlined the reforms undertaken in 2022 and 2023, addressing crucial business impediments and resolving supply bottlenecks in fuel and electricity. Additionally, import restrictions were lifted, foreign exchange liquidity was restored and a primary surplus in the balance of payments is anticipated for the first time since 1977.
+
+President Wickremesinghe highlighted positive indicators such as the stabilization of the currency, a significant reduction in inflation, and the reversal of negative economic growth from the third quarter of 2023. The achievement of a primary budget surplus in 2023 marked a notable improvement.
+
+The President went on to discuss the effective progress in debt restructuring, with key creditors agreeing in principle. The IMF’s approval of Sri Lanka’s first program review in December 2023 sets the stage for a shift from stabilization to recovery and growth in 2024.
+
+Looking ahead, President Wickremesinghe emphasized the government’s focus on fostering growth through exports, services and investments, including foreign direct investment (FDI). He announced concluded and upcoming FTAs with Singapore, Thailand, India and China, along with ongoing talks with other South Asian nations. The President highlighted Sri Lanka’s initiatives to join the Regional Comprehensive Economic Partnership (RCEP) and the benefits of GSP Plus for access to European markets.
+
+The address concluded with the President unveiling opportunities for investments in renewable energy, agriculture modernization, tourism, IT and infrastructure development through public-private partnerships. He highlighted forthcoming laws and commissions aimed at enhancing market access, fostering trade and investment and ensuring the competitiveness of Sri Lanka’s economy. President Wickremesinghe reassured foreign investors by mentioning the removal of restrictions and the ongoing commitment to economic reforms.
+
+Meanwhile, sharing his perspective during the roundtable discussion on Sri Lanka’s undertaken reforms, Mr. Sagala Ratnayaka, the President’s Senior Advisor on National Security and Presidential Chief of Staff, emphasized a comprehensive approach encompassing both economic and governmental facets.
+
+Mr. Ratnayaka highlighted that alongside economic reforms, the government embarked on an extensive array of changes. This included a proactive engagement in a diagnostics exercise initiated by the International Monetary Fund (IMF).
+
+Notably, the government did not wait for the completion of the IMF diagnostics exercise but initiated various measures beforehand. Initiatives like the establishment of the Parliamentary Budget Office were implemented even before the governance diagnostics report was published.
+
+Subsequent to these initial steps, a comprehensive program was launched to implement diagnostic reforms. Mr. Ratnayaka underscored the significance of introducing critical legislation, such as the anti-corruption law. He explained the process by which the Constitutional Council would recommend commissioners for the Anti-Corruption Commission to the President. Emphasizing a forward-looking approach, Mr. Ratnayaka affirmed that all undertaken actions aim to elevate international standards.
+
+The Senior Advisor highlighted the introduction of a substantial number of pieces of legislation on the governance front, with approximately 20 already completed. Looking ahead, the focus includes labour laws, with a target of 40 or 50 new laws and the consolidation of around 40 to 50 existing legislations into a modern, forward-looking framework. The overarching goal is to create a favourable environment for employers and align Sri Lanka with contemporary global standards.
+
+The Business Roundtable provided a platform for Sri Lanka to showcase its economic resilience and commitment to growth, leaving attendees optimistic about the nation’s future prospects.
+
+Representing the Sri Lankan business community at this Business Roundtable were Mr. Krishan Balendra – Chairman John Keels Holdings, Mr. Sanath Manatunge – CEO/MD Commercial Bank PLC, Mr. Dilshan Wirasekara – Chairman Colombo Stock Exchange, Mr. Prakash Schaffter – Deputy Chairman Janashakthi Insurance PLC, Mr. Keith Bernard – Chairman, Sri Lanka Ports Authority, Ms. Stasshani Jayawardena – Joint Deputy Chairman/MD, Aitken Spence PLC, Mr. Sanjeev Gardiner – Chairman Galle Face Group, Mr. Ashok Pathirage – Chairman Sri Lankan Airlines, Mr. Sujeewa Rajapakse – Chairman People’s Bank, Dr. Parakrama Dissanayake – Deputy Chairman & Managing Director, Aitken Spence PLC and ⁠ Mr. Supun Weerasinghe – CEO Daialog Axiata.
+
+In addition, Mr. Dinesh Weerakkody – Chairman Board of Investment/Chairman Colombo Port City Economic Commission, Mr. Revan Wickramasuriya – Chief Operating Officer Colombo Port City Economic Commission, Mr. Prasanjith Wijayatilake – Executive Director Investment Promotion Board of Investment, Mr. Sagala Ratnayaka – Chief of Staff to the President & NSA, Mr. Deshal De Mel – Advisor to the Finance Minister and Mr. Ruwan Wijewardene – Advisor to the President on Climate Change participated in this roundtable discussion.
+
+### Evacuation underway for stranded tourists after multiple avalanches trap 1,000 people in China
+
+*2024-01-16 18:35:00 - [adaderanalk](https://www.adaderana.lk/news/96454/evacuation-underway-for-stranded-tourists-after-multiple-avalanches-trap-1000-people-in-china)*
+
+Rescuers evacuated tourists on Tuesday from a remote skiing area in northwestern China where dozens of avalanches triggered by heavy snow have trapped more than 1,000 people for a week, state media said.
+
+The avalanches have blocked roads, stranding both tourists and residents in a village in Altay prefecture in the Xinjiang region, close to China’s border with Mongolia, Russia and Kazakhstan.
+
+Those injured were being airlifted out on a military helicopter while supplies such as food and fuel were being flown in.
+
+State broadcaster CCTV said a snow-blocked road linking Hemu village to major roads was cleared on Tuesday, enabling vehicles to enter and tourists to drive themselves out.
+
+Footage showed dozens of tourists dragging luggage over snow-covered areas toward a military helicopter, while a long line of outgoing cars was seen on the cleared road.
+
+State media cited the local highway administration as saying the avalanches affected 350 kilometers (220 miles) of roads. Road clearing efforts were hampered due to the area’s geography as roads leading to Hemu are situated in a valley with tree-covered slopes.
+
+Known as an emerging ski destination, Altay prefecture had been hit by heavy snowfall since early January. China Daily, citing the Xinjiang meteorological bureau, said at least 31 avalanches were reported as of Saturday.
+
+Authorities at the Kanas scenic area, where Hemu village is located, said the area will be closed until at least Jan. 20 due to continued extreme weather.
+
+### Sri Lanka IOC unit profits down 63-pct in Dec23
+
+*2024-01-16 18:34:00 - [economynextcom](https://economynext.com/sri-lanka-ioc-unit-profits-down-63-pct-in-dec23-147497/)*
+
+ECONOMYNEXT – Lanka IOC, a Sri Lanka publicly traded unit of Indian Oil Corporation reported profits from 3.015 billion rupees, in the December 2023 quarter, down 63 percent from a year ago.
+
+The firm reported earnings of 5.66 rupees per share for the quarter. In the nine months to December the Lanka IOC reported earnings of 19.76 rupees on total profits of 10.52 billion rupees.
+
+In the December quarter revenues fell 3.8 percent to 72.02 billion rupees, cost of sales were down 6.6 percent to 67.01 billion rupees and gross profits were down 75 percent to 2.26 billion rupees.
+
+Finance income was 1.4 billion rupees, up from 1.09 billion a year ago, while finance expenses fell to 92 million rupees from 533 million rupees.
+
+The firm had short term investments of 35.9 billion rupees, up from 21 billion a year ago. Borrowings were 3.4 billion rupees, down from 4.4 billion.
+
+Equity was 68.6 billion rupees, up from 61.2 billion rupees. (Colombo/Jan16/2023)
+
 ### சந்தைக்கு போகாதவர்களுக்கு மட்டும்
 
 *2024-01-16 18:17:13 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/சந்தைக்கு-போகாதவர்களுக்கு-மட்டும்/175-331608)*
@@ -216,11 +448,11 @@ As of **2024-01-16 22:27:51**
 
 *2024-01-16 18:02:00 - [adaderanalk](https://www.adaderana.lk/news/96453/new-qr-code-system-for-three-wheelers)*
 
-Minister of Labour and Foreign Employment Manusha Nanayakkara says measures will be taken to introduce a new QR code within a very short period of time, in consideration of the proposal to introduce a QR code in relation to the registration and preparation of a data system for all three-wheeler drivers.
+Minister of Labour and Foreign Employment Manusha Nanayakkara says measures will be taken to introduce a new QR code system within a very short period of time, in consideration of the proposal to introduce a QR code in relation to the registration and preparation of a data system for all three-wheeler drivers.
 
 Nanayakkara expressed these views while attending the event for the establishment of the Interim Sectoral Steering Committee today (16) as the first stage of the establishment of professional councils for three-wheeler drivers.
 
-Furthermore, it has also been taken into discussion the preparation of a system enabling the three-wheeler drivers to obtain hired journeys through the internet by means of the professional organization established for them.
+Furthermore, the preparation of a system enabling the three-wheeler drivers to obtain hired journeys through the internet by means of the professional organization established for them, has also been taken into discussion.
 
 This Steering Committee has been formed under the “Garu Saru” program which was commenced in order to provide professional dignity and pride to all those who are employed in the informal services sector in Sri Lanka.
 
@@ -229,6 +461,66 @@ This committee was formed and established under the chairmanship of the Minister
 The committee reportedly includes representatives of all three-wheeler drivers’ associations in Sri Lanka.
 
 Meanwhile, a resolution consisting of the matters agreed upon in the previous discussions regarding the development of the dignity of their profession was also handed over to the minister during the event.
+
+### Invest in Sri Lanka renewable energy sector: President at Davos forum
+
+*2024-01-16 18:00:00 - [economynextcom](https://economynext.com/invest-in-sri-lanka-renewable-energy-sector-president-at-davos-forum-147448/)*
+
+ECONOMYNEXT – Now was the time for investing in Sri Lanka’s renewable energy sector, President Ranil Wickremesinghe has told a forum in Davos, Switzerland on Monday (15).
+
+Wickremesinghe said he was confident in the sector’s potential to yield benefits for stakeholders and consumers in the coming decades, according to a statement by his media division.
+
+“Investors venturing into this sector can anticipate a comprehensive and unwavering policy framework,” Wickremesinghe was quoted as saying in his address at the ‘Green Technology Forum’.
+
+After a forex and energy crisis in 2022, there has been an increased effort on Sri Lanka’s part to include wind and solar power generation to its national grid.
+
+“The government is now accelerating this process to ensure that by 2030, 70% of Sri Lanka’s electricity needs are fulfilled by renewable energy sources.
+
+But the country lacks the financial resources to do so on its own.
+
+“To reach this target requires a large investment of up to USD 11.5 billion. However, until recently the framework for private investment in the renewable energy sector has not been very conducive. Over the last 2 years several measures have been taken by the government to correct these shortcomings and ensure an optimal investment climate for renewable energy is in place.”
+
+I thank the Swiss Asian Chamber of Commerce and their partners in organising this event for the invitation to speak today.
+
+There is an urgent need for acceleration of global actions towards climate change mitigation. There have been multiple global forums which have resulted in numerous commitments towards this end. However, actions have fallen drastically short of commitments.
+
+The fallout of this failure in global leadership is borne largely by developing nations of the global south. When periods of drought extend beyond normal, undermining agricultural production, our food security is in jeopardy. When hydropower gets disrupted due to delayed monsoons, our energy security is in jeopardy. Droughts are often followed by a deluge, leading to flash floods and landslides, disrupting lives and livelihoods of under-privileged communities in particular.
+
+It is very evident that there is a disproportionate impact of the adverse outcomes of climate change on developing countries. This brings to light the issue of climate justice and the need for a stronger contribution from the advanced economies towards adaptation and mitigation efforts in the global south.
+
+That being said, Sri Lanka will forge ahead with its efforts towards climate mitigation. We have also recently launched the Tropical Belt Initiative at the COP28 in Dubai – this creates a framework for catalysing private investment in forests, energy, oceans, mangroves, in the countries of the tropical belt.
+
+Today I want to focus on one key aspect of such efforts, which is our drive towards renewable energy.
+
+In fact, Sri Lanka is a country with a long history of renewable energy. Since independence Sri Lanka developed an extensive network of hydropower, commissioning its first major hydro-power plant in 1950. Hydropower was able to provide for most of the country’s energy needs until the 1990s. Even today, hydropower accounts for around 40% of Sri Lanka’s installed electricity generation capacity.
+
+With hydropower largely exploited to the optimal levels, there has been an increased effort to include wind and solar power generation to the national grid. The government is now accelerating this process to ensure that by 2030, 70% of Sri Lanka’s electricity needs are fulfilled by renewable energy sources.
+
+To reach this target requires a large investment of up to USD 11.5 billion. However, until recently the framework for private investment in the renewable energy sector has not been very conducive. Over the last 2 years several measures have been taken by the government to correct these shortcomings and ensure an optimal investment climate for renewable energy is in place.
+
+The first step was to ensure cost reflective pricing. Between 2014 and 2022 electricity tariffs had not been adjusted. This resulted in major cash flow problems for the Ceylon Electricity Board that sometimes led to payment delays to power suppliers. However, from August 2022 we have shifted to a cost-reflective pricing structure. Accordingly, electricity tariffs are revised every quarter to reflect costs on a forward looking basis.
+
+The CEB, which has long been a loss making entity, returned a profit in 2023, enabling it to settle significant levels of past debt along with some balance sheet structuring. The company now has a strong balance sheet, a far stronger cash flow position, and a pricing structure that ensures liquidity.
+
+Rigidities in the feeding tariff has also been a concern of past investors. However, this has also been addressed with greater flexibility being introduced to the tariff options, including choices between fixed tariff and variable tariff formulas.
+
+In addition to internal reform, we are also putting in place the framework to attract green financing. Sri Lanka has developed the Road Map for Sustainable Finance, Green Finance Taxonomy, the SDG Investor Map and the Green Bond Framework, that is currently under formulation, creates the enabling environment for Sri Lanka to have a robust engagement in climate finance. The availability of sustainable finance will be an added boost for renewable energy investments in Sri Lanka.
+
+There have also been legislative barriers to large scale private investment in the renewable energy sector. Those legal hurdles have also been cleared through necessary amendments to the Electricity Act introduced in 2022.
+
+Thirdly, the government is in the final stages of implementing unbundling of the Ceylon Electricity Board. This will result in greater financial and operational autonomy for the distribution, generation, and transmission arms of the CEB, resulting in competition and transparency. Whilst private participation in generation is already available, the unbundling process will open up opportunities for private participation in distribution as well.
+
+This major reform, implemented with the support of the Asian Development Bank, will ensure the CEB operates at the frontier of efficiency, delivering the best outcome for consumers and the most competitive and efficient producers of electricity. The draft legislation for this reform was already been published last month.
+
+The ambition of 70% electricity from renewals also requires improved system efficiency and upgrades to integrate more renewable energy, particularly from 2026. Investments will be required in storage, transmission, and distribution, along with the ongoing private investments in generation. Plans for this integration up to 2030 are in place and have begun implementation.
+
+Following the major reforms implemented in the energy sector in the last 2 years, there has been renewed interest in this sector. There are already large scale solar and wind power projects that have commenced implementation. A major Indian player has commenced implementation of a 350MW wind power plant that is expected to be commissioned in 2025. The same player is considering a further USD 750 million investment in wind power.
+
+Wind power is a major opportunity for Sri Lanka. A recent World Bank report indicates that off-shore wind power in particular has the potential to generate power far greater than Sri Lanka’s requirements. Considering this, Sri Lanka and India are in advanced stages of talks regarding grid inter-connection to enable Sri Lanka to export surplus electricity particularly to the fast growing industrial belt in the Southern part of India. There is also tremendous potential for the development of green hydrogen in Sri Lanka.
+
+Sri Lanka has ambitious plans to fulfil its sustainable, green development agenda. By 2050 the country has committed to achieving net zero. The accelerated renewable energy plan is a key component of this overall effort and is also an essential step on the path towards energy security. Renewable energy will also drive down costs of generation since at present Sri Lanka is compelled to rely on high cost heavy fuels during the dry season. Sri Lanka is in the process of establishing an international climate university, which will continue to unlock opportunities in green energy.
+
+It is clear that Sri Lanka’s renewable energy policy direction is underpinned by multiple motivations and drivers. Therefore investors can expect a high degree of policy continuity in this sector going forward as well. This is the best time to invest in Sri Lanka’s renewable energy journey, and I have no doubt such investments will generate significant value for shareholders and Sri Lanka’s consumers over the next several decades.
 
 ### மென்சீஸ் விமான சேவையின் தலைவரை சந்தித்து ஜனாதிபதி பேச்சு!
 
@@ -245,6 +537,26 @@ Meanwhile, a resolution consisting of the matters agreed upon in the previous di
 சுவிட்சர்லாந்தின் டாவோஸ் நகரில் நடைபெறும் உலக பொருளாதார மாநாட்டுடன் இணைந்த வகையில், ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும், அமெரிக்காவின் முன்னாள் உப ஜனாதிபதி, The Climate Reality Project இன் நிறுவனரும் தலைவருமான அல் கோர் (Al Gore) ஆகியோருக்கும் இடையில் சந்திப்பொன்று இடம்பெற்றது.
 
 காலநிலை மாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தன மற்றும் ஜெனீவாவிற்கான ஐக்கிய நாடுகள் சபையின் இலங்கையின் நிரந்தரப் பிரதிநிதியும் தூதுவருமான ஹிமாலி அருணதிலக்க ஆகியோரும் இச்சந்திப்பில் கலந்துகொண்டனர்.
+
+### Sri Lanka rupee closes at 321.40/60 to the US dollar
+
+*2024-01-16 17:36:00 - [economynextcom](https://economynext.com/sri-lanka-rupee-closes-at-321-40-60-to-the-us-dollar-147455/)*
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 321.40/60 to the US dollar on Tuesday, from 322.10/20 last Friday, dealers said.
+
+A bond maturing on 01.06.2025 closed at 13.40/65 percent from 13.40/55 percent.
+
+A bond maturing on 01.02.2026, closed stable at 13.70/75 percent.
+
+A bond maturing on 15.01.2027 closed at 13.75/90 percent from 13.75/85 percent.
+
+A bond maturing on 15.03.2028 closed stable at 14.15/20 percent.
+
+A bond maturing on 15.05.2030 closed at 14.15/30 percent from 14.10/35 percent.
+
+A bond maturing on 01.07.2032 closed at 14.20/35 percent from 14.25/35 percent.
+
+Date of announcement of the Monetary Policy Review: No. 01 of 2024 – Tuesday, January 23, 2024 at 7.30 am. (Colombo/Jan16/2024)
 
 ### பெருந்தோட்ட பகுதி மாணவர்களின் இடைவிலகல்கள்..!
 
@@ -584,6 +896,34 @@ Through the statement, it was also demanded to immediately release persons arres
 
 இது தொடர்பாக செய்தியாளர்களிடம் பேசிய அவர், தான் கடும் மன உளைச்சலுக்கு ஆளானதாகவும், தவறு என்று தெரிந்தும், அந்த மன அழுத்த சூழ்நிலையை போக்கவே அவ்வாறு செய்ததாகவும் விளக்கமளித்துள்ளார்.
 
+### Sri Lanka stocks close down, Ceylinco boosts turnover
+
+*2024-01-16 15:48:00 - [economynextcom](https://economynext.com/sri-lanka-stocks-close-down-ceylinco-boosts-turnover-147443/)*
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The All Share Price Index was down 0.61 percent, or 64.65 points, at 10,545.
+
+The S&P SL20 index was down 0.79 percent, or 23.90 points, falling below the 3,000-mark to close at 2,999.
+
+However, turnover was significantly higher than the preceding few days of trading at 1.5 billion.
+
+Most of this came from a Ceylinco Insurance Plc transaction which contributed 767mn to the day’s turnover.
+
+Other sectors that saw higher investor interest were the food, beverage and tobacco industry (297mn), followed by the capital goods industry (132mn).
+
+The banking sector continued to attract less interest, same as last week.
+
+Top positive contributors to the ASPI included Sri Lanka Telecom Plc (up at 92.40) after investors from China and India expressed interest in buying the company, market sources said.
+
+Jio Platforms Ltd and a unit of Reliance industries of India and Gortune International Investment Holding Ltd have expressed interest in Sri Lanka Telecom, which the government has put up for sale.
+
+Other positive contributors included the John Keells Holdings owned Asian Hotels and Properties Plc (up at 59.90), and Ceylon Cold Stores Plc (up at 42.90).
+
+The parent company, John Keells Holdings Plc, closed up at 186.25.
+
+Net foreign outflows continued with today registering an outflow of 586mn, the highest for this year. (Colombo/Jan12/2024).
+
 ### பணம் அனுப்பி , ஆளுநரிடம் கோரிக்கை
 
 *2024-01-16 15:42:50 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பணம்-அனுப்பி-ஆளுநரிடம்-கோரிக்கை/175-331601)*
@@ -651,6 +991,18 @@ Through the statement, it was also demanded to immediately release persons arres
 குறித்த நபர் தன் உயிரை மாய்ப்பதற்கு முன்னதாக தனது முகநூல் ( face book ) பக்கத்தில் வெள்ளைக் கொடி ஒன்றின் புகைப்படத்தை பதிவிட்டதையடுத்து சந்தேகத்தில் நண்பர்கள் மற்றும் உறவினர்கள் அவரது வீட்டிற்கு சென்று பார்த்தபோது வீட்டின் முன்பக்கத்தில் உள்ள அறையொன்றில் உயிரை மாய்த்துகொண்ட   நிலையில் சடலமாக காணப்பட்டுள்ளார்.
 
 மேலும் குறித்த நபர் உயிரை மாய்த்துக்கொண்டமைக்கான காரணம் இதுவரை கண்டறியப்படாத நிலையில் இச் சம்பவம் தொடர்பில் கலென்பிந்துனுவெவ பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+### Sri Lanka opposition promises to repeal planned online speech law
+
+*2024-01-16 15:20:00 - [economynextcom](https://economynext.com/sri-lanka-opposition-promises-to-repeal-planned-online-speech-law-147435/)*
+
+ECONOMYNEXT – The Samagi Jana Balavegaya party will repeal the Online SafetyBill and introduce a new one if it comes to power, opposition MP Harsha de Silva said.
+
+“Strongly opposed to the Govt’s move to enact the Online Safety Bill. If passed, I pledge that a future SJB-led Govt will swiftly repeal controversial bill. We won’t jeopardize ties with major platforms like Meta, Google, and YouTube, essential for #lka economic growth,” de Silva said on X.
+
+“Committed to true Online Safety, we’ll introduce a new law addressing issues like child porn and other serious online crimes with the collaboration of major platforms. It’s crucial for the wellbeing of Sri Lanka society. Let’s prioritize effective solutions over hasty decisions.”
+
+Sri Lanka’s Supreme Court determined that the controversial ‘Online Safety Bill’ is not inconsistent with the constitution and can be passed in parliament by a simple majority subject to amendments made to 31 of its provisions. (Colombo/Jan16/2024)
 
 ### வயோதிப பிக்குவினால் பல தடவைகள் கடுமையாக பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தப்பட்ட 16 வயதான இளம் பிக்கு!
 
@@ -880,6 +1232,20 @@ The Colombo-North Crimes Unit is conducting further investigations regarding the
 
 புத்த பெருமானையும், பிக்குகளையும், பௌத்த மதத்தையும் அவமதிக்கும் வகையில் பிரசங்கங்கள் மேற்கொள்ளப்பட்டமை மற்றும் பணச் சலவைச் சட்டம் மற்றும் பொது ஒழுங்கை மீறியமை தொடர்பில் சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
 
+### Sri Lanka working with foreign payment apps for QR payments
+
+*2024-01-16 13:49:00 - [economynextcom](https://economynext.com/sri-lanka-working-with-foreign-payment-apps-for-qr-payments-147416/)*
+
+ECONOMYNEXT – Sri Lanka is working with international payment aps to allow foreigners to make transaction through Lanka QR, Central Bank Governor Nandalal Weerasinghe said.
+
+“Lanka QR will be extended to foreign payment apps so that both foreign customers and local will utilze Lanka QR for payments in Sri Lanka. That’s where we are working with India’s Upay and some other arrangements,” he said delivering the annual policy statement for 2024, last week (10).
+
+Though Lanka QR has been around for some time, it has not been very active, Weerasinghe said.
+
+“To promote digital transactions and remittances via e-money services, the value limits of enhanced e-money accounts and basic human accounts were increased with effect from January 1.
+
+“The Central Bank expects to revise regulations to support expansion of digital payments and to revise the existing regulatory sandbox framework to facilitate more FinTechs entering the regulatory sandbox; that’s to encourage FinTechs to bring in new innovations and solutions.” (Colombo/Jan16/2024)
+
 ### Self-proclaimed ‘Avalokiteshvara Bodhisattva’ remanded
 
 *2024-01-16 13:47:00 - [adaderanalk](https://www.adaderana.lk/news/96445/self-proclaimed-avalokiteshvara-bodhisattva-remanded-)*
@@ -1031,6 +1397,24 @@ He revealed the number of Sri Lankans in the country has reached about 100,000; 
 ஈராக்கின் குர்திஸ்தான் பிராந்தியத்திலுள்ள  இஸ்ரேலின் இரகசியபுலனாய்வு பிரிவின் தலைமையகத்தை இலக்குதை;துள்ளதாக  ஈரான் தெரிவித்துள்ளது.
 
 அமெரிக்காவின் துணைதூதரகம் மற்றும் பொதுமக்கள் வாழும் பகுதியிலேயே இந்த வெடிப்பு சத்தங்கள் கேட்டுள்ளன.
+
+### Sri Lanka to set aside Rs14bn for housing of estate workers
+
+*2024-01-16 12:34:00 - [economynextcom](https://economynext.com/sri-lanka-to-set-aside-rs14bn-for-housing-of-estate-workers-147403/)*
+
+ECONOMYNEXT – The government has allocated 14 billion rupees for people without homes in the plantations, Minister of Estate Infrastructure Development Jeevan Thondaman has said.
+
+“President Ranil Wickremesinghe has taken steps to provide land and houses for the estate people,” Thondaman was quoted as having said in statement by the Government Department of Information.
+
+10 billion rupees had been allocated for 89 Divisional Secretariat Divisions to construct 10,000 houses, Thondaman said at an event held at Peradeniya University.
+
+Estate workers were acknowledged as a community with no land ownership. An initial 4 billion rupees was allocated in the Budget for 2024 to grant land ownership and build houses for the landless in estates.
+
+Thondaman said that tourism activities around tea estates should resume soon.
+
+There were also plans to build a new university in the area, he said.
+
+India’s Narendra Modi government has also expanded a housing project for plantation workers residing in the island nation’s central hills. (Colombo/Jan16/2024)
 
 ### மொட்டின் ஜனாதிபதி வேட்பாளர் யார்;மஹிந்த பதில்
 
@@ -1282,6 +1666,26 @@ Audit - Management of Overcrowding in Prisons by Adaderana Online on Scribd
 
 ඉදිරි පැය 36ක කාලය තුළදි දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි. ඒසේම හිමිදිරි පාන්දර නුවර එළිය දිස්ත්‍රික්කයෙ ඇතැම් ස්ථානවලට මල් තුහින පතිතවීමේ හැකියාවක්ද ඇති බව එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
 
+### Sri Lanka exports dried fish products to Korea, Australia
+
+*2024-01-16 10:51:00 - [economynextcom](https://economynext.com/sri-lanka-exports-dried-fish-products-to-korea-australia-147385/)*
+
+ECONOMYNEXT – Sri Lanka exported its first batch of low-salt, dried fish and fish chips (Maldive fish, um ba la ka da) to Korea and Australia, the Minister of Agriculture and Plantation Industry has said.
+
+“There is a high probability of pollutants being added in the traditional dry fish processing. More salt is used in the process. But for the first time, there is no space for even a little dust or a fly to enter in the production process, which is being done using air condition dehydration systems,” Minister Mahinda Amaraweera was quoted as saying in a statement by the Government Department of Information.
+
+“With this method, we can present dried fish products that is very suitable for human consumption to the market. This will give us the foreign exchange that the country needs.”
+
+In the traditional production method, fish is dried on the beach in the sun. In the new method, the fish, usually a type of tuna, is dried, or processed, using ‘air condition dehydration’.
+
+As this method retains the fish oils, the quality of dried fish produced is of a higher level, Amaraweera said.
+
+Amaraweera pointed out this dehydration method can be used for several other products in the country.
+
+The export of the first container of 10,000 kg of dried fish and fish chips using the new technology was done recently (14) by Megafish, a company in Pahajjawa.
+
+This is the first time that dried fish and fish chips produced in Sri Lanka will be exported to Australia and Korea. (Colombo/Jan16/2024)
+
 ### Indian air traffic disrupted on third day of dense fog
 
 *2024-01-16 10:45:00 - [adaderanalk](https://www.adaderana.lk/news/96436/indian-air-traffic-disrupted-on-third-day-of-dense-fog)*
@@ -1361,6 +1765,36 @@ Protests as Activists Accuse Former Health Minister of Pharma Fraud
 උඩරට එළවළු වර්ග වන කැරට් කිලෝවක් රුපියල් 1800 ක්, ගෝවා කිලෝවක් රුපියල් 680 ක්, ලීක්ස් කිලෝවක් රුපියල් 500 ක්, මාලු මිරිස් කිලෝවක් රුපියල් 650 ක්, තක්කාලි කිලෝවක් රුපියල් 800 ක්, බීට්රූට් කිලෝවක් රුපියල් 470 ක් වැනි මිළකටත්, විදෙස් සංචාරකයන්ට  බහුලව ලබා දෙන බ්‍රොකලි කිලෝවක් රුපියල් 3600 ක්, බෙල් පෙපර් කිලෝවක් රුපියල් 800 ක්, බැසිල් කිලෝවක් රුපියල් 2600 ක්, චයිනිස් කැබෙජ් කිලෝවක් රුපියල් 1300 ක්, රෙඩ් කැබෙජ් කිලෝවක් රුපියල් 3200 ක්, අයිස්බර්ග් කිලෝවක් රුපියල් 2300 ක්, සළාද කිලෝවක් රුපියල් 1600 ක්, මල් ගෝවා කිලෝවක් රුපියල් 1300 ක් වැනි තොල මිලකට ඊයේ (16) නුවරඑළිය ආර්ථික මධ්‍යස්ථානයේ එළවළු අළෙවි කෙරිණි.
 
 එළවළු මිල ගණන් මෙසේ ඉහලයාම හේතුවෙන් උඩරට සිල්ලර එළවළු වෙළෙඳසැල් විශාල ප්‍රමාණයක් වැසී ගොස් ඇති බවත්, මාර්ග අවට එළවළු අළෙවි කරමින් ජීවිකාව රැගෙන ගිය විශාල පිරිසක් දැඩි අපහසුතාවයට ලක්ව දැඩි ආර්ථික පීඩාවට පත්ව සිටින බව උඩරට එළවළු වෙළෙඳසැල් හිමියෝ පවසති.
+
+### Sri Lanka sees steep shipping cost rises amid Red Sea troubles
+
+*2024-01-16 10:25:00 - [economynextcom](https://economynext.com/sri-lanka-sees-steep-shipping-cost-rises-amid-red-sea-troubles-147380/)*
+
+ECONOMYNEXT – Sri Lanka’s exporters are seeing steep increases in freight rates on West-bound rates which industry analysts warn will spread to the East as ships and containers are delayed as they pass around Africa to avoid Houthi attacks in the Red Sea.
+
+The sailing time to exports to the EU and to the USA East Coast have increased by around 12 to 14 days,” Yohan Lawrence, Director General of Sri Lanka’s Joint Apparel Association Forum told EconomyNext as ship by-pass the Suez canal.
+
+Rates to some European ports have increased by as much as 2000 to 3,000 US dollars per 20-foot container, he said, which has resulted in doubling of freight costs in some cases.
+
+Import containers from East Asia had not gone up as much, so far.
+
+From Shanghai, a 40-foot container has gone up to around 1500 to 1,600 US dollars from around 900 to 1,000, says Viraj Perera, Managing Director of Reliance Agro Pvt Ltd, a company dealing in agricultural machinery.
+
+Freight rates are still lower from the peaks seen when the US Fed was firing a global inflation bubble.
+
+At the peak rates were around 8000 – 10,000 US dollar per 40-foot container.
+
+As ships are strung along around Africa, it will take longer for them to turn around and return to East Asia reducing ship calls and also containers, which will remain at sea for longer.
+
+“Going around Africa has increased the time to three weeks, when the return journey is counted,” Rohan Masakorala, Chief Executive of Colombo-based Shippers’ Academy said.
+
+“Both the supply of containers and availability of ships will reduce, affecting Eastern routes as well.”
+
+An apparel exporter who was trying to complete deliveries for the summer season, where deadlines are just ending, said they were combining shipments in January as ship calls reduce to Colombo and try to meet deadlines.
+
+“If we don’t meet the deadlines we will have to airfreight shipments,” he explained. “So far I have managed.”
+
+Sri Lanka’s Colombo Port has seen higher transshipment volumes as ships going around the Cape of Good Hope unload containers destined to Middle Eastern ports. (Colombo/Jan16/2023)
 
 ### Talk of The Town | Transparency Under a Veil? | Nadishani perera | 16th January 2024
 
@@ -1462,6 +1896,20 @@ Speaking with regards to the strike on Monday (15 Jan.), President of the Parame
 
 The trade union action was launched in protest of the government’s decision to increase the  Disturbance, Availability and Transport (DAT) allowance for doctors by Rs. 35,000.
 
+### Sri Lanka rupee opens at 321.60/85 to the US dollar
+
+*2024-01-16 09:46:00 - [economynextcom](https://economynext.com/sri-lanka-rupee-opens-at-321-60-85-to-the-us-dollar-147369/)*
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 321.60/85 to the US dollar on Tuesday from 322.10/20 the previous day, dealers said.
+
+A bond maturing on 01.02.2026, was quoted at 13.70/80 percent from 13.70/75 percent.
+
+A bond maturing on 15.09.2027 was quoted at 14.00/10 percent.
+
+A bond maturing on 15.03.2028 was quoted at 14.15/25 percent from 14.15/20 percent.
+
+The Colombo Stock Exchange opened down after the long weekend; The All Share Price Index was down -0.04 percent at 10,606.56, while the more liquid S&P SL20 was up 0.04 percent at 3,024. (Colombo/Jan16/2024)
+
 ### வைத்தியசாலை நடவடிக்கைகளுக்கு முப்படைகள் ஆதரவு
 
 *2024-01-16 09:44:25 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலை-நடவடிக்கைகளுக்கு-முப்படைகள்-ஆதரவு/175-331561)*
@@ -1507,479 +1955,3 @@ The trade union action was launched in protest of the government’s decision to
 இரண்டாம் இடத்தினை " விண்வெளியில் நிலை நிறுத்திய செயற்கை கோள்" என்ற பட்டம் பெற்றது. அதற்கான பரிசினை , அந்த பட்டத்தினை வடிவமைத்த பிரசாந்த் பெற்றுக்கொண்டார்.
 
 மூன்றாம் இடத்தினை " ஏலியன்ஸ் மர்ம தாக்குதல் விமானம்" என்ற பட்டம் பெற்றது. அதற்கான பரிசினை அந்த பட்டத்தினை வடிவமைத்த கம்ஸன் பெற்றுக்கொண்டார்.  R
-
-### රෝහල්වලට ත්‍රිවිධ හමුදාව යොදවයි
-
-*2024-01-16 09:31:36 - [adalk](https://www.ada.lk/breaking_news/රෝහල්වලට-ත්‍රිවිධ-හමුදාව-යොදවයි/11-407572)*
-
-වෛද්‍යවරු හැර අනෙකුත් සෞඛ්‍ය සේවකයන් ආරම්භ කර ඇති දීප ව්‍යාප්ත වැඩ වර්ජනය හේතුවෙන් අඩාල වී ඇති රෝහල් කටයුතු පවත්වාගෙන යාම වෙනුවෙන් ත්‍රිවිධ හමුදා සාමාජිකයන් යෙදවීමට පියවර ගන්නා බව ආරක්ෂක මාණ්ඩලික ප්‍රධානී, ජනරාල් ශවේන්ද්‍ර සිල්වා මහතා පවසයි.
-
-සෞඛ්‍ය සේවකයන්ගේ වර්ජනය අද පෙරවරු 8ට ආරම්භ වූ අතර මේ වන විට එය රෝහල් පද්ධතියට දැඩි බලපෑම් එල්ල වී තිබේ. වෛද්‍යවරුන්ගේ දීමනා රුපියල් 35000කින් ඉහළ දැමීමට සාපේක්ෂව අනෙකුත් සෞඛ්‍ය සේවකයන්ගේ දීමනාද ඉහළ දමන ලෙසට ඉල්ලීම් කරමින් මෙම වැඩවර්ජනය ආරම්භ කර තිබේ.
-
-olombo, Jan 16 (Daily Mirror) - Chief of Defence Staff General Shavendra Silva said that the tri-forces have been mobilized to support hospital operations amid the island-wide strike organized by healthcare sector employees.
-
-According to the trade unions representing the health sector, non-doctor employees have decided to conduct an island-wide strike today (16) starting from 8.00 am.
-
-### போதைப் பொருளுக்கு அடிமையான கிராம அலுவலர்
-
-*2024-01-16 09:18:46 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/போதைப்-பொருளுக்கு-அடிமையான-கிராம-அலுவலர்/175-331556)*
-
-முல்லைத்தீவு - புதுக்குடியிருப்பு பிரதேச செயலாளர் பிரிவுக்குட்பட்ட பகுதியில் கடமையாற்றி வருகின்ற கிராம அலுவலர் ஒருவர் உள்ளிட்ட இரண்டு நபர்கள் போதைப் பொருளுக்கு அடிமையானவர்கள் என புதுக்குடியிருப்பு பொலிஸாரால் இன்று (15) கைது செய்யப்பட்டுள்ளனர்.
-
-குறித்த கிராம அலுவலர்  தொடர்ச்சியாக பல்வேறு தரப்பினர்களுக்கும் போதை பொருட்களை வியாபாரம் செய்து வந்ததாக மக்களால் பொலிஸாருக்கு இரகசிய தகவல் மூலம் அறிவிக்கப்பட்டிருக்கின்றது.
-
-குறிப்பாக குறித்த கிராம அலுவலர் கெரோயின் ஐஸ்  உள்ளிட்ட பல்வேறு போதை பொருட்களை பல இளைஞர்கள் ஊடாக பல்வேறு தரப்பினருக்கும் விற்பனை செய்து வருவதோடு, அவரும் குறித்த போதைப் பொருள் பாவனைக்கு அடிமையாக  இருந்துள்ளார்.
-
-இந்நிலையில் நேற்றைய தினம் (15) குறித்த போதைப் பொருளுக்கு அடிமையான கிராம அலுவலர் மற்றும் இவருடன் இணைந்து குறித்த செயற்பாடுகளில் ஈடுபட்டு வந்த மேலும் ஒருவரையும் கைது செய்துள்ளனர்.
-
-இவர்களை முல்லைத்தீவு மாவட்ட வைத்தியசாலையில் மருத்துவ பரிசோதனைகளை மேற்கொண்ட போது குறித்த நபர்கள் போதை பொருளுக்கு அடிமையாகியிருந்தமை அறியப்பட்டிருக்கின்ற நிலைமையில், குறித்த இருவரும் கைது செய்யப்பட்டு பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டு விசாரிக்கப்பட்டு வருகின்றனர்.
-
-குறித்த நபர்களை நாளைய தினம்(16) நீதிமன்றத்தில் முன்னிலைப்படுத்த உள்ளதாக பொலிஸார் தெரிவித்தனர். R
-
-### ඉතාලියේදී හදිසියේ මිය ගිය ලාංකිකයාගේ සිරුර මාස 10ක් තිස්සේ මල් ශාලාවක
-
-*2024-01-16 09:18:17 - [adalk](https://www.ada.lk/breaking_news/ඉතාලියේදී හදිසියේ-මිය-ගිය-ලාංකිකයාගේ-සිරුර-මාස-10ක්-තිස්සේ-මල්-ශාලාවක/11-407571)*
-
-ඉතාලියේදී සැකකටයුතු හදිසියේ මියගිය තම ස්වාමියාගේ සිරුර මාස දහයකට ආසන්න කාලයක් එරටේ මල්ශාලාවක තැන්පත් කර තිබිමෙන් එම සිරුර භාරගෙන අවසන් කටයුතු කිරීමට,තම පුතුට සහ තමාට  ඉතාලියට යෑමට තානාධිපති කාර්යාලයෙන් මෙතෙක් තමන්ට වීසා නොදීමෙන් තමන් දැඩි අසීරුතාවයට පත්ව සිටින බව මහනුවර, මාවිල්මඩ පටුමග අංක 51/04 ලිපිනයේ පදිංචි එක්දරු මවක වන 48 වියති බී. නිරෝෂා ශාමලී මහත්මිය හැඬු කඳුළින් පැවසුවාය.
-
-මෙලෙස සැකකටයුතු ලෙස ඉතාලියේදී මියගොස් ඇත්තේ, 51 වියති එක්දරු පියෙකු වන වීරක්කොඩි රාළලාගේ සම්පත් චන්දන වීරක්කොඩි යන යුද හමුදාවේ කපිතාන්වරයකු ලෙස සේවය කළ අයෙකි.
-
-මියගිය තම ස්වාමියාගේ මළසිරුර එරටේ මල්ශාලාවක තැන්පත් කර තිබෙන අතර ඒ සඳහා තැන්පත් කුලි වශයෙන් මෙරටේ මුදලින් දිනකට රුපියල් 18,000 ක මුදලක් ගෙවීමට සිදුව ඇති බවත් ඒ අනුව මෙතෙක්
-
-තම ස්වාමියා 2007 ජූලී 27 වෙනිදා ඉතාලියේ කොම්පැනියක සාමාන්‍ය වැටුපකට සේවය කිරීමට ගොස් සිටියදී     හදිසියේ 2023 අප්‍රේල් 21 වෙනිදා හදිසියේ මියගොස් ඇති බවට, සේවය කළා කොම්පැනියෙන්  තමාට දැනුම් දුන් බවත්, තම ස්වාමියාට කිසිදු රෝගයක් නොතිබු බවත්, එම මරණය සැකකටයුතු බැවින් එරටට ගොස් පශ්චාත් මරණ පරීක්ෂණය සිදුකර අවසන් කටයුතු කිරීමට මෙරටේ අදාළ බලධාරීන් අවධානය යොමු කර තමන්ට, එකොළොස් වියති එකම පිරිමි දරුවාට තානාධිපති කාර්යාලයෙන් වීසා ලබාදීමට මැදිහත්වන නිරෝෂා ශාමලී මහත්මිය ඉල්ලීමක් කළාය.
-
-"ඉතාලියේදී මගේ මහත්තයා නැතිවෙලා දැන් මාස දහයටත් ලංවෙනවා මටයි පුතාටයි එයාගේ අවසන් කටයුතු කරන්න යන්න වීසා ලබා දෙන්නෙ නෑ, වීසා හදාගන්න ගියාම මම පුදුම පීඩනයකට ලක්වෙලා ඉන්නේ, මගේ පුතත් නිතර කම්පනයෙන් ඉන්නේ තාත්තා බලන්න යන්න ඕනේ කියලා. නමුත් අපි දෙන්නට තවමත් තානාධිපති  කාර්යාලයෙන් වීසා නොදීම නිසා මහත්තයාගේ අවසන් කටයුතු කරන්න යන්න බැරිවෙලා ඉන්නවා.
-
-තානාධිපති කාර්යාලය නිලධාරීන් හිතාගෙන ඉන්නේ අපි දෙන්නා ඉතාලියේ නවතින්නම යනවා කියලා. මේ මරණය සැක නිසා ගිහිල්ලා පශ්චාත් මරණ පරීක්ෂණ කටයුතු කරලා  ඒ රටේම අවසන් කටයුතු කරන්න තමයි මම හිතාගෙන ඉන්නේ, ඉතාලියේ මල්ශාලාවේ මිනිය තැන්පත් කරන් ඉන්නවට දවසකට මම රුපියල් 18,000ක් ගෙවන්න ඕනේ.
-
-එහෙම එකතු වෙලා දැන් ලක්ෂ හැටකටත් වැඩි මුදලක් මට ගෙවන්න වෙලා, ඉතින් තවත් ඒ රටේ මල්ශාලාවේ මිනිය තැන්පත් කරගෙන ඉන්නාවාට දවසකට  රුපි‍යල් 18.000 ගානේ ගෙවන්න වෙනවා, එච්චර අපිට සල්ලි නැහැ. ඉතින් මට මහත්තයාගේ අවසන් කටයුතු කරන්න මටයි, පුතාටයි, ඉතාලියට යන්න අවසරය ලබාදෙන්න අවස්ථාව සලසා දෙන්න කියලා අතිගරු ජනාධිපතිතුමාගෙනුයි, විදේශ කටයුතු ඇමතිතුමාගෙනුයි, අදාළ බලධාරින්ගෙනුයි ඉල්ලීමක් කරනවා"
-
-### Tri-forces personnel mobilized to support hospital operations amid island-wide strike
-
-*2024-01-16 09:16:00 - [adaderanalk](https://www.adaderana.lk/news/96433/tri-forces-personnel-mobilized-to-support-hospital-operations-amid-island-wide-strike)*
-
-The Ministry of Defence says that tri-forces personnel have been mobilized to support hospital operations amid the island-wide strike launched by the health sector employees.
-
-It said that tri-forces personnel were deployed to various government hospitals across the island following a request from the Ministry of Health.
-
-Meanwhile the Sri Lanka Army (SLA) says troops have been deployed at various government hospitals across the country to ensure the uninterrupted delivery of essential health services today (16 Jan), under the guidance of the Commander of the Army Lieutenant General Vikum Liyanage.
-
-The affected hospitals include prominent health institutions such as Colombo National Hospital, Kandy General Hospital, Kalubowila Teaching Hospital, Peradeniya Teaching Hospital, Matale District Hospital, Kurunegala Teaching Hospital and the Government Hospitals in Monarahala, Nuwara Eliya, Badulla, Hambanthota, Balangoda, Thissamahara, Debarawewa, Balangoda, Eheliyagoda, Diyathalawa, Matara, Avissawella and several others.
-
-The deployment is aimed at maintaining the smooth operation of healthcare facilities during this critical time, the Sri Lanka Army said.
-
-Under the supervision of the respective Security Forces Commanders, Army personnel are actively stationed at these hospitals to lend support and ensure that healthcare services continue without disruptions. Troops also remain on standby for additional troop deployment in case of emergencies, it said.
-
-Around 72 trade unions in the healthcare service excluding doctors have launched a 24-hour token strike from 6.30 a.m. today (16) while the trade unions have decided to carry out only essential duties.
-
-The trade unions are launching this action demanding that the allowance increase of Rs. 35,000 provided to the doctors be granted to them as well.
-
-However, it is said that this morning, Health Minister Dr. Ramesh Pathirana has also invited the striking trade unions to a discussion on the matter.
-
-Meanwhile Acting Finance Minister Shehan Semasinghe says that he is to meet Health Minister Dr. Ramesh Pathirana later this evening to discuss the concerns of the health sector and find solutions.
-
-### අයිස් සමග කොස්තාපල් අල්ලයි
-
-*2024-01-16 09:09:52 - [adalk](https://www.ada.lk/breaking_news/අයිස්-සමග-කොස්තාපල්-අල්ලයි/11-407570)*
-
-මිහි ජය සෙවන පොලිස් ස්ථානයට අනුයුක්ත කොස්තාපල්වරයකු අයිස් මත්ද්‍රව්‍ය  සමග අත්අඩංගුවට ගත් බව කොළඹ උතුර කොට්ඨාස අපරාධ විමර්ශන අංශය කියයි.
-
-සැකකරු සන්තකයේ තිබී  අයිස් මත්ද්‍රව්‍ය  මිලිග්‍රෑම් 2140 ක් පොලිස් භාරයට ගෙන ඇත.
-
-යුක්තිය මෙහෙයුමට සමගාමීව කොළඹ උතුරු කොට්ඨාස අපරාධ විමර්ශන අංශයේ නිලධාරීන්ට ලද තොරතුරක් අනුව සැකකරු මෝදර පොලිස් වසමේදී අත්අඩංගුවට ගෙන ඇත.
-
-### Govt. to discuss concerns of health sector and find solutions
-
-*2024-01-16 09:00:00 - [adaderanalk](https://www.adaderana.lk/news/96432/govt-to-discuss-concerns-of-health-sector-and-find-solutions)*
-
-Acting Finance Minister Shehan Semasinghe says that he is to meet Health Minister Dr. Ramesh Pathirana later this evening to discuss the concerns of the health sector and find solutions.
-
-Around 72 trade unions in the health service excluding doctors have launched a 24-hour token strike from 6.30 a.m. today (16).
-
-The trade unions are launching this action demanding that the allowance increase of Rs. 35,000 provided to the doctors be given to them as well while the health unions have also decided to carry out only essential duties.
-
-However, it is said that this morning, Health Minister Ramesh Pathirana has also invited the striking trade unions to a discussion on the matter.
-
-### Operation ‘Yukthiya’: 877 more drug suspects arrested
-
-*2024-01-16 08:58:00 - [adaderanalk](https://www.adaderana.lk/news/96431/operation-yukthiya-877-more-drug-suspects-arrested)*
-
-A total of 877 suspects have been arrested during a 24-hour period ending at 12.30 am today (16 Jan.), as part of the island-wide anti-drug operation ‘Yukthiya’, says the Ministry of Public Security.
-
-It said that 475grams of heroin, 501 grams of crystal methamphetamine (Ice), 07kilograms and 900grams of cannabis, 3,604 cannabis plants and 126 narcotic pills were taken into custody during this period.
-
-Further investigations are currently underway to detain four of the 877 suspects arrested, police reported, adding that another 14 arrestees have been sent to rehabilitation centres.
-
-### කන්දකාඩු: දිගින් දිගට ම රැඳවියන් පලා යන්නේ  පුනරුත්ථාපන ක්‍රමවේදය අසාර්ථක නිසා ද?
-
-*2024-01-16 08:55:10 - [bbccomsinhala](https://www.bbc.com/sinhala/articles/cnlv4drn47jo)*
-
-කන්දකාඩු: දිගින් දිගට ම රැඳවියන් පලා යන්නේ  පුනරුත්ථාපන ක්‍රමවේදය අසාර්ථක නිසා ද?
-
-ශ්‍රී ලංකාව තුළ මත්ද්‍රව්‍යවලට ඇබ්බැහි වූ පුද්ගලයින් පුනරුත්ථාපන ක්‍රියාවලිය සාර්ථකව සිදුවනවා ද යන්න සම්බන්ධයෙන් මේ වන විට සමාජය තුළ දැඩි කතාබහක් මතුව තිබේ.
-
-ඒ, එවැනි පිරිස් පුනරුත්ථාපනය සඳහා "වැඩි වශයෙන්" යොමු කෙරෙන පොලොන්නරුව, වැලිකන්ද, කන්දකාඩු ප්‍රතිකාර හා පුනරුත්ථාපන මධ්‍යස්ථානය තුළ ගෙවුණු වසර කිහිපයේදී වාර්තා වුණු සිදුවීම් හේතුවෙනි.
-
-එහි ආසන්නතම සිදුවීම වාර්තා වූයේ, ඉකුත් ජනවාරි 12 වන දින ය. එදින ආහාර ගැටලුවක් මුල් කරගනිමින් ඇතිවූ ගැටුම්කාරී තත්ත්වයක් හමුවේ එම මධ්‍යස්ථානයේ රඳවා සිටි රැඳවියන් අතුරින් 20කට අධික සංඛ්‍යාවක් පලා ගොස් තිබිණි.
-
-ඉකුත් වසරේ, එනම් 2023 වසරේ දෙසැම්බර් 12 වන දා ද එවැනි ම ආකාරයේ සිදුවීමක් වාර්තා වුණු අතර එහිදී මධ්‍යස්ථානයෙන් රැඳවියන් 100කට අධික ගණනක් පලා ගියහ.
-
-2022 වසරේ ඇති වූ සිදුවීමකින් කන්දකාඩු කඳවුරේ රඳවා සිටි රැඳවියෙකු මියගොස් තිබුණු අතර ඒ සම්බන්ධයෙන් එහි සහය උපදේශකවරුන් ලෙස කටයුතු කළ ගුවන් හමුදා සැරයන්වරුන් දෙදෙනෙකු, යුද්ධ හමුදා මාණ්ඩලික සැරයන්වරයෙකු හා යුද්ධ හමුදා සැරයන්වරයෙකු රක්ෂිත බන්ධනාරගත කෙරිණි.
-
-කන්දකාඩු රැඳවියාගේ මරණය සම්බන්ධයෙන් ආරක්ෂක අංශ සාමාජිකයින් 04 දෙනෙකු රක්ෂිත බන්ධනාගාරයට
-
-අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ විජයදාස රාජපක්ෂ බීබීසී සිංහල සමග අදහස් දක්වමින් සඳහන් කළේ, මෙවැනි ගැටලුකාරී තත්ත්ව වැඩි වශයෙන් වාර්තා වී ඇත්තේ, කන්දකාඩු ප්‍රතිකාර හා පුනරුත්ථාපන මධ්‍යස්ථානය ආශ්‍රිතව බව ය.
-
-ශ්‍රී ලංකාව තුළ මත්ද්‍රව්‍යවලට ඇබ්බැහිවූවන් පුනරුත්ථාපනය කිරීම සඳහා අන්තරායකර ඖෂධ පාලක ජාතික මණ්ඩලය, පුනරුත්ථාපන කොමසාරිස් ජනරාල් කාර්යාංශය සහ බන්ධනාගාර දෙපාර්තමේන්තුව යටතේ ක්‍රියාත්මක මධ්‍යස්ථාන මෙන් ම, පෞද්ගලික අංශය මගින් පවත්වාගෙන යන පෞද්ගලික මත්ද්‍රව්‍ය ප්‍රතිකාර හා පුනරුත්ථාපන මධ්‍යස්ථාන ද පවතී.
-
-කෙසේ වෙතත්, ඒ අතරින් කන්දකාඩු වැනි ඇතැම් මධ්‍යස්ථාන හමුදා පරිපාලනයක් යටතේ ක්‍රියාත්මක වීම පිළිබඳවත්, එය කොතෙක් දුරට සාර්ථක ද යන්න පිළිබඳවත්, කන්දකාඩු සිදුවීම් හා සැසඳීමේදී පුනරුත්ථාපන විෂය පිළිබඳ පුළුල් දැනුමක් ඇති පිරිස් සහ සමාජය ප්‍රශ්න කරති.
-
-දිගින් දිගට ම රැඳවියන් පලා යන්නේ පවතින ක්‍රමයේ ඇති අසාර්ථකත්වය නිසා ද?
-
-කන්දකාඩු ප්‍රතිකාර හා පුනරුත්ථාපන මධ්‍යස්ථානය ආරම්භයේ සිට ම ඒ තුළ හමුදාවේ මැදිහත්වීම ඉහළ ලෙස පැවති බව පේරාදෙණිය විශ්වවිද්‍යාලයේ වෘත්තීය උපදේශක සුචින්තන දසුන් පවසයි. නමුත්, එහි මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් සඳහා ප්‍රමිතිගත ප්‍රතිකාරයක් නොලැබෙන්නේ යැයි ඔහු බීබීසී සිංහල හා පැවසීය.
-
-සුචින්තන දසුන් මානසික සෞඛ්‍ය හා ඇබ්බැහිවීම් පිළිබඳ උපදේශකවරයෙකු මෙන් ම, එක්සත් ජාතීන්ගේ සංවිධානය සහ ලෝක සෞඛ්‍ය සංවිධානය වැනි ජාත්‍යන්තර ආයතන සමග කටයුතු කරන Colombo Plan Drug Advisory Programහි මත්ද්‍රව්‍ය ඉල්ලුම අවම කිරීම පිළිබඳ ජාත්‍යන්තර පුහුණුකරුවෙකු වන, මත්ද්‍රව්‍ය ප්‍රතිකාර හා පුනරුත්ථාපන ක්ෂේත්‍රය තුළ වසර 10ක පළපුරුද්දක් ඇති මනෝවිද්‍යාව පිළිබඳව උපාධිධාරියෙකි.
-
-"මත්ද්‍රව්‍යවලට ඇබ්බැහි වුණු කෙනෙකුට අවශ්‍ය කරන, අපි පිළිගන්න ප්‍රමිතිගත ප්‍රතිකාරය එතනින් ඇත්තට ම සිද්ධ වෙන්නේ නැහැ. උදාහරණයක් විදිහට මත්ද්‍රව්‍ය ගැටලු කියලා උසාවිවලට ආවට පස්සේ, ඒ මිනිස්සුන්ව ඊළඟට පුනරුත්ථාපනයට දාන්න ඕනේ නේ. නිකම් සිරගත කළාට ඒ මනුස්සයාගේ ප්‍රශ්නයට පිළිතුරක් ලැබෙන්නේ නැහැනේ," ඔහු පැවසීය.
-
-සුචින්තන පෙන්වා දුන්නේ, හොඳින් දත්ත විශ්ලේෂණය කර බලන්නේ නම්, මේ අවස්ථාව වන විට ද වැඩිවශයෙන් සිරගත වන්නේ, මත්ද්‍රව්‍ය වැරදි හා සම්බන්ධ පුද්ගලයින් බව ය.
-
-එලෙස විශාල ගණනක් පුනරුත්ථාපනය කිරීම සඳහා පහසුකම් සැලසීමට කන්දකාඩු වැනි මධ්‍යස්ථාන ස්ථාපනය කර ඇතැයි ඔහු සඳහන් කළේ ය.
-
-"එතන ඉන්න උපදේශකවරු පුහුණු වෙනවා. හැබැයි මේ මොහොතේ ඉල්ලුම වැඩියි. ප්‍රතිකාරයක් කියන එක එහෙම ගාල් කරලා කරන්න බැහැ. නමුත් ඒ වගේ පහසුකම් හැදෙන්නේ නැහැ, සල්ලි නැති නිසා හරි මොනවා හරි ප්‍රශ්නයක් නිසා. ගොඩක් වෙලාවට, ඒ අයට කරන්න පුළුවන් දෙයක් කරනවා. ඒ අය දවස ගාණේ වැඩසටහන් කරනවා. හැබැයි ප්‍රශ්නේ තියෙන්නේ, ඒකෙන් අපි කියන, ප්‍රතිකාරයට අවශ්‍ය කරන හොඳ වැඩසටහනක් ක්‍රියාත්මක කරන්න අපහසුයි ඒ වගේ තත්ත්වයක් යටතේ."
-
-ඉකුත් වසරේ දෙසැම්බර් මස මෙන් ම, මෙම වසරේ පලා ගිය කන්දකාඩු රැඳවියන් යළි බලධාරීන් භාරයට ගත් අවස්ථාවේ දර්ශන විවිධ මාධ්‍ය ඔස්සේ විකාශය කෙරිණි.
-
-එම දර්ශනවල ඇතැම් රැඳවියන් තමන් මධ්‍යස්ථානය තුළදී අත්විඳි කටුක අත්දැකීම් පිළිබඳව ප්‍රකාශ කරන අයුරු සටහන් වී තිබිණි.
-
-"හෑන්ඩ්කෆ් දාලා තියෙනවා සතියක් විතර ගස්වලට දාලා, පොඩි පොඩි ප්‍රශ්නවලට," එක් රැඳවියෙක් පැවසීය. පලා ගිය රැඳවියන් නැවත භාරයට ගැනීමට පොලිස් නිලධාරීන්ට මෙන් ම යුද්ධ හමුදා නිලධාරීන්ට ද දැඩි පරිශ්‍රමයක් දැරීමට සිදුවිය.
-
-කන්දකාඩු කඳවුර වැනි මධ්‍යස්ථාන වෙත පුහුණුව ලත් මිලිටරි නොවන උපදේශකවරු බඳවා ගත්ත ද පරිපාලනය සහ ආරක්ෂාව සැපයීම වැනි කාරණාවලදී හමුදා මැදිහත්වීමක් සිදුවීම හේතුවෙන් එහි කටයුතු හමුදාමය ස්වරූපයකින් බැහැරව සිදු නොවන්නේ යැයි පැවසිය නොහැකි බව සුචින්තන සඳහන් කළේ ය.
-
-"මම දන්නවා උපදේශකවරු ඉන්නවා. මේ මෑතකත් බඳවා ගත්තා. මිලිටරි නොවන. හැබැයි පරිපාලනය සහ ආරක්ෂාව කියන කාරණාව ඇතුළේ, පරිපාලනය මෙතනින් වෙනවා කියන්නේ ම, අපි දන්නවා ස්වරූපයක් යෙදෙනවා කියන එක."
-
-ඔහු පෙන්වා දුන්නේ, මත්ද්‍රව්‍ය සඳහා ඇබ්බැහි වූවන් සඳහා ප්‍රතිකාර කිරීමේදී එම ක්‍රියාවලිය සෞඛ්‍ය අමාත්‍යංශය යටතේ සිදු විය යුතු බව ය. එය ලොව පිළිගත් සම්මතය බව ඔහු පෙන්වා දුන්නේ ය.
-
-"ඒක ආරක්ෂක අමාත්‍යංශය යටතට යන්න බැහැ. මත්ද්‍රව්‍ය සහ අපරාධ සම්බන්ධයෙන් පිහිටුවා ඇති එක්සත් ජාතීන්ගේ කාර්යාලයේ (UNODC) සම්මතයන් තමයි, ආරක්ෂක අමාත්‍යංශය යටතට ගන්න බැහැ. ආරක්ෂක අමාත්‍යංශය යටතේ තියෙනකොට වෙන්නේ වෙන වෙන දේවල්. අරමුණ සාක්ෂාත් වෙන්නේ නැහැ. මත්ද්‍රව්‍යවලට ඇබ්බැහිවීම කියන එක සෞඛ්‍ය සම්බන්ධ කාරණාවක්. ආරක්ෂක අමාත්‍යංශයට ඕක ගිය ගමන්, එයාලා දේවල් බලන විදිහ අපි දන්නවනේ වෙනස් කියලා. එතකොට මේක අපරාධයක්, දඬුවමක් ලැබෙන්න ඕනේ කියන තැනින් තමයි ගොඩක් වෙලාවට අල්ල ගන්නේ," සුචින්තන පැහැදිලි කළේ ය.
-
-කෙසේ වෙතත්, එම අදහස පිළිබඳව අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ විජයදාස රාජපක්ෂගෙන් බීබීසී සිංහල කළ විමසීමේදී ඔහු සඳහන් කළේ, හමුදා නිලධාරීන් යොදාගෙන පුනරුත්ථාපන ක්‍රියාවලිය සිදු නොවන බව ය.
-
-"ආරක්ෂාවට තමයි වැඩි වශයෙන් හමුදාවේ අය ඉන්නේ. පුනරුත්ථාපානය කරන්නේ මානසික වෛද්‍යවරු, මනෝවිද්‍යාව පිළිබඳව ඉගෙන ගත්ත පුනරුත්ථාපනය සඳහා විශේෂ සුදුසුකම් තියෙන අය ලව්වා තමයි කරන්නේ ඒක. හමුදාව කරන්නේ ආරක්ෂාව සහ පරිපාලනය විතරයි."
-
-කන්දකාඩු ප්‍රතිකාර හා පුනරුත්ථාපන මධ්‍යස්ථානය තුළ ක්‍රියාත්මක පුනරුත්ථාපන ක්‍රියාවලිය මෙන් සාර්ථක පුනරුත්ථාපන ක්‍රියාවලියක් ශ්‍රී ලංකාවේ වෙනත් කිසිදු ස්ථානයක සිදු නොවන්නේ යැයි තමන් "වගකීමෙන්" ප්‍රකාශ කරන බව පුනරුත්ථාපන කොමසාරිස් ජනරාල් මේජර් ජෙනරාල් දර්ශන හෙට්ටිආරච්චි බීබීසී සිංහල සේවය සමග අදහස් දක්වමින් පැවසීය.
-
-"මම ඉතාමත් වගකීමෙන් කියනවා මේ කරන ක්‍රියාවලිය ලංකාවේ කිසි ම තැනක මේ තරම් හොඳ, සාර්ථක පුනරුත්ථාපන ක්‍රියාවලියක් කෙරෙන්නේ නැහැ. මේකෙන් අපි ඉතාමත් විනයගරුක, යහපත් පුරවැසියෝ බිහි කරන්න, සමාජයට වැඩදායී පුරවැසියෝ කරන්න, රටේ ආර්ථිකයට දායකත්වයක් ලබා දෙන්න හොඳ පුරවැසියෝ කරන්න පුළුවන් වැඩපිළිවෙළක් මෙතන කරන්නේ."
-
-ඔහු පෙන්වා දුන්නේ, පුනරුත්ථාපන කොමසාරිස් ජනරාල් කාර්යාංශය හරහා සිදුවන්නේ ජාතික අවශ්‍යතාවක් මෙන් ම සමාජ මෙහෙවරක් බව ය.
-
-කන්දකාඩු ප්‍රතිකාර හා පුනරුත්ථාපන මධ්‍යස්ථානය තුළ ප්‍රතිකාර ලබන්නේ, මත්ද්‍රව්‍යවලට දීර්ඝ කාලීනව ඇබ්බැහිව සිට පොලිස් අත්අඩංගුවට පත් වී පසුව අධිකරණ නියෝගයක් මත පුනරුත්ථාපනය සඳහා යොමු වුණු පුද්ගලයින් මිස ස්වේච්ඡාවෙන් ඒ සඳහා යොමු වූ පුද්ගලයින් නොවන බව පුනරුත්ථාපන කොමසාරිස් ජනරාල්වරයා පෙන්වා දුන්නේ ය.
-
-"ස්ත්‍රී දූෂණ, ළමා අපචාර, මංකොල්ලකෑම්, විවිධ සමාජ අපචාර ක්‍රියාවලින් 75%කට වඩා සම්බන්ධ වෙලා ඉන්නේ, මත්ද්‍රව්‍යවලට ඇබ්බැහි වුණු අය. ඒ කොටසක් තමයි මෙතනට ගෙනැල්ලා දාලා තියෙන්නේ. ඒ අය මෙතනට එන්නේ කැමැත්තෙන් නෙමෙයි. මේ අය ආපු දවසේ ඉඳලා මෙතනින් යන්න උත්සහ කරනවා.
-
-මොක ද දීර්ඝ කාලීනව මත්ද්‍රව්‍ය ගත්ත කෙනෙකුට මෙතනට ආවම මත්ද්‍රව්‍ය නැති වුණා ම ඒ අය ලොකු පීඩනයක ඉන්නේ. ඒක පුද්ගලයාගේ වරදක් නෙමෙයි. පුද්ගලයාගේ ශරීරය අනුගත වෙලා තියෙන්නේ මත්ද්‍රව්‍ය එක්ක ජීවත් වෙන්න. මත්ද්‍රව්‍ය නැති වුණා ම ඒ අයට ඉන්න අමාරුයි. ඒක නිසා ඒ අය මත්ද්‍රව්‍ය හොයාගෙන එළියට පනින්න බලනවා."
-
-ඔහු පෙන්වා දුන්නේ, වයස අවුරුදු 22ත් 36ත් අතර තරුණ පුද්ගලයින් මෙහි රඳවා සිටින බව ත් ඔවුන් පුනරුත්ථාපනය කිරීමේ ක්‍රියාවලිය "දැඩි සංයමයකින්" යුතුව සිදු කළ යුතු බව ත් ය. එමෙන් ම, එම ක්‍රියාවලිය හා සම්බන්ධ වී සිටින පිරිස් ඉතාමත් අභියෝගාත්මක, සංකීර්ණ සහ සංවේදී වැඩපිළිවෙළකට සම්බන්ධ වී සිටින බවත් ඔහු සඳහන් කළේ ය.
-
-"විශේෂයෙන් ම මම කියන්න ඕනේ, යුද්ධ හමුදාව පරිපාලන කටයුතු කළාට, ආරක්ෂාව දුන්නට කිසි වෙලාවක ඒ අයට අඩත්තේට්ටම්, එක් එක් අවස්ථාවල සිද්ධ වෙලා තිබුණා අතීතයේ, දැන් ඒ වගේ කිසි දෙයක් වෙන්නේ නැහැ."
-
-මේජර් ජෙනරාල් දර්ශන හෙට්ටිආරච්චි සඳහන් කළේ, මෙම මධ්‍යස්ථානය "හිරගෙදර වගේ කූඩුවල දාලා, මාංචු දාලා" දඬුවම් කරන ස්ථානයක් නොවන බව ය.
-
-උදෑසන අවදි වූ අවස්ථාවේදී සිට දවස අවසානය දක්වා විවිධ ක්‍රියාකාරකම් සඳහා එහි සිටින රැඳවියන් සම්බන්ධ කරන බව ඔහු පැවසීය.
-
-"මේ දරුවෝ අසනීප දරුවෝ. කාගේ හරි ස්වාමි පුරුෂයෙක්. කාගේ හරි අයියා කෙනෙක්, මල්ලි කෙනෙක්. රටේ අනාගතය භාර ගන්න ඉන්න තරුණ ජවය මේ වැරදි මාර්ගයට ගිහිල්ලා ඉන්නේ. මේ මිනිස්සුන්ට ගහලා, බැනලා පුනරුත්ථාපනයක් කරන්න බෑ නේ."
-
-මත්ද්‍රව්‍ය යළි භාවිත කිරීමේ උවමනාවෙන් මධ්‍යස්ථානවලින් පැන යන රැඳවියන්ගේ ප්‍රකාශ පමණක් පදනම් කරගෙන "අසත්‍ය චෝදනා" කිරීමෙන් පුනරුත්ථාපන ක්‍රියාවලිය අඩපණ වන බව ඔහු අවධාරණය කළේ ය.
-
-"පැනලා යන අයගෙන්, පැනලා යන්නේ මත්ද්‍රව්‍ය නැතිකමට ඉන්න බැරුව. ඒ මිනිස්සුන්ට කියන්න දාහක් දේවල් තියෙනවා. 500ක් ඉන්න තැනින් 200ක් පැනලා ගියාට 300ක් හැමවෙලේ ම ඇතුළේ ඉන්නවා. පොඩි කොටසක් තමයි එළියට පනින්නේ. ගොඩක් වෙලාවට මාධ්‍ය හරහා ප්‍රචාරය දෙන්නේ ඒ අය කියන දේවල්වලට."
-
-කන්දකාඩු ප්‍රතිකාර හා පුනරුත්ථාපන මධ්‍යස්ථානයට අමතරව යුද්ධ හමුදා පරිපාලනය යටතේ ක්‍රියාත්මක තවත් පුනරුත්ථාපන මධ්‍යස්ථාන දෙකක් පවතින බව ඔහු වැඩිදුරටත් පැවසීය.
-
-ඉන් එකක් පොලොන්නරු දිස්ත්‍රික්කයේ ම සේනපුර ප්‍රදේශයේ සහ වවුනියාව, පූන්ටෝට්ටම් ප්‍රදේශයේ පිහිටා තිබේ.
-
-මත්ද්‍රව්‍ය හා අපරාධ පිළිබඳ එක්සත් ජාතීන්ගේ කාර්යාලය (UNODC) මොක ද කියන්නේ?
-
-ලෝක සෞඛ්‍ය සංවිධානය සහ මත්ද්‍රව්‍ය හා අපරාධ පිළිබඳ එක්සත් ජාතීන්ගේ කාර්යාලය එක්ව සකසා, 2020 වසරේ මාර්තු 31 වන දා ප්‍රකාශයට පත් කරනු ලැබ ඇති 'International Standards for the Treatment of Drug Use Disordersහි' මෙසේ සඳහන් වෙයි.
-
-"ඇතැම් රටවල මත්ද්‍රව්‍ය භාවිතයෙන් ඇතිවන ආබාධ තවමත් මූලික වශයෙන් මහජන ආරක්ෂාව සහ අපරාධ සම්බන්ධ ගැටලුවක් ලෙස සලකනු ලැබේ.
-
-අභ්‍යන්තර කටයුතු, අධිකරණ හෝ ආරක්ෂක අමාත්‍යංශවල අදාළ ආයතන මත්ද්‍රව්‍ය භාවිතයෙන් ඇතිවන ආබාධ සඳහා සේවා සැපයීම හසුරුවන අතර, ඒවා බොහෝ විට සෞඛ්‍ය අමාත්‍යංශය හෝ වෙනත් මහජන සෞඛ්‍ය ආයතනවල අධීක්‍ෂණය හෝ මැදිහත්වීමකින් තොරව සිදු වේ.
-
-නීතිය ක්‍රියාත්මක කිරීමේ උපාය මාර්ග සහ එවැනි ක්‍රම පමණක් භාවිත කිරීම මත්ද්‍රව්‍ය සහ අනෙකුත් ද්‍රව්‍ය භාවිතයෙන් ඇති වන ආබාධ සඳහා ඵලදායී පිළිතුරක් හෝ මහජන මුදල් වියදම් කිරීමේ ලාභදායී ක්‍රමයක් නොවේ.
-
-මත්ද්‍රව්‍ය මත යැපීම බහුවිධ සෞඛ්‍ය ආබාධයක් ලෙස, වෛද්‍ය සහ මනෝ සමාජයීය ප්‍රවේශ භාවිතයෙන් ප්‍රතිකාර කළ හැකි බව පිළිගන්නා, ජෛව මනෝ සමාජයීය ප්‍රතිකාර ක්‍රමෝපායන් මත්ද්‍රව්‍ය ආශ්‍රිත හානි අඩු කිරීමට උපකාර වේ."
-
-මත්ද්‍රව්‍ය ඉල්ලුම අවම කිරීම පිළිබඳ ජාත්‍යන්තර පුහුණුකරුවෙකු වන සුචින්තන දසුන් පෙන්වා දුන්නේ, ඇබ්බැහි වීමක් යනු, දිගු කලක් පවතින, නැවත නැවතත් ඇතිවන මොළය සම්බන්ධ රෝගී තත්ත්වයක් බව ය.
-
-"ඇබ්බැහි වීමක ස්වභාවය, කෙනෙක් හොඳ ම ප්‍රතිකාර අරගෙන ගියත් යම් කිසි කාලයක් යනකොට ආයෙත් මතුවෙන එක. දියවැඩියාව වගේ ම, නිට්ටාවට සුව කරන්න බැහැ. හැබැයි කළමනාකරණය කරලා සාමාන්‍ය ජීවිතයක් ගත කරන්න පුළුවන්. ඒ වගේ ම තමයි ඇබ්බැහි වීමකුත්."
-
-කෙසේ වෙතත්, ශ්‍රී ලංකාව තුළ ප්‍රතිමිතිගත ප්‍රතිකාරයක් නොලැබීම හේතුවෙන් ප්‍රතිකාර ලැබූ අයෙකු පවා නැවත පෙර පැවති තත්ත්වයට පත් විය හැකි බව ඔහු පැවසීය.
-
-සුචින්තන සඳහන් කළේ, මත්ද්‍රව්‍ය ඇබ්බැහි වීමකින් මිදීමට මූලික අවස්ථාවේදී ඖෂධමය ප්‍රතිකාර අවශ්‍ය බව ය.
-
-"හැබැයි එතනින් එහාට එළියට ගියාට පස්සේ ඒ කෙනාට මේකෙන් මිදෙන්න මනෝවිද්‍යාත්මක සහය අවශ්‍යයි. ඖෂධමය ප්‍රතිකාර අපිට මූලික අවස්ථාවේදී අවශ්‍ය වෙනවා. ඊට පස්සේ මනෝවිද්‍යාත්මක මැදිහත් වීම. ඒ කියන්නේ උපදේශනය, තෙරපි වගේ දේවල්."
-
-ඉන් පසුව වැඩි වශයෙන් අවධානය යොමු කළ යුත්තේ, 'පවුල' නමැති සංරචකය කෙරෙහි බව ඔහු සඳහන් කළේ ය.
-
-"මේකෙන් අපිට ගැලවෙන්න බැහැ පවුලේ සහයෝගය නැත්නම්. අම්මා තාත්තා හරි බිරිඳ විතරක් ම නෙමෙයි. එයා ආශ්‍රය කරන ඕනෙ ම කෙනෙක් වෙන්න පුළුවන්. එයා පවුල කියලා සලකන යාළුවෝ වෙන්න පුළුවන්. ඕනෙ ම කෙනෙක්.  සමීපතමයෙක් කියන්නේ. ඒ සහයෝගය නැත්නම් මේකෙන් ගැලවෙනවා කියන එක කොහොමත් ම අමාරුයි.
-
-උදාහරණයක් විදිහට ලෝකේ තියෙන හොඳ ම ප්‍රතිකාරය අරගෙන ගිහින් ආපහු යන්නේ තමන්ගේ කල්ලියට නම්, එයාට ලොකු පීඩනයක් එනවා ආපහු මත්ද්‍රව්‍ය පාවිච්චි කරන්න. එතකොට එක නතර කර ගන්න එයාට අර කිව්ව පවුලේ සහයෝගය සෑහෙන්න ඕනේ," සුචින්තන අවධාරණය කළේ ය.
-
-ඔහු තවදුරටත් පෙන්වා දුන්නේ, ශ්‍රී ලංකාව තුළ මත්ද්‍රව්‍යවලට ඇබ්බැහි වූ පිරිස් සඳහා පහසුකම් සැලසීමට තරම් ප්‍රමාණවත් පහසුකම් නොමැති බව ය.
-
-දැනට ශ්‍රී ලංකාව තුළ ඇති පුනරුත්ථාපන ක්‍රියාවලිය "ආරක්ෂිතව" සිදුවන්නේ, අන්තරායකර ඖෂධ පාලක ජාතික මණ්ඩලය යටතේ ක්‍රියාත්මක මධ්‍යස්ථාන තුළ බව තම විශ්වාසය යැයි ඔහු සඳහන් කළේ ය.
-
-එම මධ්‍යස්ථාන තුළ පුද්ගලයින්ට ආරක්ෂාව සැලසීම මෙන් ම, මානුෂීය ලෙස සලකන බව සුචින්තන පැවසීය.
-
-එසේ වුව ද, ලබා දෙන ප්‍රතිකාරවල ප්‍රමිතිය සම්බන්ධයෙන් වැඩිදියුණු විය යුතු පැති ඇති බව ඔහු පෙන්වා දුන්නේ ය.
-
-ඔහු සඳහන් කළේ, මත්ද්‍රව්‍ය නිවාරණය සහ ප්‍රතිකාරය සම්බන්ධයෙන් මෙරට ඇති කේන්ද්‍රස්ථානය එම ආයතනය බව ය.
-
-පෞද්ගලික අංශය මගින් පවත්වාගෙන යන පෞද්ගලික මත්ද්‍රව්‍ය ප්‍රතිකාර හා පුනරුත්ථාපන මධ්‍යස්ථානවල ගුණාත්මකභාවය සහ ඒවා අධීක්ෂණය සම්බන්ධයෙන් ගැටලු පවතින බව සුචින්තන වැඩිදුරටත් පැවසීය.
-
-අධිකරණ, බන්ධනාගාර කටයුතු හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ විජයදාස රාජපක්ෂ බීබීසී සිංහල හා පැවසුවේ, නුදුරේදී ම මෙරට පුනරුත්ථාපන ක්‍රියාවලිය තුළ "විශාල" ප්‍රතිසංස්කරණ කිහිපයක් සිදු කරන බව ය.
-
-"ලොකු ප්‍රතිසංස්කරණ ටිකක් හෙට අනිද්දා අපි කරනවා," යැයි ඔහු සඳහන් කළේ ය.
-
-මේ දක්වා ගැටලුකාරී තත්ත්ව වාර්තා වේ ඇත්තේ, කන්දකාඩු ප්‍රතිකාර හා පුනරුත්ථාපන මධ්‍යස්ථානයෙන් පමණක් බව ඔහු පැවසීය.
-
-"ඔතනත් ඉතින් අහඹුවක් මේ වෙලා තියෙන්නේ. මූලික වශයෙන්. අර යුක්තිය මෙහෙයුමෙන් ගෙනිහිල්ලා විශාල තොගයක් දාලා තියෙනවා. ඒ මිනිස්සු ටිකක් ප්‍රචණ්ඩකාරී අය. ඒගොල්ලෝ පුහුණු කරන්න වෙලාවක් වුණේ නැහැ. ආපු ගමන් ඒ මිනිස්සු. මේ කලබලේ ඇති කරලා තියෙන්නේ දෙගොල්ලො අතරේ රණ්ඩුවකින්."
-
-කන්දකාඩු ප්‍රතිකාර හා පුනරුත්ථාපන මධ්‍යස්ථානයේ සිදුවීම සම්බන්ධයෙන් සොයා බැලීම සඳහා විශ්‍රාමලත් ශ්‍රේෂ්ඨාධිකරණ විනිසුරු හෙක්ටර් එස්. යාපාගේ සභාපතිත්වයෙන් යුක්ත ත්‍රිපුද්ගල කමිටුවක් පත් කළ බව ඔහු පැවසීය.
-
-අධිකරණ අමාත්‍යංශයේ අතිරේක ලේකම් පියුමන්ති පීරිස් සහ ආරක්ෂක අමාත්‍යංශයේ අතිරේක ලේකම් සමන් දිසානායක යන නිලධාරීන් එම කමිටුවේ සෙසු සාමාජිකයින් ලෙස පත් කළ බව අමාත්‍යවරයා වැඩිදුරටත් සඳහන් කළේ ය.
-
-කන්දකාඩු මධ්‍යස්ථානයේ කළමනාකාරීත්වය වෙනස් කිරීම සම්බන්ධයෙන් ද අවධානය යොමු වී ඇතැයි අමාත්‍යවරයා මීට පෙර සඳහන් කර තිබිණි.
-
-ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
-
-ලොව පුරා පලස්තීන සරණාගතයින් කීදෙනෙකු වාසය කරනවා ද? පලස්තීන ඩයස්පෝරාව කොතරම් විශාල ද?
-
-### 24 දා පාර්ලිමේන්තුවේ වාරාවසාන කරයි
-
-*2024-01-16 08:01:27 - [adalk](https://www.ada.lk/breaking_news/24-දා-පාර්ලිමේන්තුවේ-වාරාවසාන-කරයි/11-407569)*
-
-‍09 වන පාර්ලිමේන්තුවේ සිව්වන සභාවාරය වාර අවසාන කිරීම මෙම මස 24 වනදා සිදුකිරීමට නියමිත බව වාර්තා වෙයි. ඉන් අනතුරුව ජනපතිවරයා විසින් පෙබරවාරි 07 දා යළිත් පාර්ලිමේන්තුව උත්සවාකාරයෙන් විවෘත කිරීමට නියමිතව තිබේ.
-
-මේ මාසයේදී පාර්ලිමේන්තුව එළැඹෙන 23 හා 24දා රැස්වීමට නියමිතව තිබේ. 24 වනදා මධ්‍යම රාත්‍රියේ දී පාර්ලිමේන්තුව වාර අවසාන කිරීමේ ගැසට් පත්‍රය ජනාධිපතිවරයා නිකුත් කරනු ඇති බව වාර්තා වේ.
-
-පාර්ලිමේන්තුව වාර අවසාන කිරීමත් සමග කෝප්, කෝපා ඇතුළු කාරක සභා 50කට වැඩි සංඛ්‍යාවක් අහෝසි වන අතර ඒ අනුව එම කාරක සභා සියල්ල යළි පිහිටුවීමට නියමිතව තිබේ.
-
-උසස් නිලතල පිළිබඳ කාරක සභාව, ආංශික අධීක්ෂණ කාරක සභාව සහ විශේෂ කාරක සභා පමණක් වාර අවසාන කිරීම හේතුවෙන් අහෝසි නොවන බව සඳහන්ය.
-
-පාර්ලිමේන්තුව අවසන් වරට පසුගිය වසරේ ජනවාරි මස 27 වනදා වාර අවසාන කෙරුණු අතර එලෙස අවසන් කෙරු‍ණේ 09වන පාර්ලිමේන්තුවේ තෙවන සභා වාරයයි.
-
-### උඩරට දුම්රිය ධාවනය යථා තත්ත්වයට
-
-*2024-01-16 07:39:29 - [adalk](https://www.ada.lk/breaking_news/උඩරට-දුම්රිය-ධාවනය-යථා-තත්ත්වයට/11-407568)*
-
-උඩරට දුම්රිය මාර්ගයේ ග්‍රේස්වෙස්ටන් හා රදැල්ල දුම්රිය ස්ථාන අතර  දුම්රියක් පිලිපැනීම හේතුවෙන් පැවැති මාර්ග අවහිරතා අද  (16) උදෑසන වනවිට යථා තත්ත්වයට පත් කිරීමට පියවර ගෙන ඇතැයි නාවලපිටිය දුම්රිය පාලක මැදිරිය පවසයි.
-
-බදුල්ල සිට මහනුවර බලා ධාවනය වු විශේෂ සීඝ්‍රගාමී දුම්රියක් ඊයේ (15) සවස මෙසේ පිලිපැනීමකට ලක්වීම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ දුම්රිය ධාවනයට බාධා එල්ල වී පැවති බව පාලක මැදිරිය සඳහන් කරයි.
-
-පිලිපැනීමට ලක් වු සීඝ්‍රගාමී දුම්රියේ මැදිරි පිලිගත කිරීමේ කටයුතු අද අලුයම 3.40 පමණ වනවිට අවසන් කිරීමට හැකි වු බවද පාලක මැදිරිය කියයි.
-
-මේ හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ බදුල්ල සිට ධාවනය වු රාත්‍රි දුම්රිය නානුඔය  දුම්රිය ස්ථානයේත්, කොළඹ සිට ධාවනය වු රාත්‍රි තැපැල් දුම්රිය හැටන් දුම්රිය ස්ථානයේත් නවතා තිබු බවත්, එම දුම්රියන් ඇතුළු උඩරට දුම්රිය මාර්ගයේ අනෙකුත් දුම්රියන් මේ වනවිට සාමාන්‍ය පරිදි ධාවනය කරනු ලබන බවද නාවලපිටිය දුම්රිය පාලක මැදිරිය වැඩිදුරටත් සඳහන් කරයි.
-
-### මැතිව්ස්ට මම ආරාධනා කළේ නෑ
-
-*2024-01-16 07:21:32 - [adalk](https://www.ada.lk/sports/මැතිව්ස්ට-මම-ආරාධනා-කළේ-නෑ/9-407566)*
-
-ශ්‍රී ලංකා කණ්ඩායමේ අත්දැකීම් සහිත තුන් ඉරියව් ක්‍රීඩක ඇන්ජලෝ මැතිව්ස්ට නැවත කණ්ඩායමට පැමිණීමට තමන් ආරාධනා නොකළ බවත්, ඔහු ක්‍රීඩාවෙන් සමුගත් ක්‍රීඩකයකු නොවන බවත් වනිදු හසරංග පැවසීය. එමෙන්ම ඔහුගේ පිතිකරණය පළමු විස්සයි20 තරගය ජය ගැනීමට ඉතා වැදගත් වූ බව ද ඔහු මෙහිදී පැවසීය.
-
-මෑතක දී ශ්‍රී ලංකා කණ්ඩායමෙන් විශ්‍රාම ගත් ක්‍රීඩකයන් කිහිප දෙනෙකුට නැවත ආරාධනා කිරීමට සූදානමක් ඇත්දැයි මාධ්‍යවේදියෙකු ඇසූ පැනයකට පිළිතුරු දෙමින් ඔහු මේ බව පැවසීය. ඒ ඊයේ (15දා) කොළඹ දී පැවති මාධ්‍ය හමුවකදීය.
-
-' මැතිව්ස් කියන්නේ රිටයර් වෙච්ච ක්‍රීඩකයෙක් නෙමෙයි. අපි දැක්ක පහුගිය තරගයේදී ඔහුගේ අත්දැකීම් කොච්චර වැදගත් උනාද කියලා. ඉරියේදී පැවැත්වෙන විස්සයි20 ලෝක කුසලානයේදීත් මේ වගේ අත්දැකීම් සහිත ක්‍රීඩකයෙක් තමයි අපිට වැදගත් වෙන්නේ.
-
-සමුගත්ත ක්‍රීඩකයෙක් කණ්ඩායමට නැවත කැඳෙව්වත් ඔහු එතරම් හොඳින් කණ්ඩායමේ ක්‍රීඩා කරයි කියලා මම හිතන්නෙ නෑ. මැතිව්ස් කියන්නේ ටෙස්ට්, එක් දින හා විස්සයි 20 අංශ තුනම තවමත් ක්‍රීඩා කරන ක්‍රීඩකයෙක්. ඔහු එල්.පී.එල්. ක්‍රිකට්  තරගාවලියේදීත් හොඳින් දක්ෂතා දැක්වූවා."
-
-### No snow: Tourists cancel holidays as Indian ski resorts run dry
-
-*2024-01-16 07:12:00 - [adaderanalk](https://www.adaderana.lk/news/96430/no-snow-tourists-cancel-holidays-as-indian-ski-resorts-run-dry)*
-
-A lack of snowfall has led to empty ski resorts and holiday cancellations in the Indian Himalayas, with scientists linking the “unusual” winter to the El Nino weather phenomenon.
-
-The dry spell in Kashmir has pushed skiers to skip the popular resort of Gulmarg, one of the highest in the world, and left hotels in the scenic region waiting for fresh falls to draw tourists to the panoramic views of snow-capped peaks.
-
-Scientists said that this winter’s conditions in northern India have not been seen for about a decade, marked by the absence of snowfall in the mountains and biting cold made worse by thick fog in the plains.
-
-“Fifty percent of the season is already gone,” said Farhat Naik, 35, a Gulmarg snowboard instructor, ruing at the sight of dry, barren land that would normally be covered in a knee-deep layer of snow.
-
-“We are now hoping for snowfall in February first week,” he said, adding that all his European and American clients have cancelled their trips due to a lack of snow - a blow to the tourism and agriculture focused economy of the region.
-
-Travel industry executives in the neighbouring states of Himachal Pradesh and Uttarakhand also complained of cancellations.
-
-Bookings have dropped to 20% for Blue Poppy Resort in the ski resort of Auli, in Uttarakhand, its owner Kushaal Sangwan said. “Our cancellations have jumped and people cancel (just) days before the booking if there is no snow.”
-
-Winter snow and rain in northern India, including the Himalayas, is brought by a weather pattern known as the western disturbances - frequent extra-tropical storms that originate in the Mediterranean Sea.
-
-There are usually many such storms during winter but they have been largely absent this season, said R.K. Jenamani, a senior scientist at the India Meteorological Department (IMD). “When there’s no weather system, how can there be (snow),” he said.
-
-The disappearance of western disturbances is linked to changing wind patterns and rising temperatures due to the active El Nino weather phenomenon and also climate change, said Gufran Beig, a former chief scientist at the Indian Institute of Tropical Meteorology.
-
-The current weather was very unusual for this time, Beig said. “It’s January and it is still very cold in Delhi ... there is excess moisture in the air but there’s also no snow ... It’s been one of the most polluted and prolonged stretches of winter.”
-
-### Misty conditions to linger in many areas this morning
-
-*2024-01-16 06:56:00 - [adaderanalk](https://www.adaderana.lk/news/96429/misty-conditions-to-linger-in-many-areas-this-morning)*
-
-The Department of Meteorology says mainly fair weather is expected to prevail over the island today (Jan.16).
-
-Misty conditions are likely in parts of the Western, Sabaragamuwa, Central, Uva, North Western, Southern and North-central provinces in the morning.
-
-Ground frost is possible at some places in Nuwara-Eliya District during the early hours of the morning.
-
-Mainly fair weather will prevail in the sea areas around the island as well.
-
-Winds will be north-easterly and wind speed will be 20-30 kmph.
-
-Wind speed may increase up to 45 kmph at times in the sea areas off the coasts extending from Colombo to Mannar via Puttalam and from Pottuvil to Matara via Hambantota.
-
-The sea areas off the coasts extending from Colombo to Mannar via Puttalam and from Pottuvil to Matara via Hambantota can be fairly rough at times.
-
-### Health Sector Gripped by Strikes as 72 Professions Walk Out
-
-*2024-01-16 06:23:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/health-sector-gripped-by-strikes-as-72-professions-walk-out/)*
-
-Colombo (News 1st) – Sri Lanka's healthcare sector faces significant disruption today as members of 72 health unions representing a wide range of professionals, including laboratory technicians, radiology technicians, pharmacists, public health inspectors, midwives, drug compounders, and entomology officers, have decided to launch a strike.
-
-The action, led by the Health Service Trade Union Alliance is set to continue until 8 am tomorrow.
-
-The strike stems from a recent decision by the President, also serving as the Minister of Finance, to increase the duty interruption, attendance, and transport allowance (DAT) for doctors by 35,000 rupees.
-
-Union Convenor Ravi Kumadesh has criticized the move as discriminatory and demanded similar financial incentives for other healthcare professionals.
-
-Adding to the tension, government nurses are also poised to launch a 24-hour symbolic strike starting at 7 am tomorrow.
-
-News First reached out to Health Minister Ramesh Pathirana for comment, and he noted that the matter is under discussion with acting Finance Minister Shehan Semasinghe.
-
-The widespread strikes raise concerns about potential disruptions in healthcare services across Sri Lanka.
-
-Patients seeking non-emergency care may face delays or cancellations, while critical services could be stretched thin.
-
-Protests as Activists Accuse Former Health Minister of Pharma Fraud
-
-### கைக்குண்டு, கத்தியுடன் இருவர் கைது
-
-*2024-01-16 04:34:51 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கைக்குண்டு-கத்தியுடன்-இருவர்-கைது/175-331555)*
-
-திருட்டு வழக்குகளில் தலைமறைவாகியிருந்த யாழ். இளவாலை நாதவோலை பகுதியைச் சேர்ந்த 37 வயதான நபரை கைது செய்ய சென்ற போது சந்தேக நபரிடம் இருந்து கைக்குண்டு மற்றும் கத்தி என்பன கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
-
-இதன்போது சந்தேகநபரிடம் முன்னெடுத்த விசாரணைகளின் அடிப்படையில் மேலும் ஒரு சந்தேகநபர் சான்று பொருட்களுடன் கைது செய்யப்பட்டுள்ளார்.
-
-இதனடிப்படையில் திருடப்பட்ட இலத்திரனியல் மற்றும் சமையல் பொருட்களை சாவகச்சேரி பகுதியில் உள்ள ஒருவருக்கு விற்பனை செய்ததாக தெரிவித்தார்.
-
-சந்தேக நபரிடம் இலத்திரனியல் உபகரணங்கள், சமையல் உபகரணங்களை கொள்வனவு செய்த 25 வயது மதிக்கத்தக்க இளைஞரையும் பொலிஸார் கைது செய்தனர்.
-
-### Hayleys Solar surpasses 150MWp as Sri Lanka’s premier rooftop solar provider
-
-*2024-01-16 01:20:51 - [dailyftlk](https://www.ft.lk/business/Hayleys-Solar-surpasses-150MWp-as-Sri-Lanka-s-premier-rooftop-solar-provider/34-757407)*
-
-Hayleys Solar Executive Director and CEO Roshane Perera (left), and Hayleys Fentons Managing Director Hasith Prematillake
-
-Hayleys Solar, the renewable energy arm of Hayleys Fentons recently surpassed 150MWp of installations, a national record for rooftop solar PV capacity in Sri Lanka, setting a new milestone in the island’s transition to renewable energy.
-
-By March 2023, Hayleys Solar crossed its milestone of 125MW and has continued to add new rooftop solar capacity to its portfolio, in various locations across the country. Its 150MWp of solar capacity is enabling Hayleys Solar to save close to 151,835 tons of carbon dioxide (CO2) emissions released to the air every year.
-
-Expressing his views, Hayleys Fentons Managing Director Hasith Prematillake stated: “This achievement is the largest to be installed across the island by any single entity and supports us to empower the community making solar solutions closer to all via accessibility and affordability. We are grateful for the trust and support our customers have placed in us.”
-
-Hayleys Solar continues to establish solar experience centres island-wide, adding to its portfolio of experience centres in Matara and Jaffna with new launches in Nawala, Katunayake, Kurunegala and Kandy soon, This will make it easier for people from different communities to access and learn about solar solutions.
-
-These centres offer a comprehensive range of applications, including rooftop PV systems, batteries, and inverters, alongside live demonstrations of solar-powered water pumps, lighting systems and solar powered hot water systems.
-
-With high electricity tariffs, Hayleys Solar offers easy payment plans and loan facilities to support affordability for households and businesses to transition to solar.
-
-Hayleys Solar Executive Director and CEO Roshane Perera said, “By far, Hayleys Solar has become a top of mind household name and plays a major role as a trendsetter in the solar energy sphere as the undisputed market leader. Throughout our remarkable journey, we have empowered a diversified clientele including world-renowned organisations and thousands of households. We are very grateful to our loyal clientele who has placed their trust with us”
-
-“We are also in the process of installing the largest battery of 2MWh which will be commissioned by January 2024. I believe it is our responsibility as the market leader to focus on innovation and bring in the latest technologies to drive growth to expand market share in this sector.”
-
-In 2022, amid challenges in power availability, Hayleys Solar enabled the facilitation of a massive project of installing solar at 830 telecommunication towers across Sri Lanka, which supported the community to stay connected.
-
-With its ongoing commitment to adding rooftop solar capacity to empower the community with electricity and energy self-sufficiency, Hayleys Solar is dedicated to improve the livelihoods of many Sri Lankans for generations.
-
-### CIC Agri honours business partners with Lifetime Awards
-
-*2024-01-16 01:20:07 - [dailyftlk](https://www.ft.lk/business/CIC-Agri-honours-business-partners-with-Lifetime-Awards/34-757406)*
-
-Bavani Stores Proprietor Ponnaiyah Krishnananthan receiving the Lifetime Award from Group CEO Aroshan Seresinhe and Agri Cluster MD Waruna Madawanarachchi.
-
-Samarasiri Traders Proprietor M.M. Piyathilaka receiving the Lifetime Award from Group CEO Aroshan Seresinhe and Agri Cluster MD Waruna Madawanarachchi
-
-CIC Agri Businesses recognised and appreciated two of its long-standing business partners Bavani Stores, Jaffna and Samarasiri Traders, Welimada with ‘Lifetime Awards’ at the Annual New Year Invoicing Ceremony which was held at the Lotus Tower recently.
-
-Bavani Stores was founded by Ponnaiyah Krishnananthan also known as Rajan in 1976 and commenced as a grocery shop and later expanded its business to other products. In 1985 Bavani Stores ventured to the sale of agro chemicals, seeds and fertiliser, and was appointed as an authorised distributor for CIC in 1986.Since then Bavani Stores has been one of the key dealers for CIC in the Jaffna Peninsula for over 35 years. Since 2007 Bavani Stores has been categorised as a Gold Dealer and remains as one of topmost Business Partners of CIC Holdings PLC.
-
-Samarasiri Traders was founded in by M.M. Piyathilaka in the late seventies. Initially it was a transport business. However later in 1985 he expanded the business and commenced the sale of agro chemicals, fertiliser and seeds. In 1986 Samarasiri Traders was appointed as the authorised distributor for all CIC products that included fertiliser, seeds, and agro chemicals. Since then, for the past 37 years, he has been successfully covering the entire up-country region with CIC products.
-
-Speaking at the occasion the CIC Agri Businesses Managing Director Waruna Madawanarachchi appreciated and acknowledged the contribution of all business partners. “It has been a very good year for all of us, we at CIC Agri will continue to offer the best solutions at all times with all the quality agri inputs in our portfolio so as to ensure that farmers are always better equipped to face the challenges and are able to reap a bountiful harvest”.
-
-CIC Agri Businesses provides a range of agri inputs from seeds to fertiliser to specialty plant nutrients and host of agro chemicals and pesticides.
-
-As is customary every year key business partners of CIC Agri Businesses received their first invoices for 2024 from the Senior Management of CIC Agri Businesses.
-
-### SFG becomes first CORSIA-accredited validation and verification body in SL
-
-*2024-01-16 01:19:06 - [dailyftlk](https://www.ft.lk/business/SFG-becomes-first-CORSIA-accredited-validation-and-verification-body-in-SL/34-757405)*
-
-The Sustainable Future Group (SFG), Sri Lanka’s premier Sustainability Validation and Verification Body which was South Asia’s first to be IAF-accredited to award ISO 14064-1 and 2 for organisational and project-level GHG reporting, ISO 14067 for product carbon foot printing, and ISO 14065 for environmental information, chalked up another “first” when it was accredited under the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA). The accreditation was granted by the Sri Lanka Accreditation Board (SLAB) recently during the first day of the ‘Environment Matters in Aviation Workshop’ held at the Sri Lanka Civil Aviation Authority (SLCAA) auditorium in the presence of the Ports, Shipping, and Aviation Minister, South Asian Civil Aviation Authorities, South Asian Airplane Operators, and other high-level stakeholders in the Aviation industry. Representatives of the EU – South Asia Aviation Partnership Project II (EU-SAAPP II) who provided guidance, support and training for SFG against the CORSIA Scheme from 2019 up until the point of accreditation were also present at the occasion.
-
-The CORSIA scheme provides specifications for airplane operators to calculate and report its CO2 emissions from its fleet, application of Sustainable Aviation Fuels (SAFs), and offsetting the amount of CO2 emissions which cannot be reduced through the use of technological improvements, operational improvements, and SAF usage with selected types of emissions units from the global carbon market. SFG is now accredited to verify whether airplane operators have correctly calculated its fleet emissions and have offset its residual emissions against the specifications provided in the CORSIA Scheme. Their first assessment was conducted on the ‘Airplane Operator Emissions Report’ of Maldivian Airlines (Island Aviation Services Ltd.) of the Maldives, which comprised of a desk and site review at the Maldivian Airlines office premises. Following the assessment, the results were then verified in accordance with the ISO/IEC 17029:2019 and ISO 14065:2020 standards by SFG.
-
-CORSIA is the first global compliance market-based scheme for any sector implemented by The International Civil Aviation Organisation (ICAO), specialised agency of the United Nations (UN) that oversee and coordinate international air navigation principles and regulations.
-
-The accreditation certificate was handed over to SFG by SLAB Chairman Dr. Sampath Wahala to Sustainability Assurance and Advisory Services Manager Sajeewa Ranasinghe.
-
-### Cardinal slams President’s decision to involve SL in US led Red Sea Op
-
-*2024-01-16 01:09:47 - [dailyftlk](https://www.ft.lk/news/Cardinal-slams-President-s-decision-to-involve-SL-in-US-led-Red-Sea-Op/56-757395)*
-
-Criticises Govt. for overlooking domestic concerns while involving itself in a Middle East conflict
-
-Says SL has leaders who are indifferent to starving countrymen but are gearing up to join war
-
-Stresses Catholic Church is not agitating for disorder or anarchy but it has a right to demand that justice is done
-
-Emphasises it is now time for active protest rather than remaining silent as 2024 is an election year
-
-In yet another scathing attack against the Government, the Archbishop of Colombo Malcolm Cardinal Ranjith on Sunday slammed the decision made by the current Government led by President Ranil Wickremesinghe to send in two Sri Lanka Navy vessels to join the Red Sea operation launched by the US and its allies to safeguard merchant vessels from attacks by Houthi rebels
-
-Ranjith criticised the Government for overlooking domestic concerns while involving itself in a Middle East conflict. “We have leaders who seem indifferent to the hunger of our people, yet they are gearing up for a conflict in the Middle East,” he said.
-
-The Archbishop made these comments during a sermon at All Saints Church in Borella, commemorating the second anniversary of the discovery of a grenade on the church premises that sparked a major controversy at the time.
-
-“It is boastful to announce that we will join an international armada with two small ships while the people here are starving. People are going through serious difficulties, these leaders are hardly concerned, and they only want to enjoy themselves at the cost of the taxpayer” he said.
-
-The Archbishop said the Catholic Church in Sri Lanka is not agitating for disorder or anarchy in the country but it has a right to demand that justice is done. “But where is justice when they manipulate incidents like the grenade incident?” he asked.
-
-Ranjith emphasised that the time has come for active protest rather than remaining silent. “In this election year, we have an opportunity to decide whether these corrupt politicians will persist in governing our country or if a new group will be entrusted with steering our nation towards the future,” he added.
-
-He also accused the authorities of failing to find the real perpetrators who placed a grenade inside the church, who planned the Easter Sunday attacks and those who have harassed the media in the past.
-
-Commenting on the grenade incident, Ranjith said the grenade had been set up to explode on the day. He said the police arrested four innocents including the sacristan of the Church who had picked the grenade up. “These four had no idea what a grenade was. This is why the sacristan picked it up innocently. He did not understand it was a grenade” he said.
-
-The Archbishop remarked that the Minister in Charge of the Police and the Secretary of Defence hastily pointed fingers at the four individuals without conducting a thorough investigation or reviewing the CCTV footage at that time. “This is how justice works in this country. Big shots can remain free even after committing a murder. There is no rule of law. There is only the law of the powerful,” he alleged.
-
-He urged the Government to launch a comprehensive investigation into the incident but expressed scepticism about its execution. Ranjith stated, “We are yet to witness justice being served for those responsible for the Easter Sunday attacks. The perpetrators behind the disappearance of Prageeth Ekneligoda and the killing of Sunday Leader Editor Lasantha Wickramatunga remain unknown. It appears that these critical issues have been overlooked, with authorities seemingly prioritising international concerns over resolving domestic challenges in the country.”
-
-### CID arrests self-proclaimed ‘Bodhisattva Avalokiteshvara’
-
-*2024-01-16 01:08:53 - [dailyftlk](https://www.ft.lk/news/CID-arrests-self-proclaimed-Bodhisattva-Avalokiteshvara/56-757394)*
-
-Investigators of the Police Criminal Investigation Department (CID) arrested Mahinda Kodituwakku, a man professing to be the Bodhisattva Avalokiteshvara yesterday in Pannipitiya.
-
-Kodituwakku who suddenly shot to fame recently through viral videos of him preaching flanked by groups of followers is being accused of distorting Buddhist teachings and engaging in irreligious activities.
-
-According to Police Spokesman SSP Nihal Thalduwa, the suspect has been apprehended on four charges, including violations under the Computer Crimes Act. Additionally, Thalduwa said he faces allegations of insulting the Buddhist doctrine by delivering various sermons, thereby offending religious sentiment.
-
-The Police Spokesperson said the suspect is also facing charges under Sections 291 (a) and 291 (b) of the Penal Code for allegedly uttering words with the explicit intent of causing religious offence and insulting the religion or beliefs of a specific class. Charges under the Money Laundering Act have also been brought against Kodituwakku.
-
-On 12 January the Colombo Fort Magistrate’s Court also imposed an overseas travel ban on him after the police received many complaints, particularly from Buddhist clergy against his activities.
-
-The Magistrate issued the order following Senior Deputy Solicitor General (DSG) Dileepa Peiris requesting a travel ban as it was required for an investigation led by the CID’s Computer Crimes Division.
-
-Peiris revealed that the suspect, who recently arrived from Egypt, organised extravagant ceremonies to welcome himself at the Bandaranaike International Airport and the Kelaniya Raja Maha Viharaya. He said ongoing investigations aim to ascertain whether the suspect misrepresented himself as a Bodhisattva to serve the objectives of a religious fundamentalist organisation or if he acted under the influence of a fundamentalist group. Concurrently, the suspect is under investigation for potential violations of the Prevention of Money Laundering Act.
-
-DSG Peiris accused the suspect of exploiting religion for personal financial gain. He highlighted that the suspect’s sermons, disseminated through his YouTube channel, distort Buddhism and pose significant dangers. Furthermore, he noted that the suspect has publicly admitted to sexually abusing his daughter, potentially making him liable to charges of sexual abuse of a minor. The case against Kodituwakku will be taken up again on 17 January.
-
-Meanwhile, the Mahanayaka Theras also sent a letter to President Ranil Wickramasinghe over the weekend urging him to institute the requisite legal measures to enforce the law against persons involved in distorting Buddha Dharma.
-
-In Buddhism, Avalokiteshvara is a tenth-level bodhisattva associated with great compassion.

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-16 11:27:58**
+As of **2024-01-16 12:27:58**
 
 ## Newspaper Stats
 
@@ -12,13 +12,13 @@ As of **2024-01-16 11:27:58**
 
 * newsfirstlk: 28
 
-* adaderanalk: 35
-
-* tamilmirrorlk: 38
-
 * economynextcom: 39
 
 * islandlk: 40
+
+* adaderanalk: 48
+
+* tamilmirrorlk: 51
 
 * dailyftlk: 97
 
@@ -26,9 +26,341 @@ As of **2024-01-16 11:27:58**
 
 * dbsjeyarajcom: 112
 
-* **Total**: **553**
+* **Total**: **579**
 
 ## Latest Articles (100)
+
+### Sri Lanka faces alarming increase in dengue cases reported this year
+
+*2024-01-16 12:06:00 - [adaderanalk](https://www.adaderana.lk/news/96441/sri-lanka-faces-alarming-increase-in-dengue-cases-reported-this-year)*
+
+Nearly 6,000 dengue infections have been reported in Sri Lanka thus far in the month of January this year, as per the latest statistics of the National Dengue Control Unit (NDCU).
+
+Accordingly, 5,829 dengue cases have been reported across the island as of 15 January 2024.
+
+The highest figures have been reported in the Western Province (33.6%), whilst 1,228 cases have been reported in the Colombo District alone. The total number of dengue patients reported in the Western Province is 1,956.
+
+Meanwhile, 1,177 dengue cases were reported in the Jaffna District during the period of the first 15 days of 2024, according to the NDCU.
+
+Last year, a total of 87,078 dengue cases were reported in Sri Lanka with 57 deaths, according to the NDCU.
+
+In the meantime, efforts are underway to control the spread of dengue across the country through the implementation of diverse programmes.
+
+On January 03, a decision was reached in the presence of President Ranil Wickremesinghe to establish an operational unit directly supervised by the Ministry of Health to combat the spread of dengue. The objective of the unit is to create a reporting system for ongoing dengue control programmes, tracking daily progress in the province and outlining future measures.
+
+### மாம்பழ அறுவடையில் சாதனை
+
+*2024-01-16 12:00:20 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மாம்பழ-அறுவடையில்-சாதனை/175-331579)*
+
+இலங்கையில் மாம்பழ அறுவடை இந்த ஆண்டு வரலாறு காணாத அளவில் அதிகரித்துள்ளதாக விவசாயத் திணைக்களம் தெரிவித்துள்ளது.
+
+2023ல் நீடித்த வறண்ட வானிலையும், அதைத் தொடர்ந்து பெய்த மழையும் மாம்பழ அறுவடையை அதிகரிக்கச் செய்ததாக அவர்கள் தெரிவித்தனர்.
+
+விவசாயம் மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் தலைமையில் இடம்பெற்ற கலந்துரையாடலின் போது, ​​நாடளாவிய ரீதியில் ஆயிரக்கணக்கான ஏக்கர் மாம்பழங்கள் பயிரிடப்படுவதாகவும், குறிப்பாக ஏற்றுமதிக்காக பயிரிடப்படும் TEJC மாம்பழம், விலை குறைவினால் உற்பத்தி தடைப்படலாம் எனவும் அண்மையில் வலியுறுத்தப்பட்டது.
+
+எனவே, மா பயிர்ச்செய்கையை மேலும் விரிவுபடுத்த வேண்டுமா என்பது குறித்த அறிவியல் அறிக்கையை தன்னிடம் வழங்குமாறு அமைச்சர் உத்தரவிட்டார்.
+
+அறுவடைக்குப் பிந்தைய தொழில்நுட்பக்கழக தரவுகளின்படி, இந்நாட்டில் விளையும் அனைத்து வகையான மாம்பழங்களின் வருடாந்த அறுவடை சுமார் 250 மில்லியன் பழங்கள் ஆகும்.
+
+எவ்வாறாயினும், 2023-24 மாம்பழ பருவம் அந்த அளவைத் தாண்டியுள்ளதாக தற்போதைய தரவு உறுதிப்படுத்தியுள்ளது என்று திணைக்களம் கூறுகிறது.
+
+இதன் காரணமாக ரூ.800 முதல்1000 வரை விலை போன 1 கிலோகிராம் TEJC மாம்பழம் தற்போது ரூ. 400 முதல் 500 ரூபாய்  வரை குறைந்துள்ளதாக விவசாய திணைக்களம் தெரிவித்துள்ளது.
+
+### Police Constable nabbed with ‘Ice’ during Operation ‘Yukthiya’
+
+*2024-01-16 11:54:00 - [adaderanalk](https://www.adaderana.lk/news/96440/police-constable-nabbed-with-ice-during-operation-yukthiya)*
+
+A Police Constable of the Mihijayasewana Police Station was reportedly arrested for the possession of crystal methamphetamine (ICE).
+
+According to the Colombo (North) Crimes Division, the suspect was arrested in Modara, with 2,140 miligrams of crystal methamphetamine during the ongoing island-wide anti-drug operation ‘Yukthiya’.
+
+The 27-year-old Police Constable, identified as a resident of Webada, Ganepola, is due to be produced before the Maligakanda Magistrate’s Court, while further investigations are being carried out by the Colombo (North) Crimes Division.
+
+### ”ரணிலுக்கு சஜித் பெரும் போட்டியாக இருப்பார்”
+
+*2024-01-16 11:36:08 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-சஜித்-பெரும்-போட்டியாக-இருப்பார்/175-331576)*
+
+தனது கட்சி மற்ற கட்சிகளுடன் கூட்டணி அமைப்பதற்கான பேச்சுவார்த்தைகளைக் கையாள்வதற்கான குழுவை நியமித்து வருவதாக  ஐக்கிய மக்கள் சக்தியின் தேசிய ஒருங்கிணைப்பாளர் திஸ்ஸ அத்தநாயக்க ஊடகவியலாளர் சந்திப்பின் போது தெரிவித்தார்.
+
+“ஏனைய கட்சிகளுடன் கூட்டணி அமைப்பதற்கு எமது எமது கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு செயற்குழு அனுமதி வழங்கியுள்ளது. தற்போது மற்ற கட்சிகளுடன் கலந்துரையாட ஒரு குழுவை நியமிக்கும் பணியில் அவர் ஈடுபட்டுள்ளார்.
+
+எமது வேட்பாளர் சஜித் பிரேமதாச, எதிர்வரும் ஜனாதிபதித் தேர்தலில் தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு பாரிய போட்டியாக இருப்பார் என நம்புகின்றோம் ” என திஸ்ஸ அத்தநாயக்க தெரிவித்தார்.
+
+### Air quality declines in several areas across the island
+
+*2024-01-16 11:19:00 - [adaderanalk](https://www.adaderana.lk/news/96439/air-quality-declines-in-several-areas-across-the-island)*
+
+The air quality has declined in several areas of the island, the Central Environmental Authority (CEA) said.
+
+The Media Spokesman ofre the CEA Ajith Weerasundara stated that accordingly a decline in the air quality index is observed in the Colombo, Jaffna, Mannar and Galle areas.
+
+Weerasundara also took into note that as a result patients with respiratory issues and respiratory-related medical conditions should be more attentive regarding the matter.
+
+Furthermore, he expressed that the major cause of this situation is the entry of various types of air pollutants by way of the air currents passing through the island, especially the wind currents from the outer regions of other countries, such as the Bay of Bengal.
+
+The authority also emphasized that there is a minor possibility of this situation affecting the health of the people living in those areas.
+
+“Especially people living in these areas who suffer some kinds of lung-related disorders like Asthma should be careful up to a level. As an example, if you wear facemasks, you can protect your health”, Weerasundara said.
+
+“We believe that this situation will gradually subside and return back to normal in a few days. Here we especially request you to pay attention to the condition of the atmosphere”, he added.
+
+Meanwhile, the air quality in New Delhi, India continues to linger between “very poor” and “severe”, whilst Delhi residents once again confronted dense fog and bone-chilling cold, causing widespread flight and rail operations disruptions, the foreign media reported on Tuesday (Jan. 16).
+
+The air quality of India’s Delhi (272) ranked first as the poorest air quality in the world and India’s Kolkata (154) is third on the list, according to IQAir.
+
+The AQI (Air Quality Index), used to communicate to the general public the daily air quality, is based on the measurement of particulate matter (PM2.5 and PM10), Ozone (O3), Nitrogen Dioxide (NO2), Sulfur Dioxide (SO2) and Carbon Monoxide (CO) emissions. An AQI value of 50 or below represents good air quality, while an AQI value over 300 represents hazardous air quality, as per international standards.
+
+### Iowa caucus 2024: Trump dominates, DeSantis edges Haley for second
+
+*2024-01-16 11:15:00 - [adaderanalk](https://www.adaderana.lk/news/96438/iowa-caucus-2024-trump-dominates-desantis-edges-haley-for-second)*
+
+Donald Trump secured a resounding victory in the first 2024 Republican presidential contest in Iowa on Monday, asserting his command over the party despite facing scores of criminal charges as he seeks a rematch with Democratic President Joe Biden.
+
+Florida Governor Ron DeSantis, 45, finished well behind in second place, edging out former U.N. Ambassador Nikki Haley, 51, as they battle to emerge as the chief alternative to Trump.
+
+Trump, 77, won by an unprecedented margin for an Iowa Republican contest, strengthening his case that his nomination is a foregone conclusion given his massive lead in national polls.
+
+“THANK YOU IOWA, I LOVE YOU ALL!!!” Trump wrote on his social media platform, Truth Social.
+
+With 95% of the expected vote tallied, Trump had 51%, while DeSantis was at 21% and Haley 19%, according to Edison Research. The largest margin of victory for an Iowa Republican caucus had been 12.8 percentage points for Bob Dole in 1988.
+
+Entrepreneur Vivek Ramaswamy ended his long-shot presidential bid after earning just under 8% of the vote on Monday and endorsed Trump in a speech to supporters.
+
+If Trump finishes above 50%, winning more than all his rivals combined, it will further weaken his opponents’ argument that his march to the nomination can be derailed.
+
+His performance reflected his popularity among Republican voters - even after two impeachments, his involvement in the Jan. 6, 2021, attack on the U.S. Capitol by a mob of supporters and his 91 criminal charges for trying to overturn the 2020 election, retaining classified documents after leaving the White House and falsifying records connected to hush money payments to a porn star.
+
+Nearly two-thirds of caucus-goers embraced his false claims about voter fraud, saying they did not think Biden legitimately won the presidency. More than 60% said Trump would still be fit to serve as president even if convicted of a crime.
+
+Trump dominated across the board, according to an Edison entrance poll: he won a majority among men and among women; among those who consider themselves very conservative, somewhat conservative and independent; among those who graduated college and those who did not.
+
+He captured a majority of Republicans who put immigration as their top concern - and a majority of those who said the economy was their main worry.
+
+“The Iowa caucus results demonstrate the strength of Trump’s grip on the Republican Party,” said Jimmy Centers, an Iowa-based Republican strategist. “Absent a quick consolidation of the field, Trump appears to be on a fast track to the nomination.”
+
+That consolidation appears unlikely, with both DeSantis and Haley vowing to press ahead following Monday’s results, ensuring Trump’s opposition will remain fractured as the campaign moves to other states.
+
+DeSantis in particular had wagered his campaign on Iowa, barnstorming all of its 99 counties and pouring resources into the state.
+
+“We’ve got our ticket punched out of Iowa!” DeSantis told supporters in West Des Moines on Monday.
+
+Haley, who has enjoyed a steady rise in polls over the last few months, sought to position herself as the leading Trump challenger.
+
+“At one point in this campaign there were 14 of us running. I was at 2% in the polls,” Haley told a crowd of supporters. “When you look at how we’re doing, in New Hampshire, in South Carolina and beyond, I can safely say tonight Iowa made this Republican primary a two-person race.”
+
+Republicans in more moderate New Hampshire will choose their nominee eight days from now. Polls show Trump with a smaller lead over Haley there, with DeSantis far behind.
+
+Trump has aimed to create an air of inevitability around his campaign, skipping all five of the Republican debates thus far and largely eschewing the county-by-county politicking that most candidates do ahead of the Iowa vote.
+
+Iowans braved life-threatening temperatures to gather at more than 1,600 schools, community centers and other sites for the state’s first-in-the-nation caucus, as the 2024 presidential campaign officially got under way after months of debates, rallies and advertisements.
+
+“Trump is very narcissistic, he’s very cocky, but he’s going to get stuff done,” said Rita Stone, 53, a Trump backer, who attended a caucus at a West Des Moines high school. Like many other voters, Stone said her leading concern was the U.S. southern border with Mexico, praising Trump’s effort to build a wall when he was president.
+
+Unlike a regular election, Iowa’s caucus requires voters to gather in person in small groups, where they cast secret ballots after speeches from campaign representatives.
+
+Edison projected there would be approximately 120,000 votes counted, far short of the record 187,000 cast in the 2016 Republican caucus.
+
+With the cold weather depressing turnout, Trump’s grip on his most loyal supporters may have given him an edge.
+
+Iowa Democrats did not vote on Monday for their presidential nominees because the party has reshuffled its nominating calendar to put states with more diverse populations ahead of Iowa this year. They will cast their ballots by mail, with the results to be released in March.
+
+Iowa has historically played an outsized role in presidential campaigns due to its early spot on the campaign calendar.
+
+But the winner of Iowa’s Republican caucuses did not go on to secure the nomination in the last three competitive contests in 2008, 2012 and 2016.
+
+A political battleground that backed Democrat Barack Obama in 2008 and 2012, the state is now seen as reliably Republican in presidential elections as registered Republicans edge out Democrats.
+
+### 72 தொழிற்சங்கங்கள் பணிப்பகிஷ்கரிப்பு
+
+*2024-01-16 11:10:38 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/72-தொழிற்சங்கங்கள்-பணிப்பகிஷ்கரிப்பு/175-331570)*
+
+72 தொழிற்சங்கங்கள் இன்று(16) காலை 06.30 முதல் பணிப்பகிஷ்கரிப்பை ஆரம்பித்துள்ள நிலையில் குறித்த பணிப்பகிஷ்கரிப்பு நாளை(17) காலை 08 மணி வரை முன்னெடுக்கப்படவுள்ளதாக நிறைவுகாண் மருத்துவ தொழில்வல்லுநர்களின் கூட்டமைப்பின் ஏற்பாட்டாளர் ரவீ குமுதேஷ் தெரிவித்தார்.
+
+வைத்தியர்களுக்கான சேவைக்கால இடையூறு, வருகை மற்றும் போக்குவரத்து கொடுப்பனவு எனப்படும் DAT கொடுப்பனவை 35,000 ரூபாவினால் அதிகரிக்கவுள்ளதாக நிதி அமைச்சர் என்ற வகையில் ஜனாதிபதி அண்மையில் அமைச்சரவைக்கு அறிவித்திருந்தார்.
+
+இந்தநிலையில்,சுகாதார ஊழியர்களுக்கு நீதி கோரி சுகாதார தொழிற்சங்க கூட்டணியின் அடையாள வேலைநிறுத்தத்துடன் இணைந்து இன்று (16) காலை சுகாதார ஊழியர்கள் கொழும்பு தேசிய வைத்தியசாலைக்கு முன்பாக பணிப்பகிஷ்கரிப்பை ஆரம்பித்தனர்.
+
+சுகாதார தொழிற்சங்கங்களின் பிரதிநிதிகளுக்கும் நிதி அமைச்சுக்கும் இடையிலான விசேட கலந்துரையாடல் இன்று முற்பகல் 11.00 மணிக்கு இடம்பெறும் என தெரிவிக்கப்பட்டிருந்தது.
+
+இக்கலந்துரையாடலின் முன்னேற்றத்திற்கு அமைய அடையாள வேலைநிறுத்தம் முடிவுக்கு கொண்டுவரப்படும் என சுகாதார தொழிற்சங்க பிரதிநிதிகள் தெரிவித்தனர்.
+
+### Concerns raised as prisons overcrowded by 232% - report
+
+*2024-01-16 11:03:00 - [adaderanalk](https://www.adaderana.lk/news/96437/concerns-raised-as-prisons-overcrowded-by-232-report-)*
+
+A recent government audit report on the management of overcrowding in prisons has revealed that the prisons capacity has exceeded by 232%.
+
+The performance audit claimed that upon consideration of the data gathered for the last seven years, from 31 December 2015 to 31 December 2022, the number of inmates in the overall prison system in Sri Lanka has increased from 139% to 232% of capacity in Prisons.
+
+This percentage increased from 149% to 213% from the beginning of 2016 to the end of 2019, and subsequently dropped to 139% by 31 December 2021.
+
+“The reason for that was, the increase of prison capacity from 11,762 to 13,241(that is by 12.5%) by the end of 2020”, the report reads in this regard.
+
+Despite the prison capacity having increased, however, the number of inmates too, have increased, thereby yet again giving rise to the issue of overcrowding, with the highest number of inmates exceeding the prison capacity being recorded in 2022.
+
+“The average monthly number of detainees held in the 12 months of the year 2022 is 22,097 and it has grown by 15 per cent as compared to the average monthly number of 19,295 detainees in 2021”, the report read.
+
+The overcrowding in prisons has also led to several other issues, including a lack of adequate space and sanitation facilities.
+
+As per the performance audit, there was a shortage of 187 toilets in 27 prisons, and 287 of the existing toilets were in a condition of repair, while 14 prisons across the island have a shortage of 108,689 square feet of space. Meanwhile, the insufficient space for female inmates in cells and wards in the Negombo and Vavuniya prisons as at 01 July 2022 was 240 and 141 square feet respectively.
+
+The report further identified two reasons behind the overcrowding of prisons; one being the influence of the economic, social, political and legal environment, in the context that difficulties faced during the economic crisis lead to higher rates of criminal activity which thereby lead to increased arrests, while the other reason was identified as the increase in imprisonments related to drug offences.
+
+“A large number of Sri Lankan inmates have been involved in drug offenses. The number of prison inmates in Sri Lanka is 26,176, of which over 53 per cent, i.e. 13,794, are inmates related to drug offenses as at 31 December 2022”, the audit revealed.
+
+The report further noted, however, that despite the rise in arrests and imprisonment is a direct result of increased criminal activity and subsequent overcrowding in prisons, the audit further highlighted that deficiencies in the administrative process related to law enforcement for criminals and imprisonment have also led to the creation of prison overcrowding.
+
+Audit - Management of Overcrowding in Prisons by Adaderana Online on Scribd
+
+### ’யுக்திய’வினால் புதிய பிரச்சினைகள் ஏற்படலாம்;திஸ்ஸ
+
+*2024-01-16 11:00:13 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-வினால்-புதிய-பிரச்சினைகள்-ஏற்படலாம்-திஸ்ஸ/175-331569)*
+
+யுக்தியா நடவடிக்கையை முடிவுக்கு கொண்டு வரக்கூடிய சர்வதேச தலையீடுகளைத் தவிர்ப்பதற்கு முழு அரசாங்கமும் பொலிஸாரும் கவனத்துடன் செயற்பட வேண்டும் என ஐக்கிய மக்கள் சக்தியின் (SJB) பாராளுமன்ற உறுப்பினர் திஸ்ஸ அத்தநாயக்க தெரிவித்துள்ளார்.
+
+"ஐ.நா மனித உரிமைகள் அலுவலகம் (OHCHR) ஏற்கனவே யுக்திய குறித்து கவனம் செலுத்தியுள்ளதால், இந்த நடவடிக்கை மிகவும் கவனமாக கையாளப்பட வேண்டும். இது மனித உரிமை மீறலுக்கு வழிவகுத்துள்ளதாக ஐ.நா மனித உரிமைகள் அலுவலகம் ஏற்கனவே கரிசனம் வெளிப்படுத்தியுள்ளது. இது நாட்டுக்கு புதிய பிரச்சினையை ஏற்படுத்தலாம்” என அத்தநாயக்க ஊடக சந்திப்பில் தெரிவித்தார்.
+
+சட்டவிரோத போதைப்பொருள் பாவனையைக் கையாள்வதற்கான ஒரு வழிமுறையாக, "அதி பாதுகாப்பு அடிப்படையிலான பதிலை" இலங்கை ஏற்றுக்கொண்டது குறித்து தாம் மிகவும் அதிருப்தியடைந்துள்ளதாக ஐநா மனித உரிமைகள் அலுவலகம் (OHCHR) வெள்ளிக்கிழமை கூறியது.
+
+டிசம்பர் 17 முதல் போதைப்பொருள் தொடர்பான குற்றச்சாட்டில் கைது செய்யப்பட்டதாகக் கூறப்படும் 29,000 நபர்களில் சிலர், தாங்கள் மோசமாக நடத்தப்பட்டதாக அல்லது சித்திரவதை செய்யப்பட்டதாகத் தெரிவித்துள்ளதாக OHCHR செய்தித் தொடர்பாளர் Liz Throssell குற்றம் சாட்டினார்.
+
+”போதைப்பொருள் கடத்தல்காரர்களை பிடிப்பது நல்லது என்பதால் யுக்திய நடவடிக்கையை நாங்கள் எதிர்க்க மாட்டோம். எனினும், இது நாட்டுக்கு புதிய பிரச்சினையாக மாறக்கூடாது. மேலும், அதை அரசியல் கருவியாக பயன்படுத்தக் கூடாது,'' என அவர் தெரிவித்தார்.
+
+### Indian air traffic disrupted on third day of dense fog
+
+*2024-01-16 10:45:00 - [adaderanalk](https://www.adaderana.lk/news/96436/indian-air-traffic-disrupted-on-third-day-of-dense-fog)*
+
+Dense fog swathed large parts of northern India on Tuesday for the third straight day of an intense cold wave, reducing visibility to disrupt more than 160 flights.
+
+As many as 128 flights from the international airport in New Delhi, the capital, were delayed, with 33 cancelled, aviation site Flightradar24 showed, an effect that cascaded through flight schedules nationwide.
+
+Visibility at the airport stood at 50 m (164 ft) at 8 a.m., weather officials said, predicting similar conditions until the end of the week.
+
+New Delhi’s lowest temperature this winter was 3.3 degrees Celsius (37.4 degrees Farenheit) on Monday, when low visibility and dense fog caused the delay of as many as 500 flights and the cancellation of 87.
+
+Angry passengers argued with airline staff in images on television and social media, with one video showing passengers eating dinner as they waited on the tarmac for a delayed flight.
+
+On Monday, the aviation minister said authorities were hastening efforts to use an additional runway, equipped with the CAT III navigation system that enables aircraft to land despite low visibility.
+
+### ஆயுள் கைதிகள் இருவருக்கு ஜனாதிபதி  பொது மன்னிப்பு
+
+*2024-01-16 10:42:40 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஆயுள்-கைதிகள்-இருவருக்கு-ஜனாதிபதி-பொது-மன்னிப்பு/175-331567)*
+
+விடுதலைப் புலிகளின் செயற்பாடுகளுக்காக ஆயுள் தண்டனை அனுபவித்து வந்த இரண்டு கைதிகளுக்கு கடந்த ஞாயிற்றுக்கிழமை (ஜனவரி 14) ஜனாதிபதி பொது மன்னிப்பு வழங்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+நாகலிங்கம் மதன்சேகர் மற்றும் செல்வத்துரை கிருபாகரன் ஆகியோருக்கு ஜனாதிபதி ரணில் விக்கிரமசிங்க பொது மன்னிப்பு வழங்கியுள்ளதாக சண்டே டைம்ஸ் செய்தி வெளியிட்டுள்ளது .
+
+மதன்சேகர் மற்றும் கிருபாகரன் ஆகியோர் பயங்கரவாதத் தடுப்புச் சட்டம் (PTA) மற்றும் அவசரகாலச் சட்டங்களின் கீழ் குற்றவாளிகளாக அறிவிக்கப்பட்டிருந்தனர்.
+
+கொழும்பு உயர் நீதிமன்றத்தில் குற்றஞ்சாட்டப்பட்ட பின்னர், மார்ச் 29, 2023 அன்று அவசரகால விதிமுறைகளின் கீழ் தாக்கல் செய்யப்பட்ட குற்றச்சாட்டில் மதன்சேகர் குற்றவாளி என தீர்ப்பளிக்கப்பட்டு ஆயுள் தண்டனை விதிக்கப்பட்டார்.
+
+பயங்கரவாத தடைச்சட்டத்தின் கீழ் தாக்கல் செய்யப்பட்ட குற்றச்சாட்டுக்களில் கிருபாகரன் குற்றவாளி என நிரூபிக்கப்பட்டு, அவர் தனது தண்டனைக்கு எதிராக மேன்முறையீடு செய்திருந்த போதிலும், 2022 ஆம் ஆண்டு ஜூலை 20 ஆம் திகதி மேன்முறையீட்டு நீதிமன்றம் கொழும்பு உயர் நீதிமன்றம் வழங்கிய தீர்ப்பை உறுதி செய்தது.
+
+எவ்வாறாயினும், அரசியலமைப்பின் 34(1) பிரிவின் கீழ் அவருக்கு வழங்கப்பட்டுள்ள அதிகாரங்களின் கீழ் ஜனாதிபதியினால் அவர்களுக்கு ஜனாதிபதி மன்னிப்பு வழங்கப்பட்டுள்ளது.
+
+நீதியமைச்சர் விஜயதாச ராஜபக்சவின் பரிந்துரையின் பேரில், இருவரும் நல்ல நடத்தையை வெளிப்படுத்தியதாக சிறைச்சாலைத் திணைக்கள அறிக்கையின் ஆதரவுடன் இருவருக்கும் ஜனாதிபதி பொது மன்னிப்பு வழங்கப்பட்டன.
+
+### Mathews has not retired to be ‘invited’ T20 squad - Wanindu
+
+*2024-01-16 10:40:00 - [adaderanalk](https://www.adaderana.lk/news/96435/mathews-has-not-retired-to-be-invited-t20-squad-wanindu-)*
+
+Sri Lanka’s T20 captain Wanindu Hasaranga stresses that he is not prepared to respond to questions regarding any rumours circulating on social media.
+
+Joining a press conference held in Colombo last evening (Jan. 15), Hasaranga emphasized that his first target as a captain and as a team is to triumph at the upcoming T20 World Cup which is just five months away.
+
+“We still have a small number like 08 matches before the T20 World Cup”, he added.
+
+Meanwhile, in response to a question raised by a journalist regarding whether he invited former captain Angelo Mathews to join the T20 squad, Hasaranga emphasized that Mathews is not a retired player and that therefore, there is no need to invite him to the team as he is already in it.
+
+“Angelo Mathews is not a retired player. We could see the performance of a well-experienced player like Mathews…the way he batted until the end of a match so easily. He has not retired to be invited [into the team]”, he claimed.
+
+### வரலாற்றில் முதன்முறையாக கரட் விலை உச்சம்
+
+*2024-01-16 10:02:29 - [tamilmirrorlk](https://www.tamilmirror.lk/மலையகம்/வரலாற்றில்-முதன்முறையாக-கரட்-விலை-உச்சம்/76-331563)*
+
+வரலாற்றில் இதுவரை இல்லாத வகையில் அனுராதபுர பொதுச் சந்தையில் ஒரு கிலோ கிராம் கரட் 2,000 ரூபாவுக்கு விற்பனை செய்யப்பட்டுள்ளது.
+
+மரக்கறிகளின் விலை உயர்வால் அனுராதபுரம், நுவரெலியா தம்புள்ளை பொதுச் சந்தைக்கு வந்த பெருந்தொகையான நுகர்வோர் மரக்கறிகளை கொள்வனவு செய்வதை தவிர்த்துள்ளனர்.
+
+ஏனைய நாட்களில் அநுராதபுரம், நுவரெலியா, தம்புள்ளை பொதுச் சந்தைக்கு அதிகளவான நுகர்வோர்கள் வருகை தந்திருந்த நிலையில் இன்றைய தினங்களில் வர்த்தகர்கள் மற்றும் நுகர்வோர்கள் சந்தைக்கு வருவதில் பெரும் வீழ்ச்சி காணப்பட்டது.
+
+தம்புத்தேகம பொருளாதார மத்திய நிலையத்தில் ஒரு கிலோ கிராம் கரட் மொத்த விலை 1500.00 ரூபாவாகவும் சில்லறை விலை 1700.00 ரூபாவாகவும்   மேற்கொள்ளப்பட்ட வினவுதலில் தம்புத்தேகம பொருளாதார மத்திய நிலையத்தின் தலைவர் சுனில் செனவிரத்ன தெரிவித்தார்.
+
+ஒரு கிலோ கிராம் போஞ்சி மொத்த விலை 1,000.00 ரூபாவாகவும் சில்லறை விலை 1,400.00 ரூபாவாகவும் உள்ளது. ஒரு கிலோ கிராம் பச்சை மிளகாயின் மொத்த விலை 1,000.00 ரூபாவாகவும், சில்லறை விலை  1,300.00 ரூபாவாகவும் அதிகரித்துள்ளதாக அவர் மேலும் தெரிவித்தனர் . R
+
+### IMF ன் உத்தியோகபூர்வ கலந்துரையாடல் இன்று
+
+*2024-01-16 10:00:51 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/IMF-ன்-உத்தியோகபூர்வ-கலந்துரையாடல்-இன்று/175-331562)*
+
+நாட்டிற்கு வருகை தந்துள்ள சர்வதேச நாணய நிதிய பிரதிநிதிகள்(IMF) குழு மற்றும் இலங்கை அதிகாரிகள் இடையிலான உத்தியோகபூர்வ கலந்துரையாடல் இன்று(16) ஆரம்பமாகவுள்ளது.
+
+6 பேர் அடங்கிய IMF பிரதிநிதிகள் குழு, மின்சார சபை, மத்திய வங்கி மற்றும் நிதி அமைச்சு உள்ளிட்ட நிறுவனங்களின் அதிகாரிகளுடன் கலந்துரையாடலில் ஈடுபடவுள்ளதாக நிதி இராஜாங்க அமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார்.
+
+இலங்கை மற்றும் சர்வதேச நாணய நிதியத்திற்கு இடையிலான வேலைத்திட்டத்தை மேலும் வலுப்படுத்துவது தொடர்பில் இதன்போது கலந்துரையாடப்படவுள்ளதாக இராஜாங்க அமைச்சர் தெரிவித்துள்ளார்.
+
+மேலும், அவர்கள் அண்மையில் ஜனாதிபதியை சந்தித்து, பொருளாதார மறுசீரமைப்பை மேற்கொண்டு இலங்கை குறிப்பிடத்தக்களவு முன்னேற்றம் அடைந்துள்ளமை தொடர்பில் தமது பாராட்டுகளை தெரிவித்திருந்தனர்.
+
+### Hospital services left crippled as 72 trade unions launch strike
+
+*2024-01-16 09:57:00 - [adaderanalk](https://www.adaderana.lk/news/96434/hospital-services-left-crippled-as-72-trade-unions-launch-strike-)*
+
+Members of 72 trade unions from the health sector have launched a 24-hour strike this morning (16 Jan.) over several demands.
+
+Accordingly, the strike action, led by the Health Service Trade Unions, represents a wide range of health sector professionals, including radiology and laboratory technicians, pharmacists and drug compounders, midwives, Public Health Inspectors, and entomology officers, and is slated to continue until 06:30 a.m. tomorrow (17 Jan.).
+
+Meanwhile, Health Minister Ramesh Pathirana has invited the trade unions for a discussion this evening, however, Convenor of the Union Ravi Kumudesh warned that the strike will continue in the event unnecessary measures are taken against the unions.
+
+Speaking with regards to the strike on Monday (15 Jan.), President of the Paramedical Services Front (PMSF) Upul Rohana stressed that because Minsiter Pathirana is yet to provide any discussion regarding their demands,  around 100,000 health workers including all paramedical services, hospital secretaries, administrative officers as well as health administrative assistants, minor staff and 75 other trade unions of the health staff will join together with this island-wide strike.
+
+“This action will completely disrupt the hospital service. The government should understand that it is not possible to maintain medical services only with the doctors”, Upul Rohana said.
+
+The trade union action was launched in protest of the government’s decision to increase the  Disturbance, Availability and Transport (DAT) allowance for doctors by Rs. 35,000.
+
+### வைத்தியசாலை நடவடிக்கைகளுக்கு முப்படைகள் ஆதரவு
+
+*2024-01-16 09:44:25 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/வைத்தியசாலை-நடவடிக்கைகளுக்கு-முப்படைகள்-ஆதரவு/175-331561)*
+
+நாடளாவிய ரீதியில் சுகாதார சேவை ஊழியர்களால் ஏற்பாடு செய்யப்பட்ட பணிப்புறக்கணிப்புக்கு மத்தியில் வைத்தியசாலை நடவடிக்கைகளுக்கு ஆதரவாக முப்படைகள் அணிதிரட்டப்பட்டுள்ளதாக பாதுகாப்பு படைகளின் பிரதானி ஜெனரல் சவேந்திர சில்வா தெரிவித்துள்ளார்.
+
+வைத்தியரில்லாத ஊழியர்கள் இன்று (16) காலை 8.00 மணி முதல் நாடளாவிய ரீதியில் பணிப்பகிஷ்கரிப்பை மேற்கொள்ள தீர்மானித்துள்ளதாக சுகாதார பிரிவை பிரதிநிதித்துவப்படுத்தும் தொழிற்சங்கங்கள் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+### நிறைந்து வழியும் சிறைச்சாலை
+
+*2024-01-16 09:43:04 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/நிறைந்து-வழியும்-சிறைச்சாலை/175-331560)*
+
+சிறைச்சாலைகளில் உள்ள சிறை அறைகளின் கொள்ளளவை விட அதிகள அளவில் கைதிகள் தடுத்து வைக்கப்பட்டுள்மை தெரியவந்துள்ளது.
+
+கைதிகளின்  எண்ணிக்கை 232 சதவீதமாக அதிகரித்துள்ளதாக சிறைச்சாலைகள் தொடர்பில் முன்னெடுக்கப்பட்ட கணக்காய்வு அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+அத்துடன், சிறைக் கைதிகளை பராமரிக்க ஆண்டுதோறும் 800 கோடி ரூபாய்க்கு மேல் அரச செலவீனங்கள் ஏற்படுவதாக அந்த அறிக்கையில் கூறப்பட்டுள்ளது.
+
+27 சிறைச்சாலைகளில் 187 கழிவறைகள் பற்றாக்குறையாக உள்ளதாகவும், தற்போதுள்ள 287 கழிவறைகள் பழுதடைந்த நிலையில் இருப்பதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+கைதிகளுக்கு பிணை வழங்கப்பட்டுள்ள போதிலும் பிணை நிபந்தனைகளை பூர்த்தி செய்ய முடியாமல் பெரும் எண்ணிக்கையிலான கைதிகள் சிறையில் உள்ளதாக அந்த அறிக்கை தெரிவிக்கிறது.
+
+அவ்வாறு சிறையில் உள்ள கைதிகளின் எண்ணிக்கை 1,795 என்றும் அந்த அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+மேலும், 2011 முதல் 2020 வரை இரண்டு சிறைச்சாலைகளில் ஏற்பட்ட பல்வேறு பிரச்சனைகளால் பல கட்டடங்கள் அழிக்கப்பட்டுள்ளதாக அந்த அறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+### ‘யுக்திய’ நடவடிக்கை: மேலும் 877 சந்தேக நபர்கள் கைது
+
+*2024-01-16 09:38:07 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-நடவடிக்கை-மேலும்-877-சந்தேக-நபர்கள்-கைது/175-331559)*
+
+நேற்ற (15) நள்ளிரவு 12.30 மணியுடன் நிறைவடைந்த 24 மணித்தியால காலப்பகுதியில் 877 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+இதன் போது 475 கிராம் ஹெரோயின், 501 கிராம் ஐஸ் மற்றும் 126 போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+### ’’ஆகாய விமானம் தாங்கிய போர் விமானம்’’
+
+*2024-01-16 09:34:53 - [tamilmirrorlk](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆகாய-விமானம்-தாங்கிய-போர்-விமானம்/71-331558)*
+
+யாழ்ப்பாணம் - வல்வை உதயசூரியன் கடற்கரையில்  நேற்றைய தினம் திங்கட்கிழமை நடைபெற்ற மாபெரும்  பட்டப் போட்டியில் 60ற்கு மேற்பட்ட பட்டங்கள் வானில் பறக்கவிடப்பட்டு இருந்தன.
+
+போட்டியில் முதலாம் இடத்தினை, "ஆகாய விமானம் தாங்கிய போர் விமானம்" என்ற பட்டம் பெற்றது. அதற்கான பரிசினை அந்த பட்டத்தினை வடிவமைத்த  வினோதன் பெற்றுக்கொண்டார்.
+
+இரண்டாம் இடத்தினை " விண்வெளியில் நிலை நிறுத்திய செயற்கை கோள்" என்ற பட்டம் பெற்றது. அதற்கான பரிசினை , அந்த பட்டத்தினை வடிவமைத்த பிரசாந்த் பெற்றுக்கொண்டார்.
+
+மூன்றாம் இடத்தினை " ஏலியன்ஸ் மர்ம தாக்குதல் விமானம்" என்ற பட்டம் பெற்றது. அதற்கான பரிசினை அந்த பட்டத்தினை வடிவமைத்த கம்ஸன் பெற்றுக்கொண்டார்.  R
 
 ### රෝහල්වලට ත්‍රිවිධ හමුදාව යොදවයි
 
@@ -41,6 +373,68 @@ As of **2024-01-16 11:27:58**
 olombo, Jan 16 (Daily Mirror) - Chief of Defence Staff General Shavendra Silva said that the tri-forces have been mobilized to support hospital operations amid the island-wide strike organized by healthcare sector employees.
 
 According to the trade unions representing the health sector, non-doctor employees have decided to conduct an island-wide strike today (16) starting from 8.00 am.
+
+### போதைப் பொருளுக்கு அடிமையான கிராம அலுவலர்
+
+*2024-01-16 09:18:46 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/போதைப்-பொருளுக்கு-அடிமையான-கிராம-அலுவலர்/175-331556)*
+
+முல்லைத்தீவு - புதுக்குடியிருப்பு பிரதேச செயலாளர் பிரிவுக்குட்பட்ட பகுதியில் கடமையாற்றி வருகின்ற கிராம அலுவலர் ஒருவர் உள்ளிட்ட இரண்டு நபர்கள் போதைப் பொருளுக்கு அடிமையானவர்கள் என புதுக்குடியிருப்பு பொலிஸாரால் இன்று (15) கைது செய்யப்பட்டுள்ளனர்.
+
+குறித்த கிராம அலுவலர்  தொடர்ச்சியாக பல்வேறு தரப்பினர்களுக்கும் போதை பொருட்களை வியாபாரம் செய்து வந்ததாக மக்களால் பொலிஸாருக்கு இரகசிய தகவல் மூலம் அறிவிக்கப்பட்டிருக்கின்றது.
+
+குறிப்பாக குறித்த கிராம அலுவலர் கெரோயின் ஐஸ்  உள்ளிட்ட பல்வேறு போதை பொருட்களை பல இளைஞர்கள் ஊடாக பல்வேறு தரப்பினருக்கும் விற்பனை செய்து வருவதோடு, அவரும் குறித்த போதைப் பொருள் பாவனைக்கு அடிமையாக  இருந்துள்ளார்.
+
+இந்நிலையில் நேற்றைய தினம் (15) குறித்த போதைப் பொருளுக்கு அடிமையான கிராம அலுவலர் மற்றும் இவருடன் இணைந்து குறித்த செயற்பாடுகளில் ஈடுபட்டு வந்த மேலும் ஒருவரையும் கைது செய்துள்ளனர்.
+
+இவர்களை முல்லைத்தீவு மாவட்ட வைத்தியசாலையில் மருத்துவ பரிசோதனைகளை மேற்கொண்ட போது குறித்த நபர்கள் போதை பொருளுக்கு அடிமையாகியிருந்தமை அறியப்பட்டிருக்கின்ற நிலைமையில், குறித்த இருவரும் கைது செய்யப்பட்டு பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டு விசாரிக்கப்பட்டு வருகின்றனர்.
+
+குறித்த நபர்களை நாளைய தினம்(16) நீதிமன்றத்தில் முன்னிலைப்படுத்த உள்ளதாக பொலிஸார் தெரிவித்தனர். R
+
+### Tri-forces personnel mobilized to support hospital operations amid island-wide strike
+
+*2024-01-16 09:16:00 - [adaderanalk](https://www.adaderana.lk/news/96433/tri-forces-personnel-mobilized-to-support-hospital-operations-amid-island-wide-strike)*
+
+The Ministry of Defence says that tri-forces personnel have been mobilized to support hospital operations amid the island-wide strike launched by the health sector employees.
+
+It said that tri-forces personnel were deployed to various government hospitals across the island following a request from the Ministry of Health.
+
+Meanwhile the Sri Lanka Army (SLA) says troops have been deployed at various government hospitals across the country to ensure the uninterrupted delivery of essential health services today (16 Jan), under the guidance of the Commander of the Army Lieutenant General Vikum Liyanage.
+
+The affected hospitals include prominent health institutions such as Colombo National Hospital, Kandy General Hospital, Kalubowila Teaching Hospital, Peradeniya Teaching Hospital, Matale District Hospital, Kurunegala Teaching Hospital and the Government Hospitals in Monarahala, Nuwara Eliya, Badulla, Hambanthota, Balangoda, Thissamahara, Debarawewa, Balangoda, Eheliyagoda, Diyathalawa, Matara, Avissawella and several others.
+
+The deployment is aimed at maintaining the smooth operation of healthcare facilities during this critical time, the Sri Lanka Army said.
+
+Under the supervision of the respective Security Forces Commanders, Army personnel are actively stationed at these hospitals to lend support and ensure that healthcare services continue without disruptions. Troops also remain on standby for additional troop deployment in case of emergencies, it said.
+
+Around 72 trade unions in the healthcare service excluding doctors have launched a 24-hour token strike from 6.30 a.m. today (16) while the trade unions have decided to carry out only essential duties.
+
+The trade unions are launching this action demanding that the allowance increase of Rs. 35,000 provided to the doctors be granted to them as well.
+
+However, it is said that this morning, Health Minister Dr. Ramesh Pathirana has also invited the striking trade unions to a discussion on the matter.
+
+Meanwhile Acting Finance Minister Shehan Semasinghe says that he is to meet Health Minister Dr. Ramesh Pathirana later this evening to discuss the concerns of the health sector and find solutions.
+
+### Govt. to discuss concerns of health sector and find solutions
+
+*2024-01-16 09:00:00 - [adaderanalk](https://www.adaderana.lk/news/96432/govt-to-discuss-concerns-of-health-sector-and-find-solutions)*
+
+Acting Finance Minister Shehan Semasinghe says that he is to meet Health Minister Dr. Ramesh Pathirana later this evening to discuss the concerns of the health sector and find solutions.
+
+Around 72 trade unions in the health service excluding doctors have launched a 24-hour token strike from 6.30 a.m. today (16).
+
+The trade unions are launching this action demanding that the allowance increase of Rs. 35,000 provided to the doctors be given to them as well while the health unions have also decided to carry out only essential duties.
+
+However, it is said that this morning, Health Minister Ramesh Pathirana has also invited the striking trade unions to a discussion on the matter.
+
+### Operation ‘Yukthiya’: 877 more drug suspects arrested
+
+*2024-01-16 08:58:00 - [adaderanalk](https://www.adaderana.lk/news/96431/operation-yukthiya-877-more-drug-suspects-arrested)*
+
+A total of 877 suspects have been arrested during a 24-hour period ending at 12.30 am today (16 Jan.), as part of the island-wide anti-drug operation ‘Yukthiya’, says the Ministry of Public Security.
+
+It said that 475grams of heroin, 501 grams of crystal methamphetamine (Ice), 07kilograms and 900grams of cannabis, 3,604 cannabis plants and 126 narcotic pills were taken into custody during this period.
+
+Further investigations are currently underway to detain four of the 877 suspects arrested, police reported, adding that another 14 arrestees have been sent to rehabilitation centres.
 
 ### 24 දා පාර්ලිමේන්තුවේ වාරාවසාන කරයි
 
@@ -80,6 +474,50 @@ According to the trade unions representing the health sector, non-doctor employe
 
 සමුගත්ත ක්‍රීඩකයෙක් කණ්ඩායමට නැවත කැඳෙව්වත් ඔහු එතරම් හොඳින් කණ්ඩායමේ ක්‍රීඩා කරයි කියලා මම හිතන්නෙ නෑ. මැතිව්ස් කියන්නේ ටෙස්ට්, එක් දින හා විස්සයි 20 අංශ තුනම තවමත් ක්‍රීඩා කරන ක්‍රීඩකයෙක්. ඔහු එල්.පී.එල්. ක්‍රිකට්  තරගාවලියේදීත් හොඳින් දක්ෂතා දැක්වූවා."
 
+### No snow: Tourists cancel holidays as Indian ski resorts run dry
+
+*2024-01-16 07:12:00 - [adaderanalk](https://www.adaderana.lk/news/96430/no-snow-tourists-cancel-holidays-as-indian-ski-resorts-run-dry)*
+
+A lack of snowfall has led to empty ski resorts and holiday cancellations in the Indian Himalayas, with scientists linking the “unusual” winter to the El Nino weather phenomenon.
+
+The dry spell in Kashmir has pushed skiers to skip the popular resort of Gulmarg, one of the highest in the world, and left hotels in the scenic region waiting for fresh falls to draw tourists to the panoramic views of snow-capped peaks.
+
+Scientists said that this winter’s conditions in northern India have not been seen for about a decade, marked by the absence of snowfall in the mountains and biting cold made worse by thick fog in the plains.
+
+“Fifty percent of the season is already gone,” said Farhat Naik, 35, a Gulmarg snowboard instructor, ruing at the sight of dry, barren land that would normally be covered in a knee-deep layer of snow.
+
+“We are now hoping for snowfall in February first week,” he said, adding that all his European and American clients have cancelled their trips due to a lack of snow - a blow to the tourism and agriculture focused economy of the region.
+
+Travel industry executives in the neighbouring states of Himachal Pradesh and Uttarakhand also complained of cancellations.
+
+Bookings have dropped to 20% for Blue Poppy Resort in the ski resort of Auli, in Uttarakhand, its owner Kushaal Sangwan said. “Our cancellations have jumped and people cancel (just) days before the booking if there is no snow.”
+
+Winter snow and rain in northern India, including the Himalayas, is brought by a weather pattern known as the western disturbances - frequent extra-tropical storms that originate in the Mediterranean Sea.
+
+There are usually many such storms during winter but they have been largely absent this season, said R.K. Jenamani, a senior scientist at the India Meteorological Department (IMD). “When there’s no weather system, how can there be (snow),” he said.
+
+The disappearance of western disturbances is linked to changing wind patterns and rising temperatures due to the active El Nino weather phenomenon and also climate change, said Gufran Beig, a former chief scientist at the Indian Institute of Tropical Meteorology.
+
+The current weather was very unusual for this time, Beig said. “It’s January and it is still very cold in Delhi ... there is excess moisture in the air but there’s also no snow ... It’s been one of the most polluted and prolonged stretches of winter.”
+
+### Misty conditions to linger in many areas this morning
+
+*2024-01-16 06:56:00 - [adaderanalk](https://www.adaderana.lk/news/96429/misty-conditions-to-linger-in-many-areas-this-morning)*
+
+The Department of Meteorology says mainly fair weather is expected to prevail over the island today (Jan.16).
+
+Misty conditions are likely in parts of the Western, Sabaragamuwa, Central, Uva, North Western, Southern and North-central provinces in the morning.
+
+Ground frost is possible at some places in Nuwara-Eliya District during the early hours of the morning.
+
+Mainly fair weather will prevail in the sea areas around the island as well.
+
+Winds will be north-easterly and wind speed will be 20-30 kmph.
+
+Wind speed may increase up to 45 kmph at times in the sea areas off the coasts extending from Colombo to Mannar via Puttalam and from Pottuvil to Matara via Hambantota.
+
+The sea areas off the coasts extending from Colombo to Mannar via Puttalam and from Pottuvil to Matara via Hambantota can be fairly rough at times.
+
 ### Health Sector Gripped by Strikes as 72 Professions Walk Out
 
 *2024-01-16 06:23:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/health-sector-gripped-by-strikes-as-72-professions-walk-out/)*
@@ -101,6 +539,18 @@ The widespread strikes raise concerns about potential disruptions in healthcare 
 Patients seeking non-emergency care may face delays or cancellations, while critical services could be stretched thin.
 
 BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
+
+### கைக்குண்டு, கத்தியுடன் இருவர் கைது
+
+*2024-01-16 04:34:51 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கைக்குண்டு-கத்தியுடன்-இருவர்-கைது/175-331555)*
+
+திருட்டு வழக்குகளில் தலைமறைவாகியிருந்த யாழ். இளவாலை நாதவோலை பகுதியைச் சேர்ந்த 37 வயதான நபரை கைது செய்ய சென்ற போது சந்தேக நபரிடம் இருந்து கைக்குண்டு மற்றும் கத்தி என்பன கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இதன்போது சந்தேகநபரிடம் முன்னெடுத்த விசாரணைகளின் அடிப்படையில் மேலும் ஒரு சந்தேகநபர் சான்று பொருட்களுடன் கைது செய்யப்பட்டுள்ளார்.
+
+இதனடிப்படையில் திருடப்பட்ட இலத்திரனியல் மற்றும் சமையல் பொருட்களை சாவகச்சேரி பகுதியில் உள்ள ஒருவருக்கு விற்பனை செய்ததாக தெரிவித்தார்.
+
+சந்தேக நபரிடம் இலத்திரனியல் உபகரணங்கள், சமையல் உபகரணங்களை கொள்வனவு செய்த 25 வயது மதிக்கத்தக்க இளைஞரையும் பொலிஸார் கைது செய்தனர்.
 
 ### Hayleys Solar surpasses 150MWp as Sri Lanka’s premier rooftop solar provider
 
@@ -1535,439 +1985,3 @@ Thondaman said the goal of the reforms was to create a more sustainable water se
 ලොව පුරා පලස්තීන සරණාගතයින් කීදෙනෙකු වාසය කරනවා ද? පලස්තීන ඩයස්පෝරාව කොතරම් විශාල ද?
 
 ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
-
-### Health sector employees to go on strike tomorrow
-
-*2024-01-15 10:22:00 - [adaderanalk](https://www.adaderana.lk/news/96411/health-sector-employees-to-go-on-strike-tomorrow)*
-
-The health sector employees’ trade unions will launch another 24-hour token strike starting from 06.30 a.m. tomorrow (Jan. 16), in protest of the government’s decision to increase the Disturbance, Availability and Transport (DAT) allowance for doctors by Rs. 35,000.
-
-President of the Paramedical Services Front (PMSF) Upul Rohana stressed that the Minister of Health has not provided any discussion regarding their demands.
-
-He mentioned that therefore, around 100,000 health workers including all paramedical services, hospital secretaries, administrative officers as well as health administrative assistants, minor staff and 75 other trade unions of the health staff will join together with this island-wide strike.
-
-“This action will completely disrupt the hospital service. The government should understand that it is not possible to maintain medical services only with the doctors”, Upul Rohana said.
-
-Meanwhile, the President of the Academy of Health Professionals Ravi Kumudesh expressed that if military forces are used to suppress the health workers’ strike, they will continue to carry out the trade union action even further.
-
-### ’’பௌத்தத்தை சிதைப்போருக்கு எதிராக சட்டம் இயற்றவும்''
-
-*2024-01-15 10:08:12 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பௌத்தத்தை-சிதைப்போருக்கு-எதிராக-சட்டம்-இயற்றவும்/175-331521)*
-
-அண்மைக்காலமாக பௌத்த மதம் தொடர்பில் தவறான சித்தாந்தங்களை பரப்பும் குழுக்களின் சம்பவங்களை அடுத்து, இலங்கையிலுள்ள மூன்று பௌத்த பீடங்களின் பிரதான பீடாதிபதிகள் (மகாநாயக்க தேரர்கள்) ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு கூட்டாக இணைந்து கடிதம் ஒன்றை அனுப்பியுள்ளனர்.
-
-பௌத்த தத்துவம் மற்றும் கலாசார விழுமியங்களுக்கு ஏற்பட்டுள்ள அச்சுறுத்தல் குறித்து கவலை தெரிவித்த பிரதம பீடாதிபதிகள், இந்தக் குழுக்களின் செயற்பாடுகளை இனியும் கண்டுகொள்ளப்படாத சம்பவங்களாக ஒதுக்கிவிட முடியாது என வலியுறுத்தியுள்ளனர்.
-
-மகாநாயக்க தேரர்கள் தனிப்பட்ட நிகழ்வுகளுக்கு அப்பால் செல்ல வேண்டியதன் அவசியத்தை வலியுறுத்தியதோடு, 'தர்ம சிதைவுகள்' மற்றும் 'சாசன சிதைவுகள்' என குறிப்பிடப்படும் பௌத்த கோட்பாடுகள் மீண்டும் மீண்டும் சிதைவதைத் தடுப்பதற்கான சட்ட ஏற்பாடுகளை உருவாக்குமாறு வலியுறுத்தினர்.
-
-பௌத்த சமூகத்தினுள் சமூகக் குழப்பங்களை ஏற்படுத்தி சமூக ஊடகங்கள் ஊடாக இவ்வாறான திரிபுபடுத்தல்களை ஊக்குவிக்கும் நபர்களை எதிர்த்துப் போராடுவதற்கான சட்ட நடவடிக்கைகளை உருவாக்க வேண்டிய அவசரத்தை அவர்கள் எடுத்துரைத்தனர்.
-
-### உள்நாட்டு பிரச்சினைகளிற்குதீர்வை  கண்ட பின்னர் சர்வதேச கடற்பரப்பை பாதுகாக்க செல்லுங்கள் - கர்தினால் மல்கம் ரஞ்சித்
-
-*2024-01-15 09:45:00 - [virakesarilk](https://www.virakesari.lk/article/173975)*
-
-அரசாங்கம் சர்வதேச கடற்பரப்பினை பாதுகாப்பதற்கு முன்னர் உள்நாட்டில் காணப்படும் பிரச்சினைகளிற்கு தீர்வை காணவேண்டும் என கர்தினால் மல்கம் ரஞ்சித் கருத்து வெளியிட்டுள்ளார்.
-
-சர்வதேச கடற்பரப்பிற்கு கப்பலை அனுப்பும் அரசாங்கத்தின் தீர்மானத்தை விமர்சித்துள்ள அவர் உள்நாட்டில் மக்கள் எதிர்கொள்ளும் பிரச்சினைகள் புறக்கணிக்கப்பட்டுள்ளன  என குறிப்பிட்டுள்ளார்.
-
-பொரளைதேவலாயத்தில் இரண்டு வருடங்களிற்கு முன்னர் கைக்குண்டு மீட்கப்பட்டதை குறிப்பதற்காக இடம்பெற்ற விசேட ஆராதனையின்போது இதனை தெரிவித்துள்ள அவர் இரண்டு வருடங்கள் கடந்துள்ள போதிலும் கைக்குண்டினை வைத்த உண்மையான குற்றவாளி யார் என்பதை கண்டுபிடிப்பதற்கு அதிகாரிகள் தவறிவிட்டனர் கர்தினால் மல்கம் ரஞ்சித் தெரிவித்துள்ளார்.
-
-உயிர்த்தஞாயிறுதாக்குதல்களை மேற்கொண்டவர்கள் யார் ஊடகங்களை  துன்புறுத்தியவர்கள் யார் என்பதை கண்டுபிடிப்பதற்கு அதிகாரிகள் தவறியுள்ளனர் எனவும் அவர் தெரிவித்துள்ளார்.
-
-உயிர்த்த ஞாயிறுதாக்குதலின் பின்னணியில் உள்ளவர்கள் நீதியின் முன்நிறுத்தப்படுவார்களா என்பதை பார்ப்பதற்காக நாங்கள் காத்திருக்கின்றோம் பிரகீத்எக்னலிகொடவின் கொலைக்கு யார் காரணம் என்பதும் லசந்தவை யார் கொலை செய்தார்கள் என்பதும் எவருக்கும் இதுவரை தெரியாது எனவும் அவர் தெரிவித்துள்ளார்.
-
-அனைத்தும் மூடிமறைக்கப்பட்டுள்ளது அதிகாரிகள் உள்நாட்டு பிரச்சினைகளிற்குதீர்வை காண்பதற்கு பதில் சர்வதேச கடற்பரப்பை பாதுகாப்பதற்கே முன்னுரிமை வழங்குகின்றனர் எனவும் அவர் தெரிவித்துள்ளார்.
-
-2024ம் ஆண்டு தேர்தல்களி;ன் ஆண்டு என அறிகின்றோம் இந்த தடவை சரியான தலைவர்களிடம் மக்கள் ஆட்சியை வழங்குவார்கள் என எதிர்பார்க்கின்றோம் எனவும் அவர் தெரிவித்துள்ளார்.
-
-### Sri Lanka Navy Seizes Indian Poaching Trawler
-
-*2024-01-15 09:33:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/sri-lanka-navy-seizes-indian-poaching-trawler/)*
-
-COLOMBO (News 1st): The Sri Lanka Navy conducted a special operation to chase away Indian poaching trawlers from Sri Lankan waters on the evening of 14th January 2024.
-
-The operation led to the seizure of 01 Indian trawler with 10 Indian fishermen poaching in Sri Lankan waters north of Point Pedro, Jaffna.
-
-The Navy conducts regular patrols and operations in Sri Lankan waters to curb illegal fishing practices by foreign fishing trawlers, taking into account the consequences of these practices on the livelihood of local fishermen and marine resources of the country.
-
-In continuation of these efforts, the Northern Naval Command deployed an Inshore Patrol Craft to chase away a cluster of Indian poaching trawlers, after having spotted they were engaging in illegal fishing in Sri Lankan waters on 14th January.
-
-In this operation, naval personnel held 01 Indian poaching trawler with 10 Indian fishermen, continued to remain in island waters off Point Pedro.
-
-The apprehended Indian fishermen (10) and the poaching trawler (01) were brought to the Kankasanthurai harbour and they will be handed over to the Mailadi Fisheries Inspector for onward legal action.
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### Operation Yukthiya Nets Over 950 Suspects in 24-Hour Blitz
-
-*2024-01-15 09:30:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/operation-yukthiya-nets-over-950-suspects-in-24-hour-blitz/)*
-
-COLOMBO (News 1st);  Operation Yukthiya saw the apprehension of a staggering 952 suspects within the past 24 hours, ending their illegal activities at 12:30 AM today.
-
-The Ministry of Public Security confirmed the arrests and reported issuing detention orders to 11 suspects.
-
-Additionally, Operation Yukthiya facilitated the rehabilitation of 10 individuals struggling with drug addiction, directing them towards treatment and recovery.
-
-The operation further dealt a critical blow to organized crime, successfully capturing 29 individuals included on the watchlist of the Police Narcotics Bureau and Special Bureau.
-
-Authorities recovered a substantial amount of narcotics during the operation, with ice constituting the majority of the seizures.
-
-Over 2 kilograms of the highly addictive drug were confiscated.
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### Talk of The Town | Rebuilding SL : SJB’s blueprint | MP Mayantha Dissanayake | 15th January 2024
-
-*2024-01-15 09:27:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/talk-of-the-town-rebuilding-sl-sjb%e2%80%99s-blueprint-mp-mayantha-dissanayake-15th-january-2024/)*
-
-Talk of The Town | Rebuilding SL : SJB’s blueprint | MP Mayantha Dissanayake | 15th January 2024
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### Liquor Shops Closed in Parts of Sri Lanka for Thai Pongal
-
-*2024-01-15 09:25:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/liquor-shops-closed-in-parts-of-sri-lanka-for-thai-pongal/)*
-
-COLOMBO (News 1st); Liquor shops in Sri Lanka's Badulla and Nuwara Eliya districts, along with those in the entire Northern Province, will remain closed today, Monday, January 15th, in observance of the Thai Pongal festival.
-
-The announcement comes from the Department of Excise, aiming to ensure a respectful and peaceful environment for celebrating the important harvest festival.
-
-"All liquor shops within the Badulla district, with the exception of the Ridhimaliyadda and Mahianganaya divisional secretariat divisions, will be closed today," stated the Department of Excise.
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### Sri Lanka To Open Investment Doors at World Economic Forum
-
-*2024-01-15 09:20:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/sri-lanka-to-open-investment-doors-at-world-economic-forum/)*
-
-COLOMBO (News 1st); The Annual Meeting of the World Economic Forum Annual Meeting will get underway in Davos, Switzerland on Monday (15).
-
-Sri Lankan President Ranil Wickramasinghe arrived in Davos yesterday to participate in the prestigious World Economic Forum (WEF), a pivotal gathering of world leaders, international organizations, and industry titans shaping the global agenda.
-
-Beyond the WEF's main conference, President Wickramasinghe will lead Sri Lanka's presence at the Green Tech Forum, organized by the Swiss-Asian Chamber of Commerce.
-
-Delivering the keynote speech titled "Paving the way to an energy secure Sri Lanka," the President is expected to highlight the nation's commitment to sustainable development and green energy solutions.
-
-Furthermore, Sri Lanka's investment potential will be showcased at a business roundtable conference co-organized by the Sri Lanka Investment Board and the Swiss Asian Chamber of Commerce.
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### Sri Lanka labour ministry to import SUV, health double cabs
-
-*2024-01-15 09:18:00 - [economynextcom](https://economynext.com/sri-lanka-labour-ministry-to-import-suv-health-double-cabs-147286/)*
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has allowed the import of vehicles which are banned, including a sports utility vehicle and double cabs, for several ministries and state agencies, in a gazette notice.
-
-Ministry of Labor and Foreign Employment will be allowed to import an SUV, the Ministry of Health 21 double cabs, and two buses for the Ministry of Education.
-
-Sri Lankan Airlines would be allowed to import three economy classes ramp coaches. Sri Lanka has seen a surge in tourism.
-
-Sri Lanka has imposed import controls during the tenure of President Gotabaya Rajapaksa after his economic bureaucrats cut rates with printed money to push up growth (target potential output).
-
-The import control law was enacted in 1969 by the economic advisors of the Prime Minister Dudley Senanayake.
-
-In 1968, Sri Lanka’s output was pushed up to 8.2 percent with inflationary central bank operations (mostly rural credit re-finance at the time) and there were BOP deficits for two years running.
-
-Sri Lanka also started to have IMF programs in the 1960s. The 1960s also saw increased use of statistics to justify inflationary central bank operations in the US.
-
-In 1971 the Bretton Woods collapsed and Sri Lanka went into a ‘closed economy’.
-
-In order to operate a reserve collecting central bank with rate cutting powers, Sri Lanka imposes both trade and capital controls, which intensify in periods of mis-targeting rates (rate cuts enforced with reverse repo operations). (Colombo/Jan15/2023)
-
-### Hospitals Brace for Disruptions as Healthcare Workers Plan To Strike Tomorrow
-
-*2024-01-15 09:11:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/hospitals-brace-for-disruptions-as-healthcare-workers-plan-to-strike-tomorrow/)*
-
-COLOMBO (News 1st); Tensions are brewing in the Sri Lankan healthcare sector as several supplementary medical professional associations have announced a trade union action effective tomorrow, potentially leaving crucial services unattended.
-
-The move stems from a recent decision by the President to increase doctors' allowances by Rs. 35,000, a decision that other healthcare professionals feel unfairly excludes them.
-
-Public Health Inspectors Union of Sri Lanka Secretary, Shanaka Bopitiya, confirmed the planned action, stating that all professional associations in the health sector, except for doctors, will participate.
-
-This involves a wide range of personnel, including nurses, paramedical staff, and public health inspectors, potentially impacting various healthcare services across the country.
-
-They demand the same increase in their allowances, arguing that their contribution to the healthcare system is equally vital.
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### IMF Staff to hold key discussions with Sri Lanka
-
-*2024-01-15 08:59:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/imf-staff-to-hold-key-discussions-with-sri-lanka/)*
-
-COLOMBO (News 1st); A six-member delegation from the International Monetary Fund (IMF) will kick off a crucial discussions with key institutions and authorities about Sri Lanka's economic program.
-
-State Finance Minister Shehan Semasinghe confirmed the delegation's visit, stating they will hold talks with various stakeholders, including the Central Bank, the Electricity Board, and the Ministry of Finance itself.
-
-Minister Semasinghe further revealed that the meetings will focus on "further strengthening the IMF-supported program for Sri Lanka."
-
-BREAKING: Red Sea crisis heats up as Houthi missile hits US cargo ship
-
-### ‘Yukthiya’: 952 drug suspects arrested within 24-hours
-
-*2024-01-15 08:52:00 - [adaderanalk](https://www.adaderana.lk/news/96410/yukthiya-952-drug-suspects-arrested-within-24-hours)*
-
-A total of 952 suspects have been arrested during a 24-hour period ending at 12.30 am today (15), as part of the island-wide anti-drug operation ‘Yukthiya’, says the Ministry of Public Security.
-
-It said that 276 grams of heroin, 2.98 kg of crystal methamphetamine (Ice) and 4,310 narcotic pills were taken into custody during this period.
-
-### Opposition Leader’s Thai Pongal message
-
-*2024-01-15 08:33:00 - [adaderanalk](https://www.adaderana.lk/news/96409/opposition-leaders-thai-pongal-message)*
-
-In his Thai Pongal message, Opposition Leader Sajith Premadasa urged Sri Lankans everywhere to embrace the essential blessings bestowed by the natural world and embark on a new path, a transformative journey towards making our nation the world’s foremost.
-
-He said that Thai Pongal, often recognized as a festival bringing positive vibrations to the spiritual way of life in the Hindu community, offers a splendid opportunity to express gratitude for the intricate connection between humans and the natural world.
-
-“Following a challenging year marked by the nation’s economic struggles, we now face another year filled with various issues,” Premadasa said, adding that overcoming these obstacles is imperative, transcending barriers of caste, religion, color, or tribe.
-
-With great pleasure, I extend my heartfelt wishes on this auspicious occasion of Thai Pongal, a celebration observed globally by Hindus and Sri Lankans alike, as a time of gratitude to nature.
-
-Our connection with nature has been an integral part of human life since the dawn of civilization. Throughout ancient times, people have revered the sun god, attributing the life-giving force to its radiant presence. The Thai Pongal festival stands out as a unique celebration that pays homage to the Sun God and symbolizes the profound faith people place in this celestial entity. Thai Pongal, often recognized as a festival bringing positive vibrations to the spiritual way of life in the Hindu community, offers a splendid opportunity to express gratitude for the intricate connection between humans and the natural world.
-
-Presenting the freshly harvested produce to the Sun God during this festival is believed to usher in blessings for the upcoming year. Following a challenging year marked by the nation’s economic struggles, we now face another year filled with various issues. Overcoming these obstacles is imperative, transcending barriers of caste, religion, color, or tribe. On this day of Thai Pongal, I urge Sri Lankans everywhere to embrace the essential blessings bestowed by the natural world and embark on a new path, a transformative journey towards making our nation the world’s foremost.
-
-### Thai Pongal marks dawn of a prosperous new year in which expectations are fulfilled - PM
-
-*2024-01-15 08:22:00 - [adaderanalk](https://www.adaderana.lk/news/96408/thai-pongal-marks-dawn-of-a-prosperous-new-year-in-which-expectations-are-fulfilled-pm)*
-
-Prime Minister Dinesh Gunawardena says that ’Thaipongal’, which is a national festival showcasing the excellence of Hindu culture that inherits an agricultural economy, embodies the core values based on peace, unity, and compassion.
-
-This harvest festival, during which the Tamil farmers, having a belief in the traditional lifestyle that is bound up with nature, extend their gratitude to the sun for a rich harvest, will be a reflection of the lifeblood of the nation, he said.
-
-It will be a motivation for the active concept of food security and rural revitalization in the face of the current situation, the PM said in his Thai Pongal message.
-
-’Thaipongal’, which is a national festival showcasing the excellence of Hindu culture that inherits an agricultural economy, embodies the core values based on peace, unity, and compassion.
-
-This harvest festival, during which the Tamil farmers, having a belief in the traditional lifestyle that is bound up with nature, extend their gratitude to the sun for a rich harvest, will be a reflection of the lifeblood of the nation.
-
-It will be a motivation for the active concept of food security and rural revitalization in the face of the current situation.
-
-I extend my greetings to the people all over the world who are celebrating the Thai Pongal festival, marking the dawn of a prosperous new year in which expectations are fulfilled.
-
-### ஒருசீனா கொள்கையில் இலங்கை உறுதி – அலி சப்ரி
-
-*2024-01-15 08:21:00 - [virakesarilk](https://www.virakesari.lk/article/173974)*
-
-தாய்வானின் ஜனாதிபதி தேர்தலில் அந்த நாட்டின் இறைமையை வலியுறுத்தும் வில்லியம் லாய் சிங் வெற்றிபெற்றுள்ள நிலையிலேயே இலங்கை மீண்டும் தனது நிலைப்பாட்டை தெளிவுபடுத்தியுள்ளது.
-
-தாய்வானில் தேர்தல்கள் அமைதியாக நடந்து முடிந்துள்ளமை மகிழ்ச்சியளிக்கின்றது ஒரு சீனா கொள்கைகளை முன்னிறுத்துவதில் பின்பற்றுவதில் தொடர்ந்தும் உறுதியாக உள்ளது என வெளிவிவகார அமைச்சர் அலிசப்ரி தெரிவித்துள்ளார்.
-
-### Thai Pongal serves as a reminder of the value of equality - President
-
-*2024-01-15 07:58:00 - [adaderanalk](https://www.adaderana.lk/news/96407/thai-pongal-serves-as-a-reminder-of-the-value-of-equality-president)*
-
-In his Thai Pongal message, President Ranil Wickremesinghe urged everyone to come together with determination, akin to the unity of siblings, to realize new hopes for the country’s future.
-
-He stated that beyond its agricultural essence, Thai Pongal heralds a fresh start, a time to relinquish the past and welcome new opportunities with unwavering optimism.
-
-Rooted in the belief of the pivotal role of agriculture in rejuvenating Sri Lanka’s economy through the government’s agricultural modernization program, the dawn of Thai symbolizes the inception of a promising journey filled with hope and prosperity, he said.
-
-Thai Pongal also serves as a reminder of the value of equality, the President said, while also wishing the Tamil community worldwide a prosperous and joyous Thai Pongal celebration.
-
-Thai Pongal, a vibrant Hindu harvest festival celebrated by the Tamil Community worldwide, beckons us into a realm of joy and gratitude, signifying not only the bountiful harvest but also the promise of new beginnings. Embraced within the auspicious month of Thai (January) in the Tamil calendar, this celebration harmonizes with the Sun’s northward journey, marking the onset of the harvest season.
-
-Originating around a thousand years ago during the Chola dynasty, this festival commemorates the first harvest of the year. Its purpose is to express gratitude to those who contributed to the harvest.
-
-Beyond its agricultural essence, Thai Pongal heralds a fresh start, a time to relinquish the past and welcome new opportunities with unwavering optimism. Rooted in the belief of the pivotal role of agriculture in rejuvenating Sri Lanka’s economy through the government’s agricultural modernization program, the dawn of Thai symbolizes the inception of a promising journey filled with hope and prosperity.
-
-Thai Pongal also serves as a reminder of the value of equality. I urge everyone to come together with determination, akin to the unity of siblings, to realize new hopes for the country’s future.
-
-I wish the Tamil community worldwide a prosperous and joyous Thai Pongal celebration.
-
-### Misty conditions expected during the morning
-
-*2024-01-15 07:48:00 - [adaderanalk](https://www.adaderana.lk/news/96406/misty-conditions-expected-during-the-morning)*
-
-A few showers may occur in Eastern and Southern provinces today, according to the Meteorology Department.
-
-Mainly fair weather will prevail in the other areas of the island.
-
-Misty conditions can be expected in most provinces in the island during the morning, it said.
-
-### ஜனாதிபதியின் தைத் திருநாள் வாழ்த்து செய்தி
-
-*2024-01-15 02:29:58 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியின்-தைத்-திருநாள்-வாழ்த்து-செய்தி/175-331518)*
-
-உழவர் திருநாளான தைத் திருநாள், மகிழ்ச்சியையும் நன்றியையும் வெளிப்படுத்தும் வகையில், உலகெங்கிலும் உள்ள தமிழ்ச் சமூகத்தால் கொண்டாடப்படும் ஒரு செழிப்பான அறுவடைத் திருவிழாவாகுமென ஜனாதிபதி ரணில் விக்கிரமசிங்க வெளியிட்டுள்ள தனது கை பொங்கல் வாழ்த்து செய்தியில் தெரிவிக்கப்பட்டுள்ளார்.
-
-விவசாயத்தை நவீனமயப்படுத்துவதன் மூலம் நாடளாவிய ரீதியில் விவசாயத்தில் புதிய மாற்றத்தை ஏற்படுத்தத் தேவையான திட்டங்களை அரசாங்கம் தற்போது செயற்படுத்த ஆரம்பித்துள்ளது. அந்த அனைத்து பணிகளும் வெற்றியளிக்க இம்முறை தைப்பொங்கல் தினத்தில் இயற்கையின் ஆசிர்வாதம் கிட்ட வேண்டுமென பிரார்த்திக்கிறோம்.
-
-அதேபோல் தைப்பொங்கல் நமக்கு சகவாழ்வையும் மதிப்பையும் போதிக்கிறது. அதற்கமைய நாட்டின் எதிர்காலத்துக்கான புதிய எதிர்பார்ப்புக்களை பூர்த்தி செய்வதற்கு ஒருதாய் மக்களாக முன்னேற்றம் அடைய வேண்டும் என அனைவரிடத்திலும் கேட்டுக்கொள்ளும் அதேநேரம், தமிழர்கள் அனைவருக்கும் சுபீட்சமும் மகிழ்ச்சியும் நிறைந்த தைப்பொங்கல் வாழ்த்துக்களைத் தெரிவிக்கிறேன் எனத் தெரிவித்துள்ளார். (a)
-
-### இந்தியாவிடமிருந்து 20 ரயில் எஞ்சின்கள்
-
-*2024-01-15 02:27:21 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவிடமிருந்து-20-ரயில்-எஞ்சின்கள்/175-331517)*
-
-இந்தியாவில் இருந்து இலங்கைக்கு இலவசமாக வழங்கப்படும் 20 ரயில் எஞ்சின்களில் 02 எஞ்சின்கள் எதிர்வரும் 04 ஆம் திகதிக்கு முன்னர் இலங்கைக்கு கொண்டுவரப்படவுள்ளன என ரயில்வே திணைக்களம் தெரிவித்துள்ளது.
-
-மேற்படி எஞ்சின்கள் இலங்கையில் இயங்குவதற்கு ஏற்றவையா என ஆராயவே இவ்வாறு கொண்டுவரப்படவுள்ளன என திணைக்களம் குறிப்பிட்டுள்ளது.
-
-இதன்படி, ரயில் எஞ்சின்களை ஆய்வு செய்வதற்காக இலங்கை ரயில்வே திணைக்களத்தை சேர்ந்த 05 பரிசோதகர்கள் இந்தியாவிற்கு சென்றிருந்தனர். (a)
-
-### ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
-
-*2024-01-15 02:22:12 - [bbccomsinhala](https://www.bbc.com/sinhala/articles/c3gyy4kr0xlo)*
-
-ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
-
-වාහන ලීසිං සම්බන්ධයෙන් අප රටේ බලපවත්නා නීතිය ගැන කතා කරන විට අනිවාර්යයෙන්ම කල්බදු මූල්‍යකරණ පනත සම්බන්ධයෙන් ද දැනුවත් විය යුතු ය. මන්ද යත්, එම පනත මඟින් සියලු කල්බදු නීතිමය කටයුතු ආවරණය වී තිබෙන හෙයිනි.
-
-අප රටෙහි බොහෝදෙනෙකු තුළ කල්බදු, නැතිනම් ලීසිං, සම්බන්ධයෙන් බලපවත්නා නිතීය පිළිබඳ වැටහීමක් තිබේද යන්න සැක සහිතය.
-
-එම නිසා ලීසිං පහසුකම ලබාදෙන්නාත්, එම පහසුකම ලබාගන්නාත් යන දෙපාර්ශවයටම මෙකී නීතිමය රාමුව තුළ ඇති වගකීම් සහ වගවීම් මොනවා ද යන්න හරිහැටි විමසා බැලීම වැදගත් වේ.
-
-ඔන්ලයින් ණය දෙන ආයතනයක සේවිකාවක් මුල්වරට කරන හෙළිදරව්වVAT: ඔබේ ජීවන රටාව වෙනස් කිරීමට බලපෑවේ කොහොමද?
-
-ලීසිං පහසුකමක් ලබා ගැනීමේ දී පළමුව ඔබ විසින් සැළකිලිමත් වියයුතු කරුණ වන්නේ, එකී පහසුකම ලබා ගැනීමට තෝරාගනු ලැබූ මූල්‍ය ආයතනය ශ්‍රී ලංකා මහ බැංකුව යටතේ නියාමනය වන ආයතනයක් ද යන්න පිළිබඳවය.
-
-කිසි විටක කල්බදු සේවා ලබා දෙන ආයතනයක් ශ්‍රී ලංකා මහ බැංකුවේ සුදුසුකම් සපුරා නොමැතිව, අනුමැතියෙන් තොරව පවත්වාගෙන යාම නීතිවිරෝධී ක්‍රියාවක් වන අතර, එවන් වූ ආයතන මඟින් ලීසිං පහසුකම් ලබා ගැනීමෙන් අනතුරුව ඇති වන ගැටලුවල දී ඔබටනීතියේ පිහිට පැතීම ද අපහසු වනු ඇත.
-
-එම නිසා, ඔබ ලීසිං පහසුකමක් ලබා ගැනීමට අපේක්ෂා කරන්නේ නම්, අනිවාර්යයෙන්ම එවන් වූ කල්බදු මූල්‍යමය සේවා සපයන ආයතනවල ලියාපදිංචි ස්වභාවය කෙරෙහි අවධානය යොමු කළ යුතු ය.
-
-පනතේ සදහන් වන පරිදි, මෙය 'ආර්ථිකමය වශයෙන් වටිනාකමක් තිබෙන භාණ්ඩයක් සන්තකයේ තබා ගැනීම සදහා ඇතිකර ගන්නා ගිවිසුමක්' ලෙස සරලව හඳුන්වා තිබේ.
-
-කල්බදු ක්‍රමය යටතේ මෝටර් රථයක් ලබාගැනීම පිළිබඳ කතා කිරීම කාලීන වන්නේ, ලීසිං පහසුකම් යටතේ වාහන ලබාගත් බොහෝ දෙනෙකුට මේ වන විට ගැටලු රැසකට මුහුණදීමට සිදු වී ඇති නිසා ය.
-
-කල්බදු මූල්‍ය පහසුකමක් ලබා ගැනීමට අපේක්ෂා කරන අයෙකු වෙත ඇති අයිතිවාසිකම් මොනවා ද යන්න කල්බදු මූල්‍යකරණ පනතෙහි පැහැදිලිව දක්වා තිබේ.
-
-බදු ලබාගන්නා අයෙකුට බදු දීමනාකරුවෙකු තමන් කැමති පරිදි තෝරා ගැනීමේ අවස්ථාව හිමිවී තිබීම
-
-එසේම, ලීසිං පහසුකම් ලබා දෙන ආයතනයට ඇති අයිතිවාසිකම් පිළිබඳව ද ඔබ දැනුවත් විය යුතු ය.
-
-යම් ආයතනයක් වෙතින් වාහන කල්බදු යටතේ ලබාගෙන රැගෙන ගිය පසු එකී වාහන නඩත්තුව නිසි පරිදි සිදු කරන්නේ ද යන්න සොයා බැලීමට එම ආයතනයට හැකියාව පවතියි. එම අයිතිය එකී ආයතනයට පනත මඟින් ලබා දී ඇති අයිතිවාසිකමකි.
-
-යම් පුද්ගලයෙකු ගිවිසුමට අනුගතව ලීසිං වාරිකය ගෙවාගෙන යෑම දිගින් දිගටම පැහැර හරින්නේ නම්, කල්බදු සහනය ලබාදුන් ආයතනයට අදාළ භාණ්ඩය හෝ වාහනය එය සන්තකයට ලබා ගැනීමට හැකිය.
-
-ගෙවීම් පැහැර හරිනලද වාහනයක් ‍සිය භාරයට ගැනීමට ලීසිං ආයතනයට පවතින හැකියාව කුමක් ද?
-
-කල්බදු ලබාගත් අය දිගින් දිගටම අදාළ වාරික ගෙවීම පැහැරහැර තිබුණත් ලීසිං ආයතනයකට එක වර එම වාහනය අත්පත්කර ගැනීමට නීතිමය අවසරයක් නොමැත.
-
-එය අත්පත් කර ගැනීමට අවශ්‍ය නම්, ඒ සම්බන්ධව පියවර කිහිපයක් අනුගමනය කළ යුතු බව කල්බදු මූල්‍යකරණ පනතෙහි දැක්වේ.
-
-කල්බදු ලබා ගෙන වාරික ගෙවීමට අපොහොසත්ව ඇති එවැනි වාහනයක් මාර්ගයේ ගමන් කරමින් තිබියදී මඟහරස්කොට හෝ වෙන යම් අවස්ථාවක දී හෝ අපහසුතාවට පත්කොට, බියවද්දා ලබා ගැනීමේ හැකියාව පනත මඟින් ලීසිං ආයතන වෙත ලබා දී නොමැත.
-
-පළමුව, ලීසිං වාරික ගෙවීම පැහැරහරින්නන් වෙත අදාළ ආයතනයෙන් ගෙවීමට ඇති හිඟ මුදල සම්බන්ධයෙන් දැන්වීම් කළ යුතු ය.
-
-එසේ දැන්වීම් කළ පසුත් වාරික ගෙවීම පැහැරහරින්නේ නම්, දෙපාර්ශවය අතර ඇතිකර ගත් එම කල්බදු ගිවිසුම අහෝසි කිරීම සඳහා, ආයතනය විසින් ගිවිසුම අහෝසි කළ බව දන්වා පැහැරහරින පාර්ශවය අනිවාර්යයෙන්ම දැන්වීම් කර දැනුවත් කළ යුතු ය.
-
-ඒ අනුව නීත්‍යානුකූලව අදාළ කල්බදු ගිවිසුම අවලංගු වී යන අතර, දිසා අධිකරණය හරහා අදාළ ලීසිං සමාගමට වාහනයේ සන්තකය හිමිකර ගැනීම වෙනුවෙන් පෙත්සමක් ගොනුකර නීත්‍යානුකූලව කරුණු දක්වා, වාහනයේ සන්තකය ලබා ගැනීමට අවස්ථාව දෙන ලෙස අතුරු නියෝගයක් ඉල්ලා සිටිය හැකි ය.
-
-එම අවස්ථාවේ දී, කල්බදු ණය ලබාගෙන ඇති අය අධිකරණයට පැමිණ හේතු දැක්වීමක් සිදු කිරීමට අපොහොසත් වුවහොත් පමණක් අධිකරණයට එම අතුරු නියෝගය ස්ථිර කිරීමට කටයුතු කළ හැකි ය.
-
-එවිට, එම කල්බදු සමාගමට අධිකරණය ලබා දෙන පිස්කල් නියෝගය මඟින් වාහනය අත්පත් කර ගැනීමේ හැකියාව පවතියි.
-
-යම් හෙයකින්, අදාළ කල්බදු පහසුකම ලබා ගත් පාර්ශවය අධිකරණයට පැමිණ ප්‍රමාණවත් හේතු දැක්වීමකින් පසු අධිකරණය සෑහීමට පත්වුවහොත් වාහනයේ සන්තකය ලබා ගැනීම වෙනුවෙන් වූ අදාළ අතුරු නියෝගය අවලංගු විය හැකි අතර, නඩු විභාගය ආරම්භ වනු ඇත. සාක්ෂි විමසා තීන්දුවක් ලබා දීමට අධිකරණය කටයුතු කරනු ඇත.
-
-කල්බදු සමාගම වාහනයේ සන්තකය ලබාගැනීමට නඩුවක් පැවරූ විට බදු ලබාගත් අය ඒ වෙනුවෙන් දැක්විය යුතු කරුණු මොනව ද?
-
-අදාළ වාරික ගෙවීම මඟහැරුනේ කල්බදු සමාගමේ නොසැලකිලිමත්කම මත නම්, ඊට ඇති පැහැදිලි හේතු සාධක ඉදිරිපත් කළ හැකි ය.
-
-බදු හිමියාට හිඟ වාරික සම්බන්ධයෙන් ප්‍රමාණවත් පෙර දැනුම්දීමකින් තොරව, තර්ජනය කර, බියවද්දා නීතිමය ක්‍රමවේදයට පටහැනිව යමින් වාහනයේ සන්තකය අයතා ලෙස ලබා ගැනීමට කල්බදු සමාගම උත්සහ කර ඇත්නම්, එය ද අධිකරණය හමුවේ ප්‍රකාශ කළ හැකි ය.
-
-එසේම, කල්බදු සමාගමට ගෙවීමට ඇති සම්පූර්ණ හිඟ මුදල ගෙවා වාහනය තමා සතුකර ගැනීම කටයුතු කිරීමට උත්සහ කරන අවස්ථාවක දී, විශාල මුදලක් සඳහන් කරමින්, එය ලිඛිතව ලබා නොදී කටයුතු කරන බව හැඟී යන අවස්ථාවක, එම මුදල සම්බන්ධ කරුණු පැහැදිලිව ඊමේල් මාර්ගයෙන් හෝ ලිඛිතව තමා වෙත ලබාදෙන ලෙස සමාගමෙන් ලිඛිත ඉල්ලීමක් කිරීම බදු හිමියාට වැදගත් වනු ඇත.
-
-බදු හිමියා විසින් ගැටලුව විසදා ගැනීමට කටයුතු කරන අවස්ථාවක කල්බදු ආයතනය දිගින් දිගටම එය නොසලකා හරින්නේ නම්, ඒ බව ශ්‍රී ලංකා මහ බැංකුවේ මූල්‍ය පාරිහෝගික සබඳතා දෙපාර්තමේන්තුව වෙතත්, මූල්‍ය ඔම්බුඩ්ස්මන්වරයාටත් පැමිණිලි කළ හැකි අතර, එම ආයතනයන්ට අදාළ මූල්‍ය ආයතන පිළිබඳ ඕනෑම පැමිණිල්ලක් සහ ආරවුලක් පිළිබඳව විමසා බලා විසඳීමට බලය ඇත.
-
-ලීසිං: වාහනයේ ලීස් එක ගෙවාගන්න බැරි ද? ඔබ කළ යුත්තේ කුමක් ද?
-
-ලොව පුරා පලස්තීන සරණාගතයින් කීදෙනෙකු වාසය කරනවා ද? පලස්තීන ඩයස්පෝරාව කොතරම් විශාල ද?
-
-ඊශ්‍රායලයේ නවතම අධි තාක්‍ෂණික අවි මොනවා ද? AI ඊට සම්බන්ධ වන්නේ කෙසේ ද?
-
-### மதுபானசாலைகளுக்கு பூட்டு
-
-*2024-01-15 02:19:03 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மதுபானசாலைகளுக்கு-பூட்டு/175-331515)*
-
-தைப்பொங்கல் தினத்தை முன்னிட்டு இன்று வடக்கு மாகாணத்திலும் நுவரெலியா மற்றும் பதுளை ஆகிய மாவட்டங்களிலும் உள்ள மதுபானசாலைகளை மூடுவதற்கு மதுவரித்திணைக்களம் தீர்மானித்துள்ளது.
-
-இதன்படி, நுவரெலியா மாவட்டத்திலும் பதுளை மாவட்டத்தின் மஹியங்கனை, ரிதிமாலியத்தை ஆகிய பிரதேச செயலகப்பிரிவுகளுக்கு உட்பட்ட பகுதிகள் தவிர்ந்த ஏனைய அனைத்து மதுபானசாலைகளும் இன்று மூடப்படவுள்ளன.
-
-### களுகங்கையில் மூழ்கி 3 மாணவர்கள் உயிரிழப்பு
-
-*2024-01-15 02:15:34 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/களுகங்கையில்-மூழ்கி-3-மாணவர்கள்-உயிரிழப்பு/175-331514)*
-
-15 மற்றும் 16 வயதுகளையுடைய இரண்டு மாணவிகளும் 17 வயதுடைய மாணவரொருவருமே இவ்வாறு உயிரிழந்துள்ளனர்.
-
-களுத்துறை பன்வில மற்றும் தொடங்கொடை பகுதிகளை சேர்ந்தவர்களே இவ்வாறு உயிரிழந்துள்ளனர் என பொலிஸார்   தெரிவித்துள்ளனர். சடலங்கள் தற்போது பிரேத பரிசோதனைக்காக நாகொட போதனா வைத்தியசாலையில் வைக்கப்பட்டுள்ளன.
-
-### Govt incurred additional cost of over Rs. 1 bn on gas purchases amid crisis: audit report
-
-*2024-01-15 01:29:00 - [adaderanalk](https://www.adaderana.lk/news/96405/govt-incurred-additional-cost-of-over-rs-1-bn-on-gas-purchases-amid-crisis-audit-report)*
-
-The government had to bear an additional cost of Rs. 1,139 billion amidst the economic crisis last year due to cancellation of the term tender and importing Liquefied Petroleum Gas (LPG) at higher rates, the Auditor General’s Department revealed.
-
-This was mentioned in a special audit report compiled on the procurement of liquefied petroleum gas Litro Gas Lanka Ltd for the years 2022 and 2023.
-
-The report indicates that despite having obtained the approval of the Cabinet of Ministers to grant the LP gas tender to the lowest bidder, the Singapore-based Siam Gas Trading Pte Ltd., steps had been taken to commence a new procurement process to buy gas at a higher rate.
-
-Accordingly, the government had to pay a higher rate for the purchase of liquefied petroleum gas, even in the face of an economic crisis, the Auditor General’s Department alleged.
-
-The Technical Evaluation Committee had recommended on April 26, 2022, that Siam Gas Trading, the lowest bidder, should be the supplier qualified for 2022-2023 period. The Procurement Committee also approved this on April 28, 2022.
-
-Later, on May 04, 2022, the Cabinet of Ministers gave the nod to select Siam Gas Trading as the LP gas supplier for the aforementioned period.
-
-The report says that the Board of Appeal, having considered the appeal made by the previous supplier OQ Trading Ltd. against the selection, had given its consent to award the procurement to Siam Gas Trading.
-
-However, despite the approvals so given, it had been decided to commence a new procurement process following the Cabinet Decision dated June 13, 2022, whilst gas was being purchased from OQ Trading Ltd. at a price exceeding that of Siam Gas Trading (CP+ $96) irrespective of the lack of a formal methodology for Sri Lanka to purchase gas since March 2022.
-
-The report revealed that the term procurement had been cancelled despite Siam Gas Trading having being selected, and, as gas had been purchased from OQ Trading Ltd. at a higher price, the government had incurred an additional expenditure of USD 3,145,960 (equivalent to Rs. 1,138,837,430 in total) amidst the economic crisis.
-
-### Indonesian volcano erupts for second time in just over a month
-
-*2024-01-14 23:11:00 - [adaderanalk](https://www.adaderana.lk/news/96404/indonesian-volcano-erupts-for-second-time-in-just-over-a-month)*
-
-Indonesia’s Marapi volcano has erupted for the second time in weeks, the country’s geological agency said Sunday.
-
-According to the Ministry of Energy and Mineral Resources, the 2,891-meter-high (9,500 feet) volcano began erupting at 6 a.m. local time (6 p.m.ET).
-
-The volcano in West Sumatra province erupted at least twice, the agency said according to Reuters.
-
-Reuters also reported nearby houses, vehicles and evacuation tents set up by the local disaster agency were covered in volcanic ash.
-
-The ministry warned residents and visitors not to go within a 4.5 kilometer (2.8 mile) radius of the Verbeek Crater where the eruption took place and told residents in nearby communities to wear masks in the event of falling ash.
-
-Some residents also went to health facilities to receive respiratory check-ups, Reuters added.
-
-A previous eruption on December 3 killed 23 hikers who were on the mountain at the time, and saw volcanic ash being spewed as high as 3,000 meters (9,843 feet) into the air.
-
-Mount Marapi is among the most active volcanoes in Indonesia which lies on the Pacific Ring of Fire with 127 active volcanos – more than anywhere else in the world.
-
-It has erupted 11 times during the early 21st century, with it deadliest single event having killed 60 people in 1979.
-
-### SLPA to establish new terminal services agreements with shipping lines
-
-*2024-01-14 22:59:00 - [islandlk](http://island.lk/slpa-to-establish-new-terminal-services-agreements-with-shipping-lines/)*
-
-The year 2023 witnessed significant growth at the Sri Lanka Ports Authority (SLPA). In comparison to the 1,925,895 TEUs handled by SLPA in 2022, it has handled a total of 1,965,128 TEUs in 2023, reflecting a 2% growth, SLPA said in a press release.
-
-SLPA anticipates positive growth in container operations despite a percentage drop in global container volumes in 2022. SLPA is optimistic that the present growth rates will persist with the expected improvement in import and export activities in the global market and the gradual recovery of the country’s economy.
-
-In 2023, the Port of Colombo (POC) operated 6,951,003 TEUs, marking a 1.17% growth compared to the 6,862,184 TEUs handled in 2022.
-
-The recent growth at the SLPA can be attributed to increased efficiency levels at its terminals that include the Jaya Container Terminal (JCT) and the East Container Terminal (ECT) and their ability to attract new services, establishing connections with new Terminal Services Agreements (TSA) with shipping lines.
-
-SLPA expresses confidence in attracting more services at its terminals in 2024. This confidence will be reinforced by the successful completion of constructions at the East Container Terminal (ECT) and the JCT-V project in near future.
-
-Steep depreciation of rupee shoots up foreign loan interest cost of SLPA last year by 200 percent
-
-SLPA poised as an exemplary model for SOEs, says its chairman
-
-Sri Lanka Ports Authority wins the 2022 GPF Award for the Ports Authority of the Year
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### FitsAir acquires approval for inflight catering
-
-*2024-01-14 22:59:00 - [islandlk](http://island.lk/fitsair-acquires-approval-for-inflight-catering/)*
-
-FitsAir, Sri Lanka’s leading low-cost airline, announced a significant enhancement to its service offerings by obtaining approval for inflight self-catering. This strategic move aligns with the airlines vision to offer low-cost international travel.
-
-FitsAir’s Inflight Catering Services prioritize affordability and variety, providing passengers with wallet-friendly meal choices that won’t strain their budgets. The inflight menu features practical yet satisfying meal options, ensuring passengers receive excellent value for spend. In addition to these selections, the airline offers a range of snack packs and essential refreshments, ensuring travelers stay fueled and refreshed during their journey. The FitsAir menu features locally sourced items that support homegrown brands to ensure passengers feel at home from the moment you board the flight.
-
-SLPA to establish new terminal services agreements with shipping lines
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.

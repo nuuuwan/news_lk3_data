@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 20:27:59**
+As of **2024-01-17 21:27:51**
 
 ## Newspaper Stats
 
@@ -24,11 +24,23 @@ As of **2024-01-17 20:27:59**
 
 * dbsjeyarajcom: 112
 
-* adalk: 128
+* adalk: 131
 
-* **Total**: **801**
+* **Total**: **804**
 
 ## Latest Articles (100)
+
+### අනවසර විදුලි රැහැන්වලට අලි ඇතුන් 50ක් පසුගිය වසරේ මිය ගිහින්
+
+*2024-01-17 19:25:59 - [adalk](https://www.ada.lk/breaking_news/අනවසර-විදුලි-රැහැන්වලට-අලි-ඇතුන්-50ක්-පසුගිය-වසරේ-මිය-ගිහින්/11-407601)*
+
+ලංවිම විදුලි සැපයුම අනවසරයෙන් වැටවල්වලට හෝ රැහැන්වලට සම්බන්ධ කිරීම මගින් අලි ඇතුන් 50 දෙනෙකු පමණ මරණයට පත්ව ඇති බව ලංකා විදුලි බල මණ්ඩලය පවසයි.
+
+ලංකා විදුලිබල මණ්ඩලය මෙම නීති විරෝධි ක්‍රියාව සම්බන්ධයෙන් දැනටමත් සුදුසු විවිධ ක්‍රියාමාර්ග ගෙන ඇති බවත් රටේ වන අලි සම්පත රැක ගැනීමට ජනතා සහායද අපේක්ෂා කරන බව එම මණ්ඩලය දැනුම් දෙයි.
+
+ඒ අනුව විදුලි සැපයුම අනවසරයෙන් වැටවල්වලට හෝ රැහැන්වලට සම්බන්ධ කිරීම් පිළිබඳව 1987 අංකයය ඔස්සේ වහාම ලංවිම දැනුවත් කරන ලෙසද එම මණ්ඩලය පවසයි.
+
+ගණනය කිරීම් වලට අනුව 6000 ක් පමණ වූ ශ්‍රි ලංකාවේ වන අලි ගහනයෙන් 2023 වර්ෂයේ පමණක් විවිධ මිනිස් ක්‍රියාකාරකම් හේතුකොට ගෙන 474 දෙනෙකු මරණයට ලක්වී ඇතැයි ලංවිම වැඩිදුරටත් පවසයි.
 
 ### உடனடியாக தொடர்பு கொள்ளுங்கள்...
 
@@ -37,6 +49,18 @@ As of **2024-01-17 20:27:59**
 சட்டவிரோத மின்கம்பிகள் காரணமாக பலியாகும் காட்டு யானைகளை பாதுகாக்கும் நோக்கில் இலங்கை மின்சார சபை அவசர தொலைபேசி இலக்கமொன்றை அறிமுகப்படுத்தியுள்ளது.
 
 இதன்படி 1987 என்ற இலக்கத்திற்கு தொடர்புகொண்டு மின்சார சபைக்கு இது தொடர்பான தகவல்களை தெரிவிக்கலாம். R
+
+### වැට් වැඩිවීම ජනතාවට වගේම අපිටත් අමාරුයි
+
+*2024-01-17 19:04:20 - [adalk](https://www.ada.lk/breaking_news/වැට්-වැඩිවීම-ජනතාවට-වගේම-අපිටත්-අමාරුයි/11-407600)*
+
+වැට් බදු වැඩිකිරීම ජනතාවට මෙන්ම තමන්ටත් අමාරු බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා අද පැවසීය .
+
+ඒ මහතා මේ අදහස් පලකලේ කළුතර සමුපකාර ගොඩනැගිල්ල විවෘත කිරීමේ අවස්ථාවට එක්විමෙන් පසු මාධ්‍යයට අදහස් දක්වමිනි.
+
+ජනතාවගේ අමාරුකම පිළිබඳ පක්ෂ නායක රැස්වීමේදී වත්මන් ජනාධිපති වරයා දැනුවත් කරන බවද ඒ මහතා පැවසීය.
+
+"ඉදිරියේ එන මැතිවරණ වලට පොදුජන පෙරමුණ ට හොදින් මුහුණු දෙන්න පුළුවන්. අභියෝග කිසි ප්‍රශ්නයක් නෑ. දිනන්න පුළුවන් අපේක්ෂකයෙකු ජනාධිපති වරණයේදී ඉදිරිපත් කරනවා. එක්සත් ජාතික පක්ෂය හැමදාමත් කයිවාරු ගැහුවාට වැඩ බෑ"
 
 ### விவாதத்தை ஒத்திவைக்கவும்: எதிர்க்கட்சி வலியுறுத்தல்
 
@@ -621,6 +645,16 @@ Several high-profile arrests have been made thus far in connection with the case
 இதற்காக சூதாட்ட மேஜைகள் அமைக்கப்பட்டிருந்தன . பணம் அதிகமாக கட்டப்பட்டதால் சேவல் சண்டை நடந்த பகுதிகளில்  ஏ.டி.எம்.மில் பணம் தட்டுப்பாடு ஏற்பட்டது. பல ஏ.டி.எம். மையங்கள் பணம் இல்லாமல் காலியாக கிடந்தன.
 
 இதனை தவிர்க்க சேவல் சண்டை நடைபெற்ற இடங்களில் டிஜிட்டல் பண பரிவர்த்தனை செய்யவும் ஏற்பாடு செய்தனர் .அதன் மூலமாக பலர் பந்தயம் கட்டினர்.  ஒரே நாளில் சுமார் ரூ.500 கோடி வரை பணம் பந்தயமாக கட்டப்பட்டு இருக்கலாம் என தெரிவித்துள்ளனர்.
+
+### සියලු‍ විද්‍යාපීඨ පරිශ්‍රයන්හි වගා කළ හැකි ඉඩෙහි වැවිය යුතුයි
+
+*2024-01-17 14:24:52 - [adalk](https://www.ada.lk/breaking_news/සියලු‍-විද්‍යාපීඨ-පරිශ්‍රයන්හි-වගා-කළ-හැකි-ඉඩෙහි-වැවිය-යුතුයි/11-407598)*
+
+නිෂ්පාදන ආර්ථිකයක් එක් දිනකින් ගොඩ නැංවිය නොහැකි බවත් ඒ සඳහා සමස්ත ජාතිය ම කැපවීමෙන් ක්‍රියා කළ යුතු බවත් පැවසූ අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා අධ්‍යාපන අමාත්‍යාංශය සතු අධ්‍යාපන විද්‍යාපීඨ පරිශ්‍ර 19 තුළ ම ඉඩකඩ පවතින පරිදි එදිනෙදා ප්‍රයෝජනයට ගත හැකි වගාවන් සිදු කිරීමට කඩිනමින් පියවර ගත යුතු බව සඳහන් කළේ ය.
+
+අධික සීතල දේශගුණයක් පවතින රටවල හිම පතනය නොවන මාස හයක කාලය තුළ තට්ටු නිවාස සංකීර්ණවල කොරිඩෝවල පවා බඳුන්ගත වගාවෙහි  නිරත වෙමින් ජනතාව නිෂ්පාදන ආර්ථික වර්ධනයට උර දෙන බවත් මෙහි දී පැවසූ අමාත්‍යවරයා ජාත්‍යන්තර මූල්‍ය අරමුදලේ ණය ආධාර යටතේ මෙරට මූලික අවශ්‍යතා ඉටු කරගන්නා පසුබිමක  මෙරට රාජ්‍ය හා වෙනත් ආයතන ඇතුළු සමස්ත ජනතාව ම දේශගුණ විපර්යාස වැනි ඉදිරි ආපදා තත්වයන් ජයගැනීම සඳහා විධිමත්  පෙරසූදානමකින් සිටිය යුතු බවත් අවධාරණය කළේ ය.
+
+මීට වසර එකහමාරකට පෙර ඉන්ධන හා ගෑස් වැනි අත්‍යවශ්‍ය සේවා ලබා ගැනීමට පෝලිම්වල කාලය ගත කළ යුගය යළි සිහිපත් කරගත යුතු ව ඇතැයි ද හෙතෙම පැවසී ය.
 
 ### Education of children directly impacts overall success of the nation – Saman Ekanayake
 
@@ -1745,59 +1779,3 @@ To expand the opportunities for Sri Lankan professionals to equip themselves wit
 The program was specially developed by Sage Mediation, an international mediation firm based in Singapore, and will be led by its CEO Aloysius Goh. Completion of the workshop will set participants on the path to achieving accreditation under the Singapore International Mediation Institute, as well as the Swiss Chamber of Commercial Mediators. This first iteration will be available at a special concessionary rate marking Sage Mediation’s commitment to promoting high-quality mediation practices around the world.  UDecide Mediation Platform and Sage Mediation, is inviting professionals from diverse sectors to make use of this rare opportunity to equip themselves with international mediation skills to provide high-quality amicable dispute resolution services in Sri Lanka and outside.
 
 The United Nations Convention on Mediation (Singapore Convention on Mediation), is an endorsement of the suitability of mediation for commercial dispute resolution worldwide. Sri Lanka signed the Convention on Mediation in 2019 and ratified the same on 10 January 2024. Against this backdrop, Sri Lanka now, more than ever, needs highly trained and qualified mediation professionals.
-
-### Bandara elected to CPA PNG Council for seventh consecutive year
-
-*2024-01-17 04:49:12 - [dailyftlk](https://www.ft.lk/business/Bandaraelected-to-CPA-PNG-Council-for-seventh-consecutive-year/34-757425)*
-
-P.M.N. Bandara, Senior Lecturer and Head of Department of Accounting of the University of Papua New Guinea has been elected to Council of Certified Practicing Accountants of Papua New Guinea (CPA PNG) for the year 2024 by member’s votes at the recently concluded general election for the seventh consecutive year.
-
-This is the prestigious apex body of professional accountant’s equivalent to Institute of Chartered Accountants of Sri Lanka. Bandara has written a number of accounting, economics and business studies textbooks for various levels of study in Papua New Guinea including universities and other tertiary institutions. He is also serving as a council member of a number of tertiary institutions and advisory boards of the department of education. He is instrumental in initiating new degree programs and revising existing programs in accounting at the University of Papua New Guinea accrediting diploma in accounting courses offered by the business and technical colleges.
-
-He has been serving in Papua New Guinea for the last 22 years. In recognition of his services to the country he has been awarded a prestigious national award known as Member of Logohu in 2018. This award was given to him on recommendation of the Governor General and approved by Queen Elizabeth. He is the current president of Sri Lanka – Papua New Guinea Friendship Foundation and Honorary Consul of Sri Lanka in Papua New Guinea. He is also appointed by the Minister for Justice as the Commissioner of Oaths.
-
-### 2023 tea crop improves marginally
-
-*2024-01-17 04:39:10 - [dailyftlk](https://www.ft.lk/business/2023-tea-crop-improves-marginally/34-757420)*
-
-Production increases at all elevation levels except for low-grown compared to 2022
-
-Sri Lanka’s tea crop improved marginally in 2023, reflecting the struggle for recovery after detrimental policy decisions and climate change.
-
-The cumulative production for the year 2023 was 256.04 million kilos, registering an increase of 4.20 million kilos compared with 251.84 million kilos in 2022.
-
-Data analysed by Forbes and Walker Research said all elevations have shown positive variances in the year 2023 aside from the low-grown elevation in comparison with the corresponding period of 2022.
-
-However, it noted that compared to 299.49 million kilos in 2021, cumulative production of 2023 shows a decrease of 43.45 million kilos. On a cumulative basis, all elevations also show a decrease over the corresponding period of 2021.
-
-High-grown elevation produced over 57.4 million kilos up by 2.50% year-on-year (YoY) whilst, medium elevation production was 41.29 million kilos up by 6.27% YoY and green tea production was at 2.28 million kilos up by 26.17% YoY. The low-grown elevation crop was down by 0.07% YoY to over 155 million kilos.
-
-Sri Lanka was optimistic that the tea output will exceed 260 million kilos by the end of 2023 recovering from the 26-year low in 2022.
-
-In December 2023, tea production increased mere 0.51% YoY to 19.81 million kilos vis-à-vis 19.71 million kilos of December 2022.
-
-Forbes and Walker Research confirmed that in December all elevations except for the low grown have shown an increase in comparison with the corresponding period of 2022. However, it said compared to 20.52 million kilos of December 2021, the production of December 2023 still shows a decrease of 0.71 million kilos.
-
-High-grown elevation produced over 4.46 million kilos up by 1.62% YoY whilst, medium elevation production was over 2.9 million kilos up by 2.38% YoY and the production of green tea was at 180,806 kilos up by 8.17% YoY. The low-grown elevation crop was down by 0.42% YoY to over 12.25 million kilos.
-
-Sri Lanka Tea Board Chairman Niraj de Mel outlining plans for 2024 insisted on the need for a strategic, unified approach to achieve common industry objectives, emphasising the importance of collaboration over working in isolation.
-
-### Lanka Impact Investing Network and ICBT launch Youth Startup Challenge 1.0
-
-*2024-01-17 04:38:15 - [dailyftlk](https://www.ft.lk/business/Lanka-Impact-Investing-Network-and-ICBT-launch-Youth-Startup-Challenge-1-0/34-757419)*
-
-Lanka Impact Investing Network General Manager Vishwanath Gunawardena (fourth from right) exchanging the MoU with ICBT CEO and Executive Director/Executive Dean of ICBT Campus Dr. Sampath Kannangara, in the presence of (from left): Lanka Impact Investing Network Executive Business Development and Partnerships Supeshala Samarawitharana, Executive Entrepreneurship Development Iresha Perera, ICBT Campus General Manager Sampath Perera, Chief Academic Officer Chandru Sandrasekaran, and Senior Lecturer and Student Placement Officer Anuruddha Yapa
-
-In a transformative collaboration dedicated to fostering entrepreneurship among the youth, Lanka Impact Investing Network (LIIN) and International College of Business and Technology (ICBT) proudly announce the formalisation of a historic Memorandum of Understanding (MoU).
-
-This pivotal agreement, signed by ICBT Campus CEO and Executive Director/Executive Dean Dr. Sampath Kannangara and Lanka Impact Investing Network General Manager Vishwanath Gunawa-rdena marks the commencement of the REVAMP Sri Lanka initiative.
-
-This visionary partnership aims to empower and uplift aspiring young entrepreneurs in Sri Lanka by establishing a dynamic bridge between academic excellence and industry relevance. Under the stewardship of LIIN, REVAMP Sri Lanka became the cornerstone for connecting young innovators with industry leaders, experienced mentors, and potential investors. The primary focus of this alliance, a commitment to fostering an inclusive and equitable entrepreneurship ecosystem for the youth in Sri Lanka, is to offer unparalleled opportunities, mentorship, and resources to emerging entrepreneurs, thus nurturing a vibrant and resilient entrepreneurial landscape in Sri Lanka.
-
-The MoU signing ceremony, graced by prominent figures signifies a significant leap forward in nurturing youth entrepreneurship.
-
-ICBT Campus’ Dr. Sampath Kannangara said: “We are delighted to collaborate with Lanka Impact Investing Network in this ground breaking initiative, with a laser focus on young entrepreneurs. We firmly believe that such partnerships can cultivate innovation and empower the next generation of business leaders, contributing to a dynamic and resilient entrepreneurial ecosystem in Sri Lanka.”
-
-The MoU signing unfolded as part of the grand unveiling of the REVAMP Sri Lanka - Youth Startup Challenge 1.0, underscoring LIIN’s commitment to instil an entrepreneurial spirit among the youth and contribute to the economic revitalisation of the country through an inclusive lens.
-
-This collaborative effort, generously funded by the Government of Canada through the World University Service of Canada (WUSC), underscores the dedication of LIIN and ICBT Campus to empower the youth, drive innovation, and contribute to the economic growth of Sri Lanka.

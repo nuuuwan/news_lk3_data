@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 13:28:04**
+As of **2024-01-17 14:28:02**
 
 ## Newspaper Stats
 
@@ -14,7 +14,7 @@ As of **2024-01-17 13:28:04**
 
 * islandlk: 49
 
-* economynextcom: 52
+* economynextcom: 57
 
 * adaderanalk: 69
 
@@ -26,9 +26,75 @@ As of **2024-01-17 13:28:04**
 
 * adalk: 121
 
-* **Total**: **724**
+* **Total**: **729**
 
 ## Latest Articles (100)
+
+### Sri Lanka ministers meet health unions over 35,000 rupee demand
+
+*2024-01-17 14:00:00 - [economynextcom](https://economynext.com/sri-lanka-ministers-meet-health-unions-over-35000-rupee-demand-147574/)*
+
+ECONOMYNEXT – Sri Lanka State Minister of Finance Shehan Semasinghe said he met unions along with Health Minister Ramesh Pathirana, to discuss demands for a pay hike.
+
+“A discussion was held with the representatives of the health trade unions together with the Minister of Health Dr Ramesh Pathirana in which the proposal including the concerns of the trade unions was handed over to us and we discussed on same,” Semasinghe said on X.
+
+Several health sector unions struck work yesterday and today demanding a 35,000 rupee allowance given to doctors.
+
+Government doctors union officials were quoted in the media saying the allowances given to generals are not given to foot soldiers.
+
+The military was deployed on Tuesday to help health services. (Colombo/Jan17/2024)
+
+### Sri Lanka president, business community seek FDI and PPP in Switzerland
+
+*2024-01-17 13:00:00 - [economynextcom](https://economynext.com/sri-lanka-president-business-community-seek-fdi-and-ppp-in-switzerland-147561/)*
+
+ECONOMYNEXT – The government’s focus was on fostering growth through exports, services and investments, including foreign direct investment (FDI), Sri Lanka’s president has told a Business Roundtable organized by the Swiss-Asian Chamber of Commerce and the SL Board of Investment.
+
+There were “opportunities for investments in renewable energy, agriculture modernization, tourism, IT and infrastructure development through public-private partnerships,” Ranil Wickremesinghe was quoted as saying by his media division.
+
+Wickremesinghe is in Switzerland to attend the 54th Annual Meeting of the World Economic Forum.
+
+Forthcoming laws and commissions would enhance market access, foster trade and investment and ensure the competitiveness of the island’s economy, he told potential foreign investors.
+
+Wickremesinghe sought to reassure them by mentioning the removal of restrictions and ongoing economic reforms.
+
+He pointed out the country’s ongoing and pending FTAs with Singapore, Thailand, India and China, its initiatives to join the Regional Comprehensive Economic Partnership (RCEP), and the benefits of GSP Plus for access to European markets.
+
+Representing the Sri Lankan business community at the event were John Keels Holdings Chairman Krishan Balendra, Commercial Bank CEO/MD Sanath Manatunge, Colombo Stock Exchange Chairman Dilshan Wirasekara, Janashakthi Insurance Deputy Chairman Prakash Schaffter, Sri Lanka Ports Authority Chairman Keith Bernard, Aitken Spence Joint Deputy Chairpersons/MDs Stasshani Jayawardena and Parakrama Dissanayake, Galle Face Group Chairman Sanjeev Gardiner, Sri Lankan Airlines Chairman Ashok Pathirage, People’s Bank Chairman Sujeewa Rajapakse, and ⁠Dialog Axiata CEO Supun Weerasinghe. (Colombo/Jan17/2024)
+
+### Sri Lanka discusses economic ties, EDR with India envoy
+
+*2024-01-17 12:00:00 - [economynextcom](https://economynext.com/sri-lanka-discusses-economic-ties-edr-with-india-envoy-147549/)*
+
+ECONOMYNEXT – Sri Lanka’s State Minister of Finance met with the Indian High Commissioner Santosh Jha to discuss cooperation on economic concerns.
+
+“Engaged in fruitful discussions on fostering mutual economic partnerships between our two countries, collaborative initiatives aimed at enhancing economic ties and progress on debt restructuring process,” State Minister of Finance Shehan Semasinghe said on X.
+
+So far India has executed over a billion US dollars of projects in the island.
+
+Investors from India, Jio Platforms Ltd and Pettigo – a unit of Reliance industries, have expressed interest in buying Sri Lanka Telecom. India’s Airtel already has a mobile unit in Sri Lanka’s telecom sector.
+
+India is already involved in the country’s ports sector. The Adani group is building a container terminal in Colombo Port.
+
+Sri Lanka blocked a Chinese power sector investment in the North, reportedly under Indian pressure.
+
+The government has also temporarily halted foreign research ships after strong security concerns raised by neighbour India after the visit of two Chinese research vessels.
+
+Political analysts say India has influence in the Sri Lankan election given it is closely connected with ethnic minority Tamils especially those who came down to the island nation from India as plantation workers during the British rule. India is involved in many housing projects for this group.
+
+### Sri Lanka rupee opens stronger at 321.20/40 to the US dollar
+
+*2024-01-17 11:22:00 - [economynextcom](https://economynext.com/sri-lanka-rupee-opens-stronger-at-321-20-40-to-the-us-dollar-147523/)*
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 321.20/40 to the US dollar on Wednesday, from 321.40/60 the previous day, dealers said.
+
+Bond yields were steady, but dealers expect the rates to ease at the auction based on secondary market trends.
+
+A bond maturing on 01.02.2026, was quoted stable at 13.70/75 percent.
+
+A bond maturing on 15.03.2028 was quoted at 14.15/14.25 percent from 14.15/20 percent.
+
+The Colombo Stock Exchange was trading down, with All Share Price Index down 0.14 percent at 10,531, and the S&P SL20 down 0.34 percent at 2,988. (Colombo/Jan17/2024)
 
 ### Sri Lanka Receives 117 Tonnes of Sunflower Oil
 
@@ -57,6 +123,20 @@ MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a mi
 ඒ අනුව ඔහුට එරෙහිව පැනවූ එම දඩුවම යළි ක්‍රියාත්මක කරන්නැයි බන්ධනාගාර කොමසාරිස්වරයාට ‌ශ්‍රේෂ්ඨාධිකරණය නියෝග කළේය.
 
 මියගිය භාරත ලක්ෂ්මන් ප්‍රේමචන්ද්‍ර මහතාගේ බිරිඳ වන සුමනා ප්‍රේමචන්ද්‍ර, දියණිය හිරුණිකා ප්‍රේමචන්ද්‍ර සහ ශ්‍රී ලංකා මානව හිමිකම් කොමිසමේ හිටපු කොමසාරිස්වරයෙකු වන නීතිඥ ගසාලි හුසේන් යන අය විසින් ඉදිරිපත් කළ පෙත්සම්, විභාග කිරීමෙන් අනතුරුව ගාමිණී අමරසේකර සහ අර්ජුන ඔබේසේකර යන විනිසුරුවරුන්ගේ එකඟත්වය ඇතිව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පද්මන් සුරසේන මහතා විසින් මෙම තීන්දුව ලබා දුන්නේය.
+
+### P R A S Gunawardana designated new Sri Lanka envoy to Maldives
+
+*2024-01-17 11:07:00 - [economynextcom](https://economynext.com/p-r-a-s-gunawardana-designated-new-sri-lanka-envoy-to-maldives-147529/)*
+
+ECONOMYNEXT – Sri Lanka Parliament’s committee on high posts has approved P R A S Gunawardana as the new High Commissioner designate for Maldives, a statement said.
+
+Also approved was M A R M Fernando as chairman of the Public Utilities commission.
+
+Secretary for the non-cabinet State Plantation Enterprise Reforms ministry is M M S S B Walegama.
+
+S C J Devendra as chairman for Sri Lanka Export Credit Insurance Corporation.
+
+J M Susaidasan as chairman of Sri Lanka State Mortgage and investment bank. (Colombo/Jan17/2024)
 
 ### BREAKING: Supreme Court Declares Duminda Silva Pardon Unlawful
 
@@ -2051,83 +2131,3 @@ ECONOMYNEXT – The Samagi Jana Balavegaya party will repeal the Online SafetyBi
 “Committed to true Online Safety, we’ll introduce a new law addressing issues like child porn and other serious online crimes with the collaboration of major platforms. It’s crucial for the wellbeing of Sri Lanka society. Let’s prioritize effective solutions over hasty decisions.”
 
 Sri Lanka’s Supreme Court determined that the controversial ‘Online Safety Bill’ is not inconsistent with the constitution and can be passed in parliament by a simple majority subject to amendments made to 31 of its provisions. (Colombo/Jan16/2024)
-
-### வயோதிப பிக்குவினால் பல தடவைகள் கடுமையாக பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்தப்பட்ட 16 வயதான இளம் பிக்கு!
-
-*2024-01-16 15:16:00 - [virakesarilk](https://www.virakesari.lk/article/174061)*
-
-தெவனகல, கரஹம்பிட்டிஹல விஹாரை ஒன்றில் வசிக்கும் வயோதிப பிக்கு ஒருவரால் 16 வயதான இளம் பிக்கு ஒருவர் கடுமையான பாலியல் துஷ்பிரயோகத்துக்கு  உள்ளாகியுள்ளதாக தெரிவிக்கப்படுகிறது.
-
-இது தொடர்பில் மாவனல்லை பொலிஸில் முறைப்பாடு செய்யப்பட்டுள்ளதுடன், குறித்த இளம்  பிக்கு கடந்த ஆகஸ்ட் மாதம் முதல் பல தடவைகள் பாலியல் துஷ்பிரயோகத்துக்கு  உட்படுத்தப்பட்டுள்ளதாக  முறைப்பாட்டில் குறிப்பிட்டுள்ளார்.
-
-இது தொடர்பில் மாவனல்லை பொலிஸ் நிலையப் பொறுப்பதிகாரி தெரிவிக்கையில், சம்பவம் தொடர்பில் முறைப்பாடு கிடைக்கப்பெற்றுள்ள போதிலும் சட்ட வைத்திய அறிக்கை கிடைக்கும் வரை சந்தேக நபரை கைது செய்வதில் தாமதம் ஏற்பட்டுள்ளதாக தெரிவித்தார்.
-
-### ஐக்கிய மக்கள் சக்தி அரசாங்கம் நிகழ்நிலை பாதுகாப்பு சட்டத்தை உடனடியாக இரத்துச்செய்யும் - ஹர்ச
-
-*2024-01-16 15:14:00 - [virakesarilk](https://www.virakesari.lk/article/174058)*
-
-நிகழ்நிலை பாதுகாப்பு சட்டத்தை அரசாங்கத்தின் முயற்சிகளை கடுமையாக எதிர்ப்பதாக ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் ஹர்சடிசில்வா தெரிவித்துள்ளார்.
-
-எதிர்காலத்தில் அமையவுள்ள ஐக்கியமக்கள் சக்தி அரசாங்கம்  உடனடியாக நிகழ்நிலை பாதுகாப்பு சட்டத்தை இரத்துச்செய்யும் என அவர் தனது டுவிட்டர் பதிவில் தெரிவித்துள்ளார்.
-
-மெட்டா கூகுள் யூடியுப் போன்ற பொருளாதாரத்திற்கு அவசியமான பாரிய தளங்களுடனான உறவுகளிற்கு பாதிப்பை ஏற்படுத்தும் விதத்தில் செயற்படமாட்டோம் எனவும் அவர் தெரிவித்துள்ளார்.
-
-நிகழ்நிலை பாதுகாப்பு சட்டம் குறித்து அர்ப்பணிப்புடன் உள்ள நாங்கள் சிறுவர் பாலியல் மற்றும் ஏனைய பாரிய இணைய குற்றங்களை தடுப்பதற்காக பாரிய தளங்களுடன் இணைந்து செயற்படுவோம் எனவும் தெரிவித்துள்ளார்.
-
-இலங்;கை சமூகத்தின் நலனிற்கு இது மிகவும் அவசியமானது அவசர நடவடிக்கைகளிற்கு பதில் பயனளிக்ககூடிய தீர்வுகளை முன்வைப்போம் எனவும் ஹர்சா டிசில்வா தெரிவித்துள்ளார்.
-
-### காளையை தட்டி அடக்கிய வங்கி ஊழியர்: (காணொளி)
-
-*2024-01-16 15:12:03 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/காளையை-தட்டி-அடக்கிய-வங்கி-ஊழியர்-காணொளி/175-331597)*
-
-பிரபல வங்கியின் கிளை ஒன்றில் கால்நடை ஒன்று வழிதவறி நுழைந்த வினோதமான சம்பவம் இந்தியாவின் உத்தரப்பிரதேச மாநிலம் Unnao-வில் உள்ள பெரும் பரபரப்பை ஏற்படுத்தி இருக்கிறது.
-
-சதார் பஜார் என்ற பகுதியில் அமைந்துள்ள குறித்த வங்கியின் பிரதான கிளையில் காளையொன்று வழிதவறி வங்கிக்குள் வந்துள்ளது.
-
-திடீரென வங்கி வளாகத்திற்குள் நுழைந்த காளை, வங்கி வழங்கும் சேவைகளை பெற காத்திருக்கும் வாடிக்கையாளர் போல் ஒரு மூலையில் அமைதியாக நின்றது.
-
-எனினும் வங்கியில் நுழைந்து வாடிக்கையாளர் போல அமைதியாக நின்ற காளையை பார்த்த வாடிக்கையாளர்கள் மற்றும் ஊழியர்கள் பீதியடைந்து அலறினர்.
-
-வங்கிக்குள் காளை புகுந்ததால் ஏற்பட்ட பரபரப்பை தொடர்ந்து தொடர்ந்து வங்கிப் பணிக்காக வந்திருந்த வாடிக்கையாளர்கள் பீதியில் அங்கும் இங்கும் ஓடத் தொடங்கினர்.
-
-### Anticipated Sri Lanka tourism app set to revitalize the island’s tourism sector - report
-
-*2024-01-16 15:11:00 - [adaderanalk](https://www.adaderana.lk/news/96447/anticipated-sri-lanka-tourism-app-set-to-revitalize-the-islands-tourism-sector-report)*
-
-As the first quarter of 2024 beckons, Sri Lanka’s tourism sector is brimming with anticipation. The long-awaited launch of an all-inclusive Sri Lanka Tourism app is in its final stages, promising to significantly uplift the island nation’s tourism industry. The initiative, which earned Cabinet approval back in 2019, is finally gaining momentum after being stalled by COVID-19 and other unforeseen challenges.
-
-Priyantha Fernando, the Chairman of the Sri Lanka Tourism Development Authority, has confirmed the reactivation of the initiative. To finalize the app’s scope and content, management and technical evaluation committees are being formed. The development will be undertaken by the same Malaysian developer who was initially involved. The app’s launch, however, hinges on the progress of technical requirements and necessary clearances. If the development starts from scratch, the release could extend into the second quarter of 2024. But if all goes well, tourists could have access to this comprehensive digital tool as early as March 2024.
-
-The Sri Lanka Tourism app aims to provide comprehensive information on tourist sites, registered establishments, and service providers. It will enable tourists to purchase tickets for attractions and rate their experiences. Additional features include visa application processing and insights into tourists’ areas of interest. This data will aid in creating targeted tourism products.
-
-The app will support multiple languages, including English, German, French, Russian, and Chinese. This move is designed to cater to a wider audience and ensure ease of use for tourists from different linguistic backgrounds. Importantly, the app’s development will not be a financial burden to the government due to a funding arrangement made with the developer in the prior Cabinet agreement.
-
-Apart from the app, Sri Lanka’s Tourism Promotion Bureau is also addressing obstacles to marine tourism, particularly leisure activities on yachts. They have finalized classification criteria for marine tourism and are receiving assistance from the Asian Development Bank to address remaining issues. The goal is to attract wealthy Indian yacht owners to berth their vessels in marinas throughout the country.
-
-The government has also made plans to reduce taxes, introduce water sports, and implement plans for a boat service industry to boost growth in the domestic sector. Sri Lanka aims to attract 2.3 million tourists in 2024, focusing on tourists from India, Russia, China, the UK, and Germany.
-
-On another front, Sri Lanka has installed an AI-automated facial recognition system at Bandaranaike International Airport. This deployment aims to identify nefarious activities such as drug trafficking and ID fraud at international border crossings. This move, although controversial, is part of a crackdown by police and the Ministry of Public Security that saw over 25,000 arrests since December 17, 2023.
-
-### වර්ජනයක් නැති රෝහලක්
-
-*2024-01-16 14:55:43 - [adalk](https://www.ada.lk/breaking_news/වර්ජනයක්-නැති-රෝහලක්/11-407580)*
-
-වෛද්‍යවරුන්ට ලබා දුන් රුපියල් 35000 ක  දීමනාව සෙසු සෞඛ්‍ය කාර්ය මණ්ඩලවලටද ලබා දෙන ලෙස රජයට බල කරමින් දිවයින පුරා රෝහල්වල ක්‍රියාත්මක පැය 24ක  සංකේත වැඩ වර්ජනයට හාත්පසින් වෙනස් ආකාරයෙන් බණ්ඩාරගම ප්‍රාදේශීය රෝහලේ කාර්ය මණ්ඩලය රෝගීන්ට සුපුරුදු  සේවය සපයන ආකාරය අද (16) දක්නට ලැබිණි.
-
-වර්ජනයට  ඖෂධ සංයෝජකයින් හා ඖෂධ වේදීන් පමණක්  සේවයට වාර්තා නොකර සහය දැක්වීම හේතුවෙන් ප්‍රතිකාර ලබා ගැනීමට පැමිණෙන රෝගීන් වෛද්‍යවරුන් පරීක්ෂා කර බලා ෆාමසි වලින් ඖෂධ ලබා ගැනීම සඳහා   බෙහෙත් තුන්ඩු නිකුත් කිරීම සිදුකෙරිණි
-
-රෝහලේ  කනිෂ්ඨ කාර්ය මණ්ඩලය ඇතුළු සෙසු කාර්ය මණ්ඩලය  සුපුරුදු ලෙස රෝගීන් වෙනුවෙන් අනෙකුත් රාජකාරිවල නියැලෙනු දක්නට ලැබිණි
-
-රෝගීන් ඇතුළත් කිරීම,   ප්‍රතිකාර ලබා ගැනීම සඳහා පැමිණෙන රෝගීන්   වෛද්‍යවරුන් වෙත යොමු කිරීම ,සායන වලට දින ලබාදීම, දන්ත සායන පවත්වාගෙන යාම ආදිය කනිෂ්ඨ කාර්ය මණ්ඩලය විසින් සිදු කරනු දක්නට ලැබිණි
-
-මේ හේතුවෙන්   පැමිණි බහුතරයක් රෝගීන්  බණ්ඩාරගම දිසාරෝහලේ කාර්ය මණ්ඩලය වෙත සිය ස්තුති ප්‍රණාමය පුද කරන අයුරුද දක්නට ලැබිණි
-
-මේ පිළිබඳ අදහස් දැක්වූ   බණ්ඩාරගම රෝහලේ දිස්ත්‍රික් වෛද්‍ය නිලධාරී ජේ පි සුභසිංහ මහතා,
-
-දිවයින පුරා  මෙහි  වැඩ වර්ජනයක් පැවැත්වුවත් අපි පුළුවන් ආකාරයෙන් බණ්ඩාරගම දිසා රෝහලේ සේවාවන් පවත්වාගෙන යනවා.
-
-අපේ දන්ත සායන වගේම අනෙකුත් සායන හැකි ආකාරයෙන් පවත්වාගෙන යනවා මහජනයා වෙනුවෙන්.
-
-බාහිර රෝගී අංශය වෙත පැමිණෙන රෝගීන්ට , බාහිරින් ප්‍රතිකාර ලබා ගැනීම සඳහා තුන්ඩු ලියා දෙනවා
-
-අපි මහජනතාවගෙන් වැටුප් ලබන සේවකයින් හැටියට හැමදාමත් වර්ජන කියලා හරියන්නේ නැහැ .නමුත් අපි පුළුවන් ආකාරයෙන් සේවාවන් පවත්වාගෙන යන්නට උත්සාහ කරනවා මහජනතාවගේ  සුභ සිද්ධිය ගැන හිතලා" යැයි පැවැසීය.

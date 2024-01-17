@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 18:31:04**
+As of **2024-01-17 19:28:02**
 
 ## Newspaper Stats
 
-* colombotelegraphcom: 21
+* colombotelegraphcom: 23
 
 * bbccomsinhala: 29
 
-* newsfirstlk: 44
-
 * virakesarilk: 48
 
-* islandlk: 49
+* islandlk: 50
+
+* newsfirstlk: 53
 
 * economynextcom: 60
 
@@ -26,9 +26,21 @@ As of **2024-01-17 18:31:04**
 
 * adalk: 128
 
-* **Total**: **774**
+* **Total**: **786**
 
 ## Latest Articles (100)
+
+### CEB Hotline Aims to Halt Elephant Electrocutions
+
+*2024-01-17 17:14:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/ceb-hotline-aims-to-halt-elephant-electrocutions/)*
+
+COLOMBO (News 1st); In a bid to curb the rising toll of elephant deaths caused by unauthorized electricity connections, the Ceylon Electricity Board (CEB) has launched a dedicated hotline for reporting such infringements.
+
+As part of its efforts to protect Sri Lanka's wild elephant population, the CEB is urging the public to report any instances of illegal connections to fences or wires by dialing 1987.
+
+This initiative highlights the growing concern over the threat posed by such practices to the country's iconic wildlife.
+
+The CEB acknowledged a decrease in elephant deaths from electrocution compared to previous years, with only 50 reported fatalities in 2023.
 
 ### HRCSL makes key recommendations for Bill on Commission for Truth, Unity and Reconciliation
 
@@ -79,6 +91,64 @@ In a statement, CEB’s media spokesperson Eng. Noel Priyantha highlighted that 
 Raising concerns about the rapidly receding number of wild elephants in Sri Lanka, he underscored the importance of conserving this endangered species.
 
 The spokesperson said the CEB has already taken measures to prevent illegal tapping into power lines and sought public assistance in its efforts to curb wild elephant deaths.
+
+### Court Remands Individuals in Human Immunoglobulin Scandal
+
+*2024-01-17 16:34:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/court-remands-individuals-in-human-immunoglobulin-scandal/)*
+
+COLOMBO (News 1st); Seven individuals, including former Ministry of Health Secretary Janaka Sri Chandragupta, were remanded until January 24th in connection with the controversial supply of substandard Human Immunoglobulin (Ig) drugs.
+
+The case, which has drawn significant public attention due to its potential impact on patient safety, was called up in the Maligakanda Magistrate's Court today.
+
+Among the remanded individuals are Sudath Janaka Fernando, the owner of Isoles Biotech Pharmaceutical Company, the alleged supplier of the substandard drugs, and Dr. Vijith Gunasekara, the former CEO of the National Medicines Regulatory Authority.
+
+The court order comes after weeks of investigation by the Criminal Investigation Department (CID) into the alleged procurement of a batch of substandard Ig vials in 2023.
+
+### Court Blocks University Student Protests in Colombo
+
+*2024-01-17 16:21:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/court-blocks-university-student-protests-in-colombo/)*
+
+COLOMBO (News 1st); The Maligakanda Magistrate's Court issued an order today barring nine individuals, including the convener of the Inter-University Students' Federation, from holding protests and demonstrations on several key roads in Colombo.
+
+The court order comes in response to a request filed by the Maradana Police OIC, who informed the court about plans for a student march starting near Viharamaha Devi Park and moving towards the Colombo Fort railway station via the Lipton Roundabout.
+
+The court order prohibits the nine individuals, including the IUSF convener, from holding demonstrations and marches on Kularatne Mawatha, Orabi Pasha Mawatha, Sangharaja Mawatha, Deans Road, Darley Road, Hospital Square, and surrounding roads and sidewalks.
+
+### Sri Lanka achieves Hepatitis B control – WHO
+
+*2024-01-17 16:12:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/sri-lanka-achieves-hepatitis-b-control-who/)*
+
+COLOMBO (News 1st): Sri Lanka and the Maldives have achieved hepatitis B control, the World Health Organization announced on Wednesday (17) after an expert panel verified that the two countries have had consistently high coverage of hepatitis B vaccine doses in infants and a low prevalence of the deadly disease, corroborated through serological surveys conducted recently in both countries.
+
+“I congratulate and commend Maldives and Sri Lanka on their achievement which once again demonstrates the earnest efforts being made by the health leaders and officials, health workers and the people of these countries towards health and well-being of communities,” said Dr Poonam Khetrapal Singh, Regional Director WHO South-East Asia.
+
+The Expert Panel for Verification of Hepatitis B Control in WHO South-East Asia Region reviewed childhood immunization data from Maldives and Sri Lanka that showed consistent over 90% coverage with Hepatitis B vaccine doses provided during infancy for past many years. The experts also reviewed the findings of national surveys conducted among children in 2022-2023, in these countries.
+
+“Based on the evidence presented to it, the Expert Panel concluded that the standards required for verification of Hepatitis B control have been met in both these countries and hence recommended that this important public health target has been achieved in Maldives and Sri Lanka”, said Dr Supamit Chunsuttiwat, chairperson of the Regional Expert Panel for verification of Hepatitis B control in South-East Asia.
+
+The two countries join Bangladesh, Bhutan, Nepal and Thailand, who achieved the same feat in 2019.
+
+Preventing Hepatitis B infection in infancy substantially reduces chronic infections and cases of liver cancer and cirrhosis in adulthood.
+
+Hepatitis control continues to be an important public health initiative in the South-East Asia Region of WHO that comprises of 11 countries and is home to a quarter of the world’s population. The Region has an estimated 60 million people living with chronic hepatitis B and 218,000 dying every year of hepatitis B and C. Of the persons eligible for antiviral treatment only about 10% know their status and less than 5% of them are on treatment.
+
+In 2016, the South-East Asia Regional Immunization Technical Advisory Group endorsed a regional goal of hepatitis B control with a target of reducing hepatitis B prevalence to less than 1% among children aged at least 5 years.
+
+Hepatitis B vaccine, as a part of the pentavalent vaccine, has been included in the national childhood immunization schedule of all countries of the Region, with three doses of this vaccine provided to children during their first year of life. Eight countries of the Region also have a policy of providing a birth dose of Hepatitis B vaccine to the newborn babies.
+
+The Region made good progress in improving immunization coverage of the pentavalent vaccine until 2019. However, there was a decline in the coverage in several countries of the Region in 2020 and 2021 following the COVID-19 pandemic.
+
+Intensive efforts in countries have resulted in the revival of childhood immunization coverage to pre-pandemic levels in several countries and the WHO and UNICEF estimates for 2022 show that the overall coverage of 3rd dose of pentavalent vaccine has recovered to the pre-pandemic level of 91% in the Region, a sharp increase from 82% coverage level reported in 2021.
+
+Dr Khetrapal Singh said that countries also need to focus on improving the hepatitis B vaccine birth dose which continues to have a relatively slow uptake with an estimated coverage of only 58% in the Region in 2022. One of the key barriers for achieving high hepatitis B vaccine birth dose coverage remains the high proportion of home deliveries, that do not allow timely access of the Hepatitis B vaccine to these newborns, she said.
+
+Inequities in immunization service delivery, suboptimal awareness and/training of health staff at birthing facilities; particularly in terms of false contraindications and/or fear of adverse events following immunization also contribute to sub-optimal coverage of Hepatitis B vaccination coverage, the Regional Director said.
+
+The control of hepatitis B through immunization is a priority for our Region. Achieving the control goal is a critical step as we progress towards elimination of mother to child transmission of the hepatitis B virus, she said.
+
+WHO’s “triple elimination initiative” encourages countries to simultaneously commit to such elimination together with HIV and syphilis – further pushing the agenda for integrated service delivery.
+
+"Hepatitis must be prevented and treated. In addition to vaccination, continued efforts are needed to scale up other preventive measures such as safe injection, safe blood and infection prevention and control,” the Regional Director said.
 
 ### JVP’s Wasantha Samarasinghe files FR petition against Anti-Terrorism Bill
 
@@ -146,6 +216,58 @@ Cooperating organisations partnered in the Global Market Network include the Fai
 
 The fair trade standards are said to empower farming and labour communities by addressing power imbalances in trade relationships, volatile markets and inequities in traditional trade. The approach is meant to contribute to increasing foreign exchange earnings for the countries and socio-economic development of farmers and workers across countries. (Colombo/Jan17/2024)
 
+### Parliament Eyes Expanded Economic Zone in Indian Ocean
+
+*2024-01-17 15:25:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/parliament-eyes-expanded-economic-zone-in-indian-ocean/)*
+
+COLOMBO (News 1st); The Sri Lankan Parliament's Sectoral Oversight Committee on International Relations is exploring the potential of exploiting resources beyond the country's current exclusive economic zone (EEZ).
+
+During a recent meeting on January 9, 2024, the committee, chaired by MP Akila Ellawala, focused on the National Oceanic Affairs Committee Secretariat (NOACS), an agency under the Ministry of Foreign Affairs responsible for maritime matters.
+
+Dr. N.P. Vijayananda, the current chairperson of NOACS, presented to the committee the possibility of utilizing a sea area up to 250 nautical miles beyond the existing 200-nautical-mile EEZ for economic activities.
+
+This area falls under the continental shelf jurisdiction as defined by the United Nations Convention on the Law of the Sea.
+
+Dr. Vijayananda emphasized the need for regional cooperation, particularly with India, to access this area. He highlighted the region's potential for fuel exploration and its significance for Sri Lanka's marine biodiversity.
+
+Committee Chair Ellawala expressed the need for swift action in pursuing this opportunity.
+
+He stated that the committee intends to request the relevant minister to expedite negotiations with neighboring countries and coordinate efforts with the Ministry of Defense.
+
+### Sri Lanka’s Prison Population Sees Significant Rise
+
+*2024-01-17 15:17:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/sri-lanka-s-prison-population-sees-significant-rise/)*
+
+COLOMBO (News 1st); The Sri Lankan prison system has witnessed a recent increase in its inmate population, according to a statement released today by Prison Media Spokesman Gamini B. Dissanayake.
+
+As of now, approximately 32,000 individuals are incarcerated in Sri Lanka's prisons.
+
+In response to this rise, Dissanayake outlined efforts to manage the growing population.
+
+He announced that convicts sentenced to one or two months for various offenses will be directed to Pallansena Prison Camp.
+
+This move aims to ease the pressure on larger prisons and optimize resource allocation.
+
+Furthermore, Dissanayake noted that some convicts are being sent to prison labor camps and open air prisons.
+
+### Nurses Union Strike Disrupts Services in Parts of Sri Lanka
+
+*2024-01-17 15:11:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/nurses-union-strike-disrupts-services-in-parts-of-sri-lanka/)*
+
+COLOMBO (News 1st); The Government Nurses Union (GNU) launched a 24-hour strike today protesting what they deem an unfair disparity in allowance increases for doctors.
+
+Union Secretary Ajith Ratnayake confirmed the strike will continue until 7 am tomorrow.
+
+The move stems from a recent decision by the President to increase doctors' allowances by Rs. 35,000, a decision that other healthcare professionals feel unfairly excludes them.
+
+Colombo National Hospital witnessed seemingly unchanged routines, while Gampaha District General Hospital reported normalcy in daily operations.
+
+However, nurses at Matara General Hospital fully supported the strike, leaving patients impacted. This pattern continued in the north, with disruptions reported at both Kilinochchi District General and Vavuniya General Hospitals.
+
+The union's primary grievance surrounds a recent allowance increase granted solely to doctors.
+
+Ratnayake contends that such disparities are unjustifiable and detrimental to the entire healthcare system.
+
 ### கொத்து சாப்பிட்ட பெண் நிரந்தர உறக்கம்
 
 *2024-01-17 15:08:07 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கொத்து-சாப்பிட்ட-பெண்-நிரந்தர-உறக்கம்/175-331666)*
@@ -161,6 +283,38 @@ The fair trade standards are said to empower farming and labour communities by a
 மறுநாள் அதிகாலை அப்பெண் எழுந்திருக்காத நிலையில்  குறித்த பெண்ணின் கணவர் பெண்ணை  ஹொரணை மாவட்ட பொது வைத்தியசாலைக்கு கொண்டுசென்ற போது  அவர்  உயிரிழந்துள்ளமை ​ தெரியவந்துள்ளது.
 
 மேலும் ஹொரணை ஆதார வைத்தியசாலையில் நடத்தப்பட்ட பிரேத பரிசோதனையின் அடிப்படையில் , உடல் பருமன் காரணமாக நுரையீரல் செயல்பாடு தடைப்பட்டு, ஆக்ஸிஜன் பற்றாக்குறையால் சுவாசிப்பதில் சிரமம் ஏற்பட்டு குறித்த பெண் உயிரிழந்துள்ளதாக ஹொரண மரண விசாரணை நீதவான் சுமேதா குணவர்தன தெரிவித்துள்ளார்.
+
+### Colombo port sees jump in traffic amid Red Sea tensions
+
+*2024-01-17 15:02:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/colombo-port-sees-jump-in-traffic-amid-red-sea-tensions/)*
+
+(Reuters) – Sri Lanka's Colombo port has seen a big jump in container volumes in recent weeks as vessels steering clear of tensions in the southern Red Sea have found it a convenient transit point, officials said on Tuesday.
+
+Yemen's Iran-backed Houthi rebels have since November attacked ships in the Red Sea, part of a route that accounts for about 12% of the world's shipping traffic, in what they say is an effort to support Palestinians in the war with Israel.
+
+In response, some shipping companies have instructed vessels to sail around Africa's Cape of Good Hope, a slower and more expensive route.
+
+Due to Colombo's strategic location, stopping at the port gives ships convenient access to the Middle East, South Asia and East Asia, said Lal Weerasinghe, a senior official at the Sri Lanka Ports Authority (SLPA).
+
+"When ships come past South Africa, Colombo is the first hub they meet…Singapore is further away. So this is the easiest port to access," Weerasinghe said.
+
+Port of Colombo is a key port between Africa, the Middle East and East Asia and handled 6.94 million 20-foot equivalent unit (TEU) in 2023, a 2% jump for the year, SLPA data showed. In December, TEUs jumped 15% on year.
+
+Over the last four to six weeks, shipping lines requested more berthing windows at the port's three terminals and transhipment volumes from neighbouring India also grew, two terminal operators said.
+
+"We typically handle about 5,000-5,500 TEUs (per day) but since late last year there has been an increase of about 1,000 TEUs per day," said Weerasinghe.
+
+"We were forced to decline requests from about four shipping lines to increase traffic because it would cause delays for existing customers."
+
+As much as 50% of the uptick is from Mediterranean Shipping Company, the leading container shipping company, Weerasinghe added.
+
+Shipping companies are also increasingly using Colombo as a relaying port, sometimes offloading their entire cargo to a different ship, he added.
+
+Vessel calls have risen at other Colombo port terminals too.
+
+"There is a lot of transhipment from India. We are hoping increased traffic will help Colombo port edge closer to double-digit growth in the first quarter," said an official from a privately-run terminal.
+
+He declined to be named as he is not authorised to speak to the media.
 
 ### Sri Lanka manufacturing, services expand in Dec in festive demand: PMI
 
@@ -263,6 +417,24 @@ The event was attended by State Minister Arundika Fernando, Member of Parliament
 இந்த விமானத்தில் 22 வணிக வகுப்பு இருக்கைகள் மற்றும் 240 எகானமி வகுப்பு இருக்கைகள் உள்ளதாகவும், இரண்டு என்ஜின்கள் மூலம் இயக்கப்படுவதாகவும் தெரிவிக்கப்பட்டுள்ளது.
 
 இந்த புதிய விமானத்தின் வருகையானது ஸ்ரீலங்கன் எயார்லைன்ஸ் எதிர்நோக்கும் விமான தாமதங்கள் மற்றும் இரத்துச் சம்பவங்களுக்கு ஒரு தீர்வாக அமையும் என தெரிவிக்கப்பட்டுள்ளது.
+
+### Sri Lanka and India To Fast-Track UPI Rollout
+
+*2024-01-17 14:06:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/sri-lanka-and-india-to-fast-track-upi-rollout/)*
+
+COLOMBO (News 1st); Sri Lanka and India are accelerating plans for an early roll-out of the Unified Payments Interface (UPI) system in Sri Lanka, a move anticipated to significantly enhance bilateral economic cooperation.
+
+This emerged during a meeting yesterday between Sri Lankan State Finance Minister Shehan Semasinghe and Indian High Commissioner to Sri Lanka, Santosh Jha.
+
+The high-level discussions, held in Colombo, highlighted India's unwavering support for Sri Lanka's ongoing debt restructuring process and its broader economic recovery efforts.
+
+Both sides had discussed to expedite the implementation of UPI in Sri Lanka. This digital payment system, revolutionizing India's financial landscape, is poised to offer enhanced convenience and security for transactions between the two countries.
+
+Discussions included exploring avenues for increased use of the Indian rupee (INR) in bilateral trade, potentially reducing currency conversion costs and streamlining financial transactions.
+
+Finance Minister Semasinghe described the meeting as "fruitful," stressing the importance of "collaborative initiatives to enhance economic ties and progress on the debt restructuring process."
+
+The Indian High Commission echoed this sentiment, stating via X (Twitter) that they discussed "early launch of UPI, promoting INR trade settlement & investments-led economic partnership."
 
 ### Emirates launches global recruitment drive, plans to hire 5,000 cabin crew in 2024
 
@@ -592,12 +764,6 @@ The Ambassador acknowledged the ongoing challenges facing Russia, including inte
 
 The sunflower oil donation comes amid a difficult period for Sri Lanka, with the country grappling with an economic crisis. The aid is aimed at supporting Sri Lankan households facing food shortages and rising prices.
 
-Reforms starting to pay off! Kristalina tells Ranil in Davos
-
-Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
-
-MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
-
 ### දුමින්දට ගෝඨා දුන් සමාව නීත්‍යානුකුල නෑ - මරණ දඩුවම යළිත් ක්‍රියාත්මක කිරීමට නියෝග
 
 *2024-01-17 11:14:23 - [adalk](https://www.ada.lk/breaking_news/දුමින්දට-ගෝඨා-දුන්-සමාව-නීත්‍යානුකුල-නෑ---මරණ-දඩුවම-යළිත්-ක්‍රියාත්මක-කිරීමට-නියෝග/11-407593)*
@@ -712,6 +878,24 @@ J M Susaidasan as chairman of Sri Lanka State Mortgage and investment bank. (Col
 
 අනාගතය දෙස බලමින්, කම්කරු නීති ද ඇතුළත් වන පිරිදි නව නීති 40 ක් හෝ 50 ක් සම්පාදනය කිරීමත්, දැනට පවතින නීති 40 සිට 50ක ප්‍රමාණයක් නවීන සහ ඉදිරි දැක්ම සහිත රාමුවක් තුළට ඒකාබද්ධ කිරීමත් සිදු කෙරෙන බව ද සදහන් කළේය.
 
+### Urgent Call For Action: Sri Lanka Must Enact The Long-Awaited Animal Welfare Bill
+
+*2024-01-17 10:56:32 - [colombotelegraphcom](https://www.colombotelegraph.com/index.php/urgent-call-for-action-sri-lanka-must-enact-the-long-awaited-animal-welfare-bill/)*
+
+In a country where the penalty for the cruel killing of a dog stands at a meager Rs.100, the urgency for comprehensive legislation to protect animals has never been more evident. Sri Lanka stands at a crossroads, holding within its grasp the power to usher in a new era of compassion and justice for its four-legged citizens. The proposed Animal Welfare Bill, which garnered cabinet approval in 2022 after 15 years of advocacy, is a beacon of hope that must not be allowed to fade into legislative obscurity.
+
+The existing Prevention of Cruelty to Animals Ordinance, a century-old, 3-page relic, falls woefully short of addressing the complexities of contemporary animal welfare issues. It is a document out of sync with the times, unable to provide the robust legal framework needed to safeguard animals from abuse and cruelty. In a commendable move, the Animal Welfare Bill, gazetted on 07.02.2022, seeks to replace this outdated ordinance, offering stronger, more comprehensive provisions that reflect the evolving understanding of animal rights.
+
+Regrettably, despite receiving cabinet approval and being hailed by animal welfare activists as a significant step forward, the Bill has languished without making its way to Parliament for enactment. The question on the minds of concerned citizens echoes loudly: How many more years must pass before Sri Lanka takes decisive action to protect its animals?
+
+The need for urgency cannot be overstated. Animal abusers continue to act with impunity, emboldened by the absence of a robust legal deterrent. A mere Rs.100 fine for the cruel killing of a dog is not only a mockery of justice but also a disheartening signal that the value of animal lives remains grossly underestimated.
+
+The citizens of Sri Lanka, along with impassioned animal welfare advocates, unite in their call for the swift enactment of the Animal Welfare Bill. It is not merely a matter of introducing legislation but an imperative to create a legal foundation that empowers authorities to take decisive action against those who inflict harm on innocent animals. The delay in enacting this crucial Bill only perpetuates the vulnerability of animals and erodes the moral fabric of the nation.
+
+Sri Lanka has an opportunity to showcase its commitment to compassion, justice, and progress by enacting the Animal Welfare Bill without further delay. Let this be the moment when the nation rises above outdated norms, sending a resounding message that the welfare of animals is a priority and that cruelty will no longer be tolerated. The time for action is now, and Sri Lanka must seize this opportunity to shape a future where animals are afforded the protection they rightfully deserve.
+
+*The writer is a practicing attorney at law and who is also an animal rights advocate
+
 ### Supreme Court deems Duminda Silva’s presidential pardon invalid
 
 *2024-01-17 10:54:00 - [adaderanalk](https://www.adaderana.lk/news/96470/supreme-court-deems-duminda-silvas-presidential-pardon-invalid)*
@@ -738,6 +922,24 @@ Accordingly, the Supreme Court ordered the Commissioner General of Prisons to ta
 
 இது தொடர்பில் கடுவெல பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலையடுத்து  சம்பவ இடத்திற்குச் விரைந்த போது சிறுவன் முதலையின் வாயில் சிக்கிக் கொண்டிருப்பதையும்  பலமுறை அந்த முதலை ஆற்றில் மேல் பரப்பிற்கு வந்து சென்றுள்ளதையும் கண்டுள்ளனர்.
 
+### President Affirms Commitment To Two-State Solution In Palestine – A comment
+
+*2024-01-17 10:48:21 - [colombotelegraphcom](https://www.colombotelegraph.com/index.php/president-affirms-commitment-to-two-state-solution-in-palestine-a-comment/)*
+
+I refer to the above headed front page news report in the Daily News of 12th January 2024 and wish to express my views:
+
+1. By prescribing a two-State solution to the current armed conflict between Israel and Palestine, the President exposes his double standards in solutions to the Israel/ Palestine national question and our own Tamil National Question. This is not saying a Two-State solution in Palestine is undesirable and be rejected. Both questions are identical, the Palestine and the Tamil National question in Sri Lanka. If the question is the same, then naturally it follows that the solutions to both should be the same. The difference is that the President and every Sri Lankan Government, since the beginning of the Tamil National question in 1956, have been stubbornly negating a workable solution to the Tamil National question, leave aside a Two-State solution. Furthermore, the Tamils have a far more deep rooted history in Sri Lanka than the Jews and Islamic Palestinians, in Judea. The Tamils are original inhabitants of Sri Lanka, from prehistoric times, when Sinhalese and their Sinhala language did not even exist.
+
+2. National leaders should rule by principles and not by subjective self interests of one’s racial identity. If the President is driven by principle to prescribe a two-State solution to the Israel/Palestine question, then the same principle should be applied to a similar situation in Sri Lanka. Principles are universal in character. Principles are independent and stand on their intrinsic right, and not subject to vagaries of time, place and persons.
+
+3. In respect of the Tamil national question the President negates the law of principle and even denies the complete implementation of the Indo-Sri Lanka Accord by not devolving to the North East Provincial Council that was established, both Land and Police powers, under a Unitary Sri Lankan State. The minority Tamils have not claimed for a two-State solution, which the President is committed to Israel/Palestine question. The Tamils are not seeking for a separate State. What the Tamils are seeking is a North East con-federal State within an undivided Sri Lanka. President is committed to a Two- State or Two-Country solution to the Israel/Palestine conflict but not willing to commit even to consider a Federal State to the Tamils within an undivided Sri Lanka. This exposes his double standards in principle. This is despite the Tamils having had a Northern Tamil Kingdom from historical past up to the time of arrival of the Colonial Power, the Portuguese in 1505.
+
+4. It is clear as crystal that what drives the President is not the lopsided commitment to a Two-State solution to Israel/Palestine conflict, but self-interested opportunity to woo the Muslim community for votes at the impending Presidential elections.
+
+5. The Presidents and Governments of Sri Lanka are doing exactly the same thing what the Israel is doing in Palestine by expanding and colonizing land in Palestine, by keeping the Armed forces in occupation of the North Eastern region and applying pressure and intimidation to the remaining Tamil population to leave the land by emigration, accompanied by parallel Sinhalisation and Buddhisisation of North East, to establish a Sinhala Buddhist domination, hegemony under a complete Unitary Sri Lankan State.
+
+6. Since the Tamils are the inhabitants of Sri Lanka from pre-historic times and the Sinhalese and their language evolved only in 7th century CE, the President should evince far greater commitment for a con-federal State solution for our own Tamil problem at the door step, without a separate State solution ,than be preoccupied with a distant Palestine problem. It seems the President has far greater altruistic concern for the Jewish and Palestinian people than for the Lankan Tamil people. To be a Statesman, principled action is a necessary quality.
+
 ### BREAKING: Supreme Court Declares Duminda Silva Pardon Unlawful
 
 *2024-01-17 10:45:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/breaking-supreme-court-declares-duminda-silva-pardon-unlawful/)*
@@ -755,12 +957,6 @@ Three separate fundamental rights petitions challenging the legality of the pard
 The fundamental rights applications were filed by Hirunika Premachandra, her mother Sumana Premachandra, and Former Human Rights Commissioner Ghazali Hussain, PC.
 
 After careful consideration, the bench, comprising Justices P. Padman Surasena, Gamini Amarasekera, and Arjuna Obeysekera, unanimously concluded that the pardon process was flawed and therefore unlawful.
-
-Reforms starting to pay off! Kristalina tells Ranil in Davos
-
-Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
-
-MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
 
 ### தனியார் வகுப்புகள் குறித்து அமைச்சர் கருத்து
 
@@ -809,12 +1005,6 @@ The successful completion of the IMF's first program review in December 2023 fur
 Wickremesinghe said this achievement is a turning point, paving the way for the economy to shift from stabilization to recovery and growth in 2024.
 
 He emphasized the need for continued commitment to IMF-backed reforms and reiterated the importance of transparency and accountability.
-
-Reforms starting to pay off! Kristalina tells Ranil in Davos
-
-Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
-
-MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
 
 ### செங்கடலில் பதற்றம்; கொழும்பு துறைமுகத்திற்கு கிடைத்த நன்மை
 
@@ -891,12 +1081,6 @@ Sri Lanka has been looking to sell its national airline at least since mid 2022,
 *2024-01-17 09:55:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/talk-of-the-town-charting-the-anti-corruption-landscape-piumi-madushani-17th-january-2024/)*
 
 Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
-
-Reforms starting to pay off! Kristalina tells Ranil in Davos
-
-Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
-
-MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
 
 ### அரச தாதியர்கள் இன்று பணிப்பகிஷ்கரிப்பில் !
 
@@ -1169,12 +1353,6 @@ Meanwhile, US forces carried a third set of strikes on Houthi bases in Yemen lat
 In Gaza, fighting continued to rage, with a tentative deal reached for Qatar to send in a shipment of medicines.
 
 The UN in a statement late Tuesday said that almost the entire population of Gaza is going hungry and said Israel is “destroying Gaza’s food system and using food as a weapon against the Palestinian people”.
-
-Reforms starting to pay off! Kristalina tells Ranil in Davos
-
-Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
-
-MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
 
 ### ICJ says new Bill to establish “Commission for Truth, Unity and Reconciliation” lacks credibility
 
@@ -1566,6 +1744,22 @@ Leave a Reply Cancel replyYour email address will not be published. Required fie
 
 Save my name, email, and website in this browser for the next time I comment.
 
+### HNB General Insurance makes a strategic leap towards a futuristic insurance system
+
+*2024-01-16 23:08:00 - [islandlk](http://island.lk/hnb-general-insurance-makes-a-strategic-leap-towards-a-futuristic-insurance-system/)*
+
+In a bold move to accelerate its digital transformation, HNB General Insurance (“HNBGI”) has announced the launch of Project Phoenix, a strategic initiative in collaboration with Azentio Software to implement a world-class Core Insurance System. This ambitious project marks a significant milestone in HNBGI’s digital transformation journey, promising unparalleled value to its stakeholders.
+
+Project Phoenix signifies HNBGI’s unwavering commitment to enhancing efficiency, accuracy, and overall operational effectiveness, ultimately benefiting all stakeholders. “This initiative aligns perfectly with our mission to create sustainable value through innovation,” said Sithumina Jayasundara, CEO of HNBGI. “The upgrade and customization brought about by Project Phoenix will propel us to new heights, elevating our competitiveness, operational efficiency, accuracy and agility in a rapidly evolving market. This, in turn, translates to better service delivery for our customers.”
+
+Price of fertilizer used in tea cultivation reduced by Rs. 2000
+
+HNBGI signs MOU with ACIB to offer comprehensive 07 in 01 insurance coverage
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
 ### Sign Network LK makes Colomboscope Arts Festival inclusive & accessible to the deaf
 
 *2024-01-16 23:06:00 - [islandlk](http://island.lk/sign-network-lk-makes-colomboscope-arts-festival-inclusive-accessible-to-the-deaf/)*
@@ -1601,247 +1795,3 @@ HNB General Insurance makes a strategic leap towards a futuristic insurance syst
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
 Save my name, email, and website in this browser for the next time I comment.
-
-### Three regional telecom players show interest in SLT shares as latter appreciate
-
-*2024-01-16 22:59:00 - [islandlk](http://island.lk/three-regional-telecom-players-show-interest-in-slt-shares-as-latter-appreciate/)*
-
-SLT shares in the stock market were active and tended to appreciate yesterday as three regional telecom players came out with Requests for Quotes to invest in the company. These developments are a part of the government’s strategy to divest State-Owned- Enterprises, analysts said.
-
-Three investors have expressed interest in buying Sri Lanka Telecom shares to the island’s State-Owned Enterprises Restructuring Unit and those entities are: Jio Platforms Ltd, Gujarat, India, Gortune International Investment Holding Ltd, submitted by Capital Alliance Limited and Pettigo Comercio International LDA, submitted by NDB Investment Bank Ltd. Jio Platforms is a unit of Reliance Industries headed Mukesh Ambani and Pettigo is part of the Lycamobile Group headed by Allirajah Subashkaran in UK.
-
-The proposals will be evaluated under Special Guidelines on Divestiture of State-Owned Enterprises approved by the Cabinet of Ministers in July 2023.
-
-The share market reflected a degree of dullness because investors are worried that upcoming earnings would create some negative pressure on the market. Both indices moved downwards. The All- Share Price Index went down by 65.3 points while S and P SL20 declined by 19.16 points.
-
-Turnover stood Rs 1.5 billion with four crossings. Those crossing were reported in Ceylinco Insurance, where 813,000 shares (Non-Voting) crossed to the tune of Rs 634 million; its shares traded at Rs 7.80, Melstacope’s 2.4 million shares crossed for Rs 211 million; shares traded at Rs 85, Hemas Holdings 750,000 shares crossed for Rs 51.7 million; its shares traded at Rs 69 and Marawila Resort 6.5 million shares crossed for Rs 21.4 million; its shares traded at Rs 3.30.
-
-In the retail market top seven companies that mainly contributed to the turnover were, Ceylinco Insurance (Non- Voting) Rs 133 million (170,000 shares traded), Capital Alliance Rs 62.8 million (1.1 million shares traded), Lanka IOC Rs 38.6 million (379,000 shares traded), JKH Rs 37.2 million (199,000 shares traded), Browns Investments Rs 36.6 million (8.1 million shares traded), Commercial Bank Rs 33.3 million (365,000 shares traded) and SLT Rs 27.2 million (281,000 shares traded). During the day 37.6 million share volumes changed hands in 7600 share transactions.
-
-Yesterday, the US dollar buying rate was Rs 317.35 and selling rate Rs 327.18.
-
-New technology figuring in the preparation of dried and Maldive fish for export
-
-Visits by IMF delegation and Japanese Finance Minister positively impact CSE
-
-Hotels going in for right issues in preparation for tourist season
-
-Share market indices dip in the wake of Vallibel One’s negative contribution
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### Kerala cannabis worth over Rs. 30 mn seized during naval operation in Jaffna
-
-*2024-01-16 22:34:00 - [adaderanalk](https://www.adaderana.lk/news/96462/kerala-cannabis-worth-over-rs-30-mn-seized-during-naval-operation-in-jaffna)*
-
-A stock of 34 kilograms of Kerala Cannabis was seized by the Sri Lanka Navy in a recent operation on the Pungudutivu Island in Jaffna.
-
-The stock, valued at an estimate of over Rs. 13 million, was seized during a naval operation carried out on Monday (15 Jan.).
-
-The consignment of Kerala cannabis was found in 16 parcels inside a sack hidden in the shrubs in the beach vicinity, the Navy reported.
-
-Accordingly, the haul of Kerala cannabis will remain in the custody of the Navy until it is handed over to the relevant authorities for onward legal action.
-
-### Kerala cannabis worth over Rs. 13 mn seized during naval operation in Jaffna
-
-*2024-01-16 22:34:00 - [adaderanalk](https://www.adaderana.lk/news/96462/kerala-cannabis-worth-over-rs-13-mn-seized-during-naval-operation-in-jaffna)*
-
-A stock of 34 kilograms of Kerala Cannabis was seized by the Sri Lanka Navy in a recent operation on the Pungudutivu Island in Jaffna.
-
-The stock, valued at an estimate of over Rs. 13 million, was seized during a naval operation carried out on Monday (15 Jan.).
-
-The consignment of Kerala cannabis was found in 16 parcels inside a sack hidden in the shrubs in the beach vicinity, the Navy reported.
-
-Accordingly, the haul of Kerala cannabis will remain in the custody of the Navy until it is handed over to the relevant authorities for onward legal action.
-
-### Badulla night-mail train breaks down
-
-*2024-01-16 22:32:00 - [adaderanalk](https://www.adaderana.lk/news/96461/badulla-night-mail-train-breaks-down)*
-
-The night-mail train plying from Colombo to Badulla reportedly suffered a technical breakdown near the Veyangoda railway crossing a short while ago.
-
-The Sri Lanka Railways Department assured, however, that measures are afoot to resolve the matter promptly.
-
-### Maldivian parliamentary delegation led by Speaker call on Acting Foreign Minister
-
-*2024-01-16 21:57:00 - [adaderanalk](https://www.adaderana.lk/news/96460/maldivian-parliamentary-delegation-led-by-speaker-call-on-acting-foreign-minister)*
-
-A delegation of the Maldivian Parliament, led by the Speaker of the People’s Majlis, called on Sri Lanka’s Acting Foreign Minister on Tuesday (16 Jan.).
-
-The Speaker of the People’s Majlis of Maldives Mohamed Aslam, accompanied by a delegation of Members of Parliament, called on Acting Foreign Minister Tharaka Balasuriya today, at the Ministry of Foreign Affairs.
-
-The Acting Foreign Minister welcomed the visiting delegation and exchanged views on bilateral relations between the two countries, particularly in relation to the cooperation between the legislatures.
-
-The seven-member delegation, comprising members of the Sri Lanka-Maldives Parliamentary Friendship Association, is on an official visit to Sri Lanka from 15-19 January 2024 at the invitation of Parliament Speaker Mahinda Yapa Abeywardana.
-
-Senior officials of the Ministry of Foreign Affairs and the High Commission of Maldives in Colombo were also present at the meeting, the ministry said.
-
-### Another ship hit in Red Sea, disruption seen driving up prices
-
-*2024-01-16 21:29:00 - [adaderanalk](https://www.adaderana.lk/news/96459/another-ship-hit-in-red-sea-disruption-seen-driving-up-prices)*
-
-Disruptions to Red Sea shipping caused by Houthi attacks will push up prices of consumer goods, an executive from port and freight operator DP World said on Tuesday as a missile struck another vessel in the region.
-
-The Iran-allied Houthi militia has threatened to expand its attacks to include U.S. ships in response to American and British strikes on its sites in Yemen.
-
-Attacks by the Houthis on ships in the region since November have impacted companies and alarmed major powers - an escalation of Israel’s more than three-month-old war with Palestinian Hamas militants in Gaza. The Houthis say they are acting in solidarity with Palestinians.
-
-DP World CFO Yuvraj Narayan said he expected disruptions to hit European consumers hardest.
-
-“The cost of goods into Europe from Asia will be significantly higher,” Narayan told Reuters at the annual World Economic Forum meeting in Davos, Switzerland.
-
-“European consumers will feel the pain ... It will hit developed economies more than it will hit developing economies,” the Dubai-based logistics company’s finance chief added.
-
-Two heads of international banking groups said privately in Davos they were worried the crisis might cause inflationary pressures which could ultimately delay or reverse interest rate cuts and jeopardise hopes for a U.S. economic soft landing.
-
-War risk insurance premiums for shipments through the Red Sea are rising, insurance sources said on Tuesday.
-
-In Spain, four factories owned by French tyre maker Michelin are planning to halt output again this weekend due to delays in the delivery of raw materials.
-
-A Malta-flagged, Greek-owned bulk carrier was targeted and hit by a missile while northbound in the Red Sea 76 nautical miles northwest of the Yemeni port of Saleef, a security firm and two Greek shipping ministry sources said on Tuesday.
-
-The vessel, the Zografia, was sailing from Vietnam to Israel with 24 crew on board and was empty of cargo when attacked, one of the Greek sources said. “There were no injuries, only material damage,” the source added. It was still sailing but would probably reroute for safety checks.
-
-Underlining concerns, Japanese shipping operator Nippon Yusen (9101.T), opens new tab, also known as NYK Line, instructed its vessels navigating near the Red Sea to wait in safe waters and is considering route changes, a company spokesperson said.
-
-Shipping giant Maersk (MAERSKb.CO), opens new tab, however, sent two container ships through the Red Sea carrying goods for the U.S. military and government.
-
-Container vessels have been pausing or diverting from the Red Sea that leads to the Suez Canal, the fastest freight route from Asia to Europe. Many ships have been forced to circumnavigate South Africa’s Cape of Good Hope instead.
-
-British oil major Shell (SHEL.L), opens new tab has suspended all shipments through the Red Sea indefinitely after the U.S. and UK strikes triggered fears of further escalation, the Wall Street Journal reported on Tuesday. Shell declined to comment.
-
-Russian tanker group Sovcomflot (FLOT.MM), opens new tab is also considering alternative routes in case the crisis escalates, TASS news agency reported. Sovcomflot did not immediately respond to a Reuters request for comment.
-
-European diplomats said member states of the European Union had given initial backing to creation of a naval mission by Feb. 19 to help protect ships from Houthi attacks in the Red Sea.
-
-The existing U.S.-led coalition meant to safeguard commercial traffic in the Red Sea is weak because regional powerhouses Saudi Arabia, the United Arab Emirates and Egypt have not taken part, Yemen’s vice president said on Tuesday.
-
-“This Bab al-Mandab corridor is of interest to the whole world and to the region, so regional intervention is key,” Aidarous al-Zubaidi told Reuters in an interview, referring to the narrow strait at the southern entrance to the Red Sea.
-
-Zubaidi’s separatist Southern Transitional Council is part of an alliance that opposes the Houthis in Yemen.
-
-Saudi Arabia’s foreign minister underline the link between Houthi attacks on commercial ships to the war in Gaza. Prince Faisal bin Farhan Al Saud said the kingdom’s priority is finding a path to de-escalation through a ceasefire in Gaza.
-
-Also speaking in Davos, Chinese Premier Li Qiang said it was important to keep global supply chains “stable and smooth”.
-
-About 12% of world shipping traffic accesses the Suez Canal via the Red
-
-### ஹோட்டல் உரிமையாளரின் மனைவியை தாக்கிய பிச்சைக்காரன்
-
-*2024-01-16 21:24:32 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஹோட்டல்-உரிமையாளரின்-மனைவியை-தாக்கிய-பிச்சைக்காரன்/175-331611)*
-
-சுமார் 13 வருடங்களாக மதிய உணவு வழங்கி வந்த ஹோட்டல் உரிமையாளரின் மனைவியை கடுமையாக காயப்படுத்திய பிச்சைக்காரனை எதிர்வரும் 30 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கொழும்பு பிரதான நீதவான் பிரசன்ன அல்விஸ் இன்று உத்தரவிட்டுள்ளார்.
-
-மார்ட்டின் லியனகே என்ற பிச்சைக்காரனை விளக்கமறியலில் வைக்குமாறு உத்தரவிட்ட நீதவான், குறித்த பிச்சைக்காரனின் மனநல அறிக்கையை சமர்ப்பிக்குமாறு பொலிஸாருக்கு உத்தரவிட்டுள்ளார்.
-
-கொழும்பு போக்குவரத்து காவல்துறைக்கு அருகில் ஹோட்டல் நடத்தி வரும் ஹோட்டல் உரிமையாளர், குறித்த பிச்சைக்காரனுக்கு தினமும் சாப்பாடும் பானமும் கொடுத்து வந்திருக்கின்றார்.
-
-குறித்த பிச்சைக்காரர் மஹியங்கனைக்கு அருகில் உள்ள முதியோர் இல்லத்தில் இருந்து தப்பிச் சென்றவராவார், இவர் சாப்பாடு தாமதமாகியதால் ஆத்திரமடைந்து, கடை உரிமையாளரின் மனைவியின் தலையில் சரமாரியாக தாக்கி, கண்ணுக்கு மேல் தாக்கியதாக பாதிக்கப்பட்டவர்கள் சார்பில் சட்டத்தரணி நீதிமன்றில் தெரிவித்தார். R
-
-### President Ranil meets Al Gore in Davos
-
-*2024-01-16 21:15:00 - [adaderanalk](https://www.adaderana.lk/news/96458/president-ranil-meets-al-gore-in-davos)*
-
-President Ranil Wickremesinghe has convened a meeting with the former Vice President of the United States and founder/Chairman of The Climate Reality Project, Mr. Al Gore, on Tuesday (16 Jan.).
-
-This meeting took place in conjunction with the World Economic Forum in Davos, Switzerland, with the participation of Mr. Ruwan Wijewardena, the President’s Senior Adviser on Climate Change and Ms. Himali Arunathilaka, Ambassador and the Permanent Representative of Sri Lanka to the United Nations in Geneva.
-
-President Wickremesinghe is currently in Switzerland to attend the 54th Annual Meeting of the World Economic Forum.
-
-The Head of State left for Switzerland on 13 January for a 12-day stay town in the Swiss town of Davos where the event is taking place.
-
-The Annual Meeting of the World Economic Forum for the year 2024 is held from January 15 - 19 in Davos, Switzerland, under the theme ‘Rebuilding Trust’. It aims to restore collective agency, and reinforce the fundamental principles of transparency, consistency and accountability among leaders.
-
-### கொழும்பு பல்கலைக்கழக மாணவியை பலியெடுத்த டெங்கு
-
-*2024-01-16 20:53:29 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கொழும்பு-பல்கலைக்கழக-மாணவியை-பலியெடுத்த-டெங்கு/175-331610)*
-
-டெங்கு நோயினால் பாதிக்கப்பட்டு ஹொரண வைத்தியசாலையில் சிகிச்சை பெற்று வந்த 23 வயதுடைய பல்கலைக்கழக மாணவி இன்று உயிரிழந்துள்ளதாக வைத்தியசாலை பணிப்பாளர் டாக்டர் அயந்தி ஜயவர்தன தெரிவித்துள்ளார்.
-
-மாத்தளையைச் சேர்ந்த குறித்த யுவதி, கொழும்பு பல்கலைக்கழகத்தில் முதலாம் ஆண்டில் கல்வி கற்கும் திஸாநாயக்க முதியன்செலாகே ஹாசினி பாக்யா என்ற இளம் யுவதியே உயிரிழந்துள்ளார்.
-
-தீவிர சிகிச்சைப் பிரிவில் அனுமதிக்கப்பட்ட போது, அவர் சுயநினைவை இழந்துவிட்டதாக அவரது பெற்றோர் தெரிவித்தனர்.
-
-யுவதியை பல்வேறு பரிசோதனைகளுக்கு அனுப்பி வைத்த வைத்தியர்கள் அவருக்கு டெங்கு நோய் இருப்பதை உறுதிப்படுத்தியுள்ளனர்.
-
-அங்கு தீவிர சிகிச்சை பிரிவில் சிகிச்சை பெற்று வந்த யுவதி இன்று (16) அதிகாலை உயிரிழந்துள்ளார். R
-
-### Saudi Arabia cuts domestic worker hiring fee from several countries including Sri Lanka
-
-*2024-01-16 20:33:00 - [adaderanalk](https://www.adaderana.lk/news/96457/saudi-arabia-cuts-domestic-worker-hiring-fee-from-several-countries-including-sri-lanka)*
-
-Saudi Arabia has announced a reduction in the fees for recruiting domestic workers from several countries, including the Philippines, Sri Lanka, Bangladesh, Uganda, Kenya, and Ethiopia.
-
-The revised fees unveiled by the Ministry of Human Resources and Social Development are: From SR15,900 to SR14,700 for the Philippines; from SR15,000 to SR13,800 for Sri Lanka; from SR13,000 to SR11,750 for Bangladesh; from SR10,870 to SR9,000 for Kenya; from SR9,500 to SR8,300 for Uganda and from SR6,900 to SR5,900 for Ethiopia.
-
-The decision is part of the ministry’s efforts to review and regulate recruitment costs, ensuring fair pricing in line with the changing costs in the recruitment industry.
-
-Furthermore, the ministry has previously instructed licensed recruitment companies and offices to establish upper limits for the costs of recruiting domestic workers from specific nationalities.
-
-The set upper limit for recruiting domestic workers from Sierra Leone and Burundi is SR7,500, and SR10,000 from Thailand, exclusive of the value-added tax (VAT).
-
-The decision ‘aligns with the ministry’s broader goals to develop all services, improve the labour market environment and enhance its appeal,’ according to the ministry.
-
-It reflects the ministry’s commitment to periodically reviewing costs, services, and systems in response to economic changes, ensuring they are appropriately aligned.
-
-The ministry also emphasized the importance of adherence to these new price ceilings and stated that compliance would be monitored through the Musaned platform.
-
-This initiative highlights the ministry’s dedication to creating a balanced and fair recruitment environment in the kingdom.
-
-### பெருந்தோட்ட பகுதி மாணவர்களின் இடைவிலகல்கள்..!
-
-*2024-01-16 20:29:00 - [virakesarilk](https://www.virakesari.lk/article/174094)*
-
-சுதந்திரத்துக்கு பின்பும் இலவச கல்வியை பெறமுடியாத ஒரே சமூகத்தினராக இந்நாட்டில் மலையக பெருந்தோட்ட சமூகத்தினர் விளங்கினர். இந்த அவலம் சுமார் நாற்பது வருடங்கள் வரை நீடித்தன. அதன் பின்னர் படிப்படியாக தோட்டப்பாடசாலைகள் அரசாங்கத்தினால் உள்வாங்கப்பட்டு மாகாண பாடசாலைகளாக மாற்றம் பெற்ற பின்னரும் இலவச கல்வியை அவர்களால் முழுமையாக அனுபவிக்க முடியாத அவலம் தொடர்கின்றது.
-
-2023 ஆம் ஆண்டு மத்திய மாகாணத்தில் அதிக மாணவர் இடைவிலகல்களை கொண்ட மாவட்டமாக நுவரெலியா விளங்குகின்றது. இந்த புள்ளி விபரங்களை மத்திய மாகாண கல்வித் திணைக்களம் வெளியிட்டுள்ளது. அதன் படி மத்திய மாகாணத்தில் கடந்த வருடம் மொத்தமாக 1986 மாணவர்கள் தமது கல்வியை இடைநிறுத்தியுள்ளனர். அதிகமாக நுவரெலியா மாவட்டத்தின் நுவரெலியா கல்வி வலயத்தில் 570 மாணவர்களும் அட்டன் கல்வி வலயத்தில் 541 மாணவர்களும் கொத்மலை கல்வி வலயத்தில் 319 மாணவர்களும் கம்பளை கல்வி வலயத்தில் 209 மாணவர்களும் இடை விலகியுள்ளனர்.
-
-குறித்த கல்வி வலயங்கள் பெருந்தோட்டங்களை அதிகமாகக் கொண்ட பிரதேசங்களாகும். ஆகவே பொருளாதார நெருக்கடி மற்றும் வறுமை ஆகியன இந்த இடை விலகல்களில் செல்வாக்கு செலுத்துகின்றன.  ஆனால் 2022 ஆம் ஆண்டே மாணவர் இடைவிலகல் கணிசமாக அதிகரித்திருந்தன. அதற்கு  கொவிட் தாக்கம் மற்றும் அதைத் தொடர்ந்து நாட்டில் உருவான பொருளாதார நெருக்கடிகள் காரணமாகக் கூறப்படுகின்றன.
-
-இதில் உண்மைகள் உள்ளதை ஆய்வுகள் நிரூபிக்கின்றன. பொருளாதார பாதிப்பு காரணமாக பெருந்தோட்டப்பிரதேசங்களில் 42.8வீதமான குடும்பங்கள் கடனாளிகளாக மாறி விட்டதாக நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க  நாடாளுமன்றில் கடந்த ஒன்பதாம் திகதி தரவுகளை முன்வைத்திருந்தார். ஆகவே பெருந்தோட்டத் தொழிலாளர்களின் வறுமை நிலையை அரசாங்கமே ஏற்றுக்கொள்கின்றது என்பது தான் உண்மை.
-
-ஆனால்  அவர்களுக்கு உரிய நிவாரணங்களைப் பெற்றுக்கொடுக்க அரசாங்கமோ அல்லது இந்த மக்களின் பிரதிநிதிகளோ அக்கறை கொள்வதில்லை.  உணவுப் பொருட்கள் விலையேற்றத்தால் இந்த சமூகத்தினர் மூன்று வேளை உணவை முழுமையாக பெறுவதில்லை. அவ்வாறிருக்கும் போது தமது பிள்ளைகளுக்கான பாடசாலை சீருடைகள்,காலணிகள்,புத்தக பைகள் போன்றவற்றை எவ்வாறு இவர்களுக்கு கொள்வனவு செய்ய முடியும்?
-
-சில தோட்டப்பிரதேசங்களிலிருந்து பாடசாலைகளுக்கு பஸ்களில் செல்ல வேண்டும். பல பகுதிகளில் இ.போ.ச பஸ்கள் இல்லை. இதனால்  மாணவர் பருவகாலச் சீட்டுகளையும் பெற முடியாது. தனியார் பஸ்களில் பாடசாலை சென்று வருவதற்கு தமது பிள்ளைக்கு ஒரு நாளைக்கு இருநூறு ரூபாய் வரை செலவளிக்க இந்த பெற்றோர்களுக்கு முடிவதில்லை. இதன் காரணமாக தொடர்ச்சியாக பாடசாலைக்கு செல்வதில் இந்த பிள்ளைகள் நெருக்கடிகளை எதிர்நோக்குகின்றனர்.
-
-இந்த காரணங்களை வைத்தே சில பாடசாலை நிர்வாகங்களும் மாணவர்களை இடை நிறுத்துகின்றன. மாணவர்களின் தனிப்பட்ட பிரச்சினைகளை ஆராய்ந்து அவர்களை பாடசாலைக்கு வரச்செய்வதில் இக்காலத்தில் எந்த பாடசாலை சமூகமும் கூடுதல் அக்கறை காட்டுவதில்லை.
-
-இடைவிலகலுக்கு வறுமை ஒரு பிரதான காரணமாக விளங்கினாலும் பாடசாலைகளில் சில மாணவர்களுக்கு இழைக்கப்படும் உளரீதியான கொடுமைகள் பற்றியும் இங்கு பேச வேண்டியுள்ளது. குறிப்பாக சாதாரண தர மற்றும்  உயர்தர மாணவர்கள் இவ்வாறு இலக்கு வைக்கப்படுகின்றனர்.
-
-மிகவும் கடினங்களுக்கு மத்தியில் தமது பிரதேச பாடசாலைகளில் சாதாரண தரம் சித்தியடைந்து சிறந்த பெறுபேறுகளுடன் நகர்ப்புற பாடசாலைகளுக்கு வருகை தரும் மாணவர்கள் எதிர்நோக்கும் பிரச்சினைகள் மிக அதிகம். சராசரி புள்ளிகளைப் பெற்றாலும் பாடசாலை பெறுபேறுகளை இலக்கு வைத்து செயற்படும் சில அதிபர்கள் மற்றும் ஆசிரியர்களினால் அவர்கள் மனரீதியான துன்புறுத்தல்களுக்கு உட்படுகின்றனர்.
-
-பாடசாலை சமூகம் எதிர்ப்பார்க்கும் பெறுபேறுகளை குறித்த மாணவனோ மாணவியோ பெற முடியாத சந்தர்ப்பத்தில் அவர்கள் கட்டாயப்படுத்தி பாடசாலைகளிலிருந்து இடை நிறுத்தப்படுகின்றனர். அல்லது வேறு பாடப்பிரிவை தெரிவு செய்வதற்கு வற்புறுத்தப்படுகின்றனர்.
-
-இது தொடர்பான தகவல்கள் மூடி மறைக்கப்படுகின்றன. ஏனெனில் பாடசாலைகளிலிருந்து குறித்த மாணவர்கள் விலகிச்செல்லும் போது தமது சொந்த விருப்பத்தின் பேரிலேயே இவர்கள் செல்கின்றனர் என்றவாறு அவர்களின் பெற்றோர்களிடமும் கடிதங்கள் பெறப்படுகின்றன. இல்லாவிடின் அவர்களுக்கான விடுகை பத்திரத்தை குறித்த பாடசாலை நிர்வாகங்கள் வழங்குவதில்லை.
-
-மலையக பெருந்தோட்ட கல்வி சமூகம் எதிர்நோக்கிவரும் இவ்வாறான பிரச்சினைகளை மலையக அரசியல்வாதிகள் கண்டுகொள்வதில்லை. அவற்றை தவிர்க்கவே பார்க்கின்றனர். மத்திய மாகாணத்தின் முதல் கல்வி அமைச்சரிலிருந்து முப்பது வருடங்களாக அந்த பதவியை அலங்கரித்து வந்த அனைவருமே நுவரெலியா மாவட்டத்தைச் சேர்ந்தவர்கள்.
-
-அவர்களில் பலர் பாராளுமன்ற பிரவேசம் கண்டு எம்.பிக்களாகவும் பிரதி அமைச்சர்களாகவும் , இராஜாங்க அமைச்சர்களாகவும் பணியாற்றியவர்கள். நுவரெலியா மாவட்டத்தை பிரதிநிதித்துவப்படுத்தி இப்போது நாடாளுமன்றத்திலுள்ள இரண்டு எம்.பிக்களும் மத்திய மாகாண தமிழ்க் கல்வி அமைச்சர்களாக  இருந்தவர்கள்.
-
-அதில் ஒருவர் கல்வி இராஜாங்க அமைச்சராகவும் விளங்கியவர். இவர்களது காலத்திலும் மாணவர் இடைவிலகல்கள் இருந்திருக்கலாம். ஆனால் அப்போது இது குறித்து அவர்கள் அக்கறை கொள்ளாமலிருந்த காரணத்தினாலேயே பாதிப்பு இன்று எல்லை மீறி சென்றுள்ளது.  இப்போதும் காலம் கடந்து விடவில்லை என்பதை உரியவர்களுக்கு ஞாபகப்படுத்த விரும்புகிறோம்.
-
-### ஜனாதிபதித் தேர்தலில் ஐக்கிய தேசியக் கட்சி 100 இலட்சம் வாக்குகளை பெறுவது நகைப்புக்குரியது - கம்மன்பில
-
-*2024-01-16 20:21:00 - [virakesarilk](https://www.virakesari.lk/article/174104)*
-
-பொதுத்தேர்தலில் மூன்று இலட்சம் வாக்குகளைக் கூட பெறாத ஐக்கிய தேசியக் கட்சி ஜனாதிபதித் தேர்தலில் 100 இலட்சம் வாக்குளை பெறுவதாக குறிப்பிடுவது நகைப்புக்குரியது.
-
-பொய்யான வாக்குறுதிகளை வழங்குபவர்கள் மீது நம்பிக்கை கொள்ளும் நிலையில் இருந்து நாட்டு மக்கள் முதலில் விடுபட வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
-
-கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் செவ்வாய்க்கிழமை (16) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
-
-பொருளாதார பாதிப்புக்கு மத்தியில் சம்பள அதிகரிப்பை கோரி சுகாதார சேவையினர் பணிப்புறக்கணிப்பு போராட்டத்தில் ஈடுபட்டுள்ளனர்.குறுகிய அரசியல் நோக்கத்துக்காக இவர்களுக்கு சம்பளத்தை அதிகரிக்குமாறு குறிப்பிட முடியாது.
-
-வங்குரோத்து நிலையை தொடர்ந்து வைத்தியர்கள் நாட்டை விட்டு வெளியேறுகிறார்கள்.ஐக்கிய அரபு இராச்சியத்தில் வைத்தியர்களுக்கான கேள்வி அதிகளவில் உள்ளதால் வைத்தியர்கள் அந்த நாடுகளுக்கு செல்கிறார்கள்.
-
-வைத்தியர்கள் நாட்டை விட்டு வெளியேறுவது தீவிரமடைந்தால் சுகாதார துறை மிக மோசமான விளைவுகளை எதிர்க்கொள்ள நேரிடும்  என்பதால் வைத்தியர்களுக்கான கொடுப்பனவை அதிகரிக்க அரசாங்கம் கொள்கை ரீதியில் தீர்மானித்துள்ளது.
-
-ஆகவே பொருளாதார நெருக்கடிகளுகளுக்கு மத்தியில் தமது தேவைகளை மாத்திரம் நிறைவேற்றிக் கொள்ளுவற்கு முயற்சிப்பதை தொழிற்சங்கத்தினர் தவிர்த்துக் கொள்ள வேண்டும் அத்துடன் குறுகிய அரசியல் நோக்கத்துக்காக தொழிற்சங்கத்தினரை தவறாக வழிநடத்துவதை அரசியல்வாதிகள் தவிர்த்துக் கொள்ள வேண்டும்,
-
-2020 ஆம் ஆண்டு இடம்பெற்ற பொதுத் தேர்தலில் 3 இலட்சம் வாக்குகளை கூட பெறாத ஐக்கிய தேசியக் கட்சி இடம்பெறவுள்ள ஜனாதிபதித் தேர்தலில் 100 இலட்சம் வாக்குகளை பெறுவதாக குறிப்பிடுவது நகைப்புக்குரியது.ஐக்கிய தேசியக் கட்சியின் உறுப்பினர்களின் உளவியலை பரிசோதனை செய்ய வேண்டும்.
-
-இலங்கை அரசியல் வரலாற்றில் முதன் முறையாக அரசாங்கத்தினால் களமிறக்கப்படும் ஜனாதிபதி வேட்பாளர் மிக குறைந்தளவிலான வாக்குகளை பெறுவார்.இது இலங்கையின் சாதனை மாத்திரமல்ல,உலக சாதனையாகவும் கருதப்படும்.ஒருவேளை கின்னஸ் புத்தகத்திலும் இடம் பிடிக்கலாம்.
-
-பொதுஜன பெரமுனவின் பொதுச்செயலாளர் உட்பட ஆளும் தரப்பினரது கருத்துக்கள் நகைப்புக்குரியது.கட்சியின் அடிப்படை கொள்கைகளை ஐக்கிய தேசியக் கட்சியிடம் தாரைவார்த்து விட்டு கட்சியின் கொள்கைகளை முன்னிலைப்படுத்தி செயற்படுவதாக குறிப்பிடுவது வேடிக்கையாக உள்ளது என்றார்.

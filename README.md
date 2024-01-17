@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 07:39:51**
+As of **2024-01-17 08:27:49**
 
 ## Newspaper Stats
 
@@ -12,13 +12,13 @@ As of **2024-01-17 07:39:51**
 
 * islandlk: 40
 
-* virakesarilk: 43
+* virakesarilk: 46
 
-* economynextcom: 51
-
-* tamilmirrorlk: 69
+* economynextcom: 52
 
 * adaderanalk: 69
+
+* tamilmirrorlk: 70
 
 * dailyftlk: 97
 
@@ -26,9 +26,55 @@ As of **2024-01-17 07:39:51**
 
 * adalk: 115
 
-* **Total**: **682**
+* **Total**: **687**
 
 ## Latest Articles (100)
+
+### பாக்கிஸ்தான் மீது ஈரான் ஏவுகணை தாக்குதல் - இஸ்லாமிய அமைப்பின் தளத்தை இலக்குவைத்தது
+
+*2024-01-17 08:00:00 - [virakesarilk](https://www.virakesari.lk/article/174116)*
+
+பாக்கிஸ்தானில் உள்ள இஸ்லாமிய அமைப்பொன்றின் தளத்தினை இலக்குவைத்து ஈரான் மேற்கொண்ட தாக்குதலில் இரு சிறுவர்கள் கள் கொல்லப்பட்டுள்ளனர்.
+
+ஜெய்ஸ் அல் அடில் என்ற இஸ்லாமிய குழுவொன்றின் தளத்தினை இலக்குவைத்து தாக்குதலை மேற்கொண்டதாக ஈரான் தெரிவித்துள்ளது.
+
+ஈரானின் இந்த தாக்குதலை சட்டவிரோதமான நடவடிக்கை என வர்ணித்துள்ள பாக்கிஸ்தான் மோசமான விளைவுகள் குறித்து எச்சரித்துள்ளது.
+
+ஒரு சிலநாட்களிற்குள் ஈரான் சிரியா ஈராக் பாக்கிஸ்தான் ஆகிய நாடுகள் மீது தாக்குதல்களை மேற்கொண்டுள்ளமை குறி;ப்பிடத்தக்கது.
+
+### Sri Lanka tea prices rise at second auction in 2024
+
+*2024-01-17 06:01:00 - [economynextcom](https://economynext.com/sri-lanka-tea-prices-rise-at-second-auction-in-2024-147501/)*
+
+ECONOMYNEXT – Sri Lanka’s tea prices went up across elevations at the second auction of 2024, with most grades of tea moving up, market data showed.
+
+The weekly sale average went up 51.53 rupees to 1,274.74 rupees a kilogram, according to industry data published by Ceylon Tea Brokers.
+
+In the second week 4.5 million kilos were sold by public auction..
+
+High Grown BOP teas went up with Best Westerns going up by between 50 to 100 rupees. Below Bests were up 50 rupees, while plainer categories fell 50 rupees.
+
+There were hardly any offerings from Nuwara Eliya’s and Uda Pussellawa’s gained by about 100 rupees and Uvas were up by 50 rupees.
+
+The high grown sale average was up 31.50 rupees to 1,087 rupees a kilo.
+
+BOP1, Select Best and Bests were up 50 rupees. OP1, select bests were also up 50 rupees, while bests and below bests were up 100 rupees.
+
+OP/OPA, Select Best gained by 100 rupee a kilo and Best and Below best moved up by 50 rupees.
+
+PEK, Select Bests were firm. Best and below best gained by 50 rupees per kilo. PEK1 – Select Best and Best were down 50 rupees.
+
+The medium grown sale average was up 25.68 rupees to 1,064.73 rupees.
+
+OP1 Select Best were firm whilst Best, Below Best were higher.
+
+PEKOE1 Select best together with PEK’s were firm. Select best PEK1’s were firm to lower whilst balance sold around last week levels.
+
+FBOP/FBOP1 Select best were lower, whilst best and below best were fully firm to dearer.
+
+The Low Growns average went up 60.02 rupees to 1,330.30 rupees kilogram.
+
+Low Growns had overcast conditions with showers, with Sabaragamuwa expecting heavy showers. Whilst Uva and Low Growns recorded a decline, Udapussellawa and Nuwara Eliya maintained their crop intakes. (Colombo/Jan17/2023)
 
 ### மருத்துவர்களின் சம்பளம் 35000 ரூபாவினால் அதிகரிக்கப்பட்டதா ?
 
@@ -59,6 +105,14 @@ As of **2024-01-17 07:39:51**
 அப்படி இருந்தும் அதிகரித்த பாதுகாப்பு   செலவு ஏன் ஏற்படுகிறது என்ற கேள்விக்கான பதிலை தமிழர்கள் அதிகமாக வாழும் பகுதிகளில் குவித்து வைக்கப்பட்டுள்ள ஆயுதப்படையினர் மூலமாக அறிந்து கொள்ளலாம். கடந்த காலங்களில் இடம்பெற்ற தவறுகளை நேர்மையாக ஏற்றுக் கொண்டு பாதிக்கப்பட்டவர்களுக்கு நிவாரணம் வழங்கி இனங்களுக்கு இடையில் நல்லிணக்கத்தை ஏற்படுத்தி ஒன்றுபட்ட இலங்கைக்குள் கௌரவமான ஒரு தீர்வை வழங்குவதன் மூலமாகவே  ஆயுதப்படையினரை அங்கிருந்து அகற்ற முடியும்.
 
 எது எப்படி இருந்தாலும் பாதுகாப்பு செலவீனத்தை குறைப்பதாலும்  ஊழல் மிக்க அரசியல்வாதிகளில்  இருந்து நாட்டை மீட்டு எடுத்தால் மாத்திரமே வைத்தியர்களுக்கு  கண்துடைப்புக்காக வழங்கிய தொகையை விட அதிக சம்பள அதிகரிப்பை பெற முடியும் என்பதை அனைத்து அரசாங்க தொழிற்சங்கங்களும் உணரவேண்டும். அந்த நிலை ஏற்படுவதற்கு உரிய அழுத்தத்தை அனைத்து  தொழிற்சங்கங்களும் ஒன்றிணைந்து  பிரயோகிப்பதே சகல இலங்கையர்களும் தத்தமது சம்பள உயர்வை பெற்றுக்கொள்ளவும் நாட்டை பொருளாதார சீரழிவில் இருந்து நிரந்தரமாக மீட்டெடுக்கவும் உதவும் சாத்தியமான வழியாகும்.
+
+### சங்குகளுடன் மூவர் கைது
+
+*2024-01-17 03:37:50 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/சங்குகளுடன்-மூவர்-கைது/175-331628)*
+
+மன்னார் கடற்படைக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் பிரகாரம் மன்னார் பொலிஸ் குற்றப்புலனாய்வு பிரிவினருடன் இணைந்து எருக்கலம் பிட்டி பகுதியில் மேற்கொண்ட திடீர் சோதனை நடவடிக்கையின் போது  சங்குகளை உடமையில் வைத்திருந்த பெண் உட்பட மூவர் கைது செய்யப்பட்டுள்ளனர்.
+
+கடற்படைக்கு நேற்று கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைவாக மன்னார் பொலிஸ் குற்றப்புலனாய்வு பிரிவினருடன் இணைந்து மேற்கொண்ட சுற்றிவளைப்பு நடவடிக்கையின் போது எருக்கலம் பிட்டி பகுதியில் உள்ள வீடு ஒன்றில் அனுமதி வழங்கப்பட்ட அளவை விட அதிக அளவில் சங்குகள் களஞ்சியப் படுத்தப்பட்டிருந்தமை கண்டுபிடிக்கப்பட்டுள்ளது. (a)
 
 ### ’அபிவிருத்திப் பணிகள் அடுத்த மாதத்தில் ஆரம்பம்’
 
@@ -298,6 +352,30 @@ This initiative highlights the ministry’s dedication to creating a balanced an
 
 அதில் ஒருவர் கல்வி இராஜாங்க அமைச்சராகவும் விளங்கியவர். இவர்களது காலத்திலும் மாணவர் இடைவிலகல்கள் இருந்திருக்கலாம். ஆனால் அப்போது இது குறித்து அவர்கள் அக்கறை கொள்ளாமலிருந்த காரணத்தினாலேயே பாதிப்பு இன்று எல்லை மீறி சென்றுள்ளது.  இப்போதும் காலம் கடந்து விடவில்லை என்பதை உரியவர்களுக்கு ஞாபகப்படுத்த விரும்புகிறோம்.
 
+### ஜனாதிபதித் தேர்தலில் ஐக்கிய தேசியக் கட்சி 100 இலட்சம் வாக்குகளை பெறுவது நகைப்புக்குரியது - கம்மன்பில
+
+*2024-01-16 20:21:00 - [virakesarilk](https://www.virakesari.lk/article/174104)*
+
+பொதுத்தேர்தலில் மூன்று இலட்சம் வாக்குகளைக் கூட பெறாத ஐக்கிய தேசியக் கட்சி ஜனாதிபதித் தேர்தலில் 100 இலட்சம் வாக்குளை பெறுவதாக குறிப்பிடுவது நகைப்புக்குரியது.
+
+பொய்யான வாக்குறுதிகளை வழங்குபவர்கள் மீது நம்பிக்கை கொள்ளும் நிலையில் இருந்து நாட்டு மக்கள் முதலில் விடுபட வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
+
+கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் செவ்வாய்க்கிழமை (16) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+பொருளாதார பாதிப்புக்கு மத்தியில் சம்பள அதிகரிப்பை கோரி சுகாதார சேவையினர் பணிப்புறக்கணிப்பு போராட்டத்தில் ஈடுபட்டுள்ளனர்.குறுகிய அரசியல் நோக்கத்துக்காக இவர்களுக்கு சம்பளத்தை அதிகரிக்குமாறு குறிப்பிட முடியாது.
+
+வங்குரோத்து நிலையை தொடர்ந்து வைத்தியர்கள் நாட்டை விட்டு வெளியேறுகிறார்கள்.ஐக்கிய அரபு இராச்சியத்தில் வைத்தியர்களுக்கான கேள்வி அதிகளவில் உள்ளதால் வைத்தியர்கள் அந்த நாடுகளுக்கு செல்கிறார்கள்.
+
+வைத்தியர்கள் நாட்டை விட்டு வெளியேறுவது தீவிரமடைந்தால் சுகாதார துறை மிக மோசமான விளைவுகளை எதிர்க்கொள்ள நேரிடும்  என்பதால் வைத்தியர்களுக்கான கொடுப்பனவை அதிகரிக்க அரசாங்கம் கொள்கை ரீதியில் தீர்மானித்துள்ளது.
+
+ஆகவே பொருளாதார நெருக்கடிகளுகளுக்கு மத்தியில் தமது தேவைகளை மாத்திரம் நிறைவேற்றிக் கொள்ளுவற்கு முயற்சிப்பதை தொழிற்சங்கத்தினர் தவிர்த்துக் கொள்ள வேண்டும் அத்துடன் குறுகிய அரசியல் நோக்கத்துக்காக தொழிற்சங்கத்தினரை தவறாக வழிநடத்துவதை அரசியல்வாதிகள் தவிர்த்துக் கொள்ள வேண்டும்,
+
+2020 ஆம் ஆண்டு இடம்பெற்ற பொதுத் தேர்தலில் 3 இலட்சம் வாக்குகளை கூட பெறாத ஐக்கிய தேசியக் கட்சி இடம்பெறவுள்ள ஜனாதிபதித் தேர்தலில் 100 இலட்சம் வாக்குகளை பெறுவதாக குறிப்பிடுவது நகைப்புக்குரியது.ஐக்கிய தேசியக் கட்சியின் உறுப்பினர்களின் உளவியலை பரிசோதனை செய்ய வேண்டும்.
+
+இலங்கை அரசியல் வரலாற்றில் முதன் முறையாக அரசாங்கத்தினால் களமிறக்கப்படும் ஜனாதிபதி வேட்பாளர் மிக குறைந்தளவிலான வாக்குகளை பெறுவார்.இது இலங்கையின் சாதனை மாத்திரமல்ல,உலக சாதனையாகவும் கருதப்படும்.ஒருவேளை கின்னஸ் புத்தகத்திலும் இடம் பிடிக்கலாம்.
+
+பொதுஜன பெரமுனவின் பொதுச்செயலாளர் உட்பட ஆளும் தரப்பினரது கருத்துக்கள் நகைப்புக்குரியது.கட்சியின் அடிப்படை கொள்கைகளை ஐக்கிய தேசியக் கட்சியிடம் தாரைவார்த்து விட்டு கட்சியின் கொள்கைகளை முன்னிலைப்படுத்தி செயற்படுவதாக குறிப்பிடுவது வேடிக்கையாக உள்ளது என்றார்.
+
 ### சவூதி தலைமையில் உலகின் முதல் ஸ்மார்ட் சிட்டி மன்றம்
 
 *2024-01-16 20:19:00 - [virakesarilk](https://www.virakesari.lk/article/174103)*
@@ -465,6 +543,28 @@ This initiative highlights the ministry’s dedication to creating a balanced an
 එබැවින් ආයෝජකයින්ට මෙම ක්ෂේත්‍රය තුළ ඉහළ මට්ටමේ සහ වෙනස් නොවන ප්‍රතිපත්තියක් අපේක්ෂා කළ හැකියි.
 
 ශ්‍රී ලංකාවේ පුනර්ජනනීය බලශක්ති ක්ෂේත්‍රයේ ආයෝජනය කිරීමට හොඳම කාලය මෙය වන අතර, එවැනි ආයෝජන ඉදිරි දශක කිහිපය තුළ එහි පාර්ශ්වකරුවන්ට මෙන්ම ශ්‍රී ලංකාවේ පාරිභෝගිකයින්ට ද සැලකිය යුතු ප්‍රතිලාභයක් ලබා දෙන බවට මට කිසිදු සැකයක් නැහැ.
+
+### ஜனாதிபதிக்கு 2 ஆயிரம் இலட்சம் ரூபா மேலதிக நிதி ஒதுக்கீட்டுக்கு ஒப்புதல் - எதிர்க்கட்சி தலைவர் சஜித் கடும் விசனம்
+
+*2024-01-16 19:54:00 - [virakesarilk](https://www.virakesari.lk/article/174109)*
+
+சுகாதார தொழிற்சங்கங்கள் கோரிக்கைகளை முன்வைக்கும் போது நிதி இல்லை என அரசாங்கம் கூறுகின்ற சந்தர்ப்பத்தில், ஜனாதிபதியின் செலவுக்காக வரவு செலவு திட்டத்தில் ஒதுக்கப்பட்ட தொகைக்கு மேலதிகமாக மேலும் 2000 இலட்சம் மேலதிக மதிப்பீட்டின் ஊடாக ஒதுக்குவதற்கு ஒப்புதல் வழங்கப்படுத்துள்ளதாக எதிர்க்கட்சி தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பிரபஞ்சம் தகவல் தொழிநுட்ப நிகழ்ச்சித் திட்டத்தின் 67 ஆவது கட்டமாக, கலாவௌ சிறிமாபுர மகா வித்தியாலயத்திற்கு 10 இலட்சம் ரூபா பெறுமதியான நவீன வகுப்பறை உபகரணங்களை வழங்கும் நிகழ்வில்  செவ்வாய்கிழமை (16) கலந்து கொண்டு உரையாற்றும் போதே எதிர்க்கட்சி தலைவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+கூலித்தொழிலாளர்களின் அன்றாட வருமானத்தை திருடிக் கொள்ளும் அரசாங்கமே தற்போது காணப்படுகிறது. சுகாதார ஊழியர்களின் பணி பகிஷ்கரிப்பினால் நோயாளர்களுக்கு தமக்கான சேவைகளைப் பெற்றுக் கொள்வதில் சிரமம் ஏற்பட்டுள்ளது.
+
+சுகாதார தொழிற்சங்கங்கள் தமது கோரிக்கைகளை முன்வைக்கும் போது நிதி இல்லை என அரசாங்கம் தெரிவிக்கிறது. ஆனால் ஜனாதிபதியின் செலவுக்காக வரவு செலவு திட்டத்தில் ஒதுக்கப்பட்ட தொகைக்கு மேலதிகமாக மேலும் 2000 இலட்சம் மேலதிக மதிப்பீட்டின் ஊடாக ஒதுக்குவதற்கு ஒப்புதல் வழங்கப்படுத்துள்ளது.
+
+சுகாதார சேவையே தற்போது நாட்டுக்கு அத்தியாவசிய தேவையாகக் காணப்படுகின்ற போதிலும், ஜனாதிபதியின் வெளிநாட்டுப் பயணங்களுக்கான 2000 இலட்சம் ரூபாவுக்கு அங்கீகாரம் வழங்கப்பட்டுள்ளது.
+
+ஜனாதிபதிக்கு ஒதுக்கப்பட்ட நிதி எவ்வாறு போதாது என்று கூறுகின்றனரோ, அவ்வாறே நோயாளர்களுக்கு வழங்கப்படும் சுகாதார சேவைகளுக்காக ஒதுக்கப்பட்டுள்ள நிதியும் போதாது. பலவீனமான தலைமைத்துவத்தினாலயே சுகாதார சேவை முடங்கியுள்ளது என்பது தெளிவாக புலப்படுகிறது.
+
+சுகாதார சேவை முழுமையாக முடங்கிக் கிடக்கும் இந்நேரத்தில் நாட்டு தலைவர் வெளிநாடுகளுக்குச் சென்று விநோதங்களில் ஈடுபடுவது நியாயமில்லை. பாடசாலைகளுக்கு கணினி மற்றும் நவீன வகுப்பறை போன்றவற்றை வழங்க முடியாவிட்டாலும், ஜனாதிபதியின் இவ்வாறான விநோதங்களுக்கு நிதி ஒதுக்கப்படுகிறது.
+
+சுகாதார ஊழியர்களின் பணிப்பகிஷ்கரிப்பினால் அப்பாவி நோயாளிகள் பாதிக்கப்படுகின்றனர். அறுவை சிகிச்சைக்காக வரிசையில் காத்திருப்பவர்களுக்கும் கூட அநீதி இழைக்கப்பட்டுள்ளது.
+
+இதற்கு அரசாங்கத்தின் பலவீனமான நிர்வாகமே காரணமாகும். தொழிற்சங்கத்துறையில் உள்ளவர்களை குற்றம் சாட்டுவதை விடுத்து,வெளிநாட்டு பயணங்களை விட சுகாதாரத்துறை குறித்து சிந்தித்து செயலாற்றுவதை ஜனாதிபதி தலைமையிலான அரசாங்கம் அறிய வேண்டும் என்றார்.
 
 ### பரீட்சைகள் திணைக்களத்தின் விசேட அறிவிப்பு
 
@@ -1929,87 +2029,3 @@ A political battleground that backed Democrat Barack Obama in 2008 and 2012, the
 சுகாதார தொழிற்சங்கங்களின் பிரதிநிதிகளுக்கும் நிதி அமைச்சுக்கும் இடையிலான விசேட கலந்துரையாடல் இன்று முற்பகல் 11.00 மணிக்கு இடம்பெறும் என தெரிவிக்கப்பட்டிருந்தது.
 
 இக்கலந்துரையாடலின் முன்னேற்றத்திற்கு அமைய அடையாள வேலைநிறுத்தம் முடிவுக்கு கொண்டுவரப்படும் என சுகாதார தொழிற்சங்க பிரதிநிதிகள் தெரிவித்தனர்.
-
-### Concerns raised as prisons overcrowded by 232% - report
-
-*2024-01-16 11:03:00 - [adaderanalk](https://www.adaderana.lk/news/96437/concerns-raised-as-prisons-overcrowded-by-232-report-)*
-
-A recent government audit report on the management of overcrowding in prisons has revealed that the prisons capacity has exceeded by 232%.
-
-The performance audit claimed that upon consideration of the data gathered for the last seven years, from 31 December 2015 to 31 December 2022, the number of inmates in the overall prison system in Sri Lanka has increased from 139% to 232% of capacity in Prisons.
-
-This percentage increased from 149% to 213% from the beginning of 2016 to the end of 2019, and subsequently dropped to 139% by 31 December 2021.
-
-“The reason for that was, the increase of prison capacity from 11,762 to 13,241(that is by 12.5%) by the end of 2020”, the report reads in this regard.
-
-Despite the prison capacity having increased, however, the number of inmates too, have increased, thereby yet again giving rise to the issue of overcrowding, with the highest number of inmates exceeding the prison capacity being recorded in 2022.
-
-“The average monthly number of detainees held in the 12 months of the year 2022 is 22,097 and it has grown by 15 per cent as compared to the average monthly number of 19,295 detainees in 2021”, the report read.
-
-The overcrowding in prisons has also led to several other issues, including a lack of adequate space and sanitation facilities.
-
-As per the performance audit, there was a shortage of 187 toilets in 27 prisons, and 287 of the existing toilets were in a condition of repair, while 14 prisons across the island have a shortage of 108,689 square feet of space. Meanwhile, the insufficient space for female inmates in cells and wards in the Negombo and Vavuniya prisons as at 01 July 2022 was 240 and 141 square feet respectively.
-
-The report further identified two reasons behind the overcrowding of prisons; one being the influence of the economic, social, political and legal environment, in the context that difficulties faced during the economic crisis lead to higher rates of criminal activity which thereby lead to increased arrests, while the other reason was identified as the increase in imprisonments related to drug offences.
-
-“A large number of Sri Lankan inmates have been involved in drug offenses. The number of prison inmates in Sri Lanka is 26,176, of which over 53 per cent, i.e. 13,794, are inmates related to drug offenses as at 31 December 2022”, the audit revealed.
-
-The report further noted, however, that despite the rise in arrests and imprisonment is a direct result of increased criminal activity and subsequent overcrowding in prisons, the audit further highlighted that deficiencies in the administrative process related to law enforcement for criminals and imprisonment have also led to the creation of prison overcrowding.
-
-Audit - Management of Overcrowding in Prisons by Adaderana Online on Scribd
-
-### ’யுக்திய’வினால் புதிய பிரச்சினைகள் ஏற்படலாம்;திஸ்ஸ
-
-*2024-01-16 11:00:13 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-வினால்-புதிய-பிரச்சினைகள்-ஏற்படலாம்-திஸ்ஸ/175-331569)*
-
-யுக்தியா நடவடிக்கையை முடிவுக்கு கொண்டு வரக்கூடிய சர்வதேச தலையீடுகளைத் தவிர்ப்பதற்கு முழு அரசாங்கமும் பொலிஸாரும் கவனத்துடன் செயற்பட வேண்டும் என ஐக்கிய மக்கள் சக்தியின் (SJB) பாராளுமன்ற உறுப்பினர் திஸ்ஸ அத்தநாயக்க தெரிவித்துள்ளார்.
-
-"ஐ.நா மனித உரிமைகள் அலுவலகம் (OHCHR) ஏற்கனவே யுக்திய குறித்து கவனம் செலுத்தியுள்ளதால், இந்த நடவடிக்கை மிகவும் கவனமாக கையாளப்பட வேண்டும். இது மனித உரிமை மீறலுக்கு வழிவகுத்துள்ளதாக ஐ.நா மனித உரிமைகள் அலுவலகம் ஏற்கனவே கரிசனம் வெளிப்படுத்தியுள்ளது. இது நாட்டுக்கு புதிய பிரச்சினையை ஏற்படுத்தலாம்” என அத்தநாயக்க ஊடக சந்திப்பில் தெரிவித்தார்.
-
-சட்டவிரோத போதைப்பொருள் பாவனையைக் கையாள்வதற்கான ஒரு வழிமுறையாக, "அதி பாதுகாப்பு அடிப்படையிலான பதிலை" இலங்கை ஏற்றுக்கொண்டது குறித்து தாம் மிகவும் அதிருப்தியடைந்துள்ளதாக ஐநா மனித உரிமைகள் அலுவலகம் (OHCHR) வெள்ளிக்கிழமை கூறியது.
-
-டிசம்பர் 17 முதல் போதைப்பொருள் தொடர்பான குற்றச்சாட்டில் கைது செய்யப்பட்டதாகக் கூறப்படும் 29,000 நபர்களில் சிலர், தாங்கள் மோசமாக நடத்தப்பட்டதாக அல்லது சித்திரவதை செய்யப்பட்டதாகத் தெரிவித்துள்ளதாக OHCHR செய்தித் தொடர்பாளர் Liz Throssell குற்றம் சாட்டினார்.
-
-”போதைப்பொருள் கடத்தல்காரர்களை பிடிப்பது நல்லது என்பதால் யுக்திய நடவடிக்கையை நாங்கள் எதிர்க்க மாட்டோம். எனினும், இது நாட்டுக்கு புதிய பிரச்சினையாக மாறக்கூடாது. மேலும், அதை அரசியல் கருவியாக பயன்படுத்தக் கூடாது,'' என அவர் தெரிவித்தார்.
-
-### හෙට නුවරඑළියට මල් තුහින
-
-*2024-01-16 10:51:48 - [adalk](https://www.ada.lk/breaking_news/හෙට-නුවරඑළියට-මල්-තුහින/11-407575)*
-
-ඉදිරි පැය 36ක කාලය තුළදි දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි. ඒසේම හිමිදිරි පාන්දර නුවර එළිය දිස්ත්‍රික්කයෙ ඇතැම් ස්ථානවලට මල් තුහින පතිතවීමේ හැකියාවක්ද ඇති බව එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
-
-### Sri Lanka exports dried fish products to Korea, Australia
-
-*2024-01-16 10:51:00 - [economynextcom](https://economynext.com/sri-lanka-exports-dried-fish-products-to-korea-australia-147385/)*
-
-ECONOMYNEXT – Sri Lanka exported its first batch of low-salt, dried fish and fish chips (Maldive fish, um ba la ka da) to Korea and Australia, the Minister of Agriculture and Plantation Industry has said.
-
-“There is a high probability of pollutants being added in the traditional dry fish processing. More salt is used in the process. But for the first time, there is no space for even a little dust or a fly to enter in the production process, which is being done using air condition dehydration systems,” Minister Mahinda Amaraweera was quoted as saying in a statement by the Government Department of Information.
-
-“With this method, we can present dried fish products that is very suitable for human consumption to the market. This will give us the foreign exchange that the country needs.”
-
-In the traditional production method, fish is dried on the beach in the sun. In the new method, the fish, usually a type of tuna, is dried, or processed, using ‘air condition dehydration’.
-
-As this method retains the fish oils, the quality of dried fish produced is of a higher level, Amaraweera said.
-
-Amaraweera pointed out this dehydration method can be used for several other products in the country.
-
-The export of the first container of 10,000 kg of dried fish and fish chips using the new technology was done recently (14) by Megafish, a company in Pahajjawa.
-
-This is the first time that dried fish and fish chips produced in Sri Lanka will be exported to Australia and Korea. (Colombo/Jan16/2024)
-
-### Indian air traffic disrupted on third day of dense fog
-
-*2024-01-16 10:45:00 - [adaderanalk](https://www.adaderana.lk/news/96436/indian-air-traffic-disrupted-on-third-day-of-dense-fog)*
-
-Dense fog swathed large parts of northern India on Tuesday for the third straight day of an intense cold wave, reducing visibility to disrupt more than 160 flights.
-
-As many as 128 flights from the international airport in New Delhi, the capital, were delayed, with 33 cancelled, aviation site Flightradar24 showed, an effect that cascaded through flight schedules nationwide.
-
-Visibility at the airport stood at 50 m (164 ft) at 8 a.m., weather officials said, predicting similar conditions until the end of the week.
-
-New Delhi’s lowest temperature this winter was 3.3 degrees Celsius (37.4 degrees Farenheit) on Monday, when low visibility and dense fog caused the delay of as many as 500 flights and the cancellation of 87.
-
-Angry passengers argued with airline staff in images on television and social media, with one video showing passengers eating dinner as they waited on the tarmac for a delayed flight.
-
-On Monday, the aviation minister said authorities were hastening efforts to use an additional runway, equipped with the CAT III navigation system that enables aircraft to land despite low visibility.

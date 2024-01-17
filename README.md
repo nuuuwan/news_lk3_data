@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 23:27:50**
+As of **2024-01-18 00:27:58**
 
 ## Newspaper Stats
 
@@ -14,7 +14,7 @@ As of **2024-01-17 23:27:50**
 
 * virakesarilk: 59
 
-* economynextcom: 66
+* economynextcom: 68
 
 * tamilmirrorlk: 94
 
@@ -26,7 +26,7 @@ As of **2024-01-17 23:27:50**
 
 * adalk: 131
 
-* **Total**: **821**
+* **Total**: **823**
 
 ## Latest Articles (100)
 
@@ -254,6 +254,24 @@ WHO’s ‘triple elimination initiative’ encourages countries to simultaneous
 
 "ඉදිරියේ එන මැතිවරණ වලට පොදුජන පෙරමුණ ට හොදින් මුහුණු දෙන්න පුළුවන්. අභියෝග කිසි ප්‍රශ්නයක් නෑ. දිනන්න පුළුවන් අපේක්ෂකයෙකු ජනාධිපති වරණයේදී ඉදිරිපත් කරනවා. එක්සත් ජාතික පක්ෂය හැමදාමත් කයිවාරු ගැහුවාට වැඩ බෑ"
 
+### Sri Lanka to issue on arrival driving license for foreigners from April: State Minister
+
+*2024-01-17 19:00:00 - [economynextcom](https://economynext.com/sri-lanka-to-issue-on-arrival-driving-license-for-foreigners-from-april-state-minister-147691/)*
+
+ECONOMYNEXT – Sri Lanka has taken steps to issue licenses for foreigners on arrival at the airport from April and end a lengthy process to obtain them at the Department of Motor Traffic (DMT) in Colombo suburb, State Transport Minister Lasantha Alagiyawanna said.
+
+The move could also help the island nation to earn foreign exchange for the service which it now provides for in local currency, two government official said.
+
+Tourists who wish to drive within Sri Lanka should obtain a driving license by visiting the DMT at Werahera, a Colombo suburb amid heavy bureaucratic red tapes, tourist operators have said.
+
+The Minister said around 3,500 foreigners annually visit Werahera to obtain their licenses.
+
+“This is not a good situation. From April this year, we have taken steps to facilitate the issuance of driving licenses for foreigners at the airport itself when they arrive,” Alagiyawanna told reporters in Colombo at a media briefing on Wednesday (17).
+
+Foreigners at the moment pay 30,000 Sri Lankan rupees to obtain a driving license in one-day service and 25,000 rupees in a normal service, the DMT data show.
+
+Sri Lanka is in the process of maximizing its dollar earnings after an unprecedented economic crisis forced its government to declare bankruptcy and sovereign debt default in April 2023. (Colombo/Jan 17/2024)
+
 ### விவாதத்தை ஒத்திவைக்கவும்: எதிர்க்கட்சி வலியுறுத்தல்
 
 *2024-01-17 18:56:09 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/விவாதத்தை-ஒத்திவைக்கவும்-எதிர்க்கட்சி-வலியுறுத்தல்/175-331690)*
@@ -265,6 +283,24 @@ WHO’s ‘triple elimination initiative’ encourages countries to simultaneous
 “சமூக ஊடக தளங்களில் தவறான தகவல்களை வெளியிடுவது குற்றம் என குறித்த சட்டமூலம் வரையறுத்துள்ளது. இந்த சரத்தை பயன்படுத்தி ஊடகவியலாளர்கள் மற்றும் பொதுமக்கள் உட்பட எவரும் கைது செய்யப்படலாம் என்பதால் இதனை ஏற்றுக்கொள்ள முடியாது. முகப்புத்தகம், இன்ஸ்டாகிராம் அல்லது எக்ஸ் போன்ற இடைத்தரகர்களைக் கூட சட்டமூலத்தின்படி கையாளலாம்.
 
 மேலும், அமைக்கப்படும் ஒன்லைன் பாதுகாப்பு ஆணையத்திற்கு அரைகுறை அந்தஸ்தை வழங்குவதை ஏற்க முடியாது. மறுபரிசீலனை செய்யாமல் சட்டமூலத்தை நிறைவேற்றக் கூடாது,'' என்றார்.
+
+### Sri Lanka seeks investor interest to sell Litro Gas
+
+*2024-01-17 18:51:00 - [economynextcom](https://economynext.com/sri-lanka-seeks-investor-interest-to-sell-litro-gas-147689/)*
+
+ECONOMYNEXT – Sri Lanka’s State-owned Enterprise Restructuring Unit has called for expressions of interest to sell Litro Gas and Litro Gas Terminal according to a public notice.
+
+The government has 99.93 percent of the shares through Sri Lanka Insurance Corporation, and four workers have the balance.
+
+The firm supplies 4.7 million households and 80 percent of the market is domestic. It has 14,000 business customers. It operates two fuel stations in the Southern Expressway.
+
+It has a filling plant with a capacity of 1,600 metric tonnes a day.
+
+Litro Gas Terminal is also held through Sri Lanka Insurance. The shares will be transferred to the Treasury before sale.
+
+The terminal has a capacity of 8,000 Metric tonnes, spread over 26-acres.
+
+It has a mooring buoy allowing tankers to unload LPG through pipelines. (Colombo/Jan17/2023)
 
 ### 51 ஆசிரியர்களுக்கு அதிரடி இடமாற்றம்
 
@@ -1763,31 +1799,3 @@ Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17
 අතම් වෙළෙන්දන් කියා සිටියේ දඹුල්ල ආර්ථික මධ්‍යස්ථානයට සේවයට පැමිණ   දශක දෙකක පමණ කාලයක් ගත වුවද මෙවැනි එළවළු මිල ඉහළ යෑමක් දැක නොමැති බවය.
 
 කෙසේ වෙතත් බොහෝ එළවලු මිලදී ගැනීම සඳහා පැමිණි ව්‍යාපාරිකයන් කියා සිටියේ වෙනදා මෙන් එළවළු මිලදී ගැනීමට නොයන බවය  එළවළු  ගන්න පාරිභෝගික ජනතාව ද ඉතා සීමිත ප්‍රමාණයක් මිලදී ගැනීම සිදුකරන බවද ඔවුහු පැවසූහ.
-
-### 1,024 more suspects arrested during Operation ‘Yukthiya’
-
-*2024-01-17 09:41:00 - [adaderanalk](https://www.adaderana.lk/news/96467/1024-more-suspects-arrested-during-operation-yukthiya)*
-
-A total of 1,024 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.16) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Among the arrestees are 699 who were taken into custody on narcotics-related charges and 325 others who were on the list of wanted criminal suspects.
-
-Detention orders have been secured against 13 suspects for further interrogations, and 08 drug addicts who were among the arrestees have been sent for rehabilitation.
-
-Additionally, 45 suspects who were on the list of registered suspects of the Police Narcotics Bureau and the Police Special Task Force have also been arrested during the special police operation.
-
-According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 227g of heroin, 168g of crystal methamphetamine (Ice), 8kg of cannabis, 13,892 cannabis plants and 647 narcotic pills.
-
-### க.பொ. த. உயர்தர விவசாய விஞ்ஞான பாடத்திற்கான புதிய பரீட்சை திகதி அறிவிப்பு
-
-*2024-01-17 09:32:00 - [virakesarilk](https://www.virakesari.lk/article/174117)*
-
-2023 ஆம் ஆண்டிற்கான கல்விப் பொதுத்தராதர உயர்தர விவசாய விஞ்ஞான பாடத்திற்கான பரீட்சையின் முதலாம் பகுதி வினாத்தாளின் சில வினாக்களும் பரீட்சைக்கு முன்னர் சமூக ஊடக ஊடகங்களில் வெளியானதைக் கண்டறிந்ததைத் அடுத்த குறித்த பரீட்சை பரீட்சைகள் திணைக்களத்தால் இரத்து செய்யப்பட்டுள்ளது.
-
-இதேவேளை, இரண்டாம் பகுதி வினாத்தாளின் சில வினாக்கள் பரீட்சைக்கு முன்னர் சமூக ஊடகங்களில் வெளியானதால் 12 ஆம் திகதி இடம்பெறவிருந்த குறித்த பரீட்சையும் இரத்து செய்யப்பட்டதாக பரீட்சைகள் ஆணையாளர் நாயகம் எச்.ஜே.எம்.சி அமித் ஜயசுந்தர தெரிவித்தார்.
-
-அதன்படி, பாட எண் 8 இன் கீழ் உள்ள விவசாய விஞ்ஞானப் பாடத்தின்  இரண்டாம் பகுதி வினாத்தாள் பெப்ரவரி முதலாம் திகதி காலை 8.30 மணி முதல் 11.40 மணி வரையில் நடைபெறும்.
-
-அத்துடன், முதலாம் பகுதி வினாத்தாள் அன்றைய தினம் மதியம் ஒரு மணி முதல் 3 மணி வரை நடைபெறும்.
-
-பரீட்சை தொடர்பான விபரங்கள் பாடசாலை பரீட்சார்த்திகளுக்கான அந்தந்த அதிபர்களுக்கும் தனிப்பட்ட விண்ணப்பதாரர்களின் முகவரிகளுக்கும் அனுப்பி வைக்கப்பட்டுள்ளது.

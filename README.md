@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 22:28:03**
+As of **2024-01-17 23:27:50**
 
 ## Newspaper Stats
 
@@ -14,11 +14,11 @@ As of **2024-01-17 22:28:03**
 
 * virakesarilk: 59
 
-* economynextcom: 60
-
-* adaderanalk: 90
+* economynextcom: 66
 
 * tamilmirrorlk: 94
+
+* adaderanalk: 98
 
 * dailyftlk: 106
 
@@ -26,9 +26,81 @@ As of **2024-01-17 22:28:03**
 
 * adalk: 131
 
-* **Total**: **807**
+* **Total**: **821**
 
 ## Latest Articles (100)
+
+### President Ranil briefs Indian CEOs on Sri Lanka’s economic outlook
+
+*2024-01-17 22:57:00 - [adaderanalk](https://www.adaderana.lk/news/96494/president-ranil-briefs-indian-ceos-on-sri-lankas-economic-outlook)*
+
+President Ranil Wickremesinghe took centre stage in a recent roundtable discussion organized by the Consortium of Indian Industry (CII) and World Economic Forum yesterday (16), unveiling a comprehensive economic vision for Sri Lanka.
+
+The President emphasized the successful resolution of supply bottlenecks, the removal of import restrictions and the restoration of foreign exchange liquidity as key factors contributing to sustained economic growth.
+
+Sri Lanka is actively expanding its trade agreements, with a recently completed comprehensive Free Trade Agreement (FTA) with Singapore and an upcoming FTA with Thailand in February. Ongoing discussions with India, China, and Southeast Asian nations highlight the nation’s commitment to global economic integration.
+
+President Wickremesinghe welcomed private investments, particularly in infrastructure development and the divestment of state-owned enterprises. Lucrative opportunities for potential investors were highlighted in key sectors such as telecommunications, financial services, and energy. The collaborative efforts with India on renewable energy projects, focusing on offshore wind and solar sources, underscored the commitment to sustainable energy solutions. Plans for a high-capacity power grid and bidirectional electricity trade further showcased the dedication to energy and power connectivity.
+
+Bilateral trade and economic engagement were central themes, with plans outlined for liberalizing trade in goods and services, customs cooperation, and trade facilitation with India. The emphasis on technology cooperation and the use of the Indian rupee for trade settlement reflects a commitment to strengthening economic ties. Sri Lanka’s vision also extends to tourism and people-to-people connectivity, fostering cultural and educational collaborations.
+
+Engaging with top Indian CEOs across various sectors, President Wickremesinghe discussed opportunities in supply chain efficiency, healthcare, consumer products, telecom, and clean energy. The roundtable positioned Sri Lanka as an attractive destination for diverse investments. Recognizing the importance of digital technologies in logistics, the President highlighted the potential for collaboration in enhancing infrastructure efficiency.
+
+In conclusion, President Ranil Wickremesinghe’s dynamic vision, shared during the roundtable, underscores Sri Lanka’s commitment to economic prosperity, regional collaboration, and sustainable development. The dialogue with Indian CEOs lays the groundwork for robust partnerships and investments, fostering a new era of economic growth for Sri Lanka.
+
+### Body of 9-year-old snatched by crocodile in Kelani River recovered
+
+*2024-01-17 22:43:00 - [adaderanalk](https://www.adaderana.lk/news/96493/body-of-9-year-old-snatched-by-crocodile-in-kelani-river-recovered)*
+
+The body of the 9-year-old boy snatched by a crocodile while he was bathing in the Kelani River was recovered late into Wednesday (Jan.17).
+
+A joint operation was launched by the Police Marine unit and Sri Lanka Navy in search of the boy who fell victim to a crocodile attack last evening. He was bathing in the river along with his grandmother and younger brother at the time of the incident.
+
+The body was found nearly 500m downstream from where the crocodile snatched the child away.
+
+Post-mortem is scheduled to be performed tomorrow (Jan.18) after the body is examined by the judicial medical officer of Colombo.
+
+The boy, named Disna Prabod, was the eldest of a family of three children residing Welivita, Kaduwela. He was a student in Grade 5 of St. Mary’s College in Welivita.
+
+### Sri Lanka to issue on-arrival driver’s licenses for foreigners starting April
+
+*2024-01-17 21:36:00 - [adaderanalk](https://www.adaderana.lk/news/96492/sri-lanka-to-issue-on-arrival-drivers-licenses-for-foreigners-starting-april)*
+
+State Minister for Transport Lasantha Alagiyawanna has assured that the ongoing issue in the issuance of driver’s licenses would be addressed by October, with a shift towards providing permanent licenses through a one-day service rather than temporary ones.
+
+Speaking at a news conference held at the Presidential Media Centre under the theme ‘Collective Path to a stable country’ today (Jan.17), the state minister outlined plans to elevate all district offices responsible for issuing driving licenses to the status of the head office in Werahera by the end of this year.
+
+Alagiyawanna, elaborating on the transportation initiatives under President Ranil Wickremesinghe’s guidance, emphasized the ministry’s commitment to delivering efficient public transport services through modern technology. He highlighted the ongoing programs and the ministry’s efforts to amend the existing motor vehicle act, introducing a new act.
+
+In the interest of road safety, steps are being taken to streamline the speed limit process to reduce accidents. While alcohol detection is currently operational for drivers, a new initiative targets legal action against drivers under the influence of drugs, implemented nationwide since this year, with an initial phase in the Western and Southern Provinces.
+
+To enhance driver education and safety, plans are afoot to implement a program to inform drivers about first aid in the event of an accident, with future intentions to incorporate related questions into the driver’s license test.
+
+With approximately 8.9 million vehicles and 8.5 million licensed drivers in the country, efforts are underway to standardize all district offices issuing licenses to the level of the Werahera head office by year-end.
+
+Further developments include facilitating driver’s licenses for foreigners at airports by April and resolving the current challenges in license issuance by October. The commitment extends to replacing temporary licenses with permanent ones through expedited one-day services.
+
+### Joni Simpson appointed new director for ILO Country Office for Sri Lanka & Maldives
+
+*2024-01-17 21:22:00 - [adaderanalk](https://www.adaderana.lk/news/96491/joni-simpson-appointed-new-director-for-ilo-country-office-for-sri-lanka-maldives)*
+
+Seasoned professional Joni Simpson has assumed duties as the new Director for the International Labour Organization (ILO) Country Office for Sri Lanka and the Maldives on Monday (Jan.15).
+
+The appointment was made by the ILO Director-General Gilbert Houngbo.
+
+Ms. Simpson brings with her over 25 years of experience of working on gender equality and inclusion in the world of work.
+
+Prior to her appointment in Sri Lanka, Ms. Simpson served as ILO Senior Specialist on gender equality and non-discrimination, covering East Asia, Southeast Asia, and the Pacific, where she shaped ILO efforts on eliminating discrimination, violence, and harassment at work; enhancing the provision of care policies and services; and promoting ILO’s business and disability network, to name a few.
+
+She was also the Interim-Director (Officer-in-Charge) for the ILO Country Office in Kathmandu, Nepal in early 2023.
+
+Previously she led ILO’s global efforts on women’s entrepreneurship and entrepreneurship education, based at ILO headquarters in Geneva.
+
+A national of Canada, Ms. Simpson holds a master’s degree in Cultural Anthropology and a Bachelor of Education.
+
+The ILO is the United Nations specialized agency for the world of work. It sets international labour standards, provides technical assistance, and engages in policy dialogue to address pressing issues related to employment, labour rights, and social protection.
+
+The ILO works closely with governments, employers’ and workers’ organizations, and other stakeholders to achieve its mission of advancing social justice and promoting decent work worldwide.
 
 ### இலங்கை தமிழரசுக்கட்சியின் தலைவர் தெரிவானது உட்கட்சி ஜனநாயகத்தை வெளிப்படுத்தும் - சுமந்திரன்
 
@@ -82,6 +154,94 @@ As of **2024-01-17 22:28:03**
 
 இதன்படி 1987 என்ற இலக்கத்திற்கு தொடர்புகொண்டு மின்சார சபைக்கு இது தொடர்பான தகவல்களை தெரிவிக்கலாம். R
 
+### Sri Lankan President backs debt relief for Africa
+
+*2024-01-17 19:16:00 - [adaderanalk](https://www.adaderana.lk/news/96490/sri-lankan-president-backs-debt-relief-for-africa-)*
+
+Sri Lanka is expecting an economic growth of 2% in 2024, which is likely to further increase to 4% or 5% in 2025, says President Ranil Wickremesinghe.
+
+The Head of State made these remarks on Wednesday while speaking during a panel discussion on the sidelines of the World Economic Forum in Davos, Switzerland.
+
+Responding to a question pertaining to his stance on debt relief, President Wickremesinghe acknowledged that while it is evident that Sri Lanka has performed well in terms of its agreement with the International Monetary Fund (IMF), concerns still remain as to how they will repay the total amount.
+
+“But as I mentioned, the main issue we have is, how do you repay this? Because we’ve had a Balance of Payments issue, and secondly, we have a question of budgetary issues also, revenue is not enough for the expenditure”, he said in this regard.
+
+Speaking in the context of increasing the revenue earned by the government, however, President Wickremesinghe stated that together with the IMF, Sri Lanka is increasing revenue, and is revamping the country’s total revenue collection systems.
+
+“We’re increasing revenue, and as growth comes in, there should be more revenue”, he assured.
+
+The President also unveiled that plans are underway to establish a revenue authority, replacing the individual departments currently existing.
+
+Meanwhile, Sri Lanka’s President and Minister of Finance explained that as far as it is concerned, the country’s Balance of Payments depends on the mechanisms employed to attract new investments, and how fruitful said mechanisms are.
+
+Speaking with regards to the short term plan currently in place to improve Sri Lanka’s Balance of Payments, President Wickremesinghe revealed that tourism, agricultural modernization and renewable energy are the sectors currently being focused on with regards to attracting investments.
+
+“We have a fair amount of solar and wind power far beyond our needs, and we are also going to sell parts of it to India”, he explained further.
+
+Despite these efforts, however, President Wickremesinghe highlighted that there still remain pressing concerns, including ‘populism’.
+
+“The expectations of people have to be met…and most of us are living beyond our means, if you look at in a conventional way. Then, your bond markets, and other, are, at the moment, operating on the conventional rules”, he said, questioning how both, meeting the expectations of the people, and doing so in a conventional manner, can run in tandem.
+
+“Now how do you have these two together? If you’re going to apply the strict rules, all governments will collapse”, President Wickremesinghe warned.
+
+Thus, he highlighted the importance of governments having an individual stance and plan in this regard, in relation to their respective countries, adding that if not, the issue is one that would pertain.
+
+“Your government must, at the end of the day, provide the minimum facility that is expected”, he said.
+
+Talking about Sri Lanka’s stance in this regard, President Ranil acknowledged that Sri Lanka does not have it as bad as certain other countries, such as Africa, who is currently suffering from an extensive debt crisis.
+
+“It’s not so bad for us, we got into this problem because we took loans on non-tradable goods, no way of paying back, but all our villages today, have paved roads and better buildings in schools. At the end of it, I can still say part of it will help us for social development”, the President said in this regard.
+
+Speaking with regards to the current crisis faced by the African countries, President Wickremesinghe highlighted that comparisons cannot be drawn between the two countries, emphasising that Africa is in dire need of the debt relief package.
+
+“Just because we can handle it, doesn’t mean that African countries can handle it. We are for debt relief for Africa”, President Wickremesinghe emphasised.
+
+"If you're going to apply the strict rules, all governments will collapse" - President Ranil#HRCSL #WorldEconomicForum2024 #lka #slnews #news #adaderana #srilanka #WEF2024 #WorldEconomicForum #Davos2024 pic.twitter.com/tLDlVlSmVb
+
+### WHO declares Sri Lanka has achieved Hepatitis B control
+
+*2024-01-17 19:07:00 - [adaderanalk](https://www.adaderana.lk/news/96489/who-declares-sri-lanka-has-achieved-hepatitis-b-control)*
+
+In a significant milestone, the World Health Organization (WHO) declared on Wednesday that both Sri Lanka and Maldives have successfully achieved control over the deadly hepatitis B disease.
+
+This comes after an expert panel verified that the two countries have had consistently high coverage of Hepatitis B vaccine doses in infants and a low prevalence of the deadly disease, corroborated through serological surveys conducted recently in both countries.
+
+“I congratulate and commend the Maldives and Sri Lanka on their achievement which once again demonstrates the earnest efforts being made by the health leaders and officials, health workers and the people of these countries towards the health and well-being of communities,” Dr Poonam Khetrapal Singh, Regional Director, WHO South-East Asia said.
+
+The Expert Panel for Verification of Hepatitis B Control in WHO South-East Asia Region reviewed childhood immunisation data from the Maldives and Sri Lanka that showed consistent over 90 per cent coverage with Hepatitis B vaccine doses provided during infancy for the past many years.
+
+The experts also reviewed the findings of national surveys conducted among children in 2022-2023, in these countries.
+
+“Based on the evidence presented to it, the Expert Panel concluded that the standards required for verification of hepatitis B control have been met in both these countries and hence recommended that this important public health target has been achieved in Maldives and Sri Lanka,” said Dr Supamit Chunsuttiwat, chairperson of the Regional Expert Panel for verification of hepatitis B control in Southeast Asia.
+
+Notably, the two countries join Bangladesh, Bhutan, Nepal and Thailand, who achieved the same feat in 2019, WHO stated in the release.
+
+Preventing hepatitis B infection in infancy substantially reduces chronic infections and cases of liver cancer and cirrhosis in adulthood.
+
+Meanwhile, hepatitis control continues to be an important public health initiative in the Southeast Asia Region of WHO, which comprises 11 countries and is home to a quarter of the world’s population.
+
+The region has an estimated 60 million people living with chronic hepatitis B and 2,18,000 people dying every year of hepatitis B and C. Of the people eligible for antiviral treatment, only about 10 per cent know their status and less than 5 per cent of them are on treatment.
+
+In 2016, the South-East Asia Regional Immunization Technical Advisory Group endorsed a regional goal of hepatitis B control with a target of reducing hepatitis B prevalence to less than 1 per cent among children aged at least 5 years.
+
+Hepatitis B vaccine, as a part of the pentavalent vaccine, has been included in the national childhood immunisation schedule of all countries of the Region, with three doses of this vaccine provided to children during their first year of life. Eight countries of the Region also have a policy of providing a birth dose of the Hepatitis B vaccine to newborn babies.
+
+According to WHO, the region made good progress in improving immunisation coverage of the pentavalent vaccine until 2019. However, there was a decline in coverage in several countries of the Region in 2020 and 2021 following the COVID-19 pandemic. *
+
+Intensive efforts in countries have resulted in the revival of childhood immunization coverage to pre-pandemic levels in several countries and the WHO and UNICEF estimates for 2022 show that the overall coverage of 3rd dose of pentavalent vaccine has recovered to the pre-pandemic level of 91 per cent in the region, a sharp increase from 82 per cent coverage level reported in 2021.
+
+Dr Khetrapal Singh further stressed that countries also need to focus on improving the Hepatitis B vaccine birth dose, which continues to have a relatively slow uptake with an estimated coverage of only 58 per cent in the region in 2022.
+
+She said that one of the key barriers to achieving high hepatitis B vaccine birth dose coverage remains the high proportion of home deliveries, that do not allow timely access of the Hepatitis B vaccine to these newborns.
+
+The Regional Director further added that inequities in immunisation service delivery, suboptimal awareness and training of health staff at birthing facilities, particularly in terms of false contraindications and fear of adverse events following immunisation, also contribute to sub-optimal coverage of Hepatitis B vaccination coverage.
+
+“The control of hepatitis B through immunisation is a priority for our region. Achieving the control goal is a critical step as we progress towards the elimination of mother-to-child transmission of the hepatitis B virus,” the Regional Director said.
+
+WHO’s ‘triple elimination initiative’ encourages countries to simultaneously commit to such elimination together with HIV and syphilis - further pushing the agenda for integrated service delivery.
+
+“Hepatitis must be prevented and treated. In addition to vaccination, continued efforts are needed to scale up other preventive measures such as safe injection, safe blood and infection prevention and control,” Dr Khetarapal Singh added.
+
 ### වැට් වැඩිවීම ජනතාවට වගේම අපිටත් අමාරුයි
 
 *2024-01-17 19:04:20 - [adalk](https://www.ada.lk/breaking_news/වැට්-වැඩිවීම-ජනතාවට-වගේම-අපිටත්-අමාරුයි/11-407600)*
@@ -122,6 +282,22 @@ As of **2024-01-17 22:28:03**
 
 பின்னர் சுற்றுநிரூபத்தை மீறிய ஆசிரியர்கள் வேறு பாடசாலைகளுக்கு இடமாற்றம் செய்யப்பட்டதாக கல்வி அமைச்சு தெரிவித்துள்ளது. R
 
+### Sri Lanka agriculture to go high tech with 100 drones
+
+*2024-01-17 18:30:00 - [economynextcom](https://economynext.com/sri-lanka-agriculture-to-go-high-tech-with-100-drones-147677/)*
+
+ECONOMYNEXT – The Agriculture Sector Skills Council, a private sector professional body, handed over 100 agricultural drones to the Department of Agrarian Development to drive the modernization of the country’s agricultural sector.
+
+The drones were handed over at the International Container Terminal of the Colombo Port on Wednesday (17).
+
+“These drones can be used to apply fertilizers and pesticides to paddy, maize, chillies and other plantation crops,” the ASSC said in a statement, adding that it would provide training on drone operation.
+
+“One drone can apply insecticides or herbicides on 16 hectares per hour. Also, this technology can be used for paddy sowing.”
+
+Minister of Agriculture and Plantation Industry Mahinda Amaraweera said that the drones will be provided to agricultural service centers located in every district including Kurunegala, Anuradhapura, Hambantota, Vavuniya and Ampara.
+
+The total value of the drones delivered is said to be 250 million rupees. (Colombo/Jan17/2024)
+
 ### ரயிலுடன் கார் மோதியதில் நால்வர் படுகாயம்
 
 *2024-01-17 18:15:13 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ரயிலுடன்-கார்-மோதியதில்-நால்வர்-படுகாயம்/175-331688)*
@@ -134,6 +310,48 @@ As of **2024-01-17 22:28:03**
 
 எரிபொருள் போக்குவரத்து ரயில் கட்டுநாயக்கவை நோக்கிச் சென்று கொண்டிருந்ததாகவும், விபத்து காரணமாக புத்தளம் மார்க்கத்தில் இயங்கும் ரயில் தடைப்பட்டுள்ளதாகவும் ரயில்வே திணைக்களத்தின் சிரேஷ்ட அதிகாரி ஒருவர் தெரிவித்தார்.
 
+### Four persons critically injured in car-train collision
+
+*2024-01-17 18:13:00 - [adaderanalk](https://www.adaderana.lk/news/96488/four-persons-critically-injured-in-car-train-collision-)*
+
+Four persons have been admitted to the Ragama Hospital with serious injuries after a car collided with a train at the Kudahakapola level crossing.
+
+Accordingly, the four persons, identified as a couple, a mother and her daughter, were seriously injured when the car they were travelling in collided with a fuel tank wagon train plying towards Katunyake.
+
+The group, identified as residents of Gampaha, is believed to have been travelling back home after attending a wedding.
+
+### Sri Lanka’s tuk tuk drivers to be registered, issued QR code
+
+*2024-01-17 18:00:00 - [economynextcom](https://economynext.com/sri-lankas-tuk-tuk-drivers-to-be-registered-issued-qr-code-147649/)*
+
+ECONOMYNEXT – A database containing details of tuk tuk (three-wheeler) drivers will be introduced and drivers will be issued a QR code, Sri Lanka’s Minister of Labour and Foreign Employment has said.
+
+Manusha Nanayakkara met with drivers at the ministry where “It was discussed to prepare a data system containing the details of three-wheelers and to introduce a related QR code, and to prepare a system which can find trip for three-wheelers through the internet,” a statement by the government information department said.
+
+However, most taxis operating in Sri Lanka find indirect ways to avoid paying for such already established systems, such as Uber and PickMe.
+
+Also discussed at the meeting was the need for a ‘professional council for three-wheeler drivers’ to ensure professionalism and a social security system for the drivers. Until this is established, an interim sectoral steering committee would be appointed for the taxi drivers.
+
+Sri Lanka has over a million registered three-wheelers, but research showed less than half of that number were operating as taxis.
+
+In 2022, during Sri Lanka’s fuel crisis, Power and Energy Minister Kanchana Wijesekera estimated that according to registrations at provincial and divisional secretaries, there are only 350,000 commercial tuk tuk drivers in the country.
+
+Half of Sri Lanka’s tuk-tuks not taxis; most drivers middle-aged: Research
+
+A proposal by the three-wheeler drivers regarding the development of their professional dignity was presented to the Nanayakkara. The minister said he will consider gazetting the proposals under the new Employment Act. (Colombo/Jan17/2024).
+
+### Sri Lanka 3-month T-bill yield down 36bp
+
+*2024-01-17 17:58:00 - [economynextcom](https://economynext.com/sri-lanka-3-month-t-bill-yield-down-36bp-147643/)*
+
+ECONOMYNEXT – Sri Lanka’s Treasuries yields for 3 month bills fell by 36 basis points after Wednesday’s auction with all offered 95 billion rupees of offered bills sold, data from the state debt office showed.
+
+The debt office accepted 37 billion rupees in 3-month bills at 13.91 percent, down by 36 basis points from a week earlier, after offering 30 billion rupees.
+
+56 billion rupees in 6-month bills were sold at 13.83 percent, down by 26 points from a week earlier after offering 45 billion rupees.
+
+1 billion rupees of 12-month bills were sold at 12.92 percent, down by 1 point from a week earlier after offering 20 billion rupees.
+
 ### ஜல்லிக்கட்டில்   செந்திலின் காளை வென்றது
 
 *2024-01-17 17:57:00 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஜல்லிக்கட்டில்-செந்திலின்-காளை-வென்றது/175-331687)*
@@ -141,6 +359,38 @@ As of **2024-01-17 22:28:03**
 அலங்கா நல்லூர் ஜல்லிக்கட்டில் கிழக்கு மாகாண ஆளுனரும் இலங்கை தொழிலாளர் காங்கிரஸின்    தலைவருமான செந்தில் தொண்டமானின் காளை சீறிப்பாய்ந்து  வெற்றி பெற்றது.
 
 அமைச்சர் மூர்த்தியினால்  அலங்கா நல்லூரில் சிறப்பாக ஏற்பாடு செய்யப்பட்ட ஜல்லிக்கட்டுப் போட்டியில், வெற்றிபெற்ற செந்தில் தொண்டமானின்  காளைக்கு தங்க நாணயத்தை  பரிசாக இளைஞர் நலன் மற்றும் விளையாட்டு மேம்பாட்டுத்துறை அமைச்சர் உதயநிதி ஸ்டாலின்    கையளித்தார்.
+
+### Court approval required for transfer of ‘Harak Kata’, Appeals Court informs CID
+
+*2024-01-17 17:51:00 - [adaderanalk](https://www.adaderana.lk/news/96487/court-approval-required-for-transfer-of-harak-kata-appeals-court-informs-cid-)*
+
+The Court of Appeals on Wednesday (17 Jan.) informed the Criminal Investigations Department (CID) that if notorious underworld figure Nadun Chinthaka Wickramaratne, alias ‘Harak Kata’, is to be transferred from his current site of detention, it must be done with the approval of the courts.
+
+Accordingly, the Court informed the CID that consent must first be obtained from both, the Appellate Court and the Colombo Fort Magistrate’s Court, prior to any such transfer.
+
+The relevant order was issued by Appellate Court Judge D. N. Samarakoon, when a petition filed by the underworld kingpin’s father, Nelson Wickramaratne, was taken up in court.
+
+The petition was filed seeking a court order preventing the further extension of the current detention order imposed against ‘Harak Kata’, and is due to be recalled in court on 30 January.
+
+### Sri Lanka rupee closes stronger at 320.90/321.10 to the US dollar
+
+*2024-01-17 17:33:00 - [economynextcom](https://economynext.com/sri-lanka-rupee-closes-stronger-at-320-90-321-10-to-the-us-dollar-147633/)*
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 320.90/321.10 to the US dollar on Wednesday, from 321.40/60 the previous day, dealers said.
+
+A bond maturing on 01.06.2025 closed at 13.40/60 percent from 13.40/65 percent.
+
+A bond maturing on 01.02.2026 closed at 13.60/75 percent from 13.70/75 percent.
+
+A bond maturing on 15.01.2027 closed at 13.70/85 percent from 13.75/90 percent.
+
+A bond maturing on 15.03.2028 closed at 14.05/10 percent from 14.15/20 percent.
+
+A bond maturing on 15.05.2030 closed at 14.05/15 percent from 14.15/30 percent.
+
+A bond maturing on 01.07.2032 closed at 14.10/25 percent from 14.20/35 percent.
+
+Date of announcement of the Monetary Policy Review: No. 01 of 2024 – Tuesday, January 23, 2024 at 7.30 am. (Colombo/Jan17/2024)
 
 ### தேசிய உறவுகளிலும் சர்வதேச உறவுகளிலும் அரசாங்கத்தின் நடத்தை ஒழுக்கமுறைமையின் அடிப்படையில் அமையவேண்டும்
 
@@ -296,6 +546,26 @@ The CEB acknowledged a decrease in elephant deaths from electrocution compared t
 
 பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான  சாகல ரத்னாயக்கவும் இதன்போது உடனிருந்தார்.
 
+### Sri Lanka’s DMT to end backlog in issuing 865,000 licenses for temporary holders by Oct 2024
+
+*2024-01-17 17:07:00 - [economynextcom](https://economynext.com/sri-lankas-dmt-to-end-backlog-in-issuing-865000-licenses-for-temporary-holders-by-oct-2024-147646/)*
+
+ECONOMYNEXT – Sri Lanka’s Department of Motor Traffic (DMT) will end the backlog of issuing laminated driving license for 865,000 temporary paper holders by October this year, State Transport Minister Lasantha Alagiyawanna said, as the island nation’s economic recovery has helped to start printing them in usual laminated papers.
+
+Sri Lanka’s unprecedented economic crisis forced the DMT to suspend imports of printing materials in the face of severe dollar shortage after declaring bankruptcy and sovereign debt default.
+
+“We could not issue the driving license as we did not have dollars to order the required materials,” Alagiyawanna told reporters in Colombo at a media briefing.
+
+“Accordingly, there are 865,000 temporary paper license holders without proper licenses.”
+
+With the slight economic recovery and improved foreign exchange reserves, the government has now gradually started imports which were earlier suspended.
+
+“We have established three new machines now with the involvement of the private sector and taken steps to print around 4,000 driving licenses on a daily basis,” the Minister said.
+
+“From October onwards, we should be able to issue driving licenses instantly without any backlog.”
+
+He said the DMT will be giving priority in issuing the driving license for those who have to migrate for jobs or face employment interviews. (Colombo/Jan 17/2024)
+
 ### மரக்கறிகளை விவசாயிகள் கூறும் தொகைக்கே நாங்கள் வாங்குகிறோம் - நுவரெலியா பொருளாதார மத்திய நிலையத்தின் தலைவர்
 
 *2024-01-17 17:06:00 - [virakesarilk](https://www.virakesari.lk/article/174184)*
@@ -402,7 +672,7 @@ As per the court order, university students are barred from entering Deans Road,
 
 The Ceylon Electricity Board (CEB) has introduced a hotline for the members of the public to inform on illegal tapping into power lines which it said is an effort to conserve the country’s wild elephants that fall victim to unlawfully erected electrical fences.
 
-Accordingly, the public is requested to provide any information regarding illegal tapping into power lines can be submitted to the state-owned electricity supplier’s hotline 1987.
+Accordingly, the public is requested to provide any information regarding illegal tapping into power lines to the state-owned electricity supplier’s hotline 1987.
 
 In a statement, CEB’s media spokesperson Eng. Noel Priyantha highlighted that Sri Lanka has recorded a staggering 474 deaths of wild elephants in 2023, out of which at least 50 were reported to have died after being electrocuted by illegal power lines.
 
@@ -437,6 +707,28 @@ The court order comes after weeks of investigation by the Criminal Investigation
 அத்துடன், அரசியல் கைதிகள் விடயத்தில் 5 அரசியல் கைதிகள் விடுதலை செய்யப்பட்டுள்ளனர். இன்னும் 14 அரசியல் கைதிகளே உள்ளனர். அவர்களுக்கு எதிராக வழக்கு விசாரணைகள் நீதிமன்றத்தில் இடம்பெற்று வருகின்றன.
 
 மேலும், ஜனாதிபதித் தேர்தல் தொடர்பில் பேசப்படுகிறது. யாருக்கு ஆதரவு என கட்சி இன்னும் முடிவு எடுக்கவில்லை. ஐக்கிய தேசியக் கட்சியும் தமக்குள் பேசுகிறார்கள். இன்னும் யார் வேட்பாளர் என்பதை உத்தியோக பூர்வமாக அறிவிக்கவில்லை. கட்சியுடன் கலந்துரையாடியே அது தொடர்பில் முடிவு எடுக்க முடியும் எனத் தெரிவித்தார்.
+
+### Sri Lanka stocks close down, driven by banks
+
+*2024-01-17 16:30:00 - [economynextcom](https://economynext.com/sri-lanka-stocks-close-down-driven-by-banks-147620/)*
+
+ECONOMYNEXT – The Colombo Stock Exchange continued its sliding trend and closed down on Wednesday, data on its site showed.
+
+The All Share Price Index was down 0.62 percent, or 65.59 points, at 10,480.
+
+The S&P SL20 index was down 0.74 percent, or 22.33 points, at 2,976.
+
+Sectors that saw higher investor interest were the insurance industry (307mn), followed by the diversified financials industry (108mn).
+
+Capital Alliance Plc saw the most active trading volumes of the day and closed down at 49.50.
+
+Top positive contributors to the ASPI included Asiri Hospital Holdings Plc (up at 25.90), Central Finance Company Plc (up at 98.50), and The Lanka Hospitals Corporation Plc (up at 122.75).
+
+Investors continued to avoid banking sector shares and several top bank shares saw selling pressure: Heavy-weights Commercial Bank of Ceylon Plc (down at 90.00), Hatton National Bank Plc (down at 161.25), and Sampath Bank Plc (down at 68.00)
+
+Dollar-earning bluechips Expolanka Holdings Plc (down at 137.75) and John Keells Holdings Plc (down at 185.00) also saw a lack of investor interest.
+
+There was a net foreign outflow of 332 million registered in the day. (Colombo/Jan17/2024).
 
 ### Court Blocks University Student Protests in Colombo
 
@@ -1499,255 +1791,3 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 அத்துடன், முதலாம் பகுதி வினாத்தாள் அன்றைய தினம் மதியம் ஒரு மணி முதல் 3 மணி வரை நடைபெறும்.
 
 பரீட்சை தொடர்பான விபரங்கள் பாடசாலை பரீட்சார்த்திகளுக்கான அந்தந்த அதிபர்களுக்கும் தனிப்பட்ட விண்ணப்பதாரர்களின் முகவரிகளுக்கும் அனுப்பி வைக்கப்பட்டுள்ளது.
-
-### රජයේ හෙද නිලධාරීන්ගේ සංගමය අදත් වැඩ වර්ජනයක
-
-*2024-01-17 09:27:26 - [adalk](https://www.ada.lk/breaking_news/රජයේ-හෙද-නිලධාරීන්ගේ-සංගමය-අදත්-වැඩ-වර්ජනයක/11-407589)*
-
-රජයේ හෙද නිලධාරීන්ගේ සංගමය අද (17) පෙරවරු 7.00 සිට හෙට උදෑසන 7.00 දක්වා දීපව්‍යාප්ත වැඩවර්ජනයක් ආරම්භ කර තිබේ.
-
-එම සංගමයේ ජාතික සංවිධායක සුදත් ජයසිරි මහතා සඳහන් කළේ, ඊයේ (16) දිනයේ දී සෞඛ්‍ය අමාත්‍යවරයා සහ මුදල් රාජ්‍ය අමාත්‍යවරයා අතර පැවති සාකච්ඡාවේ දී යහපත් ප්‍රතිචාරයක් බලාපොරොත්තු වූ පරිදි නොලැබීම හේතුවෙන් මෙම තීරණය ගත් බවය.
-
-### சிறிதளவில் மழை; கடும் குளிர்
-
-*2024-01-17 09:06:15 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/சிறிதளவில்-மழை-கடும்-குளிர்/175-331631)*
-
-மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
-
-இதேவேளை வடக்கு மாகாணத்திலும் காலை வேளையில், கடும் குளிர் நிலவுவதாக தகவல்கள் தெரிவிக்கின்றன. R
-
-### இன்றும் பணிப்புறக்கணிப்பில் அரச தாதியர் சங்கம்
-
-*2024-01-17 09:03:34 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பணிப்புறக்கணிப்பில்-அரச-தாதியர்-சங்கம்/175-331630)*
-
-அரச தாதியர் சங்கம் இன்று (17) காலை 7.00 மணி முதல் நாளை காலை 7.00 மணி வரை மீண்டும் நாடளாவிய ரீதியில் பணிப்புறக்கணிப்பு போராட்டத்தை முன்னெடுத்துள்ளது.
-
-சுகாதார அமைச்சருக்கும், நிதி இராஜாங்க அமைச்சருக்கும் இடையில் நேற்று (16) இடம்பெற்ற கலந்துரையாடலில் எதிர்பார்த்த நல்ல பதில் கிடைக்காத காரணத்தினால் இந்தத் தீர்மானம் எடுக்கப்பட்டதாக அந்த சங்கத்தின் தேசிய அமைப்பாளர் சுதத் ஜயசிறி தெரிவித்தார்.
-
-இதேவேளை, பல சுகாதார தொழிற்சங்கங்கள் முன்னெடுத்த அடையாள வேலைநிறுத்தப் போராட்டம் இன்று (17) காலை 6.30 மணியளவில் தற்காலிகமாக முடிவுக்கு கொண்டுவரப்பட்டுள்ளதாக துணை மருத்துவ ஒன்றிய முன்னணி தெரிவித்துள்ளது.
-
-ஒரு வாரத்திற்குள் கோரிக்கைகளுக்கு தீர்வு வழங்கப்படாவிடின் மீண்டும் தொழில் நடவடிக்கை ஆரம்பிக்கப்படும் என அதன் தலைவர் உபுல் ரோஹன தெரிவித்தார். R
-
-### Govt. nursing officers on 24-hour token strike today
-
-*2024-01-17 08:59:00 - [adaderanalk](https://www.adaderana.lk/news/96466/govt-nursing-officers-on-24-hour-token-strike-today)*
-
-The Government Nursing Officers’ Association has launched an island-wide 24-hour token strike with effect from 7:00 a.m. today (Jan.17).
-
-Commenting in this regard, the national organizer of the association Sudath Jayasiri explained that the nursing officers decided to resort to a one-day token strike as the discussions held with the Health Minister and the State Minister for Finance were unfruitful.
-
-Meanwhile, several other health trade unions that engaged in a token strike on Tuesday (Jan.16) have temporarily called off their trade union action at 6:30 a.m. this morning.
-
-The president of Paramedical Services Front (PMSF) Upul Rohana, however, has vowed to resume the trade union action if the authorities fail to address their problems within a week’s time. He said around 100,000 health workers including all paramedical services, hospital secretaries, administrative officers as well as health administrative assistants, minor staff and 75 other trade unions of the health staff would join this island-wide strike.
-
-### නැගෙනහිර පළාතේ හඳුන්වා දෙන 'ජල්ලිකට්ටු' ක්‍රීඩාව ගැන ඔබ දන්නවා ද?
-
-*2024-01-17 08:51:16 - [bbccomsinhala](https://www.bbc.com/sinhala/articles/c51zn7j877wo)*
-
-මෙහි කිසිවක් අඩංගු නැත.Play video, "නැගෙනහිර පළාතේ හඳුන්වා දෙන 'ජල්ලිකට්ටු' ගැන ඔබ දන්නවා ද?", ධාවන කාලය 1,4901:49වීඩියෝ ශීර්ෂ වැකිය, දෙමළ ජනතාවගේ සාම්ප්‍රදායික ක්‍රීඩාවක් වන 'ජල්ලිකට්ටු' චෝල පාලන සමයේදී ශ්‍රී ලංකාවේ පැවැති බව නැගෙනහිර ආණ්ඩුකාර සෙන්තිල් තොණ්ඩම පවසයි.
-
-නැගෙනහිර පළාතේ හඳුන්වා දෙන 'ජල්ලිකට්ටු' ක්‍රීඩාව ගැන ඔබ දන්නවා ද?
-
-ඉන්දියාවේ තමිල්නාඩුවේ ජනප්‍රිය ක්‍රීඩාවක් වන 'ජල්ලිකට්ටු' ශ්‍රී ලංකාවේ නැගෙනහිර පළාතේ හඳුන්වා දීමට, පළාත් ආණ්ඩුකාර සෙන්තිල් තොණ්ඩමන් කටයුතු කරමින් සිටියි.
-
-දෙමළ ජනතාවගේ සාම්ප්‍රදායික ක්‍රීඩාවක් වන 'ජල්ලිකට්ටු' චෝල පාලන සමයේදී ශ්‍රී ලංකාවේ පැවැති බව ඔහු පවසයි.
-
-එම ක්‍රීඩාව හඳුන්වාදීමේ ප්‍රධාන උත්සවය ජනවාරි 06 ත්‍රිකුණාමලය, සාම්පූර් ක්‍රීඩාංගනයේ දී පැවැත්වුණි.
-
-නැගෙනහිර පළාතේ ආණ්ඩුකාරවරයා ලෙස තම බල ප්‍රදේශයේ  මෙම ක්‍රීඩාව ජනප්‍රිය කරවීමට ක්‍රියා කරන බව සෙන්දිල් තොණ්ඩමන් පැවසුවේය.
-
-### Sri Lanka’s Colombo Port sees jump in traffic amid Red Sea tensions
-
-*2024-01-17 08:28:00 - [adaderanalk](https://www.adaderana.lk/news/96465/sri-lankas-colombo-port-sees-jump-in-traffic-amid-red-sea-tensions)*
-
-Sri Lanka’s Colombo port has seen a big jump in container volumes in recent weeks as vessels steering clear of tensions in the southern Red Sea have found it a convenient transit point, officials said on Tuesday.
-
-Yemen’s Iran-backed Houthi rebels have since November attacked ships in the Red Sea, part of a route that accounts for about 12% of the world’s shipping traffic, in what they say is an effort to support Palestinians in the war with Israel.
-
-In response, some shipping companies have instructed vessels to sail around Africa’s Cape of Good Hope, a slower and more expensive route.
-
-Due to Colombo’s strategic location, stopping at the port gives ships convenient access to the Middle East, South Asia and East Asia, said Lal Weerasinghe, a senior official at the Sri Lanka Ports Authority (SLPA).
-
-“When ships come past South Africa, Colombo is the first hub they meet...Singapore is further away. So this is the easiest port to access,” Weerasinghe said.
-
-Port of Colombo is a key port between Africa, the Middle East and East Asia and handled 6.94 million 20-foot equivalent unit (TEU) in 2023, a 2% jump for the year, SLPA data showed. In December, TEUs jumped 15% on year.
-
-Over the last four to six weeks, shipping lines requested more berthing windows at the port’s three terminals and transhipment volumes from neighbouring India also grew, two terminal operators said.
-
-“We typically handle about 5,000-5,500 TEUs (per day) but since late last year there has been an increase of about 1,000 TEUs per day,” said Weerasinghe.
-
-“We were forced to decline requests from about four shipping lines to increase traffic because it would cause delays for existing customers.”
-
-As much as 50% of the uptick is from Mediterranean Shipping Company, the leading container shipping company, Weerasinghe added.
-
-Shipping companies are also increasingly using Colombo as a relaying port, sometimes offloading their entire cargo to a different ship, he added.
-
-Vessel calls have risen at other Colombo port terminals too.
-
-“There is a lot of transhipment from India. We are hoping increased traffic will help Colombo port edge closer to double-digit growth in the first quarter,” said an official from a privately-run terminal.
-
-He declined to be named as he is not authorised to speak to the media.
-
-### பாக்கிஸ்தான் மீது ஈரான் ஏவுகணை தாக்குதல் - இஸ்லாமிய அமைப்பின் தளத்தை இலக்குவைத்தது
-
-*2024-01-17 08:00:00 - [virakesarilk](https://www.virakesari.lk/article/174116)*
-
-பாக்கிஸ்தானில் உள்ள இஸ்லாமிய அமைப்பொன்றின் தளத்தினை இலக்குவைத்து ஈரான் மேற்கொண்ட தாக்குதலில் இரு சிறுவர்கள் கள் கொல்லப்பட்டுள்ளனர்.
-
-ஜெய்ஸ் அல் அடில் என்ற இஸ்லாமிய குழுவொன்றின் தளத்தினை இலக்குவைத்து தாக்குதலை மேற்கொண்டதாக ஈரான் தெரிவித்துள்ளது.
-
-ஈரானின் இந்த தாக்குதலை சட்டவிரோதமான நடவடிக்கை என வர்ணித்துள்ள பாக்கிஸ்தான் மோசமான விளைவுகள் குறித்து எச்சரித்துள்ளது.
-
-ஒரு சிலநாட்களிற்குள் ஈரான் சிரியா ஈராக் பாக்கிஸ்தான் ஆகிய நாடுகள் மீது தாக்குதல்களை மேற்கொண்டுள்ளமை குறி;ப்பிடத்தக்கது.
-
-### Qatar, France broker deal to get aid, medication to civilians, hostages in Gaza
-
-*2024-01-17 07:53:00 - [adaderanalk](https://www.adaderana.lk/news/96464/qatar-france-broker-deal-to-get-aid-medication-to-civilians-hostages-in-gaza)*
-
-(Reuters) - Qatar and France have brokered a deal with Israel and Palestinian Islamist group Hamas to deliver urgent medication to some 45 Israeli hostages held by the group in Gaza in return for humanitarian and medical aid for the most vulnerable civilians.
-
-The two countries said the aid would leave Qatar for Egypt on Wednesday before being taken across the Rafah border crossing.
-
-Qatari foreign ministry spokesperson Majed al-Ansari said in a statement the deal would mean “medicine along with other humanitarian aid is to be delivered to civilians in the Gaza Strip, in the most affected and vulnerable areas, in exchange for delivering medication needed for Israeli captives in Gaza.”
-
-He did not give details on how much aid or what aid would be delivered to civilians.
-
-The office of Israeli Prime Minister Benjamin Netanyahu said two Qatari Air Force planes were to land on Wednesday in Egypt with medicines purchased in France based on an Israeli list.
-
-Earlier, Philippe Lalliot, head of France’s foreign ministry crisis centre which organises aid efforts, said negotiations had been going on for weeks and the initial idea had come from the families of some of the Israeli hostages.
-
-Specific medical packages for several months, which were put together in France, would be delivered to each of the 45 hostages. The International Committee of the Red Cross will coordinate on the ground.
-
-France still has three nationals held in Gaza, but none of them are in urgent need of medication, Lalliot said.
-
-### ඉන්දීය වයලීන් රජු  අම්බි සුබ්‍රමනියම් අද ලංකාවට
-
-*2024-01-17 07:50:59 - [adalk](https://www.ada.lk/breaking_news/ඉන්දීය-වයලීන්-රජු--අම්බි-සුබ්‍රමනියම්-අද-ලංකාවට/11-407588)*
-
-මෙරට යාපනයේ  ඉපිද 1982 දී ඉන්දියාවට සංක්‍රමණයවූ සුප්‍රසිද්ධ වයලින් වාදන ශිල්පී පන්ඩිත් ලක්ෂ්මීනාරායන සුබ්‍රමනියම් මහතාගේ පුත්,  ඉන්දියානු සම්භාව්‍ය  වයලීන් වාදනයේ නව රජු ලෙස කිරුළ දරන ඉන්දීය සංගීතඥ ආචාර්ය අම්බි සුබ්‍රමනියම් මහතා සංචාරයක් සඳහා අද  (17 ) මෙරටට පැමිණිමට නියමිතය.
-
-අද  සිට 21 දා දක්වා මෙරට රැඳී සිටින අම්බි මහතාගේ ශාස්ත්‍රීය සංගීත වැඩ මුළුවක් හා වයලින් වාදනයක් හෙට  පස්වරු 1.00 ට පේරාදෙණිය විශ්ව විද්‍යාලයේ කෘෂිකර්ම විද්‍යා පීඨ ශ්‍රවනාගාරයේදි ද අම්බි  මහතාගේ සංගීත ප්‍රසංගයක් අද  පස්වරු 06.30ට විශ්ව විද්‍යාලීය ගෘහස්ත ක්‍රීඩාංගණයේදීද  නොමිලේ  පැවැත්වෙන බව ඒවා සංවිධානය කරන  පේරාදෙණිය  විශ්ව ව්ද්‍යාලය සඳහන් කරයි.
-
-මේ සංගිත ප්‍රසංගය සඳහා 5000 ක පිරිසකට නොමිලේ සහභාගි විය හැකි බැව්ද  එම විශ්ව විද්‍යාලය පවසයි.
-
-### A few showers expected in several provinces
-
-*2024-01-17 07:43:00 - [adaderanalk](https://www.adaderana.lk/news/96463/a-few-showers-expected-in-several-provinces)*
-
-The Department of Meteorology says a few showers may occur in Eastern, Uva and Central provinces.
-
-Mainly fair weather will prevail in the other areas of the island, it said.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and North Western provinces and in Galle and Matara districts during the morning.
-
-### උපෙළ කෘෂි විද්‍යාව පළමු ප්‍රශ්න පත්‍රයත් අවලංගුයි - ප්‍රශ්න පත්‍ර දෙකම පෙබරවාරි 01දා
-
-*2024-01-17 07:31:33 - [adalk](https://www.ada.lk/breaking_news/උපෙළ-කෘෂි-විද්‍යාව-පළමු-ප්‍රශ්න-පත්‍රයත්-අවලංගුයි---ප්‍රශ්න-පත්‍ර-දෙකම-පෙබරවාරි-01දා/11-407586)*
-
-මෙවර අ.පො.ස.උසස් පෙළ(2023/2024) විභාගයේ ඉකුත් 08 දා 13 00 පැයේ සිට 15  00 පැය දක්වා පවත්වන ලද  අංක 8 දරණ කෘෂි   විද්‍යාව පළමුවන ප්‍රශ්න පත්‍රයද වහාම ක්‍රියාත්මක වන පරිදි අවලංගු කළ බව විභාග දෙපාර්තමේන්තුව අද සවස නිවේදනය කළේය.
-
-එමෙන්ම මේ වන විට අවලංගු කර ඇති උසස් පෙළ කෘෂි විද්‍යාව ප්‍රශ්න පත්‍ර වෙනුවෙන් නව ප්‍රශ්න පත්‍ර පැවැත්වීම එළඹෙන පෙබරවාරි පළමුදා පවත්වන බවද විභාග දෙපාර්තමේන්තුව පවසයි.
-
-විභාගයට පෙර එම පළමු  ප්‍රශ්න පත්‍රයේද  ප්‍රශ්න කිහිපයක් පිටවී ඇති බවට පරීක්ෂණවලදී අනාවරණය වෙමින් පැවතීම හේතුවෙන් එම ප්‍රශ්න පත්‍රයද  අවලංගු  කළ බව විභාග කොමසාරිස් ජෙනරාල් අමිත් ජයසුන්දර මහතාගේ අත්සනින් නිකුත් කළ මාධ්‍ය නිවේදනයේ සඳහන් වේ.
-
-එමන්ම මීට පෙර මෙම විභාගයේ  ඉකුත් 10 දා පැවැත්වූ  කෘෂි විද්‍යාව ප්‍රශ්න පත්‍රයද එහි ප්‍රශ්න කීපයක් විභාගයට පෙර සමාජ මාධ්‍යන්හි සංසරණය වීම හේතුවෙන් විභාග දෙපාර්තමේන්තුව මගින් ඉකුත් 12 දා අවලංගු කළේය.
-
-මෙම ප්‍රශ්න පත්‍ර දෙක වෙනුවට  යළි නව ප්‍රශ්න පත්‍ර පැවත්වීමේ විභාගය  එලඹෙන පෙබරවාරි පළමුවනදා( 1)පැවැත්වීමට ශ්‍රී ලංකා විභාග දෙපාර්තමේන්තුව තීරණය කර තිබේ.
-
-මේ අනුව පෙබරවාරි පළමුදා (1) පැය 08  30 සිට පැය 11  40 දක්වා කෘෂි විද්‍යාව දෙවන  ප්‍රශ්න පත්‍රයද පැය 13  00 සිට පැය 15  00 දක්වා කෘෂි විද්‍යාව පළමු ප්‍රශ්න පත්‍රයද පවත්වන බව විභාග දෙපාර්තමේන්තුව පැවසීය.
-
-මෙම  කෘෂි  විද්‍යාව දෙවන   ප්‍රශ්න පත්‍රයට පෙනී සිටින  පුද්ගලික අයදුම්කරුවන්ට සිය පුද්ගලික ලිපිනයට හා  පාසල් අයදුම්කරුවන්ට ඔවුන්ගේ  පාසලේ විදුහල්පති වෙතද විභාග ප්‍රවේශ පත්‍රය   එවන බවද  විභාග දෙපාර්තමේන්තුව නිකුත් කළ නිවේදනයේ සඳහන් වේ.
-
-### Sri Lanka tea prices rise at second auction in 2024
-
-*2024-01-17 06:01:00 - [economynextcom](https://economynext.com/sri-lanka-tea-prices-rise-at-second-auction-in-2024-147501/)*
-
-ECONOMYNEXT – Sri Lanka’s tea prices went up across elevations at the second auction of 2024, with most grades of tea moving up, market data showed.
-
-The weekly sale average went up 51.53 rupees to 1,274.74 rupees a kilogram, according to industry data published by Ceylon Tea Brokers.
-
-In the second week 4.5 million kilos were sold by public auction..
-
-High Grown BOP teas went up with Best Westerns going up by between 50 to 100 rupees. Below Bests were up 50 rupees, while plainer categories fell 50 rupees.
-
-There were hardly any offerings from Nuwara Eliya’s and Uda Pussellawa’s gained by about 100 rupees and Uvas were up by 50 rupees.
-
-The high grown sale average was up 31.50 rupees to 1,087 rupees a kilo.
-
-BOP1, Select Best and Bests were up 50 rupees. OP1, select bests were also up 50 rupees, while bests and below bests were up 100 rupees.
-
-OP/OPA, Select Best gained by 100 rupee a kilo and Best and Below best moved up by 50 rupees.
-
-PEK, Select Bests were firm. Best and below best gained by 50 rupees per kilo. PEK1 – Select Best and Best were down 50 rupees.
-
-The medium grown sale average was up 25.68 rupees to 1,064.73 rupees.
-
-OP1 Select Best were firm whilst Best, Below Best were higher.
-
-PEKOE1 Select best together with PEK’s were firm. Select best PEK1’s were firm to lower whilst balance sold around last week levels.
-
-FBOP/FBOP1 Select best were lower, whilst best and below best were fully firm to dearer.
-
-The Low Growns average went up 60.02 rupees to 1,330.30 rupees kilogram.
-
-Low Growns had overcast conditions with showers, with Sabaragamuwa expecting heavy showers. Whilst Uva and Low Growns recorded a decline, Udapussellawa and Nuwara Eliya maintained their crop intakes. (Colombo/Jan17/2023)
-
-### MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
-
-*2024-01-17 05:32:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/middle-east-war-iran-strike-in-pakistan-kills-2-children-iran-says-it-was-a-militant-base/)*
-
-Colombo (News 1st) – Yet another new dimension opened in the Middle East crisis late Tuesday as Iran bombed what it said was an anti-Iran Sunni militant base in Pakistan. The Pakistani government said two children were killed and three more children wounded, foreign media reported.
-
-Iran's state-run IRNA news agency and state television said that missiles and drones were used in the strikes in Pakistan to target the Jaish al-Adl militant group. Press TV, the English-language arm of Iranian state television, attributed the attack to Iran’s Revolutionary Guard.
-
-The drone and missile strike was in Balochistan’s Panjgur district, about 50km inside Pakistan. The Jaish al-Adl militant group has staged several attacks in Iran.
-
-Pakistan’s foreign ministry condemned the strikes and warned of serious consequences. “Pakistan strongly condemns the unprovoked violation of its airspace by Iran which resulted in the death of two innocent children while injuring three girls. This violation of Pakistan’s sovereignty is completely unacceptable and can have serious consequences” the statement said.
-
-Just a few hours earlier, Iran struck what it said were Mossad sites in the town of Erbil in the Kurdish-controlled region of northern Iraq. The Iraqi government has condemned the attacks and said there are no Mossad bases in Iraq.
-
-Meanwhile, US forces carried a third set of strikes on Houthi bases in Yemen late Tuesday, hours after a Greek merchant ship was hit by a ballistic missile in the Red Sea, and a US cargo ship was also hit by a missile.
-
-In Gaza, fighting continued to rage, with a tentative deal reached for Qatar to send in a shipment of medicines.
-
-The UN in a statement late Tuesday said that almost the entire population of Gaza is going hungry and said Israel is “destroying Gaza’s food system and using food as a weapon against the Palestinian people”.
-
-### ICJ says new Bill to establish “Commission for Truth, Unity and Reconciliation” lacks credibility
-
-*2024-01-17 05:10:44 - [dailyftlk](https://www.ft.lk/opinion/ICJ-says-new-Bill-to-establish-Commission-for-Truth-Unity-and-Reconciliation-lacks-credibility/14-757436)*
-
-The International Commission of Jurists (ICJ) in a statement said it considers the Government’s proposed Bill to establish a Commission for Truth, Unity and Reconciliation unlikely to advance accountability for perpetrators and justice for victims and survivors of the 26-year-long armed conflict that ended in 2009 and involved widespread atrocities.
-
-The ICJ is concerned that the lack of consultation with victim communities and the continued neglect of their demands deprive the Bill of legitimacy.
-
-A draft Bill on Commission for Truth, Unity and Reconciliation was gazetted on 1 January 2024, to establish the Commission, amidst a climate of impunity for past human rights violations and abuses and intimidation of victim communities in the north and east of the country.
-
-“Considering the repressive political climate in Sri Lanka, and the absence of the conditions that are necessary to ensure the success of the proposed Commission for Truth, Unity and Reconciliation, the Bill appears to be more of a legislative manoeuvre aimed at deflecting the attention of the Human Rights Council and removing Sri Lanka from further scrutiny rather than a genuine accountability measure,” said ICJ’s Asia Director Melissa Upreti.
-
-The Bill suffers from a lack of transparency regarding the consultation process and non-acceptance by victim communities.
-
-If adopted, it would empower the Attorney-General to prosecute cases where the Commission makes a finding of responsibility for an offence. The ICJ is concerned that in the past the Attorney-General’s office has assumed potentially conflicting dual roles of legal advisor for the State and prosecutor of offences allegedly committed by State officials. The ICJ has previously noted how the Department had mishandled cases relating to serious human rights violations and abuses which has contributed to a climate of mistrust. The ICJ recalls that the years since the end of the conflict have been marked by near total impunity for conflict era crimes, owing to the failure of the Attorney-General’s Department to act to hold to account those responsible for serious crimes under international law.
-
-The Bill provides that appointments to the Commission will be made by the President upon the recommendation of the Constitutional Council. The ICJ has previously noted that the governing party holds a majority in the Constitutional Council and that a majority of members are parliamentarians with only three members appointed from outside. Further, a representative of the smaller political parties (including parliamentarians representing the north and east) is yet to be appointed to the Council. The ICJ is concerned that these arrangements are conducive to creating a Commission that lacks independence and may be subjected to political pressures and considerations in carrying out its work. The situation is exacerbated by the Constitutional Council approving the appointment of the current Acting Inspector General of Police who had in December 2023 been held directly responsible for torture by the Supreme Court of Sri Lanka.
-
-The Bill would further authorise the proposed Commission to seek the assistance of the police to conduct investigations and liaise with the National Authority for the Protection of Victims of Crime and Witnesses, which in turn depends on the police to provide support for the protection of victims and witnesses. However, a number of police officials have allegedly been responsible for recent cases of torture and ill-treatment and extra judicial killings. The Government’s failure to initiate thorough and impartial investigations into these cases and to bring perpetrators to justice has deepened the public’s mistrust of the police and prosecuting agencies.
-
-Successive UN Human Rights Council Resolutions on Sri Lanka have called for the establishment of transitional justice mechanisms with the active participation of all stakeholders, including women who have been at the forefront in leading victim demands for accountability, particularly for cases of enforced disappearance. Yet, protesting mothers and female family members of the disappeared are routinely detained, intimidated or put under surveillance and their voices suppressed.
-
-The Bill lacks also provisions that are gender responsive and makes the establishment of mechanisms and procedures to address women’s concerns discretionary.
-
-Existing transitional justice institutions such as the Office of Missing Persons (OMP) and the Office for Reparations have been ineffective. As underscored by the UN Office of the High Commissioner for Human Rights, the OMP has failed to earn the trust of victims and their representatives. As recently observed by the High Commissioner, there has been little to no development regarding cases of past human rights violations and abuses.
-
-“The victims of Sri Lanka’s 26-year armed conflict, replete with atrocities, have been forced to wait too long to learn the truth about their loved ones and to be granted justice. When the UN Human Rights Council considers a new resolution on Sri Lanka later this year, it must avoid blind acceptance of Sri Lanka’s flawed transitional justice process and institutions and adopt an approach that genuinely puts the interests of victims and survivors first,” added Upreti.
-
-The draft Bill provides for the establishment of the Commission with a Head Office based in Colombo and Regional Offices as necessary (clause 2). The Commission will have between seven to twenty-one members, who are to be appointed by the President upon recommendation by the Constitutional Council (clause 3). The term of the Commissioners is five years (unless removed earlier) and the President can extend their term on a yearly basis for an additional two years (clause 9). The Commission may conduct public or closed sittings as necessary (clause 7).
-
-The stated objectives of the Commission are to investigate, inquire and make recommendations in respect of complaints or allegations or reports relating to damage or harm caused to persons or property, loss of life or alleged violation of human rights which occurred during the conflict in the Northern and Eastern Provinces between 1983 to 2009 or connected to such period or its aftermath and has a mandate to promote truth telling and make recommendations for reparations, and non – recurrence (clause 12). If it appears to the Commission that an offence under any Sri Lankan law has been committed it may refer the matter to the relevant law enforcement or prosecuting authorities for further investigation and necessary action (clause 13 (zd)). The Commission does not have the mandate to determine civil or criminal liability of any person (Clause 16 (1)) and instead the onus is on the Attorney-General to institute criminal proceedings regarding an offence in Court based on material collected by the Commission (clause 16 (2)).
-
-The Bill also provides for the establishment of a Victim and Witness Protection Division (clause 28) and a Data Management Division (clause 29). The Commission may also appoint any mechanisms and procedure to address requirements related to women, children, persons with disabilities and disadvantaged groups and advisors relating to specific issues (clause 30).
-
-The Bill also provides for the appointment of an advisory panel to advise the Commission on matters referred to the Panel (clause 32). This panel is to consist of a minimum of ten members appointed by the President on the Commission’s recommendation. Clause 39 of the Bill states that within one month of the interim report of the Commission being published the President shall appoint a monitoring committee to implement the findings of the report. Clause 40 states that such Committee be comprised of 11 members, of which six members are to be recommended by the Constitutional Council while the others are members ex-officio. Ex-officio members include the Secretaries of the Ministries of Defence, Justice, Law & Order, Finance, Public Administration & Women, Child Affairs and Social Empowerment or their nominees.  The Committee is expected so submit bi-annual plans evaluating the implementation of recommendations of the TUR Commission and other previous Commissions of Inquiry.
-
-Clause 49 of the Bill states that the Commission can defer its investigation regarding any disappearance of a person/s if requested to do so by the OMP until such time it can be resumed without compromising inquiries conducted by the OMP.
-
-In September 2023, the ICJ joined eight other international human rights organizations in expressing their grave reservations about the proposed Truth, Unity and Reconciliation Commission and setting out prerequisites to be addressed before appointing any new Commission. The concerns relate to Sri Lanka’s legacy of failed commissions, lack of a conducive environment and confidence building efforts, lack of meaningful consultations with victim communities, the failure of domestic transitional justice institutions, and the blocking of prosecutions. None of these concerns have been addressed to date, which bring into question the newly proposed Commission’s likelihood of serving as an effective mechanism for accountability.

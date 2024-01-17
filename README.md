@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-18 02:27:55**
+As of **2024-01-18 03:28:12**
 
 ## Newspaper Stats
 
@@ -20,15 +20,141 @@ As of **2024-01-18 02:27:55**
 
 * adaderanalk: 98
 
-* dailyftlk: 106
+* dailyftlk: 107
 
 * dbsjeyarajcom: 113
 
 * adalk: 131
 
-* **Total**: **824**
+* **Total**: **825**
 
 ## Latest Articles (100)
+
+### A paler shade of red: A 1956 or 1977 in 2024
+
+*2024-01-18 00:40:32 - [dailyftlk](https://www.ft.lk/columns/A-paler-shade-of-red-A-1956-or-1977-in-2024/4-757457)*
+
+“The IMF program…as structured it shifted the burden of recovery principally onto people with low incomes.”
+
+“Politics that is truly at the service of humanity cannot let itself be dictated to by finance and market mechanisms.”
+
+Ranil failed to negotiate the best possible deal with the IMF. The agreement he arrived at is flawed at its foundation, and the quote from the HRW World Report 2024 above identifies that structural flaw.
+
+Ranil’s inability to read turbulent global dynamics and navigate Sri Lanka sagaciously is evidenced by his outrageously risky positioning of our country in a widening conflict in the Middle East.
+
+To align as Ranil has with the US-UK when they are bombing Arab countries (Yemen, Iraq) while patronizing Israel which is engaged in a genocidal war on Gaza, goes against the sentiments of the vast Arab and Islamic world and Sri Lanka’s Muslim community. It is counterproductive for Sri Lanka by any geopolitical metric.
+
+In Great Power relations, Wickremesinghe has done a double-cross. Having praised and defended China flatteringly in several international forums, he secured a deal with the Exim Bank and took it to the IMF. Having done so, he backstabbed Beijing by slapping a one-year ban on visits by Chinese scientific research ships despite having given them a clean bill of health on Indian TV.
+
+A ‘scan’ of Ranil’s IMF deal in the annual report of the Human Rights Watch reveals the following:
+
+‘Regressive government policies and inadequate social protection left many Sri Lankans at risk from the worst effects of the country’s economic crisis, Human Rights Watch said today in its World Report 2024…
+
+“Millions of Sri Lankans are struggling to survive an economic crisis that partly originated in corrupt, unaccountable governance,” said Meenakshi Ganguly, deputy Asia director at Human Rights Watch. “The current administration is responding with policies that weigh heaviest on those who have least, while suppressing voices that are essential for accountable, democratic decision-making.”
+
+…The Sri Lankan government and International Monetary Fund’s (IMF) response to the economic situation undermined human rights in the country. More than 17 percent of the population are moderately or acutely food insecure and in need of humanitarian assistance, and 31 percent of children aged under 5 are malnourished, according to the United Nations.
+
+The IMF program focused on raising government revenues, and emphasized tackling corruption and improving social protection, but as structured it shifted the burden of recovery principally onto people with low incomes.
+
+The government raised electricity tariffs, doubled value-added taxes, and phased out fuel subsidies. The reform program included a “social spending floor” set at 0.6 percent of GDP, less than half developing countries’ average.
+
+The government’s plan of targeted social protection benefits led to the exclusion of many who do not have an adequate standard of living. In an attempt to manage its domestic debts, the government reduced the value of state-run pension funds in which ordinary people hold their savings.’ (https://www.hrw.org/world-report/2024)
+
+This is why the existing IMF deal simply has to be restructured and rebalanced. Ranil’s IMF deal is like his CFA deal with the Tigers: giving away the store and the family silver too.
+
+Despite this, the main Opposition’s chief economist Dr Harsha de Silva pitches strongly for undisturbed continuity of the existing program of debt restructuring, except for selective recalibration of VAT. Harsha-Eran advocate sticking with the Ranil-IMF austerity package. “We have no other path!” insists Harsha shrilly. (https://youtu.be/JDTsOaZ7Dik?si=UvGJ0cwaVEbrbSeb)
+
+Addressing the Economic Blueprint launch in Matara (Jan 13th), Eran Wickramaratne proudly pronounced that he and his colleagues “remained essentially UNP as before, with only a change of nomenclature to SJB, just as a person remains essentially the same notwithstanding name-change after marriage”.
+
+An aspirant Finance Minister decidedly against renegotiating and rebalancing the IMF deal; a Government delegation comprising those who were on Ranil’s 2015-2019 UNP team which gave us the cancerous ISB node of our debt and remain utterly unrepentant, cannot possibly secure the best deal for Sri Lanka. They will repeat the debt-repayment-debt cycle. They are like Big Pharma opioid pushers, sorry sales-reps.
+
+The Economic Blueprint launch in Matara (Jan 13) bade a whimsical farewell to the Premadasa developmental paradigm --in his birth centenary year-- while exhibiting the SJB’s confusion, illogic and errors:
+
+What is most relevant about China’s economy isn’t that it is capitalist, not socialist or ‘communist’, but rather, that its – and East Asia’s—model of planned, state-led capitalism (read LSE Prof. Robert Wade’s award-winning Governing the Market), so different from the SJB’s market-governed Blueprint, has produced the economic miracle of uplifting a greater number of people out of poverty into the middle class (‘have-nots’ into ‘haves’) faster than in the entirety of economic history (Kishore Mahbubani).
+
+Premadasa’s 200 garment factories program commended by the SJB, was far closer the China-Vietnam-East Asia model than JR Jayewardene’s FTZ ‘enclave’ model. It was state-initiated and guided: its poly-provincial decentralisation decided; minimum wages, air-conditioning and free meals prescribed; preference for ex-Janasaviya recipients as labour force specified; state bank loans proffered conditional upon compliance with the above. Little was left to the free-play of market forces.
+
+President Premadasa’s specific social programs may have been dependent on the fairly high savings available to him which isn’t the case today, but his economic paradigm was not, and is therefore relevant and durable in the current poverty and inequity pandemic. It was contained in his April 4th 1973 speech to the Colombo West Rotary club, republished by him in 1991 with a boxed note emphasising perspectival and conceptual continuity. Delivered during SL’s acute foreign exchange crisis (1973) he asserted that “scarcity of foreign exchange is no obstacle” and would be overcome by adoption of his alternative policy paradigm.
+
+A paradigm isn’t outdated by chronology, only by contrary facts. Premadasa is far from outdated because he was way ahead of his time, as Prof. Premachandra Athukorala confirmed in a webinar organised by Griffith University, Brisbane, Australia.
+
+If the Premadasa development model is outdated because “that was over 30 years ago”, why does SJB chief economist Harsha De Silva keep citing BR Shenoy whose prescriptive policy framework was almost 60 years ago (1965)?
+
+The Blueprint launch (Matara) signalled there would no Janasaviya-2, at this time of greatest social need, rendering talk of ‘Social Democracy’ hollow.
+
+(I) SJB policy ideologues consign the citizens to the role of passive victims who have no rational choice but to submit to ‘hardships’; swallow ‘bitter medicine’ to repay debts they didn’t rack up but those who preach to them did and will do again.
+
+(II) Anura gives the citizens hope; the role of active agency with the collective ability to exit the crisis through a new, bottom-up project of national renaissance and productivity.
+
+(III) SJB ideologues regard the citizens as objects of IMF debt restructuring policy and economic policy in general.
+
+(IV) AKD-NPP appeals to them as subjects who can shape, make and master their own (collective) destiny.
+
+(V) The NPP is a people’s movement; JVP-NPP is a party plus social movement ensemble (https://youtu.be/gDkt8DGz0_o?si=DUk1scZdgvKjkLRN). The SJB’s social roots have atrophied from disuse.
+
+“The soaring vision he [Premadasa] had for his country…was unmatched by any political leader…either conceptually, or in terms of the intelligence and managerial energy with which he backed it up…”
+
+Sajith has adopted the vastly inferior Harsha-Eran (‘Blueprint’) model instead. By so doing, the SJB has regressed to the policies of the pre-Premadasa UNP (1977-1989) and post-Premadasa UNP (1994-2019), rather than returned to the policies of the Premadasa UNP (1989-1993) with a view to forward-movement and fulfilment.
+
+Sajith was a populist ‘rap-star’ in November 2019, when he missed 50% by only 8% and Gotabaya’s 52% by 10%.
+
+By shifting rightwards, Sajith is fighting for and within the diminished centre-right, generic-UNP space, dividing it further; a storm in a teacup.
+
+Sajith’s SJB no longer seizes the public imagination as in 2020-2022. Anura’s NPP does.
+
+If Sajith doesn’t run as President Ranasinghe Premadasa’s son who will resume his interrupted journey, reactivate his project and complete his development revolution, what comparative advantage does he bring to the contest? His ‘A-Team’, the Economic Council of no development achievement, and without an internationally published book, book chapter, or scholarly periodical essay between them?
+
+Ranil’s economic argument behind the potentially disastrous Red Sea deployment is that our bread is buttered on the side of identification/alignment with the West.
+
+Eran Wickramaratne holds that our markets lie in the West, therefore so too should our strategic and foreign policy orientation.
+
+This pathetic proposition was disproved by the most successful developmental president and export-oriented industrialiser we had, Ranasinghe Premadasa, who understood that a country’s core national interests and consequent foreign policy orientation derived from axiomatic geopolitical realities and long-range guiding principles located at a more fundamental level than the ephemerally economic.
+
+“…Mr. Premadasa was also a courageous leader who did not bend in two to appease the US. When the 1991 UN General Assembly resolution 46/86 was sponsored by the US to nullify the 1975 resolution 3379, which rightly equated Zionism with racism, Washington sought Sri Lanka’s support. The then-US ambassador conveyed to Mr. Premadasa that President George H.W. Bush would like to speak to him. Mr. Premadasa, sources privy to the incident say, told the ambassador to tell his president not to waste his time. Referring to Sri Lanka’s Muslims, Mr. Premadasa said he had a responsibility to a section of his constituency whose aspirations he was duty-bound to fulfil.
+
+This was at a time when Mr. Premadasa depended on US quotas for his ambitious 200-garment factory programme.
+
+On Mr. Premadasa’s instructions, Sri Lanka voted against the US-sponsored resolution, becoming the only non-Islamic and non-communist nation to do so…
+
+…Mr. Wickremesinghe was a prominent member of Mr. Premadasa’s cabinet. Though he stood by Mr. Premadasa during the impeachment crisis in 1991, he does not seem to have learned the then-president’s foreign policy-making art that incorporated principles and the aspirations of his constituency…”
+
+The McCarthyite anti-socialist, anti-Marxist hysteria, and worship of finance and the market in SJB discourse are in stark contradistinction to the observations of Pope Francis on Marxists and markets earlier this month:
+
+‘Pope Francis this week called for cooperation between Christians and Marxists as a way to achieve greater “dialogue” and help in the search for the “common good.”
+
+“I thank you for your commitment to dialogue,” the pope said in a private meeting on Jan. 10 with 15 representatives of DIALOP (Transversal Dialogue Project), an association of European leftist politicians and academics that seeks to bridge Catholic social teaching and Marxist theory.
+
+…Highlighting the nexus between social, economic, and ecological issues, the pope said that “politics that is truly at the service of humanity cannot let itself be dictated to by finance and market mechanisms.”
+
+The pope buttressed his call for a more inclusive participation in economic and political decision-making by suggesting that “instead of rigid approaches that divide, let us cultivate, with open hearts, discussion and listening.”
+
+“And not exclude anyone at the political, social, or religious level, so that the contribution of each can, in its concrete distinctiveness, receive a positive reception in the processes of change to which our future is linked,” the Holy Father added.
+
+“Don’t back off, don’t give up, and don’t stop dreaming of a better world. For it is in imagination, the ability to dream, that intelligence, intuition, experience, and historical memory come together to make us be creative, take chances, and run risks.”
+
+The pope argued that “solidarity is not only a moral virtue but also a requirement of justice, which calls for correcting the distortions and purifying the intentions of unjust systems, not least through radical changes of perspective in the sharing of challenges and resources among individuals and among peoples.”‘
+
+(Pope Francis calls for greater dialogue and cooperation between Christians, Marxists | Catholic News Agency)
+
+Ranasinghe Premadasa had no antipathy to Marxism/Marxists. He shared their ends—social transformation to ensure social and economic justice-- but questioned their means. An intensely inquiring explorer of ideas, Premadasa dialogued with Marxists and revolutionaries; engaged seriously with the socialist experiment and experience (he visited the USSR and Mao’s China in 1957 and published a booklet); disagreed with several postulates and agreed with others; and absorbed whatever he thought useful for social and global critique and change, into his syncretic worldview and eclectic policy synthesis.
+
+Confronted with the impeachment conspiracy by Lalith Athulathmudali, Gamini Dissanayake and the UNP Establishment, President Premadasa’s reflexive (bilingual) public response – echoed by Sirisena Cooray—was: “Mayka Panthi Aragalayak!” “This is a class struggle!”
+
+Premadasa was always clear on which side of that struggle, that ‘Aragalaya’, he stood.
+
+We’ve watched 100 days plus of genocide. The most moving presentation of the genocide case against Israel at the ICJ in The Hague was by Blinne Ní Ghrálaigh KC, the Irish barrister on South Africa’s Avengers-style superhero legal team. (https://www.youtube.com/watch?v=yhsWyBWGoCU)
+
+The most important and memorable speech was by Adila Hassim, SC, the phenomenal young lawyer who laid the foundation for South Africa’s case. She said with quiet emphasis that “over 200 times, bombs of 2,000 pounds each have been dropped by Israel in zones in Gaza they designated as safe”. (https://www.youtube.com/watch?v=sKYOwlmuFLg)
+
+Those bunker-buster bombs were sold to Israel by the USA. No conditions were imposed on their use. No sanctions were imposed for bombing hundreds of children each day. Blinken twice authorised high-explosive munitions for Israel, bypassing the US Congress. By contrast, the US-UK bombed Yemen because the Houthi rebels launched attacks on Israel-linked Red Sea shipping in protest against genocide in Gaza.
+
+The rules of the ‘rules-based international order’ propagated and dominated by the West are that if you are an ally and you pound civilians, mainly women and children, from the air so they are blown to pieces or die broken and suffocating under rubble or are maimed for life, you are given more bombs, sent air-craft carriers to attack neighbours who may take exception to the carnage, and furnished diplomatic cover to forestall a ceasefire call. But if you threaten commerce and profit even by non-lethal attacks, your country is bombed.
+
+The US claim to fight for the right of ‘free-flow of commerce’ is a hypocritical lie, as proved by its trade embargo of Cuba of over 6 decades.
+
+The US and UK deployed battleships in the region to prevent Israel’s Gaza war from drawing in other regional actors. The aim was containment, but with their bombing, they are engaged in conflict escalation and probable proliferation.
+
+There could be US-UK land operations in Yemen, inserting SEALS and SAS? America was forced to withdraw from Afghanistan by the Taliban. Britain was defeated decades back in guerrilla war in Aden, Yemen.
 
 ### President Ranil briefs Indian CEOs on Sri Lanka’s economic outlook
 
@@ -1779,23 +1905,3 @@ Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17
 சுகாதார அமைச்சர் ரமேஷ் பத்திரணவுக்கும் நிதி இராஜாங்க செகான் சேமசிங்கவுக்கும் இடையில் நேற்று செவ்வாய்க்கிழமை (16) இடம்பெற்ற கலந்துரையாடலில் எதிர்பார்த்த தீர்வு கிடைக்காத காரணத்தினால் இன்றையதினம் அரச தாதியர்கள் போராட்டத்தில் ஈடுபட தீர்மானம் எடுக்கப்பட்டதாக அந்த சங்கத்தின் தேசிய அமைப்பாளர் சுதத் ஜயசிறி தெரிவித்தார்.
 
 இதேவேளை, ஒரு வாரத்திற்குள் கோரிக்கைகளுக்கு தீர்வு வழங்கப்படாவிடின் தொழிற்சங்க நடவடிக்கை மீண்டும் முன்னெடுக்கப்படும் என பொது சுகாதார பரிசோதகர்கள் சங்கத்தின் தலைவர் உபுல் ரோஹன தெரிவித்தார்.
-
-### දඹුල්ලේ එළවළු මිට ඕසෙට නගියි - වෙළඳුන්ගේ සියයට 75ක අඩුවක්
-
-*2024-01-17 09:47:44 - [adalk](https://www.ada.lk/breaking_news/දඹුල්ලේ-එළවළු-මිට-ඕසෙට-නගියි---වෙළඳුන්ගේ-සියයට-75ක-අඩුවක්/11-407590)*
-
-දඹුල්ල ආර්ථික මධ්‍යස්ථානය තුළින් 17 දිනද එළවළු මිල  විශල වශයෙන්  ඉහළ ගියද එළවළු මිලදී ගැනීම සඳහා වෙළෙන්දන්ගේ පැමිණීම සියයට 75 කින් පමණ අඩුවී තිබෙන බව වෙළෙන්දෝ පවසති.
-
-කන්ද උඩරට ප්‍රදේශවලින් ලැබී තිබුණු කැරට්, ලීක්ස් ,බීට්, බොන්චි , මාළු මිරිස් ,ආදී එළවළු වල මිල පෙර දිනට සාපේක්ෂව තවදුරටත් ඉහළ ගොස් පවතින බව වෙළෙන්දෝ පෙන්වා දෙති.
-
-පෙර දිනට වඩා එළවළු ලැබීමද විශාල වශයෙන් අඩුවී තිබෙන අතර කන්ද උඩරට ප්‍රදේශවලින් ලැබී තිබුණු  ඉහල ගුනාත්මක වර්ගයේ කැරට් කිලෝවක් රුපියල්දා  1700 ත්  2500 දක්වා වූ මිල ගණන් යටතේ අලෙවි වූ බවත් ඉතාමත්ම පහත මට්ටමේ ඇති කුඩා  කැරට්  කිලොව  රුපියල් 600 ක මිලකට අලෙවි වීම විශේෂත්වයක් බව වෙළෙන්දෝ පෙන්වා දෙති.
-
-දඹුල්ල ආර්ථික මධ්‍යස්ථානය තුළ පෙර දින පැවති පහත රට එළවළු වම්බටු, මෑකරල් ,වට්ටක්කා ,පිපිඤ්ඤා ,කැකිරි, ආදී එළවළු වර්ග මිලදී සියට හතළිහකින් පමණ මෙදින ඉහළ ගොස් තිබුණු අතර එම එළවළු තොග ද ලැබීම විශාල වශයෙන් අඩුවී තිබෙන බව ජනතාව පෙන්වා දෙන ලදී.
-
-ආර්ථික මධ්‍යස්ථානය තුළ  කැරට් කිලෝව රුපියල් 1700 ත් 2500ත්  බෝංචි රුපියල් 600 සිටි 1200 දක්වා වූ මිල ගණන් යටතේ අලෙවි වූ අතර අම්මු ම්රිස් කිලෝ එක රුපියල් නවසීයේ සිට දහස දක්වාත් තක්කාලි කිලෝව රුපියල් 250 සිට 300 දක්වාත් වට්ටක්කා කිලෝව රුපියල් සියයත්  115  අතරත් මා කරල් කිලෝව රුපියල් 250  ත් 300  අතර මිලකට අලෙවි වීම විශේෂත්වයකි.
-
-එළවළු හිගය  නිසා  සැපයුම අඩුවීම නිසාත් පැයන් පැය මොහොතින් මොහොත  පවතින එළවළුවල මිල ඉහළ යෑම මෙහිදී විශේෂත්වයක් බව වෙළෙන්දෝ පෙන්වා දෙන්නට වූහ.
-
-අතම් වෙළෙන්දන් කියා සිටියේ දඹුල්ල ආර්ථික මධ්‍යස්ථානයට සේවයට පැමිණ   දශක දෙකක පමණ කාලයක් ගත වුවද මෙවැනි එළවළු මිල ඉහළ යෑමක් දැක නොමැති බවය.
-
-කෙසේ වෙතත් බොහෝ එළවලු මිලදී ගැනීම සඳහා පැමිණි ව්‍යාපාරිකයන් කියා සිටියේ වෙනදා මෙන් එළවළු මිලදී ගැනීමට නොයන බවය  එළවළු  ගන්න පාරිභෝගික ජනතාව ද ඉතා සීමිත ප්‍රමාණයක් මිලදී ගැනීම සිදුකරන බවද ඔවුහු පැවසූහ.

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 15:27:48**
+As of **2024-01-17 16:28:01**
 
 ## Newspaper Stats
 
@@ -14,11 +14,11 @@ As of **2024-01-17 15:27:48**
 
 * islandlk: 49
 
-* economynextcom: 58
+* economynextcom: 60
 
-* tamilmirrorlk: 75
+* adaderanalk: 87
 
-* adaderanalk: 86
+* tamilmirrorlk: 87
 
 * dailyftlk: 106
 
@@ -26,9 +26,91 @@ As of **2024-01-17 15:27:48**
 
 * adalk: 121
 
-* **Total**: **747**
+* **Total**: **762**
 
 ## Latest Articles (100)
+
+### JVP’s Wasantha Samarasinghe files FR petition against Anti-Terrorism Bill
+
+*2024-01-17 16:07:00 - [adaderanalk](https://www.adaderana.lk/news/96483/jvps-wasantha-samarasinghe-files-fr-petition-against-anti-terrorism-bill)*
+
+President of the Inter-Company Employees’ Union Wasantha Samarasinghe has filed a Fundamental Rights (FR) petition before the Supreme Court, seeking a court order declaring that certain provisions of the Ant-Terrorism Bill are unconstitutional.
+
+Naming the Attorney General as the respondent in his petition, the Janatha Vimukthi Peramuna (JVP) politburo member claimed that the Bill, presented to the Parliament by Justice Minister Wijeyadasa Rajapakshe, allowed for the unwarranted arrest and detention of persons by the Sri Lanka Police, Army and the Coast Guard, even in the absence of a reasonable cause.
+
+He explained that this violated numerous constitutional fundamental rights, such as the right to freedom of expression and the right to freedom.
+
+Samarasinghe therefore states that if the proposed Bill were to be passed, it must be approved by a two-thirds majority in Parliament, followed by a referendum.
+
+The proposed Anti-Terrorism Bill, which will replace the current Prevention of Terrorism Act (PTA) was presented before the Parliament on 10 January, by Justice Minister Rajapakshe.
+
+On 05 September 2023, the Cabinet of Ministers granted approval to publish the Anti-Terrorism Bill, which was revised in accordance with the suggestions and opinions received by different parties in the government gazette, and to table the bill in parliament for passing.
+
+Although the original draft bill had been published in the government gazette on 22 March 2023, it was later revised and re-drafted in consideration of all the opinions and suggestions received by the Ministry of Justice by various interested parties in this regard both locally and internationally.
+
+### Sri Lanka cinnamon farmers GI-certified with IFC support
+
+*2024-01-17 16:00:00 - [economynextcom](https://economynext.com/sri-lanka-cinnamon-farmers-gi-certified-with-ifc-support-147598/)*
+
+ECONOMYNEXT – Sri Lanka is implementing geographical indication (GI) for cinnamon, where the country has a 90 percent market share, with 45 farmers and processors being formally recognized in a initiative supported by Washington-based International Finance Corporation, the agency said.
+
+Sri Lanka cinnamon obtained GI certification in 2022 with support from the UN Industrial Development Organization (UNIDO). The certification provides a competitive advantage, helping increase market differentiation, and allowing for a premium price from the consumer.
+
+“To better position and promote high quality exports of Ceylon Cinnamon, the IFC … recognized the first batch of Geographical Indication (GI) certified Ceylon Cinnamon growers in the country,” the IFC said in a statement. (Press Release – Ceylon Cinnamon GI Event)
+
+“We want to better position this unique spice for the authentic, quality it brings by reaching across high-value global markets,” said Alejandro Alvarez de la Campa, Country Manager for IFC Sri Lanka and Maldives.
+
+As part of the project, market research provider Euromonitor International carried out an assessment to identify high-value markets for Ceylon Cinnamon. Australia, Brazil, Germany, UK and the USA were identified as potential markets.
+
+The initiative was supported by the European Union (EU), the Sri Lanka Standards Institution, the Industrial Technology Institute and the Department of Cinnamon Development. (Colombo/Jan17/20204)
+
+### ரஷ்யாவால் சூரியகாந்தி எண்ணெய் நன்கொடை
+
+*2024-01-17 15:32:56 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ரஷ்யாவால்-சூரியகாந்தி-எண்ணெய்-நன்கொடை/175-331669)*
+
+ரஷ்ய அரசாங்கத்துக்கும் இலங்கைக்கும் இடையிலான தொடர்ச்சியான ஒத்துழைப்பை பிரதிபலிக்கும் வகையில், ஐக்கிய நாடுகளின் உலக உணவுத் திட்டத்தின் மூலம் ரஷ்யாவிலிருந்து இலங்கைக்கு 1.5 மில்லியன் அமெரிக்க டொலர் பெறுமதியான சூரியகாந்தி எண்ணெய் நன்கொடையாக வழங்கப்பட்டுள்ளது.
+
+கொழும்பில் உள்ள உலக உணவுத் திட்ட ஒத்துழைப்புத் தரப்பு செயலக வளாகத்தில் செவ்வாய்க்கிழமை (16) இலங்கை அரசாங்கத்திடம் நன்கொடை உத்தியோகபூர்வமாக கையளிக்கப்பட்டது.
+
+2023 டிசம்பர் 30 ஆம் திகதி 117.3 மெட்ரிக் டொன் சூரியகாந்தி எண்ணெயும், 2024 ஜனவரி 04 ஆம் திகதி 13.1 மெட்ரிக் டொன் எண்ணெயும் ரஷ்ய அரசாங்கத்தால் இலங்கைக்கு வழங்கப்பட்டது, மேலும் மொத்த நன்கொடையான 130.41 மெட்ரிக் டொன் எண்ணெய் இலங்கை அரசாங்கத்துக்கு உத்தியோகபூர்வமாக கையளிக்கப்பட்டது.
+
+இதேவேளை, இந்த வேலைத்திட்டத்தின் முதற்கட்டமாக 351.9 மெற்றிக் டொன் சூரியகாந்தி எண்ணெய் ரஷ்ய அரசாங்கத்திடம் இருந்து 2023 ஆம் ஆண்டு ஜூலை மாதம் 04 ஆம் திகதி இலங்கைக்கு வழங்கப்பட்டது.
+
+அவசர பதிலளிப்பு திட்டத்தின் கீழ் இந்த நன்கொடை வழங்கப்பட்டுள்ளதோடு நாடு முழுவதும் உள்ள குறைந்த வருமானம் மற்றும் பாதிக்கப்படக்கூடிய குடும்பங்களுக்கு நேரடியாக இது சென்றடையும். குறிப்பாக மட்டக்களப்பு, நுவரெலியா மற்றும் திருகோணமலை மாவட்டங்களில் உள்ள 8,625 குடும்பங்கள் இதன் மூலம் பயனடைவார்கள்.
+
+இலங்கையில் பொருளாதார சவால்களை எதிர்நோக்கும் மக்களின் அவசரத் தேவைகளை உணர்ந்து அவற்றிற்கு விரைவாகப் பதிலளிப்பதற்கான இந்த கூட்டு முயற்சியானது ரஷ்ய அரசாங்கத்துக்கும் இலங்கைக்கும் இடையிலான சர்வதேச உறவில் மிக முக்கியமான மைல்கல்லைக் குறிக்கிறது.
+
+மேலும், இலங்கைக்கான ரஷ்ய தூதுவர் லெவன் எஸ். தகயரான், உலக உணவுத் திட்டத்தின் இந்நாட்டுப் பணிப்பாளர் ஜெரார்ட் ரெபெலோ உள்ளிட்ட அதன் அதிகாரிகள் மற்றும் ஜனாதிபதியின் மேலதிக செயலாளர் வெர்னான் பெரேரா, வெளிவிவகார அமைச்சின் மேலதிக செயலாளர் அமீர் அஜ்வாட், கொழும்பு உலக உணவுத் திட்ட ஒத்துழைப்புத் தரப்பு செயலகத்தின் பணிப்பாளர் நாயகம். எம்.எச்.ஏ.எம். ரிப்லான் உள்ளிட்டோர் இந்நிகழ்வில் கலந்துகொண்டனர்.
+
+### Sri Lanka EDB signs World Fair Trade Network cooperation framework
+
+*2024-01-17 15:30:00 - [economynextcom](https://economynext.com/sri-lanka-edb-signs-world-fair-trade-network-cooperation-framework-147584/)*
+
+ECONOMYNEXT – Sri Lanka’s Export Development Board has signed a Framework of Cooperation (FOC) with international fair trade network to strengthen ties between the Network and export related institutions in Sri Lanka.
+
+The framework aims to promote the development, diversification and wider market access of fair trade products from Sri Lanka to the global market, the EDB said in a statement.
+
+“The collaborative framework outlines multiple objectives and related activities that will be further developed into comprehensive action plans in collaboration with supporting institutions in the near future.”
+
+Cooperating organisations partnered in the Global Market Network include the Fair Trade Advocacy Office (FTAO), Fair Trade Network of Asia and Pacific Producers (Fairtrade NAPP), Fair Trade NAPP-Sri Lanka (FNSL), and World Fair Trade Organization-Asia (WFTO-Asia).
+
+The fair trade standards are said to empower farming and labour communities by addressing power imbalances in trade relationships, volatile markets and inequities in traditional trade. The approach is meant to contribute to increasing foreign exchange earnings for the countries and socio-economic development of farmers and workers across countries. (Colombo/Jan17/2024)
+
+### கொத்து சாப்பிட்ட பெண் நிரந்தர உறக்கம்
+
+*2024-01-17 15:08:07 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கொத்து-சாப்பிட்ட-பெண்-நிரந்தர-உறக்கம்/175-331666)*
+
+இரவு கொத்து சாப்பிட்டு தூங்கிய பெண்ணொருவர்  காலையில் உயிரிழந்த நிலையில் சடலமாக  மீட்கப்பட்டுள்ளதாக அங்குருவாதொட்ட பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஹொரண, வல்பிட்ட,  பின்னகொலஹேன பிரதேசத்தை சேர்நத திலினி மதுஷிகா என்ற ( 33 வயதுடைய )  மூன்று பிள்ளைகளின் தாயே இவ்வாறு உயிரிழந்துள்ளார்.
+
+சுமார் மூன்று வருடங்களாக அவரது உடல் பருமன் அதிகரித்து , நீரிழிவு மற்றும் உயர் இரத்த அழுத்தத்தால் பாதிக்கப்பட்டிருந்ததாகவும் தூங்கும் போது ஆக்சிஜன் வழங்கும் இயந்திரத்தை பயன்படுத்துமாறு  வைத்தியர்கள் அறிவுறுத்தியுள்ளதாகவும் தெரியவந்துள்ளது.
+
+இந் நிலையில் கடந்த  ஞாயிற்றுக்கிழமை (14) இரவு தனது கணவருடன் வெளியே சென்று கொத்து சாப்பிட்டு விட்டு வீட்டுக்கு வந்து வழக்கம் போல் ஆக்சிஜன் வழங்கும் இயந்திரத்தை அணிந்து தூங்கியுள்ளார்.
+
+மறுநாள் அதிகாலை அப்பெண் எழுந்திருக்காத நிலையில்  குறித்த பெண்ணின் கணவர் பெண்ணை  ஹொரணை மாவட்ட பொது வைத்தியசாலைக்கு கொண்டுசென்ற போது  அவர்  உயிரிழந்துள்ளமை ​ தெரியவந்துள்ளது.
+
+மேலும் ஹொரணை ஆதார வைத்தியசாலையில் நடத்தப்பட்ட பிரேத பரிசோதனையின் அடிப்படையில் , உடல் பருமன் காரணமாக நுரையீரல் செயல்பாடு தடைப்பட்டு, ஆக்ஸிஜன் பற்றாக்குறையால் சுவாசிப்பதில் சிரமம் ஏற்பட்டு குறித்த பெண் உயிரிழந்துள்ளதாக ஹொரண மரண விசாரணை நீதவான் சுமேதா குணவர்தன தெரிவித்துள்ளார்.
 
 ### Sri Lanka manufacturing, services expand in Dec in festive demand: PMI
 
@@ -90,6 +172,18 @@ Embracing that valuable lesson, the Deputy Ambassador has risen to the position 
 
 The event was attended by State Minister Arundika Fernando, Member of Parliament Dr. Kavinda Jayawardene, Chinese Deputy Ambassador to Sri Lanka YANWAI ZHU, officials from the Ministry of Education, Principals, teaching staff, parents and a group of students.
 
+### ஸ்ரீலங்கன் ஏர்லைன்ஸுக்கு மற்றுமொரு புதிய விமானம்
+
+*2024-01-17 14:11:41 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீலங்கன்-ஏர்லைன்ஸுக்கு-மற்றுமொரு-புதிய-விமானம்/175-331660)*
+
+ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனம் தனது விமானப் பிரிவினருக்காக மற்றுமொரு புத்தம் புதிய           A-330 -243 எயார்பஸ் ரக விமானத்தை குத்தகை அடிப்படையில் பெற்று கட்டுநாயக்க விமான நிலையத்திற்கு கொண்டு வந்துள்ளதாக ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவன தொடர்பாடல் பிரிவின் தலைவர் தீபால் பெரேரா தெரிவித்தார்.
+
+பிரான்சில் தயாரிக்கப்பட்ட குறித்த புதிய விமானம் செவ்வாய்க்கிழமை (16) பிற்பகல் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்ததுடன், ஸ்ரீலங்கன் விமான சேவைக்கு சொந்தமான விமானங்களின் எண்ணிக்கை 23 ஆக அதிகரித்துள்ளது.
+
+இந்த விமானத்தில் 22 வணிக வகுப்பு இருக்கைகள் மற்றும் 240 எகானமி வகுப்பு இருக்கைகள் உள்ளதாகவும், இரண்டு என்ஜின்கள் மூலம் இயக்கப்படுவதாகவும் தெரிவிக்கப்பட்டுள்ளது.
+
+இந்த புதிய விமானத்தின் வருகையானது ஸ்ரீலங்கன் எயார்லைன்ஸ் எதிர்நோக்கும் விமான தாமதங்கள் மற்றும் இரத்துச் சம்பவங்களுக்கு ஒரு தீர்வாக அமையும் என தெரிவிக்கப்பட்டுள்ளது.
+
 ### Emirates launches global recruitment drive, plans to hire 5,000 cabin crew in 2024
 
 *2024-01-17 14:05:00 - [adaderanalk](https://www.adaderana.lk/news/96479/emirates-launches-global-recruitment-drive-plans-to-hire-5000-cabin-crew-in-2024)*
@@ -105,8 +199,6 @@ To be considered for Emirates cabin crew, candidates need to meet the following 
 • Fluent in written and spoken English (additional languages are an advantage)
 
 • At least 1 year of hospitality or customer service experience
-
-• Emirates’ recruitment team will host open days and assessments in more than 460 cities across six continents.
 
 Emirates’ recruitment team will host open days and assessments in more than 460 cities across six continents.
 
@@ -162,6 +254,8 @@ She emphasized the importance of the IMF Board approving the first review of Sri
 
 Georgieva expressed her positive expectations on ‘X’ (formerly Twitter), stating that the reforms undertaken by Sri Lanka are beginning to yield positive results.
 
+“Very good meeting with Ranil Wickremesinghe at WEF24. IMF Board approval of the First Review of the EFF program in December was a recognition of the important reforms Sri Lanka has pursued. These reforms are starting to pay off,” she tweeted.
+
 Meanwhile, Pakistan’s caretaker Prime Minister Anwaar-ul-Haq Kakar also met with President Wickremesinghe on the sidelines of the Forum.
 
 During the meeting, the two parties discussed numerous matters pertaining to regional affairs, and ways to promote trade between Sri Lanka and Pakistan.
@@ -184,6 +278,22 @@ He pointed out the country’s ongoing and pending FTAs with Singapore, Thailand
 
 Representing the Sri Lankan business community at the event were John Keels Holdings Chairman Krishan Balendra, Commercial Bank CEO/MD Sanath Manatunge, Colombo Stock Exchange Chairman Dilshan Wirasekara, Janashakthi Insurance Deputy Chairman Prakash Schaffter, Sri Lanka Ports Authority Chairman Keith Bernard, Aitken Spence Joint Deputy Chairpersons/MDs Stasshani Jayawardena and Parakrama Dissanayake, Galle Face Group Chairman Sanjeev Gardiner, Sri Lankan Airlines Chairman Ashok Pathirage, People’s Bank Chairman Sujeewa Rajapakse, and ⁠Dialog Axiata CEO Supun Weerasinghe. (Colombo/Jan17/2024)
 
+### கடுவன்களுக்கு கருத்தடை
+
+*2024-01-17 12:52:38 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கடுவன்களுக்கு-கருத்தடை/175-331654)*
+
+மாத்தளை மாவட்டத்தில் குரங்குகளின் எண்ணிக்கை அதிகரித்துள்ள நிலையில், கருத்தடை திட்டத்தை வெகு விரைவில் அமுல்படுத்தவுள்ளதாக பாராளுமன்ற உறுப்பினர் நாலக பண்டார கோட்டேகொட தெரிவித்துள்ளார்.
+
+மாத்தளை மாவட்ட ஒருங்கிணைப்புக் குழு கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+மேலும் அவர், “மாத்தளை மாவட்டத்தில் கடந்த சில காலங்களாக ஆண் குரங்குகள் அதிகமாக பயிர்செய்கைகளுக்கு பாதிப்பை ஏற்படுத்துவதாக தகவல் வெளியாகியுள்ளது.
+
+இது தொடர்பில், குறித்த ஒருங்கிணைப்பு கூட்டத்தில் கவனம் செலுத்தப்பட்டதுடன் விவசாய அமைச்சு இதற்கான நிதி ஒதுக்கீடுகளை செய்துள்ளதாகவும் அவர் சுட்டிக்காட்டினார்.
+
+மேலும், இலங்கையை பொருத்தவரை இதுவே ஆண் குரங்குகளுக்கு முதல்முறையாக கருத்தடை திட்டத்தை முன்னோடி திட்டமாக முன்னெடுக்கப்படுகின்றது. இதனை மேற்கொள்வதற்கு நிதியும் ஒதுக்கப்பட்டுள்ளது.” என தெரிவித்துள்ளார்.
+
+இதேவேளை, பேராதனைப் பல்கலைக்கழக கால்நடை மருத்துவப் பிரிவும் பேராதனை போதனா வைத்தியசாலையும் இணைந்து குரங்குகளின் கர்ப்பத்தைத் தடுப்பதற்காக 'லூப் கருத்தடை' எனப்படும் கருப்பையக சாதனத்தை (IUD) அறிமுகப்படுத்தும் நடவடிக்கையில் ஈடுபட்டுள்ளதாக பேராதனை பல்கலைக்கழக கால்நடை மருத்துவ அறிவியல் துறை பேராசிரியர் அசோக தங்கொல்ல கடந்த வருடம் தெரிவித்திருந்தமையும் குறிப்பிடத்தக்கது.
+
 ### Court order issued against planned IUSF protest in Colombo today
 
 *2024-01-17 12:24:00 - [adaderanalk](https://www.adaderana.lk/news/96474/court-order-issued-against-planned-iusf-protest-in-colombo-today-)*
@@ -193,6 +303,28 @@ The Maligakanda Magistrate’s Court has delivered an order barring the Inter-Un
 Accordingly, university students are barred from entering Deans Road, Kularatna Mawatha, T.B. Jayah Mawatha and several other roads in Colombo and marching in protest while obstructing motorists and pedestrians.
 
 The court order was issued against seven ISUF members including its convenor Madushan Chandrajith and Ven. Galwewa Siridhamma Thero.
+
+### பொது மக்களுக்கு விசேட எச்சரிக்கை
+
+*2024-01-17 12:20:16 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பொது-மக்களுக்கு-விசேட-எச்சரிக்கை/175-331652)*
+
+இலங்கையின் பல பகுதிகளில் காற்றின் தரம் இன்று (17) மோசமடைந்துள்ளதாக மத்திய சுற்றாடல் அதிகாரசபை தெரிவித்துள்ளது.
+
+அதன்படி, இன்று காலை 09.30 மணி நிலவரப்படி கொழும்பு, காலி, குருநாகல் மற்றும் கம்பஹா ஆகிய பகுதிகளில் காற்றின் தரம் ஆரோக்கியமற்றதாக பதிவாகியுள்ளது.
+
+அனுராதபுரம், கண்டி, நீர்கொழும்பு, மிரிஹான மற்றும் பண்டாரவளை பகுதிகளில் உள்ள உணர்திறன் கொண்ட குழுக்களுக்கு காற்றின் தரம் ஆரோக்கியமற்றதாக பதிவு செய்யப்பட்டுள்ளது.
+
+### ”ஒன்லைன் பாதுகாப்பு சட்டத்தை நாங்கள் ரத்து செய்வோம்”
+
+*2024-01-17 12:12:31 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்பு-சட்டத்தை-நாங்கள்-ரத்து-செய்வோம்/175-331651)*
+
+"உண்மையான நிகழ்நிலை பாதுகாப்பிற்கு நாங்கள் கடமைப்பட்டுள்ளோம். எனவே சிறுவர் ஆபாச மற்றும் பிற தீவிரமான ஒன்லைன் குற்றங்கள் போன்ற பிரச்சனைகளை முக்கிய தளங்களின் ஒத்துழைப்புடன் நாங்கள் அறிமுகப்படுத்துவோம்.
+
+இது இலங்கை சமூகத்தின் நல்வாழ்வுக்கு முக்கியமானது. அவசர முடிவுகளை விட பயனுள்ள தீர்வுகளுக்கு முன்னுரிமை அளிப்போம்.” என்று ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா கூறினார்.
+
+"ஒன்லைன் பாதுகாப்பு சட்டமூலத்தை அமல்படுத்துவதற்கான அரசாங்கத்தின் நடவடிக்கையை நாங்கள் கடுமையாக எதிர்க்கிறோம். நிறைவேற்றப்பட்டால், எதிர்கால SJB தலைமையிலான அரசாங்கம் இந்த சர்ச்சைக்குரிய சட்டமூலத்தை விரைவில் ரத்து செய்யும் என்று நான் உறுதியளிக்கிறேன்.
+
+மேட்டா, கூகுள் மற்றும் யூடியூப் போன்ற முக்கிய தளங்களுடனான எங்கள் உறவுகளை நாங்கள் பாதிக்க மாட்டோம். அவை பொருளாதார வளர்ச்சிக்கு மிக அவசியமானவை" என அவர் தனது சமீபத்திய ட்விட்டர் பதிவில் தெரிவித்துள்ளார்.
 
 ### Sri Lanka discusses economic ties, EDR with India envoy
 
@@ -258,6 +390,28 @@ The drop in population is expected to be less this year, because of the waning e
 
 But Yuan Xin, a professor at Nankai University and vice-president of the China Population Association, added that “the downward trend in China’s total population is bound to be long-term and become an inherent characteristic.”
 
+### உச்சம் தொட்ட காய்கறி விலைகள்
+
+*2024-01-17 11:31:24 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/உச்சம்-தொட்ட-காய்கறி-விலைகள்/175-331647)*
+
+பண்டிகைக் காலத்தின் பின்னர் மரக்கறிகளின் விலை குறைவடையும் என முன்னறிவிக்கப்பட்ட போதிலும், உண்மையில் விலைகள் இன்னும் உயர்வாகவே காணப்படுகின்றன. பெரும்பாலான காய்கறி வகைகளின் விலை இப்போது ஒரு கிலோகிராம்  ரூ.1,000ஆக இருப்பதுடன், கரட் மற்றும் பீன்ஸ் அதிகபட்ச அளவை எட்டி கிலோ ரூ.1,200 ஆக பதிவாகியுள்ளது.
+
+நேற்றைய தினம், நாட்டில் அதிக விலையில் பதிவு செய்யப்பட்ட காய்கறி விலையாக பேலியகொடையில் உள்ள புதிய மெனிங் சந்தையில் ஒரு கிலோ கரட் ரூ. 1,400 ஆக பதிவாகியது.
+
+அதிகரித்து வரும் விலைகள் காய்கறி நுகர்வு குறைவதற்கு வழிவகுத்துள்ளது, பல நுகர்வோர் இந்த விலையில் அவற்றை கொள்வனவு செய்வதற்கான இயலாமையை வெளிப்படுத்துகின்றனர்.
+
+ஏறக்குறைய அனைத்து காய்கறி வகைகளின் விலைகளும் அதிகரித்து, நிதி சவால்களை உருவாக்குவதாக மக்கள் தெரிவிக்கின்றனர்.
+
+தற்போதைய சந்தை விலையில் பீன்ஸ் விலை ரூ. கிலோ 1,000. ஆனால், மற்ற காய்கறிகளின் விலையில் ஏற்ற இறக்கம் ஏற்பட்டு, பச்சை மிளகாய், தக்காளி போன்றவை முறையே கிலோ ரூ. 800 மற்றும் ரூ.350 ஆக குறைந்துள்ளது.மறுபுறம், எலுமிச்சை விலை கிலோ 500 ரூபாய் வரை அதிகரித்துள்ளது.
+
+இதற்கிடையில், நாடு முழுவதும் உள்ள  சுற்றுலா விடுதிகள் மற்றும் விருந்தினர் விடுதிகளை நடத்தும் வணிக சமூகம், காய்கறிகளின் விலை உயர்வு தொழில்துறையை பாதித்துள்ளமை குறித்து கவலை தெரிவித்தனர்.
+
+நுவரெலியா பொருளாதார மத்திய நிலையத்தின் வியாபாரிகள், மரக்கறிகளின் விலைகள் விண்ணை முட்டும் அளவிற்கு உயர்ந்துள்ளதாகவும், இதனால் கொள்வனவுகளில் பாரிய வீழ்ச்சி ஏற்பட்டுள்ளதாகவும் தெரிவித்தனர்.
+
+கரட் கிலோ ரூ.2000, முட்டைகோஸ் ரூ.680, வெண்டைக்காய் ரூ.680 என விலை போனதை சுட்டிக்காட்டினர்.
+
+சில்லறை சந்தையில் இதுவரை இல்லாத வகையில் விலையேற்றம் ஏற்பட்டுள்ளதாகவும், கிடைக்கும் காய்கறிகள் தரமற்றதாக இருப்பதாகவும் அவர்கள் சுட்டிக்காட்டினர்.
+
 ### Special notice on commencement of second phase of third school term
 
 *2024-01-17 11:24:00 - [adaderanalk](https://www.adaderana.lk/news/96471/special-notice-on-commencement-of-second-phase-of-third-school-term)*
@@ -266,9 +420,15 @@ The Education Ministry has announced the dates to commence the second phase of t
 
 Accordingly, the second phase of the third school term is scheduled to begin on February 05 (Monday).
 
-It was initially supposed to begin on February 01. However, after Paper I and Paper II of the 2023 Advanced Level examination’s Agricultural Science subject was annulled and a new date was announced for the test, the commencement of the second phase of the third term has been pushed back.
+However, commencement of the second phase of the third term has been pushed back after Paper I and Paper II of the 2023 Advanced Level examination’s Agricultural Science subject was annulled and a new date was set for the test.
 
 The Examinations Department said the new exam date and time would be as follows:
+
+Time: Paper II (from 08:30 a.m. to 11:40 a.m.) / Paper I (from 01:00 p.m. to 03:00 p.m.)
+
+On January 12, the Examinations Department decided to cancel the A/L exam’s Agricultural Science I & II question papers, due to reports that several questions of the paper had been leaked prior to the exam.
+
+Two days later, the Agricultural Science teacher, 52, of a popular government school in Ampara was arrested by the Criminal Investigation Department (CID) in connection with the incident. Subsequently, a 38-year-old man who had served as the peon of the chief of the exam centre at the Moratuwa Maha Vidyalaya was also arrested over his suspected complicity.
 
 ### Sri Lanka rupee opens stronger at 321.20/40 to the US dollar
 
@@ -283,6 +443,18 @@ A bond maturing on 01.02.2026, was quoted stable at 13.70/75 percent.
 A bond maturing on 15.03.2028 was quoted at 14.15/14.25 percent from 14.15/20 percent.
 
 The Colombo Stock Exchange was trading down, with All Share Price Index down 0.14 percent at 10,531, and the S&P SL20 down 0.34 percent at 2,988. (Colombo/Jan17/2024)
+
+### ஓட்டோக்களுக்கு QR  அறிமுகம்
+
+*2024-01-17 11:16:21 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஓட்டோக்களுக்கு-QR-அறிமுகம்/175-331645)*
+
+தற்போது முச்சக்கரவண்டி சாரதிகளாக கடமையாற்றும் அனைவரினதும் பதிவு மற்றும் தரவு முறைமை தொடர்பில் QR குறியீட்டை அறிமுகப்படுத்தும் யோசனையை கருத்தில் கொண்டு மிகக் குறுகிய காலத்திற்குள் புதிய குறியீட்டை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்படும் என தொழிலாளர் அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
+
+முச்சக்கரவண்டி சாரதிகளுக்கான தொழில்சார் சபைகளை ஸ்தாபிக்கும் நடவடிக்கையின் முதற்கட்டமாக செவ்வாய்க்கிழமை (16) இடைக்கால துறைசார் வழிகாட்டல் குழு ஸ்தாபன நிகழ்வில் கலந்து கொண்ட போதே அமைச்சர் இந்த கருத்துக்களை வெளியிட்டார்.
+
+மேலும், முச்சக்கர வண்டி சாரதிகளுக்காக ஸ்தாபிக்கப்பட்ட நிபுணத்துவ அமைப்பினால் முச்சக்கர வண்டி சாரதிகள் இணையத்தின் ஊடாக பயணங்களை மேற்கொள்ளும் முறைமையொன்றை தயாரிப்பது குறித்தும் இங்கு கலந்துரையாடப்பட்டுள்ளது.
+
+இலங்கையில் முறைசாரா துறையில் பணிபுரியும் அனைவருக்கும் தொழில் கௌரவத்தையும் பெருமையையும் வழங்கும் வகையில் ஆரம்பிக்கப்பட்ட “கரு சாரு” திட்டத்தின் கீழ் இந்த வழிநடத்தல் குழு உருவாக்கப்பட்டுள்ளது. தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தலைமையில் இந்தக் குழு அமைக்ப்பட்டமை குறிப்பிடத்தக்கது.
 
 ### Sri Lanka Receives 117 Tonnes of Sunflower Oil
 
@@ -312,6 +484,14 @@ MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a mi
 
 මියගිය භාරත ලක්ෂ්මන් ප්‍රේමචන්ද්‍ර මහතාගේ බිරිඳ වන සුමනා ප්‍රේමචන්ද්‍ර, දියණිය හිරුණිකා ප්‍රේමචන්ද්‍ර සහ ශ්‍රී ලංකා මානව හිමිකම් කොමිසමේ හිටපු කොමසාරිස්වරයෙකු වන නීතිඥ ගසාලි හුසේන් යන අය විසින් ඉදිරිපත් කළ පෙත්සම්, විභාග කිරීමෙන් අනතුරුව ගාමිණී අමරසේකර සහ අර්ජුන ඔබේසේකර යන විනිසුරුවරුන්ගේ එකඟත්වය ඇතිව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පද්මන් සුරසේන මහතා විසින් මෙම තීන්දුව ලබා දුන්නේය.
 
+### மூன்றாம் தவணை ஆரம்பமாகும் திகதி மாற்றம்
+
+*2024-01-17 11:07:20 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-ஆரம்பமாகும்-திகதி-மாற்றம்/175-331643)*
+
+அரசு மற்றும் அரசு அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளில் அடுத்த பாடசாலை தவணை பெப்ரவரி 5ம் திகதி ஆரம்பமாகும் என கல்வி அமைச்சு  அறிவித்துள்ளது.
+
+புதிய பாடசாலை தவணை பெப்ரவரி 2 ஆம் திகதி ஆரம்பமாகுமென கல்வி அமைச்சு, முன்னதாக முடிவு செய்திருந்தமை குறிப்பிடத்தக்கது.
+
 ### P R A S Gunawardana designated new Sri Lanka envoy to Maldives
 
 *2024-01-17 11:07:00 - [economynextcom](https://economynext.com/p-r-a-s-gunawardana-designated-new-sri-lanka-envoy-to-maldives-147529/)*
@@ -340,6 +520,18 @@ Thus, the Commissioner General of Prisons was instructed by the Supreme Court to
 
 Accordingly, the Supreme Court ordered the Commissioner General of Prisons to take steps to implement the sentence previously imposed on this petitioner.
 
+### பாட்டியுடன் சென்ற சிறுவன் முதலையிடம் சிக்கினான்
+
+*2024-01-17 10:49:38 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பாட்டியுடன்-சென்ற-சிறுவன்-முதலையிடம்-சிக்கினான்/175-331639)*
+
+களனி ஆற்றில் நீராடிக் கொண்டிருந்த ஒன்பது வயது சிறுவனை முதலை இழுத்துச் சென்றுள்ள சம்பவம் செவ்வாய்க்கிழமை (16)  கடுவெல பிரதேசத்தில் பதிவாகியுள்ளது.
+
+கடுவெல , வெலிவிட்ட புனித அந்தோனி வீதியை சேர்ந்த ஒன்பது வயதுடைய  டிஸ்ன  பெரேரா என்ற சிறுவனையே இவ்வாறு  முதலை இழுத்துச் சென்றுள்ளது.
+
+குறித்த சிறுவன் தனது பாட்டியுடன் குளிப்பதற்கு வந்துள்ளதாகவும் பாட்டி துணி துவைக்கும்வரை சிறுவன் நீராடிக் கொண்டிருந்த போது திடீரென முதலை வந்து சிறுவனை கௌவ்விக்கொண்டு போயுள்ளதாகவும் தெரியவந்துள்ளது.
+
+இது தொடர்பில் கடுவெல பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலையடுத்து  சம்பவ இடத்திற்குச் விரைந்த போது சிறுவன் முதலையின் வாயில் சிக்கிக் கொண்டிருப்பதையும்  பலமுறை அந்த முதலை ஆற்றில் மேல் பரப்பிற்கு வந்து சென்றுள்ளதையும் கண்டுள்ளனர்.
+
 ### BREAKING: Supreme Court Declares Duminda Silva Pardon Unlawful
 
 *2024-01-17 10:45:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/breaking-supreme-court-declares-duminda-silva-pardon-unlawful/)*
@@ -363,6 +555,16 @@ Reforms starting to pay off! Kristalina tells Ranil in Davos
 Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
 
 MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+
+### தனியார் வகுப்புகள் குறித்து அமைச்சர் கருத்து
+
+*2024-01-17 10:40:52 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/தனியார்-வகுப்புகள்-குறித்து-அமைச்சர்-கருத்து/175-331637)*
+
+தற்போதைய போட்டிக் கல்வி முறைமையில் அரசாங்கம் பாடசாலைக் கல்விக்காக செலவிடும் தொகையை விட பெற்றோர்கள் 30 சதவீதம் அதிகமாக தனியார் வகுப்புகளுக்காக செலவிட வேண்டியுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+“பொதுவாக ஒரு குழந்தை 20,000 ரூபாயை பிரத்யேக வகுப்பிற்காக செலவழிக்கிறது.நம் நாட்டில் 5.7 மில்லியன் குடும்பங்கள் உள்ளன, பெற்றோர்கள் குறித்த வகுப்புகளுக்காக சுமார் ரூ.121 முதல் ரூ.122 பில்லியன் வரை செலவிடுகிறார்கள்” என தெஹியோவிட்ட பாடசாலையொன்றில் நேற்று இடம்பெற்ற கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போது அவர் தெரிவித்தார்.
+
+2024 ஆம் ஆண்டுக்காக நிதியமைச்சகத்திலிருந்து அரசாங்கம் 546 பில்லியன் ரூபாவை ஒதுக்கியுள்ளது. மொத்தக் கல்விச் செலவீனத்தில் 402 பில்லியன் ரூபா நாட்டிலுள்ள பாடசாலைக் கல்விக்காக ஒதுக்கப்பட்டது. இதில் மக்களின் தனியார் வகுப்பு கல்விச் செலவுகள் சேர்க்கப்படவில்லை. நம் நாட்டில் உள்ள பணவீக்க உயர்வை குறித்து ஆராய குழுவொன்று நியமிக்கப்பட்டுள்ளது," என்று அமைச்சர் கூறினார்.
 
 ### Navy apprehends 18 Indian fishermen poaching in Sri Lankan waters
 
@@ -407,6 +609,26 @@ Reforms starting to pay off! Kristalina tells Ranil in Davos
 Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
 
 MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+
+### செங்கடலில் பதற்றம்; கொழும்பு துறைமுகத்திற்கு கிடைத்த நன்மை
+
+*2024-01-17 10:06:40 - [tamilmirrorlk](https://www.tamilmirror.lk/உலக-செய்திகள்/செங்கடலில்-பதற்றம்-கொழும்பு-துறைமுகத்திற்கு-கிடைத்த-நன்மை/50-331634)*
+
+செங்கடல் வழியாக செல்லும் வணிகக் கப்பல்கள் மீது ஏமன் ஹவுதி கிளர்ச்சியாளர்கள் தாக்குதல் நடத்துவதால், உலகச் சந்தை கடுமையாகப் பாதிக்கப்படும் என எச்சரிக்கைகள் வந்துகொண்டு இருக்கின்றன.
+
+அதாவது, தெற்கு செங்கடலில் பதற்றத்தைத் தவிர்க்கும் வகையில், கப்பல்கள் வசதியான போக்குவரத்துப் புள்ளியாக இலங்கையின் கொழும்பு துறைமுகத்தை கண்டறிந்ததால், சமீபத்திய வாரங்களில் இலங்கைக்கு வரும் கொள்கலன் அளவுகளில் பெரிய முன்னேற்றம் கண்டுள்ளதாக அதிகாரிகள் செவ்வாய்க்கிழமை தெரிவித்தனர்.
+
+ஏமன் ஹவுதி கிளர்ச்சியாளர்கள் நவம்பர் முதல் செங்கடலில் கப்பல்களைத் தாக்கியுள்ளனர், இது உலகின் கப்பல் போக்குவரத்தில் சுமார் 12% பகுதி ஆகும்.
+
+இதற்குப் பதிலளிக்கும் விதமாக, சில கப்பல் நிறுவனங்கள் இப்போது தென் ஆப்பிரிக்காவின் ‘கேப் ஆஃப் குட் ஹோப்’-ஐச் சுற்றிகொண்டு ஒரு நீண்ட பாதையில் செல்கின்றன.
+
+இதனால் பயணம் சுமார் 10 நாட்கள் நீளும். இதற்கு பல மில்லியன் டாலர்கள் அதிகமாகச் செலவாகும்.
+
+“கப்பல்கள் தென்னாப்பிரிக்காவைக் கடந்து வரும்போது, அவர்கள் சந்திக்கும் முதல் மையம் கொழும்புதான்... சிங்கப்பூர் தொலைவில் உள்ளது. எனவே அணுகுவதற்கு இதுவே எளிதான துறைமுகம்” என வீரசிங்க தெரிவித்தார்.
+
+கொழும்பு துறைமுகம் மூலோபாய இடம் காரணமாக உள்ளதால், மத்திய கிழக்கு, தெற்காசியா மற்றும் கிழக்கு ஆசியாவிற்கு கப்பல்களுக்கு வசதியான அணுகலை இது வழங்குகிறதாக இலங்கை துறைமுக அதிகாரசபையின் (SLPA) மூத்த அதிகாரி லால் வீரசிங்க தெரிவித்தார்.
+
+மேலும், கொழும்பு துறைமுகமானது ஆப்பிரிக்கா, மத்திய கிழக்கு மற்றும் கிழக்கு ஆசிய நாடுகளுக்கு இடையே உள்ள முக்கிய துறைமுகமாகும் என்றார். R
 
 ### செங்கடலில் பதட்டம்; கொழும்பு துறைமுகத்திற்கு கிடைத்த நன்மை
 
@@ -1675,349 +1897,3 @@ Meanwhile, investigations into the incident carried out by the Criminal Investig
 Accordingly, the Department said that both question papers have now been annulled with immediate effect, and the new exam date and time are as follows:
 
 The Department further said that the admission card for school applicants for this exam will be sent to the respective school principals, while admission cards for private applicants will be mailed to them.
-
-### முச்சக்கரவண்டி சாரதிகளின் தொழிற் சங்கங்களை நிறுவுவதற்கான இடைக்கால வழிநடத்தல் குழு ஸ்தாபிப்பு!
-
-*2024-01-16 19:02:00 - [virakesarilk](https://www.virakesari.lk/article/174108)*
-
-நாட்டில் முறைசாரா துறையில் பணிபுரியும் அனைத்து தொழிலாளர்களுக்கும் கௌரவத்தையும் பெருமையையும் வழங்கும் வகையில் ஆரம்பிக்கப்பட்ட 'கரு சரு' திட்டத்தின் ஊடாக முச்சக்கரவண்டி சாரதிகளின் தொழிற்சங்கங்களை நிறுவுவதற்கான இடைக்கால வழிநடத்தல் குழு இன்று (16) முதற்கட்டமாக ஸ்தாபிக்கப்பட்டது.
-
-தொழில் திணைக்களத்தின் கேட்போர்கூடத்தில் தொழில் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்காரவின் தலைமையில் நடைபெற்ற துறைசார் குழுக்களை நிறுவது  தொடர்பான கலந்துரையாடலின் போதே இந்தக் குழு ஸ்தாபிக்கப்பட்டது.
-
-முச்சக்கர வண்டி சாரதிகளுக்கான நிபுணத்துவ சபை ஸ்தாபிக்கப்படும் வரை இந்த  இடைக்கால வழிநடத்தல் குழு முச்சக்கரவண்டி சாரதிகளின் தொழில்சார் மற்றும் சமூகப் பாதுகாப்பை உறுதிப்படுத்தும்.
-
-இதன்போது நாடு முழுவதிலும் செயற்பட்டுவரும் அனைத்து முச்சக்கரவண்டிச் சாரதிகளின் சங்கங்களின் பிரதிநிதிகளையும்  உள்ளடக்கிய இந்த இடைக்காலக் குழுவில், அவர்களின் தொழில் கௌரவத்தையும், வளர்ச்சியையும்  மேம்படுத்துவது தொடர்பாக இதற்கு முன்னர் இடம்பெற்ற கலந்துரையாடலில் இணக்கம் காணப்பட்ட விடயங்கள் அடங்கிய பிரேரணை அமைச்சரிடம் கையளிக்கப்பட்டது
-
-இப்பிரேரணைகளை நடைமுறைப்படுத்துவதற்கான முன்மொழிவுகளை சட்டமாக்கி வர்த்தமானியில் வெளியிட நடவடிக்கை மேற்கொண்டு முச்சக்கரவண்டி சாரதிகளாக பணிபுரியும் அனைவரையும் தரவு அமைப்பில் பதிவு செய்து மிகக் குறுகிய காலத்திற்குள் புதிய  கியூ.ஆர். குறியீட்டு முறையயை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்படும் என்று இதன்போது அமைச்சர் உறுதியளித்தார்.
-
-எந்தவொரு சந்தர்ப்பத்திலும் தனியார் துறை காப்புறுதி நிறுவனங்களோ அல்லது வேறு எந்தவொரு தரப்பினரும் சமூகப் பாதுகாப்பு நடவடிக்கைகளில் ஈடுபட மாட்டார்கள். அவ்வாறே நாட்டில் தற்போதுள்ள சமூக பாதுகாப்பு நடைமுறைகள் மற்றும்  புதிய சமூக பாதுகாப்பு முறைமைகள் என்பன அரசின் கண்காணிப்பில்  நடைமுறைப்படுத்தப்படும் எனவும் அமைச்சர் சுட்டிக்காட்டினார்.
-
-### ඩෙංගු මාරයා සරසවි සිසුවිය බිලි ගනියි
-
-*2024-01-16 19:00:50 - [adalk](https://www.ada.lk/breaking_news/ඩෙංගු-මාරයා-සරසවි-සිසුවිය-බිලි-ගනියි/11-407581)*
-
-ඩෙංගු රෝගී තත්ත්වයෙන් හොරණ මූලික රෝහලේ ප්‍රතිකාර ලබමින් සිටි 23 හැවිරිදි විශ්වවිද්‍යාල සිසුවියක් අද (16) මියගිය බව  රෝහල් අධ්‍යක්ෂක විශේෂඥ වෛද්‍ය අයන්ති ජයවර්ධන මහත්මිය පැවසුවාය.
-
-මෙසේ මරණයට පත් වී ඇත්තේ පෝරුව - දණ්ඩ, මාපුටුගල මානෙල් උයන  පදිංචිව සිටි කොළඹ විශ්ව විද්‍යාලයේ සෞන්දර්ය විශ්ව විද්‍යාලයේ පළවෙනි වසරේ  අධ්‍යාපනය ලබමින් සිටි දිසානායක මුදියන්සේලාගේ හසිනි භාග්‍යා නැමති තරුණියයි.
-
-ඉකුත් 5 වන දින උණ රෝගය වැලදීම හේතුවෙන් හොරණ දිස්ත්‍රික් රෝහල වෙත මියගිය තරුණිය ඇයගේ දෙමව්පියන් විසින් ඇතුළත් කර තිබූ අතර ඇය අංක පහ වාට්ටුවේ දින හයක් තිස්සේ  ප්‍රතිකාර ලබමින් සිට ඇත.
-
-ඉන් අනතුරුව ඇයව 11 වන දින පසුව දැඩිසත්කාර ඒකකයට යොමු කර තිබූ තිබූ අතර ඇයට ඒ වන විට සිහිය නොමැති වී ඇති බව  දෙමාපියන් පවසති.
-
-එහිදී තරුණියව විවිධ පරීක්ෂණවලට යොමු කර තිබූ වෛද්‍යවරු ඇයට ඩෙංගු රෝගය වැළඳී ඇති බවට සනාථ කරගෙන තිබිණ. එලෙස දැඩිසත්කාර ඒකකයේ ප්‍රතිකාර ලබමින් සිටි තරුණිය අද (16) අළුයම එහිදී මිය ගොස් තිබිණි.
-
-මියගිය තරුණියගේ පශ්චාත් මරණ පරීක්ෂණය හොරණ මූලික රෝහලේදී මුළු දිවයිනටම සාම විනිසුරු සුමේධ ගුණවර්ධන මහතා විසින් පැවැත් වූ අතර ඉදිරිපත් වූ වෛද්‍ය වාර්තාව සහ සාක්කි සැලකිල්ලට ගෙන තරුණියගේ මරණය ඩෙංගු රෝගය හේතුවෙන් රුධිර වාහනය වීම සමඟම ඇතිවූ සංකූලතා මත සිදුවූ මරණයක් බවට තීරණය කළේය.
-
-### Sri Lanka Ambuluwawa tourist project to attract thrill seekers
-
-*2024-01-16 19:00:00 - [economynextcom](https://economynext.com/sri-lanka-ambuluwawa-tourist-project-to-attract-thrill-seekers-147479/)*
-
-ECONOMYNEXT – The Ambuluwawa Biodiversity Center will be developed as a tourist zone with opportunities for adventure sports, State Minister of Justice and Prisons Anuradha Jayaratne said.
-
-“We hope to bring fifteen percent of the tourists coming to Sri Lanka to Ambuluwawa,” Jayaratne was quoted by the Government Information Department.
-
-Various adventure sports and recreational activities will be offered in an area spread over 8 acres of the 450-acre Biodiversity Center, the minister said at an event to promote Ambuluwawa as a tourist area.
-
-“The Ella Odyssey train will stop at Gampola station for a short while so tourists can take in the Ambuluwawa tourism experience.”
-
-According to Jayaratne, 8% of tourists coming to the island visit Ambuluwawa.
-
-He claimed the area will be developed into an economic hub of the Kandy District, particularly Gampola town, with the introduction of a cable car project.
-
-Sri Lanka’s Board of Investment signed an agreement to develop a cable car system in the country in November 2023.
-
-“Amber Adventure signed an agreement for 4.5 million US dollars, in collaboration with Ambuluwawa Bio Diversity Center, and technical and product expertise from China Machine-Building International Corporation,” the BoI said on X (twitter) at the time.
-
-Several proposed cable car systems in various parts of the island, including one in the hill country town of Nuwara Eliya, have not materialized so far.
-
-Sri Lanka is targeting 2.3 million tourists in 2024 with India, Russia, China, the United Kingdom and Germany expected to bring most of the arrivals, Chairman of the Sri Lanka Tourism Development Authority (SLTDA), Priyantha Fernando has said.
-
-Tourist authorities say Sri Lanka needs to sell a product that attracts high spending tourists.
-
-“We are going to market Sri Lanka in a way that you can’t think possible,” President Ranil Wickremesinghe has said. “So we will have to re-think our tourist policies.” (Colombo/Jan16/2024)
-
-### President discusses effective progress of debt restructuring at Business Roundtable in Switzerland
-
-*2024-01-16 18:48:00 - [adaderanalk](https://www.adaderana.lk/news/96455/president-discusses-effective-progress-of-debt-restructuring-at-business-roundtable-in-switzerland-)*
-
-Addressing the Business Roundtable organized by BOI Sri Lanka and the Swiss-Asian Chamber of Commerce yesterday, during his official tour to Switzerland to attend the 54th Annual Meeting of the World Economic Forum, President Ranil Wickremesinghe highlighted significant strides in Sri Lanka’s economic recovery and outlined future growth prospects.
-
-President Wickremesinghe began by acknowledging the challenging times the nation faced, noting the adverse effects of the recent crisis on businesses, small enterprises and the overall population. He mentioned a constructive meeting with the International Monetary Fund (IMF), where it was surprising to learn that Sri Lanka had over performed despite the difficulties.
-
-One key aspect highlighted by the President was the successful debt restructuring in collaboration with the IMF, emphasizing its necessity for dealing with creditors. He outlined the reforms undertaken in 2022 and 2023, addressing crucial business impediments and resolving supply bottlenecks in fuel and electricity. Additionally, import restrictions were lifted, foreign exchange liquidity was restored and a primary surplus in the balance of payments is anticipated for the first time since 1977.
-
-President Wickremesinghe highlighted positive indicators such as the stabilization of the currency, a significant reduction in inflation, and the reversal of negative economic growth from the third quarter of 2023. The achievement of a primary budget surplus in 2023 marked a notable improvement.
-
-The President went on to discuss the effective progress in debt restructuring, with key creditors agreeing in principle. The IMF’s approval of Sri Lanka’s first program review in December 2023 sets the stage for a shift from stabilization to recovery and growth in 2024.
-
-Looking ahead, President Wickremesinghe emphasized the government’s focus on fostering growth through exports, services and investments, including foreign direct investment (FDI). He announced concluded and upcoming FTAs with Singapore, Thailand, India and China, along with ongoing talks with other South Asian nations. The President highlighted Sri Lanka’s initiatives to join the Regional Comprehensive Economic Partnership (RCEP) and the benefits of GSP Plus for access to European markets.
-
-The address concluded with the President unveiling opportunities for investments in renewable energy, agriculture modernization, tourism, IT and infrastructure development through public-private partnerships. He highlighted forthcoming laws and commissions aimed at enhancing market access, fostering trade and investment and ensuring the competitiveness of Sri Lanka’s economy. President Wickremesinghe reassured foreign investors by mentioning the removal of restrictions and the ongoing commitment to economic reforms.
-
-Meanwhile, sharing his perspective during the roundtable discussion on Sri Lanka’s undertaken reforms, Mr. Sagala Ratnayaka, the President’s Senior Advisor on National Security and Presidential Chief of Staff, emphasized a comprehensive approach encompassing both economic and governmental facets.
-
-Mr. Ratnayaka highlighted that alongside economic reforms, the government embarked on an extensive array of changes. This included a proactive engagement in a diagnostics exercise initiated by the International Monetary Fund (IMF).
-
-Notably, the government did not wait for the completion of the IMF diagnostics exercise but initiated various measures beforehand. Initiatives like the establishment of the Parliamentary Budget Office were implemented even before the governance diagnostics report was published.
-
-Subsequent to these initial steps, a comprehensive program was launched to implement diagnostic reforms. Mr. Ratnayaka underscored the significance of introducing critical legislation, such as the anti-corruption law. He explained the process by which the Constitutional Council would recommend commissioners for the Anti-Corruption Commission to the President. Emphasizing a forward-looking approach, Mr. Ratnayaka affirmed that all undertaken actions aim to elevate international standards.
-
-The Senior Advisor highlighted the introduction of a substantial number of pieces of legislation on the governance front, with approximately 20 already completed. Looking ahead, the focus includes labour laws, with a target of 40 or 50 new laws and the consolidation of around 40 to 50 existing legislations into a modern, forward-looking framework. The overarching goal is to create a favourable environment for employers and align Sri Lanka with contemporary global standards.
-
-The Business Roundtable provided a platform for Sri Lanka to showcase its economic resilience and commitment to growth, leaving attendees optimistic about the nation’s future prospects.
-
-Representing the Sri Lankan business community at this Business Roundtable were Mr. Krishan Balendra – Chairman John Keels Holdings, Mr. Sanath Manatunge – CEO/MD Commercial Bank PLC, Mr. Dilshan Wirasekara – Chairman Colombo Stock Exchange, Mr. Prakash Schaffter – Deputy Chairman Janashakthi Insurance PLC, Mr. Keith Bernard – Chairman, Sri Lanka Ports Authority, Ms. Stasshani Jayawardena – Joint Deputy Chairman/MD, Aitken Spence PLC, Mr. Sanjeev Gardiner – Chairman Galle Face Group, Mr. Ashok Pathirage – Chairman Sri Lankan Airlines, Mr. Sujeewa Rajapakse – Chairman People’s Bank, Dr. Parakrama Dissanayake – Deputy Chairman & Managing Director, Aitken Spence PLC and ⁠ Mr. Supun Weerasinghe – CEO Daialog Axiata.
-
-In addition, Mr. Dinesh Weerakkody – Chairman Board of Investment/Chairman Colombo Port City Economic Commission, Mr. Revan Wickramasuriya – Chief Operating Officer Colombo Port City Economic Commission, Mr. Prasanjith Wijayatilake – Executive Director Investment Promotion Board of Investment, Mr. Sagala Ratnayaka – Chief of Staff to the President & NSA, Mr. Deshal De Mel – Advisor to the Finance Minister and Mr. Ruwan Wijewardene – Advisor to the President on Climate Change participated in this roundtable discussion.
-
-### Evacuation underway for stranded tourists after multiple avalanches trap 1,000 people in China
-
-*2024-01-16 18:35:00 - [adaderanalk](https://www.adaderana.lk/news/96454/evacuation-underway-for-stranded-tourists-after-multiple-avalanches-trap-1000-people-in-china)*
-
-Rescuers evacuated tourists on Tuesday from a remote skiing area in northwestern China where dozens of avalanches triggered by heavy snow have trapped more than 1,000 people for a week, state media said.
-
-The avalanches have blocked roads, stranding both tourists and residents in a village in Altay prefecture in the Xinjiang region, close to China’s border with Mongolia, Russia and Kazakhstan.
-
-Those injured were being airlifted out on a military helicopter while supplies such as food and fuel were being flown in.
-
-State broadcaster CCTV said a snow-blocked road linking Hemu village to major roads was cleared on Tuesday, enabling vehicles to enter and tourists to drive themselves out.
-
-Footage showed dozens of tourists dragging luggage over snow-covered areas toward a military helicopter, while a long line of outgoing cars was seen on the cleared road.
-
-State media cited the local highway administration as saying the avalanches affected 350 kilometers (220 miles) of roads. Road clearing efforts were hampered due to the area’s geography as roads leading to Hemu are situated in a valley with tree-covered slopes.
-
-Known as an emerging ski destination, Altay prefecture had been hit by heavy snowfall since early January. China Daily, citing the Xinjiang meteorological bureau, said at least 31 avalanches were reported as of Saturday.
-
-Authorities at the Kanas scenic area, where Hemu village is located, said the area will be closed until at least Jan. 20 due to continued extreme weather.
-
-### Sri Lanka IOC unit profits down 63-pct in Dec23
-
-*2024-01-16 18:34:00 - [economynextcom](https://economynext.com/sri-lanka-ioc-unit-profits-down-63-pct-in-dec23-147497/)*
-
-ECONOMYNEXT – Lanka IOC, a Sri Lanka publicly traded unit of Indian Oil Corporation reported profits from 3.015 billion rupees, in the December 2023 quarter, down 63 percent from a year ago.
-
-The firm reported earnings of 5.66 rupees per share for the quarter. In the nine months to December the Lanka IOC reported earnings of 19.76 rupees on total profits of 10.52 billion rupees.
-
-In the December quarter revenues fell 3.8 percent to 72.02 billion rupees, cost of sales were down 6.6 percent to 67.01 billion rupees and gross profits were down 75 percent to 2.26 billion rupees.
-
-Finance income was 1.4 billion rupees, up from 1.09 billion a year ago, while finance expenses fell to 92 million rupees from 533 million rupees.
-
-The firm had short term investments of 35.9 billion rupees, up from 21 billion a year ago. Borrowings were 3.4 billion rupees, down from 4.4 billion.
-
-Equity was 68.6 billion rupees, up from 61.2 billion rupees. (Colombo/Jan16/2023)
-
-### சந்தைக்கு போகாதவர்களுக்கு மட்டும்
-
-*2024-01-16 18:17:13 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/சந்தைக்கு-போகாதவர்களுக்கு-மட்டும்/175-331608)*
-
-ஹெக்டர் கொப்பேகடுவ விவசாய ஆராய்ச்சி மற்றும் பயிற்சி நிறுவனம் தரவு முகாமைத்துவ பிரிவு(அரிசி மற்றும் துணை உணவுப் பயிர்களின் மொத்த விற்பனை விலை) தொடர்பிலான அட்டவனையை, அரசாங்க தகவல் திணைக்களத்தின் ஊடாக அனுப்பிவைத்துள்ளது
-
-### New QR code system for three-wheelers
-
-*2024-01-16 18:02:00 - [adaderanalk](https://www.adaderana.lk/news/96453/new-qr-code-system-for-three-wheelers)*
-
-Minister of Labour and Foreign Employment Manusha Nanayakkara says measures will be taken to introduce a new QR code system within a very short period of time, in consideration of the proposal to introduce a QR code in relation to the registration and preparation of a data system for all three-wheeler drivers.
-
-Nanayakkara expressed these views while attending the event for the establishment of the Interim Sectoral Steering Committee today (16) as the first stage of the establishment of professional councils for three-wheeler drivers.
-
-Furthermore, the preparation of a system enabling the three-wheeler drivers to obtain hired journeys through the internet by means of the professional organization established for them, has also been taken into discussion.
-
-This Steering Committee has been formed under the “Garu Saru” program which was commenced in order to provide professional dignity and pride to all those who are employed in the informal services sector in Sri Lanka.
-
-This committee was formed and established under the chairmanship of the Minister of Labor and Foreign Employment Manusha Nanayakkara.
-
-The committee reportedly includes representatives of all three-wheeler drivers’ associations in Sri Lanka.
-
-Meanwhile, a resolution consisting of the matters agreed upon in the previous discussions regarding the development of the dignity of their profession was also handed over to the minister during the event.
-
-### Invest in Sri Lanka renewable energy sector: President at Davos forum
-
-*2024-01-16 18:00:00 - [economynextcom](https://economynext.com/invest-in-sri-lanka-renewable-energy-sector-president-at-davos-forum-147448/)*
-
-ECONOMYNEXT – Now was the time for investing in Sri Lanka’s renewable energy sector, President Ranil Wickremesinghe has told a forum in Davos, Switzerland on Monday (15).
-
-Wickremesinghe said he was confident in the sector’s potential to yield benefits for stakeholders and consumers in the coming decades, according to a statement by his media division.
-
-“Investors venturing into this sector can anticipate a comprehensive and unwavering policy framework,” Wickremesinghe was quoted as saying in his address at the ‘Green Technology Forum’.
-
-After a forex and energy crisis in 2022, there has been an increased effort on Sri Lanka’s part to include wind and solar power generation to its national grid.
-
-“The government is now accelerating this process to ensure that by 2030, 70% of Sri Lanka’s electricity needs are fulfilled by renewable energy sources.
-
-But the country lacks the financial resources to do so on its own.
-
-“To reach this target requires a large investment of up to USD 11.5 billion. However, until recently the framework for private investment in the renewable energy sector has not been very conducive. Over the last 2 years several measures have been taken by the government to correct these shortcomings and ensure an optimal investment climate for renewable energy is in place.”
-
-I thank the Swiss Asian Chamber of Commerce and their partners in organising this event for the invitation to speak today.
-
-There is an urgent need for acceleration of global actions towards climate change mitigation. There have been multiple global forums which have resulted in numerous commitments towards this end. However, actions have fallen drastically short of commitments.
-
-The fallout of this failure in global leadership is borne largely by developing nations of the global south. When periods of drought extend beyond normal, undermining agricultural production, our food security is in jeopardy. When hydropower gets disrupted due to delayed monsoons, our energy security is in jeopardy. Droughts are often followed by a deluge, leading to flash floods and landslides, disrupting lives and livelihoods of under-privileged communities in particular.
-
-It is very evident that there is a disproportionate impact of the adverse outcomes of climate change on developing countries. This brings to light the issue of climate justice and the need for a stronger contribution from the advanced economies towards adaptation and mitigation efforts in the global south.
-
-That being said, Sri Lanka will forge ahead with its efforts towards climate mitigation. We have also recently launched the Tropical Belt Initiative at the COP28 in Dubai – this creates a framework for catalysing private investment in forests, energy, oceans, mangroves, in the countries of the tropical belt.
-
-Today I want to focus on one key aspect of such efforts, which is our drive towards renewable energy.
-
-In fact, Sri Lanka is a country with a long history of renewable energy. Since independence Sri Lanka developed an extensive network of hydropower, commissioning its first major hydro-power plant in 1950. Hydropower was able to provide for most of the country’s energy needs until the 1990s. Even today, hydropower accounts for around 40% of Sri Lanka’s installed electricity generation capacity.
-
-With hydropower largely exploited to the optimal levels, there has been an increased effort to include wind and solar power generation to the national grid. The government is now accelerating this process to ensure that by 2030, 70% of Sri Lanka’s electricity needs are fulfilled by renewable energy sources.
-
-To reach this target requires a large investment of up to USD 11.5 billion. However, until recently the framework for private investment in the renewable energy sector has not been very conducive. Over the last 2 years several measures have been taken by the government to correct these shortcomings and ensure an optimal investment climate for renewable energy is in place.
-
-The first step was to ensure cost reflective pricing. Between 2014 and 2022 electricity tariffs had not been adjusted. This resulted in major cash flow problems for the Ceylon Electricity Board that sometimes led to payment delays to power suppliers. However, from August 2022 we have shifted to a cost-reflective pricing structure. Accordingly, electricity tariffs are revised every quarter to reflect costs on a forward looking basis.
-
-The CEB, which has long been a loss making entity, returned a profit in 2023, enabling it to settle significant levels of past debt along with some balance sheet structuring. The company now has a strong balance sheet, a far stronger cash flow position, and a pricing structure that ensures liquidity.
-
-Rigidities in the feeding tariff has also been a concern of past investors. However, this has also been addressed with greater flexibility being introduced to the tariff options, including choices between fixed tariff and variable tariff formulas.
-
-In addition to internal reform, we are also putting in place the framework to attract green financing. Sri Lanka has developed the Road Map for Sustainable Finance, Green Finance Taxonomy, the SDG Investor Map and the Green Bond Framework, that is currently under formulation, creates the enabling environment for Sri Lanka to have a robust engagement in climate finance. The availability of sustainable finance will be an added boost for renewable energy investments in Sri Lanka.
-
-There have also been legislative barriers to large scale private investment in the renewable energy sector. Those legal hurdles have also been cleared through necessary amendments to the Electricity Act introduced in 2022.
-
-Thirdly, the government is in the final stages of implementing unbundling of the Ceylon Electricity Board. This will result in greater financial and operational autonomy for the distribution, generation, and transmission arms of the CEB, resulting in competition and transparency. Whilst private participation in generation is already available, the unbundling process will open up opportunities for private participation in distribution as well.
-
-This major reform, implemented with the support of the Asian Development Bank, will ensure the CEB operates at the frontier of efficiency, delivering the best outcome for consumers and the most competitive and efficient producers of electricity. The draft legislation for this reform was already been published last month.
-
-The ambition of 70% electricity from renewals also requires improved system efficiency and upgrades to integrate more renewable energy, particularly from 2026. Investments will be required in storage, transmission, and distribution, along with the ongoing private investments in generation. Plans for this integration up to 2030 are in place and have begun implementation.
-
-Following the major reforms implemented in the energy sector in the last 2 years, there has been renewed interest in this sector. There are already large scale solar and wind power projects that have commenced implementation. A major Indian player has commenced implementation of a 350MW wind power plant that is expected to be commissioned in 2025. The same player is considering a further USD 750 million investment in wind power.
-
-Wind power is a major opportunity for Sri Lanka. A recent World Bank report indicates that off-shore wind power in particular has the potential to generate power far greater than Sri Lanka’s requirements. Considering this, Sri Lanka and India are in advanced stages of talks regarding grid inter-connection to enable Sri Lanka to export surplus electricity particularly to the fast growing industrial belt in the Southern part of India. There is also tremendous potential for the development of green hydrogen in Sri Lanka.
-
-Sri Lanka has ambitious plans to fulfil its sustainable, green development agenda. By 2050 the country has committed to achieving net zero. The accelerated renewable energy plan is a key component of this overall effort and is also an essential step on the path towards energy security. Renewable energy will also drive down costs of generation since at present Sri Lanka is compelled to rely on high cost heavy fuels during the dry season. Sri Lanka is in the process of establishing an international climate university, which will continue to unlock opportunities in green energy.
-
-It is clear that Sri Lanka’s renewable energy policy direction is underpinned by multiple motivations and drivers. Therefore investors can expect a high degree of policy continuity in this sector going forward as well. This is the best time to invest in Sri Lanka’s renewable energy journey, and I have no doubt such investments will generate significant value for shareholders and Sri Lanka’s consumers over the next several decades.
-
-### மென்சீஸ் விமான சேவையின் தலைவரை சந்தித்து ஜனாதிபதி பேச்சு!
-
-*2024-01-16 17:53:00 - [virakesarilk](https://www.virakesari.lk/article/174100)*
-
-சுவிட்சர்லாந்தின்  டாவோஸ் நகரில் உலக பொருளாதார மாநாட்டுடன் இணைந்ததாக, ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் மென்சீஸ் விமான சேவை (Menzies Airlines) யின் தலைவர் ஹசன் என் ஹவுரிக்கும் (Hassan El-Houry)  இடையில் சந்திப்பொன்று இடம்பெற்றது.
-
-இந்த சந்தர்ப்பத்தில் ஜனாதிபதியின் தேசிய பாதுகாப்பு தொடர்பான சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான  சாகல ரத்நாயக்கவும்  இணைந்து கொண்டார்.
-
-### அமெரிக்காவின் முன்னாள் உப ஜனாதிபதி அல்கோரை சந்தித்தார் ஜனாதிபதி ரணில்
-
-*2024-01-16 17:37:00 - [virakesarilk](https://www.virakesari.lk/article/174097)*
-
-சுவிட்சர்லாந்தின் டாவோஸ் நகரில் நடைபெறும் உலக பொருளாதார மாநாட்டுடன் இணைந்த வகையில், ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும், அமெரிக்காவின் முன்னாள் உப ஜனாதிபதி, The Climate Reality Project இன் நிறுவனரும் தலைவருமான அல் கோர் (Al Gore) ஆகியோருக்கும் இடையில் சந்திப்பொன்று இடம்பெற்றது.
-
-காலநிலை மாற்றம் தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகர் ருவன் விஜேவர்தன மற்றும் ஜெனீவாவிற்கான ஐக்கிய நாடுகள் சபையின் இலங்கையின் நிரந்தரப் பிரதிநிதியும் தூதுவருமான ஹிமாலி அருணதிலக்க ஆகியோரும் இச்சந்திப்பில் கலந்துகொண்டனர்.
-
-### Sri Lanka rupee closes at 321.40/60 to the US dollar
-
-*2024-01-16 17:36:00 - [economynextcom](https://economynext.com/sri-lanka-rupee-closes-at-321-40-60-to-the-us-dollar-147455/)*
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 321.40/60 to the US dollar on Tuesday, from 322.10/20 last Friday, dealers said.
-
-A bond maturing on 01.06.2025 closed at 13.40/65 percent from 13.40/55 percent.
-
-A bond maturing on 01.02.2026, closed stable at 13.70/75 percent.
-
-A bond maturing on 15.01.2027 closed at 13.75/90 percent from 13.75/85 percent.
-
-A bond maturing on 15.03.2028 closed stable at 14.15/20 percent.
-
-A bond maturing on 15.05.2030 closed at 14.15/30 percent from 14.10/35 percent.
-
-A bond maturing on 01.07.2032 closed at 14.20/35 percent from 14.25/35 percent.
-
-Date of announcement of the Monetary Policy Review: No. 01 of 2024 – Tuesday, January 23, 2024 at 7.30 am. (Colombo/Jan16/2024)
-
-### Health sector strike to continue as talks with govt fail
-
-*2024-01-16 17:27:00 - [adaderanalk](https://www.adaderana.lk/news/96452/health-sector-strike-to-continue-as-talks-with-govt-fail)*
-
-The collective of health sector trade unions have decided to continue with their strike action as discussions with the government were unsuccessful.
-
-Representatives of health sector trade unions, engaged in a token strike since this morning (16 Jan.), held a discussion with Acting Finance Minister Shehan Semasinghe and Health Minister Dr. Ramesh Pathirana regarding their demands.
-
-Speaking to reporters after the meeting, the trade union representatives said that the token strike will continue until 06:30 a.m. tomorrow (17 Jan.), as talks had failed.
-
-72 health sector trade unions, led by the Health Service Trade Unions, launched a 24-hour token strike this morning in protest of the government’s decision to increase the  Disturbance, Availability and Transport (DAT) allowance for doctors by Rs. 35,000.
-
-The strike action represents a wide range of health sector professionals, including radiology and laboratory technicians, pharmacists and drug compounders, midwives, Public Health Inspectors, and entomology officers.
-
-Speaking with regards to the strike on Monday (15 Jan.), President of the Paramedical Services Front (PMSF) Upul Rohana stressed that because Minsiter Pathirana is yet to provide any discussion regarding their demands, around 100,000 health workers including all paramedical services, hospital secretaries, administrative officers as well as health administrative assistants, minor staff and 75 other trade unions of the health staff will join together with this island-wide strike.
-
-“This action will completely disrupt the hospital service. The government should understand that it is not possible to maintain medical services only with the doctors”, Upul Rohana said.
-
-### Opportune moment for investing in Sri Lanka’s renewable energy sector – President
-
-*2024-01-16 17:17:00 - [adaderanalk](https://www.adaderana.lk/news/96451/opportune-moment-for-investing-in-sri-lankas-renewable-energy-sector-president)*
-
-President Ranil Wickremesinghe highlighted the present as an opportune moment for investing in Sri Lanka’s renewable energy sector, expressing confidence in its potential to yield substantial benefits for both stakeholders and consumers in the coming decades.
-
-The President also underscored that investors venturing into this sector can anticipate a comprehensive and unwavering policy framework in the realm of renewable energy.
-
-President Ranil Wickremesinghe made these remarks during his address at the “Green Technology Forum” convened on January 15 in Davos, Switzerland. The event was coordinated by the Swiss-Asian Chamber of Commerce.
-
-Speaking on the theme of “Paving the way to an energy secure Sri Lanka,” President Ranil Wickremesinghe highlighted the substantial potential of Sri Lanka’s renewable energy sector. He further outlined the government’s initiatives over the past two years to establish an investment-friendly environment in the renewable energy sector.
-
-Emphasizing Sri Lanka’s dedication to addressing climate change, President Ranil Wickremesinghe elaborated on various measures, including the “Tropical Belt Initiative,” presented at the COP28 conference in Dubai.
-
-Highlighting Sri Lanka’s commitment to sustainable and green development, the President emphasized the nation’s ambitious plans and determination to achieve net-zero emissions by 2050.
-
-President Ranil Wickremesinghe underscored the pivotal role of the rapid renewable energy plan, describing it as a key component of Sri Lanka’s comprehensive efforts towards sustainable development and a crucial step in ensuring energy security.
-
-Following is the full speech delivered by President Ranil Wickremesinghe at the Green Technology Forum in Davos, Switzerland.
-
-I thank the Swiss Asian Chamber of Commerce and their partners in organising this event for the invitation to speak today.
-
-There is an urgent need for acceleration of global actions towards climate change mitigation. There have been multiple global forums which have resulted in numerous commitments towards this end. However, actions have fallen drastically short of commitments.
-
-The fallout of this failure in global leadership is borne largely by developing nations of the global south. When periods of drought extend beyond normal, undermining agricultural production, our food security is in jeopardy. When hydropower gets disrupted due to delayed monsoons, our energy security is in jeopardy. Droughts are often followed by a deluge, leading to flash floods and landslides, disrupting lives and livelihoods of under-privileged communities in particular.
-
-It is very evident that there is a disproportionate impact of the adverse outcomes of climate change on developing countries. This brings to light the issue of climate justice and the need for a stronger contribution from the advanced economies towards adaptation and mitigation efforts in the global south.
-
-That being said, Sri Lanka will forge ahead with its efforts towards climate mitigation. We have also recently launched the Tropical Belt Initiative at the COP28 in Dubai – this creates a framework for catalysing private investment in forests, energy, oceans, mangroves, in the countries of the tropical belt.
-
-Today I want to focus on one key aspect of such efforts, which is our drive towards renewable energy.
-
-In fact, Sri Lanka is a country with a long history of renewable energy. Since independence Sri Lanka developed an extensive network of hydropower, commissioning its first major hydro-power plant in 1950. Hydropower was able to provide for most of the country’s energy needs until the 1990s. Even today, hydropower accounts for around 40% of Sri Lanka’s installed electricity generation capacity.
-
-With hydropower largely exploited to the optimal levels, there has been an increased effort to include wind and solar power generation to the national grid. The government is now accelerating this process to ensure that by 2030, 70% of Sri Lanka’s electricity needs are fulfilled by renewable energy sources.
-
-To reach this target requires a large investment of up to USD 11.5 billion. However, until recently the framework for private investment in the renewable energy sector has not been very conducive. Over the last 2 years several measures have been taken by the government to correct these shortcomings and ensure an optimal investment climate for renewable energy is in place.
-
-The first step was to ensure cost reflective pricing. Between 2014 and 2022 electricity tariffs had not been adjusted. This resulted in major cash flow problems for the Ceylon Electricity Board that sometimes led to payment delays to power suppliers. However, from August 2022 we have shifted to a cost-reflective pricing structure. Accordingly, electricity tariffs are revised every quarter to reflect costs on a forward looking basis.
-
-The CEB, which has long been a loss making entity, returned a profit in 2023, enabling it to settle significant levels of past debt along with some balance sheet structuring. The company now has a strong balance sheet, a far stronger cash flow position, and a pricing structure that ensures liquidity.
-
-Rigidities in the feeding tariff has also been a concern of past investors. However, this has also been addressed with greater flexibility being introduced to the tariff options, including choices between fixed tariff and variable tariff formulas.
-
-In addition to internal reform, we are also putting in place the framework to attract green financing. Sri Lanka has developed the Road Map for Sustainable Finance, Green Finance Taxonomy, the SDG Investor Map and the Green Bond Framework, that is currently under formulation, creates the enabling environment for Sri Lanka to have a robust engagement in climate finance. The availability of sustainable finance will be an added boost for renewable energy investments in Sri Lanka.
-
-There have also been legislative barriers to large scale private investment in the renewable energy sector. Those legal hurdles have also been cleared through necessary amendments to the Electricity Act introduced in 2022.
-
-Thirdly, the government is in the final stages of implementing unbundling of the Ceylon Electricity Board. This will result in greater financial and operational autonomy for the distribution, generation, and transmission arms of the CEB, resulting in competition and transparency. Whilst private participation in generation is already available, the unbundling process will open up opportunities for private participation in distribution as well.
-
-This major reform, implemented with the support of the Asian Development Bank, will ensure the CEB operates at the frontier of efficiency, delivering the best outcome for consumers and the most competitive and efficient producers of electricity. The draft legislation for this reform was already been published last month.
-
-The ambition of 70% electricity from renewals also requires improved system efficiency and upgrades to integrate more renewable energy, particularly from 2026. Investments will be required in storage, transmission, and distribution, along with the ongoing private investments in generation. Plans for this integration up to 2030 are in place and have begun implementation.
-
-Following the major reforms implemented in the energy sector in the last 2 years, there has been renewed interest in this sector. There are already large scale solar and wind power projects that have commenced implementation. A major Indian player has commenced implementation of a 350MW wind power plant that is expected to be commissioned in 2025. The same player is considering a further USD 750 million investment in wind power.
-
-Wind power is a major opportunity for Sri Lanka. A recent World Bank report indicates that off-shore wind power in particular has the potential to generate power far greater than Sri Lanka’s requirements. Considering this, Sri Lanka and India are in advanced stages of talks regarding grid inter-connection to enable Sri Lanka to export surplus electricity particularly to the fast growing industrial belt in the Southern part of India. There is also tremendous potential for the development of green hydrogen in Sri Lanka.
-
-Sri Lanka has ambitious plans to fulfil its sustainable, green development agenda. By 2050 the country has committed to achieving net zero. The accelerated renewable energy plan is a key component of this overall effort and is also an essential step on the path towards energy security. Renewable energy will also drive down costs of generation since at present Sri Lanka is compelled to rely on high cost heavy fuels during the dry season. Sri Lanka is in the process of establishing an international climate university, which will continue to unlock opportunities in green energy.
-
-It is clear that Sri Lanka’s renewable energy policy direction is underpinned by multiple motivations and drivers. Therefore investors can expect a high degree of policy continuity in this sector going forward as well. This is the best time to invest in Sri Lanka’s renewable energy journey, and I have no doubt such investments will generate significant value for shareholders and Sri Lanka’s consumers over the next several decades.
-
-### பிக்குகள் மாத்திரம் காவி உடையணியும் சட்டம் வேண்டும்: ஒரு சில தேரர்களுக்கு வெளிநாடுகளிலிருந்து கோடிக்கணக்கில் நிதி கிடைக்கிறது! - உதய கம்மன்பில
-
-*2024-01-16 17:14:00 - [virakesarilk](https://www.virakesari.lk/article/174088)*
-
-பௌத்த மதத்தை இல்லாதொழிக்கும் வகையில் ஒழுங்கமைக்கப்பட்ட செயற்பாடுகள் முன்னெடுக்கப்படுகின்றன. இந்த நாட்டில் காவி உடை அணிவதை பிக்குகளுக்கு மாத்திரம் வரையறுக்கும் சட்டம் இயற்றப்பட வேண்டும் என பிவிதுரு ஹெல உறுமய கட்சியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான உதய கம்மன்பில தெரிவித்தார்.
-
-கொழும்பில் உள்ள பிவிதுரு ஹெல உறுமய கட்சியின் காரியாலயத்தில் இன்று  (16) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
-
-அவர் மேலும் தெரிவித்ததாவது, பௌத்த மத கோட்பாடுகளை திரிபுபடுத்தி, பௌத்த மதத்தை இல்லாதொழிக்கும் வகையிலான திட்டமிட்ட செயற்பாடுகள் முன்னெடுக்கப்படுகின்றன. இதற்கு புலம்பெயர் அமைப்புக்கள் நிதியுதவி வழங்குகின்றன.
-
-பௌத்த மதத்தை அவதிக்கும் வகையிலான கருத்துக்களை இன்று பல்வேறு தரப்பினர் குறிப்பிடுகின்றனர். பௌத்த கோட்பாட்டை திரிபுபடுத்தும் கருத்துக்களை குறிப்பிடும் ஒரு சில பௌத்த தேரர்களுக்கு வெளிநாடுகளில் இருந்து கோடிக்கணக்கில் நிதி கிடைக்கிறது. ஒரு சிலர் தம்மை பிக்கு என்று அடையாளப்படுத்திக் கொண்டு பௌத்த மதத்தை அவமதிக்கிறார்கள்.
-
-காவி உடையை அனைவரும் அணியும் நிலை இன்று காணப்படுகிறது. இவ்வாறானவர்களை கைது செய்யவும்  முடியாது.பிக்கு ஒருவர்  காவி உடை தரிக்க வேண்டும் என்று ஒழுக்கச் சட்டத்தில் குறிப்பிடப்பட்டுள்ளது.ஆனால் ஏனையோர் காவி உடைய அணிய முடியாது என்று சட்டத்தில் குறிப்பிடப்படவில்லை. ஆகவே காவி உடை அணிந்தவர்கள் எதை செய்தாலும் அவர்களை உடனடியாக கைது செய்ய முடியாத நிலை காணப்படுகிறது.
-
-தான் விரும்பும் ஆடைகளை அணிந்து கொள்ளும் உரிமை அனைவருக்கும் உண்டு. 2300 வருட கால தொன்மையை கொண்டுள்ள பௌத்த கோட்பாட்டை பாதுகாக்க வேண்டுமாயின் இந்த நாட்டில் காவி உடை அணிவதை பிக்குகளுக்கு மாத்திரம் வரையறைக்கும் சட்டம் இயற்றப்பட வேண்டும் என்றார்.

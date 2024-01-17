@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 08:27:49**
+As of **2024-01-17 09:27:48**
 
 ## Newspaper Stats
 
@@ -8,11 +8,11 @@ As of **2024-01-17 08:27:49**
 
 * bbccomsinhala: 26
 
-* newsfirstlk: 39
-
-* islandlk: 40
+* newsfirstlk: 40
 
 * virakesarilk: 46
+
+* islandlk: 49
 
 * economynextcom: 52
 
@@ -26,7 +26,7 @@ As of **2024-01-17 08:27:49**
 
 * adalk: 115
 
-* **Total**: **687**
+* **Total**: **697**
 
 ## Latest Articles (100)
 
@@ -75,6 +75,30 @@ FBOP/FBOP1 Select best were lower, whilst best and below best were fully firm to
 The Low Growns average went up 60.02 rupees to 1,330.30 rupees kilogram.
 
 Low Growns had overcast conditions with showers, with Sabaragamuwa expecting heavy showers. Whilst Uva and Low Growns recorded a decline, Udapussellawa and Nuwara Eliya maintained their crop intakes. (Colombo/Jan17/2023)
+
+### MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+
+*2024-01-17 05:32:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/middle-east-war-iran-strike-in-pakistan-kills-2-children-iran-says-it-was-a-militant-base/)*
+
+Colombo (News 1st) – Yet another new dimension opened in the Middle East crisis late Tuesday as Iran bombed what it said was an anti-Iran Sunni militant base in Pakistan. The Pakistani government said two children were killed and three more children wounded, foreign media reported.
+
+Iran's state-run IRNA news agency and state television said that missiles and drones were used in the strikes in Pakistan to target the Jaish al-Adl militant group. Press TV, the English-language arm of Iranian state television, attributed the attack to Iran’s Revolutionary Guard.
+
+The drone and missile strike was in Balochistan’s Panjgur district, about 50km inside Pakistan. The Jaish al-Adl militant group has staged several attacks in Iran.
+
+Pakistan’s foreign ministry condemned the strikes and warned of serious consequences. “Pakistan strongly condemns the unprovoked violation of its airspace by Iran which resulted in the death of two innocent children while injuring three girls. This violation of Pakistan’s sovereignty is completely unacceptable and can have serious consequences” the statement said.
+
+Just a few hours earlier, Iran struck what it said were Mossad sites in the town of Erbil in the Kurdish-controlled region of northern Iraq. The Iraqi government has condemned the attacks and said there are no Mossad bases in Iraq.
+
+Meanwhile, US forces carried a third set of strikes on Houthi bases in Yemen late Tuesday, hours after a Greek merchant ship was hit by a ballistic missile in the Red Sea, and a US cargo ship was also hit by a missile.
+
+In Gaza, fighting continued to rage, with a tentative deal reached for Qatar to send in a shipment of medicines.
+
+The UN in a statement late Tuesday said that almost the entire population of Gaza is going hungry and said Israel is “destroying Gaza’s food system and using food as a weapon against the Palestinian people”.
+
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+
+Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### மருத்துவர்களின் சம்பளம் 35000 ரூபாவினால் அதிகரிக்கப்பட்டதா ?
 
@@ -161,6 +185,134 @@ Low Growns had overcast conditions with showers, with Sabaragamuwa expecting hea
 பொருளாதார நெருக்கடி என்று சொல்கின்றார்கள். ஆனால் குடும்பத்துடன் நாட்டை விட்டு செல்கிறார்கள். அவர்கள் முதல் வகுப்பிலேயே எங்கும் செல்கின்றனர். நல்ல ஹோட்டல்களுக்குச் சென்றிருக்கிறனர். இவை நிறுத்தப்பட வேண்டும்.
 
 ஜனாதிபதி ரணில் விக்ரமசிங்கவிடம் நல்லது கெட்டது இரண்டும் உண்டு. எனினும் மக்கள் தரப்பில் இருந்து பார்த்தால் அவர்கள் பிரச்சனையில் உள்ளனர். மக்கள் ஆதரவற்ற நிலையில் உள்ளனர் என்றார். R
+
+### Microsoft Sri Lanka empowers McLarens Group to forge ahead in tech innovation
+
+*2024-01-16 23:11:00 - [islandlk](http://island.lk/microsoft-sri-lanka-empowers-mclarens-group-to-forge-ahead-in-tech-innovation/)*
+
+The McLarens Group, one of Sri Lanka’s largest diversified conglomerates, propels forward with Microsoft Sri Lanka, as the organization transitions from Business Productivity Suite to Microsoft Enterprise Product Services. This adoption underscores the firm’s unwavering trust and steadfast commitment to technological advancement and will support in strengthening the operations of McLarens Group.
+
+The decision to expand McLarens Group’s usage of Microsoft’s cutting-edge technology was driven by their confidence in state-of-the-art solutions. Recognizing the significance of a unified platform spanning across its diverse sectors, McLarens Group now seamlessly operates, ensuring technological accessibility and a collaborative environment.
+
+“With trust in Microsoft Sri Lanka’s reliability and innovation, I am eager for McLarens Group to continue our journey and experience this cultural shift towards technology-driven decision making. For instance, by adopting Microsoft Enterprise Productivity Suite, through tools like Microsoft Teams, we have been able to reduce our telecommunication costs, and our staff is now able to connect from anywhere, at any time. This has enabled us to foster seamless communication in a faster, simpler, and smarter way and, ultimately, foster innovation,” commented Ravi Edirisinghe, Group Chief Commercial Officer of McLarens Group.
+
+McLarens Group’s vision of technology as the bedrock of progress has not only mitigated staff resistance but has ignited a culture where innovation thrives and propels the company towards unparalleled success. Through comprehensive online and offline sessions conducted by a Microsoft Partner, McLarens Group has ensured a smooth onboarding process for their employees.
+
+Speaking on the adoption, Harsha Randeny, Country Manager for Microsoft Sri Lanka and Maldives, said, “We are glad that McLarens Group has continued their trust in us and made the transforming decision of facilitating connectivity, collaboration, innovation and security across sectors by adopting Microsoft Technologies. By deploying solutions with ease, fortified by robust security features, we are keen to support McLarens Group to further solidify their tech-driven approach to streamlined processes and digital transformation.”
+
+This integration by McLarens Group has been a seamless pursuit, stimulating productivity and elevating security to an enterprise level. Looking ahead, McLarens Group aims to delve deeper into Microsoft’s suite of products by adopting Microsoft Security measures with Microsoft Defender, unlocking the potential for driving change through technology driven by AI.
+
+Three regional telecom players show interest in SLT shares as latter appreciate
+
+Microsoft celebrates 2023 Partner Award winners from Sri Lanka and Maldives
+
+Microsoft Sri Lanka brings AI-powered productivity to Brandix with Copilot for Microsoft 365
+
+Microsoft Sri Lanka leads the way in harnessing AI for business transformation
+
+Microsoft Sri Lanka signs on as Gold Partner for FITIS Sri Lanka Internet Day 2022
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### CEAT helps keep Suwa Seriya ambulances on the road
+
+*2024-01-16 23:10:00 - [islandlk](http://island.lk/ceat-helps-keep-suwa-seriya-ambulances-on-the-road/)*
+
+The 322-strong fleet of ambulances operated by the Suwa Seriya Foundation will continue to fulfil its humanitarian mission in Sri Lanka with tyres supplied by CEAT Kelani Holdings as the preferred tyre supplier.
+
+CEAT Kelani recently renewed its commitment to Suwa Seriya, undertaking to provide tyres for five ambulances free of charge and to provide the others at a special price that is marginally above the cost of production.
+
+Suwa Seriya runs a minimum of 25,000 kms a day to save lives. CEAT Kelani has undertaken to produce customised ‘Rhino Plus’ tyres with the Suwa Seriya number 1990 on the side walls of the tyres to identify them as belonging to the ambulance service.
+
+“The Suwa Seriya ambulance service has saved many lives, and we are happy to be able to help the Foundation make a substantial saving on the price of tyres, thereby ensuring that the service is not curtailed due to escalating costs,” CEAT Kelani Chief Operating Officer Shamal Gunawardene said. “These tyres are designed and built for reliability and excellent handling in local conditions, ensuring a safe drive for users.”
+
+The Suwa Seriya Foundation was established in Sri Lanka in July 2016 with the support of the Government of India. It provides free pre-hospital care emergency ambulance services to any person in Sri Lanka, offering 24-hour emergency medical services with a team of nearly 1400 people. The Foundation has achieved an average response time of 14:38 minutes, rescuing and assisting people in accidents and emergencies quickly and competently.
+
+The CEAT brand originated in Italy and is backed by German manufacturing technology and extensive research and testing facilities in India and Europe. CEAT Kelani Holdings currently manufactures half of Sri Lanka’s pneumatic tyre requirements, exports about 20 per cent of its production to 16 countries and plays a significant role in helping the national economy conserve foreign exchange by reducing dependence on imported tyres.
+
+Three regional telecom players show interest in SLT shares as latter appreciate
+
+CEAT invests Rs. 476 mn. in 2.4 MW solar roof panel project in Kelaniya
+
+CEAT Kelani debuts new locally-made Truck Bus Radial for transport sector
+
+CEAT sticks with Sri Lanka retail chain upgrade plan, opening new flagship store in Madampe
+
+CEAT covers 20 more schools with ‘Road Safety for School Children’ initiative
+
+CEAT revisits Indian test track to put its radial tyres through their paces
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### Sign Network LK makes Colomboscope Arts Festival inclusive & accessible to the deaf
+
+*2024-01-16 23:06:00 - [islandlk](http://island.lk/sign-network-lk-makes-colomboscope-arts-festival-inclusive-accessible-to-the-deaf/)*
+
+Sign Network LK, a non-profit pioneering force in fostering inclusivity and breaking communication barriers in Sri Lanka, is taking a significant step towards making art accessible to everyone & promoting inclusivity at the Colomboscope Arts Festival 2024, through a free workshop and exhibition interpretation for people with hearing impairments.
+
+“With the number of people with hearing impairments progressively increasing past 400,000 in a population of 21 million citizens, the urgent need for initiatives that cater to the needs of the Deaf community is rising. Our segments at Colomboscope 2024 is a step towards creating a more inclusive world, where the Deaf and hearing communities can connect seamlessly through the beauty of sign language,” says Amani Naeemullah, Co-founder of Sign Network LK, to which Co-founder, Akhlaq Gazzali agreed, adding, “Through such initiatives, we also aim to create awareness about the Deaf community’s richness and diversity, fostering unity and understanding.”
+
+Three regional telecom players show interest in SLT shares as latter appreciate
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### HelpAge urges public not to isolate elders
+
+*2024-01-16 23:04:00 - [islandlk](http://island.lk/helpage-urges-public-not-to-isolate-elders/)*
+
+HelpAge Sri Lanka (HASL) recently highlighted the importance of the public looking after elders with care and providing them psychological relief as they grow older instead of isolating them in elders’ homes.
+
+This was revealed by HelpAge at seminars held in 14 government schools over the past year.
+
+The objectives of conducting these seminars were to create an awareness among schoolchildren on the value of their parents, grandparents and other elders and on ensuring their protection during the latter part of their lives.
+
+HelpAge statistics reveal that during this period nearly 10,000 schoolchildren attended the seminars conducted by HASL, Youth Education Programme (YEP), Director, G.C. Mendis.
+
+The seminars were conducted in schools, including Pinnawala Central College, Sri Wijayarama MV, Dehiwala, Hindu College, Ratmalana, Blind and Deaf school, Ratmalana, Soysapura MV, Moratuwa and Nalanda Boys’ and Girls’ Schools, Minuwangoda.
+
+Director Mendis said in addition to schoolchildren, teachers and principals also attended the seminars and expressed their gratitude to HelpAge for conducting such valuable seminars and educating youth on the importance of looking after elders with care, considering the invaluable service and contribution rendered by them.
+
+HNB General Insurance makes a strategic leap towards a futuristic insurance system
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### Three regional telecom players show interest in SLT shares as latter appreciate
+
+*2024-01-16 22:59:00 - [islandlk](http://island.lk/three-regional-telecom-players-show-interest-in-slt-shares-as-latter-appreciate/)*
+
+SLT shares in the stock market were active and tended to appreciate yesterday as three regional telecom players came out with Requests for Quotes to invest in the company. These developments are a part of the government’s strategy to divest State-Owned- Enterprises, analysts said.
+
+Three investors have expressed interest in buying Sri Lanka Telecom shares to the island’s State-Owned Enterprises Restructuring Unit and those entities are: Jio Platforms Ltd, Gujarat, India, Gortune International Investment Holding Ltd, submitted by Capital Alliance Limited and Pettigo Comercio International LDA, submitted by NDB Investment Bank Ltd. Jio Platforms is a unit of Reliance Industries headed Mukesh Ambani and Pettigo is part of the Lycamobile Group headed by Allirajah Subashkaran in UK.
+
+The proposals will be evaluated under Special Guidelines on Divestiture of State-Owned Enterprises approved by the Cabinet of Ministers in July 2023.
+
+The share market reflected a degree of dullness because investors are worried that upcoming earnings would create some negative pressure on the market. Both indices moved downwards. The All- Share Price Index went down by 65.3 points while S and P SL20 declined by 19.16 points.
+
+Turnover stood Rs 1.5 billion with four crossings. Those crossing were reported in Ceylinco Insurance, where 813,000 shares (Non-Voting) crossed to the tune of Rs 634 million; its shares traded at Rs 7.80, Melstacope’s 2.4 million shares crossed for Rs 211 million; shares traded at Rs 85, Hemas Holdings 750,000 shares crossed for Rs 51.7 million; its shares traded at Rs 69 and Marawila Resort 6.5 million shares crossed for Rs 21.4 million; its shares traded at Rs 3.30.
+
+In the retail market top seven companies that mainly contributed to the turnover were, Ceylinco Insurance (Non- Voting) Rs 133 million (170,000 shares traded), Capital Alliance Rs 62.8 million (1.1 million shares traded), Lanka IOC Rs 38.6 million (379,000 shares traded), JKH Rs 37.2 million (199,000 shares traded), Browns Investments Rs 36.6 million (8.1 million shares traded), Commercial Bank Rs 33.3 million (365,000 shares traded) and SLT Rs 27.2 million (281,000 shares traded). During the day 37.6 million share volumes changed hands in 7600 share transactions.
+
+Yesterday, the US dollar buying rate was Rs 317.35 and selling rate Rs 327.18.
+
+New technology figuring in the preparation of dried and Maldive fish for export
+
+Visits by IMF delegation and Japanese Finance Minister positively impact CSE
+
+Hotels going in for right issues in preparation for tourist season
+
+Share market indices dip in the wake of Vallibel One’s negative contribution
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
 
 ### Kerala cannabis worth over Rs. 30 mn seized during naval operation in Jaffna
 
@@ -1196,6 +1348,8 @@ Initial investigations suggest the killing may have been a reprisal for the vict
 
 Authorities confirmed that all four arrested individuals reside in the Keselwatta area.
 
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+
 Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### AI தொழில்நுட்ப வலுவூட்டப்பட நாட்காட்டியை வெளியிட்டுள்ளது மக்கள் வங்கி
@@ -1277,6 +1431,8 @@ Wind power is a major opportunity for Sri Lanka. A recent World Bank report indi
 Sri Lanka has ambitious plans to fulfil its sustainable, green development agenda. By 2050 the country has committed to achieving net zero. The accelerated renewable energy plan is a key component of this overall effort and is also an essential step on the path towards energy security. Renewable energy will also drive down costs of generation since at present Sri Lanka is compelled to rely on high cost heavy fuels during the dry season. Sri Lanka is in the process of establishing an international climate university, which will continue to unlock opportunities in green energy.
 
 It is clear that Sri Lanka’s renewable energy policy direction is underpinned by multiple motivations and drivers. Therefore investors can expect a high degree of policy continuity in this sector going forward as well. This is the best time to invest in Sri Lanka’s renewable energy journey, and I have no doubt such investments will generate significant value for shareholders and Sri Lanka’s consumers over the next several decades.
+
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
 
 Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
@@ -1524,6 +1680,8 @@ Lalith Jayasinghe was remanded on charges of interfering with the police investi
 
 The Former Senior DIG was charged with interfering with the police in order to prevent the arrest of then Deputy Minister Premalal Jayasekera, who was suspected of being involved in the crime.
 
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+
 Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### More details revealed in murder of “Bada Ranji”
@@ -1712,6 +1870,8 @@ COLOMBO (News 1st) –  Vegetable prices in Sri Lanka skyrocketed on Tuesday (1
 
 These prices were confirmed by the All Ceylon Economic Center Trader's Association
 
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+
 Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### වාහන 30 ක් ආනයනයට විශේෂ අවසරයක්
@@ -1740,6 +1900,8 @@ He acknowledged the problem, stating that the shortage of stents.
 
 Furthermore, Dr. Palitha Mahipala, Secretary of the Ministry of Health, confirmed the ongoing shortage and assured that orders have been placed to replenish the necessary medical supplies.
 
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+
 Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### Protests as Activists Accuse Former Health Minister of Pharma Fraud
@@ -1753,6 +1915,8 @@ The protest began with a symbolic play depicting the human cost of the purported
 Civil society representatives, mass organization leaders, and social activists joined in the demonstration.
 
 Their intention to march from the Ministry to the Cinnamon Gardens Police Station was abruptly halted by a police intervention.
+
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
 
 Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
@@ -1844,6 +2008,8 @@ Authorities recovered a substantial amount of narcotics during the operation, wi
 
 Over 7 kilograms of the highly addictive drug were confiscated.
 
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+
 Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 ### Sri Lanka faces alarming increase in dengue cases reported this year
@@ -1895,137 +2061,3 @@ On January 03, a decision was reached in the presence of President Ranil Wickrem
 எவ்வாறாயினும், 2023-24 மாம்பழ பருவம் அந்த அளவைத் தாண்டியுள்ளதாக தற்போதைய தரவு உறுதிப்படுத்தியுள்ளது என்று திணைக்களம் கூறுகிறது.
 
 இதன் காரணமாக ரூ.800 முதல்1000 வரை விலை போன 1 கிலோகிராம் TEJC மாம்பழம் தற்போது ரூ. 400 முதல் 500 ரூபாய்  வரை குறைந்துள்ளதாக விவசாய திணைக்களம் தெரிவித்துள்ளது.
-
-### Police Constable nabbed with ‘Ice’ during Operation ‘Yukthiya’
-
-*2024-01-16 11:54:00 - [adaderanalk](https://www.adaderana.lk/news/96440/police-constable-nabbed-with-ice-during-operation-yukthiya)*
-
-A Police Constable of the Mihijayasewana Police Station was reportedly arrested for the possession of crystal methamphetamine (ICE).
-
-According to the Colombo (North) Crimes Division, the suspect was arrested in Modara, with 2,140 miligrams of crystal methamphetamine during the ongoing island-wide anti-drug operation ‘Yukthiya’.
-
-The 27-year-old Police Constable, identified as a resident of Webada, Ganepola, is due to be produced before the Maligakanda Magistrate’s Court, while further investigations are being carried out by the Colombo (North) Crimes Division.
-
-### ”ரணிலுக்கு சஜித் பெரும் போட்டியாக இருப்பார்”
-
-*2024-01-16 11:36:08 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ரணிலுக்கு-சஜித்-பெரும்-போட்டியாக-இருப்பார்/175-331576)*
-
-தனது கட்சி மற்ற கட்சிகளுடன் கூட்டணி அமைப்பதற்கான பேச்சுவார்த்தைகளைக் கையாள்வதற்கான குழுவை நியமித்து வருவதாக  ஐக்கிய மக்கள் சக்தியின் தேசிய ஒருங்கிணைப்பாளர் திஸ்ஸ அத்தநாயக்க ஊடகவியலாளர் சந்திப்பின் போது தெரிவித்தார்.
-
-“ஏனைய கட்சிகளுடன் கூட்டணி அமைப்பதற்கு எமது எமது கட்சித் தலைவர் சஜித் பிரேமதாசவுக்கு செயற்குழு அனுமதி வழங்கியுள்ளது. தற்போது மற்ற கட்சிகளுடன் கலந்துரையாட ஒரு குழுவை நியமிக்கும் பணியில் அவர் ஈடுபட்டுள்ளார்.
-
-எமது வேட்பாளர் சஜித் பிரேமதாச, எதிர்வரும் ஜனாதிபதித் தேர்தலில் தற்போதைய ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு பாரிய போட்டியாக இருப்பார் என நம்புகின்றோம் ” என திஸ்ஸ அத்தநாயக்க தெரிவித்தார்.
-
-### Air quality declines in several areas across the island
-
-*2024-01-16 11:19:00 - [adaderanalk](https://www.adaderana.lk/news/96439/air-quality-declines-in-several-areas-across-the-island)*
-
-The air quality has declined in several areas of the island, the Central Environmental Authority (CEA) said.
-
-The Media Spokesman ofre the CEA Ajith Weerasundara stated that accordingly a decline in the air quality index is observed in the Colombo, Jaffna, Mannar and Galle areas.
-
-Weerasundara also took into note that as a result patients with respiratory issues and respiratory-related medical conditions should be more attentive regarding the matter.
-
-Furthermore, he expressed that the major cause of this situation is the entry of various types of air pollutants by way of the air currents passing through the island, especially the wind currents from the outer regions of other countries, such as the Bay of Bengal.
-
-The authority also emphasized that there is a minor possibility of this situation affecting the health of the people living in those areas.
-
-“Especially people living in these areas who suffer some kinds of lung-related disorders like Asthma should be careful up to a level. As an example, if you wear facemasks, you can protect your health”, Weerasundara said.
-
-“We believe that this situation will gradually subside and return back to normal in a few days. Here we especially request you to pay attention to the condition of the atmosphere”, he added.
-
-Meanwhile, the air quality in New Delhi, India continues to linger between “very poor” and “severe”, whilst Delhi residents once again confronted dense fog and bone-chilling cold, causing widespread flight and rail operations disruptions, the foreign media reported on Tuesday (Jan. 16).
-
-The air quality of India’s Delhi (272) ranked first as the poorest air quality in the world and India’s Kolkata (154) is third on the list, according to IQAir.
-
-The AQI (Air Quality Index), used to communicate to the general public the daily air quality, is based on the measurement of particulate matter (PM2.5 and PM10), Ozone (O3), Nitrogen Dioxide (NO2), Sulfur Dioxide (SO2) and Carbon Monoxide (CO) emissions. An AQI value of 50 or below represents good air quality, while an AQI value over 300 represents hazardous air quality, as per international standards.
-
-### Parliament to Conclude Fourth Session Next Week
-
-*2024-01-16 11:18:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/parliament-to-conclude-fourth-session-next-week/)*
-
-Colombo (News 1st): SrI Lanka's Ninth Parliament is nearing the end of its fourth session, with Speaker Mahinda Yapa Abeywardena announcing it will conclude on January 24th.
-
-The fifth session of the Ninth Parliament is then set to commence on February 7th.
-
-The speaker confirmed that the official termination date will be confirmed through a gazette issued by the President.
-
-This closure will trigger the dissolution of various Parliamentary Committees, including the Committee on Public Accounts (COPA) and the Committee on Public Enterprises (COPE).
-
-Upon the resumption of the parliamentary session in February, the process of appointing new members and reforming the committees will begin.
-
-Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
-
-### Iowa caucus 2024: Trump dominates, DeSantis edges Haley for second
-
-*2024-01-16 11:15:00 - [adaderanalk](https://www.adaderana.lk/news/96438/iowa-caucus-2024-trump-dominates-desantis-edges-haley-for-second)*
-
-Donald Trump secured a resounding victory in the first 2024 Republican presidential contest in Iowa on Monday, asserting his command over the party despite facing scores of criminal charges as he seeks a rematch with Democratic President Joe Biden.
-
-Florida Governor Ron DeSantis, 45, finished well behind in second place, edging out former U.N. Ambassador Nikki Haley, 51, as they battle to emerge as the chief alternative to Trump.
-
-Trump, 77, won by an unprecedented margin for an Iowa Republican contest, strengthening his case that his nomination is a foregone conclusion given his massive lead in national polls.
-
-“THANK YOU IOWA, I LOVE YOU ALL!!!” Trump wrote on his social media platform, Truth Social.
-
-With 95% of the expected vote tallied, Trump had 51%, while DeSantis was at 21% and Haley 19%, according to Edison Research. The largest margin of victory for an Iowa Republican caucus had been 12.8 percentage points for Bob Dole in 1988.
-
-Entrepreneur Vivek Ramaswamy ended his long-shot presidential bid after earning just under 8% of the vote on Monday and endorsed Trump in a speech to supporters.
-
-If Trump finishes above 50%, winning more than all his rivals combined, it will further weaken his opponents’ argument that his march to the nomination can be derailed.
-
-His performance reflected his popularity among Republican voters - even after two impeachments, his involvement in the Jan. 6, 2021, attack on the U.S. Capitol by a mob of supporters and his 91 criminal charges for trying to overturn the 2020 election, retaining classified documents after leaving the White House and falsifying records connected to hush money payments to a porn star.
-
-Nearly two-thirds of caucus-goers embraced his false claims about voter fraud, saying they did not think Biden legitimately won the presidency. More than 60% said Trump would still be fit to serve as president even if convicted of a crime.
-
-Trump dominated across the board, according to an Edison entrance poll: he won a majority among men and among women; among those who consider themselves very conservative, somewhat conservative and independent; among those who graduated college and those who did not.
-
-He captured a majority of Republicans who put immigration as their top concern - and a majority of those who said the economy was their main worry.
-
-“The Iowa caucus results demonstrate the strength of Trump’s grip on the Republican Party,” said Jimmy Centers, an Iowa-based Republican strategist. “Absent a quick consolidation of the field, Trump appears to be on a fast track to the nomination.”
-
-That consolidation appears unlikely, with both DeSantis and Haley vowing to press ahead following Monday’s results, ensuring Trump’s opposition will remain fractured as the campaign moves to other states.
-
-DeSantis in particular had wagered his campaign on Iowa, barnstorming all of its 99 counties and pouring resources into the state.
-
-“We’ve got our ticket punched out of Iowa!” DeSantis told supporters in West Des Moines on Monday.
-
-Haley, who has enjoyed a steady rise in polls over the last few months, sought to position herself as the leading Trump challenger.
-
-“At one point in this campaign there were 14 of us running. I was at 2% in the polls,” Haley told a crowd of supporters. “When you look at how we’re doing, in New Hampshire, in South Carolina and beyond, I can safely say tonight Iowa made this Republican primary a two-person race.”
-
-Republicans in more moderate New Hampshire will choose their nominee eight days from now. Polls show Trump with a smaller lead over Haley there, with DeSantis far behind.
-
-Trump has aimed to create an air of inevitability around his campaign, skipping all five of the Republican debates thus far and largely eschewing the county-by-county politicking that most candidates do ahead of the Iowa vote.
-
-Iowans braved life-threatening temperatures to gather at more than 1,600 schools, community centers and other sites for the state’s first-in-the-nation caucus, as the 2024 presidential campaign officially got under way after months of debates, rallies and advertisements.
-
-“Trump is very narcissistic, he’s very cocky, but he’s going to get stuff done,” said Rita Stone, 53, a Trump backer, who attended a caucus at a West Des Moines high school. Like many other voters, Stone said her leading concern was the U.S. southern border with Mexico, praising Trump’s effort to build a wall when he was president.
-
-Unlike a regular election, Iowa’s caucus requires voters to gather in person in small groups, where they cast secret ballots after speeches from campaign representatives.
-
-Edison projected there would be approximately 120,000 votes counted, far short of the record 187,000 cast in the 2016 Republican caucus.
-
-With the cold weather depressing turnout, Trump’s grip on his most loyal supporters may have given him an edge.
-
-Iowa Democrats did not vote on Monday for their presidential nominees because the party has reshuffled its nominating calendar to put states with more diverse populations ahead of Iowa this year. They will cast their ballots by mail, with the results to be released in March.
-
-Iowa has historically played an outsized role in presidential campaigns due to its early spot on the campaign calendar.
-
-But the winner of Iowa’s Republican caucuses did not go on to secure the nomination in the last three competitive contests in 2008, 2012 and 2016.
-
-A political battleground that backed Democrat Barack Obama in 2008 and 2012, the state is now seen as reliably Republican in presidential elections as registered Republicans edge out Democrats.
-
-### 72 தொழிற்சங்கங்கள் பணிப்பகிஷ்கரிப்பு
-
-*2024-01-16 11:10:38 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/72-தொழிற்சங்கங்கள்-பணிப்பகிஷ்கரிப்பு/175-331570)*
-
-72 தொழிற்சங்கங்கள் இன்று(16) காலை 06.30 முதல் பணிப்பகிஷ்கரிப்பை ஆரம்பித்துள்ள நிலையில் குறித்த பணிப்பகிஷ்கரிப்பு நாளை(17) காலை 08 மணி வரை முன்னெடுக்கப்படவுள்ளதாக நிறைவுகாண் மருத்துவ தொழில்வல்லுநர்களின் கூட்டமைப்பின் ஏற்பாட்டாளர் ரவீ குமுதேஷ் தெரிவித்தார்.
-
-வைத்தியர்களுக்கான சேவைக்கால இடையூறு, வருகை மற்றும் போக்குவரத்து கொடுப்பனவு எனப்படும் DAT கொடுப்பனவை 35,000 ரூபாவினால் அதிகரிக்கவுள்ளதாக நிதி அமைச்சர் என்ற வகையில் ஜனாதிபதி அண்மையில் அமைச்சரவைக்கு அறிவித்திருந்தார்.
-
-இந்தநிலையில்,சுகாதார ஊழியர்களுக்கு நீதி கோரி சுகாதார தொழிற்சங்க கூட்டணியின் அடையாள வேலைநிறுத்தத்துடன் இணைந்து இன்று (16) காலை சுகாதார ஊழியர்கள் கொழும்பு தேசிய வைத்தியசாலைக்கு முன்பாக பணிப்பகிஷ்கரிப்பை ஆரம்பித்தனர்.
-
-சுகாதார தொழிற்சங்கங்களின் பிரதிநிதிகளுக்கும் நிதி அமைச்சுக்கும் இடையிலான விசேட கலந்துரையாடல் இன்று முற்பகல் 11.00 மணிக்கு இடம்பெறும் என தெரிவிக்கப்பட்டிருந்தது.
-
-இக்கலந்துரையாடலின் முன்னேற்றத்திற்கு அமைய அடையாள வேலைநிறுத்தம் முடிவுக்கு கொண்டுவரப்படும் என சுகாதார தொழிற்சங்க பிரதிநிதிகள் தெரிவித்தனர்.

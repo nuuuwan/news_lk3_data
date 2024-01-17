@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 11:27:52**
+As of **2024-01-17 12:27:49**
 
 ## Newspaper Stats
 
@@ -8,7 +8,7 @@ As of **2024-01-17 11:27:52**
 
 * bbccomsinhala: 27
 
-* newsfirstlk: 40
+* newsfirstlk: 44
 
 * virakesarilk: 48
 
@@ -20,15 +20,89 @@ As of **2024-01-17 11:27:52**
 
 * tamilmirrorlk: 75
 
-* dailyftlk: 97
+* dailyftlk: 106
 
 * dbsjeyarajcom: 112
 
 * adalk: 119
 
-* **Total**: **709**
+* **Total**: **722**
 
 ## Latest Articles (100)
+
+### Sri Lanka Receives 117 Tonnes of Sunflower Oil
+
+*2024-01-17 11:15:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/sri-lanka-receives-117-tonnes-of-sunflower-oil/)*
+
+COLOMBO (News 1st); The Russian Federation has delivered 117 tonnes of sunflower oil to Sri Lanka as humanitarian assistance. The donation, handed over by Russian Ambassador Levan S. Dzhagaryan, was received with gratitude by Sri Lankan officials.
+
+"This is the second batch of vegetable oil we have provided to Sri Lanka since September last year," Ambassador Dzhagaryan said during the handover ceremony. "We hope to continue our support, not only to the friendly people of Sri Lanka, but also to other countries in need across Africa and Asia."
+
+The Ambassador acknowledged the ongoing challenges facing Russia, including international sanctions. He emphasized, however, that "thanks to the government's policies and President Putin's leadership, the Russian Federation has overcome many difficulties and emerged as Europe's top economy and the world's fifth, behind China, the United States, India, and Japan." He added, somewhat surprisingly, "It sounds a bit ironic, but thanks to the sanctions, we have boosted our domestic production and are moving forward under my president's guidance."
+
+The sunflower oil donation comes amid a difficult period for Sri Lanka, with the country grappling with an economic crisis. The aid is aimed at supporting Sri Lankan households facing food shortages and rising prices.
+
+Reforms starting to pay off! Kristalina tells Ranil in Davos
+
+Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
+
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+
+### BREAKING: Supreme Court Declares Duminda Silva Pardon Unlawful
+
+*2024-01-17 10:45:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/breaking-supreme-court-declares-duminda-silva-pardon-unlawful/)*
+
+COLOMBO (News 1st); Sri Lanka's Supreme Court has unanimously ruled that the presidential pardon granted to former MP Duminda Silva by ex-President Gotabaya Rajapaksa was unlawful.
+
+Silva, alongside four others, was convicted in 2016 by the High Court for the 2011 murder of politician Bharatha Lakshman Premachandra.
+
+All five received the death penalty, a verdict later upheld by a five-judge bench of the Supreme Court.
+
+However, following his election victory in 2019, Gotabaya Rajapaksa unexpectedly granted a pardon solely to Silva.
+
+Three separate fundamental rights petitions challenging the legality of the pardon were subsequently filed with the Supreme Court.
+
+The fundamental rights applications were filed by Hirunika Premachandra, her mother Sumana Premachandra, and Former Human Rights Commissioner Ghazali Hussain, PC.
+
+After careful consideration, the bench, comprising Justices P. Padman Surasena, Gamini Amarasekera, and Arjuna Obeysekera, unanimously concluded that the pardon process was flawed and therefore unlawful.
+
+Reforms starting to pay off! Kristalina tells Ranil in Davos
+
+Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
+
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+
+### Reforms starting to pay off! Kristalina tells Ranil in Davos
+
+*2024-01-17 10:24:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/reforms-starting-to-pay-off-kristalina-tells-ranil-in-davos/)*
+
+COLOMBO (News 1st); International Monetary Fund (IMF) Managing Director Kristalina Georgieva met with Sri Lankan President Ranil Wickremesinghe at the World Economic Forum in Davos, Switzerland, and took the opportunity to praise the country's economic reform efforts.
+
+Georgieva highlighted the significance of the IMF Board's approval of the first review of Sri Lanka's Extended Fund Facility (EFF) program in December 2023. This approval, she stated, "was a recognition of the important reforms Sri Lanka has pursued."
+
+Expressing optimism about the progress made, Georgieva further declared, "These reforms are starting to pay off!"
+
+At a separate event on the sidelines of the World Economic Forum, President Ranil Wickremesinghe offered a cautiously optimistic outlook on Sri Lanka's economic recovery, highlighting progress in debt restructuring and praising the IMF's recent program review.
+
+Wickremesinghe described his surprise when a visiting IMF team acknowledged Sri Lanka's "over-performance" in tackling the ongoing economic crisis.
+
+He underscored the severity of the crisis, stating that "it affected all adversely," and reiterated the importance of the debt restructuring agreement reached with the IMF.
+
+"There is no other way out for Sri Lanka," Wickremesinghe emphasized, acknowledging the crucial role in facilitating negotiations with the country's creditors.
+
+According to Wickremesinghe, all of Sri Lanka's official creditors have agreed in principle to restructure debt in line with the IMF's target requirements. The next hurdle lies in finalizing discussions with commercial creditors.
+
+The successful completion of the IMF's first program review in December 2023 further emboldens Sri Lanka's optimism.
+
+Wickremesinghe said this achievement is a turning point, paving the way for the economy to shift from stabilization to recovery and growth in 2024.
+
+He emphasized the need for continued commitment to IMF-backed reforms and reiterated the importance of transparency and accountability.
+
+Reforms starting to pay off! Kristalina tells Ranil in Davos
+
+Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
+
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
 
 ### செங்கடலில் பதட்டம்; கொழும்பு துறைமுகத்திற்கு கிடைத்த நன்மை
 
@@ -63,6 +137,18 @@ As of **2024-01-17 11:27:52**
 அவர்களிடம் விசாரணைகளின் பின்னர் கடற்தொழில் திணைக்கள அதிகாரிகள்  இன்று (17) புதன்கிழமை மன்னார் நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளனர்.
 
 இதேவேளை, படகுகளில் இருந்து பல ஆயிரக்கணக்கான கிலோ எடை கொண்ட குஞ்சு மீன்கள் மீட்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+### Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
+
+*2024-01-17 09:55:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/talk-of-the-town-charting-the-anti-corruption-landscape-piumi-madushani-17th-january-2024/)*
+
+Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
+
+Reforms starting to pay off! Kristalina tells Ranil in Davos
+
+Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
+
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
 
 ### அரச தாதியர்கள் இன்று பணிப்பகிஷ்கரிப்பில் !
 
@@ -212,9 +298,217 @@ In Gaza, fighting continued to rage, with a tentative deal reached for Qatar to 
 
 The UN in a statement late Tuesday said that almost the entire population of Gaza is going hungry and said Israel is “destroying Gaza’s food system and using food as a weapon against the Palestinian people”.
 
+Reforms starting to pay off! Kristalina tells Ranil in Davos
+
+Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
+
 MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
 
-Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
+### ICJ says new Bill to establish “Commission for Truth, Unity and Reconciliation” lacks credibility
+
+*2024-01-17 05:10:44 - [dailyftlk](https://www.ft.lk/opinion/ICJ-says-new-Bill-to-establish-Commission-for-Truth-Unity-and-Reconciliation-lacks-credibility/14-757436)*
+
+The International Commission of Jurists (ICJ) in a statement said it considers the Government’s proposed Bill to establish a Commission for Truth, Unity and Reconciliation unlikely to advance accountability for perpetrators and justice for victims and survivors of the 26-year-long armed conflict that ended in 2009 and involved widespread atrocities.
+
+The ICJ is concerned that the lack of consultation with victim communities and the continued neglect of their demands deprive the Bill of legitimacy.
+
+A draft Bill on Commission for Truth, Unity and Reconciliation was gazetted on 1 January 2024, to establish the Commission, amidst a climate of impunity for past human rights violations and abuses and intimidation of victim communities in the north and east of the country.
+
+“Considering the repressive political climate in Sri Lanka, and the absence of the conditions that are necessary to ensure the success of the proposed Commission for Truth, Unity and Reconciliation, the Bill appears to be more of a legislative manoeuvre aimed at deflecting the attention of the Human Rights Council and removing Sri Lanka from further scrutiny rather than a genuine accountability measure,” said ICJ’s Asia Director Melissa Upreti.
+
+The Bill suffers from a lack of transparency regarding the consultation process and non-acceptance by victim communities.
+
+If adopted, it would empower the Attorney-General to prosecute cases where the Commission makes a finding of responsibility for an offence. The ICJ is concerned that in the past the Attorney-General’s office has assumed potentially conflicting dual roles of legal advisor for the State and prosecutor of offences allegedly committed by State officials. The ICJ has previously noted how the Department had mishandled cases relating to serious human rights violations and abuses which has contributed to a climate of mistrust. The ICJ recalls that the years since the end of the conflict have been marked by near total impunity for conflict era crimes, owing to the failure of the Attorney-General’s Department to act to hold to account those responsible for serious crimes under international law.
+
+The Bill provides that appointments to the Commission will be made by the President upon the recommendation of the Constitutional Council. The ICJ has previously noted that the governing party holds a majority in the Constitutional Council and that a majority of members are parliamentarians with only three members appointed from outside. Further, a representative of the smaller political parties (including parliamentarians representing the north and east) is yet to be appointed to the Council. The ICJ is concerned that these arrangements are conducive to creating a Commission that lacks independence and may be subjected to political pressures and considerations in carrying out its work. The situation is exacerbated by the Constitutional Council approving the appointment of the current Acting Inspector General of Police who had in December 2023 been held directly responsible for torture by the Supreme Court of Sri Lanka.
+
+The Bill would further authorise the proposed Commission to seek the assistance of the police to conduct investigations and liaise with the National Authority for the Protection of Victims of Crime and Witnesses, which in turn depends on the police to provide support for the protection of victims and witnesses. However, a number of police officials have allegedly been responsible for recent cases of torture and ill-treatment and extra judicial killings. The Government’s failure to initiate thorough and impartial investigations into these cases and to bring perpetrators to justice has deepened the public’s mistrust of the police and prosecuting agencies.
+
+Successive UN Human Rights Council Resolutions on Sri Lanka have called for the establishment of transitional justice mechanisms with the active participation of all stakeholders, including women who have been at the forefront in leading victim demands for accountability, particularly for cases of enforced disappearance. Yet, protesting mothers and female family members of the disappeared are routinely detained, intimidated or put under surveillance and their voices suppressed.
+
+The Bill lacks also provisions that are gender responsive and makes the establishment of mechanisms and procedures to address women’s concerns discretionary.
+
+Existing transitional justice institutions such as the Office of Missing Persons (OMP) and the Office for Reparations have been ineffective. As underscored by the UN Office of the High Commissioner for Human Rights, the OMP has failed to earn the trust of victims and their representatives. As recently observed by the High Commissioner, there has been little to no development regarding cases of past human rights violations and abuses.
+
+“The victims of Sri Lanka’s 26-year armed conflict, replete with atrocities, have been forced to wait too long to learn the truth about their loved ones and to be granted justice. When the UN Human Rights Council considers a new resolution on Sri Lanka later this year, it must avoid blind acceptance of Sri Lanka’s flawed transitional justice process and institutions and adopt an approach that genuinely puts the interests of victims and survivors first,” added Upreti.
+
+The draft Bill provides for the establishment of the Commission with a Head Office based in Colombo and Regional Offices as necessary (clause 2). The Commission will have between seven to twenty-one members, who are to be appointed by the President upon recommendation by the Constitutional Council (clause 3). The term of the Commissioners is five years (unless removed earlier) and the President can extend their term on a yearly basis for an additional two years (clause 9). The Commission may conduct public or closed sittings as necessary (clause 7).
+
+The stated objectives of the Commission are to investigate, inquire and make recommendations in respect of complaints or allegations or reports relating to damage or harm caused to persons or property, loss of life or alleged violation of human rights which occurred during the conflict in the Northern and Eastern Provinces between 1983 to 2009 or connected to such period or its aftermath and has a mandate to promote truth telling and make recommendations for reparations, and non – recurrence (clause 12). If it appears to the Commission that an offence under any Sri Lankan law has been committed it may refer the matter to the relevant law enforcement or prosecuting authorities for further investigation and necessary action (clause 13 (zd)). The Commission does not have the mandate to determine civil or criminal liability of any person (Clause 16 (1)) and instead the onus is on the Attorney-General to institute criminal proceedings regarding an offence in Court based on material collected by the Commission (clause 16 (2)).
+
+The Bill also provides for the establishment of a Victim and Witness Protection Division (clause 28) and a Data Management Division (clause 29). The Commission may also appoint any mechanisms and procedure to address requirements related to women, children, persons with disabilities and disadvantaged groups and advisors relating to specific issues (clause 30).
+
+The Bill also provides for the appointment of an advisory panel to advise the Commission on matters referred to the Panel (clause 32). This panel is to consist of a minimum of ten members appointed by the President on the Commission’s recommendation. Clause 39 of the Bill states that within one month of the interim report of the Commission being published the President shall appoint a monitoring committee to implement the findings of the report. Clause 40 states that such Committee be comprised of 11 members, of which six members are to be recommended by the Constitutional Council while the others are members ex-officio. Ex-officio members include the Secretaries of the Ministries of Defence, Justice, Law & Order, Finance, Public Administration & Women, Child Affairs and Social Empowerment or their nominees.  The Committee is expected so submit bi-annual plans evaluating the implementation of recommendations of the TUR Commission and other previous Commissions of Inquiry.
+
+Clause 49 of the Bill states that the Commission can defer its investigation regarding any disappearance of a person/s if requested to do so by the OMP until such time it can be resumed without compromising inquiries conducted by the OMP.
+
+In September 2023, the ICJ joined eight other international human rights organizations in expressing their grave reservations about the proposed Truth, Unity and Reconciliation Commission and setting out prerequisites to be addressed before appointing any new Commission. The concerns relate to Sri Lanka’s legacy of failed commissions, lack of a conducive environment and confidence building efforts, lack of meaningful consultations with victim communities, the failure of domestic transitional justice institutions, and the blocking of prosecutions. None of these concerns have been addressed to date, which bring into question the newly proposed Commission’s likelihood of serving as an effective mechanism for accountability.
+
+### Commission for Truth, Unity, and Reconciliation in Sri Lanka- A Bill
+
+*2024-01-17 05:09:10 - [dailyftlk](https://www.ft.lk/columns/Commission-for-Truth-Unity-and-Reconciliation-in-Sri-Lanka-A-Bill/4-757435)*
+
+As long as impunity prevails, SL will achieve neither genuine reconciliation nor sustainable peace - UN Deputy High Commissioner of Human Rights
+
+The Government has published a Bill to establish the Commission for Truth, Unity and Reconciliation in Sri Lanka in the Gazette of 29 December, 2023 that was issued on January 1, 2024.  The Foreign Affairs Minister discussed this initiative with a group of civil society, and it was once again discussed during the preparation of the Bill.
+
+We had Presidential Commissions of Inquires such as, the Udalagama Commission in 2006 to investigate and inquire into alleged serious violations of human rights arising since 1 August, 2005; the C.R.De Silva Commission in May 2010 on Lessons Learnt and Reconciliation (LLRC); and the Paranagama Commission in August 2013 to investigate Complaints of Abductions and Disappearances, in respect of the armed ethnic conflict that ended in 2009.
+
+All these commissions were established under the Commissions of Inquiry Act, by the President. However, the recommendations were hardly implemented.
+
+The following was stated by the UN Deputy High Commissioner of Human Rights during the oral update at the 53rd session of the Human Rights Council in June 2023.
+
+“The announcement of plans for a Truth Commission or similar reconciliation mechanisms requires attention. Sri Lanka has witnessed too many ad hoc commissions in the past that failed to ensure accountability. The Office on Missing Persons has not achieved the results that provide satisfaction to victims. What is needed is a coherent plan that connects the different elements of truth, redress, memorialisation, accountability and creates the right enabling environment for a successful and sustainable transitional justice process. Accountability remains the fundamental gap in attempts to deal with the past. As long as impunity prevails, Sri Lanka will achieve neither genuine reconciliation nor sustainable peace.”
+
+Under the recommendations of the UNHRC resolution A/HRC/51/5 in October 2022, it was stated as follows:
+
+“Prepare a comprehensive strategy on transitional justice and accountability, with a time-bound plan to implement outstanding commitments, including taking steps in relation to the establishment of a credible truth-seeking mechanism and an ad hoc special court, as well as security sector reform and vetting, and re-energise the Office on Missing Persons and the Office for Reparations to ensure that they can discharge their full mandate independently and effectively.”
+
+The LLRC recommended conducting investigations and prosecuting offenders and justified it as follows:
+
+“It is also the obligation of the Government to clear the good name and protect the honour and professional reputation of soldiers who defended the territorial integrity of Sri Lanka and particularly the many thousands of soldiers who perished carrying out their combat duties cleanly and professionally against a widely condemned terrorist group that used most inhumane tactics in combat. Offences if any, of a few cannot be allowed to tarnish the honour of the many who upheld the finest traditions of service.”
+
+Therefore, the intention of the Government is to address all outstanding issues that were repeatedly emphasised by many. It is a switch from presidential commissions of inquiries of which the implementation of the recommendations was not acceptable, to a Parliamentary Act with wider scope and a mechanism of implementation of the recommendations.
+
+The objective of the Sri Lankan Bill according to Section 12(1),is that the Commission shall investigate, inquire, and make recommendations in respect of complaints, or allegations, or reports relating to damage or harm caused to persons or property, loss of life or alleged violation of human rights anywhere in Sri Lanka, that were caused in the course of, or reasonably connected to, or consequent to the conflict that took place in the Northern and Eastern Provinces during the period 1983 to 2009, or its aftermath.
+
+In Section 12(2) it was stated that subject to the provisions of subsection (1), the mandate of the Commission includes several points that were described in sub sections running from (a) to (l).
+
+Sub section (h)(xii)  is as follows: “Investigating and making recommendations in respect of the allegations of damage or harm caused to persons or property or loss of life or alleged violation of human rights referred to in subsection (1), including making findings in regard to those responsible for the commission of the alleged violations and abuses referred to in subsection (1), including those who advised, planned, directed, commanded or ordered such atrocities.”
+
+The Commission can refer matters to the relevant law enforcement or prosecuting authorities of Sri Lanka for further investigation and necessary action, where it appears to the Commission that an offence or offences punishable under the Penal Code(Chapter 19) or any other law of Sri Lanka has been committed (Section 13 zd).
+
+According to Section 16(2), it shall be lawful for the Attorney-General to institute criminal proceedings in a designated court of law in respect of any offence based on material collected in the course of an investigation or inquiry or both, as the case may be, by the Commission established under this Act. This content was also in Section 24 of the Commissions of Inquiry (Amendment) Act No 16 of 2008.
+
+Therefore, the provisions of the Bill are in line with the thinking of the UNHRC and LLRC in relation to accountability.
+
+In South Africa, The Truth and Reconciliation Commission was established by the Promotion of National Unity and Reconciliation Act No 34 of 1995. The main objectives of the South African Commission was to establish the complete picture of nature, causes and the extent of gross violations of human rights during the specified period, facilitating the granting of amnesty to persons who make full disclosure of the relevant facts,  establishing and making known the fate of victims by granting them an opportunity to relate their own account of violations, and compiling a comprehensive report with recommendations to prevent the future violations of human rights.
+
+We can discern that the objective of the Sri Lankan Bill is fundamentally different to the South African Act. In South Africa no party has denied that atrocities were committed and both parties to the conflict admitted that. South Africa wanted to heal their wounds and move forward. Hence, the concept of revealing the truth followed by amnesty came in.
+
+The term of the commission is five years and it could be extended by another 2 years. The provisions of the Bill are action oriented. The criticisms of the fate of the previous Presidential Commissions of Inquiries were addressed in the Bill and remedial actions taken.
+
+After submitting the interim reports biannually or the final report to the President, the Commission should release those to the media in all three languages and within 21 days the President should table it in Parliament (Section 15).  Within one month from the date of publication of the first interim report, the President shall establish a Monitoring Committee to monitor and facilitate the implementation of the recommendations of the Commission (Section 39).
+
+The Monitoring Committee shall consist of five ex-officio secretaries to specific ministries and six members recommended by the Constitutional Council and appointed by the President. The Committee shall submit bi-annual reports to the President every six months, evaluating the efforts of the Government and the efforts of any other person or body concerned to implement the recommendations of the Commission and other previous Commissions of Inquiry and the President shall table such reports in Parliament not later than two weeks from the receipt of such report (Section 40).
+
+Finally, Parliament may take cognisance of the recommendations based on interim reports or the final report, as the case may be, and pass such resolution it may consider necessary to promote national unity and reconciliation (Section 16).
+
+It seems the President and the Government are making reforms in a slow and steady manner not only in the economic front but also in the political front, although there are widespread concerns about some of the actions of the President. Once the President attempted to implement the 13 Amendment to the Constitution in full. There was criticism against him that attempting unpopular reforms on both fronts simultaneously would be detrimental in a future election. However, it appears this is not a concern for him.
+
+### DAT and Tit for Tat fight for equality
+
+*2024-01-17 05:05:39 - [dailyftlk](https://www.ft.lk/columns/DAT-and-Tit-for-Tat-fight-for-equality/4-757434)*
+
+Last week, according to media reports all Government hospitals were almost completely closed. Except for sensitive and crucially important places like the Apeksha cancer hospital, the Lady Ridgeway children’s hospital, Emergency admissions and Cardiac treatment, all others were reported closed from Tuesday to Friday and came back to normalcy by Saturday morning. Not due to lack of medicines or other necessities, but due to a string of work stoppages by all hospital staff other than the medical doctors.
+
+They were all protesting against the Government’s decision to double the Rs.35,000 per month DAT allowance of medical doctors to Rs.70,000, ignoring all others in the health sector. Health sector trade unions including nurses, paramedics, ophthalmologists, family health and even public health inspectors demanded an increase in their allowances by Rs.35,000 per month. Paramedics were reported as having threatened to go on a continuous strike, “if the Government fails to address the issue.” That was to say, they want the issue settled with a Rs.35,000 increase in their take home pay.
+
+They justify their demand on the grounds that, if medical doctors cannot survive the increase in the cost of living with their present take home salary and PP income, if they need such increase in their take home pay with the DAT allowance doubled, then none in the health sector would survive with their present salaries. Most in lower categories do not even have a “take home pay” as large as that of the increase of DAT allowance to Rs.70,000 said a hospital staff, when I queried about their demand for an equivalent to the DAT increase. A trained Government nurse with five years’ service would get only Rs.46,000 I was told.
+
+GMOA Secretary Dr. Haritha Aluthge is on record saying, there is no justification in demanding an increase equivalent to that of DAT by others. He asked where on earth support staff in the judicial system gets wage increases similar to those given to Judges. That argument by the GMOA boss against salary increases for others in the health sector cannot be compared to that of Judges by any means. Judges do not have overtime pay as doctors do. Nor do Judges indulge in private practice as doctors do. Doctors in Government service enjoy both overtime pay and PP, in total violation of medical ethics and morals. Aluthge’s argument thus exposed the nauseating ego and the selfish mindset of the GMOA. DAT by itself is no legitimate allowance, the GMOA forced the then Government to accept at the expense of innocent patients in Government hospitals held captive. Not only DAT, every salary increase and privilege the medical doctors enjoy has been at the expense of these patients.
+
+I believe, people should know what DAT is that they would have to shoulder with the massive increase announced. DAT is an exclusive monthly allowance paid to Government medical doctors in hospitals. DAT stands for “Disturbance, Availability and Transport”. It is about medical doctors being called while off duty to attend to warded patients in the hospital he or she is posted in. What the GMOA says is, if medical doctors are “disturbed” when off duty and called to attend to a patient and if they make themselves “available” despite being off duty, they should be paid for all that and that is the DAT allowance.
+
+There are around 13,000 medical doctors attached to hospitals out of the 17,000 plus medical doctors in Government service. Of them, only about 11,000 take care of patients in hospital wards and OPDs.
+
+Technically they are the only medical doctors who should be qualified for DAT. Qualifying for DAT does not necessarily mean they have to be paid the DAT allowance every month. According to its explanation DAT is for doctors that make such visits. How many medical doctors are disturbed on an average and make themselves available for such calls during a month? Does it mean a single visit a month would qualify a doctor to have the now increased monthly DAT allowance of Rs.70,000?
+
+DAT has no criteria. It carries with it a consciously camouflaged aberration in implementation. Though expressed as “off duty hospital visits” DAT is a lump sum monthly allowance. There are no calculations possible for single visits in DAT. Therefore, no individual records of frantic calls for doctor visits to hospitals are necessary. DAT monthly allowance was approved by the Treasury on principle and it is now doubled from this January as approved by the Cabinet of Ministers. I would therefore, not be surprised if all 17,000 plus Government medical officers are paid DAT, including those released from service for trade union work or for funded projects.
+
+There is illegitimacy and immorality in most privileges that Government medical officers (GMO) enjoy. Perhaps in the whole world, 17,000 plus Government medical doctors remain the only public sector that enjoy the right to be on duty without recording their time of arrival for duty and departure, but have the right to claim overtime. They definitely are the only unique profession in public service who have the right to claim overtime payments based on their personal entries made in their own private diaries.
+
+It has now become a practice for GMOs to demand anything they wish holding the innocent patients to ransom. The demand to double the DAT was no different. This being a year of election aspirations the Government was hesitant in antagonising them, regarding them as “social influencers”. But that may not be the case with paramedics and supporting staff, who are not thought of as “social influencers”. That would by implication make this DAT increase an “election graft”. We know of election budgets, price reductions, samurdhi benefits and such that come as election grafts. What we do not know or do not want to know is most such Government decisions should be brought to Parliament and debated before implementation, if they are not proposals included in the Annual Budget approved by Parliament, for the simple reason, the Constitution holds Parliament as the sole authority on public finance.
+
+This should therefore apply to the DAT increase that is about public finances. If all 17k plus GMOs are to be paid  DAT, the burden on the already economically hunched people would be a colossal sum of about Rs. 14.5 billion this year alone. Therefore, on principle Parliament should know what categories of medical doctors are paid DAT. Are medical doctors in health administration paid DAT? Should it be a flat monthly allowance, instead of a “payment on visit”? What would the Annual Budget be, if DAT is paid on visits? Should not these details be made available to Parliament for this massive sum to be approved and allowed?
+
+Why all that should be brought to Parliament for approval is for the people to know how their heavily overtaxed money is disbursed and for what. It is about transparency and accountability that is at present absent. It is about holding political leaderships in Government accountable to the people. It is also about de-politicising such decisions that lack policy and principles and therefore, allows for political patronage.
+
+In conclusion, let me therefore, say this for future consideration. Except on two rare occasions, when the President Kumaranatunge and the Sirisena-Wickremesinghe Governments under worker pressure increased private sector salaries by Rs.1,000 and 2,000 respectively on “budgetary relief allowances” Governments cannot technically decide salary increases for the private sector employees, who are also taxpayers, mostly as contributors to the 80 % indirect tax. This has left a yawning income disparity between the larger majority of the private sector workers and the public sector. Yet it is this private sector employee and not the public sector employee that earn the much needed “dollar income” to the country on which others live as comfortable as they could be. It is therefore important to have a system that would allow respectability and reasonable treatment for the private sector employees too in decision making. Trade unions should therefore demand a “National Labour and Employment Policy” to be adopted in Parliament that would establish an independent “National Wages Commission” wholly responsible to Parliament to decide on wage demands and increases of both public and private sectors. The Labour and Employment policy should seriously consider a “six-hour working day in a five-day working week” for employees to have adequate free time for recreation and entertainment. It is now an accepted fact that employees with job satisfaction and free time are far more productive than the present day highly overworked employees. The “National Wages Commission” should announce an annual “Minimum National Living Wage” that for sure would have to be above Rs.75,000 per month this year, if based on numbers in the latest Household Income and Expenditure Survey (HI&ES) of the Census and Statistics Department.
+
+But I doubt, the politicised public sector trade unions including the GMOA would go for such a proposal. For they will not be able to use political patronage and muscle power as they do now to push Governments to decide for them.
+
+### International commercial mediator training and accreditation program in Sri Lanka
+
+*2024-01-17 04:49:40 - [dailyftlk](https://www.ft.lk/business/International-commercial-mediator-training-and-accreditation-program-in-Sri-Lanka/34-757426)*
+
+Initiative via collaboration between UDecide Mediation platform and SAGE Mediation Singapore
+
+To expand the opportunities for Sri Lankan professionals to equip themselves with international mediation skills, UDecide mediation platform in collaboration with Sage Mediation, will be launching the first of its kind International Commercial Mediator Training and Accreditation program in Sri Lanka.
+
+The program was specially developed by Sage Mediation, an international mediation firm based in Singapore, and will be led by its CEO Aloysius Goh. Completion of the workshop will set participants on the path to achieving accreditation under the Singapore International Mediation Institute, as well as the Swiss Chamber of Commercial Mediators. This first iteration will be available at a special concessionary rate marking Sage Mediation’s commitment to promoting high-quality mediation practices around the world.  UDecide Mediation Platform and Sage Mediation, is inviting professionals from diverse sectors to make use of this rare opportunity to equip themselves with international mediation skills to provide high-quality amicable dispute resolution services in Sri Lanka and outside.
+
+The United Nations Convention on Mediation (Singapore Convention on Mediation), is an endorsement of the suitability of mediation for commercial dispute resolution worldwide. Sri Lanka signed the Convention on Mediation in 2019 and ratified the same on 10 January 2024. Against this backdrop, Sri Lanka now, more than ever, needs highly trained and qualified mediation professionals.
+
+### Bandara elected to CPA PNG Council for seventh consecutive year
+
+*2024-01-17 04:49:12 - [dailyftlk](https://www.ft.lk/business/Bandaraelected-to-CPA-PNG-Council-for-seventh-consecutive-year/34-757425)*
+
+P.M.N. Bandara, Senior Lecturer and Head of Department of Accounting of the University of Papua New Guinea has been elected to Council of Certified Practicing Accountants of Papua New Guinea (CPA PNG) for the year 2024 by member’s votes at the recently concluded general election for the seventh consecutive year.
+
+This is the prestigious apex body of professional accountant’s equivalent to Institute of Chartered Accountants of Sri Lanka. Bandara has written a number of accounting, economics and business studies textbooks for various levels of study in Papua New Guinea including universities and other tertiary institutions. He is also serving as a council member of a number of tertiary institutions and advisory boards of the department of education. He is instrumental in initiating new degree programs and revising existing programs in accounting at the University of Papua New Guinea accrediting diploma in accounting courses offered by the business and technical colleges.
+
+He has been serving in Papua New Guinea for the last 22 years. In recognition of his services to the country he has been awarded a prestigious national award known as Member of Logohu in 2018. This award was given to him on recommendation of the Governor General and approved by Queen Elizabeth. He is the current president of Sri Lanka – Papua New Guinea Friendship Foundation and Honorary Consul of Sri Lanka in Papua New Guinea. He is also appointed by the Minister for Justice as the Commissioner of Oaths.
+
+### 2023 tea crop improves marginally
+
+*2024-01-17 04:39:10 - [dailyftlk](https://www.ft.lk/business/2023-tea-crop-improves-marginally/34-757420)*
+
+Production increases at all elevation levels except for low-grown compared to 2022
+
+Sri Lanka’s tea crop improved marginally in 2023, reflecting the struggle for recovery after detrimental policy decisions and climate change.
+
+The cumulative production for the year 2023 was 256.04 million kilos, registering an increase of 4.20 million kilos compared with 251.84 million kilos in 2022.
+
+Data analysed by Forbes and Walker Research said all elevations have shown positive variances in the year 2023 aside from the low-grown elevation in comparison with the corresponding period of 2022.
+
+However, it noted that compared to 299.49 million kilos in 2021, cumulative production of 2023 shows a decrease of 43.45 million kilos. On a cumulative basis, all elevations also show a decrease over the corresponding period of 2021.
+
+High-grown elevation produced over 57.4 million kilos up by 2.50% year-on-year (YoY) whilst, medium elevation production was 41.29 million kilos up by 6.27% YoY and green tea production was at 2.28 million kilos up by 26.17% YoY. The low-grown elevation crop was down by 0.07% YoY to over 155 million kilos.
+
+Sri Lanka was optimistic that the tea output will exceed 260 million kilos by the end of 2023 recovering from the 26-year low in 2022.
+
+In December 2023, tea production increased mere 0.51% YoY to 19.81 million kilos vis-à-vis 19.71 million kilos of December 2022.
+
+Forbes and Walker Research confirmed that in December all elevations except for the low grown have shown an increase in comparison with the corresponding period of 2022. However, it said compared to 20.52 million kilos of December 2021, the production of December 2023 still shows a decrease of 0.71 million kilos.
+
+High-grown elevation produced over 4.46 million kilos up by 1.62% YoY whilst, medium elevation production was over 2.9 million kilos up by 2.38% YoY and the production of green tea was at 180,806 kilos up by 8.17% YoY. The low-grown elevation crop was down by 0.42% YoY to over 12.25 million kilos.
+
+Sri Lanka Tea Board Chairman Niraj de Mel outlining plans for 2024 insisted on the need for a strategic, unified approach to achieve common industry objectives, emphasising the importance of collaboration over working in isolation.
+
+### Lanka Impact Investing Network and ICBT launch Youth Startup Challenge 1.0
+
+*2024-01-17 04:38:15 - [dailyftlk](https://www.ft.lk/business/Lanka-Impact-Investing-Network-and-ICBT-launch-Youth-Startup-Challenge-1-0/34-757419)*
+
+Lanka Impact Investing Network General Manager Vishwanath Gunawardena (fourth from right) exchanging the MoU with ICBT CEO and Executive Director/Executive Dean of ICBT Campus Dr. Sampath Kannangara, in the presence of (from left): Lanka Impact Investing Network Executive Business Development and Partnerships Supeshala Samarawitharana, Executive Entrepreneurship Development Iresha Perera, ICBT Campus General Manager Sampath Perera, Chief Academic Officer Chandru Sandrasekaran, and Senior Lecturer and Student Placement Officer Anuruddha Yapa
+
+In a transformative collaboration dedicated to fostering entrepreneurship among the youth, Lanka Impact Investing Network (LIIN) and International College of Business and Technology (ICBT) proudly announce the formalisation of a historic Memorandum of Understanding (MoU).
+
+This pivotal agreement, signed by ICBT Campus CEO and Executive Director/Executive Dean Dr. Sampath Kannangara and Lanka Impact Investing Network General Manager Vishwanath Gunawa-rdena marks the commencement of the REVAMP Sri Lanka initiative.
+
+This visionary partnership aims to empower and uplift aspiring young entrepreneurs in Sri Lanka by establishing a dynamic bridge between academic excellence and industry relevance. Under the stewardship of LIIN, REVAMP Sri Lanka became the cornerstone for connecting young innovators with industry leaders, experienced mentors, and potential investors. The primary focus of this alliance, a commitment to fostering an inclusive and equitable entrepreneurship ecosystem for the youth in Sri Lanka, is to offer unparalleled opportunities, mentorship, and resources to emerging entrepreneurs, thus nurturing a vibrant and resilient entrepreneurial landscape in Sri Lanka.
+
+The MoU signing ceremony, graced by prominent figures signifies a significant leap forward in nurturing youth entrepreneurship.
+
+ICBT Campus’ Dr. Sampath Kannangara said: “We are delighted to collaborate with Lanka Impact Investing Network in this ground breaking initiative, with a laser focus on young entrepreneurs. We firmly believe that such partnerships can cultivate innovation and empower the next generation of business leaders, contributing to a dynamic and resilient entrepreneurial ecosystem in Sri Lanka.”
+
+The MoU signing unfolded as part of the grand unveiling of the REVAMP Sri Lanka - Youth Startup Challenge 1.0, underscoring LIIN’s commitment to instil an entrepreneurial spirit among the youth and contribute to the economic revitalisation of the country through an inclusive lens.
+
+This collaborative effort, generously funded by the Government of Canada through the World University Service of Canada (WUSC), underscores the dedication of LIIN and ICBT Campus to empower the youth, drive innovation, and contribute to the economic growth of Sri Lanka.
+
+### Health Minister promises talks on allowance parity amidst TU strike
+
+*2024-01-17 04:34:42 - [dailyftlk](https://www.ft.lk/news/Health-Minister-promises-talks-on-allowance-parity-amidst-TU-strike/56-757418)*
+
+Health Minister Dr. Ramesh Pathirana yesterday assured health trade unions that he would engage in a special discussion with the Ministry of Finance regarding their requests for an allowance comparable to the Rs. 35,000 granted to doctors recently.
+
+Minister Dr. Ramesh Pathirana provided this assurance while engaging with representatives from health trade unions at the Ministry of Health yesterday. The discussions aimed to address the demands raised by a coalition of at least 72 health service trade unions, excluding doctors, who initiated a 24-hour token strike on the same day.
+
+The unions initiated the strike with a demand for the inclusion of the Rs. 35,000 allowance, which is currently extended to doctors, for all individuals within the entire health services sector.
+
+Due to the island-wide strike, the Government was forced to deploy the military to ensure the normal functioning of state-sector hospitals as health-sector workers only engaged in essential duties and emergency services.
+
+Pathirana also extended an invitation to representatives of the trade unions to participate in the special meeting with the Ministry of Finance, a proposal that their leaders accepted. The Minister assured he would fight to ensure the rights of health sector employees and highlighted the commendations received by Sri Lanka’s health service.
 
 ### மருத்துவர்களின் சம்பளம் 35000 ரூபாவினால் அதிகரிக்கப்பட்டதா ?
 
@@ -245,6 +539,22 @@ Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 அப்படி இருந்தும் அதிகரித்த பாதுகாப்பு   செலவு ஏன் ஏற்படுகிறது என்ற கேள்விக்கான பதிலை தமிழர்கள் அதிகமாக வாழும் பகுதிகளில் குவித்து வைக்கப்பட்டுள்ள ஆயுதப்படையினர் மூலமாக அறிந்து கொள்ளலாம். கடந்த காலங்களில் இடம்பெற்ற தவறுகளை நேர்மையாக ஏற்றுக் கொண்டு பாதிக்கப்பட்டவர்களுக்கு நிவாரணம் வழங்கி இனங்களுக்கு இடையில் நல்லிணக்கத்தை ஏற்படுத்தி ஒன்றுபட்ட இலங்கைக்குள் கௌரவமான ஒரு தீர்வை வழங்குவதன் மூலமாகவே  ஆயுதப்படையினரை அங்கிருந்து அகற்ற முடியும்.
 
 எது எப்படி இருந்தாலும் பாதுகாப்பு செலவீனத்தை குறைப்பதாலும்  ஊழல் மிக்க அரசியல்வாதிகளில்  இருந்து நாட்டை மீட்டு எடுத்தால் மாத்திரமே வைத்தியர்களுக்கு  கண்துடைப்புக்காக வழங்கிய தொகையை விட அதிக சம்பள அதிகரிப்பை பெற முடியும் என்பதை அனைத்து அரசாங்க தொழிற்சங்கங்களும் உணரவேண்டும். அந்த நிலை ஏற்படுவதற்கு உரிய அழுத்தத்தை அனைத்து  தொழிற்சங்கங்களும் ஒன்றிணைந்து  பிரயோகிப்பதே சகல இலங்கையர்களும் தத்தமது சம்பள உயர்வை பெற்றுக்கொள்ளவும் நாட்டை பொருளாதார சீரழிவில் இருந்து நிரந்தரமாக மீட்டெடுக்கவும் உதவும் சாத்தியமான வழியாகும்.
+
+### Parliament to be prorogued on 24 January
+
+*2024-01-17 04:29:58 - [dailyftlk](https://www.ft.lk/news/Parliament-to-be-prorogued-on-24-January/56-757417)*
+
+The Parliamentary Affairs Committee led by Speaker Mahinda Yapa Abeywardena announced yesterday that the fourth session of the ninth Parliament is scheduled to come to an end on 24 January.
+
+The Speaker confirmed that the official termination date will be confirmed through a gazette issued by the President.
+
+Prior to being prorogued, parliamentary sessions are currently scheduled for 23 and 24 January, with 25 January designated as a Poya day. The second reading of the controversial Online Safety Bill is set to take place on these two days.
+
+After the conclusion of this term, more than fifty committees, including the Committee on Public Finance (CoPF) and the Committee on Public Accounts (CoPA) will cease to exist and will have to be reconstituted after prorogation.
+
+The ceremonial opening of the new assembly term by President Ranil Wickremesinghe is set to take place on 7 February. It is expected that Wickremesinghe will deliver a statement of Government policy at the commencement of the new Session.
+
+The third session of the ninth parliament concluded on 27 January 2023.
 
 ### பெண்ணின் சடலம் மீட்பு
 
@@ -1498,9 +1808,11 @@ Initial investigations suggest the killing may have been a reprisal for the vict
 
 Authorities confirmed that all four arrested individuals reside in the Keselwatta area.
 
-MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+Reforms starting to pay off! Kristalina tells Ranil in Davos
 
-Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
+Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
+
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
 
 ### AI தொழில்நுட்ப வலுவூட்டப்பட நாட்காட்டியை வெளியிட்டுள்ளது மக்கள் வங்கி
 
@@ -1582,9 +1894,11 @@ Sri Lanka has ambitious plans to fulfil its sustainable, green development agend
 
 It is clear that Sri Lanka’s renewable energy policy direction is underpinned by multiple motivations and drivers. Therefore investors can expect a high degree of policy continuity in this sector going forward as well. This is the best time to invest in Sri Lanka’s renewable energy journey, and I have no doubt such investments will generate significant value for shareholders and Sri Lanka’s consumers over the next several decades.
 
-MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+Reforms starting to pay off! Kristalina tells Ranil in Davos
 
-Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
+Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
+
+MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
 
 ### ஆடைகளை திருடிய எம்.பி இராஜினாமா
 
@@ -1830,196 +2144,8 @@ Lalith Jayasinghe was remanded on charges of interfering with the police investi
 
 The Former Senior DIG was charged with interfering with the police in order to prevent the arrest of then Deputy Minister Premalal Jayasekera, who was suspected of being involved in the crime.
 
-MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+Reforms starting to pay off! Kristalina tells Ranil in Davos
 
-Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
-
-### More details revealed in murder of “Bada Ranji”
-
-*2024-01-16 14:27:00 - [adaderanalk](https://www.adaderana.lk/news/96446/more-details-revealed-in-murder-of-bada-ranji)*
-
-Police have revealed that the person killed in the shooting incident reported near the “Randiya Uyana” housing scheme in Mattakkuliya last evening (15), was one of the individuals who managed the money transactions of the drug network of notorious drug trafficker “Pukudu Kanna”.
-
-Three unidentified individuals who arrived in a three-wheeler had shot at the victim, Sendil Arumugam Dushyanth, who is also known as “Bada Ranji”, at around 08.30 p.m. yesterday, the police said.
-
-He had been rushed to the Colombo National Hospital after suffering gunshot wounds to his chest and left arm, while he later succumbed to his injuries.
-
-Police suspect that the shooting may have been carried out by a rival gang also involved in drug trafficking.
-
-The Colombo-North Crimes Unit is conducting further investigations regarding the incident.
-
-### மின்சார கம்பியில் சிக்கி ஆசிரியர் மரணம்
-
-*2024-01-16 14:13:51 - [tamilmirrorlk](https://www.tamilmirror.lk/மலையகம்/மின்சார-கம்பியில்-சிக்கி-ஆசிரியர்-மரணம்/76-331588)*
-
-பாடசாலை ஆசிரியர்  ஒருவர் மரக்கறி தோட்டம்  ஒன்றில் மின்சார கம்பியில் சிக்கிய நிலையில் செவ்வாய்க்கிழமை (16) சடலமாக மீட்கப்பட்டதாக தலவாக்கலை பொலிஸார் தெரிவித்தனர்.
-
-தலவாக்கலை பாமஸ்டன்  தமிழ் பாடசாலையில் ஆசிரியராக கடமையாற்றும் பாமஸ்டன் தோட்டத்தை வசிப்பிடமாக கொண்டவருமான கே. விஸ்வநாதன் (வயது 58) என்பவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
-
-தமது வீட்டுக்கு அருகிலுள்ள மரக்கறி தோட்டமொன்றில் ஒருவர் வீழ்ந்து கிடப்பதை கண்ட பிரதேசவாசிகள் மற்றும் உறவினர்கள் அவரை லிந்துலை பிரதேச வைத்தியசாலைக்கு கொண்டு சென்றுள்ளனர். எனினும், ஏற்கெனவே அவர் உயிரிழந்துவிட்டார் என வைத்தியசாலையின் பிரதம வைத்தியர் தெரிவித்தார்.
-
-இது தொடர்பாக  லிந்துலை  பிரதேச வைத்தியசாலையின் பிரதம வைத்திய அதிகாரி அசேல சுரஞ்சித் கூறுகையில்,  வைத்தியசாலைக்குக் கொண்டுவரும் போதே  அவர் உயிரிழந்திருந்ததாக தெரிவித்தார்.
-
-### நிகழ்நிலை பாதுகாப்பு சட்டம் குறித்த ஆசிய இணைய அமைப்புகள் கரிசனை - டிரான் அலஸ் தெரிவிப்பது என்ன?
-
-*2024-01-16 14:13:00 - [virakesarilk](https://www.virakesari.lk/article/174056)*
-
-உலகின் பிரபல தொழில்நுட்ப நிறுவனங்கள் உள்ளடக்கிய  ஆசிய இணைய கூட்டமைப்பு விடுத்துள்ள வேண்டுகோள்களை ஆராய்ந்து வருவதாக தெரிவித்துள்ள பொதுமக்கள்பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்துள்ளார்.
-
-இணைய கூட்டமைப்பு முன்வைத்துள்ள வேண்டுகோள்களை ஆராய்;ந்த பின்னர் உள்வாங்ககூடியளவிற்கு அவற்றை உள்வாங்க தயார் எனஅவர் தெரிவித்துள்ளார்.
-
-முதலில் அவர்களின் பரிந்துரைகளில்  எவற்றை உள்வாங்க முடியும் என பார்க்கவேண்டும் என அமைச்சர் தெரிவித்துள்ளார்.
-
-இலங்கை அரசாங்கம்நிகழ்நிலை பாதுகாப்பு சட்ட மூலத்தை நிறைவேற்றுவதற்கு முன்னர் விரிவான திருத்தங்களை மேற்கொள்ளவேண்டும் என  கூகுள் மெட்டா அமேசன் உட்பட பாரிய தொழில்நுட்ப நிறுவனங்களை பிரதிநிதித்துவம் செய்யும் ஆசிய இணைய கூட்டமைப்பு வேண்டுகோள் விடுத்துள்ளது.
-
-பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலசிற்கு எழுதியுள்ள கடிதத்தில்  ஆசிய இணைய கூட்டமைப்பு இந்த வேண்டுகோளை விடுத்துள்ளது.உத்தேசசட்டமூலம் அதன் வடிவத்தில் தற்போது பல ஆபத்துக்களை கொண்டுள்ளது என ஆசிய இணையகூட்டமைப்பு தெரிவித்துள்ளது.
-
-நிகழ்நிலை பாதுகாப்பு சட்ட மூலம் தடை செய்யப்பட்ட அறிக்கைகள் என்பதை பரந்துபட்ட அளவில் வரையறை செய்கின்றது  இணையவழி கருத்துப்பரிமாறை சட்ட விரோதமாக்குகின்றது  என ஆசிய இணைய கூட்டமைப்பு தெரிவித்துள்ளது.
-
-இதன் காரணமாக தணிக்கை மற்றும் கருத்துவேறுபாடுகளை அடக்குதல் குறித்த கரிசனைகள் எழுந்துள்ளன எனவும் தெரிவித்துள்ளது.உத்தேச சட்டமூலத்தில் காணப்படும் குற்றங்கள் என தெரிவிக்கப்படும் விடயங்கள் பல ஏற்கனவே சட்டத்தில் உள்ளன இதன்காரணமாக சட்டநிச்சயமற்ற தன்மைதேவைக்கு அதிகமான தன்மை காணப்படுகின்றது எனவும் அந்த அமைப்பு தெரிவித்துள்ளது.
-
-தவறான அல்லது தீங்குஏற்படுத்தும் இணையவழி உள்ளடக்கங்களை குற்றமாக்குவது  என்பது கருத்துச்சுதந்திரத்தின் மீதான கடுமையான மற்றும் தேவையற்ற தடையாகும் எனவும் என ஆசிய இணைய கூட்டமைப்பு தெரிவித்துள்ளது.நிகழ்நிலை பாதுகாப்பு ஆணைக்குழு என்ற கட்டமைப்பு குறித்து புதிய சட்டமூலத்தில்  தெரிவிக்கப்பட்டுள்ளதை சுட்டிக்காட்டியுள்ள இந்த அமைப்பு இது அரசியல் தலையீடுகள் அதிகார துஸ்பிரயோகம் குறித்த அச்சத்தை  ஏற்படுத்துவதாகவும் குறிப்பிட்டுள்ளது.
-
-இலங்கையின் வளர்ச்சியடைந்து வரும் டிஜிட்டல் பொருளாதாரத்திற்கு இதனால் பாதிப்பு ஏற்படலாம் என தெரிவித்துள்ள பாரிய தொழில்நுட்ப நிறுவனங்கள் கட்டுப்பாட்டு சட்டங்கள் புத்தாக்கத்தையும் முதலீட்டையும் பாதிக்கலாம் எனவும் தெரிவித்துள்ளன.
-
-### எமது மக்கள் பிரநிதிகளை திருகோணமலையிலும் பெறுவதற்கான காலம் கனிந்துள்ளது -தமிழீழ விடுதலை இயக்கம்
-
-*2024-01-16 14:02:00 - [virakesarilk](https://www.virakesari.lk/article/174050)*
-
-தைப்பொங்கல் தினமான திங்கட்கிழமை (15) திருகோணமலை மாவட்ட தமிழீழ விடுதலை இயக்கம் சுங்க வீதியிலுள்ள தனது சொந்தக்கட்டிடத்தில்  தனது அலுவலகத்தை சம்பிரதாய பூர்வமாக கட்சி செயலாளரும் மட்டக்களப்பு பாராளுமன்ற உறுப்பினருமான ஜனா கருணாகரம், கட்சியின் உப தலைவர்களான  முன்னால் மாகாணசபை உறுப்பினர் பிரசன்னா, மற்றும் ஹென்றி மகேந்திரன் ஆகியோரால் கட்சி கொடியேற்றி ஆரம்பித்து வைக்கப்பட்டது.
-
-அதைத்தொடர்ந்து  வருகை தந்திருந்த ஆதரவாளர்கள் மத்தியில் உரையாற்றிய பாராளுமன்ற உறுப்பினர் ஜனா கருணாகரம்  மற்றும் உபதலைவர்களான நி.பிரசன்னா, மற்றும் ஹென்றி மகேந்திரன் ஆகியோர்  திருகோணமலை மாவட்ட நிர்வாகத்தினரின் செயற்பாடுகள் மக்கள் மத்தியில் நல்ல வரவேற்பை பெற்றுள்ளதாகவும். ஏனைய மாவட்ட நிர்வாகத்தின் செயற்பாடுகளைவிட ஒருபடி மேலாக இம்மாவட்ட கட்சியின் செயற்பாடுகள் இருப்பதாகவும்.
-
-தொடர்ந்து இவ்வாறே ஒற்றுமையாக செயற்படுவீர்களானால் இன்று மூன்று பாராளுமன்ற உறுப்பினர்களையும் பல பிரதேச சபைகளையும் பெற்ற நாங்கள் வருகின்ற தேர்தல்களில் எமது மக்கள்  பிரநிதிகளை திருகோணமலையிலும் பெறுவதற்கான காலம் கனிந்துள்ளதாகவும். பாராட்டி பேசினார்கள். நிறைவாக  மாவட்ட அமைப்பாளர் அ.விஜயகுமார் அவர்கள் நன்றியுரை வழங்கி நிகழ்வை நிறைவுசெய்தார்.
-
-### இளநீர் பறித்த மாணவன் மின்சாரம் தாக்கி பலி
-
-*2024-01-16 14:00:29 - [tamilmirrorlk](https://www.tamilmirror.lk/மலையகம்/இளநீர்-பறித்த-மாணவன்-மின்சாரம்-தாக்கி-பலி/76-331587)*
-
-மகா வித்தியாலயத்தில் கல்வி கற்கும் மாணவன் ஒருவன் பாடசாலையிலுள்ள மரமொன்றில் இருந்து இளநீர் பறிக்கச் சென்ற போது அருகில் இருந்த உயரழுத்த மின்கம்பியில் சிக்கியதில் மின்சாரம் தாக்கி உயிரிழந்துள்ளதாக இரத்தோட்டை பொலிஸார் தெரிவித்தனர்.
-
-இரத்தோட்டை புஸ்ஸெல்ல மகா வித்தியாலயத்தில் 11ஆம் ஆண்டில் கல்வி கற்கும் அகலங்க் இந்துவர என்ற மாணவனே இவ்வாறு உயிரிழந்துள்ளார்.
-
-இளநீர் கொப்பை கட்டி இறக்குவதற்குப் பயன்படுத்தப்பட்ட கயிறு அருகில் இருந்த கூரையின் மீது விழுந்துள்ளது. அதனை கொக்கியை பயன்படுத்தி  எடுக்க முயன்ற போதே மின்சாரம் தாக்கி மாணவன் உயிரிழந்தான்.
-
-குறித்த மாணவர் இரத்தோட்ட, கலுகல் சமவெளி கிராமப் பகுதியில் வசிப்பவராவார் என்று தெரிவித்த இரத்தோட்டை பொலிஸார், மேலதிக விசாரணைகளை மேற்கொண்டு வருவதாகவும் தெரிவித்தனர்.
-
-### කුඹුරු අක්කර 10000ක් විනාශයි
-
-*2024-01-16 13:55:16 - [adalk](https://www.ada.lk/picture_story/කුඹුරු-අක්කර-10000ක්-විනාශයි/10-407579)*
-
-පොළොන්නරුව මාදුරුඔය, කුඩාඔය, පිඹුරත්තෑව, පූනානි විල්ලූව, පිටාර ගැලීම හේතුවෙන් මහවැලි බී   කලාපයේ නෙළුම්වැව, පන්සියතුන කලාපය, අරලගංවිල, වැලිකන්ද, රුවන්පිටිය, නාමල්ගම, අසේලපුර ඇතුළු පහත් බිම්වල කුඹුරුවල පැලගොයම ගංවතුරට යටවීමේන් අක්කර දාහ දාහක පමණ ප්‍රමාණය පැළගොයමසම්පූර්ණයෙන්ම කුණු වී විනාශ වී ඇති බව මහවැලි බී කලාපයේ ගොවි සංවිධාන නියෝජිතයින් සහ ගොවීන් සඳහන් කරති.
-
-මේ වනවිට පහත් බිම්වල ගංවතුර තත්ත්වය බැස ගියද වතුරෙන් යටවී තිබු ගොයම කිසිදු විටෙක යළිත් දළුලන් නොමැති බවද ගොවීන් සඳහන් කරති.
-
-මෙම තත්ත්වය මත මහවැලි බී කලාපයේ ගොවි පවුල් දෙදෙහස් පන්සියයකට පමණ ආසන්න පිරිසක් දැඩි අසරණතාවයට සහ අපහසුතාවයට පත්ව ඇති අතර එම කුඹුරු යළි මෙම කන්නේ අස්වැද්දීමට කාලයක් නොපවතින බව ද ගොවි සංවිධාන නියෝජිතයින් පෙන්වා දෙති.
-
-ඇතැම් කුඹුරුවල පැලගොයම ගංවතුරට යට වී, දින දෙක තුනක් ඇතුලත එම ගංවතුර බැස යෑම හේතුවෙන් එම පැළ ගොයමට කිසිදු හානියක් නොමැති බවත්, දින පහ හයක් කාලයක් තිස්සේ ගංවතුරින් යටව පැවැති  පැළ ගොයම සහ පීදීමට ආසන්නයේ පැවැති ගොයම් විනාශ වී ඇති බවද මහවැලි බි කලාපයේ ගොවීන් පෙන්වා දෙති.
-
-මෙම තත්ත්වය සැලකිල්ලට ගනිමින් ගංවතුරෙන් හානියට පත් පැලගොයම සඳහා තමන්ට කිසියම් වන්දි මුදලක් ලබාදීමට අවශ්‍ය කටයුතු කරන ලෙසද මහවැලි බි කලාපයේ ගොවි සංවිධාන නියෝජිතයින් සහ ගොවීන් කියති.
-
-අප මේ පිළිබඳව ගොවිජන සේවා දෙපාර්තමේන්තුවේ පොළොන්නරුව දිස්ත්‍රික් සහකාර අරුණ නිරෝෂන්   මහතාගෙන් දුරකථනයෙන් කළ විමසීමකදී පැවසුවේ ගොවි සංවිධාන මට්ටමෙන් ගංවතුරෙන් හානියට පත්   කුඹුරු සඳහා වන්දි මුදලක් ගෙවීමට අවශ්‍ය තොරතුරු ලබාගැනීමට උපදෙස් හා පත්‍රිකාවක් ලබා දී ඇති බවයි.
-
-ඒ අනුව ලබා ගන්නා තොරතුරු මත අදාළ ගොවීන්ට කෘෂිකර්ම රක්ෂණ මණ්ඩලය යටතේ වන්දි මුදලක් ලබාදීමට ඉදිරියේදී කටයුතු කරනු ඇති බවද අරුණ නිරෝෂන් මහතා වැඩිදුරටත් කීය.
-
-මේ වන විට මහවැලි බී කලාපයේ මාදුරුඔය කුඩාඔය පිඹුරත්තෑව ඇතුළු වැව් සහ අමුණුත් පිටාර ගැලීම හේතුවෙන් හානියට පත් කුඹුරු බිම් ප්‍රමාණය කොතෙක්ද යන්න මහවැලි කොට්ඨාශ කළමනාකාරවරුන් හා ඒකක කළමනාකාරවරුන් හරහා තොරතුරු ලබාගනිමින් සිටින බවත්, වහාම ඔවුනට ද වන්දි මුදලක් ලබාදීමට අවශ්‍ය වැඩපිළිවෙල සකසන බව මහවැලි බි කලාපීය නේවාසික කළමනාකාර සුගත් විරසිංහ මහතා අප කළ විමසීමකදී පැවසීය.
-
-### எதிர்காலத்துக்கான ஒரு புதிய நோக்கே தமிழர்களுக்கு இன்று தேவை
-
-*2024-01-16 13:52:00 - [virakesarilk](https://www.virakesari.lk/article/174046)*
-
-தென்னிலங்கையில் அரசியல் கட்சிகள் ஜனாதிபதி தேர்தலுக்கு தங்களை தயார்படுத்துவதில் இறங்கியிருக்கும் ஒரு நேரத்தில் ஒரு கட்சியின் தலைவரை தெரிவுசெய்வதற்கான தேர்தல் தமிழர்...
-
-### மஹிந்தவுக்கு விளக்கமறியல்
-
-*2024-01-16 13:50:43 - [tamilmirrorlk](https://www.tamilmirror.lk/மேல்-மாகாணம்/மஹிந்தவுக்கு-விளக்கமறியல்/95-331586)*
-
-அவலோகேதீஸ்வர போதிசத்வா என தன்னை அறிமுகப்படுத்திக் கொண்டு புத்த பகவானையும், துறவிகளையும், பௌத்த மதத்தையும் அவமதிக்கும் வகையில் பிரசாரம் செய்த குற்றச்சாட்டின் கீழ் சந்தேகத்தின் பேரில்  கைது செய்யப்பட்ட மஹிந்த கொடித்துவக்கு  நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டுள்ளார்.
-
-புத்த பெருமானையும், பிக்குகளையும், பௌத்த மதத்தையும் அவமதிக்கும் வகையில் பிரசங்கங்கள் மேற்கொள்ளப்பட்டமை மற்றும் பணச் சலவைச் சட்டம் மற்றும் பொது ஒழுங்கை மீறியமை தொடர்பில் சந்தேகநபர் கைது செய்யப்பட்டுள்ளார்.
-
-### Sri Lanka working with foreign payment apps for QR payments
-
-*2024-01-16 13:49:00 - [economynextcom](https://economynext.com/sri-lanka-working-with-foreign-payment-apps-for-qr-payments-147416/)*
-
-ECONOMYNEXT – Sri Lanka is working with international payment aps to allow foreigners to make transaction through Lanka QR, Central Bank Governor Nandalal Weerasinghe said.
-
-“Lanka QR will be extended to foreign payment apps so that both foreign customers and local will utilze Lanka QR for payments in Sri Lanka. That’s where we are working with India’s Upay and some other arrangements,” he said delivering the annual policy statement for 2024, last week (10).
-
-Though Lanka QR has been around for some time, it has not been very active, Weerasinghe said.
-
-“To promote digital transactions and remittances via e-money services, the value limits of enhanced e-money accounts and basic human accounts were increased with effect from January 1.
-
-“The Central Bank expects to revise regulations to support expansion of digital payments and to revise the existing regulatory sandbox framework to facilitate more FinTechs entering the regulatory sandbox; that’s to encourage FinTechs to bring in new innovations and solutions.” (Colombo/Jan16/2024)
-
-### Self-proclaimed ‘Avalokiteshvara Bodhisattva’ remanded
-
-*2024-01-16 13:47:00 - [adaderanalk](https://www.adaderana.lk/news/96445/self-proclaimed-avalokiteshvara-bodhisattva-remanded-)*
-
-Mahinda Kodituwakku, the self-proclaimed ‘Avalokiteshvara Bodhisattva’, has been remanded until 24 January, on orders of the Colombo Fort Magistrate’s Court.
-
-Kodituwakku was arrested on 15 January, on charges of committing irreligious activities that are contrary to Buddhist teachings.
-
-On 12 January, the Colombo Fort Magistrate’s Court also imposed an overseas travel ban on him.
-
-Earlier this month, the president of Buddhist Information Centre, Ven. Agulugalle Sri Jinananda Thero had filed a complaint with the CID alleging that Kodituwakku has been misleading the Buddhist community.
-
-Alleging that Kodituwakku has been misleading the Buddhist community, Jinananda Thero claimed that he was directly involved with the recently deceased preacher named Ruwan Prasanna Gunaratna, who had promoted ‘mass suicide’ through his distorted teachings and later died by suicide.
-
-Meanwhile, Ven. Balangoda Kassapa Thero, addressing a media briefing, claimed that this self-proclaimed ‘Bodhisattva’ had sexually abused his own daughter before leaving his house while calling it ‘Abinishkramanaya’ (Great Departure).
-
-Bodhisattvas are enlightened beings on the path to becoming Buddhas but postpone reaching nirvana to help humanity.
-
-### රනිල් වික්‍රමසිංහ මහතාට නැවත අවස්ථාවක් ලබාදිය යුතුයි
-
-*2024-01-16 13:42:48 - [adalk](https://www.ada.lk/breaking_news/රනිල්-වික්‍රමසිංහ-මහතාට-නැවත-අවස්ථාවක්-ලබාදිය-යුතුයි/11-407578)*
-
-මේ මොහොතේ රට පවතින්නේ අත්හදා බැලීම් සිදුකිරීමට සුදුසු අවස්ථාවක නෙවෙයි. අත්හදා බැලීම් සිදුකිරීමට යෑමෙන් සිදුවන්නේ රට තවතවත් අගාධයට ඇද වැටීමයි...
-
-හැමදාම මේ රටේ ජනතාව ජනාධිපතිවරු තේරුවේ ජාතික ප්‍රශ්න විසඳීම මූලික කරගෙනයි. අද රටත් ජනතාවත් මුහුණ දෙන බැරෑරුම්ම ප්‍රශ්නය වන ආර්ථිකය ස්ථාවර කිරීමට සුදුසුම කෙනා තමයි වත්මන් ජනාධිපතිවරයා...
-
-පෙට්ටි කඩයක් එහෙමත් නැත්නම් ආයතනයක් පාලනය කරනවා වගේ රටක් පාලනය කරන්න බෑ...
-
-ආර්ථිකය ගොඩනඟා රට ස්ථාවර කිරීමට වත්මන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට නැවත අවස්ථාවක් ලබාදිය යුතු බව ආණ්ඩුපක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා අවධාරණය කරයි.
-
-ඔහු පෙන්වා දෙන්නේ රට මුහුණදී තිබෙන ආර්ථික අර්බුදය විසඳීමට සුදුසුම පුද්ගලයා වත්මන් ජනාධිපතිවරයා බව තම පුද්ගලික විශ්වාසය බවයි.
-
-අමාත්‍යවරයා වැඩිදුරටත් අවධාරණය කරන්නේ  මේ මොහොතේ රට පවතින්නේ අත්හදා බැලීම් සිදුකිරීමට සුදුසු අවස්ථාවක නොවන බවයි. එවැනි අත්හදා බැලීම් සිදුකිරීමට යෑමෙන් සිදුවන්නේ රට තවතවත් අගාධයට ඇද වැටීම බවද හෙතෙම පෙන්වා දෙයි.
-
-මිනුවන්ගොඩ හා ගම්පහ පලාත් පාලන නියෝජිතයන් සමඟ ඊයේ (15) උඩුගම්පල පැවැති සාකච්ඡාවකදී අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මේ බව සඳහන් කළේය.
-
-ගම්පහ සහ මිනුවන්ගොඩ ආසනවල ඉදිරි සංවර්ධන කටයුතු පිළිබඳව දැනුවත් කිරීම සඳහා මෙම සාකච්ඡාව පැවැත්විණ.
-
-එහිදී වැඩිදුරටත් අදහස් දක්වමින් අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මෙසේද පැවසීය.
-
-“ඉදිරි ජනාධිපතිවරණයේදී පොහොට්ටුව මොකද කරන්නෙ කියලා හැමෝම අහනවා. පොහොට්ටුව තවම අපේක්ෂකයෙක් තෝරලා නැති බව මම ඉතා වගකීමෙන් කියනවා. අපේක්ෂකයෙක් ඉදිරිපත් කරනවද නැද්ද කියල පක්ෂය තවම සලකා බලමින් ඉන්නවා. ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහය ලබාදිය යුතු බව මම පෞද්ගලිකව විශ්වාස කරනවා. ජනාධිපතිවෙලා නැවැත වරක් රට පාලනය කරන්න ඔහුට ඉහළම සුදුසුකම් තිබෙනවා.
-
-මීට වසර දෙකකට පෙර රටත් ජනතාවත් අතිශයින්ම ඛේදජනක ඉරණමකට මුහුණ දුන්නා. ජනතාව පෝලිම්වල අපා දුක් වින්දා. නමුත් අද වනවිට එදා තිබූ ‍බොහෝ ප්‍රශ්න නිරාකරණය වෙමින් තිබෙනවා. එහෙත් තව රාශියක් ඉතිරිවෙලා තිබෙනවා. හැමදාම මේ රටේ ජනතාව ජනාධිපතිවරු තේරුවේ ජාතික ප්‍රශ්න විසඳීම මූලික කරගෙනයි. 2004දි මහින්ද රාජපක්ෂ මහතා ජනාධිපති කළේ යුද්ධය දිනන්නයි. 2015 මෛත්‍රීපාල සිරිසේන පත් කළේ යහපාලනය ‍ස්ථාපිත කරන්නයි. 2019දි ගෝඨාභය රාජපක්ෂ දිනෙව්වෙ ජාතික ආරක්ෂාව තහවුරු කරන්නයි. එහෙනම් අපි අද රනිල් වික්‍රමසිංහ මහතා ජනාධිපති කරන්න ඕන රටේ ආර්ථිකය සුරක්ෂිත කරන්නයි.
-
-ඒ නිසා රනිල් වික්‍රමසිංහ මහතා ජනාධිපතිවරණ අපේක්ෂකයා ලෙස ඉදිරිපත් වෙනවානම් අපි පක්ෂක් ලෙස සන්ධානගතව ඔහුට සහය දිය යුතුයි කියන තැන මම ඉන්නවා. වත්මන් ජනාධිපතිවරයා, ජනාධිපතිවරණයට ඉදිරිපත්විය යුත්තේ “ජාතික අපේක්ෂකයා” ලෙසයි.
-
-දැන් ජනාධිපතිවරණ අපේක්ෂකයෝ වැහි වැහැලා. එක එක ජාතියේ අපෙක්ෂකයෝ එනවා. පෙට්ටිකඩයක් එහෙමත් නැත්නම් ආයතනයක් පාලනය කරනව වගේ රටක් පාලනය කරන්න බෑ. කයිවාරු ගහන්න ඕනම කෙනෙක්ට පුළුවන්. නමුත් වැඩ කරන්න හැමෝටම බැහැ. ආර්ථික අර්බුධ විසඳලා ජනතාවාදී පාලනයක් ස්ථාපිත කරන්න අපිට ඉතිරිවෙලා තියෙන්නෙ ඉතාම සීමිත කාලයක්.
-
-ඒ නිසා අනිත් අපේක්ෂකයන්ට එක අවස්ථාවක්වත් දෙන්න අවස්ථාවක් අපිට ඉතිරිවෙලා නැහැ. මේක අත්හදා බැලීම් කරන කාලයක් නෙවෙයි. රනිල් වික්‍රමසිංහ කියන්නේ කයිවාරු නැති වැඩ විතරක් තියෙන අනාගතවාදී නායකයෙක්. ඒ නිසා ජනාධිපතිධූරයට මේ මොහොතේ ඉහළම සුදුස්සා වත්මන් ජනාධිපතිවරයා”
-
-### Badulla–Colombo main road re-opened for traffic
-
-*2024-01-16 13:41:00 - [adaderanalk](https://www.adaderana.lk/news/96444/badullacolombo-main-road-re-opened-for-traffic-)*
-
-The Badulla – Colombo main road which was blocked for traffic due to an earth slip in Hali-Ela one week ago was reopened for traffic this afternoon (16 Jan.).
-
-Prabath Abeywardena, the District Secretary of Badulla, affirmed that the National Building Research Organisation (NBRO) has declared the road safe for travel after the Road Development Authority (RDA) cleared the debris, including earth, rocks, and trees.
-
-On 09 January, a stretch of the Badulla – Colombo main road was blocked for traffic due to an earth slip near the 7th Mile Post in Hali-Ela.
-
-### Vegetable prices skyrocket in Sri Lanka
-
-*2024-01-16 13:35:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/vegetable-prices-skyrocket-in-sri-lanka/)*
-
-COLOMBO (News 1st) –  Vegetable prices in Sri Lanka skyrocketed on Tuesday (16) to unexpected levels.
-
-These prices were confirmed by the All Ceylon Economic Center Trader's Association
+Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
 
 MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
-
-Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack

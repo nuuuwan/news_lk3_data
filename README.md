@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 09:27:48**
+As of **2024-01-17 10:27:56**
 
 ## Newspaper Stats
 
 * colombotelegraphcom: 21
 
-* bbccomsinhala: 26
+* bbccomsinhala: 27
 
 * newsfirstlk: 40
 
-* virakesarilk: 46
+* virakesarilk: 48
 
 * islandlk: 49
 
@@ -18,7 +18,7 @@ As of **2024-01-17 09:27:48**
 
 * adaderanalk: 69
 
-* tamilmirrorlk: 70
+* tamilmirrorlk: 75
 
 * dailyftlk: 97
 
@@ -26,9 +26,89 @@ As of **2024-01-17 09:27:48**
 
 * adalk: 115
 
-* **Total**: **697**
+* **Total**: **705**
 
 ## Latest Articles (100)
+
+### செங்கடலில் பதட்டம்; கொழும்பு துறைமுகத்திற்கு கிடைத்த நன்மை
+
+*2024-01-17 10:06:40 - [tamilmirrorlk](https://www.tamilmirror.lk/உலக-செய்திகள்/செங்கடலில்-பதட்டம்-கொழும்பு-துறைமுகத்திற்கு-கிடைத்த-நன்மை/50-331634)*
+
+செங்கடல் வழியாக செல்லும் வணிகக் கப்பல்கள் மீது ஏமன் ஹவுதி கிளர்ச்சியாளர்கள் தாக்குதல் நடத்துவதால், உலகச் சந்தை கடுமையாகப் பாதிக்கப்படும் என எச்சரிக்கைகள் வந்துகொண்டு இருக்கின்றன.
+
+அதாவது, தெற்கு செங்கடலில் பதற்றத்தைத் தவிர்க்கும் வகையில், கப்பல்கள் வசதியான போக்குவரத்துப் புள்ளியாக இலங்கையின் கொழும்பு துறைமுகத்தை கண்டறிந்ததால், சமீபத்திய வாரங்களில் இலங்கைக்கு வரும் கொள்கலன் அளவுகளில் பெரிய முன்னேற்றம் கண்டுள்ளதாக அதிகாரிகள் செவ்வாய்க்கிழமை தெரிவித்தனர்.
+
+ஏமன் ஹவுதி கிளர்ச்சியாளர்கள் நவம்பர் முதல் செங்கடலில் கப்பல்களைத் தாக்கியுள்ளனர், இது உலகின் கப்பல் போக்குவரத்தில் சுமார் 12% பகுதி ஆகும்.
+
+இதற்குப் பதிலளிக்கும் விதமாக, சில கப்பல் நிறுவனங்கள் இப்போது தென் ஆப்பிரிக்காவின் ‘கேப் ஆஃப் குட் ஹோப்’-ஐச் சுற்றிகொண்டு ஒரு நீண்ட பாதையில் செல்கின்றன.
+
+இதனால் பயணம் சுமார் 10 நாட்கள் நீளும். இதற்கு பல மில்லியன் டாலர்கள் அதிகமாகச் செலவாகும்.
+
+“கப்பல்கள் தென்னாப்பிரிக்காவைக் கடந்து வரும்போது, அவர்கள் சந்திக்கும் முதல் மையம் கொழும்புதான்... சிங்கப்பூர் தொலைவில் உள்ளது. எனவே அணுகுவதற்கு இதுவே எளிதான துறைமுகம்” என வீரசிங்க தெரிவித்தார்.
+
+கொழும்பு துறைமுகம் மூலோபாய இடம் காரணமாக உள்ளதால், மத்திய கிழக்கு, தெற்காசியா மற்றும் கிழக்கு ஆசியாவிற்கு கப்பல்களுக்கு வசதியான அணுகலை இது வழங்குகிறதாக இலங்கை துறைமுக அதிகாரசபையின் (SLPA) மூத்த அதிகாரி லால் வீரசிங்க தெரிவித்தார்.
+
+மேலும், கொழும்பு துறைமுகமானது ஆப்பிரிக்கா, மத்திய கிழக்கு மற்றும் கிழக்கு ஆசிய நாடுகளுக்கு இடையே உள்ள முக்கிய துறைமுகமாகும் என்றார். R
+
+### 18 இந்திய மீனவர்கள் கைது
+
+*2024-01-17 10:01:55 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/18-இந்திய-மீனவர்கள்-கைது/175-331633)*
+
+இலங்கை கடற்பரப்பிற்குள் அத்துமீறி உள்நுழைந்து மீன்பிடியில் ஈடுபட்ட 18 இந்திய கடற்றொழிலாளர்கள் செவ்வாய்க்கிழமை  (16) கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+மன்னார் மாவட்டம் தாழ்வுபாடு கடல் பகுதியை அண்மித்த கடற்பரப்புக்குள் சட்டவிரோதமாக உள்நுழைந்து இரண்டு டோலர் படகுகளில் மீன்பிடியில் ஈடுபட்ட தமிழக கடற்றொழிலாளர்களே இவ்வாறு கடற்படையினரால் கைது செய்யப்பட்டனர்.
+
+கைதான 18 கடற் றொழிலாளர்களும் மீன்பிடிக்கு பயன்படுத்திய இரண்டு  டோலர்    படகுகளும் கடற்படையினரால் தாழ்வுபாடு  கடற்படை முகாமுக்கு கொண்டுவரப்பட்டதோடு, 18 கடற் றொழிலாளர்களும் மன்னார் மாவட்ட கடற்றொழில் நீரியல் வளத் திணைக்கள அதிகாரிகளிடம் ஒப்படைக்கப்பட்டனர்.
+
+அவர்களிடம் விசாரணைகளின் பின்னர் கடற்தொழில் திணைக்கள அதிகாரிகள்  இன்று (17) புதன்கிழமை மன்னார் நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தவுள்ளனர்.
+
+இதேவேளை, படகுகளில் இருந்து பல ஆயிரக்கணக்கான கிலோ எடை கொண்ட குஞ்சு மீன்கள் மீட்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+### அரச தாதியர்கள் இன்று பணிப்பகிஷ்கரிப்பில் !
+
+*2024-01-17 09:55:00 - [virakesarilk](https://www.virakesari.lk/article/174118)*
+
+அரச தாதியர் சங்கம் இன்று புதன்கிழமை (17) காலை 7.00 மணி முதல் நாளை வியாழக்கிழமை காலை 7.00 மணி வரை நாடளாவிய ரீதியில் பணிப்பகிஷ்கரிப்பை முன்னெடுத்துள்ளது.
+
+பல சுகாதார தொழிற்சங்கங்கள் முன்னெடுத்த அடையாள வேலைநிறுத்தப் போராட்டம் இன்றைய தினம் காலை 6.30 மணியளவில் தற்காலிகமாக முடிவுக்கு கொண்டுவரப்பட்டுள்ள நிலையில், அரச தாதியர் சங்கம் இன்று பணிப்பகிஷ்கரிப்பை முன்னெடுத்துக்கது.
+
+சுகாதார அமைச்சர் ரமேஷ் பத்திரணவுக்கும் நிதி இராஜாங்க செகான் சேமசிங்கவுக்கும் இடையில் நேற்று செவ்வாய்க்கிழமை (16) இடம்பெற்ற கலந்துரையாடலில் எதிர்பார்த்த தீர்வு கிடைக்காத காரணத்தினால் இன்றையதினம் அரச தாதியர்கள் போராட்டத்தில் ஈடுபட தீர்மானம் எடுக்கப்பட்டதாக அந்த சங்கத்தின் தேசிய அமைப்பாளர் சுதத் ஜயசிறி தெரிவித்தார்.
+
+இதேவேளை, ஒரு வாரத்திற்குள் கோரிக்கைகளுக்கு தீர்வு வழங்கப்படாவிடின் தொழிற்சங்க நடவடிக்கை மீண்டும் முன்னெடுக்கப்படும் என பொது சுகாதார பரிசோதகர்கள் சங்கத்தின் தலைவர் உபுல் ரோஹன தெரிவித்தார்.
+
+### க.பொ. த. உயர்தர விவசாய விஞ்ஞான பாடத்திற்கான புதிய பரீட்சை திகதி அறிவிப்பு
+
+*2024-01-17 09:32:00 - [virakesarilk](https://www.virakesari.lk/article/174117)*
+
+2023 ஆம் ஆண்டிற்கான கல்விப் பொதுத்தராதர உயர்தர விவசாய விஞ்ஞான பாடத்திற்கான பரீட்சையின் முதலாம் பகுதி வினாத்தாளின் சில வினாக்களும் பரீட்சைக்கு முன்னர் சமூக ஊடக ஊடகங்களில் வெளியானதைக் கண்டறிந்ததைத் அடுத்த குறித்த பரீட்சை பரீட்சைகள் திணைக்களத்தால் இரத்து செய்யப்பட்டுள்ளது.
+
+இதேவேளை, இரண்டாம் பகுதி வினாத்தாளின் சில வினாக்கள் பரீட்சைக்கு முன்னர் சமூக ஊடகங்களில் வெளியானதால் 12 ஆம் திகதி இடம்பெறவிருந்த குறித்த பரீட்சையும் இரத்து செய்யப்பட்டதாக பரீட்சைகள் ஆணையாளர் நாயகம் எச்.ஜே.எம்.சி அமித் ஜயசுந்தர தெரிவித்தார்.
+
+அதன்படி, பாட எண் 8 இன் கீழ் உள்ள விவசாய விஞ்ஞானப் பாடத்தின்  இரண்டாம் பகுதி வினாத்தாள் பெப்ரவரி முதலாம் திகதி காலை 8.30 மணி முதல் 11.40 மணி வரையில் நடைபெறும்.
+
+அத்துடன், முதலாம் பகுதி வினாத்தாள் அன்றைய தினம் மதியம் ஒரு மணி முதல் 3 மணி வரை நடைபெறும்.
+
+பரீட்சை தொடர்பான விபரங்கள் பாடசாலை பரீட்சார்த்திகளுக்கான அந்தந்த அதிபர்களுக்கும் தனிப்பட்ட விண்ணப்பதாரர்களின் முகவரிகளுக்கும் அனுப்பி வைக்கப்பட்டுள்ளது.
+
+### சிறிதளவில் மழை; கடும் குளிர்
+
+*2024-01-17 09:06:15 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/சிறிதளவில்-மழை-கடும்-குளிர்/175-331631)*
+
+மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது.
+
+இதேவேளை வடக்கு மாகாணத்திலும் காலை வேளையில், கடும் குளிர் நிலவுவதாக தகவல்கள் தெரிவிக்கின்றன. R
+
+### இன்றும் பணிப்புறக்கணிப்பில் அரச தாதியர் சங்கம்
+
+*2024-01-17 09:03:34 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/இன்றும்-பணிப்புறக்கணிப்பில்-அரச-தாதியர்-சங்கம்/175-331630)*
+
+அரச தாதியர் சங்கம் இன்று (17) காலை 7.00 மணி முதல் நாளை காலை 7.00 மணி வரை மீண்டும் நாடளாவிய ரீதியில் பணிப்புறக்கணிப்பு போராட்டத்தை முன்னெடுத்துள்ளது.
+
+சுகாதார அமைச்சருக்கும், நிதி இராஜாங்க அமைச்சருக்கும் இடையில் நேற்று (16) இடம்பெற்ற கலந்துரையாடலில் எதிர்பார்த்த நல்ல பதில் கிடைக்காத காரணத்தினால் இந்தத் தீர்மானம் எடுக்கப்பட்டதாக அந்த சங்கத்தின் தேசிய அமைப்பாளர் சுதத் ஜயசிறி தெரிவித்தார்.
+
+இதேவேளை, பல சுகாதார தொழிற்சங்கங்கள் முன்னெடுத்த அடையாள வேலைநிறுத்தப் போராட்டம் இன்று (17) காலை 6.30 மணியளவில் தற்காலிகமாக முடிவுக்கு கொண்டுவரப்பட்டுள்ளதாக துணை மருத்துவ ஒன்றிய முன்னணி தெரிவித்துள்ளது.
+
+ஒரு வாரத்திற்குள் கோரிக்கைகளுக்கு தீர்வு வழங்கப்படாவிடின் மீண்டும் தொழில் நடவடிக்கை ஆரம்பிக்கப்படும் என அதன் தலைவர் உபுல் ரோஹன தெரிவித்தார். R
 
 ### பாக்கிஸ்தான் மீது ஈரான் ஏவுகணை தாக்குதல் - இஸ்லாமிய அமைப்பின் தளத்தை இலக்குவைத்தது
 
@@ -130,6 +210,14 @@ Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 
 எது எப்படி இருந்தாலும் பாதுகாப்பு செலவீனத்தை குறைப்பதாலும்  ஊழல் மிக்க அரசியல்வாதிகளில்  இருந்து நாட்டை மீட்டு எடுத்தால் மாத்திரமே வைத்தியர்களுக்கு  கண்துடைப்புக்காக வழங்கிய தொகையை விட அதிக சம்பள அதிகரிப்பை பெற முடியும் என்பதை அனைத்து அரசாங்க தொழிற்சங்கங்களும் உணரவேண்டும். அந்த நிலை ஏற்படுவதற்கு உரிய அழுத்தத்தை அனைத்து  தொழிற்சங்கங்களும் ஒன்றிணைந்து  பிரயோகிப்பதே சகல இலங்கையர்களும் தத்தமது சம்பள உயர்வை பெற்றுக்கொள்ளவும் நாட்டை பொருளாதார சீரழிவில் இருந்து நிரந்தரமாக மீட்டெடுக்கவும் உதவும் சாத்தியமான வழியாகும்.
 
+### பெண்ணின் சடலம் மீட்பு
+
+*2024-01-17 03:43:44 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பெண்ணின்-சடலம்-மீட்பு/175-331629)*
+
+முல்லைத்தீவு, புதுக்குடியிருப்பு பொலிஸ் பிரிவுக்குட்பட்ட தேவிபுரம் - முள்ளுக்காடு வயல் வெளிப்பகுதியில் இருந்து வயோதிபப் பெண் ஒருவர் சடலமாக மீட்கப்பட்டுள்ளார்.
+
+உயிரிழந்தவரின் சடலம் பிரேத பரிசோதனைகளுக்காக முல்லைத்தீவு மாவட்ட வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்டது. மேலதிக விசாரணைகளைப் புதுக்குடியிருப்புப் பொலிஸார் மேற்கொண்டு வருகின்றனர். (a)
+
 ### சங்குகளுடன் மூவர் கைது
 
 *2024-01-17 03:37:50 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/சங்குகளுடன்-மூவர்-கைது/175-331628)*
@@ -175,6 +263,18 @@ Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 சுவிட்சர்லாந்தின் டாவோஸ் நகரில் உலக பொருளாதார மாநாட்டுடன் இணைந்ததாக, ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் மென்சீஸ் விமானச் சேவையின் தலைவர் ஹசன் என் ஹவுரிக்கும் இடையில் சந்திப்பொன்று இடம்பெற்றது.
 
 இந்த சந்தர்ப்பத்தில் ஜனாதிபதியின்  தேசிய பாதுகாப்பு தொடர்பான சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவும் இணைந்து கொண்டார். (a)
+
+### 'අවුරුදු 67යි. ඇස් දෙකම පේන්නේ නෑ. මම පොල් කඩනවා'
+
+*2024-01-17 02:21:05 - [bbccomsinhala](https://www.bbc.com/sinhala/articles/c0vy04qd14yo)*
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "දිරිය මිනිසුන් :  'අවුරුදු 67යි. ඇස් දෙකම පේන්නේ නෑ. මම පොල් කඩනවා'", ධාවන කාලය 3,1303:13වීඩියෝ ශීර්ෂ වැකිය, 67 වැනි වියෙහි පසුවන ඔහු සිය බිරිඳ සමඟ අත්තනගල්ල, වෙලගෙදර  ප්‍රදේශයේ ජීවත් වන්නේය.
+
+කොතරම් අභියෝග පැමිණියද කිසිවෙකුට අතනොපා ජීවත්වීමට තරුණ පරපුර කටයුතු කළ යුතු බව පූර්ණ දෘශ්‍යාබාධිත තත්ත්වයේ පසුවන එස්.පී  ජයසිංහ පවසයි.
+
+67 වැනි වියෙහි පසුවන ඔහු සිය බිරිඳ සමඟ අත්තනගල්ල, වෙලගෙදර  ප්‍රදේශයේ ජීවත් වන්නේය.
+
+''ගස් යන වැඩෙත් දැන් එච්චර කරන්න බෑ.  දනිස් කැක්කුම් හැදෙනවා. බෙහෙත් තෙල් ගාගෙන ජීවත් වෙන්නේ.  අතපය තුවාල වෙලා. ඒත් කාටවත් අතපාන්න බැරි නිසා මම මේක කරගෙන යනවා. මම තරුණ පරපුරටත් කියන්නේ නිකරුනේ කාලය ගත නොකර මොනවාහරි දෙයක් කරන්න''  යනුවෙන් ඔහු BBC සිංහල සේවයට පැවසුවේය.
 
 ### ’’ஜனாதிபதி தேர்தலுக்கு நானே சிறந்த வேட்பாளர்’’
 
@@ -1937,127 +2037,3 @@ Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
 බිමට වැටුණු සිසුවා එහි සිටි අනිත් සිසුන් විසින්  රත්තොට රෝහල වෙත ඇතුළත් කර ඇති අතර රත්තට රෝහලින් මාතලේ දිස්ත්‍රික් මහ රෝහල වෙත සිසුවා ඇතුළත් කළද ඒ වනවිටත් අදාළ සිසුවා මියගොස් ඇති බවට රෝහල් ආරංචි මාර්ග පවසයි.
 
 අදාළ සිද්ධිය පිළිබඳ පරීක්ෂණ කටයුතු රත්තොට පොලිසිය විසින් සිදු කරනු ලබන අතර සිද්ධියට අදාල මහෙස්ත්‍රාත් පරීක්ෂණය මාතලේ වැඩ බලන මහේස්ත්‍රාත් ලසන්ත බාලසූරිය මහතා විසින් සිදුකර තිබේ.
-
-### Kuwait, Sri Lanka bolster bilateral ties across various sectors
-
-*2024-01-16 13:07:00 - [adaderanalk](https://www.adaderana.lk/news/96443/kuwait-sri-lanka-bolster-bilateral-ties-across-various-sectors)*
-
-Sri Lankan Ambassador to Kuwait Kandeepan Balasubramaniam praised the Kuwaiti-Sri Lankan relations that began 53 years ago, describing such relationship as “exceptional and historic,” reports Al-Anba daily.
-
-In a special statement to the daily, Balasubramaniam asserted that the bilateral relations between the two countries have developed significantly at all levels and in various areas of cooperation. He added the mutual visits between the two countries reflect the depth of bilateral relations with Kuwait, explaining that they have distinguished cooperation with Kuwait Fund for Arab Economic Development.
-
-He cited the meeting of Kuwaiti Foreign Minister Sheikh Salem Al- Abdullah with his Sri Lankan counterpart in New York, during which they discussed ways to support and strengthen bilateral relations.
-
-He revealed the number of Sri Lankans in the country has reached about 100,000; including professionals, skilled and semi-skilled workers, as well as domestic workers who constitute the largest percentage. He affirmed that his country continues to send its workers to Kuwait, indicating the two countries are fully cooperating in the field of manpower.
-
-### ஈராக்கில்  இஸ்ரேலின்  புலனாய்வுபிரிவின் தலைமையகத்தைஇலக்குவைத்து ஈரான் தாக்குதல்- நால்வர் பலி
-
-*2024-01-16 12:49:00 - [virakesarilk](https://www.virakesari.lk/article/174045)*
-
-ஈராக்கில் உள்ள இஸ்ரேலின் புலனாய்வு பிரிவின் தலைமையகத்தினைஇலக்குவைத்து ஏவுகணை தாக்குதலை மேற்கொண்டுள்ளதாக ஈரான் தெரிவித்துள்ளது.
-
-ஈராக்கின் குர்திஸ்தான் பிராந்தியத்திலுள்ள  இஸ்ரேலின் இரகசியபுலனாய்வு பிரிவின் தலைமையகத்தை இலக்குதை;துள்ளதாக  ஈரான் தெரிவித்துள்ளது.
-
-அமெரிக்காவின் துணைதூதரகம் மற்றும் பொதுமக்கள் வாழும் பகுதியிலேயே இந்த வெடிப்பு சத்தங்கள் கேட்டுள்ளன.
-
-### Sri Lanka to set aside Rs14bn for housing of estate workers
-
-*2024-01-16 12:34:00 - [economynextcom](https://economynext.com/sri-lanka-to-set-aside-rs14bn-for-housing-of-estate-workers-147403/)*
-
-ECONOMYNEXT – The government has allocated 14 billion rupees for people without homes in the plantations, Minister of Estate Infrastructure Development Jeevan Thondaman has said.
-
-“President Ranil Wickremesinghe has taken steps to provide land and houses for the estate people,” Thondaman was quoted as having said in statement by the Government Department of Information.
-
-10 billion rupees had been allocated for 89 Divisional Secretariat Divisions to construct 10,000 houses, Thondaman said at an event held at Peradeniya University.
-
-Estate workers were acknowledged as a community with no land ownership. An initial 4 billion rupees was allocated in the Budget for 2024 to grant land ownership and build houses for the landless in estates.
-
-Thondaman said that tourism activities around tea estates should resume soon.
-
-There were also plans to build a new university in the area, he said.
-
-India’s Narendra Modi government has also expanded a housing project for plantation workers residing in the island nation’s central hills. (Colombo/Jan16/2024)
-
-### மொட்டின் ஜனாதிபதி வேட்பாளர் யார்;மஹிந்த பதில்
-
-*2024-01-16 12:28:10 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மொட்டின்-ஜனாதிபதி-வேட்பாளர்-யார்-மஹிந்த-பதில்/175-331582)*
-
-ஸ்ரீலங்கா பொதுஜன பெரமுன (SLPP) ஜனாதிபதித் தேர்தலுக்கான வேட்பாளரை இன்னும் தீர்மானிக்கவில்லை என கட்சியின் தலைவர் மஹிந்த ராஜபக்ச தெரிவித்துள்ளார்.
-
-வேட்பாளரை நிறுத்துவது குறித்து நாங்கள் இன்னும் முடிவு செய்யவில்லை. இது தொடர்பாக மேலும் பேச்சு வார்த்தை நடந்து வருகிறது.
-
-எதிர்வரும் ஜனாதிபதித் தேர்தல் தொடர்பில் தீர்மானம் எடுக்கும் போது ஸ்ரீலங்கா பொதுஜன பெரமுன, மக்களின் விருப்பங்களுக்கு கவனம் செலுத்தும் என முன்னாள் ஜனாதிபதி தெரிவித்தார்.
-
-எவ்வாறாயினும், ஸ்ரீலங்கா பொதுஜன பெரமுன கட்சியை முன்னோக்கி கொண்டு செல்லும் வேலைத்திட்டம் தொடர்பில் தற்போது கவனம் செலுத்தப்பட்டுள்ளதாக பாராளுமன்ற உறுப்பினர் மஹிந்த ராஜபக்ச மேலும் தெரிவித்துள்ளார்.
-
-கட்சியின் அமைப்பு நடவடிக்கைகள் குறித்து கலந்துரையாடும் நிகழ்வின் போதே அவர் இதனைக் குறிப்பிட்டார்.
-
-### Operation Yukthiya Nets Over 870 Suspects in 24-Hour Blitz
-
-*2024-01-16 12:26:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/operation-yukthiya-nets-over-870-suspects-in-24-hour-blitz/)*
-
-COLOMBO (News 1st) – Operation Yukthiya saw the apprehension of a staggering 877 suspects within the past 24 hours, ending their illegal activities at 12:30 AM today.
-
-The Ministry of Public Security confirmed the arrests and reported issuing detention orders to 4 suspects.
-
-Additionally, Operation Yukthiya facilitated the rehabilitation of 14 individuals struggling with drug addiction, directing them towards treatment and recovery.
-
-The operation further dealt a critical blow to organized crime, successfully capturing 28 individuals included on the watchlist of the Police Narcotics Bureau and Special Bureau.
-
-Authorities recovered a substantial amount of narcotics during the operation, with ice constituting the majority of the seizures.
-
-Over 7 kilograms of the highly addictive drug were confiscated.
-
-MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
-
-Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
-
-### Sri Lanka faces alarming increase in dengue cases reported this year
-
-*2024-01-16 12:06:00 - [adaderanalk](https://www.adaderana.lk/news/96441/sri-lanka-faces-alarming-increase-in-dengue-cases-reported-this-year)*
-
-Nearly 6,000 dengue infections have been reported in Sri Lanka thus far in the month of January this year, as per the latest statistics of the National Dengue Control Unit (NDCU).
-
-Accordingly, 5,829 dengue cases have been reported across the island as of 15 January 2024.
-
-The highest figures have been reported in the Western Province (33.6%), whilst 1,228 cases have been reported in the Colombo District alone. The total number of dengue patients reported in the Western Province is 1,956.
-
-Meanwhile, 1,177 dengue cases were reported in the Jaffna District during the period of the first 15 days of 2024, according to the NDCU.
-
-Last year, a total of 87,078 dengue cases were reported in Sri Lanka with 57 deaths, according to the NDCU.
-
-In the meantime, efforts are underway to control the spread of dengue across the country through the implementation of diverse programmes.
-
-On January 03, a decision was reached in the presence of President Ranil Wickremesinghe to establish an operational unit directly supervised by the Ministry of Health to combat the spread of dengue. The objective of the unit is to create a reporting system for ongoing dengue control programmes, tracking daily progress in the province and outlining future measures.
-
-### 'පට්ටි පොංගල් ගොවීන්ගේ කළු දිනයක්' :  තෘණ භූමියේ අයිතිය ඉල්ලා කරන සටනට දින 124ක්
-
-*2024-01-16 12:04:03 - [bbccomsinhala](https://www.bbc.com/sinhala/articles/ce7kr5pwdwyo)*
-
-මෙහි කිසිවක් අඩංගු නැත.Play video, "'පට්ටි පොංගල් ගොවීන්ගේ කළු දිනයක්' :  තෘණ භූමියේ අයිතිය ඉල්ලා කරන සටනට දින 124ක්", ධාවන කාලය 1,4401:44වීඩියෝ ශීර්ෂ වැකිය, ගැටළුව පිළිබඳව බලධාරීන්ගේ අවධානය යොමු කරවීම සඳහා අද 'පට්ටි  පොංගල්‍'. ගොවීන්ගේ කළු විරෝධතා දිනයක් ලෙස ඔවුහු නම්  කළහ.
-
-'පට්ටි පොංගල් ගොවීන්ගේ කළු දිනයක්' :  තෘණ භූමියේ අයිතිය ඉල්ලා කරන සටනට දින 124ක්
-
-මඩකලපුව, මයිලත්තමඩු, මාදවනෙයි තෘණ භූමියේ බලහත්කාරයෙන් වගා කරන ගොවීන් එම ස්ථානයෙන් ඉවත් කරන ලෙස ඉල්ලා දෙමළ කිරි ගොවීන් ආරම්භ කර ඇති විරෝධතාව අද (ජනවාරි 16) අඛණ්ඩව  124 වන දිනටත් ක්‍රියාත්මක වේ.
-
-ඒ ගැටලුව පිළිබඳව බලධාරීන්ගේ අවධානය යොමු කරවීම සඳහා අද 'පට්ටි  පොංගල්‍' ගොවීන්ගේ කළු විරෝධතා දිනයක් ලෙස ඔවුහු නම්  කළහ.
-
-මඩකලපුව නගරයේ කළ විරෝධතාවෙන් අනතුරුව ඔවුහු දිස්ත්‍රික් ලේකම්වරිය හමු වී ගැටලුවට විසඳුම් ඉල්ලා සාකච්ඡා කළහ.
-
-### மாம்பழ அறுவடையில் சாதனை
-
-*2024-01-16 12:00:20 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மாம்பழ-அறுவடையில்-சாதனை/175-331579)*
-
-இலங்கையில் மாம்பழ அறுவடை இந்த ஆண்டு வரலாறு காணாத அளவில் அதிகரித்துள்ளதாக விவசாயத் திணைக்களம் தெரிவித்துள்ளது.
-
-2023ல் நீடித்த வறண்ட வானிலையும், அதைத் தொடர்ந்து பெய்த மழையும் மாம்பழ அறுவடையை அதிகரிக்கச் செய்ததாக அவர்கள் தெரிவித்தனர்.
-
-விவசாயம் மற்றும் பெருந்தோட்ட கைத்தொழில் அமைச்சர் தலைமையில் இடம்பெற்ற கலந்துரையாடலின் போது, ​​நாடளாவிய ரீதியில் ஆயிரக்கணக்கான ஏக்கர் மாம்பழங்கள் பயிரிடப்படுவதாகவும், குறிப்பாக ஏற்றுமதிக்காக பயிரிடப்படும் TEJC மாம்பழம், விலை குறைவினால் உற்பத்தி தடைப்படலாம் எனவும் அண்மையில் வலியுறுத்தப்பட்டது.
-
-எனவே, மா பயிர்ச்செய்கையை மேலும் விரிவுபடுத்த வேண்டுமா என்பது குறித்த அறிவியல் அறிக்கையை தன்னிடம் வழங்குமாறு அமைச்சர் உத்தரவிட்டார்.
-
-அறுவடைக்குப் பிந்தைய தொழில்நுட்பக்கழக தரவுகளின்படி, இந்நாட்டில் விளையும் அனைத்து வகையான மாம்பழங்களின் வருடாந்த அறுவடை சுமார் 250 மில்லியன் பழங்கள் ஆகும்.
-
-எவ்வாறாயினும், 2023-24 மாம்பழ பருவம் அந்த அளவைத் தாண்டியுள்ளதாக தற்போதைய தரவு உறுதிப்படுத்தியுள்ளது என்று திணைக்களம் கூறுகிறது.
-
-இதன் காரணமாக ரூ.800 முதல்1000 வரை விலை போன 1 கிலோகிராம் TEJC மாம்பழம் தற்போது ரூ. 400 முதல் 500 ரூபாய்  வரை குறைந்துள்ளதாக விவசாய திணைக்களம் தெரிவித்துள்ளது.

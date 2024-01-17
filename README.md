@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 21:27:51**
+As of **2024-01-17 22:28:03**
 
 ## Newspaper Stats
 
@@ -12,7 +12,7 @@ As of **2024-01-17 21:27:51**
 
 * newsfirstlk: 53
 
-* virakesarilk: 56
+* virakesarilk: 59
 
 * economynextcom: 60
 
@@ -26,9 +26,41 @@ As of **2024-01-17 21:27:51**
 
 * adalk: 131
 
-* **Total**: **804**
+* **Total**: **807**
 
 ## Latest Articles (100)
+
+### இலங்கை தமிழரசுக்கட்சியின் தலைவர் தெரிவானது உட்கட்சி ஜனநாயகத்தை வெளிப்படுத்தும் - சுமந்திரன்
+
+*2024-01-17 20:54:00 - [virakesarilk](https://www.virakesari.lk/article/174192)*
+
+இலங்கை தமிழரசுக்கட்சியின் தலைவர் தெரிவானது உட்கட்சி ஜனநாயகத்தை வெளிப்படுத்தும் என தமிழ்த் தேசிய கூட்டமைப்பின் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+
+இன்றையதினம் (17) முல்லைத்தீவு மாங்குளம் நீதிமன்றத்திற்கு வழக்கு விசாரணை ஒன்றிற்காக வருகை தந்திருந்த போது ஊடகவியலாளர் எழுப்பிய கேள்விக்கு பதிலளிக்கையிலே இவ்வாறு தெரிவித்தார்.
+
+இலங்கை தமிழரசுக்கட்சியின் தலைவர் தெரிவு எதிர்வரும் 21ஆம் திகதி ஞாயிற்றுக்கிழமை காலை பத்து மணிக்கு திருகோணமலையிலே இடம்பெற இருக்கின்றது. இதற்கான எல்லா ஏற்பாடுகளும் செய்யப்பட்டிருப்பதாக நானும் அறிகின்றேன்.
+
+நானும் தலைவர் பதவி போட்டியிலே இருக்கும் காரணத்தினால் இந்த ஆயத்தங்கள் செய்யப்பட்டிருப்பது தொடர்பாக வினவிக்கொண்டு இருக்கிறேன்.
+
+பொதுச்சபையிலே அங்கம் வகிப்பவர்களுக்கான கடிதங்கள் அனுப்பட்டதாக தற்போது பொதுச்சபையிலே இருக்கின்ற பொதுச்செயலாளர் மூலம் அறிந்திருக்கின்றேன். ஆகவே திட்டமிட்டபடி எதிர்வரும் 21ஆம் திகதி இந்த தேர்தல் உச்ச கட்டமாக உட்கட்சி ஜனநாயகத்தை வெளிப்படுத்தும் முகமாக திருகோணமலையில் நடைபெற்று நல்லதொரு முடிவு வருமென நாம் எதிர் பார்க்கின்றோம் என மேலும் தெரிவித்தார்.
+
+### யாழ். சர்வதேச வர்த்தகக் கண்காட்சிக்கு 64 ஆயிரம் பார்வையாளர்களை எதிர்பார்கிறோம் - யாழ் வர்த்தக தொழில் துறை மன்றத்தின் தலைவர்
+
+*2024-01-17 20:51:00 - [virakesarilk](https://www.virakesari.lk/article/174196)*
+
+லங்கா எக்கிபிஷன்  நிறுவனம், யாழ்ப்பாணம் வர்த்தக தொழிற்துறை மன்றத்தின் ஏற்பாட்டில் எதிர்வரும் 19 முதல் 21 வரை யாழ்ப்பாணம் சர்வதேச வர்த்தகச்சந்தை இம்முறை 14 ஆவது ஆண்டாக யாழ்ப்பாணம் முற்றவெளியில் ஆரம்பமாகவுள்ளது என யாழ் வர்த்தக தொழில் துறை மன்றத்தின் தலைவர் கே.விக்னேஷ் தெரிவித்தார்.
+
+யாழ்ப்பாணம் தனியார் விருந்தினர் விடுதியில் புதன்கிழமை (17) நடைபெற்ற ஊடக சந்திப்பிலேயே இது தொடர்பாக யாழ்ப்பாணம் வர்த்தக தொழிற்துறை மன்றத்தின் தலைவர் கே.விக்னேஷ் இவ்வாறு தெரிவித்தார். அங்கு அவர் மேலும் தெரிவிக்கையில்,
+
+கண்காட்சியில் சிறந்த தொழில் முயற்சியில் ஈடுபடும் மூதலிட்டாளர்களை ஊக்குவித்து மேம்படுத்தும் வகையிலான கண்காட்சியாக இது ஆரம்பிக்கப்படவுள்ளது. சர்வதேச வர்த்தக கண்காட்சியில் இம்முறை 64 ஆயிரம் பேர் கொண்ட பார்வையாளர்களாக வருவதாக எதிர்பார்க்கப்படுகின்றது.
+
+இதில் 350 காட்சிக் கூடாரங்கள் காணப்படுகின்றது. இவற்றில் கட்டிட துறை பகுதி, தொழில்நுட்ப பகுதிகள், கணணியல் துறை பகுதிகள், ஊள்ளூர் உற்பத்தி காட்சிக் கூடாரங்கள், வெளிநாட்டு கல்வியற் பிரிவுகள், தனியார், அரச, கல்வியிற் காட்சிக் கூடங்கள், வாகன விற்பனை சந்தைகள், சிற்றுண்டி வகைகள், மின்னியல் சாதனங்கள் மற்றும் மின்சார பொருட்கள் இதன்போது காட்சிப்படவுள்ளது.
+
+மேலும் சிறு முயற்சியாளர்களுக்கு  10 இலவசமாக கூடாரங்களும், தொழில்முனைவோர்களுக்கும் 10 இலவசமாக கூடாரங்களும் வழங்கப்படவிருக்கின்றது. சிறிய முதலீட்டினை கொண்டுள்ளவர்களுக்கு முன்னுரை அடிப்படையில் இவை வழங்கப்பட்டுள்ளது
+
+இந்த பிரதேசத்தில் சிறந்தமூதலீட்டினை ஊக்குவிப்பதனை ஒரு இலக்காக கொண்டு 14  ஆவது ஆண்டு வர்த்தக் கண்காட்சி விளங்குகின்றது.
+
+இம்முறை 2000 பேர் அளவிலான தென்னிலங்கை முதலீட்டாளர்களும் இங்கு வந்து தமது சந்தைவாய்ப்பை மேற்கொள்ளவுள்ளனர் என்றார்.
 
 ### අනවසර විදුලි රැහැන්වලට අලි ඇතුන් 50ක් පසුගිය වසරේ මිය ගිහින්
 
@@ -219,6 +251,42 @@ As part of its efforts to protect Sri Lanka's wild elephant population, the CEB 
 This initiative highlights the growing concern over the threat posed by such practices to the country's iconic wildlife.
 
 The CEB acknowledged a decrease in elephant deaths from electrocution compared to previous years, with only 50 reported fatalities in 2023.
+
+### இன, மதவாதத்தை தூண்டி மக்களின் மன நிலையை மாற்றி அரசாங்கத்தை வீழ்த்தியதனால் மக்கள் இன்று கஷ்டப்படுகின்றனர் - அகிலவிராஜ்
+
+*2024-01-17 17:13:00 - [virakesarilk](https://www.virakesari.lk/article/174181)*
+
+இனவாத, மதவாதத்தை தூண்டிக்கொண்டு மக்களின் மன நிலையையை மாற்றி அரசாங்கத்தை வீழ்த்தியதனால் மக்கள் இன்று கஷ்டப்படுகின்றனர் என ஐக்கிய தேசிய கட்சியின் பிரதித் தலைவர் அகிலவிராஜ் காரியவசம் தெரிவித்தார்.
+
+ஐக்கிய தேசிய கட்சியின் இரத்தினபுரி மாவட்ட சம்மேளனம் செவ்வாய்க்கிழமை (16) இரத்தினபுரி மாகாணசபை கேட்போர் கூடத்தில் இடம்பெற்றது. இதில் கலந்துகொண்டு உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+1977இல் இந்த நாட்டை வீழ்ச்சியடையச் செய்யும்போது, இந்த நாட்டுக்கு திறந்த பொருளாதாரத்தை அறிமுகப்படுத்தி, நாட்டின் இளைஞர் சமூகத்துக்கு உலகத்தை காட்டி, பொருளாதார இலக்காென்றை சமர்ப்பித்தது ஐக்கிய தேசிய கட்சியாகும்.
+
+2001ஆம் ஆண்டு நாட்டின் பொருளாதாரம் வீழ்ச்சியடைந்து மறை பெருமானத்தில் இருக்கும்போது தாக்குதல்கள் மேற்கொள்ளப்பட்டு விமான நிலையங்கள் செயலிழந்திருந்த சந்தர்ப்பத்தில் நாட்டின் பொருளாதாரத்தை நேர் பெறுமானத்துக்கு கொண்டுவரும் போது, நாட்டுப்பற்றாளர்கள் என சொல்லிக்கொண்டிருக்கும் குழு அந்த அரசாங்கத்தை வீழ்த்த நடவடிக்கை எடுத்தது.
+
+அத்துடன் 2014இல் இரண்டு வருடங்களுக்கு முன்னர் ஜனாதிபதி தேர்தல் நடத்த வேண்டிய நிலை ஏன் ஏற்பட்டது.? நாட்டின் பொருளாதாரம் தொடர்ந்து வீழ்ச்சியடைந்து மறை பெறுமானத்துக்கு செல்லும்போது, அதில் இருந்து தப்பிக்கொள்ளவே ஜனாதிபதி தேர்தலுக்கு அழைப்பு விடுக்கப்பட்டது என்பதை நினைவில் கொள்ள வேண்டும்.
+
+அத்துடன் மீண்டும் போராட்டங்கள் இ்டம்பெறுவதும் அன்று ரணில் விக்ரமசிங்க பிரதமராக இருந்து நாட்டை அபிவிருத்தி செய்ய மேற்கொண்ட நடவடிக்கைகளை தடுத்து நிறுத்த மேற்கொண்ட நடவடிக்கையே தற்போதும் ஆரம்பிக்கப்படுகிறது.
+
+மக்கள் இதனை புரிந்துகொள்ள வேண்டும். நல்லாட்சி அரசாங்க காலத்தில் ரணில் விக்ரமசிங்க முன்னெடுத்த வேலைத்திட்டங்களை இறுதிவரை கொண்டுசெல்ல முடிந்திருந்தால், இன்று நாடு இந்த நிலைக்கு வந்திருக்காது. என்றாலும் அந்த வேலைத்திட்டங்களை முன்னெடுக்க எமக்கு இடமளிக்கவில்லை.
+
+இனவாத, மதவாதத்தை தூண்டிக்கொண்டு மக்களின் மன நிலையையை மாற்றி அரசாங்கத்தை வீழ்த்தியதனால் மக்கள் இன்று கஷ்டப்படுகின்றனர்.
+
+தேர்தலில் நாங்கள் தாேல்வியுற்றாலும் பாராளுமன்றத்தில் ஒரு ஆசனம் இருந்தாலும் இல்லாவிட்டாலும் எமது கொள்கையில் மாற்றம் இல்லை அவ்வாறு கொள்கையை மதிக்கின்ற தலைவர் ஒருவரு இருக்கின்ற கட்சி என்றவகையில் நாங்கள் பெருமை அடைகிறோம்.
+
+அத்துடன்  கற்பனை கதை சொல்லும் அரசியல்வாதிகள் பலரும் இருந்தார்கள் என்றாலும் அவர்கள் யாரும் நாட்டை பொறுப்பேற்க முன்வரவில்லை.
+
+இன்று அரசியல் பிரச்சினை இல்லை. பொருளாதார பிரச்சினையே இருக்கிறது. அரசியல் பிரச்சினையை தீர்ப்பதற்கு தேவையான அளவு தலைவர்கள் இருக்கின்றார்கள்.
+
+ஆனால் பொருளாதார பிரச்சினைக்கு தீர்வுகாண முடியுமாக இருப்பது. உலக நாடுகள் தொடர்பாக அறிவு, அரசியல் அனுபவத்துடன் பொருளாதார சிந்தனை உள்ள தலைவருக்காகும். அந்த அனைத்து தகுதியும் உள்ள தலைவரே ஐக்கிய தேசிய கட்சியின் தலைவர் ரணில் விக்ரமசிங்க. இலங்கையில் அரசியல் அனுபவம் திறமைகள் உள்ள ஒரு தலைவர் ரணில் விக்ரமசிங்கவை தவிர தெரிந்தளவில் வேறு யாரும் இல்லை. ரணில் விக்ரமசிஙகவே எமது இறுதி மாற்றுவழி என்பதை நினைவில் கொள்ளுங்கள்.
+
+எனவே தொடர்ந்தும் நிவாரண வாக்குறுதிகளை வழங்கி மக்களை ஏமாற்றும் அரசியல் தற்போது முடிவுக்கு வந்துள்ளது. ஆட்சிக்கு வந்தால், நிவாரணங்களை வழங்குவதாக தெரிவிக்கின்றனர்.
+
+ஆனால் அதனை எவ்வாறு வழங்குவது என தெரிவிப்பதில்லை. அதனால் கற்பனை கதைகளை சொல்லி மக்களை ஏமாற்றி அரசியல் செய்யும்  கலாசாரத்தை நாங்கள் மாற்றியமைக்க வேண்டும்.
+
+ஐக்கிய தேசிய கட்சி எப்போதும் உண்மை நிலையை தெரிவித்தே ஆட்சிக்கு வந்திருக்கிறது. அதனால் பொய் வாக்குறுதி அரசியலுக்கு முற்றுப்புள்ளி வைக்க வேண்டும்.
+
+ஐக்கிய தேசிய கட்சி மனிதநேய கட்சியாகும். அதனால் மக்களின் பிரச்சினைக்கு உண்மையாக தீர்வுகாண முடியுமான கட்சி ஐக்கிய தேசிய கட்சியாகும். அதனால் இந்த நாட்டை கட்டியெழுப்ப இருக்கும் ஒரே தலைவர் ரணில் விக்ரமசிங்கவாகும். அவருக்கு ஆதரவளிக்க  அனைவரும் அணிதிரள வேண்டும் என்றார்.
 
 ### ஐக்கிய இராச்சியத்தின் பிரபுக்கள் சபை உறுப்பினர் வில்லியமிற்கும் ஜனாதிபதி ரணிலுக்கும் இடையில் சந்திப்பு
 
@@ -1683,99 +1751,3 @@ The Bill also provides for the appointment of an advisory panel to advise the Co
 Clause 49 of the Bill states that the Commission can defer its investigation regarding any disappearance of a person/s if requested to do so by the OMP until such time it can be resumed without compromising inquiries conducted by the OMP.
 
 In September 2023, the ICJ joined eight other international human rights organizations in expressing their grave reservations about the proposed Truth, Unity and Reconciliation Commission and setting out prerequisites to be addressed before appointing any new Commission. The concerns relate to Sri Lanka’s legacy of failed commissions, lack of a conducive environment and confidence building efforts, lack of meaningful consultations with victim communities, the failure of domestic transitional justice institutions, and the blocking of prosecutions. None of these concerns have been addressed to date, which bring into question the newly proposed Commission’s likelihood of serving as an effective mechanism for accountability.
-
-### Commission for Truth, Unity, and Reconciliation in Sri Lanka- A Bill
-
-*2024-01-17 05:09:10 - [dailyftlk](https://www.ft.lk/columns/Commission-for-Truth-Unity-and-Reconciliation-in-Sri-Lanka-A-Bill/4-757435)*
-
-As long as impunity prevails, SL will achieve neither genuine reconciliation nor sustainable peace - UN Deputy High Commissioner of Human Rights
-
-The Government has published a Bill to establish the Commission for Truth, Unity and Reconciliation in Sri Lanka in the Gazette of 29 December, 2023 that was issued on January 1, 2024.  The Foreign Affairs Minister discussed this initiative with a group of civil society, and it was once again discussed during the preparation of the Bill.
-
-We had Presidential Commissions of Inquires such as, the Udalagama Commission in 2006 to investigate and inquire into alleged serious violations of human rights arising since 1 August, 2005; the C.R.De Silva Commission in May 2010 on Lessons Learnt and Reconciliation (LLRC); and the Paranagama Commission in August 2013 to investigate Complaints of Abductions and Disappearances, in respect of the armed ethnic conflict that ended in 2009.
-
-All these commissions were established under the Commissions of Inquiry Act, by the President. However, the recommendations were hardly implemented.
-
-The following was stated by the UN Deputy High Commissioner of Human Rights during the oral update at the 53rd session of the Human Rights Council in June 2023.
-
-“The announcement of plans for a Truth Commission or similar reconciliation mechanisms requires attention. Sri Lanka has witnessed too many ad hoc commissions in the past that failed to ensure accountability. The Office on Missing Persons has not achieved the results that provide satisfaction to victims. What is needed is a coherent plan that connects the different elements of truth, redress, memorialisation, accountability and creates the right enabling environment for a successful and sustainable transitional justice process. Accountability remains the fundamental gap in attempts to deal with the past. As long as impunity prevails, Sri Lanka will achieve neither genuine reconciliation nor sustainable peace.”
-
-Under the recommendations of the UNHRC resolution A/HRC/51/5 in October 2022, it was stated as follows:
-
-“Prepare a comprehensive strategy on transitional justice and accountability, with a time-bound plan to implement outstanding commitments, including taking steps in relation to the establishment of a credible truth-seeking mechanism and an ad hoc special court, as well as security sector reform and vetting, and re-energise the Office on Missing Persons and the Office for Reparations to ensure that they can discharge their full mandate independently and effectively.”
-
-The LLRC recommended conducting investigations and prosecuting offenders and justified it as follows:
-
-“It is also the obligation of the Government to clear the good name and protect the honour and professional reputation of soldiers who defended the territorial integrity of Sri Lanka and particularly the many thousands of soldiers who perished carrying out their combat duties cleanly and professionally against a widely condemned terrorist group that used most inhumane tactics in combat. Offences if any, of a few cannot be allowed to tarnish the honour of the many who upheld the finest traditions of service.”
-
-Therefore, the intention of the Government is to address all outstanding issues that were repeatedly emphasised by many. It is a switch from presidential commissions of inquiries of which the implementation of the recommendations was not acceptable, to a Parliamentary Act with wider scope and a mechanism of implementation of the recommendations.
-
-The objective of the Sri Lankan Bill according to Section 12(1),is that the Commission shall investigate, inquire, and make recommendations in respect of complaints, or allegations, or reports relating to damage or harm caused to persons or property, loss of life or alleged violation of human rights anywhere in Sri Lanka, that were caused in the course of, or reasonably connected to, or consequent to the conflict that took place in the Northern and Eastern Provinces during the period 1983 to 2009, or its aftermath.
-
-In Section 12(2) it was stated that subject to the provisions of subsection (1), the mandate of the Commission includes several points that were described in sub sections running from (a) to (l).
-
-Sub section (h)(xii)  is as follows: “Investigating and making recommendations in respect of the allegations of damage or harm caused to persons or property or loss of life or alleged violation of human rights referred to in subsection (1), including making findings in regard to those responsible for the commission of the alleged violations and abuses referred to in subsection (1), including those who advised, planned, directed, commanded or ordered such atrocities.”
-
-The Commission can refer matters to the relevant law enforcement or prosecuting authorities of Sri Lanka for further investigation and necessary action, where it appears to the Commission that an offence or offences punishable under the Penal Code(Chapter 19) or any other law of Sri Lanka has been committed (Section 13 zd).
-
-According to Section 16(2), it shall be lawful for the Attorney-General to institute criminal proceedings in a designated court of law in respect of any offence based on material collected in the course of an investigation or inquiry or both, as the case may be, by the Commission established under this Act. This content was also in Section 24 of the Commissions of Inquiry (Amendment) Act No 16 of 2008.
-
-Therefore, the provisions of the Bill are in line with the thinking of the UNHRC and LLRC in relation to accountability.
-
-In South Africa, The Truth and Reconciliation Commission was established by the Promotion of National Unity and Reconciliation Act No 34 of 1995. The main objectives of the South African Commission was to establish the complete picture of nature, causes and the extent of gross violations of human rights during the specified period, facilitating the granting of amnesty to persons who make full disclosure of the relevant facts,  establishing and making known the fate of victims by granting them an opportunity to relate their own account of violations, and compiling a comprehensive report with recommendations to prevent the future violations of human rights.
-
-We can discern that the objective of the Sri Lankan Bill is fundamentally different to the South African Act. In South Africa no party has denied that atrocities were committed and both parties to the conflict admitted that. South Africa wanted to heal their wounds and move forward. Hence, the concept of revealing the truth followed by amnesty came in.
-
-The term of the commission is five years and it could be extended by another 2 years. The provisions of the Bill are action oriented. The criticisms of the fate of the previous Presidential Commissions of Inquiries were addressed in the Bill and remedial actions taken.
-
-After submitting the interim reports biannually or the final report to the President, the Commission should release those to the media in all three languages and within 21 days the President should table it in Parliament (Section 15).  Within one month from the date of publication of the first interim report, the President shall establish a Monitoring Committee to monitor and facilitate the implementation of the recommendations of the Commission (Section 39).
-
-The Monitoring Committee shall consist of five ex-officio secretaries to specific ministries and six members recommended by the Constitutional Council and appointed by the President. The Committee shall submit bi-annual reports to the President every six months, evaluating the efforts of the Government and the efforts of any other person or body concerned to implement the recommendations of the Commission and other previous Commissions of Inquiry and the President shall table such reports in Parliament not later than two weeks from the receipt of such report (Section 40).
-
-Finally, Parliament may take cognisance of the recommendations based on interim reports or the final report, as the case may be, and pass such resolution it may consider necessary to promote national unity and reconciliation (Section 16).
-
-It seems the President and the Government are making reforms in a slow and steady manner not only in the economic front but also in the political front, although there are widespread concerns about some of the actions of the President. Once the President attempted to implement the 13 Amendment to the Constitution in full. There was criticism against him that attempting unpopular reforms on both fronts simultaneously would be detrimental in a future election. However, it appears this is not a concern for him.
-
-### DAT and Tit for Tat fight for equality
-
-*2024-01-17 05:05:39 - [dailyftlk](https://www.ft.lk/columns/DAT-and-Tit-for-Tat-fight-for-equality/4-757434)*
-
-Last week, according to media reports all Government hospitals were almost completely closed. Except for sensitive and crucially important places like the Apeksha cancer hospital, the Lady Ridgeway children’s hospital, Emergency admissions and Cardiac treatment, all others were reported closed from Tuesday to Friday and came back to normalcy by Saturday morning. Not due to lack of medicines or other necessities, but due to a string of work stoppages by all hospital staff other than the medical doctors.
-
-They were all protesting against the Government’s decision to double the Rs.35,000 per month DAT allowance of medical doctors to Rs.70,000, ignoring all others in the health sector. Health sector trade unions including nurses, paramedics, ophthalmologists, family health and even public health inspectors demanded an increase in their allowances by Rs.35,000 per month. Paramedics were reported as having threatened to go on a continuous strike, “if the Government fails to address the issue.” That was to say, they want the issue settled with a Rs.35,000 increase in their take home pay.
-
-They justify their demand on the grounds that, if medical doctors cannot survive the increase in the cost of living with their present take home salary and PP income, if they need such increase in their take home pay with the DAT allowance doubled, then none in the health sector would survive with their present salaries. Most in lower categories do not even have a “take home pay” as large as that of the increase of DAT allowance to Rs.70,000 said a hospital staff, when I queried about their demand for an equivalent to the DAT increase. A trained Government nurse with five years’ service would get only Rs.46,000 I was told.
-
-GMOA Secretary Dr. Haritha Aluthge is on record saying, there is no justification in demanding an increase equivalent to that of DAT by others. He asked where on earth support staff in the judicial system gets wage increases similar to those given to Judges. That argument by the GMOA boss against salary increases for others in the health sector cannot be compared to that of Judges by any means. Judges do not have overtime pay as doctors do. Nor do Judges indulge in private practice as doctors do. Doctors in Government service enjoy both overtime pay and PP, in total violation of medical ethics and morals. Aluthge’s argument thus exposed the nauseating ego and the selfish mindset of the GMOA. DAT by itself is no legitimate allowance, the GMOA forced the then Government to accept at the expense of innocent patients in Government hospitals held captive. Not only DAT, every salary increase and privilege the medical doctors enjoy has been at the expense of these patients.
-
-I believe, people should know what DAT is that they would have to shoulder with the massive increase announced. DAT is an exclusive monthly allowance paid to Government medical doctors in hospitals. DAT stands for “Disturbance, Availability and Transport”. It is about medical doctors being called while off duty to attend to warded patients in the hospital he or she is posted in. What the GMOA says is, if medical doctors are “disturbed” when off duty and called to attend to a patient and if they make themselves “available” despite being off duty, they should be paid for all that and that is the DAT allowance.
-
-There are around 13,000 medical doctors attached to hospitals out of the 17,000 plus medical doctors in Government service. Of them, only about 11,000 take care of patients in hospital wards and OPDs.
-
-Technically they are the only medical doctors who should be qualified for DAT. Qualifying for DAT does not necessarily mean they have to be paid the DAT allowance every month. According to its explanation DAT is for doctors that make such visits. How many medical doctors are disturbed on an average and make themselves available for such calls during a month? Does it mean a single visit a month would qualify a doctor to have the now increased monthly DAT allowance of Rs.70,000?
-
-DAT has no criteria. It carries with it a consciously camouflaged aberration in implementation. Though expressed as “off duty hospital visits” DAT is a lump sum monthly allowance. There are no calculations possible for single visits in DAT. Therefore, no individual records of frantic calls for doctor visits to hospitals are necessary. DAT monthly allowance was approved by the Treasury on principle and it is now doubled from this January as approved by the Cabinet of Ministers. I would therefore, not be surprised if all 17,000 plus Government medical officers are paid DAT, including those released from service for trade union work or for funded projects.
-
-There is illegitimacy and immorality in most privileges that Government medical officers (GMO) enjoy. Perhaps in the whole world, 17,000 plus Government medical doctors remain the only public sector that enjoy the right to be on duty without recording their time of arrival for duty and departure, but have the right to claim overtime. They definitely are the only unique profession in public service who have the right to claim overtime payments based on their personal entries made in their own private diaries.
-
-It has now become a practice for GMOs to demand anything they wish holding the innocent patients to ransom. The demand to double the DAT was no different. This being a year of election aspirations the Government was hesitant in antagonising them, regarding them as “social influencers”. But that may not be the case with paramedics and supporting staff, who are not thought of as “social influencers”. That would by implication make this DAT increase an “election graft”. We know of election budgets, price reductions, samurdhi benefits and such that come as election grafts. What we do not know or do not want to know is most such Government decisions should be brought to Parliament and debated before implementation, if they are not proposals included in the Annual Budget approved by Parliament, for the simple reason, the Constitution holds Parliament as the sole authority on public finance.
-
-This should therefore apply to the DAT increase that is about public finances. If all 17k plus GMOs are to be paid  DAT, the burden on the already economically hunched people would be a colossal sum of about Rs. 14.5 billion this year alone. Therefore, on principle Parliament should know what categories of medical doctors are paid DAT. Are medical doctors in health administration paid DAT? Should it be a flat monthly allowance, instead of a “payment on visit”? What would the Annual Budget be, if DAT is paid on visits? Should not these details be made available to Parliament for this massive sum to be approved and allowed?
-
-Why all that should be brought to Parliament for approval is for the people to know how their heavily overtaxed money is disbursed and for what. It is about transparency and accountability that is at present absent. It is about holding political leaderships in Government accountable to the people. It is also about de-politicising such decisions that lack policy and principles and therefore, allows for political patronage.
-
-In conclusion, let me therefore, say this for future consideration. Except on two rare occasions, when the President Kumaranatunge and the Sirisena-Wickremesinghe Governments under worker pressure increased private sector salaries by Rs.1,000 and 2,000 respectively on “budgetary relief allowances” Governments cannot technically decide salary increases for the private sector employees, who are also taxpayers, mostly as contributors to the 80 % indirect tax. This has left a yawning income disparity between the larger majority of the private sector workers and the public sector. Yet it is this private sector employee and not the public sector employee that earn the much needed “dollar income” to the country on which others live as comfortable as they could be. It is therefore important to have a system that would allow respectability and reasonable treatment for the private sector employees too in decision making. Trade unions should therefore demand a “National Labour and Employment Policy” to be adopted in Parliament that would establish an independent “National Wages Commission” wholly responsible to Parliament to decide on wage demands and increases of both public and private sectors. The Labour and Employment policy should seriously consider a “six-hour working day in a five-day working week” for employees to have adequate free time for recreation and entertainment. It is now an accepted fact that employees with job satisfaction and free time are far more productive than the present day highly overworked employees. The “National Wages Commission” should announce an annual “Minimum National Living Wage” that for sure would have to be above Rs.75,000 per month this year, if based on numbers in the latest Household Income and Expenditure Survey (HI&ES) of the Census and Statistics Department.
-
-But I doubt, the politicised public sector trade unions including the GMOA would go for such a proposal. For they will not be able to use political patronage and muscle power as they do now to push Governments to decide for them.
-
-### International commercial mediator training and accreditation program in Sri Lanka
-
-*2024-01-17 04:49:40 - [dailyftlk](https://www.ft.lk/business/International-commercial-mediator-training-and-accreditation-program-in-Sri-Lanka/34-757426)*
-
-Initiative via collaboration between UDecide Mediation platform and SAGE Mediation Singapore
-
-To expand the opportunities for Sri Lankan professionals to equip themselves with international mediation skills, UDecide mediation platform in collaboration with Sage Mediation, will be launching the first of its kind International Commercial Mediator Training and Accreditation program in Sri Lanka.
-
-The program was specially developed by Sage Mediation, an international mediation firm based in Singapore, and will be led by its CEO Aloysius Goh. Completion of the workshop will set participants on the path to achieving accreditation under the Singapore International Mediation Institute, as well as the Swiss Chamber of Commercial Mediators. This first iteration will be available at a special concessionary rate marking Sage Mediation’s commitment to promoting high-quality mediation practices around the world.  UDecide Mediation Platform and Sage Mediation, is inviting professionals from diverse sectors to make use of this rare opportunity to equip themselves with international mediation skills to provide high-quality amicable dispute resolution services in Sri Lanka and outside.
-
-The United Nations Convention on Mediation (Singapore Convention on Mediation), is an endorsement of the suitability of mediation for commercial dispute resolution worldwide. Sri Lanka signed the Convention on Mediation in 2019 and ratified the same on 10 January 2024. Against this backdrop, Sri Lanka now, more than ever, needs highly trained and qualified mediation professionals.

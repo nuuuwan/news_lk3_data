@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-17 14:28:02**
+As of **2024-01-17 15:27:48**
 
 ## Newspaper Stats
 
@@ -14,11 +14,11 @@ As of **2024-01-17 14:28:02**
 
 * islandlk: 49
 
-* economynextcom: 57
-
-* adaderanalk: 69
+* economynextcom: 58
 
 * tamilmirrorlk: 75
+
+* adaderanalk: 86
 
 * dailyftlk: 106
 
@@ -26,9 +26,99 @@ As of **2024-01-17 14:28:02**
 
 * adalk: 121
 
-* **Total**: **729**
+* **Total**: **747**
 
 ## Latest Articles (100)
+
+### Sri Lanka manufacturing, services expand in Dec in festive demand: PMI
+
+*2024-01-17 14:40:00 - [economynextcom](https://economynext.com/sri-lanka-manufacturing-services-expand-in-dec-in-festive-demand-pmi-147560/)*
+
+ECONOMYNEXT – Sri Lanka’s manufacturing has expanded for the second month in December 2023, and service maintained strong growth, driven by holiday demand and tourism, based on a Purchasing Managers’ Index compiled by the central bank.
+
+The manufacturing PMI was 52.7 above the 50 points, but slightly the 57 point, expansion seen in November.
+
+“The increases in New Orders and Production were driven by the manufacture of food & beverages sector with the seasonal demand,” the statement said.
+
+“However, New Orders and Production in manufacture of textiles & apparel sector declined during the month, which mainly contributed to the decline in Employment as well.”
+
+Expectations for the manufacturing activities for the next three months were positive.
+
+“However, the firms are concerned about the impact of tax revisions from January 2024, and the shipping disruptions due to the unrest in the Red Sea,” the statement said.
+
+The Services PMI was 58.9 percent, also sharply above 50, and close to 59.4 points in November.
+
+“Accordingly, significant improvements were observed in business activities related to other personal service activities, transportation and accommodation, food and beverage sub-sectors, amid the festive and holiday seasons, and tourist arrivals reaching its peak,” the statement said.
+
+“Further, wholesale and retail trade subsector showed a strong growth due to seasonal sales. Meanwhile, financial services also improved further in line with the increase in lending activities.” (Colombo/Jan17/2024)
+
+### Human immunoglobulin scandal: Seven accused including ex-Health Secretary further remanded
+
+*2024-01-17 14:29:00 - [adaderanalk](https://www.adaderana.lk/news/96481/human-immunoglobulin-scandal-seven-accused-including-ex-health-secretary-further-remanded)*
+
+Seven suspects including the former Secretary to the Ministry of Health, Janaka Chandragupta, were further remanded on Wednesday (Jan.17) over the controversial procurement of substandard human immunoglobulin vials.
+
+As such, on the orders of Maligakanda Magistrate’s Court, the seven accused were put behind bars on remand until January 24.
+
+Chandragupta was arrested by the Criminal Investigation Department (CID) on December 18, when he arrived at the premises to record a statement substandard human immunoglobulin scandal.
+
+On December 14, Maligakanda Magistrate Lochani Abeywickrama had declared that the actions of the former Secretary of the Ministry of Health pertaining to the process of purchasing the batch of ‘substandard’ human intravenous immunoglobulin (IVIG) were deemed suspicious.
+
+Thus, the magistrate also ordered that all responsible parties be arrested and produced before the court irrespective of their positions, for the administration of justice over the providing of substandard medicine to the public.
+
+Several high-profile arrests have been made thus far in connection with the case, including that of the former Secretary of the Ministry of Health, the Director of the Health Ministry’s Medical Supplies Division and three other officials of the same division, as well as the owner of the relevant company which is said to have imported the batch of substandard Immunoglobulin vials by forging documents.
+
+### Education of children directly impacts overall success of the nation – Saman Ekanayake
+
+*2024-01-17 14:22:00 - [adaderanalk](https://www.adaderana.lk/news/96480/education-of-children-directly-impacts-overall-success-of-the-nation-saman-ekanayake-)*
+
+President’s Secretary Mr. Saman Ekanayake underscored the pivotal role of education in shaping the lives of children, emphasizing that it is the sole pathway to their success. He highlighted that the successful completion of education leads to the formation of informed citizens, directly impacting the overall success of the nation.
+
+President’s Secretary, Mr. Saman Ekanayake, made this statement during his participation in the ceremony held recently to inaugurate the provision of a fully equipped library to Konkadawala Vidyalaya, Navagaththegama.
+
+These remarks were expressed during Mr. Ekanayake’s participation in a ceremony, where a fully equipped library was provided to Konkadawala Vidyalaya, Navagaththegama.
+
+With the guidance of President’s Secretary Mr. Saman Ekanayake and the support of Chinese financial assistance, two fully equipped libraries were established at Konkadawala Vidyalaya, Navagaththegama, and Duwa Junior College, Negombo, facilitated by the intervention of the President’s Office.
+
+Each library, costing Rs. 02 million, is stocked with essential books for students ranging from grade 6 to grade 11. The primary aim of this initiative is to assist rural students facing economic challenges, fostering a future generation enriched with knowledge.
+
+During his speech, Mr. Ekanayake shared that the idea of providing libraries to these schools stemmed from a conversation with the Chinese Deputy Ambassador to Sri Lanka, who expressed the possibility of supporting a Rs. 04 million project. He selected two schools, reflecting on the potential impact these libraries could have on the education of children attending these institutions over the next decade. Mr. Ekanayake, drawing from his own experiences of receiving primary education in a similar small school, emphasized the importance of supporting these children’s education to pave the way for their future.
+
+He shared a poignant story about the Chinese Deputy Ambassador’s father. ‘To the best of my knowledge, the father of the present Chinese Deputy Ambassador, who is in attendance today, worked as a farmer. In the eighth grade, the Chinese Deputy Ambassador’s father insisted that he join in planting activities, leading to significant back pain after an hour of labour. Upon sharing this discomfort with his father, the advice given was, “If you don’t excel in your studies, you may find yourself compelled to engage in this occupation.”
+
+Embracing that valuable lesson, the Deputy Ambassador has risen to the position of Deputy Ambassador today, operating on an international stage. This success underscores the vital message that children should internalize — education stands as the sole means to triumph in life. It is imperative to recognize that, without education, the future holds uncertainties not just for the individual children but also for the prosperity of the entire nation’.
+
+The event was attended by State Minister Arundika Fernando, Member of Parliament Dr. Kavinda Jayawardene, Chinese Deputy Ambassador to Sri Lanka YANWAI ZHU, officials from the Ministry of Education, Principals, teaching staff, parents and a group of students.
+
+### Emirates launches global recruitment drive, plans to hire 5,000 cabin crew in 2024
+
+*2024-01-17 14:05:00 - [adaderanalk](https://www.adaderana.lk/news/96479/emirates-launches-global-recruitment-drive-plans-to-hire-5000-cabin-crew-in-2024)*
+
+Dubai-based airline Emirates is on a recruitment drive and is set to hire 5,000 cabin crew members in 2024.
+
+The new hiring comes as Emirates begins to take delivery of its eagerly anticipated A350s from mid-year and the Boeing 777-Xs starting in 2025. The airline has 65 A350s and a mix of 205 777-9s and 777-8s in its order book.
+
+The recruitment drive is primarily for those who will soon or have recently stepped into the workforce. The airline is looking for fresh graduates with internships or part-time jobs experience, those with a year or so of hospitality or customer service experience.
+
+To be considered for Emirates cabin crew, candidates need to meet the following criteria:
+
+• Fluent in written and spoken English (additional languages are an advantage)
+
+• At least 1 year of hospitality or customer service experience
+
+• Emirates’ recruitment team will host open days and assessments in more than 460 cities across six continents.
+
+Emirates’ recruitment team will host open days and assessments in more than 460 cities across six continents.
+
+In 2023, Emirates hired a staggering 8,000 cabin crew and held recruitment events in 353 cities as the airline ramped up its services post-pandemic. In August 2023, the airline’s cabin crew numbers crossed the 20,000 milestone and are now 21,500 strong.
+
+Emirates’ cabin crew enjoy a competitive, tax-free salary and flying pay, eligibility for profit share, hotel stays and layover expenses, concessional travel and cargo, annual leave, annual leave ticket, furnished accommodation, transportation to and from work, excellent medical, life and dental insurance coverage, laundry services and other benefits. Friends and family enjoy discounted flight tickets.
+
+Emirates’ multicultural cabin crew team hails from more than 140 nationalities and speaks 130 languages.
+
+Cabin crew experience career progression, including upgrading to higher cabin classes, and becoming a cabin supervisor, purser or trainer. The airline has 1,180 pursers who have climbed the career ladder after successfully completing exacting training and assessments. Crew also have the opportunity to apply for internal vacancies throughout the Emirates Group.
+
+All new cabin crew recruits undergo an intense eight weeks of training. Trained in Emirates’ state-of-the-art facility in Dubai, cabin crew learn transferable skills that include a knack for communication, initiative and leadership qualities. They develop the ability to work effectively in a multicultural team, the focus to stay mentally strong and calm under pressure, becoming bastions of hospitality and exceptional service, and ambassadors of an iconic brand. Cabin crew also have access to the latest training programmes and LinkedIn courses.
 
 ### Sri Lanka ministers meet health unions over 35,000 rupee demand
 
@@ -43,6 +133,38 @@ Several health sector unions struck work yesterday and today demanding a 35,000 
 Government doctors union officials were quoted in the media saying the allowances given to generals are not given to foot soldiers.
 
 The military was deployed on Tuesday to help health services. (Colombo/Jan17/2024)
+
+### Sri Lanka calls for EOIs for divestiture of Litro Gas and Litro Gas Terminal
+
+*2024-01-17 13:45:00 - [adaderanalk](https://www.adaderana.lk/news/96478/sri-lanka-calls-for-eois-for-divestiture-of-litro-gas-and-litro-gas-terminal)*
+
+The Government of Sri Lanka has called for Expressions of Interest (EOIs) for the divestiture of Litro Gas Lanka Ltd. (LGL) and the Litro Gas Terminal Lanka (Pvt.) Ltd. (LGTL).
+
+According to the State-Owned Enterprise Restructuring Unit, the divestiture is slated to be completed through a two-stage competitive bidding process, with Deloitte Touche Tohmatsu India LLP (DTTILLP) serving as the Transaction Advisor.
+
+As such, all interested parties are invited to access the Request for Expression of Interest document from the following website: https://www.treasury.gov.lk/web/sru-entities-to-be-divested/section/litro-gas-lanka
+
+With a market share of 85%, LGL is the largest supplier of Liquefied Petroleum Gas (LPG) in Sri Lanka, and engages in the importing, filling, distribution and sale of LPG in Sri Lanka.
+
+LGL operates an LPG filling plant in Kerawalapitiya with a filling capacity of 1,600 MTs/day, while a second filling plant located at Mabima is under construction.
+
+Meanwhile, LGTL provides bulk storage and pipeline facilities for LPG, with their key storage facility strategically located in Kerawalapitiya, with a capacity of 8,000 MT.
+
+It is also to be noted that surplus land is available at Kerawalapitiya for further expansion of both, LGL and LGTL.
+
+### IMF Chief meets President Ranil, commends Sri Lanka’s economic reform efforts
+
+*2024-01-17 13:11:00 - [adaderanalk](https://www.adaderana.lk/news/96477/imf-chief-meets-president-ranil-commends-sri-lankas-economic-reform-efforts)*
+
+Managing Director of the International Monetary Fund (IMF) Kristalina Georgieva commended the economic reform endeavors pursued by Sri Lanka during a meeting with President Ranil Wickremesinghe at the World Economic Forum in Davos, Switzerland.
+
+She emphasized the importance of the IMF Board approving the first review of Sri Lanka’s Extended Fund Facility (EFF) program in December 2023, characterizing it as a recognition of the country’s significant reform initiatives.
+
+Georgieva expressed her positive expectations on ‘X’ (formerly Twitter), stating that the reforms undertaken by Sri Lanka are beginning to yield positive results.
+
+Meanwhile, Pakistan’s caretaker Prime Minister Anwaar-ul-Haq Kakar also met with President Wickremesinghe on the sidelines of the Forum.
+
+During the meeting, the two parties discussed numerous matters pertaining to regional affairs, and ways to promote trade between Sri Lanka and Pakistan.
 
 ### Sri Lanka president, business community seek FDI and PPP in Switzerland
 
@@ -61,6 +183,16 @@ Wickremesinghe sought to reassure them by mentioning the removal of restrictions
 He pointed out the country’s ongoing and pending FTAs with Singapore, Thailand, India and China, its initiatives to join the Regional Comprehensive Economic Partnership (RCEP), and the benefits of GSP Plus for access to European markets.
 
 Representing the Sri Lankan business community at the event were John Keels Holdings Chairman Krishan Balendra, Commercial Bank CEO/MD Sanath Manatunge, Colombo Stock Exchange Chairman Dilshan Wirasekara, Janashakthi Insurance Deputy Chairman Prakash Schaffter, Sri Lanka Ports Authority Chairman Keith Bernard, Aitken Spence Joint Deputy Chairpersons/MDs Stasshani Jayawardena and Parakrama Dissanayake, Galle Face Group Chairman Sanjeev Gardiner, Sri Lankan Airlines Chairman Ashok Pathirage, People’s Bank Chairman Sujeewa Rajapakse, and ⁠Dialog Axiata CEO Supun Weerasinghe. (Colombo/Jan17/2024)
+
+### Court order issued against planned IUSF protest in Colombo today
+
+*2024-01-17 12:24:00 - [adaderanalk](https://www.adaderana.lk/news/96474/court-order-issued-against-planned-iusf-protest-in-colombo-today-)*
+
+The Maligakanda Magistrate’s Court has delivered an order barring the Inter-University Students’ Federation (IUSF) from inconveniencing the members of the public during their protest march planned to be staged this evening (Jan.17).
+
+Accordingly, university students are barred from entering Deans Road, Kularatna Mawatha, T.B. Jayah Mawatha and several other roads in Colombo and marching in protest while obstructing motorists and pedestrians.
+
+The court order was issued against seven ISUF members including its convenor Madushan Chandrajith and Ven. Galwewa Siridhamma Thero.
 
 ### Sri Lanka discusses economic ties, EDR with India envoy
 
@@ -81,6 +213,62 @@ Sri Lanka blocked a Chinese power sector investment in the North, reportedly und
 The government has also temporarily halted foreign research ships after strong security concerns raised by neighbour India after the visit of two Chinese research vessels.
 
 Political analysts say India has influence in the Sri Lankan election given it is closely connected with ethnic minority Tamils especially those who came down to the island nation from India as plantation workers during the British rule. India is involved in many housing projects for this group.
+
+### High Posts Committee approves 5 top appointments including PUCSL chief
+
+*2024-01-17 11:48:00 - [adaderanalk](https://www.adaderana.lk/news/96473/high-posts-committee-approves-5-top-appointments-including-pucsl-chief)*
+
+The Committee on High Posts has green-lighted 5 new appointments including an appointment of a High Commissioner, the Communication Department of Parliament said on Wednesday (Jan.17).
+
+The new appointments approved by the committee are as follows:
+
+• Mr. P.R.S. Goonawardena – High Commissioner of Sri Lanka to the Republic of Maldives
+
+• Dr. M.M. S.S.B. Yalegama – Non-Cabinet Ministry of State Plantation Enterprise Reforms
+
+• Mr. S.C.J Devendra – Chairman of the Sri Lanka Export Credit Insurance Corporation
+
+• Prof. M.A.R.M. Fernando – Chairman of Public Utilities Commission of Sri Lanka (PUCSL)
+
+• Mr. J. M. Soosaithasan – Chairman of State Mortgage and Investment Bank
+
+Committee on High Posts met in Parliament last week under the chairmanship of Speaker Mahinda Yapa Abeywardena. The meeting was attended by Ministers Nimal Siripala de Silva and Keheliya Rambukwella, as well as MPs Johnston Fernando, Anura Priyadarshana Yapa, Thalatha Athukorala, Udaya Gammanpila, Dr. Sudarshini Fernandopulle and Dharmalingam Siddharthan.
+
+### China’s population drops for second straight year despite efforts to boost birth rate
+
+*2024-01-17 11:39:00 - [adaderanalk](https://www.adaderana.lk/news/96472/chinas-population-drops-for-second-straight-year-despite-efforts-to-boost-birth-rate-)*
+
+China’s population dropped by 2 million people in 2023 in the second straight annual drop as births fell and deaths jumped after the lifting of COVID-19 restrictions, the government said Wednesday.
+
+The number of deaths more than doubled to 690,000. Demographers were expecting a sharp rise in deaths because of COVID-19 outbreaks that started at the end of the previous year and continued through February of last year. The total population stood at 1.4 billion, the statistics bureau said. China, long the most populated country in the world, dropped into second place behind India in 2023, according to U.N. estimates.
+
+The number of births fell for the seventh year, reflecting a fall in the birth rate that is a long-running economic and societal challenge for China. The population is aging steadily, which could slow economic growth over time and challenge the nation’s ability to provide for a larger elderly population with fewer workers.
+
+The number of births fell by 540,000, which was less than in previous years. About 9 million babies were born in 2023, half of the total in 2016. All the figures are estimates based on surveys and do not include Hong Kong and Macao. China conducts a full census every 10 years.
+
+China, which once sought to control population growth with its one-child policy, is now facing the opposite problem. The government has sought to encourage births since easing the policy over 2015 to 2016 to allow a second child and then a third child in 2021, but with little success.
+
+People are marrying later and sometimes choosing not to have children. Even those that do often have only one child because of the high cost of educating children in cities in a highly competitive academic environment. The population of women of child-bearing age has also fallen.
+
+The working-age population, defined as those between 16 and 59 years old, fell to 61% of the total population, continuing a gradual decline. The proportion of those aged 60 and older ticked up to 21%. The official retirement age in China is 60 years old for men and 50 or 55 for women.
+
+It is not clear how many people died from COVID-19 because of the sudden end to China’s “zero-COVID” restrictions in December 2022. The government has reported about 80,000 COVID-related deaths from December to February but experts believe it is much higher. Studies have estimated it could have reached 1.4 million or 1.9 million deaths.
+
+The drop in population is expected to be less this year, because of the waning effects of the pandemic and the fact that it is the year of the dragon, considered an auspicious year to have children, an expert said at a forum earlier this week, according to the China Daily, an English-language state-owned newspaper.
+
+But Yuan Xin, a professor at Nankai University and vice-president of the China Population Association, added that “the downward trend in China’s total population is bound to be long-term and become an inherent characteristic.”
+
+### Special notice on commencement of second phase of third school term
+
+*2024-01-17 11:24:00 - [adaderanalk](https://www.adaderana.lk/news/96471/special-notice-on-commencement-of-second-phase-of-third-school-term)*
+
+The Education Ministry has announced the dates to commence the second phase of the third term of government and government-approved private schools.
+
+Accordingly, the second phase of the third school term is scheduled to begin on February 05 (Monday).
+
+It was initially supposed to begin on February 01. However, after Paper I and Paper II of the 2023 Advanced Level examination’s Agricultural Science subject was annulled and a new date was announced for the test, the commencement of the second phase of the third term has been pushed back.
+
+The Examinations Department said the new exam date and time would be as follows:
 
 ### Sri Lanka rupee opens stronger at 321.20/40 to the US dollar
 
@@ -128,7 +316,7 @@ MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a mi
 
 *2024-01-17 11:07:00 - [economynextcom](https://economynext.com/p-r-a-s-gunawardana-designated-new-sri-lanka-envoy-to-maldives-147529/)*
 
-ECONOMYNEXT – Sri Lanka Parliament’s committee on high posts has approved P R A S Gunawardana as the new High Commissioner designate for Maldives, a statement said.
+ECONOMYNEXT – Sri Lanka Parliament’s committee on high posts has approved P R A S Gunawardana as the new High Commissioner designate for the Maldives, a statement said.
 
 Also approved was M A R M Fernando as chairman of the Public Utilities commission.
 
@@ -137,6 +325,20 @@ Secretary for the non-cabinet State Plantation Enterprise Reforms ministry is M 
 S C J Devendra as chairman for Sri Lanka Export Credit Insurance Corporation.
 
 J M Susaidasan as chairman of Sri Lanka State Mortgage and investment bank. (Colombo/Jan17/2024)
+
+### Supreme Court deems Duminda Silva’s presidential pardon invalid
+
+*2024-01-17 10:54:00 - [adaderanalk](https://www.adaderana.lk/news/96470/supreme-court-deems-duminda-silvas-presidential-pardon-invalid)*
+
+The Supreme Court has declared former President Gotabaya Rajapaksa’s decision to grant presidential pardon to former MP Duminda Silva, convicted and sentenced to death for the murder of Bharatha Lakshman Premachandra, as invalid.
+
+The relevant court order was issued by a three-judge bench of the Supreme Court when several petitions filed by the late Premachandra’s wife and daughter, Sumana and Hirunika Premachandra and former Commissioner of the Human Rights Commission of Sri Lanka (HRCSL) Attorney-at-Law Ghazali Hussain, was taken up in court this morning  (17 Jan.).
+
+The judge bench was presided over by Justice Preethi Padman Surasena and consisted Justices Gamini Amarasekara and Arjuna Obeysekara.
+
+Thus, the Commissioner General of Prisons was instructed by the Supreme Court to take the relevant measures necessary so as to impose the impending sentence against Duminda Silva, adding that former President Gotabaya had failed to follow the proper legal procedure when granting the said amnesty.
+
+Accordingly, the Supreme Court ordered the Commissioner General of Prisons to take steps to implement the sentence previously imposed on this petitioner.
 
 ### BREAKING: Supreme Court Declares Duminda Silva Pardon Unlawful
 
@@ -161,6 +363,18 @@ Reforms starting to pay off! Kristalina tells Ranil in Davos
 Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
 
 MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
+
+### Navy apprehends 18 Indian fishermen poaching in Sri Lankan waters
+
+*2024-01-17 10:31:00 - [adaderanalk](https://www.adaderana.lk/news/96469/navy-apprehends-18-indian-fishermen-poaching-in-sri-lankan-waters)*
+
+Sri Lanka Navy has apprehended 18 Indian fishermen who were poaching in Sri Lankan waters off Mannar on Tuesday evening (Jan.16).
+
+In an operation mounted off the coast of Mannar by the North Central Naval Command, the naval personnel had impounded 2 Indian fishing trawlers with 18 fishermen aboard.
+
+The apprehended Indian fishermen and the poaching trawlers have been brought ashore to the Thalpadu Pier in Mannar and they are due to be handed over to the Talaimannar Fisheries Inspector for onward legal action.
+
+The Navy conducts regular patrols and operations in Sri Lankan waters to curb illegal fishing practices by foreign fishing trawlers, taking into account the consequences of these practices on the livelihood of local fishermen and the marine resources of the country.
 
 ### Reforms starting to pay off! Kristalina tells Ranil in Davos
 
@@ -213,6 +427,22 @@ MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a mi
 கொழும்பு துறைமுகம் மூலோபாய இடம் காரணமாக உள்ளதால், மத்திய கிழக்கு, தெற்காசியா மற்றும் கிழக்கு ஆசியாவிற்கு கப்பல்களுக்கு வசதியான அணுகலை இது வழங்குகிறதாக இலங்கை துறைமுக அதிகாரசபையின் (SLPA) மூத்த அதிகாரி லால் வீரசிங்க தெரிவித்தார்.
 
 மேலும், கொழும்பு துறைமுகமானது ஆப்பிரிக்கா, மத்திய கிழக்கு மற்றும் கிழக்கு ஆசிய நாடுகளுக்கு இடையே உள்ள முக்கிய துறைமுகமாகும் என்றார். R
+
+### SriLankan Airlines misses another coupon on its 2024 bond - report
+
+*2024-01-17 10:04:00 - [adaderanalk](https://www.adaderana.lk/news/96468/srilankan-airlines-misses-another-coupon-on-its-2024-bond-report)*
+
+SriLankan Airlines Ltd. missed a third coupon payment on its dollar bond due later this year, according to a filing on Tuesday.
+
+The company said a further event of default would occur because it doesn’t intend to pay the coupon due on Dec. 25, having already missed payments in December 2022 and June 2023.
+
+The airline’s board intends to communicate further with the holders of these notes, it said.
+
+The bond with semi-annual payments matures on June 25 this year, according to Bloomberg-compiled data.
+
+The airline recently extended the deadline to seek investor interest for its sale. Selection of pre-qualified bidders is now set for mid-February instead of end-January, according to a notice posted on the Finance Ministry website earlier this month. It didn’t give a reason for the postponement.
+
+Sri Lanka has been looking to sell its national airline at least since mid 2022, with President Ranil Wickremesinghe then saying the country’s poorest people who’ve never flown shouldn’t be saddled with its losses. The carrier serviced 126 destinations in more than 60 countries prior to the pandemic.
 
 ### 18 இந்திய மீனவர்கள் கைது
 
@@ -272,6 +502,20 @@ MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a mi
 
 කෙසේ වෙතත් බොහෝ එළවලු මිලදී ගැනීම සඳහා පැමිණි ව්‍යාපාරිකයන් කියා සිටියේ වෙනදා මෙන් එළවළු මිලදී ගැනීමට නොයන බවය  එළවළු  ගන්න පාරිභෝගික ජනතාව ද ඉතා සීමිත ප්‍රමාණයක් මිලදී ගැනීම සිදුකරන බවද ඔවුහු පැවසූහ.
 
+### 1,024 more suspects arrested during Operation ‘Yukthiya’
+
+*2024-01-17 09:41:00 - [adaderanalk](https://www.adaderana.lk/news/96467/1024-more-suspects-arrested-during-operation-yukthiya)*
+
+A total of 1,024 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.16) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Among the arrestees are 699 who were taken into custody on narcotics-related charges and 325 others who were on the list of wanted criminal suspects.
+
+Detention orders have been secured against 13 suspects for further interrogations, and 08 drug addicts who were among the arrestees have been sent for rehabilitation.
+
+Additionally, 45 suspects who were on the list of registered suspects of the Police Narcotics Bureau and the Police Special Task Force have also been arrested during the special police operation.
+
+According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 227g of heroin, 168g of crystal methamphetamine (Ice), 8kg of cannabis, 13,892 cannabis plants and 647 narcotic pills.
+
 ### க.பொ. த. உயர்தர விவசாய விஞ்ஞான பாடத்திற்கான புதிய பரீட்சை திகதி அறிவிப்பு
 
 *2024-01-17 09:32:00 - [virakesarilk](https://www.virakesari.lk/article/174117)*
@@ -314,6 +558,50 @@ MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a mi
 
 ஒரு வாரத்திற்குள் கோரிக்கைகளுக்கு தீர்வு வழங்கப்படாவிடின் மீண்டும் தொழில் நடவடிக்கை ஆரம்பிக்கப்படும் என அதன் தலைவர் உபுல் ரோஹன தெரிவித்தார். R
 
+### Govt. nursing officers on 24-hour token strike today
+
+*2024-01-17 08:59:00 - [adaderanalk](https://www.adaderana.lk/news/96466/govt-nursing-officers-on-24-hour-token-strike-today)*
+
+The Government Nursing Officers’ Association has launched an island-wide 24-hour token strike with effect from 7:00 a.m. today (Jan.17).
+
+Commenting in this regard, the national organizer of the association Sudath Jayasiri explained that the nursing officers decided to resort to a one-day token strike as the discussions held with the Health Minister and the State Minister for Finance were unfruitful.
+
+Meanwhile, several other health trade unions that engaged in a token strike on Tuesday (Jan.16) have temporarily called off their trade union action at 6:30 a.m. this morning.
+
+The president of Paramedical Services Front (PMSF) Upul Rohana, however, has vowed to resume the trade union action if the authorities fail to address their problems within a week’s time. He said around 100,000 health workers including all paramedical services, hospital secretaries, administrative officers as well as health administrative assistants, minor staff and 75 other trade unions of the health staff would join this island-wide strike.
+
+### Sri Lanka’s Colombo Port sees jump in traffic amid Red Sea tensions
+
+*2024-01-17 08:28:00 - [adaderanalk](https://www.adaderana.lk/news/96465/sri-lankas-colombo-port-sees-jump-in-traffic-amid-red-sea-tensions)*
+
+Sri Lanka’s Colombo port has seen a big jump in container volumes in recent weeks as vessels steering clear of tensions in the southern Red Sea have found it a convenient transit point, officials said on Tuesday.
+
+Yemen’s Iran-backed Houthi rebels have since November attacked ships in the Red Sea, part of a route that accounts for about 12% of the world’s shipping traffic, in what they say is an effort to support Palestinians in the war with Israel.
+
+In response, some shipping companies have instructed vessels to sail around Africa’s Cape of Good Hope, a slower and more expensive route.
+
+Due to Colombo’s strategic location, stopping at the port gives ships convenient access to the Middle East, South Asia and East Asia, said Lal Weerasinghe, a senior official at the Sri Lanka Ports Authority (SLPA).
+
+“When ships come past South Africa, Colombo is the first hub they meet...Singapore is further away. So this is the easiest port to access,” Weerasinghe said.
+
+Port of Colombo is a key port between Africa, the Middle East and East Asia and handled 6.94 million 20-foot equivalent unit (TEU) in 2023, a 2% jump for the year, SLPA data showed. In December, TEUs jumped 15% on year.
+
+Over the last four to six weeks, shipping lines requested more berthing windows at the port’s three terminals and transhipment volumes from neighbouring India also grew, two terminal operators said.
+
+“We typically handle about 5,000-5,500 TEUs (per day) but since late last year there has been an increase of about 1,000 TEUs per day,” said Weerasinghe.
+
+“We were forced to decline requests from about four shipping lines to increase traffic because it would cause delays for existing customers.”
+
+As much as 50% of the uptick is from Mediterranean Shipping Company, the leading container shipping company, Weerasinghe added.
+
+Shipping companies are also increasingly using Colombo as a relaying port, sometimes offloading their entire cargo to a different ship, he added.
+
+Vessel calls have risen at other Colombo port terminals too.
+
+“There is a lot of transhipment from India. We are hoping increased traffic will help Colombo port edge closer to double-digit growth in the first quarter,” said an official from a privately-run terminal.
+
+He declined to be named as he is not authorised to speak to the media.
+
 ### பாக்கிஸ்தான் மீது ஈரான் ஏவுகணை தாக்குதல் - இஸ்லாமிய அமைப்பின் தளத்தை இலக்குவைத்தது
 
 *2024-01-17 08:00:00 - [virakesarilk](https://www.virakesari.lk/article/174116)*
@@ -326,6 +614,26 @@ MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a mi
 
 ஒரு சிலநாட்களிற்குள் ஈரான் சிரியா ஈராக் பாக்கிஸ்தான் ஆகிய நாடுகள் மீது தாக்குதல்களை மேற்கொண்டுள்ளமை குறி;ப்பிடத்தக்கது.
 
+### Qatar, France broker deal to get aid, medication to civilians, hostages in Gaza
+
+*2024-01-17 07:53:00 - [adaderanalk](https://www.adaderana.lk/news/96464/qatar-france-broker-deal-to-get-aid-medication-to-civilians-hostages-in-gaza)*
+
+(Reuters) - Qatar and France have brokered a deal with Israel and Palestinian Islamist group Hamas to deliver urgent medication to some 45 Israeli hostages held by the group in Gaza in return for humanitarian and medical aid for the most vulnerable civilians.
+
+The two countries said the aid would leave Qatar for Egypt on Wednesday before being taken across the Rafah border crossing.
+
+Qatari foreign ministry spokesperson Majed al-Ansari said in a statement the deal would mean “medicine along with other humanitarian aid is to be delivered to civilians in the Gaza Strip, in the most affected and vulnerable areas, in exchange for delivering medication needed for Israeli captives in Gaza.”
+
+He did not give details on how much aid or what aid would be delivered to civilians.
+
+The office of Israeli Prime Minister Benjamin Netanyahu said two Qatari Air Force planes were to land on Wednesday in Egypt with medicines purchased in France based on an Israeli list.
+
+Earlier, Philippe Lalliot, head of France’s foreign ministry crisis centre which organises aid efforts, said negotiations had been going on for weeks and the initial idea had come from the families of some of the Israeli hostages.
+
+Specific medical packages for several months, which were put together in France, would be delivered to each of the 45 hostages. The International Committee of the Red Cross will coordinate on the ground.
+
+France still has three nationals held in Gaza, but none of them are in urgent need of medication, Lalliot said.
+
 ### ඉන්දීය වයලීන් රජු  අම්බි සුබ්‍රමනියම් අද ලංකාවට
 
 *2024-01-17 07:50:59 - [adalk](https://www.ada.lk/breaking_news/ඉන්දීය-වයලීන්-රජු--අම්බි-සුබ්‍රමනියම්-අද-ලංකාවට/11-407588)*
@@ -335,6 +643,16 @@ MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a mi
 අද  සිට 21 දා දක්වා මෙරට රැඳී සිටින අම්බි මහතාගේ ශාස්ත්‍රීය සංගීත වැඩ මුළුවක් හා වයලින් වාදනයක් හෙට  පස්වරු 1.00 ට පේරාදෙණිය විශ්ව විද්‍යාලයේ කෘෂිකර්ම විද්‍යා පීඨ ශ්‍රවනාගාරයේදි ද අම්බි  මහතාගේ සංගීත ප්‍රසංගයක් අද  පස්වරු 06.30ට විශ්ව විද්‍යාලීය ගෘහස්ත ක්‍රීඩාංගණයේදීද  නොමිලේ  පැවැත්වෙන බව ඒවා සංවිධානය කරන  පේරාදෙණිය  විශ්ව ව්ද්‍යාලය සඳහන් කරයි.
 
 මේ සංගිත ප්‍රසංගය සඳහා 5000 ක පිරිසකට නොමිලේ සහභාගි විය හැකි බැව්ද  එම විශ්ව විද්‍යාලය පවසයි.
+
+### A few showers expected in several provinces
+
+*2024-01-17 07:43:00 - [adaderanalk](https://www.adaderana.lk/news/96463/a-few-showers-expected-in-several-provinces)*
+
+The Department of Meteorology says a few showers may occur in Eastern, Uva and Central provinces.
+
+Mainly fair weather will prevail in the other areas of the island, it said.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa, Central and North Western provinces and in Galle and Matara districts during the morning.
 
 ### උපෙළ කෘෂි විද්‍යාව පළමු ප්‍රශ්න පත්‍රයත් අවලංගුයි - ප්‍රශ්න පත්‍ර දෙකම පෙබරවාරි 01දා
 
@@ -1703,431 +2021,3 @@ It is clear that Sri Lanka’s renewable energy policy direction is underpinned 
 காவி உடையை அனைவரும் அணியும் நிலை இன்று காணப்படுகிறது. இவ்வாறானவர்களை கைது செய்யவும்  முடியாது.பிக்கு ஒருவர்  காவி உடை தரிக்க வேண்டும் என்று ஒழுக்கச் சட்டத்தில் குறிப்பிடப்பட்டுள்ளது.ஆனால் ஏனையோர் காவி உடைய அணிய முடியாது என்று சட்டத்தில் குறிப்பிடப்படவில்லை. ஆகவே காவி உடை அணிந்தவர்கள் எதை செய்தாலும் அவர்களை உடனடியாக கைது செய்ய முடியாத நிலை காணப்படுகிறது.
 
 தான் விரும்பும் ஆடைகளை அணிந்து கொள்ளும் உரிமை அனைவருக்கும் உண்டு. 2300 வருட கால தொன்மையை கொண்டுள்ள பௌத்த கோட்பாட்டை பாதுகாக்க வேண்டுமாயின் இந்த நாட்டில் காவி உடை அணிவதை பிக்குகளுக்கு மாத்திரம் வரையறைக்கும் சட்டம் இயற்றப்பட வேண்டும் என்றார்.
-
-### Prices of fertilizers used for tea cultivation slashed
-
-*2024-01-16 17:11:00 - [adaderanalk](https://www.adaderana.lk/news/96450/prices-of-fertilizers-used-for-tea-cultivation-slashed-)*
-
-The prices of three types of fertilizers used for the cultivation of tea have been reduced by Rs. 2,000, Agriculture and Plantation Industries Minister Mahinda Amaraweera announced on Tuesday (16 Jan.).
-
-Accordingly, the prices of T-750, T-709 and T-200 fertilizers have been reduced by Rs. 2,000.
-
-According to the Minister, directives have been issued to Dr. Jagath Perera, Chairman of the state-owned Ceylon Fertilizer Company and the Colombo Commercial Fertilizer Company to reduce the prices of T-750 and T-709 fertilizers to Rs. 7,735, and that of the T-200 fertilizer to be reduced to Rs. 5,500.
-
-He explained that while the aforementioned price reductions will be applicable to both small and medium-scale tea cultivators, the T-750, T-709 and T-200 fertilizers will be sold at the price of Rs. 9,735 to all large-scale tea cultivation companies.
-
-Minister Amaraweera further explained that the prices of fertilizers used for the cultivation of tea are likely to reduce by 50%, stating that the current prices of the aforementioned fertilizers is Rs. 13,000.
-
-He explained that the measure was taken in a bid to mandate the use of fertilizers for the cultivation of tea, so as to better the country’s tea industry.
-
-A meeting was held at the premises of the Plantation Industries Ministry this afternoon, with the participation of representatives from tea-growing associations in all eight tea-growing districts and other relevant officials from the Ministry.
-
-### உலகளாவிய தலைமைத்துவ தோல்வியின் விளைவுகளை வளர்ந்து வரும் நாடுகள் சுமக்க வேண்டிய நிலை - சுவிஸ் பசுமை தொழில்நுட்ப மன்றத்தில் ஜனாதிபதி
-
-*2024-01-16 17:06:00 - [virakesarilk](https://www.virakesari.lk/article/174085)*
-
-இலங்கையின் புதுப்பிக்கத்தக்க எரிசக்தி துறையில் முதலீடு செய்ய இதுவே சரியான தருணம் என்றும், அடுத்து வரும் தசாப்தங்களில் இது அந்தப் பங்குதாரர்களுக்கும் இலங்கை நுகர்வோருக்கும் குறிப்பிடத்தக்க நன்மைகளை ஏற்படுத்தும் என்பதில் சந்தேகமில்லை என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
-
-அதற்காக முன்வரும் புதுப்பிக்கத்தக்க வலுசக்தி துறை முதலீட்டாளர்களுக்கு இலங்கை அரசாங்கம் உயர் மட்ட மற்றும் நிலையான கொள்கையை உத்தரவாதம் செய்யும் என்றும் ஜனாதிபதி சுட்டிக்காட்டினார்.
-
-சுவிஸ்சர்லாந்தின் டாவோஸ் நகரில் திங்கட்கிழமை (15) இடம்பெற்ற “பசுமை தொழில்நுட்ப மன்றத்தில்” (Green Tech Forum) கலந்து கொண்டு உரையாற்றும் போதே ஜனாதிபதி ரணில் விக்ரமசிங்க இதனைக் குறிப்பிட்டார். இதனை  சுவிஸ் - ஆசிய வர்த்தக சம்மேளனம் ஏற்பாடு செய்துள்ளது.
-
-'எரிசக்தியால் பாதுகாப்பான இலங்கைக்கு வழி வகுத்தல்' என்ற தொனிப்பொருளில் தனது உரையை ஆற்றிய ஜனாதிபதி, இலங்கையில் புதுப்பிக்கத்தக்க வலுசக்தித் துறையின் உயர் ஆற்றல்கள் மற்றும் புதுப்பிக்கத்தக்க வலுசக்தி துறைக்கு உகந்த முதலீட்டுடன் கூடிய சூழலை ஏற்படுத்த கடந்த 2 ஆண்டுகளில் அரசாங்கம் எடுத்துள்ள நடவடிக்கைகள் குறித்தும் தெளிவுபடுத்தினார்.
-
-காலநிலை மாற்றத்தைக் குறைப்பதில் இலங்கையின் அர்ப்பணிப்பை வலியுறுத்திய ஜனாதிபதி ரணில் விக்ரமசிங்க, டுபாயில் நடைபெற்ற COP28 மாநாட்டில் முன்வைக்கப்பட்ட "வெப்பமண்டல முன்முயற்சி" உட்பட ஏனைய நடவடிக்கைகள் குறித்தும் விளக்கினார்.
-
-இலங்கை தனது நிலையான, பசுமையான அபிவிருத்தி நிகழ்ச்சி நிரலை அடைவதற்கான இலட்சியத் திட்டங்களைக் கொண்டிருப்பதாகவும், 2050 ஆம் ஆண்டளவில் நிகர பூஜ்ஜிய உமிழ்வை அடைவதில் உறுதியாக உள்ளதாகவும் ஜனாதிபதி வலியுறுத்தினார்.
-
-துரித புதுப்பிக்கத்தக்க வலுசக்தித் திட்டம் இந்த முழு முயற்சியின் ஒரு முக்கிய அங்கம் என்றும், இது வலுசக்தி பாதுகாப்பிற்கான பாதையில் இன்றியமையாத நடவடிக்கை என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
-
-இந்த விரிவுரையை வழங்க என்னை அழைத்த சுவிஸ் - ஆசிய வர்த்தக சம்மேளனம் மற்றும் இந்நிகழ்வின் அனைத்து ஏற்பாட்டாளர்களுக்கும்  நன்றி தெரிவிக்கிறேன்.
-
-காலநிலை மாற்றத்தைத் தணிக்க உலகளாவிய நடவடிக்கையை துரிதப்படுத்த வேண்டிய அவசரத் தேவை ஏற்பட்டுள்ளது. இதற்காக பல்வேறு அர்ப்பணிப்புகளைச் செய்த பல உலகளாவிய மன்றங்கள் உள்ளன. இருப்பினும், இதற்காக அர்ப்பணிப்பதை விட செயற்படுவது குறைந்த மட்டத்தில் உள்ளது என்று சொல்ல வேண்டும். உலகளாவிய தலைமைத்துவத்தில் ஏற்பட்ட இந்த தோல்வியின் விளைவுகள் பெரும்பாலும் பூகோள தெற்கின் வளர்ந்து வரும்  நாடுகளுக்கு சுமக்க நேரிடுகிறது.
-
-பொதுவான காலத்தை விட வறட்சி, நீண்ட காலம் நீடிப்பது விவசாய உற்பத்திக்கு இடையூறு விளைவிக்கும் போது நமது உணவு பாதுகாப்பு ஆபத்தில் தள்ளப்படுகிறது. மேலும், தாமதமான பருவமழை காரணமாக நீர்மின் உற்பத்தி தடைபடும்போது நமது வலுசக்தி பாதுகாப்பு ஆபத்தில் உள்ளது.
-
-வறட்சியின் நிறைவில் வெள்ளம் நிலைமை ஏற்படுகிறது. குறிப்பாக, சாதாரண மக்களின் வாழ்க்கையையும் வாழ்வாதாரத்தையும் சீர்குலைக்கிறது. வளர்ச்சியடைந்து வரும் நாடுகளில் பருவநிலை மாற்றத்தால் ஏற்படும் பாதகமான விளைவுகள் அசாதாரணமானது என்பது இதிலிருந்து மிகத் தெளிவாகத் தெரிகிறது.
-
-காலநிலை நீதி  தொடர்பான பிரச்சினையைப் போன்று அதனை தணிக்கவும்  பூகோள தெற்கின் நாடுகளுக்கு மேம்பட்ட பொருளாதாரங்களின் வலுவான பங்களிப்பின் அவசியத்தையும் இது காட்டுகிறது.
-
-காலநிலை மாற்றத்தைத் தணிக்க இலங்கை உறுதிபூண்டுள்ளது என்பதை வலியுறுத்த வேண்டும். டுபாயில் நடைபெற்ற  COP28  மாநாட்டில் "வெப்பமண்டல முன்முயற்சி" ஆரம்பிக்கப்பட்டது. இது வெப்பமண்டல நாடுகளில் காடுகள், வலுசக்தி, சமுத்திரம் மற்றும் சதுப்புநில சுற்றுச்சூழல் அமைப்புகளில் தனியார் முதலீட்டை ஊக்குவிக்கும் திட்டத்தை உருவாக்குகிறது.
-
-அத்தகைய முயற்சிகளின் ஒரு முக்கிய அங்கமான, புதுப்பிக்கத்தக்க ஆற்றலில் நமது முயற்சிகளுக்கு உங்கள் கவனத்தை ஈர்க்க விரும்புகிறேன்.
-
-புதுப்பிக்கத்தக்க ஆற்றலுக்கான நீண்ட வரலாற்றை இலங்கை கொண்டுள்ளது என்பதை நீங்கள் அறிவீர்கள். சுதந்திரத்திற்குப் பிறகு, இலங்கை நீர்மின் உற்பத்தியில் விரிவான வலையமைப்பை உருவாக்கியது. 1950 இல் அதன் முதல் பாரிய  நீர்மின் உற்பத்தி நிலையம் ஆரம்பிக்கப்பட்டது. இது நான்கு நீர்த்தேக்கங்களைக் கொண்டுள்ளது. அதன் பின்னர் நாட்டின் ஆற்றல் தேவைக்காக மகாவலி அபிவிருத்தித் திட்டத்தை ஆரம்பித்தோம். இவ்வாறு ஐந்து பிரதான நீர்த்தேக்கங்கள் உருவாக்கப்பட்டு ஆறாவது நீர்த்தேக்கமாக வளவே கங்கை திட்டம் இணைக்கப்பட்டது. மகாவலி கங்கைத் திட்டத்தின் இறுதிக் கட்டம் ஏழு வருடங்களுக்கு முன்னர் பூர்த்தி செய்யப்பட்டது. இதனால், நீர்மின்சாரத்திற்கு கிடைக்கும் மூலங்களைப் பயன்படுத்தியுள்ளோம்.
-
-இன்றும், இலங்கையின் மின்சார உற்பத்தித் திறனில் சுமார் 40% நீர்மின்சாரமாகும். நீர் மின்சாரம் உகந்த அளவில் பயன்படுத்தப்பட்டதால், காற்றாலை மற்றும் சூரிய மின் உற்பத்தியை தேசிய மின் கட்டமைப்பில் ஒருங்கிணைக்க அதிக முயற்சிகள் மேற்கொள்ளப்பட்டுள்ளன.
-
-2030 ஆம் ஆண்டளவில் இலங்கையின் மின்சாரத் தேவையில் 70% புதுப்பிக்கத்தக்க வலுசக்தி மூலம் பூர்த்தி செய்யப்படுவதை உறுதி செய்வதற்காக அரசாங்கம் தற்போது இந்த செயல்முறையை துரிதப்படுத்தியுள்ளது. இந்த இலக்கை அடைய 11.5 பில்லியன் அமெரிக்க டாலர்கள் வரை பெரிய முதலீடு தேவைப்படுகிறது. இருப்பினும், அண்மைக் காலம் வரை, புதுப்பிக்கத்தக்க வலுசக்தி துறையில் தனியார் துறை முதலீட்டிற்கான கட்டமைப்பு மிகவும் சாதகமாக இல்லை.
-
-கடந்த 2 ஆண்டுகளில், இந்த குறைபாடுகளை சீர் செய்யவும், புதுப்பிக்கத்தக்க வலுசக்தி துறைக்கு உகந்த முதலீட்டு சூழலை உருவாக்கவும் அரசாங்கம் பல நடவடிக்கைகளை எடுத்துள்ளது.
-
-அதன் முதலாவது முன்னெடுப்பாக, செலவு பிரதிபலிப்பு கட்டண முறையை உருவாக்க வேண்டும். 2014 மற்றும் 2022இற்கு இடையில், இலங்கையில் மின்சார கட்டணத்தில் திருத்தம் எதுவும் செய்யப்படவில்லை. இதனால் இலங்கை மின்சார சபைக்கு பணம் கிடைப்பதில்  சிக்கல் ஏற்பட்டதுடன் சில சந்தர்ப்பங்களில் மின்சார விநியோகஸ்தர்களுக்கான கொடுப்பனவுகளில் தாமதம் ஏற்பட்டது.
-
-இருப்பினும், ஒகஸ்ட் 2022 முதல், இது செலவு-பிரதிபலிப்பு விலை சூத்திரத்திற்கு மாறியது. அதன்படி, எதிர்கால மின் உற்பத்தி செலவைப் பிரதிபலிக்கும் வகையில், ஒவ்வொரு காலாண்டிலும் மின் கட்டணங்கள் மறுசீரமைக்கப்படுகின்றன. நீண்ட காலமாக நஷ்டத்தில் இயங்கி வந்த இலங்கை மின்சார சபை 2023 ஆம் ஆண்டு இலாபம் ஈட்டும் நிறுவனமாக மாறியதன் மூலம் ஏற்கனவே இருந்த கடன்களை கணிசமான அளவில் செலுத்த முடிந்தது.
-
-இந்த நிறுவனம் இப்போது வலுவான இருப்புநிலை மற்றும் வலுவான பணப்புழக்க நிலை மற்றும் நிதி பணப் புழக்கத்தை உறுதி செய்யும் கட்டண அறவீட்டு முறையொன்றைக் கொண்டுள்ளது.  உள்ளக மறுசீரமைப்புகள், பசுமை நிதியை ஈர்ப்பதற்கான கட்டமைப்பையும் நாங்கள் தயாரித்து வருகிறோம்.
-
-நிலையான நிதிக்கான வரைபடம், பசுமை நிதி வகைப்படுத்தல், நிலையான அபிவிருத்தி இலக்குகளுக்கான முதலீட்டாளர் வரைபடம் (SDG) மற்றும் தற்போது தயாரிக்கப்பட்டு வரும் பசுமைப் பிணைப்புக் கட்டமைப்பிற்கான வரைப்படம் ஆகியவை  ஊடாக இலங்கைக்கு பலமான காலநிலை நிதியியலைப் பலப்படுத்தி தேவையான சூழல் உருவாக்கப்படுகிறது. நிலையான நிதியுதவியை வழங்குவது இலங்கையின் புதுப்பிக்கத்தக்க வலுசக்தி துறையில் முதலீடுகளுக்கு கூடுதல் ஊக்கத்தை அளிக்கும்.
-
-புதுப்பிக்கத்தக்க வலுசக்தி துறையில் பாரிய அளவிலான தனியார் துறை முதலீடுகளுக்கு சட்டரீதியான தடைகள் உள்ளன. 2022 இல் கொண்டுவரப்பட்ட மின்சாரச் சட்டத் திருத்தம் அந்தச் சட்டத் தடைகளை நீக்குவதற்கான இரண்டாவது படியாகும்.
-
-மூன்றாவதாக, இலங்கை மின்சார சபையை மறுசீரமைக்கும் இறுதிக் கட்டத்தில் அரசாங்கம் உள்ளது. இது மின்சார சபையின் விநியோகம், உற்பத்தி மற்றும் பரிமாற்றத்தில் அதிக நிதி மற்றும் செயல்பாட்டு சுதந்திரத்தை உருவாக்கும்.  இதன் விளைவாக போட்டித்தன்மை மற்றும் வெளிப்படைத்தன்மை ஏற்படும்.
-
-மின் உற்பத்தியில் தனியார் துறை பங்களிப்பு ஏற்கனவே நடைபெற்று வருகிறது, இந்த மறுசீரமைப்பு திட்டத்தின் மூலம் தனியார் துறை பங்கேற்புக்கு அதிக வாய்ப்பு கிடைக்கும்.
-
-ஆசிய  அபிவிருத்தி வங்கியின் ஆதரவுடன் செயல்படுத்தப்படும் இந்த பாரிய மறுசீரமைப்புகள், நுகர்வோர் மற்றும் மிகவும் போட்டி மற்றும் திறமையான மின் உற்பத்தியாளர்களுக்கு அதிக உற்பத்தி வாய்ப்புகளை உருவாக்குகின்றன. மின்சார சபை  திறமையாக செயல்படுவதையும் இது உறுதி செய்கிறது. இந்த மறுசீரமைப்புக்கான சட்ட வரைவு கடந்த மாதம் வெளியிடப்பட்டது.
-
-குறிப்பாக 2026 ஆம் ஆண்டளவில் நாட்டின் தேசிய மின்சாரத் தேவைகளில் 70 சதவீதத்தை புதுப்பிக்கத்தக்க ஆற்றலில் இருந்து பூர்த்தி செய்யும் நோக்கத்திற்காக, கட்டமைப்பின் செயல்திறனை மேம்படுத்தவும் புதுப்பிக்கத்தக்க ஆற்றலை ஒருங்கிணைக்கவும் மேம்பாடுகள் அவசியம். களஞ்சியப்படுத்தல், பரிமாற்றம் மற்றும் விநியோகம் ஆகியவற்றிலும் முதலீடு தேவைப்படுகிறது. 2030 ஆம் ஆண்டு வரை இந்த ஒருங்கிணைப்புக்கான திட்டங்கள் தயாரிக்கப்பட்டு, அவற்றின் செயல்படுத்தல் ஏற்கனவே தொடங்கப்பட்டுள்ளது.
-
-கடந்த இரண்டு ஆண்டுகளில் வலுசக்தி துறையில் செயல்படுத்தப்பட்ட முக்கிய மறுசீரமைப்புகள் இந்தத் துறையில் மீண்டும் ஆர்வத்தை ஏற்படுத்தியது. பாரிய அளவிலான சூரிய மற்றும் காற்றாலை ஆற்றல் திட்டங்கள் ஏற்கனவே செயல்படுத்தப்பட்டுள்ளன.
-
-இந்தியாவின் முன்னணி வர்த்தக நிறுவனம் 350 மெகாவாட் காற்றாலை மின்சாரத்தை உற்பத்தி செய்ய முன்வந்துள்ளது.  இது 2025 இல் தொடங்க எதிர்பார்க்கப்படுகிறது. இந்நிறுவனம் மேலும்  750 மில்லியன் டொலர்களை காற்றாலை ஆற்றலில் முதலீடு செய்ய திட்டமிட்டுள்ளது. அதன்படி காற்றாலை மின்சாரம் இலங்கைக்கு பெரும் வாய்ப்பை வழங்குகிறது.
-
-குறிப்பாக கடலோர காற்றாலை மின்சாரத்தின் ஊடாக  இலங்கைக்கு  தேவையை விட அதிக மின்சாரத்தை உற்பத்தி செய்யும் சாத்தியம் உள்ளதாக உலக வங்கியின் அண்மைய அறிக்கை சுட்டிக்காட்டுகிறது.
-
-இந்த நிலையைக் கருத்தில் கொண்டு, இலங்கைக்கும் இந்தியாவுக்கும் இடையில் வலுசக்தி தொடர்பை ஏற்படுத்துவது தொடர்பான கலந்துரையாடல்கள் முற்போக்கான கட்டத்தில் உள்ளது. மேலதிக  மின்சாரத்தை, குறிப்பாக இந்தியாவின் தென்பகுதியில் வேகமாக வளர்ந்து வரும் தொழில்துறைப் பகுதிக்கு ஏற்றுமதி செய்வதற்கான வாய்ப்பை இது வழங்குகிறது.
-
-சூரிய சக்தி மின்உற்பத்திக்கும் அதிக வாய்ப்பு உள்ளது. இது சுமார் 40 ஜிகாவொட் என மதிப்பிடப்பட்டுள்ளது. கூரைகளில் பொருத்தப்படும்  சூரிய தகடுகளினால்  உருவாக்கப்படும் ஆற்றலைத் தவிர, சூரிய சக்தி  ஆற்றல் சுமார் 200 ஜிகாவாட் ஆகும். அதன்படி, மொத்த அளவை அதிகரிக்க வேண்டும். இது இலங்கையின் காற்றாலை சக்தியை விட அதிகம். இலங்கையில் பசுமை ஹைட்ரஜன் மற்றும் பசுமைஆமோனியாவின் சாத்தியக்கூறுகளையும் நாங்கள் ஆராய்ந்து வருகிறோம்.
-
-இலங்கையின் நிலையான, பசுமையான அபிவிருத்தி நிகழ்ச்சி நிரலை நிறைவேற்றுவதற்கான நம்பிக்கைக்குரிய திட்டங்கள் உள்ளன. 2050 ஆம் ஆண்டளவில் நிகர பூஜ்ஜிய உமிழ்வை அடைய இலங்கை உறுதிபூண்டுள்ளது.
-
-துரித  புதுப்பிக்கத்தக்க வலுசக்தித் திட்டம் இந்த முழு முயற்சியின் ஒரு முக்கிய அங்கமாகும், மேலும் இது ஆற்றல் பாதுகாப்பிற்கான இன்றியமையாத படியாகும்.
-
-இலங்கை தற்போது வறட்சிக் காலத்தில்  அதிக விலைகூடிய  எரிபொருளைச் சார்ந்து இருப்பதால், இந்த புதுப்பிக்கத்தக்க வலுசக்தி ஆதாரங்கள் உற்பத்திச் செலவைக் குறைக்கும் ஆற்றலைக் கொண்டுள்ளது.
-
-இலங்கை தற்போது காலநிலை மாற்றத்தைத் தணித்தல் தொடர்பான சர்வதேச பல்கலைக்கழகத்தை நிறுவுவதற்கான நடவடிக்கைகளில் ஈடுபட்டுள்ளது. இது பசுமை ஆற்றலுக்கான தற்போதைய வாய்ப்புகளை மேலும் திறந்து விடும்.
-
-இலங்கையின் புதுப்பிக்கத்தக்க வலுசக்தி கொள்கையின் திசையை பல்வேறு உந்துதல்களும் பங்குதாரர்களும் ஆதரிக்கின்றனர் என்பது தெளிவாகிறது. எனவே, முதலீட்டாளர்கள் இந்தத் துறையில் உயர்தரம்  மற்றும் நிலையான கொள்கையை எதிர்பார்க்கலாம். இலங்கையின் புதுப்பிக்கத்தக்க வலுசக்தி துறையில் முதலீடு செய்வதற்கு இதுவே சிறந்த தருணம். மேலும் இதுபோன்ற முதலீடுகள் எதிர்வரும் தசாப்தங்களில் அதன் பங்குதாரர்களுக்கும் இலங்கை நுகர்வோருக்கும் அதிக வருமானத்தை தரும் என்பதில் எனக்கு எதுவித சந்தேகமும் கிடையாது.'' என்று ஜனாதிபதி தெரிவித்தார்.
-
-### பிக்மீ சாரதி மீதும் வாடிக்கையாளர் மீதும் பிறிதொரு முச்சக்கர வண்டி சாரதியால் தாக்குதல்!
-
-*2024-01-16 17:03:00 - [virakesarilk](https://www.virakesari.lk/article/174086)*
-
-இன்று செவ்வாய்க்கிழமை (16) பிக்மீ (PickMe) சாரதி ஒருவர் கோண்டாவிலில் உள்ள புகையிரத நிலையத்துக்கு அருகாமையில் வைத்து மற்றும் ஒரு முச்சக்கர வண்டி சாரதியினால் தாக்கப்பட்டார்.
-
-குறிப்பிட்ட சம்பவம் இன்றைய தினம் மதியம் இரண்டரை மணியில் இருந்து 3:30 மணிக்குள் இடம்பெற்றுள்ளதாக பாதிக்கப்பட்ட சாரதி தெரிவித்துள்ளார். இவர் மட்டும் இல்லாமல் இவரை அழைத்த பிரயாணியும் குறிப்பிட்ட மற்றைய சாரதியினால் தாக்கப்பட்டதாக தெரிவிக்கப்படுகிறது.
-
-குறித்த பகுதியில் இருந்த பயணிகள் இருவர் பிக்மீ  மூலம் முச்சக்கர வண்டியை வாடகைக்கு அமர்த்தினார். இதன்போது குறித்த முச்சக்கர வண்டி சாரதி வாடிக்கையாளர்கள் இருவரையும் ஏற்றிக்கொண்டு செல்ல முற்பட்டவேளை அவ்விடத்திற்கு வந்த மற்றொரு முச்சக்கர வண்டி சாரதி அவர் மீது தாக்குதல் மேற்கொண்டுள்ளார். அத்துடன் பயணியையும் தாக்கியுள்ளார்.
-
-இச்சம்பவம் குறித்து கோப்பாய் பொலிஸ் நிலையத்தில் முறைப்பாடு பதிவு செய்யவுள்ளதாக பாதிக்கப்பட்ட சாரதி தெரிவித்துள்ளார்.
-
-### Sri Lanka to speed up negotiations to use sea area beyond exclusive economic zone
-
-*2024-01-16 17:00:00 - [adaderanalk](https://www.adaderana.lk/news/96449/sri-lanka-to-speed-up-negotiations-to-use-sea-area-beyond-exclusive-economic-zone-)*
-
-The Sectoral Oversight Committee on International Relations has drawn its attention to the affairs related to the National Oceanic Affairs Committee Secretariat, an agency affiliated to the Ministry of Foreign Affairs.
-
-The Committee to which met on 09 January 2024 chaired by Member of Parliament Akila Ellawala discussed the role of the National Oceanic Affairs Committee Secretariat, challenges faced and future plans, the Parliamentary Communications Department said in a statement.
-
-The current Chairman of the secretariat, Dr. N.P. Vijayananda, addressing the meeting, stated that there is a possibility of using a sea area of 250 nautical miles beyond the exclusive economic zone, which is 200 nautical miles from the land of the country, for economic activities in the country.
-
-According to the United Nations Charter on the Law of the Sea, the agreement of the regional countries is necessary, so the Chairman pointed out that negotiations with other regional countries, including India, are ongoing. It was also discussed that this ocean region is very important for Sri Lanka due to fuel exploration and biodiversity, the statement mentioned.
-
-Accordingly, the Committee Chair pointed out the need to speed up these activities in coordination with the Ministry of Defense and said that he expects to make a request to the minister in charge of the subject.
-
-Committee members and Members of Parliament Madhura Withanage, S.M.M. Muszhaaraff, officials representing the Ministry of Foreign Affairs were present at the Committee meeting held, according to the Parliamentary Communications Department.
-
-### இந்தியாவில் இந்தி மொழியினைக் கற்பதற்கான புலமைப் பரிசில்
-
-*2024-01-16 16:59:00 - [virakesarilk](https://www.virakesari.lk/article/174084)*
-
-2024-25 கல்வி ஆண்டில், இந்தி மொழியினைக் கற்பதற்கான புலமைப் பரிசில்கள் இந்திய அரசாங்கத்தின் மனித வள மேம்பாட்டுத் துறை அமைச்சினால் வழங்கப்படுகின்றது.
-
-இந்தத் திட்டமானது முழுமையான நிதியுதவியுடன் கூடிய புலமைப்பரிசிலாக காணப்படுவதுடன், இதில் தேர்ந்தெடுக்கப்பட்ட விண்ணப்பதாரர்களுக்கு இருவழி விமான கட்டணம், உதவித்தொகை, தங்குமிடம் மற்றும் வருடாந்த புத்தகக் கொடுப்பனவு ஆகியவை வழங்கப்படும்.
-
-2. 21 வயது முதல் 35 வயதுக்கு இடைப்பட்டவர்களில் இந்தி மொழியினை ஆரம்ப/இடைநிலை மட்டத்தில் பயின்றவர்கள் இப்புலமைப் பரிசிலுக்கு விண்ணப்பிப்பதற்கான தகுதியினைக் கொண்டிருக்கின்றனர்.
-
-இலங்கையைச் சேர்ந்த தகுதிவாய்ந்த மாணவர்கள் முழுமையாக நிரப்பப்பட்ட விண்ணப்ப படிவங்களுடன் 2024 பெப்ரவரி 26 ஆம் திகதி கொழும்பு 07 கிரகரிஸ் வீதி இலக்கம் 16/2 இல் அமைந்துள்ள சுவாமி விவேகானந்தா கலாசார நிலையத்தில் (இந்திய கலாசார நிலையம்) நடைபெறும் நேர்முகத் தேர்விற்காக சமூகமளிக்குமாறு கோரப்படுகின்றார்கள்.
-
-### பச்சை இலை கஞ்சியை கொடுத்து கைவரிசை
-
-*2024-01-16 16:56:18 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பச்சை-இலை-கஞ்சியை-கொடுத்து-கைவரிசை/175-331607)*
-
-வைத்தியசாலையின் இருதய சிகிச்சைப் பிரிவுக்கு முன்பாக காத்திருந்த பெண்ணொருவருக்கு, பச்சை இலை கஞ்சியை கொடுத்த மற்றுமொரு பெண், காத்திருந்த பெண் மயங்கிய​தை அடுத்து, அவரிடமிருந்த தங்க நகைகளை அபகரித்துக்கொண்டு ஓடிவிட்டார் என  கண்டி தலைமையக பொலிஸார் தெரிவிக்கின்றனர்.
-
-கண்டி வைத்தியசாலையின் இருதய சிகிச்சைப் பிரிவுக்கு முன்பாகவே இந்த சம்பவம் இடம்பெற்றுள்ளது. இனந்தெரியாத அப்பெண் போதைப்பொருள் கலந்த பச்சை இலை கஞ்சி​யை கொடுத்துள்ளார். அதனை வாங்கி குடித்த  அப்பெண்  மயக்கமடைந்ததை அடுத்தே தனது கைவரிசையை காண்பித்துள்ளார்.
-
-சந்தேக நபரை கைது செய்வதற்கான விசாரணைகளை கண்டி தலைமையக பொலிஸாரின் குற்றப்புலனாய்வு பிரிவினர் மேற்கொண்டு வருகின்றனர்.
-
-கண்டி தேசிய வைத்தியசாலையின் இருதய சிகிச்சைப் பிரிவில் சிகிச்சை பெற்று வரும் தனது கணவரைப் பார்ப்பதற்காக வந்த பெண், நோயாளிகளைப் பார்க்கும் நேரம் வரும் வரை அருகில் இருந்த பெஞ்சில் அமர்ந்திருந்ததாக பொலிஸார் தெரிவிக்கின்றனர்.
-
-இதற்கிடையில் அங்கு அமர்ந்திருந்த மற்றொரு பெண், அப் பெண்ணுடன் பேசி நட்பாகி கொண்டுள்ளார். அதன்பின்னர் தான் வாங்கி வந்திருந்த   பச்சை இலை கஞ்சியை குடிக்க கொடுத்துள்ளார்.  கஞ்சியை குடித்ததன் பின்னர் அப்பெண் மயங்கிவிட்டார். சுயநினைவு திரும்பியபோ​தே தான் அணிந்திருந்த, ​​தங்க நகைகள் மற்றும் பணம் காணாமல் போனதை கவனித்து பொலிஸில் முறைப்பாடு செய்துள்ளார்.
-
-### மன்னார் எருக்கலம்பிட்டியில் பல இலட்சம் ரூபா பெறுமதியான சங்குகளுடன் மூவர் கைது
-
-*2024-01-16 16:41:00 - [virakesarilk](https://www.virakesari.lk/article/174064)*
-
-மன்னார் கடற்படைக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் பிரகாரம் மன்னார் பொலிஸ் குற்றப்புலனாய்வு பிரிவினருடன் இணைந்து எருக்கலம் பிட்டி பகுதியில் மேற்கொண்ட திடீர் சோதனை நடவடிக்கையின் போது அனுமதி அளிக்கப்பட்ட அளவை விட சிறிய அளவிலான சங்குகளை உடமையில் வைத்திருந்த பெண் உட்பட மூவர் கைது செய்யப்பட்டுள்ளனர்.
-
-திங்கட்கிழமை (16) மதியம் கடற்படைக்கு கிடைக்கப்பெற்ற இரகசிய தகவலுக்கு அமைவாக மன்னார் பொலிஸ் குற்றப்புலனாய்வு பிரிவினருடன் இணைந்து மன்னார் மாவட்டத்திற்கு பொறுப்பான பொலிஸ் அத்தியட்சகர் எல்.வை.ஏ.எஸ். சந்திரபாலவின் ஆலோசனைக்கு அமைய பொலிஸ் அத்தியட்சகர் ஹரத்தின் நெறிப்படுத்தலில் மன்னார் குற்றப்புலனாய்வு பிரிவு பொறுப்பதிகாரிதலைமையிலான குழுவினர் மேற்கொண்ட சுற்றிவளைப்பு நடவடிக்கையின் போது எருக்கலம்பிட்டி பகுதியில் உள்ள வீடு ஒன்றில் அனுமதி வழங்கப்பட்ட அளவை விட அதிக அளவில் சங்குகள் களஞ்சியப் படுத்தப்பட்டிருந்த துடன் அனுமதி வழங்கப்பட்ட அளவை விட சிறிய அளவிலான சங்குளை உடமையில் வைத்திருந்த சந்தேகத்தின் பேரில் மூவர் கைது செய்யப்பட்டுள்ளனர்.
-
-குறித்த களஞ்சியசாலையில் 20 ஆயிரம் சங்குகளே களஞ்சியப்படுத்த அனுமதி காணப்பட்ட நிலையில் 30   ஆயிரத்திற்கும் மேற்பட்ட   சங்குகளும் வளர்ச்சி நிலை அடையாத சங்குகளும் களஞ்சியப் படுத்தியதன் அடிப்படையில் வீட்டின் உரிமையாளர் உட்பட பணியாளர்கள் இருவர் உள்ளடங்களாக மூவர் கைது செய்யப்பட்டுள்ளனர்.
-
-குறித்த களஞ்சியசாலையில் இருந்து 14,143 சங்குகள், 16 கிலோ கிராம் காய்ந்த அட்டைகள்,700 உயிர் அட்டைகளை போலீசார் பறிமுதல் செய்துள்ளதுடன் மேலதிக விசாரணைகளுக்காக சான்று பொருட்களை மன்னார் பொலிஸ் நிலையத்திற்கு கொண்டு சென்றுள்ளனர்.
-
-மேலதிக விசாரணையின் பின்னர் சங்கு,அட்டைகள் உட்பட சந்தேக நபர்கள் மன்னார் நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தப்பட உள்ளமை குறிப்பிடத்தக்கது.
-
-### Committee appointed to probe escape of inmates from Kandakadu rehab centre
-
-*2024-01-16 16:36:00 - [adaderanalk](https://www.adaderana.lk/news/96448/committee-appointed-to-probe-escape-of-inmates-from-kandakadu-rehab-centre)*
-
-A five-member committee has been appointed to investigate into the recent incident of several inmates escaping the Kandakadu Treatment and Rehabilitation Centre following a clash that occurred among the detainees.
-
-The committee was appointed by Minister of Justice Wijeyadasa Rajapakshe.
-
-Accordingly, the relevant committee, headed by the Supreme Court Judge Hector Yapa, has been instructed to launch an investigation regarding the matter and provide necessary recommendations within a period of 03 weeks.
-
-Additional Secretary (Administration) Ministry of Justice, Prison Affairs and Constitutional Reforms
-
-Senior Assistant Secretary (Legal), Ministry of Justice, Prison Affairs and Constitutional Reforms
-
-Meanwhile, the Office of the Commissioner General of Rehabilitation has also decided to carry out a special investigation into the individuals who are allegedly hindering the process of rehabilitation.
-
-The relevant officers mentioned that there is an ‘invisible arm’ acting behind certain clashes that occur among the detainees of Kandakadu Treatment and Rehabilitation Centre.
-
-The large-scale drug traffickers are reportedly experiencing a shortage of heroin drugs within the coutry and also lack individuals for the transportation of drugs, as a result of the special police operations carried out across the island in order to crack down the drug networks.
-
-The drug addicts who are arrested during drug raids are usually referred to the rehabilitation centres including Kandakadu and Senapura treatment and rehabilitation centres.
-
-At certain instances, it has been observed that the detainees of the rehabilitation centres stage demonstrations over various demands and on some occasions, inmates have escaped from the rehabilitation centres during such instances.
-
-During the preliminary investigations carried out regarding the matter, it has been revealed that the large-scale drug traffickers are manipulating the inmates to create such tense situations within the rehabilitation centres.
-
-Against this backdrop, the Office of the Commissioner General of Rehabilitation has taken measures to initiate an extended investigation into all the inmates detained at the rehabilitation centres island-wide.
-
-The office also highlighted that once the relevant investigations are completed, legal action will be taken against the inmates found responsible for such incidents, after removing them from the relevant rehabilitation centres.
-
-Meanwhile, over 30 international human rights organizations including the Amnesty International, Human Rights Watch and the International Commission of Jurists recently expressed their deep concern regarding the “drastic intensification” of anti-drug operations in Sri Lanka leading to significant human rights violations.
-
-Issuing a joint statement, the 33 international organizations demand the Sri Lankan government to stop the ‘abusive anti-drug operation’ and release the arbitrarily detained individuals.
-
-Furthermore the statement highlighted that the use of violence to discipline and punish has been reported in at least two compulsory drug rehabilitation centres which are within the purview of the Bureau of the Commissioner General for Rehabilitation and are operated by the military, which is in itself a ‘violation of international standards’.
-
-They had also took into note the UN Working Group on Arbitrary Detention in its statement at the conclusion of its visit to Sri Lanka 2017expressing concern regarding the involvement of military personnel in drug treatment and rehabilitation, the fact that strenuous physical exercise was the core component of compulsory drug treatment, and at the lack of trained professionals to monitor the health of people in detention.
-
-Through the statement, it was also demanded to immediately release persons arrested or sent to compulsory drug rehabilitation for using drugs/having a drug dependence, cease involving the armed forces in drug control and treatment activities as consistent with human rights law, repeal laws that allow compulsory drug rehabilitation, close compulsory treatment centres and release persons presently held at the centres within the purview of the Bureau of Commissioner General for Rehabilitation.
-
-### Keselwatta Killing: Cops Arrest Four Men in Alleged Revenge Attack
-
-*2024-01-16 16:14:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/keselwatta-killing-cops-arrest-four-men-in-alleged-revenge-attack/)*
-
-COLOMBO (News 1st); Four individuals from Keselwatta, Colombo, have been apprehended by the Colombo Crime Division in connection with the December 30th slaying of a local resident.
-
-Initial investigations suggest the killing may have been a reprisal for the victim providing information about a drug dealer to the police.
-
-Authorities confirmed that all four arrested individuals reside in the Keselwatta area.
-
-Reforms starting to pay off! Kristalina tells Ranil in Davos
-
-Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
-
-MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
-
-### AI தொழில்நுட்ப வலுவூட்டப்பட நாட்காட்டியை வெளியிட்டுள்ளது மக்கள் வங்கி
-
-*2024-01-16 16:08:00 - [virakesarilk](https://www.virakesari.lk/article/174066)*
-
-இலங்கையில் டிஜிட்டல் வங்கிச் சேவையில் முன்னணியில் திகழும் மக்கள் வங்கி, 2024 புத்தாண்டுக்காக AI தொழில்நுட்பத்தால் இயங்கும் நாட்காட்டியை அறிமுகப்படுத்தியுள்ளது.
-
-தனது வாடிக்கையாளர்களுக்கு அதிநவீன டிஜிட்டல் வங்கிச்சேவை வசதிகளை வழங்குவதில் தொடர்ந்து அர்ப்பணிப்புடன் உழைத்து வரும் மக்கள் வங்கி, பாரம்பரியத்திற்கு அப்பாற்பட்ட புதிய அனுபவத்தை அனைத்து இலங்கையர்களுக்கும் வழங்கும் நோக்கில் இந்த நாட்காட்டியை அறிமுகப்படுத்த நடவடிக்கை எடுத்துள்ளது.
-
-கடல் சூழலைப் பாதுகாப்பது மற்றும் அங்குள்ள உயிரினங்களைப் பாதுகாப்பதன் முக்கியத்துவத்துடன் ‘Our OCEAN, OUR PRIDE’ என்ற தொனிப்பொருளின் கீழ் மக்கள் வங்கி தனது நாட்காட்டியை உருவாக்கியுள்ளது.
-
-நீல திமிங்கலங்கள், ஆமைகள், டொல்பின்கள் மற்றும் பவளப்பாறைகளின் புகைப்படங்கள் இதில் அடங்கும். Google Play Store அல்லது Apple App store மூலம் தற்போதைய பக்கத்தைப் பதிவிறக்கம் செய்து, மக்கள் வங்கியின் நாட்காட்டியை ஸ்கேன் செய்வதன் மூலம், AI தொழில்நுட்பத்தால் இயக்கப்படும் நேரலை வடிவில் தொடர்புடைய காட்சிகளைக் காணலாம். மேலும், இதைப் பற்றிய கூடுதல் தகவல் விபரங்களை அறியவும் உங்களுக்கு வாய்ப்பு கிடைக்கும்.
-
-இலங்கையின் முன்னணி நிதி நிறுவனங்களில் ஒன்றாக, மக்கள் வங்கியானது வங்கிச்சேவை மற்றும் நிலைபேற்றியலை ஒருங்கிணைத்து பல்வேறு வேலைத்திட்டங்களை முன்னெடுத்துள்ளது. அது தொடர்பான விபரங்களை AI நாட்காட்டியை பயன்படுத்துவதன் மூலமாக அறிந்து கொள்ளுமாறு நீங்கள் அனைவரும் அழைக்கப்படுகிறீர்கள்.
-
-இலங்கையின் முன்னணி வங்கிகளில் ஒன்றான மக்கள் வங்கி, ரூபா 3 டிரில்லியனுக்கும்  அதிகமான சொத்துக்களையும், ரூபா 2.5 டிரில்லியனுக்கும் அதிகமான வைப்புத்தொகைகளையும் திரட்டியுள்ளது, நாடு முழுவதும் 747 கிளைகள் மற்றும் சேவை மையங்கள் மற்றும் 290 சுய வங்கிச்சேவைப் பிரிவுகள் கொண்ட மிகப்பெரிய வலையமைப்புடன் 14.7 மில்லியன் வாடிக்கையாளர்களுக்கு தனது சேவைகளை வழங்கி வருகின்றது.
-
-வாடிக்கையாளரின் தேவைகளுக்கு ஏற்றவாறு பரந்த அளவிலான நிதிச் சேவைகள் மற்றும் விசேட வங்கிச்சேவை வசதிகளை வழங்கும் மக்கள் வங்கி, பொறுப்புள்ள அரச வங்கியாக நாட்டின் சமூக மற்றும் பொருளாதார முன்னேற்றத்திற்கு தொடர்ச்சியாக அர்ப்பணிப்புடன் செயற்பட்டு வருகின்றது.
-
-### Time To Invest In Sri Lanka Is Now – RW In Davos
-
-*2024-01-16 16:08:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/16/time-to-invest-in-sri-lanka-is-now-rw-in-davos/)*
-
-President Ranil Wickremesinghe highlighted the present as an opportune moment for investing in Sri Lanka’s renewable energy sector, expressing confidence in its potential to yield substantial benefits for both stakeholders and consumers in the coming decades.
-
-The President also underscored that investors venturing into this sector can anticipate a comprehensive and unwavering policy framework in the realm of renewable energy.
-
-President Ranil Wickremesinghe made these remarks during his address at the “Green Technology Forum” convened on January 15 in Davos, Switzerland. The event was coordinated by the Swiss-Asian Chamber of Commerce.
-
-Speaking on the theme of “Paving the way to an energy secure Sri Lanka,” President Ranil Wickremesinghe highlighted the substantial potential of Sri Lanka’s renewable energy sector. He further outlined the government’s initiatives over the past two years to establish an investment-friendly environment in the renewable energy sector.
-
-Emphasizing Sri Lanka’s dedication to addressing climate change, President Ranil Wickremesinghe elaborated on various measures, including the “Tropical Belt Initiative,” presented at the COP28 conference in Dubai.
-
-Highlighting Sri Lanka’s commitment to sustainable and green development, the President emphasized the nation’s ambitious plans and determination to achieve net-zero emissions by 2050.
-
-President Ranil Wickremesinghe underscored the pivotal role of the rapid renewable energy plan, describing it as a key component of Sri Lanka’s comprehensive efforts towards sustainable development and a crucial step in ensuring energy security.
-
-Following is the full speech delivered by President Ranil Wickremesinghe at the Green Technology Forum in Davos, Switzerland.
-
-I thank the Swiss Asian Chamber of Commerce and their partners in organising this event for the invitation to speak today.
-
-There is an urgent need for acceleration of global actions towards climate change mitigation. There have been multiple global forums which have resulted in numerous commitments towards this end. However, actions have fallen drastically short of commitments.
-
-The fallout of this failure in global leadership is borne largely by developing nations of the global south. When periods of drought extend beyond normal, undermining agricultural production, our food security is in jeopardy. When hydropower gets disrupted due to delayed monsoons, our energy security is in jeopardy. Droughts are often followed by a deluge, leading to flash floods and landslides, disrupting lives and livelihoods of under-privileged communities in particular.
-
-It is very evident that there is a disproportionate impact of the adverse outcomes of climate change on developing countries. This brings to light the issue of climate justice and the need for a stronger contribution from the advanced economies towards adaptation and mitigation efforts in the global south.
-
-That being said, Sri Lanka will forge ahead with its efforts towards climate mitigation. We have also recently launched the Tropical Belt Initiative at the COP28 in Dubai – this creates a framework for catalysing private investment in forests, energy, oceans, mangroves, in the countries of the tropical belt.
-
-Today I want to focus on one key aspect of such efforts, which is our drive towards renewable energy.
-
-In fact, Sri Lanka is a country with a long history of renewable energy. Since independence Sri Lanka developed an extensive network of hydropower, commissioning its first major hydro-power plant in 1950. Hydropower was able to provide for most of the country’s energy needs until the 1990s. Even today, hydropower accounts for around 40% of Sri Lanka’s installed electricity generation capacity.
-
-With hydropower largely exploited to the optimal levels, there has been an increased effort to include wind and solar power generation to the national grid. The government is now accelerating this process to ensure that by 2030, 70% of Sri Lanka’s electricity needs are fulfilled by renewable energy sources.
-
-To reach this target requires a large investment of up to USD 11.5 billion. However, until recently the framework for private investment in the renewable energy sector has not been very conducive. Over the last 2 years several measures have been taken by the government to correct these shortcomings and ensure an optimal investment climate for renewable energy is in place.
-
-The first step was to ensure cost reflective pricing. Between 2014 and 2022 electricity tariffs had not been adjusted. This resulted in major cash flow problems for the Ceylon Electricity Board that sometimes led to payment delays to power suppliers. However, from August 2022 we have shifted to a cost-reflective pricing structure. Accordingly, electricity tariffs are revised every quarter to reflect costs on a forward looking basis.
-
-The CEB, which has long been a loss making entity, returned a profit in 2023, enabling it to settle significant levels of past debt along with some balance sheet structuring. The company now has a strong balance sheet, a far stronger cash flow position, and a pricing structure that ensures liquidity.
-
-Rigidities in the feeding tariff has also been a concern of past investors. However, this has also been addressed with greater flexibility being introduced to the tariff options, including choices between fixed tariff and variable tariff formulas.
-
-In addition to internal reform, we are also putting in place the framework to attract green financing. Sri Lanka has developed the Road Map for Sustainable Finance, Green Finance Taxonomy, the SDG Investor Map and the Green Bond Framework, that is currently under formulation, creates the enabling environment for Sri Lanka to have a robust engagement in climate finance. The availability of sustainable finance will be an added boost for renewable energy investments in Sri Lanka.
-
-There have also been legislative barriers to large scale private investment in the renewable energy sector. Those legal hurdles have also been cleared through necessary amendments to the Electricity Act introduced in 2022.
-
-Thirdly, the government is in the final stages of implementing unbundling of the Ceylon Electricity Board. This will result in greater financial and operational autonomy for the distribution, generation, and transmission arms of the CEB, resulting in competition and transparency. Whilst private participation in generation is already available, the unbundling process will open up opportunities for private participation in distribution as well.
-
-This major reform, implemented with the support of the Asian Development Bank, will ensure the CEB operates at the frontier of efficiency, delivering the best outcome for consumers and the most competitive and efficient producers of electricity. The draft legislation for this reform was already been published last month.
-
-The ambition of 70% electricity from renewals also requires improved system efficiency and upgrades to integrate more renewable energy, particularly from 2026. Investments will be required in storage, transmission, and distribution, along with the ongoing private investments in generation. Plans for this integration up to 2030 are in place and have begun implementation.
-
-Following the major reforms implemented in the energy sector in the last 2 years, there has been renewed interest in this sector. There are already large scale solar and wind power projects that have commenced implementation. A major Indian player has commenced implementation of a 350MW wind power plant that is expected to be commissioned in 2025. The same player is considering a further USD 750 million investment in wind power.
-
-Wind power is a major opportunity for Sri Lanka. A recent World Bank report indicates that off-shore wind power in particular has the potential to generate power far greater than Sri Lanka’s requirements. Considering this, Sri Lanka and India are in advanced stages of talks regarding grid inter-connection to enable Sri Lanka to export surplus electricity particularly to the fast growing industrial belt in the Southern part of India. There is also tremendous potential for the development of green hydrogen in Sri Lanka.
-
-Sri Lanka has ambitious plans to fulfil its sustainable, green development agenda. By 2050 the country has committed to achieving net zero. The accelerated renewable energy plan is a key component of this overall effort and is also an essential step on the path towards energy security. Renewable energy will also drive down costs of generation since at present Sri Lanka is compelled to rely on high cost heavy fuels during the dry season. Sri Lanka is in the process of establishing an international climate university, which will continue to unlock opportunities in green energy.
-
-It is clear that Sri Lanka’s renewable energy policy direction is underpinned by multiple motivations and drivers. Therefore investors can expect a high degree of policy continuity in this sector going forward as well. This is the best time to invest in Sri Lanka’s renewable energy journey, and I have no doubt such investments will generate significant value for shareholders and Sri Lanka’s consumers over the next several decades.
-
-Reforms starting to pay off! Kristalina tells Ranil in Davos
-
-Talk of The Town | Charting the anti-corruption landscape | Piumi Madushani | 17th January 2024
-
-MIDDLE EAST WAR: Iran strike in Pakistan kills 2 children. Iran says it was a militant base
-
-### ஆடைகளை திருடிய எம்.பி இராஜினாமா
-
-*2024-01-16 15:55:11 - [tamilmirrorlk](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆடைகளை-திருடிய-எம்-பி-இராஜினாமா/50-331605)*
-
-வர்த்தக நோக்கத்திற்காக ஆடைகளை திருடியதாக குற்றம் சாட்டப்பட்ட நியூசிலாந்து பாராளுமன்ற உறுப்பினர் பதவி விலக முடிவு செய்துள்ளார்.
-
-நியூசிலாந்தின் மத்திய-இடது பசுமைக் கட்சியின் உறுப்பினர் கோல்ரீஸ் கஹ்ராமன், ஆடைகளைத் திருடியதாகக் குற்றம் சாட்டப்பட்டு இராஜினாமா செய்தார்.
-
-43 வயதான அவர் ஒரு சமூக ஆர்வலர் மற்றும் மனித உரிமைகளுக்காக வாதிடுபவராவார். ஐக்கிய நாடுகள் சபையில் மனித உரிமைகளுக்காக வாதிட்ட வழக்கறிஞராகவும் பணியாற்றியுள்ளார்.
-
-ஓக்லாந்தில் உள்ள ஒரு ஆடம்பர சில்லறை விற்பனையாளரிடமிருந்து ஆடைகள் திருடப்பட்டது தொடர்பான பொலிஸாரின் விசாரணைக்குப் பிறகு, பதவி விலக கோல்ரிஸின் முடிவு செய்துள்ளார்.
-
-இது தொடர்பாக செய்தியாளர்களிடம் பேசிய அவர், தான் கடும் மன உளைச்சலுக்கு ஆளானதாகவும், தவறு என்று தெரிந்தும், அந்த மன அழுத்த சூழ்நிலையை போக்கவே அவ்வாறு செய்ததாகவும் விளக்கமளித்துள்ளார்.
-
-### Sri Lanka stocks close down, Ceylinco boosts turnover
-
-*2024-01-16 15:48:00 - [economynextcom](https://economynext.com/sri-lanka-stocks-close-down-ceylinco-boosts-turnover-147443/)*
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The All Share Price Index was down 0.61 percent, or 64.65 points, at 10,545.
-
-The S&P SL20 index was down 0.79 percent, or 23.90 points, falling below the 3,000-mark to close at 2,999.
-
-However, turnover was significantly higher than the preceding few days of trading at 1.5 billion.
-
-Most of this came from a Ceylinco Insurance Plc transaction which contributed 767mn to the day’s turnover.
-
-Other sectors that saw higher investor interest were the food, beverage and tobacco industry (297mn), followed by the capital goods industry (132mn).
-
-The banking sector continued to attract less interest, same as last week.
-
-Top positive contributors to the ASPI included Sri Lanka Telecom Plc (up at 92.40) after investors from China and India expressed interest in buying the company, market sources said.
-
-Jio Platforms Ltd and a unit of Reliance industries of India and Gortune International Investment Holding Ltd have expressed interest in Sri Lanka Telecom, which the government has put up for sale.
-
-Other positive contributors included the John Keells Holdings owned Asian Hotels and Properties Plc (up at 59.90), and Ceylon Cold Stores Plc (up at 42.90).
-
-The parent company, John Keells Holdings Plc, closed up at 186.25.
-
-Net foreign outflows continued with today registering an outflow of 586mn, the highest for this year. (Colombo/Jan12/2024).
-
-### பணம் அனுப்பி , ஆளுநரிடம் கோரிக்கை
-
-*2024-01-16 15:42:50 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பணம்-அனுப்பி-ஆளுநரிடம்-கோரிக்கை/175-331601)*
-
-தமது வீதியை விரைந்து புனரமைத்து தருமாறு தமது ஒரு நாள் வேதனத்தை  வடமாகாண ஆளுநருக்கு மீசாலை மக்கள் அனுப்பி வைத்துள்ளனர்.
-
-யாழ்ப்பாணம் - மீசாலை வடக்கு,  இராமாவில் பகுதியில் உள்ள தட்டாங்குளம் பிள்ளையார் வீதியை புனரமைத்து தருமாறு கோரி 96 பேர் தமது ஒரு நாள் ஊதியமான 1,000 ரூபாய் வீதம் 96,000  ரூபாய் காசோலையும் கடிதம் ஒன்றினையும் வடமாகாண ஆளுநர் பி.எம்.எஸ்.சார்ள்ஸ்க்கு அனுப்பி வைத்துள்ளனர்.
-
-கடித்தில் குறிப்பிடப்பட்டுள்ளதாவது,  “தென்மராட்சி பிரதேச செயலக பிரிவின் ஜே.320 மற்றும் ஜே.321 ஆகிய கிராம சேவகர் பிரிவுக்கு நடுவே அமைந்துள்ள தட்டாங்குளம் பிள்ளையார் வீதியை மேற்குறித்த இரு கிராம சேவகர் பிரிவில் உள்ள மக்கள் பயன்படுத்தி வருகின்றனர்.
-
-இரு கிராம சேவகர் பிரிவு மக்கள் தவிர்த்த அயல் கிராமங்களில் உள்ள சுமார் 300 க்கும் மேற்பட்ட மாணவர்கள் வீரசிங்கம் மத்திய கல்லூரி, வீரசிங்கம் ஆரம்ப பாடசாலை ஆகியவற்றி செல்வதற்கும் இந்த வீதியினையே பயன்படுத்தி வருகின்றனர்.
-
-பயணிக்கவே முடியாத நிலையில் பொரிய குழிகளுடன் இவ்வீதி காணப்படுகிறது. இவ்வாறான பாரிய குழிகளால் மழை காலங்களில் அதிக விபத்துக்களும் நடைபெறுகின்றன.
-
-கடந்த 18 வருடங்களாக புணரமைப்பு செய்யப்படாமல் காணப்படும் இவ்வீதியினை புணரமைத்து தருமாறு சகல தரப்பினர்களிடம் பல கோரிக்கைகள் முன்வைத்துள்ளோம்.
-
-இருப்பினும் இது வரை எந்தவிதமான சிறு புணரமைப்புக் கூட செய்யப்படாமல் பயன்படுத்தவே முடியாத வீதியாக எமது வீதி மாற்றமடைந்து வருகின்றது.
-
-நாளுக்கு நாள் மிக மோசமான வீதியாக மாறி வரும் இவ்வீதியை உடனடியாக புணரமைத்து தர வேண்டும் என்று கோரிக்கையினை முன்வைக்கின்றோம்.
-
-இவ்வீதி புணரமைப்பிற்காக எமது பகுதியில் வசிக்கும் ஒவ்வொருவரிடமும் இருந்து அவர்களின் ஒரு நாள் வேதனமான (ஆயிரம் ரூபாவை) சேகரித்து வங்கியூடாக சுமார் 96 ஆயிரம் ரூபாவினை காசோலையாக அனுப்பி வைத்துள்ளோம்.
-
-அப்பணத்தினையும் புணரமைப்பு பணிகளுக்கான செலவு நிதியில் சேர்த்துக் கொள்வதோடு, வீதியின் புணரமைப்பு பணிகளை துரித கதியில் முன்னெடுக்குமாறு மீண்டும் கோரிக்கை முன்வைக்கின்றோம்.” என்றுள்ளது.
-
-அதேவேளை, குறித்த கோரிக்கை கடிதத்தின் பிரதிகள், ஜனாதிபதி ரணில் விக்ரமசிங்க, பிரதமர் தினேஸ் குணவர்த்தன, யாழ்.மாவட்ட செயலர், சாவகச்சேரி பிரதேச செயலர், கொடிகாமம் பிரதேச சபை செயலாளர் உள்ளிட்டோருக்க அனுப்பி வைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-### “ஸ்டென்ட்” குழாய்களுக்கு பற்றாக்குறை
-
-*2024-01-16 15:42:31 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஸ்டென்ட்-குழாய்களுக்கு-பற்றாக்குறை/175-331600)*
-
-கொழும்பு தேசிய வைத்தியசாலையில் இருதய நோயாளர்களுக்கான வழங்கப்படும் “ஸ்டென்ட்” குழாய்களுக்கு பற்றாக்குறை ஏற்பட்டுள்ளமையினால் நோயாளர்கள் கடும் அசௌகரியங்களுக்கு முகங்கொடுத்துள்ளனர்.
-
-இதனால் இருதய நோயாளர்களின் உயிர்கள் அச்சுறுத்தலுக்கு உள்ளாகியுள்ளதாக அரச வைத்திய அதிகாரிகள் சங்கத்தின் ஊடகப் பேச்சாளர், வைத்தியர் சமில் விஜேசிங்க தெரிவித்துள்ளார்.
-
-இதன் காரணமாக பெரும்பாலான நோயாளர்களை காத்திருப்புப் பட்டியலில் இணைக்க வேண்டிய நிலைமை ஏற்பட்டுள்ளது.
-
-இந்த விடயம் தொடர்பில், தேசிய வைத்தியசாலையின் பணிப்பாளர், வைத்தியர் குமார விக்கிரமசிங்கவிடம் வினவிய போது, “ஸ்டென்ட்” குழாய்களுக்கு பற்றாக்குறை ஏற்பட்டுள்ளதாக தெரிவித்தார்.
-
-இது தொடர்பில் சுகாதார அமைச்சின் செயலாளர் விசேட வைத்தியர் பாலித மஹிபாலவிடம் வினவிய போது, “ஸ்டென்ட்” எனப்படும் குழாய்களுக்கு தற்போது பற்றாக்குறை ஏற்பட்டுள்ளதுடன், அவற்றை கொள்வனவு செய்வதற்கான நடவடிக்கைகள் முன்னெடுக்கப்பட்டுள்ளதாக குறிப்பிட்டார்.
-
-### ஈராக்கில் மொசாட்டின் தலைமையகம் மீது தாக்குதல் - உரிமை கோரியது ஈரான் இராணுவம்
-
-*2024-01-16 15:24:00 - [virakesarilk](https://www.virakesari.lk/article/174063)*
-
-ஈராக்கில் உள்ள இஸ்ரேலிய இராணுவத்தின் புலனாய்வு பிரிவின் தலைமையகத்தின் மீது  ஏவுகணை தாக்குதலை மேற்கொண்டதாக  ஈரான் இராணுவம்தெரிவித்துள்ளது.
-
-சிரியாவில் உள்ள ஐஎஸ் அமைப்பின் இலக்குகள் மீதும் தாக்குதல்களை மேற்கொண்டுள்ளதாக ஈரானின் இஸ்லாமிய புரட்சிகர காவல்படை தெரிவித்துள்ளது.
-
-ஈராக்கின் அரைசுயாட்சி குர்திஸ் பிரதேசத்தின் தலைநகரான எர்பிலில் பல வெடிப்புசத்தங்கள் கேட்டுள்ளன,நால்வர் கொல்லப்பட்டுள்ளனர் ஆறுபேர் காயமடைந்துள்ளனர் என தகவல்கள் வெளியாகியுள்ளன.
-
-புலனாய்வு நிலையங்கள் மற்றும் பிராந்தியத்தில் ஈரான் எதிர்ப்பாளர்கள் கூடும் பகுதிகளை இலக்குவைத்து ஏவுகணைதாக்குதல்களை மேற்கொண்டுள்ளதாக ஈரான் இராணுவம் தெரிவித்துள்ளது என அந்த நாட்டு ஊடகம் தெரிவித்துள்ளது.
-
-சியோனிஸ்ட் அரசாங்கத்தின் சமீபத்தைய அநீதிகளுக்கு பதிலடியாக ஈராக்கின் குர்திஸ்தானில் உள்ள மொசாட்டின் புலனாய்வு அலுவலகம் ஏவுகணைகளால் அழிக்கப்பட்டது என தெரிவித்துள்ள ஈரான் இராணுவம் தியாகிகளின் இரத்தத்தின் கடைசி துளிகளிற்கு பதில் வாங்கும் வரை தாக்குதல் தொடரும் என தேசத்திற்கு உறுதியளிப்பதாக ஈரான் இராணுவம் தெரிவித்துள்ளது.
-
-இந்த தாக்குதல் மனிதாபிமானமற்றது பயங்கரவாத தாக்குதல் என  எர்பில் ஆளுநர் கண்டனம் வெளியிட்டுள்ளார்.
-
-ஒரு  ஏவுகணைவீடொன்றிற்குள் விழுந்து வெடித்ததில் குர்திஸ்தானை சேர்ந்த கோடீஸ்வர வர்த்தகரும் குடும்பத்தினரும் கொல்லப்பட்டுள்ளனர்.
-
-### கொடியை பதிவிட்டு கொடிகளை பறக்கவிட்டார்
-
-*2024-01-16 15:22:05 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கொடியை-பதிவிட்டு-கொடிகளை-பறக்கவிட்டார்/175-331598)*
-
-அநுராதபுரம் - கலென்பிந்துனுவெவ, கோமரன்கல்ல பிரதேசத்தை சேர்ந்த 37 வயதுடைய பொறியியலாளர் ஒருவர் தவறான முடிவெடுத்து உயிரை மாய்த்துக்கொண்டுள்ள சம்பவம்  திங்கட்கிழமை (15) பதிவாகியுள்ளது.
-
-குறித்த நபர் தன் உயிரை மாய்ப்பதற்கு முன்னதாக தனது முகநூல் ( face book ) பக்கத்தில் வெள்ளைக் கொடி ஒன்றின் புகைப்படத்தை பதிவிட்டதையடுத்து சந்தேகத்தில் நண்பர்கள் மற்றும் உறவினர்கள் அவரது வீட்டிற்கு சென்று பார்த்தபோது வீட்டின் முன்பக்கத்தில் உள்ள அறையொன்றில் உயிரை மாய்த்துகொண்ட   நிலையில் சடலமாக காணப்பட்டுள்ளார்.
-
-மேலும் குறித்த நபர் உயிரை மாய்த்துக்கொண்டமைக்கான காரணம் இதுவரை கண்டறியப்படாத நிலையில் இச் சம்பவம் தொடர்பில் கலென்பிந்துனுவெவ பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-### Sri Lanka opposition promises to repeal planned online speech law
-
-*2024-01-16 15:20:00 - [economynextcom](https://economynext.com/sri-lanka-opposition-promises-to-repeal-planned-online-speech-law-147435/)*
-
-ECONOMYNEXT – The Samagi Jana Balavegaya party will repeal the Online SafetyBill and introduce a new one if it comes to power, opposition MP Harsha de Silva said.
-
-“Strongly opposed to the Govt’s move to enact the Online Safety Bill. If passed, I pledge that a future SJB-led Govt will swiftly repeal controversial bill. We won’t jeopardize ties with major platforms like Meta, Google, and YouTube, essential for #lka economic growth,” de Silva said on X.
-
-“Committed to true Online Safety, we’ll introduce a new law addressing issues like child porn and other serious online crimes with the collaboration of major platforms. It’s crucial for the wellbeing of Sri Lanka society. Let’s prioritize effective solutions over hasty decisions.”
-
-Sri Lanka’s Supreme Court determined that the controversial ‘Online Safety Bill’ is not inconsistent with the constitution and can be passed in parliament by a simple majority subject to amendments made to 31 of its provisions. (Colombo/Jan16/2024)

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-18 01:28:00**
+As of **2024-01-18 02:27:55**
 
 ## Newspaper Stats
 
@@ -22,11 +22,11 @@ As of **2024-01-18 01:28:00**
 
 * dailyftlk: 106
 
-* dbsjeyarajcom: 112
+* dbsjeyarajcom: 113
 
 * adalk: 131
 
-* **Total**: **823**
+* **Total**: **824**
 
 ## Latest Articles (100)
 

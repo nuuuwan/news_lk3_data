@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 13:48:05**
+As of **2024-01-18 13:52:07**
 
 ## Newspaper Stats
 
@@ -105,7 +105,7 @@ This year's Summit is themed 'Deepening Cooperation for Shared Global Affluence'
 
 The NAM, founded on the Bandung Principles and comprising 120 member-states, aims to advance the interests of developing nations, with Sri Lanka being a founding member and former Chair from 1976 to 1979.
 
-...
+([continued...](https://www.dailymirror.lk/breaking-news/President-to-address-19th-NAM-Summit-and-3rd-South-Summit-in-Uganda-PMD/108-275272))
 
 ### ”ரணில் SLPP இன் வருங்கால வேட்பாளர்”
 
@@ -127,7 +127,7 @@ This action follows Iranian airstrikes in Pakistan, after which Islamabad assert
 
 Tensions escalated between the two neighbouring nations after Iran insisted it had successfully targeted militant elements operating from Pakistani soil. Pakistan, however, refuted these claims, asserting that the Iranian action resulted in civilian casualties rather than the intended strike against militants.
 
-...
+([continued...](https://www.dailymirror.lk/breaking-news/Pakistan-retaliates-with-airstrikes-on-alleged-Baloch-separatist-hideouts-in-Iran/108-275267))
 
 ### துமிந்த சில்வா இன்னும் வைத்தியசாலையில் சிகிச்சை பெறுகிறார்
 
@@ -183,7 +183,7 @@ Speaking to the Daily Mirror, State Minister Kumarasinghe said that the current 
 
 In 2022, the Minister of Labour and Foreign Employment Manusha Nanayakkara submitted a Cabinet paper requesting the revision of the regulation. The Cabinet's decision to partially ease the Family Background Report (FBR) requirement for female migrant workers was welcomed as a positive step towards encouraging female labour migration from Sri Lanka.
 
-...
+([continued...](https://www.dailymirror.lk/breaking-news/Geetha-wants-to-reimpose-restrictions-on-women-with-children-working-overseas/108-275259))
 
 ### இலங்கைக்கு புதிய ஆபத்து
 
@@ -239,7 +239,7 @@ The latest legislation, if passed, would compel judges to treat Rwanda as a safe
 
 It would also give UK ministers powers to disregard sections of international and British human rights legislation.
 
-...
+([continued...](https://www.adaderana.lk/news/96498/uk-parliament-approves-sunaks-rwanda-bill-as-right-wing-rebels-back-down))
 
 ### University non-academic staff on token strike today
 
@@ -253,7 +253,7 @@ However, the University Trade Union Joint Committee has taken issue with this Ca
 
 Meanwhile, the co-secretary of the Inter-University Trade Union Federation K.L.D.G. Richmond said this token strike is joined by 23 trade unions.
 
-...
+([continued...](https://www.adaderana.lk/news/96497/university-non-academic-staff-on-token-strike-today))
 
 ### Horton Place to be renamed as Ponnamabalam Arunachalam Mawatha
 
@@ -267,7 +267,7 @@ The notice distributed to the residents said a motion has been passed by the CMC
 
 “We wonder how the road can be renamed when there is an avenue named Ponnambalam Arunachalam Avenue close by. This is small avenue is off Horton place,” Mr. Kamil added.
 
-...
+([continued...](https://www.dailymirror.lk/breaking-news/Horton-Place-to-be-renamed-as-Ponnamabalam-Arunachalam-Mawatha/108-275250))
 
 ### 50 Wild elephants killed by electrocution in 2023: CEB
 
@@ -319,7 +319,7 @@ I first met him years ago, but it didn’t take that long for me to understand w
 
 My father-in-law, whose life may have been saved many times due to his intervention, refers to Dr. Dissanayake as “The Miracle Doctor.” I have met dozens of patients who share the same sentiments. Many people remark: “After you have a chat with him, you immediately feel better.” They know, as I do, that even if you see him at 1 am in a hospital he will greet you with a broad smile.
 
-...
+([continued...](https://www.ft.lk/columns/Cometh-the-hour-cometh-the-man-Dr-Upul-Dissanayake/4-757489))
 
 ### Global economy set for weakest half-decade performance in 30 years
 
@@ -331,7 +331,7 @@ As the world nears the midpoint of what was intended to be a transformative deca
 
 By one measure, the global economy is in a better place than it was a year ago: the risk of a global recession has receded, largely because of the strength of the US economy. But mounting geopolitical tensions could create fresh near-term hazards for the world economy. Meanwhile, the medium-term outlook has darkened for many developing economies amid slowing growth in most major economies, sluggish global trade, and the tightest financial conditions in decades. Global trade growth in 2024 is expected to be only half the average in the decade before the pandemic. Meanwhile, borrowing costs for developing economies—especially those with poor credit ratings—are likely to remain steep with global interest rates stuck at four-decade highs in inflation-adjusted terms.
 
-...
+([continued...](https://www.ft.lk/opinion/Global-economy-set-for-weakest-half-decade-performance-in-30-years/14-757488))
 
 ### Fear-based leadership; an extreme last resort, not a sustainable panacea
 
@@ -341,7 +341,7 @@ Leaders need to mix a fair quantity of regimentation, routine, order, and discip
 
 “State chief accountants will be held liable for excessive expenses” was a headline which caught my eye when I opened the Sunday Times of 7 January 2024. ‘Excessive Expenditure’ was defined as any expenditure that is not in the 2024 Budget or Annual Plan. Whilst I agree that the organs of the Sri Lankan Government and State enterprises must exercise stringent, but astute, financial discipline in the face of the economic challenges we face, I wince aghast at the authoritarian tone of this statement, a tone which is fast becoming the trademark of utterances, directives, and actions of our national and corporate leaders.
 
-...
+([continued...](https://www.ft.lk/columns/Fear-based-leadership-an-extreme-last-resort-not-a-sustainable-panacea/4-757485))
 
 ### Is Sri Lanka’s economic recovery sustainable?
 
@@ -353,7 +353,7 @@ The Sri Lankan economy is re-emerging from the worst socio-economic crisis. Howe
 
 Against this backdrop, this article attempts to assess the near- to medium-term macroeconomic outlook in light of the economic policies being pursued by policymakers at present.
 
-...
+([continued...](https://www.ft.lk/columns/Is-Sri-Lanka-s-economic-recovery-sustainable/4-757484))
 
 ### Justice Minister assures support for Jaffna business community
 
@@ -377,7 +377,7 @@ The inventor of the Rigid-T-sack that replaced plywood chests in the bulk packag
 
 The certification means that Ceylon Tea packaged in these two types of St. Regis sacks for the Colombo Tea Auction or for export has offset the carbon dioxide equivalents (CO2e) of the packaging, reducing the overall product carbon footprint of the teas.
 
-...
+([continued...](https://www.ft.lk/business/St-Regis-helps-reduce-Ceylon-Tea-carbon-footprint-with-world-s-first-carbon-neutral-bulk-tea-packaging/34-757471))
 
 ### Cutting edge power: How BYD’s Blade Battery is changing the EV game
 
@@ -387,7 +387,7 @@ The truck test ensuring the Blade Battery can withstand upto 50 tons of pressure
 
 For years, worries about electric vehicles (EV) have remained, much like the persistent presence of vehicle exhaust fumes. Concerns about fiery meltdowns and roadside range woes cast a shadow on the electric revolution. But nestled in the heart of innovation, global giant BYD has forged a technological masterpiece to rewrite the rules of EV safety, range, and charging: the Blade Battery. While this game-changer has disrupted the global automobile landscape, its impact is particularly exciting for Sri Lanka, thanks to the crucial partnership between BYD and JKH.
 
-...
+([continued...](https://www.ft.lk/business/Cutting-edge-power-How-BYD-s-Blade-Battery-is-changing-the-EV-game/34-757470))
 
 ### RTI Commission opposes Govt. attempt to amend RTI Act
 
@@ -403,7 +403,7 @@ In a letter to the Ministry of Mass Media, the Right to Information Commission o
 
 In response to two letters, one from the Ministry of Mass Media and another from the Ministry of Justice, Prison Affairs, and Constitutional Reforms, along with an annexed document titled ‘Simplification of Selected Laws,’ RTI Commission’s Director General D.C. Dissanayake expressed the Commission’s opinion that there is no need to amend the existing law.
 
-...
+([continued...](https://www.ft.lk/news/RTI-Commission-opposes-Govt-attempt-to-amend-RTI-Act/56-757469))
 
 ### Gotabaya’s ignorance exposed via SC decision - Hirunika
 
@@ -421,7 +421,7 @@ She underscored this point, citing yesterday’s landmark Supreme Court’s deci
 
 During a press conference after the verdict, Premachandra, one of the petitioners in the case, remarked that Gotabaya Rajapaksa displayed ignorance, as evidenced by his failure to adhere to proper procedures in granting a Presidential pardon.
 
-...
+([continued...](https://www.ft.lk/news/Gotabaya-s-ignorance-exposed-via-SC-decision-Hirunika/56-757468))
 
 ### Manusha blasts Finance Ministry officials
 
@@ -439,7 +439,7 @@ The Minister stated this during a meeting held at the Ministry of Labour and For
 
 The meeting was a part of a series of such events organised under the ‘Garu Saru’ programme, initiated by the Ministry of Labour and Foreign Employment to uphold the dignity, security and professional status of all those employed in the informal sector of work in Sri Lanka.
 
-...
+([continued...](https://www.ft.lk/news/Manusha-blasts-Finance-Ministry-officials/56-757467))
 
 ### Govt. allocates Rs. 14 b to provide land and housing for estate communities
 
@@ -463,7 +463,7 @@ The Republic of Uganda assumed the Chairmanship of the 19th Summit of the Heads 
 
 Recalling that Sri Lanka was a founding member of the movement and had hosted the 5th NAM Summit of Heads of State and Government in 1976, Minister Sabry reiterated that non-alignment is the cornerstone of Sri Lanka’s foreign policy. He further stated that contemporary global crises have brought the fragilities of the world to the forefront and that this has magnified the relevance of the Movement, as never before.
 
-...
+([continued...](https://www.ft.lk/news/Ali-Sabry-addresses-the-meeting-of-Foreign-Ministers-of-NAM-in-Kampala/56-757465))
 
 ### Duminda Silva still at Sri Jayewardenepura Hospital
 
@@ -587,7 +587,7 @@ Megalewa Range Forest Conservator I. M. G. Seneviratne said the 42 year old owne
 
 மோசடியில் ஈடுபட்ட வியட்நாம் சுகாதார அமைச்சருக்கு சிறை தண்டனை, மோசடியில் ஈடுபட்ட இலங்கையின் சுகாதார அமைச்சருக்கு வரப்பிரசாதம்!
 
-...
+([continued...](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-தொடர்பில்-தம்பட்டம்/175-331708))
 
 ### ஒன்லைன் பாதுகாப்பு சட்டத்தை ’நாங்கள் ரத்து செய்வோம்’
 
@@ -615,7 +615,7 @@ Megalewa Range Forest Conservator I. M. G. Seneviratne said the 42 year old owne
 
 ஜனாதிபதி ஒருவருடைய மன்னிப்பு  செல்லுபடியற்றது என நீதிமன்றம் இலங்கை சரித்திரத்திலே முதல்  தடவையாக தீர்ப்பளித்து இருக்கின்றது. இது வரவேற்க வேண்டிய ஒரு விடயம், வேறு சில வழக்குகளும் நிலுவையிலே இருக்கின்றன.
 
-...
+([continued...](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்பை-செல்லுபடியற்றதாகியது-சரித்திர-தீர்ப்பு/175-331706))
 
 ### பொது மன்னிப்பை செல்லுபடியற்றதாக்கியது ’சரித்திர தீர்ப்பு’
 
@@ -631,7 +631,7 @@ Megalewa Range Forest Conservator I. M. G. Seneviratne said the 42 year old owne
 
 ஜனாதிபதி ஒருவருடைய மன்னிப்பு  செல்லுபடியற்றது என நீதிமன்றம் இலங்கை சரித்திரத்திலே முதல்  தடவையாக தீர்ப்பளித்து இருக்கின்றது. இது வரவேற்க வேண்டிய ஒரு விடயம், வேறு சில வழக்குகளும் நிலுவையிலே இருக்கின்றன.
 
-...
+([continued...](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்பை-செல்லுபடியற்றதாக்கியது-சரித்திர-தீர்ப்பு/175-331706))
 
 ### எடப்பாடி பழனிசாமியை சந்தித்தார் ஜீவன்
 
@@ -661,7 +661,7 @@ Ranil’s inability to read turbulent global dynamics and navigate Sri Lanka sag
 
 To align as Ranil has with the US-UK when they are bombing Arab countries (Yemen, Iraq) while patronizing Israel which is engaged in a genocidal war on Gaza, goes against the sentiments of the vast Arab and Islamic world and Sri Lanka’s Muslim community. It is counterproductive for Sri Lanka by any geopolitical metric.
 
-...
+([continued...](https://www.ft.lk/columns/A-paler-shade-of-red-A-1956-or-1977-in-2024/4-757457))
 
 ### Banking Amendment Bill to see passage in early 2024
 
@@ -681,7 +681,7 @@ The amendments will cover a whole gamut of areas, including the strengthening of
 
 Besides, the amendments will also bring changes on how the banks go about consolidation via mergers and acquisitions, how they dispose of their non-financial subsidiaries, consolidated supervision, accounts and audit, proportionality, large exposures and related party transactions.
 
-...
+([continued...](https://www.dailymirror.lk/breaking-news/Banking-Amendment-Bill-to-see-passage-in-early-2024/108-275242))
 
 ### Unveiling Sri Lanka’s Fishing Dilemma:  Quality Loss and Climate Challenges
 
@@ -695,7 +695,7 @@ Quality is lost because of the lack of cooling or refrigeration facilities in fi
 
 When you stroll through your seafood market, you find the ocean’s bounty laid out in stalls in front of you.  But, have you ever paused to ponder whether the quality of fish you bring home holds the distinguished mark of the highest grade?  The answer is probably “no”.
 
-...
+([continued...](https://www.dailymirror.lk/opinion/Unveiling-Sri-Lankas-Fishing-Dilemma-Quality-Loss-and-Climate-Challenges/172-275220))
 
 ### The Essence of all Religions is Love
 
@@ -705,7 +705,7 @@ With Presidential elections scheduled for this year, most political leaders and 
 
 From February 1 to 7, the United Nations marks the World Interfaith Harmony Week with the theme being “Sustainable Development through Interfaith Harmony.”  The UN General Assembly proclaimed this week in 2010. It pointed out that mutual understanding and interreligious dialogue constitute to important dimensions of a culture of peace, and established World Interfaith Harmony Week as a way to promote harmony between all people regardless of their faith.
 
-...
+([continued...](https://www.dailymirror.lk/opinion/The-Essence-of-all-Religions-is-Love/172-275218))
 
 ### Four Priorities for Sri Lanka in Election Year 2024
 
@@ -713,7 +713,7 @@ From February 1 to 7, the United Nations marks the World Interfaith Harmony Week
 
 In 2024, Sri Lanka faces two major challenges. Having largely achieved macroeconomic stability, with inflation falling from 70 to 2 percent, the country needs to resume economic growth, which has been negative for the last two years. The Sri Lankan people have suffered too long with declining incomes. Growth is also critical for the debt restructuring programme, which aims for a debt-to-GDP ratio of 95 percent. This is a high number. A large external shock or a round of reckless policies could throw Sri Lanka into another debt crisis. To avoid this outcome, the country needs to accelerate growth to lower the debt-to-GDP ratio and reinforce the sustainability of debt.
 
-...
+([continued...](https://www.dailymirror.lk/opinion/Four-Priorities-for-Sri-Lanka-in-Election-Year-2024/172-275219))
 
 ### Rohit stars as India down Afghanistan in second Super Over
 
@@ -731,7 +731,7 @@ The final at the Lord's had ended level even after the Super Over and England wo
 
 India made 11-1 in the second Super Over with Rohit scoring all the runs off the opening three balls. Indian spinner Ravi Bishnoi conceded just one run and picked up two wickets to seal the game.
 
-...
+([continued...](https://www.dailymirror.lk/breaking-news/Rohit-stars-as-India-down-Afghanistan-in-second-Super-Over/108-275234))
 
 ### Astronomic prices of carrots, beans and other vegetables
 
@@ -769,7 +769,7 @@ The President emphasized the successful resolution of supply bottlenecks, the re
 
 Sri Lanka is actively expanding its trade agreements, with a recently completed comprehensive Free Trade Agreement (FTA) with Singapore and an upcoming FTA with Thailand in February. Ongoing discussions with India, China, and Southeast Asian nations highlight the nation’s commitment to global economic integration.
 
-...
+([continued...](https://www.adaderana.lk/news/96494/president-ranil-briefs-indian-ceos-on-sri-lankas-economic-outlook))
 
 ### New York venue to host T20 World Cup matches unveiled
 
@@ -789,7 +789,7 @@ The design team behind this ambitious project is Populous, renowned for creating
 
 In New York, they are the architect of record for both the New York Yankees and New York Mets.
 
-...
+([continued...](https://www.dailymirror.lk/breaking-news/New-York-venue-to-host-T20-World-Cup-matches-unveiled/108-275231))
 
 ### Body of 9-year-old snatched by crocodile in Kelani River recovered
 
@@ -819,7 +819,7 @@ Chairman of ICFS, Nimedha Dahanayake said there are many other destinations that
 
 "Canada, Germany and Finland are a few such destinations which are leading at the moment in terms of student recruitments," he said.
 
-...
+([continued...](https://www.dailymirror.lk/breaking-news/ICFS-explores-alternatives-amidst-Australias-UKs-shifting-policies-for-Sri-Lankan-students/108-275232))
 
 ### Gota failed even in exercising powers to grant Presidential pardon: Hirunika
 
@@ -853,7 +853,7 @@ The bowling is also much left to be desired as Skipper Wanindu Hasaranga was for
 
 Zimbabwe on the other hand can be satisfied with their performances and their sheer commitment was visible in the dying stages of the second T20 encounter.
 
-...
+([continued...](https://www.dailymirror.lk/breaking-news/Sri-Lanka-under-pressure-in-must-win-game/108-275213))
 
 ### Sri Lanka to issue on-arrival driver’s licenses for foreigners starting April
 
@@ -865,7 +865,7 @@ Speaking at a news conference held at the Presidential Media Centre under the th
 
 Alagiyawanna, elaborating on the transportation initiatives under President Ranil Wickremesinghe’s guidance, emphasized the ministry’s commitment to delivering efficient public transport services through modern technology. He highlighted the ongoing programs and the ministry’s efforts to amend the existing motor vehicle act, introducing a new act.
 
-...
+([continued...](https://www.adaderana.lk/news/96492/sri-lanka-to-issue-on-arrival-drivers-licenses-for-foreigners-starting-april))
 
 ### Joni Simpson appointed new director for ILO Country Office for Sri Lanka & Maldives
 
@@ -885,7 +885,7 @@ Previously she led ILO’s global efforts on women’s entrepreneurship and entr
 
 A national of Canada, Ms. Simpson holds a master’s degree in Cultural Anthropology and a Bachelor of Education.
 
-...
+([continued...](https://www.adaderana.lk/news/96491/joni-simpson-appointed-new-director-for-ilo-country-office-for-sri-lanka-maldives))
 
 ### Speed limit process to be streamlined to reduce accidents: Alagiyawanna
 
@@ -899,7 +899,7 @@ He said this during a news conference held at the Presidential Media Centre toda
 
 "With approximately 8.9 million vehicles and 8.5 million licensed drivers in the country, efforts are underway to standardize all district offices issuing licenses to the level of the Werahera head office by year-end," he added.
 
-...
+([continued...](https://www.dailymirror.lk/breaking-news/Speed-limit-process-to-be-streamlined-to-reduce-accidents-Alagiyawanna/108-275217))
 
 ### இலங்கை தமிழரசுக்கட்சியின் தலைவர் தெரிவானது உட்கட்சி ஜனநாயகத்தை வெளிப்படுத்தும் - சுமந்திரன்
 
@@ -927,7 +927,7 @@ He said this during a news conference held at the Presidential Media Centre toda
 
 இதில் 350 காட்சிக் கூடாரங்கள் காணப்படுகின்றது. இவற்றில் கட்டிட துறை பகுதி, தொழில்நுட்ப பகுதிகள், கணணியல் துறை பகுதிகள், ஊள்ளூர் உற்பத்தி காட்சிக் கூடாரங்கள், வெளிநாட்டு கல்வியற் பிரிவுகள், தனியார், அரச, கல்வியிற் காட்சிக் கூடங்கள், வாகன விற்பனை சந்தைகள், சிற்றுண்டி வகைகள், மின்னியல் சாதனங்கள் மற்றும் மின்சார பொருட்கள் இதன்போது காட்சிப்படவுள்ளது.
 
-...
+([continued...](https://www.virakesari.lk/article/174196))
 
 ### சாரதி அனுமதிப்பத்திரம் வழங்கும் பிரச்சினைக்கு ஒக்டோபருடன் தீர்வு - லசந்த அழகியவன்ன
 
@@ -943,7 +943,7 @@ He said this during a news conference held at the Presidential Media Centre toda
 
 எமது நாட்டில் சுமார் 8.9 மில்லியன் வாகனங்கள் பாவனையில் உள்ளன. அதேபோன்று  சுமார் 85 இலட்சம் சாரதி அனுமதிப்பித்திரம் பெற்றுள்ளனர்.  சாரதி அனுமதிப்பித்திரங்களை வழங்கும் அனைத்து மாவட்ட அலுவலகங்களையும் இந்த ஆண்டு இறுதிக்குள் வெரஹெர தலைமை அலுவலகத்தின் தரத்திற்கு மேம்படுத்த நடவடிக்கை எடுக்கப்பட்டு வருகிறது. மேலும், ஏப்ரல் மாதத்திற்குள் விமான நிலையத்தில் வெளிநாட்டவர்களுக்கு சாரதி அனுமதிப்பித்திரம் வழங்க ஏற்பாடு செய்யப்பட்டுள்ளது.
 
-...
+([continued...](https://www.virakesari.lk/article/174197))
 
 ### Emirates readies to recruit 5,000 cabin crew from six continents in 2024
 
@@ -959,7 +959,7 @@ ComBank & UnionPay invite cardholders to ascend to culinary heights
 
 Emirates announces key appointments for its Sri Lanka and Maldives operations
 
-...
+([continued...](http://island.lk/emirates-readies-to-recruit-5000-cabin-crew-from-six-continents-in-2024/))
 
 ### SLT-MOBITEL partners with Bricks Developers, offering ultra-fast connectivity
 
@@ -981,7 +981,7 @@ SLT-MOBITEL Mobile introduces ‘My Super Offers’ delighting customers with ta
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
-...
+([continued...](http://island.lk/slt-mobitel-partners-with-bricks-developers-offering-ultra-fast-connectivity/))
 
 ### HNB Assurance advisor distribution management team celebrates its exceptional performance
 
@@ -991,7 +991,7 @@ HNB Assurance recently convened the highly anticipated New Business Launch and A
 
 Lasitha Wimalaratne, CEO of HNBA expressed his thoughts at the forum, stating, “We are extremely proud of the outstanding performance displayed by our Advisor Distribution Channel during the year 2023, a trend they’ve continued over the last three years. This impressive growth in NBP and GWP as well as the other achievements underscores the expertise and resilience of our team.”
 
-...
+([continued...](http://island.lk/hnb-assurance-advisor-distribution-management-team-celebrates-its-exceptional-performance/))
 
 ### Net foreign outflows within first 15 days of New Year hit Rs. 1 billion
 
@@ -1003,7 +1003,7 @@ Amid those developments both indices move downwards. The All- Share Price Index 
 
 Turnover stood at Rs 802 million without any crossings. In the retail market top seven companies that mainly contributed to the turnover were; Ceylinco Insurance (Non- Voting) Rs 294 million (377,000 shares traded), JKH Rs 68.9 million (372,000 shares traded), Capital Alliance Rs. 9 million (1.1 million shares traded), Browns Investments Rs 40 million (9 million shares traded), Expolanka Holdings Rs 38.7 million (278,000 shares traded), TJLanka Rs 20.6 million (550,000 shares traded) and Associated Motor Finance Rs 20.2 million (994,000 shares traded). During the day 31.6 million share volumes changed hands in 9300 transactions.
 
-...
+([continued...](http://island.lk/net-foreign-outflows-within-first-15-days-of-new-year-hit-rs-1-billion/))
 
 ### First Capital celebrates double wins at SLIM Brand Excellence Awards
 
@@ -1013,7 +1013,7 @@ First Capital Holdings PLC, the pioneering investment institution, has achieved 
 
 The SLIM Brand Excellence Awards is a distinguished platform that recognizes outstanding achievements in brand excellence at the highest level in the country. It celebrates exceptional efforts, strategies and remarkable brand stories, encouraging performance, and enhancing brand equity while inspiring marketers to reach international standards.
 
-...
+([continued...](http://island.lk/first-capital-celebrates-double-wins-at-slim-brand-excellence-awards/))
 
 ### Antonians beat Ananda after 76 years
 
@@ -1037,7 +1037,7 @@ The answers that leaders need – to rethink, reframe and lead through the turbu
 
 Titled ‘Negotiating the Complex landscape of Reputation, Risk & Regulation in a RUPTured World,’ the thought leadership event is presented by the Public Relations Association of Sri Lanka (PRASL) as its first event for 2024, and takes place at the Cinnamon Grand Hotel, the event’s Hospitality Partner, at 6 pm on Tuesday, 30th January.
 
-...
+([continued...](http://island.lk/global-reputation-expert-to-speak-on-vital-topic-for-corporate-and-political-leaders/))
 
 ### දුමින්ද සිල්වා ජපුර රෝහලේ
 
@@ -1071,7 +1071,7 @@ Titled ‘Negotiating the Complex landscape of Reputation, Risk & Regulation in 
 
 එහිදී මහා නායක හිමිවරුන්හමුවේ අදහස් දක්වමින් අමාත්‍ය ටිරන් අලස් මහතා පවසා සිටියේයුක්තිය මෙහෙයුම ආරම්භ වී මසක් වැනි කෙටි කාලයක් තුළදීබලාපොරොත්තු වූ ඉලක්ක රැසකට ළඟාවීමට හැකි වූ බවයි .
 
-...
+([continued...](https://www.ada.lk/breaking_news/යුක්තිය-මෙහෙයුමට-මහා-සංඝරත්නයේ-ආශීර්වාදය-තිබෙනවා/11-407602))
 
 ### අනවසර විදුලි රැහැන්වලට අලි ඇතුන් 50ක් පසුගිය වසරේ මිය ගිහින්
 
@@ -1109,7 +1109,7 @@ Speaking in the context of increasing the revenue earned by the government, howe
 
 “We’re increasing revenue, and as growth comes in, there should be more revenue”, he assured.
 
-...
+([continued...](https://www.adaderana.lk/news/96490/sri-lankan-president-backs-debt-relief-for-africa-))
 
 ### WHO declares Sri Lanka has achieved Hepatitis B control
 
@@ -1125,7 +1125,7 @@ The Expert Panel for Verification of Hepatitis B Control in WHO South-East Asia 
 
 The experts also reviewed the findings of national surveys conducted among children in 2022-2023, in these countries.
 
-...
+([continued...](https://www.adaderana.lk/news/96489/who-declares-sri-lanka-has-achieved-hepatitis-b-control))
 
 ### වැට් වැඩිවීම ජනතාවට වගේම අපිටත් අමාරුයි
 
@@ -1155,7 +1155,7 @@ The Minister said around 3,500 foreigners annually visit Werahera to obtain thei
 
 Foreigners at the moment pay 30,000 Sri Lankan rupees to obtain a driving license in one-day service and 25,000 rupees in a normal service, the DMT data show.
 
-...
+([continued...](https://economynext.com/sri-lanka-to-issue-on-arrival-driving-license-for-foreigners-from-april-state-minister-147691/))
 
 ### விவாதத்தை ஒத்திவைக்கவும்: எதிர்க்கட்சி வலியுறுத்தல்
 
@@ -1267,7 +1267,7 @@ Also discussed at the meeting was the need for a ‘professional council for thr
 
 Sri Lanka has over a million registered three-wheelers, but research showed less than half of that number were operating as taxis.
 
-...
+([continued...](https://economynext.com/sri-lankas-tuk-tuk-drivers-to-be-registered-issued-qr-code-147649/))
 
 ### Sri Lanka 3-month T-bill yield down 36bp
 
@@ -1333,7 +1333,7 @@ Date of announcement of the Monetary Policy Review: No. 01 of 2024 – Tuesday, 
 
 சில தரப்பினரை குறிப்பாக நாட்டின்  இன்றைய இடர்மிகு நிலைக்கு பொறுப்பானவர்களை தவிர்த்து பலருக்கு துயரைக் கொடுக்கக்கூடிய வழிமுறைகளில் அரசாங்கம் வருவாயை சேகரிப்பதே பிரச்சினையாகும்.
 
-...
+([continued...](https://www.virakesari.lk/article/174175))
 
 ### Postpone debate on Online Safety Bill: SJB
 
@@ -1349,4 +1349,4 @@ The suggestion came from SJB MP Eran Wickramaratne, who told a news briefing tha
 
 “I oppose the Bill though I have been a victim of false information that was published over the social media just after the Easter Sunday attacks,” he added.
 
-...
+([continued...](https://www.dailymirror.lk/breaking-news/Postpone-debate-on-Online-Safety-Bill-SJB/108-275210))

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-18 07:39:40**
+As of **2024-01-18 08:28:04**
 
 ## Newspaper Stats
 
@@ -10,7 +10,7 @@ As of **2024-01-18 07:39:40**
 
 * newsfirstlk: 53
 
-* virakesarilk: 59
+* virakesarilk: 60
 
 * islandlk: 61
 
@@ -18,15 +18,15 @@ As of **2024-01-18 07:39:40**
 
 * adaderanalk: 98
 
-* tamilmirrorlk: 100
+* tamilmirrorlk: 108
 
 * dbsjeyarajcom: 113
 
 * dailyftlk: 119
 
-* adalk: 133
+* adalk: 134
 
-* **Total**: **856**
+* **Total**: **866**
 
 ## Latest Articles (100)
 
@@ -366,6 +366,76 @@ On the side-lines of these meetings, Foreign Minister Sabry held bilateral discu
 
 The NAM which currently consists of 120 member states is based on the Bandung principles and aims to advance the interests of developing countries.
 
+### ஐ.எம்.எப். அதிகாரிகளுடன் ஜனாதிபதி சந்திப்பு
+
+*2024-01-18 03:22:18 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-அதிகாரிகளுடன்-ஜனாதிபதி-சந்திப்பு/175-331716)*
+
+சுவிற்சர்லாந்தின் டாவோஸ் நகரில் உலகப் பொருளாதார மாநாட்டுடன் இணைந்ததாக ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும்  சர்வதேச நாணய நிதியத்தின் முகாமைத்துவப் பணிப்பாளர் கிரிஷ்டலினா ஜோர்ஜியாவா மற்றும் பிரதி முகாமைத்துவப் பணிப்பாளர் கீதா கோபிநாத் ஆகியோருக்கிடையிலான சந்திப்பொன்று நடைபெற்றது.
+
+பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான  சாகல ரத்னாயக்கவும் உடனிருந்தார். (a)
+
+### அமெரிக்காவின் விசேட பிரதிநிதியுடன் ஜனாதிபதி சந்திப்பு
+
+*2024-01-18 03:12:28 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்காவின்-விசேட-பிரதிநிதியுடன்-ஜனாதிபதி-சந்திப்பு/175-331715)*
+
+சுவிற்சர்லாந்தின் டாவோஸ் நகரில் உலகப் பொருளாதார மாநாட்டுடன் இணைந்ததாக ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் காலநிலை மாற்றம் தொடர்பான அமெரிக்க ஜனாதிபதியின் விசேட பிரதிநிதி ஜோன் கெரிக்கும் இடையில் சந்திப்பொன்று இடம்பெற்றது.
+
+பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான சாகல ரத்னாயக்கவும் இதன் போது உடனிருந்தார். (a)
+
+### மின் கட்டணத் திருத்தம்: மக்கள் கருத்துக்கு சந்தர்ப்பம்
+
+*2024-01-18 02:27:01 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணத்-திருத்தம்-மக்கள்-கருத்துக்கு-சந்தர்ப்பம்/175-331714)*
+
+மின்கட்டணத் திருத்த யோசனை தொடர்பில் அடுத்த வாரம் முதல் பொதுமக்களிடம் கருத்துகளை கேட்டறியத் திட்டமிடப்பட்டுள்ளது.
+
+மின்சாரக் கட்டண திருத்த யோசனை, இலங்கை மின்சார சபையால் இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழுவிடம் கையளிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+ஆணைக்குழுவின் விதிமுறைகளுக்கு உட்பட்டு மின்கட்டணத் திருத்தம் தொடர்பில் மேலதிக நடவடிக்கைகள் மேற்கொள்ளப்படும் என இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது. (a)
+
+### இந்திய மீனவர்களுக்கு விளக்கமறியல்
+
+*2024-01-18 02:24:13 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களுக்கு-விளக்கமறியல்/175-331713)*
+
+இலங்கை கடற்பரப்பிற்குள் அத்துமீறி உள்நுழைந்து மீன்பிடியில் ஈடுபட்ட 18 இந்திய மீனவர்களையும் எதிர்வரும் 31 திகதி வரை  விளக்கமறியலில் வைக்க மன்னார் நீதவான் நேற்று மாலை உத்தரவிட்டார்.
+
+இலங்கையின்  தென் கடல் கடற்பரப்பிற்குள் அத்துமீறி உள்நுழைந்து மீன் பிடியில் ஈடுபட்ட இராமநாதபுரம் மாவட்டம் பாம்பன் தங்கச்சிமடம் பகுதியை சேர்ந்த 18 இந்திய மீனவர்கள் நேற்று முன்தினம் கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+அவர்களிடம் விசாரணைகளின் பின்னர் கடற்தொழில் திணைக்கள அதிகாரிகள் நேற்று மாலை மன்னார் நீதவான் நீதிமன்றத்தில் ஆஜர்படுத்தியிருந்தனர். (a)
+
+### கடலட்டை பிடித்த 12 பேர் கைது
+
+*2024-01-18 02:10:04 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கடலட்டை-பிடித்த-12-பேர்-கைது/175-331712)*
+
+மன்னார் ஓலைத்தொடுவாய் கடற்பரப்பில் சட்டவிரோதமாக கடலட்டை தொழிலில் ஈடுபட்ட 12 பேர் கடற்படையினரால் நேற்று கைது செய்யப்பட்டுள்ளனர்.
+
+ஓலைத்தொடுவாய் கடற்பரப்பில் கடற்படையினர் மேற்கொண்ட விசேட  தேடுதல் நடவடிக்கையின் போது நீரில் மூழ்கி கடலட்டை   பிடித்துக் கொண்டிருந்த மேற்படி சந்தேகநபர்களை கடற்படையினர் கைது செய்துள்ளனர்.
+
+இதன் போது 4 படகுகள், டைவிங் கருவிகள் மற்றும் சட்டவிரோதமாக  பிடிக்கப்பட்ட சுமார் 968 கடலட்டைகள், 34 சங்குகளும் கைப்பற்றப்பட்டுள்ளனர். (a)
+
+### ’சீர்குலைக்க சில தரப்பினர் முயற்சி’
+
+*2024-01-18 02:02:51 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/சீர்குலைக்க-சில-தரப்பினர்-முயற்சி/175-331711)*
+
+நாட்டை கட்டியெழுப்புவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்க முன்னெடுக்கும் வேலைத்திட்டத்தை தவிர வேறு மாற்று வழியில்லை எனவும், எனவே அனைத்து தரப்பினரும் கருத்து வேறுபாடுகளைத் தவிர்த்து அந்த வேலைத்திட்டத்தின் வெற்றிக்கு பங்களிக்க வேண்டுமென பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன தெரிவித்தார்.
+
+பெப்ரவரி மாதத்தின் பின்னர் உலக வங்கி, சர்வதேச நாணய நிதியம், ஆசிய அபிவிருத்தி வங்கி மற்றும் நட்பு நாடுகளுடன் இணைந்து நாட்டை முன்னோக்கி கொண்டு செல்வதற்கான சந்தர்ப்பம் உருவாகியுள்ளதாகவும், அதனை சீர்குலைக்க சில தரப்பினர் மேற்கொள்ளும் முயற்சிகளை இனங்கண்டு தோற்கடிக்க வேண்டிய பொறுப்பு மக்களுக்கு உள்ளது எனவும் அவர் வலியுறுத்தினார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (16) நடைபெற்ற ஊடக சந்திப்பில் கருத்துத் தெரிவிக்கும் போதே பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன இவ்வாறு தெரிவித்தார்.
+
+2022ஆம் ஆண்டு ஜனாதிபதி ரணில் விக்ரமசிங்க பொறுப்பேற்ற போது, இந்த நாட்டில் அரசியல் செய்யும் திறமை எவருக்கும் இருக்கவில்லை. எந்தவோர் அபிவிருத்திப் பணியையும் செய்ய யாருக்கும் பலம் இல்லை. மூன்று வருடங்களாக தடைப்பட்ட அபிவிருத்திச் செயற்பாடுகளை எதிர்வரும் பெப்ரவரி மாதம் முதல் மீண்டும் ஆரம்பிக்க முடிந்துள்ளது எனவும் வஜிர அபேவர்தன தெரிவித்தார்.
+
+### ‘யுக்திய’வுக்கு ஆசி வேண்டி நல்லூரில் விசேட வழிபாடு
+
+*2024-01-18 01:56:27 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-வுக்கு-ஆசி-வேண்டி-நல்லூரில்-விசேட-வழிபாடு/175-331710)*
+
+நாடாளாவிய ரீதியில் முன்னெடுக்கப்படும் போதைப்பொருள் தடுப்பு விசேட செயற்றிட்டமான ‘யுக்திய’ நடவடிக்கைக்கு ஆசி வேண்டி யாழ்ப்பாணம் நல்லூர் கந்தசாமி ஆலயத்தில் பொலிஸார் விசேட பூஜை வழிபாட்டில் ஈடுபட்டனர்.
+
+பதில் பொலிஸ் மா அதிபரின் பணிப்புரைக்கிணங்க,   போதைப்பொருள் ஒழிப்பு வேலை திட்டமாகிய ‘யுக்திய’வேலை திட்டம் பொலிஸாரால் நாடுபூராகவும்  முன்னெடுக்கப்பட்டு வருவதோடு  போதைப் பொருள் வியாபாரிகள் மற்றும் போதைப்பொருள் கடத்துபவர்கள் என பலரும் பொலிஸாரால்  கைது செய்யப்பட்டு வருகின்றனர்.
+
+இந் நிலையில் குறித்த ‘யுக்திய’  நடவடிக்கைக்கு ஆசி வேண்டி வரலாற்றுப் பிரசித்தி பெற்ற நல்லூர் கந்தசாமி ஆலயத்தில் பொலிஸாரால் விசேட பூஜை வழிபாடுகள் முன்னெடுக்கப்பட்டன.
+
+வழிபாட்டில் யாழ். மாவட்ட பிரதி பொலிஸ் மா அதிபர், யாழ்ப்பாண பிராந்திய சிரேஷ்ட அத்தியட்சகர், யாழ்ப்பாண பிராந்திய உதவி பொலிஸ் அத்தியட்சகர் , யாழ்ப்பாண பொலிஸ் நிலைய பொறுப்பதிகாரி மற்றும் பொலிஸ் உத்தியோகஸ்தர்கள் கலந்து கொண்டனர்.
+
 ### ’மூக்கை நுழைக்காமல் இருக்க தெரியவில்லை’
 
 *2024-01-18 01:52:10 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மூக்கை-நுழைக்காமல்-இருக்க-தெரியவில்லை/175-331709)*
@@ -425,6 +495,22 @@ The NAM which currently consists of 120 member states is based on the Bandung pr
 ### பொது மன்னிப்பை செல்லுபடியற்றதாகியது ’சரித்திர தீர்ப்பு’
 
 *2024-01-18 01:25:50 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்பை-செல்லுபடியற்றதாகியது-சரித்திர-தீர்ப்பு/175-331706)*
+
+ஜனாதிபதி ஒருவருடைய பொது மன்னிப்பு செல்லுபடியற்றது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளமை இலங்கை சரித்திரத்திலே முதல் தடவையாகும் என தமிழ்த் தேசிய கூட்டமைப்பின் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
+
+முல்லைத்தீவு மாங்குளம் நீதிமன்றத்துக்கு  பொதுமக்களின் காணி விடயம் தொடர்பான வழக்கு விசாரணை ஒன்றிற்காக எம்.ஏ. சுமந்திரன், புதன்கிழமை (17) வந்திருந்தார். அவரிம், மேற்படி உயர்நீதிமன்றம் வழங்கிய தீர்ப்பு தொடர்பில் கேள்வியெழுப்பிய போதே மேற்கண்டவாறு தெரிவித்தார்.
+
+ஜனாதிபதி கோட்டாபாய ராஜபக்‌ஷ, துமிந்த சில்வாவிற்கு கொடுத்த மன்னிப்பை புறந்தள்ளி அது தவறாக சட்டவிரோதமாக கொடுக்கப்பட்ட மன்னிப்பு செல்லுபடியற்றது என்று தீர்ப்பளித்துள்ளது.
+
+பாரத லக்‌ஷ்மன் பிரேமசந்திரவின் கொலை சம்பந்தமாக மரண தண்டனைக்கு உட்படுத்தப்பட்ட துமிந்த சில்வாவிற்கே இந்த தீர்ப்பு கொடுக்கப்பட்டது. மனுதாரர்களில் ஒருவரான ஹிருணிகா பிரேமசந்திர சார்பிலே நான் ஆஜராகி வாதாடி இருக்கின்றேன் .
+
+ஜனாதிபதி ஒருவருடைய மன்னிப்பு  செல்லுபடியற்றது என நீதிமன்றம் இலங்கை சரித்திரத்திலே முதல்  தடவையாக தீர்ப்பளித்து இருக்கின்றது. இது வரவேற்க வேண்டிய ஒரு விடயம், வேறு சில வழக்குகளும் நிலுவையிலே இருக்கின்றன.
+
+விஷேடமாக மிருசுவில் படுகொலையாளி  சுனில் ரட்நாயக்கவுக்கு ஜனாதிபதி கோட்டாபய ராஜபக்‌ஷ,  கொடுத்த பொது மன்னிப்பையும் நாங்கள் சவாலுக்கு உட்படுத்தி இருக்கின்றோம். அந்த தீர்ப்பு இன்னும் வெளிவரவில்லை என மேலும் தெரிவித்தார்.
+
+### பொது மன்னிப்பை செல்லுபடியற்றதாக்கியது ’சரித்திர தீர்ப்பு’
+
+*2024-01-18 01:25:50 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்பை-செல்லுபடியற்றதாக்கியது-சரித்திர-தீர்ப்பு/175-331706)*
 
 ஜனாதிபதி ஒருவருடைய பொது மன்னிப்பு செல்லுபடியற்றது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளமை இலங்கை சரித்திரத்திலே முதல் தடவையாகும் என தமிழ்த் தேசிய கூட்டமைப்பின் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
 
@@ -692,6 +778,30 @@ The ILO works closely with governments, employers’ and workers’ organization
 
 இம்முறை 2000 பேர் அளவிலான தென்னிலங்கை முதலீட்டாளர்களும் இங்கு வந்து தமது சந்தைவாய்ப்பை மேற்கொள்ளவுள்ளனர் என்றார்.
 
+### சாரதி அனுமதிப்பத்திரம் வழங்கும் பிரச்சினைக்கு ஒக்டோபருடன் தீர்வு - லசந்த அழகியவன்ன
+
+*2024-01-17 20:50:00 - [virakesarilk](https://www.virakesari.lk/article/174197)*
+
+தற்போது வழங்கப்பட்டுள்ள தற்காலிக சாரதி அனுமதிப்பத்திரத்திற்குப் பதிலாக எதிர்வரும் ஒக்டோபர் மாதத்திற்குள் ஒருநாள் சேவையின் ஊடாக வழமைபோன்று சாரதி அனுமதிப்பத்திர அட்டை வழங்கப்படும் என போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன தெரிவித்தார்.
+
+சாரதி அனுமதிப்பத்திரங்களை வழங்கும் 25 மாவட்ட அலுவலகங்களும் இந்த வருட இறுதிக்குள் வெரஹெர தலைமை அலுவலகத்தின்  நிலைக்கு மேம்படுத்தப்படும் எனவும் இராஜாங்க அமைச்சர் வலியுறுத்தினார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (17) நடைபெற்ற ஊடக சந்திப்பில் கருத்துத் தெரிவிக்கும்போதே  போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன இவ்வாறு தெரிவித்தார்.
+
+“ஜனாதிபதி ரணில் விக்ரமசிங்கவின் வழிகாட்டலின் கீழ், நவீன தொழிநுட்பத்தை பயன்படுத்தி, செயற்திறன் மிக்க போக்குவரத்து சேவையினை பொதுமக்களுக்கு வழங்குவதே எமது அமைச்சின் பிரதான நோக்கமாகும்.
+
+எமது நாட்டில் சுமார் 8.9 மில்லியன் வாகனங்கள் பாவனையில் உள்ளன. அதேபோன்று  சுமார் 85 இலட்சம் சாரதி அனுமதிப்பித்திரம் பெற்றுள்ளனர்.  சாரதி அனுமதிப்பித்திரங்களை வழங்கும் அனைத்து மாவட்ட அலுவலகங்களையும் இந்த ஆண்டு இறுதிக்குள் வெரஹெர தலைமை அலுவலகத்தின் தரத்திற்கு மேம்படுத்த நடவடிக்கை எடுக்கப்பட்டு வருகிறது. மேலும், ஏப்ரல் மாதத்திற்குள் விமான நிலையத்தில் வெளிநாட்டவர்களுக்கு சாரதி அனுமதிப்பித்திரம் வழங்க ஏற்பாடு செய்யப்பட்டுள்ளது.
+
+மேலும், தற்போது வழங்கப்பட்டுள்ள தற்காலிக சாரதி அனுமதிப்பத்திரத்திற்குப் பதிலாக எதிர்வரும் ஒக்டோபர் மாதத்திற்குள் ஒருநாள் சேவையின் ஊடாக வழமைபோன்று அனைவருக்கும் சாரதி அனுமதிப்பத்திர அட்டை வழங்க அவசியமான நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருகின்றன.
+
+சாரதிகளுக்கு விபத்துகளின் போது செயற்படுத்த வேண்டிய முதலுதவிகள் தொடர்பில் தெளிவூட்ட பல்வேறு வேலைத்திட்டங்களை நடைமுறைப்படுத்த அவசியமான பணிகள் முன்னெடுக்கப்படுகின்றன. எதிர்காலத்தில் சாரதி அனுமதிப்பத்திர பரீட்சையின்போது முதலுதவி தொடர்பான வினாக்களை உள்ளடக்கவும்  திட்டமிடப்பட்டுள்ளது.
+
+பழமையான மோட்டார் வாகனச் சட்டத்தில் திருத்தம் செய்து புதிய சட்டத்தை முன்வைக்க அமைச்சு நடவடிக்கை எடுத்துள்ளதுடன் அதற்கேட்ப போக்குவரத்து சட்டத்தில் திருத்தம் செய்யத் தேவையான பணிகள் முன்னெடுக்கப்படுகின்றன.
+
+விபத்துகளை தடுக்கும் வகையில் தகைமை இழப்பு புள்ளி செயல்முறையை நடைமுறைப்படுத்தும் பணிகள் மேற்கொள்ளப்பட்டு வருகின்றன. மதுபோதையில் வாகனம் செலுத்துபவர்களைக் கண்டறியும் செயற்பாடு மாத்திரமே தற்போது நடைமுறைப்படுத்தப்படுகின்றது. போதைப்பொருள் பாவனையுடன் வாகனங்களை செலுத்தும் சாரதிகளை இணங்கண்டு அவர்களுக்கு எதிராக தற்போது சட்ட நடவடிக்கை எடுக்கப்பட்டு வருகின்றது.
+
+இதன் ஆரம்ப கட்ட நடவடிக்கை மேல்மாகாணத்திலும் தென்மாகாணத்திலும் செயற்படுத்தப்பட்டது. இவ்வருடம் இத்திட்டம் நாடு முழுவதும் நடைமுறைப்படுத்தப்படும்” என்று போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன மேலும் தெரிவித்தார்.
+
 ### HNB Assurance advisor distribution management team celebrates its exceptional performance
 
 *2024-01-17 20:34:00 - [islandlk](http://island.lk/hnb-assurance-advisor-distribution-management-team-celebrates-its-exceptional-performance/)*
@@ -801,6 +911,14 @@ First Capital celebrates double wins at SLIM Brand Excellence Awards
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
 Save my name, email, and website in this browser for the next time I comment.
+
+### දුමින්ද සිල්වා ජපුර රෝහලේ
+
+*2024-01-17 19:54:18 - [adalk](https://www.ada.lk/breaking_news/දුමින්ද-සිල්වා-ජපුර-රෝහලේ/11-407605)*
+
+හිටපු පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද සිල්වා මහතාට ඇති වී තිබෙන රෝගී තත්වය මත ඔහු ජයවර්ධන පුර රෝහලෙහි ප්‍රතිකාර ලබා ගනිමින් සිටින බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක,  බන්ධනාගාර කොමසාරිස්  ගාමිණී බී. දිසානායක මහතා අද කළ විමසීමකදී සඳහන් කළේය.
+
+වෛද්‍යවරුන්ගේ නිර්දේශ මත දුමින්ද සිල්වා මහතා යම් කාලයක සිට බන්ධනාගාර නිලධාරීන්ගේ ආරක්ෂාව යටතේ ප්‍රතිකාර ලබා ගනිමින් සිටින බවද ඒ මහතා පැවසීය.
 
 ### හරක් කටාව වෙන තැනකට ගෙන යනවනම් අධිකරණයේ අවසරය ඕනෑ
 
@@ -1915,185 +2033,3 @@ LGL operates an LPG filling plant in Kerawalapitiya with a filling capacity of 1
 Meanwhile, LGTL provides bulk storage and pipeline facilities for LPG, with their key storage facility strategically located in Kerawalapitiya, with a capacity of 8,000 MT.
 
 It is also to be noted that surplus land is available at Kerawalapitiya for further expansion of both, LGL and LGTL.
-
-### IMF Chief meets President Ranil, commends Sri Lanka’s economic reform efforts
-
-*2024-01-17 13:11:00 - [adaderanalk](https://www.adaderana.lk/news/96477/imf-chief-meets-president-ranil-commends-sri-lankas-economic-reform-efforts)*
-
-Managing Director of the International Monetary Fund (IMF) Kristalina Georgieva commended the economic reform endeavors pursued by Sri Lanka during a meeting with President Ranil Wickremesinghe at the World Economic Forum in Davos, Switzerland.
-
-She emphasized the importance of the IMF Board approving the first review of Sri Lanka’s Extended Fund Facility (EFF) program in December 2023, characterizing it as a recognition of the country’s significant reform initiatives.
-
-Georgieva expressed her positive expectations on ‘X’ (formerly Twitter), stating that the reforms undertaken by Sri Lanka are beginning to yield positive results.
-
-“Very good meeting with Ranil Wickremesinghe at WEF24. IMF Board approval of the First Review of the EFF program in December was a recognition of the important reforms Sri Lanka has pursued. These reforms are starting to pay off,” she tweeted.
-
-Meanwhile, Pakistan’s caretaker Prime Minister Anwaar-ul-Haq Kakar also met with President Wickremesinghe on the sidelines of the Forum.
-
-During the meeting, the two parties discussed numerous matters pertaining to regional affairs, and ways to promote trade between Sri Lanka and Pakistan.
-
-### Sri Lanka president, business community seek FDI and PPP in Switzerland
-
-*2024-01-17 13:00:00 - [economynextcom](https://economynext.com/sri-lanka-president-business-community-seek-fdi-and-ppp-in-switzerland-147561/)*
-
-ECONOMYNEXT – The government’s focus was on fostering growth through exports, services and investments, including foreign direct investment (FDI), Sri Lanka’s president has told a Business Roundtable organized by the Swiss-Asian Chamber of Commerce and the SL Board of Investment.
-
-There were “opportunities for investments in renewable energy, agriculture modernization, tourism, IT and infrastructure development through public-private partnerships,” Ranil Wickremesinghe was quoted as saying by his media division.
-
-Wickremesinghe is in Switzerland to attend the 54th Annual Meeting of the World Economic Forum.
-
-Forthcoming laws and commissions would enhance market access, foster trade and investment and ensure the competitiveness of the island’s economy, he told potential foreign investors.
-
-Wickremesinghe sought to reassure them by mentioning the removal of restrictions and ongoing economic reforms.
-
-He pointed out the country’s ongoing and pending FTAs with Singapore, Thailand, India and China, its initiatives to join the Regional Comprehensive Economic Partnership (RCEP), and the benefits of GSP Plus for access to European markets.
-
-Representing the Sri Lankan business community at the event were John Keels Holdings Chairman Krishan Balendra, Commercial Bank CEO/MD Sanath Manatunge, Colombo Stock Exchange Chairman Dilshan Wirasekara, Janashakthi Insurance Deputy Chairman Prakash Schaffter, Sri Lanka Ports Authority Chairman Keith Bernard, Aitken Spence Joint Deputy Chairpersons/MDs Stasshani Jayawardena and Parakrama Dissanayake, Galle Face Group Chairman Sanjeev Gardiner, Sri Lankan Airlines Chairman Ashok Pathirage, People’s Bank Chairman Sujeewa Rajapakse, and ⁠Dialog Axiata CEO Supun Weerasinghe. (Colombo/Jan17/2024)
-
-### கடுவன்களுக்கு கருத்தடை
-
-*2024-01-17 12:52:38 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கடுவன்களுக்கு-கருத்தடை/175-331654)*
-
-மாத்தளை மாவட்டத்தில் குரங்குகளின் எண்ணிக்கை அதிகரித்துள்ள நிலையில், கருத்தடை திட்டத்தை வெகு விரைவில் அமுல்படுத்தவுள்ளதாக பாராளுமன்ற உறுப்பினர் நாலக பண்டார கோட்டேகொட தெரிவித்துள்ளார்.
-
-மாத்தளை மாவட்ட ஒருங்கிணைப்புக் குழு கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
-
-மேலும் அவர், “மாத்தளை மாவட்டத்தில் கடந்த சில காலங்களாக ஆண் குரங்குகள் அதிகமாக பயிர்செய்கைகளுக்கு பாதிப்பை ஏற்படுத்துவதாக தகவல் வெளியாகியுள்ளது.
-
-இது தொடர்பில், குறித்த ஒருங்கிணைப்பு கூட்டத்தில் கவனம் செலுத்தப்பட்டதுடன் விவசாய அமைச்சு இதற்கான நிதி ஒதுக்கீடுகளை செய்துள்ளதாகவும் அவர் சுட்டிக்காட்டினார்.
-
-மேலும், இலங்கையை பொருத்தவரை இதுவே ஆண் குரங்குகளுக்கு முதல்முறையாக கருத்தடை திட்டத்தை முன்னோடி திட்டமாக முன்னெடுக்கப்படுகின்றது. இதனை மேற்கொள்வதற்கு நிதியும் ஒதுக்கப்பட்டுள்ளது.” என தெரிவித்துள்ளார்.
-
-இதேவேளை, பேராதனைப் பல்கலைக்கழக கால்நடை மருத்துவப் பிரிவும் பேராதனை போதனா வைத்தியசாலையும் இணைந்து குரங்குகளின் கர்ப்பத்தைத் தடுப்பதற்காக 'லூப் கருத்தடை' எனப்படும் கருப்பையக சாதனத்தை (IUD) அறிமுகப்படுத்தும் நடவடிக்கையில் ஈடுபட்டுள்ளதாக பேராதனை பல்கலைக்கழக கால்நடை மருத்துவ அறிவியல் துறை பேராசிரியர் அசோக தங்கொல்ல கடந்த வருடம் தெரிவித்திருந்தமையும் குறிப்பிடத்தக்கது.
-
-### Apple overtakes Samsung as world’s biggest phone-maker
-
-*2024-01-17 12:30:00 - [islandlk](http://island.lk/apple-overtakes-samsung-as-worlds-biggest-phone-maker/)*
-
-Apple now has the lion’s share of the global smartphone market, knocking Samsung off the top spot for the first time in 12 years.
-
-The American phone giant accounted for more than a fifth of phones shipped last year, according to data from the International Data Corporation (IDC).
-
-Samsung took 19.4% of the market share with Chinese phone-makers Xiaomi, OPPO and Transsion following behind.  Smartphone sales have been faltering as many people upgraded in the pandemic.
-
-The IDC reports that almost 1.2 billion smartphones were sold last year – a drop of more than 3% on the previous year. It is the lowest amount sold in a decade, with many consumers tightening their purse strings in the face of economic challenges and high interest rates. Experts predict the market will recover this year.
-
-Still, the IDC said Apple – which sold more than 234 million phones last year – is “the biggest winner”. “Not only is Apple the only player in the Top 3 to show positive growth annually, but also bags the number 1 spot annually for the first time ever,” said the IDC’s Nabila Popal.
-
-“All this despite facing increased regulatory challenges and renewed competition from Huawei in China, its largest market.” Huawei has recently made strides in making its own chips, after being banned from buying chips that were made using US technology over claims the company poses a national security risk to Washington.
-
-Offers to trade in old models as well as interest-free financing plans are also driving demand for premium devices like Apple.
-
-It’s disappointing news for Samsung which – until now – had the top spot as the world’s largest maker of memory chips, smartphones and televisions.
-
-Recently, the South Korean electronics giant warned its profits would drop more than expected as global demand for consumer electronics remains weak. It is also facing competition from cheaper Android models including Transsion and Xiaomi which are getting a boost from both price-savvy consumers and emerging markets.
-
-The IDC also said the smartphone market is entering a “very interesting time”, with a growing number of Android-providers splintering the market and customers increasingly prioritising foldable phones and AI capabilities.
-
-Navy detain two trawlers 18 fishermen poaching in Sri Lankan waters off Mannar
-
-Regulation of Election Expenditure Act No 3 of 2023 put in place to scrutinize funding sources of political parties – MP Wajira Abeywardena
-
-Students from Sri Lanka take a study trip to Huawei Headquarters in China
-
-Huawei notches revenue of CNY 456.6 billion within first three quarters of 2023
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-### Court order issued against planned IUSF protest in Colombo today
-
-*2024-01-17 12:24:00 - [adaderanalk](https://www.adaderana.lk/news/96474/court-order-issued-against-planned-iusf-protest-in-colombo-today-)*
-
-The Maligakanda Magistrate’s Court has delivered an order barring the Inter-University Students’ Federation (IUSF) from inconveniencing the members of the public during their protest march planned to be staged this evening (Jan.17).
-
-Accordingly, university students are barred from entering Deans Road, Kularatna Mawatha, T.B. Jayah Mawatha and several other roads in Colombo and marching in protest while obstructing motorists and pedestrians.
-
-The court order was issued against seven ISUF members including its convenor Madushan Chandrajith and Ven. Galwewa Siridhamma Thero.
-
-### பொது மக்களுக்கு விசேட எச்சரிக்கை
-
-*2024-01-17 12:20:16 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பொது-மக்களுக்கு-விசேட-எச்சரிக்கை/175-331652)*
-
-இலங்கையின் பல பகுதிகளில் காற்றின் தரம் இன்று (17) மோசமடைந்துள்ளதாக மத்திய சுற்றாடல் அதிகாரசபை தெரிவித்துள்ளது.
-
-அதன்படி, இன்று காலை 09.30 மணி நிலவரப்படி கொழும்பு, காலி, குருநாகல் மற்றும் கம்பஹா ஆகிய பகுதிகளில் காற்றின் தரம் ஆரோக்கியமற்றதாக பதிவாகியுள்ளது.
-
-அனுராதபுரம், கண்டி, நீர்கொழும்பு, மிரிஹான மற்றும் பண்டாரவளை பகுதிகளில் உள்ள உணர்திறன் கொண்ட குழுக்களுக்கு காற்றின் தரம் ஆரோக்கியமற்றதாக பதிவு செய்யப்பட்டுள்ளது.
-
-### ”ஒன்லைன் பாதுகாப்பு சட்டத்தை நாங்கள் ரத்து செய்வோம்”
-
-*2024-01-17 12:12:31 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்பு-சட்டத்தை-நாங்கள்-ரத்து-செய்வோம்/175-331651)*
-
-"உண்மையான நிகழ்நிலை பாதுகாப்பிற்கு நாங்கள் கடமைப்பட்டுள்ளோம். எனவே சிறுவர் ஆபாச மற்றும் பிற தீவிரமான ஒன்லைன் குற்றங்கள் போன்ற பிரச்சனைகளை முக்கிய தளங்களின் ஒத்துழைப்புடன் நாங்கள் அறிமுகப்படுத்துவோம்.
-
-இது இலங்கை சமூகத்தின் நல்வாழ்வுக்கு முக்கியமானது. அவசர முடிவுகளை விட பயனுள்ள தீர்வுகளுக்கு முன்னுரிமை அளிப்போம்.” என்று ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா கூறினார்.
-
-"ஒன்லைன் பாதுகாப்பு சட்டமூலத்தை அமல்படுத்துவதற்கான அரசாங்கத்தின் நடவடிக்கையை நாங்கள் கடுமையாக எதிர்க்கிறோம். நிறைவேற்றப்பட்டால், எதிர்கால SJB தலைமையிலான அரசாங்கம் இந்த சர்ச்சைக்குரிய சட்டமூலத்தை விரைவில் ரத்து செய்யும் என்று நான் உறுதியளிக்கிறேன்.
-
-மேட்டா, கூகுள் மற்றும் யூடியூப் போன்ற முக்கிய தளங்களுடனான எங்கள் உறவுகளை நாங்கள் பாதிக்க மாட்டோம். அவை பொருளாதார வளர்ச்சிக்கு மிக அவசியமானவை" என அவர் தனது சமீபத்திய ட்விட்டர் பதிவில் தெரிவித்துள்ளார்.
-
-### Sri Lanka discusses economic ties, EDR with India envoy
-
-*2024-01-17 12:00:00 - [economynextcom](https://economynext.com/sri-lanka-discusses-economic-ties-edr-with-india-envoy-147549/)*
-
-ECONOMYNEXT – Sri Lanka’s State Minister of Finance met with the Indian High Commissioner Santosh Jha to discuss cooperation on economic concerns.
-
-“Engaged in fruitful discussions on fostering mutual economic partnerships between our two countries, collaborative initiatives aimed at enhancing economic ties and progress on debt restructuring process,” State Minister of Finance Shehan Semasinghe said on X.
-
-So far India has executed over a billion US dollars of projects in the island.
-
-Investors from India, Jio Platforms Ltd and Pettigo – a unit of Reliance industries, have expressed interest in buying Sri Lanka Telecom. India’s Airtel already has a mobile unit in Sri Lanka’s telecom sector.
-
-India is already involved in the country’s ports sector. The Adani group is building a container terminal in Colombo Port.
-
-Sri Lanka blocked a Chinese power sector investment in the North, reportedly under Indian pressure.
-
-The government has also temporarily halted foreign research ships after strong security concerns raised by neighbour India after the visit of two Chinese research vessels.
-
-Political analysts say India has influence in the Sri Lankan election given it is closely connected with ethnic minority Tamils especially those who came down to the island nation from India as plantation workers during the British rule. India is involved in many housing projects for this group.
-
-### High Posts Committee approves 5 top appointments including PUCSL chief
-
-*2024-01-17 11:48:00 - [adaderanalk](https://www.adaderana.lk/news/96473/high-posts-committee-approves-5-top-appointments-including-pucsl-chief)*
-
-The Committee on High Posts has green-lighted 5 new appointments including an appointment of a High Commissioner, the Communication Department of Parliament said on Wednesday (Jan.17).
-
-The new appointments approved by the committee are as follows:
-
-• Mr. P.R.S. Goonawardena – High Commissioner of Sri Lanka to the Republic of Maldives
-
-• Dr. M.M. S.S.B. Yalegama – Non-Cabinet Ministry of State Plantation Enterprise Reforms
-
-• Mr. S.C.J Devendra – Chairman of the Sri Lanka Export Credit Insurance Corporation
-
-• Prof. M.A.R.M. Fernando – Chairman of Public Utilities Commission of Sri Lanka (PUCSL)
-
-• Mr. J. M. Soosaithasan – Chairman of State Mortgage and Investment Bank
-
-Committee on High Posts met in Parliament last week under the chairmanship of Speaker Mahinda Yapa Abeywardena. The meeting was attended by Ministers Nimal Siripala de Silva and Keheliya Rambukwella, as well as MPs Johnston Fernando, Anura Priyadarshana Yapa, Thalatha Athukorala, Udaya Gammanpila, Dr. Sudarshini Fernandopulle and Dharmalingam Siddharthan.
-
-### China’s population drops for second straight year despite efforts to boost birth rate
-
-*2024-01-17 11:39:00 - [adaderanalk](https://www.adaderana.lk/news/96472/chinas-population-drops-for-second-straight-year-despite-efforts-to-boost-birth-rate-)*
-
-China’s population dropped by 2 million people in 2023 in the second straight annual drop as births fell and deaths jumped after the lifting of COVID-19 restrictions, the government said Wednesday.
-
-The number of deaths more than doubled to 690,000. Demographers were expecting a sharp rise in deaths because of COVID-19 outbreaks that started at the end of the previous year and continued through February of last year. The total population stood at 1.4 billion, the statistics bureau said. China, long the most populated country in the world, dropped into second place behind India in 2023, according to U.N. estimates.
-
-The number of births fell for the seventh year, reflecting a fall in the birth rate that is a long-running economic and societal challenge for China. The population is aging steadily, which could slow economic growth over time and challenge the nation’s ability to provide for a larger elderly population with fewer workers.
-
-The number of births fell by 540,000, which was less than in previous years. About 9 million babies were born in 2023, half of the total in 2016. All the figures are estimates based on surveys and do not include Hong Kong and Macao. China conducts a full census every 10 years.
-
-China, which once sought to control population growth with its one-child policy, is now facing the opposite problem. The government has sought to encourage births since easing the policy over 2015 to 2016 to allow a second child and then a third child in 2021, but with little success.
-
-People are marrying later and sometimes choosing not to have children. Even those that do often have only one child because of the high cost of educating children in cities in a highly competitive academic environment. The population of women of child-bearing age has also fallen.
-
-The working-age population, defined as those between 16 and 59 years old, fell to 61% of the total population, continuing a gradual decline. The proportion of those aged 60 and older ticked up to 21%. The official retirement age in China is 60 years old for men and 50 or 55 for women.
-
-It is not clear how many people died from COVID-19 because of the sudden end to China’s “zero-COVID” restrictions in December 2022. The government has reported about 80,000 COVID-related deaths from December to February but experts believe it is much higher. Studies have estimated it could have reached 1.4 million or 1.9 million deaths.
-
-The drop in population is expected to be less this year, because of the waning effects of the pandemic and the fact that it is the year of the dragon, considered an auspicious year to have children, an expert said at a forum earlier this week, according to the China Daily, an English-language state-owned newspaper.
-
-But Yuan Xin, a professor at Nankai University and vice-president of the China Population Association, added that “the downward trend in China’s total population is bound to be long-term and become an inherent characteristic.”

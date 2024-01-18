@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-18 09:27:49**
+As of **2024-01-18 10:28:15**
 
 ## Newspaper Stats
 
@@ -12,13 +12,13 @@ As of **2024-01-18 09:27:49**
 
 * virakesarilk: 60
 
-* islandlk: 61
+* islandlk: 63
 
 * economynextcom: 68
 
-* adaderanalk: 102
+* adaderanalk: 103
 
-* tamilmirrorlk: 108
+* tamilmirrorlk: 110
 
 * dbsjeyarajcom: 115
 
@@ -26,9 +26,45 @@ As of **2024-01-18 09:27:49**
 
 * adalk: 134
 
-* **Total**: **872**
+* **Total**: **877**
 
 ## Latest Articles (100)
+
+### இலங்கைக்கு புதிய ஆபத்து
+
+*2024-01-18 09:25:44 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-புதிய-ஆபத்து/175-331719)*
+
+இலங்கையில் உள்ள அமெரிக்க தூதரகத்தின் காற்றின் தர சுட்டெண் தரவுகளின்படி, நேற்று (17) காலை கொழும்பு நகரில் காற்று மாசுபாடு கடுமையாக அதிகரித்துள்ளது.
+
+சுட்டெண்ணின் படி, கொழும்பு நகரின் கொள்ளுப்பிட்டி பகுதியைச் சூழவுள்ள காற்றில் உள்ள தூசித் துகள்களின் அளவு நேற்று காலை 163 ஆக அதிகரித்துள்ளது.
+
+கொழும்பு - 7 இல் இந்த எண்ணிக்கை 141 ஆக பதிவாகியுள்ளது. எவ்வாறாயினும், தேசிய கட்டிட ஆராய்ச்சி அமைப்பின் தரவுகளின்
+
+மேலும், பதுளை, குருநாகல் மற்றும் கண்டி ஆகிய நகரங்களைச் சுற்றி வளிமண்டலத்தில் தூசி துகள்களின் சதவீதம் அதிகரித்துள்ளது.
+
+இந்தியாவில் இருந்து வீசும் மாசு காற்றின் தாக்கம் காரணமாக இலங்கையிலும் காற்றின் தரம் பாதிக்கப்பட்டுள்ளதாக மத்திய சுற்றாடல் அதிகார சபையின் ஊடகப் பேச்சாளர், கழிவு முகாமைத்துவ பிரதி பணிப்பாளர் நாயகம் அஜித் வீரசுந்தர தெரிவித்துள்ளார். இதன் காரணமாக சுவாசக் கோளாறு உள்ளவர்கள் முகமூடி அணிவது சிறந்தது என்றார். R
+
+### Operation ‘Yukthiya’: 943 more suspects arrested within 24 hours
+
+*2024-01-18 09:19:00 - [adaderanalk](https://www.adaderana.lk/news/96499/operation-yukthiya-943-more-suspects-arrested-within-24-hours)*
+
+A total of 943 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.18) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Among the arrestees are 670 suspects who were taken into custody on narcotics-related charges and 273 others who were on the list of wanted criminal suspects.
+
+Detention orders have been secured against 9 suspects for further interrogations, and 25 drug addicts who were among the arrestees have been sent for rehabilitation.
+
+Additionally, 32 suspects who were on the list of registered suspects of the Police Narcotics Bureau and the Police Special Task Force have also been arrested during the special police operation.
+
+According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 199g of heroin, 168g of crystal methamphetamine (Ice), 2.kg of cannabis, 2,883 cannabis plants and 59 narcotic pills.
+
+### இன்று பல தடவைகள் மழை பெய்யும்
+
+*2024-01-18 09:07:55 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/இன்று-பல-தடவைகள்-மழை-பெய்யும்/175-331718)*
+
+வடமத்திய, கிழக்கு,மற்றும் ஊவா மாகாணங்களிலும் முல்லைத்தீவு மாவட்டத்திலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது. R
 
 ### UK Parliament approves Sunak’s Rwanda bill as right-wing rebels back down
 
@@ -891,6 +927,54 @@ The ILO works closely with governments, employers’ and workers’ organization
 விபத்துகளை தடுக்கும் வகையில் தகைமை இழப்பு புள்ளி செயல்முறையை நடைமுறைப்படுத்தும் பணிகள் மேற்கொள்ளப்பட்டு வருகின்றன. மதுபோதையில் வாகனம் செலுத்துபவர்களைக் கண்டறியும் செயற்பாடு மாத்திரமே தற்போது நடைமுறைப்படுத்தப்படுகின்றது. போதைப்பொருள் பாவனையுடன் வாகனங்களை செலுத்தும் சாரதிகளை இணங்கண்டு அவர்களுக்கு எதிராக தற்போது சட்ட நடவடிக்கை எடுக்கப்பட்டு வருகின்றது.
 
 இதன் ஆரம்ப கட்ட நடவடிக்கை மேல்மாகாணத்திலும் தென்மாகாணத்திலும் செயற்படுத்தப்பட்டது. இவ்வருடம் இத்திட்டம் நாடு முழுவதும் நடைமுறைப்படுத்தப்படும்” என்று போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன மேலும் தெரிவித்தார்.
+
+### Emirates readies to recruit 5,000 cabin crew from six continents in 2024
+
+*2024-01-17 20:36:00 - [islandlk](http://island.lk/emirates-readies-to-recruit-5000-cabin-crew-from-six-continents-in-2024/)*
+
+Emirates is celebrating the new year and the imminent arrival of its spanking new fleet of Airbus A350s with a global cabin crew recruitment drive with a difference. The 5,000 new joiners will ensure the airline’s commitment to offering the world’s best inflight experience maintains a steady course.
+
+The recruitment drive is designed primarily for those who will soon or have recently stepped into the world of work. The airline is inviting fresh graduates with internships or part-time jobs on their résumés, those with a year or so of hospitality or customer service experience, and individuals keen to embark on an exciting career travelling the globe. The new recruits will be a part of the world’s largest international airline and one of the most iconic brands, plus they will learn hospitality and life skills from the best trainers in the business.
+
+What’s more, they will travel the world across more than 140 cities in 76 countries and enjoy the entire gamut of benefits working as Emirates’ cabin crew.
+
+ComBank & UnionPay invite cardholders to ascend to culinary heights
+
+Global reputation expert to speak on vital topic for corporate and political leaders
+
+Emirates announces key appointments for its Sri Lanka and Maldives operations
+
+Emirates unveils new closed loop recycling initiative to reduce plastic
+
+Emirates renews partnership with Sri Lanka Tourism to support tourist arrivals to island nation
+
+Emirates boarding pass unlocks hundreds of offers in Dubai this summer
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### SLT-MOBITEL partners with Bricks Developers, offering ultra-fast connectivity
+
+*2024-01-17 20:35:00 - [islandlk](http://island.lk/slt-mobitel-partners-with-bricks-developers-offering-ultra-fast-connectivity/)*
+
+SLT-MOBITEL, the national ICT solutions provider, signed a Memorandum of Understanding (MOU) with Bricks Developers (Pvt) Ltd., a respected property development company engaged in developing apartments and commercial buildings, to provide SLT-MOBITEL Fibre connectivity to ‘Thurstan 42’ Colombo 03, the luxury apartment complex.
+
+The MOU was signed and exchanged by Sugath R. De Silva, General Manager, Consumer Business Support, SLT, and Shanker Somasunderam, Chairman, Bricks Developers (Pvt) Ltd. Senior representatives from both companies were present on the occasion.
+
+ComBank & UnionPay invite cardholders to ascend to culinary heights
+
+Global reputation expert to speak on vital topic for corporate and political leaders
+
+SLT-MOBITEL ‘Life at 300Mpbs’ blazes into 2024 elevating digital lifestyles with limitless possibilities
+
+SLT-MOBITEL dominates Business Today TOP 40 2022-2023 as only telco recognized in rankings
+
+SLT-MOBITEL Mobile introduces ‘My Super Offers’ delighting customers with tailored rewards
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
 
 ### HNB Assurance advisor distribution management team celebrates its exceptional performance
 
@@ -1957,101 +2041,3 @@ Several high-profile arrests have been made thus far in connection with the case
 අධික සීතල දේශගුණයක් පවතින රටවල හිම පතනය නොවන මාස හයක කාලය තුළ තට්ටු නිවාස සංකීර්ණවල කොරිඩෝවල පවා බඳුන්ගත වගාවෙහි  නිරත වෙමින් ජනතාව නිෂ්පාදන ආර්ථික වර්ධනයට උර දෙන බවත් මෙහි දී පැවසූ අමාත්‍යවරයා ජාත්‍යන්තර මූල්‍ය අරමුදලේ ණය ආධාර යටතේ මෙරට මූලික අවශ්‍යතා ඉටු කරගන්නා පසුබිමක  මෙරට රාජ්‍ය හා වෙනත් ආයතන ඇතුළු සමස්ත ජනතාව ම දේශගුණ විපර්යාස වැනි ඉදිරි ආපදා තත්වයන් ජයගැනීම සඳහා විධිමත්  පෙරසූදානමකින් සිටිය යුතු බවත් අවධාරණය කළේ ය.
 
 මීට වසර එකහමාරකට පෙර ඉන්ධන හා ගෑස් වැනි අත්‍යවශ්‍ය සේවා ලබා ගැනීමට පෝලිම්වල කාලය ගත කළ යුගය යළි සිහිපත් කරගත යුතු ව ඇතැයි ද හෙතෙම පැවසී ය.
-
-### Education of children directly impacts overall success of the nation – Saman Ekanayake
-
-*2024-01-17 14:22:00 - [adaderanalk](https://www.adaderana.lk/news/96480/education-of-children-directly-impacts-overall-success-of-the-nation-saman-ekanayake-)*
-
-President’s Secretary Mr. Saman Ekanayake underscored the pivotal role of education in shaping the lives of children, emphasizing that it is the sole pathway to their success. He highlighted that the successful completion of education leads to the formation of informed citizens, directly impacting the overall success of the nation.
-
-President’s Secretary, Mr. Saman Ekanayake, made this statement during his participation in the ceremony held recently to inaugurate the provision of a fully equipped library to Konkadawala Vidyalaya, Navagaththegama.
-
-These remarks were expressed during Mr. Ekanayake’s participation in a ceremony, where a fully equipped library was provided to Konkadawala Vidyalaya, Navagaththegama.
-
-With the guidance of President’s Secretary Mr. Saman Ekanayake and the support of Chinese financial assistance, two fully equipped libraries were established at Konkadawala Vidyalaya, Navagaththegama, and Duwa Junior College, Negombo, facilitated by the intervention of the President’s Office.
-
-Each library, costing Rs. 02 million, is stocked with essential books for students ranging from grade 6 to grade 11. The primary aim of this initiative is to assist rural students facing economic challenges, fostering a future generation enriched with knowledge.
-
-During his speech, Mr. Ekanayake shared that the idea of providing libraries to these schools stemmed from a conversation with the Chinese Deputy Ambassador to Sri Lanka, who expressed the possibility of supporting a Rs. 04 million project. He selected two schools, reflecting on the potential impact these libraries could have on the education of children attending these institutions over the next decade. Mr. Ekanayake, drawing from his own experiences of receiving primary education in a similar small school, emphasized the importance of supporting these children’s education to pave the way for their future.
-
-He shared a poignant story about the Chinese Deputy Ambassador’s father. ‘To the best of my knowledge, the father of the present Chinese Deputy Ambassador, who is in attendance today, worked as a farmer. In the eighth grade, the Chinese Deputy Ambassador’s father insisted that he join in planting activities, leading to significant back pain after an hour of labour. Upon sharing this discomfort with his father, the advice given was, “If you don’t excel in your studies, you may find yourself compelled to engage in this occupation.”
-
-Embracing that valuable lesson, the Deputy Ambassador has risen to the position of Deputy Ambassador today, operating on an international stage. This success underscores the vital message that children should internalize — education stands as the sole means to triumph in life. It is imperative to recognize that, without education, the future holds uncertainties not just for the individual children but also for the prosperity of the entire nation’.
-
-The event was attended by State Minister Arundika Fernando, Member of Parliament Dr. Kavinda Jayawardene, Chinese Deputy Ambassador to Sri Lanka YANWAI ZHU, officials from the Ministry of Education, Principals, teaching staff, parents and a group of students.
-
-### විමධ්‍යගත අයවැයෙන් කොළඹට කිරි
-
-*2024-01-17 14:18:38 - [adalk](https://www.ada.lk/breaking_news/විමධ්‍යගත-අයවැයෙන්-කොළඹට-කිරි/11-407597)*
-
-2024 වසරේ විමධ්‍යගත අයවැය වැඩ සටහන යටතේ දිවයින පුරා ක්‍රියාත්මක කිරීමට යෝජිත සංවර්ධන  ව්‍යාපෘති  සඳහා ජනාධිපති කාර්යාලයේ වැය ශීර්ෂය යටතේ  රුපියල් මිලියන 11250 ක ප්‍රතිපාදන වෙන්කරන බව මුදල් ආර්ථික ස්ථායිකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය පවසයි.
-
-ජනසංඛ්‍යාව භුමි ප්‍රමාණය ආදීවූ නිර්ණායක පදනම් කරමින් දිස්ත්‍රික් මටටමින් වෙන්කෙරෙන  මෙම ප්‍රතිපාදනවලින් වැඩිම ප්‍රමාණය කොළඹ දිස්ත්‍රික්කයට වන අතර එය රුපියල් මිලියන 1090 කි.දෙවන වැඩිම ප්‍රමාණය ගම්පහ දිස්ත්‍රික්කයට වන අතර එය රුපියල් මිලියන 1033 කි.තෙවන වැඩිම ප්‍රමාණය කුරුනෑගල දිස්ත්‍රික්කයට වන අතර එය  රුපියල්  මිලියන 860 කි.දිවයිනේ අඩුම ප්‍රතිපාදන ප්‍රමාණය වූ රුපියල් මිලියන 80 හිමිවන්නේ කිලිනොච්චි දිස්ත්‍රික්කයට වේ.
-
-මෙම මුදල් මගින් ක්‍රියාත්මක කෙරෙන සියලු සංවර්ධන ව්‍යාපෘති යෝජනා  හඳුනාගෙන සකස්  කිරීම ජනවාරි 31 ට පෙර අවසන් කර ජුලි 30 ට පෙර ව්‍යාපෘති අවසන් කළයුතු බව  මේ සම්බන්ධයෙන් මුදල් අමාත්‍යාංශයේ ලේකම් කේ.
-
-එම්.මහින්ද සිරිවර්ධන මහතාගේ අත්සනින් දිස්ත්‍රික් ලේකම්වරුන් වෙත යොමුකළ චක්‍රලේඛයේ සඳහන් වේ.
-
-මෙම චක්‍රලේඛය අනුව ග්‍රාමීය සංවර්ධන ව්‍යාපෘති සඳහා විශේෂ අවධානයක් යොමු කර තිබේ.එහිදී මෙම මුදල් වැයකළ හැකි ශීර්ෂ යටතේ  ග්‍රාමීය වශයෙන් ජල සම්පාදන ,විදුලි සැපයුම් ,ගමනාගමන පහසුකම් ,රෝහල් සහ සුව සේවා,පාසල් පහසුකම් ,කෘෂි ,වන සතුන්ගෙන් සිදුවන හානි අවම කිරීම ,අඩු ආදායම් පවුල්වල ජීවනෝපාය සංවර්ධනය ,ආපදා හානි පූර්ණය,ආදී  ක්ශේත්‍ර සංවර්ධනය සඳහා වැඩි ඉඩක් ලබා දී තිබේ.
-
-එමෙන්ම මෙම ප්‍රතිපාදනවලින් පුද්ගලයන්ට හෝ පුද්ගල කටයුතු සඳහා සෘජු ප්‍රදාන ලබා දීම නොකළ යුතුවේ.
-
-මේ සියලුම ව්‍යාපෘති ප්‍රාදේශීය හා ග්‍රාම නිලධාරී කොට්ටාස මට්ටමින් ජනතා සහභාගිත්වයෙන් හඳුනාගෙන සකස්කළ යුතුවන අතර ඒවා දිස්ත්‍රික් සම්බන්ධීකරණ කමිටුවෙන් අනුමත කර පෙබරවාරි 15 ට පෙර ජාතික ක්‍රම සම්පාදන දෙපාර්තමේන්තුවටත් එතැනින්  පෙබරවාරි 29 ට පෙර ජනාධිපති ලේකම් කාර්යාලයටත් එවිය යුතු බවත් අනුමත ව්‍යාපෘති රජයේ මුදල් රෙගුලාසි හා ප්‍රසම්පාදන ක්‍රියාවලි යටතේ සිදුකළ යුතු බවත්   දිස්ත්‍රික් මට්ටමින්   මෙම වැඩ සටහන් ක්‍රියාත්මක කිරීමේ ප්‍රධාන වගකීම පැවරී ඇති   දිස්ත්‍රික් ලේකම්වරුන් වෙත මෙම චක්‍රලේඛය මගින්  දන්වා ඇත.
-
-### ஸ்ரீலங்கன் ஏர்லைன்ஸுக்கு மற்றுமொரு புதிய விமானம்
-
-*2024-01-17 14:11:41 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீலங்கன்-ஏர்லைன்ஸுக்கு-மற்றுமொரு-புதிய-விமானம்/175-331660)*
-
-ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனம் தனது விமானப் பிரிவினருக்காக மற்றுமொரு புத்தம் புதிய           A-330 -243 எயார்பஸ் ரக விமானத்தை குத்தகை அடிப்படையில் பெற்று கட்டுநாயக்க விமான நிலையத்திற்கு கொண்டு வந்துள்ளதாக ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவன தொடர்பாடல் பிரிவின் தலைவர் தீபால் பெரேரா தெரிவித்தார்.
-
-பிரான்சில் தயாரிக்கப்பட்ட குறித்த புதிய விமானம் செவ்வாய்க்கிழமை (16) பிற்பகல் கட்டுநாயக்க விமான நிலையத்தை வந்தடைந்ததுடன், ஸ்ரீலங்கன் விமான சேவைக்கு சொந்தமான விமானங்களின் எண்ணிக்கை 23 ஆக அதிகரித்துள்ளது.
-
-இந்த விமானத்தில் 22 வணிக வகுப்பு இருக்கைகள் மற்றும் 240 எகானமி வகுப்பு இருக்கைகள் உள்ளதாகவும், இரண்டு என்ஜின்கள் மூலம் இயக்கப்படுவதாகவும் தெரிவிக்கப்பட்டுள்ளது.
-
-இந்த புதிய விமானத்தின் வருகையானது ஸ்ரீலங்கன் எயார்லைன்ஸ் எதிர்நோக்கும் விமான தாமதங்கள் மற்றும் இரத்துச் சம்பவங்களுக்கு ஒரு தீர்வாக அமையும் என தெரிவிக்கப்பட்டுள்ளது.
-
-### Sri Lanka and India To Fast-Track UPI Rollout
-
-*2024-01-17 14:06:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/sri-lanka-and-india-to-fast-track-upi-rollout/)*
-
-COLOMBO (News 1st); Sri Lanka and India are accelerating plans for an early roll-out of the Unified Payments Interface (UPI) system in Sri Lanka, a move anticipated to significantly enhance bilateral economic cooperation.
-
-This emerged during a meeting yesterday between Sri Lankan State Finance Minister Shehan Semasinghe and Indian High Commissioner to Sri Lanka, Santosh Jha.
-
-The high-level discussions, held in Colombo, highlighted India's unwavering support for Sri Lanka's ongoing debt restructuring process and its broader economic recovery efforts.
-
-Both sides had discussed to expedite the implementation of UPI in Sri Lanka. This digital payment system, revolutionizing India's financial landscape, is poised to offer enhanced convenience and security for transactions between the two countries.
-
-Discussions included exploring avenues for increased use of the Indian rupee (INR) in bilateral trade, potentially reducing currency conversion costs and streamlining financial transactions.
-
-Finance Minister Semasinghe described the meeting as "fruitful," stressing the importance of "collaborative initiatives to enhance economic ties and progress on the debt restructuring process."
-
-The Indian High Commission echoed this sentiment, stating via X (Twitter) that they discussed "early launch of UPI, promoting INR trade settlement & investments-led economic partnership."
-
-### Emirates launches global recruitment drive, plans to hire 5,000 cabin crew in 2024
-
-*2024-01-17 14:05:00 - [adaderanalk](https://www.adaderana.lk/news/96479/emirates-launches-global-recruitment-drive-plans-to-hire-5000-cabin-crew-in-2024)*
-
-Dubai-based airline Emirates is on a recruitment drive and is set to hire 5,000 cabin crew members in 2024.
-
-The new hiring comes as Emirates begins to take delivery of its eagerly anticipated A350s from mid-year and the Boeing 777-Xs starting in 2025. The airline has 65 A350s and a mix of 205 777-9s and 777-8s in its order book.
-
-The recruitment drive is primarily for those who will soon or have recently stepped into the workforce. The airline is looking for fresh graduates with internships or part-time jobs experience, those with a year or so of hospitality or customer service experience.
-
-To be considered for Emirates cabin crew, candidates need to meet the following criteria:
-
-• Fluent in written and spoken English (additional languages are an advantage)
-
-• At least 1 year of hospitality or customer service experience
-
-Emirates’ recruitment team will host open days and assessments in more than 460 cities across six continents.
-
-In 2023, Emirates hired a staggering 8,000 cabin crew and held recruitment events in 353 cities as the airline ramped up its services post-pandemic. In August 2023, the airline’s cabin crew numbers crossed the 20,000 milestone and are now 21,500 strong.
-
-Emirates’ cabin crew enjoy a competitive, tax-free salary and flying pay, eligibility for profit share, hotel stays and layover expenses, concessional travel and cargo, annual leave, annual leave ticket, furnished accommodation, transportation to and from work, excellent medical, life and dental insurance coverage, laundry services and other benefits. Friends and family enjoy discounted flight tickets.
-
-Emirates’ multicultural cabin crew team hails from more than 140 nationalities and speaks 130 languages.
-
-Cabin crew experience career progression, including upgrading to higher cabin classes, and becoming a cabin supervisor, purser or trainer. The airline has 1,180 pursers who have climbed the career ladder after successfully completing exacting training and assessments. Crew also have the opportunity to apply for internal vacancies throughout the Emirates Group.
-
-All new cabin crew recruits undergo an intense eight weeks of training. Trained in Emirates’ state-of-the-art facility in Dubai, cabin crew learn transferable skills that include a knack for communication, initiative and leadership qualities. They develop the ability to work effectively in a multicultural team, the focus to stay mentally strong and calm under pressure, becoming bastions of hospitality and exceptional service, and ambassadors of an iconic brand. Cabin crew also have access to the latest training programmes and LinkedIn courses.

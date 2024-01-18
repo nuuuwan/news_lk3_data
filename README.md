@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 21:33:05**
+As of **2024-01-18 21:51:56**
 
 ## Newspaper Stats
 
-*Scraped **1,078** Articles*
+*Scraped **1,087** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -14,16 +14,100 @@ islandlk | 63 | 🟩🟩🟩🟩🟩🟩
 newsfirstlk | 68 | 🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 84 | 🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 99 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 106 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 119 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 122 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 128 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 130 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 148 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-18 (Thursday)
+
+### Sri Lanka to host Afghanistan after wrapping up Zimbabwe series
+
+*2024-01-18 21:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-to-host-Afghanistan-after-wrapping-up-Zimbabwe-series/108-275302) 
+
+Colombo, Jan. 18 (Daily Mirror) - Following the conclusion of the ODI and T20I series against Zimbabwe, Sri Lanka is gearing up to face Afghanistan in an all-format series starting from February 2.
+
+The Afghanistan National Team is scheduled to arrive in Sri Lanka on January 30 for a series that includes only one Test, 3 ODIs, and 3 T20Is, all set to take place in February 2024.
+
+...
+
+### President arrives in Uganda, receives gun salute
+
+*2024-01-18 21:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-arrives-in-Uganda-receives-gun-salute/108-275299) 
+
+Kampala, Jan 18 (Daily Mirror) -  President  Ranil Wickremesinghe who arrived in Kampala , Uganda was greeted with gun salute upon arrival at the Entebbe airport.
+
+Uganda's Minister of Foreign Affairs, Oreyem Okello along with Foreign Secretary Aruni Wijewardene, and Sri Lanka's Ambassador to Kenya Dr Kana Kananathan  welcomed the  guest. The reception, characterized by a red carpet and a state welcome, showcased the strong diplomatic ties between Sri Lanka and Uganda.
+
+...
+
+### Sri Lanka-India passenger ferry services to resume this week
+
+*2024-01-18 21:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-India-passenger-ferry-services-to-resume-this-week/108-275297) 
+
+Colombo, Jan 18 (Daily Mirror) - The passenger ferry service between India’s Nagapattinam and Kankesanthurai in Jaffna will be initiated this week, Controller General of Immigration and Emigration I.S.H.J. Ilukpitiya said.
+
+Addressing the media, he said that so far, the initial programmes required to initiate the service have been completed, and immigration officers have already been deployed at the KKS port.
+
+...
+
+### Former Pakistan coaches resign from NCA positions
+
+*2024-01-18 21:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Pakistan-coaches-resign-from-NCA-positions/108-275296) 
+
+Jan. 18 (ICC) - Mickey Arthur, Grant Bradburn and Andrew Puttick leave roles at the National Cricket Academy (NCA) in Pakistan
+
+A trio of coaches have left their roles with the National Cricket Academy in Lahore, the PCB stated on Thursday, 18 January.
+
+Mickaey Arthur, Grant Bradburn and Andrew Puttick all held coaching positions with the Pakistan Men's Cricket Team until November 2023.
+
+...
+
+### IMF representatives meet NPP leaders
+
+*2024-01-18 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-representatives-meet-NPP-leaders/108-275295) 
+
+Colombo, Jan. 18 (Daily Mirror)- A group of IMF representatives including head of operations for Sri Lanka, Peter Breuer met representatives of the National People’s Power (NPP) at the JVP head office today.
+
+Ms. Sarvath Jahan, the resident representative of the IMF, Ms. Manavee Abeywickrama (IMF staff) and Peter Brewer, participated in representing the IMF in this discussion.
+
+...
+
+### One killed in police gunfire in Narammala
+
+*2024-01-18 20:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96529/one-killed-in-police-gunfire-in-narammala) 
+
+A person was killed in police gunfire reported this evening in the Dampelessa area of Narammala, Police Media Spokesman SSP Nihal Thalduwa said.
+
+The Sub-Inspector (SI) who fired the shots has been arrested, according to the Police Media Spokesman.
+
+◼️
+
+### Health workers to strike again amidst unresolved dispute
+
+*2024-01-18 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-workers-to-strike-again-amidst-unresolved-dispute/108-275294) 
+
+Colombo, Jan 18 (Daily Mirror) -  The Alliance of Health Trade Unions has announced the resumption of their suspended health strike, scheduled to commence on February 1.
+
+The decision stems from a unanimous consensus reached during a special conference convened today, which brought together representatives from 72 health services unions.
+
+The Ministry of Health had previously acknowledged the reasonableness of the economic justice proposal presented for health staff.
+
+...
+
+### Health sector trade union action to resume; protest campaigns to be launched island-wide
+
+*2024-01-18 19:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96528/health-sector-trade-union-action-to-resume-protest-campaigns-to-be-launched-island-wide-) 
+
+The Convenor of the Health Trade Union Alliance Chanaka Dharmawickrama has revealed that the trade union action, which was launched by a collective of 72 health sector unions, will resume on 01 February.
+
+The suspended action, which seeks ‘economic justice’ for healthcare employees will resume on 01 February, with protest campaigns planned in front of hospitals nation-wide starting January 23, Dharmawickrama said.
+
+...
 
 ### යුක්තියේ මෙහෙයුමට මාසයයි  පුද්ගලයන් 40950 ක් අත්අඩංගුවට
 
@@ -211,7 +295,7 @@ Joining a discussion held with the Welfare Benefits Board at the Finance Ministr
 
 *2024-01-18 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Specialist-remanded-for-alleged-assault-on-staffer-at-Karapitya-Hospital/155-275283) 
 
-Karapitiya, Jan 18 (Daily Mirror) -  The Oncho Surgeon at the Karapitiya Teaching Hospital who was alleged to have assaulted a female hospital staffer has been remanded until 22 January by the Galle Magistrate’s Court.
+Karapitiya, Jan 18 (Daily Mirror) -  The Onco Surgeon at the Karapitiya Teaching Hospital who was alleged to have assaulted a female hospital staffer has been remanded until 22 January by the Galle Magistrate’s Court.
 
 The incident unfolded during a contentious situation that erupted at the hospital premises.
 
@@ -236,6 +320,16 @@ It was not immediately clear what caused the incident, which took place mid-afte
 கொழும்பு நகரில் கால்வாய்களை அடைத்து  கட்டப்பட்டுள்ள வீடுகள் மற்றும் நிர்மாணங்களை அகற்றும் வேலைத்திட்டத்தை நடைமுறைப்படுத்த கொழும்பு மாநகர சபை தீர்மானித்துள்ளது.
 
 வியாழக்கிழமை (18) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட கொழும்பு மாநகர சபையின் பொறியியலாளர் ஆர் டி. பி. ரணவக்க தெரிவிக்கையில், அண்மையில் பெய்த கடும் மழையினால் கொழும்பு நகரம் வெள்ளத்தில் மூழ்கியதன் காரணமாக இந்தத்  தீர்மானம் எடுக்கப்பட்டுள்ளதாக  கூறியுள்ளார்.
+
+...
+
+### No agreement with Dhammika Perera on Presidential candidacy: Prasanna
+
+*2024-01-18 15:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-agreement-with-Dhammika-Perera-on-Presidential-candidacy-Prasanna/108-275282) 
+
+Matara, Jan. 18 (Daily Mirror)- Minister Prasanna Ranatunga ruled out any agreement between Parliamentarian Dhammika Perera and the Sri Lanka Podujana Peramuna (SLPP) on the Presidential candidacy.
+
+He told reporters after the Matara District Coordination Committee meeting that they cannot put the country in trouble again by appointing an inexperienced President.
 
 ...
 
@@ -936,87 +1030,5 @@ Speaking to the media this morning, Acting Inspector-General of Police (IGP) Des
 *2024-01-18 11:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-to-address-19th-NAM-Summit-and-3rd-South-Summit-in-Uganda-PMD/108-275272) 
 
 Colombo, Jan. 18 (Daily Mirror)- President Ranil Wickremesinghe is set to take centre stage at the upcoming 19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the 3rd South Summit of the Group of 77 and China, scheduled from January 19 to 22, 2024, in Kampala, Uganda, the President’s Media Division (PMD) said.
-
-...
-
-### Another inmate of Kalutara Prison succumbs to illness
-
-*2024-01-18 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96502/another-inmate-of-kalutara-prison-succumbs-to-illness-) 
-
-Another inmate of Kalutara Prison has died while receiving treatment for an illness at the hospital, Kalutara-North Police said.
-
-The deceased person is a 60-year-old resident of the Modarawila area of Panadura, the police said, adding that he was arrested on January 09 while in the possession of heroin and was ordered to be remanded in custody after being produced before Panadura Magistrate’s Court.
-
-...
-
-### ත්‍රිවිධ හමුදාව: සේවය හැරයන සාමාජිකයින් සමාජගත කිරීමට නිසි වැඩපිළිවෙලක් තිබේද?
-
-*2024-01-18 11:09:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cyx4xwg9pn8o) 
-
-ත්‍රිවිධ හමුදාව: සේවය හැරයන සාමාජිකයින් සමාජගත කිරීමට නිසි වැඩපිළිවෙලක් තිබේද?
-
-රජයකට අයත් සන්නද්ධ හමුදාවක් සෑම විටම රාජ්‍යයේ අරක්ෂාව වෙනුවෙන් ශාරීරිකව මෙන් මානසිකව ද පුහුණු කළ කණ්ඩායමකි.රටේ යුදමය තත්වයක් පවතින්නේ නම් හෝ එම රට වෙනත් රටවල් සමඟ යුද්ධයකට පැටලී සිටින්නේ නම් එම තත්ත්වය තවත් පුළුල් ලෙස බලපායි. මෙම සන්නද්ධ හමුදා සාමාජිකයන් හට අවි පුහුණුව නිතැතින් ම හිමිවන අතර, දරාගැනීමේ හැකියාව සහ ආරක්ෂක අංශවල ක්‍රියාකාරීත්වය සම්බන්ධයෙන් ද ඔවුන්ට හොඳ පුහුණුවක් තිබේ.
-
-...
-
-### Sri Lanka President invites Indian firms to privatization
-
-*2024-01-18 11:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-invites-indian-firms-to-privatization-147709/) 
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has invited Indian firms to invest in state enterprises being re-structured, while further trade and service liberalization between the two countries are planned, a statement from his media office said.
-
-India’s Reliance group has already expressed interest in Sri Lanka Telecom privatization.
-
-...
-
-### ”ரணில் SLPP இன் வருங்கால வேட்பாளர்”
-
-*2024-01-18 11:04:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-SLPP-இன்-வருங்கால-வேட்பாளர்/175-331727) 
-
-ஸ்ரீலங்கா பொதுஜன பெரமுன பாராளுமன்ற உறுப்பினர் நாமல் ராஜபக்ச, ஜனாதிபதி ரணில் விக்ரமசிங்க தனது கட்சியின், வருங்கால ஜனாதிபதி வேட்பாளர்களில் ஒருவர் என்று நேற்று (17) தெரிவித்தார். அவர் எவ்வாறாயினும் SLPP யால் பதவியமர்த்தப்பட்டவர்., “ஆகவே, ஜனாதிபதி ஏற்கனவே எங்களுடன் இருக்கிறார். அவர் வருங்கால ஜனாதிபதி வேட்பாளர்களில் ஒருவர், ”என்று அவர் கூறினார்.
-
-◼️
-
-### Pakistan retaliates with airstrikes on alleged Baloch separatist hideouts in Iran
-
-*2024-01-18 11:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Pakistan-retaliates-with-airstrikes-on-alleged-Baloch-separatist-hideouts-in-Iran/108-275267) 
-
-The Pakistan Air Force on Thursday launched airstrikes on alleged Baloch separatist camps situated inside Iranian territory, according to multiple media reports citing people aware of the development. The reports indicate that the targeted locations allgedly housed hideouts of Baloch militants who were wanted by Pakistan.
-
-...
-
-### President Ranil to take centre stage at key global summits in Kampala
-
-*2024-01-18 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96501/president-ranil-to-take-centre-stage-at-key-global-summits-in-kampala) 
-
-President Ranil Wickremesinghe is set to take centre stage at the upcoming 19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the 3rd South Summit of the Group of 77 and China, scheduled from January 19 to 22, 2024, in Kampala, Uganda, the President’s Media Division (PMD) said.
-
-...
-
-### E-Passports for All Sri Lankans! Facial Recognition, Biometric Checks at BIA
-
-*2024-01-18 11:00:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/e-passports-for-all-sri-lankans-facial-recognition-biometric-checks-at-bia/) 
-
-COLOMBO (News 1st); Sri Lanka is stepping up security and travel efficiency at Bandaranaike International Airport (BIA) with the implementation of advanced biometric technology and the forthcoming rollout of e-passports for all citizens.
-
-In collaboration with the police, Sri Lanka has installed facial recognition systems at BIA.
-
-...
-
-### துமிந்த சில்வா இன்னும் வைத்தியசாலையில் சிகிச்சை பெறுகிறார்
-
-*2024-01-18 10:53:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துமிந்த-சில்வா-இன்னும்-வைத்தியசாலையில்-சிகிச்சை-பெறுகிறார்/175-331726) 
-
-2022 ஆம் ஆண்டு உயர் நீதிமன்றத்தினால் வழங்கப்பட்ட ஜனாதிபதியின் பொதுமன்னிப்பு இடைநிறுத்தப்பட்டதைத் தொடர்ந்து, முன்னாள் பாராளுமன்ற உறுப்பினர் துமிந்த சில்வா ஸ்ரீ ஜயவர்தனபுர வைத்தியசாலையில் தொடர்ந்தும் சிறைச்சாலை பாதுகாப்பில் சிகிச்சை பெற்று வருவதாக சிறைச்சாலைகள் திணைக்களம் தெரிவித்துள்ளது.
-
-...
-
-### நல்லத்தண்ணியில் போலி நாணயத்தாள்கள் சிக்கின
-
-*2024-01-18 10:53:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நல்லத்தண்ணியில்-போலி-நாணயத்தாள்கள்-சிக்கின/76-331725) 
-
-மஸ்கெலிய நல்லத்தண்ணி நகரில் 11,500 ரூபாய் மதிப்புள்ள  போலி நாணயத்தாள்களை வைத்திருந்த வாடகை வான் சாரதி சந்தேகத்தின் பேரில் கைது செய்யப்பட்டுள்ளதாக நல்லத்தண்ணி பொலிஸார் தெரிவித்தனர்.
-
-வலஸ்மூலையைச் சேர்ந்த 45 வயதுடைய வான் சாரதி ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
 
 ...

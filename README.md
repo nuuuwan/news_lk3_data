@@ -8,7 +8,7 @@ As of **2024-01-18 14:16:10**
 
 🟩 = 10
 
-newspaper | n | 
+newspaper | n | ...
 --- | ---: | ---
 virakesarilk | 17 | 🟩🟩 
 colombotelegraphcom | 20 | 🟩🟩 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 22:17:18**
+As of **2024-01-18 22:32:47**
 
 ## Newspaper Stats
 
-*Scraped **1,092** Articles*
+*Scraped **1,094** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -18,8 +18,8 @@ dailymirrorlk | 106 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 119 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 122 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 130 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adalk | 148 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 131 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
@@ -32,6 +32,16 @@ adalk | 148 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 Colombo, Jan. 18 (Daily Mirror) - Following the conclusion of the ODI and T20I series against Zimbabwe, Sri Lanka is gearing up to face Afghanistan in an all-format series starting from February 2.
 
 The Afghanistan National Team is scheduled to arrive in Sri Lanka on January 30 for a series that includes only one Test, 3 ODIs, and 3 T20Is, all set to take place in February 2024.
+
+...
+
+### Sri Lanka thrash Zimbabwe by 9 wickets to seal T20 series
+
+*2024-01-18 21:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96530/sri-lanka-thrash-zimbabwe-by-9-wickets-to-seal-t20-series) 
+
+Sri Lanka registered 2-1 T20i tournament victory against Zimbabwe, as they beat the Chevrons by 09 wickets.
+
+In the 3rd T20I between Zimbabwe and Sri Lanka, Sri Lanka won the toss and elected to bowl first. Zimbabwe only managed to score 82 runs, with Brian Bennett leading the batting innings with 29 runs.
 
 ...
 
@@ -129,11 +139,11 @@ Ms. Sarvath Jahan, the resident representative of the IMF, Ms. Manavee Abeywickr
 
 *2024-01-18 20:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96529/one-killed-in-police-gunfire-in-narammala) 
 
-A person was killed in police gunfire reported this evening in the Dampelessa area of Narammala, Police Media Spokesman SSP Nihal Thalduwa said.
+A man was killed in police gunfire reported in the Dampelessa area of Narammala, Police Media Spokesman SSP Nihal Thalduwa said.
 
-The Sub-Inspector (SI) who fired the shots has been arrested, according to the Police Media Spokesman.
+A group of police officers had chased down a lorry after its driver failed to comply with the signal to stop at a police checkpoint in the Dampelessa area this evening (Jan. 18).
 
-◼️
+...
 
 ### Health workers to strike again amidst unresolved dispute
 
@@ -154,6 +164,14 @@ The Ministry of Health had previously acknowledged the reasonableness of the eco
 The Convenor of the Health Trade Union Alliance Chanaka Dharmawickrama has revealed that the trade union action, which was launched by a collective of 72 health sector unions, will resume on 01 February.
 
 The suspended action, which seeks ‘economic justice’ for healthcare employees will resume on 01 February, with protest campaigns planned in front of hospitals nation-wide starting January 23, Dharmawickrama said.
+
+...
+
+### මර්දනය කිරීමට උත්සාහ දරන සියලු පනත් ප්‍රතික්ෂේප කරනවා
+
+*2024-01-18 19:29:04* · [`adalk`](https://www.ada.lk/breaking_news/මර්දනය-කිරීමට-උත්සාහ-දරන-සියලු-පනත්-ප්‍රතික්ෂේප-කරනවා/11-407620) 
+
+මාධ්‍ය සංවිධාන, සිවිල් සංවිධාන, ප්‍රජාතන්ත්‍රවාදය උදෙසා කටයුතු කණ්ඩායම්, වෘත්තීය සමිති ආදී පාර්ශ්වකරුවන් රැසක් විපක්ෂයේ ප්‍රධාන පක්ෂ ගණනාවක් සමඟ සිදු කළ සාකච්ඡාවලදී පැහැදිලි නිගමනයකට පැමිණි බවත් ඒ අනුව රජය ඉදිරිපත් කරන මාර්ගගත සුර්ක්ෂිතභාවය සම්බන්ධ පනත් කෙටුම්පත තමා ඇතුළු පිරිස තරයේ ප්‍රතික්ෂේප කර ඒ සඳහා විරෝධතාව පළ කරන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
 
 ...
 
@@ -199,11 +217,11 @@ Colombo, Jan 18 (Daily Mirror) -  Former Samagi Jana Balawegaya (SJB) Colombo D
 
 *2024-01-18 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96527/two-persons-allegedly-on-way-to-assassinate-businessman-arrested) 
 
-Two suspects have been arrested with a pistol and a motorcycle while they were allegedly on their way to assassinate a person engaged in the fish trade in Ambalangoda.
+Two suspects, who were allegedly on their way to assassinate a person involved in fish trade in Ambalangoda, have been arrested with a pistol and a motorcycle.
 
-The apprehension has been carried out by the Police Special Task Force (STF) as part of the ‘Yukthiya’ special police operation, the Ministry of Public Security said.
+The apprehension was made by the Police Special Task Force (STF) as part of the ongoing ‘Yukthiya’ special police operation, the Ministry of Public Security said.
 
-◼️
+...
 
 ### SL youth ready to qualify for Paris Olympics
 
@@ -1004,31 +1022,5 @@ Creative industries create employment, income, increase export earnings, promote
 விவசாய நிலங்களை பாதுகாக்கும் வேலிகளுடன் இலங்கை மின்சார சபைக்குரிய மின்கம்பிகள் சட்ட விரோதமாக இணைக்கப்பட்டதன் மூலம் கடந்த 2023ஆம் ஆண்டில் 50 காட்டு யானைகள் மின்சாரம் தாக்கி உயிரிழந்ததாக இலங்கை மின்சார சபையின் பிரதி பொது முகாமையாளர் கே.ஏ. நோயல் பிரியந்த தெரிவித்தார்.
 
 கடந்த 2023ஆம் ஆண்டில் பல்வேறு மனித நடவடிக்கைகளால் 474 காட்டு யானைகள் உயிரிழந்தன.
-
-...
-
-### Sri Lanka Streamlines Visas for Easy Travel and Long Stays
-
-*2024-01-18 11:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/sri-lanka-streamlines-visas-for-easy-travel-and-long-stays/) 
-
-COLOMBO (News 1st); Sri Lanka is rolling out a comprehensive overhaul of its visa system, aiming to attract foreign investment, digital nomads, and tourists while simplifying the process for Sri Lankans traveling abroad.
-
-Harsha Illukpitiya, Controller General of Immigration and Emigration, unveiled the key improvements that include Eliminating Visas Extension Hassles.
-
-Under the new system, visitors can apply for visas covering their entire stay upfront.
-
-...
-
-### US woman gets 26 years for mother’s ‘suitcase murder’
-
-*2024-01-18 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96504/us-woman-gets-26-years-for-mothers-suitcase-murder) 
-
-An American woman who helped kill her mother and stuff her body in a suitcase during a 2014 holiday in Bali has been sentenced to 26 years in prison.
-
-Heather Mack was convicted in Indonesia in 2015 and sentenced to 10 years in prison, but was released in 2021.
-
-She was then arrested upon arriving in the US and charged with conspiracy to kill a US national.
-
-Mack has spent the last two years in a Chicago prison as she awaited sentencing.
 
 ...

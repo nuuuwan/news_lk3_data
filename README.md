@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 18:10:21**
+As of **2024-01-18 18:22:17**
 
 ## Newspaper Stats
 
-*Scraped **1,050** Articles*
+*Scraped **1,059** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -16,14 +16,24 @@ economynextcom | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩
 virakesarilk | 84 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 88 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 117 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 119 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 122 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 126 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 143 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-18 (Thursday)
+
+### President Ranil arrives in Uganda for 19th NAM summit
+
+*2024-01-18 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96525/president-ranil-arrives-in-uganda-for-19th-nam-summit-) 
+
+President Ranil Wickremesinghe arrived in Kampala, Uganda, a short while ago, the President’s Media Division (PMD) reported.
+
+The Head of State is on an official visit to Uganda to attend the 19th Non-Aligned Movement (NAM) summit, and the 3rd South Summit of the Group of 77 and China.
+
+...
 
 ### மரக்கறிகளின் விலை உயர்வு ஏப்ரல் வரை நீடிக்கும் - நுவரெலியா பொருளாதார மத்திய நிலையத்தின் தலைவர்
 
@@ -32,6 +42,18 @@ adalk | 143 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 மரக்கறிகளின் விலை உயர்வு ஏப்ரல் மாதம் வரை நீடிக்கும் என  நுவரெலியா பொருளாதார மத்திய நிலையத்தின் தலைவரும் அகில இலங்கை ஒன்றிணைந்த விசேட பொருளாதார நிலையத்தின் ஆலோசகருமான அருண சாந்த ஹெட்டியாராச்சி தெரிவித்தார்.
 
 நுவரெலியா பொருளாதார மத்திய நிலையத்தில் வரலாற்றில் முதல் தடவையாக கரட் உள்ளிட்ட மரக்கறிகளின் விலை வெகுவாக அதிகரித்துள்ளதாக இன்று வியாழக்கிழமை (18)    நுவரெலியா பொருளாதார மத்திய நிலைய காரியாலயத்தில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது இதனை தெரிவித்தார்.
+
+...
+
+### Senior oncologist at Karapitiya Hospital remanded over alleged assault
+
+*2024-01-18 17:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96524/senior-oncologist-at-karapitiya-hospital-remanded-over-alleged-assault-) 
+
+The senior oncologist who was arrested for allegedly assaulting a female junior staff member at the Karapitiya Teaching Hospital, has been remanded.
+
+Accordingly, the accused was remanded until 22 January, on orders of the Galle Magistrate’s Court.
+
+61-year-old Dr. S. C. R. Perera was arrested earlier today (18 Jan.), for allegedly assaulting a female junior staff member at the Karapitiya Teaching Hospital during a contentious situation that had ensued on Wednesday (17 Jan.).
 
 ...
 
@@ -48,6 +70,14 @@ adalk | 143 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 COLOMBO (News 1st); Sri Lanka's Acting Inspector General of Police, Deshabandu Thennakoon, has declared a zero-tolerance policy towards drug use within the police force.
 
 Addressing reporters today, the IGP acknowledged investigations into internal drug use over the years have yielded "unsatisfactory results," prompting a decisive shift in approach.
+
+...
+
+### Sugar scam: COPF slams Finance Ministry, IRD’s failure to collect foregone taxes from companies involved
+
+*2024-01-18 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96523/sugar-scam-copf-slams-finance-ministry-irds-failure-to-collect-foregone-taxes-from-companies-involved) 
+
+The Committee on Public Finance (COPF) has expressed its deep dissatisfaction with the Finance Ministry and the Inland Revenue Department (IRD) over the failure to collect foregone taxes from major corporations implicated in the Sugar scam, as outlined in the forensic report compiled by the Auditor General.
 
 ...
 
@@ -83,6 +113,34 @@ COLOMBO (News 1st); In a major boost to crime investigation efforts, the Sri Lan
 
 ...
 
+### Ali Sabry reaffirms Sri Lanka’s support to Palestine, calls for ‘humanitarian ceasefire’
+
+*2024-01-18 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96521/ali-sabry-reaffirms-sri-lankas-support-to-palestine-calls-for-humanitarian-ceasefire) 
+
+Minister of Foreign Affairs Ali Sabry has highlighted that a humanitarian ceasefire is the only solution to halt the mounting civilian death toll in the ongoing conflict between Israel and Palestine.
+
+...
+
+### 300,000 more families added to ‘Aswesuma’ beneficiary list after consideration of appeals
+
+*2024-01-18 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96520/300000-more-families-added-to-aswesuma-beneficiary-list-after-consideration-of-appeals) 
+
+Acting Minister of Finance Shehan Semasinghe states that 300,000 additional families were found to be qualified for the ‘Aswesuma’ welfare benefits programme, after reviewing 640,000 appeals and objections thus far regarding the beneficiary lists.
+
+Joining a discussion held with the Welfare Benefits Board at the Finance Ministry today (18), Semasinghe said that the total number of recipients of the ‘Aswesuma’ programme now exceeds 1.7 million families.
+
+...
+
+### Around 20 killed in explosion at Thai firework factory, no survivors found
+
+*2024-01-18 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96519/around-20-killed-in-explosion-at-thai-firework-factory-no-survivors-found) 
+
+Around 20 people were killed in Thailand in an explosion on Wednesday at a firework factory north of Bangkok, police said, as authorities inspected the site but were yet to find survivors.
+
+It was not immediately clear what caused the incident, which took place mid-afternoon in Suphan Buri province about 120 km (74.56 miles) north of Bangkok, police said.
+
+...
+
 ### கொழும்பில் கால்வாய்களை அடைத்து  கட்டப்பட்டுள்ள வீடுகள், நிர்மாணங்களை அகற்றும் வேலைத்திட்டம்!
 
 *2024-01-18 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/174251) 
@@ -90,6 +148,16 @@ COLOMBO (News 1st); In a major boost to crime investigation efforts, the Sri Lan
 கொழும்பு நகரில் கால்வாய்களை அடைத்து  கட்டப்பட்டுள்ள வீடுகள் மற்றும் நிர்மாணங்களை அகற்றும் வேலைத்திட்டத்தை நடைமுறைப்படுத்த கொழும்பு மாநகர சபை தீர்மானித்துள்ளது.
 
 வியாழக்கிழமை (18) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட கொழும்பு மாநகர சபையின் பொறியியலாளர் ஆர் டி. பி. ரணவக்க தெரிவிக்கையில், அண்மையில் பெய்த கடும் மழையினால் கொழும்பு நகரம் வெள்ளத்தில் மூழ்கியதன் காரணமாக இந்தத்  தீர்மானம் எடுக்கப்பட்டுள்ளதாக  கூறியுள்ளார்.
+
+...
+
+### Karapitiya hospital’s senior oncologist arrested over alleged assault on junior staffer
+
+*2024-01-18 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96517/karapitiya-hospitals-senior-oncologist-arrested-over-alleged-assault-on-junior-staffer) 
+
+A senior oncologist of the Teaching Hospital in Karapitiya has been arrested for allegedly assaulting a female junior staff member during a contentious situation that had ensued on Wednesday (Jan.17).
+
+According to the police media division, the specialist doctor in question, who was arrested by Galle Police, is now receiving medical care at a private hospital under police custody.
 
 ...
 
@@ -160,6 +228,24 @@ The meeting, held at the Presidential Secretariat, saw a constructive exchange o
 ஐந்து வயதுக்குட்பட்ட குழந்தைகளை கொண்ட பெண்கள் வெளிநாட்டு வேலைக்கு செல்வதைத் தடுக்கும் விதிமுறைகளை மீண்டும் கொண்டு வர வேண்டும் என்று பெண்கள் மற்றும் குழந்தைகள் விவகார இராஜாங்க அமைச்சர் கீதா குமாரசிங்க தெரிவித்துள்ளார்.
 
 டெய்லி மிரருக்கு கருத்து தெரிவித்த இராஜாங்க அமைச்சர் குமாரசிங்க, சிறு குழந்தைகளை கொண்ட பெண்களை வேலைக்காக புலம்பெயர்வதற்கு அனுமதிக்கும் தற்போதைய விதிமுறைகள் குழந்தைகளுக்கு அநீதியானது.
+
+...
+
+### Bill classifying public images handed over to President’s Secretary
+
+*2024-01-18 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96515/bill-classifying-public-images-handed-over-to-presidents-secretary) 
+
+The Bill aimed at classifying public images to safeguard freedom of speech, expression, and creative rights was recently handed over to President’s Secretary Saman Ekanayake at the Presidential Secretariat by the committee, appointed by President Ranil Wickremesinghe, the President’s Media Division (PMD) said.
+
+...
+
+### Funds allocated for Rs. 5,000 salary hike for public servants - State Minister
+
+*2024-01-18 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96514/funds-allocated-for-rs-5000-salary-hike-for-public-servants-state-minister-) 
+
+State Minister of Finance Ranjith Siyambalapitiya announced on Thursday (18 Jan.) that the Treasury has allocated funds for the disbursement of the promised Rs. 5,000 increase in wages of public sector employees.
+
+This increase is part of the first phase of the 2024 Budget proposal, aiming to raise the cost of living allowance for state employees by Rs. 10,000, from Rs. 7,800 to Rs. 17,800.
 
 ...
 
@@ -639,7 +725,7 @@ Talk of The Town | The transformative power of the arts | Professor Rohan Nethsi
 
 In a bid to curb traffic violations, Sri Lanka Police has decided to trace traffic offenders in Colombo using the surveillance camera system in the island’s commercial capital.
 
-Speaking to the media this morning, Acting Inspector-General of Police (IGP) Deshabandu Tennakoon said this initiative is planned to be implemented starting next Monday (Jan.22).
+Speaking to the media this morning, Acting Inspector-General of Police (IGP) Deshabandu Tennakoon said this initiative would be implemented starting next Monday (Jan.22).
 
 ...
 
@@ -940,97 +1026,5 @@ Earlier this month, the Cabinet of Ministers green-lighted President Ranil Wickr
 ECONOMYNEXT – Sri Lanka’s tea production expanded 1.7 percent to 256.03 million kilograms in 2023, while exports fell 8.2 percent to 241.9 million kilograms, the island’s Tea Board, said.
 
 The expansion in production was driven by Medium Grown teas, which increased by 2.6 million kilos to 42.3 million kilos and High Growns which expanded by 1.6 million kilos to 58.6 million kilos.
-
-...
-
-### Horton Place to be renamed as Ponnamabalam Arunachalam Mawatha
-
-*2024-01-18 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Horton-Place-to-be-renamed-as-Ponnamabalam-Arunachalam-Mawatha/108-275250) 
-
-Colombo, Jan 18 (Daily Mirror) - Residents of Horton Place are up in arms against the proposal by the Colombo Municipal Council (CMC) to rename the road as Ponnambalam Arunachalam Mawatha, a resident told Daily Mirror.
-
-...
-
-### President Briefs Indian CEOs on Sri Lanka’s Economic Outlook
-
-*2024-01-18 08:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/president-briefs-indian-ceos-on-sri-lanka%e2%80%99s-economic-outlook/) 
-
-President Ranil Wickremesinghe took centre stage in a recent roundtable discussion organized by the Consortium of Indian Industry (CII) and World Economic Forum yesterday (16), unveiling a comprehensive economic vision for Sri Lanka. The President emphasized the successful resolution of supply bottlenecks, the removal of import restrictions and the restoration of foreign exchange liquidity as key factors contributing to sustained economic growth.
-
-...
-
-### President Affirms Trust in New Investments for Rebuilding Sri Lanka’s Economy
-
-*2024-01-18 08:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/president-affirms-trust-in-new-investments-for-rebuilding-sri-lanka%e2%80%99s-economy/) 
-
-In a candid discussion at the World Economic Forum (WEF) stakeholder dialogue titled ‘Pulling back from the brink,’ held in Kurpark Village, Aspen, President Ranil Wickremesinghe outlined short-term strategies aimed at revitalizing Sri Lanka’s economy. Emphasizing tourism promotion, agricultural modernization and a focus on renewable energy, the President expressed the country’s eagerness to attract new investments.
-
-...
-
-### 102,000 tourist arrivals within the first 15 days of 2024
-
-*2024-01-18 08:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/102-000-tourist-arrivals-within-the-first-15-days-of-2024/) 
-
-COLOMBO (News 1st); 102,000 tourists have arrived in Sri Lanka within the first 15 days of 2024.
-
-Chairman of the Sri Lanka Tourism Development Authority (SLTDA) Priyantha Fernando said the same number of tourist arrivals was recorded during the first month of last year.
-
-1,092 Wanted Criminals Added to Sri Lanka’s Facial Recognition Watchlist
-
-◼️
-
-### 50 Wild elephants killed by electrocution in 2023: CEB
-
-*2024-01-18 07:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/50-Wild-elephants-killed-by-electrocution-in-2023-CEB/108-275247) 
-
-Colombo, Jan 18 (Daily Mirror) - It was reported that a total of 50 wild elephants had been killed due to electrocution during the past year by connecting Ceylon Electricity Board (CEB) power lines to fences protecting farmlands illegally, CEB Deputy General Manager (Business & Operational Strategy) and media spokesman Eng. K.A. Noel Priyantha said.
-
-...
-
-### Several spells of showers expected in parts of the island
-
-*2024-01-18 07:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96496/several-spells-of-showers-expected-in-parts-of-the-island) 
-
-Several spells of showers will occur in North-Central, Eastern and Uva provinces and in Mullaitivu District, according to the Meteorology Department.
-
-A few showers may occur in Central, Sabaragamuwa, North-western and Southern provinces.
-
-Mainly fair weather will prevail elsewhere in the island, it said.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-◼️
-
-### Trains delayed on main line and Chilaw line due to breakdowns
-
-*2024-01-18 07:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96495/trains-delayed-on-main-line-and-chilaw-line-due-to-breakdowns) 
-
-Train services on the main line and the Chilaw line have been delayed due to two trains breaking down, the Railway Department said.
-
-A train travelling from Polgahawela to Colombo Fort has suffered a breakdown at the Ambepussa train station while another train has broken down on the Chilaw line, it said.
-
-◼️
-
-### යමුනා සඟරසිවම්: මයිකල් ජැක්සන් සමග යුගල නර්තනයකට එක්වූ ශ්‍රී ලාංකික මහාචාර්යවරිය
-
-*2024-01-18 06:43:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c0dydwmewmmo) 
-
-යමුනා සඟරසිවම්: මයිකල් ජැක්සන් සමග යුගල නර්තනයකට එක්වූ ශ්‍රී ලාංකික මහාචාර්යවරිය
-
-පොප් සංගීතයේ රජු ලෙස සැලකෙන මයිකල් ජැක්සන් යනු ලෝකයේ සංගීත ලෝලීන් විශාල පිරිසකගේ ආදරය දිනා ගැනීමට සමත්වූ දැවැන්තයෙකි.
-
-ඔහු ජනප්‍රියත්වයට පත්වූයේ, ඔහුගේ අර්ථාන්විත ගීත නිසා පමණක් නොව ඔහුට ම ආවේණික නර්තන ශෛලිය නිසා ය.
-
-එවන් ලෝක ප්‍රකට දැවැන්තයෙකු සමග යුගල නර්තනයක ‌යෙදීමට යමෙකුට අවස්ථාව හිමි වන්නේ නම් එය කෙතරම් භාග්‍යක් ද? ‍‍
-
-...
-
-### Sri Lanka budget revenues up 58-pct to October, domestic borrowings down
-
-*2024-01-18 06:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-revenues-up-58-pct-to-october-domestic-borrowings-down-147694/) 
-
-ECONOMYNEXT – Sri Lanka’s budget revenues have reached 8.0 percent by October 2023, up 53 percent to 2,434 billion rupees, while tax revenues surged 58 percent to 2,212 billion rupees, official data shows.
-
-The overall budget deficit and domestic borrowings were down from last year.
 
 ...

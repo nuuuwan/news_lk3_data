@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 22:50:18**
+As of **2024-01-18 23:02:16**
 
 ## Newspaper Stats
 
-*Scraped **1,099** Articles*
+*Scraped **1,106** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 23 | 🟩🟩 
 bbccomsinhala | 33 | 🟩🟩🟩 
 islandlk | 64 | 🟩🟩🟩🟩🟩🟩 
-newsfirstlk | 68 | 🟩🟩🟩🟩🟩🟩🟩 
+newsfirstlk | 71 | 🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 89 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 110 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 119 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-tamilmirrorlk | 122 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+tamilmirrorlk | 126 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 131 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
@@ -187,6 +187,44 @@ The Ministry of Health had previously acknowledged the reasonableness of the eco
 
 ...
 
+### Mujibur Rahuman Challenges Tennakoon’s IGP Bid Over Prior Actions
+
+*2024-01-18 20:15:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/mujibur-rahuman-challenges-tennakoon-s-igp-bid-over-prior-actions/) 
+
+COLOMBO (News 1st); Former MP Mujibur Rahuman filed a Fundamental Rights petition with the Supreme Court challenging the appointment of Deshabandu Thennakoon to the post of Acting Inspector General of Police.
+
+...
+
+### ஆபாச வீடியோக்கள் தொடர்பல் அதிர்ச்சித் தகவல்
+
+*2024-01-18 20:14:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆபாச-வீடியோக்கள்-தொடர்பல்-அதிர்ச்சித்-தகவல்/175-331770) 
+
+குழந்தைகள் மற்றும் பெண்கள் பணியகத்தின் சிறப்புத் திட்டத்தின் கீழ் 2023 ஆம் ஆண்டில் மட்டுமே சுமார் ஒரு இலட்சத்துக்கும் மேற்பட்ட சிறுவர் ஆபாச வீடியோக்கள் பல்வேறு நபர்களால் இணையத்தளங்களிலும், சமூக வலைத்தளங்களிலும் வெளியிடப்பட்டுள்ளதாக பதில் பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோன் தெரிவித்தார்.
+
+...
+
+### “No Stopping Us”: Public Security Chief Defies Critics
+
+*2024-01-18 20:11:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/no-stopping-us-public-security-chief-defies-critics/) 
+
+COLOMBO (News 1st); Sri Lanka's Public Security Minister, Tiran Alles, has vowed to continue the ongoing anti-crime operation despite mounting criticism and calls for its halt.
+
+In a defiant press conference, Alles declared his intention to release a list of individuals allegedly obstructing the operation and hinted at potential public backlash against them.
+
+"I will disclose a list of people who are against this, soon," Alles stated.
+
+...
+
+### Ranil Wickremesinghe In Uganda To Represent Sri Lanka At NAM Summit
+
+*2024-01-18 19:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/ranil-wickremesinghe-in-uganda-to-represent-sri-lanka-at-nam-summit/) 
+
+COLOMBO (News 1st); Sri Lankan President Ranil Wickremesinghe reached Kampala, Uganda today to attend the 19th Heads of State Summit of the Non-Aligned Movement (NAM).
+
+19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM), a two-day conference, scheduled for January 19 and 20, will host leaders from 120 member states under the theme "Deepening Cooperation For Shared Global Affluence"
+
+...
+
 ### Health sector trade union action to resume; protest campaigns to be launched island-wide
 
 *2024-01-18 19:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96528/health-sector-trade-union-action-to-resume-protest-campaigns-to-be-launched-island-wide-) 
@@ -194,6 +232,16 @@ The Ministry of Health had previously acknowledged the reasonableness of the eco
 The Convenor of the Health Trade Union Alliance Chanaka Dharmawickrama has revealed that the trade union action, which was launched by a collective of 72 health sector unions, will resume on 01 February.
 
 The suspended action, which seeks ‘economic justice’ for healthcare employees will resume on 01 February, with protest campaigns planned in front of hospitals nation-wide starting January 23, Dharmawickrama said.
+
+...
+
+### 100,000 ற்கும் அதிகமான அந்தரங்க வீடியோக்கள் பகிர்வு
+
+*2024-01-18 19:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-000-ற்கும்-அதிகமான-அந்தரங்க-வீடியோக்கள்-பகிர்வு/175-331757) 
+
+கடந்த ஆண்டில் மட்டும் பல்வேறு நபர்கள் மூலமாக  100,000 க்கும் மேற்பட்ட, சிறார்களின் அந்தரங்க வீடியோ காட்சிகள் சமூக ஊடகங்களில் பகிரப்பட்டுள்ளன.
+
+இந்த காணொளிகள் சிறுவர்கள் பாலியல் ரீதியாக துஷ்பிரயோகம் செய்யப்படுவதையும் அவர்களின் நிர்வாணத்தை வெளிப்படுத்துவதாகவும் சமூக ஊடக தளங்களில் வைரலாக பரவி வருவதாகவும் பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தெரிவித்தார்.
 
 ...
 
@@ -224,6 +272,18 @@ The suspended action, which seeks ‘economic justice’ for healthcare employee
 1926 දී ඉන්දියාවේදී දෙමළ හා හින්දු භක්තිකයෙකු ලෙස ඉපදඅන ආර්,මුත්තුසාමිමහතා වයස 05සිටම වයලීන හා වාද්‍ය භාණ්ඩ වාදනයේදී හැකියාව පෙන්වීය.
 
 ඉන්දියානු චිත්‍රපට වල වාදනය ඉදිරිපත් කල ඔහු මෙරට පළමු චිත්‍රපටය වන කඩවුණු පොරොන්දුවේවාදනයට ද එක්විය.ඔහු ලංකාවට පැමිණියේ නායගම් මහතාගේ ඇයුමෙනි.
+
+...
+
+### மீன் வியாபாரியை சுடச் சென்றவர்கள் அதிரடி கைது
+
+*2024-01-18 18:46:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்-வியாபாரியை-சுடச்-சென்றவர்கள்-அதிரடி-கைது/175-331756) 
+
+அம்பலாங்கொடை பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் மீன் வியாபாரம் செய்து கொண்டிருந்த வர்த்தகர் ஒருவரை துப்பாக்கியால் சுடுவதற்காக மோட்டார் சைக்கிளில் பயணித்த இருவர் கைத்துப்பாக்கியுடன் கைது செய்யப்பட்டுள்ளனர்.
+
+யுக்திய நடவடிக்கையின் கீழ் மேற்கொள்ளப்பட்ட சோதனையின் போது இவர்கள் கைது செய்யப்பட்டுள்ளதாக பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+இவ்வாறு கைது செய்யப்பட்டவர்களுள் இராணுவத் தலைமையகத்தில் கடமையாற்றும் சிப்பாய் ஒருவரும் அடங்குவதாக தெரிவிக்கப்படுகிறது.
 
 ...
 
@@ -321,6 +381,14 @@ Accordingly, the accused was remanded until 22 January, on orders of the Galle M
 
 ...
 
+### சிறுமி துஷ்பிரயோகம்: பூசகருக்கு கடூழிய சிறை
+
+*2024-01-18 17:00:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/சிறுமி-துஷ்பிரயோகம்-பூசகருக்கு-கடூழிய-சிறை/72-331755) 
+
+சிறுமியை பாலியல் துன்புறுத்தலுக்கு உட்படுத்தினார் என குற்றஞ்சாட்டப்பட்ட  பூசகரை  எட்டு வருடங்களுக்கு பின்னர் குற்றவாளியாக இனங்கண்ட கிளிநொச்சி மேல் நீதிமன்றம், குற்றவாளிக்கு 12 ஆண்டுகால கடூழிய சிறைத்தண்டனை விதித்து தீர்ப்பளித்துள்ளது
+
+...
+
 ### பணி பகிஷ்கரிப்பில் தென்கிழக்கு பல்கலைக்கழக ஊழியர்கள்!
 
 *2024-01-18 16:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/174258) 
@@ -353,7 +421,7 @@ COLOMBO (News 1st); Starting January 22nd, the Colombo city's existing CCTV netw
 
 This move comes on the heels of a recent survey revealing a shocking statistic: in areas equipped with CCTV cameras, the number of observed traffic offenses is a staggering 300 times higher than those recorded by police patrols.
 
-1,092 Wanted Criminals Added to Sri Lanka’s Facial Recognition Watchlist
+Ranil Wickremesinghe In Uganda To Represent Sri Lanka At NAM Summit
 
 ◼️
 
@@ -944,79 +1012,5 @@ A record low birth rate in 2023 and a wave of COVID-19 deaths resulted in a seco
 The main entrance of the Yala National Park at Palatupana, which was closed due to the flood situation, has been reopened for the public, Assistant Director of the Uva Zone Wildlife Conservation Department Upul Indrajith said.
 
 An emergency disaster situation was declared at the Yala National Park following the inundation of entrance points due to the spilling of minor irrigation tanks.
-
-...
-
-### Pakistan launches strikes into Iran two days after missile strike
-
-*2024-01-18 12:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96506/pakistan-launches-strikes-into-iran-two-days-after-missile-strike) 
-
-Pakistan says its has launched missile strikes into neighbouring Iran, two days after an Iranian attack inflamed relations between the two states.
-
-Pakistan said the attacks had struck “terrorist hideouts” in the bordering Sistan-o-Balochistan province.
-
-Iranian media reported that three women and four children had been killed.
-
-The two have long accused each other of harbouring militant groups that carry out attacks in their border regions.
-
-...
-
-### நிகழ்நிலை பாதுகாப்பு சட்ட மூலத்தை முற்றாக எதிர்க்கின்றோம் - ஐக்கிய மக்கள் சக்தி
-
-*2024-01-18 12:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174223) 
-
-உத்தேச நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தில் திருத்தங்களை முன்வைக்கவுள்ளதாக பிரதான எதிர்கட்சியான ஐக்கியமக்கள் சக்தி தெரிவித்துள்ள அதேவேளை ஸ்ரீலங்கா பொதுஜனபெரமுன  இது குறித்து இன்னமும் தீர்மானிக்கவில்லை என குறிப்பிட்டுள்ளது.
-
-நிகழ்நிலை பாதுகாப்பு சட்டமூலம் என்பது உடன்பட மறுப்பவர்களை சிவில் சமூகத்தினரை ஒடுக்குவதற்கான ஒரு வழிமுறை என தெரிவித்துள்ள உள்நாட்டு சர்வதேச அமைப்புகள் அரசாங்கம் இந்த சட்டமூலத்தை நாடாளுமன்றத்தில் சமர்ப்பிக்ககூடாது என வேண்டுகோள் விடுத்துள்ளன.
-
-...
-
-### Over 40,000 arrested, Rs. 4 bn in drugs seized in first month of operation ‘Yukthiya’
-
-*2024-01-18 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96505/over-40000-arrested-rs-4-bn-in-drugs-seized-in-first-month-of-operation-yukthiya) 
-
-A total of 40,590 suspects have been arrested within the first month of the ongoing anti-drug operation ‘Yukthiya’ carried out across the island, according to the Ministry of Public Security.
-
-...
-
-### Karapitiya Hospital staff withdraws over alleged attack by drunken Specialist
-
-*2024-01-18 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Karapitiya-Hospital-staff-withdraws-over-alleged-attack-by-drunken-Specialist/108-275274) 
-
-Galle, Jan 18 (Daily Mirror) - The entire staff of the Karapitiya Teaching Hospital has withdrawn from services following an incident where a Specialist has allegedly attacked a hospital worker while under the influence of liquor.
-
-The assault has left the health worker hospitalized, prompting the staff's decision to withdraw and display agitation.
-
-The healthcare professionals are demanding the immediate arrest of the Specialist and a swift enforcement of the law.
-
-...
-
-### Karapitiya Hospital staff withdraws over alleged attack by drunken doctor
-
-*2024-01-18 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Karapitiya-Hospital-staff-withdraws-over-alleged-attack-by-drunken-doctor/108-275274) 
-
-Galle, Jan 18 (Daily Mirror) - The entire staff of the Karapitiya Teaching Hospital has withdrawn from services following an incident where a doctor has allegedly attacked a hospital worker while under the influence of liquor.
-
-The assault has left the health worker hospitalized, prompting the staff's decision to withdraw and display agitation.
-
-The healthcare professionals are demanding the immediate arrest of the doctor and a swift enforcement of the law.
-
-...
-
-### If VAT is charged, VAT registration certificate must be displayed
-
-*2024-01-18 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/If-VAT-is-charged-VAT-registration-certificate-must-be-displayed/108-275273) 
-
-Yatiyantota, Jan 18 (Daily Mirror) - Every business or industry with a turnover of Rs. 80 million per annum must be registered for Value Added Tax (VAT), and the VAT registration certificate must be displayed so that everyone can see it, Finance State Minister Ranjith Siyambalapitiya said.
-
-...
-
-### Creative industries remain an untapped sector in Sri Lanka
-
-*2024-01-18 12:00:00* · [`economynextcom`](https://economynext.com/creative-industries-remain-an-untapped-sector-in-sri-lanka-147725/) 
-
-ECONOMYNEXT – The power of creative economies as an accelerator of Gross Domestic Product (GDP) has been harnessed in many countries around the world.
-
-Creative industries create employment, income, increase export earnings, promote innovation and contribute to societal wellbeing (United Nations Publications, 2002).
 
 ...

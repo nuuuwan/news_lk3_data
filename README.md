@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 00:48:10**
+As of **2024-01-19 01:02:43**
 
 ## Newspaper Stats
 
-*Scraped **1,119** Articles*
+*Scraped **1,123** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -14,7 +14,7 @@ islandlk | 64 | 🟩🟩🟩🟩🟩🟩
 newsfirstlk | 71 | 🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 89 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 110 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 114 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 125 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 126 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -31,7 +31,35 @@ adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 ...
 
+### Fear Psychosis, Scarecrows and a Religious Conman - EDITORIAL
+
+*2024-01-19 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Fear-Psychosis-Scarecrows-and-a-Religious-Conman-EDITORIAL/172-275305) 
+
+...
+
+### Reawakening of Global South makes NAM relevant again; first test is Gaza
+
+*2024-01-19 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Reawakening-of-Global-South-makes-NAM-relevant-again-first-test-is-Gaza/172-275308) 
+
+Foreign Minister Ali Sabry addressing the NAM ministerial meeting in Kampala on Wednesday
+
+The Non-Aligned Movement, once a beacon of hope for a more just and equitable world, is holding its 19th summit in Kampala. But does anyone care? The last summit was held in Azerbaijan in October 2019, months before the COVID-19 outbreak which delivered a stark lesson – humanity’s survival hinges on solidarity and a global order built on justice.
+
+...
+
 ### 2024-01-18 (Thursday)
+
+### E-passport by end of this year
+
+*2024-01-18 23:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/E-passport-by-end-of-this-year/108-275301) 
+
+Colombo, Jan 18 (Daily Mirror) - The Electronic Passport (e-passport) will be introduced to the country by the end of this year, Controller General of Immigration and Emigration I.S.H.J. Ilukpitiya said.
+
+The preliminary programmes for the introduction of the e-passport and the procurement procedures have also been completed, he added.
+
+With the introduction of the new passport, the Sri Lankan passport will become one of the most well-recognized passports among other countries.
+
+◼️
 
 ### Salient features of the new Listing Rules on Corporate Governance
 
@@ -102,6 +130,14 @@ Acting IGP Deshabandu Tennakoon said that investigations are ongoing to determin
 Colombo, Jan 18 (Daily Mirror) - New facial and fingerprint recognition systems are to be introduced at the Bandaranaike International Airport (BIA) in the next two weeks to identify passengers passing through the airport, Controller General of Immigration and Emigration I.S.H.J. Ilukpitiya said.
 
 He said the facial recognition system has already been introduced at the airport with the support of the police.
+
+...
+
+### Sri Lanka outclass Zimbabwe to clinch series
+
+*2024-01-18 21:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-outclass-Zimbabwe-to-clinch-series/108-275316) 
+
+Colombo, Jan. 18 (Daily Mirror) - Sri Lanka made mincemeat of Zimbabwe as they outclassed them to record a comprehensive nine-wicket win in the third and deciding T20 encounter played at the R. Premadasa Stadium today to clinch the series 2-1.
 
 ...
 
@@ -980,45 +1016,5 @@ The company’s Penem Injectable Facility will be planned, designed, engineered 
 Singapore’s transport minister has resigned from his post after being charged with 27 offences in a corruption probe that has also ensnared a billionaire hotel tycoon.
 
 S. Iswaran was arrested in July of 2023 and released on bail in connection with a rare top-level graft investigation in the city-state. Iswaran, 61, said he would plead not guilty to the charges filed by the powerful Corrupt Practices Investigation Bureau when he appeared in court on Thursday.
-
-...
-
-### பல பகுதிகளில் காற்றின் தரம் இயல்பு நிலைக்கு திரும்புமாம் !
-
-*2024-01-18 13:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174231) 
-
-நாட்டின் பல பகுதிகளில் குறைவடைந்திருந்த காற்றின் தரம்  இன்று வியாழக்கிழமை (18)  வழமைக்கு திரும்பும் என தேசிய கட்டிட ஆராய்ச்சி நிறுவனம் தெரிவித்துள்ளது.
-
-கடந்த சில தினங்களாக கொழும்பு, யாழ்ப்பாணம், மன்னார் மற்றும் காலி ஆகிய பகுதிகளில் காற்றின் தரம்  குறைந்து காணப்பட்டது.
-
-...
-
-### India ready to make investments for Sri Lanka’s energy sector development - Indian envoy
-
-*2024-01-18 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/96510/india-ready-to-make-investments-for-sri-lankas-energy-sector-development-indian-envoy) 
-
-The new High Commissioner of India to Sri Lanka Santosh Jha has met with Speaker of Parliament Mahinda Yapa Abeywardana at the Parliamentary premises, the Parliamentary Communications Department said in a statement.
-
-...
-
-### Police to launch CCTV-based traffic violation identification programme on Monday
-
-*2024-01-18 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-to-launch-CCTV-based-traffic-violation-identification-programme-on-Monday/108-275276) 
-
-Colombo, Jan 18 (Daily Mirror) - A programme aimed at identifying motorists violating traffic rules through the CCTV system in Colombo city is set to commence on January 22, Acting IGP Deshabandu Tennakoon said.
-
-He explained that video evidence of relevant offenses captured by the traffic division's CCTV system will be forwarded to the respective police station and fine papers for the offenses will be issued to the drivers.
-
-...
-
-### රාජ්‍ය ව්‍යවසායන් තුළ ආයෝජනයට ජනපතිගෙන් ඉන්දීය ව්‍යාපාරිකයන්ට ආරාධනා
-
-*2024-01-18 13:16:08* · [`adalk`](https://www.ada.lk/breaking_news/රාජ්‍ය-ව්‍යවසායන්-තුළ-ආයෝජනයට-ජනපතිගෙන්-ඉන්දීය-ව්‍යාපාරිකයන්ට-ආරාධනා/11-407613) 
-
-තිරසාර ආර්ථික වර්ධනයට දායක වන ප්‍රධාන අභියෝග රැසක් සාර්ථකව ජයගැනීමට ශ්‍රී ලංකාවට හැකි වූ බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
-
-ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ඉන්දීය කර්මාන්ත සමූහය (CII) සහ ලෝක ආර්ථික සමුළුව විසින් ඊයේ (16) ස්විස්ටර්ලන්තයේ දී සංවිධානය කරන ලද වටමේස සාකච්ඡාවට සහභාගී වෙමිනි.
-
-මෙහිදී ශ්‍රී ලංකාවේ පුළුල් ආර්ථික දැක්ම පැහැදිලි කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පෙන්වා දුන්නේ,
 
 ...

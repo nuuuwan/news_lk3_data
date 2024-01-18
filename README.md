@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 17:17:20**
+As of **2024-01-18 17:33:36**
 
 ## Newspaper Stats
 
-*Scraped **1,024** Articles*
+*Scraped **1,040** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 23 | 🟩🟩 
-bbccomsinhala | 31 | 🟩🟩🟩 
-newsfirstlk | 53 | 🟩🟩🟩🟩🟩 
+bbccomsinhala | 32 | 🟩🟩🟩 
 islandlk | 63 | 🟩🟩🟩🟩🟩🟩 
+newsfirstlk | 68 | 🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 88 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,58 @@ adalk | 143 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ## Latest 100 Articles 
 
 ### 2024-01-18 (Thursday)
+
+### Sri Lanka’s Police Get Tough on Internal Drug Use
+
+*2024-01-18 16:56:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/sri-lanka-s-police-get-tough-on-internal-drug-use/) 
+
+COLOMBO (News 1st); Sri Lanka's Acting Inspector General of Police, Deshabandu Thennakoon, has declared a zero-tolerance policy towards drug use within the police force.
+
+Addressing reporters today, the IGP acknowledged investigations into internal drug use over the years have yielded "unsatisfactory results," prompting a decisive shift in approach.
+
+...
+
+### Colombo Cameras to Watch for Traffic Offenses
+
+*2024-01-18 16:39:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/colombo-cameras-to-watch-for-traffic-offenses/) 
+
+COLOMBO (News 1st); Starting January 22nd, the Colombo city's existing CCTV network will be repurposed to actively detect and record traffic violations.
+
+This move comes on the heels of a recent survey revealing a shocking statistic: in areas equipped with CCTV cameras, the number of observed traffic offenses is a staggering 300 times higher than those recorded by police patrols.
+
+1,092 Wanted Criminals Added to Sri Lanka’s Facial Recognition Watchlist
+
+◼️
+
+### Police Forms Track Residents Across Every Village
+
+*2024-01-18 16:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/police-forms-track-residents-across-every-village/) 
+
+COLOMBO (News 1st); In an effort to bolster community security and prevent crime, the Sri Lanka Police have established a nationwide network of 14,022 Community Police Committees.
+
+These committees are operational across all Grama Niladhari Divisions, the smallest administrative units in Sri Lanka.
+
+The initiative hinges on a trilingual form developed by the Police, designed to gather demographic details of all residents within each division.
+
+...
+
+### 1,092 Wanted Criminals Added to Sri Lanka’s Facial Recognition Watchlist
+
+*2024-01-18 16:22:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/1-092-wanted-criminals-added-to-sri-lanka-s-facial-recognition-watchlist/) 
+
+COLOMBO (News 1st); In a major boost to crime investigation efforts, the Sri Lankan Police have deployed cutting-edge facial recognition technology at the Bandaranaike International Airport, Acting Inspector General of Police Deshabandu Thennakoon announced today.
+
+...
+
+### IMF Stresses Reforms Crucial for Sri Lanka’s Economic Future
+
+*2024-01-18 15:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/imf-stresses-reforms-crucial-for-sri-lanka-s-economic-future/) 
+
+COLOMBO (News 1st): In a crucial review meeting with International Monetary Fund (IMF) representatives, Sri Lanka's Acting Finance Minister, Shehan Semasinghe, discussed the progress and challenges of ongoing economic reforms aimed at tackling the country's ongoing crisis.
+
+The meeting, held at the Presidential Secretariat, saw a constructive exchange of views between Minister Semasinghe, IMF Senior Mission Chief Peter Brewer, and his team.
+
+...
 
 ### பழைய சட்டத்தை மீள அமுல்படுத்தக் கோருகிறார் கீதா
 
@@ -233,6 +285,16 @@ He explained that video evidence of relevant offenses captured by the traffic di
 
 ...
 
+### Singapore charges a senior Cabinet Minister with 27 counts of corruption
+
+*2024-01-18 13:11:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/singapore-charges-a-senior-cabinet-minister-with-27-counts-of-corruption/) 
+
+Colombo (News 1st) – A powerful member of Singapore's Cabinet from the ruling People's Action Party was charged with 27 counts of corruption in a Singapore court Thursday, in a rare political scandal in the Southeast Asian city-state, international media reported.
+
+The case is the first corruption case involving a Cabinet Minister in Singapore since 1986.
+
+...
+
 ### ஒரு மாத கால யுக்திய நடவடிக்கையில் கைதான நபர்கள், பறிமுதல் செய்யப்பட்ட சொத்துக்களின் பெறுமதி, விபரங்கள் வெளியாகின!
 
 *2024-01-18 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/174230) 
@@ -437,6 +499,18 @@ Creative industries create employment, income, increase export earnings, promote
 
 ...
 
+### Sri Lanka Streamlines Visas for Easy Travel and Long Stays
+
+*2024-01-18 11:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/sri-lanka-streamlines-visas-for-easy-travel-and-long-stays/) 
+
+COLOMBO (News 1st); Sri Lanka is rolling out a comprehensive overhaul of its visa system, aiming to attract foreign investment, digital nomads, and tourists while simplifying the process for Sri Lankans traveling abroad.
+
+Harsha Illukpitiya, Controller General of Immigration and Emigration, unveiled the key improvements that include Eliminating Visas Extension Hassles.
+
+Under the new system, visitors can apply for visas covering their entire stay upfront.
+
+...
+
 ### US woman gets 26 years for mother’s ‘suitcase murder’
 
 *2024-01-18 11:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96504/us-woman-gets-26-years-for-mothers-suitcase-murder) 
@@ -450,6 +524,16 @@ She was then arrested upon arriving in the US and charged with conspiracy to kil
 Mack has spent the last two years in a Chicago prison as she awaited sentencing.
 
 ...
+
+### Talk of The Town | The transformative power of the arts | Professor Rohan Nethsing﻿he |18th Jan 2024
+
+*2024-01-18 11:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/talk-of-the-town-the-transformative-power-of-the-arts-professor-rohan-nethsing%ef%bb%bfhe-18th-jan-2024/) 
+
+Talk of The Town | The transformative power of the arts | Professor Rohan Nethsinghe |18th Jan 2024
+
+1,092 Wanted Criminals Added to Sri Lanka’s Facial Recognition Watchlist
+
+◼️
 
 ### Police to trace traffic offenders in Colombo using CCTV system from next week
 
@@ -499,6 +583,16 @@ The deceased person is a 60-year-old resident of the Modarawila area of Panadura
 
 ...
 
+### ත්‍රිවිධ හමුදාව: සේවය හැරයන සාමාජිකයින් සමාජගත කිරීමට නිසි වැඩපිළිවෙලක් තිබේද?
+
+*2024-01-18 11:09:39* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cyx4xwg9pn8o) 
+
+ත්‍රිවිධ හමුදාව: සේවය හැරයන සාමාජිකයින් සමාජගත කිරීමට නිසි වැඩපිළිවෙලක් තිබේද?
+
+රජයකට අයත් සන්නද්ධ හමුදාවක් සෑම විටම රාජ්‍යයේ අරක්ෂාව වෙනුවෙන් ශාරීරිකව මෙන් මානසිකව ද පුහුණු කළ කණ්ඩායමකි.රටේ යුදමය තත්වයක් පවතින්නේ නම් හෝ එම රට වෙනත් රටවල් සමඟ යුද්ධයකට පැටලී සිටින්නේ නම් එම තත්ත්වය තවත් පුළුල් ලෙස බලපායි. මෙම සන්නද්ධ හමුදා සාමාජිකයන් හට අවි පුහුණුව නිතැතින් ම හිමිවන අතර, දරාගැනීමේ හැකියාව සහ ආරක්ෂක අංශවල ක්‍රියාකාරීත්වය සම්බන්ධයෙන් ද ඔවුන්ට හොඳ පුහුණුවක් තිබේ.
+
+...
+
 ### Sri Lanka President invites Indian firms to privatization
 
 *2024-01-18 11:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-invites-indian-firms-to-privatization-147709/) 
@@ -530,6 +624,16 @@ The Pakistan Air Force on Thursday launched airstrikes on alleged Baloch separat
 *2024-01-18 11:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96501/president-ranil-to-take-centre-stage-at-key-global-summits-in-kampala) 
 
 President Ranil Wickremesinghe is set to take centre stage at the upcoming 19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the 3rd South Summit of the Group of 77 and China, scheduled from January 19 to 22, 2024, in Kampala, Uganda, the President’s Media Division (PMD) said.
+
+...
+
+### E-Passports for All Sri Lankans! Facial Recognition, Biometric Checks at BIA
+
+*2024-01-18 11:00:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/e-passports-for-all-sri-lankans-facial-recognition-biometric-checks-at-bia/) 
+
+COLOMBO (News 1st); Sri Lanka is stepping up security and travel efficiency at Bandaranaike International Airport (BIA) with the implementation of advanced biometric technology and the forthcoming rollout of e-passports for all citizens.
+
+In collaboration with the police, Sri Lanka has installed facial recognition systems at BIA.
 
 ...
 
@@ -601,6 +705,16 @@ Speaking to the Daily Mirror, State Minister Kumarasinghe said that the current 
 
 ...
 
+### Pakistan Hits Baloch Separatist Hideouts in Iran
+
+*2024-01-18 10:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/pakistan-hits-baloch-separatist-hideouts-in-iran/) 
+
+The Pakistan Air Force on Thursday (18) launched airstrikes on alleged Baloch separatist camps situated inside Iranian territory, according to multiple media reports citing people aware of the development.
+
+The reports indicate that the targeted locations allgedly housed hideouts of Baloch militants who were wanted by Pakistan.
+
+...
+
 ### பனியால் சூழ்ந்த டெல்லி ; விமான, ரயில் சேவைகள் கடுமையாக பாதிப்பு
 
 *2024-01-18 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/174208) 
@@ -610,6 +724,16 @@ Speaking to the Daily Mirror, State Minister Kumarasinghe said that the current 
 இந்தியாவில்  வட மாநிலங்களில் கடும் குளிர் நிலவி வருகிறது. டெல்லியில் கடந்த சில நாட்களாக வெப்ப நிலை கொஞ்சம் கொஞ்சமாக குறைந்து வந்துள்ளது.
 
 பஞ்சாப், ஹரியானா, சண்டிகர், உத்தரப் பிரதேசம், ராஜஸ்தான் மாநிலங்களின் சில பகுதிகளிலும் குளிர் அலையால் பனிமூட்டமான நிலை நீடித்துள்ளது.
+
+...
+
+### “We Can Handle It”: Sri Lanka Eyes Growth Despite Challenges – Ranil at Davos
+
+*2024-01-18 10:19:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/we-can-handle-it-sri-lanka-eyes-growth-despite-challenges-ranil-at-davos/) 
+
+COLOMBO (News 1st); Addressing the World Economic Forum, Sri Lankan President Ranil Wickremesinghe outlined the country's progress in its economic recovery while acknowledging persistent challenges. He expressed cautious optimism, aiming for 2% growth this year and 4-5% next year, but emphasized the critical need for addressing revenue and balance of payments issues.
+
+"We have performed well so far," he stated, praising positive growth for the first time.
 
 ...
 
@@ -656,6 +780,18 @@ A bond maturing on 15.03.2028 was quoted at 14.07/13 percent from 14.05/10 perce
 A total of 943 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.18) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
 
 Among the arrestees are 670 suspects who were taken into custody on narcotics-related charges and 273 others who were on the list of wanted criminal suspects.
+
+...
+
+### Air quality in several areas to return to normal
+
+*2024-01-18 09:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/air-quality-in-several-areas-to-return-to-normal/) 
+
+COLOMBO (News 1st); The National Building Research Organization (NBRO) said the decrease in air quality reported in several parts of the island will return to normal on Thursday (18).
+
+Air quality had decreased in Colombo, Jaffna, Mannar, and Galle.
+
+Director of the NBRO Sarath Premasiri said the Air Quality Index in Colombo was close to 100 on Wednesday (17), while the Index in other areas was between 50 and 100.
 
 ...
 
@@ -716,6 +852,34 @@ The expansion in production was driven by Medium Grown teas, which increased by 
 Colombo, Jan 18 (Daily Mirror) - Residents of Horton Place are up in arms against the proposal by the Colombo Municipal Council (CMC) to rename the road as Ponnambalam Arunachalam Mawatha, a resident told Daily Mirror.
 
 ...
+
+### President Briefs Indian CEOs on Sri Lanka’s Economic Outlook
+
+*2024-01-18 08:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/president-briefs-indian-ceos-on-sri-lanka%e2%80%99s-economic-outlook/) 
+
+President Ranil Wickremesinghe took centre stage in a recent roundtable discussion organized by the Consortium of Indian Industry (CII) and World Economic Forum yesterday (16), unveiling a comprehensive economic vision for Sri Lanka. The President emphasized the successful resolution of supply bottlenecks, the removal of import restrictions and the restoration of foreign exchange liquidity as key factors contributing to sustained economic growth.
+
+...
+
+### President Affirms Trust in New Investments for Rebuilding Sri Lanka’s Economy
+
+*2024-01-18 08:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/president-affirms-trust-in-new-investments-for-rebuilding-sri-lanka%e2%80%99s-economy/) 
+
+In a candid discussion at the World Economic Forum (WEF) stakeholder dialogue titled ‘Pulling back from the brink,’ held in Kurpark Village, Aspen, President Ranil Wickremesinghe outlined short-term strategies aimed at revitalizing Sri Lanka’s economy. Emphasizing tourism promotion, agricultural modernization and a focus on renewable energy, the President expressed the country’s eagerness to attract new investments.
+
+...
+
+### 102,000 tourist arrivals within the first 15 days of 2024
+
+*2024-01-18 08:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/102-000-tourist-arrivals-within-the-first-15-days-of-2024/) 
+
+COLOMBO (News 1st); 102,000 tourists have arrived in Sri Lanka within the first 15 days of 2024.
+
+Chairman of the Sri Lanka Tourism Development Authority (SLTDA) Priyantha Fernando said the same number of tourist arrivals was recorded during the first month of last year.
+
+1,092 Wanted Criminals Added to Sri Lanka’s Facial Recognition Watchlist
+
+◼️
 
 ### 50 Wild elephants killed by electrocution in 2023: CEB
 
@@ -862,165 +1026,5 @@ RTI Commission DG writes to Mass Media Ministry and stresses Commission sees no 
 Says focus must be to improve RTI Commission’s independence and capacity instead
 
 Slams synopsis of RTI law formulated as part of UNDP project and says it does not accurately represent current provisions
-
-...
-
-### Gotabaya’s ignorance exposed via SC decision - Hirunika
-
-*2024-01-18 04:54:38* · [`dailyftlk`](https://www.ft.lk/news/Gotabaya-s-ignorance-exposed-via-SC-decision-Hirunika/56-757468) 
-
-Labels former President Gotabaya Rajapaksa a failure who was unable to even execute Executive Powers vested in his post
-
-Claims Rajapaksa had signed documents after succumbing to pressure from Duminda Silva’s faction only to now be left humiliated
-
-Says SC decision affirms that truth will eventually prevail despite influence wielded by financial, political, or media entities
-
-...
-
-### Manusha blasts Finance Ministry officials
-
-*2024-01-18 04:49:25* · [`dailyftlk`](https://www.ft.lk/news/Manusha-blasts-Finance-Ministry-officials/56-757467) 
-
-Alleges bureaucrats have no idea about challenges faced by fishermen or how to protect them
-
-Labour and Foreign Employment Minister Manusha Nanayakkara yesterday alleged that the Finance Ministry officials are acting without any understanding regarding how to protect the fishermen and the fisheries industry.
-
-The Minister stressed, as a result, these officials have not been able to prepare a viable programme to protect fishermen and develop the fisheries sector.
-
-...
-
-### Govt. allocates Rs. 14 b to provide land and housing for estate communities
-
-*2024-01-18 04:47:44* · [`dailyftlk`](https://www.ft.lk/news/Govt-allocates-Rs-14-b-to-provide-land-and-housing-for-estate-communities/56-757466) 
-
-Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman this week announced that the Government has earmarked Rs. 14 billion to ensure land rights for persons without land in the country’s estates sector.
-
-Thondaman made these comments while speaking to the media following an event held at the University of Peradeniya.
-
-...
-
-### Ali Sabry addresses the meeting of Foreign Ministers of NAM in Kampala
-
-*2024-01-18 04:47:13* · [`dailyftlk`](https://www.ft.lk/news/Ali-Sabry-addresses-the-meeting-of-Foreign-Ministers-of-NAM-in-Kampala/56-757465) 
-
-Foreign Minister Ali Sabry this week stated that it is essential to ensure that the Non Aligned Movement (NAM) continues to play a significant role in multilateralism, particularly on issues of importance to the global South, when addressing the Ministerial Meeting of the 19 Summit of the NAM that is currently ongoing in Kampala, Uganda from 17 to 18 January 2024.
-
-...
-
-### Duminda Silva still at Sri Jayewardenepura Hospital
-
-*2024-01-18 04:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Duminda-Silva-still-at-Sri-Jayewardenepura-Hospital/155-275245) 
-
-Colombo, Jan 18 (Daily Mirror) - Former Parliamentarian Duminda Silva continues to undergo treatment at the Sri Jayewardenepura Hospital under prison security, following the suspension of the presidential pardon granted to him by the Supreme Court in 2022, the Prisons Department said.
-
-...
-
-### ஐ.எம்.எப். அதிகாரிகளுடன் ஜனாதிபதி சந்திப்பு
-
-*2024-01-18 03:22:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-எம்-எப்-அதிகாரிகளுடன்-ஜனாதிபதி-சந்திப்பு/175-331716) 
-
-சுவிற்சர்லாந்தின் டாவோஸ் நகரில் உலகப் பொருளாதார மாநாட்டுடன் இணைந்ததாக ஜனாதிபதி ரணில் விக்ரமசிங்க மற்றும்  சர்வதேச நாணய நிதியத்தின் முகாமைத்துவப் பணிப்பாளர் கிரிஷ்டலினா ஜோர்ஜியாவா மற்றும் பிரதி முகாமைத்துவப் பணிப்பாளர் கீதா கோபிநாத் ஆகியோருக்கிடையிலான சந்திப்பொன்று நடைபெற்றது.
-
-பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான  சாகல ரத்னாயக்கவும் உடனிருந்தார். (a)
-
-◼️
-
-### அமெரிக்காவின் விசேட பிரதிநிதியுடன் ஜனாதிபதி சந்திப்பு
-
-*2024-01-18 03:12:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமெரிக்காவின்-விசேட-பிரதிநிதியுடன்-ஜனாதிபதி-சந்திப்பு/175-331715) 
-
-சுவிற்சர்லாந்தின் டாவோஸ் நகரில் உலகப் பொருளாதார மாநாட்டுடன் இணைந்ததாக ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் காலநிலை மாற்றம் தொடர்பான அமெரிக்க ஜனாதிபதியின் விசேட பிரதிநிதி ஜோன் கெரிக்கும் இடையில் சந்திப்பொன்று இடம்பெற்றது.
-
-பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதியின் பணிக்குழாம் பிரதானியுமான சாகல ரத்னாயக்கவும் இதன் போது உடனிருந்தார். (a)
-
-◼️
-
-### Five arrested for killing elephant calf
-
-*2024-01-18 02:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Five-arrested-for-killing-elephant-calf/108-275248) 
-
-Galnewa, JAn 18 (Daily Mirror) - A group of five individuals who had shot dead a wild elephant calf that roamed into a cultivated land at Nekettegama in Galnewa and buried the carcass in a secret location were arrested yesterday by wildlife conservators.
-
-The suspects were between 42 and 50 years of age and residents of the area.
-
-...
-
-### மின் கட்டணத் திருத்தம்: மக்கள் கருத்துக்கு சந்தர்ப்பம்
-
-*2024-01-18 02:27:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டணத்-திருத்தம்-மக்கள்-கருத்துக்கு-சந்தர்ப்பம்/175-331714) 
-
-மின்கட்டணத் திருத்த யோசனை தொடர்பில் அடுத்த வாரம் முதல் பொதுமக்களிடம் கருத்துகளை கேட்டறியத் திட்டமிடப்பட்டுள்ளது.
-
-மின்சாரக் கட்டண திருத்த யோசனை, இலங்கை மின்சார சபையால் இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழுவிடம் கையளிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
-
-ஆணைக்குழுவின் விதிமுறைகளுக்கு உட்பட்டு மின்கட்டணத் திருத்தம் தொடர்பில் மேலதிக நடவடிக்கைகள் மேற்கொள்ளப்படும் என இலங்கை பொதுப்பயன்பாடுகள் ஆணைக்குழு தெரிவித்துள்ளது. (a)
-
-◼️
-
-### இந்திய மீனவர்களுக்கு விளக்கமறியல்
-
-*2024-01-18 02:24:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களுக்கு-விளக்கமறியல்/175-331713) 
-
-இலங்கை கடற்பரப்பிற்குள் அத்துமீறி உள்நுழைந்து மீன்பிடியில் ஈடுபட்ட 18 இந்திய மீனவர்களையும் எதிர்வரும் 31 திகதி வரை  விளக்கமறியலில் வைக்க மன்னார் நீதவான் நேற்று மாலை உத்தரவிட்டார்.
-
-இலங்கையின்  தென் கடல் கடற்பரப்பிற்குள் அத்துமீறி உள்நுழைந்து மீன் பிடியில் ஈடுபட்ட இராமநாதபுரம் மாவட்டம் பாம்பன் தங்கச்சிமடம் பகுதியை சேர்ந்த 18 இந்திய மீனவர்கள் நேற்று முன்தினம் கடற்படையினரால் கைது செய்யப்பட்டுள்ளனர்.
-
-...
-
-### கடலட்டை பிடித்த 12 பேர் கைது
-
-*2024-01-18 02:10:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடலட்டை-பிடித்த-12-பேர்-கைது/175-331712) 
-
-மன்னார் ஓலைத்தொடுவாய் கடற்பரப்பில் சட்டவிரோதமாக கடலட்டை தொழிலில் ஈடுபட்ட 12 பேர் கடற்படையினரால் நேற்று கைது செய்யப்பட்டுள்ளனர்.
-
-ஓலைத்தொடுவாய் கடற்பரப்பில் கடற்படையினர் மேற்கொண்ட விசேட  தேடுதல் நடவடிக்கையின் போது நீரில் மூழ்கி கடலட்டை   பிடித்துக் கொண்டிருந்த மேற்படி சந்தேகநபர்களை கடற்படையினர் கைது செய்துள்ளனர்.
-
-இதன் போது 4 படகுகள், டைவிங் கருவிகள் மற்றும் சட்டவிரோதமாக  பிடிக்கப்பட்ட சுமார் 968 கடலட்டைகள், 34 சங்குகளும் கைப்பற்றப்பட்டுள்ளனர். (a)
-
-◼️
-
-### ’சீர்குலைக்க சில தரப்பினர் முயற்சி’
-
-*2024-01-18 02:02:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சீர்குலைக்க-சில-தரப்பினர்-முயற்சி/175-331711) 
-
-நாட்டை கட்டியெழுப்புவதற்கு ஜனாதிபதி ரணில் விக்ரமசிங்க முன்னெடுக்கும் வேலைத்திட்டத்தை தவிர வேறு மாற்று வழியில்லை எனவும், எனவே அனைத்து தரப்பினரும் கருத்து வேறுபாடுகளைத் தவிர்த்து அந்த வேலைத்திட்டத்தின் வெற்றிக்கு பங்களிக்க வேண்டுமென பாராளுமன்ற உறுப்பினர் வஜிர அபேவர்தன தெரிவித்தார்.
-
-...
-
-### ‘யுக்திய’வுக்கு ஆசி வேண்டி நல்லூரில் விசேட வழிபாடு
-
-*2024-01-18 01:56:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-வுக்கு-ஆசி-வேண்டி-நல்லூரில்-விசேட-வழிபாடு/175-331710) 
-
-நாடாளாவிய ரீதியில் முன்னெடுக்கப்படும் போதைப்பொருள் தடுப்பு விசேட செயற்றிட்டமான ‘யுக்திய’ நடவடிக்கைக்கு ஆசி வேண்டி யாழ்ப்பாணம் நல்லூர் கந்தசாமி ஆலயத்தில் பொலிஸார் விசேட பூஜை வழிபாட்டில் ஈடுபட்டனர்.
-
-பதில் பொலிஸ் மா அதிபரின் பணிப்புரைக்கிணங்க,   போதைப்பொருள் ஒழிப்பு வேலை திட்டமாகிய ‘யுக்திய’வேலை திட்டம் பொலிஸாரால் நாடுபூராகவும்  முன்னெடுக்கப்பட்டு வருவதோடு  போதைப் பொருள் வியாபாரிகள் மற்றும் போதைப்பொருள் கடத்துபவர்கள் என பலரும் பொலிஸாரால்  கைது செய்யப்பட்டு வருகின்றனர்.
-
-...
-
-### ’மூக்கை நுழைக்காமல் இருக்க தெரியவில்லை’
-
-*2024-01-18 01:52:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூக்கை-நுழைக்காமல்-இருக்க-தெரியவில்லை/175-331709) 
-
-அணிசேரா கொள்கை என கூட்டங்களுக்கு சென்றுவரும் ஜனாதிபதிக்கு மத்திய கிழக்கு பிரதேசத்திலே இருக்கும் பிரச்சினைக்குள்ளே மூக்கை நுழைக்காமல் இருக்க தெரியவில்லை என தமிழ்த் தேசிய கூட்டமைப்பின் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
-
-முல்லைத்தீவு மாங்குளம் நீதிமன்றத்திற்கு வழக்கு விசாரணை ஒன்றிற்காக புதன்கிழமை (17) வருகை தந்திருந்த போது ஊடகவியலாளர் எழுப்பிய கேள்விக்கு பதிலளிக்கையிலே இவ்வாறு தெரிவித்தார்.
-
-...
-
-### ’தேர்தல்கள் தொடர்பில் தம்பட்டம்’
-
-*2024-01-18 01:38:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-தொடர்பில்-தம்பட்டம்/175-331708) 
-
-ஜனாதிபதி தேர்தல் நடத்தப்படும் என்ற செய்தியை பரப்பி மக்களிடமிருந்து கிடைக்கும் கருத்துக்களை ஆராய்ந்து ஜனாதிபதி எடை போட்டு வருகிறார். சுயேட்சை வேட்பாளர்கள் மற்றும் ஐ.தே.க வேட்பாளர் யார் என்பதில் ஜனாதிபதியும் மொட்டும் தற்போது குழப்பத்தில் உள்ளனர்.
-
-...
-
-### ஒன்லைன் பாதுகாப்பு சட்டத்தை ’நாங்கள் ரத்து செய்வோம்’
-
-*2024-01-18 01:30:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்பு-சட்டத்தை-நாங்கள்-ரத்து-செய்வோம்/175-331707) 
-
-"உண்மையான நிகழ்நிலை பாதுகாப்பிற்கு நாங்கள் கடமைப்பட்டுள்ளோம். எனவே சிறுவர் ஆபாச மற்றும் பிற தீவிரமான ஒன்லைன் குற்றங்கள் போன்ற பிரச்சனைகளை முக்கிய தளங்களின் ஒத்துழைப்புடன் நாங்கள் அறிமுகப்படுத்துவோம்.
-
-இது இலங்கை சமூகத்தின் நல்வாழ்வுக்கு முக்கியமானது. அவசர முடிவுகளை விட பயனுள்ள தீர்வுகளுக்கு முன்னுரிமை அளிப்போம்.” என்று ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா கூறினார்.
 
 ...

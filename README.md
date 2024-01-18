@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 18:22:17**
+As of **2024-01-18 18:34:22**
 
 ## Newspaper Stats
 
-*Scraped **1,059** Articles*
+*Scraped **1,061** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 23 | 🟩🟩 
-bbccomsinhala | 32 | 🟩🟩🟩 
+bbccomsinhala | 33 | 🟩🟩🟩 
 islandlk | 63 | 🟩🟩🟩🟩🟩🟩 
 newsfirstlk | 68 | 🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -18,12 +18,20 @@ dailymirrorlk | 88 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 119 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 122 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 126 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 127 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 143 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-18 (Thursday)
+
+### SLC to obtain services of Jonty Rhodes, Bharat Arun and Alex Kountouri
+
+*2024-01-18 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96526/slc-to-obtain-services-of-jonty-rhodes-bharat-arun-and-alex-kountouri) 
+
+Sri Lanka Cricket (SLC) says it has obtained the services of former South African cricketer Jonty Rhodes and Bharat Arun, the former India fast bowling coach, to provide advanced training to local coaches and trainers. The board has also roped in former Sri Lankan physiotherapist Alex Kountouri.
+
+...
 
 ### President Ranil arrives in Uganda for 19th NAM summit
 
@@ -569,6 +577,16 @@ A record low birth rate in 2023 and a wave of COVID-19 deaths resulted in a seco
 
 ...
 
+### ටිරාන් අලස් : ' UN හියුමන් රයිට්ස් ලියුම තුට්ටු දෙකකට ගණන් ගන්නේ නෑ'
+
+*2024-01-18 12:28:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpw3wjxle1po) 
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "ටිරාන් අලස් : 'හියුමන් රයිට්ස් ලියුම තුට්ටු දෙකකට ගණන් ගන්නේ නෑ'", ධාවන කාලය 8,5608:56වීඩියෝ ශීර්ෂ වැකිය, යුක්තියේ මෙහෙයුම ක්‍රියාත්මක කළ මාසය තුළ රටේ සමස්ත අපරාධවලින් 17% ක් අඩුවී ඇති බව අමාත්‍යවරයා පවසයි.
+
+ටිරාන් අලස් : ' UN හියුමන් රයිට්ස් ලියුම තුට්ටු දෙකකට ගණන් ගන්නේ නෑ'
+
+...
+
 ### Yala National Park reopened for public
 
 *2024-01-18 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yala-National-Park-reopened-for-public/108-275275) 
@@ -1008,23 +1026,3 @@ Sunak, in power since October 2022, has staked his political future on the schem
 ප්‍රධාන මාර්ගයේ දුම්රියක් අඹේපුස්සේ දී කාර්මික දෝෂයකට ලක්ව ඇති අතර,  හලාවත මාර්ගයේ හලාවත දී තවත් දුම්රියක් කාර්මික දෝෂයකට ලක්ව තිබීම හේතුවෙන් මෙම දුම්රිය ප්‍රමාදයන් සිදුවෙයි..
 
 ◼️
-
-### University non-academic staff on token strike today
-
-*2024-01-18 08:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96497/university-non-academic-staff-on-token-strike-today) 
-
-The non-academic staff members of state universities launched a one-day token strike this morning (Jan.18) in protest of the government’s decision to increase the allowances of lecturers.
-
-Earlier this month, the Cabinet of Ministers green-lighted President Ranil Wickremesinghe’s resolution seeking to increase the study allowance granted to university lecturers by 25%. It was decided that this allowance would be included in their January salary.
-
-...
-
-### Sri Lanka tea production up 1.3-pct in 2023, exports down
-
-*2024-01-18 08:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-up-1-3-pct-in-2023-exports-down-147700/) 
-
-ECONOMYNEXT – Sri Lanka’s tea production expanded 1.7 percent to 256.03 million kilograms in 2023, while exports fell 8.2 percent to 241.9 million kilograms, the island’s Tea Board, said.
-
-The expansion in production was driven by Medium Grown teas, which increased by 2.6 million kilos to 42.3 million kilos and High Growns which expanded by 1.6 million kilos to 58.6 million kilos.
-
-...

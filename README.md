@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-18 12:27:45**
+As of **2024-01-18 13:27:47**
 
 ## Newspaper Stats
 
@@ -940,8 +940,6 @@ What’s more, they will travel the world across more than 140 cities in 76 coun
 
 ComBank & UnionPay invite cardholders to ascend to culinary heights
 
-Global reputation expert to speak on vital topic for corporate and political leaders
-
 Emirates announces key appointments for its Sri Lanka and Maldives operations
 
 Emirates unveils new closed loop recycling initiative to reduce plastic
@@ -962,9 +960,9 @@ SLT-MOBITEL, the national ICT solutions provider, signed a Memorandum of Underst
 
 The MOU was signed and exchanged by Sugath R. De Silva, General Manager, Consumer Business Support, SLT, and Shanker Somasunderam, Chairman, Bricks Developers (Pvt) Ltd. Senior representatives from both companies were present on the occasion.
 
-ComBank & UnionPay invite cardholders to ascend to culinary heights
+Emirates readies to recruit 5,000 cabin crew from six continents in 2024
 
-Global reputation expert to speak on vital topic for corporate and political leaders
+HNB Assurance advisor distribution management team celebrates its exceptional performance
 
 SLT-MOBITEL ‘Life at 300Mpbs’ blazes into 2024 elevating digital lifestyles with limitless possibilities
 
@@ -987,8 +985,6 @@ Lasitha Wimalaratne, CEO of HNBA expressed his thoughts at the forum, stating, �
 HNB Assurance PLC, ended 2023 with a stellar performance both in terms of Gross Written Premium (GWP) and New Business Premium (NBP) with the former seeing 23% growth and the latter reaching 29% above that of the corresponding period last year. The Company, having taken an aggressive stance in terms of sustained growth, implemented various initiatives which have paid off resulting in these impressive figures. In terms of the Million Dollar Round Table (MDRT), the Company produced 202 qualifiers with 5 Top of the Table (TOT) and 20 Court of the Table (COT) qualifiers.
 
 Reaffirming the Company’s commitment to achieving a 10% market share within the next three years, Wimalaratne emphasized the importance of collective efforts that will propel the organization towards this ambitious target. “As we welcome the new year, I urge everyone to embrace technology, prioritize continuous innovation and enhance customer engagement. With this approach we will undoubtedly achieve success while remaining on track to achieve our long-term goals.”
-
-ComBank & UnionPay invite cardholders to ascend to culinary heights
 
 Global reputation expert to speak on vital topic for corporate and political leaders
 
@@ -1078,7 +1074,7 @@ Tickets for the event are priced at Rs 7,500 for members of PRASL and their invi
 
 The Public Relations Association of Sri Lanka was formally launched in 2023 to address a long-felt need to give voice to the industry, infuse high standards, and develop the skills of professional practitioners. The Association’s objectives include gaining recognition for PR practice and enhancing its influence, fostering high professional standards and ethical practices as a valued PR industry, and bringing together and representing public relations practitioners. PRASL also aims to provide thought leadership events and networking opportunities for members to exchange ideas and professional experiences, all while keeping the interests of its members and the wider society in mind.
 
-Emirates readies to recruit 5,000 cabin crew from six continents in 2024
+HNB Assurance advisor distribution management team celebrates its exceptional performance
 
 First Capital celebrates double wins at SLIM Brand Excellence Awards
 

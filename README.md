@@ -1,13 +1,13 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 14:18:05**
+As of **2024-01-18 14:19:02**
 
 ## Newspaper Stats
 
 *Scraped **562** Articles*
 
-newspaper | n | 🟩 = 10
---- | ---: | ---
+newspaper | n | 🟩 ≈ 10
+--- | ---: | :---
 virakesarilk | 17 | 🟩🟩 
 colombotelegraphcom | 20 | 🟩🟩 
 newsfirstlk | 25 | 🟩🟩 

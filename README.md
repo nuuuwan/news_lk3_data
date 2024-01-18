@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 16:04:50**
+As of **2024-01-18 16:17:18**
 
 ## Newspaper Stats
 
-*Scraped **1,008** Articles*
+*Scraped **1,023** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -12,24 +12,72 @@ colombotelegraphcom | 23 | 🟩🟩
 bbccomsinhala | 31 | 🟩🟩🟩 
 newsfirstlk | 53 | 🟩🟩🟩🟩🟩 
 islandlk | 63 | 🟩🟩🟩🟩🟩🟩 
-economynextcom | 68 | 🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
+economynextcom | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 88 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-tamilmirrorlk | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 117 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 119 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+tamilmirrorlk | 122 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 142 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-18 (Thursday)
 
+### பழைய சட்டத்தை மீள அமுல்படுத்தக் கோருகிறார் கீதா
+
+*2024-01-18 15:02:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-சட்டத்தை-மீள-அமுல்படுத்தக்-கோருகிறார்-கீதா/175-331748) 
+
+ஐந்து வயதுக்குட்பட்ட குழந்தைகளை கொண்ட பெண்கள் வெளிநாட்டு வேலைக்கு செல்வதைத் தடுக்கும் விதிமுறைகளை மீண்டும் கொண்டு வர வேண்டும் என்று பெண்கள் மற்றும் குழந்தைகள் விவகார இராஜாங்க அமைச்சர் கீதா குமாரசிங்க தெரிவித்துள்ளார்.
+
+டெய்லி மிரருக்கு கருத்து தெரிவித்த இராஜாங்க அமைச்சர் குமாரசிங்க, சிறு குழந்தைகளை கொண்ட பெண்களை வேலைக்காக புலம்பெயர்வதற்கு அனுமதிக்கும் தற்போதைய விதிமுறைகள் குழந்தைகளுக்கு அநீதியானது.
+
+...
+
 ### COPA express strong displeasure over lack of punishment for Samurdhi officials engaged in misconduct
 
 *2024-01-18 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96513/copa-express-strong-displeasure-over-lack-of-punishment-for-samurdhi-officials-engaged-in-misconduct-) 
 
 The Committee on Public Accounts (COPA) has expressed its strong displeasure for not giving a proper punishment to the Samurdhi Development officials involved in misconduct and various incidents of corruption and irregularities.
+
+...
+
+### VAT சான்றிதழ் காட்சிப்படுத்தப்பட வேண்டும்;அமைச்சர்
+
+*2024-01-18 14:34:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/VAT-சான்றிதழ்-காட்சிப்படுத்தப்பட-வேண்டும்-அமைச்சர்/175-331741) 
+
+வருடாந்தம் 80 மில்லியன் ரூபா இலாபமீட்டும் ஒவ்வொரு வியாபாரமும் அல்லது தொழிற்துறையும்  பெறுமதி சேர் வரியில் (VAT) பதிவு செய்யப்பட வேண்டும், மேலும் அனைவரும் பார்க்கும் வகையில் VAT பதிவு சான்றிதழ் காட்சிப்படுத்தப்பட வேண்டும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
+
+...
+
+### IMF team meets Sri Lanka finance and energy ministers
+
+*2024-01-18 14:30:00* · [`economynextcom`](https://economynext.com/imf-team-meets-sri-lanka-finance-and-energy-ministers-147788/) 
+
+ECONOMYNEXT – The International Monetary Fund team in Sri Lanka, headed by Peter Breuer, met with the country’s state finance minister and other officials on Wednesday (17).
+
+“Had an important mid-mission review meeting on the IMF programme with senior mission chief Peter Bruer and the team. Discussed the progress made towards achieving the goals and overcome challenges encountered,” Shehan Semasinghe said on X.
+
+...
+
+### யால தேசிய பூங்கா மீளத் திறப்பு
+
+*2024-01-18 14:25:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யால-தேசிய-பூங்கா-மீளத்-திறப்பு/175-331738) 
+
+வெள்ள நிலைமை காரணமாக மூடப்பட்டிருந்த பலதுபான யால தேசிய பூங்காவின் பிரதான நுழைவாயில் பொதுமக்களுக்காக மீண்டும் திறக்கப்பட்டுள்ளதாக ஊவா வலய வனஜீவராசிகள் பாதுகாப்பு திணைக்களத்தின் உதவிப் பணிப்பாளர் உபுல் இந்திரஜித் தெரிவித்துள்ளார்.
+
+யால தேசிய பூங்காவில் உள்ள சிறு நீர்ப்பாசன குளங்களில் கசிவு ஏற்பட்டதால் நுழைவாயில்கள் நீரில் மூழ்கியதை அடுத்து அங்கு அவசர அனர்த்த நிலைமை பிரகடனப்படுத்தப்பட்டது.
+
+...
+
+### சிறுமி, சிறுவன் துஷ்பிரயோகம்: கான்ஸ்டபிள் பணி இடைநிறுத்தம்
+
+*2024-01-18 14:16:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுமி-சிறுவன்-துஷ்பிரயோகம்-கான்ஸ்டபிள்-பணி-இடைநிறுத்தம்/175-331737) 
+
+சிறுமி,சிறுவனை  பாலியல் துஷ்பிரயோகம் செய்த குற்றச்சாட்டில் கைது செய்யப்பட்ட வாதுவ பொலிஸில் கடமையாற்றிய கான்ஸ்டபிள் பணி இடைநிறுத்தப்பட்டுள்ளதாக பாணந்துறை பொலிஸ் அத்தியட்சகர் அலுவலகம் தெரிவித்துள்ளது.
+
+பாணந்துறை பதில் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் (உதவி பொலிஸ் அத்தியட்சகர்)  நிஷாந்த சேனாரத்ன, உதவி பொலிஸ் அத்தியட்சகர்  சம்பத் பண்டார அவர்களின் மேற்பார்வையின் கீழ் இவர் பணி இடைநிறுத்தப்பட்டுள்ளார்.
 
 ...
 
@@ -43,6 +91,26 @@ The Committee on Public Accounts (COPA) has expressed its strong displeasure for
 
 ...
 
+### மூன்றாவது கண்ணின் ஊடாக தண்டம்
+
+*2024-01-18 14:07:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மூன்றாவது-கண்ணின்-ஊடாக-தண்டம்/175-331736) 
+
+கொழும்பு நகர எல்லைக்குள் பொருத்தப்பட்டுள்ள CCTV கமரா அமைப்புகளின் ஊடாக சாரதிகளுக்கு தண்டப்பணம் வழங்கும் முறை எதிர்வரும் 22ஆம் திகதி முதல் அமுல்படுத்தப்படவுள்ளதாக பதில் பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோன் தெரிவித்தார்.
+
+போக்குவரத்து காவல்துறை அதிகாரிகள் கண்காணித்து போக்குவரத்து விதிமீறல்களை கண்டறிவதை விட இந்த முறை 300 மடங்கு திறன் வாய்ந்தது என பதில் பொலிஸ் மா அதிபர் தெரிவித்தார்.
+
+...
+
+### பொலிஸாரின்  கோரிக்கையை நிராகரித்தது நீதிமன்றம்
+
+*2024-01-18 13:53:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாரின்-கோரிக்கையை-நிராகரித்தது-நீதிமன்றம்/175-331735) 
+
+கொழும்பு பல்கலைக்கழக பொது மாணவர் சங்கம் இன்று (18) ஏற்பாடு செய்திருந்த  ஆர்ப்பாட்டத்தை தடுக்குமாறு குருந்துவத்தை பொலிஸாரின் கோரிக்கையை கொழும்பு பிரதான நீதவான்  பிரசன்ன அல்விஸ்   நிராகரித்தார்.
+
+பல கோரிக்கைகளை முன்வைத்து போராட்டம் அல்லது ஆர்ப்பாட்டம் தடுக்கப்படுமாயின் அது அரசியலமைப்பின் பதினான்காம் சரத்தின் கீழ் வழங்கப்பட்டுள்ள அடிப்படை மனித உரிமைகளை மீறும் செயலாகும் என நீதவான் சுட்டிக்காட்டினார்.
+
+...
+
 ### இரு சர்வதேச மாநாடுகளில் உரையாற்றுவதற்காக ஜனாதிபதி உகண்டா பயணம்
 
 *2024-01-18 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/174236) 
@@ -50,6 +118,18 @@ The Committee on Public Accounts (COPA) has expressed its strong displeasure for
 அணிசேரா நாடுகளின் மாநாட்டின் (NAM) 19 ஆவது அரச தலைவர்கள் மாநாடு  மற்றும் G77 மற்றும் சீனாவின் 3 ஆவது தென் மாநாடு என்பவற்றில் (3rd South Summit of the Group of 77 & China) பங்கேற்பதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க உகண்டாவிற்கான உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டுள்ளார்.
 
 உகண்டா குடியரசு ஜனாதிபதி யொவேரி முசேவெனியின் (Yoweri Museveni) அழைப்பின் பேரிலேயே ஜனாதிபதி  இந்த விஜயத்தை  மேற்கொண்டுள்ளார்.
+
+...
+
+### கேரட் விலையில் மாற்றம்
+
+*2024-01-18 13:52:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேரட்-விலையில்-மாற்றம்/175-331734) 
+
+நாட்டின் பல பகுதிகளிலும் கடந்த சில வாரங்களாக மரக்கறிகளின் விலைகள் அதிகரித்து காணப்படுவதாக பொதுமக்கள் குற்றம் சுமத்தியுள்ளனர்.
+
+குறிப்பாக கேரட் ,லீக்ஸ், கத்தரி, வெங்காயம், கோவா உள்ளிட்ட மரக்கறிகளின் விலைகள் ஆயிரத்தை தாண்டி விற்பனை செய்யப்படுவதாக தெரிவிக்கப்படுகின்றது.
+
+இந்நிலையில் கடந்த வாரம் 2000 ரூபாவிற்கு விற்பனை செய்யப்பட்டு வந்த கேரட் வியாழக்கிழமை(18) சடுதியாக 1000 ரூபாயாக குறைந்துள்ளது.
 
 ...
 
@@ -70,6 +150,16 @@ The non-academic staff members of state universities launched a one-day token st
 இன்று வியாழக்கிழமை (ஜனவரி 18) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 316.0759 ஆகவும் விற்பனை விலை ரூபா 325.6904 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
 
 ◼️
+
+### Nu Life Biotech to manufacture antibiotics in Sri Lanka
+
+*2024-01-18 13:43:00* · [`economynextcom`](https://economynext.com/nu-life-biotech-to-manufacture-antibiotics-in-sri-lanka-147760/) 
+
+ECONOMYNEXT – Nu Life Biotech Pvt Ltd started construction work on its Carbapenem injectables manufacturing facility at the ‘Suwa Siri Pura’ pharmaceutical production zone in Oyamaduwa, Anuradhapura, this week.
+
+The company’s Penem Injectable Facility will be planned, designed, engineered as per GMP Standards of NMRA, WHO, EU and PIC/S etc, it said in a statement. “The facility will conform to all relevant local statutory and regulatory requirements.”
+
+...
 
 ### Singapore’s transport minister resigns over corruption charges
 
@@ -191,6 +281,16 @@ Officials of the Ministry, Ceylon Petroleum Corporation (CPC) and the Ministry o
 
 ...
 
+### Sri Lanka plans to draw higher spending tourists with Southern cultural events
+
+*2024-01-18 12:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-to-draw-higher-spending-tourists-with-southern-cultural-events-147753/) 
+
+ECONOMYNEXT – Sri Lanka is planning to attract higher spending tourists with cultural and culinary events strung along the main resort towns of the Indian Ocean island’s south coast, officials said.
+
+“Out of our target of 5 million tourists we want to attract 2.5 high-end tourists spending 500 dollars as opposed to spending 200 dollars,” Chalaka Gajabahu, Chairman of Sri Lanka Tourism Promotion Bureau said.
+
+...
+
 ### அளம்பில் மாவீரர் துயிலுமில்லக் காணியை இராணுவத்தினர் சுவீகரிக்க முயற்சி; அளவீட்டு முயற்சி தடுத்து நிறுத்தம்
 
 *2024-01-18 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/174228) 
@@ -270,6 +370,16 @@ The healthcare professionals are demanding the immediate arrest of the doctor an
 *2024-01-18 12:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/If-VAT-is-charged-VAT-registration-certificate-must-be-displayed/108-275273) 
 
 Yatiyantota, Jan 18 (Daily Mirror) - Every business or industry with a turnover of Rs. 80 million per annum must be registered for Value Added Tax (VAT), and the VAT registration certificate must be displayed so that everyone can see it, Finance State Minister Ranjith Siyambalapitiya said.
+
+...
+
+### Creative industries remain an untapped sector in Sri Lanka
+
+*2024-01-18 12:00:00* · [`economynextcom`](https://economynext.com/creative-industries-remain-an-untapped-sector-in-sri-lanka-147725/) 
+
+ECONOMYNEXT – The power of creative economies as an accelerator of Gross Domestic Product (GDP) has been harnessed in many countries around the world.
+
+Creative industries create employment, income, increase export earnings, promote innovation and contribute to societal wellbeing (United Nations Publications, 2002).
 
 ...
 
@@ -377,6 +487,16 @@ The deceased person is a 60-year-old resident of the Modarawila area of Panadura
 
 ...
 
+### Sri Lanka President invites Indian firms to privatization
+
+*2024-01-18 11:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-invites-indian-firms-to-privatization-147709/) 
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has invited Indian firms to invest in state enterprises being re-structured, while further trade and service liberalization between the two countries are planned, a statement from his media office said.
+
+India’s Reliance group has already expressed interest in Sri Lanka Telecom privatization.
+
+...
+
 ### ”ரணில் SLPP இன் வருங்கால வேட்பாளர்”
 
 *2024-01-18 11:04:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரணில்-SLPP-இன்-வருங்கால-வேட்பாளர்/175-331727) 
@@ -481,6 +601,20 @@ Speaking to the Daily Mirror, State Minister Kumarasinghe said that the current 
 
 ...
 
+### Sri Lanka rupee opens at 320.25/50 to the US dollar
+
+*2024-01-18 09:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-320-25-50-to-the-us-dollar-147703/) 
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 320.25/50 to the US dollar on Thursday, from 320.90/321.10 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 13.65/75 percent from 13.60/75 percent.
+
+A bond maturing on 15.09.2027 was quoted at 13.90/14.00 percent from 13.75/90 percent.
+
+A bond maturing on 15.03.2028 was quoted at 14.07/13 percent from 14.05/10 percent.
+
+...
+
 ### இலங்கைக்கு புதிய ஆபத்து
 
 *2024-01-18 09:25:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-புதிய-ஆபத்து/175-331719) 
@@ -553,6 +687,16 @@ Earlier this month, the Cabinet of Ministers green-lighted President Ranil Wickr
 
 ...
 
+### Sri Lanka tea production up 1.3-pct in 2023, exports down
+
+*2024-01-18 08:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-production-up-1-3-pct-in-2023-exports-down-147700/) 
+
+ECONOMYNEXT – Sri Lanka’s tea production expanded 1.7 percent to 256.03 million kilograms in 2023, while exports fell 8.2 percent to 241.9 million kilograms, the island’s Tea Board, said.
+
+The expansion in production was driven by Medium Grown teas, which increased by 2.6 million kilos to 42.3 million kilos and High Growns which expanded by 1.6 million kilos to 58.6 million kilos.
+
+...
+
 ### Horton Place to be renamed as Ponnamabalam Arunachalam Mawatha
 
 *2024-01-18 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Horton-Place-to-be-renamed-as-Ponnamabalam-Arunachalam-Mawatha/108-275250) 
@@ -604,6 +748,16 @@ A train travelling from Polgahawela to Colombo Fort has suffered a breakdown at 
 ඔහු ජනප්‍රියත්වයට පත්වූයේ, ඔහුගේ අර්ථාන්විත ගීත නිසා පමණක් නොව ඔහුට ම ආවේණික නර්තන ශෛලිය නිසා ය.
 
 එවන් ලෝක ප්‍රකට දැවැන්තයෙකු සමග යුගල නර්තනයක ‌යෙදීමට යමෙකුට අවස්ථාව හිමි වන්නේ නම් එය කෙතරම් භාග්‍යක් ද? ‍‍
+
+...
+
+### Sri Lanka budget revenues up 58-pct to October, domestic borrowings down
+
+*2024-01-18 06:39:00* · [`economynextcom`](https://economynext.com/sri-lanka-budget-revenues-up-58-pct-to-october-domestic-borrowings-down-147694/) 
+
+ECONOMYNEXT – Sri Lanka’s budget revenues have reached 8.0 percent by October 2023, up 53 percent to 2,434 billion rupees, while tax revenues surged 58 percent to 2,212 billion rupees, official data shows.
+
+The overall budget deficit and domestic borrowings were down from last year.
 
 ...
 
@@ -866,155 +1020,5 @@ The suspects were between 42 and 50 years of age and residents of the area.
 ஜனாதிபதி ஒருவருடைய பொது மன்னிப்பு செல்லுபடியற்றது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளமை இலங்கை சரித்திரத்திலே முதல் தடவையாகும் என தமிழ்த் தேசிய கூட்டமைப்பின் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
 
 முல்லைத்தீவு மாங்குளம் நீதிமன்றத்துக்கு  பொதுமக்களின் காணி விடயம் தொடர்பான வழக்கு விசாரணை ஒன்றிற்காக எம்.ஏ. சுமந்திரன், புதன்கிழமை (17) வந்திருந்தார். அவரிம், மேற்படி உயர்நீதிமன்றம் வழங்கிய தீர்ப்பு தொடர்பில் கேள்வியெழுப்பிய போதே மேற்கண்டவாறு தெரிவித்தார்.
-
-...
-
-### பொது மன்னிப்பை செல்லுபடியற்றதாக்கியது ’சரித்திர தீர்ப்பு’
-
-*2024-01-18 01:25:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்பை-செல்லுபடியற்றதாக்கியது-சரித்திர-தீர்ப்பு/175-331706) 
-
-ஜனாதிபதி ஒருவருடைய பொது மன்னிப்பு செல்லுபடியற்றது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளமை இலங்கை சரித்திரத்திலே முதல் தடவையாகும் என தமிழ்த் தேசிய கூட்டமைப்பின் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
-
-முல்லைத்தீவு மாங்குளம் நீதிமன்றத்துக்கு  பொதுமக்களின் காணி விடயம் தொடர்பான வழக்கு விசாரணை ஒன்றிற்காக எம்.ஏ. சுமந்திரன், புதன்கிழமை (17) வந்திருந்தார். அவரிம், மேற்படி உயர்நீதிமன்றம் வழங்கிய தீர்ப்பு தொடர்பில் கேள்வியெழுப்பிய போதே மேற்கண்டவாறு தெரிவித்தார்.
-
-...
-
-### எடப்பாடி பழனிசாமியை சந்தித்தார் ஜீவன்
-
-*2024-01-18 01:21:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எடப்பாடி-பழனிசாமியை-சந்தித்தார்-ஜீவன்/175-331705) 
-
-அண்ணா திராவிட முன்னேற்ற கழகத்தின் (அ.தி.மு.க) பொதுச்செயலாளரும், தமிழக எதிர்க்கட்சி தலைருமான எடப்பாடி பழனிசாமிக்கும், இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமானுக்கும் இடையில் புதன்கிழமை (17) சந்திப்பு நடைபெற்றது.
-
-...
-
-### A paler shade of red: A 1956 or 1977 in 2024
-
-*2024-01-18 00:40:32* · [`dailyftlk`](https://www.ft.lk/columns/A-paler-shade-of-red-A-1956-or-1977-in-2024/4-757457) 
-
-“The IMF program…as structured it shifted the burden of recovery principally onto people with low incomes.”
-
-“Politics that is truly at the service of humanity cannot let itself be dictated to by finance and market mechanisms.”
-
-Ranil failed to negotiate the best possible deal with the IMF. The agreement he arrived at is flawed at its foundation, and the quote from the HRW World Report 2024 above identifies that structural flaw.
-
-...
-
-### Banking Amendment Bill to see passage in early 2024
-
-*2024-01-18 00:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Banking-Amendment-Bill-to-see-passage-in-early-2024/108-275242) 
-
-Guidelines to be issued on appointment of state bank directors
-
-Act’s ambit could extend to licensed finance companies as and when appropriate
-
-As part of a slew of policy reforms that are in the pipeline to improve both the resilience and corporate governance of the banks in the near and medium term, the existing Banking Act, which is currently being amended, could see its passage through Parliament in the early part of 2024.
-
-...
-
-### Unveiling Sri Lanka’s Fishing Dilemma:  Quality Loss and Climate Challenges
-
-*2024-01-18 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Unveiling-Sri-Lankas-Fishing-Dilemma-Quality-Loss-and-Climate-Challenges/172-275220) 
-
-The management of fisheries resources is fundamental to ensure food security of the country
-
-The FAO also highlights that the fisheries sector in Sri Lanka faces various challenges, including overfishing, illegal, unreported, and unregulated (IUU) fishing, and declining fish stocks. The FAO says climate change and its impacts on the marine environment also pose threats to the sustainability of fisheries
-
-...
-
-### The Essence of all Religions is Love
-
-*2024-01-18 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Essence-of-all-Religions-is-Love/172-275218) 
-
-With Presidential elections scheduled for this year, most political leaders and party members are focusing on how or where to get new votes. They also need to give priority to issues like interfaith harmony in a sincere and steadfast manner, instead of just rhetoric and external participation for publicity purposes. All major religions are based on Truth and when they come together, we will see a truthful, just and fair society.
-
-...
-
-### Four Priorities for Sri Lanka in Election Year 2024
-
-*2024-01-18 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Four-Priorities-for-Sri-Lanka-in-Election-Year-2024/172-275219) 
-
-...
-
-### 2024-01-17 (Wednesday)
-
-### Rohit stars as India down Afghanistan in second Super Over
-
-*2024-01-17 23:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rohit-stars-as-India-down-Afghanistan-in-second-Super-Over/108-275234) 
-
-Bengaluru, Jan. 17 (AFP) - India edged Afghanistan in a dramatic second Super Over to sweep the Twenty20 series after the third match ended in a tie following Rohit Sharma's record-setting century on Wednesday.
-
-The India captain became the first batsman to hit five T20 international tons as his unbeaten 121 off 69 balls powered the hosts to 212-4 in Bengaluru after they had slipped to 22-4.
-
-...
-
-### Astronomic prices of carrots, beans and other vegetables
-
-*2024-01-17 23:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Astronomic-prices-of-carrots-beans-and-other-vegetables/108-275227) 
-
-Colombo, Jan 17 (Daily Mirror) - Compared to Tuesday's vegetable prices, yesterday witnessed a significant surge in the stock and retail prices of various vegetable varieties at Economic Centers.
-
-The stock and retail prices of a kilogram of carrots and beans are at a all time high at the Ratmalana and Narahenpita economic centers.
-
-According to the prices of the Economics Center in Ratmalana, a kilo of carrots was recorded at Rs. 2,400 and a kilo of beans at Rs.1,800.
-
-...
-
-### 7 பேரின் விளக்கமறியல் நீடிப்பு
-
-*2024-01-17 23:13:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-பேரின்-விளக்கமறியல்-நீடிப்பு/175-331704) 
-
-சுகாதார அமைச்சின் முன்னாள் செயலாளர் ஜனக ஸ்ரீ சந்திரகுப்த உள்ளிட்ட 07 பேர் எதிர்வரும் 24 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
-
-தரமற்ற இமியுனோ குளோபியுலின் மருந்து கொடுக்கல், வாங்கல் தொடர்பான வழக்கு இன்று(17) மாளிகாகந்தை நீதிமன்றத்தில் விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டது.
-
-...
-
-### President Ranil briefs Indian CEOs on Sri Lanka’s economic outlook
-
-*2024-01-17 22:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96494/president-ranil-briefs-indian-ceos-on-sri-lankas-economic-outlook) 
-
-President Ranil Wickremesinghe took centre stage in a recent roundtable discussion organized by the Consortium of Indian Industry (CII) and World Economic Forum yesterday (16), unveiling a comprehensive economic vision for Sri Lanka.
-
-The President emphasized the successful resolution of supply bottlenecks, the removal of import restrictions and the restoration of foreign exchange liquidity as key factors contributing to sustained economic growth.
-
-...
-
-### New York venue to host T20 World Cup matches unveiled
-
-*2024-01-17 22:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-York-venue-to-host-T20-World-Cup-matches-unveiled/108-275231) 
-
-Jan. 17 (ICC) - 34,000-seat Nassau County International Cricket Stadium, set to host India-Pakistan clash among eight T20 World Cup matches, announced
-
-The construction of a new modular stadium, Nassau County International Cricket Stadium in New York, a first of its kind for cricket, is underway and is expected to be completed within a mere three months.
-
-...
-
-### Body of 9-year-old snatched by crocodile in Kelani River recovered
-
-*2024-01-17 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96493/body-of-9-year-old-snatched-by-crocodile-in-kelani-river-recovered) 
-
-The body of the 9-year-old boy snatched by a crocodile while he was bathing in the Kelani River was recovered late into Wednesday (Jan.17).
-
-A joint operation was launched by the Police Marine unit and Sri Lanka Navy in search of the boy who fell victim to a crocodile attack last evening. He was bathing in the river along with his grandmother and younger brother at the time of the incident.
-
-...
-
-### ICFS explores alternatives amidst Australia’s, UK’s shifting policies for Sri Lankan students
-
-*2024-01-17 22:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICFS-explores-alternatives-amidst-Australias-UKs-shifting-policies-for-Sri-Lankan-students/108-275232) 
-
-Colombo, Jan 17 (Daily Mirror) - Despite recent immigration policy changes and the new strategies introduced by Australia and the United Kingdom for students aspiring to pursue higher education, the International Center for Foreign Studies (ICFS) said that many other destinations have opened their doors for international students in 2024.
-
-Australia and the United Kingdom have been the two top destinations for applicants from Sri Lanka who wish to peruse their studies overseas.
-
-...
-
-### Gota failed even in exercising powers to grant Presidential pardon: Hirunika
-
-*2024-01-17 21:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gota-failed-even-in-exercising-powers-to-grant-Presidential-pardon-Hirunika/108-275222) 
-
-Colombo, Jan. 17 (Daily Mirror)- The Supreme Court decision on Duminda Silva has further proved that former president Gotabaya Rajapaksa had failed in all what he had done during his two year tenure, where he even failed to exercise powers vested in him to grant Presidential pardon, former MP Hirunika Premachandra said today.
-
-She told a news conference that Gotabaya Rajapaksa was so ignorant even being unable to adopt the due procedures in granting a Presidential pardon.
 
 ...

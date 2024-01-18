@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 23:52:42**
+As of **2024-01-19 00:03:24**
 
 ## Newspaper Stats
 
-*Scraped **1,106** Articles*
+*Scraped **1,107** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -16,7 +16,7 @@ economynextcom | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩
 virakesarilk | 89 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 110 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailyftlk | 119 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailyftlk | 120 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 126 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 131 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,14 @@ adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ## Latest 100 Articles 
 
 ### 2024-01-18 (Thursday)
+
+### Five advantages banks can reap by implementing ISO 22301 Business Continuity standards
+
+*2024-01-18 23:43:35* · [`dailyftlk`](https://www.ft.lk/columns/Five-advantages-banks-can-reap-by-implementing-ISO-22301-Business-Continuity-standards/4-757510) 
+
+Compliance with ISO 22301 helps banks align their business continuity management practices with international standards. This can facilitate compliance with regulatory requirements related to operational resilience and business continuity. The Central Bank of Sri Lanka recognises the requirements of ISO 22301 may use it to assess an organisation’s resilience measures
+
+...
 
 ### Police identify 163 close contacts including 30 police officers linked to ’Harak Kata’
 
@@ -1002,15 +1010,5 @@ A record low birth rate in 2023 and a wave of COVID-19 deaths resulted in a seco
 මෙහි කිසිවක් අඩංගු නැත.Play video, "ටිරාන් අලස් : 'හියුමන් රයිට්ස් ලියුම තුට්ටු දෙකකට ගණන් ගන්නේ නෑ'", ධාවන කාලය 8,5608:56වීඩියෝ ශීර්ෂ වැකිය, යුක්තියේ මෙහෙයුම ක්‍රියාත්මක කළ මාසය තුළ රටේ සමස්ත අපරාධවලින් 17% ක් අඩුවී ඇති බව අමාත්‍යවරයා පවසයි.
 
 ටිරාන් අලස් : ' UN හියුමන් රයිට්ස් ලියුම තුට්ටු දෙකකට ගණන් ගන්නේ නෑ'
-
-...
-
-### Yala National Park reopened for public
-
-*2024-01-18 12:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yala-National-Park-reopened-for-public/108-275275) 
-
-The main entrance of the Yala National Park at Palatupana, which was closed due to the flood situation, has been reopened for the public, Assistant Director of the Uva Zone Wildlife Conservation Department Upul Indrajith said.
-
-An emergency disaster situation was declared at the Yala National Park following the inundation of entrance points due to the spilling of minor irrigation tanks.
 
 ...

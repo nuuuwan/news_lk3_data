@@ -1,39 +1,28 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 14:11:26**
+As of **2024-01-18 14:13:40**
 
 ## Newspaper Stats
 
-*Scraped **970** Articles*
+*Scraped **562** Articles*
 
 🟩 = 10
 
-* 🟩🟩 (23) colombotelegraphcom
-* 🟩🟩🟩 (29) bbccomsinhala
-* 🟩🟩🟩🟩🟩 (53) newsfirstlk
-* 🟩🟩🟩🟩🟩🟩 (60) virakesarilk
-* 🟩🟩🟩🟩🟩🟩 (63) islandlk
-* 🟩🟩🟩🟩🟩🟩🟩 (68) economynextcom
-* 🟩🟩🟩🟩🟩🟩🟩🟩🟩 (88) dailymirrorlk
-* 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (103) adaderanalk
-* 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (115) tamilmirrorlk
-* 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (115) dbsjeyarajcom
-* 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (119) dailyftlk
-* 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 (134) adalk
+newspaper | n | ...
+virakesarilk | 17 | 🟩🟩 
+colombotelegraphcom | 20 | 🟩🟩 
+newsfirstlk | 25 | 🟩🟩 
+adaderanalk | 26 | 🟩🟩🟩 
+islandlk | 28 | 🟩🟩🟩 
+tamilmirrorlk | 64 | 🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 88 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailyftlk | 90 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adalk | 93 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dbsjeyarajcom | 111 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-18 (Thursday)
-
-### Police to launch CCTV-based traffic violation identification programme on Monday
-
-*2024-01-18 13:32:00 - [dailymirrorlk](https://www.dailymirror.lk/breaking-news/Police-to-launch-CCTV-based-traffic-violation-identification-programme-on-Monday/108-275276)*
-
-Colombo, Jan 18 (Daily Mirror) - A programme aimed at identifying motorists violating traffic rules through the CCTV system in Colombo city is set to commence on January 22, Acting IGP Deshabandu Tennakoon said.
-
-He explained that video evidence of relevant offenses captured by the traffic division's CCTV system will be forwarded to the respective police station and fine papers for the offenses will be issued to the drivers.
-
-[⇨](https://www.dailymirror.lk/breaking-news/Police-to-launch-CCTV-based-traffic-violation-identification-programme-on-Monday/108-275276)
 
 ### Yala National Park reopened for public
 
@@ -157,16 +146,6 @@ Speaking to the Daily Mirror, State Minister Kumarasinghe said that the current 
 
 [⇨](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-புதிய-ஆபத்து/175-331719)
 
-### Operation ‘Yukthiya’: 943 more suspects arrested within 24 hours
-
-*2024-01-18 09:19:00 - [adaderanalk](https://www.adaderana.lk/news/96499/operation-yukthiya-943-more-suspects-arrested-within-24-hours)*
-
-A total of 943 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.18) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Among the arrestees are 670 suspects who were taken into custody on narcotics-related charges and 273 others who were on the list of wanted criminal suspects.
-
-[⇨](https://www.adaderana.lk/news/96499/operation-yukthiya-943-more-suspects-arrested-within-24-hours)
-
 ### இன்று பல தடவைகள் மழை பெய்யும்
 
 *2024-01-18 09:07:55 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/இன்று-பல-தடவைகள்-மழை-பெய்யும்/175-331718)*
@@ -176,26 +155,6 @@ Among the arrestees are 670 suspects who were taken into custody on narcotics-re
 மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது. R
 
 ◼️
-
-### UK Parliament approves Sunak’s Rwanda bill as right-wing rebels back down
-
-*2024-01-18 09:04:00 - [adaderanalk](https://www.adaderana.lk/news/96498/uk-parliament-approves-sunaks-rwanda-bill-as-right-wing-rebels-back-down)*
-
-UK Prime Minister Rishi Sunak survived a key test of his leadership Wednesday, fending off right-wing rebels to win a crunch parliamentary vote on his contentious plan to send migrants to Rwanda.
-
-Sunak, in power since October 2022, has staked his political future on the scheme, as Britain gears up for its next general election later this year.
-
-[⇨](https://www.adaderana.lk/news/96498/uk-parliament-approves-sunaks-rwanda-bill-as-right-wing-rebels-back-down)
-
-### University non-academic staff on token strike today
-
-*2024-01-18 08:44:00 - [adaderanalk](https://www.adaderana.lk/news/96497/university-non-academic-staff-on-token-strike-today)*
-
-The non-academic staff members of state universities launched a one-day token strike this morning (Jan.18) in protest of the government’s decision to increase the allowances of lecturers.
-
-Earlier this month, the Cabinet of Ministers green-lighted President Ranil Wickremesinghe’s resolution seeking to increase the study allowance granted to university lecturers by 25%. It was decided that this allowance would be included in their January salary.
-
-[⇨](https://www.adaderana.lk/news/96497/university-non-academic-staff-on-token-strike-today)
 
 ### Horton Place to be renamed as Ponnamabalam Arunachalam Mawatha
 
@@ -213,30 +172,6 @@ Colombo, Jan 18 (Daily Mirror) - It was reported that a total of 50 wild elephan
 
 [⇨](https://www.dailymirror.lk/breaking-news/50-Wild-elephants-killed-by-electrocution-in-2023-CEB/108-275247)
 
-### Several spells of showers expected in parts of the island
-
-*2024-01-18 07:13:00 - [adaderanalk](https://www.adaderana.lk/news/96496/several-spells-of-showers-expected-in-parts-of-the-island)*
-
-Several spells of showers will occur in North-Central, Eastern and Uva provinces and in Mullaitivu District, according to the Meteorology Department.
-
-A few showers may occur in Central, Sabaragamuwa, North-western and Southern provinces.
-
-Mainly fair weather will prevail elsewhere in the island, it said.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-◼️
-
-### Trains delayed on main line and Chilaw line due to breakdowns
-
-*2024-01-18 07:05:00 - [adaderanalk](https://www.adaderana.lk/news/96495/trains-delayed-on-main-line-and-chilaw-line-due-to-breakdowns)*
-
-Train services on the main line and the Chilaw line have been delayed due to two trains breaking down, the Railway Department said.
-
-A train travelling from Polgahawela to Colombo Fort has suffered a breakdown at the Ambepussa train station while another train has broken down on the Chilaw line, it said.
-
-◼️
-
 ### Ranil among SLPP’s prospective presidential candidates: Namal
 
 *2024-01-18 06:27:00 - [dailymirrorlk](https://www.dailymirror.lk/breaking-news/Ranil-among-SLPPs-prospective-presidential-candidates-Namal/108-275249)*
@@ -244,122 +179,6 @@ A train travelling from Polgahawela to Colombo Fort has suffered a breakdown at 
 Colombo, Jan 18 (Daily Mirror) - Sri Lanka Podujana Peramuna, SLPP, MP Namal Rajapaksa said yesterday that President Ranil Wickremesinghe is among his party’s prospective presidential candidates., Making his remarks to the reporters after an event, he said the President was anyway installed by the SLPP., “Anyway, the President is already with us. He is among the prospective presidential candidates, ” he said.
 
 [⇨](https://www.dailymirror.lk/breaking-news/Ranil-among-SLPPs-prospective-presidential-candidates-Namal/108-275249)
-
-### Cometh the hour, cometh the man, Dr. Upul Dissanayake
-
-*2024-01-18 05:46:32 - [dailyftlk](https://www.ft.lk/columns/Cometh-the-hour-cometh-the-man-Dr-Upul-Dissanayake/4-757489)*
-
-In a country of cosmetic changes where ‘new faces’ deliver disappointment or worse, it was indeed heartening to learn that Dr. Upul Dissanayake has been elected as the next President of the Ceylon College of Physicians.
-
-I first met him years ago, but it didn’t take that long for me to understand why he is so popular among patients. He struck me as an exceptionally charismatic physician. His sincerity and willingness to listen to patients set him apart.
-
-[⇨](https://www.ft.lk/columns/Cometh-the-hour-cometh-the-man-Dr-Upul-Dissanayake/4-757489)
-
-### Global economy set for weakest half-decade performance in 30 years
-
-*2024-01-18 05:42:39 - [dailyftlk](https://www.ft.lk/opinion/Global-economy-set-for-weakest-half-decade-performance-in-30-years/14-757488)*
-
-Reforms to boost investment and strengthen fiscal policy could help turn the tide
-
-As the world nears the midpoint of what was intended to be a transformative decade for development, the global economy is set to rack up a sorry record by the end of 2024—the slowest half-decade of GDP growth in 30 years, according to the World Bank’s latest Global Economic Prospects report.
-
-[⇨](https://www.ft.lk/opinion/Global-economy-set-for-weakest-half-decade-performance-in-30-years/14-757488)
-
-### Fear-based leadership; an extreme last resort, not a sustainable panacea
-
-*2024-01-18 05:36:53 - [dailyftlk](https://www.ft.lk/columns/Fear-based-leadership-an-extreme-last-resort-not-a-sustainable-panacea/4-757485)*
-
-Leaders need to mix a fair quantity of regimentation, routine, order, and discipline with a generous dose of trust, encouragement, and motivation
-
-[⇨](https://www.ft.lk/columns/Fear-based-leadership-an-extreme-last-resort-not-a-sustainable-panacea/4-757485)
-
-### Is Sri Lanka’s economic recovery sustainable?
-
-*2024-01-18 05:32:27 - [dailyftlk](https://www.ft.lk/columns/Is-Sri-Lanka-s-economic-recovery-sustainable/4-757484)*
-
-The economic transition envisaged in the Government’s reform agenda needs resources and skills, accompanied by right policies and institutions
-
-[⇨](https://www.ft.lk/columns/Is-Sri-Lanka-s-economic-recovery-sustainable/4-757484)
-
-### Justice Minister assures support for Jaffna business community
-
-*2024-01-18 05:26:34 - [dailyftlk](https://www.ft.lk/business/Justice-Minister-assures-support-for-Jaffna-business-community/34-757483)*
-
-A meeting between the Jaffna Chamber of Commerce members and Justice, Prison Affairs and Constitutional Reforms Minister Dr. Wijeyadasa Rajapakshe PC was held in Jaffna on Tuesday.
-
-[⇨](https://www.ft.lk/business/Justice-Minister-assures-support-for-Jaffna-business-community/34-757483)
-
-### St. Regis helps reduce Ceylon Tea carbon footprint with world’s first carbon-neutral bulk tea packaging
-
-*2024-01-18 05:01:52 - [dailyftlk](https://www.ft.lk/business/St-Regis-helps-reduce-Ceylon-Tea-carbon-footprint-with-world-s-first-carbon-neutral-bulk-tea-packaging/34-757471)*
-
-St. Regis Director Ajith Fernando (centre) with Climate and Conservation Consortium Director and CEO Sanith De S. Wijeyeratne (left) and St. Regis Head of Sales and Marketing Chanaka Athukorala at the presentation of the Zero Carbon product certificates
-
-A game-changing world-first in the sphere of packaging for bulk teas by Sri Lanka’s St. Regis Packaging can potentially enhance the environmental credentials of Ceylon Tea on the global stage.
-
-[⇨](https://www.ft.lk/business/St-Regis-helps-reduce-Ceylon-Tea-carbon-footprint-with-world-s-first-carbon-neutral-bulk-tea-packaging/34-757471)
-
-### Cutting edge power: How BYD’s Blade Battery is changing the EV game
-
-*2024-01-18 04:58:44 - [dailyftlk](https://www.ft.lk/business/Cutting-edge-power-How-BYD-s-Blade-Battery-is-changing-the-EV-game/34-757470)*
-
-The truck test ensuring the Blade Battery can withstand upto 50 tons of pressure
-
-[⇨](https://www.ft.lk/business/Cutting-edge-power-How-BYD-s-Blade-Battery-is-changing-the-EV-game/34-757470)
-
-### RTI Commission opposes Govt. attempt to amend RTI Act
-
-*2024-01-18 04:55:08 - [dailyftlk](https://www.ft.lk/news/RTI-Commission-opposes-Govt-attempt-to-amend-RTI-Act/56-757469)*
-
-RTI Commission DG writes to Mass Media Ministry and stresses Commission sees no necessity to amend the existing law
-
-Says focus must be to improve RTI Commission’s independence and capacity instead
-
-Slams synopsis of RTI law formulated as part of UNDP project and says it does not accurately represent current provisions
-
-[⇨](https://www.ft.lk/news/RTI-Commission-opposes-Govt-attempt-to-amend-RTI-Act/56-757469)
-
-### Gotabaya’s ignorance exposed via SC decision - Hirunika
-
-*2024-01-18 04:54:38 - [dailyftlk](https://www.ft.lk/news/Gotabaya-s-ignorance-exposed-via-SC-decision-Hirunika/56-757468)*
-
-Labels former President Gotabaya Rajapaksa a failure who was unable to even execute Executive Powers vested in his post
-
-Claims Rajapaksa had signed documents after succumbing to pressure from Duminda Silva’s faction only to now be left humiliated
-
-Says SC decision affirms that truth will eventually prevail despite influence wielded by financial, political, or media entities
-
-[⇨](https://www.ft.lk/news/Gotabaya-s-ignorance-exposed-via-SC-decision-Hirunika/56-757468)
-
-### Manusha blasts Finance Ministry officials
-
-*2024-01-18 04:49:25 - [dailyftlk](https://www.ft.lk/news/Manusha-blasts-Finance-Ministry-officials/56-757467)*
-
-Alleges bureaucrats have no idea about challenges faced by fishermen or how to protect them
-
-Labour and Foreign Employment Minister Manusha Nanayakkara yesterday alleged that the Finance Ministry officials are acting without any understanding regarding how to protect the fishermen and the fisheries industry.
-
-The Minister stressed, as a result, these officials have not been able to prepare a viable programme to protect fishermen and develop the fisheries sector.
-
-[⇨](https://www.ft.lk/news/Manusha-blasts-Finance-Ministry-officials/56-757467)
-
-### Govt. allocates Rs. 14 b to provide land and housing for estate communities
-
-*2024-01-18 04:47:44 - [dailyftlk](https://www.ft.lk/news/Govt-allocates-Rs-14-b-to-provide-land-and-housing-for-estate-communities/56-757466)*
-
-Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman this week announced that the Government has earmarked Rs. 14 billion to ensure land rights for persons without land in the country’s estates sector.
-
-Thondaman made these comments while speaking to the media following an event held at the University of Peradeniya.
-
-[⇨](https://www.ft.lk/news/Govt-allocates-Rs-14-b-to-provide-land-and-housing-for-estate-communities/56-757466)
-
-### Ali Sabry addresses the meeting of Foreign Ministers of NAM in Kampala
-
-*2024-01-18 04:47:13 - [dailyftlk](https://www.ft.lk/news/Ali-Sabry-addresses-the-meeting-of-Foreign-Ministers-of-NAM-in-Kampala/56-757465)*
-
-Foreign Minister Ali Sabry this week stated that it is essential to ensure that the Non Aligned Movement (NAM) continues to play a significant role in multilateralism, particularly on issues of importance to the global South, when addressing the Ministerial Meeting of the 19 Summit of the NAM that is currently ongoing in Kampala, Uganda from 17 to 18 January 2024.
-
-[⇨](https://www.ft.lk/news/Ali-Sabry-addresses-the-meeting-of-Foreign-Ministers-of-NAM-in-Kampala/56-757465)
 
 ### Duminda Silva still at Sri Jayewardenepura Hospital
 
@@ -469,36 +288,6 @@ The suspects were between 42 and 50 years of age and residents of the area.
 
 [⇨](https://www.tamilmirror.lk/செய்திகள்/தேர்தல்கள்-தொடர்பில்-தம்பட்டம்/175-331708)
 
-### ஒன்லைன் பாதுகாப்பு சட்டத்தை ’நாங்கள் ரத்து செய்வோம்’
-
-*2024-01-18 01:30:14 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்பு-சட்டத்தை-நாங்கள்-ரத்து-செய்வோம்/175-331707)*
-
-"உண்மையான நிகழ்நிலை பாதுகாப்பிற்கு நாங்கள் கடமைப்பட்டுள்ளோம். எனவே சிறுவர் ஆபாச மற்றும் பிற தீவிரமான ஒன்லைன் குற்றங்கள் போன்ற பிரச்சனைகளை முக்கிய தளங்களின் ஒத்துழைப்புடன் நாங்கள் அறிமுகப்படுத்துவோம்.
-
-இது இலங்கை சமூகத்தின் நல்வாழ்வுக்கு முக்கியமானது. அவசர முடிவுகளை விட பயனுள்ள தீர்வுகளுக்கு முன்னுரிமை அளிப்போம்.” என்று ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா கூறினார்.
-
-[⇨](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-பாதுகாப்பு-சட்டத்தை-நாங்கள்-ரத்து-செய்வோம்/175-331707)
-
-### பொது மன்னிப்பை செல்லுபடியற்றதாகியது ’சரித்திர தீர்ப்பு’
-
-*2024-01-18 01:25:50 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்பை-செல்லுபடியற்றதாகியது-சரித்திர-தீர்ப்பு/175-331706)*
-
-ஜனாதிபதி ஒருவருடைய பொது மன்னிப்பு செல்லுபடியற்றது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளமை இலங்கை சரித்திரத்திலே முதல் தடவையாகும் என தமிழ்த் தேசிய கூட்டமைப்பின் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
-
-முல்லைத்தீவு மாங்குளம் நீதிமன்றத்துக்கு  பொதுமக்களின் காணி விடயம் தொடர்பான வழக்கு விசாரணை ஒன்றிற்காக எம்.ஏ. சுமந்திரன், புதன்கிழமை (17) வந்திருந்தார். அவரிம், மேற்படி உயர்நீதிமன்றம் வழங்கிய தீர்ப்பு தொடர்பில் கேள்வியெழுப்பிய போதே மேற்கண்டவாறு தெரிவித்தார்.
-
-[⇨](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்பை-செல்லுபடியற்றதாகியது-சரித்திர-தீர்ப்பு/175-331706)
-
-### பொது மன்னிப்பை செல்லுபடியற்றதாக்கியது ’சரித்திர தீர்ப்பு’
-
-*2024-01-18 01:25:50 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்பை-செல்லுபடியற்றதாக்கியது-சரித்திர-தீர்ப்பு/175-331706)*
-
-ஜனாதிபதி ஒருவருடைய பொது மன்னிப்பு செல்லுபடியற்றது என உயர் நீதிமன்றம் தீர்ப்பளித்துள்ளமை இலங்கை சரித்திரத்திலே முதல் தடவையாகும் என தமிழ்த் தேசிய கூட்டமைப்பின் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
-
-முல்லைத்தீவு மாங்குளம் நீதிமன்றத்துக்கு  பொதுமக்களின் காணி விடயம் தொடர்பான வழக்கு விசாரணை ஒன்றிற்காக எம்.ஏ. சுமந்திரன், புதன்கிழமை (17) வந்திருந்தார். அவரிம், மேற்படி உயர்நீதிமன்றம் வழங்கிய தீர்ப்பு தொடர்பில் கேள்வியெழுப்பிய போதே மேற்கண்டவாறு தெரிவித்தார்.
-
-[⇨](https://www.tamilmirror.lk/செய்திகள்/பொது-மன்னிப்பை-செல்லுபடியற்றதாக்கியது-சரித்திர-தீர்ப்பு/175-331706)
-
 ### எடப்பாடி பழனிசாமியை சந்தித்தார் ஜீவன்
 
 *2024-01-18 01:21:38 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/எடப்பாடி-பழனிசாமியை-சந்தித்தார்-ஜீவன்/175-331705)*
@@ -506,18 +295,6 @@ The suspects were between 42 and 50 years of age and residents of the area.
 அண்ணா திராவிட முன்னேற்ற கழகத்தின் (அ.தி.மு.க) பொதுச்செயலாளரும், தமிழக எதிர்க்கட்சி தலைருமான எடப்பாடி பழனிசாமிக்கும், இலங்கை தொழிலாளர் காங்கிரஸின் பொதுச்செயலாளரும், நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சருமான ஜீவன் தொண்டமானுக்கும் இடையில் புதன்கிழமை (17) சந்திப்பு நடைபெற்றது.
 
 [⇨](https://www.tamilmirror.lk/செய்திகள்/எடப்பாடி-பழனிசாமியை-சந்தித்தார்-ஜீவன்/175-331705)
-
-### A paler shade of red: A 1956 or 1977 in 2024
-
-*2024-01-18 00:40:32 - [dailyftlk](https://www.ft.lk/columns/A-paler-shade-of-red-A-1956-or-1977-in-2024/4-757457)*
-
-“The IMF program…as structured it shifted the burden of recovery principally onto people with low incomes.”
-
-“Politics that is truly at the service of humanity cannot let itself be dictated to by finance and market mechanisms.”
-
-Ranil failed to negotiate the best possible deal with the IMF. The agreement he arrived at is flawed at its foundation, and the quote from the HRW World Report 2024 above identifies that structural flaw.
-
-[⇨](https://www.ft.lk/columns/A-paler-shade-of-red-A-1956-or-1977-in-2024/4-757457)
 
 ### Banking Amendment Bill to see passage in early 2024
 
@@ -589,16 +366,6 @@ According to the prices of the Economics Center in Ratmalana, a kilo of carrots 
 
 [⇨](https://www.tamilmirror.lk/செய்திகள்/7-பேரின்-விளக்கமறியல்-நீடிப்பு/175-331704)
 
-### President Ranil briefs Indian CEOs on Sri Lanka’s economic outlook
-
-*2024-01-17 22:57:00 - [adaderanalk](https://www.adaderana.lk/news/96494/president-ranil-briefs-indian-ceos-on-sri-lankas-economic-outlook)*
-
-President Ranil Wickremesinghe took centre stage in a recent roundtable discussion organized by the Consortium of Indian Industry (CII) and World Economic Forum yesterday (16), unveiling a comprehensive economic vision for Sri Lanka.
-
-The President emphasized the successful resolution of supply bottlenecks, the removal of import restrictions and the restoration of foreign exchange liquidity as key factors contributing to sustained economic growth.
-
-[⇨](https://www.adaderana.lk/news/96494/president-ranil-briefs-indian-ceos-on-sri-lankas-economic-outlook)
-
 ### New York venue to host T20 World Cup matches unveiled
 
 *2024-01-17 22:49:00 - [dailymirrorlk](https://www.dailymirror.lk/breaking-news/New-York-venue-to-host-T20-World-Cup-matches-unveiled/108-275231)*
@@ -608,16 +375,6 @@ Jan. 17 (ICC) - 34,000-seat Nassau County International Cricket Stadium, set to 
 The construction of a new modular stadium, Nassau County International Cricket Stadium in New York, a first of its kind for cricket, is underway and is expected to be completed within a mere three months.
 
 [⇨](https://www.dailymirror.lk/breaking-news/New-York-venue-to-host-T20-World-Cup-matches-unveiled/108-275231)
-
-### Body of 9-year-old snatched by crocodile in Kelani River recovered
-
-*2024-01-17 22:43:00 - [adaderanalk](https://www.adaderana.lk/news/96493/body-of-9-year-old-snatched-by-crocodile-in-kelani-river-recovered)*
-
-The body of the 9-year-old boy snatched by a crocodile while he was bathing in the Kelani River was recovered late into Wednesday (Jan.17).
-
-A joint operation was launched by the Police Marine unit and Sri Lanka Navy in search of the boy who fell victim to a crocodile attack last evening. He was bathing in the river along with his grandmother and younger brother at the time of the incident.
-
-[⇨](https://www.adaderana.lk/news/96493/body-of-9-year-old-snatched-by-crocodile-in-kelani-river-recovered)
 
 ### ICFS explores alternatives amidst Australia’s, UK’s shifting policies for Sri Lankan students
 
@@ -649,26 +406,6 @@ The series is locked 1-1 after the visitors pulled off a last-over win in the se
 
 [⇨](https://www.dailymirror.lk/breaking-news/Sri-Lanka-under-pressure-in-must-win-game/108-275213)
 
-### Sri Lanka to issue on-arrival driver’s licenses for foreigners starting April
-
-*2024-01-17 21:36:00 - [adaderanalk](https://www.adaderana.lk/news/96492/sri-lanka-to-issue-on-arrival-drivers-licenses-for-foreigners-starting-april)*
-
-State Minister for Transport Lasantha Alagiyawanna has assured that the ongoing issue in the issuance of driver’s licenses would be addressed by October, with a shift towards providing permanent licenses through a one-day service rather than temporary ones.
-
-[⇨](https://www.adaderana.lk/news/96492/sri-lanka-to-issue-on-arrival-drivers-licenses-for-foreigners-starting-april)
-
-### Joni Simpson appointed new director for ILO Country Office for Sri Lanka & Maldives
-
-*2024-01-17 21:22:00 - [adaderanalk](https://www.adaderana.lk/news/96491/joni-simpson-appointed-new-director-for-ilo-country-office-for-sri-lanka-maldives)*
-
-Seasoned professional Joni Simpson has assumed duties as the new Director for the International Labour Organization (ILO) Country Office for Sri Lanka and the Maldives on Monday (Jan.15).
-
-The appointment was made by the ILO Director-General Gilbert Houngbo.
-
-Ms. Simpson brings with her over 25 years of experience of working on gender equality and inclusion in the world of work.
-
-[⇨](https://www.adaderana.lk/news/96491/joni-simpson-appointed-new-director-for-ilo-country-office-for-sri-lanka-maldives)
-
 ### Speed limit process to be streamlined to reduce accidents: Alagiyawanna
 
 *2024-01-17 21:06:00 - [dailymirrorlk](https://www.dailymirror.lk/breaking-news/Speed-limit-process-to-be-streamlined-to-reduce-accidents-Alagiyawanna/108-275217)*
@@ -678,76 +415,6 @@ Colombo, Jan. 17 (Daily Mirror)- Steps are being taken to streamline the speed l
 He said this during a news conference held at the Presidential Media Centre today under the theme "Collective Path to a Stable Country."
 
 [⇨](https://www.dailymirror.lk/breaking-news/Speed-limit-process-to-be-streamlined-to-reduce-accidents-Alagiyawanna/108-275217)
-
-### இலங்கை தமிழரசுக்கட்சியின் தலைவர் தெரிவானது உட்கட்சி ஜனநாயகத்தை வெளிப்படுத்தும் - சுமந்திரன்
-
-*2024-01-17 20:54:00 - [virakesarilk](https://www.virakesari.lk/article/174192)*
-
-இலங்கை தமிழரசுக்கட்சியின் தலைவர் தெரிவானது உட்கட்சி ஜனநாயகத்தை வெளிப்படுத்தும் என தமிழ்த் தேசிய கூட்டமைப்பின் யாழ். மாவட்ட பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்தார்.
-
-இன்றையதினம் (17) முல்லைத்தீவு மாங்குளம் நீதிமன்றத்திற்கு வழக்கு விசாரணை ஒன்றிற்காக வருகை தந்திருந்த போது ஊடகவியலாளர் எழுப்பிய கேள்விக்கு பதிலளிக்கையிலே இவ்வாறு தெரிவித்தார்.
-
-[⇨](https://www.virakesari.lk/article/174192)
-
-### யாழ். சர்வதேச வர்த்தகக் கண்காட்சிக்கு 64 ஆயிரம் பார்வையாளர்களை எதிர்பார்கிறோம் - யாழ் வர்த்தக தொழில் துறை மன்றத்தின் தலைவர்
-
-*2024-01-17 20:51:00 - [virakesarilk](https://www.virakesari.lk/article/174196)*
-
-லங்கா எக்கிபிஷன்  நிறுவனம், யாழ்ப்பாணம் வர்த்தக தொழிற்துறை மன்றத்தின் ஏற்பாட்டில் எதிர்வரும் 19 முதல் 21 வரை யாழ்ப்பாணம் சர்வதேச வர்த்தகச்சந்தை இம்முறை 14 ஆவது ஆண்டாக யாழ்ப்பாணம் முற்றவெளியில் ஆரம்பமாகவுள்ளது என யாழ் வர்த்தக தொழில் துறை மன்றத்தின் தலைவர் கே.விக்னேஷ் தெரிவித்தார்.
-
-[⇨](https://www.virakesari.lk/article/174196)
-
-### சாரதி அனுமதிப்பத்திரம் வழங்கும் பிரச்சினைக்கு ஒக்டோபருடன் தீர்வு - லசந்த அழகியவன்ன
-
-*2024-01-17 20:50:00 - [virakesarilk](https://www.virakesari.lk/article/174197)*
-
-தற்போது வழங்கப்பட்டுள்ள தற்காலிக சாரதி அனுமதிப்பத்திரத்திற்குப் பதிலாக எதிர்வரும் ஒக்டோபர் மாதத்திற்குள் ஒருநாள் சேவையின் ஊடாக வழமைபோன்று சாரதி அனுமதிப்பத்திர அட்டை வழங்கப்படும் என போக்குவரத்து இராஜாங்க அமைச்சர் லசந்த அழகியவன்ன தெரிவித்தார்.
-
-சாரதி அனுமதிப்பத்திரங்களை வழங்கும் 25 மாவட்ட அலுவலகங்களும் இந்த வருட இறுதிக்குள் வெரஹெர தலைமை அலுவலகத்தின்  நிலைக்கு மேம்படுத்தப்படும் எனவும் இராஜாங்க அமைச்சர் வலியுறுத்தினார்.
-
-[⇨](https://www.virakesari.lk/article/174197)
-
-### Emirates readies to recruit 5,000 cabin crew from six continents in 2024
-
-*2024-01-17 20:36:00 - [islandlk](http://island.lk/emirates-readies-to-recruit-5000-cabin-crew-from-six-continents-in-2024/)*
-
-Emirates is celebrating the new year and the imminent arrival of its spanking new fleet of Airbus A350s with a global cabin crew recruitment drive with a difference. The 5,000 new joiners will ensure the airline’s commitment to offering the world’s best inflight experience maintains a steady course.
-
-[⇨](http://island.lk/emirates-readies-to-recruit-5000-cabin-crew-from-six-continents-in-2024/)
-
-### SLT-MOBITEL partners with Bricks Developers, offering ultra-fast connectivity
-
-*2024-01-17 20:35:00 - [islandlk](http://island.lk/slt-mobitel-partners-with-bricks-developers-offering-ultra-fast-connectivity/)*
-
-SLT-MOBITEL, the national ICT solutions provider, signed a Memorandum of Understanding (MOU) with Bricks Developers (Pvt) Ltd., a respected property development company engaged in developing apartments and commercial buildings, to provide SLT-MOBITEL Fibre connectivity to ‘Thurstan 42’ Colombo 03, the luxury apartment complex.
-
-[⇨](http://island.lk/slt-mobitel-partners-with-bricks-developers-offering-ultra-fast-connectivity/)
-
-### HNB Assurance advisor distribution management team celebrates its exceptional performance
-
-*2024-01-17 20:34:00 - [islandlk](http://island.lk/hnb-assurance-advisor-distribution-management-team-celebrates-its-exceptional-performance/)*
-
-HNB Assurance recently convened the highly anticipated New Business Launch and Advisor Distribution Management Forum, showcasing the exceptional performance of its Advisor Distribution Channel which included a remarkable 37% increase in New Business Premium (NBP) growth, a robust 24% growth in Gross Written Premium (GWP) and the prestigious international recognition from Insurance Asia for the Best Distribution Initiative, during the year 2023.
-
-[⇨](http://island.lk/hnb-assurance-advisor-distribution-management-team-celebrates-its-exceptional-performance/)
-
-### Net foreign outflows within first 15 days of New Year hit Rs. 1 billion
-
-*2024-01-17 20:30:00 - [islandlk](http://island.lk/net-foreign-outflows-within-first-15-days-of-new-year-hit-rs-1-billion/)*
-
-The Colombo bourse continued on its negative run yesterday as net foreign outflows crossed the Rs. 1 billion mark in less than 15 market days in the New Year. The reason for the selling pressure was the belief that upcoming corporate earnings are not likely to be favourable, market analysts said.
-
-Amid those developments both indices move downwards. The All- Share Price Index went down by 65.6 points and S and P SL20 declined by 22.3 points.
-
-[⇨](http://island.lk/net-foreign-outflows-within-first-15-days-of-new-year-hit-rs-1-billion/)
-
-### First Capital celebrates double wins at SLIM Brand Excellence Awards
-
-*2024-01-17 20:08:00 - [islandlk](http://island.lk/first-capital-celebrates-double-wins-at-slim-brand-excellence-awards/)*
-
-First Capital Holdings PLC, the pioneering investment institution, has achieved a significant milestone by clinching two prestigious awards at the SLIM Brand Excellence Awards 2023, marking its debut at the award ceremony. The company’s outstanding brand performance in the capital market sector was recognized in the B2B Brand of the Year category, earning the Silver award, and the Turnaround Brand of the Year category, earning the Bronze award.
-
-[⇨](http://island.lk/first-capital-celebrates-double-wins-at-slim-brand-excellence-awards/)
 
 ### Antonians beat Ananda after 76 years
 
@@ -759,56 +426,6 @@ The last Antonian win at home was in 1948, thus ending a long wait of 76 years. 
 
 [⇨](https://www.dailymirror.lk/breaking-news/Antonians-beat-Ananda-after-76-years/108-275214)
 
-### Global reputation expert to speak on vital topic for corporate and political leaders
-
-*2024-01-17 20:06:00 - [islandlk](http://island.lk/global-reputation-expert-to-speak-on-vital-topic-for-corporate-and-political-leaders/)*
-
-In a world that has lurched from VUCA to RUPT, how can businesses navigate the complexities of managing Reputation, Risk and Regulation?
-
-The answers that leaders need – to rethink, reframe and lead through the turbulence they are experiencing, may be forthcoming at a timely talk in Colombo by Ashwani Singla, a globally-renowned reputation management specialist.
-
-[⇨](http://island.lk/global-reputation-expert-to-speak-on-vital-topic-for-corporate-and-political-leaders/)
-
-### දුමින්ද සිල්වා ජපුර රෝහලේ
-
-*2024-01-17 19:54:18 - [adalk](https://www.ada.lk/breaking_news/දුමින්ද-සිල්වා-ජපුර-රෝහලේ/11-407605)*
-
-හිටපු පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද සිල්වා මහතාට ඇති වී තිබෙන රෝගී තත්වය මත ඔහු ජයවර්ධන පුර රෝහලෙහි ප්‍රතිකාර ලබා ගනිමින් සිටින බව බන්ධනාගාර මාධ්‍ය ප්‍රකාශක,  බන්ධනාගාර කොමසාරිස්  ගාමිණී බී. දිසානායක මහතා අද කළ විමසීමකදී සඳහන් කළේය.
-
-වෛද්‍යවරුන්ගේ නිර්දේශ මත දුමින්ද සිල්වා මහතා යම් කාලයක සිට බන්ධනාගාර නිලධාරීන්ගේ ආරක්ෂාව යටතේ ප්‍රතිකාර ලබා ගනිමින් සිටින බවද ඒ මහතා පැවසීය.
-
-◼️
-
-### හරක් කටාව වෙන තැනකට ගෙන යනවනම් අධිකරණයේ අවසරය ඕනෑ
-
-*2024-01-17 19:39:38 - [adalk](https://www.ada.lk/breaking_news/හරක්-කටාව-වෙන-තැනකට-ගෙන-යනවනම්-අධිකරණයේ-අවසරය-ඕනෑ/11-407603)*
-
-රහස් පොලිස් අත්අඩංගුවේ පසුවන නඳුන් චින්තක වික්‍රමරත්න හෙවත් හරක් කටා නමැත්තා රඳවා සිටින ස්ථානයෙන් වෙනත් ස්ථානයකට රැගෙන යන්නේ නම් අධිකරණයෙන් අවසර ගත යුතු බවට අභියාචනාධිකරණය රහස් පොලීසියට අද (17දා) නියම කළේය.
-
-අත්අඩංගුවේ පසුවන සිය පුත්‍රයාට පනවා ඇති රැඳවුම් නියෝගය තවදුරටත් දීර්ඝ කිරීම වැළැක්වීමේ නියෝගයක් නිකුත් කරන්නැයි ඉල්ලා හරක් කටාගේ පියා ඉදිරිපත් කළ පෙත්සමක් සලකා බැලීමෙන් අනතුරුව අභියාචනාධිකරණය එලෙස නියම කළේය.
-
-[⇨](https://www.ada.lk/breaking_news/හරක්-කටාව-වෙන-තැනකට-ගෙන-යනවනම්-අධිකරණයේ-අවසරය-ඕනෑ/11-407603)
-
-### යුක්තිය මෙහෙයුමට මහා සංඝරත්නයේ ආශීර්වාදය තිබෙනවා
-
-*2024-01-17 19:33:06 - [adalk](https://www.ada.lk/breaking_news/යුක්තිය-මෙහෙයුමට-මහා-සංඝරත්නයේ-ආශීර්වාදය-තිබෙනවා/11-407602)*
-
-විදෙස් රටවල සැඟව සිට මෙරට අපරාධ මෙහෙයවන අපරාධකරුවන් අත්අඩංගුවට ගැනීම සඳහාඑම විදෙස් රටවල් සමග සාකච්ඡා කොට වැඩපිළිවෙලක්සකසා ගන්නා ලෙසත්අපරාධ මර්ධනය සඳහා දැනට ක්‍රියාත්මක යුක්තිය මෙහෙයුමවැඩපිළිවෙලටමහා සංඝරත්නයේ ආශීර්වාදය හිමිවන බවත්මල්වතු පාර්ශවයේ මහානායක අතිපූජ්‍ය තිබ්බුටුවාවේ ශ්‍රී සිද්ධාර්ථ සුමංගල මහා නා හිමියන් පැවසීය .
-
-[⇨](https://www.ada.lk/breaking_news/යුක්තිය-මෙහෙයුමට-මහා-සංඝරත්නයේ-ආශීර්වාදය-තිබෙනවා/11-407602)
-
-### අනවසර විදුලි රැහැන්වලට අලි ඇතුන් 50ක් පසුගිය වසරේ මිය ගිහින්
-
-*2024-01-17 19:25:59 - [adalk](https://www.ada.lk/breaking_news/අනවසර-විදුලි-රැහැන්වලට-අලි-ඇතුන්-50ක්-පසුගිය-වසරේ-මිය-ගිහින්/11-407601)*
-
-ලංවිම විදුලි සැපයුම අනවසරයෙන් වැටවල්වලට හෝ රැහැන්වලට සම්බන්ධ කිරීම මගින් අලි ඇතුන් 50 දෙනෙකු පමණ මරණයට පත්ව ඇති බව ලංකා විදුලි බල මණ්ඩලය පවසයි.
-
-ලංකා විදුලිබල මණ්ඩලය මෙම නීති විරෝධි ක්‍රියාව සම්බන්ධයෙන් දැනටමත් සුදුසු විවිධ ක්‍රියාමාර්ග ගෙන ඇති බවත් රටේ වන අලි සම්පත රැක ගැනීමට ජනතා සහායද අපේක්ෂා කරන බව එම මණ්ඩලය දැනුම් දෙයි.
-
-ඒ අනුව විදුලි සැපයුම අනවසරයෙන් වැටවල්වලට හෝ රැහැන්වලට සම්බන්ධ කිරීම් පිළිබඳව 1987 අංකයය ඔස්සේ වහාම ලංවිම දැනුවත් කරන ලෙසද එම මණ්ඩලය පවසයි.
-
-[⇨](https://www.ada.lk/breaking_news/අනවසර-විදුලි-රැහැන්වලට-අලි-ඇතුන්-50ක්-පසුගිය-වසරේ-මිය-ගිහින්/11-407601)
-
 ### உடனடியாக தொடர்பு கொள்ளுங்கள்...
 
 *2024-01-17 19:17:16 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/உடனடியாக-தொடர்பு-கொள்ளுங்கள்/175-331691)*
@@ -819,48 +436,6 @@ The answers that leaders need – to rethink, reframe and lead through the turbu
 
 ◼️
 
-### Sri Lankan President backs debt relief for Africa
-
-*2024-01-17 19:16:00 - [adaderanalk](https://www.adaderana.lk/news/96490/sri-lankan-president-backs-debt-relief-for-africa-)*
-
-Sri Lanka is expecting an economic growth of 2% in 2024, which is likely to further increase to 4% or 5% in 2025, says President Ranil Wickremesinghe.
-
-The Head of State made these remarks on Wednesday while speaking during a panel discussion on the sidelines of the World Economic Forum in Davos, Switzerland.
-
-[⇨](https://www.adaderana.lk/news/96490/sri-lankan-president-backs-debt-relief-for-africa-)
-
-### WHO declares Sri Lanka has achieved Hepatitis B control
-
-*2024-01-17 19:07:00 - [adaderanalk](https://www.adaderana.lk/news/96489/who-declares-sri-lanka-has-achieved-hepatitis-b-control)*
-
-In a significant milestone, the World Health Organization (WHO) declared on Wednesday that both Sri Lanka and Maldives have successfully achieved control over the deadly hepatitis B disease.
-
-This comes after an expert panel verified that the two countries have had consistently high coverage of Hepatitis B vaccine doses in infants and a low prevalence of the deadly disease, corroborated through serological surveys conducted recently in both countries.
-
-[⇨](https://www.adaderana.lk/news/96489/who-declares-sri-lanka-has-achieved-hepatitis-b-control)
-
-### වැට් වැඩිවීම ජනතාවට වගේම අපිටත් අමාරුයි
-
-*2024-01-17 19:04:20 - [adalk](https://www.ada.lk/breaking_news/වැට්-වැඩිවීම-ජනතාවට-වගේම-අපිටත්-අමාරුයි/11-407600)*
-
-වැට් බදු වැඩිකිරීම ජනතාවට මෙන්ම තමන්ටත් අමාරු බව හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා අද පැවසීය .
-
-ඒ මහතා මේ අදහස් පලකලේ කළුතර සමුපකාර ගොඩනැගිල්ල විවෘත කිරීමේ අවස්ථාවට එක්විමෙන් පසු මාධ්‍යයට අදහස් දක්වමිනි.
-
-ජනතාවගේ අමාරුකම පිළිබඳ පක්ෂ නායක රැස්වීමේදී වත්මන් ජනාධිපති වරයා දැනුවත් කරන බවද ඒ මහතා පැවසීය.
-
-[⇨](https://www.ada.lk/breaking_news/වැට්-වැඩිවීම-ජනතාවට-වගේම-අපිටත්-අමාරුයි/11-407600)
-
-### Sri Lanka to issue on arrival driving license for foreigners from April: State Minister
-
-*2024-01-17 19:00:00 - [economynextcom](https://economynext.com/sri-lanka-to-issue-on-arrival-driving-license-for-foreigners-from-april-state-minister-147691/)*
-
-ECONOMYNEXT – Sri Lanka has taken steps to issue licenses for foreigners on arrival at the airport from April and end a lengthy process to obtain them at the Department of Motor Traffic (DMT) in Colombo suburb, State Transport Minister Lasantha Alagiyawanna said.
-
-The move could also help the island nation to earn foreign exchange for the service which it now provides for in local currency, two government official said.
-
-[⇨](https://economynext.com/sri-lanka-to-issue-on-arrival-driving-license-for-foreigners-from-april-state-minister-147691/)
-
 ### விவாதத்தை ஒத்திவைக்கவும்: எதிர்க்கட்சி வலியுறுத்தல்
 
 *2024-01-17 18:56:09 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/விவாதத்தை-ஒத்திவைக்கவும்-எதிர்க்கட்சி-வலியுறுத்தல்/175-331690)*
@@ -868,18 +443,6 @@ The move could also help the island nation to earn foreign exchange for the serv
 அடுத்த வாரம் திட்டமிடப்பட்டுள்ள உத்தேச நிகழ்நிலை பாதுகாப்பு சட்டமூலம் மீதான விவாதத்தை ஒத்திவைத்து, பங்குதாரர்களுடன் மற்றொரு சுற்று விவாதத்தை தொடங்குமாறு பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி (SJB) இன்று அரசாங்கத்தை வலியுறுத்தியுள்ளது.
 
 [⇨](https://www.tamilmirror.lk/செய்திகள்/விவாதத்தை-ஒத்திவைக்கவும்-எதிர்க்கட்சி-வலியுறுத்தல்/175-331690)
-
-### Sri Lanka seeks investor interest to sell Litro Gas
-
-*2024-01-17 18:51:00 - [economynextcom](https://economynext.com/sri-lanka-seeks-investor-interest-to-sell-litro-gas-147689/)*
-
-ECONOMYNEXT – Sri Lanka’s State-owned Enterprise Restructuring Unit has called for expressions of interest to sell Litro Gas and Litro Gas Terminal according to a public notice.
-
-The government has 99.93 percent of the shares through Sri Lanka Insurance Corporation, and four workers have the balance.
-
-The firm supplies 4.7 million households and 80 percent of the market is domestic. It has 14,000 business customers. It operates two fuel stations in the Southern Expressway.
-
-[⇨](https://economynext.com/sri-lanka-seeks-investor-interest-to-sell-litro-gas-147689/)
 
 ### 51 ஆசிரியர்களுக்கு அதிரடி இடமாற்றம்
 
@@ -901,16 +464,6 @@ Court of Appeal Justice D.N. Samara made this order pursuant to a writ petition 
 
 [⇨](https://www.dailymirror.lk/breaking-news/Court-prevents-police-from-moving-Harak-Kata-without-notifying-Magistrate/108-275212)
 
-### Sri Lanka agriculture to go high tech with 100 drones
-
-*2024-01-17 18:30:00 - [economynextcom](https://economynext.com/sri-lanka-agriculture-to-go-high-tech-with-100-drones-147677/)*
-
-ECONOMYNEXT – The Agriculture Sector Skills Council, a private sector professional body, handed over 100 agricultural drones to the Department of Agrarian Development to drive the modernization of the country’s agricultural sector.
-
-The drones were handed over at the International Container Terminal of the Colombo Port on Wednesday (17).
-
-[⇨](https://economynext.com/sri-lanka-agriculture-to-go-high-tech-with-100-drones-147677/)
-
 ### ரயிலுடன் கார் மோதியதில் நால்வர் படுகாயம்
 
 *2024-01-17 18:15:13 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ரயிலுடன்-கார்-மோதியதில்-நால்வர்-படுகாயம்/175-331688)*
@@ -918,36 +471,6 @@ The drones were handed over at the International Container Terminal of the Colom
 கொழும்பில் இருந்து பண்டாரநாயக்க கட்டுநாயக்க சர்வதேச விமான நிலையத்திற்கு எரிபொருள் ஏற்றிச் சென்ற ரயில் குடஹகபொல ரயில்  கடவையில் (லைட் என்ட் பெல் ) பாதுகாப்பற்ற முறையில் பயணித்த கார் ஒன்று ரயிலுடன் மோதியதில் நான்கு பேர் காயமடைந்து சீதுவ வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர் என பொலிஸார் தெரிவித்தனர்.
 
 [⇨](https://www.tamilmirror.lk/செய்திகள்/ரயிலுடன்-கார்-மோதியதில்-நால்வர்-படுகாயம்/175-331688)
-
-### Four persons critically injured in car-train collision
-
-*2024-01-17 18:13:00 - [adaderanalk](https://www.adaderana.lk/news/96488/four-persons-critically-injured-in-car-train-collision-)*
-
-Four persons have been admitted to the Ragama Hospital with serious injuries after a car collided with a train at the Kudahakapola level crossing.
-
-Accordingly, the four persons, identified as a couple, a mother and her daughter, were seriously injured when the car they were travelling in collided with a fuel tank wagon train plying towards Katunyake.
-
-The group, identified as residents of Gampaha, is believed to have been travelling back home after attending a wedding.
-
-◼️
-
-### Sri Lanka’s tuk tuk drivers to be registered, issued QR code
-
-*2024-01-17 18:00:00 - [economynextcom](https://economynext.com/sri-lankas-tuk-tuk-drivers-to-be-registered-issued-qr-code-147649/)*
-
-ECONOMYNEXT – A database containing details of tuk tuk (three-wheeler) drivers will be introduced and drivers will be issued a QR code, Sri Lanka’s Minister of Labour and Foreign Employment has said.
-
-[⇨](https://economynext.com/sri-lankas-tuk-tuk-drivers-to-be-registered-issued-qr-code-147649/)
-
-### Sri Lanka 3-month T-bill yield down 36bp
-
-*2024-01-17 17:58:00 - [economynextcom](https://economynext.com/sri-lanka-3-month-t-bill-yield-down-36bp-147643/)*
-
-ECONOMYNEXT – Sri Lanka’s Treasuries yields for 3 month bills fell by 36 basis points after Wednesday’s auction with all offered 95 billion rupees of offered bills sold, data from the state debt office showed.
-
-The debt office accepted 37 billion rupees in 3-month bills at 13.91 percent, down by 36 basis points from a week earlier, after offering 30 billion rupees.
-
-[⇨](https://economynext.com/sri-lanka-3-month-t-bill-yield-down-36bp-147643/)
 
 ### ஜல்லிக்கட்டில்   செந்திலின் காளை வென்றது
 
@@ -959,40 +482,6 @@ The debt office accepted 37 billion rupees in 3-month bills at 13.91 percent, do
 
 ◼️
 
-### Court approval required for transfer of ‘Harak Kata’, Appeals Court informs CID
-
-*2024-01-17 17:51:00 - [adaderanalk](https://www.adaderana.lk/news/96487/court-approval-required-for-transfer-of-harak-kata-appeals-court-informs-cid-)*
-
-The Court of Appeals on Wednesday (17 Jan.) informed the Criminal Investigations Department (CID) that if notorious underworld figure Nadun Chinthaka Wickramaratne, alias ‘Harak Kata’, is to be transferred from his current site of detention, it must be done with the approval of the courts.
-
-Accordingly, the Court informed the CID that consent must first be obtained from both, the Appellate Court and the Colombo Fort Magistrate’s Court, prior to any such transfer.
-
-[⇨](https://www.adaderana.lk/news/96487/court-approval-required-for-transfer-of-harak-kata-appeals-court-informs-cid-)
-
-### Sri Lanka rupee closes stronger at 320.90/321.10 to the US dollar
-
-*2024-01-17 17:33:00 - [economynextcom](https://economynext.com/sri-lanka-rupee-closes-stronger-at-320-90-321-10-to-the-us-dollar-147633/)*
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 320.90/321.10 to the US dollar on Wednesday, from 321.40/60 the previous day, dealers said.
-
-A bond maturing on 01.06.2025 closed at 13.40/60 percent from 13.40/65 percent.
-
-A bond maturing on 01.02.2026 closed at 13.60/75 percent from 13.70/75 percent.
-
-A bond maturing on 15.01.2027 closed at 13.70/85 percent from 13.75/90 percent.
-
-A bond maturing on 15.03.2028 closed at 14.05/10 percent from 14.15/20 percent.
-
-[⇨](https://economynext.com/sri-lanka-rupee-closes-stronger-at-320-90-321-10-to-the-us-dollar-147633/)
-
-### தேசிய உறவுகளிலும் சர்வதேச உறவுகளிலும் அரசாங்கத்தின் நடத்தை ஒழுக்கமுறைமையின் அடிப்படையில் அமையவேண்டும்
-
-*2024-01-17 17:28:00 - [virakesarilk](https://www.virakesari.lk/article/174175)*
-
-மற்றையவர்களின் நல்வாழ்வு பற்றி அக்கறைகொள்வதும் பொது நன்மையை உறுதிசெய்வதுமே ஒழுக்க முறைைமை அல்லது நீதிநெறி எனப்படுகிறது. அதன் அடிப்படையில் அரசாங்கம் பணியாற்றவேண்டியது அவசியம். " எம்மைப் போன்றே அயலவர்களையும் நேசிப்பது மனித சமூகத்தை ஒழுங்கமைக்கும் ஒரு உண்மையாகும். அது மாத்திரமே சமூக ஒழுக்க முறைமையில் சகல விவகாரங்களையும் தீர்மானிக்கும்" என்று தத்துவஞானி ஜோன் லொக் கூறினார்.
-
-[⇨](https://www.virakesari.lk/article/174175)
-
 ### Postpone debate on Online Safety Bill: SJB
 
 *2024-01-17 17:27:00 - [dailymirrorlk](https://www.dailymirror.lk/breaking-news/Postpone-debate-on-Online-Safety-Bill-SJB/108-275210)*
@@ -1002,3 +491,511 @@ Colombo, Jan. 17 (Daily Mirror)- The main opposition Samagi Jana Balawegaya (SJB
 The suggestion came from SJB MP Eran Wickramaratne, who told a news briefing that more discussions are needed to address the issues pertaining to the legislation.
 
 [⇨](https://www.dailymirror.lk/breaking-news/Postpone-debate-on-Online-Safety-Bill-SJB/108-275210)
+
+### விமான  கழிப்பறையில் 1 மணிநேரம்  சிக்கிய பயணி
+
+*2024-01-17 17:18:19 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/விமான-கழிப்பறையில்-1-மணிநேரம்-சிக்கிய-பயணி/175-331685)*
+
+இந்தியாவில் மும்பையிலிருந்து பெங்களூருக்குப் பயணம் செய்த பயணி ஒருவர் விமானத்தின் கழிப்பறையில் மாட்டிக்கொண்டார்.
+
+SpiceJet விமானத்தில் அந்தச் சம்பவம் நடந்தது. அந்தக் கழிப்பறையின் கதவு திடீரெனப் பழுதானதால் ஒரு மணி நேரத்துக்கும் மேலாக அவர் உள்ளே சிக்கிக்கொண்டார்.
+
+விமானம் பெங்களூரில் தரையிறங்கிய பிறகே அவர் கழிப்பறையில் இருந்து வெளியே கொண்டுவரப்பட்டார். அவருக்கு உடனடியாகச் சிகிச்சை வழங்கப்பட்டது.நடந்த சம்பவத்துக்காக SpiceJet நிறுவனம் பயணியிடம் மன்னிப்புக் கேட்டது.
+
+[⇨](https://www.tamilmirror.lk/செய்திகள்/விமான-கழிப்பறையில்-1-மணிநேரம்-சிக்கிய-பயணி/175-331685)
+
+### Police fire tear gas to disperse IUSF protest
+
+*2024-01-17 17:02:00 - [dailymirrorlk](https://www.dailymirror.lk/breaking-news/Police-fire-tear-gas-to-disperse-IUSF-protest/108-275209)*
+
+Colombo, Jan. 17 (Daily Mirror)- Police have fired tear gas and water cannons to disperse a protest organised by the students of the Inter University Student Federation (IUSF) in Wijerama, Nugegoda.
+
+◼️
+
+### Man locked in India plane toilet for over an hour
+
+*2024-01-17 16:31:00 - [dailymirrorlk](https://www.dailymirror.lk/international/Man-locked-in-India-plane-toilet-for-over-an-hour/107-275208)*
+
+India, Jan 17, (BBC) - A passenger in India was locked in an airplane toilet for more than an hour after its door malfunctioned mid-journey.
+
+The man was on board a SpiceJet flight from Mumbai to Bengaluru city - typically a 105-minute journey - when he got stuck inside the tiny lavatory.
+
+He was rescued early Tuesday morning after the flight landed in Bengaluru.
+
+SpiceJet has issued an apology, saying it regretted the "inconvenience caused to the passenger".
+
+[⇨](https://www.dailymirror.lk/international/Man-locked-in-India-plane-toilet-for-over-an-hour/107-275208)
+
+### Russian Federation donates sunflower oil worth USD 1.5 mn to Sri Lanka
+
+*2024-01-17 16:22:00 - [dailymirrorlk](https://www.dailymirror.lk/breaking-news/Russian-Federation-donates-sunflower-oil-worth-USD-1-5-mn-to-Sri-Lanka/108-275207)*
+
+Colombo, Jan. 17 (Daily Mirror)- The Russian Federation has donated USD 1.5 million worth of sunflower oil to Sri Lanka through the UN World Food Programme, the President’s Media Division (PMD) said.
+
+The official handing over ceremony took place at the Partnership Secretariat for World Food Programme Co-operation (PSWFPC) premises in Colombo, yesterday (16).
+
+[⇨](https://www.dailymirror.lk/breaking-news/Russian-Federation-donates-sunflower-oil-worth-USD-1-5-mn-to-Sri-Lanka/108-275207)
+
+### Sri Lanka achieves Hepatitis B control
+
+*2024-01-17 16:16:00 - [dailymirrorlk](https://www.dailymirror.lk/breaking-news/Sri-Lanka-achieves-Hepatitis-B-control/108-275206)*
+
+Colombo, Jan 17 -  Sri Lanka and Maldives have achieved hepatitis B control, the World Health Organization announced today after an expert panel verified that the two countries have had consistently high coverage of hepatitis B vaccine doses in infants and a low prevalence of the deadly disease, corroborated through serological surveys conducted recently in both countries.
+
+[⇨](https://www.dailymirror.lk/breaking-news/Sri-Lanka-achieves-Hepatitis-B-control/108-275206)
+
+### Theekshana makes top ten ODI bowling move as T20Is lead to host of changes
+
+*2024-01-17 16:08:00 - [dailymirrorlk](https://www.dailymirror.lk/breaking-news/Theekshana-makes-top-ten-ODI-bowling-move-as-T20Is-lead-to-host-of-changes/108-275205)*
+
+Jan. 17 (ICC) - While Wanindu Hasaranga's seven-wicket haul led to a 28-place jump, it was compatriot Maheesh Theekshana to make a noteworthy move to equal-eighth on the MRF Tyres ICC ODI Bowling Rankings.
+
+Theekshana joined Afghan Mohammad Nabi with a rating of 648 after the latest update on Wednesday, after taking 1/15 (5) in a strong eight-wicket win over Zimbabwe at the R.Premadasa Stadium in Colombo.
+
+[⇨](https://www.dailymirror.lk/breaking-news/Theekshana-makes-top-ten-ODI-bowling-move-as-T20Is-lead-to-host-of-changes/108-275205)
+
+### ரஷ்யாவால் சூரியகாந்தி எண்ணெய் நன்கொடை
+
+*2024-01-17 15:32:56 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ரஷ்யாவால்-சூரியகாந்தி-எண்ணெய்-நன்கொடை/175-331669)*
+
+ரஷ்ய அரசாங்கத்துக்கும் இலங்கைக்கும் இடையிலான தொடர்ச்சியான ஒத்துழைப்பை பிரதிபலிக்கும் வகையில், ஐக்கிய நாடுகளின் உலக உணவுத் திட்டத்தின் மூலம் ரஷ்யாவிலிருந்து இலங்கைக்கு 1.5 மில்லியன் அமெரிக்க டொலர் பெறுமதியான சூரியகாந்தி எண்ணெய் நன்கொடையாக வழங்கப்பட்டுள்ளது.
+
+கொழும்பில் உள்ள உலக உணவுத் திட்ட ஒத்துழைப்புத் தரப்பு செயலக வளாகத்தில் செவ்வாய்க்கிழமை (16) இலங்கை அரசாங்கத்திடம் நன்கொடை உத்தியோகபூர்வமாக கையளிக்கப்பட்டது.
+
+[⇨](https://www.tamilmirror.lk/செய்திகள்/ரஷ்யாவால்-சூரியகாந்தி-எண்ணெய்-நன்கொடை/175-331669)
+
+### கொத்து சாப்பிட்ட பெண் நிரந்தர உறக்கம்
+
+*2024-01-17 15:08:07 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கொத்து-சாப்பிட்ட-பெண்-நிரந்தர-உறக்கம்/175-331666)*
+
+இரவு கொத்து சாப்பிட்டு தூங்கிய பெண்ணொருவர்  காலையில் உயிரிழந்த நிலையில் சடலமாக  மீட்கப்பட்டுள்ளதாக அங்குருவாதொட்ட பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஹொரண, வல்பிட்ட,  பின்னகொலஹேன பிரதேசத்தை சேர்நத திலினி மதுஷிகா என்ற ( 33 வயதுடைய )  மூன்று பிள்ளைகளின் தாயே இவ்வாறு உயிரிழந்துள்ளார்.
+
+[⇨](https://www.tamilmirror.lk/செய்திகள்/கொத்து-சாப்பிட்ட-பெண்-நிரந்தர-உறக்கம்/175-331666)
+
+### Productive economy cannot be built in a single day: Susil
+
+*2024-01-17 15:06:00 - [dailymirrorlk](https://www.dailymirror.lk/breaking-news/Productive-economy-cannot-be-built-in-a-single-day-Susil/108-275202)*
+
+Colombo, Jan 17 (Daily Mirror) - A productive economy cannot be built in a single day, and the entire nation should work with dedication towards that, Education Minister Susil Premajayantha said.
+
+More than enough space is available in all 19 open university premises owned by the Education Ministry, and immediate action should be taken to carry out cultivations that can be used on a daily basis.
+
+[⇨](https://www.dailymirror.lk/breaking-news/Productive-economy-cannot-be-built-in-a-single-day-Susil/108-275202)
+
+### Emirates readies to recruit 5,000 cabin crew in 2024
+
+*2024-01-17 14:39:00 - [dailymirrorlk](https://www.dailymirror.lk/breaking-news/Emirates-readies-to-recruit-5-000-cabin-crew-in-2024/108-275203)*
+
+Emirates readies to recruit 5,000 cabin crew in 2024In 2024, Emirates’ recruitment team will host open days and assessments in more than 460 cities across six continents, reflecting the span of the airline's network and the diversity of its cabin crew team, while flying the flag for living and working in dynamic Dubai.
+
+[⇨](https://www.dailymirror.lk/breaking-news/Emirates-readies-to-recruit-5-000-cabin-crew-in-2024/108-275203)
+
+### சேவல் சண்டையால்  ஏ.டி.எம்.களில் பணம் தட்டுப்பாடு
+
+*2024-01-17 14:28:21 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/சேவல்-சண்டையால்-ஏ-டி-எம்-களில்-பணம்-தட்டுப்பாடு/175-331663)*
+
+ஆந்திர மாநிலத்தில் சங்கராந்தி பண்டிகையையொட்டி கடந்த 3 நாட்களாக சேவல் சண்டைகள் களை கட்டி உள்ளது. மாநிலம் முழுவதும் இந்த சேவல் சண்டைக்கு தடை விதிக்கப்பட்டிருந்தாலும் அதனை மீறி போட்டிகள் நடத்தி வருகின்றனர்.
+
+ஆந்திர மாநிலத்தில் பல்வேறு இடங்களில் வயல்வெளிகளில் பிரமாண்ட கூடாரங்கள் அமைக்கப்பட்டுள்ளன. இங்கு நூற்றுக்கணக்கான சேவல்கள் பங்குபெறும் சண்டைகள் நடத்தப்பட்டு வருகின்றனு.
+
+[⇨](https://www.tamilmirror.lk/செய்திகள்/சேவல்-சண்டையால்-ஏ-டி-எம்-களில்-பணம்-தட்டுப்பாடு/175-331663)
+
+### ஸ்ரீலங்கன் ஏர்லைன்ஸுக்கு மற்றுமொரு புதிய விமானம்
+
+*2024-01-17 14:11:41 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீலங்கன்-ஏர்லைன்ஸுக்கு-மற்றுமொரு-புதிய-விமானம்/175-331660)*
+
+ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவனம் தனது விமானப் பிரிவினருக்காக மற்றுமொரு புத்தம் புதிய           A-330 -243 எயார்பஸ் ரக விமானத்தை குத்தகை அடிப்படையில் பெற்று கட்டுநாயக்க விமான நிலையத்திற்கு கொண்டு வந்துள்ளதாக ஸ்ரீலங்கன் ஏர்லைன்ஸ் நிறுவன தொடர்பாடல் பிரிவின் தலைவர் தீபால் பெரேரா தெரிவித்தார்.
+
+[⇨](https://www.tamilmirror.lk/செய்திகள்/ஸ்ரீலங்கன்-ஏர்லைன்ஸுக்கு-மற்றுமொரு-புதிய-விமானம்/175-331660)
+
+### கடுவன்களுக்கு கருத்தடை
+
+*2024-01-17 12:52:38 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/கடுவன்களுக்கு-கருத்தடை/175-331654)*
+
+மாத்தளை மாவட்டத்தில் குரங்குகளின் எண்ணிக்கை அதிகரித்துள்ள நிலையில், கருத்தடை திட்டத்தை வெகு விரைவில் அமுல்படுத்தவுள்ளதாக பாராளுமன்ற உறுப்பினர் நாலக பண்டார கோட்டேகொட தெரிவித்துள்ளார்.
+
+மாத்தளை மாவட்ட ஒருங்கிணைப்புக் குழு கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+மேலும் அவர், “மாத்தளை மாவட்டத்தில் கடந்த சில காலங்களாக ஆண் குரங்குகள் அதிகமாக பயிர்செய்கைகளுக்கு பாதிப்பை ஏற்படுத்துவதாக தகவல் வெளியாகியுள்ளது.
+
+[⇨](https://www.tamilmirror.lk/செய்திகள்/கடுவன்களுக்கு-கருத்தடை/175-331654)
+
+### பொது மக்களுக்கு விசேட எச்சரிக்கை
+
+*2024-01-17 12:20:16 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பொது-மக்களுக்கு-விசேட-எச்சரிக்கை/175-331652)*
+
+இலங்கையின் பல பகுதிகளில் காற்றின் தரம் இன்று (17) மோசமடைந்துள்ளதாக மத்திய சுற்றாடல் அதிகாரசபை தெரிவித்துள்ளது.
+
+அதன்படி, இன்று காலை 09.30 மணி நிலவரப்படி கொழும்பு, காலி, குருநாகல் மற்றும் கம்பஹா ஆகிய பகுதிகளில் காற்றின் தரம் ஆரோக்கியமற்றதாக பதிவாகியுள்ளது.
+
+அனுராதபுரம், கண்டி, நீர்கொழும்பு, மிரிஹான மற்றும் பண்டாரவளை பகுதிகளில் உள்ள உணர்திறன் கொண்ட குழுக்களுக்கு காற்றின் தரம் ஆரோக்கியமற்றதாக பதிவு செய்யப்பட்டுள்ளது.
+
+◼️
+
+### Houthis, the Red Sea, and  Sri Lankan Politics
+
+*2024-01-17 02:25:00 - [dailymirrorlk](https://www.dailymirror.lk/opinion/Houthis-the-Red-Sea-and-Sri-Lankan-Politics/172-275150)*
+
+A picture reportedly showing a fire and smoke billowing from Norwegian-owned Front Altair tanker said to have been attacked in the waters of the Gulf of Oman File photo
+
+Naval assets are tools through which a country’s geopolitical standing is constantly being tested – especially in contested waters.
+
+[⇨](https://www.dailymirror.lk/opinion/Houthis-the-Red-Sea-and-Sri-Lankan-Politics/172-275150)
+
+### “Avalokiteshvara Bodhisattva”: ‘Good’ Religious Conmen and ‘Bad’ Religious Conmen
+
+*2024-01-17 02:19:00 - [dailymirrorlk](https://www.dailymirror.lk/opinion/Avalokiteshvara-Bodhisattva-Good-Religious-Conmen-and-Bad-Religious-Conmen/172-275149)*
+
+Viral social media videos showed the man – who had recently arrived from Egypt where he was said to be a dog-walker – being worshipped by the devotees, including a Buddhist nun when he visited the Kelaniya temple.
+
+[⇨](https://www.dailymirror.lk/opinion/Avalokiteshvara-Bodhisattva-Good-Religious-Conmen-and-Bad-Religious-Conmen/172-275149)
+
+### 2024 – The Year of VAT and Elections - EDITORIAL
+
+*2024-01-17 02:18:00 - [dailymirrorlk](https://www.dailymirror.lk/opinion/2024-The-Year-of-VAT-and-Elections-EDITORIAL/172-275148)*
+
+The last year 2023, was a difficult one for us Lankans. This year, with an additional VAT increase, it is surely going to be more challenging to us all, given that salaries have not kept pace with the rising cost of living. The enlargement of the VAT net will surely push many from the middle class into poverty.
+
+[⇨](https://www.dailymirror.lk/opinion/2024-The-Year-of-VAT-and-Elections-EDITORIAL/172-275148)
+
+### Research on sex work during Lankan civil war: Sex  workers and their faint cries to access basic rights
+
+*2024-01-17 02:05:00 - [dailymirrorlk](https://www.dailymirror.lk/news-features/Research-on-sex-work-during-Lankan-civil-war-Sex-workers-and-their-faint-cries-to-access-basic-rights/131-275146)*
+
+Sri Lanka’s sex workers are a socially secluded group who are often denied access to basic rights. They now demand dignity of labor and for authorities to accept that sex work is work (Pic courtesy The Herstories Project, Sri Lanka)
+
+[⇨](https://www.dailymirror.lk/news-features/Research-on-sex-work-during-Lankan-civil-war-Sex-workers-and-their-faint-cries-to-access-basic-rights/131-275146)
+
+### 2024-01-16 (Tuesday)
+
+### Election for the Leadership of the Federal Party and the Future Course of Tamil Politics
+
+*2024-01-16 00:00:00 - [dailymirrorlk](https://www.dailymirror.lk/opinion/Election-for-the-Leadership-of-the-Federal-Party-and-the-Future-Course-of-Tamil-Politics/172-275062)*
+
+As of date, the Tamil polity is in disarray with many parties and groups and leaders. There is no such thing as unity or discipline or understanding even among the leaders of the ITAK. The party looks like a camp with different tents its leaders have built for themselves with different agendas
+
+[⇨](https://www.dailymirror.lk/opinion/Election-for-the-Leadership-of-the-Federal-Party-and-the-Future-Course-of-Tamil-Politics/172-275062)
+
+### Distortion of Religious Teachings and the Freedom of Expression
+
+*2024-01-16 00:00:00 - [dailymirrorlk](https://www.dailymirror.lk/opinion/Distortion-of-Religious-Teachings-and-the-Freedom-of-Expression/172-275060)*
+
+One who has even a slight knowledge of the essence of Buddhism would have been perplexed with the reports of seven individuals with close connections having committed suicide with the advent of the New Year, allegedly to seek eternal peace after a discourse among them based on Buddhism.
+
+[⇨](https://www.dailymirror.lk/opinion/Distortion-of-Religious-Teachings-and-the-Freedom-of-Expression/172-275060)
+
+### Newlywed Sri Lankans  forced to remain childless
+
+*2024-01-16 00:00:00 - [dailymirrorlk](https://www.dailymirror.lk/news-features/Newlywed-Sri-Lankans-forced-to-remain-childless/131-275059)*
+
+Some newlywedded couples argue that love alone is not sufficient to raise children at present and affirm that the economy must support the cause of adding to the population
+
+According to the Department of Census and Statistics the number of new births has decreased by about 100,000 compared to previous years
+
+Newly wedded couples opt for a marriage registration and utilise the money allocated for the wedding ceremony to immigrate
+
+[⇨](https://www.dailymirror.lk/news-features/Newlywed-Sri-Lankans-forced-to-remain-childless/131-275059)
+
+### China Suffers Set Back in Myanmar Peace Effort
+
+*2024-01-16 00:00:00 - [dailymirrorlk](https://www.dailymirror.lk/opinion/China-Suffers-Set-Back-in-Myanmar-Peace-Effort/172-275061)*
+
+Yet another attempt by China to mediate between the Myanmar ethnic rebel groups and the Yangon-based military rulers failed last Saturday. The talks failed to yield results because conflicting interests over-rode the desire for peace.
+
+In Myanmar, political and ethnic divisions are also exacerbated by foreign meddling.
+
+[⇨](https://www.dailymirror.lk/opinion/China-Suffers-Set-Back-in-Myanmar-Peace-Effort/172-275061)
+
+### 2024-01-15 (Monday)
+
+### நீர்க் கட்டணத்தைக் குறைக்க முடியும்;ஜீவன்
+
+*2024-01-15 16:25:17 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/நீர்க்-கட்டணத்தைக்-குறைக்க-முடியும்-ஜீவன்/175-331536)*
+
+மின்சாரக் கட்டணக் குறைப்புக்கு அமைவாக நீர்க் கட்டணத்தைக் குறைக்கும் வகையில் நீர் கட்டணச் சூத்திரமொன்றை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்படும் என நீர் வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு அபிவிருத்தி அமைச்சர் ஜீவன் தொண்டமான் தெரிவித்துள்ளார்.
+
+தேசிய நீர் வழங்கல் வடிகாலமைப்புச் சபை மற்றும் ஆசிய அபிவிருத்தி வங்கியின் (ADB) ஆலோசகர்களுடன் கலந்தாலோசித்து விலைச் சூத்திரம் வகுக்கப்படும் என அமைச்சர் தெரிவித்தார்.
+
+[⇨](https://www.tamilmirror.lk/செய்திகள்/நீர்க்-கட்டணத்தைக்-குறைக்க-முடியும்-ஜீவன்/175-331536)
+
+### பதுளைக்கு பயணித்த பஸ் பற்றி எரிந்தது
+
+*2024-01-15 15:34:10 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பதுளைக்கு-பயணித்த-பஸ்-பற்றி-எரிந்தது/175-331535)*
+
+தெற்கு அதிவேக நெடுஞ்சாலையில் பெலியத்த நுழைவாயிலுக்கு அருகில் இலங்கை போக்குவரத்து சபைக்குச் சொந்தமான பேருந்து ஒன்று தீப்பிடித்து எரிந்துள்ளது.
+
+தீப்பற்றி எரிந்த பேருந்தில் இருந்தவர்கள் அனைவரும் பேருந்தில் இருந்து வெளியேற்றப்பட்டனர் மற்றும் பயணிகள் யாருக்கும் காயம் ஏற்படவில்லை.
+
+பஸ் முற்றாக தீப்பிடித்து எரிந்ததுடன் பொலிஸ் விசேட அதிரடிப்படையினர் தீயை அணைக்கும் பணியில் ஈடுபட்டனர்.
+
+[⇨](https://www.tamilmirror.lk/செய்திகள்/பதுளைக்கு-பயணித்த-பஸ்-பற்றி-எரிந்தது/175-331535)
+
+### Int’l rights groups urge govt to stop ‘abusive anti-drug operation’ and release arbitrary detainees
+
+*2024-01-15 15:34:00 - [adaderanalk](https://www.adaderana.lk/news/96418/intl-rights-groups-urge-govt-to-stop-abusive-anti-drug-operation-and-release-arbitrary-detainees-)*
+
+Over 30 international human rights organisations including Amnesty International, Human Rights Watch and the International Commission of Jurists have expressed their deep concern regarding the “drastic intensification” of anti-drug operations in Sri Lanka leading to significant human rights violations.
+
+[⇨](https://www.adaderana.lk/news/96418/intl-rights-groups-urge-govt-to-stop-abusive-anti-drug-operation-and-release-arbitrary-detainees-)
+
+### ’அவலோகிதேஸ்வர போதிசத்வா’ கைது
+
+*2024-01-15 15:26:54 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/அவலோகிதேஸ்வர-போதிசத்வா-கைது/175-331534)*
+
+இலங்கையில் 'அவலோகிதேஸ்வர போதிசத்வா' என தன்னைத் தானே அறிவித்துக் கொண்ட மகிந்த கொடித்துவக்கு பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+‘அவலோகிதேஸ்வரர்’ என்று கூறிக்கொள்ளும் குறித்த நபர் பன்னிபிட்டியவில் குற்றப் புலனாய்வுப் பிரிவினரால் கைது செய்யப்பட்டுள்ளார் என பொலிஸார் தெரிவித்தனர்.
+
+கடந்த வாரம் கொடித்துவக்குவிற்கு எதிராக தாக்கல் செய்யப்பட்ட வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போது, ​​கோட்டை நீதவான் நீதிமன்றினால் அவருக்கு  பயணத்தடை விதிக்கப்பட்டது.
+
+[⇨](https://www.tamilmirror.lk/செய்திகள்/அவலோகிதேஸ்வர-போதிசத்வா-கைது/175-331534)
+
+### තවදුරටත් බලා සිටිනවාද නැත්නම් නැගිටිනවාද?
+
+*2024-01-15 15:15:41 - [adalk](https://www.ada.lk/breaking_news/තවදුරටත්-බලා-සිටිනවාද-නැත්නම්-නැගිටිනවාද-/11-407562)*
+
+උතුරේත් දකුනේත් නැගෙනහිරත් බටහිරත් වෙසෙන සිංහල, දමිළ, මුස්ලිම් බර්ගර් ඇතුළු සෑම ජන කොට්ඨාසයකටම අයත් ජනතාව රටේ පවතින බංකොලොත්භාවය නිසා දැඩි ලෙස අසරණ වී ඇති බවත් කෘෂිකර්මාන්තය මත පදනම් වූ ස්වයංපෝෂිත ජීවන රටාවක් පැවැති අප රට මේ ආකාරයෙන් දැඩි බංකොලොත් භාවයකට පත් වූයේ පැවැති රජයේ අදුරදර්ශී සහ අත්තනෝමතික පාලනය නිසා බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+එකී බංකොලොත්භාවයෙන් බැට කන ජනතාව කබලෙන් ලිපට ඇද දමීමට වත්මන් රජයේ බදු ප්‍රතිපත්තිය හේතු වු බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+[⇨](https://www.ada.lk/breaking_news/තවදුරටත්-බලා-සිටිනවාද-නැත්නම්-නැගිටිනවාද-/11-407562)
+
+### Police Net Over 1,400 WANTED Suspects in 24-Hour Crackdown
+
+*2024-01-15 15:10:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/police-net-over-1-400-wanted-suspects-in-24-hour-crackdown/)*
+
+COLOMBO (News 1st); Sri Lanka police apprehended a staggering 1,468 individuals wanted for various offenses in a 24-hour operation.
+
+This targeted sweep stems from the Acting Inspector General’s directive over the weekened, prioritizing the immediate capture of 42,248 listed suspects.
+
+254 suspects with open warrants for drug offenses were apprehended, alongside 942 individuals wanted for other crimes.
+
+[⇨](https://www.newsfirst.lk/2024/01/15/police-net-over-1-400-wanted-suspects-in-24-hour-crackdown/)
+
+### Police investigating A/L paper leak
+
+*2024-01-15 15:06:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/police-investigating-a-l-paper-leak/)*
+
+COLOMBO (News 1st): An investigation commenced regarding the alleged leak of the Agriculture Question paper one of the Advanced level examination.
+
+The police said that 16 questions of the first paper were found in a mobile device.
+
+The Agriculture second paper of this year's Advanced level examination, which was held on January 10, was suspended.
+
+[⇨](https://www.newsfirst.lk/2024/01/15/police-investigating-a-l-paper-leak/)
+
+### 24 மணிநேரத்தில் 1,400 ற்கும் மேற்பட்டோர் கைது
+
+*2024-01-15 15:05:31 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-1-400-ற்கும்-மேற்பட்டோர்-கைது/175-331532)*
+
+நாடு முழுவதும், குற்றச் செயல்களில் ஈடுபட்ட மொத்தம் 42,248 சந்தேக நபர்களில் 1,468 பேர் கடந்த 24 மணி நேரத்தில் கைது செய்யப்பட்டுள்ளதாக பொது பாதுகாப்பு அமைச்சகம் தெரிவித்துள்ளது.
+
+குற்றச் செயல்களுடன் தொடர்புடைய 42,248 சந்தேக நபர்களின் விரிவான பட்டியலை பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் சகல பொலிஸ் நிலையங்களிலும் குற்றப் பிரிவு பொறுப்பதிகாரிகளிடம் கடந்த சனிக்கிழமை கையளித்தார்.
+
+[⇨](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-1-400-ற்கும்-மேற்பட்டோர்-கைது/175-331532)
+
+### නොකියාම මන්දාම්නුවර ගිය අගමැති
+
+*2024-01-15 15:03:22 - [adalk](https://www.ada.lk/breaking_news/නොකියාම-මන්දාම්නුවර-ගිය-අගමැති/11-407561)*
+
+අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා අද (15දා) දින මන්දාරම්නුවර ජනතාව පෙර දැනුම්දීමකින් තොරව  මුණගැසිණි.
+
+ප්‍රදේශයට බලපාන කරුණු, යටිතල පහසුකම් හා සංචාරක ව්‍යාපාරය පිළිබඳව ඔවුන් මෙහිදී අග්‍රාමාත්‍යවරයා සමග බොහෝ අදහස් හුවමාරු කරගත්තේය.
+
+එළවළු වර්ග ඇතුළු අස්වැන්න කල් ඉකුත් නොවී, ප්‍රධාන වෙළඳපොළට ගෙනයාමට ආර්ථික  මධ්‍යස්ථානයක අවශ්‍යතාවය ඔවුන් දැඩිව පෙන්වා දුන්නේය.
+
+[⇨](https://www.ada.lk/breaking_news/නොකියාම-මන්දාම්නුවර-ගිය-අගමැති/11-407561)
+
+### IMF Talks Tax and Resilience with Sri Lanka’s North
+
+*2024-01-15 14:59:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/imf-talks-tax-and-resilience-with-sri-lanka-s-north/)*
+
+COLOMBO (News 1st); A high-level team from the International Monetary Fund (IMF) visited Sri Lanka's Northern Province on Sunday, holding a focused discussion with Governor P.S.M. Charles and key stakeholders on the region's economic struggles and potential pathways for recovery.
+
+The meeting, organized by the Governor's Secretariat, brought together representatives from Jaffna University, local businesses, small and medium enterprises (SMEs), and the IMF.
+
+[⇨](https://www.newsfirst.lk/2024/01/15/imf-talks-tax-and-resilience-with-sri-lanka-s-north/)
+
+### Over 1,400 wanted suspects arrested within 24-hour ‘Yukthiya’ operation
+
+*2024-01-15 14:57:00 - [adaderanalk](https://www.adaderana.lk/news/96417/over-1400-wanted-suspects-arrested-within-24-hour-yukthiya-operation)*
+
+A total of 1,468 out of 42,248 wanted suspects, in the list shared with all police stations as wanted in connection with various crimes, have been arrested during the last 24 hours under the ‘Yukthiya’ operation, the Ministry of Public Security said.
+
+[⇨](https://www.adaderana.lk/news/96417/over-1400-wanted-suspects-arrested-within-24-hour-yukthiya-operation)
+
+### අවලෝකේතීශ්වර නමින් පෙනී සිටිය මහින්ද අත්අඩංගුවට
+
+*2024-01-15 14:53:21 - [adalk](https://www.ada.lk/breaking_news/අවලෝකේතීශ්වර-නමින්-පෙනී සිටිය-මහින්ද-අත්අඩංගුවට/11-407560)*
+
+අවලෝකේතීශ්වර බෝධිසත්වයන් වහන්සේ බවට තමන්ව හඳුන්වා ගනිමින් බුදුරජාණන් වහන්සේට, භික්ෂූන් වහන්සේලාට හා බෞද්ධාගමට අපහාස වන විකෘති දේශනා කළැයි කියන පුද්ගලයා අද (15) පන්නිපිටිය ප්‍රදේශයේදී අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ කොඩිතුවක්කු මුදියන්සේලාගේ මහින්ද කොඩිතුවක්කු නමැති පුද්ගලයෙකි.
+
+පරිගණක අපරාධ විමර්ශන කොට්ඨාසය විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.‍ෙ
+
+[⇨](https://www.ada.lk/breaking_news/අවලෝකේතීශ්වර-නමින්-පෙනී සිටිය-මහින්ද-අත්අඩංගුවට/11-407560)
+
+### Vietnam Ex Health Minister Gets 18 Years In Jail Over Covid Test Kits Scam
+
+*2024-01-15 14:51:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/vietnam-ex-health-minister-gets-18-years-in-jail%c2%a0over-covid-test-kits-scam/)*
+
+(NDTV); A court in Vietnam on Friday (12) sentenced former Health Minister Nguyen Thanh Long to 18 years in prison after finding him guilty of taking bribes in a coronavirus test kit scandal, state media reported.
+
+[⇨](https://www.newsfirst.lk/2024/01/15/vietnam-ex-health-minister-gets-18-years-in-jail%c2%a0over-covid-test-kits-scam/)
+
+### Air Quality Plummets in Major Districts in Sri Lanka
+
+*2024-01-15 14:47:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/15/air-quality-plummets-in-major-districts-in-sri-lanka/)*
+
+COLOMBO (News 1st); The Central Environmental Authority (CEA) of Sri Lanka is raising serious concerns over a sharp decline in air quality across several key districts of the island nation.
+
+Spokesperson Ajith Weerasundara confirmed a visible decrease in Colombo, Jaffna, and Mannar.
+
+In Colombo, the air quality index (AQI) – a measure of pollutants in the air – soared to unhealthy levels of 105 in densely populated areas like Battaramulla and Colombo Fort.
+
+[⇨](https://www.newsfirst.lk/2024/01/15/air-quality-plummets-in-major-districts-in-sri-lanka/)
+
+### අමතක නොවන උපන්දින තෑග්ගක් දීලා දරුවෝ තුන්දෙනා කළු ගගේ ගියා
+
+*2024-01-15 14:44:46 - [adalk](https://www.ada.lk/breaking_news/අමතක-නොවන-උපන්දින-තෑග්ගක්-දීලා-දරුවෝ-තුන්දෙනා-කළු-ගගේ-ගියා/11-407559)*
+
+"මට අමතක නොවන උපන් දින තෑග්ගක් දීලා දරුවෝ තුන්දෙනාම කළුගගේ ගහගෙන ගියා" යැයි කළු ගගේ ගිලී මියගිය යමල් සපුගේ ඉමංගි චතුභාෂිනී (15) ගේ මව වන වලිමුණි කෝකිලා ජයන්ති සිල්වා මහත්මිය හඩාවැටෙමින් පැවසීය .
+
+කළුගගේ කළුතර විද්‍යාලය ඉදිරිපිට කලපුවේ ඊයේ (14) පස්වරුවේ  දියනෑමට ගොස් සිටියදී දියේගිලී තෙන්නකෝන් ආරච්ච්ලලාගේ තිවිදු සත්සර (18), මුකටියවත්තගේ සුභානී සුපේසලා (16) සහ යමල් සපුගේ ඉමංගි චතුභාෂිනී (15)  යන අය මියගොස් තිබුණි.
+
+[⇨](https://www.ada.lk/breaking_news/අමතක-නොවන-උපන්දින-තෑග්ගක්-දීලා-දරුවෝ-තුන්දෙනා-කළු-ගගේ-ගියා/11-407559)
+
+### බස්වලට ඉල්ලමක්
+
+*2024-01-15 14:34:22 - [adalk](https://www.ada.lk/breaking_news/බස්වලට-ඉල්ලමක්/11-407558)*
+
+ඉදිරියේදී කොළඹ බලා ධාවනය වීමට නියමිත බස් රථ වල, ආසනයක් වෙන් කරවා ගැනීම සඳහා අනුරාධපුර වලිසිංහ හරිස්චන්ද්‍ර මාවතේ පිහිටා ඇති පෞද්ගලික බස් සමාගමක කාර්යාලයේ ඉදිරිපිට අද (15දා) උදෑසන දිගු මහජන  පෝලිමක් දක්නට ලැබුණි.
+
+අලුත් වැඩියා කටයුතු හේතුවෙන් මහව සිට අනුරාධපුර දක්වා මාස හයක කාලයක් දුම්රිය ධාවනය නොකිරීම හේතුවෙන්, මගින්ට බස් රථවල ගමන් කිරීමට සිදු වීම  හේතුවෙන්,  මෙලෙස දිග පෝලිම්  දක්නට ලැබුණු බව මගීහු පවසති .
+
+◼️
+
+### நாடளாவிய ரீதியில் சிறப்பாக இடம்பெற்ற தைப்பொங்கல்
+
+*2024-01-15 14:23:00 - [virakesarilk](https://www.virakesari.lk/article/173985)*
+
+நாட்டில் பொருளாதார நெருக்கடி காணப்பட்டாலும் நாடளவிய ரீதியில் தைப்பொங்கல் பண்டிகை மிகவும் சிறப்பாக கொண்டாடப்பட்டது.
+
+இயற்கைக்கு நன்றி செலுத்தவும் தரணியில் வளம் செழிக்கவும், வேளாண்மைக்கும், அதற்கு உறுதுணையாக இருக்கும், இயற்கைக்கு நன்றி சொல்லி, தைத்திருநாளை வரவேற்கும் பொங்கல் பண்டிகை கொண்டாட்டங்கள் கோலாகலமாக உலகெங்கிலும் வாழும் தமிழர்களால் கொண்டாடப்படுகின்றது.
+
+[⇨](https://www.virakesari.lk/article/173985)
+
+### IRD urges public to beware of confidential information being misused during registration for TIN
+
+*2024-01-15 13:50:00 - [adaderanalk](https://www.adaderana.lk/news/96416/ird-urges-public-to-beware-of-confidential-information-being-misused-during-registration-for-tin-)*
+
+The Inland Revenue Department (IRD) urges the general public to follow the guidelines issued by the department and to use the services of authorized tax consultants and auditors, if such services are necessary, to avoid the misuse of their confidential information.
+
+[⇨](https://www.adaderana.lk/news/96416/ird-urges-public-to-beware-of-confidential-information-being-misused-during-registration-for-tin-)
+
+### GMOA opposes health sector trade unions’ strikes; Nurses not to join planned strike
+
+*2024-01-15 13:19:00 - [adaderanalk](https://www.adaderana.lk/news/96415/gmoa-opposes-health-sector-trade-unions-strikes-nurses-not-to-join-planned-strike-)*
+
+The Government Medical Officers’ Association (GMOA) claims that the island-wide strike action organized by health sector employees is unjustified.
+
+[⇨](https://www.adaderana.lk/news/96415/gmoa-opposes-health-sector-trade-unions-strikes-nurses-not-to-join-planned-strike-)
+
+### CID arrests self-proclaimed ‘Avalokiteshvara Bodhisattva’
+
+*2024-01-15 13:11:00 - [adaderanalk](https://www.adaderana.lk/news/96414/cid-arrests-self-proclaimed-avalokiteshvara-bodhisattva)*
+
+The Criminal Investigation Department (CID) has arrested Mahinda Kodituwakku, the self-proclaimed ‘Avalokiteshvara Bodhisattva’ at Pannipitiya a short while ago.
+
+Kodituwakku is accused of committing irreligious activities that are contrary to Buddhist teachings.
+
+On Friday (12), the Colombo Fort Magistrate’s Court also imposed an overseas travel ban on him.
+
+[⇨](https://www.adaderana.lk/news/96414/cid-arrests-self-proclaimed-avalokiteshvara-bodhisattva)
+
+### ලෝකයේ හොඳම යොවුන් නිරූපන ශිල්පියා ලංකාවෙන්
+
+*2024-01-15 13:03:46 - [adalk](https://www.ada.lk/picture_story/ලෝකයේ-හොඳම-යොවුන්-නිරූපන-ශිල්පියා-ලංකාවෙන්/10-407557)*
+
+මැලේසියාවේ  පැවති ලෝකයේ හොදම නිරූපන ශිල්පීන් තෝරන ( I am model search international - 2024 ) තරගාවලියේ දී ලෝකයේ හොදම ‌යොවුන් නිරූපන ශිල්පියාට හිමි සම්මානය ඇතුළු තවත් ජයග්‍රහණයන් රාශියක් දිනා ගැනීමට ශ්‍රී ලංකාව නියෝජනය කරමින් එයට සහභාගී වූ ශ්‍රී ලංකා  නිරූපන ශිල්පීන්ගේ  කණ්ඩායම සමත් වී තිබූ අතර ඔවුන් අද (15දා) උදෑසන කටුනායක ගුවන් තොටුපොළ වෙත පැමිණියහ .
+
+[⇨](https://www.ada.lk/picture_story/ලෝකයේ-හොඳම-යොවුන්-නිරූපන-ශිල්පියා-ලංකාවෙන්/10-407557)
+
+### ලංකාවේ කරවල හා උම්බලකඩ පළමුවරට කොරියාවට හා ඔස්ට්‍රේලියාවට යයි
+
+*2024-01-15 12:53:12 - [adalk](https://www.ada.lk/breaking_news/ලංකාවේ-කරවල-හා-උම්බලකඩ-පළමුවරට-කොරියාවට-හා-ඔස්ට්‍රේලියාවට-යයි/11-407556)*
+
+නව තාක්ෂණය භාවිතා කරමින් වේලන ලද කරවළ හා උම්බලකඩ කිලෝග්‍රෑම් 10,000කින් යුත් පළමු කන්ටේනරය අපනයනය කිරීම ඊයේ (14) පහජ්ජාව කරවළ හා උම්බලකඩ නිෂ්පාදනය කරන  මෙගාෆිෂ් ආයතනය විසින් සිදු කරනු ලැබීය.
+
+මෙම කර්මාන්ත ශාලාව විසින් නිෂ්පාදිත කරවළ හා උම්බලකඩ පළමු කන්ටේනරය අපනයනය  කෙරෙන අවස්ථාවට කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා ඇතුළු පිරිසක් සහභාගි වූහ.
+
+[⇨](https://www.ada.lk/breaking_news/ලංකාවේ-කරවල-හා-උම්බලකඩ-පළමුවරට-කොරියාවට-හා-ඔස්ට්‍රේලියාවට-යයි/11-407556)
+
+### සියක් නගර ව්‍යාපෘතියට තවත් ලක්ෂ 6000ක්
+
+*2024-01-15 12:03:30 - [adalk](https://www.ada.lk/breaking_news/සියක්-නගර-ව්‍යාපෘතියට-තවත්-ලක්ෂ-6000ක්/11-407555)*
+
+සියක් නගර අලංකරණ ව්‍යාපෘතිය සදහා මෙවර අයවැයෙන් රුපියල් මිලියන 600ක් වෙන්කර ඇති බව නාගරික සංවර්ධන අධිකාරිය පවසයි. එම ප්‍රතිපාදන මගින් ව්‍යාපෘති 9ක වැඩ අවසන් කිරීමට සැලසුම් කර ඇති බවද එම අධිකාරිය සදහන් කරයි.
+
+ගම්පහ, මිනුවන්ගොඩ, පානදුර, අලව්ව, හොරණ හා අවිස්සාවේල්ල යන පොදු වෙළදපොළ සංවර්ධනය කිරීම, වරකාපොළ හා මුලතිව් බස් නැවතුම්පොළ සංවර්ධනය කිරීම සහ නින්දවූර් වෙරළ උද්‍යානය ඉදිකිරීම එම ව්‍යාපෘති වේ.
+
+[⇨](https://www.ada.lk/breaking_news/සියක්-නගර-ව්‍යාපෘතියට-තවත්-ලක්ෂ-6000ක්/11-407555)
+
+### 10 Indian fishermen held for poaching in Sri Lankan waters off Point Pedro
+
+*2024-01-15 12:01:00 - [adaderanalk](https://www.adaderana.lk/news/96413/10-indian-fishermen-held-for-poaching-in-sri-lankan-waters-off-point-pedro)*
+
+During a special operation conducted to chase away Indian poaching trawlers from Sri Lankan waters last night (14), the Sri Lanka Navy has apprehended 10 Indian fishermen along with an Indian trawler after having spotted they were engaging in illegal fishing in Sri Lankan waters north of Point Pedro, Jaffna.
+
+[⇨](https://www.adaderana.lk/news/96413/10-indian-fishermen-held-for-poaching-in-sri-lankan-waters-off-point-pedro)
+
+### பசியை போக்க பாக்கு பிடுங்கியவர்  மரணம்
+
+*2024-01-15 11:23:41 - [tamilmirrorlk](https://www.tamilmirror.lk/மலையகம்/பசியை-போக்க-பாக்கு-பிடுங்கியவர்-மரணம்/76-331527)*
+
+இரண்டு நாட்களாக எவ்விதமான உணவும் உட்கொள்ளாது பட்டினியால் வாடிய நபரொருவர், மற்றொருவருக்குச் சொந்தமான பாக்கு மரத்திலேறி, பாக்கு திருட முற்பட்டவேளையில் மரத்திலிருந்து தவறிவிழுந்து மரணமடைந்த சம்பவமொன்று கடுகண்ணாவை பொலிஸ் பிரிவுக்கு உட்பட்ட பிரதேசமொன்றில் இடம்பெற்றுள்ளது.
+
+கடுகண்ணாவை- கம்பளை வீதியில் நாவுல்ல பிரதேசத்தைச் சேர்ந்த மாரிமுத்து மனோகரன் (வயது 30) என்பவரே உயிரிழந்துள்ளார். இவர், திருமணமாகாதவர் என்பது விசாரணைகளின் ஊடாக தெரியவந்துள்ளது.
+
+[⇨](https://www.tamilmirror.lk/மலையகம்/பசியை-போக்க-பாக்கு-பிடுங்கியவர்-மரணம்/76-331527)
+
+### Artificial Intelligence will affect almost 40% jobs globally: IMF report
+
+*2024-01-15 10:39:00 - [adaderanalk](https://www.adaderana.lk/news/96412/artificial-intelligence-will-affect-almost-40-jobs-globally-imf-report)*
+
+Artificial intelligence (AI) is projected to impact nearly 40% of global jobs, with advanced economies expected to bear a greater share of the consequences compared to emerging markets and low-income countries, according to an analysis by the International Monetary Fund (IMF) reported by Bloomberg.
+
+[⇨](https://www.adaderana.lk/news/96412/artificial-intelligence-will-affect-almost-40-jobs-globally-imf-report)
+
+### ஏழு வயது சிறுமி துஷ்பிரயோகம்: இருவர் கைது
+
+*2024-01-15 10:38:48 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஏழு-வயது-சிறுமி-துஷ்பிரயோகம்-இருவர்-கைது/175-331522)*
+
+பாடசாலை ஒன்றில் கல்வி கற்கும் ஏழு வயது மற்றும் இரண்டு மாத சிறுமிக்கு பாலியல் வன்கொடுமை செய்த இரு இளைஞர்கள் அட்டமலை பொலிஸாரால் ஞாயிற்றுக்கிழமை (14) கைது செய்யப்பட்டுள்ளனர்.
+
+துஷ்பிரயோகத்திற்கு உள்ளான சிறுமியின் தாய் கொழும்பு, கொட்டாவ பிரதேசத்தில் வேலைக்காக சென்றுள்ளதுடன், துஷ்பிரயோகத்திற்கு உள்ளான சிறுமி தனது பாட்டியின் பராமரிப்பில் உள்ளார்.
+
+தனது மகள் உள்ளூர் இளைஞராலும் தாயாலும் துன்புறுத்தப்பட்டதாக அத்தாய்க்கு, தனது சகோதரி தொலைபேசியில் தெரிவித்தார்
+
+[⇨](https://www.tamilmirror.lk/செய்திகள்/ஏழு-வயது-சிறுமி-துஷ்பிரயோகம்-இருவர்-கைது/175-331522)
+
+### Health sector employees to go on strike tomorrow
+
+*2024-01-15 10:22:00 - [adaderanalk](https://www.adaderana.lk/news/96411/health-sector-employees-to-go-on-strike-tomorrow)*
+
+The health sector employees’ trade unions will launch another 24-hour token strike starting from 06.30 a.m. tomorrow (Jan. 16), in protest of the government’s decision to increase the Disturbance, Availability and Transport (DAT) allowance for doctors by Rs. 35,000.
+
+President of the Paramedical Services Front (PMSF) Upul Rohana stressed that the Minister of Health has not provided any discussion regarding their demands.
+
+[⇨](https://www.adaderana.lk/news/96411/health-sector-employees-to-go-on-strike-tomorrow)
+
+### ’’பௌத்தத்தை சிதைப்போருக்கு எதிராக சட்டம் இயற்றவும்''
+
+*2024-01-15 10:08:12 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பௌத்தத்தை-சிதைப்போருக்கு-எதிராக-சட்டம்-இயற்றவும்/175-331521)*
+
+அண்மைக்காலமாக பௌத்த மதம் தொடர்பில் தவறான சித்தாந்தங்களை பரப்பும் குழுக்களின் சம்பவங்களை அடுத்து, இலங்கையிலுள்ள மூன்று பௌத்த பீடங்களின் பிரதான பீடாதிபதிகள் (மகாநாயக்க தேரர்கள்) ஜனாதிபதி ரணில் விக்கிரமசிங்கவிற்கு கூட்டாக இணைந்து கடிதம் ஒன்றை அனுப்பியுள்ளனர்.
+
+[⇨](https://www.tamilmirror.lk/செய்திகள்/பௌத்தத்தை-சிதைப்போருக்கு-எதிராக-சட்டம்-இயற்றவும்/175-331521)

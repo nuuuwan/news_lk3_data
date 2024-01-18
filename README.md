@@ -35,7 +35,7 @@ An emergency disaster situation was declared at the Yala National Park following
 
 ### Karapitiya Hospital staff withdraws over alleged attack by drunken doctor
 
-*2024-01-18 12:19:00 - [dailymirrorlk](https://www.dailymirror.lk/breaking-news/Karapitiya-Hospital-staff-withdraws-over-alleged-attack-by-drunken-doctor/108-275274)*
+*2024-01-18 12:19:00 - [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Karapitiya-Hospital-staff-withdraws-over-alleged-attack-by-drunken-doctor/108-275274)*
 
 Galle, Jan 18 (Daily Mirror) - The entire staff of the Karapitiya Teaching Hospital has withdrawn from services following an incident where a doctor has allegedly attacked a hospital worker while under the influence of liquor.
 

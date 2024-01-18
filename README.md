@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-18 08:28:04**
+As of **2024-01-18 09:27:49**
 
 ## Newspaper Stats
 
@@ -16,19 +16,109 @@ As of **2024-01-18 08:28:04**
 
 * economynextcom: 68
 
-* adaderanalk: 98
+* adaderanalk: 102
 
 * tamilmirrorlk: 108
 
-* dbsjeyarajcom: 113
+* dbsjeyarajcom: 115
 
 * dailyftlk: 119
 
 * adalk: 134
 
-* **Total**: **866**
+* **Total**: **872**
 
 ## Latest Articles (100)
+
+### UK Parliament approves Sunak’s Rwanda bill as right-wing rebels back down
+
+*2024-01-18 09:04:00 - [adaderanalk](https://www.adaderana.lk/news/96498/uk-parliament-approves-sunaks-rwanda-bill-as-right-wing-rebels-back-down)*
+
+UK Prime Minister Rishi Sunak survived a key test of his leadership Wednesday, fending off right-wing rebels to win a crunch parliamentary vote on his contentious plan to send migrants to Rwanda.
+
+Sunak, in power since October 2022, has staked his political future on the scheme, as Britain gears up for its next general election later this year.
+
+Right-wing Conservatives had threatened to kill the Safety of Rwanda (Asylum and Immigration) Bill, but they ultimately backed down and the government won comfortably by 320 votes to 276.
+
+The result means Sunak avoids a serious weakening of his authority, as his faction-ridden party desperately needs to claw back support from the main opposition Labour party before the nationwide vote.
+
+The bill is the British leader’s answer to a UK Supreme Court ruling late last year that deporting asylum seekers to Kigali is illegal under international law.
+
+The latest legislation, if passed, would compel judges to treat Rwanda as a safe third country.
+
+It would also give UK ministers powers to disregard sections of international and British human rights legislation.
+
+While the bill cleared its third and final hurdle in the elected House of Commons, it will need to be approved by the unelected upper chamber House of Lords before it becomes law.
+
+The government does not hold a majority in the Lords, where members are likely to scrutinise the proposals and propose a number of amendments, setting up another battle with Downing Street.
+
+The legislation could also still be blocked by legal challenges, drawing out the long-running saga -- dubbed a “farce” and a “gimmick” by Labour -- even further.
+
+London has already paid Kigali £240 million (280 million euros) since ex-prime minister Boris Johnson first announced the plan in April 2022.
+
+Sunak has pledged to slash record levels of regular migration and stop asylum seekers crossing from France to Britain in small boats.
+
+He insists the Rwanda bill is essential to deter migrants from considering travelling to the United Kingdom via unauthorised routes.
+
+But the proposal has reopened splits between right-wingers and moderates in the ruling party not seen since the wranglings over what Brexit should look like following the 2016 EU referendum.
+
+Several dozen Tory lawmakers backed unsuccessful amendments that sought to toughen the scheme, including by disapplying international law and restricting migrants’ right to appeal deportation.
+
+Two deputy chairmen resigned their roles in support of the tweaks, which received the vocal support of Johnson, who is no longer an MP and not able to vote.
+
+Sunak refused to bow to rebel demands though because doing so would almost certainly have seen the bill scuppered by moderates, who say the legislation already pushes at the margins of acceptability.
+
+In a bid to quell the dissent, Sunak’s government announced that it would hire new judges to create thousands of additional sittings to fast-track cases to the courts.
+
+His “illegal migration minister” also appeared to suggest that ministers would have the power to force civil servants to ignore last-minute injunctions from the European Court of Human Rights.
+
+Sunak also faced down rebels during the first vote on the bill in December.
+
+Around 30,000 asylum seekers crossed the English Channel on rudimentary vessels last year. Five died trying to make the journey this past weekend.
+
+Hundreds were picked up from the freezing waters and brought ashore on Wednesday, an AFP photographer in the south coast port of Dover saw.
+
+Sunak has yet to announce the date of the election but has said it will be held this year.
+
+Some opinion polls put Labour 20 points ahead of the Tories, suggesting the governing party is heading for a landslide defeat.
+
+The Conservatives have ruled since 2010, when Labour was last in power.
+
+Sunak, in power since October 2022, has staked his political future on the scheme, as Britain gears up for its next general election later this year.
+
+### University non-academic staff on token strike today
+
+*2024-01-18 08:44:00 - [adaderanalk](https://www.adaderana.lk/news/96497/university-non-academic-staff-on-token-strike-today)*
+
+The non-academic staff members of state universities launched a one-day token strike this morning (Jan.18) in protest of the government’s decision to increase the allowances of lecturers.
+
+Earlier this month, the Cabinet of Ministers green-lighted President Ranil Wickremesinghe’s resolution seeking to increase the study allowance granted to university lecturers by 25%. It was decided that this allowance would be included in their January salary.
+
+However, the University Trade Union Joint Committee has taken issue with this Cabinet decision, complaining that increasing the salaries of lecturers has created unrest among the non-academic staff members. “We urge [the authorities] to raise the salaries and allowances of all in general, if they are going to increase the salaries of the university sector. The government has created this issue.”
+
+Meanwhile, the co-secretary of the Inter-University Trade Union Federation K.L.D.G. Richmond said this token strike is joined by 23 trade unions.
+
+Meanwhile, hospital services were left crippled over the past week as multiple health sector trade unions including paramedical services, supplementary medical services and nursing officers engaged in token strikes, against the Cabinet decision to double the Disturbance, Availability and Transport (DAT) allowance paid for government doctors, raising it from Rs. 35,000 to Rs. 70,000.
+
+### Several spells of showers expected in parts of the island
+
+*2024-01-18 07:13:00 - [adaderanalk](https://www.adaderana.lk/news/96496/several-spells-of-showers-expected-in-parts-of-the-island)*
+
+Several spells of showers will occur in North-Central, Eastern and Uva provinces and in Mullaitivu District, according to the Meteorology Department.
+
+A few showers may occur in Central, Sabaragamuwa, North-western and Southern provinces.
+
+Mainly fair weather will prevail elsewhere in the island, it said.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+### Trains delayed on main line and Chilaw line due to breakdowns
+
+*2024-01-18 07:05:00 - [adaderanalk](https://www.adaderana.lk/news/96495/trains-delayed-on-main-line-and-chilaw-line-due-to-breakdowns)*
+
+Train services on the main line and the Chilaw line have been delayed due to two trains breaking down, the Railway Department said.
+
+A train travelling from Polgahawela to Colombo Fort has suffered a breakdown at the Ambepussa train station while another train has broken down on the Chilaw line, it said.
 
 ### Cometh the hour, cometh the man, Dr. Upul Dissanayake
 
@@ -1965,71 +2055,3 @@ Emirates’ multicultural cabin crew team hails from more than 140 nationalities
 Cabin crew experience career progression, including upgrading to higher cabin classes, and becoming a cabin supervisor, purser or trainer. The airline has 1,180 pursers who have climbed the career ladder after successfully completing exacting training and assessments. Crew also have the opportunity to apply for internal vacancies throughout the Emirates Group.
 
 All new cabin crew recruits undergo an intense eight weeks of training. Trained in Emirates’ state-of-the-art facility in Dubai, cabin crew learn transferable skills that include a knack for communication, initiative and leadership qualities. They develop the ability to work effectively in a multicultural team, the focus to stay mentally strong and calm under pressure, becoming bastions of hospitality and exceptional service, and ambassadors of an iconic brand. Cabin crew also have access to the latest training programmes and LinkedIn courses.
-
-### Sri Lanka ministers meet health unions over 35,000 rupee demand
-
-*2024-01-17 14:00:00 - [economynextcom](https://economynext.com/sri-lanka-ministers-meet-health-unions-over-35000-rupee-demand-147574/)*
-
-ECONOMYNEXT – Sri Lanka State Minister of Finance Shehan Semasinghe said he met unions along with Health Minister Ramesh Pathirana, to discuss demands for a pay hike.
-
-“A discussion was held with the representatives of the health trade unions together with the Minister of Health Dr Ramesh Pathirana in which the proposal including the concerns of the trade unions was handed over to us and we discussed on same,” Semasinghe said on X.
-
-Several health sector unions struck work yesterday and today demanding a 35,000 rupee allowance given to doctors.
-
-Government doctors union officials were quoted in the media saying the allowances given to generals are not given to foot soldiers.
-
-The military was deployed on Tuesday to help health services. (Colombo/Jan17/2024)
-
-### හිටපු ඇමති රොෂාන් නව සන්ධානයක් එළිදක්වයි
-
-*2024-01-17 13:59:18 - [adalk](https://www.ada.lk/breaking_news/හිටපු-ඇමති-රොෂාන්-නව-සන්ධානයක්-එළිදක්වයි/11-407596)*
-
-රට ගොඩනගන දූෂණ විරෝධී සන්ධානය ජනවාරි දහඅටවෙනිදා සවස එකයි දහ අටට පොළොන්නරුව බුද්ධිමණ්ඩපයේදී සුභ මොහොතින් ආරම්භ කරන බවත්, දූෂණයට විරුද්ධව ක්‍රියාකරන හා නැගී සිටීමට අපේක්ෂා කරන සියලුම අයට, මෙන්ම දේශපාලකයින්ට, නායකයින්ට ඒ සඳහා ආරාධනා කරන බව හිටපු වාරිමාර්ග, ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය රොෂාන් රණසිංහ මහතා සඳහන් කළේය.
-
-හොරු අල්ලලා ඇමතිකමෙන් අස්කළාට, රටේ ජනතාව වෙනුවෙන් තමාගේ කාර්ය උපරිම අයුරින් ඉටුකරන බවත්, ඒ සඳහා තමන්ට සැලැස්ම, දැක්ම, මෙන්ම විශ්වාසය තිබෙන බවත්, රට ගොඩනගන නායකයින් කතාකරන විස්සයි හතලිස් අටේ සැලසුම් හදනකොට මේ රටේ මිනිසුන් මැරී අවසන් බවත්, නොවෙන කතා නොව අවශ්‍යතාවය විය යුත්තේ මේ රටේ දුක් විඳින ජනතාව ඉක්මනින්ම ගලවා ගැනීම බවද රොෂාන් රණසිංහ මහතා කීවේය.
-
-ඓතිහාසික දිඹුලාගල ආරණ්‍ය සේනාසනයේ ඉදිවෙමින් පවතින චෛත්‍ය රාජයන් වහන්සේගේ වැඩ නිම කිරීමට   තම මන්ත්‍රී වැටුප ඓතිහාසික දිඹුලාගල ආරණ්‍ය සේනාසනාධිපති දිඹුලාගල රාහුලාලංකාර නාහිමියන්ට පූජා කිරීමේ අවස්ථාවට එක්වීමෙන් අනතුරුව මාධ්‍යයට ඉදිරි දේශපාලන ගමන පිළිබඳව පැහැදිලි කරමින්  රණසිංහ මහතා ඒ බව කීය.
-
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ හිටපු වාරිමාර්ග ක්‍රීඩා හා යෞවන කටයුතු අමාත්‍ය රොෂාන් රණසිංහ මහතා මෙසේද කීය.
-
-'' රටේ හැම දිස්ත්‍රික්කයකින්ම කතා කරලා මගෙන් ඉල්ලීමක් කරා රට වෙනුවෙන් දේශපාලනය කරන්න ඉස්සරහට එන්න කියලා,  හොු අල්ලලා  ඇමතිකමෙන් අස්කරාට රට වෙනුවෙන් මගේ කාර්යය මම උපරිම වශයෙන් කරනවා.
-
-ඔව් අපිට පුළුවන් මේ රට ගොඩනගන්න, ඔය විස්සයි හතළිස් අට වෙද්දි ඔක්කොමලා මැරිලනේ,නොවෙන කතා නොකියා  මේ මිනිස්සු විඳින දුකෙන් ගලවාගන්නයි ඉක්මනින්ම වෙන්න ඕනි. ප්‍රධාන වශයෙන් අපේ රටට ඕනේ මේ රට හදනවා කියන චේතනාව තියෙන නායකයෙක්, ඒ කියන්නේ හෘද සාක්ෂියට අනුව ඔව් මගේ රට හදනවා කියන චේතනාව තියෙන්න ඕන.
-
-නායකයා කෙළින් යනවා නම් ඔය කවුරුත් දූෂණවලට කටයුතු කරන්නේ නෑ. මම  ක්‍රීඩා අමාත්‍යංශය කරද්දී දූෂණයට සම්බන්ධ දෙතුන් දෙනෙක් අයින් කරලා කරා. දූෂණ වංචා කිසිවක් නොමැතිව ක්‍රීඩා අමාත්‍යාංශයට කැලලක් නොවෙන ආකාරයෙන් මම වැඩ කරද්දි තමයි නායකයෝ මාව ඉවත් කලේ.
-
-මේ රටේ ජනතාවට නායකයෝ ගැන විශ්වාසයක් නෑ. ලෝකයේ ආයෝජකයන්ටත් එහෙමයි අපේ රටේ නායකයෝ ගැන විශ්වාසයක් නෑ. ලෝකයේ ආයෝජකයෝ අනුදෙනෙක් ඩොලර් බිලියනය ගානෙ දුන්නොත් අපේ රටේ ණය ඉවරයි. ඉතින් ඒකට සැලැස්මක් ඇතුව යන්න ඕනේ,  මේ රටේ රාජ්‍යය නායකයා ඒ අය ගාවට යන්න ඕන.
-
-අද මේ රටේ දේශපාලනික වශයෙන් බයයි, ආර්ථික හා  සමාජ බිය තියෙනවා, සංස්කෘතිය අතින් අපි හැමෝම බය වෙලා ඉන්නෙ. මේ රට නිරාගමික රාජ්‍යයක් වෙන්න ඉඩ තියන්න බෑ. සම්බුද්ධ ශාසනය පෝෂණය කරලා, අනෙකුත් ආගම් අතර සංහිඳියාව ඇතිවන පරිදි වැඩකටයුතු කරන්න ඕන. එනිසා අපි එළඹෙන 18 වෙනිදා 1.18 ට අපි හදන්නේ දුෂණ විරෝධී රට ගොඩනඟන සන්ධානයයි. ඒ සඳහා හැමෝම එකතු වෙන්න කියලා මම ආරාධනා කරනවා"
-
-### ශ්‍රී ලන්කන් වෙත අලුත් සගයෙක් එක්වෙයි
-
-*2024-01-17 13:49:30 - [adalk](https://www.ada.lk/breaking_news/ශ්‍රී-ලන්කන්-වෙත-අලුත්-සගයෙක්-එක්වෙයි/11-407595)*
-
-ශ්‍රී ලන්කන් ගුවන් සේවය තම ගුවන් යානා ඇණිය සදහා තවත් නවතම ඒ.- 330 - 243 එයාර් බස් වර්ගයේ ගුවන් යානයක් කල් බදු පදනම මත ලබා ගෙන කටුනායක ගුවන් තොටුපොළ වෙත රැගෙන පැමිණ ඇති බව ශ්‍රී ලන්කන් ගුවන් සේවයේ ආයතනික සන්නිවේදන අංශයේ ප්‍රධානී දීපාල් පෙරේරා මහතා පැවසීය .
-
-ප්‍රංශයේ නිෂ්පාදිත මෙම  නව  ගුවන් යානය 01/16 දින පස්වරුවේ කටුනායක ගුවන් තොටුපොළ වෙත පැමිණි අතර ඒ අනුව ශ්‍රී ලන්කන් ගුවන් සේවය සතු ගුවන් යානා ප්‍රමාණය 23 දක්වා වැඩි වී තිබේ .
-
-පුළුල් බද සහිත මෙම ගුවන් යානය තුළ ව්‍යාපාරික පංතියේ ආසන 22 ක් සහ පිරිමැසුම්දායක පංතියේ ආසන 240 ක් ඇති අතර එය ඇන්ජින් දෙකකින් බල ගැන්වෙන  බව දීපාල් පෙරේරා මහතා පැවසීය .
-
-මෙම නව ගුවන් යානය 01/17 දින අලුයම 12.36 ට ශ්‍රී ලන්කන් ගුවන් සේවයේ යූ.එල්.- 563 ගුවන් ගමන් අංකය යටතේ ප්‍රංශයේ පැරිස් නුවර බලා කටුනායක ගුවන් තොටුපොළෙන් පිටත්ව ගොස් ඇති අතර , එය මෙරට වේලාවෙන් 08.05 ට පැරිස් ගුවන් තොටුපොළ වෙත ගොඩ බස්වා තිබුණි .
-
-ශ්‍රී ලන්කන් ගුවන් සේවය මුහුණ දෙමින් සිටින ගුවන් ගමන් ප්‍රමාද වීම සහ අවලංගු වීම් වලට යම් මට්ටමක විසදුමක් ලෙස මෙම නව ගුවන් යානය පැමිණීමෙන් අත් වීමට නියමිතය.
-
-### Sri Lanka calls for EOIs for divestiture of Litro Gas and Litro Gas Terminal
-
-*2024-01-17 13:45:00 - [adaderanalk](https://www.adaderana.lk/news/96478/sri-lanka-calls-for-eois-for-divestiture-of-litro-gas-and-litro-gas-terminal)*
-
-The Government of Sri Lanka has called for Expressions of Interest (EOIs) for the divestiture of Litro Gas Lanka Ltd. (LGL) and the Litro Gas Terminal Lanka (Pvt.) Ltd. (LGTL).
-
-According to the State-Owned Enterprise Restructuring Unit, the divestiture is slated to be completed through a two-stage competitive bidding process, with Deloitte Touche Tohmatsu India LLP (DTTILLP) serving as the Transaction Advisor.
-
-As such, all interested parties are invited to access the Request for Expression of Interest document from the following website: https://www.treasury.gov.lk/web/sru-entities-to-be-divested/section/litro-gas-lanka
-
-With a market share of 85%, LGL is the largest supplier of Liquefied Petroleum Gas (LPG) in Sri Lanka, and engages in the importing, filling, distribution and sale of LPG in Sri Lanka.
-
-LGL operates an LPG filling plant in Kerawalapitiya with a filling capacity of 1,600 MTs/day, while a second filling plant located at Mabima is under construction.
-
-Meanwhile, LGTL provides bulk storage and pipeline facilities for LPG, with their key storage facility strategically located in Kerawalapitiya, with a capacity of 8,000 MT.
-
-It is also to be noted that surplus land is available at Kerawalapitiya for further expansion of both, LGL and LGTL.

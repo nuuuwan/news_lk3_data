@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 22:32:47**
+As of **2024-01-18 22:50:18**
 
 ## Newspaper Stats
 
-*Scraped **1,094** Articles*
+*Scraped **1,099** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 23 | 🟩🟩 
 bbccomsinhala | 33 | 🟩🟩🟩 
-islandlk | 63 | 🟩🟩🟩🟩🟩🟩 
+islandlk | 64 | 🟩🟩🟩🟩🟩🟩 
 newsfirstlk | 68 | 🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 89 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 106 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 110 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 119 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 122 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,36 @@ adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ## Latest 100 Articles 
 
 ### 2024-01-18 (Thursday)
+
+### Police identify 163 close contacts including 30 police officers linked to ’Harak Kata’
+
+*2024-01-18 22:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-identify-163-close-contacts-including-30-police-officers-linked-to-Harak-Kata/108-275300) 
+
+Colombo, Jan 18 (Daily Mirror) - A list of 163 individuals, including more than 30 police officers, who have been in contact with drug trafficker Nadun Chinthaka Wikramaratne alias ‘Harak Kata,’ has been identified by the police.
+
+Acting IGP Deshabandu Tennakoon said that investigations are ongoing to determine the extent of involvement of these police officers in the drug network associated with 'Harak Kata.'
+
+...
+
+### Facial, fingerprint recognition systems to identify passengers at BIA within next two weeks
+
+*2024-01-18 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Facial-fingerprint-recognition-systems-to-identify-passengers-at-BIA-within-next-two-weeks/108-275298) 
+
+Colombo, Jan 18 (Daily Mirror) - New facial and fingerprint recognition systems are to be introduced at the Bandaranaike International Airport (BIA) in the next two weeks to identify passengers passing through the airport, Controller General of Immigration and Emigration I.S.H.J. Ilukpitiya said.
+
+He said the facial recognition system has already been introduced at the airport with the support of the police.
+
+...
+
+### Sri Lanka clinch T20 series after record low Zimbabwe total
+
+*2024-01-18 21:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-clinch-T20-series-after-record-low-Zimbabwe-total/108-275316) 
+
+Colombo, Jan. 18 - Wanindu Hasaranga's bottom-order demolition eased Sri Lanka to a 2-1 series win against Zimbabwe Thursday after the tourists were bowled out in Colombo for 82, their worst-ever T20 total.
+
+The home skipper's 4-15 included two scalps on his final two deliveries and Sri Lanka cruised to a nine-wicket victory inside 11 overs.
+
+...
 
 ### Sri Lanka to host Afghanistan after wrapping up Zimbabwe series
 
@@ -200,6 +230,14 @@ The suspended action, which seeks ‘economic justice’ for healthcare employee
 ### Sri Lanak Cricket to hire Jonty Rhodes for advanced training
 
 *2024-01-18 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanak-Cricket-to-hire-Jonty-Rhodes-for-advanced-training/108-275287) 
+
+Colombo, Jan. 18 (SLC) - Sri Lanka Cricket decided to obtain the services of some of the best-known talents in international cricket to provide advanced training for local coaches, trainers, and physiotherapists to enhance their skills and competencies by conducting periodic training programs in selected areas.
+
+...
+
+### Sri Lanka Cricket to hire Jonty Rhodes for advanced training
+
+*2024-01-18 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Cricket-to-hire-Jonty-Rhodes-for-advanced-training/108-275287) 
 
 Colombo, Jan. 18 (SLC) - Sri Lanka Cricket decided to obtain the services of some of the best-known talents in international cricket to provide advanced training for local coaches, trainers, and physiotherapists to enhance their skills and competencies by conducting periodic training programs in selected areas.
 
@@ -980,47 +1018,5 @@ Yatiyantota, Jan 18 (Daily Mirror) - Every business or industry with a turnover 
 ECONOMYNEXT – The power of creative economies as an accelerator of Gross Domestic Product (GDP) has been harnessed in many countries around the world.
 
 Creative industries create employment, income, increase export earnings, promote innovation and contribute to societal wellbeing (United Nations Publications, 2002).
-
-...
-
-### ஆசிரியரை ஏமாற்றிய அழகுக்கலை நிபுணர் கைது
-
-*2024-01-18 11:55:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/ஆசிரியரை-ஏமாற்றிய-அழகுக்கலை-நிபுணர்-கைது/71-331730) 
-
-யாழ்ப்பாணத்தை சேர்ந்த ஆசிரியரை வெளிநாட்டுக்கு அனுப்பி  வைப்பதாக கூறி 42 இலட்ச ரூபாய் பணத்தினை மோசடி செய்தார் என்றக் குற்றச்சாட்டின் கீழ், கொழும்பை சேர்ந்த அழகுக்கலை நிபுணரை   பொலிஸார் புதன்கிழமை (17) கைது செய்துள்ளனர்.
-
-வெளிநாடு ஒன்றுக்கு அனுப்பி வைப்பதாக ஆசை வார்த்தைகளை கூறி தன்னிடம் இருந்து 42 இலட்ச ரூபாய் பணத்தினை பெற்று , கொழும்பை சேர்ந்த அழகுக்கலை நிபுணர் ஏமாற்றி விட்டார் என யாழ்ப்பாண பொலிஸ் நிலையத்தில் ஆசிரியர் முறைப்பாடு செய்தார்.
-
-...
-
-### கரட்டின் விலை 1,000 ரூபாவாக திடீரெனக் குறைந்தது!
-
-*2024-01-18 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174220) 
-
-கடந்த சில நாட்களாக 2,000 ரூபாவையும்  தாண்டி விற்பனை செய்யப்பட்ட கரட்  விலை இன்று 1,000 ரூபாவாக குறைந்துள்ளது.
-
-இதன்படி இன்று வியாழக்கிழமை (18) பேலியகொடை  சந்தையில் ஒரு கிலோ கரட்டின் மொத்த விலை 1,000 ரூபாவாக  பதிவாகியுள்ளது.
-
-பேலியகொடை வர்த்தக நிலையத்தில் இன்றைய தினம் சில மரக்கறிகளின் மொத்த விலை விபரம் வருமாறு,
-
-தம்புள்ளை விசேட பொருளாதார மத்திய நிலையத்தில் நேற்று புதன்கிழமை (17) மரக்கறி விலைகள் பின்வருமாறு பதிவு செய்யப்பட்டுள்ளன.
-
-◼️
-
-### மாவீரர் துயிலும் இல்ல  சுவீகரிப்பு   தடுத்து நிறுத்தம்
-
-*2024-01-18 11:49:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மாவீரர்-துயிலும்-இல்ல-சுவீகரிப்பு-தடுத்து-நிறுத்தம்/72-331729) 
-
-முல்லைத்தீவு மாவட்டத்தின் அளம்பில் மாவீரர் துயிலும் இல்ல காணியை தனிநபரிடமிருந்து இராணுவத்துக்கு சுவீகரிப்பதற்கான நில அளவீட்டு பணி வியாழக்கிழமை (18) இடம்பெறவிருந்த நிலையில் குறித்த அளவீட்டு பணிகள் பொதுமக்களால் தடுத்து நிறுத்தப்பட்டுள்ளன.
-
-...
-
-### கடந்த ஆண்டில் சட்ட விரோத மின்கம்பி வேலிகளால் 50 காட்டு யானைகள் உயிரிழப்பு - இலங்கை மின்சார சபை
-
-*2024-01-18 11:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174218) 
-
-விவசாய நிலங்களை பாதுகாக்கும் வேலிகளுடன் இலங்கை மின்சார சபைக்குரிய மின்கம்பிகள் சட்ட விரோதமாக இணைக்கப்பட்டதன் மூலம் கடந்த 2023ஆம் ஆண்டில் 50 காட்டு யானைகள் மின்சாரம் தாக்கி உயிரிழந்ததாக இலங்கை மின்சார சபையின் பிரதி பொது முகாமையாளர் கே.ஏ. நோயல் பிரியந்த தெரிவித்தார்.
-
-கடந்த 2023ஆம் ஆண்டில் பல்வேறு மனித நடவடிக்கைகளால் 474 காட்டு யானைகள் உயிரிழந்தன.
 
 ...

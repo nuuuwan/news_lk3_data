@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :lka:
 
-As of **2024-01-18 05:28:01**
+As of **2024-01-18 06:52:31**
 
 ## Newspaper Stats
 
@@ -8,11 +8,11 @@ As of **2024-01-18 05:28:01**
 
 * bbccomsinhala: 29
 
-* islandlk: 50
-
 * newsfirstlk: 53
 
 * virakesarilk: 59
+
+* islandlk: 61
 
 * economynextcom: 68
 
@@ -20,15 +20,351 @@ As of **2024-01-18 05:28:01**
 
 * tamilmirrorlk: 100
 
-* dailyftlk: 107
-
 * dbsjeyarajcom: 113
+
+* dailyftlk: 119
 
 * adalk: 131
 
-* **Total**: **831**
+* **Total**: **854**
 
 ## Latest Articles (100)
+
+### Cometh the hour, cometh the man, Dr. Upul Dissanayake
+
+*2024-01-18 05:46:32 - [dailyftlk](https://www.ft.lk/columns/Cometh-the-hour-cometh-the-man-Dr-Upul-Dissanayake/4-757489)*
+
+In a country of cosmetic changes where ‘new faces’ deliver disappointment or worse, it was indeed heartening to learn that Dr. Upul Dissanayake has been elected as the next President of the Ceylon College of Physicians.
+
+I first met him years ago, but it didn’t take that long for me to understand why he is so popular among patients. He struck me as an exceptionally charismatic physician. His sincerity and willingness to listen to patients set him apart.
+
+My father-in-law, whose life may have been saved many times due to his intervention, refers to Dr. Dissanayake as “The Miracle Doctor.” I have met dozens of patients who share the same sentiments. Many people remark: “After you have a chat with him, you immediately feel better.” They know, as I do, that even if you see him at 1 am in a hospital he will greet you with a broad smile.
+
+He injects confidence in his patients. He explains things in a manner that patients can understand. What I admire most about him is his simplicity and his love for Sri Lanka. He is one doctor I know who will never leave Sri Lanka, no matter what. He just wants to play his part in turning things around in our much-ravaged country and for this he will go the extra mile. It could be fighting the dengue menace or in his own way encouraging colleagues to rethink the option of seeking greener pastures abroad. In particular, Dr. Upul Dissanayake never stops thinking about less advantaged people; he thinks about them and finds ways to uplift their day-to-day life.
+
+None of these things are in his job description. He is not required to do any of it. And yet, he does it with passion and love, the only reward being the satisfaction of repaying debts to a nation that supported his education.
+
+Dr Dissanayake was born in Andarawewa, a small village about 25 km away from Anuradhapura. His parents were teachers and therefore, his first ‘school’ was Gamini Vidyalaya, Mahawilachchiya where they taught in a single open-air building that constituted the entirety of the school’s architecture. His mother, who first realised his potential, is said to have convinced her husband to obtain a transfer to Kurunegala so Upul could attend Maliyadeva College. The young boy did more than justice to his parents’ dreams, passing the GCE O/L with flying colours, scoring the second-best marks in the country. He was the only student to secure four A Grades at the GCE A/L examination in the bio stream and was placed 3rd in the merit list.
+
+His academic qualifications and professional achievements speak for themselves, but he would be the last to toss around his curriculum vitae, for Dr. Dissanayake is first and last about his work. His world is made of patients and deploying all his knowledge to securing a healthy environment for them to live in and curing them of any ailments they may be afflicted with.
+
+His track record when it comes to public health policy is unblemished. Dr Dissanayake co-authored the National Dengue Fever Management Guidelines in 2010 and 2012, following specialised training in managing Dengue Haemorrhagic Fever, along with a colleague, at the WHO’s collaborative centre in Thailand. He also implemented a strategic plan to popularise these guidelines through a series of seminars and workshops across the country, especially areas severely affected by the disease. The guidelines are now deployed nationally, and their implementation resulted in reducing the mortality rate from 1.2% to 0.2%. These efforts were complemented by his contribution towards the establishment of a dengue management training program for nurses in 2012.
+
+He risked a backlash from hardcore racists within his own profession but was unafraid to publicly debunk the ‘wanda pethi’, (infertility pills) canards of opportunistic politicians six years ago. Dr Dissanayake’s public stand to rally colleagues against a hate campaign targeting a minority community was arguably one of his biggest achievements. It helped not only defuse inter-communal tensions, but also resuscitate the integrity and credibility of the medical profession.
+
+His contribution towards the development of specialist medical services in remote rural hospitals is no less impressive. He was appointed as the first Consultant Physician at the Base Hospital in Mahiyangana, serving the rural farming sector and especially the Veddha community. He established the first medical ward, medical clinic and obtained necessary infrastructure facilities for the unit such as Laboratory and X-ray facilities. He launched the ‘Miyuguna Clinical Society’ with the participation of medical officers of district hospitals and peripheral units, aimed at providing continuing medical education to doctors in the region. He continued such efforts wherever he was stationed, in Embilipitiya, Kuliyapitiya and Kalutara.
+
+Dr. Dissanayake’s extensive work as a physician did not make any dent in his commitment to learning and scholarship, having produced several important academic papers and delivered many insightful lectures on combatting and treating dengue.
+
+His colleagues would know all this, even though his patients may not. Clearly, they’ve felt that he is eminently suited to grace the important position of President, Ceylon College of Physicians. They would probably agree with me that what is most important about Dr. Upul Dissanayake is his rare human qualities. He is a loyal friend and colleague who will never ever say anything negative about anyone else.
+
+On a personal note, I believe it is time that physicians once again recover their crucially important role of first stop for patients since they are best positioned to take into consideration patients’ histories, family histories, social contexts and ought to be the first and only health professionals referring patients to specialists, a role that unfortunately has been taken over by well-meaning but woefully unqualified patients! I am confident that Dr. Upul Dissanayake would provide the leadership necessary to correct this situation and spur the Ceylon College of Physicians to an even more active role in restoring Sri Lanka’s health sector to its former glory.
+
+### Global economy set for weakest half-decade performance in 30 years
+
+*2024-01-18 05:42:39 - [dailyftlk](https://www.ft.lk/opinion/Global-economy-set-for-weakest-half-decade-performance-in-30-years/14-757488)*
+
+Reforms to boost investment and strengthen fiscal policy could help turn the tide
+
+As the world nears the midpoint of what was intended to be a transformative decade for development, the global economy is set to rack up a sorry record by the end of 2024—the slowest half-decade of GDP growth in 30 years, according to the World Bank’s latest Global Economic Prospects report.
+
+By one measure, the global economy is in a better place than it was a year ago: the risk of a global recession has receded, largely because of the strength of the US economy. But mounting geopolitical tensions could create fresh near-term hazards for the world economy. Meanwhile, the medium-term outlook has darkened for many developing economies amid slowing growth in most major economies, sluggish global trade, and the tightest financial conditions in decades. Global trade growth in 2024 is expected to be only half the average in the decade before the pandemic. Meanwhile, borrowing costs for developing economies—especially those with poor credit ratings—are likely to remain steep with global interest rates stuck at four-decade highs in inflation-adjusted terms.
+
+Global growth is projected to slow for the third year in a row—from 2.6% last year to 2.4% in 2024, almost three-quarters of a percentage point below the average of the 2010s. Developing economies are projected to grow just 3.9%, more than one percentage point below the average of the previous decade. After a disappointing performance last year, low-income countries should grow 5.5%, weaker than previously expected. By the end of 2024, people in about one out of every four developing countries and about 40% of low-income countries will still be poorer than they were on the eve of the COVID pandemic in 2019. In advanced economies, meanwhile, growth is set to slow to 1.2% this year from 1.5% in 2023.
+
+“Without a major course correction, the 2020s will go down as a decade of wasted opportunity,” said Indermit Gill, the World Bank Group’s Chief Economist and Senior Vice President. ”Near-term growth will remain weak, leaving many developing countries—especially the poorest—stuck in a trap: with paralyzing levels of debt and tenuous access to food for nearly one out of every three people. That would obstruct progress on many global priorities. Opportunities still exist to turn the tide. This report offers a clear way forward: it spells out the transformation that can be achieved if governments act now to accelerate investment and strengthen fiscal policy frameworks.”
+
+To tackle climate change and achieve other key global development goals by 2030, developing countries will need to deliver a formidable increase in investment—about $ 2.4 trillion per year. Without a comprehensive policy package, prospects for such an increase are not bright. Per capita investment growth in developing economies between 2023 and 2024 is expected to average only 3.7%, just over half the rate of the previous two decades.
+
+The report offers the first global analysis of what it will take to generate a sustained investment boom, drawing from the experience of 35 advanced economies and 69 developing economies over the past 70 years. It finds that developing economies often reap an economic windfall when they accelerate per capita investment growth to at least 4% and sustain it for six years or more: the pace of convergence with advanced-economy income levels speeds up, the poverty rate declines more swiftly, and productivity growth quadruples. Other benefits also materialize during these booms: among other things, inflation falls, fiscal and external positions improve, and people’s access to the internet expands rapidly.
+
+“Investment booms have the potential to transform developing economies and help them speed up the energy transition and achieve a wide variety of development objectives,” said Ayhan Kose, the World Bank’s Deputy Chief Economist and Director of the Prospects Group. ”To spark such booms, developing economies need to implement comprehensive policy packages to improve fiscal and monetary frameworks, expand cross-border trade and financial flows, improve the investment climate, and strengthen the quality of institutions. That is hard work, but many developing economies have been able to do it before. Doing it again will help mitigate the projected slowdown in potential growth in the rest of this decade.”
+
+The latest Global Economic Prospects also identifies what two-thirds of developing countries—commodity exporters specifically—can do to avoid boom-and-bust cycles. The report finds that governments in these countries often adopt fiscal policies that intensify booms and busts. When increases in commodity prices boost growth by 1 percentage point, for example, governments increase spending in ways that boost growth by an additional 0.2 percentage point. In general, in good times, fiscal policy tends to overheat the economy. In bad times it deepens the slump. This “procyclicality” is 30 percent stronger in commodity-exporting developing economies than it is in other developing economies. Fiscal policies also tend to be 40 percent more volatile in these economies than in other developing economies.
+
+The instability associated with higher procyclicality and volatility of fiscal policy produces a chronic drag on the growth prospects of commodity-exporting developing economies. The drag can be reduced—by putting in place a fiscal framework that helps discipline government spending, by adopting flexible exchange-rate regimes, and by avoiding restrictions on the movement of international capital. On average, these policy measures could help commodity exporters in developing economies boost their per capita GDP growth by as much as 1 percentage point every four or five years. Countries can also benefit by building sovereign-wealth funds and other rainy-day funds that can be deployed quickly in an emergency.
+
+### Fear-based leadership; an extreme last resort, not a sustainable panacea
+
+*2024-01-18 05:36:53 - [dailyftlk](https://www.ft.lk/columns/Fear-based-leadership-an-extreme-last-resort-not-a-sustainable-panacea/4-757485)*
+
+Leaders need to mix a fair quantity of regimentation, routine, order, and discipline with a generous dose of trust, encouragement, and motivation
+
+“State chief accountants will be held liable for excessive expenses” was a headline which caught my eye when I opened the Sunday Times of 7 January 2024. ‘Excessive Expenditure’ was defined as any expenditure that is not in the 2024 Budget or Annual Plan. Whilst I agree that the organs of the Sri Lankan Government and State enterprises must exercise stringent, but astute, financial discipline in the face of the economic challenges we face, I wince aghast at the authoritarian tone of this statement, a tone which is fast becoming the trademark of utterances, directives, and actions of our national and corporate leaders.
+
+It is a tone which epitomises a “fear-based” leadership style and a growing belief that citizens, and followers, will only perform under fear, can only be managed by threats and via draconian laws even if they violate their constitutional rights. The subject statement is both ironical, and even laughable, when viewed against a backdrop where leaders who ruined our country through reckless risk-taking, unauthorised expenditure and self-serving edicts, roam scot-free without being held personally liable for their misdeeds. This, too, despite the highest court in the land finding a handful of named past leaders guilty of violating the public trust and triggering the island’s worst financial crisis by their deliberate actions.
+
+In this respect, it is my opinion that it is not only the named few who are guilty but even the many others before them. Bond scams, fertiliser fiascos, sugar scams, coal purchases, drug scams, organic fertiliser imports, proliferation of International Sovereign Bonds with scant regard of their serviceability and the unusual cost escalations in road construction, to name a few, have been more serious, value destructive and debilitating than exceeding a Budget. People in glass houses cannot afford to throw stones! The common story of the sprats getting hounded while the sharks swim free.
+
+The intent of this article is not to highlight the duplicity of the two-faced, self-serving political leaders who we have tolerated, to our detriment, in the last two decades and who we, charmed by their enticing rhetoric, sweet-talk and our recurrent gullibility, may re-elect despite their abysmal track-records – but it is to discuss whether fear-based leadership is appropriate in an era where constituents, and followers are demanding greater autonomy, empowerment, freedom of choice and freedom of expression.
+
+While the findings of many recent studies appear to favour a collaborative, participatory and democratic style of leadership, we must accept that the world is not a perfect binary where there is a definitive “this” or a “that” in terms of what style is appropriate and relevant. In my eyes, and mind, the key factor in a leadership style is identifying the horse for the course and in arriving at the right proportions. While a completely fear-based approach has obvious shortcomings, a totally lax approach may not deliver the requisite outcomes. Leaders need to mix a fair quantity of regimentation, routine, order, and discipline with a generous dose of trust, encouragement, and motivation.
+
+Fear-based leadership is a style employed by leaders who rule with fear, coercion, and punishment. This style usually results in swift compliance and quick results because the rules are unambiguous, and the consequence of non-adherence is crystal clear. It is Hobson’s Choice. The command, and control, nature of the direction gives rise to fewer variables and, therefore, results in enhanced predictability. The thrust of this approach is penalties over rewards and punishment over recognition. Whilst it may be productive from the subject leader’s perspective in the short-term and in selected circumstances, it is unlikely to be sustainable in the longer term in an increasingly emancipated world where choice is preferred to imposition. Psychologists confirm that prolonged states of anxiety and fear will negatively affect employees’ and followers’ mental well-being with inevitable outcomes of decreased productivity and burn-out. Further, an unabating atmosphere of suppression and the inability of followers to express their views and opinions may lead to a disastrous blow-up. It is widely acknowledged that leaders who adopt positive, supportive leadership styles are more likely to build a strong, successful nation, or organisation, in the long run. It is also proven that open and nurturing environments facilitate creativity and innovation.
+
+There are two observations which arise out of the subject statement. They are > the style of senior government leaders in managing State Chief Accountants (SCAs) and > the use of Budgets as a sole tool of control and punishment. SCAs are educated professionals who, like any human being, value pride and dignity and wish to be successful, and effective, in their roles. I know many of them personally. They are ‘reasonable persons. The ‘reasonable person’ referred to here is the standard often used in law to determine the existence of negligence.
+
+Wikipedia defines a ‘reasonable person’ as a hypothetical individual who approaches any situation with the appropriate amount of caution and then acts in a sensible manner. Taking such actions requires the reasonable person to be appropriately informed, capable, competent, aware of the law, and fair-minded. Such a person may do something extraordinary in certain circumstances and may act in an unusual way in other circumstances. But whatever that person does or thinks, is at most times reasonable.
+
+In this light, it is foolhardy to treat SCAs as robotic intermediaries who are totally process driven. For many years, the CFO (and a SCA is a de-facto CFO) was stereotyped as a command and control oriented ‘policeman’ responsible for an organisation’s finance and accounting functions. The emphasis, then, was on stewardship. However, today, the CFO is recognised as a key colleague, a confidante and as a strategic partner in optimising value creation among business lines and support functions. The Government, as well as State Enterprises, will do well and will benefit immensely by treating SCAs as value adding, reasonable persons who have completed their exams, attained their professional status, and gained wide experience in other senior positions. Their potential must be allowed to flourish. They must be inspired by a shared vision, and they must be given appropriate decision rights. They must be given the opportunities and availed a playing field where they can display their finance and accounting prowess and have influence on the organisation through innovative thinking.
+
+Based on my experience in these respects over many years of leadership at the highest levels, I can unhesitatingly state that utterances in the likes of “State chief accountants will be held liable for excessive expenses” are regressive, will stifle decision making and will further slow the wheels of government, and business, in an already volatile, uncertain, complex and ambiguous environment where quick response and instant gratification are what is expected by stakeholders. SCAs must not be driven into a state of paranoia where keeping to Budgets is given more prominence than in seeking, and advising on, expenditure/investments which yield better than average returns.
+
+Fear based leadership is when leaders lead by fear and their followers perform through fear. The fear of not being included, fear of failure, fear of unknowns, fear of change, fear of criticism, fear of punishment and fear of status et cetera. All these fears combined can make SCAs and, for that matter, other senior employees, unable to fulfil their true potential. On the contrary it is much more effective to give them exciting goals, objectives, resources to achieve the set goals and objectives, training and development and appropriate decision rights and create in them a true sense of professional belonging. Sri Lanka’s excellent Civil Service was ruined by political interference and non-meritocratic appointments. Let us not drive another nail into that coffin.
+
+Whilst I appreciate the need for an Annual Plan (Budget) as a sub-set of a long-term Business Plan, and as general guide in ensuring that revenues and expenses are in line with assumptions, I, particularly in my roles as Finance Director and subsequently Managing Director, American Corporation (Central Africa) Ltd., Lusaka, Zambia and Executive Director/Group Finance Director, John Keells Holdings PLC, Colombo, Sri Lanka, never used a ‘Budget’ as a way of rejecting/avoiding expenditure simply because it was not in the Budget in the first instance.
+
+There have been, and there are, innumerable instances where smart expenditure/investment which though unbudgeted have accelerated the achievement or enhanced the quality of outcomes. To reject such smart costs off-hand is being penny wise pounds foolish. Blind obeisance to a Budget is out of place in modern leadership thinking. Traditional budgeting, when viewed carefully, and unemotionally, is a process which attempts to embrace incompatible objectives.
+
+Firstly, budgeting supposedly sets targets to motivate and promote performance through direction and stretch goals. Secondly, budgeting attempts to provide forecasts of what lies ahead. This only works if the predictions are realistic and unbiased. When an Annual Budget is the baseline for short-term incentives, executives tend to deliberately understate revenues and overstate expenses to earn higher incentives. So where is the stretch? What do you do with the bias? Thirdly, C-Suite tends to allocate resources to the highest value creating opportunities to look good and not to all ‘projects’ which have a positive Net Present Value (NPV). This is a fundamental principle of corporate finance.
+
+One could argue that when capital is a limiting factor, projects must be prioritised. Prioritised on what basis? – Highest NPV or on what is critical to long-term sustenance of the organisation? It is my view that in an age of active financial markets, securing capital for Net Present Value Growth Opportunities (NPVGO) is not too herculean if the assumptions are realistic and marketable. As stated earlier, the traditional Budget is just a broad guideline. It must not be used fixatedly as a sole yardstick of performance management nor as a tool of punishment.
+
+Directing SCAs not to exceed budget is, in my opinion, tantamount to committing business Hara-kiri, because the blinkered approach will result in many NPVGO moments being missed. Conversely, I suggest that leaders demand higher accountability from SCAs in exchange for more freedom and flexibility in a spirit of recognition and reward.
+
+If one is adamant that Budgets be used as a tool of absolute control, then I would advocate the use of ‘beyond budgeting’ concepts as popularised by the Beyond Budgeting Round Table (BBRT), a vehicle funded, approximately 20 years ago, by 50 prominent global companies to promote leadership principles such as;- * Engaging and inspiring people around bold and noble causes and not around financial targets, * Governing through shared values and sound judgement as opposed to governing through detailed rules and regulations, * Making information open in enhancing self-regulation, innovation and learning. Not through information restriction, * Cultivating a strong sense of belonging and organising around accountable teams than exercising control through hierarchy and bureaucracy, * Trusting people with freedom to act and where failure to achieve while acting in the best interest of the organisation is not punished, and * Connecting everyone with external and internal customer needs while avoiding conflicts of interest.
+
+The idea of ‘beyond budgeting’ is relatively new. Its rise is associated with the shift from a traditional bureaucratic organisational model to an agile business structure. In ‘beyond budgeting’ the obsessive homage to ‘actuals’ versus ‘budget’ is downplayed. To control and safeguard performance, the management accounting team or equivalent, establishes simple transparent performance monitoring processes which facilitate quick intervention if, and when, needed. It is my belief, and my hands-on experience, that reporting numbers in accounting-like detail does not achieve performance transparency nor performance effectiveness.
+
+‘Beyond budgeting’ involves not just a change in process but also in how leaders think about the future and about managing, and motivating people. It is a shift from politburo-style central planning and a command-and-control style of decision making to an approach which is a mix of directional guidance, delegation, and trust. While the world is changing, Sri Lanka is becoming more and more archaic in their leadership style. That is why we are where we are. All in all, it is time we got out of this “not in the budget- therefore no can do” mentality. It is also time we reduced the frequency, and intensity, of coercing performance through threats.
+
+However, let us face the hard facts on the ground. Fear mongering has been effective, and is effective, in political Sri Lanka. It works at most levels. That is why our national leaders frequently resort to it. They attract followers by convincing people that things will worsen unless they heed their lead. As much as you and I may not want to agree, a great number of people do respond to tactics like this. Even we, who think we are all-knowing, act out of fear in overt and in subtle ways in various situations.
+
+We vote for political candidates who scare us into believing that unless they are elected, the country will be in shambles. The problem here is that we look for the one messiah. We do not look for a team. We compromise our professionalism, values, and principles in the workplace in fear of losing our jobs. We give in to the fear of failure without attempting to make a difference. Business leaders stay silent even in the face of impending disaster through fear of losing favour with the leaders in power. It goes on and on. The sad result of all this is that we develop a selfish attitude of “I will make sure I am alright – I do not care about you”.
+
+Fear is the lowest form of motivation. It is designed to evoke an instinctual response to anything we assume puts our survival in danger. In the face of danger, we run away from it and analyse the root cause/s much later. Simply put, fear takes us away from the actual problem. Fear is a great immobiliser in that the human tendency is that once you are out of danger you do not want to risk facing the same danger again. Trust and faith are actions which assume a positive outcome. Fear, on the other hand, is a belief in a negative outcome. It only addresses ‘survival’. Trust and faith assume survival and look to flourish beyond it. All in all, regardless of your view on fear mongering, fear-based leadership can only be temporarily effective. Trust, freedom, liberty, empowerment, and autonomy open boundless possibilities. Personally, I would choose to flourish abundantly than survive barely. You make
+
+Fear-based leadership is a last resort in extreme situations. It is not a panacea for our execution ills.
+
+(The writer is a Leadership Coach, Mentor and Consultant and boasts over 50 years of experience in very senior positions in the
+
+### Is Sri Lanka’s economic recovery sustainable?
+
+*2024-01-18 05:32:27 - [dailyftlk](https://www.ft.lk/columns/Is-Sri-Lanka-s-economic-recovery-sustainable/4-757484)*
+
+The economic transition envisaged in the Government’s reform agenda needs resources and skills, accompanied by right policies and institutions
+
+The Sri Lankan economy is re-emerging from the worst socio-economic crisis. However, some cast doubts whether the current economic recovery would be sustainable. There are speculations of another balance of payments crisis due to external debt servicing once the debt restructuring process is complete. Others highlight a possible reversal of the reform agenda due to ‘political risks’ amidst forthcoming elections.
+
+Against this backdrop, this article attempts to assess the near- to medium-term macroeconomic outlook in light of the economic policies being pursued by policymakers at present.
+
+Real GDP growth in 2023-Q3 turned positive after a spell of consecutive contractions for six quarters. Near term growth outlook remains robust despite negative spillovers due to tax changes. The leading economic indicators, such as purchasing managers’ indices for manufacturing and services sectors, show steady signs of expansion of economic activity. 2023-Q4 is also expected to record a positive GDP growth. More importantly, 2023 is expected to have recorded a ‘twin surpluses’ for the first time on record, i.e., a surplus in the primary balance of fiscal accounts and external current account. Market sentiments are expected to firm up, supported by well-anchored inflation (despite a transitory increase due to administrative measures), declining interest rates, bolstering official reserves, and the stable exchange rate. Debt restructuring process has reached an advanced stage. Policy credibility and predictability have improved with the support of effective and transparent dissemination of information on the conduct of public policies, mainly monetary and fiscal policies.
+
+Could the resumption of external debt servicing result in another balance of payments crisis?
+
+Sri Lanka’s total debt servicing would have reached over 38% of GDP by 2026 in the absence of any debt treatment (IMF Country Report – 2022). However, under the baseline scenario of debt restructuring, the same assessment conducted in 2023 revealed that the total debt servicing could be as low as 22% of GDP by 2026, and more importantly, the external debt servicing would be as low as 3.3% of GDP by 2026. Figure 1 shows a notable positive impact of debt restructuring on Sri Lanka’s debt servicing. Under the debt sustainability targets, foreign currency debt serving is expected to be maintained below 4.5% of GDP over the medium term (IMF Country Report – 2023).
+
+Hence, the claims of excessive debt servicing burden on the Government and the possibility of another foreign exchange crisis due to large foreign exchange debt servicing are not borne out of debt sustainability analysis. The resumption of debt servicing would certainly be growth positive as it brings in more investor confidence underpinned by international support and improvement to the credit ratings of the country.
+
+Debt restructuring sans a banking crisis is a great advantage to secure a faster recovery
+
+Sustaining the positive momentum of economic growth following a debt restructuring has not been easy in international experiences. Countries which underwent debt restructuring have shown mixed empirical evidence on the time taken to catch up with the lost output. The degree of output loss depends on the nature of the debt treatment and economic conditions that prevail pre- and post-debt restructuring. The post-restructuring outcomes are mainly determined by the severity of the pre-restructuring debt problems, debt treatment choices, and shocks. Research has shown that output losses are large when debt restructuring is accompanied by banking crises (IMF Staff Report, 2021). Because Sri Lanka managed to avert a banking crisis, the possible output loss has been significantly contained. Hence, the recovery of activity could be faster in the forthcoming years.
+
+The key question that remains is how long it will take for the economy to reach the potential growth rate. Because the Sri Lankan economy has been battered by a multitude of shocks even during the period leading up to the external debt crisis in 2022, economic growth in the pre-crisis years has also been low. With an estimated cumulative loss of real output by about 11% during 2022 and 2023, the economy could take considerable time to reach the pre-crisis level of economic activity and the potential level. As Figure 2 shows, real economic activity has declined to levels seen in 2015. If the economy grows by 3% quarterly (y-o-y), it will take about another four years to reach the level activity of 2018. This time could be halved if the economy could grow by 5% quarterly (y-o-y). Hence, the economy would need to grow faster to catch up with the lost output during the crisis. Policymakers will need to ensure that the right policies are in place to sustain the growth momentum over the medium term. The economic transition envisaged in the Government’s reform agenda needs resources and skills, accompanied by right policies and institutions.
+
+Sri Lankan economy lacked fiscal and external buffers as it has been plagued by the ‘twin deficit’ for several decades. Successive Governments in Sri Lanka have adopted populist budgetary policies, which are electorally popular in the short run but detrimental to long-run growth prospects. Consequently, Sri Lanka recorded perpetual budget deficits for decades resulting in accumulation of public debt to an unsustainable level. The persistent revenue under performance and discretionary Government expenditure caused a primary deficit in fiscal accounts. With perpetual budget deficits, public debt rose to a substantially high level. Consequently, foreign debt servicing became challenging.
+
+Meanwhile, the lack of foreign exchange generation from the investments made with borrowed funds brought the economy to a standstill in 2022, as foreign inflows dried up and credit ratings plummeted. Simultaneously, the country’s trade competitiveness has been hindered by an array of factors: the lack of innovation and adoption of technology, retarded productivity growth, lack of market and product diversification of exports, overreliance on imports, discretionary exchange rate management, among others. External imbalances have been worsened by the primary income deficit in external accounts, that was mainly caused by the interest payments on external debt by the public sector.
+
+Having learned the hard lessons of postponing reform implementation, the Government has embarked on a reform agenda that aims at addressing long standing structural vulnerabilities. This reform agenda is based on a five-pillar strategy, envisaged in the Extended Fund Facility (EFF) supported arrangement from the International Monetary Fund (IMF); (i) preserving the revenue-based consolidation, (ii) restoring public debt sustainability, (iii) maintaining price stability and rebuilding external buffers, (iv) ensuring financial stability, and (iv) reducing corruption vulnerabilities and strengthening governance, and raising potential growth.
+
+These strategies are complementary. Achieving one strategy or two, without the others, would not be adequate to get the economy out of the woods on a sustainable basis. Figure 3 shows the expected adjustment in the budget deficit and external current account deficit supported by the reforms being pursued. The envisaged improvement of the twin deficit remains crucial in sustaining the near to medium term recovery of the economy.
+
+The swift and sizeable policy intervention that was undertaken by the Government and the Central Bank in the wake of the crisis in 2022 helped curtail further worsening of the crisis and restore macroeconomic stability. However, reforms cause large adjustment costs. The longer the delay in reform implantation, the larger the cost of adjustment. Winning public support remains key for the continuation of the reform agenda.
+
+The fiscal consolidation efforts have begun to show expected results. Following the announcement of the temporary debt standstill for selected foreign debt obligations in April 2022, the Government has been successful in carrying out the domestic debt optimisation operation and engaging with the external creditors to negotiate for a relief on external debt. The envisaged completion of debt restructuring process will trigger positive credit rating action, thereby helping to reduce risk premia of yields on sovereign securities. The debt restructuring, along with strengthened fiscal consolidation, will help bring down the public debt trajectory towards a sustainable path.
+
+Several actions associated with the institutional and legal reforms have already been completed or are being initiated following the passing of National Budgets in Parliament. These actions, which are wide ranging, include autonomy for monetary policy making, strengthening fiscal consolidation and discipline, effective debt management, factor market development, protection of environment, climate change mitigation, international economic integration, digital technology, natural resources management, reforming state-owned enterprises (SOEs) and management of public private partnerships, etc.
+
+A major reform that is expected to pave the way for economic sustainability is the enactment of the Anti-Corruption legislation in July 2022. Sri Lanka has also been the first Asian nation to undergo the IMF evaluation pertaining to governance and the Governance Diagnostic Report has been published by end September 2023. The findings of this governance diagnostic are being considered in the ongoing reform agenda. Another such reform is the expected enactment of the Public Financial Management Bill that strengthens fiscal rules.
+
+In addition, a legislation is currently being drafted to establish an independent debt management office that will be responsible and accountable for prudent public debt management. Effective implementation of these legislative reforms is envisaged to improve the governance, transparency and accountability of public finance management, thereby strengthening the overall fiscal sector performance.
+
+The Government has taken hard decisions to turn around the loss making SOEs. These measures include the implementation of the pricing formulas for key utilities aimed at improving the financial performance key SOEs, restructuring the balance sheets of loss making SOEs and restructuring and partially or fully divesting non-strategic SOEs. Implementing these strategies would help improve competition and efficiency in the provisioning of goods and services, especially utilities, improve the good governance of such institutions, while reducing the potential burden of these SOEs on Government budget. In addition, several foreign debt obligations of the Ceylon Petroleum Corporation and Ceylon Electricity Board were absorbed to the debt of central government from end 2022 with the aim of minimising the financial burden caused by legacy debt.
+
+Reducing the burden of SOEs through these initiatives will help them transform into growth enablers. Reflecting the impact of these measures, financial performance of major SOEs has improved significantly thus far. Such improvements should accrue benefits to the public and contribute towards enhancing social welfare. Also, financially strong and efficient SOEs would help improve ease of doing business in the economy.
+
+The Central Bank of Sri Lanka Act was enacted recently, replacing the Monetary Law Act, with the aim of ensuring greater autonomy for the monetary policy conduct without fiscal dominance. This new legislation is envisaged to eliminate room for taking policy missteps as in the past, particularly with regard to monetising the budget deficit, discretionary management of the exchange rate, etc., while making the Central Bank more accountable for managing the inflation at a targeted low level.
+
+Subsequently, the Ministry of Finance and the Central Bank signed an agreement to maintain inflation at 5% level with a margin of +/-2%. As price stability takes hold, it helps induce stability on the macroeconomy, thereby incentivising economic activity on sustained basis. Consumer price inflation is expected to be maintained around the target level over the medium term, despite a short-lived upward shift due to VAT amendments beginning January 2024.
+
+Sri Lanka’s labour market is undergoing a major adjustment as emigration share of skilled and professional categories soared in recent years. Just when the country needs more human capital with diverse skills to revive the economy post-crisis, such exodus of experts from technical and professional fields affects medium term growth prospects. Further, Sri Lanka’s working age population is shrinking, affecting the growth potential in the medium to long term. Overhauling archaic labour laws to attract and retain the talent would be crucial at this juncture. Flexibilities of employment, women employment, termination benefits, etc., require fresh thinking in line with the modern-day requirements.
+
+Another major impediment to long term economic growth is the lack of land rights to the private sector. Research has found that stronger property rights, accompanied by credible policies and institutions that facilitate equitable access and use of property would increase GDP by 5%. Measures that have already been taken to transfer of sole rights of state lands to grant holders of about 2 million farmers is commendable.
+
+Sri Lankan economy is undergoing an adjustment after a significant loss of real output and investor confidence, and unprecedented social costs in recent years. The lost output can gradually be regained underpinned by the reform path currently being pursued. Bolstering investor confidence needs the full completion of the debt restructuring process. The progress thus far in terms of carrying out reforms and debt restructuring has been impressive. Yet, the full completion of the debt restructuring process needs the agreement from the private external creditors. Such agreement is expected to be reached in the near term, following which Sri Lanka would be able to elevate from the ‘default’ rating.
+
+Credit rating improvement will help reduce large risk premia on sovereign securities. As the economic conditions normalise with low inflation and low interest rates, real activity could be revived on a sustainable basis with the support of bold reforms that are currently in place, underpinned by the IMF-EFF supported arrangement. Benefits of the sustained recovery of the economy will help ease burden on the people and businesses suffered from the impact of the crisis. Permanent reduction in the twin deficit would be crucial to ensure a sustained recovery, reinforced by right policies and institutions, and more importantly robust growth strategies.
+
+It is noteworthy to end this article with a quote from Prof. Ricardo Hausmann on growth strategies for the developing world: “In the economic growth process, countries in the developing world do not grow by making more of the same. In fact, ‘more of the same’ is not the way rich countries grow either. In the process of economic growth, countries change what they do. They change what they’re good at. They evolve their comparative advantage. They do this because they acquire new productive capabilities; they acquire know-how and technology that allows them to do more diverse and valuable things.”
+
+IMF Staff Report (2021): Issues in restructuring of sovereign domestic debt, International Monetary Fund, Washington, D.C.
+
+IMF Country Report (2022): Sri Lanka - Article IV Consultation 2021 (Report No. 22/91)
+
+IMF Country Report (2023): Sri Lanka - Extended Arrangement Under the Extended Fund Facility Country (Report No. 23/116)
+
+Housman, Recardo: What are the Challenges of Economic Growth? Growth Lab, https://www.hks.harvard.edu/centers/mrcbg/programs/growthpolicy
+
+### Justice Minister assures support for Jaffna business community
+
+*2024-01-18 05:26:34 - [dailyftlk](https://www.ft.lk/business/Justice-Minister-assures-support-for-Jaffna-business-community/34-757483)*
+
+A meeting between the Jaffna Chamber of Commerce members and Justice, Prison Affairs and Constitutional Reforms Minister Dr. Wijeyadasa Rajapakshe PC was held in Jaffna on Tuesday.
+
+The businessmen led by Jaffna Chamber of Commerce Chairman R. Jayasegaran drew the Minister’s attention to the difficulties they are facing in doing business in the Northern Province. The Minister said that the necessary ordinances will be amended appropriately by drawing the attention of the President and the Government, and solutions will be provided to the problems.
+
+Ministry Secretary M.N. Ranasinghe and Office for National Unity and Reconciliation Chairman Charith Marambe joined this event.
+
+### St. Regis helps reduce Ceylon Tea carbon footprint with world’s first carbon-neutral bulk tea packaging
+
+*2024-01-18 05:01:52 - [dailyftlk](https://www.ft.lk/business/St-Regis-helps-reduce-Ceylon-Tea-carbon-footprint-with-world-s-first-carbon-neutral-bulk-tea-packaging/34-757471)*
+
+St. Regis Director Ajith Fernando (centre) with Climate and Conservation Consortium Director and CEO Sanith De S. Wijeyeratne (left) and St. Regis Head of Sales and Marketing Chanaka Athukorala at the presentation of the Zero Carbon product certificates
+
+A game-changing world-first in the sphere of packaging for bulk teas by Sri Lanka’s St. Regis Packaging can potentially enhance the environmental credentials of Ceylon Tea on the global stage.
+
+The inventor of the Rigid-T-sack that replaced plywood chests in the bulk packaging of large leaf teas in 1996, St. Regis has received the world’s first ZeroCarbon® product certification in its category for the company’s Rigid-T-sacks as well as for Multiwall paper sacks used for the packaging of Leafy and Grainy Teas.
+
+The certification means that Ceylon Tea packaged in these two types of St. Regis sacks for the Colombo Tea Auction or for export has offset the carbon dioxide equivalents (CO2e) of the packaging, reducing the overall product carbon footprint of the teas.
+
+Significantly, St. Regis Packaging currently supplies sacks for over half the teas sold at the weekly Colombo Tea Auction, and this industry-first achievement could be a catalyst for greater interest in carbon footprint reduction for tea, the company’s Director Ajith Fernando said.
+
+He said approximately six million packages are auctioned at the Colombo Tea Auction annually and this would be an ideal opportunity for Colombo to become the first tea auction in the world to start offering teas in carbon neutral packages.
+
+“St. Regis Packaging has many firsts to its name, and we are proud to be the first company in the world to offer carbon-neutral bulk tea packaging with two of our flagship products,” Fernando said. “The benefit of having their carbon emissions compensated for, can be passed-on to our customers, positively impacting their own carbon footprints. These certifications therefore represent an important value-addition for our customers, at no extra cost to them.”
+
+St. Regis retained the expert services of the Climate and Conservation Consortium (CCC), one of South Asia’s leading integrated sustainability solution providers, to assess the Greenhouse Gas (GHG) emissions of the company’s Multiwall paper sacks and Rigid-T-sacks. This comprehensive product carbon footprint study encompassed all applicable emissions during the ‘Cradle to Gate’ lifecycle stages of the selected types of tea sacks, including raw material extraction, upstream and downstream transportation, and manufacturing.
+
+Following the assessment, St. Regis retired a matching number of carbon credits from a registered project to bring the total carbon footprint of a selected volume of sacks down to net zero. The assessment results and offsetting process were then independently verified by the Sustainable Future Group (SFG), the first Validation and Verification Body (VVB) in South Asia to be accredited by the International Accreditation Forum (IAF) to award ISO 14064-1, 14064-2, 14067, and 14065. Post verification, SFG awarded St. Regis their proprietary ZeroCarbon® certification for the two packaging products.
+
+In 1996, St. Regis changed a 130-year-old tradition by inventing and patenting the Rigid-T-sack, enabling tea producers to replace the costly and environmentally unfriendly plywood chests used up to that point in the packaging of large leaf teas.
+
+Besides inventing the Rigid-T-sack, St. Regis has many other firsts to its name, including becoming the world’s first manufacturer of bulk packaging for tea to receive the ISO22000 and HACCP (Hazard Analysis and Critical Control Points) certifications, the first manufacturer to receive the Sri Lanka Standard (SLS) certification for both Rigid-T-sacks and Multiwall paper sacks, the first manufacturer of bulk packaging for tea to be certified compliant with FSSC22000, the highest food packaging certification in the world, and the first manufacturer in the sector to receive a carbon footprint assessment certificate.
+
+St. Regis states the company wants to encourage the Tea industry to maintain a ‘Green bottom line’ and work towards making pure Ceylon Tea the first carbon neutral tea produced in the world, thereby maintaining and catering to a niche market. This is also in keeping with Sri Lanka’s Green economic policy, the company said.
+
+“We believe that the quality of a corporate bottom line matters and that having a Green Bottom line covered with O2 is better than a bottom line marred by CO2,” Director Ajith Fernando added.
+
+### Cutting edge power: How BYD’s Blade Battery is changing the EV game
+
+*2024-01-18 04:58:44 - [dailyftlk](https://www.ft.lk/business/Cutting-edge-power-How-BYD-s-Blade-Battery-is-changing-the-EV-game/34-757470)*
+
+The truck test ensuring the Blade Battery can withstand upto 50 tons of pressure
+
+For years, worries about electric vehicles (EV) have remained, much like the persistent presence of vehicle exhaust fumes. Concerns about fiery meltdowns and roadside range woes cast a shadow on the electric revolution. But nestled in the heart of innovation, global giant BYD has forged a technological masterpiece to rewrite the rules of EV safety, range, and charging: the Blade Battery. While this game-changer has disrupted the global automobile landscape, its impact is particularly exciting for Sri Lanka, thanks to the crucial partnership between BYD and JKH.
+
+BYD’s story is intricately woven with the evolution of batteries. From humble beginnings as a manufacturer, they’ve relentlessly championed safer, more efficient technologies. This deep understanding of power flows through everything BYD does. Their EV journey began not with flashy debuts, but with tireless research and development, building a foundation of expertise in battery technology. They rose from a manufacturer to a powerhouse, pioneering safer and more efficient batteries, a choice that set them apart from the crowd. This dedication propelled them onto the global stage, where their EVs, powered by their own innovations, now cruise along bustling city streets and wind along scenic highways across the world. From their home turf in China to the expanding markets of Europe, Americas and Asia Pacific and other regions, BYD’s commitment to clean mobility is leaving its mark, one powerful, efficient battery at a time.
+
+This deep understanding of power flows through the Blade Battery, a masterpiece redefining everything we thought we knew about EV limitations. Forget bulky modules – the Blade Battery integrates individual cells directly into the vehicle’s core. This revolutionary design throttles the Achilles’ heel of lithium-ion batteries – heat runaway – preventing the domino effect of fiery failures. Picture your sleek BYD SEAL gliding through the streets of Colombo, its Blade Battery impervious to punctures and heat, having passed the Mount Everest nail penetration test- the most extreme test for battery safety.
+
+The Blade Battery’s ultra-high strength and cellular aluminum-like structure ensure that it is less likely to suffer catastrophic damage. It has been rigorously tested to withstand up to 50 tons of pressure without significant deformation, ensuring no fires and normal vehicle operation post-accident, a far cry from the anxieties plaguing traditional competitors.
+
+But safety is just the first act in the Blade Battery’s drama. Imagine conquering range anxiety, the stage fright of EV drivers. The BYD’s luxury sports sedan BYD SEAL powered with the Blade Battery is said to have a driving range up to 650 km (NEDC), while the relatively smaller BYD DOLPHIN has a range of 410 km as per the NEDC standard. Furthermore, it is rumoured that the Blade Battery will support a drive range of over 1,000 km in newer models in the near future.
+
+In addition to the long range offered by the battery, the Blade gulps down power like a parched traveller finding an oasis, reaching 80% capacity from 30% SOC (State of Charge) in a lightning-fast 15 minutes for the BYD SEAL. Picture zipping through Colombo’s gridlock in the BYD ATTO 3 or cruising along the breathtaking Galle Highway in the BYD DOLPHIN, knowing you can quickly refuel your electric adventures. With the active expansion of charging infrastructure across Sri Lanka, finding your next power source is simply a scene change, paving the way for worry-free commutes and weekend getaways across the island.
+
+But the Blade Battery’s strength goes beyond bulletproofing and swift refuelling. Its compact design maximises space, allowing for king-sized batteries without sacrificing size. Imagine exploring the emerald hills from Kandy to Kataragama in the BYD SEAL, a sedan capable of conquering 500 kilometres on a single charge – no more range anxiety interrupting your Sri Lankan odyssey! And the battery life? It leaves traditional batteries in the dust, lasting over 4,500 charging cycles with minimal degradation – over a million worry-free kilometres in the BYD SEAL, BYD ATTO 3, or BYD DOLPHIN, twice the life expectancy of even high-end models of other players.
+
+The Blade Battery’s impact transcends individual journeys. Its efficient design boosts range and longevity and minimises resource consumption. The compact structure requires less material, reducing the extraction and refining of environmentally sensitive metals like cobalt and nickel. Additionally, the extended lifespan translates to fewer batteries produced and discarded over time, minimising waste generation and resource depletion. This translates to a lower carbon footprint throughout the battery’s lifecycle, paving the way for a cleaner future for both Sri Lanka and the world.
+
+BYD’s Blade Battery isn’t just a technological marvel; it’s a catalyst for change. It shatters the myths of unsafe, short-lived batteries, replacing them with fortresses of power and endurance. It proves that EVs aren’t just eco-friendly alternatives; they can be exhilarating machines, redefining how we experience the open road.
+
+### RTI Commission opposes Govt. attempt to amend RTI Act
+
+*2024-01-18 04:55:08 - [dailyftlk](https://www.ft.lk/news/RTI-Commission-opposes-Govt-attempt-to-amend-RTI-Act/56-757469)*
+
+RTI Commission DG writes to Mass Media Ministry and stresses Commission sees no necessity to amend the existing law
+
+Says focus must be to improve RTI Commission’s independence and capacity instead
+
+Slams synopsis of RTI law formulated as part of UNDP project and says it does not accurately represent current provisions
+
+In a letter to the Ministry of Mass Media, the Right to Information Commission of Sri Lanka (RTISL) raised serious concerns about the Government’s attempt to amend the Right to Information Act, No. 12 of 2016 as part of the United Nations Development Programme (UNDP) project on Simplification of Selected Laws.
+
+In response to two letters, one from the Ministry of Mass Media and another from the Ministry of Justice, Prison Affairs, and Constitutional Reforms, along with an annexed document titled ‘Simplification of Selected Laws,’ RTI Commission’s Director General D.C. Dissanayake expressed the Commission’s opinion that there is no need to amend the existing law.
+
+Dissanayake highlighted that Sri Lanka’s RTI regime has been rated third in the global assessment of RTI laws internationally. “This rating has been formulated taking into account, the overall strength of the legal framework and the strengths and weaknesses of the legal framework in seven different categories, namely: Right of Access, Scope, Requesting Procedures, Exceptions and Refusals, Appeals, Sanctions and Protections, and Promotional Measures,” he pointed out.
+
+He also added that the RTI Act has been assessed by the International Monetary Fund (IMF) in its recent Governance Diagnostic Report as an outstanding example of transparency and has called on the Government of Sri Lanka not to enact future laws that will strip the Act of its effectiveness.
+
+The letter by the RTI Commission also shared with the Resident Representative of the UNDP, emphasised that the synopsis of the RTI Act, formulated by a Technical Committee as part of the UNDP project and mentioned in the letter from the Ministry of Justice, does not constitute amendments and does not accurately represent the current provisions of the act.
+
+Dissanayake said the RTI Commission has found the synopsis was fundamentally incoherent as it omits key sections of the act and mixes up important provisions of the Act. He pointed out that accordingly the synopsis if disseminated as part of the project would cause confusion and misapprehension among target audiences.
+
+The Director General said the effort should be to improve the independence and capacity of the RTI Commission as well as Public Authorities to meet the obligations of the Act as it currently stands. “As such, the RTI Commission is of the opinion that there is no immediate need to amend the RTI Act,” he noted.
+
+### Gotabaya’s ignorance exposed via SC decision - Hirunika
+
+*2024-01-18 04:54:38 - [dailyftlk](https://www.ft.lk/news/Gotabaya-s-ignorance-exposed-via-SC-decision-Hirunika/56-757468)*
+
+Labels former President Gotabaya Rajapaksa a failure who was unable to even execute Executive Powers vested in his post
+
+Claims Rajapaksa had signed documents after succumbing to pressure from Duminda Silva’s faction only to now be left humiliated
+
+Says SC decision affirms that truth will eventually prevail despite influence wielded by financial, political, or media entities
+
+Samagi Jana Balawegaya (SJB) former MP Hirunika Premachandra yesterday declared Gotabaya Rajapaksa as a complete failure as a President, notably even in executing the executive powers vested in him by the constitution.
+
+She underscored this point, citing yesterday’s landmark Supreme Court’s decision to invalidate the Presidential Pardon granted by Rajapaksa to former MP Duminda Silva, who was convicted in the murder case of her father, veteran politician Bharatha Lakshman Premachandra.
+
+During a press conference after the verdict, Premachandra, one of the petitioners in the case, remarked that Gotabaya Rajapaksa displayed ignorance, as evidenced by his failure to adhere to proper procedures in granting a Presidential pardon.
+
+Premachandra claimed Rajapaksa had succumbed to pressure from Duminda Silva’s faction and signed the document to grant Silva a Presidential pardon, only to find himself ultimately humiliated after the Court ruling.
+
+She remarked that the Supreme Court decision also affirmed that truth will eventually prevail, surpassing any influence wielded by financial, political, or media entities.
+
+The MP opined that Silva killed her father for speaking out against drug trafficking activities, despite her mother’s warnings to refrain from commenting on such matters. “My father even informed Mahinda Rajapaksa about Silva’s activities but Rajapaksa ignored him. Had he heeded my father and resolved these issues my father would be alive today. Instead, he orchestrated a conflict between them,” she alleged. Premachandra also claimed her father’s killing was carefully planned and not a coincidence as claimed.
+
+### Manusha blasts Finance Ministry officials
+
+*2024-01-18 04:49:25 - [dailyftlk](https://www.ft.lk/news/Manusha-blasts-Finance-Ministry-officials/56-757467)*
+
+Alleges bureaucrats have no idea about challenges faced by fishermen or how to protect them
+
+Labour and Foreign Employment Minister Manusha Nanayakkara yesterday alleged that the Finance Ministry officials are acting without any understanding regarding how to protect the fishermen and the fisheries industry.
+
+The Minister stressed, as a result, these officials have not been able to prepare a viable programme to protect fishermen and develop the fisheries sector.
+
+The Minister also pointed out that the Ministry of Finance officials actions indicate they do not have a proper understanding of the valuable contribution made by the fisheries sector to the development of the economy of this country.
+
+The Minister stated this during a meeting held at the Ministry of Labour and Foreign Employment with those employed in the fisheries sector.
+
+The meeting was a part of a series of such events organised under the ‘Garu Saru’ programme, initiated by the Ministry of Labour and Foreign Employment to uphold the dignity, security and professional status of all those employed in the informal sector of work in Sri Lanka.
+
+As a person who hails from Galle district, the Minister pointed out that he has a good understanding of the fisheries industry and the challenges faced by the professionals who are engaged in the sector.
+
+### Govt. allocates Rs. 14 b to provide land and housing for estate communities
+
+*2024-01-18 04:47:44 - [dailyftlk](https://www.ft.lk/news/Govt-allocates-Rs-14-b-to-provide-land-and-housing-for-estate-communities/56-757466)*
+
+Minister of Water Supply and Estate Infrastructure Development Jeevan Thondaman this week announced that the Government has earmarked Rs. 14 billion to ensure land rights for persons without land in the country’s estates sector.
+
+Thondaman made these comments while speaking to the media following an event held at the University of Peradeniya.
+
+The Minister said President Ranil Wickremesinghe has announced the initiation of measures to provide both land and housing for the estate communities. Accordingly, he confirmed that Rs. 4 billion has been allocated for land ownership while another Rs. 10 billion has been assigned for the construction of 10,000 estate houses across 89 Divisional Secretariat Divisions.
+
+Thondaman also expressed his vision to revive the upland tourism business associated with tea plantations. Additionally, he outlined plans for the establishment of a new university in the country’s central highlands.
+
+### Ali Sabry addresses the meeting of Foreign Ministers of NAM in Kampala
+
+*2024-01-18 04:47:13 - [dailyftlk](https://www.ft.lk/news/Ali-Sabry-addresses-the-meeting-of-Foreign-Ministers-of-NAM-in-Kampala/56-757465)*
+
+Foreign Minister Ali Sabry this week stated that it is essential to ensure that the Non Aligned Movement (NAM) continues to play a significant role in multilateralism, particularly on issues of importance to the global South, when addressing the Ministerial Meeting of the 19 Summit of the NAM that is currently ongoing in Kampala, Uganda from 17 to 18 January 2024.
+
+The Republic of Uganda assumed the Chairmanship of the 19th Summit of the Heads of State and Government of the NAM which is being convened under the theme, ‘Deepening cooperation for shared global affluence.’
+
+Recalling that Sri Lanka was a founding member of the movement and had hosted the 5th NAM Summit of Heads of State and Government in 1976, Minister Sabry reiterated that non-alignment is the cornerstone of Sri Lanka’s foreign policy. He further stated that contemporary global crises have brought the fragilities of the world to the forefront and that this has magnified the relevance of the Movement, as never before.
+
+He called on the NAM member states to speak in one voice when the very principles on which the movement is based are challenged and emphasised the importance of unity and solidarity among the members. He reaffirmed Sri Lanka’s solidarity with the people of Palestine during the ongoing humanitarian crisis in Gaza and stated that Sri Lanka will continue to support them in their quest to realise their inalienable right to statehood.
+
+The Ministerial meeting was preceded by the Senior Officials Meeting where the Sri Lanka delegation was led by Foreign Secretary Aruni Wijewardane. The Senior Officials meeting, held from 15 to 16 January 2024 in Kampala, negotiated and finalised the Outcome Document of the Summit and the Kampala Declaration. Both of these documents will be presented to the Heads of State and Government of the Non-Aligned Movement (NAM) when they meet from 19 to 20 January 2024.
+
+President Ranil Wickremesinghe is scheduled to address the Summit of the Heads of State and Government on 19 January 2024.
+
+On the side-lines of these meetings, Foreign Minister Sabry held bilateral discussions with the Foreign Minister of Uganda Odongo Jeje Abubakher, Foreign Minister of Pakistan Jalil Abbas Jilani and the Foreign Minister of Algeria Ahmed Attaf. The Foreign Minister is also scheduled to address the meeting of the NAM Ministerial Committee on Palestine, on 17 January 2024.
+
+The NAM which currently consists of 120 member states is based on the Bandung principles and aims to advance the interests of developing countries.
 
 ### ’மூக்கை நுழைக்காமல் இருக்க தெரியவில்லை’
 
@@ -355,6 +691,116 @@ The ILO works closely with governments, employers’ and workers’ organization
 இந்த பிரதேசத்தில் சிறந்தமூதலீட்டினை ஊக்குவிப்பதனை ஒரு இலக்காக கொண்டு 14  ஆவது ஆண்டு வர்த்தக் கண்காட்சி விளங்குகின்றது.
 
 இம்முறை 2000 பேர் அளவிலான தென்னிலங்கை முதலீட்டாளர்களும் இங்கு வந்து தமது சந்தைவாய்ப்பை மேற்கொள்ளவுள்ளனர் என்றார்.
+
+### HNB Assurance advisor distribution management team celebrates its exceptional performance
+
+*2024-01-17 20:34:00 - [islandlk](http://island.lk/hnb-assurance-advisor-distribution-management-team-celebrates-its-exceptional-performance/)*
+
+HNB Assurance recently convened the highly anticipated New Business Launch and Advisor Distribution Management Forum, showcasing the exceptional performance of its Advisor Distribution Channel which included a remarkable 37% increase in New Business Premium (NBP) growth, a robust 24% growth in Gross Written Premium (GWP) and the prestigious international recognition from Insurance Asia for the Best Distribution Initiative, during the year 2023.
+
+Lasitha Wimalaratne, CEO of HNBA expressed his thoughts at the forum, stating, “We are extremely proud of the outstanding performance displayed by our Advisor Distribution Channel during the year 2023, a trend they’ve continued over the last three years. This impressive growth in NBP and GWP as well as the other achievements underscores the expertise and resilience of our team.”
+
+HNB Assurance PLC, ended 2023 with a stellar performance both in terms of Gross Written Premium (GWP) and New Business Premium (NBP) with the former seeing 23% growth and the latter reaching 29% above that of the corresponding period last year. The Company, having taken an aggressive stance in terms of sustained growth, implemented various initiatives which have paid off resulting in these impressive figures. In terms of the Million Dollar Round Table (MDRT), the Company produced 202 qualifiers with 5 Top of the Table (TOT) and 20 Court of the Table (COT) qualifiers.
+
+Reaffirming the Company’s commitment to achieving a 10% market share within the next three years, Wimalaratne emphasized the importance of collective efforts that will propel the organization towards this ambitious target. “As we welcome the new year, I urge everyone to embrace technology, prioritize continuous innovation and enhance customer engagement. With this approach we will undoubtedly achieve success while remaining on track to achieve our long-term goals.”
+
+ComBank & UnionPay invite cardholders to ascend to culinary heights
+
+Global reputation expert to speak on vital topic for corporate and political leaders
+
+HNB Assurance’s winning streak continues at SLIM National Sales Awards
+
+HNB Assurance Celebrates Achievements and Talent at Annual Staff Conference
+
+HNB Assurance becomes the only Sri Lankan insurance company in 70 Best Workplaces in Asia™ 2022
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### Net foreign outflows within first 15 days of New Year hit Rs. 1 billion
+
+*2024-01-17 20:30:00 - [islandlk](http://island.lk/net-foreign-outflows-within-first-15-days-of-new-year-hit-rs-1-billion/)*
+
+The Colombo bourse continued on its negative run yesterday as net foreign outflows crossed the Rs. 1 billion mark in less than 15 market days in the New Year. The reason for the selling pressure was the belief that upcoming corporate earnings are not likely to be favourable, market analysts said.
+
+Amid those developments both indices move downwards. The All- Share Price Index went down by 65.6 points and S and P SL20 declined by 22.3 points.
+
+Turnover stood at Rs 802 million without any crossings. In the retail market top seven companies that mainly contributed to the turnover were; Ceylinco Insurance (Non- Voting) Rs 294 million (377,000 shares traded), JKH Rs 68.9 million (372,000 shares traded), Capital Alliance Rs. 9 million (1.1 million shares traded), Browns Investments Rs 40 million (9 million shares traded), Expolanka Holdings Rs 38.7 million (278,000 shares traded), TJLanka Rs 20.6 million (550,000 shares traded) and Associated Motor Finance Rs 20.2 million (994,000 shares traded). During the day 31.6 million share volumes changed hands in 9300 transactions.
+
+It is said that the Insurance sector was the top contributor to the market turnover (due to Ceylinco Insurance (Non- Voting), while the sector index lost 0.67 points. The share price of Ceylinco Insurance (Non- Voting) decreased by Rs. 20 to Rs. 800.
+
+The Food, Beverage & Tobacco sector was the second highest contributor to the market turnover (due to Melstacorp), while the sector index decreased and share price of Melstacorp lost Rs. 3.20 to settle at Rs. 85.
+
+Capital Alliance, JKH and Browns Investments were also included among the top turnover contributors. The share price of Capital Alliance moved down by 40 cents to touch Rs. 53.20.
+
+Yesterday, the US dollar buying rate was Rs 316.78 and selling rate Rs326.43.
+
+First Capital celebrates double wins at SLIM Brand Excellence Awards
+
+Three regional telecom players show interest in SLT shares as latter appreciate
+
+Visits by IMF delegation and Japanese Finance Minister positively impact CSE
+
+Hotels going in for right issues in preparation for tourist season
+
+Share market indices dip in the wake of Vallibel One’s negative contribution
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### First Capital celebrates double wins at SLIM Brand Excellence Awards
+
+*2024-01-17 20:08:00 - [islandlk](http://island.lk/first-capital-celebrates-double-wins-at-slim-brand-excellence-awards/)*
+
+First Capital Holdings PLC, the pioneering investment institution, has achieved a significant milestone by clinching two prestigious awards at the SLIM Brand Excellence Awards 2023, marking its debut at the award ceremony. The company’s outstanding brand performance in the capital market sector was recognized in the B2B Brand of the Year category, earning the Silver award, and the Turnaround Brand of the Year category, earning the Bronze award.
+
+The SLIM Brand Excellence Awards is a distinguished platform that recognizes outstanding achievements in brand excellence at the highest level in the country. It celebrates exceptional efforts, strategies and remarkable brand stories, encouraging performance, and enhancing brand equity while inspiring marketers to reach international standards.
+
+First Capital’s success in securing both the B2B Brand of the Year – Silver and Turnaround Brand of the Year – Bronze awards was a recognition of their agile thinking, strategic prowess, capital market expertise, and research-backed decision-making process. Furthermore, their remarkable financial performance amid challenging macro-economic conditions has showcased First Capital’s resilience and industry savviness, ensuring profitability while exceeding customer expectations. The company’s ability to turn around its financial performance and achieve its highest-ever profits within the financial year, coupled with its pivotal role in not only pursuing business motives but also contributing significantly to the economic turnaround of the country, has been duly noted in the rigorous evaluation process conducted by SLIM.
+
+Gamika de Silva, Group Chief Marketing Officer of Janashakthi Group, shared his insights on company’s accomplishments, stating, “Over the course of First Capital’s distinguished four-decade legacy, the commitment to performance has been evident. With strong leadership and an extensive team of professionals, First Capital has been dedicated to bringing value to its stakeholders. However, this dedication goes beyond strategies for consistent growth and enduring success; it involves shaping the First Capital brand to embody shared values and collective efforts, creating a powerful brand with a national purpose. This marks only the beginning of a journey filled with many more milestones.”
+
+Global reputation expert to speak on vital topic for corporate and political leaders
+
+Net foreign outflows within first 15 days of New Year hit Rs. 1 billion
+
+First Capital reports ‘impressive financial performance’ with profits soaring to Rs. 2.81 billion
+
+Jaffna business community ‘enthusiastic’ about investment banking products and services
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+### Global reputation expert to speak on vital topic for corporate and political leaders
+
+*2024-01-17 20:06:00 - [islandlk](http://island.lk/global-reputation-expert-to-speak-on-vital-topic-for-corporate-and-political-leaders/)*
+
+In a world that has lurched from VUCA to RUPT, how can businesses navigate the complexities of managing Reputation, Risk and Regulation?
+
+The answers that leaders need – to rethink, reframe and lead through the turbulence they are experiencing, may be forthcoming at a timely talk in Colombo by Ashwani Singla, a globally-renowned reputation management specialist.
+
+Titled ‘Negotiating the Complex landscape of Reputation, Risk & Regulation in a RUPTured World,’ the thought leadership event is presented by the Public Relations Association of Sri Lanka (PRASL) as its first event for 2024, and takes place at the Cinnamon Grand Hotel, the event’s Hospitality Partner, at 6 pm on Tuesday, 30th January.
+
+The speaker Ashwani Singla, is the Founding Managing Partner of Astrum, India’s first specialist reputation management advisory, which offers science-based reputation management solutions for C-Suite and Political leaders. He is the Co-founder and former Chief Executive of Burson-Marsteller India, and was a member of the global giant’s Asia-Pacific Board. He also served as Asia MD of Penn Schoen and Berland (PSB), where he used voter insights to guide the Campaign Committee of the BJP as its campaign strategist and delivered a historic victory in 2014, in addition to maintaining a clean sweep of several state elections over the last decade.
+
+In his presentation, Singla will answer daunting questions such as: How do we sustain and protect reputation in a naked world, where everything is visible, when the space for dialogue is shrinking, when machines become more powerful than the average Jane or Joe, and when governments cannot keep up with innovation and disruptions? How, as the conscience-keepers of organisations, do PR professionals and Corporate Communications specialists help companies sustain and protect their reputations and license to operate?
+
+These questions are particularly of interest to businesses in Sri Lanka as the country begins a year that is projected to be extra challenging with national elections, arduous economic reforms and low growth on the cards.
+
+Tickets for the event are priced at Rs 7,500 for members of PRASL and their invitees and at Rs 9,000 for non-members.
+
+The Public Relations Association of Sri Lanka was formally launched in 2023 to address a long-felt need to give voice to the industry, infuse high standards, and develop the skills of professional practitioners. The Association’s objectives include gaining recognition for PR practice and enhancing its influence, fostering high professional standards and ethical practices as a valued PR industry, and bringing together and representing public relations practitioners. PRASL also aims to provide thought leadership events and networking opportunities for members to exchange ideas and professional experiences, all while keeping the interests of its members and the wider society in mind.
+
+Emirates readies to recruit 5,000 cabin crew from six continents in 2024
+
+First Capital celebrates double wins at SLIM Brand Excellence Awards
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
 
 ### අනවසර විදුලි රැහැන්වලට අලි ඇතුන් 50ක් පසුගිය වසරේ මිය ගිහින්
 
@@ -1490,6 +1936,42 @@ Representing the Sri Lankan business community at the event were John Keels Hold
 
 இதேவேளை, பேராதனைப் பல்கலைக்கழக கால்நடை மருத்துவப் பிரிவும் பேராதனை போதனா வைத்தியசாலையும் இணைந்து குரங்குகளின் கர்ப்பத்தைத் தடுப்பதற்காக 'லூப் கருத்தடை' எனப்படும் கருப்பையக சாதனத்தை (IUD) அறிமுகப்படுத்தும் நடவடிக்கையில் ஈடுபட்டுள்ளதாக பேராதனை பல்கலைக்கழக கால்நடை மருத்துவ அறிவியல் துறை பேராசிரியர் அசோக தங்கொல்ல கடந்த வருடம் தெரிவித்திருந்தமையும் குறிப்பிடத்தக்கது.
 
+### Apple overtakes Samsung as world’s biggest phone-maker
+
+*2024-01-17 12:30:00 - [islandlk](http://island.lk/apple-overtakes-samsung-as-worlds-biggest-phone-maker/)*
+
+Apple now has the lion’s share of the global smartphone market, knocking Samsung off the top spot for the first time in 12 years.
+
+The American phone giant accounted for more than a fifth of phones shipped last year, according to data from the International Data Corporation (IDC).
+
+Samsung took 19.4% of the market share with Chinese phone-makers Xiaomi, OPPO and Transsion following behind.  Smartphone sales have been faltering as many people upgraded in the pandemic.
+
+The IDC reports that almost 1.2 billion smartphones were sold last year – a drop of more than 3% on the previous year. It is the lowest amount sold in a decade, with many consumers tightening their purse strings in the face of economic challenges and high interest rates. Experts predict the market will recover this year.
+
+Still, the IDC said Apple – which sold more than 234 million phones last year – is “the biggest winner”. “Not only is Apple the only player in the Top 3 to show positive growth annually, but also bags the number 1 spot annually for the first time ever,” said the IDC’s Nabila Popal.
+
+“All this despite facing increased regulatory challenges and renewed competition from Huawei in China, its largest market.” Huawei has recently made strides in making its own chips, after being banned from buying chips that were made using US technology over claims the company poses a national security risk to Washington.
+
+Offers to trade in old models as well as interest-free financing plans are also driving demand for premium devices like Apple.
+
+It’s disappointing news for Samsung which – until now – had the top spot as the world’s largest maker of memory chips, smartphones and televisions.
+
+Recently, the South Korean electronics giant warned its profits would drop more than expected as global demand for consumer electronics remains weak. It is also facing competition from cheaper Android models including Transsion and Xiaomi which are getting a boost from both price-savvy consumers and emerging markets.
+
+The IDC also said the smartphone market is entering a “very interesting time”, with a growing number of Android-providers splintering the market and customers increasingly prioritising foldable phones and AI capabilities.
+
+Navy detain two trawlers 18 fishermen poaching in Sri Lankan waters off Mannar
+
+Regulation of Election Expenditure Act No 3 of 2023 put in place to scrutinize funding sources of political parties – MP Wajira Abeywardena
+
+Students from Sri Lanka take a study trip to Huawei Headquarters in China
+
+Huawei notches revenue of CNY 456.6 billion within first three quarters of 2023
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
 ### Court order issued against planned IUSF protest in Colombo today
 
 *2024-01-17 12:24:00 - [adaderanalk](https://www.adaderana.lk/news/96474/court-order-issued-against-planned-iusf-protest-in-colombo-today-)*
@@ -1615,301 +2097,3 @@ But Yuan Xin, a professor at Nankai University and vice-president of the China P
 රජයේ පාසල්වල හා රජයේ අනුමත පෞද්ගලික පාසල්වල තෙවන පාසල් වාරයේ අවසන් අදියර පෙබරවාරි මස 5 වනදා ආරම්භ කරන බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
 
 මෙවර උසස්පෙළ කෘෂි විද්‍යාව ප්‍රශ්න පත්‍රයේ 1 සහ 2 කොටස් යන ද්විත්වයම නැවත පැවැත්වීමට විභාග දෙපාර්තමේන්තුව තීරණය කිරීම හේතුවෙන් මෙලෙස වාර ආරම්භක දිනය වෙනස් වී ඇත.
-
-### Special notice on commencement of second phase of third school term
-
-*2024-01-17 11:24:00 - [adaderanalk](https://www.adaderana.lk/news/96471/special-notice-on-commencement-of-second-phase-of-third-school-term)*
-
-The Education Ministry has announced the dates to commence the second phase of the third term of government and government-approved private schools.
-
-Accordingly, the second phase of the third school term is scheduled to begin on February 05 (Monday).
-
-However, commencement of the second phase of the third term has been pushed back after Paper I and Paper II of the 2023 Advanced Level examination’s Agricultural Science subject was annulled and a new date was set for the test.
-
-The Examinations Department said the new exam date and time would be as follows:
-
-Time: Paper II (from 08:30 a.m. to 11:40 a.m.) / Paper I (from 01:00 p.m. to 03:00 p.m.)
-
-On January 12, the Examinations Department decided to cancel the A/L exam’s Agricultural Science I & II question papers, due to reports that several questions of the paper had been leaked prior to the exam.
-
-Two days later, the Agricultural Science teacher, 52, of a popular government school in Ampara was arrested by the Criminal Investigation Department (CID) in connection with the incident. Subsequently, a 38-year-old man who had served as the peon of the chief of the exam centre at the Moratuwa Maha Vidyalaya was also arrested over his suspected complicity.
-
-### Sri Lanka rupee opens stronger at 321.20/40 to the US dollar
-
-*2024-01-17 11:22:00 - [economynextcom](https://economynext.com/sri-lanka-rupee-opens-stronger-at-321-20-40-to-the-us-dollar-147523/)*
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 321.20/40 to the US dollar on Wednesday, from 321.40/60 the previous day, dealers said.
-
-Bond yields were steady, but dealers expect the rates to ease at the auction based on secondary market trends.
-
-A bond maturing on 01.02.2026, was quoted stable at 13.70/75 percent.
-
-A bond maturing on 15.03.2028 was quoted at 14.15/14.25 percent from 14.15/20 percent.
-
-The Colombo Stock Exchange was trading down, with All Share Price Index down 0.14 percent at 10,531, and the S&P SL20 down 0.34 percent at 2,988. (Colombo/Jan17/2024)
-
-### ஓட்டோக்களுக்கு QR  அறிமுகம்
-
-*2024-01-17 11:16:21 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/ஓட்டோக்களுக்கு-QR-அறிமுகம்/175-331645)*
-
-தற்போது முச்சக்கரவண்டி சாரதிகளாக கடமையாற்றும் அனைவரினதும் பதிவு மற்றும் தரவு முறைமை தொடர்பில் QR குறியீட்டை அறிமுகப்படுத்தும் யோசனையை கருத்தில் கொண்டு மிகக் குறுகிய காலத்திற்குள் புதிய குறியீட்டை அறிமுகப்படுத்த நடவடிக்கை எடுக்கப்படும் என தொழிலாளர் அமைச்சர் மனுஷ நாணயக்கார தெரிவித்துள்ளார்.
-
-முச்சக்கரவண்டி சாரதிகளுக்கான தொழில்சார் சபைகளை ஸ்தாபிக்கும் நடவடிக்கையின் முதற்கட்டமாக செவ்வாய்க்கிழமை (16) இடைக்கால துறைசார் வழிகாட்டல் குழு ஸ்தாபன நிகழ்வில் கலந்து கொண்ட போதே அமைச்சர் இந்த கருத்துக்களை வெளியிட்டார்.
-
-மேலும், முச்சக்கர வண்டி சாரதிகளுக்காக ஸ்தாபிக்கப்பட்ட நிபுணத்துவ அமைப்பினால் முச்சக்கர வண்டி சாரதிகள் இணையத்தின் ஊடாக பயணங்களை மேற்கொள்ளும் முறைமையொன்றை தயாரிப்பது குறித்தும் இங்கு கலந்துரையாடப்பட்டுள்ளது.
-
-இலங்கையில் முறைசாரா துறையில் பணிபுரியும் அனைவருக்கும் தொழில் கௌரவத்தையும் பெருமையையும் வழங்கும் வகையில் ஆரம்பிக்கப்பட்ட “கரு சாரு” திட்டத்தின் கீழ் இந்த வழிநடத்தல் குழு உருவாக்கப்பட்டுள்ளது. தொழிலாளர் மற்றும் வெளிநாட்டு வேலைவாய்ப்பு அமைச்சர் மனுஷ நாணயக்கார தலைமையில் இந்தக் குழு அமைக்ப்பட்டமை குறிப்பிடத்தக்கது.
-
-### Sri Lanka Receives 117 Tonnes of Sunflower Oil
-
-*2024-01-17 11:15:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/sri-lanka-receives-117-tonnes-of-sunflower-oil/)*
-
-COLOMBO (News 1st); The Russian Federation has delivered 117 tonnes of sunflower oil to Sri Lanka as humanitarian assistance. The donation, handed over by Russian Ambassador Levan S. Dzhagaryan, was received with gratitude by Sri Lankan officials.
-
-"This is the second batch of vegetable oil we have provided to Sri Lanka since September last year," Ambassador Dzhagaryan said during the handover ceremony. "We hope to continue our support, not only to the friendly people of Sri Lanka, but also to other countries in need across Africa and Asia."
-
-The Ambassador acknowledged the ongoing challenges facing Russia, including international sanctions. He emphasized, however, that "thanks to the government's policies and President Putin's leadership, the Russian Federation has overcome many difficulties and emerged as Europe's top economy and the world's fifth, behind China, the United States, India, and Japan." He added, somewhat surprisingly, "It sounds a bit ironic, but thanks to the sanctions, we have boosted our domestic production and are moving forward under my president's guidance."
-
-The sunflower oil donation comes amid a difficult period for Sri Lanka, with the country grappling with an economic crisis. The aid is aimed at supporting Sri Lankan households facing food shortages and rising prices.
-
-### දුමින්දට ගෝඨා දුන් සමාව නීත්‍යානුකුල නෑ - මරණ දඩුවම යළිත් ක්‍රියාත්මක කිරීමට නියෝග
-
-*2024-01-17 11:14:23 - [adalk](https://www.ada.lk/breaking_news/දුමින්දට-ගෝඨා-දුන්-සමාව-නීත්‍යානුකුල-නෑ---මරණ-දඩුවම-යළිත්-ක්‍රියාත්මක-කිරීමට-නියෝග/11-407593)*
-
-භාරත ලක්ෂ්මන් ප්‍රේමචන්ද්‍ර මහතා ඝාතනය  සම්බන්ධයෙන් මරණ දඩුවම නියම වු දුමින්ද සිල්වාට හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතා ලබා දුන්  නිදහස ආණ්ඩුක්‍රම ව්‍යවස්ථාවට අනුකූලව සිදු කර නොමැති බව ශ්‍රේෂ්ඨාධිකරණය තීන්දු කළේය.
-
-ඒ අනුව ඔහුට එරෙහිව පැනවූ එම දඩුවම යළි ක්‍රියාත්මක කරන්නැයි බන්ධනාගාර කොමසාරිස්වරයාට ‌ශ්‍රේෂ්ඨාධිකරණය නියෝග කළේය.
-
-මියගිය භාරත ලක්ෂ්මන් ප්‍රේමචන්ද්‍ර මහතාගේ බිරිඳ වන සුමනා ප්‍රේමචන්ද්‍ර, දියණිය හිරුණිකා ප්‍රේමචන්ද්‍ර සහ ශ්‍රී ලංකා මානව හිමිකම් කොමිසමේ හිටපු කොමසාරිස්වරයෙකු වන නීතිඥ ගසාලි හුසේන් යන අය විසින් ඉදිරිපත් කළ පෙත්සම්, විභාග කිරීමෙන් අනතුරුව ගාමිණී අමරසේකර සහ අර්ජුන ඔබේසේකර යන විනිසුරුවරුන්ගේ එකඟත්වය ඇතිව ශ්‍රේෂ්ඨාධිකරණ විනිසුරු ප්‍රීති පද්මන් සුරසේන මහතා විසින් මෙම තීන්දුව ලබා දුන්නේය.
-
-### மூன்றாம் தவணை ஆரம்பமாகும் திகதி மாற்றம்
-
-*2024-01-17 11:07:20 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/மூன்றாம்-தவணை-ஆரம்பமாகும்-திகதி-மாற்றம்/175-331643)*
-
-அரசு மற்றும் அரசு அங்கீகாரம் பெற்ற தனியார் பாடசாலைகளில் அடுத்த பாடசாலை தவணை பெப்ரவரி 5ம் திகதி ஆரம்பமாகும் என கல்வி அமைச்சு  அறிவித்துள்ளது.
-
-புதிய பாடசாலை தவணை பெப்ரவரி 2 ஆம் திகதி ஆரம்பமாகுமென கல்வி அமைச்சு, முன்னதாக முடிவு செய்திருந்தமை குறிப்பிடத்தக்கது.
-
-### P R A S Gunawardana designated new Sri Lanka envoy to Maldives
-
-*2024-01-17 11:07:00 - [economynextcom](https://economynext.com/p-r-a-s-gunawardana-designated-new-sri-lanka-envoy-to-maldives-147529/)*
-
-ECONOMYNEXT – Sri Lanka Parliament’s committee on high posts has approved P R A S Gunawardana as the new High Commissioner designate for the Maldives, a statement said.
-
-Also approved was M A R M Fernando as chairman of the Public Utilities commission.
-
-Secretary for the non-cabinet State Plantation Enterprise Reforms ministry is M M S S B Walegama.
-
-S C J Devendra as chairman for Sri Lanka Export Credit Insurance Corporation.
-
-J M Susaidasan as chairman of Sri Lanka State Mortgage and investment bank. (Colombo/Jan17/2024)
-
-### ණය ප්‍රතිව්‍යුහගත කිරීමේදී ගිවිසුම් දෙකක්
-
-*2024-01-17 11:01:43 - [adalk](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමේදී-ගිවිසුම්-දෙකක්/11-407592)*
-
-රට ගොඩ නැගීමට ජනපති ගෙන යන වැඩ පිළිවෙළ හැර වෙනත් විකල්පයක් නැහැ
-
-අඩපණ වූ සංවර්ධන කටයුතු පෙබරවාරි මාසයේ යළි අරඹනවා – පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන.
-
-රට යළි ගොඩනැගීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙන යන වැඩපිළිවෙළ හැර වෙනත් විකල්පයක් නොමැති බවත් එබැවින් සියලු පක්ෂ බේද පසෙකලා එම වැඩපිළිවෙළ සාර්ථක කර ගැනීමට දායක විය යුතු බව පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා පැවසීය.
-
-පෙබරවාරි මාසයෙන් පසු ලෝක බැංකුව, ජාත්‍යන්තර මූල්‍ය අරමුදල, ආසියානු සංවර්ධන බැංකුව මෙන්ම මිත්‍ර රටවල් සමඟ රට ඉදිරියට ගෙන යාමට අවස්ථාව උදා වී තිබෙන බවත් එය කඩා කප්පල් කිරීමට ඇතැම් පාර්ශ්ව දරන ප්‍රයත්න හඳුනා ගනිමින් ඒවා පරාජය කිරීමේ වගකීම ජනතාව සතු බවත් මන්ත්‍රීවරයා අවධාරණය කළේය.
-
-පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ඊයේ (16) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
-
-එහි දී වැඩිදුරටත් අදහස් දැක් වූ පාර්ලිමේන්තු මන්ත්‍රී වජිර අබේවර්ධන මහතා මෙසේ ද පැවසීය,
-
-ශ්‍රී ලංකාව වැනි දේශපාලන පක්ෂ 75ක් පමණ ඇති රටක් ලෝකයේ තවත් නැහැ. ඒ අනුවයි අප රටේ බෙදීම් නිර්මාණය කර තිබෙන්නේ. එය රට තුළ අසමගියක් නිර්මාණය කර තිබෙනවා. නිදහසින් පසු මෙරට ඇති වූ බොහෝ විනාශයන්ට ද එම තත්ත්වය හේතු වූවා. මෙම පක්ෂවලට මුදල් ලැබෙන්නේ කෙසේද ? වියදම් කරන්නේ කව්රුන් ද යන්න පිළිබඳව සොයා බැලීමට කිසිදු ක්‍රමවේදයක් නැහැ. එබැවින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් මෙම පක්ෂ මැතිවරණවලදී මුදල් වියදම් කරන ආකාරය සොයා බැලීමට හැකියාව ලැබෙන පනතක් පාර්ලිමේන්තුවේ සම්මත කර තිබෙනවා.
-
-ඒ වගේම ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට මේ වන විට ලෝකයේම අවධානය යොමුව තිබෙනවා. ඒ වසරකුත් මාස හයක් තුළ අන්තයටම වැටී තිබූ රට යළි සංවර්ධනයේ මාවතට යොමු කළ නිසයි. ඒ වෙනුවෙන් ජනාධිපතිවරයා සෑම විදෙස් සංචාරයක්ම ඵලදායී ලෙස යොදා ගත් බවද සිහිපත් කළ යුතුයි.
-
-ඒ වගේම මේ වන විට රට ගොඩ නැගීම වෙනුවෙන් ක්‍රියාවට නංවා තිබෙන්නේ 2020 දී පරාජය වූ අපගේ පක්ෂයේ ප්‍රතිපත්ති ප්‍රකාශනය බව පැවසිය යුතුයි. එසේ නම් ජනතාව මතක තබාගත යුතුව ඇත්තේ අද වන විට හිඟයකින් තොරව ඉන්ධන, විදුලිය, ගෑස් ඇතුළු අත්‍යවශ්‍ය ද්‍රව්‍ය භුක්ති විදින්නේ ඔවුන් විසින් පරාජය කළ ප්‍රතිපත්ති ප්‍රකාශනය ක්‍රියාවට නැංවීමෙන් බවයි. අද රට සාමාන්‍ය තත්ත්වය පත්ව තිබෙන්නේ එම ලියවිල්ල නිසා බව ඔබ සිහිතබා ගත යුතුයි.
-
-එදා අප විසින් ටෝකියෝ සම්මේලනයට ඉදිරිපත් කළ “යළි පුබුදමු ශ්‍රී ලංකා” ග්‍රන්ථයේ ඇතුළත් කරුණු අද රජය විසින් ක්‍රියාත්මක කරමින් සිටිනවා. මේ රටේ දේශපාලනය කරන සියලු දෙනාම එය කියවා ගත යුතුයි.
-
-අප තවදුරටත් එකිනෙකා විවේචනය කර ගැනීමෙන් ඵලක් නැහැ. අන්තයටම පිරිහුණු රට යළි ගොඩ නැගීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙන යන වැඩපිළිවෙළ හැර වෙනත් විකල්පයක් නැහැ. අද ජනතාව පෝලිම් නැති යහපත් ජීවිතයක් ගත කරමින් සිටින්නේ එම වැඩපිළිවෙළ නිසයි. එබැවින් සියලු පක්ෂ මේ සමඟ එකට සිට ගත යුතුයි. මේ යන ගමන කවුරුන් විසින් හෝ වෙනස් කළොත් එහි වගකීම ඔවුන් විසින් දැරිය යුතුයි. දෙශපාලන වාසි වෙනුවෙන් ඇතැම් අවස්ථාවල සිදු කරන යම් යම් සාවද්‍ය ප්‍රකාශවල වගකීම ද එම පාර්ශ්ව විසින් දැරිය යුතුයි.
-
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා 2022 වසරේදී වගකීම භාර ගන්නා අවස්ථාව වන විට මේ රට තුළ කිසිවෙකුටත් දේශපාලනය කිරීමේ හැකියාව තිබුණේ නැහැ. කිසිම සංවර්ධන කාර්යයක් කිරීමට කිසිවෙකුටත් ශක්තියක් තිබුණේ නැහැ. වසර තුනක් අතපසු වූ එම සංවර්ධන ක්‍රියාවලි ලබන පෙබරවාරි මාසයේ සිට යළි ආරම්භ කිරීමට හැකියාව මේ වනවිට ලැබී තිබෙනවා.
-
-නමුත් මෙම රටේ සංවර්ධන ක්‍රියාවලිය අඩපණ කිරීම සඳහා ද ඇතැම් පාර්ශ්ව උත්සාහ ගනිමින් සිටිනවා. ඒ පිරිස් මේ දිනවල වැඩ වර්ජන රැල්ලක් දියත් කර තිබෙනවා. එය ලෝකය පුරා ප්‍රචාරය කිරීමෙන් මෙරට පැමිණෙන සංචාරයකයින් ප්‍රමාණය අඩු කිරීම ඔවුන්ගේ ප්‍රයත්නය වී තිබෙනවා . එමඟින් රටේ ආර්ථිකය බිද දැමිය හැකියි. ඒ හමුවේ රටට හිමි විය යුතු ඩොලර් බිලියන ගණනක් අහිමි වීමේ අවධානමක් පවතිනවා.
-
-තවද ණය ප්‍රතිව්‍යූහගත කිරීම සඳහා ජපානය මෙන්ම පැරිස් සමාජය ඇතුළු මෙරට ණය හිමි රටවල් සමඟ එක් ගිවිසුමක් ද, චීනය සමඟ තවත් ගිවිසුමක් ද අත්සන් කිරීමට නියමිතයි. ඒ සමඟ පෙබරවාරි මාසයෙන් පසු ලෝක බැංකුව, ජාත්‍යන්තර මූල්‍ය අරමුදල, ආසියානු සංවර්ධන බැංකුව, ජයිකා ආයතනය මෙන්ම මිත්‍ර රටවල සහයෝගය ඇතුව රට ඉදිරියට ගෙන යාමට අවස්ථාව උදා වෙනවා. එය කඩාකප්පල් කිරීමට ඇතැම් පාර්ශ්ව උත්සාහ කළ හැකියි. එවැනි ප්‍රයත්නයන් හඳුනාගෙන ඒවා පරාජය කිරීම ජනතාව සතු වගකීමක් වනවා.
-
-### ණය ප්‍රතිව්‍යුහගත කිරීමට ප්‍රධාන ණය හිමියන්ගෙ ප්‍රතිපත්තිමය එකඟත්වය
-
-*2024-01-17 10:58:44 - [adalk](https://www.ada.lk/breaking_news/ණය-ප්‍රතිව්‍යුහගත-කිරීමට-ප්‍රධාන-ණය-හිමියන්ගෙ-ප්‍රතිපත්තිමය-එකඟත්වය/11-407591)*
-
-අනාගතවාදී දැක්මකින් යුතුව ශ්‍රී ලංකාව නව ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාවලියෙහි නිරතව සිටිනවා
-
-අනාගතවාදී දැක්මකින් යුතුව ශ්‍රී ලංකාව නව ආර්ථික ප්‍රතිසංස්කරණ ක්‍රියාවලියෙහි නිරතව සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සඳහන් කළේය.
-
-ණය ප්‍රතිව්‍යුහගත කිරීමේ ක්‍රියාවලියේදී ශ්‍රී ලංකාව සාර්ථක ප්‍රගතියක් අත්කරගෙන ඇති බවත් ප්‍රධාන ණය හිමියන් ඒ සඳහා ප්‍රතිපත්තිමය වශයෙන් එකඟත්වය පළ කර ඇති බවත් ජනාධිපතිවරයා පැවසීය.
-
-2023 වර්ෂයේ දෙසැම්බරයේ දී ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ශ්‍රී ලංකාවට අදාළ වැඩසටහනෙහි පළමු සමාලෝචනය අනුමත කිරීම මගින් 2024 වර්ෂයේදී ශ්‍රී ලංකාවට ස්ථාවරත්වයේ සිට යථා තත්ත්වයට පත්වීම සහ වර්ධනය දක්වා ප්‍රවේශ වීමේ වේදිකාව සැකසී ඇති බව ද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
-
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙම අදහස් පළ කර සිටියේ ශ්‍රී ලංකා ආයෝජන මණ්ඩලය සහ ස්විස්-ආසියානු වාණිජ මණ්ඩලය එක්ව සංවිධානය කරන ලද ව්‍යාපාරික හමුවකට ඊයේ (15) ස්විස්ටර්ලන්තයේ දී එක් වෙමිනි.
-
-ස්විස්ටර්ලන්තයේ දී පැවැත්වෙන ලෝක ආර්ථික සමුළුවේ 54 වන වාර්ෂික රැස්වීමට සමගාමීව මෙය සංවිධානය කර තිබු අතර, ශ්‍රී ලංකාවේ ආර්ථික ප්‍රකෘතිය සම්බන්ධයෙන් අත්කර ගෙන ඇති සැලකිය යුතු ප්‍රගතිය සහ අනාගත වර්ධන අපේක්ෂාවන් පිළිබඳව ජනාධිපතිවරයා මෙහිදී කරුණු පැහැදිළි කළේය.
-
-විවිධ දුෂ්කරතා මධ්‍යයේ වුවද ශ්‍රී ලංකාව ජාත්‍යන්තර මූල්‍ය අරමුදලේ වැඩසටහන තුළ සැලකිය යුතු කාර්ය සාධනයක් අත් කර ගෙන ඇති බවට පසුගියදා ජාත්‍යන්තර මූල්‍ය අරමුදලේ නියෝජිත කණ්ඩායම හමු වූ අවස්ථාවේ දී සිදු කළ ප්‍රකාශයද මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිහිපත් කළේය.
-
-ජාත්‍යන්තර මූල්‍ය අරමුදල සමඟ සහයෝගීතාවයෙන් ණය ප්‍රතිව්‍යුහගත කිරීමේ කටයුතු සාර්ථකව සිදු කරන බවත්, ණය හිමියන් සමග කටයුතු කිරීමේදි එවැනි සහයෝගීතාවක් අවශ්‍ය වන බවත් ජනාධිපතිවරයා අවධාරණය කළේය.
-
-විදේශීය සෘජු ආයෝජන ඇතුළු ආයෝජන, අපනයන සහ සේවා හරහා රටේ ආර්ථිකය ප්‍රවර්ධනය කිරීමට රජය කටයුතු කරමින් සිටින බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පෙන්වා දුන්නේය.
-
-මෑත කාලීනව ශ්‍රී ලංකාව මුහුණ දුන් ආර්ථික අර්බුදය හේතුවෙන් ව්‍යාපාර, කුඩා ව්‍යවසායන් මෙන්ම සමස්ත ජනතාව කෙරෙහි අහිතකර ප්‍රතිවිපාක ඇතිවු බව සඳහන් කළ ජනාධිපතිවරයා ව්‍යාපාර සඳහා ඇති බාධක මෙන්ම විදුලිය සහ ඉන්ධන සැපයුම සඳහා ඇති බාධක ඉවත් කිරිම සඳහා 2022 සහ 2023 වර්ෂවලදී සිදුකළ ප්‍රතිසංස්කරණ පිළිබඳව ද සඳහන් කළේය.
-
-එමෙන්ම, ආනයන සීමා ලිහිල් කිරීම, විදේශ ප්‍රේෂණවල ද්‍රවශිලතාව නැවත යාථා තත්ත්වයට පත් කිරීම මෙන්ම 1977 වසරෙන් පසුව ප්‍රථම වරට ප්‍රාථමික ගෙවුම් ශේෂයේ අතිරික්තයත් වාර්තා කිරීමට හැකි වූ බව ද සඳහන් කළේය.
-
-2023 වර්ෂයේ තුන්වන කාර්තුවේ සිට මුල්‍ය ස්ථාවරත්වය ඇතිවීම, උද්ධමනය සැලකිය යුතු ලෙස පහළයාම සහ සෘණ ආර්ථික වර්ධනය ආපසු හැරවීම වැනි ධනාත්මක දර්ශක පිළිබඳ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙහිදී පෙන්වා දුන් අතර 2023 වර්ෂයේදී ප්‍රාථමික අයවැයෙහි අතිරික්තයක් අත්කර ගැනීම කැපී පෙනෙන වර්ධනයක් සනිටුහන් කිරීමක් බව ද ප්‍රකාශ කළේය.
-
-සිංගප්පූරුව, තායිලන්තය, ඉන්දියාව සහ චීනය සමඟ අවසන් වූ සහ ඉදිරියේදී එළැඹීමට නියමිත නිදහස් වෙළෙඳ ගිවිසුම් සහ අනෙකුත් දකුණු ආසියාතික රටවල් සමඟ පවතින වෙළෙඳ අවස්ථා පුළුල් කර ගැනීමේ සාකච්ඡා පිළිබඳව ද ජනාධිපතිවරයා මෙහිදී සිහිපත් කළේය.
-
-කලාපීය විස්තිරණ ආර්ථික හවුල්කාරිත්වයට (RCEP) ඇතුළත් වීම සඳහා ශ්‍රී ලංකාව සිදු කර ඇති මුලපිරීම මෙන්ම යුරෝපීය වෙළෙඳපොළ වෙත ප්‍රවේශ වීම සඳහා GSP+ මඟින් සැලසෙන ප්‍රතිලාභ සම්බන්ධවද ජනාධිපතිවරයා පෙන්වා දුන්නේය.
-
-පුනර්ජනනීය බලශක්තිය, කෘෂිකාර්මික නවීකරණය, සංචාරක ව්‍යාපාරය, තොරතුරු තාක්ෂණ සහ යටිතල පහසුකම් සංවර්ධනය සඳහා රාජ්‍ය-පෞද්ගලික හවුල්කාරිත්වයන් ඇතිකර ගැනීම තුළින් ආයෝජනය කිරීමේ අවස්ථා පවතින බව ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
-
-වෙළඳපල ප්‍රවේශය වැඩි දියුණු කිරීම, වෙළඳාම සහ ආයෝජන ප්‍රවර්ධනය කිරීම සහ ශ්‍රී ලංකාවේ ආර්ථිකයේ තරඟකාරිත්වය සහතික කිරීම අරමුණු කරගනිමින් ක්‍රියාත්මක වීමට නියමිත නීති සහ කොමිෂන් සභා පිළිබඳව ද ජනාධිපතිවරයා සඳහන් කළේය. ආයෝජන සඳහා සීමාවන් ඉවත් කිරීමට සහ ආර්ථික ප්‍රතිසංස්කරණ සඳහා තමා අඛණ්ඩව කැප වන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විදේශීය ආයෝජකයන්ට සහතික විය.
-
-මේ අතර ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක සහ ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානී සාගල රත්නායක මහතා, ආර්ථික සහ රාජ්‍ය යන දෙඅංශයම ඇතුළත් වූ පුළුල් ප්‍රවේශයක් තුළ පවතින වැදගත්කම අවධාරණය කළේය.
-
-ආර්ථික ප්‍රතිසංස්කරණවලට සමගාමීව රජය පුළුල් වෙනස්කම් රාශියක් ආරම්භ කළ බව ද එහිදී සාගල රත්නායක මහතා සඳහන් කළේය. ජාත්‍යන්තර මූල්‍ය අරමුදල විසින් ආරම්භ කරන ලද විනිශ්චය ක්‍රියාදාමයක ශ්‍රී ලංකා රජය නිරත වූ බවත් එම විනිශ්චය ක්‍රියාවලිය අවසන් කරන තුරු බලා නොසිටිමින් ලංකා රජය ඊට පෙර විවිධ ක්‍රියාමාර්ග ආරම්භ කළ බවත් පැවසීය.
-
-පාර්ලිමේන්තු අයවැය කාර්යාලය පිහිටුවීම වැනි වැදගත් ක්‍රියාමාර්ග පාලන විනිශ්චය පිළිබඳ වාර්තාව ප්‍රකාශයට පත් කිරීමට පෙර සිටම ක්‍රියාත්මක වූ බව ද සාගල රත්නායක මහතා වැඩිදුරටත් සඳහන් කළේය.
-
-මෙම මූලික පියවරයන්ගෙන් පසුව, පාලන විනිශ්චය ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීම සඳහා පුළුල් වැඩසටහනක් දියත් කෙරුණු අතර එහිදී දූෂණ විරෝධී නීතිය වැනි තීරණාත්මක නීති හඳුන්වාදීමේ වැදගත්කම සාගල රත්නායක මහතා අවධාරණය කළේය.
-
-ආණ්ඩුක්‍රම ව්‍යවස්ථා සභාව විසින් ජනාධිපතිවරයා වෙත දූෂණ විරෝධී කොමිසම සඳහා පත් කළ යුතු කොමසාරිස්වරුන් නිර්දේශ කරන ක්‍රියාවලිය පිළිබඳව ද ඒ මහතා පැහැදිලි කළේය. මේ පිළිබඳ ගනු ලබන සියලුම ක්‍රියාමාර්ග ජාත්‍යන්තර ප්‍රමිතීන්ට අනුකූලව ප්‍රමිතිය ඉහළ නැංවීම අරමුණු කරගනිමින් සිදු කරන බව ද සාගල රත්නායක මහතා අවධාරණය කළේය.
-
-පාලන තන්ත්‍රය සඳහා සැලකිය යුතු නීති ප්‍රමාණයක් හඳුන්වාදිය යුතු බවත්, දැනටමත් ආසන්න වශයෙන් ඉන් 20ක් පමණ සම්පූර්ණ කර ඇති බවත් සාගල රත්නායක මහතා සඳහන් කළේය.
-
-අනාගතය දෙස බලමින්, කම්කරු නීති ද ඇතුළත් වන පිරිදි නව නීති 40 ක් හෝ 50 ක් සම්පාදනය කිරීමත්, දැනට පවතින නීති 40 සිට 50ක ප්‍රමාණයක් නවීන සහ ඉදිරි දැක්ම සහිත රාමුවක් තුළට ඒකාබද්ධ කිරීමත් සිදු කෙරෙන බව ද සදහන් කළේය.
-
-### Urgent Call For Action: Sri Lanka Must Enact The Long-Awaited Animal Welfare Bill
-
-*2024-01-17 10:56:32 - [colombotelegraphcom](https://www.colombotelegraph.com/index.php/urgent-call-for-action-sri-lanka-must-enact-the-long-awaited-animal-welfare-bill/)*
-
-In a country where the penalty for the cruel killing of a dog stands at a meager Rs.100, the urgency for comprehensive legislation to protect animals has never been more evident. Sri Lanka stands at a crossroads, holding within its grasp the power to usher in a new era of compassion and justice for its four-legged citizens. The proposed Animal Welfare Bill, which garnered cabinet approval in 2022 after 15 years of advocacy, is a beacon of hope that must not be allowed to fade into legislative obscurity.
-
-The existing Prevention of Cruelty to Animals Ordinance, a century-old, 3-page relic, falls woefully short of addressing the complexities of contemporary animal welfare issues. It is a document out of sync with the times, unable to provide the robust legal framework needed to safeguard animals from abuse and cruelty. In a commendable move, the Animal Welfare Bill, gazetted on 07.02.2022, seeks to replace this outdated ordinance, offering stronger, more comprehensive provisions that reflect the evolving understanding of animal rights.
-
-Regrettably, despite receiving cabinet approval and being hailed by animal welfare activists as a significant step forward, the Bill has languished without making its way to Parliament for enactment. The question on the minds of concerned citizens echoes loudly: How many more years must pass before Sri Lanka takes decisive action to protect its animals?
-
-The need for urgency cannot be overstated. Animal abusers continue to act with impunity, emboldened by the absence of a robust legal deterrent. A mere Rs.100 fine for the cruel killing of a dog is not only a mockery of justice but also a disheartening signal that the value of animal lives remains grossly underestimated.
-
-The citizens of Sri Lanka, along with impassioned animal welfare advocates, unite in their call for the swift enactment of the Animal Welfare Bill. It is not merely a matter of introducing legislation but an imperative to create a legal foundation that empowers authorities to take decisive action against those who inflict harm on innocent animals. The delay in enacting this crucial Bill only perpetuates the vulnerability of animals and erodes the moral fabric of the nation.
-
-Sri Lanka has an opportunity to showcase its commitment to compassion, justice, and progress by enacting the Animal Welfare Bill without further delay. Let this be the moment when the nation rises above outdated norms, sending a resounding message that the welfare of animals is a priority and that cruelty will no longer be tolerated. The time for action is now, and Sri Lanka must seize this opportunity to shape a future where animals are afforded the protection they rightfully deserve.
-
-*The writer is a practicing attorney at law and who is also an animal rights advocate
-
-### Supreme Court deems Duminda Silva’s presidential pardon invalid
-
-*2024-01-17 10:54:00 - [adaderanalk](https://www.adaderana.lk/news/96470/supreme-court-deems-duminda-silvas-presidential-pardon-invalid)*
-
-The Supreme Court has declared former President Gotabaya Rajapaksa’s decision to grant presidential pardon to former MP Duminda Silva, convicted and sentenced to death for the murder of Bharatha Lakshman Premachandra, as invalid.
-
-The relevant court order was issued by a three-judge bench of the Supreme Court when several petitions filed by the late Premachandra’s wife and daughter, Sumana and Hirunika Premachandra and former Commissioner of the Human Rights Commission of Sri Lanka (HRCSL) Attorney-at-Law Ghazali Hussain, was taken up in court this morning  (17 Jan.).
-
-The judge bench was presided over by Justice Preethi Padman Surasena and consisted Justices Gamini Amarasekara and Arjuna Obeysekara.
-
-Thus, the Commissioner General of Prisons was instructed by the Supreme Court to take the relevant measures necessary so as to impose the impending sentence against Duminda Silva, adding that former President Gotabaya had failed to follow the proper legal procedure when granting the said amnesty.
-
-Accordingly, the Supreme Court ordered the Commissioner General of Prisons to take steps to implement the sentence previously imposed on this petitioner.
-
-### பாட்டியுடன் சென்ற சிறுவன் முதலையிடம் சிக்கினான்
-
-*2024-01-17 10:49:38 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/பாட்டியுடன்-சென்ற-சிறுவன்-முதலையிடம்-சிக்கினான்/175-331639)*
-
-களனி ஆற்றில் நீராடிக் கொண்டிருந்த ஒன்பது வயது சிறுவனை முதலை இழுத்துச் சென்றுள்ள சம்பவம் செவ்வாய்க்கிழமை (16)  கடுவெல பிரதேசத்தில் பதிவாகியுள்ளது.
-
-கடுவெல , வெலிவிட்ட புனித அந்தோனி வீதியை சேர்ந்த ஒன்பது வயதுடைய  டிஸ்ன  பெரேரா என்ற சிறுவனையே இவ்வாறு  முதலை இழுத்துச் சென்றுள்ளது.
-
-குறித்த சிறுவன் தனது பாட்டியுடன் குளிப்பதற்கு வந்துள்ளதாகவும் பாட்டி துணி துவைக்கும்வரை சிறுவன் நீராடிக் கொண்டிருந்த போது திடீரென முதலை வந்து சிறுவனை கௌவ்விக்கொண்டு போயுள்ளதாகவும் தெரியவந்துள்ளது.
-
-இது தொடர்பில் கடுவெல பொலிஸாருக்கு கிடைக்கப்பெற்ற தகவலையடுத்து  சம்பவ இடத்திற்குச் விரைந்த போது சிறுவன் முதலையின் வாயில் சிக்கிக் கொண்டிருப்பதையும்  பலமுறை அந்த முதலை ஆற்றில் மேல் பரப்பிற்கு வந்து சென்றுள்ளதையும் கண்டுள்ளனர்.
-
-### President Affirms Commitment To Two-State Solution In Palestine – A comment
-
-*2024-01-17 10:48:21 - [colombotelegraphcom](https://www.colombotelegraph.com/index.php/president-affirms-commitment-to-two-state-solution-in-palestine-a-comment/)*
-
-I refer to the above headed front page news report in the Daily News of 12th January 2024 and wish to express my views:
-
-1. By prescribing a two-State solution to the current armed conflict between Israel and Palestine, the President exposes his double standards in solutions to the Israel/ Palestine national question and our own Tamil National Question. This is not saying a Two-State solution in Palestine is undesirable and be rejected. Both questions are identical, the Palestine and the Tamil National question in Sri Lanka. If the question is the same, then naturally it follows that the solutions to both should be the same. The difference is that the President and every Sri Lankan Government, since the beginning of the Tamil National question in 1956, have been stubbornly negating a workable solution to the Tamil National question, leave aside a Two-State solution. Furthermore, the Tamils have a far more deep rooted history in Sri Lanka than the Jews and Islamic Palestinians, in Judea. The Tamils are original inhabitants of Sri Lanka, from prehistoric times, when Sinhalese and their Sinhala language did not even exist.
-
-2. National leaders should rule by principles and not by subjective self interests of one’s racial identity. If the President is driven by principle to prescribe a two-State solution to the Israel/Palestine question, then the same principle should be applied to a similar situation in Sri Lanka. Principles are universal in character. Principles are independent and stand on their intrinsic right, and not subject to vagaries of time, place and persons.
-
-3. In respect of the Tamil national question the President negates the law of principle and even denies the complete implementation of the Indo-Sri Lanka Accord by not devolving to the North East Provincial Council that was established, both Land and Police powers, under a Unitary Sri Lankan State. The minority Tamils have not claimed for a two-State solution, which the President is committed to Israel/Palestine question. The Tamils are not seeking for a separate State. What the Tamils are seeking is a North East con-federal State within an undivided Sri Lanka. President is committed to a Two- State or Two-Country solution to the Israel/Palestine conflict but not willing to commit even to consider a Federal State to the Tamils within an undivided Sri Lanka. This exposes his double standards in principle. This is despite the Tamils having had a Northern Tamil Kingdom from historical past up to the time of arrival of the Colonial Power, the Portuguese in 1505.
-
-4. It is clear as crystal that what drives the President is not the lopsided commitment to a Two-State solution to Israel/Palestine conflict, but self-interested opportunity to woo the Muslim community for votes at the impending Presidential elections.
-
-5. The Presidents and Governments of Sri Lanka are doing exactly the same thing what the Israel is doing in Palestine by expanding and colonizing land in Palestine, by keeping the Armed forces in occupation of the North Eastern region and applying pressure and intimidation to the remaining Tamil population to leave the land by emigration, accompanied by parallel Sinhalisation and Buddhisisation of North East, to establish a Sinhala Buddhist domination, hegemony under a complete Unitary Sri Lankan State.
-
-6. Since the Tamils are the inhabitants of Sri Lanka from pre-historic times and the Sinhalese and their language evolved only in 7th century CE, the President should evince far greater commitment for a con-federal State solution for our own Tamil problem at the door step, without a separate State solution ,than be preoccupied with a distant Palestine problem. It seems the President has far greater altruistic concern for the Jewish and Palestinian people than for the Lankan Tamil people. To be a Statesman, principled action is a necessary quality.
-
-### BREAKING: Supreme Court Declares Duminda Silva Pardon Unlawful
-
-*2024-01-17 10:45:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/breaking-supreme-court-declares-duminda-silva-pardon-unlawful/)*
-
-COLOMBO (News 1st); Sri Lanka's Supreme Court has unanimously ruled that the presidential pardon granted to former MP Duminda Silva by ex-President Gotabaya Rajapaksa was unlawful.
-
-Silva, alongside four others, was convicted in 2016 by the High Court for the 2011 murder of politician Bharatha Lakshman Premachandra.
-
-All five received the death penalty, a verdict later upheld by a five-judge bench of the Supreme Court.
-
-However, following his election victory in 2019, Gotabaya Rajapaksa unexpectedly granted a pardon solely to Silva.
-
-Three separate fundamental rights petitions challenging the legality of the pardon were subsequently filed with the Supreme Court.
-
-The fundamental rights applications were filed by Hirunika Premachandra, her mother Sumana Premachandra, and Former Human Rights Commissioner Ghazali Hussain, PC.
-
-After careful consideration, the bench, comprising Justices P. Padman Surasena, Gamini Amarasekera, and Arjuna Obeysekera, unanimously concluded that the pardon process was flawed and therefore unlawful.
-
-### தனியார் வகுப்புகள் குறித்து அமைச்சர் கருத்து
-
-*2024-01-17 10:40:52 - [tamilmirrorlk](https://www.tamilmirror.lk/செய்திகள்/தனியார்-வகுப்புகள்-குறித்து-அமைச்சர்-கருத்து/175-331637)*
-
-தற்போதைய போட்டிக் கல்வி முறைமையில் அரசாங்கம் பாடசாலைக் கல்விக்காக செலவிடும் தொகையை விட பெற்றோர்கள் 30 சதவீதம் அதிகமாக தனியார் வகுப்புகளுக்காக செலவிட வேண்டியுள்ளதாக நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்துள்ளார்.
-
-“பொதுவாக ஒரு குழந்தை 20,000 ரூபாயை பிரத்யேக வகுப்பிற்காக செலவழிக்கிறது.நம் நாட்டில் 5.7 மில்லியன் குடும்பங்கள் உள்ளன, பெற்றோர்கள் குறித்த வகுப்புகளுக்காக சுமார் ரூ.121 முதல் ரூ.122 பில்லியன் வரை செலவிடுகிறார்கள்” என தெஹியோவிட்ட பாடசாலையொன்றில் நேற்று இடம்பெற்ற கூட்டத்தில் கலந்து கொண்டு உரையாற்றும் போது அவர் தெரிவித்தார்.
-
-2024 ஆம் ஆண்டுக்காக நிதியமைச்சகத்திலிருந்து அரசாங்கம் 546 பில்லியன் ரூபாவை ஒதுக்கியுள்ளது. மொத்தக் கல்விச் செலவீனத்தில் 402 பில்லியன் ரூபா நாட்டிலுள்ள பாடசாலைக் கல்விக்காக ஒதுக்கப்பட்டது. இதில் மக்களின் தனியார் வகுப்பு கல்விச் செலவுகள் சேர்க்கப்படவில்லை. நம் நாட்டில் உள்ள பணவீக்க உயர்வை குறித்து ஆராய குழுவொன்று நியமிக்கப்பட்டுள்ளது," என்று அமைச்சர் கூறினார்.
-
-### Navy apprehends 18 Indian fishermen poaching in Sri Lankan waters
-
-*2024-01-17 10:31:00 - [adaderanalk](https://www.adaderana.lk/news/96469/navy-apprehends-18-indian-fishermen-poaching-in-sri-lankan-waters)*
-
-Sri Lanka Navy has apprehended 18 Indian fishermen who were poaching in Sri Lankan waters off Mannar on Tuesday evening (Jan.16).
-
-In an operation mounted off the coast of Mannar by the North Central Naval Command, the naval personnel had impounded 2 Indian fishing trawlers with 18 fishermen aboard.
-
-The apprehended Indian fishermen and the poaching trawlers have been brought ashore to the Thalpadu Pier in Mannar and they are due to be handed over to the Talaimannar Fisheries Inspector for onward legal action.
-
-The Navy conducts regular patrols and operations in Sri Lankan waters to curb illegal fishing practices by foreign fishing trawlers, taking into account the consequences of these practices on the livelihood of local fishermen and the marine resources of the country.
-
-### Reforms starting to pay off! Kristalina tells Ranil in Davos
-
-*2024-01-17 10:24:00 - [newsfirstlk](https://www.newsfirst.lk/2024/01/17/reforms-starting-to-pay-off-kristalina-tells-ranil-in-davos/)*
-
-COLOMBO (News 1st); International Monetary Fund (IMF) Managing Director Kristalina Georgieva met with Sri Lankan President Ranil Wickremesinghe at the World Economic Forum in Davos, Switzerland, and took the opportunity to praise the country's economic reform efforts.
-
-Georgieva highlighted the significance of the IMF Board's approval of the first review of Sri Lanka's Extended Fund Facility (EFF) program in December 2023. This approval, she stated, "was a recognition of the important reforms Sri Lanka has pursued."
-
-Expressing optimism about the progress made, Georgieva further declared, "These reforms are starting to pay off!"
-
-At a separate event on the sidelines of the World Economic Forum, President Ranil Wickremesinghe offered a cautiously optimistic outlook on Sri Lanka's economic recovery, highlighting progress in debt restructuring and praising the IMF's recent program review.
-
-Wickremesinghe described his surprise when a visiting IMF team acknowledged Sri Lanka's "over-performance" in tackling the ongoing economic crisis.
-
-He underscored the severity of the crisis, stating that "it affected all adversely," and reiterated the importance of the debt restructuring agreement reached with the IMF.
-
-"There is no other way out for Sri Lanka," Wickremesinghe emphasized, acknowledging the crucial role in facilitating negotiations with the country's creditors.
-
-According to Wickremesinghe, all of Sri Lanka's official creditors have agreed in principle to restructure debt in line with the IMF's target requirements. The next hurdle lies in finalizing discussions with commercial creditors.
-
-The successful completion of the IMF's first program review in December 2023 further emboldens Sri Lanka's optimism.
-
-Wickremesinghe said this achievement is a turning point, paving the way for the economy to shift from stabilization to recovery and growth in 2024.
-
-He emphasized the need for continued commitment to IMF-backed reforms and reiterated the importance of transparency and accountability.

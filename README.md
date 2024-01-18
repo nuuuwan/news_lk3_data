@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 00:17:30**
+As of **2024-01-19 00:32:41**
 
 ## Newspaper Stats
 
-*Scraped **1,107** Articles*
+*Scraped **1,119** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -12,24 +12,76 @@ colombotelegraphcom | 23 | 🟩🟩
 bbccomsinhala | 33 | 🟩🟩🟩 
 islandlk | 64 | 🟩🟩🟩🟩🟩🟩 
 newsfirstlk | 71 | 🟩🟩🟩🟩🟩🟩🟩 
-economynextcom | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩 
+economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 89 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 110 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailyftlk | 120 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailyftlk | 125 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 126 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 131 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
+### 2024-01-19 (Friday)
+
+### Why stepmotherly treatment to oppressed segments of society via Micro Finance Bill?
+
+*2024-01-19 00:03:17* · [`dailyftlk`](https://www.ft.lk/columns/Why-stepmotherly-treatment-to-oppressed-segments-of-society-via-Micro-Finance-Bill/4-757513) 
+
+...
+
 ### 2024-01-18 (Thursday)
+
+### Salient features of the new Listing Rules on Corporate Governance
+
+*2024-01-18 23:54:19* · [`dailyftlk`](https://www.ft.lk/columns/Salient-features-of-the-new-Listing-Rules-on-Corporate-Governance/4-757511) 
+
+New rules on Corporate Governance of the CSE are set to enhance the governance regime among Listed Companies. The Listing Rules of the Colombo Stock Exchange (CSE) now include a newly added Section 9 on Corporate Governance. This section covers several key areas that require discussion and attention:
+
+1. Directors will not be considered ‘independent’ if they are above 70 years of age
+
+2. Chairperson and CEO positions cannot be held by one person
+
+...
 
 ### Five advantages banks can reap by implementing ISO 22301 Business Continuity standards
 
 *2024-01-18 23:43:35* · [`dailyftlk`](https://www.ft.lk/columns/Five-advantages-banks-can-reap-by-implementing-ISO-22301-Business-Continuity-standards/4-757510) 
 
 Compliance with ISO 22301 helps banks align their business continuity management practices with international standards. This can facilitate compliance with regulatory requirements related to operational resilience and business continuity. The Central Bank of Sri Lanka recognises the requirements of ISO 22301 may use it to assess an organisation’s resilience measures
+
+...
+
+### Has the JVP unequivocally ruled out an armed struggle to win government?
+
+*2024-01-18 23:38:52* · [`dailyftlk`](https://www.ft.lk/columns/Has-the-JVP-unequivocally-ruled-out-an-armed-struggle-to-win-government/4-757509) 
+
+In an environment of hardships, and loss of hope, patience could wear thin, and violence could escalate. This is where the JVP, with their history of violence as a means to topple democratically elected governments, has to be totally unambiguous about their policy on an armed struggle. They cannot leave room for interpretations and misinterpretations
+
+...
+
+### Homework for NPP
+
+*2024-01-18 23:35:20* · [`dailyftlk`](https://www.ft.lk/columns/Homework-for-NPP/4-757508) 
+
+“Probably, the single most prevalent claim advanced by the proponents of a new paradigm is that they can solve the problems that led the old one to a crisis.” (Thomas Kuhn)
+
+“A new scientific truth does not triumph by convincing its opponents, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.” (Max Planck)
+
+...
+
+### Soap and Allied Industries marks 25 years of growth and success
+
+*2024-01-18 22:49:58* · [`dailyftlk`](https://www.ft.lk/business/Soap-and-Allied-Industries-marks-25-years-of-growth-and-success/34-757502) 
+
+Soap and Allied Industries Director Rizky Deen handing over a token of appreciation to Chairman Farook Deen
+
+Opening of the Argeville experience centre at SAIL head office in Colombo by the Director Rizky Deen and Argeville France President Xavier Ardizio
+
+Soap and Allied Industries Chairman Farook Deen handing over an all-inclusive Dubai tour package to a most senior employee
+
+Soap and Allied Industries Director Rizky Deen addressing the gathering at 25th anniversary celebrations
 
 ...
 
@@ -283,6 +335,16 @@ The suspended action, which seeks ‘economic justice’ for healthcare employee
 
 ...
 
+### Sri Lanka to have own e-NIC project amid privacy concerns over Indian deal
+
+*2024-01-18 18:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-have-own-e-nic-project-amid-privacy-concerns-over-indian-deal-147872/) 
+
+ECONOMYNEXT – Sri Lanka is in the process of introducing electronic National Identity Card (e-NIC), the Public Security Minister said, after delays in India-funded Unique ID card project amid data privacy concerns.
+
+The government has called for tenders and four foreign manufactures with local partners have bided for the project, Minister Tiran Alles said.
+
+...
+
 ### மீன் வியாபாரியை சுடச் சென்றவர்கள் அதிரடி கைது
 
 *2024-01-18 18:46:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்-வியாபாரியை-சுடச்-சென்றவர்கள்-அதிரடி-கைது/175-331756) 
@@ -347,6 +409,14 @@ Sri Lanka Cricket (SLC) says it has obtained the services of former South Africa
 
 ...
 
+### Sri Lanka Police Minister raps UN over anti-drug campaign concerns
+
+*2024-01-18 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-minister-raps-un-over-anti-drug-campaign-concerns-147853/) 
+
+ECONOMYNEXT – Sri Lanka’s Public Security Minister Tiran Alles, who is also in charge of the island nation’s police, slammed the United Nations Human Rights Commission and its local arm for criticizing the government’s anti-drug campaign which has nabbed around 39,000 for their involvement with drugs.
+
+...
+
 ### Over 100,000 offensive videos of children shared on social media
 
 *2024-01-18 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-100-000-offensive-videos-of-children-shared-on-social-media/108-275285) 
@@ -354,6 +424,18 @@ Sri Lanka Cricket (SLC) says it has obtained the services of former South Africa
 Colombo, Jan 18 (Daily Mirror) - More than 100,000 offensive video clips of children have been shared on social media, with various individuals contributing to this alarming trend during the past year alone.
 
 Acting IGp Deshabandu Thennakoon said that these videos depict children being sexually abused and expose their nudity, and spreading virally on social media platforms.
+
+...
+
+### Sri Lanka’s Laugfs Leisure delays public listing
+
+*2024-01-18 17:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-laugfs-leisure-delays-public-listing-147845/) 
+
+ECONOMYNEXT – Laufgs Holdings says it is not able to list its leisure arm Laugfs Leisure Limited (LLL) on the Colombo Stock Exchange as anticipated, as it was still unable to satisfy Rule 5.1.1 (c).
+
+The company submitted an Initial Listing Application (ILA) for LLL to the CSE on November 7, 2019.
+
+Laugfs Leisure includes Anantaya Resorts and Spas Chilaw and Pasikudah.
 
 ...
 
@@ -367,6 +449,22 @@ The Head of State is on an official visit to Uganda to attend the 19th Non-Align
 
 ...
 
+### Sri Lanka rupee closes at 320.70/90 to the US dollar
+
+*2024-01-18 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-320-70-90-to-the-us-dollar-147841/) 
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 320.70/90 to the US dollar on Thursday, from 320.90/321.10 the previous day, dealers said.
+
+A bond maturing on 01.06.2025 closed at 13.20/30 percent from 13.40/60 percent.
+
+A bond maturing on 01.02.2026 closed at 13.60/65 percent from 13.60/75 percent.
+
+A bond maturing on 15.01.2027 closed at 13.65/75 percent from 13.70/85 percent.
+
+A bond maturing on 15.03.2028 closed at 14.00/14.05 percent from 14.05/10 percent.
+
+...
+
 ### மரக்கறிகளின் விலை உயர்வு ஏப்ரல் வரை நீடிக்கும் - நுவரெலியா பொருளாதார மத்திய நிலையத்தின் தலைவர்
 
 *2024-01-18 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/174261) 
@@ -374,6 +472,22 @@ The Head of State is on an official visit to Uganda to attend the 19th Non-Align
 மரக்கறிகளின் விலை உயர்வு ஏப்ரல் மாதம் வரை நீடிக்கும் என  நுவரெலியா பொருளாதார மத்திய நிலையத்தின் தலைவரும் அகில இலங்கை ஒன்றிணைந்த விசேட பொருளாதார நிலையத்தின் ஆலோசகருமான அருண சாந்த ஹெட்டியாராச்சி தெரிவித்தார்.
 
 நுவரெலியா பொருளாதார மத்திய நிலையத்தில் வரலாற்றில் முதல் தடவையாக கரட் உள்ளிட்ட மரக்கறிகளின் விலை வெகுவாக அதிகரித்துள்ளதாக இன்று வியாழக்கிழமை (18)    நுவரெலியா பொருளாதார மத்திய நிலைய காரியாலயத்தில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது இதனை தெரிவித்தார்.
+
+...
+
+### Sri Lanka stocks close down, as selling pressure in banks continues
+
+*2024-01-18 17:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-as-selling-pressure-in-banks-continues-147838/) 
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Thursday, data on its site showed.
+
+The All Share Price Index was down 0.19 percent, or 19.41 points, at 10,460.
+
+The S&P SL20 index was down 0.57 percent, or 16.83 points, at 2,957.
+
+Sectors that saw higher investor interest were the banks industry (110mn), followed by the energy industry (74mn) and diversified financials industry (71mn).
+
+Lanka IOC Plc saw the most active trading volumes of the day and closed down at 98.40.
 
 ...
 
@@ -461,6 +575,16 @@ Minister of Foreign Affairs Ali Sabry has highlighted that a humanitarian ceasef
 
 ...
 
+### Over 70-pct of Sri Lankan public unaware of Online Safety Bill: survey
+
+*2024-01-18 16:19:00* · [`economynextcom`](https://economynext.com/over-70-pct-of-sri-lankan-public-unaware-of-online-safety-bill-survey-147805/) 
+
+ECONOMYNEXT – Around 71.6 percent of the Sri Lankan public are unaware of the Online Safety Bill that is to be debated in parliament on January 23, a think tank has said.
+
+“Responding to the Wickremesinghe government’s proposed legislation; Anti-Terrorism Act and Online Safety Bill, a majority of Sri Lankans expressed that they are ignorant about both these proposed legislation,” the Centre for Policy Alternatives’ Confidence in Democratic Governance Index report found.
+
+...
+
 ### 300,000 more families added to ‘Aswesuma’ beneficiary list after consideration of appeals
 
 *2024-01-18 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96520/300000-more-families-added-to-aswesuma-beneficiary-list-after-consideration-of-appeals) 
@@ -520,6 +644,14 @@ He told reporters after the Matara District Coordination Committee meeting that 
 Matara, Jan. 18 (Daily Mirror)- Minister Prasanna Ranatunga ruled out any agreement between Parliamentarian Dhammika Perera and the Sri Lanka Podujana Peramuna (SLPP) on the Presidential candidacy.
 
 He told reporters after the Matara District Coordination Committee meeting that they cannot put the country in trouble again by appointing an inexperienced President.
+
+...
+
+### Saudi Arabia lowers salary ceiling for Sri Lanka housemaids: report
+
+*2024-01-18 15:56:00* · [`economynextcom`](https://economynext.com/saudi-arabia-lowers-salary-ceiling-for-sri-lanka-housemaids-report-147799/) 
+
+ECONOMYNEXT – Saudi Arabia has reduced the cost of domestic labour recruitment for Sri Lankan migrant workers, along with those from Bangladesh and Philippines, media reports said.
 
 ...
 
@@ -888,127 +1020,5 @@ He explained that video evidence of relevant offenses captured by the traffic di
 ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ ඉන්දීය කර්මාන්ත සමූහය (CII) සහ ලෝක ආර්ථික සමුළුව විසින් ඊයේ (16) ස්විස්ටර්ලන්තයේ දී සංවිධානය කරන ලද වටමේස සාකච්ඡාවට සහභාගී වෙමිනි.
 
 මෙහිදී ශ්‍රී ලංකාවේ පුළුල් ආර්ථික දැක්ම පැහැදිලි කරමින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පෙන්වා දුන්නේ,
-
-...
-
-### வெளிநாட்டு மோகத்தால் கொழும்பு அழகுக்கலை நிபுணரிடம் பல இலட்சங்களை இழந்த யாழ் ஆசிரியர்
-
-*2024-01-18 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/174232) 
-
-யாழ்ப்பாணத்தை சேர்ந்த ஆசிரியரை வெளிநாட்டுக்கு அனுப்பி வைப்பதாக கூறி 42 இலட்ச ரூபாய் பணத்தினை மோசடி செய்த கொழும்பை சேர்ந்த அழகுக்கலை நிபுணரை புதன்கிழமை (17) பொலிஸார் கைது செய்துள்ளனர்.
-
-தன்னை வெளிநாடு ஒன்றுக்கு அனுப்பி வைப்பதாக ஆசை வார்த்தைகளை கூறி தன்னிடம் இருந்து 42 இலட்ச ரூபாய் பணத்தினை பெற்று, கொழும்பை சேர்ந்த அழகுக்கலை நிபுணர் ஏமாற்றி விட்டார் என யாழ்ப்பாண பொலிஸ் நிலையத்தில் ஆசிரியர் முறைப்பாடு செய்துள்ளார்.
-
-...
-
-### Singapore charges a senior Cabinet Minister with 27 counts of corruption
-
-*2024-01-18 13:11:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/singapore-charges-a-senior-cabinet-minister-with-27-counts-of-corruption/) 
-
-Colombo (News 1st) – A powerful member of Singapore's Cabinet from the ruling People's Action Party was charged with 27 counts of corruption in a Singapore court Thursday, in a rare political scandal in the Southeast Asian city-state, international media reported.
-
-The case is the first corruption case involving a Cabinet Minister in Singapore since 1986.
-
-...
-
-### ஒரு மாத கால யுக்திய நடவடிக்கையில் கைதான நபர்கள், பறிமுதல் செய்யப்பட்ட சொத்துக்களின் பெறுமதி, விபரங்கள் வெளியாகின!
-
-*2024-01-18 13:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/174230) 
-
-நாடளாவிய ரீதியல் ஒரு மாத காலம் மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கைகளின்போது போதைப்பொருள் மற்றும் குற்றச் செயல்கள் தொடர்பில் 40,590 பேர் சந்தேகத்தில் கைது செய்யப்பட்டுள்ளதாக
-
-இதேவேளை, போதைப்பொருள் குற்றங்களுக்காக கைது செய்யப்பட்ட 38,225 சந்தேக நபர்களில், 1,703  பேர்  தடுப்புக் காவல்  உத்தரவுகளின் அடிப்படையில்  விசாரணைக்கு உட்படுத்தப்பட்டுள்ளனர்,
-
-மேலும் 1,867 பேர் போதைக்கு அடிமையானவர்கள் என அடையாளம் காணப்பட்டு  புனர்வாழ்வுக்குப்  பரிந்துரைக்கப்பட்டுள்ளனர்.
-
-...
-
-### වැට් බදු සියයට 18ට වැඩි කරලා ජනපති රට සවාරි යනවා
-
-*2024-01-18 13:04:25* · [`adalk`](https://www.ada.lk/breaking_news/වැට්-බදු-සියයට-18ට-වැඩි-කරලා-ජනපති-රට-සවාරි-යනවා/11-407612) 
-
-ජනාධිපතිවරයා විසින් ජනාධිපතිවරණයක් පවත්වන බවට ආරංචිය පතුරවමින් ජනතාගේ අදහස් සොයා බලන බවත් ස්වාධින අපේක්ෂකයන්, යූඇන්පී අපේක්ෂකයන් කවුද කියා ජනාධිපතිට සහ පොහොට්ටුවට මේ වන විට පටලැවි ඇති බවත් පළාත් පාලන මැතිවරණය හෝ පවත්වන්න කොන්දක් නොමැති මේ ආණ්ඩුව මහමැතිවරණ ජනාධිපතිවරණ ගැන පුරසාරම් දොඩන බවත් පැවසූ විපක්ෂ නායකවරයා කියා සිටියේ ජනතාවගේ ප්‍රජාතන්ත්‍රීය අයිතිය සුරකින ඕනෑම මැතිවරණයකට සමගි ජන බලවේගය මෙන්ම ජනතාව ද මුහුන දීමට සූදානම් බව යි.
-
-...
-
-### Man arrested with counterfeit currency notes in Nallathanniya
-
-*2024-01-18 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96509/man-arrested-with-counterfeit-currency-notes-in-nallathanniya) 
-
-Police have arrested a person who was in possession of counterfeit currency notes in the Nallathanniya area.
-
-Police said that the arrestee is a driver of a hired van that was transporting a group of pilgrims to the scared site of Sri Pada.
-
-...
-
-### IMF delegation discusses state reforms in energy, electricity sectors with Minister
-
-*2024-01-18 12:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96508/imf-delegation-discusses-state-reforms-in-energy-electricity-sectors-with-minister-) 
-
-Senior Mission Chief of the International Monetary Fund (IMF) for Sri Lanka Peter Breuer and other IMF officials met with Minister of Power and Energy Kanchana Wijesekera on Wednesday (17 Jan.).
-
-Officials of the Ministry, Ceylon Petroleum Corporation (CPC) and the Ministry of Finance were also present at the meeting, during which the reforms implemented by the government with regard to the electricity and energy sectors were discussed at length.
-
-...
-
-### சிறுவன், சிறுமி பாலியல் துஷ்பிரயோகம் : வாதுவை பொலிஸ் நிலைய கான்ஸ்டபிள் பணி இடைநிறுத்தம்!
-
-*2024-01-18 12:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174225) 
-
-சிறுவன் ஒருவனையும் சிறுமியையும் பாலியல் துஷ்பிரயோகத்துக்கு உட்படுத்திய குற்றச்சாட்டில் கைது செய்யப்பட்ட வாதுவை பொலிஸில் கடமையாற்றும் கான்ஸ்டபிள் ஒருவர் பணி இடைநிறுத்தப்பட்டுள்ளதாக பாணந்துறை பொலிஸ் அத்தியட்சகர் அலுவலகம் தெரிவித்துள்ளது.
-
-பாணந்துறை பதில் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் நிஷாந்த சேனாரத்னவின் ஆலோசகையில் உதவி பொலிஸ் அத்தியட்சகர் சம்பத் பண்டாரவினால் சந்தேக நபர் பணி இடைநிறுத்தம் செய்யப்பட்டுள்ளார்.
-
-...
-
-### வவுனியா பல்கலைக்கழக கல்வி சாரா ஊழியர்கள் கவனயீர்ப்பு போராட்டம்
-
-*2024-01-18 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/174226) 
-
-வவுனியா பல்கலைக்கழகத்தின் கல்வி சாரா ஊழியர்கள் இன்று வியாழக்கிழமை (18) பல்கலைக்கழக வாயிலில் கவனயீர்ப்பு போராட்டம் ஒன்றில் ஈடுபட்டிருந்தனர்.
-
-இதுவேளை நாடளாவிய ரீதியில் பல்கலைக்கழகங்களில் கல்வி சாரா ஊழியர்கள் போராட்டத்தில் ஈடுபட்டிருந்தமையும் குறிப்பிடத்தக்கது.
-
-...
-
-### Sri Lanka plans to draw higher spending tourists with Southern cultural events
-
-*2024-01-18 12:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-to-draw-higher-spending-tourists-with-southern-cultural-events-147753/) 
-
-ECONOMYNEXT – Sri Lanka is planning to attract higher spending tourists with cultural and culinary events strung along the main resort towns of the Indian Ocean island’s south coast, officials said.
-
-“We want to attract 2.5 high-end tourists spending 500 dollars as opposed to spending 200 dollars,” Chalaka Gajabahu, Chairman of Sri Lanka Tourism Promotion Bureau said.
-
-Labelled the ‘Galle Concerto’ it brings together several independent events.
-
-...
-
-### அளம்பில் மாவீரர் துயிலுமில்லக் காணியை இராணுவத்தினர் சுவீகரிக்க முயற்சி; அளவீட்டு முயற்சி தடுத்து நிறுத்தம்
-
-*2024-01-18 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/174228) 
-
-முல்லைத்தீவு - அளம்பில் மாவீரர் துயிலும் இல்ல காணியினை, 23 ஆவது சிங்க ரெஜிமென்ட் இராணுவத்தினருக்கு சுவீகரித்து வழங்க எடுக்கப்ப முயற்சி அப் பகுதி மக்களாலும், அரசியல் கட்சிப் பிரமுகர்கள் சிலராலும் வியாழக்கிழமை (18) தடுத்து நிறுத்தப்பட்டது.
-
-குறிப்பாக நில அளவை திணைக்களத்தினர் மற்றும், கரைதுறைப்பற்று காணி உத்தியோகத்தர் உள்ளிட்டவர்கள், குறித்த மாவீரர்துயிலுமில்லக் காணியினை அளவீடு செய்ய வருகைதந்திருந்தனர்.
-
-...
-
-### China’s ageing population threatens switch to new economic growth model
-
-*2024-01-18 12:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96507/chinas-ageing-population-threatens-switch-to-new-economic-growth-model) 
-
-China’s ageing population threatens key Beijing policy goals for the coming decade of boosting domestic consumption and reining in ballooning debt, posing a severe challenge to the economy’s long-term growth prospects.
-
-A record low birth rate in 2023 and a wave of COVID-19 deaths resulted in a second consecutive year of population decline, accelerating concerns about China’s demographic downturn.
-
-...
-
-### ටිරාන් අලස් : ' UN හියුමන් රයිට්ස් ලියුම තුට්ටු දෙකකට ගණන් ගන්නේ නෑ'
-
-*2024-01-18 12:28:18* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cpw3wjxle1po) 
-
-මෙහි කිසිවක් අඩංගු නැත.Play video, "ටිරාන් අලස් : 'හියුමන් රයිට්ස් ලියුම තුට්ටු දෙකකට ගණන් ගන්නේ නෑ'", ධාවන කාලය 8,5608:56වීඩියෝ ශීර්ෂ වැකිය, යුක්තියේ මෙහෙයුම ක්‍රියාත්මක කළ මාසය තුළ රටේ සමස්ත අපරාධවලින් 17% ක් අඩුවී ඇති බව අමාත්‍යවරයා පවසයි.
-
-ටිරාන් අලස් : ' UN හියුමන් රයිට්ස් ලියුම තුට්ටු දෙකකට ගණන් ගන්නේ නෑ'
 
 ...

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 15:02:20**
+As of **2024-01-18 15:17:20**
 
 ## Newspaper Stats
 
-*Scraped **997** Articles*
+*Scraped **998** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -17,13 +17,21 @@ virakesarilk | 74 | 🟩🟩🟩🟩🟩🟩🟩
 dailymirrorlk | 88 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 116 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 117 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 119 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-18 (Thursday)
+
+### COPA express strong displeasure over lack of punishment for Samurdhi officials engaged in misconduct
+
+*2024-01-18 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96513/copa-express-strong-displeasure-over-lack-of-punishment-for-samurdhi-officials-engaged-in-misconduct-) 
+
+The Committee on Public Accounts (COPA) has expressed its strong displeasure for not giving a proper punishment to the Samurdhi Development officials involved in misconduct and various incidents of corruption and irregularities.
+
+...
 
 ### யாழ். பல்கலைக்கழக கல்வி சாரா ஊழியர்கள் கவனயீர்ப்பு போராட்டம்
 
@@ -83,7 +91,7 @@ S. Iswaran was arrested in July of 2023 and released on bail in connection with 
 
 ...
 
-### India ready to make investments for Sri Lanka’s energy sector development- Indian envoy
+### India ready to make investments for Sri Lanka’s energy sector development - Indian envoy
 
 *2024-01-18 13:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/96510/india-ready-to-make-investments-for-sri-lankas-energy-sector-development-indian-envoy) 
 
@@ -1000,13 +1008,5 @@ Emirates is celebrating the new year and the imminent arrival of its spanking ne
 *2024-01-17 20:35:00* · [`islandlk`](http://island.lk/slt-mobitel-partners-with-bricks-developers-offering-ultra-fast-connectivity/) 
 
 SLT-MOBITEL, the national ICT solutions provider, signed a Memorandum of Understanding (MOU) with Bricks Developers (Pvt) Ltd., a respected property development company engaged in developing apartments and commercial buildings, to provide SLT-MOBITEL Fibre connectivity to ‘Thurstan 42’ Colombo 03, the luxury apartment complex.
-
-...
-
-### HNB Assurance advisor distribution management team celebrates its exceptional performance
-
-*2024-01-17 20:34:00* · [`islandlk`](http://island.lk/hnb-assurance-advisor-distribution-management-team-celebrates-its-exceptional-performance/) 
-
-HNB Assurance recently convened the highly anticipated New Business Launch and Advisor Distribution Management Forum, showcasing the exceptional performance of its Advisor Distribution Channel which included a remarkable 37% increase in New Business Premium (NBP) growth, a robust 24% growth in Gross Written Premium (GWP) and the prestigious international recognition from Insurance Asia for the Best Distribution Initiative, during the year 2023.
 
 ...

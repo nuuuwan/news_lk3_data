@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-18 18:51:47**
+As of **2024-01-18 19:02:21**
 
 ## Newspaper Stats
 
-*Scraped **1,061** Articles*
+*Scraped **1,073** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -14,22 +14,68 @@ islandlk | 63 | 🟩🟩🟩🟩🟩🟩
 newsfirstlk | 68 | 🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 84 | 🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 88 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 99 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 119 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 122 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 127 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 128 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 143 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-18 (Thursday)
 
+### Sri Lanak Cricket to hire Jonty Rhodes for advanced training
+
+*2024-01-18 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanak-Cricket-to-hire-Jonty-Rhodes-for-advanced-training/108-275287) 
+
+Colombo, Jan. 18 (SLC) - Sri Lanka Cricket decided to obtain the services of some of the best-known talents in international cricket to provide advanced training for local coaches, trainers, and physiotherapists to enhance their skills and competencies by conducting periodic training programs in selected areas.
+
+...
+
+### Mujibur goes before SC against Deshabandu
+
+*2024-01-18 18:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mujibur-goes-before-SC-against-Deshabandu/108-275288) 
+
+Colombo, Jan 18 (Daily Mirror) -  Former Samagi Jana Balawegaya (SJB) Colombo District Parliamentarian Mujibur Rahuman today filed a Fundamental Rights petition before the Supreme Court seeking an order quashing any decision by the President to appoint Deshabandu Thennakoon as the Inspector General of Police (IGP).
+
+...
+
+### Two persons allegedly on way to assassinate businessman arrested
+
+*2024-01-18 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96527/two-persons-allegedly-on-way-to-assassinate-businessman-arrested) 
+
+Two suspects have been arrested with a pistol and a motorcycle while they were allegedly on their way to assassinate a person engaged in the fish trade in Ambalangoda.
+
+The apprehension has been carried out by the Police Special Task Force (STF) as part of the ‘Yukthiya’ special police operation, the Ministry of Public Security said.
+
+◼️
+
+### SL youth ready to qualify for Paris Olympics
+
+*2024-01-18 18:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-youth-ready-to-qualify-for-Paris-Olympics/108-275286) 
+
+Colombo, Jan. 18 (Daily Mirror) - The Minister of Sports Harin Fernando has instructed the Director General of Sports to provide equal opportunities for Sri Lankan youth to attain qualifications for the Summer Olympic Games in Paris, France, starting on July 26.
+
+Minister Fernando will secure special approval from the Cabinet of Ministers for the innovative programme, ‘Road to Olympics.’
+
+...
+
 ### SLC to obtain services of Jonty Rhodes, Bharat Arun and Alex Kountouri
 
 *2024-01-18 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96526/slc-to-obtain-services-of-jonty-rhodes-bharat-arun-and-alex-kountouri) 
 
 Sri Lanka Cricket (SLC) says it has obtained the services of former South African cricketer Jonty Rhodes and Bharat Arun, the former India fast bowling coach, to provide advanced training to local coaches and trainers. The board has also roped in former Sri Lankan physiotherapist Alex Kountouri.
+
+...
+
+### Over 100,000 offensive videos of children shared on social media
+
+*2024-01-18 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-100-000-offensive-videos-of-children-shared-on-social-media/108-275285) 
+
+Colombo, Jan 18 (Daily Mirror) - More than 100,000 offensive video clips of children have been shared on social media, with various individuals contributing to this alarming trend during the past year alone.
+
+Acting IGp Deshabandu Thennakoon said that these videos depict children being sexually abused and expose their nudity, and spreading virally on social media platforms.
 
 ...
 
@@ -139,6 +185,18 @@ Joining a discussion held with the Welfare Benefits Board at the Finance Ministr
 
 ...
 
+### Specialist remanded for alleged assault on staffer at Karapitya Hospital
+
+*2024-01-18 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Specialist-remanded-for-alleged-assault-on-staffer-at-Karapitya-Hospital/155-275283) 
+
+Karapitiya, Jan 18 (Daily Mirror) -  The Oncho Surgeon at the Karapitiya Teaching Hospital who was alleged to have assaulted a female hospital staffer has been remanded until 22 January by the Galle Magistrate’s Court.
+
+The incident unfolded during a contentious situation that erupted at the hospital premises.
+
+According to the police, the 61-year-old specialist doctor, who stands accused of the assault, was arrested while receiving medical care at a private hospital.
+
+...
+
 ### Around 20 killed in explosion at Thai firework factory, no survivors found
 
 *2024-01-18 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96519/around-20-killed-in-explosion-at-thai-firework-factory-no-survivors-found) 
@@ -156,6 +214,16 @@ It was not immediately clear what caused the incident, which took place mid-afte
 கொழும்பு நகரில் கால்வாய்களை அடைத்து  கட்டப்பட்டுள்ள வீடுகள் மற்றும் நிர்மாணங்களை அகற்றும் வேலைத்திட்டத்தை நடைமுறைப்படுத்த கொழும்பு மாநகர சபை தீர்மானித்துள்ளது.
 
 வியாழக்கிழமை (18) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட கொழும்பு மாநகர சபையின் பொறியியலாளர் ஆர் டி. பி. ரணவக்க தெரிவிக்கையில், அண்மையில் பெய்த கடும் மழையினால் கொழும்பு நகரம் வெள்ளத்தில் மூழ்கியதன் காரணமாக இந்தத்  தீர்மானம் எடுக்கப்பட்டுள்ளதாக  கூறியுள்ளார்.
+
+...
+
+### No agreement with Dhammika Perera on Presidential candidacy: Prasanna
+
+*2024-01-18 15:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-agreement-with-Dhammika-Perera-on-Presidential-candidacy-Prasanna/155-275282) 
+
+Matara, Jan. 18 (Daily Mirror)- Minister Prasanna Ranatunga ruled out any agreement between Parliamentarian Dhammika Perera and the Sri Lanka Podujana Peramuna (SLPP) on the Presidential candidacy.
+
+He told reporters after the Matara District Coordination Committee meeting that they cannot put the country in trouble again by appointing an inexperienced President.
 
 ...
 
@@ -186,6 +254,26 @@ According to the police media division, the specialist doctor in question, who w
 காலிமுகத் திடலில் கடந்த 2022 ஆம் ஆண்டு  மே மாதம் 9 ஆம் திகதி போராட்டக்காரர்கள் மீது தாக்குதல் நடத்தப்பட்ட சம்பவம் தொடர்பான வழக்கின்  சந்தேக நபர்கள் அனைவரினதும் வெளிநாட்டு பயணத்தடையை நீக்குமாறு கோட்டை நீதிவான் திலின கமகே நேற்று புதன்கிழமை (17) உத்தரவிட்டுள்ளார்.
 
 சம்பவம் தொடர்பிலான வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே இந்த உத்தரவை பிறப்பித்த நீதிவான், குடிவரவு குடியகல்வு கட்டுப்பாட்டாளர் நாயகத்துக்கு அறிவிக்குமாறு நீதிமன்ற பதிவாளருக்கு உத்தரவிட்டுள்ளார்.
+
+...
+
+### Court prevents CEB trade unions from engaging in any strikes till February 1
+
+*2024-01-18 15:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-prevents-CEB-trade-unions-from-engaging-in-any-strikes-till-February-1/108-275284) 
+
+Colombo, Jan 18 (Daily Mirror) - The Colombo District Court today further extended its enjoining order preventing 29 trade unions attached to the Ceylon Electricity Board (CEB) from engaging in any strikes till February 1.
+
+The Colombo District Court made this order pursuant to a case filed by the CEB which sought an order preventing 29 CEB trade unions and their members from engaging in any strikes as per the decision taken by them through a letter dated December 20, 2023.
+
+...
+
+### Sri Lanka reiterates solidarity with Palestinian cause
+
+*2024-01-18 15:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-reiterates-solidarity-with-Palestinian-cause/108-275281) 
+
+Foreign Minister Ali Sabry said Sri Lanka, as the Chair of the UN Special Committee to Investigate Israeli Practices, continues to stand in solidarity with the Palestinian cause and affirms the rights of the Palestinian people to live in peace and dignity.
+
+Addressing the meeting of the NAM Ministerial Committee on Palestine, Sri Lanka’s long held principled position on this matter has been clear.
 
 ...
 
@@ -228,6 +316,14 @@ The meeting, held at the Presidential Secretariat, saw a constructive exchange o
 இதன்படி, பேலியகொடை மீன் சந்தையில் ஹரல்லோ மீன்  550 ரூபாவாகவும் சாலை மீன் 300 ரூபாவாகவும் பலயா மீன் 600 ரூபாவாகவும் பரவ் மீன் 800 ரூபாவாகவும் கெலவல்லா மீன் 1,000 ரூபாவாகவும் லின்னா மீன் 500 ரூபாவாகவும் விற்பனை செய்யப்பட்டுள்ளது.
 
 ◼️
+
+### Finance Ministry, IRD taken to task for failing to collect due taxes from major corporations
+
+*2024-01-18 15:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Finance-Ministry-IRD-taken-to-task-for-failing-to-collect-due-taxes-from-major-corporations/108-275279) 
+
+Parliament, Jan. 18 (Daily Mirror)- The Committee on Public Finance has expressed its deep displeasure with the Ministry of Finance and the Inland Revenue Department's failure to collect foregone taxes from major corporations implicated in the sugar scam, as outlined in the forensic report by the Auditor General.
+
+...
 
 ### பழைய சட்டத்தை மீள அமுல்படுத்தக் கோருகிறார் கீதா
 
@@ -553,7 +649,9 @@ Officials of the Ministry, Ceylon Petroleum Corporation (CPC) and the Ministry o
 
 ECONOMYNEXT – Sri Lanka is planning to attract higher spending tourists with cultural and culinary events strung along the main resort towns of the Indian Ocean island’s south coast, officials said.
 
-“Out of our target of 5 million tourists we want to attract 2.5 high-end tourists spending 500 dollars as opposed to spending 200 dollars,” Chalaka Gajabahu, Chairman of Sri Lanka Tourism Promotion Bureau said.
+“We want to attract 2.5 high-end tourists spending 500 dollars as opposed to spending 200 dollars,” Chalaka Gajabahu, Chairman of Sri Lanka Tourism Promotion Bureau said.
+
+Labelled the ‘Galle Concerto’ it brings together several independent events.
 
 ...
 
@@ -626,6 +724,18 @@ The two have long accused each other of harbouring militant groups that carry ou
 *2024-01-18 12:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96505/over-40000-arrested-rs-4-bn-in-drugs-seized-in-first-month-of-operation-yukthiya) 
 
 A total of 40,590 suspects have been arrested within the first month of the ongoing anti-drug operation ‘Yukthiya’ carried out across the island, according to the Ministry of Public Security.
+
+...
+
+### Karapitiya Hospital staff withdraws over alleged attack by drunken Specialist
+
+*2024-01-18 12:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Karapitiya-Hospital-staff-withdraws-over-alleged-attack-by-drunken-Specialist/108-275274) 
+
+Galle, Jan 18 (Daily Mirror) - The entire staff of the Karapitiya Teaching Hospital has withdrawn from services following an incident where a Specialist has allegedly attacked a hospital worker while under the influence of liquor.
+
+The assault has left the health worker hospitalized, prompting the staff's decision to withdraw and display agitation.
+
+The healthcare professionals are demanding the immediate arrest of the Specialist and a swift enforcement of the law.
 
 ...
 
@@ -906,123 +1016,3 @@ Speaking to the Daily Mirror, State Minister Kumarasinghe said that the current 
 මේ දිනවල රාත්‍රී හා අලුයම්  කාලයේ  පවතින අධික සීතල සහිත කාලගුණික තත්ත්වය හේතුවෙන් ශ්‍රීපාද වන්දනාවේ යෙදෙන බැතිමතුන් සීතලට ඔරොත්තු දෙන උණුසුම් ඇඳුම් හා අත්  ආවරණ පැළැද පැමිණෙන ලෙස ශ්‍රී ලංකා සෞඛ්‍යදාන ව්‍යාපාරයේ වෛද්‍ය  කඳවුරු  ප්‍රධානි වෛද්‍ය සජිත් මංජුල මහතා  බැතිමතුන්ගෙන්  ඉල්ලා සිටියි.
 
 ...
-
-### Pakistan Hits Baloch Separatist Hideouts in Iran
-
-*2024-01-18 10:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/pakistan-hits-baloch-separatist-hideouts-in-iran/) 
-
-The Pakistan Air Force on Thursday (18) launched airstrikes on alleged Baloch separatist camps situated inside Iranian territory, according to multiple media reports citing people aware of the development.
-
-The reports indicate that the targeted locations allgedly housed hideouts of Baloch militants who were wanted by Pakistan.
-
-...
-
-### பனியால் சூழ்ந்த டெல்லி ; விமான, ரயில் சேவைகள் கடுமையாக பாதிப்பு
-
-*2024-01-18 10:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/174208) 
-
-இந்தியாவின்  தலைநகரான புதுடெல்லியில் கடும் பனி மூட்டம் நிலவுவதால் விமானம் மற்றும் ரயில்  சேவைகள் கடுமையாக பாதிக்கப்பட்டுள்ளன.
-
-இந்தியாவில்  வட மாநிலங்களில் கடும் குளிர் நிலவி வருகிறது. டெல்லியில் கடந்த சில நாட்களாக வெப்ப நிலை கொஞ்சம் கொஞ்சமாக குறைந்து வந்துள்ளது.
-
-பஞ்சாப், ஹரியானா, சண்டிகர், உத்தரப் பிரதேசம், ராஜஸ்தான் மாநிலங்களின் சில பகுதிகளிலும் குளிர் அலையால் பனிமூட்டமான நிலை நீடித்துள்ளது.
-
-...
-
-### “We Can Handle It”: Sri Lanka Eyes Growth Despite Challenges – Ranil at Davos
-
-*2024-01-18 10:19:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/we-can-handle-it-sri-lanka-eyes-growth-despite-challenges-ranil-at-davos/) 
-
-COLOMBO (News 1st); Addressing the World Economic Forum, Sri Lankan President Ranil Wickremesinghe outlined the country's progress in its economic recovery while acknowledging persistent challenges. He expressed cautious optimism, aiming for 2% growth this year and 4-5% next year, but emphasized the critical need for addressing revenue and balance of payments issues.
-
-"We have performed well so far," he stated, praising positive growth for the first time.
-
-...
-
-### Sri Lanka rupee opens at 320.25/50 to the US dollar
-
-*2024-01-18 09:48:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-320-25-50-to-the-us-dollar-147703/) 
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 320.25/50 to the US dollar on Thursday, from 320.90/321.10 the previous day, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 13.65/75 percent from 13.60/75 percent.
-
-A bond maturing on 15.09.2027 was quoted at 13.90/14.00 percent from 13.75/90 percent.
-
-A bond maturing on 15.03.2028 was quoted at 14.07/13 percent from 14.05/10 percent.
-
-...
-
-### இலங்கைக்கு புதிய ஆபத்து
-
-*2024-01-18 09:25:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-புதிய-ஆபத்து/175-331719) 
-
-இலங்கையில் உள்ள அமெரிக்க தூதரகத்தின் காற்றின் தர சுட்டெண் தரவுகளின்படி, நேற்று (17) காலை கொழும்பு நகரில் காற்று மாசுபாடு கடுமையாக அதிகரித்துள்ளது.
-
-சுட்டெண்ணின் படி, கொழும்பு நகரின் கொள்ளுப்பிட்டி பகுதியைச் சூழவுள்ள காற்றில் உள்ள தூசித் துகள்களின் அளவு நேற்று காலை 163 ஆக அதிகரித்துள்ளது.
-
-கொழும்பு - 7 இல் இந்த எண்ணிக்கை 141 ஆக பதிவாகியுள்ளது. எவ்வாறாயினும், தேசிய கட்டிட ஆராய்ச்சி அமைப்பின் தரவுகளின்
-
-...
-
-### උතුරේ හෙක්ටයාර 110000ක වී වගා කරලා
-
-*2024-01-18 09:24:35* · [`adalk`](https://www.ada.lk/breaking_news/උතුරේ-හෙක්ටයාර-110000ක-වී-වගා-කරලා/11-407608) 
-
-උතුරේ ගොවීන් මහකන්නයේ කුඹුරු හෙක්ටයාර් 110,000 ක වී වගා කොට ඇති අතර ඉන් අපෙක්ෂිත අස්වැන්න මෙට්‍ට්‍රික් ටොන් 350,000 ක් බව පළාත් කෘෂිකර්ම අමාත්‍යංශය පවසයි.
-
-යුද සමයේදී අතහැර දැමුනු පුරන් වූ කුඹුරු විශාල පමාණයක් මෙවර මහකන්නයේදී ගොවිතැන් කොට ඇති අතර ඉන් සාර්ථක වී අස්වැන්නක් අපේක්ෂාවෙන් උතුරේ ගොවීන් අස්වැන්න නෙලීම ආරම්භ කොට ඇත.
-
-...
-
-### Operation ‘Yukthiya’: 943 more suspects arrested within 24 hours
-
-*2024-01-18 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96499/operation-yukthiya-943-more-suspects-arrested-within-24-hours) 
-
-A total of 943 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.18) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Among the arrestees are 670 suspects who were taken into custody on narcotics-related charges and 273 others who were on the list of wanted criminal suspects.
-
-...
-
-### Air quality in several areas to return to normal
-
-*2024-01-18 09:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/air-quality-in-several-areas-to-return-to-normal/) 
-
-COLOMBO (News 1st); The National Building Research Organization (NBRO) said the decrease in air quality reported in several parts of the island will return to normal on Thursday (18).
-
-Air quality had decreased in Colombo, Jaffna, Mannar, and Galle.
-
-Director of the NBRO Sarath Premasiri said the Air Quality Index in Colombo was close to 100 on Wednesday (17), while the Index in other areas was between 50 and 100.
-
-...
-
-### இன்று பல தடவைகள் மழை பெய்யும்
-
-*2024-01-18 09:07:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-பல-தடவைகள்-மழை-பெய்யும்/175-331718) 
-
-வடமத்திய, கிழக்கு,மற்றும் ஊவா மாகாணங்களிலும் முல்லைத்தீவு மாவட்டத்திலும் பல தடவைகள் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
-
-மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது. R
-
-◼️
-
-### UK Parliament approves Sunak’s Rwanda bill as right-wing rebels back down
-
-*2024-01-18 09:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96498/uk-parliament-approves-sunaks-rwanda-bill-as-right-wing-rebels-back-down) 
-
-UK Prime Minister Rishi Sunak survived a key test of his leadership Wednesday, fending off right-wing rebels to win a crunch parliamentary vote on his contentious plan to send migrants to Rwanda.
-
-Sunak, in power since October 2022, has staked his political future on the scheme, as Britain gears up for its next general election later this year.
-
-...
-
-### මාර්ග දෙකක දුම්රිය ප්‍රමාදයක්
-
-*2024-01-18 08:45:36* · [`adalk`](https://www.ada.lk/breaking_news/මාර්ග-දෙකක-දුම්රිය-ප්‍රමාදයක්/11-407606) 
-
-ප්‍රධාන මාර්ගයේ සහ හලාවත මාර්ගයේ දුම්රිය ප්‍රමාදයක් සිදුවන බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
-
-ප්‍රධාන මාර්ගයේ දුම්රියක් අඹේපුස්සේ දී කාර්මික දෝෂයකට ලක්ව ඇති අතර,  හලාවත මාර්ගයේ හලාවත දී තවත් දුම්රියක් කාර්මික දෝෂයකට ලක්ව තිබීම හේතුවෙන් මෙම දුම්රිය ප්‍රමාදයන් සිදුවෙයි..
-
-◼️

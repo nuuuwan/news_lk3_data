@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 01:02:43**
+As of **2024-01-19 01:17:19**
 
 ## Newspaper Stats
 
-*Scraped **1,123** Articles*
+*Scraped **1,129** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -16,14 +16,46 @@ economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩
 virakesarilk | 89 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 114 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailyftlk | 125 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 126 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailyftlk | 131 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 131 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### 5 Lankan firms on show at world’s largest consumer goods fair Ambiente
+
+*2024-01-19 00:50:47* · [`dailyftlk`](https://www.ft.lk/business/5-Lankan-firms-on-show-at-world-s-largest-consumer-goods-fair-Ambiente/34-757525) 
+
+Five Sri Lankan exhibitors will showcase their excellence at the world’s largest consumer goods fair Ambiente 2024 scheduled to take place with Christmasworld and Creativeworld from 26 to 30 January in Frankfurt am Main, Germany.
+
+...
+
+### Dialog Television launches ‘Hits Now’, elevating Sri Lanka’s television experience
+
+*2024-01-19 00:49:22* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Television-launches-Hits-Now-elevating-Sri-Lanka-s-television-experience/34-757524) 
+
+Elevating Sri Lanka’s entertainment landscape, Dialog Television, Sri Lanka’s No. 1 Pay-TV service provider, launched the popular ‘Hits Now’ channel in High Definition (HD) on Channel 113 for its customers, bringing quality curated entertainment to Sri Lankan homes.
+
+...
+
+### Rocell shines at CNCI Achiever Awards and National Industry Excellence Awards 2023
+
+*2024-01-19 00:47:43* · [`dailyftlk`](https://www.ft.lk/business/Rocell-shines-at-CNCI-Achiever-Awards-and-National-Industry-Excellence-Awards-2023/34-757523) 
+
+Royal Ceramics Lanka PLC (Rocell) has once again taken the spotlight at two prestigious award ceremonies, underscoring its position as Sri Lanka’s leading tile and bathware manufacturer.
+
+...
+
+### Jaffna International Trade Fair 2024 opens today
+
+*2024-01-19 00:46:22* · [`dailyftlk`](https://www.ft.lk/business/Jaffna-International-Trade-Fair-2024-opens-today/34-757522) 
+
+The Jaffna International Trade Fair 2024, a transformative annual event that has played a pivotal role in fostering economic growth and community development in Sri Lanka’s Northern Province is back with its 14th edition.
+
+...
 
 ### Why stepmotherly treatment to oppressed segments of society via Micro Finance Bill?
 
@@ -99,6 +131,18 @@ In an environment of hardships, and loss of hope, patience could wear thin, and 
 
 ...
 
+### DPMC celebrates three decades of excellence
+
+*2024-01-18 23:00:28* · [`dailyftlk`](https://www.ft.lk/business/DPMC-celebrates-three-decades-of-excellence/34-757503) 
+
+David Pieris Group Founder and President David Pieris expresses his heartfelt gratitude to employees at the DPMC’s 30th anniversary celebrations
+
+David Pieris Group Founder and President David Pieris cutting the cake at the 30th anniversary celebrations
+
+David Pieris lighting the traditional oil lamp at the 30th anniversary celebrations. Group Chairman and Managing Director Rohana Dissanayake looks on
+
+...
+
 ### Soap and Allied Industries marks 25 years of growth and success
 
 *2024-01-18 22:49:58* · [`dailyftlk`](https://www.ft.lk/business/Soap-and-Allied-Industries-marks-25-years-of-growth-and-success/34-757502) 
@@ -120,6 +164,14 @@ Soap and Allied Industries Director Rizky Deen addressing the gathering at 25th 
 Colombo, Jan 18 (Daily Mirror) - A list of 163 individuals, including more than 30 police officers, who have been in contact with drug trafficker Nadun Chinthaka Wikramaratne alias ‘Harak Kata,’ has been identified by the police.
 
 Acting IGP Deshabandu Tennakoon said that investigations are ongoing to determine the extent of involvement of these police officers in the drug network associated with 'Harak Kata.'
+
+...
+
+### People’s tribunal condemns police for excesses at Jaffna Conference in Jan. 1974
+
+*2024-01-18 21:58:36* · [`dailyftlk`](https://www.ft.lk/columns/People-s-tribunal-condemns-police-for-excesses-at-Jaffna-Conference-in-Jan-1974/4-757498) 
+
+Despite the Police trying to justify the violence they unleashed on a peaceful crowd by this excuse, there were few takers for it especially among the Tamil people
 
 ...
 
@@ -956,65 +1008,5 @@ ECONOMYNEXT – The International Monetary Fund team in Sri Lanka, headed by Pet
 கொழும்பு பல்கலைக்கழக பொது மாணவர் சங்கம் இன்று (18) ஏற்பாடு செய்திருந்த  ஆர்ப்பாட்டத்தை தடுக்குமாறு குருந்துவத்தை பொலிஸாரின் கோரிக்கையை கொழும்பு பிரதான நீதவான்  பிரசன்ன அல்விஸ்   நிராகரித்தார்.
 
 பல கோரிக்கைகளை முன்வைத்து போராட்டம் அல்லது ஆர்ப்பாட்டம் தடுக்கப்படுமாயின் அது அரசியலமைப்பின் பதினான்காம் சரத்தின் கீழ் வழங்கப்பட்டுள்ள அடிப்படை மனித உரிமைகளை மீறும் செயலாகும் என நீதவான் சுட்டிக்காட்டினார்.
-
-...
-
-### இரு சர்வதேச மாநாடுகளில் உரையாற்றுவதற்காக ஜனாதிபதி உகண்டா பயணம்
-
-*2024-01-18 13:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/174236) 
-
-அணிசேரா நாடுகளின் மாநாட்டின் (NAM) 19 ஆவது அரச தலைவர்கள் மாநாடு  மற்றும் G77 மற்றும் சீனாவின் 3 ஆவது தென் மாநாடு என்பவற்றில் (3rd South Summit of the Group of 77 & China) பங்கேற்பதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க உகண்டாவிற்கான உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டுள்ளார்.
-
-உகண்டா குடியரசு ஜனாதிபதி யொவேரி முசேவெனியின் (Yoweri Museveni) அழைப்பின் பேரிலேயே ஜனாதிபதி  இந்த விஜயத்தை  மேற்கொண்டுள்ளார்.
-
-...
-
-### கேரட் விலையில் மாற்றம்
-
-*2024-01-18 13:52:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கேரட்-விலையில்-மாற்றம்/175-331734) 
-
-நாட்டின் பல பகுதிகளிலும் கடந்த சில வாரங்களாக மரக்கறிகளின் விலைகள் அதிகரித்து காணப்படுவதாக பொதுமக்கள் குற்றம் சுமத்தியுள்ளனர்.
-
-குறிப்பாக கேரட் ,லீக்ஸ், கத்தரி, வெங்காயம், கோவா உள்ளிட்ட மரக்கறிகளின் விலைகள் ஆயிரத்தை தாண்டி விற்பனை செய்யப்படுவதாக தெரிவிக்கப்படுகின்றது.
-
-இந்நிலையில் கடந்த வாரம் 2000 ரூபாவிற்கு விற்பனை செய்யப்பட்டு வந்த கேரட் வியாழக்கிழமை(18) சடுதியாக 1000 ரூபாயாக குறைந்துள்ளது.
-
-...
-
-### Police fire tear gas to disperse protesting university non-academic staff
-
-*2024-01-18 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96512/police-fire-tear-gas-to-disperse-protesting-university-non-academic-staff-) 
-
-Police have fired tear gas to disperse a protest march organized by the university non-academic staff near the University of Sri Jayewardenepura, Ada Derana reporter said.
-
-The non-academic staff members of state universities launched a one-day token strike this morning (Jan.18) in protest of the government’s decision to increase the allowances of lecturers.
-
-...
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2024-01-18 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174234) 
-
-இன்று வியாழக்கிழமை (ஜனவரி 18) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 316.0759 ஆகவும் விற்பனை விலை ரூபா 325.6904 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-### Nu Life Biotech to manufacture antibiotics in Sri Lanka
-
-*2024-01-18 13:43:00* · [`economynextcom`](https://economynext.com/nu-life-biotech-to-manufacture-antibiotics-in-sri-lanka-147760/) 
-
-ECONOMYNEXT – Nu Life Biotech Pvt Ltd started construction work on its Carbapenem injectables manufacturing facility at the ‘Suwa Siri Pura’ pharmaceutical production zone in Oyamaduwa, Anuradhapura, this week.
-
-The company’s Penem Injectable Facility will be planned, designed, engineered as per GMP Standards of NMRA, WHO, EU and PIC/S etc, it said in a statement. “The facility will conform to all relevant local statutory and regulatory requirements.”
-
-...
-
-### Singapore’s transport minister resigns over corruption charges
-
-*2024-01-18 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96511/singapores-transport-minister-resigns-over-corruption-charges) 
-
-Singapore’s transport minister has resigned from his post after being charged with 27 offences in a corruption probe that has also ensnared a billionaire hotel tycoon.
-
-S. Iswaran was arrested in July of 2023 and released on bail in connection with a rare top-level graft investigation in the city-state. Iswaran, 61, said he would plead not guilty to the charges filed by the powerful Corrupt Practices Investigation Bureau when he appeared in court on Thursday.
 
 ...

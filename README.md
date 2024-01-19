@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 12:03:55**
+As of **2024-01-19 12:17:14**
 
 ## Newspaper Stats
 
-*Scraped **1,191** Articles*
+*Scraped **1,194** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,7 +15,7 @@ newsfirstlk | 78 | 🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 99 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 127 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 137 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 140 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -50,6 +50,16 @@ adalk | 151 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 *2024-01-19 10:48:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/first-us-attempt-to-reach-the-moon-in-50-years-ends-in-failure-spacecraft-crashes-into-pacific-ocean/) 
 
 Colombo (News 1st) – The first American attempt to reach the moon in half a century ended in failure on Friday (19th) as the Peregrine Moon Lander crashed into the Pacific Ocean after burning up in the earth's atmosphere, foreign media said.
+
+...
+
+### 15 students, teacher drown when boat capsizes in Western India
+
+*2024-01-19 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/15-students-teacher-drown-when-boat-capsizes-in-Western-India/107-275352) 
+
+New Delhi, Jan 19 (Daily Mirror) - A boat carrying a school group capsized in a lake in western India on Thursday, drowning 15 students and one teacher, fire service officials said.
+
+Eleven students were rescued when the boat capsized in Harani Lake in the city of Vadodara, and rescuers were searching for person who was still missing, Vadodara fire officer Jitu Parmar said.
 
 ...
 
@@ -192,6 +202,24 @@ According to Ada Derana correspondent, a group of people including the family an
 *2024-01-19 08:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Presidential-Elections-three-pronged-battle-takes-shape/155-275331) 
 
 Colombo, Jan 19 (Daily Mirror) - In anticipation of the upcoming Presidential Elections scheduled towards the end of the year, the political arena is witnessing a flurry of activities as various parties and groups strategically position themselves for the impending electoral contest.
+
+...
+
+### Presidential Elections: three-pronged battle takes shape
+
+*2024-01-19 08:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-Elections-three-pronged-battle-takes-shape/108-275331) 
+
+Colombo, Jan 19 (Daily Mirror) - In anticipation of the upcoming Presidential Elections scheduled towards the end of the year, the political arena is witnessing a flurry of activities as various parties and groups strategically position themselves for the impending electoral contest.
+
+...
+
+### Public urged to beware of rising influenza-like illnesses
+
+*2024-01-19 08:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Public-urged-to-beware-of-rising-influenza-like-illnesses/155-275311) 
+
+Colombo, Jan 18 (Daily Mirror) -  In the wake of the rising influenza-like illnesses in an unusual rate, health experts are urging the public to beware of symptoms such as fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches and fatigue.
+
+Speaking to Daily Mirror, Consultant Virologist at the Medical Research Institute Dr. Jude Jayamaha said, “There are usually two peaks of influenza namely November to February and April to July,”
 
 ...
 
@@ -976,37 +1004,5 @@ The suspended action, which seeks ‘economic justice’ for healthcare employee
 1926 දී ඉන්දියාවේදී දෙමළ හා හින්දු භක්තිකයෙකු ලෙස ඉපදඅන ආර්,මුත්තුසාමිමහතා වයස 05සිටම වයලීන හා වාද්‍ය භාණ්ඩ වාදනයේදී හැකියාව පෙන්වීය.
 
 ඉන්දියානු චිත්‍රපට වල වාදනය ඉදිරිපත් කල ඔහු මෙරට පළමු චිත්‍රපටය වන කඩවුණු පොරොන්දුවේවාදනයට ද එක්විය.ඔහු ලංකාවට පැමිණියේ නායගම් මහතාගේ ඇයුමෙනි.
-
-...
-
-### மனித உரிமைகள் ஆணைக்குழுவின் அறிக்கைக்கு பதிலளிக்கப் போவதில்லை - பொதுமக்கள் பாதுகாப்பு அமைச்சர்
-
-*2024-01-18 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/174276) 
-
-யுக்திய விசேட சுற்றிவளைப்பை நிறுத்துமாறு அமெரிக்க தூதுவர் குறிப்பிடவில்லை. மனித உரிமைகள் ஆணைக்குழு வெளியிடும் அறிக்கைகளை பொருட்படுத்த போவதுமில்லை, அதற்கு பதிலளிக்க போவதுமில்லை.
-
-போதைப்பொருள் மற்றும் பாதாள குழுவுக்கு எதிரான செயற்பாடுகளை தீவிரமாக முன்னெடுப்பேன். யுக்தியவுக்கு எதிராக செயற்படும் நபர்களின் பெயர் விபரத்தை வெகுவிரைவில் பகிரங்கப்படுத்துவேன் என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்தார்.
-
-...
-
-### Sri Lanka to have own e-NIC project amid privacy concerns over Indian deal
-
-*2024-01-18 18:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-have-own-e-nic-project-amid-privacy-concerns-over-indian-deal-147872/) 
-
-ECONOMYNEXT – Sri Lanka is in the process of introducing electronic National Identity Card (e-NIC), the Public Security Minister said, after delays in India-funded Unique ID card project amid data privacy concerns.
-
-The government has called for tenders and four foreign manufactures with local partners have bided for the project, Minister Tiran Alles said.
-
-...
-
-### மீன் வியாபாரியை சுடச் சென்றவர்கள் அதிரடி கைது
-
-*2024-01-18 18:46:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீன்-வியாபாரியை-சுடச்-சென்றவர்கள்-அதிரடி-கைது/175-331756) 
-
-அம்பலாங்கொடை பொலிஸ் பிரிவிற்குட்பட்ட பகுதியில் மீன் வியாபாரம் செய்து கொண்டிருந்த வர்த்தகர் ஒருவரை துப்பாக்கியால் சுடுவதற்காக மோட்டார் சைக்கிளில் பயணித்த இருவர் கைத்துப்பாக்கியுடன் கைது செய்யப்பட்டுள்ளனர்.
-
-யுக்திய நடவடிக்கையின் கீழ் மேற்கொள்ளப்பட்ட சோதனையின் போது இவர்கள் கைது செய்யப்பட்டுள்ளதாக பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
-
-இவ்வாறு கைது செய்யப்பட்டவர்களுள் இராணுவத் தலைமையகத்தில் கடமையாற்றும் சிப்பாய் ஒருவரும் அடங்குவதாக தெரிவிக்கப்படுகிறது.
 
 ...

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 14:50:30**
+As of **2024-01-19 15:02:20**
 
 ## Newspaper Stats
 
-*Scraped **1,236** Articles*
+*Scraped **1,237** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,7 +15,7 @@ newsfirstlk | 81 | 🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 86 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 116 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 128 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 129 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 146 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 148 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -84,6 +84,14 @@ Police have arrested a private passenger bus driver in Ella area, while in posse
 The Maho Police had inspected a private passenger bus travelling from Colombo to Anuradhapura on Thursday.
 
 During the search, a small suspicious parcel, which the driver claimed to be his lunch pack, was found near the driver’s seat.
+
+...
+
+### Fifteen CEB employees interdicted over recent protest
+
+*2024-01-19 13:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fifteen-CEB-employees-interdicted-over-recent-protest/108-275354) 
+
+Colombo, Jan. 19 (Daily Mirror)- Fifteen CEB employees, who were in charge of the payment counters have been interdicted for engaging in the recent protest by closing down payment counters and inconveniencing the consumers, CEB spokesman Engineer Noel Priyantha said.
 
 ...
 
@@ -1024,13 +1032,5 @@ New rules on Corporate Governance of the CSE are set to enhance the governance r
 1. Directors will not be considered ‘independent’ if they are above 70 years of age
 
 2. Chairperson and CEO positions cannot be held by one person
-
-...
-
-### Five advantages banks can reap by implementing ISO 22301 Business Continuity standards
-
-*2024-01-18 23:43:35* · [`dailyftlk`](https://www.ft.lk/columns/Five-advantages-banks-can-reap-by-implementing-ISO-22301-Business-Continuity-standards/4-757510) 
-
-Compliance with ISO 22301 helps banks align their business continuity management practices with international standards. This can facilitate compliance with regulatory requirements related to operational resilience and business continuity. The Central Bank of Sri Lanka recognises the requirements of ISO 22301 may use it to assess an organisation’s resilience measures
 
 ...

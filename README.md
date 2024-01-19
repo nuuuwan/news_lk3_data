@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 11:02:24**
+As of **2024-01-19 11:17:17**
 
 ## Newspaper Stats
 
-*Scraped **1,180** Articles*
+*Scraped **1,185** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -16,8 +16,8 @@ economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩
 virakesarilk | 99 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 132 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 137 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 138 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
@@ -65,6 +65,16 @@ He said the first part, the money for teachers' salaries, has already been relea
 
 ...
 
+### 15 CEB workers interdicted for obstructing services during recent protest
+
+*2024-01-19 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96536/15-ceb-workers-interdicted-for-obstructing-services-during-recent-protest) 
+
+A total of 15 employees of the Ceylon Electricity Board (CEB) have been interdicted for disrupting the services during their protest against the proposed restructuring of the state-owned electricity supplier.
+
+CEB trade union members engaged in a series of protests since January 03, against the government’s Bill to restructure the electricity board.
+
+...
+
 ### தமிழரசுக்கட்சியின் தலைவராக சுமந்திரன் வந்தால் தமிழ்த்தேசியத்திற்கு பாதிப்பு ஏற்படும் - எம்.பி.யோகேஸ்வரன்
 
 *2024-01-19 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174288) 
@@ -85,6 +95,16 @@ He said the first part, the money for teachers' salaries, has already been relea
 
 ◼️
 
+### ‘Yukthiya’ operation: Another 963 suspects under arrest within 24 hours
+
+*2024-01-19 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96535/yukthiya-operation-another-963-suspects-under-arrest-within-24-hours-) 
+
+A total of 963 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.19) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Among the arrestees are 638 suspects who were taken into custody on narcotics-related charges and 325 others who were on the list of wanted criminal suspects.
+
+...
+
 ### 200 வருட கால வரலாற்றில் மலையக பெருந்தோட்ட கல்வி முறைமை
 
 *2024-01-19 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/174285) 
@@ -104,6 +124,16 @@ He said the first part, the money for teachers' salaries, has already been relea
 *2024-01-19 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/174283) 
 
 அணிசேரா நாடுகளின் மாநாட்டின் (NAM) 19 ஆவது அரச தலைவர்கள் மாநாடு மற்றும் G77 மற்றும் சீனாவின் 3 ஆவது தென் மாநாடு என்பவற்றில் (3rd South Summit of the Group of 77 & China) பங்கேற்பதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று வியாழக்கிழமை (18) பிற்பகல் உகண்டாவின் கம்பாலா நகரின்  (Entebbe) விமான நிலையத்தை சென்றடைந்தார்.
+
+...
+
+### Tense situation near Narammala Police after man killed in ‘accidental’ firearm discharge
+
+*2024-01-19 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96534/tense-situation-near-narammala-police-after-man-killed-in-accidental-firearm-discharge) 
+
+A heated situation was reported in front of the Narammala police station on Thursday night (Jan.18) after a lorry driver was killed in an ‘accidental’ discharge of a police firearm.
+
+According to Ada Derana correspondent, a group of people including the family and relatives of the deceased had staged a protest in front of the police station. The situation had gotten out of hand as they began to cause property damage.
 
 ...
 
@@ -148,6 +178,20 @@ Speaking to Daily Mirror, Consultant Virologist at the Medical Research Institut
 மேல், சப்ரகமுவ மற்றும் வடமேல் மாகாணங்களில் சில இடங்களில் 75 மில்லிமீற்றருக்கு மேல் ஓரளவு பலத்த மழை பெய்யக்கூடும்.
 
 மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை எதிர்பார்க்கப்படலாம்.
+
+...
+
+### At least 12 schoolchildren dead after vessel capsized in India
+
+*2024-01-19 08:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96533/at-least-12-schoolchildren-dead-after-vessel-capsized-in-india) 
+
+At least 12 pupils and two teachers are thought to have drowned in western India, after a boat ferrying them to a school picnic capsized on Thursday.
+
+Local police confirmed the number of deaths to BBC Gujarati and said a rescue operation is still ongoing.
+
+The cause of the incident, which happened on Harni Lake in Vadodara, in the state of Gujarat, is not yet known.
+
+Around 27 people were aboard the boat, according to local authorities.
 
 ...
 
@@ -230,6 +274,20 @@ Narammala, Jan 19 (Daily Mirror) - A 40 year old man was killed when police ope
 The incident took place along the Giriulla Narammala Road late in the evening.
 
 The police had ordered the driver to stop but the driver had allegedly defied the order and when the police fired at the vehicle. The dead was identified as a resident of Vathawakanda in Alawwa.
+
+...
+
+### Fairly heavy rainfall expected in three provinces including Western
+
+*2024-01-19 06:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/96532/fairly-heavy-rainfall-expected-in-three-provinces-including-western) 
+
+Showers will occur at times in Northern, North-Central, Eastern and Uva provinces, the Department of Meteorology says.
+
+Showers or thundershowers may occur at several places elsewhere on the island after 2.00 p.m.
+
+Fairly heavy showers above 75mm are likely at some places in Western, Sabaragamuwa and North-western provinces.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
 
 ...
 
@@ -946,53 +1004,5 @@ The apprehension was made by the Police Special Task Force (STF) as part of the 
 Colombo, Jan. 18 (Daily Mirror) - The Minister of Sports Harin Fernando has instructed the Director General of Sports to provide equal opportunities for Sri Lankan youth to attain qualifications for the Summer Olympic Games in Paris, France, starting on July 26.
 
 Minister Fernando will secure special approval from the Cabinet of Ministers for the innovative programme, ‘Road to Olympics.’
-
-...
-
-### SLC to obtain services of Jonty Rhodes, Bharat Arun and Alex Kountouri
-
-*2024-01-18 18:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96526/slc-to-obtain-services-of-jonty-rhodes-bharat-arun-and-alex-kountouri) 
-
-Sri Lanka Cricket (SLC) says it has obtained the services of former South African cricketer Jonty Rhodes and Bharat Arun, the former India fast bowling coach, to provide advanced training to local coaches and trainers. The board has also roped in former Sri Lankan physiotherapist Alex Kountouri.
-
-...
-
-### Sri Lanka Police Minister raps UN over anti-drug campaign concerns
-
-*2024-01-18 18:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-minister-raps-un-over-anti-drug-campaign-concerns-147853/) 
-
-ECONOMYNEXT – Sri Lanka’s Public Security Minister Tiran Alles, who is also in charge of the island nation’s police, slammed the United Nations Human Rights Commission and its local arm for criticizing the government’s anti-drug campaign which has nabbed around 39,000 for their involvement with drugs.
-
-...
-
-### Over 100,000 offensive videos of children shared on social media
-
-*2024-01-18 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Over-100-000-offensive-videos-of-children-shared-on-social-media/108-275285) 
-
-Colombo, Jan 18 (Daily Mirror) - More than 100,000 offensive video clips of children have been shared on social media, with various individuals contributing to this alarming trend during the past year alone.
-
-Acting IGp Deshabandu Thennakoon said that these videos depict children being sexually abused and expose their nudity, and spreading virally on social media platforms.
-
-...
-
-### Sri Lanka’s Laugfs Leisure delays public listing
-
-*2024-01-18 17:45:00* · [`economynextcom`](https://economynext.com/sri-lankas-laugfs-leisure-delays-public-listing-147845/) 
-
-ECONOMYNEXT – Laufgs Holdings says it is not able to list its leisure arm Laugfs Leisure Limited (LLL) on the Colombo Stock Exchange as anticipated, as it was still unable to satisfy Rule 5.1.1 (c).
-
-The company submitted an Initial Listing Application (ILA) for LLL to the CSE on November 7, 2019.
-
-Laugfs Leisure includes Anantaya Resorts and Spas Chilaw and Pasikudah.
-
-...
-
-### President Ranil arrives in Uganda for 19th NAM summit
-
-*2024-01-18 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96525/president-ranil-arrives-in-uganda-for-19th-nam-summit-) 
-
-President Ranil Wickremesinghe arrived in Kampala, Uganda, a short while ago, the President’s Media Division (PMD) reported.
-
-The Head of State is on an official visit to Uganda to attend the 19th Non-Aligned Movement (NAM) summit, and the 3rd South Summit of the Group of 77 and China.
 
 ...

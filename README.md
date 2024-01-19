@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 02:02:31**
+As of **2024-01-20 02:17:15**
 
 ## Newspaper Stats
 
-*Scraped **1,310** Articles*
+*Scraped **1,313** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,8 +15,8 @@ newsfirstlk | 85 | 🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 97 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 142 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 144 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 145 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 154 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 158 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 158 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -68,6 +68,30 @@ c. The manufacturer is the same viz Pelwatte Dairy Industries Ltd. Buttala
 பௌத்த மதத்தை அவமதித்ததாக குற்றம் சுமத்தப்பட்ட “விஸ்வ புத்தரை” எதிர்வரும் 24ஆம் திகதி மீண்டும் நீதிமன்றில் முன்னிலைப்படுத்துமாறு கொழும்பு பிரதான நீதவான் பிரசன்ன அல்விஸ் இன்று (19) உத்தரவிட்டுள்ளார்.
 
 குறித்த நபர் கைது செய்யப்பட்டு பின்னர் பிணையில் விடுவிக்கப்பட்டுள்ள நிலையில்,   நீதிமன்றத்தின் எச்சரிக்கையையும் மீறி மீண்டும் பௌத்த மதத்தை அவமதிக்கும் வகையில் நடந்து கொள்வதாக தகவல் கிடைத்துள்ளது.
+
+...
+
+### The Judiciary Unbowed, Holding Law-Breakers  To Account
+
+*2024-01-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Judiciary-Unbowed-Holding-Law-Breakers-To-Account/172-275368) 
+
+The Supreme Court of our country keeps making history for all the right reasons. Lay persons sometimes – based on ‘he-said, she-said knowledge’ – accuse the Courts of this country of bowing to the will of the political leadership, and failing to protect the Constitution and the implementation of justice.
+
+...
+
+### MR Sees the Reality, Vajira Doesn’t
+
+*2024-01-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/MR-Sees-the-Reality-Vajira-Doesnt/172-275369) 
+
+Apart from the SLFP which seems to be taking every effort to field its leader, former President Maithripala Sirisena at the race for the top most post amidst a leadership crisis and a danger of MPs of the party deserting the leader, three prominent businessmen have also openly entered the fray
+
+...
+
+### Duminda’s Conviction, Gotabaya’s Pardon and the Supreme Court Ruling
+
+*2024-01-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Dumindas-Conviction-Gotabayas-Pardon-and-the-Supreme-Court-Ruling/172-275393) 
+
+Nandasena Gotabaya Rajapaksa was portrayed as a monument of efficiency who could uplift Sri Lanka by his ‘Viyathmaga’ cronies and his family party the Sri Lanka Podujana Peramuna (SLPP) at the Presidential elections of 2019. More than 6.9 million people voted him to stupendous success,
 
 ...
 
@@ -155,7 +179,7 @@ The Online Safety Bill simply fits into a wider web of laws to restrict freedom 
 
 Colombo, Jan 19 (Daily Mirror) -  The National People's Power (NPP) was not expecting to legalize prostitution and that it would only amend some laws which inconvenience those who were forced to prostitution due to economic hardships, NPP MP Harini Amarasuriya said today.
 
-She told the Daily Mirror that the main focus of the NPP was to revive the economy of the country claiming that the economic hardships had forced women into prostitution.
+She told the Daily Mirror that the main focus of the NPP was to revive the economy of the country as  economic hardships had forced women into prostitution.
 
 ...
 
@@ -239,9 +263,9 @@ Sanjeewa is currently detained by the police at the Weeragula Police Station, an
 
 Police Narcotics Bureau (PNB) officers have found ill-gotten cash amounting to Rs. 2.2 million inside an underground bunker at a house located in Udugampola.
 
-The house is said to be owned by an accomplice of the notorious criminal figure ‘Ganemulla Sanjeewa’ who is in custody under detention orders.
+The house is said to be owned by a close associated of an accomplice of the notorious criminal figure ‘Ganemulla Sanjeewa’ who is in custody under detention orders.
 
-◼️
+...
 
 ### Gaza destruction risks lost generation of children, says UN official
 
@@ -996,35 +1020,5 @@ Tamil Nadu Chief Minister M.K. Stalin urged Union External Affairs Minister S. J
 மயக்க மருந்து கலந்த இனிப்பு பானத்தை கொடுத்து   மயக்கமடைந்த உடனேயே, அவரது பணப்பையில் இருந்த தங்க நகைகள், தொலைபேசிகள் மற்றும் பணத்தை திருடிச் செல்லும் திருமணமாகாத ஜோடியை பொலிஸார் கைது செய்துள்ளனர்.
 
 கொத்மலை, தவளந்தன்ன மற்றும் வட்டவளை பிரதேசத்தில் வசிக்கும் திருமணமாகாத தம்பதி (17) பிற்பகல் கைது செய்யப்பட்டதாக நுவரெலியா பொலிஸ் குற்றப் புலனாய்வுப் பிரிவின் நிலைய பொறுப்பதிகாரி பிரதான பொலிஸ் பரிசோதகர் ஆர்.எஸ்.ராஜசிங்க தெரிவித்தார்.
-
-...
-
-### පැණි බීම දී මව සහ පුතා සුද්ද කල අනියම් යුවල දැලේ
-
-*2024-01-19 11:50:47* · [`adalk`](https://www.ada.lk/breaking_news/පැණි-බීම-දී-මව-සහ-පුතා-සුද්ද-කල-අනියම්-යුවල-දැලේ/11-407623) 
-
-පැණි බීම පානයක් සඳහා සිහිය නැතිවෙන බෙහෙතක් කලවම් කර පානය කිරීමට ලබාදී සිහිය නැති වූ විගස කනකර පැළඳි රන් ආභරණ දුරකථන සහ මුදල් පසුම්බියේ ඇති මුදල් කොල්ලකන තවලන්තැන්න හා වටවල ප්‍රදේශයේ පදිංචි අනියම් යුවලක් (17) දින පස්වරුවේ අත්අඩංගුවට ගත් බව නුවරඑළිය පොලිසියේ අපරාධ විමර්ශන අංශය ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක ආර්.එස්.රාජසිංහ මහතා පැවසිය.
-
-...
-
-### SJB, NPP hold talks with IMF delegation; Sajith slams govt over tax burden
-
-*2024-01-19 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96539/sjb-npp-hold-talks-with-imf-delegation-sajith-slams-govt-over-tax-burden) 
-
-The Leader of the Opposition Sajith Premadasa has met with a group of representatives of the International Monetary Fund (IMF) who are on an official visit to Sri Lanka.
-
-The IMF delegation was led by Senior Mission Chief for Sri Lanka Peter Breuer. The meeting reportedly took place at the Opposition Leader’s Office.
-
-...
-
-### செங்கடல் ஊடாக பயணிக்கும் சீன ரஸ்ய கப்பல்களிற்கு எந்த ஆபத்தும் ஏற்படாது - ஹெளத்தி கிளர்ச்சியாளர்கள்
-
-*2024-01-19 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174310) 
-
-செங்கடல் ஊடாக சீன ரஸ்ய கப்பல்கள் பாதுகாப்பாக பயணிக்கலாம் அந்த நாட்டு கப்பல்களை தாக்கப்போவதில்லை என ஹெளத்தி கிளர்ச்சியாளர்களின் சிரேஸ்ட அதிகாரியொருவர் தெரிவித்துள்ளார்.
-
-செங்கடலில் ஹெளத்தி கிளர்ச்சியாளர்கள் தொடர்ச்சியாக சரக்குகப்பல்களை தாக்கிவரும் நிலையிலேயே சீன ரஸ்ய கப்பல்கள் தாக்கப்படாது என்ற உத்தரவாதம் வெளியாகியுள்ளது.
-
-இஸ்ரேல் உட்;பட சில நாடுகளுடன் தொடர்புபட்ட கப்பல்களை தவிர ஏனைய நாடுகளின் கப்பல்களிற்கு ஆபத்தில்லை என அவர் தெரிவித்துள்ளார்.
 
 ...

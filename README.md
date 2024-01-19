@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 16:17:08**
+As of **2024-01-19 16:32:51**
 
 ## Newspaper Stats
 
-*Scraped **1,242** Articles*
+*Scraped **1,243** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,7 +15,7 @@ newsfirstlk | 82 | 🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 86 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 118 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 130 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 131 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 146 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 148 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,16 @@ adalk | 153 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### Rhodes reacts to SLC consultancy role, says ’’This is news to me’’
+
+*2024-01-19 15:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rhodes-reacts-to-SLC-consultancy-role-says-This-is-news-to-me/108-275359) 
+
+Colombo, Jan 19 (Daily Mirror) - Former South African cricketer Jonty Rhodes on Friday responded to reports that he had been appointed as a Consultant Fielding Coach by Sri Lanka Cricket (SLC), saying "This is news to me".
+
+Responding to a media report that he was one of three overseas coaches appointed by SLC on a consultancy basis, Rhodes took to his verified account on X, formerly known as Twitter, writing: "This is news to me #checkyourfacts".
+
+...
 
 ### IMF says debt agreements with creditors critical
 
@@ -1026,13 +1036,5 @@ Elevating Sri Lanka’s entertainment landscape, Dialog Television, Sri Lanka’
 *2024-01-19 00:47:43* · [`dailyftlk`](https://www.ft.lk/business/Rocell-shines-at-CNCI-Achiever-Awards-and-National-Industry-Excellence-Awards-2023/34-757523) 
 
 Royal Ceramics Lanka PLC (Rocell) has once again taken the spotlight at two prestigious award ceremonies, underscoring its position as Sri Lanka’s leading tile and bathware manufacturer.
-
-...
-
-### Jaffna International Trade Fair 2024 opens today
-
-*2024-01-19 00:46:22* · [`dailyftlk`](https://www.ft.lk/business/Jaffna-International-Trade-Fair-2024-opens-today/34-757522) 
-
-The Jaffna International Trade Fair 2024, a transformative annual event that has played a pivotal role in fostering economic growth and community development in Sri Lanka’s Northern Province is back with its 14th edition.
 
 ...

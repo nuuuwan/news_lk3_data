@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 10:03:35**
+As of **2024-01-19 10:17:07**
 
 ## Newspaper Stats
 
-*Scraped **1,172** Articles*
+*Scraped **1,173** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -13,7 +13,7 @@ bbccomsinhala | 33 | 🟩🟩🟩
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
 newsfirstlk | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩 
-virakesarilk | 96 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+virakesarilk | 97 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 123 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 132 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,18 @@ adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### கல்விச் சுற்றுலாவின் போது படகு கவிழ்ந்ததில் இரு ஆசிரியர்களும் 14 மாணவர்களும் பலி- இந்தியாவில் சம்பவம்
+
+*2024-01-19 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/174291) 
+
+இந்தியாவின், குஜராத் மாநிலம் வதோதரா நகரின் புறநகர்ப் பகுதியில் உள்ள ஏரியில் படகு கவிழ்ந்து ஏற்பட்ட விபத்தில் இரண்டு ஆசிரியர்கள் மற்றும் 14 மாணவர்களென மொத்தம் இதுவரை 16 பேர் உயிரிழந்துள்ளனர்.
+
+சுமார் 20க்கும் மேற்பட்ட மாணவர்களும், 4 ஆசிரியர்களும் வியாழக்கிழமை (18) மதியம் அங்குள்ள ஹர்னி ஏரியில் படகு சவாரி செய்து கொண்டிருந்தனர். அப்போது இந்த விபத்து ஏற்பட்டுள்ளது.
+
+மேலும், விபத்தில் சிக்கி காணாமல் போனவர்களை தேடும் பணி நடைபெற்று வருவதாக அதிகாரிகள் தெரிவித்தனர்.
+
+...
 
 ### தமிழரசுக்கட்சியின் தலைவராக சுமந்திரன் வந்தால் தமிழ்த்தேசியத்திற்கு பாதிப்பு ஏற்படும் - எம்.பி.யோகேஸ்வரன்
 
@@ -990,13 +1002,5 @@ Accordingly, the accused was remanded until 22 January, on orders of the Galle M
 COLOMBO (News 1st); Sri Lanka's Acting Inspector General of Police, Deshabandu Thennakoon, has declared a zero-tolerance policy towards drug use within the police force.
 
 Addressing reporters today, the IGP acknowledged investigations into internal drug use over the years have yielded "unsatisfactory results," prompting a decisive shift in approach.
-
-...
-
-### Sugar scam: COPF slams Finance Ministry, IRD’s failure to collect foregone taxes from companies involved
-
-*2024-01-18 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96523/sugar-scam-copf-slams-finance-ministry-irds-failure-to-collect-foregone-taxes-from-companies-involved) 
-
-The Committee on Public Finance (COPF) has expressed its deep dissatisfaction with the Finance Ministry and the Inland Revenue Department (IRD) over the failure to collect foregone taxes from major corporations implicated in the Sugar scam, as outlined in the forensic report compiled by the Auditor General.
 
 ...

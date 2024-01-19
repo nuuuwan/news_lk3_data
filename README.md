@@ -1,29 +1,57 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 11:17:17**
+As of **2024-01-19 11:32:53**
 
 ## Newspaper Stats
 
-*Scraped **1,185** Articles*
+*Scraped **1,189** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 23 | 🟩🟩 
 bbccomsinhala | 33 | 🟩🟩🟩 
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
-newsfirstlk | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩 
+newsfirstlk | 78 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 99 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 137 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-tamilmirrorlk | 138 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+tamilmirrorlk | 140 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### சடலத்தில் மோசடி: ஒருவர் கைது
+
+*2024-01-19 11:12:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/சடலத்தில்-மோசடி-ஒருவர்-கைது/76-331786) 
+
+சுடுகாட்டில் சடலத்தை எரியூட்டுவதற்கு ஒரு சடலத்துக்கு மேலதிகமாக 5,000 ரூபாயை அறவிட்டு 5,50,000 ரூபாயை மோசடி செய்தார் என்றக் குற்றச்சாட்டின் பேரில் கைது செய்யப்பட்ட மாத்தளை மாநகர சபையின்  பணியாளர் இம்மாதம் 30 ஆம் திகதி வரையிலும் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்டு மாத்தளை மாவட்ட நீதிமன்றத்தில் ஆஜர்படுத்தப்பட்ட பெண்ணொருவரே, நீதவான் ஆர்.பீ.கே.என். என் கோங்கேயின் உத்தரவின் பேரில் விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+...
+
+### ஊழியர்கள் பணி இடைநீக்கம்; மின்சார சபை அதிரடி
+
+*2024-01-19 11:07:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊழியர்கள்-பணி-இடைநீக்கம்-மின்சார-சபை-அதிரடி/175-331785) 
+
+அண்மையில் நடைபெற்ற போராட்டத்தின் போது பண கவுண்டரை மூடி மின் கட்டணம் செலுத்துவதற்கு இடையூறு விளைவித்த 15 பண கவுண்டர்கள் (cash counters) பணி இடைநீக்கம் செய்யப்பட்டதாக மின்சார சபை தெரிவித்துள்ளது.
+
+மின்சார சபையை தனியார் மயமாக்கப் போவதாக அண்மையில் அதன் தொழிற்சங்கங்கள் எதிர்ப்புப் பிரச்சாரத்தை முன்னெடுத்திருந்தன.
+
+...
+
+### First US attempt to reach the moon in 50 years ends in failure. Spacecraft crashes into Pacific Ocean
+
+*2024-01-19 10:48:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/first-us-attempt-to-reach-the-moon-in-50-years-ends-in-failure-spacecraft-crashes-into-pacific-ocean/) 
+
+Colombo (News 1st) – The first American attempt to reach the moon in half a century ended in failure on Friday (19th) as the Peregrine Moon Lander crashed into the Pacific Ocean after burning up in the earth's atmosphere, foreign media said.
+
+...
 
 ### போதைப்பொருள் பாவிக்கும் பொலிஸார்  சேவையிருந்து முழுமையாக நீக்கப்படுவார்கள் - பதில் பொலிஸ்மா அதிபர்
 
@@ -976,33 +1004,5 @@ Colombo, Jan. 18 (SLC) - Sri Lanka Cricket decided to obtain the services of som
 *2024-01-18 18:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Cricket-to-hire-Jonty-Rhodes-for-advanced-training/108-275287) 
 
 Colombo, Jan. 18 (SLC) - Sri Lanka Cricket decided to obtain the services of some of the best-known talents in international cricket to provide advanced training for local coaches, trainers, and physiotherapists to enhance their skills and competencies by conducting periodic training programs in selected areas.
-
-...
-
-### Mujibur goes before SC against Deshabandu
-
-*2024-01-18 18:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Mujibur-goes-before-SC-against-Deshabandu/108-275288) 
-
-Colombo, Jan 18 (Daily Mirror) -  Former Samagi Jana Balawegaya (SJB) Colombo District Parliamentarian Mujibur Rahuman today filed a Fundamental Rights petition before the Supreme Court seeking an order quashing any decision by the President to appoint Deshabandu Thennakoon as the Inspector General of Police (IGP).
-
-...
-
-### Two persons allegedly on way to assassinate businessman arrested
-
-*2024-01-18 18:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96527/two-persons-allegedly-on-way-to-assassinate-businessman-arrested) 
-
-Two suspects, who were allegedly on their way to assassinate a person involved in fish trade in Ambalangoda, have been arrested with a pistol and a motorcycle.
-
-The apprehension was made by the Police Special Task Force (STF) as part of the ongoing ‘Yukthiya’ special police operation, the Ministry of Public Security said.
-
-...
-
-### SL youth ready to qualify for Paris Olympics
-
-*2024-01-18 18:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-youth-ready-to-qualify-for-Paris-Olympics/108-275286) 
-
-Colombo, Jan. 18 (Daily Mirror) - The Minister of Sports Harin Fernando has instructed the Director General of Sports to provide equal opportunities for Sri Lankan youth to attain qualifications for the Summer Olympic Games in Paris, France, starting on July 26.
-
-Minister Fernando will secure special approval from the Cabinet of Ministers for the innovative programme, ‘Road to Olympics.’
 
 ...

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 17:17:17**
+As of **2024-01-19 17:33:17**
 
 ## Newspaper Stats
 
-*Scraped **1,244** Articles*
+*Scraped **1,257** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -12,18 +12,70 @@ colombotelegraphcom | 23 | 🟩🟩
 bbccomsinhala | 33 | 🟩🟩🟩 
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
 newsfirstlk | 82 | 🟩🟩🟩🟩🟩🟩🟩🟩 
-economynextcom | 86 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+economynextcom | 94 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 118 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 132 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 146 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 148 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 151 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 153 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### Train operations on Puttalam Line delayed due to derailment
+
+*2024-01-19 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96549/train-operations-on-puttalam-line-delayed-due-to-derailment) 
+
+The railway operations on the Puttalam Line were disrupted this evening due to a derailment, the Department of Railways said.
+
+An engine of a freight train plying from Colombo to Seeduwa has derailed between the Ja-Ela and Ragama railway stations, according to the department.
+
+...
+
+### Police officer arrested over Narammala firearm discharge remanded
+
+*2024-01-19 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96548/police-officer-arrested-over-narammala-firearm-discharge-remanded-) 
+
+The police officer, who was arrested over the alleged ‘accidental’ firearm discharge in Narammala in which a lorry driver was killed, has been remanded.
+
+Accordingly, he has been remanded until January 23 on the orders of Narammala Magistrate’s Court.
+
+The lorry driver, 40, was killed on Thursday night (Jan.18) after a police officer ‘accidentally’ discharged his firearm during a vehicle inspection. He was identified as a resident of Alawita area.
+
+...
+
+### Karapitiya medical officers, patients & local residents seek justice for arrested senior oncologist
+
+*2024-01-19 16:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/96547/karapitiya-medical-officers-patients-local-residents-seek-justice-for-arrested-senior-oncologist) 
+
+The medical officers and nurses of the oncology unit of the Karapitiya Teaching Hospital, together with the patients and residents of the area staged a demonstration on Friday (Jan.19), seeking justice for the senior oncologist arrested over an alleged assault.
+
+...
+
+### Sri Lanka stocks close down for second week
+
+*2024-01-19 16:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-for-second-week-148014/) 
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Friday, for the second consecutive week, data on its site showed.
+
+The All Share Price Index was down 0.27 percent, or 28.03 points, at 10,432.
+
+The S&P SL20 index was down 0.05 percent, or 1.57 points, at 2,955.
+
+The energy industry (111mn) saw the most investor interest, mainly due to trading of Lanka IOC Plc (down at 98.20).
+
+...
+
+### Sri Lanka consumer confidence improves marginally in December 2023: survey
+
+*2024-01-19 16:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-consumer-confidence-improves-marginally-in-december-2023-survey-148013/) 
+
+ECONOMYNEXT – An Index of Consumer Sentiment (ICS) run by the Institute for Health Policy (IHP), an independent research institute in Sri Lanka, increased 4 points to 21 points in December 2023.
+
+...
 
 ### North Korea conducts underwater nuclear weapons system test
 
@@ -34,6 +86,36 @@ North Korea, Jan 19 (BBC) -  North Korea says it has carried out a test of its 
 The underwater drone, which supposedly can carry a nuclear weapon, was tested off the east coast, state media said.
 
 There is no other evidence of the tests being conducted and Seoul had earlier said the North's descriptions of the drones' capability were exaggerated.
+
+...
+
+### Sri Lanka to repair 600 roads with ADB funds
+
+*2024-01-19 16:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-repair-600-roads-with-adb-funds-148006/) 
+
+ECONOMYNEXT – Sri Lanka aims to repair 600 roads with a loan from the Asian Development Bank, its Minister of Transport Bandula Gunawardena said at a press briefing on Friday (19).
+
+“With 60 million US dollars from the Asian Development Bank, we will repair 600 roads so that they are in usable condition (yanna pulu-wan vi-di-ha-ta),” Gunawardena said.
+
+...
+
+### Swift completion of final agreements with official creditors critical for Sri Lanka – IMF
+
+*2024-01-19 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96546/swift-completion-of-final-agreements-with-official-creditors-critical-for-sri-lanka-imf) 
+
+The International Monetary Fund (IMF) says it is critical for Sri Lanka to swiftly complete the final agreements with the official creditors and reach a resolution with the external private creditors.
+
+IMF mission team, led by Senior Mission Chief Peter Breuer, was in Sri Lanka from January 11-19 to discuss recent macroeconomic developments and progress in implementing economic and financial policies under the EFF arrangement.
+
+...
+
+### Wrapping up Sri Lanka external debt deals critical, property tax needed: IMF
+
+*2024-01-19 15:20:00* · [`economynextcom`](https://economynext.com/wrapping-up-sri-lanka-external-debt-deals-critical-property-tax-needed-imf-147988/) 
+
+ECONOMYNEXT – Sri Lanka’s economy is starting to recover under a stabilization program, and further progress has to be made on debt restructuring while monetary policy decisions have to be prudent to keep inflation down, an International Monetary Fund official has said.
+
+“A swift completion of final agreements with official creditors and reaching a resolution with external private creditors remain critical,” IMF Senior Mission Chief Peter Breuer said after a staff visit.
 
 ...
 
@@ -77,6 +159,16 @@ COLOMBO (News 1st); End-of-Mission press releases include statements of IMF sta
 
 ...
 
+### Diana Gamage’s MP seat: SC grants leave to hear appeal against CA decision
+
+*2024-01-19 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96545/diana-gamages-mp-seat-sc-grants-leave-to-hear-appeal-against-ca-decision) 
+
+An appeal filed challenging the decision of the Court of Appeal to dismiss the petition, filed seeking the disqualification of State Minister Diana Gamage’s parliamentary seat, has been allowed to be taken up for hearing.
+
+The relevant order was issued by the Supreme Court when the appeal was called before a three-member judge bench led by Justice Preethi Padman Surasena today (19).
+
+...
+
 ### Parliamentary Committee raises concerns over PUCSL’s inaction to digitalise system
 
 *2024-01-19 14:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-raises-concerns-over-PUCSLs-inaction-to-digitalise-system/108-275357) 
@@ -94,6 +186,14 @@ These concerns were raised when the Committee took into consideration the Annual
 திருகோணமலை பொது வைத்தியசாலையில் நோயாளியை கொண்டு செல்வதற்கு சக்கர நாற்காலி வழங்கப்படாமையால் அவரின் உறவினர்கள் நோயாளியை தூக்கிக் கொண்டு சென்ற சம்பவம் இன்று வெள்ளிக்கிழமை (19) இடம்பெற்றுள்ளது.
 
 திருகோணமலை வைத்தியசாலையில் எலும்பு முறிவுக்கு உள்ளாகி சிகிச்சை பெறுவதற்காக சென்ற நோயாளியை கொண்டு செல்வதற்கு சக்கர நாற்காலி வழங்கப்படவில்லை எனவும் இதனால் நோயாளியை தூக்கிக் கொண்டு செல்ல வேண்டிய நிலை ஏற்பட்டதாகவும் தெரிவிக்கப்படுகின்றது.
+
+...
+
+### Sri Lanka reiterates support for Gaza at NAM
+
+*2024-01-19 14:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-reiterates-support-for-gaza-at-nam-147976/) 
+
+ECONOMYNEXT – Sri Lanka stands in solidarity with the people of Palestine and will continue to support them in their quest to realize their inalienable right to Statehood, Minister of Foreign Affairs M U M Ali Sabry has said addressing a meeting of Foreign Ministers of the Non-Aligned Movement in Kampala, Uganda.
 
 ...
 
@@ -154,6 +254,14 @@ During the search, a small suspicious parcel, which the driver claimed to be his
 *2024-01-19 13:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fifteen-CEB-employees-interdicted-over-recent-protest/108-275354) 
 
 Colombo, Jan. 19 (Daily Mirror)- Fifteen CEB employees, who were in charge of the payment counters have been interdicted for engaging in the recent protest by closing down payment counters and inconveniencing the consumers, CEB spokesman Engineer Noel Priyantha said.
+
+...
+
+### Sri Lanka seeks UN help for Vesak celebrations
+
+*2024-01-19 13:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-un-help-for-vesak-celebrations-147962/) 
+
+ECONOMYNEXT – The government is in discussions to get financial aid from the United Nations for its 2024 State Vesak festival, Minister of Religious and Cultural Affairs Vidura Wickramanayake has said.
 
 ...
 
@@ -313,6 +421,16 @@ As such, the total number of beneficiaries now stands over 1.7 million. The gove
 
 ...
 
+### Sri Lanka allocates Rs910mn for rural development in Matara
+
+*2024-01-19 12:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-allocates-rs910mn-for-rural-development-in-matara-147949/) 
+
+ECONOMYNEXT- The Sri Lankan government has allocated 910 million rupees for rural development of the southern Matara District, its minister of power and energy, who is also from that district, said.
+
+“Rs 910 million has been allocated to the Matara District through the budget for rural development programs for 2024,” Kanchana Wijesekera said on X, following a Matara District Development Committee meeting held on Thursday (18) at the District Secretariat.
+
+...
+
 ### மாமாவை கடத்தி மிரட்டிய மன்மதன் கைது
 
 *2024-01-19 12:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமாவை-கடத்தி-மிரட்டிய-மன்மதன்-கைது/175-331792) 
@@ -396,6 +514,18 @@ The IMF delegation was led by Senior Mission Chief for Sri Lanka Peter Breuer. T
 செங்கடலில் ஹெளத்தி கிளர்ச்சியாளர்கள் தொடர்ச்சியாக சரக்குகப்பல்களை தாக்கிவரும் நிலையிலேயே சீன ரஸ்ய கப்பல்கள் தாக்கப்படாது என்ற உத்தரவாதம் வெளியாகியுள்ளது.
 
 இஸ்ரேல் உட்;பட சில நாடுகளுடன் தொடர்புபட்ட கப்பல்களை தவிர ஏனைய நாடுகளின் கப்பல்களிற்கு ஆபத்தில்லை என அவர் தெரிவித்துள்ளார்.
+
+...
+
+### Sri Lanka adds 300,000 more families to Aswesuma welfare scheme
+
+*2024-01-19 11:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-adds-300000-more-families-to-aswesuma-welfare-scheme-147942/) 
+
+ECONOMYNEXT: Another 300,00 families have been deemed eligible for the Aswesuma scheme, Sri Lanka’s targeted welfare benefits program, its State Finance Minister said.
+
+“300,000 new families have qualified to receive “Aswesuma” benefits after completion of 640,000 objections and appeals submitted out of 1 million,” Shehan Semasinghe said on X.
+
+“Accordingly, the number of families who will now receive benefit will exceed 1.7 million.”
 
 ...
 
@@ -910,135 +1040,5 @@ SLTPB says event placed strategically in the peak season to compete with other r
 Colombo, Jan 19 (Daily Mirror) - Commissioner General of the Department for Registration of Persons (DRP) G. Pradeep Saputhanthri said they are to introduce the electronic National Identity Card (e-nic) for people within this year.
 
 He said preliminary activities relating to the introduction of the facilities and infrastructure facilities will be underway.
-
-...
-
-### அஸ்வெசும திட்டத்தில் மேலும் 3 லட்சம் குடும்பங்கள்
-
-*2024-01-19 02:05:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-திட்டத்தில்-மேலும்-3-லட்சம்-குடும்பங்கள்/175-331781) 
-
-6 லட்சத்து 40 ஆயிரம் அஸ்வெசும மேன்முறையீடு மற்றும் ஆட்சேபனைகளை கருத்திற்கொண்டு இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
-
-இதற்கமைவாக, அஸ்வெசும கொடுப்பனவை பெறும் குடும்பங்களின் எண்ணிக்கை 17 லட்சத்தை தாண்டியுள்ளதாக பதில் நிதியமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்துள்ளார். (a)
-
-◼️
-
-### சிறுவர்களுக்கு தடுப்பூசி செலுத்த நடவடிக்கை
-
-*2024-01-19 01:59:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்களுக்கு-தடுப்பூசி-செலுத்த-நடவடிக்கை/175-331780) 
-
-நாட்டில் இதுவரை சின்னம்மை தடுப்பூசிகள் செலுத்தப்படாத சிறுவர்களுக்கு எதிர்வரும் 20 ஆம் மற்றும் 21 ஆம் திகதிகளில் அந்த தடுப்பூசிகளை செலுத்தும் நடவடிக்கை எடுக்கப்படவுள்ளதாக சுகாதார அமைச்சு தெரிவித்துள்ளது.
-
-சுகாதார மேம்பாட்டு பணியகத்தில் இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்ட அதன் பிரதிப் பணிப்பாளர் நாயகம் எஸ்.எம். ஆர்னல்ட் இதனை தெரிவித்துள்ளார்.
-
-9 மாதம் முதல் 15 வயதுக்கிடைப்பட்ட சிறுவர்களுக்கு குறித்த தடுப்பூசி செலுத்தப்படும் என அவர் குறிப்பிட்டுள்ளார்.
-
-...
-
-### விசா நடைமுறையை இலகுபடுத்த நடவடிக்கை
-
-*2024-01-19 01:57:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விசா-நடைமுறையை-இலகுபடுத்த-நடவடிக்கை/175-331779) 
-
-நாட்டில் விசா முறையை இலகுபடுத்த நடவடிக்கை எடுக்கப்படும் என குடிவரவு - குடியகல்வு கட்டுப்பாட்டாளர் நாயகம் ஹர்ஷ இலுக்பிட்டிய தெரிவித்துள்ளார்.
-
-பொதுமக்கள் பாதுகாப்பு அமைச்சில் நேற்று இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பிலேயே அவர் இதனைத் தெரிவித்துள்ளார்.
-
-பொதுமக்கள்  பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தலைமையில் நடைபெற் இந்த ஊடகவியலாளர் சந்திப்பில் பல அரச நிறுவனங்களின் அதிகாரிகளும் கலந்துகொண்டிருந்தனர். (a)
-
-◼️
-
-### சிறுவன் மர்ம மரணம்: பெண்ணிற்கு விளக்கமறியல்
-
-*2024-01-19 01:43:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவன்-மர்ம-மரணம்-பெண்ணிற்கு-விளக்கமறியல்/175-331777) 
-
-நன்னடத்தை பாடசாலையில்  உயிரிழந்த சிறுவனின் மரணம் தொடர்பில் கைதான அப்பாடசாலையின் மேற்பார்வையாளரான பெண்ணை 14 நாட்கள் விளக்கமறியலில்   வைக்குமாறும் அது  தொடர்பான  வழக்கு எதிர்வரும்  ஜனவரி   மாதம் 31 ஆம்  திகதி வரை மறு விசாரணைக்காக ஒத்தி  வைக்குமாறு கல்முனை நீதிவான் நீதிமன்று உத்தரவிட்டுள்ளது.
-
-...
-
-### Opposition leader vows to oppose OSB
-
-*2024-01-19 01:34:37* · [`dailyftlk`](https://www.ft.lk/news/Opposition-leader-vows-to-oppose-OSB/56-757529) 
-
-Assures SJB will reject and oppose the Online Safety Bill when it is brought before Parliament
-
-Accuses Govt. of consolidating a monopoly through introduction of anti-democratic laws under pretext of safeguarding rights
-
-Stresses President Wickremesinghe despite projecting a democratic persona has betrayed this image through enactment of this Act
-
-Vows democratic and peaceful measures would be pursued to block anti-democratic laws introduced by Govt.
-
-...
-
-### ஜனாதிபதியாக பதவியேற்றார் அனுர
-
-*2024-01-19 01:33:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதியாக-பதவியேற்றார்-அனுர/175-331776) 
-
-தேசிய மக்கள் சக்தியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான  அநுரகுமார திஸாநாயக்க, சமூக வலைத்தளங்களின் ஊடாகவே நாட்டின் ஜனாதிபதியாக பதவியேற்று விட்டார் என குருநாகல் மாவட்ட பாராளுமன்ற உறுப்பினர் நளின் பண்டார தெரிவித்தார்.
-
-...
-
-### IMF delegation meets with NPP leaders
-
-*2024-01-19 01:29:14* · [`dailyftlk`](https://www.ft.lk/news/IMF-delegation-meets-with-NPP-leaders/56-757527) 
-
-A delegation of the International Monetary Fund (IMF) led by IMF Head of Operations for Sri Lanka Peter Breuer met with MPs and representatives of the leftist Janatha Vimukthi Peramuna (JVP) led National People’s Power (NPP) party yesterday.
-
-The meeting took place at the JVP head office in Pelawatte, Battaramulla.
-
-The IMF delegation consisted of Breuer, the Resident Representative of the IMF Sarvath Jahan and IMF staffer Manavee Abeywickrama.
-
-...
-
-### Mujibur files FR against Deshabandu
-
-*2024-01-19 01:27:59* · [`dailyftlk`](https://www.ft.lk/news/Mujibur-files-FR-against-Deshabandu/56-757526) 
-
-Samagi Jana Balawegaya (SJB) Deputy General Secretary Mujibur Rahman yesterday filed a fundamental rights petition before the Supreme Court aiming to secure an order restraining President Ranil Wickremesinghe from appointing Deshabandu Tennekoon as the Inspector General of Police.
-
-...
-
-### ஜெனீவாவை திருப்திப்படுத்த இரகசிய திட்டமா?
-
-*2024-01-19 01:18:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜெனீவாவை-திருப்திப்படுத்த-இரகசிய-திட்டமா/175-331775) 
-
-குருந்தூர் மலையில் சட்டவிரோதமாக அமைக்கப்பட்ட  விகாரை விவகாரம்   இன மத நல்லிணக்கம் எனும் பெயரில் குருந்தூர் மலையில் இரகசிய கலந்துரையாடல்
-
-இன மத நல்லிணக்கத்தை ஏற்படுத்துவதாக  தெரிவித்து குருந்தூர்மலை ஆலயம் சார்ந்தவர்கள் என  சிலருக்கும் , பௌத்தமத குருமார்களுக்கும் இடையில்   குருந்தூர் மலையில் இரகசிய கலந்துரையாடல் ஒன்று அண்மையில் இடம்பெற்றுள்ளது.
-
-...
-
-### India, Sri Lanka explore synergies in new areas to achieve economic development goals: Envoy
-
-*2024-01-19 01:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-explore-synergies-in-new-areas-to-achieve-economic-development-goals-Envoy/108-275325) 
-
-Says ETCA will achieve true potential of India-Sri Lanka trade partnership once signed
-
-The governments of India and Sri Lanka are currently working on promoting and strengthening connectivity in digital, physical, and power & energy spheres between the two countries.
-
-...
-
-### சிறுவர் பராமரிப்பு மைய வசதிகள் குறித்து ஆராய்வு
-
-*2024-01-19 00:53:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறுவர்-பராமரிப்பு-மைய-வசதிகள்-குறித்து-ஆராய்வு/175-331774) 
-
-தேசிய சிறுவர் பாதுகாப்பு அதிகார சபையினால் தயாரிக்கப்பட்ட சிறுவர்களுக்கான பகல்நேரப் பராமரிப்பு மைய வசதிகள் பற்றிய தேசியக் கொள்கை தொடர்பில் சிறுவர்கள், பெண்கள் மற்றும் பாலினம் பற்றிய துறைசார் மேற்பார்வைக் குழுவில் விரிவாகக் கவனம் செலுத்தப்பட்டது.
-
-இந்தக் குழு பாராளுமன்ற உறுப்பினர் கௌரவ (சட்டத்தரணி) தலதா அத்துகோரல தலைமையில் அண்மையில் (09) பாராளுமன்றத்தில் கூடிய போதே இந்த விடயம் தொடர்பில் கலந்துரையாடப்பட்டது.
-
-...
-
-### 5 Lankan firms on show at world’s largest consumer goods fair Ambiente
-
-*2024-01-19 00:50:47* · [`dailyftlk`](https://www.ft.lk/business/5-Lankan-firms-on-show-at-world-s-largest-consumer-goods-fair-Ambiente/34-757525) 
-
-Five Sri Lankan exhibitors will showcase their excellence at the world’s largest consumer goods fair Ambiente 2024 scheduled to take place with Christmasworld and Creativeworld from 26 to 30 January in Frankfurt am Main, Germany.
-
-...
-
-### Dialog Television launches ‘Hits Now’, elevating Sri Lanka’s television experience
-
-*2024-01-19 00:49:22* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Television-launches-Hits-Now-elevating-Sri-Lanka-s-television-experience/34-757524) 
-
-Elevating Sri Lanka’s entertainment landscape, Dialog Television, Sri Lanka’s No. 1 Pay-TV service provider, launched the popular ‘Hits Now’ channel in High Definition (HD) on Channel 113 for its customers, bringing quality curated entertainment to Sri Lankan homes.
 
 ...

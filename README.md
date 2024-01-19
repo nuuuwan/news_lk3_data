@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 20:32:53**
+As of **2024-01-19 20:51:01**
 
 ## Newspaper Stats
 
@@ -213,11 +213,11 @@ There is no other evidence of the tests being conducted and Seoul had earlier sa
 
 ...
 
-### Sri Lanka to repair 600 roads with ADB funds
+### Sri Lanka to resume work on 600 roads from Feb
 
 *2024-01-19 16:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-repair-600-roads-with-adb-funds-148006/) 
 
-ECONOMYNEXT – Sri Lanka aims to repair 600 roads with a loan from the Asian Development Bank, its Minister of Transport Bandula Gunawardena said at a press briefing on Friday (19).
+ECONOMYNEXT – Sri Lanka plans to start repairs on 600 road development projects after finalization of debt restructuring and ongoing discussions with foreign creditors, Minister of Transport Bandula Gunawardena said at a press briefing on Friday (19).
 
 “With 60 million US dollars from the Asian Development Bank, we will repair 600 roads so that they are in usable condition (yanna pulu-wan vi-di-ha-ta),” Gunawardena said.
 

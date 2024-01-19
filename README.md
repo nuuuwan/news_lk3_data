@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 15:17:26**
+As of **2024-01-19 15:33:01**
 
 ## Newspaper Stats
 
-*Scraped **1,238** Articles*
+*Scraped **1,239** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,7 +15,7 @@ newsfirstlk | 81 | 🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 86 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 117 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 129 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 130 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 146 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 148 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -32,6 +32,16 @@ adalk | 152 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 நாரம்மலவில் பொலிஸ் உத்தியோகத்தரின் துப்பாக்கி பிரயோகத்தில்  41 வயது நபர் உயிரிழந்தமை குறித்து பொலிஸ் விசேட விசாரணை பிரிவினர் விசாரணைகளை ஆரம்பித்துள்ளனர்.
 
 பதில் பொலிஸ்மா அதிபரின் உத்தரவின் கீழ் விசேட பொலிஸ் குழுவினர் சம்பவம் இடம்பெற்ற பகுதியில் ஏற்கனவே விசாரணைகளை ஆரம்பித்துள்ளனர் என பொலிஸ் பேச்சாளர் தெரிவித்துள்ளார்.
+
+...
+
+### Parliamentary Committee raises concerns over PUCSL’s inaction to digitalise system
+
+*2024-01-19 14:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-raises-concerns-over-PUCSLs-inaction-to-digitalise-system/108-275357) 
+
+Parliament, Dec. 19 (Daily Mirror)- A Parliamentary Committee has raised concerns regarding the indifferent approach of the Public Utilities Commission of Sri Lanka (PUCSL) towards digitalising the system, claiming that it had allowed the creation of a mafia within the system.
+
+These concerns were raised when the Committee took into consideration the Annual Report of the Public Utilities Commission of Sri Lanka 2020 recently.
 
 ...
 
@@ -1018,17 +1028,3 @@ Foreign Minister Ali Sabry addressing the NAM ministerial meeting in Kampala on 
 The Non-Aligned Movement, once a beacon of hope for a more just and equitable world, is holding its 19th summit in Kampala. But does anyone care? The last summit was held in Azerbaijan in October 2019, months before the COVID-19 outbreak which delivered a stark lesson – humanity’s survival hinges on solidarity and a global order built on justice.
 
 ...
-
-### 2024-01-18 (Thursday)
-
-### E-passport by end of this year
-
-*2024-01-18 23:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/E-passport-by-end-of-this-year/108-275301) 
-
-Colombo, Jan 18 (Daily Mirror) - The Electronic Passport (e-passport) will be introduced to the country by the end of this year, Controller General of Immigration and Emigration I.S.H.J. Ilukpitiya said.
-
-The preliminary programmes for the introduction of the e-passport and the procurement procedures have also been completed, he added.
-
-With the introduction of the new passport, the Sri Lankan passport will become one of the most well-recognized passports among other countries.
-
-◼️

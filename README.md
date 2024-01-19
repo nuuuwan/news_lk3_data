@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 10:32:53**
+As of **2024-01-19 10:50:36**
 
 ## Newspaper Stats
 
-*Scraped **1,179** Articles*
+*Scraped **1,180** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,7 +15,7 @@ newsfirstlk | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 99 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 123 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 132 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 138 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -40,6 +40,16 @@ adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 பாதுகாப்பு தரப்பினர் முறையாக செயற்பட்டிருந்தால் பயங்கரவாதி சஹ்ரானை கைது செய்திருக்கலாம், குண்டுத்தாக்குதல்களை தடுத்திருக்கலாம். பாதுகாப்பு தரப்பினர் கவனயீனமாக செயற்பட்டுள்ளார்கள் என்பதை ஏற்றுக் கொள்கிறேன் என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்தார்.
 
 பொதுமக்கள் பாதுகாப்பு அமைச்சின் காரியாலயத்தில் நேற்று வியாழக்கிழமை இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
+
+...
+
+### First phase of Rs.10,000 salary increase starts in January
+
+*2024-01-19 09:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-phase-of-Rs-10-000-salary-increase-starts-in-January/108-275347) 
+
+Mawanella, Jan 19 (Daily Mirror) - The initial stage of the government employees' salary increase, as outlined in the Budget 2024 with a proposed Rs. 10,000 increment, has commenced by disbursing funds for the first Rs. 5,000 raise, effective from January, Finance State Minister Ranjith Siyambalapitiya said.
+
+He said the first part, the money for teachers' salaries, has already been released by the Treasury.
 
 ...
 
@@ -984,21 +994,5 @@ Laugfs Leisure includes Anantaya Resorts and Spas Chilaw and Pasikudah.
 President Ranil Wickremesinghe arrived in Kampala, Uganda, a short while ago, the President’s Media Division (PMD) reported.
 
 The Head of State is on an official visit to Uganda to attend the 19th Non-Aligned Movement (NAM) summit, and the 3rd South Summit of the Group of 77 and China.
-
-...
-
-### Sri Lanka rupee closes at 320.70/90 to the US dollar
-
-*2024-01-18 17:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-320-70-90-to-the-us-dollar-147841/) 
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 320.70/90 to the US dollar on Thursday, from 320.90/321.10 the previous day, dealers said.
-
-A bond maturing on 01.06.2025 closed at 13.20/30 percent from 13.40/60 percent.
-
-A bond maturing on 01.02.2026 closed at 13.60/65 percent from 13.60/75 percent.
-
-A bond maturing on 15.01.2027 closed at 13.65/75 percent from 13.70/85 percent.
-
-A bond maturing on 15.03.2028 closed at 14.00/14.05 percent from 14.05/10 percent.
 
 ...

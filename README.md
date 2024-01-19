@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 05:37:23**
+As of **2024-01-19 05:56:57**
 
 ## Newspaper Stats
 
-*Scraped **1,140** Articles*
+*Scraped **1,150** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 23 | 🟩🟩 
 bbccomsinhala | 33 | 🟩🟩🟩 
-islandlk | 64 | 🟩🟩🟩🟩🟩🟩 
 newsfirstlk | 71 | 🟩🟩🟩🟩🟩🟩🟩 
+islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 89 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -261,6 +261,16 @@ Soap and Allied Industries Director Rizky Deen addressing the gathering at 25th 
 
 ...
 
+### Japan Airlines appoints ex-flight attendant as first female president
+
+*2024-01-18 22:31:00* · [`islandlk`](http://island.lk/japan-airlines-appoints-ex-flight-attendant-as-first-female-president/) 
+
+Japan Airlines has named a woman as its next president for the first time, a rare appointment for a major Japanese firm – and global airline.
+
+Mitsuko Tottori joined the flag carrier as a flight attendant in 1985, before working her way up. She said she hoped her promotion would give other women the courage to pursue the next step in their careers.
+
+...
+
 ### Indian Navy rescues crew after Houthis hit ship off Yemen
 
 *2024-01-18 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96531/indian-navy-rescues-crew-after-houthis-hit-ship-off-yemen) 
@@ -314,6 +324,52 @@ Colombo, Jan. 18 (Daily Mirror) - Sri Lanka made mincemeat of Zimbabwe as they o
 Colombo, Jan. 18 - Wanindu Hasaranga's bottom-order demolition eased Sri Lanka to a 2-1 series win against Zimbabwe Thursday after the tourists were bowled out in Colombo for 82, their worst-ever T20 total.
 
 The home skipper's 4-15 included two scalps on his final two deliveries and Sri Lanka cruised to a nine-wicket victory inside 11 overs.
+
+...
+
+### Zone24x7 and STEMUP Educational Foundation to empower Sri Lankan students with knowledge of AI
+
+*2024-01-18 21:42:00* · [`islandlk`](http://island.lk/zone24x7-and-stemup-educational-foundation-to-empower-sri-lankan-students-with-knowledge-of-ai/) 
+
+Zone24x7, a leading provider of end-to-end technology consulting and engineering solutions, has entered into a strategic partnership with STEMUP Educational Foundation to help drive knowledge about cutting-edge technologies such as Artificial Intelligence (AI), cybersecurity, and many others among Sri Lankan students through the ground-breaking program ‘AI for Kids’.
+
+...
+
+### TIIKM celebrates 10 years of empowering academia and honors exceptional employees at Alpha one 2023 Awards
+
+*2024-01-18 21:42:00* · [`islandlk`](http://island.lk/tiikm-celebrates-10-years-of-empowering-academia-and-honors-exceptional-employees-at-alpha-one-2023-awards/) 
+
+TIIKM, a leading Knowledge Management Company dedicated to empowering academia, proudly commemorates a decade of fostering academic excellence, innovation, and global impact, marking its 10th Year Anniversary. Since its establishment in 2013, TIIKM has been at the forefront of empowering academic professionals worldwide through innovative initiatives and cutting-edge research endeavors.
+
+...
+
+### Investors’ doubts and anxieties impede share market momentum
+
+*2024-01-18 21:34:00* · [`islandlk`](http://island.lk/investors-doubts-and-anxieties-impede-share-market-momentum/) 
+
+The stock market kicked off on a bullish note yesterday but during the latter part of the day the momentum reduced. The reason being that investors were adopting a cautious stance due to delays and uncertainties in the external debt restructuring exercise, market analysts said.
+
+...
+
+### SLECIC to the fore of Sri Lanka’s economic turnaround
+
+*2024-01-18 21:34:00* · [`islandlk`](http://island.lk/slecic-to-the-fore-of-sri-lankas-economic-turnaround/) 
+
+...
+
+### Heshana Kuruppu inducted as the 27th president of CA Sri Lanka
+
+*2024-01-18 21:33:00* · [`islandlk`](http://island.lk/heshana-kuruppu-inducted-as-the-27th-president-of-ca-sri-lanka/) 
+
+Renowned Chartered Accountant, Heshana Kuruppu, was inducted as the 27th President of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) at a gala event on 18th January 2024 at the Shangri-La Hotel, Colombo.
+
+...
+
+### Dialog Television launches Hits NOW, elevating Sri Lanka’s television experience
+
+*2024-01-18 21:32:00* · [`islandlk`](http://island.lk/dialog-television-launches-hits-now-elevating-sri-lankas-television-experience/) 
+
+Elevating Sri Lanka’s entertainment landscape, Dialog Television, Sri Lanka’s #1 Pay-TV service provider, launched the popular HITS NOW channel in High Definition (HD) on Channel 113 exclusively for its customers, bringing quality curated entertainment exclusively to Sri Lankan homes.
 
 ...
 
@@ -946,67 +1002,3 @@ The meeting, held at the Presidential Secretariat, saw a constructive exchange o
 இதன்படி, பேலியகொடை மீன் சந்தையில் ஹரல்லோ மீன்  550 ரூபாவாகவும் சாலை மீன் 300 ரூபாவாகவும் பலயா மீன் 600 ரூபாவாகவும் பரவ் மீன் 800 ரூபாவாகவும் கெலவல்லா மீன் 1,000 ரூபாவாகவும் லின்னா மீன் 500 ரூபாவாகவும் விற்பனை செய்யப்பட்டுள்ளது.
 
 ◼️
-
-### Finance Ministry, IRD taken to task for failing to collect due taxes from major corporations
-
-*2024-01-18 15:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Finance-Ministry-IRD-taken-to-task-for-failing-to-collect-due-taxes-from-major-corporations/108-275279) 
-
-Parliament, Jan. 18 (Daily Mirror)- The Committee on Public Finance has expressed its deep displeasure with the Ministry of Finance and the Inland Revenue Department's failure to collect foregone taxes from major corporations implicated in the sugar scam, as outlined in the forensic report by the Auditor General.
-
-...
-
-### பழைய சட்டத்தை மீள அமுல்படுத்தக் கோருகிறார் கீதா
-
-*2024-01-18 15:02:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழைய-சட்டத்தை-மீள-அமுல்படுத்தக்-கோருகிறார்-கீதா/175-331748) 
-
-ஐந்து வயதுக்குட்பட்ட குழந்தைகளை கொண்ட பெண்கள் வெளிநாட்டு வேலைக்கு செல்வதைத் தடுக்கும் விதிமுறைகளை மீண்டும் கொண்டு வர வேண்டும் என்று பெண்கள் மற்றும் குழந்தைகள் விவகார இராஜாங்க அமைச்சர் கீதா குமாரசிங்க தெரிவித்துள்ளார்.
-
-டெய்லி மிரருக்கு கருத்து தெரிவித்த இராஜாங்க அமைச்சர் குமாரசிங்க, சிறு குழந்தைகளை கொண்ட பெண்களை வேலைக்காக புலம்பெயர்வதற்கு அனுமதிக்கும் தற்போதைய விதிமுறைகள் குழந்தைகளுக்கு அநீதியானது.
-
-...
-
-### Bill classifying public images handed over to President’s Secretary
-
-*2024-01-18 15:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96515/bill-classifying-public-images-handed-over-to-presidents-secretary) 
-
-The Bill aimed at classifying public images to safeguard freedom of speech, expression, and creative rights was recently handed over to President’s Secretary Saman Ekanayake at the Presidential Secretariat by the committee, appointed by President Ranil Wickremesinghe, the President’s Media Division (PMD) said.
-
-...
-
-### Funds allocated for Rs. 5,000 salary hike for public servants - State Minister
-
-*2024-01-18 14:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96514/funds-allocated-for-rs-5000-salary-hike-for-public-servants-state-minister-) 
-
-State Minister of Finance Ranjith Siyambalapitiya announced on Thursday (18 Jan.) that the Treasury has allocated funds for the disbursement of the promised Rs. 5,000 increase in wages of public sector employees.
-
-This increase is part of the first phase of the 2024 Budget proposal, aiming to raise the cost of living allowance for state employees by Rs. 10,000, from Rs. 7,800 to Rs. 17,800.
-
-...
-
-### யால தேசிய பூங்காவின் பிரதான நுழைவாயில் மீண்டும் திறப்பு
-
-*2024-01-18 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/174243) 
-
-வெள்ளத்தினால் பாதிக்கப்பட்டு மூடப்பட்டிருந்த யால தேசிய பூங்காவின் பலடுபான பிரதான நுழைவாயில் பொதுமக்களுக்காக திறக்கப்பட்டுள்ளதாக ஊவா வலய வனஜீவராசிகள் பாதுகாப்பு திணைக்களத்தின் உதவிப் பணிப்பாளர் உபுல் இந்திரஜித் தெரிவித்துள்ளார்.
-
-யால தேசிய பூங்காவில் உள்ள சிறு நீர்ப்பாசன குளங்களில் கசிவு ஏற்பட்டதால் நுழைவாயில்கள் நீரில் மூழ்கியதை அடுத்து அங்கு அவசர அனர்த்த நிலைமை பிரகடனப்படுத்தப்பட்டது.
-
-...
-
-### COPA express strong displeasure over lack of punishment for Samurdhi officials engaged in misconduct
-
-*2024-01-18 14:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96513/copa-express-strong-displeasure-over-lack-of-punishment-for-samurdhi-officials-engaged-in-misconduct-) 
-
-The Committee on Public Accounts (COPA) has expressed its strong displeasure for not giving a proper punishment to the Samurdhi Development officials involved in misconduct and various incidents of corruption and irregularities.
-
-...
-
-### අප්‍රේල් මාසයේ සිට විදේශිකයන්ට ගුවන් තොටුපොළේදීම රියදුරු බලපත් දෙයි
-
-*2024-01-18 14:35:28* · [`adalk`](https://www.ada.lk/breaking_news/අප්‍රේල්-මාසයේ-සිට-විදේශිකයන්ට-ගුවන්-තොටුපොළේදීම-රියදුරු-බලපත්-දෙයි/11-407617) 
-
-රියදුරු බලපත්‍ර නිකුත් කිරීමේ ගැටලුව ඔක්තෝම්බර් මාසය වන විට විසඳනවා – ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න
-
-රියදුරු බලපත්‍ර නිකුත් කිරීමේ දී මේ වන විට මතුව තිබෙන ගැටලුකාරී තත්ත්වය ලබන ඔක්තෝම්බර් මාසය වන විට විසඳන බවත්, ඒ අනුව තාවකාලික රියදුරු බලපත්‍ර වෙනුවට එක්දින සේවය හරහා ස්ථිර රියදුරු බලපත්‍ර නිකුත් කිරීමට කටයුතු කරන බවත් ප්‍රවාහන රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පැවසීය.
-
-...

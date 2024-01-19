@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 22:50:19**
+As of **2024-01-19 23:02:19**
 
 ## Newspaper Stats
 
-*Scraped **1,287** Articles*
+*Scraped **1,290** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -16,7 +16,7 @@ economynextcom | 94 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 139 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 142 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 154 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 154 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 155 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,32 @@ tamilmirrorlk | 155 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### NPP not expecting to legalize prostitution: Harini
+
+*2024-01-19 22:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-not-expecting-to-legalize-prostitution-Harini/108-275371) 
+
+Colombo, Jan 19 (Daily Mirror) -  The National People's Power (NPP) was not expecting to legalize prostitution and that it would only amend some laws which inconvenience those who were forced to prostitution due to economic hardships, NPP MP Harini Amarasuriya said today.
+
+She told the Daily Mirror that the main focus of the NPP was to revive the economy of the country claiming that the economic hardships had forced women into prostitution.
+
+...
+
+### Japan’s ‘Moon Sniper’ makes historic Moon landing
+
+*2024-01-19 21:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japans-Moon-Sniper-makes-historic-Moon-landing/108-275376) 
+
+Japna, Jan 19 -  Japan on Friday landed its precise “Moon Sniper” rover on the Moon, and its space agency is checking data to confirm the landing’s success, a potentially historic achievement that could see it join a select group of just four other countries, as nations and private companies race to stake a claim in the emerging space economy.
+
+...
+
+### Extended Fund Facility agreement has to be amended: Sajith informs IMF
+
+*2024-01-19 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extended-Fund-Facility-agreement-has-to-be-amended-Sajith-informs-IMF/108-275366) 
+
+Colombo, Jan 19 (Daily Mirror) -  Leader of the Opposition Sajith Premadasa informed a group of IMF officials  that the Extended Fund Facility (EFF) agreement which their organization has signed with the Sri Lankan government has to be amended and a Samagi Jana Balawegaya (SJB) government will do so in the future.
+
+...
 
 ### IMF Presses for Progress in Sri Lanka’s Debt Deals
 
@@ -1000,37 +1026,5 @@ A bond maturing on 15.03.2028 was quoted at 13.95/14.03 percent from 14.00/14.05
 Mawanella, Jan 19 (Daily Mirror) - The initial stage of the government employees' salary increase, as outlined in the Budget 2024 with a proposed Rs. 10,000 increment, has commenced by disbursing funds for the first Rs. 5,000 raise, effective from January, Finance State Minister Ranjith Siyambalapitiya said.
 
 He said the first part, the money for teachers' salaries, has already been released by the Treasury.
-
-...
-
-### கல்விச் சுற்றுலாவின் போது படகு கவிழ்ந்ததில் இரு ஆசிரியர்களும் 14 மாணவர்களும் பலி- இந்தியாவில் சம்பவம்
-
-*2024-01-19 09:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/174291) 
-
-இந்தியாவின், குஜராத் மாநிலம் வதோதரா நகரின் புறநகர்ப் பகுதியில் உள்ள ஏரியில் படகு கவிழ்ந்து ஏற்பட்ட விபத்தில் இரண்டு ஆசிரியர்கள் மற்றும் 14 மாணவர்களென மொத்தம் இதுவரை 16 பேர் உயிரிழந்துள்ளனர்.
-
-சுமார் 20க்கும் மேற்பட்ட மாணவர்களும், 4 ஆசிரியர்களும் வியாழக்கிழமை (18) மதியம் அங்குள்ள ஹர்னி ஏரியில் படகு சவாரி செய்து கொண்டிருந்தனர். அப்போது இந்த விபத்து ஏற்பட்டுள்ளது.
-
-மேலும், விபத்தில் சிக்கி காணாமல் போனவர்களை தேடும் பணி நடைபெற்று வருவதாக அதிகாரிகள் தெரிவித்தனர்.
-
-...
-
-### 15 CEB workers interdicted for obstructing services during recent protest
-
-*2024-01-19 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96536/15-ceb-workers-interdicted-for-obstructing-services-during-recent-protest) 
-
-A total of 15 employees of the Ceylon Electricity Board (CEB) have been interdicted for disrupting the services during their protest against the proposed restructuring of the state-owned electricity supplier.
-
-CEB trade union members engaged in a series of protests since January 03, against the government’s Bill to restructure the electricity board.
-
-...
-
-### தமிழரசுக்கட்சியின் தலைவராக சுமந்திரன் வந்தால் தமிழ்த்தேசியத்திற்கு பாதிப்பு ஏற்படும் - எம்.பி.யோகேஸ்வரன்
-
-*2024-01-19 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174288) 
-
-தமிழ் தேசிய கூட்டமைப்பின் நாடாளுமன்ற உறுப்பினர் சட்டத்தரணி சுமந்திரன் தமிழரசுக்கட்சியின் புதிய தலைவராக வந்தால் தமிழ்தேசியத்திற்கு பாதிப்பினை ஏற்படுத்திவிடும் என முன்னாள் தமிழ் தேசிய கூட்டமைப்பின் மட்டக்களப்பு மாவட்ட நாடாளுமன்ற உறுப்பினர் சீனிதம்பி யோகேஸ்வரன் தெரிவித்தார்.
-
-இலங்கை தமிழரசுக்கட்சியின் புதிய தலைவருக்கான வேட்பாளர்கள் குறித்து நிலைப்பாட்டினை தெளிவுபடுத்தும் ஊடக சந்திப்பு வியாழக்கிழமை (18) யாழ்ப்பாணம் ஊடக அமையத்தில் இடம்பெற்றது. இதன்போது அவர் இவ்வாறு தெரிவித்தார்.
 
 ...

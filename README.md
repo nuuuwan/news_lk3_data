@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 22:05:41**
+As of **2024-01-19 22:17:21**
 
 ## Newspaper Stats
 
-*Scraped **1,286** Articles*
+*Scraped **1,287** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 24 | 🟩🟩 
 bbccomsinhala | 35 | 🟩🟩🟩🟩 
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
-newsfirstlk | 84 | 🟩🟩🟩🟩🟩🟩🟩🟩 
+newsfirstlk | 85 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 94 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -90,6 +90,18 @@ His letter of retirement has already been handed over to the Ministry of Health,
 இதேவேளை முல்லைத்தீவு மல்லாவி பகுதியை சேர்ந்த ஒருவர், டெங்கு நோய் தீவிரமான நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் , சிகிச்சை பலனின்றி உயிரிழந்தார். R
 
 ◼️
+
+### BREAKING: Japan becomes 5th nation to land a spacecraft on the moon
+
+*2024-01-19 18:41:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/breaking-japan-becomes-5th-nation-to-land-a-spacecraft-on-the-moon/) 
+
+Colombo (News 1st) – Japan became only the 5th nation to successfully land a spacecraft on the moon, when the 'Moon Sniper' owned by Japan's space agency JAXA touched down late Friday (19th), JAXA announced.
+
+The exact status of the spacecraft was not clear, as even after an hour after landing JAXA said that it was still "checking its status".
+
+Only spacecraft from the US, the Soviet Union, China and India have made it to the lunar surface intact.
+
+...
 
 ### Three arrested with cannabis worth over Rs. 60 mn at Yala forest reserve
 
@@ -677,7 +689,7 @@ The CEB said they have acted in a manner that inconvenienced consumers.
 
 Convenor of the United Trade Union Front of the C.E.B Ranjan Jayalal said severe trade action will be launched against the move to interdict the group of employees.
 
-◼️
+...
 
 ### New ‘Aswesuma’ applications to be called during Feb. first week
 
@@ -1020,15 +1032,5 @@ CEB trade union members engaged in a series of protests since January 03, agains
 தமிழ் தேசிய கூட்டமைப்பின் நாடாளுமன்ற உறுப்பினர் சட்டத்தரணி சுமந்திரன் தமிழரசுக்கட்சியின் புதிய தலைவராக வந்தால் தமிழ்தேசியத்திற்கு பாதிப்பினை ஏற்படுத்திவிடும் என முன்னாள் தமிழ் தேசிய கூட்டமைப்பின் மட்டக்களப்பு மாவட்ட நாடாளுமன்ற உறுப்பினர் சீனிதம்பி யோகேஸ்வரன் தெரிவித்தார்.
 
 இலங்கை தமிழரசுக்கட்சியின் புதிய தலைவருக்கான வேட்பாளர்கள் குறித்து நிலைப்பாட்டினை தெளிவுபடுத்தும் ஊடக சந்திப்பு வியாழக்கிழமை (18) யாழ்ப்பாணம் ஊடக அமையத்தில் இடம்பெற்றது. இதன்போது அவர் இவ்வாறு தெரிவித்தார்.
-
-...
-
-### 15 CEB workers interdicted
-
-*2024-01-19 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96536/15-ceb-workers-interdicted) 
-
-A total of 15 employees of the Ceylon Electricity Board (CEB) have been interdicted for disrupting the services during their protest against the proposed restructuring of the state-owned electricity supplier.
-
-CEB trade union members engaged in a series of protests for three days from January 03 - 05, against the government’s Bill to restructure the Board and the new Electricity Bill.
 
 ...

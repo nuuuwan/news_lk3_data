@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 00:47:54**
+As of **2024-01-20 01:02:33**
 
 ## Newspaper Stats
 
-*Scraped **1,307** Articles*
+*Scraped **1,310** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -12,7 +12,7 @@ colombotelegraphcom | 24 | 🟩🟩
 bbccomsinhala | 35 | 🟩🟩🟩🟩 
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
 newsfirstlk | 85 | 🟩🟩🟩🟩🟩🟩🟩🟩 
-economynextcom | 94 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+economynextcom | 97 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 142 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -305,6 +305,16 @@ There, the police have taken custody of 1,570 kilograms of cannabis, reportedly 
 
 ...
 
+### Sri Lanka’s President tells NAM to oppose big power rivalry and coercion
+
+*2024-01-19 18:18:00* · [`economynextcom`](https://economynext.com/sri-lankas-president-tells-nam-to-oppose-big-power-rivalry-and-coercion-148024/) 
+
+ECONOMYNEXT – Sri Lanka’s President urged member states of the Non Aligned Movement to make it the largest bloc representing the Global South by redefining their objectives in line with the evolving multipolar world in his address at its 19th Summit in Kampala, Uganda on Friday (19).
+
+“This transformation involves opposing big power rivalry and coercion of uncommitted states,” he was quoted as saying in a statement by his media division.
+
+...
+
 ### நாரம்மல பதற்றத்திற்கு காரணமான எஸ்.ஐ விளக்கமறியலில்
 
 *2024-01-19 18:15:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாரம்மல-பதற்றத்திற்கு-காரணமான-எஸ்-ஐ-விளக்கமறியலில்/175-331810) 
@@ -314,6 +324,24 @@ There, the police have taken custody of 1,570 kilograms of cannabis, reportedly 
 அவர் இன்று நாரம்மல நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்ட போதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
 
 நாரம்மல, தம்பலஸ்ஸ பகுதியில்நேற்று லொறி ஒன்றை நிறுத்தி பொலிஸார் சோதனையிட்ட போது இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் ஒருவர் உயிரிழந்தார்.
+
+...
+
+### Sri Lanka rupee closes at 320.20/40 to the US dollar
+
+*2024-01-19 17:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-320-20-40-to-the-us-dollar-148018/) 
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 320.20/40 to the US dollar on Friday, from 320.70/90 the previous day, dealers said.
+
+A bond maturing on 01.06.2025 closed stable at 13.20/30 percent.
+
+A bond maturing on 01.02.2026 closed stable at 13.60/65 percent.
+
+A bond maturing on 15.01.2027 closed at 13.60/75 percent from 13.65/75 percent.
+
+A bond maturing on 15.03.2028 closed stable at 14.00/14.05 percent.
+
+A bond maturing on 15.07.2029 closed at 14.10/25 percent from 14.00/20 percent.
 
 ...
 
@@ -484,6 +512,16 @@ There is no other evidence of the tests being conducted and Seoul had earlier sa
 "பெருந்தோட்ட தொழிலாளர்களின் சம்பள அதிகரிப்பு தொடர்பாக தொழிற்சங்க தலைவர்கள் பேச தயங்குவது ஏன்?"  என கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் வேலு குமார்  கேள்வி எழுப்பியுள்ளார்.
 
 பெருந்தோட்ட தொழிலாளர்களின் சம்பள உயர்வு தொடர்பாக அரசாங்கமோ, முதலாளிமார் சம்மேளனமோ அக்கறை காட்டுவதாக தெரியவில்லை. அதேவேளை பெருந்தோட்ட தொழிலாளர்களின் சம்பள அதிகரிப்பு தொடர்பாக தொழிற்சங்க தலைவர்கள் பேச தயங்குவது ஏன்?
+
+...
+
+### Sri Lanka to resume work on 600 roads from Feb
+
+*2024-01-19 16:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-resume-work-on-600-roads-from-feb-148006/) 
+
+ECONOMYNEXT – Sri Lanka plans to start repairs on 600 road development projects after finalization of debt restructuring and ongoing discussions with foreign creditors, Minister of Transport Bandula Gunawardena said at a press briefing on Friday (19).
+
+“With 60 million US dollars from the Asian Development Bank, we will repair 600 roads so that they are in usable condition (yanna pulu-wan vi-di-ha-ta),” Gunawardena said.
 
 ...
 
@@ -988,37 +1026,5 @@ The IMF delegation was led by Senior Mission Chief for Sri Lanka Peter Breuer. T
 செங்கடலில் ஹெளத்தி கிளர்ச்சியாளர்கள் தொடர்ச்சியாக சரக்குகப்பல்களை தாக்கிவரும் நிலையிலேயே சீன ரஸ்ய கப்பல்கள் தாக்கப்படாது என்ற உத்தரவாதம் வெளியாகியுள்ளது.
 
 இஸ்ரேல் உட்;பட சில நாடுகளுடன் தொடர்புபட்ட கப்பல்களை தவிர ஏனைய நாடுகளின் கப்பல்களிற்கு ஆபத்தில்லை என அவர் தெரிவித்துள்ளார்.
-
-...
-
-### Sri Lanka adds 300,000 more families to Aswesuma welfare scheme
-
-*2024-01-19 11:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-adds-300000-more-families-to-aswesuma-welfare-scheme-147942/) 
-
-ECONOMYNEXT: Another 300,00 families have been deemed eligible for the Aswesuma scheme, Sri Lanka’s targeted welfare benefits program, its State Finance Minister said.
-
-“300,000 new families have qualified to receive “Aswesuma” benefits after completion of 640,000 objections and appeals submitted out of 1 million,” Shehan Semasinghe said on X.
-
-“Accordingly, the number of families who will now receive benefit will exceed 1.7 million.”
-
-...
-
-### University non-academic staff to reach decision on future trade union actions
-
-*2024-01-19 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96538/university-non-academic-staff-to-reach-decision-on-future-trade-union-actions) 
-
-A final decision regarding the future trade union actions of the university non-academic staff will be taken following a discussion with the representatives of all the trade unions, the Inter-University Trade Union Federation said.
-
-The non-academic staff members of state universities engaged in a one-day token strike yesterday (Jan.18) in protest of the government’s decision to increase only the allowances for lecturers.
-
-...
-
-### நாடளாவிய ரீதியில் 963 பேர் கைது
-
-*2024-01-19 11:25:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடளாவிய-ரீதியில்-963-பேர்-கைது/175-331790) 
-
-நாடளாவிய ரீதியில் முன்னெடுக்கப்பட்ட யுக்திய நடவடிக்கையின் கீழ் இன்று (19) காலை முடிவடைந்த 24 மணித்தியாலங்களில் 963 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-போதைப்பொருள் குற்றங்களுடன் தொடர்புடைய 638 சந்தேக நபர்களும் குற்றவியல் திணைக்களத்தினால் பரிந்துரைக்கப்பட்ட பட்டியலில் இருந்த 325 சந்தேக நபர்களும் இதில் அடங்குவர்.
 
 ...

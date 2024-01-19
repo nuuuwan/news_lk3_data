@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 12:49:26**
+As of **2024-01-19 13:02:25**
 
 ## Newspaper Stats
 
-*Scraped **1,194** Articles*
+*Scraped **1,198** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -12,10 +12,10 @@ colombotelegraphcom | 23 | 🟩🟩
 bbccomsinhala | 33 | 🟩🟩🟩 
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
 newsfirstlk | 78 | 🟩🟩🟩🟩🟩🟩🟩🟩 
-economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩 
+economynextcom | 86 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 99 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 127 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 128 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 137 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 140 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,16 @@ adalk | 151 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### Police vow stringent action against Sub Inspector in shooting incident after pursuit
+
+*2024-01-19 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-vow-stringent-action-against-Sub-Inspector-in-shooting-incident-after-pursuit/108-275353) 
+
+Colombo, Jan 19 (Daily Mirror) - A Special Investigation Unit is probing the tragic incident in Narammala where a 41-year-old man lost his life when police accidentally opened fire on him.
+
+Police Spokesman SSP Nihal Thalduwa said that acting on the instructions of Acting Inspector General of Police Deshabandu Thennakoon, a special police team is already on-site conducting an inquiry into the actions of the involved police officers.
+
+...
 
 ### சடலத்தில் மோசடி: ஒருவர் கைது
 
@@ -53,6 +63,16 @@ Colombo (News 1st) – The first American attempt to reach the moon in half a ce
 
 ...
 
+### Sri Lanka Singer companies set for merger
+
+*2024-01-19 10:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-singer-companies-set-for-merger-147912/) 
+
+ECONOMYNEXT – Shareholders of Sri Lankan consumer-durable retailer Singer (Sri Lanka) Plc and two of its subsidiary companies approved a resolution to merge at an extraordinary general meeting on Thursday (18), their parent company Hayleys Plc said in a stock exchange filing.
+
+Singer (Sri Lanka) Plc will merge with Singer Industries (Ceylon) Plc, and Regnis (Lanka) Plc.
+
+...
+
 ### 15 students, teacher drown when boat capsizes in Western India
 
 *2024-01-19 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/15-students-teacher-drown-when-boat-capsizes-in-Western-India/107-275352) 
@@ -60,6 +80,20 @@ Colombo (News 1st) – The first American attempt to reach the moon in half a ce
 New Delhi, Jan 19 (Daily Mirror) - A boat carrying a school group capsized in a lake in western India on Thursday, drowning 15 students and one teacher, fire service officials said.
 
 Eleven students were rescued when the boat capsized in Harani Lake in the city of Vadodara, and rescuers were searching for person who was still missing, Vadodara fire officer Jitu Parmar said.
+
+...
+
+### Sri Lanka rupee opens at 320.60/321.00 to the US dollar
+
+*2024-01-19 10:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-320-60-321-00-to-the-us-dollar-147891/) 
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 320.60/321.00 to the US dollar on Friday, from 320.70/90 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 13.55/60 percent from 13.60/65 percent.
+
+A bond maturing on 15.09.2027 was quoted at 13.75/85 percent from 13.65/75 percent.
+
+A bond maturing on 15.03.2028 was quoted at 13.95/14.03 percent from 14.00/14.05 percent.
 
 ...
 
@@ -264,6 +298,16 @@ Around 27 people were aboard the boat, according to local authorities.
 ### கேக் வாங்கிய பெண்ணும், விற்றவரும் விடுதலை
 
 *2024-01-19 08:15:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கேக்-வாங்கிய-பெண்ணும்-விற்றவரும்-விடுதலை/73-331782) 
+
+...
+
+### Sri Lanka wages lowest in Asia-Oceania for managers, staff, Japan firms find
+
+*2024-01-19 08:14:00* · [`economynextcom`](https://economynext.com/sri-lanka-wages-lowest-in-asia-oceania-for-managers-staff-japan-firms-find-147881/) 
+
+ECONOMYNEXT – Sri Lanka had the lowest wages in the Asia-Oceania region where Japanese companies operate, a survey by the Japan External Trade Organization has found.
+
+Low wages were the advantage listed by most Japanese companies (60 percent) in the investment environment of the country.
 
 ...
 
@@ -964,45 +1008,5 @@ COLOMBO (News 1st); Sri Lankan President Ranil Wickremesinghe reached Kampala, U
 The Convenor of the Health Trade Union Alliance Chanaka Dharmawickrama has revealed that the trade union action, which was launched by a collective of 72 health sector unions, will resume on 01 February.
 
 The suspended action, which seeks ‘economic justice’ for healthcare employees will resume on 01 February, with protest campaigns planned in front of hospitals nation-wide starting January 23, Dharmawickrama said.
-
-...
-
-### 100,000 ற்கும் அதிகமான அந்தரங்க வீடியோக்கள் பகிர்வு
-
-*2024-01-18 19:29:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/100-000-ற்கும்-அதிகமான-அந்தரங்க-வீடியோக்கள்-பகிர்வு/175-331757) 
-
-கடந்த ஆண்டில் மட்டும் பல்வேறு நபர்கள் மூலமாக  100,000 க்கும் மேற்பட்ட, சிறார்களின் அந்தரங்க வீடியோ காட்சிகள் சமூக ஊடகங்களில் பகிரப்பட்டுள்ளன.
-
-இந்த காணொளிகள் சிறுவர்கள் பாலியல் ரீதியாக துஷ்பிரயோகம் செய்யப்படுவதையும் அவர்களின் நிர்வாணத்தை வெளிப்படுத்துவதாகவும் சமூக ஊடக தளங்களில் வைரலாக பரவி வருவதாகவும் பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தெரிவித்தார்.
-
-...
-
-### මර්දනය කිරීමට උත්සාහ දරන සියලු පනත් ප්‍රතික්ෂේප කරනවා
-
-*2024-01-18 19:29:04* · [`adalk`](https://www.ada.lk/breaking_news/මර්දනය-කිරීමට-උත්සාහ-දරන-සියලු-පනත්-ප්‍රතික්ෂේප-කරනවා/11-407620) 
-
-මාධ්‍ය සංවිධාන, සිවිල් සංවිධාන, ප්‍රජාතන්ත්‍රවාදය උදෙසා කටයුතු කණ්ඩායම්, වෘත්තීය සමිති ආදී පාර්ශ්වකරුවන් රැසක් විපක්ෂයේ ප්‍රධාන පක්ෂ ගණනාවක් සමඟ සිදු කළ සාකච්ඡාවලදී පැහැදිලි නිගමනයකට පැමිණි බවත් ඒ අනුව රජය ඉදිරිපත් කරන මාර්ගගත සුර්ක්ෂිතභාවය සම්බන්ධ පනත් කෙටුම්පත තමා ඇතුළු පිරිස තරයේ ප්‍රතික්ෂේප කර ඒ සඳහා විරෝධතාව පළ කරන බව විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
-
-...
-
-### යුක්තියේ මෙහෙයුමට මාසයයි  පුද්ගලයන් 40950 ක් අත්අඩංගුවට
-
-*2024-01-18 19:21:57* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තියේ-මෙහෙයුමට-මාසයයි--පුද්ගලයන්-40950-ක්-අත්අඩංගුවට/11-407619) 
-
-යුක්තියේ මෙහෙයුම ආරම්භ කර ගත වූ මාසය තුළ සිදුකළ වැටලීම්වලදී මත්ද්‍රව හා අපරාධ වැරදි සම්බන්ධයෙන් පුද්ගලයන් 40,950 ක්  අත්අඩංගුවට ගෙන ඇතැයි පොලිස් මූලස්ථානය සඳහන් කරයි. යුක්තිය මෙහෙයුම ආරම්භ කර අද (17දා) දිනට මාසයකි.
-
-මත්ද්‍රව්‍ය වැරදි සඳහා අත්අඩංගුවට ගත් සැකකරුවන් 38,225 දෙනා අතරින්  සැකකරුවන්  1703 කු සඳහා රැඳුම් නියෝග මත වැඩිදුරු විමර්ශන සිදු කරන අතර මත්ද්‍රව වලට ඇබ්බැහි වූවන් 1867 කු  පුනරුප්පාතනය සඳහා යොමු කර ඇත.
-
-...
-
-### ආර්. මුත්තුසාමි රුව විවෘත කිරීම 19දා
-
-*2024-01-18 19:13:26* · [`adalk`](https://www.ada.lk/breaking_news/ආර්--මුත්තුසාමි-රුව-විවෘත-කිරීම-19දා/11-407618) 
-
-මෙරට සංගීත ක්ෂ්‍රේත්‍රයට විශාල මෙහෙයක් සිදුකල ප්‍රවීන සංගීතඥ ආර්.මුත්තුසාමි මහතා ගේ සේයාරුවක් මෙම ජනවාරි 19දා ගුවන්විදුලියේ කුමාරතුංග මැදිරියේදී විවෘතවීමට නියමිතය.
-
-1926 දී ඉන්දියාවේදී දෙමළ හා හින්දු භක්තිකයෙකු ලෙස ඉපදඅන ආර්,මුත්තුසාමිමහතා වයස 05සිටම වයලීන හා වාද්‍ය භාණ්ඩ වාදනයේදී හැකියාව පෙන්වීය.
-
-ඉන්දියානු චිත්‍රපට වල වාදනය ඉදිරිපත් කල ඔහු මෙරට පළමු චිත්‍රපටය වන කඩවුණු පොරොන්දුවේවාදනයට ද එක්විය.ඔහු ලංකාවට පැමිණියේ නායගම් මහතාගේ ඇයුමෙනි.
 
 ...

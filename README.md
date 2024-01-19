@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 05:02:25**
+As of **2024-01-20 05:17:04**
 
 ## Newspaper Stats
 
-*Scraped **1,320** Articles*
+*Scraped **1,322** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,7 +15,7 @@ newsfirstlk | 85 | 🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 97 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 145 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 147 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 150 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 154 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 158 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,14 @@ tamilmirrorlk | 159 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### Sajith requests speaker to postpone Online Safety Bill
+
+*2024-01-20 03:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-requests-speaker-to-postpone-Online-Safety-Bill/108-275378) 
+
+Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a letter addressed to Speaker Mahinda Yapa Abeywardene has requested him to postpone the debate on the Online Safety Bill which is to be taken up for debate next week.
+
+...
 
 ### மலையக தலைவர்களுடன் இந்திய தூதுவர் சந்திப்பு
 
@@ -46,6 +54,14 @@ Promises to reform current tax regime when SJB comes to power
 Challenges NPP to reveal matters discussed between party and IMF this week
 
 Claims SJB campaign to oust Govt. will commence on 30 Jan in Colombo
+
+...
+
+### Sri Lankan marketers lag behind digital surge, Minister calls for transformation
+
+*2024-01-20 01:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-marketers-lag-behind-digital-surge-Minister-calls-for-transformation/108-275402) 
+
+Sri Lanka's digital revolution is in full swing, with mobile phone penetration exceeding 150% and internet usage skyrocketing to 52%. However, the nation's marketers are lagging behind, with a meager 21% of marketing budgets allocated to digital channels, according to State Minister of Technology Kanaka Herath.
 
 ...
 
@@ -1006,31 +1022,5 @@ Police said 300 grams of heroin and 172 grams of ICE were also seized from the s
 குருநாகல் நாரமலவில் பொலிஸ் உத்தியோகத்தர் ஒருவரின் தவறுதலான துப்பாக்கி பிரயோகம் காரணமாக லொறிச்சாரதியொருவர் உயிரிழந்த சம்பவத்தை தொடர்ந்து நேற்றிரவு அந்த பகுதியில் பதற்றநிலை உருவானது.
 
 பொலிஸ் சோதனை சாவடியில் வாகனத்தை நிறுத்துமாறு பொலிஸார் விடுத்த வேண்டுகோளை குறிப்பிட்ட வாகனசாரதி  ஏற்க மறுத்தார் என பொலிஸ் ஊடக பிரிவு தெரிவித்துள்ளது.
-
-...
-
-### 15 CEB employees interdicted
-
-*2024-01-19 12:34:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/15-ceb-employees-interdicted/) 
-
-COLOMBO (News 1st); 15 employees of Ceylon Electricity Board have been interdicted.
-
-The CEB said their services were suspended on charges of participating in a protest held on Thursday (18) after reporting sick.
-
-The CEB said they have acted in a manner that inconvenienced consumers.
-
-Convenor of the United Trade Union Front of the C.E.B Ranjan Jayalal said severe trade action will be launched against the move to interdict the group of employees.
-
-...
-
-### New ‘Aswesuma’ applications to be called during Feb. first week
-
-*2024-01-19 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96542/new-aswesuma-applications-to-be-called-during-feb-first-week) 
-
-New applications for the ‘Aswesuma’ welfare benefits program will be called during the first week of February 2024, Acting Finance Minister Shehan Semasinghe said on Friday (Jan.19).
-
-Meanwhile, 300,000 more families have qualified to receive ‘Aswesuma’ welfare benefits, after reviewing 640,000 appeals and objections.
-
-As such, the total number of beneficiaries now stands over 1.7 million. The government aims to extend these benefits to a total of 2 million people.
 
 ...

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 08:33:04**
+As of **2024-01-19 08:51:04**
 
 ## Newspaper Stats
 
-*Scraped **1,160** Articles*
+*Scraped **1,165** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,7 +15,7 @@ newsfirstlk | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 91 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 116 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 121 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 132 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,14 @@ adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### Presidential Elections: three-pronged battle takes shape
+
+*2024-01-19 08:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Presidential-Elections-three-pronged-battle-takes-shape/155-275331) 
+
+Colombo, Jan 19 (Daily Mirror) - In anticipation of the upcoming Presidential Elections scheduled towards the end of the year, the political arena is witnessing a flurry of activities as various parties and groups strategically position themselves for the impending electoral contest.
+
+...
 
 ### Facilities to pay traffic fines at night in some post offices
 
@@ -46,6 +54,14 @@ COLOMBO (News 1st); The Human Rights Commission of Sri Lanka has reached a decis
 HRCSL Commissioner Attorney Nimal Punchihewa said many complaints were filed in this regard, by individuals and organizations.
 
 He said complaints were filed over the benefit not being granted to eligible groups, the fairness of certain eligibility criteria and the selection process.
+
+...
+
+### Ranil affirms trust in new investments for rebuilding economy
+
+*2024-01-19 07:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ranil-affirms-trust-in-new-investments-for-rebuilding-economy/108-275321) 
+
+In a candid discussion at the World Economic Forum (WEF) stakeholder dialogue titled ‘Pulling back from the brink,’ held in Kurpark Village, Aspen, President Ranil Wickremesinghe outlined short-term strategies aimed at revitalising Sri Lanka’s economy, and affirmed trust in new investments helping in realising the development agenda.
 
 ...
 
@@ -81,6 +97,18 @@ The incident, involving the alleged accidental discharge of a firearm carried by
 
 ...
 
+### Police open fire killing a man in Narammala
+
+*2024-01-19 06:18:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-open-fire-killing-a-man-in-Narammala/108-275330) 
+
+Narammala, Jan 19 (Daily Mirror) - A 40 year old man was killed when police opened fire at a vehicle which went ahead defying the orders to stop the vehicle for a security checkup.
+
+The incident took place along the Giriulla Narammala Road late in the evening.
+
+The police had ordered the driver to stop but the driver had allegedly defied the order and when the police fired at the vehicle. The dead was identified as a resident of Vathawakanda in Alawwa.
+
+...
+
 ### Heshana Kuruppu inducted as the 27th president of CA Sri Lanka
 
 *2024-01-19 06:14:00* · [`islandlk`](http://island.lk/heshana-kuruppu-inducted-as-the-27th-president-of-ca-sri-lanka/) 
@@ -94,6 +122,16 @@ Renowned Chartered Accountant, Heshana Kuruppu, was inducted as the 27th Preside
 *2024-01-19 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Specialists-threaten-strike-action-over-Karapitya-Hospital-incident/108-275304) 
 
 Karapitiya, Jan 18 (Daily Mirror) -  Referring to the arrest of the Onco Surgeon at the Karapitiya Teaching Hospital after being allegedly accused of having assaulted a female hospital staffer, the specialists have warned of a strike action over the incident.
+
+...
+
+### Sri Lanka eyes to attract high-end tourists with upcoming  ‘Galle Concerto 2024’
+
+*2024-01-19 04:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-eyes-to-attract-high-end-tourists-with-upcoming-Galle-Concerto-2024/108-275322) 
+
+Edward Robinson- Southern Book Fair, Chanchala Gunewardena - Matara Festival for the Arts, Champika De Silva - Opera at the Anantara, Niranjan Deva Aditya - Chairman Sri Lanka Tourism Promotion Bureau, Chalaka Gajabahu - Rhythms of Paradise, Nilupul Gunawardena, and Tracy Holsinger - Gourmet Galle & amp; Galle Literary Festival
+
+SLTPB says event placed strategically in the peak season to compete with other regional festivals such as Jaipur Literature Festival
 
 ...
 
@@ -188,6 +226,16 @@ Samagi Jana Balawegaya (SJB) Deputy General Secretary Mujibur Rahman yesterday f
 குருந்தூர் மலையில் சட்டவிரோதமாக அமைக்கப்பட்ட  விகாரை விவகாரம்   இன மத நல்லிணக்கம் எனும் பெயரில் குருந்தூர் மலையில் இரகசிய கலந்துரையாடல்
 
 இன மத நல்லிணக்கத்தை ஏற்படுத்துவதாக  தெரிவித்து குருந்தூர்மலை ஆலயம் சார்ந்தவர்கள் என  சிலருக்கும் , பௌத்தமத குருமார்களுக்கும் இடையில்   குருந்தூர் மலையில் இரகசிய கலந்துரையாடல் ஒன்று அண்மையில் இடம்பெற்றுள்ளது.
+
+...
+
+### India, Sri Lanka explore synergies in new areas to achieve economic development goals: Envoy
+
+*2024-01-19 01:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-explore-synergies-in-new-areas-to-achieve-economic-development-goals-Envoy/108-275325) 
+
+Says ETCA will achieve true potential of India-Sri Lanka trade partnership once signed
+
+The governments of India and Sri Lanka are currently working on promoting and strengthening connectivity in digital, physical, and power & energy spheres between the two countries.
 
 ...
 
@@ -958,57 +1006,5 @@ ECONOMYNEXT – Around 71.6 percent of the Sri Lankan public are unaware of the 
 Acting Minister of Finance Shehan Semasinghe states that 300,000 additional families were found to be qualified for the ‘Aswesuma’ welfare benefits programme, after reviewing 640,000 appeals and objections thus far regarding the beneficiary lists.
 
 Joining a discussion held with the Welfare Benefits Board at the Finance Ministry today (18), Semasinghe said that the total number of recipients of the ‘Aswesuma’ programme now exceeds 1.7 million families.
-
-...
-
-### Specialist remanded for alleged assault on staffer at Karapitya Hospital
-
-*2024-01-18 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Specialist-remanded-for-alleged-assault-on-staffer-at-Karapitya-Hospital/155-275283) 
-
-Karapitiya, Jan 18 (Daily Mirror) -  The Onco Surgeon at the Karapitiya Teaching Hospital who was alleged to have assaulted a female hospital staffer has been remanded until 22 January by the Galle Magistrate’s Court.
-
-The incident unfolded during a contentious situation that erupted at the hospital premises.
-
-According to the police, the 61-year-old specialist doctor, who stands accused of the assault, was arrested while receiving medical care at a private hospital.
-
-...
-
-### Around 20 killed in explosion at Thai firework factory, no survivors found
-
-*2024-01-18 16:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96519/around-20-killed-in-explosion-at-thai-firework-factory-no-survivors-found) 
-
-Around 20 people were killed in Thailand in an explosion on Wednesday at a firework factory north of Bangkok, police said, as authorities inspected the site but were yet to find survivors.
-
-It was not immediately clear what caused the incident, which took place mid-afternoon in Suphan Buri province about 120 km (74.56 miles) north of Bangkok, police said.
-
-...
-
-### கொழும்பில் கால்வாய்களை அடைத்து  கட்டப்பட்டுள்ள வீடுகள், நிர்மாணங்களை அகற்றும் வேலைத்திட்டம்!
-
-*2024-01-18 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/174251) 
-
-கொழும்பு நகரில் கால்வாய்களை அடைத்து  கட்டப்பட்டுள்ள வீடுகள் மற்றும் நிர்மாணங்களை அகற்றும் வேலைத்திட்டத்தை நடைமுறைப்படுத்த கொழும்பு மாநகர சபை தீர்மானித்துள்ளது.
-
-வியாழக்கிழமை (18) இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் கலந்து கொண்ட கொழும்பு மாநகர சபையின் பொறியியலாளர் ஆர் டி. பி. ரணவக்க தெரிவிக்கையில், அண்மையில் பெய்த கடும் மழையினால் கொழும்பு நகரம் வெள்ளத்தில் மூழ்கியதன் காரணமாக இந்தத்  தீர்மானம் எடுக்கப்பட்டுள்ளதாக  கூறியுள்ளார்.
-
-...
-
-### No agreement with Dhammika Perera on Presidential candidacy: Prasanna
-
-*2024-01-18 15:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-agreement-with-Dhammika-Perera-on-Presidential-candidacy-Prasanna/108-275282) 
-
-Matara, Jan. 18 (Daily Mirror)- Minister Prasanna Ranatunga ruled out any agreement between Parliamentarian Dhammika Perera and the Sri Lanka Podujana Peramuna (SLPP) on the Presidential candidacy.
-
-He told reporters after the Matara District Coordination Committee meeting that they cannot put the country in trouble again by appointing an inexperienced President.
-
-...
-
-### No agreement with Dhammika Perera on Presidential candidacy: Prasanna
-
-*2024-01-18 15:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-agreement-with-Dhammika-Perera-on-Presidential-candidacy-Prasanna/155-275282) 
-
-Matara, Jan. 18 (Daily Mirror)- Minister Prasanna Ranatunga ruled out any agreement between Parliamentarian Dhammika Perera and the Sri Lanka Podujana Peramuna (SLPP) on the Presidential candidacy.
-
-He told reporters after the Matara District Coordination Committee meeting that they cannot put the country in trouble again by appointing an inexperienced President.
 
 ...

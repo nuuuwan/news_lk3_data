@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 14:32:57**
+As of **2024-01-19 14:50:30**
 
 ## Newspaper Stats
 
-*Scraped **1,222** Articles*
+*Scraped **1,236** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -13,17 +13,91 @@ bbccomsinhala | 33 | 🟩🟩🟩
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
 newsfirstlk | 81 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 86 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-virakesarilk | 113 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+virakesarilk | 116 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 128 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 137 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-tamilmirrorlk | 146 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 146 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+tamilmirrorlk | 148 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 152 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### உத்தேச பயங்கரவாத எதிர்ப்பு சட்ட மூலத்திற்கு எதிராக  மாற்றுக்கொள்கைகளிற்கான நிலையம் நீதிமன்றில் மனு
+
+*2024-01-19 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174326) 
+
+மாற்றுக்கொள்கை நிலையம் இலங்கையின் உத்தேச பயங்கரவாத எதிர்ப்பு சட்ட மூலத்திற்குஎதிராக உயர்நீதிமன்றத்தில் மனுத்தாக்கல் செய்துள்ளது.
+
+2023செப்டம்பர் 15ம் திகதி வர்த்தமானியில் வெளியான ஜனவரி 10 2024 ம் திகதியே நாடாளுமன்றத்தில் சமர்ப்பிக்கப்பட்ட  பயங்கரவாத எதிர்ப்பு சட்டமூலம் என்பது அரசமைப்பிற்கு உட்பட்டதா என்பதை கேள்விக்கு உட்படுத்தும் மனுவொன்றை மாற்றுக்கொள்கைகளிற்கான நிலையம் தாக்கல் செய்துள்ளது.
+
+...
+
+### திருகோணமலை பொது வைத்தியசாலையில் நோயாளிக்கு ஏற்பாட்ட நிலை
+
+*2024-01-19 14:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174325) 
+
+திருகோணமலை பொது வைத்தியசாலையில் நோயாளியை கொண்டு செல்வதற்கு சக்கர நாற்காலி வழங்கப்படாமையால் அவரின் உறவினர்கள் நோயாளியை தூக்கிக் கொண்டு சென்ற சம்பவம் இன்று வெள்ளிக்கிழமை (19) இடம்பெற்றுள்ளது.
+
+திருகோணமலை வைத்தியசாலையில் எலும்பு முறிவுக்கு உள்ளாகி சிகிச்சை பெறுவதற்காக சென்ற நோயாளியை கொண்டு செல்வதற்கு சக்கர நாற்காலி வழங்கப்படவில்லை எனவும் இதனால் நோயாளியை தூக்கிக் கொண்டு செல்ல வேண்டிய நிலை ஏற்பட்டதாகவும் தெரிவிக்கப்படுகின்றது.
+
+...
+
+### நாரமல்லவில் பொலிஸாரின் துப்பாக்கிச்  சூட்டில் ஒருவர் பலி ; உப பொலிஸ் பரிசோதகர் கைது
+
+*2024-01-19 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/174324) 
+
+குருநாகல் நாரமல்ல பிரதேசத்தில் பொலிஸார் மேற்கொண்ட துப்பாக்கிச் சூட்டில்  நபர் ஒருவர் உயிரிழந்துள்ளதுடன் சம்பவம் தொடர்பில் உப பொலிஸ் பரிசோதகர் கைது செய்யப்பட்டுள்ளார்.
+
+பொலிஸாரின் உத்தரவை மீறி பயணித்த லொறியை  மடக்கி பிடித்து சோதனைக்கு உட்படுத்தப்பட்ட  சந்தர்ப்பத்தில் பொலிஸ் உத்தியோகத்தரின் துப்பாக்கி தவறுதலாக இயங்கியமையால் இந்த துப்பாக்கிச்சூட்டு சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சட்டத்தரணி நிஹால் தல்துவ தெரிவித்தார்.
+
+...
+
+### அஸ்வெசும தொடர்பில் புதிய தகவல்
+
+*2024-01-19 14:08:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-தொடர்பில்-புதிய-தகவல்/175-331798) 
+
+அஸ்வெசும திட்டத்திற்கான புதிய விண்ணப்பங்களுக்கான அழைப்பு எதிர்வரும் பெப்ரவரி மாதம் முதல் வாரத்தில் மேற்கொள்ளப்படும் என பதில் நிதியமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்தார். R
+
+◼️
+
+### இலங்கை வரும் ஆப்கானிஸ்தான் கிரிக்கெட் அணி
+
+*2024-01-19 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/174309) 
+
+இலங்கைக்கு எதிராக மூன்று வகையான கிரிக்கெட் தொடரில் பங்கேற்று விளையாடுவதற்காக ஆப்கானிஸ்தான் கிரிக்கெட் அணி இம்மாதம் 30ஆம் திகதி இலங்கைக்கு வரவுள்ளது.
+
+இலங்கைக்கு வரும் ஆப்கானிஸ்தான் அணி ஒரு டெஸ்ட் போட்டி, மூன்று ஒருநாள் போட்டிகள் மற்றும் மூன்று இருபதுக்கு - 20 போட்டிகள் கொண்ட முத்தரப்பு தொடரில் விளையாடவுள்ளது.
+
+இரு அணிகளுக்கும் இடையிலான ஒரேயொரு டெஸ்ட் போட்டி பெப்ரவரி மாதம் 2 ஆம் திகதி தொடக்கம் 6 ஆம் திகதி வரை கொழும்பு எஸ்.எஸ்.சி. மைதானத்தில் நடைபெறவுள்ளது.
+
+...
+
+### Passenger bus driver arrested with heroin worth over Rs. 3 mn
+
+*2024-01-19 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96544/passenger-bus-driver-arrested-with-heroin-worth-over-rs-3-mn) 
+
+Police have arrested a private passenger bus driver in Ella area, while in possession of heroin worth over Rs. 3 million.
+
+The Maho Police had inspected a private passenger bus travelling from Colombo to Anuradhapura on Thursday.
+
+During the search, a small suspicious parcel, which the driver claimed to be his lunch pack, was found near the driver’s seat.
+
+...
+
+### மீனவரின் சடலம் கரையொதுங்கியது
+
+*2024-01-19 13:27:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீனவரின்-சடலம்-கரையொதுங்கியது/175-331796) 
+
+முல்லைத்தீவு முள்ளிவாய்க்கால் கடற்கரை பகுதியில் அடையாளம் தெரியாத மீனவர் ஒருவரின் சடலம் வெள்ளிக்கிழமை (19)  கரையொதுங்கியுள்ளது.
+
+முள்ளிவாய்க்கால் பகுதியில் உள்ள, இராணுவ முகாம் அமைந்துள்ள பகுதி கடற்கரையிலேயே இந்த சடலம் கரையொதுங்கி உள்ளது
+
+இதில் உள்ள கேன்களில்  இந்தியாவின் தெலுங்கு மொழிகள் எழுதப்பட்ட அடையாளங்கள் காணப்படுகின்றன. குறித்த சடலம் கரையொது உள்ளமை தொடர்பில் முல்லைத்தீவு பொலிஸாருக்கு தகவல் வழங்கப்பட்டுள்ளது .
+
+◼️
 
 ### சூரி கதாநாயகனாக நடிக்கும் புதிய படத்தின் ஃபர்ஸ்ட் லுக், டைட்டில் இன்று வெளியாகிறது
 
@@ -66,6 +140,16 @@ adalk | 152 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 நுவரெலியா  பொருளாதார மத்திய நிலைய காரியாலயம் இத் தகவலை உத்தியோகபூர்வமாக வெளியிட்டுள்ளமை குறிப்பிடத்தக்கது.
 
 ◼️
+
+### Property tax will help Sri Lanka to take quantum leap to achieve IMF targets – Peter Breuer
+
+*2024-01-19 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96543/property-tax-will-help-sri-lanka-to-take-quantum-leap-to-achieve-imf-targets-peter-breuer) 
+
+Although Sri Lanka’s macro economy is gradually stabilizing, the country’s economic recovery process is still in the ‘infancy level’ and has yet to reach the broader population, says Peter Breuer, the Senior Mission Chief of the International Monetary Fund (IMF) to Sri Lanka.
+
+Mr. Breuer has also expressed that property tax will help Sri Lanka to take the quantum leap to achieve the IMF programme’s goals.
+
+...
 
 ### சிறுமி துஷ்பிரயோகம்:   மாட்டினார் மாமா
 
@@ -137,6 +221,18 @@ Convenor of the United Trade Union Front of the C.E.B Ranjan Jayalal said severe
 
 ...
 
+### New ‘Aswesuma’ applications to be called during Feb. first week
+
+*2024-01-19 12:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96542/new-aswesuma-applications-to-be-called-during-feb-first-week) 
+
+New applications for the ‘Aswesuma’ welfare benefits program will be called during the first week of February 2024, Acting Finance Minister Shehan Semasinghe said on Friday (Jan.19).
+
+Meanwhile, 300,000 more families have qualified to receive ‘Aswesuma’ welfare benefits, after reviewing 640,000 appeals and objections.
+
+As such, the total number of beneficiaries now stands over 1.7 million. The government aims to extend these benefits to a total of 2 million people.
+
+...
+
 ### மாமாவை கடத்தி மிரட்டிய மன்மதன் கைது
 
 *2024-01-19 12:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமாவை-கடத்தி-மிரட்டிய-மன்மதன்-கைது/175-331792) 
@@ -165,15 +261,11 @@ Police Spokesman SSP Nihal Thalduwa said that acting on the instructions of Acti
 
 ...
 
-### முத்தரப்புத் தொடரில் விளையாட இலங்கை வரும் ஆப்கானிஸ்தான் கிரிக்கெட் அணி
+### Tamil Nadu CM wants release of Indian fishermen held in Lanka
 
-*2024-01-19 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174309) 
+*2024-01-19 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96540/tamil-nadu-cm-wants-release-of-indian-fishermen-held-in-lanka) 
 
-இலங்கைக்கு எதிராக மூன்று வகையான கிரிக்கெட் தொடரில் பங்கேற்று விளையாடுவதற்காக ஆப்கானிஸ்தான் கிரிக்கெட் அணி இம்மாதம் 30ஆம் திகதி இலங்கைக்கு வரவுள்ளது.
-
-இலங்கைக்கு வரும் ஆப்கானிஸ்தான் அணி ஒரு டெஸ்ட் போட்டி, மூன்று ஒருநாள் போட்டிகள் மற்றும் மூன்று இருபதுக்கு - 20 போட்டிகள் கொண்ட முத்தரப்பு தொடரில் விளையாடவுள்ளது.
-
-இரு அணிகளுக்கும் இடையிலான ஒரேயொரு டெஸ்ட் போட்டி பெப்ரவரி மாதம் 2 ஆம் திகதி தொடக்கம் 6 ஆம் திகதி வரை கொழும்பு எஸ்.எஸ்.சி. மைதானத்தில் நடைபெறவுள்ளது.
+Tamil Nadu Chief Minister M.K. Stalin urged Union External Affairs Minister S. Jaishankar to ‘strongly take up the matter with the Sri Lankan Government’ for the immediate release of all the Indian fishermen and their fishing boat apprehended in two back-to-back incidents during the Pongal season.
 
 ...
 
@@ -205,6 +297,16 @@ Police Spokesman SSP Nihal Thalduwa said that acting on the instructions of Acti
 
 ...
 
+### SJB, NPP hold talks with IMF delegation; Sajith slams govt over tax burden
+
+*2024-01-19 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96539/sjb-npp-hold-talks-with-imf-delegation-sajith-slams-govt-over-tax-burden) 
+
+The Leader of the Opposition Sajith Premadasa has met with a group of representatives of the International Monetary Fund (IMF) who are on an official visit to Sri Lanka.
+
+The IMF delegation was led by Senior Mission Chief for Sri Lanka Peter Breuer. The meeting reportedly took place at the Opposition Leader’s Office.
+
+...
+
 ### செங்கடல் ஊடாக பயணிக்கும் சீன ரஸ்ய கப்பல்களிற்கு எந்த ஆபத்தும் ஏற்படாது - ஹெளத்தி கிளர்ச்சியாளர்கள்
 
 *2024-01-19 11:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174310) 
@@ -214,6 +316,16 @@ Police Spokesman SSP Nihal Thalduwa said that acting on the instructions of Acti
 செங்கடலில் ஹெளத்தி கிளர்ச்சியாளர்கள் தொடர்ச்சியாக சரக்குகப்பல்களை தாக்கிவரும் நிலையிலேயே சீன ரஸ்ய கப்பல்கள் தாக்கப்படாது என்ற உத்தரவாதம் வெளியாகியுள்ளது.
 
 இஸ்ரேல் உட்;பட சில நாடுகளுடன் தொடர்புபட்ட கப்பல்களை தவிர ஏனைய நாடுகளின் கப்பல்களிற்கு ஆபத்தில்லை என அவர் தெரிவித்துள்ளார்.
+
+...
+
+### University non-academic staff to reach decision on future trade union actions
+
+*2024-01-19 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96538/university-non-academic-staff-to-reach-decision-on-future-trade-union-actions) 
+
+A final decision regarding the future trade union actions of the university non-academic staff will be taken following a discussion with the representatives of all the trade unions, the Inter-University Trade Union Federation said.
+
+The non-academic staff members of state universities engaged in a one-day token strike yesterday (Jan.18) in protest of the government’s decision to increase only the allowances for lecturers.
 
 ...
 
@@ -266,6 +378,16 @@ Police Spokesman SSP Nihal Thalduwa said that acting on the instructions of Acti
 அண்மையில் நடைபெற்ற போராட்டத்தின் போது பண கவுண்டரை மூடி மின் கட்டணம் செலுத்துவதற்கு இடையூறு விளைவித்த 15 பண கவுண்டர்கள் (cash counters) பணி இடைநீக்கம் செய்யப்பட்டதாக மின்சார சபை தெரிவித்துள்ளது.
 
 மின்சார சபையை தனியார் மயமாக்கப் போவதாக அண்மையில் அதன் தொழிற்சங்கங்கள் எதிர்ப்புப் பிரச்சாரத்தை முன்னெடுத்திருந்தன.
+
+...
+
+### Red Sea shipping attacks pressure China’s exporters as delays, costs mount
+
+*2024-01-19 11:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96537/red-sea-shipping-attacks-pressure-chinas-exporters-as-delays-costs-mount) 
+
+For Chinese businessman Han Changming, disruptions to Red Sea freight are threatening the survival of his trading company in the eastern province of Fujian.
+
+Han, who exports Chinese-made cars to Africa and imports off-road vehicles from Europe, told Reuters the cost of shipping a container to Europe had surged to roughly $7,000 from $3,000 in December, when Yemen’s Iran-aligned Houthi movement escalated attacks on shipping.
 
 ...
 
@@ -421,6 +543,16 @@ CEB trade union members engaged in a series of protests since January 03, agains
 
 ...
 
+### 15 CEB workers interdicted
+
+*2024-01-19 09:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96536/15-ceb-workers-interdicted) 
+
+A total of 15 employees of the Ceylon Electricity Board (CEB) have been interdicted for disrupting the services during their protest against the proposed restructuring of the state-owned electricity supplier.
+
+CEB trade union members engaged in a series of protests for three days from January 03 - 05, against the government’s Bill to restructure the Board and the new Electricity Bill.
+
+...
+
 ### சிங்கப்பூர் ஜனாதிபதி தர்மன் சண்முகரத்தினத்தை சந்தித்தார் ஜனாதிபதி ரணில்
 
 *2024-01-19 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174290) 
@@ -460,6 +592,16 @@ Among the arrestees are 638 suspects who were taken into custody on narcotics-re
 *2024-01-19 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/174283) 
 
 அணிசேரா நாடுகளின் மாநாட்டின் (NAM) 19 ஆவது அரச தலைவர்கள் மாநாடு மற்றும் G77 மற்றும் சீனாவின் 3 ஆவது தென் மாநாடு என்பவற்றில் (3rd South Summit of the Group of 77 & China) பங்கேற்பதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று வியாழக்கிழமை (18) பிற்பகல் உகண்டாவின் கம்பாலா நகரின்  (Entebbe) விமான நிலையத்தை சென்றடைந்தார்.
+
+...
+
+### Outrage in Narammala after man killed in ‘accidental’ police firearm discharge
+
+*2024-01-19 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96534/outrage-in-narammala-after-man-killed-in-accidental-police-firearm-discharge) 
+
+A heated situation was reported in front of the Narammala police station on Thursday night (Jan.18) after a lorry driver was killed in an ‘accidental’ discharge of a police firearm.
+
+According to Ada Derana correspondent, a group of people including the family and relatives of the deceased had staged a protest in front of the police station. The situation had gotten out of hand as they began to cause property damage.
 
 ...
 
@@ -890,147 +1032,5 @@ New rules on Corporate Governance of the CSE are set to enhance the governance r
 *2024-01-18 23:43:35* · [`dailyftlk`](https://www.ft.lk/columns/Five-advantages-banks-can-reap-by-implementing-ISO-22301-Business-Continuity-standards/4-757510) 
 
 Compliance with ISO 22301 helps banks align their business continuity management practices with international standards. This can facilitate compliance with regulatory requirements related to operational resilience and business continuity. The Central Bank of Sri Lanka recognises the requirements of ISO 22301 may use it to assess an organisation’s resilience measures
-
-...
-
-### Has the JVP unequivocally ruled out an armed struggle to win government?
-
-*2024-01-18 23:38:52* · [`dailyftlk`](https://www.ft.lk/columns/Has-the-JVP-unequivocally-ruled-out-an-armed-struggle-to-win-government/4-757509) 
-
-In an environment of hardships, and loss of hope, patience could wear thin, and violence could escalate. This is where the JVP, with their history of violence as a means to topple democratically elected governments, has to be totally unambiguous about their policy on an armed struggle. They cannot leave room for interpretations and misinterpretations
-
-...
-
-### Homework for NPP
-
-*2024-01-18 23:35:20* · [`dailyftlk`](https://www.ft.lk/columns/Homework-for-NPP/4-757508) 
-
-“Probably, the single most prevalent claim advanced by the proponents of a new paradigm is that they can solve the problems that led the old one to a crisis.” (Thomas Kuhn)
-
-“A new scientific truth does not triumph by convincing its opponents, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.” (Max Planck)
-
-...
-
-### குடும்பஸ்தரின் உயிரை பறித்த “யாழ்ராணி”
-
-*2024-01-18 23:14:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/குடும்பஸ்தரின்-உயிரை-பறித்த-யாழ்ராணி/72-331772) 
-
-கிளிநொச்சி - அறிவியல்நகர் பகுதியில் இன்று மாலை 4.30 புகையிரதத்தில் மோதி இளம் குடும்பஸ்தர் பலியாகியுள்ளார்.
-
-அனுராதபுரத்திலிருந்து யாழ்ப்பாணம் நோக்கி பயணித்த யாழ்ராணி புகையிரதத்துடன் மோதுண்டே குறித்த நபர் உயிரிழந்துள்ளார்.
-
-குறித்த விபத்தில் முறிகண்டி பகுதியை சேர்ந்த (043 வயது)2 பிள்ளைகளின் தந்தையான டிப்பர் சாரதியே உயிரிழந்துள்ளார்.
-
-குறித்த விபத்தில் உயிரிழந்த நபரின் சடலம் புகையிரத அதிகாரிகளால் கிளிநொச்சி புகையிரத நிலையத்தில் ஒப்படைக்கப்பட்டது.
-
-...
-
-### புதிய துப்பாக்கி ரவைகள் மீட்பு
-
-*2024-01-18 23:06:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/புதிய-துப்பாக்கி-ரவைகள்-மீட்பு/72-331771) 
-
-புதுக்குடியிருப்பு - மல்லிகைத்தீவு பகுதியில் பற்றைக்காடு ஒன்றிற்குள் இருந்து துப்பாக்கி ரவைகள் 37 மீட்கப்பட்டுள்ளன.
-
-இவை  50 மில்லிமீற்றர் கனரக துப்பாக்கி ரவைகள் என தெரியவந்துள்ளது. இவ்வாறு மீட்கப்பட்ட துப்பாக்கி ரவைகள் புதிய ரவைகளாக காணப்படுகின்றன.
-
-◼️
-
-### DPMC celebrates three decades of excellence
-
-*2024-01-18 23:00:28* · [`dailyftlk`](https://www.ft.lk/business/DPMC-celebrates-three-decades-of-excellence/34-757503) 
-
-David Pieris Group Founder and President David Pieris expresses his heartfelt gratitude to employees at the DPMC’s 30th anniversary celebrations
-
-David Pieris Group Founder and President David Pieris cutting the cake at the 30th anniversary celebrations
-
-David Pieris lighting the traditional oil lamp at the 30th anniversary celebrations. Group Chairman and Managing Director Rohana Dissanayake looks on
-
-...
-
-### Soap and Allied Industries marks 25 years of growth and success
-
-*2024-01-18 22:49:58* · [`dailyftlk`](https://www.ft.lk/business/Soap-and-Allied-Industries-marks-25-years-of-growth-and-success/34-757502) 
-
-Soap and Allied Industries Director Rizky Deen handing over a token of appreciation to Chairman Farook Deen
-
-Opening of the Argeville experience centre at SAIL head office in Colombo by the Director Rizky Deen and Argeville France President Xavier Ardizio
-
-Soap and Allied Industries Chairman Farook Deen handing over an all-inclusive Dubai tour package to a most senior employee
-
-Soap and Allied Industries Director Rizky Deen addressing the gathering at 25th anniversary celebrations
-
-...
-
-### Japan Airlines appoints ex-flight attendant as first female president
-
-*2024-01-18 22:31:00* · [`islandlk`](http://island.lk/japan-airlines-appoints-ex-flight-attendant-as-first-female-president/) 
-
-Japan Airlines has named a woman as its next president for the first time, a rare appointment for a major Japanese firm – and global airline.
-
-Mitsuko Tottori joined the flag carrier as a flight attendant in 1985, before working her way up. She said she hoped her promotion would give other women the courage to pursue the next step in their careers.
-
-...
-
-### Indian Navy rescues crew after Houthis hit ship off Yemen
-
-*2024-01-18 22:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96531/indian-navy-rescues-crew-after-houthis-hit-ship-off-yemen) 
-
-The Indian Navy said on Thursday it had rescued the crew of a U.S.-owned vessel in the Gulf of Aden after an attack by Yemen’s Houthi movement as tensions in the region’s sea lanes disrupted global trade.
-
-Following the attack on the U.S. Genco Picardy late on Wednesday, the U.S. military said its forces had conducted strikes on 14 Houthi missiles that “presented an imminent threat to merchant vessels and U.S. Navy ships in the region”.
-
-...
-
-### Police identify 163 close contacts including 30 police officers linked to ’Harak Kata’
-
-*2024-01-18 22:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-identify-163-close-contacts-including-30-police-officers-linked-to-Harak-Kata/108-275300) 
-
-Colombo, Jan 18 (Daily Mirror) - A list of 163 individuals, including more than 30 police officers, who have been in contact with drug trafficker Nadun Chinthaka Wikramaratne alias ‘Harak Kata,’ has been identified by the police.
-
-Acting IGP Deshabandu Tennakoon said that investigations are ongoing to determine the extent of involvement of these police officers in the drug network associated with 'Harak Kata.'
-
-...
-
-### People’s tribunal condemns police for excesses at Jaffna Conference in Jan. 1974
-
-*2024-01-18 21:58:36* · [`dailyftlk`](https://www.ft.lk/columns/People-s-tribunal-condemns-police-for-excesses-at-Jaffna-Conference-in-Jan-1974/4-757498) 
-
-Despite the Police trying to justify the violence they unleashed on a peaceful crowd by this excuse, there were few takers for it especially among the Tamil people
-
-...
-
-### Facial, fingerprint recognition systems to identify passengers at BIA within next two weeks
-
-*2024-01-18 21:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Facial-fingerprint-recognition-systems-to-identify-passengers-at-BIA-within-next-two-weeks/108-275298) 
-
-Colombo, Jan 18 (Daily Mirror) - New facial and fingerprint recognition systems are to be introduced at the Bandaranaike International Airport (BIA) in the next two weeks to identify passengers passing through the airport, Controller General of Immigration and Emigration I.S.H.J. Ilukpitiya said.
-
-He said the facial recognition system has already been introduced at the airport with the support of the police.
-
-...
-
-### Sri Lanka outclass Zimbabwe to clinch series
-
-*2024-01-18 21:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-outclass-Zimbabwe-to-clinch-series/108-275316) 
-
-Colombo, Jan. 18 (Daily Mirror) - Sri Lanka made mincemeat of Zimbabwe as they outclassed them to record a comprehensive nine-wicket win in the third and deciding T20 encounter played at the R. Premadasa Stadium today to clinch the series 2-1.
-
-...
-
-### Sri Lanka clinch T20 series after record low Zimbabwe total
-
-*2024-01-18 21:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-clinch-T20-series-after-record-low-Zimbabwe-total/108-275316) 
-
-Colombo, Jan. 18 - Wanindu Hasaranga's bottom-order demolition eased Sri Lanka to a 2-1 series win against Zimbabwe Thursday after the tourists were bowled out in Colombo for 82, their worst-ever T20 total.
-
-The home skipper's 4-15 included two scalps on his final two deliveries and Sri Lanka cruised to a nine-wicket victory inside 11 overs.
-
-...
-
-### Zone24x7 and STEMUP Educational Foundation to empower Sri Lankan students with knowledge of AI
-
-*2024-01-18 21:42:00* · [`islandlk`](http://island.lk/zone24x7-and-stemup-educational-foundation-to-empower-sri-lankan-students-with-knowledge-of-ai/) 
-
-Zone24x7, a leading provider of end-to-end technology consulting and engineering solutions, has entered into a strategic partnership with STEMUP Educational Foundation to help drive knowledge about cutting-edge technologies such as Artificial Intelligence (AI), cybersecurity, and many others among Sri Lankan students through the ground-breaking program ‘AI for Kids’.
 
 ...

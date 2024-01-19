@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 13:51:52**
+As of **2024-01-19 14:03:18**
 
 ## Newspaper Stats
 
-*Scraped **1,219** Articles*
+*Scraped **1,222** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 23 | 🟩🟩 
 bbccomsinhala | 33 | 🟩🟩🟩 
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
-newsfirstlk | 78 | 🟩🟩🟩🟩🟩🟩🟩🟩 
+newsfirstlk | 81 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 86 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 113 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -77,6 +77,18 @@ adalk | 152 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 ...
 
+### Officer involved in Narammala shooting acted recklessly -Police Spokesman
+
+*2024-01-19 12:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/officer-involved-in-narammala-shooting-acted-recklessly-police-spokesman/) 
+
+COLOMBO (News 1st); Police Spokesman Senior Superintendent of Police Attorney Nihal Thalduwa said the Police officer who shot a person in Dampalassa, Narammala acted recklessly.
+
+He said the relevant officer has also acted contrary to the directives issued for Police officers.
+
+A special investigation unit of the Police has been deployed to Narammala, following the tragic death of a lorry driver during an encounter with police officers on Thursday (18).
+
+...
+
 ### நாரமலவில் பொலிஸாரின் துப்பாக்கி பிரயோகம் - சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்திருப்பது என்ன?
 
 *2024-01-19 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174316) 
@@ -87,6 +99,20 @@ adalk | 152 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 
 ...
 
+### Another 963 suspects arrested during Operation ‘Yukthiya’
+
+*2024-01-19 12:39:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/another-963-suspects-arrested-during-operation-yukthiya/) 
+
+COLOMBO (News 1st); Another 963 suspects have been arrested during Operation 'Yukthiya', over the 24 hours that ended at 12.30 on Friday (19) morning.
+
+The Ministry of Public Security said 638 of them were arrested on charges related to drugs.
+
+325 suspects on the list directed to the Crimes Unit have also been arrested.
+
+Police said 300 grams of heroin and 172 grams of ICE were also seized from the suspects.
+
+...
+
 ### பொலிஸாரின் தவறுதலான துப்பாக்கி பிரயோகத்தில் லொறி சாரதி பலி ; குடும்பத்தவர்கள் சீற்றம் ; ஆர்ப்பாட்டம்
 
 *2024-01-19 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174306) 
@@ -94,6 +120,20 @@ adalk | 152 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 குருநாகல் நாரமலவில் பொலிஸ் உத்தியோகத்தர் ஒருவரின் தவறுதலான துப்பாக்கி பிரயோகம் காரணமாக லொறிச்சாரதியொருவர் உயிரிழந்த சம்பவத்தை தொடர்ந்து நேற்றிரவு அந்த பகுதியில் பதற்றநிலை உருவானது.
 
 பொலிஸ் சோதனை சாவடியில் வாகனத்தை நிறுத்துமாறு பொலிஸார் விடுத்த வேண்டுகோளை குறிப்பிட்ட வாகனசாரதி  ஏற்க மறுத்தார் என பொலிஸ் ஊடக பிரிவு தெரிவித்துள்ளது.
+
+...
+
+### 15 CEB employees interdicted
+
+*2024-01-19 12:34:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/15-ceb-employees-interdicted/) 
+
+COLOMBO (News 1st); 15 employees of Ceylon Electricity Board have been interdicted.
+
+The CEB said their services were suspended on charges of participating in a protest held on Thursday (18) after reporting sick.
+
+The CEB said they have acted in a manner that inconvenienced consumers.
+
+Convenor of the United Trade Union Front of the C.E.B Ranjan Jayalal said severe trade action will be launched against the move to interdict the group of employees.
 
 ...
 
@@ -992,27 +1032,5 @@ The home skipper's 4-15 included two scalps on his final two deliveries and Sri 
 *2024-01-18 21:42:00* · [`islandlk`](http://island.lk/zone24x7-and-stemup-educational-foundation-to-empower-sri-lankan-students-with-knowledge-of-ai/) 
 
 Zone24x7, a leading provider of end-to-end technology consulting and engineering solutions, has entered into a strategic partnership with STEMUP Educational Foundation to help drive knowledge about cutting-edge technologies such as Artificial Intelligence (AI), cybersecurity, and many others among Sri Lankan students through the ground-breaking program ‘AI for Kids’.
-
-...
-
-### TIIKM celebrates 10 years of empowering academia and honors exceptional employees at Alpha one 2023 Awards
-
-*2024-01-18 21:42:00* · [`islandlk`](http://island.lk/tiikm-celebrates-10-years-of-empowering-academia-and-honors-exceptional-employees-at-alpha-one-2023-awards/) 
-
-TIIKM, a leading Knowledge Management Company dedicated to empowering academia, proudly commemorates a decade of fostering academic excellence, innovation, and global impact, marking its 10th Year Anniversary. Since its establishment in 2013, TIIKM has been at the forefront of empowering academic professionals worldwide through innovative initiatives and cutting-edge research endeavors.
-
-...
-
-### Investors’ doubts and anxieties impede share market momentum
-
-*2024-01-18 21:34:00* · [`islandlk`](http://island.lk/investors-doubts-and-anxieties-impede-share-market-momentum/) 
-
-The stock market kicked off on a bullish note yesterday but during the latter part of the day the momentum reduced. The reason being that investors were adopting a cautious stance due to delays and uncertainties in the external debt restructuring exercise, market analysts said.
-
-...
-
-### SLECIC to the fore of Sri Lanka’s economic turnaround
-
-*2024-01-18 21:34:00* · [`islandlk`](http://island.lk/slecic-to-the-fore-of-sri-lankas-economic-turnaround/) 
 
 ...

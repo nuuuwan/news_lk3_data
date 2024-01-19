@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 20:51:01**
+As of **2024-01-19 21:02:24**
 
 ## Newspaper Stats
 
-*Scraped **1,276** Articles*
+*Scraped **1,277** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
-colombotelegraphcom | 23 | 🟩🟩 
+colombotelegraphcom | 24 | 🟩🟩 
 bbccomsinhala | 35 | 🟩🟩🟩🟩 
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
 newsfirstlk | 82 | 🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -290,6 +290,12 @@ COLOMBO (News 1st); End-of-Mission press releases include statements of IMF sta
 அதையடுத்து வீட்டில் இருந்த  53 வயதுடைய நபரை கைது செய்து பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
 
 ◼️
+
+### Resuscitating Common Sense: A Reality Or A Futility Towards Reconciliation
+
+*2024-01-19 15:13:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/resuscitating-common-sense-a-reality-or-a-futility-towards-reconciliation/) 
+
+...
 
 ### நாரமல்ல சம்பவம் ; பொலிஸ் உத்தியோகத்தர் உரிய நடைமுறைகளை பின்பற்றவில்லை - பொலிஸ்பேச்சாளர் தகவல்
 
@@ -1014,14 +1020,6 @@ According to Ada Derana correspondent, a group of people including the family an
 ### Presidential Elections: three-pronged battle takes shape
 
 *2024-01-19 08:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Presidential-Elections-three-pronged-battle-takes-shape/155-275331) 
-
-Colombo, Jan 19 (Daily Mirror) - In anticipation of the upcoming Presidential Elections scheduled towards the end of the year, the political arena is witnessing a flurry of activities as various parties and groups strategically position themselves for the impending electoral contest.
-
-...
-
-### Presidential Elections: three-pronged battle takes shape
-
-*2024-01-19 08:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-Elections-three-pronged-battle-takes-shape/108-275331) 
 
 Colombo, Jan 19 (Daily Mirror) - In anticipation of the upcoming Presidential Elections scheduled towards the end of the year, the political arena is witnessing a flurry of activities as various parties and groups strategically position themselves for the impending electoral contest.
 

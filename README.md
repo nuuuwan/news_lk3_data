@@ -1,19 +1,19 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 08:09:51**
+As of **2024-01-19 08:17:29**
 
 ## Newspaper Stats
 
-*Scraped **1,153** Articles*
+*Scraped **1,160** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 23 | 🟩🟩 
 bbccomsinhala | 33 | 🟩🟩🟩 
-newsfirstlk | 71 | 🟩🟩🟩🟩🟩🟩🟩 
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
+newsfirstlk | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩 
-virakesarilk | 89 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+virakesarilk | 91 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 116 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 132 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,70 @@ adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### Facilities to pay traffic fines at night in some post offices
+
+*2024-01-19 07:53:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/facilities-to-pay-traffic-fines-at-night-in-some-post-offices/) 
+
+COLOMBO (News 1st); The Department of Posts of Sri Lanka has reached a decision to facilitate the payment of traffic fines during the night, at selected post offices in each district.
+
+The Department said traffic fines can be paid at post offices with a night shift in the Western Province at present.
+
+Plans are in place to facilitate the payment of fines at post offices operating at night in other provinces, based on its success in the Western Province.
+
+...
+
+### HRCSL to investigate Aswesuma welfare benefit programme
+
+*2024-01-19 07:50:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/hrcsl-to-investigate-aswesuma-welfare-benefit-programme/) 
+
+COLOMBO (News 1st); The Human Rights Commission of Sri Lanka has reached a decision to launch an investigation regarding the Aswesuma social welfare benefits programme.
+
+HRCSL Commissioner Attorney Nimal Punchihewa said many complaints were filed in this regard, by individuals and organizations.
+
+He said complaints were filed over the benefit not being granted to eligible groups, the fairness of certain eligibility criteria and the selection process.
+
+...
+
+### X-Press Pearl: Objections to be filed against restrictions on compensation
+
+*2024-01-19 06:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/x-press-pearl-objections-to-be-filed-against-restrictions-on-compensation/) 
+
+COLOMBO (News 1st); The Attorney General's Department said it will file objections before the British High Court of Admiralty on the 29th of January against the restrictions imposed on compensation for the damage caused by the fire and sinking of the X-Press Pearl vessel.
+
+The Attorney General's Department said the court had earlier limited the compensation that could be obtained from the company that owns the vessel to 19.5 million Sterling Pounds.
+
+...
+
+### Health unions to launch island wide strike from 1st of February
+
+*2024-01-19 06:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/health-unions-to-launch-island-wide-strike-from-1st-of-february/) 
+
+COLOMBO (News 1st); 72 health unions have reached a decision to launch an island-wide strike from the 1st of February, demanding the Rs.35,000 allowance granted to doctors.
+
+The decision was reached during a discussion held with representatives of the Health Trade Union Confederation on Thursday (18) afternoon.
+
+Co-convener Chanaka Dharmawickrama said a decision was also reached to organize a series of protests across the island from the 23rd of January.
+
+...
+
+### Lorry Driver Killed in Narammala After Alleged Accidental Discharge of Police firearm
+
+*2024-01-19 06:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/lorry-driver-killed-in-narammala-after-alleged-accidental-discharge-of-police-firearm/) 
+
+Colombo (News 1st); A special investigation unit of the Police has been deployed to Narammala, following the tragic death of a lorry driver during an encounter with police officers on Thursday (18).
+
+The incident, involving the alleged accidental discharge of a firearm carried by a Sub-Inspector, has sparked concern.
+
+...
+
+### Heshana Kuruppu inducted as the 27th president of CA Sri Lanka
+
+*2024-01-19 06:14:00* · [`islandlk`](http://island.lk/heshana-kuruppu-inducted-as-the-27th-president-of-ca-sri-lanka/) 
+
+Renowned Chartered Accountant, Heshana Kuruppu, was inducted as the 27th President of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) at a gala event on 18th January 2024 at the Shangri-La Hotel, Colombo.
+
+...
 
 ### Specialists threaten strike action over Karapitya Hospital incident
 
@@ -389,14 +453,6 @@ The stock market kicked off on a bullish note yesterday but during the latter pa
 
 ...
 
-### Heshana Kuruppu inducted as the 27th president of CA Sri Lanka
-
-*2024-01-18 21:33:00* · [`islandlk`](http://island.lk/heshana-kuruppu-inducted-as-the-27th-president-of-ca-sri-lanka/) 
-
-Renowned Chartered Accountant, Heshana Kuruppu, was inducted as the 27th President of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) at a gala event on 18th January 2024 at the Shangri-La Hotel, Colombo.
-
-...
-
 ### Dialog Television launches Hits NOW, elevating Sri Lanka’s television experience
 
 *2024-01-18 21:32:00* · [`islandlk`](http://island.lk/dialog-television-launches-hits-now-elevating-sri-lankas-television-experience/) 
@@ -482,6 +538,16 @@ Ms. Sarvath Jahan, the resident representative of the IMF, Ms. Manavee Abeywickr
 கட்டுநாயக்க பண்டாரநாயக்க சர்வதேச விமான நிலையத்தில் பயோமெட்ரிக் தானியங்கி முக அடையாளம் காணும் அமைப்பு மற்றும் அனைத்து குடிமக்களுக்கும் ஈ- கடவுச்சீட்டு ஆகியவற்றின் மூலம் இலங்கை பாதுகாப்பு மற்றும் பயணத்திறனை அதிகரிக்கின்றது.
 
 வரும் வாரங்களில் விமான நிலையம் தனது பாதுகாப்பு நடவடிக்கைகளை விரிவுபடுத்தும், உள்வரும் மற்றும் வெளிச்செல்லும் அனைத்து பயணிகளுக்கும் கட்டாய தானியங்கி முக அடையாளம் காணும் அமைப்பை அறிமுகப்படுத்துகிறது.
+
+...
+
+### தேர்தலில் யாருக்கு ஆதரவு? ஊடகத்துறை இராஜாங்க அமைச்சர் சாந்த பண்டார விளக்கம்
+
+*2024-01-18 20:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/174263) 
+
+நாடு எதிர்நோக்கும் பொருளாதார நெருக்கடியை தீர்ப்பதற்கு நிபுணத்துவம் மற்றும் அனுபவமுள்ள ஒருவரே தேவைப்படுகிறார்.
+
+நாட்டின்  எதிர்கால பொருளாதார வேலைத்திட்டத்தை முன்னோக்கி கொண்டு செல்லும் பொருத்தமான தலைவர் ஒருவருக்கே தமது கட்சி ஆதரவு அளிக்கும் என ஊடகத்துறை இராஜாங்க அமைச்சர் சாந்த பண்டார தெரிவித்துள்ளார்.
 
 ...
 
@@ -622,6 +688,16 @@ The suspended action, which seeks ‘economic justice’ for healthcare employee
 1926 දී ඉන්දියාවේදී දෙමළ හා හින්දු භක්තිකයෙකු ලෙස ඉපදඅන ආර්,මුත්තුසාමිමහතා වයස 05සිටම වයලීන හා වාද්‍ය භාණ්ඩ වාදනයේදී හැකියාව පෙන්වීය.
 
 ඉන්දියානු චිත්‍රපට වල වාදනය ඉදිරිපත් කල ඔහු මෙරට පළමු චිත්‍රපටය වන කඩවුණු පොරොන්දුවේවාදනයට ද එක්විය.ඔහු ලංකාවට පැමිණියේ නායගම් මහතාගේ ඇයුමෙනි.
+
+...
+
+### மனித உரிமைகள் ஆணைக்குழுவின் அறிக்கைக்கு பதிலளிக்கப் போவதில்லை - பொதுமக்கள் பாதுகாப்பு அமைச்சர்
+
+*2024-01-18 19:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/174276) 
+
+யுக்திய விசேட சுற்றிவளைப்பை நிறுத்துமாறு அமெரிக்க தூதுவர் குறிப்பிடவில்லை. மனித உரிமைகள் ஆணைக்குழு வெளியிடும் அறிக்கைகளை பொருட்படுத்த போவதுமில்லை, அதற்கு பதிலளிக்க போவதுமில்லை.
+
+போதைப்பொருள் மற்றும் பாதாள குழுவுக்கு எதிரான செயற்பாடுகளை தீவிரமாக முன்னெடுப்பேன். யுக்தியவுக்கு எதிராக செயற்படும் நபர்களின் பெயர் விபரத்தை வெகுவிரைவில் பகிரங்கப்படுத்துவேன் என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்தார்.
 
 ...
 
@@ -833,9 +909,9 @@ COLOMBO (News 1st); Starting January 22nd, the Colombo city's existing CCTV netw
 
 This move comes on the heels of a recent survey revealing a shocking statistic: in areas equipped with CCTV cameras, the number of observed traffic offenses is a staggering 300 times higher than those recorded by police patrols.
 
-Ranil Wickremesinghe In Uganda To Represent Sri Lanka At NAM Summit
+Facilities to pay traffic fines at night in some post offices
 
-◼️
+...
 
 ### Police Forms Track Residents Across Every Village
 
@@ -934,73 +1010,5 @@ He told reporters after the Matara District Coordination Committee meeting that 
 Matara, Jan. 18 (Daily Mirror)- Minister Prasanna Ranatunga ruled out any agreement between Parliamentarian Dhammika Perera and the Sri Lanka Podujana Peramuna (SLPP) on the Presidential candidacy.
 
 He told reporters after the Matara District Coordination Committee meeting that they cannot put the country in trouble again by appointing an inexperienced President.
-
-...
-
-### Saudi Arabia lowers salary ceiling for Sri Lanka housemaids: report
-
-*2024-01-18 15:56:00* · [`economynextcom`](https://economynext.com/saudi-arabia-lowers-salary-ceiling-for-sri-lanka-housemaids-report-147799/) 
-
-ECONOMYNEXT – Saudi Arabia has reduced the cost of domestic labour recruitment for Sri Lankan migrant workers, along with those from Bangladesh and Philippines, media reports said.
-
-...
-
-### Karapitiya hospital’s senior oncologist arrested over alleged assault on junior staffer
-
-*2024-01-18 15:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96517/karapitiya-hospitals-senior-oncologist-arrested-over-alleged-assault-on-junior-staffer) 
-
-A senior oncologist of the Teaching Hospital in Karapitiya has been arrested for allegedly assaulting a female junior staff member during a contentious situation that had ensued on Wednesday (Jan.17).
-
-According to the police media division, the specialist doctor in question, who was arrested by Galle Police, is now receiving medical care at a private hospital under police custody.
-
-...
-
-### உள்ளூர் உற்பத்திகளை அதிகரிப்பதனூடாக சுய பொருளாதாரத்தை வலுப்படுத்த முடியும் - அமைச்சர் டக்ளஸ்
-
-*2024-01-18 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174250) 
-
-சுயதொழில் முயற்சிகளை விருத்தி செய்வதன் ஊடாக உள்ளூர் உற்பத்திகளை அதிகரித்து முயற்சியாளர்களின் சுய பொருளாதாரத்தை வலுப்படுத்த முடியும் என சுட்டிக்காட்டிய அமைச்சர் டக்ளஸ் தேவானந்தா அதனூடாக நாட்டின் பொருளாதார வளர்ச்சியில் ஒவ்வொரு குடிமகனின் பங்களிப்பு இருப்பதற்கு ஏதுவான நிலைமை உருவாகும் எனவும் தெரிவித்துள்ளார்.
-
-யாழ் மாவட்ட செயலகத்தில் வியாழக்கிழமை (18) முற்பகல் சுயதொழில் முயற்சியாளர்களை வலுப்படுத்தும் நோக்கில்  கலந்துரையாடலொன்று  அமைச்சர் டக்ளஸ் தேவானந்தா தலைமையில் இடம்பெற்றது
-
-...
-
-### காலிமுகத்திடலில் போராட்டக்காரர்கள் மீது தாக்குதல் : சந்தேக நபர்களின் வெளிநாட்டுப் பயணத்தடை நீக்கம்!
-
-*2024-01-18 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174245) 
-
-காலிமுகத் திடலில் கடந்த 2022 ஆம் ஆண்டு  மே மாதம் 9 ஆம் திகதி போராட்டக்காரர்கள் மீது தாக்குதல் நடத்தப்பட்ட சம்பவம் தொடர்பான வழக்கின்  சந்தேக நபர்கள் அனைவரினதும் வெளிநாட்டு பயணத்தடையை நீக்குமாறு கோட்டை நீதிவான் திலின கமகே நேற்று புதன்கிழமை (17) உத்தரவிட்டுள்ளார்.
-
-சம்பவம் தொடர்பிலான வழக்கு விசாரணைக்கு எடுத்துக் கொள்ளப்பட்ட போதே இந்த உத்தரவை பிறப்பித்த நீதிவான், குடிவரவு குடியகல்வு கட்டுப்பாட்டாளர் நாயகத்துக்கு அறிவிக்குமாறு நீதிமன்ற பதிவாளருக்கு உத்தரவிட்டுள்ளார்.
-
-...
-
-### Court prevents CEB trade unions from engaging in any strikes till February 1
-
-*2024-01-18 15:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-prevents-CEB-trade-unions-from-engaging-in-any-strikes-till-February-1/108-275284) 
-
-Colombo, Jan 18 (Daily Mirror) - The Colombo District Court today further extended its enjoining order preventing 29 trade unions attached to the Ceylon Electricity Board (CEB) from engaging in any strikes till February 1.
-
-The Colombo District Court made this order pursuant to a case filed by the CEB which sought an order preventing 29 CEB trade unions and their members from engaging in any strikes as per the decision taken by them through a letter dated December 20, 2023.
-
-...
-
-### Sri Lanka reiterates solidarity with Palestinian cause
-
-*2024-01-18 15:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-reiterates-solidarity-with-Palestinian-cause/108-275281) 
-
-Foreign Minister Ali Sabry said Sri Lanka, as the Chair of the UN Special Committee to Investigate Israeli Practices, continues to stand in solidarity with the Palestinian cause and affirms the rights of the Palestinian people to live in peace and dignity.
-
-Addressing the meeting of the NAM Ministerial Committee on Palestine, Sri Lanka’s long held principled position on this matter has been clear.
-
-...
-
-### IMF Stresses Reforms Crucial for Sri Lanka’s Economic Future
-
-*2024-01-18 15:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/imf-stresses-reforms-crucial-for-sri-lanka-s-economic-future/) 
-
-COLOMBO (News 1st): In a crucial review meeting with International Monetary Fund (IMF) representatives, Sri Lanka's Acting Finance Minister, Shehan Semasinghe, discussed the progress and challenges of ongoing economic reforms aimed at tackling the country's ongoing crisis.
-
-The meeting, held at the Presidential Secretariat, saw a constructive exchange of views between Minister Semasinghe, IMF Senior Mission Chief Peter Brewer, and his team.
 
 ...

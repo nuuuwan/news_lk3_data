@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 03:17:18**
+As of **2024-01-20 03:32:52**
 
 ## Newspaper Stats
 
-*Scraped **1,314** Articles*
+*Scraped **1,320** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,8 +15,8 @@ newsfirstlk | 85 | 🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 97 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailyftlk | 144 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 145 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailyftlk | 150 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 154 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 158 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 159 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -34,6 +34,74 @@ tamilmirrorlk | 159 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 இதன்போது தமிழ்ச் மூகத்தின் ஒட்டுமொத்த அபிவிருத்திக்கான திட்டங்களைத் தொடர்ந்து முன்னெடுப்பதுடன் பெருந்தோட்ட மக்களின் நலனுக்கான அவர்களின் அனைத்து முயற்சிகளிலும் இந்தியா உறுதியாக நிற்கும் என்று இந்தியத் தூதுவர் தெரிவித்துள்ளார். (a)
 
 ◼️
+
+### SJB renews warning to renegotiate IMF deal under an SJB Govt.
+
+*2024-01-20 01:26:02* · [`dailyftlk`](https://www.ft.lk/news/SJB-renews-warning-to-renegotiate-IMF-deal-under-an-SJB-Govt/56-757570) 
+
+Says only SJB and its leaders can dare to make such proposals to IMF
+
+Promises to reform current tax regime when SJB comes to power
+
+Challenges NPP to reveal matters discussed between party and IMF this week
+
+Claims SJB campaign to oust Govt. will commence on 30 Jan in Colombo
+
+...
+
+### Roshan Ranasinghe and Arjuna Ranatunga new alliance vows to clean up politics in 2024
+
+*2024-01-20 01:25:15* · [`dailyftlk`](https://www.ft.lk/news/Roshan-Ranasinghe-and-Arjuna-Ranatunga-new-alliance-vows-to-clean-up-politics-in-2024/56-757569) 
+
+Launch new alliance titled ‘Unity of Sri Lanka’ on platform to end corruption in SL
+
+Say coalition will play crucial role in upcoming elections aiming to secure Presidency and form a Govt.
+
+Stress alliance will also focus on abolishing Executive Presidency to give more power to Parliament
+
+...
+
+### CSOs unite in open letter to Tiran against Online Safety Bill
+
+*2024-01-20 01:21:53* · [`dailyftlk`](https://www.ft.lk/news/CSOs-unite-in-open-letter-to-Tiran-against-Online-Safety-Bill/56-757568) 
+
+Urge Minister of Public Security and Govt. to withdraw proposed Online Safety Bill
+
+Call on Minister to conduct meaningful consultations with all stakeholders
+
+Highlight importance of tackling issues of online gender-based violence and harmful speech while affirming human rights
+
+...
+
+### NPP exposes injustices committed under ‘Yukthiya’ op
+
+*2024-01-20 01:21:40* · [`dailyftlk`](https://www.ft.lk/news/NPP-exposes-injustices-committed-under-Yukthiya-op/56-757567) 
+
+National People’s Party (NPP) member Wasantha Samarasinghe recently highlighted the unjust acts committed by the Sri Lanka Police during the ongoing ‘Yukthiya’ operation to allegedly combat drugs and eradicate underworld activities.
+
+Samarasinghe relating a recent incident said a public transport bus had been stopped by a group of Special Task Force (STF) personnel in the Kahatagasdigiliya area for a random check.
+
+...
+
+### Jaffna International Trade Fair 2024 kicks off
+
+*2024-01-20 01:20:54* · [`dailyftlk`](https://www.ft.lk/business/Jaffna-International-Trade-Fair-2024-kicks-off/34-757566) 
+
+The three-day Jaffna International Trade Fair 2024 kicked off yesterday as part of its pivotal role in fostering economic growth and community development in the Northern Province.
+
+Organised by Lanka Exhibition and Conference Services Ltd. (LECS), together with the Chamber of Commerce and Industry of Yarlpanam (CCIY), the Jaffna International Trade Fair 2024 is the 14th edition in the series.
+
+...
+
+### EDB, universities and associations join forces to strengthen ornamental fish industry, boost exports
+
+*2024-01-20 01:19:02* · [`dailyftlk`](https://www.ft.lk/business/EDB-universities-and-associations-join-forces-to-strengthen-ornamental-fish-industry-boost-exports/34-757565) 
+
+A collaborative effort led by the Export Development Board (EDB) alongside Sri Lankan universities, the Tropical Ornamental Fish Association and Sri Lanka Ornamental Fish Farmers’ Association organised a one-day workshop on 11 January.
+
+The key objective of the workshop was to help improve the export potential of ornamental fish, support grassroots development, and enhance the abilities of exporters.
+
+...
 
 ### Communicating the climate crisis: Climate fiction and narratives of loss and resilience
 
@@ -964,61 +1032,5 @@ New applications for the ‘Aswesuma’ welfare benefits program will be called 
 Meanwhile, 300,000 more families have qualified to receive ‘Aswesuma’ welfare benefits, after reviewing 640,000 appeals and objections.
 
 As such, the total number of beneficiaries now stands over 1.7 million. The government aims to extend these benefits to a total of 2 million people.
-
-...
-
-### Sri Lanka allocates Rs910mn for rural development in Matara
-
-*2024-01-19 12:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-allocates-rs910mn-for-rural-development-in-matara-147949/) 
-
-ECONOMYNEXT- The Sri Lankan government has allocated 910 million rupees for rural development of the southern Matara District, its minister of power and energy, who is also from that district, said.
-
-“Rs 910 million has been allocated to the Matara District through the budget for rural development programs for 2024,” Kanchana Wijesekera said on X, following a Matara District Development Committee meeting held on Thursday (18) at the District Secretariat.
-
-...
-
-### மாமாவை கடத்தி மிரட்டிய மன்மதன் கைது
-
-*2024-01-19 12:16:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாமாவை-கடத்தி-மிரட்டிய-மன்மதன்-கைது/175-331792) 
-
-கடந்த ஒரு வருடத்துக்கு முன்னர் கர்ப்பமான தங்கையை கவனித்துக்கொள்ள தங்கையின் வீட்டுக்கு அக்காள் சென்றுள்ளார் அப்போது தங்கையின் கணவனுக்கும் அக்காவுக்கும் பழக்கம் ஏற்பட்டது. இருவரும் தனிமையில் இனிமை கண்டனர்.
-
-...
-
-### Police vow stringent action against Sub Inspector in shooting incident after pursuit
-
-*2024-01-19 12:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-vow-stringent-action-against-Sub-Inspector-in-shooting-incident-after-pursuit/108-275353) 
-
-Colombo, Jan 19 (Daily Mirror) - A Special Investigation Unit is probing the tragic incident in Narammala where a 41-year-old man lost his life when police accidentally opened fire on him.
-
-Police Spokesman SSP Nihal Thalduwa said that acting on the instructions of Acting Inspector General of Police Deshabandu Thennakoon, a special police team is already on-site conducting an inquiry into the actions of the involved police officers.
-
-...
-
-### பிரபல ஐஸ் வியாபாரி உள்ளிட்ட மூவர் போதைப்பொருட்களுடன் காத்தான்குடியில் கைது
-
-*2024-01-19 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174312) 
-
-காத்தான்குடி பிரதேசத்தில் ஐஸ் வியாபாரத்தில் ஈடுபட்டு வந்த பிரபல ஐஸ் வியாபாரி ஒருவரை ஐஸ் போதைப்பொருளுடன் கைதுசெய்துள்ளதாக காத்தான்குடி பொலிஸ் நிலைய பதில் பொறுப்பதிகாரி ஜி. கஜநாயக்க தெரிவித்தார்.
-
-புதிய காத்தான்குடி பிரதேசத்தில் உள்ள வாகனம் திருத்துமிடம் ஒன்றில் வைத்து குறித்த ஐஸ் வியாபாரி இரண்டு கிராம் 110 மில்லி கிராம் ஐஸ் போதைப்பொருளுடன் பொலிசாரிடம் சிக்கியுள்ளார்.
-
-...
-
-### Tamil Nadu CM wants release of Indian fishermen held in Lanka
-
-*2024-01-19 12:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96540/tamil-nadu-cm-wants-release-of-indian-fishermen-held-in-lanka) 
-
-Tamil Nadu Chief Minister M.K. Stalin urged Union External Affairs Minister S. Jaishankar to ‘strongly take up the matter with the Sri Lankan Government’ for the immediate release of all the Indian fishermen and their fishing boat apprehended in two back-to-back incidents during the Pongal season.
-
-...
-
-### "உங்களின் உணர்வுகளை எந்த வகையிலாவது புண்படுத்தியிருந்தால் அதற்கு வருந்துகிறேன்" : 'அன்னபூரணி' சர்ச்சைக்கு நயன்தாரா வெளியிட்ட அறிக்கை
-
-*2024-01-19 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/174308) 
-
-நயன்தாராவின் நடிப்பில் இயக்குநர் நிலேஷ் கிருஷ்ணாவின் இயக்கத்தில் உருவாகி, திரையரங்குகள் மற்றும் ஓடிடி தளத்தில் வெளியான திரைப்படம் 'அன்னபூரணி'.
-
-தமிழ், தெலுங்கு, மலையாளம், கன்னடம், ஹிந்தி ஆகிய மொழிகளில் வெளியான இந்த படத்தில் சமையல் கலை நிபுணராக, அந்தணப் பெண்ணாக வரும் நயன்தாராவை, ஒரு காட்சியில் இறைச்சி சாப்பிட வைப்பதற்காக, 'கடவுள் ராமர் கூட இறைச்சி சாப்பிட்டார்' என ஜெய் பேசும் வசனம் இந்தியாவில் பல்வேறு சர்ச்சைகளை ஏற்படுத்தியுள்ளது.
 
 ...

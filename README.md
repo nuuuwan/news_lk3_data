@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 23:51:57**
+As of **2024-01-20 00:03:26**
 
 ## Newspaper Stats
 
-*Scraped **1,294** Articles*
+*Scraped **1,296** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -18,12 +18,32 @@ virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 142 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 154 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-tamilmirrorlk | 156 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 157 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+tamilmirrorlk | 157 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 158 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### All stalled development projects to commence in February - Bandula
+
+*2024-01-19 23:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96556/all-stalled-development-projects-to-commence-in-february-bandula) 
+
+Development projects are set to commence in February, following the finalization of agreements related to the debt restructuring and ongoing discussions with foreign creditors of Sri Lanka, according to Dr. Bandula Gunawardena, the Minister of Transport, Highways, and Mass Media.
+
+...
+
+### கொழும்பில் இடிந்து விழும் அபாயத்தில் உள்ள கட்டிடங்கள்
+
+*2024-01-19 23:26:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இடிந்து-விழும்-அபாயத்தில்-உள்ள-கட்டிடங்கள்/175-331826) 
+
+கொழும்பு மாநகர சபைக்குட்பட்ட பகுதியில் பொது மக்கள் வசிக்கும் சில குடியிருப்புகள் பாரியளவு சேதமடைந்து காணப்படுகின்றன.
+
+குறித்த கட்டடங்கள் இடித்து அகற்றப்பட்டு, குடியிருப்பாளர்களுக்கு மாற்று இடங்கள் வழங்கப்படும் என மாநகர சபை நேற்று (18) தெரிவித்திருந்தது.
+
+எனினும், ஏற்கனவே வீடுகளைப் பெற்ற சிலர் பல்வேறு காரணங்களைக் கூறி அந்த இடங்களை விட்டு இன்னும் வெளியேறவில்லை என தெரிவிக்கப்படுகிறது.
+
+...
 
 ### NPP not expecting to legalize prostitution: Harini
 
@@ -215,9 +235,11 @@ Kampala, Jan 19 (Daily Mirror) - In a powerful address at the 19th Non-Aligned M
 
 *2024-01-19 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96550/president-ranil-calls-for-strong-united-nam-to-contribute-to-a-better-world) 
 
-President Ranil Wickremesinghe on Friday (Jan.18) highlighted how digital divide and Weapons of Mass Destruction have deepened inequalities between NAM (Non-Aligned Movement) developing states and the developed world.
+President Ranil Wickremesinghe on Friday (Jan.19) commended President Yoweri Museveni for assuming leadership at the 19th Non-Aligned Movement (NAM) Summit in Kampala, Uganda.
 
-Addressing the 19th Non-Aligned Movement Summit in Kampala, Uganda, Wickremesinghe also emphasized the need for a strong, united NAM, the President’s Media Division (PMD) said.
+He highlighted the current global challenges, including the humanitarian crisis in Gaza, the shift in the post-Cold War order, and emerging multipolar dynamics.
+
+President Wickremesinghe emphasized the need for NAM to reinvent itself, transforming into the largest bloc representing the Global South.
 
 ...
 
@@ -1004,29 +1026,5 @@ Colombo (News 1st) – The first American attempt to reach the moon in half a ce
 ECONOMYNEXT – Shareholders of Sri Lankan consumer-durable retailer Singer (Sri Lanka) Plc and two of its subsidiary companies approved a resolution to merge at an extraordinary general meeting on Thursday (18), their parent company Hayleys Plc said in a stock exchange filing.
 
 Singer (Sri Lanka) Plc will merge with Singer Industries (Ceylon) Plc, and Regnis (Lanka) Plc.
-
-...
-
-### 15 students, teacher drown when boat capsizes in Western India
-
-*2024-01-19 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/15-students-teacher-drown-when-boat-capsizes-in-Western-India/107-275352) 
-
-New Delhi, Jan 19 (Daily Mirror) - A boat carrying a school group capsized in a lake in western India on Thursday, drowning 15 students and one teacher, fire service officials said.
-
-Eleven students were rescued when the boat capsized in Harani Lake in the city of Vadodara, and rescuers were searching for person who was still missing, Vadodara fire officer Jitu Parmar said.
-
-...
-
-### Sri Lanka rupee opens at 320.60/321.00 to the US dollar
-
-*2024-01-19 10:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-320-60-321-00-to-the-us-dollar-147891/) 
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 320.60/321.00 to the US dollar on Friday, from 320.70/90 the previous day, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 13.55/60 percent from 13.60/65 percent.
-
-A bond maturing on 15.09.2027 was quoted at 13.75/85 percent from 13.65/75 percent.
-
-A bond maturing on 15.03.2028 was quoted at 13.95/14.03 percent from 14.00/14.05 percent.
 
 ...

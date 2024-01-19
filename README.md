@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 21:17:19**
+As of **2024-01-19 21:32:58**
 
 ## Newspaper Stats
 
-*Scraped **1,285** Articles*
+*Scraped **1,286** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -16,7 +16,7 @@ economynextcom | 94 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 138 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 139 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 154 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 154 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 155 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -40,6 +40,16 @@ COLOMBO (News 1st); Sri Lanka's efforts to restructure its crippling debt face c
 COLOMBO (News 1st); The United Nations Human Rights Office has expressed serious concerns over the revised Anti-Terrorism Bill currently under consideration by the Sri Lankan parliament.
 
 The United Nations Human Rights Office in a statement said that Sri Lanka's Anti-Terrorism Bill, intended to replace the draconian Prevention of Terrorism Act (PTA), has been denounced for perpetuating past human rights violations and failing to uphold international standards.
+
+...
+
+### Rs. 2.2 Mn cash recovered from Ganemulla Sanjeewa’s accomplice’s house
+
+*2024-01-19 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rs-2-2-Mn-cash-recovered-from-Ganemulla-Sanjeewas-accomplices-house/108-275367) 
+
+Udugampola, Jan 19 (Daily Mirror) -  A narcotics team uncovered Rs.2.2 million cash hidden in an underground bunker at a house in Udugampola, suspected to belong to an accomplice of underworld criminal Ganemulla Sanjeewa.
+
+Sanjeewa is currently detained by the police at the Weeragula Police Station, and the house is also linked to organized criminal 'Patta Manju,' who is involved in drug trafficking and crimes while being overseas.
 
 ...
 
@@ -1022,13 +1032,3 @@ A total of 15 employees of the Ceylon Electricity Board (CEB) have been interdic
 CEB trade union members engaged in a series of protests for three days from January 03 - 05, against the government’s Bill to restructure the Board and the new Electricity Bill.
 
 ...
-
-### சிங்கப்பூர் ஜனாதிபதி தர்மன் சண்முகரத்தினத்தை சந்தித்தார் ஜனாதிபதி ரணில்
-
-*2024-01-19 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174290) 
-
-சிங்கப்பூர் ஜனாதிபதி தர்மன் சண்முகரத்தினத்துக்கும் (Tharman Shanmugaratnam) ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் இடையிலான சந்திப்பு வியாழக்கிழமை (18) நடைபெற்றது.
-
-சுவிற்சர்லாந்தின் டாவோஸ் நகரில் நடைபெற்ற உலகப் பொருளாதார மாநாட்டுடன் இணைந்ததாக ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் சிங்கப்பூர் ஜனாதிபதி தர்மன் சண்முகரத்தினத்துக்கும் (Tharman Shanmugaratnam)  இடையிலான சந்திப்பு நடைபெற்றது.
-
-◼️

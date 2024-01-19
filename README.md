@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 23:17:23**
+As of **2024-01-19 23:33:04**
 
 ## Newspaper Stats
 
-*Scraped **1,290** Articles*
+*Scraped **1,294** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -17,9 +17,9 @@ dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 142 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 154 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 154 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-tamilmirrorlk | 155 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+tamilmirrorlk | 156 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 157 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
@@ -35,6 +35,16 @@ She told the Daily Mirror that the main focus of the NPP was to revive the econo
 
 ...
 
+### ‘Revise Anti-Terrorism Bill’: UN human rights office urges Sri Lankan authorities
+
+*2024-01-19 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96555/revise-anti-terrorism-bill-un-human-rights-office-urges-sri-lankan-authorities) 
+
+The UN human rights office has urged the Sri Lankan authorities to revise the Anti-Terrorism Bill and to bring it fully into line with the island’s international human rights obligations.
+
+In a statement published on Friday (Jan.19), the Office of the High Commissioner for Human Rights (OHCHR) raised deep concerns about the proposed Bill, which is currently being considered in the Sri Lankan parliament to replace the Prevention of Terrorism Act (PTA).
+
+...
+
 ### Japan’s ‘Moon Sniper’ makes historic Moon landing
 
 *2024-01-19 21:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japans-Moon-Sniper-makes-historic-Moon-landing/108-275376) 
@@ -43,11 +53,31 @@ Japna, Jan 19 -  Japan on Friday landed its precise “Moon Sniper” rover on 
 
 ...
 
+### அணிசேரா அமைப்பின் ஊடாக சிறந்த உலகை உருவாக்க வேண்டும்
+
+*2024-01-19 21:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அணிசேரா-அமைப்பின்-ஊடாக-சிறந்த-உலகை-உருவாக்க-வேண்டும்/175-331813) 
+
+டிஜிட்டல் பிரிவினை மற்றும் பெரும் அழிவுக்கு வழிவகுக்கும் ஆயுதங்கள் வாயிலாக, அணிசேரா அமைப்பில் அங்கம் வகிக்கும் உலகின் வளர்ந்துவரும் நாடுகள் மற்றும் அபிவிருத்தி அடைந்த நாடுகள் மத்தியில் பெரும் சமநிலை அற்ற தன்மை உருவாகியுள்ளது என்றும், அதனால் சிறந்த உலகை உருவாக்க வலுவான மற்றும் ஒன்றிணைந்த அணிசேரா அமைப்பின் ஊடாக மேற்படி பிரச்சினைகளுக்கு விரைவில் தீர்வை எட்ட வேண்டும் என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
+
+...
+
 ### Extended Fund Facility agreement has to be amended: Sajith informs IMF
 
 *2024-01-19 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extended-Fund-Facility-agreement-has-to-be-amended-Sajith-informs-IMF/108-275366) 
 
 Colombo, Jan 19 (Daily Mirror) -  Leader of the Opposition Sajith Premadasa informed a group of IMF officials  that the Extended Fund Facility (EFF) agreement which their organization has signed with the Sri Lankan government has to be amended and a Samagi Jana Balawegaya (SJB) government will do so in the future.
+
+...
+
+### Japan’s precision moon probe ‘appears to have landed’
+
+*2024-01-19 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96554/japans-precision-moon-probe-appears-to-have-landed) 
+
+The Japan Aerospace Exploration Agency (JAXA) on Friday said its Smart Lander for Investigating the Moon (SLIM) appeared to have landed on the lunar surface.
+
+SLIM, also known as the “moon sniper,” is attempting a highly precise landing — within 100 metres (about 330 feet) of its target compared with a conventional accuracy of several kilometers.
+
+The 20-minute descent was set to begin at 1500 GMT/UTC on Friday.
 
 ...
 
@@ -78,6 +108,16 @@ Udugampola, Jan 19 (Daily Mirror) -  A narcotics team uncovered Rs.2.2 million 
 Sanjeewa is currently detained by the police at the Weeragula Police Station, and the house is also linked to organized criminal 'Patta Manju,' who is involved in drug trafficking and crimes while being overseas.
 
 ...
+
+### Rs. 2.2mn in cash found inside bunker in Udugampola
+
+*2024-01-19 20:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96553/rs-22mn-in-cash-found-inside-bunker-in-udugampola) 
+
+Police Narcotics Bureau (PNB) officers have found ill-gotten cash amounting to Rs. 2.2 million inside an underground bunker at a house located in Udugampola.
+
+The house is said to be owned by an accomplice of the notorious criminal figure ‘Ganemulla Sanjeewa’ who is in custody under detention orders.
+
+◼️
 
 ### Gaza destruction risks lost generation of children, says UN official
 
@@ -255,7 +295,7 @@ The police officer, who was arrested over the alleged ‘accidental’ firearm d
 
 Accordingly, he has been remanded until January 23 on the orders of Narammala Magistrate’s Court.
 
-The lorry driver, 40, was killed on Thursday night (Jan.18) after a police officer ‘accidentally’ discharged his firearm during a vehicle inspection. He was identified as a resident of Alawita area.
+The lorry driver, 40, was killed on Thursday night (Jan.18) after a police officer clad in civvies ‘accidentally’ discharged his firearm during a vehicle inspection. He was identified as a resident of Alawita area.
 
 ...
 
@@ -988,43 +1028,5 @@ A bond maturing on 01.02.2026 was quoted at 13.55/60 percent from 13.60/65 perce
 A bond maturing on 15.09.2027 was quoted at 13.75/85 percent from 13.65/75 percent.
 
 A bond maturing on 15.03.2028 was quoted at 13.95/14.03 percent from 14.00/14.05 percent.
-
-...
-
-### போதைப்பொருள் பாவிக்கும் பொலிஸார்  சேவையிருந்து முழுமையாக நீக்கப்படுவார்கள் - பதில் பொலிஸ்மா அதிபர்
-
-*2024-01-19 10:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/174295) 
-
-போதைப்பொருட்களை பாவிக்கும் பொலிஸ் அதிகாரிகளுக்கு எதிராக ஒழுக்காற்று நடவடிக்கை எடுக்கப்பட்டுள்ளது. மருத்துவ பரிசோதனையை தொடர்ந்து இன்னும் ஒரு மாத காலத்துக்குள் அவர்கள் சேவையில் இருந்து முழுமையாக நீக்கப்படுவார்கள். பாதாள குழுவுடன் தொடர்புடைய அதிகாரிகளுக்கு குறித்து நடவடிக்கை எடுக்கப்பட்டுள்ளது என பதில் பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோன் தெரிவித்தார்.
-
-...
-
-### பாதுகாப்பு தரப்பு முறையாக செயற்பட்டிருந்தால் குண்டுத்தாக்குதலை தவிர்த்திருக்கலாம் - பொதுமக்கள் பாதுகாப்பு அமைச்சர்
-
-*2024-01-19 10:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/174293) 
-
-பாதுகாப்பு தரப்பினர் முறையாக செயற்பட்டிருந்தால் பயங்கரவாதி சஹ்ரானை கைது செய்திருக்கலாம், குண்டுத்தாக்குதல்களை தடுத்திருக்கலாம். பாதுகாப்பு தரப்பினர் கவனயீனமாக செயற்பட்டுள்ளார்கள் என்பதை ஏற்றுக் கொள்கிறேன் என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்தார்.
-
-பொதுமக்கள் பாதுகாப்பு அமைச்சின் காரியாலயத்தில் நேற்று வியாழக்கிழமை இடம்பெற்ற ஊடகவியலாளர் சந்திப்பின் போது மேற்கண்டவாறு குறிப்பிட்டார்.
-
-...
-
-### බිල ගෙවන්න නොදී විදුලියේ කවුලු වැසු 15ක් ගෙදර යවයි
-
-*2024-01-19 10:02:54* · [`adalk`](https://www.ada.lk/breaking_news/බිල-ගෙවන්න-නොදී-විදුලියේ-කවුලු-වැසු-15ක්-ගෙදර-යවයි/11-407622) 
-
-විදුලිබල මණ්ඩලය ප්‍රතිව්‍යූහගත කිරීමට එරෙහිව විරෝධතාවයේ නිරතවූ විදුලි සේවකයින් පිරිසකගේ සේවය අත්හිටුවීමට පියවර ගෙන තිබේ.
-
-ඒ අනුව පසුගියදා පැවති උද්ඝෝෂණයේදී මුදල් කවුළු වසා දමා පාරිභෝගිකයින්ට විදුලි බිල් ගෙවීමට බාධා කිරීම හේතුවෙන් මුදල් භාර ලිපිකරුවන් 15 දෙනෙකුගේ වැඩ තහනම් කර ඇති බව විදුලි බල මණ්ඩලය සඳහන් කරයි.
-
-...
-
-### First phase of Rs.10,000 salary increase starts in January
-
-*2024-01-19 09:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/First-phase-of-Rs-10-000-salary-increase-starts-in-January/108-275347) 
-
-Mawanella, Jan 19 (Daily Mirror) - The initial stage of the government employees' salary increase, as outlined in the Budget 2024 with a proposed Rs. 10,000 increment, has commenced by disbursing funds for the first Rs. 5,000 raise, effective from January, Finance State Minister Ranjith Siyambalapitiya said.
-
-He said the first part, the money for teachers' salaries, has already been released by the Treasury.
 
 ...

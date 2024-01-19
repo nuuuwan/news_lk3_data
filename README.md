@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 09:02:28**
+As of **2024-01-19 09:17:10**
 
 ## Newspaper Stats
 
-*Scraped **1,165** Articles*
+*Scraped **1,167** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,7 +15,7 @@ newsfirstlk | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 91 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 121 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 123 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 132 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -30,6 +30,16 @@ adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 *2024-01-19 08:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Presidential-Elections-three-pronged-battle-takes-shape/155-275331) 
 
 Colombo, Jan 19 (Daily Mirror) - In anticipation of the upcoming Presidential Elections scheduled towards the end of the year, the political arena is witnessing a flurry of activities as various parties and groups strategically position themselves for the impending electoral contest.
+
+...
+
+### Public urged to beware of rising influenza-like illnesses
+
+*2024-01-19 08:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-urged-to-beware-of-rising-influenza-like-illnesses/108-275311) 
+
+Colombo, Jan 18 (Daily Mirror) -  In the wake of the rising influenza-like illnesses in an unusual rate, health experts are urging the public to beware of symptoms such as fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches and fatigue.
+
+Speaking to Daily Mirror, Consultant Virologist at the Medical Research Institute Dr. Jude Jayamaha said, “There are usually two peaks of influenza namely November to February and April to July,”
 
 ...
 
@@ -996,15 +1006,5 @@ Minister of Foreign Affairs Ali Sabry has highlighted that a humanitarian ceasef
 ECONOMYNEXT – Around 71.6 percent of the Sri Lankan public are unaware of the Online Safety Bill that is to be debated in parliament on January 23, a think tank has said.
 
 “Responding to the Wickremesinghe government’s proposed legislation; Anti-Terrorism Act and Online Safety Bill, a majority of Sri Lankans expressed that they are ignorant about both these proposed legislation,” the Centre for Policy Alternatives’ Confidence in Democratic Governance Index report found.
-
-...
-
-### 300,000 more families added to ‘Aswesuma’ beneficiary list after consideration of appeals
-
-*2024-01-18 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96520/300000-more-families-added-to-aswesuma-beneficiary-list-after-consideration-of-appeals) 
-
-Acting Minister of Finance Shehan Semasinghe states that 300,000 additional families were found to be qualified for the ‘Aswesuma’ welfare benefits programme, after reviewing 640,000 appeals and objections thus far regarding the beneficiary lists.
-
-Joining a discussion held with the Welfare Benefits Board at the Finance Ministry today (18), Semasinghe said that the total number of recipients of the ‘Aswesuma’ programme now exceeds 1.7 million families.
 
 ...

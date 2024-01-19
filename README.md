@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 09:51:51**
+As of **2024-01-19 10:03:35**
 
 ## Newspaper Stats
 
-*Scraped **1,167** Articles*
+*Scraped **1,172** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -13,7 +13,7 @@ bbccomsinhala | 33 | 🟩🟩🟩
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
 newsfirstlk | 76 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 83 | 🟩🟩🟩🟩🟩🟩🟩🟩 
-virakesarilk | 91 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+virakesarilk | 96 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 123 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 132 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,48 @@ adalk | 149 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### தமிழரசுக்கட்சியின் தலைவராக சுமந்திரன் வந்தால் தமிழ்த்தேசியத்திற்கு பாதிப்பு ஏற்படும் - எம்.பி.யோகேஸ்வரன்
+
+*2024-01-19 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174288) 
+
+தமிழ் தேசிய கூட்டமைப்பின் நாடாளுமன்ற உறுப்பினர் சட்டத்தரணி சுமந்திரன் தமிழரசுக்கட்சியின் புதிய தலைவராக வந்தால் தமிழ்தேசியத்திற்கு பாதிப்பினை ஏற்படுத்திவிடும் என முன்னாள் தமிழ் தேசிய கூட்டமைப்பின் மட்டக்களப்பு மாவட்ட நாடாளுமன்ற உறுப்பினர் சீனிதம்பி யோகேஸ்வரன் தெரிவித்தார்.
+
+இலங்கை தமிழரசுக்கட்சியின் புதிய தலைவருக்கான வேட்பாளர்கள் குறித்து நிலைப்பாட்டினை தெளிவுபடுத்தும் ஊடக சந்திப்பு வியாழக்கிழமை (18) யாழ்ப்பாணம் ஊடக அமையத்தில் இடம்பெற்றது. இதன்போது அவர் இவ்வாறு தெரிவித்தார்.
+
+...
+
+### சிங்கப்பூர் ஜனாதிபதி தர்மன் சண்முகரத்தினத்தை சந்தித்தார் ஜனாதிபதி ரணில்
+
+*2024-01-19 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174290) 
+
+சிங்கப்பூர் ஜனாதிபதி தர்மன் சண்முகரத்தினத்துக்கும் (Tharman Shanmugaratnam) ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் இடையிலான சந்திப்பு வியாழக்கிழமை (18) நடைபெற்றது.
+
+சுவிற்சர்லாந்தின் டாவோஸ் நகரில் நடைபெற்ற உலகப் பொருளாதார மாநாட்டுடன் இணைந்ததாக ஜனாதிபதி ரணில் விக்ரமசிங்கவுக்கும் சிங்கப்பூர் ஜனாதிபதி தர்மன் சண்முகரத்தினத்துக்கும் (Tharman Shanmugaratnam)  இடையிலான சந்திப்பு நடைபெற்றது.
+
+◼️
+
+### 200 வருட கால வரலாற்றில் மலையக பெருந்தோட்ட கல்வி முறைமை
+
+*2024-01-19 09:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/174285) 
+
+...
+
+### கொவிட் மற்றும் கோட்டாபய ராஜபக்ஷ்வின் முறையற்ற பொருளாதார வேலைத்திட்டமே பொருளாதார வீழ்ச்சிக்கு காரணம் - ஆஷு மாரசிங்க
+
+*2024-01-19 09:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174282) 
+
+2024 வாழ்க்கைச் செலவை தளர்த்தும் வருடமாக ஜனாதிபதி தெரிவித்திருக்கிறார்.அதனால்  கொவிட் மற்றும் கோத்தாபய ராஜபக்ஷ்வின் முறையற்ற பொருளாதார வேலைத்திட்டம் காரணமாக மூடப்பட்ட தொழிற்சாலைகளை மீண்டும் ஆரம்பித்து நாட்டின் வருமானத்தை அதிகரிக்க ஜனாதிபதி நடவடிக்கை எடுத்திருக்கிறார் என ஐக்கிய தேசிய கட்சியின் முன்னாள் பாராளுமன்ற உறுப்பினர் ஆஷு மாரசிங்க தெரிவித்தார்.
+
+...
+
+### ஜனாதிபதி உகண்டாவை சென்றடைந்தார்
+
+*2024-01-19 09:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/174283) 
+
+அணிசேரா நாடுகளின் மாநாட்டின் (NAM) 19 ஆவது அரச தலைவர்கள் மாநாடு மற்றும் G77 மற்றும் சீனாவின் 3 ஆவது தென் மாநாடு என்பவற்றில் (3rd South Summit of the Group of 77 & China) பங்கேற்பதற்காக ஜனாதிபதி ரணில் விக்ரமசிங்க நேற்று வியாழக்கிழமை (18) பிற்பகல் உகண்டாவின் கம்பாலா நகரின்  (Entebbe) விமான நிலையத்தை சென்றடைந்தார்.
+
+...
 
 ### Presidential Elections: three-pronged battle takes shape
 
@@ -956,55 +998,5 @@ Addressing reporters today, the IGP acknowledged investigations into internal dr
 *2024-01-18 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96523/sugar-scam-copf-slams-finance-ministry-irds-failure-to-collect-foregone-taxes-from-companies-involved) 
 
 The Committee on Public Finance (COPF) has expressed its deep dissatisfaction with the Finance Ministry and the Inland Revenue Department (IRD) over the failure to collect foregone taxes from major corporations implicated in the Sugar scam, as outlined in the forensic report compiled by the Auditor General.
-
-...
-
-### Colombo Cameras to Watch for Traffic Offenses
-
-*2024-01-18 16:39:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/colombo-cameras-to-watch-for-traffic-offenses/) 
-
-COLOMBO (News 1st); Starting January 22nd, the Colombo city's existing CCTV network will be repurposed to actively detect and record traffic violations.
-
-This move comes on the heels of a recent survey revealing a shocking statistic: in areas equipped with CCTV cameras, the number of observed traffic offenses is a staggering 300 times higher than those recorded by police patrols.
-
-Facilities to pay traffic fines at night in some post offices
-
-...
-
-### Police Forms Track Residents Across Every Village
-
-*2024-01-18 16:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/police-forms-track-residents-across-every-village/) 
-
-COLOMBO (News 1st); In an effort to bolster community security and prevent crime, the Sri Lanka Police have established a nationwide network of 14,022 Community Police Committees.
-
-These committees are operational across all Grama Niladhari Divisions, the smallest administrative units in Sri Lanka.
-
-The initiative hinges on a trilingual form developed by the Police, designed to gather demographic details of all residents within each division.
-
-...
-
-### 1,092 Wanted Criminals Added to Sri Lanka’s Facial Recognition Watchlist
-
-*2024-01-18 16:22:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/18/1-092-wanted-criminals-added-to-sri-lanka-s-facial-recognition-watchlist/) 
-
-COLOMBO (News 1st); In a major boost to crime investigation efforts, the Sri Lankan Police have deployed cutting-edge facial recognition technology at the Bandaranaike International Airport, Acting Inspector General of Police Deshabandu Thennakoon announced today.
-
-...
-
-### Ali Sabry reaffirms Sri Lanka’s support to Palestine, calls for ‘humanitarian ceasefire’
-
-*2024-01-18 16:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96521/ali-sabry-reaffirms-sri-lankas-support-to-palestine-calls-for-humanitarian-ceasefire) 
-
-Minister of Foreign Affairs Ali Sabry has highlighted that a humanitarian ceasefire is the only solution to halt the mounting civilian death toll in the ongoing conflict between Israel and Palestine.
-
-...
-
-### Over 70-pct of Sri Lankan public unaware of Online Safety Bill: survey
-
-*2024-01-18 16:19:00* · [`economynextcom`](https://economynext.com/over-70-pct-of-sri-lankan-public-unaware-of-online-safety-bill-survey-147805/) 
-
-ECONOMYNEXT – Around 71.6 percent of the Sri Lankan public are unaware of the Online Safety Bill that is to be debated in parliament on January 23, a think tank has said.
-
-“Responding to the Wickremesinghe government’s proposed legislation; Anti-Terrorism Act and Online Safety Bill, a majority of Sri Lankans expressed that they are ignorant about both these proposed legislation,” the Centre for Policy Alternatives’ Confidence in Democratic Governance Index report found.
 
 ...

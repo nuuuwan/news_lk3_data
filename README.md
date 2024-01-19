@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 18:10:10**
+As of **2024-01-19 18:22:10**
 
 ## Newspaper Stats
 
-*Scraped **1,257** Articles*
+*Scraped **1,258** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -18,12 +18,22 @@ virakesarilk | 118 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 dailymirrorlk | 132 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 148 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 151 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 152 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 153 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### President Ranil calls for strong, united NAM to contribute to a better world
+
+*2024-01-19 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96550/president-ranil-calls-for-strong-united-nam-to-contribute-to-a-better-world) 
+
+President Ranil Wickremesinghe on Friday (Jan.18) highlighted how digital divide and Weapons of Mass Destruction have deepened inequalities between NAM (Non-Aligned Movement) developing states and the developed world.
+
+Addressing the 19th Non-Aligned Movement Summit in Kampala, Uganda, Wickremesinghe also emphasized the need for a strong, united NAM, the President’s Media Division (PMD) said.
+
+...
 
 ### Train operations on Puttalam Line delayed due to derailment
 
@@ -1030,15 +1040,5 @@ Karapitiya, Jan 18 (Daily Mirror) -  Referring to the arrest of the Onco Surgeo
 Edward Robinson- Southern Book Fair, Chanchala Gunewardena - Matara Festival for the Arts, Champika De Silva - Opera at the Anantara, Niranjan Deva Aditya - Chairman Sri Lanka Tourism Promotion Bureau, Chalaka Gajabahu - Rhythms of Paradise, Nilupul Gunawardena, and Tracy Holsinger - Gourmet Galle & amp; Galle Literary Festival
 
 SLTPB says event placed strategically in the peak season to compete with other regional festivals such as Jaipur Literature Festival
-
-...
-
-### E-NIC by this year
-
-*2024-01-19 02:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/E-NIC-by-this-year/108-275303) 
-
-Colombo, Jan 19 (Daily Mirror) - Commissioner General of the Department for Registration of Persons (DRP) G. Pradeep Saputhanthri said they are to introduce the electronic National Identity Card (e-nic) for people within this year.
-
-He said preliminary activities relating to the introduction of the facilities and infrastructure facilities will be underway.
 
 ...

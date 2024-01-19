@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 20:17:26**
+As of **2024-01-19 20:32:53**
 
 ## Newspaper Stats
 
-*Scraped **1,274** Articles*
+*Scraped **1,276** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -16,7 +16,7 @@ economynextcom | 94 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 118 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 136 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 138 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 154 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 154 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 155 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,16 @@ tamilmirrorlk | 155 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### Gaza destruction risks lost generation of children, says UN official
+
+*2024-01-19 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gaza-destruction-risks-lost-generation-of-children-says-UN-official/108-275365) 
+
+Gaza, Jan 19 (Daily Mirror) -  This week Al Israa University became the latest major public building in Gaza to disappear from the map, blown up and destroyed by Israeli forces who had reportedly used it as a military base for several weeks.
+
+The war in Gaza has already let to an unprecedented loss of life, but there's also growing concern about the destruction of public and private buildings.
+
+...
 
 ### Karapitiya hospital’s senior oncologist decides to retire after assault accusations
 
@@ -92,6 +102,14 @@ Kampala, Jan 19 (Daily Mirror) - In a powerful address at the 19th Non-Aligned M
 President Ranil Wickremesinghe on Friday (Jan.18) highlighted how digital divide and Weapons of Mass Destruction have deepened inequalities between NAM (Non-Aligned Movement) developing states and the developed world.
 
 Addressing the 19th Non-Aligned Movement Summit in Kampala, Uganda, Wickremesinghe also emphasized the need for a strong, united NAM, the President’s Media Division (PMD) said.
+
+...
+
+### Court questions Immigration Chief’s double standards on Diana’s citizenship issue
+
+*2024-01-19 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Court-questions-Immigration-Chiefs-double-standards-on-Dianas-citizenship-issue/155-275362) 
+
+Colombo, Jan 19 (Daily Mirror) - While granting Leave to Appeal in the State Minister Diana Gamage's citizenship case, the Supreme Court questioned how the Controller General of Immigration and Emigration had filed a document containing the entry and exit details of Diana Gamage, and later had stated in an affidavit that he was not aware of which Diana Gamage this information pertained to.
 
 ...
 
@@ -1006,25 +1024,5 @@ Colombo, Jan 19 (Daily Mirror) - In anticipation of the upcoming Presidential El
 *2024-01-19 08:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Presidential-Elections-three-pronged-battle-takes-shape/108-275331) 
 
 Colombo, Jan 19 (Daily Mirror) - In anticipation of the upcoming Presidential Elections scheduled towards the end of the year, the political arena is witnessing a flurry of activities as various parties and groups strategically position themselves for the impending electoral contest.
-
-...
-
-### Public urged to beware of rising influenza-like illnesses
-
-*2024-01-19 08:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Public-urged-to-beware-of-rising-influenza-like-illnesses/155-275311) 
-
-Colombo, Jan 18 (Daily Mirror) -  In the wake of the rising influenza-like illnesses in an unusual rate, health experts are urging the public to beware of symptoms such as fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches and fatigue.
-
-Speaking to Daily Mirror, Consultant Virologist at the Medical Research Institute Dr. Jude Jayamaha said, “There are usually two peaks of influenza namely November to February and April to July,”
-
-...
-
-### Public urged to beware of rising influenza-like illnesses
-
-*2024-01-19 08:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Public-urged-to-beware-of-rising-influenza-like-illnesses/108-275311) 
-
-Colombo, Jan 18 (Daily Mirror) -  In the wake of the rising influenza-like illnesses in an unusual rate, health experts are urging the public to beware of symptoms such as fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches and fatigue.
-
-Speaking to Daily Mirror, Consultant Virologist at the Medical Research Institute Dr. Jude Jayamaha said, “There are usually two peaks of influenza namely November to February and April to July,”
 
 ...

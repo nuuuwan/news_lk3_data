@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 16:04:22**
+As of **2024-01-19 16:17:08**
 
 ## Newspaper Stats
 
-*Scraped **1,241** Articles*
+*Scraped **1,242** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 23 | 🟩🟩 
 bbccomsinhala | 33 | 🟩🟩🟩 
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
-newsfirstlk | 81 | 🟩🟩🟩🟩🟩🟩🟩🟩 
+newsfirstlk | 82 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 86 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 118 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,14 @@ adalk | 153 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### IMF says debt agreements with creditors critical
+
+*2024-01-19 15:16:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/imf-says-debt-agreements-with-creditors-critical/) 
+
+COLOMBO (News 1st); End-of-Mission press releases include statements of IMF staff teams that convey preliminary findings after a visit to a country. The views expressed in this statement are those of the IMF staff and do not necessarily represent the views of the IMF’s Executive Board. This mission will not result in a Board discussion.
+
+...
 
 ### யாழில் 12 லீற்றர் சட்டவிரோத மதுபானத்துடன் ஒருவர் கைது
 
@@ -1026,11 +1034,5 @@ Royal Ceramics Lanka PLC (Rocell) has once again taken the spotlight at two pres
 *2024-01-19 00:46:22* · [`dailyftlk`](https://www.ft.lk/business/Jaffna-International-Trade-Fair-2024-opens-today/34-757522) 
 
 The Jaffna International Trade Fair 2024, a transformative annual event that has played a pivotal role in fostering economic growth and community development in Sri Lanka’s Northern Province is back with its 14th edition.
-
-...
-
-### Why stepmotherly treatment to oppressed segments of society via Micro Finance Bill?
-
-*2024-01-19 00:03:17* · [`dailyftlk`](https://www.ft.lk/columns/Why-stepmotherly-treatment-to-oppressed-segments-of-society-via-Micro-Finance-Bill/4-757513) 
 
 ...

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 16:48:59**
+As of **2024-01-19 17:02:24**
 
 ## Newspaper Stats
 
-*Scraped **1,243** Articles*
+*Scraped **1,244** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,7 +15,7 @@ newsfirstlk | 82 | 🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 86 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 118 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 131 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 132 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 146 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 148 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,18 @@ adalk | 153 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### North Korea conducts underwater nuclear weapons system test
+
+*2024-01-19 16:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/North-Korea-conducts-underwater-nuclear-weapons-system-test/108-275360) 
+
+North Korea, Jan 19 (BBC) -  North Korea says it has carried out a test of its "underwater nuclear weapons system" in response to drills by the US, South Korea and Japan this week.
+
+The underwater drone, which supposedly can carry a nuclear weapon, was tested off the east coast, state media said.
+
+There is no other evidence of the tests being conducted and Seoul had earlier said the North's descriptions of the drones' capability were exaggerated.
+
+...
 
 ### Rhodes reacts to SLC consultancy role, says ’’This is news to me’’
 
@@ -1028,13 +1040,5 @@ Five Sri Lankan exhibitors will showcase their excellence at the world’s large
 *2024-01-19 00:49:22* · [`dailyftlk`](https://www.ft.lk/business/Dialog-Television-launches-Hits-Now-elevating-Sri-Lanka-s-television-experience/34-757524) 
 
 Elevating Sri Lanka’s entertainment landscape, Dialog Television, Sri Lanka’s No. 1 Pay-TV service provider, launched the popular ‘Hits Now’ channel in High Definition (HD) on Channel 113 for its customers, bringing quality curated entertainment to Sri Lankan homes.
-
-...
-
-### Rocell shines at CNCI Achiever Awards and National Industry Excellence Awards 2023
-
-*2024-01-19 00:47:43* · [`dailyftlk`](https://www.ft.lk/business/Rocell-shines-at-CNCI-Achiever-Awards-and-National-Industry-Excellence-Awards-2023/34-757523) 
-
-Royal Ceramics Lanka PLC (Rocell) has once again taken the spotlight at two prestigious award ceremonies, underscoring its position as Sri Lanka’s leading tile and bathware manufacturer.
 
 ...

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-19 18:22:10**
+As of **2024-01-19 18:34:12**
 
 ## Newspaper Stats
 
-*Scraped **1,258** Articles*
+*Scraped **1,262** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,8 +15,8 @@ newsfirstlk | 82 | 🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 94 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 118 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 132 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 134 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 136 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 148 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 152 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 153 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,14 @@ adalk | 153 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 ## Latest 100 Articles 
 
 ### 2024-01-19 (Friday)
+
+### President Wickremesinghe urges global unity at Non-Aligned Movement summit
+
+*2024-01-19 17:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-Wickremesinghe-urges-global-unity-at-Non-Aligned-Movement-summit/108-275364) 
+
+Kampala, Jan 19 (Daily Mirror) - In a powerful address at the 19th Non-Aligned Movement (NAM) Summit in Kampala, Uganda, President Ranil Wickremesinghe emphasized the critical need to bridge digital divides and tackle the looming threat of Weapons of Mass Destruction.
+
+...
 
 ### President Ranil calls for strong, united NAM to contribute to a better world
 
@@ -35,6 +43,24 @@ Addressing the 19th Non-Aligned Movement Summit in Kampala, Uganda, Wickremesing
 
 ...
 
+### Court questions Immigration Chief’s double standards on Diana’s citizenship issue
+
+*2024-01-19 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-questions-Immigration-Chiefs-double-standards-on-Dianas-citizenship-issue/108-275362) 
+
+Colombo, Jan 19 (Daily Mirror) - While granting Leave to Appeal in the State Minister Diana Gamage's citizenship case, the Supreme Court questioned how the Controller General of Immigration and Emigration had filed a document containing the entry and exit details of Diana Gamage, and later had stated in an affidavit that he was not aware of which Diana Gamage this information pertained to.
+
+...
+
+### Train transporting Prima flour derails near Ragama Station
+
+*2024-01-19 17:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-transporting-Prima-flour-derails-near-Ragama-Station/108-275363) 
+
+Ragama, Jan 19 (Daily Mirror) -  The Railway Department reported of a disruption in train services after a train transporting Prima flour derailed near the Ragama railway station this afternoon.
+
+The incident occurred as the engine of the train from Colombo, experienced a malfunction, resulting in the detachment of two wheels.
+
+...
+
 ### Train operations on Puttalam Line delayed due to derailment
 
 *2024-01-19 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96549/train-operations-on-puttalam-line-delayed-due-to-derailment) 
@@ -42,6 +68,14 @@ Addressing the 19th Non-Aligned Movement Summit in Kampala, Uganda, Wickremesing
 The railway operations on the Puttalam Line were disrupted this evening due to a derailment, the Department of Railways said.
 
 An engine of a freight train plying from Colombo to Seeduwa has derailed between the Ja-Ela and Ragama railway stations, according to the department.
+
+...
+
+### NMRA, CID to do second factory visit on Monday with CEB Engineer
+
+*2024-01-19 16:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NMRA-CID-to-do-second-factory-visit-on-Monday-with-CEB-Engineer/108-275361) 
+
+Colombo, Jan 19 (Daily Mirror) -  The Criminal Investigation Department (CID) will accompany NMRA and CEB officials on a second visit to the infamous factory involved in the human immunoglobulin scam on Monday with its owner, as the latter had refused to cooperate with the authorities during the first visit, the Daily Mirror learns.
 
 ...
 
@@ -1000,45 +1034,5 @@ Narammala, Jan 19 (Daily Mirror) - A 40 year old man was killed when police ope
 The incident took place along the Giriulla Narammala Road late in the evening.
 
 The police had ordered the driver to stop but the driver had allegedly defied the order and when the police fired at the vehicle. The dead was identified as a resident of Vathawakanda in Alawwa.
-
-...
-
-### Fairly heavy rainfall expected in three provinces including Western
-
-*2024-01-19 06:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/96532/fairly-heavy-rainfall-expected-in-three-provinces-including-western) 
-
-Showers will occur at times in Northern, North-Central, Eastern and Uva provinces, the Department of Meteorology says.
-
-Showers or thundershowers may occur at several places elsewhere on the island after 2.00 p.m.
-
-Fairly heavy showers above 75mm are likely at some places in Western, Sabaragamuwa and North-western provinces.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-...
-
-### Heshana Kuruppu inducted as the 27th president of CA Sri Lanka
-
-*2024-01-19 06:14:00* · [`islandlk`](http://island.lk/heshana-kuruppu-inducted-as-the-27th-president-of-ca-sri-lanka/) 
-
-Renowned Chartered Accountant, Heshana Kuruppu, was inducted as the 27th President of the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka) at a gala event on 18th January 2024 at the Shangri-La Hotel, Colombo.
-
-...
-
-### Specialists threaten strike action over Karapitya Hospital incident
-
-*2024-01-19 06:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Specialists-threaten-strike-action-over-Karapitya-Hospital-incident/108-275304) 
-
-Karapitiya, Jan 18 (Daily Mirror) -  Referring to the arrest of the Onco Surgeon at the Karapitiya Teaching Hospital after being allegedly accused of having assaulted a female hospital staffer, the specialists have warned of a strike action over the incident.
-
-...
-
-### Sri Lanka eyes to attract high-end tourists with upcoming  ‘Galle Concerto 2024’
-
-*2024-01-19 04:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-eyes-to-attract-high-end-tourists-with-upcoming-Galle-Concerto-2024/108-275322) 
-
-Edward Robinson- Southern Book Fair, Chanchala Gunewardena - Matara Festival for the Arts, Champika De Silva - Opera at the Anantara, Niranjan Deva Aditya - Chairman Sri Lanka Tourism Promotion Bureau, Chalaka Gajabahu - Rhythms of Paradise, Nilupul Gunawardena, and Tracy Holsinger - Gourmet Galle & amp; Galle Literary Festival
-
-SLTPB says event placed strategically in the peak season to compete with other regional festivals such as Jaipur Literature Festival
 
 ...

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 22:49:53**
+As of **2024-01-20 23:17:15**
 
 ## Newspaper Stats
 
-*Scraped **1,462** Articles*
+*Scraped **1,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 25
 adaderanasinhalalk | 33
 bbccomsinhala | 36
 islandlk | 83
-newsfirstlk | 95
+newsfirstlk | 96
 economynextcom | 101
 dbsjeyarajcom | 117
 virakesarilk | 129
 dailyftlk | 150
-adalk | 160
+adalk | 161
 dailymirrorlk | 170
 adaderanalk | 180
 tamilmirrorlk | 183
@@ -26,7 +26,7 @@ tamilmirrorlk | 183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-0 (0.0%) of 1,462 articles have been extended.
+0 (0.0%) of 1,464 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,13 +49,13 @@ The Malimbada Police are investigating to arrest the shooters and determine the 
 [Extended Data](ext_articles/fa431834.ext.json)
 
 ---
-### மாத்தறையில் துப்பாக்கிச் சூடு - ஒருவர் பலி
+### Firing at Matara - One killed
 
 *2024-01-20 21:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறையில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-331863) · `ta`
 
-மாத்தறை -  தெலிஜ்ஜவில பகுதியில் இன்று இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் நபரொருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A man has been killed in a shooting incident in Matara -Telijjila area tonight, police said.
 
-மோட்டார் சைக்கிளில் வந்த சந்தேகநபர் ஒருவர் தொலைபேசி விற்பனை நிலையமொன்றினுள் இந்த துப்பாக்கிச் சூட்டினை நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர். R
+Police said that a suspect on a motorbike fled the telephone stall and fled the shoot.. Remble
 
 ◼️
 
@@ -64,13 +64,28 @@ The Malimbada Police are investigating to arrest the shooters and determine the 
 [Extended Data](ext_articles/84a7ec0a.ext.json)
 
 ---
-### படம் பார்த்த சிறுவர்களுக்கு 12 ஆண்டுகள் தண்டனை – அதிர்ச்சி
+### IMF & Sri Lanka: Tax reforms and fiscal discipline seen as key to overcoming the crisis
+
+*2024-01-20 21:31:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/imf-sri-lanka-tax-reforms-and-fiscal-discipline-seen-as-key-to-overcoming-the-crisis/) · `en`
+
+COLOMBO (News 1st); The International Monetary Fund (IMF) expressed cautious optimism about Sri Lanka's economic recovery, highlighting the crucial role of tax reforms and fiscal discipline in overcoming the nation's deep financial crisis.
+
+Peter Breuer, IMF Senior Mission Chief to Sri Lanka, emphasized the importance of tax administration in addressing the revenue shortfall that contributed to the crisis.
+
+...
+
+[Data](articles/1fb365ff.json)
+
+[Extended Data](ext_articles/1fb365ff.ext.json)
+
+---
+### 12 years sentence for boys who saw the film - shock
 
 *2024-01-20 20:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/படம்-பார்த்த-சிறுவர்களுக்கு-12-ஆண்டுகள்-தண்டனை-அதிர்ச்சி/50-331850) · `ta`
 
-தென் கொரியாவின் கே-பாப் பாடல்களை கண்டு ரசித்த குற்றத்துக்காக 2 சிறுவர்களுக்கு 12 ஆண்டுகள் கடுமையான வேலை செய்யும் தண்டனையை வட கொரிய அரசு விதித்திருப்பது சர்வதேச அளவில் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+The North Korean government's imposition of the North Korean government has been shocked by the imposition of the 12-year-old work for 2 children for the crime of seeing South Korea's K-Pop songs.
 
-தென் கொரிய பாப் இசை, சினிமாவைக் கண்டு ரசித்ததற்காக 16 வயதே நிரம்பிய இரண்டு சிறுவர்கள் தண்டிக்கப்பட்ட வீடியோ வெளியாகி அதிர்ச்சியை ஏற்படுத்தியுள்ளது. அந்த வீடியோவில் ஓர் திறந்தவெளி அரங்கில் பழுப்பு நிற உடையணிந்த 2 சிறுவர்கள் கைகள் கட்டப்பட்டு அழைத்து வரப்படுகிறார்கள்.
+South Korean pop music has been shocked by the release of two boys under 16 years of age for enjoying cinema. In the video, 2 boys dressed in brown dressed in an open space are brought in their hands.
 
 ...
 
@@ -79,17 +94,19 @@ The Malimbada Police are investigating to arrest the shooters and determine the 
 [Extended Data](ext_articles/446191f9.ext.json)
 
 ---
-### විදුලි ගාස්තු සංශෝධනයට පෙර මහජන අදහස් විමසයි
+### Public opinions before revision of electricity tariffs
 
 *2024-01-20 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192368) · `si`
 
-විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා මහජන උපයෝගීතා කොමිෂන් සභාව එළඹෙන සඳුදා රැස්වීමට නියමිතය.
+The Public Utilities Commission is to meet the next Monday to discuss the electricity tariff revision.
 
-ගාස්තු සංශෝධන සම්බන්ධයෙන් වන යෝජනාව පසුගියදා ලංකා විදුලිබල මණ්ඩලය විසින් මහජන උපයෝගීතා කොමිසම වෙත ලබාදී තිබුණි.
+The proposal of the tariff amendments was recently handed over to the Ceylon Electricity Board to the Public Utilities Commission.
 
-එහිදී යෝජනාවලිය සම්බන්ධයෙන් සාකච්ඡා කර අවසන් තීරණයක් ගැනීමට නියමිත අතර මහජන අදහස් ලබා ගැනීමෙන් අනතුරුව ඊට උපයෝගීතා කොමිසම ද සිය අදහස් එක් කරනු ඇත.
+The proposal will be taken to discuss the proposal and to make public opinion and then the utility commission will also add their ideas.
 
-අනතුරුව සති 03 ක කාලයක් එම යෝජනාවලිය මහජනතාවට ප්‍රසිද්ධ කිරීමට නියමිතය.
+The proposal will be made public for three weeks.
+
+The new proposal will be added to the Ceylon Electricity Board.
 
 ...
 
@@ -98,13 +115,15 @@ The Malimbada Police are investigating to arrest the shooters and determine the 
 [Extended Data](ext_articles/6954a5bc.ext.json)
 
 ---
-### பெண்ணின் உள்ளாடைக்குள் வெடிபொருட்கள்...
+### Explosives in the woman's underwear ...
 
 *2024-01-20 20:21:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணின்-உள்ளாடைக்குள்-வெடிபொருட்கள்/175-331849) · `ta`
 
-கொட்டவெஹர பலுகஸ் சந்தியில் வீதித் தடைகளை அமைத்து மேற்கொள்ளப்பட்ட சோதனையின் போது, உள்ளாடையில் வெடிபொருட்களை மறைத்து வைத்திருந்த பெண்ணொருவரை கொட்டவெஹர பொலிஸார் கைது செய்துள்ளனர்.
+Kottavehara police have arrested a woman who was hiding in the underwear during a raid on roadblocks at the Kottavehra Balukus junction.
 
-பொலிஸ் விசேட அதிரடிப்படையினருடன் இணைந்து நேற்று (19)  கொட்டவெஹர, பலுகஸ் சந்தி பகுதியில் பொலிஸ் மோப்ப நாய்களை பயன்படுத்தி நீண்ட தூர சேவை பஸ்களை பொலிஸார் சோதனையிட்டனர்.
+Police searched long -range buses using police snake dogs in Kottawera, Balukas junction yesterday (19), along with the Special Task Force.
+
+In the bus, a woman was checked, police said two tetanators, 165 grams of black ammunition, 605 grams of ammonia and 10 feet long service threads hidden in her underwear, police said.
 
 ...
 
@@ -113,13 +132,17 @@ The Malimbada Police are investigating to arrest the shooters and determine the 
 [Extended Data](ext_articles/55f103c9.ext.json)
 
 ---
-### ගහලා හිරේ ගියත් මම බයේ එන්නේ නැහැ - සනත් නිශාන්ත
+### I'm not afraid of the attack, but I'm not coming in fear - Sanath Nishantha
 
 *2024-01-20 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192367) · `si`
 
-ප්‍රදේශවාසීන්ගේ විරෝධය හේතුවෙන් රැස්වීමකට සහභාගී වීමට ගිය තමන්ට නැවත හැරී පැමිණීමට සිදුවූ බවට පළවන වාර්තා අසත්‍ය බව රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා පවසයි.
+State Minister Sanath Nishantha says that reports have to come to attending a meeting due to objections of the area.
 
-පුත්තලම, දළුව ප්‍රදේශයේදී රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාට ජනතාවගේ විරෝධතාව එල්ලවූ බවට පළවූ වාර්තාවලට ප්‍රතිචාර දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+He was responding to reports of the protest of the people of State Minister Sanath Nishantha in Puttalam and Daluwa.
+
+The primary discussion was scheduled to come in Duluwa area on the 'Diyamalapura-Nawakeva' road on the World Bank assistance in Puttalam.
+
+However, the villagers have opposed the interference to intervene for the development project.
 
 ...
 
@@ -203,15 +226,19 @@ The Sri Lankan court on Friday released 32 fishermen from Tamil Nadu who were ap
 [Extended Data](ext_articles/f98cf05b.ext.json)
 
 ---
-### සතොස බිත්තරයේ අලුත්ම මිල දැනුම්දෙයි
+### The latest price of the Sathosa egg is notified
 
 *2024-01-20 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192366) · `si`
 
-සතොස හරහා අලෙවි කරන ආනයනික ඉන්දීය බිත්තරයක මිල හෙට (21) සිට රුපියල් 43ක් දක්වා ඉහළ නංවන බව වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා පවසයි.
+Minister of Trade Nalin Fernando says that the price of an imported Indian egg is up to 43 rupees from Sathosa to 43 rupees.
 
-වැට් වැඩිවීමත් සමග ඉන්දියාවෙන් ආනයනය කළ බිත්තරයක් රුපියල් 35කට අලෙවි කිරීමට නොහැකි බැවින් සතොස අලෙවිසැල් බිත්තර අලෙවි කිරීම සීමා කර ඇත.
+With the increase in VAT, an egg is restricted to Rs. 35.
 
-එවන් වාතාවරණයක යළිත් වෙළෙඳපොළේ දේශීය බිත්තර මිල ඉහළ ගොස් ඇති අයුරු දක්නට ලැබේ.
+In such an environment, local egg prices have risen to the re-market.
+
+When contacted by Lanka Sathosa, chairman Pasanda, he said that the VAT would be sold to Rs. 42 per laying egg.
+
+The government has taken steps to limit the importation from India due to the last few days of the country.
 
 ...
 
@@ -303,15 +330,17 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 [Extended Data](ext_articles/df1ed846.ext.json)
 
 ---
-### දකුණු මුහුදේ හෙරොයින් වැටලීම ගැන තවත් තොරතුරු
+### More information about the heroin raid at the right sea
 
 *2024-01-20 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192365) · `si`
 
-දකුණු මුහුදේ දී අද (20) අත්අඩංගුවට ගත් මත්ද්‍රව්‍ය තොගය සම්බන්ධයෙන් නාවික හමුදාව පැහැදිලි කිරීමක් සිදුකර තිබේ.
+The Navy has made a clarify regarding the stock of drugs in the South Sea.
 
-එහි දැක්වෙන්නේ රුපියල් මිලියන 1,626 කට අධික දළ වටිනාකමකින් යුත් හෙරොයින් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 65 කට අධික තොගයක් එහි තිබූ බවය.
+It is said that there were over 65 km of heroin in over 1,626 million rupees.
 
-ශ්‍රී ලංකා නාවික හමුදාව, දෙවුන්දර තුඩුවේ සිට නාවික සැතපුම් 100 ක් පමණ (කිලෝමීටර් 185 ක් පමණ) දුරින් වූ දකුණු මුහුදු ප්‍රදේශයේ දී මෙම විශේෂ සෝදිසි මෙහෙයුම දියත් කර තිබුණි.
+The Sri Lanka Navy had launched a search operational in the South Sea, about 100 nautical miles (about 185 km) from the South Sea.
+
+The suspects were arrested along with another multi-day fishing vessel and other multi-day fishing vessel suspected to be transported by 45 km of heroin.
 
 ...
 
@@ -320,13 +349,15 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 [Extended Data](ext_articles/3068cf2d.ext.json)
 
 ---
-### ගනේමුල්ලේ සංජීවගේ විමර්ශන මැද්දට පැන්න කාන්තාව අල්ලස් දෙන්න යයි - හඬපට එළියට
+### Woman to bribe the bribe of Sanjeewa in Ganemulla - Arrested in the voice
 
 *2024-01-20 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192364) · `si`
 
-සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු සහ ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ගනේමුල්ල සංජීවගේ මත්ද්‍රව්‍ය ජාවාරම් පිළිබඳ මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් විසින් සිදුකරනු ලබන විමර්ශනයකට අදාළව මාකිලංගමුව ප්‍රදේශයේ නිවසක් පරීක්ෂා කිරීමට ගොස් තිබේ.
+The Narcotics Bureau of Narcotics Branch has gone to inspect a review of the Narcotics Bureau of Narcotics Bureau, Ganejawa's drug dealer and a powerful drug dealer, Ganelagawa's drug dealer.
 
-එහිදී ගනේමුල්ල සංජීවගේ ඥාතියෙකු වෙනුවෙන් පෙනී සිටින නීතිඥවරියක් බවට සඳහන් කරන කාන්තාවක් නිලධාරින් සිටින ස්ථානයට පැමිණ අදාළ නිවස පරික්ෂා නොකරන ලෙසට එම නිලධාරීන්ගෙන් ඉල්ලා ඇතැයි අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කරයි.
+According to internal sources, a lawyer who is speaking to A lawyer who is speaking to Sanjeewa relatives of Ganemulla has come to the station.
+
+The lawyer involved in the incident is a resident of Gampaha area and has also tried to bribilize a bribe after the lawyer's attempt was failed.
 
 ...
 
@@ -335,11 +366,13 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 [Extended Data](ext_articles/632b7c54.ext.json)
 
 ---
-### இ.தொ.காவின் முக்கிய உறுப்பினர் காலமானார்
+### The main member of the CWC has passed away
 
 *2024-01-20 17:52:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-காவின்-முக்கிய-உறுப்பினர்-காலமானார்/76-331848) · `ta`
 
-இலங்கை தொழிலாளர் காங்கிரஸின் முக்கிய உறுப்பினரும், ஊவா மாகாண சபை முன்னாள் உறுப்பினருமான ஆறுமுகம் கணேசமூர்த்தி திடீர் உடல்நலக் குறைவால் இன்று காலை வெளிமடை பொது வைத்தியசாலையில் சிகிச்சைக்காக கொண்டு செல்லப்பட்ட போது காலமானார்.
+Arumugam Ganesamoorthy, a prominent member of the Ceylon Workers Congress and a former member of the Uva Provincial Council, passed away when he was taken to the outdoor public hospital this morning for treatment.
+
+He is a member of the Lunugala Pradeshiya Sabha and a member of the Lunugala Pradeshiya Sabha through the Ceylon Workers Congress and a member of the former Uva Provincial Council.
 
 ...
 
@@ -348,7 +381,7 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 [Extended Data](ext_articles/d9ab419f.ext.json)
 
 ---
-### சிரியாவில் தாக்குதலொன்றில் நான்கு ஈரான் இராணுவ அதிகாரிகள் பலி - இஸ்ரேல் மீது குற்றச்சாட்டு
+### Four Iranian military officials killed in attack in Syria
 
 *2024-01-20 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174411) · `ta`
 
@@ -406,17 +439,17 @@ The Second Reading of the Online Safety Bill is scheduled for January 23 and 24,
 [Extended Data](ext_articles/426f171c.ext.json)
 
 ---
-### පීලි අලුතෙන් දානකම් දුම්රිය මාර්ග අවදානම්
+### Rate of tracks railway risks
 
 *2024-01-20 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192363) · `si`
 
-2023 වර්ෂයේදී දුම්රිය පීලිපැනීම් 110ක් සිදුවී ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+The Railway Department says that 110 train deals have taken place in 2023.
 
-එම දෙපාර්තමේන්තුව සඳහන් කළේ දුම්රිය මාර්ග 57ක පීලිපැනීම් සිදුවී ඇති අතර අනෙක් පීලිපැනීම් 53 සිදුවී ඇත්තේ අංගනවල බවය.
+The department stated that 57 railway lines had taken place while 53 derails had taken place in yards.
 
-උඩරට දුම්රිය මාර්ගයේ පීලිපැනීම් 26ක් සිදුවී ඇති අතර ඔක්තොම්බර් සහ දෙසැම්බර් මාසයේ පීලිපැනීම් 06 බැගින් සිදුවී ඇති බව ද සඳහන් ය.
+There were 26 dealers on the Upcountry Railway Line and six dealers were taken in October and December.
 
-මේ අතර ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය බන්දුල ගුණවර්ධන මහතා සඳහන් කළේ,
+Meanwhile, Minister of Transport and Highways Bandula Gunawardena stated,
 
 ...
 
@@ -440,17 +473,19 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 [Extended Data](ext_articles/68fc4b99.ext.json)
 
 ---
-### සඳ මතට ගොඩබෑ ජපන් 'මූන් ස්නයිපර්' අර්බුදයක
+### Japanese 'Moon Sniper' crisis on the moon
 
 *2024-01-20 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192362) · `si`
 
-ජපාන සඳ තරණ මෙහෙයුම යටතේ අභ්‍යාවකාශ ගත කෙරුණු මූන් ස්නයිපර් ලෑන්ඩරය සඳ මතට ගොඩබැස්සවීමට ජපානය ඊයේ  සමත්විය.
+Japan was passed over the Moon Sniper Landland of the moon under the Japanese Moon Star.
 
-ජපානයේ මූන් සනයිපර් සඳ තරණ මෙහෙයුම යටතේ මූන් සනයිපර් ලෑන්ඩරය රැගත් රොකට්ටුව අභ්‍යාවකාශ ගත කෙරුණේ පසුගිය වසරේ සැප්තැම්බර් මාසයේ දී ය.
+Japan's Moon Saniper The rocket carrying the Moon Saniper Landshera was passed in September last year.
 
-ඒ අනුව,  මූන් සනයිපර් ලෑන්ඩරය චන්ද්‍රයා මත සාර්ථකව ගොඩ බැස්සවීමට ජපානය ඊයේ සමත් වුණි.
+Accordingly, Japan was passed yesterday to landing the Moon Saniper Lander successfully.
 
-සමකය ආසන්නේ ආගාධයක් මතට මෙලෙස යානය ගොඩ බැස්සවූ බව විදෙස් වාර්තා පෙන්වා දෙයි.
+Foreign reports indicate that the plane was landed on a pigment.
+
+The first time this Japan was landed on the moon, and the fifth country was landed on Japan's moon.
 
 ...
 
@@ -474,15 +509,15 @@ ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy Kanchana Wijesekera h
 [Extended Data](ext_articles/be1e7bf8.ext.json)
 
 ---
-### යුක්‍රේනයෙන් රුසියාවට තවත් ප්‍රහාරයක්
+### Another attack on Russia from Ukraine
 
 *2024-01-20 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192361) · `si`
 
-රුසියාවේ ඉන්ධන ගබඩාවකට එල්ලවූ යුක්‍රේන ඩ්‍රෝන ප්‍රහාරකියන් දරුණු ගින්නක් හටගෙන තිබූ බව විදෙස් වාර්තා පවසයි.
+According to foreign reports, Ukrainian drone drones on a fuel storage in Russia had erupted.
 
-වර්ග කිලෝමීටර දහසක වපසරියක් පුරා ගින්න පැතිර ගිය බව රුසියාව සඳහන් කර තිබේ.
+Russia states that the fire was spread throughout a thousand square kilometers.
 
-මේ දින දෙකක් තුළදී රුසියානු ඉන්ධන ගබඩාවකට එල්ලවූ දෙවන යුක්‍රේන ප්‍රහාරය යි.
+During these two days the second Ukrainian attack on a Russian fuel storage.
 
 ◼️
 
@@ -491,15 +526,15 @@ ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy Kanchana Wijesekera h
 [Extended Data](ext_articles/019cb719.ext.json)
 
 ---
-### செந்ாில் தொண்டமானை வாழ்த்தினார் வைரமுத்து
+### Vairamuthu congratulated Thondaman in Senal
 
 *2024-01-20 16:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்ாில்-தொண்டமானை-வாழ்த்தினார்-வைரமுத்து/175-331847) · `ta`
 
-கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் அன்று மகாகவி பாரதியார் சொன்னதை இன்று நடைமுறைப்படுத்தி வருகிறார் என கவிஞர் வைரமுத்து வாழ்த்து தெரிவித்துள்ளார்.
+The poet Vairamuthu congratulates the Governor of the Eastern Province Senthil Thondaman on the fact that Mahakavi Bharatiyar said today.
 
-மேலும் கவிஞர் வைரமுத்து, தமிழ் பாரம்பரியத்தை மீட்டெடுத்த ஆளுநர் செந்தில் தொண்டமானை அகமகிழ்ந்து பாட்டெடுத்து வாழ்த்துவதாக தனது டுவிட்டர் பதிவில் தெரிவித்துள்ளார்.
+The poet Vairamuthu also said in his Twitter post that Governor Senthil Thondaman, who recovered the Tamil heritage, congratulated him.
 
-இலங்கை கிழக்கு மாகாணத்தின் மேதகு ஆளுநர் செந்தில் தொண்டமான் அன்பின் நிமித்தமாய் இல்லம் வந்தார்
+Governor of the Eastern Province of Sri Lanka Senthil Thondaman came home for love
 
 ◼️
 
@@ -508,15 +543,15 @@ ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy Kanchana Wijesekera h
 [Extended Data](ext_articles/131427ba.ext.json)
 
 ---
-### செந்தில் தொண்டமானை வாழ்த்தினார் வைரமுத்து
+### Vairamuthu congratulated Senthil Thondaman
 
 *2024-01-20 16:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்தில்-தொண்டமானை-வாழ்த்தினார்-வைரமுத்து/175-331847) · `ta`
 
-கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் அன்று மகாகவி பாரதியார் சொன்னதை இன்று நடைமுறைப்படுத்தி வருகிறார் என கவிஞர் வைரமுத்து வாழ்த்து தெரிவித்துள்ளார்.
+The poet Vairamuthu congratulates the Governor of the Eastern Province Senthil Thondaman on the fact that Mahakavi Bharatiyar said today.
 
-மேலும் கவிஞர் வைரமுத்து, தமிழ் பாரம்பரியத்தை மீட்டெடுத்த ஆளுநர் செந்தில் தொண்டமானை அகமகிழ்ந்து பாட்டெடுத்து வாழ்த்துவதாக தனது டுவிட்டர் பதிவில் தெரிவித்துள்ளார்.
+The poet Vairamuthu also said in his Twitter post that Governor Senthil Thondaman, who recovered the Tamil heritage, congratulated him.
 
-இலங்கை கிழக்கு மாகாணத்தின் மேதகு ஆளுநர் செந்தில் தொண்டமான் அன்பின் நிமித்தமாய் இல்லம் வந்தார்
+Governor of the Eastern Province of Sri Lanka Senthil Thondaman came home for love
 
 ◼️
 
@@ -525,15 +560,15 @@ ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy Kanchana Wijesekera h
 [Extended Data](ext_articles/2acb47f1.ext.json)
 
 ---
-### நாரம்மல சம்பவம்; பொலிஸ் அதிகாரிகளுக்கு பறந்த அதிரடி உத்தரவு
+### Naramala incident;Action order to fly to police officers
 
 *2024-01-20 16:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாரம்மல-சம்பவம்-பொலிஸ்-அதிகாரிகளுக்கு-பறந்த-அதிரடி-உத்தரவு/175-331846) · `ta`
 
-இனிவருங்காலங்களில் பொலிஸ் உத்தியோகத்தர்கள் சிவில் உடையில் வாகன சோதனையில் ஈடுபட முடியாது என இலங்கை பொலிஸ் அதிகாரிகளுக்கு பதில் பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் இன்று இந்த உத்தரவு பிறப்பித்துள்ளார்.
+Police Inspector Deshable Tennakoon today issued the order in response to Sri Lankan police officers that police officers cannot engage in vehicle inspections in civil clothes.
 
-நாரம்மலவில் லொறி சாரதி ஒருவர் சிவில் உடையில் இருந்த பொலிஸ் உத்தியோகத்தரால் சுட்டுக்கொல்லப்பட்டதை அடுத்து இந்த அறிவுறுத்தல்கள் வந்துள்ளன.
+These instructions have come after a lorry driver in Naramala was shot dead by a police officer in a civil clothes.
 
-மூன்று பிள்ளைகளின் தந்தையான 40 வயதான லொறி சாரதி, சிவில் உடையில் இருந்த நாரம்மல பொலிஸ் உத்தியோகத்தர் ஒருவரால் சுட்டுக் கொல்லப்பட்டார்.
+The 40 -year -old lorry driver, the father of three children, was shot dead by a civilian police officer in a civilian dress.
 
 ...
 
@@ -572,13 +607,15 @@ He told a news conference that the Samagi Jana Balawegaya is perturbed over the 
 [Extended Data](ext_articles/f69230bb.ext.json)
 
 ---
-### මෙරට ඇඟලුම් ක්ෂේත්‍රයට අලුත් අවස්ථාවක්
+### New in Sri Lanka's apparel industry
 
 *2024-01-20 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192359) · `si`
 
-උගන්ඩාවේ කම්පාලා නුවර පැවැත්වෙන නොබැඳි ජාතීන්ගේ සමුළුවට සමගාමීව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ බෙනින් රාජ්‍යයේ උප ජනාධිපති මාරියම් චාබි තලතා (Mariam Chabi Talata) මහත්මිය අතර ද්විපාර්ශ්වික සාකච්ඡා පවත්වා තිබේ.
+President Ranil Wickremesinghe and Benin's Vice President Marium Chabi Talata have been held in parallel to the Non-Aligned Summit in Kampala, Uganda.
 
-ශ්‍රී ලංකාව සහ බෙනින් රාජ්‍ය අතර රාජ්‍ය තාන්ත්‍රික සබඳතා 2012 වසරේදී ආරම්භ කෙරුණු අතර දෙරට අතර පවත්නා ආර්ථික සහ වෙළෙඳ සබඳතා තවදුරටත් පුළුල් කරගැනීම පිළිබඳ මෙම සාකච්ඡාවේදී වැඩි අවධානයක් යොමුවී ඇත.
+Diplomatic relations between Sri Lanka and Benin were launched in 2012 and the two-country further focuses on further expanding existing economic and trade relations.
+
+Benin Vice President has also invited the President to direct Sri Lankan investors to invest in the cotary exporter of the Benin State, a major cotton exporter.
 
 ...
 
@@ -600,28 +637,32 @@ A review meeting was conducted on Friday (Jan.19) at the President’s Office, c
 [Extended Data](ext_articles/84a0f77c.ext.json)
 
 ---
-### பொலிஸாருக்கு பறந்த புதிய உத்தரவு
+### The new order flew to the police
 
 *2024-01-20 15:52:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-பறந்த-புதிய-உத்தரவு/175-331845) · `ta`
 
-பொலிஸ் உத்தியோகத்தர்கள் சிவில் உடையில் கடமையாற்றும் போது சோதனை செய்வதற்காக  வாகனங்களை நிறுத்த வேண்டாம் என அறிவுறுத்தியுள்ளதாக பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தெரிவித்துள்ளார்.
+Police Officers have advised the police not to stop the vehicles for checking when they work in civil clothes.
 
-புதிய அறிவுறுத்தல்கள் அனைத்து பொலிஸ் நிலையங்களுக்கும் நேற்று (19) அனுப்பி வைக்கப்பட்டுள்ளதாக அவர் கூறினார்.
+He said the new instructions were sent to all police stations yesterday (19).
 
-...
+கடந்த 18ஆம் திகதி நாரம்மல பிரதேசத்தில் பொலிஸ் உத்தியோகத்தர் ஒருவரின் துப்பாக்கிச் சூட்டில் சாரதி ஒருவர் உயிரிழந்ததை அடுத்து, இந்த புதிய அறிவுறுத்தல் வழங்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார். (Of)
+
+◼️
 
 [Data](articles/d1c65e0f.json)
 
 [Extended Data](ext_articles/d1c65e0f.ext.json)
 
 ---
-### சபாநாயகருக்கு சஜித் கடிதம்
+### Sajith letter to Speaker
 
 *2024-01-20 15:49:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-சஜித்-கடிதம்/175-331844) · `ta`
 
-நிகழ்நிலை காப்பு சட்டமூலத்தை இரண்டு நாட்களுக்கு விவாதத்துக்கு எடுத்துக் கொள்ளாது பொதுமக்களுடன் கலந்துரையாடி, மனித உரிமைகள் பாதுகாக்கப்படும் வகையில் இச்சட்டமூலம் அமுல்படுத்தப்பட வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கோரிக்கை விடுத்துள்ளார்.
+Opposition Leader Sajith Premadasa has demanded that the law be implemented by the public in consultation with the public and in consultation with the public, which is not taken up for two days.
 
-நிகழ்நிலை காப்பு சட்டமூலம் தொடர்பில் சபாநாயகருக்கு அனுப்பியுள்ள விசேட கடிதத்தில் இந்த கோரிக்கையை விடுத்துள்ளதாக ஊடகங்களுக்கு சஜித் பிரேமதாச கூறியுள்ளார்.
+Sajith Premadasa has told the media that this request has been issued in a special letter sent to the Speaker regarding the Celebration Bill.
+
+“In the name of the Ceremony Backup Bill, imperialism, dictatorship is a violation of the human rights of 220 lakhs of individuals.
 
 ...
 
@@ -630,30 +671,34 @@ A review meeting was conducted on Friday (Jan.19) at the President’s Office, c
 [Extended Data](ext_articles/4f25b7c3.ext.json)
 
 ---
-### බුද්ධි තොරතුරකින් රු. කෝටියක බීඩි කොල අත්අඩංගුවට
+### Intelligence information. Beeddy Kole arrested
 
 *2024-01-20 15:30:11* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-තොරතුරකින්-රු--කෝටියක-බීඩි-කොල-අත්අඩංගුවට/11-407632) · `si`
 
-යුද හමුදා බුද්ධි තොරතුරක් අනුව ඉන්දියාවේ සිට නීතිවිරෝධී අයුරින් ශ්‍රී ලංකාවට ගෙන්වන ලද බවට සැක කෙරෙන බීඩි කොල කිලෝ ග්‍රෑම් 2170ක් අත්අඩංගුවට ගැනීමට යුද්ධ හමුදා බුද්ධි අංශය හා මීගමුව අපරාධ කොට්ඨාසයේ මත්ද්‍රව්‍ය නාශක අංශය සමත්ව තිබේ.
+The Army Intelligence Division and the Narcotics Division of the Negombo Buddhist Union have been arrested by the army intelligence and the Negombo Criminal Division.
 
-යුධ හමුදා බුද්ධි අංශය විසින් ලබාදෙන ලද තොරතුරකට අනුව එම බීඩි කෙළ තොගය බෝපිටිය ප්‍ර දේශයේ රහසිගතව සඟවා තිබියදී අත්අඩංගුවට ගෙන තිබේ.
+According to information received by the Army Intelligence Unit, the stock has been arrested while the stock was hidden in the land of the country.
 
-...
+The market value of these illegal cargo market is an expertise of Rs.
+
+◼️
 
 [Data](articles/00126640.json)
 
 [Extended Data](ext_articles/00126640.ext.json)
 
 ---
-### ඩෙටනේටර් සහ වෙඩිබෙහෙත් සමග කාන්තාවක් අත්අඩංගුවට
+### Woman arrested with Detonator and Vedibodi
 
 *2024-01-20 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192358) · `si`
 
-පුපුරණ ද්‍රව්‍ය සිය යට ඇඳුම් තුළ සඟවාගෙන රැගෙන යමින් සිටි කාන්තාවක් කොටවෙහෙර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Kotawehera police have arrested a woman who was hiding explosives in its underwear.
 
-ඒ කොටවෙහෙර පලුගස් හන්දියේදී මාර්ග බාධක යොදා සිදුකළ පරීක්ෂා කිරීමකදීය.
+It was during the examination of road barriers at Palugas Junction at the Kotawehera.
 
-කොටවෙහෙර, පලුගස් හන්දිය ප්‍රදේශයේදී පොලීසිය, පොලිස් විශේෂ කාර්ය බළකාය හා එක්වී පොලිස් නිල සුනඛයන් යොදා දුරගමන් සේවා බස් රථ පරීක්ෂා කිරීමක් ඊයේ (19) සිදුකර තිබුණි.
+Police have conducted a bus inspection of a far-reaching bus inspection using police officers and police officers in Kotawehera, Kotawehera.
+
+A woman on a bus had been found in her underwear, 165 grams of black shot, 605 grams of black shot and a 10-foot-long service string.
 
 ...
 
@@ -677,15 +722,17 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 [Extended Data](ext_articles/a165054c.ext.json)
 
 ---
-### திருச்சி ஸ்ரீரங்கம் கோவிலுக்கு விஜயம் செய்த முதல் இந்திய பிரதமர் மோடி
+### Modi's first Indian Prime Minister to visit Srirangam Temple in Trichy
 
 *2024-01-20 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/174389) · `ta`
 
-தமிழ்நாட்டுக்கு மூன்று நாள் சுற்றுப்பயணம் மேற்கொண்டுள்ள இந்திய பிரதமர் நரேந்திர மோடி இன்று சனிக்கிழமை (20) திருச்சி ஸ்ரீரங்கம் ரங்கநாதர் கோவிலுக்கு விஜயம் செய்துள்ளார்.
+Indian Prime Minister Narendra Modi, who is on a three -day tour of Tamil Nadu, visited the Srirangam Ranganathar Temple on Saturday (20).
 
-அந்த வகையில், ஸ்ரீரங்கம் கோவிலுக்கு வருகை தந்து சுவாமி தரிசனம் செய்த முதல் இந்திய பிரதமர் என்கிற பெருமையை நரேந்திர மோடி பெற்றுள்ளார்.
+Narendra Modi is the first Indian Prime Minister to visit the Srirangam temple and the first Indian Prime Minister.
 
-1947ஆம் ஆண்டில் இந்தியா சுதந்திரம் பெற்ற பின்னர், ஜவஹர்லால் நேரு இந்திய நாட்டின் முதல் பிரதமரானார்.
+After India became independent in 1947, Jawaharlal Nehru became the first Prime Minister of India.
+
+From Nehru to the current Narendra Modi, 15 people have held the post of Prime Minister of India.
 
 ...
 
@@ -694,11 +741,13 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 [Extended Data](ext_articles/1e40f7fd.ext.json)
 
 ---
-### හෙරොයින් කිලෝ 60ක් නාවික හමුදා භාරයට
+### Navy bears 60 kilos of heroin
 
 *2024-01-20 15:00:35* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-කිලෝ-60ක්-නාවික-හමුදා-භාරයට/11-407631) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාව,  දෙවුන්දර තුඩුවේ සිට නාවික සැතපුම් 100 ක් පමණ (කිලෝමීටර් 185 ක් පමණ) දුරින් වූ දකුණු මුහුදු ප්‍රදේශයේ සිදුකල විශේෂ මෙහෙයුමක් මඟින්, හෙරොයින් බවට සැකකෙරෙන මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 60 කට අධික තොගයක් සහිත උර තුනක් (03) ප්‍රවාහනය කරමින් තිබූ මෙරට බහුදින ධීවර යාත්‍රාවක් (01) සහ ඊට සහය වූ බවට සැක කෙරෙන තවත් බහුදින ධීවර යාත්‍රාවක් (01) සමඟ සැකකරුවන් එකොළොස් දෙනෙකු (11) අත්අඩංගුවට ගෙන, අද දින (2024 ජනවාරි 20) උදෑසන ගාල්ල වරාය වෙත රැගෙන ඒමට කටයුතු කෙරිණි.
+Sri Lanka Navy has taken a multi-day fishing in the South Sea area where the heroin was suspected of heroin in a distance of Rs.Troops of the Galle Harbor (11 January 20) was taken to the Galle Harbor (January 20) morning (Jan. 20).
+
+The navy conducting constant operations in Sri Lanka is conducting constant operations to achieve the national ambition of the country's marine region to achieve the national ambition of the drug.
 
 ...
 
@@ -707,11 +756,24 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 [Extended Data](ext_articles/8587da60.ext.json)
 
 ---
-### மன்னாரில் கோர விபத்தை ஏற்படுத்திய சாரதியை காப்பாற்றிய பொலிஸார்?
+### නාවික හමුදා නිලධාරියාගෙන් නව වාර්තාවක්
+
+*2024-01-20 14:53:14* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදා-නිලධාරියාගෙන්-නව-වාර්තාවක්/11-407630) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාවේ නායක ඉංජිනේරු කාර්මික ආර්පී සමන් කුමාර සිරිවර්ධන දින 07 යි පැය 11 යි මිනිත්තු 17 යි තත්පර 14 කින් කිලෝමීටර් 586.1 ක්, පූනෑව සිට කොළඹ නිදහස් චතුරශ්‍රය දක්වා පැමිණ නැවත පූනෑව දක්වා ගමන් කර, නව ශ්‍රී ලංකා වාර්තාවක් පිහිටුවීමට 2024 ජනවාරි මස 19 වන දින  සමත් විය.
+
+...
+
+[Data](articles/382a4424.json)
+
+[Extended Data](ext_articles/382a4424.ext.json)
+
+---
+### Police rescued the driver who caused an accident in Mannar?
 
 *2024-01-20 14:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-கோர-விபத்தை-ஏற்படுத்திய-சாரதியை-காப்பாற்றிய-பொலிஸார்/72-331843) · `ta`
 
-மன்னார் - யாழ்ப்பாணம் பிரதான வீதி, பள்ளமடு பகுதியில் நேற்று(19) இரவு 7.30 மணியளவில் இடம்பெற்ற விபத்தில் இளம் குடும்பஸ்தர் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்ததுடன், மேலும் ஒருவர் படுகாயமடைந்துள்ளார்.
+A young family member died on the spot and another injured in an accident which occurred at around 7.30 pm last night in the Mannar -Jaffna main road.
 
 இந்த நிலையில், சம்பவ இடத்திற்கு வருகை தந்த இலுப்பைக் கடவை பொலிஸ் நிலைய பொறுப்பதிகாரி உள்ளிட்ட பொலிஸார் சம்பவ இடத்தில் இருந்த மக்கள் மீது கடுமையாக தாக்கியதுடன், விபத்தை ஏற்படுத்திய பேருந்தையும், அதன் சாரதியையும் காப்பாற்றிச் சென்றுள்ளதாக பாதிக்கப்பட்டவர்கள் தெரிவித்துள்ளனர்.
 
@@ -737,13 +799,13 @@ It is reported that the surgeon could serve until the age of 63 according to the
 [Extended Data](ext_articles/645067ec.ext.json)
 
 ---
-### மின்சார சபை ஊழியர்கள் 66 பேர் பணி நீக்கம்
+### 66 Electricity Board employees dismissed
 
 *2024-01-20 14:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-ஊழியர்கள்-66-பேர்-பணி-நீக்கம்/175-331842) · `ta`
 
-மின்சார சபையில் பணிநீக்கம் செய்யப்பட்ட ஊழியர்களின் எண்ணிக்கை 15 இலிருந்து 66 ஆக உயர்வடைந்துள்ளது.
+The number of employees fired at the Electricity Board has risen from 15 to 66.
 
-மின்சார சபையை மறுசீரமைப்பு செய்வதற்கு எதிர்ப்பு தெரிவித்து ஆர்ப்பாட்டத்தில் ஈடுபட்ட ஊழியர்களே இவ்வாறு பணிநீக்கம் செய்யப்பட்டுள்ளதாக மின்சார சபை அறிவித்துள்ளது.  R
+The Electricity Board (CEB) has announced that the demonstration employees have been fired.R
 
 ◼️
 
@@ -792,7 +854,9 @@ The group of suspects comprising three males and three females are believed to h
 
 පුත්තලම - දළුව - නිර්මලපුර - නාවක්කාඩු මාර්ගය සංවර්ධනය කිරීමේ මූලික රැස්වීමට එක්වීමට ඊයේ (19) එම ප්‍රදේශයට ගිය රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාට එම ස්ථානයට නොගොස් ආපසු හැරී යාමට සිදු විය.
 
-පුත්තලම - දළුව ප්‍රදේශයේ පිහිටි නිර්මලපුර - නාවක්කාඩු මාර්ගය ප්‍රතිසංස්කරණය කිරීම සඳහා ලෝක බැංකු ආධාර මත සංවර්ධන ව්‍යාපෘතියක් ආරම්භ කර තිබිණි.
+A development project has been launched on World Bank aid to rehabilitate the Nirmalapura and Nawakadu road in Puttalam - Daluwa area.
+
+A parliamentary discussion was held in Duluwa, Minister of State Sanath Nishantha, and the major phase of the road to develop the road carpet.
 
 ...
 
@@ -814,15 +878,17 @@ President Ranil Wickremesinghe participated in bilateral discussions with variou
 [Extended Data](ext_articles/0d4786a2.ext.json)
 
 ---
-### පස් චණ්ඩි පහර දුන් හෝටලයේ හිමිකරුවන්ට තවත් අර්බුදයක්
+### Another crisis to the owners of the five five
 
 *2024-01-20 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192355) · `si`
 
-පාදුක්ක ප්‍රදේශයේදී පුද්ගලයන් දෙදෙනෙකු කලහකාරී ලෙස හැසිරීම හේතුවෙන් අලාභහානියට පත් වූ ආපණ ශාලාවේ හිමිකාරියට එම ස්ථානයෙන් ඉවත් වීමට සිදු ව තිබේ.
+The owner of the restaurant resident had to leave due to injustice due to the behavior of two persons in the Padukka area.
 
 ඔවුන් පවසන්නේ, තම ආපණ ශාලාවට පහරදුන් පුද්ගලයින්ගේ බලපෑම මත තමන්ට එම වෙළෙඳසලෙන් මෙන්ම තමන් රැඳී සිටි කුලී නිවසෙන් ද පිට ව යාමට සිදු ව ඇති බවය.
 
-වෙළෙඳසලෙන් ඉවත්ව යන ලෙස කළ දැනුම්දීමෙන් පසු ඔවුහු අද එහි තිබූ භාණ්ඩ ඉවත්කර ගැනීමට කටයුතු කළහ.
+After notifying the shop, they took steps to remove the goods in it today.
+
+Padukka - Angampe, Angampitiya, a resident of the Angampitiya, attacked the owners on the 18th and claimed that he had no possessions.
 
 ...
 
@@ -848,13 +914,15 @@ On Thursday (18 Jan.), a lorry driver aged 41 was killed after a police officer 
 [Extended Data](ext_articles/4444732c.ext.json)
 
 ---
-### සජිත්ගෙන් කථානායකට ලිපියක්
+### Sajith letter from a speaker
 
 *2024-01-20 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192354) · `si`
 
-මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත විවාදයට ගැනීම කල් දමන ලෙස ඉල්ලා විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා විසින් කථානායක මහින්ද යාපා අබේවර්ධන මහතා වෙත ලිපියක් යොමුකර තිබේ.
+Opposition Leader Sajith Premadasa has sent a letter to Speaker Mahinda Yapa Abeywardena asks for the debate of the security of online methods.
 
-එමඟින් විපක්ෂ නායකවරයා පෙන්වා දී ඇත්තේ මෙම පනත මේ මොහොතේ සම්මත වුවහොත් එමඟින් ස්ථාපිත කිරීමට යෝජිත කොමිෂන් සභාවට සහ විෂය භාර අමාත්‍යවරයාට අසීමිත බලයක් හිමිවන බවය.
+The Opposition Leader has pointed out that if the bill is passed at the moment, the Minister in charge of the proposed Commission and the subject of the subject will have unlimited power to establish it.
+
+The Opposition Leader has referred to the Speaker by demanding the debate on the safety methods of debating on 23 and 24.
 
 ...
 
@@ -878,13 +946,15 @@ These new guidelines were distributed to all police stations yesterday.
 [Extended Data](ext_articles/72bfef05.ext.json)
 
 ---
-### ජනපති අප්‍රිකානු කලාපයේ නායකයන් සමඟ සාකච්ඡාවක
+### President's President in a discussion with the leaders of the African region
 
 *2024-01-20 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192353) · `si`
 
-උගන්ඩාවේ කම්පාලා නුවර පැවැත්වෙන නොබැඳි ජාතීන්ගේ සමුළුවට සමගාමී ව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අප්‍රිකානු කලාපයේ සිටින ගෝලීය දකුණේ රටවල නායකයන් සහ නියෝජිතයන් කිහිප දෙනෙකු සමඟ ඊයේ (19) ද්විපාර්ශ්වික සාකච්ඡාවල නිරත විය.
+President Ranil Wickremesinghe has held bilateral talks with several leaders and representatives in the African region of the African region of the African region of Uganda.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ දකුණු අප්‍රිකානු ජනාධිපති සිරිල් රමපෝසා (Cyril Ramaphosa) මහතා අතර හමුවක් ඊයේ (19) පස්වරුවේ පැවැත්විණි.
+President Ranil Wickremesinghe and South African President Cyril's President Cyril Ramaphosa held yesterday (19th).
+
+The President of the South African President is very friendly and is very friendly and has joined the two bilateral discussions.
 
 ...
 
@@ -893,13 +963,13 @@ These new guidelines were distributed to all police stations yesterday.
 [Extended Data](ext_articles/f73070a7.ext.json)
 
 ---
-### විශේෂ රථවාහන සැලසුමක්
+### Special traffic plan
 
 *2024-01-20 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192352) · `si`
 
-කැලණිය රජමහා විහාරස්ථානයේ දුරුතු මහා පෙරහර හේතුවෙන් රථවාහන ගමනාගමනය සීමා කර තිබේ.
+Motor Traffic has been restricted due to the Duru Maha Perahera of the Kelaniya Rajamaha Viharaya.
 
-පෙරහර, ලබන 24 වනදා රාත්‍රී 08.00 සිට පසු දින අලුයම 03.00 දක්වා වීථි සංචාරය කිරීමට නියමිතයි.
+Perahera is scheduled to visit the streets until the 24th of the next morning.
 
 ◼️
 
@@ -938,15 +1008,19 @@ The new President of the College of Physicians Upul Dissanayake told fellow doct
 [Extended Data](ext_articles/569825e7.ext.json)
 
 ---
-### காசாவில் மரணித்தவர்களையும் நிம்மதி இழக்கச்செய்யும் இஸ்ரேலிய படையினர் – 16 மயானங்கள் அழிப்பு – சிஎன்என்
+### Israeli soldiers who have lost their lives in Gaza
 
 *2024-01-20 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174386) · `ta`
 
-காசாவில் இஸ்ரேலிய படையினர் 16க்கும் மேற்பட்ட மயானங்களை அழித்துள்ளதை காண்பிக்கும் வீடியோக்கள் கிடைத்துள்ளதாக சிஎன்என் தெரிவித்துள்ளது
+CNN has reportedly received videos that show that Israeli soldiers have destroyed more than 16 cemetery in Gaza
 
-கல்லறைக்கற்கள் அழிக்கப்பட்டுள்ளன மண் கிளறப்பட்டுள்ளது சில சந்தர்ப்பங்களில் உடல்கள் தோண்டி எடுக்கப்பட்டுள்ளன என சிஎன்என் தெரிவித்துள்ளது.
+CNN said that the bodies have been excavated in some cases.
 
-இந்த வாரம் மோதல்கள் தீவிரமடைந்துள்ள கான்யூனிசில் இஸ்ரேலிய படையினர் மயானத்தை அழித்து உடல்களை தேடியுள்ளனர்.
+Israeli soldiers have destroyed the cemetery and searched the bodies this week.
+
+The Israeli security forces have said that this has been a part of the Find to find those caught by Hamas.
+
+Sinn has said that the cemetery has been destroyed and has been investigating the pictures and social media films.
 
 ...
 
@@ -972,15 +1046,17 @@ He added that 6,689 cases of dengue have been reported in the last 18 days of th
 [Extended Data](ext_articles/916aa839.ext.json)
 
 ---
-### துப்பாக்கி பிரயோகத்தில் உயிரிழந்த சாரதிக்கு இழப்பீடு
+### Compensation for driver who died in shooting
 
 *2024-01-20 12:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-உயிரிழந்த-சாரதிக்கு-இழப்பீடு/175-331841) · `ta`
 
-பொலிஸ் உத்தியோகத்தரின் துப்பாக்கி பிரயோகத்தில் உயிரிழந்த லொறி சாரதியின் உறவினர்களுக்கு ஒரு மில்லியன் ரூபாய் நட்ட ஈட்டை பொலிஸார் வழங்கியுள்ளனர்.
+The police have provided a million rupees of loss to the relatives of the lorry driver who died in the shooting of the police officer.
 
-சாரதியின் அலவ்வ பகுதியில் உள்ள வீட்டில் வைத்து பதில் பொலிஸ் மா அதிபர் தேஷ்பந்து தென்னகோன் இந்தத் தொகையை வழங்கி உள்ளார்.
+In response to the house in the driver's Alawa area, the Inspector General of Police Deshpandu Tennakoon has paid the amount.
 
-கடந்த 18 ஆம் திகதி பிற்பகல் நாரம்மல பகுதியில் முன்னெடுக்கப்பட்ட வாகன சோதனை நடவடிக்கையின் போது, பொலிஸாரின் துப்பாக்கிப் வெடித்தில் சாரதி உயிழந்தார்.
+During a vehicle inspection carried out in the Naramala area on the afternoon, the driver fell into a police fire.
+
+The father of three children aged 41 from Maharachchiyamulla died in the incident.
 
 ...
 
@@ -989,15 +1065,15 @@ He added that 6,689 cases of dengue have been reported in the last 18 days of th
 [Extended Data](ext_articles/40660186.ext.json)
 
 ---
-### පොලිස් නිලධාරින්ට නව උපදෙස් මාලාවක්
+### New set of instructions to police officers
 
 *2024-01-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192351) · `si`
 
-පොලිස් නිලධාරින් සිවිල් ඇඳුමින් රාජකාරි සිදු කරන අවස්ථාවල දී පරීක්‍ෂා කිරීම් සඳහා රථවාහන නැවැත්වීට කටයුතු නොකරන ලෙසට තමන් නව උපදෙස් මාලාවක් ලබා දුන් බව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+Acting IGP Tennakoon says he has given a new set of instructions not to stop traffic in civilian dress.
 
-එම නව උපදෙස් මාලාව ඊයේ (19) දිනයේ සියලුම පොලිස් ස්ථානවලට යොමු කළ බව ඒ මහතා පැවසීය.
+The new set of instructions were sent to all police stations yesterday.
 
-පසුගිය 18 වනදා නාරම්මල ප්‍රදේශයේ දී පොලිස් නිලධාරියෙකු සිදු කළ වෙඩි තැබීමකින් රියදුරෙකු මිය යාමත් සමඟ මෙම නව උපදෙස් මාලාව ලබා  දුන් බව ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේ ය.
+He added that the new training was given to the death of a driver in the Narammala area on the 18th.
 
 ◼️
 
@@ -1006,15 +1082,15 @@ He added that 6,689 cases of dengue have been reported in the last 18 days of th
 [Extended Data](ext_articles/e2c78c6a.ext.json)
 
 ---
-### ஆரம்ப பாடசாலையில் தீ விபத்து: 13 பேர் பலி
+### Fire in elementary school: 13 killed
 
 *2024-01-20 12:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆரம்ப-பாடசாலையில்-தீ-விபத்து-13-பேர்-பலி/175-331840) · `ta`
 
-சீனாவின் மத்திய ஹெனான் மாகாணத்தில் உள்ள ஆரம்ப பள்ளி மாணவர்களுக்கான விடுதியில் ஏற்பட்ட தீ விபத்தில் 13 மாணவர்கள் உயிரிழந்ததாக சீன அரசு ஊடகம் தெரிவித்துள்ளது.
+Chinese state media reports that 13 students were killed in a fire at a hostel for primary school students in Central Henan province, China.
 
-சம்பவ இடத்தில் இருந்து மீட்கப்பட்ட ஒருவர் வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாக, சீனாவின் சிசிடிவி தொலைக்காட்சி தெரிவித்துள்ளது.
+China's CCTV television said that a person who was rescued from the scene was receiving treatment at the hospital.
 
-வெள்ளிக்கிழமை இரவு தொடங்கிய தீ, நள்ளிரவுக்கு முன்பு அணைக்கப்பட்டதுடன், தீ விபத்துக்கான காரணம் குறித்து விசாரணை நடத்தி வருவதாக உள்ளூர் அதிகாரிகள் தெரிவித்தனர்.
+Local authorities said the fire, which began on Friday night, was extinguished before midnight and is investigating the cause of the fire.
 
 ◼️
 
@@ -1064,11 +1140,15 @@ The directive comes on the heels of an incident in the Narammala Police Division
 [Extended Data](ext_articles/00f77d77.ext.json)
 
 ---
-### இலங்கை அரசாங்கம் உத்தேச நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை விலக்கிக்கொள்ள வேண்டும் - ஐம்பதிற்கும் மேற்பட்ட சர்வதேச அமைப்புகள் கூட்டாக வேண்டுகோள்
+### The Government of Sri Lanka should withdraw the proposed status safety Bill - more than fifty international organizations
 
 *2024-01-20 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174382) · `ta`
 
-இலங்கை அரசாங்கம் உத்தேச நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை விலக்கிக்கொள்ளவேண்டும் என பத்திரிகையாளர்களை பாதுகாப்பதற்கான குழு உட்பட ஐம்பதிற்கும் மேற்பட்ட சர்வதேச அமைப்புகள் கூட்டாக வேண்டுகோள் விடுத்துள்ளன.
+More than fifty international organizations, including a committee to protect journalists, have jointly appealed to the Sri Lankan government to withdraw the proposed status security bill.
+
+The committee to protect the journalists to protect the journalists should be withdrawn by the Sri Lankan Public Security Minister Tran Alas, the proposal to be withdrawn.
+
+International organizations have appealed to the civil society to consult with human rights organizations.
 
 ...
 
@@ -1077,32 +1157,34 @@ The directive comes on the heels of an incident in the Narammala Police Division
 [Extended Data](ext_articles/b06fbd62.ext.json)
 
 ---
-### අපරාධයක් සඳහා ආධාර අනුබල දුන් තිදෙනෙකු අත්අඩංගුවට
+### Three arrested for assisting a crime
 
 *2024-01-20 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192350) · `si`
 
-අම්බලන්ගොඩ මත්ස්‍ය ව්‍යාපාරිකයෙකුට වෙඩි තැබීමට පැමිණි සැකකරුවන්ට ආධාර අනුබල දුන් කාන්තාවක් සහ පුද්ගලයන් දෙදෙනෙකු පොලිස් විශේෂ කාර්ය බළකාය විසින් ‍අත්අඩංගුවට ගෙන ඇත.
+The Police Special Task Force has arrested a woman and two persons who supported the suspects to shoot a fish businessman.
 
-එම නිලධාරීන්ට ලද තොරතුරකට අනුව ඊයේ (19) ගොඩකවෙල ප්‍රදේශයේ සිදුකළ වැටලීමක දී මෙම සැකකරුවන් අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Police have arrested the suspects in a raid committed yesterday (19).
 
-සංවිධානාත්මක අපරාධකරුවෙකු වන 'ලොකු පැටී' යන අයගේ මෙහෙයවීම යටතේ මෙම වෙඩි තැබීම සිදුකිරීමට පැමිණ තිබුණු බව වාර්තා වේ.
+It is reported that the shooting had been carried out under the operation of an organized criminal.
 
-...
+Army soldier and motorman had previously been arrested by the STF with the firearm in the center of Ambalangoda.
+
+◼️
 
 [Data](articles/1c507420.json)
 
 [Extended Data](ext_articles/1c507420.ext.json)
 
 ---
-### கடை எரிக்க 12 இலட்சம் ; வாகனம் எரிக்க 7 இலட்சம் - யாழில் அட்டகாசம்
+### 12 lakhs to burn shop;7 lakhs to burn vehicle - Attakasam in Jaffna
 
 *2024-01-20 11:43:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கடை-எரிக்க-12-இலட்சம்-வாகனம்-எரிக்க-7-இலட்சம்-யாழில்-அட்டகாசம்/71-331839) · `ta`
 
-யாழ்ப்பாணத்தில் நாசகார செயல்களில் ஈடுபட பெல்ஜியம் நாட்டில் இருந்து 19 இலட்ச ரூபாய் பணம் வழங்கப்பட்டுள்ளமை பொலிஸ் விசாரணைகளில் தெரிய வந்துள்ளது.
+Police investigations have revealed that 19 lakhs of rupees have been paid from Belgium to engage in sabotage in Jaffna.
 
-கடந்த சில மாதங்களுக்கு முன்னர் யாழ்ப்பாணம் நகர் பகுதியில் உள்ள இரண்டு ஆடை விற்பனை கடைகள் தீயில் எரித்து, கடைக்குள் இருந்த சுமார் 2 கோடி ரூபாய் பெறுமதியான பொருட்கள் தீயில் எரிந்து நாசமாகி இருந்தன.
+A few months ago, two apparel stores in Jaffna Nagar area were burnt in the fire and about Rs 2 crore worth of goods in the shop were destroyed.
 
-கடைகள் எரித்து சில நாட்களில் கார் ஒன்றும் எரிக்கப்பட்டது. அத்துடன் நபர் ஒருவரின் மோட்டார் சைக்கிளும் வழிப்பறி செய்யப்பட்டது.
+The car burned in a few days after the stores were burnt. As well as a person's motorcycle, the person was also lodged.
 
 ...
 
@@ -1111,15 +1193,15 @@ The directive comes on the heels of an incident in the Narammala Police Division
 [Extended Data](ext_articles/4280e53f.ext.json)
 
 ---
-### நாரம்மல சம்பவம் - பொலிஸார் முன்னெடுக்கும் விசாரணைகளால் திருப்தியடையமுடியாது – சுயாதீன விசாரணைகள் அவசியம் சாலியபீரிஸ்
+### Narammala incident - police investigations are not satisfied - independent inquiries are essential
 
 *2024-01-20 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174379) · `ta`
 
-பொலிஸாரின் நடவடிக்கைகளால் பொதுமக்கள் உயிரிழப்பது குறித்து சுயாதீன விசாரணைகள் அவசியம் என இலங்கை சட்டத்தரணிகள் சங்கத்தின் முன்னாள் தலைவர் சாலிய பீரிஸ் பிபிசி சிங்கள சேவைக்கு தெரிவித்துள்ளார்.
+Former President of the Sri Lanka Lawyers Association, Saliya Peiris, told the BBC Sinhala Service that independent investigations are essential for the deaths of the public.
 
-பொலிஸார் பொதுமக்களை கொலை செய்த பின்னர் உண்மைகளை மறைக்கின்றனர் என அவர் குறிப்பிட்டுள்ளார்.
+He noted that the police are hiding the facts after the killing of civilians.
 
-இதன்காரணமாகவே நான் பொலிஸாரின் நடவடிக்கைகளினால் ஏற்படும் உயிரிழப்புகள் குறித்து சுயாதீன விசாரணை அவசியம் என தெரிவிக்கின்றேன் என அவர் தெரிவித்துள்ளார்.
+This is why I am a need for an independent investigation into the deaths caused by the police action, ”he said.
 
 ...
 
@@ -1128,13 +1210,13 @@ The directive comes on the heels of an incident in the Narammala Police Division
 [Extended Data](ext_articles/be375657.ext.json)
 
 ---
-### நுவரெலியாவில் கரட் விலையில் மாற்றம்?
+### Change in Carrot prices in Nuwara Eliya?
 
 *2024-01-20 11:31:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-கரட்-விலையில்-மாற்றம்/76-331838) · `ta`
 
-கமத்தொழில் அமைச்சின் கீழ் இயங்கும் நுவரெலியா பொருளாதார மத்திய நிலைய பொது சந்தையில் இன்று கொள்வனவு செய்யப்படும் மரக்கறி விலை பட்டியல் தொடர்பாக நுவரெலிய பொருளாதார மத்திய நிலைய காரியாலயம் அறிவித்துள்ளது.
+The Nuwara Eliya Economic Center Office has announced the list of vegetable prices purchased today at the Nuwara Eliya Economic Center Public Market, which is under the Ministry of Communication.
 
-இதனடிப்படையில் கடந்த இரண்டு தினங்களுக்கு முன் 1000 ரூபாவுக்கு அதிகமாக உச்ச விலையை கொண்டிருந்த கரட்டின் விலை வீழ்ச்சியடைந்து கிலோ கிராம் ஒன்றின் கொள்வனவு விலை 900/= ரூபாய் தொடக்கம் 950/=ரூபாயாக அறிவிக்கப்பட்டுள்ளது. R
+இதனடிப்படையில் கடந்த இரண்டு தினங்களுக்கு முன் 1000 ரூபாவுக்கு அதிகமாக உச்ச விலையை கொண்டிருந்த கரட்டின் விலை வீழ்ச்சியடைந்து கிலோ கிராம் ஒன்றின் கொள்வனவு விலை 900/= ரூபாய் தொடக்கம் 950/=ரூபாயாக அறிவிக்கப்பட்டுள்ளது. Remble
 
 ◼️
 
@@ -1147,9 +1229,11 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 *2024-01-20 11:28:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நோயாளியை-தூக்கிக்-கொண்டு-செல்லும்-அவலம்/76-331837) · `ta`
 
-திருகோணமலை பொது வைத்தியசாலையில் நோயாளியை கொண்டு செல்வதற்கு சக்கர நாற்காலி வழங்கப்படாமையால் அவரின் உறவினர்கள் நோயாளியை தூக்கிக் கொண்டு சென்ற சம்பவம் நேற்று (19) இடம்பெற்றுள்ளது.
+The incident took place yesterday (19) that her relatives were sleeping with the patient as they were not given a wheelchair to transport the patient at the Trincomalee General Hospital.
 
-திருகோணமலை வைத்தியசாலையில் எலும்பு முறிவுக்கு உள்ளாகி சிகிச்சை பெறுவதற்காக சென்ற நோயாளியை கொண்டு செல்வதற்கு சக்கர நாற்காலி வழங்கப்படவில்லை எனவும் இதனால் நோயாளியை தூக்கிக் கொண்டு செல்ல வேண்டிய நிலை ஏற்பட்டதாகவும் தெரிவிக்கப்படுகின்றது.
+It has been reported that a wheelchair has not been given to carry a patient who went to the Trincomalee hospital to get rid of it.
+
+It has been reported that many such incidents are taking place, causing patients to face many inconveniences.
 
 ...
 
@@ -1158,15 +1242,15 @@ The directive comes on the heels of an incident in the Narammala Police Division
 [Extended Data](ext_articles/1681ff79.ext.json)
 
 ---
-### නේවාසිකාගාරයක ගින්නකින් 13 දෙනෙකු ජීවිතක්ෂයට
+### 13 killed in a hostel
 
 *2024-01-20 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192349) · `si`
 
-මධ්‍යම චීනයේ, යැංෂැංපු ප්‍රදේශයේ පාසල් නේවාසිකාගාරයක හටගත් ගින්නකින් 13 දෙනෙකු මිය ගොස් තිබේ.
+Twenty charges erupted at a school hostel in Yangahera, China, China.
 
-ඊයේ (19) රාත්‍රියේ නේවාසිකාගාර ගොඩනැගිල්ලක ගින්න හටගෙන ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+Foreign media reports that the fire has erupted at a hostel building last night (19).
 
-ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර, පෞද්ගලික පාසලක් වන එම පාසලේ කළමනාකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+The cause of the fire is yet to be ascertained and the manager of the school has been arrested by the police.
 
 පසුගිය නොවැම්බර් මාසයේ ද චීනයේ ශැංසි පළාතේ ගොඩනැගිල්ලක හටගත් ගින්නකින් පුද්ගලයින් 27 දෙනෙකු ජීවිතක්ෂයට පත් විය.
 
@@ -1192,13 +1276,13 @@ The measles vaccination rollout was kicked off after observing a decrease in mea
 [Extended Data](ext_articles/ffd03cd1.ext.json)
 
 ---
-### තවත් සැකකරුවන් 986 දෙනෙකු අත්අඩංගුවට
+### 986 suspects arrested
 
 *2024-01-20 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192348) · `si`
 
-‍අද (20) අලුයම 12යි 30න් අවසන් වු පැය 24 තුළ යුක්තිය විශේෂ මෙහෙයුම යටතේ තවත් සැකකරුවන් 986 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+986 other suspects have been arrested under the special operation of justice during the 24 hours end of 12 km.
 
-මත්ද්‍රව්‍ය චෝදනාවලට අදාළව ඊයේ දිනයේ දී සැකකරුවන් 667 දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර, එහි දී හෙරොයින් ග්‍රෑම් 498ක්, අයිස් ග්‍රෑම් 143ක් ඇතුළු මත්ද්‍රව්‍ය, ආරක්ෂක අංශ භාරයට ගෙන ඇති බව පොලීසිය පවසයි.
+Police have arrested 667 suspects in connection with drug charges and 498 grams of heroin, including 143 grams and 143 grams of the security forces.
 
 අත්අඩංගුවට ගත් එම සැකකරුවන්ගෙන් 10 දෙනෙකු සම්බන්ධයෙන් රැඳවුම් නියෝග ලබාගැනීමට නියමිත අතර, මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් පුනරුත්ථාපනය සඳහා යොමු කිරීමට නියමිතයි.
 
@@ -1241,17 +1325,19 @@ While officials from the State Ministry of Livestock Department blamed the closu
 [Extended Data](ext_articles/d8e229dd.ext.json)
 
 ---
-### ධීවර යාත්‍රා 02ක් නාවික හමුදා භාරයට
+### Two fishing vessels
 
 *2024-01-20 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192347) · `si`
 
-හෙරොයින් බවට සැක කෙරෙන මත්ද්‍රව්‍ය තොගයක් රැගත් ධීවර යාත්‍රා දෙකක් මෙරට දකුණු මුහුදේ දී නාවික හමුදා භාරයට ගෙන තිබේ.
+Two fishing boats carrying drugs suspected to be taken into custody in the South Sea in Sri Lanka at the South Sea.
 
-රාජ්‍ය බුද්ධි සේවාව මඟින් ලද බුද්ධි තොරතුරකට අනුව, නාවික හමුදා බුද්ධි අංශය විසින් සිදු කළ මෙහෙයුමක දී බහුදින ධීවර යාත්‍රාවක් සහ එක් දින ධීවර යාත්‍රාවක් මෙලෙස සිය භාරයට ගත් බව නාවික හමුදාව සඳහන් කරයි.
+According to an intelligence from the State Intelligence Service, a multi-day fishing vessel and one day fishing vessel were taken into customers.
 
-එහි දී එම යාත්‍රාවල සිටි පුද්ගලයන් නාවික හමුදාව විසින් අත්අඩංගුවට ගෙන ඇත.
+The people of the vessels have been arrested by the Navy.
 
-...
+The arrested suspects and fishing vessels are being brought to the Galle Harbor.
+
+◼️
 
 [Data](articles/34e376a3.json)
 
@@ -1303,15 +1389,15 @@ CEB trade union members engaged in a series of protests for three days from Janu
 [Extended Data](ext_articles/5a6aefb9.ext.json)
 
 ---
-### ලංවිමේ හැට හය දෙනෙකුගේ වැඩ තහනම්
+### Shift six people suspended for sixty-six CEB
 
 *2024-01-20 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192346) · `si`
 
-වැඩ තහනම් කළ ලංකා විදුලි බල මණ්ඩලයේ සේවක සංඛ්‍යාව 66 දක්වා ඉහළ ගොස් තිබේ.
+The number of employees of the Ceylon Electricity Board (CEB) has increased to 66.
 
-විදුලිබල මණ්ඩලය ප්‍රතිව්‍යූහගත කිරීමට එරෙහි ව විරෝධතාවේ නිරත වූ විදුලි සේවකයන් පිරිසකගේ සේවය මෙසේ අත්හිටුවා ඇත.
+The Ceylon Electricity Board (CEB) has been suspended by a group of protesting electrical employees against the restructuring of the Electricity Board.
 
-විදුලිබල මණ්ඩලය ඊයේ (19) පැවසුවේ, පසුගිය දා පැවති උද්ඝෝෂණයේ දී මුදල් කවුළු වසා දමා පාරිභෝගිකයන්ට විදුලි බිල් ගෙවීමට බාධා කිරීම හේතුවෙන් මුදල් භාර ලිපිකරුවන් 15 දෙනෙකුගේ වැඩ තහනම් කළ බවයි.
+The Ceylon Electricity Board yesterday stated that 15 clerks were suspended by the work of the money and obstructing the electrical bills at the recent past.
 
 ...
 
@@ -1391,13 +1477,13 @@ Japan on Saturday became the fifth country to put a spacecraft on the moon, but 
 [Extended Data](ext_articles/d28d1776.ext.json)
 
 ---
-### මත්ද්‍රව්‍ය තොගයක් සමග ධීවර යාත්‍රා දෙකක් අත්අඩංගුවට
+### Two fishing boats arrested with drug stock
 
 *2024-01-20 09:40:35* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-තොගයක්-සමග-ධීවර-යාත්‍රා-දෙකක්-අත්අඩංගුවට/11-407629) · `si`
 
-රාජ්‍ය බුද්ධි සේවාව මඟින් ලද බුද්ධි තොරතුරකට අනුව, නාවික හමුදා බුද්ධි අංශය විසින් සිදුකල විශේෂ මෙහෙයුමක් මඟින් හෙරොයින් බවට සැකකෙරෙන මත්ද්‍රව්‍ය තොගයක් රැගත් මෙරට බහුදින ධීවර යාත්‍රාවක් සහ එක් දින යාත්‍රාවක් දකුණු මුහුදේදී අත්අඩංගුවට ගත් බව නාවික හමුදාව නිවේදනය කරයි.
+According to an intelligence from the State Intelligence Service, a special operation carried out by a special operation carried out by the Navy Intelligence Assistance was arrested and arrested for a multi-day fishing vessel and one-day yacht.
 
-එම ධීවර යාත්‍රා සහ සැකකරුවන් ඉදිරි විමර්ශන කටයුතු සඳහා මේ වන විට ගාල්ල වරාය වෙත රැගෙන එමින් පවතින බව නාවික හමුදාව වැඩිදුරටත් නිවේදනය කරයි.
+The fishing vessels and suspects are being brought to the Galle Harbor for further investigations.
 
 ◼️
 
@@ -1421,13 +1507,11 @@ The Navy said the seized trawlers and suspects aboard are being escorted to the 
 [Extended Data](ext_articles/d5b5bc06.ext.json)
 
 ---
-### අදත් වැස්ස
+### Rain today
 
 *2024-01-20 09:35:15* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-වැස්ස/11-407628) · `si`
 
-නැහෙනහිර හා ඌව පළාත්වලත් පොළාන්නරුව හා මාතලේ දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
-
-එසේම උතුරු පළතෙත් අනුරාධපුර දිස්ත්‍රික්කයෙත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බවත් බස්නාහිර,  සබරගමුව, මධ්‍යම හා වයඹ පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න්පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
+Showers will occur at times in the East and Uva provinces and in the area of Sri Lanka and Matale Districts.
 
 ...
 
@@ -1455,17 +1539,17 @@ Police say that drugs including 586 grams of Heroin and 180 grams of ICE in poss
 [Extended Data](ext_articles/18e052f1.ext.json)
 
 ---
-### ඉන්දියාවේ රිය අනතුරකින් පුද්ගලයින් සිව්දෙනෙකුට දිවි අහිමි වෙයි
+### Four people lose their lives in Indian accident
 
 *2024-01-20 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192344) · `si`
 
-ඉන්දියාවේ ආග්‍රාහි සිදුවූ රිය අනතුරකින් පුද්ගලයින් සිව් දෙනෙකු මියගොස් තවත් දෙදෙනෙකු තුවාල ලබා  තිබේ.
+Four persons were killed and two others were injured in an accident in India.
 
-විදෙස් වාර්තා සඳහන් කළේ වේගයෙන් පැමිණි මෝටර් රථයක් ඇළකට පෙරලීමෙන් මෙම අනතුර සිදුව ඇති බවය.
+The accident had occurred when the crash was a rapid vehicle.
 
-අනතුර සිදුවන අවස්ථාවේදී මෝටර් රථයේ මගීන් හය දෙනෙකු ගමන් කර ඇති අතර ඔවුන් මංගල උත්සවයකට සහභාගී වී ආපසු පැමිණෙමින් සිටි ඇති බව වාර්ථා  වේ.
+Six passengers have traveled at the car when the accident occurred and they were returning from a wedding.
 
-තුවාලකරුවන්  අග්‍රා හි පෞද්ගලික රෝහලකට අතුළත් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that the injured have been abandoned at Agra's private hospital.
 
 ◼️
 
@@ -1506,15 +1590,15 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 [Extended Data](ext_articles/8f1f0b0e.ext.json)
 
 ---
-### சாரதி மரணம்; அதிகாரிகளின் பதவி பறிப்பு
+### Driver's death;Seizure
 
 *2024-01-20 09:01:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-மரணம்-அதிகாரிகளின்-பதவி-பறிப்பு/175-331836) · `ta`
 
-நாரம்மல பிரதேசத்தில் பொலிஸ் உத்தியோகத்தர் ஒருவரின் துப்பாக்கிச் சூட்டில் உயிரிழந்த லொறி சாரதியின் உறவினர்களுக்கு ஒரு மில்லியன் ரூபா நட்டஈட்டை பொலிஸார் வழங்கியுள்ளனர்.
+Police have paid a million rupees of compensation to relatives of a lorry driver who died in the firing of a police officer in Naramala area.
 
-உயிரிழந்த சாரதியின் அலவ்வ பகுதியில் உள்ள வீட்டில் வைத்து பதில் பொலிஸ் மா அதிபர் தேஷபந்து தென்னகோன் இந்தத் தொகையை வழங்கியதாக பொலிஸார் தெரிவித்தனர்.
+Police said that the amount was paid by the Inspector General of Police, Deshabandu Tennakoon, in response to the house in the area of the deceased driver.
 
-அத்துடன் சம்பவத்துடன் தொடர்புடைய உதவி பொலிஸ் பரிசோதகர் மற்றும் பொலிஸ் கான்ஸ்டபிள் ஆகியோர் பணி இடைநீக்கம் செய்யப்பட்டுள்ளனர்.
+The Assistant Police Inspector and the Police Constable have been suspended.
 
 ...
 
@@ -1534,15 +1618,17 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 [Extended Data](ext_articles/2fb88d44.ext.json)
 
 ---
-### මුදල් වංචාවක් සම්බන්ධයෙන් සය දෙනෙකු අත්අඩංගුවට
+### Six persons arrested in connection with money fraud
 
 *2024-01-20 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192343) · `si`
 
-මුදල් වංචාවක් සම්බන්ධයෙන් සැකකරුවන් තිදෙනෙකු සහ සැකකාරියන් තිදෙනෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරින් විසින් අත්අඩංගුවට ගෙන තිබේ.
+Three suspects and three suspects have been arrested by the CID officers of the CID.
 
-මැණික් ගල් 15ක් ලබාගෙන ඒ සඳහා ලබා දිය යුතු මුදල් රුපියල් 28,750,000ක් සඳහා මුදල් නොමැති ගිණුම්වලින් චෙක්පත් ලබා දී මෙම මුදල් වංචාව සිදු කර ඇත.
+The money has been made by the net accounts for Rs. 2850,000 to obtain 15 gem stones.
 
-මුදල් වංචාවට සම්බන්ධ සැකකරුවෙකු ඊයේ (19) කොටුව පොලිස් වසමේ දී අත්අඩංගුවට ගෙන ඇති අතර, ඒ සඳහා අධාර අනුබල දුන් අනෙක් සැකකරුන් දෙදෙනා සහ සැකකාරීන් තිදෙනා යාපනය ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
+A suspect associated with a cash fraud has been arrested by the Fort Police Division in the Fort Police Division yesterday (19) and the two suspects were arrested in Jaffna.
+
+The arrested are residents of Beruwala and Jaffna, the age of 24, 30 and 36.
 
 ...
 
@@ -1566,33 +1652,5 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 [Data](articles/805d616c.json)
 
 [Extended Data](ext_articles/805d616c.ext.json)
-
----
-### விரைவில் இலத்திரனியல் கடவுச்சீட்டு
-
-*2024-01-20 08:32:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரைவில்-இலத்திரனியல்-கடவுச்சீட்டு/175-331835) · `ta`
-
-இலத்திரனியல் கடவுச்சீட்டு விநியோகத்திற்கான ஆரம்பகட்ட நடவடிக்கைகள் பூர்த்தி செய்யப்பட்டுள்ளதாகவும் அவர் கூறியுள்ளார். (N)
-
-◼️
-
-[Data](articles/cef9201b.json)
-
-[Extended Data](ext_articles/cef9201b.ext.json)
-
----
-### நாடு முழுவதும் இரண்டு நாட்களுக்கு தட்டம்மை தடுப்பூசி
-
-*2024-01-20 08:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-முழுவதும்-இரண்டு-நாட்களுக்கு-தட்டம்மை-தடுப்பூசி/175-331834) · `ta`
-
-அதன்படி, இன்று (20) மற்றும் நாளை (21) ஆகிய நாள்களில்  09 மாத குழந்தை முதல் 15 வயது வரையிலான சிறுவர்களுக்கு தட்டம்மை தடுப்பூசி போடப்படும்.
-
-தட்டம்மை தடுப்பூசி பெறாத குழந்தைகளுக்கு ஒவ்வொரு மாவட்டத்திலும் உள்ள தடுப்பூசி மையங்களுக்குச் சென்று தடுப்பூசி போட முடியும் என்று அமைச்சு கூறியுள்ளது. (N)
-
-◼️
-
-[Data](articles/f5f77cdc.json)
-
-[Extended Data](ext_articles/f5f77cdc.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 05:02:14**
+As of **2024-01-21 04:50:49**
 
 ## Newspaper Stats
 
@@ -1544,10 +1544,6 @@ Its director, Dr. Sudath Samaraweera, said that 20% of dengue cases in the count
 
 He added that 6,689 cases of dengue have been reported in the last 18 days of this year alone.
 
-IMF & Sri Lanka: Tax reforms and fiscal discipline seen as key to overcoming the crisis
-
-Navy seized Rs. 1.6 BILLION worth of Heroin in major drug bust on High Seas
-
 ◼️
 
 [Data](articles/916aa839.json)
@@ -1871,10 +1867,6 @@ COLOMBO (News 1st) – A multi-day fishing trawler and a one-day fishing trawle
 The drugs were discovered during a special operation carried out by the Navy Intelligence Division, based on information from the State Intelligence Service.
 
 The Navy said that the fishing trawlers and the suspects are currently being escorted to the Port of Galle for onward action.
-
-IMF & Sri Lanka: Tax reforms and fiscal discipline seen as key to overcoming the crisis
-
-Navy seized Rs. 1.6 BILLION worth of Heroin in major drug bust on High Seas
 
 ◼️
 

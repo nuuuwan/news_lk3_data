@@ -1,37 +1,71 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 20:49:39**
+As of **2024-01-20 21:02:25**
 
 ## Newspaper Stats
 
-*Scraped **1,442** Articles*
+*Scraped **1,452** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 24
-adaderanasinhalalk | 27
+colombotelegraphcom | 25
+adaderanasinhalalk | 33
 bbccomsinhala | 36
-islandlk | 82
+islandlk | 83
 newsfirstlk | 95
 economynextcom | 98
 dbsjeyarajcom | 117
-virakesarilk | 128
+virakesarilk | 129
 dailyftlk | 150
 adalk | 160
 dailymirrorlk | 164
 adaderanalk | 180
-tamilmirrorlk | 181
+tamilmirrorlk | 182
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-0 (0.0%) of 1,442 articles have been extended.
+0 (0.0%) of 1,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
 
+### படம் பார்த்த சிறுவர்களுக்கு 12 ஆண்டுகள் தண்டனை – அதிர்ச்சி
+
+*2024-01-20 20:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/படம்-பார்த்த-சிறுவர்களுக்கு-12-ஆண்டுகள்-தண்டனை-அதிர்ச்சி/50-331850) · `ta`
+
+தென் கொரியாவின் கே-பாப் பாடல்களை கண்டு ரசித்த குற்றத்துக்காக 2 சிறுவர்களுக்கு 12 ஆண்டுகள் கடுமையான வேலை செய்யும் தண்டனையை வட கொரிய அரசு விதித்திருப்பது சர்வதேச அளவில் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+தென் கொரிய பாப் இசை, சினிமாவைக் கண்டு ரசித்ததற்காக 16 வயதே நிரம்பிய இரண்டு சிறுவர்கள் தண்டிக்கப்பட்ட வீடியோ வெளியாகி அதிர்ச்சியை ஏற்படுத்தியுள்ளது. அந்த வீடியோவில் ஓர் திறந்தவெளி அரங்கில் பழுப்பு நிற உடையணிந்த 2 சிறுவர்கள் கைகள் கட்டப்பட்டு அழைத்து வரப்படுகிறார்கள்.
+
+...
+
+[Data](articles/446191f9.json)
+
+[Extended Data](ext_articles/446191f9.ext.json)
+
+---
+### විදුලි ගාස්තු සංශෝධනයට පෙර මහජන අදහස් විමසයි
+
+*2024-01-20 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192368) · `si`
+
+විදුලි ගාස්තු සංශෝධනය සම්බන්ධයෙන් සාකච්ඡා කිරීම සඳහා මහජන උපයෝගීතා කොමිෂන් සභාව එළඹෙන සඳුදා රැස්වීමට නියමිතය.
+
+ගාස්තු සංශෝධන සම්බන්ධයෙන් වන යෝජනාව පසුගියදා ලංකා විදුලිබල මණ්ඩලය විසින් මහජන උපයෝගීතා කොමිසම වෙත ලබාදී තිබුණි.
+
+එහිදී යෝජනාවලිය සම්බන්ධයෙන් සාකච්ඡා කර අවසන් තීරණයක් ගැනීමට නියමිත අතර මහජන අදහස් ලබා ගැනීමෙන් අනතුරුව ඊට උපයෝගීතා කොමිසම ද සිය අදහස් එක් කරනු ඇත.
+
+අනතුරුව සති 03 ක කාලයක් එම යෝජනාවලිය මහජනතාවට ප්‍රසිද්ධ කිරීමට නියමිතය.
+
+...
+
+[Data](articles/6954a5bc.json)
+
+[Extended Data](ext_articles/6954a5bc.ext.json)
+
+---
 ### பெண்ணின் உள்ளாடைக்குள் வெடிபொருட்கள்...
 
 *2024-01-20 20:21:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணின்-உள்ளாடைக்குள்-வெடிபொருட்கள்/175-331849) · `ta`
@@ -45,6 +79,21 @@ Extensions include translations and NER (Named Entity Recognition).
 [Data](articles/55f103c9.json)
 
 [Extended Data](ext_articles/55f103c9.ext.json)
+
+---
+### ගහලා හිරේ ගියත් මම බයේ එන්නේ නැහැ - සනත් නිශාන්ත
+
+*2024-01-20 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192367) · `si`
+
+ප්‍රදේශවාසීන්ගේ විරෝධය හේතුවෙන් රැස්වීමකට සහභාගී වීමට ගිය තමන්ට නැවත හැරී පැමිණීමට සිදුවූ බවට පළවන වාර්තා අසත්‍ය බව රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා පවසයි.
+
+පුත්තලම, දළුව ප්‍රදේශයේදී රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාට ජනතාවගේ විරෝධතාව එල්ලවූ බවට පළවූ වාර්තාවලට ප්‍රතිචාර දක්වමින් ඔහු මේ බව සඳහන් කළේය.
+
+...
+
+[Data](articles/74f6e4ef.json)
+
+[Extended Data](ext_articles/74f6e4ef.ext.json)
 
 ---
 ### Prices of imported eggs to increase
@@ -92,6 +141,23 @@ The Sri Lankan court on Friday released 32 fishermen from Tamil Nadu who were ap
 [Extended Data](ext_articles/f98cf05b.ext.json)
 
 ---
+### සතොස බිත්තරයේ අලුත්ම මිල දැනුම්දෙයි
+
+*2024-01-20 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192366) · `si`
+
+සතොස හරහා අලෙවි කරන ආනයනික ඉන්දීය බිත්තරයක මිල හෙට (21) සිට රුපියල් 43ක් දක්වා ඉහළ නංවන බව වෙළෙඳ අමාත්‍ය නලින් ප්‍රනාන්දු මහතා පවසයි.
+
+වැට් වැඩිවීමත් සමග ඉන්දියාවෙන් ආනයනය කළ බිත්තරයක් රුපියල් 35කට අලෙවි කිරීමට නොහැකි බැවින් සතොස අලෙවිසැල් බිත්තර අලෙවි කිරීම සීමා කර ඇත.
+
+එවන් වාතාවරණයක යළිත් වෙළෙඳපොළේ දේශීය බිත්තර මිල ඉහළ ගොස් ඇති අයුරු දක්නට ලැබේ.
+
+...
+
+[Data](articles/e282e485.json)
+
+[Extended Data](ext_articles/e282e485.ext.json)
+
+---
 ### India’s Jaishankar calls on President Ranil, appreciates bilateral initiatives
 
 *2024-01-20 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96576/indias-jaishankar-calls-on-president-ranil-appreciates-bilateral-initiatives) · `en`
@@ -126,6 +192,38 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 [Extended Data](ext_articles/df1ed846.ext.json)
 
 ---
+### දකුණු මුහුදේ හෙරොයින් වැටලීම ගැන තවත් තොරතුරු
+
+*2024-01-20 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192365) · `si`
+
+දකුණු මුහුදේ දී අද (20) අත්අඩංගුවට ගත් මත්ද්‍රව්‍ය තොගය සම්බන්ධයෙන් නාවික හමුදාව පැහැදිලි කිරීමක් සිදුකර තිබේ.
+
+එහි දැක්වෙන්නේ රුපියල් මිලියන 1,626 කට අධික දළ වටිනාකමකින් යුත් හෙරොයින් මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 65 කට අධික තොගයක් එහි තිබූ බවය.
+
+ශ්‍රී ලංකා නාවික හමුදාව, දෙවුන්දර තුඩුවේ සිට නාවික සැතපුම් 100 ක් පමණ (කිලෝමීටර් 185 ක් පමණ) දුරින් වූ දකුණු මුහුදු ප්‍රදේශයේ දී මෙම විශේෂ සෝදිසි මෙහෙයුම දියත් කර තිබුණි.
+
+...
+
+[Data](articles/3068cf2d.json)
+
+[Extended Data](ext_articles/3068cf2d.ext.json)
+
+---
+### ගනේමුල්ලේ සංජීවගේ විමර්ශන මැද්දට පැන්න කාන්තාව අල්ලස් දෙන්න යයි - හඬපට එළියට
+
+*2024-01-20 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192364) · `si`
+
+සංවිධානාත්මක අපරාධ කල්ලි නායකයෙකු සහ ප්‍රබල මත්ද්‍රව්‍ය ජාවාරම්කරුවෙකු වන ගනේමුල්ල සංජීවගේ මත්ද්‍රව්‍ය ජාවාරම් පිළිබඳ මත්ද්‍රව්‍ය නාශක කාර්යාංශයේ නිලධාරීන් කණ්ඩායමක් විසින් සිදුකරනු ලබන විමර්ශනයකට අදාළව මාකිලංගමුව ප්‍රදේශයේ නිවසක් පරීක්ෂා කිරීමට ගොස් තිබේ.
+
+එහිදී ගනේමුල්ල සංජීවගේ ඥාතියෙකු වෙනුවෙන් පෙනී සිටින නීතිඥවරියක් බවට සඳහන් කරන කාන්තාවක් නිලධාරින් සිටින ස්ථානයට පැමිණ අදාළ නිවස පරික්ෂා නොකරන ලෙසට එම නිලධාරීන්ගෙන් ඉල්ලා ඇතැයි අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කරයි.
+
+...
+
+[Data](articles/632b7c54.json)
+
+[Extended Data](ext_articles/632b7c54.ext.json)
+
+---
 ### இ.தொ.காவின் முக்கிய உறுப்பினர் காலமானார்
 
 *2024-01-20 17:52:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-காவின்-முக்கிய-உறுப்பினர்-காலமானார்/76-331848) · `ta`
@@ -137,6 +235,17 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 [Data](articles/d9ab419f.json)
 
 [Extended Data](ext_articles/d9ab419f.ext.json)
+
+---
+### சிரியாவில் தாக்குதலொன்றில் நான்கு ஈரான் இராணுவ அதிகாரிகள் பலி - இஸ்ரேல் மீது குற்றச்சாட்டு
+
+*2024-01-20 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174411) · `ta`
+
+◼️
+
+[Data](articles/0d5ffcfc.json)
+
+[Extended Data](ext_articles/0d5ffcfc.ext.json)
 
 ---
 ### Sri Lanka signs MoU with Benin on visa exemptions
@@ -184,6 +293,25 @@ The Second Reading of the Online Safety Bill is scheduled for January 23 and 24,
 [Data](articles/426f171c.json)
 
 [Extended Data](ext_articles/426f171c.ext.json)
+
+---
+### පීලි අලුතෙන් දානකම් දුම්රිය මාර්ග අවදානම්
+
+*2024-01-20 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192363) · `si`
+
+2023 වර්ෂයේදී දුම්රිය පීලිපැනීම් 110ක් සිදුවී ඇති බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කළේ දුම්රිය මාර්ග 57ක පීලිපැනීම් සිදුවී ඇති අතර අනෙක් පීලිපැනීම් 53 සිදුවී ඇත්තේ අංගනවල බවය.
+
+උඩරට දුම්රිය මාර්ගයේ පීලිපැනීම් 26ක් සිදුවී ඇති අතර ඔක්තොම්බර් සහ දෙසැම්බර් මාසයේ පීලිපැනීම් 06 බැගින් සිදුවී ඇති බව ද සඳහන් ය.
+
+මේ අතර ප්‍රවාහන හා මහාමාර්ග අමාත්‍ය බන්දුල ගුණවර්ධන මහතා සඳහන් කළේ,
+
+...
+
+[Data](articles/fa186e07.json)
+
+[Extended Data](ext_articles/fa186e07.ext.json)
 
 ---
 ### Immunization programme for children who missed MMR dose
@@ -1466,135 +1594,5 @@ First, tension between India and the Maldives flared up since the election of th
 [Data](articles/285155cd.json)
 
 [Extended Data](ext_articles/285155cd.ext.json)
-
----
-### ත්‍රස්ත විරෝධී පනත් කෙටුම්පත ගැන දැඩි අවධානය
-
-*2024-01-20 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192339) · `si`
-
-ත්‍රස්තවාදය වැළැක්වීමේ පනත වෙනුවට දැනට ශ්‍රී ලංකා පාර්ලිමේන්තුවේ සලකා බලමින් පවතින සංශෝධිත ත්‍රස්ත විරෝධී පනත් කෙටුම්පත පිළිබඳ දැඩි අවධානය යොමුකර ඇති බව එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලය පවසයි.
-
-එම කවුන්සිලය පවසන්නේ ත්‍රස්තවාදය වැළැක්වීමේ පනත අවලංගු කිරීම ශ්‍රී ලංකාවේ අභ්‍යන්තර ආරක්ෂාව සඳහා වන ප්‍රවේශයේ අර්ථවත් ප්‍රතිසංස්කරණයක් සඳහා හැරවුම් ලක්ෂයක් විය යුතු බවයි.
-
-යෝජිත කෙටුම්පත ඉවත් කරන ලද පෙර පැවත පනතට සැලකිය යුතු ලෙස සමාන බව එම කවුන්සිලය සඳහන් කරයි.
-
-...
-
-[Data](articles/767500fc.json)
-
-[Extended Data](ext_articles/767500fc.ext.json)
-
----
-### 2 Police officers suspended in connection to Narammala shooting
-
-*2024-01-20 07:38:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/2-police-officers-suspended-in-connection-to-narammala-shooting/) · `en`
-
-COLOMBO (News 1st) – Two officers attached to the Sri Lankan police have been temporarily suspended until January 23rd following the murder of a civilian in Dampalassa, Narammala, on Thursday night.
-
-The police say that the services of a sub-inspector and a police constable have been suspended in this manner.
-
-The sub-inspector, who was arrested for the shooting, was produced before the Kurunegala Magistrate's Court last evening and was remanded until the 23rd of January.
-
-...
-
-[Data](articles/d8543ecf.json)
-
-[Extended Data](ext_articles/d8543ecf.ext.json)
-
----
-### Three police divisions placed under DIG in charge of the CID
-
-*2024-01-20 07:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/three-police-divisions-placed-under-dig-in-charge-of-the-cid/) · `en`
-
-COLOMBO (News 1st) – Three police divisions have been placed under the DIG in charge of the Criminal Investigations Department.
-
-Police Spokesperson, SSP Nihal Thalduwa says that the Criminal Investigations Department, Counter Terrorism Investigation Division, and Illegal Assets Investigation Division have been placed under the DIG in charge of the CID.
-
-He adds that the Directors of the said 3 departments must report to the DIG in charge of the CID.
-
-...
-
-[Data](articles/4f3e4299.json)
-
-[Extended Data](ext_articles/4f3e4299.ext.json)
-
----
-### විශ්වවිද්‍යාල ආචාර්‍ය සමිති සම්මේලනයෙන් චෝදනාවක්
-
-*2024-01-20 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192338) · `si`
-
-විශ්වවිද්‍යාල ආචාර්යවරුන් සඳහා අධ්‍යයන දීමනාව සියයට 25කින් වැඩි කිරීමට ගත් තීරණයට අදාළව මේ වන තෙක් නිශ්චිත චක්‍රලේඛයක් නිකුත් කිරීමට විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව පියවර ගෙන නොමැති බවට විශ්වවිද්‍යාල ආචාර්ය සමිති සම්මේලනය චෝදනා කරයි.
-
-එහි උපසභාපති ජ්‍යෙෂ්ඨ කථිකාචාර්ය චාරුදත්ත ඉලංගසිංහ මහතා පැවසුවේ, ආචාර්යවරුන්ගේ ජනවාරි මස වැටුපට එම දීමනාව ලබා නොදුන හොත් ඊට එරෙහිව ක්‍රියාමාර්ග ගන්නා බවයි.
-
-...
-
-[Data](articles/a6a27f8c.json)
-
-[Extended Data](ext_articles/a6a27f8c.ext.json)
-
----
-### Sri Lanka remains open for positive role dousing India- Maldives tension
-
-*2024-01-20 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-remains-open-for-positive-role-dousing-India-Maldives-tension/108-275377) · `en`
-
-Colombo, Jan 20 (Daily Mirror) -  Sri Lanka remains open to play a positive role in dousing tension between India and the Maldives in the greater interest of regional peace, Daily Mirror learns.
-
-First, tension between India and the Maldives flared up since the election of the new Maldivian president Mohamed Muizzu who openly advocates a pro-China policy and even called for Indian troops to leave his country for a foreign policy with better ties with China.
-
-...
-
-[Data](articles/f085347b.json)
-
-[Extended Data](ext_articles/f085347b.ext.json)
-
----
-### සරම්ප එන්නත්කරණය දීප ව්‍යාප්තව
-
-*2024-01-20 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192337) · `si`
-
-වයස මාස 09ත් අවුරුදු 15ත් අතර දරුවන් සඳහා සරම්ප ප්‍රතිශක්තීකරණ එන්නත් ලබා දීමේ වැඩසටහක් අද (20) සහ හෙට දීපව්‍යාප්තව ක්‍රියාත්මක බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
-
-එම අමාත්‍යාංශය සඳහන් කළේ, මෙතෙක් සරම්ප එන්නත් ලබා නොගත් දරුවන් සඳහා සෑම දිස්ත්‍රික්කයකම තිබෙන එන්නත්කරණ මධ්‍යස්ථානවලට පැමිණීමෙන් එන්නත ලබා ගැනිමේ හැකියාව පවතින බවයි.
-
-පසුගිය දිනවල පැවති සරම්ප ප්‍රතිශක්තිකරණ එන්නත්කරණ වැඩසටහන තවදුරටත් සක්‍රීය කිරීමේ අරමුණින් මෙම පියවර ගෙන තිබේ.
-
-◼️
-
-[Data](articles/b39173f8.json)
-
-[Extended Data](ext_articles/b39173f8.ext.json)
-
----
-### ප්‍රදේශ කිහිපයකට විටින් විට වැසි
-
-*2024-01-20 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192336) · `si`
-
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව සහ මාතලේ දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
-
-උතුරු පළාතේ හා අනුරාධපුර දිස්ත්‍රික්කයේ වැසි වාර කිහිපයක් ඇති විය හැක.
-
-බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත්, පස්වරු 02.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
-
-බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල මිලි මීටර් 75ක පමණ තරමක තද වැසි ඇති වනු ඇත.
-
-...
-
-[Data](articles/d845e62e.json)
-
-[Extended Data](ext_articles/d845e62e.ext.json)
-
----
-### IMF sounds tough on tax evasions, corruption
-
-*2024-01-20 04:22:00* · [`islandlk`](http://island.lk/imf-sounds-tough-on-tax-evasions-corruption/) · `en`
-
-The International Monetary Fund said in Colombo yesterday that authorities need to publish governance diagnostics periodically in relation to tax collection, tax exemptions and tax concessions to dispel any doubts in the public mind whether any parties or individuals would be evading taxes through the loopholes.
-
-...
-
-[Data](articles/9a52abea.json)
-
-[Extended Data](ext_articles/9a52abea.ext.json)
 
 ---

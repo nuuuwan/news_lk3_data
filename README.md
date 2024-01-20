@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 18:50:56**
+As of **2024-01-20 18:33:10**
 
 ## Newspaper Stats
 
-*Scraped **1,431** Articles*
+*Scraped **1,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dbsjeyarajcom | 117
 virakesarilk | 128
 dailyftlk | 150
 adalk | 160
-dailymirrorlk | 164
+dailymirrorlk | 163
 adaderanalk | 174
 tamilmirrorlk | 178
 
@@ -26,7 +26,7 @@ tamilmirrorlk | 178
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21 (1.5%) of 1,431 articles have been extended.
+17 (1.2%) of 1,430 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -39,16 +39,6 @@ Extensions include translations and NER (Named Entity Recognition).
 Opposition Leader Sajith Premadasa has written to Speaker Mahinda Yapa Abeywardena urging the postponement of the upcoming parliamentary debate on the Online Safety Bill.
 
 The Second Reading of the Online Safety Bill is scheduled for January 23 and 24, as per a decision taken by the Committee on Parliamentary Business earlier this month.
-
-...
-
-### Immunization programme for children who missed MMR dose
-
-*2024-01-20 16:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immunization-programme-for-children-who-missed-MMR-dose/108-275417) · `en`
-
-Colombo, Jan 20 (Daily Mirror) -  The Epidemiology Unit of the Health Ministry is conducting the Measles-Mumps-Rubella (MMR) Catch-up Immunization Programme across the island on January 20 and 21, targeting children aged between 9 months and 15 years.
-
-Globally and regionally, the recent COVID-19 pandemic has led to a decline in measles vaccination rates, resulting in a notable increase in measles cases.
 
 ...
 
@@ -1095,5 +1085,17 @@ Launch new alliance titled ‘Unity of Sri Lanka’ on platform to end corruptio
 Say coalition will play crucial role in upcoming elections aiming to secure Presidency and form a Govt.
 
 Stress alliance will also focus on abolishing Executive Presidency to give more power to Parliament
+
+...
+
+### CSOs unite in open letter to Tiran against Online Safety Bill
+
+*2024-01-20 01:21:53* · [`dailyftlk`](https://www.ft.lk/news/CSOs-unite-in-open-letter-to-Tiran-against-Online-Safety-Bill/56-757568) · `en`
+
+Urge Minister of Public Security and Govt. to withdraw proposed Online Safety Bill
+
+Call on Minister to conduct meaningful consultations with all stakeholders
+
+Highlight importance of tackling issues of online gender-based violence and harmful speech while affirming human rights
 
 ...

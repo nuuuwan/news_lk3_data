@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 04:32:58**
+As of **2024-01-21 04:50:49**
 
 ## Newspaper Stats
 
-*Scraped **1,474** Articles*
+*Scraped **1,475** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,34 @@ virakesarilk | 129
 dailyftlk | 150
 adalk | 161
 dailymirrorlk | 170
-tamilmirrorlk | 183
+tamilmirrorlk | 184
 adaderanalk | 185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-378 (25.6%) of 1,474 articles have been extended.
+396 (26.8%) of 1,475 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-01-21 (Sunday)
+
+### President meets Indian Foreign Minister
+
+*2024-01-21 03:09:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-வெளிவிவகார-அமைச்சருடன்-ஜனாதிபதி-சந்திப்பு/175-331864) · `ta`
+
+Indian Foreign Minister. A meeting between Jaishankar and President Ranil Wickremesinghe was held yesterday.
+
+The Indian Foreign Minister has stated that President Ranil Wickremesinghe has praised President Ranil Wickremesinghe for the improvement of bilateral efforts.. (A)
+
+◼️
+
+[Data](articles/2793cac6.json)
+
+[Extended Data](ext_articles/2793cac6.ext.json)
+
+---
 
 ### 2024-01-20 (Saturday)
 
@@ -2083,21 +2101,5 @@ JAXA will maintain the status quo rather than take risky actions and hopes a shi
 [Data](articles/d28d1776.json)
 
 [Extended Data](ext_articles/d28d1776.ext.json)
-
----
-
-### Two fishing boats arrested with drug stock
-
-*2024-01-20 09:40:35* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-තොගයක්-සමග-ධීවර-යාත්‍රා-දෙකක්-අත්අඩංගුවට/11-407629) · `si`
-
-According to an intelligence from the State Intelligence Service, a special operation carried out by a special operation carried out by the Navy Intelligence Assistance was arrested and arrested for a multi-day fishing vessel and one-day yacht.
-
-The fishing vessels and suspects are being brought to the Galle Harbor for further investigations.
-
-◼️
-
-[Data](articles/123f4992.json)
-
-[Extended Data](ext_articles/123f4992.ext.json)
 
 ---

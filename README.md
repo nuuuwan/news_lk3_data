@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 19:02:23**
+As of **2024-01-20 18:50:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ tamilmirrorlk | 178
 
 Extensions include translations and NER (Named Entity Recognition).
 
-25 (1.7%) of 1,431 articles have been extended.
+21 (1.5%) of 1,431 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -662,7 +662,7 @@ Japan on Saturday became the fifth country to put a spacecraft on the moon, but 
 
 *2024-01-20 09:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Navy-intercepts-multiday-and-fishing-trawlers-with-heroin-on-Southern-Seas/108-275408) · `en`
 
-Galle, Jan 20 (Daily Mirror) - Following a special operation mounted by the Sri Lanka Navy, a local multiday fishing trawler and a one-day fishing trawler with a stock of narcotics, suspected to be heroin, have been intercepted on the Southern seas.
+Galle, Jan 20 (Daily Mirror) - Following a special operation mounted by the Sri Lanka Navy Intelligence, on receipt of information from the State Intelligence Service, a local multiday fishing trawler and a one-day fishing trawler with a stock of narcotics, suspected to be heroin, have been intercepted on the Southern seas.
 
 The Navy said the seized trawlers and suspects aboard are being escorted to the Galle harbour for onward action.
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 20:17:04**
+As of **2024-01-20 20:30:02**
 
 ## Newspaper Stats
 
@@ -44,6 +44,10 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 
 ...
 
+[Data](articles/df1ed846.json)
+
+[Extended Data](ext_articles/df1ed846.ext.json)
+
 ---
 ### இ.தொ.காவின் முக்கிய உறுப்பினர் காலமானார்
 
@@ -52,6 +56,10 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 இலங்கை தொழிலாளர் காங்கிரஸின் முக்கிய உறுப்பினரும், ஊவா மாகாண சபை முன்னாள் உறுப்பினருமான ஆறுமுகம் கணேசமூர்த்தி திடீர் உடல்நலக் குறைவால் இன்று காலை வெளிமடை பொது வைத்தியசாலையில் சிகிச்சைக்காக கொண்டு செல்லப்பட்ட போது காலமானார்.
 
 ...
+
+[Data](articles/d9ab419f.json)
+
+[Extended Data](ext_articles/d9ab419f.ext.json)
 
 ---
 ### Sri Lanka signs MoU with Benin on visa exemptions
@@ -66,6 +74,10 @@ The agreement was signed by Foreign Affairs Minister Ali Sabry, and his Beninese
 
 ...
 
+[Data](articles/a4390330.json)
+
+[Extended Data](ext_articles/a4390330.ext.json)
+
 ---
 ### Navy seized Rs. 1.6 BILLION worth of Heroin in major drug bust on High Seas
 
@@ -76,6 +88,10 @@ COLOMBO (News 1st); The Sri Lanka Navy seized over 65kg of heroin and apprehende
 The operation, carried out on January 19th, also led to the seizure of two fishing trawlers suspected of being involved in the smuggling racket.
 
 ...
+
+[Data](articles/29f4f602.json)
+
+[Extended Data](ext_articles/29f4f602.ext.json)
 
 ---
 ### Sajith urges Speaker to postpone parliamentary debate on Online Safety Bill
@@ -88,6 +104,10 @@ The Second Reading of the Online Safety Bill is scheduled for January 23 and 24,
 
 ...
 
+[Data](articles/426f171c.json)
+
+[Extended Data](ext_articles/426f171c.ext.json)
+
 ---
 ### Immunization programme for children who missed MMR dose
 
@@ -98,6 +118,10 @@ Colombo, Jan 20 (Daily Mirror) -  The Epidemiology Unit of the Health Ministry 
 Globally and regionally, the recent COVID-19 pandemic has led to a decline in measles vaccination rates, resulting in a notable increase in measles cases.
 
 ...
+
+[Data](articles/68fc4b99.json)
+
+[Extended Data](ext_articles/68fc4b99.ext.json)
 
 ---
 ### සඳ මතට ගොඩබෑ ජපන් 'මූන් ස්නයිපර්' අර්බුදයක
@@ -114,6 +138,10 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 
 ...
 
+[Data](articles/895695f9.json)
+
+[Extended Data](ext_articles/895695f9.ext.json)
+
 ---
 ### යුක්‍රේනයෙන් රුසියාවට තවත් ප්‍රහාරයක්
 
@@ -126,6 +154,10 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 මේ දින දෙකක් තුළදී රුසියානු ඉන්ධන ගබඩාවකට එල්ලවූ දෙවන යුක්‍රේන ප්‍රහාරය යි.
 
 ◼️
+
+[Data](articles/019cb719.json)
+
+[Extended Data](ext_articles/019cb719.ext.json)
 
 ---
 ### செந்ாில் தொண்டமானை வாழ்த்தினார் வைரமுத்து
@@ -140,6 +172,10 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 
 ◼️
 
+[Data](articles/131427ba.json)
+
+[Extended Data](ext_articles/131427ba.ext.json)
+
 ---
 ### செந்தில் தொண்டமானை வாழ்த்தினார் வைரமுத்து
 
@@ -152,6 +188,10 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 இலங்கை கிழக்கு மாகாணத்தின் மேதகு ஆளுநர் செந்தில் தொண்டமான் அன்பின் நிமித்தமாய் இல்லம் வந்தார்
 
 ◼️
+
+[Data](articles/2acb47f1.json)
+
+[Extended Data](ext_articles/2acb47f1.ext.json)
 
 ---
 ### நாரம்மல சம்பவம்; பொலிஸ் அதிகாரிகளுக்கு பறந்த அதிரடி உத்தரவு
@@ -166,6 +206,10 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 
 ...
 
+[Data](articles/11398620.json)
+
+[Extended Data](ext_articles/11398620.ext.json)
+
 ---
 ### Even IMF has accepted NPP will come to power: Tilvin
 
@@ -176,6 +220,10 @@ Colombo, Jan. 20 (Daily Mirror)- Most countries and organisations in the world, 
 He told a news conference that the Samagi Jana Balawegaya is perturbed over the NPP's recent meeting with the IMF representatives.
 
 ...
+
+[Data](articles/f69230bb.json)
+
+[Extended Data](ext_articles/f69230bb.ext.json)
 
 ---
 ### මෙරට ඇඟලුම් ක්ෂේත්‍රයට අලුත් අවස්ථාවක්
@@ -188,6 +236,10 @@ He told a news conference that the Samagi Jana Balawegaya is perturbed over the 
 
 ...
 
+[Data](articles/6e2fe602.json)
+
+[Extended Data](ext_articles/6e2fe602.ext.json)
+
 ---
 ### Collaborative efforts mooted for success of “Pekoe Trail” project to boost tourism
 
@@ -196,6 +248,10 @@ He told a news conference that the Samagi Jana Balawegaya is perturbed over the 
 A review meeting was conducted on Friday (Jan.19) at the President’s Office, chaired by Sagala Ratnayaka, Senior Advisor to the President on National Security and Chief of Presidential Staff, to discuss the progress of the “Pekoe trail” project aimed at boosting Sri Lanka’s tourism industry.
 
 ...
+
+[Data](articles/84a0f77c.json)
+
+[Extended Data](ext_articles/84a0f77c.ext.json)
 
 ---
 ### பொலிஸாருக்கு பறந்த புதிய உத்தரவு
@@ -208,6 +264,10 @@ A review meeting was conducted on Friday (Jan.19) at the President’s Office, c
 
 ...
 
+[Data](articles/d1c65e0f.json)
+
+[Extended Data](ext_articles/d1c65e0f.ext.json)
+
 ---
 ### சபாநாயகருக்கு சஜித் கடிதம்
 
@@ -219,6 +279,10 @@ A review meeting was conducted on Friday (Jan.19) at the President’s Office, c
 
 ...
 
+[Data](articles/4f25b7c3.json)
+
+[Extended Data](ext_articles/4f25b7c3.ext.json)
+
 ---
 ### බුද්ධි තොරතුරකින් රු. කෝටියක බීඩි කොල අත්අඩංගුවට
 
@@ -229,6 +293,10 @@ A review meeting was conducted on Friday (Jan.19) at the President’s Office, c
 යුධ හමුදා බුද්ධි අංශය විසින් ලබාදෙන ලද තොරතුරකට අනුව එම බීඩි කෙළ තොගය බෝපිටිය ප්‍ර දේශයේ රහසිගතව සඟවා තිබියදී අත්අඩංගුවට ගෙන තිබේ.
 
 ...
+
+[Data](articles/00126640.json)
+
+[Extended Data](ext_articles/00126640.ext.json)
 
 ---
 ### ඩෙටනේටර් සහ වෙඩිබෙහෙත් සමග කාන්තාවක් අත්අඩංගුවට
@@ -243,6 +311,10 @@ A review meeting was conducted on Friday (Jan.19) at the President’s Office, c
 
 ...
 
+[Data](articles/12de9d0e.json)
+
+[Extended Data](ext_articles/12de9d0e.ext.json)
+
 ---
 ### Surge in measles cases prompts UK to declare national health incident
 
@@ -253,6 +325,10 @@ Further outbreaks of measles could spread across Britain, the UK Health Security
 Recent figures from the agency revealed a sharp rise in the number of measles cases, with uptake of the measles, mumps and rubella (MMR) vaccine at its lowest level in more than a decade and “well under” the recommended coverage, the UKHSA chief executive, Dame Jenny Harries, has said.
 
 ...
+
+[Data](articles/a165054c.json)
+
+[Extended Data](ext_articles/a165054c.ext.json)
 
 ---
 ### திருச்சி ஸ்ரீரங்கம் கோவிலுக்கு விஜயம் செய்த முதல் இந்திய பிரதமர் மோடி
@@ -267,6 +343,10 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 
 ...
 
+[Data](articles/1e40f7fd.json)
+
+[Extended Data](ext_articles/1e40f7fd.ext.json)
+
 ---
 ### හෙරොයින් කිලෝ 60ක් නාවික හමුදා භාරයට
 
@@ -275,6 +355,10 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 ශ්‍රී ලංකා නාවික හමුදාව,  දෙවුන්දර තුඩුවේ සිට නාවික සැතපුම් 100 ක් පමණ (කිලෝමීටර් 185 ක් පමණ) දුරින් වූ දකුණු මුහුදු ප්‍රදේශයේ සිදුකල විශේෂ මෙහෙයුමක් මඟින්, හෙරොයින් බවට සැකකෙරෙන මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 60 කට අධික තොගයක් සහිත උර තුනක් (03) ප්‍රවාහනය කරමින් තිබූ මෙරට බහුදින ධීවර යාත්‍රාවක් (01) සහ ඊට සහය වූ බවට සැක කෙරෙන තවත් බහුදින ධීවර යාත්‍රාවක් (01) සමඟ සැකකරුවන් එකොළොස් දෙනෙකු (11) අත්අඩංගුවට ගෙන, අද දින (2024 ජනවාරි 20) උදෑසන ගාල්ල වරාය වෙත රැගෙන ඒමට කටයුතු කෙරිණි.
 
 ...
+
+[Data](articles/8587da60.json)
+
+[Extended Data](ext_articles/8587da60.ext.json)
 
 ---
 ### மன்னாரில் கோர விபத்தை ஏற்படுத்திய சாரதியை காப்பாற்றிய பொலிஸார்?
@@ -287,6 +371,10 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 
 ...
 
+[Data](articles/cb19c52c.json)
+
+[Extended Data](ext_articles/cb19c52c.ext.json)
+
 ---
 ### Remanded Onco Surgeon at Karapitiya requests for early retirement
 
@@ -298,6 +386,10 @@ It is reported that the surgeon could serve until the age of 63 according to the
 
 ...
 
+[Data](articles/645067ec.json)
+
+[Extended Data](ext_articles/645067ec.ext.json)
+
 ---
 ### மின்சார சபை ஊழியர்கள் 66 பேர் பணி நீக்கம்
 
@@ -308,6 +400,10 @@ It is reported that the surgeon could serve until the age of 63 according to the
 மின்சார சபையை மறுசீரமைப்பு செய்வதற்கு எதிர்ப்பு தெரிவித்து ஆர்ப்பாட்டத்தில் ஈடுபட்ட ஊழியர்களே இவ்வாறு பணிநீக்கம் செய்யப்பட்டுள்ளதாக மின்சார சபை அறிவித்துள்ளது.  R
 
 ◼️
+
+[Data](articles/2dcb8ad4.json)
+
+[Extended Data](ext_articles/2dcb8ad4.ext.json)
 
 ---
 ### Accused handed death sentence over 1996 murder
@@ -324,6 +420,10 @@ The court ruled that the death sentence will take effect from the date of the ac
 
 ◼️
 
+[Data](articles/fe261269.json)
+
+[Extended Data](ext_articles/fe261269.ext.json)
+
 ---
 ### Six arrested over financial fraud of over Rs. 28 mn
 
@@ -334,6 +434,10 @@ Six persons have been arrested by the Criminal Investigations Department (CID) f
 The group of suspects comprising three males and three females are believed to have produced cheques from bank accounts with insufficient funds for the purchase of 15 gemstones worth Rs. 28.75 million, police reported.
 
 ...
+
+[Data](articles/2e7dce1c.json)
+
+[Extended Data](ext_articles/2e7dce1c.ext.json)
 
 ---
 ### ජන විරෝධය මැද සනත් නිශාන්ත හැරී යයි
@@ -346,6 +450,10 @@ The group of suspects comprising three males and three females are believed to h
 
 ...
 
+[Data](articles/9b503177.json)
+
+[Extended Data](ext_articles/9b503177.ext.json)
+
 ---
 ### President holds bilateral talks with state leaders during NAM Summit in Kampala
 
@@ -354,6 +462,10 @@ The group of suspects comprising three males and three females are believed to h
 President Ranil Wickremesinghe participated in bilateral discussions with various leaders and representatives from Global South countries in the African region yesterday (19 Jan.), coinciding with the Non-Aligned Nations Conference held in Kampala, Uganda.
 
 ...
+
+[Data](articles/0d4786a2.json)
+
+[Extended Data](ext_articles/0d4786a2.ext.json)
 
 ---
 ### පස් චණ්ඩි පහර දුන් හෝටලයේ හිමිකරුවන්ට තවත් අර්බුදයක්
@@ -368,6 +480,10 @@ President Ranil Wickremesinghe participated in bilateral discussions with variou
 
 ...
 
+[Data](articles/8c6557c0.json)
+
+[Extended Data](ext_articles/8c6557c0.ext.json)
+
 ---
 ### Two police officers involved in Narammala ‘accidental’ shooting interdicted
 
@@ -381,6 +497,10 @@ On Thursday (18 Jan.), a lorry driver aged 41 was killed after a police officer 
 
 ...
 
+[Data](articles/4444732c.json)
+
+[Extended Data](ext_articles/4444732c.ext.json)
+
 ---
 ### සජිත්ගෙන් කථානායකට ලිපියක්
 
@@ -391,6 +511,10 @@ On Thursday (18 Jan.), a lorry driver aged 41 was killed after a police officer 
 එමඟින් විපක්ෂ නායකවරයා පෙන්වා දී ඇත්තේ මෙම පනත මේ මොහොතේ සම්මත වුවහොත් එමඟින් ස්ථාපිත කිරීමට යෝජිත කොමිෂන් සභාවට සහ විෂය භාර අමාත්‍යවරයාට අසීමිත බලයක් හිමිවන බවය.
 
 ...
+
+[Data](articles/482f3b04.json)
+
+[Extended Data](ext_articles/482f3b04.ext.json)
 
 ---
 ### Acting IGP directs police not to stop vehicles while they are in civilian attire
@@ -403,6 +527,10 @@ These new guidelines were distributed to all police stations yesterday.
 
 ...
 
+[Data](articles/72bfef05.json)
+
+[Extended Data](ext_articles/72bfef05.ext.json)
+
 ---
 ### ජනපති අප්‍රිකානු කලාපයේ නායකයන් සමඟ සාකච්ඡාවක
 
@@ -413,6 +541,10 @@ These new guidelines were distributed to all police stations yesterday.
 ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ දකුණු අප්‍රිකානු ජනාධිපති සිරිල් රමපෝසා (Cyril Ramaphosa) මහතා අතර හමුවක් ඊයේ (19) පස්වරුවේ පැවැත්විණි.
 
 ...
+
+[Data](articles/f73070a7.json)
+
+[Extended Data](ext_articles/f73070a7.ext.json)
 
 ---
 ### විශේෂ රථවාහන සැලසුමක්
@@ -425,6 +557,10 @@ These new guidelines were distributed to all police stations yesterday.
 
 ◼️
 
+[Data](articles/86faa0b0.json)
+
+[Extended Data](ext_articles/86faa0b0.ext.json)
+
 ---
 ### Update: Over 60 kgs of heroin seized by Navy off Dondra Point
 
@@ -435,6 +571,10 @@ In a special operation conducted by the Sri Lanka Navy on the southern sea area 
 Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila was deployed in this special operation in the southern sea area, approximately 100 nautical miles (about 185 kms) off Dondra Point yesterday.
 
 ...
+
+[Data](articles/b354790b.json)
+
+[Extended Data](ext_articles/b354790b.ext.json)
 
 ---
 ### காசாவில் மரணித்தவர்களையும் நிம்மதி இழக்கச்செய்யும் இஸ்ரேலிய படையினர் – 16 மயானங்கள் அழிப்பு – சிஎன்என்
@@ -449,6 +589,10 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 
 ...
 
+[Data](articles/ad4a98ce.json)
+
+[Extended Data](ext_articles/ad4a98ce.ext.json)
+
 ---
 ### Special dengue control program in place covering Colombo District
 
@@ -461,6 +605,10 @@ Its director, Dr. Sudath Samaraweera, said that 20% of dengue cases in the count
 He added that 6,689 cases of dengue have been reported in the last 18 days of this year alone.
 
 ◼️
+
+[Data](articles/916aa839.json)
+
+[Extended Data](ext_articles/916aa839.ext.json)
 
 ---
 ### துப்பாக்கி பிரயோகத்தில் உயிரிழந்த சாரதிக்கு இழப்பீடு
@@ -475,6 +623,10 @@ He added that 6,689 cases of dengue have been reported in the last 18 days of th
 
 ...
 
+[Data](articles/40660186.json)
+
+[Extended Data](ext_articles/40660186.ext.json)
+
 ---
 ### පොලිස් නිලධාරින්ට නව උපදෙස් මාලාවක්
 
@@ -487,6 +639,10 @@ He added that 6,689 cases of dengue have been reported in the last 18 days of th
 පසුගිය 18 වනදා නාරම්මල ප්‍රදේශයේ දී පොලිස් නිලධාරියෙකු සිදු කළ වෙඩි තැබීමකින් රියදුරෙකු මිය යාමත් සමඟ මෙම නව උපදෙස් මාලාව ලබා  දුන් බව ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේ ය.
 
 ◼️
+
+[Data](articles/e2c78c6a.json)
+
+[Extended Data](ext_articles/e2c78c6a.ext.json)
 
 ---
 ### ஆரம்ப பாடசாலையில் தீ விபத்து: 13 பேர் பலி
@@ -501,6 +657,10 @@ He added that 6,689 cases of dengue have been reported in the last 18 days of th
 
 ◼️
 
+[Data](articles/9e023d6b.json)
+
+[Extended Data](ext_articles/9e023d6b.ext.json)
+
 ---
 ### Two-thirds of CEB employee loan interests paid by consumers - Minister
 
@@ -510,6 +670,10 @@ Power and Energy Minister Kanchana Wijesekera has revealed that two-thirds of th
 
 ...
 
+[Data](articles/427e171e.json)
+
+[Extended Data](ext_articles/427e171e.ext.json)
+
 ---
 ### NIA files supplementary charge sheet against 4 in Sri Lankan human trafficking case
 
@@ -518,6 +682,10 @@ Power and Energy Minister Kanchana Wijesekera has revealed that two-thirds of th
 Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed a supplementary charge sheet against four accused in a 2021 case relating to human trafficking of 39 Sri Lankan nationals into India on the pretext of taking them to Canada, an official statement said.
 
 ...
+
+[Data](articles/c1c3445e.json)
+
+[Extended Data](ext_articles/c1c3445e.ext.json)
 
 ---
 ### Police officers instructed not to pull over vehicles while clad in civvies
@@ -530,6 +698,10 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ...
 
+[Data](articles/00f77d77.json)
+
+[Extended Data](ext_articles/00f77d77.ext.json)
+
 ---
 ### இலங்கை அரசாங்கம் உத்தேச நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை விலக்கிக்கொள்ள வேண்டும் - ஐம்பதிற்கும் மேற்பட்ட சர்வதேச அமைப்புகள் கூட்டாக வேண்டுகோள்
 
@@ -538,6 +710,10 @@ The directive comes on the heels of an incident in the Narammala Police Division
 இலங்கை அரசாங்கம் உத்தேச நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை விலக்கிக்கொள்ளவேண்டும் என பத்திரிகையாளர்களை பாதுகாப்பதற்கான குழு உட்பட ஐம்பதிற்கும் மேற்பட்ட சர்வதேச அமைப்புகள் கூட்டாக வேண்டுகோள் விடுத்துள்ளன.
 
 ...
+
+[Data](articles/b06fbd62.json)
+
+[Extended Data](ext_articles/b06fbd62.ext.json)
 
 ---
 ### අපරාධයක් සඳහා ආධාර අනුබල දුන් තිදෙනෙකු අත්අඩංගුවට
@@ -552,6 +728,10 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ...
 
+[Data](articles/1c507420.json)
+
+[Extended Data](ext_articles/1c507420.ext.json)
+
 ---
 ### கடை எரிக்க 12 இலட்சம் ; வாகனம் எரிக்க 7 இலட்சம் - யாழில் அட்டகாசம்
 
@@ -564,6 +744,10 @@ The directive comes on the heels of an incident in the Narammala Police Division
 கடைகள் எரித்து சில நாட்களில் கார் ஒன்றும் எரிக்கப்பட்டது. அத்துடன் நபர் ஒருவரின் மோட்டார் சைக்கிளும் வழிப்பறி செய்யப்பட்டது.
 
 ...
+
+[Data](articles/4280e53f.json)
+
+[Extended Data](ext_articles/4280e53f.ext.json)
 
 ---
 ### நாரம்மல சம்பவம் - பொலிஸார் முன்னெடுக்கும் விசாரணைகளால் திருப்தியடையமுடியாது – சுயாதீன விசாரணைகள் அவசியம் சாலியபீரிஸ்
@@ -578,6 +762,10 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ...
 
+[Data](articles/be375657.json)
+
+[Extended Data](ext_articles/be375657.ext.json)
+
 ---
 ### நுவரெலியாவில் கரட் விலையில் மாற்றம்?
 
@@ -589,6 +777,10 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ◼️
 
+[Data](articles/fa98e87f.json)
+
+[Extended Data](ext_articles/fa98e87f.ext.json)
+
 ---
 ### நோயாளியை தூக்கிக் கொண்டு செல்லும் அவலம்
 
@@ -599,6 +791,10 @@ The directive comes on the heels of an incident in the Narammala Police Division
 திருகோணமலை வைத்தியசாலையில் எலும்பு முறிவுக்கு உள்ளாகி சிகிச்சை பெறுவதற்காக சென்ற நோயாளியை கொண்டு செல்வதற்கு சக்கர நாற்காலி வழங்கப்படவில்லை எனவும் இதனால் நோயாளியை தூக்கிக் கொண்டு செல்ல வேண்டிய நிலை ஏற்பட்டதாகவும் தெரிவிக்கப்படுகின்றது.
 
 ...
+
+[Data](articles/1681ff79.json)
+
+[Extended Data](ext_articles/1681ff79.ext.json)
 
 ---
 ### නේවාසිකාගාරයක ගින්නකින් 13 දෙනෙකු ජීවිතක්ෂයට
@@ -615,6 +811,10 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ◼️
 
+[Data](articles/22020abb.json)
+
+[Extended Data](ext_articles/22020abb.ext.json)
+
 ---
 ### Measles catch-up immunization program rolled out for children this weekend
 
@@ -625,6 +825,10 @@ Epidemiology Unit of the Health Ministry is continuing its MMR (measles-mumps-ru
 The measles vaccination rollout was kicked off after observing a decrease in measles vaccination rates both globally and regionally during the recent COVID-19 pandemic.
 
 ...
+
+[Data](articles/ffd03cd1.json)
+
+[Extended Data](ext_articles/ffd03cd1.ext.json)
 
 ---
 ### තවත් සැකකරුවන් 986 දෙනෙකු අත්අඩංගුවට
@@ -639,6 +843,10 @@ The measles vaccination rollout was kicked off after observing a decrease in mea
 
 ...
 
+[Data](articles/63add511.json)
+
+[Extended Data](ext_articles/63add511.ext.json)
+
 ---
 ### Sri Lankan Navy nabs trawlers carrying suspected heroin
 
@@ -652,6 +860,10 @@ The Navy said that the fishing trawlers and the suspects are currently being esc
 
 ◼️
 
+[Data](articles/608909e1.json)
+
+[Extended Data](ext_articles/608909e1.ext.json)
+
 ---
 ### Murky reasons for milk production drop in Sri Lanka
 
@@ -662,6 +874,10 @@ Parliament, Jan. 20 (Daily Mirror)-  Sri Lanka’s dairy industry is facing a m
 While officials from the State Ministry of Livestock Department blamed the closures on animal theft, the MPS expressed skepticism.
 
 ...
+
+[Data](articles/d8e229dd.json)
+
+[Extended Data](ext_articles/d8e229dd.ext.json)
 
 ---
 ### ධීවර යාත්‍රා 02ක් නාවික හමුදා භාරයට
@@ -676,6 +892,10 @@ While officials from the State Ministry of Livestock Department blamed the closu
 
 ...
 
+[Data](articles/34e376a3.json)
+
+[Extended Data](ext_articles/34e376a3.ext.json)
+
 ---
 ### 986 more suspects arrested during operation ‘Yukthiya’
 
@@ -686,6 +906,10 @@ A total of 986 more suspects have been arrested by the security forces personnel
 According to the Ministry of Public Security, a total of 586g of heroin, 180g of crystal methamphetamine (Ice), and 44 narcotic pills.
 
 ◼️
+
+[Data](articles/605f3760.json)
+
+[Extended Data](ext_articles/605f3760.ext.json)
 
 ---
 ### Pathfinder calls for streamlining overseas missions
@@ -698,6 +922,10 @@ Moragoda advocated a "zero-based budgeting" approach, scrutinizing each mission'
 
 ...
 
+[Data](articles/c294b856.json)
+
+[Extended Data](ext_articles/c294b856.ext.json)
+
 ---
 ### 51 more CEB employees interdicted
 
@@ -708,6 +936,10 @@ A total of 51 more employees of the Ceylon Electricity Board (CEB) have been int
 CEB trade union members engaged in a series of protests for three days from January 03 - 05, challenging the government’s Bill to restructure the Board and the new Electricity Bill.
 
 ...
+
+[Data](articles/5a6aefb9.json)
+
+[Extended Data](ext_articles/5a6aefb9.ext.json)
 
 ---
 ### ලංවිමේ හැට හය දෙනෙකුගේ වැඩ තහනම්
@@ -722,6 +954,10 @@ CEB trade union members engaged in a series of protests for three days from Janu
 
 ...
 
+[Data](articles/e99374a0.json)
+
+[Extended Data](ext_articles/e99374a0.ext.json)
+
 ---
 ### Two fishing vessels carrying narcotics intercepted off southern coast
 
@@ -735,6 +971,10 @@ The seized vessels, narcotics consignment and apprehended suspects are being bro
 
 ◼️
 
+[Data](articles/82d68c6c.json)
+
+[Extended Data](ext_articles/82d68c6c.ext.json)
+
 ---
 ### Online Safety Bill: Chilling Effect On Free Speech
 
@@ -744,6 +984,10 @@ COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizati
 
 ...
 
+[Data](articles/a5139743.json)
+
+[Extended Data](ext_articles/a5139743.ext.json)
+
 ---
 ### Online Safety Bill: Chilling free speech, urge groups
 
@@ -752,6 +996,10 @@ COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizati
 COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizations in calling on Minister for Public Security Tiran Alles to withdraw the proposed Online Safety Bill and conduct sustained multi-stakeholder consultations, including with civil society and human rights experts.
 
 ...
+
+[Data](articles/fe67a2b0.json)
+
+[Extended Data](ext_articles/fe67a2b0.ext.json)
 
 ---
 ### Offensive number plate bikers arrested
@@ -764,6 +1012,10 @@ The suspects, both 18-year-olds from Bellanwila, were spotted throughout Borales
 
 ...
 
+[Data](articles/8c08febe.json)
+
+[Extended Data](ext_articles/8c08febe.ext.json)
+
 ---
 ### Japan makes history, becoming fifth country to land spacecraft on moon
 
@@ -772,6 +1024,10 @@ The suspects, both 18-year-olds from Bellanwila, were spotted throughout Borales
 Japan on Saturday became the fifth country to put a spacecraft on the moon, but solar power issues threatened to cut short the nation’s mission to prove a “precision” landing technology and revitalise a space programme that has suffered setbacks.
 
 ...
+
+[Data](articles/d28d1776.json)
+
+[Extended Data](ext_articles/d28d1776.ext.json)
 
 ---
 ### මත්ද්‍රව්‍ය තොගයක් සමග ධීවර යාත්‍රා දෙකක් අත්අඩංගුවට
@@ -784,6 +1040,10 @@ Japan on Saturday became the fifth country to put a spacecraft on the moon, but 
 
 ◼️
 
+[Data](articles/123f4992.json)
+
+[Extended Data](ext_articles/123f4992.ext.json)
+
 ---
 ### SL Navy intercepts multiday and fishing trawlers with heroin on Southern Seas
 
@@ -795,6 +1055,10 @@ The Navy said the seized trawlers and suspects aboard are being escorted to the 
 
 ◼️
 
+[Data](articles/d5b5bc06.json)
+
+[Extended Data](ext_articles/d5b5bc06.ext.json)
+
 ---
 ### අදත් වැස්ස
 
@@ -805,6 +1069,10 @@ The Navy said the seized trawlers and suspects aboard are being escorted to the 
 එසේම උතුරු පළතෙත් අනුරාධපුර දිස්ත්‍රික්කයෙත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බවත් බස්නාහිර,  සබරගමුව, මධ්‍යම හා වයඹ පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න්පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
 
 ...
+
+[Data](articles/ab81dabc.json)
+
+[Extended Data](ext_articles/ab81dabc.ext.json)
 
 ---
 ### Operation Yukthiya nets 986 in 24 hours
@@ -821,6 +1089,10 @@ Police say that drugs including 586 grams of Heroin and 180 grams of ICE in poss
 
 ...
 
+[Data](articles/18e052f1.json)
+
+[Extended Data](ext_articles/18e052f1.ext.json)
+
 ---
 ### ඉන්දියාවේ රිය අනතුරකින් පුද්ගලයින් සිව්දෙනෙකුට දිවි අහිමි වෙයි
 
@@ -836,6 +1108,10 @@ Police say that drugs including 586 grams of Heroin and 180 grams of ICE in poss
 
 ◼️
 
+[Data](articles/2d75b0e5.json)
+
+[Extended Data](ext_articles/2d75b0e5.ext.json)
+
 ---
 ### Minister of Agriculture warns of another vegetable shortage
 
@@ -846,6 +1122,10 @@ COLOMBO (News 1st) – Minister of Agriculture and Plantation Industries, Mahin
 The minister says that the main reason for this is the possible occurrence of a drought this year.
 
 ...
+
+[Data](articles/7f65f70f.json)
+
+[Extended Data](ext_articles/7f65f70f.ext.json)
 
 ---
 ### Sri Lanka Police awards Rs. 1 million compensation to family of lorry driver
@@ -860,6 +1140,10 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 
 ...
 
+[Data](articles/8f1f0b0e.json)
+
+[Extended Data](ext_articles/8f1f0b0e.ext.json)
+
 ---
 ### சாரதி மரணம்; அதிகாரிகளின் பதவி பறிப்பு
 
@@ -873,12 +1157,20 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 
 ...
 
+[Data](articles/9884e6b1.json)
+
+[Extended Data](ext_articles/9884e6b1.ext.json)
+
 ---
 ### Heartwarming visit to care home residents
 
 *2024-01-20 08:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Heartwarming-visit-to-care-home-residents/110-275406) · `en`
 
 ...
+
+[Data](articles/2fb88d44.json)
+
+[Extended Data](ext_articles/2fb88d44.ext.json)
 
 ---
 ### මුදල් වංචාවක් සම්බන්ධයෙන් සය දෙනෙකු අත්අඩංගුවට
@@ -893,6 +1185,10 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 
 ...
 
+[Data](articles/9f39fea0.json)
+
+[Extended Data](ext_articles/9f39fea0.ext.json)
+
 ---
 ### Afternoon thundershowers possible in 4 provinces today
 
@@ -906,6 +1202,10 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ...
 
+[Data](articles/805d616c.json)
+
+[Extended Data](ext_articles/805d616c.ext.json)
+
 ---
 ### விரைவில் இலத்திரனியல் கடவுச்சீட்டு
 
@@ -914,6 +1214,10 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 இலத்திரனியல் கடவுச்சீட்டு விநியோகத்திற்கான ஆரம்பகட்ட நடவடிக்கைகள் பூர்த்தி செய்யப்பட்டுள்ளதாகவும் அவர் கூறியுள்ளார். (N)
 
 ◼️
+
+[Data](articles/cef9201b.json)
+
+[Extended Data](ext_articles/cef9201b.ext.json)
 
 ---
 ### நாடு முழுவதும் இரண்டு நாட்களுக்கு தட்டம்மை தடுப்பூசி
@@ -926,6 +1230,10 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ◼️
 
+[Data](articles/f5f77cdc.json)
+
+[Extended Data](ext_articles/f5f77cdc.ext.json)
+
 ---
 ### மழை தொடர்பில் வெளியான அறிவிப்பு இதோ!
 
@@ -936,6 +1244,10 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 அத்துடன், வட மாகாணம் மற்றும் அநுராதபுரம் மாவட்டங்களில் சில இடங்களில் மழை பெய்யக்கூடும். மேல், சப்ரகமுவ, மத்திய மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பிற்பகல் 02.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
 
 ...
+
+[Data](articles/a32d0c14.json)
+
+[Extended Data](ext_articles/a32d0c14.ext.json)
 
 ---
 ### පොලිස් වෙඩි පහරින් මිය ගිය පුද්ගලයාගේ පවුලට මිලියනයක වන්දියක්
@@ -948,6 +1260,10 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ...
 
+[Data](articles/79f98d2d.json)
+
+[Extended Data](ext_articles/79f98d2d.ext.json)
+
 ---
 ### Family of lorry driver killed in Narammala shooting awarded Rs. 1mn
 
@@ -959,6 +1275,10 @@ Acting Inspector-General of Police (IGP) handed over the money to the bereaved a
 
 ...
 
+[Data](articles/b4c3ba8d.json)
+
+[Extended Data](ext_articles/b4c3ba8d.ext.json)
+
 ---
 ### Status of Japan moon-lander SLIM unclear with solar panel glitch
 
@@ -967,6 +1287,10 @@ Acting Inspector-General of Police (IGP) handed over the money to the bereaved a
 Japan, Jan 20 (The Hindu) - Japan became the fifth country in history to reach the moon when one of its spacecrafts without astronauts successfully made a soft landing on the lunar surface early Saturday.
 
 ...
+
+[Data](articles/93c24f2d.json)
+
+[Extended Data](ext_articles/93c24f2d.ext.json)
 
 ---
 ### IMF expects Sri Lanka to reach private creditor deal by next review
@@ -978,6 +1302,10 @@ ECONOMYNEXT – The International Monetary Fund expects Sri Lanka to reach a dea
 “…[O]ur strong expectation is that an agreement in principle would be reached with the commercial creditors by the time of the second review,” Breuer told reporters in response to a question on whether the review can be completed if there is a delay in reaching a deal with bond holders.
 
 ...
+
+[Data](articles/e4175983.json)
+
+[Extended Data](ext_articles/e4175983.ext.json)
 
 ---
 ### වසර 05ක් ඇතුළත පලස්තීන රාජ්‍යය පිහිටුවිය යුතුයි
@@ -994,6 +1322,10 @@ ECONOMYNEXT – The International Monetary Fund expects Sri Lanka to reach a dea
 
 ...
 
+[Data](articles/a233b5d1.json)
+
+[Extended Data](ext_articles/a233b5d1.ext.json)
+
 ---
 ### German tourist’s solo stroll turns nightmarish
 
@@ -1004,6 +1336,10 @@ Ambalangoda, Jan 20 (Daily Mirror) - A 23-year-old German tourist visiting Ambal
 An unidentified man suddenly lunged at her, leaving her with minor injuries and a deeply unsettling experience.
 
 ...
+
+[Data](articles/64a6a33b.json)
+
+[Extended Data](ext_articles/64a6a33b.ext.json)
 
 ---
 ### මනුෂ්‍ය ඝාතනයක් කළ අයෙකුට මරණ දඬුවම
@@ -1018,6 +1354,10 @@ An unidentified man suddenly lunged at her, leaving her with minor injuries and 
 
 ...
 
+[Data](articles/1772fb33.json)
+
+[Extended Data](ext_articles/1772fb33.ext.json)
+
 ---
 ### නාරම්මල වෙඩි තැබීමේ සැකකාර නිලධාරින්ගේ වැඩ තහනම්
 
@@ -1031,6 +1371,10 @@ An unidentified man suddenly lunged at her, leaving her with minor injuries and 
 
 ...
 
+[Data](articles/9e17ee45.json)
+
+[Extended Data](ext_articles/9e17ee45.ext.json)
+
 ---
 ### Sri Lanka remains open for positive role in dousing India-Maldives tension
 
@@ -1041,6 +1385,10 @@ Colombo, Jan 20 (Daily Mirror) - Sri Lanka remains open to play a positive role 
 First, tension between India and the Maldives flared up since the election of the new Maldivian president Mohamed Muizzu who openly advocates a pro-china policy and even called for Indian troops to leave his country for a foreign policy with better ties with China.
 
 ...
+
+[Data](articles/285155cd.json)
+
+[Extended Data](ext_articles/285155cd.ext.json)
 
 ---
 ### ත්‍රස්ත විරෝධී පනත් කෙටුම්පත ගැන දැඩි අවධානය
@@ -1055,6 +1403,10 @@ First, tension between India and the Maldives flared up since the election of th
 
 ...
 
+[Data](articles/767500fc.json)
+
+[Extended Data](ext_articles/767500fc.ext.json)
+
 ---
 ### 2 Police officers suspended in connection to Narammala shooting
 
@@ -1067,6 +1419,10 @@ The police say that the services of a sub-inspector and a police constable have 
 The sub-inspector, who was arrested for the shooting, was produced before the Kurunegala Magistrate's Court last evening and was remanded until the 23rd of January.
 
 ...
+
+[Data](articles/d8543ecf.json)
+
+[Extended Data](ext_articles/d8543ecf.ext.json)
 
 ---
 ### Three police divisions placed under DIG in charge of the CID
@@ -1081,6 +1437,10 @@ He adds that the Directors of the said 3 departments must report to the DIG in c
 
 ...
 
+[Data](articles/4f3e4299.json)
+
+[Extended Data](ext_articles/4f3e4299.ext.json)
+
 ---
 ### විශ්වවිද්‍යාල ආචාර්‍ය සමිති සම්මේලනයෙන් චෝදනාවක්
 
@@ -1092,6 +1452,10 @@ He adds that the Directors of the said 3 departments must report to the DIG in c
 
 ...
 
+[Data](articles/a6a27f8c.json)
+
+[Extended Data](ext_articles/a6a27f8c.ext.json)
+
 ---
 ### Sri Lanka remains open for positive role dousing India- Maldives tension
 
@@ -1102,6 +1466,10 @@ Colombo, Jan 20 (Daily Mirror) -  Sri Lanka remains open to play a positive rol
 First, tension between India and the Maldives flared up since the election of the new Maldivian president Mohamed Muizzu who openly advocates a pro-China policy and even called for Indian troops to leave his country for a foreign policy with better ties with China.
 
 ...
+
+[Data](articles/f085347b.json)
+
+[Extended Data](ext_articles/f085347b.ext.json)
 
 ---
 ### සරම්ප එන්නත්කරණය දීප ව්‍යාප්තව
@@ -1115,6 +1483,10 @@ First, tension between India and the Maldives flared up since the election of th
 පසුගිය දිනවල පැවති සරම්ප ප්‍රතිශක්තිකරණ එන්නත්කරණ වැඩසටහන තවදුරටත් සක්‍රීය කිරීමේ අරමුණින් මෙම පියවර ගෙන තිබේ.
 
 ◼️
+
+[Data](articles/b39173f8.json)
+
+[Extended Data](ext_articles/b39173f8.ext.json)
 
 ---
 ### ප්‍රදේශ කිහිපයකට විටින් විට වැසි
@@ -1131,6 +1503,10 @@ First, tension between India and the Maldives flared up since the election of th
 
 ...
 
+[Data](articles/d845e62e.json)
+
+[Extended Data](ext_articles/d845e62e.ext.json)
+
 ---
 ### IMF sounds tough on tax evasions, corruption
 
@@ -1139,6 +1515,10 @@ First, tension between India and the Maldives flared up since the election of th
 The International Monetary Fund said in Colombo yesterday that authorities need to publish governance diagnostics periodically in relation to tax collection, tax exemptions and tax concessions to dispel any doubts in the public mind whether any parties or individuals would be evading taxes through the loopholes.
 
 ...
+
+[Data](articles/9a52abea.json)
+
+[Extended Data](ext_articles/9a52abea.ext.json)
 
 ---
 ### IMF applauds Central Bank’s triumphs over inflation but urges prudent policy ahead
@@ -1153,6 +1533,10 @@ Leveraging the effectiveness of the Central Bank of Sri Lanka on the control ove
 
 ...
 
+[Data](articles/0daed3ab.json)
+
+[Extended Data](ext_articles/0daed3ab.ext.json)
+
 ---
 ### Sajith requests speaker to postpone Online Safety Bill
 
@@ -1161,6 +1545,10 @@ Leveraging the effectiveness of the Central Bank of Sri Lanka on the control ove
 Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a letter addressed to Speaker Mahinda Yapa Abeywardene has requested him to postpone the debate on the Online Safety Bill which is to be taken up for debate next week.
 
 ...
+
+[Data](articles/59b2b7fb.json)
+
+[Extended Data](ext_articles/59b2b7fb.ext.json)
 
 ---
 ### ඩෙල්ෆ්: අඩු වියදමකින් විවේකය ගත කළ හැකි සුන්දර සංචාරක ගමනාන්තයක් වෙත යමුද?
@@ -1175,6 +1563,10 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 
 ...
 
+[Data](articles/b60a0cc5.json)
+
+[Extended Data](ext_articles/b60a0cc5.ext.json)
+
 ---
 ### சட்டமூலத்தை மீளப்பெறுமாறு வலியுறுத்தல்
 
@@ -1186,6 +1578,10 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 
 ...
 
+[Data](articles/66a016e4.json)
+
+[Extended Data](ext_articles/66a016e4.ext.json)
+
 ---
 ### பெப்ரவரி முதலாம் திகதி முதல் பணிப்பகிஷ்கரிப்பு
 
@@ -1196,5 +1592,9 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 சுகாதார தொழிற்சங்க கூட்டமைப்பினர் பிரதிநிதிகளுக்கிடையில்  இடம்பெற்ற கலந்துரையாடலின் போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
 
 ...
+
+[Data](articles/98218b92.json)
+
+[Extended Data](ext_articles/98218b92.ext.json)
 
 ---

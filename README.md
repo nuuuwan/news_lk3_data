@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 14:49:26**
+As of **2024-01-20 15:02:20**
 
 ## Newspaper Stats
 
-*Scraped **1,378** Articles*
+*Scraped **1,380** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -19,11 +19,31 @@ dailyftlk | 150 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 adalk | 157 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 161 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 165 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-tamilmirrorlk | 172 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+tamilmirrorlk | 174 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### மன்னாரில் கோர விபத்தை ஏற்படுத்திய சாரதியை காப்பாற்றிய பொலிஸார்?
+
+*2024-01-20 14:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-கோர-விபத்தை-ஏற்படுத்திய-சாரதியை-காப்பாற்றிய-பொலிஸார்/72-331843) 
+
+மன்னார் - யாழ்ப்பாணம் பிரதான வீதி, பள்ளமடு பகுதியில் நேற்று(19) இரவு 7.30 மணியளவில் இடம்பெற்ற விபத்தில் இளம் குடும்பஸ்தர் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்ததுடன், மேலும் ஒருவர் படுகாயமடைந்துள்ளார்.
+
+இந்த நிலையில், சம்பவ இடத்திற்கு வருகை தந்த இலுப்பைக் கடவை பொலிஸ் நிலைய பொறுப்பதிகாரி உள்ளிட்ட பொலிஸார் சம்பவ இடத்தில் இருந்த மக்கள் மீது கடுமையாக தாக்கியதுடன், விபத்தை ஏற்படுத்திய பேருந்தையும், அதன் சாரதியையும் காப்பாற்றிச் சென்றுள்ளதாக பாதிக்கப்பட்டவர்கள் தெரிவித்துள்ளனர்.
+
+...
+
+### மின்சார சபை ஊழியர்கள் 66 பேர் பணி நீக்கம்
+
+*2024-01-20 14:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-ஊழியர்கள்-66-பேர்-பணி-நீக்கம்/175-331842) 
+
+மின்சார சபையில் பணிநீக்கம் செய்யப்பட்ட ஊழியர்களின் எண்ணிக்கை 15 இலிருந்து 66 ஆக உயர்வடைந்துள்ளது.
+
+மின்சார சபையை மறுசீரமைப்பு செய்வதற்கு எதிர்ப்பு தெரிவித்து ஆர்ப்பாட்டத்தில் ஈடுபட்ட ஊழியர்களே இவ்வாறு பணிநீக்கம் செய்யப்பட்டுள்ளதாக மின்சார சபை அறிவித்துள்ளது.  R
+
+◼️
 
 ### Acting IGP directs police not to stop vehicles while they are in civilian attire
 
@@ -1000,25 +1020,5 @@ A bond maturing on 15.07.2029 closed at 14.10/25 percent from 14.00/20 percent.
 *2024-01-19 17:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-Wickremesinghe-urges-global-unity-at-Non-Aligned-Movement-summit/108-275364) 
 
 Kampala, Jan 19 (Daily Mirror) - In a powerful address at the 19th Non-Aligned Movement (NAM) Summit in Kampala, Uganda, President Ranil Wickremesinghe emphasized the critical need to bridge digital divides and tackle the looming threat of Weapons of Mass Destruction.
-
-...
-
-### President Ranil calls for strong, united NAM to contribute to a better world
-
-*2024-01-19 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96550/president-ranil-calls-for-strong-united-nam-to-contribute-to-a-better-world) 
-
-President Ranil Wickremesinghe on Friday (Jan.19) commended President Yoweri Museveni for assuming leadership at the 19th Non-Aligned Movement (NAM) Summit in Kampala, Uganda.
-
-He highlighted the current global challenges, including the humanitarian crisis in Gaza, the shift in the post-Cold War order, and emerging multipolar dynamics.
-
-President Wickremesinghe emphasized the need for NAM to reinvent itself, transforming into the largest bloc representing the Global South.
-
-...
-
-### Court questions Immigration Chief’s double standards on Diana’s citizenship issue
-
-*2024-01-19 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Court-questions-Immigration-Chiefs-double-standards-on-Dianas-citizenship-issue/155-275362) 
-
-Colombo, Jan 19 (Daily Mirror) - While granting Leave to Appeal in the State Minister Diana Gamage's citizenship case, the Supreme Court questioned how the Controller General of Immigration and Emigration had filed a document containing the entry and exit details of Diana Gamage, and later had stated in an affidavit that he was not aware of which Diana Gamage this information pertained to.
 
 ...

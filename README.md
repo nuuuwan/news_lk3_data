@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 22:32:35**
+As of **2024-01-20 22:49:53**
 
 ## Newspaper Stats
 
-*Scraped **1,461** Articles*
+*Scraped **1,462** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dbsjeyarajcom | 117
 virakesarilk | 129
 dailyftlk | 150
 adalk | 160
-dailymirrorlk | 169
+dailymirrorlk | 170
 adaderanalk | 180
 tamilmirrorlk | 183
 
@@ -26,7 +26,7 @@ tamilmirrorlk | 183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-0 (0.0%) of 1,461 articles have been extended.
+0 (0.0%) of 1,462 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -143,6 +143,21 @@ Imported eggs were previously retailed at Rs. 35 per egg, while a carton was sol
 [Data](articles/5e0603ad.json)
 
 [Extended Data](ext_articles/5e0603ad.ext.json)
+
+---
+### Leaked audio exposes woman attempting to bribe Narcotics ASP
+
+*2024-01-20 20:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Leaked-audio-exposes-woman-attempting-to-bribe-Narcotics-ASP/155-275420) · `en`
+
+Colombo, Jan 20 (Daily Mirror) - A leaked audio conversation between a police officer and a female lawyer, suspected of representing a relative of organized criminal Ganemulla Sanjeewa who is being held at the Weeragula Police Station, has surfaced.
+
+It is alleged that during the conversation, the lawyer engaged with an Assistant Superintendent of Police (ASP) from the Narcotics Unit and attempted to offer a bribe.
+
+...
+
+[Data](articles/6501a6b4.json)
+
+[Extended Data](ext_articles/6501a6b4.ext.json)
 
 ---
 ### Leaked audio exposes woman attempting to bribe Narcotics ASP
@@ -1395,7 +1410,7 @@ Japan on Saturday became the fifth country to put a spacecraft on the moon, but 
 
 *2024-01-20 09:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Navy-intercepts-multiday-and-fishing-trawlers-with-heroin-on-Southern-Seas/108-275408) · `en`
 
-Galle, Jan 20 (Daily Mirror) - Following a special operation mounted by the Sri Lanka Navy Intelligence, on receipt of information from the State Intelligence Service, a local multiday fishing trawler and a one-day fishing trawler with a stock of narcotics, suspected to be heroin, have been intercepted on the Southern seas.
+Galle, Jan 20 (Daily Mirror) - Following a special operation mounted by the Sri Lanka Navy, a local multiday fishing trawler and a one-day fishing trawler with a stock of narcotics, suspected to be heroin, have been intercepted on the Southern seas.
 
 The Navy said the seized trawlers and suspects aboard are being escorted to the Galle harbour for onward action.
 
@@ -1579,20 +1594,5 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 [Data](articles/f5f77cdc.json)
 
 [Extended Data](ext_articles/f5f77cdc.ext.json)
-
----
-### மழை தொடர்பில் வெளியான அறிவிப்பு இதோ!
-
-*2024-01-20 08:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-தொடர்பில்-வெளியான-அறிவிப்பு-இதோ/175-331833) · `ta`
-
-கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை மற்றும் மாத்தளை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
-
-அத்துடன், வட மாகாணம் மற்றும் அநுராதபுரம் மாவட்டங்களில் சில இடங்களில் மழை பெய்யக்கூடும். மேல், சப்ரகமுவ, மத்திய மற்றும் வடமேல் மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் பிற்பகல் 02.00 மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
-
-...
-
-[Data](articles/a32d0c14.json)
-
-[Extended Data](ext_articles/a32d0c14.ext.json)
 
 ---

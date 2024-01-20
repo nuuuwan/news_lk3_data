@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 16:32:50**
+As of **2024-01-20 16:48:00**
 
 ## Newspaper Stats
 
-*Scraped **1,422** Articles*
+*Scraped **1,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ virakesarilk | 128
 dailyftlk | 150
 adalk | 160
 dailymirrorlk | 161
-adaderanalk | 172
+adaderanalk | 173
 tamilmirrorlk | 176
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-0 (0.0%) of 1,422 articles have been extended.
+0 (0.0%) of 1,423 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -39,6 +39,14 @@ Extensions include translations and NER (Named Entity Recognition).
 උගන්ඩාවේ කම්පාලා නුවර පැවැත්වෙන නොබැඳි ජාතීන්ගේ සමුළුවට සමගාමීව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ බෙනින් රාජ්‍යයේ උප ජනාධිපති මාරියම් චාබි තලතා (Mariam Chabi Talata) මහත්මිය අතර ද්විපාර්ශ්වික සාකච්ඡා පවත්වා තිබේ.
 
 ශ්‍රී ලංකාව සහ බෙනින් රාජ්‍ය අතර රාජ්‍ය තාන්ත්‍රික සබඳතා 2012 වසරේදී ආරම්භ කෙරුණු අතර දෙරට අතර පවත්නා ආර්ථික සහ වෙළෙඳ සබඳතා තවදුරටත් පුළුල් කරගැනීම පිළිබඳ මෙම සාකච්ඡාවේදී වැඩි අවධානයක් යොමුවී ඇත.
+
+...
+
+### Collaborative efforts mooted for success of “Pekoe Trail” project to boost tourism
+
+*2024-01-20 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96572/collaborative-efforts-mooted-for-success-of-pekoe-trail-project-to-boost-tourism-) · `en`
+
+A review meeting was conducted on Friday (Jan.19) at the President’s Office, chaired by Sagala Ratnayaka, Senior Advisor to the President on National Security and Chief of Presidential Staff, to discuss the progress of the “Pekoe trail” project aimed at boosting Sri Lanka’s tourism industry.
 
 ...
 
@@ -1071,13 +1079,5 @@ The Supreme Court Order Squashing   the Presidential pardon  granted by former P
 Says expects to facilitate market-based consolidation among small and mid-sized banks
 
 While reiterating once again the importance of consolidation in the banking sector for higher scale, efficiency and strength, the Central Bank said it is going to roll out the second phase of the consolidation master plan for the non-bank finance company sector in earnest.
-
-...
-
-### Communicating the climate crisis: Climate fiction and narratives of loss and resilience
-
-*2024-01-20 00:12:40* · [`dailyftlk`](https://www.ft.lk/columns/Communicating-the-climate-crisis-Climate-fiction-and-narratives-of-loss-and-resilience/4-757551) · `en`
-
-Art and fiction can play an important role in enhancing awareness and  understanding of the climate crisis as well as showcasing ground realities, particularly from the Global South
 
 ...

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 22:17:05**
+As of **2024-01-20 22:32:35**
 
 ## Newspaper Stats
 
-*Scraped **1,457** Articles*
+*Scraped **1,461** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ adaderanasinhalalk | 33
 bbccomsinhala | 36
 islandlk | 83
 newsfirstlk | 95
-economynextcom | 98
+economynextcom | 101
 dbsjeyarajcom | 117
 virakesarilk | 129
 dailyftlk | 150
 adalk | 160
-dailymirrorlk | 168
+dailymirrorlk | 169
 adaderanalk | 180
 tamilmirrorlk | 183
 
@@ -26,12 +26,29 @@ tamilmirrorlk | 183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-0 (0.0%) of 1,457 articles have been extended.
+0 (0.0%) of 1,461 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
 
+### Youth shot dead inside mobile shop in Malimbada
+
+*2024-01-20 22:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Youth-shot-dead-inside-mobile-shop-in-Malimbada/108-275421) · `en`
+
+Matara, Jan 20 (Daily Mirror) - A 24-year-old youth was killed in a shooting at Malimbada in Thelijjawela, Matara tonight, police said.
+
+They said that two men arrived on a motorcycle at a mobile shop had opened fire on the victim with a pistol.
+
+The Malimbada Police are investigating to arrest the shooters and determine the motive behind the shooting.
+
+◼️
+
+[Data](articles/fa431834.json)
+
+[Extended Data](ext_articles/fa431834.ext.json)
+
+---
 ### மாத்தறையில் துப்பாக்கிச் சூடு - ஒருவர் பலி
 
 *2024-01-20 21:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறையில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-331863) · `ta`
@@ -186,6 +203,21 @@ The Sri Lankan court on Friday released 32 fishermen from Tamil Nadu who were ap
 [Data](articles/e282e485.json)
 
 [Extended Data](ext_articles/e282e485.ext.json)
+
+---
+### Sri Lanka, Nepal discuss MP exchange programme
+
+*2024-01-20 19:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-nepal-discuss-mp-exchange-programme-148074/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe and the Prime Minister of Nepal Pushpa Kamal Dahal met on Saturday (20) in Kampala, Uganda, on the sidelines of the Non-Aligned Movement Summit.
+
+The two leaders discussed promoting bilateral tourism and developing cultural and religious ties that have existed between the two countries historically.
+
+...
+
+[Data](articles/039ba051.json)
+
+[Extended Data](ext_articles/039ba051.ext.json)
 
 ---
 ### India’s Jaishankar calls on President Ranil, appreciates bilateral initiatives
@@ -410,6 +442,21 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 [Data](articles/895695f9.json)
 
 [Extended Data](ext_articles/895695f9.ext.json)
+
+---
+### Sri Lanka minister tells CEB to recover Rs12bn loans given to employees
+
+*2024-01-20 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-tells-ceb-to-recover-rs12bn-loans-given-to-employees-148071/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy Kanchana Wijesekera has instructed Ceylon Electricity Board management to implement a mechanism to recover the loan and interest amounts from employees who have taken the loans.
+
+“Data provided by the CEB finance division shows that financial facilities extended to CEB employees amounts to about Rs 12 billion and that 2/3rds of the employees’ loan interest component is paid by the CEB,” Wijesekera said on X.
+
+...
+
+[Data](articles/be1e7bf8.json)
+
+[Extended Data](ext_articles/be1e7bf8.ext.json)
 
 ---
 ### යුක්‍රේනයෙන් රුසියාවට තවත් ප්‍රහාරයක්
@@ -859,6 +906,21 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 [Data](articles/b354790b.json)
 
 [Extended Data](ext_articles/b354790b.ext.json)
+
+---
+### Sri Lanka top doctor seeks equality in healthcare
+
+*2024-01-20 12:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-top-doctor-seeks-equality-in-healthcare-148064/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s health care system was hostile to sexual minorities and has institutionalised unfair treatment of ethnic and religious minorities, a top physician said Friday vowing to battle against inequalities.
+
+The new President of the College of Physicians Upul Dissanayake told fellow doctors at his induction in Colombo on Friday that the health sector had failed to recognise diversity and there was widespread discrimination.
+
+...
+
+[Data](articles/569825e7.json)
+
+[Extended Data](ext_articles/569825e7.ext.json)
 
 ---
 ### காசாவில் மரணித்தவர்களையும் நிம்மதி இழக்கச்செய்யும் இஸ்ரேலிய படையினர் – 16 மயானங்கள் அழிப்பு – சிஎன்என்
@@ -1532,63 +1594,5 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 [Data](articles/a32d0c14.json)
 
 [Extended Data](ext_articles/a32d0c14.ext.json)
-
----
-### පොලිස් වෙඩි පහරින් මිය ගිය පුද්ගලයාගේ පවුලට මිලියනයක වන්දියක්
-
-*2024-01-20 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192342) · `si`
-
-නාරම්මල ප්‍රදේශයේ දී පොලිස් නිලධාරියෙකු සිදු කළ වෙඩි තැබීමකින් ඝාතනයට ලක් වූ ලොරි රථ රියදුරාගේ පවුලේ ඥාතීන් සඳහා ශ්‍රී ලංකා  පොලීසිය විසින් රුපියල් මිලියනයක වන්දි මුදලක් ලබා දී තිබේ.
-
-අලව්ව ප්‍රදේශයේ පිහිටි මිය ගිය රියදුරාගේ නිවසේ දී වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් මෙම මුදල ලබා දුන් බව පොලීසිය සඳහන් කළේය.
-
-...
-
-[Data](articles/79f98d2d.json)
-
-[Extended Data](ext_articles/79f98d2d.ext.json)
-
----
-### Family of lorry driver killed in Narammala shooting awarded Rs. 1mn
-
-*2024-01-20 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/96557/family-of-lorry-driver-killed-in-narammala-shooting-awarded-rs-1mn) · `en`
-
-Sri Lanka Police have handed over Rs. 1 million in compensation to the family of the lorry driver who was killed in the shooting incident in Narammala.
-
-Acting Inspector-General of Police (IGP) handed over the money to the bereaved at the deceased’s residence in Maharachchimulla, Alawwa.
-
-...
-
-[Data](articles/b4c3ba8d.json)
-
-[Extended Data](ext_articles/b4c3ba8d.ext.json)
-
----
-### Status of Japan moon-lander SLIM unclear with solar panel glitch
-
-*2024-01-20 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Status-of-Japan-moon-lander-SLIM-unclear-with-solar-panel-glitch/108-275405) · `en`
-
-Japan, Jan 20 (The Hindu) - Japan became the fifth country in history to reach the moon when one of its spacecrafts without astronauts successfully made a soft landing on the lunar surface early Saturday.
-
-...
-
-[Data](articles/93c24f2d.json)
-
-[Extended Data](ext_articles/93c24f2d.ext.json)
-
----
-### IMF expects Sri Lanka to reach private creditor deal by next review
-
-*2024-01-20 08:11:00* · [`economynextcom`](https://economynext.com/imf-expects-sri-lanka-to-reach-private-creditor-deal-by-next-review-148056/) · `en`
-
-ECONOMYNEXT – The International Monetary Fund expects Sri Lanka to reach a deal with commercial creditors by the next review, Senior Mission Chief Peter Breuer said.
-
-“…[O]ur strong expectation is that an agreement in principle would be reached with the commercial creditors by the time of the second review,” Breuer told reporters in response to a question on whether the review can be completed if there is a delay in reaching a deal with bond holders.
-
-...
-
-[Data](articles/e4175983.json)
-
-[Extended Data](ext_articles/e4175983.ext.json)
 
 ---

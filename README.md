@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 08:50:43**
+As of **2024-01-20 09:02:15**
 
 ## Newspaper Stats
 
-*Scraped **1,327** Articles*
+*Scraped **1,335** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 24 | 🟩🟩 
 bbccomsinhala | 35 | 🟩🟩🟩🟩 
-islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
+islandlk | 82 | 🟩🟩🟩🟩🟩🟩🟩🟩 
 newsfirstlk | 87 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 97 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -46,6 +46,14 @@ COLOMBO (News 1st) – Three police divisions have been placed under the DIG in
 Police Spokesperson, SSP Nihal Thalduwa says that the Criminal Investigations Department, Counter Terrorism Investigation Division, and Illegal Assets Investigation Division have been placed under the DIG in charge of the CID.
 
 He adds that the Directors of the said 3 departments must report to the DIG in charge of the CID.
+
+...
+
+### IMF sounds tough on tax evasions, corruption
+
+*2024-01-20 04:22:00* · [`islandlk`](http://island.lk/imf-sounds-tough-on-tax-evasions-corruption/) 
+
+The International Monetary Fund said in Colombo yesterday that authorities need to publish governance diagnostics periodically in relation to tax collection, tax exemptions and tax concessions to dispel any doubts in the public mind whether any parties or individuals would be evading taxes through the loopholes.
 
 ...
 
@@ -373,6 +381,20 @@ COLOMBO (News 1st); Sri Lanka's efforts to restructure its crippling debt face c
 
 ...
 
+### Southbeach Weligama, Silver Sponsor at Galle Literary Festival 2024
+
+*2024-01-19 20:49:00* · [`islandlk`](http://island.lk/southbeach-weligama-silver-sponsor-at-galle-literary-festival-2024/) 
+
+...
+
+### Jaffna Int’l Trade Fair 2024 opens
+
+*2024-01-19 20:49:00* · [`islandlk`](http://island.lk/jaffna-intl-trade-fair-2024-opens/) 
+
+The Jaffna International Trade Fair 2024, a transformative annual event that has played a pivotal role in fostering economic growth and community development in Sri Lanka’s Northern Province, is back with its 14th edition.
+
+...
+
 ### UN: Sri Lanka’s Anti-Terror Bill “Perpetuates Past Horrors”
 
 *2024-01-19 20:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/un-sri-lanka-s-anti-terror-bill-perpetuates-past-horrors/) 
@@ -390,6 +412,14 @@ The United Nations Human Rights Office in a statement said that Sri Lanka's Anti
 Udugampola, Jan 19 (Daily Mirror) -  A narcotics team uncovered Rs.2.2 million cash hidden in an underground bunker at a house in Udugampola, suspected to belong to an accomplice of underworld criminal Ganemulla Sanjeewa.
 
 Sanjeewa is currently detained by the police at the Weeragula Police Station, and the house is also linked to organized criminal 'Patta Manju,' who is involved in drug trafficking and crimes while being overseas.
+
+...
+
+### Vogue Jewellers unveils exclusive investment path
+
+*2024-01-19 20:14:00* · [`islandlk`](http://island.lk/vogue-jewellers-unveils-exclusive-investment-path/) 
+
+In Sri Lanka, one asset class in particular has stood the test of time – and that is gold. Its enduring appeal as a symbol of wealth and stability transcends centuries, making it a timeless choice for anyone looking to invest with the future in mind. Vogue Jewellers, recognizing the intrinsic value of gold, introduces an exclusive opportunity for all Sri Lankans with its upcoming OG (Old Gold) promotion in January 2024.
 
 ...
 
@@ -978,43 +1008,5 @@ ECONOMYNEXT – The government is in discussions to get financial aid from the U
 සේපාලි මායාදුන්නේ යනු සිංහල සාහිත්‍යය තුළ  අපට මුණගැසෙන සුවිශේෂී නවකතාකාරියකි.
 
 ලාංකීය ඉතිහාසයේ විවිධ යුග, භූගෝලීය ප්‍රදේශ සහ සුවිශේෂී ජන කණ්ඩායම්  සාහිත්‍යමය ලෙස ප්‍රතිනිර්මාණය කරන්නට උත්සාහ කරන ඇගේ නවකතාකරණය 'අස්මිමාන' නවකතාවෙන් ඇරඹෙන අතර  තිදස, හීන්දොස්  මාලේ, සිදුරු පත්තර, මහාසාමි, අත්තානි කණු වැනි නවකතා පසු කර දැන් සිංහ සෙයියාව නවකතාව අසල මඳ විවේකයක් ගනිමින් සිටියි.
-
-...
-
-### இன்றைய நாணய மாற்று விகிதம்
-
-*2024-01-19 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174319) 
-
-இன்று வெள்ளிக்கிழமை (ஜனவரி 19) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 315.9284 ஆகவும் விற்பனை விலை ரூபா 326.0600 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-### மரக்கறிகளின் விலைகளை பாருங்கள்
-
-*2024-01-19 12:58:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறிகளின்-விலைகளை-பாருங்கள்/76-331795) 
-
-கமத்தொழில் அமைச்சின் கீழ் இயங்கும் நுவரெலியா பொருளாதார மத்திய நிலையம், வௌ்ளிக்கிழமை (19)   காலை மரக்கறிகள் கொள்வனவு செய்யும் விலை பட்டியலை வெளியிட்டுள்ளது.
-
-நுவரெலியா  பொருளாதார மத்திய நிலைய காரியாலயம் இத் தகவலை உத்தியோகபூர்வமாக வெளியிட்டுள்ளமை குறிப்பிடத்தக்கது.
-
-◼️
-
-### Property tax will help Sri Lanka to take quantum leap to achieve IMF targets – Peter Breuer
-
-*2024-01-19 12:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96543/property-tax-will-help-sri-lanka-to-take-quantum-leap-to-achieve-imf-targets-peter-breuer) 
-
-Although Sri Lanka’s macro economy is gradually stabilizing, the country’s economic recovery process is still in the ‘infancy level’ and has yet to reach the broader population, says Peter Breuer, the Senior Mission Chief of the International Monetary Fund (IMF) to Sri Lanka.
-
-Mr. Breuer has also expressed that property tax will help Sri Lanka to take the quantum leap to achieve the IMF programme’s goals.
-
-...
-
-### ඇසිඩ් ගසා නෑනා මැරූ මස්සිනාට සිර දඬුවම්
-
-*2024-01-19 12:44:52* · [`adalk`](https://www.ada.lk/breaking_news/ඇසිඩ්-ගසා-නෑනා-මැරූ-මස්සිනාට-සිර-දඬුවම්/11-407624) 
-
-සිය නෑනා ඇසිඩ් ගසා බරපතල තුවාල සිදු කොට මරණයට පත් කළේ යයි වැරදිකරුවකුවූ අයෙකුට බරපතල වැඩ සහිත සත් අවුරුදු සිරදඩුවමක් හා රුපියල් 25000ක දඩ මුදලක් ගෙවන ලෙස බලපිටිය මහාධිකරණ විනිසුරු රංග දිසානායක මහතා ඊයේ(18) නියෝග කළේය.
-
-මෙසේ බරපතල සිර දඩුවම් හා දඩමුදල් ගෙවීමට සිදුවූයේ ඌරගස්මංහන්දිය, මහ ඌරගහ පරුස්සගොඩ පදිංචි ජයසිංහ සුමනරත්න නමැත්තාටය.
 
 ...

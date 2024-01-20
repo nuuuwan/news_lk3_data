@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 20:17:04**
+As of **2024-01-20 19:49:51**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ tamilmirrorlk | 180
 
 Extensions include translations and NER (Named Entity Recognition).
 
-0 (0.0%) of 1,437 articles have been extended.
+73 (5.1%) of 1,437 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,7 +44,6 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 
 ...
 
----
 ### இ.தொ.காவின் முக்கிய உறுப்பினர் காலமானார்
 
 *2024-01-20 17:52:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-காவின்-முக்கிய-உறுப்பினர்-காலமானார்/76-331848) · `ta`
@@ -53,7 +52,6 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 
 ...
 
----
 ### Sri Lanka signs MoU with Benin on visa exemptions
 
 *2024-01-20 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96574/sri-lanka-signs-mou-with-benin-on-visa-exemptions) · `en`
@@ -66,7 +64,6 @@ The agreement was signed by Foreign Affairs Minister Ali Sabry, and his Beninese
 
 ...
 
----
 ### Navy seized Rs. 1.6 BILLION worth of Heroin in major drug bust on High Seas
 
 *2024-01-20 17:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/navy-seized-rs-1-6-billion-worth-of-heroin-in-major-drug-bust-on-high-seas/) · `en`
@@ -77,7 +74,6 @@ The operation, carried out on January 19th, also led to the seizure of two fishi
 
 ...
 
----
 ### Sajith urges Speaker to postpone parliamentary debate on Online Safety Bill
 
 *2024-01-20 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96573/sajith-urges-speaker-to-postpone-parliamentary-debate-on-online-safety-bill) · `en`
@@ -88,7 +84,6 @@ The Second Reading of the Online Safety Bill is scheduled for January 23 and 24,
 
 ...
 
----
 ### Immunization programme for children who missed MMR dose
 
 *2024-01-20 16:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immunization-programme-for-children-who-missed-MMR-dose/108-275417) · `en`
@@ -99,7 +94,6 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 
 ...
 
----
 ### සඳ මතට ගොඩබෑ ජපන් 'මූන් ස්නයිපර්' අර්බුදයක
 
 *2024-01-20 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192362) · `si`
@@ -114,7 +108,6 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 
 ...
 
----
 ### යුක්‍රේනයෙන් රුසියාවට තවත් ප්‍රහාරයක්
 
 *2024-01-20 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192361) · `si`
@@ -127,7 +120,6 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 
 ◼️
 
----
 ### செந்ாில் தொண்டமானை வாழ்த்தினார் வைரமுத்து
 
 *2024-01-20 16:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்ாில்-தொண்டமானை-வாழ்த்தினார்-வைரமுத்து/175-331847) · `ta`
@@ -140,7 +132,6 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 
 ◼️
 
----
 ### செந்தில் தொண்டமானை வாழ்த்தினார் வைரமுத்து
 
 *2024-01-20 16:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்தில்-தொண்டமானை-வாழ்த்தினார்-வைரமுத்து/175-331847) · `ta`
@@ -153,7 +144,6 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 
 ◼️
 
----
 ### நாரம்மல சம்பவம்; பொலிஸ் அதிகாரிகளுக்கு பறந்த அதிரடி உத்தரவு
 
 *2024-01-20 16:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாரம்மல-சம்பவம்-பொலிஸ்-அதிகாரிகளுக்கு-பறந்த-அதிரடி-உத்தரவு/175-331846) · `ta`
@@ -166,7 +156,6 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 
 ...
 
----
 ### Even IMF has accepted NPP will come to power: Tilvin
 
 *2024-01-20 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Even-IMF-has-accepted-NPP-will-come-to-power-Tilvin/108-275416) · `en`
@@ -177,7 +166,6 @@ He told a news conference that the Samagi Jana Balawegaya is perturbed over the 
 
 ...
 
----
 ### මෙරට ඇඟලුම් ක්ෂේත්‍රයට අලුත් අවස්ථාවක්
 
 *2024-01-20 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192359) · `si`
@@ -188,7 +176,6 @@ He told a news conference that the Samagi Jana Balawegaya is perturbed over the 
 
 ...
 
----
 ### Collaborative efforts mooted for success of “Pekoe Trail” project to boost tourism
 
 *2024-01-20 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96572/collaborative-efforts-mooted-for-success-of-pekoe-trail-project-to-boost-tourism-) · `en`
@@ -197,7 +184,6 @@ A review meeting was conducted on Friday (Jan.19) at the President’s Office, c
 
 ...
 
----
 ### பொலிஸாருக்கு பறந்த புதிய உத்தரவு
 
 *2024-01-20 15:52:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-பறந்த-புதிய-உத்தரவு/175-331845) · `ta`
@@ -208,7 +194,6 @@ A review meeting was conducted on Friday (Jan.19) at the President’s Office, c
 
 ...
 
----
 ### சபாநாயகருக்கு சஜித் கடிதம்
 
 *2024-01-20 15:49:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-சஜித்-கடிதம்/175-331844) · `ta`
@@ -219,7 +204,6 @@ A review meeting was conducted on Friday (Jan.19) at the President’s Office, c
 
 ...
 
----
 ### බුද්ධි තොරතුරකින් රු. කෝටියක බීඩි කොල අත්අඩංගුවට
 
 *2024-01-20 15:30:11* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-තොරතුරකින්-රු--කෝටියක-බීඩි-කොල-අත්අඩංගුවට/11-407632) · `si`
@@ -230,7 +214,6 @@ A review meeting was conducted on Friday (Jan.19) at the President’s Office, c
 
 ...
 
----
 ### ඩෙටනේටර් සහ වෙඩිබෙහෙත් සමග කාන්තාවක් අත්අඩංගුවට
 
 *2024-01-20 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192358) · `si`
@@ -243,7 +226,6 @@ A review meeting was conducted on Friday (Jan.19) at the President’s Office, c
 
 ...
 
----
 ### Surge in measles cases prompts UK to declare national health incident
 
 *2024-01-20 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96571/surge-in-measles-cases-prompts-uk-to-declare-national-health-incident) · `en`
@@ -254,7 +236,6 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 
 ...
 
----
 ### திருச்சி ஸ்ரீரங்கம் கோவிலுக்கு விஜயம் செய்த முதல் இந்திய பிரதமர் மோடி
 
 *2024-01-20 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/174389) · `ta`
@@ -267,7 +248,6 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 
 ...
 
----
 ### හෙරොයින් කිලෝ 60ක් නාවික හමුදා භාරයට
 
 *2024-01-20 15:00:35* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-කිලෝ-60ක්-නාවික-හමුදා-භාරයට/11-407631) · `si`
@@ -276,7 +256,6 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 
 ...
 
----
 ### மன்னாரில் கோர விபத்தை ஏற்படுத்திய சாரதியை காப்பாற்றிய பொலிஸார்?
 
 *2024-01-20 14:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-கோர-விபத்தை-ஏற்படுத்திய-சாரதியை-காப்பாற்றிய-பொலிஸார்/72-331843) · `ta`
@@ -287,7 +266,6 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 
 ...
 
----
 ### Remanded Onco Surgeon at Karapitiya requests for early retirement
 
 *2024-01-20 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Remanded-Onco-Surgeon-at-Karapitiya-requests-for-early-retirement/108-275415) · `en`
@@ -298,7 +276,6 @@ It is reported that the surgeon could serve until the age of 63 according to the
 
 ...
 
----
 ### மின்சார சபை ஊழியர்கள் 66 பேர் பணி நீக்கம்
 
 *2024-01-20 14:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-ஊழியர்கள்-66-பேர்-பணி-நீக்கம்/175-331842) · `ta`
@@ -309,7 +286,6 @@ It is reported that the surgeon could serve until the age of 63 according to the
 
 ◼️
 
----
 ### Accused handed death sentence over 1996 murder
 
 *2024-01-20 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96570/accused-handed-death-sentence-over-1996-murder) · `en`
@@ -324,7 +300,6 @@ The court ruled that the death sentence will take effect from the date of the ac
 
 ◼️
 
----
 ### Six arrested over financial fraud of over Rs. 28 mn
 
 *2024-01-20 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96569/six-arrested-over-financial-fraud-of-over-rs-28-mn) · `en`
@@ -335,7 +310,6 @@ The group of suspects comprising three males and three females are believed to h
 
 ...
 
----
 ### ජන විරෝධය මැද සනත් නිශාන්ත හැරී යයි
 
 *2024-01-20 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192356) · `si`
@@ -346,7 +320,6 @@ The group of suspects comprising three males and three females are believed to h
 
 ...
 
----
 ### President holds bilateral talks with state leaders during NAM Summit in Kampala
 
 *2024-01-20 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96568/president-holds-bilateral-talks-with-state-leaders-during-nam-summit-in-kampala) · `en`
@@ -355,7 +328,6 @@ President Ranil Wickremesinghe participated in bilateral discussions with variou
 
 ...
 
----
 ### පස් චණ්ඩි පහර දුන් හෝටලයේ හිමිකරුවන්ට තවත් අර්බුදයක්
 
 *2024-01-20 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192355) · `si`
@@ -368,7 +340,6 @@ President Ranil Wickremesinghe participated in bilateral discussions with variou
 
 ...
 
----
 ### Two police officers involved in Narammala ‘accidental’ shooting interdicted
 
 *2024-01-20 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96567/two-police-officers-involved-in-narammala-accidental-shooting-interdicted) · `en`
@@ -381,7 +352,6 @@ On Thursday (18 Jan.), a lorry driver aged 41 was killed after a police officer 
 
 ...
 
----
 ### සජිත්ගෙන් කථානායකට ලිපියක්
 
 *2024-01-20 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192354) · `si`
@@ -392,7 +362,6 @@ On Thursday (18 Jan.), a lorry driver aged 41 was killed after a police officer 
 
 ...
 
----
 ### Acting IGP directs police not to stop vehicles while they are in civilian attire
 
 *2024-01-20 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Acting-IGP-directs-police-not-to-stop-vehicles-while-they-are-in-civilian-attire/108-275414) · `en`
@@ -403,7 +372,6 @@ These new guidelines were distributed to all police stations yesterday.
 
 ...
 
----
 ### ජනපති අප්‍රිකානු කලාපයේ නායකයන් සමඟ සාකච්ඡාවක
 
 *2024-01-20 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192353) · `si`
@@ -414,7 +382,6 @@ These new guidelines were distributed to all police stations yesterday.
 
 ...
 
----
 ### විශේෂ රථවාහන සැලසුමක්
 
 *2024-01-20 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192352) · `si`
@@ -425,7 +392,6 @@ These new guidelines were distributed to all police stations yesterday.
 
 ◼️
 
----
 ### Update: Over 60 kgs of heroin seized by Navy off Dondra Point
 
 *2024-01-20 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Over-60-kgs-of-heroin-seized-by-Navy-off-Dondra-Point/108-275413) · `en`
@@ -436,7 +402,6 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 
 ...
 
----
 ### காசாவில் மரணித்தவர்களையும் நிம்மதி இழக்கச்செய்யும் இஸ்ரேலிய படையினர் – 16 மயானங்கள் அழிப்பு – சிஎன்என்
 
 *2024-01-20 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174386) · `ta`
@@ -449,7 +414,6 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 
 ...
 
----
 ### Special dengue control program in place covering Colombo District
 
 *2024-01-20 12:51:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/special-dengue-control-program-in-place-covering-colombo-district/) · `en`
@@ -462,7 +426,6 @@ He added that 6,689 cases of dengue have been reported in the last 18 days of th
 
 ◼️
 
----
 ### துப்பாக்கி பிரயோகத்தில் உயிரிழந்த சாரதிக்கு இழப்பீடு
 
 *2024-01-20 12:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-உயிரிழந்த-சாரதிக்கு-இழப்பீடு/175-331841) · `ta`
@@ -475,7 +438,6 @@ He added that 6,689 cases of dengue have been reported in the last 18 days of th
 
 ...
 
----
 ### පොලිස් නිලධාරින්ට නව උපදෙස් මාලාවක්
 
 *2024-01-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192351) · `si`
@@ -488,7 +450,6 @@ He added that 6,689 cases of dengue have been reported in the last 18 days of th
 
 ◼️
 
----
 ### ஆரம்ப பாடசாலையில் தீ விபத்து: 13 பேர் பலி
 
 *2024-01-20 12:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆரம்ப-பாடசாலையில்-தீ-விபத்து-13-பேர்-பலி/175-331840) · `ta`
@@ -501,7 +462,6 @@ He added that 6,689 cases of dengue have been reported in the last 18 days of th
 
 ◼️
 
----
 ### Two-thirds of CEB employee loan interests paid by consumers - Minister
 
 *2024-01-20 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96566/two-thirds-of-ceb-employee-loan-interests-paid-by-consumers-minister) · `en`
@@ -510,7 +470,6 @@ Power and Energy Minister Kanchana Wijesekera has revealed that two-thirds of th
 
 ...
 
----
 ### NIA files supplementary charge sheet against 4 in Sri Lankan human trafficking case
 
 *2024-01-20 12:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NIA-files-supplementary-charge-sheet-against-4-in-Sri-Lankan-human-trafficking-case/108-275412) · `en`
@@ -519,7 +478,6 @@ Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed 
 
 ...
 
----
 ### Police officers instructed not to pull over vehicles while clad in civvies
 
 *2024-01-20 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96565/police-officers-instructed-not-to-pull-over-vehicles-while-clad-in-civvies-) · `en`
@@ -530,7 +488,6 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ...
 
----
 ### இலங்கை அரசாங்கம் உத்தேச நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை விலக்கிக்கொள்ள வேண்டும் - ஐம்பதிற்கும் மேற்பட்ட சர்வதேச அமைப்புகள் கூட்டாக வேண்டுகோள்
 
 *2024-01-20 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174382) · `ta`
@@ -539,7 +496,6 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ...
 
----
 ### අපරාධයක් සඳහා ආධාර අනුබල දුන් තිදෙනෙකු අත්අඩංගුවට
 
 *2024-01-20 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192350) · `si`
@@ -552,7 +508,6 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ...
 
----
 ### கடை எரிக்க 12 இலட்சம் ; வாகனம் எரிக்க 7 இலட்சம் - யாழில் அட்டகாசம்
 
 *2024-01-20 11:43:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கடை-எரிக்க-12-இலட்சம்-வாகனம்-எரிக்க-7-இலட்சம்-யாழில்-அட்டகாசம்/71-331839) · `ta`
@@ -565,7 +520,6 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ...
 
----
 ### நாரம்மல சம்பவம் - பொலிஸார் முன்னெடுக்கும் விசாரணைகளால் திருப்தியடையமுடியாது – சுயாதீன விசாரணைகள் அவசியம் சாலியபீரிஸ்
 
 *2024-01-20 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174379) · `ta`
@@ -578,7 +532,6 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ...
 
----
 ### நுவரெலியாவில் கரட் விலையில் மாற்றம்?
 
 *2024-01-20 11:31:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-கரட்-விலையில்-மாற்றம்/76-331838) · `ta`
@@ -589,7 +542,6 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ◼️
 
----
 ### நோயாளியை தூக்கிக் கொண்டு செல்லும் அவலம்
 
 *2024-01-20 11:28:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நோயாளியை-தூக்கிக்-கொண்டு-செல்லும்-அவலம்/76-331837) · `ta`
@@ -600,7 +552,6 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ...
 
----
 ### නේවාසිකාගාරයක ගින්නකින් 13 දෙනෙකු ජීවිතක්ෂයට
 
 *2024-01-20 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192349) · `si`
@@ -615,7 +566,6 @@ The directive comes on the heels of an incident in the Narammala Police Division
 
 ◼️
 
----
 ### Measles catch-up immunization program rolled out for children this weekend
 
 *2024-01-20 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96564/measles-catch-up-immunization-program-rolled-out-for-children-this-weekend) · `en`
@@ -626,7 +576,6 @@ The measles vaccination rollout was kicked off after observing a decrease in mea
 
 ...
 
----
 ### තවත් සැකකරුවන් 986 දෙනෙකු අත්අඩංගුවට
 
 *2024-01-20 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192348) · `si`
@@ -639,7 +588,6 @@ The measles vaccination rollout was kicked off after observing a decrease in mea
 
 ...
 
----
 ### Sri Lankan Navy nabs trawlers carrying suspected heroin
 
 *2024-01-20 11:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/sri-lankan-navy-nabs-trawlers-carrying-suspected-heroin/) · `en`
@@ -652,7 +600,6 @@ The Navy said that the fishing trawlers and the suspects are currently being esc
 
 ◼️
 
----
 ### Murky reasons for milk production drop in Sri Lanka
 
 *2024-01-20 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Murky-reasons-for-milk-production-drop-in-Sri-Lanka/108-275411) · `en`
@@ -663,7 +610,6 @@ While officials from the State Ministry of Livestock Department blamed the closu
 
 ...
 
----
 ### ධීවර යාත්‍රා 02ක් නාවික හමුදා භාරයට
 
 *2024-01-20 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192347) · `si`
@@ -676,7 +622,6 @@ While officials from the State Ministry of Livestock Department blamed the closu
 
 ...
 
----
 ### 986 more suspects arrested during operation ‘Yukthiya’
 
 *2024-01-20 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96563/986-more-suspects-arrested-during-operation-yukthiya) · `en`
@@ -687,7 +632,6 @@ According to the Ministry of Public Security, a total of 586g of heroin, 180g of
 
 ◼️
 
----
 ### Pathfinder calls for streamlining overseas missions
 
 *2024-01-20 10:21:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/pathfinder-calls-for-streamlining-overseas-missions/) · `en`
@@ -698,7 +642,6 @@ Moragoda advocated a "zero-based budgeting" approach, scrutinizing each mission'
 
 ...
 
----
 ### 51 more CEB employees interdicted
 
 *2024-01-20 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96562/51-more-ceb-employees-interdicted) · `en`
@@ -709,7 +652,6 @@ CEB trade union members engaged in a series of protests for three days from Janu
 
 ...
 
----
 ### ලංවිමේ හැට හය දෙනෙකුගේ වැඩ තහනම්
 
 *2024-01-20 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192346) · `si`
@@ -722,7 +664,6 @@ CEB trade union members engaged in a series of protests for three days from Janu
 
 ...
 
----
 ### Two fishing vessels carrying narcotics intercepted off southern coast
 
 *2024-01-20 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96561/two-fishing-vessels-carrying-narcotics-intercepted-off-southern-coast) · `en`
@@ -735,7 +676,6 @@ The seized vessels, narcotics consignment and apprehended suspects are being bro
 
 ◼️
 
----
 ### Online Safety Bill: Chilling Effect On Free Speech
 
 *2024-01-20 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/online-safety-bill-chilling-effect-on-free-speech/) · `en`
@@ -744,7 +684,6 @@ COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizati
 
 ...
 
----
 ### Online Safety Bill: Chilling free speech, urge groups
 
 *2024-01-20 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/online-safety-bill-chilling-free-speech-urge-groups/) · `en`
@@ -753,7 +692,6 @@ COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizati
 
 ...
 
----
 ### Offensive number plate bikers arrested
 
 *2024-01-20 09:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Offensive-number-plate-bikers-arrested/108-275409) · `en`
@@ -764,7 +702,6 @@ The suspects, both 18-year-olds from Bellanwila, were spotted throughout Borales
 
 ...
 
----
 ### Japan makes history, becoming fifth country to land spacecraft on moon
 
 *2024-01-20 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96559/japan-makes-history-becoming-fifth-country-to-land-spacecraft-on-moon) · `en`
@@ -773,7 +710,6 @@ Japan on Saturday became the fifth country to put a spacecraft on the moon, but 
 
 ...
 
----
 ### මත්ද්‍රව්‍ය තොගයක් සමග ධීවර යාත්‍රා දෙකක් අත්අඩංගුවට
 
 *2024-01-20 09:40:35* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-තොගයක්-සමග-ධීවර-යාත්‍රා-දෙකක්-අත්අඩංගුවට/11-407629) · `si`
@@ -784,7 +720,6 @@ Japan on Saturday became the fifth country to put a spacecraft on the moon, but 
 
 ◼️
 
----
 ### SL Navy intercepts multiday and fishing trawlers with heroin on Southern Seas
 
 *2024-01-20 09:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Navy-intercepts-multiday-and-fishing-trawlers-with-heroin-on-Southern-Seas/108-275408) · `en`
@@ -795,7 +730,6 @@ The Navy said the seized trawlers and suspects aboard are being escorted to the 
 
 ◼️
 
----
 ### අදත් වැස්ස
 
 *2024-01-20 09:35:15* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-වැස්ස/11-407628) · `si`
@@ -806,7 +740,6 @@ The Navy said the seized trawlers and suspects aboard are being escorted to the 
 
 ...
 
----
 ### Operation Yukthiya nets 986 in 24 hours
 
 *2024-01-20 09:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/operation-yukthiya-nets-986-in-24-hours/) · `en`
@@ -821,7 +754,6 @@ Police say that drugs including 586 grams of Heroin and 180 grams of ICE in poss
 
 ...
 
----
 ### ඉන්දියාවේ රිය අනතුරකින් පුද්ගලයින් සිව්දෙනෙකුට දිවි අහිමි වෙයි
 
 *2024-01-20 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192344) · `si`
@@ -836,7 +768,6 @@ Police say that drugs including 586 grams of Heroin and 180 grams of ICE in poss
 
 ◼️
 
----
 ### Minister of Agriculture warns of another vegetable shortage
 
 *2024-01-20 09:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/minister-of-agriculture-warns-of-another-vegetable-shortage/) · `en`
@@ -847,7 +778,6 @@ The minister says that the main reason for this is the possible occurrence of a 
 
 ...
 
----
 ### Sri Lanka Police awards Rs. 1 million compensation to family of lorry driver
 
 *2024-01-20 09:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Police-awards-Rs-1-million-compensation-to-family-of-lorry-driver/108-275407) · `en`
@@ -860,7 +790,6 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 
 ...
 
----
 ### சாரதி மரணம்; அதிகாரிகளின் பதவி பறிப்பு
 
 *2024-01-20 09:01:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-மரணம்-அதிகாரிகளின்-பதவி-பறிப்பு/175-331836) · `ta`
@@ -873,14 +802,12 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 
 ...
 
----
 ### Heartwarming visit to care home residents
 
 *2024-01-20 08:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Heartwarming-visit-to-care-home-residents/110-275406) · `en`
 
 ...
 
----
 ### මුදල් වංචාවක් සම්බන්ධයෙන් සය දෙනෙකු අත්අඩංගුවට
 
 *2024-01-20 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192343) · `si`
@@ -893,7 +820,6 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 
 ...
 
----
 ### Afternoon thundershowers possible in 4 provinces today
 
 *2024-01-20 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96558/afternoon-thundershowers-possible-in-4-provinces-today) · `en`
@@ -906,7 +832,6 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ...
 
----
 ### விரைவில் இலத்திரனியல் கடவுச்சீட்டு
 
 *2024-01-20 08:32:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரைவில்-இலத்திரனியல்-கடவுச்சீட்டு/175-331835) · `ta`
@@ -915,7 +840,6 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ◼️
 
----
 ### நாடு முழுவதும் இரண்டு நாட்களுக்கு தட்டம்மை தடுப்பூசி
 
 *2024-01-20 08:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-முழுவதும்-இரண்டு-நாட்களுக்கு-தட்டம்மை-தடுப்பூசி/175-331834) · `ta`
@@ -926,7 +850,6 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ◼️
 
----
 ### மழை தொடர்பில் வெளியான அறிவிப்பு இதோ!
 
 *2024-01-20 08:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-தொடர்பில்-வெளியான-அறிவிப்பு-இதோ/175-331833) · `ta`
@@ -937,7 +860,6 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ...
 
----
 ### පොලිස් වෙඩි පහරින් මිය ගිය පුද්ගලයාගේ පවුලට මිලියනයක වන්දියක්
 
 *2024-01-20 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192342) · `si`
@@ -948,7 +870,6 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ...
 
----
 ### Family of lorry driver killed in Narammala shooting awarded Rs. 1mn
 
 *2024-01-20 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/96557/family-of-lorry-driver-killed-in-narammala-shooting-awarded-rs-1mn) · `en`
@@ -959,7 +880,6 @@ Acting Inspector-General of Police (IGP) handed over the money to the bereaved a
 
 ...
 
----
 ### Status of Japan moon-lander SLIM unclear with solar panel glitch
 
 *2024-01-20 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Status-of-Japan-moon-lander-SLIM-unclear-with-solar-panel-glitch/108-275405) · `en`
@@ -968,7 +888,6 @@ Japan, Jan 20 (The Hindu) - Japan became the fifth country in history to reach t
 
 ...
 
----
 ### IMF expects Sri Lanka to reach private creditor deal by next review
 
 *2024-01-20 08:11:00* · [`economynextcom`](https://economynext.com/imf-expects-sri-lanka-to-reach-private-creditor-deal-by-next-review-148056/) · `en`
@@ -979,7 +898,6 @@ ECONOMYNEXT – The International Monetary Fund expects Sri Lanka to reach a dea
 
 ...
 
----
 ### වසර 05ක් ඇතුළත පලස්තීන රාජ්‍යය පිහිටුවිය යුතුයි
 
 *2024-01-20 08:04:49* · [`adalk`](https://www.ada.lk/breaking_news/වසර-05ක්-ඇතුළත-පලස්තීන-රාජ්‍යය-පිහිටුවිය-යුතුයි/11-407627) · `si`
@@ -994,7 +912,6 @@ ECONOMYNEXT – The International Monetary Fund expects Sri Lanka to reach a dea
 
 ...
 
----
 ### German tourist’s solo stroll turns nightmarish
 
 *2024-01-20 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/German-tourists-solo-stroll-turns-nightmarish/108-275404) · `en`
@@ -1005,7 +922,6 @@ An unidentified man suddenly lunged at her, leaving her with minor injuries and 
 
 ...
 
----
 ### මනුෂ්‍ය ඝාතනයක් කළ අයෙකුට මරණ දඬුවම
 
 *2024-01-20 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192341) · `si`
@@ -1018,7 +934,6 @@ An unidentified man suddenly lunged at her, leaving her with minor injuries and 
 
 ...
 
----
 ### නාරම්මල වෙඩි තැබීමේ සැකකාර නිලධාරින්ගේ වැඩ තහනම්
 
 *2024-01-20 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192340) · `si`
@@ -1031,7 +946,6 @@ An unidentified man suddenly lunged at her, leaving her with minor injuries and 
 
 ...
 
----
 ### Sri Lanka remains open for positive role in dousing India-Maldives tension
 
 *2024-01-20 07:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-remains-open-for-positive-role-in-dousing-India-Maldives-tension/155-275403) · `en`
@@ -1042,7 +956,6 @@ First, tension between India and the Maldives flared up since the election of th
 
 ...
 
----
 ### ත්‍රස්ත විරෝධී පනත් කෙටුම්පත ගැන දැඩි අවධානය
 
 *2024-01-20 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192339) · `si`
@@ -1055,7 +968,6 @@ First, tension between India and the Maldives flared up since the election of th
 
 ...
 
----
 ### 2 Police officers suspended in connection to Narammala shooting
 
 *2024-01-20 07:38:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/2-police-officers-suspended-in-connection-to-narammala-shooting/) · `en`
@@ -1068,7 +980,6 @@ The sub-inspector, who was arrested for the shooting, was produced before the Ku
 
 ...
 
----
 ### Three police divisions placed under DIG in charge of the CID
 
 *2024-01-20 07:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/three-police-divisions-placed-under-dig-in-charge-of-the-cid/) · `en`
@@ -1081,7 +992,6 @@ He adds that the Directors of the said 3 departments must report to the DIG in c
 
 ...
 
----
 ### විශ්වවිද්‍යාල ආචාර්‍ය සමිති සම්මේලනයෙන් චෝදනාවක්
 
 *2024-01-20 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192338) · `si`
@@ -1092,7 +1002,6 @@ He adds that the Directors of the said 3 departments must report to the DIG in c
 
 ...
 
----
 ### Sri Lanka remains open for positive role dousing India- Maldives tension
 
 *2024-01-20 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-remains-open-for-positive-role-dousing-India-Maldives-tension/108-275377) · `en`
@@ -1103,7 +1012,6 @@ First, tension between India and the Maldives flared up since the election of th
 
 ...
 
----
 ### සරම්ප එන්නත්කරණය දීප ව්‍යාප්තව
 
 *2024-01-20 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192337) · `si`
@@ -1116,7 +1024,6 @@ First, tension between India and the Maldives flared up since the election of th
 
 ◼️
 
----
 ### ප්‍රදේශ කිහිපයකට විටින් විට වැසි
 
 *2024-01-20 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192336) · `si`
@@ -1131,7 +1038,6 @@ First, tension between India and the Maldives flared up since the election of th
 
 ...
 
----
 ### IMF sounds tough on tax evasions, corruption
 
 *2024-01-20 04:22:00* · [`islandlk`](http://island.lk/imf-sounds-tough-on-tax-evasions-corruption/) · `en`
@@ -1140,7 +1046,6 @@ The International Monetary Fund said in Colombo yesterday that authorities need 
 
 ...
 
----
 ### IMF applauds Central Bank’s triumphs over inflation but urges prudent policy ahead
 
 *2024-01-20 04:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-applauds-Central-Banks-triumphs-over-inflation-but-urges-prudent-policy-ahead/108-275400) · `en`
@@ -1153,7 +1058,6 @@ Leveraging the effectiveness of the Central Bank of Sri Lanka on the control ove
 
 ...
 
----
 ### Sajith requests speaker to postpone Online Safety Bill
 
 *2024-01-20 03:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-requests-speaker-to-postpone-Online-Safety-Bill/108-275378) · `en`
@@ -1162,7 +1066,6 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 
 ...
 
----
 ### ඩෙල්ෆ්: අඩු වියදමකින් විවේකය ගත කළ හැකි සුන්දර සංචාරක ගමනාන්තයක් වෙත යමුද?
 
 *2024-01-20 03:00:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72y0ldxq3lo) · `si`
@@ -1175,7 +1078,6 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 
 ...
 
----
 ### சட்டமூலத்தை மீளப்பெறுமாறு வலியுறுத்தல்
 
 *2024-01-20 02:57:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலத்தை-மீளப்பெறுமாறு-வலியுறுத்தல்/175-331832) · `ta`
@@ -1186,7 +1088,6 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 
 ...
 
----
 ### பெப்ரவரி முதலாம் திகதி முதல் பணிப்பகிஷ்கரிப்பு
 
 *2024-01-20 02:50:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-முதலாம்-திகதி-முதல்-பணிப்பகிஷ்கரிப்பு/175-331831) · `ta`
@@ -1196,5 +1097,3 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 சுகாதார தொழிற்சங்க கூட்டமைப்பினர் பிரதிநிதிகளுக்கிடையில்  இடம்பெற்ற கலந்துரையாடலின் போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
 
 ...
-
----

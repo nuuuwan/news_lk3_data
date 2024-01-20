@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 00:02:27**
+As of **2024-01-21 00:32:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanalk | 185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-130 (8.8%) of 1,472 articles have been extended.
+147 (10.0%) of 1,472 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The Friday night fire killed third graders in a boys’ dormitory of Yingcai Sch
 
 [Data](articles/64a9676b.json)
 
+[Extended Data](ext_articles/64a9676b.ext.json)
+
 ---
 
 ### PUCSL to reach decision on proposed electricity tariffs next week
@@ -59,6 +61,8 @@ The PUCSL will then modify the proposal based on public feedback and submit the 
 ...
 
 [Data](articles/37e5e4cf.json)
+
+[Extended Data](ext_articles/37e5e4cf.ext.json)
 
 ---
 
@@ -92,19 +96,25 @@ The Minister of Foreign Affairs Ali Sabry PC, highlighted the importance of thes
 
 [Data](articles/86cc4cb4.json)
 
+[Extended Data](ext_articles/86cc4cb4.ext.json)
+
 ---
 
-### අපි මේ අප්‍රේල් 21 ඒක ප්‍රකාශයට පත් කරනවා - කාදිනල් හිමි
+### We publish it this April 21 - Cardinal Thero
 
 *2024-01-20 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192372) · `si`
 
-පාස්කු ත්‍රස්ත ප්‍රහාරය සිදුවී 05 වසරක් සපරෙන අප්‍රේල් මස 21 වනදා ඉන් මියගිය සියලුදෙනා ශාන්තුවරුන් ලෙස ඔසවා තබන්නට ඔවුන්ගේ නම් ඉදිරිපත් කිරීමට තීරණය කළ බව අගරදගුරු මැල්කම් කාදිනල් රංජිත් හිමි පවසති.
+The Archbishop Malcolm Cardinal Ranjith says that the Passover attacker had taken place on April 21, a year after the death of the deceased.
 
-උන්වහන්සේ ඒ බව සඳහන් කළේ ඊයේ (19) කඳාන, ශුද්ධ වූ සෙබස්තියන් මුනිදුන්ගේ සිද්ධස්ථානයේ පැවති සන්ධ්‍යා මෙහෙය පැවති අතරතුරදීය.
+He said that the evening was held at the Shunkara's shrine yesterday (19).
+
+The Ranjith Kadinal Ranjith Thero was held under the patronage of the Annual Festival of the Shrine Shrine Shrine Shrine Shrine Shrine Shrine.
 
 ...
 
 [Data](articles/312d6444.json)
+
+[Extended Data](ext_articles/312d6444.ext.json)
 
 ---
 
@@ -154,41 +164,49 @@ Police suspect that a pistol was used for the shooting, while the motive behind 
 
 [Data](articles/0fb59a80.json)
 
+[Extended Data](ext_articles/0fb59a80.ext.json)
+
 ---
 
-### වෙඩික්කරුවන් දෙදෙනෙකු තරුණයෙකු ඝාතනය කර පළායයි
+### Two shooters kill a young man
 
 *2024-01-20 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192371) · `si`
 
-මාතර තෙලිජ්ජවිල මංසන්ධියේ අද (20) රාත්‍රියේ සිදුකළ වෙඩිතැබීමෙන් 24 හැවිරිදි පුද්ගලයෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+Police said that a 24-year-old man was killed in the shadder of the Thelijjjawila junction at the Thelejjawila junction at the Anuradhapura Junction.
 
-යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් එම වෙඩිතැබීම සිදුකර ඇත.
+Two unidentified persons who came from a motorbike have been shot.
 
-වෙඩිවැදී ඇත්තේ ජංගම දුරකථන අලෙවිසැලක් තුළ සිටි පුද්ගලයෙකුටය. ඔහු වැලිපිටිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A person who was in a mobile phone outlet. He is a resident of Welipitiya.
 
-ඝාතනයට හේතුව හෝ වෙඩික්කරුවන් පිළිබඳ මෙතෙක් තොරතුරු අනාවරණය වී නොමැති බව පොලීසිය පවසයි.
+Police say that information regarding the cause of the murder, the police said.
 
-පොලීසිය සඳහන් කළේ මාතර තෙලිජ්ජවිල ප්‍රදේශයේදී එම වෙඩිතැබීම සිදුවී ඇති බවය.
+The police said that the shooting had taken place in the Thelejjawila area in Matara.
 
 ...
 
 [Data](articles/4da173f5.json)
 
+[Extended Data](ext_articles/4da173f5.ext.json)
+
 ---
 
-### උසස් පෙළ විභාග මධ්‍යස්ථානයක ගැටලුවක්
+### A problem at A / L examination center
 
 *2024-01-20 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192370) · `si`
 
-ගාල්ල ප්‍රදේශයේ අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාග මධ්‍යස්ථානයක අද (20) පැවති ගිණුම්කරණය පළමු ප්‍රශ්න පත්‍රය සඳහා ගණක යන්ත්‍ර භාවිත කිරීමේදී ගැටලුවක් මතුවී ඇති බව වාර්තා වෙයි.
+It is reported that the accounting for the first question paper of the A / L examination center in Galle is reported to be used today.
 
-දරුවන් ප්‍රශ්න පත්‍රයට පිළිතුරු සපයමින් සිටියදී ඔවුන්ගේ ගණක යන්ත්‍ර ශාලාධිපතිනිය විසින් ලබාගෙන ඇති බව සඳහන්ය.
+It is said that while children were responding to the question.
 
-ඊට හේතුව වී ඇත්තේ අපේක්ෂකයින් කිහිපදෙනෙකු විසින් අනුමත නොකරන ලද ගණක යන්ත්‍ර විභාග ශාලාව තුළට ගෙනඒම බව වාර්තා වෙයි.
+It is reported that the calculators who are not approved by several candidates are brought to the examination hall.
+
+However, after an educational authorities, the Adjuni's educational authorities, however, the candidates have been given to the calculators.
 
 ...
 
 [Data](articles/023db2bb.json)
+
+[Extended Data](ext_articles/023db2bb.ext.json)
 
 ---
 
@@ -203,6 +221,8 @@ In a joint letter addressed to the Minister, the CPJ, together with 58 other org
 ...
 
 [Data](articles/f413a863.json)
+
+[Extended Data](ext_articles/f413a863.ext.json)
 
 ---
 
@@ -1226,7 +1246,9 @@ Its director, Dr. Sudath Samaraweera, said that 20% of dengue cases in the count
 
 He added that 6,689 cases of dengue have been reported in the last 18 days of this year alone.
 
-◼️
+IMF & Sri Lanka: Tax reforms and fiscal discipline seen as key to overcoming the crisis
+
+...
 
 [Data](articles/916aa839.json)
 
@@ -1506,7 +1528,7 @@ The drugs were discovered during a special operation carried out by the Navy Int
 
 The Navy said that the fishing trawlers and the suspects are currently being escorted to the Port of Galle for onward action.
 
-◼️
+...
 
 [Data](articles/608909e1.json)
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 13:32:55**
+As of **2024-01-20 13:51:47**
 
 ## Newspaper Stats
 
-*Scraped **1,375** Articles*
+*Scraped **1,378** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -17,13 +17,33 @@ dbsjeyarajcom | 117 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 150 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 157 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 158 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 161 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 165 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 172 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### Acting IGP directs police not to stop vehicles while they are in civilian attire
+
+*2024-01-20 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Acting-IGP-directs-police-not-to-stop-vehicles-while-they-are-in-civilian-attire/108-275414) 
+
+Acting Inspector General of Police, Deshabandu Thennakoon has issued a fresh set of instructions to all police stations, directing them not to halt vehicles for inspections when officers are in civilian clothes while on duty.
+
+These new guidelines were distributed to all police stations yesterday.
+
+...
+
+### Update: Over 60 kgs of heroin seized by Navy off Dondra Point
+
+*2024-01-20 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Over-60-kgs-of-heroin-seized-by-Navy-off-Dondra-Point/108-275413) 
+
+In a special operation conducted by the Sri Lanka Navy on the southern sea area off Dondra Point, two multi-day trawlers suspected of transporting over 60 kgs of drugs, believed to be heroin, were siezed along with eleven suspects.
+
+Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila was deployed in this special operation in the southern sea area, approximately 100 nautical miles (about 185 kms) off Dondra Point yesterday.
+
+...
 
 ### துப்பாக்கி பிரயோகத்தில் உயிரிழந்த சாரதிக்கு இழப்பீடு
 
@@ -48,6 +68,14 @@ tamilmirrorlk | 172 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 வெள்ளிக்கிழமை இரவு தொடங்கிய தீ, நள்ளிரவுக்கு முன்பு அணைக்கப்பட்டதுடன், தீ விபத்துக்கான காரணம் குறித்து விசாரணை நடத்தி வருவதாக உள்ளூர் அதிகாரிகள் தெரிவித்தனர்.
 
 ◼️
+
+### NIA files supplementary charge sheet against 4 in Sri Lankan human trafficking case
+
+*2024-01-20 12:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NIA-files-supplementary-charge-sheet-against-4-in-Sri-Lankan-human-trafficking-case/108-275412) 
+
+Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed a supplementary charge sheet against four accused in a 2021 case relating to human trafficking of 39 Sri Lankan nationals into India on the pretext of taking them to Canada, an official statement said.
+
+...
 
 ### கடை எரிக்க 12 இலட்சம் ; வாகனம் எரிக்க 7 இலட்சம் - யாழில் அட்டகாசம்
 
@@ -992,35 +1020,5 @@ President Wickremesinghe emphasized the need for NAM to reinvent itself, transfo
 *2024-01-19 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Court-questions-Immigration-Chiefs-double-standards-on-Dianas-citizenship-issue/155-275362) 
 
 Colombo, Jan 19 (Daily Mirror) - While granting Leave to Appeal in the State Minister Diana Gamage's citizenship case, the Supreme Court questioned how the Controller General of Immigration and Emigration had filed a document containing the entry and exit details of Diana Gamage, and later had stated in an affidavit that he was not aware of which Diana Gamage this information pertained to.
-
-...
-
-### Court questions Immigration Chief’s double standards on Diana’s citizenship issue
-
-*2024-01-19 17:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-questions-Immigration-Chiefs-double-standards-on-Dianas-citizenship-issue/108-275362) 
-
-Colombo, Jan 19 (Daily Mirror) - While granting Leave to Appeal in the State Minister Diana Gamage's citizenship case, the Supreme Court questioned how the Controller General of Immigration and Emigration had filed a document containing the entry and exit details of Diana Gamage, and later had stated in an affidavit that he was not aware of which Diana Gamage this information pertained to.
-
-...
-
-### முள்ளிவாய்க்காலில் கரை ஒதுங்கிய சடலம்
-
-*2024-01-19 17:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/174332) 
-
-முல்லைத்தீவு முள்ளிவாய்க்கால் கடற்கரை பகுதியில் அடையாளம் தெரியாத மீனவர் ஒருவரின் சடலம் வெள்ளிக்கிழமை (19) கரை ஒதுங்கியுள்ளது.
-
-முள்ளிவாய்க்கால் பகுதியில் உள்ள இராணுவ முகாம் அமைந்துள்ள பகுதி கடற்கரையிலேயே இந்த சடலம் கரை ஒதுங்கி உள்ளது.
-
-குறித்த சடலம் தெப்பம் ஒன்றில் மிதந்து வந்த நிலையில் கரை ஒதுங்கி இருக்கின்றது. இதில் உள்ள கான்களில் இந்தியாவின் தெலுங்கு மொழிகள் எழுதப்பட்ட அடையாளங்கள் காணப்படுகின்றன.
-
-...
-
-### Train transporting Prima flour derails near Ragama Station
-
-*2024-01-19 17:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-transporting-Prima-flour-derails-near-Ragama-Station/108-275363) 
-
-Ragama, Jan 19 (Daily Mirror) -  The Railway Department reported of a disruption in train services after a train transporting Prima flour derailed near the Ragama railway station this afternoon.
-
-The incident occurred as the engine of the train from Colombo, experienced a malfunction, resulting in the detachment of two wheels.
 
 ...

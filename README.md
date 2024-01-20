@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 23:32:54**
+As of **2024-01-20 23:51:33**
 
 ## Newspaper Stats
 
-*Scraped **1,464** Articles*
+*Scraped **1,467** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 25
-adaderanasinhalalk | 33
+adaderanasinhalalk | 36
 bbccomsinhala | 36
 islandlk | 83
 newsfirstlk | 96
@@ -26,7 +26,7 @@ tamilmirrorlk | 183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-115 (7.9%) of 1,464 articles have been extended.
+130 (8.9%) of 1,467 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,20 @@ The Malimbada Police are investigating to arrest the shooters and determine the 
 [Data](articles/fa431834.json)
 
 [Extended Data](ext_articles/fa431834.ext.json)
+
+---
+
+### අපි මේ අප්‍රේල් 21 ඒක ප්‍රකාශයට පත් කරනවා - කාදිනල් හිමි
+
+*2024-01-20 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192372) · `si`
+
+පාස්කු ත්‍රස්ත ප්‍රහාරය සිදුවී 05 වසරක් සපරෙන අප්‍රේල් මස 21 වනදා ඉන් මියගිය සියලුදෙනා ශාන්තුවරුන් ලෙස ඔසවා තබන්නට ඔවුන්ගේ නම් ඉදිරිපත් කිරීමට තීරණය කළ බව අගරදගුරු මැල්කම් කාදිනල් රංජිත් හිමි පවසති.
+
+උන්වහන්සේ ඒ බව සඳහන් කළේ ඊයේ (19) කඳාන, ශුද්ධ වූ සෙබස්තියන් මුනිදුන්ගේ සිද්ධස්ථානයේ පැවති සන්ධ්‍යා මෙහෙය පැවති අතරතුරදීය.
+
+...
+
+[Data](articles/312d6444.json)
 
 ---
 
@@ -79,6 +93,42 @@ Peter Breuer, IMF Senior Mission Chief to Sri Lanka, emphasized the importance o
 [Data](articles/1fb365ff.json)
 
 [Extended Data](ext_articles/1fb365ff.ext.json)
+
+---
+
+### වෙඩික්කරුවන් දෙදෙනෙකු තරුණයෙකු ඝාතනය කර පළායයි
+
+*2024-01-20 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192371) · `si`
+
+මාතර තෙලිජ්ජවිල මංසන්ධියේ අද (20) රාත්‍රියේ සිදුකළ වෙඩිතැබීමෙන් 24 හැවිරිදි පුද්ගලයෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+
+යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් එම වෙඩිතැබීම සිදුකර ඇත.
+
+වෙඩිවැදී ඇත්තේ ජංගම දුරකථන අලෙවිසැලක් තුළ සිටි පුද්ගලයෙකුටය. ඔහු වැලිපිටිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+ඝාතනයට හේතුව හෝ වෙඩික්කරුවන් පිළිබඳ මෙතෙක් තොරතුරු අනාවරණය වී නොමැති බව පොලීසිය පවසයි.
+
+පොලීසිය සඳහන් කළේ මාතර තෙලිජ්ජවිල ප්‍රදේශයේදී එම වෙඩිතැබීම සිදුවී ඇති බවය.
+
+...
+
+[Data](articles/4da173f5.json)
+
+---
+
+### උසස් පෙළ විභාග මධ්‍යස්ථානයක ගැටලුවක්
+
+*2024-01-20 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192370) · `si`
+
+ගාල්ල ප්‍රදේශයේ අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාග මධ්‍යස්ථානයක අද (20) පැවති ගිණුම්කරණය පළමු ප්‍රශ්න පත්‍රය සඳහා ගණක යන්ත්‍ර භාවිත කිරීමේදී ගැටලුවක් මතුවී ඇති බව වාර්තා වෙයි.
+
+දරුවන් ප්‍රශ්න පත්‍රයට පිළිතුරු සපයමින් සිටියදී ඔවුන්ගේ ගණක යන්ත්‍ර ශාලාධිපතිනිය විසින් ලබාගෙන ඇති බව සඳහන්ය.
+
+ඊට හේතුව වී ඇත්තේ අපේක්ෂකයින් කිහිපදෙනෙකු විසින් අනුමත නොකරන ලද ගණක යන්ත්‍ර විභාග ශාලාව තුළට ගෙනඒම බව වාර්තා වෙයි.
+
+...
+
+[Data](articles/023db2bb.json)
 
 ---
 
@@ -1703,55 +1753,5 @@ The Assistant Police Inspector and the Police Constable have been suspended.
 [Data](articles/9884e6b1.json)
 
 [Extended Data](ext_articles/9884e6b1.ext.json)
-
----
-
-### Heartwarming visit to care home residents
-
-*2024-01-20 08:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Heartwarming-visit-to-care-home-residents/110-275406) · `en`
-
-...
-
-[Data](articles/2fb88d44.json)
-
-[Extended Data](ext_articles/2fb88d44.ext.json)
-
----
-
-### Six persons arrested in connection with money fraud
-
-*2024-01-20 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192343) · `si`
-
-Three suspects and three suspects have been arrested by the CID officers of the CID.
-
-The money has been made by the net accounts for Rs. 2850,000 to obtain 15 gem stones.
-
-A suspect associated with a cash fraud has been arrested by the Fort Police Division in the Fort Police Division yesterday (19) and the two suspects were arrested in Jaffna.
-
-The arrested are residents of Beruwala and Jaffna, the age of 24, 30 and 36.
-
-...
-
-[Data](articles/9f39fea0.json)
-
-[Extended Data](ext_articles/9f39fea0.ext.json)
-
----
-
-### Afternoon thundershowers possible in 4 provinces today
-
-*2024-01-20 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96558/afternoon-thundershowers-possible-in-4-provinces-today) · `en`
-
-Showers will occur at times in Eastern and Uva provinces and Polonnaruwa and Matale districts, the Department of Meteorology said in its weather forecast today (Jan.20).
-
-Several spells of showers may occur in Northern Province and Anuradhapura District.
-
-Meanwhile, showers or thundershowers are possible in parts of the Western, Sabaragamuwa, Central and North-western provinces and Galle and Matara districts after 2.00 p.m.
-
-...
-
-[Data](articles/805d616c.json)
-
-[Extended Data](ext_articles/805d616c.ext.json)
 
 ---

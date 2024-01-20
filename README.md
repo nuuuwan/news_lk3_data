@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 00:47:44**
+As of **2024-01-21 01:02:29**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanalk | 185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-172 (11.7%) of 1,474 articles have been extended.
+184 (12.5%) of 1,474 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -39,6 +39,10 @@ Extensions include translations and NER (Named Entity Recognition).
 A fire in a central China school dormitory killed 13 students and injured another，prompting the authorities to call for screening fire risks in crowded places, state media said on Saturday (20 Jan.).
 
 The Friday night fire killed third graders in a boys’ dormitory of Yingcai School in Henan Province, according to China Newsweek, a weekly magazine published by China News Service. Third graders in China are usually 9 years old.
+
+Firefighters quickly extinguished the blaze in a village in Nanyang city, and the head of the school was taken into custody, state media reported.
+
+China’s Ministry of Emergency Management called for screening to avoid “hidden fire risks in densely populated places”, and a work team was sent to guide rescue and follow-up work, Xinhua reported.
 
 ...
 
@@ -58,7 +62,9 @@ A final decision on the matter is anticipated at this meeting, following which t
 
 The PUCSL will then modify the proposal based on public feedback and submit the final tariff revision to the CEB.
 
-...
+Meanwhile, speaking at a press briefing held today (20 Jan.), the CEB affirmed that electricity tariffs would be adjusted promptly upon approval from the PUCSL.
+
+◼️
 
 [Data](articles/37e5e4cf.json)
 
@@ -92,6 +98,10 @@ President Ranil Wickremesinghe’s recent visit to Uganda has significantly cont
 
 The Minister of Foreign Affairs Ali Sabry PC, highlighted the importance of these engagements, emphasizing the sizable population of approximately 1.3 billion in these African countries and the anticipated rapid development in the future.
 
+In his special statement today (20), Minister Ali Sabry pointed out that President Ranil Wickremesinghe’s ‘Look Africa’ initiative has laid the groundwork for Sri Lanka to invest in African nations, marking the commencement of a new economic journey for the country.
+
+In a special statement on the official visit to Uganda, where President Wickremesinghe participated in the 19th Conference of the Non-Aligned Movement and the G77+China Summit, Minister Ali Sabry reiterated the significance of broadening Sri Lanka’s engagement with Africa.
+
 ...
 
 [Data](articles/86cc4cb4.json)
@@ -110,7 +120,9 @@ He said that the evening was held at the Shunkara's shrine yesterday (19).
 
 The Ranjith Kadinal Ranjith Thero was held under the patronage of the Annual Festival of the Shrine Shrine Shrine Shrine Shrine Shrine Shrine.
 
-...
+"The Passover attack on April 21. So we made a decision. The 273 people who died in the attack be presented to the Holy See. To lift the dead as the saints. Offers their names. They were confident because they were the church. If they were home, they would not die. Life was sacrificed because of the Passover mission. As a group of people who sacrificed their lives in faith. We are ready to publish on April 21st.
+
+◼️
 
 [Data](articles/312d6444.json)
 
@@ -142,6 +154,10 @@ COLOMBO (News 1st); The International Monetary Fund (IMF) expressed cautious opt
 
 Peter Breuer, IMF Senior Mission Chief to Sri Lanka, emphasized the importance of tax administration in addressing the revenue shortfall that contributed to the crisis.
 
+He urged for increased compliance and condemned tax evasion, stressing that "any dollar or rupee in taxes that is due but not paid means that everybody else has to pay more."
+
+Breuer praised the Sri Lankan government's commitment to halting further tax concessions and highlighted the planned reforms to improve transparency in this area. He noted that tax revenue as a percentage of GDP dropped from 11% in 2019 to a mere 7% in 2022, creating a significant funding gap.
+
 ...
 
 [Data](articles/1fb365ff.json)
@@ -160,7 +176,9 @@ According to police, the 24-year-old was gunned down by two suspects who had rep
 
 Police suspect that a pistol was used for the shooting, while the motive behind the incident is yet to be ascertained.
 
-...
+Further investigations into the shooting are being carried out by the Malimbada Police.
+
+◼️
 
 [Data](articles/0fb59a80.json)
 
@@ -182,7 +200,9 @@ Police say that information regarding the cause of the murder, the police said.
 
 The police said that the shooting had taken place in the Thelejjawila area in Matara.
 
-...
+Two suspects from a motorbike have been shot in a telephone market, police sources said.
+
+◼️
 
 [Data](articles/4da173f5.json)
 
@@ -202,7 +222,13 @@ It is reported that the calculators who are not approved by several candidates a
 
 However, after an educational authorities, the Adjuni's educational authorities, however, the candidates have been given to the calculators.
 
-...
+However, the parents of their children are not given an additional time for writing the answers.
+
+Parents said that their children had great injustice.
+
+However, the Ada Derana examination was inquired from the Department of Examinations and stated that the answer scripting is focused on the investigation.
+
+◼️
 
 [Data](articles/023db2bb.json)
 
@@ -217,6 +243,8 @@ However, after an educational authorities, the Adjuni's educational authorities,
 The Committee to Protect Journalists (CPJ) has urged Sri Lanka’s Minister of Public Security to withdraw the proposed Online Safety Bill.
 
 In a joint letter addressed to the Minister, the CPJ, together with 58 other organisations, urged Minister Tiran Alles to withdraw the relevant Bill, and to conduct ‘meaningful consultations with all stakeholders including local groups’ in this regard.
+
+They further raised concerns that the proposed Bill is slated to be presented in Parliament later this month, without addressing the key concerns raised by stakeholders, experts and civil society about the severe implications that the Bill will have on the human rights and democratic values enshrined in the Constitution and international legal instruments to which people in Sri Lanka are entitle.
 
 ...
 
@@ -233,6 +261,12 @@ In a joint letter addressed to the Minister, the CPJ, together with 58 other org
 The North Korean government's imposition of the North Korean government has been shocked by the imposition of the 12-year-old work for 2 children for the crime of seeing South Korea's K-Pop songs.
 
 South Korean pop music has been shocked by the release of two boys under 16 years of age for enjoying cinema. In the video, 2 boys dressed in brown dressed in an open space are brought in their hands.
+
+1000 boys sit in that hall. They are all wearing mask. This is what the video may have been taken during the Corona period.
+
+They have been sentenced to the claim that they both destroyed life because they were attracted by foreign culture. The North Korean government has sentenced the two boys to work for 12 years. This event has shocked internationally. The families of the two boys are said to have been evicted from Pyongyang.
+
+North Korea has been in touch with South Korea for many years and has a tendency to punish their own people. In 2020, a special law was introduced.
 
 ...
 
@@ -256,7 +290,9 @@ The proposal will be made public for three weeks.
 
 The new proposal will be added to the Ceylon Electricity Board.
 
-...
+Meanwhile, the Ceylon Electricity Board (CEB) stated that action will be revised immediately after the approval of the Public Utilities Commission.
+
+◼️
 
 [Data](articles/6954a5bc.json)
 
@@ -274,7 +310,13 @@ Police searched long -range buses using police snake dogs in Kottawera, Balukas 
 
 In the bus, a woman was checked, police said two tetanators, 165 grams of black ammunition, 605 grams of ammonia and 10 feet long service threads hidden in her underwear, police said.
 
-...
+Investigations carried out by the suspect have reportedly taken the ammunition while working in Kalkwari.
+
+He told the police that he had brought the ammunition to break a stone at the back of his house.
+
+However, as the conflicts are found in his affidavits, the suspect will be detained and interrogated for further investigations. Remble
+
+◼️
 
 [Data](articles/55f103c9.json)
 
@@ -294,6 +336,10 @@ The primary discussion was scheduled to come in Duluwa area on the 'Diyamalapura
 
 However, the villagers have opposed the interference to intervene for the development project.
 
+When the floods were severely affected by the people of their village, a politician was not committed regarding herself.
+
+It was reported that State Minister Sanath Nishantha, who was entitled to the villagers, he had returned to the scene.
+
 ...
 
 [Data](articles/74f6e4ef.json)
@@ -312,7 +358,9 @@ According to the Minister, these eggs will be retailed at Rs. 43 per egg at all 
 
 Imported eggs were previously retailed at Rs. 35 per egg, while a carton was sold at Rs. 40 per egg at all Lanka Sathosa outlets.
 
-...
+Sri Lanka began to import eggs in the first half of 2023, amidst a severe shortage, in response to the soaring prices of eggs within the local market.
+
+◼️
 
 [Data](articles/5e0603ad.json)
 
@@ -327,6 +375,12 @@ Imported eggs were previously retailed at Rs. 35 per egg, while a carton was sol
 Colombo, Jan 20 (Daily Mirror) - A leaked audio conversation between a police officer and a female lawyer, suspected of representing a relative of organized criminal Ganemulla Sanjeewa who is being held at the Weeragula Police Station, has surfaced.
 
 It is alleged that during the conversation, the lawyer engaged with an Assistant Superintendent of Police (ASP) from the Narcotics Unit and attempted to offer a bribe.
+
+It was reported that a team of officers from the Police Narcotics Bureau was dispatched to investigate a house in the Makilangamuwa area related to the drug trafficking case involving Ganemulla Sanjeeva.
+
+Sources said that a woman identifying herself as a lawyer representing a relative of Ganemulla Sanjeewa intervened at the location, urging the officers not to search the particular house.
+
+The lawyer, a resident of the Gampaha area, allegedly tried to bribe an ASP of the Narcotics Bureau after her attempts to obstruct the search had failed.
 
 ...
 
@@ -344,6 +398,12 @@ Colombo, Jan 20 (Daily Mirror) - A leaked audio conversation between a police of
 
 It is alleged that during the conversation, the lawyer engaged with an Assistant Superintendent of Police (ASP) from the Narcotics Unit and attempted to offer a bribe.
 
+It was reported that a team of officers from the Police Narcotics Bureau was dispatched to investigate a house in the Makilangamuwa area related to the drug trafficking case involving Ganemulla Sanjeeva.
+
+Sources said that a woman identifying herself as a lawyer representing a relative of Ganemulla Sanjeewa intervened at the location, urging the officers not to search the particular house.
+
+The lawyer, a resident of the Gampaha area, allegedly tried to bribe an ASP of the Narcotics Bureau after her attempts to obstruct the search had failed.
+
 ...
 
 [Data](articles/eba482d0.json)
@@ -358,7 +418,11 @@ It is alleged that during the conversation, the lawyer engaged with an Assistant
 
 The official meeting between President Ranil Wickremesinghe and Prime Minister of Nepal, Pushpa Kamal Dahal took place today (Jan.20) in Kampala, Uganda, in conjunction with the 19th Non-Aligned Movement (NAM) Summit 2024.
 
-...
+The leaders have engaged in extensive discussions on promoting the cultural and religious relations that have existed between the two countries since the past, emphasizing the potential for promoting tourism, according to the President’s Media Division (PMD).
+
+With the aim of expanding political relations, a proposal was made to facilitate an exchange program for Members of Parliament to study the parliamentary affairs of both countries.
+
+◼️
 
 [Data](articles/58005087.json)
 
@@ -373,6 +437,10 @@ The official meeting between President Ranil Wickremesinghe and Prime Minister o
 The Sri Lankan court on Friday released 32 fishermen from Tamil Nadu who were apprehended by the Sri Lankan Navy.
 
 “Repatriated safely! A group of 32 Indian fishermen board for their flight back to India from Colombo,” the High Commission of India in Colombo posted on X.
+
+The Sri Lankan Navy had arrested 32 Indian fishermen and seized their trawlers for allegedly poaching in the island nation’s waters in three separate incidents. A total of 18 fishermen were arrested, and their two trawlers were seized on Tuesday off the coast of Mannar in the northeast.
+
+On Sunday, as many as ten Indian fishermen were arrested, and their trawler seized for allegedly poaching in the island nation’s waters, while 12 Indian fishermen were apprehended on Saturday.
 
 ...
 
@@ -396,7 +464,11 @@ When contacted by Lanka Sathosa, chairman Pasanda, he said that the VAT would be
 
 The government has taken steps to limit the importation from India due to the last few days of the country.
 
-...
+Accordingly, a white and red egg of the Narahenpita Economic Center was sold at a price of Rs. 52.
+
+The Animal Producers' Association says that local eggs and chicken are in the market without shortage.
+
+◼️
 
 [Data](articles/e282e485.json)
 
@@ -412,7 +484,11 @@ ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe and the Prime Minis
 
 The two leaders discussed promoting bilateral tourism and developing cultural and religious ties that have existed between the two countries historically.
 
-...
+“With the aim of expanding political relations, a proposal was made to facilitate an exchange program for Members of Parliament to study the parliamentary affairs of both countries,” a statement by Wickremesinghe’s media division said.
+
+Late last year, Wickremesinghe told a group of school children that Parliament had become a place where a lot of MPs act. He said some MPs don’t know where to draw the line when acting in Parliament. (Colombo/Jan20/2024)
+
+◼️
 
 [Data](articles/039ba051.json)
 
@@ -429,6 +505,10 @@ External Affairs Minister S Jaishankar on January 20 called on Sri Lankan Presid
 Mr. Jaishankar is in the Ugandan capital city of Kampala to represent India at the two-day summit of the Non-Aligned Movement (NAM), which began on Friday.
 
 “Pleased to call on Sri Lankan President @RW_UNP on the sidelines of the NAM Summit in Kampala,” Mr. Jaishankar posted on X.
+
+“Appreciate his continued guidance for the advancement of our bilateral initiatives. India’s commitment is reflected in our Neighbourhood First and SAGAR policy,” he said.
+
+India’s Neighbourhood First policy guides its approach towards the management of relations with countries in its immediate neighbourhood. It is aimed at enhancing physical, digital and people-to-people connectivity across the region, as well as augmenting trade and commerce.
 
 ...
 
@@ -448,7 +528,11 @@ He said the Opposition Leader had made a statement that he will change the agree
 
 Therefore, everyone should act responsibly at this time, the Minister said at a meeting in Avissawella today.
 
-...
+"At a time when the country was in trouble, the agreement made with the financial fund did good and not bad for the country and the economy," he said.
+
+However, such statements are made for the sake of popularity and do not bring any good to the country, the Minister added.
+
+◼️
 
 [Data](articles/dc85af09.json)
 
@@ -478,9 +562,13 @@ Jaishankar is in the Ugandan capital city of Kampala to represent India at the t
 
 *2024-01-20 18:32:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-bleak-forecast-for-2024-beyond-politics-security-economics-military/) · `en`
 
+This piece uses the vast amount of information on the web, social-media, broadcasts and news sites. My role is to use what limited intelligence providence has endowed me with to select and filter. I hope this will be of service to readers who do not have the patience to explore all the available information themselves. Nations are fretful above all else of existential concerns, that is politics in the sense of security, not politics in the familiar but vulgar sense of endemic corruption. Once existence is assured the second matter to focus on is material wellbeing; prosperity, employment, wealth and so on broadly falling under the umbrella term ‘the economy’. My accent in this piece is on the Great Powers (America, China and Russia) though discussion of the Middle East (the Muslim World and Israel) is unavoidable.
+
 ...
 
 [Data](articles/dda1d483.json)
+
+[Extended Data](ext_articles/dda1d483.ext.json)
 
 ---
 
@@ -493,6 +581,10 @@ Sri Lanka Navy on Friday (Jan.19) foiled yet another drug smuggling attempt by i
 The street value of the heroin consignment, weighing over 65kg, is believed to be more than Rs. 1,626 million.
 
 Additionally, another multiday fishing trawler, suspected of assisting the other vessel, too was impounded during the operation which led to the arrest of 11 suspects involved in the drug smuggling attempt.
+
+The Navy and the Police Narcotics Bureau (PNB), in tandem with the intelligence services, had mounted a special operation about 100 nautical miles (approximately 185km) off Dondra Head, Matara on Friday (Jan.19).
+
+Accordingly, a suspicious local fishing trawler was first intercepted off the southern coast on Friday morning.
 
 ...
 
@@ -508,9 +600,15 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 
 Swarna Chandrasekera, Ph.D. is a well-known author and academic in Sri Lanka and in Canada. Her speciality in children’s education which she has mastered over many years has resulted in her active engagement in children’ literature.
 
+Her well-known book, children’s literature in Sri Lanka, published in 1989, won the State Literary Award in Sri Lanka in the same year. She also has a special interest in children’s poetry, which resulted in her publication of another valuable book titled, “Sinhala Lamaa Kavya.” This too has become a very popular book among the teachers and many others in the country. Her enthusiasm also extended to literature based on the younger and young adult generation in general. She published a book on “Young Adult Literature” in 2011 based on her Ph.D. research.
+
+Lamā Adhyāpanaya Sandahā Kathandara By Dr. Swarna  Chandrasekera, Published by Sarasavi Publishers, Sri Lanka, 2023
+
 ...
 
 [Data](articles/f36851c4.json)
+
+[Extended Data](ext_articles/f36851c4.ext.json)
 
 ---
 
@@ -526,7 +624,11 @@ The Sri Lanka Navy had launched a search operational in the South Sea, about 100
 
 The suspects were arrested along with another multi-day fishing vessel and other multi-day fishing vessel suspected to be transported by 45 km of heroin.
 
-...
+The eleven (11 km kilos) of the suspects and 65 kg of drugs were taken to the Galle Harbor for further legal action today (Jan. 20).
+
+The gross value of heroin heroin arrested by this operation is believed to have been worth over Rs. 1626 million.
+
+◼️
 
 [Data](articles/3068cf2d.json)
 
@@ -544,7 +646,13 @@ According to internal sources, a lawyer who is speaking to A lawyer who is speak
 
 The lawyer involved in the incident is a resident of Gampaha area and has also tried to bribilize a bribe after the lawyer's attempt was failed.
 
-...
+A complaint has been lodged with the Investigation Commission too.
+
+Ada Derana also received a voice of a farming call that is trying to bribilize the Affairs Bureau of Narcotics Bureau.
+
+Sanjeewa Sanjeewa is currently being held on the detention orders of an organized crime leader and a strong drug dealer.
+
+◼️
 
 [Data](articles/632b7c54.json)
 
@@ -560,7 +668,13 @@ Arumugam Ganesamoorthy, a prominent member of the Ceylon Workers Congress and a 
 
 He is a member of the Lunugala Pradeshiya Sabha and a member of the Lunugala Pradeshiya Sabha through the Ceylon Workers Congress and a member of the former Uva Provincial Council.
 
-...
+During his tenure as a member of the Uva Provincial Council, he had contributed significantly to the development of the science department during his period of the educational development of Tamil language schools in Badulla district.
+
+Hallyela Uva Kattawalai will be placed at Anjali at his wife's hometown today at 10.00 am.
+
+His family members said that at 3.00 pm on the 22nd, the Ambalangoda plantation public cemetery will be held at the Public Cemetery.. Remble
+
+◼️
 
 [Data](articles/d9ab419f.json)
 
@@ -590,6 +704,10 @@ As per the MoU, the visa exemptions allow for a 30-day stay without a prior visa
 
 The agreement was signed by Foreign Affairs Minister Ali Sabry, and his Beninese counterpart Olushegun Adjadi Bakari.
 
+Bilateral discussions were held on Friday (19 Jan.) between President Ranil Wickremesinghe and Vice President of the Republic of Benin Mariam Chabi Talata, on the side lines of the Non-Aligned Movement (NAM) Summit in Kampala, Uganda.
+
+Diplomatic ties between Sri Lanka and the Republic of Benin, established in 2012, took centre stage of the discussions, with a focus on advancing economic and trade connections.
+
 ...
 
 [Data](articles/a4390330.json)
@@ -606,6 +724,8 @@ COLOMBO (News 1st); The Sri Lanka Navy seized over 65kg of heroin and apprehende
 
 The operation, carried out on January 19th, also led to the seizure of two fishing trawlers suspected of being involved in the smuggling racket.
 
+The operation was a joint effort by the Sri Lanka Navy and Police Narcotics Bureau, along with intelligence services. Acting on a tip, a naval ship intercepted a suspicious local fishing trawler in southern waters. A subsequent search of the vessel led to the discovery of three sacks stuffed with heroin weighing over 65kg. Five suspects were arrested onboard the drug-carrying trawler.
+
 ...
 
 [Data](articles/29f4f602.json)
@@ -621,6 +741,12 @@ The operation, carried out on January 19th, also led to the seizure of two fishi
 Opposition Leader Sajith Premadasa has written to Speaker Mahinda Yapa Abeywardena urging the postponement of the upcoming parliamentary debate on the Online Safety Bill.
 
 The Second Reading of the Online Safety Bill is scheduled for January 23 and 24, as per a decision taken by the Committee on Parliamentary Business earlier this month.
+
+In his letter, Premadasa pointed out that, if passed, the Bill would permit the proposed Online Safety Commission and the minister in charge of the subject to exercise unlimited powers, restricting the people’s right to freedom of speech and expression.
+
+In other countries of the world, adequate time and an opportunity to create wide public space are given before bringing forth such Bills, the opposition leader said, alleging that the government has not followed such process when presenting the Online Safety Bill.
+
+Instead of protecting the victims of online harassment, this Bill will only serve political interests, Premadasa said further.
 
 ...
 
@@ -642,6 +768,8 @@ There were 26 dealers on the Upcountry Railway Line and six dealers were taken i
 
 Meanwhile, Minister of Transport and Highways Bandula Gunawardena stated,
 
+"The tracks will be left. Derailway track on the coastal railway line should be transferred to 5 years. It digests the seawater. The tracks are not being built in Sri Lanka. Need to import. The government cannot allocate money to import. Can't take one bus without foreign debt. The Railway Department has lost more than 10 billion per year. The Asian Development Bank has taken a loan and the deposit has now landed. Those tracks are carrying out. "
+
 ...
 
 [Data](articles/fa186e07.json)
@@ -657,6 +785,10 @@ Meanwhile, Minister of Transport and Highways Bandula Gunawardena stated,
 Colombo, Jan 20 (Daily Mirror) -  The Epidemiology Unit of the Health Ministry is conducting the Measles-Mumps-Rubella (MMR) Catch-up Immunization Programme across the island on January 20 and 21, targeting children aged between 9 months and 15 years.
 
 Globally and regionally, the recent COVID-19 pandemic has led to a decline in measles vaccination rates, resulting in a notable increase in measles cases.
+
+Compounding this challenge, Sri Lanka has been grappling with an imported measles outbreak since May 2023, with cases predominantly reported among vaccine refusal communities and partially vaccinated individuals (aged 9 months to 3 years).
+
+In response, the Epidemiology Unit initiated a nationwide MMR Catch-up Immunization Programme on January 6, specifically focusing on children who had missed their routine MMR vaccinations. The programme aims to ensure that children aged 9 months to 15 years have the opportunity to receive any missed routine MMR vaccinations.
 
 ...
 
@@ -680,6 +812,12 @@ Foreign reports indicate that the plane was landed on a pigment.
 
 The first time this Japan was landed on the moon, and the fifth country was landed on Japan's moon.
 
+However, the performance of the plane's solar panel system is caused by the electricity cells and the electrical cells will not work.
+
+Accordingly, relations between the earth and the aircraft exists only for a few hours.
+
+It is said that the specific cause of electricity to generate electricity through the solar panels is yet to be revealed, and the plane has not taken this situation due to the landing place.
+
 ...
 
 [Data](articles/895695f9.json)
@@ -695,6 +833,14 @@ The first time this Japan was landed on the moon, and the fifth country was land
 ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy Kanchana Wijesekera has instructed Ceylon Electricity Board management to implement a mechanism to recover the loan and interest amounts from employees who have taken the loans.
 
 “Data provided by the CEB finance division shows that financial facilities extended to CEB employees amounts to about Rs 12 billion and that 2/3rds of the employees’ loan interest component is paid by the CEB,” Wijesekera said on X.
+
+“The interest paid by the CEB on behalf of its employees is recovered from the consumer tariffs.”
+
+Wijesekera said he had directed the CEB management to implement a mechanism to recover the loan and interest amounts from the beneficiaries of the loans “and not to pass it to the electricity consumers”.
+
+The minister said he instructed them to report on any services that can be outsourced in the future to be more efficient and reduce cost.
+
+Last week electrical workers protesting against the CEB restructure were interdicted.
 
 ...
 
@@ -768,7 +914,13 @@ These instructions have come after a lorry driver in Naramala was shot dead by a
 
 The 40 -year -old lorry driver, the father of three children, was shot dead by a civilian police officer in a civilian dress.
 
-...
+According to those who witnessed, two police officers in civil clothes followed the lorry for failing to listen to their orders to park the vehicle for checking at the checkpoint in Naramalai.
+
+They were chasing the lorry on a motorbike, parked, and afterwards, before the driver approached, the senior police officer had taken his weapon and later opened fire on him.
+
+Sub-Inspector (SI), who fired at the victim, was arrested and placed in detention till January 23, 2024. At the same time, the posts of the authorities have been taken away. Remble
+
+◼️
 
 [Data](articles/11398620.json)
 
@@ -783,6 +935,8 @@ The 40 -year -old lorry driver, the father of three children, was shot dead by a
 Colombo, Jan. 20 (Daily Mirror)- Most countries and organisations in the world, such as the International Monetary Fund (IMF) have begun to realise that the National People's Power (NPP) will come to power at the next election, NPP General Secretary Tilvin Silva said today.
 
 He told a news conference that the Samagi Jana Balawegaya is perturbed over the NPP's recent meeting with the IMF representatives.
+
+Responding to a question on the SJB's claims that the NPP has not revealed the matters discussed during the meeting with the IMF and other allegations, he said it was not a secret meeting.
 
 ...
 
@@ -799,6 +953,8 @@ He told a news conference that the Samagi Jana Balawegaya is perturbed over the 
 Colombo, Jan. 20 (Daily Mirror)- Most countries and organisations in the world, such as the International Monetary Fund (IMF) have begun to realise that the National People's Power (NPP) will come to power at the next election, NPP General Secretary Tilvin Silva said today.
 
 He told a news conference that the Samagi Jana Balawegaya is perturbed over the NPP's recent meeting with the IMF representatives.
+
+Responding to a question on the SJB's claims that the NPP has not revealed the matters discussed during the meeting with the IMF and other allegations, he said it was not a secret meeting.
 
 ...
 
@@ -818,6 +974,12 @@ Diplomatic relations between Sri Lanka and Benin were launched in 2012 and the t
 
 Benin Vice President has also invited the President to direct Sri Lankan investors to invest in the cotary exporter of the Benin State, a major cotton exporter.
 
+Meanwhile, a Memorandum of Understanding (Understanding) was also signed with the release of visa for diplomatic, official and service license holders.
+
+The agreement provides access to the two countries to enter and remain in the country without obtaining a pre-visa of diplomatic, official and service passport to the two countries.
+
+The agreement was also signed by Foreign Minister Ali Sabri on behalf of the State of Foreign Affairs of Sri Lanka.
+
 ...
 
 [Data](articles/6e2fe602.json)
@@ -831,6 +993,14 @@ Benin Vice President has also invited the President to direct Sri Lankan investo
 *2024-01-20 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96572/collaborative-efforts-mooted-for-success-of-pekoe-trail-project-to-boost-tourism-) · `en`
 
 A review meeting was conducted on Friday (Jan.19) at the President’s Office, chaired by Sagala Ratnayaka, Senior Advisor to the President on National Security and Chief of Presidential Staff, to discuss the progress of the “Pekoe trail” project aimed at boosting Sri Lanka’s tourism industry.
+
+The Pekoe trail team has outlined its plans for the project, emphasizing the creation of a tourist trail that has garnered global popularity and is poised to significantly support the development of the tea industry in Sri Lanka.
+
+Pekoe Trail is a 300-kilometer curated long-distance walking trail through the Central Highlands of the island.
+
+Highlighting the potential to attract tourists who haven’t previously considered visiting Sri Lanka, the team expressed the importance of the project in expanding the country’s appeal as a tourist destination.
+
+Ratnayaka, in his remarks, underscored President Ranil Wickremesinghe’s keen interest in the project, deeming it a crucial initiative for Sri Lanka.
 
 ...
 
@@ -867,6 +1037,10 @@ Opposition Leader Sajith Premadasa has demanded that the law be implemented by t
 Sajith Premadasa has told the media that this request has been issued in a special letter sent to the Speaker regarding the Celebration Bill.
 
 “In the name of the Ceremony Backup Bill, imperialism, dictatorship is a violation of the human rights of 220 lakhs of individuals.
+
+I strongly dismiss this and express an unconditional opposition. It should not be taken up for debate next week, and further understand the decisions of the High Court, respected those proposals and re -entrusted the law to protect human rights in the program of protecting democratic rights. ”
+
+There is no place for imperialism in the country. In an important election year, we will not allow the crushing and destroying the wishes of the public through fierce anti -democratic and dictatorship.
 
 ...
 
@@ -906,7 +1080,13 @@ Police have conducted a bus inspection of a far-reaching bus inspection using po
 
 A woman on a bus had been found in her underwear, 165 grams of black shot, 605 grams of black shot and a 10-foot-long service string.
 
-...
+In the suspect interrogation, she had said that she was carrying out the corresponding explosives.
+
+She had been carried out in the interrogation of the explosives to break a stone with a stone behind her home.
+
+However, due to the contradictions of her statements, the suspect is to be detained and interrogated.
+
+◼️
 
 [Data](articles/12de9d0e.json)
 
@@ -921,6 +1101,8 @@ A woman on a bus had been found in her underwear, 165 grams of black shot, 605 g
 Further outbreaks of measles could spread across Britain, the UK Health Security Agency (UKHSA) has warned, after declaring a national incident amid a surge in cases and low vaccine uptake.
 
 Recent figures from the agency revealed a sharp rise in the number of measles cases, with uptake of the measles, mumps and rubella (MMR) vaccine at its lowest level in more than a decade and “well under” the recommended coverage, the UKHSA chief executive, Dame Jenny Harries, has said.
+
+“This is a call right across the country for all parents to check the vaccination rates of their children,” Harries told BBC Radio 4’s Today programme as she was due to travel to the West Midlands, which has had the largest recent outbreak of the infection outside London.
 
 ...
 
@@ -941,6 +1123,14 @@ Narendra Modi is the first Indian Prime Minister to visit the Srirangam temple a
 After India became independent in 1947, Jawaharlal Nehru became the first Prime Minister of India.
 
 From Nehru to the current Narendra Modi, 15 people have held the post of Prime Minister of India.
+
+It is noteworthy that Narendra Modi, who is the Prime Minister, is the first Prime Minister to visit the Srirangam Temple.
+
+Modi, 44 -year -old Andal, was also blessed with the elephant of the temple.
+
+Prime Minister Modi told Modi that the elephant Pagan would then read the instrument of Andal Mouth Organ during the Navratri festival.
+
+Modi wants to listen to the year of the year, and the elephant Pagan has been reading beautifully, to give Mouth Organ in the thumbnail of the year.
 
 ...
 
@@ -974,6 +1164,8 @@ Sri Lanka Navy Leader of Sri Lanka Navy Engineer RP Saman Kumara Siriwardena arr
 
 Accordingly, a new record was a 1080.16 kilometers of Sri Lanka, which was set up 580.11 kilometers in Point in Point Pedro, from a Sri Lankan army personnel from Point Peduru..
 
+Leader of the Leader of the Leader Engineer RP Saman Kumara Siriwardena reached the establishment of this report from 4th January to the Naval Square, Kadawatha from Independence SquareThe Sri Lanka Navy, Kurunegala, Dambulla, Dambulla, Dambulla, Dambulla and Mihintale Naval Camp on January 19, 2024 was completed by the Naval Saviya.
+
 ...
 
 [Data](articles/382a4424.json)
@@ -989,6 +1181,12 @@ Accordingly, a new record was a 1080.16 kilometers of Sri Lanka, which was set u
 A young family member died on the spot and another injured in an accident which occurred at around 7.30 pm last night in the Mannar -Jaffna main road.
 
 இந்த நிலையில், சம்பவ இடத்திற்கு வருகை தந்த இலுப்பைக் கடவை பொலிஸ் நிலைய பொறுப்பதிகாரி உள்ளிட்ட பொலிஸார் சம்பவ இடத்தில் இருந்த மக்கள் மீது கடுமையாக தாக்கியதுடன், விபத்தை ஏற்படுத்திய பேருந்தையும், அதன் சாரதியையும் காப்பாற்றிச் சென்றுள்ளதாக பாதிக்கப்பட்டவர்கள் தெரிவித்துள்ளனர்.
+
+மன்னார் - யாழ்ப்பாணம் பிரதான வீதி, பள்ளமடு வைத்தியசாலையில் இருந்து சற்று தொலைவில் குறித்த விபத்து இடம்பெற்றுள்ளது.
+
+One of the small buses in Mannar Jaffna. A bus collided with two people traveling on a bicycle while traveling along the main road.
+
+A 42 -year -old family member from the temple pond died on the spot and a 45 -year -old family member from the same village was injured and admitted to the Munga Hospital for further treatment for further treatment.. Teaching has been transferred to the hospital.
 
 ...
 
@@ -1006,7 +1204,9 @@ Galle, Jan. 20 (Daily Mirror)- Krishantha Perera, the Onco Surgeon at the Karapi
 
 It is reported that the surgeon could serve until the age of 63 according to the new circualr and that he had requested for retirement two years prior to his retirement age.
 
-...
+He was remanded till 22 January by the Galle Magistrate’s Court over the assault.
+
+◼️
 
 [Data](articles/645067ec.json)
 
@@ -1058,7 +1258,13 @@ Six persons have been arrested by the Criminal Investigations Department (CID) f
 
 The group of suspects comprising three males and three females are believed to have produced cheques from bank accounts with insufficient funds for the purchase of 15 gemstones worth Rs. 28.75 million, police reported.
 
-...
+One of the six suspects had been arrested in Fort, Colombo on Friday (19 Jan.), after which the other five suspects were arrested in Jaffna.
+
+The three male suspects, aged 24, 30 and 36, were identified as residents of Beruwala and Jaffna, while the three female suspects, aged 25, 43 and 53 have been identified as residents of Jaffna.
+
+Further investigations into the large-scale fraud are being carried out by the CID.
+
+◼️
 
 [Data](articles/2e7dce1c.json)
 
@@ -1076,7 +1282,15 @@ A development project has been launched on World Bank aid to rehabilitate the Ni
 
 A parliamentary discussion was held in Duluwa, Minister of State Sanath Nishantha, and the major phase of the road to develop the road carpet.
 
-...
+However, villagers have objected to the intervention of politicians for the development project.
+
+The floods accused the people of their village were severely affected by no politician.
+
+Sanath Nishantha, who was entitled to the villagers, has not received the way.
+
+The Minister had returned to the resident of the villagers.
+
+◼️
 
 [Data](articles/9b503177.json)
 
@@ -1089,6 +1303,12 @@ A parliamentary discussion was held in Duluwa, Minister of State Sanath Nishanth
 *2024-01-20 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96568/president-holds-bilateral-talks-with-state-leaders-during-nam-summit-in-kampala) · `en`
 
 President Ranil Wickremesinghe participated in bilateral discussions with various leaders and representatives from Global South countries in the African region yesterday (19 Jan.), coinciding with the Non-Aligned Nations Conference held in Kampala, Uganda.
+
+In the afternoon of the same day (19), a meeting between President Ranil Wickremesinghe and South African President Cyril Ramaphosa transpired. The South African President warmly welcomed President Ranil Wickremesinghe and the two leaders actively engaged in bilateral discussions.
+
+Simultaneously, Tanzania’s Prime Minister Kassim Majaliwa also held a meeting with President Ranil Wickremesinghe, where they delved into bilateral discussions.
+
+Furthermore, Bahamas Prime Minister Philip E. Davis, Vice President of the Republic of Benin Mariam Chabi Talata Zime Yerima and Prime Minister of Ethiopia Abiy Ahmed also met with President Ranil Wickremesinghe, participating in meaningful bilateral discussions.
 
 ...
 
@@ -1110,7 +1330,11 @@ After notifying the shop, they took steps to remove the goods in it today.
 
 Padukka - Angampe, Angampitiya, a resident of the Angampitiya, attacked the owners on the 18th and claimed that he had no possessions.
 
-...
+මෙලෙස හෝටලයට පැමිණ පහර දී තිබුණේ, ප්‍රදේශයේ පස් ව්‍යාපාරිකයින් දෙදෙනෙක් වන අතර සිද්ධියට සම්බන්ධ අයෙක් අත්අඩංගුවට ගෙන ඊයේ (19) අධිකරණයට ඉදිරිපත් කර තිබිණි.
+
+The other person involved in the incident is being treated in the hospital, saying that the restaway owners attacked him.
+
+◼️
 
 [Data](articles/8c6557c0.json)
 
@@ -1127,6 +1351,10 @@ The Police Sub-Inspector (SI) and a Constable involved in the ‘accidental’ s
 According to Police Spokesman SSP Nihal Thalduwa, the duo were interdicted with effect from Friday (19 Jan.).
 
 On Thursday (18 Jan.), a lorry driver aged 41 was killed after a police officer in civvies ‘accidentally’ discharged his firearm during a vehicle inspection. He was identified as a resident of Maharachchimulla area.
+
+The police media division said the driver had failed to comply with the signal to stop at a checkpoint in Dampelessa, Narammala.
+
+The concerned SI and Constable had then chased down the lorry and pulled it over for a spot inspection, during which the SI had allegedly ‘accidentally’ discharged his firearm, critically wounding the driver, who was rushed to the Narammala District Hospital, but succumbed to injuries shortly after.
 
 ...
 
@@ -1146,6 +1374,10 @@ The Opposition Leader has pointed out that if the bill is passed at the moment, 
 
 The Opposition Leader has referred to the Speaker by demanding the debate on the safety methods of debating on 23 and 24.
 
+The Opposition Leader emphasizes that if the amendments are not submitted to the majority of these bill, the Supreme Court is determined that it should be passed with a special majority.
+
+The Leader of the Opposition has pointed out that this is the opportunity to create an adequate time and a wide public space before submitting a bill in the world.
+
 ...
 
 [Data](articles/482f3b04.json)
@@ -1162,7 +1394,9 @@ Acting Inspector General of Police, Deshabandu Thennakoon has issued a fresh set
 
 These new guidelines were distributed to all police stations yesterday.
 
-...
+These guidelines were issued in response to a tragic incident that unfolded in Narammala on Thursday, involving a Sub Inspector of Police in civilian attire who reportedly opened fire at a lorry driver after the latter allegedly refused to stop his lorry.
+
+◼️
 
 [Data](articles/72bfef05.json)
 
@@ -1180,7 +1414,11 @@ President Ranil Wickremesinghe and South African President Cyril's President Cyr
 
 The President of the South African President is very friendly and is very friendly and has joined the two bilateral discussions.
 
-...
+Meanwhile, the Prime Minister of Tanzania (Kassim Majaliwa) was also discussed by President Ranil Wickremesinghe and expanding bilateral relations between the two countries.
+
+And Philip.Davis (Philip E. Mr. DAvis, Prime Minister AHMED (ABIAM AHMED) Mr. ABIAM Chabi Talata, Benin Ahmed, met President Ranil Wickremesinghe.
+
+◼️
 
 [Data](articles/f73070a7.json)
 
@@ -1212,7 +1450,13 @@ In a special operation conducted by the Sri Lanka Navy on the southern sea area 
 
 Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila was deployed in this special operation in the southern sea area, approximately 100 nautical miles (about 185 kms) off Dondra Point yesterday.
 
-...
+Upon inspecting a local multi-day fishing vessel suspected of transporting narcotics, three bags containing over 60 kgs of heroin were discovered hidden in the vessel.
+
+Additionally, another trawler intended to bring narcotics ashore was also seized.
+
+The Navy said the narcotics recovered vessel and the other multi-day fishing vessel were brought to the Galle port this morning, along with the eleven suspects and the seized stock of drugs.
+
+◼️
 
 [Data](articles/b354790b.json)
 
@@ -1227,6 +1471,10 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 ECONOMYNEXT – Sri Lanka’s health care system was hostile to sexual minorities and has institutionalised unfair treatment of ethnic and religious minorities, a top physician said Friday vowing to battle against inequalities.
 
 The new President of the College of Physicians Upul Dissanayake told fellow doctors at his induction in Colombo on Friday that the health sector had failed to recognise diversity and there was widespread discrimination.
+
+The majority of healthcare personnel discriminates against 12 percent of Sri Lanka’s population estimated to be from the LGBTIQ (people who have identified themselves as lesbian, gay, bisexual, transgender, intersex, or questioning), Dissanayake said.
+
+He quoted a 2013 study showing that sexual minorities feared seeking help from psychiatrists or psychologists to discuss the violence they may have faced. And of those who sought assistance, 12 percent had a negative reaction from a doctor.
 
 ...
 
@@ -1249,6 +1497,16 @@ Israeli soldiers have destroyed the cemetery and searched the bodies this week.
 The Israeli security forces have said that this has been a part of the Find to find those caught by Hamas.
 
 Sinn has said that the cemetery has been destroyed and has been investigating the pictures and social media films.
+
+CNN said that Israeli soldiers were planning to deliberately carry out this as it was heading towards Gaza.
+
+CNN also pointed out that the destruction of graves is a violation of international law.
+
+CNN said lawyers say Israel's action is equivalent to war crimes.
+
+The Israeli Security Force spokesman said that the destruction of the 16 -year -olds could not be destroyed.
+
+Israeli security forces have said that their main purpose is to rescue hostages and find their bodies.
 
 ...
 
@@ -1288,7 +1546,9 @@ During a vehicle inspection carried out in the Naramala area on the afternoon, t
 
 The father of three children aged 41 from Maharachchiyamulla died in the incident.
 
-...
+Subsequently, the Assistant Police Inspector and the Police Constable in connection with the incident have been suspended from yesterday (19).. (N)
+
+◼️
 
 [Data](articles/40660186.json)
 
@@ -1338,6 +1598,10 @@ Local authorities said the fire, which began on Friday night, was extinguished b
 
 Power and Energy Minister Kanchana Wijesekera has revealed that two-thirds of the employees’ loan interest paid by the Ceylon Electricity Board (CEB) is recovered from consumer tariffs and that financial facilities to the tune of Rs. 12 billion are granted to the employees.
 
+Taking to ‘X’ (formerly Twitter), the Minister stated that as per the data received by the CEB finance division, upon his request, a total of nearly Rs. 12 billion is spent by the state-owned institution for financial facilities extended to their employees.
+
+Responding to the shocking revelation that the interest paid by the CEB to its employees is recovered through consumer tariffs, the Minister noted that CEB has been instructed to implement a mechanism through which the said money is recovered from the beneficiaries of loans, instead of  the consumers.
+
 ...
 
 [Data](articles/427e171e.json)
@@ -1351,6 +1615,12 @@ Power and Energy Minister Kanchana Wijesekera has revealed that two-thirds of th
 *2024-01-20 12:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NIA-files-supplementary-charge-sheet-against-4-in-Sri-Lankan-human-trafficking-case/108-275412) · `en`
 
 Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed a supplementary charge sheet against four accused in a 2021 case relating to human trafficking of 39 Sri Lankan nationals into India on the pretext of taking them to Canada, an official statement said.
+
+Mohamed Imran khan alias Imran, who was arrested by the NIA recently, has been chargesheeted under sections of the Indian Penal Code (IPC) dealing with trafficking, confinement and conspiracy, along with absconders Seeni Aabul Khan, Mohamed Ibrahim alias Ahmed and Pudumadam Imran alias Hajiyar alias Imran Khan, before a special court in Bengaluru, it said.
+
+The accused were involved in trafficking of the 39 Sri Lankans to Mangaluru via Tamil Nadu by falsely promising them that they were being taken to Canada, the statement said.
+
+The victims were confined in various lodges across Mangaluru and were initially arrested by Karnataka Police, as accomplices along with the accused, it said.
 
 ...
 
@@ -1367,6 +1637,10 @@ Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed 
 Acting IGP Deshabandu Tennakoon says he has issued fresh instructions on Friday (19 Jan.) to all police stations to refrain from pulling over vehicles for inspections while the officers are clad in civilian clothing.
 
 The directive comes on the heels of an incident in the Narammala Police Division, where a lorry driver, 41, was killed after a Police Sub-Inspector (SI) clad in civvies allegedly ‘accidentally’ discharged his firearm during a vehicle inspection.
+
+The police media division said the driver had failed to comply with the signal to stop at a checkpoint in Dampelessa, Narammala.
+
+The concerned SI and a Constable had then chased down the lorry and pulled it over for a spot inspection, following which the SI had allegedly ‘accidentally’ discharged his firearm, critically wounding the driver, who was rushed to the Narammala District Hospital, but succumbed to injuries shortly after.
 
 ...
 
@@ -1385,6 +1659,10 @@ More than fifty international organizations, including a committee to protect jo
 The committee to protect the journalists to protect the journalists should be withdrawn by the Sri Lankan Public Security Minister Tran Alas, the proposal to be withdrawn.
 
 International organizations have appealed to the civil society to consult with human rights organizations.
+
+தவறான அறிக்கைகள் தவறான விருப்பங்கள் என்பவற்றிற்கு சட்டமூலத்தில் தெரிவிக்கப்பட்டள்ள வரைவிலக்கணங்கள் காரணமாக பேச்சுரிமையை கண்மூடித்தனமாக கட்டுப்படுத்தப்படலாம் தணிக்கைக்கு அதிகாரம்வழங்கப்படலாம்  என சர்வதேச அமைப்புகள் தெரிவித்துள்ளன.
+
+International organizations, which have said that the Bill is given to the Commission appointed by the President, has expressed fears that the Commission could be used with political intelligence.
 
 ...
 
@@ -1424,7 +1702,15 @@ A few months ago, two apparel stores in Jaffna Nagar area were burnt in the fire
 
 The car burned in a few days after the stores were burnt. As well as a person's motorcycle, the person was also lodged.
 
-...
+Three suspects were arrested yesterday in connection with the three incidents of the Jaffna police on Friday.
+
+Police recovered two motorcycles and a sword from the arrested.
+
+When the police investigated the arrested persons at the police station, the main suspect was living in Belgium, and a man who was accustomed to setting fire to the two garments stalls in Jaffna, Rs.Investigations have also revealed.
+
+Subsequently, the police have taken efforts to check the suspects' bank accounts and the police have taken steps to arrest the man who sent money from abroad.R
+
+◼️
 
 [Data](articles/4280e53f.json)
 
@@ -1442,7 +1728,11 @@ He noted that the police are hiding the facts after the killing of civilians.
 
 This is why I am a need for an independent investigation into the deaths caused by the police action, ”he said.
 
-...
+"We have seen the first issue of the police," he said, adding that the top officials and top police officers are encouraged to kill the civilians.
+
+Meanwhile, the High Court has issued several verdicts on such crimes, he said that an independent committee is necessary to investigate such incidents as we cannot be satisfied with the police investigations or their supporters.
+
+◼️
 
 [Data](articles/be375657.json)
 
@@ -1476,7 +1766,11 @@ It has been reported that a wheelchair has not been given to carry a patient who
 
 It has been reported that many such incidents are taking place, causing patients to face many inconveniences.
 
-...
+Patients are also concerned that they have to stretch the gateboat cards on the ground due to shortage of beds.
+
+Doctors at the Trincomalee Hospital, Drugs and Hospital equipment and the continuous workshop are not available for the best service.. Remble
+
+◼️
 
 [Data](articles/1681ff79.json)
 
@@ -1512,6 +1806,12 @@ Epidemiology Unit of the Health Ministry is continuing its MMR (measles-mumps-ru
 
 The measles vaccination rollout was kicked off after observing a decrease in measles vaccination rates both globally and regionally during the recent COVID-19 pandemic.
 
+Epidemiology Unit says this decrease resulted in a significant surge in the incidence of measles cases on both a global and regional level.
+
+Adding to this global challenge, Sri Lanka is currently experiencing an imported Measles outbreak since May 2023.
+
+A considerable number of cases have been reported to date predominantly among vaccine refusal communities and subsequently spreading to those who were partially vaccinated (between 9 months - 3 years), the Epidemiology Unit emphasized.
+
 ...
 
 [Data](articles/ffd03cd1.json)
@@ -1530,7 +1830,9 @@ Police have arrested 667 suspects in connection with drug charges and 498 grams 
 
 අත්අඩංගුවට ගත් එම සැකකරුවන්ගෙන් 10 දෙනෙකු සම්බන්ධයෙන් රැඳවුම් නියෝග ලබාගැනීමට නියමිත අතර, මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් පුනරුත්ථාපනය සඳහා යොමු කිරීමට නියමිතයි.
 
-...
+In addition 319 suspects and open warners have been arrested yesterday on their operations yesterday.
+
+◼️
 
 [Data](articles/63add511.json)
 
@@ -1563,6 +1865,10 @@ The Navy said that the fishing trawlers and the suspects are currently being esc
 Parliament, Jan. 20 (Daily Mirror)-  Sri Lanka’s dairy industry is facing a major crisis, with around 14,000 small-scale farms shutting down and milk production declining sharply as revealed yesterday by the Committee on Public Accounts (COPA) in Parliament.
 
 While officials from the State Ministry of Livestock Department blamed the closures on animal theft, the MPS expressed skepticism.
+
+They argued that other factors, such as the destruction of grasslands and land-related issues, likely played a more significant role.
+
+The COPA emphasized the need for the Department of Animal Production and Health to maintain accurate and clear data on the industry.this data is crucial for understanding the root causes of the crisis and formulating effective policy responses.
 
 ...
 
@@ -1616,6 +1922,12 @@ COLOMBO (News 1st) – Founder of the Pathfinder Foundation Milinda Moragoda cal
 
 Moragoda advocated a "zero-based budgeting" approach, scrutinizing each mission's value and suggesting a 10-mission reduction.
 
+He said, "At present, Sri Lanka has over 60, most of which are understaffed and under-resourced. In telling contrast, Singapore, with foreign exchange reserves of close to USD 325 billion, has around 50."
+
+He said savings could bolster remaining embassies, prioritizing functionality, affordability, and national interest.
+
+Empowering select missions for regional oversight, with ambassadors potentially stationed at the foreign ministry, is another proposal. He argued that this mirrors Singapore's efficiency and adaptability.
+
 ...
 
 [Data](articles/c294b856.json)
@@ -1631,6 +1943,10 @@ Moragoda advocated a "zero-based budgeting" approach, scrutinizing each mission'
 A total of 51 more employees of the Ceylon Electricity Board (CEB) have been interdicted for obstructing the services by refusing to accept bill payments from consumers during their three-day protests staged against the proposed restructuring of the state-owned electricity supplier.
 
 CEB trade union members engaged in a series of protests for three days from January 03 - 05, challenging the government’s Bill to restructure the Board and the new Electricity Bill.
+
+On Friday (Jan.15), the CEB suspended 15 clerical staff members in charge of the cash counters for inconveniencing the customers, who had come to pay their bills, by closing the windows of the counters and refraining from accepting payments.
+
+The CEB says further inquiries are underway to identify other employees who refrained from performing their duties and disrupted the services amidst the trade union action.
 
 ...
 
@@ -1650,7 +1966,13 @@ The Ceylon Electricity Board (CEB) has been suspended by a group of protesting e
 
 The Ceylon Electricity Board yesterday stated that 15 clerks were suspended by the work of the money and obstructing the electrical bills at the recent past.
 
-...
+Its trade union has launched a protest recently claiming that the Electricity Board is planning to be privacy.
+
+The Minister of Power and Energy Kanchana Wijesekara was instructed to take appropriate disciplinary action to take appropriate disciplinary action and take appropriate disciplinary action to take appropriate discipline action.
+
+However, the Sri Lanka Electricity Board (Pvt) Ltd is conducting further investigations to identify customers in the past strike, despite being an essential service.
+
+◼️
 
 [Data](articles/e99374a0.json)
 
@@ -1682,6 +2004,16 @@ The seized vessels, narcotics consignment and apprehended suspects are being bro
 
 COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizations in calling on Minister for Public Security Tiran Alles to withdraw the proposed Online Safety Bill and conduct sustained multi-stakeholder consultations, including with civil society and human rights experts.
 
+The Bill, set to be tabled in Parliament this month, has drawn sharp criticism for its overly broad definitions of offenses, lack of independent oversight, and potential for abuse by the executive.
+
+Vague terminology: "False statements" and "ill-will" definitions could arbitrarily restrict speech and empower censorship.
+
+Executive control: The Bill grants excessive power to a President-appointed Commission, raising concerns about political manipulation.
+
+Data privacy risks: Demanding user identification and proactive monitoring pose threats to privacy and security.
+
+Digital economy harm: Stifling online expression could damage Sri Lanka's growing digital economy and employment opportunities.
+
 ...
 
 [Data](articles/a5139743.json)
@@ -1695,6 +2027,16 @@ COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizati
 *2024-01-20 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/online-safety-bill-chilling-free-speech-urge-groups/) · `en`
 
 COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizations in calling on Minister for Public Security Tiran Alles to withdraw the proposed Online Safety Bill and conduct sustained multi-stakeholder consultations, including with civil society and human rights experts.
+
+The Bill, set to be tabled in Parliament this month, has drawn sharp criticism for its overly broad definitions of offenses, lack of independent oversight, and potential for abuse by the executive.
+
+Vague terminology: "False statements" and "ill-will" definitions could arbitrarily restrict speech and empower censorship.
+
+Executive control: The Bill grants excessive power to a President-appointed Commission, raising concerns about political manipulation.
+
+Data privacy risks: Demanding user identification and proactive monitoring pose threats to privacy and security.
+
+Digital economy harm: Stifling online expression could damage Sri Lanka's growing digital economy and employment opportunities.
 
 ...
 
@@ -1712,7 +2054,11 @@ Boralesgamuwa, Jan 20 (Daily Mirror) - Traffic police in Boralesgamuwa intercept
 
 The suspects, both 18-year-olds from Bellanwila, were spotted throughout Boralesgamuwa showcasing the offensive word on a plate replacing the motorcycle’s number plate.
 
-...
+Ignoring an order to stop from traffic officers, they sped away, prompting a chase and eventual apprehension. Senior police officials informed that the suspects will be presented before the Nugegoda magistrate and additionally referred for a psychiatric evaluation.
+
+OIC Traffic Branch SI Tharindu Wickremesinghe, along with PCS 98597 Daluwatta and 70870 Jagath, are conducting further investigations under the instructions of OIC Boralesgamuwa Police CI Sumedha Wimalagunaratne.
+
+◼️
 
 [Data](articles/8c08febe.json)
 
@@ -1725,6 +2071,12 @@ The suspects, both 18-year-olds from Bellanwila, were spotted throughout Borales
 *2024-01-20 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96559/japan-makes-history-becoming-fifth-country-to-land-spacecraft-on-moon) · `en`
 
 Japan on Saturday became the fifth country to put a spacecraft on the moon, but solar power issues threatened to cut short the nation’s mission to prove a “precision” landing technology and revitalise a space programme that has suffered setbacks.
+
+The Japan Aerospace Exploration Agency (JAXA) said its Smart Lander for Investigating Moon (SLIM) landed the moon’s surface at around 12:20 a.m. (1520 GMT Friday), but its solar panels were not able to generate electricity, possibly because they are angled wrong.
+
+JAXA prioritised the transfer of SLIM’s data to earth as the probe relied only on its battery, which would last for “a few hours” despite “life-sustaining treatments” such as turning off its heater, Hitoshi Kuninaka, the head of JAXA’s research centre, told a press conference.
+
+JAXA will maintain the status quo rather than take risky actions and hopes a shift in the sunlight’s angle will hit the panels in a way that can restore its functions, he added.
 
 ...
 

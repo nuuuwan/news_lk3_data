@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 16:48:00**
+As of **2024-01-20 16:51:40**
 
 ## Newspaper Stats
 
-*Scraped **1,423** Articles*
+*Scraped **1,427** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dbsjeyarajcom | 117
 virakesarilk | 128
 dailyftlk | 150
 adalk | 160
-dailymirrorlk | 161
+dailymirrorlk | 163
 adaderanalk | 173
-tamilmirrorlk | 176
+tamilmirrorlk | 178
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-0 (0.0%) of 1,423 articles have been extended.
+1 (0.1%) of 1,427 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### செந்ாில் தொண்டமானை வாழ்த்தினார் வைரமுத்து
+
+*2024-01-20 16:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்ாில்-தொண்டமானை-வாழ்த்தினார்-வைரமுத்து/175-331847) · `ta`
+
+கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் அன்று மகாகவி பாரதியார் சொன்னதை இன்று நடைமுறைப்படுத்தி வருகிறார் என கவிஞர் வைரமுத்து வாழ்த்து தெரிவித்துள்ளார்.
+
+மேலும் கவிஞர் வைரமுத்து, தமிழ் பாரம்பரியத்தை மீட்டெடுத்த ஆளுநர் செந்தில் தொண்டமானை அகமகிழ்ந்து பாட்டெடுத்து வாழ்த்துவதாக தனது டுவிட்டர் பதிவில் தெரிவித்துள்ளார்.
+
+இலங்கை கிழக்கு மாகாணத்தின் மேதகு ஆளுநர் செந்தில் தொண்டமான் அன்பின் நிமித்தமாய் இல்லம் வந்தார்
+
+◼️
+
+### நாரம்மல சம்பவம்; பொலிஸ் அதிகாரிகளுக்கு பறந்த அதிரடி உத்தரவு
+
+*2024-01-20 16:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாரம்மல-சம்பவம்-பொலிஸ்-அதிகாரிகளுக்கு-பறந்த-அதிரடி-உத்தரவு/175-331846) · `ta`
+
+இனிவருங்காலங்களில் பொலிஸ் உத்தியோகத்தர்கள் சிவில் உடையில் வாகன சோதனையில் ஈடுபட முடியாது என இலங்கை பொலிஸ் அதிகாரிகளுக்கு பதில் பொலிஸ்மா அதிபர் தேசபந்து தென்னகோன் இன்று இந்த உத்தரவு பிறப்பித்துள்ளார்.
+
+நாரம்மலவில் லொறி சாரதி ஒருவர் சிவில் உடையில் இருந்த பொலிஸ் உத்தியோகத்தரால் சுட்டுக்கொல்லப்பட்டதை அடுத்து இந்த அறிவுறுத்தல்கள் வந்துள்ளன.
+
+மூன்று பிள்ளைகளின் தந்தையான 40 வயதான லொறி சாரதி, சிவில் உடையில் இருந்த நாரம்மல பொலிஸ் உத்தியோகத்தர் ஒருவரால் சுட்டுக் கொல்லப்பட்டார்.
+
+...
+
+### Even IMF has accepted NPP will come to power: Tilvin
+
+*2024-01-20 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Even-IMF-has-accepted-NPP-will-come-to-power-Tilvin/108-275416) · `en`
+
+Colombo, Jan. 20 (Daily Mirror)- Most countries and organisations in the world, such as the International Monetary Fund (IMF) have begun to realise that the National People's Power (NPP) will come to power at the next election, NPP General Secretary Tilvin Silva said today.
+
+He told a news conference that the Samagi Jana Balawegaya is perturbed over the NPP's recent meeting with the IMF representatives.
+
+...
 
 ### මෙරට ඇඟලුම් ක්ෂේත්‍රයට අලුත් අවස්ථාවක්
 
@@ -129,6 +163,16 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 மன்னார் - யாழ்ப்பாணம் பிரதான வீதி, பள்ளமடு பகுதியில் நேற்று(19) இரவு 7.30 மணியளவில் இடம்பெற்ற விபத்தில் இளம் குடும்பஸ்தர் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்ததுடன், மேலும் ஒருவர் படுகாயமடைந்துள்ளார்.
 
 இந்த நிலையில், சம்பவ இடத்திற்கு வருகை தந்த இலுப்பைக் கடவை பொலிஸ் நிலைய பொறுப்பதிகாரி உள்ளிட்ட பொலிஸார் சம்பவ இடத்தில் இருந்த மக்கள் மீது கடுமையாக தாக்கியதுடன், விபத்தை ஏற்படுத்திய பேருந்தையும், அதன் சாரதியையும் காப்பாற்றிச் சென்றுள்ளதாக பாதிக்கப்பட்டவர்கள் தெரிவித்துள்ளனர்.
+
+...
+
+### Remanded Onco Surgeon at Karapitiya requests for early retirement
+
+*2024-01-20 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Remanded-Onco-Surgeon-at-Karapitiya-requests-for-early-retirement/108-275415) · `en`
+
+Galle, Jan. 20 (Daily Mirror)- Krishantha Perera, the Onco Surgeon at the Karapitiya Teaching Hospital, who was remaded over the alleged assault on a female hospital staffer, has requested to obtain leave preparatory to retirement, Hospital Director S.D.M. Ranga confirmed.
+
+It is reported that the surgeon could serve until the age of 63 according to the new circualr and that he had requested for retirement two years prior to his retirement age.
 
 ...
 
@@ -1047,37 +1091,5 @@ Organised by Lanka Exhibition and Conference Services Ltd. (LECS), together with
 A collaborative effort led by the Export Development Board (EDB) alongside Sri Lankan universities, the Tropical Ornamental Fish Association and Sri Lanka Ornamental Fish Farmers’ Association organised a one-day workshop on 11 January.
 
 The key objective of the workshop was to help improve the export potential of ornamental fish, support grassroots development, and enhance the abilities of exporters.
-
-...
-
-### Shritharan  Backed by Yoheswaran  Asks Sumanthiran not to Contest the ITAK President Election.
-
-*2024-01-20 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83440) · `en`
-
-...
-
-### The Killing of Bharatha Lakshman Premachandra and Three Bodyguards  in the Mulleriyawe Shoot-out near Walpola Junction.
-
-*2024-01-20 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83474) · `en`
-
-The shooting of Bharatha Lakshman Premachandra and conviction of Duminda Silva was a controversial episode in contemporary Sri Lankan history. Bharatha Lakshman Premachandra known as “Lucky Aiya” and three of his bodyguards were killed on 8 October 2011 in a shoot-out near the Walpola junction close to Mulleriyawa town, about six miles away from Colombo city. Another bodyguard was seriously injured.
-
-...
-
-### Hirunika Premachandra’s Letter to  Gotabaya Rajapaksa when he issued a Presidential Pardon to Duminda Silva Convicted of Killing Bharatha Lakshman Premachandra
-
-*2024-01-20 00:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83469) · `en`
-
-The Supreme Court Order Squashing   the Presidential pardon  granted by former President Gotabaya Rajapaksa to Ex-MP  Duminda Silva has once again turned the media spotlight on the chief victim Bharatha Lakshman’s courageous daughter Hirunika Premachandra. The former MP has earned the sympathy and admiration of many people by her doughty campaign for justice and against injustice.
-
-...
-
-### Central Bank to roll out phase II masterplan under NBFI consolidation effort
-
-*2024-01-20 00:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-to-roll-out-phase-II-masterplan-under-NBFI-consolidation-effort/108-275401) · `en`
-
-Says expects to facilitate market-based consolidation among small and mid-sized banks
-
-While reiterating once again the importance of consolidation in the banking sector for higher scale, efficiency and strength, the Central Bank said it is going to roll out the second phase of the consolidation master plan for the non-bank finance company sector in earnest.
 
 ...

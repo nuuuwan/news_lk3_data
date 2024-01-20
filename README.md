@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 21:52:03**
+As of **2024-01-20 22:17:05**
 
 ## Newspaper Stats
 
-*Scraped **1,456** Articles*
+*Scraped **1,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,18 +20,33 @@ dailyftlk | 150
 adalk | 160
 dailymirrorlk | 168
 adaderanalk | 180
-tamilmirrorlk | 182
+tamilmirrorlk | 183
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-0 (0.0%) of 1,456 articles have been extended.
+0 (0.0%) of 1,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
 
+### மாத்தறையில் துப்பாக்கிச் சூடு - ஒருவர் பலி
+
+*2024-01-20 21:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறையில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-331863) · `ta`
+
+மாத்தறை -  தெலிஜ்ஜவில பகுதியில் இன்று இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டு சம்பவத்தில் நபரொருவர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+மோட்டார் சைக்கிளில் வந்த சந்தேகநபர் ஒருவர் தொலைபேசி விற்பனை நிலையமொன்றினுள் இந்த துப்பாக்கிச் சூட்டினை நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/84a7ec0a.json)
+
+[Extended Data](ext_articles/84a7ec0a.ext.json)
+
+---
 ### படம் பார்த்த சிறுவர்களுக்கு 12 ஆண்டுகள் தண்டனை – அதிர்ச்சி
 
 *2024-01-20 20:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/படம்-பார்த்த-சிறுவர்களுக்கு-12-ஆண்டுகள்-தண்டனை-அதிர்ச்சி/50-331850) · `ta`
@@ -1575,24 +1590,5 @@ ECONOMYNEXT – The International Monetary Fund expects Sri Lanka to reach a dea
 [Data](articles/e4175983.json)
 
 [Extended Data](ext_articles/e4175983.ext.json)
-
----
-### වසර 05ක් ඇතුළත පලස්තීන රාජ්‍යය පිහිටුවිය යුතුයි
-
-*2024-01-20 08:04:49* · [`adalk`](https://www.ada.lk/breaking_news/වසර-05ක්-ඇතුළත-පලස්තීන-රාජ්‍යය-පිහිටුවිය-යුතුයි/11-407627) · `si`
-
-ඩිජිටල් සහ තාක්‍ෂණික බෙදීම් මෙන්ම සමූල ඝාතක අවි භාවිතය මගින් සංවර්ධනය වෙමින් පවතින රටවල් සහ සංවර්ධිත රටවල් අතර ගැඹුරු අසමානතාවයක් නිර්මාණය කර තිබෙනවා
-
-යහපත් ලෝකයක් වෙනුවෙන් ශක්තිමත් සහ එක්සත් නොබැඳි ජාතීන්ගේ සංවිධානයක් තුළින් මෙම ගැටළු කඩිනමින් විසඳාගත යුතුයි.
-
-ප්‍රධාන බලවතුන්ගේ තරගය වෙළෙද හා ආර්ථික ඒකාබද්ධතාව පසුපසට ගමන් කරවමින් තිබෙනවා.
-
-නොබැඳි ජාතීන් තවදුරටත් දුර්වල රාජ්‍යයන්ගේ එකතුවක් නොවේ – ජනපති නොබැදි ජාතීන්ගේ සමුළුවේ 19 වන රාජ්‍ය නායක සැසිය අමතමින් අවධාරණය කරයි.
-
-...
-
-[Data](articles/a233b5d1.json)
-
-[Extended Data](ext_articles/a233b5d1.ext.json)
 
 ---

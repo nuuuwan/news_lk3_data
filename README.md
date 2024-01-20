@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 18:50:56**
+As of **2024-01-20 19:17:14**
 
 ## Newspaper Stats
 
-*Scraped **1,431** Articles*
+*Scraped **1,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,59 @@ colombotelegraphcom | 24
 adaderanasinhalalk | 27
 bbccomsinhala | 36
 islandlk | 82
-newsfirstlk | 93
+newsfirstlk | 95
 economynextcom | 98
 dbsjeyarajcom | 117
 virakesarilk | 128
 dailyftlk | 150
 adalk | 160
 dailymirrorlk | 164
-adaderanalk | 174
+adaderanalk | 176
 tamilmirrorlk | 178
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-21 (1.5%) of 1,431 articles have been extended.
+61 (4.3%) of 1,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### Rs. 1.6bn worth of heroin recovered from intercepted fishing trawlers
+
+*2024-01-20 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96575/rs-16bn-worth-of-heroin-recovered-from-intercepted-fishing-trawlers-) · `en`
+
+Sri Lanka Navy on Friday (Jan.19) foiled yet another drug smuggling attempt by intercepting a local multiday fishing trawler carrying a large cache of heroin.
+
+The street value of the heroin consignment, weighing over 65kg, is believed to be more than Rs. 1,626 million.
+
+Additionally, another multiday fishing trawler, suspected of assisting the other vessel, too was impounded during the operation which led to the arrest of 11 suspects involved in the drug smuggling attempt.
+
+...
+
+### Sri Lanka signs MoU with Benin on visa exemptions
+
+*2024-01-20 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96574/sri-lanka-signs-mou-with-benin-on-visa-exemptions) · `en`
+
+Sri Lanka has signed a Memorandum of Understanding (MoU) with the Republic of Benin on visa exemptions for diplomatic, official and service passport holders.
+
+As per the MoU, the visa exemptions allow for a 30-day stay without a prior visa for the aforementioned categories, the President’s Media Division (PMD) reported.
+
+The agreement was signed by Foreign Affairs Minister Ali Sabry, and his Beninese counterpart Olushegun Adjadi Bakari.
+
+...
+
+### Navy seized Rs. 1.6 BILLION worth of Heroin in major drug bust on High Seas
+
+*2024-01-20 17:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/navy-seized-rs-1-6-billion-worth-of-heroin-in-major-drug-bust-on-high-seas/) · `en`
+
+COLOMBO (News 1st); The Sri Lanka Navy seized over 65kg of heroin and apprehended 11 suspects during a special operation conducted about 100 nautical miles off Dondra Head, in southern Sri Lankan waters.
+
+The operation, carried out on January 19th, also led to the seizure of two fishing trawlers suspected of being involved in the smuggling racket.
+
+...
 
 ### Sajith urges Speaker to postpone parliamentary debate on Online Safety Bill
 
@@ -622,6 +656,14 @@ The seized vessels, narcotics consignment and apprehended suspects are being bro
 
 ◼️
 
+### Online Safety Bill: Chilling Effect On Free Speech
+
+*2024-01-20 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/online-safety-bill-chilling-effect-on-free-speech/) · `en`
+
+COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizations in calling on Minister for Public Security Tiran Alles to withdraw the proposed Online Safety Bill and conduct sustained multi-stakeholder consultations, including with civil society and human rights experts.
+
+...
+
 ### Online Safety Bill: Chilling free speech, urge groups
 
 *2024-01-20 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/online-safety-bill-chilling-free-speech-urge-groups/) · `en`
@@ -1053,47 +1095,3 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 மக்கள் விடுதலை முன்னணியின் தலைவர் அநுரகுமார திஸாநாயக்க அஸ்கிரிய மற்றும் மல்வத்து பீடங்களின் மகாநாயக்க தேரர்களை  சந்தித்து நேற்று ஆசி பெற்றார்.
 
 ◼️
-
-### மலையக தலைவர்களுடன் இந்திய தூதுவர் சந்திப்பு
-
-*2024-01-20 02:31:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தலைவர்களுடன்-இந்திய-தூதுவர்-சந்திப்பு/175-331828) · `ta`
-
-மலையக அரசியல் தலைவர்களை இலங்கைக்கான இந்தியத் தூதுவர் சந்தோஷ் ஜா நேரில் சந்தித்து உரையாடியுள்ளார்.
-
-இதன்போது தமிழ்ச் மூகத்தின் ஒட்டுமொத்த அபிவிருத்திக்கான திட்டங்களைத் தொடர்ந்து முன்னெடுப்பதுடன் பெருந்தோட்ட மக்களின் நலனுக்கான அவர்களின் அனைத்து முயற்சிகளிலும் இந்தியா உறுதியாக நிற்கும் என்று இந்தியத் தூதுவர் தெரிவித்துள்ளார். (a)
-
-◼️
-
-### SJB renews warning to renegotiate IMF deal under an SJB Govt.
-
-*2024-01-20 01:26:02* · [`dailyftlk`](https://www.ft.lk/news/SJB-renews-warning-to-renegotiate-IMF-deal-under-an-SJB-Govt/56-757570) · `en`
-
-Says only SJB and its leaders can dare to make such proposals to IMF
-
-Promises to reform current tax regime when SJB comes to power
-
-Challenges NPP to reveal matters discussed between party and IMF this week
-
-Claims SJB campaign to oust Govt. will commence on 30 Jan in Colombo
-
-...
-
-### Sri Lankan marketers lag behind digital surge, Minister calls for transformation
-
-*2024-01-20 01:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-marketers-lag-behind-digital-surge-Minister-calls-for-transformation/108-275402) · `en`
-
-Sri Lanka's digital revolution is in full swing, with mobile phone penetration exceeding 150% and internet usage skyrocketing to 52%. However, the nation's marketers are lagging behind, with a meager 21% of marketing budgets allocated to digital channels, according to State Minister of Technology Kanaka Herath.
-
-...
-
-### Roshan Ranasinghe and Arjuna Ranatunga new alliance vows to clean up politics in 2024
-
-*2024-01-20 01:25:15* · [`dailyftlk`](https://www.ft.lk/news/Roshan-Ranasinghe-and-Arjuna-Ranatunga-new-alliance-vows-to-clean-up-politics-in-2024/56-757569) · `en`
-
-Launch new alliance titled ‘Unity of Sri Lanka’ on platform to end corruption in SL
-
-Say coalition will play crucial role in upcoming elections aiming to secure Presidency and form a Govt.
-
-Stress alliance will also focus on abolishing Executive Presidency to give more power to Parliament
-
-...

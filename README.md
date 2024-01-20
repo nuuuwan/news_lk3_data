@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 22:49:53**
+As of **2024-01-20 23:02:20**
 
 ## Newspaper Stats
 
-*Scraped **1,462** Articles*
+*Scraped **1,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 25
 adaderanasinhalalk | 33
 bbccomsinhala | 36
 islandlk | 83
-newsfirstlk | 95
+newsfirstlk | 96
 economynextcom | 101
 dbsjeyarajcom | 117
 virakesarilk | 129
 dailyftlk | 150
-adalk | 160
+adalk | 161
 dailymirrorlk | 170
 adaderanalk | 180
 tamilmirrorlk | 183
@@ -26,7 +26,7 @@ tamilmirrorlk | 183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-0 (0.0%) of 1,462 articles have been extended.
+0 (0.0%) of 1,464 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -62,6 +62,21 @@ The Malimbada Police are investigating to arrest the shooters and determine the 
 [Data](articles/84a7ec0a.json)
 
 [Extended Data](ext_articles/84a7ec0a.ext.json)
+
+---
+### IMF & Sri Lanka: Tax reforms and fiscal discipline seen as key to overcoming the crisis
+
+*2024-01-20 21:31:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/imf-sri-lanka-tax-reforms-and-fiscal-discipline-seen-as-key-to-overcoming-the-crisis/) · `en`
+
+COLOMBO (News 1st); The International Monetary Fund (IMF) expressed cautious optimism about Sri Lanka's economic recovery, highlighting the crucial role of tax reforms and fiscal discipline in overcoming the nation's deep financial crisis.
+
+Peter Breuer, IMF Senior Mission Chief to Sri Lanka, emphasized the importance of tax administration in addressing the revenue shortfall that contributed to the crisis.
+
+...
+
+[Data](articles/1fb365ff.json)
+
+[Extended Data](ext_articles/1fb365ff.ext.json)
 
 ---
 ### படம் பார்த்த சிறுவர்களுக்கு 12 ஆண்டுகள் தண்டனை – அதிர்ச்சி
@@ -707,6 +722,19 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 [Extended Data](ext_articles/8587da60.ext.json)
 
 ---
+### නාවික හමුදා නිලධාරියාගෙන් නව වාර්තාවක්
+
+*2024-01-20 14:53:14* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදා-නිලධාරියාගෙන්-නව-වාර්තාවක්/11-407630) · `si`
+
+ශ්‍රී ලංකා නාවික හමුදාවේ නායක ඉංජිනේරු කාර්මික ආර්පී සමන් කුමාර සිරිවර්ධන දින 07 යි පැය 11 යි මිනිත්තු 17 යි තත්පර 14 කින් කිලෝමීටර් 586.1 ක්, පූනෑව සිට කොළඹ නිදහස් චතුරශ්‍රය දක්වා පැමිණ නැවත පූනෑව දක්වා ගමන් කර, නව ශ්‍රී ලංකා වාර්තාවක් පිහිටුවීමට 2024 ජනවාරි මස 19 වන දින  සමත් විය.
+
+...
+
+[Data](articles/382a4424.json)
+
+[Extended Data](ext_articles/382a4424.ext.json)
+
+---
 ### மன்னாரில் கோர விபத்தை ஏற்படுத்திய சாரதியை காப்பாற்றிய பொலிஸார்?
 
 *2024-01-20 14:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-கோர-விபத்தை-ஏற்படுத்திய-சாரதியை-காப்பாற்றிய-பொலிஸார்/72-331843) · `ta`
@@ -965,7 +993,9 @@ Its director, Dr. Sudath Samaraweera, said that 20% of dengue cases in the count
 
 He added that 6,689 cases of dengue have been reported in the last 18 days of this year alone.
 
-◼️
+IMF & Sri Lanka: Tax reforms and fiscal discipline seen as key to overcoming the crisis
+
+...
 
 [Data](articles/916aa839.json)
 
@@ -1219,7 +1249,7 @@ The drugs were discovered during a special operation carried out by the Navy Int
 
 The Navy said that the fishing trawlers and the suspects are currently being escorted to the Port of Galle for onward action.
 
-◼️
+...
 
 [Data](articles/608909e1.json)
 
@@ -1566,33 +1596,5 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 [Data](articles/805d616c.json)
 
 [Extended Data](ext_articles/805d616c.ext.json)
-
----
-### விரைவில் இலத்திரனியல் கடவுச்சீட்டு
-
-*2024-01-20 08:32:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரைவில்-இலத்திரனியல்-கடவுச்சீட்டு/175-331835) · `ta`
-
-இலத்திரனியல் கடவுச்சீட்டு விநியோகத்திற்கான ஆரம்பகட்ட நடவடிக்கைகள் பூர்த்தி செய்யப்பட்டுள்ளதாகவும் அவர் கூறியுள்ளார். (N)
-
-◼️
-
-[Data](articles/cef9201b.json)
-
-[Extended Data](ext_articles/cef9201b.ext.json)
-
----
-### நாடு முழுவதும் இரண்டு நாட்களுக்கு தட்டம்மை தடுப்பூசி
-
-*2024-01-20 08:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-முழுவதும்-இரண்டு-நாட்களுக்கு-தட்டம்மை-தடுப்பூசி/175-331834) · `ta`
-
-அதன்படி, இன்று (20) மற்றும் நாளை (21) ஆகிய நாள்களில்  09 மாத குழந்தை முதல் 15 வயது வரையிலான சிறுவர்களுக்கு தட்டம்மை தடுப்பூசி போடப்படும்.
-
-தட்டம்மை தடுப்பூசி பெறாத குழந்தைகளுக்கு ஒவ்வொரு மாவட்டத்திலும் உள்ள தடுப்பூசி மையங்களுக்குச் சென்று தடுப்பூசி போட முடியும் என்று அமைச்சு கூறியுள்ளது. (N)
-
-◼️
-
-[Data](articles/f5f77cdc.json)
-
-[Extended Data](ext_articles/f5f77cdc.ext.json)
 
 ---

@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 00:02:27**
+As of **2024-01-21 00:47:44**
 
 ## Newspaper Stats
 
-*Scraped **1,472** Articles*
+*Scraped **1,474** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 25
+colombotelegraphcom | 27
 adaderanasinhalalk | 36
 bbccomsinhala | 36
 islandlk | 83
@@ -26,7 +26,7 @@ adaderanalk | 185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-130 (8.8%) of 1,472 articles have been extended.
+172 (11.7%) of 1,474 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ The Friday night fire killed third graders in a boys’ dormitory of Yingcai Sch
 
 [Data](articles/64a9676b.json)
 
+[Extended Data](ext_articles/64a9676b.ext.json)
+
 ---
 
 ### PUCSL to reach decision on proposed electricity tariffs next week
@@ -59,6 +61,8 @@ The PUCSL will then modify the proposal based on public feedback and submit the 
 ...
 
 [Data](articles/37e5e4cf.json)
+
+[Extended Data](ext_articles/37e5e4cf.ext.json)
 
 ---
 
@@ -92,19 +96,25 @@ The Minister of Foreign Affairs Ali Sabry PC, highlighted the importance of thes
 
 [Data](articles/86cc4cb4.json)
 
+[Extended Data](ext_articles/86cc4cb4.ext.json)
+
 ---
 
-### අපි මේ අප්‍රේල් 21 ඒක ප්‍රකාශයට පත් කරනවා - කාදිනල් හිමි
+### We publish it this April 21 - Cardinal Thero
 
 *2024-01-20 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192372) · `si`
 
-පාස්කු ත්‍රස්ත ප්‍රහාරය සිදුවී 05 වසරක් සපරෙන අප්‍රේල් මස 21 වනදා ඉන් මියගිය සියලුදෙනා ශාන්තුවරුන් ලෙස ඔසවා තබන්නට ඔවුන්ගේ නම් ඉදිරිපත් කිරීමට තීරණය කළ බව අගරදගුරු මැල්කම් කාදිනල් රංජිත් හිමි පවසති.
+The Archbishop Malcolm Cardinal Ranjith says that the Passover attacker had taken place on April 21, a year after the death of the deceased.
 
-උන්වහන්සේ ඒ බව සඳහන් කළේ ඊයේ (19) කඳාන, ශුද්ධ වූ සෙබස්තියන් මුනිදුන්ගේ සිද්ධස්ථානයේ පැවති සන්ධ්‍යා මෙහෙය පැවති අතරතුරදීය.
+He said that the evening was held at the Shunkara's shrine yesterday (19).
+
+The Ranjith Kadinal Ranjith Thero was held under the patronage of the Annual Festival of the Shrine Shrine Shrine Shrine Shrine Shrine Shrine.
 
 ...
 
 [Data](articles/312d6444.json)
+
+[Extended Data](ext_articles/312d6444.ext.json)
 
 ---
 
@@ -154,41 +164,49 @@ Police suspect that a pistol was used for the shooting, while the motive behind 
 
 [Data](articles/0fb59a80.json)
 
+[Extended Data](ext_articles/0fb59a80.ext.json)
+
 ---
 
-### වෙඩික්කරුවන් දෙදෙනෙකු තරුණයෙකු ඝාතනය කර පළායයි
+### Two shooters kill a young man
 
 *2024-01-20 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192371) · `si`
 
-මාතර තෙලිජ්ජවිල මංසන්ධියේ අද (20) රාත්‍රියේ සිදුකළ වෙඩිතැබීමෙන් 24 හැවිරිදි පුද්ගලයෙකු මියගොස් ඇති බව පොලීසිය පවසයි.
+Police said that a 24-year-old man was killed in the shadder of the Thelijjjawila junction at the Thelejjawila junction at the Anuradhapura Junction.
 
-යතුරුපැදියකින් පැමිණි නාඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් එම වෙඩිතැබීම සිදුකර ඇත.
+Two unidentified persons who came from a motorbike have been shot.
 
-වෙඩිවැදී ඇත්තේ ජංගම දුරකථන අලෙවිසැලක් තුළ සිටි පුද්ගලයෙකුටය. ඔහු වැලිපිටිය ප්‍රදේශයේ පදිංචිකරුවෙකි.
+A person who was in a mobile phone outlet. He is a resident of Welipitiya.
 
-ඝාතනයට හේතුව හෝ වෙඩික්කරුවන් පිළිබඳ මෙතෙක් තොරතුරු අනාවරණය වී නොමැති බව පොලීසිය පවසයි.
+Police say that information regarding the cause of the murder, the police said.
 
-පොලීසිය සඳහන් කළේ මාතර තෙලිජ්ජවිල ප්‍රදේශයේදී එම වෙඩිතැබීම සිදුවී ඇති බවය.
+The police said that the shooting had taken place in the Thelejjawila area in Matara.
 
 ...
 
 [Data](articles/4da173f5.json)
 
+[Extended Data](ext_articles/4da173f5.ext.json)
+
 ---
 
-### උසස් පෙළ විභාග මධ්‍යස්ථානයක ගැටලුවක්
+### A problem at A / L examination center
 
 *2024-01-20 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192370) · `si`
 
-ගාල්ල ප්‍රදේශයේ අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාග මධ්‍යස්ථානයක අද (20) පැවති ගිණුම්කරණය පළමු ප්‍රශ්න පත්‍රය සඳහා ගණක යන්ත්‍ර භාවිත කිරීමේදී ගැටලුවක් මතුවී ඇති බව වාර්තා වෙයි.
+It is reported that the accounting for the first question paper of the A / L examination center in Galle is reported to be used today.
 
-දරුවන් ප්‍රශ්න පත්‍රයට පිළිතුරු සපයමින් සිටියදී ඔවුන්ගේ ගණක යන්ත්‍ර ශාලාධිපතිනිය විසින් ලබාගෙන ඇති බව සඳහන්ය.
+It is said that while children were responding to the question.
 
-ඊට හේතුව වී ඇත්තේ අපේක්ෂකයින් කිහිපදෙනෙකු විසින් අනුමත නොකරන ලද ගණක යන්ත්‍ර විභාග ශාලාව තුළට ගෙනඒම බව වාර්තා වෙයි.
+It is reported that the calculators who are not approved by several candidates are brought to the examination hall.
+
+However, after an educational authorities, the Adjuni's educational authorities, however, the candidates have been given to the calculators.
 
 ...
 
 [Data](articles/023db2bb.json)
+
+[Extended Data](ext_articles/023db2bb.ext.json)
 
 ---
 
@@ -203,6 +221,8 @@ In a joint letter addressed to the Minister, the CPJ, together with 58 other org
 ...
 
 [Data](articles/f413a863.json)
+
+[Extended Data](ext_articles/f413a863.ext.json)
 
 ---
 
@@ -454,6 +474,16 @@ Jaishankar is in the Ugandan capital city of Kampala to represent India at the t
 
 ---
 
+### A Bleak Forecast For 2024 & Beyond: Politics (Security), Economics & Military
+
+*2024-01-20 18:32:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-bleak-forecast-for-2024-beyond-politics-security-economics-military/) · `en`
+
+...
+
+[Data](articles/dda1d483.json)
+
+---
+
 ### Rs. 1.6bn worth of heroin recovered from intercepted fishing trawlers
 
 *2024-01-20 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96575/rs-16bn-worth-of-heroin-recovered-from-intercepted-fishing-trawlers-) · `en`
@@ -469,6 +499,18 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 [Data](articles/df1ed846.json)
 
 [Extended Data](ext_articles/df1ed846.ext.json)
+
+---
+
+### “Lamā Adhyāpanaya Sandahā Kathandara” (Stories To Be Used For Educating Children)
+
+*2024-01-20 18:24:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lama-adhyapanaya-sandaha-kathandara-stories-to-be-used-for-educating-children/) · `en`
+
+Swarna Chandrasekera, Ph.D. is a well-known author and academic in Sri Lanka and in Canada. Her speciality in children’s education which she has mastered over many years has resulted in her active engagement in children’ literature.
+
+...
+
+[Data](articles/f36851c4.json)
 
 ---
 
@@ -1705,35 +1747,5 @@ The fishing vessels and suspects are being brought to the Galle Harbor for furth
 [Data](articles/123f4992.json)
 
 [Extended Data](ext_articles/123f4992.ext.json)
-
----
-
-### SL Navy intercepts multiday and fishing trawlers with heroin on Southern Seas
-
-*2024-01-20 09:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Navy-intercepts-multiday-and-fishing-trawlers-with-heroin-on-Southern-Seas/108-275408) · `en`
-
-Galle, Jan 20 (Daily Mirror) - Following a special operation mounted by the Sri Lanka Navy, a local multiday fishing trawler and a one-day fishing trawler with a stock of narcotics, suspected to be heroin, have been intercepted on the Southern seas.
-
-The Navy said the seized trawlers and suspects aboard are being escorted to the Galle harbour for onward action.
-
-◼️
-
-[Data](articles/d5b5bc06.json)
-
-[Extended Data](ext_articles/d5b5bc06.ext.json)
-
----
-
-### Rain today
-
-*2024-01-20 09:35:15* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-වැස්ස/11-407628) · `si`
-
-Showers will occur at times in the East and Uva provinces and in the area of Sri Lanka and Matale Districts.
-
-...
-
-[Data](articles/ab81dabc.json)
-
-[Extended Data](ext_articles/ab81dabc.ext.json)
 
 ---

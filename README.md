@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 10:32:44**
+As of **2024-01-20 10:50:21**
 
 ## Newspaper Stats
 
-*Scraped **1,339** Articles*
+*Scraped **1,343** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 24 | 🟩🟩 
 bbccomsinhala | 36 | 🟩🟩🟩🟩 
 islandlk | 82 | 🟩🟩🟩🟩🟩🟩🟩🟩 
-newsfirstlk | 87 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+newsfirstlk | 91 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 98 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -25,6 +25,24 @@ tamilmirrorlk | 161 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 
 ### 2024-01-20 (Saturday)
 
+### Pathfinder calls for streamlining overseas missions
+
+*2024-01-20 10:21:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/pathfinder-calls-for-streamlining-overseas-missions/) 
+
+COLOMBO (News 1st) – Founder of the Pathfinder Foundation Milinda Moragoda called Sri Lanka to slash its overstretched network of overseas missions, citing outdated practices and resource constraints in a connected world.
+
+Moragoda advocated a "zero-based budgeting" approach, scrutinizing each mission's value and suggesting a 10-mission reduction.
+
+...
+
+### Online Safety Bill: Chilling free speech, urge groups
+
+*2024-01-20 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/online-safety-bill-chilling-free-speech-urge-groups/) 
+
+COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizations in calling on Minister for Public Security Tiran Alles to withdraw the proposed Online Safety Bill and conduct sustained multi-stakeholder consultations, including with civil society and human rights experts.
+
+...
+
 ### අදත් වැස්ස
 
 *2024-01-20 09:35:15* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-වැස්ස/11-407628) 
@@ -32,6 +50,30 @@ tamilmirrorlk | 161 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 නැහෙනහිර හා ඌව පළාත්වලත් පොළාන්නරුව හා මාතලේ දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
 එසේම උතුරු පළතෙත් අනුරාධපුර දිස්ත්‍රික්කයෙත් වැසි වාර කිහිපයක් ඇතිවිය හැකි බවත් බස්නාහිර,  සබරගමුව, මධ්‍යම හා වයඹ පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00 න්පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බවත් එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
+
+...
+
+### Operation Yukthiya nets 986 in 24 hours
+
+*2024-01-20 09:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/operation-yukthiya-nets-986-in-24-hours/) 
+
+COLOMBO (News 1st) – 986 more suspects have been apprehended in the past 24 hours.
+
+The Ministry of Public Security says that 667 of the suspects are said to be linked to various drug offenses.
+
+319 on the list prepared by the Police Narcotics Bureau and Special Bureau have also been apprehended.
+
+Police say that drugs including 586 grams of Heroin and 180 grams of ICE in possession of suspects, were seized.
+
+...
+
+### Minister of Agriculture warns of another vegetable shortage
+
+*2024-01-20 09:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/minister-of-agriculture-warns-of-another-vegetable-shortage/) 
+
+COLOMBO (News 1st) – Minister of Agriculture and Plantation Industries, Mahinda Amaraweera says that even if the current shortage of vegetables will end in the near future, there may be another shortage of vegetables by the month of June.
+
+The minister says that the main reason for this is the possible occurrence of a drought this year.
 
 ...
 
@@ -970,43 +1012,3 @@ ECONOMYNEXT – Sri Lanka stands in solidarity with the people of Palestine and 
 அஸ்வெசும திட்டத்திற்கான புதிய விண்ணப்பங்களுக்கான அழைப்பு எதிர்வரும் பெப்ரவரி மாதம் முதல் வாரத்தில் மேற்கொள்ளப்படும் என பதில் நிதியமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்தார். R
 
 ◼️
-
-### இலங்கை வரும் ஆப்கானிஸ்தான் கிரிக்கெட் அணி
-
-*2024-01-19 13:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/174309) 
-
-இலங்கைக்கு எதிராக மூன்று வகையான கிரிக்கெட் தொடரில் பங்கேற்று விளையாடுவதற்காக ஆப்கானிஸ்தான் கிரிக்கெட் அணி இம்மாதம் 30ஆம் திகதி இலங்கைக்கு வரவுள்ளது.
-
-இலங்கைக்கு வரும் ஆப்கானிஸ்தான் அணி ஒரு டெஸ்ட் போட்டி, மூன்று ஒருநாள் போட்டிகள் மற்றும் மூன்று இருபதுக்கு - 20 போட்டிகள் கொண்ட முத்தரப்பு தொடரில் விளையாடவுள்ளது.
-
-இரு அணிகளுக்கும் இடையிலான ஒரேயொரு டெஸ்ட் போட்டி பெப்ரவரி மாதம் 2 ஆம் திகதி தொடக்கம் 6 ஆம் திகதி வரை கொழும்பு எஸ்.எஸ்.சி. மைதானத்தில் நடைபெறவுள்ளது.
-
-...
-
-### Passenger bus driver arrested with heroin worth over Rs. 3 mn
-
-*2024-01-19 13:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96544/passenger-bus-driver-arrested-with-heroin-worth-over-rs-3-mn) 
-
-Police have arrested a private passenger bus driver in Ella area, while in possession of heroin worth over Rs. 3 million.
-
-The Maho Police had inspected a private passenger bus travelling from Colombo to Anuradhapura on Thursday.
-
-During the search, a small suspicious parcel, which the driver claimed to be his lunch pack, was found near the driver’s seat.
-
-...
-
-### Fifteen CEB employees interdicted over recent protest
-
-*2024-01-19 13:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fifteen-CEB-employees-interdicted-over-recent-protest/108-275354) 
-
-Colombo, Jan. 19 (Daily Mirror)- Fifteen CEB employees, who were in charge of the payment counters have been interdicted for engaging in the recent protest by closing down payment counters and inconveniencing the consumers, CEB spokesman Engineer Noel Priyantha said.
-
-...
-
-### Sri Lanka seeks UN help for Vesak celebrations
-
-*2024-01-19 13:29:00* · [`economynextcom`](https://economynext.com/sri-lanka-seeks-un-help-for-vesak-celebrations-147962/) 
-
-ECONOMYNEXT – The government is in discussions to get financial aid from the United Nations for its 2024 State Vesak festival, Minister of Religious and Cultural Affairs Vidura Wickramanayake has said.
-
-...

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 23:17:15**
+As of **2024-01-20 23:32:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ tamilmirrorlk | 183
 
 Extensions include translations and NER (Named Entity Recognition).
 
-0 (0.0%) of 1,464 articles have been extended.
+115 (7.9%) of 1,464 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,7 @@ The Malimbada Police are investigating to arrest the shooters and determine the 
 [Extended Data](ext_articles/fa431834.ext.json)
 
 ---
+
 ### Firing at Matara - One killed
 
 *2024-01-20 21:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறையில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-331863) · `ta`
@@ -64,6 +65,7 @@ Police said that a suspect on a motorbike fled the telephone stall and fled the 
 [Extended Data](ext_articles/84a7ec0a.ext.json)
 
 ---
+
 ### IMF & Sri Lanka: Tax reforms and fiscal discipline seen as key to overcoming the crisis
 
 *2024-01-20 21:31:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/imf-sri-lanka-tax-reforms-and-fiscal-discipline-seen-as-key-to-overcoming-the-crisis/) · `en`
@@ -79,6 +81,7 @@ Peter Breuer, IMF Senior Mission Chief to Sri Lanka, emphasized the importance o
 [Extended Data](ext_articles/1fb365ff.ext.json)
 
 ---
+
 ### 12 years sentence for boys who saw the film - shock
 
 *2024-01-20 20:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/படம்-பார்த்த-சிறுவர்களுக்கு-12-ஆண்டுகள்-தண்டனை-அதிர்ச்சி/50-331850) · `ta`
@@ -94,6 +97,7 @@ South Korean pop music has been shocked by the release of two boys under 16 year
 [Extended Data](ext_articles/446191f9.ext.json)
 
 ---
+
 ### Public opinions before revision of electricity tariffs
 
 *2024-01-20 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192368) · `si`
@@ -115,6 +119,7 @@ The new proposal will be added to the Ceylon Electricity Board.
 [Extended Data](ext_articles/6954a5bc.ext.json)
 
 ---
+
 ### Explosives in the woman's underwear ...
 
 *2024-01-20 20:21:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணின்-உள்ளாடைக்குள்-வெடிபொருட்கள்/175-331849) · `ta`
@@ -132,6 +137,7 @@ In the bus, a woman was checked, police said two tetanators, 165 grams of black 
 [Extended Data](ext_articles/55f103c9.ext.json)
 
 ---
+
 ### I'm not afraid of the attack, but I'm not coming in fear - Sanath Nishantha
 
 *2024-01-20 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192367) · `si`
@@ -151,6 +157,7 @@ However, the villagers have opposed the interference to intervene for the develo
 [Extended Data](ext_articles/74f6e4ef.ext.json)
 
 ---
+
 ### Prices of imported eggs to increase
 
 *2024-01-20 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96579/prices-of-imported-eggs-to-increase-) · `en`
@@ -168,6 +175,7 @@ Imported eggs were previously retailed at Rs. 35 per egg, while a carton was sol
 [Extended Data](ext_articles/5e0603ad.ext.json)
 
 ---
+
 ### Leaked audio exposes woman attempting to bribe Narcotics ASP
 
 *2024-01-20 20:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Leaked-audio-exposes-woman-attempting-to-bribe-Narcotics-ASP/155-275420) · `en`
@@ -183,6 +191,7 @@ It is alleged that during the conversation, the lawyer engaged with an Assistant
 [Extended Data](ext_articles/6501a6b4.ext.json)
 
 ---
+
 ### Leaked audio exposes woman attempting to bribe Narcotics ASP
 
 *2024-01-20 20:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leaked-audio-exposes-woman-attempting-to-bribe-Narcotics-ASP/108-275420) · `en`
@@ -198,6 +207,7 @@ It is alleged that during the conversation, the lawyer engaged with an Assistant
 [Extended Data](ext_articles/eba482d0.ext.json)
 
 ---
+
 ### Sri Lanka, Nepal explore avenues to further promote cultural and religious relations
 
 *2024-01-20 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96578/sri-lanka-nepal-explore-avenues-to-further-promote-cultural-and-religious-relations) · `en`
@@ -211,6 +221,7 @@ The official meeting between President Ranil Wickremesinghe and Prime Minister o
 [Extended Data](ext_articles/58005087.ext.json)
 
 ---
+
 ### 32 Indian fishermen held by Sri Lanka Navy released
 
 *2024-01-20 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96577/32-indian-fishermen-held-by-sri-lanka-navy-released) · `en`
@@ -226,6 +237,7 @@ The Sri Lankan court on Friday released 32 fishermen from Tamil Nadu who were ap
 [Extended Data](ext_articles/f98cf05b.ext.json)
 
 ---
+
 ### The latest price of the Sathosa egg is notified
 
 *2024-01-20 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192366) · `si`
@@ -247,6 +259,7 @@ The government has taken steps to limit the importation from India due to the la
 [Extended Data](ext_articles/e282e485.ext.json)
 
 ---
+
 ### Sri Lanka, Nepal discuss MP exchange programme
 
 *2024-01-20 19:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-nepal-discuss-mp-exchange-programme-148074/) · `en`
@@ -262,6 +275,7 @@ The two leaders discussed promoting bilateral tourism and developing cultural an
 [Extended Data](ext_articles/039ba051.ext.json)
 
 ---
+
 ### India’s Jaishankar calls on President Ranil, appreciates bilateral initiatives
 
 *2024-01-20 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96576/indias-jaishankar-calls-on-president-ranil-appreciates-bilateral-initiatives) · `en`
@@ -279,6 +293,7 @@ Mr. Jaishankar is in the Ugandan capital city of Kampala to represent India at t
 [Extended Data](ext_articles/c87114d6.ext.json)
 
 ---
+
 ### Changing agreement with IMF under Opposition leader’s government a mere slogan
 
 *2024-01-20 18:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Changing-agreement-with-IMF-under-Opposition-leaders-government-a-mere-slogan/108-275419) · `en`
@@ -296,6 +311,7 @@ Therefore, everyone should act responsibly at this time, the Minister said at a 
 [Extended Data](ext_articles/dc85af09.ext.json)
 
 ---
+
 ### Jaishankar calls on President Wickremesinghe in Uganda
 
 *2024-01-20 18:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jaishankar-calls-on-President-Wickremesinghe-in-Uganda/108-275418) · `en`
@@ -313,6 +329,7 @@ Jaishankar is in the Ugandan capital city of Kampala to represent India at the t
 [Extended Data](ext_articles/41ae4717.ext.json)
 
 ---
+
 ### Rs. 1.6bn worth of heroin recovered from intercepted fishing trawlers
 
 *2024-01-20 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96575/rs-16bn-worth-of-heroin-recovered-from-intercepted-fishing-trawlers-) · `en`
@@ -330,6 +347,7 @@ Additionally, another multiday fishing trawler, suspected of assisting the other
 [Extended Data](ext_articles/df1ed846.ext.json)
 
 ---
+
 ### More information about the heroin raid at the right sea
 
 *2024-01-20 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192365) · `si`
@@ -349,6 +367,7 @@ The suspects were arrested along with another multi-day fishing vessel and other
 [Extended Data](ext_articles/3068cf2d.ext.json)
 
 ---
+
 ### Woman to bribe the bribe of Sanjeewa in Ganemulla - Arrested in the voice
 
 *2024-01-20 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192364) · `si`
@@ -366,6 +385,7 @@ The lawyer involved in the incident is a resident of Gampaha area and has also t
 [Extended Data](ext_articles/632b7c54.ext.json)
 
 ---
+
 ### The main member of the CWC has passed away
 
 *2024-01-20 17:52:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-காவின்-முக்கிய-உறுப்பினர்-காலமானார்/76-331848) · `ta`
@@ -381,6 +401,7 @@ He is a member of the Lunugala Pradeshiya Sabha and a member of the Lunugala Pra
 [Extended Data](ext_articles/d9ab419f.ext.json)
 
 ---
+
 ### Four Iranian military officials killed in attack in Syria
 
 *2024-01-20 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174411) · `ta`
@@ -392,6 +413,7 @@ He is a member of the Lunugala Pradeshiya Sabha and a member of the Lunugala Pra
 [Extended Data](ext_articles/0d5ffcfc.ext.json)
 
 ---
+
 ### Sri Lanka signs MoU with Benin on visa exemptions
 
 *2024-01-20 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96574/sri-lanka-signs-mou-with-benin-on-visa-exemptions) · `en`
@@ -409,6 +431,7 @@ The agreement was signed by Foreign Affairs Minister Ali Sabry, and his Beninese
 [Extended Data](ext_articles/a4390330.ext.json)
 
 ---
+
 ### Navy seized Rs. 1.6 BILLION worth of Heroin in major drug bust on High Seas
 
 *2024-01-20 17:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/navy-seized-rs-1-6-billion-worth-of-heroin-in-major-drug-bust-on-high-seas/) · `en`
@@ -424,6 +447,7 @@ The operation, carried out on January 19th, also led to the seizure of two fishi
 [Extended Data](ext_articles/29f4f602.ext.json)
 
 ---
+
 ### Sajith urges Speaker to postpone parliamentary debate on Online Safety Bill
 
 *2024-01-20 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96573/sajith-urges-speaker-to-postpone-parliamentary-debate-on-online-safety-bill) · `en`
@@ -439,6 +463,7 @@ The Second Reading of the Online Safety Bill is scheduled for January 23 and 24,
 [Extended Data](ext_articles/426f171c.ext.json)
 
 ---
+
 ### Rate of tracks railway risks
 
 *2024-01-20 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192363) · `si`
@@ -458,6 +483,7 @@ Meanwhile, Minister of Transport and Highways Bandula Gunawardena stated,
 [Extended Data](ext_articles/fa186e07.ext.json)
 
 ---
+
 ### Immunization programme for children who missed MMR dose
 
 *2024-01-20 16:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immunization-programme-for-children-who-missed-MMR-dose/108-275417) · `en`
@@ -473,6 +499,7 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 [Extended Data](ext_articles/68fc4b99.ext.json)
 
 ---
+
 ### Japanese 'Moon Sniper' crisis on the moon
 
 *2024-01-20 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192362) · `si`
@@ -494,6 +521,7 @@ The first time this Japan was landed on the moon, and the fifth country was land
 [Extended Data](ext_articles/895695f9.ext.json)
 
 ---
+
 ### Sri Lanka minister tells CEB to recover Rs12bn loans given to employees
 
 *2024-01-20 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-tells-ceb-to-recover-rs12bn-loans-given-to-employees-148071/) · `en`
@@ -509,6 +537,7 @@ ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy Kanchana Wijesekera h
 [Extended Data](ext_articles/be1e7bf8.ext.json)
 
 ---
+
 ### Another attack on Russia from Ukraine
 
 *2024-01-20 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192361) · `si`
@@ -526,6 +555,7 @@ During these two days the second Ukrainian attack on a Russian fuel storage.
 [Extended Data](ext_articles/019cb719.ext.json)
 
 ---
+
 ### Vairamuthu congratulated Thondaman in Senal
 
 *2024-01-20 16:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்ாில்-தொண்டமானை-வாழ்த்தினார்-வைரமுத்து/175-331847) · `ta`
@@ -543,6 +573,7 @@ Governor of the Eastern Province of Sri Lanka Senthil Thondaman came home for lo
 [Extended Data](ext_articles/131427ba.ext.json)
 
 ---
+
 ### Vairamuthu congratulated Senthil Thondaman
 
 *2024-01-20 16:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்தில்-தொண்டமானை-வாழ்த்தினார்-வைரமுத்து/175-331847) · `ta`
@@ -560,6 +591,7 @@ Governor of the Eastern Province of Sri Lanka Senthil Thondaman came home for lo
 [Extended Data](ext_articles/2acb47f1.ext.json)
 
 ---
+
 ### Naramala incident;Action order to fly to police officers
 
 *2024-01-20 16:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாரம்மல-சம்பவம்-பொலிஸ்-அதிகாரிகளுக்கு-பறந்த-அதிரடி-உத்தரவு/175-331846) · `ta`
@@ -577,6 +609,7 @@ The 40 -year -old lorry driver, the father of three children, was shot dead by a
 [Extended Data](ext_articles/11398620.ext.json)
 
 ---
+
 ### Even IMF has accepted NPP will come to power: Tilvin
 
 *2024-01-20 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Even-IMF-has-accepted-NPP-will-come-to-power-Tilvin/155-275416) · `en`
@@ -592,6 +625,7 @@ He told a news conference that the Samagi Jana Balawegaya is perturbed over the 
 [Extended Data](ext_articles/279c4885.ext.json)
 
 ---
+
 ### Even IMF has accepted NPP will come to power: Tilvin
 
 *2024-01-20 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Even-IMF-has-accepted-NPP-will-come-to-power-Tilvin/108-275416) · `en`
@@ -607,6 +641,7 @@ He told a news conference that the Samagi Jana Balawegaya is perturbed over the 
 [Extended Data](ext_articles/f69230bb.ext.json)
 
 ---
+
 ### New in Sri Lanka's apparel industry
 
 *2024-01-20 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192359) · `si`
@@ -624,6 +659,7 @@ Benin Vice President has also invited the President to direct Sri Lankan investo
 [Extended Data](ext_articles/6e2fe602.ext.json)
 
 ---
+
 ### Collaborative efforts mooted for success of “Pekoe Trail” project to boost tourism
 
 *2024-01-20 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96572/collaborative-efforts-mooted-for-success-of-pekoe-trail-project-to-boost-tourism-) · `en`
@@ -637,6 +673,7 @@ A review meeting was conducted on Friday (Jan.19) at the President’s Office, c
 [Extended Data](ext_articles/84a0f77c.ext.json)
 
 ---
+
 ### The new order flew to the police
 
 *2024-01-20 15:52:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-பறந்த-புதிய-உத்தரவு/175-331845) · `ta`
@@ -654,6 +691,7 @@ He said the new instructions were sent to all police stations yesterday (19).
 [Extended Data](ext_articles/d1c65e0f.ext.json)
 
 ---
+
 ### Sajith letter to Speaker
 
 *2024-01-20 15:49:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-சஜித்-கடிதம்/175-331844) · `ta`
@@ -671,6 +709,7 @@ Sajith Premadasa has told the media that this request has been issued in a speci
 [Extended Data](ext_articles/4f25b7c3.ext.json)
 
 ---
+
 ### Intelligence information. Beeddy Kole arrested
 
 *2024-01-20 15:30:11* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-තොරතුරකින්-රු--කෝටියක-බීඩි-කොල-අත්අඩංගුවට/11-407632) · `si`
@@ -688,6 +727,7 @@ The market value of these illegal cargo market is an expertise of Rs.
 [Extended Data](ext_articles/00126640.ext.json)
 
 ---
+
 ### Woman arrested with Detonator and Vedibodi
 
 *2024-01-20 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192358) · `si`
@@ -707,6 +747,7 @@ A woman on a bus had been found in her underwear, 165 grams of black shot, 605 g
 [Extended Data](ext_articles/12de9d0e.ext.json)
 
 ---
+
 ### Surge in measles cases prompts UK to declare national health incident
 
 *2024-01-20 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96571/surge-in-measles-cases-prompts-uk-to-declare-national-health-incident) · `en`
@@ -722,6 +763,7 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 [Extended Data](ext_articles/a165054c.ext.json)
 
 ---
+
 ### Modi's first Indian Prime Minister to visit Srirangam Temple in Trichy
 
 *2024-01-20 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/174389) · `ta`
@@ -741,6 +783,7 @@ From Nehru to the current Narendra Modi, 15 people have held the post of Prime M
 [Extended Data](ext_articles/1e40f7fd.ext.json)
 
 ---
+
 ### Navy bears 60 kilos of heroin
 
 *2024-01-20 15:00:35* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-කිලෝ-60ක්-නාවික-හමුදා-භාරයට/11-407631) · `si`
@@ -756,11 +799,14 @@ The navy conducting constant operations in Sri Lanka is conducting constant oper
 [Extended Data](ext_articles/8587da60.ext.json)
 
 ---
-### නාවික හමුදා නිලධාරියාගෙන් නව වාර්තාවක්
+
+### New record of the Navy officer
 
 *2024-01-20 14:53:14* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදා-නිලධාරියාගෙන්-නව-වාර්තාවක්/11-407630) · `si`
 
-ශ්‍රී ලංකා නාවික හමුදාවේ නායක ඉංජිනේරු කාර්මික ආර්පී සමන් කුමාර සිරිවර්ධන දින 07 යි පැය 11 යි මිනිත්තු 17 යි තත්පර 14 කින් කිලෝමීටර් 586.1 ක්, පූනෑව සිට කොළඹ නිදහස් චතුරශ්‍රය දක්වා පැමිණ නැවත පූනෑව දක්වා ගමන් කර, නව ශ්‍රී ලංකා වාර්තාවක් පිහිටුවීමට 2024 ජනවාරි මස 19 වන දින  සමත් විය.
+Sri Lanka Navy Leader of Sri Lanka Navy Engineer RP Saman Kumara Siriwardena arrived in Poona and march in Poona and 586.1 kilometers in Poona and set up a new Sri Lanka record in 19th January 19, 2024The days were passed.
+
+Accordingly, a new record was a 1080.16 kilometers of Sri Lanka, which was set up 580.11 kilometers in Point in Point Pedro, from a Sri Lankan army personnel from Point Peduru..
 
 ...
 
@@ -769,6 +815,7 @@ The navy conducting constant operations in Sri Lanka is conducting constant oper
 [Extended Data](ext_articles/382a4424.ext.json)
 
 ---
+
 ### Police rescued the driver who caused an accident in Mannar?
 
 *2024-01-20 14:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-கோர-விபத்தை-ஏற்படுத்திய-சாரதியை-காப்பாற்றிய-பொலிஸார்/72-331843) · `ta`
@@ -784,6 +831,7 @@ A young family member died on the spot and another injured in an accident which 
 [Extended Data](ext_articles/cb19c52c.ext.json)
 
 ---
+
 ### Remanded Onco Surgeon at Karapitiya requests for early retirement
 
 *2024-01-20 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Remanded-Onco-Surgeon-at-Karapitiya-requests-for-early-retirement/108-275415) · `en`
@@ -799,6 +847,7 @@ It is reported that the surgeon could serve until the age of 63 according to the
 [Extended Data](ext_articles/645067ec.ext.json)
 
 ---
+
 ### 66 Electricity Board employees dismissed
 
 *2024-01-20 14:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-ஊழியர்கள்-66-பேர்-பணி-நீக்கம்/175-331842) · `ta`
@@ -814,6 +863,7 @@ The Electricity Board (CEB) has announced that the demonstration employees have 
 [Extended Data](ext_articles/2dcb8ad4.ext.json)
 
 ---
+
 ### Accused handed death sentence over 1996 murder
 
 *2024-01-20 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96570/accused-handed-death-sentence-over-1996-murder) · `en`
@@ -833,6 +883,7 @@ The court ruled that the death sentence will take effect from the date of the ac
 [Extended Data](ext_articles/fe261269.ext.json)
 
 ---
+
 ### Six arrested over financial fraud of over Rs. 28 mn
 
 *2024-01-20 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96569/six-arrested-over-financial-fraud-of-over-rs-28-mn) · `en`
@@ -848,6 +899,7 @@ The group of suspects comprising three males and three females are believed to h
 [Extended Data](ext_articles/2e7dce1c.ext.json)
 
 ---
+
 ### ජන විරෝධය මැද සනත් නිශාන්ත හැරී යයි
 
 *2024-01-20 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192356) · `si`
@@ -865,6 +917,7 @@ A parliamentary discussion was held in Duluwa, Minister of State Sanath Nishanth
 [Extended Data](ext_articles/9b503177.ext.json)
 
 ---
+
 ### President holds bilateral talks with state leaders during NAM Summit in Kampala
 
 *2024-01-20 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96568/president-holds-bilateral-talks-with-state-leaders-during-nam-summit-in-kampala) · `en`
@@ -878,6 +931,7 @@ President Ranil Wickremesinghe participated in bilateral discussions with variou
 [Extended Data](ext_articles/0d4786a2.ext.json)
 
 ---
+
 ### Another crisis to the owners of the five five
 
 *2024-01-20 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192355) · `si`
@@ -897,6 +951,7 @@ Padukka - Angampe, Angampitiya, a resident of the Angampitiya, attacked the owne
 [Extended Data](ext_articles/8c6557c0.ext.json)
 
 ---
+
 ### Two police officers involved in Narammala ‘accidental’ shooting interdicted
 
 *2024-01-20 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96567/two-police-officers-involved-in-narammala-accidental-shooting-interdicted) · `en`
@@ -914,6 +969,7 @@ On Thursday (18 Jan.), a lorry driver aged 41 was killed after a police officer 
 [Extended Data](ext_articles/4444732c.ext.json)
 
 ---
+
 ### Sajith letter from a speaker
 
 *2024-01-20 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192354) · `si`
@@ -931,6 +987,7 @@ The Opposition Leader has referred to the Speaker by demanding the debate on the
 [Extended Data](ext_articles/482f3b04.ext.json)
 
 ---
+
 ### Acting IGP directs police not to stop vehicles while they are in civilian attire
 
 *2024-01-20 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Acting-IGP-directs-police-not-to-stop-vehicles-while-they-are-in-civilian-attire/108-275414) · `en`
@@ -946,6 +1003,7 @@ These new guidelines were distributed to all police stations yesterday.
 [Extended Data](ext_articles/72bfef05.ext.json)
 
 ---
+
 ### President's President in a discussion with the leaders of the African region
 
 *2024-01-20 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192353) · `si`
@@ -963,6 +1021,7 @@ The President of the South African President is very friendly and is very friend
 [Extended Data](ext_articles/f73070a7.ext.json)
 
 ---
+
 ### Special traffic plan
 
 *2024-01-20 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192352) · `si`
@@ -978,6 +1037,7 @@ Perahera is scheduled to visit the streets until the 24th of the next morning.
 [Extended Data](ext_articles/86faa0b0.ext.json)
 
 ---
+
 ### Update: Over 60 kgs of heroin seized by Navy off Dondra Point
 
 *2024-01-20 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Over-60-kgs-of-heroin-seized-by-Navy-off-Dondra-Point/108-275413) · `en`
@@ -993,6 +1053,7 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 [Extended Data](ext_articles/b354790b.ext.json)
 
 ---
+
 ### Sri Lanka top doctor seeks equality in healthcare
 
 *2024-01-20 12:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-top-doctor-seeks-equality-in-healthcare-148064/) · `en`
@@ -1008,6 +1069,7 @@ The new President of the College of Physicians Upul Dissanayake told fellow doct
 [Extended Data](ext_articles/569825e7.ext.json)
 
 ---
+
 ### Israeli soldiers who have lost their lives in Gaza
 
 *2024-01-20 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174386) · `ta`
@@ -1029,6 +1091,7 @@ Sinn has said that the cemetery has been destroyed and has been investigating th
 [Extended Data](ext_articles/ad4a98ce.ext.json)
 
 ---
+
 ### Special dengue control program in place covering Colombo District
 
 *2024-01-20 12:51:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/special-dengue-control-program-in-place-covering-colombo-district/) · `en`
@@ -1046,6 +1109,7 @@ He added that 6,689 cases of dengue have been reported in the last 18 days of th
 [Extended Data](ext_articles/916aa839.ext.json)
 
 ---
+
 ### Compensation for driver who died in shooting
 
 *2024-01-20 12:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-உயிரிழந்த-சாரதிக்கு-இழப்பீடு/175-331841) · `ta`
@@ -1065,6 +1129,7 @@ The father of three children aged 41 from Maharachchiyamulla died in the inciden
 [Extended Data](ext_articles/40660186.ext.json)
 
 ---
+
 ### New set of instructions to police officers
 
 *2024-01-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192351) · `si`
@@ -1082,6 +1147,7 @@ He added that the new training was given to the death of a driver in the Naramma
 [Extended Data](ext_articles/e2c78c6a.ext.json)
 
 ---
+
 ### Fire in elementary school: 13 killed
 
 *2024-01-20 12:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆரம்ப-பாடசாலையில்-தீ-விபத்து-13-பேர்-பலி/175-331840) · `ta`
@@ -1099,6 +1165,7 @@ Local authorities said the fire, which began on Friday night, was extinguished b
 [Extended Data](ext_articles/9e023d6b.ext.json)
 
 ---
+
 ### Two-thirds of CEB employee loan interests paid by consumers - Minister
 
 *2024-01-20 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96566/two-thirds-of-ceb-employee-loan-interests-paid-by-consumers-minister) · `en`
@@ -1112,6 +1179,7 @@ Power and Energy Minister Kanchana Wijesekera has revealed that two-thirds of th
 [Extended Data](ext_articles/427e171e.ext.json)
 
 ---
+
 ### NIA files supplementary charge sheet against 4 in Sri Lankan human trafficking case
 
 *2024-01-20 12:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NIA-files-supplementary-charge-sheet-against-4-in-Sri-Lankan-human-trafficking-case/108-275412) · `en`
@@ -1125,6 +1193,7 @@ Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed 
 [Extended Data](ext_articles/c1c3445e.ext.json)
 
 ---
+
 ### Police officers instructed not to pull over vehicles while clad in civvies
 
 *2024-01-20 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96565/police-officers-instructed-not-to-pull-over-vehicles-while-clad-in-civvies-) · `en`
@@ -1140,6 +1209,7 @@ The directive comes on the heels of an incident in the Narammala Police Division
 [Extended Data](ext_articles/00f77d77.ext.json)
 
 ---
+
 ### The Government of Sri Lanka should withdraw the proposed status safety Bill - more than fifty international organizations
 
 *2024-01-20 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174382) · `ta`
@@ -1157,6 +1227,7 @@ International organizations have appealed to the civil society to consult with h
 [Extended Data](ext_articles/b06fbd62.ext.json)
 
 ---
+
 ### Three arrested for assisting a crime
 
 *2024-01-20 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192350) · `si`
@@ -1176,6 +1247,7 @@ Army soldier and motorman had previously been arrested by the STF with the firea
 [Extended Data](ext_articles/1c507420.ext.json)
 
 ---
+
 ### 12 lakhs to burn shop;7 lakhs to burn vehicle - Attakasam in Jaffna
 
 *2024-01-20 11:43:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கடை-எரிக்க-12-இலட்சம்-வாகனம்-எரிக்க-7-இலட்சம்-யாழில்-அட்டகாசம்/71-331839) · `ta`
@@ -1193,6 +1265,7 @@ The car burned in a few days after the stores were burnt. As well as a person's 
 [Extended Data](ext_articles/4280e53f.ext.json)
 
 ---
+
 ### Narammala incident - police investigations are not satisfied - independent inquiries are essential
 
 *2024-01-20 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174379) · `ta`
@@ -1210,6 +1283,7 @@ This is why I am a need for an independent investigation into the deaths caused 
 [Extended Data](ext_articles/be375657.ext.json)
 
 ---
+
 ### Change in Carrot prices in Nuwara Eliya?
 
 *2024-01-20 11:31:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-கரட்-விலையில்-மாற்றம்/76-331838) · `ta`
@@ -1225,6 +1299,7 @@ The Nuwara Eliya Economic Center Office has announced the list of vegetable pric
 [Extended Data](ext_articles/fa98e87f.ext.json)
 
 ---
+
 ### நோயாளியை தூக்கிக் கொண்டு செல்லும் அவலம்
 
 *2024-01-20 11:28:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நோயாளியை-தூக்கிக்-கொண்டு-செல்லும்-அவலம்/76-331837) · `ta`
@@ -1242,6 +1317,7 @@ It has been reported that many such incidents are taking place, causing patients
 [Extended Data](ext_articles/1681ff79.ext.json)
 
 ---
+
 ### 13 killed in a hostel
 
 *2024-01-20 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192349) · `si`
@@ -1261,6 +1337,7 @@ The cause of the fire is yet to be ascertained and the manager of the school has
 [Extended Data](ext_articles/22020abb.ext.json)
 
 ---
+
 ### Measles catch-up immunization program rolled out for children this weekend
 
 *2024-01-20 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96564/measles-catch-up-immunization-program-rolled-out-for-children-this-weekend) · `en`
@@ -1276,6 +1353,7 @@ The measles vaccination rollout was kicked off after observing a decrease in mea
 [Extended Data](ext_articles/ffd03cd1.ext.json)
 
 ---
+
 ### 986 suspects arrested
 
 *2024-01-20 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192348) · `si`
@@ -1293,6 +1371,7 @@ Police have arrested 667 suspects in connection with drug charges and 498 grams 
 [Extended Data](ext_articles/63add511.ext.json)
 
 ---
+
 ### Sri Lankan Navy nabs trawlers carrying suspected heroin
 
 *2024-01-20 11:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/sri-lankan-navy-nabs-trawlers-carrying-suspected-heroin/) · `en`
@@ -1310,6 +1389,7 @@ The Navy said that the fishing trawlers and the suspects are currently being esc
 [Extended Data](ext_articles/608909e1.ext.json)
 
 ---
+
 ### Murky reasons for milk production drop in Sri Lanka
 
 *2024-01-20 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Murky-reasons-for-milk-production-drop-in-Sri-Lanka/108-275411) · `en`
@@ -1325,6 +1405,7 @@ While officials from the State Ministry of Livestock Department blamed the closu
 [Extended Data](ext_articles/d8e229dd.ext.json)
 
 ---
+
 ### Two fishing vessels
 
 *2024-01-20 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192347) · `si`
@@ -1344,6 +1425,7 @@ The arrested suspects and fishing vessels are being brought to the Galle Harbor.
 [Extended Data](ext_articles/34e376a3.ext.json)
 
 ---
+
 ### 986 more suspects arrested during operation ‘Yukthiya’
 
 *2024-01-20 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96563/986-more-suspects-arrested-during-operation-yukthiya) · `en`
@@ -1359,6 +1441,7 @@ According to the Ministry of Public Security, a total of 586g of heroin, 180g of
 [Extended Data](ext_articles/605f3760.ext.json)
 
 ---
+
 ### Pathfinder calls for streamlining overseas missions
 
 *2024-01-20 10:21:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/pathfinder-calls-for-streamlining-overseas-missions/) · `en`
@@ -1374,6 +1457,7 @@ Moragoda advocated a "zero-based budgeting" approach, scrutinizing each mission'
 [Extended Data](ext_articles/c294b856.ext.json)
 
 ---
+
 ### 51 more CEB employees interdicted
 
 *2024-01-20 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96562/51-more-ceb-employees-interdicted) · `en`
@@ -1389,6 +1473,7 @@ CEB trade union members engaged in a series of protests for three days from Janu
 [Extended Data](ext_articles/5a6aefb9.ext.json)
 
 ---
+
 ### Shift six people suspended for sixty-six CEB
 
 *2024-01-20 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192346) · `si`
@@ -1406,6 +1491,7 @@ The Ceylon Electricity Board yesterday stated that 15 clerks were suspended by t
 [Extended Data](ext_articles/e99374a0.ext.json)
 
 ---
+
 ### Two fishing vessels carrying narcotics intercepted off southern coast
 
 *2024-01-20 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96561/two-fishing-vessels-carrying-narcotics-intercepted-off-southern-coast) · `en`
@@ -1423,6 +1509,7 @@ The seized vessels, narcotics consignment and apprehended suspects are being bro
 [Extended Data](ext_articles/82d68c6c.ext.json)
 
 ---
+
 ### Online Safety Bill: Chilling Effect On Free Speech
 
 *2024-01-20 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/online-safety-bill-chilling-effect-on-free-speech/) · `en`
@@ -1436,6 +1523,7 @@ COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizati
 [Extended Data](ext_articles/a5139743.ext.json)
 
 ---
+
 ### Online Safety Bill: Chilling free speech, urge groups
 
 *2024-01-20 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/online-safety-bill-chilling-free-speech-urge-groups/) · `en`
@@ -1449,6 +1537,7 @@ COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizati
 [Extended Data](ext_articles/fe67a2b0.ext.json)
 
 ---
+
 ### Offensive number plate bikers arrested
 
 *2024-01-20 09:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Offensive-number-plate-bikers-arrested/108-275409) · `en`
@@ -1464,6 +1553,7 @@ The suspects, both 18-year-olds from Bellanwila, were spotted throughout Borales
 [Extended Data](ext_articles/8c08febe.ext.json)
 
 ---
+
 ### Japan makes history, becoming fifth country to land spacecraft on moon
 
 *2024-01-20 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96559/japan-makes-history-becoming-fifth-country-to-land-spacecraft-on-moon) · `en`
@@ -1477,6 +1567,7 @@ Japan on Saturday became the fifth country to put a spacecraft on the moon, but 
 [Extended Data](ext_articles/d28d1776.ext.json)
 
 ---
+
 ### Two fishing boats arrested with drug stock
 
 *2024-01-20 09:40:35* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-තොගයක්-සමග-ධීවර-යාත්‍රා-දෙකක්-අත්අඩංගුවට/11-407629) · `si`
@@ -1492,6 +1583,7 @@ The fishing vessels and suspects are being brought to the Galle Harbor for furth
 [Extended Data](ext_articles/123f4992.ext.json)
 
 ---
+
 ### SL Navy intercepts multiday and fishing trawlers with heroin on Southern Seas
 
 *2024-01-20 09:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Navy-intercepts-multiday-and-fishing-trawlers-with-heroin-on-Southern-Seas/108-275408) · `en`
@@ -1507,6 +1599,7 @@ The Navy said the seized trawlers and suspects aboard are being escorted to the 
 [Extended Data](ext_articles/d5b5bc06.ext.json)
 
 ---
+
 ### Rain today
 
 *2024-01-20 09:35:15* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-වැස්ස/11-407628) · `si`
@@ -1520,6 +1613,7 @@ Showers will occur at times in the East and Uva provinces and in the area of Sri
 [Extended Data](ext_articles/ab81dabc.ext.json)
 
 ---
+
 ### Operation Yukthiya nets 986 in 24 hours
 
 *2024-01-20 09:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/operation-yukthiya-nets-986-in-24-hours/) · `en`
@@ -1539,6 +1633,7 @@ Police say that drugs including 586 grams of Heroin and 180 grams of ICE in poss
 [Extended Data](ext_articles/18e052f1.ext.json)
 
 ---
+
 ### Four people lose their lives in Indian accident
 
 *2024-01-20 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192344) · `si`
@@ -1558,6 +1653,7 @@ Foreign media reports that the injured have been abandoned at Agra's private hos
 [Extended Data](ext_articles/2d75b0e5.ext.json)
 
 ---
+
 ### Minister of Agriculture warns of another vegetable shortage
 
 *2024-01-20 09:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/minister-of-agriculture-warns-of-another-vegetable-shortage/) · `en`
@@ -1573,6 +1669,7 @@ The minister says that the main reason for this is the possible occurrence of a 
 [Extended Data](ext_articles/7f65f70f.ext.json)
 
 ---
+
 ### Sri Lanka Police awards Rs. 1 million compensation to family of lorry driver
 
 *2024-01-20 09:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Police-awards-Rs-1-million-compensation-to-family-of-lorry-driver/108-275407) · `en`
@@ -1590,6 +1687,7 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 [Extended Data](ext_articles/8f1f0b0e.ext.json)
 
 ---
+
 ### Driver's death;Seizure
 
 *2024-01-20 09:01:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-மரணம்-அதிகாரிகளின்-பதவி-பறிப்பு/175-331836) · `ta`
@@ -1607,6 +1705,7 @@ The Assistant Police Inspector and the Police Constable have been suspended.
 [Extended Data](ext_articles/9884e6b1.ext.json)
 
 ---
+
 ### Heartwarming visit to care home residents
 
 *2024-01-20 08:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Heartwarming-visit-to-care-home-residents/110-275406) · `en`
@@ -1618,6 +1717,7 @@ The Assistant Police Inspector and the Police Constable have been suspended.
 [Extended Data](ext_articles/2fb88d44.ext.json)
 
 ---
+
 ### Six persons arrested in connection with money fraud
 
 *2024-01-20 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192343) · `si`
@@ -1637,6 +1737,7 @@ The arrested are residents of Beruwala and Jaffna, the age of 24, 30 and 36.
 [Extended Data](ext_articles/9f39fea0.ext.json)
 
 ---
+
 ### Afternoon thundershowers possible in 4 provinces today
 
 *2024-01-20 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96558/afternoon-thundershowers-possible-in-4-provinces-today) · `en`

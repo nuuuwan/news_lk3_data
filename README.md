@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 12:32:34**
+As of **2024-01-20 12:48:43**
 
 ## Newspaper Stats
 
-*Scraped **1,357** Articles*
+*Scraped **1,364** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -18,12 +18,24 @@ virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
 dailyftlk | 150 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 157 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailymirrorlk | 158 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 158 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 161 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+adaderanalk | 165 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### Measles catch-up immunization program rolled out for children this weekend
+
+*2024-01-20 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96564/measles-catch-up-immunization-program-rolled-out-for-children-this-weekend) 
+
+Epidemiology Unit of the Health Ministry is continuing its MMR (measles-mumps-rubella) Catch-up Immunization Program for children aged between 9 months and 15 years over this weekend.
+
+There has been a decrease in measles vaccination rates both globally and regionally during the recent COVID-19 pandemic.
+
+Epidemiology Unit says this resulted in a significant increase in the incidence of measles cases on both a global and regional level.
+
+...
 
 ### Sri Lankan Navy nabs trawlers carrying suspected heroin
 
@@ -47,6 +59,16 @@ While officials from the State Ministry of Livestock Department blamed the closu
 
 ...
 
+### 986 more suspects arrested during operation ‘Yukthiya’
+
+*2024-01-20 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96563/986-more-suspects-arrested-during-operation-yukthiya) 
+
+A total of 986 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (20 Jan.) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+According to the Ministry of Public Security, a total of 586g of heroin, 180g of crystal methamphetamine (Ice), and 44 narcotic pills.
+
+◼️
+
 ### Pathfinder calls for streamlining overseas missions
 
 *2024-01-20 10:21:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/pathfinder-calls-for-streamlining-overseas-missions/) 
@@ -56,6 +78,28 @@ COLOMBO (News 1st) – Founder of the Pathfinder Foundation Milinda Moragoda cal
 Moragoda advocated a "zero-based budgeting" approach, scrutinizing each mission's value and suggesting a 10-mission reduction.
 
 ...
+
+### 51 more CEB employees interdicted
+
+*2024-01-20 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96562/51-more-ceb-employees-interdicted) 
+
+A total of 51 more employees of the Ceylon Electricity Board (CEB) have been interdicted for obstructing the services by refusing to accept bill payments from consumers during their three-day protests staged against the proposed restructuring of the state-owned electricity supplier.
+
+CEB trade union members engaged in a series of protests for three days from January 03 - 05, challenging the government’s Bill to restructure the Board and the new Electricity Bill.
+
+...
+
+### Two fishing vessels carrying narcotics intercepted off southern coast
+
+*2024-01-20 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96561/two-fishing-vessels-carrying-narcotics-intercepted-off-southern-coast) 
+
+Sri Lanka Navy has intercepted two fishing trawlers carrying a cache of narcotics, suspected to be heroin, off the southern coast of the island.
+
+A local multiday fishing trawler and a one-day fishing trawler were impounded during the operation mounted by the naval intelligence unit
+
+The seized vessels, narcotics consignment and apprehended suspects are being brought ashore to the Galle Harbour for onward investigations.
+
+◼️
 
 ### Online Safety Bill: Chilling free speech, urge groups
 
@@ -72,6 +116,14 @@ COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizati
 Boralesgamuwa, Jan 20 (Daily Mirror) - Traffic police in Boralesgamuwa intercepted a motorcycle displaying a highly offensive Sinhala word P......A in English characters and arrested two young men riding it.
 
 The suspects, both 18-year-olds from Bellanwila, were spotted throughout Boralesgamuwa showcasing the offensive word on a plate replacing the motorcycle’s number plate.
+
+...
+
+### Japan makes history, becoming fifth country to land spacecraft on moon
+
+*2024-01-20 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96559/japan-makes-history-becoming-fifth-country-to-land-spacecraft-on-moon) 
+
+Japan on Saturday became the fifth country to put a spacecraft on the moon, but solar power issues threatened to cut short the nation’s mission to prove a “precision” landing technology and revitalise a space programme that has suffered setbacks.
 
 ...
 
@@ -134,6 +186,30 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 ### Heartwarming visit to care home residents
 
 *2024-01-20 08:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Heartwarming-visit-to-care-home-residents/110-275406) 
+
+...
+
+### Afternoon thundershowers possible in 4 provinces today
+
+*2024-01-20 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96558/afternoon-thundershowers-possible-in-4-provinces-today) 
+
+Showers will occur at times in Eastern and Uva provinces and Polonnaruwa and Matale districts, the Department of Meteorology said in its weather forecast today (Jan.20).
+
+Several spells of showers may occur in Northern Province and Anuradhapura District.
+
+Meanwhile, showers or thundershowers are possible in parts of the Western, Sabaragamuwa, Central and North-western provinces and Galle and Matara districts after 2.00 p.m.
+
+...
+
+### Family of lorry driver killed in Narammala shooting awarded Rs. 1mn
+
+*2024-01-20 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/96557/family-of-lorry-driver-killed-in-narammala-shooting-awarded-rs-1mn) 
+
+Sri Lanka Police have handed over Rs. 1 million in compensation to the family of the lorry driver who was killed in the shooting incident in Narammala.
+
+Acting Inspector-General of Police (IGP) handed over the money to the bereaved at the deceased's residence in Alawwa.
+
+The lorry driver, 40, was killed on Thursday night (Jan.18) after a police officer in civvies ‘accidentally’ discharged his firearm during a vehicle inspection. He was identified as a resident of Alawita area.
 
 ...
 
@@ -942,71 +1018,5 @@ There is no other evidence of the tests being conducted and Seoul had earlier sa
 ECONOMYNEXT – Sri Lanka plans to start repairs on 600 road development projects after finalization of debt restructuring and ongoing discussions with foreign creditors, Minister of Transport Bandula Gunawardena said at a press briefing on Friday (19).
 
 “With 60 million US dollars from the Asian Development Bank, we will repair 600 roads so that they are in usable condition (yanna pulu-wan vi-di-ha-ta),” Gunawardena said.
-
-...
-
-### Sri Lanka to resume work on 600 roads from Feb
-
-*2024-01-19 16:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-repair-600-roads-with-adb-funds-148006/) 
-
-ECONOMYNEXT – Sri Lanka plans to start repairs on 600 road development projects after finalization of debt restructuring and ongoing discussions with foreign creditors, Minister of Transport Bandula Gunawardena said at a press briefing on Friday (19).
-
-“With 60 million US dollars from the Asian Development Bank, we will repair 600 roads so that they are in usable condition (yanna pulu-wan vi-di-ha-ta),” Gunawardena said.
-
-...
-
-### பொருளாதார மீட்சிக்கான ஆரம்ப அறிகுறிகள் தென்படுகின்றன - சவால்கள் தொடர்ந்தும் நீடிக்கின்றன - சர்வதேச நாணயநிதியம்
-
-*2024-01-19 15:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/174344) 
-
-இலங்கை தனக்கு கடன்வழங்கிய உத்தியோகபூர்வ கடன்கொடுப்பனவாளர்களுடன் விரைவில் இறுதி உடன்படிக்கைகளை பூர்த்தி செய்வது அவசியம் என சர்வதேச நாணயநிதியம் தெரிவித்துள்ளது.
-
-தனிப்பட்ட கடன்கொடுப்பனவாளர்களுடன் இலங்கை தீர்மானமொன்றிற்கு வருவதும் அவசியம் எனவும் சர்வதேச நாணயநிதியம் தெரிவித்துள்ளது.
-
-இலங்கையின் அதிகாரிகள் முன்னெடுத்துள்ள பொருளாதார சீர்திருத்த நடவடிக்கைகள் காரணமாக பொருளாதார மீட்சிக்கான ஆரம்ப கட்ட அறிகுறிகள் தென்படுகின்றன என சர்வதேச நாணயநிதியம் தெரிவித்துள்ளது.
-
-...
-
-### இரண்டு கடன் மறுசீரமைப்பு உடன்படிக்கைகள் சாத்தியமா?
-
-*2024-01-19 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/174343) 
-
-இலங்கை தற்போதைய பொருளாதார நெருக்கடியில் இருந்து மீண்டு வருவதற்கும் சர்வதேச நாணய நிதியத்தின் நீண்ட கால நிதி வசதி திட்டத்தை தொடர்ந்து முன்னெடுத்து செல்வதற்கும் சர்வதேச கடன் மறுசீரமைப்பு என்பது இங்கு மிக முக்கியமாகின்றது.
-
-◼️
-
-### “கருணாவை நம்பினால் காப்பாற்ற முடியாது”
-
-*2024-01-19 15:43:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/கருணாவை-நம்பினால்-காப்பாற்ற-முடியாது/73-331806) 
-
-தமிழ் மக்களின் இருப்பை அழித்தே வந்த கருணா தான் பாதுகாக்க போகின்றாரா எனக் கேள்வியெழுப்பிய தமிழ் தேசிய மக்கள் முன்னணியின் தலைவரும் பாராளுமன்ற உறுப்பினருமான கஜேந்திரகுமார் பொன்னம்பலம்  அவரை தமிழ் மக்கள் நம்பினால் கடவுளாலும் தமிழ் மக்களை காப்பாற்ற முடியாது என்றார்.
-
-...
-
-### අලුත් නීති ගේන්නේ අන්තර්ජාතික ප්‍රමිතියට අනුකූලවයි
-
-*2024-01-19 15:38:52* · [`adalk`](https://www.ada.lk/breaking_news/අලුත්-නීති-ගේන්නේ-අන්තර්ජාතික-ප්‍රමිතියට-අනුකූලවයි/11-407626) 
-
-ශ්‍රී ලංකාවේ යුක්තිය පසෙදිලීමේ ක්‍රියාවලිය ශක්තිමත් කිරීම සඳහා ගෙන එනු ලබන නව නීති සහ රෙගුලාසි අන්තර්ජාතික ප්‍රමිතීන්ට අනුකූල වන ආකාරයෙන් විනිවිදභාවය ආරක්ෂා කරමින් ගෙන එන ලබන බව අධිකරණ බන්ධනාගාර හා ආණ්ඩුක්‍රම ව්‍යවස්ථා ප්‍රතිසංස්කරණ අමාත්‍ය ජනාධිපති නීතිඥ ආචාර්ය විජයදාස රාජපක්ෂ මහතා අද 19  එක්සත් ජාතීන්ගේ නේවාසික සම්බන්ධීකාරක Marc- Andre-Franche අමතමින් පැවසීය.
-
-...
-
-### Swift completion of final agreements with official creditors critical for Sri Lanka – IMF
-
-*2024-01-19 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96546/swift-completion-of-final-agreements-with-official-creditors-critical-for-sri-lanka-imf) 
-
-The International Monetary Fund (IMF) says it is critical for Sri Lanka to swiftly complete the final agreements with the official creditors and reach a resolution with the external private creditors.
-
-IMF mission team, led by Senior Mission Chief Peter Breuer, was in Sri Lanka from January 11-19 to discuss recent macroeconomic developments and progress in implementing economic and financial policies under the EFF arrangement.
-
-...
-
-### ’’விபச்சாரிகளுக்கு அவமானம்’’
-
-*2024-01-19 15:25:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபச்சாரிகளுக்கு-அவமானம்/175-331805) 
-
-தற்போதைக்கு பிரதமர் பதவியை மாற்ற வேண்டிய தேவை அரசாங்கத்திற்கு இல்லை என அரசாங்க கட்சியின் பிரதான அமைப்பாளரும், நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சருமான பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
-
-பதவிகளை மாற்றுவதை விட பொருளாதாரத்தை வலுப்படுத்தி நாட்டை ஸ்திரப்படுத்துவதே தற்போதைய தேவை என அமைச்சர் வலியுறுத்துகிறார். அதற்காக அரசாங்கம் அர்ப்பணிப்புடன் செயற்படுவதாகவும் அவர் குறிப்பிட்டுள்ளார்.
 
 ...

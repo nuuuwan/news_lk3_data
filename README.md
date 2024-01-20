@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 07:56:36**
+As of **2024-01-20 08:06:47**
 
 ## Newspaper Stats
 
-*Scraped **1,324** Articles*
+*Scraped **1,326** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 24 | 🟩🟩 
 bbccomsinhala | 35 | 🟩🟩🟩🟩 
 islandlk | 74 | 🟩🟩🟩🟩🟩🟩🟩 
-newsfirstlk | 85 | 🟩🟩🟩🟩🟩🟩🟩🟩 
+newsfirstlk | 87 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 97 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,30 @@ tamilmirrorlk | 161 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### 2 Police officers suspended in connection to Narammala shooting
+
+*2024-01-20 07:38:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/2-police-officers-suspended-in-connection-to-narammala-shooting/) 
+
+COLOMBO (News 1st) – Two officers attached to the Sri Lankan police have been temporarily suspended until January 23rd following the murder of a civilian in Dampalassa, Narammala, on Thursday night.
+
+The police say that the services of a sub-inspector and a police constable have been suspended in this manner.
+
+The sub-inspector, who was arrested for the shooting, was produced before the Kurunegala Magistrate's Court last evening and was remanded until the 23rd of January.
+
+...
+
+### Three police divisions placed under DIG in charge of the CID
+
+*2024-01-20 07:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/three-police-divisions-placed-under-dig-in-charge-of-the-cid/) 
+
+COLOMBO (News 1st) – Three police divisions have been placed under the DIG in charge of the Criminal Investigations Department.
+
+Police Spokesperson, SSP Nihal Thalduwa says that the Criminal Investigations Department, Counter Terrorism Investigation Division, and Illegal Assets Investigation Division have been placed under the DIG in charge of the CID.
+
+He adds that the Directors of the said 3 departments must report to the DIG in charge of the CID.
+
+...
 
 ### Sajith requests speaker to postpone Online Safety Bill
 
@@ -994,27 +1018,5 @@ Mr. Breuer has also expressed that property tax will help Sri Lanka to take the 
 13 வயது சிறுமி ஒருவரை துஷ்பிரயோகத்துக்கு  உட்படுத்தினார் என்றக்  குற்றச்சாட்டின் பேரில் சிறுமியின் மாமனார் (வயது 47), சந்தேகத்தின் பேரில் வெள்ளிக்கிழமை (19) கைது செய்யப்பட்டுள்ளார்.
 
 இந்த சம்பவம், திருகோணமலை, மொரவெவ பொலிஸ் பிரிவுக்கு உட்பட்ட நாமல்வத்த பகுதியில் இடம்பெற்றுள்ளது.
-
-...
-
-### Officer involved in Narammala shooting acted recklessly -Police Spokesman
-
-*2024-01-19 12:43:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/officer-involved-in-narammala-shooting-acted-recklessly-police-spokesman/) 
-
-COLOMBO (News 1st); Police Spokesman Senior Superintendent of Police Attorney Nihal Thalduwa said the Police officer who shot a person in Dampalassa, Narammala acted recklessly.
-
-He said the relevant officer has also acted contrary to the directives issued for Police officers.
-
-A special investigation unit of the Police has been deployed to Narammala, following the tragic death of a lorry driver during an encounter with police officers on Thursday (18).
-
-...
-
-### நாரமலவில் பொலிஸாரின் துப்பாக்கி பிரயோகம் - சம்பவத்தை நேரில் பார்த்தவர்கள் தெரிவித்திருப்பது என்ன?
-
-*2024-01-19 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174316) 
-
-நாரமலவில் பொலிஸார் லொறிசாரதியை சுட்டுக்கொன்றனர் என சம்பவத்தை நேரில் பார்த்த ஒருவர் தெரிவித்துள்ளார்.
-
-சிவில் உடையில் மோட்டார் சைக்கிளில் லொறியை இருவர் துரத்திச்சென்றனர் லொறியை நிறுத்தியதும் ஒருவர் துப்பாக்கியை லோட் செய்து லொறிசாரதியை சுட்டுக்கொன்றார் என சம்பவத்தை நேரில் பார்த்த ஒருவர் ஊடகங்களி;ற்கு தெரிவித்துள்ளார்.
 
 ...

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 17:53:05**
+As of **2024-01-20 18:09:08**
 
 ## Newspaper Stats
 
-*Scraped **1,429** Articles*
+*Scraped **1,430** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,28 @@ virakesarilk | 128
 dailyftlk | 150
 adalk | 160
 dailymirrorlk | 163
-adaderanalk | 173
+adaderanalk | 174
 tamilmirrorlk | 178
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-16 (1.1%) of 1,429 articles have been extended.
+16 (1.1%) of 1,430 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### Sajith urges Speaker to postpone parliamentary debate on Online Safety Bill
+
+*2024-01-20 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96573/sajith-urges-speaker-to-postpone-parliamentary-debate-on-online-safety-bill) · `en`
+
+Opposition Leader Sajith Premadasa has written to Speaker Mahinda Yapa Abeywardena urging the postponement of the upcoming parliamentary debate on the Online Safety Bill.
+
+The Second Reading of the Online Safety Bill is scheduled for January 23 and 24, as per a decision taken by the Committee on Parliamentary Business earlier this month.
+
+...
 
 ### සඳ මතට ගොඩබෑ ජපන් 'මූන් ස්නයිපර්' අර්බුදයක
 
@@ -1087,15 +1097,5 @@ Urge Minister of Public Security and Govt. to withdraw proposed Online Safety Bi
 Call on Minister to conduct meaningful consultations with all stakeholders
 
 Highlight importance of tackling issues of online gender-based violence and harmful speech while affirming human rights
-
-...
-
-### NPP exposes injustices committed under ‘Yukthiya’ op
-
-*2024-01-20 01:21:40* · [`dailyftlk`](https://www.ft.lk/news/NPP-exposes-injustices-committed-under-Yukthiya-op/56-757567) · `en`
-
-National People’s Party (NPP) member Wasantha Samarasinghe recently highlighted the unjust acts committed by the Sri Lanka Police during the ongoing ‘Yukthiya’ operation to allegedly combat drugs and eradicate underworld activities.
-
-Samarasinghe relating a recent incident said a public transport bus had been stopped by a group of Special Task Force (STF) personnel in the Kahatagasdigiliya area for a random check.
 
 ...

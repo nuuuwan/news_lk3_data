@@ -1,19 +1,19 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 11:32:50**
+As of **2024-01-20 11:51:45**
 
 ## Newspaper Stats
 
-*Scraped **1,354** Articles*
+*Scraped **1,357** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
 colombotelegraphcom | 24 | 🟩🟩 
 bbccomsinhala | 36 | 🟩🟩🟩🟩 
 islandlk | 82 | 🟩🟩🟩🟩🟩🟩🟩🟩 
-newsfirstlk | 91 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+newsfirstlk | 92 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 economynextcom | 98 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dbsjeyarajcom | 117 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 150 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 157 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
@@ -24,6 +24,18 @@ tamilmirrorlk | 161 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### Sri Lankan Navy nabs trawlers carrying suspected heroin
+
+*2024-01-20 11:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/sri-lankan-navy-nabs-trawlers-carrying-suspected-heroin/) 
+
+COLOMBO (News 1st) – A multi-day fishing trawler and a one-day fishing trawler carrying a stock of narcotics suspected to be heroin have been taken into custody by the Navy in the Southern Sea.
+
+The drugs were discovered during a special operation carried out by the Navy Intelligence Division, based on information from the State Intelligence Service.
+
+The Navy said that the fishing trawlers and the suspects are currently being escorted to the Port of Galle for onward action.
+
+◼️
 
 ### Murky reasons for milk production drop in Sri Lanka
 
@@ -352,6 +364,28 @@ Organised by Lanka Exhibition and Conference Services Ltd. (LECS), together with
 A collaborative effort led by the Export Development Board (EDB) alongside Sri Lankan universities, the Tropical Ornamental Fish Association and Sri Lanka Ornamental Fish Farmers’ Association organised a one-day workshop on 11 January.
 
 The key objective of the workshop was to help improve the export potential of ornamental fish, support grassroots development, and enhance the abilities of exporters.
+
+...
+
+### Shritharan  Backed by Yoheswaran  Asks Sumanthiran not to Contest the ITAK President Election.
+
+*2024-01-20 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83440) 
+
+...
+
+### The Killing of Bharatha Lakshman Premachandra and Three Bodyguards  in the Mulleriyawe Shoot-out near Walpola Junction.
+
+*2024-01-20 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83474) 
+
+The shooting of Bharatha Lakshman Premachandra and conviction of Duminda Silva was a controversial episode in contemporary Sri Lankan history. Bharatha Lakshman Premachandra known as “Lucky Aiya” and three of his bodyguards were killed on 8 October 2011 in a shoot-out near the Walpola junction close to Mulleriyawa town, about six miles away from Colombo city. Another bodyguard was seriously injured.
+
+...
+
+### Hirunika Premachandra’s Letter to  Gotabaya Rajapaksa when he issued a Presidential Pardon to Duminda Silva Convicted of Killing Bharatha Lakshman Premachandra
+
+*2024-01-20 00:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83469) 
+
+The Supreme Court Order Squashing   the Presidential pardon  granted by former President Gotabaya Rajapaksa to Ex-MP  Duminda Silva has once again turned the media spotlight on the chief victim Bharatha Lakshman’s courageous daughter Hirunika Premachandra. The former MP has earned the sympathy and admiration of many people by her doughty campaign for justice and against injustice.
 
 ...
 
@@ -976,43 +1010,3 @@ IMF mission team, led by Senior Mission Chief Peter Breuer, was in Sri Lanka fro
 பதவிகளை மாற்றுவதை விட பொருளாதாரத்தை வலுப்படுத்தி நாட்டை ஸ்திரப்படுத்துவதே தற்போதைய தேவை என அமைச்சர் வலியுறுத்துகிறார். அதற்காக அரசாங்கம் அர்ப்பணிப்புடன் செயற்படுவதாகவும் அவர் குறிப்பிட்டுள்ளார்.
 
 ...
-
-### Wrapping up Sri Lanka external debt deals critical, property tax needed: IMF
-
-*2024-01-19 15:20:00* · [`economynextcom`](https://economynext.com/wrapping-up-sri-lanka-external-debt-deals-critical-property-tax-needed-imf-147988/) 
-
-ECONOMYNEXT – Sri Lanka’s economy is starting to recover under a stabilization program, and further progress has to be made on debt restructuring while monetary policy decisions have to be prudent to keep inflation down, an International Monetary Fund official has said.
-
-“A swift completion of final agreements with official creditors and reaching a resolution with external private creditors remain critical,” IMF Senior Mission Chief Peter Breuer said after a staff visit.
-
-...
-
-### Rhodes reacts to SLC consultancy role, says ’’This is news to me’’
-
-*2024-01-19 15:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rhodes-reacts-to-SLC-consultancy-role-says-This-is-news-to-me/108-275359) 
-
-Colombo, Jan 19 (Daily Mirror) - Former South African cricketer Jonty Rhodes on Friday responded to reports that he had been appointed as a Consultant Fielding Coach by Sri Lanka Cricket (SLC), saying "This is news to me".
-
-Responding to a media report that he was one of three overseas coaches appointed by SLC on a consultancy basis, Rhodes took to his verified account on X, formerly known as Twitter, writing: "This is news to me #checkyourfacts".
-
-...
-
-### IMF says debt agreements with creditors critical
-
-*2024-01-19 15:16:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/imf-says-debt-agreements-with-creditors-critical/) 
-
-COLOMBO (News 1st); End-of-Mission press releases include statements of IMF staff teams that convey preliminary findings after a visit to a country. The views expressed in this statement are those of the IMF staff and do not necessarily represent the views of the IMF’s Executive Board. This mission will not result in a Board discussion.
-
-...
-
-### யாழில் 12 லீற்றர் சட்டவிரோத மதுபானத்துடன் ஒருவர் கைது
-
-*2024-01-19 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174333) 
-
-யாழ்ப்பாணத்தில் 12 லீற்றர் சட்டவிரோத மதுபானத்துடன் நபர் ஒருவர் வெள்ளிக்கிழமை (19) கைது செய்யப்பட்டுள்ளார்.
-
-யாழ்ப்பாண பொலிஸ் நிலைய பொலிஸாருக்கு கிடைக்கபெற்ற இரகசிய தகவலின் அடிப்படையில் ஆனைக்கோட்டை பகுதியில் உள்ள வீடொன்றில் சோதனையிட்ட போது , விற்பனைக்கு தயாராக வைக்கப்பட்டிருந்த சட்டவிரோத மதுபானத்தை பொலிஸார் மீட்டுள்ளனர்.
-
-அதையடுத்து வீட்டில் இருந்த  53 வயதுடைய நபரை கைது செய்து பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
-
-◼️

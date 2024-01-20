@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 11:17:15**
+As of **2024-01-20 11:32:50**
 
 ## Newspaper Stats
 
-*Scraped **1,343** Articles*
+*Scraped **1,354** Articles*
 
 newspaper | n | 🟩 ≈ 10
 --- | ---: | :---
@@ -15,15 +15,25 @@ newsfirstlk | 91 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩
 economynextcom | 98 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dbsjeyarajcom | 115 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 virakesarilk | 124 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 147 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 dailyftlk | 150 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adalk | 157 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+dailymirrorlk | 158 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 adaderanalk | 158 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 tamilmirrorlk | 161 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### Murky reasons for milk production drop in Sri Lanka
+
+*2024-01-20 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Murky-reasons-for-milk-production-drop-in-Sri-Lanka/108-275411) 
+
+Parliament, Jan. 20 (Daily Mirror)-  Sri Lanka’s dairy industry is facing a major crisis, with around 14,000 small-scale farms shutting down and milk production declining sharply as revealed yesterday by the Committee on Public Accounts (COPA) in Parliament.
+
+While officials from the State Ministry of Livestock Department blamed the closures on animal theft, the MPS expressed skepticism.
+
+...
 
 ### Pathfinder calls for streamlining overseas missions
 
@@ -42,6 +52,26 @@ Moragoda advocated a "zero-based budgeting" approach, scrutinizing each mission'
 COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizations in calling on Minister for Public Security Tiran Alles to withdraw the proposed Online Safety Bill and conduct sustained multi-stakeholder consultations, including with civil society and human rights experts.
 
 ...
+
+### Offensive number plate bikers arrested
+
+*2024-01-20 09:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Offensive-number-plate-bikers-arrested/108-275409) 
+
+Boralesgamuwa, Jan 20 (Daily Mirror) - Traffic police in Boralesgamuwa intercepted a motorcycle displaying a highly offensive Sinhala word P......A in English characters and arrested two young men riding it.
+
+The suspects, both 18-year-olds from Bellanwila, were spotted throughout Boralesgamuwa showcasing the offensive word on a plate replacing the motorcycle’s number plate.
+
+...
+
+### SL Navy intercepts multiday and fishing trawlers with heroin on Southern Seas
+
+*2024-01-20 09:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Navy-intercepts-multiday-and-fishing-trawlers-with-heroin-on-Southern-Seas/108-275408) 
+
+Galle, Jan 20 (Daily Mirror) - Following a special operation mounted by the Sri Lanka Navy Intelligence, on receipt of information from the State Intelligence Service, a local multiday fishing trawler and a one-day fishing trawler with a stock of narcotics, suspected to be heroin, have been intercepted on the Southern seas.
+
+The Navy said the seized trawlers and suspects aboard are being escorted to the Galle harbour for onward action.
+
+◼️
 
 ### අදත් වැස්ස
 
@@ -77,6 +107,32 @@ The minister says that the main reason for this is the possible occurrence of a 
 
 ...
 
+### Sri Lanka Police awards Rs. 1 million compensation to family of lorry driver
+
+*2024-01-20 09:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Police-awards-Rs-1-million-compensation-to-family-of-lorry-driver/108-275407) 
+
+Colombo, Jan 20 (Daily Mirror) - The Sri Lanka Police provided a compensation of Rs. 1 million to the family of a lorry driver who lost his life in the shooting incident in Narammala.
+
+Acting Inspector General of Police Deshabandu Thennakoon personally handed over the compensation at the residence of the deceased driver in Alawwa.
+
+The incident occurred on Thursday night when a 41-year-old lorry driver became the victim of an accidental discharge from a sub-inspector's firearm.
+
+...
+
+### Heartwarming visit to care home residents
+
+*2024-01-20 08:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Heartwarming-visit-to-care-home-residents/110-275406) 
+
+...
+
+### Status of Japan moon-lander SLIM unclear with solar panel glitch
+
+*2024-01-20 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Status-of-Japan-moon-lander-SLIM-unclear-with-solar-panel-glitch/108-275405) 
+
+Japan, Jan 20 (The Hindu) - Japan became the fifth country in history to reach the moon when one of its spacecrafts without astronauts successfully made a soft landing on the lunar surface early Saturday.
+
+...
+
 ### IMF expects Sri Lanka to reach private creditor deal by next review
 
 *2024-01-20 08:11:00* · [`economynextcom`](https://economynext.com/imf-expects-sri-lanka-to-reach-private-creditor-deal-by-next-review-148056/) 
@@ -98,6 +154,26 @@ ECONOMYNEXT – The International Monetary Fund expects Sri Lanka to reach a dea
 ප්‍රධාන බලවතුන්ගේ තරගය වෙළෙද හා ආර්ථික ඒකාබද්ධතාව පසුපසට ගමන් කරවමින් තිබෙනවා.
 
 නොබැඳි ජාතීන් තවදුරටත් දුර්වල රාජ්‍යයන්ගේ එකතුවක් නොවේ – ජනපති නොබැදි ජාතීන්ගේ සමුළුවේ 19 වන රාජ්‍ය නායක සැසිය අමතමින් අවධාරණය කරයි.
+
+...
+
+### German tourist’s solo stroll turns nightmarish
+
+*2024-01-20 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/German-tourists-solo-stroll-turns-nightmarish/108-275404) 
+
+Ambalangoda, Jan 20 (Daily Mirror) - A 23-year-old German tourist visiting Ambalangoda had a terrifying encounter on Thursday evening while enjoying a solo stroll along the picturesque beach.
+
+An unidentified man suddenly lunged at her, leaving her with minor injuries and a deeply unsettling experience.
+
+...
+
+### Sri Lanka remains open for positive role in dousing India-Maldives tension
+
+*2024-01-20 07:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-remains-open-for-positive-role-in-dousing-India-Maldives-tension/155-275403) 
+
+Colombo, Jan 20 (Daily Mirror) - Sri Lanka remains open to play a positive role in dousing tension between India and the Maldives in the greater interest of regional peace, Daily Mirror learns.
+
+First, tension between India and the Maldives flared up since the election of the new Maldivian president Mohamed Muizzu who openly advocates a pro-china policy and even called for Indian troops to leave his country for a foreign policy with better ties with China.
 
 ...
 
@@ -125,11 +201,33 @@ He adds that the Directors of the said 3 departments must report to the DIG in c
 
 ...
 
+### Sri Lanka remains open for positive role dousing India- Maldives tension
+
+*2024-01-20 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-remains-open-for-positive-role-dousing-India-Maldives-tension/108-275377) 
+
+Colombo, Jan 20 (Daily Mirror) -  Sri Lanka remains open to play a positive role in dousing tension between India and the Maldives in the greater interest of regional peace, Daily Mirror learns.
+
+First, tension between India and the Maldives flared up since the election of the new Maldivian president Mohamed Muizzu who openly advocates a pro-China policy and even called for Indian troops to leave his country for a foreign policy with better ties with China.
+
+...
+
 ### IMF sounds tough on tax evasions, corruption
 
 *2024-01-20 04:22:00* · [`islandlk`](http://island.lk/imf-sounds-tough-on-tax-evasions-corruption/) 
 
 The International Monetary Fund said in Colombo yesterday that authorities need to publish governance diagnostics periodically in relation to tax collection, tax exemptions and tax concessions to dispel any doubts in the public mind whether any parties or individuals would be evading taxes through the loopholes.
+
+...
+
+### IMF applauds Central Bank’s triumphs over inflation but urges prudent policy ahead
+
+*2024-01-20 04:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-applauds-Central-Banks-triumphs-over-inflation-but-urges-prudent-policy-ahead/108-275400) 
+
+Says it remains important for Sri Lanka to continue rebuilding external buffers through strong reserve accumulation
+
+Calls on authorities to “urgently finalise” amendments to Banking Act, in line with their commitment to IMF-supported programme
+
+Leveraging the effectiveness of the Central Bank of Sri Lanka on the control over inflation, the International Monetary Fund (IMF) emphasised the importance of maintaining a prudent approach in future monetary policy decisions.
 
 ...
 
@@ -254,6 +352,16 @@ Organised by Lanka Exhibition and Conference Services Ltd. (LECS), together with
 A collaborative effort led by the Export Development Board (EDB) alongside Sri Lankan universities, the Tropical Ornamental Fish Association and Sri Lanka Ornamental Fish Farmers’ Association organised a one-day workshop on 11 January.
 
 The key objective of the workshop was to help improve the export potential of ornamental fish, support grassroots development, and enhance the abilities of exporters.
+
+...
+
+### Central Bank to roll out phase II masterplan under NBFI consolidation effort
+
+*2024-01-20 00:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-to-roll-out-phase-II-masterplan-under-NBFI-consolidation-effort/108-275401) 
+
+Says expects to facilitate market-based consolidation among small and mid-sized banks
+
+While reiterating once again the importance of consolidation in the banking sector for higher scale, efficiency and strength, the Central Bank said it is going to roll out the second phase of the consolidation master plan for the non-bank finance company sector in earnest.
 
 ...
 
@@ -906,109 +1014,5 @@ COLOMBO (News 1st); End-of-Mission press releases include statements of IMF sta
 யாழ்ப்பாண பொலிஸ் நிலைய பொலிஸாருக்கு கிடைக்கபெற்ற இரகசிய தகவலின் அடிப்படையில் ஆனைக்கோட்டை பகுதியில் உள்ள வீடொன்றில் சோதனையிட்ட போது , விற்பனைக்கு தயாராக வைக்கப்பட்டிருந்த சட்டவிரோத மதுபானத்தை பொலிஸார் மீட்டுள்ளனர்.
 
 அதையடுத்து வீட்டில் இருந்த  53 வயதுடைய நபரை கைது செய்து பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
-
-◼️
-
-### Resuscitating Common Sense: A Reality Or A Futility Towards Reconciliation
-
-*2024-01-19 15:13:14* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/resuscitating-common-sense-a-reality-or-a-futility-towards-reconciliation/) 
-
-...
-
-### நாரமல்ல சம்பவம் ; பொலிஸ் உத்தியோகத்தர் உரிய நடைமுறைகளை பின்பற்றவில்லை - பொலிஸ்பேச்சாளர் தகவல்
-
-*2024-01-19 15:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/174335) 
-
-நாரமல்லவில் பொலிஸ் உத்தியோகத்தரின் துப்பாக்கி பிரயோகத்தில்  41 வயது நபர் உயிரிழந்தமை குறித்து பொலிஸ் விசேட விசாரணை பிரிவினர் விசாரணைகளை ஆரம்பித்துள்ளனர்.
-
-பதில் பொலிஸ்மா அதிபரின் உத்தரவின் கீழ் விசேட பொலிஸ் குழுவினர் சம்பவம் இடம்பெற்ற பகுதியில் ஏற்கனவே விசாரணைகளை ஆரம்பித்துள்ளனர் என பொலிஸ் பேச்சாளர் தெரிவித்துள்ளார்.
-
-...
-
-### Diana Gamage’s MP seat: SC grants leave to hear appeal against CA decision
-
-*2024-01-19 15:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96545/diana-gamages-mp-seat-sc-grants-leave-to-hear-appeal-against-ca-decision) 
-
-An appeal filed challenging the decision of the Court of Appeal to dismiss the petition, filed seeking the disqualification of State Minister Diana Gamage’s parliamentary seat, has been allowed to be taken up for hearing.
-
-The relevant order was issued by the Supreme Court when the appeal was called before a three-member judge bench led by Justice Preethi Padman Surasena today (19).
-
-...
-
-### Parliamentary Committee raises concerns over PUCSL’s inaction to digitalise system
-
-*2024-01-19 14:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-raises-concerns-over-PUCSLs-inaction-to-digitalise-system/108-275357) 
-
-Parliament, Dec. 19 (Daily Mirror)- A Parliamentary Committee has raised concerns regarding the indifferent approach of the Public Utilities Commission of Sri Lanka (PUCSL) towards digitalising the system, claiming that it had allowed the creation of a mafia within the system.
-
-These concerns were raised when the Committee took into consideration the Annual Report of the Public Utilities Commission of Sri Lanka 2020 recently.
-
-...
-
-### திருகோணமலை பொது வைத்தியசாலையில் நோயாளிக்கு ஏற்பட்ட  அவலம்
-
-*2024-01-19 14:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/174325) 
-
-திருகோணமலை பொது வைத்தியசாலையில் நோயாளியை கொண்டு செல்வதற்கு சக்கர நாற்காலி வழங்கப்படாமையால் அவரின் உறவினர்கள் நோயாளியை தூக்கிக் கொண்டு சென்ற சம்பவம் இன்று வெள்ளிக்கிழமை (19) இடம்பெற்றுள்ளது.
-
-திருகோணமலை வைத்தியசாலையில் எலும்பு முறிவுக்கு உள்ளாகி சிகிச்சை பெறுவதற்காக சென்ற நோயாளியை கொண்டு செல்வதற்கு சக்கர நாற்காலி வழங்கப்படவில்லை எனவும் இதனால் நோயாளியை தூக்கிக் கொண்டு செல்ல வேண்டிய நிலை ஏற்பட்டதாகவும் தெரிவிக்கப்படுகின்றது.
-
-...
-
-### 18 ஆண்டுகளாக தாம்பத்ய உறவு இல்லை: நீதிமன்றம் அதிரடி தீர்ப்பு
-
-*2024-01-19 14:37:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/18-ஆண்டுகளாக-தாம்பத்ய-உறவு-இல்லை-நீதிமன்றம்-அதிரடி-தீர்ப்பு/175-331801) 
-
-18 ஆண்டுகளாக, திருமணம் நடந்தும் தாம்பத்ய உறவு இல்லாத சூழலில் அந்நபர் மனைவியிடம் இருந்து விவாகரத்து கோரினார். அதற்கு நீதிமன்றம் அதிரடியான தீர்ப்பை வழங்கியுள்ளது.
-
-மத்திய பிரதேசத்தில் நீதிபதிகள் ஷீல் நகு மற்றும் வினய் ஷரப் ஆகியோர் அடங்கிய அமர்வு முன்பு விசித்திர வழக்கு ஒன்று விசாரணைக்கு வந்தது.
-
-இதன்படி, மனுதாரருக்கு 2006-ம் ஆண்டு ஜூலையில் திருமணம் நடந்தது. ஆனால், அவருடன் சேர்ந்து வாழ அவருடைய மனைவி மறுத்திருக்கிறார்.
-
-...
-
-### Sri Lanka reiterates support for Gaza at NAM
-
-*2024-01-19 14:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-reiterates-support-for-gaza-at-nam-147976/) 
-
-ECONOMYNEXT – Sri Lanka stands in solidarity with the people of Palestine and will continue to support them in their quest to realize their inalienable right to Statehood, Minister of Foreign Affairs M U M Ali Sabry has said addressing a meeting of Foreign Ministers of the Non-Aligned Movement in Kampala, Uganda.
-
-...
-
-### உத்தேச பயங்கரவாத எதிர்ப்பு சட்ட மூலத்திற்கு எதிராக  மாற்றுக்கொள்கைகளிற்கான நிலையம் நீதிமன்றில் மனு
-
-*2024-01-19 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174326) 
-
-மாற்றுக்கொள்கை நிலையம் இலங்கையின் உத்தேச பயங்கரவாத எதிர்ப்பு சட்ட மூலத்திற்குஎதிராக உயர்நீதிமன்றத்தில் மனுத்தாக்கல் செய்துள்ளது.
-
-2023செப்டம்பர் 15ம் திகதி வர்த்தமானியில் வெளியான ஜனவரி 10 2024 ம் திகதியே நாடாளுமன்றத்தில் சமர்ப்பிக்கப்பட்ட  பயங்கரவாத எதிர்ப்பு சட்டமூலம் என்பது அரசமைப்பிற்கு உட்பட்டதா என்பதை கேள்விக்கு உட்படுத்தும் மனுவொன்றை மாற்றுக்கொள்கைகளிற்கான நிலையம் தாக்கல் செய்துள்ளது.
-
-...
-
-### நாரமல்லவில் பொலிஸாரின் துப்பாக்கிச்  சூட்டில் ஒருவர் பலி ; உப பொலிஸ் பரிசோதகர் கைது
-
-*2024-01-19 14:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/174324) 
-
-குருநாகல் நாரமல்ல பிரதேசத்தில் பொலிஸார் மேற்கொண்ட துப்பாக்கிச் சூட்டில்  நபர் ஒருவர் உயிரிழந்துள்ளதுடன் சம்பவம் தொடர்பில் உப பொலிஸ் பரிசோதகர் கைது செய்யப்பட்டுள்ளார்.
-
-பொலிஸாரின் உத்தரவை மீறி பயணித்த லொறியை  மடக்கி பிடித்து சோதனைக்கு உட்படுத்தப்பட்ட  சந்தர்ப்பத்தில் பொலிஸ் உத்தியோகத்தரின் துப்பாக்கி தவறுதலாக இயங்கியமையால் இந்த துப்பாக்கிச்சூட்டு சம்பவம் இடம்பெற்றுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சட்டத்தரணி நிஹால் தல்துவ தெரிவித்தார்.
-
-...
-
-### ශ්‍රී ලංකාවේ ආර්ථිකය තාම ප්‍රාථමිකයි
-
-*2024-01-19 14:19:40* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකාවේ-ආර්ථිකය-තාම-ප්‍රාථමිකයි/11-407625) 
-
-ශ්‍රී ලංකාවේ ආර්ථිකය ස්ථාවර වෙමින් පැවතියත් ආර්ථිකය යථා තත්වයට පත් කිරීමේ ක්‍රියාවලිය තවමත් ප්‍රාථමික මට්ටමේ පවතින බව ජාත්‍යන්තර මූල්‍ය අරමුදලේ ශ්‍රී ලංකාවේ ජ්‍යෙෂ්ඨ දූත මණ්ඩල ප්‍රධානී පීටර් බෲවර් මහතා ප්‍රකාශ කළේය.
-
-එසේම ආර්ථිකය යථා තත්වයට පත් කිරීමේ ක්‍රියාවලිය විශාල ජනතාවක් වෙත තවමත් ළඟා වී නොමැති බවද පීටර් බෲවර් මහතා පැවැසුවේය.එසේම ජාත්‍යන්තර මූල්‍ය අරමුදලේ රාජ්‍ය අදායම වැඩිකර ගැනීමේ ඉලක්කය සපුරා ගැනීම සඳහා දේපල බද්ද ශ්‍රී ලංකාවට සහාය වනු ඇතැයි ඔහු ප්‍රකාශ කළේය.
-
-...
-
-### அஸ்வெசும தொடர்பில் புதிய தகவல்
-
-*2024-01-19 14:08:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-தொடர்பில்-புதிய-தகவல்/175-331798) 
-
-அஸ்வெசும திட்டத்திற்கான புதிய விண்ணப்பங்களுக்கான அழைப்பு எதிர்வரும் பெப்ரவரி மாதம் முதல் வாரத்தில் மேற்கொள்ளப்படும் என பதில் நிதியமைச்சர் ஷெஹான் சேமசிங்க தெரிவித்தார். R
 
 ◼️

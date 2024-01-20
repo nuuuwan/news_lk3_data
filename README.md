@@ -1,35 +1,66 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 16:23:46**
+As of **2024-01-20 16:32:50**
 
 ## Newspaper Stats
 
-*Scraped **1,387** Articles*
+*Scraped **1,422** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 24
+adaderanasinhalalk | 25
 bbccomsinhala | 36
 islandlk | 82
-newsfirstlk | 92
+newsfirstlk | 93
 economynextcom | 98
 dbsjeyarajcom | 117
 virakesarilk | 128
 dailyftlk | 150
 adalk | 160
 dailymirrorlk | 161
-adaderanalk | 165
-tamilmirrorlk | 174
+adaderanalk | 172
+tamilmirrorlk | 176
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,387 (100.0%) of 1,387 articles have been extended.
+0 (0.0%) of 1,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### මෙරට ඇඟලුම් ක්ෂේත්‍රයට අලුත් අවස්ථාවක්
+
+*2024-01-20 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192359) · `si`
+
+උගන්ඩාවේ කම්පාලා නුවර පැවැත්වෙන නොබැඳි ජාතීන්ගේ සමුළුවට සමගාමීව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ බෙනින් රාජ්‍යයේ උප ජනාධිපති මාරියම් චාබි තලතා (Mariam Chabi Talata) මහත්මිය අතර ද්විපාර්ශ්වික සාකච්ඡා පවත්වා තිබේ.
+
+ශ්‍රී ලංකාව සහ බෙනින් රාජ්‍ය අතර රාජ්‍ය තාන්ත්‍රික සබඳතා 2012 වසරේදී ආරම්භ කෙරුණු අතර දෙරට අතර පවත්නා ආර්ථික සහ වෙළෙඳ සබඳතා තවදුරටත් පුළුල් කරගැනීම පිළිබඳ මෙම සාකච්ඡාවේදී වැඩි අවධානයක් යොමුවී ඇත.
+
+...
+
+### பொலிஸாருக்கு பறந்த புதிய உத்தரவு
+
+*2024-01-20 15:52:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-பறந்த-புதிய-உத்தரவு/175-331845) · `ta`
+
+பொலிஸ் உத்தியோகத்தர்கள் சிவில் உடையில் கடமையாற்றும் போது சோதனை செய்வதற்காக  வாகனங்களை நிறுத்த வேண்டாம் என அறிவுறுத்தியுள்ளதாக பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தெரிவித்துள்ளார்.
+
+புதிய அறிவுறுத்தல்கள் அனைத்து பொலிஸ் நிலையங்களுக்கும் நேற்று (19) அனுப்பி வைக்கப்பட்டுள்ளதாக அவர் கூறினார்.
+
+...
+
+### சபாநாயகருக்கு சஜித் கடிதம்
+
+*2024-01-20 15:49:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-சஜித்-கடிதம்/175-331844) · `ta`
+
+நிகழ்நிலை காப்பு சட்டமூலத்தை இரண்டு நாட்களுக்கு விவாதத்துக்கு எடுத்துக் கொள்ளாது பொதுமக்களுடன் கலந்துரையாடி, மனித உரிமைகள் பாதுகாக்கப்படும் வகையில் இச்சட்டமூலம் அமுல்படுத்தப்பட வேண்டும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச கோரிக்கை விடுத்துள்ளார்.
+
+நிகழ்நிலை காப்பு சட்டமூலம் தொடர்பில் சபாநாயகருக்கு அனுப்பியுள்ள விசேட கடிதத்தில் இந்த கோரிக்கையை விடுத்துள்ளதாக ஊடகங்களுக்கு சஜித் பிரேமதாச கூறியுள்ளார்.
+
+...
 
 ### බුද්ධි තොරතුරකින් රු. කෝටියක බීඩි කොල අත්අඩංගුවට
 
@@ -38,6 +69,28 @@ Extensions include translations and NER (Named Entity Recognition).
 යුද හමුදා බුද්ධි තොරතුරක් අනුව ඉන්දියාවේ සිට නීතිවිරෝධී අයුරින් ශ්‍රී ලංකාවට ගෙන්වන ලද බවට සැක කෙරෙන බීඩි කොල කිලෝ ග්‍රෑම් 2170ක් අත්අඩංගුවට ගැනීමට යුද්ධ හමුදා බුද්ධි අංශය හා මීගමුව අපරාධ කොට්ඨාසයේ මත්ද්‍රව්‍ය නාශක අංශය සමත්ව තිබේ.
 
 යුධ හමුදා බුද්ධි අංශය විසින් ලබාදෙන ලද තොරතුරකට අනුව එම බීඩි කෙළ තොගය බෝපිටිය ප්‍ර දේශයේ රහසිගතව සඟවා තිබියදී අත්අඩංගුවට ගෙන තිබේ.
+
+...
+
+### ඩෙටනේටර් සහ වෙඩිබෙහෙත් සමග කාන්තාවක් අත්අඩංගුවට
+
+*2024-01-20 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192358) · `si`
+
+පුපුරණ ද්‍රව්‍ය සිය යට ඇඳුම් තුළ සඟවාගෙන රැගෙන යමින් සිටි කාන්තාවක් කොටවෙහෙර පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ කොටවෙහෙර පලුගස් හන්දියේදී මාර්ග බාධක යොදා සිදුකළ පරීක්ෂා කිරීමකදීය.
+
+කොටවෙහෙර, පලුගස් හන්දිය ප්‍රදේශයේදී පොලීසිය, පොලිස් විශේෂ කාර්ය බළකාය හා එක්වී පොලිස් නිල සුනඛයන් යොදා දුරගමන් සේවා බස් රථ පරීක්ෂා කිරීමක් ඊයේ (19) සිදුකර තිබුණි.
+
+...
+
+### Surge in measles cases prompts UK to declare national health incident
+
+*2024-01-20 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96571/surge-in-measles-cases-prompts-uk-to-declare-national-health-incident) · `en`
+
+Further outbreaks of measles could spread across Britain, the UK Health Security Agency (UKHSA) has warned, after declaring a national incident amid a surge in cases and low vaccine uptake.
+
+Recent figures from the agency revealed a sharp rise in the number of measles cases, with uptake of the measles, mumps and rubella (MMR) vaccine at its lowest level in more than a decade and “well under” the recommended coverage, the UKHSA chief executive, Dame Jenny Harries, has said.
 
 ...
 
@@ -81,6 +134,82 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ◼️
 
+### Accused handed death sentence over 1996 murder
+
+*2024-01-20 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96570/accused-handed-death-sentence-over-1996-murder) · `en`
+
+The Balapitiya High Court has issued the death sentence against a 52-year-old suspect convicted of shooting and killing an individual in 1996.
+
+The incident occurred near the Ambalangoda Railway Station on 30 March 1996, according to police.
+
+The suspect, a resident of Ambalangoda, was identified as the second accused in the case and is currently residing abroad.
+
+The court ruled that the death sentence will take effect from the date of the accused’s arrest.
+
+◼️
+
+### Six arrested over financial fraud of over Rs. 28 mn
+
+*2024-01-20 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96569/six-arrested-over-financial-fraud-of-over-rs-28-mn) · `en`
+
+Six persons have been arrested by the Criminal Investigations Department (CID) for allegedly committing financial fraud to the tune of over Rs. 28 million.
+
+The group of suspects comprising three males and three females are believed to have produced cheques from bank accounts with insufficient funds for the purchase of 15 gemstones worth Rs. 28.75 million, police reported.
+
+...
+
+### ජන විරෝධය මැද සනත් නිශාන්ත හැරී යයි
+
+*2024-01-20 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192356) · `si`
+
+පුත්තලම - දළුව - නිර්මලපුර - නාවක්කාඩු මාර්ගය සංවර්ධනය කිරීමේ මූලික රැස්වීමට එක්වීමට ඊයේ (19) එම ප්‍රදේශයට ගිය රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාට එම ස්ථානයට නොගොස් ආපසු හැරී යාමට සිදු විය.
+
+පුත්තලම - දළුව ප්‍රදේශයේ පිහිටි නිර්මලපුර - නාවක්කාඩු මාර්ගය ප්‍රතිසංස්කරණය කිරීම සඳහා ලෝක බැංකු ආධාර මත සංවර්ධන ව්‍යාපෘතියක් ආරම්භ කර තිබිණි.
+
+...
+
+### President holds bilateral talks with state leaders during NAM Summit in Kampala
+
+*2024-01-20 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96568/president-holds-bilateral-talks-with-state-leaders-during-nam-summit-in-kampala) · `en`
+
+President Ranil Wickremesinghe participated in bilateral discussions with various leaders and representatives from Global South countries in the African region yesterday (19 Jan.), coinciding with the Non-Aligned Nations Conference held in Kampala, Uganda.
+
+...
+
+### පස් චණ්ඩි පහර දුන් හෝටලයේ හිමිකරුවන්ට තවත් අර්බුදයක්
+
+*2024-01-20 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192355) · `si`
+
+පාදුක්ක ප්‍රදේශයේදී පුද්ගලයන් දෙදෙනෙකු කලහකාරී ලෙස හැසිරීම හේතුවෙන් අලාභහානියට පත් වූ ආපණ ශාලාවේ හිමිකාරියට එම ස්ථානයෙන් ඉවත් වීමට සිදු ව තිබේ.
+
+ඔවුන් පවසන්නේ, තම ආපණ ශාලාවට පහරදුන් පුද්ගලයින්ගේ බලපෑම මත තමන්ට එම වෙළෙඳසලෙන් මෙන්ම තමන් රැඳී සිටි කුලී නිවසෙන් ද පිට ව යාමට සිදු ව ඇති බවය.
+
+වෙළෙඳසලෙන් ඉවත්ව යන ලෙස කළ දැනුම්දීමෙන් පසු ඔවුහු අද එහි තිබූ භාණ්ඩ ඉවත්කර ගැනීමට කටයුතු කළහ.
+
+...
+
+### Two police officers involved in Narammala ‘accidental’ shooting interdicted
+
+*2024-01-20 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96567/two-police-officers-involved-in-narammala-accidental-shooting-interdicted) · `en`
+
+The Police Sub-Inspector (SI) and a Constable involved in the ‘accidental’ shooting of a lorry driver in Narammala have been interdicted.
+
+According to Police Spokesman SSP Nihal Thalduwa, the duo were interdicted with effect from Friday (19 Jan.).
+
+On Thursday (18 Jan.), a lorry driver aged 41 was killed after a police officer in civvies ‘accidentally’ discharged his firearm during a vehicle inspection. He was identified as a resident of Maharachchimulla area.
+
+...
+
+### සජිත්ගෙන් කථානායකට ලිපියක්
+
+*2024-01-20 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192354) · `si`
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත විවාදයට ගැනීම කල් දමන ලෙස ඉල්ලා විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා විසින් කථානායක මහින්ද යාපා අබේවර්ධන මහතා වෙත ලිපියක් යොමුකර තිබේ.
+
+එමඟින් විපක්ෂ නායකවරයා පෙන්වා දී ඇත්තේ මෙම පනත මේ මොහොතේ සම්මත වුවහොත් එමඟින් ස්ථාපිත කිරීමට යෝජිත කොමිෂන් සභාවට සහ විෂය භාර අමාත්‍යවරයාට අසීමිත බලයක් හිමිවන බවය.
+
+...
+
 ### Acting IGP directs police not to stop vehicles while they are in civilian attire
 
 *2024-01-20 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Acting-IGP-directs-police-not-to-stop-vehicles-while-they-are-in-civilian-attire/108-275414) · `en`
@@ -90,6 +219,26 @@ Acting Inspector General of Police, Deshabandu Thennakoon has issued a fresh set
 These new guidelines were distributed to all police stations yesterday.
 
 ...
+
+### ජනපති අප්‍රිකානු කලාපයේ නායකයන් සමඟ සාකච්ඡාවක
+
+*2024-01-20 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192353) · `si`
+
+උගන්ඩාවේ කම්පාලා නුවර පැවැත්වෙන නොබැඳි ජාතීන්ගේ සමුළුවට සමගාමී ව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අප්‍රිකානු කලාපයේ සිටින ගෝලීය දකුණේ රටවල නායකයන් සහ නියෝජිතයන් කිහිප දෙනෙකු සමඟ ඊයේ (19) ද්විපාර්ශ්වික සාකච්ඡාවල නිරත විය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ දකුණු අප්‍රිකානු ජනාධිපති සිරිල් රමපෝසා (Cyril Ramaphosa) මහතා අතර හමුවක් ඊයේ (19) පස්වරුවේ පැවැත්විණි.
+
+...
+
+### විශේෂ රථවාහන සැලසුමක්
+
+*2024-01-20 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192352) · `si`
+
+කැලණිය රජමහා විහාරස්ථානයේ දුරුතු මහා පෙරහර හේතුවෙන් රථවාහන ගමනාගමනය සීමා කර තිබේ.
+
+පෙරහර, ලබන 24 වනදා රාත්‍රී 08.00 සිට පසු දින අලුයම 03.00 දක්වා වීථි සංචාරය කිරීමට නියමිතයි.
+
+◼️
 
 ### Update: Over 60 kgs of heroin seized by Navy off Dondra Point
 
@@ -113,6 +262,18 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 
 ...
 
+### Special dengue control program in place covering Colombo District
+
+*2024-01-20 12:51:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/special-dengue-control-program-in-place-covering-colombo-district/) · `en`
+
+COLOMBO (News 1st) – The National Dengue Control Unit says that a special dengue control program will be implemented next week to cover the Colombo district.
+
+Its director, Dr. Sudath Samaraweera, said that 20% of dengue cases in the country are reported from the Colombo district.
+
+He added that 6,689 cases of dengue have been reported in the last 18 days of this year alone.
+
+◼️
+
 ### துப்பாக்கி பிரயோகத்தில் உயிரிழந்த சாரதிக்கு இழப்பீடு
 
 *2024-01-20 12:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-உயிரிழந்த-சாரதிக்கு-இழப்பீடு/175-331841) · `ta`
@@ -124,6 +285,18 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 கடந்த 18 ஆம் திகதி பிற்பகல் நாரம்மல பகுதியில் முன்னெடுக்கப்பட்ட வாகன சோதனை நடவடிக்கையின் போது, பொலிஸாரின் துப்பாக்கிப் வெடித்தில் சாரதி உயிழந்தார்.
 
 ...
+
+### පොලිස් නිලධාරින්ට නව උපදෙස් මාලාවක්
+
+*2024-01-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192351) · `si`
+
+පොලිස් නිලධාරින් සිවිල් ඇඳුමින් රාජකාරි සිදු කරන අවස්ථාවල දී පරීක්‍ෂා කිරීම් සඳහා රථවාහන නැවැත්වීට කටයුතු නොකරන ලෙසට තමන් නව උපදෙස් මාලාවක් ලබා දුන් බව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පවසයි.
+
+එම නව උපදෙස් මාලාව ඊයේ (19) දිනයේ සියලුම පොලිස් ස්ථානවලට යොමු කළ බව ඒ මහතා පැවසීය.
+
+පසුගිය 18 වනදා නාරම්මල ප්‍රදේශයේ දී පොලිස් නිලධාරියෙකු සිදු කළ වෙඩි තැබීමකින් රියදුරෙකු මිය යාමත් සමඟ මෙම නව උපදෙස් මාලාව ලබා  දුන් බව ඒ මහතා වැඩිදුරටත් ප්‍රකාශ කළේ ය.
+
+◼️
 
 ### ஆரம்ப பாடசாலையில் தீ விபத்து: 13 பேர் பலி
 
@@ -137,6 +310,14 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 
 ◼️
 
+### Two-thirds of CEB employee loan interests paid by consumers - Minister
+
+*2024-01-20 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96566/two-thirds-of-ceb-employee-loan-interests-paid-by-consumers-minister) · `en`
+
+Power and Energy Minister Kanchana Wijesekera has revealed that two-thirds of the employees’ loan interest paid by the Ceylon Electricity Board (CEB) is recovered from consumer tariffs and that financial facilities to the tune of Rs. 12 billion are granted to the employees.
+
+...
+
 ### NIA files supplementary charge sheet against 4 in Sri Lankan human trafficking case
 
 *2024-01-20 12:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NIA-files-supplementary-charge-sheet-against-4-in-Sri-Lankan-human-trafficking-case/108-275412) · `en`
@@ -145,11 +326,33 @@ Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed 
 
 ...
 
+### Police officers instructed not to pull over vehicles while clad in civvies
+
+*2024-01-20 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96565/police-officers-instructed-not-to-pull-over-vehicles-while-clad-in-civvies-) · `en`
+
+Acting IGP Deshabandu Tennakoon says he has issued fresh instructions on Friday (19 Jan.) to all police stations to refrain from pulling over vehicles for inspections while the officers are clad in civilian clothing.
+
+The directive comes on the heels of an incident in the Narammala Police Division, where a lorry driver, 41, was killed after a Police Sub-Inspector (SI) clad in civvies allegedly ‘accidentally’ discharged his firearm during a vehicle inspection.
+
+...
+
 ### இலங்கை அரசாங்கம் உத்தேச நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை விலக்கிக்கொள்ள வேண்டும் - ஐம்பதிற்கும் மேற்பட்ட சர்வதேச அமைப்புகள் கூட்டாக வேண்டுகோள்
 
 *2024-01-20 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174382) · `ta`
 
 இலங்கை அரசாங்கம் உத்தேச நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை விலக்கிக்கொள்ளவேண்டும் என பத்திரிகையாளர்களை பாதுகாப்பதற்கான குழு உட்பட ஐம்பதிற்கும் மேற்பட்ட சர்வதேச அமைப்புகள் கூட்டாக வேண்டுகோள் விடுத்துள்ளன.
+
+...
+
+### අපරාධයක් සඳහා ආධාර අනුබල දුන් තිදෙනෙකු අත්අඩංගුවට
+
+*2024-01-20 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192350) · `si`
+
+අම්බලන්ගොඩ මත්ස්‍ය ව්‍යාපාරිකයෙකුට වෙඩි තැබීමට පැමිණි සැකකරුවන්ට ආධාර අනුබල දුන් කාන්තාවක් සහ පුද්ගලයන් දෙදෙනෙකු පොලිස් විශේෂ කාර්ය බළකාය විසින් ‍අත්අඩංගුවට ගෙන ඇත.
+
+එම නිලධාරීන්ට ලද තොරතුරකට අනුව ඊයේ (19) ගොඩකවෙල ප්‍රදේශයේ සිදුකළ වැටලීමක දී මෙම සැකකරුවන් අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+සංවිධානාත්මක අපරාධකරුවෙකු වන 'ලොකු පැටී' යන අයගේ මෙහෙයවීම යටතේ මෙම වෙඩි තැබීම සිදුකිරීමට පැමිණ තිබුණු බව වාර්තා වේ.
 
 ...
 
@@ -197,15 +400,39 @@ Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed 
 
 ...
 
+### නේවාසිකාගාරයක ගින්නකින් 13 දෙනෙකු ජීවිතක්ෂයට
+
+*2024-01-20 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192349) · `si`
+
+මධ්‍යම චීනයේ, යැංෂැංපු ප්‍රදේශයේ පාසල් නේවාසිකාගාරයක හටගත් ගින්නකින් 13 දෙනෙකු මිය ගොස් තිබේ.
+
+ඊයේ (19) රාත්‍රියේ නේවාසිකාගාර ගොඩනැගිල්ලක ගින්න හටගෙන ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර, පෞද්ගලික පාසලක් වන එම පාසලේ කළමනාකරු පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+පසුගිය නොවැම්බර් මාසයේ ද චීනයේ ශැංසි පළාතේ ගොඩනැගිල්ලක හටගත් ගින්නකින් පුද්ගලයින් 27 දෙනෙකු ජීවිතක්ෂයට පත් විය.
+
+◼️
+
 ### Measles catch-up immunization program rolled out for children this weekend
 
 *2024-01-20 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96564/measles-catch-up-immunization-program-rolled-out-for-children-this-weekend) · `en`
 
-Epidemiology Unit of the Health Ministry is continuing its MMR (measles-mumps-rubella) Catch-up Immunization Program for children aged between 9 months and 15 years over this weekend.
+Epidemiology Unit of the Health Ministry is continuing its MMR (measles-mumps-rubella) Catch-up Immunization Program for children aged between 9 months and 15 years over this weekend. Accordingly, the program is held island-wide on Jan. 20 and 21.
 
-There has been a decrease in measles vaccination rates both globally and regionally during the recent COVID-19 pandemic.
+The measles vaccination rollout was kicked off after observing a decrease in measles vaccination rates both globally and regionally during the recent COVID-19 pandemic.
 
-Epidemiology Unit says this resulted in a significant increase in the incidence of measles cases on both a global and regional level.
+...
+
+### තවත් සැකකරුවන් 986 දෙනෙකු අත්අඩංගුවට
+
+*2024-01-20 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192348) · `si`
+
+‍අද (20) අලුයම 12යි 30න් අවසන් වු පැය 24 තුළ යුක්තිය විශේෂ මෙහෙයුම යටතේ තවත් සැකකරුවන් 986 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මත්ද්‍රව්‍ය චෝදනාවලට අදාළව ඊයේ දිනයේ දී සැකකරුවන් 667 දෙනෙකු අත්අඩංගුවට ගෙන ඇති අතර, එහි දී හෙරොයින් ග්‍රෑම් 498ක්, අයිස් ග්‍රෑම් 143ක් ඇතුළු මත්ද්‍රව්‍ය, ආරක්ෂක අංශ භාරයට ගෙන ඇති බව පොලීසිය පවසයි.
+
+අත්අඩංගුවට ගත් එම සැකකරුවන්ගෙන් 10 දෙනෙකු සම්බන්ධයෙන් රැඳවුම් නියෝග ලබාගැනීමට නියමිත අතර, මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් පුනරුත්ථාපනය සඳහා යොමු කිරීමට නියමිතයි.
 
 ...
 
@@ -228,6 +455,18 @@ The Navy said that the fishing trawlers and the suspects are currently being esc
 Parliament, Jan. 20 (Daily Mirror)-  Sri Lanka’s dairy industry is facing a major crisis, with around 14,000 small-scale farms shutting down and milk production declining sharply as revealed yesterday by the Committee on Public Accounts (COPA) in Parliament.
 
 While officials from the State Ministry of Livestock Department blamed the closures on animal theft, the MPS expressed skepticism.
+
+...
+
+### ධීවර යාත්‍රා 02ක් නාවික හමුදා භාරයට
+
+*2024-01-20 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192347) · `si`
+
+හෙරොයින් බවට සැක කෙරෙන මත්ද්‍රව්‍ය තොගයක් රැගත් ධීවර යාත්‍රා දෙකක් මෙරට දකුණු මුහුදේ දී නාවික හමුදා භාරයට ගෙන තිබේ.
+
+රාජ්‍ය බුද්ධි සේවාව මඟින් ලද බුද්ධි තොරතුරකට අනුව, නාවික හමුදා බුද්ධි අංශය විසින් සිදු කළ මෙහෙයුමක දී බහුදින ධීවර යාත්‍රාවක් සහ එක් දින ධීවර යාත්‍රාවක් මෙලෙස සිය භාරයට ගත් බව නාවික හමුදාව සඳහන් කරයි.
+
+එහි දී එම යාත්‍රාවල සිටි පුද්ගලයන් නාවික හමුදාව විසින් අත්අඩංගුවට ගෙන ඇත.
 
 ...
 
@@ -258,6 +497,18 @@ Moragoda advocated a "zero-based budgeting" approach, scrutinizing each mission'
 A total of 51 more employees of the Ceylon Electricity Board (CEB) have been interdicted for obstructing the services by refusing to accept bill payments from consumers during their three-day protests staged against the proposed restructuring of the state-owned electricity supplier.
 
 CEB trade union members engaged in a series of protests for three days from January 03 - 05, challenging the government’s Bill to restructure the Board and the new Electricity Bill.
+
+...
+
+### ලංවිමේ හැට හය දෙනෙකුගේ වැඩ තහනම්
+
+*2024-01-20 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192346) · `si`
+
+වැඩ තහනම් කළ ලංකා විදුලි බල මණ්ඩලයේ සේවක සංඛ්‍යාව 66 දක්වා ඉහළ ගොස් තිබේ.
+
+විදුලිබල මණ්ඩලය ප්‍රතිව්‍යූහගත කිරීමට එරෙහි ව විරෝධතාවේ නිරත වූ විදුලි සේවකයන් පිරිසකගේ සේවය මෙසේ අත්හිටුවා ඇත.
+
+විදුලිබල මණ්ඩලය ඊයේ (19) පැවසුවේ, පසුගිය දා පැවති උද්ඝෝෂණයේ දී මුදල් කවුළු වසා දමා පාරිභෝගිකයන්ට විදුලි බිල් ගෙවීමට බාධා කිරීම හේතුවෙන් මුදල් භාර ලිපිකරුවන් 15 දෙනෙකුගේ වැඩ තහනම් කළ බවයි.
 
 ...
 
@@ -343,6 +594,20 @@ Police say that drugs including 586 grams of Heroin and 180 grams of ICE in poss
 
 ...
 
+### ඉන්දියාවේ රිය අනතුරකින් පුද්ගලයින් සිව්දෙනෙකුට දිවි අහිමි වෙයි
+
+*2024-01-20 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192344) · `si`
+
+ඉන්දියාවේ ආග්‍රාහි සිදුවූ රිය අනතුරකින් පුද්ගලයින් සිව් දෙනෙකු මියගොස් තවත් දෙදෙනෙකු තුවාල ලබා  තිබේ.
+
+විදෙස් වාර්තා සඳහන් කළේ වේගයෙන් පැමිණි මෝටර් රථයක් ඇළකට පෙරලීමෙන් මෙම අනතුර සිදුව ඇති බවය.
+
+අනතුර සිදුවන අවස්ථාවේදී මෝටර් රථයේ මගීන් හය දෙනෙකු ගමන් කර ඇති අතර ඔවුන් මංගල උත්සවයකට සහභාගී වී ආපසු පැමිණෙමින් සිටි ඇති බව වාර්ථා  වේ.
+
+තුවාලකරුවන්  අග්‍රා හි පෞද්ගලික රෝහලකට අතුළත් කර ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
 ### Minister of Agriculture warns of another vegetable shortage
 
 *2024-01-20 09:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/minister-of-agriculture-warns-of-another-vegetable-shortage/) · `en`
@@ -380,6 +645,18 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 ### Heartwarming visit to care home residents
 
 *2024-01-20 08:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Heartwarming-visit-to-care-home-residents/110-275406) · `en`
+
+...
+
+### මුදල් වංචාවක් සම්බන්ධයෙන් සය දෙනෙකු අත්අඩංගුවට
+
+*2024-01-20 08:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192343) · `si`
+
+මුදල් වංචාවක් සම්බන්ධයෙන් සැකකරුවන් තිදෙනෙකු සහ සැකකාරියන් තිදෙනෙකු අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරින් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මැණික් ගල් 15ක් ලබාගෙන ඒ සඳහා ලබා දිය යුතු මුදල් රුපියල් 28,750,000ක් සඳහා මුදල් නොමැති ගිණුම්වලින් චෙක්පත් ලබා දී මෙම මුදල් වංචාව සිදු කර ඇත.
+
+මුදල් වංචාවට සම්බන්ධ සැකකරුවෙකු ඊයේ (19) කොටුව පොලිස් වසමේ දී අත්අඩංගුවට ගෙන ඇති අතර, ඒ සඳහා අධාර අනුබල දුන් අනෙක් සැකකරුන් දෙදෙනා සහ සැකකාරීන් තිදෙනා යාපනය ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන තිබේ.
 
 ...
 
@@ -423,15 +700,23 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ...
 
+### පොලිස් වෙඩි පහරින් මිය ගිය පුද්ගලයාගේ පවුලට මිලියනයක වන්දියක්
+
+*2024-01-20 08:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192342) · `si`
+
+නාරම්මල ප්‍රදේශයේ දී පොලිස් නිලධාරියෙකු සිදු කළ වෙඩි තැබීමකින් ඝාතනයට ලක් වූ ලොරි රථ රියදුරාගේ පවුලේ ඥාතීන් සඳහා ශ්‍රී ලංකා  පොලීසිය විසින් රුපියල් මිලියනයක වන්දි මුදලක් ලබා දී තිබේ.
+
+අලව්ව ප්‍රදේශයේ පිහිටි මිය ගිය රියදුරාගේ නිවසේ දී වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් මෙම මුදල ලබා දුන් බව පොලීසිය සඳහන් කළේය.
+
+...
+
 ### Family of lorry driver killed in Narammala shooting awarded Rs. 1mn
 
 *2024-01-20 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/96557/family-of-lorry-driver-killed-in-narammala-shooting-awarded-rs-1mn) · `en`
 
 Sri Lanka Police have handed over Rs. 1 million in compensation to the family of the lorry driver who was killed in the shooting incident in Narammala.
 
-Acting Inspector-General of Police (IGP) handed over the money to the bereaved at the deceased's residence in Alawwa.
-
-The lorry driver, 40, was killed on Thursday night (Jan.18) after a police officer in civvies ‘accidentally’ discharged his firearm during a vehicle inspection. He was identified as a resident of Alawita area.
+Acting Inspector-General of Police (IGP) handed over the money to the bereaved at the deceased’s residence in Maharachchimulla, Alawwa.
 
 ...
 
@@ -477,6 +762,30 @@ An unidentified man suddenly lunged at her, leaving her with minor injuries and 
 
 ...
 
+### මනුෂ්‍ය ඝාතනයක් කළ අයෙකුට මරණ දඬුවම
+
+*2024-01-20 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192341) · `si`
+
+1996 වසරේ මාර්තු මස 30 වනදා  අම්බලන්ගොඩ රේල් ගේට්ටුව අසලදී පුද්ගලයෙකුට වෙඩි තබා මනුෂ්‍ය ඝාතනයක් සිදුකිරීම සම්බන්ධයෙන් වරදකරු වූ පුද්ගලයෙකුට අධිකරණය විසින් මරණ දඬුවම නියම කර තිබේ.
+
+මෙම නඩුව චූදිත නොමැතිව දීර්ඝ ලෙස බලපිටිය මහාධිකරණයේ විභාග කර ඇති අතර, අවසානයේ  ඊයේ (19) දිනයේ මෙම තීන්දුව ප්‍රකාශයට පත් කර ඇත.
+
+ඒ අනුව මරණීය දණ්ඩනය නියම කර ඇත්තේ, එම ඝාතන නඩුවේ දෙවන චූදිතට බව පොලීසිය පවසයි.
+
+...
+
+### නාරම්මල වෙඩි තැබීමේ සැකකාර නිලධාරින්ගේ වැඩ තහනම්
+
+*2024-01-20 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192340) · `si`
+
+නාරම්මල ප්‍රදේශයේ දී වෙඩි වැදී පුද්ගලයෙකු මියයෑමේ සිද්ධියට සම්බන්ධ  උපපොලිස් පරීක්ෂකවරයා සහ පොලිස් කොස්තාපල්වරයාගේ වැඩ තහනම් කර තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යේෂ්ඨ පොලිස් අධිකාරී නිහාල් තල්දූව මහතා සඳහන් කළේ, ඊයේ (19) දිනය සිට ක්‍රියාත්මක වන පරිදි මොවුන් දෙදෙනාගේ වැඩ තහනම් කළ බවයි.
+
+අණ නොතකා ධාවනය කළ ලොරි රථයක් හඹාගෙන ගොස් එම ලොරි රථය නැවැත්වූ අවස්ථාවේ උපපොලිස් පරීක්ෂකවරයා සතු ගිනිඅවිය ක්‍රියාත්මක වී ලොරි රථයේ රියදුරාට වෙඩි වැදී ජීවිතක්ෂයට පත් වී තිබිණි.
+
+...
+
 ### Sri Lanka remains open for positive role in dousing India-Maldives tension
 
 *2024-01-20 07:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-remains-open-for-positive-role-in-dousing-India-Maldives-tension/155-275403) · `en`
@@ -484,6 +793,18 @@ An unidentified man suddenly lunged at her, leaving her with minor injuries and 
 Colombo, Jan 20 (Daily Mirror) - Sri Lanka remains open to play a positive role in dousing tension between India and the Maldives in the greater interest of regional peace, Daily Mirror learns.
 
 First, tension between India and the Maldives flared up since the election of the new Maldivian president Mohamed Muizzu who openly advocates a pro-china policy and even called for Indian troops to leave his country for a foreign policy with better ties with China.
+
+...
+
+### ත්‍රස්ත විරෝධී පනත් කෙටුම්පත ගැන දැඩි අවධානය
+
+*2024-01-20 07:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192339) · `si`
+
+ත්‍රස්තවාදය වැළැක්වීමේ පනත වෙනුවට දැනට ශ්‍රී ලංකා පාර්ලිමේන්තුවේ සලකා බලමින් පවතින සංශෝධිත ත්‍රස්ත විරෝධී පනත් කෙටුම්පත පිළිබඳ දැඩි අවධානය යොමුකර ඇති බව එක්සත් ජාතීන්ගේ මානව හිමිකම් කවුන්සිලය පවසයි.
+
+එම කවුන්සිලය පවසන්නේ ත්‍රස්තවාදය වැළැක්වීමේ පනත අවලංගු කිරීම ශ්‍රී ලංකාවේ අභ්‍යන්තර ආරක්ෂාව සඳහා වන ප්‍රවේශයේ අර්ථවත් ප්‍රතිසංස්කරණයක් සඳහා හැරවුම් ලක්ෂයක් විය යුතු බවයි.
+
+යෝජිත කෙටුම්පත ඉවත් කරන ලද පෙර පැවත පනතට සැලකිය යුතු ලෙස සමාන බව එම කවුන්සිලය සඳහන් කරයි.
 
 ...
 
@@ -511,6 +832,16 @@ He adds that the Directors of the said 3 departments must report to the DIG in c
 
 ...
 
+### විශ්වවිද්‍යාල ආචාර්‍ය සමිති සම්මේලනයෙන් චෝදනාවක්
+
+*2024-01-20 07:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192338) · `si`
+
+විශ්වවිද්‍යාල ආචාර්යවරුන් සඳහා අධ්‍යයන දීමනාව සියයට 25කින් වැඩි කිරීමට ගත් තීරණයට අදාළව මේ වන තෙක් නිශ්චිත චක්‍රලේඛයක් නිකුත් කිරීමට විශ්වවිද්‍යාල ප්‍රතිපාදන කොමිෂන් සභාව පියවර ගෙන නොමැති බවට විශ්වවිද්‍යාල ආචාර්ය සමිති සම්මේලනය චෝදනා කරයි.
+
+එහි උපසභාපති ජ්‍යෙෂ්ඨ කථිකාචාර්ය චාරුදත්ත ඉලංගසිංහ මහතා පැවසුවේ, ආචාර්යවරුන්ගේ ජනවාරි මස වැටුපට එම දීමනාව ලබා නොදුන හොත් ඊට එරෙහිව ක්‍රියාමාර්ග ගන්නා බවයි.
+
+...
+
 ### Sri Lanka remains open for positive role dousing India- Maldives tension
 
 *2024-01-20 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-remains-open-for-positive-role-dousing-India-Maldives-tension/108-275377) · `en`
@@ -518,6 +849,32 @@ He adds that the Directors of the said 3 departments must report to the DIG in c
 Colombo, Jan 20 (Daily Mirror) -  Sri Lanka remains open to play a positive role in dousing tension between India and the Maldives in the greater interest of regional peace, Daily Mirror learns.
 
 First, tension between India and the Maldives flared up since the election of the new Maldivian president Mohamed Muizzu who openly advocates a pro-China policy and even called for Indian troops to leave his country for a foreign policy with better ties with China.
+
+...
+
+### සරම්ප එන්නත්කරණය දීප ව්‍යාප්තව
+
+*2024-01-20 07:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192337) · `si`
+
+වයස මාස 09ත් අවුරුදු 15ත් අතර දරුවන් සඳහා සරම්ප ප්‍රතිශක්තීකරණ එන්නත් ලබා දීමේ වැඩසටහක් අද (20) සහ හෙට දීපව්‍යාප්තව ක්‍රියාත්මක බව සෞඛ්‍ය අමාත්‍යාංශය පවසයි.
+
+එම අමාත්‍යාංශය සඳහන් කළේ, මෙතෙක් සරම්ප එන්නත් ලබා නොගත් දරුවන් සඳහා සෑම දිස්ත්‍රික්කයකම තිබෙන එන්නත්කරණ මධ්‍යස්ථානවලට පැමිණීමෙන් එන්නත ලබා ගැනිමේ හැකියාව පවතින බවයි.
+
+පසුගිය දිනවල පැවති සරම්ප ප්‍රතිශක්තිකරණ එන්නත්කරණ වැඩසටහන තවදුරටත් සක්‍රීය කිරීමේ අරමුණින් මෙම පියවර ගෙන තිබේ.
+
+◼️
+
+### ප්‍රදේශ කිහිපයකට විටින් විට වැසි
+
+*2024-01-20 06:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192336) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව සහ මාතලේ දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+උතුරු පළාතේ හා අනුරාධපුර දිස්ත්‍රික්කයේ වැසි වාර කිහිපයක් ඇති විය හැක.
+
+බස්නාහිර, සබරගමුව, මධ්‍යම සහ වයඹ පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත්, පස්වරු 02.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+බස්නාහිර සහ සබරගමුව පළාත්වල ඇතැම් ස්ථානවල මිලි මීටර් 75ක පමණ තරමක තද වැසි ඇති වනු ඇත.
 
 ...
 
@@ -724,297 +1081,3 @@ While reiterating once again the importance of consolidation in the banking sect
 Art and fiction can play an important role in enhancing awareness and  understanding of the climate crisis as well as showcasing ground realities, particularly from the Global South
 
 ...
-
-### Why suffer as a bankrupt nation, why not use our resources
-
-*2024-01-20 00:09:47* · [`dailyftlk`](https://www.ft.lk/opinion/Why-suffer-as-a-bankrupt-nation-why-not-use-our-resources/14-757550) · `en`
-
-This is the worst situation this country has had to face. The difficult years 1970-1977 were not this bad. Though there were stringent controls, there were avenues for the people to fend for themselves. Living on imports and getting used to more advanced products had dented the ability of our people to invent or substitute.
-
-...
-
-### Dudley’s fiasco
-
-*2024-01-20 00:09:20* · [`dailyftlk`](https://www.ft.lk/opinion/Dudley-s-fiasco/14-757549) · `en`
-
-...
-
-### Two MRPs for one and the same product
-
-*2024-01-20 00:08:40* · [`dailyftlk`](https://www.ft.lk/opinion/Two-MRPs-for-one-and-the-same-product/14-757548) · `en`
-
-How come a locally manufactured full cream milk powder is being marketed at two MRPs – Rs. 850.00 and Rs 1080.00? The details of this milk powder are as follows:
-
-a. The net weight printed on the obverse of the pack is the same i.e. 400 g.
-
-b. The nutrient content of the milk powder is exactly the same as per the nutritional information printed on the reverse of the pack.
-
-c. The manufacturer is the same viz Pelwatte Dairy Industries Ltd. Buttala
-
-...
-
-### பிணையில் கிடைத்தும் திருந்தாத  “விஸ்வ புத்தர்”
-
-*2024-01-20 00:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணையில்-கிடைத்தும்-திருந்தாத-விஸ்வ-புத்தர்/175-331827) · `ta`
-
-பௌத்த மதத்தை அவமதித்ததாக குற்றம் சுமத்தப்பட்ட “விஸ்வ புத்தரை” எதிர்வரும் 24ஆம் திகதி மீண்டும் நீதிமன்றில் முன்னிலைப்படுத்துமாறு கொழும்பு பிரதான நீதவான் பிரசன்ன அல்விஸ் இன்று (19) உத்தரவிட்டுள்ளார்.
-
-குறித்த நபர் கைது செய்யப்பட்டு பின்னர் பிணையில் விடுவிக்கப்பட்டுள்ள நிலையில்,   நீதிமன்றத்தின் எச்சரிக்கையையும் மீறி மீண்டும் பௌத்த மதத்தை அவமதிக்கும் வகையில் நடந்து கொள்வதாக தகவல் கிடைத்துள்ளது.
-
-...
-
-### The Judiciary Unbowed, Holding Law-Breakers  To Account
-
-*2024-01-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Judiciary-Unbowed-Holding-Law-Breakers-To-Account/172-275368) · `en`
-
-The Supreme Court of our country keeps making history for all the right reasons. Lay persons sometimes – based on ‘he-said, she-said knowledge’ – accuse the Courts of this country of bowing to the will of the political leadership, and failing to protect the Constitution and the implementation of justice.
-
-...
-
-### MR Sees the Reality, Vajira Doesn’t
-
-*2024-01-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/MR-Sees-the-Reality-Vajira-Doesnt/172-275369) · `en`
-
-Apart from the SLFP which seems to be taking every effort to field its leader, former President Maithripala Sirisena at the race for the top most post amidst a leadership crisis and a danger of MPs of the party deserting the leader, three prominent businessmen have also openly entered the fray
-
-...
-
-### Duminda’s Conviction, Gotabaya’s Pardon and the Supreme Court Ruling
-
-*2024-01-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Dumindas-Conviction-Gotabayas-Pardon-and-the-Supreme-Court-Ruling/172-275393) · `en`
-
-Nandasena Gotabaya Rajapaksa was portrayed as a monument of efficiency who could uplift Sri Lanka by his ‘Viyathmaga’ cronies and his family party the Sri Lanka Podujana Peramuna (SLPP) at the Presidential elections of 2019. More than 6.9 million people voted him to stupendous success,
-
-...
-
-### 2024-01-19 (Friday)
-
-### Russian Federation extends support with $ 1.5 m sunflower oil donation to Sri Lanka
-
-*2024-01-19 23:39:30* · [`dailyftlk`](https://www.ft.lk/news/Russian-Federation-extends-support-with-1-5-m-sunflower-oil-donation-to-Sri-Lanka/56-757545) · `en`
-
-Demonstrating unwavering solidarity, the Russian Federation has extended a substantial donation of $ 1.5 million worth of sunflower oil to Sri Lanka through the United Nations World Food Program (WFP).
-
-The official handover ceremony took place at the Partnership Secretariat for World Food Program Co-operation (PSWFPC) premises in Colombo on Tuesday.
-
-Accordingly the Russian federation has granted 130.41 tons of fortified Sunflower oil through the WFP.
-
-...
-
-### Princess Royal concludes 3-day tour of Colombo, Kandy and Jaffna
-
-*2024-01-19 23:38:35* · [`dailyftlk`](https://www.ft.lk/news/Princess-Royal-concludes-3-day-tour-of-Colombo-Kandy-and-Jaffna/56-757544) · `en`
-
-HRH The Princess Royal and Vice Admiral Sir Tim Laurence completed their tour of Sri Lanka, visiting three provinces in three days, in the first royal overseas tour of 2024.
-
-During her visit she met with a wide range of people from different communities, as well as businesses and charities.
-
-...
-
-### High Commissioner’s visit to Kandy underscores expanse of India-Sri Lanka relations
-
-*2024-01-19 23:35:12* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-s-visit-to-Kandy-underscores-expanse-of-India-Sri-Lanka-relations/56-757543) · `en`
-
-High Commissioner of India Santosh Jha visited Kandy on 18 January.
-
-...
-
-### LKI Executive Director chairs panel on ‘Sri Lanka as a Destination: From Antiquity to Modernity’
-
-*2024-01-19 23:33:50* · [`dailyftlk`](https://www.ft.lk/news/LKI-Executive-Director-chairs-panel-on-Sri-Lanka-as-a-Destination-From-Antiquity-to-Modernity/56-757542) · `en`
-
-The Lakshman Kadirgamar Institute (LKI) hosted a panel discussion ‘Sri Lanka as a Destination: From Antiquity to Modernity’ as part of its outreach activities to promote ‘Cultural Diplomacy’ in Koggala on Saturday (13 January).
-
-...
-
-### Speaking truth to power: Ethnics in ELT to the fore (Part II of III)
-
-*2024-01-19 23:31:22* · [`dailyftlk`](https://www.ft.lk/columns/Speaking-truth-to-power-Ethnics-in-ELT-to-the-fore-Part-II-of-III/4-757541) · `en`
-
-In trying times, it is theatre’s duty – and its privilege – to step up to the plate, where other actors in civil society have dropped the ball in terms of finding an alternative to our much needed ‘right of recall’
-
-For a while now, it would seem English-Language Theatre (ELT) in Sri Lanka has neglected its greater potential as a vehicle to engage critically with civics and government in the larger national interest.
-
-...
-
-### All stalled development projects to commence in February - Bandula
-
-*2024-01-19 23:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96556/all-stalled-development-projects-to-commence-in-february-bandula) · `en`
-
-Development projects are set to commence in February, following the finalization of agreements related to the debt restructuring and ongoing discussions with foreign creditors of Sri Lanka, according to Dr. Bandula Gunawardena, the Minister of Transport, Highways, and Mass Media.
-
-...
-
-### Online Safety Bill: A Trojan Horse
-
-*2024-01-19 23:26:42* · [`dailyftlk`](https://www.ft.lk/opinion/Online-Safety-Bill-A-Trojan-Horse/14-757540) · `en`
-
-The Online Safety Bill simply fits into a wider web of laws to restrict freedom of thought and expression with a chilling impact on our democracy
-
-...
-
-### கொழும்பில் இடிந்து விழும் அபாயத்தில் உள்ள கட்டிடங்கள்
-
-*2024-01-19 23:26:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இடிந்து-விழும்-அபாயத்தில்-உள்ள-கட்டிடங்கள்/175-331826) · `ta`
-
-கொழும்பு மாநகர சபைக்குட்பட்ட பகுதியில் பொது மக்கள் வசிக்கும் சில குடியிருப்புகள் பாரியளவு சேதமடைந்து காணப்படுகின்றன.
-
-குறித்த கட்டடங்கள் இடித்து அகற்றப்பட்டு, குடியிருப்பாளர்களுக்கு மாற்று இடங்கள் வழங்கப்படும் என மாநகர சபை நேற்று (18) தெரிவித்திருந்தது.
-
-எனினும், ஏற்கனவே வீடுகளைப் பெற்ற சிலர் பல்வேறு காரணங்களைக் கூறி அந்த இடங்களை விட்டு இன்னும் வெளியேறவில்லை என தெரிவிக்கப்படுகிறது.
-
-...
-
-### NPP not expecting to legalize prostitution: Harini
-
-*2024-01-19 22:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-not-expecting-to-legalize-prostitution-Harini/108-275371) · `en`
-
-Colombo, Jan 19 (Daily Mirror) -  The National People's Power (NPP) was not expecting to legalize prostitution and that it would only amend some laws which inconvenience those who were forced to prostitution due to economic hardships, NPP MP Harini Amarasuriya said today.
-
-She told the Daily Mirror that the main focus of the NPP was to revive the economy of the country as  economic hardships had forced women into prostitution.
-
-...
-
-### ‘Revise Anti-Terrorism Bill’: UN human rights office urges Sri Lankan authorities
-
-*2024-01-19 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96555/revise-anti-terrorism-bill-un-human-rights-office-urges-sri-lankan-authorities) · `en`
-
-The UN human rights office has urged the Sri Lankan authorities to revise the Anti-Terrorism Bill and to bring it fully into line with the island’s international human rights obligations.
-
-In a statement published on Friday (Jan.19), the Office of the High Commissioner for Human Rights (OHCHR) raised deep concerns about the proposed Bill, which is currently being considered in the Sri Lankan parliament to replace the Prevention of Terrorism Act (PTA).
-
-...
-
-### Japan’s ‘Moon Sniper’ makes historic Moon landing
-
-*2024-01-19 21:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japans-Moon-Sniper-makes-historic-Moon-landing/108-275376) · `en`
-
-Japna, Jan 19 -  Japan on Friday landed its precise “Moon Sniper” rover on the Moon, and its space agency is checking data to confirm the landing’s success, a potentially historic achievement that could see it join a select group of just four other countries, as nations and private companies race to stake a claim in the emerging space economy.
-
-...
-
-### அணிசேரா அமைப்பின் ஊடாக சிறந்த உலகை உருவாக்க வேண்டும்
-
-*2024-01-19 21:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அணிசேரா-அமைப்பின்-ஊடாக-சிறந்த-உலகை-உருவாக்க-வேண்டும்/175-331813) · `ta`
-
-டிஜிட்டல் பிரிவினை மற்றும் பெரும் அழிவுக்கு வழிவகுக்கும் ஆயுதங்கள் வாயிலாக, அணிசேரா அமைப்பில் அங்கம் வகிக்கும் உலகின் வளர்ந்துவரும் நாடுகள் மற்றும் அபிவிருத்தி அடைந்த நாடுகள் மத்தியில் பெரும் சமநிலை அற்ற தன்மை உருவாகியுள்ளது என்றும், அதனால் சிறந்த உலகை உருவாக்க வலுவான மற்றும் ஒன்றிணைந்த அணிசேரா அமைப்பின் ஊடாக மேற்படி பிரச்சினைகளுக்கு விரைவில் தீர்வை எட்ட வேண்டும் என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
-
-...
-
-### Extended Fund Facility agreement has to be amended: Sajith informs IMF
-
-*2024-01-19 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extended-Fund-Facility-agreement-has-to-be-amended-Sajith-informs-IMF/108-275366) · `en`
-
-Colombo, Jan 19 (Daily Mirror) -  Leader of the Opposition Sajith Premadasa informed a group of IMF officials  that the Extended Fund Facility (EFF) agreement which their organization has signed with the Sri Lankan government has to be amended and a Samagi Jana Balawegaya (SJB) government will do so in the future.
-
-...
-
-### Japan’s precision moon probe ‘appears to have landed’
-
-*2024-01-19 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96554/japans-precision-moon-probe-appears-to-have-landed) · `en`
-
-The Japan Aerospace Exploration Agency (JAXA) on Friday said its Smart Lander for Investigating the Moon (SLIM) appeared to have landed on the lunar surface.
-
-SLIM, also known as the “moon sniper,” is attempting a highly precise landing — within 100 metres (about 330 feet) of its target compared with a conventional accuracy of several kilometers.
-
-The 20-minute descent was set to begin at 1500 GMT/UTC on Friday.
-
-...
-
-### IMF Presses for Progress in Sri Lanka’s Debt Deals
-
-*2024-01-19 20:53:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/imf-presses-for-progress-in-sri-lanka-s-debt-deals/) · `en`
-
-COLOMBO (News 1st); Sri Lanka's efforts to restructure its crippling debt face critical hurdles as the International Monetary Fund (IMF) pushes for concrete agreements with creditors ahead of the program's second review. While acknowledging commendable progress, IMF officials highlighted unfinished business with both official and private lenders, posing potential roadblocks to economic recovery.
-
-...
-
-### Southbeach Weligama, Silver Sponsor at Galle Literary Festival 2024
-
-*2024-01-19 20:49:00* · [`islandlk`](http://island.lk/southbeach-weligama-silver-sponsor-at-galle-literary-festival-2024/) · `en`
-
-...
-
-### Jaffna Int’l Trade Fair 2024 opens
-
-*2024-01-19 20:49:00* · [`islandlk`](http://island.lk/jaffna-intl-trade-fair-2024-opens/) · `en`
-
-The Jaffna International Trade Fair 2024, a transformative annual event that has played a pivotal role in fostering economic growth and community development in Sri Lanka’s Northern Province, is back with its 14th edition.
-
-...
-
-### UN: Sri Lanka’s Anti-Terror Bill “Perpetuates Past Horrors”
-
-*2024-01-19 20:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/un-sri-lanka-s-anti-terror-bill-perpetuates-past-horrors/) · `en`
-
-COLOMBO (News 1st); The United Nations Human Rights Office has expressed serious concerns over the revised Anti-Terrorism Bill currently under consideration by the Sri Lankan parliament.
-
-The United Nations Human Rights Office in a statement said that Sri Lanka's Anti-Terrorism Bill, intended to replace the draconian Prevention of Terrorism Act (PTA), has been denounced for perpetuating past human rights violations and failing to uphold international standards.
-
-...
-
-### Rs. 2.2 Mn cash recovered from Ganemulla Sanjeewa’s accomplice’s house
-
-*2024-01-19 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rs-2-2-Mn-cash-recovered-from-Ganemulla-Sanjeewas-accomplices-house/108-275367) · `en`
-
-Udugampola, Jan 19 (Daily Mirror) -  A narcotics team uncovered Rs.2.2 million cash hidden in an underground bunker at a house in Udugampola, suspected to belong to an accomplice of underworld criminal Ganemulla Sanjeewa.
-
-Sanjeewa is currently detained by the police at the Weeragula Police Station, and the house is also linked to organized criminal 'Patta Manju,' who is involved in drug trafficking and crimes while being overseas.
-
-...
-
-### Vogue Jewellers unveils exclusive investment path
-
-*2024-01-19 20:14:00* · [`islandlk`](http://island.lk/vogue-jewellers-unveils-exclusive-investment-path/) · `en`
-
-In Sri Lanka, one asset class in particular has stood the test of time – and that is gold. Its enduring appeal as a symbol of wealth and stability transcends centuries, making it a timeless choice for anyone looking to invest with the future in mind. Vogue Jewellers, recognizing the intrinsic value of gold, introduces an exclusive opportunity for all Sri Lankans with its upcoming OG (Old Gold) promotion in January 2024.
-
-...
-
-### Rs. 2.2mn in cash found inside bunker in Udugampola
-
-*2024-01-19 20:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96553/rs-22mn-in-cash-found-inside-bunker-in-udugampola) · `en`
-
-Police Narcotics Bureau (PNB) officers have found ill-gotten cash amounting to Rs. 2.2 million inside an underground bunker at a house located in Udugampola.
-
-The house is said to be owned by a close associated of an accomplice of the notorious criminal figure ‘Ganemulla Sanjeewa’ who is in custody under detention orders.
-
-...
-
-### Gaza destruction risks lost generation of children, says UN official
-
-*2024-01-19 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gaza-destruction-risks-lost-generation-of-children-says-UN-official/108-275365) · `en`
-
-Gaza, Jan 19 (Daily Mirror) -  This week Al Israa University became the latest major public building in Gaza to disappear from the map, blown up and destroyed by Israeli forces who had reportedly used it as a military base for several weeks.
-
-The war in Gaza has already let to an unprecedented loss of life, but there's also growing concern about the destruction of public and private buildings.
-
-...
-
-### Karapitiya hospital’s senior oncologist decides to retire after assault accusations
-
-*2024-01-19 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96552/karapitiya-hospitals-senior-oncologist-decides-to-retire-after-assault-accusations-) · `en`
-
-The Senior Oncologist of the Karapitiya Teaching Hospital Dr. Krishantha Perera, who was disappointed by the recent incident at the hospital, has decided to retire voluntarily.
-
-His letter of retirement has already been handed over to the Ministry of Health, the Government Medical Officers Association (GMOA) said.
-
-...
-
-### இந்தியா வாழ் இலங்கை அகதிகளுக்கு உலக அங்கீகாரமிக்க கடவுச்சீட்டு
-
-*2024-01-19 19:16:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-வாழ்-இலங்கை-அகதிகளுக்கு-உலக-அங்கீகாரமிக்க-கடவுச்சீட்டு/175-331812) · `ta`
-
-சுமார் 40 ஆண்டுகளுக்கு மேலாக தமிழகத்தில் தஞ்சம் புகுந்து அகதிவாழ்க்கை வாழ்ந்துவரும் இலங்கை வடக்கு - கிழக்கைச் சேர்ந்த அகதிகளுக்கு, ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வழிகாட்டுதலின் கீழ் சர்வதேச கடவுச்சீட்டு இன்று (19) சென்னையில் வழங்கி வைக்கப்பட்டது என கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் தெரிவித்தார்.
-
-...
-
-### யாழில் மேலும் இருவர் டெங்குக்கு பலி
-
-*2024-01-19 19:08:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-மேலும்-இருவர்-டெங்குக்கு-பலி/71-331811) · `ta`
-
-கொக்குவில் பகுதியில் மயங்கி விழுந்த, அரியாலை பகுதியை சேர்ந்த செல்வராசா சிந்துஜன் (வயது 31) எனும் இளைஞனை மீட்டு , யாழ்ப்பாண போதனா வைத்தியசாலைக்கு கொண்டு சென்ற போது, அவர் உயிரிழந்தார்.
-
-இதேவேளை முல்லைத்தீவு மல்லாவி பகுதியை சேர்ந்த ஒருவர், டெங்கு நோய் தீவிரமான நிலையில் யாழ்ப்பாணம் போதனா வைத்தியசாலையில் சிகிச்சை பெற்று வந்த நிலையில் , சிகிச்சை பலனின்றி உயிரிழந்தார். R
-
-◼️

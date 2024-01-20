@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 20:32:42**
+As of **2024-01-20 20:49:39**
 
 ## Newspaper Stats
 
-*Scraped **1,437** Articles*
+*Scraped **1,442** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,19 +19,96 @@ virakesarilk | 128
 dailyftlk | 150
 adalk | 160
 dailymirrorlk | 164
-adaderanalk | 176
-tamilmirrorlk | 180
+adaderanalk | 180
+tamilmirrorlk | 181
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-0 (0.0%) of 1,437 articles have been extended.
+0 (0.0%) of 1,442 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
 
+### பெண்ணின் உள்ளாடைக்குள் வெடிபொருட்கள்...
+
+*2024-01-20 20:21:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணின்-உள்ளாடைக்குள்-வெடிபொருட்கள்/175-331849) · `ta`
+
+கொட்டவெஹர பலுகஸ் சந்தியில் வீதித் தடைகளை அமைத்து மேற்கொள்ளப்பட்ட சோதனையின் போது, உள்ளாடையில் வெடிபொருட்களை மறைத்து வைத்திருந்த பெண்ணொருவரை கொட்டவெஹர பொலிஸார் கைது செய்துள்ளனர்.
+
+பொலிஸ் விசேட அதிரடிப்படையினருடன் இணைந்து நேற்று (19)  கொட்டவெஹர, பலுகஸ் சந்தி பகுதியில் பொலிஸ் மோப்ப நாய்களை பயன்படுத்தி நீண்ட தூர சேவை பஸ்களை பொலிஸார் சோதனையிட்டனர்.
+
+...
+
+[Data](articles/55f103c9.json)
+
+[Extended Data](ext_articles/55f103c9.ext.json)
+
+---
+### Prices of imported eggs to increase
+
+*2024-01-20 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96579/prices-of-imported-eggs-to-increase-) · `en`
+
+The prices of eggs imported from India are slated to be increased with effect from 21 January, Trade Minister Nalin Fernando revealed.
+
+According to the Minister, these eggs will be retailed at Rs. 43 per egg at all Sathosa outlets countrywide.
+
+Imported eggs were previously retailed at Rs. 35 per egg, while a carton was sold at Rs. 40 per egg at all Lanka Sathosa outlets.
+
+...
+
+[Data](articles/5e0603ad.json)
+
+[Extended Data](ext_articles/5e0603ad.ext.json)
+
+---
+### Sri Lanka, Nepal explore avenues to further promote cultural and religious relations
+
+*2024-01-20 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96578/sri-lanka-nepal-explore-avenues-to-further-promote-cultural-and-religious-relations) · `en`
+
+The official meeting between President Ranil Wickremesinghe and Prime Minister of Nepal, Pushpa Kamal Dahal took place today (Jan.20) in Kampala, Uganda, in conjunction with the 19th Non-Aligned Movement (NAM) Summit 2024.
+
+...
+
+[Data](articles/58005087.json)
+
+[Extended Data](ext_articles/58005087.ext.json)
+
+---
+### 32 Indian fishermen held by Sri Lanka Navy released
+
+*2024-01-20 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96577/32-indian-fishermen-held-by-sri-lanka-navy-released) · `en`
+
+The Sri Lankan court on Friday released 32 fishermen from Tamil Nadu who were apprehended by the Sri Lankan Navy.
+
+“Repatriated safely! A group of 32 Indian fishermen board for their flight back to India from Colombo,” the High Commission of India in Colombo posted on X.
+
+...
+
+[Data](articles/f98cf05b.json)
+
+[Extended Data](ext_articles/f98cf05b.ext.json)
+
+---
+### India’s Jaishankar calls on President Ranil, appreciates bilateral initiatives
+
+*2024-01-20 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96576/indias-jaishankar-calls-on-president-ranil-appreciates-bilateral-initiatives) · `en`
+
+External Affairs Minister S Jaishankar on January 20 called on Sri Lankan President Ranil Wickremesinghe and discussed the progress of bilateral initiatives.
+
+Mr. Jaishankar is in the Ugandan capital city of Kampala to represent India at the two-day summit of the Non-Aligned Movement (NAM), which began on Friday.
+
+“Pleased to call on Sri Lankan President @RW_UNP on the sidelines of the NAM Summit in Kampala,” Mr. Jaishankar posted on X.
+
+...
+
+[Data](articles/c87114d6.json)
+
+[Extended Data](ext_articles/c87114d6.ext.json)
+
+---
 ### Rs. 1.6bn worth of heroin recovered from intercepted fishing trawlers
 
 *2024-01-20 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96575/rs-16bn-worth-of-heroin-recovered-from-intercepted-fishing-trawlers-) · `en`
@@ -1519,82 +1596,5 @@ The International Monetary Fund said in Colombo yesterday that authorities need 
 [Data](articles/9a52abea.json)
 
 [Extended Data](ext_articles/9a52abea.ext.json)
-
----
-### IMF applauds Central Bank’s triumphs over inflation but urges prudent policy ahead
-
-*2024-01-20 04:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-applauds-Central-Banks-triumphs-over-inflation-but-urges-prudent-policy-ahead/108-275400) · `en`
-
-Says it remains important for Sri Lanka to continue rebuilding external buffers through strong reserve accumulation
-
-Calls on authorities to “urgently finalise” amendments to Banking Act, in line with their commitment to IMF-supported programme
-
-Leveraging the effectiveness of the Central Bank of Sri Lanka on the control over inflation, the International Monetary Fund (IMF) emphasised the importance of maintaining a prudent approach in future monetary policy decisions.
-
-...
-
-[Data](articles/0daed3ab.json)
-
-[Extended Data](ext_articles/0daed3ab.ext.json)
-
----
-### Sajith requests speaker to postpone Online Safety Bill
-
-*2024-01-20 03:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-requests-speaker-to-postpone-Online-Safety-Bill/108-275378) · `en`
-
-Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a letter addressed to Speaker Mahinda Yapa Abeywardene has requested him to postpone the debate on the Online Safety Bill which is to be taken up for debate next week.
-
-...
-
-[Data](articles/59b2b7fb.json)
-
-[Extended Data](ext_articles/59b2b7fb.ext.json)
-
----
-### ඩෙල්ෆ්: අඩු වියදමකින් විවේකය ගත කළ හැකි සුන්දර සංචාරක ගමනාන්තයක් වෙත යමුද?
-
-*2024-01-20 03:00:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72y0ldxq3lo) · `si`
-
-ඩෙල්ෆ්: අඩු වියදමකින් විවේකය ගත කළ හැකි සුන්දර සංචාරක ගමනාන්තයක් වෙත යමුද?
-
-කාර්යබහුල හා  ඒකාකාරී ජීවිතයට විවේකය යනු අත්‍යවශ්‍යම දෙයකි. එවැනි විවේකයන්, ස්වභාව සෞන්දර්යයෙන් අනූන මෙන් ම, සිය සුපුරුදු පරිසරයෙන් තරමක් වෙනස් ප්‍රදේශයකට වී ගත කිරීමට බොහෝ දෙනෙක් කැමති වනවාට සැකයක් නැත.
-
-නමුත් වර්තමානයේ ශ්‍රී ලංකාවේ දී එවැනි විවේකයක් සඳහා දැරීමට සිදුවන අධික මිල, එවැනි විවේකයක් අවශ්‍ය පුද්ගලයන්ට අමතර පීඩනයක් එක් කිරීමක් බවට පත් වී තිබේ.
-
-...
-
-[Data](articles/b60a0cc5.json)
-
-[Extended Data](ext_articles/b60a0cc5.ext.json)
-
----
-### சட்டமூலத்தை மீளப்பெறுமாறு வலியுறுத்தல்
-
-*2024-01-20 02:57:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலத்தை-மீளப்பெறுமாறு-வலியுறுத்தல்/175-331832) · `ta`
-
-பயங்கரவாத எதிர்ப்பு சட்டமூலத்தை உடனடியாக மீளப்பெறுமாறு ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவை இலங்கை அரசாங்கத்தை வலியுறுத்தியுள்ளது.
-
-இலங்கை அரசாங்கம் முன்வைத்துள்ள பயங்கரவாத எதிர்ப்பு சட்டமூலம் தொடர்பில் ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவை அதீத கவனம் செலுத்தியுள்ளதாக ஐக்கிய நாடுகள் மனித உரிமைகள் ஆணையாளர் நாயகத்தின் ஊடகப்பேச்சாளர் ராவின் ஷம்டாசனி அறிக்கையொன்றை வெளியிட்டு தெரிவித்துள்ளார்.
-
-...
-
-[Data](articles/66a016e4.json)
-
-[Extended Data](ext_articles/66a016e4.ext.json)
-
----
-### பெப்ரவரி முதலாம் திகதி முதல் பணிப்பகிஷ்கரிப்பு
-
-*2024-01-20 02:50:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-முதலாம்-திகதி-முதல்-பணிப்பகிஷ்கரிப்பு/175-331831) · `ta`
-
-மருத்துவர்களுக்கு வழங்கப்பட்ட 35 ஆயிரம் ரூபா கொடுப்பனவை வழங்குமாறு கோரி 72 சுகாதார தொழிற்சங்கங்களால் எதிர்வரும் முதலாம் திகதி முதல் நாடளாவிய ரீதியில் பணிப்பகிஷ்கரிப்பு ஆரம்பிக்கப்படவுள்ளது.
-
-சுகாதார தொழிற்சங்க கூட்டமைப்பினர் பிரதிநிதிகளுக்கிடையில்  இடம்பெற்ற கலந்துரையாடலின் போதே இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
-
-...
-
-[Data](articles/98218b92.json)
-
-[Extended Data](ext_articles/98218b92.ext.json)
 
 ---

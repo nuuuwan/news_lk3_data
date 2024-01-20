@@ -1,25 +1,31 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 16:17:05**
+As of **2024-01-20 16:23:46**
 
 ## Newspaper Stats
 
 *Scraped **1,387** Articles*
 
-newspaper | n | 🟩 ≈ 10
---- | ---: | :---
-colombotelegraphcom | 24 | 🟩🟩 
-bbccomsinhala | 36 | 🟩🟩🟩🟩 
-islandlk | 82 | 🟩🟩🟩🟩🟩🟩🟩🟩 
-newsfirstlk | 92 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-economynextcom | 98 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dbsjeyarajcom | 117 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-virakesarilk | 128 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailyftlk | 150 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adalk | 160 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-dailymirrorlk | 161 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-adaderanalk | 165 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
-tamilmirrorlk | 174 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 
+newspaper | n
+--- | ---:
+colombotelegraphcom | 24
+bbccomsinhala | 36
+islandlk | 82
+newsfirstlk | 92
+economynextcom | 98
+dbsjeyarajcom | 117
+virakesarilk | 128
+dailyftlk | 150
+adalk | 160
+dailymirrorlk | 161
+adaderanalk | 165
+tamilmirrorlk | 174
+
+## Data Extension Stats
+
+Extensions include translations and NER (Named Entity Recognition).
+
+1,387 (100.0%) of 1,387 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -27,7 +33,7 @@ tamilmirrorlk | 174 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 
 ### බුද්ධි තොරතුරකින් රු. කෝටියක බීඩි කොල අත්අඩංගුවට
 
-*2024-01-20 15:30:11* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-තොරතුරකින්-රු--කෝටියක-බීඩි-කොල-අත්අඩංගුවට/11-407632) 
+*2024-01-20 15:30:11* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-තොරතුරකින්-රු--කෝටියක-බීඩි-කොල-අත්අඩංගුවට/11-407632) · `si`
 
 යුද හමුදා බුද්ධි තොරතුරක් අනුව ඉන්දියාවේ සිට නීතිවිරෝධී අයුරින් ශ්‍රී ලංකාවට ගෙන්වන ලද බවට සැක කෙරෙන බීඩි කොල කිලෝ ග්‍රෑම් 2170ක් අත්අඩංගුවට ගැනීමට යුද්ධ හමුදා බුද්ධි අංශය හා මීගමුව අපරාධ කොට්ඨාසයේ මත්ද්‍රව්‍ය නාශක අංශය සමත්ව තිබේ.
 
@@ -37,7 +43,7 @@ tamilmirrorlk | 174 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 
 ### திருச்சி ஸ்ரீரங்கம் கோவிலுக்கு விஜயம் செய்த முதல் இந்திய பிரதமர் மோடி
 
-*2024-01-20 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/174389) 
+*2024-01-20 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/174389) · `ta`
 
 தமிழ்நாட்டுக்கு மூன்று நாள் சுற்றுப்பயணம் மேற்கொண்டுள்ள இந்திய பிரதமர் நரேந்திர மோடி இன்று சனிக்கிழமை (20) திருச்சி ஸ்ரீரங்கம் ரங்கநாதர் கோவிலுக்கு விஜயம் செய்துள்ளார்.
 
@@ -49,7 +55,7 @@ tamilmirrorlk | 174 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 
 ### හෙරොයින් කිලෝ 60ක් නාවික හමුදා භාරයට
 
-*2024-01-20 15:00:35* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-කිලෝ-60ක්-නාවික-හමුදා-භාරයට/11-407631) 
+*2024-01-20 15:00:35* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-කිලෝ-60ක්-නාවික-හමුදා-භාරයට/11-407631) · `si`
 
 ශ්‍රී ලංකා නාවික හමුදාව,  දෙවුන්දර තුඩුවේ සිට නාවික සැතපුම් 100 ක් පමණ (කිලෝමීටර් 185 ක් පමණ) දුරින් වූ දකුණු මුහුදු ප්‍රදේශයේ සිදුකල විශේෂ මෙහෙයුමක් මඟින්, හෙරොයින් බවට සැකකෙරෙන මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 60 කට අධික තොගයක් සහිත උර තුනක් (03) ප්‍රවාහනය කරමින් තිබූ මෙරට බහුදින ධීවර යාත්‍රාවක් (01) සහ ඊට සහය වූ බවට සැක කෙරෙන තවත් බහුදින ධීවර යාත්‍රාවක් (01) සමඟ සැකකරුවන් එකොළොස් දෙනෙකු (11) අත්අඩංගුවට ගෙන, අද දින (2024 ජනවාරි 20) උදෑසන ගාල්ල වරාය වෙත රැගෙන ඒමට කටයුතු කෙරිණි.
 
@@ -57,7 +63,7 @@ tamilmirrorlk | 174 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 
 ### மன்னாரில் கோர விபத்தை ஏற்படுத்திய சாரதியை காப்பாற்றிய பொலிஸார்?
 
-*2024-01-20 14:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-கோர-விபத்தை-ஏற்படுத்திய-சாரதியை-காப்பாற்றிய-பொலிஸார்/72-331843) 
+*2024-01-20 14:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-கோர-விபத்தை-ஏற்படுத்திய-சாரதியை-காப்பாற்றிய-பொலிஸார்/72-331843) · `ta`
 
 மன்னார் - யாழ்ப்பாணம் பிரதான வீதி, பள்ளமடு பகுதியில் நேற்று(19) இரவு 7.30 மணியளவில் இடம்பெற்ற விபத்தில் இளம் குடும்பஸ்தர் ஒருவர் சம்பவ இடத்திலேயே உயிரிழந்ததுடன், மேலும் ஒருவர் படுகாயமடைந்துள்ளார்.
 
@@ -67,7 +73,7 @@ tamilmirrorlk | 174 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 
 ### மின்சார சபை ஊழியர்கள் 66 பேர் பணி நீக்கம்
 
-*2024-01-20 14:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-ஊழியர்கள்-66-பேர்-பணி-நீக்கம்/175-331842) 
+*2024-01-20 14:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-ஊழியர்கள்-66-பேர்-பணி-நீக்கம்/175-331842) · `ta`
 
 மின்சார சபையில் பணிநீக்கம் செய்யப்பட்ட ஊழியர்களின் எண்ணிக்கை 15 இலிருந்து 66 ஆக உயர்வடைந்துள்ளது.
 
@@ -77,7 +83,7 @@ tamilmirrorlk | 174 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩�
 
 ### Acting IGP directs police not to stop vehicles while they are in civilian attire
 
-*2024-01-20 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Acting-IGP-directs-police-not-to-stop-vehicles-while-they-are-in-civilian-attire/108-275414) 
+*2024-01-20 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Acting-IGP-directs-police-not-to-stop-vehicles-while-they-are-in-civilian-attire/108-275414) · `en`
 
 Acting Inspector General of Police, Deshabandu Thennakoon has issued a fresh set of instructions to all police stations, directing them not to halt vehicles for inspections when officers are in civilian clothes while on duty.
 
@@ -87,7 +93,7 @@ These new guidelines were distributed to all police stations yesterday.
 
 ### Update: Over 60 kgs of heroin seized by Navy off Dondra Point
 
-*2024-01-20 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Over-60-kgs-of-heroin-seized-by-Navy-off-Dondra-Point/108-275413) 
+*2024-01-20 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Over-60-kgs-of-heroin-seized-by-Navy-off-Dondra-Point/108-275413) · `en`
 
 In a special operation conducted by the Sri Lanka Navy on the southern sea area off Dondra Point, two multi-day trawlers suspected of transporting over 60 kgs of drugs, believed to be heroin, were siezed along with eleven suspects.
 
@@ -97,7 +103,7 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 
 ### காசாவில் மரணித்தவர்களையும் நிம்மதி இழக்கச்செய்யும் இஸ்ரேலிய படையினர் – 16 மயானங்கள் அழிப்பு – சிஎன்என்
 
-*2024-01-20 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174386) 
+*2024-01-20 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174386) · `ta`
 
 காசாவில் இஸ்ரேலிய படையினர் 16க்கும் மேற்பட்ட மயானங்களை அழித்துள்ளதை காண்பிக்கும் வீடியோக்கள் கிடைத்துள்ளதாக சிஎன்என் தெரிவித்துள்ளது
 
@@ -109,7 +115,7 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 
 ### துப்பாக்கி பிரயோகத்தில் உயிரிழந்த சாரதிக்கு இழப்பீடு
 
-*2024-01-20 12:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-உயிரிழந்த-சாரதிக்கு-இழப்பீடு/175-331841) 
+*2024-01-20 12:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-உயிரிழந்த-சாரதிக்கு-இழப்பீடு/175-331841) · `ta`
 
 பொலிஸ் உத்தியோகத்தரின் துப்பாக்கி பிரயோகத்தில் உயிரிழந்த லொறி சாரதியின் உறவினர்களுக்கு ஒரு மில்லியன் ரூபாய் நட்ட ஈட்டை பொலிஸார் வழங்கியுள்ளனர்.
 
@@ -121,7 +127,7 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 
 ### ஆரம்ப பாடசாலையில் தீ விபத்து: 13 பேர் பலி
 
-*2024-01-20 12:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆரம்ப-பாடசாலையில்-தீ-விபத்து-13-பேர்-பலி/175-331840) 
+*2024-01-20 12:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆரம்ப-பாடசாலையில்-தீ-விபத்து-13-பேர்-பலி/175-331840) · `ta`
 
 சீனாவின் மத்திய ஹெனான் மாகாணத்தில் உள்ள ஆரம்ப பள்ளி மாணவர்களுக்கான விடுதியில் ஏற்பட்ட தீ விபத்தில் 13 மாணவர்கள் உயிரிழந்ததாக சீன அரசு ஊடகம் தெரிவித்துள்ளது.
 
@@ -133,7 +139,7 @@ Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila 
 
 ### NIA files supplementary charge sheet against 4 in Sri Lankan human trafficking case
 
-*2024-01-20 12:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NIA-files-supplementary-charge-sheet-against-4-in-Sri-Lankan-human-trafficking-case/108-275412) 
+*2024-01-20 12:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NIA-files-supplementary-charge-sheet-against-4-in-Sri-Lankan-human-trafficking-case/108-275412) · `en`
 
 Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed a supplementary charge sheet against four accused in a 2021 case relating to human trafficking of 39 Sri Lankan nationals into India on the pretext of taking them to Canada, an official statement said.
 
@@ -141,7 +147,7 @@ Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed 
 
 ### இலங்கை அரசாங்கம் உத்தேச நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை விலக்கிக்கொள்ள வேண்டும் - ஐம்பதிற்கும் மேற்பட்ட சர்வதேச அமைப்புகள் கூட்டாக வேண்டுகோள்
 
-*2024-01-20 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174382) 
+*2024-01-20 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174382) · `ta`
 
 இலங்கை அரசாங்கம் உத்தேச நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை விலக்கிக்கொள்ளவேண்டும் என பத்திரிகையாளர்களை பாதுகாப்பதற்கான குழு உட்பட ஐம்பதிற்கும் மேற்பட்ட சர்வதேச அமைப்புகள் கூட்டாக வேண்டுகோள் விடுத்துள்ளன.
 
@@ -149,7 +155,7 @@ Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed 
 
 ### கடை எரிக்க 12 இலட்சம் ; வாகனம் எரிக்க 7 இலட்சம் - யாழில் அட்டகாசம்
 
-*2024-01-20 11:43:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கடை-எரிக்க-12-இலட்சம்-வாகனம்-எரிக்க-7-இலட்சம்-யாழில்-அட்டகாசம்/71-331839) 
+*2024-01-20 11:43:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கடை-எரிக்க-12-இலட்சம்-வாகனம்-எரிக்க-7-இலட்சம்-யாழில்-அட்டகாசம்/71-331839) · `ta`
 
 யாழ்ப்பாணத்தில் நாசகார செயல்களில் ஈடுபட பெல்ஜியம் நாட்டில் இருந்து 19 இலட்ச ரூபாய் பணம் வழங்கப்பட்டுள்ளமை பொலிஸ் விசாரணைகளில் தெரிய வந்துள்ளது.
 
@@ -161,7 +167,7 @@ Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed 
 
 ### நாரம்மல சம்பவம் - பொலிஸார் முன்னெடுக்கும் விசாரணைகளால் திருப்தியடையமுடியாது – சுயாதீன விசாரணைகள் அவசியம் சாலியபீரிஸ்
 
-*2024-01-20 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174379) 
+*2024-01-20 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174379) · `ta`
 
 பொலிஸாரின் நடவடிக்கைகளால் பொதுமக்கள் உயிரிழப்பது குறித்து சுயாதீன விசாரணைகள் அவசியம் என இலங்கை சட்டத்தரணிகள் சங்கத்தின் முன்னாள் தலைவர் சாலிய பீரிஸ் பிபிசி சிங்கள சேவைக்கு தெரிவித்துள்ளார்.
 
@@ -173,7 +179,7 @@ Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed 
 
 ### நுவரெலியாவில் கரட் விலையில் மாற்றம்?
 
-*2024-01-20 11:31:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-கரட்-விலையில்-மாற்றம்/76-331838) 
+*2024-01-20 11:31:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-கரட்-விலையில்-மாற்றம்/76-331838) · `ta`
 
 கமத்தொழில் அமைச்சின் கீழ் இயங்கும் நுவரெலியா பொருளாதார மத்திய நிலைய பொது சந்தையில் இன்று கொள்வனவு செய்யப்படும் மரக்கறி விலை பட்டியல் தொடர்பாக நுவரெலிய பொருளாதார மத்திய நிலைய காரியாலயம் அறிவித்துள்ளது.
 
@@ -183,7 +189,7 @@ Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed 
 
 ### நோயாளியை தூக்கிக் கொண்டு செல்லும் அவலம்
 
-*2024-01-20 11:28:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நோயாளியை-தூக்கிக்-கொண்டு-செல்லும்-அவலம்/76-331837) 
+*2024-01-20 11:28:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நோயாளியை-தூக்கிக்-கொண்டு-செல்லும்-அவலம்/76-331837) · `ta`
 
 திருகோணமலை பொது வைத்தியசாலையில் நோயாளியை கொண்டு செல்வதற்கு சக்கர நாற்காலி வழங்கப்படாமையால் அவரின் உறவினர்கள் நோயாளியை தூக்கிக் கொண்டு சென்ற சம்பவம் நேற்று (19) இடம்பெற்றுள்ளது.
 
@@ -193,7 +199,7 @@ Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed 
 
 ### Measles catch-up immunization program rolled out for children this weekend
 
-*2024-01-20 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96564/measles-catch-up-immunization-program-rolled-out-for-children-this-weekend) 
+*2024-01-20 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96564/measles-catch-up-immunization-program-rolled-out-for-children-this-weekend) · `en`
 
 Epidemiology Unit of the Health Ministry is continuing its MMR (measles-mumps-rubella) Catch-up Immunization Program for children aged between 9 months and 15 years over this weekend.
 
@@ -205,7 +211,7 @@ Epidemiology Unit says this resulted in a significant increase in the incidence 
 
 ### Sri Lankan Navy nabs trawlers carrying suspected heroin
 
-*2024-01-20 11:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/sri-lankan-navy-nabs-trawlers-carrying-suspected-heroin/) 
+*2024-01-20 11:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/sri-lankan-navy-nabs-trawlers-carrying-suspected-heroin/) · `en`
 
 COLOMBO (News 1st) – A multi-day fishing trawler and a one-day fishing trawler carrying a stock of narcotics suspected to be heroin have been taken into custody by the Navy in the Southern Sea.
 
@@ -217,7 +223,7 @@ The Navy said that the fishing trawlers and the suspects are currently being esc
 
 ### Murky reasons for milk production drop in Sri Lanka
 
-*2024-01-20 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Murky-reasons-for-milk-production-drop-in-Sri-Lanka/108-275411) 
+*2024-01-20 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Murky-reasons-for-milk-production-drop-in-Sri-Lanka/108-275411) · `en`
 
 Parliament, Jan. 20 (Daily Mirror)-  Sri Lanka’s dairy industry is facing a major crisis, with around 14,000 small-scale farms shutting down and milk production declining sharply as revealed yesterday by the Committee on Public Accounts (COPA) in Parliament.
 
@@ -227,7 +233,7 @@ While officials from the State Ministry of Livestock Department blamed the closu
 
 ### 986 more suspects arrested during operation ‘Yukthiya’
 
-*2024-01-20 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96563/986-more-suspects-arrested-during-operation-yukthiya) 
+*2024-01-20 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96563/986-more-suspects-arrested-during-operation-yukthiya) · `en`
 
 A total of 986 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (20 Jan.) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
 
@@ -237,7 +243,7 @@ According to the Ministry of Public Security, a total of 586g of heroin, 180g of
 
 ### Pathfinder calls for streamlining overseas missions
 
-*2024-01-20 10:21:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/pathfinder-calls-for-streamlining-overseas-missions/) 
+*2024-01-20 10:21:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/pathfinder-calls-for-streamlining-overseas-missions/) · `en`
 
 COLOMBO (News 1st) – Founder of the Pathfinder Foundation Milinda Moragoda called Sri Lanka to slash its overstretched network of overseas missions, citing outdated practices and resource constraints in a connected world.
 
@@ -247,7 +253,7 @@ Moragoda advocated a "zero-based budgeting" approach, scrutinizing each mission'
 
 ### 51 more CEB employees interdicted
 
-*2024-01-20 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96562/51-more-ceb-employees-interdicted) 
+*2024-01-20 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96562/51-more-ceb-employees-interdicted) · `en`
 
 A total of 51 more employees of the Ceylon Electricity Board (CEB) have been interdicted for obstructing the services by refusing to accept bill payments from consumers during their three-day protests staged against the proposed restructuring of the state-owned electricity supplier.
 
@@ -257,7 +263,7 @@ CEB trade union members engaged in a series of protests for three days from Janu
 
 ### Two fishing vessels carrying narcotics intercepted off southern coast
 
-*2024-01-20 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96561/two-fishing-vessels-carrying-narcotics-intercepted-off-southern-coast) 
+*2024-01-20 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96561/two-fishing-vessels-carrying-narcotics-intercepted-off-southern-coast) · `en`
 
 Sri Lanka Navy has intercepted two fishing trawlers carrying a cache of narcotics, suspected to be heroin, off the southern coast of the island.
 
@@ -269,7 +275,7 @@ The seized vessels, narcotics consignment and apprehended suspects are being bro
 
 ### Online Safety Bill: Chilling free speech, urge groups
 
-*2024-01-20 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/online-safety-bill-chilling-free-speech-urge-groups/) 
+*2024-01-20 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/online-safety-bill-chilling-free-speech-urge-groups/) · `en`
 
 COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizations in calling on Minister for Public Security Tiran Alles to withdraw the proposed Online Safety Bill and conduct sustained multi-stakeholder consultations, including with civil society and human rights experts.
 
@@ -277,7 +283,7 @@ COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizati
 
 ### Offensive number plate bikers arrested
 
-*2024-01-20 09:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Offensive-number-plate-bikers-arrested/108-275409) 
+*2024-01-20 09:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Offensive-number-plate-bikers-arrested/108-275409) · `en`
 
 Boralesgamuwa, Jan 20 (Daily Mirror) - Traffic police in Boralesgamuwa intercepted a motorcycle displaying a highly offensive Sinhala word P......A in English characters and arrested two young men riding it.
 
@@ -287,7 +293,7 @@ The suspects, both 18-year-olds from Bellanwila, were spotted throughout Borales
 
 ### Japan makes history, becoming fifth country to land spacecraft on moon
 
-*2024-01-20 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96559/japan-makes-history-becoming-fifth-country-to-land-spacecraft-on-moon) 
+*2024-01-20 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96559/japan-makes-history-becoming-fifth-country-to-land-spacecraft-on-moon) · `en`
 
 Japan on Saturday became the fifth country to put a spacecraft on the moon, but solar power issues threatened to cut short the nation’s mission to prove a “precision” landing technology and revitalise a space programme that has suffered setbacks.
 
@@ -295,7 +301,7 @@ Japan on Saturday became the fifth country to put a spacecraft on the moon, but 
 
 ### මත්ද්‍රව්‍ය තොගයක් සමග ධීවර යාත්‍රා දෙකක් අත්අඩංගුවට
 
-*2024-01-20 09:40:35* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-තොගයක්-සමග-ධීවර-යාත්‍රා-දෙකක්-අත්අඩංගුවට/11-407629) 
+*2024-01-20 09:40:35* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍ය-තොගයක්-සමග-ධීවර-යාත්‍රා-දෙකක්-අත්අඩංගුවට/11-407629) · `si`
 
 රාජ්‍ය බුද්ධි සේවාව මඟින් ලද බුද්ධි තොරතුරකට අනුව, නාවික හමුදා බුද්ධි අංශය විසින් සිදුකල විශේෂ මෙහෙයුමක් මඟින් හෙරොයින් බවට සැකකෙරෙන මත්ද්‍රව්‍ය තොගයක් රැගත් මෙරට බහුදින ධීවර යාත්‍රාවක් සහ එක් දින යාත්‍රාවක් දකුණු මුහුදේදී අත්අඩංගුවට ගත් බව නාවික හමුදාව නිවේදනය කරයි.
 
@@ -305,7 +311,7 @@ Japan on Saturday became the fifth country to put a spacecraft on the moon, but 
 
 ### SL Navy intercepts multiday and fishing trawlers with heroin on Southern Seas
 
-*2024-01-20 09:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Navy-intercepts-multiday-and-fishing-trawlers-with-heroin-on-Southern-Seas/108-275408) 
+*2024-01-20 09:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SL-Navy-intercepts-multiday-and-fishing-trawlers-with-heroin-on-Southern-Seas/108-275408) · `en`
 
 Galle, Jan 20 (Daily Mirror) - Following a special operation mounted by the Sri Lanka Navy Intelligence, on receipt of information from the State Intelligence Service, a local multiday fishing trawler and a one-day fishing trawler with a stock of narcotics, suspected to be heroin, have been intercepted on the Southern seas.
 
@@ -315,7 +321,7 @@ The Navy said the seized trawlers and suspects aboard are being escorted to the 
 
 ### අදත් වැස්ස
 
-*2024-01-20 09:35:15* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-වැස්ස/11-407628) 
+*2024-01-20 09:35:15* · [`adalk`](https://www.ada.lk/breaking_news/අදත්-වැස්ස/11-407628) · `si`
 
 නැහෙනහිර හා ඌව පළාත්වලත් පොළාන්නරුව හා මාතලේ දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවෙන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
 
@@ -325,7 +331,7 @@ The Navy said the seized trawlers and suspects aboard are being escorted to the 
 
 ### Operation Yukthiya nets 986 in 24 hours
 
-*2024-01-20 09:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/operation-yukthiya-nets-986-in-24-hours/) 
+*2024-01-20 09:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/operation-yukthiya-nets-986-in-24-hours/) · `en`
 
 COLOMBO (News 1st) – 986 more suspects have been apprehended in the past 24 hours.
 
@@ -339,7 +345,7 @@ Police say that drugs including 586 grams of Heroin and 180 grams of ICE in poss
 
 ### Minister of Agriculture warns of another vegetable shortage
 
-*2024-01-20 09:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/minister-of-agriculture-warns-of-another-vegetable-shortage/) 
+*2024-01-20 09:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/minister-of-agriculture-warns-of-another-vegetable-shortage/) · `en`
 
 COLOMBO (News 1st) – Minister of Agriculture and Plantation Industries, Mahinda Amaraweera says that even if the current shortage of vegetables will end in the near future, there may be another shortage of vegetables by the month of June.
 
@@ -349,7 +355,7 @@ The minister says that the main reason for this is the possible occurrence of a 
 
 ### Sri Lanka Police awards Rs. 1 million compensation to family of lorry driver
 
-*2024-01-20 09:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Police-awards-Rs-1-million-compensation-to-family-of-lorry-driver/108-275407) 
+*2024-01-20 09:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Police-awards-Rs-1-million-compensation-to-family-of-lorry-driver/108-275407) · `en`
 
 Colombo, Jan 20 (Daily Mirror) - The Sri Lanka Police provided a compensation of Rs. 1 million to the family of a lorry driver who lost his life in the shooting incident in Narammala.
 
@@ -361,7 +367,7 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 
 ### சாரதி மரணம்; அதிகாரிகளின் பதவி பறிப்பு
 
-*2024-01-20 09:01:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-மரணம்-அதிகாரிகளின்-பதவி-பறிப்பு/175-331836) 
+*2024-01-20 09:01:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-மரணம்-அதிகாரிகளின்-பதவி-பறிப்பு/175-331836) · `ta`
 
 நாரம்மல பிரதேசத்தில் பொலிஸ் உத்தியோகத்தர் ஒருவரின் துப்பாக்கிச் சூட்டில் உயிரிழந்த லொறி சாரதியின் உறவினர்களுக்கு ஒரு மில்லியன் ரூபா நட்டஈட்டை பொலிஸார் வழங்கியுள்ளனர்.
 
@@ -373,13 +379,13 @@ The incident occurred on Thursday night when a 41-year-old lorry driver became t
 
 ### Heartwarming visit to care home residents
 
-*2024-01-20 08:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Heartwarming-visit-to-care-home-residents/110-275406) 
+*2024-01-20 08:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Heartwarming-visit-to-care-home-residents/110-275406) · `en`
 
 ...
 
 ### Afternoon thundershowers possible in 4 provinces today
 
-*2024-01-20 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96558/afternoon-thundershowers-possible-in-4-provinces-today) 
+*2024-01-20 08:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96558/afternoon-thundershowers-possible-in-4-provinces-today) · `en`
 
 Showers will occur at times in Eastern and Uva provinces and Polonnaruwa and Matale districts, the Department of Meteorology said in its weather forecast today (Jan.20).
 
@@ -391,7 +397,7 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ### விரைவில் இலத்திரனியல் கடவுச்சீட்டு
 
-*2024-01-20 08:32:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரைவில்-இலத்திரனியல்-கடவுச்சீட்டு/175-331835) 
+*2024-01-20 08:32:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விரைவில்-இலத்திரனியல்-கடவுச்சீட்டு/175-331835) · `ta`
 
 இலத்திரனியல் கடவுச்சீட்டு விநியோகத்திற்கான ஆரம்பகட்ட நடவடிக்கைகள் பூர்த்தி செய்யப்பட்டுள்ளதாகவும் அவர் கூறியுள்ளார். (N)
 
@@ -399,7 +405,7 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ### நாடு முழுவதும் இரண்டு நாட்களுக்கு தட்டம்மை தடுப்பூசி
 
-*2024-01-20 08:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-முழுவதும்-இரண்டு-நாட்களுக்கு-தட்டம்மை-தடுப்பூசி/175-331834) 
+*2024-01-20 08:27:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-முழுவதும்-இரண்டு-நாட்களுக்கு-தட்டம்மை-தடுப்பூசி/175-331834) · `ta`
 
 அதன்படி, இன்று (20) மற்றும் நாளை (21) ஆகிய நாள்களில்  09 மாத குழந்தை முதல் 15 வயது வரையிலான சிறுவர்களுக்கு தட்டம்மை தடுப்பூசி போடப்படும்.
 
@@ -409,7 +415,7 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ### மழை தொடர்பில் வெளியான அறிவிப்பு இதோ!
 
-*2024-01-20 08:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-தொடர்பில்-வெளியான-அறிவிப்பு-இதோ/175-331833) 
+*2024-01-20 08:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மழை-தொடர்பில்-வெளியான-அறிவிப்பு-இதோ/175-331833) · `ta`
 
 கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை மற்றும் மாத்தளை மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக் கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது.
 
@@ -419,7 +425,7 @@ Meanwhile, showers or thundershowers are possible in parts of the Western, Sabar
 
 ### Family of lorry driver killed in Narammala shooting awarded Rs. 1mn
 
-*2024-01-20 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/96557/family-of-lorry-driver-killed-in-narammala-shooting-awarded-rs-1mn) 
+*2024-01-20 08:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/96557/family-of-lorry-driver-killed-in-narammala-shooting-awarded-rs-1mn) · `en`
 
 Sri Lanka Police have handed over Rs. 1 million in compensation to the family of the lorry driver who was killed in the shooting incident in Narammala.
 
@@ -431,7 +437,7 @@ The lorry driver, 40, was killed on Thursday night (Jan.18) after a police offic
 
 ### Status of Japan moon-lander SLIM unclear with solar panel glitch
 
-*2024-01-20 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Status-of-Japan-moon-lander-SLIM-unclear-with-solar-panel-glitch/108-275405) 
+*2024-01-20 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Status-of-Japan-moon-lander-SLIM-unclear-with-solar-panel-glitch/108-275405) · `en`
 
 Japan, Jan 20 (The Hindu) - Japan became the fifth country in history to reach the moon when one of its spacecrafts without astronauts successfully made a soft landing on the lunar surface early Saturday.
 
@@ -439,7 +445,7 @@ Japan, Jan 20 (The Hindu) - Japan became the fifth country in history to reach t
 
 ### IMF expects Sri Lanka to reach private creditor deal by next review
 
-*2024-01-20 08:11:00* · [`economynextcom`](https://economynext.com/imf-expects-sri-lanka-to-reach-private-creditor-deal-by-next-review-148056/) 
+*2024-01-20 08:11:00* · [`economynextcom`](https://economynext.com/imf-expects-sri-lanka-to-reach-private-creditor-deal-by-next-review-148056/) · `en`
 
 ECONOMYNEXT – The International Monetary Fund expects Sri Lanka to reach a deal with commercial creditors by the next review, Senior Mission Chief Peter Breuer said.
 
@@ -449,7 +455,7 @@ ECONOMYNEXT – The International Monetary Fund expects Sri Lanka to reach a dea
 
 ### වසර 05ක් ඇතුළත පලස්තීන රාජ්‍යය පිහිටුවිය යුතුයි
 
-*2024-01-20 08:04:49* · [`adalk`](https://www.ada.lk/breaking_news/වසර-05ක්-ඇතුළත-පලස්තීන-රාජ්‍යය-පිහිටුවිය-යුතුයි/11-407627) 
+*2024-01-20 08:04:49* · [`adalk`](https://www.ada.lk/breaking_news/වසර-05ක්-ඇතුළත-පලස්තීන-රාජ්‍යය-පිහිටුවිය-යුතුයි/11-407627) · `si`
 
 ඩිජිටල් සහ තාක්‍ෂණික බෙදීම් මෙන්ම සමූල ඝාතක අවි භාවිතය මගින් සංවර්ධනය වෙමින් පවතින රටවල් සහ සංවර්ධිත රටවල් අතර ගැඹුරු අසමානතාවයක් නිර්මාණය කර තිබෙනවා
 
@@ -463,7 +469,7 @@ ECONOMYNEXT – The International Monetary Fund expects Sri Lanka to reach a dea
 
 ### German tourist’s solo stroll turns nightmarish
 
-*2024-01-20 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/German-tourists-solo-stroll-turns-nightmarish/108-275404) 
+*2024-01-20 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/German-tourists-solo-stroll-turns-nightmarish/108-275404) · `en`
 
 Ambalangoda, Jan 20 (Daily Mirror) - A 23-year-old German tourist visiting Ambalangoda had a terrifying encounter on Thursday evening while enjoying a solo stroll along the picturesque beach.
 
@@ -473,7 +479,7 @@ An unidentified man suddenly lunged at her, leaving her with minor injuries and 
 
 ### Sri Lanka remains open for positive role in dousing India-Maldives tension
 
-*2024-01-20 07:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-remains-open-for-positive-role-in-dousing-India-Maldives-tension/155-275403) 
+*2024-01-20 07:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-remains-open-for-positive-role-in-dousing-India-Maldives-tension/155-275403) · `en`
 
 Colombo, Jan 20 (Daily Mirror) - Sri Lanka remains open to play a positive role in dousing tension between India and the Maldives in the greater interest of regional peace, Daily Mirror learns.
 
@@ -483,7 +489,7 @@ First, tension between India and the Maldives flared up since the election of th
 
 ### 2 Police officers suspended in connection to Narammala shooting
 
-*2024-01-20 07:38:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/2-police-officers-suspended-in-connection-to-narammala-shooting/) 
+*2024-01-20 07:38:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/2-police-officers-suspended-in-connection-to-narammala-shooting/) · `en`
 
 COLOMBO (News 1st) – Two officers attached to the Sri Lankan police have been temporarily suspended until January 23rd following the murder of a civilian in Dampalassa, Narammala, on Thursday night.
 
@@ -495,7 +501,7 @@ The sub-inspector, who was arrested for the shooting, was produced before the Ku
 
 ### Three police divisions placed under DIG in charge of the CID
 
-*2024-01-20 07:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/three-police-divisions-placed-under-dig-in-charge-of-the-cid/) 
+*2024-01-20 07:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/three-police-divisions-placed-under-dig-in-charge-of-the-cid/) · `en`
 
 COLOMBO (News 1st) – Three police divisions have been placed under the DIG in charge of the Criminal Investigations Department.
 
@@ -507,7 +513,7 @@ He adds that the Directors of the said 3 departments must report to the DIG in c
 
 ### Sri Lanka remains open for positive role dousing India- Maldives tension
 
-*2024-01-20 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-remains-open-for-positive-role-dousing-India-Maldives-tension/108-275377) 
+*2024-01-20 07:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-remains-open-for-positive-role-dousing-India-Maldives-tension/108-275377) · `en`
 
 Colombo, Jan 20 (Daily Mirror) -  Sri Lanka remains open to play a positive role in dousing tension between India and the Maldives in the greater interest of regional peace, Daily Mirror learns.
 
@@ -517,7 +523,7 @@ First, tension between India and the Maldives flared up since the election of th
 
 ### IMF sounds tough on tax evasions, corruption
 
-*2024-01-20 04:22:00* · [`islandlk`](http://island.lk/imf-sounds-tough-on-tax-evasions-corruption/) 
+*2024-01-20 04:22:00* · [`islandlk`](http://island.lk/imf-sounds-tough-on-tax-evasions-corruption/) · `en`
 
 The International Monetary Fund said in Colombo yesterday that authorities need to publish governance diagnostics periodically in relation to tax collection, tax exemptions and tax concessions to dispel any doubts in the public mind whether any parties or individuals would be evading taxes through the loopholes.
 
@@ -525,7 +531,7 @@ The International Monetary Fund said in Colombo yesterday that authorities need 
 
 ### IMF applauds Central Bank’s triumphs over inflation but urges prudent policy ahead
 
-*2024-01-20 04:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-applauds-Central-Banks-triumphs-over-inflation-but-urges-prudent-policy-ahead/108-275400) 
+*2024-01-20 04:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/IMF-applauds-Central-Banks-triumphs-over-inflation-but-urges-prudent-policy-ahead/108-275400) · `en`
 
 Says it remains important for Sri Lanka to continue rebuilding external buffers through strong reserve accumulation
 
@@ -537,7 +543,7 @@ Leveraging the effectiveness of the Central Bank of Sri Lanka on the control ove
 
 ### Sajith requests speaker to postpone Online Safety Bill
 
-*2024-01-20 03:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-requests-speaker-to-postpone-Online-Safety-Bill/108-275378) 
+*2024-01-20 03:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sajith-requests-speaker-to-postpone-Online-Safety-Bill/108-275378) · `en`
 
 Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a letter addressed to Speaker Mahinda Yapa Abeywardene has requested him to postpone the debate on the Online Safety Bill which is to be taken up for debate next week.
 
@@ -545,7 +551,7 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 
 ### ඩෙල්ෆ්: අඩු වියදමකින් විවේකය ගත කළ හැකි සුන්දර සංචාරක ගමනාන්තයක් වෙත යමුද?
 
-*2024-01-20 03:00:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72y0ldxq3lo) 
+*2024-01-20 03:00:36* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72y0ldxq3lo) · `si`
 
 ඩෙල්ෆ්: අඩු වියදමකින් විවේකය ගත කළ හැකි සුන්දර සංචාරක ගමනාන්තයක් වෙත යමුද?
 
@@ -557,7 +563,7 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 
 ### சட்டமூலத்தை மீளப்பெறுமாறு வலியுறுத்தல்
 
-*2024-01-20 02:57:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலத்தை-மீளப்பெறுமாறு-வலியுறுத்தல்/175-331832) 
+*2024-01-20 02:57:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலத்தை-மீளப்பெறுமாறு-வலியுறுத்தல்/175-331832) · `ta`
 
 பயங்கரவாத எதிர்ப்பு சட்டமூலத்தை உடனடியாக மீளப்பெறுமாறு ஐக்கிய நாடுகள் மனித உரிமைகள் பேரவை இலங்கை அரசாங்கத்தை வலியுறுத்தியுள்ளது.
 
@@ -567,7 +573,7 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 
 ### பெப்ரவரி முதலாம் திகதி முதல் பணிப்பகிஷ்கரிப்பு
 
-*2024-01-20 02:50:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-முதலாம்-திகதி-முதல்-பணிப்பகிஷ்கரிப்பு/175-331831) 
+*2024-01-20 02:50:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-முதலாம்-திகதி-முதல்-பணிப்பகிஷ்கரிப்பு/175-331831) · `ta`
 
 மருத்துவர்களுக்கு வழங்கப்பட்ட 35 ஆயிரம் ரூபா கொடுப்பனவை வழங்குமாறு கோரி 72 சுகாதார தொழிற்சங்கங்களால் எதிர்வரும் முதலாம் திகதி முதல் நாடளாவிய ரீதியில் பணிப்பகிஷ்கரிப்பு ஆரம்பிக்கப்படவுள்ளது.
 
@@ -577,7 +583,7 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 
 ### சபாநாயகருடன் சீனத் தூதுவர் சந்திப்பு
 
-*2024-01-20 02:45:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருடன்-சீனத்-தூதுவர்-சந்திப்பு/175-331830) 
+*2024-01-20 02:45:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருடன்-சீனத்-தூதுவர்-சந்திப்பு/175-331830) · `ta`
 
 அரசாங்கம் என்ற வகையில் இலங்கை எப்பொழுதும் ஒரே சீனா என்ற கொள்கையை ஏற்றுக்கொண்டுள்ளது என சபாநாயகர்  மஹிந்த யாப்பா அபேவர்தன இலங்கைக்கான சீனத் தூதுவர் கீ சென்ஹொங்கிடம் குறிப்பிட்டுள்ளார்.
 
@@ -587,7 +593,7 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 
 ### மகாநாயக்க தேரர்களிடம் ஆசி பெற்றார் அநுரகுமார
 
-*2024-01-20 02:40:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகாநாயக்க-தேரர்களிடம்-ஆசி-பெற்றார்-அநுரகுமார/175-331829) 
+*2024-01-20 02:40:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மகாநாயக்க-தேரர்களிடம்-ஆசி-பெற்றார்-அநுரகுமார/175-331829) · `ta`
 
 மக்கள் விடுதலை முன்னணியின் தலைவர் அநுரகுமார திஸாநாயக்க அஸ்கிரிய மற்றும் மல்வத்து பீடங்களின் மகாநாயக்க தேரர்களை  சந்தித்து நேற்று ஆசி பெற்றார்.
 
@@ -595,7 +601,7 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 
 ### மலையக தலைவர்களுடன் இந்திய தூதுவர் சந்திப்பு
 
-*2024-01-20 02:31:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தலைவர்களுடன்-இந்திய-தூதுவர்-சந்திப்பு/175-331828) 
+*2024-01-20 02:31:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மலையக-தலைவர்களுடன்-இந்திய-தூதுவர்-சந்திப்பு/175-331828) · `ta`
 
 மலையக அரசியல் தலைவர்களை இலங்கைக்கான இந்தியத் தூதுவர் சந்தோஷ் ஜா நேரில் சந்தித்து உரையாடியுள்ளார்.
 
@@ -605,7 +611,7 @@ Colombo, Jan 20 (Daily Mirror) - Leader of the Opposition Sajith Premadasa in a 
 
 ### SJB renews warning to renegotiate IMF deal under an SJB Govt.
 
-*2024-01-20 01:26:02* · [`dailyftlk`](https://www.ft.lk/news/SJB-renews-warning-to-renegotiate-IMF-deal-under-an-SJB-Govt/56-757570) 
+*2024-01-20 01:26:02* · [`dailyftlk`](https://www.ft.lk/news/SJB-renews-warning-to-renegotiate-IMF-deal-under-an-SJB-Govt/56-757570) · `en`
 
 Says only SJB and its leaders can dare to make such proposals to IMF
 
@@ -619,7 +625,7 @@ Claims SJB campaign to oust Govt. will commence on 30 Jan in Colombo
 
 ### Sri Lankan marketers lag behind digital surge, Minister calls for transformation
 
-*2024-01-20 01:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-marketers-lag-behind-digital-surge-Minister-calls-for-transformation/108-275402) 
+*2024-01-20 01:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-marketers-lag-behind-digital-surge-Minister-calls-for-transformation/108-275402) · `en`
 
 Sri Lanka's digital revolution is in full swing, with mobile phone penetration exceeding 150% and internet usage skyrocketing to 52%. However, the nation's marketers are lagging behind, with a meager 21% of marketing budgets allocated to digital channels, according to State Minister of Technology Kanaka Herath.
 
@@ -627,7 +633,7 @@ Sri Lanka's digital revolution is in full swing, with mobile phone penetration e
 
 ### Roshan Ranasinghe and Arjuna Ranatunga new alliance vows to clean up politics in 2024
 
-*2024-01-20 01:25:15* · [`dailyftlk`](https://www.ft.lk/news/Roshan-Ranasinghe-and-Arjuna-Ranatunga-new-alliance-vows-to-clean-up-politics-in-2024/56-757569) 
+*2024-01-20 01:25:15* · [`dailyftlk`](https://www.ft.lk/news/Roshan-Ranasinghe-and-Arjuna-Ranatunga-new-alliance-vows-to-clean-up-politics-in-2024/56-757569) · `en`
 
 Launch new alliance titled ‘Unity of Sri Lanka’ on platform to end corruption in SL
 
@@ -639,7 +645,7 @@ Stress alliance will also focus on abolishing Executive Presidency to give more 
 
 ### CSOs unite in open letter to Tiran against Online Safety Bill
 
-*2024-01-20 01:21:53* · [`dailyftlk`](https://www.ft.lk/news/CSOs-unite-in-open-letter-to-Tiran-against-Online-Safety-Bill/56-757568) 
+*2024-01-20 01:21:53* · [`dailyftlk`](https://www.ft.lk/news/CSOs-unite-in-open-letter-to-Tiran-against-Online-Safety-Bill/56-757568) · `en`
 
 Urge Minister of Public Security and Govt. to withdraw proposed Online Safety Bill
 
@@ -651,7 +657,7 @@ Highlight importance of tackling issues of online gender-based violence and harm
 
 ### NPP exposes injustices committed under ‘Yukthiya’ op
 
-*2024-01-20 01:21:40* · [`dailyftlk`](https://www.ft.lk/news/NPP-exposes-injustices-committed-under-Yukthiya-op/56-757567) 
+*2024-01-20 01:21:40* · [`dailyftlk`](https://www.ft.lk/news/NPP-exposes-injustices-committed-under-Yukthiya-op/56-757567) · `en`
 
 National People’s Party (NPP) member Wasantha Samarasinghe recently highlighted the unjust acts committed by the Sri Lanka Police during the ongoing ‘Yukthiya’ operation to allegedly combat drugs and eradicate underworld activities.
 
@@ -661,7 +667,7 @@ Samarasinghe relating a recent incident said a public transport bus had been sto
 
 ### Jaffna International Trade Fair 2024 kicks off
 
-*2024-01-20 01:20:54* · [`dailyftlk`](https://www.ft.lk/business/Jaffna-International-Trade-Fair-2024-kicks-off/34-757566) 
+*2024-01-20 01:20:54* · [`dailyftlk`](https://www.ft.lk/business/Jaffna-International-Trade-Fair-2024-kicks-off/34-757566) · `en`
 
 The three-day Jaffna International Trade Fair 2024 kicked off yesterday as part of its pivotal role in fostering economic growth and community development in the Northern Province.
 
@@ -671,7 +677,7 @@ Organised by Lanka Exhibition and Conference Services Ltd. (LECS), together with
 
 ### EDB, universities and associations join forces to strengthen ornamental fish industry, boost exports
 
-*2024-01-20 01:19:02* · [`dailyftlk`](https://www.ft.lk/business/EDB-universities-and-associations-join-forces-to-strengthen-ornamental-fish-industry-boost-exports/34-757565) 
+*2024-01-20 01:19:02* · [`dailyftlk`](https://www.ft.lk/business/EDB-universities-and-associations-join-forces-to-strengthen-ornamental-fish-industry-boost-exports/34-757565) · `en`
 
 A collaborative effort led by the Export Development Board (EDB) alongside Sri Lankan universities, the Tropical Ornamental Fish Association and Sri Lanka Ornamental Fish Farmers’ Association organised a one-day workshop on 11 January.
 
@@ -681,13 +687,13 @@ The key objective of the workshop was to help improve the export potential of or
 
 ### Shritharan  Backed by Yoheswaran  Asks Sumanthiran not to Contest the ITAK President Election.
 
-*2024-01-20 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83440) 
+*2024-01-20 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83440) · `en`
 
 ...
 
 ### The Killing of Bharatha Lakshman Premachandra and Three Bodyguards  in the Mulleriyawe Shoot-out near Walpola Junction.
 
-*2024-01-20 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83474) 
+*2024-01-20 00:36:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83474) · `en`
 
 The shooting of Bharatha Lakshman Premachandra and conviction of Duminda Silva was a controversial episode in contemporary Sri Lankan history. Bharatha Lakshman Premachandra known as “Lucky Aiya” and three of his bodyguards were killed on 8 October 2011 in a shoot-out near the Walpola junction close to Mulleriyawa town, about six miles away from Colombo city. Another bodyguard was seriously injured.
 
@@ -695,7 +701,7 @@ The shooting of Bharatha Lakshman Premachandra and conviction of Duminda Silva w
 
 ### Hirunika Premachandra’s Letter to  Gotabaya Rajapaksa when he issued a Presidential Pardon to Duminda Silva Convicted of Killing Bharatha Lakshman Premachandra
 
-*2024-01-20 00:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83469) 
+*2024-01-20 00:27:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83469) · `en`
 
 The Supreme Court Order Squashing   the Presidential pardon  granted by former President Gotabaya Rajapaksa to Ex-MP  Duminda Silva has once again turned the media spotlight on the chief victim Bharatha Lakshman’s courageous daughter Hirunika Premachandra. The former MP has earned the sympathy and admiration of many people by her doughty campaign for justice and against injustice.
 
@@ -703,7 +709,7 @@ The Supreme Court Order Squashing   the Presidential pardon  granted by former P
 
 ### Central Bank to roll out phase II masterplan under NBFI consolidation effort
 
-*2024-01-20 00:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-to-roll-out-phase-II-masterplan-under-NBFI-consolidation-effort/108-275401) 
+*2024-01-20 00:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-to-roll-out-phase-II-masterplan-under-NBFI-consolidation-effort/108-275401) · `en`
 
 Says expects to facilitate market-based consolidation among small and mid-sized banks
 
@@ -713,7 +719,7 @@ While reiterating once again the importance of consolidation in the banking sect
 
 ### Communicating the climate crisis: Climate fiction and narratives of loss and resilience
 
-*2024-01-20 00:12:40* · [`dailyftlk`](https://www.ft.lk/columns/Communicating-the-climate-crisis-Climate-fiction-and-narratives-of-loss-and-resilience/4-757551) 
+*2024-01-20 00:12:40* · [`dailyftlk`](https://www.ft.lk/columns/Communicating-the-climate-crisis-Climate-fiction-and-narratives-of-loss-and-resilience/4-757551) · `en`
 
 Art and fiction can play an important role in enhancing awareness and  understanding of the climate crisis as well as showcasing ground realities, particularly from the Global South
 
@@ -721,7 +727,7 @@ Art and fiction can play an important role in enhancing awareness and  understa
 
 ### Why suffer as a bankrupt nation, why not use our resources
 
-*2024-01-20 00:09:47* · [`dailyftlk`](https://www.ft.lk/opinion/Why-suffer-as-a-bankrupt-nation-why-not-use-our-resources/14-757550) 
+*2024-01-20 00:09:47* · [`dailyftlk`](https://www.ft.lk/opinion/Why-suffer-as-a-bankrupt-nation-why-not-use-our-resources/14-757550) · `en`
 
 This is the worst situation this country has had to face. The difficult years 1970-1977 were not this bad. Though there were stringent controls, there were avenues for the people to fend for themselves. Living on imports and getting used to more advanced products had dented the ability of our people to invent or substitute.
 
@@ -729,13 +735,13 @@ This is the worst situation this country has had to face. The difficult years 19
 
 ### Dudley’s fiasco
 
-*2024-01-20 00:09:20* · [`dailyftlk`](https://www.ft.lk/opinion/Dudley-s-fiasco/14-757549) 
+*2024-01-20 00:09:20* · [`dailyftlk`](https://www.ft.lk/opinion/Dudley-s-fiasco/14-757549) · `en`
 
 ...
 
 ### Two MRPs for one and the same product
 
-*2024-01-20 00:08:40* · [`dailyftlk`](https://www.ft.lk/opinion/Two-MRPs-for-one-and-the-same-product/14-757548) 
+*2024-01-20 00:08:40* · [`dailyftlk`](https://www.ft.lk/opinion/Two-MRPs-for-one-and-the-same-product/14-757548) · `en`
 
 How come a locally manufactured full cream milk powder is being marketed at two MRPs – Rs. 850.00 and Rs 1080.00? The details of this milk powder are as follows:
 
@@ -749,7 +755,7 @@ c. The manufacturer is the same viz Pelwatte Dairy Industries Ltd. Buttala
 
 ### பிணையில் கிடைத்தும் திருந்தாத  “விஸ்வ புத்தர்”
 
-*2024-01-20 00:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணையில்-கிடைத்தும்-திருந்தாத-விஸ்வ-புத்தர்/175-331827) 
+*2024-01-20 00:06:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிணையில்-கிடைத்தும்-திருந்தாத-விஸ்வ-புத்தர்/175-331827) · `ta`
 
 பௌத்த மதத்தை அவமதித்ததாக குற்றம் சுமத்தப்பட்ட “விஸ்வ புத்தரை” எதிர்வரும் 24ஆம் திகதி மீண்டும் நீதிமன்றில் முன்னிலைப்படுத்துமாறு கொழும்பு பிரதான நீதவான் பிரசன்ன அல்விஸ் இன்று (19) உத்தரவிட்டுள்ளார்.
 
@@ -759,7 +765,7 @@ c. The manufacturer is the same viz Pelwatte Dairy Industries Ltd. Buttala
 
 ### The Judiciary Unbowed, Holding Law-Breakers  To Account
 
-*2024-01-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Judiciary-Unbowed-Holding-Law-Breakers-To-Account/172-275368) 
+*2024-01-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Judiciary-Unbowed-Holding-Law-Breakers-To-Account/172-275368) · `en`
 
 The Supreme Court of our country keeps making history for all the right reasons. Lay persons sometimes – based on ‘he-said, she-said knowledge’ – accuse the Courts of this country of bowing to the will of the political leadership, and failing to protect the Constitution and the implementation of justice.
 
@@ -767,7 +773,7 @@ The Supreme Court of our country keeps making history for all the right reasons.
 
 ### MR Sees the Reality, Vajira Doesn’t
 
-*2024-01-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/MR-Sees-the-Reality-Vajira-Doesnt/172-275369) 
+*2024-01-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/MR-Sees-the-Reality-Vajira-Doesnt/172-275369) · `en`
 
 Apart from the SLFP which seems to be taking every effort to field its leader, former President Maithripala Sirisena at the race for the top most post amidst a leadership crisis and a danger of MPs of the party deserting the leader, three prominent businessmen have also openly entered the fray
 
@@ -775,7 +781,7 @@ Apart from the SLFP which seems to be taking every effort to field its leader, f
 
 ### Duminda’s Conviction, Gotabaya’s Pardon and the Supreme Court Ruling
 
-*2024-01-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Dumindas-Conviction-Gotabayas-Pardon-and-the-Supreme-Court-Ruling/172-275393) 
+*2024-01-20 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Dumindas-Conviction-Gotabayas-Pardon-and-the-Supreme-Court-Ruling/172-275393) · `en`
 
 Nandasena Gotabaya Rajapaksa was portrayed as a monument of efficiency who could uplift Sri Lanka by his ‘Viyathmaga’ cronies and his family party the Sri Lanka Podujana Peramuna (SLPP) at the Presidential elections of 2019. More than 6.9 million people voted him to stupendous success,
 
@@ -785,7 +791,7 @@ Nandasena Gotabaya Rajapaksa was portrayed as a monument of efficiency who could
 
 ### Russian Federation extends support with $ 1.5 m sunflower oil donation to Sri Lanka
 
-*2024-01-19 23:39:30* · [`dailyftlk`](https://www.ft.lk/news/Russian-Federation-extends-support-with-1-5-m-sunflower-oil-donation-to-Sri-Lanka/56-757545) 
+*2024-01-19 23:39:30* · [`dailyftlk`](https://www.ft.lk/news/Russian-Federation-extends-support-with-1-5-m-sunflower-oil-donation-to-Sri-Lanka/56-757545) · `en`
 
 Demonstrating unwavering solidarity, the Russian Federation has extended a substantial donation of $ 1.5 million worth of sunflower oil to Sri Lanka through the United Nations World Food Program (WFP).
 
@@ -797,7 +803,7 @@ Accordingly the Russian federation has granted 130.41 tons of fortified Sunflowe
 
 ### Princess Royal concludes 3-day tour of Colombo, Kandy and Jaffna
 
-*2024-01-19 23:38:35* · [`dailyftlk`](https://www.ft.lk/news/Princess-Royal-concludes-3-day-tour-of-Colombo-Kandy-and-Jaffna/56-757544) 
+*2024-01-19 23:38:35* · [`dailyftlk`](https://www.ft.lk/news/Princess-Royal-concludes-3-day-tour-of-Colombo-Kandy-and-Jaffna/56-757544) · `en`
 
 HRH The Princess Royal and Vice Admiral Sir Tim Laurence completed their tour of Sri Lanka, visiting three provinces in three days, in the first royal overseas tour of 2024.
 
@@ -807,7 +813,7 @@ During her visit she met with a wide range of people from different communities,
 
 ### High Commissioner’s visit to Kandy underscores expanse of India-Sri Lanka relations
 
-*2024-01-19 23:35:12* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-s-visit-to-Kandy-underscores-expanse-of-India-Sri-Lanka-relations/56-757543) 
+*2024-01-19 23:35:12* · [`dailyftlk`](https://www.ft.lk/news/High-Commissioner-s-visit-to-Kandy-underscores-expanse-of-India-Sri-Lanka-relations/56-757543) · `en`
 
 High Commissioner of India Santosh Jha visited Kandy on 18 January.
 
@@ -815,7 +821,7 @@ High Commissioner of India Santosh Jha visited Kandy on 18 January.
 
 ### LKI Executive Director chairs panel on ‘Sri Lanka as a Destination: From Antiquity to Modernity’
 
-*2024-01-19 23:33:50* · [`dailyftlk`](https://www.ft.lk/news/LKI-Executive-Director-chairs-panel-on-Sri-Lanka-as-a-Destination-From-Antiquity-to-Modernity/56-757542) 
+*2024-01-19 23:33:50* · [`dailyftlk`](https://www.ft.lk/news/LKI-Executive-Director-chairs-panel-on-Sri-Lanka-as-a-Destination-From-Antiquity-to-Modernity/56-757542) · `en`
 
 The Lakshman Kadirgamar Institute (LKI) hosted a panel discussion ‘Sri Lanka as a Destination: From Antiquity to Modernity’ as part of its outreach activities to promote ‘Cultural Diplomacy’ in Koggala on Saturday (13 January).
 
@@ -823,7 +829,7 @@ The Lakshman Kadirgamar Institute (LKI) hosted a panel discussion ‘Sri Lanka a
 
 ### Speaking truth to power: Ethnics in ELT to the fore (Part II of III)
 
-*2024-01-19 23:31:22* · [`dailyftlk`](https://www.ft.lk/columns/Speaking-truth-to-power-Ethnics-in-ELT-to-the-fore-Part-II-of-III/4-757541) 
+*2024-01-19 23:31:22* · [`dailyftlk`](https://www.ft.lk/columns/Speaking-truth-to-power-Ethnics-in-ELT-to-the-fore-Part-II-of-III/4-757541) · `en`
 
 In trying times, it is theatre’s duty – and its privilege – to step up to the plate, where other actors in civil society have dropped the ball in terms of finding an alternative to our much needed ‘right of recall’
 
@@ -833,7 +839,7 @@ For a while now, it would seem English-Language Theatre (ELT) in Sri Lanka has n
 
 ### All stalled development projects to commence in February - Bandula
 
-*2024-01-19 23:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96556/all-stalled-development-projects-to-commence-in-february-bandula) 
+*2024-01-19 23:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96556/all-stalled-development-projects-to-commence-in-february-bandula) · `en`
 
 Development projects are set to commence in February, following the finalization of agreements related to the debt restructuring and ongoing discussions with foreign creditors of Sri Lanka, according to Dr. Bandula Gunawardena, the Minister of Transport, Highways, and Mass Media.
 
@@ -841,7 +847,7 @@ Development projects are set to commence in February, following the finalization
 
 ### Online Safety Bill: A Trojan Horse
 
-*2024-01-19 23:26:42* · [`dailyftlk`](https://www.ft.lk/opinion/Online-Safety-Bill-A-Trojan-Horse/14-757540) 
+*2024-01-19 23:26:42* · [`dailyftlk`](https://www.ft.lk/opinion/Online-Safety-Bill-A-Trojan-Horse/14-757540) · `en`
 
 The Online Safety Bill simply fits into a wider web of laws to restrict freedom of thought and expression with a chilling impact on our democracy
 
@@ -849,7 +855,7 @@ The Online Safety Bill simply fits into a wider web of laws to restrict freedom 
 
 ### கொழும்பில் இடிந்து விழும் அபாயத்தில் உள்ள கட்டிடங்கள்
 
-*2024-01-19 23:26:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இடிந்து-விழும்-அபாயத்தில்-உள்ள-கட்டிடங்கள்/175-331826) 
+*2024-01-19 23:26:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இடிந்து-விழும்-அபாயத்தில்-உள்ள-கட்டிடங்கள்/175-331826) · `ta`
 
 கொழும்பு மாநகர சபைக்குட்பட்ட பகுதியில் பொது மக்கள் வசிக்கும் சில குடியிருப்புகள் பாரியளவு சேதமடைந்து காணப்படுகின்றன.
 
@@ -861,7 +867,7 @@ The Online Safety Bill simply fits into a wider web of laws to restrict freedom 
 
 ### NPP not expecting to legalize prostitution: Harini
 
-*2024-01-19 22:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-not-expecting-to-legalize-prostitution-Harini/108-275371) 
+*2024-01-19 22:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NPP-not-expecting-to-legalize-prostitution-Harini/108-275371) · `en`
 
 Colombo, Jan 19 (Daily Mirror) -  The National People's Power (NPP) was not expecting to legalize prostitution and that it would only amend some laws which inconvenience those who were forced to prostitution due to economic hardships, NPP MP Harini Amarasuriya said today.
 
@@ -871,7 +877,7 @@ She told the Daily Mirror that the main focus of the NPP was to revive the econo
 
 ### ‘Revise Anti-Terrorism Bill’: UN human rights office urges Sri Lankan authorities
 
-*2024-01-19 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96555/revise-anti-terrorism-bill-un-human-rights-office-urges-sri-lankan-authorities) 
+*2024-01-19 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96555/revise-anti-terrorism-bill-un-human-rights-office-urges-sri-lankan-authorities) · `en`
 
 The UN human rights office has urged the Sri Lankan authorities to revise the Anti-Terrorism Bill and to bring it fully into line with the island’s international human rights obligations.
 
@@ -881,7 +887,7 @@ In a statement published on Friday (Jan.19), the Office of the High Commissioner
 
 ### Japan’s ‘Moon Sniper’ makes historic Moon landing
 
-*2024-01-19 21:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japans-Moon-Sniper-makes-historic-Moon-landing/108-275376) 
+*2024-01-19 21:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Japans-Moon-Sniper-makes-historic-Moon-landing/108-275376) · `en`
 
 Japna, Jan 19 -  Japan on Friday landed its precise “Moon Sniper” rover on the Moon, and its space agency is checking data to confirm the landing’s success, a potentially historic achievement that could see it join a select group of just four other countries, as nations and private companies race to stake a claim in the emerging space economy.
 
@@ -889,7 +895,7 @@ Japna, Jan 19 -  Japan on Friday landed its precise “Moon Sniper” rover on 
 
 ### அணிசேரா அமைப்பின் ஊடாக சிறந்த உலகை உருவாக்க வேண்டும்
 
-*2024-01-19 21:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அணிசேரா-அமைப்பின்-ஊடாக-சிறந்த-உலகை-உருவாக்க-வேண்டும்/175-331813) 
+*2024-01-19 21:38:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அணிசேரா-அமைப்பின்-ஊடாக-சிறந்த-உலகை-உருவாக்க-வேண்டும்/175-331813) · `ta`
 
 டிஜிட்டல் பிரிவினை மற்றும் பெரும் அழிவுக்கு வழிவகுக்கும் ஆயுதங்கள் வாயிலாக, அணிசேரா அமைப்பில் அங்கம் வகிக்கும் உலகின் வளர்ந்துவரும் நாடுகள் மற்றும் அபிவிருத்தி அடைந்த நாடுகள் மத்தியில் பெரும் சமநிலை அற்ற தன்மை உருவாகியுள்ளது என்றும், அதனால் சிறந்த உலகை உருவாக்க வலுவான மற்றும் ஒன்றிணைந்த அணிசேரா அமைப்பின் ஊடாக மேற்படி பிரச்சினைகளுக்கு விரைவில் தீர்வை எட்ட வேண்டும் என்றும் ஜனாதிபதி ரணில் விக்ரமசிங்க தெரிவித்தார்.
 
@@ -897,7 +903,7 @@ Japna, Jan 19 -  Japan on Friday landed its precise “Moon Sniper” rover on 
 
 ### Extended Fund Facility agreement has to be amended: Sajith informs IMF
 
-*2024-01-19 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extended-Fund-Facility-agreement-has-to-be-amended-Sajith-informs-IMF/108-275366) 
+*2024-01-19 21:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Extended-Fund-Facility-agreement-has-to-be-amended-Sajith-informs-IMF/108-275366) · `en`
 
 Colombo, Jan 19 (Daily Mirror) -  Leader of the Opposition Sajith Premadasa informed a group of IMF officials  that the Extended Fund Facility (EFF) agreement which their organization has signed with the Sri Lankan government has to be amended and a Samagi Jana Balawegaya (SJB) government will do so in the future.
 
@@ -905,7 +911,7 @@ Colombo, Jan 19 (Daily Mirror) -  Leader of the Opposition Sajith Premadasa inf
 
 ### Japan’s precision moon probe ‘appears to have landed’
 
-*2024-01-19 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96554/japans-precision-moon-probe-appears-to-have-landed) 
+*2024-01-19 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96554/japans-precision-moon-probe-appears-to-have-landed) · `en`
 
 The Japan Aerospace Exploration Agency (JAXA) on Friday said its Smart Lander for Investigating the Moon (SLIM) appeared to have landed on the lunar surface.
 
@@ -917,7 +923,7 @@ The 20-minute descent was set to begin at 1500 GMT/UTC on Friday.
 
 ### IMF Presses for Progress in Sri Lanka’s Debt Deals
 
-*2024-01-19 20:53:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/imf-presses-for-progress-in-sri-lanka-s-debt-deals/) 
+*2024-01-19 20:53:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/imf-presses-for-progress-in-sri-lanka-s-debt-deals/) · `en`
 
 COLOMBO (News 1st); Sri Lanka's efforts to restructure its crippling debt face critical hurdles as the International Monetary Fund (IMF) pushes for concrete agreements with creditors ahead of the program's second review. While acknowledging commendable progress, IMF officials highlighted unfinished business with both official and private lenders, posing potential roadblocks to economic recovery.
 
@@ -925,13 +931,13 @@ COLOMBO (News 1st); Sri Lanka's efforts to restructure its crippling debt face c
 
 ### Southbeach Weligama, Silver Sponsor at Galle Literary Festival 2024
 
-*2024-01-19 20:49:00* · [`islandlk`](http://island.lk/southbeach-weligama-silver-sponsor-at-galle-literary-festival-2024/) 
+*2024-01-19 20:49:00* · [`islandlk`](http://island.lk/southbeach-weligama-silver-sponsor-at-galle-literary-festival-2024/) · `en`
 
 ...
 
 ### Jaffna Int’l Trade Fair 2024 opens
 
-*2024-01-19 20:49:00* · [`islandlk`](http://island.lk/jaffna-intl-trade-fair-2024-opens/) 
+*2024-01-19 20:49:00* · [`islandlk`](http://island.lk/jaffna-intl-trade-fair-2024-opens/) · `en`
 
 The Jaffna International Trade Fair 2024, a transformative annual event that has played a pivotal role in fostering economic growth and community development in Sri Lanka’s Northern Province, is back with its 14th edition.
 
@@ -939,7 +945,7 @@ The Jaffna International Trade Fair 2024, a transformative annual event that has
 
 ### UN: Sri Lanka’s Anti-Terror Bill “Perpetuates Past Horrors”
 
-*2024-01-19 20:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/un-sri-lanka-s-anti-terror-bill-perpetuates-past-horrors/) 
+*2024-01-19 20:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/19/un-sri-lanka-s-anti-terror-bill-perpetuates-past-horrors/) · `en`
 
 COLOMBO (News 1st); The United Nations Human Rights Office has expressed serious concerns over the revised Anti-Terrorism Bill currently under consideration by the Sri Lankan parliament.
 
@@ -949,7 +955,7 @@ The United Nations Human Rights Office in a statement said that Sri Lanka's Anti
 
 ### Rs. 2.2 Mn cash recovered from Ganemulla Sanjeewa’s accomplice’s house
 
-*2024-01-19 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rs-2-2-Mn-cash-recovered-from-Ganemulla-Sanjeewas-accomplices-house/108-275367) 
+*2024-01-19 20:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rs-2-2-Mn-cash-recovered-from-Ganemulla-Sanjeewas-accomplices-house/108-275367) · `en`
 
 Udugampola, Jan 19 (Daily Mirror) -  A narcotics team uncovered Rs.2.2 million cash hidden in an underground bunker at a house in Udugampola, suspected to belong to an accomplice of underworld criminal Ganemulla Sanjeewa.
 
@@ -959,7 +965,7 @@ Sanjeewa is currently detained by the police at the Weeragula Police Station, an
 
 ### Vogue Jewellers unveils exclusive investment path
 
-*2024-01-19 20:14:00* · [`islandlk`](http://island.lk/vogue-jewellers-unveils-exclusive-investment-path/) 
+*2024-01-19 20:14:00* · [`islandlk`](http://island.lk/vogue-jewellers-unveils-exclusive-investment-path/) · `en`
 
 In Sri Lanka, one asset class in particular has stood the test of time – and that is gold. Its enduring appeal as a symbol of wealth and stability transcends centuries, making it a timeless choice for anyone looking to invest with the future in mind. Vogue Jewellers, recognizing the intrinsic value of gold, introduces an exclusive opportunity for all Sri Lankans with its upcoming OG (Old Gold) promotion in January 2024.
 
@@ -967,7 +973,7 @@ In Sri Lanka, one asset class in particular has stood the test of time – and t
 
 ### Rs. 2.2mn in cash found inside bunker in Udugampola
 
-*2024-01-19 20:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96553/rs-22mn-in-cash-found-inside-bunker-in-udugampola) 
+*2024-01-19 20:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96553/rs-22mn-in-cash-found-inside-bunker-in-udugampola) · `en`
 
 Police Narcotics Bureau (PNB) officers have found ill-gotten cash amounting to Rs. 2.2 million inside an underground bunker at a house located in Udugampola.
 
@@ -977,7 +983,7 @@ The house is said to be owned by a close associated of an accomplice of the noto
 
 ### Gaza destruction risks lost generation of children, says UN official
 
-*2024-01-19 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gaza-destruction-risks-lost-generation-of-children-says-UN-official/108-275365) 
+*2024-01-19 19:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gaza-destruction-risks-lost-generation-of-children-says-UN-official/108-275365) · `en`
 
 Gaza, Jan 19 (Daily Mirror) -  This week Al Israa University became the latest major public building in Gaza to disappear from the map, blown up and destroyed by Israeli forces who had reportedly used it as a military base for several weeks.
 
@@ -987,7 +993,7 @@ The war in Gaza has already let to an unprecedented loss of life, but there's al
 
 ### Karapitiya hospital’s senior oncologist decides to retire after assault accusations
 
-*2024-01-19 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96552/karapitiya-hospitals-senior-oncologist-decides-to-retire-after-assault-accusations-) 
+*2024-01-19 19:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96552/karapitiya-hospitals-senior-oncologist-decides-to-retire-after-assault-accusations-) · `en`
 
 The Senior Oncologist of the Karapitiya Teaching Hospital Dr. Krishantha Perera, who was disappointed by the recent incident at the hospital, has decided to retire voluntarily.
 
@@ -997,7 +1003,7 @@ His letter of retirement has already been handed over to the Ministry of Health,
 
 ### இந்தியா வாழ் இலங்கை அகதிகளுக்கு உலக அங்கீகாரமிக்க கடவுச்சீட்டு
 
-*2024-01-19 19:16:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-வாழ்-இலங்கை-அகதிகளுக்கு-உலக-அங்கீகாரமிக்க-கடவுச்சீட்டு/175-331812) 
+*2024-01-19 19:16:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியா-வாழ்-இலங்கை-அகதிகளுக்கு-உலக-அங்கீகாரமிக்க-கடவுச்சீட்டு/175-331812) · `ta`
 
 சுமார் 40 ஆண்டுகளுக்கு மேலாக தமிழகத்தில் தஞ்சம் புகுந்து அகதிவாழ்க்கை வாழ்ந்துவரும் இலங்கை வடக்கு - கிழக்கைச் சேர்ந்த அகதிகளுக்கு, ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் வழிகாட்டுதலின் கீழ் சர்வதேச கடவுச்சீட்டு இன்று (19) சென்னையில் வழங்கி வைக்கப்பட்டது என கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் தெரிவித்தார்.
 
@@ -1005,7 +1011,7 @@ His letter of retirement has already been handed over to the Ministry of Health,
 
 ### யாழில் மேலும் இருவர் டெங்குக்கு பலி
 
-*2024-01-19 19:08:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-மேலும்-இருவர்-டெங்குக்கு-பலி/71-331811) 
+*2024-01-19 19:08:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/யாழில்-மேலும்-இருவர்-டெங்குக்கு-பலி/71-331811) · `ta`
 
 கொக்குவில் பகுதியில் மயங்கி விழுந்த, அரியாலை பகுதியை சேர்ந்த செல்வராசா சிந்துஜன் (வயது 31) எனும் இளைஞனை மீட்டு , யாழ்ப்பாண போதனா வைத்தியசாலைக்கு கொண்டு சென்ற போது, அவர் உயிரிழந்தார்.
 

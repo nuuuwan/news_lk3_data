@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 16:51:40**
+As of **2024-01-20 17:02:04**
 
 ## Newspaper Stats
 
-*Scraped **1,427** Articles*
+*Scraped **1,429** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 24
-adaderanasinhalalk | 25
+adaderanasinhalalk | 27
 bbccomsinhala | 36
 islandlk | 82
 newsfirstlk | 93
@@ -26,11 +26,37 @@ tamilmirrorlk | 178
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1 (0.1%) of 1,427 articles have been extended.
+1 (0.1%) of 1,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### සඳ මතට ගොඩබෑ ජපන් 'මූන් ස්නයිපර්' අර්බුදයක
+
+*2024-01-20 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192362) · `si`
+
+ජපාන සඳ තරණ මෙහෙයුම යටතේ අභ්‍යාවකාශ ගත කෙරුණු මූන් ස්නයිපර් ලෑන්ඩරය සඳ මතට ගොඩබැස්සවීමට ජපානය ඊයේ  සමත්විය.
+
+ජපානයේ මූන් සනයිපර් සඳ තරණ මෙහෙයුම යටතේ මූන් සනයිපර් ලෑන්ඩරය රැගත් රොකට්ටුව අභ්‍යාවකාශ ගත කෙරුණේ පසුගිය වසරේ සැප්තැම්බර් මාසයේ දී ය.
+
+ඒ අනුව,  මූන් සනයිපර් ලෑන්ඩරය චන්ද්‍රයා මත සාර්ථකව ගොඩ බැස්සවීමට ජපානය ඊයේ සමත් වුණි.
+
+සමකය ආසන්නේ ආගාධයක් මතට මෙලෙස යානය ගොඩ බැස්සවූ බව විදෙස් වාර්තා පෙන්වා දෙයි.
+
+...
+
+### යුක්‍රේනයෙන් රුසියාවට තවත් ප්‍රහාරයක්
+
+*2024-01-20 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192361) · `si`
+
+රුසියාවේ ඉන්ධන ගබඩාවකට එල්ලවූ යුක්‍රේන ඩ්‍රෝන ප්‍රහාරකියන් දරුණු ගින්නක් හටගෙන තිබූ බව විදෙස් වාර්තා පවසයි.
+
+වර්ග කිලෝමීටර දහසක වපසරියක් පුරා ගින්න පැතිර ගිය බව රුසියාව සඳහන් කර තිබේ.
+
+මේ දින දෙකක් තුළදී රුසියානු ඉන්ධන ගබඩාවකට එල්ලවූ දෙවන යුක්‍රේන ප්‍රහාරය යි.
+
+◼️
 
 ### செந்ாில் தொண்டமானை வாழ்த்தினார் வைரமுத்து
 
@@ -1071,25 +1097,5 @@ Highlight importance of tackling issues of online gender-based violence and harm
 National People’s Party (NPP) member Wasantha Samarasinghe recently highlighted the unjust acts committed by the Sri Lanka Police during the ongoing ‘Yukthiya’ operation to allegedly combat drugs and eradicate underworld activities.
 
 Samarasinghe relating a recent incident said a public transport bus had been stopped by a group of Special Task Force (STF) personnel in the Kahatagasdigiliya area for a random check.
-
-...
-
-### Jaffna International Trade Fair 2024 kicks off
-
-*2024-01-20 01:20:54* · [`dailyftlk`](https://www.ft.lk/business/Jaffna-International-Trade-Fair-2024-kicks-off/34-757566) · `en`
-
-The three-day Jaffna International Trade Fair 2024 kicked off yesterday as part of its pivotal role in fostering economic growth and community development in the Northern Province.
-
-Organised by Lanka Exhibition and Conference Services Ltd. (LECS), together with the Chamber of Commerce and Industry of Yarlpanam (CCIY), the Jaffna International Trade Fair 2024 is the 14th edition in the series.
-
-...
-
-### EDB, universities and associations join forces to strengthen ornamental fish industry, boost exports
-
-*2024-01-20 01:19:02* · [`dailyftlk`](https://www.ft.lk/business/EDB-universities-and-associations-join-forces-to-strengthen-ornamental-fish-industry-boost-exports/34-757565) · `en`
-
-A collaborative effort led by the Export Development Board (EDB) alongside Sri Lankan universities, the Tropical Ornamental Fish Association and Sri Lanka Ornamental Fish Farmers’ Association organised a one-day workshop on 11 January.
-
-The key objective of the workshop was to help improve the export potential of ornamental fish, support grassroots development, and enhance the abilities of exporters.
 
 ...

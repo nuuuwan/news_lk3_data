@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 21:17:28**
+As of **2024-01-20 21:33:02**
 
 ## Newspaper Stats
 
-*Scraped **1,452** Articles*
+*Scraped **1,456** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dbsjeyarajcom | 117
 virakesarilk | 129
 dailyftlk | 150
 adalk | 160
-dailymirrorlk | 164
+dailymirrorlk | 168
 adaderanalk | 180
 tamilmirrorlk | 182
 
@@ -26,7 +26,7 @@ tamilmirrorlk | 182
 
 Extensions include translations and NER (Named Entity Recognition).
 
-0 (0.0%) of 1,452 articles have been extended.
+0 (0.0%) of 1,456 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -113,6 +113,21 @@ Imported eggs were previously retailed at Rs. 35 per egg, while a carton was sol
 [Extended Data](ext_articles/5e0603ad.ext.json)
 
 ---
+### Leaked audio exposes woman attempting to bribe Narcotics ASP
+
+*2024-01-20 20:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leaked-audio-exposes-woman-attempting-to-bribe-Narcotics-ASP/108-275420) · `en`
+
+Colombo, Jan 20 (Daily Mirror) - A leaked audio conversation between a police officer and a female lawyer, suspected of representing a relative of organized criminal Ganemulla Sanjeewa who is being held at the Weeragula Police Station, has surfaced.
+
+It is alleged that during the conversation, the lawyer engaged with an Assistant Superintendent of Police (ASP) from the Narcotics Unit and attempted to offer a bribe.
+
+...
+
+[Data](articles/eba482d0.json)
+
+[Extended Data](ext_articles/eba482d0.ext.json)
+
+---
 ### Sri Lanka, Nepal explore avenues to further promote cultural and religious relations
 
 *2024-01-20 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96578/sri-lanka-nepal-explore-avenues-to-further-promote-cultural-and-religious-relations) · `en`
@@ -173,6 +188,40 @@ Mr. Jaishankar is in the Ugandan capital city of Kampala to represent India at t
 [Data](articles/c87114d6.json)
 
 [Extended Data](ext_articles/c87114d6.ext.json)
+
+---
+### Changing agreement with IMF under Opposition leader’s government a mere slogan
+
+*2024-01-20 18:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Changing-agreement-with-IMF-under-Opposition-leaders-government-a-mere-slogan/108-275419) · `en`
+
+Avissawella, Jan 20 (Daily Mirror) - statement made by the Opposition Leader about changing the agreement by the International Monetary Fund (IMF) with Sri Lanka is a mere slogan, Finance State Minister Ranjith Siyambalapitiya said.
+
+He said the Opposition Leader had made a statement that he will change the agreement with the IMF under his government.
+
+Therefore, everyone should act responsibly at this time, the Minister said at a meeting in Avissawella today.
+
+...
+
+[Data](articles/dc85af09.json)
+
+[Extended Data](ext_articles/dc85af09.ext.json)
+
+---
+### Jaishankar calls on President Wickremesinghe in Uganda
+
+*2024-01-20 18:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jaishankar-calls-on-President-Wickremesinghe-in-Uganda/108-275418) · `en`
+
+Uganda, Jan 20 (PTI) - Indian External Affairs Minister S Jaishankar on Saturday called on Sri Lankan President Ranil Wickremesinghe and discussed the progress of bilateral initiatives.
+
+Jaishankar is in the Ugandan capital city of Kampala to represent India at the two-day summit of the Non-Aligned Movement (NAM), which began on Friday.
+
+"Pleased to call on Sri Lankan President @RW_UNP on the sidelines of the NAM Summit in Kampala," Jaishankar posted on X.
+
+◼️
+
+[Data](articles/41ae4717.json)
+
+[Extended Data](ext_articles/41ae4717.ext.json)
 
 ---
 ### Rs. 1.6bn worth of heroin recovered from intercepted fishing trawlers
@@ -414,6 +463,21 @@ Globally and regionally, the recent COVID-19 pandemic has led to a decline in me
 [Data](articles/11398620.json)
 
 [Extended Data](ext_articles/11398620.ext.json)
+
+---
+### Even IMF has accepted NPP will come to power: Tilvin
+
+*2024-01-20 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Even-IMF-has-accepted-NPP-will-come-to-power-Tilvin/155-275416) · `en`
+
+Colombo, Jan. 20 (Daily Mirror)- Most countries and organisations in the world, such as the International Monetary Fund (IMF) have begun to realise that the National People's Power (NPP) will come to power at the next election, NPP General Secretary Tilvin Silva said today.
+
+He told a news conference that the Samagi Jana Balawegaya is perturbed over the NPP's recent meeting with the IMF representatives.
+
+...
+
+[Data](articles/279c4885.json)
+
+[Extended Data](ext_articles/279c4885.ext.json)
 
 ---
 ### Even IMF has accepted NPP will come to power: Tilvin
@@ -1530,69 +1594,5 @@ ECONOMYNEXT – The International Monetary Fund expects Sri Lanka to reach a dea
 [Data](articles/a233b5d1.json)
 
 [Extended Data](ext_articles/a233b5d1.ext.json)
-
----
-### German tourist’s solo stroll turns nightmarish
-
-*2024-01-20 08:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/German-tourists-solo-stroll-turns-nightmarish/108-275404) · `en`
-
-Ambalangoda, Jan 20 (Daily Mirror) - A 23-year-old German tourist visiting Ambalangoda had a terrifying encounter on Thursday evening while enjoying a solo stroll along the picturesque beach.
-
-An unidentified man suddenly lunged at her, leaving her with minor injuries and a deeply unsettling experience.
-
-...
-
-[Data](articles/64a6a33b.json)
-
-[Extended Data](ext_articles/64a6a33b.ext.json)
-
----
-### මනුෂ්‍ය ඝාතනයක් කළ අයෙකුට මරණ දඬුවම
-
-*2024-01-20 08:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192341) · `si`
-
-1996 වසරේ මාර්තු මස 30 වනදා  අම්බලන්ගොඩ රේල් ගේට්ටුව අසලදී පුද්ගලයෙකුට වෙඩි තබා මනුෂ්‍ය ඝාතනයක් සිදුකිරීම සම්බන්ධයෙන් වරදකරු වූ පුද්ගලයෙකුට අධිකරණය විසින් මරණ දඬුවම නියම කර තිබේ.
-
-මෙම නඩුව චූදිත නොමැතිව දීර්ඝ ලෙස බලපිටිය මහාධිකරණයේ විභාග කර ඇති අතර, අවසානයේ  ඊයේ (19) දිනයේ මෙම තීන්දුව ප්‍රකාශයට පත් කර ඇත.
-
-ඒ අනුව මරණීය දණ්ඩනය නියම කර ඇත්තේ, එම ඝාතන නඩුවේ දෙවන චූදිතට බව පොලීසිය පවසයි.
-
-...
-
-[Data](articles/1772fb33.json)
-
-[Extended Data](ext_articles/1772fb33.ext.json)
-
----
-### නාරම්මල වෙඩි තැබීමේ සැකකාර නිලධාරින්ගේ වැඩ තහනම්
-
-*2024-01-20 07:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192340) · `si`
-
-නාරම්මල ප්‍රදේශයේ දී වෙඩි වැදී පුද්ගලයෙකු මියයෑමේ සිද්ධියට සම්බන්ධ  උපපොලිස් පරීක්ෂකවරයා සහ පොලිස් කොස්තාපල්වරයාගේ වැඩ තහනම් කර තිබේ.
-
-පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යේෂ්ඨ පොලිස් අධිකාරී නිහාල් තල්දූව මහතා සඳහන් කළේ, ඊයේ (19) දිනය සිට ක්‍රියාත්මක වන පරිදි මොවුන් දෙදෙනාගේ වැඩ තහනම් කළ බවයි.
-
-අණ නොතකා ධාවනය කළ ලොරි රථයක් හඹාගෙන ගොස් එම ලොරි රථය නැවැත්වූ අවස්ථාවේ උපපොලිස් පරීක්ෂකවරයා සතු ගිනිඅවිය ක්‍රියාත්මක වී ලොරි රථයේ රියදුරාට වෙඩි වැදී ජීවිතක්ෂයට පත් වී තිබිණි.
-
-...
-
-[Data](articles/9e17ee45.json)
-
-[Extended Data](ext_articles/9e17ee45.ext.json)
-
----
-### Sri Lanka remains open for positive role in dousing India-Maldives tension
-
-*2024-01-20 07:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-remains-open-for-positive-role-in-dousing-India-Maldives-tension/155-275403) · `en`
-
-Colombo, Jan 20 (Daily Mirror) - Sri Lanka remains open to play a positive role in dousing tension between India and the Maldives in the greater interest of regional peace, Daily Mirror learns.
-
-First, tension between India and the Maldives flared up since the election of the new Maldivian president Mohamed Muizzu who openly advocates a pro-china policy and even called for Indian troops to leave his country for a foreign policy with better ties with China.
-
-...
-
-[Data](articles/285155cd.json)
-
-[Extended Data](ext_articles/285155cd.ext.json)
 
 ---

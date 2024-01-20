@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-20 23:51:33**
+As of **2024-01-21 00:02:27**
 
 ## Newspaper Stats
 
-*Scraped **1,467** Articles*
+*Scraped **1,472** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ virakesarilk | 129
 dailyftlk | 150
 adalk | 161
 dailymirrorlk | 170
-adaderanalk | 180
 tamilmirrorlk | 183
+adaderanalk | 185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-130 (8.9%) of 1,467 articles have been extended.
+130 (8.8%) of 1,472 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-20 (Saturday)
+
+### Fire in China school dorm kills 13 boys
+
+*2024-01-20 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96584/fire-in-china-school-dorm-kills-13-boys) · `en`
+
+A fire in a central China school dormitory killed 13 students and injured another，prompting the authorities to call for screening fire risks in crowded places, state media said on Saturday (20 Jan.).
+
+The Friday night fire killed third graders in a boys’ dormitory of Yingcai School in Henan Province, according to China Newsweek, a weekly magazine published by China News Service. Third graders in China are usually 9 years old.
+
+...
+
+[Data](articles/64a9676b.json)
+
+---
+
+### PUCSL to reach decision on proposed electricity tariffs next week
+
+*2024-01-20 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96583/pucsl-to-reach-decision-on-proposed-electricity-tariffs-next-week) · `en`
+
+The Public Utilities Commission of Sri Lanka (PUCSL) is scheduled to address the proposed revision of electricity tariffs by the Ceylon Electricity Board (CEB) in a meeting on 22 January.
+
+A final decision on the matter is anticipated at this meeting, following which the proposal and the PUCSL’s decision will be made public for a three-week period.
+
+The PUCSL will then modify the proposal based on public feedback and submit the final tariff revision to the CEB.
+
+...
+
+[Data](articles/37e5e4cf.json)
+
+---
 
 ### Youth shot dead inside mobile shop in Malimbada
 
@@ -47,6 +77,20 @@ The Malimbada Police are investigating to arrest the shooters and determine the 
 [Data](articles/fa431834.json)
 
 [Extended Data](ext_articles/fa431834.ext.json)
+
+---
+
+### ‘Look Africa’ initiative marks commencement of new economic journey between Sri Lanka and Africa – Minister
+
+*2024-01-20 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96582/look-africa-initiative-marks-commencement-of-new-economic-journey-between-sri-lanka-and-africa-minister-) · `en`
+
+President Ranil Wickremesinghe’s recent visit to Uganda has significantly contributed to strengthening diplomatic ties with African nations that have previously been overlooked in Sri Lanka’s foreign relations.
+
+The Minister of Foreign Affairs Ali Sabry PC, highlighted the importance of these engagements, emphasizing the sizable population of approximately 1.3 billion in these African countries and the anticipated rapid development in the future.
+
+...
+
+[Data](articles/86cc4cb4.json)
 
 ---
 
@@ -96,6 +140,22 @@ Peter Breuer, IMF Senior Mission Chief to Sri Lanka, emphasized the importance o
 
 ---
 
+### One killed in shooting at Thelijjawila
+
+*2024-01-20 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96581/one-killed-in-shooting-at-thelijjawila-) · `en`
+
+An individual has been reported dead following a shooting incident in Thellijawila, Matara this evening (20 Jan.), police reported.
+
+According to police, the 24-year-old was gunned down by two suspects who had reportedly arrived on a motorcycle and opened fire at a phone shop located in the Thelijjawila Juncton.
+
+Police suspect that a pistol was used for the shooting, while the motive behind the incident is yet to be ascertained.
+
+...
+
+[Data](articles/0fb59a80.json)
+
+---
+
 ### වෙඩික්කරුවන් දෙදෙනෙකු තරුණයෙකු ඝාතනය කර පළායයි
 
 *2024-01-20 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192371) · `si`
@@ -129,6 +189,20 @@ Peter Breuer, IMF Senior Mission Chief to Sri Lanka, emphasized the importance o
 ...
 
 [Data](articles/023db2bb.json)
+
+---
+
+### CPJ calls for withdrawal of proposed Online Safety Bill, urges ‘meaningful consultations’
+
+*2024-01-20 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96580/cpj-calls-for-withdrawal-of-proposed-online-safety-bill-urges-meaningful-consultations) · `en`
+
+The Committee to Protect Journalists (CPJ) has urged Sri Lanka’s Minister of Public Security to withdraw the proposed Online Safety Bill.
+
+In a joint letter addressed to the Minister, the CPJ, together with 58 other organisations, urged Minister Tiran Alles to withdraw the relevant Bill, and to conduct ‘meaningful consultations with all stakeholders including local groups’ in this regard.
+
+...
+
+[Data](articles/f413a863.json)
 
 ---
 
@@ -1661,97 +1735,5 @@ Showers will occur at times in the East and Uva provinces and in the area of Sri
 [Data](articles/ab81dabc.json)
 
 [Extended Data](ext_articles/ab81dabc.ext.json)
-
----
-
-### Operation Yukthiya nets 986 in 24 hours
-
-*2024-01-20 09:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/operation-yukthiya-nets-986-in-24-hours/) · `en`
-
-COLOMBO (News 1st) – 986 more suspects have been apprehended in the past 24 hours.
-
-The Ministry of Public Security says that 667 of the suspects are said to be linked to various drug offenses.
-
-319 on the list prepared by the Police Narcotics Bureau and Special Bureau have also been apprehended.
-
-Police say that drugs including 586 grams of Heroin and 180 grams of ICE in possession of suspects, were seized.
-
-...
-
-[Data](articles/18e052f1.json)
-
-[Extended Data](ext_articles/18e052f1.ext.json)
-
----
-
-### Four people lose their lives in Indian accident
-
-*2024-01-20 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192344) · `si`
-
-Four persons were killed and two others were injured in an accident in India.
-
-The accident had occurred when the crash was a rapid vehicle.
-
-Six passengers have traveled at the car when the accident occurred and they were returning from a wedding.
-
-Foreign media reports that the injured have been abandoned at Agra's private hospital.
-
-◼️
-
-[Data](articles/2d75b0e5.json)
-
-[Extended Data](ext_articles/2d75b0e5.ext.json)
-
----
-
-### Minister of Agriculture warns of another vegetable shortage
-
-*2024-01-20 09:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/minister-of-agriculture-warns-of-another-vegetable-shortage/) · `en`
-
-COLOMBO (News 1st) – Minister of Agriculture and Plantation Industries, Mahinda Amaraweera says that even if the current shortage of vegetables will end in the near future, there may be another shortage of vegetables by the month of June.
-
-The minister says that the main reason for this is the possible occurrence of a drought this year.
-
-...
-
-[Data](articles/7f65f70f.json)
-
-[Extended Data](ext_articles/7f65f70f.ext.json)
-
----
-
-### Sri Lanka Police awards Rs. 1 million compensation to family of lorry driver
-
-*2024-01-20 09:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Police-awards-Rs-1-million-compensation-to-family-of-lorry-driver/108-275407) · `en`
-
-Colombo, Jan 20 (Daily Mirror) - The Sri Lanka Police provided a compensation of Rs. 1 million to the family of a lorry driver who lost his life in the shooting incident in Narammala.
-
-Acting Inspector General of Police Deshabandu Thennakoon personally handed over the compensation at the residence of the deceased driver in Alawwa.
-
-The incident occurred on Thursday night when a 41-year-old lorry driver became the victim of an accidental discharge from a sub-inspector's firearm.
-
-...
-
-[Data](articles/8f1f0b0e.json)
-
-[Extended Data](ext_articles/8f1f0b0e.ext.json)
-
----
-
-### Driver's death;Seizure
-
-*2024-01-20 09:01:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாரதி-மரணம்-அதிகாரிகளின்-பதவி-பறிப்பு/175-331836) · `ta`
-
-Police have paid a million rupees of compensation to relatives of a lorry driver who died in the firing of a police officer in Naramala area.
-
-Police said that the amount was paid by the Inspector General of Police, Deshabandu Tennakoon, in response to the house in the area of the deceased driver.
-
-The Assistant Police Inspector and the Police Constable have been suspended.
-
-...
-
-[Data](articles/9884e6b1.json)
-
-[Extended Data](ext_articles/9884e6b1.ext.json)
 
 ---

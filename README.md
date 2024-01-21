@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 08:50:46**
+As of **2024-01-21 09:17:15**
 
 ## Newspaper Stats
 
-*Scraped **1,506** Articles*
+*Scraped **1,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,36 +17,56 @@ economynextcom | 101
 dbsjeyarajcom | 117
 virakesarilk | 129
 dailyftlk | 150
-adalk | 162
+adalk | 163
 dailymirrorlk | 170
-tamilmirrorlk | 185
 adaderanalk | 186
+tamilmirrorlk | 188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-552 (36.7%) of 1,506 articles have been extended.
+583 (38.6%) of 1,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### සෞඛ්‍ය ප්‍රසම්පාදන ක්‍රියාවලිය ගැන පූර්ණ විශ්ලේෂණයක්
+### The new resolution taken for students ...
+
+*2024-01-21 08:33:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்காக-எடுக்கப்பட்டுள்ள-புதிய-தீர்மானம்/175-331869) · `ta`
+
+Police Inspector Deshpandu Thenkon said that a program to clarify to school students on drug threat will be launched from 5th of this month.
+
+In response to a comment yesterday (20), the Inspector General of Police, Deshpandu Thenkon, said this.
+
+National Youth Service Council trainers and university students have been selected for the project. Remble
+
+◼️
+
+[Data](articles/a1f90ab8.json)
+
+[Extended Data](ext_articles/a1f90ab8.ext.json)
+
+---
+
+### Full analysis of the Procurement Procedure
 
 *2024-01-21 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192381) · `si`
 
-සෞඛ්‍ය අමාත්‍යාංශය පසුගිය කාලය තුළ සිදු වූ ප්‍රසම්පාදන ක්‍රියා සම්බන්ධයෙන් පූර්ණ විශ්ලේෂණයක් කළ යුතු බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා පවසයි.
+Dr. Chamal Sanjeewa, Chairman of the Medical and Civil Rights, says that the Ministry of Health should a full analysis of procurement activities in the recent past.
 
-ඔහු ප්‍රකාශ කළේ, අදාළ ගනුදෙනුවල දී යම්කිසි ගැටලුවක් හෝ වංචාවක් සිදු ව ඇත්නම් ඊට වර්තමාන සෞඛ්‍ය පරිපාලනය කඩිනමින් ක්‍රියාත්මක විය යුතු බවයි.
+He said that if a problem or fraud in the transactions, the current health administration should work quickly.
 
-ප්‍රශ්න සහගත ප්‍රසම්පාදන ක්‍රියාවලි සිදු වී පසුගිය කාලයේ දී විශාල ප්‍රමාණයේ මුදල් ප්‍රතිපාදන වෙන් කර ගෙවීම් සිදු කර ඇනවුම් කරන ලද ඖෂධ රට තුළට ලැබෙමින් පවතින බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපතිවරයා පෙන්වා දෙයි.
+The Chairman of the Doctors of Medical and Civil Rights UPFA points out that large amounts of funds allocated and paid in the country during the past.
 
-ඒ හේතුවෙන් ප්‍රශ්න සහගත ප්‍රසම්පාදනයෙන් රටට අහිමි වන මුදල් ප්‍රමාණය ඉතුරු කර ගැනීම නැතහොත් නැවත ඒවා අය කරගැනීම පිළිබඳ වර්තමාන සෞඛ්‍ය අමාත්‍යවරයාට හා වර්තමාන සෞඛ්‍ය ලේකම්වරයාට අත්හළ නොහැකි වගකීමක් ඇති බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා වැඩිදුරටත් පැවසීය.
+Dr. Chamal Sanjeewa added that the present Health Minister and Civil Rights Alliance (UPFA) of the Medical and Civil Rights, the current Health Minister and the present Health Secretary has stated that the current Health Minister and the present health secretary is responsible for recovering the amount of money lost.
 
 ◼️
 
 [Data](articles/401cc1c3.json)
+
+[Extended Data](ext_articles/401cc1c3.ext.json)
 
 ---
 
@@ -70,21 +90,23 @@ The public is kindly requested to take adequate precautions to minimize damages 
 
 ---
 
-### 19න් පහළ ශ්‍රී ලංකා - සිම්බාබ්වේ තරගය අද
+### Under-19 Sri Lanka - Zimbabwe match today
 
 *2024-01-21 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192380) · `si`
 
-19න් පහළ අයි.සී.සී ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව මුහුණ දෙන පළමු තරගය අද (21) පැවැත්වීමට නියමිතයි.
+Sri Lanka's first match will be held today (21) at the ICC World Cup.
 
-තරගය දකුණු අප්‍රිකාවේ කිම්බර්ලිහි දී අද පස්වරු 01.30ට තරගය ආරම්භ වීමට නියමිත ව ඇත.
+The match is scheduled to start at 01.30 pm today in South Africa.
 
-නේපාල සහ නවසීලන්ත 19න් පහළ කණ්ඩායම් අතර තරගය ද අද පැවැත්වීමට නියමිත ව තිබේ.
+The match between Nepal and New Zealand, under 19, is scheduled to be held today.
 
-19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා කාණ්ඩ 04ක් යටතේ කණ්ඩායම් 16ක් තරග වදින අතර, ශ්‍රී ලංකාව සී කාණ්ඩයට ඇතුළත් වේ.
+16 teams compete in four categories for the Under 19 World Cup.
 
 ◼️
 
 [Data](articles/66d0b436.json)
+
+[Extended Data](ext_articles/66d0b436.ext.json)
 
 ---
 
@@ -155,6 +177,22 @@ President to address the 3rd South Summit of the Group of 77 & China in Uganda
 [Data](articles/2475d51b.json)
 
 [Extended Data](ext_articles/2475d51b.ext.json)
+
+---
+
+### Lowest employees in 11 years
+
+*2024-01-21 07:49:54* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිමට-වසර-11කදී-අඩුම-සේවක-බඳවා-ගැනිම-2023දී/11-407634) · `si`
+
+It has been in the last year that the Ceylon Electricity Board (LIMITED) has been recruited last year.
+
+Troops recruited in 2023. During that 11 years, the highest number of employees have been recruited in 2016, the number is 4675. In 2017, 1755 employees have been recruited.
+
+◼️
+
+[Data](articles/5800a012.json)
+
+[Extended Data](ext_articles/5800a012.ext.json)
 
 ---
 
@@ -385,6 +423,40 @@ Peter Julian Robin Morgan, CBE, is my first person of interest. He was born on A
 [Data](articles/5ecfc9f1.json)
 
 [Extended Data](ext_articles/5ecfc9f1.ext.json)
+
+---
+
+### The corpse of the elderly
+
+*2024-01-21 03:26:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயோதிபரின்-சடலம்-மீட்பு/175-331867) · `ta`
+
+The body was found yesterday in the Hepatikollawa area on the Vavuniya border of the Vavuniya and Trincomalee main road.
+
+Police said that the 60 -year -old elderly man died due to an accident and that the vehicle that caused the accident had escaped.. (A)
+
+◼️
+
+[Data](articles/2369b19a.json)
+
+[Extended Data](ext_articles/2369b19a.ext.json)
+
+---
+
+### Egg price in Sathosa today is 43 rupees
+
+*2024-01-21 03:21:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றுமுதல்-சதொசவில்-முட்டை-விலை-43-ரூபா/175-331866) · `ta`
+
+Trade Minister Nalin Fernando said the price of an Indian egg imported from Sathosa would be increased to 43 rupees from today.
+
+Sathosa outlets have restricted egg sales due to the increase in the tax increase.. Accordingly, an egg shortage in Sathosa has occurred.
+
+In this context, Minister Nalin Fernando has said that the price of eggs in the market has increased again.. (A)
+
+◼️
+
+[Data](articles/baa5900e.json)
+
+[Extended Data](ext_articles/baa5900e.ext.json)
 
 ---
 
@@ -1993,99 +2065,5 @@ He quoted a 2013 study showing that sexual minorities feared seeking help from p
 [Data](articles/569825e7.json)
 
 [Extended Data](ext_articles/569825e7.ext.json)
-
----
-
-### Israeli soldiers who have lost their lives in Gaza
-
-*2024-01-20 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174386) · `ta`
-
-CNN has reportedly received videos that show that Israeli soldiers have destroyed more than 16 cemetery in Gaza
-
-CNN said that the bodies have been excavated in some cases.
-
-Israeli soldiers have destroyed the cemetery and searched the bodies this week.
-
-The Israeli security forces have said that this has been a part of the Find to find those caught by Hamas.
-
-Sinn has said that the cemetery has been destroyed and has been investigating the pictures and social media films.
-
-CNN said that Israeli soldiers were planning to deliberately carry out this as it was heading towards Gaza.
-
-CNN also pointed out that the destruction of graves is a violation of international law.
-
-CNN said lawyers say Israel's action is equivalent to war crimes.
-
-The Israeli Security Force spokesman said that the destruction of the 16 -year -olds could not be destroyed.
-
-Israeli security forces have said that their main purpose is to rescue hostages and find their bodies.
-
-...
-
-[Data](articles/ad4a98ce.json)
-
-[Extended Data](ext_articles/ad4a98ce.ext.json)
-
----
-
-### Special dengue control program in place covering Colombo District
-
-*2024-01-20 12:51:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/special-dengue-control-program-in-place-covering-colombo-district/) · `en`
-
-COLOMBO (News 1st) – The National Dengue Control Unit says that a special dengue control program will be implemented next week to cover the Colombo district.
-
-Its director, Dr. Sudath Samaraweera, said that 20% of dengue cases in the country are reported from the Colombo district.
-
-He added that 6,689 cases of dengue have been reported in the last 18 days of this year alone.
-
-IMF & Sri Lanka: Tax reforms and fiscal discipline seen as key to overcoming the crisis
-
-Navy seized Rs. 1.6 BILLION worth of Heroin in major drug bust on High Seas
-
-◼️
-
-[Data](articles/916aa839.json)
-
-[Extended Data](ext_articles/916aa839.ext.json)
-
----
-
-### Compensation for driver who died in shooting
-
-*2024-01-20 12:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-உயிரிழந்த-சாரதிக்கு-இழப்பீடு/175-331841) · `ta`
-
-The police have provided a million rupees of loss to the relatives of the lorry driver who died in the shooting of the police officer.
-
-In response to the house in the driver's Alawa area, the Inspector General of Police Deshpandu Tennakoon has paid the amount.
-
-During a vehicle inspection carried out in the Naramala area on the afternoon, the driver fell into a police fire.
-
-The father of three children aged 41 from Maharachchiyamulla died in the incident.
-
-Subsequently, the Assistant Police Inspector and the Police Constable in connection with the incident have been suspended from yesterday (19).. (N)
-
-◼️
-
-[Data](articles/40660186.json)
-
-[Extended Data](ext_articles/40660186.ext.json)
-
----
-
-### New set of instructions to police officers
-
-*2024-01-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192351) · `si`
-
-Acting IGP Tennakoon says he has given a new set of instructions not to stop traffic in civilian dress.
-
-The new set of instructions were sent to all police stations yesterday.
-
-He added that the new training was given to the death of a driver in the Narammala area on the 18th.
-
-◼️
-
-[Data](articles/e2c78c6a.json)
-
-[Extended Data](ext_articles/e2c78c6a.ext.json)
 
 ---

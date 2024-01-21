@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 19:50:08**
+As of **2024-01-21 20:17:18**
 
 ## Newspaper Stats
 
-*Scraped **1,620** Articles*
+*Scraped **1,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ newsfirstlk | 109
 dbsjeyarajcom | 121
 virakesarilk | 149
 dailyftlk | 150
-adalk | 174
-dailymirrorlk | 181
+adalk | 176
+dailymirrorlk | 183
 tamilmirrorlk | 200
 adaderanalk | 203
 
@@ -26,11 +26,25 @@ adaderanalk | 203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,170 (72.2%) of 1,620 articles have been extended.
+1,194 (73.5%) of 1,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### CR end 27-year wait with scintillating win
+
+*2024-01-21 19:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CR-end-27-year-wait-with-scintillating-win/108-275436) · `en`
+
+Kandy, Jan. 21 (Daily Mirror) - CR & FC ended their 27-year wait to beat Kandy Sports Club in a league encounter as they recorded a 38-point (6 tries, 4 conversions) to 26-point (4 tries, 3 conversions) win in their crucial Inter Club Rugby encounter, which concluded at the Nittawela Rugby Stadium.
+
+The game was contested at a rapid speed, with Red Shirts forwards showing great commitment and speed, shocking not only the home team but the packed stadium as well. Adeesha Weerathunge, Mursheed Doray, Lasindu Karunathilake, Manilka Ruberu, and Gemunu Chethiya were outstanding in both defence and attack. They landed the defending champions with four early tries in the initial half, which was too much for a comeback game.
+
+...
+
+[Data](articles/93c8d9b7.json)
+
+---
 
 ### The crime of the grandmother for a little girl
 
@@ -55,6 +69,26 @@ She has fled the area and police investigations have been launched to arrest the
 [Data](articles/9b16a362.json)
 
 [Extended Data](ext_articles/9b16a362.ext.json)
+
+---
+
+### Ministry of Karapitiya
+
+*2024-01-21 19:06:11* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිය-සිදුවීම-ගැන-අමාත්‍යාංශයෙන්-පරීක්ෂණයක්/11-407647) · `si`
+
+Director of the Ministry of Health has already begun an attempt to attack and assaulted the Karapitiya Teaching Hospital, Karapitiya Teaching Hospital.Puba Theater said.
+
+The Director of the Ministry of Health said that investigations were attended by the Ministry of Health at the Karapitiya Hospital and investigating these incidents.. The director of the hospital was the Director of the Health Services to investigate the disciplinary in connection with the two of these incidents.
+
+The director of the hospital says that the specialist surgeon has requested the necessary measures to retire.
+
+Meanwhile, the queue of perceived censorship cancer in the face of condolences of cancer is determined in the face of condolences to the Cancer Surgeons. Cancer patients say that this surgeon performs six surgeries a day and is a surgeon who is a large surgeon day and night.
+
+...
+
+[Data](articles/7417095f.json)
+
+[Extended Data](ext_articles/7417095f.ext.json)
 
 ---
 
@@ -456,6 +490,26 @@ Meanwhile, the Indian government has rejected the reports even before the airpla
 
 ---
 
+### 100 crores to compensation for drought cultivation
+
+*2024-01-21 15:49:56* · [`adalk`](https://www.ada.lk/breaking_news/නියඟයෙන්-වූ-වගා-හානි-වෙනුවෙන්-වන්දි-ගෙවීමට-කෝටි-100ක්/11-407646) · `si`
+
+Minister of Agriculture Mahinda Amaraweera says that the government has allocated Rs.
+
+The remaining compensation is also paid expeditiously by the Department of Agrarian Development.
+
+The drought caused by the year of 2023 was damaged by 65,000 acres of paddy cultivated.
+
+Thimber sixty-six million rupees for the crop damage in the Kurunegala District is Rs.
+
+◼️
+
+[Data](articles/8512ec8a.json)
+
+[Extended Data](ext_articles/8512ec8a.ext.json)
+
+---
+
 ### South Indian Indiconers come from Hatton
 
 *2024-01-21 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192396) · `si`
@@ -815,6 +869,24 @@ Speaking during a service at St. Sebastian's Church, Kandana, Cardinal Ranjith s
 [Data](articles/3529b651.json)
 
 [Extended Data](ext_articles/3529b651.ext.json)
+
+---
+
+### Catholic Church to declare those who died in Easter Sunday attacks as saints
+
+*2024-01-21 13:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Catholic-Church-to-declare-those-who-died-in-Easter-Sunday-attacks-as-saints/155-275433) · `en`
+
+Colombo, Jan 21 (Daily Mirror) - The Catholic Church is to declare those who died in the Easter Sunday attacks as saints, Archbishop of Colombo Cardinal Malcolm Ranjith said over the weekend.
+
+Speaking during a service at St. Sebastian's Church, Kandana, Cardinal Ranjith said the first step towards this move will be taken on April 21 this year when the country commerates the fifth anniversary of the Easter Sunday bomb attacks.
+
+"Those who died in churches on April 21, 2019  sacrificed their lives for what they believed. They came to church on that day because they believed in Christ. They sacrificed their lives because they loved Christ like other saints," he said.
+
+"A person can be named a saint only after the completion of five years since his  sacrifice. Therefore, we will move towards declaring Easter Sunday victims as saints on April 21 this year," he added.
+
+...
+
+[Data](articles/b17b15df.json)
 
 ---
 
@@ -2051,89 +2123,5 @@ The first election was elected to Parliament in the 2010 parliamentary election 
 [Data](articles/f68b6d96.json)
 
 [Extended Data](ext_articles/f68b6d96.ext.json)
-
----
-
-### 987 suspects arrested
-
-*2024-01-21 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192383) · `si`
-
-The police said that 987 suspects were arrested in the 24 hours in the year (21st).
-
-It includes 663 suspects on drug misbehavior and 324 suspects on the list.
-
-In addition, alcohol has also been taken into custody.
-
-Out of the 638 suspects arrested in drug errors, 12 suspects are underway on detention orders.
-
-Five of the assets and 14 drug addicts have been sent to rehabilitation.
-
-Meanwhile, 14 suspects were taken into custody in the list of the Police Narcotics Bureau and the Police Special Bureau.
-
-The police said that there were 222 suspects in the list of the 324 suspects arrested on drugs and non-drug errors in the list of the list of criminal sections.
-
-There were 11 suspects and 1 suspects who were not arrested from the media.
-
-◼️
-
-[Data](articles/bc81f9e7.json)
-
-[Extended Data](ext_articles/bc81f9e7.ext.json)
-
----
-
-### Iran is revenge
-
-*2024-01-21 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192382) · `si`
-
-Iran says that aviation attack on a crowded area of Syria will be assassinated by the murder of five top officials of Iranian revolutionary army.
-
-Five Iranian military officers were killed in a Damascus building in the Damascus building in Syria.
-
-Although Iran and Syria had stated that Israel had stated that Israeli was attacked by Israel, Israel has refused to comment on it.
-
-Iranian President Irania stated that the attack is a terrorist and a criminal act and counterfeit against it.
-
-◼️
-
-[Data](articles/e50d4d67.json)
-
-[Extended Data](ext_articles/e50d4d67.ext.json)
-
----
-
-### Massive earthquake in the Indian Ocean
-
-*2024-01-21 08:38:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியப்-பெருங்கடலில்-பாரிய-நிலநடுக்கம்/175-331870) · `ta`
-
-This earthquake is 10 km. The National Earthquake Research Center said that it was in depth.
-
-It also recorded at 6.4 on the Richter scale. Thus no tsunami warning was issued. Remble
-
-◼️
-
-[Data](articles/73982ca0.json)
-
-[Extended Data](ext_articles/73982ca0.ext.json)
-
----
-
-### Price of Indian eggs increased at Sathosa outlets
-
-*2024-01-21 08:36:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/price-of-indian-eggs-increased-at-sathosa-outlets/) · `en`
-
-COLOMBO (News 1st); The price of Indian eggs sold through Sathosa outlets has been increased from Sunday (21).
-
-Minister of Trade, Commerce and Food Security Nalin Fernando said the revised price of an Indian egg is Rs.43.
-
-The Minister attributed the price revision to the VAT increase.
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-◼️
-
-[Data](articles/c7457509.json)
-
-[Extended Data](ext_articles/c7457509.ext.json)
 
 ---

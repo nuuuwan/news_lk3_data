@@ -1,36 +1,208 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 13:51:44**
+As of **2024-01-21 14:17:24**
 
 ## Newspaper Stats
 
-*Scraped **1,559** Articles*
+*Scraped **1,568** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 37
-adaderanasinhalalk | 52
+adaderanasinhalalk | 56
 islandlk | 97
-newsfirstlk | 102
 economynextcom | 103
+newsfirstlk | 106
 dbsjeyarajcom | 118
 virakesarilk | 137
 dailyftlk | 150
 adalk | 168
 dailymirrorlk | 178
 tamilmirrorlk | 195
-adaderanalk | 195
+adaderanalk | 196
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-807 (51.8%) of 1,559 articles have been extended.
+835 (53.3%) of 1,568 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### සහල් ආනයනය අනවශ්‍ය බවට ඇමතිගෙන් ප්‍රකාශයක්
+
+*2024-01-21 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192392) · `si`
+
+රටට අවශ්‍ය සහල් ප්‍රමාණය රට තුළම නිෂ්පාදනය කිරීමට මේ වන විටත් කටයුතු කරමින් සිටින බව අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
+
+ඒ අනුව සහල් රටින් ගෙන්වීමට අවශ්‍යතාවක් නැතැයි අමාත්‍යවරයා සඳහන් කළේය.
+
+එවන් පසුබිමක සහල් සැකසුම් ක්‍රියාවලිය වෙනුවෙන් 1984 වර්ෂයේ ඉදිකර තිබූ වී අලෙවි මණ්ඩලය සතු ස්ථානයක් අද වන විට විනාශ මුඛයට යාමේ සිද්ධියක් වාර්තා වෙයි.
+
+රුපියල් කෝටි ගණනක වියදමක් දරමින් බුල්නෑව සහල් සැකසුම් මධ්‍යස්ථානය ආරම්භයෙන් පසු ඒ හරහා විශාල පිරිසකට රැකියා ද හිමි විය.
+
+අඛණ්ඩ ව වසර 05ක් පුරා සහල් සැකසුම් ක්‍රියාවලිය සිදු කළ මෙම ස්ථානය වසර ගණනාවක සිට කිසිදු ප්‍රයෝජනයක් ගෙන නොමැති ව වසා දමා ඇති බවට ප්‍රදේශවාසිහු චෝදනා කරති.
+
+ගොඩනැගිලි පාලුවට යාමෙන් අභාවයට පත් වන මෙම ස්ථානය අද වන විට මැසි මදුරුවන් බෝ වන ස්ථානයක් මෙන්ම ගවයන්ගේ නවාතැන්පොළක් බවට පත් ව හමාර ය.
+
+රටේ ආහාර අර්බුද පවතින පසුබිමක මෙවැනි වටිනා සම්පතක් විනාශ මුඛයට යාම වැළැක්වීමට වගකිව යුතු බලධාරීන්ගේ අවධානය යොමු විය යුතු බව 'අද දෙරණ' සිහිපත් කරයි.
+
+◼️
+
+[Data](articles/7de6e3bd.json)
+
+---
+
+### Passenger plane crashes in northeastern Afghan mountains
+
+*2024-01-21 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96596/passenger-plane-crashes-in-northeastern-afghan-mountains) · `en`
+
+A plane crashed in mountainous northeastern Afghanistan, a provincial government official said Sunday.
+
+The aircraft crashed in Badakhshan province, which borders China, Tajikistan and Pakistan but the exact site of the accident was unknown.
+
+“The plane has crashed but the location is not known yet. We have sent teams but they have not arrived yet,” Zabihullah Amiri, head of the provincial information department, told AFP, without giving further details.
+
+The mighty Hindu Kush mountain range cuts through the province, which is home to Afghanistan’s highest mountain, Mount Noshaq at 7,492 metres (24,580 feet) high.
+
+◼️
+
+[Data](articles/dec7e644.json)
+
+[Extended Data](ext_articles/dec7e644.ext.json)
+
+---
+
+### ජනපතිගේ වැඩපිළිවෙළට ගෝලීය නායකයන්ගේ පැසසුම
+
+*2024-01-21 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192391) · `si`
+
+ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැඟීමට ජනපති ගෙන යන වැඩපිළිවෙළ ගෝලීය නායකයන්ගේ පැසසුමට ලක් ව ඇති බව විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා පවසයි.
+
+ජනපති උගන්ඩාවේ සිදු කරන නිල සංචාරය පිළිබඳ අදහස් දක්වමින් අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේය.
+
+මේ අතර, උගන්ඩාවේ කම්පාලා නුවර දී G77 හා චීනය 03 වැනි දකුණු සමුළුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (21) ඇමතීමට නියමිත ව තිබේ.
+
+උගන්ඩාවේ කම්පාලා නුවර පැවැත්වුණු නොබැඳි ජාතීන්ගේ සමුළුවට සමගාමී ව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හා ටැන්සානියා අග්‍රාමාත්‍ය කසිම් මජ්අලීවා මහතා අතර හමුවක් පැවැත්විණි.
+
+එමෙන්ම බහමාස් රාජ්‍යයේ අග්‍රාමාත්‍ය පිලිප් ඩේවිස් මහතා ද ජනාධිපතිවරයා හමු වී ද්විපාර්ශ්වික සාකච්ඡා පැවැත්වීය.
+
+මේ අතර, අප්‍රිකානු රටවල් රැසක් සමඟ සබඳතා තර කර ගැනීමට ජනාධිපතිවරයාගේ නිල සංචාරය ඉවහල් වූ බව විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා පවසයි.
+
+මේ අතර, G77 හා චීනය 03 වැනි දකුණු සමුළුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද ඇමතීමට නියමිත ව තිබේ.
+
+...
+
+[Data](articles/ccbe6ca9.json)
+
+---
+
+### ශ්‍රම බළකාය මුහුණ දී ඇති අර්බුදයක් පිළිබඳ දැනුම්දීමක්
+
+*2024-01-21 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192390) · `si`
+
+මෙරට ශ්‍රම බළකායෙන් වැඩි පිරිසක් මේ වන විට මත්ද්‍රව්‍යවලට ඇබ්බැහි වී ඇති බව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකොන් මහතා පවසයි.
+
+මත්ද්‍රව්‍ය නිවාරණය පිළිබඳ ප්‍රජාව දැනුම්වත් කිරිම වෙනුවෙන් මහරගම දී පැවති වැඩසටහනකට එක්වෙමින් ඔහු මේ අදහස් පළ කළේය.
+
+ප්‍රජා පොලිස් පිහිටුවීමේ පස් වැනි අදියර ලෙස කොළඹ මධ්‍යම කොට්ඨාසයේ ප්‍රජා පොලිස් නිලධාරින් දැනුම්වත් කිරීමේ උත්සවයක් මාලිගාවත්ත පීඩී සිරිසේන ක්‍රීඩාංගනයේ දී ඊයේ (20) පැවැත්විණි.
+
+ඒ, මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් සහ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකොන් මහතාගේ ප්‍රධානත්වයෙනි.
+
+පොලිස් වසම් 08ක් නියෝජනය කරමින් ප්‍රජා පොලිස් සාමාජිකයන් 2,100ක් එම වැඩසටහනට සහභාගි වී සිටියේය.
+
+◼️
+
+[Data](articles/15675cb7.json)
+
+---
+
+### Another 987 suspects arrested during operation ‘Yukthiya’
+
+*2024-01-21 13:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/another-987-suspects-arrested-during-operation-yukthiya/) · `en`
+
+COLOMBO (News 1st); 987 suspects have been arrested during the 24 hours that ended at 12.30 on Sunday (21) morning, under operation 'Yukthiya', which was carried out across the island.
+
+Police said 663 suspects related to drug offenses and 324 suspects who were on the list directed to the crimes divisions were among the arrested group.
+
+Drugs including 270 grams of heroin, 140 grams of ICE and 18kg of cannabis were seized during the operation.
+
+◼️
+
+[Data](articles/56412894.json)
+
+[Extended Data](ext_articles/56412894.ext.json)
+
+---
+
+### තෙලිජ්ජවිල වෙඩි තැබීම අත්වැරදීමක් බවට හෙළිදරව්වක්
+
+*2024-01-21 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192389) · `si`
+
+මාතර - තෙලිජ්ජවිල ප්‍රදේශයේ ඊයේ (20) රාත්‍රියේ සිදු වූ වෙඩි තැබීමෙන් මිය ගොස් ඇත්තේ, අපරාධකරුවන්ගේ ඉලක්කය වූ පුද්ගලයා නොවන බවට පොලිස් විමර්ශනවලින් අනාවරණය වී තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යේෂ්ඨ පොලිස් අධිකාරී නිතීඥ නිහාල් තල්දූව මහතා සඳහන් කළේ, අදාළ වෙඩි තැබීමෙන් මිය ගොස් ඇත්තේ, 22 හැවිරිදි තරුණයෙකු බවයි.
+
+ඔහු වෙඩිතැබීම සිදු වූ දුරකථන උපාංග අලෙවිසලට පැමිණි අයෙකු වන අතර, අපරාධකරුවන්ගේ ඉලක්කය වී තිබූණේ එම අලෙවිසලේ හිමිකරු බවට සිදු කළ විමර්ශනවල දී අනාවරණය වූ බව නිහාල් තල්දූව මහතා පැවසීය.
+
+මාතර - මාලිම්බඩ පොලිස් වසමේ තෙලිජ්ජවිල මංසන්ධියේ පිහිටි ජංගම දුරකථන උපාංග අලෙවිසලක දී පුද්ගලයෙකු ඉලක්ක කරගෙන වෙඩි තැබීමක් සිදු වුණේ ඊයේ (20) රාත්‍රී 08ට පමණ ය.
+
+යතුරු පැදියකින් පැමිණි පුද්ගලයන් දෙදෙනකු එම වෙඩි ප්‍රහාරය එල්ල කර තිබිණි.
+
+යතුරු පැදියෙන් පැමිණි දෙදෙනාගෙන් එක් පුද්ගලයෙකු දුරකථන උපාංග අලෙවි අලෙවිසලට ඇතුළු වී වෙඩිතැබීම සිදු කර ඇත.
+
+ඝාතකයන්, වෙඩිතැබීමට පෙර ද දුරකථන උපාංග අලෙවිසලට පැමිණ ඡායාපිටපත් ලබා ගැනීමට අවශ්‍ය බවට පවසා ඇති අතර, එහි දී හිමිකරු පවසා ඇත්තේ අදාළ පහසුකම නොමැති බවයි.
+
+...
+
+[Data](articles/dfc3072d.json)
+
+---
+
+### Group of doctors protest opposite Karapitiya Teaching Hospital
+
+*2024-01-21 12:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/group-of-doctors-protest-opposite-karapitiya-teaching-hospital/) · `en`
+
+COLOMBO (News 1st); A group of doctors of the Karapitiya Teaching Hospital and area residents launched a protest on Sunday (21) morning, opposite the Karapitiya Teaching Hospital.
+
+News 1st correspondent said the protest was held to demand the release of the Specialist Doctor who was arrested and remanded on charges of assaulting two minor staff members.
+
+The doctor was charged with allegedly assaulting the relevant employee after a dispute regarding a strike held on the 16th of January escalated.
+
+Police also arrested two hospital workers on Saturday (20) night on suspicion of assaulting the relevant doctor.
+
+They will be produced before the Galle Magistrate on Sunday (21).
+
+◼️
+
+[Data](articles/d19daa25.json)
+
+[Extended Data](ext_articles/d19daa25.ext.json)
+
+---
+
+### President Wickremesinghe holds meeting with the President of Uganda
+
+*2024-01-21 12:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/president-wickremesinghe-holds-meeting-with-the-president-of-uganda/) · `en`
+
+During his official visit to Uganda, President Ranil Wickremesinghe engaged in a formal meeting with HE Yoweri Museveni, the President of the Republic of Uganda, on Saturday (20) afternoon.
+
+President Museveni warmly welcomed Ranil Wickremesinghe, and following a friendly exchange, bilateral discussions commenced.
+
+During the meeting, President Yoweri Museveni expressed his joy at President Ranil Wickremesinghe’s acceptance of the invitation for the official visit and lauded his significant role in revitalizing Sri Lanka’s economy. President Museveni commended the nation for its achievements in this regard.
+
+The leaders delved into discussions about Sri Lanka’s new economic program, with President Ranil Wickremesinghe highlighting the positive economic trajectory since entering into an agreement with the International Monetary Fund. He emphasized the anticipated growth in 2024.
+
+...
+
+[Data](articles/7fe7a2c5.json)
+
+[Extended Data](ext_articles/7fe7a2c5.ext.json)
+
+---
 
 ### Special circular to schools
 
@@ -67,6 +239,28 @@ In addition, the Commission said that the public will be obtained on the amendme
 [Data](articles/20bd8ee1.json)
 
 [Extended Data](ext_articles/20bd8ee1.ext.json)
+
+---
+
+### Cardinal Ranjith Calls for Leaders Aligned with Updated Laws
+
+*2024-01-21 12:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/cardinal-ranjith-calls-for-leaders-aligned-with-updated-laws/) · `en`
+
+COLOMBO (News 1st); Cardinal Malcolm Ranjith asserted that Sri Lanka's issues cannot be solved with outdated laws and leaders who ignore the country's unique context.
+
+Speaking during the feast at the St. John the Baptist's Church in Mutwal on Sunday (21) morning, he emphasized the need for leaders with an attitude "that fits the culture and suits the country" to effectively address the nation's problems.
+
+The Cardinal challenged the notion that simply following the agendas of other parties will bring solutions. He stressed the importance of realistic, locally-tailored approaches.
+
+He argued that societal change is not achieved through strict laws and burdening the people.
+
+He argued that societal change is not achieved through strict laws and burdening the people. He pointed to the current Parliament's new legislation, citing the Ceylon Electricity Board Act as a prime example. "No one knows the details of the Act," the Cardinal said, questioning its utility for the people.
+
+...
+
+[Data](articles/bc7e52da.json)
+
+[Extended Data](ext_articles/bc7e52da.ext.json)
 
 ---
 
@@ -894,8 +1088,6 @@ Minister of Trade, Commerce and Food Security Nalin Fernando said the revised pr
 
 The Minister attributed the price revision to the VAT increase.
 
-Awareness programme for school children over drug menace from Feb 5th
-
 ◼️
 
 [Data](articles/c7457509.json)
@@ -1054,7 +1246,7 @@ Minister Alles stressed that operation 'Yukthiya' will only end after eradicatin
 
 He said the operation may face other challenges in future as well, and urged the community police and other factions to unite, to make the operation a success.
 
-...
+◼️
 
 [Data](articles/6bef53d1.json)
 
@@ -1069,8 +1261,6 @@ He said the operation may face other challenges in future as well, and urged the
 COLOMBO (News 1st); A 22-year-old has died in a shooting in Telijjawila, Matara.
 
 Sri Lanka Police said the shooting was carried out last night by an individual who arrived in a motorcycle.
-
-Awareness programme for school children over drug menace from Feb 5th
 
 ◼️
 
@@ -1091,8 +1281,6 @@ A spokesman for the PUCSL said public views will be obtained on the proposal to 
 The PUCSL added that the public will be able to submit opinions in writing for up to 21 days from the 23rd.
 
 The Ceylon Electricity Board handed over the proposal to revise electricity tariffs to the PUCSL.
-
-Awareness programme for school children over drug menace from Feb 5th
 
 ◼️
 
@@ -1160,8 +1348,6 @@ The Acting IGP said the programme will raise awareness among hundreds of school 
 
 He said under operation 'Yukthiya' Police have identified around 4,500 people involved in the supply of drugs to Sri Lanka, and 60 percent of them have been arrested.
 
-Awareness programme for school children over drug menace from Feb 5th
-
 ◼️
 
 [Data](articles/42006a5b.json)
@@ -1183,8 +1369,6 @@ The official meeting between President Ranil Wickremesinghe and Prime Minister o
 The leaders engaged in extensive discussions on promoting the cultural and religious relations that have existed between the two countries since the past, emphasizing the potential for promoting tourism.
 
 With the aim of expanding political relations, a proposal was made to facilitate an exchange program for MPs to study the parliamentary affairs of both countries.
-
-Awareness programme for school children over drug menace from Feb 5th
 
 ◼️
 
@@ -1901,195 +2085,5 @@ Sri Lanka began to import eggs in the first half of 2023, amidst a severe shorta
 [Data](articles/5e0603ad.json)
 
 [Extended Data](ext_articles/5e0603ad.ext.json)
-
----
-
-### Leaked audio exposes woman attempting to bribe Narcotics ASP
-
-*2024-01-20 20:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Leaked-audio-exposes-woman-attempting-to-bribe-Narcotics-ASP/155-275420) · `en`
-
-Colombo, Jan 20 (Daily Mirror) - A leaked audio conversation between a police officer and a female lawyer, suspected of representing a relative of organized criminal Ganemulla Sanjeewa who is being held at the Weeragula Police Station, has surfaced.
-
-It is alleged that during the conversation, the lawyer engaged with an Assistant Superintendent of Police (ASP) from the Narcotics Unit and attempted to offer a bribe.
-
-It was reported that a team of officers from the Police Narcotics Bureau was dispatched to investigate a house in the Makilangamuwa area related to the drug trafficking case involving Ganemulla Sanjeeva.
-
-Sources said that a woman identifying herself as a lawyer representing a relative of Ganemulla Sanjeewa intervened at the location, urging the officers not to search the particular house.
-
-The lawyer, a resident of the Gampaha area, allegedly tried to bribe an ASP of the Narcotics Bureau after her attempts to obstruct the search had failed.
-
-...
-
-[Data](articles/6501a6b4.json)
-
-[Extended Data](ext_articles/6501a6b4.ext.json)
-
----
-
-### Leaked audio exposes woman attempting to bribe Narcotics ASP
-
-*2024-01-20 20:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leaked-audio-exposes-woman-attempting-to-bribe-Narcotics-ASP/108-275420) · `en`
-
-Colombo, Jan 20 (Daily Mirror) - A leaked audio conversation between a police officer and a female lawyer, suspected of representing a relative of organized criminal Ganemulla Sanjeewa who is being held at the Weeragula Police Station, has surfaced.
-
-It is alleged that during the conversation, the lawyer engaged with an Assistant Superintendent of Police (ASP) from the Narcotics Unit and attempted to offer a bribe.
-
-It was reported that a team of officers from the Police Narcotics Bureau was dispatched to investigate a house in the Makilangamuwa area related to the drug trafficking case involving Ganemulla Sanjeeva.
-
-Sources said that a woman identifying herself as a lawyer representing a relative of Ganemulla Sanjeewa intervened at the location, urging the officers not to search the particular house.
-
-The lawyer, a resident of the Gampaha area, allegedly tried to bribe an ASP of the Narcotics Bureau after her attempts to obstruct the search had failed.
-
-...
-
-[Data](articles/eba482d0.json)
-
-[Extended Data](ext_articles/eba482d0.ext.json)
-
----
-
-### Sri Lanka, Nepal explore avenues to further promote cultural and religious relations
-
-*2024-01-20 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96578/sri-lanka-nepal-explore-avenues-to-further-promote-cultural-and-religious-relations) · `en`
-
-The official meeting between President Ranil Wickremesinghe and Prime Minister of Nepal, Pushpa Kamal Dahal took place today (Jan.20) in Kampala, Uganda, in conjunction with the 19th Non-Aligned Movement (NAM) Summit 2024.
-
-The leaders have engaged in extensive discussions on promoting the cultural and religious relations that have existed between the two countries since the past, emphasizing the potential for promoting tourism, according to the President’s Media Division (PMD).
-
-With the aim of expanding political relations, a proposal was made to facilitate an exchange program for Members of Parliament to study the parliamentary affairs of both countries.
-
-◼️
-
-[Data](articles/58005087.json)
-
-[Extended Data](ext_articles/58005087.ext.json)
-
----
-
-### 32 Indian fishermen held by Sri Lanka Navy released
-
-*2024-01-20 19:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96577/32-indian-fishermen-held-by-sri-lanka-navy-released) · `en`
-
-The Sri Lankan court on Friday released 32 fishermen from Tamil Nadu who were apprehended by the Sri Lankan Navy.
-
-“Repatriated safely! A group of 32 Indian fishermen board for their flight back to India from Colombo,” the High Commission of India in Colombo posted on X.
-
-The Sri Lankan Navy had arrested 32 Indian fishermen and seized their trawlers for allegedly poaching in the island nation’s waters in three separate incidents. A total of 18 fishermen were arrested, and their two trawlers were seized on Tuesday off the coast of Mannar in the northeast.
-
-On Sunday, as many as ten Indian fishermen were arrested, and their trawler seized for allegedly poaching in the island nation’s waters, while 12 Indian fishermen were apprehended on Saturday.
-
-...
-
-[Data](articles/f98cf05b.json)
-
-[Extended Data](ext_articles/f98cf05b.ext.json)
-
----
-
-### The latest price of the Sathosa egg is notified
-
-*2024-01-20 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192366) · `si`
-
-Minister of Trade Nalin Fernando says that the price of an imported Indian egg is up to 43 rupees from Sathosa to 43 rupees.
-
-With the increase in VAT, an egg is restricted to Rs. 35.
-
-In such an environment, local egg prices have risen to the re-market.
-
-When contacted by Lanka Sathosa, chairman Pasanda, he said that the VAT would be sold to Rs. 42 per laying egg.
-
-The government has taken steps to limit the importation from India due to the last few days of the country.
-
-Accordingly, a white and red egg of the Narahenpita Economic Center was sold at a price of Rs. 52.
-
-The Animal Producers' Association says that local eggs and chicken are in the market without shortage.
-
-◼️
-
-[Data](articles/e282e485.json)
-
-[Extended Data](ext_articles/e282e485.ext.json)
-
----
-
-### Sri Lanka, Nepal discuss MP exchange programme
-
-*2024-01-20 19:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-nepal-discuss-mp-exchange-programme-148074/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe and the Prime Minister of Nepal Pushpa Kamal Dahal met on Saturday (20) in Kampala, Uganda, on the sidelines of the Non-Aligned Movement Summit.
-
-The two leaders discussed promoting bilateral tourism and developing cultural and religious ties that have existed between the two countries historically.
-
-“With the aim of expanding political relations, a proposal was made to facilitate an exchange program for Members of Parliament to study the parliamentary affairs of both countries,” a statement by Wickremesinghe’s media division said.
-
-Late last year, Wickremesinghe told a group of school children that Parliament had become a place where a lot of MPs act. He said some MPs don’t know where to draw the line when acting in Parliament. (Colombo/Jan20/2024)
-
-◼️
-
-[Data](articles/039ba051.json)
-
-[Extended Data](ext_articles/039ba051.ext.json)
-
----
-
-### India’s Jaishankar calls on President Ranil, appreciates bilateral initiatives
-
-*2024-01-20 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96576/indias-jaishankar-calls-on-president-ranil-appreciates-bilateral-initiatives) · `en`
-
-External Affairs Minister S Jaishankar on January 20 called on Sri Lankan President Ranil Wickremesinghe and discussed the progress of bilateral initiatives.
-
-Mr. Jaishankar is in the Ugandan capital city of Kampala to represent India at the two-day summit of the Non-Aligned Movement (NAM), which began on Friday.
-
-“Pleased to call on Sri Lankan President @RW_UNP on the sidelines of the NAM Summit in Kampala,” Mr. Jaishankar posted on X.
-
-“Appreciate his continued guidance for the advancement of our bilateral initiatives. India’s commitment is reflected in our Neighbourhood First and SAGAR policy,” he said.
-
-India’s Neighbourhood First policy guides its approach towards the management of relations with countries in its immediate neighbourhood. It is aimed at enhancing physical, digital and people-to-people connectivity across the region, as well as augmenting trade and commerce.
-
-...
-
-[Data](articles/c87114d6.json)
-
-[Extended Data](ext_articles/c87114d6.ext.json)
-
----
-
-### Changing agreement with IMF under Opposition leader’s government a mere slogan
-
-*2024-01-20 18:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Changing-agreement-with-IMF-under-Opposition-leaders-government-a-mere-slogan/108-275419) · `en`
-
-Avissawella, Jan 20 (Daily Mirror) - statement made by the Opposition Leader about changing the agreement by the International Monetary Fund (IMF) with Sri Lanka is a mere slogan, Finance State Minister Ranjith Siyambalapitiya said.
-
-He said the Opposition Leader had made a statement that he will change the agreement with the IMF under his government.
-
-Therefore, everyone should act responsibly at this time, the Minister said at a meeting in Avissawella today.
-
-"At a time when the country was in trouble, the agreement made with the financial fund did good and not bad for the country and the economy," he said.
-
-However, such statements are made for the sake of popularity and do not bring any good to the country, the Minister added.
-
-◼️
-
-[Data](articles/dc85af09.json)
-
-[Extended Data](ext_articles/dc85af09.ext.json)
-
----
-
-### Jaishankar calls on President Wickremesinghe in Uganda
-
-*2024-01-20 18:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jaishankar-calls-on-President-Wickremesinghe-in-Uganda/108-275418) · `en`
-
-Uganda, Jan 20 (PTI) - Indian External Affairs Minister S Jaishankar on Saturday called on Sri Lankan President Ranil Wickremesinghe and discussed the progress of bilateral initiatives.
-
-Jaishankar is in the Ugandan capital city of Kampala to represent India at the two-day summit of the Non-Aligned Movement (NAM), which began on Friday.
-
-"Pleased to call on Sri Lankan President @RW_UNP on the sidelines of the NAM Summit in Kampala," Jaishankar posted on X.
-
-◼️
-
-[Data](articles/41ae4717.json)
-
-[Extended Data](ext_articles/41ae4717.ext.json)
 
 ---

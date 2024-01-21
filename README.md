@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 08:32:56**
+As of **2024-01-21 08:50:46**
 
 ## Newspaper Stats
 
-*Scraped **1,504** Articles*
+*Scraped **1,506** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 36
-adaderanasinhalalk | 43
+adaderanasinhalalk | 45
 islandlk | 97
 newsfirstlk | 101
 economynextcom | 101
@@ -26,11 +26,29 @@ adaderanalk | 186
 
 Extensions include translations and NER (Named Entity Recognition).
 
-541 (36.0%) of 1,504 articles have been extended.
+552 (36.7%) of 1,506 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### සෞඛ්‍ය ප්‍රසම්පාදන ක්‍රියාවලිය ගැන පූර්ණ විශ්ලේෂණයක්
+
+*2024-01-21 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192381) · `si`
+
+සෞඛ්‍ය අමාත්‍යාංශය පසුගිය කාලය තුළ සිදු වූ ප්‍රසම්පාදන ක්‍රියා සම්බන්ධයෙන් පූර්ණ විශ්ලේෂණයක් කළ යුතු බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා පවසයි.
+
+ඔහු ප්‍රකාශ කළේ, අදාළ ගනුදෙනුවල දී යම්කිසි ගැටලුවක් හෝ වංචාවක් සිදු ව ඇත්නම් ඊට වර්තමාන සෞඛ්‍ය පරිපාලනය කඩිනමින් ක්‍රියාත්මක විය යුතු බවයි.
+
+ප්‍රශ්න සහගත ප්‍රසම්පාදන ක්‍රියාවලි සිදු වී පසුගිය කාලයේ දී විශාල ප්‍රමාණයේ මුදල් ප්‍රතිපාදන වෙන් කර ගෙවීම් සිදු කර ඇනවුම් කරන ලද ඖෂධ රට තුළට ලැබෙමින් පවතින බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපතිවරයා පෙන්වා දෙයි.
+
+ඒ හේතුවෙන් ප්‍රශ්න සහගත ප්‍රසම්පාදනයෙන් රටට අහිමි වන මුදල් ප්‍රමාණය ඉතුරු කර ගැනීම නැතහොත් නැවත ඒවා අය කරගැනීම පිළිබඳ වර්තමාන සෞඛ්‍ය අමාත්‍යවරයාට හා වර්තමාන සෞඛ්‍ය ලේකම්වරයාට අත්හළ නොහැකි වගකීමක් ඇති බව වෛද්‍ය හා සිවිල් අයිතිවාසිකම් පිළිබඳ වෛද්‍යවරුන්ගේ වෘත්තීය සමිති සන්ධානයේ සභාපති විශේෂඥ වෛද්‍ය චමල් සංජීව මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/401cc1c3.json)
+
+---
 
 ### Several spells of showers expected in parts of the island
 
@@ -47,6 +65,26 @@ The public is kindly requested to take adequate precautions to minimize damages 
 ◼️
 
 [Data](articles/d79d476a.json)
+
+[Extended Data](ext_articles/d79d476a.ext.json)
+
+---
+
+### 19න් පහළ ශ්‍රී ලංකා - සිම්බාබ්වේ තරගය අද
+
+*2024-01-21 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192380) · `si`
+
+19න් පහළ අයි.සී.සී ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ශ්‍රී ලංකාව මුහුණ දෙන පළමු තරගය අද (21) පැවැත්වීමට නියමිතයි.
+
+තරගය දකුණු අප්‍රිකාවේ කිම්බර්ලිහි දී අද පස්වරු 01.30ට තරගය ආරම්භ වීමට නියමිත ව ඇත.
+
+නේපාල සහ නවසීලන්ත 19න් පහළ කණ්ඩායම් අතර තරගය ද අද පැවැත්වීමට නියමිත ව තිබේ.
+
+19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලිය සඳහා කාණ්ඩ 04ක් යටතේ කණ්ඩායම් 16ක් තරග වදින අතර, ශ්‍රී ලංකාව සී කාණ්ඩයට ඇතුළත් වේ.
+
+◼️
+
+[Data](articles/66d0b436.json)
 
 ---
 
@@ -72,6 +110,8 @@ He said the operation may face other challenges in future as well, and urged the
 
 [Data](articles/6bef53d1.json)
 
+[Extended Data](ext_articles/6bef53d1.ext.json)
+
 ---
 
 ### 22-year-old killed in Telijjawila shooting
@@ -89,6 +129,8 @@ President to address the 3rd South Summit of the Group of 77 & China in Uganda
 ◼️
 
 [Data](articles/c44e01da.json)
+
+[Extended Data](ext_articles/c44e01da.ext.json)
 
 ---
 
@@ -111,6 +153,8 @@ President to address the 3rd South Summit of the Group of 77 & China in Uganda
 ◼️
 
 [Data](articles/2475d51b.json)
+
+[Extended Data](ext_articles/2475d51b.ext.json)
 
 ---
 
@@ -162,6 +206,8 @@ Awareness programme for school children over drug menace from Feb 5th
 
 [Data](articles/42006a5b.json)
 
+[Extended Data](ext_articles/42006a5b.ext.json)
+
 ---
 
 ### President to address the 3rd South Summit of the Group of 77 & China in Uganda
@@ -183,6 +229,8 @@ Awareness programme for school children over drug menace from Feb 5th
 ...
 
 [Data](articles/ac55c0bb.json)
+
+[Extended Data](ext_articles/ac55c0bb.ext.json)
 
 ---
 
@@ -618,21 +666,25 @@ North Korea has been in touch with South Korea for many years and has a tendency
 
 ---
 
-### ලංවිම සේවකයන්ගේ ණයවලට පොලිය විදුලි පාරිභෝගිකයන්ගෙන් අයකරගෙන
+### Interest on electricity consumers to the loans of the CEB
 
 *2024-01-20 20:30:38* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-සේවකයන්ගේ-ණයවලට-පොලිය-විදුලි-පාරිභෝගිකයන්ගෙන්-අයකරගෙන/11-407633) · `si`
 
-විදුලි බල මණ්ඩලයේ සේවකයන් ලබාගෙන ඇති ණය වල පොලී ගාස්තු වලින් තුනෙන් දෙකක් විදුලි බල මණ්ඩලය ගෙවමින් ඇති බවත් එම මුදල් අයවන්නේ මහජනතාවගේ විදුලි බිලෙන් බවත් විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජෙසේකර මහතා පවසයි.
+The CEB is paying two-thirds of the interest rates obtained by the CEB and the CEB is charged by the Electricity and Energy Kanchan Wijese.
 
-විදුලිබල මණ්ඩලයේ සේවකයන් ලබාගෙන ඇති මූල්‍ය පහසුකම් සම්බන්ධයෙන් සහ විදුලිබල මණ්ඩලයට නව සේවකයන් බදවාගැනීම සම්බන්ධයෙන් තමන් ලබා ගත තොරතුරු අනුව මෙම දත්ත වාර්තා කර ඇති බවද ඔහු පවසයි.
+He also said that the data has been reported on information received by the CEB employees and the information they have obtained in connection with the financing of the CEB and the CEB.
 
-විදුලිබල මණ්ඩලයේ මූල්‍ය අංශය මුකරන ලද තොරතුරු අනුව විදුලිබල මණ්ඩලයේ සේවකයන් ලබාගෙන  ඇති ණය පහසුකම් වල ප්‍රමාණය රුපියල් බිලියන 12ක් පමණ වන අතර ඒ සදහා වන පොලියෙන් 2/3ක් විදුලිබල මණ්ඩල විසින්ම ගෙවීම සිදුකරන බවද ඔහු පවසයි.
+According to the CEB workers, the CEB employees have received about Rs.
 
-විදුලිබල මණ්ඩලයේ සේවකයන් ලබාගෙන ඇති මූල්‍ය පහසුකම් වල පොලී ගෙවාදැමීම සදහා වන මුදල් මහජනතාවගේ විදුලි බිලෙන් අයකරගැනීම නවතාදමා, ණය හිමියන්ගෙන් ඒවා අයකරගැනීමට ක්‍රමවේදයක් සකස්කරන ලෙස විදුලිබල මණ්ඩලයේ කළමණාකාරීත්වයට තමන් උපදෙස් දුන් බවද ඔහු පවසයි.
+He says that the money of the funds of the CEB employees have been recovered from the electricity bills of the public and advised the management of the Electricity Board to create a methodology to recover them from creditors.
 
-...
+He also instructed the services that can be made to the outside partners to increase efficiency increasing the cost.
+
+◼️
 
 [Data](articles/f9b983b8.json)
+
+[Extended Data](ext_articles/f9b983b8.ext.json)
 
 ---
 
@@ -2035,41 +2087,5 @@ He added that the new training was given to the death of a driver in the Naramma
 [Data](articles/e2c78c6a.json)
 
 [Extended Data](ext_articles/e2c78c6a.ext.json)
-
----
-
-### Ceylinco Life wins SAFA Gold and TAGS Silver for 2022 Annual Report
-
-*2024-01-20 12:36:00* · [`islandlk`](http://island.lk/ceylinco-life-wins-safa-gold-and-tags-silver-for-2022-annual-report/) · `en`
-
-The 2022 Annual Report of Ceylinco Life has been recognized for excellence in financial reporting in Sri Lanka as well as in the South Asian region, a company news release said last week.
-
-Titled ‘Steadfast and Unwavering” the Integrated Report of Sri Lanka’s life insurance market leader won the joint Gold Award for ‘Best Presented Annual Report’ in the Life Insurance sector at the South Asian Federation of Accountants (SAFA) Awards hosted by the Institute of Chartered Accountants of India in New Delhi, it said.
-
-This noteworthy accolade came days after the same Annual Report received the Silver in the Life Insurance category at the CA Sri Lanka ‘TAGS’ Awards, anchored on the four principles of Transparency, Accountability, Governance, and Sustainability (TAGS). It was CA Sri Lanka’s 57-year old Annual Report Awards Competition, which was reconceptualized and rebranded as “TAGS Awards” in 2022.
-
-...
-
-[Data](articles/2eec05bd.json)
-
-[Extended Data](ext_articles/2eec05bd.ext.json)
-
----
-
-### Fire in elementary school: 13 killed
-
-*2024-01-20 12:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆரம்ப-பாடசாலையில்-தீ-விபத்து-13-பேர்-பலி/175-331840) · `ta`
-
-Chinese state media reports that 13 students were killed in a fire at a hostel for primary school students in Central Henan province, China.
-
-China's CCTV television said that a person who was rescued from the scene was receiving treatment at the hospital.
-
-Local authorities said the fire, which began on Friday night, was extinguished before midnight and is investigating the cause of the fire.
-
-◼️
-
-[Data](articles/9e023d6b.json)
-
-[Extended Data](ext_articles/9e023d6b.ext.json)
 
 ---

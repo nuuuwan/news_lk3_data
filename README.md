@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 15:33:02**
+As of **2024-01-21 15:51:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanalk | 199
 
 Extensions include translations and NER (Named Entity Recognition).
 
-915 (57.8%) of 1,582 articles have been extended.
+935 (59.1%) of 1,582 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The theme of the G77 and China Third South Summit is “Leaving No One Behind”
 
 [Data](articles/6953d3f0.json)
 
+[Extended Data](ext_articles/6953d3f0.ext.json)
+
 ---
 
 ### No need to import rice - Agri. Minister
@@ -63,6 +65,8 @@ Furthermore, the Minister expressed that he has instructed the relevant authorit
 ◼️
 
 [Data](articles/95149291.json)
+
+[Extended Data](ext_articles/95149291.ext.json)
 
 ---
 
@@ -88,15 +92,17 @@ Speaking during the worship of St. Sebastian Church at Kandan, Cardinal Ranjith 
 
 ---
 
-### ஆசியாவின் பொம்மை இராணுவ அரசுகள்
+### Asia's toy military states
 
 *2024-01-21 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/174439) · `ta`
 
-ஜ­ன­நா­யகம் மற்றும் மனித உரிமை விவ­கா­ரங்­களில் சீன­ த­ரப்பும் இந்­தியத் தரப்பும் அதிகம் கவனம் செலுத்­தாத நிலையை கொண்­டி­ருப்­ப­தாக காட்டிக்கொண்­டாலும் ஆட்­சியில் உள்ள நடை­முறை அர­சாங்­கத்தை தம் பக்கம் இழுத்தெடுக்கும் முக்கிய நோக்கத்தையே கொண்டுள்ளன.
+Although the Chinese side and the Indian side are not focused on democracy and human rights, they have the main purpose of pulling the government in the regime.
 
 ◼️
 
 [Data](articles/feaaec46.json)
+
+[Extended Data](ext_articles/feaaec46.ext.json)
 
 ---
 
@@ -124,15 +130,17 @@ He also said that if the bus owners are implemented and properly arranged for th
 
 ---
 
-### மன்­னிக்­கப்­ப­டாத பொது­மன்­னிப்பு
+### Unrelated amnesty
 
 *2024-01-21 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174442) · `ta`
 
-ஆட்­சியில் இருக்­கின்ற ரணில் விக்­ர­ம­சிங்­கவும் கூட பொது­மன்­னிப்பில் பலரை விடு­தலை செய்­தி­ருக்­கிறார். ஆனால், அவர்கள், அந்த பொது­மன்­னிப்பை பயன்­ப­டுத்­திய விதத்­துக்கும், மைத்­தி­ரி­பால சிறி­சேன மற்றும் கோட்­டா­பய ராஜபக்ஷ ஆகியோர் பொது­மன்­னிப்பை வழங்­கிய விதத்­துக்கும் வேறு­பா­டுகள் உள்­ளன.
+Ranil Wickremesinghe, who is in power, has also released many people. But there are differences between the manner in which they used the amnesty and the manner in which Maithripala Sirisena and Gotabhaya Rajapaksa gave the amnesty.
 
 ◼️
 
 [Data](articles/7316c3ac.json)
+
+[Extended Data](ext_articles/7316c3ac.ext.json)
 
 ---
 
@@ -176,15 +184,17 @@ Members of MPs, MA Sumanthiran, S. Sridhiran and Syashwaran had been elected to 
 
 ---
 
-### தமிழ்த் தேசிய கட்சிகளுக்கு எதிராக போராட வேண்டிய நிலையில் தமிழ் மக்கள்
+### The Tamil people are in the process of fighting against Tamil national parties
 
 *2024-01-21 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/174433) · `ta`
 
-தமிழ் தேசியக் கட்­சி­களில் இன்னொரு தரப்­பினர், தமிழ்ப் பொது வேட்­பாளர் விட­யத்தில் தமிழ்த் தேசியக் கட்­சிகள் ஒருங்­கி­ணைந்த செயற்­பாட்­டிற்கு வர­மாட்­டார்கள் என்­பதை கார­ண­மாகக் கூறு­கின்­றனர். இதில் சில உண்­மைகள் இருக்­கலாம். தமிழ்ப் பொது வேட்­பா­ளரை நிறுத்த வேண்டும் என்ற நிலைப்­பாட்டில் உண்­மை­யா­கவே விசு­வா­ச­மாக இருக்­கின்ற கட்­சிகள் தங்­க­ளது நிலைப்­பாட்டை மக்­க­ளுக்கு தெளி­வாக விளக்கி மக்­க­ளையும் இணைத்துக்கொண்டு ஏனைய கட்­சி­க­ளுக்கு அழுத்­தங்­களை கொடுக்­கலாம்.
+Another party in the Tamil National Party claims that the Tamil national parties will not come to an integrated process in the case of the Tamil general candidate.. There may be some facts in this. The parties that are truely loyal in the position of suspending the Tamil general candidate can put pressure on the people and put pressure on the people.
 
 ◼️
 
 [Data](articles/dfce2c7a.json)
+
+[Extended Data](ext_articles/dfce2c7a.ext.json)
 
 ---
 
@@ -206,37 +216,45 @@ Sivagnanam Shritharan contested the 2010 parliamentary election as one of the Ta
 
 ---
 
-### ராஜபக்ஷக்களுக்கு இரண்டாவது குட்டு வைத்த உயர்நீதிமன்றம்
+### Supreme Court for the second time for Rajapaksa
 
 *2024-01-21 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174445) · `ta`
 
-நாட்டின் பொரு­ளா­தார வீழ்ச்­சிக்கும் நெருக்­க­டி­க­ளுக்கும் கார­ண­மா­ன­வர்கள்  என  ஏழு பேருக்கு எதி­ராக தாக்கல் செய்­யப்­பட்ட அடிப்­படை மனித உரிமை மீறல் மனுவில் ராஜபக்ஷ சகோ­த­ரர்­க­ளான  மஹிந்த, கோட்டா, பசில் ஆகி­யோரின் பெயர்­களும் இடம்­பெற்­றி­ருந்­தன. கடந்த நவம்பர் மாதம் 14 ஆம் திகதி உயர்­நீ­தி­மன்றம் அந்த ஏழு பேரையும் பொரு­ளா­தார வீழ்ச்­சிக்­கான கார­ண­கர்த்­தாக்கள் என அறி­வித்­தி­ருந்­தது.
+The fundamental human rights violation petition filed against seven people was responsible for the country's economic downturn and crisis.. On November 14 last year, the Supreme Court declared that all seven were responsible for the economic downturn.
+
+Gotabhaya, who was chased away by the people without completing his tenure, said, "I have made some decisions for the benefit of the people and the nation.". However, when the Supreme Court's verdict on the issue of Duminda Silva on the 17th, the fact that the Gotabhaya executive has exceeded the constitution.. Gotabhaya also justified himself by a promise that he made this decision in view of the welfare of the nation, even the public amnesty to Duminda.. Today, his presidency has been criticized by the nation.
 
 ...
 
 [Data](articles/3e46b98f.json)
 
+[Extended Data](ext_articles/3e46b98f.ext.json)
+
 ---
 
-### இலங்கை தமிழரசுக் கட்சியின் தலைவராகிறார் சிறிதரன்
+### Sridharan is the leader of the Sri Lankan Tamil party
 
 *2024-01-21 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174449) · `ta`
 
-இலங்கைத் தமிழரசுக்கட்சியின் புதிய தலைமைக்கான வாக்கெடுப்பில் சிறிதரன் 184 வாக்குகளைப் பெற்று வெற்றி பெற்றுள்ளார்.
+Sridharan has won 184 votes in the referendum for the new leadership of the Sri Lankan Tamil party.
 
-இலங்கைத் தமிழரசுக்கட்சியின் புதிய தலைமைக்கான இரகசிய வாக்கெடுப்பு இன்றையதினம் ஞாயிற்றுக்கிழமை (21) திருகோணமலையில் முற்பகல் 10 மணிக்கு இடம்பெற்றது.
+The secret referendum for the new leadership of the Sri Lankan Tamil party took place today (21) at 10 am in Trincomalee.
 
-பதில் பொதுச்செயலாளர் வைத்தியர்.ப.சத்தியலிங்கத்தின் தலைமையில் நடைபெற்ற இந்த வாக்கெடுப்பில் அவருக்கு உதவியாளர்களாக வடக்கு, கிழக்கு மாகணங்களின் எட்டு மாவட்டங்களைச் சேர்ந்த எண்மர் செயற்பட்டனர்.
+The referendum, chaired by General Secretary, Dr. Sathiyalingam, was assisted by the eight districts of the Northern and Eastern Provinces.
 
-இந்நிலையில் குறித்த வாக்கெடுப்பில் மத்திய செயற்குழு அங்கத்தவர்களும் மாவட்டங்களில் இருந்து பொதுச்சபைக்கு வாக்களிப்பதற்கான அங்கீகாரத்தைக் கொண்டவர்கள் வாக்களித்தனர்.
+In this case, members of the Central Executive Committee voted in the vote and voted for the General Assembly from the districts.
 
-அதன்படி, இன்று 21 ஆம் திகதி ததிருகோணமலை நகரமண்டபத்தில் இடம் பெற்ற வாக்களிப்பில் 327 பேர் கலந்துகொண்டனர்.
+Accordingly, 327 people participated in the voting at the Tathirukonamalai Nagar Mandapam on the 21st.
 
-முன்னதாக இலங்கை தமிழரசுக்கட்சியின் தலைமைப்பதவிக்கான வேட்பு மனு கோரப்பட்டபோது கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர்களான எம்.ஏ.சுமந்திரன் மற்றும் சிவஞானம் சிறீதரன் ஆகியோரும் மட்டக்களப்பு மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினருமான சீனித்தம்பி யோகேஸ்வரனும் விண்ணப்பங்களை செய்திருந்தனர்.
+Earlier, when the nomination papers for the leadership of the Sri Lankan Tamil party were sought, the party's Jaffna MP MA Sumanthiran and Sivagnanam Sreedharan and former parliamentarian of the Batticaloa district, Srinithambi Yogeswaran, had made applications.
+
+However, there were talks between the three candidates after the party's politician's meeting was urged to take place without contest.
 
 ...
 
 [Data](articles/7fb0dc9d.json)
+
+[Extended Data](ext_articles/7fb0dc9d.ext.json)
 
 ---
 

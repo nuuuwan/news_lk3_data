@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 23:51:41**
+As of **2024-01-22 00:32:30**
 
 ## Newspaper Stats
 
-*Scraped **1,647** Articles*
+*Scraped **1,650** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 27
+colombotelegraphcom | 29
 bbccomsinhala | 38
 adaderanasinhalalk | 73
 islandlk | 97
-economynextcom | 103
+economynextcom | 104
 newsfirstlk | 109
 dbsjeyarajcom | 121
 dailyftlk | 150
@@ -26,7 +26,7 @@ adaderanalk | 206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,307 (79.4%) of 1,647 articles have been extended.
+1,333 (80.8%) of 1,650 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -380,6 +380,24 @@ If the government acts the government, the farmers are first gathered to the str
 
 ---
 
+### Sri Lanka coconut auction price up 1.9-pct
+
+*2024-01-21 20:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-price-up-1-9-pct-148108/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s coconut prices picked up 1.9 percent to 66,198 rupees for 1,000 nuts at an auction on January 18, after falling 14 percent over three weeks, data from the Coconut Development Authority shows.
+
+The highest price was 69,500 for 1,000 nuts and the lowest was 63,500.
+
+Farmgate prices in Kurunegala were 65,000 to 72,000 in the week to January 11. Retail prices were 105 to 120 for a large nut and 90 to 100 for a smaller one.
+
+◼️
+
+[Data](articles/d26defde.json)
+
+[Extended Data](ext_articles/d26defde.ext.json)
+
+---
+
 ### President emphasizes Sri Lanka's stability of a Palestinian state
 
 *2024-01-21 20:12:12* · [`adalk`](https://www.ada.lk/breaking_news/පලස්තීන-රාජ්‍යයක්-පිළිබඳ-ලංකාවේ-ස්ථාවරත්වය-ජනපති-අවධාරණය-කරයි/11-407650) · `si`
@@ -625,6 +643,36 @@ The President lamented the diversion of financial resources to debt service, hin
 [Data](articles/ed4dd48f.json)
 
 [Extended Data](ext_articles/ed4dd48f.ext.json)
+
+---
+
+### Separation Of Powers, Rule Of Law, Corruption & SL Bankruptcy
+
+*2024-01-21 18:31:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/separation-of-powers-rule-of-law-corruption-sl-bankruptcy/) · `en`
+
+When late Queen Elizabeth II was in Sri Lanka during the time of late JR Jayewardene in late 1970’s, during her speech, she mentioned that the Rule of Law was fundamental to civilized living. While I am no admirer of the Royal family, I am a strong admirer of the British form of Democracy. It is clean.
+
+The rule of law is that everybody is equal under the law. While this is a simple statement, the meaning of it is gigantic for civilized living. Now how does a society ensure the concept of equal justice under the law? The simple answer is that by keeping the criminal justice system out of the control of those who manage the country.
+
+Here is where a smart constitution comes into play. A smart constitution will ensure that the executive or the members of the legislature cannot stick their fingers into the process of the law enforcement and the criminal justice system. This is easier said than done in SL and here is why.
+
+...
+
+[Data](articles/f8b74f27.json)
+
+---
+
+### Ram Mandir At Babri Masjid Site: Death Of Secular Democracy & Rise Of Hindutva Fascism
+
+*2024-01-21 18:30:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ram-mandir-at-babri-masjid-site-death-of-secular-democracy-rise-of-hindutva-fascism/) · `en`
+
+The ancient town of Ayodhya, in the north Indian state of Uttar Pradesh, has been known for its rich diversity of religious denominations, predominantly Hinduism and Islam. For centuries Hindus and Muslims lived in peace and harmony in this town where, in the year 1528, Mughal King Barber built a mosque, which later came to be known as Babri Masjid. Though there was no dispute of any kind for more than two centuries, controversy was sparked off when some Hindus started to claim that this mosque was built on the spot where the Hindu mythical deity Ram was born.
+
+The controversy resulted in the first religious violence almost three and half centuries later, in 1853. In view of the sensitive nature of the issue, six years later, in 1859, the British colonial rulers erected a fence to separate places of worship for Muslims and Hindus. Under this arrangement Muslims were allowed to use the inner court for their prayers while the outer court was allocated to Hindus.
+
+...
+
+[Data](articles/53e23b30.json)
 
 ---
 
@@ -2061,61 +2109,5 @@ The leaders delved into discussions about Sri Lanka’s new economic program, wi
 [Data](articles/00a4e4f1.json)
 
 [Extended Data](ext_articles/00a4e4f1.ext.json)
-
----
-
-### Will the Taiwan election results lead to armed conflict?
-
-*2024-01-21 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174434) · `ta`
-
-Lai, who won the election, will take over as head of state in May in May. With his party's setback in the parliamentary election, it will be fully aware of whether he has only neglected the support of the West against China, whether he has spoken against China, or whether he has spoken against China to attract voters like regular politicians.
-
-◼️
-
-[Data](articles/3b6e6f6b.json)
-
-[Extended Data](ext_articles/3b6e6f6b.ext.json)
-
----
-
-### Sri Lanka and Uganda President meet
-
-*2024-01-21 11:28:54* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-හා-උගන්ඩා-ජනපතිවරු-හමු-වෙති/11-407642) · `si`
-
-Ugandan President evaluates the leadership of the President to reigns Sri Lanka.
-
-President Ranil Wickremesinghe on an official visit to Uganda and the President of the Republic of Uganda took place yesterday (20) afternoon.
-
-The President of Uganda was friendly recognized by President Ranil Wickremesinghe and commenced bilateral talks after a good talk between the two leaders.
-
-President Ranil Wickremesinghe has appreciated the leadership of President Ranil Wickremesinghe to restore the Sri Lankan Economy of Uganda.Was.
-
-The leaders discussed the new economic program in Sri Lanka and President Ranil Wickremesinghe said that Sri Lanka is continuing to reach the intended goals in 2024 in 2024.
-
-◼️
-
-[Data](articles/fb24a17d.json)
-
-[Extended Data](ext_articles/fb24a17d.ext.json)
-
----
-
-### 'Universal Buddha' arrested
-
-*2024-01-21 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192388) · `si`
-
-The monk who appeared in the universal Buddha was resumed.
-
-The Criminal Investigations Department has been arrested in Kalgalaiiiiiiiiiiiiiii.
-
-Previously, the universal Buddha known as the universal people of the social media was issued before the controversial statements of Buddhism and the controversial behavior in the social media.
-
-However, he ordered to be used as usual in spite of the reproof of the warnings.
-
-◼️
-
-[Data](articles/c0c57f50.json)
-
-[Extended Data](ext_articles/c0c57f50.ext.json)
 
 ---

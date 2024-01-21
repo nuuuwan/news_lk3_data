@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 12:03:19**
+As of **2024-01-21 11:52:18**
 
 ## Newspaper Stats
 
-*Scraped **1,536** Articles*
+*Scraped **1,533** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 37
-adaderanasinhalalk | 52
+adaderanasinhalalk | 50
 islandlk | 97
 economynextcom | 101
 newsfirstlk | 102
 dbsjeyarajcom | 118
-virakesarilk | 132
+virakesarilk | 131
 dailyftlk | 150
 adalk | 166
 dailymirrorlk | 172
@@ -26,59 +26,11 @@ tamilmirrorlk | 192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-686 (44.7%) of 1,536 articles have been extended.
+686 (44.7%) of 1,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
-
-### தாய்வான் தேர்தல் முடிவுகள் ஆயுத மோதலுக்கு வழிவகுக்குமா?
-
-*2024-01-21 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174434) · `ta`
-
-தேர்­தலில் வெற்றி பெற்­றுள்ள லாய் அரசுத் தலை­வ­ராக தனது பத­வியை எதிர்­வரும் மே மாதத்தில் பொறுப்பேற்கவுள்ளார். பாராளுமன்றத் தேர்தலில் தனது கட்சி பின்னடைவைச் சந்தித்துள்ள நிலையில் சீனாவுக்கு எதிராகக் கொம்பு சீவிவிடும் மேற்குலகின் ஆதரவை மாத்திரம் நம்பி அவர் மோதல் போக்கைக் கடைப்பிடிப்பாரா அல்லது வழக்கமான அரசியல்வாதிகளைப் போன்று வாக்காளர்களைக் கவர்வதற்காக அவர் சீனாவுக்கு எதிராகப் பேசினாரா என்பது அடுத்துவரும் சில மாதங்களில் முழுமையாகத் தெரிந்துவிடும்.
-
-◼️
-
-[Data](articles/3b6e6f6b.json)
-
----
-
-### 'විශ්ව බුද්ධ' යළි අත්අඩංගුවට
-
-*2024-01-21 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192388) · `si`
-
-විශ්ව බුද්ධ නමින් පෙනී සිටි චීවරධාරියා යළි අත්අඩංගුවට ගෙන තිබේ.
-
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් මෙම චීවරධාරියා ව කළගෙඩිහේන ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන ඇත.
-
-බුදු දහම පිළිබඳ ආන්දෝලනාත්මක ප්‍රකාශ නිකුත් කරමින් සහ සමාජ මාධ්‍යය තුළ ආන්දෝලනාත්මක හැසිරීම් සිදු කළ විශ්ව බුද්ධ නම් පුද්ගලයා මීට පෙර ද අධිකරණය හමුවට ඉදිරිපත් කර තිබිණි.
-
-නමුත් මොහු අධිකරණයේ අවවාද නොතකමින් සුපුරුදු ලෙස හැසිරෙන බව පවසා යළි අධිකරණයට ඉදිරිපත් කරන ලෙස නියෝගයක් නිකුත් කෙරිණි.
-
-◼️
-
-[Data](articles/c0c57f50.json)
-
----
-
-### බිත්තර මිල ගැන අමාත්‍යවරයාගෙන් පැහැදිලි කිරීමක්
-
-*2024-01-21 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192387) · `si`
-
-VAT බදු ඉහළ යාම හේතුවෙන් ආනයනික ඉන්දීය බිත්තරයක මිල අද (21) සිට රුපියල් 08කින් ඉහළ දමන බව වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පවසයි.
-
-ඒ අනුව සතොස හරහා රුපියල් 35කට අලෙවි කරනු ලැබූ ආනයනික බිත්තරයක් අලෙවි කරනු ලබන්නේ, රුපියල් 43කට බව අමාත්‍යවරයා සඳහන් කළේය.
-
-අද (21) ගම්පහ ප්‍රදේශයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා මේ බව සඳහන් කළේය.
-
-බිත්තර හිඟයක් වෙළෙඳපොළේ නොමැති බවත් බිත්තර මිල ඉහළ යෑමක් සිදු ව ඇති බවත් අමාත්‍යවරයා මෙහි දී අවධාරණය කළේය.
-
-◼️
-
-[Data](articles/bbd4503d.json)
-
----
 
 ### Three persons arrested for assaulting the expert
 
@@ -2061,5 +2013,67 @@ The agreement was also signed by Foreign Minister Ali Sabri on behalf of the Sta
 [Data](articles/6e2fe602.json)
 
 [Extended Data](ext_articles/6e2fe602.ext.json)
+
+---
+
+### Collaborative efforts mooted for success of “Pekoe Trail” project to boost tourism
+
+*2024-01-20 15:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96572/collaborative-efforts-mooted-for-success-of-pekoe-trail-project-to-boost-tourism-) · `en`
+
+A review meeting was conducted on Friday (Jan.19) at the President’s Office, chaired by Sagala Ratnayaka, Senior Advisor to the President on National Security and Chief of Presidential Staff, to discuss the progress of the “Pekoe trail” project aimed at boosting Sri Lanka’s tourism industry.
+
+The Pekoe trail team has outlined its plans for the project, emphasizing the creation of a tourist trail that has garnered global popularity and is poised to significantly support the development of the tea industry in Sri Lanka.
+
+Pekoe Trail is a 300-kilometer curated long-distance walking trail through the Central Highlands of the island.
+
+Highlighting the potential to attract tourists who haven’t previously considered visiting Sri Lanka, the team expressed the importance of the project in expanding the country’s appeal as a tourist destination.
+
+Ratnayaka, in his remarks, underscored President Ranil Wickremesinghe’s keen interest in the project, deeming it a crucial initiative for Sri Lanka.
+
+...
+
+[Data](articles/84a0f77c.json)
+
+[Extended Data](ext_articles/84a0f77c.ext.json)
+
+---
+
+### The new order flew to the police
+
+*2024-01-20 15:52:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொலிஸாருக்கு-பறந்த-புதிய-உத்தரவு/175-331845) · `ta`
+
+Police Officers have advised the police not to stop the vehicles for checking when they work in civil clothes.
+
+He said the new instructions were sent to all police stations yesterday (19).
+
+கடந்த 18ஆம் திகதி நாரம்மல பிரதேசத்தில் பொலிஸ் உத்தியோகத்தர் ஒருவரின் துப்பாக்கிச் சூட்டில் சாரதி ஒருவர் உயிரிழந்ததை அடுத்து, இந்த புதிய அறிவுறுத்தல் வழங்கப்பட்டுள்ளதாக அவர் குறிப்பிட்டுள்ளார். (Of)
+
+◼️
+
+[Data](articles/d1c65e0f.json)
+
+[Extended Data](ext_articles/d1c65e0f.ext.json)
+
+---
+
+### Sajith letter to Speaker
+
+*2024-01-20 15:49:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சபாநாயகருக்கு-சஜித்-கடிதம்/175-331844) · `ta`
+
+Opposition Leader Sajith Premadasa has demanded that the law be implemented by the public in consultation with the public and in consultation with the public, which is not taken up for two days.
+
+Sajith Premadasa has told the media that this request has been issued in a special letter sent to the Speaker regarding the Celebration Bill.
+
+“In the name of the Ceremony Backup Bill, imperialism, dictatorship is a violation of the human rights of 220 lakhs of individuals.
+
+I strongly dismiss this and express an unconditional opposition. It should not be taken up for debate next week, and further understand the decisions of the High Court, respected those proposals and re -entrusted the law to protect human rights in the program of protecting democratic rights. ”
+
+There is no place for imperialism in the country. In an important election year, we will not allow the crushing and destroying the wishes of the public through fierce anti -democratic and dictatorship.
+
+...
+
+[Data](articles/4f25b7c3.json)
+
+[Extended Data](ext_articles/4f25b7c3.ext.json)
 
 ---

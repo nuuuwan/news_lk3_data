@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 09:51:38**
+As of **2024-01-21 11:02:24**
 
 ## Newspaper Stats
 
-*Scraped **1,514** Articles*
+*Scraped **1,517** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
-bbccomsinhala | 36
+bbccomsinhala | 37
 adaderanasinhalalk | 45
 islandlk | 97
 economynextcom | 101
@@ -17,20 +17,34 @@ newsfirstlk | 102
 dbsjeyarajcom | 117
 virakesarilk | 129
 dailyftlk | 150
-adalk | 163
+adalk | 164
 dailymirrorlk | 170
-adaderanalk | 187
+adaderanalk | 188
 tamilmirrorlk | 190
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-598 (39.5%) of 1,514 articles have been extended.
+627 (41.3%) of 1,517 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### 987 more suspects arrested as operation ‘Yukthiya’ continues
+
+*2024-01-21 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96587/987-more-suspects-arrested-as-operation-yukthiya-continues) · `en`
+
+In continuation of the special island-wide anti-drug operation ‘Yukthiya’, security forces personnel have arrested 987 more suspects in a 24-hour mission ending at 12:30 a.m. today (21 Jan.).
+
+According to the Ministry of Public Security, a total of 270g of heroin, 140g of crystal methamphetamine (Ice) and 1,080 narcotic pills were taken into custody during the raids
+
+◼️
+
+[Data](articles/7f34b2cd.json)
+
+---
 
 ### Massive earthquake in the Indian Ocean
 
@@ -54,7 +68,7 @@ It also recorded at 6.4 on the Richter scale. Thus no tsunami warning was issued
 
 COLOMBO (News 1st); The price of Indian eggs sold through Sathosa outlets has been increased from Sunday (21).
 
-Minister of Minister of Trade, Commerce and Food Security Nalin Fernando said the revised price of an Indian egg is Rs.43.
+Minister of Trade, Commerce and Food Security Nalin Fernando said the revised price of an Indian egg is Rs.43.
 
 The Minister attributed the price revision to the VAT increase.
 
@@ -121,6 +135,20 @@ Dr. Chamal Sanjeewa added that the present Health Minister and Civil Rights Alli
 [Data](articles/401cc1c3.json)
 
 [Extended Data](ext_articles/401cc1c3.ext.json)
+
+---
+
+### ජනපති ලක්ෂ 2000ක් වෙන්කරගෙන රට සවාරි යනවා
+
+*2024-01-21 08:10:50* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලක්ෂ-2000ක්-වෙන්කරගෙන-රට-සවාරි-යනවා/11-407635) · `si`
+
+ආණ්ඩුවේ රාජ්‍ය ආදායම වැඩ කර ගැනීම සඳහා අයි.එම්.එෆ්. කී යැයි පවසා වැට් බදු ඇතුළු බදු අධික ලෙස වැඩි කර තිබියදී පාසල්වල පරිගණක නොමැති තත්ත්වයක් උදා වී තිබියදී රටේ ජනාධිපතිවරයා පරිපූරක ඇස්තමේන්තුවක් හරහා රටේ ජනතාවගේ බදු මුදල් රුපියල් ලක්ෂ 2000ක් උපයෝගී කර ගෙන විදේශ සංචාර යන බවත් බංකොලොත් රටේ මහජනතාව හාමතේ සිටින විට ජනාධිපති ප්‍රමුඛ රජය සුරසැප විඳින බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+රටේ බදු මුදල් වියදම් කර ලෝක සවාරි යන්න ජනාධිපතිවරයා විසින් විපක්ෂයේ මන්ත්‍රීවරුන්ට පවා ආරාධනා කළ බවත් ජනාධිපති ලේකම් කාර්යාලයෙන් මෙන්ම පාර්ලිමේන්තු නිලධාරීන් පවා කතා කරමින් මෙවැනි ආරාධනා සිදු කරන බවත් පාසල් දූදරුවන්ට හරිහැටි අධ්‍යාපන උපකරණ නොමැතිව දුක්විදින මොහොතක ජනාධිපති ලේකම් කාර්යාලයේ සහ පාර්ලිමේන්තුවේ නිලධාරීන් උපයෝගී කර ගෙන විපක්ෂයේ මන්ත්‍රීවරු බිලි බා ගැනීමට ජනාධිපතිවරයා උත්සාහ කරන බවත් විපක්ෂ නායකවරයා අවධාරණය කළේය.
+
+...
+
+[Data](articles/c73c4f59.json)
 
 ---
 
@@ -200,8 +228,6 @@ Sri Lanka Police said the shooting was carried out last night by an individual w
 
 Awareness programme for school children over drug menace from Feb 5th
 
-President to address the 3rd South Summit of the Group of 77 & China in Uganda
-
 ◼️
 
 [Data](articles/c44e01da.json)
@@ -223,8 +249,6 @@ The PUCSL added that the public will be able to submit opinions in writing for u
 The Ceylon Electricity Board handed over the proposal to revise electricity tariffs to the PUCSL.
 
 Awareness programme for school children over drug menace from Feb 5th
-
-President to address the 3rd South Summit of the Group of 77 & China in Uganda
 
 ◼️
 
@@ -294,7 +318,7 @@ He said under operation 'Yukthiya' Police have identified around 4,500 people in
 
 Awareness programme for school children over drug menace from Feb 5th
 
-...
+◼️
 
 [Data](articles/42006a5b.json)
 
@@ -318,7 +342,7 @@ With the aim of expanding political relations, a proposal was made to facilitate
 
 Awareness programme for school children over drug menace from Feb 5th
 
-...
+◼️
 
 [Data](articles/ac55c0bb.json)
 
@@ -577,6 +601,32 @@ The Indian Foreign Minister has stated that President Ranil Wickremesinghe has p
 [Data](articles/2793cac6.json)
 
 [Extended Data](ext_articles/2793cac6.ext.json)
+
+---
+
+### 'හෝයියා හෝයියා ඕඩි හෙලෙයි හෙලෙයියා' : ගාලු වැල්ලේ සවසක මා දැලක් අදිමුද?
+
+*2024-01-21 03:01:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cner9n8r99lo) · `si`
+
+'හෝයියා හෝයියා ඕඩි හෙලෙයි හෙලෙයියා' : ගාලු වැල්ලේ සවසක මා දැලක් අදිමුද?
+
+දක්ෂිණ අධිවේගී මාර්ගයේ පින්නදුව පිවිසුමෙන් පිට වී ගාල්ල දෙසට යනවිට මාර්ටින් වික්‍රමසිංහ සූරීන් විස්තර කර ඇති පරිදි සුදු රේන්දයට ඇල්ලූ කළු පීත්ත පටිය ලෙසින් දිස්වන්නේ ගාල්ල මාතර ප්‍රධාන මාර්ගය යි.
+
+ඉර බැස යන යාමේ  නෙත ගැටෙනා මැවෙන සොඳුරු දසුන අද්විතීයය වන අතර එය විඳගත යුතුම අපූර්වත්වයකි.
+
+ඒ සමගම විශාල පිරිසක් වෙරළේ පොදි බැඳගෙන සිටින අයුරු දකින්නට ලැබුණි.
+
+එය කුමක්දැයි බැලීම සඳහා ගියවිට අපිට දකින්නට ලැබුණේ විශාල මා දැලක් අදින අයුරුය.එය ශ්‍රී ලාංකාවේ තවත් එක් සාම්ප්‍රදායික ධීවර පන්න ක්‍රමයකි.
+
+වෙරළේ සිට කිලෝමීටර් එකහමාරක් පමණ ඈත මුහුදේ සිට මසුන් අල්ලන මාදැල් ඇදීම මෙරට සාම්ප්‍රදායික ධීවර පන්න ක්‍රමයකි.
+
+මුහුද සමග පොරබදන පිරිසට අමතරව මාදැලට අසුවන මාළු මිලදී ගැනීමට පැමිණි පිරිසද "හෝයියා හෝයියා ඕඩි හෙලෙයි හෙලෙයියා" කියා මා දෑල අදින අයුරු දුටු විට අපද පාවහන් ගලවමින් එම පිරිස සමග මාදැල් අදින්නට වුනෙමු.එය සුන්දර අත්දැකීමකි.
+
+රසබර සිදුවීම්, දුක්බර සිදුවීම් මෙන්ම භයානක සිදුවීම් පිළිබඳවද ඔවුන්ගේ අත්දැකීම් රැසකි.
+
+...
+
+[Data](articles/9d3210f5.json)
 
 ---
 
@@ -1995,67 +2045,5 @@ The other person involved in the incident is being treated in the hospital, sayi
 [Data](articles/8c6557c0.json)
 
 [Extended Data](ext_articles/8c6557c0.ext.json)
-
----
-
-### Two police officers involved in Narammala ‘accidental’ shooting interdicted
-
-*2024-01-20 13:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96567/two-police-officers-involved-in-narammala-accidental-shooting-interdicted) · `en`
-
-The Police Sub-Inspector (SI) and a Constable involved in the ‘accidental’ shooting of a lorry driver in Narammala have been interdicted.
-
-According to Police Spokesman SSP Nihal Thalduwa, the duo were interdicted with effect from Friday (19 Jan.).
-
-On Thursday (18 Jan.), a lorry driver aged 41 was killed after a police officer in civvies ‘accidentally’ discharged his firearm during a vehicle inspection. He was identified as a resident of Maharachchimulla area.
-
-The police media division said the driver had failed to comply with the signal to stop at a checkpoint in Dampelessa, Narammala.
-
-The concerned SI and Constable had then chased down the lorry and pulled it over for a spot inspection, during which the SI had allegedly ‘accidentally’ discharged his firearm, critically wounding the driver, who was rushed to the Narammala District Hospital, but succumbed to injuries shortly after.
-
-...
-
-[Data](articles/4444732c.json)
-
-[Extended Data](ext_articles/4444732c.ext.json)
-
----
-
-### Sajith letter from a speaker
-
-*2024-01-20 13:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192354) · `si`
-
-Opposition Leader Sajith Premadasa has sent a letter to Speaker Mahinda Yapa Abeywardena asks for the debate of the security of online methods.
-
-The Opposition Leader has pointed out that if the bill is passed at the moment, the Minister in charge of the proposed Commission and the subject of the subject will have unlimited power to establish it.
-
-The Opposition Leader has referred to the Speaker by demanding the debate on the safety methods of debating on 23 and 24.
-
-The Opposition Leader emphasizes that if the amendments are not submitted to the majority of these bill, the Supreme Court is determined that it should be passed with a special majority.
-
-The Leader of the Opposition has pointed out that this is the opportunity to create an adequate time and a wide public space before submitting a bill in the world.
-
-...
-
-[Data](articles/482f3b04.json)
-
-[Extended Data](ext_articles/482f3b04.ext.json)
-
----
-
-### Acting IGP directs police not to stop vehicles while they are in civilian attire
-
-*2024-01-20 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Acting-IGP-directs-police-not-to-stop-vehicles-while-they-are-in-civilian-attire/108-275414) · `en`
-
-Acting Inspector General of Police, Deshabandu Thennakoon has issued a fresh set of instructions to all police stations, directing them not to halt vehicles for inspections when officers are in civilian clothes while on duty.
-
-These new guidelines were distributed to all police stations yesterday.
-
-These guidelines were issued in response to a tragic incident that unfolded in Narammala on Thursday, involving a Sub Inspector of Police in civilian attire who reportedly opened fire at a lorry driver after the latter allegedly refused to stop his lorry.
-
-◼️
-
-[Data](articles/72bfef05.json)
-
-[Extended Data](ext_articles/72bfef05.ext.json)
 
 ---

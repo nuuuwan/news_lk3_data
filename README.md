@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 14:32:49**
+As of **2024-01-21 14:49:50**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanalk | 196
 
 Extensions include translations and NER (Named Entity Recognition).
 
-848 (54.0%) of 1,571 articles have been extended.
+863 (54.9%) of 1,571 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,23 +48,27 @@ Speaking during a service at St. Sebastian's Church, Kandana, Cardinal Ranjith s
 
 [Data](articles/3529b651.json)
 
+[Extended Data](ext_articles/3529b651.ext.json)
+
 ---
 
-### එස් ශ්‍රීධරන් ITAK නායකත්වයට
+### S. Sridharan to the ITAK leadership
 
 *2024-01-21 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192393) · `si`
 
-ඉලංගෙයි තමිල් අරසු පක්ෂයේ (ITAK) නව නායකයා ලෙස යාපනය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එස්. ශ්‍රීධරන් මහතා පත්ව තිබේ.
+Jaffna District Parliamentarian SM. Mr. Sridharan has been awarded.
 
-අද දෙරණ වාර්තාකරු පැවසුවේ පක්ෂ නායකත්වය සඳහා අද පැවති ඡන්ද විමසීමේදී ඒ මහතා වැඩි ඡන්දයෙන් නායකත්වයට තේරී පත්ව ඇති බවය.
+The Ada Derana reporter said that he had been elected to leadership in the election today.
 
-ඉලංගෙයි තමිල් අරසු පක්ෂයේ (ITAK) නව නායකයා තේරීම සඳහා වන එම ඡන්ද විමසීම අද පෙරවරුවේ ත්‍රිකුණාමලය නගර සභා ශාලාවේ දී පැවැත්වුණි.
+The election was held at the Trincomalee Urban Council at the Trincomalee Urban Council hall this morning.
 
-ඒ සඳහා එම්.ඒ සුමන්තිරන්, එස් ශ්‍රීධරන් සහ එස්.යෝගේෂ්වරන් යන පාර්ලිමේන්තු මන්ත්‍රීවරුන් ඉදිරිපත්ව සිටි අතර රහස් ඡන්දයකින් නව නායකයා තෝරා පත් කර ගැනීම සිදුව තිබුණි.
+Members of MPs, MA Sumanthiran, S. Sridhiran and Syashwaran had been elected to the new leader of secret votes.
 
 ◼️
 
 [Data](articles/b549c231.json)
+
+[Extended Data](ext_articles/b549c231.ext.json)
 
 ---
 
@@ -83,6 +87,8 @@ The Onco Surgeon who was alleged to have assaulted a female hospital staffer dur
 ◼️
 
 [Data](articles/a6354527.json)
+
+[Extended Data](ext_articles/a6354527.ext.json)
 
 ---
 

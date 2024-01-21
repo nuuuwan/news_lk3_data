@@ -1,170 +1,310 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 08:19:42**
+As of **2024-01-21 08:32:56**
 
 ## Newspaper Stats
 
-*Scraped **1,497** Articles*
+*Scraped **1,504** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 36
 adaderanasinhalalk | 43
-newsfirstlk | 96
 islandlk | 97
+newsfirstlk | 101
 economynextcom | 101
 dbsjeyarajcom | 117
 virakesarilk | 129
 dailyftlk | 150
-adalk | 161
+adalk | 162
 dailymirrorlk | 170
 tamilmirrorlk | 185
-adaderanalk | 185
+adaderanalk | 186
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-511 (34.1%) of 1,497 articles have been extended.
+541 (36.0%) of 1,504 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### සිව් දෙනෙකුට මරු කැඳවූ රිය අනතුරු
+### Several spells of showers expected in parts of the island
+
+*2024-01-21 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96585/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says several spells of showers may occur in North-central, Eastern and Uva Provinces.
+
+Showers or thundershowers will occur at several places in the Central and Sabaragamuwa provinces and in Galle and Matara districts after 2.00 p.m.
+
+Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/d79d476a.json)
+
+---
+
+### Operation ‘Yukthiya’ will continue despite challenges -Tiran
+
+*2024-01-21 07:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/operation-yukthiya-will-continue-despite-challenges-tiran/) · `en`
+
+COLOMBO (News 1st); Minister of Public Security Tiran Alles said operation 'Yukthiya' will continue despite various challenges.
+
+He expressed these views in Maligawatte on Saturday (20) night during the ceremony to empower community police committees in the Colombo Central Division.
+
+2,100 Community Police officers in eight Police divisions were part of the programme.
+
+Minister Tiran Alles said a member of a certain political party had criticised the operation, adding that he will not be affected by such criticism.
+
+The Minister said letters were also sent by the Human Rights Commission against the programme adding that it will not hinder the operation.
+
+Minister Alles stressed that operation 'Yukthiya' will only end after eradicating the drug menace as stated by the Acting Inspector General of Police.
+
+He said the operation may face other challenges in future as well, and urged the community police and other factions to unite, to make the operation a success.
+
+...
+
+[Data](articles/6bef53d1.json)
+
+---
+
+### 22-year-old killed in Telijjawila shooting
+
+*2024-01-21 07:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/22-year-old-killed-in-telijjawila-shooting/) · `en`
+
+COLOMBO (News 1st); A 22-year-old has died in a shooting in Telijjawila, Matara.
+
+Sri Lanka Police said the shooting was carried out last night by an individual who arrived in a motorcycle.
+
+Awareness programme for school children over drug menace from Feb 5th
+
+President to address the 3rd South Summit of the Group of 77 & China in Uganda
+
+◼️
+
+[Data](articles/c44e01da.json)
+
+---
+
+### PUCSL to discuss proposal to revise electricity tariffs
+
+*2024-01-21 07:53:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/pucsl-to-discuss-proposal-to-revise-electricity-tariffs/) · `en`
+
+COLOMBO (News 1st); The Public Utilities Commission of Sri Lanka is scheduled to convene at the start of this week to discuss the proposal to revise electricity tariffs.
+
+A spokesman for the PUCSL said public views will be obtained on the proposal to revise electricity tariffs from the 23rd of January.
+
+The PUCSL added that the public will be able to submit opinions in writing for up to 21 days from the 23rd.
+
+The Ceylon Electricity Board handed over the proposal to revise electricity tariffs to the PUCSL.
+
+Awareness programme for school children over drug menace from Feb 5th
+
+President to address the 3rd South Summit of the Group of 77 & China in Uganda
+
+◼️
+
+[Data](articles/2475d51b.json)
+
+---
+
+### Road accidents that killed four
 
 *2024-01-21 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192379) · `si`
 
-ගෙවී ගිය පැය 24ක කාලය තුළ ප්‍රදේශ කිහිපයක සිදු වූ රිය අනතුරුවලින් කාන්තාවන් දෙදෙනෙකු ඇතුළු පුද්ගලයන් සිව් දෙනෙකු මිය ගොස් තිබේ.
+Four persons, including two women, killed two women in several areas during the past 24 hours.
 
-මාතර - හක්මන මාර්ගයේ යටියන ප්‍රදේශයේ දී ලොරි රථයක් ත්‍රිරෝද රථයක ගැටී සිදු වූ අනතුරකින් කාන්තාවක් මිය ගොස් ඇත.
+A woman was killed in an accident that a lorry collided with a three-wheeler in Matara - Hakmana road.
 
-එසේ මිය ගොස් ඇත්තේ, සවුසිරි උයන - යටිවන ප්‍රදේශයේ පදිංචි කාන්තාවකි.
+The deceased has been identified as Sausewiri Uyana - a resident of the Yivewana area.
 
-මේ අතර, මිරිහාන පොලිස් වසමේ පරණ කැස්බෑව මාර්ගයේ ජයවර්ධනපුර කෝට්ටේ නගර සභාවට අයත් සේවාපියස ඉදිරිපිට දී යතුරුපැදියක්, මාර්ගය හරහා ගමන් කළ පදික කාන්තාවකගේ ගැටී අනතුරක් සිදු ව තිබිණි.
+Meanwhile, a motorcycle and a motorcycle collided with a pavement and a paved woman who traveled through the Mirihana Police Division in the Mirihana Police Division.
 
-එම අනතුරින් ගංගොඩවිල - නුගේගොඩ ප්‍රදේශයේ පදිංචි 85 හැවිරිදි පදික කාන්තාව මිය ගොස් ඇත.
+The 85-year-old panel of pedestal resident of Nugegoda - Gangodawila.
 
-මේ අතර, කැබිතිගොල්ලෑව - වව්නියාව මාර්ගයේ දුටුවැව ප්‍රදේශයේ දී හඳුනා නොගත් වාහනයක ගැටී සිදු වූ අනතුරකින් පුද්ගලයෙකු මිය ගොස් තිබේ.
+Meanwhile, a person was killed in a car confronting an unidentified vehicle in the Natutuwela area in Kebithigollewa.
 
-මේ අතර, ඇලපාත - කොටාමුල්ල හංදිය අසල දී කැබ් රථයක් යතුරපැදියක ගැටී සිදු වූ අනතුරකින් පුද්ගලයෙකු මිය ගොස් තිබේ.
+Meanwhile, an accident had died in an accident that collided with a motorcycle near the Kotamaulla Junction near the Kotamaullah junction.
 
-එසේ මිය ගොස් ඇත්තේ, උඩනිරිඇල්ල, රත්නපුර ප්‍රදේශයේ පදිංචි 35 හැවිරිදි පුද්ගලයෙකි.
+The deceased has been identified as a 35 year old resident of the Ratnapura area.
 
 ◼️
 
 [Data](articles/2e93e938.json)
 
+[Extended Data](ext_articles/2e93e938.ext.json)
+
 ---
 
-### පානදුර මුහුදේ ගිලී පෝලන්ත ජාතිකයෙකු මරුට
+### Awareness programme for school children over drug menace from Feb 5th
+
+*2024-01-21 07:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/awareness-programme-for-school-children-over-drug-menace-from-feb-5th/) · `en`
+
+COLOMBO (News 1st); Acting Inspector General of Police Deshabandu Tennakoon said a programme will be launched to raise awareness among school children regarding the drug menace from the 5th of February.
+
+Acting IGP Deshabandu Tennakoon expressed these views on Saturday (20) while joining a programme to train 200 resource persons for the drug prevention program to be implemented for the school community under the theme "සුරක්ෂිත හෙටක්" which translates to"A safe tomorrow".
+
+Trainees of the National Youth Services Council and university graduates have been selected for this programme.
+
+The Acting IGP said the programme will raise awareness among hundreds of school children to protect them against the drug menace.
+
+He said under operation 'Yukthiya' Police have identified around 4,500 people involved in the supply of drugs to Sri Lanka, and 60 percent of them have been arrested.
+
+Awareness programme for school children over drug menace from Feb 5th
+
+...
+
+[Data](articles/42006a5b.json)
+
+---
+
+### President to address the 3rd South Summit of the Group of 77 & China in Uganda
+
+*2024-01-21 07:28:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/president-to-address-the-3rd-south-summit-of-the-group-of-77-china-in-uganda/) · `en`
+
+COLOMBO (News 1st); The 3rd South Summit of the Group of 77 & China, is scheduled to be held in Kampala, Uganda today, under the theme ‘Leaving No One Behind’.
+
+The President's Media Division said President Ranil Wickremesinghe is set to address the 3rd South Summit, which will be held today and tomorrow.
+
+The official meeting between President Ranil Wickremesinghe and Prime Minister of Nepal Pushpa Kamal Dahal took place in Kampala, Uganda yesterday, in line with the 19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM).
+
+The leaders engaged in extensive discussions on promoting the cultural and religious relations that have existed between the two countries since the past, emphasizing the potential for promoting tourism.
+
+With the aim of expanding political relations, a proposal was made to facilitate an exchange program for MPs to study the parliamentary affairs of both countries.
+
+Awareness programme for school children over drug menace from Feb 5th
+
+...
+
+[Data](articles/ac55c0bb.json)
+
+---
+
+### Polish kills in Panadura sea
 
 *2024-01-21 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192378) · `si`
 
-පානදුර මුහුදු තීරයේ දිය නෑමට ගිය පෝලන්ත ජාතිකයෙක් ජීවිතක්ෂයට පත් ව තිබේ.
+A Polish rank of Panadura has been killed.
 
-ඊයේ (20) සවස් කාලයේ දී එම අනතුරෙන් මිය ගොස් ඇත්තේ, 61 හැවිරිදි පෝලන්ත ජාතිකයෙක් බව පොලීසිය පවසයි.
+According to the police, 61-year-old Polish was a 61-year-old Polish.
 
-ඔහු පානදුර - දකුණ පොලිස් වසමේ පිහිටි හෝටලයක නවාතැන්ගෙන සිට ඇති අතර, පානදුර මුහුදු තීරයේ දිය නෑමට ගොස් තිබිණි.
+He was staying at a hotel in the South, Panadura and had gone to the coast of Panadura.
 
-එහි දී පෝලන්ත ජාතිකයා දිය වැලකට හසු වී ගසාගෙන යමින් සිටිය දී එම හෝටලයේ ජිවිතාකරක්ෂක නිලධාරීයා විසින් ගොඩට ගෙන පානදුර රෝහලට ඇතුළත් කිරීමේ දී මිය ගොස් තිබේ.
+The Polishman was in a breakdown in a disappointment and died on admission to the Sri Lanka Institute to the Panadura Hospital.
 
-සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන පානදුර දකුණ පොලිසිය විසින් සිදු කරයි.
+Panadura South Police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/94a6bf29.json)
 
+[Extended Data](ext_articles/94a6bf29.ext.json)
+
 ---
 
-### උසස් පෙළට පෙනී සිටි සිසුන්ට විශේෂ වැඩසටහනක්
+### Special program for students who sat at A / L students
 
 *2024-01-21 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192377) · `si`
 
-මෙවර උසස් පෙළ විභාගයට පෙනී සිටි අපේක්ෂයන් සදහා විශේෂ මාර්ග උපදේශනයක් සහ වෘත්තීය පුහුණු පාඨාමාලා වැඩසටහනක් ක්‍රියාත්මක කරන බව අධ්‍යපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+Evil Minister Susil Premajayantha says that a special direction and a vocational training program for the candidates of this year's A / L examination will be implemented.
 
-ඔහු ප්‍රකාශ කළේ, පෙබරවාරි මස 20 වැනි දින වන විට දිවයින පුරා මධ්‍යස්ථාන 300ක දී එම වැඩසටහන ආරම්භ කරන බවයි.
+He was stating that the program will be launched in 300 centers across the country as at the 20th of February.
 
 ◼️
 
 [Data](articles/384274c6.json)
 
+[Extended Data](ext_articles/384274c6.ext.json)
+
 ---
 
-### ක්ෂුද්‍ර මූල්‍ය ක්ෂේත්‍රය නියාමනය කිරීමට පියවර
+### Steps to regulate microfinance field
 
 *2024-01-21 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192376) · `si`
 
-මේ වසරේ පළමු කාර්තුව තුළදීම මෙරට ක්ෂුද්‍ර මූල්‍ය ක්ෂේත්‍රය නියාමනය කරන බව වැඩබලන මුදල් අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+Acting Finance Minister Shehan Semasinghe says Sri Lanka's microfinance is regulated in the first quarter of this year.
 
-කොළඹ පැවති උත්සවයකට එක්වෙමින් ඔහු ප්‍රකාශ කළේ, ක්ෂුද්‍ර මූල්‍ය ක්ෂේත්‍රය තුළ වැඩිම ප්‍රතිලාභ ගෙන කටයුතු කරනු ලබන්නේ කාන්තාවන් බවයි.
+He was speaking at a function in Colombo and the most benefited manner in the microfinance industry.
 
-සුළු හා මධ්‍ය පරිමාණ ව්‍යාපාරිකයින්ගේ මූල්‍ය අවශ්‍යතා සපුරා ගැනීම සඳහා ඇපකර ක්‍රමවේදයක් ඉදිරියේ දී හදුන්වාදෙන බව ද වැඩබලන මුදල් අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කරයි.
+Acting Finance Minister Shehan Semasinghe says that it will be introduced in the future to meet the financial needs of the SMEs.
 
-මේ අතර, ශ්‍රී ලංකා ටෙලිකොම් ආයතනය ප්‍රතිව්‍යුහගතකරණය සඳහා රුපියල් බිලියන 1.3ක් වෙන් කරනු ලැබුවේ ජාතික ඉතිරි කිරීමේ බැංකුව සතු කොටස් භාණ්ඩාගාරය සතු කරගැනීමට පමණක් බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා සඳහන් කර තිබේ.
+Meanwhile, the Government Minister Ranjith Siyambalapitiya has said that Rs. 1.3 billion was allocated to restructure Sri Lanka Telecom.
 
-ඔහු ප්‍රකාශ කළේ, අදාළ මුදල් වෙන් කිරීම සම්බන්ධයෙන් විවිධ පාර්ශ්ව සාවද්‍ය තොරතුරු සමාජගත කරමින් සිටින බවයි.
+He said that various parties are socializing inaccurate information regarding the allocation of the money.
 
-මේ අතර, සියලු ව්‍යාපාරිකයින් වැට් ගෙවීමට කටයුතු කරන්නේ නම්, සියයට දහ අටේ පවතින වැට් ප්‍රතිශතය සියයට 15 දක්වා අඩු කළ හැකි බව අමාත්‍ය බන්දුල ගුණවර්ධන මහතා ප්‍රකාශ කර ඇත.
+Meanwhile, Minister Bandula Gunawardena has said that if all the businessmen are working to pay the VAT, the percentage of the 20 percent VAT.
 
 ◼️
 
 [Data](articles/724cc0a8.json)
 
+[Extended Data](ext_articles/724cc0a8.ext.json)
+
 ---
 
-### ජනපති, නොබැඳි ජාතීන්ගේ සමුළුව ඇමතීම අද
+### President addressing Non-Aligned Summit today
 
 *2024-01-21 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192375) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සංවර්ධනය වෙමින් පවතින රටවල් 77 හා චීනය සමුළුව ඇමතීමට නියමිත ව තිබේ.
+President Ranil Wickremesinghe is scheduled to address the development of 77 countries and China conference.
 
-එක්සත් ජාතීන්ගේ සංවිධානයේ සංවර්ධනය වෙමින් පවතින රටවල විශාලතම සන්ධානය ලෙස 77 කණ්ඩායම හැඳින්විය හැකියි.
+The 77 team is the largest alliance of the United Nations developing countries.
 
-උගන්ඩා ජනාධිපති යෝවේරි මුසවේනි මහතාගේ ආරාධනයෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ වන විට කම්පාලා නුවරට ගොස් තිබේ.
+President Ranil Wickremesinghe has gone to Kampala at the invitation of Uganda President Yovori Musewaney.
 
 ◼️
 
 [Data](articles/d04ded0c.json)
 
+[Extended Data](ext_articles/d04ded0c.ext.json)
+
 ---
 
-### නිවාස බිඳ සොරකමේ ගිය සැකකරු අත්අඩංගුවට
+### Suspect arrested in steal
 
 *2024-01-21 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192374) · `si`
 
-මුල්ලේරියාව පොලිස් වසමේ නිවෙස් බිඳ දේපොළ සොරකම් කිරීමේ අපරාධවලට සම්බන්ධ සැකකරුවෙකු බස්නාහිර පළාත, දකුණ අපරාධ කොට්ඨාසය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Western Province, South Crimes Division has been arrested by the Western Province, South Crimes Division.
 
-එම සැකකරු ඊයේ (20) දහවල් කාලයේ දී අත්අඩංගුවට ගෙන තිබුණේ, අංගොඩ ප්‍රදේශයෙනි.
+The suspect was arrested yesterday (20) from the Angoda area.
 
-සැකකරුගෙන් සිදු කරන ලද ප්‍රශ්න කි‍රීම්වල දී පසුගිය 18 වනදා සහ 19 වනදා මුල්ලේරියාව පොලිස් වසමේ දෙල්ගහවත්ත පාර ප්‍රදේශයේ දී නිවෙස් 02ක තිබූ පස් තලන යන්ත්‍රයක්, ඉරන ලද කොස් දැව ඇතුළු දේපොළ සොරාගෙන ඇති බවට අනාවරණය වී තිබේ.
+It has been revealed that a soil at 2 houses in the Delgahawatta road in the Mulleriyawa area in Mulleriyawa on the 19th and 19th of the suspect.
 
-සැකකරු විසින් සොරකම් කරන ලද කොස් දැව හා පස් තලන යන්ත්‍රය සොයාගෙන ඇත.
+The suspect has found the stolen jack timber and soil atmosphere.
 
-සිද්ධිය සම්බන්ධයෙන් බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසය වැඩිදුර විමර්ශන සිදු කරයි.
+The Western Province South Criminal Division is conducting further investigations.
 
 ◼️
 
 [Data](articles/3e256662.json)
 
+[Extended Data](ext_articles/3e256662.ext.json)
+
 ---
 
-### අද කාලගුණය
+### Weather today
 
 *2024-01-21 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192373) · `si`
 
-උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල අද (21) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Several times will occur in the North-Central, Eastern and Uva provinces today (21).
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+The department states that the Department states in the Central and Sabaragamuwa Provincial and Galle and Matara districts. Showers or thundershowers will occur at several places around 2.
 
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි.
+Some locations can last a morning in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/6f01e999.json)
+
+[Extended Data](ext_articles/6f01e999.ext.json)
 
 ---
 
@@ -475,6 +615,24 @@ North Korea has been in touch with South Korea for many years and has a tendency
 [Data](articles/446191f9.json)
 
 [Extended Data](ext_articles/446191f9.ext.json)
+
+---
+
+### ලංවිම සේවකයන්ගේ ණයවලට පොලිය විදුලි පාරිභෝගිකයන්ගෙන් අයකරගෙන
+
+*2024-01-20 20:30:38* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-සේවකයන්ගේ-ණයවලට-පොලිය-විදුලි-පාරිභෝගිකයන්ගෙන්-අයකරගෙන/11-407633) · `si`
+
+විදුලි බල මණ්ඩලයේ සේවකයන් ලබාගෙන ඇති ණය වල පොලී ගාස්තු වලින් තුනෙන් දෙකක් විදුලි බල මණ්ඩලය ගෙවමින් ඇති බවත් එම මුදල් අයවන්නේ මහජනතාවගේ විදුලි බිලෙන් බවත් විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජෙසේකර මහතා පවසයි.
+
+විදුලිබල මණ්ඩලයේ සේවකයන් ලබාගෙන ඇති මූල්‍ය පහසුකම් සම්බන්ධයෙන් සහ විදුලිබල මණ්ඩලයට නව සේවකයන් බදවාගැනීම සම්බන්ධයෙන් තමන් ලබා ගත තොරතුරු අනුව මෙම දත්ත වාර්තා කර ඇති බවද ඔහු පවසයි.
+
+විදුලිබල මණ්ඩලයේ මූල්‍ය අංශය මුකරන ලද තොරතුරු අනුව විදුලිබල මණ්ඩලයේ සේවකයන් ලබාගෙන  ඇති ණය පහසුකම් වල ප්‍රමාණය රුපියල් බිලියන 12ක් පමණ වන අතර ඒ සදහා වන පොලියෙන් 2/3ක් විදුලිබල මණ්ඩල විසින්ම ගෙවීම සිදුකරන බවද ඔහු පවසයි.
+
+විදුලිබල මණ්ඩලයේ සේවකයන් ලබාගෙන ඇති මූල්‍ය පහසුකම් වල පොලී ගෙවාදැමීම සදහා වන මුදල් මහජනතාවගේ විදුලි බිලෙන් අයකරගැනීම නවතාදමා, ණය හිමියන්ගෙන් ඒවා අයකරගැනීමට ක්‍රමවේදයක් සකස්කරන ලෙස විදුලිබල මණ්ඩලයේ කළමණාකාරීත්වයට තමන් උපදෙස් දුන් බවද ඔහු පවසයි.
+
+...
+
+[Data](articles/f9b983b8.json)
 
 ---
 
@@ -1913,129 +2071,5 @@ Local authorities said the fire, which began on Friday night, was extinguished b
 [Data](articles/9e023d6b.json)
 
 [Extended Data](ext_articles/9e023d6b.ext.json)
-
----
-
-### Two-thirds of CEB employee loan interests paid by consumers - Minister
-
-*2024-01-20 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96566/two-thirds-of-ceb-employee-loan-interests-paid-by-consumers-minister) · `en`
-
-Power and Energy Minister Kanchana Wijesekera has revealed that two-thirds of the employees’ loan interest paid by the Ceylon Electricity Board (CEB) is recovered from consumer tariffs and that financial facilities to the tune of Rs. 12 billion are granted to the employees.
-
-Taking to ‘X’ (formerly Twitter), the Minister stated that as per the data received by the CEB finance division, upon his request, a total of nearly Rs. 12 billion is spent by the state-owned institution for financial facilities extended to their employees.
-
-Responding to the shocking revelation that the interest paid by the CEB to its employees is recovered through consumer tariffs, the Minister noted that CEB has been instructed to implement a mechanism through which the said money is recovered from the beneficiaries of loans, instead of  the consumers.
-
-...
-
-[Data](articles/427e171e.json)
-
-[Extended Data](ext_articles/427e171e.ext.json)
-
----
-
-### NIA files supplementary charge sheet against 4 in Sri Lankan human trafficking case
-
-*2024-01-20 12:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NIA-files-supplementary-charge-sheet-against-4-in-Sri-Lankan-human-trafficking-case/108-275412) · `en`
-
-Bengaluru, Jan 19 (PTI) The National Investigation Agency (NIA) on Friday filed a supplementary charge sheet against four accused in a 2021 case relating to human trafficking of 39 Sri Lankan nationals into India on the pretext of taking them to Canada, an official statement said.
-
-Mohamed Imran khan alias Imran, who was arrested by the NIA recently, has been chargesheeted under sections of the Indian Penal Code (IPC) dealing with trafficking, confinement and conspiracy, along with absconders Seeni Aabul Khan, Mohamed Ibrahim alias Ahmed and Pudumadam Imran alias Hajiyar alias Imran Khan, before a special court in Bengaluru, it said.
-
-The accused were involved in trafficking of the 39 Sri Lankans to Mangaluru via Tamil Nadu by falsely promising them that they were being taken to Canada, the statement said.
-
-The victims were confined in various lodges across Mangaluru and were initially arrested by Karnataka Police, as accomplices along with the accused, it said.
-
-...
-
-[Data](articles/c1c3445e.json)
-
-[Extended Data](ext_articles/c1c3445e.ext.json)
-
----
-
-### Police officers instructed not to pull over vehicles while clad in civvies
-
-*2024-01-20 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96565/police-officers-instructed-not-to-pull-over-vehicles-while-clad-in-civvies-) · `en`
-
-Acting IGP Deshabandu Tennakoon says he has issued fresh instructions on Friday (19 Jan.) to all police stations to refrain from pulling over vehicles for inspections while the officers are clad in civilian clothing.
-
-The directive comes on the heels of an incident in the Narammala Police Division, where a lorry driver, 41, was killed after a Police Sub-Inspector (SI) clad in civvies allegedly ‘accidentally’ discharged his firearm during a vehicle inspection.
-
-The police media division said the driver had failed to comply with the signal to stop at a checkpoint in Dampelessa, Narammala.
-
-The concerned SI and a Constable had then chased down the lorry and pulled it over for a spot inspection, following which the SI had allegedly ‘accidentally’ discharged his firearm, critically wounding the driver, who was rushed to the Narammala District Hospital, but succumbed to injuries shortly after.
-
-...
-
-[Data](articles/00f77d77.json)
-
-[Extended Data](ext_articles/00f77d77.ext.json)
-
----
-
-### Ceyline Holdings appoints new Dy. Chairman and Group Director
-
-*2024-01-20 12:21:00* · [`islandlk`](http://island.lk/ceyline-holdings-appoints-new-dy-chairman-and-group-director-2/) · `en`
-
-Adm. Piyal De Silva appointed as Deputy Chairman, Nathasha Egodage as Group Director
-
-Ceyline Holdings (Pvt) Ltd. (CHL) recently announced the appointment of Admiral Piyal De Silva (Retd) as Deputy Chairman of the group and Nathasha Egodage as Group Director, further strengthening its Board’s capabilities to make strategic international connections and win new business in the ever-competitive global marine industry.
-
-Admiral De Silva (retd), was the 23rd Commander of the Sri Lanka Navy and is a former Ambassador of Sri Lanka to Afghanistan.
-
-He graduated with a Master of Business Administration in Human Resource Management and a Master of Science in Military Science and National Security Strategic Study and has also attended the National Defence Course, China.
-
-...
-
-[Data](articles/94f32ec1.json)
-
-[Extended Data](ext_articles/94f32ec1.ext.json)
-
----
-
-### Amila Gold House Pvt Ltd shines at Southern Province Entrepreneur Awards
-
-*2024-01-20 12:20:00* · [`islandlk`](http://island.lk/amila-gold-house-pvt-ltd-shines-at-southern-province-entrepreneur-awards/) · `en`
-
-Amila Gold House Private Limited, a leader in the manufacture and sale of fine jewellery in the Southern Province with a proud history of more than 25 years, was honoured as the Best Innovative Enterprise at the at the Southern Province Entrepreneur Awards 2023. The distinguished award ceremony organised by the Southern Provincial Chamber of Commerce and Industry in collaboration with the National Enterprise Development Authority (NEDA), with the aim of recognising and honouring entrepreneurs who have demonstrated excellence, was held under the patronage of the Minister of Industries Dr. Ramesh Pathirana. The award was received by Amila Gold House Private Limited Chairman, Amila Indunil de Silva. Amila Gold House was the first jewellery business to secure International Standards Organisation (ISO) 9001-2015 quality certifications in 2019.
-
-...
-
-[Data](articles/26c69eca.json)
-
-[Extended Data](ext_articles/26c69eca.ext.json)
-
----
-
-### HNB Assurance Advisor Distribution Management Team Celebrates its Exceptional Performance
-
-*2024-01-20 12:20:00* · [`islandlk`](http://island.lk/hnb-assurance-advisor-distribution-management-team-celebrates-its-exceptional-performance-2/) · `en`
-
-HNB Assurance recently convened the highly anticipated New Business Launch and Advisor Distribution Management Forum, showcasing the exceptional performance of its Advisor Distribution Channel which included a remarkable 37% increase in New Business Premium (NBP) growth, a robust 24% growth in Gross Written Premium (GWP) and the prestigious international recognition from Insurance Asia for the Best Distribution Initiative, during the year 2023.
-
-Lasitha Wimalaratne, CEO of HNBA expressed his thoughts at the forum, stating, “We are extremely proud of the outstanding performance displayed by our Advisor Distribution Channel during the year 2023, a trend they’ve continued over the last three years. This impressive growth in NBP and GWP as well as the other achievements underscores the expertise and resilience of our team.”
-
-...
-
-[Data](articles/b876217b.json)
-
-[Extended Data](ext_articles/b876217b.ext.json)
-
----
-
-### Arpico Insurance PLC wins at the CA Sri Lanka TAGS Awards 2023
-
-*2024-01-20 12:20:00* · [`islandlk`](http://island.lk/arpico-insurance-plc-wins-at-the-ca-sri-lanka-tags-awards-2023/) · `en`
-
-Arpico Insurance PLC, a fully owned subsidiary of the blue-chip conglomerate Richard Pieris & Company PLC, clinched the Bronze Award for the Best Annual Report in the Insurance Sector (GWP upto Rs. 10 billion) for the second consecutive year at the TAGS Awards 2023.
-
-Organized by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), the TAGS Awards, which is an acronym for Transparency, Accountability, Governance and Sustainability, recognized the integrity of the financial, environmental, social, and governance reporting of Arpico Insurance PLC for its Annual Report 2022 titled ‘Strides for Multifaceted Growth’.
-
-...
-
-[Data](articles/df25c12e.json)
-
-[Extended Data](ext_articles/df25c12e.ext.json)
 
 ---

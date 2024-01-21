@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 01:02:27**
+As of **2024-01-22 01:17:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanalk | 206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,338 (80.8%) of 1,656 articles have been extended.
+1,343 (81.1%) of 1,656 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ As far as the Tamils are concerned in Ceylon/Sri Lanka, their situation during t
 ...
 
 [Data](articles/2bdb03b1.json)
+
+[Extended Data](ext_articles/2bdb03b1.ext.json)
 
 ---
 
@@ -57,6 +59,8 @@ So while we do have a certain amount of ‘money in the bank’ so-to-say, it is
 ...
 
 [Data](articles/ce450341.json)
+
+[Extended Data](ext_articles/ce450341.ext.json)
 
 ---
 
@@ -76,6 +80,8 @@ It was a rather big delegation of more than 40 people, headed by Nikolai Patrush
 
 [Data](articles/67056118.json)
 
+[Extended Data](ext_articles/67056118.ext.json)
+
 ---
 
 ### Avalokiteshvaras in Every Sphere of Sasana: a Growing Gap between Dhamma & Buddhism
@@ -87,6 +93,8 @@ Followers of wholesome Dhamma need not be disturbed by individuals like Jeromes,
 ...
 
 [Data](articles/67e9f781.json)
+
+[Extended Data](ext_articles/67e9f781.ext.json)
 
 ---
 
@@ -103,6 +111,8 @@ In an ever-changing world, one cannot find a risk-free venture, investment, even
 ...
 
 [Data](articles/8030e805.json)
+
+[Extended Data](ext_articles/8030e805.ext.json)
 
 ---
 

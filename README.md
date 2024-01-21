@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 16:48:19**
+As of **2024-01-21 17:02:16**
 
 ## Newspaper Stats
 
-*Scraped **1,592** Articles*
+*Scraped **1,597** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 38
-adaderanasinhalalk | 57
+adaderanasinhalalk | 61
 islandlk | 97
 economynextcom | 103
 newsfirstlk | 108
 dbsjeyarajcom | 119
 virakesarilk | 145
 dailyftlk | 150
-adalk | 170
+adalk | 171
 dailymirrorlk | 180
 tamilmirrorlk | 198
 adaderanalk | 200
@@ -26,7 +26,7 @@ adaderanalk | 200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-990 (62.2%) of 1,592 articles have been extended.
+994 (62.2%) of 1,597 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,46 @@ Therefore, I am informed that I will give my full support to the leader of the d
 [Data](articles/df5b5d2e.json)
 
 [Extended Data](ext_articles/df5b5d2e.ext.json)
+
+---
+
+### ගුවන් යානයක් අනතුරට ලක්වෙයි
+
+*2024-01-21 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192397) · `si`
+
+ඊසාන දිග ඇෆ්ගනිස්තාන කඳුකර ප්‍රදේශයේදී ගුවන් යානයක් කඩා වැටී අනතුරට ලක්ව ඇති බවට විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කර සිටින්නේ මෙලෙස අනතුරට ලක්ව ඇති ගුවන් යානයේ මගීන් 6 දෙනෙකු සිට ඇති බවය.
+
+තවමත් යානය කඩා වැටී ඇති ස්ථානය පිළිබඳව තොරතුරු නිශ්චිතව අනාවරණය වී නොමැති අතර එම ආසන්න ප්‍රදේශ වෙත සහන සේවා කණ්ඩායම් යොමුකර ඇත.
+
+රුසියාව ප්‍රකාශයක් නිකුත් කරමින් පවසා ඇත්තේ ඉන්දියාවේ සිට මොස්කව් දක්වා පැමිණෙමින් තිබූ සැහැල්ලු ගුවන් යානයක් මෙලෙස අනතුරට ලක්ව ඇති බවය.
+
+මේ අතර අනතුරට ලක්ව ඇති ගුවන් යානය ඉන්දියාවට අයත් යානයක් බවට මීට පෙර වාර්තා පළවුවද ඉන්දීය රජය විසින් එම වාර්තා ප්‍රතික්ෂේප කර තිබුණි.
+
+◼️
+
+[Data](articles/deba17f2.json)
+
+---
+
+### දකුණු ඉන්දීය සුරූපී නිළියෝ හැටන් ඇවිත්
+
+*2024-01-21 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192396) · `si`
+
+දකුණු ඉන්දීය සිනමාවේ ජනප්‍රිය රංගන ශිල්පිනියන් කිහිපදෙනෙකු අද (21) හැටන් වෙත පැමිණ තිබුණි.
+
+ඒ හැටන් ඩන්බාර් ක්‍රීඩාංගණයේදී පැවති ජාතික තෛපොංගල් දින උත්සවයට සහභාගී වීම සඳහාය.
+
+මෙලෙස එම උත්සවයට එක්ව සිටියේ අයිශ්වර්යා රාජේශ්, අයිශ්වරයා දත්තා, සංයුක්තා, මීනාච්චි නමැති ජනප්‍රිය රංගන ශිල්පිනියන් පිරිසකි.
+
+විදුර වික්‍රමනායක සහ ජීවන් තොණ්ඩමන් යන අමාත්‍යවරුන්ගේ ප්‍රධානත්වයෙන් මෙම උත්සවය පැවැත්විණි.
+
+මෙම ජාතික තෛපොංගල් දින උත්සවයේදී දමිළ ජනතාව විසින් නැවුම් මුට්ටිවල කිරිබත් 1008 ක් පිළියෙළ කර ඇති අතර, එයට සමගාමීව කෝලම් රටා සහ හින්දු සංස්කෘතිකාංග රැසක් ඉදිරිපත් කර තිබේ.
+
+◼️
+
+[Data](articles/6d33b836.json)
 
 ---
 
@@ -132,6 +172,26 @@ According to police, the saffron-robbed monk had allegedly issued statements dem
 
 ---
 
+### විශ්ව බුද්ධ යළි රිමාන්ඩ්
+
+*2024-01-21 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192395) · `si`
+
+ගංගොඩවිල මහෙස්ත්‍රාත් අධිකරණය විසින් විශ්ව බුද්ධ නමින් පෙනී සිටි චීවරධාරියා යළි රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+සැකකාර චීවරධාරියා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන අධිකරණය වෙත ඉදිරිපත් කර තිබුණි.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් මෙම චීවරධාරියා ව කළගෙඩිහේන ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන ඇත.
+
+බුදු දහම පිළිබඳ ආන්දෝලනාත්මක ප්‍රකාශ නිකුත් කරමින් සහ සමාජ මාධ්‍යය තුළ ආන්දෝලනාත්මක හැසිරීම් සිදු කළ විශ්ව බුද්ධ නම් පුද්ගලයා මීට පෙර ද අධිකරණය හමුවට ඉදිරිපත් කර තිබිණි.
+
+නමුත් මොහු අධිකරණයේ අවවාද නොතකමින් සුපුරුදු ලෙස හැසිරෙන බව පවසා යළි අධිකරණයට ඉදිරිපත් කරන ලෙස නියෝගයක් නිකුත් කෙරිණි.
+
+◼️
+
+[Data](articles/c753e77f.json)
+
+---
+
 ### The boy's death by the Maldives president's decision
 
 *2024-01-21 15:24:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மாலத்தீவு-ஜனாதிபதி-முடிவால்-சிறுவன்-மரணம்/50-331899) · `ta`
@@ -151,6 +211,24 @@ Later, after 16 hours the boy was taken to Mali by plane. The boy died without t
 [Data](articles/f6e90b9e.json)
 
 [Extended Data](ext_articles/f6e90b9e.ext.json)
+
+---
+
+### ජනපති G77 කණ්ඩායමේ සහ චීනය, 03 වන දකුණු සමුළුව අමතයි
+
+*2024-01-21 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192394) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා G77 කණ්ඩායමේ සහ චීනය, 03 වන දකුණු සමුළුව ඇමතීම ආරම්භ කර තිබේ.
+
+G77 කණ්ඩායමේ සහ චීනය, 03 වන දකුණු සමුළුව උගන්ඩාවේ කම්පාලා නුවර දී පැවැත්වෙයි.
+
+එම සමුළුව අමතමින් ජනාධිපතිවරයා ගෝලීය දකුණේ අභියෝගවලට මුහුණදීම සඳහා G77 කණ්ඩායම සමග චීනය එකතුවීමේ වැදගත්කම පෙන්වා දී තිබේ.
+
+එහිදී ජනාධිපතිවරයා වැඩිදුරටත් පෙන්වාදී ඇත්තේ එම ගැටලු සඳහා තිරසාර විසඳුමක් ලබාදීමට මෙම සමූහයේ සමගිය සහ සහයෝගීතාවය වැනි මූලධර්ම වැදගත් බවය.
+
+◼️
+
+[Data](articles/f687905c.json)
 
 ---
 
@@ -963,6 +1041,24 @@ Lai, who won the election, will take over as head of state in May in May. With h
 [Data](articles/3b6e6f6b.json)
 
 [Extended Data](ext_articles/3b6e6f6b.ext.json)
+
+---
+
+### ශ්‍රී ලංකා හා උගන්ඩා ජනපතිවරු හමු වෙති
+
+*2024-01-21 11:28:54* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-හා-උගන්ඩා-ජනපතිවරු-හමු-වෙති/11-407642) · `si`
+
+වැටී තිබූ ශ්‍රී ලංකාව යළි නඟා සිටුවීම සඳහා ජනපති දුන් නායකත්වය උගන්ඩා ජනපතිගේ ඇගයීමට.
+
+උගන්ඩාවේ නිල සංචාරයක නිරත ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ උගන්ඩා ජනරජයේ ජනාධිපති යොවේරි මුසෙවේනි (Yoweri Museveni) මහතා අතර නිල හමුව ඊයේ (20) පස්වරුවේ සිදු විය.
+
+මෙහිදී උගන්ඩා ජනාධිපතිවරයා විසින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව ඉතා මිත්‍රශීලි ලෙස පිළිගත් අතර නායක දෙපළ අතර සුහද කථා බහකින් අනතුරුව ද්විපාර්ශ්වික සාකච්ඡා ආරම්භ කෙරිණි.
+
+තම ආරාධනය අනුව උගන්ඩා නිල සංචාරයට එක්වීම පිළිබඳ මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත සතුට පළ කළ උගන්ඩා ජනාධිපති යොවේරි මුසෙවේනි මහතා වැටී තිබූ ශ්‍රී ලංකා ආර්ථිකය යළි නගා සිටුවීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබා දුන් නායකත්වය අගය කළ අතර ඊට ජාතියේ ප්‍රණාමය හිමි විය යුතු බව ද කියා සිටියේය.
+
+...
+
+[Data](articles/fb24a17d.json)
 
 ---
 
@@ -1993,89 +2089,5 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/6f01e999.json)
 
 [Extended Data](ext_articles/6f01e999.ext.json)
-
----
-
-### From Ceylon to Sri Lanka: some historical and other snippets
-
-*2024-01-21 05:11:00* · [`islandlk`](http://island.lk/from-ceylon-to-sri-lanka-some-historical-and-other-snippets/) · `en`
-
-“Oh! Great King, the birds of the air and beasts have an equal right to live and move about in any part of this land as thou. The land belongs to the people and all other beings and thou art only the guardian of it. “
-
-Most readers, particularly Buddhists, will know that these words of advice were given to King Devanampiyatissa (250-210 BC) by the Ven Mahinda Thera, son of Emperor Dharma Asoka of India, who gave the greatest gift to Sri Lanka – the teachings of the Buddha.
-
-...
-
-[Data](articles/c37b9d04.json)
-
-[Extended Data](ext_articles/c37b9d04.ext.json)
-
----
-
-### Two remarkable personalities: screenwriter and ex PM
-
-*2024-01-21 04:51:00* · [`islandlk`](http://island.lk/two-remarkable-personalities-screenwriter-and-ex-pm/) · `en`
-
-We Sri Lankans, in the majority are fatigued with annoyance, battling rising prices, facing a gloomy future and having to contend with capricious politicians, ineffectual MPs and religious mavericks; the last of three men performing free from constraints, guidelines and permissive interpretation of Buddhism. Thus we earnestly seek personalities or events that inspire hope and admiration. This last week I read about two persons who interested me immensely, restored hope in humanity and impacted on my emotions.
-
-Peter Julian Robin Morgan, CBE, is my first person of interest. He was born on April 19, 1963, in Wimbledon, London, to immigrant parents: father a Jew who escaped Nazi Germany in 1933 and a Roman Catholic mother who fled Poland under the Soviets. His father died when he was nine. He grew up in London and attended two schools in London and Somerset and obtained a fine arts degree from Leeds University.
-
-...
-
-[Data](articles/5ecfc9f1.json)
-
-[Extended Data](ext_articles/5ecfc9f1.ext.json)
-
----
-
-### President Ranil meets Nepal Prime Minister
-
-*2024-01-21 03:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாள-பிரதமருடன்-ஜனாதிபதி-ரணில்-சந்திப்பு/175-331868) · `ta`
-
-A meeting between President Ranil Wickremesinghe and Nepal Prime Minister Pushpa Kamal Tahal took place yesterday.
-
-Leaders have discussed the further enhancement of the long -standing cultural and religious ties between the two countries.
-
-In order to further expand the political ties between the two countries, it has also been discussed on the basis of the exchange scheme and the opportunity to examine the two -nation parliamentary affairs.. (A)
-
-◼️
-
-[Data](articles/50e83148.json)
-
-[Extended Data](ext_articles/50e83148.ext.json)
-
----
-
-### The corpse of the elderly
-
-*2024-01-21 03:26:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயோதிபரின்-சடலம்-மீட்பு/175-331867) · `ta`
-
-The body was found yesterday in the Hepatikollawa area on the Vavuniya border of the Vavuniya and Trincomalee main road.
-
-Police said that the 60 -year -old elderly man died due to an accident and that the vehicle that caused the accident had escaped.. (A)
-
-◼️
-
-[Data](articles/2369b19a.json)
-
-[Extended Data](ext_articles/2369b19a.ext.json)
-
----
-
-### Egg price in Sathosa today is 43 rupees
-
-*2024-01-21 03:21:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றுமுதல்-சதொசவில்-முட்டை-விலை-43-ரூபா/175-331866) · `ta`
-
-Trade Minister Nalin Fernando said the price of an Indian egg imported from Sathosa would be increased to 43 rupees from today.
-
-Sathosa outlets have restricted egg sales due to the increase in the tax increase.. Accordingly, an egg shortage in Sathosa has occurred.
-
-In this context, Minister Nalin Fernando has said that the price of eggs in the market has increased again.. (A)
-
-◼️
-
-[Data](articles/baa5900e.json)
-
-[Extended Data](ext_articles/baa5900e.ext.json)
 
 ---

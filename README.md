@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 20:02:19**
+As of **2024-01-21 19:50:08**
 
 ## Newspaper Stats
 
-*Scraped **1,622** Articles*
+*Scraped **1,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 109
 dbsjeyarajcom | 121
 virakesarilk | 149
 dailyftlk | 150
-adalk | 176
+adalk | 174
 dailymirrorlk | 181
 tamilmirrorlk | 200
 adaderanalk | 203
@@ -26,7 +26,7 @@ adaderanalk | 203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,170 (72.1%) of 1,622 articles have been extended.
+1,170 (72.2%) of 1,620 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,22 +55,6 @@ She has fled the area and police investigations have been launched to arrest the
 [Data](articles/9b16a362.json)
 
 [Extended Data](ext_articles/9b16a362.ext.json)
-
----
-
-### කරාපිටිය සිදුවීම ගැන අමාත්‍යාංශයෙන් පරීක්ෂණයක්
-
-*2024-01-21 19:06:11* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිය-සිදුවීම-ගැන-අමාත්‍යාංශයෙන්-පරීක්ෂණයක්/11-407647) · `si`
-
-ගාල්ල කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා රෝග පිළිබද විශේෂඥ ශල්‍ය වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතාට තර්ජනය කොට පහරදිමට තැත්කිරිමේ සිද්ධිය හා විශේෂඥ ශල්‍ය වෛද්‍යවරයා විසින් කනිෂ්ඨ කාර්යමණ්ඩලයේ සේවිකාවකට හා සේවකයෙකුට පහරදුන් බව කියන සිද්ධිය සම්බන්දයෙන් මේ වනවිටත් සෞඛ්‍ය අමාත්‍යංශය මගින් පරික්ෂණයක් ආරම්භකොට ඇති බව කරාපිටිය ශික්ෂණ රෝහලේ අධ්‍යක්ෂ විශේෂඥ වෛද්‍ය  එස්.පි.යු.එම් රංග මහතා සදහන් කරයි.
-
-සෞඛ්‍ය අමාත්‍යංශයේ විමර්ශන නිලධාරින් කරාපිටිය රෝහලට පැමිණ මේ වනවිට  මෙම සිද්ධි දෙක සම්බන්දයෙන් විමර්ශන කටයුතු සිදුකරගෙන යන බවද රෝහල් අධ්‍යක්ෂවරයා පවසයි. මෙම සිදුවිම් දෙක සම්බන්දයෙන් දෙපාර්ශවයෙන්ම  තමන්ට පැමිණිලි ලැබුණු බවත්  මේ පිළිබද විනය පරික්ෂණයක්  සිදුකිරිම සදහා   සෞඛ්‍ය සේවා අධ්‍යක්ෂවරයා මගින්  එම පැමිණිලි සෞඛ්‍ය අමාත්‍යංශය වෙත යොමුකිරිමට කටයුතු කරඇති බවද  රෝහල් අධ්‍යක්ෂකවරයාපැවසීය.
-
-විශේෂඥ ශල්‍ය වෛද්‍යවරයා විසින්  විශ්‍රාමයාම සදහා  අවශ්‍ය කටයුතු කරණ ලෙස ඉල්ලිමක් කොට ඇති බවත්  ඔහු විශ්‍රාම ගැන්විම සදහා අවශ්‍ය කටයුතු  මේ වනවිට සිදුකරගෙන යමින් පවතින බවද රෝහල් අධ්‍යක්ෂවරයා කියයි.
-
-...
-
-[Data](articles/7417095f.json)
 
 ---
 
@@ -469,24 +453,6 @@ Meanwhile, the Indian government has rejected the reports even before the airpla
 [Data](articles/deba17f2.json)
 
 [Extended Data](ext_articles/deba17f2.ext.json)
-
----
-
-### නියඟයෙන් වූ වගා හානි වෙනුවෙන් වන්දි ගෙවීමට කෝටි 100ක්
-
-*2024-01-21 15:49:56* · [`adalk`](https://www.ada.lk/breaking_news/නියඟයෙන්-වූ-වගා-හානි-වෙනුවෙන්-වන්දි-ගෙවීමට-කෝටි-100ක්/11-407646) · `si`
-
-යල කන්නයේ නියඟය නිසා සිදු වූ වගා හානි වන්දි ගෙවීම සඳහා රජය  රුපියල් කෝටි 100ක් වෙන් කළ බවත් ඉන් කෝටි 50ක් මේන වන විටත් ගෙවා අවසන් බවත් කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
-
-ඉතිරි වන්දි  මුදල් ද ගොවිජන සංවර්ධන දෙපාර්තමේන්තුව විසින් කඩිනමින් ලබා දෙන බව අමාත්‍යවරයා සඳහන් කළේය.
-
-2023 වසරේ බලපෑ නියඟය හේතුවෙන් වී වගා බිම් අක්කර 65,000ක් හානියට පත් වූ අතර ගොවීහු 61,000ක් පීඩාවට පත් වූහ.කෘෂිකාර්මික හා ගොවිජන රක්ෂණ මණ්ඩලය විසින් කළ තක්සේරුවට අනුව වැඩිම වගා හානි ප්‍රමාණයක් වාර්තා වූයේ  කුරුණෑගල හා වලව කලාපයෙනි.
-
-කුරුණෑගල දිස්ත්‍රික්කයේ වගා හානි වන්දි සඳහා වෙන් කර ඇති මුදල රුපියල් තිස් හය කෝටි හැට ලක්ෂයකි.
-
-◼️
-
-[Data](articles/8512ec8a.json)
 
 ---
 
@@ -2133,5 +2099,41 @@ Iranian President Irania stated that the attack is a terrorist and a criminal ac
 [Data](articles/e50d4d67.json)
 
 [Extended Data](ext_articles/e50d4d67.ext.json)
+
+---
+
+### Massive earthquake in the Indian Ocean
+
+*2024-01-21 08:38:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியப்-பெருங்கடலில்-பாரிய-நிலநடுக்கம்/175-331870) · `ta`
+
+This earthquake is 10 km. The National Earthquake Research Center said that it was in depth.
+
+It also recorded at 6.4 on the Richter scale. Thus no tsunami warning was issued. Remble
+
+◼️
+
+[Data](articles/73982ca0.json)
+
+[Extended Data](ext_articles/73982ca0.ext.json)
+
+---
+
+### Price of Indian eggs increased at Sathosa outlets
+
+*2024-01-21 08:36:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/price-of-indian-eggs-increased-at-sathosa-outlets/) · `en`
+
+COLOMBO (News 1st); The price of Indian eggs sold through Sathosa outlets has been increased from Sunday (21).
+
+Minister of Trade, Commerce and Food Security Nalin Fernando said the revised price of an Indian egg is Rs.43.
+
+The Minister attributed the price revision to the VAT increase.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
+◼️
+
+[Data](articles/c7457509.json)
+
+[Extended Data](ext_articles/c7457509.ext.json)
 
 ---

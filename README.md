@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 05:02:21**
+As of **2024-01-22 04:50:23**
 
 ## Newspaper Stats
 

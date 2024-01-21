@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 20:32:48**
+As of **2024-01-21 20:49:51**
 
 ## Newspaper Stats
 
-*Scraped **1,624** Articles*
+*Scraped **1,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,88 @@ newsfirstlk | 109
 dbsjeyarajcom | 121
 virakesarilk | 149
 dailyftlk | 150
-adalk | 176
-dailymirrorlk | 183
+adalk | 178
+dailymirrorlk | 186
 tamilmirrorlk | 200
-adaderanalk | 203
+adaderanalk | 204
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,205 (74.2%) of 1,624 articles have been extended.
+1,212 (74.4%) of 1,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### Controversial monk ’Vishwa Buddha’ expelled from monkhood
+
+*2024-01-21 20:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Controversial-monk-Vishwa-Buddha-expelled-from-monkhood/108-275440) · `en`
+
+Colombo, Jan. 21 (Daily Mirror)- The controvercial saffron-robed monk who identifies himself as ‘Vishwa Buddha' has been expelled from the Ramanna Maha Nikaya and the monkhood.
+
+The Mahanayake Thera of Sri Lanka Ramanna Maha Nikaya, Ven. Makulewe Wimalaabhidana Thera has informed this decision to the Commissioner General of Buddhist Affairs.
+
+The Karaka Maha Sangha Sabha of the Sri Lanka Ramanna Maha Nikaya had unanimously decided on December 15, 2023 to explell the controversial monk from the Ramanna Maha Nikaya and the monkhood.
+
+The particular monk, who was arrested once again by the Criminal Investigation Department (CID), was remanded till January 26 by the Gangodawila Magistrate Sunil Hettiarachchi today.
+
+In December of last year, the CID's cybercrimes unit arrested the monk for allegedly insulting Buddhism on social media and later he was released on bail.
+
+◼️
+
+[Data](articles/0cde3e5c.json)
+
+---
+
+### සීනු හා විදුලි පද්ධතිවලින් දුම්රියට රු.කෝටි. 24ක පාඩුවක්
+
+*2024-01-21 20:03:02* · [`adalk`](https://www.ada.lk/breaking_news/සීනු-හා-විදුලි-පද්ධතිවලින්-දුම්රියට-රු-කෝටි--24ක-පාඩුවක්/11-407649) · `si`
+
+දුම්රිය හරස් මාර්ග සඳහා ස්ථාපිත කරනු ලැබූ සීනු හා විදුලි පද්ධති 50ක වගකීම් කාලය නිමවීමටත් පෙර ක්‍රියා විරහිතව ඇති අතර, මේ නිසා දුම්රිය දෙපාර්තමේන්තුවට සිදුවී ඇති රුපියල් මිලියන 242.13ක පාඩුව සැපයුම්කරුගෙන් හා එයට සම්බන්ධ පාර්ශ්වයන්ගෙන් අය කර ගැනීමට පියවර ගන්නා ලෙස ජාතික විගණන කාර්යාලය මගින් 2024/01/09 දින නිර්දේශ කොට ඇත.
+
+අදාළ ටෙන්ඩර්කරු විසින් අවශ්‍ය සුදුසුකම් ලැබීමේ නිර්ණායක සපුරා නොතිබියදීඑම සමාගමට ප්‍රසම්පාදනය ලබා දීමට තාක්ෂණික  ඇගයීම් කමිටුව විසින් නිර්දේශ කොට ඇති බවත් මෙය ළබැදියාවන් මත සිදු වූ ගනුදෙනුවක්ද යන්න පිළිබඳ පරීක්ෂාවක් කොට සුදුසු පියවර ගත යුතු බවත් විගණනය මගින් නිර්දේශ කොට ඇත.
+
+...
+
+[Data](articles/49cbd9a1.json)
+
+---
+
+### Sri Lanka will face a worse crisis, if deviate from current economic management plan - Semasinghe
+
+*2024-01-21 20:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96604/sri-lanka-will-face-a-worse-crisis-if-deviate-from-current-economic-management-plan-semasinghe) · `en`
+
+The State Minister of Finance Shehan Semasinghe says that the Micro-Finance and Loan Regulation Act was submitted to Parliament in order to establish a proper, strong regulatory procedure as a government.
+
+Joining the “FLi Diri Abhimani 2024” awards ceremony, organized to award women entrepreneurs in the Micro-Financial Sector, Semasinghe mentioned that the approval is expected to be obtained for the relevant act within the next few months.
+
+“We hope to get approval for this act in the next few months and protect consumers so that they can reap micro-finance benefits. We also hope to protect entities which provide these micro-financial benefits”, he expressed.
+
+The State Minister also said it would take several months for the public to reap the benefits of economic development, adding that Sri Lanka must stick to the existing economic management plan regardless of which government is in power.
+
+...
+
+[Data](articles/78a521a5.json)
+
+---
+
+### S. Shritharan elected new ITAK leader
+
+*2024-01-21 19:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/S-Shritharan-elected-new-ITAK-leader/108-275437) · `en`
+
+Trincomalee, Jan. 21 (Daily Mirror)- Jaffna District Parliamentarian S. Shritharan was elected as the leader of the Ilankai Tamil Arasu Kachchi (ITAK) today.
+
+He was elected with majority votes at a secret vote taken in Trincomalee to elect a new leader.
+
+Parliamentarians M.A. Sumanthiran and former MP Sinnathamby Yogeshwaran also cotested for the ITAK leadership.
+
+◼️
+
+[Data](articles/5065d6bb.json)
+
+---
 
 ### CR end 27-year wait with scintillating win
 
@@ -45,6 +113,26 @@ The game was contested at a rapid speed, with Red Shirts forwards showing great 
 [Data](articles/93c8d9b7.json)
 
 [Extended Data](ext_articles/93c8d9b7.ext.json)
+
+---
+
+### විශ්ව බුද්ධි යළි රිමාන්ඩ්
+
+*2024-01-21 19:20:07* · [`adalk`](https://www.ada.lk/breaking_news/විශ්ව-බුද්ධි-යළි-රිමාන්ඩ්/11-407648) · `si`
+
+සමාජ මාධ්‍ය ඔස්සේ බුදු දහමට අපහාසවන ආකාරයේ යළි ප්‍රකාශ  සිදුකළ විශ්ව බුද්ධ නැමැති පුද්ගලයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින්  යළි අත්අඩංගුවට ගෙන අද (21) නුගේගොඩ ගංගොඩවිල මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම මස 26 දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස වැඩ බලන මහේස්ත්‍රාත් සුනිල් හෙට්ටිආරච්චි මහතා නියෝග කළේය.
+
+ඒ මින් පෙර අත්අඩංගුවට ගෙන ඇප මත මුදාහැර සිටියදී ඇප කොන්දේසි කඩකරමින් යළිත් වරක් අන්තර්ජාලය ඔස්සේ බුදු දහමට අපහාස කිරීම හේතුවෙන් අධිකරණ නියෝග මත සැකකරු අත්අඩංගුවට ගෙන තිබිණි.
+
+විශ්ව බුද්ධ නමින් තමාව හඳුන්වාගනිමින් සමාජ මාධ්‍යජාලා ඔස්සේ බුදු දහම සම්බන්ධයෙන් ආන්දෝලනාත්මක ප්‍රකාශ සිදුකළ චීවරධාරියෙකු සම්බන්ධයෙන් පසුගිය දිනවල සමාජයේ දැඩි කථාබහක් නිර්මාණය වුණා.
+
+ඔහු ඇතැම් අවස්ථාවලදී ගිහියෙකු ලෙස ද සැරසී සාමාජ මාධ්‍යට විවිධ වීඩියෝ නිකුත්කර තිබුණා.
+
+ඒ අනුව බුදු දහමට අපහාසවන අයුරින් හැසිරීම හා ප්‍රකාශ සිදුකිරීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන අංශයට ලද පැමිණිල්ලකට අනුව  පසුගියදා ඔහු අත්අඩංගුවට ගැණුනා.
+
+...
+
+[Data](articles/c020f404.json)
 
 ---
 
@@ -1382,6 +1470,28 @@ He further said that the bus owners will agree to this proposal if the bus prior
 
 ---
 
+### Will refrain from operating buses from tomorrow if fine sheets issued to bus owners: Gemunu
+
+*2024-01-21 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Will-refrain-from-operating-buses-from-tomorrow-if-fine-sheets-issued-to-bus-owners-Gemunu/155-275426) · `en`
+
+Colombo, Jan 21 (Daily Mirror) - police implement the action of sending fine sheets to bus owners based on CCTV footage from tomorrow, the Lanka Private Bus Owners' Association (LPBOA) said they will refrain from operating buses from tomorrow.
+
+LPBOA chairman Gemunu Wijeratna said the police have planned to send fine sheets based on CCTV footage from tomorrow.
+
+Addressing the media he said that it is unfair to send the fine sheets related to the mistakes of the buses to the owner of the bus.
+
+He said police have taken the decision without having any discussions with the bus association.
+
+It is unfair to send the fine sheets related to the mistakes of the buses to the owner of the bus, Wijerathna said.
+
+He further said that the bus owners will agree to this proposal if the bus priority lane is implemented and proper arrangements are made for operating buses.
+
+◼️
+
+[Data](articles/481c6120.json)
+
+---
+
 ### SLOA launches College of Optometry
 
 *2024-01-21 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/SLOA-launches-College-of-Optometry/110-275425) · `en`
@@ -1983,149 +2093,5 @@ The suspect is due to be produced before the Fort Magistrate's Court today (21).
 [Data](articles/d60b2025.json)
 
 [Extended Data](ext_articles/d60b2025.ext.json)
-
----
-
-### 987 more suspects arrested as operation ‘Yukthiya’ continues
-
-*2024-01-21 10:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96587/987-more-suspects-arrested-as-operation-yukthiya-continues) · `en`
-
-In continuation of the special island-wide anti-drug operation ‘Yukthiya’, security forces personnel have arrested 987 more suspects in a 24-hour mission ending at 12:30 a.m. today (21 Jan.).
-
-According to the Ministry of Public Security, a total of 270g of heroin, 140g of crystal methamphetamine (Ice) and 1,080 narcotic pills were taken into custody during the raids
-
-◼️
-
-[Data](articles/7f34b2cd.json)
-
-[Extended Data](ext_articles/7f34b2cd.ext.json)
-
----
-
-### Pak to attack Rama Temple. The plot of extremists
-
-*2024-01-21 09:57:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமர்-கோயிலில்-தாக்குதல்-நடத்த-பாக்-தீவிரவாதிகள்-சதி/175-331871) · `ta`
-
-About 70 acres of land in Uttar Pradesh and Ayodhya. The opening of the temple takes place tomorrow. Prime Minister Narendra Modi, Madhapati, political leaders, film industry, sports industry celebrities and foreign leaders will be participating in the event.
-
-Terrorist organizations, including Pakistan's Lashkar -e -Taiba and Jaish -e -Mohammed, have publicly warned that they will attack the Rama Temple inauguration.. Pakistani extremist organizations have conspired to carry out suicide bombings during the opening of the Rama Temple. As a result, there are strong security arrangements throughout Ayodhya.
-
-Ayodhya City Security has been handed over to the Central Government's Special Security Force (SPG). More than 30,000 soldiers, including the National Security Force (NSG), the Terrorist Prevention Force, the Special Commando Force, the CRPF, the Central Occupational Safety Force and the State Police.
-
-...
-
-[Data](articles/27dba353.json)
-
-[Extended Data](ext_articles/27dba353.ext.json)
-
----
-
-### 104 goats were killed in breeding
-
-*2024-01-21 09:53:59* · [`adalk`](https://www.ada.lk/breaking_news/අභිජනනයට-ගෙනා-එළුවන්-104ක්-මිය-ගිහින්/11-407638) · `si`
-
-The Kopy Committee reveals that the number of farms closed in the country is over 14,000.
-
-Milko Low to Milko Low down - Minister Mahinda Amaraweera
-
-The Committee emphasizes the importance of maintaining the database of the department.
-
-Attention to prepare a national policy on milk production
-
-104 goats imported from Australia for breeding
-
-In Sri Lanka, more than 14,000 farms have been closed down in Sri Lanka and that this has been identified as province and has been identified as province.. The officials pointed out that the majority of these farms are small farms and that these farms were closed due to the animal'sft.
-
-...
-
-[Data](articles/244f9082.json)
-
-[Extended Data](ext_articles/244f9082.ext.json)
-
----
-
-### Baby and Angel seized
-
-*2024-01-21 09:43:22* · [`adalk`](https://www.ada.lk/breaking_news/බබා-හා-ඒන්ජල්-අල්ලයි/11-407637) · `si`
-
-The Criminal District of the Western Province says that the 'Babanna' Chandana and Dhanushka, Dhanushka, and Dhanushka, who is a large scale drug dealer who operates in Dubai is hiding in Dubai.
-
-Police have seized 321 packets of cannabis in possession of 1500 am.
-
-The killing contract has been assigned to be arrested by the Kolonnawa Umagiliya Stadium on the 12th of December on December 12.He was revealed that Chandana was the trafficking of Chandana.
-
-Chandana and Dhanushka launches hubs, ice and cannabulers from the Kolonnawa area in Dubai and the drug advisor who went shot dead by their goals and drug dealer, Dematagoda Chaminda, a Narcotics Facker
-
-Police investigations have revealed that the obtaining has caused the shooting due to the bulletin.
-
-The money is a young man in Matale and credited to the Dubai State of Dubai via Undirenda, Chandana and Dhanushka.Police Sergeant 38723 Police Sergeant in the Southern Province of the Western Province has been secretly received
-
-...
-
-[Data](articles/57eb55c8.json)
-
-[Extended Data](ext_articles/57eb55c8.ext.json)
-
----
-
-### A massive rally supporting the poery militants
-
-*2024-01-21 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192384) · `si`
-
-Yemen has held a massive rally with thousands of people in Yemen.
-
-The protest was organized in Yemen, foreign media.
-
-It protests against nomination of the US, Huthuru as a terrorist organization.
-
-The rally was held with the participation of thousands of supporters who support Iran's support.
-
-Last week, the US, Hoouth was named terrorist organization.
-
-Emphasis on the attacks on the attacks on the red sea commercial ships in the Red Sea.
-
-Hooutha cooperates were organized by a massive protest with the decision of the United States.
-
-The protests joined the protest with the supporters of the Yaymana Flag and the Palestinian flag.
-
-Most of the land in Yemen is under the control of the poultiners.
-
-Exotati fights say that the Palestinians who were in the Red Sea in support of the Palestinians who were in the case of Israeli attacks.
-
-However, the majority of ships that have faced attacks are in a relationship with Israel.
-
-◼️
-
-[Data](articles/fd3adabe.json)
-
-[Extended Data](ext_articles/fd3adabe.ext.json)
-
----
-
-### Sri Jayas Ratnayake
-
-*2024-01-21 09:34:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2v5lzrzy8o) · `si`
-
-Sivagnanam Sriiriran, who represents the Jaffna Election of the Jaffna Electorate, was elected today (Jan. 21).
-
-The General Assembly of the party's new leader of the Ilangai Tamil Arasu Kabhaya was held in the Trincomalee District.
-
-137 representatives of the District Councils have agreed to MA University Competition.
-
-A tube battle was held for the party leadership, and the MPs from the Anuradhapura electorate had handed over nominations for the new leadership of the Anuradhapura electorate.
-
-337 representatives of the Ampara District representing the Jaffna, Kilinochchi, Mullaitivu, Mannar, Trincomalee, Ampara and the Colombo District were eligible to vote.
-
-Sivithanam, who was born on December 8, 1968, was a teacher from Sri Lanka.
-
-Prior to entering politics, he served as a principal and was a teacher in several schools in the Kilinochchi district.
-
-The first election was elected to Parliament in the 2010 parliamentary election in the Jaffna electorate from the Jaffna electorate.
-
-...
-
-[Data](articles/f68b6d96.json)
-
-[Extended Data](ext_articles/f68b6d96.ext.json)
 
 ---

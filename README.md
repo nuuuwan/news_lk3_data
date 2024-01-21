@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 08:12:30**
+As of **2024-01-21 08:19:42**
 
 ## Newspaper Stats
 
-*Scraped **1,490** Articles*
+*Scraped **1,497** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
-adaderanasinhalalk | 36
 bbccomsinhala | 36
+adaderanasinhalalk | 43
 newsfirstlk | 96
 islandlk | 97
 economynextcom | 101
@@ -26,11 +26,147 @@ adaderanalk | 185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-511 (34.3%) of 1,490 articles have been extended.
+511 (34.1%) of 1,497 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### සිව් දෙනෙකුට මරු කැඳවූ රිය අනතුරු
+
+*2024-01-21 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192379) · `si`
+
+ගෙවී ගිය පැය 24ක කාලය තුළ ප්‍රදේශ කිහිපයක සිදු වූ රිය අනතුරුවලින් කාන්තාවන් දෙදෙනෙකු ඇතුළු පුද්ගලයන් සිව් දෙනෙකු මිය ගොස් තිබේ.
+
+මාතර - හක්මන මාර්ගයේ යටියන ප්‍රදේශයේ දී ලොරි රථයක් ත්‍රිරෝද රථයක ගැටී සිදු වූ අනතුරකින් කාන්තාවක් මිය ගොස් ඇත.
+
+එසේ මිය ගොස් ඇත්තේ, සවුසිරි උයන - යටිවන ප්‍රදේශයේ පදිංචි කාන්තාවකි.
+
+මේ අතර, මිරිහාන පොලිස් වසමේ පරණ කැස්බෑව මාර්ගයේ ජයවර්ධනපුර කෝට්ටේ නගර සභාවට අයත් සේවාපියස ඉදිරිපිට දී යතුරුපැදියක්, මාර්ගය හරහා ගමන් කළ පදික කාන්තාවකගේ ගැටී අනතුරක් සිදු ව තිබිණි.
+
+එම අනතුරින් ගංගොඩවිල - නුගේගොඩ ප්‍රදේශයේ පදිංචි 85 හැවිරිදි පදික කාන්තාව මිය ගොස් ඇත.
+
+මේ අතර, කැබිතිගොල්ලෑව - වව්නියාව මාර්ගයේ දුටුවැව ප්‍රදේශයේ දී හඳුනා නොගත් වාහනයක ගැටී සිදු වූ අනතුරකින් පුද්ගලයෙකු මිය ගොස් තිබේ.
+
+මේ අතර, ඇලපාත - කොටාමුල්ල හංදිය අසල දී කැබ් රථයක් යතුරපැදියක ගැටී සිදු වූ අනතුරකින් පුද්ගලයෙකු මිය ගොස් තිබේ.
+
+එසේ මිය ගොස් ඇත්තේ, උඩනිරිඇල්ල, රත්නපුර ප්‍රදේශයේ පදිංචි 35 හැවිරිදි පුද්ගලයෙකි.
+
+◼️
+
+[Data](articles/2e93e938.json)
+
+---
+
+### පානදුර මුහුදේ ගිලී පෝලන්ත ජාතිකයෙකු මරුට
+
+*2024-01-21 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192378) · `si`
+
+පානදුර මුහුදු තීරයේ දිය නෑමට ගිය පෝලන්ත ජාතිකයෙක් ජීවිතක්ෂයට පත් ව තිබේ.
+
+ඊයේ (20) සවස් කාලයේ දී එම අනතුරෙන් මිය ගොස් ඇත්තේ, 61 හැවිරිදි පෝලන්ත ජාතිකයෙක් බව පොලීසිය පවසයි.
+
+ඔහු පානදුර - දකුණ පොලිස් වසමේ පිහිටි හෝටලයක නවාතැන්ගෙන සිට ඇති අතර, පානදුර මුහුදු තීරයේ දිය නෑමට ගොස් තිබිණි.
+
+එහි දී පෝලන්ත ජාතිකයා දිය වැලකට හසු වී ගසාගෙන යමින් සිටිය දී එම හෝටලයේ ජිවිතාකරක්ෂක නිලධාරීයා විසින් ගොඩට ගෙන පානදුර රෝහලට ඇතුළත් කිරීමේ දී මිය ගොස් තිබේ.
+
+සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන පානදුර දකුණ පොලිසිය විසින් සිදු කරයි.
+
+◼️
+
+[Data](articles/94a6bf29.json)
+
+---
+
+### උසස් පෙළට පෙනී සිටි සිසුන්ට විශේෂ වැඩසටහනක්
+
+*2024-01-21 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192377) · `si`
+
+මෙවර උසස් පෙළ විභාගයට පෙනී සිටි අපේක්ෂයන් සදහා විශේෂ මාර්ග උපදේශනයක් සහ වෘත්තීය පුහුණු පාඨාමාලා වැඩසටහනක් ක්‍රියාත්මක කරන බව අධ්‍යපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+ඔහු ප්‍රකාශ කළේ, පෙබරවාරි මස 20 වැනි දින වන විට දිවයින පුරා මධ්‍යස්ථාන 300ක දී එම වැඩසටහන ආරම්භ කරන බවයි.
+
+◼️
+
+[Data](articles/384274c6.json)
+
+---
+
+### ක්ෂුද්‍ර මූල්‍ය ක්ෂේත්‍රය නියාමනය කිරීමට පියවර
+
+*2024-01-21 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192376) · `si`
+
+මේ වසරේ පළමු කාර්තුව තුළදීම මෙරට ක්ෂුද්‍ර මූල්‍ය ක්ෂේත්‍රය නියාමනය කරන බව වැඩබලන මුදල් අමාත්‍ය ශෙහාන් සේමසිංහ මහතා පවසයි.
+
+කොළඹ පැවති උත්සවයකට එක්වෙමින් ඔහු ප්‍රකාශ කළේ, ක්ෂුද්‍ර මූල්‍ය ක්ෂේත්‍රය තුළ වැඩිම ප්‍රතිලාභ ගෙන කටයුතු කරනු ලබන්නේ කාන්තාවන් බවයි.
+
+සුළු හා මධ්‍ය පරිමාණ ව්‍යාපාරිකයින්ගේ මූල්‍ය අවශ්‍යතා සපුරා ගැනීම සඳහා ඇපකර ක්‍රමවේදයක් ඉදිරියේ දී හදුන්වාදෙන බව ද වැඩබලන මුදල් අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සඳහන් කරයි.
+
+මේ අතර, ශ්‍රී ලංකා ටෙලිකොම් ආයතනය ප්‍රතිව්‍යුහගතකරණය සඳහා රුපියල් බිලියන 1.3ක් වෙන් කරනු ලැබුවේ ජාතික ඉතිරි කිරීමේ බැංකුව සතු කොටස් භාණ්ඩාගාරය සතු කරගැනීමට පමණක් බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා සඳහන් කර තිබේ.
+
+ඔහු ප්‍රකාශ කළේ, අදාළ මුදල් වෙන් කිරීම සම්බන්ධයෙන් විවිධ පාර්ශ්ව සාවද්‍ය තොරතුරු සමාජගත කරමින් සිටින බවයි.
+
+මේ අතර, සියලු ව්‍යාපාරිකයින් වැට් ගෙවීමට කටයුතු කරන්නේ නම්, සියයට දහ අටේ පවතින වැට් ප්‍රතිශතය සියයට 15 දක්වා අඩු කළ හැකි බව අමාත්‍ය බන්දුල ගුණවර්ධන මහතා ප්‍රකාශ කර ඇත.
+
+◼️
+
+[Data](articles/724cc0a8.json)
+
+---
+
+### ජනපති, නොබැඳි ජාතීන්ගේ සමුළුව ඇමතීම අද
+
+*2024-01-21 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192375) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සංවර්ධනය වෙමින් පවතින රටවල් 77 හා චීනය සමුළුව ඇමතීමට නියමිත ව තිබේ.
+
+එක්සත් ජාතීන්ගේ සංවිධානයේ සංවර්ධනය වෙමින් පවතින රටවල විශාලතම සන්ධානය ලෙස 77 කණ්ඩායම හැඳින්විය හැකියි.
+
+උගන්ඩා ජනාධිපති යෝවේරි මුසවේනි මහතාගේ ආරාධනයෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ වන විට කම්පාලා නුවරට ගොස් තිබේ.
+
+◼️
+
+[Data](articles/d04ded0c.json)
+
+---
+
+### නිවාස බිඳ සොරකමේ ගිය සැකකරු අත්අඩංගුවට
+
+*2024-01-21 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192374) · `si`
+
+මුල්ලේරියාව පොලිස් වසමේ නිවෙස් බිඳ දේපොළ සොරකම් කිරීමේ අපරාධවලට සම්බන්ධ සැකකරුවෙකු බස්නාහිර පළාත, දකුණ අපරාධ කොට්ඨාසය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම සැකකරු ඊයේ (20) දහවල් කාලයේ දී අත්අඩංගුවට ගෙන තිබුණේ, අංගොඩ ප්‍රදේශයෙනි.
+
+සැකකරුගෙන් සිදු කරන ලද ප්‍රශ්න කි‍රීම්වල දී පසුගිය 18 වනදා සහ 19 වනදා මුල්ලේරියාව පොලිස් වසමේ දෙල්ගහවත්ත පාර ප්‍රදේශයේ දී නිවෙස් 02ක තිබූ පස් තලන යන්ත්‍රයක්, ඉරන ලද කොස් දැව ඇතුළු දේපොළ සොරාගෙන ඇති බවට අනාවරණය වී තිබේ.
+
+සැකකරු විසින් සොරකම් කරන ලද කොස් දැව හා පස් තලන යන්ත්‍රය සොයාගෙන ඇත.
+
+සිද්ධිය සම්බන්ධයෙන් බස්නාහිර පළාත දකුණ අපරාධ කොට්ඨාසය වැඩිදුර විමර්ශන සිදු කරයි.
+
+◼️
+
+[Data](articles/3e256662.json)
+
+---
+
+### අද කාලගුණය
+
+*2024-01-21 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192373) · `si`
+
+උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල අද (21) දිනයේ වැසි වාර කිහිපයක් ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, මධ්‍යම සහ සබරගමුව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැකි බවය.
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/6f01e999.json)
+
+---
 
 ### From Ceylon to Sri Lanka: some historical and other snippets
 
@@ -1901,153 +2037,5 @@ Organized by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka),
 [Data](articles/df25c12e.json)
 
 [Extended Data](ext_articles/df25c12e.ext.json)
-
----
-
-### The Government of Sri Lanka should withdraw the proposed status safety Bill - more than fifty international organizations
-
-*2024-01-20 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174382) · `ta`
-
-More than fifty international organizations, including a committee to protect journalists, have jointly appealed to the Sri Lankan government to withdraw the proposed status security bill.
-
-The committee to protect the journalists to protect the journalists should be withdrawn by the Sri Lankan Public Security Minister Tran Alas, the proposal to be withdrawn.
-
-International organizations have appealed to the civil society to consult with human rights organizations.
-
-தவறான அறிக்கைகள் தவறான விருப்பங்கள் என்பவற்றிற்கு சட்டமூலத்தில் தெரிவிக்கப்பட்டள்ள வரைவிலக்கணங்கள் காரணமாக பேச்சுரிமையை கண்மூடித்தனமாக கட்டுப்படுத்தப்படலாம் தணிக்கைக்கு அதிகாரம்வழங்கப்படலாம்  என சர்வதேச அமைப்புகள் தெரிவித்துள்ளன.
-
-International organizations, which have said that the Bill is given to the Commission appointed by the President, has expressed fears that the Commission could be used with political intelligence.
-
-...
-
-[Data](articles/b06fbd62.json)
-
-[Extended Data](ext_articles/b06fbd62.ext.json)
-
----
-
-### Three arrested for assisting a crime
-
-*2024-01-20 12:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192350) · `si`
-
-The Police Special Task Force has arrested a woman and two persons who supported the suspects to shoot a fish businessman.
-
-Police have arrested the suspects in a raid committed yesterday (19).
-
-It is reported that the shooting had been carried out under the operation of an organized criminal.
-
-Army soldier and motorman had previously been arrested by the STF with the firearm in the center of Ambalangoda.
-
-◼️
-
-[Data](articles/1c507420.json)
-
-[Extended Data](ext_articles/1c507420.ext.json)
-
----
-
-### 12 lakhs to burn shop;7 lakhs to burn vehicle - Attakasam in Jaffna
-
-*2024-01-20 11:43:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/கடை-எரிக்க-12-இலட்சம்-வாகனம்-எரிக்க-7-இலட்சம்-யாழில்-அட்டகாசம்/71-331839) · `ta`
-
-Police investigations have revealed that 19 lakhs of rupees have been paid from Belgium to engage in sabotage in Jaffna.
-
-A few months ago, two apparel stores in Jaffna Nagar area were burnt in the fire and about Rs 2 crore worth of goods in the shop were destroyed.
-
-The car burned in a few days after the stores were burnt. As well as a person's motorcycle, the person was also lodged.
-
-Three suspects were arrested yesterday in connection with the three incidents of the Jaffna police on Friday.
-
-Police recovered two motorcycles and a sword from the arrested.
-
-When the police investigated the arrested persons at the police station, the main suspect was living in Belgium, and a man who was accustomed to setting fire to the two garments stalls in Jaffna, Rs.Investigations have also revealed.
-
-Subsequently, the police have taken efforts to check the suspects' bank accounts and the police have taken steps to arrest the man who sent money from abroad.R
-
-◼️
-
-[Data](articles/4280e53f.json)
-
-[Extended Data](ext_articles/4280e53f.ext.json)
-
----
-
-### Narammala incident - police investigations are not satisfied - independent inquiries are essential
-
-*2024-01-20 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174379) · `ta`
-
-Former President of the Sri Lanka Lawyers Association, Saliya Peiris, told the BBC Sinhala Service that independent investigations are essential for the deaths of the public.
-
-He noted that the police are hiding the facts after the killing of civilians.
-
-This is why I am a need for an independent investigation into the deaths caused by the police action, ”he said.
-
-"We have seen the first issue of the police," he said, adding that the top officials and top police officers are encouraged to kill the civilians.
-
-Meanwhile, the High Court has issued several verdicts on such crimes, he said that an independent committee is necessary to investigate such incidents as we cannot be satisfied with the police investigations or their supporters.
-
-◼️
-
-[Data](articles/be375657.json)
-
-[Extended Data](ext_articles/be375657.ext.json)
-
----
-
-### Change in Carrot prices in Nuwara Eliya?
-
-*2024-01-20 11:31:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியாவில்-கரட்-விலையில்-மாற்றம்/76-331838) · `ta`
-
-The Nuwara Eliya Economic Center Office has announced the list of vegetable prices purchased today at the Nuwara Eliya Economic Center Public Market, which is under the Ministry of Communication.
-
-இதனடிப்படையில் கடந்த இரண்டு தினங்களுக்கு முன் 1000 ரூபாவுக்கு அதிகமாக உச்ச விலையை கொண்டிருந்த கரட்டின் விலை வீழ்ச்சியடைந்து கிலோ கிராம் ஒன்றின் கொள்வனவு விலை 900/= ரூபாய் தொடக்கம் 950/=ரூபாயாக அறிவிக்கப்பட்டுள்ளது. Remble
-
-◼️
-
-[Data](articles/fa98e87f.json)
-
-[Extended Data](ext_articles/fa98e87f.ext.json)
-
----
-
-### நோயாளியை தூக்கிக் கொண்டு செல்லும் அவலம்
-
-*2024-01-20 11:28:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நோயாளியை-தூக்கிக்-கொண்டு-செல்லும்-அவலம்/76-331837) · `ta`
-
-The incident took place yesterday (19) that her relatives were sleeping with the patient as they were not given a wheelchair to transport the patient at the Trincomalee General Hospital.
-
-It has been reported that a wheelchair has not been given to carry a patient who went to the Trincomalee hospital to get rid of it.
-
-It has been reported that many such incidents are taking place, causing patients to face many inconveniences.
-
-Patients are also concerned that they have to stretch the gateboat cards on the ground due to shortage of beds.
-
-Doctors at the Trincomalee Hospital, Drugs and Hospital equipment and the continuous workshop are not available for the best service.. Remble
-
-◼️
-
-[Data](articles/1681ff79.json)
-
-[Extended Data](ext_articles/1681ff79.ext.json)
-
----
-
-### 13 killed in a hostel
-
-*2024-01-20 11:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192349) · `si`
-
-Twenty charges erupted at a school hostel in Yangahera, China, China.
-
-Foreign media reports that the fire has erupted at a hostel building last night (19).
-
-The cause of the fire is yet to be ascertained and the manager of the school has been arrested by the police.
-
-පසුගිය නොවැම්බර් මාසයේ ද චීනයේ ශැංසි පළාතේ ගොඩනැගිල්ලක හටගත් ගින්නකින් පුද්ගලයින් 27 දෙනෙකු ජීවිතක්ෂයට පත් විය.
-
-◼️
-
-[Data](articles/22020abb.json)
-
-[Extended Data](ext_articles/22020abb.ext.json)
 
 ---

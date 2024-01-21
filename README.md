@@ -1,158 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 18:33:24**
+As of **2024-01-21 18:09:09**
 
 ## Newspaper Stats
 
-*Scraped **1,614** Articles*
+*Scraped **1,606** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 38
-adaderanasinhalalk | 66
+adaderanasinhalalk | 64
 islandlk | 97
 economynextcom | 103
 newsfirstlk | 109
 dbsjeyarajcom | 121
-virakesarilk | 149
+virakesarilk | 146
 dailyftlk | 150
-adalk | 173
+adalk | 172
 dailymirrorlk | 180
-tamilmirrorlk | 200
+tamilmirrorlk | 198
 adaderanalk | 201
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,068 (66.2%) of 1,614 articles have been extended.
+1,049 (65.3%) of 1,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
-
-### විශ්ව බුද්ධා ගැන මහා නායක හිමි ගත් තීරණය
-
-*2024-01-21 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192402) · `si`
-
-විශ්ව බුද්ධා යන නාමයෙන් පෙනී සිටිමින් බුද්ධාගමට අපහාස සිදුකිරීමේ සිද්ධිය සම්බන්ධයෙන් නැවත වරක් අත්අඩංගුවට ගත් පූජ්‍ය රත්නපුරේ විමලබුද්ධි හිමිගේ සාමණේරභාවයෙන් නෙරපීමට පියවර ගෙන ඇත.
-
-ශ්‍රී ලංකා රාමඤ්ඤ නිකායේ මහා නායක අති පූජ්‍ය මකුලෑවේ විමලාභිධාන නා හිමි විසින් මේ බව බෞද්ධ කටයුතු කොමසාරිස්වරයා වෙත දැනුම්දී තිබේ.
-
-පසුගිය දෙසැම්බර් මස 15 වනදා පැවති රාමඤ්ඤ නිකායේ කාරක සංඝ සභාව විසින් ඒකමතිකව මෙම තීරණය ගෙන ඇත.
-
-ඒ අනුව රත්නපුරේ විමලබුද්ධි හිමිගේ සාමණේර ලේඛනයත් උපසම්පදා ලේඛනයත් එම තීරණයත් සමග අවලංගු වනු ඇත.
-
-එසේම අදාළ නිවේදනයේ වැඩිදුරටත් දැක්වෙන්නේ ශාසනයට සිදුකරන ලද අති විශාල හානිය පදනම් කරගනිමින් රත්නපුරේ විමලබුද්ධි හිමි  රාමඤ්ඤ නිකායෙන් නෙරපීමට තීරණය කර ඇති බවය.
-
-◼️
-
-[Data](articles/2a77e6bc.json)
-
----
-
-### “தமிழரசு கட்சி தேர்தலில் முறைக்கேடு:  13 பேரின் பெயர்கள் நீக்கம்”
-
-*2024-01-21 17:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தமிழரசு-கட்சி-தேர்தலில்-முறைக்கேடு-13-பேரின்-பெயர்கள்-நீக்கம்/73-331912) · `ta`
-
-இலங்கை தமிழரசு கட்சியின் தலைவர் தெரிவுக்கான  தேர்தலில் வாக்களிப்பதற்காக, மட்டக்களப்பில் இருந்து திருகோணமலைக்கு சென்ற தான் உட்பட 13 பேருக்கு வாக்களிக்க அனுமதி மறுக்கப்பட்டது. அதனால் தாங்கள் ஏமாற்றத்துடன் திரும்பியுள்ளதாக மட்டக்களப்பு மாவட்ட மகளிர் அணி செயலாளர் ரஜனி ஜெயபிரகாஸ் தெரிவித்தார்.
-
-இலங்கைத் தமிழ் அரசுக் கட்சியின் புதிய தலைவரைத் தேர்வு செய்யும் தேர்தல்  திருகோணமலையில் ஞாயிற்றுக்கிழமை (21) இடம்பெற்றது.
-
-இந்த தேர்தலுக்கு கட்சியின் உறுப்புரிமை கொண்ட கொழும்பு மற்றும் வடக்கு கிழக்கிலுள்ள 8 மாவட்டங்களைச் சேர்ந்த சுமார் 350 பேருக்கு வாக்களிப்பதற்கான தகுதி செய்யப்பட்டு அவர்களுக்கான வாக்களிப்புக்கு பெயர்பட்டியல் அனுப்பப்பட்டிருந்தது
-
-இதற்கமைய மட்டக்களப்பு மாவட்டத்தைச் 50 பேர் சென்றிருந்த நிலையில்  வாக்களிப்பதற்கான பெயர் பட்டியலில் மகளிர் அணி செயலாளராகிய  எனது பெயர் உட்பட 13 பேரின் பெயர்கள் வெட்டப்பட்டிருந்தன. வாக்களிக்க உட்செல்ல எங்களை அனுமதியளிக்கவில்லை.
-
-...
-
-[Data](articles/2c4831de.json)
-
----
-
-### முஸ்லிம் அரசியல்வாதிகளின் முன்னேற்ற அறிக்கை எங்கே?
-
-*2024-01-21 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174464) · `ta`
-
-'முஸ்லிம் சமூ­கத்தின் பிரச்­சி­னை­களை தீர்த்து வைப்போம், சமூ­கத்­திற்­காக உயி­ரையும் கொடுப்போம்' என்­றுதான் ஒவ்­வொரு தேர்தல் காலத்­திலும் அர­சி­யல்­வா­திகள் பிரசாரம் செய்­கின்­றார்கள். 'அந்தப் பிரச்­சி­னையை சாணக்­கி­ய­மாக தீர்ப்போம், இந்தப் பிரச்­சி­னைக்கு சாதுர்­ய­மாக தீர்வு காண்போம்' என்று  அவர்கள் பட்­டி­ய­லிட்ட பிரச்­சி­னை­க­ளுக்கு கணக்கே இல்லை.
-
-இவ்­வாறு, தேர்தல் மேடை­களில் முஸ்லிம் அர­சி­யல்­வா­திகள் வழங்­கிய வாக்­கு­று­திகள் என்­னென்ன என்­ப­தையும் அந்தப் பட்­டியல் எந்­த­ள­வுக்கு நீள­மா­னது என்­ப­தையும் அவர்­களே மறந்­தி­ருப்­பார்கள். மக்­களும் அடுத்த தேர்தல் வந்தால் மறந்து, மன்­னித்துவிடு­வார்கள். ஆனால், ஒரு சமூக அர­சி­யலில் இது ஆரோக்­கி­ய­மான போக்­கல்ல.
-
-◼️
-
-[Data](articles/f6250700.json)
-
----
-
-### பொலிஸுக்கு பயந்து ஆற்றுக்குள் பாய்ந்த மோட்டார் சைக்கிள்
-
-*2024-01-21 17:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பொலிஸுக்கு-பயந்து-ஆற்றுக்குள்-பாய்ந்த-மோட்டார்-சைக்கிள்/73-331911) · `ta`
-
-இந்த சம்பவம் வாழைச்சேனை பொலிஸ் பிரிவுக்குட்பட்ட ஓட்டமாவடி பாலத்தின் ஆற்றுப்பகுதியில் வைத்து  ஞாயிற்றுக்கிழமை  (21)  இடம்பெற்றுள்ளது.
-
-தலைக்கவசம் அணியாமல் அதிவேகமாக மோட்டார் சைக்கிளை செலுத்தி வந்த நபர் மோட்டார்  போக்குவரத்து பொலிஸார் நிற்பதைக் கண்டு நிறுத்துவார்கள் என்ற பயத்தில் வேகமாக மோட்டார் சைக்கிளை செலுத்தி வந்தபோது சைக்கிள் வேகக் கட்டுப்பாட்டை இழந்து ஓட்டமாவடி ஆற்றில் விழுந்துள்ளது.
-
-சம்பவத்தில் காயமடைந்த நபர் வாழைச்சேனை ஆதார வைத்தியசாலையில் சிகிச்சை பெற்று வருவதுடன், பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
-
-◼️
-
-[Data](articles/ce895f55.json)
-
----
-
-### தமிழரசு கட்சியின் புதிய தலைவர் சிறிதரனுக்கு கிழக்கு ஆளுநர் செந்தில் தொண்டமான் வாழ்த்து!
-
-*2024-01-21 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/174473) · `ta`
-
-தமிழரசு கட்சியின் தலைவராக தேர்ந்தெடுக்கப்பட்டுள்ள சிவஞானம் சிறீதரனுக்கு கிழக்கு மாகாண ஆளுநரும் இலங்கை தொழிலாளர் காங்கிரஸின் தலைவருமான செந்தில் தொண்டமான் வாழ்த்து தெரிவித்துள்ளார்.
-
-"உங்களுடைய சேவைக் காலத்தில் தமிழ் மக்களுக்கான உரிமைகள் வென்றெடுக்கப்பட்டு தமிழ் மக்களின் பிரச்சினைகளுக்கு நிரந்தர தீர்வு கிடைக்க வேண்டும் என்பதோடு, வடக்கு, கிழக்கு தமிழர்கள் மாத்திரமின்றி நாடு முழுவதும் உள்ள தமிழர்கள் மென்மேலும் வளர்ச்சியடைய தங்களின் பணி தொடர வேண்டும் என வாழ்த்துகிறேன்" என செந்தில் தொண்டமான் தெரிவித்துள்ளார்.
-
-◼️
-
-[Data](articles/99df4075.json)
-
----
-
-### ශ්‍රී ලංකා යෞවනයන්ගෙන් 205ක ඉලක්කයක්
-
-*2024-01-21 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192401) · `si`
-
-19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සිම්බාබ්වේ කණ්ඩායමට එරෙහිව සිය පළමු තරගයට එක්වූ ශ්‍රී ලංකා කණ්ඩායම පන්දුවාර 48යි පන්දු 3ක්  අවසානයේ සියලුදෙනා දැවී ලකුණු 204ක් රැස්කරගැනීමට සමත්විය.
-
-එහිදී අගනා පිතිහරඹයක නියැලුණු දිනුර කළුපහන පන්දු 55කදී හයේ පහර 2ක් සහ හතරේ පහර 6ක් සමග ලකුණු 60ක් රැස්කරගත්තේය.
-
-නොදැවී පන්දුවට පහරදෙමින් සිටි ෂන්මුගනාදන් හතරේ පහර 3ක් සමග ලකුණු 41ක් රැස්කරගත්තේය.
-
-මීට අමතරව ශ්‍රී ලංකාව වෙනුවෙන් රවිශාන් ද සිල්වා සහ රුසඳ ගමගේ ලකුණු 31 බැගින් රැස්කරගත්තේය.
-
-එහිදී Kohl Eksteen කඩුලු 3ක් දවාගත් අතර Newman Nyamhuri සහ Matthew Schonken කඩුලු 2 බැගින් දවාගත්තේය.
-
-මුල්පෙළ පිතිකරුවන්ට එල්ලවූ දැඩි පීඩනය හමුවේ ශ්‍රී ලංකා යෞවන කණ්ඩායමේ ලකුණු පුවරුව පන්දුවාර 5ක් අවසානයේදී දැක්වුණේ ලකුණු 13කට කඩුලු 3ක් ලෙසටය.
-
-එහෙත් කළුපහන, ෂන්මුගනාදන්, රවිශාන් සහ රුසඳ එක්ව ගොඩනැගූ සම්බන්ධතාවයෙන් ශ්‍රී ලංකා ලකුණු පුවරුව 204ක් දක්වා වර්ධනය විය.
-
-◼️
-
-[Data](articles/81608560.json)
-
----
-
-### மேற்கத்தேய முறைகளின் கீழ் செல்லாமல் மக்களின் பசியைப் போக்கக்கூடிய தலைமைத்துவம் தெரிவு செய்யப்பட வேண்டும் - பேராயர் மெல்கம் கர்தினால் ரஞ்சித் ஆண்டகை
-
-*2024-01-21 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/174462) · `ta`
-
-ஒரு நிகழ்ச்சி நிரலிலிருந்து வெளியேறி பிரிதொரு நிகழ்ச்சி நிரலுக்குள் சிறை பிடிக்கப்படுவதை தேர்தலின் மூலம் நாம் எதிர்பார்க்கவில்லை. இந்த ஆண்டு தேர்தலுக்குரிய ஆண்டாகக் குறிப்பிடப்படுகிறது. எனவே மேற்கத்தேய முறைகளின் கீழ் செல்லாமல் மக்களின் பசியைப் போக்கக்கூடிய தலைமைத்துவம் தெரிவு செய்யப்பட வேண்டும் என்று பேராயர் மெல்கம் கர்தினால் ரஞ்சித் ஆண்டகை தெரிவித்தார்.
-
-முகத்துவாரம் புனித ஜோன் தேவாலயத்தில் இன்று ஞாயிற்றுக்கிழமை (21) இடம்பெற்ற விசேட ஆராதனையின் போதே பேராயர் இதனை தெரிவித்தார்.
-
-இன்று நாம் வாழ்ந்துகொண்டிருக்கும் இலங்கைக்குள் காணப்படும் பிரச்சினைகளிலிருந்து எம்மால் ஒதுங்கியிருக்க முடியாது. மத தலைமைத்துவம் என்பது வழிபாட்டுத் தலங்களுக்குள் சென்று போதனை செய்துகொண்டிருப்பது மாத்திரமல்ல. மக்களுக்கு துயரம் ஏற்பட்டால், அவர்களுக்காக வீதிக்கு இறங்கி குரல் கொடுப்பதே உண்மையான தலைமைத்துவமாகும்.
-
-...
-
-[Data](articles/f1267128.json)
-
----
 
 ### This renovation is urgent - President
 
@@ -537,26 +415,6 @@ Furthermore, the Minister expressed that he has instructed the relevant authorit
 [Data](articles/95149291.json)
 
 [Extended Data](ext_articles/95149291.ext.json)
-
----
-
-### බීමත්ව කාන්තාවකගේ නිවසට ගොස් එම කාන්තාවට අතවර කල චීවරධාරියෙකු අල්ලයි
-
-*2024-01-21 14:36:01* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-කාන්තාවකගේ-නිවසට-ගොස්-එම-කාන්තාවට-අතවර-කල-චීවරධාරියෙකු-අල්ලයි/11-407644) · `si`
-
-අනුරාධපුර ශ්‍රාවස්තිපුර ප්‍රදේශයේ  පිහිටි තම නිවසට අයුතු  ලෙස ඇතුළු වී, බීමත්ව ලිංගික අතවර කිරීම සම්බන්ධයෙන් කාන්තාවකගෙන් ලැබුණු පැමිණිල්ලකට අනුව, සැකකාර එම චීවරධාරියා අත්අඩංගුවට ගත් බව අනුරාධපුර මූලස්ථාන පොලිසිය පවසයි.
-
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ වැල්ලවාය , බුදුරුවගල ප්‍රදේශයේ  විහාරස්ථානයක වැඩ වාසය කල බව කියන චීවරධාරියකි.
-
-5හේ ඇල, ශ්‍රාවස්තිපුර ප්‍රදේශයේ කාන්තාවක් විසින් මෙම පැමිණිල්ල සිදු කර තිබුණි.එම පැමිණිල්ලට අනුව අනුරාධපුර පොලිසියේ රාත්‍රි ජංගම මුර සංචාරයේ යෙදී සිටි උප පොලිස්  පොලිස් පරීක්ෂක සාගර මහතා ඇතුළු නිලධාරීන් විසින් සැකකාර චීවරධාරියා අත්අඩංගුවට වෙන තිබුණි.
-
-මෙම හිමි නමගේ බීමත්කම පරීක්ෂා කිරීම සඳහා අනුරාධපුර  මහ රෝහලේ අධිකරණ වෛද්‍යවරයා වෙත ඉදිරිපත් කිරීමට  නියමිතව තිබුණි.
-
-මෙම සිද්ධිය සම්බන්ධයෙන් අනුරාධපුර මූලස්ථාන පොලිසියේ නිලධාරීහු කණ්ඩායමක් වැඩිදුර විමර්ශන සිදු කරති.
-
-◼️
-
-[Data](articles/2262ce49.json)
 
 ---
 
@@ -2103,5 +1961,181 @@ The public is kindly requested to take adequate precautions to minimize damages 
 [Data](articles/d79d476a.json)
 
 [Extended Data](ext_articles/d79d476a.ext.json)
+
+---
+
+### Under-19 Sri Lanka - Zimbabwe match today
+
+*2024-01-21 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192380) · `si`
+
+Sri Lanka's first match will be held today (21) at the ICC World Cup.
+
+The match is scheduled to start at 01.30 pm today in South Africa.
+
+The match between Nepal and New Zealand, under 19, is scheduled to be held today.
+
+16 teams compete in four categories for the Under 19 World Cup.
+
+◼️
+
+[Data](articles/66d0b436.json)
+
+[Extended Data](ext_articles/66d0b436.ext.json)
+
+---
+
+### Operation ‘Yukthiya’ will continue despite challenges -Tiran
+
+*2024-01-21 07:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/operation-yukthiya-will-continue-despite-challenges-tiran/) · `en`
+
+COLOMBO (News 1st); Minister of Public Security Tiran Alles said operation 'Yukthiya' will continue despite various challenges.
+
+He expressed these views in Maligawatte on Saturday (20) night during the ceremony to empower community police committees in the Colombo Central Division.
+
+2,100 Community Police officers in eight Police divisions were part of the programme.
+
+Minister Tiran Alles said a member of a certain political party had criticised the operation, adding that he will not be affected by such criticism.
+
+The Minister said letters were also sent by the Human Rights Commission against the programme adding that it will not hinder the operation.
+
+Minister Alles stressed that operation 'Yukthiya' will only end after eradicating the drug menace as stated by the Acting Inspector General of Police.
+
+He said the operation may face other challenges in future as well, and urged the community police and other factions to unite, to make the operation a success.
+
+...
+
+[Data](articles/6bef53d1.json)
+
+[Extended Data](ext_articles/6bef53d1.ext.json)
+
+---
+
+### 22-year-old killed in Telijjawila shooting
+
+*2024-01-21 07:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/22-year-old-killed-in-telijjawila-shooting/) · `en`
+
+COLOMBO (News 1st); A 22-year-old has died in a shooting in Telijjawila, Matara.
+
+Sri Lanka Police said the shooting was carried out last night by an individual who arrived in a motorcycle.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
+◼️
+
+[Data](articles/c44e01da.json)
+
+[Extended Data](ext_articles/c44e01da.ext.json)
+
+---
+
+### PUCSL to discuss proposal to revise electricity tariffs
+
+*2024-01-21 07:53:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/pucsl-to-discuss-proposal-to-revise-electricity-tariffs/) · `en`
+
+COLOMBO (News 1st); The Public Utilities Commission of Sri Lanka is scheduled to convene at the start of this week to discuss the proposal to revise electricity tariffs.
+
+A spokesman for the PUCSL said public views will be obtained on the proposal to revise electricity tariffs from the 23rd of January.
+
+The PUCSL added that the public will be able to submit opinions in writing for up to 21 days from the 23rd.
+
+The Ceylon Electricity Board handed over the proposal to revise electricity tariffs to the PUCSL.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
+◼️
+
+[Data](articles/2475d51b.json)
+
+[Extended Data](ext_articles/2475d51b.ext.json)
+
+---
+
+### Lowest employees in 11 years
+
+*2024-01-21 07:49:54* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිමට-වසර-11කදී-අඩුම-සේවක-බඳවා-ගැනිම-2023දී/11-407634) · `si`
+
+It has been in the last year that the Ceylon Electricity Board (LIMITED) has been recruited last year.
+
+Troops recruited in 2023. During that 11 years, the highest number of employees have been recruited in 2016, the number is 4675. In 2017, 1755 employees have been recruited.
+
+◼️
+
+[Data](articles/5800a012.json)
+
+[Extended Data](ext_articles/5800a012.ext.json)
+
+---
+
+### Road accidents that killed four
+
+*2024-01-21 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192379) · `si`
+
+Four persons, including two women, killed two women in several areas during the past 24 hours.
+
+A woman was killed in an accident that a lorry collided with a three-wheeler in Matara - Hakmana road.
+
+The deceased has been identified as Sausewiri Uyana - a resident of the Yivewana area.
+
+Meanwhile, a motorcycle and a motorcycle collided with a pavement and a paved woman who traveled through the Mirihana Police Division in the Mirihana Police Division.
+
+The 85-year-old panel of pedestal resident of Nugegoda - Gangodawila.
+
+Meanwhile, a person was killed in a car confronting an unidentified vehicle in the Natutuwela area in Kebithigollewa.
+
+Meanwhile, an accident had died in an accident that collided with a motorcycle near the Kotamaulla Junction near the Kotamaullah junction.
+
+The deceased has been identified as a 35 year old resident of the Ratnapura area.
+
+◼️
+
+[Data](articles/2e93e938.json)
+
+[Extended Data](ext_articles/2e93e938.ext.json)
+
+---
+
+### Awareness programme for school children over drug menace from Feb 5th
+
+*2024-01-21 07:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/awareness-programme-for-school-children-over-drug-menace-from-feb-5th/) · `en`
+
+COLOMBO (News 1st); Acting Inspector General of Police Deshabandu Tennakoon said a programme will be launched to raise awareness among school children regarding the drug menace from the 5th of February.
+
+Acting IGP Deshabandu Tennakoon expressed these views on Saturday (20) while joining a programme to train 200 resource persons for the drug prevention program to be implemented for the school community under the theme "සුරක්ෂිත හෙටක්" which translates to"A safe tomorrow".
+
+Trainees of the National Youth Services Council and university graduates have been selected for this programme.
+
+The Acting IGP said the programme will raise awareness among hundreds of school children to protect them against the drug menace.
+
+He said under operation 'Yukthiya' Police have identified around 4,500 people involved in the supply of drugs to Sri Lanka, and 60 percent of them have been arrested.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
+◼️
+
+[Data](articles/42006a5b.json)
+
+[Extended Data](ext_articles/42006a5b.ext.json)
+
+---
+
+### President to address the 3rd South Summit of the Group of 77 & China in Uganda
+
+*2024-01-21 07:28:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/president-to-address-the-3rd-south-summit-of-the-group-of-77-china-in-uganda/) · `en`
+
+COLOMBO (News 1st); The 3rd South Summit of the Group of 77 & China, is scheduled to be held in Kampala, Uganda today, under the theme ‘Leaving No One Behind’.
+
+The President's Media Division said President Ranil Wickremesinghe is set to address the 3rd South Summit, which will be held today and tomorrow.
+
+The official meeting between President Ranil Wickremesinghe and Prime Minister of Nepal Pushpa Kamal Dahal took place in Kampala, Uganda yesterday, in line with the 19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM).
+
+The leaders engaged in extensive discussions on promoting the cultural and religious relations that have existed between the two countries since the past, emphasizing the potential for promoting tourism.
+
+With the aim of expanding political relations, a proposal was made to facilitate an exchange program for MPs to study the parliamentary affairs of both countries.
+
+...
+
+[Data](articles/ac55c0bb.json)
+
+[Extended Data](ext_articles/ac55c0bb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 15:17:19**
+As of **2024-01-21 15:33:02**
 
 ## Newspaper Stats
 
-*Scraped **1,575** Articles*
+*Scraped **1,582** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ islandlk | 97
 economynextcom | 103
 newsfirstlk | 107
 dbsjeyarajcom | 118
-virakesarilk | 137
+virakesarilk | 142
 dailyftlk | 150
 adalk | 168
 dailymirrorlk | 180
 tamilmirrorlk | 197
-adaderanalk | 197
+adaderanalk | 199
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-893 (56.7%) of 1,575 articles have been extended.
+915 (57.8%) of 1,582 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### President Ranil addresses G77+China summit in Uganda
+
+*2024-01-21 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96599/president-ranil-addresses-g77china-summit-in-uganda-) · `en`
+
+President Ranil Wickremesinghe is currently addressing the Group of 77 and China (G77+China) Third South Summit in Kampala, Uganda, the President’s Media Division (PMD) reported.
+
+The Sri Lankan President is in Uganda to attend the XIX Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the Group of 77 (G77) and China Third South Summit.
+
+The theme of the G77 and China Third South Summit is “Leaving No One Behind”. Member States of the G77 and China will discuss developmental challenges, and ways in which the Group can work towards achieving the Sustainable Development Goals.
+
+◼️
+
+[Data](articles/6953d3f0.json)
+
+---
+
+### No need to import rice - Agri. Minister
+
+*2024-01-21 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96598/no-need-to-import-rice-agri-minister) · `en`
+
+Minister of Agriculture Mahinda Amaraweera says that the government is already working on producing the required quantity of rice within the country itself.
+
+Amaraweera stated that accordingly, there is no need to import rice from overseas.
+
+Furthermore, the Minister expressed that he has instructed the relevant authorities to work towards producing an excess amount of rice within the country, enabling the export of rice from Sri Lanka to foreign countries.
+
+“In the year 2022, one-third of the country’s rice requirement was imported. The amount of rice required for the country is currently being produced within the country itself”, he added.
+
+◼️
+
+[Data](articles/95149291.json)
+
+---
 
 ### “Those who are killed in the attack will be declared saints"
 
@@ -51,6 +85,18 @@ Speaking during the worship of St. Sebastian Church at Kandan, Cardinal Ranjith 
 [Data](articles/a1d559f2.json)
 
 [Extended Data](ext_articles/a1d559f2.ext.json)
+
+---
+
+### ஆசியாவின் பொம்மை இராணுவ அரசுகள்
+
+*2024-01-21 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/174439) · `ta`
+
+ஜ­ன­நா­யகம் மற்றும் மனித உரிமை விவ­கா­ரங்­களில் சீன­ த­ரப்பும் இந்­தியத் தரப்பும் அதிகம் கவனம் செலுத்­தாத நிலையை கொண்­டி­ருப்­ப­தாக காட்டிக்கொண்­டாலும் ஆட்­சியில் உள்ள நடை­முறை அர­சாங்­கத்தை தம் பக்கம் இழுத்தெடுக்கும் முக்கிய நோக்கத்தையே கொண்டுள்ளன.
+
+◼️
+
+[Data](articles/feaaec46.json)
 
 ---
 
@@ -75,6 +121,18 @@ He also said that if the bus owners are implemented and properly arranged for th
 [Data](articles/3997cd41.json)
 
 [Extended Data](ext_articles/3997cd41.ext.json)
+
+---
+
+### மன்­னிக்­கப்­ப­டாத பொது­மன்­னிப்பு
+
+*2024-01-21 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174442) · `ta`
+
+ஆட்­சியில் இருக்­கின்ற ரணில் விக்­ர­ம­சிங்­கவும் கூட பொது­மன்­னிப்பில் பலரை விடு­தலை செய்­தி­ருக்­கிறார். ஆனால், அவர்கள், அந்த பொது­மன்­னிப்பை பயன்­ப­டுத்­திய விதத்­துக்கும், மைத்­தி­ரி­பால சிறி­சேன மற்றும் கோட்­டா­பய ராஜபக்ஷ ஆகியோர் பொது­மன்­னிப்பை வழங்­கிய விதத்­துக்கும் வேறு­பா­டுகள் உள்­ளன.
+
+◼️
+
+[Data](articles/7316c3ac.json)
 
 ---
 
@@ -118,6 +176,18 @@ Members of MPs, MA Sumanthiran, S. Sridhiran and Syashwaran had been elected to 
 
 ---
 
+### தமிழ்த் தேசிய கட்சிகளுக்கு எதிராக போராட வேண்டிய நிலையில் தமிழ் மக்கள்
+
+*2024-01-21 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/174433) · `ta`
+
+தமிழ் தேசியக் கட்­சி­களில் இன்னொரு தரப்­பினர், தமிழ்ப் பொது வேட்­பாளர் விட­யத்தில் தமிழ்த் தேசியக் கட்­சிகள் ஒருங்­கி­ணைந்த செயற்­பாட்­டிற்கு வர­மாட்­டார்கள் என்­பதை கார­ண­மாகக் கூறு­கின்­றனர். இதில் சில உண்­மைகள் இருக்­கலாம். தமிழ்ப் பொது வேட்­பா­ளரை நிறுத்த வேண்டும் என்ற நிலைப்­பாட்டில் உண்­மை­யா­கவே விசு­வா­ச­மாக இருக்­கின்ற கட்­சிகள் தங்­க­ளது நிலைப்­பாட்டை மக்­க­ளுக்கு தெளி­வாக விளக்கி மக்­க­ளையும் இணைத்துக்கொண்டு ஏனைய கட்­சி­க­ளுக்கு அழுத்­தங்­களை கொடுக்­கலாம்.
+
+◼️
+
+[Data](articles/dfce2c7a.json)
+
+---
+
 ### S. Shritharan elected leader of ITAK
 
 *2024-01-21 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96597/s-shritharan-elected-leader-of-itak) · `en`
@@ -133,6 +203,40 @@ Sivagnanam Shritharan contested the 2010 parliamentary election as one of the Ta
 [Data](articles/e74c3833.json)
 
 [Extended Data](ext_articles/e74c3833.ext.json)
+
+---
+
+### ராஜபக்ஷக்களுக்கு இரண்டாவது குட்டு வைத்த உயர்நீதிமன்றம்
+
+*2024-01-21 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174445) · `ta`
+
+நாட்டின் பொரு­ளா­தார வீழ்ச்­சிக்கும் நெருக்­க­டி­க­ளுக்கும் கார­ண­மா­ன­வர்கள்  என  ஏழு பேருக்கு எதி­ராக தாக்கல் செய்­யப்­பட்ட அடிப்­படை மனித உரிமை மீறல் மனுவில் ராஜபக்ஷ சகோ­த­ரர்­க­ளான  மஹிந்த, கோட்டா, பசில் ஆகி­யோரின் பெயர்­களும் இடம்­பெற்­றி­ருந்­தன. கடந்த நவம்பர் மாதம் 14 ஆம் திகதி உயர்­நீ­தி­மன்றம் அந்த ஏழு பேரையும் பொரு­ளா­தார வீழ்ச்­சிக்­கான கார­ண­கர்த்­தாக்கள் என அறி­வித்­தி­ருந்­தது.
+
+...
+
+[Data](articles/3e46b98f.json)
+
+---
+
+### இலங்கை தமிழரசுக் கட்சியின் தலைவராகிறார் சிறிதரன்
+
+*2024-01-21 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174449) · `ta`
+
+இலங்கைத் தமிழரசுக்கட்சியின் புதிய தலைமைக்கான வாக்கெடுப்பில் சிறிதரன் 184 வாக்குகளைப் பெற்று வெற்றி பெற்றுள்ளார்.
+
+இலங்கைத் தமிழரசுக்கட்சியின் புதிய தலைமைக்கான இரகசிய வாக்கெடுப்பு இன்றையதினம் ஞாயிற்றுக்கிழமை (21) திருகோணமலையில் முற்பகல் 10 மணிக்கு இடம்பெற்றது.
+
+பதில் பொதுச்செயலாளர் வைத்தியர்.ப.சத்தியலிங்கத்தின் தலைமையில் நடைபெற்ற இந்த வாக்கெடுப்பில் அவருக்கு உதவியாளர்களாக வடக்கு, கிழக்கு மாகணங்களின் எட்டு மாவட்டங்களைச் சேர்ந்த எண்மர் செயற்பட்டனர்.
+
+இந்நிலையில் குறித்த வாக்கெடுப்பில் மத்திய செயற்குழு அங்கத்தவர்களும் மாவட்டங்களில் இருந்து பொதுச்சபைக்கு வாக்களிப்பதற்கான அங்கீகாரத்தைக் கொண்டவர்கள் வாக்களித்தனர்.
+
+அதன்படி, இன்று 21 ஆம் திகதி ததிருகோணமலை நகரமண்டபத்தில் இடம் பெற்ற வாக்களிப்பில் 327 பேர் கலந்துகொண்டனர்.
+
+முன்னதாக இலங்கை தமிழரசுக்கட்சியின் தலைமைப்பதவிக்கான வேட்பு மனு கோரப்பட்டபோது கட்சியின் யாழ்.மாவட்ட பாராளுமன்ற உறுப்பினர்களான எம்.ஏ.சுமந்திரன் மற்றும் சிவஞானம் சிறீதரன் ஆகியோரும் மட்டக்களப்பு மாவட்ட முன்னாள் பாராளுமன்ற உறுப்பினருமான சீனித்தம்பி யோகேஸ்வரனும் விண்ணப்பங்களை செய்திருந்தனர்.
+
+...
+
+[Data](articles/7fb0dc9d.json)
 
 ---
 
@@ -1941,149 +2045,5 @@ In a special statement on the official visit to Uganda, where President Wickreme
 [Data](articles/86cc4cb4.json)
 
 [Extended Data](ext_articles/86cc4cb4.ext.json)
-
----
-
-### We publish it this April 21 - Cardinal Thero
-
-*2024-01-20 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192372) · `si`
-
-The Archbishop Malcolm Cardinal Ranjith says that the Passover attacker had taken place on April 21, a year after the death of the deceased.
-
-He said that the evening was held at the Shunkara's shrine yesterday (19).
-
-The Ranjith Kadinal Ranjith Thero was held under the patronage of the Annual Festival of the Shrine Shrine Shrine Shrine Shrine Shrine Shrine.
-
-"The Passover attack on April 21. So we made a decision. The 273 people who died in the attack be presented to the Holy See. To lift the dead as the saints. Offers their names. They were confident because they were the church. If they were home, they would not die. Life was sacrificed because of the Passover mission. As a group of people who sacrificed their lives in faith. We are ready to publish on April 21st.
-
-◼️
-
-[Data](articles/312d6444.json)
-
-[Extended Data](ext_articles/312d6444.ext.json)
-
----
-
-### Firing at Matara - One killed
-
-*2024-01-20 21:34:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாத்தறையில்-துப்பாக்கிச்-சூடு-ஒருவர்-பலி/175-331863) · `ta`
-
-A man has been killed in a shooting incident in Matara -Telijjila area tonight, police said.
-
-Police said that a suspect on a motorbike fled the telephone stall and fled the shoot.. Remble
-
-◼️
-
-[Data](articles/84a7ec0a.json)
-
-[Extended Data](ext_articles/84a7ec0a.ext.json)
-
----
-
-### IMF & Sri Lanka: Tax reforms and fiscal discipline seen as key to overcoming the crisis
-
-*2024-01-20 21:31:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/imf-sri-lanka-tax-reforms-and-fiscal-discipline-seen-as-key-to-overcoming-the-crisis/) · `en`
-
-COLOMBO (News 1st); The International Monetary Fund (IMF) expressed cautious optimism about Sri Lanka's economic recovery, highlighting the crucial role of tax reforms and fiscal discipline in overcoming the nation's deep financial crisis.
-
-Peter Breuer, IMF Senior Mission Chief to Sri Lanka, emphasized the importance of tax administration in addressing the revenue shortfall that contributed to the crisis.
-
-He urged for increased compliance and condemned tax evasion, stressing that "any dollar or rupee in taxes that is due but not paid means that everybody else has to pay more."
-
-Breuer praised the Sri Lankan government's commitment to halting further tax concessions and highlighted the planned reforms to improve transparency in this area. He noted that tax revenue as a percentage of GDP dropped from 11% in 2019 to a mere 7% in 2022, creating a significant funding gap.
-
-...
-
-[Data](articles/1fb365ff.json)
-
-[Extended Data](ext_articles/1fb365ff.ext.json)
-
----
-
-### One killed in shooting at Thelijjawila
-
-*2024-01-20 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96581/one-killed-in-shooting-at-thelijjawila-) · `en`
-
-An individual has been reported dead following a shooting incident in Thellijawila, Matara this evening (20 Jan.), police reported.
-
-According to police, the 24-year-old was gunned down by two suspects who had reportedly arrived on a motorcycle and opened fire at a phone shop located in the Thelijjawila Juncton.
-
-Police suspect that a pistol was used for the shooting, while the motive behind the incident is yet to be ascertained.
-
-Further investigations into the shooting are being carried out by the Malimbada Police.
-
-◼️
-
-[Data](articles/0fb59a80.json)
-
-[Extended Data](ext_articles/0fb59a80.ext.json)
-
----
-
-### Two shooters kill a young man
-
-*2024-01-20 21:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192371) · `si`
-
-Police said that a 24-year-old man was killed in the shadder of the Thelijjjawila junction at the Thelejjawila junction at the Anuradhapura Junction.
-
-Two unidentified persons who came from a motorbike have been shot.
-
-A person who was in a mobile phone outlet. He is a resident of Welipitiya.
-
-Police say that information regarding the cause of the murder, the police said.
-
-The police said that the shooting had taken place in the Thelejjawila area in Matara.
-
-Two suspects from a motorbike have been shot in a telephone market, police sources said.
-
-◼️
-
-[Data](articles/4da173f5.json)
-
-[Extended Data](ext_articles/4da173f5.ext.json)
-
----
-
-### A problem at A / L examination center
-
-*2024-01-20 21:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192370) · `si`
-
-It is reported that the accounting for the first question paper of the A / L examination center in Galle is reported to be used today.
-
-It is said that while children were responding to the question.
-
-It is reported that the calculators who are not approved by several candidates are brought to the examination hall.
-
-However, after an educational authorities, the Adjuni's educational authorities, however, the candidates have been given to the calculators.
-
-However, the parents of their children are not given an additional time for writing the answers.
-
-Parents said that their children had great injustice.
-
-However, the Ada Derana examination was inquired from the Department of Examinations and stated that the answer scripting is focused on the investigation.
-
-◼️
-
-[Data](articles/023db2bb.json)
-
-[Extended Data](ext_articles/023db2bb.ext.json)
-
----
-
-### CPJ calls for withdrawal of proposed Online Safety Bill, urges ‘meaningful consultations’
-
-*2024-01-20 20:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96580/cpj-calls-for-withdrawal-of-proposed-online-safety-bill-urges-meaningful-consultations) · `en`
-
-The Committee to Protect Journalists (CPJ) has urged Sri Lanka’s Minister of Public Security to withdraw the proposed Online Safety Bill.
-
-In a joint letter addressed to the Minister, the CPJ, together with 58 other organisations, urged Minister Tiran Alles to withdraw the relevant Bill, and to conduct ‘meaningful consultations with all stakeholders including local groups’ in this regard.
-
-They further raised concerns that the proposed Bill is slated to be presented in Parliament later this month, without addressing the key concerns raised by stakeholders, experts and civil society about the severe implications that the Bill will have on the human rights and democratic values enshrined in the Constitution and international legal instruments to which people in Sri Lanka are entitle.
-
-...
-
-[Data](articles/f413a863.json)
-
-[Extended Data](ext_articles/f413a863.ext.json)
 
 ---

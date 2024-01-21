@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 21:51:49**
+As of **2024-01-21 22:17:10**
 
 ## Newspaper Stats
 
@@ -26,31 +26,37 @@ adaderanalk | 204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,252 (76.6%) of 1,635 articles have been extended.
+1,260 (77.1%) of 1,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### කොරියානු සිහිනය සැබෑවෙද්දී මින්දික සොයා ආ වෙඩිල්ල
+### The Kori Dream was true
 
 *2024-01-21 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192406) · `si`
 
-කොරියාවේ රැකියා සිහින දකින මෙරට තරුණයින් අතරින් ඒ සිහිනය සැබෑවක් වීමට ඔන්න මෙන්න තිබියදී ජීවිතයෙන් සමුගෙන ගිය තරුණයෙක් පිළිබඳව සංවේදී පුවතක් මාතර ප්‍රදේශයෙන් වාර්තා වෙයි.
+Among the youth of Korea's jobs is about to be true, it is said in Matara.
 
-මෙලෙස අවාසනාවන්ත ලෙස ජීවිතයෙන් සමුගෙන යන්නේ මාතර තෙලිජ්ජවිලදී නාඳුනන තුවක්කුකරුවෙකුට බිළිවූ 22 හැවිරිදි වියේ පසුවන මින්දික නමැති තරුණයාය.
+The youth named Mindika, a 22-year-old Mindi, who is an unknown gunist in Anuradhapura.
 
-ඔහු කොරියානු භාෂා විභාගය සමත්වී රැකියාව සඳහා නුදුරේදීම එරට බලා පිටත්ව යාමට සිට ඇත.
+He was sitting on the Korean language exam and left for work soon.
 
-මෙහි ඇති සංවේදී කරුණ වන්නේ මාතර - තෙලිජ්ජවිල මංසන්ධියේ ජංගම දුරකථන උපාංග වෙළෙඳසැලකදී ඊයේ (20) සිදුකළ මෙම වෙඩි තැබීම වෙඩික්කරුවන්ගේ ඉලක්කය වැරදී සිදුවූවක් බවට තොරතුරු වාර්තා වීමය.
+The sensitive point is that the shooting of the shooting was tired at a mobile phone accessory shooting at the Thelejjawila juncture of the Matara-Thelijjawila juncture.
 
-මියගිය එම තරුණයා මින්දික අලුත්ගමගේ නම් දෙනිපිටිය ප්‍රදේශයේ පිදිංචිකරුවෙක් වන ඔහු සිය ජංගම දුරකථනය ආරෝපණය කරගැනීම සඳහා මෙම වෙළෙඳසැලට පැමිණ තිබුණි.
+The deceased is a pharmaceper in the Denipitiya Aluthgamage, Denipitiya, and has come to the shop to charge his mobile.
 
-වෙඩිතැබීම සිදුවන අවස්ථාවේ දුරකථන උපාංග අලෙවිසැලේ හිමිකරු පිටත රැඳී සිට ඇති අතර ඒ තුළ සිට ඇත්තේ හිමිකරුගේ මිතුරකු වන වෙනත් තරුණයෙකි.
+At the time of shooting, the owner of the telephone release has been on the outside and has been a friend of the owner.
+
+Police said that the owner of the shooting had been arrested and released to a robbery in the Supreme Court, saying that he had been bullied and released to the Supreme Court.
+
+Matara Chief Magistrate Anuruddha Buddhadasa has ordered the security of the magisterial inquiry into the incident.
 
 ...
 
 [Data](articles/84941079.json)
+
+[Extended Data](ext_articles/84941079.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 21:02:17**
+As of **2024-01-21 21:17:19**
 
 ## Newspaper Stats
 
-*Scraped **1,630** Articles*
+*Scraped **1,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ newsfirstlk | 109
 dbsjeyarajcom | 121
 virakesarilk | 149
 dailyftlk | 150
-adalk | 178
-dailymirrorlk | 186
+adalk | 179
+dailymirrorlk | 187
 tamilmirrorlk | 200
 adaderanalk | 204
 
@@ -26,11 +26,47 @@ adaderanalk | 204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,212 (74.4%) of 1,630 articles have been extended.
+1,227 (75.2%) of 1,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### Sri Lanka issues ’All Country Passports’ to resettled nationals in Tamil Nadu
+
+*2024-01-21 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-issues-All-Country-Passports-to-resettled-nationals-in-Tamil-Nadu/108-275450) · `en`
+
+Jan 21 -  The Sri Lanka Deputy High Commission in Chennai marked a significant milestone on January 19, 2024, as it hosted a ceremony to deliver the inaugural batch of passports to Sri Lankan nationals resettled in Tamil Nadu.
+
+This initiative, orchestrated by the Government of Sri Lanka, introduces "All Country Passports" for the resettled Sri Lankans in Tamil Nadu, India.
+
+Under the guidance of President Ranil Wickremesinghe, the Sri Lanka Deputy High Commission in Chennai, in collaboration with key stakeholders, successfully implemented the program.
+
+During the ceremony, the first batch of 197 passports was handed over to the respective applicants, signifying a crucial step in the initiative.
+
+...
+
+[Data](articles/18fd9ec8.json)
+
+---
+
+### පලස්තීන රාජ්‍යයක් පිළිබඳ ලංකාවේ ස්ථාවරත්වය ජනපති අවධාරණය කරයි
+
+*2024-01-21 20:12:12* · [`adalk`](https://www.ada.lk/breaking_news/පලස්තීන-රාජ්‍යයක්-පිළිබඳ-ලංකාවේ-ස්ථාවරත්වය-ජනපති-අවධාරණය-කරයි/11-407650) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ පලස්තීනයේ විදේශ කටයුතු හා සංක්‍රමණිකයින් පිළිබඳ අමාත්‍ය ආචාර්ය රියාද් මල්කි (Dr. Riyad Malki) මහතා අතර හමුවක් “G77 සහ චීනය” 3 වැනි දකුණු සමුළුවට සමගාමීව අද (21) උගන්ඩාවේ කම්පාලා නුවරදී පැවැත්විණි.
+
+ගාසා තීරයේ අර්බුදය සම්බන්ධයෙන් මෙහිදී විශේෂ අවධානයක් යොමු කෙරුණු අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේ ඊශ්‍රායල – හමාස් ගැටුමේදි පලස්තීන ජනතාව ගොදුරක් කර ගැනීම කිසිසේත් අනුමත කළ නොහැකි බවයි.
+
+ගැටුම් නවත්වා සාමය ස්ථාපිත කිරීමට එක්සත් ජාතීන්ගේ මහලේකම්වරයා ගෙන යන වැඩපිළිවෙළට ශ්‍රී ලංකාවේ පූර්ණ සහාය ලබා දෙන බව මෙහිදී ප්‍රකාශ කළ ජනාධිපතිවරයා වසර 05ක් ඇතුළත පලස්තීන රාජ්‍යය පිහිටුවිය යුතුය යන්න ශ්‍රී ලංකාවේ යෝජනාව බවද කියා සිටියේය.
+
+එසේම පලස්තීනයේ ජනතාවගේ ස්වයං නිර්ණ අයිතිය සහ ඔවුන්ට ස්වෛරී, ස්වාධීන රාජ්‍යයක් ස්ථාපිත කර ගැනීමට ඇති අහිමි කළ නොහැකි අයිතිවාසිකම සඳහා ඉහළම ප්‍රමුඛත්වය ලබා දීමේ අවශ්‍යතාවය ද මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+
+...
+
+[Data](articles/eddcb3d2.json)
+
+---
 
 ### Controversial monk ’Vishwa Buddha’ expelled from monkhood
 
@@ -50,19 +86,25 @@ In December of last year, the CID's cybercrimes unit arrested the monk for alleg
 
 [Data](articles/0cde3e5c.json)
 
+[Extended Data](ext_articles/0cde3e5c.ext.json)
+
 ---
 
-### සීනු හා විදුලි පද්ධතිවලින් දුම්රියට රු.කෝටි. 24ක පාඩුවක්
+### Troops of the train and electricity systems. 24 loss of loss
 
 *2024-01-21 20:03:02* · [`adalk`](https://www.ada.lk/breaking_news/සීනු-හා-විදුලි-පද්ධතිවලින්-දුම්රියට-රු-කෝටි--24ක-පාඩුවක්/11-407649) · `si`
 
-දුම්රිය හරස් මාර්ග සඳහා ස්ථාපිත කරනු ලැබූ සීනු හා විදුලි පද්ධති 50ක වගකීම් කාලය නිමවීමටත් පෙර ක්‍රියා විරහිතව ඇති අතර, මේ නිසා දුම්රිය දෙපාර්තමේන්තුවට සිදුවී ඇති රුපියල් මිලියන 242.13ක පාඩුව සැපයුම්කරුගෙන් හා එයට සම්බන්ධ පාර්ශ්වයන්ගෙන් අය කර ගැනීමට පියවර ගන්නා ලෙස ජාතික විගණන කාර්යාලය මගින් 2024/01/09 දින නිර්දේශ කොට ඇත.
+The National Audit Office is not working before the period of Rs.Dates of / 09 are recommended.
 
-අදාළ ටෙන්ඩර්කරු විසින් අවශ්‍ය සුදුසුකම් ලැබීමේ නිර්ණායක සපුරා නොතිබියදීඑම සමාගමට ප්‍රසම්පාදනය ලබා දීමට තාක්ෂණික  ඇගයීම් කමිටුව විසින් නිර්දේශ කොට ඇති බවත් මෙය ළබැදියාවන් මත සිදු වූ ගනුදෙනුවක්ද යන්න පිළිබඳ පරීක්ෂාවක් කොට සුදුසු පියවර ගත යුතු බවත් විගණනය මගින් නිර්දේශ කොට ඇත.
+The audit recommended that the relevant tenderer has not met the required qualifying criteria and that it is necessary to take appropriate action on whether it is a tested deal on the limbs.
 
-...
+It was revealed that the Technical Evaluation Committee had not taken transparency when evaluating the tender. Also, the audit recommended that the function of the Technical Evaluation Committee should consider the role of the Technical Evaluation Committee regarding the domesticity of the Technical Evaluation Committee to provide adequate and actual information to the Cabinet of Ministers.. 50 of these electricity systems were inactive from 2003 in 2003, with the 200 Billions and electrical systems installed by the logistics company.
+
+◼️
 
 [Data](articles/49cbd9a1.json)
+
+[Extended Data](ext_articles/49cbd9a1.ext.json)
 
 ---
 
@@ -82,6 +124,8 @@ The State Minister also said it would take several months for the public to reap
 
 [Data](articles/78a521a5.json)
 
+[Extended Data](ext_articles/78a521a5.ext.json)
+
 ---
 
 ### S. Shritharan elected new ITAK leader
@@ -97,6 +141,8 @@ Parliamentarians M.A. Sumanthiran and former MP Sinnathamby Yogeshwaran also cot
 ◼️
 
 [Data](articles/5065d6bb.json)
+
+[Extended Data](ext_articles/5065d6bb.ext.json)
 
 ---
 
@@ -116,23 +162,31 @@ The game was contested at a rapid speed, with Red Shirts forwards showing great 
 
 ---
 
-### විශ්ව බුද්ධි යළි රිමාන්ඩ්
+### Universal intelligence remanded
 
 *2024-01-21 19:20:07* · [`adalk`](https://www.ada.lk/breaking_news/විශ්ව-බුද්ධි-යළි-රිමාන්ඩ්/11-407648) · `si`
 
-සමාජ මාධ්‍ය ඔස්සේ බුදු දහමට අපහාසවන ආකාරයේ යළි ප්‍රකාශ  සිදුකළ විශ්ව බුද්ධ නැමැති පුද්ගලයා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින්  යළි අත්අඩංගුවට ගෙන අද (21) නුගේගොඩ ගංගොඩවිල මහේස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම මස 26 දින දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස වැඩ බලන මහේස්ත්‍රාත් සුනිල් හෙට්ටිආරච්චි මහතා නියෝග කළේය.
+Acting Universal Investigation Department (CID) has been remanded to the Gangodawila Magistrate's Court today (21).Did.
 
-ඒ මින් පෙර අත්අඩංගුවට ගෙන ඇප මත මුදාහැර සිටියදී ඇප කොන්දේසි කඩකරමින් යළිත් වරක් අන්තර්ජාලය ඔස්සේ බුදු දහමට අපහාස කිරීම හේතුවෙන් අධිකරණ නියෝග මත සැකකරු අත්අඩංගුවට ගෙන තිබිණි.
+The suspect was arrested on court orders as a result of the previous arrest and breaking bail conditions.
 
-විශ්ව බුද්ධ නමින් තමාව හඳුන්වාගනිමින් සමාජ මාධ්‍යජාලා ඔස්සේ බුදු දහම සම්බන්ධයෙන් ආන්දෝලනාත්මක ප්‍රකාශ සිදුකළ චීවරධාරියෙකු සම්බන්ධයෙන් පසුගිය දිනවල සමාජයේ දැඩි කථාබහක් නිර්මාණය වුණා.
+Introducing the universal Buddha and created a strong speech in the society recently regarding the controversial statements about Buddhism on Buddhism.
 
-ඔහු ඇතැම් අවස්ථාවලදී ගිහියෙකු ලෙස ද සැරසී සාමාජ මාධ්‍යට විවිධ වීඩියෝ නිකුත්කර තිබුණා.
+He was at times a layman and the social videos of the community were released.
 
-ඒ අනුව බුදු දහමට අපහාසවන අයුරින් හැසිරීම හා ප්‍රකාශ සිදුකිරීම සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ විමර්ශන අංශයට ලද පැමිණිල්ලකට අනුව  පසුගියදා ඔහු අත්අඩංගුවට ගැණුනා.
+Accordingly, the Criminal Investigation Department has arrested a complaint received by the Criminal Investigation Department to investigate Buddhism and statements.
+
+He was then remanded and released on bail.
+
+With the incident, the Commander of the Ramawha Maha Nikaya had unanimously decided to expel the suspect and sect from scholars and sect.
+
+He is also a request made by the reciprocity of the victims.
 
 ...
 
 [Data](articles/c020f404.json)
+
+[Extended Data](ext_articles/c020f404.ext.json)
 
 ---
 
@@ -1490,6 +1544,8 @@ He further said that the bus owners will agree to this proposal if the bus prior
 
 [Data](articles/481c6120.json)
 
+[Extended Data](ext_articles/481c6120.ext.json)
+
 ---
 
 ### SLOA launches College of Optometry
@@ -2051,47 +2107,5 @@ It was decided to commence the reconciliation by the intervention of the Urban D
 [Data](articles/0a50a14f.json)
 
 [Extended Data](ext_articles/0a50a14f.ext.json)
-
----
-
-### Missile attack targeting US Air Force Base in Iraq - Many US soldiers injured
-
-*2024-01-21 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/174429) · `ta`
-
-Several US soldiers have been injured in a missile attack targeting a US base in Iraq.
-
-The US alleges that a pro -Iranian group attacked the Azad airport.
-
-There are estimates that an unprecedented number of US soldiers are under brain injuries.
-
-The attack was carried out by the Islamic Resistance in Iraq, and the group, which was formed in 2023, included many armed groups in Iraq.
-
-This group is claiming attacks on US sites in Iraq.
-
-◼️
-
-[Data](articles/a3ded2e4.json)
-
-[Extended Data](ext_articles/a3ded2e4.ext.json)
-
----
-
-### Universal Intelligence Monastery arrested
-
-*2024-01-21 10:13:22* · [`adalk`](https://www.ada.lk/breaking_news/විශ්ව-බුද්ධි-චීවරධාරියා-යළිත්-අත්අඩංගුවට/11-407639) · `si`
-
-In Ratnapura, universal intelligence was arrested by the University Crimes Division, which is being issued to Buddhists and Buddhists to the Internet.
-
-When the suspect had previously been arrested and released on bail, he was arrested last night due to the suspect and released on bail.
-
-After reporting the Criminal Investigation Computer Criminal Investigation Division for the second time for the second time.. The arrest has been made.
-
-The suspect is due to be produced before the Fort Magistrate's Court today (21).
-
-◼️
-
-[Data](articles/d60b2025.json)
-
-[Extended Data](ext_articles/d60b2025.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 16:32:48**
+As of **2024-01-21 16:48:19**
 
 ## Newspaper Stats
 
@@ -26,57 +26,63 @@ adaderanalk | 200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-984 (61.8%) of 1,592 articles have been extended.
+990 (62.2%) of 1,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### சிறீதரனுக்கு தலைமைப் பொறுப்பு வழங்கப்பட்டிருப்பது மகிழ்ச்சி : தலைவர் சிறீதரனுக்கு எனது முழுமையான ஆதரவினை வழங்குவேன் - சுமந்திரன்
+### Pleased to be given the leadership responsibility for Sreedharan: I will give my full support to Chairman Sridharan - Sumanthiran
 
 *2024-01-21 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174459) · `ta`
 
-ஜனநாயக தேர்தல் மூலம் பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரனுக்கு இலங்கைத் தமிழரசுக்கட்சிப் பொறுப்பு வழங்கப்பட்டிருப்பது மிகுந்த மிகிழ்ச்சியளிப்பதாகவும், தலைவர் சிறீதரனுக்கு தனது முழுமையான ஆதரவினை வழங்குவேன் என்றும் சக தலைமைப்பதவிப் போட்டியாளர் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+Co -chief contestant MA Sumanthiran has said that the Sri Lankan Tamil party's responsibility for the Sri Lankan Tamil party is very high and he will give his full support to Chairman Sreedharan.
 
-தமிழரசுக்கட்சித் தலைவருக்கான தேர்தலிலே மிக ஆரோக்கியமாக, எமது கட்சி உட்கட்சி ஜனநாயகத்தினை நாட்டிற்கும், சர்வதேசத்திற்கும் முன்மாதிரியாக நடாத்திக்காட்டியிருக்கின்றது.
+In the election for the leader of the Tamil party, our party has been a role model for the country and the international community.
 
-எமது தலைவர் மாவை சேனாதிராஜா வழிநடாத்திய தமிழரசுக்கட்சிப் பொறுப்பு, இப்பொழுது சிறிதரனுக்கு வழங்கப்பட்டிருப்பது மிகவும் மகிழ்ச்சியான விடயமாகும்.
+It is a very happy thing that our leader Mawai Senathirajah led the Tamil party responsibility.
 
-இந்தப் பயணத்திலே நாம் தொடர்ந்தும் ஒன்றாகவே பயணிப்போம். இதை நாம் இருவரும் தேர்தல்காலத்திலும் தெளிவாக மக்களுக்குச் சொல்லியிருக்கின்றோம். அப்படியாகவே தொடர்ந்து பயணிப்போம்.
+We will continue to travel together on this journey. We have made this clear to the people in the election. We will continue to travel.
 
-ஆகவே எனது முழுமையான ஆதரவினை தற்போது ஜனநாயக முறையில் தலைவராக தெரிவுசெய்யப்பட்டுள்ள, தலைவர் சிறீதரனுக்கு முழுமையாக வழங்குவேன் என்பதைத் தெரிவித்துக்கொள்கின்றேன் என்றார்.
+Therefore, I am informed that I will give my full support to the leader of the democratic leader and that he will fully give it to the leader Sridharan.
 
 ◼️
 
 [Data](articles/df5b5d2e.json)
 
+[Extended Data](ext_articles/df5b5d2e.ext.json)
+
 ---
 
-### தமிழர்களின் உரிமை, தேசியத்தின் ஒவ்வொரு அங்குலத்துக்காகவும் தொடர்ந்து எம்.ஏ.சுமந்திரன், சீ.யோகேஸ்வரனுடன் இணைந்து செயற்படுவேன் - தமிழரசு கட்சியின் புதிய தலைவர் சிறிதரன் சூளுரை
+### MA Sumanthiran will continue to work with C. Yogeswaran for every inch of nationality - the new leader of the TNA
 
 *2024-01-21 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174458) · `ta`
 
-இலங்கை தமிழரசு கட்சியினுடைய வரலாற்றிலே ஒரு ஜனநாயக ரீதியான உரையாடல் ஊடாகவும் ஜனநாயக ரீதியான செயல்முறையின் ஊடாகவும் வரலாற்றில் முக்கிய வரலாற்றை பதித்துள்ளோம். என்னுடன் போட்டியிட்ட எம்.ஏ.சுமந்திரன் சீ.யோகேஸ்வரன் ஜயாவும் இணைந்து கட்சியுனுடைய செயற்பாட்டினை இன்னும் பல வழிகளில் எமது மக்களின் உரிமைக்காக தேசிய இருப்புக்காக தேசியத்தின் ஒவ்வொரு அங்குலத்துக்காகவும் தொடர்ந்து பொறுப்போடும் கடமையுடனும் செயற்படுவோம் என தமிழரசு கட்சியின் புதிய தலைவரும் பாராளுமன்ற உறுப்பினருமான சிவஞானம் சிறிதரன் சூழுரைத்தார்.
+In the history of the Sri Lanka Tamil National Party, we have posted a major history in history through a democratic dialogue and a democratic process.. MA Sumanthiran C. Yogeswaran Jaya, who contested with me, will continue to act on the party's actions and continue to act with the responsibility and responsibility of the Tamil National Party for every inch of national existence for the rights of our people.
 
-இலங்கைத் தமிழ் அரசுக் கட்சியின் புதிய தலைவரைத் தேர்வு செய்யும் தேர்தல் இன்று ஞாயிற்றுக்கிழமை (21) திருகோணமலையில் இடம்பெற்றது. இதில் 47 மேலதிக வாக்குகளால் வெற்றி பெற்ற சிவஞானம் சிறிதரன் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் இவ்வாறு தெரிவித்தார்.
+Elections to elect a new leader of the Sri Lankan Tamil state party were held in Trincomalee today (21). Sivagnanam Sridharan, who won by 47 additional votes, said this to the media.
 
-என்னை தெரிவு செய்வதற்கு காரணமாக இருந்த இயற்கை என்னும் இறைவனுக்கும் எனக்காக உள்நாட்டிலும் வெளிநாட்டிலும் அயராது உழைத்த அந்த பொதுசபை  உறுப்பினர்களின் மிகப் பெறுமதியான வாக்குகளால் தவைவராக தெரிவு செய்ததற்கு முதலில் எனது நன்றிகள்.
+First of all, my thanks to the Lord of Nature, who was responsible for the choice of me, for the sake of the vote of the most valuable votes of those members of the General Assembly who worked tirelessly at home and abroad.
 
 ...
 
 [Data](articles/ebdf8378.json)
 
+[Extended Data](ext_articles/ebdf8378.ext.json)
+
 ---
 
-### பிராந்திய அரசியலும் தரவுப் பாதுகாப்பும்
+### Regional politics and data protection
 
 *2024-01-21 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174453) · `ta`
 
-தனி­ந­பர்கள் பற்­றிய உயி­ரியல் தர­வுகள் எப்­போதும் பெறு­மதி மிக்­கவை. அவை குற்­றச்­செ­யல்­களை தடுப்­பது, குற்­ற­வா­ளி­களை அடை­யாளம் காண்­ப­தற்கு மாத்­தி­ர­மன்றி, ஆக்­க­பூர்­வமான திட்­டங்­க­ளுக்கும் பயன்­படக்கூடி­யவை.
+Biological data on individuals are always valuable. They can also be used to prevent crime, not only to identify criminals and construct projects.
 
 ◼️
 
 [Data](articles/3d73feb0.json)
+
+[Extended Data](ext_articles/3d73feb0.ext.json)
 
 ---
 
@@ -1460,23 +1466,31 @@ However, the majority of ships that have faced attacks are in a relationship wit
 
 ---
 
-### ඉංලගෙයි තමිල් අරසු කච්චි නායකත්ව සටනේ ජය  එස්.ශ්‍රීධරන්ට
+### Sri Jayas Ratnayake
 
 *2024-01-21 09:34:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2v5lzrzy8o) · `si`
 
-ඉලංගෙයි තමිල් අරසු කච්චි නව නායකයා ලෙස යාපනය මැතිවරණය කොට්ඨාසය නියෝජනය කරන සිවඥානම් ශ්‍රීධරන් අද (ජනවාරි 21වැනිදා) තේරී පත්විය.
+Sivagnanam Sriiriran, who represents the Jaffna Election of the Jaffna Electorate, was elected today (Jan. 21).
 
-ඉලංගෙයි තමිල් අරසු කච්චි පක්ෂ නව නායකයා තේරීමේ පක්ෂ මහ සභාව ත්‍රිකුණාමලය දිස්ත්‍රික්කයේ පැවැත්වුණු අතර, එහිදි පක්ෂයේ දිස්ත්‍රික් සභාවන්හි සාමාජිකයින් 184 දෙනෙකුගේ ඡන්ද ලබා ගනිමින් සිවඥානම් ශ්‍රීධරන් පක්ෂ නායක ලෙස තේරී පත්විය.
+The General Assembly of the party's new leader of the Ilangai Tamil Arasu Kabhaya was held in the Trincomalee District.
 
-නායකත්ව තරගය වෙනුවෙන් ඉදිරිපත් වු එම්.ඒ.සුමන්තිරන් වෙත දිස්ත්‍රික් සභාවන්හි නියෝජිතයින් 137 දෙනෙකු කැමැත්ත පළකොට තිබුණි.
+137 representatives of the District Councils have agreed to MA University Competition.
 
-පක්ෂ නායකත්වය වෙනුවෙන් තුන්කොන් සටනක් පැවති අතර, ඉලංගෙයි තමිල් අරසු කච්චි පක්ෂ නව නායකත්වය වෙනුවෙන් යාපනය මැතිවරණ කොට්ඨාසය නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රීවරුන් එම්.ඒ.සුමන්තිරන් , සිවඥානම් ශ්‍රීධරන් සහ මඩකලපුව දිස්ත්‍රික්කය නියෝජනය කරන එස්.යෝගේෂ්වරන් නාමයෝජනා භාරදී තිබුණි.
+A tube battle was held for the party leadership, and the MPs from the Anuradhapura electorate had handed over nominations for the new leadership of the Anuradhapura electorate.
 
-යාපනය, කිලිනොච්චිය, මුලතිව්, වවුනියාව, මන්නාරම, ත්‍රිකුණාමලය, මඩකලපුව, අම්පාර හා කොළඹ දිස්ත්‍රික්කය නියෝජනය කරමින් දිස්ත්‍රික් සභාවල නියෝජිතයින් 337 දෙනෙකු ජන්දය ප්‍රකාශ කිරීමට සුදුසුකම් ලබා තිබුණ.
+337 representatives of the Ampara District representing the Jaffna, Kilinochchi, Mullaitivu, Mannar, Trincomalee, Ampara and the Colombo District were eligible to vote.
+
+Sivithanam, who was born on December 8, 1968, was a teacher from Sri Lanka.
+
+Prior to entering politics, he served as a principal and was a teacher in several schools in the Kilinochchi district.
+
+The first election was elected to Parliament in the 2010 parliamentary election in the Jaffna electorate from the Jaffna electorate.
 
 ...
 
 [Data](articles/f68b6d96.json)
+
+[Extended Data](ext_articles/f68b6d96.ext.json)
 
 ---
 

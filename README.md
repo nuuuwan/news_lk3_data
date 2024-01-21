@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 19:17:07**
+As of **2024-01-21 19:32:45**
 
 ## Newspaper Stats
 
-*Scraped **1,617** Articles*
+*Scraped **1,619** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,55 @@ dailyftlk | 150
 adalk | 174
 dailymirrorlk | 181
 tamilmirrorlk | 200
-adaderanalk | 201
+adaderanalk | 203
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,134 (70.1%) of 1,617 articles have been extended.
+1,146 (70.8%) of 1,619 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### හිරෙන් පැන්න රැඳවියා අන්තිමට කොටුවූ තැන මෙන්න
+### Here is where the inmate is in jail last
 
 *2024-01-21 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192403) · `si`
 
-බන්ධනාගාර නිලධාරීන්ගේ ග්‍රහණයෙන් මිදී පළායමින් සිටි රැඳවියෙකු ගාල්ල බන්ධනාගාර නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+Galle Prisons Officers have been arrested by the Galle Prison Officers who were fleeing from the clutches of prison officials.
 
-එම රැඳවියා මාතර බන්ධනාගාරයේ රඳවා සිට ඇති අතර ඔහුව තවත් සිරකරුවන් පිරිසක් සමග මාතර මන්තින්ද පිරිවෙණේ වැඩකටයුතු සඳහා යොදවා සිට ඇත.
+The inmate has been detained at the Matara Prison and has been deployed to work in Matara in Matara with another group of prisoners.
 
-එහිදී සැකකරු බන්ධනාගාර නිලධාරීන්ගේ ග්‍රහණයෙන් මිදී පළාගොස් ඇති අතර ඔහු බස් රථයකින් ප්‍රථමයෙන් ගාල්ලට පැමිණ තිබේ.
+The suspect had fled the grip of the prison officials and was first in Galle.
 
-අනතුරුව සැකකාර බන්ධනාගාර රැඳවියා ගාල්ල දුම්රිය ස්ථානයෙන් දුම්රියට නැග සිටියදී ගාල්ල බන්ධනාගාර නිලධාරීන් විසින් ඔහුව අත්අඩංගුවට ගෙන ඇත.
+He was arrested by the Galle Prisons Officers while the suspect was rise at Galle Railway Station.
 
 ◼️
 
 [Data](articles/1fbe5442.json)
+
+[Extended Data](ext_articles/1fbe5442.ext.json)
+
+---
+
+### Controversial monk ‘Vishwa Buddha’ expelled from monkhood
+
+*2024-01-21 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96603/controversial-monk-vishwa-buddha-expelled-from-monkhood) · `en`
+
+Ven. Ratnapure Wimalabuddha, the controversial saffron-robbed monk claiming to be ‘Vishwa Buddha’, who was re-arrested by the Criminal Investigations Department (CID) over allegedly issuing statements demeaning Buddhism, has been expelled from the monkhood.
+
+This decision has been communicated to the Commissioner General of Buddhist Affairs by the Chief Prelate (Mahanayaka Thero) of Sri Lanka Ramanna Maha Nikaya, Most Venerable Makulewe Wimalabhidhana Thero.
+
+The Sangha Sabha Committee of Sri Lanka Ramanna Maha Nikaya has unanimously arrived at this decision on December 15, 2023.
+
+Accordingly, both the ‘Samanera’ and ‘Upasampada’ ordination documents of Ratnapure Wimalabuddha Thero will be invalidated along with the relevant decision.
+
+Furthermore, issuing a statement, Sri Lanka Ramanna Maha Nikaya has announced that the decision to expel the monk in question was taken in consideration of the immense damage and demeaning done to the Buddha Sasana by him.
+
+...
+
+[Data](articles/7fe6ac07.json)
 
 ---
 
@@ -63,6 +85,8 @@ The President lamented the diversion of financial resources to debt service, hin
 ...
 
 [Data](articles/ed4dd48f.json)
+
+[Extended Data](ext_articles/ed4dd48f.ext.json)
 
 ---
 
@@ -85,6 +109,22 @@ The statement further states that the depending on the huge harm to the Sasana, 
 [Data](articles/2a77e6bc.json)
 
 [Extended Data](ext_articles/2a77e6bc.ext.json)
+
+---
+
+### G77+China summit: President emphasizes immediate reforms in global financial structure
+
+*2024-01-21 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96602/g77china-summit-president-emphasizes-immediate-reforms-in-global-financial-structure) · `en`
+
+President Ranil Wickremesinghe addressing the 3rd South Summit today (21) in Kampala, Uganda, highlighted the numerous challenges the world faces, such as conflicts, pandemic repercussions, climate disasters and financial market uncertainties. The President also emphasized the disproportionate impact on vulnerable G77 economies.
+
+In his statement, President Wickremesinghe stressed the urgency of reforming the global financial architecture.
+
+The President also pointed out that the contemporary international debt resolution architecture is more suited for a world where the Paris Club and London Club dominated global debt resolution. Currently the global debt and particularly debt in the developing world is dominated by international bond markets, and non-Paris Club lenders, the President’s Media Division (PMD) reported.
+
+...
+
+[Data](articles/915f71d7.json)
 
 ---
 
@@ -2083,43 +2123,5 @@ National Youth Service Council trainers and university students have been select
 [Data](articles/a1f90ab8.json)
 
 [Extended Data](ext_articles/a1f90ab8.ext.json)
-
----
-
-### India’s NIA files supplementary chargesheet against four in Sri Lanka human trafficking case
-
-*2024-01-21 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96586/indias-nia-files-supplementary-chargesheet-against-four-in-sri-lanka-human-trafficking-case) · `en`
-
-The National Investigation Agency (NIA) of India has filed a supplementary chargesheet against four accused in a 2021 case relating to human trafficking of 39 Sri Lankan nationals into India on the false pretext of taking them to Canada.
-
-Mohamed Imran Khan alias Imran, who was arrested by the NIA recently, has been charge-sheeted under various sections of IPC relating to trafficking, confinement, and conspiracy, along with absconders Seeni Aabul Khan, Mohamed Ibrahim alias Ahmed and Pudumadam Imran alias Hajiyar aka Imrankhan, before the NIA Special Court, Bengaluru.
-
-The accused were allegedly involved in trafficking of 39 Sri Lankan nationalists to Mangaluru via Tamil Nadu by falsely promising them that they were being taken to Canada. The victims were confined in various lodges across Mangaluru and were initially arrested by Karnataka Police, as accomplices along with the accused persons, NIA said in a press release.
-
-...
-
-[Data](articles/ed9f7337.json)
-
-[Extended Data](ext_articles/ed9f7337.ext.json)
-
----
-
-### Full analysis of the Procurement Procedure
-
-*2024-01-21 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192381) · `si`
-
-Dr. Chamal Sanjeewa, Chairman of the Medical and Civil Rights, says that the Ministry of Health should a full analysis of procurement activities in the recent past.
-
-He said that if a problem or fraud in the transactions, the current health administration should work quickly.
-
-The Chairman of the Doctors of Medical and Civil Rights UPFA points out that large amounts of funds allocated and paid in the country during the past.
-
-Dr. Chamal Sanjeewa added that the present Health Minister and Civil Rights Alliance (UPFA) of the Medical and Civil Rights, the current Health Minister and the present Health Secretary has stated that the current Health Minister and the present health secretary is responsible for recovering the amount of money lost.
-
-◼️
-
-[Data](articles/401cc1c3.json)
-
-[Extended Data](ext_articles/401cc1c3.ext.json)
 
 ---

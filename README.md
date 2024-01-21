@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 14:17:24**
+As of **2024-01-21 14:32:49**
 
 ## Newspaper Stats
 
-*Scraped **1,568** Articles*
+*Scraped **1,571** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 37
-adaderanasinhalalk | 56
+adaderanasinhalalk | 57
 islandlk | 97
 economynextcom | 103
 newsfirstlk | 106
@@ -18,7 +18,7 @@ dbsjeyarajcom | 118
 virakesarilk | 137
 dailyftlk | 150
 adalk | 168
-dailymirrorlk | 178
+dailymirrorlk | 180
 tamilmirrorlk | 195
 adaderanalk | 196
 
@@ -26,33 +26,89 @@ adaderanalk | 196
 
 Extensions include translations and NER (Named Entity Recognition).
 
-835 (53.3%) of 1,568 articles have been extended.
+848 (54.0%) of 1,571 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### සහල් ආනයනය අනවශ්‍ය බවට ඇමතිගෙන් ප්‍රකාශයක්
+### Catholic Church to declare those who died in Easter Sunday attacks as saints
+
+*2024-01-21 13:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Catholic-Church-to-declare-those-who-died-in-Easter-Sunday-attacks-as-saints/108-275433) · `en`
+
+Colombo, Jan 21 (Daily Mirror) - The Catholic Church is to declare those who died in the Easter Sunday attacks as saints, Archbishop of Colombo Cardinal Malcolm Ranjith said over the weekend.
+
+Speaking during a service at St. Sebastian's Church, Kandana, Cardinal Ranjith said the first step towards this move will be taken on April 21 this year when the country commerates the fifth anniversary of the Easter Sunday bomb attacks.
+
+"Those who died in churches on April 21, 2019  sacrificed their lives for what they believed. They came to church on that day because they believed in Christ. They sacrificed their lives because they loved Christ like other saints," he said.
+
+"A person can be named a saint only after the completion of five years since his  sacrifice. Therefore, we will move towards declaring Easter Sunday victims as saints on April 21 this year," he added.
+
+...
+
+[Data](articles/3529b651.json)
+
+---
+
+### එස් ශ්‍රීධරන් ITAK නායකත්වයට
+
+*2024-01-21 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192393) · `si`
+
+ඉලංගෙයි තමිල් අරසු පක්ෂයේ (ITAK) නව නායකයා ලෙස යාපනය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එස්. ශ්‍රීධරන් මහතා පත්ව තිබේ.
+
+අද දෙරණ වාර්තාකරු පැවසුවේ පක්ෂ නායකත්වය සඳහා අද පැවති ඡන්ද විමසීමේදී ඒ මහතා වැඩි ඡන්දයෙන් නායකත්වයට තේරී පත්ව ඇති බවය.
+
+ඉලංගෙයි තමිල් අරසු පක්ෂයේ (ITAK) නව නායකයා තේරීම සඳහා වන එම ඡන්ද විමසීම අද පෙරවරුවේ ත්‍රිකුණාමලය නගර සභා ශාලාවේ දී පැවැත්වුණි.
+
+ඒ සඳහා එම්.ඒ සුමන්තිරන්, එස් ශ්‍රීධරන් සහ එස්.යෝගේෂ්වරන් යන පාර්ලිමේන්තු මන්ත්‍රීවරුන් ඉදිරිපත්ව සිටි අතර රහස් ඡන්දයකින් නව නායකයා තෝරා පත් කර ගැනීම සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/b549c231.json)
+
+---
+
+### Police arrest three hospital staffers over assault on Onco Surgeon
+
+*2024-01-21 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-arrest-three-hospital-staffers-over-assault-on-Onco-Surgeon/108-275431) · `en`
+
+Galle, Jan 21 (Daily Mirror) - The Galle Police arrested three minor hospital staff members including a female over the alleged assault on Krishantha Perera, the Onco Surgeon at the Karapitiya Teaching Hospital.
+
+Police said the arrest was made during the investigations carried out on the basis of a complaint by the specialist doctor to the Galle Police on January 17.
+
+Accordingly, a 52-year-old female health assistant and two 45-year-old and 43-year-old assistants have been arrested.
+
+The Onco Surgeon who was alleged to have assaulted a female hospital staffer during a contentious situation that erupted at the hospital premises last Wednesday, was arrested and remanded till 22 January by the Galle Magistrate’s Court.
+
+◼️
+
+[Data](articles/a6354527.json)
+
+---
+
+### A statement from the Minister of Rice is unnecessary
 
 *2024-01-21 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192392) · `si`
 
-රටට අවශ්‍ය සහල් ප්‍රමාණය රට තුළම නිෂ්පාදනය කිරීමට මේ වන විටත් කටයුතු කරමින් සිටින බව අමාත්‍ය මහින්ද අමරවීර මහතා පවසයි.
+Minister Mahinda Amaraweera says that the amount of rice required for the country is currently working in the country.
 
-ඒ අනුව සහල් රටින් ගෙන්වීමට අවශ්‍යතාවක් නැතැයි අමාත්‍යවරයා සඳහන් කළේය.
+The Minister stated that rice is not imported from the country.
 
-එවන් පසුබිමක සහල් සැකසුම් ක්‍රියාවලිය වෙනුවෙන් 1984 වර්ෂයේ ඉදිකර තිබූ වී අලෙවි මණ්ඩලය සතු ස්ථානයක් අද වන විට විනාශ මුඛයට යාමේ සිද්ධියක් වාර්තා වෙයි.
+The paddy marketing Board was built in 1984 for the rice processing process in 1984 for the rice processing process.
 
-රුපියල් කෝටි ගණනක වියදමක් දරමින් බුල්නෑව සහල් සැකසුම් මධ්‍යස්ථානය ආරම්භයෙන් පසු ඒ හරහා විශාල පිරිසකට රැකියා ද හිමි විය.
+After the opening of bulnewa rice processing center, the Billions of rupees, had a large number of jobs.
 
-අඛණ්ඩ ව වසර 05ක් පුරා සහල් සැකසුම් ක්‍රියාවලිය සිදු කළ මෙම ස්ථානය වසර ගණනාවක සිට කිසිදු ප්‍රයෝජනයක් ගෙන නොමැති ව වසා දමා ඇති බවට ප්‍රදේශවාසිහු චෝදනා කරති.
+The area alleges that the rice processing process has been closed for several years since the past five years.
 
-ගොඩනැගිලි පාලුවට යාමෙන් අභාවයට පත් වන මෙම ස්ථානය අද වන විට මැසි මදුරුවන් බෝ වන ස්ථානයක් මෙන්ම ගවයන්ගේ නවාතැන්පොළක් බවට පත් ව හමාර ය.
+The place, which is decomposed to the control, has been a place of becoming a place where the flies are a place where the cattle is a place.
 
-රටේ ආහාර අර්බුද පවතින පසුබිමක මෙවැනි වටිනා සම්පතක් විනාශ මුඛයට යාම වැළැක්වීමට වගකිව යුතු බලධාරීන්ගේ අවධානය යොමු විය යුතු බව 'අද දෙරණ' සිහිපත් කරයි.
+The Ada Derana recalls that such a valuable authorities should be brought to prevent the attention of this precious resource in the backdrop of food crises in the country.
 
 ◼️
 
 [Data](articles/7de6e3bd.json)
+
+[Extended Data](ext_articles/7de6e3bd.ext.json)
 
 ---
 
@@ -76,47 +132,51 @@ The mighty Hindu Kush mountain range cuts through the province, which is home to
 
 ---
 
-### ජනපතිගේ වැඩපිළිවෙළට ගෝලීය නායකයන්ගේ පැසසුම
+### Global leaders are commended for the President's program
 
 *2024-01-21 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192391) · `si`
 
-ශ්‍රී ලංකාවේ ආර්ථිකය ගොඩනැඟීමට ජනපති ගෙන යන වැඩපිළිවෙළ ගෝලීය නායකයන්ගේ පැසසුමට ලක් ව ඇති බව විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා පවසයි.
+External Affairs Minister Ali Sabri says the global leaders of the global leaders who are carrying out the economy of Sri Lanka to build the economy in Sri Lanka.
 
-ජනපති උගන්ඩාවේ සිදු කරන නිල සංචාරය පිළිබඳ අදහස් දක්වමින් අමාත්‍යවරයා මේ බව ප්‍රකාශ කළේය.
+The Minister made this statement regarding the President's official visit to Uganda.
 
-මේ අතර, උගන්ඩාවේ කම්පාලා නුවර දී G77 හා චීනය 03 වැනි දකුණු සමුළුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද (21) ඇමතීමට නියමිත ව තිබේ.
+Meanwhile, President Ranil Wickremesinghe is scheduled to be addressed today (21) at Uganda's Kampala, the 3rd South Conference.
 
-උගන්ඩාවේ කම්පාලා නුවර පැවැත්වුණු නොබැඳි ජාතීන්ගේ සමුළුවට සමගාමී ව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා හා ටැන්සානියා අග්‍රාමාත්‍ය කසිම් මජ්අලීවා මහතා අතර හමුවක් පැවැත්විණි.
+President Ranil Wickremesinghe and Tanzania was held between the President Ranil Wickremesinghe and Tanzania Prime Minister Kasim Mage Alva.
 
-එමෙන්ම බහමාස් රාජ්‍යයේ අග්‍රාමාත්‍ය පිලිප් ඩේවිස් මහතා ද ජනාධිපතිවරයා හමු වී ද්විපාර්ශ්වික සාකච්ඡා පැවැත්වීය.
+Prime Minister Prime Minister Prime Minister Philip Davis also met the President and held bilateral discussions.
 
-මේ අතර, අප්‍රිකානු රටවල් රැසක් සමඟ සබඳතා තර කර ගැනීමට ජනාධිපතිවරයාගේ නිල සංචාරය ඉවහල් වූ බව විදේශ කටයුතු අමාත්‍ය ජනාධිපති නීතිඥ අලි සබ්‍රි මහතා පවසයි.
+Meanwhile, External Affairs Minister Ali Sabri says the President's official visit to the President's official visit to the President to strengthen relations with many African countries.
 
-මේ අතර, G77 හා චීනය 03 වැනි දකුණු සමුළුව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අද ඇමතීමට නියමිත ව තිබේ.
+Meanwhile, President Ranil Wickremesinghe is scheduled to be addressed today, including G77 and China.
 
 ...
 
 [Data](articles/ccbe6ca9.json)
 
+[Extended Data](ext_articles/ccbe6ca9.ext.json)
+
 ---
 
-### ශ්‍රම බළකාය මුහුණ දී ඇති අර්බුදයක් පිළිබඳ දැනුම්දීමක්
+### Notice on a crisis faced by the workforce
 
 *2024-01-21 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192390) · `si`
 
-මෙරට ශ්‍රම බළකායෙන් වැඩි පිරිසක් මේ වන විට මත්ද්‍රව්‍යවලට ඇබ්බැහි වී ඇති බව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකොන් මහතා පවසයි.
+Acting IGP says that most of the labor force in Sri Lanka is addicted to drugs.
 
-මත්ද්‍රව්‍ය නිවාරණය පිළිබඳ ප්‍රජාව දැනුම්වත් කිරිම වෙනුවෙන් මහරගම දී පැවති වැඩසටහනකට එක්වෙමින් ඔහු මේ අදහස් පළ කළේය.
+He was speaking at a program held in Maharagama to announce the community of drug prevention.
 
-ප්‍රජා පොලිස් පිහිටුවීමේ පස් වැනි අදියර ලෙස කොළඹ මධ්‍යම කොට්ඨාසයේ ප්‍රජා පොලිස් නිලධාරින් දැනුම්වත් කිරීමේ උත්සවයක් මාලිගාවත්ත පීඩී සිරිසේන ක්‍රීඩාංගනයේ දී ඊයේ (20) පැවැත්විණි.
+The Colombo Central Central Division was held yesterday (20) at the Maligawatta PD Sirisena Stadium yesterday as the fifth stage of the Community Police Station.
 
-ඒ, මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් සහ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකොන් මහතාගේ ප්‍රධානත්වයෙනි.
+That is the chairman of the Hon. Tiran Alles and Acting Inspiry Tennakoon.
 
-පොලිස් වසම් 08ක් නියෝජනය කරමින් ප්‍රජා පොලිස් සාමාජිකයන් 2,100ක් එම වැඩසටහනට සහභාගි වී සිටියේය.
+2,100 community police officers representing eight police divisions were participated in the program.
 
 ◼️
 
 [Data](articles/15675cb7.json)
+
+[Extended Data](ext_articles/15675cb7.ext.json)
 
 ---
 
@@ -138,27 +198,33 @@ Drugs including 270 grams of heroin, 140 grams of ICE and 18kg of cannabis were 
 
 ---
 
-### තෙලිජ්ජවිල වෙඩි තැබීම අත්වැරදීමක් බවට හෙළිදරව්වක්
+### The shooting of the Thelejaja Village was a mistake
 
 *2024-01-21 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192389) · `si`
 
-මාතර - තෙලිජ්ජවිල ප්‍රදේශයේ ඊයේ (20) රාත්‍රියේ සිදු වූ වෙඩි තැබීමෙන් මිය ගොස් ඇත්තේ, අපරාධකරුවන්ගේ ඉලක්කය වූ පුද්ගලයා නොවන බවට පොලිස් විමර්ශනවලින් අනාවරණය වී තිබේ.
+Police investigations have revealed that the criminals target was not the victim of the criminals last night (20).
 
-පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යේෂ්ඨ පොලිස් අධිකාරී නිතීඥ නිහාල් තල්දූව මහතා සඳහන් කළේ, අදාළ වෙඩි තැබීමෙන් මිය ගොස් ඇත්තේ, 22 හැවිරිදි තරුණයෙකු බවයි.
+Police Media Spokesperson SSP SSP Nihal Talduuwa said that the shooting was a 22 year old youth.
 
-ඔහු වෙඩිතැබීම සිදු වූ දුරකථන උපාංග අලෙවිසලට පැමිණි අයෙකු වන අතර, අපරාධකරුවන්ගේ ඉලක්කය වී තිබූණේ එම අලෙවිසලේ හිමිකරු බවට සිදු කළ විමර්ශනවල දී අනාවරණය වූ බව නිහාල් තල්දූව මහතා පැවසීය.
+He said he had come to the telephone relocation of the shooting and the aim was owned by the criminals, "Nihal Talduuwa said.
 
-මාතර - මාලිම්බඩ පොලිස් වසමේ තෙලිජ්ජවිල මංසන්ධියේ පිහිටි ජංගම දුරකථන උපාංග අලෙවිසලක දී පුද්ගලයෙකු ඉලක්ක කරගෙන වෙඩි තැබීමක් සිදු වුණේ ඊයේ (20) රාත්‍රී 08ට පමණ ය.
+At a mobile phone accessory at the Theljjawila juncture of the Matara-Maljjawila police division, a person was targeting at around 8.0 pm yesterday (20).
 
-යතුරු පැදියකින් පැමිණි පුද්ගලයන් දෙදෙනකු එම වෙඩි ප්‍රහාරය එල්ල කර තිබිණි.
+Two people who came on a motorcycle were shot.
 
-යතුරු පැදියෙන් පැමිණි දෙදෙනාගෙන් එක් පුද්ගලයෙකු දුරකථන උපාංග අලෙවි අලෙවිසලට ඇතුළු වී වෙඩිතැබීම සිදු කර ඇත.
+One person who came on the motorcycle has entered the telephone shop outlet and shooting.
 
-ඝාතකයන්, වෙඩිතැබීමට පෙර ද දුරකථන උපාංග අලෙවිසලට පැමිණ ඡායාපිටපත් ලබා ගැනීමට අවශ්‍ය බවට පවසා ඇති අතර, එහි දී හිමිකරු පවසා ඇත්තේ අදාළ පහසුකම නොමැති බවයි.
+Prior to the murderers, the telephone relocation had also been asked to obtain photocopies, and the owner has said that there is no support.
+
+Accordingly, the suspects have come back later and shooting.
+
+At the time of shooting, the owner of the telephone release was staying outside, and in the outlet, another young man, a friend of owner.
 
 ...
 
 [Data](articles/dfc3072d.json)
+
+[Extended Data](ext_articles/dfc3072d.ext.json)
 
 ---
 
@@ -2017,73 +2083,5 @@ In a sign of tighter supply, the market structure of Brent – which is used to 
 [Data](articles/d45bb364.json)
 
 [Extended Data](ext_articles/d45bb364.ext.json)
-
----
-
-### Explosives in the woman's underwear ...
-
-*2024-01-20 20:21:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணின்-உள்ளாடைக்குள்-வெடிபொருட்கள்/175-331849) · `ta`
-
-Kottavehara police have arrested a woman who was hiding in the underwear during a raid on roadblocks at the Kottavehra Balukus junction.
-
-Police searched long -range buses using police snake dogs in Kottawera, Balukas junction yesterday (19), along with the Special Task Force.
-
-In the bus, a woman was checked, police said two tetanators, 165 grams of black ammunition, 605 grams of ammonia and 10 feet long service threads hidden in her underwear, police said.
-
-Investigations carried out by the suspect have reportedly taken the ammunition while working in Kalkwari.
-
-He told the police that he had brought the ammunition to break a stone at the back of his house.
-
-However, as the conflicts are found in his affidavits, the suspect will be detained and interrogated for further investigations. Remble
-
-◼️
-
-[Data](articles/55f103c9.json)
-
-[Extended Data](ext_articles/55f103c9.ext.json)
-
----
-
-### I'm not afraid of the attack, but I'm not coming in fear - Sanath Nishantha
-
-*2024-01-20 20:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192367) · `si`
-
-State Minister Sanath Nishantha says that reports have to come to attending a meeting due to objections of the area.
-
-He was responding to reports of the protest of the people of State Minister Sanath Nishantha in Puttalam and Daluwa.
-
-The primary discussion was scheduled to come in Duluwa area on the 'Diyamalapura-Nawakeva' road on the World Bank assistance in Puttalam.
-
-However, the villagers have opposed the interference to intervene for the development project.
-
-When the floods were severely affected by the people of their village, a politician was not committed regarding herself.
-
-It was reported that State Minister Sanath Nishantha, who was entitled to the villagers, he had returned to the scene.
-
-...
-
-[Data](articles/74f6e4ef.json)
-
-[Extended Data](ext_articles/74f6e4ef.ext.json)
-
----
-
-### Prices of imported eggs to increase
-
-*2024-01-20 20:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96579/prices-of-imported-eggs-to-increase-) · `en`
-
-The prices of eggs imported from India are slated to be increased with effect from 21 January, Trade Minister Nalin Fernando revealed.
-
-According to the Minister, these eggs will be retailed at Rs. 43 per egg at all Sathosa outlets countrywide.
-
-Imported eggs were previously retailed at Rs. 35 per egg, while a carton was sold at Rs. 40 per egg at all Lanka Sathosa outlets.
-
-Sri Lanka began to import eggs in the first half of 2023, amidst a severe shortage, in response to the soaring prices of eggs within the local market.
-
-◼️
-
-[Data](articles/5e0603ad.json)
-
-[Extended Data](ext_articles/5e0603ad.ext.json)
 
 ---

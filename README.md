@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 11:02:24**
+As of **2024-01-21 11:17:21**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ tamilmirrorlk | 190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-627 (41.3%) of 1,517 articles have been extended.
+645 (42.5%) of 1,517 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ According to the Ministry of Public Security, a total of 270g of heroin, 140g of
 ◼️
 
 [Data](articles/7f34b2cd.json)
+
+[Extended Data](ext_articles/7f34b2cd.ext.json)
 
 ---
 
@@ -138,17 +140,21 @@ Dr. Chamal Sanjeewa added that the present Health Minister and Civil Rights Alli
 
 ---
 
-### ජනපති ලක්ෂ 2000ක් වෙන්කරගෙන රට සවාරි යනවා
+### President reserves Rs. 2,000 million
 
 *2024-01-21 08:10:50* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලක්ෂ-2000ක්-වෙන්කරගෙන-රට-සවාරි-යනවා/11-407635) · `si`
 
-ආණ්ඩුවේ රාජ්‍ය ආදායම වැඩ කර ගැනීම සඳහා අයි.එම්.එෆ්. කී යැයි පවසා වැට් බදු ඇතුළු බදු අධික ලෙස වැඩි කර තිබියදී පාසල්වල පරිගණක නොමැති තත්ත්වයක් උදා වී තිබියදී රටේ ජනාධිපතිවරයා පරිපූරක ඇස්තමේන්තුවක් හරහා රටේ ජනතාවගේ බදු මුදල් රුපියල් ලක්ෂ 2000ක් උපයෝගී කර ගෙන විදේශ සංචාර යන බවත් බංකොලොත් රටේ මහජනතාව හාමතේ සිටින විට ජනාධිපති ප්‍රමුඛ රජය සුරසැප විඳින බවත් විපක්ෂ නායකවරයා පැවසීය.
+IMF to work in government income. The president of the country is the prospect of the president of the country, which has been exposed to the country's Taxes through the country's trips and is in the country's masses by supplementary inspection of the country through a supplementary estimation of the country's taxes.The Opposition Leader said.
 
-රටේ බදු මුදල් වියදම් කර ලෝක සවාරි යන්න ජනාධිපතිවරයා විසින් විපක්ෂයේ මන්ත්‍රීවරුන්ට පවා ආරාධනා කළ බවත් ජනාධිපති ලේකම් කාර්යාලයෙන් මෙන්ම පාර්ලිමේන්තු නිලධාරීන් පවා කතා කරමින් මෙවැනි ආරාධනා සිදු කරන බවත් පාසල් දූදරුවන්ට හරිහැටි අධ්‍යාපන උපකරණ නොමැතිව දුක්විදින මොහොතක ජනාධිපති ලේකම් කාර්යාලයේ සහ පාර්ලිමේන්තුවේ නිලධාරීන් උපයෝගී කර ගෙන විපක්ෂයේ මන්ත්‍රීවරු බිලි බා ගැනීමට ජනාධිපතිවරයා උත්සාහ කරන බවත් විපක්ෂ නායකවරයා අවධාරණය කළේය.
+The President also invited the opposition MPs to spend the country's tax on the country, and even the Presidential Secretariat and even parliamentary officers will be used without educational equipment.The opposition leader emphasized that the President is trying to download.
+
+Opposition Leader Sajith Premadasa said that as the Opposition Leader was able to provide the new classroom equipment to Uganda in the Western Province of Opposition as the Opposition Leader in the Western Province.
 
 ...
 
 [Data](articles/c73c4f59.json)
+
+[Extended Data](ext_articles/c73c4f59.ext.json)
 
 ---
 
@@ -604,29 +610,35 @@ The Indian Foreign Minister has stated that President Ranil Wickremesinghe has p
 
 ---
 
-### 'හෝයියා හෝයියා ඕඩි හෙලෙයි හෙලෙයියා' : ගාලු වැල්ලේ සවසක මා දැලක් අදිමුද?
+### 'Haiah haye oddi helei Helei': Is I heladd by the Galle Sella?
 
 *2024-01-21 03:01:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cner9n8r99lo) · `si`
 
-'හෝයියා හෝයියා ඕඩි හෙලෙයි හෙලෙයියා' : ගාලු වැල්ලේ සවසක මා දැලක් අදිමුද?
+'Haiah haye oddi helei Helei': Is I heladd by the Galle Sella?
 
-දක්ෂිණ අධිවේගී මාර්ගයේ පින්නදුව පිවිසුමෙන් පිට වී ගාල්ල දෙසට යනවිට මාර්ටින් වික්‍රමසිංහ සූරීන් විස්තර කර ඇති පරිදි සුදු රේන්දයට ඇල්ලූ කළු පීත්ත පටිය ලෙසින් දිස්වන්නේ ගාල්ල මාතර ප්‍රධාන මාර්ගය යි.
+Galle Matara main road is the Galle Matara main road as Martin Wickremasinghe Sorcha, who has been identified as Sorga to the Southern Expressway.
 
-ඉර බැස යන යාමේ  නෙත ගැටෙනා මැවෙන සොඳුරු දසුන අද්විතීයය වන අතර එය විඳගත යුතුම අපූර්වත්වයකි.
+The brightness of the sun is unique, and it is an essential uniqueness.
 
-ඒ සමගම විශාල පිරිසක් වෙරළේ පොදි බැඳගෙන සිටින අයුරු දකින්නට ලැබුණි.
+At the same time, a large number of people were visiting the shore.
 
-එය කුමක්දැයි බැලීම සඳහා ගියවිට අපිට දකින්නට ලැබුණේ විශාල මා දැලක් අදින අයුරුය.එය ශ්‍රී ලාංකාවේ තවත් එක් සාම්ප්‍රදායික ධීවර පන්න ක්‍රමයකි.
+When I went to see what it was, we saw a large net that I was dragged in a large number of traditional fishing in Sri Lanka.
 
-වෙරළේ සිට කිලෝමීටර් එකහමාරක් පමණ ඈත මුහුදේ සිට මසුන් අල්ලන මාදැල් ඇදීම මෙරට සාම්ප්‍රදායික ධීවර පන්න ක්‍රමයකි.
+Sri Lanka's traditional fishing is a way to fish from the remote sea to the shore.
 
-මුහුද සමග පොරබදන පිරිසට අමතරව මාදැලට අසුවන මාළු මිලදී ගැනීමට පැමිණි පිරිසද "හෝයියා හෝයියා ඕඩි හෙලෙයි හෙලෙයියා" කියා මා දෑල අදින අයුරු දුටු විට අපද පාවහන් ගලවමින් එම පිරිස සමග මාදැල් අදින්නට වුනෙමු.එය සුන්දර අත්දැකීමකි.
+When I saw the signs of the sea, I gained the footwear with the crowd, and shake the shares with them.
 
-රසබර සිදුවීම්, දුක්බර සිදුවීම් මෙන්ම භයානක සිදුවීම් පිළිබඳවද ඔවුන්ගේ අත්දැකීම් රැසකි.
+Their experiences are many experiences of sweetest events, sadness and dangerous events.
+
+The net was laundered by the two-kilometer-wide-covered core sodes, pulled out for the land.
+
+The fish caught in the net, the eyes stop at the bunch of eyes. The fish caught with the nets, hurdles, hurley, newly, balls, Kumblaw, Flights.
 
 ...
 
 [Data](articles/9d3210f5.json)
+
+[Extended Data](ext_articles/9d3210f5.ext.json)
 
 ---
 

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 11:33:18**
+As of **2024-01-21 11:52:18**
 
 ## Newspaper Stats
 
-*Scraped **1,532** Articles*
+*Scraped **1,533** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 37
-adaderanasinhalalk | 49
+adaderanasinhalalk | 50
 islandlk | 97
 economynextcom | 101
 newsfirstlk | 102
@@ -26,11 +26,33 @@ tamilmirrorlk | 192
 
 Extensions include translations and NER (Named Entity Recognition).
 
-670 (43.7%) of 1,532 articles have been extended.
+686 (44.7%) of 1,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### Three persons arrested for assaulting the expert
+
+*2024-01-21 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192386) · `si`
+
+The Galle Police have arrested two employees and employees who have been arrested by the Krishantha Perera, who has been assaulted by Dr. Krishantha Perera in charge of the Karapitiya Teaching Hospital.
+
+The arrest was carried out on the 17th in the investigation carried out by the relevant doctor on the 17th, the police spokesman's office said that the arrest has been made.
+
+The arrested were 52-year-old health assistants and two-year-old and 43 year old health supporters.
+
+The doctor had taken place between the Barcitiya Hospital Cancer staff and specialist Dr. Krishantha Perera in charge of the unit in charge of the unit of the health workers held on the 16th..
+
+Meanwhile, a junior staff worker was hospitalized after the doctor was assaulted by the doctor at the time.
+
+◼️
+
+[Data](articles/2d976161.json)
+
+[Extended Data](ext_articles/2d976161.ext.json)
+
+---
 
 ### Iran vows revenge over deadly missile strike in Damascus
 
@@ -52,6 +74,8 @@ Asked about the strike, the Israeli military told AFP: “We do not comment on r
 
 [Data](articles/fc5e0e72.json)
 
+[Extended Data](ext_articles/fc5e0e72.ext.json)
+
 ---
 
 ### Nearly 1,000 arrested during ’Yukthiya’ operation within 24 hours
@@ -72,23 +96,31 @@ Also, among the 324 arrested suspects in the list sent to the criminal division,
 
 [Data](articles/82926fdf.json)
 
+[Extended Data](ext_articles/82926fdf.ext.json)
+
 ---
 
-### இலஞ்சம் வழங்க முயன்ற சட்டத்தரணியின் ஒலிப்பதிவு கசிவு
+### The soundtrack of the lawyer who sought bribery
 
 *2024-01-21 10:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வழங்க-முயன்ற-சட்டத்தரணியின்-ஒலிப்பதிவு-கசிவு/175-331875) · `ta`
 
-​வீரகுல பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ள ஒழுங்கமைக்கப்பட்ட குற்றவாளியான கணேமுல்ல சஞ்சீவவின் உறவினரை பிரதிநிதித்துவப்படுத்தியதாக சந்தேகிக்கப்படும் பொலிஸ் அதிகாரி ஒருவருக்கும் பெண் சட்டத்தரணி ஒருவருக்கும் இடையில் கசிந்த உரையாடல் ஒலிப்பதிவு ஒன்று வெளியாகியுள்ளது.
+A leaked conversation between a police officer and a female lawyer suspected of representing a relative of Ganemulla Sanjeeva, an organized culprit, detained at the Weerakula police station.
 
-உரையாடலின் போது, ​​சட்டத்தரணி போதைப்பொருள் தடுப்புப் பிரிவைச் சேர்ந்த உதவிப் பொலிஸ் அத்தியட்சகருக்கு இலஞ்சம் வழங்க முயன்றதாகக் கூறப்படுகிறது.
+During the conversation, it was reported that the Attorney -at -Law had tried to bribe the Assistant Superintendent of Police.
 
-கனேமுல்ல சஞ்சீவவுக்கு எதிரான போதைப்பொருள் கடத்தல் வழக்குடன் தொடர்புடைய மகிழங்கமுவ பிரதேசத்திலுள்ள வீடொன்றில் விசாரணைகளை மேற்கொள்வதற்காக பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவின் அதிகாரிகள் குழுவொன்று அனுப்பி வைக்கப்பட்டதாகத் தெரிவிக்கப்படுகிறது.
+It is reported that a team of police narcotics unit officials have been sent to investigate an investigation into the drug trafficking case against Kanemulla Sanjeeva.
 
-கணேமுல்ல சஞ்சீவவின் உறவினரை பிரதிநிதித்துவப்படுத்தும் சட்டத்தரணி என தன்னை அடையாளப்படுத்திக் கொண்ட பெண் ஒருவர் அந்த இடத்தில் தலையிட்டு குறிப்பிட்ட வீட்டை சோதனையிட வேண்டாம் என அதிகாரிகளை வற்புறுத்தியதாக வட்டாரங்கள் தெரிவித்தன.
+Sources said that a woman who identified herself as a lawyer representing Ganemulla Sanjeeva's cousin had intervened and urged the authorities not to intervene.
 
-...
+The lawyer from the Gampaha area tried to bribe him after the failure to prevent the search of the ASP of the Drug Eradication Unit failed.
+
+Daily Mutor
+
+◼️
 
 [Data](articles/827ef63d.json)
+
+[Extended Data](ext_articles/827ef63d.ext.json)
 
 ---
 
@@ -106,6 +138,8 @@ Despite the immediate response of a lifeguard at the hotel, however, the victim 
 
 [Data](articles/2b6fd32b.json)
 
+[Extended Data](ext_articles/2b6fd32b.ext.json)
+
 ---
 
 ### New professional guidance programme to be launched for A/L students
@@ -120,79 +154,93 @@ According to the Minister, the initiative is expected to be held at over 300 cen
 
 [Data](articles/a60170a3.json)
 
+[Extended Data](ext_articles/a60170a3.ext.json)
+
 ---
 
-### இந்திய பெருங்கடலில் நிலநடுக்கம்
+### Earthquake in the Indian Ocean
 
 *2024-01-21 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174432) · `ta`
 
-இந்திய பெருங்கடலின் தென்மேற்கு பகுதியில் இன்று ஞாயிற்றுக்கிழமை (21) அதிகாலை 3.39 மணியளவில் 6.3 ரிச்டர் அளவில் நிலநடுக்கம் ஏற்பட்டுள்ளதாக அமெரிக்க புவியியல் ஆய்வு மையம் தெரிவித்துள்ளது.
+The 6.3 magnitude earthquake struck at 3.39 am on Sunday (21) in the southwest of the Indian Ocean, the US Geological Survey said.
 
-இந்த நிலநடுக்கம் குறித்த பகுதியில் சுமார் 10 கிலோ மீற்றர் ஆழத்தில், மடகாஸ்கரில் இருந்து 1,636 கிலோ மீற்றர் தொலைவில் ஏற்பட்டுள்ளது.
+The quake occurred at a depth of about 10 km in the area, at a distance of 1,636 km from Madagascar.
 
 ◼️
 
 [Data](articles/b1bcaeaf.json)
 
+[Extended Data](ext_articles/b1bcaeaf.ext.json)
+
 ---
 
-### මාතලේ ටී ජේ සි අඹ කිලෝව රු. 100ට අඩුවෙයි
+### T JD Jaya in Matale Rs. Lacks to 100
 
 *2024-01-21 10:32:28* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-ටී-ජේ-සි-අඹ-කිලෝව-රු--100ට-අඩුවෙයි/11-407641) · `si`
 
-විවිධ සමාගම් හා රාජ්‍ය අනුග්‍රහය යටතේ මාතලේ දිස්ත්‍රික්කයේ වගාකරනු ලැබු ටොම් ඇන්ඩ් ඊ ජේ සි අඹ වි‍ශේෂයේ අධික අස්වැන්නක් ලැබීම් හේතුවෙන් කිලෝවක් රුපියල් සීයයක් වැනි මිලකට මේ දින වල අලවි වන බැවි වගාකරුවෝ කියා සිටිති.
+Due to the high yield of Tom & JJ, which was cultivated in Matale District under various companies and sponsors, the growers of the mango special.
 
-වගාවන් සදහා පැල හා අවශ්‍ය උපදෙස් ලැබුන ද අලවිය සම්බන්ධයෙන් නිසි වැඩපිළිවෙලක් නොමැති කම හරහා ටී ජේ සි අඹ වගා කල බොහෝ ගොවීන් මේ වන විට සිය අස්වනු අඩු මුදලට අලවි කිරිමට සිදුවීම සම්බන්ධයෙන් කනස්සල්ල පලකරති.
+Many farmers who cultivated the Tauge invested by the lack of a proper program for cultivation and the necessary advice on the pascality are worried about the sale of harvesting money.
 
-මාතලේ දිස්ත්‍රික්කයේ පමණක් මේ වන විට ටී ජේ සි අඹ විශේෂයේ පැල දහස් ගනනක් වගාකර තිබේ.
+Thousands of plants in the mango species have been cultivated in the same district alone.
 
-වියළි කාගුණික තත්ත්වයක් යටතේ හොඳ අස්වැන්නක් ලැබෙන මෙම ශාකය වගා කල අවස්ථාවන් වල දි අඹ කිලෝවක් රුපියල් අට සීයයක් වැනි මිලකට අලවි වු බැවි ගොවින් කියා සිටිති.
+A good harvesting plant under a dry cracket, a kilogram of mangoes as a casket is made up of Rs.
 
-මේ වන විට අඹ ශාක දහස් ගනනක අස්වැන්න එක වර ලැබීම හා මිලදී ගැනීමේ නිසි ක්‍රමවේදයක් නොමැතිකම හේතුවෙන් සිය අස්වැන්න කුණුකොල්ලයට දීමට සිදුවී ඇති බව වගාකරුවෝ කියා සිටිති.
+The growers are said to have had to give their harvests to the dirt receiving the harvest and lack of mango plants.
 
-ටී ජේ සි අඹ විශේෂ සදහා විශේෂ පොහොර මෙන්ම ගෙඩි ආවරණය සදහා විශේෂයෙන් සැකසු බෑග් වර්ග අවශ්‍ය බවත් ඒ සදහා විශාල පිරි වැයක් දැරීමට සිදුවන බවත් වගාකරුවෝ කියා සිටිති.
+The growers of the tea JC require special fertilizers as well as the coverage of the nuts and that they will have a large bodies.
 
-...
+At the Dambulla Economic Center, Ti JC mango was priced at Rs. 180.00.
+
+However, the retail retail retail price of the city of Kandy and Matale were a sum of Rs.
+
+◼️
 
 [Data](articles/5e0f1a4c.json)
 
+[Extended Data](ext_articles/5e0f1a4c.ext.json)
+
 ---
 
-### ඔංචිල්ලාවේ ලණුව සිර වීමෙන් දරුවෙකු ජීවිතක්ෂයට
+### Child killed in jail
 
 *2024-01-21 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192385) · `si`
 
-මුලතිව් - සෙම්මලෙයි ප්‍රදේශයේ දී ඔංචිල්ලාවක ලණුවක් ගෙලේ සිර වීමෙන් වයස අවුරුදු 10ක දරුවෙකු ඊයේ (20) සවස ජිවිතක්ෂයට පත් ව ඇති බව මුලතිව් - කෝකිලායි පොලීසිය පවසයි.
+A 10-year-old child was killed in a rope in the Mullaittivu area in Mullaittivu area yesterday (20).
 
-පොලීසිය පැවසූවේ, ඔංචිලි පදිමින් සිටි අවස්ථාවේ ලණුව ගෙලේ සිර වීමෙන් දරුවා ජිවිතක්ෂයට පත් ව ඇති බවයි.
+The police said that the child was killed in the rope of the cord when he was heading.
 
-දරුවා කඩිනමින් මුලතිව් රෝහලට ඇතුළත් කොට ඇති නමුත් එහි දී ඔහු ජිවිතක්ෂයට පත් ව ඇත.
+The child has been admitted to the Mullaitivu hospital expedited but he has been killed.
 
-මිය ගිය දරුවාගේ මරණය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය මුලතිව් රෝහලේ පැවැත්වීමට නියමිත අතර, සිද්ධිය සම්බන්ධයෙන් කෝකිලායි පොලීසිය වැඩිදුර පරීක්ෂණ මෙහෙයවයි.
+The Mullaitivu Hospital will be held at the Mullaitivu Hospital on the death of the dead child and the Kokilai police are conducting further investigations.
 
 ◼️
 
 [Data](articles/bfda4712.json)
 
+[Extended Data](ext_articles/bfda4712.ext.json)
+
 ---
 
-### ஈராக்கில்  அமெரிக்க விமானப்படை தளத்தை இலக்குவைத்து  ஏவுகணை தாக்குதல் - பல அமெரிக்க படையினர் காயம்
+### Missile attack targeting US Air Force Base in Iraq - Many US soldiers injured
 
 *2024-01-21 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/174429) · `ta`
 
-ஈராக்கின் மேற்கு பகுதியில் அமெரிக்க தளமொன்றை இலக்குவைத்து மேற்கொள்ளப்பட்ட ஏவுகணை தாக்குதலில் பல அமெரிக்க படையினர் காயமடைந்துள்ளனர்.
+Several US soldiers have been injured in a missile attack targeting a US base in Iraq.
 
-ஆசாட் விமானபடைதளம் மீது ஈரான் சார்பு குழுவினர் தாக்குதலை மேற்கொண்டனர் என அமெரிக்க குற்றம்சாட்டியுள்ளது.
+The US alleges that a pro -Iranian group attacked the Azad airport.
 
-குறிப்பிடபடாத எண்ணிக்கையிலான அமெரிக்க படையினர் மூளை காயங்களிற்கு உட்பட்டுள்ளனரா என்ற மதிப்பீடுகள் இடம்பெறுகின்றன.
+There are estimates that an unprecedented number of US soldiers are under brain injuries.
 
-ஈராக்கில் உள்ள இஸ்லாமிக் ரெசிஸ்டன்ஸ் என்ற அமைப்பே இந்த தாக்குதலை மேற்கொண்;டுள்ளது,2023 இல் உருவான இந்த குழு ஈராக்கில் உள்ள பல ஆயுதகுழுக்களை உள்ளடக்கியதாக காணப்படுகின்றது.
+The attack was carried out by the Islamic Resistance in Iraq, and the group, which was formed in 2023, included many armed groups in Iraq.
 
-இந்த குழுவினரே ஈராக்கில் உள்ள அமெரிக்க தளங்கள் மீதான தாக்குதல்களிற்கு உரிமை கோரிவருகின்றனர்.
+This group is claiming attacks on US sites in Iraq.
 
 ◼️
 
 [Data](articles/a3ded2e4.json)
+
+[Extended Data](ext_articles/a3ded2e4.ext.json)
 
 ---
 
@@ -212,89 +260,103 @@ According to the Ministry of Public Security, a total of 270g of heroin, 140g of
 
 ---
 
-### ராமர் கோயிலில் தாக்குதல் நடத்த பாக். தீவிரவாதிகள் சதி
+### Pak to attack Rama Temple. The plot of extremists
 
 *2024-01-21 09:57:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமர்-கோயிலில்-தாக்குதல்-நடத்த-பாக்-தீவிரவாதிகள்-சதி/175-331871) · `ta`
 
-உத்தர பிரதேசம், அயோத்தியில் சுமார் 70 ஏக்கர் பரப்பளவில் பிரம்மாண்ட ராமர் கோயில் கட்டப்பட்டு உள்ளது. இந்த கோயிலின் திறப்பு விழா நாளை நடைபெறுகிறது. இதில் பிரதமர் நரேந்திர மோடி, மடாதிபதிகள், அரசியல் தலைவர்கள், திரையுலகம், விளையாட்டு துறை பிரபலங்கள், வெளிநாட்டு தலைவர்கள் என 11,000 மிகவும் மிக முக்கியமான நபர்கள் பங்கேற்க உள்ளனர்.
+About 70 acres of land in Uttar Pradesh and Ayodhya. The opening of the temple takes place tomorrow. Prime Minister Narendra Modi, Madhapati, political leaders, film industry, sports industry celebrities and foreign leaders will be participating in the event.
 
-ராமர் கோயில் திறப்பு விழாவின்போது தாக்குதல் நடத்துவோம் என்று பாகிஸ்தானை சேர்ந்த லஷ்கர் இ தொய்பா, ஜெய்ஷ் இ முகமது உள்ளிட்ட தீவிரவாத அமைப்புகள் பகிரங்கமாக எச்சரிக்கை விடுத்துள்ளன. ராமர் கோயில் திறப்பு விழாவின்போது தற்கொலைப்படை தாக்குதல் நடத்த பாகிஸ்தான் தீவிரவாத அமைப்புகள் சதித் திட்டம் தீட்டியிருப்பதாக உளவுத் துறை எச்சரிக்கை விடுத்துள்ளது. இதன்காரணமாக அயோத்தி நகரம் முழுவதும் பலத்த பாதுகாப்பு ஏற்பாடுகள் செய்யப்பட்டு உள்ளன.
+Terrorist organizations, including Pakistan's Lashkar -e -Taiba and Jaish -e -Mohammed, have publicly warned that they will attack the Rama Temple inauguration.. Pakistani extremist organizations have conspired to carry out suicide bombings during the opening of the Rama Temple. As a result, there are strong security arrangements throughout Ayodhya.
+
+Ayodhya City Security has been handed over to the Central Government's Special Security Force (SPG). More than 30,000 soldiers, including the National Security Force (NSG), the Terrorist Prevention Force, the Special Commando Force, the CRPF, the Central Occupational Safety Force and the State Police.
 
 ...
 
 [Data](articles/27dba353.json)
 
+[Extended Data](ext_articles/27dba353.ext.json)
+
 ---
 
-### හූති සටන්කාමින්ට සහාය දක්වමින් දැවැන්ත රැළියක්
+### A massive rally supporting the poery militants
 
 *2024-01-21 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192384) · `si`
 
-යේමනයේ හූති සටන්කාමින්ට සහාය දක්වන දහස් සංඛ්‍යාත පිරිසකගේ සහභාගිත්වයෙන් යේමනයේ දැවැන්ත රැළියක් පැවැත්වී තිබේ.
+Yemen has held a massive rally with thousands of people in Yemen.
 
-යේමනයේ සනා අගනුවර මෙම විරෝධතාව සංවිධානය කර තිබූ බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+The protest was organized in Yemen, foreign media.
 
-ඒ අමෙරිකාව, හූති සංවිධානය ත්‍රස්ත සංවිධානයක් ලෙසට නම් කිරීම සම්බන්ධයෙන් විරෝධය පළ කරමිනි.
+It protests against nomination of the US, Huthuru as a terrorist organization.
 
-ඉරානයේ සහාය ඇති ව යේමනය පාදක කරගෙන සංවිධානය වී සිටින හූති සංවිධානයට සහාය දක්වන දහස් සංඛ්‍යාත පිරිසකගේ සහභාගිත්වයෙන් රැළිය පැවැත්වී ඇත.
+The rally was held with the participation of thousands of supporters who support Iran's support.
 
-පසුගිය සතියේ දී අමෙරිකාව, හූති සංවිධානය ත්‍රස්ත සංවිධානයක් ලෙසට නම් කළේය.
+Last week, the US, Hoouth was named terrorist organization.
 
-ඒ, හූති සටන්කාමීන් රතු මුහුදේ වාණිජ නෞකා ඉලක්ක කර එල්ල කරන ප්‍රහාර පිළිබඳ අවධාරණය කරමිනි.
+Emphasis on the attacks on the attacks on the red sea commercial ships in the Red Sea.
 
-හූති සහයෝගිකරුවන් මෙලෙස දැවැන්ත විරෝධතාවක් සංවිධාන කර තිබුණේ, අමෙරිකාවේ එම තීරණය විරෝධය පළ කරමිනි.
+Hooutha cooperates were organized by a massive protest with the decision of the United States.
 
-යේමන ධජය මෙන්ම පලස්තීන ධජය ද අතැති ව හූති වෙත සහාය දක්වන්නෝ විරෝධතාවට එක් ව සිටිය හ.
+The protests joined the protest with the supporters of the Yaymana Flag and the Palestinian flag.
 
-යේමනයේ වැඩි භූමි ප්‍රමාණයක් පවතින්නේ හූති සටන්කරුවන්ගේ පාලනය යටතේ ය.
+Most of the land in Yemen is under the control of the poultiners.
 
-ඊශ්‍රායල ප්‍රහාරවලට මැදි ව සිටි පලස්තීන වැසියන්ට සහාය පළ කරමින් රතු මුහුදේ ගමන් කරන, ඊශ්‍රායලයට සබඳතා ඇති වාණිජ නෞකා ඉලක්ක කරන බව හූති සටන්කාමිහු පවසති.
+Exotati fights say that the Palestinians who were in the Red Sea in support of the Palestinians who were in the case of Israeli attacks.
 
-...
+However, the majority of ships that have faced attacks are in a relationship with Israel.
+
+◼️
 
 [Data](articles/fd3adabe.json)
 
+[Extended Data](ext_articles/fd3adabe.ext.json)
+
 ---
 
-### තවත් සැකකරුවන් 987 දෙනෙකු අත්අඩංගුවට
+### 987 suspects arrested
 
 *2024-01-21 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192383) · `si`
 
-යුක්තිය මෙහෙයුම යටතේ අද (21) අලුයම අවසන් වූ පැය 24 තුළ සැකකරුවන් 987 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+The police said that 987 suspects were arrested in the 24 hours in the year (21st).
 
-මත්ද්‍රව්‍ය වැරදි සම්බන්ධ සැකකරුවන් 663ක් සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 324ක් ඊට ඇතුළත් ය.
+It includes 663 suspects on drug misbehavior and 324 suspects on the list.
 
-ඊට අමතර ව පහත සඳහන් මත්ද්‍රව්‍ය ප්‍රමාණයන් ද පොලිස් භාරයට ගෙන තිබේ.
+In addition, alcohol has also been taken into custody.
 
-මත්ද්‍රව්‍ය වැරදි සම්බන්ධව අත්අඩංගුවට ගත් සැකකරුවන් 638 දෙනා අතරින් සැකකරුවන් 12 දෙනෙකුට රැඳවුම් නියෝග මත වැඩිදුර විමර්ශන සිදු කරයි.
+Out of the 638 suspects arrested in drug errors, 12 suspects are underway on detention orders.
 
-එමෙන්ම වත්කම් විමර්ශන 05ක් සහ මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් 14ක් පුනරුත්ථාපනය සඳහා යොමු කර ඇති බව පොලීසිය පවසයි.
+Five of the assets and 14 drug addicts have been sent to rehabilitation.
 
-මේ අතර, පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය සහ පොලිස් විශේෂ කාර්යාංශය ලැයිස්තුවේ සිටි සැකකරුවන් 14ක් ද අත්අඩංගුවට ගෙන ඇත.
+Meanwhile, 14 suspects were taken into custody in the list of the Police Narcotics Bureau and the Police Special Bureau.
 
-එසේම, අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ අත්අඩංගුවට ගත් සැකකරුවන් 324 දෙනා අතරින් මත්ද්‍රව්‍ය වැරදි සම්බන්ධව විවෘත වරෙන්තු නිකුත් ව සිටි සැකකරුවන් 90ක් සහ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධව විවෘත වරෙන්තුකරුවන් 222ක් ද සිටින බව පොලීසිය පවසයි.
+The police said that there were 222 suspects in the list of the 324 suspects arrested on drugs and non-drug errors in the list of the list of criminal sections.
 
-...
+There were 11 suspects and 1 suspects who were not arrested from the media.
+
+◼️
 
 [Data](articles/bc81f9e7.json)
 
+[Extended Data](ext_articles/bc81f9e7.ext.json)
+
 ---
 
-### පළිගන්නා බව ඉරානය කියයි
+### Iran is revenge
 
 *2024-01-21 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192382) · `si`
 
-සිරියාවේ ජනාකීර්ණ ප්‍රදේශයකට එල්ල කළ ගුවන් ප්‍රහාරයකින් ඉරාන විප්ලවීය හමුදාවේ ඉහළ නිලධාරීන් 05 දෙනෙකු ඝාතනය කිරීම සම්බන්ධයෙන් පළිගැනීමේ ප්‍රහාර එල්ල කරන බව ඉරානය පවසයි.
+Iran says that aviation attack on a crowded area of Syria will be assassinated by the murder of five top officials of Iranian revolutionary army.
 
-සිරියාවේ ඩමස්කස්නුවර ගොඩනැගිල්ලකට එල්ල වූ ප්‍රහාරයෙන් එරට උපදේශන රාජකාරිවල නිරත වූ ඉහළ පෙළේ ඉරාන හමුදා නිලදාරිහු 05 දෙනෙක් ඝාතනයට ලක් වූහ.
+Five Iranian military officers were killed in a Damascus building in the Damascus building in Syria.
 
-ඉරානය සහ සිරියාව අදාළ ප්‍රහාරය ඊශ්‍රායලය විසින් එල්ල කළ බවට ප්‍රකාශ කර තිබුණ ද ඊශ්‍රායලය මේ දක්වා ඒ සම්බන්ධයෙන් අදහස් දැක්වීමෙන් වැළකී තිබේ.
+Although Iran and Syria had stated that Israel had stated that Israeli was attacked by Israel, Israel has refused to comment on it.
 
-ඉරාන ජනාධිපති ඊබ්‍රහිම් රයිසි ප්‍රකාශ කළේ, අදාළ ප්‍රහාරය ත්‍රස්තවාදී සහ අපරාධ ක්‍රියාවක් වන අතර ඊට එරෙහි ව ප්‍රතිප්‍රහාර එල්ල කරන බවයි.
+Iranian President Irania stated that the attack is a terrorist and a criminal act and counterfeit against it.
 
 ◼️
 
 [Data](articles/e50d4d67.json)
+
+[Extended Data](ext_articles/e50d4d67.ext.json)
 
 ---
 
@@ -390,19 +452,21 @@ Dr. Chamal Sanjeewa added that the present Health Minister and Civil Rights Alli
 
 ---
 
-### අවුරුදු 24ක තරුණයෙක් ගිනි අවියකට බිලි
+### 24-year-old youth billy
 
 *2024-01-21 08:19:29* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-24ක-තරුණයෙක්-ගිනි-අවියකට-බිලි/11-407636) · `si`
 
-මාලිම්බොඩ පොලිස් වසමේ තෙලිජ්ජවිල මංසන්ධියේ පිහිටි ජංගම දුරකතන අලෙවිසැලක් තුළ සිටි පුද්ගලයෙකුට යතුරු පැදියකින් පැමිණි නඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් සිදුකළ වෙඩි තැබීමකින් ඒම පුද්ගලයා මියගොස් ඇතැයි පොලීසිය කියයි.
+The man was killed by two overseas persons who had come to a motorcycle in the Halljjawila juncture at the Teljjawila junction of the Malimboda police division.
 
-ඊයේ (20දා) රාත්‍රී කලයේදී මෙම වෙඩි තැබීම සිදුකර ඇති අතර  වයස අවුරුදු 24 ක් වන වැලිපිටිය ප්‍ර දේශයේ පදිංචිකරුවෙක් මෙසේ මියගොස් තිබේ.
+The shooting was shot dead at night while he was identified as 24-year-old Welipitiya.
 
-වෙඩි තැබීම සඳහා පිස්පතෝල අවියක් භාවිතා කර ඇති බවට සැකකරන බව පොලීිසය  පවසයි. ඝාතනයට හේතුව හෝ ඝාතනය සිදුකළ පුද්ගලයන් සම්බන්ධයෙන් තොරතුරු අණාවරණය වී නොමැති බවද පොලීසිය වැඩිදුරටත් පවසයි.
+Police say the deposit is suspected of using a porgule weapon for shooting. The police have not been revealed in terms of the cause of the killing or the murder, police said.
 
 ◼️
 
 [Data](articles/6aa34057.json)
+
+[Extended Data](ext_articles/6aa34057.ext.json)
 
 ---
 
@@ -908,17 +972,19 @@ The fish caught in the net, the eyes stop at the bunch of eyes. The fish caught 
 
 ---
 
-### 
+### People’s Tribunal  Headed by Justice De Kretzer  Condemns Police in Jaffna  for Excesses at the IATR World Tamil Research  Conference on 10  January  1974.
 
-*2024-01-21 01:34:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83478) · `en`
-
-People’s Tribunal  Headed by Justice De Kretzer  Condemns Police in Jaffna  for Excesses at the IATR World Tamil Research  Conference on 10  January  1974.
+*2024-01-21 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83478) · `en`
 
 Fifty years ago  in January 1974, the  International Association of Tamil Research (IATR) held the fourth World Tamil research conference  in  Jaffna. Violence was unleashed against Tamil civilians attending a cultural event linked to the conferency by a Police contingent led by the then ASP Chandrasekera. The background to the Jaffna conference and an outline of the Police attack was related in the first part of this article published last week. Further details  of the Conference and  the Police attack will be the focus in the  second and final part of  this article.
+
+As stated earlier the government of the day headed by Prime Minister Sirimavo Bandaranaike and the only Tamil cabinet minister Chelliah Kumarasuriar wanted the IATR conference to be held at the BMICH in Colombo. But the majority of the organizing committee wanted  it to be held in Jaffna. The disgruntled Govt acted in a puerile manner and allegedly adopted obstructionist tactics.
 
 ...
 
 [Data](articles/515a8ec3.json)
+
+[Extended Data](ext_articles/515a8ec3.ext.json)
 
 ---
 
@@ -2009,21 +2075,5 @@ There is no place for imperialism in the country. In an important election year,
 [Data](articles/4f25b7c3.json)
 
 [Extended Data](ext_articles/4f25b7c3.ext.json)
-
----
-
-### Roots at Home and Thoughts in the world:
-
-*2024-01-20 15:41:00* · [`islandlk`](http://island.lk/roots-at-home-and-thoughts-in-the-world/) · `en`
-
-(Text of the speech delivered at a Panel Discussion held at Svami Vivekanda Cultural Center in Colombo, on January 12, 2024 to commemorate Mahagama Sekera. Sekera was an influential a poet, a novelist, a painter, a lyricist, a filmmaker, and a literary scholar, and he died in 1976 at the age of 47)
-
-This panel is primarily about the ways in which Mahagama Sekera’s art was shaped by Indian thought. Since ‘Indian thought’ encompasses a great deal of philosophical schools and religions, including Buddhism, there is no Sinhala art which has not been shaped, one way or another, by something ‘Indian.’ So, I must be specific and quite narrow in my focus. Hence, the focus on Tagore.
-
-...
-
-[Data](articles/301bcbd7.json)
-
-[Extended Data](ext_articles/301bcbd7.ext.json)
 
 ---

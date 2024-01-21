@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 20:17:18**
+As of **2024-01-21 20:32:48**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanalk | 203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,194 (73.5%) of 1,624 articles have been extended.
+1,205 (74.2%) of 1,624 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The game was contested at a rapid speed, with Red Shirts forwards showing great 
 ...
 
 [Data](articles/93c8d9b7.json)
+
+[Extended Data](ext_articles/93c8d9b7.ext.json)
 
 ---
 
@@ -887,6 +889,8 @@ Speaking during a service at St. Sebastian's Church, Kandana, Cardinal Ranjith s
 ...
 
 [Data](articles/b17b15df.json)
+
+[Extended Data](ext_articles/b17b15df.ext.json)
 
 ---
 

@@ -1,36 +1,152 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 15:51:17**
+As of **2024-01-21 16:32:48**
 
 ## Newspaper Stats
 
-*Scraped **1,582** Articles*
+*Scraped **1,592** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
-bbccomsinhala | 37
+bbccomsinhala | 38
 adaderanasinhalalk | 57
 islandlk | 97
 economynextcom | 103
-newsfirstlk | 107
-dbsjeyarajcom | 118
-virakesarilk | 142
+newsfirstlk | 108
+dbsjeyarajcom | 119
+virakesarilk | 145
 dailyftlk | 150
-adalk | 168
+adalk | 170
 dailymirrorlk | 180
-tamilmirrorlk | 197
-adaderanalk | 199
+tamilmirrorlk | 198
+adaderanalk | 200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-935 (59.1%) of 1,582 articles have been extended.
+984 (61.8%) of 1,592 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### சிறீதரனுக்கு தலைமைப் பொறுப்பு வழங்கப்பட்டிருப்பது மகிழ்ச்சி : தலைவர் சிறீதரனுக்கு எனது முழுமையான ஆதரவினை வழங்குவேன் - சுமந்திரன்
+
+*2024-01-21 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174459) · `ta`
+
+ஜனநாயக தேர்தல் மூலம் பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரனுக்கு இலங்கைத் தமிழரசுக்கட்சிப் பொறுப்பு வழங்கப்பட்டிருப்பது மிகுந்த மிகிழ்ச்சியளிப்பதாகவும், தலைவர் சிறீதரனுக்கு தனது முழுமையான ஆதரவினை வழங்குவேன் என்றும் சக தலைமைப்பதவிப் போட்டியாளர் பாராளுமன்ற உறுப்பினர் எம்.ஏ.சுமந்திரன் தெரிவித்துள்ளார்.
+
+தமிழரசுக்கட்சித் தலைவருக்கான தேர்தலிலே மிக ஆரோக்கியமாக, எமது கட்சி உட்கட்சி ஜனநாயகத்தினை நாட்டிற்கும், சர்வதேசத்திற்கும் முன்மாதிரியாக நடாத்திக்காட்டியிருக்கின்றது.
+
+எமது தலைவர் மாவை சேனாதிராஜா வழிநடாத்திய தமிழரசுக்கட்சிப் பொறுப்பு, இப்பொழுது சிறிதரனுக்கு வழங்கப்பட்டிருப்பது மிகவும் மகிழ்ச்சியான விடயமாகும்.
+
+இந்தப் பயணத்திலே நாம் தொடர்ந்தும் ஒன்றாகவே பயணிப்போம். இதை நாம் இருவரும் தேர்தல்காலத்திலும் தெளிவாக மக்களுக்குச் சொல்லியிருக்கின்றோம். அப்படியாகவே தொடர்ந்து பயணிப்போம்.
+
+ஆகவே எனது முழுமையான ஆதரவினை தற்போது ஜனநாயக முறையில் தலைவராக தெரிவுசெய்யப்பட்டுள்ள, தலைவர் சிறீதரனுக்கு முழுமையாக வழங்குவேன் என்பதைத் தெரிவித்துக்கொள்கின்றேன் என்றார்.
+
+◼️
+
+[Data](articles/df5b5d2e.json)
+
+---
+
+### தமிழர்களின் உரிமை, தேசியத்தின் ஒவ்வொரு அங்குலத்துக்காகவும் தொடர்ந்து எம்.ஏ.சுமந்திரன், சீ.யோகேஸ்வரனுடன் இணைந்து செயற்படுவேன் - தமிழரசு கட்சியின் புதிய தலைவர் சிறிதரன் சூளுரை
+
+*2024-01-21 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174458) · `ta`
+
+இலங்கை தமிழரசு கட்சியினுடைய வரலாற்றிலே ஒரு ஜனநாயக ரீதியான உரையாடல் ஊடாகவும் ஜனநாயக ரீதியான செயல்முறையின் ஊடாகவும் வரலாற்றில் முக்கிய வரலாற்றை பதித்துள்ளோம். என்னுடன் போட்டியிட்ட எம்.ஏ.சுமந்திரன் சீ.யோகேஸ்வரன் ஜயாவும் இணைந்து கட்சியுனுடைய செயற்பாட்டினை இன்னும் பல வழிகளில் எமது மக்களின் உரிமைக்காக தேசிய இருப்புக்காக தேசியத்தின் ஒவ்வொரு அங்குலத்துக்காகவும் தொடர்ந்து பொறுப்போடும் கடமையுடனும் செயற்படுவோம் என தமிழரசு கட்சியின் புதிய தலைவரும் பாராளுமன்ற உறுப்பினருமான சிவஞானம் சிறிதரன் சூழுரைத்தார்.
+
+இலங்கைத் தமிழ் அரசுக் கட்சியின் புதிய தலைவரைத் தேர்வு செய்யும் தேர்தல் இன்று ஞாயிற்றுக்கிழமை (21) திருகோணமலையில் இடம்பெற்றது. இதில் 47 மேலதிக வாக்குகளால் வெற்றி பெற்ற சிவஞானம் சிறிதரன் ஊடகங்களுக்கு கருத்து தெரிவிக்கையில் இவ்வாறு தெரிவித்தார்.
+
+என்னை தெரிவு செய்வதற்கு காரணமாக இருந்த இயற்கை என்னும் இறைவனுக்கும் எனக்காக உள்நாட்டிலும் வெளிநாட்டிலும் அயராது உழைத்த அந்த பொதுசபை  உறுப்பினர்களின் மிகப் பெறுமதியான வாக்குகளால் தவைவராக தெரிவு செய்ததற்கு முதலில் எனது நன்றிகள்.
+
+...
+
+[Data](articles/ebdf8378.json)
+
+---
+
+### பிராந்திய அரசியலும் தரவுப் பாதுகாப்பும்
+
+*2024-01-21 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174453) · `ta`
+
+தனி­ந­பர்கள் பற்­றிய உயி­ரியல் தர­வுகள் எப்­போதும் பெறு­மதி மிக்­கவை. அவை குற்­றச்­செ­யல்­களை தடுப்­பது, குற்­ற­வா­ளி­களை அடை­யாளம் காண்­ப­தற்கு மாத்­தி­ர­மன்றி, ஆக்­க­பூர்­வமான திட்­டங்­க­ளுக்கும் பயன்­படக்கூடி­யவை.
+
+◼️
+
+[Data](articles/3d73feb0.json)
+
+---
+
+### Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
+*2024-01-21 15:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/investigative-report-over-controversial-human-immunoglobulin-purchase-handed-to-attorney-general/) · `en`
+
+COLOMBO (News 1st); The completed report of the human immunoglobulin drug transaction investigation has been sent to the Attorney General.
+
+The Criminal Investigation Department (CID) will follow the Attorney General's instructions for future steps.
+
+The CID will re-record the statement of former Health Minister Keheliya Rambukwella regarding the drug transaction once again as well.
+
+This follows a review of documents from several officials, including an additional Health Ministry secretary.
+
+The CID emphasizes that these activities are being conducted in collaboration with the Attorney General's Department.
+
+Former Health Secretary Janaka Sri Chandragupta and others remain arrested and remanded in connection with the drug transaction.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
+◼️
+
+[Data](articles/be3eb997.json)
+
+[Extended Data](ext_articles/be3eb997.ext.json)
+
+---
+
+### Controversial monk ‘Vishwa Buddha’ remanded
+
+*2024-01-21 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96600/controversial-monk-vishwa-buddha-remanded) · `en`
+
+The saffron-robbed monk claiming to be ‘Vishwa Buddha’ has been ordered to be remanded in custody until January 26, after being produced before the Gangodawila Magistrate’s Court in Nugegoda.
+
+The suspect, who was out on bail, was re-arrested this morning (21) by the Criminal Investigations Department (CID).
+
+Earlier, the monk was arrested on December 12 at a private establishment in Kalagedihena by the cybercrimes unit of the Criminal Investigation Department (CID), acting on a complaint received against the self-styled monk who was residing in Ratnapura.
+
+According to police, the saffron-robbed monk had allegedly issued statements demeaning Buddhism.
+
+◼️
+
+[Data](articles/3e34ef22.json)
+
+[Extended Data](ext_articles/3e34ef22.ext.json)
+
+---
+
+### The boy's death by the Maldives president's decision
+
+*2024-01-21 15:24:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மாலத்தீவு-ஜனாதிபதி-முடிவால்-சிறுவன்-மரணம்/50-331899) · `ta`
+
+Mohammed Marsu has been elected as the new president of Maldives. As he has a stand against India, there is a rift in the relationship between the two countries.
+
+In the meantime, President Mohammed Muzhu refused permission to use the Indian flight has shocked the death of a boy in Maldives.
+
+A 14 -year -old boy from the Maldivian Kabi Alib Wiltings has tied the brain in the brain. The boy, who was receiving treatment, suffered an epilepsy last Thursday (18).
+
+Subsequently, doctors advised the boy to take immediate treatment to the hospital in the capital Mali.. Thus, the authorities have been requested to use the drone -air aircraft provided by India to take the boy. The request has been made because President Mohammed should approve the aircraft. However, it has been reported that the president has not approved the use of the aircraft provided by India.
+
+Later, after 16 hours the boy was taken to Mali by plane. The boy died without treatment. The incident has shocked.
+
+...
+
+[Data](articles/f6e90b9e.json)
+
+[Extended Data](ext_articles/f6e90b9e.ext.json)
+
+---
 
 ### President Ranil addresses G77+China summit in Uganda
 
@@ -1156,6 +1272,36 @@ Sri Lanka has chronic monetary stability which worsened after 1978 with steep de
 
 ---
 
+### Then one of the presidents and someone who has support
+
+*2024-01-21 10:25:14* · [`adalk`](https://www.ada.lk/breaking_news/ඊළඟට-ජනාධිපතිවෙන්නෙත්-පොහොට්ටුවේ-සහය-තියෙන-කෙනෙක්/11-407640) · `si`
+
+The cost of living has increased due to war conflicts ...
+
+The people who were on fire would talk about democracy today ...
+
+The Chief Organizer, Minister of Urban Development and Housing, Prasanna Ranatunga says that the increase is difficult to hold the increase in the cost of living.
+
+The Minister emphasizes that the cost of living has increased due to the war.
+
+The country will be returned to the face of the economic program that is being carried out by President Ranil Wickremesinghe.. He also requests the public to not be deceived by the opposition and conspirators.
+
+Minister Prasanna Ranatunga to visit the reconstruction of the Gampaha posted in Gampaha. According to the request of a group of people who use that walk.
+
+The walking laund has been created in 2011 and the Gampaha Municipal Council.
+
+The people used to reform the lane should be reformed.
+
+It was decided to commence the reconciliation by the intervention of the Urban Development Authority.
+
+...
+
+[Data](articles/0a50a14f.json)
+
+[Extended Data](ext_articles/0a50a14f.ext.json)
+
+---
+
 ### Missile attack targeting US Air Force Base in Iraq - Many US soldiers injured
 
 *2024-01-21 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/174429) · `ta`
@@ -1256,6 +1402,30 @@ In Sri Lanka, more than 14,000 farms have been closed down in Sri Lanka and that
 
 ---
 
+### Baby and Angel seized
+
+*2024-01-21 09:43:22* · [`adalk`](https://www.ada.lk/breaking_news/බබා-හා-ඒන්ජල්-අල්ලයි/11-407637) · `si`
+
+The Criminal District of the Western Province says that the 'Babanna' Chandana and Dhanushka, Dhanushka, and Dhanushka, who is a large scale drug dealer who operates in Dubai is hiding in Dubai.
+
+Police have seized 321 packets of cannabis in possession of 1500 am.
+
+The killing contract has been assigned to be arrested by the Kolonnawa Umagiliya Stadium on the 12th of December on December 12.He was revealed that Chandana was the trafficking of Chandana.
+
+Chandana and Dhanushka launches hubs, ice and cannabulers from the Kolonnawa area in Dubai and the drug advisor who went shot dead by their goals and drug dealer, Dematagoda Chaminda, a Narcotics Facker
+
+Police investigations have revealed that the obtaining has caused the shooting due to the bulletin.
+
+The money is a young man in Matale and credited to the Dubai State of Dubai via Undirenda, Chandana and Dhanushka.Police Sergeant 38723 Police Sergeant in the Southern Province of the Western Province has been secretly received
+
+...
+
+[Data](articles/57eb55c8.json)
+
+[Extended Data](ext_articles/57eb55c8.ext.json)
+
+---
+
 ### A massive rally supporting the poery militants
 
 *2024-01-21 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192384) · `si`
@@ -1287,6 +1457,26 @@ However, the majority of ships that have faced attacks are in a relationship wit
 [Data](articles/fd3adabe.json)
 
 [Extended Data](ext_articles/fd3adabe.ext.json)
+
+---
+
+### ඉංලගෙයි තමිල් අරසු කච්චි නායකත්ව සටනේ ජය  එස්.ශ්‍රීධරන්ට
+
+*2024-01-21 09:34:46* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv2v5lzrzy8o) · `si`
+
+ඉලංගෙයි තමිල් අරසු කච්චි නව නායකයා ලෙස යාපනය මැතිවරණය කොට්ඨාසය නියෝජනය කරන සිවඥානම් ශ්‍රීධරන් අද (ජනවාරි 21වැනිදා) තේරී පත්විය.
+
+ඉලංගෙයි තමිල් අරසු කච්චි පක්ෂ නව නායකයා තේරීමේ පක්ෂ මහ සභාව ත්‍රිකුණාමලය දිස්ත්‍රික්කයේ පැවැත්වුණු අතර, එහිදි පක්ෂයේ දිස්ත්‍රික් සභාවන්හි සාමාජිකයින් 184 දෙනෙකුගේ ඡන්ද ලබා ගනිමින් සිවඥානම් ශ්‍රීධරන් පක්ෂ නායක ලෙස තේරී පත්විය.
+
+නායකත්ව තරගය වෙනුවෙන් ඉදිරිපත් වු එම්.ඒ.සුමන්තිරන් වෙත දිස්ත්‍රික් සභාවන්හි නියෝජිතයින් 137 දෙනෙකු කැමැත්ත පළකොට තිබුණි.
+
+පක්ෂ නායකත්වය වෙනුවෙන් තුන්කොන් සටනක් පැවති අතර, ඉලංගෙයි තමිල් අරසු කච්චි පක්ෂ නව නායකත්වය වෙනුවෙන් යාපනය මැතිවරණ කොට්ඨාසය නියෝජනය කරන පාර්ලිමේන්තු මන්ත්‍රීවරුන් එම්.ඒ.සුමන්තිරන් , සිවඥානම් ශ්‍රීධරන් සහ මඩකලපුව දිස්ත්‍රික්කය නියෝජනය කරන එස්.යෝගේෂ්වරන් නාමයෝජනා භාරදී තිබුණි.
+
+යාපනය, කිලිනොච්චිය, මුලතිව්, වවුනියාව, මන්නාරම, ත්‍රිකුණාමලය, මඩකලපුව, අම්පාර හා කොළඹ දිස්ත්‍රික්කය නියෝජනය කරමින් දිස්ත්‍රික් සභාවල නියෝජිතයින් 337 දෙනෙකු ජන්දය ප්‍රකාශ කිරීමට සුදුසුකම් ලබා තිබුණ.
+
+...
+
+[Data](articles/f68b6d96.json)
 
 ---
 
@@ -1873,195 +2063,5 @@ In this context, Minister Nalin Fernando has said that the price of eggs in the 
 [Data](articles/baa5900e.json)
 
 [Extended Data](ext_articles/baa5900e.ext.json)
-
----
-
-### TNA secret vote today
-
-*2024-01-21 03:18:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சியின்-இரகசிய-வாக்கெடுப்பு-இன்று/175-331865) · `ta`
-
-A secret referendum to elect the leader of the Sri Lankan Tamil party is being held today (21).
-
-Members of Parliament, President's Attorney MA Sumanthiran, S. Sridharan and former MP Senithambi Yogeswaran are contesting for the post of leader of the Sri Lankan Tamil party. (A)
-
-◼️
-
-[Data](articles/9f59f61e.json)
-
-[Extended Data](ext_articles/9f59f61e.ext.json)
-
----
-
-### President meets Indian Foreign Minister
-
-*2024-01-21 03:09:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-வெளிவிவகார-அமைச்சருடன்-ஜனாதிபதி-சந்திப்பு/175-331864) · `ta`
-
-Indian Foreign Minister. A meeting between Jaishankar and President Ranil Wickremesinghe was held yesterday.
-
-The Indian Foreign Minister has stated that President Ranil Wickremesinghe has praised President Ranil Wickremesinghe for the improvement of bilateral efforts.. (A)
-
-◼️
-
-[Data](articles/2793cac6.json)
-
-[Extended Data](ext_articles/2793cac6.ext.json)
-
----
-
-### 'Haiah haye oddi helei Helei': Is I heladd by the Galle Sella?
-
-*2024-01-21 03:01:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cner9n8r99lo) · `si`
-
-'Haiah haye oddi helei Helei': Is I heladd by the Galle Sella?
-
-Galle Matara main road is the Galle Matara main road as Martin Wickremasinghe Sorcha, who has been identified as Sorga to the Southern Expressway.
-
-The brightness of the sun is unique, and it is an essential uniqueness.
-
-At the same time, a large number of people were visiting the shore.
-
-When I went to see what it was, we saw a large net that I was dragged in a large number of traditional fishing in Sri Lanka.
-
-Sri Lanka's traditional fishing is a way to fish from the remote sea to the shore.
-
-When I saw the signs of the sea, I gained the footwear with the crowd, and shake the shares with them.
-
-Their experiences are many experiences of sweetest events, sadness and dangerous events.
-
-The net was laundered by the two-kilometer-wide-covered core sodes, pulled out for the land.
-
-The fish caught in the net, the eyes stop at the bunch of eyes. The fish caught with the nets, hurdles, hurley, newly, balls, Kumblaw, Flights.
-
-...
-
-[Data](articles/9d3210f5.json)
-
-[Extended Data](ext_articles/9d3210f5.ext.json)
-
----
-
-### People’s Tribunal  Headed by Justice De Kretzer  Condemns Police in Jaffna  for Excesses at the IATR World Tamil Research  Conference on 10  January  1974.
-
-*2024-01-21 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83478) · `en`
-
-Fifty years ago  in January 1974, the  International Association of Tamil Research (IATR) held the fourth World Tamil research conference  in  Jaffna. Violence was unleashed against Tamil civilians attending a cultural event linked to the conferency by a Police contingent led by the then ASP Chandrasekera. The background to the Jaffna conference and an outline of the Police attack was related in the first part of this article published last week. Further details  of the Conference and  the Police attack will be the focus in the  second and final part of  this article.
-
-As stated earlier the government of the day headed by Prime Minister Sirimavo Bandaranaike and the only Tamil cabinet minister Chelliah Kumarasuriar wanted the IATR conference to be held at the BMICH in Colombo. But the majority of the organizing committee wanted  it to be held in Jaffna. The disgruntled Govt acted in a puerile manner and allegedly adopted obstructionist tactics.
-
-...
-
-[Data](articles/515a8ec3.json)
-
-[Extended Data](ext_articles/515a8ec3.ext.json)
-
----
-
-### 2024-01-20 (Saturday)
-
-### Sri Lanka tea prices fall across elevations
-
-*2024-01-20 23:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-prices-fall-across-elevations-148080/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tea prices across categories fell at the third auction of 2024 on January 16-17 after almost two months of gains, while certain grades within the categories gained, market data showed.
-
-The weekly sale average price fell by 26.52 rupees to 1248.22 rupees a kilogram, according to industry data published by Ceylon Tea Brokers.
-
-In the third week 4.6 million kilos were sold by public auction.
-
-High Grown BOP teas went up with Best Westerns going up by 50 to 100 rupees. Plainer categories gained by 70-80 rupees.
-
-Hardly any offerings from Nuwara Eliya’s and Uda Pussellawa’s fell.
-
-The high grown sale average was down by 4.96 to 1,082.30 rupees a kilo.
-
-BOP1, Select were up by 50 rupees whilst others remained unchanged. OP1, Select best held firm whilst others gained by 50 rupees.
-
-OP/OPA Select best fell by 50 rupees and Best fell by 20 rupees.
-
-PEK Select Best and bests fell by 50 rupees, PEK1 – Select best fell by 50 rupees.
-
-...
-
-[Data](articles/c4e08953.json)
-
-[Extended Data](ext_articles/c4e08953.ext.json)
-
----
-
-### Fire in China school dorm kills 13 boys
-
-*2024-01-20 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96584/fire-in-china-school-dorm-kills-13-boys) · `en`
-
-A fire in a central China school dormitory killed 13 students and injured another，prompting the authorities to call for screening fire risks in crowded places, state media said on Saturday (20 Jan.).
-
-The Friday night fire killed third graders in a boys’ dormitory of Yingcai School in Henan Province, according to China Newsweek, a weekly magazine published by China News Service. Third graders in China are usually 9 years old.
-
-Firefighters quickly extinguished the blaze in a village in Nanyang city, and the head of the school was taken into custody, state media reported.
-
-China’s Ministry of Emergency Management called for screening to avoid “hidden fire risks in densely populated places”, and a work team was sent to guide rescue and follow-up work, Xinhua reported.
-
-...
-
-[Data](articles/64a9676b.json)
-
-[Extended Data](ext_articles/64a9676b.ext.json)
-
----
-
-### PUCSL to reach decision on proposed electricity tariffs next week
-
-*2024-01-20 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96583/pucsl-to-reach-decision-on-proposed-electricity-tariffs-next-week) · `en`
-
-The Public Utilities Commission of Sri Lanka (PUCSL) is scheduled to address the proposed revision of electricity tariffs by the Ceylon Electricity Board (CEB) in a meeting on 22 January.
-
-A final decision on the matter is anticipated at this meeting, following which the proposal and the PUCSL’s decision will be made public for a three-week period.
-
-The PUCSL will then modify the proposal based on public feedback and submit the final tariff revision to the CEB.
-
-Meanwhile, speaking at a press briefing held today (20 Jan.), the CEB affirmed that electricity tariffs would be adjusted promptly upon approval from the PUCSL.
-
-◼️
-
-[Data](articles/37e5e4cf.json)
-
-[Extended Data](ext_articles/37e5e4cf.ext.json)
-
----
-
-### Youth shot dead inside mobile shop in Malimbada
-
-*2024-01-20 22:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Youth-shot-dead-inside-mobile-shop-in-Malimbada/108-275421) · `en`
-
-Matara, Jan 20 (Daily Mirror) - A 24-year-old youth was killed in a shooting at Malimbada in Thelijjawela, Matara tonight, police said.
-
-They said that two men arrived on a motorcycle at a mobile shop had opened fire on the victim with a pistol.
-
-The Malimbada Police are investigating to arrest the shooters and determine the motive behind the shooting.
-
-◼️
-
-[Data](articles/fa431834.json)
-
-[Extended Data](ext_articles/fa431834.ext.json)
-
----
-
-### ‘Look Africa’ initiative marks commencement of new economic journey between Sri Lanka and Africa – Minister
-
-*2024-01-20 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96582/look-africa-initiative-marks-commencement-of-new-economic-journey-between-sri-lanka-and-africa-minister-) · `en`
-
-President Ranil Wickremesinghe’s recent visit to Uganda has significantly contributed to strengthening diplomatic ties with African nations that have previously been overlooked in Sri Lanka’s foreign relations.
-
-The Minister of Foreign Affairs Ali Sabry PC, highlighted the importance of these engagements, emphasizing the sizable population of approximately 1.3 billion in these African countries and the anticipated rapid development in the future.
-
-In his special statement today (20), Minister Ali Sabry pointed out that President Ranil Wickremesinghe’s ‘Look Africa’ initiative has laid the groundwork for Sri Lanka to invest in African nations, marking the commencement of a new economic journey for the country.
-
-In a special statement on the official visit to Uganda, where President Wickremesinghe participated in the 19th Conference of the Non-Aligned Movement and the G77+China Summit, Minister Ali Sabry reiterated the significance of broadening Sri Lanka’s engagement with Africa.
-
-...
-
-[Data](articles/86cc4cb4.json)
-
-[Extended Data](ext_articles/86cc4cb4.ext.json)
 
 ---

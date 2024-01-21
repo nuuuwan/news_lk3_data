@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 12:17:10**
+As of **2024-01-21 12:32:47**
 
 ## Newspaper Stats
 
-*Scraped **1,541** Articles*
+*Scraped **1,545** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,74 @@ virakesarilk | 132
 dailyftlk | 150
 adalk | 167
 dailymirrorlk | 172
-adaderanalk | 190
 tamilmirrorlk | 194
+adaderanalk | 194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-722 (46.9%) of 1,541 articles have been extended.
+739 (47.8%) of 1,545 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### ’விஸ்வ புத்த’ துறவி மீண்டும் கைது
+### Monks Buddhist monk arrests again
 
 *2024-01-21 11:58:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஸ்வ-புத்த-துறவி-மீண்டும்-கைது/175-331878) · `ta`
 
-தன்னை 'விஸ்வ புத்தர்' என்று அழைத்துக் கொண்ட காவி அங்கி அணிந்த துறவி, பௌத்த மதத்தை இழிவுபடுத்தும் வகையில் அறிக்கை வெளியிட்டதற்காக மீண்டும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+The saffron -wore monk, who called himself 'Vishwa Buddha', has been arrested again by the police for issuing a statement discrediting Buddhism.
 
-கலகெடிஹேன பிரதேசத்தில் வைத்து சந்தேக நபரை குற்றப் புலனாய்வுப் பிரிவினர் கைது செய்துள்ளனர்.
+The Criminal Investigation Department has arrested the suspect in the Galakedihena area.
 
-சந்தேகநபர் முதலில் டிசம்பர் 12 ஆம் திகதி கைது செய்யப்பட்டார், அதன் பின் அவருக்கு கொழும்பு பிரதான நீதவான் ஜனவரி 8 ஆம் திகதி பிணை வழங்கியிருந்தார்.
+The suspect was first arrested on December 12, followed by the Colombo Chief Magistrate on January 8.
 
-இதேவேளை, குற்றப் புலனாய்வு திணைக்களத்தின் முன் அவர் அடுத்த வாரம் முன்னிலைப்படுத்தப்படவுள்ளதாக சிரேஷ்ட ஊடகவியலாளர் சமுதித்த சமரவிக்ரம தெரிவித்துள்ளார்.
+Meanwhile, Senior Journalist Samarawickrama said that he will be presented next week before the Criminal Investigation Department.
 
-கைது செய்யப்பட்ட சந்தேக நபருடன் சமரவிக்கிரம நடத்திய நிகழ்ச்சி ஒன்றின் பொருட்டே அவர் விசாரணைக்கு அழைக்கப்பட்டுள்ளார்.
+He has been summoned for an investigation into an event held by Samarawickrama with the arrested suspect.
 
 ◼️
 
 [Data](articles/c95f3157.json)
+
+[Extended Data](ext_articles/c95f3157.ext.json)
+
+---
+
+### Three more arrested over assault incident at Karapitiya Hospital
+
+*2024-01-21 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96593/three-more-arrested-over-assault-incident-at-karapitiya-hospital-) · `en`
+
+Three minor staff members of the Karapitiya Teaching Hospital including a female have been arrested in connection with a complaint by a senior oncologist alleging assault.
+
+The concerned senior oncologist, Dr. Krishantha Perera, 61, was also arrested on 18 January for purportedly assaulting a female junior staff member during a contentious situation that had ensued the previous morning.
+
+He was accused of assaulting the said staff member during a heated argument between him and the other junior staffers after he slammed them for disrupting hospital services by going on a token strike the day before.
+
+The hospital’s authorities had brought the situation under control, however, a female junior staff member got herself admitted to the Karapitiya Teaching Hospital, claiming an assault by the senior oncologist who was subsequently arrested and remanded until January 22 on the orders of the Galle Magistrate.
+
+◼️
+
+[Data](articles/50ff176b.json)
+
+---
+
+### President Ranil discusses enhancing bilateral relations with Ugandan counterpart
+
+*2024-01-21 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96592/president-ranil-discusses-enhancing-bilateral-relations-with-ugandan-counterpart) · `en`
+
+During his official visit to Uganda, President Ranil Wickremesinghe engaged in a formal meeting with Yoweri Museveni, the President of the Republic of Uganda, yesterday afternoon (20 Jan.).
+
+President Museveni warmly welcomed President Wickremesinghe, and following a friendly exchange, bilateral discussions commenced.
+
+During the meeting, President Yoweri Museveni expressed his joy at President Wickremesinghe’s acceptance of the invitation for the official visit and lauded his significant role in revitalizing Sri Lanka’s economy. President Museveni commended the nation for its achievements in this regard.
+
+The leaders delved into discussions about Sri Lanka’s new economic program, with President Ranil Wickremesinghe highlighting the positive economic trajectory since entering into an agreement with the International Monetary Fund. He emphasized the anticipated growth in 2024.
+
+...
+
+[Data](articles/00a4e4f1.json)
 
 ---
 
@@ -106,21 +144,39 @@ The Minister stressed that there was no shortage of egg deficit in the market.
 
 ---
 
-### 24 மணிநேரத்தில் 987 பேர் கைது
+### Person claiming to be ‘Vishwa Buddha’ arrested by CID
+
+*2024-01-21 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96591/person-claiming-to-be-vishwa-buddha-arrested-by-cid) · `en`
+
+The Criminal Investigations Department (CID) has arrested a person in robes claiming to be ‘Vishwa Buddha’.
+
+According to police, the robed suspect, who was arrested in Kalagedihena, had allegedly issued statements demeaning Buddhism.
+
+◼️
+
+[Data](articles/0c0d65af.json)
+
+---
+
+### Arrested 987 in 24 hours
 
 *2024-01-21 11:20:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-987-பேர்-கைது/175-331877) · `ta`
 
-கடந்த 24 மணித்தியாலங்களில் நாடளாவிய ரீதியில் மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கையின் போது 987 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+The Public Security Ministry said that 987 suspects have been arrested during a nationwide strategy in the last 24 hours.
 
-போதைப்பொருள் குற்றங்கள் தொடர்பில் 663 சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளதாகவும், பொலிஸ் நிலைய குற்றப்பிரிவு பொறுப்பதிகாரிகளிடம் குறிப்பிடப்பட்ட பட்டியலில் இருந்து 324 சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளதாகவும் அவர்கள் தெரிவித்தனர்.
+They said 663 suspects have been arrested in connection with drug offenses and 324 suspects have been arrested from the list of policemen in charge of the police station.
 
-போதைப்பொருள் குற்றங்கள் தொடர்பாக கைது செய்யப்பட்ட 638 சந்தேக நபர்களில் 12 பேர் தடுப்புக் காவலில் வைக்கப்பட்டு விசாரணைக்கு உட்படுத்தப்பட்டு வருவதுடன், போதைக்கு அடிமையான 14 பேர் புனர்வாழ்விற்காக பரிந்துரைக்கப்பட்டுள்ளனர்.
+Of the 638 suspects arrested in connection with drug offenses, 12 have been detained and interrogated, and 14 addicts have been recommended for rehabilitation.
 
-இதேவேளை, பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவு மற்றும் பொலிஸ் விசேட பணியகம் ஆகியவற்றின் தேடப்படும் பட்டியலில் இருந்த 14 சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+Meanwhile, 14 suspects have been arrested on the search list of the Police Drug Eradication Unit and the Special Bureau of Police.
 
-...
+In addition, 90 out of the 324 suspects arrested to the Criminal Investigation Division are pending and 222 are pending over non -drug crimes.
+
+◼️
 
 [Data](articles/2ab261e0.json)
+
+[Extended Data](ext_articles/2ab261e0.ext.json)
 
 ---
 
@@ -143,6 +199,22 @@ Meanwhile, a junior staff worker was hospitalized after the doctor was assaulted
 [Data](articles/2d976161.json)
 
 [Extended Data](ext_articles/2d976161.ext.json)
+
+---
+
+### NAM calls Israel’s war in Gaza illegal and condemns attacks on Palestinians
+
+*2024-01-21 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96590/nam-calls-israels-war-in-gaza-illegal-and-condemns-attacks-on-palestinians) · `en`
+
+Heads of states of the Non-Aligned Movement Saturday called Israel’s military campaign in the Gaza Strip “illegal” and strongly condemned indiscriminate attacks against Palestinian civilians, civilian infrastructure and the forced displacement of the Palestinian population.
+
+While calling for a ceasefire desperately needed for humanitarian aid to access the Gaza Strip, the movement in a joint statement called for a two-state solution, on the basis of the borders before 1967, when Israel seized Gaza, the West Bank and East Jerusalem in a brief war with neighboring Arab states.
+
+The group also reiterated support for a Palestinian state to be admitted as a member of the United Nations to take its rightful place among the community of nations.
+
+...
+
+[Data](articles/69238a9f.json)
 
 ---
 
@@ -336,6 +408,8 @@ Sri Lanka has chronic monetary stability which worsened after 1978 with steep de
 
 [Data](articles/a250dd50.json)
 
+[Extended Data](ext_articles/a250dd50.ext.json)
+
 ---
 
 ### Missile attack targeting US Air Force Base in Iraq - Many US soldiers injured
@@ -360,21 +434,23 @@ This group is claiming attacks on US sites in Iraq.
 
 ---
 
-### විශ්ව බුද්ධි චීවරධාරියා යළිත් අත්අඩංගුවට
+### Universal Intelligence Monastery arrested
 
 *2024-01-21 10:13:22* · [`adalk`](https://www.ada.lk/breaking_news/විශ්ව-බුද්ධි-චීවරධාරියා-යළිත්-අත්අඩංගුවට/11-407639) · `si`
 
-බෞද්ධයන්ට හා බෞද්ධාගමට අපහාස වන ආකාරයේ ප්‍රකාශ නිකුත් කර, ඒවා අන්තර්ජාලයට මුදාහැර මෙන්, ඉදිරිවාදිකම්වලට පෙළඹවීමේ ක්‍රියාවන් වල නිරත වෙමින් සිටි රත්නපුරේ විශ්ව බුද්ධි නමැති චීවරධාරියා පරිගණක අපරාධ කොට්ඨාශය මගින් අත්අඩංගුවට  ගනු ලැබ ඇත.
+In Ratnapura, universal intelligence was arrested by the University Crimes Division, which is being issued to Buddhists and Buddhists to the Internet.
 
-සැකකරු මීට පෙර මෙම චෝදනාව යටතේ අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයට පත් කර ඇප මත මුදා හැර සිටියදී, ඔහු අධිකරණ නියෝග නොතකමින් යළිත්  දිගින් දිගටම  මෙම  ක්‍රියාවන්වල  නිරතවීම නිසා  ඊයේ (20) රාත්‍රියේ මොහු අත්අඩංගුවට ගෙන ඇත.
+When the suspect had previously been arrested and released on bail, he was arrested last night due to the suspect and released on bail.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ කොට්ඨාශය මොහු සම්බන්ධයෙන්  දෙවන වරටත් අධිකරණයට කරුණු වාර්තා කිරීමෙන් අනතුරුව.. මෙම අත්අඩංගුවට ගැනීම සිදු කර ඇත.
+After reporting the Criminal Investigation Computer Criminal Investigation Division for the second time for the second time.. The arrest has been made.
 
-සැකකරු අද (21) කොටුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව ඇත.
+The suspect is due to be produced before the Fort Magistrate's Court today (21).
 
 ◼️
 
 [Data](articles/d60b2025.json)
+
+[Extended Data](ext_articles/d60b2025.ext.json)
 
 ---
 
@@ -1149,6 +1225,8 @@ PEK Select Best and bests fell by 50 rupees, PEK1 – Select best fell by 50 rup
 ...
 
 [Data](articles/c4e08953.json)
+
+[Extended Data](ext_articles/c4e08953.ext.json)
 
 ---
 
@@ -2007,75 +2085,5 @@ Last week electrical workers protesting against the CEB restructure were interdi
 [Data](articles/be1e7bf8.json)
 
 [Extended Data](ext_articles/be1e7bf8.ext.json)
-
----
-
-### Another attack on Russia from Ukraine
-
-*2024-01-20 16:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192361) · `si`
-
-According to foreign reports, Ukrainian drone drones on a fuel storage in Russia had erupted.
-
-Russia states that the fire was spread throughout a thousand square kilometers.
-
-During these two days the second Ukrainian attack on a Russian fuel storage.
-
-◼️
-
-[Data](articles/019cb719.json)
-
-[Extended Data](ext_articles/019cb719.ext.json)
-
----
-
-### Vairamuthu congratulated Thondaman in Senal
-
-*2024-01-20 16:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்ாில்-தொண்டமானை-வாழ்த்தினார்-வைரமுத்து/175-331847) · `ta`
-
-The poet Vairamuthu congratulates the Governor of the Eastern Province Senthil Thondaman on the fact that Mahakavi Bharatiyar said today.
-
-The poet Vairamuthu also said in his Twitter post that Governor Senthil Thondaman, who recovered the Tamil heritage, congratulated him.
-
-Governor of the Eastern Province of Sri Lanka Senthil Thondaman came home for love
-
-◼️
-
-[Data](articles/131427ba.json)
-
-[Extended Data](ext_articles/131427ba.ext.json)
-
----
-
-### Vairamuthu congratulated Senthil Thondaman
-
-*2024-01-20 16:18:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செந்தில்-தொண்டமானை-வாழ்த்தினார்-வைரமுத்து/175-331847) · `ta`
-
-The poet Vairamuthu congratulates the Governor of the Eastern Province Senthil Thondaman on the fact that Mahakavi Bharatiyar said today.
-
-The poet Vairamuthu also said in his Twitter post that Governor Senthil Thondaman, who recovered the Tamil heritage, congratulated him.
-
-Governor of the Eastern Province of Sri Lanka Senthil Thondaman came home for love
-
-◼️
-
-[Data](articles/2acb47f1.json)
-
-[Extended Data](ext_articles/2acb47f1.ext.json)
-
----
-
-### Sri Lanka: Response to Economic Crisis Undermined Rights
-
-*2024-01-20 16:14:00* · [`islandlk`](http://island.lk/sri-lanka-response-to-economic-crisis-undermined-rights/) · `en`
-
-(Human Rights Watch – Bangkok) –Regressive government policies and inadequate social protection left many Sri Lankans at risk from the worst effects of the country’s economic crisis, Human Rights Watch said today in its World Report 2024. The government of President Ranil Wickremesinghe continued to repress freedoms of expression and association, and pursue policies that discriminate against minority communities.
-
-“Millions of Sri Lankans are struggling to survive an economic crisis that partly originated in corrupt, unaccountable governance,” said Meenakshi Ganguly, deputy Asia director at Human Rights Watch. “The current administration is responding with policies that weigh heaviest on those who have least, while suppressing voices that are essential for accountable, democratic decision-making.”
-
-...
-
-[Data](articles/202c0493.json)
-
-[Extended Data](ext_articles/202c0493.ext.json)
 
 ---

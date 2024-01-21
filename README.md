@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 02:17:21**
+As of **2024-01-22 02:50:14**
 
 ## Newspaper Stats
 
-*Scraped **1,661** Articles*
+*Scraped **1,664** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ islandlk | 97
 economynextcom | 104
 newsfirstlk | 109
 dbsjeyarajcom | 121
-dailyftlk | 155
 virakesarilk | 156
+dailyftlk | 158
 adalk | 180
 dailymirrorlk | 193
 tamilmirrorlk | 200
@@ -26,11 +26,67 @@ adaderanalk | 206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,367 (82.3%) of 1,661 articles have been extended.
+1,375 (82.6%) of 1,664 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### Ramanna Sect expels controversial ‘Sri Vishwa Buddha’
+
+*2024-01-22 01:59:02* · [`dailyftlk`](https://www.ft.lk/news/Ramanna-Sect-expels-controversial-Sri-Vishwa-Buddha/56-757620) · `en`
+
+Sri Lanka Ramanna Sect has expelled Buddhist monk Ratnapura Wimalabuddhi Thera who identifies himself as ‘Sri Vishwa Buddha’ following his initial arrest by the Criminal Investigations Department (CID) on 12 December.
+
+The expulsion of the controversial novice monk has been reported to the Commissioner of Buddhist Affairs by the Chief Prelate of the Sect, the most Venerable Makulewe Sri Wimala Thera.
+
+Initially, the monk faced arrest for expressing views inconsistent with Buddhist teachings on social media and was granted bail on 8 January by the Colombo Chief Magistrate. Subsequently, he was arrested once again yesterday, this time for making statements that were derogatory towards Buddhism, and he has been remanded until 26 January after being produced before the Gangodawila Magistrate’s Court.
+
+The decision to expel Ratnapura Wimalabuddhi Thera was unanimously reached during the Karaka Sangha meeting of the Ramanna Sect held on 15 December.
+
+...
+
+[Data](articles/e114d062.json)
+
+[Extended Data](ext_articles/e114d062.ext.json)
+
+---
+
+### National education policy framework 2023: a public policy dialogue tomorrow
+
+*2024-01-22 01:58:32* · [`dailyftlk`](https://www.ft.lk/news/National-education-policy-framework-2023-a-public-policy-dialogue-tomorrow/56-757619) · `en`
+
+The Bandaranaike Academy for Leadership and Public Policy (www.balpp.com) will be hosting a dialogue on the above topic on Tuesday 23 January at the Lavender Hall, BMICH.
+
+The dialogue will be primarily focused on an analysis of the NEPF, where students of the post graduate diploma course on education policy and analysis will take a lead role, followed by an open discussion.
+
+The Presidential Expert Committee members that prepared this document would also be in attendance, as well as officials from the Ministry of Education, and similar important stakeholders, including few principals and teachers.
+
+Those who are interested to attend may contact Daham ([email protected] and +94712350655)
+
+◼️
+
+[Data](articles/c95e54be.json)
+
+[Extended Data](ext_articles/c95e54be.ext.json)
+
+---
+
+### Hayleys Group sponsors 260 cataract surgeries through HelpAge Sri Lanka’s ‘Give the Gift of Sight’ initiative
+
+*2024-01-22 01:56:58* · [`dailyftlk`](https://www.ft.lk/news/Hayleys-Group-sponsors-260-cataract-surgeries-through-HelpAge-Sri-Lanka-s-Give-the-Gift-of-Sight-initiative/56-757618) · `en`
+
+Hayleys Chairman and Chief Executive Mohan Pandithage presents a personalised surgery sponsorship card to a patient at the HelpAge Eye Hospital in Wellawatte, Colombo 6.
+
+Hayleys Chairman and Chief Executive Mohan Pandithage presents a sponsorship cheque to HelpAge Sri Lanka’s Executive Director Samantha Liyanawaduge, in support of the ‘Give the Gift of Sight’ campaign. The gesture, alongside Hayleys Leisure Managing Director Rohan Karr (left), HelpAge Operations Theatre-In-Charge C.E. Fernando, and HelpAge Sri Lanka Community Relations Manager Tharika Goonathilake, highlights Hayleys’ commitment to impactful corporate social responsibility
+
+...
+
+[Data](articles/ab53007c.json)
+
+[Extended Data](ext_articles/ab53007c.ext.json)
+
+---
 
 ### SL commits to fair trade collaboration: EDB and int’l fair trade networks sign cooperation framework
 
@@ -2009,71 +2065,5 @@ He told reporters that an imported egg will now be sold at Rs. 43 each at all Sa
 [Data](articles/8214b325.json)
 
 [Extended Data](ext_articles/8214b325.ext.json)
-
----
-
-### Intempism to suppress people's expression of freedom of expression as a short step to win elections
-
-*2024-01-21 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174441) · `ta`
-
-The Media Civil Social Trade Union Federation has appealed to the government's efforts to suppress democratic rights by controlling people's speech.
-
-We express our deep concern over the efforts to bring the country into the dictatorship, on the basis of deeper changes in the socio -political system.
-
-Next week, the government is planning to pass the Funmentary Protection Bill. The government's efforts to submit other oppressive laws in parliament have expressed their efforts to suppress people's expression as a short step to win the upcoming elections.
-
-We are confident that the President's public has not been elected by the civilization of the civilian activists who are belonging to the sovereignty of Sri Lanka, and there is no mandate to impose new laws to pass oppressive laws to the parliament, which has been rejected by the people.
-
-...
-
-[Data](articles/b70c6d74.json)
-
-[Extended Data](ext_articles/b70c6d74.ext.json)
-
----
-
-### Peru president grabbed by protester at public event
-
-*2024-01-21 12:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Peru-president-grabbed-by-protester-at-public-event/107-275428) · `en`
-
-Ayacucho , Jan 11 9AFP) - A protester violently grabbed Peruvian President Dina Boluarte on Saturday during an event in the southern Ayacucho region, where 10 people were killed in mass anti-government demonstrations more than a year ago.
-
-TV footage of the assault showed Boluarte in traditional clothing surrounded by a crowd of people as she throws out candy, when a shouting woman approaches and grabs the president.
-
-A chaotic scene ensues as police intervene to separate the woman, with Boluarte seemingly uninjured and rejoining the event.
-
-The woman said she held Boluarte responsible for the death of her husband during the December 2022 protests in Ayacucho.
-
-Boluarte, 61, came to power that month after former leftist president Pedro Castillo tried to dissolve Congress and rule by decree, leading to his quick ouster and arrest.
-
-Violent protests demanding Boluarte step down and fresh elections be held followed across the country.
-
-...
-
-[Data](articles/9a65adc1.json)
-
-[Extended Data](ext_articles/9a65adc1.ext.json)
-
----
-
-### Prices of imported eggs to go up from today
-
-*2024-01-21 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96594/prices-of-imported-eggs-to-go-up-from-today-) · `en`
-
-Trade Minister Nalin Fernando has announced that the prices of imported eggs will be increased, effective from Sunday (21 Jan.), in view of the increased Value Added Tax (VAT).
-
-Speaking to the media today, Minister Fernando assured that there is no shortage of eggs in the market, and explained that a price hike is being implemented solely due to the increase in VAT.
-
-Accordingly, the prices of eggs imported from India will be increased by Rs. 08, from Rs. 35 to Rs. 43, at all Lanka Sathosa outlets with effect from today.
-
-Imported eggs were previously retailed at Rs. 35 per egg, while a carton was sold at Rs. 40 per egg at all Lanka Sathosa outlets.
-
-Sri Lanka began to import eggs in the first half of 2023, amidst a severe shortage, in response to the soaring prices of eggs within the local market.
-
-◼️
-
-[Data](articles/f958aaf3.json)
-
-[Extended Data](ext_articles/f958aaf3.ext.json)
 
 ---

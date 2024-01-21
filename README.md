@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 23:02:21**
+As of **2024-01-21 22:49:58**
 
 ## Newspaper Stats
 
-*Scraped **1,643** Articles*
+*Scraped **1,642** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,17 @@ virakesarilk | 156
 adalk | 180
 dailymirrorlk | 187
 tamilmirrorlk | 200
-adaderanalk | 206
+adaderanalk | 205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,286 (78.3%) of 1,643 articles have been extended.
+1,272 (77.5%) of 1,642 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
-
-### President meets UN chief and state leaders during ‘G77 and China’ summit
-
-*2024-01-21 22:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96606/president-meets-un-chief-and-state-leaders-during-g77-and-china-summit) · `en`
-
-President Ranil Wickremesinghe participated in the 3rd South Summit “G77 and China,” commencing today (21) in Kampala, Uganda. During the event, he engaged in fruitful discussions with numerous state leaders and representatives.
-
-This morning (21), President Ranil Wickremesinghe held a significant meeting with Dr. Riyad Malki, Palestine’s Minister of Foreign Affairs and Expatriates. Additionally, he met with Maldives Vice President Hussain Mohamed Latheef, fostering dialogue and collaboration.
-
-Further, President Ranil Wickremesinghe convened with UN Secretary-General Antonio Guterres on the same day (21), discussing matters of global significance.
-
-In a separate engagement, Indian Minister of State for External Affairs, Mr. Shri V. Muraleedharan, had a constructive discussion with President Ranil Wickremesinghe, emphasizing bilateral relations.
-
-...
-
-[Data](articles/74655438.json)
-
----
 
 ### Detention orders issued on 11 suspects arrested with 65kg heroin
 
@@ -61,8 +43,6 @@ Accordingly, the court granted permission for the suspects to be detained for 07
 ◼️
 
 [Data](articles/4b7b53ed.json)
-
-[Extended Data](ext_articles/4b7b53ed.ext.json)
 
 ---
 
@@ -774,6 +754,28 @@ Two people who came on a motorcycle were shot.
 
 ---
 
+### Pleased to be given the leadership responsibility for Sreedharan: I will give my full support to Chairman Sridharan - Sumanthiran
+
+*2024-01-21 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/174459) · `ta`
+
+Co -chief contestant MA Sumanthiran has said that the Sri Lankan Tamil party's responsibility for the Sri Lankan Tamil party is very high and he will give his full support to Chairman Sreedharan.
+
+In the election for the leader of the Tamil party, our party has been a role model for the country and the international community.
+
+It is a very happy thing that our leader Mawai Senathirajah led the Tamil party responsibility.
+
+We will continue to travel together on this journey. We have made this clear to the people in the election. We will continue to travel.
+
+Therefore, I am informed that I will give my full support to the leader of the democratic leader and that he will fully give it to the leader Sridharan.
+
+◼️
+
+[Data](articles/df5b5d2e.json)
+
+[Extended Data](ext_articles/df5b5d2e.ext.json)
+
+---
+
 ### Sri Lanka records 03 dengue deaths in past 20 days
 
 *2024-01-21 16:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/sri-lanka-records-03-dengue-deaths-in-past-20-days/) · `en`
@@ -796,25 +798,19 @@ Investigative report over controversial human immunoglobulin purchase handed to 
 
 ---
 
-### Pleased to be given the leadership responsibility for Sreedharan: I will give my full support to Chairman Sridharan - Sumanthiran
+### Supreme Court for the second time for Rajapaksa
 
-*2024-01-21 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174459) · `ta`
+*2024-01-21 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/174445) · `ta`
 
-Co -chief contestant MA Sumanthiran has said that the Sri Lankan Tamil party's responsibility for the Sri Lankan Tamil party is very high and he will give his full support to Chairman Sreedharan.
+The fundamental human rights violation petition filed against seven people was responsible for the country's economic downturn and crisis.. On November 14 last year, the Supreme Court declared that all seven were responsible for the economic downturn.
 
-In the election for the leader of the Tamil party, our party has been a role model for the country and the international community.
+Gotabhaya, who was chased away by the people without completing his tenure, said, "I have made some decisions for the benefit of the people and the nation.". However, when the Supreme Court's verdict on the issue of Duminda Silva on the 17th, the fact that the Gotabhaya executive has exceeded the constitution.. Gotabhaya also justified himself by a promise that he made this decision in view of the welfare of the nation, even the public amnesty to Duminda.. Today, his presidency has been criticized by the nation.
 
-It is a very happy thing that our leader Mawai Senathirajah led the Tamil party responsibility.
+...
 
-We will continue to travel together on this journey. We have made this clear to the people in the election. We will continue to travel.
+[Data](articles/3e46b98f.json)
 
-Therefore, I am informed that I will give my full support to the leader of the democratic leader and that he will fully give it to the leader Sridharan.
-
-◼️
-
-[Data](articles/df5b5d2e.json)
-
-[Extended Data](ext_articles/df5b5d2e.ext.json)
+[Extended Data](ext_articles/3e46b98f.ext.json)
 
 ---
 
@@ -1291,22 +1287,6 @@ Sivagnanam Shritharan contested the 2010 parliamentary election as one of the Ta
 [Data](articles/e74c3833.json)
 
 [Extended Data](ext_articles/e74c3833.ext.json)
-
----
-
-### Supreme Court for the second time for Rajapaksa
-
-*2024-01-21 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174445) · `ta`
-
-The fundamental human rights violation petition filed against seven people was responsible for the country's economic downturn and crisis.. On November 14 last year, the Supreme Court declared that all seven were responsible for the economic downturn.
-
-Gotabhaya, who was chased away by the people without completing his tenure, said, "I have made some decisions for the benefit of the people and the nation.". However, when the Supreme Court's verdict on the issue of Duminda Silva on the 17th, the fact that the Gotabhaya executive has exceeded the constitution.. Gotabhaya also justified himself by a promise that he made this decision in view of the welfare of the nation, even the public amnesty to Duminda.. Today, his presidency has been criticized by the nation.
-
-...
-
-[Data](articles/3e46b98f.json)
-
-[Extended Data](ext_articles/3e46b98f.ext.json)
 
 ---
 
@@ -2071,5 +2051,23 @@ Meanwhile, a junior staff worker was hospitalized after the doctor was assaulted
 [Data](articles/2d976161.json)
 
 [Extended Data](ext_articles/2d976161.ext.json)
+
+---
+
+### NAM calls Israel’s war in Gaza illegal and condemns attacks on Palestinians
+
+*2024-01-21 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96590/nam-calls-israels-war-in-gaza-illegal-and-condemns-attacks-on-palestinians) · `en`
+
+Heads of states of the Non-Aligned Movement Saturday called Israel’s military campaign in the Gaza Strip “illegal” and strongly condemned indiscriminate attacks against Palestinian civilians, civilian infrastructure and the forced displacement of the Palestinian population.
+
+While calling for a ceasefire desperately needed for humanitarian aid to access the Gaza Strip, the movement in a joint statement called for a two-state solution, on the basis of the borders before 1967, when Israel seized Gaza, the West Bank and East Jerusalem in a brief war with neighboring Arab states.
+
+The group also reiterated support for a Palestinian state to be admitted as a member of the United Nations to take its rightful place among the community of nations.
+
+...
+
+[Data](articles/69238a9f.json)
+
+[Extended Data](ext_articles/69238a9f.ext.json)
 
 ---

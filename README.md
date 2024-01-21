@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 13:17:20**
+As of **2024-01-21 13:33:01**
 
 ## Newspaper Stats
 
-*Scraped **1,553** Articles*
+*Scraped **1,554** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ virakesarilk | 132
 dailyftlk | 150
 adalk | 168
 dailymirrorlk | 178
-tamilmirrorlk | 194
+tamilmirrorlk | 195
 adaderanalk | 195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-790 (50.9%) of 1,553 articles have been extended.
+800 (51.5%) of 1,554 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### பாடசாலைகளுக்கு விசேட சுற்றறிக்கை
+
+*2024-01-21 12:55:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாடசாலைகளுக்கு-விசேட-சுற்றறிக்கை/76-331889) · `ta`
+
+மத்திய மாகாணத்தில் உள்ள அனைத்து பாடசாலைகளிலும் ஏழு நிகழ்வுகளுக்கு மாத்திரம் மட்டுப்படுத்தப்படும் என மத்திய மாகாண கல்விப் பணிப்பாளர்  மேனகா ஹேரத்தினால்    விசேட சுற்றறிக்கை ஒன்று வெளியிடப்பட்டுள்ளது.
+
+சில பாடசாலைகள் பல்வேறு நிகழ்வுகளை ஏற்பாடு செய்து பெற்றோரிடம் பணம் வசூலிப்பதாக ​கிடைக்கப்பெற்ற முறைப்பாடுகளை கருத்திற் கொண்டு மத்திய மாகாண சபைக்குட்பட்ட பாடசாலைகள் மற்றும் தேசிய பாடசாலைகளுக்கு இந்த சுற்றறிக்கை வெளியிடப்பட்டுள்ளது.
+
+அந்த சுற்றறிக்கையின் பிரகாரம் முதலாம் தவணையில் மூன்று விழாக்களும் இரண்டாம் தவணைகளில் நான்கு விழாக்களும் நடத்த அனுமதி வழங்கப்பட்டுள்ளதுடன், கூடுதலாக ஏதேனும் விழா நடத்தினால் மாகாண கல்விப் பணிப்பாளரிடம் அனுமதி பெற வேண்டும் என்றும் குறிப்பிடப்பட்டுள்ளது.
+
+முதலாம் தவணையில் மாணவர்களுக்கான புதுமுக விழா, சுதந்திர விழா, இல்லங்களுக்கு இடையேயான தடகள போட்டியும், இரண்டாம் மற்றும் மூன்றாம் தவணைகளில் கல்விச் சுற்றுலா, கலை விழா,   ஆண்டு பரிசளிப்பு விழா நடத்தவும் அனுமதி வழங்கப்படும்.
+
+...
+
+[Data](articles/f79fbbb2.json)
+
+---
 
 ### Price of imported eggs to go up by Rs. 8 from today: Minister
 
@@ -43,6 +61,8 @@ He told reporters that an imported egg will now be sold at Rs. 43 each at all Sa
 ◼️
 
 [Data](articles/8214b325.json)
+
+[Extended Data](ext_articles/8214b325.ext.json)
 
 ---
 
@@ -65,6 +85,8 @@ Violent protests demanding Boluarte step down and fresh elections be held follow
 ...
 
 [Data](articles/9a65adc1.json)
+
+[Extended Data](ext_articles/9a65adc1.ext.json)
 
 ---
 
@@ -110,6 +132,8 @@ He further said that the bus owners will agree to this proposal if the bus prior
 
 [Data](articles/2bb30043.json)
 
+[Extended Data](ext_articles/2bb30043.ext.json)
+
 ---
 
 ### SLOA launches College of Optometry
@@ -121,6 +145,8 @@ The Sri Lanka Optometric Association (SLOA) inaugurated a new division, the Coll
 ◼️
 
 [Data](articles/bf00458c.json)
+
+[Extended Data](ext_articles/bf00458c.ext.json)
 
 ---
 
@@ -141,6 +167,8 @@ The arrested monk will be produced in the Gangodawila Magistrat'es Court.
 ◼️
 
 [Data](articles/d746eba2.json)
+
+[Extended Data](ext_articles/d746eba2.ext.json)
 
 ---
 
@@ -203,6 +231,8 @@ President Museveni commended the nation for its achievements in this regard.
 ◼️
 
 [Data](articles/5cc6732f.json)
+
+[Extended Data](ext_articles/5cc6732f.ext.json)
 
 ---
 
@@ -2059,27 +2089,5 @@ Sanjeewa Sanjeewa is currently being held on the detention orders of an organize
 [Data](articles/632b7c54.json)
 
 [Extended Data](ext_articles/632b7c54.ext.json)
-
----
-
-### The main member of the CWC has passed away
-
-*2024-01-20 17:52:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/இ-தொ-காவின்-முக்கிய-உறுப்பினர்-காலமானார்/76-331848) · `ta`
-
-Arumugam Ganesamoorthy, a prominent member of the Ceylon Workers Congress and a former member of the Uva Provincial Council, passed away when he was taken to the outdoor public hospital this morning for treatment.
-
-He is a member of the Lunugala Pradeshiya Sabha and a member of the Lunugala Pradeshiya Sabha through the Ceylon Workers Congress and a member of the former Uva Provincial Council.
-
-During his tenure as a member of the Uva Provincial Council, he had contributed significantly to the development of the science department during his period of the educational development of Tamil language schools in Badulla district.
-
-Hallyela Uva Kattawalai will be placed at Anjali at his wife's hometown today at 10.00 am.
-
-His family members said that at 3.00 pm on the 22nd, the Ambalangoda plantation public cemetery will be held at the Public Cemetery.. Remble
-
-◼️
-
-[Data](articles/d9ab419f.json)
-
-[Extended Data](ext_articles/d9ab419f.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 18:51:35**
+As of **2024-01-21 19:17:07**
 
 ## Newspaper Stats
 
-*Scraped **1,615** Articles*
+*Scraped **1,617** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 38
-adaderanasinhalalk | 66
+adaderanasinhalalk | 67
 islandlk | 97
 economynextcom | 103
 newsfirstlk | 109
@@ -18,7 +18,7 @@ dbsjeyarajcom | 121
 virakesarilk | 149
 dailyftlk | 150
 adalk | 174
-dailymirrorlk | 180
+dailymirrorlk | 181
 tamilmirrorlk | 200
 adaderanalk | 201
 
@@ -26,11 +26,45 @@ adaderanalk | 201
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,106 (68.5%) of 1,615 articles have been extended.
+1,134 (70.1%) of 1,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### හිරෙන් පැන්න රැඳවියා අන්තිමට කොටුවූ තැන මෙන්න
+
+*2024-01-21 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192403) · `si`
+
+බන්ධනාගාර නිලධාරීන්ගේ ග්‍රහණයෙන් මිදී පළායමින් සිටි රැඳවියෙකු ගාල්ල බන්ධනාගාර නිලධාරීන් විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම රැඳවියා මාතර බන්ධනාගාරයේ රඳවා සිට ඇති අතර ඔහුව තවත් සිරකරුවන් පිරිසක් සමග මාතර මන්තින්ද පිරිවෙණේ වැඩකටයුතු සඳහා යොදවා සිට ඇත.
+
+එහිදී සැකකරු බන්ධනාගාර නිලධාරීන්ගේ ග්‍රහණයෙන් මිදී පළාගොස් ඇති අතර ඔහු බස් රථයකින් ප්‍රථමයෙන් ගාල්ලට පැමිණ තිබේ.
+
+අනතුරුව සැකකාර බන්ධනාගාර රැඳවියා ගාල්ල දුම්රිය ස්ථානයෙන් දුම්රියට නැග සිටියදී ගාල්ල බන්ධනාගාර නිලධාරීන් විසින් ඔහුව අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/1fbe5442.json)
+
+---
+
+### President emphasizes urgent need for global financial architecture reform
+
+*2024-01-21 18:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-emphasizes-urgent-need-for-global-financial-architecture-reform/108-275435) · `en`
+
+Uganda, Jan. 21 (Daily Mirror)- President Ranil Wickremesinghe, addressing the 3rd South Summit in Kampala, Uganda, emphasized the urgent need for global financial architecture reform,President's Media Division (PMD) said.
+
+In his statement, the President also pointed out that the contemporary international debt resolution architecture is more suited for a world where the Paris Club and London Club dominated global debt resolution. Currently the global debt and particularly debt in the developing world is dominated by international bond markets, and non-Paris Club lenders.
+
+The President lamented the diversion of financial resources to debt service, hindering spending on essential public services and human development, impacting Sustainable Development Goal (SDG) targets. He criticized the Common Framework for its inability to provide speedy debt resolution, causing delays in addressing recent sovereign debt distress in many G77 countries.
+
+...
+
+[Data](articles/ed4dd48f.json)
+
+---
 
 ### General Leader's decision on universal Buddha
 
@@ -496,21 +530,23 @@ Later, after 16 hours the boy was taken to Mali by plane. The boy died without t
 
 ---
 
-### දෙමළ ජාතික සන්ධානයේ නව නායකයා ලෙස මන්ත්‍රී ශ්‍රී ධරන් පත්වෙයි
+### Member of the TNA is the new leader of the TNA
 
 *2024-01-21 15:12:21* · [`adalk`](https://www.ada.lk/breaking_news/දෙමළ-ජාතික-සන්ධානයේ-නව-නායකයා-ලෙස-මන්ත්‍රී-ශ්‍රී-ධරන්-පත්වෙයි/11-407645) · `si`
 
-ඉලංගෙයි තමිල් අරසු කච්චි හෙවත් දෙමල ජාතික සංධානයේ නව නායකයා ලෙස අද (21) පැවැති මධ්‍යම කාරක සභා ඡන්ද විසිමේදි යාපනය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එස්.ශ්‍රි ධරන් මහතා වැඩි ඡන්ද 47 කින් ජයග්‍රහණය කලේය.
+Jaffna District Parliamentarian S. S ෝාප parliamentarian won the majority of 47 votes.
 
-මෙම ඡන්ද විමසීම ත්‍රිකුණාමලය නගර ශාලාවේදි පැවැත්වුණි. නායකත්වය සදහා පාර්ලිමේන්තු මන්ත්‍රීවරැන් වන ඒ.එම්.සුමන්තිරන් ,එස්.ශ්‍රි ධරන්.සහා හිටපු පාර්ලිමේන්තු මන්ත්‍රී ආර්.යෝගේෂ්වරන් යන මන්ත්‍රීවරැන්ගේ නම් යෝජනාවු අතර ඡන්දය විමසුමකට පෙර යෝගේෂ්වරන් මහතා ඉවත්වීම විශේෂත්වයකි.
+The election was held at the Trincomalee Town Hall. Members of Parliament, MPs, MP R. Krigirun, S. Ryogirun, for the leadership, proposals MP R. Krigan.
 
-මධ්‍යම කාරක සභා සාමාජිකයන් 327 දෙනෙකුට ඡන්ද අයිතිය තිබු අතර ඉන් 321 ක් ඡන්දය ලබා දුන්හ.හය දෙනෙකු ඡන්ද ප්‍රකාශ කිරිමට නොපැමිණීම වවිශේෂත්වයකි . අනුව ශ්‍රි ධරන් මහතා ඡන්ද 184 ක් ලබා ගත් අතර සුමන්තිරන් මහතාට ලබාගත හැකි වුයේ ඡන්ද 137 ක් පමණි.ඒ අනුව වැඩි ඡන්ද 47 ලබාගෙන ශ්‍රි ධරන් මහතා ජයග්‍රහණය කලහ.
+327 central committee members have voted and 321 were voted.. According to Mr. Sri Danaran obtained 184 votes while Sumanthiran was able to obtain 137 votes.
 
-දෙමල ජාතික සංධානයේ හිටපු නායක පාර්ලිමේන්තු මන්ත්‍රී ආර්.සම්බන්ධන් මහතාගේ අයහපත් සෞඛ්‍ය තත්ත්වය මත මධ්‍යම කාරක සභාව ගත් තිරණයක් අනුව මෙම ඡන්ද විමසුමක පවත්වා නව නායකයා තෝරාපත කර ගැනුණි.
+The new Leader has been selected on a decision taken by the Central Committee on the adverse health conditions of former leader of the Tamil National Alliance.
 
 ◼️
 
 [Data](articles/4f68a343.json)
+
+[Extended Data](ext_articles/4f68a343.ext.json)
 
 ---
 
@@ -2085,41 +2121,5 @@ Dr. Chamal Sanjeewa added that the present Health Minister and Civil Rights Alli
 [Data](articles/401cc1c3.json)
 
 [Extended Data](ext_articles/401cc1c3.ext.json)
-
----
-
-### 24-year-old youth billy
-
-*2024-01-21 08:19:29* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-24ක-තරුණයෙක්-ගිනි-අවියකට-බිලි/11-407636) · `si`
-
-The man was killed by two overseas persons who had come to a motorcycle in the Halljjawila juncture at the Teljjawila junction of the Malimboda police division.
-
-The shooting was shot dead at night while he was identified as 24-year-old Welipitiya.
-
-Police say the deposit is suspected of using a porgule weapon for shooting. The police have not been revealed in terms of the cause of the killing or the murder, police said.
-
-◼️
-
-[Data](articles/6aa34057.json)
-
-[Extended Data](ext_articles/6aa34057.ext.json)
-
----
-
-### President reserves Rs. 2,000 million
-
-*2024-01-21 08:10:50* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලක්ෂ-2000ක්-වෙන්කරගෙන-රට-සවාරි-යනවා/11-407635) · `si`
-
-IMF to work in government income. The president of the country is the prospect of the president of the country, which has been exposed to the country's Taxes through the country's trips and is in the country's masses by supplementary inspection of the country through a supplementary estimation of the country's taxes.The Opposition Leader said.
-
-The President also invited the opposition MPs to spend the country's tax on the country, and even the Presidential Secretariat and even parliamentary officers will be used without educational equipment.The opposition leader emphasized that the President is trying to download.
-
-Opposition Leader Sajith Premadasa said that as the Opposition Leader was able to provide the new classroom equipment to Uganda in the Western Province of Opposition as the Opposition Leader in the Western Province.
-
-...
-
-[Data](articles/c73c4f59.json)
-
-[Extended Data](ext_articles/c73c4f59.ext.json)
 
 ---

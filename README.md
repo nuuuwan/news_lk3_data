@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 13:33:01**
+As of **2024-01-21 13:51:44**
 
 ## Newspaper Stats
 
-*Scraped **1,554** Articles*
+*Scraped **1,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 97
 newsfirstlk | 102
 economynextcom | 103
 dbsjeyarajcom | 118
-virakesarilk | 132
+virakesarilk | 137
 dailyftlk | 150
 adalk | 168
 dailymirrorlk | 178
@@ -26,27 +26,47 @@ adaderanalk | 195
 
 Extensions include translations and NER (Named Entity Recognition).
 
-800 (51.5%) of 1,554 articles have been extended.
+807 (51.8%) of 1,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### பாடசாலைகளுக்கு விசேட சுற்றறிக்கை
+### Special circular to schools
 
 *2024-01-21 12:55:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாடசாலைகளுக்கு-விசேட-சுற்றறிக்கை/76-331889) · `ta`
 
-மத்திய மாகாணத்தில் உள்ள அனைத்து பாடசாலைகளிலும் ஏழு நிகழ்வுகளுக்கு மாத்திரம் மட்டுப்படுத்தப்படும் என மத்திய மாகாண கல்விப் பணிப்பாளர்  மேனகா ஹேரத்தினால்    விசேட சுற்றறிக்கை ஒன்று வெளியிடப்பட்டுள்ளது.
+A special circular has been issued by the Director of Education of the Central Province, Menaka Hera, that only seven events will be limited to all schools in the Central Province.
 
-சில பாடசாலைகள் பல்வேறு நிகழ்வுகளை ஏற்பாடு செய்து பெற்றோரிடம் பணம் வசூலிப்பதாக ​கிடைக்கப்பெற்ற முறைப்பாடுகளை கருத்திற் கொண்டு மத்திய மாகாண சபைக்குட்பட்ட பாடசாலைகள் மற்றும் தேசிய பாடசாலைகளுக்கு இந்த சுற்றறிக்கை வெளியிடப்பட்டுள்ளது.
+The circular has been issued to schools and national schools under the Central Provincial Council, considering the complaints received by some schools to organize various events and make money from their parents.
 
-அந்த சுற்றறிக்கையின் பிரகாரம் முதலாம் தவணையில் மூன்று விழாக்களும் இரண்டாம் தவணைகளில் நான்கு விழாக்களும் நடத்த அனுமதி வழங்கப்பட்டுள்ளதுடன், கூடுதலாக ஏதேனும் விழா நடத்தினால் மாகாண கல்விப் பணிப்பாளரிடம் அனுமதி பெற வேண்டும் என்றும் குறிப்பிடப்பட்டுள்ளது.
+According to the circular, three ceremonies in the first installment and four of the second installments have been allowed to be held in the second installment and that any additional ceremony should be obtained from the Provincial Director of Education.
 
-முதலாம் தவணையில் மாணவர்களுக்கான புதுமுக விழா, சுதந்திர விழா, இல்லங்களுக்கு இடையேயான தடகள போட்டியும், இரண்டாம் மற்றும் மூன்றாம் தவணைகளில் கல்விச் சுற்றுலா, கலை விழா,   ஆண்டு பரிசளிப்பு விழா நடத்தவும் அனுமதி வழங்கப்படும்.
+In the first installment, the newcomer, the Independence Ceremony, the Athletics Competition between the Homes, the second and the third installments will be allowed to hold educational tourism, art and annual gifts.
 
 ...
 
 [Data](articles/f79fbbb2.json)
+
+[Extended Data](ext_articles/f79fbbb2.ext.json)
+
+---
+
+### The public can make comments from January 23 - Public Utilities Commission
+
+*2024-01-21 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174443) · `ta`
+
+The Ceylon Electricity Board has issued a proposal to revise the electricity tariff to the Sri Lanka Public Utilities Commission.
+
+A spokesman for the Commission said that the Public Utilities Commission of Sri Lanka will meet this week to discuss the proposal.
+
+In addition, the Commission said that the public will be obtained on the amendment of the electricity tariff for 23 days from Tuesday, the 23rd of Tuesday and that people can submit their views in writing for 21 days.
+
+◼️
+
+[Data](articles/20bd8ee1.json)
+
+[Extended Data](ext_articles/20bd8ee1.ext.json)
 
 ---
 
@@ -63,6 +83,26 @@ He told reporters that an imported egg will now be sold at Rs. 43 each at all Sa
 [Data](articles/8214b325.json)
 
 [Extended Data](ext_articles/8214b325.ext.json)
+
+---
+
+### Intempism to suppress people's expression of freedom of expression as a short step to win elections
+
+*2024-01-21 12:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174441) · `ta`
+
+The Media Civil Social Trade Union Federation has appealed to the government's efforts to suppress democratic rights by controlling people's speech.
+
+We express our deep concern over the efforts to bring the country into the dictatorship, on the basis of deeper changes in the socio -political system.
+
+Next week, the government is planning to pass the Funmentary Protection Bill. The government's efforts to submit other oppressive laws in parliament have expressed their efforts to suppress people's expression as a short step to win the upcoming elections.
+
+We are confident that the President's public has not been elected by the civilization of the civilian activists who are belonging to the sovereignty of Sri Lanka, and there is no mandate to impose new laws to pass oppressive laws to the parliament, which has been rejected by the people.
+
+...
+
+[Data](articles/b70c6d74.json)
+
+[Extended Data](ext_articles/b70c6d74.ext.json)
 
 ---
 
@@ -172,6 +212,34 @@ The arrested monk will be produced in the Gangodawila Magistrat'es Court.
 
 ---
 
+### A purpose of increasing support for Ranil: The presidential election does not stop the PA
+
+*2024-01-21 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174438) · `ta`
+
+The Sri Lanka PA has decided not to field a candidate in the presidential election, saying that the aim is to increase the vote bank of the Sunday Times Ranil Wickremesinghe.
+
+The Sri Lankan PA is reportedly significant changes in the presidential candidate.
+
+Party leader Mahinda Rajapaksa has issued a new stand beyond the issues made by the party's general secretary, Sagarakariyawasam. He has not yet decided on the presidential candidate.
+
+He has stated that the Sri Lankan PA has not yet decided whether to field its candidate.
+
+First, Mahinda Rajapaksa said that the party's general secretary's comments on four candidates, including Dhammika Perera, have now become invalid.
+
+The issues stated at the press conference have been changed as the official position of the party is still clear.
+
+It is not wrong to say that Mahinda Rajapaksa has commented on the position of the General Secretary of the PA.
+
+Why did this change occurred, especially before the presidential election?
+
+...
+
+[Data](articles/cc9e9276.json)
+
+[Extended Data](ext_articles/cc9e9276.ext.json)
+
+---
+
 ### Monks Buddhist monk arrests again
 
 *2024-01-21 11:58:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஸ்வ-புத்த-துறவி-மீண்டும்-கைது/175-331878) · `ta`
@@ -211,6 +279,42 @@ The hospital’s authorities had brought the situation under control, however, a
 [Data](articles/50ff176b.json)
 
 [Extended Data](ext_articles/50ff176b.ext.json)
+
+---
+
+### The new leader of the Tamil National Alliance (TNA)
+
+*2024-01-21 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174436) · `ta`
+
+A referendum for the selection of the new leader of the Sri Lanka Tamil National Alliance (TNA) has been launched at the Trincomalee Municipal Council Hall.
+
+Members of the Northern and Eastern Provinces, especially in the Northern and Eastern Provinces, and nine district representatives, including Colombo, have participated in the vote for the selection of members.
+
+It is possible to observe that the party members were enrolled inside the referendum, after the membership of each district and the members of the Central Committee was examined and the membership of the party was assured.
+
+It is also reported that the current leader of the Sri Lanka Tamil National Party (SLFP), Mavai Senadirasa, contesting candidates MA Sumanthiran, C. Saridharan and C. Yogeswaran have been discussing for a long time.
+
+...
+
+[Data](articles/15643188.json)
+
+[Extended Data](ext_articles/15643188.ext.json)
+
+---
+
+### Education Minister's Key announcement on the Vocational Guidance Program for High Quality Students
+
+*2024-01-21 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174437) · `ta`
+
+Education Minister Susil Premajayantha has announced that a special program will be implemented soon to provide professional guidelines to students who are looking for the GCE A / L examination for 2023.
+
+The Minister further stated that the project will be expected to take place in more than 300 centers across the country from February 20.
+
+◼️
+
+[Data](articles/73f9bdb0.json)
+
+[Extended Data](ext_articles/73f9bdb0.ext.json)
 
 ---
 
@@ -1987,107 +2091,5 @@ Jaishankar is in the Ugandan capital city of Kampala to represent India at the t
 [Data](articles/41ae4717.json)
 
 [Extended Data](ext_articles/41ae4717.ext.json)
-
----
-
-### A Bleak Forecast For 2024 & Beyond: Politics (Security), Economics & Military
-
-*2024-01-20 18:32:49* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/a-bleak-forecast-for-2024-beyond-politics-security-economics-military/) · `en`
-
-This piece uses the vast amount of information on the web, social-media, broadcasts and news sites. My role is to use what limited intelligence providence has endowed me with to select and filter. I hope this will be of service to readers who do not have the patience to explore all the available information themselves. Nations are fretful above all else of existential concerns, that is politics in the sense of security, not politics in the familiar but vulgar sense of endemic corruption. Once existence is assured the second matter to focus on is material wellbeing; prosperity, employment, wealth and so on broadly falling under the umbrella term ‘the economy’. My accent in this piece is on the Great Powers (America, China and Russia) though discussion of the Middle East (the Muslim World and Israel) is unavoidable.
-
-...
-
-[Data](articles/dda1d483.json)
-
-[Extended Data](ext_articles/dda1d483.ext.json)
-
----
-
-### Rs. 1.6bn worth of heroin recovered from intercepted fishing trawlers
-
-*2024-01-20 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96575/rs-16bn-worth-of-heroin-recovered-from-intercepted-fishing-trawlers-) · `en`
-
-Sri Lanka Navy on Friday (Jan.19) foiled yet another drug smuggling attempt by intercepting a local multiday fishing trawler carrying a large cache of heroin.
-
-The street value of the heroin consignment, weighing over 65kg, is believed to be more than Rs. 1,626 million.
-
-Additionally, another multiday fishing trawler, suspected of assisting the other vessel, too was impounded during the operation which led to the arrest of 11 suspects involved in the drug smuggling attempt.
-
-The Navy and the Police Narcotics Bureau (PNB), in tandem with the intelligence services, had mounted a special operation about 100 nautical miles (approximately 185km) off Dondra Head, Matara on Friday (Jan.19).
-
-Accordingly, a suspicious local fishing trawler was first intercepted off the southern coast on Friday morning.
-
-...
-
-[Data](articles/df1ed846.json)
-
-[Extended Data](ext_articles/df1ed846.ext.json)
-
----
-
-### “Lamā Adhyāpanaya Sandahā Kathandara” (Stories To Be Used For Educating Children)
-
-*2024-01-20 18:24:06* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/lama-adhyapanaya-sandaha-kathandara-stories-to-be-used-for-educating-children/) · `en`
-
-Swarna Chandrasekera, Ph.D. is a well-known author and academic in Sri Lanka and in Canada. Her speciality in children’s education which she has mastered over many years has resulted in her active engagement in children’ literature.
-
-Her well-known book, children’s literature in Sri Lanka, published in 1989, won the State Literary Award in Sri Lanka in the same year. She also has a special interest in children’s poetry, which resulted in her publication of another valuable book titled, “Sinhala Lamaa Kavya.” This too has become a very popular book among the teachers and many others in the country. Her enthusiasm also extended to literature based on the younger and young adult generation in general. She published a book on “Young Adult Literature” in 2011 based on her Ph.D. research.
-
-Lamā Adhyāpanaya Sandahā Kathandara By Dr. Swarna  Chandrasekera, Published by Sarasavi Publishers, Sri Lanka, 2023
-
-...
-
-[Data](articles/f36851c4.json)
-
-[Extended Data](ext_articles/f36851c4.ext.json)
-
----
-
-### More information about the heroin raid at the right sea
-
-*2024-01-20 18:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192365) · `si`
-
-The Navy has made a clarify regarding the stock of drugs in the South Sea.
-
-It is said that there were over 65 km of heroin in over 1,626 million rupees.
-
-The Sri Lanka Navy had launched a search operational in the South Sea, about 100 nautical miles (about 185 km) from the South Sea.
-
-The suspects were arrested along with another multi-day fishing vessel and other multi-day fishing vessel suspected to be transported by 45 km of heroin.
-
-The eleven (11 km kilos) of the suspects and 65 kg of drugs were taken to the Galle Harbor for further legal action today (Jan. 20).
-
-The gross value of heroin heroin arrested by this operation is believed to have been worth over Rs. 1626 million.
-
-◼️
-
-[Data](articles/3068cf2d.json)
-
-[Extended Data](ext_articles/3068cf2d.ext.json)
-
----
-
-### Woman to bribe the bribe of Sanjeewa in Ganemulla - Arrested in the voice
-
-*2024-01-20 17:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192364) · `si`
-
-The Narcotics Bureau of Narcotics Branch has gone to inspect a review of the Narcotics Bureau of Narcotics Bureau, Ganejawa's drug dealer and a powerful drug dealer, Ganelagawa's drug dealer.
-
-According to internal sources, a lawyer who is speaking to A lawyer who is speaking to Sanjeewa relatives of Ganemulla has come to the station.
-
-The lawyer involved in the incident is a resident of Gampaha area and has also tried to bribilize a bribe after the lawyer's attempt was failed.
-
-A complaint has been lodged with the Investigation Commission too.
-
-Ada Derana also received a voice of a farming call that is trying to bribilize the Affairs Bureau of Narcotics Bureau.
-
-Sanjeewa Sanjeewa is currently being held on the detention orders of an organized crime leader and a strong drug dealer.
-
-◼️
-
-[Data](articles/632b7c54.json)
-
-[Extended Data](ext_articles/632b7c54.ext.json)
 
 ---

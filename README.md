@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 07:24:10**
+As of **2024-01-21 08:12:30**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanalk | 185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-491 (33.0%) of 1,490 articles have been extended.
+511 (34.3%) of 1,490 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -64,17 +64,19 @@ Peter Julian Robin Morgan, CBE, is my first person of interest. He was born on A
 
 ---
 
-### தமிழரசுக் கட்சியின் இரகசிய வாக்கெடுப்பு இன்று
+### TNA secret vote today
 
 *2024-01-21 03:18:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சியின்-இரகசிய-வாக்கெடுப்பு-இன்று/175-331865) · `ta`
 
-இலங்கை தமிழரசுக் கட்சியின் தலைவரை தெரிவு செய்வதற்கான  இரகசிய வாக்கெடுப்பு இன்று (21) நடைபெறுகிறது.
+A secret referendum to elect the leader of the Sri Lankan Tamil party is being held today (21).
 
-பாராளுமன்ற உறுப்பினர்களான ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன், எஸ். ஶ்ரீதரன் மற்றும் முன்னாள் பாராளுமன்ற உறுப்பினர் சீனித்தம்பி யோகேஸ்வரன் ஆகியோர் இலங்கை தமிழரசுக் கட்சியின் தலைவர் பதவிக்காக போட்டியிடுகின்றனர். (a)
+Members of Parliament, President's Attorney MA Sumanthiran, S. Sridharan and former MP Senithambi Yogeswaran are contesting for the post of leader of the Sri Lankan Tamil party. (A)
 
 ◼️
 
 [Data](articles/9f59f61e.json)
+
+[Extended Data](ext_articles/9f59f61e.ext.json)
 
 ---
 
@@ -1174,6 +1176,8 @@ This panel is primarily about the ways in which Mahagama Sekera’s art was shap
 
 [Data](articles/301bcbd7.json)
 
+[Extended Data](ext_articles/301bcbd7.ext.json)
+
 ---
 
 ### Intelligence information. Beeddy Kole arrested
@@ -1254,6 +1258,8 @@ I produce below an extract from the Ceylon Times dated June 4, 1875 headlined �
 
 [Data](articles/b2cc521c.json)
 
+[Extended Data](ext_articles/b2cc521c.ext.json)
+
 ---
 
 ### Modi's first Indian Prime Minister to visit Srirangam Temple in Trichy
@@ -1295,6 +1301,8 @@ Prof. Chandra Gunawardene was the Dean of the Faculty of Education at the Open U
 ...
 
 [Data](articles/00a14db3.json)
+
+[Extended Data](ext_articles/00a14db3.ext.json)
 
 ---
 
@@ -1750,6 +1758,8 @@ This noteworthy accolade came days after the same Annual Report received the Sil
 
 [Data](articles/2eec05bd.json)
 
+[Extended Data](ext_articles/2eec05bd.ext.json)
+
 ---
 
 ### Fire in elementary school: 13 killed
@@ -1844,6 +1854,8 @@ He graduated with a Master of Business Administration in Human Resource Manageme
 
 [Data](articles/94f32ec1.json)
 
+[Extended Data](ext_articles/94f32ec1.ext.json)
+
 ---
 
 ### Amila Gold House Pvt Ltd shines at Southern Province Entrepreneur Awards
@@ -1855,6 +1867,8 @@ Amila Gold House Private Limited, a leader in the manufacture and sale of fine j
 ...
 
 [Data](articles/26c69eca.json)
+
+[Extended Data](ext_articles/26c69eca.ext.json)
 
 ---
 
@@ -1870,6 +1884,8 @@ Lasitha Wimalaratne, CEO of HNBA expressed his thoughts at the forum, stating, �
 
 [Data](articles/b876217b.json)
 
+[Extended Data](ext_articles/b876217b.ext.json)
+
 ---
 
 ### Arpico Insurance PLC wins at the CA Sri Lanka TAGS Awards 2023
@@ -1883,6 +1899,8 @@ Organized by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka),
 ...
 
 [Data](articles/df25c12e.json)
+
+[Extended Data](ext_articles/df25c12e.ext.json)
 
 ---
 

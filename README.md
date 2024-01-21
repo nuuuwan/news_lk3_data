@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 12:32:47**
+As of **2024-01-21 12:48:59**
 
 ## Newspaper Stats
 
-*Scraped **1,545** Articles*
+*Scraped **1,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 103
 dbsjeyarajcom | 118
 virakesarilk | 132
 dailyftlk | 150
-adalk | 167
+adalk | 168
 dailymirrorlk | 172
 tamilmirrorlk | 194
 adaderanalk | 194
@@ -26,7 +26,7 @@ adaderanalk | 194
 
 Extensions include translations and NER (Named Entity Recognition).
 
-739 (47.8%) of 1,545 articles have been extended.
+765 (49.5%) of 1,546 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -70,6 +70,8 @@ The hospital’s authorities had brought the situation under control, however, a
 
 [Data](articles/50ff176b.json)
 
+[Extended Data](ext_articles/50ff176b.ext.json)
+
 ---
 
 ### President Ranil discusses enhancing bilateral relations with Ugandan counterpart
@@ -87,6 +89,8 @@ The leaders delved into discussions about Sri Lanka’s new economic program, wi
 ...
 
 [Data](articles/00a4e4f1.json)
+
+[Extended Data](ext_articles/00a4e4f1.ext.json)
 
 ---
 
@@ -156,6 +160,8 @@ According to police, the robed suspect, who was arrested in Kalagedihena, had al
 
 [Data](articles/0c0d65af.json)
 
+[Extended Data](ext_articles/0c0d65af.ext.json)
+
 ---
 
 ### Arrested 987 in 24 hours
@@ -215,6 +221,8 @@ The group also reiterated support for a Palestinian state to be admitted as a me
 ...
 
 [Data](articles/69238a9f.json)
+
+[Extended Data](ext_articles/69238a9f.ext.json)
 
 ---
 
@@ -485,6 +493,28 @@ Ayodhya City Security has been handed over to the Central Government's Special S
 [Data](articles/27dba353.json)
 
 [Extended Data](ext_articles/27dba353.ext.json)
+
+---
+
+### අභිජනනයට ගෙනා එළුවන් 104ක් මිය ගිහින්
+
+*2024-01-21 09:53:59* · [`adalk`](https://www.ada.lk/breaking_news/අභිජනනයට-ගෙනා-එළුවන්-104ක්-මිය-ගිහින්/11-407638) · `si`
+
+මේ වන විට මෙරට වැසී ඇති ගොවිපොළවල් සංඛ්‍යාව 14000 ඉක්මවන බව කෝපා කමිටුවේදී අනාවරණය වෙයි.
+
+මිල්කෝ සමාගමට දෛනිකව ලැබුණු කිරි ප්‍රමාණය විශාල වශයෙන් අඩු වෙලා - අමාත්‍ය මහින්ද අමරවීර මහතා
+
+දෙපාර්තමේන්තුව සතු දත්ත පද්ධතිය යාවත්කාලීනව පවත්වාගෙන යාමේ වැදගත් කම කමිටුව අවධාරණය කරයි.
+
+කිරි නිෂ්පාදනය සම්බන්ධයෙන් ජාතික ප්‍රතිපත්තියක් සකස් කිරීමේ ප්‍රගතිය පිළිබඳ අවධානය
+
+අභිජනනය සඳහා ඕස්ට්‍රේලියාවෙන් ආනයනය කළ එළුවන්  104ක් මේ වන විට මිය යාම පිළිබඳ අවධානය
+
+මේ වන විට මෙරට ගොවිපොළවල්  14000  කට වැඩි සංඛ්‍යාවක් වැසී ඇති බවත් මෙය පළාත් වශයෙන් ලැබුණු දත්ත අනුව හඳුනාගෙන ඇති බවත් කෝපා කමිටුවේදී අනාවරණය විය. එසේම  මෙම ගොවිපොළවල් අතරින් බහුතරයක් කුඩා ප්‍රමාණයේ ගොවිපොළවල් බවත් සත්ත්ව සොරකම හේතුවෙන් වැඩි වශයෙන් මෙම ගොවිපොළවල් වැසී යාම සිදුවී ඇති බවත් මෙහිදී නිලධාරීන් පෙන්වා දුන්හ.
+
+...
+
+[Data](articles/244f9082.json)
 
 ---
 
@@ -2061,29 +2091,5 @@ It is said that the specific cause of electricity to generate electricity throug
 [Data](articles/895695f9.json)
 
 [Extended Data](ext_articles/895695f9.ext.json)
-
----
-
-### Sri Lanka minister tells CEB to recover Rs12bn loans given to employees
-
-*2024-01-20 16:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-minister-tells-ceb-to-recover-rs12bn-loans-given-to-employees-148071/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Minister of Power and Energy Kanchana Wijesekera has instructed Ceylon Electricity Board management to implement a mechanism to recover the loan and interest amounts from employees who have taken the loans.
-
-“Data provided by the CEB finance division shows that financial facilities extended to CEB employees amounts to about Rs 12 billion and that 2/3rds of the employees’ loan interest component is paid by the CEB,” Wijesekera said on X.
-
-“The interest paid by the CEB on behalf of its employees is recovered from the consumer tariffs.”
-
-Wijesekera said he had directed the CEB management to implement a mechanism to recover the loan and interest amounts from the beneficiaries of the loans “and not to pass it to the electricity consumers”.
-
-The minister said he instructed them to report on any services that can be outsourced in the future to be more efficient and reduce cost.
-
-Last week electrical workers protesting against the CEB restructure were interdicted.
-
-...
-
-[Data](articles/be1e7bf8.json)
-
-[Extended Data](ext_articles/be1e7bf8.ext.json)
 
 ---

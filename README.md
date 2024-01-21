@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 00:47:43**
+As of **2024-01-22 01:02:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanalk | 206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,333 (80.5%) of 1,656 articles have been extended.
+1,338 (80.8%) of 1,656 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -748,6 +748,8 @@ Here is where a smart constitution comes into play. A smart constitution will en
 
 [Data](articles/f8b74f27.json)
 
+[Extended Data](ext_articles/f8b74f27.ext.json)
+
 ---
 
 ### Ram Mandir At Babri Masjid Site: Death Of Secular Democracy & Rise Of Hindutva Fascism
@@ -761,6 +763,8 @@ The controversy resulted in the first religious violence almost three and half c
 ...
 
 [Data](articles/53e23b30.json)
+
+[Extended Data](ext_articles/53e23b30.ext.json)
 
 ---
 
@@ -2020,7 +2024,7 @@ He further said that the bus owners will agree to this proposal if the bus prior
 
 *2024-01-21 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/SLOA-launches-College-of-Optometry/110-275425) · `en`
 
-The Sri Lanka Optometric Association (SLOA) inaugurated a new division, the College of Optometry and Vision Science today. President of the College of Ophthalmologists of Sri Lanka Dr Amila de Alvis graced the occasion as the chief guest. Pix by Pradeep Pathirana
+The Sri Lanka Optometric Association (SLOA) inaugurated a new division, the College of Optometry and Vision Science today. Hiran Perera, Chairman of the SLOA, presided as the chief guest for the event. Pix by Pradeep Pathirana
 
 ◼️
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 21:17:19**
+As of **2024-01-21 21:32:51**
 
 ## Newspaper Stats
 
-*Scraped **1,632** Articles*
+*Scraped **1,634** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ islandlk | 97
 economynextcom | 103
 newsfirstlk | 109
 dbsjeyarajcom | 121
-virakesarilk | 149
 dailyftlk | 150
+virakesarilk | 151
 adalk | 179
 dailymirrorlk | 187
 tamilmirrorlk | 200
@@ -26,11 +26,47 @@ adaderanalk | 204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,227 (75.2%) of 1,632 articles have been extended.
+1,233 (75.5%) of 1,634 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### கேள்­விக்­குள்­ளான நிதி ஒழுக்கம்
+
+*2024-01-21 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174467) · `ta`
+
+ஏதேதோ காரணங்கள் கூறப்பட்டு, இன்னமும் மின் கட்டணம் என்ற பெயரிலும் வரி என்ற பெயரிலும் மக்களின் பணம் உரித்தெடுக்கப்படுகிறது.
+
+இதன் மூலம் அரசாங்க நிதி முறைகேடாக பயன்படுத்தப்படுகிறது. அரசாங்கத்தின் நிதியொழுக்கத்தை உறுதி செய்யாமல் அது தவறான முறையில் கையாளப்படுவதை தடுக்காமல், எத்தகைய பொருளாதார சீர்திருத்தங்களை மேற்கொண்டும் வெளிநாட்டு உதவிகளைப் பெற்றும், நாட்டை மீட்க முடியாது.
+
+◼️
+
+[Data](articles/3291b94e.json)
+
+---
+
+### மொட்டு: குழம்­பு­கி­றதா, குழப்­பு­கி­றதா?
+
+*2024-01-21 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174466) · `ta`
+
+சஜித்தை ரணில் மற்றும் அநுர தரப்பும், ரணிலை, அநுர மற்றும் சஜித் தரப்பும், அநு­ரவை, ரணிலும், சஜித்தும் சேர்ந்தும், விமர்சனம் செய்து கிழித்து தொங்க விடுவார்கள்.
+
+அதுவரையில் பொறுத்திருந்து விட்டு கடைசி நேரத்தில் ஒரு வேட்பாளரை அறிவித்து  களமிறக்கினால், எதிர்மறை பிரசாரங்கள் அதிகமின்றி வெற்றி பெற்று விடலாம் என்றும் ராஜபக்ஷவினர் கணக்குப் போடலாம்.
+
+எவ்வாறாயினும், இலங்கையில் நீண்டகால அரசி யலில் மூழ்கித் திழைத்த குடும்பங்களில் ராஜபக்ஷ குடும்பமே இன்றைக்கும் முதன்மையாக இருக்கிறது.
+
+நீண்டகாலம் அரசியலில் கோலோச்சிய பண்டா குடும்பத்தையே அரசியல் அரங்கில் இருந்து அகற்றிய ராஜபக் ஷ குடும்பம் பண்டா காலத்தில் இருந்து இன்று வரை நிலைத்திருக்கிறது என்றால் அது சாதாரணமானதல்ல.
+
+தலைவனாக இருப்பது மாத்திரம் முக்கியமல்ல, எப்போதும் நிலைத்திருக்க வேண்டும் என்பதை அவர்கள் நன்கு கற்றுக் கொண்டவர்கள்.
+
+அதனால் தான் அவர்களை ஜனாதிபதி தேர்தல் விடயத்தில் அவ்வளவு இலகுவாக எடை போட்டு விட முடியாது.
+
+◼️
+
+[Data](articles/63c4e58b.json)
+
+---
 
 ### Sri Lanka issues ’All Country Passports’ to resettled nationals in Tamil Nadu
 
@@ -48,23 +84,27 @@ During the ceremony, the first batch of 197 passports was handed over to the res
 
 [Data](articles/18fd9ec8.json)
 
+[Extended Data](ext_articles/18fd9ec8.ext.json)
+
 ---
 
-### පලස්තීන රාජ්‍යයක් පිළිබඳ ලංකාවේ ස්ථාවරත්වය ජනපති අවධාරණය කරයි
+### President emphasizes Sri Lanka's stability of a Palestinian state
 
 *2024-01-21 20:12:12* · [`adalk`](https://www.ada.lk/breaking_news/පලස්තීන-රාජ්‍යයක්-පිළිබඳ-ලංකාවේ-ස්ථාවරත්වය-ජනපති-අවධාරණය-කරයි/11-407650) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ පලස්තීනයේ විදේශ කටයුතු හා සංක්‍රමණිකයින් පිළිබඳ අමාත්‍ය ආචාර්ය රියාද් මල්කි (Dr. Riyad Malki) මහතා අතර හමුවක් “G77 සහ චීනය” 3 වැනි දකුණු සමුළුවට සමගාමීව අද (21) උගන්ඩාවේ කම්පාලා නුවරදී පැවැත්විණි.
+Minister of President Ranil Wickremesinghe and Minister of External Affairs and Migrants of Palestine Dr. Riyadh Malki (dr. Meeting between Mr. Riyad Malki, gathering, was held in Kampala, the 3rd South Conference of "G77 and China" today (21).
 
-ගාසා තීරයේ අර්බුදය සම්බන්ධයෙන් මෙහිදී විශේෂ අවධානයක් යොමු කෙරුණු අතර ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේ ඊශ්‍රායල – හමාස් ගැටුමේදි පලස්තීන ජනතාව ගොදුරක් කර ගැනීම කිසිසේත් අනුමත කළ නොහැකි බවයි.
+Special attention was paid to the crisis in the Gaza, and President Ranil Wickremesinghe emphasized that it is impossible to prestite the Palestinian people in the Israeli-Hamas conflict.
 
-ගැටුම් නවත්වා සාමය ස්ථාපිත කිරීමට එක්සත් ජාතීන්ගේ මහලේකම්වරයා ගෙන යන වැඩපිළිවෙළට ශ්‍රී ලංකාවේ පූර්ණ සහාය ලබා දෙන බව මෙහිදී ප්‍රකාශ කළ ජනාධිපතිවරයා වසර 05ක් ඇතුළත පලස්තීන රාජ්‍යය පිහිටුවිය යුතුය යන්න ශ්‍රී ලංකාවේ යෝජනාව බවද කියා සිටියේය.
+The President said that Sri Lanka's resolution would be fully supported by the United Nations Secretary-General to the Secretary General of the United Nations General Secretary to the Secretary General of the United Nations and the UN Secretary General to establish peace.
 
-එසේම පලස්තීනයේ ජනතාවගේ ස්වයං නිර්ණ අයිතිය සහ ඔවුන්ට ස්වෛරී, ස්වාධීන රාජ්‍යයක් ස්ථාපිත කර ගැනීමට ඇති අහිමි කළ නොහැකි අයිතිවාසිකම සඳහා ඉහළම ප්‍රමුඛත්වය ලබා දීමේ අවශ්‍යතාවය ද මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+President Ranil Wickremesinghe also emphasized the need to give the highest priority for the self-determination of the people of Palestine and the unable to establish a sovereign and independent state.
 
 ...
 
 [Data](articles/eddcb3d2.json)
+
+[Extended Data](ext_articles/eddcb3d2.ext.json)
 
 ---
 
@@ -2051,61 +2091,5 @@ The Mullaitivu Hospital will be held at the Mullaitivu Hospital on the death of 
 [Data](articles/bfda4712.json)
 
 [Extended Data](ext_articles/bfda4712.ext.json)
-
----
-
-### Sri Lanka interest rate volatility, instability, big challenges: bankers
-
-*2024-01-21 10:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-interest-rate-volatility-instability-big-challenges-bankers-148085/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s huge volatility in exchange and interest rates, which cannot be forecasted for even in the short term and policy changes are key risks for the banking sector and economy, which senior bankers said.
-
-Banks should not just give loans to AAA or AA+ clients, says Jonathan Alles, Chief Executive of Hatton National Bank.
-
-“What we need is political stability, economic stability, policy consistency,” Alles explained at a forum with Sri Lanka’s Echelon Magazine.
-
-“Why we are in this state is, in the absence of it, you have these huge peaks and troughs.
-
-“How you do three year’s strategic plans and go with a straight face to a board? You can’t say six months ahead.
-
-“People ask ‘what’s the year end exchange rate or interest rate? It is something that you don’t want to even guess at.”
-
-Sri Lanka has chronic monetary stability which worsened after 1978 with steep depreciation of the currency, inflation and interest rates running to above 20 percent at times.
-
-...
-
-[Data](articles/a250dd50.json)
-
-[Extended Data](ext_articles/a250dd50.ext.json)
-
----
-
-### Then one of the presidents and someone who has support
-
-*2024-01-21 10:25:14* · [`adalk`](https://www.ada.lk/breaking_news/ඊළඟට-ජනාධිපතිවෙන්නෙත්-පොහොට්ටුවේ-සහය-තියෙන-කෙනෙක්/11-407640) · `si`
-
-The cost of living has increased due to war conflicts ...
-
-The people who were on fire would talk about democracy today ...
-
-The Chief Organizer, Minister of Urban Development and Housing, Prasanna Ranatunga says that the increase is difficult to hold the increase in the cost of living.
-
-The Minister emphasizes that the cost of living has increased due to the war.
-
-The country will be returned to the face of the economic program that is being carried out by President Ranil Wickremesinghe.. He also requests the public to not be deceived by the opposition and conspirators.
-
-Minister Prasanna Ranatunga to visit the reconstruction of the Gampaha posted in Gampaha. According to the request of a group of people who use that walk.
-
-The walking laund has been created in 2011 and the Gampaha Municipal Council.
-
-The people used to reform the lane should be reformed.
-
-It was decided to commence the reconciliation by the intervention of the Urban Development Authority.
-
-...
-
-[Data](articles/0a50a14f.json)
-
-[Extended Data](ext_articles/0a50a14f.ext.json)
 
 ---

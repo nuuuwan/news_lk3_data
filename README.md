@@ -1,36 +1,200 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 11:02:24**
+As of **2024-01-21 11:33:18**
 
 ## Newspaper Stats
 
-*Scraped **1,517** Articles*
+*Scraped **1,532** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 37
-adaderanasinhalalk | 45
+adaderanasinhalalk | 49
 islandlk | 97
 economynextcom | 101
 newsfirstlk | 102
-dbsjeyarajcom | 117
-virakesarilk | 129
+dbsjeyarajcom | 118
+virakesarilk | 131
 dailyftlk | 150
-adalk | 164
-dailymirrorlk | 170
-adaderanalk | 188
-tamilmirrorlk | 190
+adalk | 166
+dailymirrorlk | 172
+adaderanalk | 190
+tamilmirrorlk | 192
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-627 (41.3%) of 1,517 articles have been extended.
+670 (43.7%) of 1,532 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### Iran vows revenge over deadly missile strike in Damascus
+
+*2024-01-21 10:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Iran-vows-revenge-over-deadly-missile-strike-in-Damascus/107-275423) · `en`
+
+Beirut, Jan 21 (AFP) - Tehran has vowed to carry out revenge attacks against Israel after a missile strike yesterday flattened a building used as a base of Iran’s elite Revolutionary Guards in Damascus, killing five Guards and an unspecified number of Syrian troops.
+
+Ambulances and fire trucks gathered around the site of the strike, which had been cordoned off, a Reuters journalist at the scene said.
+
+Rescue operations for people stuck under the rubble continued through the day. A crane was in place to hoist concrete slabs off the wreckage.
+
+An AFP journalist said the building had been reduced to debris.
+
+“I heard the explosion clearly in the western Mazzeh area, and I saw a large cloud of smoke,” one resident told AFP, requesting anonymity over security concerns. “The sound was similar to a missile explosion, and minutes later I heard the sound of ambulances.”
+
+Asked about the strike, the Israeli military told AFP: “We do not comment on reports from the foreign media.”
+
+...
+
+[Data](articles/fc5e0e72.json)
+
+---
+
+### Nearly 1,000 arrested during ’Yukthiya’ operation within 24 hours
+
+*2024-01-21 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nearly-1-000-arrested-during-Yukthiya-operation-within-24-hours/108-275422) · `en`
+
+Colombo, Jan 21 (Daily Mirror) -  A total of 987 suspects have been arrested during the islandwide operation 'Yukthiya' within the last 24 hours, the Public Security Ministry said.
+
+They said 663 suspects have been arrested over drug offenses and 324 suspects who were on the list referred to Crime OICs of police station were also arrested accordingly.
+
+Among the 638 suspects arrested over drug offences, 12 are being further investigated into under detention orders while 14 drug addicts have been referred for rehabilitation.
+
+Meanwhile, 14 suspects who were on the wanted list of the Police Narcotics Bureau and Police Special Bureau were also arrested.
+
+Also, among the 324 arrested suspects in the list sent to the criminal division, there are 90 who had pending open warrants over drug offenses and 222 open warrants over non-drug offenses.
+
+◼️
+
+[Data](articles/82926fdf.json)
+
+---
+
+### இலஞ்சம் வழங்க முயன்ற சட்டத்தரணியின் ஒலிப்பதிவு கசிவு
+
+*2024-01-21 10:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வழங்க-முயன்ற-சட்டத்தரணியின்-ஒலிப்பதிவு-கசிவு/175-331875) · `ta`
+
+​வீரகுல பொலிஸ் நிலையத்தில் தடுத்து வைக்கப்பட்டுள்ள ஒழுங்கமைக்கப்பட்ட குற்றவாளியான கணேமுல்ல சஞ்சீவவின் உறவினரை பிரதிநிதித்துவப்படுத்தியதாக சந்தேகிக்கப்படும் பொலிஸ் அதிகாரி ஒருவருக்கும் பெண் சட்டத்தரணி ஒருவருக்கும் இடையில் கசிந்த உரையாடல் ஒலிப்பதிவு ஒன்று வெளியாகியுள்ளது.
+
+உரையாடலின் போது, ​​சட்டத்தரணி போதைப்பொருள் தடுப்புப் பிரிவைச் சேர்ந்த உதவிப் பொலிஸ் அத்தியட்சகருக்கு இலஞ்சம் வழங்க முயன்றதாகக் கூறப்படுகிறது.
+
+கனேமுல்ல சஞ்சீவவுக்கு எதிரான போதைப்பொருள் கடத்தல் வழக்குடன் தொடர்புடைய மகிழங்கமுவ பிரதேசத்திலுள்ள வீடொன்றில் விசாரணைகளை மேற்கொள்வதற்காக பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவின் அதிகாரிகள் குழுவொன்று அனுப்பி வைக்கப்பட்டதாகத் தெரிவிக்கப்படுகிறது.
+
+கணேமுல்ல சஞ்சீவவின் உறவினரை பிரதிநிதித்துவப்படுத்தும் சட்டத்தரணி என தன்னை அடையாளப்படுத்திக் கொண்ட பெண் ஒருவர் அந்த இடத்தில் தலையிட்டு குறிப்பிட்ட வீட்டை சோதனையிட வேண்டாம் என அதிகாரிகளை வற்புறுத்தியதாக வட்டாரங்கள் தெரிவித்தன.
+
+...
+
+[Data](articles/827ef63d.json)
+
+---
+
+### Polish national drowns while sea bathing at Panadura Beach
+
+*2024-01-21 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96589/polish-national-drowns-while-sea-bathing-at-panadura-beach) · `en`
+
+A Polish national has reportedly drowned while bathing in the sea area off the Panadura Beach, police said.
+
+According to police, the 61-year-old had been staying at a hotel in the Panadura (South) area, and was swept away by strong currents while bathing in the Panadura Beach.
+
+Despite the immediate response of a lifeguard at the hotel, however, the victim was pronounced dead upon admission to the Panadura Base Hospital, police said.
+
+◼️
+
+[Data](articles/2b6fd32b.json)
+
+---
+
+### New professional guidance programme to be launched for A/L students
+
+*2024-01-21 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96588/new-professional-guidance-programme-to-be-launched-for-al-students-) · `en`
+
+Education Minister Susil Premajayantha has announced the imminent launch of a specialized programme tailored to offer professional guidance for students currently undertaking the 2023 G.C.E Advanced Level examination.
+
+According to the Minister, the initiative is expected to be held at over 300 centres across the country from 20 February.
+
+◼️
+
+[Data](articles/a60170a3.json)
+
+---
+
+### இந்திய பெருங்கடலில் நிலநடுக்கம்
+
+*2024-01-21 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174432) · `ta`
+
+இந்திய பெருங்கடலின் தென்மேற்கு பகுதியில் இன்று ஞாயிற்றுக்கிழமை (21) அதிகாலை 3.39 மணியளவில் 6.3 ரிச்டர் அளவில் நிலநடுக்கம் ஏற்பட்டுள்ளதாக அமெரிக்க புவியியல் ஆய்வு மையம் தெரிவித்துள்ளது.
+
+இந்த நிலநடுக்கம் குறித்த பகுதியில் சுமார் 10 கிலோ மீற்றர் ஆழத்தில், மடகாஸ்கரில் இருந்து 1,636 கிலோ மீற்றர் தொலைவில் ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/b1bcaeaf.json)
+
+---
+
+### මාතලේ ටී ජේ සි අඹ කිලෝව රු. 100ට අඩුවෙයි
+
+*2024-01-21 10:32:28* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-ටී-ජේ-සි-අඹ-කිලෝව-රු--100ට-අඩුවෙයි/11-407641) · `si`
+
+විවිධ සමාගම් හා රාජ්‍ය අනුග්‍රහය යටතේ මාතලේ දිස්ත්‍රික්කයේ වගාකරනු ලැබු ටොම් ඇන්ඩ් ඊ ජේ සි අඹ වි‍ශේෂයේ අධික අස්වැන්නක් ලැබීම් හේතුවෙන් කිලෝවක් රුපියල් සීයයක් වැනි මිලකට මේ දින වල අලවි වන බැවි වගාකරුවෝ කියා සිටිති.
+
+වගාවන් සදහා පැල හා අවශ්‍ය උපදෙස් ලැබුන ද අලවිය සම්බන්ධයෙන් නිසි වැඩපිළිවෙලක් නොමැති කම හරහා ටී ජේ සි අඹ වගා කල බොහෝ ගොවීන් මේ වන විට සිය අස්වනු අඩු මුදලට අලවි කිරිමට සිදුවීම සම්බන්ධයෙන් කනස්සල්ල පලකරති.
+
+මාතලේ දිස්ත්‍රික්කයේ පමණක් මේ වන විට ටී ජේ සි අඹ විශේෂයේ පැල දහස් ගනනක් වගාකර තිබේ.
+
+වියළි කාගුණික තත්ත්වයක් යටතේ හොඳ අස්වැන්නක් ලැබෙන මෙම ශාකය වගා කල අවස්ථාවන් වල දි අඹ කිලෝවක් රුපියල් අට සීයයක් වැනි මිලකට අලවි වු බැවි ගොවින් කියා සිටිති.
+
+මේ වන විට අඹ ශාක දහස් ගනනක අස්වැන්න එක වර ලැබීම හා මිලදී ගැනීමේ නිසි ක්‍රමවේදයක් නොමැතිකම හේතුවෙන් සිය අස්වැන්න කුණුකොල්ලයට දීමට සිදුවී ඇති බව වගාකරුවෝ කියා සිටිති.
+
+ටී ජේ සි අඹ විශේෂ සදහා විශේෂ පොහොර මෙන්ම ගෙඩි ආවරණය සදහා විශේෂයෙන් සැකසු බෑග් වර්ග අවශ්‍ය බවත් ඒ සදහා විශාල පිරි වැයක් දැරීමට සිදුවන බවත් වගාකරුවෝ කියා සිටිති.
+
+...
+
+[Data](articles/5e0f1a4c.json)
+
+---
+
+### ඔංචිල්ලාවේ ලණුව සිර වීමෙන් දරුවෙකු ජීවිතක්ෂයට
+
+*2024-01-21 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192385) · `si`
+
+මුලතිව් - සෙම්මලෙයි ප්‍රදේශයේ දී ඔංචිල්ලාවක ලණුවක් ගෙලේ සිර වීමෙන් වයස අවුරුදු 10ක දරුවෙකු ඊයේ (20) සවස ජිවිතක්ෂයට පත් ව ඇති බව මුලතිව් - කෝකිලායි පොලීසිය පවසයි.
+
+පොලීසිය පැවසූවේ, ඔංචිලි පදිමින් සිටි අවස්ථාවේ ලණුව ගෙලේ සිර වීමෙන් දරුවා ජිවිතක්ෂයට පත් ව ඇති බවයි.
+
+දරුවා කඩිනමින් මුලතිව් රෝහලට ඇතුළත් කොට ඇති නමුත් එහි දී ඔහු ජිවිතක්ෂයට පත් ව ඇත.
+
+මිය ගිය දරුවාගේ මරණය සම්බන්ධයෙන් පශ්චාත් මරණ පරීක්ෂණය මුලතිව් රෝහලේ පැවැත්වීමට නියමිත අතර, සිද්ධිය සම්බන්ධයෙන් කෝකිලායි පොලීසිය වැඩිදුර පරීක්ෂණ මෙහෙයවයි.
+
+◼️
+
+[Data](articles/bfda4712.json)
+
+---
+
+### ஈராக்கில்  அமெரிக்க விமானப்படை தளத்தை இலக்குவைத்து  ஏவுகணை தாக்குதல் - பல அமெரிக்க படையினர் காயம்
+
+*2024-01-21 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/174429) · `ta`
+
+ஈராக்கின் மேற்கு பகுதியில் அமெரிக்க தளமொன்றை இலக்குவைத்து மேற்கொள்ளப்பட்ட ஏவுகணை தாக்குதலில் பல அமெரிக்க படையினர் காயமடைந்துள்ளனர்.
+
+ஆசாட் விமானபடைதளம் மீது ஈரான் சார்பு குழுவினர் தாக்குதலை மேற்கொண்டனர் என அமெரிக்க குற்றம்சாட்டியுள்ளது.
+
+குறிப்பிடபடாத எண்ணிக்கையிலான அமெரிக்க படையினர் மூளை காயங்களிற்கு உட்பட்டுள்ளனரா என்ற மதிப்பீடுகள் இடம்பெறுகின்றன.
+
+ஈராக்கில் உள்ள இஸ்லாமிக் ரெசிஸ்டன்ஸ் என்ற அமைப்பே இந்த தாக்குதலை மேற்கொண்;டுள்ளது,2023 இல் உருவான இந்த குழு ஈராக்கில் உள்ள பல ஆயுதகுழுக்களை உள்ளடக்கியதாக காணப்படுகின்றது.
+
+இந்த குழுவினரே ஈராக்கில் உள்ள அமெரிக்க தளங்கள் மீதான தாக்குதல்களிற்கு உரிமை கோரிவருகின்றனர்.
+
+◼️
+
+[Data](articles/a3ded2e4.json)
+
+---
 
 ### 987 more suspects arrested as operation ‘Yukthiya’ continues
 
@@ -43,6 +207,94 @@ According to the Ministry of Public Security, a total of 270g of heroin, 140g of
 ◼️
 
 [Data](articles/7f34b2cd.json)
+
+[Extended Data](ext_articles/7f34b2cd.ext.json)
+
+---
+
+### ராமர் கோயிலில் தாக்குதல் நடத்த பாக். தீவிரவாதிகள் சதி
+
+*2024-01-21 09:57:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமர்-கோயிலில்-தாக்குதல்-நடத்த-பாக்-தீவிரவாதிகள்-சதி/175-331871) · `ta`
+
+உத்தர பிரதேசம், அயோத்தியில் சுமார் 70 ஏக்கர் பரப்பளவில் பிரம்மாண்ட ராமர் கோயில் கட்டப்பட்டு உள்ளது. இந்த கோயிலின் திறப்பு விழா நாளை நடைபெறுகிறது. இதில் பிரதமர் நரேந்திர மோடி, மடாதிபதிகள், அரசியல் தலைவர்கள், திரையுலகம், விளையாட்டு துறை பிரபலங்கள், வெளிநாட்டு தலைவர்கள் என 11,000 மிகவும் மிக முக்கியமான நபர்கள் பங்கேற்க உள்ளனர்.
+
+ராமர் கோயில் திறப்பு விழாவின்போது தாக்குதல் நடத்துவோம் என்று பாகிஸ்தானை சேர்ந்த லஷ்கர் இ தொய்பா, ஜெய்ஷ் இ முகமது உள்ளிட்ட தீவிரவாத அமைப்புகள் பகிரங்கமாக எச்சரிக்கை விடுத்துள்ளன. ராமர் கோயில் திறப்பு விழாவின்போது தற்கொலைப்படை தாக்குதல் நடத்த பாகிஸ்தான் தீவிரவாத அமைப்புகள் சதித் திட்டம் தீட்டியிருப்பதாக உளவுத் துறை எச்சரிக்கை விடுத்துள்ளது. இதன்காரணமாக அயோத்தி நகரம் முழுவதும் பலத்த பாதுகாப்பு ஏற்பாடுகள் செய்யப்பட்டு உள்ளன.
+
+...
+
+[Data](articles/27dba353.json)
+
+---
+
+### හූති සටන්කාමින්ට සහාය දක්වමින් දැවැන්ත රැළියක්
+
+*2024-01-21 09:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192384) · `si`
+
+යේමනයේ හූති සටන්කාමින්ට සහාය දක්වන දහස් සංඛ්‍යාත පිරිසකගේ සහභාගිත්වයෙන් යේමනයේ දැවැන්ත රැළියක් පැවැත්වී තිබේ.
+
+යේමනයේ සනා අගනුවර මෙම විරෝධතාව සංවිධානය කර තිබූ බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+ඒ අමෙරිකාව, හූති සංවිධානය ත්‍රස්ත සංවිධානයක් ලෙසට නම් කිරීම සම්බන්ධයෙන් විරෝධය පළ කරමිනි.
+
+ඉරානයේ සහාය ඇති ව යේමනය පාදක කරගෙන සංවිධානය වී සිටින හූති සංවිධානයට සහාය දක්වන දහස් සංඛ්‍යාත පිරිසකගේ සහභාගිත්වයෙන් රැළිය පැවැත්වී ඇත.
+
+පසුගිය සතියේ දී අමෙරිකාව, හූති සංවිධානය ත්‍රස්ත සංවිධානයක් ලෙසට නම් කළේය.
+
+ඒ, හූති සටන්කාමීන් රතු මුහුදේ වාණිජ නෞකා ඉලක්ක කර එල්ල කරන ප්‍රහාර පිළිබඳ අවධාරණය කරමිනි.
+
+හූති සහයෝගිකරුවන් මෙලෙස දැවැන්ත විරෝධතාවක් සංවිධාන කර තිබුණේ, අමෙරිකාවේ එම තීරණය විරෝධය පළ කරමිනි.
+
+යේමන ධජය මෙන්ම පලස්තීන ධජය ද අතැති ව හූති වෙත සහාය දක්වන්නෝ විරෝධතාවට එක් ව සිටිය හ.
+
+යේමනයේ වැඩි භූමි ප්‍රමාණයක් පවතින්නේ හූති සටන්කරුවන්ගේ පාලනය යටතේ ය.
+
+ඊශ්‍රායල ප්‍රහාරවලට මැදි ව සිටි පලස්තීන වැසියන්ට සහාය පළ කරමින් රතු මුහුදේ ගමන් කරන, ඊශ්‍රායලයට සබඳතා ඇති වාණිජ නෞකා ඉලක්ක කරන බව හූති සටන්කාමිහු පවසති.
+
+...
+
+[Data](articles/fd3adabe.json)
+
+---
+
+### තවත් සැකකරුවන් 987 දෙනෙකු අත්අඩංගුවට
+
+*2024-01-21 09:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192383) · `si`
+
+යුක්තිය මෙහෙයුම යටතේ අද (21) අලුයම අවසන් වූ පැය 24 තුළ සැකකරුවන් 987 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+මත්ද්‍රව්‍ය වැරදි සම්බන්ධ සැකකරුවන් 663ක් සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 324ක් ඊට ඇතුළත් ය.
+
+ඊට අමතර ව පහත සඳහන් මත්ද්‍රව්‍ය ප්‍රමාණයන් ද පොලිස් භාරයට ගෙන තිබේ.
+
+මත්ද්‍රව්‍ය වැරදි සම්බන්ධව අත්අඩංගුවට ගත් සැකකරුවන් 638 දෙනා අතරින් සැකකරුවන් 12 දෙනෙකුට රැඳවුම් නියෝග මත වැඩිදුර විමර්ශන සිදු කරයි.
+
+එමෙන්ම වත්කම් විමර්ශන 05ක් සහ මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් 14ක් පුනරුත්ථාපනය සඳහා යොමු කර ඇති බව පොලීසිය පවසයි.
+
+මේ අතර, පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය සහ පොලිස් විශේෂ කාර්යාංශය ලැයිස්තුවේ සිටි සැකකරුවන් 14ක් ද අත්අඩංගුවට ගෙන ඇත.
+
+එසේම, අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ අත්අඩංගුවට ගත් සැකකරුවන් 324 දෙනා අතරින් මත්ද්‍රව්‍ය වැරදි සම්බන්ධව විවෘත වරෙන්තු නිකුත් ව සිටි සැකකරුවන් 90ක් සහ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධව විවෘත වරෙන්තුකරුවන් 222ක් ද සිටින බව පොලීසිය පවසයි.
+
+...
+
+[Data](articles/bc81f9e7.json)
+
+---
+
+### පළිගන්නා බව ඉරානය කියයි
+
+*2024-01-21 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192382) · `si`
+
+සිරියාවේ ජනාකීර්ණ ප්‍රදේශයකට එල්ල කළ ගුවන් ප්‍රහාරයකින් ඉරාන විප්ලවීය හමුදාවේ ඉහළ නිලධාරීන් 05 දෙනෙකු ඝාතනය කිරීම සම්බන්ධයෙන් පළිගැනීමේ ප්‍රහාර එල්ල කරන බව ඉරානය පවසයි.
+
+සිරියාවේ ඩමස්කස්නුවර ගොඩනැගිල්ලකට එල්ල වූ ප්‍රහාරයෙන් එරට උපදේශන රාජකාරිවල නිරත වූ ඉහළ පෙළේ ඉරාන හමුදා නිලදාරිහු 05 දෙනෙක් ඝාතනයට ලක් වූහ.
+
+ඉරානය සහ සිරියාව අදාළ ප්‍රහාරය ඊශ්‍රායලය විසින් එල්ල කළ බවට ප්‍රකාශ කර තිබුණ ද ඊශ්‍රායලය මේ දක්වා ඒ සම්බන්ධයෙන් අදහස් දැක්වීමෙන් වැළකී තිබේ.
+
+ඉරාන ජනාධිපති ඊබ්‍රහිම් රයිසි ප්‍රකාශ කළේ, අදාළ ප්‍රහාරය ත්‍රස්තවාදී සහ අපරාධ ක්‍රියාවක් වන අතර ඊට එරෙහි ව ප්‍රතිප්‍රහාර එල්ල කරන බවයි.
+
+◼️
+
+[Data](articles/e50d4d67.json)
 
 ---
 
@@ -138,17 +390,37 @@ Dr. Chamal Sanjeewa added that the present Health Minister and Civil Rights Alli
 
 ---
 
-### ජනපති ලක්ෂ 2000ක් වෙන්කරගෙන රට සවාරි යනවා
+### අවුරුදු 24ක තරුණයෙක් ගිනි අවියකට බිලි
+
+*2024-01-21 08:19:29* · [`adalk`](https://www.ada.lk/breaking_news/අවුරුදු-24ක-තරුණයෙක්-ගිනි-අවියකට-බිලි/11-407636) · `si`
+
+මාලිම්බොඩ පොලිස් වසමේ තෙලිජ්ජවිල මංසන්ධියේ පිහිටි ජංගම දුරකතන අලෙවිසැලක් තුළ සිටි පුද්ගලයෙකුට යතුරු පැදියකින් පැමිණි නඳුනන පුද්ගලයන් දෙදෙනෙකු විසින් සිදුකළ වෙඩි තැබීමකින් ඒම පුද්ගලයා මියගොස් ඇතැයි පොලීසිය කියයි.
+
+ඊයේ (20දා) රාත්‍රී කලයේදී මෙම වෙඩි තැබීම සිදුකර ඇති අතර  වයස අවුරුදු 24 ක් වන වැලිපිටිය ප්‍ර දේශයේ පදිංචිකරුවෙක් මෙසේ මියගොස් තිබේ.
+
+වෙඩි තැබීම සඳහා පිස්පතෝල අවියක් භාවිතා කර ඇති බවට සැකකරන බව පොලීිසය  පවසයි. ඝාතනයට හේතුව හෝ ඝාතනය සිදුකළ පුද්ගලයන් සම්බන්ධයෙන් තොරතුරු අණාවරණය වී නොමැති බවද පොලීසිය වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/6aa34057.json)
+
+---
+
+### President reserves Rs. 2,000 million
 
 *2024-01-21 08:10:50* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-ලක්ෂ-2000ක්-වෙන්කරගෙන-රට-සවාරි-යනවා/11-407635) · `si`
 
-ආණ්ඩුවේ රාජ්‍ය ආදායම වැඩ කර ගැනීම සඳහා අයි.එම්.එෆ්. කී යැයි පවසා වැට් බදු ඇතුළු බදු අධික ලෙස වැඩි කර තිබියදී පාසල්වල පරිගණක නොමැති තත්ත්වයක් උදා වී තිබියදී රටේ ජනාධිපතිවරයා පරිපූරක ඇස්තමේන්තුවක් හරහා රටේ ජනතාවගේ බදු මුදල් රුපියල් ලක්ෂ 2000ක් උපයෝගී කර ගෙන විදේශ සංචාර යන බවත් බංකොලොත් රටේ මහජනතාව හාමතේ සිටින විට ජනාධිපති ප්‍රමුඛ රජය සුරසැප විඳින බවත් විපක්ෂ නායකවරයා පැවසීය.
+IMF to work in government income. The president of the country is the prospect of the president of the country, which has been exposed to the country's Taxes through the country's trips and is in the country's masses by supplementary inspection of the country through a supplementary estimation of the country's taxes.The Opposition Leader said.
 
-රටේ බදු මුදල් වියදම් කර ලෝක සවාරි යන්න ජනාධිපතිවරයා විසින් විපක්ෂයේ මන්ත්‍රීවරුන්ට පවා ආරාධනා කළ බවත් ජනාධිපති ලේකම් කාර්යාලයෙන් මෙන්ම පාර්ලිමේන්තු නිලධාරීන් පවා කතා කරමින් මෙවැනි ආරාධනා සිදු කරන බවත් පාසල් දූදරුවන්ට හරිහැටි අධ්‍යාපන උපකරණ නොමැතිව දුක්විදින මොහොතක ජනාධිපති ලේකම් කාර්යාලයේ සහ පාර්ලිමේන්තුවේ නිලධාරීන් උපයෝගී කර ගෙන විපක්ෂයේ මන්ත්‍රීවරු බිලි බා ගැනීමට ජනාධිපතිවරයා උත්සාහ කරන බවත් විපක්ෂ නායකවරයා අවධාරණය කළේය.
+The President also invited the opposition MPs to spend the country's tax on the country, and even the Presidential Secretariat and even parliamentary officers will be used without educational equipment.The opposition leader emphasized that the President is trying to download.
+
+Opposition Leader Sajith Premadasa said that as the Opposition Leader was able to provide the new classroom equipment to Uganda in the Western Province of Opposition as the Opposition Leader in the Western Province.
 
 ...
 
 [Data](articles/c73c4f59.json)
+
+[Extended Data](ext_articles/c73c4f59.ext.json)
 
 ---
 
@@ -604,29 +876,49 @@ The Indian Foreign Minister has stated that President Ranil Wickremesinghe has p
 
 ---
 
-### 'හෝයියා හෝයියා ඕඩි හෙලෙයි හෙලෙයියා' : ගාලු වැල්ලේ සවසක මා දැලක් අදිමුද?
+### 'Haiah haye oddi helei Helei': Is I heladd by the Galle Sella?
 
 *2024-01-21 03:01:17* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cner9n8r99lo) · `si`
 
-'හෝයියා හෝයියා ඕඩි හෙලෙයි හෙලෙයියා' : ගාලු වැල්ලේ සවසක මා දැලක් අදිමුද?
+'Haiah haye oddi helei Helei': Is I heladd by the Galle Sella?
 
-දක්ෂිණ අධිවේගී මාර්ගයේ පින්නදුව පිවිසුමෙන් පිට වී ගාල්ල දෙසට යනවිට මාර්ටින් වික්‍රමසිංහ සූරීන් විස්තර කර ඇති පරිදි සුදු රේන්දයට ඇල්ලූ කළු පීත්ත පටිය ලෙසින් දිස්වන්නේ ගාල්ල මාතර ප්‍රධාන මාර්ගය යි.
+Galle Matara main road is the Galle Matara main road as Martin Wickremasinghe Sorcha, who has been identified as Sorga to the Southern Expressway.
 
-ඉර බැස යන යාමේ  නෙත ගැටෙනා මැවෙන සොඳුරු දසුන අද්විතීයය වන අතර එය විඳගත යුතුම අපූර්වත්වයකි.
+The brightness of the sun is unique, and it is an essential uniqueness.
 
-ඒ සමගම විශාල පිරිසක් වෙරළේ පොදි බැඳගෙන සිටින අයුරු දකින්නට ලැබුණි.
+At the same time, a large number of people were visiting the shore.
 
-එය කුමක්දැයි බැලීම සඳහා ගියවිට අපිට දකින්නට ලැබුණේ විශාල මා දැලක් අදින අයුරුය.එය ශ්‍රී ලාංකාවේ තවත් එක් සාම්ප්‍රදායික ධීවර පන්න ක්‍රමයකි.
+When I went to see what it was, we saw a large net that I was dragged in a large number of traditional fishing in Sri Lanka.
 
-වෙරළේ සිට කිලෝමීටර් එකහමාරක් පමණ ඈත මුහුදේ සිට මසුන් අල්ලන මාදැල් ඇදීම මෙරට සාම්ප්‍රදායික ධීවර පන්න ක්‍රමයකි.
+Sri Lanka's traditional fishing is a way to fish from the remote sea to the shore.
 
-මුහුද සමග පොරබදන පිරිසට අමතරව මාදැලට අසුවන මාළු මිලදී ගැනීමට පැමිණි පිරිසද "හෝයියා හෝයියා ඕඩි හෙලෙයි හෙලෙයියා" කියා මා දෑල අදින අයුරු දුටු විට අපද පාවහන් ගලවමින් එම පිරිස සමග මාදැල් අදින්නට වුනෙමු.එය සුන්දර අත්දැකීමකි.
+When I saw the signs of the sea, I gained the footwear with the crowd, and shake the shares with them.
 
-රසබර සිදුවීම්, දුක්බර සිදුවීම් මෙන්ම භයානක සිදුවීම් පිළිබඳවද ඔවුන්ගේ අත්දැකීම් රැසකි.
+Their experiences are many experiences of sweetest events, sadness and dangerous events.
+
+The net was laundered by the two-kilometer-wide-covered core sodes, pulled out for the land.
+
+The fish caught in the net, the eyes stop at the bunch of eyes. The fish caught with the nets, hurdles, hurley, newly, balls, Kumblaw, Flights.
 
 ...
 
 [Data](articles/9d3210f5.json)
+
+[Extended Data](ext_articles/9d3210f5.ext.json)
+
+---
+
+### 
+
+*2024-01-21 01:34:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83478) · `en`
+
+People’s Tribunal  Headed by Justice De Kretzer  Condemns Police in Jaffna  for Excesses at the IATR World Tamil Research  Conference on 10  January  1974.
+
+Fifty years ago  in January 1974, the  International Association of Tamil Research (IATR) held the fourth World Tamil research conference  in  Jaffna. Violence was unleashed against Tamil civilians attending a cultural event linked to the conferency by a Police contingent led by the then ASP Chandrasekera. The background to the Jaffna conference and an outline of the Police attack was related in the first part of this article published last week. Further details  of the Conference and  the Police attack will be the focus in the  second and final part of  this article.
+
+...
+
+[Data](articles/515a8ec3.json)
 
 ---
 
@@ -1733,317 +2025,5 @@ This panel is primarily about the ways in which Mahagama Sekera’s art was shap
 [Data](articles/301bcbd7.json)
 
 [Extended Data](ext_articles/301bcbd7.ext.json)
-
----
-
-### Intelligence information. Beeddy Kole arrested
-
-*2024-01-20 15:30:11* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-තොරතුරකින්-රු--කෝටියක-බීඩි-කොල-අත්අඩංගුවට/11-407632) · `si`
-
-The Army Intelligence Division and the Narcotics Division of the Negombo Buddhist Union have been arrested by the army intelligence and the Negombo Criminal Division.
-
-According to information received by the Army Intelligence Unit, the stock has been arrested while the stock was hidden in the land of the country.
-
-The market value of these illegal cargo market is an expertise of Rs.
-
-◼️
-
-[Data](articles/00126640.json)
-
-[Extended Data](ext_articles/00126640.ext.json)
-
----
-
-### Woman arrested with Detonator and Vedibodi
-
-*2024-01-20 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192358) · `si`
-
-The Kotawehera police have arrested a woman who was hiding explosives in its underwear.
-
-It was during the examination of road barriers at Palugas Junction at the Kotawehera.
-
-Police have conducted a bus inspection of a far-reaching bus inspection using police officers and police officers in Kotawehera, Kotawehera.
-
-A woman on a bus had been found in her underwear, 165 grams of black shot, 605 grams of black shot and a 10-foot-long service string.
-
-In the suspect interrogation, she had said that she was carrying out the corresponding explosives.
-
-She had been carried out in the interrogation of the explosives to break a stone with a stone behind her home.
-
-However, due to the contradictions of her statements, the suspect is to be detained and interrogated.
-
-◼️
-
-[Data](articles/12de9d0e.json)
-
-[Extended Data](ext_articles/12de9d0e.ext.json)
-
----
-
-### Surge in measles cases prompts UK to declare national health incident
-
-*2024-01-20 15:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96571/surge-in-measles-cases-prompts-uk-to-declare-national-health-incident) · `en`
-
-Further outbreaks of measles could spread across Britain, the UK Health Security Agency (UKHSA) has warned, after declaring a national incident amid a surge in cases and low vaccine uptake.
-
-Recent figures from the agency revealed a sharp rise in the number of measles cases, with uptake of the measles, mumps and rubella (MMR) vaccine at its lowest level in more than a decade and “well under” the recommended coverage, the UKHSA chief executive, Dame Jenny Harries, has said.
-
-“This is a call right across the country for all parents to check the vaccination rates of their children,” Harries told BBC Radio 4’s Today programme as she was due to travel to the West Midlands, which has had the largest recent outbreak of the infection outside London.
-
-...
-
-[Data](articles/a165054c.json)
-
-[Extended Data](ext_articles/a165054c.ext.json)
-
----
-
-### Mudaliyar Sampson Rajapakse – a giant of his day
-
-*2024-01-20 15:12:00* · [`islandlk`](http://island.lk/mudaliyar-sampson-rajapakse-a-giant-of-his-day/) · `en`
-
-Donated land on which the Medical College and the Galle clock tower stands
-
-Mudaliyar Sampson Rajapakse’s Colombo Waluwwa was “Gatherum” Kynsey Road, Colombo and his country Waluwwa, “Mahakappina Walauwwa” in Balapitiya. His father too was a Mudaliyar. Sampson was educated at Royal College, Colombo.
-
-I produce below an extract from the Ceylon Times dated June 4, 1875 headlined “Prize Day at the Medical School, Extract from a speech by Governor of Ceylon – Sir William Gregory”
-
-“But it would be wrong of me, while taking credit to ourselves on such an occasion as this to pass over the name of a gentleman Mr. Sampson Rajapakse (great applause). Mr. Rajapakse has enabled you gentlemen to carry out the plan in an infinitely better manner it would have been or could have been done had the original arrangements been adhered to.
-
-...
-
-[Data](articles/b2cc521c.json)
-
-[Extended Data](ext_articles/b2cc521c.ext.json)
-
----
-
-### Modi's first Indian Prime Minister to visit Srirangam Temple in Trichy
-
-*2024-01-20 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/174389) · `ta`
-
-Indian Prime Minister Narendra Modi, who is on a three -day tour of Tamil Nadu, visited the Srirangam Ranganathar Temple on Saturday (20).
-
-Narendra Modi is the first Indian Prime Minister to visit the Srirangam temple and the first Indian Prime Minister.
-
-After India became independent in 1947, Jawaharlal Nehru became the first Prime Minister of India.
-
-From Nehru to the current Narendra Modi, 15 people have held the post of Prime Minister of India.
-
-It is noteworthy that Narendra Modi, who is the Prime Minister, is the first Prime Minister to visit the Srirangam Temple.
-
-Modi, 44 -year -old Andal, was also blessed with the elephant of the temple.
-
-Prime Minister Modi told Modi that the elephant Pagan would then read the instrument of Andal Mouth Organ during the Navratri festival.
-
-Modi wants to listen to the year of the year, and the elephant Pagan has been reading beautifully, to give Mouth Organ in the thumbnail of the year.
-
-...
-
-[Data](articles/1e40f7fd.json)
-
-[Extended Data](ext_articles/1e40f7fd.ext.json)
-
----
-
-### Navy bears 60 kilos of heroin
-
-*2024-01-20 15:00:35* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-කිලෝ-60ක්-නාවික-හමුදා-භාරයට/11-407631) · `si`
-
-Sri Lanka Navy has taken a multi-day fishing in the South Sea area where the heroin was suspected of heroin in a distance of Rs.Troops of the Galle Harbor (11 January 20) was taken to the Galle Harbor (January 20) morning (Jan. 20).
-
-The navy conducting constant operations in Sri Lanka is conducting constant operations to achieve the national ambition of the country's marine region to achieve the national ambition of the drug.
-
-...
-
-[Data](articles/8587da60.json)
-
-[Extended Data](ext_articles/8587da60.ext.json)
-
----
-
-### New record of the Navy officer
-
-*2024-01-20 14:53:14* · [`adalk`](https://www.ada.lk/breaking_news/නාවික-හමුදා-නිලධාරියාගෙන්-නව-වාර්තාවක්/11-407630) · `si`
-
-Sri Lanka Navy Leader of Sri Lanka Navy Engineer RP Saman Kumara Siriwardena arrived in Poona and march in Poona and 586.1 kilometers in Poona and set up a new Sri Lanka record in 19th January 19, 2024The days were passed.
-
-Accordingly, a new record was a 1080.16 kilometers of Sri Lanka, which was set up 580.11 kilometers in Point in Point Pedro, from a Sri Lankan army personnel from Point Peduru..
-
-Leader of the Leader of the Leader Engineer RP Saman Kumara Siriwardena reached the establishment of this report from 4th January to the Naval Square, Kadawatha from Independence SquareThe Sri Lanka Navy, Kurunegala, Dambulla, Dambulla, Dambulla, Dambulla and Mihintale Naval Camp on January 19, 2024 was completed by the Naval Saviya.
-
-...
-
-[Data](articles/382a4424.json)
-
-[Extended Data](ext_articles/382a4424.ext.json)
-
----
-
-### Police rescued the driver who caused an accident in Mannar?
-
-*2024-01-20 14:44:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மன்னாரில்-கோர-விபத்தை-ஏற்படுத்திய-சாரதியை-காப்பாற்றிய-பொலிஸார்/72-331843) · `ta`
-
-A young family member died on the spot and another injured in an accident which occurred at around 7.30 pm last night in the Mannar -Jaffna main road.
-
-இந்த நிலையில், சம்பவ இடத்திற்கு வருகை தந்த இலுப்பைக் கடவை பொலிஸ் நிலைய பொறுப்பதிகாரி உள்ளிட்ட பொலிஸார் சம்பவ இடத்தில் இருந்த மக்கள் மீது கடுமையாக தாக்கியதுடன், விபத்தை ஏற்படுத்திய பேருந்தையும், அதன் சாரதியையும் காப்பாற்றிச் சென்றுள்ளதாக பாதிக்கப்பட்டவர்கள் தெரிவித்துள்ளனர்.
-
-மன்னார் - யாழ்ப்பாணம் பிரதான வீதி, பள்ளமடு வைத்தியசாலையில் இருந்து சற்று தொலைவில் குறித்த விபத்து இடம்பெற்றுள்ளது.
-
-One of the small buses in Mannar Jaffna. A bus collided with two people traveling on a bicycle while traveling along the main road.
-
-A 42 -year -old family member from the temple pond died on the spot and a 45 -year -old family member from the same village was injured and admitted to the Munga Hospital for further treatment for further treatment.. Teaching has been transferred to the hospital.
-
-...
-
-[Data](articles/cb19c52c.json)
-
-[Extended Data](ext_articles/cb19c52c.ext.json)
-
----
-
-### Remanded Onco Surgeon at Karapitiya requests for early retirement
-
-*2024-01-20 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Remanded-Onco-Surgeon-at-Karapitiya-requests-for-early-retirement/108-275415) · `en`
-
-Galle, Jan. 20 (Daily Mirror)- Krishantha Perera, the Onco Surgeon at the Karapitiya Teaching Hospital, who was remaded over the alleged assault on a female hospital staffer, has requested to obtain leave preparatory to retirement, Hospital Director S.D.M. Ranga confirmed.
-
-It is reported that the surgeon could serve until the age of 63 according to the new circualr and that he had requested for retirement two years prior to his retirement age.
-
-He was remanded till 22 January by the Galle Magistrate’s Court over the assault.
-
-◼️
-
-[Data](articles/645067ec.json)
-
-[Extended Data](ext_articles/645067ec.ext.json)
-
----
-
-### 66 Electricity Board employees dismissed
-
-*2024-01-20 14:27:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்சார-சபை-ஊழியர்கள்-66-பேர்-பணி-நீக்கம்/175-331842) · `ta`
-
-The number of employees fired at the Electricity Board has risen from 15 to 66.
-
-The Electricity Board (CEB) has announced that the demonstration employees have been fired.R
-
-◼️
-
-[Data](articles/2dcb8ad4.json)
-
-[Extended Data](ext_articles/2dcb8ad4.ext.json)
-
----
-
-### Accused handed death sentence over 1996 murder
-
-*2024-01-20 14:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96570/accused-handed-death-sentence-over-1996-murder) · `en`
-
-The Balapitiya High Court has issued the death sentence against a 52-year-old suspect convicted of shooting and killing an individual in 1996.
-
-The incident occurred near the Ambalangoda Railway Station on 30 March 1996, according to police.
-
-The suspect, a resident of Ambalangoda, was identified as the second accused in the case and is currently residing abroad.
-
-The court ruled that the death sentence will take effect from the date of the accused’s arrest.
-
-◼️
-
-[Data](articles/fe261269.json)
-
-[Extended Data](ext_articles/fe261269.ext.json)
-
----
-
-### Six arrested over financial fraud of over Rs. 28 mn
-
-*2024-01-20 13:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96569/six-arrested-over-financial-fraud-of-over-rs-28-mn) · `en`
-
-Six persons have been arrested by the Criminal Investigations Department (CID) for allegedly committing financial fraud to the tune of over Rs. 28 million.
-
-The group of suspects comprising three males and three females are believed to have produced cheques from bank accounts with insufficient funds for the purchase of 15 gemstones worth Rs. 28.75 million, police reported.
-
-One of the six suspects had been arrested in Fort, Colombo on Friday (19 Jan.), after which the other five suspects were arrested in Jaffna.
-
-The three male suspects, aged 24, 30 and 36, were identified as residents of Beruwala and Jaffna, while the three female suspects, aged 25, 43 and 53 have been identified as residents of Jaffna.
-
-Further investigations into the large-scale fraud are being carried out by the CID.
-
-◼️
-
-[Data](articles/2e7dce1c.json)
-
-[Extended Data](ext_articles/2e7dce1c.ext.json)
-
----
-
-### ජන විරෝධය මැද සනත් නිශාන්ත හැරී යයි
-
-*2024-01-20 13:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192356) · `si`
-
-පුත්තලම - දළුව - නිර්මලපුර - නාවක්කාඩු මාර්ගය සංවර්ධනය කිරීමේ මූලික රැස්වීමට එක්වීමට ඊයේ (19) එම ප්‍රදේශයට ගිය රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාට එම ස්ථානයට නොගොස් ආපසු හැරී යාමට සිදු විය.
-
-A development project has been launched on World Bank aid to rehabilitate the Nirmalapura and Nawakadu road in Puttalam - Daluwa area.
-
-A parliamentary discussion was held in Duluwa, Minister of State Sanath Nishantha, and the major phase of the road to develop the road carpet.
-
-However, villagers have objected to the intervention of politicians for the development project.
-
-The floods accused the people of their village were severely affected by no politician.
-
-Sanath Nishantha, who was entitled to the villagers, has not received the way.
-
-The Minister had returned to the resident of the villagers.
-
-◼️
-
-[Data](articles/9b503177.json)
-
-[Extended Data](ext_articles/9b503177.ext.json)
-
----
-
-### President holds bilateral talks with state leaders during NAM Summit in Kampala
-
-*2024-01-20 13:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96568/president-holds-bilateral-talks-with-state-leaders-during-nam-summit-in-kampala) · `en`
-
-President Ranil Wickremesinghe participated in bilateral discussions with various leaders and representatives from Global South countries in the African region yesterday (19 Jan.), coinciding with the Non-Aligned Nations Conference held in Kampala, Uganda.
-
-In the afternoon of the same day (19), a meeting between President Ranil Wickremesinghe and South African President Cyril Ramaphosa transpired. The South African President warmly welcomed President Ranil Wickremesinghe and the two leaders actively engaged in bilateral discussions.
-
-Simultaneously, Tanzania’s Prime Minister Kassim Majaliwa also held a meeting with President Ranil Wickremesinghe, where they delved into bilateral discussions.
-
-Furthermore, Bahamas Prime Minister Philip E. Davis, Vice President of the Republic of Benin Mariam Chabi Talata Zime Yerima and Prime Minister of Ethiopia Abiy Ahmed also met with President Ranil Wickremesinghe, participating in meaningful bilateral discussions.
-
-...
-
-[Data](articles/0d4786a2.json)
-
-[Extended Data](ext_articles/0d4786a2.ext.json)
-
----
-
-### Another crisis to the owners of the five five
-
-*2024-01-20 13:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192355) · `si`
-
-The owner of the restaurant resident had to leave due to injustice due to the behavior of two persons in the Padukka area.
-
-ඔවුන් පවසන්නේ, තම ආපණ ශාලාවට පහරදුන් පුද්ගලයින්ගේ බලපෑම මත තමන්ට එම වෙළෙඳසලෙන් මෙන්ම තමන් රැඳී සිටි කුලී නිවසෙන් ද පිට ව යාමට සිදු ව ඇති බවය.
-
-After notifying the shop, they took steps to remove the goods in it today.
-
-Padukka - Angampe, Angampitiya, a resident of the Angampitiya, attacked the owners on the 18th and claimed that he had no possessions.
-
-මෙලෙස හෝටලයට පැමිණ පහර දී තිබුණේ, ප්‍රදේශයේ පස් ව්‍යාපාරිකයින් දෙදෙනෙක් වන අතර සිද්ධියට සම්බන්ධ අයෙක් අත්අඩංගුවට ගෙන ඊයේ (19) අධිකරණයට ඉදිරිපත් කර තිබිණි.
-
-The other person involved in the incident is being treated in the hospital, saying that the restaway owners attacked him.
-
-◼️
-
-[Data](articles/8c6557c0.json)
-
-[Extended Data](ext_articles/8c6557c0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 23:51:41**
+As of **2024-01-22 00:17:20**
 
 ## Newspaper Stats
 
-*Scraped **1,647** Articles*
+*Scraped **1,648** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 27
 bbccomsinhala | 38
 adaderanasinhalalk | 73
 islandlk | 97
-economynextcom | 103
+economynextcom | 104
 newsfirstlk | 109
 dbsjeyarajcom | 121
 dailyftlk | 150
@@ -26,7 +26,7 @@ adaderanalk | 206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,307 (79.4%) of 1,647 articles have been extended.
+1,315 (79.8%) of 1,648 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -377,6 +377,22 @@ If the government acts the government, the farmers are first gathered to the str
 [Data](articles/356e1c22.json)
 
 [Extended Data](ext_articles/356e1c22.ext.json)
+
+---
+
+### Sri Lanka coconut auction price up 1.9-pct
+
+*2024-01-21 20:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-price-up-1-9-pct-148108/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s coconut prices picked up 1.9 percent to 66,198 rupees for 1,000 nuts at an auction on January 18, after falling 14 percent over three weeks, data from the Coconut Development Authority shows.
+
+The highest price was 69,500 for 1,000 nuts and the lowest was 63,500.
+
+Farmgate prices in Kurunegala were 65,000 to 72,000 in the week to January 11. Retail prices were 105 to 120 for a large nut and 90 to 100 for a smaller one.
+
+◼️
+
+[Data](articles/d26defde.json)
 
 ---
 
@@ -2097,25 +2113,5 @@ The leaders discussed the new economic program in Sri Lanka and President Ranil 
 [Data](articles/fb24a17d.json)
 
 [Extended Data](ext_articles/fb24a17d.ext.json)
-
----
-
-### 'Universal Buddha' arrested
-
-*2024-01-21 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192388) · `si`
-
-The monk who appeared in the universal Buddha was resumed.
-
-The Criminal Investigations Department has been arrested in Kalgalaiiiiiiiiiiiiiii.
-
-Previously, the universal Buddha known as the universal people of the social media was issued before the controversial statements of Buddhism and the controversial behavior in the social media.
-
-However, he ordered to be used as usual in spite of the reproof of the warnings.
-
-◼️
-
-[Data](articles/c0c57f50.json)
-
-[Extended Data](ext_articles/c0c57f50.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 06:59:08**
+As of **2024-01-21 07:24:10**
 
 ## Newspaper Stats
 
-*Scraped **1,489** Articles*
+*Scraped **1,490** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ virakesarilk | 129
 dailyftlk | 150
 adalk | 161
 dailymirrorlk | 170
-tamilmirrorlk | 184
+tamilmirrorlk | 185
 adaderanalk | 185
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-486 (32.6%) of 1,489 articles have been extended.
+491 (33.0%) of 1,490 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Most readers, particularly Buddhists, will know that these words of advice were 
 
 [Data](articles/c37b9d04.json)
 
+[Extended Data](ext_articles/c37b9d04.ext.json)
+
 ---
 
 ### Two remarkable personalities: screenwriter and ex PM
@@ -57,6 +59,22 @@ Peter Julian Robin Morgan, CBE, is my first person of interest. He was born on A
 ...
 
 [Data](articles/5ecfc9f1.json)
+
+[Extended Data](ext_articles/5ecfc9f1.ext.json)
+
+---
+
+### தமிழரசுக் கட்சியின் இரகசிய வாக்கெடுப்பு இன்று
+
+*2024-01-21 03:18:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தமிழரசுக்-கட்சியின்-இரகசிய-வாக்கெடுப்பு-இன்று/175-331865) · `ta`
+
+இலங்கை தமிழரசுக் கட்சியின் தலைவரை தெரிவு செய்வதற்கான  இரகசிய வாக்கெடுப்பு இன்று (21) நடைபெறுகிறது.
+
+பாராளுமன்ற உறுப்பினர்களான ஜனாதிபதி சட்டத்தரணி எம்.ஏ.சுமந்திரன், எஸ். ஶ்ரீதரன் மற்றும் முன்னாள் பாராளுமன்ற உறுப்பினர் சீனித்தம்பி யோகேஸ்வரன் ஆகியோர் இலங்கை தமிழரசுக் கட்சியின் தலைவர் பதவிக்காக போட்டியிடுகின்றனர். (a)
+
+◼️
+
+[Data](articles/9f59f61e.json)
 
 ---
 
@@ -359,6 +377,8 @@ In a sign of tighter supply, the market structure of Brent – which is used to 
 ...
 
 [Data](articles/d45bb364.json)
+
+[Extended Data](ext_articles/d45bb364.ext.json)
 
 ---
 
@@ -978,6 +998,8 @@ Governor of the Eastern Province of Sri Lanka Senthil Thondaman came home for lo
 
 [Data](articles/202c0493.json)
 
+[Extended Data](ext_articles/202c0493.ext.json)
+
 ---
 
 ### Naramala incident;Action order to fly to police officers
@@ -1013,6 +1035,8 @@ This piece uses the vast amount of information on the web, social-media, broadca
 ...
 
 [Data](articles/7e2d0222.json)
+
+[Extended Data](ext_articles/7e2d0222.ext.json)
 
 ---
 
@@ -2007,27 +2031,5 @@ The cause of the fire is yet to be ascertained and the manager of the school has
 [Data](articles/22020abb.json)
 
 [Extended Data](ext_articles/22020abb.ext.json)
-
----
-
-### Measles catch-up immunization program rolled out for children this weekend
-
-*2024-01-20 11:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96564/measles-catch-up-immunization-program-rolled-out-for-children-this-weekend) · `en`
-
-Epidemiology Unit of the Health Ministry is continuing its MMR (measles-mumps-rubella) Catch-up Immunization Program for children aged between 9 months and 15 years over this weekend. Accordingly, the program is held island-wide on Jan. 20 and 21.
-
-The measles vaccination rollout was kicked off after observing a decrease in measles vaccination rates both globally and regionally during the recent COVID-19 pandemic.
-
-Epidemiology Unit says this decrease resulted in a significant surge in the incidence of measles cases on both a global and regional level.
-
-Adding to this global challenge, Sri Lanka is currently experiencing an imported Measles outbreak since May 2023.
-
-A considerable number of cases have been reported to date predominantly among vaccine refusal communities and subsequently spreading to those who were partially vaccinated (between 9 months - 3 years), the Epidemiology Unit emphasized.
-
-...
-
-[Data](articles/ffd03cd1.json)
-
-[Extended Data](ext_articles/ffd03cd1.ext.json)
 
 ---

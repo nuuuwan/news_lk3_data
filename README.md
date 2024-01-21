@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 22:49:58**
+As of **2024-01-21 22:32:42**
 
 ## Newspaper Stats
 
-*Scraped **1,642** Articles*
+*Scraped **1,636** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 103
 newsfirstlk | 109
 dbsjeyarajcom | 121
 dailyftlk | 150
-virakesarilk | 156
-adalk | 180
+virakesarilk | 151
+adalk | 179
 dailymirrorlk | 187
 tamilmirrorlk | 200
 adaderanalk | 205
@@ -26,7 +26,7 @@ adaderanalk | 205
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,272 (77.5%) of 1,642 articles have been extended.
+1,272 (77.8%) of 1,636 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,88 +71,6 @@ Matara Chief Magistrate Anuruddha Buddhadasa has ordered the security of the mag
 [Data](articles/84941079.json)
 
 [Extended Data](ext_articles/84941079.ext.json)
-
----
-
-### அணி­சேரா தலை­மை­யி­லி­ருந்து அமெ­ரிக்க -இஸ்ரேல் போர் வெறி­யர்­க­ளுடன் அணி­சேர்தல் வரை இலங்கை
-
-*2024-01-21 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174476) · `ta`
-
-1986ஆம் ஆண்டு இஸ்ரேலிய ஜனாதிபதி சாய்ம் ஹெர்சாக் இலங்கைக்கு உத்தியோகபூர்வ விஜயம் ஒன்றை மேற்கொண்டிருந்தார். ஜனாதிபதி ரணசிங்க பிரேமதாச 1990 ஏப்ரல் 20 இல் கொழும்பில் உள்ள இஸ்ரேலிய நலன்புரிப் பிரிவை மூடிவிட்டு இஸ்ரேலுடனான இராஜதந்திர உறவுகளை துண்டித்தார். 2000ஆம் ஆண்டு ஜுன் மாதத்தில் இரு நாடுகளுக்கும் இடையிலான இராஜதந்திர உறவுகள் மீண்டும் தொடங்கப்பட்டன.
-
-பலஸ்தீன மக்களாதரவுக்கான இலங்கைக் குழுவின் தலைவராக ஜனாதிபதி மஹிந்த ராஜபக் ஷ, 1975 ஆம் ஆண்டு முதல் இருந்த போதிலும் இஸ்ரேலுடனான இலங்கையின் உறவுகள் தொடர்ந்தும் வளர்ச்சியடைந்தன. இவ்விரு நாடுகளுக்கும் இடையிலான இடைத்தொடர்புகளின் உச்சகட்ட நிகழ்வாக ஜனாதிபதி மஹிந்த ராஜபக் ஷ, 2014 ஜனவரி மாதம் மேற்கொண்ட இஸ்ரேலுக்கான இரண்டு நாள் விஜயத்தினைக் குறிப்பிடலாம்.
-
-◼️
-
-[Data](articles/b1762792.json)
-
----
-
-### இலட்­ச­து­வீப சர்ச்­சைக்குள் எக்ஸ்: அர­சி­யலைத் தாண்டி ராஜதந்­தி­ர­த்­தையும் தீர்­மா­னிக்கும் சக்­தி­யாக சமூக வலை­தளம்
-
-*2024-01-21 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/174477) · `ta`
-
-மாலைதீவுகளை பழிவாங்க நினைக்கும் இந்தியர்களின் ஆசைகளுக்காக  அபிவிருத்தி என்ற பெயரில் இலட்ச துவீப மக்களின் வாழ்க்கையை அடமானம் வைக்க முடியுமா?
-
-சமூக வலைதளங்களின் ஊடாக பரப்பப் படும் கருத்துக்களை அடிப்படை யாகக் கொண்ட அரசியலும், இராஜதந்திரமும் தீர்மானிக்கப்படும் சமகால உலகில், இந்த மக்கள் வெற்றி பெற முடியாது.
-
-ஏனெனில், இந்தியர்கள், மாலைதீவு மக்கள் அளவிற்கு சமூக வலைதளங்களில் செல்வாக்கு செலுத்தக்கூடிய எண்ணிக்கையும், ஆற்றல்களும் இலட்ச தீவு மக்களுக்கு கிடையாது.
-
-இந்த மக்களின் பிரச்சினையை இணையம் என்ற கண்ணாடி தாண்டி, யதார்த்தமான முறையில் பார்ப்பது காலத்தின் கட்டாய மாகிறது.
-
-◼️
-
-[Data](articles/2beb2ad6.json)
-
----
-
-### இடம்பெறவுள்ள தேர்தல் நாட்டை பாதுகாக்க கிடைத்த இறுதி சந்தர்ப்பம் : மிஹிந்தலை மகாநாயக்க தேரர்
-
-*2024-01-21 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174478) · `ta`
-
-அடுத்துவரும் தேர்தல் நாட்டை பாதுகாத்துக்கொள்ள கிடைத்த இறுதி சந்தர்ப்பமாகும். அதனால் அரசியல் வாதிகளிடம் தொடர்ந்து ஏமாறாமல் உண்மையாக சேவை செய்யக்கூடிய சிலரை தெரிவு செய்து நாட்டை கட்டியெழுப்ப தயாராக வேண்டும்.
-
-அத்துடன் இந்த நாட்டை ஆட்சி செய்த அனைத்து அரசியல் கட்சிகளும் விடுதலைப்புலிகளுக்கு சமமானவர்களாகும் என மிஹிந்தலை மகாநாயக்க தேரர்  வளவாஹெங்குணவெவே தம்மரத்ன தெரிவித்தார்.
-
-நாட்டை ஆட்சி செய்யப்போரவர் யார் என்பது எமக்கு முக்கியம் இல்லை. அதேபோன்று எந்த கட்சி ஆட்சி செய்யப்போகிறது என்பதும் எமக்கு தேவையில்லை.
-
-எமது நாடே எமக்கு முக்கியம். அதனால் தற்போது எங்களுக்கு கதைத்துக்கொண்டிருக்க நேரம் இல்லை. அதேபோன்று போராட்டம் செய்யவோ ஹர்த்தால் மேற்கொள்ளவோ எமக்கு தேவையில்லை.
-
-தற்போது எமக்கு தேவையாக இருப்பது,  சிறந்த சிந்தனையும் இலக்கும் உள்ள இளைஞர்களாகும். நூற்றுக்கு ஆயிரம் இன்று ஆட்சியாளர்கள் மக்கள் பக்கம் இல்லை. அதனால்தான் ஆட்சியாளர்கள் கிராமங்களுக்கு செல்லும்போது அந்த பிரதேச மக்கள் அவர்களை விரட்டுகின்றார்கள்.
-
-...
-
-[Data](articles/2fe5dc36.json)
-
----
-
-### மஹிந்த வஜிர இரகசிய பேச்சு
-
-*2024-01-21 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174475) · `ta`
-
-இந்த தகவல்கள் ஐக்கிய மக்கள் சக்தியின் உறுப்பினர்களான நளின் பண்டார, எஸ்.எம்.மரிக்கார் உள்ளிட்டவர்களால் புனை­யப்பட்டு பரப்படுவதாக ஐக்கிய தேசியக் கட்சி­­யின் முக்கியஸ்தர் ஒருவர் தெரிவிக்­கின­­் றார். எது எவ்வாறாயினும், ஜனாதிபதி ரணில் விக்­கிரமசிங்க நாடு திரும்பியதும், தான் அறி­விப்புக்கள் வெளியாகும் என்பது ஒருபுற­மிருக்கையில் ஒன்பதாவது பாராளுமன்றத்தின் நான்காவது கூட்டத்தொடர் எதிர்வரும் 24ஆம் திகதியுடன் முடிவுக்கு கொண்டுவரப்பட­வுள்ள­­தாக சபாநாயகர் மஹிந்த யாப்பா அறி­ வித்துள்ளதோடு புதிய கூட்டத்தொடர் பெப்ர­­வரி 7ஆம் திகதி ஆரம்பமாகவுள்ளமை குறிப்­பிடத்­தக்கது.
-
-◼️
-
-[Data](articles/bd7c429f.json)
-
----
-
-### நீலக்கடல் கடற்படைக் கனவு
-
-*2024-01-21 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/174471) · `ta`
-
-செங்கடலில் கடற்படைக் கப்பலை நிலை நிறுத்தும் அரசியல் முடிவுக்குப் பின்னால் பெரியதொரு பொருளாதாரச் சுமையும் காத்திருக்கிறது.
-
-அத்தகைய சுமைகளைத் தாங்கக் கூடிய நிலையில் நாடு இருக்கிறதா என்ற கேள்வியே இப்போது பரவலாக எழுகிறது.
-
-இவற்றுக்குத் தீர்வை எட்டிய பின்னர் சர்வதேச கடலுக்குச் செல்லாம், நீலக்கடல் கடற்படை கனவை நனவாக்கலாம் என்பதே கர்தினால் போன்றோரின் வாதமாக உள்ளது.
-
-முதலில் கூரையில் ஏறிக் கோழியைப் பிடியுங்கள், பிறகு வானத்தில் ஏறி வைகுண்டத்துக்குப் போகலாம் என்ற தொனியில் அவர், வெளியிட்டுள்ள கருத்து நியாயமற்றது என கூற முடியாது.
-
-◼️
-
-[Data](articles/636de718.json)
 
 ---
 
@@ -213,24 +131,6 @@ During the ceremony, the first batch of 197 passports was handed over to the res
 [Data](articles/18fd9ec8.json)
 
 [Extended Data](ext_articles/18fd9ec8.ext.json)
-
----
-
-### පෑලියගොඩට ආපු මාලු  එළවළු මිල බස්සවයි
-
-*2024-01-21 20:37:46* · [`adalk`](https://www.ada.lk/breaking_news/පෑලියගොඩට-ආපු-මාලු--එළවළු-මිල-බස්සවයි/11-407652) · `si`
-
-“දින පහක් ඇතුළත සියයට හතළිහක් පනහක් හතර මිලකට එකවරම එළවළු මිල අඩු වුණේ පැහැලියගොඩ මාළු  වෙළඳසැලේ මාළු මිල අඩු වුන නිසා පාරිභෝගිකයන් මාළු කන්න හුරුවීම හා එළවළු කෑම ප්‍රතික්ෂේප කිරීමත් එක්ක එළවළු නාස්තිවීම අවම කරන්න කටයුතු කිරීමක් වශයෙන් එළවළු මිල අඩුවුණා” යැයි නුවරඑළිය විශේෂිතආර්ථික මධ්‍යස්ථායේ සභාපති අරුණ ශාන්ත හෙට්ටිආරච්චිමහතා පැවසිය.
-
-අරුණ ශාන්ත හෙට්ටිආරච්චිමහතා ඒ බැව් කියා සිටියේ (21) දිනනුවරඑළිය විශේෂිතආර්ථික මධ්‍යස්ථානයේදී විශේෂ මාධ්‍ය හමුවක් පවත්වමිනි.
-
-"අද එළවළු ගැනුම් තොග මිල පවතින්නේගෝවා කිලෝව රුපියල් 450 - 470 , කැරට් කිලෝවරුපියල්  900 - 950 , ලීක්ස්කිලෝව රුපියල් 340 -360 , බීට්‍ රූට්කිලෝව රුපියල්  400 - 420 , කට් බීට් රූට්කිලෝව රුපියල් 500 -520 , අර්තාපල්කිලෝව රුපියල්  300 – 32යි.
-
-රජයෙන් කටයුතු කරනවා නම් එළවළු පිටරටින් ගෙන්නන්නඩඒකට විරුද්ධව මුලින්ම පාරට බහින්නේ ගොවියෝ ටිකත් එකතු කරගෙන ආර්ථික මධ්‍යස්ථානවල නිලධාරීන් ව්‍යාපාරිකයන් හා අපියි."
-
-◼️
-
-[Data](articles/356e1c22.json)
 
 ---
 
@@ -754,28 +654,6 @@ Two people who came on a motorcycle were shot.
 
 ---
 
-### Pleased to be given the leadership responsibility for Sreedharan: I will give my full support to Chairman Sridharan - Sumanthiran
-
-*2024-01-21 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/174459) · `ta`
-
-Co -chief contestant MA Sumanthiran has said that the Sri Lankan Tamil party's responsibility for the Sri Lankan Tamil party is very high and he will give his full support to Chairman Sreedharan.
-
-In the election for the leader of the Tamil party, our party has been a role model for the country and the international community.
-
-It is a very happy thing that our leader Mawai Senathirajah led the Tamil party responsibility.
-
-We will continue to travel together on this journey. We have made this clear to the people in the election. We will continue to travel.
-
-Therefore, I am informed that I will give my full support to the leader of the democratic leader and that he will fully give it to the leader Sridharan.
-
-◼️
-
-[Data](articles/df5b5d2e.json)
-
-[Extended Data](ext_articles/df5b5d2e.ext.json)
-
----
-
 ### Sri Lanka records 03 dengue deaths in past 20 days
 
 *2024-01-21 16:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/sri-lanka-records-03-dengue-deaths-in-past-20-days/) · `en`
@@ -798,19 +676,25 @@ Investigative report over controversial human immunoglobulin purchase handed to 
 
 ---
 
-### Supreme Court for the second time for Rajapaksa
+### Pleased to be given the leadership responsibility for Sreedharan: I will give my full support to Chairman Sridharan - Sumanthiran
 
-*2024-01-21 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/174445) · `ta`
+*2024-01-21 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174459) · `ta`
 
-The fundamental human rights violation petition filed against seven people was responsible for the country's economic downturn and crisis.. On November 14 last year, the Supreme Court declared that all seven were responsible for the economic downturn.
+Co -chief contestant MA Sumanthiran has said that the Sri Lankan Tamil party's responsibility for the Sri Lankan Tamil party is very high and he will give his full support to Chairman Sreedharan.
 
-Gotabhaya, who was chased away by the people without completing his tenure, said, "I have made some decisions for the benefit of the people and the nation.". However, when the Supreme Court's verdict on the issue of Duminda Silva on the 17th, the fact that the Gotabhaya executive has exceeded the constitution.. Gotabhaya also justified himself by a promise that he made this decision in view of the welfare of the nation, even the public amnesty to Duminda.. Today, his presidency has been criticized by the nation.
+In the election for the leader of the Tamil party, our party has been a role model for the country and the international community.
 
-...
+It is a very happy thing that our leader Mawai Senathirajah led the Tamil party responsibility.
 
-[Data](articles/3e46b98f.json)
+We will continue to travel together on this journey. We have made this clear to the people in the election. We will continue to travel.
 
-[Extended Data](ext_articles/3e46b98f.ext.json)
+Therefore, I am informed that I will give my full support to the leader of the democratic leader and that he will fully give it to the leader Sridharan.
+
+◼️
+
+[Data](articles/df5b5d2e.json)
+
+[Extended Data](ext_articles/df5b5d2e.ext.json)
 
 ---
 
@@ -1287,6 +1171,22 @@ Sivagnanam Shritharan contested the 2010 parliamentary election as one of the Ta
 [Data](articles/e74c3833.json)
 
 [Extended Data](ext_articles/e74c3833.ext.json)
+
+---
+
+### Supreme Court for the second time for Rajapaksa
+
+*2024-01-21 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174445) · `ta`
+
+The fundamental human rights violation petition filed against seven people was responsible for the country's economic downturn and crisis.. On November 14 last year, the Supreme Court declared that all seven were responsible for the economic downturn.
+
+Gotabhaya, who was chased away by the people without completing his tenure, said, "I have made some decisions for the benefit of the people and the nation.". However, when the Supreme Court's verdict on the issue of Duminda Silva on the 17th, the fact that the Gotabhaya executive has exceeded the constitution.. Gotabhaya also justified himself by a promise that he made this decision in view of the welfare of the nation, even the public amnesty to Duminda.. Today, his presidency has been criticized by the nation.
+
+...
+
+[Data](articles/3e46b98f.json)
+
+[Extended Data](ext_articles/3e46b98f.ext.json)
 
 ---
 
@@ -2069,5 +1969,125 @@ The group also reiterated support for a Palestinian state to be admitted as a me
 [Data](articles/69238a9f.json)
 
 [Extended Data](ext_articles/69238a9f.ext.json)
+
+---
+
+### Iran vows revenge over deadly missile strike in Damascus
+
+*2024-01-21 10:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Iran-vows-revenge-over-deadly-missile-strike-in-Damascus/107-275423) · `en`
+
+Beirut, Jan 21 (AFP) - Tehran has vowed to carry out revenge attacks against Israel after a missile strike yesterday flattened a building used as a base of Iran’s elite Revolutionary Guards in Damascus, killing five Guards and an unspecified number of Syrian troops.
+
+Ambulances and fire trucks gathered around the site of the strike, which had been cordoned off, a Reuters journalist at the scene said.
+
+Rescue operations for people stuck under the rubble continued through the day. A crane was in place to hoist concrete slabs off the wreckage.
+
+An AFP journalist said the building had been reduced to debris.
+
+“I heard the explosion clearly in the western Mazzeh area, and I saw a large cloud of smoke,” one resident told AFP, requesting anonymity over security concerns. “The sound was similar to a missile explosion, and minutes later I heard the sound of ambulances.”
+
+Asked about the strike, the Israeli military told AFP: “We do not comment on reports from the foreign media.”
+
+...
+
+[Data](articles/fc5e0e72.json)
+
+[Extended Data](ext_articles/fc5e0e72.ext.json)
+
+---
+
+### Nearly 1,000 arrested during ’Yukthiya’ operation within 24 hours
+
+*2024-01-21 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nearly-1-000-arrested-during-Yukthiya-operation-within-24-hours/108-275422) · `en`
+
+Colombo, Jan 21 (Daily Mirror) -  A total of 987 suspects have been arrested during the islandwide operation 'Yukthiya' within the last 24 hours, the Public Security Ministry said.
+
+They said 663 suspects have been arrested over drug offenses and 324 suspects who were on the list referred to Crime OICs of police station were also arrested accordingly.
+
+Among the 638 suspects arrested over drug offences, 12 are being further investigated into under detention orders while 14 drug addicts have been referred for rehabilitation.
+
+Meanwhile, 14 suspects who were on the wanted list of the Police Narcotics Bureau and Police Special Bureau were also arrested.
+
+Also, among the 324 arrested suspects in the list sent to the criminal division, there are 90 who had pending open warrants over drug offenses and 222 open warrants over non-drug offenses.
+
+◼️
+
+[Data](articles/82926fdf.json)
+
+[Extended Data](ext_articles/82926fdf.ext.json)
+
+---
+
+### The soundtrack of the lawyer who sought bribery
+
+*2024-01-21 10:53:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலஞ்சம்-வழங்க-முயன்ற-சட்டத்தரணியின்-ஒலிப்பதிவு-கசிவு/175-331875) · `ta`
+
+A leaked conversation between a police officer and a female lawyer suspected of representing a relative of Ganemulla Sanjeeva, an organized culprit, detained at the Weerakula police station.
+
+During the conversation, it was reported that the Attorney -at -Law had tried to bribe the Assistant Superintendent of Police.
+
+It is reported that a team of police narcotics unit officials have been sent to investigate an investigation into the drug trafficking case against Kanemulla Sanjeeva.
+
+Sources said that a woman who identified herself as a lawyer representing Ganemulla Sanjeeva's cousin had intervened and urged the authorities not to intervene.
+
+The lawyer from the Gampaha area tried to bribe him after the failure to prevent the search of the ASP of the Drug Eradication Unit failed.
+
+Daily Mutor
+
+◼️
+
+[Data](articles/827ef63d.json)
+
+[Extended Data](ext_articles/827ef63d.ext.json)
+
+---
+
+### Polish national drowns while sea bathing at Panadura Beach
+
+*2024-01-21 10:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96589/polish-national-drowns-while-sea-bathing-at-panadura-beach) · `en`
+
+A Polish national has reportedly drowned while bathing in the sea area off the Panadura Beach, police said.
+
+According to police, the 61-year-old had been staying at a hotel in the Panadura (South) area, and was swept away by strong currents while bathing in the Panadura Beach.
+
+Despite the immediate response of a lifeguard at the hotel, however, the victim was pronounced dead upon admission to the Panadura Base Hospital, police said.
+
+◼️
+
+[Data](articles/2b6fd32b.json)
+
+[Extended Data](ext_articles/2b6fd32b.ext.json)
+
+---
+
+### New professional guidance programme to be launched for A/L students
+
+*2024-01-21 10:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96588/new-professional-guidance-programme-to-be-launched-for-al-students-) · `en`
+
+Education Minister Susil Premajayantha has announced the imminent launch of a specialized programme tailored to offer professional guidance for students currently undertaking the 2023 G.C.E Advanced Level examination.
+
+According to the Minister, the initiative is expected to be held at over 300 centres across the country from 20 February.
+
+◼️
+
+[Data](articles/a60170a3.json)
+
+[Extended Data](ext_articles/a60170a3.ext.json)
+
+---
+
+### Earthquake in the Indian Ocean
+
+*2024-01-21 10:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174432) · `ta`
+
+The 6.3 magnitude earthquake struck at 3.39 am on Sunday (21) in the southwest of the Indian Ocean, the US Geological Survey said.
+
+The quake occurred at a depth of about 10 km in the area, at a distance of 1,636 km from Madagascar.
+
+◼️
+
+[Data](articles/b1bcaeaf.json)
+
+[Extended Data](ext_articles/b1bcaeaf.ext.json)
 
 ---

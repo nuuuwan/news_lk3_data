@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 22:04:19**
+As of **2024-01-21 22:32:42**
 
 ## Newspaper Stats
 
-*Scraped **1,635** Articles*
+*Scraped **1,636** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,37 +20,57 @@ virakesarilk | 151
 adalk | 179
 dailymirrorlk | 187
 tamilmirrorlk | 200
-adaderanalk | 204
+adaderanalk | 205
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,252 (76.6%) of 1,635 articles have been extended.
+1,272 (77.8%) of 1,636 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### කොරියානු සිහිනය සැබෑවෙද්දී මින්දික සොයා ආ වෙඩිල්ල
+### Detention orders issued on 11 suspects arrested with 65kg heroin
+
+*2024-01-21 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96605/detention-orders-issued-on-11-suspects-arrested-with-65kg-heroin) · `en`
+
+The Fort Magistrate’s Court has issued detention orders on the 11 suspects apprehended by the Sri Lanka Navy in two trawlers while in the possession of 65 kilograms of heroin off the Southern coast.
+
+Accordingly, the court granted permission for the suspects to be detained for 07 days by the Police Narcotics Bureau (PNB) for further interrogation.
+
+◼️
+
+[Data](articles/4b7b53ed.json)
+
+---
+
+### The Kori Dream was true
 
 *2024-01-21 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192406) · `si`
 
-කොරියාවේ රැකියා සිහින දකින මෙරට තරුණයින් අතරින් ඒ සිහිනය සැබෑවක් වීමට ඔන්න මෙන්න තිබියදී ජීවිතයෙන් සමුගෙන ගිය තරුණයෙක් පිළිබඳව සංවේදී පුවතක් මාතර ප්‍රදේශයෙන් වාර්තා වෙයි.
+Among the youth of Korea's jobs is about to be true, it is said in Matara.
 
-මෙලෙස අවාසනාවන්ත ලෙස ජීවිතයෙන් සමුගෙන යන්නේ මාතර තෙලිජ්ජවිලදී නාඳුනන තුවක්කුකරුවෙකුට බිළිවූ 22 හැවිරිදි වියේ පසුවන මින්දික නමැති තරුණයාය.
+The youth named Mindika, a 22-year-old Mindi, who is an unknown gunist in Anuradhapura.
 
-ඔහු කොරියානු භාෂා විභාගය සමත්වී රැකියාව සඳහා නුදුරේදීම එරට බලා පිටත්ව යාමට සිට ඇත.
+He was sitting on the Korean language exam and left for work soon.
 
-මෙහි ඇති සංවේදී කරුණ වන්නේ මාතර - තෙලිජ්ජවිල මංසන්ධියේ ජංගම දුරකථන උපාංග වෙළෙඳසැලකදී ඊයේ (20) සිදුකළ මෙම වෙඩි තැබීම වෙඩික්කරුවන්ගේ ඉලක්කය වැරදී සිදුවූවක් බවට තොරතුරු වාර්තා වීමය.
+The sensitive point is that the shooting of the shooting was tired at a mobile phone accessory shooting at the Thelejjawila juncture of the Matara-Thelijjawila juncture.
 
-මියගිය එම තරුණයා මින්දික අලුත්ගමගේ නම් දෙනිපිටිය ප්‍රදේශයේ පිදිංචිකරුවෙක් වන ඔහු සිය ජංගම දුරකථනය ආරෝපණය කරගැනීම සඳහා මෙම වෙළෙඳසැලට පැමිණ තිබුණි.
+The deceased is a pharmaceper in the Denipitiya Aluthgamage, Denipitiya, and has come to the shop to charge his mobile.
 
-වෙඩිතැබීම සිදුවන අවස්ථාවේ දුරකථන උපාංග අලෙවිසැලේ හිමිකරු පිටත රැඳී සිට ඇති අතර ඒ තුළ සිට ඇත්තේ හිමිකරුගේ මිතුරකු වන වෙනත් තරුණයෙකි.
+At the time of shooting, the owner of the telephone release has been on the outside and has been a friend of the owner.
+
+Police said that the owner of the shooting had been arrested and released to a robbery in the Supreme Court, saying that he had been bullied and released to the Supreme Court.
+
+Matara Chief Magistrate Anuruddha Buddhadasa has ordered the security of the magisterial inquiry into the incident.
 
 ...
 
 [Data](articles/84941079.json)
+
+[Extended Data](ext_articles/84941079.ext.json)
 
 ---
 
@@ -2069,33 +2089,5 @@ The quake occurred at a depth of about 10 km in the area, at a distance of 1,636
 [Data](articles/b1bcaeaf.json)
 
 [Extended Data](ext_articles/b1bcaeaf.ext.json)
-
----
-
-### T JD Jaya in Matale Rs. Lacks to 100
-
-*2024-01-21 10:32:28* · [`adalk`](https://www.ada.lk/breaking_news/මාතලේ-ටී-ජේ-සි-අඹ-කිලෝව-රු--100ට-අඩුවෙයි/11-407641) · `si`
-
-Due to the high yield of Tom & JJ, which was cultivated in Matale District under various companies and sponsors, the growers of the mango special.
-
-Many farmers who cultivated the Tauge invested by the lack of a proper program for cultivation and the necessary advice on the pascality are worried about the sale of harvesting money.
-
-Thousands of plants in the mango species have been cultivated in the same district alone.
-
-A good harvesting plant under a dry cracket, a kilogram of mangoes as a casket is made up of Rs.
-
-The growers are said to have had to give their harvests to the dirt receiving the harvest and lack of mango plants.
-
-The growers of the tea JC require special fertilizers as well as the coverage of the nuts and that they will have a large bodies.
-
-At the Dambulla Economic Center, Ti JC mango was priced at Rs. 180.00.
-
-However, the retail retail retail price of the city of Kandy and Matale were a sum of Rs.
-
-◼️
-
-[Data](articles/5e0f1a4c.json)
-
-[Extended Data](ext_articles/5e0f1a4c.ext.json)
 
 ---

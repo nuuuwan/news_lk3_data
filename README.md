@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 15:02:31**
+As of **2024-01-21 15:17:19**
 
 ## Newspaper Stats
 
@@ -26,49 +26,55 @@ adaderanalk | 197
 
 Extensions include translations and NER (Named Entity Recognition).
 
-875 (55.6%) of 1,575 articles have been extended.
+893 (56.7%) of 1,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### ”தாக்குதலில் உயிரிழந்தவர்கள் புனிதர்களாக அறிவிக்கப்படுவர்”
+### “Those who are killed in the attack will be declared saints"
 
 *2024-01-21 14:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதலில்-உயிரிழந்தவர்கள்-புனிதர்களாக-அறிவிக்கப்படுவர்/175-331895) · `ta`
 
-ஈஸ்டர் ஞாயிறு தாக்குதலில் இறந்தவர்களை புனிதர்களாக கத்தோலிக்க திருச்சபை அறிவிக்க உள்ளதாக கொழும்பு பேராயர் கர்தினால் மால்கம் ரஞ்சித் தெரிவித்துள்ளார்.
+Archbishop of Colombo Cardinal Malcolm Ranjith says that the Catholic Church will declare the victims of the Easter Sunday attack.
 
-கந்தானை புனித செபஸ்டியன் தேவாலயத்தில் நடைபெற்ற ஆராதனையின் போது பேசிய கர்தினால் ரஞ்சித், இந்த ஆண்டு ஏப்ரல் 21 ஆம் திகதி ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல்களின் ஐந்தாவது ஆண்டு நினைவு தினத்தை நாடு கொண்டாடும் போது இதற்கான முதல் படி எடுக்கப்படும் என்றார்.
+Speaking during the worship of St. Sebastian Church at Kandan, Cardinal Ranjith said the first step would be taken when the country celebrated the fifth anniversary of Easter Sunday bombings on April 21 this year.
 
-"ஏப்ரல் 21, 2019 அன்று தேவாலயங்களில் இறந்தவர்கள் தாங்கள் நம்பியதற்காக தங்கள் வாழ்க்கையை தியாகம் செய்தனர். அன்று அவர்கள் கிறிஸ்துவை நம்பியதால் தேவாலயத்திற்கு வந்தனர். மற்ற புனிதர்களைப் போல கிறிஸ்துவை நேசித்ததால் அவர்கள் தங்கள் வாழ்க்கையை தியாகம் செய்தனர்," என்று அவர் கூறினார்.
+“On April 21, 2019, the dead in churches sacrificed their lives for their belief. They came to the church because they believed in Christ that day. They sacrificed their lives because they loved Christ like other saints, "he said.
 
-"ஒருவர் தியாகம் செய்து ஐந்து ஆண்டுகள் நிறைவடைந்த பின்னரே அவரை புனிதர் என்று பெயரிட முடியும். எனவே, ஈஸ்டர் ஞாயிறு பாதிக்கப்பட்டவர்களை இந்த ஆண்டு ஏப்ரல் 21 ஆம் திகதி புனிதர்களாக அறிவிப்பதை முன்னோக்கி நகர்வோம்" என்று அவர் மேலும் கூறினார்.
+“One can name him as a saint only after five years of sacrifice. Therefore, we will move forward to the victims of Easter Sunday as saints on April 21 this year, ”he added.
 
-...
+"Christianity is not just about engaging in religious worship in churches. We have to stand for justice. We need to speak for the justice of others. This is what Pope Francis has taught us in his scripture how to act. ”
+
+◼️
 
 [Data](articles/a1d559f2.json)
 
+[Extended Data](ext_articles/a1d559f2.ext.json)
+
 ---
 
-### நாளை முதல் பேருந்துகள் இயங்காது;LPBOA தலைவர்
+### Buses will not run from tomorrow; LPBOA leader
 
 *2024-01-21 14:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-பேருந்துகள்-இயங்காது-LPBOA-தலைவர்/175-331894) · `ta`
 
-சிசிடிவி காட்சிகளின் அடிப்படையில் பேருந்து உரிமையாளர்களுக்கு அபராதத் தாள்களை கொடுக்கும் நடவடிக்கையை நாளை முதல் பொலிஸார் அமுல்படுத்தவுள்ள நிலையில்,  நாளை முதல் பேருந்து இயக்கத்தை தவிர்க்கவுள்ளதாக இலங்கை தனியார் பேருந்து உரிமையாளர்கள் சங்கம் (LPBOA) தெரிவித்துள்ளது.
+The Sri Lanka Private Bus Owners Association (LPBOA) has said that the police will be implemented from tomorrow, as the police will implement the fines of bus owners based on CCTV footage.
 
-சிசிடிவி காட்சிகளின் அடிப்படையில் அபராதத் தாள்களை நாளை முதல் அனுப்ப பொலிஸார் திட்டமிட்டுள்ளதாக LPBOA தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+LPBOA leader Gemunu Wijeratne said that the police are planning to send fines from tomorrow based on CCTV footage.
 
-இதன்போது ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், பேருந்துகளின் தவறுகள் தொடர்பான அபராதத் தாள்களை பேருந்தின் உரிமையாளருக்கு அனுப்பி வைப்பது நியாயமற்றது.
+Commenting on the media, he said that it was unreasonable to send the fines of the buses to the owner of the bus.
 
-பஸ் சங்கத்துடன் எவ்வித கலந்துரையாடலும் இன்றி பொலிஸார் இந்த தீர்மானத்தை எடுத்துள்ளனர் என்றார்.
+He said the police had taken the decision without any discussion with the bus association.
 
-பேருந்துகளின் தவறுகள் தொடர்பான அபராதத் தாள்களை பேருந்தின் உரிமையாளருக்கு அனுப்புவது நியாயமற்றது என விஜேரத்ன தெரிவித்துள்ளார்.
+Wijeratne said it was unreasonable to send the fines of the buses to the bus owner.
 
-மேலும், பேருந்து முன்னுரிமைப் பாதையை நடைமுறைப்படுத்தி, பேருந்துகளை இயக்க முறையான ஏற்பாடுகள் செய்யப்பட்டால், பேருந்து உரிமையாளர்கள் இந்த முன்மொழிவுக்கு இணங்குவார்கள் என்றார்.
+He also said that if the bus owners are implemented and properly arranged for the buses to operate the priority path, the bus owners will comply with the proposal.
 
 ◼️
 
 [Data](articles/3997cd41.json)
+
+[Extended Data](ext_articles/3997cd41.ext.json)
 
 ---
 
@@ -126,6 +132,8 @@ Sivagnanam Shritharan contested the 2010 parliamentary election as one of the Ta
 
 [Data](articles/e74c3833.json)
 
+[Extended Data](ext_articles/e74c3833.ext.json)
+
 ---
 
 ### S. Sridharan elected leader of Illankai Tamil Arasu Kadchi
@@ -141,6 +149,8 @@ Members of Parliament, President's Counsel M.A. Sumanthiran, S. Sreedharan and f
 ◼️
 
 [Data](articles/5b1105b8.json)
+
+[Extended Data](ext_articles/5b1105b8.ext.json)
 
 ---
 

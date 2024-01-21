@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 17:53:10**
+As of **2024-01-21 18:09:09**
 
 ## Newspaper Stats
 
-*Scraped **1,604** Articles*
+*Scraped **1,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,19 +14,19 @@ adaderanasinhalalk | 64
 islandlk | 97
 economynextcom | 103
 newsfirstlk | 109
-dbsjeyarajcom | 120
+dbsjeyarajcom | 121
 virakesarilk | 146
 dailyftlk | 150
 adalk | 172
 dailymirrorlk | 180
 tamilmirrorlk | 198
-adaderanalk | 200
+adaderanalk | 201
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,031 (64.3%) of 1,604 articles have been extended.
+1,049 (65.3%) of 1,606 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -91,6 +91,26 @@ The maid and the two employees have been arrested in the investigation carried o
 [Data](articles/ba3c5fdf.json)
 
 [Extended Data](ext_articles/ba3c5fdf.ext.json)
+
+---
+
+### Three minor staff members remanded over assault incident at Karapitiya Hospital
+
+*2024-01-21 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96601/three-minor-staff-members-remanded-over-assault-incident-at-karapitiya-hospital) · `en`
+
+Three minor staff members of the Karapitiya Teaching Hospital including a female, who were arrested in connection with a complaint by the hospital’s senior oncologist alleging assault, have been remanded in custody until 29 January 2024.
+
+The order was issued by the Galle Magistrate’s Court after the arrested suspects were produced before the court, Ada Derana reporter said.
+
+Earlier, the Galle Police had arrested three minor staff members including a female of the Karapitiya Teaching Hospital this morning (21) over an alleged assault to the senior oncologist of the hospital.
+
+The senior oncologist in question, Dr. Krishantha Perera, 61, was also arrested on 18 January for purportedly assaulting a female junior staff member during a contentious situation that had ensued the previous morning.
+
+...
+
+[Data](articles/d5019761.json)
+
+[Extended Data](ext_articles/d5019761.ext.json)
 
 ---
 
@@ -361,6 +381,10 @@ The President has shown that principles such as harmony and cooperation of this 
 *2024-01-21 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96599/president-ranil-addresses-g77china-summit-in-uganda-) · `en`
 
 President Ranil Wickremesinghe is currently addressing the Group of 77 and China (G77+China) Third South Summit in Kampala, Uganda, the President’s Media Division (PMD) reported.
+
+In his statement at the summit in Kampala, President Ranil Wickremesinghe stressed establishing unity within the G77 and China to address challenges facing the Global South.
+
+Emphasizing the group’s 60th anniversary, he also highlighted principles like unity and cooperation as the basis for tackling these issues sustainably, according to the PMD.
 
 The Sri Lankan President is in Uganda to attend the XIX Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the Group of 77 (G77) and China Third South Summit.
 
@@ -2113,27 +2137,5 @@ With the aim of expanding political relations, a proposal was made to facilitate
 [Data](articles/ac55c0bb.json)
 
 [Extended Data](ext_articles/ac55c0bb.ext.json)
-
----
-
-### Polish kills in Panadura sea
-
-*2024-01-21 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192378) · `si`
-
-A Polish rank of Panadura has been killed.
-
-According to the police, 61-year-old Polish was a 61-year-old Polish.
-
-He was staying at a hotel in the South, Panadura and had gone to the coast of Panadura.
-
-The Polishman was in a breakdown in a disappointment and died on admission to the Sri Lanka Institute to the Panadura Hospital.
-
-Panadura South Police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/94a6bf29.json)
-
-[Extended Data](ext_articles/94a6bf29.ext.json)
 
 ---

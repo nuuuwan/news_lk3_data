@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 03:17:21**
+As of **2024-01-22 03:32:48**
 
 ## Newspaper Stats
 
-*Scraped **1,664** Articles*
+*Scraped **1,665** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 104
 newsfirstlk | 109
 dbsjeyarajcom | 121
 virakesarilk | 156
-dailyftlk | 158
+dailyftlk | 159
 adalk | 180
 dailymirrorlk | 193
 tamilmirrorlk | 200
@@ -26,11 +26,27 @@ adaderanalk | 206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,387 (83.4%) of 1,664 articles have been extended.
+1,387 (83.3%) of 1,665 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### Sri Lanka Press Institute expresses concern over Online Safety Bill
+
+*2024-01-22 01:59:40* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Press-Institute-expresses-concern-over-Online-Safety-Bill/56-757621) · `en`
+
+The Sri Lanka Press Institute, its constituents and affiliated organisations yesterday expressed concern over the proposed Online Safety Bill (Bill) and its implications on the freedom of expression.
+
+While acknowledging a need to regulate internet intermediaries, as is the objective of the Bill, the SLPI  identified several controversial elements present in the Bill that are not conducive for  journalists, the media and the larger community in Sri Lanka.
+
+Considering the amendments to be proposed at the Parliamentary committee stage based on the Supreme Court determination in November 2023, 31 of the 56 articles in the Bill are expected to be revised in line with the principles of democracy and the Constitution of Sri Lanka, reflecting on the freedom of expression of the media. Accordingly, the proposed amendments are expected to alter the functions and the framework of the Commission, including its autonomy and the definitions of offences.
+
+...
+
+[Data](articles/e2d34c88.json)
+
+---
 
 ### Ramanna Sect expels controversial ‘Sri Vishwa Buddha’
 
@@ -2049,21 +2065,5 @@ He argued that societal change is not achieved through strict laws and burdening
 [Data](articles/bc7e52da.json)
 
 [Extended Data](ext_articles/bc7e52da.ext.json)
-
----
-
-### Price of imported eggs to go up by Rs. 8 from today: Minister
-
-*2024-01-21 12:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Price-of-imported-eggs-to-go-up-by-Rs-8-from-today-Minister/108-275429) · `en`
-
-Colombo, Jan. 21 (Daily Mirror)- The price of an imported egg was increased by Rs. 8 from today due to the increase in VAT and other taxes, Trade, Commerce and Food Security Minister Nalin Fernando said.
-
-He told reporters that an imported egg will now be sold at Rs. 43 each at all Sathosa outlets from today.
-
-◼️
-
-[Data](articles/8214b325.json)
-
-[Extended Data](ext_articles/8214b325.ext.json)
 
 ---

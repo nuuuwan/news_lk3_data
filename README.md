@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 21:32:51**
+As of **2024-01-21 21:51:49**
 
 ## Newspaper Stats
 
-*Scraped **1,634** Articles*
+*Scraped **1,635** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 38
-adaderanasinhalalk | 68
+adaderanasinhalalk | 69
 islandlk | 97
 economynextcom | 103
 newsfirstlk | 109
@@ -26,45 +26,71 @@ adaderanalk | 204
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,233 (75.5%) of 1,634 articles have been extended.
+1,252 (76.6%) of 1,635 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### கேள்­விக்­குள்­ளான நிதி ஒழுக்கம்
+### කොරියානු සිහිනය සැබෑවෙද්දී මින්දික සොයා ආ වෙඩිල්ල
+
+*2024-01-21 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192406) · `si`
+
+කොරියාවේ රැකියා සිහින දකින මෙරට තරුණයින් අතරින් ඒ සිහිනය සැබෑවක් වීමට ඔන්න මෙන්න තිබියදී ජීවිතයෙන් සමුගෙන ගිය තරුණයෙක් පිළිබඳව සංවේදී පුවතක් මාතර ප්‍රදේශයෙන් වාර්තා වෙයි.
+
+මෙලෙස අවාසනාවන්ත ලෙස ජීවිතයෙන් සමුගෙන යන්නේ මාතර තෙලිජ්ජවිලදී නාඳුනන තුවක්කුකරුවෙකුට බිළිවූ 22 හැවිරිදි වියේ පසුවන මින්දික නමැති තරුණයාය.
+
+ඔහු කොරියානු භාෂා විභාගය සමත්වී රැකියාව සඳහා නුදුරේදීම එරට බලා පිටත්ව යාමට සිට ඇත.
+
+මෙහි ඇති සංවේදී කරුණ වන්නේ මාතර - තෙලිජ්ජවිල මංසන්ධියේ ජංගම දුරකථන උපාංග වෙළෙඳසැලකදී ඊයේ (20) සිදුකළ මෙම වෙඩි තැබීම වෙඩික්කරුවන්ගේ ඉලක්කය වැරදී සිදුවූවක් බවට තොරතුරු වාර්තා වීමය.
+
+මියගිය එම තරුණයා මින්දික අලුත්ගමගේ නම් දෙනිපිටිය ප්‍රදේශයේ පිදිංචිකරුවෙක් වන ඔහු සිය ජංගම දුරකථනය ආරෝපණය කරගැනීම සඳහා මෙම වෙළෙඳසැලට පැමිණ තිබුණි.
+
+වෙඩිතැබීම සිදුවන අවස්ථාවේ දුරකථන උපාංග අලෙවිසැලේ හිමිකරු පිටත රැඳී සිට ඇති අතර ඒ තුළ සිට ඇත්තේ හිමිකරුගේ මිතුරකු වන වෙනත් තරුණයෙකි.
+
+...
+
+[Data](articles/84941079.json)
+
+---
+
+### In question
 
 *2024-01-21 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174467) · `ta`
 
-ஏதேதோ காரணங்கள் கூறப்பட்டு, இன்னமும் மின் கட்டணம் என்ற பெயரிலும் வரி என்ற பெயரிலும் மக்களின் பணம் உரித்தெடுக்கப்படுகிறது.
+Some reasons have been stated, and people's money is still being made in the name of electricity bills and taxes.
 
-இதன் மூலம் அரசாங்க நிதி முறைகேடாக பயன்படுத்தப்படுகிறது. அரசாங்கத்தின் நிதியொழுக்கத்தை உறுதி செய்யாமல் அது தவறான முறையில் கையாளப்படுவதை தடுக்காமல், எத்தகைய பொருளாதார சீர்திருத்தங்களை மேற்கொண்டும் வெளிநாட்டு உதவிகளைப் பெற்றும், நாட்டை மீட்க முடியாது.
+It is used by government financial abuse. The country cannot be recovered, despite any economic reforms and foreign aid, without ensuring the government's financial work.
 
 ◼️
 
 [Data](articles/3291b94e.json)
 
+[Extended Data](ext_articles/3291b94e.ext.json)
+
 ---
 
-### மொட்டு: குழம்­பு­கி­றதா, குழப்­பு­கி­றதா?
+### Buds: confused or confused?
 
 *2024-01-21 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174466) · `ta`
 
-சஜித்தை ரணில் மற்றும் அநுர தரப்பும், ரணிலை, அநுர மற்றும் சஜித் தரப்பும், அநு­ரவை, ரணிலும், சஜித்தும் சேர்ந்தும், விமர்சனம் செய்து கிழித்து தொங்க விடுவார்கள்.
+Sajith Ranil and Anura, Ranil, Anura and Sajith side, Anuravai, Ranil and Sajith will be criticized and torn down.
 
-அதுவரையில் பொறுத்திருந்து விட்டு கடைசி நேரத்தில் ஒரு வேட்பாளரை அறிவித்து  களமிறக்கினால், எதிர்மறை பிரசாரங்கள் அதிகமின்றி வெற்றி பெற்று விடலாம் என்றும் ராஜபக்ஷவினர் கணக்குப் போடலாம்.
+Until then, Rajapakse may account that if the last time a candidate is announced and the negative campaigns can be successful.
 
-எவ்வாறாயினும், இலங்கையில் நீண்டகால அரசி யலில் மூழ்கித் திழைத்த குடும்பங்களில் ராஜபக்ஷ குடும்பமே இன்றைக்கும் முதன்மையாக இருக்கிறது.
+However, the Rajapaksa family is still the first of the families who have been drowned in the long -standing queen in Sri Lanka.
 
-நீண்டகாலம் அரசியலில் கோலோச்சிய பண்டா குடும்பத்தையே அரசியல் அரங்கில் இருந்து அகற்றிய ராஜபக் ஷ குடும்பம் பண்டா காலத்தில் இருந்து இன்று வரை நிலைத்திருக்கிறது என்றால் அது சாதாரணமானதல்ல.
+It is not uncommon if the Rajapakse Shah family, which has long removed the family of the Golochiya Banda family from the political arena in politics, has been standing from the time of the Banda period.
 
-தலைவனாக இருப்பது மாத்திரம் முக்கியமல்ல, எப்போதும் நிலைத்திருக்க வேண்டும் என்பதை அவர்கள் நன்கு கற்றுக் கொண்டவர்கள்.
+They are well learned that being the leader is not only important, but that it should always be sustained.
 
-அதனால் தான் அவர்களை ஜனாதிபதி தேர்தல் விடயத்தில் அவ்வளவு இலகுவாக எடை போட்டு விட முடியாது.
+That is why they cannot be so easily weight on the presidential election.
 
 ◼️
 
 [Data](articles/63c4e58b.json)
+
+[Extended Data](ext_articles/63c4e58b.ext.json)
 
 ---
 
@@ -2071,25 +2097,5 @@ However, the retail retail retail price of the city of Kandy and Matale were a s
 [Data](articles/5e0f1a4c.json)
 
 [Extended Data](ext_articles/5e0f1a4c.ext.json)
-
----
-
-### Child killed in jail
-
-*2024-01-21 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192385) · `si`
-
-A 10-year-old child was killed in a rope in the Mullaittivu area in Mullaittivu area yesterday (20).
-
-The police said that the child was killed in the rope of the cord when he was heading.
-
-The child has been admitted to the Mullaitivu hospital expedited but he has been killed.
-
-The Mullaitivu Hospital will be held at the Mullaitivu Hospital on the death of the dead child and the Kokilai police are conducting further investigations.
-
-◼️
-
-[Data](articles/bfda4712.json)
-
-[Extended Data](ext_articles/bfda4712.ext.json)
 
 ---

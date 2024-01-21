@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 17:33:17**
+As of **2024-01-21 17:53:10**
 
 ## Newspaper Stats
 
-*Scraped **1,601** Articles*
+*Scraped **1,604** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 38
-adaderanasinhalalk | 62
+adaderanasinhalalk | 64
 islandlk | 97
 economynextcom | 103
 newsfirstlk | 109
 dbsjeyarajcom | 120
 virakesarilk | 146
 dailyftlk | 150
-adalk | 171
+adalk | 172
 dailymirrorlk | 180
 tamilmirrorlk | 198
 adaderanalk | 200
@@ -26,11 +26,35 @@ adaderanalk | 200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,021 (63.8%) of 1,601 articles have been extended.
+1,031 (64.3%) of 1,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### This renovation is urgent - President
+
+*2024-01-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192400) · `si`
+
+President Ranil Wickremesinghe states that an urgent need to reform the global financial structure is more than ever before.
+
+The President made this observation addressing the 3rd South Conference of the "G77 and China" team (3rd South Summit of 77 & China).
+
+The President has pointed out that the modern international debt solution is for the world that has dominated the global debt solutions to the global debt solutions.
+
+Today, the global debt as well as the debt and non-members of Paris society are governed by the international bonds and the international bonds.
+
+The President also pointed out that the existing public services and human development measures are unable to achieve the necessary expenses for essential public services and human development measures, and the President said.
+
+Following the entire story that President Ranil Wickremesinghe addressed the convention below
+
+...
+
+[Data](articles/976aef5a.json)
+
+[Extended Data](ext_articles/976aef5a.ext.json)
+
+---
 
 ### To protect the unique identities of Muslims
 
@@ -45,6 +69,28 @@ Thus, as the unique identities based on the Islamic religion are under question,
 [Data](articles/b32fb9eb.json)
 
 [Extended Data](ext_articles/b32fb9eb.ext.json)
+
+---
+
+### All three juntains remanded in Karapitiya Hospital
+
+*2024-01-21 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192399) · `si`
+
+A junior staff and two employees of the Karapitiya Teaching Hospital were remanded until 29th.
+
+The order has been issued after the suspects were produced before the Galle Magistrate's Court.
+
+The arrested were 52-year-old health assistants and two-year-old and 43 year old health supporters.
+
+The doctor had taken place between the Barcitiya Hospital Cancer staff and specialist Dr. Krishantha Perera in charge of the unit in charge of the unit of the health workers held on the 16th..
+
+The maid and the two employees have been arrested in the investigation carried out by the relevant doctor on the 17th.
+
+◼️
+
+[Data](articles/ba3c5fdf.json)
+
+[Extended Data](ext_articles/ba3c5fdf.ext.json)
 
 ---
 
@@ -348,6 +394,26 @@ Furthermore, the Minister expressed that he has instructed the relevant authorit
 
 ---
 
+### Five soldiers arrested for gems
+
+*2024-01-21 14:30:14* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්වලට-අඟරු-චෙක්-දුන්-පහක්-අත්අඩංගුවට/11-407643) · `si`
+
+Five persons including three women who have not been able to obtain the money for Rs. 2,87,500 / = (2,87,50000 / =)
+
+Suspects and suspects have been arrested for violating confidence, false use.
+
+The suspects and the suspects were arrested in Fort and Jaffna Police Divisions.
+
+The suspects are Beruwala and Jaffna residents aged between 25 and 37 years of age. The CID is conducting investigations.
+
+◼️
+
+[Data](articles/e5d6d773.json)
+
+[Extended Data](ext_articles/e5d6d773.ext.json)
+
+---
+
 ### “Those who are killed in the attack will be declared saints"
 
 *2024-01-21 14:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதலில்-உயிரிழந்தவர்கள்-புனிதர்களாக-அறிவிக்கப்படுவர்/175-331895) · `ta`
@@ -546,6 +612,8 @@ The secret ballot to elect the leader of the Ilangei Tamil Arasu Katchi Party wa
 
 Members of Parliament, President's Counsel M.A. Sumanthiran, S. Sreedharan and former MP Sinithambi Yogeswaran contested for the leadership of the party.
 
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
 ◼️
 
 [Data](articles/5b1105b8.json)
@@ -678,6 +746,8 @@ Police said 663 suspects related to drug offenses and 324 suspects who were on t
 
 Drugs including 270 grams of heroin, 140 grams of ICE and 18kg of cannabis were seized during the operation.
 
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
 ◼️
 
 [Data](articles/56412894.json)
@@ -729,6 +799,8 @@ The doctor was charged with allegedly assaulting the relevant employee after a d
 Police also arrested two hospital workers on Saturday (20) night on suspicion of assaulting the relevant doctor.
 
 They will be produced before the Galle Magistrate on Sunday (21).
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -1746,6 +1818,8 @@ Minister of Trade, Commerce and Food Security Nalin Fernando said the revised pr
 
 The Minister attributed the price revision to the VAT increase.
 
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
 ◼️
 
 [Data](articles/c7457509.json)
@@ -1904,7 +1978,7 @@ Minister Alles stressed that operation 'Yukthiya' will only end after eradicatin
 
 He said the operation may face other challenges in future as well, and urged the community police and other factions to unite, to make the operation a success.
 
-◼️
+...
 
 [Data](articles/6bef53d1.json)
 
@@ -1919,6 +1993,8 @@ He said the operation may face other challenges in future as well, and urged the
 COLOMBO (News 1st); A 22-year-old has died in a shooting in Telijjawila, Matara.
 
 Sri Lanka Police said the shooting was carried out last night by an individual who arrived in a motorcycle.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -1939,6 +2015,8 @@ A spokesman for the PUCSL said public views will be obtained on the proposal to 
 The PUCSL added that the public will be able to submit opinions in writing for up to 21 days from the 23rd.
 
 The Ceylon Electricity Board handed over the proposal to revise electricity tariffs to the PUCSL.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -2006,6 +2084,8 @@ The Acting IGP said the programme will raise awareness among hundreds of school 
 
 He said under operation 'Yukthiya' Police have identified around 4,500 people involved in the supply of drugs to Sri Lanka, and 60 percent of them have been arrested.
 
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
 ◼️
 
 [Data](articles/42006a5b.json)
@@ -2028,7 +2108,7 @@ The leaders engaged in extensive discussions on promoting the cultural and relig
 
 With the aim of expanding political relations, a proposal was made to facilitate an exchange program for MPs to study the parliamentary affairs of both countries.
 
-◼️
+...
 
 [Data](articles/ac55c0bb.json)
 
@@ -2055,61 +2135,5 @@ Panadura South Police are conducting further investigations into the incident.
 [Data](articles/94a6bf29.json)
 
 [Extended Data](ext_articles/94a6bf29.ext.json)
-
----
-
-### Special program for students who sat at A / L students
-
-*2024-01-21 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192377) · `si`
-
-Evil Minister Susil Premajayantha says that a special direction and a vocational training program for the candidates of this year's A / L examination will be implemented.
-
-He was stating that the program will be launched in 300 centers across the country as at the 20th of February.
-
-◼️
-
-[Data](articles/384274c6.json)
-
-[Extended Data](ext_articles/384274c6.ext.json)
-
----
-
-### Formulating a National Policy on disability
-
-*2024-01-21 07:09:00* · [`islandlk`](http://island.lk/formulating-a-national-police-on-disability/) · `en`
-
-(Excerpted from Memories that linger – my journey in the world of disability by Padmani Mendis)
-
-Prof. Chandra Gunawardene was the Dean of the Faculty of Education at the Open University of Sri Lanka, OUSL, at the turn of the century. I was recommended to her by her friend Prof. Swarna Wijetunge who had been a Professor of Education at the University of Colombo. Prof. Wijetunge was a member of the National Education Commission. She had always been sensitive to the poor quality of education available to disabled children. Prof. Gunawardene was keen to take action to uplift this through improvement in teacher education.
-
-...
-
-[Data](articles/00a14db3.json)
-
-[Extended Data](ext_articles/00a14db3.ext.json)
-
----
-
-### Steps to regulate microfinance field
-
-*2024-01-21 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192376) · `si`
-
-Acting Finance Minister Shehan Semasinghe says Sri Lanka's microfinance is regulated in the first quarter of this year.
-
-He was speaking at a function in Colombo and the most benefited manner in the microfinance industry.
-
-Acting Finance Minister Shehan Semasinghe says that it will be introduced in the future to meet the financial needs of the SMEs.
-
-Meanwhile, the Government Minister Ranjith Siyambalapitiya has said that Rs. 1.3 billion was allocated to restructure Sri Lanka Telecom.
-
-He said that various parties are socializing inaccurate information regarding the allocation of the money.
-
-Meanwhile, Minister Bandula Gunawardena has said that if all the businessmen are working to pay the VAT, the percentage of the 20 percent VAT.
-
-◼️
-
-[Data](articles/724cc0a8.json)
-
-[Extended Data](ext_articles/724cc0a8.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 09:32:50**
+As of **2024-01-21 09:51:38**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ tamilmirrorlk | 190
 
 Extensions include translations and NER (Named Entity Recognition).
 
-587 (38.8%) of 1,514 articles have been extended.
+598 (39.5%) of 1,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### இந்தியப் பெருங்கடலில் பாரிய நிலநடுக்கம்
+### Massive earthquake in the Indian Ocean
 
 *2024-01-21 08:38:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியப்-பெருங்கடலில்-பாரிய-நிலநடுக்கம்/175-331870) · `ta`
 
-இந்த நிலநடுக்கம் 10 கி.மீ. ஆழத்தில் ஏற்பட்டுள்ளதாக தேசிய நிலநடுக்க ஆய்வு மையம் தெரிவித்துள்ளது.
+This earthquake is 10 km. The National Earthquake Research Center said that it was in depth.
 
-மேலும் இது ரிக்டர் அளவில் 6.4ஆக பதிவாகியுள்ளது. இதனால் சுனாமி எச்சரிக்கை ஏதும் விடுக்கப்படவில்லை. R
+It also recorded at 6.4 on the Richter scale. Thus no tsunami warning was issued. Remble
 
 ◼️
 
 [Data](articles/73982ca0.json)
+
+[Extended Data](ext_articles/73982ca0.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ Awareness programme for school children over drug menace from Feb 5th
 ◼️
 
 [Data](articles/c7457509.json)
+
+[Extended Data](ext_articles/c7457509.ext.json)
 
 ---
 
@@ -95,6 +99,8 @@ The accused were allegedly involved in trafficking of 39 Sri Lankan nationalists
 ...
 
 [Data](articles/ed9f7337.json)
+
+[Extended Data](ext_articles/ed9f7337.ext.json)
 
 ---
 
@@ -358,6 +364,22 @@ He was stating that the program will be launched in 300 centers across the count
 
 ---
 
+### Formulating a National Policy on disability
+
+*2024-01-21 07:09:00* · [`islandlk`](http://island.lk/formulating-a-national-police-on-disability/) · `en`
+
+(Excerpted from Memories that linger – my journey in the world of disability by Padmani Mendis)
+
+Prof. Chandra Gunawardene was the Dean of the Faculty of Education at the Open University of Sri Lanka, OUSL, at the turn of the century. I was recommended to her by her friend Prof. Swarna Wijetunge who had been a Professor of Education at the University of Colombo. Prof. Wijetunge was a member of the National Education Commission. She had always been sensitive to the poor quality of education available to disabled children. Prof. Gunawardene was keen to take action to uplift this through improvement in teacher education.
+
+...
+
+[Data](articles/00a14db3.json)
+
+[Extended Data](ext_articles/00a14db3.ext.json)
+
+---
+
 ### Steps to regulate microfinance field
 
 *2024-01-21 07:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192376) · `si`
@@ -474,19 +496,21 @@ Peter Julian Robin Morgan, CBE, is my first person of interest. He was born on A
 
 ---
 
-### நேபாள பிரதமருடன் ஜனாதிபதி ரணில் சந்திப்பு
+### President Ranil meets Nepal Prime Minister
 
 *2024-01-21 03:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாள-பிரதமருடன்-ஜனாதிபதி-ரணில்-சந்திப்பு/175-331868) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் நேபாள பிரதமர் புஷ்ப கமல் தஹாலுக்கும் இடையிலான சந்திப்பொன்று நேற்று இடம்பெற்றுள்ளது.
+A meeting between President Ranil Wickremesinghe and Nepal Prime Minister Pushpa Kamal Tahal took place yesterday.
 
-இரு நாடுகளுக்கும் இடையில் நீண்ட காலமாக நிலவும் கலாசார மற்றும் மத உறவுகளை மேலும் மேம்படுத்துவது தொடர்பில்  தலைவர்கள் கலந்துரையாடியுள்ளனர்.
+Leaders have discussed the further enhancement of the long -standing cultural and religious ties between the two countries.
 
-இரு நாடுகளுக்கும் இடையேயான அரசியல் உறவை மேலும் விரிவுபடுத்தும் நோக்கில், பரிமாற்றத் திட்டத்தின் அடிப்படையில், இரு நாட்டு பாராளுமன்ற விவகாரங்களை ஆய்வு செய்வதற்கு பாராளுமன்ற உறுப்பினர்களுக்கு வாய்ப்பளிப்பது தொடர்பிலும் இதன்போது கலந்துரையாடப்பட்டுள்ளது. (a)
+In order to further expand the political ties between the two countries, it has also been discussed on the basis of the exchange scheme and the opportunity to examine the two -nation parliamentary affairs.. (A)
 
 ◼️
 
 [Data](articles/50e83148.json)
+
+[Extended Data](ext_articles/50e83148.ext.json)
 
 ---
 
@@ -1769,22 +1793,6 @@ Modi wants to listen to the year of the year, and the elephant Pagan has been re
 [Data](articles/1e40f7fd.json)
 
 [Extended Data](ext_articles/1e40f7fd.ext.json)
-
----
-
-### Formulating a National Police on disability
-
-*2024-01-20 15:06:00* · [`islandlk`](http://island.lk/formulating-a-national-police-on-disability/) · `en`
-
-(Excerpted from Memories that linger – my journey in the world of disability by Padmani Mendis)
-
-Prof. Chandra Gunawardene was the Dean of the Faculty of Education at the Open University of Sri Lanka, OUSL, at the turn of the century. I was recommended to her by her friend Prof. Swarna Wijetunge who had been a Professor of Education at the University of Colombo. Prof. Wijetunge was a member of the National Education Commission. She had always been sensitive to the poor quality of education available to disabled children. Prof. Gunawardene was keen to take action to uplift this through improvement in teacher education.
-
-...
-
-[Data](articles/00a14db3.json)
-
-[Extended Data](ext_articles/00a14db3.ext.json)
 
 ---
 

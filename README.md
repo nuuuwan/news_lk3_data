@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 12:03:19**
+As of **2024-01-21 12:17:10**
 
 ## Newspaper Stats
 
-*Scraped **1,536** Articles*
+*Scraped **1,541** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,71 +12,115 @@ colombotelegraphcom | 27
 bbccomsinhala | 37
 adaderanasinhalalk | 52
 islandlk | 97
-economynextcom | 101
 newsfirstlk | 102
+economynextcom | 103
 dbsjeyarajcom | 118
 virakesarilk | 132
 dailyftlk | 150
-adalk | 166
+adalk | 167
 dailymirrorlk | 172
 adaderanalk | 190
-tamilmirrorlk | 192
+tamilmirrorlk | 194
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-686 (44.7%) of 1,536 articles have been extended.
+722 (46.9%) of 1,541 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
-### தாய்வான் தேர்தல் முடிவுகள் ஆயுத மோதலுக்கு வழிவகுக்குமா?
+### ’விஸ்வ புத்த’ துறவி மீண்டும் கைது
+
+*2024-01-21 11:58:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஸ்வ-புத்த-துறவி-மீண்டும்-கைது/175-331878) · `ta`
+
+தன்னை 'விஸ்வ புத்தர்' என்று அழைத்துக் கொண்ட காவி அங்கி அணிந்த துறவி, பௌத்த மதத்தை இழிவுபடுத்தும் வகையில் அறிக்கை வெளியிட்டதற்காக மீண்டும் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+கலகெடிஹேன பிரதேசத்தில் வைத்து சந்தேக நபரை குற்றப் புலனாய்வுப் பிரிவினர் கைது செய்துள்ளனர்.
+
+சந்தேகநபர் முதலில் டிசம்பர் 12 ஆம் திகதி கைது செய்யப்பட்டார், அதன் பின் அவருக்கு கொழும்பு பிரதான நீதவான் ஜனவரி 8 ஆம் திகதி பிணை வழங்கியிருந்தார்.
+
+இதேவேளை, குற்றப் புலனாய்வு திணைக்களத்தின் முன் அவர் அடுத்த வாரம் முன்னிலைப்படுத்தப்படவுள்ளதாக சிரேஷ்ட ஊடகவியலாளர் சமுதித்த சமரவிக்ரம தெரிவித்துள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபருடன் சமரவிக்கிரம நடத்திய நிகழ்ச்சி ஒன்றின் பொருட்டே அவர் விசாரணைக்கு அழைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/c95f3157.json)
+
+---
+
+### Will the Taiwan election results lead to armed conflict?
 
 *2024-01-21 11:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174434) · `ta`
 
-தேர்­தலில் வெற்றி பெற்­றுள்ள லாய் அரசுத் தலை­வ­ராக தனது பத­வியை எதிர்­வரும் மே மாதத்தில் பொறுப்பேற்கவுள்ளார். பாராளுமன்றத் தேர்தலில் தனது கட்சி பின்னடைவைச் சந்தித்துள்ள நிலையில் சீனாவுக்கு எதிராகக் கொம்பு சீவிவிடும் மேற்குலகின் ஆதரவை மாத்திரம் நம்பி அவர் மோதல் போக்கைக் கடைப்பிடிப்பாரா அல்லது வழக்கமான அரசியல்வாதிகளைப் போன்று வாக்காளர்களைக் கவர்வதற்காக அவர் சீனாவுக்கு எதிராகப் பேசினாரா என்பது அடுத்துவரும் சில மாதங்களில் முழுமையாகத் தெரிந்துவிடும்.
+Lai, who won the election, will take over as head of state in May in May. With his party's setback in the parliamentary election, it will be fully aware of whether he has only neglected the support of the West against China, whether he has spoken against China, or whether he has spoken against China to attract voters like regular politicians.
 
 ◼️
 
 [Data](articles/3b6e6f6b.json)
 
+[Extended Data](ext_articles/3b6e6f6b.ext.json)
+
 ---
 
-### 'විශ්ව බුද්ධ' යළි අත්අඩංගුවට
+### 'Universal Buddha' arrested
 
 *2024-01-21 11:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192388) · `si`
 
-විශ්ව බුද්ධ නමින් පෙනී සිටි චීවරධාරියා යළි අත්අඩංගුවට ගෙන තිබේ.
+The monk who appeared in the universal Buddha was resumed.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් මෙම චීවරධාරියා ව කළගෙඩිහේන ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන ඇත.
+The Criminal Investigations Department has been arrested in Kalgalaiiiiiiiiiiiiiii.
 
-බුදු දහම පිළිබඳ ආන්දෝලනාත්මක ප්‍රකාශ නිකුත් කරමින් සහ සමාජ මාධ්‍යය තුළ ආන්දෝලනාත්මක හැසිරීම් සිදු කළ විශ්ව බුද්ධ නම් පුද්ගලයා මීට පෙර ද අධිකරණය හමුවට ඉදිරිපත් කර තිබිණි.
+Previously, the universal Buddha known as the universal people of the social media was issued before the controversial statements of Buddhism and the controversial behavior in the social media.
 
-නමුත් මොහු අධිකරණයේ අවවාද නොතකමින් සුපුරුදු ලෙස හැසිරෙන බව පවසා යළි අධිකරණයට ඉදිරිපත් කරන ලෙස නියෝගයක් නිකුත් කෙරිණි.
+However, he ordered to be used as usual in spite of the reproof of the warnings.
 
 ◼️
 
 [Data](articles/c0c57f50.json)
 
+[Extended Data](ext_articles/c0c57f50.ext.json)
+
 ---
 
-### බිත්තර මිල ගැන අමාත්‍යවරයාගෙන් පැහැදිලි කිරීමක්
+### Minister to explain egg prices
 
 *2024-01-21 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192387) · `si`
 
-VAT බදු ඉහළ යාම හේතුවෙන් ආනයනික ඉන්දීය බිත්තරයක මිල අද (21) සිට රුපියල් 08කින් ඉහළ දමන බව වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා පවසයි.
+Minister of Trade Nalin Fernando says that the price of an imported Indian egg will be increased by Rs.
 
-ඒ අනුව සතොස හරහා රුපියල් 35කට අලෙවි කරනු ලැබූ ආනයනික බිත්තරයක් අලෙවි කරනු ලබන්නේ, රුපියල් 43කට බව අමාත්‍යවරයා සඳහන් කළේය.
+Accordingly, the imported egg sold by the Sathosa is sold at Rs. 43.
 
-අද (21) ගම්පහ ප්‍රදේශයේ දී මාධ්‍ය වෙත අදහස් දක්වමින් වෙළෙඳ අමාත්‍ය නලීන් ප්‍රනාන්දු මහතා මේ බව සඳහන් කළේය.
+Speaking to the media in the Gampaha area, he said this.
 
-බිත්තර හිඟයක් වෙළෙඳපොළේ නොමැති බවත් බිත්තර මිල ඉහළ යෑමක් සිදු ව ඇති බවත් අමාත්‍යවරයා මෙහි දී අවධාරණය කළේය.
+The Minister stressed that there was no shortage of egg deficit in the market.
 
 ◼️
 
 [Data](articles/bbd4503d.json)
+
+[Extended Data](ext_articles/bbd4503d.ext.json)
+
+---
+
+### 24 மணிநேரத்தில் 987 பேர் கைது
+
+*2024-01-21 11:20:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-987-பேர்-கைது/175-331877) · `ta`
+
+கடந்த 24 மணித்தியாலங்களில் நாடளாவிய ரீதியில் மேற்கொள்ளப்பட்ட யுக்திய நடவடிக்கையின் போது 987 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளதாக பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+போதைப்பொருள் குற்றங்கள் தொடர்பில் 663 சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளதாகவும், பொலிஸ் நிலைய குற்றப்பிரிவு பொறுப்பதிகாரிகளிடம் குறிப்பிடப்பட்ட பட்டியலில் இருந்து 324 சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளதாகவும் அவர்கள் தெரிவித்தனர்.
+
+போதைப்பொருள் குற்றங்கள் தொடர்பாக கைது செய்யப்பட்ட 638 சந்தேக நபர்களில் 12 பேர் தடுப்புக் காவலில் வைக்கப்பட்டு விசாரணைக்கு உட்படுத்தப்பட்டு வருவதுடன், போதைக்கு அடிமையான 14 பேர் புனர்வாழ்விற்காக பரிந்துரைக்கப்பட்டுள்ளனர்.
+
+இதேவேளை, பொலிஸ் போதைப்பொருள் ஒழிப்புப் பிரிவு மற்றும் பொலிஸ் விசேட பணியகம் ஆகியவற்றின் தேடப்படும் பட்டியலில் இருந்த 14 சந்தேக நபர்களும் கைது செய்யப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/2ab261e0.json)
 
 ---
 
@@ -270,6 +314,30 @@ The Mullaitivu Hospital will be held at the Mullaitivu Hospital on the death of 
 
 ---
 
+### Sri Lanka interest rate volatility, instability, big challenges: bankers
+
+*2024-01-21 10:28:00* · [`economynextcom`](https://economynext.com/sri-lanka-interest-rate-volatility-instability-big-challenges-bankers-148085/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s huge volatility in exchange and interest rates, which cannot be forecasted for even in the short term and policy changes are key risks for the banking sector and economy, which senior bankers said.
+
+Banks should not just give loans to AAA or AA+ clients, says Jonathan Alles, Chief Executive of Hatton National Bank.
+
+“What we need is political stability, economic stability, policy consistency,” Alles explained at a forum with Sri Lanka’s Echelon Magazine.
+
+“Why we are in this state is, in the absence of it, you have these huge peaks and troughs.
+
+“How you do three year’s strategic plans and go with a straight face to a board? You can’t say six months ahead.
+
+“People ask ‘what’s the year end exchange rate or interest rate? It is something that you don’t want to even guess at.”
+
+Sri Lanka has chronic monetary stability which worsened after 1978 with steep depreciation of the currency, inflation and interest rates running to above 20 percent at times.
+
+...
+
+[Data](articles/a250dd50.json)
+
+---
+
 ### Missile attack targeting US Air Force Base in Iraq - Many US soldiers injured
 
 *2024-01-21 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/174429) · `ta`
@@ -289,6 +357,24 @@ This group is claiming attacks on US sites in Iraq.
 [Data](articles/a3ded2e4.json)
 
 [Extended Data](ext_articles/a3ded2e4.ext.json)
+
+---
+
+### විශ්ව බුද්ධි චීවරධාරියා යළිත් අත්අඩංගුවට
+
+*2024-01-21 10:13:22* · [`adalk`](https://www.ada.lk/breaking_news/විශ්ව-බුද්ධි-චීවරධාරියා-යළිත්-අත්අඩංගුවට/11-407639) · `si`
+
+බෞද්ධයන්ට හා බෞද්ධාගමට අපහාස වන ආකාරයේ ප්‍රකාශ නිකුත් කර, ඒවා අන්තර්ජාලයට මුදාහැර මෙන්, ඉදිරිවාදිකම්වලට පෙළඹවීමේ ක්‍රියාවන් වල නිරත වෙමින් සිටි රත්නපුරේ විශ්ව බුද්ධි නමැති චීවරධාරියා පරිගණක අපරාධ කොට්ඨාශය මගින් අත්අඩංගුවට  ගනු ලැබ ඇත.
+
+සැකකරු මීට පෙර මෙම චෝදනාව යටතේ අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයට පත් කර ඇප මත මුදා හැර සිටියදී, ඔහු අධිකරණ නියෝග නොතකමින් යළිත්  දිගින් දිගටම  මෙම  ක්‍රියාවන්වල  නිරතවීම නිසා  ඊයේ (20) රාත්‍රියේ මොහු අත්අඩංගුවට ගෙන ඇත.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ කොට්ඨාශය මොහු සම්බන්ධයෙන්  දෙවන වරටත් අධිකරණයට කරුණු වාර්තා කිරීමෙන් අනතුරුව.. මෙම අත්අඩංගුවට ගැනීම සිදු කර ඇත.
+
+සැකකරු අද (21) කොටුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව ඇත.
+
+◼️
+
+[Data](articles/d60b2025.json)
 
 ---
 
@@ -1037,6 +1123,34 @@ As stated earlier the government of the day headed by Prime Minister Sirimavo Ba
 ---
 
 ### 2024-01-20 (Saturday)
+
+### Sri Lanka tea prices fall across elevations
+
+*2024-01-20 23:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-prices-fall-across-elevations-148080/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tea prices across categories fell at the third auction of 2024 on January 16-17 after almost two months of gains, while certain grades within the categories gained, market data showed.
+
+The weekly sale average price fell by 26.52 rupees to 1248.22 rupees a kilogram, according to industry data published by Ceylon Tea Brokers.
+
+In the third week 4.6 million kilos were sold by public auction.
+
+High Grown BOP teas went up with Best Westerns going up by 50 to 100 rupees. Plainer categories gained by 70-80 rupees.
+
+Hardly any offerings from Nuwara Eliya’s and Uda Pussellawa’s fell.
+
+The high grown sale average was down by 4.96 to 1,082.30 rupees a kilo.
+
+BOP1, Select were up by 50 rupees whilst others remained unchanged. OP1, Select best held firm whilst others gained by 50 rupees.
+
+OP/OPA Select best fell by 50 rupees and Best fell by 20 rupees.
+
+PEK Select Best and bests fell by 50 rupees, PEK1 – Select best fell by 50 rupees.
+
+...
+
+[Data](articles/c4e08953.json)
+
+---
 
 ### Fire in China school dorm kills 13 boys
 
@@ -1963,103 +2077,5 @@ Governor of the Eastern Province of Sri Lanka Senthil Thondaman came home for lo
 [Data](articles/202c0493.json)
 
 [Extended Data](ext_articles/202c0493.ext.json)
-
----
-
-### Naramala incident;Action order to fly to police officers
-
-*2024-01-20 16:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாரம்மல-சம்பவம்-பொலிஸ்-அதிகாரிகளுக்கு-பறந்த-அதிரடி-உத்தரவு/175-331846) · `ta`
-
-Police Inspector Deshable Tennakoon today issued the order in response to Sri Lankan police officers that police officers cannot engage in vehicle inspections in civil clothes.
-
-These instructions have come after a lorry driver in Naramala was shot dead by a police officer in a civil clothes.
-
-The 40 -year -old lorry driver, the father of three children, was shot dead by a civilian police officer in a civilian dress.
-
-According to those who witnessed, two police officers in civil clothes followed the lorry for failing to listen to their orders to park the vehicle for checking at the checkpoint in Naramalai.
-
-They were chasing the lorry on a motorbike, parked, and afterwards, before the driver approached, the senior police officer had taken his weapon and later opened fire on him.
-
-Sub-Inspector (SI), who fired at the victim, was arrested and placed in detention till January 23, 2024. At the same time, the posts of the authorities have been taken away. Remble
-
-◼️
-
-[Data](articles/11398620.json)
-
-[Extended Data](ext_articles/11398620.ext.json)
-
----
-
-### A bleak forecast for 2024 and beyond : Politics (security), economics and military
-
-*2024-01-20 16:07:00* · [`islandlk`](http://island.lk/a-bleak-forecast-for-2024-and-beyondpolitics-security-economics-and-military/) · `en`
-
-This piece uses the vast amount of information on the web, social-media, broadcasts and news sites. My role is to use what limited intelligence providence has endowed me with to select and filter. I hope this will be of service to readers who do not have the patience to explore all the available information themselves. Nations are fretful above all else of existential concerns, that is politics in the sense of security, not politics in the familiar but vulgar sense of endemic corruption. Once existence is assured the second matter to focus on is material well-being; prosperity, employment, wealth and so on broadly falling under the umbrella term ‘the economy’. My accent in this piece is on the Great Powers (America, China and Russia) though discussion of the Middle East (the Muslim World and Israel) is unavoidable.
-
-...
-
-[Data](articles/7e2d0222.json)
-
-[Extended Data](ext_articles/7e2d0222.ext.json)
-
----
-
-### Even IMF has accepted NPP will come to power: Tilvin
-
-*2024-01-20 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Even-IMF-has-accepted-NPP-will-come-to-power-Tilvin/155-275416) · `en`
-
-Colombo, Jan. 20 (Daily Mirror)- Most countries and organisations in the world, such as the International Monetary Fund (IMF) have begun to realise that the National People's Power (NPP) will come to power at the next election, NPP General Secretary Tilvin Silva said today.
-
-He told a news conference that the Samagi Jana Balawegaya is perturbed over the NPP's recent meeting with the IMF representatives.
-
-Responding to a question on the SJB's claims that the NPP has not revealed the matters discussed during the meeting with the IMF and other allegations, he said it was not a secret meeting.
-
-...
-
-[Data](articles/279c4885.json)
-
-[Extended Data](ext_articles/279c4885.ext.json)
-
----
-
-### Even IMF has accepted NPP will come to power: Tilvin
-
-*2024-01-20 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Even-IMF-has-accepted-NPP-will-come-to-power-Tilvin/108-275416) · `en`
-
-Colombo, Jan. 20 (Daily Mirror)- Most countries and organisations in the world, such as the International Monetary Fund (IMF) have begun to realise that the National People's Power (NPP) will come to power at the next election, NPP General Secretary Tilvin Silva said today.
-
-He told a news conference that the Samagi Jana Balawegaya is perturbed over the NPP's recent meeting with the IMF representatives.
-
-Responding to a question on the SJB's claims that the NPP has not revealed the matters discussed during the meeting with the IMF and other allegations, he said it was not a secret meeting.
-
-...
-
-[Data](articles/f69230bb.json)
-
-[Extended Data](ext_articles/f69230bb.ext.json)
-
----
-
-### New in Sri Lanka's apparel industry
-
-*2024-01-20 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192359) · `si`
-
-President Ranil Wickremesinghe and Benin's Vice President Marium Chabi Talata have been held in parallel to the Non-Aligned Summit in Kampala, Uganda.
-
-Diplomatic relations between Sri Lanka and Benin were launched in 2012 and the two-country further focuses on further expanding existing economic and trade relations.
-
-Benin Vice President has also invited the President to direct Sri Lankan investors to invest in the cotary exporter of the Benin State, a major cotton exporter.
-
-Meanwhile, a Memorandum of Understanding (Understanding) was also signed with the release of visa for diplomatic, official and service license holders.
-
-The agreement provides access to the two countries to enter and remain in the country without obtaining a pre-visa of diplomatic, official and service passport to the two countries.
-
-The agreement was also signed by Foreign Minister Ali Sabri on behalf of the State of Foreign Affairs of Sri Lanka.
-
-...
-
-[Data](articles/6e2fe602.json)
-
-[Extended Data](ext_articles/6e2fe602.ext.json)
 
 ---

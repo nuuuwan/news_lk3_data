@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 17:02:16**
+As of **2024-01-21 17:33:17**
 
 ## Newspaper Stats
 
-*Scraped **1,597** Articles*
+*Scraped **1,601** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 38
-adaderanasinhalalk | 61
+adaderanasinhalalk | 62
 islandlk | 97
 economynextcom | 103
-newsfirstlk | 108
-dbsjeyarajcom | 119
-virakesarilk | 145
+newsfirstlk | 109
+dbsjeyarajcom | 120
+virakesarilk | 146
 dailyftlk | 150
 adalk | 171
 dailymirrorlk | 180
@@ -26,11 +26,81 @@ adaderanalk | 200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-994 (62.2%) of 1,597 articles have been extended.
+1,021 (63.8%) of 1,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### To protect the unique identities of Muslims
+
+*2024-01-21 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174455) · `ta`
+
+At present, the understanding of Muslims has occurred among the Buddhist Sinhalese people. So, the fears of Muslims have declined. But, not completely out of. Muslim leaders do not take action. The rulers did not do it.
+
+Thus, as the unique identities based on the Islamic religion are under question, the politics of the Muslims are being done without the uniqueness of the Muslims.
+
+◼️
+
+[Data](articles/b32fb9eb.json)
+
+[Extended Data](ext_articles/b32fb9eb.ext.json)
+
+---
+
+### The motorcycle of the Tamilshajawila shooters
+
+*2024-01-21 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192398) · `si`
+
+The motorcycle who visited the suspects were shooting at the Theljjawila juncture at the Theljjawila juncture at the Theljjawila juncture.
+
+The motorcycle was found in the Thihagoda police division.
+
+When found the motorbike, the number plates and the battery had been removed.
+
+Meanwhile, police also recovered several clothes that suspected the suspects were identified as the motorbike.
+
+Also, the investigations have been commenced using the suspects using the motorcycle.
+
+Police investigations have revealed that the criminals target was not the victim of the criminals last night (20).
+
+Police Media Spokesperson SSP SSP Nihal Talduuwa said that the shooting was a 22 year old youth.
+
+He said he had come to the telephone relocation of the shooting and the aim was owned by the criminals, "Nihal Talduuwa said.
+
+A mobile phone accessory at the Thelembada Police Division in Matara - Maljjawila junction was aimed at around 8 pm yesterday (20).
+
+Two people who came on a motorcycle were shot.
+
+...
+
+[Data](articles/b5c9d0e2.json)
+
+[Extended Data](ext_articles/b5c9d0e2.ext.json)
+
+---
+
+### Sri Lanka records 03 dengue deaths in past 20 days
+
+*2024-01-21 16:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/sri-lanka-records-03-dengue-deaths-in-past-20-days/) · `en`
+
+COLOMBO (News 1st); The National Dengue Control Unit says that three dengue deaths were reported in the past 20 days of the year.
+
+According to the units official reports, the number of dengue cases reported daily has increased to 347.
+
+The total number of dengue patients identified so far this year is 7,299.
+
+The highest number of patients are reported from the Western Province. That number stands at 2401.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
+◼️
+
+[Data](articles/e5555304.json)
+
+[Extended Data](ext_articles/e5555304.ext.json)
+
+---
 
 ### Pleased to be given the leadership responsibility for Sreedharan: I will give my full support to Chairman Sridharan - Sumanthiran
 
@@ -54,43 +124,47 @@ Therefore, I am informed that I will give my full support to the leader of the d
 
 ---
 
-### ගුවන් යානයක් අනතුරට ලක්වෙයි
+### A plane crashes
 
 *2024-01-21 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192397) · `si`
 
-ඊසාන දිග ඇෆ්ගනිස්තාන කඳුකර ප්‍රදේශයේදී ගුවන් යානයක් කඩා වැටී අනතුරට ලක්ව ඇති බවට විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+Foreign media has reported that an aircraft collapsed in the northeast Afghanistan, the foreign media reports.
 
-විදෙස් මාධ්‍ය වාර්තා කර සිටින්නේ මෙලෙස අනතුරට ලක්ව ඇති ගුවන් යානයේ මගීන් 6 දෙනෙකු සිට ඇති බවය.
+Foreign media reports that there were six passengers in the crash.
 
-තවමත් යානය කඩා වැටී ඇති ස්ථානය පිළිබඳව තොරතුරු නිශ්චිතව අනාවරණය වී නොමැති අතර එම ආසන්න ප්‍රදේශ වෙත සහන සේවා කණ්ඩායම් යොමුකර ඇත.
+The information is yet to be revealed about the place where the plane has collapsed and relief teams have been directed to the immediate areas.
 
-රුසියාව ප්‍රකාශයක් නිකුත් කරමින් පවසා ඇත්තේ ඉන්දියාවේ සිට මොස්කව් දක්වා පැමිණෙමින් තිබූ සැහැල්ලු ගුවන් යානයක් මෙලෙස අනතුරට ලක්ව ඇති බවය.
+Russia has issued a statement and said that a light plane from India has been reported from India.
 
-මේ අතර අනතුරට ලක්ව ඇති ගුවන් යානය ඉන්දියාවට අයත් යානයක් බවට මීට පෙර වාර්තා පළවුවද ඉන්දීය රජය විසින් එම වාර්තා ප්‍රතික්ෂේප කර තිබුණි.
+Meanwhile, the Indian government has rejected the reports even before the airplane was a plane in India.
 
 ◼️
 
 [Data](articles/deba17f2.json)
 
+[Extended Data](ext_articles/deba17f2.ext.json)
+
 ---
 
-### දකුණු ඉන්දීය සුරූපී නිළියෝ හැටන් ඇවිත්
+### South Indian Indiconers come from Hatton
 
 *2024-01-21 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192396) · `si`
 
-දකුණු ඉන්දීය සිනමාවේ ජනප්‍රිය රංගන ශිල්පිනියන් කිහිපදෙනෙකු අද (21) හැටන් වෙත පැමිණ තිබුණි.
+Several popular performers in South Indian cinema had arrived at Hatton this morning.
 
-ඒ හැටන් ඩන්බාර් ක්‍රීඩාංගණයේදී පැවති ජාතික තෛපොංගල් දින උත්සවයට සහභාගී වීම සඳහාය.
+To attend the National Thaipongal Day Ceremony held at the Hatton Dunbar Stadium.
 
-මෙලෙස එම උත්සවයට එක්ව සිටියේ අයිශ්වර්යා රාජේශ්, අයිශ්වරයා දත්තා, සංයුක්තා, මීනාච්චි නමැති ජනප්‍රිය රංගන ශිල්පිනියන් පිරිසකි.
+The event was attended by Aishwarya Rajesh, Aishaya Kadatha, Methodatha and Munaki.
 
-විදුර වික්‍රමනායක සහ ජීවන් තොණ්ඩමන් යන අමාත්‍යවරුන්ගේ ප්‍රධානත්වයෙන් මෙම උත්සවය පැවැත්විණි.
+Minister Vidura Wickramanayake and Jeevan Thondaman were held under the patronage.
 
-මෙම ජාතික තෛපොංගල් දින උත්සවයේදී දමිළ ජනතාව විසින් නැවුම් මුට්ටිවල කිරිබත් 1008 ක් පිළියෙළ කර ඇති අතර, එයට සමගාමීව කෝලම් රටා සහ හින්දු සංස්කෘතිකාංග රැසක් ඉදිරිපත් කර තිබේ.
+At the National Thaipongal Day Ceremony, the Tamil people have been preparing 1008 milk in fresh guests and has been produced in fresh guests, and several Cultural and Hindu cultures have been submitted.
 
 ◼️
 
 [Data](articles/6d33b836.json)
+
+[Extended Data](ext_articles/6d33b836.ext.json)
 
 ---
 
@@ -172,23 +246,25 @@ According to police, the saffron-robbed monk had allegedly issued statements dem
 
 ---
 
-### විශ්ව බුද්ධ යළි රිමාන්ඩ්
+### Universal Buddha further remanded
 
 *2024-01-21 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192395) · `si`
 
-ගංගොඩවිල මහෙස්ත්‍රාත් අධිකරණය විසින් විශ්ව බුද්ධ නමින් පෙනී සිටි චීවරධාරියා යළි රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+The Buddhist monk he appeared in the universal Buddha by the Gangodawila Magistrate's Court.
 
-සැකකාර චීවරධාරියා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන අධිකරණය වෙත ඉදිරිපත් කර තිබුණි.
+The Criminal Investigations Department was arrested by the CID and produced before the Court.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මඟින් මෙම චීවරධාරියා ව කළගෙඩිහේන ප්‍රදේශයේ දී අත්අඩංගුවට ගෙන ඇත.
+The Criminal Investigations Department has been arrested in Kalgalaiiiiiiiiiiiiiii.
 
-බුදු දහම පිළිබඳ ආන්දෝලනාත්මක ප්‍රකාශ නිකුත් කරමින් සහ සමාජ මාධ්‍යය තුළ ආන්දෝලනාත්මක හැසිරීම් සිදු කළ විශ්ව බුද්ධ නම් පුද්ගලයා මීට පෙර ද අධිකරණය හමුවට ඉදිරිපත් කර තිබිණි.
+Previously, the universal Buddha known as the universal people of the social media was issued before the controversial statements of Buddhism and the controversial behavior in the social media.
 
-නමුත් මොහු අධිකරණයේ අවවාද නොතකමින් සුපුරුදු ලෙස හැසිරෙන බව පවසා යළි අධිකරණයට ඉදිරිපත් කරන ලෙස නියෝගයක් නිකුත් කෙරිණි.
+However, he ordered to be used as usual in spite of the reproof of the warnings.
 
 ◼️
 
 [Data](articles/c753e77f.json)
+
+[Extended Data](ext_articles/c753e77f.ext.json)
 
 ---
 
@@ -214,21 +290,23 @@ Later, after 16 hours the boy was taken to Mali by plane. The boy died without t
 
 ---
 
-### ජනපති G77 කණ්ඩායමේ සහ චීනය, 03 වන දකුණු සමුළුව අමතයි
+### President addresses G77 team and China, 3rd South Convention
 
 *2024-01-21 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192394) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා G77 කණ්ඩායමේ සහ චීනය, 03 වන දකුණු සමුළුව ඇමතීම ආරම්භ කර තිබේ.
+President Ranil Wickremesinghe has commenced addressing the G77 team and China, the 3rd South Conference.
 
-G77 කණ්ඩායමේ සහ චීනය, 03 වන දකුණු සමුළුව උගන්ඩාවේ කම්පාලා නුවර දී පැවැත්වෙයි.
+G77 group and China, 3rd South Conference will be held in Kampala, Uganda.
 
-එම සමුළුව අමතමින් ජනාධිපතිවරයා ගෝලීය දකුණේ අභියෝගවලට මුහුණදීම සඳහා G77 කණ්ඩායම සමග චීනය එකතුවීමේ වැදගත්කම පෙන්වා දී තිබේ.
+Addressing the convention, the President has shown the importance of China to cope with the G77 group to face the challenges of the South.
 
-එහිදී ජනාධිපතිවරයා වැඩිදුරටත් පෙන්වාදී ඇත්තේ එම ගැටලු සඳහා තිරසාර විසඳුමක් ලබාදීමට මෙම සමූහයේ සමගිය සහ සහයෝගීතාවය වැනි මූලධර්ම වැදගත් බවය.
+The President has shown that principles such as harmony and cooperation of this group to provide a sustainable solution for those issues is important.
 
 ◼️
 
 [Data](articles/f687905c.json)
+
+[Extended Data](ext_articles/f687905c.ext.json)
 
 ---
 
@@ -1044,21 +1122,25 @@ Lai, who won the election, will take over as head of state in May in May. With h
 
 ---
 
-### ශ්‍රී ලංකා හා උගන්ඩා ජනපතිවරු හමු වෙති
+### Sri Lanka and Uganda President meet
 
 *2024-01-21 11:28:54* · [`adalk`](https://www.ada.lk/breaking_news/ශ්‍රී-ලංකා-හා-උගන්ඩා-ජනපතිවරු-හමු-වෙති/11-407642) · `si`
 
-වැටී තිබූ ශ්‍රී ලංකාව යළි නඟා සිටුවීම සඳහා ජනපති දුන් නායකත්වය උගන්ඩා ජනපතිගේ ඇගයීමට.
+Ugandan President evaluates the leadership of the President to reigns Sri Lanka.
 
-උගන්ඩාවේ නිල සංචාරයක නිරත ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහ උගන්ඩා ජනරජයේ ජනාධිපති යොවේරි මුසෙවේනි (Yoweri Museveni) මහතා අතර නිල හමුව ඊයේ (20) පස්වරුවේ සිදු විය.
+President Ranil Wickremesinghe on an official visit to Uganda and the President of the Republic of Uganda took place yesterday (20) afternoon.
 
-මෙහිදී උගන්ඩා ජනාධිපතිවරයා විසින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාව ඉතා මිත්‍රශීලි ලෙස පිළිගත් අතර නායක දෙපළ අතර සුහද කථා බහකින් අනතුරුව ද්විපාර්ශ්වික සාකච්ඡා ආරම්භ කෙරිණි.
+The President of Uganda was friendly recognized by President Ranil Wickremesinghe and commenced bilateral talks after a good talk between the two leaders.
 
-තම ආරාධනය අනුව උගන්ඩා නිල සංචාරයට එක්වීම පිළිබඳ මෙහිදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වෙත සතුට පළ කළ උගන්ඩා ජනාධිපති යොවේරි මුසෙවේනි මහතා වැටී තිබූ ශ්‍රී ලංකා ආර්ථිකය යළි නගා සිටුවීම සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ලබා දුන් නායකත්වය අගය කළ අතර ඊට ජාතියේ ප්‍රණාමය හිමි විය යුතු බව ද කියා සිටියේය.
+President Ranil Wickremesinghe has appreciated the leadership of President Ranil Wickremesinghe to restore the Sri Lankan Economy of Uganda.Was.
 
-...
+The leaders discussed the new economic program in Sri Lanka and President Ranil Wickremesinghe said that Sri Lanka is continuing to reach the intended goals in 2024 in 2024.
+
+◼️
 
 [Data](articles/fb24a17d.json)
+
+[Extended Data](ext_articles/fb24a17d.ext.json)
 
 ---
 
@@ -2029,65 +2111,5 @@ Meanwhile, Minister Bandula Gunawardena has said that if all the businessmen are
 [Data](articles/724cc0a8.json)
 
 [Extended Data](ext_articles/724cc0a8.ext.json)
-
----
-
-### President addressing Non-Aligned Summit today
-
-*2024-01-21 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192375) · `si`
-
-President Ranil Wickremesinghe is scheduled to address the development of 77 countries and China conference.
-
-The 77 team is the largest alliance of the United Nations developing countries.
-
-President Ranil Wickremesinghe has gone to Kampala at the invitation of Uganda President Yovori Musewaney.
-
-◼️
-
-[Data](articles/d04ded0c.json)
-
-[Extended Data](ext_articles/d04ded0c.ext.json)
-
----
-
-### Suspect arrested in steal
-
-*2024-01-21 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192374) · `si`
-
-The Western Province, South Crimes Division has been arrested by the Western Province, South Crimes Division.
-
-The suspect was arrested yesterday (20) from the Angoda area.
-
-It has been revealed that a soil at 2 houses in the Delgahawatta road in the Mulleriyawa area in Mulleriyawa on the 19th and 19th of the suspect.
-
-The suspect has found the stolen jack timber and soil atmosphere.
-
-The Western Province South Criminal Division is conducting further investigations.
-
-◼️
-
-[Data](articles/3e256662.json)
-
-[Extended Data](ext_articles/3e256662.ext.json)
-
----
-
-### Weather today
-
-*2024-01-21 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192373) · `si`
-
-Several times will occur in the North-Central, Eastern and Uva provinces today (21).
-
-The department states that the Department states in the Central and Sabaragamuwa Provincial and Galle and Matara districts. Showers or thundershowers will occur at several places around 2.
-
-Some locations can last a morning in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/6f01e999.json)
-
-[Extended Data](ext_articles/6f01e999.ext.json)
 
 ---

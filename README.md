@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 17:02:16**
+As of **2024-01-21 17:17:19**
 
 ## Newspaper Stats
 
-*Scraped **1,597** Articles*
+*Scraped **1,601** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 38
-adaderanasinhalalk | 61
+adaderanasinhalalk | 62
 islandlk | 97
 economynextcom | 103
-newsfirstlk | 108
-dbsjeyarajcom | 119
-virakesarilk | 145
+newsfirstlk | 109
+dbsjeyarajcom | 120
+virakesarilk | 146
 dailyftlk | 150
 adalk | 171
 dailymirrorlk | 180
@@ -26,15 +26,53 @@ adaderanalk | 200
 
 Extensions include translations and NER (Named Entity Recognition).
 
-994 (62.2%) of 1,597 articles have been extended.
+994 (62.1%) of 1,601 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
 
+### முஸ்லிம்களின் தனித்துவ அடையாளங்களை பாதுகாக்க வேண்டும்
+
+*2024-01-21 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174455) · `ta`
+
+தற்­போது முஸ்­லிம்­களைப் பற்றிய புரிதல் பௌத்த சிங்­கள மக்­க­ளி­டையே ஓரளவு ஏற்­பட்­டுள்­ளது. அதனால், முஸ்­லிம்­களின் அச்­சமும் குறைந்­துள்­ளது. ஆனால், முழு­மை­யாக நீங்­க­வில்லை. அதற்­கு­ரிய நட­வ­டிக்­கை­களை முஸ்லிம் தலை­வர்கள் மேற்­கொள்­ள­வில்லை. ஆட்­சி­யா­ளர்­களும் அதனைச் செய்­ய­வில்லை.
+
+இவ்­வாறு  இஸ்­லா­மிய மார்க்­கத்தின் அடிப்­ப­டை­யி­லான தனித்­து­வ­மான அடை­யா­ளங்கள் கேள்­விக்­குள்­ளாகிக்கொண்­டி­ருக்­கின்ற நிலையில், முஸ்­லிம்­களின் அர­சியல் தனித்­து­வமும் இல்­லாமல் செய்­யப்­பட்டுக்கொண்­டி­ருக்­கி­றது.
+
+◼️
+
+[Data](articles/b32fb9eb.json)
+
+---
+
+### තෙලිජ්ජවිල වෙඩික්කරුවන් ආ යතුරුපැදිය සොයාගනී
+
+*2024-01-21 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192398) · `si`
+
+මාතර තෙලිජ්ජවිල මංසන්ධියේ දුරකථන අලෙවිසැලක් තුළදී සිදුකළ වෙඩිතැබීමට සැකකරුවන් පැමිණි යතුරුපැදිය පොලීසිය සොයාගෙන තිබේ.
+
+තිහගොඩ පොලිස් වසමේ නාඳුගල වේල්ල බෑවුම් ප්‍රදේශයක අත්හැර දමා ගොස් තිබියදී එම යතුරුපැදිය සොයාගෙන ඇත.
+
+යතුරුපැදිය සොයාගන්නා අවස්ථාවේදී එහි අංක තහඩු සහ බැටරිය ගලවා ඉවත්කර තිබී ඇත.
+
+මේ අතර යතුරුපැදිය හමුවී ඇති ස්ථානයේ තිබී සැකකරුවන් හැඳ සිටි බවට සැකකරෙන ඇඳුම් කිහිපයක් ද පොලීසිය විසින් සොයාගෙන තිබේ.
+
+එසේම යතුරුපැදියේ ඇති ඇඟිලි සළකුණු භාවිත කර සැකකරුවන් හඳුනාගැනීම සඳහා වැඩිදුර පරීක්ෂණ කටයුතු ආරම්භ කර තිබේ.
+
+මාතර - තෙලිජ්ජවිල ප්‍රදේශයේ ඊයේ (20) රාත්‍රියේ සිදු වූ වෙඩි තැබීමෙන් මිය ගොස් ඇත්තේ, අපරාධකරුවන්ගේ ඉලක්කය වූ පුද්ගලයා නොවන බවට පොලිස් විමර්ශනවලින් අනාවරණය වී තිබේ.
+
+පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යේෂ්ඨ පොලිස් අධිකාරී නිතීඥ නිහාල් තල්දූව මහතා සඳහන් කළේ, අදාළ වෙඩි තැබීමෙන් මිය ගොස් ඇත්තේ, 22 හැවිරිදි තරුණයෙකු බවයි.
+
+...
+
+[Data](articles/b5c9d0e2.json)
+
+---
+
 ### Pleased to be given the leadership responsibility for Sreedharan: I will give my full support to Chairman Sridharan - Sumanthiran
 
-*2024-01-21 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174459) · `ta`
+*2024-01-21 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/174459) · `ta`
 
 Co -chief contestant MA Sumanthiran has said that the Sri Lankan Tamil party's responsibility for the Sri Lankan Tamil party is very high and he will give his full support to Chairman Sreedharan.
 
@@ -51,6 +89,42 @@ Therefore, I am informed that I will give my full support to the leader of the d
 [Data](articles/df5b5d2e.json)
 
 [Extended Data](ext_articles/df5b5d2e.ext.json)
+
+---
+
+### Sri Lanka records 03 dengue deaths in past 20 days
+
+*2024-01-21 16:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/sri-lanka-records-03-dengue-deaths-in-past-20-days/) · `en`
+
+COLOMBO (News 1st); The National Dengue Control Unit says that three dengue deaths were reported in the past 20 days of the year.
+
+According to the units official reports, the number of dengue cases reported daily has increased to 347.
+
+The total number of dengue patients identified so far this year is 7,299.
+
+The highest number of patients are reported from the Western Province. That number stands at 2401.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
+◼️
+
+[Data](articles/e5555304.json)
+
+---
+
+### Supreme Court for the second time for Rajapaksa
+
+*2024-01-21 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/174445) · `ta`
+
+The fundamental human rights violation petition filed against seven people was responsible for the country's economic downturn and crisis.. On November 14 last year, the Supreme Court declared that all seven were responsible for the economic downturn.
+
+Gotabhaya, who was chased away by the people without completing his tenure, said, "I have made some decisions for the benefit of the people and the nation.". However, when the Supreme Court's verdict on the issue of Duminda Silva on the 17th, the fact that the Gotabhaya executive has exceeded the constitution.. Gotabhaya also justified himself by a promise that he made this decision in view of the welfare of the nation, even the public amnesty to Duminda.. Today, his presidency has been criticized by the nation.
+
+...
+
+[Data](articles/3e46b98f.json)
+
+[Extended Data](ext_articles/3e46b98f.ext.json)
 
 ---
 
@@ -123,6 +197,32 @@ Biological data on individuals are always valuable. They can also be used to pre
 [Data](articles/3d73feb0.json)
 
 [Extended Data](ext_articles/3d73feb0.ext.json)
+
+---
+
+### Sridharan is the leader of the Sri Lankan Tamil party
+
+*2024-01-21 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174449) · `ta`
+
+Sridharan has won 184 votes in the referendum for the new leadership of the Sri Lankan Tamil party.
+
+The secret referendum for the new leadership of the Sri Lankan Tamil party took place today (21) at 10 am in Trincomalee.
+
+The referendum, chaired by General Secretary, Dr. Sathiyalingam, was assisted by the eight districts of the Northern and Eastern Provinces.
+
+In this case, members of the Central Executive Committee voted in the vote and voted for the General Assembly from the districts.
+
+Accordingly, 327 people participated in the voting at the Tathirukonamalai Nagar Mandapam on the 21st.
+
+Earlier, when the nomination papers for the leadership of the Sri Lankan Tamil party were sought, the party's Jaffna MP MA Sumanthiran and Sivagnanam Sreedharan and former parliamentarian of the Batticaloa district, Srinithambi Yogeswaran, had made applications.
+
+However, there were talks between the three candidates after the party's politician's meeting was urged to take place without contest.
+
+...
+
+[Data](articles/7fb0dc9d.json)
+
+[Extended Data](ext_articles/7fb0dc9d.ext.json)
 
 ---
 
@@ -416,48 +516,6 @@ Sivagnanam Shritharan contested the 2010 parliamentary election as one of the Ta
 
 ---
 
-### Supreme Court for the second time for Rajapaksa
-
-*2024-01-21 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174445) · `ta`
-
-The fundamental human rights violation petition filed against seven people was responsible for the country's economic downturn and crisis.. On November 14 last year, the Supreme Court declared that all seven were responsible for the economic downturn.
-
-Gotabhaya, who was chased away by the people without completing his tenure, said, "I have made some decisions for the benefit of the people and the nation.". However, when the Supreme Court's verdict on the issue of Duminda Silva on the 17th, the fact that the Gotabhaya executive has exceeded the constitution.. Gotabhaya also justified himself by a promise that he made this decision in view of the welfare of the nation, even the public amnesty to Duminda.. Today, his presidency has been criticized by the nation.
-
-...
-
-[Data](articles/3e46b98f.json)
-
-[Extended Data](ext_articles/3e46b98f.ext.json)
-
----
-
-### Sridharan is the leader of the Sri Lankan Tamil party
-
-*2024-01-21 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174449) · `ta`
-
-Sridharan has won 184 votes in the referendum for the new leadership of the Sri Lankan Tamil party.
-
-The secret referendum for the new leadership of the Sri Lankan Tamil party took place today (21) at 10 am in Trincomalee.
-
-The referendum, chaired by General Secretary, Dr. Sathiyalingam, was assisted by the eight districts of the Northern and Eastern Provinces.
-
-In this case, members of the Central Executive Committee voted in the vote and voted for the General Assembly from the districts.
-
-Accordingly, 327 people participated in the voting at the Tathirukonamalai Nagar Mandapam on the 21st.
-
-Earlier, when the nomination papers for the leadership of the Sri Lankan Tamil party were sought, the party's Jaffna MP MA Sumanthiran and Sivagnanam Sreedharan and former parliamentarian of the Batticaloa district, Srinithambi Yogeswaran, had made applications.
-
-However, there were talks between the three candidates after the party's politician's meeting was urged to take place without contest.
-
-...
-
-[Data](articles/7fb0dc9d.json)
-
-[Extended Data](ext_articles/7fb0dc9d.ext.json)
-
----
-
 ### S. Sridharan elected leader of Illankai Tamil Arasu Kadchi
 
 *2024-01-21 13:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/s-sridharan-elected-leader-of-illankai-tamil-arasu-kadchi/) · `en`
@@ -467,6 +525,8 @@ COLOMBO (News 1st); S. Sridharan has been elected as the Leader of the Ilankai T
 The secret ballot to elect the leader of the Ilangei Tamil Arasu Katchi Party was held this morning at the Trincomalee Municipal Council Hall.
 
 Members of Parliament, President's Counsel M.A. Sumanthiran, S. Sreedharan and former MP Sinithambi Yogeswaran contested for the leadership of the party.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -600,6 +660,8 @@ Police said 663 suspects related to drug offenses and 324 suspects who were on t
 
 Drugs including 270 grams of heroin, 140 grams of ICE and 18kg of cannabis were seized during the operation.
 
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
 ◼️
 
 [Data](articles/56412894.json)
@@ -651,6 +713,8 @@ The doctor was charged with allegedly assaulting the relevant employee after a d
 Police also arrested two hospital workers on Saturday (20) night on suspicion of assaulting the relevant doctor.
 
 They will be produced before the Galle Magistrate on Sunday (21).
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -1664,6 +1728,8 @@ Minister of Trade, Commerce and Food Security Nalin Fernando said the revised pr
 
 The Minister attributed the price revision to the VAT increase.
 
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
 ◼️
 
 [Data](articles/c7457509.json)
@@ -1822,7 +1888,7 @@ Minister Alles stressed that operation 'Yukthiya' will only end after eradicatin
 
 He said the operation may face other challenges in future as well, and urged the community police and other factions to unite, to make the operation a success.
 
-◼️
+...
 
 [Data](articles/6bef53d1.json)
 
@@ -1837,6 +1903,8 @@ He said the operation may face other challenges in future as well, and urged the
 COLOMBO (News 1st); A 22-year-old has died in a shooting in Telijjawila, Matara.
 
 Sri Lanka Police said the shooting was carried out last night by an individual who arrived in a motorcycle.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -1857,6 +1925,8 @@ A spokesman for the PUCSL said public views will be obtained on the proposal to 
 The PUCSL added that the public will be able to submit opinions in writing for up to 21 days from the 23rd.
 
 The Ceylon Electricity Board handed over the proposal to revise electricity tariffs to the PUCSL.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -1924,6 +1994,8 @@ The Acting IGP said the programme will raise awareness among hundreds of school 
 
 He said under operation 'Yukthiya' Police have identified around 4,500 people involved in the supply of drugs to Sri Lanka, and 60 percent of them have been arrested.
 
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
 ◼️
 
 [Data](articles/42006a5b.json)
@@ -1946,7 +2018,7 @@ The leaders engaged in extensive discussions on promoting the cultural and relig
 
 With the aim of expanding political relations, a proposal was made to facilitate an exchange program for MPs to study the parliamentary affairs of both countries.
 
-◼️
+...
 
 [Data](articles/ac55c0bb.json)
 
@@ -2029,65 +2101,5 @@ Meanwhile, Minister Bandula Gunawardena has said that if all the businessmen are
 [Data](articles/724cc0a8.json)
 
 [Extended Data](ext_articles/724cc0a8.ext.json)
-
----
-
-### President addressing Non-Aligned Summit today
-
-*2024-01-21 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192375) · `si`
-
-President Ranil Wickremesinghe is scheduled to address the development of 77 countries and China conference.
-
-The 77 team is the largest alliance of the United Nations developing countries.
-
-President Ranil Wickremesinghe has gone to Kampala at the invitation of Uganda President Yovori Musewaney.
-
-◼️
-
-[Data](articles/d04ded0c.json)
-
-[Extended Data](ext_articles/d04ded0c.ext.json)
-
----
-
-### Suspect arrested in steal
-
-*2024-01-21 06:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192374) · `si`
-
-The Western Province, South Crimes Division has been arrested by the Western Province, South Crimes Division.
-
-The suspect was arrested yesterday (20) from the Angoda area.
-
-It has been revealed that a soil at 2 houses in the Delgahawatta road in the Mulleriyawa area in Mulleriyawa on the 19th and 19th of the suspect.
-
-The suspect has found the stolen jack timber and soil atmosphere.
-
-The Western Province South Criminal Division is conducting further investigations.
-
-◼️
-
-[Data](articles/3e256662.json)
-
-[Extended Data](ext_articles/3e256662.ext.json)
-
----
-
-### Weather today
-
-*2024-01-21 06:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192373) · `si`
-
-Several times will occur in the North-Central, Eastern and Uva provinces today (21).
-
-The department states that the Department states in the Central and Sabaragamuwa Provincial and Galle and Matara districts. Showers or thundershowers will occur at several places around 2.
-
-Some locations can last a morning in the Western, Sabaragamuwa and Central provinces and in the Galle and Matara districts.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/6f01e999.json)
-
-[Extended Data](ext_articles/6f01e999.ext.json)
 
 ---

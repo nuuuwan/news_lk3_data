@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 15:51:17**
+As of **2024-01-21 16:17:31**
 
 ## Newspaper Stats
 
-*Scraped **1,582** Articles*
+*Scraped **1,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,30 +13,92 @@ bbccomsinhala | 37
 adaderanasinhalalk | 57
 islandlk | 97
 economynextcom | 103
-newsfirstlk | 107
-dbsjeyarajcom | 118
+newsfirstlk | 108
+dbsjeyarajcom | 119
 virakesarilk | 142
 dailyftlk | 150
-adalk | 168
+adalk | 170
 dailymirrorlk | 180
-tamilmirrorlk | 197
-adaderanalk | 199
+tamilmirrorlk | 198
+adaderanalk | 200
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-935 (59.1%) of 1,582 articles have been extended.
+959 (60.4%) of 1,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
+*2024-01-21 15:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/investigative-report-over-controversial-human-immunoglobulin-purchase-handed-to-attorney-general/) · `en`
+
+COLOMBO (News 1st); The completed report of the human immunoglobulin drug transaction investigation has been sent to the Attorney General.
+
+The Criminal Investigation Department (CID) will follow the Attorney General's instructions for future steps.
+
+The CID will re-record the statement of former Health Minister Keheliya Rambukwella regarding the drug transaction once again as well.
+
+This follows a review of documents from several officials, including an additional Health Ministry secretary.
+
+The CID emphasizes that these activities are being conducted in collaboration with the Attorney General's Department.
+
+Former Health Secretary Janaka Sri Chandragupta and others remain arrested and remanded in connection with the drug transaction.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
+◼️
+
+[Data](articles/be3eb997.json)
+
+---
+
+### Controversial monk ‘Vishwa Buddha’ remanded
+
+*2024-01-21 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96600/controversial-monk-vishwa-buddha-remanded) · `en`
+
+The saffron-robbed monk claiming to be ‘Vishwa Buddha’ has been ordered to be remanded in custody until January 26, after being produced before the Gangodawila Magistrate’s Court in Nugegoda.
+
+The suspect, who was out on bail, was re-arrested this morning (21) by the Criminal Investigations Department (CID).
+
+Earlier, the monk was arrested on December 12 at a private establishment in Kalagedihena by the cybercrimes unit of the Criminal Investigation Department (CID), acting on a complaint received against the self-styled monk who was residing in Ratnapura.
+
+According to police, the saffron-robbed monk had allegedly issued statements demeaning Buddhism.
+
+◼️
+
+[Data](articles/3e34ef22.json)
+
+---
+
+### மாலத்தீவு ஜனாதிபதி முடிவால் சிறுவன் மரணம்
+
+*2024-01-21 15:24:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மாலத்தீவு-ஜனாதிபதி-முடிவால்-சிறுவன்-மரணம்/50-331899) · `ta`
+
+மாலத்தீவு புதிய ​ஜனாதிபதியாக முகமது முய்சு தேர்ந்தெடுக்கப்பட்டுள்ளார். அவர் இந்தியாவுக்கு எதிரான நிலைப்பாட்டை கொண்டுள்ளதால் இருநாடுகளுக்கு இடையேயான உறவில் விரிசல் ஏற்பட்டுள்ளது.
+
+இந்நிலையில், இந்திய விமானத்தை பயன்படுத்த ஜனாதிபதி முகமது முய்சு அனுமதி மறுத்ததால் உடல்நலம் பாதிக்கப்பட்ட மாலத்தீவில் சிறுவன் உயிரிழந்த சம்பவம் அதிர்ச்சியை ஏற்படுத்தியுள்ளது.
+
+மாலத்தீவின் கபி அலிப் விலிங்இல்ஸ் என்ற பகுதியை சேர்ந்த 14 வயது சிறுவனுக்கு மூளையில் கட்டி இருந்துள்ளது. இதற்கான சிகிச்சை பெற்று வந்த சிறுவனுக்கு கடந்த வியாழக்கிழமை (18) வலிப்பு ஏற்பட்டுள்ளது.
+
+...
+
+[Data](articles/f6e90b9e.json)
+
+---
 
 ### President Ranil addresses G77+China summit in Uganda
 
 *2024-01-21 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96599/president-ranil-addresses-g77china-summit-in-uganda-) · `en`
 
 President Ranil Wickremesinghe is currently addressing the Group of 77 and China (G77+China) Third South Summit in Kampala, Uganda, the President’s Media Division (PMD) reported.
+
+In his statement at the summit in Kampala, President Ranil Wickremesinghe stressed establishing unity within the G77 and China to address challenges facing the Global South.
+
+Emphasizing the group’s 60th anniversary, he also highlighted principles like unity and cooperation as the basis for tackling these issues sustainably, according to the PMD.
 
 The Sri Lankan President is in Uganda to attend the XIX Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the Group of 77 (G77) and China Third South Summit.
 
@@ -268,6 +330,8 @@ The secret ballot to elect the leader of the Ilangei Tamil Arasu Katchi Party wa
 
 Members of Parliament, President's Counsel M.A. Sumanthiran, S. Sreedharan and former MP Sinithambi Yogeswaran contested for the leadership of the party.
 
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
 ◼️
 
 [Data](articles/5b1105b8.json)
@@ -400,6 +464,8 @@ Police said 663 suspects related to drug offenses and 324 suspects who were on t
 
 Drugs including 270 grams of heroin, 140 grams of ICE and 18kg of cannabis were seized during the operation.
 
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
 ◼️
 
 [Data](articles/56412894.json)
@@ -451,6 +517,8 @@ The doctor was charged with allegedly assaulting the relevant employee after a d
 Police also arrested two hospital workers on Saturday (20) night on suspicion of assaulting the relevant doctor.
 
 They will be produced before the Galle Magistrate on Sunday (21).
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -1156,6 +1224,30 @@ Sri Lanka has chronic monetary stability which worsened after 1978 with steep de
 
 ---
 
+### ඊළඟට ජනාධිපතිවෙන්නෙත් පොහොට්ටුවේ සහය තියෙන කෙනෙක්
+
+*2024-01-21 10:25:14* · [`adalk`](https://www.ada.lk/breaking_news/ඊළඟට-ජනාධිපතිවෙන්නෙත්-පොහොට්ටුවේ-සහය-තියෙන-කෙනෙක්/11-407640) · `si`
+
+යුධ ගැටුම් හේතුවෙන් ලොව බොහෝ රටවල ජීවන වියදම ඉහළ ගිහිල්ලා...
+
+පාර්ලිමේන්තුව ගිනි තියන්න ගියපු මිනිස්සු අද ප්‍රජාතන්ත්‍රවාදය ගැන කතා කරනවා...
+
+වර්තමානයේ පවතින ජීවන වියදම ඉහළයෑම මිනිස්සුන්ට දරා ගැනීමට අපහසු බව තමන් පිළිගන්නා බව  ආණ්ඩුපක්ෂ ප්‍රධාන සංවිධායක, නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි.
+
+අමාත්‍යවරයා අවධාරණය කරන්නේ යුධ ගැටුම් හේතුවෙන් ලොව බොහෝ රටවල ජීවන වියදම ඉහළ ගොස් ඇති බවයි.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගෙන යන ආර්ථික වැඩපිළිවෙළ හමුවේ ඉදිරියේදී රට නැවත සාමාන්‍ය තත්ත්වයට පත්වනු ඇතැයිද හෙතෙම සඳහන් කරයි. එබැවින් විපක්ෂයේ සහ කුමන්ත්‍රණකරුවන්ගේ බොරු බේගල්වලට නොරැවටෙන ලෙසද හෙතෙම ජනතාවගෙන් ඉල්ලීමක් කරයි.
+
+අමාත්‍ය ප්‍රසන්න රණතුංග මහතා, ගම්පහ ඔරුතොට  ඇවිදින මන්තීරුව ප්‍රතිසංවර්ධනය සඳහා ගත යුතු පියවර සම්බන්ධයෙන්  නිරීක්ෂණ චාරිකාවකට එක්විය. ඒ එම ඇවිදින මන්තීරුව භාවිතා කරන  පිරිසකගේ ඉල්ලීමකට අනුවය.
+
+මෙම ඇවිදින මංතීරුව 2011 වසරේදී ආර්ථික අමාත්‍යාංශය හා ගම්පහ මහනගර සභාව එක්ව නිර්මාණය කර තිබේ.
+
+...
+
+[Data](articles/0a50a14f.json)
+
+---
+
 ### Missile attack targeting US Air Force Base in Iraq - Many US soldiers injured
 
 *2024-01-21 10:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/174429) · `ta`
@@ -1253,6 +1345,22 @@ In Sri Lanka, more than 14,000 farms have been closed down in Sri Lanka and that
 [Data](articles/244f9082.json)
 
 [Extended Data](ext_articles/244f9082.ext.json)
+
+---
+
+### බබා හා ඒන්ජල් අල්ලයි
+
+*2024-01-21 09:43:22* · [`adalk`](https://www.ada.lk/breaking_news/බබා-හා-ඒන්ජල්-අල්ලයි/11-407637) · `si`
+
+ඩුබායි රාජ්‍යයේ සැඟව  සිට මෙරට මත්ද්‍රව්‍ය  ජාවාරම මෙහෙයවන මහා පරිමාණ මත්ද්‍රව්‍ය ජාවාරම්කරුවන් වන කොලොන්නාවේ චන්දන හා ධනුෂ්ක නමැත්තන්ගේ මුදල් පරිපාලකවරිය ලෙස කටයුතු කළ  "බබා "නැමැත්තිය සහ මත්ද්‍රව්‍ය බෙදා  හරින්නියක් වන " එන්ජල්" නමැත්තිය රාජගිරියේ දේවස්ථානයක් අසලදී අත්අඩංගුවට ගත් බව බස්නාහිර පළාත් දකුණු දිසාව අපරාධ කොට්ඨාසය කියයි.
+
+එම සැකකාරියන් දෙදෙනා සන්තකයේ තිබී  මිලිගෑම් 1500 බැගින් අඩංගු ගංජා පැකට් 321 ක් පොලිස් භාරයට ගෙන ඇත.
+
+ඉකුත් දෙසැම්බර් 12 වැනි දින කොළොන්නාව උමගිලිය  ක්‍රීඩාංගනය අසලදී  කාය වර්ධන උපදේශකවරයෙකු ලෙස කටයුතු කරමින් මත්ද්‍රව්‍ය ජාවාරමේ යෙදෙන බව කියන සිංහපුර ප්‍රදේශයේ පදිංචි 31 හැවිරිදි පුද්ගලයෙකුට වෙඩි තබා ඝාතනය කිරීමට උත්සාහ දැරීම සම්බන්ධයෙන් අංගොඩ ප්‍රදේශයේ දි කොටා නමැති පුද්ගලයෙකු අත්අඩංගුවට ගෙන සිදු කළ ප්‍රශ්න කිරීමේදී එම ඝාතන කොන්ත්‍රාත්තුව ලබාදී ඇත්තේ චන්දන නමැති මත්ද්‍රව්‍ය ජාවාරම්කරු බවට අනාවරණය වූ බව පොලිසිය සඳහන් කරයි.
+
+...
+
+[Data](articles/57eb55c8.json)
 
 ---
 
@@ -1363,6 +1471,8 @@ COLOMBO (News 1st); The price of Indian eggs sold through Sathosa outlets has be
 Minister of Trade, Commerce and Food Security Nalin Fernando said the revised price of an Indian egg is Rs.43.
 
 The Minister attributed the price revision to the VAT increase.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -1522,7 +1632,7 @@ Minister Alles stressed that operation 'Yukthiya' will only end after eradicatin
 
 He said the operation may face other challenges in future as well, and urged the community police and other factions to unite, to make the operation a success.
 
-◼️
+...
 
 [Data](articles/6bef53d1.json)
 
@@ -1537,6 +1647,8 @@ He said the operation may face other challenges in future as well, and urged the
 COLOMBO (News 1st); A 22-year-old has died in a shooting in Telijjawila, Matara.
 
 Sri Lanka Police said the shooting was carried out last night by an individual who arrived in a motorcycle.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -1557,6 +1669,8 @@ A spokesman for the PUCSL said public views will be obtained on the proposal to 
 The PUCSL added that the public will be able to submit opinions in writing for up to 21 days from the 23rd.
 
 The Ceylon Electricity Board handed over the proposal to revise electricity tariffs to the PUCSL.
+
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -1624,6 +1738,8 @@ The Acting IGP said the programme will raise awareness among hundreds of school 
 
 He said under operation 'Yukthiya' Police have identified around 4,500 people involved in the supply of drugs to Sri Lanka, and 60 percent of them have been arrested.
 
+Investigative report over controversial human immunoglobulin purchase handed to Attorney General
+
 ◼️
 
 [Data](articles/42006a5b.json)
@@ -1646,7 +1762,7 @@ The leaders engaged in extensive discussions on promoting the cultural and relig
 
 With the aim of expanding political relations, a proposal was made to facilitate an exchange program for MPs to study the parliamentary affairs of both countries.
 
-◼️
+...
 
 [Data](articles/ac55c0bb.json)
 
@@ -1940,128 +2056,18 @@ The fish caught in the net, the eyes stop at the bunch of eyes. The fish caught 
 
 ---
 
-### People’s Tribunal  Headed by Justice De Kretzer  Condemns Police in Jaffna  for Excesses at the IATR World Tamil Research  Conference on 10  January  1974.
+### Jaffna District MP Sivagnanam Shritharan Elected as the New President of the Ilankai Thamil Arasuk Katchi(ITAK) at Inner Party Meeting in Trincomalee on 21 January 2024.
 
-*2024-01-21 01:11:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83478) · `en`
+*2024-01-21 02:22:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83482) · `en`
 
-Fifty years ago  in January 1974, the  International Association of Tamil Research (IATR) held the fourth World Tamil research conference  in  Jaffna. Violence was unleashed against Tamil civilians attending a cultural event linked to the conferency by a Police contingent led by the then ASP Chandrasekera. The background to the Jaffna conference and an outline of the Police attack was related in the first part of this article published last week. Further details  of the Conference and  the Police attack will be the focus in the  second and final part of  this article.
+Jaffna  District MP Sivagnanam Shritharan has been elected as the new President of the Ilankai Thamil Arasuk Katchi(ITAK) known in English as the Federal Party(FP). The inner party election was held on Sunday 21 January  2024 in Trincomalee. Shritharan will be officially declared ITAK President next week when the ITAK party convention takes place in Trinco on 27 28 January. The current President Somasuntharam Senathirajah known as “Maavai” will formally relinquish office then
 
-As stated earlier the government of the day headed by Prime Minister Sirimavo Bandaranaike and the only Tamil cabinet minister Chelliah Kumarasuriar wanted the IATR conference to be held at the BMICH in Colombo. But the majority of the organizing committee wanted  it to be held in Jaffna. The disgruntled Govt acted in a puerile manner and allegedly adopted obstructionist tactics.
+Two ITAK MPs and one Ex -MP were nominated as candidates for the Presidential election. They were Mathiaparanam Abraham Sumanthiran, Sivagnanam Shritharan and Seenithamby Yoheswaran.While Sumanthiran and shritharan currently serve as Jaffna district MP, Yoheswaran is a former MP from Batticaloa district
 
-...
-
-[Data](articles/515a8ec3.json)
-
-[Extended Data](ext_articles/515a8ec3.ext.json)
-
----
-
-### 2024-01-20 (Saturday)
-
-### Sri Lanka tea prices fall across elevations
-
-*2024-01-20 23:54:00* · [`economynextcom`](https://economynext.com/sri-lanka-tea-prices-fall-across-elevations-148080/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s tea prices across categories fell at the third auction of 2024 on January 16-17 after almost two months of gains, while certain grades within the categories gained, market data showed.
-
-The weekly sale average price fell by 26.52 rupees to 1248.22 rupees a kilogram, according to industry data published by Ceylon Tea Brokers.
-
-In the third week 4.6 million kilos were sold by public auction.
-
-High Grown BOP teas went up with Best Westerns going up by 50 to 100 rupees. Plainer categories gained by 70-80 rupees.
-
-Hardly any offerings from Nuwara Eliya’s and Uda Pussellawa’s fell.
-
-The high grown sale average was down by 4.96 to 1,082.30 rupees a kilo.
-
-BOP1, Select were up by 50 rupees whilst others remained unchanged. OP1, Select best held firm whilst others gained by 50 rupees.
-
-OP/OPA Select best fell by 50 rupees and Best fell by 20 rupees.
-
-PEK Select Best and bests fell by 50 rupees, PEK1 – Select best fell by 50 rupees.
+However the triangular  contest transformed into a duel between Sumanthiran and Shritharan after Yoheswaran declared his support for Shritharan and launched a fierce  verbal attack on Sumanthiran.
 
 ...
 
-[Data](articles/c4e08953.json)
-
-[Extended Data](ext_articles/c4e08953.ext.json)
-
----
-
-### Fire in China school dorm kills 13 boys
-
-*2024-01-20 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96584/fire-in-china-school-dorm-kills-13-boys) · `en`
-
-A fire in a central China school dormitory killed 13 students and injured another，prompting the authorities to call for screening fire risks in crowded places, state media said on Saturday (20 Jan.).
-
-The Friday night fire killed third graders in a boys’ dormitory of Yingcai School in Henan Province, according to China Newsweek, a weekly magazine published by China News Service. Third graders in China are usually 9 years old.
-
-Firefighters quickly extinguished the blaze in a village in Nanyang city, and the head of the school was taken into custody, state media reported.
-
-China’s Ministry of Emergency Management called for screening to avoid “hidden fire risks in densely populated places”, and a work team was sent to guide rescue and follow-up work, Xinhua reported.
-
-...
-
-[Data](articles/64a9676b.json)
-
-[Extended Data](ext_articles/64a9676b.ext.json)
-
----
-
-### PUCSL to reach decision on proposed electricity tariffs next week
-
-*2024-01-20 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96583/pucsl-to-reach-decision-on-proposed-electricity-tariffs-next-week) · `en`
-
-The Public Utilities Commission of Sri Lanka (PUCSL) is scheduled to address the proposed revision of electricity tariffs by the Ceylon Electricity Board (CEB) in a meeting on 22 January.
-
-A final decision on the matter is anticipated at this meeting, following which the proposal and the PUCSL’s decision will be made public for a three-week period.
-
-The PUCSL will then modify the proposal based on public feedback and submit the final tariff revision to the CEB.
-
-Meanwhile, speaking at a press briefing held today (20 Jan.), the CEB affirmed that electricity tariffs would be adjusted promptly upon approval from the PUCSL.
-
-◼️
-
-[Data](articles/37e5e4cf.json)
-
-[Extended Data](ext_articles/37e5e4cf.ext.json)
-
----
-
-### Youth shot dead inside mobile shop in Malimbada
-
-*2024-01-20 22:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Youth-shot-dead-inside-mobile-shop-in-Malimbada/108-275421) · `en`
-
-Matara, Jan 20 (Daily Mirror) - A 24-year-old youth was killed in a shooting at Malimbada in Thelijjawela, Matara tonight, police said.
-
-They said that two men arrived on a motorcycle at a mobile shop had opened fire on the victim with a pistol.
-
-The Malimbada Police are investigating to arrest the shooters and determine the motive behind the shooting.
-
-◼️
-
-[Data](articles/fa431834.json)
-
-[Extended Data](ext_articles/fa431834.ext.json)
-
----
-
-### ‘Look Africa’ initiative marks commencement of new economic journey between Sri Lanka and Africa – Minister
-
-*2024-01-20 21:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96582/look-africa-initiative-marks-commencement-of-new-economic-journey-between-sri-lanka-and-africa-minister-) · `en`
-
-President Ranil Wickremesinghe’s recent visit to Uganda has significantly contributed to strengthening diplomatic ties with African nations that have previously been overlooked in Sri Lanka’s foreign relations.
-
-The Minister of Foreign Affairs Ali Sabry PC, highlighted the importance of these engagements, emphasizing the sizable population of approximately 1.3 billion in these African countries and the anticipated rapid development in the future.
-
-In his special statement today (20), Minister Ali Sabry pointed out that President Ranil Wickremesinghe’s ‘Look Africa’ initiative has laid the groundwork for Sri Lanka to invest in African nations, marking the commencement of a new economic journey for the country.
-
-In a special statement on the official visit to Uganda, where President Wickremesinghe participated in the 19th Conference of the Non-Aligned Movement and the G77+China Summit, Minister Ali Sabry reiterated the significance of broadening Sri Lanka’s engagement with Africa.
-
-...
-
-[Data](articles/86cc4cb4.json)
-
-[Extended Data](ext_articles/86cc4cb4.ext.json)
+[Data](articles/22c5d28e.json)
 
 ---

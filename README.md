@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 05:37:52**
+As of **2024-01-21 06:59:08**
 
 ## Newspaper Stats
 
-*Scraped **1,475** Articles*
+*Scraped **1,489** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 adaderanasinhalalk | 36
 bbccomsinhala | 36
-islandlk | 83
 newsfirstlk | 96
+islandlk | 97
 economynextcom | 101
 dbsjeyarajcom | 117
 virakesarilk | 129
@@ -26,11 +26,39 @@ adaderanalk | 185
 
 Extensions include translations and NER (Named Entity Recognition).
 
-455 (30.8%) of 1,475 articles have been extended.
+486 (32.6%) of 1,489 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### From Ceylon to Sri Lanka: some historical and other snippets
+
+*2024-01-21 05:11:00* · [`islandlk`](http://island.lk/from-ceylon-to-sri-lanka-some-historical-and-other-snippets/) · `en`
+
+“Oh! Great King, the birds of the air and beasts have an equal right to live and move about in any part of this land as thou. The land belongs to the people and all other beings and thou art only the guardian of it. “
+
+Most readers, particularly Buddhists, will know that these words of advice were given to King Devanampiyatissa (250-210 BC) by the Ven Mahinda Thera, son of Emperor Dharma Asoka of India, who gave the greatest gift to Sri Lanka – the teachings of the Buddha.
+
+...
+
+[Data](articles/c37b9d04.json)
+
+---
+
+### Two remarkable personalities: screenwriter and ex PM
+
+*2024-01-21 04:51:00* · [`islandlk`](http://island.lk/two-remarkable-personalities-screenwriter-and-ex-pm/) · `en`
+
+We Sri Lankans, in the majority are fatigued with annoyance, battling rising prices, facing a gloomy future and having to contend with capricious politicians, ineffectual MPs and religious mavericks; the last of three men performing free from constraints, guidelines and permissive interpretation of Buddhism. Thus we earnestly seek personalities or events that inspire hope and admiration. This last week I read about two persons who interested me immensely, restored hope in humanity and impacted on my emotions.
+
+Peter Julian Robin Morgan, CBE, is my first person of interest. He was born on April 19, 1963, in Wimbledon, London, to immigrant parents: father a Jew who escaped Nazi Germany in 1933 and a Roman Catholic mother who fled Poland under the Soviets. His father died when he was nine. He grew up in London and attended two schools in London and Somerset and obtained a fine arts degree from Leeds University.
+
+...
+
+[Data](articles/5ecfc9f1.json)
+
+---
 
 ### President meets Indian Foreign Minister
 
@@ -315,6 +343,22 @@ Meanwhile, the Ceylon Electricity Board (CEB) stated that action will be revised
 [Data](articles/6954a5bc.json)
 
 [Extended Data](ext_articles/6954a5bc.ext.json)
+
+---
+
+### Oil supply tightens in Europe over Red Sea disruptions
+
+*2024-01-20 20:24:00* · [`islandlk`](http://island.lk/oil-supply-tightens-in-europe-over-red-sea-disruptions/) · `en`
+
+The structure of the global benchmark Brent crude futures market and some physical markets in Europe and Africa have been reflecting tighter supply partly over concerns about shipping delays as vessels avoid the Red Sea due to missile and drone attacks.
+
+The disruptions – which have been the largest to global trade since the COVID-19 pandemic – have combined with other factors such as rising Chinese demand to increase competition for crude supply that does not have to transit the Suez Canal, and analysts say this is most evident in European markets.
+
+In a sign of tighter supply, the market structure of Brent – which is used to price nearly 80 percent of the world’s traded oil – hit its most bullish in two months on Friday, as tankers diverted from the Red Sea following recent air strikes by the United States and United Kingdom on targets in Yemen.
+
+...
+
+[Data](articles/d45bb364.json)
 
 ---
 
@@ -922,6 +966,20 @@ Governor of the Eastern Province of Sri Lanka Senthil Thondaman came home for lo
 
 ---
 
+### Sri Lanka: Response to Economic Crisis Undermined Rights
+
+*2024-01-20 16:14:00* · [`islandlk`](http://island.lk/sri-lanka-response-to-economic-crisis-undermined-rights/) · `en`
+
+(Human Rights Watch – Bangkok) –Regressive government policies and inadequate social protection left many Sri Lankans at risk from the worst effects of the country’s economic crisis, Human Rights Watch said today in its World Report 2024. The government of President Ranil Wickremesinghe continued to repress freedoms of expression and association, and pursue policies that discriminate against minority communities.
+
+“Millions of Sri Lankans are struggling to survive an economic crisis that partly originated in corrupt, unaccountable governance,” said Meenakshi Ganguly, deputy Asia director at Human Rights Watch. “The current administration is responding with policies that weigh heaviest on those who have least, while suppressing voices that are essential for accountable, democratic decision-making.”
+
+...
+
+[Data](articles/202c0493.json)
+
+---
+
 ### Naramala incident;Action order to fly to police officers
 
 *2024-01-20 16:08:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாரம்மல-சம்பவம்-பொலிஸ்-அதிகாரிகளுக்கு-பறந்த-அதிரடி-உத்தரவு/175-331846) · `ta`
@@ -943,6 +1001,18 @@ Sub-Inspector (SI), who fired at the victim, was arrested and placed in detentio
 [Data](articles/11398620.json)
 
 [Extended Data](ext_articles/11398620.ext.json)
+
+---
+
+### A bleak forecast for 2024 and beyond : Politics (security), economics and military
+
+*2024-01-20 16:07:00* · [`islandlk`](http://island.lk/a-bleak-forecast-for-2024-and-beyondpolitics-security-economics-and-military/) · `en`
+
+This piece uses the vast amount of information on the web, social-media, broadcasts and news sites. My role is to use what limited intelligence providence has endowed me with to select and filter. I hope this will be of service to readers who do not have the patience to explore all the available information themselves. Nations are fretful above all else of existential concerns, that is politics in the sense of security, not politics in the familiar but vulgar sense of endemic corruption. Once existence is assured the second matter to focus on is material well-being; prosperity, employment, wealth and so on broadly falling under the umbrella term ‘the economy’. My accent in this piece is on the Great Powers (America, China and Russia) though discussion of the Middle East (the Muslim World and Israel) is unavoidable.
+
+...
+
+[Data](articles/7e2d0222.json)
 
 ---
 
@@ -1068,6 +1138,20 @@ There is no place for imperialism in the country. In an important election year,
 
 ---
 
+### Roots at Home and Thoughts in the world:
+
+*2024-01-20 15:41:00* · [`islandlk`](http://island.lk/roots-at-home-and-thoughts-in-the-world/) · `en`
+
+(Text of the speech delivered at a Panel Discussion held at Svami Vivekanda Cultural Center in Colombo, on January 12, 2024 to commemorate Mahagama Sekera. Sekera was an influential a poet, a novelist, a painter, a lyricist, a filmmaker, and a literary scholar, and he died in 1976 at the age of 47)
+
+This panel is primarily about the ways in which Mahagama Sekera’s art was shaped by Indian thought. Since ‘Indian thought’ encompasses a great deal of philosophical schools and religions, including Buddhism, there is no Sinhala art which has not been shaped, one way or another, by something ‘Indian.’ So, I must be specific and quite narrow in my focus. Hence, the focus on Tagore.
+
+...
+
+[Data](articles/301bcbd7.json)
+
+---
+
 ### Intelligence information. Beeddy Kole arrested
 
 *2024-01-20 15:30:11* · [`adalk`](https://www.ada.lk/breaking_news/බුද්ධි-තොරතුරකින්-රු--කෝටියක-බීඩි-කොල-අත්අඩංගුවට/11-407632) · `si`
@@ -1130,6 +1214,24 @@ Recent figures from the agency revealed a sharp rise in the number of measles ca
 
 ---
 
+### Mudaliyar Sampson Rajapakse – a giant of his day
+
+*2024-01-20 15:12:00* · [`islandlk`](http://island.lk/mudaliyar-sampson-rajapakse-a-giant-of-his-day/) · `en`
+
+Donated land on which the Medical College and the Galle clock tower stands
+
+Mudaliyar Sampson Rajapakse’s Colombo Waluwwa was “Gatherum” Kynsey Road, Colombo and his country Waluwwa, “Mahakappina Walauwwa” in Balapitiya. His father too was a Mudaliyar. Sampson was educated at Royal College, Colombo.
+
+I produce below an extract from the Ceylon Times dated June 4, 1875 headlined “Prize Day at the Medical School, Extract from a speech by Governor of Ceylon – Sir William Gregory”
+
+“But it would be wrong of me, while taking credit to ourselves on such an occasion as this to pass over the name of a gentleman Mr. Sampson Rajapakse (great applause). Mr. Rajapakse has enabled you gentlemen to carry out the plan in an infinitely better manner it would have been or could have been done had the original arrangements been adhered to.
+
+...
+
+[Data](articles/b2cc521c.json)
+
+---
+
 ### Modi's first Indian Prime Minister to visit Srirangam Temple in Trichy
 
 *2024-01-20 15:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/174389) · `ta`
@@ -1155,6 +1257,20 @@ Modi wants to listen to the year of the year, and the elephant Pagan has been re
 [Data](articles/1e40f7fd.json)
 
 [Extended Data](ext_articles/1e40f7fd.ext.json)
+
+---
+
+### Formulating a National Police on disability
+
+*2024-01-20 15:06:00* · [`islandlk`](http://island.lk/formulating-a-national-police-on-disability/) · `en`
+
+(Excerpted from Memories that linger – my journey in the world of disability by Padmani Mendis)
+
+Prof. Chandra Gunawardene was the Dean of the Faculty of Education at the Open University of Sri Lanka, OUSL, at the turn of the century. I was recommended to her by her friend Prof. Swarna Wijetunge who had been a Professor of Education at the University of Colombo. Prof. Wijetunge was a member of the National Education Commission. She had always been sensitive to the poor quality of education available to disabled children. Prof. Gunawardene was keen to take action to uplift this through improvement in teacher education.
+
+...
+
+[Data](articles/00a14db3.json)
 
 ---
 
@@ -1596,6 +1712,22 @@ He added that the new training was given to the death of a driver in the Naramma
 
 ---
 
+### Ceylinco Life wins SAFA Gold and TAGS Silver for 2022 Annual Report
+
+*2024-01-20 12:36:00* · [`islandlk`](http://island.lk/ceylinco-life-wins-safa-gold-and-tags-silver-for-2022-annual-report/) · `en`
+
+The 2022 Annual Report of Ceylinco Life has been recognized for excellence in financial reporting in Sri Lanka as well as in the South Asian region, a company news release said last week.
+
+Titled ‘Steadfast and Unwavering” the Integrated Report of Sri Lanka’s life insurance market leader won the joint Gold Award for ‘Best Presented Annual Report’ in the Life Insurance sector at the South Asian Federation of Accountants (SAFA) Awards hosted by the Institute of Chartered Accountants of India in New Delhi, it said.
+
+This noteworthy accolade came days after the same Annual Report received the Silver in the Life Insurance category at the CA Sri Lanka ‘TAGS’ Awards, anchored on the four principles of Transparency, Accountability, Governance, and Sustainability (TAGS). It was CA Sri Lanka’s 57-year old Annual Report Awards Competition, which was reconceptualized and rebranded as “TAGS Awards” in 2022.
+
+...
+
+[Data](articles/2eec05bd.json)
+
+---
+
 ### Fire in elementary school: 13 killed
 
 *2024-01-20 12:35:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆரம்ப-பாடசாலையில்-தீ-விபத்து-13-பேர்-பலி/175-331840) · `ta`
@@ -1669,6 +1801,64 @@ The concerned SI and a Constable had then chased down the lorry and pulled it ov
 [Data](articles/00f77d77.json)
 
 [Extended Data](ext_articles/00f77d77.ext.json)
+
+---
+
+### Ceyline Holdings appoints new Dy. Chairman and Group Director
+
+*2024-01-20 12:21:00* · [`islandlk`](http://island.lk/ceyline-holdings-appoints-new-dy-chairman-and-group-director-2/) · `en`
+
+Adm. Piyal De Silva appointed as Deputy Chairman, Nathasha Egodage as Group Director
+
+Ceyline Holdings (Pvt) Ltd. (CHL) recently announced the appointment of Admiral Piyal De Silva (Retd) as Deputy Chairman of the group and Nathasha Egodage as Group Director, further strengthening its Board’s capabilities to make strategic international connections and win new business in the ever-competitive global marine industry.
+
+Admiral De Silva (retd), was the 23rd Commander of the Sri Lanka Navy and is a former Ambassador of Sri Lanka to Afghanistan.
+
+He graduated with a Master of Business Administration in Human Resource Management and a Master of Science in Military Science and National Security Strategic Study and has also attended the National Defence Course, China.
+
+...
+
+[Data](articles/94f32ec1.json)
+
+---
+
+### Amila Gold House Pvt Ltd shines at Southern Province Entrepreneur Awards
+
+*2024-01-20 12:20:00* · [`islandlk`](http://island.lk/amila-gold-house-pvt-ltd-shines-at-southern-province-entrepreneur-awards/) · `en`
+
+Amila Gold House Private Limited, a leader in the manufacture and sale of fine jewellery in the Southern Province with a proud history of more than 25 years, was honoured as the Best Innovative Enterprise at the at the Southern Province Entrepreneur Awards 2023. The distinguished award ceremony organised by the Southern Provincial Chamber of Commerce and Industry in collaboration with the National Enterprise Development Authority (NEDA), with the aim of recognising and honouring entrepreneurs who have demonstrated excellence, was held under the patronage of the Minister of Industries Dr. Ramesh Pathirana. The award was received by Amila Gold House Private Limited Chairman, Amila Indunil de Silva. Amila Gold House was the first jewellery business to secure International Standards Organisation (ISO) 9001-2015 quality certifications in 2019.
+
+...
+
+[Data](articles/26c69eca.json)
+
+---
+
+### HNB Assurance Advisor Distribution Management Team Celebrates its Exceptional Performance
+
+*2024-01-20 12:20:00* · [`islandlk`](http://island.lk/hnb-assurance-advisor-distribution-management-team-celebrates-its-exceptional-performance-2/) · `en`
+
+HNB Assurance recently convened the highly anticipated New Business Launch and Advisor Distribution Management Forum, showcasing the exceptional performance of its Advisor Distribution Channel which included a remarkable 37% increase in New Business Premium (NBP) growth, a robust 24% growth in Gross Written Premium (GWP) and the prestigious international recognition from Insurance Asia for the Best Distribution Initiative, during the year 2023.
+
+Lasitha Wimalaratne, CEO of HNBA expressed his thoughts at the forum, stating, “We are extremely proud of the outstanding performance displayed by our Advisor Distribution Channel during the year 2023, a trend they’ve continued over the last three years. This impressive growth in NBP and GWP as well as the other achievements underscores the expertise and resilience of our team.”
+
+...
+
+[Data](articles/b876217b.json)
+
+---
+
+### Arpico Insurance PLC wins at the CA Sri Lanka TAGS Awards 2023
+
+*2024-01-20 12:20:00* · [`islandlk`](http://island.lk/arpico-insurance-plc-wins-at-the-ca-sri-lanka-tags-awards-2023/) · `en`
+
+Arpico Insurance PLC, a fully owned subsidiary of the blue-chip conglomerate Richard Pieris & Company PLC, clinched the Bronze Award for the Best Annual Report in the Insurance Sector (GWP upto Rs. 10 billion) for the second consecutive year at the TAGS Awards 2023.
+
+Organized by the Institute of Chartered Accountants of Sri Lanka (CA Sri Lanka), the TAGS Awards, which is an acronym for Transparency, Accountability, Governance and Sustainability, recognized the integrity of the financial, environmental, social, and governance reporting of Arpico Insurance PLC for its Annual Report 2022 titled ‘Strides for Multifaceted Growth’.
+
+...
+
+[Data](articles/df25c12e.json)
 
 ---
 
@@ -1839,275 +2029,5 @@ A considerable number of cases have been reported to date predominantly among va
 [Data](articles/ffd03cd1.json)
 
 [Extended Data](ext_articles/ffd03cd1.ext.json)
-
----
-
-### 986 suspects arrested
-
-*2024-01-20 11:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192348) · `si`
-
-986 other suspects have been arrested under the special operation of justice during the 24 hours end of 12 km.
-
-Police have arrested 667 suspects in connection with drug charges and 498 grams of heroin, including 143 grams and 143 grams of the security forces.
-
-අත්අඩංගුවට ගත් එම සැකකරුවන්ගෙන් 10 දෙනෙකු සම්බන්ධයෙන් රැඳවුම් නියෝග ලබාගැනීමට නියමිත අතර, මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් පුනරුත්ථාපනය සඳහා යොමු කිරීමට නියමිතයි.
-
-In addition 319 suspects and open warners have been arrested yesterday on their operations yesterday.
-
-◼️
-
-[Data](articles/63add511.json)
-
-[Extended Data](ext_articles/63add511.ext.json)
-
----
-
-### Sri Lankan Navy nabs trawlers carrying suspected heroin
-
-*2024-01-20 11:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/sri-lankan-navy-nabs-trawlers-carrying-suspected-heroin/) · `en`
-
-COLOMBO (News 1st) – A multi-day fishing trawler and a one-day fishing trawler carrying a stock of narcotics suspected to be heroin have been taken into custody by the Navy in the Southern Sea.
-
-The drugs were discovered during a special operation carried out by the Navy Intelligence Division, based on information from the State Intelligence Service.
-
-The Navy said that the fishing trawlers and the suspects are currently being escorted to the Port of Galle for onward action.
-
-IMF & Sri Lanka: Tax reforms and fiscal discipline seen as key to overcoming the crisis
-
-Navy seized Rs. 1.6 BILLION worth of Heroin in major drug bust on High Seas
-
-◼️
-
-[Data](articles/608909e1.json)
-
-[Extended Data](ext_articles/608909e1.ext.json)
-
----
-
-### Murky reasons for milk production drop in Sri Lanka
-
-*2024-01-20 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Murky-reasons-for-milk-production-drop-in-Sri-Lanka/108-275411) · `en`
-
-Parliament, Jan. 20 (Daily Mirror)-  Sri Lanka’s dairy industry is facing a major crisis, with around 14,000 small-scale farms shutting down and milk production declining sharply as revealed yesterday by the Committee on Public Accounts (COPA) in Parliament.
-
-While officials from the State Ministry of Livestock Department blamed the closures on animal theft, the MPS expressed skepticism.
-
-They argued that other factors, such as the destruction of grasslands and land-related issues, likely played a more significant role.
-
-The COPA emphasized the need for the Department of Animal Production and Health to maintain accurate and clear data on the industry.this data is crucial for understanding the root causes of the crisis and formulating effective policy responses.
-
-...
-
-[Data](articles/d8e229dd.json)
-
-[Extended Data](ext_articles/d8e229dd.ext.json)
-
----
-
-### Two fishing vessels
-
-*2024-01-20 10:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192347) · `si`
-
-Two fishing boats carrying drugs suspected to be taken into custody in the South Sea in Sri Lanka at the South Sea.
-
-According to an intelligence from the State Intelligence Service, a multi-day fishing vessel and one day fishing vessel were taken into customers.
-
-The people of the vessels have been arrested by the Navy.
-
-The arrested suspects and fishing vessels are being brought to the Galle Harbor.
-
-◼️
-
-[Data](articles/34e376a3.json)
-
-[Extended Data](ext_articles/34e376a3.ext.json)
-
----
-
-### 986 more suspects arrested during operation ‘Yukthiya’
-
-*2024-01-20 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96563/986-more-suspects-arrested-during-operation-yukthiya) · `en`
-
-A total of 986 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (20 Jan.) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-According to the Ministry of Public Security, a total of 586g of heroin, 180g of crystal methamphetamine (Ice), and 44 narcotic pills.
-
-◼️
-
-[Data](articles/605f3760.json)
-
-[Extended Data](ext_articles/605f3760.ext.json)
-
----
-
-### Pathfinder calls for streamlining overseas missions
-
-*2024-01-20 10:21:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/pathfinder-calls-for-streamlining-overseas-missions/) · `en`
-
-COLOMBO (News 1st) – Founder of the Pathfinder Foundation Milinda Moragoda called Sri Lanka to slash its overstretched network of overseas missions, citing outdated practices and resource constraints in a connected world.
-
-Moragoda advocated a "zero-based budgeting" approach, scrutinizing each mission's value and suggesting a 10-mission reduction.
-
-He said, "At present, Sri Lanka has over 60, most of which are understaffed and under-resourced. In telling contrast, Singapore, with foreign exchange reserves of close to USD 325 billion, has around 50."
-
-He said savings could bolster remaining embassies, prioritizing functionality, affordability, and national interest.
-
-Empowering select missions for regional oversight, with ambassadors potentially stationed at the foreign ministry, is another proposal. He argued that this mirrors Singapore's efficiency and adaptability.
-
-...
-
-[Data](articles/c294b856.json)
-
-[Extended Data](ext_articles/c294b856.ext.json)
-
----
-
-### 51 more CEB employees interdicted
-
-*2024-01-20 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96562/51-more-ceb-employees-interdicted) · `en`
-
-A total of 51 more employees of the Ceylon Electricity Board (CEB) have been interdicted for obstructing the services by refusing to accept bill payments from consumers during their three-day protests staged against the proposed restructuring of the state-owned electricity supplier.
-
-CEB trade union members engaged in a series of protests for three days from January 03 - 05, challenging the government’s Bill to restructure the Board and the new Electricity Bill.
-
-On Friday (Jan.15), the CEB suspended 15 clerical staff members in charge of the cash counters for inconveniencing the customers, who had come to pay their bills, by closing the windows of the counters and refraining from accepting payments.
-
-The CEB says further inquiries are underway to identify other employees who refrained from performing their duties and disrupted the services amidst the trade union action.
-
-...
-
-[Data](articles/5a6aefb9.json)
-
-[Extended Data](ext_articles/5a6aefb9.ext.json)
-
----
-
-### Shift six people suspended for sixty-six CEB
-
-*2024-01-20 10:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192346) · `si`
-
-The number of employees of the Ceylon Electricity Board (CEB) has increased to 66.
-
-The Ceylon Electricity Board (CEB) has been suspended by a group of protesting electrical employees against the restructuring of the Electricity Board.
-
-The Ceylon Electricity Board yesterday stated that 15 clerks were suspended by the work of the money and obstructing the electrical bills at the recent past.
-
-Its trade union has launched a protest recently claiming that the Electricity Board is planning to be privacy.
-
-The Minister of Power and Energy Kanchana Wijesekara was instructed to take appropriate disciplinary action to take appropriate disciplinary action and take appropriate disciplinary action to take appropriate discipline action.
-
-However, the Sri Lanka Electricity Board (Pvt) Ltd is conducting further investigations to identify customers in the past strike, despite being an essential service.
-
-◼️
-
-[Data](articles/e99374a0.json)
-
-[Extended Data](ext_articles/e99374a0.ext.json)
-
----
-
-### Two fishing vessels carrying narcotics intercepted off southern coast
-
-*2024-01-20 10:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96561/two-fishing-vessels-carrying-narcotics-intercepted-off-southern-coast) · `en`
-
-Sri Lanka Navy has intercepted two fishing trawlers carrying a cache of narcotics, suspected to be heroin, off the southern coast of the island.
-
-A local multiday fishing trawler and a one-day fishing trawler were impounded during the operation mounted by the naval intelligence unit
-
-The seized vessels, narcotics consignment and apprehended suspects are being brought ashore to the Galle Harbour for onward investigations.
-
-◼️
-
-[Data](articles/82d68c6c.json)
-
-[Extended Data](ext_articles/82d68c6c.ext.json)
-
----
-
-### Online Safety Bill: Chilling Effect On Free Speech
-
-*2024-01-20 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/online-safety-bill-chilling-effect-on-free-speech/) · `en`
-
-COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizations in calling on Minister for Public Security Tiran Alles to withdraw the proposed Online Safety Bill and conduct sustained multi-stakeholder consultations, including with civil society and human rights experts.
-
-The Bill, set to be tabled in Parliament this month, has drawn sharp criticism for its overly broad definitions of offenses, lack of independent oversight, and potential for abuse by the executive.
-
-Vague terminology: "False statements" and "ill-will" definitions could arbitrarily restrict speech and empower censorship.
-
-Executive control: The Bill grants excessive power to a President-appointed Commission, raising concerns about political manipulation.
-
-Data privacy risks: Demanding user identification and proactive monitoring pose threats to privacy and security.
-
-Digital economy harm: Stifling online expression could damage Sri Lanka's growing digital economy and employment opportunities.
-
-...
-
-[Data](articles/a5139743.json)
-
-[Extended Data](ext_articles/a5139743.ext.json)
-
----
-
-### Online Safety Bill: Chilling free speech, urge groups
-
-*2024-01-20 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/online-safety-bill-chilling-free-speech-urge-groups/) · `en`
-
-COLOMBO (News 1st) – The Committee to Protect Journalists joined 58 organizations in calling on Minister for Public Security Tiran Alles to withdraw the proposed Online Safety Bill and conduct sustained multi-stakeholder consultations, including with civil society and human rights experts.
-
-The Bill, set to be tabled in Parliament this month, has drawn sharp criticism for its overly broad definitions of offenses, lack of independent oversight, and potential for abuse by the executive.
-
-Vague terminology: "False statements" and "ill-will" definitions could arbitrarily restrict speech and empower censorship.
-
-Executive control: The Bill grants excessive power to a President-appointed Commission, raising concerns about political manipulation.
-
-Data privacy risks: Demanding user identification and proactive monitoring pose threats to privacy and security.
-
-Digital economy harm: Stifling online expression could damage Sri Lanka's growing digital economy and employment opportunities.
-
-...
-
-[Data](articles/fe67a2b0.json)
-
-[Extended Data](ext_articles/fe67a2b0.ext.json)
-
----
-
-### Offensive number plate bikers arrested
-
-*2024-01-20 09:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Offensive-number-plate-bikers-arrested/108-275409) · `en`
-
-Boralesgamuwa, Jan 20 (Daily Mirror) - Traffic police in Boralesgamuwa intercepted a motorcycle displaying a highly offensive Sinhala word P......A in English characters and arrested two young men riding it.
-
-The suspects, both 18-year-olds from Bellanwila, were spotted throughout Boralesgamuwa showcasing the offensive word on a plate replacing the motorcycle’s number plate.
-
-Ignoring an order to stop from traffic officers, they sped away, prompting a chase and eventual apprehension. Senior police officials informed that the suspects will be presented before the Nugegoda magistrate and additionally referred for a psychiatric evaluation.
-
-OIC Traffic Branch SI Tharindu Wickremesinghe, along with PCS 98597 Daluwatta and 70870 Jagath, are conducting further investigations under the instructions of OIC Boralesgamuwa Police CI Sumedha Wimalagunaratne.
-
-◼️
-
-[Data](articles/8c08febe.json)
-
-[Extended Data](ext_articles/8c08febe.ext.json)
-
----
-
-### Japan makes history, becoming fifth country to land spacecraft on moon
-
-*2024-01-20 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96559/japan-makes-history-becoming-fifth-country-to-land-spacecraft-on-moon) · `en`
-
-Japan on Saturday became the fifth country to put a spacecraft on the moon, but solar power issues threatened to cut short the nation’s mission to prove a “precision” landing technology and revitalise a space programme that has suffered setbacks.
-
-The Japan Aerospace Exploration Agency (JAXA) said its Smart Lander for Investigating Moon (SLIM) landed the moon’s surface at around 12:20 a.m. (1520 GMT Friday), but its solar panels were not able to generate electricity, possibly because they are angled wrong.
-
-JAXA prioritised the transfer of SLIM’s data to earth as the probe relied only on its battery, which would last for “a few hours” despite “life-sustaining treatments” such as turning off its heater, Hitoshi Kuninaka, the head of JAXA’s research centre, told a press conference.
-
-JAXA will maintain the status quo rather than take risky actions and hopes a shift in the sunlight’s angle will hit the panels in a way that can restore its functions, he added.
-
-...
-
-[Data](articles/d28d1776.json)
-
-[Extended Data](ext_articles/d28d1776.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 22:49:58**
+As of **2024-01-21 23:17:18**
 
 ## Newspaper Stats
 
-*Scraped **1,642** Articles*
+*Scraped **1,647** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 38
-adaderanasinhalalk | 69
+adaderanasinhalalk | 73
 islandlk | 97
 economynextcom | 103
 newsfirstlk | 109
@@ -20,17 +20,87 @@ virakesarilk | 156
 adalk | 180
 dailymirrorlk | 187
 tamilmirrorlk | 200
-adaderanalk | 205
+adaderanalk | 206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,272 (77.5%) of 1,642 articles have been extended.
+1,293 (78.5%) of 1,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### President meets UN chief and state leaders during ‘G77 and China’ summit
+
+*2024-01-21 22:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96606/president-meets-un-chief-and-state-leaders-during-g77-and-china-summit) · `en`
+
+President Ranil Wickremesinghe participated in the 3rd South Summit “G77 and China,” commencing today (21) in Kampala, Uganda. During the event, he engaged in fruitful discussions with numerous state leaders and representatives.
+
+This morning (21), President Ranil Wickremesinghe held a significant meeting with Dr. Riyad Malki, Palestine’s Minister of Foreign Affairs and Expatriates. Additionally, he met with Maldives Vice President Hussain Mohamed Latheef, fostering dialogue and collaboration.
+
+Further, President Ranil Wickremesinghe convened with UN Secretary-General Antonio Guterres on the same day (21), discussing matters of global significance.
+
+In a separate engagement, Indian Minister of State for External Affairs, Mr. Shri V. Muraleedharan, had a constructive discussion with President Ranil Wickremesinghe, emphasizing bilateral relations.
+
+...
+
+[Data](articles/74655438.json)
+
+[Extended Data](ext_articles/74655438.ext.json)
+
+---
+
+### යොවුන් ලෝක කුසලානයේ ශ්‍රී ලංකාව පළමු ජය හිමිකරගනී
+
+*2024-01-21 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192410) · `si`
+
+වයස අවුරුදු 19න් පහළ ලෝක කුසලාන තරගාවලියේ සහභාගී වූ ප්‍රථම තරගය ඩක්වත් ලුවිස් න්‍යායට අනුව ලකුණු 39කින් ශ්‍රී ලංකා යෞවන කණ්ඩායම ජයගත්තේය.
+
+ලකුණු 204ක ඉලක්කයක් හඹා යාමට පිටියට පිවිසි සිම්බාබ්වේ කණ්ඩායමේ ඉනිම අතරතුර තරගයට වර්ෂාවෙන් බාධා එල්ලවිය.
+
+ඒ අනුව ඩක්වත් ලුවිස් න්‍යායට අනුව ජයග්‍රහණය සඳහා ඔවුන්ට හිමිවූ ඉලක්කය පන්දුවාර 22කදී ලකුණු 129කි.
+
+එහෙත් ශ්‍රී ලංකා යෞවන කණ්ඩායමේ ප්‍රබල පන්දු යැවීම හමුවේ සිම්බාබ්වේ යෞවන කණ්ඩායමට පන්දුවාර 21යි පන්දු 1කදී සියලුදෙනා දැවී රැස්කරගත හැකි වූයේ ලකුණු 89ක් පමණි.
+
+මෙහිදී අගනා පන්දු යැවීමක නිරත වූ මල්ෂ තරුපති පන්දුවාර 4කදී ලකුණු 17කට කඩුලු 4ක් දවාගත්තේය.
+
+ඔහුට අගනා සහායක් ලබාදුන් විශ්ව ලහිරු සහ රුවිශාන් පෙරේරා කඩුලු 2 බැගින් දවාගත්තේය.
+
+ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා යෞවන කණ්ඩායම පන්දුවාර 48යි පන්දු 3ක්  අවසානයේ සියලුදෙනා දැවී ලකුණු 204ක් රැස්කරගැනීමට සමත්විය.
+
+එහිදී අගනා පිතිහරඹයක නියැලුණු දිනුර කළුපහන පන්දු 55කදී හයේ පහර 2ක් සහ හතරේ පහර 6ක් සමග ලකුණු 60ක් රැස්කරගත්තේය.
+
+නොදැවී පන්දුවට පහරදෙමින් සිටි ෂන්මුගනාදන් හතරේ පහර 3ක් සමග ලකුණු 41ක් රැස්කරගත්තේය.
+
+...
+
+[Data](articles/1fc37d66.json)
+
+---
+
+### වෛද්‍ය ක්‍රිෂාන්තට සාධාරණය ඉල්ලා විරෝධයක්
+
+*2024-01-21 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192409) · `si`
+
+විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතාට අසාධාරණයක් වූ බව පවසමින් කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකය ඉදිරිපිට අද පෙරවරුවේ විරෝධතාවක් සංවිධාන කර තිබුණි.
+
+එහිදී ඔවුන් පෙන්වාදුන්නේ විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා දකුණු පළාත සඳහා විශාල සේවයක් ඉටුකළ වෛද්‍යවරයෙක් බවය.
+
+සෞඛ්‍ය වෘත්තිය සමිති පසුගිය 16 වනදා ක්‍රියාත්මක කළ සංකේත වැඩවර්ජනයෙන් කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකයේ කටයුතුවලට බාධා ඇතිවීම මුල්කරගෙන එහි අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා සහ කනිෂ්ඨ කාර්ය මණ්ඩලය අතර නොසන්සුන්තාවක් ඇතිවිය.
+
+එහිදී කනිෂ්ඨ කාර්ය මණ්ඩල සේවිකාවකට පහරදුන් බවට එල්ලවූ චෝදනා මත අත්අඩංගුවට ගනු ලැබූ වෛද්‍යවරයා මේ වන විට සිටින්නේ රක්ෂිත බන්ධනාගාරගතවය.
+
+රිමාන්ඩ් භාරයේ සිටින වෛද්‍යවරයා හෘදයාබාධයක් හේතුවෙන් මේ වන විට කරාපිටිය රෝහලේ ප්‍රතිකාර ලබමින් සිටියි.
+
+ඇතිවූ රෝගී තත්ත්වය මත පෞද්ගලික රෝහලකට ඇතුළත් කෙරුණු වෛද්‍යවරයා අධිකරණ නියෝග මත කරාපිටිය රෝහලට ප්‍රතිකාර සඳහා ඇතුළත් කෙරුණු බව වාර්තා වෙයි.
+
+...
+
+[Data](articles/ed8f5f7f.json)
+
+---
 
 ### Detention orders issued on 11 suspects arrested with 65kg heroin
 
@@ -40,9 +110,51 @@ The Fort Magistrate’s Court has issued detention orders on the 11 suspects app
 
 Accordingly, the court granted permission for the suspects to be detained for 07 days by the Police Narcotics Bureau (PNB) for further interrogation.
 
-◼️
+The Sri Lanka Navy seized a local multi-day fishing trawler carrying over 65kg of heroin, and another multi-day fishing trawler suspected of assisting it, during a special operation carried out about 100 nautical miles off the Dondra Head, in southern waters on Saturday (20). The operation also led to the apprehension of 11 suspects in connection to the smuggling racket.
+
+...
 
 [Data](articles/4b7b53ed.json)
+
+[Extended Data](ext_articles/4b7b53ed.ext.json)
+
+---
+
+### හෙරොයින් කිලෝ 65ක් සමග කොටුවූ 11කට අධිකරණය දුන් නියෝගය
+
+*2024-01-21 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192408) · `si`
+
+හෙරොයින් තොගයක් සමග කොටුවූ සැකකරුවන් 11ක් පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය විසින් කොටුව මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව දින 07ක රැඳවුම් නියෝග ලබාගෙන ඇත.
+
+දකුණු මුහුදු තීරයේදී බහුදින ධීවර යාත්‍රා දෙකකින් ප්‍රවාහනය කරමින් තිබූ මෙම හෙරොයින් මත්ද්‍රව්‍ය තොගය සමග සැකකරුවන් 11ක් නාවික හමුදාව විසින් අත්අඩංගුවට ගනු ලැබීය.
+
+එහිදී අදාළ බහුදින ධීවර යාත්‍රාවල තිබී මත්ද්‍රව්‍ය කිලෝග්‍රෑම් 65යි ග්‍රෑම් 76ක් සොයාගත් අතර නාවික හමුදාව විසින් අදාළ මත්ද්‍රව්‍ය සමග සැකකරුවන් වැඩිදුර විමර්ශන කටයුතු සඳහා පොලිස් මත්ද්‍රව්‍ය නාශක කාර්යාංශය වෙත භාරදෙනු ලැබීය.
+
+◼️
+
+[Data](articles/e99d6be9.json)
+
+---
+
+### පොලීසියෙන් ලබාදුන් මුදල ගැන රොෂාන්ගේ බිරිඳ කී කතාව
+
+*2024-01-21 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192407) · `si`
+
+නාරම්මලදී පොලිස් වෙඩි පහරින් ජීවිතක්ෂයට පත්වූ රොෂාන් කුමාරතිලක වෙනුවෙන් පොලීසියෙන් ලබාදුන් වන්දි මුදල පිළිබඳව පවුලේ සාමාජිකයින්ගෙන් දැඩි විරෝධයක් එල්ල වී තිබේ.
+
+වෙඩි වැදීමෙන් මියගිය රොෂාන් කුමාරතිලකගේ දේහයට  අවසන් ගෞරව දැක්වීම සඳහා පාර්ලිමේන්තු මන්ත්‍රී දයාසිරි ජයසේකර මහතා අද (21) එම නිවසට පැමිණි අවස්ථාවේ දී පොලීසියෙන් ලබාදුන් රුපියල් මිලියනයක වන්දිය පිළිබඳ මියගිය රොෂාන්ගේ බිරිඳ ද මෙලෙස සිය විරෝධය පළ කර ඇත.
+
+ඇය පවසා ඇත්තේ සිය සැමියා වෙනුවෙන් සාධාරණයක් ඉටු කරනවා නම් එය ලිඛිතව තමාට ලබා දිය යුතු බවය.
+
+සිය සැමියාගේ ජීවිතය මිල කළ නොහැකි බවත් සිය දරුවන් වෙනුවෙන් හෝ සාධාරණයක් ඉටු කරන ලෙසටද ඇය එහිදී ඉල්ලා සිට ඇත.
+
+මේ අතර සිද්ධිය සම්බන්ධයෙන් පොලීසියට විරෝධය පළ කරමින් පිරිසක් අද (21) පෙරවරුව් නාරම්ල නගරයේදී විරෝධතාවක නිරත විය.
+
+නාරම්මල, රන්මුතුගලදී ලොරි රථය පරීක්ෂා කළ පොලිස් නිලධාරියාගේ ගිනි අවියක් ක්‍රියාත්මක වීමෙන් තිදරු පියෙකු වූ 41 හැවිරිදි රොෂාන් කුමාරතිලක ට දිවි අහිමිවුයේ පසුගිය 18වනදාය.
+
+...
+
+[Data](articles/dd94afdd.json)
 
 ---
 
@@ -74,85 +186,97 @@ Matara Chief Magistrate Anuruddha Buddhadasa has ordered the security of the mag
 
 ---
 
-### அணி­சேரா தலை­மை­யி­லி­ருந்து அமெ­ரிக்க -இஸ்ரேல் போர் வெறி­யர்­க­ளுடன் அணி­சேர்தல் வரை இலங்கை
+### Sri Lanka to the United States -Israeli War fanatics
 
 *2024-01-21 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174476) · `ta`
 
-1986ஆம் ஆண்டு இஸ்ரேலிய ஜனாதிபதி சாய்ம் ஹெர்சாக் இலங்கைக்கு உத்தியோகபூர்வ விஜயம் ஒன்றை மேற்கொண்டிருந்தார். ஜனாதிபதி ரணசிங்க பிரேமதாச 1990 ஏப்ரல் 20 இல் கொழும்பில் உள்ள இஸ்ரேலிய நலன்புரிப் பிரிவை மூடிவிட்டு இஸ்ரேலுடனான இராஜதந்திர உறவுகளை துண்டித்தார். 2000ஆம் ஆண்டு ஜுன் மாதத்தில் இரு நாடுகளுக்கும் இடையிலான இராஜதந்திர உறவுகள் மீண்டும் தொடங்கப்பட்டன.
+In 1986, Israeli President Sain Hersak made an official visit to Sri Lanka. President Ranasinghe Premadasa closed the Israeli welfare unit in Colombo on April 20, 1990 and cut off diplomatic relations with Israel. In June 2000, diplomatic relations between the two countries were resumed.
 
-பலஸ்தீன மக்களாதரவுக்கான இலங்கைக் குழுவின் தலைவராக ஜனாதிபதி மஹிந்த ராஜபக் ஷ, 1975 ஆம் ஆண்டு முதல் இருந்த போதிலும் இஸ்ரேலுடனான இலங்கையின் உறவுகள் தொடர்ந்தும் வளர்ச்சியடைந்தன. இவ்விரு நாடுகளுக்கும் இடையிலான இடைத்தொடர்புகளின் உச்சகட்ட நிகழ்வாக ஜனாதிபதி மஹிந்த ராஜபக் ஷ, 2014 ஜனவரி மாதம் மேற்கொண்ட இஸ்ரேலுக்கான இரண்டு நாள் விஜயத்தினைக் குறிப்பிடலாம்.
+President Mahinda Rajapaksa Shah as Chairman of the Palestinian People's Council has continued to grow in Sri Lanka's relations with Israel since 1975. President Mahinda Rajapaksa Shah, a two -day visit to Israel in January 2014, is the culmination of the intercourse between the two countries.
 
 ◼️
 
 [Data](articles/b1762792.json)
 
+[Extended Data](ext_articles/b1762792.ext.json)
+
 ---
 
-### இலட்­ச­து­வீப சர்ச்­சைக்குள் எக்ஸ்: அர­சி­யலைத் தாண்டி ராஜதந்­தி­ர­த்­தையும் தீர்­மா­னிக்கும் சக்­தி­யாக சமூக வலை­தளம்
+### Social Web Site as the force that determines diplomacy beyond politics
 
 *2024-01-21 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/174477) · `ta`
 
-மாலைதீவுகளை பழிவாங்க நினைக்கும் இந்தியர்களின் ஆசைகளுக்காக  அபிவிருத்தி என்ற பெயரில் இலட்ச துவீப மக்களின் வாழ்க்கையை அடமானம் வைக்க முடியுமா?
+Is it possible to mortgage the lives of millions of people in the name of development for the desires of Indians who seek revenge on the Maldives?
 
-சமூக வலைதளங்களின் ஊடாக பரப்பப் படும் கருத்துக்களை அடிப்படை யாகக் கொண்ட அரசியலும், இராஜதந்திரமும் தீர்மானிக்கப்படும் சமகால உலகில், இந்த மக்கள் வெற்றி பெற முடியாது.
+In the contemporary world where politics and diplomacy are determined by the basis for the ideas that are spread through social networks, these people cannot succeed.
 
-ஏனெனில், இந்தியர்கள், மாலைதீவு மக்கள் அளவிற்கு சமூக வலைதளங்களில் செல்வாக்கு செலுத்தக்கூடிய எண்ணிக்கையும், ஆற்றல்களும் இலட்ச தீவு மக்களுக்கு கிடையாது.
+This is because Indians and the Maldives do not have the number of influential numbers and energy on social networks.
 
-இந்த மக்களின் பிரச்சினையை இணையம் என்ற கண்ணாடி தாண்டி, யதார்த்தமான முறையில் பார்ப்பது காலத்தின் கட்டாய மாகிறது.
+It is imperative to see the problem of these people beyond the mirror of the Internet.
 
 ◼️
 
 [Data](articles/2beb2ad6.json)
 
+[Extended Data](ext_articles/2beb2ad6.ext.json)
+
 ---
 
-### இடம்பெறவுள்ள தேர்தல் நாட்டை பாதுகாக்க கிடைத்த இறுதி சந்தர்ப்பம் : மிஹிந்தலை மகாநாயக்க தேரர்
+### The final opportunity to protect the election country
 
 *2024-01-21 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174478) · `ta`
 
-அடுத்துவரும் தேர்தல் நாட்டை பாதுகாத்துக்கொள்ள கிடைத்த இறுதி சந்தர்ப்பமாகும். அதனால் அரசியல் வாதிகளிடம் தொடர்ந்து ஏமாறாமல் உண்மையாக சேவை செய்யக்கூடிய சிலரை தெரிவு செய்து நாட்டை கட்டியெழுப்ப தயாராக வேண்டும்.
+It is the final opportunity to protect the next election country. So the politicians should be prepared to select some people who can serve truely and build the country.
 
-அத்துடன் இந்த நாட்டை ஆட்சி செய்த அனைத்து அரசியல் கட்சிகளும் விடுதலைப்புலிகளுக்கு சமமானவர்களாகும் என மிஹிந்தலை மகாநாயக்க தேரர்  வளவாஹெங்குணவெவே தம்மரத்ன தெரிவித்தார்.
+All the political parties that ruled the country are equivalent to the LTTE, said Mihintale Mahanayaka Thera Valawahengunawewawewawe Tammaratne.
 
-நாட்டை ஆட்சி செய்யப்போரவர் யார் என்பது எமக்கு முக்கியம் இல்லை. அதேபோன்று எந்த கட்சி ஆட்சி செய்யப்போகிறது என்பதும் எமக்கு தேவையில்லை.
+It doesn't matter to us who is the ruler of the country. We don't need which party is going to rule.
 
-எமது நாடே எமக்கு முக்கியம். அதனால் தற்போது எங்களுக்கு கதைத்துக்கொண்டிருக்க நேரம் இல்லை. அதேபோன்று போராட்டம் செய்யவோ ஹர்த்தால் மேற்கொள்ளவோ எமக்கு தேவையில்லை.
+Our country is important to us. So we don't have time to talk to us at present. We don't need to fight or carry out hartal.
 
-தற்போது எமக்கு தேவையாக இருப்பது,  சிறந்த சிந்தனையும் இலக்கும் உள்ள இளைஞர்களாகும். நூற்றுக்கு ஆயிரம் இன்று ஆட்சியாளர்கள் மக்கள் பக்கம் இல்லை. அதனால்தான் ஆட்சியாளர்கள் கிராமங்களுக்கு செல்லும்போது அந்த பிரதேச மக்கள் அவர்களை விரட்டுகின்றார்கள்.
+We need you now, you are young people who have the best thought and. One hundred and a thousand rulers are not on the people's side. That is why when the rulers go to the villages, the people of the area are chasing them.
+
+So we can build our country. We need young people who can work real, work for that. They must come forward.
 
 ...
 
 [Data](articles/2fe5dc36.json)
 
+[Extended Data](ext_articles/2fe5dc36.ext.json)
+
 ---
 
-### மஹிந்த வஜிர இரகசிய பேச்சு
+### Mahinda Vajira Secret Talk
 
 *2024-01-21 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174475) · `ta`
 
-இந்த தகவல்கள் ஐக்கிய மக்கள் சக்தியின் உறுப்பினர்களான நளின் பண்டார, எஸ்.எம்.மரிக்கார் உள்ளிட்டவர்களால் புனை­யப்பட்டு பரப்படுவதாக ஐக்கிய தேசியக் கட்சி­­யின் முக்கியஸ்தர் ஒருவர் தெரிவிக்­கின­­் றார். எது எவ்வாறாயினும், ஜனாதிபதி ரணில் விக்­கிரமசிங்க நாடு திரும்பியதும், தான் அறி­விப்புக்கள் வெளியாகும் என்பது ஒருபுற­மிருக்கையில் ஒன்பதாவது பாராளுமன்றத்தின் நான்காவது கூட்டத்தொடர் எதிர்வரும் 24ஆம் திகதியுடன் முடிவுக்கு கொண்டுவரப்பட­வுள்ள­­தாக சபாநாயகர் மஹிந்த யாப்பா அறி­ வித்துள்ளதோடு புதிய கூட்டத்தொடர் பெப்ர­­வரி 7ஆம் திகதி ஆரம்பமாகவுள்ளமை குறிப்­பிடத்­தக்கது.
+The information is being spread by members of the United People's Power, including Nalin Bandara and SM Marikar, a UNP chief said. However, when President Ranil Wickremesinghe returns to the country, the fourth session of the ninth parliament will be concluded on the 24th of this month and the new session will commence on February 7.
 
 ◼️
 
 [Data](articles/bd7c429f.json)
 
+[Extended Data](ext_articles/bd7c429f.ext.json)
+
 ---
 
-### நீலக்கடல் கடற்படைக் கனவு
+### Blue ocean
 
 *2024-01-21 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/174471) · `ta`
 
-செங்கடலில் கடற்படைக் கப்பலை நிலை நிறுத்தும் அரசியல் முடிவுக்குப் பின்னால் பெரியதொரு பொருளாதாரச் சுமையும் காத்திருக்கிறது.
+There is also a huge economic burden behind the political decision to establish a naval ship in the Red Sea.
 
-அத்தகைய சுமைகளைத் தாங்கக் கூடிய நிலையில் நாடு இருக்கிறதா என்ற கேள்வியே இப்போது பரவலாக எழுகிறது.
+The question of whether the country is in a position to withstand such burdens is now widespread.
 
-இவற்றுக்குத் தீர்வை எட்டிய பின்னர் சர்வதேச கடலுக்குச் செல்லாம், நீலக்கடல் கடற்படை கனவை நனவாக்கலாம் என்பதே கர்தினால் போன்றோரின் வாதமாக உள்ளது.
+Cardinal's argument is that after the solution to this, the International Sea may not go to the international sea and make the blue sea dream come true.
 
-முதலில் கூரையில் ஏறிக் கோழியைப் பிடியுங்கள், பிறகு வானத்தில் ஏறி வைகுண்டத்துக்குப் போகலாம் என்ற தொனியில் அவர், வெளியிட்டுள்ள கருத்து நியாயமற்றது என கூற முடியாது.
+In the process of climbing the roof first and then going to Vaikundam, he said, "It is not fair."
 
 ◼️
 
 [Data](articles/636de718.json)
+
+[Extended Data](ext_articles/636de718.ext.json)
 
 ---
 
@@ -216,21 +340,23 @@ During the ceremony, the first batch of 197 passports was handed over to the res
 
 ---
 
-### පෑලියගොඩට ආපු මාලු  එළවළු මිල බස්සවයි
+### Fish to Peliyagoda bandels prices
 
 *2024-01-21 20:37:46* · [`adalk`](https://www.ada.lk/breaking_news/පෑලියගොඩට-ආපු-මාලු--එළවළු-මිල-බස්සවයි/11-407652) · `si`
 
-“දින පහක් ඇතුළත සියයට හතළිහක් පනහක් හතර මිලකට එකවරම එළවළු මිල අඩු වුණේ පැහැලියගොඩ මාළු  වෙළඳසැලේ මාළු මිල අඩු වුන නිසා පාරිභෝගිකයන් මාළු කන්න හුරුවීම හා එළවළු කෑම ප්‍රතික්ෂේප කිරීමත් එක්ක එළවළු නාස්තිවීම අවම කරන්න කටයුතු කිරීමක් වශයෙන් එළවළු මිල අඩුවුණා” යැයි නුවරඑළිය විශේෂිතආර්ථික මධ්‍යස්ථායේ සභාපති අරුණ ශාන්ත හෙට්ටිආරච්චිමහතා පැවසිය.
+"Fifty-five percent of five percent of five percent in five days, the fish prices at the Pinliugoda FisherHettiarachchi said.
 
-අරුණ ශාන්ත හෙට්ටිආරච්චිමහතා ඒ බැව් කියා සිටියේ (21) දිනනුවරඑළිය විශේෂිතආර්ථික මධ්‍යස්ථානයේදී විශේෂ මාධ්‍ය හමුවක් පවත්වමිනි.
+Aruna Shantha Hettia Uthance holds a special media briefing at the Diniyanayaka Specialized Center.
 
-"අද එළවළු ගැනුම් තොග මිල පවතින්නේගෝවා කිලෝව රුපියල් 450 - 470 , කැරට් කිලෝවරුපියල්  900 - 950 , ලීක්ස්කිලෝව රුපියල් 340 -360 , බීට්‍ රූට්කිලෝව රුපියල්  400 - 420 , කට් බීට් රූට්කිලෝව රුපියල් 500 -520 , අර්තාපල්කිලෝව රුපියල්  300 – 32යි.
+"Today's vegetable bulk is Rs 450 - 470, carrots kilogram of Rs.
 
-රජයෙන් කටයුතු කරනවා නම් එළවළු පිටරටින් ගෙන්නන්නඩඒකට විරුද්ධව මුලින්ම පාරට බහින්නේ ගොවියෝ ටිකත් එකතු කරගෙන ආර්ථික මධ්‍යස්ථානවල නිලධාරීන් ව්‍යාපාරිකයන් හා අපියි."
+If the government acts the government, the farmers are first gathered to the streets and collect the farmers and we will be businessmen in economic centers. "
 
 ◼️
 
 [Data](articles/356e1c22.json)
+
+[Extended Data](ext_articles/356e1c22.ext.json)
 
 ---
 
@@ -1971,103 +2097,5 @@ However, he ordered to be used as usual in spite of the reproof of the warnings.
 [Data](articles/c0c57f50.json)
 
 [Extended Data](ext_articles/c0c57f50.ext.json)
-
----
-
-### Minister to explain egg prices
-
-*2024-01-21 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192387) · `si`
-
-Minister of Trade Nalin Fernando says that the price of an imported Indian egg will be increased by Rs.
-
-Accordingly, the imported egg sold by the Sathosa is sold at Rs. 43.
-
-Speaking to the media in the Gampaha area, he said this.
-
-The Minister stressed that there was no shortage of egg deficit in the market.
-
-◼️
-
-[Data](articles/bbd4503d.json)
-
-[Extended Data](ext_articles/bbd4503d.ext.json)
-
----
-
-### Person claiming to be ‘Vishwa Buddha’ arrested by CID
-
-*2024-01-21 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96591/person-claiming-to-be-vishwa-buddha-arrested-by-cid) · `en`
-
-The Criminal Investigations Department (CID) has arrested a person in robes claiming to be ‘Vishwa Buddha’.
-
-According to police, the robed suspect, who was arrested in Kalagedihena, had allegedly issued statements demeaning Buddhism.
-
-◼️
-
-[Data](articles/0c0d65af.json)
-
-[Extended Data](ext_articles/0c0d65af.ext.json)
-
----
-
-### Arrested 987 in 24 hours
-
-*2024-01-21 11:20:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணிநேரத்தில்-987-பேர்-கைது/175-331877) · `ta`
-
-The Public Security Ministry said that 987 suspects have been arrested during a nationwide strategy in the last 24 hours.
-
-They said 663 suspects have been arrested in connection with drug offenses and 324 suspects have been arrested from the list of policemen in charge of the police station.
-
-Of the 638 suspects arrested in connection with drug offenses, 12 have been detained and interrogated, and 14 addicts have been recommended for rehabilitation.
-
-Meanwhile, 14 suspects have been arrested on the search list of the Police Drug Eradication Unit and the Special Bureau of Police.
-
-In addition, 90 out of the 324 suspects arrested to the Criminal Investigation Division are pending and 222 are pending over non -drug crimes.
-
-◼️
-
-[Data](articles/2ab261e0.json)
-
-[Extended Data](ext_articles/2ab261e0.ext.json)
-
----
-
-### Three persons arrested for assaulting the expert
-
-*2024-01-21 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192386) · `si`
-
-The Galle Police have arrested two employees and employees who have been arrested by the Krishantha Perera, who has been assaulted by Dr. Krishantha Perera in charge of the Karapitiya Teaching Hospital.
-
-The arrest was carried out on the 17th in the investigation carried out by the relevant doctor on the 17th, the police spokesman's office said that the arrest has been made.
-
-The arrested were 52-year-old health assistants and two-year-old and 43 year old health supporters.
-
-The doctor had taken place between the Barcitiya Hospital Cancer staff and specialist Dr. Krishantha Perera in charge of the unit in charge of the unit of the health workers held on the 16th..
-
-Meanwhile, a junior staff worker was hospitalized after the doctor was assaulted by the doctor at the time.
-
-◼️
-
-[Data](articles/2d976161.json)
-
-[Extended Data](ext_articles/2d976161.ext.json)
-
----
-
-### NAM calls Israel’s war in Gaza illegal and condemns attacks on Palestinians
-
-*2024-01-21 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96590/nam-calls-israels-war-in-gaza-illegal-and-condemns-attacks-on-palestinians) · `en`
-
-Heads of states of the Non-Aligned Movement Saturday called Israel’s military campaign in the Gaza Strip “illegal” and strongly condemned indiscriminate attacks against Palestinian civilians, civilian infrastructure and the forced displacement of the Palestinian population.
-
-While calling for a ceasefire desperately needed for humanitarian aid to access the Gaza Strip, the movement in a joint statement called for a two-state solution, on the basis of the borders before 1967, when Israel seized Gaza, the West Bank and East Jerusalem in a brief war with neighboring Arab states.
-
-The group also reiterated support for a Palestinian state to be admitted as a member of the United Nations to take its rightful place among the community of nations.
-
-...
-
-[Data](articles/69238a9f.json)
-
-[Extended Data](ext_articles/69238a9f.ext.json)
 
 ---

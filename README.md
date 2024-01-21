@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 13:02:22**
+As of **2024-01-21 13:17:20**
 
 ## Newspaper Stats
 
-*Scraped **1,547** Articles*
+*Scraped **1,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dbsjeyarajcom | 118
 virakesarilk | 132
 dailyftlk | 150
 adalk | 168
-dailymirrorlk | 172
+dailymirrorlk | 178
 tamilmirrorlk | 194
 adaderanalk | 195
 
@@ -26,11 +26,47 @@ adaderanalk | 195
 
 Extensions include translations and NER (Named Entity Recognition).
 
-777 (50.2%) of 1,547 articles have been extended.
+790 (50.9%) of 1,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### Price of imported eggs to go up by Rs. 8 from today: Minister
+
+*2024-01-21 12:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Price-of-imported-eggs-to-go-up-by-Rs-8-from-today-Minister/108-275429) · `en`
+
+Colombo, Jan. 21 (Daily Mirror)- The price of an imported egg was increased by Rs. 8 from today due to the increase in VAT and other taxes, Trade, Commerce and Food Security Minister Nalin Fernando said.
+
+He told reporters that an imported egg will now be sold at Rs. 43 each at all Sathosa outlets from today.
+
+◼️
+
+[Data](articles/8214b325.json)
+
+---
+
+### Peru president grabbed by protester at public event
+
+*2024-01-21 12:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Peru-president-grabbed-by-protester-at-public-event/107-275428) · `en`
+
+Ayacucho , Jan 11 9AFP) - A protester violently grabbed Peruvian President Dina Boluarte on Saturday during an event in the southern Ayacucho region, where 10 people were killed in mass anti-government demonstrations more than a year ago.
+
+TV footage of the assault showed Boluarte in traditional clothing surrounded by a crowd of people as she throws out candy, when a shouting woman approaches and grabs the president.
+
+A chaotic scene ensues as police intervene to separate the woman, with Boluarte seemingly uninjured and rejoining the event.
+
+The woman said she held Boluarte responsible for the death of her husband during the December 2022 protests in Ayacucho.
+
+Boluarte, 61, came to power that month after former leftist president Pedro Castillo tried to dissolve Congress and rule by decree, leading to his quick ouster and arrest.
+
+Violent protests demanding Boluarte step down and fresh elections be held followed across the country.
+
+...
+
+[Data](articles/9a65adc1.json)
+
+---
 
 ### Prices of imported eggs to go up from today
 
@@ -51,6 +87,60 @@ Sri Lanka began to import eggs in the first half of 2023, amidst a severe shorta
 [Data](articles/f958aaf3.json)
 
 [Extended Data](ext_articles/f958aaf3.ext.json)
+
+---
+
+### Will refrain from operating buses from tomorrow if fine sheets issued to bus owners: Gemunu
+
+*2024-01-21 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-refrain-from-operating-buses-from-tomorrow-if-fine-sheets-issued-to-bus-owners-Gemunu/108-275426) · `en`
+
+Colombo, Jan 21 (Daily Mirror) - police implement the action of sending fine sheets to bus owners based on CCTV footage from tomorrow, the Lanka Private Bus Owners' Association (LPBOA) said they will refrain from operating buses from tomorrow.
+
+LPBOA chairman Gemunu Wijeratna said the police have planned to send fine sheets based on CCTV footage from tomorrow.
+
+Addressing the media he said that it is unfair to send the fine sheets related to the mistakes of the buses to the owner of the bus.
+
+He said police have taken the decision without having any discussions with the bus association.
+
+It is unfair to send the fine sheets related to the mistakes of the buses to the owner of the bus, Wijerathna said.
+
+He further said that the bus owners will agree to this proposal if the bus priority lane is implemented and proper arrangements are made for operating buses.
+
+◼️
+
+[Data](articles/2bb30043.json)
+
+---
+
+### SLOA launches College of Optometry
+
+*2024-01-21 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/SLOA-launches-College-of-Optometry/110-275425) · `en`
+
+The Sri Lanka Optometric Association (SLOA) inaugurated a new division, the College of Optometry and Vision Science today. Hiran Perera, Chairman of the SLOA, presided as the chief guest for the event. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/bf00458c.json)
+
+---
+
+### Controversial monk ’Vishwa Buddha’ arrested again by CID
+
+*2024-01-21 12:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Controversial-monk-Vishwa-Buddha-arrested-again-by-CID/108-275424) · `en`
+
+Gampaha, Jan 21 (Daily Mirror) - The Criminal Investigation Department (CID) once again arrested the saffron-robed monk who identifies himself as ‘Vishwa Buddha,’ in Kalagedihena.
+
+In December of last year, the CID's cybercrimes unit arrested the monk for allegedly insulting Buddhism on social media and he was remanded after being produced before court. Later he was released on bail by Colombo Chief Magistrate Prasanna Alwis on January 9.
+
+Known for his controversial online presence, 'Vishwa Buddha' had posted videos on various social media platforms containing content deemed offensive to Buddhism.  Police said he was arrested in response to numerous complaints.
+
+Earlier, a court order had been issued to produce him before court after it was discovered that he had allegedly continued his usual behavior despite court warnings.
+
+The arrested monk will be produced in the Gangodawila Magistrat'es Court.
+
+◼️
+
+[Data](articles/d746eba2.json)
 
 ---
 
@@ -93,6 +183,26 @@ The hospital’s authorities had brought the situation under control, however, a
 [Data](articles/50ff176b.json)
 
 [Extended Data](ext_articles/50ff176b.ext.json)
+
+---
+
+### President holds meeting with Ugandan counterpart
+
+*2024-01-21 11:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-holds-meeting-with-Ugandan-counterpart/108-275427) · `en`
+
+Uganda, Jan. 21 (Daily Mirror)- President Ranil Wickremesinghe engaged in a formal meeting with Ugandan President Yoweri Museveni yesterday afternoon (20), the President's Media Division (PMD) said.
+
+President Museveni warmly welcomed  President Wickremesinghe, and following a friendly exchange, bilateral discussions commenced, the PMD said.
+
+During the meeting, President Yoweri Museveni lauded President Wickremesinghe's significant role in revitalizing Sri Lanka's economy.
+
+President Museveni commended the nation for its achievements in this regard.
+
+"The leaders delved into discussions about Sri Lanka's new economic programme, with President Ranil Wickremesinghe highlighting the positive economic trajectory since entering into an agreement with the International Monetary Fund. He emphasized on the anticipated growth in 2024," the PMD said.
+
+◼️
+
+[Data](articles/5cc6732f.json)
 
 ---
 
@@ -1971,121 +2081,5 @@ His family members said that at 3.00 pm on the 22nd, the Ambalangoda plantation 
 [Data](articles/d9ab419f.json)
 
 [Extended Data](ext_articles/d9ab419f.ext.json)
-
----
-
-### Four Iranian military officials killed in attack in Syria
-
-*2024-01-20 17:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174411) · `ta`
-
-◼️
-
-[Data](articles/0d5ffcfc.json)
-
-[Extended Data](ext_articles/0d5ffcfc.ext.json)
-
----
-
-### Sri Lanka signs MoU with Benin on visa exemptions
-
-*2024-01-20 17:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96574/sri-lanka-signs-mou-with-benin-on-visa-exemptions) · `en`
-
-Sri Lanka has signed a Memorandum of Understanding (MoU) with the Republic of Benin on visa exemptions for diplomatic, official and service passport holders.
-
-As per the MoU, the visa exemptions allow for a 30-day stay without a prior visa for the aforementioned categories, the President’s Media Division (PMD) reported.
-
-The agreement was signed by Foreign Affairs Minister Ali Sabry, and his Beninese counterpart Olushegun Adjadi Bakari.
-
-Bilateral discussions were held on Friday (19 Jan.) between President Ranil Wickremesinghe and Vice President of the Republic of Benin Mariam Chabi Talata, on the side lines of the Non-Aligned Movement (NAM) Summit in Kampala, Uganda.
-
-Diplomatic ties between Sri Lanka and the Republic of Benin, established in 2012, took centre stage of the discussions, with a focus on advancing economic and trade connections.
-
-...
-
-[Data](articles/a4390330.json)
-
-[Extended Data](ext_articles/a4390330.ext.json)
-
----
-
-### Navy seized Rs. 1.6 BILLION worth of Heroin in major drug bust on High Seas
-
-*2024-01-20 17:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/navy-seized-rs-1-6-billion-worth-of-heroin-in-major-drug-bust-on-high-seas/) · `en`
-
-COLOMBO (News 1st); The Sri Lanka Navy seized over 65kg of heroin and apprehended 11 suspects during a special operation conducted about 100 nautical miles off Dondra Head, in southern Sri Lankan waters.
-
-The operation, carried out on January 19th, also led to the seizure of two fishing trawlers suspected of being involved in the smuggling racket.
-
-The operation was a joint effort by the Sri Lanka Navy and Police Narcotics Bureau, along with intelligence services. Acting on a tip, a naval ship intercepted a suspicious local fishing trawler in southern waters. A subsequent search of the vessel led to the discovery of three sacks stuffed with heroin weighing over 65kg. Five suspects were arrested onboard the drug-carrying trawler.
-
-...
-
-[Data](articles/29f4f602.json)
-
-[Extended Data](ext_articles/29f4f602.ext.json)
-
----
-
-### Sajith urges Speaker to postpone parliamentary debate on Online Safety Bill
-
-*2024-01-20 17:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96573/sajith-urges-speaker-to-postpone-parliamentary-debate-on-online-safety-bill) · `en`
-
-Opposition Leader Sajith Premadasa has written to Speaker Mahinda Yapa Abeywardena urging the postponement of the upcoming parliamentary debate on the Online Safety Bill.
-
-The Second Reading of the Online Safety Bill is scheduled for January 23 and 24, as per a decision taken by the Committee on Parliamentary Business earlier this month.
-
-In his letter, Premadasa pointed out that, if passed, the Bill would permit the proposed Online Safety Commission and the minister in charge of the subject to exercise unlimited powers, restricting the people’s right to freedom of speech and expression.
-
-In other countries of the world, adequate time and an opportunity to create wide public space are given before bringing forth such Bills, the opposition leader said, alleging that the government has not followed such process when presenting the Online Safety Bill.
-
-Instead of protecting the victims of online harassment, this Bill will only serve political interests, Premadasa said further.
-
-...
-
-[Data](articles/426f171c.json)
-
-[Extended Data](ext_articles/426f171c.ext.json)
-
----
-
-### Rate of tracks railway risks
-
-*2024-01-20 17:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192363) · `si`
-
-The Railway Department says that 110 train deals have taken place in 2023.
-
-The department stated that 57 railway lines had taken place while 53 derails had taken place in yards.
-
-There were 26 dealers on the Upcountry Railway Line and six dealers were taken in October and December.
-
-Meanwhile, Minister of Transport and Highways Bandula Gunawardena stated,
-
-"The tracks will be left. Derailway track on the coastal railway line should be transferred to 5 years. It digests the seawater. The tracks are not being built in Sri Lanka. Need to import. The government cannot allocate money to import. Can't take one bus without foreign debt. The Railway Department has lost more than 10 billion per year. The Asian Development Bank has taken a loan and the deposit has now landed. Those tracks are carrying out. "
-
-...
-
-[Data](articles/fa186e07.json)
-
-[Extended Data](ext_articles/fa186e07.ext.json)
-
----
-
-### Immunization programme for children who missed MMR dose
-
-*2024-01-20 16:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Immunization-programme-for-children-who-missed-MMR-dose/108-275417) · `en`
-
-Colombo, Jan 20 (Daily Mirror) -  The Epidemiology Unit of the Health Ministry is conducting the Measles-Mumps-Rubella (MMR) Catch-up Immunization Programme across the island on January 20 and 21, targeting children aged between 9 months and 15 years.
-
-Globally and regionally, the recent COVID-19 pandemic has led to a decline in measles vaccination rates, resulting in a notable increase in measles cases.
-
-Compounding this challenge, Sri Lanka has been grappling with an imported measles outbreak since May 2023, with cases predominantly reported among vaccine refusal communities and partially vaccinated individuals (aged 9 months to 3 years).
-
-In response, the Epidemiology Unit initiated a nationwide MMR Catch-up Immunization Programme on January 6, specifically focusing on children who had missed their routine MMR vaccinations. The programme aims to ensure that children aged 9 months to 15 years have the opportunity to receive any missed routine MMR vaccinations.
-
-...
-
-[Data](articles/68fc4b99.json)
-
-[Extended Data](ext_articles/68fc4b99.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 12:48:59**
+As of **2024-01-21 13:02:22**
 
 ## Newspaper Stats
 
-*Scraped **1,546** Articles*
+*Scraped **1,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,39 @@ dailyftlk | 150
 adalk | 168
 dailymirrorlk | 172
 tamilmirrorlk | 194
-adaderanalk | 194
+adaderanalk | 195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-765 (49.5%) of 1,546 articles have been extended.
+777 (50.2%) of 1,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### Prices of imported eggs to go up from today
+
+*2024-01-21 12:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96594/prices-of-imported-eggs-to-go-up-from-today-) · `en`
+
+Trade Minister Nalin Fernando has announced that the prices of imported eggs will be increased, effective from Sunday (21 Jan.), in view of the increased Value Added Tax (VAT).
+
+Speaking to the media today, Minister Fernando assured that there is no shortage of eggs in the market, and explained that a price hike is being implemented solely due to the increase in VAT.
+
+Accordingly, the prices of eggs imported from India will be increased by Rs. 08, from Rs. 35 to Rs. 43, at all Lanka Sathosa outlets with effect from today.
+
+Imported eggs were previously retailed at Rs. 35 per egg, while a carton was sold at Rs. 40 per egg at all Lanka Sathosa outlets.
+
+Sri Lanka began to import eggs in the first half of 2023, amidst a severe shortage, in response to the soaring prices of eggs within the local market.
+
+◼️
+
+[Data](articles/f958aaf3.json)
+
+[Extended Data](ext_articles/f958aaf3.ext.json)
+
+---
 
 ### Monks Buddhist monk arrests again
 
@@ -496,25 +518,27 @@ Ayodhya City Security has been handed over to the Central Government's Special S
 
 ---
 
-### අභිජනනයට ගෙනා එළුවන් 104ක් මිය ගිහින්
+### 104 goats were killed in breeding
 
 *2024-01-21 09:53:59* · [`adalk`](https://www.ada.lk/breaking_news/අභිජනනයට-ගෙනා-එළුවන්-104ක්-මිය-ගිහින්/11-407638) · `si`
 
-මේ වන විට මෙරට වැසී ඇති ගොවිපොළවල් සංඛ්‍යාව 14000 ඉක්මවන බව කෝපා කමිටුවේදී අනාවරණය වෙයි.
+The Kopy Committee reveals that the number of farms closed in the country is over 14,000.
 
-මිල්කෝ සමාගමට දෛනිකව ලැබුණු කිරි ප්‍රමාණය විශාල වශයෙන් අඩු වෙලා - අමාත්‍ය මහින්ද අමරවීර මහතා
+Milko Low to Milko Low down - Minister Mahinda Amaraweera
 
-දෙපාර්තමේන්තුව සතු දත්ත පද්ධතිය යාවත්කාලීනව පවත්වාගෙන යාමේ වැදගත් කම කමිටුව අවධාරණය කරයි.
+The Committee emphasizes the importance of maintaining the database of the department.
 
-කිරි නිෂ්පාදනය සම්බන්ධයෙන් ජාතික ප්‍රතිපත්තියක් සකස් කිරීමේ ප්‍රගතිය පිළිබඳ අවධානය
+Attention to prepare a national policy on milk production
 
-අභිජනනය සඳහා ඕස්ට්‍රේලියාවෙන් ආනයනය කළ එළුවන්  104ක් මේ වන විට මිය යාම පිළිබඳ අවධානය
+104 goats imported from Australia for breeding
 
-මේ වන විට මෙරට ගොවිපොළවල්  14000  කට වැඩි සංඛ්‍යාවක් වැසී ඇති බවත් මෙය පළාත් වශයෙන් ලැබුණු දත්ත අනුව හඳුනාගෙන ඇති බවත් කෝපා කමිටුවේදී අනාවරණය විය. එසේම  මෙම ගොවිපොළවල් අතරින් බහුතරයක් කුඩා ප්‍රමාණයේ ගොවිපොළවල් බවත් සත්ත්ව සොරකම හේතුවෙන් වැඩි වශයෙන් මෙම ගොවිපොළවල් වැසී යාම සිදුවී ඇති බවත් මෙහිදී නිලධාරීන් පෙන්වා දුන්හ.
+In Sri Lanka, more than 14,000 farms have been closed down in Sri Lanka and that this has been identified as province and has been identified as province.. The officials pointed out that the majority of these farms are small farms and that these farms were closed due to the animal'sft.
 
 ...
 
 [Data](articles/244f9082.json)
+
+[Extended Data](ext_articles/244f9082.ext.json)
 
 ---
 
@@ -2063,33 +2087,5 @@ In response, the Epidemiology Unit initiated a nationwide MMR Catch-up Immunizat
 [Data](articles/68fc4b99.json)
 
 [Extended Data](ext_articles/68fc4b99.ext.json)
-
----
-
-### Japanese 'Moon Sniper' crisis on the moon
-
-*2024-01-20 16:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192362) · `si`
-
-Japan was passed over the Moon Sniper Landland of the moon under the Japanese Moon Star.
-
-Japan's Moon Saniper The rocket carrying the Moon Saniper Landshera was passed in September last year.
-
-Accordingly, Japan was passed yesterday to landing the Moon Saniper Lander successfully.
-
-Foreign reports indicate that the plane was landed on a pigment.
-
-The first time this Japan was landed on the moon, and the fifth country was landed on Japan's moon.
-
-However, the performance of the plane's solar panel system is caused by the electricity cells and the electrical cells will not work.
-
-Accordingly, relations between the earth and the aircraft exists only for a few hours.
-
-It is said that the specific cause of electricity to generate electricity through the solar panels is yet to be revealed, and the plane has not taken this situation due to the landing place.
-
-...
-
-[Data](articles/895695f9.json)
-
-[Extended Data](ext_articles/895695f9.ext.json)
 
 ---

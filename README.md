@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 14:49:50**
+As of **2024-01-21 15:02:31**
 
 ## Newspaper Stats
 
-*Scraped **1,571** Articles*
+*Scraped **1,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,64 @@ bbccomsinhala | 37
 adaderanasinhalalk | 57
 islandlk | 97
 economynextcom | 103
-newsfirstlk | 106
+newsfirstlk | 107
 dbsjeyarajcom | 118
 virakesarilk | 137
 dailyftlk | 150
 adalk | 168
 dailymirrorlk | 180
-tamilmirrorlk | 195
-adaderanalk | 196
+tamilmirrorlk | 197
+adaderanalk | 197
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-863 (54.9%) of 1,571 articles have been extended.
+875 (55.6%) of 1,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### ”தாக்குதலில் உயிரிழந்தவர்கள் புனிதர்களாக அறிவிக்கப்படுவர்”
+
+*2024-01-21 14:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதலில்-உயிரிழந்தவர்கள்-புனிதர்களாக-அறிவிக்கப்படுவர்/175-331895) · `ta`
+
+ஈஸ்டர் ஞாயிறு தாக்குதலில் இறந்தவர்களை புனிதர்களாக கத்தோலிக்க திருச்சபை அறிவிக்க உள்ளதாக கொழும்பு பேராயர் கர்தினால் மால்கம் ரஞ்சித் தெரிவித்துள்ளார்.
+
+கந்தானை புனித செபஸ்டியன் தேவாலயத்தில் நடைபெற்ற ஆராதனையின் போது பேசிய கர்தினால் ரஞ்சித், இந்த ஆண்டு ஏப்ரல் 21 ஆம் திகதி ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதல்களின் ஐந்தாவது ஆண்டு நினைவு தினத்தை நாடு கொண்டாடும் போது இதற்கான முதல் படி எடுக்கப்படும் என்றார்.
+
+"ஏப்ரல் 21, 2019 அன்று தேவாலயங்களில் இறந்தவர்கள் தாங்கள் நம்பியதற்காக தங்கள் வாழ்க்கையை தியாகம் செய்தனர். அன்று அவர்கள் கிறிஸ்துவை நம்பியதால் தேவாலயத்திற்கு வந்தனர். மற்ற புனிதர்களைப் போல கிறிஸ்துவை நேசித்ததால் அவர்கள் தங்கள் வாழ்க்கையை தியாகம் செய்தனர்," என்று அவர் கூறினார்.
+
+"ஒருவர் தியாகம் செய்து ஐந்து ஆண்டுகள் நிறைவடைந்த பின்னரே அவரை புனிதர் என்று பெயரிட முடியும். எனவே, ஈஸ்டர் ஞாயிறு பாதிக்கப்பட்டவர்களை இந்த ஆண்டு ஏப்ரல் 21 ஆம் திகதி புனிதர்களாக அறிவிப்பதை முன்னோக்கி நகர்வோம்" என்று அவர் மேலும் கூறினார்.
+
+...
+
+[Data](articles/a1d559f2.json)
+
+---
+
+### நாளை முதல் பேருந்துகள் இயங்காது;LPBOA தலைவர்
+
+*2024-01-21 14:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-பேருந்துகள்-இயங்காது-LPBOA-தலைவர்/175-331894) · `ta`
+
+சிசிடிவி காட்சிகளின் அடிப்படையில் பேருந்து உரிமையாளர்களுக்கு அபராதத் தாள்களை கொடுக்கும் நடவடிக்கையை நாளை முதல் பொலிஸார் அமுல்படுத்தவுள்ள நிலையில்,  நாளை முதல் பேருந்து இயக்கத்தை தவிர்க்கவுள்ளதாக இலங்கை தனியார் பேருந்து உரிமையாளர்கள் சங்கம் (LPBOA) தெரிவித்துள்ளது.
+
+சிசிடிவி காட்சிகளின் அடிப்படையில் அபராதத் தாள்களை நாளை முதல் அனுப்ப பொலிஸார் திட்டமிட்டுள்ளதாக LPBOA தலைவர் கெமுனு விஜேரத்ன தெரிவித்துள்ளார்.
+
+இதன்போது ஊடகங்களுக்கு கருத்து தெரிவித்த அவர், பேருந்துகளின் தவறுகள் தொடர்பான அபராதத் தாள்களை பேருந்தின் உரிமையாளருக்கு அனுப்பி வைப்பது நியாயமற்றது.
+
+பஸ் சங்கத்துடன் எவ்வித கலந்துரையாடலும் இன்றி பொலிஸார் இந்த தீர்மானத்தை எடுத்துள்ளனர் என்றார்.
+
+பேருந்துகளின் தவறுகள் தொடர்பான அபராதத் தாள்களை பேருந்தின் உரிமையாளருக்கு அனுப்புவது நியாயமற்றது என விஜேரத்ன தெரிவித்துள்ளார்.
+
+மேலும், பேருந்து முன்னுரிமைப் பாதையை நடைமுறைப்படுத்தி, பேருந்துகளை இயக்க முறையான ஏற்பாடுகள் செய்யப்பட்டால், பேருந்து உரிமையாளர்கள் இந்த முன்மொழிவுக்கு இணங்குவார்கள் என்றார்.
+
+◼️
+
+[Data](articles/3997cd41.json)
+
+---
 
 ### Catholic Church to declare those who died in Easter Sunday attacks as saints
 
@@ -69,6 +109,38 @@ Members of MPs, MA Sumanthiran, S. Sridhiran and Syashwaran had been elected to 
 [Data](articles/b549c231.json)
 
 [Extended Data](ext_articles/b549c231.ext.json)
+
+---
+
+### S. Shritharan elected leader of ITAK
+
+*2024-01-21 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96597/s-shritharan-elected-leader-of-itak) · `en`
+
+Jaffna District Parliamentarian S. Shritharan has been elected as the leader of the Ilankai Tamil Arasu Kachchi (ITAK) at the party election held today (21), Ada Derana reporter confirmed.
+
+Mavai Senathirajah had previously served as leader of ITAK, which is a constituent party of the Tamil National Alliance (TNA).
+
+Sivagnanam Shritharan contested the 2010 parliamentary election as one of the Tamil National Alliance electoral alliance’s candidates in Jaffna District and was elected to the Parliament. He was re-elected at the 2015 and 2020 parliamentary elections.
+
+◼️
+
+[Data](articles/e74c3833.json)
+
+---
+
+### S. Sridharan elected leader of Illankai Tamil Arasu Kadchi
+
+*2024-01-21 13:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/s-sridharan-elected-leader-of-illankai-tamil-arasu-kadchi/) · `en`
+
+COLOMBO (News 1st); S. Sridharan has been elected as the Leader of the Ilankai Thamil Arasu Kachchi after securing majority votes.
+
+The secret ballot to elect the leader of the Ilangei Tamil Arasu Katchi Party was held this morning at the Trincomalee Municipal Council Hall.
+
+Members of Parliament, President's Counsel M.A. Sumanthiran, S. Sreedharan and former MP Sinithambi Yogeswaran contested for the leadership of the party.
+
+◼️
+
+[Data](articles/5b1105b8.json)
 
 ---
 
@@ -2003,91 +2075,5 @@ They further raised concerns that the proposed Bill is slated to be presented in
 [Data](articles/f413a863.json)
 
 [Extended Data](ext_articles/f413a863.ext.json)
-
----
-
-### 12 years sentence for boys who saw the film - shock
-
-*2024-01-20 20:37:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/படம்-பார்த்த-சிறுவர்களுக்கு-12-ஆண்டுகள்-தண்டனை-அதிர்ச்சி/50-331850) · `ta`
-
-The North Korean government's imposition of the North Korean government has been shocked by the imposition of the 12-year-old work for 2 children for the crime of seeing South Korea's K-Pop songs.
-
-South Korean pop music has been shocked by the release of two boys under 16 years of age for enjoying cinema. In the video, 2 boys dressed in brown dressed in an open space are brought in their hands.
-
-1000 boys sit in that hall. They are all wearing mask. This is what the video may have been taken during the Corona period.
-
-They have been sentenced to the claim that they both destroyed life because they were attracted by foreign culture. The North Korean government has sentenced the two boys to work for 12 years. This event has shocked internationally. The families of the two boys are said to have been evicted from Pyongyang.
-
-North Korea has been in touch with South Korea for many years and has a tendency to punish their own people. In 2020, a special law was introduced.
-
-...
-
-[Data](articles/446191f9.json)
-
-[Extended Data](ext_articles/446191f9.ext.json)
-
----
-
-### Interest on electricity consumers to the loans of the CEB
-
-*2024-01-20 20:30:38* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-සේවකයන්ගේ-ණයවලට-පොලිය-විදුලි-පාරිභෝගිකයන්ගෙන්-අයකරගෙන/11-407633) · `si`
-
-The CEB is paying two-thirds of the interest rates obtained by the CEB and the CEB is charged by the Electricity and Energy Kanchan Wijese.
-
-He also said that the data has been reported on information received by the CEB employees and the information they have obtained in connection with the financing of the CEB and the CEB.
-
-According to the CEB workers, the CEB employees have received about Rs.
-
-He says that the money of the funds of the CEB employees have been recovered from the electricity bills of the public and advised the management of the Electricity Board to create a methodology to recover them from creditors.
-
-He also instructed the services that can be made to the outside partners to increase efficiency increasing the cost.
-
-◼️
-
-[Data](articles/f9b983b8.json)
-
-[Extended Data](ext_articles/f9b983b8.ext.json)
-
----
-
-### Public opinions before revision of electricity tariffs
-
-*2024-01-20 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192368) · `si`
-
-The Public Utilities Commission is to meet the next Monday to discuss the electricity tariff revision.
-
-The proposal of the tariff amendments was recently handed over to the Ceylon Electricity Board to the Public Utilities Commission.
-
-The proposal will be taken to discuss the proposal and to make public opinion and then the utility commission will also add their ideas.
-
-The proposal will be made public for three weeks.
-
-The new proposal will be added to the Ceylon Electricity Board.
-
-Meanwhile, the Ceylon Electricity Board (CEB) stated that action will be revised immediately after the approval of the Public Utilities Commission.
-
-◼️
-
-[Data](articles/6954a5bc.json)
-
-[Extended Data](ext_articles/6954a5bc.ext.json)
-
----
-
-### Oil supply tightens in Europe over Red Sea disruptions
-
-*2024-01-20 20:24:00* · [`islandlk`](http://island.lk/oil-supply-tightens-in-europe-over-red-sea-disruptions/) · `en`
-
-The structure of the global benchmark Brent crude futures market and some physical markets in Europe and Africa have been reflecting tighter supply partly over concerns about shipping delays as vessels avoid the Red Sea due to missile and drone attacks.
-
-The disruptions – which have been the largest to global trade since the COVID-19 pandemic – have combined with other factors such as rising Chinese demand to increase competition for crude supply that does not have to transit the Suez Canal, and analysts say this is most evident in European markets.
-
-In a sign of tighter supply, the market structure of Brent – which is used to price nearly 80 percent of the world’s traded oil – hit its most bullish in two months on Friday, as tankers diverted from the Red Sea following recent air strikes by the United States and United Kingdom on targets in Yemen.
-
-...
-
-[Data](articles/d45bb364.json)
-
-[Extended Data](ext_articles/d45bb364.ext.json)
 
 ---

@@ -1,36 +1,176 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 18:09:09**
+As of **2024-01-21 18:51:35**
 
 ## Newspaper Stats
 
-*Scraped **1,606** Articles*
+*Scraped **1,615** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 38
-adaderanasinhalalk | 64
+adaderanasinhalalk | 66
 islandlk | 97
 economynextcom | 103
 newsfirstlk | 109
 dbsjeyarajcom | 121
-virakesarilk | 146
+virakesarilk | 149
 dailyftlk | 150
-adalk | 172
+adalk | 174
 dailymirrorlk | 180
-tamilmirrorlk | 198
+tamilmirrorlk | 200
 adaderanalk | 201
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,049 (65.3%) of 1,606 articles have been extended.
+1,106 (68.5%) of 1,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### General Leader's decision on universal Buddha
+
+*2024-01-21 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192402) · `si`
+
+Ven.
+
+The Commissioner of Buddhist Affairs has informed the Commissioner of Buddhist Affairs by the General Manage of the Ramanna Nikaya.
+
+The decision was taken by the Commodum of the Ramanna Sect Sabha on the 15th of December.
+
+Accordingly, the Samanera Register of Wimalabuddi in Ratnapura will be invalid with the same decision.
+
+The statement further states that the depending on the huge harm to the Sasana, the hearing of the Jana Wimalabuddhi was selected from the Ramanna sect.
+
+◼️
+
+[Data](articles/2a77e6bc.json)
+
+[Extended Data](ext_articles/2a77e6bc.ext.json)
+
+---
+
+### "Tamilnadu Party Elections: The names of 13 people"
+
+*2024-01-21 17:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தமிழரசு-கட்சி-தேர்தலில்-முறைக்கேடு-13-பேரின்-பெயர்கள்-நீக்கம்/73-331912) · `ta`
+
+The leader of the Sri Lanka Tamil National Alliance (TNA), including 13 people, who went to Trincomalee to vote in the election for the election for elections. Batticaloa District Women's Team Secretary Rajani Jayaprakas said that they have returned in disappointment.
+
+The election, which elects the new leader of the Sri Lankan Tamil state party, was held in Trincomalee on Sunday (21).
+
+About 350 people from 8 districts in Colombo and North and East, who have the party's membership, were eligible to vote and sent them to the voting.
+
+Accordingly, the names of 13 persons, including the name of the Women's Team Secretary, were cut down on the list of 50 people in the Batticaloa district.. We did not allow us to vote.
+
+He has not taken any action to learn to the district head. At the same time, he has voted for the party from Colombo, the party, the party or the district, the name of the Singaravel Florist who has no membership in the district.
+
+...
+
+[Data](articles/2c4831de.json)
+
+[Extended Data](ext_articles/2c4831de.ext.json)
+
+---
+
+### Where is the progress report of Muslim politicians?
+
+*2024-01-21 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174464) · `ta`
+
+Politicians are promoting every election that 'we will solve the problems of the Muslim community and give life to the community'. There is no account for the issues they listed, "We will solve the problem as a cure and solve this problem."
+
+Thus, they will forget what the promises made by the Muslim politicians on the election platforms are and how long the list is.. People will forget and forgive if the next election comes. But this is not a healthy course in a social politics.
+
+◼️
+
+[Data](articles/f6250700.json)
+
+[Extended Data](ext_articles/f6250700.ext.json)
+
+---
+
+### A motorcycle jumped into the river for fear of the police
+
+*2024-01-21 17:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பொலிஸுக்கு-பயந்து-ஆற்றுக்குள்-பாய்ந்த-மோட்டார்-சைக்கிள்/73-331911) · `ta`
+
+The incident took place on Sunday (21) on the river of Ottamavadi Bridge, which belongs to the Valaichenai police division.
+
+The bicycle lost control and fell into the Ottamavadi river when the motorcycle was speeding in fear that the motorcycle police would stop wearing a motorcycle without wearing a helmet.
+
+The injured person is being treated at the Valaichenai Resource Hospital and police are conducting investigations.
+
+◼️
+
+[Data](articles/ce895f55.json)
+
+[Extended Data](ext_articles/ce895f55.ext.json)
+
+---
+
+### Eastern Governor Senthil Thondaman congratulates the new leader of the Tamil National Party
+
+*2024-01-21 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/174473) · `ta`
+
+Sivagnanam Sridharan, the leader of the Eastern Province and President of the Ceylon Workers Congress, congratulated Sivagnanam Sridharan, who is elected as the leader of the Tamil National Party.
+
+Senthil Thondaman said, "I would like to win the rights of the Tamil people during your service during your service during your service, and the Tamil people should continue their work to continue their work," the Tamils in the North and East should not be able to grow further.
+
+◼️
+
+[Data](articles/99df4075.json)
+
+[Extended Data](ext_articles/99df4075.ext.json)
+
+---
+
+### 205 of Sri Lanka Youths
+
+*2024-01-21 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192401) · `si`
+
+Sri Lanka scored 48 overs and scored 204 runs for the loss of 38 overs.
+
+The wild beaten won the winth, 60 runs in 55 balls with six sixes and six fours.
+
+Shanmuganatan scored 41 runs with 3 fours.
+
+In addition, Ravishan de Silva and the village scored 31 runs.
+
+Kohl Eksteen took 3 wickets and Newman Nyamhuri and matthewww scored 2 wickets each.
+
+Sri Lanka Youth Group scored 5 wickets for 13 runs.
+
+But the Sri Lankan scoreboard has grown to 204 in connection with the formation of Kalupahana, Shanmuganathan and Ravishan and compilation.
+
+◼️
+
+[Data](articles/81608560.json)
+
+[Extended Data](ext_articles/81608560.ext.json)
+
+---
+
+### The leadership of the people's hunger should be elected without going under Western methods - Archbishop Malcolm Cardinal Ranjith
+
+*2024-01-21 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/174462) · `ta`
+
+We do not expect the election to get out of an agenda. This year is referred to as the year of election. Archbishop Malcolm Cardinal Ranjith Ranjit said that the leadership that can overcome the hunger of the people should be elected without going under Western systems.
+
+The Archbishop made this statement during a special ceremony held at St. John's Church on Sunday (21).
+
+We cannot be sipped from the problems found in Sri Lanka we are living today. Religious leadership is not the only thing that goes into the places of worship. The real leadership is to give a voice to the streets for people in the event of a grief.
+
+It is said that this year is the year for the election. We do not expect the election to get out of an agenda. Our need is to act with dedication to the country. It is useless to go behind the justifications that have become addicted to some justifications and rejected abroad.
+
+...
+
+[Data](articles/f1267128.json)
+
+[Extended Data](ext_articles/f1267128.ext.json)
+
+---
 
 ### This renovation is urgent - President
 
@@ -356,6 +496,24 @@ Later, after 16 hours the boy was taken to Mali by plane. The boy died without t
 
 ---
 
+### දෙමළ ජාතික සන්ධානයේ නව නායකයා ලෙස මන්ත්‍රී ශ්‍රී ධරන් පත්වෙයි
+
+*2024-01-21 15:12:21* · [`adalk`](https://www.ada.lk/breaking_news/දෙමළ-ජාතික-සන්ධානයේ-නව-නායකයා-ලෙස-මන්ත්‍රී-ශ්‍රී-ධරන්-පත්වෙයි/11-407645) · `si`
+
+ඉලංගෙයි තමිල් අරසු කච්චි හෙවත් දෙමල ජාතික සංධානයේ නව නායකයා ලෙස අද (21) පැවැති මධ්‍යම කාරක සභා ඡන්ද විසිමේදි යාපනය දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී එස්.ශ්‍රි ධරන් මහතා වැඩි ඡන්ද 47 කින් ජයග්‍රහණය කලේය.
+
+මෙම ඡන්ද විමසීම ත්‍රිකුණාමලය නගර ශාලාවේදි පැවැත්වුණි. නායකත්වය සදහා පාර්ලිමේන්තු මන්ත්‍රීවරැන් වන ඒ.එම්.සුමන්තිරන් ,එස්.ශ්‍රි ධරන්.සහා හිටපු පාර්ලිමේන්තු මන්ත්‍රී ආර්.යෝගේෂ්වරන් යන මන්ත්‍රීවරැන්ගේ නම් යෝජනාවු අතර ඡන්දය විමසුමකට පෙර යෝගේෂ්වරන් මහතා ඉවත්වීම විශේෂත්වයකි.
+
+මධ්‍යම කාරක සභා සාමාජිකයන් 327 දෙනෙකුට ඡන්ද අයිතිය තිබු අතර ඉන් 321 ක් ඡන්දය ලබා දුන්හ.හය දෙනෙකු ඡන්ද ප්‍රකාශ කිරිමට නොපැමිණීම වවිශේෂත්වයකි . අනුව ශ්‍රි ධරන් මහතා ඡන්ද 184 ක් ලබා ගත් අතර සුමන්තිරන් මහතාට ලබාගත හැකි වුයේ ඡන්ද 137 ක් පමණි.ඒ අනුව වැඩි ඡන්ද 47 ලබාගෙන ශ්‍රි ධරන් මහතා ජයග්‍රහණය කලහ.
+
+දෙමල ජාතික සංධානයේ හිටපු නායක පාර්ලිමේන්තු මන්ත්‍රී ආර්.සම්බන්ධන් මහතාගේ අයහපත් සෞඛ්‍ය තත්ත්වය මත මධ්‍යම කාරක සභාව ගත් තිරණයක් අනුව මෙම ඡන්ද විමසුමක පවත්වා නව නායකයා තෝරාපත කර ගැනුණි.
+
+◼️
+
+[Data](articles/4f68a343.json)
+
+---
+
 ### President addresses G77 team and China, 3rd South Convention
 
 *2024-01-21 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192394) · `si`
@@ -415,6 +573,28 @@ Furthermore, the Minister expressed that he has instructed the relevant authorit
 [Data](articles/95149291.json)
 
 [Extended Data](ext_articles/95149291.ext.json)
+
+---
+
+### Monk arrested for drunken woman's house and abused the woman
+
+*2024-01-21 14:36:01* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-කාන්තාවකගේ-නිවසට-ගොස්-එම-කාන්තාවට-අතවර-කල-චීවරධාරියෙකු-අල්ලයි/11-407644) · `si`
+
+According to a complaint from a woman, the monk was arrested following a complaint received by a woman to abuse and sexually abusing her home in Anuradhapura.
+
+The arrested was a monk who was named in a temple in the Buduruwagala area in Wellawaya.
+
+The complaint had been lodged by a woman in Sravasthipura, Sravasthipura, a sub-Inspector General of Police.
+
+The name of this name was to be produced before the Anuradhapura General Hospital for the Anuradhapura Hospital.
+
+A team of the Anuradhapura headquarters police officers is conducting further investigations.
+
+◼️
+
+[Data](articles/2262ce49.json)
+
+[Extended Data](ext_articles/2262ce49.ext.json)
 
 ---
 
@@ -1941,201 +2121,5 @@ Opposition Leader Sajith Premadasa said that as the Opposition Leader was able t
 [Data](articles/c73c4f59.json)
 
 [Extended Data](ext_articles/c73c4f59.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-01-21 08:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96585/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says several spells of showers may occur in North-central, Eastern and Uva Provinces.
-
-Showers or thundershowers will occur at several places in the Central and Sabaragamuwa provinces and in Galle and Matara districts after 2.00 p.m.
-
-Misty conditions can be expected at some places in Western, Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/d79d476a.json)
-
-[Extended Data](ext_articles/d79d476a.ext.json)
-
----
-
-### Under-19 Sri Lanka - Zimbabwe match today
-
-*2024-01-21 08:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192380) · `si`
-
-Sri Lanka's first match will be held today (21) at the ICC World Cup.
-
-The match is scheduled to start at 01.30 pm today in South Africa.
-
-The match between Nepal and New Zealand, under 19, is scheduled to be held today.
-
-16 teams compete in four categories for the Under 19 World Cup.
-
-◼️
-
-[Data](articles/66d0b436.json)
-
-[Extended Data](ext_articles/66d0b436.ext.json)
-
----
-
-### Operation ‘Yukthiya’ will continue despite challenges -Tiran
-
-*2024-01-21 07:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/operation-yukthiya-will-continue-despite-challenges-tiran/) · `en`
-
-COLOMBO (News 1st); Minister of Public Security Tiran Alles said operation 'Yukthiya' will continue despite various challenges.
-
-He expressed these views in Maligawatte on Saturday (20) night during the ceremony to empower community police committees in the Colombo Central Division.
-
-2,100 Community Police officers in eight Police divisions were part of the programme.
-
-Minister Tiran Alles said a member of a certain political party had criticised the operation, adding that he will not be affected by such criticism.
-
-The Minister said letters were also sent by the Human Rights Commission against the programme adding that it will not hinder the operation.
-
-Minister Alles stressed that operation 'Yukthiya' will only end after eradicating the drug menace as stated by the Acting Inspector General of Police.
-
-He said the operation may face other challenges in future as well, and urged the community police and other factions to unite, to make the operation a success.
-
-...
-
-[Data](articles/6bef53d1.json)
-
-[Extended Data](ext_articles/6bef53d1.ext.json)
-
----
-
-### 22-year-old killed in Telijjawila shooting
-
-*2024-01-21 07:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/22-year-old-killed-in-telijjawila-shooting/) · `en`
-
-COLOMBO (News 1st); A 22-year-old has died in a shooting in Telijjawila, Matara.
-
-Sri Lanka Police said the shooting was carried out last night by an individual who arrived in a motorcycle.
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-◼️
-
-[Data](articles/c44e01da.json)
-
-[Extended Data](ext_articles/c44e01da.ext.json)
-
----
-
-### PUCSL to discuss proposal to revise electricity tariffs
-
-*2024-01-21 07:53:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/pucsl-to-discuss-proposal-to-revise-electricity-tariffs/) · `en`
-
-COLOMBO (News 1st); The Public Utilities Commission of Sri Lanka is scheduled to convene at the start of this week to discuss the proposal to revise electricity tariffs.
-
-A spokesman for the PUCSL said public views will be obtained on the proposal to revise electricity tariffs from the 23rd of January.
-
-The PUCSL added that the public will be able to submit opinions in writing for up to 21 days from the 23rd.
-
-The Ceylon Electricity Board handed over the proposal to revise electricity tariffs to the PUCSL.
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-◼️
-
-[Data](articles/2475d51b.json)
-
-[Extended Data](ext_articles/2475d51b.ext.json)
-
----
-
-### Lowest employees in 11 years
-
-*2024-01-21 07:49:54* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිමට-වසර-11කදී-අඩුම-සේවක-බඳවා-ගැනිම-2023දී/11-407634) · `si`
-
-It has been in the last year that the Ceylon Electricity Board (LIMITED) has been recruited last year.
-
-Troops recruited in 2023. During that 11 years, the highest number of employees have been recruited in 2016, the number is 4675. In 2017, 1755 employees have been recruited.
-
-◼️
-
-[Data](articles/5800a012.json)
-
-[Extended Data](ext_articles/5800a012.ext.json)
-
----
-
-### Road accidents that killed four
-
-*2024-01-21 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192379) · `si`
-
-Four persons, including two women, killed two women in several areas during the past 24 hours.
-
-A woman was killed in an accident that a lorry collided with a three-wheeler in Matara - Hakmana road.
-
-The deceased has been identified as Sausewiri Uyana - a resident of the Yivewana area.
-
-Meanwhile, a motorcycle and a motorcycle collided with a pavement and a paved woman who traveled through the Mirihana Police Division in the Mirihana Police Division.
-
-The 85-year-old panel of pedestal resident of Nugegoda - Gangodawila.
-
-Meanwhile, a person was killed in a car confronting an unidentified vehicle in the Natutuwela area in Kebithigollewa.
-
-Meanwhile, an accident had died in an accident that collided with a motorcycle near the Kotamaulla Junction near the Kotamaullah junction.
-
-The deceased has been identified as a 35 year old resident of the Ratnapura area.
-
-◼️
-
-[Data](articles/2e93e938.json)
-
-[Extended Data](ext_articles/2e93e938.ext.json)
-
----
-
-### Awareness programme for school children over drug menace from Feb 5th
-
-*2024-01-21 07:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/awareness-programme-for-school-children-over-drug-menace-from-feb-5th/) · `en`
-
-COLOMBO (News 1st); Acting Inspector General of Police Deshabandu Tennakoon said a programme will be launched to raise awareness among school children regarding the drug menace from the 5th of February.
-
-Acting IGP Deshabandu Tennakoon expressed these views on Saturday (20) while joining a programme to train 200 resource persons for the drug prevention program to be implemented for the school community under the theme "සුරක්ෂිත හෙටක්" which translates to"A safe tomorrow".
-
-Trainees of the National Youth Services Council and university graduates have been selected for this programme.
-
-The Acting IGP said the programme will raise awareness among hundreds of school children to protect them against the drug menace.
-
-He said under operation 'Yukthiya' Police have identified around 4,500 people involved in the supply of drugs to Sri Lanka, and 60 percent of them have been arrested.
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-◼️
-
-[Data](articles/42006a5b.json)
-
-[Extended Data](ext_articles/42006a5b.ext.json)
-
----
-
-### President to address the 3rd South Summit of the Group of 77 & China in Uganda
-
-*2024-01-21 07:28:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/president-to-address-the-3rd-south-summit-of-the-group-of-77-china-in-uganda/) · `en`
-
-COLOMBO (News 1st); The 3rd South Summit of the Group of 77 & China, is scheduled to be held in Kampala, Uganda today, under the theme ‘Leaving No One Behind’.
-
-The President's Media Division said President Ranil Wickremesinghe is set to address the 3rd South Summit, which will be held today and tomorrow.
-
-The official meeting between President Ranil Wickremesinghe and Prime Minister of Nepal Pushpa Kamal Dahal took place in Kampala, Uganda yesterday, in line with the 19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM).
-
-The leaders engaged in extensive discussions on promoting the cultural and religious relations that have existed between the two countries since the past, emphasizing the potential for promoting tourism.
-
-With the aim of expanding political relations, a proposal was made to facilitate an exchange program for MPs to study the parliamentary affairs of both countries.
-
-...
-
-[Data](articles/ac55c0bb.json)
-
-[Extended Data](ext_articles/ac55c0bb.ext.json)
 
 ---

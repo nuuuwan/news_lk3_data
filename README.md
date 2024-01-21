@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 00:32:30**
+As of **2024-01-22 01:02:27**
 
 ## Newspaper Stats
 
-*Scraped **1,650** Articles*
+*Scraped **1,656** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ islandlk | 97
 economynextcom | 104
 newsfirstlk | 109
 dbsjeyarajcom | 121
-dailyftlk | 150
+dailyftlk | 151
 virakesarilk | 156
 adalk | 180
-dailymirrorlk | 187
+dailymirrorlk | 192
 tamilmirrorlk | 200
 adaderanalk | 206
 
@@ -26,11 +26,99 @@ adaderanalk | 206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,333 (80.8%) of 1,650 articles have been extended.
+1,338 (80.8%) of 1,656 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-01-22 (Monday)
+
+### The Status of Tamils in Ceylon, Waxed and Waned in the Pre and Post-Independence Eras Respectively
+
+*2024-01-22 00:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Status-of-Tamils-in-Ceylon-Waxed-and-Waned-in-the-Pre-and-Post-Independence-Eras-Respectively/172-275447) · `en`
+
+As far as the Tamils are concerned in Ceylon/Sri Lanka, their situation during the pre-independence era was hunky-dory, whereas in the post-independence era, it has stirred up a hornet’s nest and hamstrung the political and social fabric, which was a consequence of the act of political hanky-panky and the hegemony of the native rulers. The plight of Tamils has been agonizing and antagonistic, with deaths and destructions, wounds, loss of limbs, disabilities, enforced disappearances, property losses, internal displacements, even the rape and murder of a schoolgirl and women, and so on.
+
+...
+
+[Data](articles/2bdb03b1.json)
+
+---
+
+### Price Controls Needed to Protect Poorer Sections of Society - EDITORIAL
+
+*2024-01-22 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Price-Controls-Needed-to-Protect-Poorer-Sections-of-Society-EDITORIAL/172-275439) · `en`
+
+Since the economic meltdown, many of us realise that bad practices of the past – spending far more than we earn – has led us down to the sorry path we find ourselves in. Political leaders claim that we are no longer a bankrupt nation and have substantial dollar reserves. The reality sadly is, the situation is not so rosy.
+
+A portion of these ‘reserves’ comprises credit lines, funds lent by the International Monetary Fund (IMF), the World Bank, the Asian Development Bank (ADB) and other multi-lateral lending agencies. Some funds are also tied to particular conditions.
+
+So while we do have a certain amount of ‘money in the bank’ so-to-say, it is not ours to spend as we would wish. Far worse, we have as yet not commenced repaying our international creditors as the negotiations are ongoing. So the situation is not as good as portrayed.
+
+...
+
+[Data](articles/ce450341.json)
+
+---
+
+### Russia wants Sri Lanka to maintain neutrality on Ukraine despite Western Pressure - Ambassador Levan Dzhagaryan
+
+*2024-01-22 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Russia-wants-Sri-Lanka-to-maintain-neutrality-on-Ukraine-despite-Western-Pressure-Ambassador-Levan-Dzhagaryan/231-275441) · `en`
+
+Russian Ambassador Levan Dzhagaryan, in an interview with Daily Mirror, discusses the current status of bilateral ties, and what is being planned for the future.
+
+Q  How did the recent visit of a top level Russian delegation help elevate bilateral ties?
+
+We are satisfied with the current level of our bilateral relations. Another indication of it was the visit of a high-ranking Russian delegation.
+
+It was a rather big delegation of more than 40 people, headed by Nikolai Patrushev, the Secretary of the Security Council of the Russian Federation.   He had a very important meeting with President Ranil Wickremesinghe on   December 6, 2023. He had a meeting with Defence Secretary, Major General (Rtd) Kamal Gunaratne. The latter was in Moscow in May, last year. So it’s a continuation of bilateral dialogue. Also, Mr. Patrushev, when he was in Colombo last December, extended his invitation to Mr. Gunaratne to visit Russia in the coming year.
+
+...
+
+[Data](articles/67056118.json)
+
+---
+
+### Avalokiteshvaras in Every Sphere of Sasana: a Growing Gap between Dhamma & Buddhism
+
+*2024-01-22 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Avalokiteshvaras-in-Every-Sphere-of-Sasana-a-Growing-Gap-between-Dhamma-Buddhism/172-275438) · `en`
+
+Followers of wholesome Dhamma need not be disturbed by individuals like Jeromes, Sepalas, Natashas, Ruwans, or Avalokiteshvaras; these are insignificant ‘outside’ influences, a phenomenon that existed even in the times of the Buddha. The growing concern lies in the emerging threat posed by ‘Devadattas’ operating within the Sasana.
+
+...
+
+[Data](articles/67e9f781.json)
+
+---
+
 ### 2024-01-21 (Sunday)
+
+### Society 5.0: Is it a myth or a miracle?
+
+*2024-01-21 23:18:14* · [`dailyftlk`](https://www.ft.lk/columns/Society-5-0-Is-it-a-myth-or-a-miracle/4-757585) · `en`
+
+Urbanisation, smart cities, climate change, temporariness and aged populations are a few among many other reasons as to why firms and nations should focus on Society 5.0
+
+In an ever-changing world, one cannot find a risk-free venture, investment, event, or an activity. Risk should necessarily be examined by looking at the probability of occurrence and the impact. Technology can play a vital role in mitigating the risks by addressing both the impact and probability of occurrence. Designers and developers of Society 5.0 solutions should necessarily use best practices such as secure by design in mitigating risks
+
+...
+
+[Data](articles/8030e805.json)
+
+---
+
+### President meets Sri Lankan entrepreneurs in Kenya, assures fullest support
+
+*2024-01-21 23:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Sri-Lankan-entrepreneurs-in-Kenya-assures-fullest-support/108-275460) · `en`
+
+Jan 21- President Ranil Wickremesinghe had a fruitful meeting with Sri Lankan entrepreneurs based in Kenya, discussing collaborative opportunities and fostering stronger ties between the two nations.
+
+The President assured full government support to these entrepreneurs, emphasizing the commitment to fostering a conducive environment for their success and contributions to the economy.
+
+◼️
+
+[Data](articles/f788aabb.json)
+
+---
 
 ### President meets UN chief and state leaders during ‘G77 and China’ summit
 
@@ -660,6 +748,8 @@ Here is where a smart constitution comes into play. A smart constitution will en
 
 [Data](articles/f8b74f27.json)
 
+[Extended Data](ext_articles/f8b74f27.ext.json)
+
 ---
 
 ### Ram Mandir At Babri Masjid Site: Death Of Secular Democracy & Rise Of Hindutva Fascism
@@ -673,6 +763,8 @@ The controversy resulted in the first religious violence almost three and half c
 ...
 
 [Data](articles/53e23b30.json)
+
+[Extended Data](ext_articles/53e23b30.ext.json)
 
 ---
 
@@ -1989,125 +2081,5 @@ Why did this change occurred, especially before the presidential election?
 [Data](articles/cc9e9276.json)
 
 [Extended Data](ext_articles/cc9e9276.ext.json)
-
----
-
-### Monks Buddhist monk arrests again
-
-*2024-01-21 11:58:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விஸ்வ-புத்த-துறவி-மீண்டும்-கைது/175-331878) · `ta`
-
-The saffron -wore monk, who called himself 'Vishwa Buddha', has been arrested again by the police for issuing a statement discrediting Buddhism.
-
-The Criminal Investigation Department has arrested the suspect in the Galakedihena area.
-
-The suspect was first arrested on December 12, followed by the Colombo Chief Magistrate on January 8.
-
-Meanwhile, Senior Journalist Samarawickrama said that he will be presented next week before the Criminal Investigation Department.
-
-He has been summoned for an investigation into an event held by Samarawickrama with the arrested suspect.
-
-◼️
-
-[Data](articles/c95f3157.json)
-
-[Extended Data](ext_articles/c95f3157.ext.json)
-
----
-
-### Three more arrested over assault incident at Karapitiya Hospital
-
-*2024-01-21 11:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96593/three-more-arrested-over-assault-incident-at-karapitiya-hospital-) · `en`
-
-Three minor staff members of the Karapitiya Teaching Hospital including a female have been arrested in connection with a complaint by a senior oncologist alleging assault.
-
-The concerned senior oncologist, Dr. Krishantha Perera, 61, was also arrested on 18 January for purportedly assaulting a female junior staff member during a contentious situation that had ensued the previous morning.
-
-He was accused of assaulting the said staff member during a heated argument between him and the other junior staffers after he slammed them for disrupting hospital services by going on a token strike the day before.
-
-The hospital’s authorities had brought the situation under control, however, a female junior staff member got herself admitted to the Karapitiya Teaching Hospital, claiming an assault by the senior oncologist who was subsequently arrested and remanded until January 22 on the orders of the Galle Magistrate.
-
-◼️
-
-[Data](articles/50ff176b.json)
-
-[Extended Data](ext_articles/50ff176b.ext.json)
-
----
-
-### The new leader of the Tamil National Alliance (TNA)
-
-*2024-01-21 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174436) · `ta`
-
-A referendum for the selection of the new leader of the Sri Lanka Tamil National Alliance (TNA) has been launched at the Trincomalee Municipal Council Hall.
-
-Members of the Northern and Eastern Provinces, especially in the Northern and Eastern Provinces, and nine district representatives, including Colombo, have participated in the vote for the selection of members.
-
-It is possible to observe that the party members were enrolled inside the referendum, after the membership of each district and the members of the Central Committee was examined and the membership of the party was assured.
-
-It is also reported that the current leader of the Sri Lanka Tamil National Party (SLFP), Mavai Senadirasa, contesting candidates MA Sumanthiran, C. Saridharan and C. Yogeswaran have been discussing for a long time.
-
-...
-
-[Data](articles/15643188.json)
-
-[Extended Data](ext_articles/15643188.ext.json)
-
----
-
-### Education Minister's Key announcement on the Vocational Guidance Program for High Quality Students
-
-*2024-01-21 11:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174437) · `ta`
-
-Education Minister Susil Premajayantha has announced that a special program will be implemented soon to provide professional guidelines to students who are looking for the GCE A / L examination for 2023.
-
-The Minister further stated that the project will be expected to take place in more than 300 centers across the country from February 20.
-
-◼️
-
-[Data](articles/73f9bdb0.json)
-
-[Extended Data](ext_articles/73f9bdb0.ext.json)
-
----
-
-### President holds meeting with Ugandan counterpart
-
-*2024-01-21 11:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-holds-meeting-with-Ugandan-counterpart/108-275427) · `en`
-
-Uganda, Jan. 21 (Daily Mirror)- President Ranil Wickremesinghe engaged in a formal meeting with Ugandan President Yoweri Museveni yesterday afternoon (20), the President's Media Division (PMD) said.
-
-President Museveni warmly welcomed  President Wickremesinghe, and following a friendly exchange, bilateral discussions commenced, the PMD said.
-
-During the meeting, President Yoweri Museveni lauded President Wickremesinghe's significant role in revitalizing Sri Lanka's economy.
-
-President Museveni commended the nation for its achievements in this regard.
-
-"The leaders delved into discussions about Sri Lanka's new economic programme, with President Ranil Wickremesinghe highlighting the positive economic trajectory since entering into an agreement with the International Monetary Fund. He emphasized on the anticipated growth in 2024," the PMD said.
-
-◼️
-
-[Data](articles/5cc6732f.json)
-
-[Extended Data](ext_articles/5cc6732f.ext.json)
-
----
-
-### President Ranil discusses enhancing bilateral relations with Ugandan counterpart
-
-*2024-01-21 11:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96592/president-ranil-discusses-enhancing-bilateral-relations-with-ugandan-counterpart) · `en`
-
-During his official visit to Uganda, President Ranil Wickremesinghe engaged in a formal meeting with Yoweri Museveni, the President of the Republic of Uganda, yesterday afternoon (20 Jan.).
-
-President Museveni warmly welcomed President Wickremesinghe, and following a friendly exchange, bilateral discussions commenced.
-
-During the meeting, President Yoweri Museveni expressed his joy at President Wickremesinghe’s acceptance of the invitation for the official visit and lauded his significant role in revitalizing Sri Lanka’s economy. President Museveni commended the nation for its achievements in this regard.
-
-The leaders delved into discussions about Sri Lanka’s new economic program, with President Ranil Wickremesinghe highlighting the positive economic trajectory since entering into an agreement with the International Monetary Fund. He emphasized the anticipated growth in 2024.
-
-...
-
-[Data](articles/00a4e4f1.json)
-
-[Extended Data](ext_articles/00a4e4f1.ext.json)
 
 ---

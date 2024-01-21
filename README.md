@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 04:33:05**
+As of **2024-01-22 04:50:23**
 
 ## Newspaper Stats
 
-*Scraped **1,665** Articles*
+*Scraped **1,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ virakesarilk | 156
 dailyftlk | 159
 adalk | 180
 dailymirrorlk | 193
-tamilmirrorlk | 200
+tamilmirrorlk | 201
 adaderanalk | 206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,420 (85.3%) of 1,665 articles have been extended.
+1,423 (85.4%) of 1,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### ஐ.நா. பொதுச் செயலாளரை சந்தித்தார் ஜனாதிபதி
+
+*2024-01-22 03:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நா-பொதுச்-செயலாளரை-சந்தித்தார்-ஜனாதிபதி/175-331925) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் ஐக்கிய நாடுகள் சபையின் பொதுச் செயலாளர் நாயகம் அன்டோனியோ குட்டரஸுக்கும் இடையிலான சந்திப்பொன்று இடம்பெற்றுள்ளது.
+
+இலங்கையின் பொருளாதாரம் மற்றும் நாடு எதிர்நோக்கும் தற்போதைய சவால்களை வெற்றிகொள்வதற்கு சாதகமான சூழலையும் ஸ்திரத்தன்மையை உருவாக்குவது தொடர்பில் இதன்போது கலந்துரையாடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/1bf964b5.json)
+
+---
 
 ### Sri Lanka Press Institute expresses concern over Online Safety Bill
 
@@ -2045,27 +2059,5 @@ In addition, the Commission said that the public will be obtained on the amendme
 [Data](articles/20bd8ee1.json)
 
 [Extended Data](ext_articles/20bd8ee1.ext.json)
-
----
-
-### Cardinal Ranjith Calls for Leaders Aligned with Updated Laws
-
-*2024-01-21 12:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/cardinal-ranjith-calls-for-leaders-aligned-with-updated-laws/) · `en`
-
-COLOMBO (News 1st); Cardinal Malcolm Ranjith asserted that Sri Lanka's issues cannot be solved with outdated laws and leaders who ignore the country's unique context.
-
-Speaking during the feast at the St. John the Baptist's Church in Mutwal on Sunday (21) morning, he emphasized the need for leaders with an attitude "that fits the culture and suits the country" to effectively address the nation's problems.
-
-The Cardinal challenged the notion that simply following the agendas of other parties will bring solutions. He stressed the importance of realistic, locally-tailored approaches.
-
-He argued that societal change is not achieved through strict laws and burdening the people.
-
-He argued that societal change is not achieved through strict laws and burdening the people. He pointed to the current Parliament's new legislation, citing the Ceylon Electricity Board Act as a prime example. "No one knows the details of the Act," the Cardinal said, questioning its utility for the people.
-
-...
-
-[Data](articles/bc7e52da.json)
-
-[Extended Data](ext_articles/bc7e52da.ext.json)
 
 ---

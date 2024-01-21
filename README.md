@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 01:33:05**
+As of **2024-01-22 02:17:21**
 
 ## Newspaper Stats
 
-*Scraped **1,656** Articles*
+*Scraped **1,661** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ islandlk | 97
 economynextcom | 104
 newsfirstlk | 109
 dbsjeyarajcom | 121
-dailyftlk | 151
+dailyftlk | 155
 virakesarilk | 156
 adalk | 180
-dailymirrorlk | 192
+dailymirrorlk | 193
 tamilmirrorlk | 200
 adaderanalk | 206
 
@@ -26,11 +26,71 @@ adaderanalk | 206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,348 (81.4%) of 1,656 articles have been extended.
+1,367 (82.3%) of 1,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### SL commits to fair trade collaboration: EDB and int’l fair trade networks sign cooperation framework
+
+*2024-01-22 01:13:21* · [`dailyftlk`](https://www.ft.lk/business/SL-commits-to-fair-trade-collaboration-EDB-and-int-l-fair-trade-networks-sign-cooperation-framework/34-757611) · `en`
+
+In a strategic move to promote international fair trade and foster global cooperation, Sri Lanka officially signed the Framework of Cooperation (FOC) with international fair trade networks in Colombo recently.
+
+The signing ceremony, attended by representatives from major fair trade and supporting organisations, took place at the Colombo Ramada Hotel.
+
+The primary objective of the cooperation framework is to strengthen and improve relationships between fair trade networks and related institutions in Sri Lanka. It aims to promote the development, diversification, and wider market access of fair trade products from Sri Lanka to the global market. The collaborative framework outlines multiple objectives and related activities that will be further developed into comprehensive action plans in collaboration with supporting institutions in the near future.
+
+...
+
+[Data](articles/1c514192.json)
+
+[Extended Data](ext_articles/1c514192.ext.json)
+
+---
+
+### Dipped Products participates at Intersec Dubai 2024
+
+*2024-01-22 01:11:22* · [`dailyftlk`](https://www.ft.lk/business/Dipped-Products-participates-at-Intersec-Dubai-2024/34-757610) · `en`
+
+Dipped Products PLC, a subsidiary of the Hayleys Group, took part in the 25th edition of the Intersec in Dubai.
+
+Dipped Products is one of the world’s leading rubber glove manufacturers and accounts for a 5% global market share.
+
+The company exhibited a diverse range of products at the trade show held at Dubai World Trade Centre (DWTC).
+
+With a manufacturing capacity of 16 million, DPL is the largest household gloves producer in Sri Lanka. The company’s products now reach 70 countries.
+
+The three-day exhibition ended on a high note on 18 January and conference featured participation from 1,000 exhibitors representing 60 countries, attracting a total of 45,000 trade visitors from 120 countries.
+
+The event showcased products across five main categories: Commercial and Perimeter Security, Homeland Security and Policing, Fire and Rescue, Safety and Health and Cyber Security.
+
+Many trade visitors from Sri Lanka attend this show every year.
+
+◼️
+
+[Data](articles/ec2f336d.json)
+
+[Extended Data](ext_articles/ec2f336d.ext.json)
+
+---
+
+### Kapruka Holdings strengthens E-commerce reach through strategic partnership with Shiro Hana
+
+*2024-01-22 01:08:06* · [`dailyftlk`](https://www.ft.lk/business/Kapruka-Holdings-strengthens-E-commerce-reach-through-strategic-partnership-with-Shiro-Hana/34-757609) · `en`
+
+Kapruka Holdings Plc, the industry leader in e-commerce, has announced a strategic partnership with Shiro Hana (Huejay International Multiflora Ltd.), the leader in Sri Lanka’s cut-flower industry. This collaboration is facilitated through Kapruka’s innovative vendor portal, Kapruka Partner Central, signaling a significant step forward in providing an enhanced shopping experience for local and global customers.
+
+The synergy between Kapruka and Shiro Hana aims to enrich the shopping experience for customers, offering a broader range of products. Through Kapruka Partner Central, vendors like Shiro Hana can showcase their offerings to both Sri Lankan and international customers, providing a diverse selection comparable to global e-commerce giants.
+
+...
+
+[Data](articles/03448505.json)
+
+[Extended Data](ext_articles/03448505.ext.json)
+
+---
 
 ### The Status of Tamils in Ceylon, Waxed and Waned in the Pre and Post-Independence Eras Respectively
 
@@ -116,6 +176,22 @@ In an ever-changing world, one cannot find a risk-free venture, investment, even
 
 ---
 
+### President meets Sri Lankan entrepreneurs based in Kenya, assures fullest support
+
+*2024-01-21 23:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Sri-Lankan-entrepreneurs-based-in-Kenya-assures-fullest-support/108-275460) · `en`
+
+Jan 21- President Ranil Wickremesinghe had a fruitful meeting with Sri Lankan entrepreneurs based in Kenya, discussing collaborative opportunities and fostering stronger ties between the two nations.
+
+The President assured full government support to these entrepreneurs, emphasizing the commitment to fostering a conducive environment for their success and contributions to the economy.
+
+◼️
+
+[Data](articles/4b1a9d9d.json)
+
+[Extended Data](ext_articles/4b1a9d9d.ext.json)
+
+---
+
 ### President meets Sri Lankan entrepreneurs in Kenya, assures fullest support
 
 *2024-01-21 23:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Sri-Lankan-entrepreneurs-in-Kenya-assures-fullest-support/108-275460) · `en`
@@ -129,6 +205,24 @@ The President assured full government support to these entrepreneurs, emphasizin
 [Data](articles/f788aabb.json)
 
 [Extended Data](ext_articles/f788aabb.ext.json)
+
+---
+
+### In this election year, Sri Lanka needs a lot of rationally thinking people
+
+*2024-01-21 22:48:25* · [`dailyftlk`](https://www.ft.lk/columns/In-this-election-year-Sri-Lanka-needs-a-lot-of-rationally-thinking-people/4-757583) · `en`
+
+Instead of being rational choosers, they have acted on emotions created by political leaders of all hues  – Pic by Shehan Gunasekara
+
+At an election, political leaders would emotionalise voters to gain power but after the election, they simply forget about it leaving the voters in the lurch. Hence, acting rationally is a must for voters at the forthcoming elections
+
+In 2024, Sri Lankan voters will be given the choice of electing their leaders through the power of the ballot. This is an important occasion for Sri Lanka which is a long surviving democracy in South Asia, next only to India. However, a common allegation is that, throughout the post-independence history, the voters have not done their job correctly. Instead of being rational choosers, they have acted on emotions created by political leaders of all hues.
+
+...
+
+[Data](articles/278bb946.json)
+
+[Extended Data](ext_articles/278bb946.ext.json)
 
 ---
 
@@ -1981,117 +2075,5 @@ Sri Lanka began to import eggs in the first half of 2023, amidst a severe shorta
 [Data](articles/f958aaf3.json)
 
 [Extended Data](ext_articles/f958aaf3.ext.json)
-
----
-
-### Will refrain from operating buses from tomorrow if fine sheets issued to bus owners: Gemunu
-
-*2024-01-21 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-refrain-from-operating-buses-from-tomorrow-if-fine-sheets-issued-to-bus-owners-Gemunu/108-275426) · `en`
-
-Colombo, Jan 21 (Daily Mirror) - police implement the action of sending fine sheets to bus owners based on CCTV footage from tomorrow, the Lanka Private Bus Owners' Association (LPBOA) said they will refrain from operating buses from tomorrow.
-
-LPBOA chairman Gemunu Wijeratna said the police have planned to send fine sheets based on CCTV footage from tomorrow.
-
-Addressing the media he said that it is unfair to send the fine sheets related to the mistakes of the buses to the owner of the bus.
-
-He said police have taken the decision without having any discussions with the bus association.
-
-It is unfair to send the fine sheets related to the mistakes of the buses to the owner of the bus, Wijerathna said.
-
-He further said that the bus owners will agree to this proposal if the bus priority lane is implemented and proper arrangements are made for operating buses.
-
-◼️
-
-[Data](articles/2bb30043.json)
-
-[Extended Data](ext_articles/2bb30043.ext.json)
-
----
-
-### Will refrain from operating buses from tomorrow if fine sheets issued to bus owners: Gemunu
-
-*2024-01-21 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Will-refrain-from-operating-buses-from-tomorrow-if-fine-sheets-issued-to-bus-owners-Gemunu/155-275426) · `en`
-
-Colombo, Jan 21 (Daily Mirror) - police implement the action of sending fine sheets to bus owners based on CCTV footage from tomorrow, the Lanka Private Bus Owners' Association (LPBOA) said they will refrain from operating buses from tomorrow.
-
-LPBOA chairman Gemunu Wijeratna said the police have planned to send fine sheets based on CCTV footage from tomorrow.
-
-Addressing the media he said that it is unfair to send the fine sheets related to the mistakes of the buses to the owner of the bus.
-
-He said police have taken the decision without having any discussions with the bus association.
-
-It is unfair to send the fine sheets related to the mistakes of the buses to the owner of the bus, Wijerathna said.
-
-He further said that the bus owners will agree to this proposal if the bus priority lane is implemented and proper arrangements are made for operating buses.
-
-◼️
-
-[Data](articles/481c6120.json)
-
-[Extended Data](ext_articles/481c6120.ext.json)
-
----
-
-### SLOA launches College of Optometry
-
-*2024-01-21 12:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/SLOA-launches-College-of-Optometry/110-275425) · `en`
-
-The Sri Lanka Optometric Association (SLOA) inaugurated a new division, the College of Optometry and Vision Science today. Hiran Perera, Chairman of the SLOA, presided as the chief guest for the event. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/bf00458c.json)
-
-[Extended Data](ext_articles/bf00458c.ext.json)
-
----
-
-### Controversial monk ’Vishwa Buddha’ arrested again by CID
-
-*2024-01-21 12:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Controversial-monk-Vishwa-Buddha-arrested-again-by-CID/108-275424) · `en`
-
-Gampaha, Jan 21 (Daily Mirror) - The Criminal Investigation Department (CID) once again arrested the saffron-robed monk who identifies himself as ‘Vishwa Buddha,’ in Kalagedihena.
-
-In December of last year, the CID's cybercrimes unit arrested the monk for allegedly insulting Buddhism on social media and he was remanded after being produced before court. Later he was released on bail by Colombo Chief Magistrate Prasanna Alwis on January 9.
-
-Known for his controversial online presence, 'Vishwa Buddha' had posted videos on various social media platforms containing content deemed offensive to Buddhism.  Police said he was arrested in response to numerous complaints.
-
-Earlier, a court order had been issued to produce him before court after it was discovered that he had allegedly continued his usual behavior despite court warnings.
-
-The arrested monk will be produced in the Gangodawila Magistrat'es Court.
-
-◼️
-
-[Data](articles/d746eba2.json)
-
-[Extended Data](ext_articles/d746eba2.ext.json)
-
----
-
-### A purpose of increasing support for Ranil: The presidential election does not stop the PA
-
-*2024-01-21 12:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174438) · `ta`
-
-The Sri Lanka PA has decided not to field a candidate in the presidential election, saying that the aim is to increase the vote bank of the Sunday Times Ranil Wickremesinghe.
-
-The Sri Lankan PA is reportedly significant changes in the presidential candidate.
-
-Party leader Mahinda Rajapaksa has issued a new stand beyond the issues made by the party's general secretary, Sagarakariyawasam. He has not yet decided on the presidential candidate.
-
-He has stated that the Sri Lankan PA has not yet decided whether to field its candidate.
-
-First, Mahinda Rajapaksa said that the party's general secretary's comments on four candidates, including Dhammika Perera, have now become invalid.
-
-The issues stated at the press conference have been changed as the official position of the party is still clear.
-
-It is not wrong to say that Mahinda Rajapaksa has commented on the position of the General Secretary of the PA.
-
-Why did this change occurred, especially before the presidential election?
-
-...
-
-[Data](articles/cc9e9276.json)
-
-[Extended Data](ext_articles/cc9e9276.ext.json)
 
 ---

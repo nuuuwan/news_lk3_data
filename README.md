@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 14:02:27**
+As of **2024-01-21 13:51:44**
 
 ## Newspaper Stats
 
-*Scraped **1,564** Articles*
+*Scraped **1,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,97 +12,25 @@ colombotelegraphcom | 27
 bbccomsinhala | 37
 adaderanasinhalalk | 52
 islandlk | 97
+newsfirstlk | 102
 economynextcom | 103
-newsfirstlk | 106
 dbsjeyarajcom | 118
 virakesarilk | 137
 dailyftlk | 150
 adalk | 168
 dailymirrorlk | 178
 tamilmirrorlk | 195
-adaderanalk | 196
+adaderanalk | 195
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-807 (51.6%) of 1,564 articles have been extended.
+807 (51.8%) of 1,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
-
-### Passenger plane crashes in northeastern Afghan mountains
-
-*2024-01-21 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96596/passenger-plane-crashes-in-northeastern-afghan-mountains) · `en`
-
-A plane crashed in mountainous northeastern Afghanistan, a provincial government official said Sunday.
-
-The aircraft crashed in Badakhshan province, which borders China, Tajikistan and Pakistan but the exact site of the accident was unknown.
-
-“The plane has crashed but the location is not known yet. We have sent teams but they have not arrived yet,” Zabihullah Amiri, head of the provincial information department, told AFP, without giving further details.
-
-The mighty Hindu Kush mountain range cuts through the province, which is home to Afghanistan’s highest mountain, Mount Noshaq at 7,492 metres (24,580 feet) high.
-
-◼️
-
-[Data](articles/dec7e644.json)
-
----
-
-### Another 987 suspects arrested during operation ‘Yukthiya’
-
-*2024-01-21 13:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/another-987-suspects-arrested-during-operation-yukthiya/) · `en`
-
-COLOMBO (News 1st); 987 suspects have been arrested during the 24 hours that ended at 12.30 on Sunday (21) morning, under operation 'Yukthiya', which was carried out across the island.
-
-Police said 663 suspects related to drug offenses and 324 suspects who were on the list directed to the crimes divisions were among the arrested group.
-
-Drugs including 270 grams of heroin, 140 grams of ICE and 18kg of cannabis were seized during the operation.
-
-◼️
-
-[Data](articles/56412894.json)
-
----
-
-### Group of doctors protest opposite Karapitiya Teaching Hospital
-
-*2024-01-21 12:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/group-of-doctors-protest-opposite-karapitiya-teaching-hospital/) · `en`
-
-COLOMBO (News 1st); A group of doctors of the Karapitiya Teaching Hospital and area residents launched a protest on Sunday (21) morning, opposite the Karapitiya Teaching Hospital.
-
-News 1st correspondent said the protest was held to demand the release of the Specialist Doctor who was arrested and remanded on charges of assaulting two minor staff members.
-
-The doctor was charged with allegedly assaulting the relevant employee after a dispute regarding a strike held on the 16th of January escalated.
-
-Police also arrested two hospital workers on Saturday (20) night on suspicion of assaulting the relevant doctor.
-
-They will be produced before the Galle Magistrate on Sunday (21).
-
-◼️
-
-[Data](articles/d19daa25.json)
-
----
-
-### President Wickremesinghe holds meeting with the President of Uganda
-
-*2024-01-21 12:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/president-wickremesinghe-holds-meeting-with-the-president-of-uganda/) · `en`
-
-During his official visit to Uganda, President Ranil Wickremesinghe engaged in a formal meeting with HE Yoweri Museveni, the President of the Republic of Uganda, on Saturday (20) afternoon.
-
-President Museveni warmly welcomed Ranil Wickremesinghe, and following a friendly exchange, bilateral discussions commenced.
-
-During the meeting, President Yoweri Museveni expressed his joy at President Ranil Wickremesinghe’s acceptance of the invitation for the official visit and lauded his significant role in revitalizing Sri Lanka’s economy. President Museveni commended the nation for its achievements in this regard.
-
-The leaders delved into discussions about Sri Lanka’s new economic program, with President Ranil Wickremesinghe highlighting the positive economic trajectory since entering into an agreement with the International Monetary Fund. He emphasized the anticipated growth in 2024.
-
-...
-
-[Data](articles/7fe7a2c5.json)
-
----
 
 ### Special circular to schools
 
@@ -139,26 +67,6 @@ In addition, the Commission said that the public will be obtained on the amendme
 [Data](articles/20bd8ee1.json)
 
 [Extended Data](ext_articles/20bd8ee1.ext.json)
-
----
-
-### Cardinal Ranjith Calls for Leaders Aligned with Updated Laws
-
-*2024-01-21 12:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/cardinal-ranjith-calls-for-leaders-aligned-with-updated-laws/) · `en`
-
-COLOMBO (News 1st); Cardinal Malcolm Ranjith asserted that Sri Lanka's issues cannot be solved with outdated laws and leaders who ignore the country's unique context.
-
-Speaking during the feast at the St. John the Baptist's Church in Mutwal on Sunday (21) morning, he emphasized the need for leaders with an attitude "that fits the culture and suits the country" to effectively address the nation's problems.
-
-The Cardinal challenged the notion that simply following the agendas of other parties will bring solutions. He stressed the importance of realistic, locally-tailored approaches.
-
-He argued that societal change is not achieved through strict laws and burdening the people.
-
-He argued that societal change is not achieved through strict laws and burdening the people. He pointed to the current Parliament's new legislation, citing the Ceylon Electricity Board Act as a prime example. "No one knows the details of the Act," the Cardinal said, questioning its utility for the people.
-
-...
-
-[Data](articles/bc7e52da.json)
 
 ---
 
@@ -986,6 +894,8 @@ Minister of Trade, Commerce and Food Security Nalin Fernando said the revised pr
 
 The Minister attributed the price revision to the VAT increase.
 
+Awareness programme for school children over drug menace from Feb 5th
+
 ◼️
 
 [Data](articles/c7457509.json)
@@ -1144,7 +1054,7 @@ Minister Alles stressed that operation 'Yukthiya' will only end after eradicatin
 
 He said the operation may face other challenges in future as well, and urged the community police and other factions to unite, to make the operation a success.
 
-◼️
+...
 
 [Data](articles/6bef53d1.json)
 
@@ -1159,6 +1069,8 @@ He said the operation may face other challenges in future as well, and urged the
 COLOMBO (News 1st); A 22-year-old has died in a shooting in Telijjawila, Matara.
 
 Sri Lanka Police said the shooting was carried out last night by an individual who arrived in a motorcycle.
+
+Awareness programme for school children over drug menace from Feb 5th
 
 ◼️
 
@@ -1179,6 +1091,8 @@ A spokesman for the PUCSL said public views will be obtained on the proposal to 
 The PUCSL added that the public will be able to submit opinions in writing for up to 21 days from the 23rd.
 
 The Ceylon Electricity Board handed over the proposal to revise electricity tariffs to the PUCSL.
+
+Awareness programme for school children over drug menace from Feb 5th
 
 ◼️
 
@@ -1246,6 +1160,8 @@ The Acting IGP said the programme will raise awareness among hundreds of school 
 
 He said under operation 'Yukthiya' Police have identified around 4,500 people involved in the supply of drugs to Sri Lanka, and 60 percent of them have been arrested.
 
+Awareness programme for school children over drug menace from Feb 5th
+
 ◼️
 
 [Data](articles/42006a5b.json)
@@ -1267,6 +1183,8 @@ The official meeting between President Ranil Wickremesinghe and Prime Minister o
 The leaders engaged in extensive discussions on promoting the cultural and religious relations that have existed between the two countries since the past, emphasizing the potential for promoting tourism.
 
 With the aim of expanding political relations, a proposal was made to facilitate an exchange program for MPs to study the parliamentary affairs of both countries.
+
+Awareness programme for school children over drug menace from Feb 5th
 
 ◼️
 
@@ -2065,5 +1983,113 @@ On Sunday, as many as ten Indian fishermen were arrested, and their trawler seiz
 [Data](articles/f98cf05b.json)
 
 [Extended Data](ext_articles/f98cf05b.ext.json)
+
+---
+
+### The latest price of the Sathosa egg is notified
+
+*2024-01-20 19:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192366) · `si`
+
+Minister of Trade Nalin Fernando says that the price of an imported Indian egg is up to 43 rupees from Sathosa to 43 rupees.
+
+With the increase in VAT, an egg is restricted to Rs. 35.
+
+In such an environment, local egg prices have risen to the re-market.
+
+When contacted by Lanka Sathosa, chairman Pasanda, he said that the VAT would be sold to Rs. 42 per laying egg.
+
+The government has taken steps to limit the importation from India due to the last few days of the country.
+
+Accordingly, a white and red egg of the Narahenpita Economic Center was sold at a price of Rs. 52.
+
+The Animal Producers' Association says that local eggs and chicken are in the market without shortage.
+
+◼️
+
+[Data](articles/e282e485.json)
+
+[Extended Data](ext_articles/e282e485.ext.json)
+
+---
+
+### Sri Lanka, Nepal discuss MP exchange programme
+
+*2024-01-20 19:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-nepal-discuss-mp-exchange-programme-148074/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe and the Prime Minister of Nepal Pushpa Kamal Dahal met on Saturday (20) in Kampala, Uganda, on the sidelines of the Non-Aligned Movement Summit.
+
+The two leaders discussed promoting bilateral tourism and developing cultural and religious ties that have existed between the two countries historically.
+
+“With the aim of expanding political relations, a proposal was made to facilitate an exchange program for Members of Parliament to study the parliamentary affairs of both countries,” a statement by Wickremesinghe’s media division said.
+
+Late last year, Wickremesinghe told a group of school children that Parliament had become a place where a lot of MPs act. He said some MPs don’t know where to draw the line when acting in Parliament. (Colombo/Jan20/2024)
+
+◼️
+
+[Data](articles/039ba051.json)
+
+[Extended Data](ext_articles/039ba051.ext.json)
+
+---
+
+### India’s Jaishankar calls on President Ranil, appreciates bilateral initiatives
+
+*2024-01-20 19:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96576/indias-jaishankar-calls-on-president-ranil-appreciates-bilateral-initiatives) · `en`
+
+External Affairs Minister S Jaishankar on January 20 called on Sri Lankan President Ranil Wickremesinghe and discussed the progress of bilateral initiatives.
+
+Mr. Jaishankar is in the Ugandan capital city of Kampala to represent India at the two-day summit of the Non-Aligned Movement (NAM), which began on Friday.
+
+“Pleased to call on Sri Lankan President @RW_UNP on the sidelines of the NAM Summit in Kampala,” Mr. Jaishankar posted on X.
+
+“Appreciate his continued guidance for the advancement of our bilateral initiatives. India’s commitment is reflected in our Neighbourhood First and SAGAR policy,” he said.
+
+India’s Neighbourhood First policy guides its approach towards the management of relations with countries in its immediate neighbourhood. It is aimed at enhancing physical, digital and people-to-people connectivity across the region, as well as augmenting trade and commerce.
+
+...
+
+[Data](articles/c87114d6.json)
+
+[Extended Data](ext_articles/c87114d6.ext.json)
+
+---
+
+### Changing agreement with IMF under Opposition leader’s government a mere slogan
+
+*2024-01-20 18:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Changing-agreement-with-IMF-under-Opposition-leaders-government-a-mere-slogan/108-275419) · `en`
+
+Avissawella, Jan 20 (Daily Mirror) - statement made by the Opposition Leader about changing the agreement by the International Monetary Fund (IMF) with Sri Lanka is a mere slogan, Finance State Minister Ranjith Siyambalapitiya said.
+
+He said the Opposition Leader had made a statement that he will change the agreement with the IMF under his government.
+
+Therefore, everyone should act responsibly at this time, the Minister said at a meeting in Avissawella today.
+
+"At a time when the country was in trouble, the agreement made with the financial fund did good and not bad for the country and the economy," he said.
+
+However, such statements are made for the sake of popularity and do not bring any good to the country, the Minister added.
+
+◼️
+
+[Data](articles/dc85af09.json)
+
+[Extended Data](ext_articles/dc85af09.ext.json)
+
+---
+
+### Jaishankar calls on President Wickremesinghe in Uganda
+
+*2024-01-20 18:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jaishankar-calls-on-President-Wickremesinghe-in-Uganda/108-275418) · `en`
+
+Uganda, Jan 20 (PTI) - Indian External Affairs Minister S Jaishankar on Saturday called on Sri Lankan President Ranil Wickremesinghe and discussed the progress of bilateral initiatives.
+
+Jaishankar is in the Ugandan capital city of Kampala to represent India at the two-day summit of the Non-Aligned Movement (NAM), which began on Friday.
+
+"Pleased to call on Sri Lankan President @RW_UNP on the sidelines of the NAM Summit in Kampala," Jaishankar posted on X.
+
+◼️
+
+[Data](articles/41ae4717.json)
+
+[Extended Data](ext_articles/41ae4717.ext.json)
 
 ---

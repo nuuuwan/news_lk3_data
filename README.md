@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 04:50:23**
+As of **2024-01-22 05:17:25**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ adaderanalk | 206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,423 (85.4%) of 1,666 articles have been extended.
+1,435 (86.1%) of 1,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### ஐ.நா. பொதுச் செயலாளரை சந்தித்தார் ஜனாதிபதி
+### The UN. The President met the General Secretary
 
 *2024-01-22 03:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நா-பொதுச்-செயலாளரை-சந்தித்தார்-ஜனாதிபதி/175-331925) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவுக்கும் ஐக்கிய நாடுகள் சபையின் பொதுச் செயலாளர் நாயகம் அன்டோனியோ குட்டரஸுக்கும் இடையிலான சந்திப்பொன்று இடம்பெற்றுள்ளது.
+There is a meeting between President Ranil Wickremesinghe and the General Secretary General of the United Nations Antonio Guttaras.
 
-இலங்கையின் பொருளாதாரம் மற்றும் நாடு எதிர்நோக்கும் தற்போதைய சவால்களை வெற்றிகொள்வதற்கு சாதகமான சூழலையும் ஸ்திரத்தன்மையை உருவாக்குவது தொடர்பில் இதன்போது கலந்துரையாடப்பட்டுள்ளது. (a)
+It has been discussed on the creation of stability and creation of stability to win the current challenges facing the economy of Sri Lanka and the country.. (A)
 
 ◼️
 
 [Data](articles/1bf964b5.json)
+
+[Extended Data](ext_articles/1bf964b5.ext.json)
 
 ---
 

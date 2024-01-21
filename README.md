@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 09:17:15**
+As of **2024-01-21 09:32:50**
 
 ## Newspaper Stats
 
-*Scraped **1,510** Articles*
+*Scraped **1,514** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,57 @@ colombotelegraphcom | 27
 bbccomsinhala | 36
 adaderanasinhalalk | 45
 islandlk | 97
-newsfirstlk | 101
 economynextcom | 101
+newsfirstlk | 102
 dbsjeyarajcom | 117
 virakesarilk | 129
 dailyftlk | 150
 adalk | 163
 dailymirrorlk | 170
-adaderanalk | 186
-tamilmirrorlk | 188
+adaderanalk | 187
+tamilmirrorlk | 190
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-583 (38.6%) of 1,510 articles have been extended.
+587 (38.8%) of 1,514 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### இந்தியப் பெருங்கடலில் பாரிய நிலநடுக்கம்
+
+*2024-01-21 08:38:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியப்-பெருங்கடலில்-பாரிய-நிலநடுக்கம்/175-331870) · `ta`
+
+இந்த நிலநடுக்கம் 10 கி.மீ. ஆழத்தில் ஏற்பட்டுள்ளதாக தேசிய நிலநடுக்க ஆய்வு மையம் தெரிவித்துள்ளது.
+
+மேலும் இது ரிக்டர் அளவில் 6.4ஆக பதிவாகியுள்ளது. இதனால் சுனாமி எச்சரிக்கை ஏதும் விடுக்கப்படவில்லை. R
+
+◼️
+
+[Data](articles/73982ca0.json)
+
+---
+
+### Price of Indian eggs increased at Sathosa outlets
+
+*2024-01-21 08:36:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/price-of-indian-eggs-increased-at-sathosa-outlets/) · `en`
+
+COLOMBO (News 1st); The price of Indian eggs sold through Sathosa outlets has been increased from Sunday (21).
+
+Minister of Minister of Trade, Commerce and Food Security Nalin Fernando said the revised price of an Indian egg is Rs.43.
+
+The Minister attributed the price revision to the VAT increase.
+
+Awareness programme for school children over drug menace from Feb 5th
+
+◼️
+
+[Data](articles/c7457509.json)
+
+---
 
 ### The new resolution taken for students ...
 
@@ -47,6 +79,22 @@ National Youth Service Council trainers and university students have been select
 [Data](articles/a1f90ab8.json)
 
 [Extended Data](ext_articles/a1f90ab8.ext.json)
+
+---
+
+### India’s NIA files supplementary chargesheet against four in Sri Lanka human trafficking case
+
+*2024-01-21 08:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96586/indias-nia-files-supplementary-chargesheet-against-four-in-sri-lanka-human-trafficking-case) · `en`
+
+The National Investigation Agency (NIA) of India has filed a supplementary chargesheet against four accused in a 2021 case relating to human trafficking of 39 Sri Lankan nationals into India on the false pretext of taking them to Canada.
+
+Mohamed Imran Khan alias Imran, who was arrested by the NIA recently, has been charge-sheeted under various sections of IPC relating to trafficking, confinement, and conspiracy, along with absconders Seeni Aabul Khan, Mohamed Ibrahim alias Ahmed and Pudumadam Imran alias Hajiyar aka Imrankhan, before the NIA Special Court, Bengaluru.
+
+The accused were allegedly involved in trafficking of 39 Sri Lankan nationalists to Mangaluru via Tamil Nadu by falsely promising them that they were being taken to Canada. The victims were confined in various lodges across Mangaluru and were initially arrested by Karnataka Police, as accomplices along with the accused persons, NIA said in a press release.
+
+...
+
+[Data](articles/ed9f7337.json)
 
 ---
 
@@ -423,6 +471,22 @@ Peter Julian Robin Morgan, CBE, is my first person of interest. He was born on A
 [Data](articles/5ecfc9f1.json)
 
 [Extended Data](ext_articles/5ecfc9f1.ext.json)
+
+---
+
+### நேபாள பிரதமருடன் ஜனாதிபதி ரணில் சந்திப்பு
+
+*2024-01-21 03:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நேபாள-பிரதமருடன்-ஜனாதிபதி-ரணில்-சந்திப்பு/175-331868) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் நேபாள பிரதமர் புஷ்ப கமல் தஹாலுக்கும் இடையிலான சந்திப்பொன்று நேற்று இடம்பெற்றுள்ளது.
+
+இரு நாடுகளுக்கும் இடையில் நீண்ட காலமாக நிலவும் கலாசார மற்றும் மத உறவுகளை மேலும் மேம்படுத்துவது தொடர்பில்  தலைவர்கள் கலந்துரையாடியுள்ளனர்.
+
+இரு நாடுகளுக்கும் இடையேயான அரசியல் உறவை மேலும் விரிவுபடுத்தும் நோக்கில், பரிமாற்றத் திட்டத்தின் அடிப்படையில், இரு நாட்டு பாராளுமன்ற விவகாரங்களை ஆய்வு செய்வதற்கு பாராளுமன்ற உறுப்பினர்களுக்கு வாய்ப்பளிப்பது தொடர்பிலும் இதன்போது கலந்துரையாடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/50e83148.json)
 
 ---
 
@@ -1985,85 +2049,5 @@ These guidelines were issued in response to a tragic incident that unfolded in N
 [Data](articles/72bfef05.json)
 
 [Extended Data](ext_articles/72bfef05.ext.json)
-
----
-
-### President's President in a discussion with the leaders of the African region
-
-*2024-01-20 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192353) · `si`
-
-President Ranil Wickremesinghe has held bilateral talks with several leaders and representatives in the African region of the African region of the African region of Uganda.
-
-President Ranil Wickremesinghe and South African President Cyril's President Cyril Ramaphosa held yesterday (19th).
-
-The President of the South African President is very friendly and is very friendly and has joined the two bilateral discussions.
-
-Meanwhile, the Prime Minister of Tanzania (Kassim Majaliwa) was also discussed by President Ranil Wickremesinghe and expanding bilateral relations between the two countries.
-
-And Philip.Davis (Philip E. Mr. DAvis, Prime Minister AHMED (ABIAM AHMED) Mr. ABIAM Chabi Talata, Benin Ahmed, met President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/f73070a7.json)
-
-[Extended Data](ext_articles/f73070a7.ext.json)
-
----
-
-### Special traffic plan
-
-*2024-01-20 13:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192352) · `si`
-
-Motor Traffic has been restricted due to the Duru Maha Perahera of the Kelaniya Rajamaha Viharaya.
-
-Perahera is scheduled to visit the streets until the 24th of the next morning.
-
-◼️
-
-[Data](articles/86faa0b0.json)
-
-[Extended Data](ext_articles/86faa0b0.ext.json)
-
----
-
-### Update: Over 60 kgs of heroin seized by Navy off Dondra Point
-
-*2024-01-20 13:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Over-60-kgs-of-heroin-seized-by-Navy-off-Dondra-Point/108-275413) · `en`
-
-In a special operation conducted by the Sri Lanka Navy on the southern sea area off Dondra Point, two multi-day trawlers suspected of transporting over 60 kgs of drugs, believed to be heroin, were siezed along with eleven suspects.
-
-Based on intelligence received by the Navy, the Sri Lanka Naval Ship Suranimila was deployed in this special operation in the southern sea area, approximately 100 nautical miles (about 185 kms) off Dondra Point yesterday.
-
-Upon inspecting a local multi-day fishing vessel suspected of transporting narcotics, three bags containing over 60 kgs of heroin were discovered hidden in the vessel.
-
-Additionally, another trawler intended to bring narcotics ashore was also seized.
-
-The Navy said the narcotics recovered vessel and the other multi-day fishing vessel were brought to the Galle port this morning, along with the eleven suspects and the seized stock of drugs.
-
-◼️
-
-[Data](articles/b354790b.json)
-
-[Extended Data](ext_articles/b354790b.ext.json)
-
----
-
-### Sri Lanka top doctor seeks equality in healthcare
-
-*2024-01-20 12:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-top-doctor-seeks-equality-in-healthcare-148064/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s health care system was hostile to sexual minorities and has institutionalised unfair treatment of ethnic and religious minorities, a top physician said Friday vowing to battle against inequalities.
-
-The new President of the College of Physicians Upul Dissanayake told fellow doctors at his induction in Colombo on Friday that the health sector had failed to recognise diversity and there was widespread discrimination.
-
-The majority of healthcare personnel discriminates against 12 percent of Sri Lanka’s population estimated to be from the LGBTIQ (people who have identified themselves as lesbian, gay, bisexual, transgender, intersex, or questioning), Dissanayake said.
-
-He quoted a 2013 study showing that sexual minorities feared seeking help from psychiatrists or psychologists to discuss the violence they may have faced. And of those who sought assistance, 12 percent had a negative reaction from a doctor.
-
-...
-
-[Data](articles/569825e7.json)
-
-[Extended Data](ext_articles/569825e7.ext.json)
 
 ---

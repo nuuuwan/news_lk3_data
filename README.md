@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 19:32:45**
+As of **2024-01-21 19:50:08**
 
 ## Newspaper Stats
 
-*Scraped **1,619** Articles*
+*Scraped **1,620** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 27
 bbccomsinhala | 38
-adaderanasinhalalk | 67
+adaderanasinhalalk | 68
 islandlk | 97
 economynextcom | 103
 newsfirstlk | 109
@@ -26,11 +26,37 @@ adaderanalk | 203
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,146 (70.8%) of 1,619 articles have been extended.
+1,170 (72.2%) of 1,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### The crime of the grandmother for a little girl
+
+*2024-01-21 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192404) · `si`
+
+Foreign media has made a sensitive news of pushing a small girl to a well.
+
+The girls said that the girl's grandmother is planning that the 10-year-old girl has been thrown into the well.
+
+The girl had taken place around 10 am yesterday and had taken the girl from the well and had been taken to a hospital.
+
+The victim was a small girl named 10.
+
+The suspects will be proposed that the suspect has been pusted his granddaughter in a family dispute.
+
+The girl's body has been forwarded for the post mortem.
+
+She has fled the area and police investigations have been launched to arrest the suspect.
+
+◼️
+
+[Data](articles/9b16a362.json)
+
+[Extended Data](ext_articles/9b16a362.ext.json)
+
+---
 
 ### Here is where the inmate is in jail last
 
@@ -69,6 +95,8 @@ Furthermore, issuing a statement, Sri Lanka Ramanna Maha Nikaya has announced th
 ...
 
 [Data](articles/7fe6ac07.json)
+
+[Extended Data](ext_articles/7fe6ac07.ext.json)
 
 ---
 
@@ -125,6 +153,8 @@ The President also pointed out that the contemporary international debt resoluti
 ...
 
 [Data](articles/915f71d7.json)
+
+[Extended Data](ext_articles/915f71d7.ext.json)
 
 ---
 
@@ -2105,23 +2135,5 @@ Investigative report over controversial human immunoglobulin purchase handed to 
 [Data](articles/c7457509.json)
 
 [Extended Data](ext_articles/c7457509.ext.json)
-
----
-
-### The new resolution taken for students ...
-
-*2024-01-21 08:33:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்காக-எடுக்கப்பட்டுள்ள-புதிய-தீர்மானம்/175-331869) · `ta`
-
-Police Inspector Deshpandu Thenkon said that a program to clarify to school students on drug threat will be launched from 5th of this month.
-
-In response to a comment yesterday (20), the Inspector General of Police, Deshpandu Thenkon, said this.
-
-National Youth Service Council trainers and university students have been selected for the project. Remble
-
-◼️
-
-[Data](articles/a1f90ab8.json)
-
-[Extended Data](ext_articles/a1f90ab8.ext.json)
 
 ---

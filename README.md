@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-21 08:50:46**
+As of **2024-01-21 09:02:26**
 
 ## Newspaper Stats
 
-*Scraped **1,506** Articles*
+*Scraped **1,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 101
 dbsjeyarajcom | 117
 virakesarilk | 129
 dailyftlk | 150
-adalk | 162
+adalk | 163
 dailymirrorlk | 170
-tamilmirrorlk | 185
 adaderanalk | 186
+tamilmirrorlk | 188
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-552 (36.7%) of 1,506 articles have been extended.
+552 (36.6%) of 1,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-21 (Sunday)
+
+### மாணவர்களுக்காக எடுக்கப்பட்டுள்ள புதிய தீர்மானம்...
+
+*2024-01-21 08:33:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்காக-எடுக்கப்பட்டுள்ள-புதிய-தீர்மானம்/175-331869) · `ta`
+
+போதைப்பொருள் அச்சுறுத்தல் குறித்து பாடசாலை மாணவர்களுக்கு தெளிவுபடுத்தும் வேலைத்திட்டம் எதிர்வரும் 5ஆம் திகதி முதல் ஆரம்பிக்கப்படவுள்ளதாக பதில் பொலிஸ்மா அதிபர் தேஷ்பந்து தேன்கோன் தெரிவித்துள்ளார்.
+
+குறித்த போதைப்பொருள் தடுப்பு வேலைத்திட்டத்திற்காக 200 வளவாளர்களுக்கு பயிற்சியளிக்கும் நிகழ்வில் நேற்று (20) கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே பதில் பொலிஸ் மா அதிபர் தேஷ்பந்து தேன்கோன் இதை தெரிவித்தார்.
+
+தேசிய இளைஞர் சேவை மன்ற பயிலுனர்கள் மற்றும் பல்கலைக்கழக மாணவர்கள் இத்திட்டத்திற்கு தெரிவு செய்யப்பட்டுள்ளனர். R
+
+◼️
+
+[Data](articles/a1f90ab8.json)
+
+---
 
 ### සෞඛ්‍ය ප්‍රසම්පාදන ක්‍රියාවලිය ගැන පූර්ණ විශ්ලේෂණයක්
 
@@ -158,6 +174,20 @@ President to address the 3rd South Summit of the Group of 77 & China in Uganda
 
 ---
 
+### ලංවිමට වසර 11කදී අඩුම සේවක බඳවා ගැනිම 2023දී
+
+*2024-01-21 07:49:54* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිමට-වසර-11කදී-අඩුම-සේවක-බඳවා-ගැනිම-2023දී/11-407634) · `si`
+
+2013 වසරද ඇතුළත්ව 2023 දක්වා වූ වසර 11ක කාලය තුළදී ලංකා විදුලි බල මණ්ඩලය වෙත අඩුම සේවකයන් සංඛ්‍යාවක් බඳවා ගෙන ඇත්තේ පසුගිය වසරේදී බව එහි දත්ත වලින් පෙනේනට තිබේ.
+
+2023 වසරේදී ලංවිමට බඳවා ගෙන ඇති මුළු සේවකයන් සංඛ්‍යාව 05කි. එම වසර 11ක කාලය තුළදී ලංවිමට වැඩිම සේවකයන් සංඛ්‍යාවක් බඳවා ගෙන ඇත්තේ 2016 වසරේදී වන අඅතර එම සංඛ්‍යාව 4675කි. එසේම 2017 වසරේදී ලංවිමට සේවකයන් 1755ක් බඳවා ගෙන තිබේ.
+
+◼️
+
+[Data](articles/5800a012.json)
+
+---
+
 ### Road accidents that killed four
 
 *2024-01-21 07:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192379) · `si`
@@ -269,6 +299,22 @@ He was stating that the program will be launched in 300 centers across the count
 [Data](articles/384274c6.json)
 
 [Extended Data](ext_articles/384274c6.ext.json)
+
+---
+
+### Formulating a National Policy on disability
+
+*2024-01-21 07:09:00* · [`islandlk`](http://island.lk/formulating-a-national-police-on-disability/) · `en`
+
+(Excerpted from Memories that linger – my journey in the world of disability by Padmani Mendis)
+
+Prof. Chandra Gunawardene was the Dean of the Faculty of Education at the Open University of Sri Lanka, OUSL, at the turn of the century. I was recommended to her by her friend Prof. Swarna Wijetunge who had been a Professor of Education at the University of Colombo. Prof. Wijetunge was a member of the National Education Commission. She had always been sensitive to the poor quality of education available to disabled children. Prof. Gunawardene was keen to take action to uplift this through improvement in teacher education.
+
+...
+
+[Data](articles/00a14db3.json)
+
+[Extended Data](ext_articles/00a14db3.ext.json)
 
 ---
 
@@ -385,6 +431,36 @@ Peter Julian Robin Morgan, CBE, is my first person of interest. He was born on A
 [Data](articles/5ecfc9f1.json)
 
 [Extended Data](ext_articles/5ecfc9f1.ext.json)
+
+---
+
+### வயோதிபரின் சடலம் மீட்பு
+
+*2024-01-21 03:26:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வயோதிபரின்-சடலம்-மீட்பு/175-331867) · `ta`
+
+வவுனியா, திருகோணமலை பிரதான வீதியின் வவுனியா எல்லைப் புறமாக ஹெப்பற்றிக்கொல்லாவ பகுதியிலேயே இந்தச் சடலம் நேற்று கண்டெடுக்கப்பட்டுள்ளது.
+
+60 வயது மதிக்கத்தக்க இந்த வயோதிபர் விபத்தின் காரணமாகவே உயிரிழந்துள்ளார் எனவும், விபத்தை ஏற்படுத்திய வாகனம் தப்பிச் சென்றுள்ளது எனவும், விபத்தை ஏற்படுத்தியவர்கள் இதுவரை கண்டுபிடிக்கப்படவில்லை எனவும் பொலிஸார் தெரிவித்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/2369b19a.json)
+
+---
+
+### இன்றுமுதல் சதொசவில் முட்டை விலை 43 ரூபா
+
+*2024-01-21 03:21:53* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றுமுதல்-சதொசவில்-முட்டை-விலை-43-ரூபா/175-331866) · `ta`
+
+சதொச ஊடாக விற்பனை செய்யப்படும் இறக்குமதி செய்யப்பட்ட இந்திய முட்டை ஒன்றின் விலை இன்று முதல் 43 ரூபாவாக அதிகரிக்கப்படும் என வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+வற் வரி அதிகரிப்பால் இந்தியாவிலிருந்து இறக்குமதி செய்யப்படும் முட்டைகளை 35 ரூபாவுக்கு விற்க முடியாததால் சதொச விற்பனை நிலையங்கள் முட்டை விற்பனைக்கு கட்டுப்பாடு விதித்துள்ளன. அதன்படி சதொசவில் முட்டை தட்டுப்பாடு ஏற்பட்டுள்ளது.
+
+இவ்வாறான சூழலில், சந்தையில் நாட்டு முட்டையின் விலை மீண்டும் அதிகரித்துள்ளது என அமைச்சர் நளின் பெர்னாண்டோ தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/baa5900e.json)
 
 ---
 
@@ -1636,22 +1712,6 @@ Modi wants to listen to the year of the year, and the elephant Pagan has been re
 
 ---
 
-### Formulating a National Police on disability
-
-*2024-01-20 15:06:00* · [`islandlk`](http://island.lk/formulating-a-national-police-on-disability/) · `en`
-
-(Excerpted from Memories that linger – my journey in the world of disability by Padmani Mendis)
-
-Prof. Chandra Gunawardene was the Dean of the Faculty of Education at the Open University of Sri Lanka, OUSL, at the turn of the century. I was recommended to her by her friend Prof. Swarna Wijetunge who had been a Professor of Education at the University of Colombo. Prof. Wijetunge was a member of the National Education Commission. She had always been sensitive to the poor quality of education available to disabled children. Prof. Gunawardene was keen to take action to uplift this through improvement in teacher education.
-
-...
-
-[Data](articles/00a14db3.json)
-
-[Extended Data](ext_articles/00a14db3.ext.json)
-
----
-
 ### Navy bears 60 kilos of heroin
 
 *2024-01-20 15:00:35* · [`adalk`](https://www.ada.lk/breaking_news/හෙරොයින්-කිලෝ-60ක්-නාවික-හමුදා-භාරයට/11-407631) · `si`
@@ -1993,99 +2053,5 @@ He quoted a 2013 study showing that sexual minorities feared seeking help from p
 [Data](articles/569825e7.json)
 
 [Extended Data](ext_articles/569825e7.ext.json)
-
----
-
-### Israeli soldiers who have lost their lives in Gaza
-
-*2024-01-20 12:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174386) · `ta`
-
-CNN has reportedly received videos that show that Israeli soldiers have destroyed more than 16 cemetery in Gaza
-
-CNN said that the bodies have been excavated in some cases.
-
-Israeli soldiers have destroyed the cemetery and searched the bodies this week.
-
-The Israeli security forces have said that this has been a part of the Find to find those caught by Hamas.
-
-Sinn has said that the cemetery has been destroyed and has been investigating the pictures and social media films.
-
-CNN said that Israeli soldiers were planning to deliberately carry out this as it was heading towards Gaza.
-
-CNN also pointed out that the destruction of graves is a violation of international law.
-
-CNN said lawyers say Israel's action is equivalent to war crimes.
-
-The Israeli Security Force spokesman said that the destruction of the 16 -year -olds could not be destroyed.
-
-Israeli security forces have said that their main purpose is to rescue hostages and find their bodies.
-
-...
-
-[Data](articles/ad4a98ce.json)
-
-[Extended Data](ext_articles/ad4a98ce.ext.json)
-
----
-
-### Special dengue control program in place covering Colombo District
-
-*2024-01-20 12:51:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/20/special-dengue-control-program-in-place-covering-colombo-district/) · `en`
-
-COLOMBO (News 1st) – The National Dengue Control Unit says that a special dengue control program will be implemented next week to cover the Colombo district.
-
-Its director, Dr. Sudath Samaraweera, said that 20% of dengue cases in the country are reported from the Colombo district.
-
-He added that 6,689 cases of dengue have been reported in the last 18 days of this year alone.
-
-IMF & Sri Lanka: Tax reforms and fiscal discipline seen as key to overcoming the crisis
-
-Navy seized Rs. 1.6 BILLION worth of Heroin in major drug bust on High Seas
-
-◼️
-
-[Data](articles/916aa839.json)
-
-[Extended Data](ext_articles/916aa839.ext.json)
-
----
-
-### Compensation for driver who died in shooting
-
-*2024-01-20 12:45:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கி-பிரயோகத்தில்-உயிரிழந்த-சாரதிக்கு-இழப்பீடு/175-331841) · `ta`
-
-The police have provided a million rupees of loss to the relatives of the lorry driver who died in the shooting of the police officer.
-
-In response to the house in the driver's Alawa area, the Inspector General of Police Deshpandu Tennakoon has paid the amount.
-
-During a vehicle inspection carried out in the Naramala area on the afternoon, the driver fell into a police fire.
-
-The father of three children aged 41 from Maharachchiyamulla died in the incident.
-
-Subsequently, the Assistant Police Inspector and the Police Constable in connection with the incident have been suspended from yesterday (19).. (N)
-
-◼️
-
-[Data](articles/40660186.json)
-
-[Extended Data](ext_articles/40660186.ext.json)
-
----
-
-### New set of instructions to police officers
-
-*2024-01-20 12:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192351) · `si`
-
-Acting IGP Tennakoon says he has given a new set of instructions not to stop traffic in civilian dress.
-
-The new set of instructions were sent to all police stations yesterday.
-
-He added that the new training was given to the death of a driver in the Narammala area on the 18th.
-
-◼️
-
-[Data](articles/e2c78c6a.json)
-
-[Extended Data](ext_articles/e2c78c6a.ext.json)
 
 ---

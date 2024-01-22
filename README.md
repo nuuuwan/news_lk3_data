@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 14:33:02**
+As of **2024-01-22 14:51:25**
 
 ## Newspaper Stats
 
-*Scraped **1,774** Articles*
+*Scraped **1,783** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 40
 adaderanasinhalalk | 92
-economynextcom | 108
 islandlk | 108
-newsfirstlk | 112
+economynextcom | 111
+newsfirstlk | 113
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 172
+virakesarilk | 175
 adalk | 187
-dailymirrorlk | 207
+dailymirrorlk | 209
 tamilmirrorlk | 219
 adaderanalk | 220
 
@@ -26,11 +26,109 @@ adaderanalk | 220
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,645 (92.7%) of 1,774 articles have been extended.
+1,651 (92.6%) of 1,783 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### சம்பந்தனை சந்தித்தார் இலங்கை தமிழரசுக் கட்சியின் தலைவர் சிறிதரன்
+
+*2024-01-22 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174518) · `ta`
+
+இலங்கை தமிழரசு கட்சியின் புதிய தலைவரும், பாராளுமன்ற உறுப்பினருமான சிவஞானம் சிறிதரன் கட்சியின் சிரேஸ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தனை சந்தித்து கலந்துரையாடினார்.
+
+திங்கட்கிழமை (22) அவரது கொழும்பில் உள்ள இல்லத்தில் சந்தித்து ஆசிபெற்றதுடன் கட்சியின் நகர்வுகள் அடுத்தகட்ட நடவடிக்கைகள் தொடர்பில் கலந்துரையாடினார்.
+
+◼️
+
+[Data](articles/066d7b7e.json)
+
+---
+
+### Supreme Court to consider Fundamental Rights application by Cardinal Malcolm Ranjith
+
+*2024-01-22 13:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/supreme-court-to-consider-fundamental-rights-application-by-cardinal-malcolm-ranjith/) · `en`
+
+COLOMBO (News 1st); The Supreme Court has decided to take up for consideration on 31st January, the Fundamental Rights application by Cardinal Malcolm Ranjith seeking the dismissal of Deshabandu Tennakoon from the post of Acting IGP and an interim order preventing his appointment as the IGP.
+
+The relevant application has requested that Deshbandu Tennakoon, the acting Inspector General of Police, be dismissed from the position and an interim injunction order be issued preventing his appointment as the Inspector General of Police.
+
+The application was called up today before judges Prithi Padman Suriyasena, Achala Vengappuli and Mahinda Samayawardena.
+
+Additional Solicitor General Nerin Pulle, who appeared for the Attorney General, requested that two petitions filed by two other parties regarding this issue be called on the 31st along with the petition submitted by His Eminence Malcolm Cardinal Ranjith.
+
+Upon Consideration, the bench fixed the date for calling this petition on the 31st.
+
+...
+
+[Data](articles/4e544a8c.json)
+
+---
+
+### தயாசிறி ஜயசேகரவுக்கு விதிக்கப்பட்ட தடை உத்தரவு நீடிக்கப்பட்டது!
+
+*2024-01-22 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174516) · `ta`
+
+ஶ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் பொதுச் செயலாளர் சரதி துஷ்மந்த மித்ரபாலவின் செயற்பாடுகளுக்கு இடையூறு விளைவிக்கக் கூடாது என ஸ்ரீலங்கா சுதந்திரக் கட்சியின் முன்னாள் பொதுச் செயலாளர் தயாசிறி ஜயசேகரவுக்கு விதிக்கப்பட்ட தடை உத்தரவை கொழும்பு மாவட்ட நீதிமன்றம் திங்கட்கிழமை (22) மேலும் நீடித்துள்ளது.
+
+மித்ரபால மற்றும் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவர் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன ஆகியோர் தாக்கல் செய்த மனு திங்கட்கிழமை (22) காலை நீதிமன்றில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டபோதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+இந்த வழக்கு விசாரணை எதிர்வரும் 29 ஆம் திகதி மீண்டும் விசாரணைக்கு எடுத்துக் கொள்ளப்படவுள்ளது.
+
+◼️
+
+[Data](articles/22d73012.json)
+
+---
+
+### மாத்தறை துப்பாக்கிப் பிரயோகம்: உயிரிழந்தவர் இலக்கு அல்ல என பொலிஸார் சந்தேகம்!
+
+*2024-01-22 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174520) · `ta`
+
+மாத்தறை, மாலிம்பட பொலிஸ் பிரிவுக்கு உட்பட்ட  தெலிஜ்ஜவிலவில்  உள்ள கையடக்கத் தொலைபேசி உபகரண விற்பனை நிலையமொன்றில் கடந்த 20ஆம் திகதி இரவு மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டுச் சம்பவம்  உயிரிழந்த நபரை இலக்கு வைத்தது  அல்ல  என விசாரணைகளை மேற்கொண்டுவரும் பொலிஸார் சந்தேகம் வெளியிட்டுள்ளனர்.
+
+துப்பாக்கிச் சூடு நடந்தபோது கடையின் உரிமையாளர் கடையின் முன்பாக நின்று கொண்டிருந்துள்ளார்.  உயிரிழந்த இளைஞர்   தனது கையடக்கத் தொலைபேசியை சார்ஜ் செய்வதற்காக கடைக்குள் இருந்தமை தெரிய வந்துள்ளது.
+
+இந்த இளைஞர்  கொரியாவுக்குச் செல்ல எதிர்பார்த்திருந்ததாகவும் தெரிய வந்துள்ளதுடன்  பொலிஸார் மேற்கொண்ட விசாரணையில் அவர் எந்த குற்றத்துடனும் ஈடுபாடு கொண்டவர் அல்லர் என்பதும் தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/230ae6ab.json)
+
+---
+
+### Indoor Rowing Championships 2024
+
+*2024-01-22 13:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Indoor-Rowing-Championships-2024/110-275490) · `en`
+
+The National Indoor Rowing Championships 2024 organized by the Amateur Rowing Association of Sri Lanka was held in Battaramulla. Personnel from the tri-forces also participated in the event. Pix by Waruna Wanniarachchi
+
+◼️
+
+[Data](articles/40650791.json)
+
+---
+
+### EDB, JICA to promote Sri Lanka ICT companies in Japanese market
+
+*2024-01-22 13:45:00* · [`economynextcom`](https://economynext.com/edb-jica-to-promote-sri-lanka-ict-companies-in-japanese-market-148213/) · `en`
+
+ECONOMYNEXT – The Japan International Cooperation Agency (JICA) and the Sri Lanka Export Development Board (EDB) are working to introduce Sri Lankan ICT companies to the Japanese market, the EDB said.
+
+The project “aims to assist approximately 30 SME ICT/BPM companies and tech startups in two cohorts over a two-year period starting in 2024 by providing market intelligence, business coaching and matchmaking support,” EDB said on its website.
+
+JICA agreed to extend “Japanese technical assistance for Sri Lankan tech companies by introducing Sri Lankan ICT/BPM companies to the Japanese market.”
+
+Yoichi Kogure, Senior Consultant at Japan Development Service Co Ltd and Malith Gunasekara, Technology Advisor specializing in FinTech will provide technical consultancy for the project, the EDB said.
+
+“The consultancy team will identify the potential areas of synergy and establish connections between two tech ecosystems.”
+
+...
+
+[Data](articles/5dc24090.json)
+
+---
 
 ### A van abducted in the owner - CCTV
 
@@ -75,6 +173,28 @@ The traditional festivals and festivals of the Tamils have some special characte
 [Data](articles/210dbfac.json)
 
 [Extended Data](ext_articles/210dbfac.ext.json)
+
+---
+
+### Modi inaugurates Hindu temple on razed Babri mosque site
+
+*2024-01-22 13:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Modi-inaugurates-Hindu-temple-on-razed-Babri-mosque-site/108-275492) · `en`
+
+India, Jan 22 (BBC) - India's PM Narendra Modi has taken part in rituals to open a grand temple to popular Hindu god Ram in Ayodhya city.
+
+The temple replaces a 16th-Century mosque razed by Hindu mobs in 1992. The demolition had sparked nationwide riots in which nearly 2,000 people died.
+
+Thousands of invited guests, including top film stars, industrialists and cricketers, attended the event.
+
+But some Hindu seers and most of the opposition boycotted it, saying Mr Modi was using it for political gains.
+
+General elections are due in India in the next few months and Mr Modi's political rivals say the governing Bharatiya Janata Party (BJP) will be seeking votes in the temple's name in a country where 80% of the population is Hindu.
+
+Critics have also accused the government of going overboard with what is essentially a religious celebration in a country which - according to its constitution - is secular.
+
+...
+
+[Data](articles/cf1af009.json)
 
 ---
 
@@ -133,6 +253,26 @@ The Acting Magistrate ordered that the suspects also present the suspects to an 
 [Data](articles/fef1b570.json)
 
 [Extended Data](ext_articles/fef1b570.ext.json)
+
+---
+
+### Sri Lanka’s main opposition files petition against anti-terrorism bill
+
+*2024-01-22 12:42:00* · [`economynextcom`](https://economynext.com/sri-lankas-main-opposition-files-petition-against-anti-terrorism-bill-148211/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s main opposition party the Samagi Jana Balawegaya (SJB) has filed a petition against a proposed Anti-Terrorism bill which the party claims is being introduced in an election year to repress opposition parties.
+
+The petition was filed by SJB general secretary Ranjith Madduma Bandara Monday January 22 morning at the Supreme Court.
+
+Speaking to reporters, the MP said the proposed bill is a threat to Sri Lanka’s opposition parties and to democracy itself.
+
+“This bill is being presented not at a time of terrorism prevailing in the country but during an election period.  The bill has not defined nor analysed what a terrorist is. Anyone can be arrested,” he said.
+
+“We think this is being done in the face of an election to repress political parties and stifle democracy of this country. That is why we filed a case against this, for democracy,” he added.
+
+...
+
+[Data](articles/6469b2ad.json)
 
 ---
 
@@ -205,6 +345,22 @@ His departure sets up the one-on-one battle that Haley has coveted against Trump
 [Data](articles/f3c7db15.json)
 
 [Extended Data](ext_articles/f3c7db15.ext.json)
+
+---
+
+### Sri Lanka’s M A Sumanthiran offers full support to new party leader Sritharan
+
+*2024-01-22 12:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-m-a-sumanthiran-offers-full-support-to-new-party-leader-sritharan-148209/) · `en`
+
+ECONOMYNEXT — Parliamentarian M A Sumanthiran extends his fullest support to his Jaffna district colleague S Srithanan who was elected leader of the Ilankai Thamil Arasu Kachchi (ITAK), the main constituent party of Sri Lanka’s opposition Tamil National Alliance (TNA), the former said.
+
+Speaking to party members and supporters following the election on Sunday January 21, Sumanthiran acknowledged that Sritharan was elected democratically by the ITAK, demonstrating the party’s commitment to democracy.
+
+“In electing the leader of our party, we demonstrated both locally and internationally the internal democracy of our party. I congratulate my friend Sritharan who won the election. We both have a responsibility of our party. This is something to celebrate,” the privately owned NewsFirst network quoted Sumanthiran as saying in Tamil.
+
+...
+
+[Data](articles/fd99eee1.json)
 
 ---
 
@@ -1865,179 +2021,5 @@ The body of a 64 -year -old man who retired as a security officer at a bank has 
 [Data](articles/bf07cd2f.json)
 
 [Extended Data](ext_articles/bf07cd2f.ext.json)
-
----
-
-### Air Cycle: The first rain from next week
-
-*2024-01-22 03:42:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்று-சுழற்சி-அடுத்த-வாரம்-முதல்-மழை/175-331926) · `ta`
-
-The Department of Meteorology has stated that there is a possibility of some rainfall in the Batticaloa, Pottuvil and Trincomalee districts and some parts of the Mullaitivu district by the 28th of this month due to the air circulation of the country.
-
-Meanwhile, the feases of rainfall in Jaffna, Vavuniya, Mannar and Kilinochchi districts are low, the department said that the feases of rainfall are low, the department said that the department said.. (A)
-
-◼️
-
-[Data](articles/de3b29f8.json)
-
-[Extended Data](ext_articles/de3b29f8.ext.json)
-
----
-
-### The UN. The President met the General Secretary
-
-*2024-01-22 03:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-நா-பொதுச்-செயலாளரை-சந்தித்தார்-ஜனாதிபதி/175-331925) · `ta`
-
-There is a meeting between President Ranil Wickremesinghe and the General Secretary General of the United Nations Antonio Guttaras.
-
-It has been discussed on the creation of stability and creation of stability to win the current challenges facing the economy of Sri Lanka and the country.. (A)
-
-◼️
-
-[Data](articles/1bf964b5.json)
-
-[Extended Data](ext_articles/1bf964b5.ext.json)
-
----
-
-### "The least of the minimum facilities is treated with disabilities."
-
-*2024-01-22 02:05:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cle7e7q1j38o) · `si`
-
-There is no need to contain anything here. Play Video, "'We are treating disabilities in the middle of the minimum facilities.'" The Running Time is receiving treatment with disabilities.
-
-People receiving treatment at Munkulam The Association of Munkulam is receiving treatment in the middle of the minimum facilities.
-
-The war is treated with disabilities due to war and various accidents.
-
-"We are providing financial assistance abroad. But it has been abandoned with the economic situation now.
-
-About 250 people who have suffered disabilities registered. But there are only two people who are residing in treatment.
-
-They say they faced many problems in transport and that they have lost their votes due to the trip.
-
-◼️
-
-[Data](articles/ca4e5686.json)
-
-[Extended Data](ext_articles/ca4e5686.ext.json)
-
----
-
-### Sri Lanka Press Institute expresses concern over Online Safety Bill
-
-*2024-01-22 01:59:40* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lanka-Press-Institute-expresses-concern-over-Online-Safety-Bill/56-757621) · `en`
-
-The Sri Lanka Press Institute, its constituents and affiliated organisations yesterday expressed concern over the proposed Online Safety Bill (Bill) and its implications on the freedom of expression.
-
-While acknowledging a need to regulate internet intermediaries, as is the objective of the Bill, the SLPI  identified several controversial elements present in the Bill that are not conducive for  journalists, the media and the larger community in Sri Lanka.
-
-Considering the amendments to be proposed at the Parliamentary committee stage based on the Supreme Court determination in November 2023, 31 of the 56 articles in the Bill are expected to be revised in line with the principles of democracy and the Constitution of Sri Lanka, reflecting on the freedom of expression of the media. Accordingly, the proposed amendments are expected to alter the functions and the framework of the Commission, including its autonomy and the definitions of offences.
-
-...
-
-[Data](articles/e2d34c88.json)
-
-[Extended Data](ext_articles/e2d34c88.ext.json)
-
----
-
-### Ramanna Sect expels controversial ‘Sri Vishwa Buddha’
-
-*2024-01-22 01:59:02* · [`dailyftlk`](https://www.ft.lk/news/Ramanna-Sect-expels-controversial-Sri-Vishwa-Buddha/56-757620) · `en`
-
-Sri Lanka Ramanna Sect has expelled Buddhist monk Ratnapura Wimalabuddhi Thera who identifies himself as ‘Sri Vishwa Buddha’ following his initial arrest by the Criminal Investigations Department (CID) on 12 December.
-
-The expulsion of the controversial novice monk has been reported to the Commissioner of Buddhist Affairs by the Chief Prelate of the Sect, the most Venerable Makulewe Sri Wimala Thera.
-
-Initially, the monk faced arrest for expressing views inconsistent with Buddhist teachings on social media and was granted bail on 8 January by the Colombo Chief Magistrate. Subsequently, he was arrested once again yesterday, this time for making statements that were derogatory towards Buddhism, and he has been remanded until 26 January after being produced before the Gangodawila Magistrate’s Court.
-
-The decision to expel Ratnapura Wimalabuddhi Thera was unanimously reached during the Karaka Sangha meeting of the Ramanna Sect held on 15 December.
-
-...
-
-[Data](articles/e114d062.json)
-
-[Extended Data](ext_articles/e114d062.ext.json)
-
----
-
-### National education policy framework 2023: a public policy dialogue tomorrow
-
-*2024-01-22 01:58:32* · [`dailyftlk`](https://www.ft.lk/news/National-education-policy-framework-2023-a-public-policy-dialogue-tomorrow/56-757619) · `en`
-
-The Bandaranaike Academy for Leadership and Public Policy (www.balpp.com) will be hosting a dialogue on the above topic on Tuesday 23 January at the Lavender Hall, BMICH.
-
-The dialogue will be primarily focused on an analysis of the NEPF, where students of the post graduate diploma course on education policy and analysis will take a lead role, followed by an open discussion.
-
-The Presidential Expert Committee members that prepared this document would also be in attendance, as well as officials from the Ministry of Education, and similar important stakeholders, including few principals and teachers.
-
-Those who are interested to attend may contact Daham ([email protected] and +94712350655)
-
-◼️
-
-[Data](articles/c95e54be.json)
-
-[Extended Data](ext_articles/c95e54be.ext.json)
-
----
-
-### Hayleys Group sponsors 260 cataract surgeries through HelpAge Sri Lanka’s ‘Give the Gift of Sight’ initiative
-
-*2024-01-22 01:56:58* · [`dailyftlk`](https://www.ft.lk/news/Hayleys-Group-sponsors-260-cataract-surgeries-through-HelpAge-Sri-Lanka-s-Give-the-Gift-of-Sight-initiative/56-757618) · `en`
-
-Hayleys Chairman and Chief Executive Mohan Pandithage presents a personalised surgery sponsorship card to a patient at the HelpAge Eye Hospital in Wellawatte, Colombo 6.
-
-Hayleys Chairman and Chief Executive Mohan Pandithage presents a sponsorship cheque to HelpAge Sri Lanka’s Executive Director Samantha Liyanawaduge, in support of the ‘Give the Gift of Sight’ campaign. The gesture, alongside Hayleys Leisure Managing Director Rohan Karr (left), HelpAge Operations Theatre-In-Charge C.E. Fernando, and HelpAge Sri Lanka Community Relations Manager Tharika Goonathilake, highlights Hayleys’ commitment to impactful corporate social responsibility
-
-...
-
-[Data](articles/ab53007c.json)
-
-[Extended Data](ext_articles/ab53007c.ext.json)
-
----
-
-### SL commits to fair trade collaboration: EDB and int’l fair trade networks sign cooperation framework
-
-*2024-01-22 01:13:21* · [`dailyftlk`](https://www.ft.lk/business/SL-commits-to-fair-trade-collaboration-EDB-and-int-l-fair-trade-networks-sign-cooperation-framework/34-757611) · `en`
-
-In a strategic move to promote international fair trade and foster global cooperation, Sri Lanka officially signed the Framework of Cooperation (FOC) with international fair trade networks in Colombo recently.
-
-The signing ceremony, attended by representatives from major fair trade and supporting organisations, took place at the Colombo Ramada Hotel.
-
-The primary objective of the cooperation framework is to strengthen and improve relationships between fair trade networks and related institutions in Sri Lanka. It aims to promote the development, diversification, and wider market access of fair trade products from Sri Lanka to the global market. The collaborative framework outlines multiple objectives and related activities that will be further developed into comprehensive action plans in collaboration with supporting institutions in the near future.
-
-...
-
-[Data](articles/1c514192.json)
-
-[Extended Data](ext_articles/1c514192.ext.json)
-
----
-
-### Dipped Products participates at Intersec Dubai 2024
-
-*2024-01-22 01:11:22* · [`dailyftlk`](https://www.ft.lk/business/Dipped-Products-participates-at-Intersec-Dubai-2024/34-757610) · `en`
-
-Dipped Products PLC, a subsidiary of the Hayleys Group, took part in the 25th edition of the Intersec in Dubai.
-
-Dipped Products is one of the world’s leading rubber glove manufacturers and accounts for a 5% global market share.
-
-The company exhibited a diverse range of products at the trade show held at Dubai World Trade Centre (DWTC).
-
-With a manufacturing capacity of 16 million, DPL is the largest household gloves producer in Sri Lanka. The company’s products now reach 70 countries.
-
-The three-day exhibition ended on a high note on 18 January and conference featured participation from 1,000 exhibitors representing 60 countries, attracting a total of 45,000 trade visitors from 120 countries.
-
-The event showcased products across five main categories: Commercial and Perimeter Security, Homeland Security and Policing, Fire and Rescue, Safety and Health and Cyber Security.
-
-Many trade visitors from Sri Lanka attend this show every year.
-
-◼️
-
-[Data](articles/ec2f336d.json)
-
-[Extended Data](ext_articles/ec2f336d.ext.json)
 
 ---

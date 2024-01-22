@@ -1,248 +1,36 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 17:02:25**
+As of **2024-01-22 15:51:35**
 
 ## Newspaper Stats
 
-*Scraped **1,816** Articles*
+*Scraped **1,798** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 40
-adaderanasinhalalk | 98
+adaderanasinhalalk | 93
 islandlk | 108
 economynextcom | 113
-newsfirstlk | 114
+newsfirstlk | 113
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 181
-adalk | 191
-dailymirrorlk | 214
-adaderanalk | 224
+virakesarilk | 176
+adalk | 188
+dailymirrorlk | 211
+adaderanalk | 223
 tamilmirrorlk | 224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,709 (94.1%) of 1,816 articles have been extended.
+1,684 (93.7%) of 1,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
-
-### අපේ චමරිට ICCයෙන් සුපිරිම තැනක්
-
-*2024-01-22 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192436) · `si`
-
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් 2023 වසරේ විස්සයි විස්ස පිටියේ හොඳම දක්ෂතා දැක්වූ ක්‍රිකට් ක්‍රීඩිකාවන් ඇතුළත් කණ්ඩායම නම්කර තිබේ.
-
-එම කණ්ඩායමේ නායිකාව ලෙස ශ්‍රී ලංකා කණ්ඩායමේ නායිකාව වන සුපිරි ක්‍රීඩිකා චමරි අතපත්ත්තු නම්කර තිබීම විශේෂත්වයකි.
-
-◼️
-
-[Data](articles/6dc101c5.json)
-
----
-
-### බුකිය කැලඹුණු වැල්ලවත්තේ සිද්ධිය
-
-*2024-01-22 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192435) · `si`
-
-පොලීසියෙන් බව පවසමින් පුද්ගලයින් පිරිසක් වැල්ලවත්ත ප්‍රදේශයේදී තරුණයෙකුට පහරදෙන අයුරු දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතියි.
-
-අදාළ තරුණයා මාර්ගය අසළ සිටින ආකාරයත් එම ස්ථානයට ත්‍රිරෝද රථයකින් පැමිණෙන පිරිසක් ඔහුට පහරදෙන ආකාරයත් මෙලෙස එම CCTV  දර්ශනවල පටිගතව තිබේ.
-
-මේ සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කරන බලධාරීන්ගේ කඩිනම් අවධානය යොමුවිය යුතු නොවේද ?
-
-◼️
-
-[Data](articles/5cc07cbd.json)
-
----
-
-### Drug Eradication Division Inquiry into Attorney -at -Law ASP
-
-*2024-01-22 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174534) · `ta`
-
-The Bribery Commission has launched a comprehensive investigation against a lawyer who tried to bribe an Assistant Superintendent of Police of the Drug Eradication Unit, which is being investigated against Ganemulla Sanjeeva, the leader of the underworld and a massive drug trafficker.
-
-The Bribery Commission has also received a telephone number on the attempt to bribe the Assistant Superintendent of Police of the Drug Eradication Unit.
-
-Meanwhile, a special police investigation has been carried out in this regard, according to police headquarters.
-
-◼️
-
-[Data](articles/e846b523.json)
-
-[Extended Data](ext_articles/e846b523.ext.json)
-
----
-
-### The mountain community looking for leaders within the parties ..!
-
-*2024-01-22 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174528) · `ta`
-
-In the hill country, only the party leaders are just coming up. The union does not see people leaders who talk about labor rights. Two hundred years later, no solutions about labor issues can be found, and the government's votes have been put into a very weak position.
-
-It is amazing that those who said that milk and honey will run in the hill country. People who spoke verses on stage in cinema style have gone a long way from people. Once the election is probably declared, people will come as usual. It is now guaranteed that these people are going to make a series of mistakes to welcome them.
-
-Labor Affairs is heading towards failure. In the negotiations, it has been revealed that more than a thousand rupees has not been complied with the company.. It is not possible even if some trade unions tried to keep the president in fear of meeting the companies directly. How are companies that do not listen to the president's work back to the trade unions that are not supportive of the people?
-
-...
-
-[Data](articles/0fe07094.json)
-
-[Extended Data](ext_articles/0fe07094.ext.json)
-
----
-
-### Here is the 2023 Twenty Tup of Twenty ICC
-
-*2024-01-22 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192434) · `si`
-
-The International Cricket Council has named the best players of the Twenty20 Grounds in 2023.
-
-◼️
-
-[Data](articles/37357b38.json)
-
-[Extended Data](ext_articles/37357b38.ext.json)
-
----
-
-### Sri Lanka’s inflation rate rises to 4.2% in December
-
-*2024-01-22 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96624/sri-lankas-inflation-rate-rises-to-42-in-december) · `en`
-
-Sri Lanka’s consumer price inflation rate rose to 4.2% year-on-year in December from 2.8% in November, the statistics department said on Monday.
-
-The National Consumer Price Index (NCPI) captures broader retail price inflation and is released with a lag of 21 days every month.
-
-Food prices rose 1.6% in December after falling 2.2% in November on the year, the Department of Census and Statistics said in a statement.
-
-Prices for non-food items, however, fell 6.3% in December from 7.1% year-on-year in November.
-
-Sri Lanka racked up record high inflation last year after its economy was pummelled by the worst financial crisis in decades, triggered by a plunge in foreign exchange reserves.
-
-◼️
-
-[Data](articles/a5ad39f5.json)
-
-[Extended Data](ext_articles/a5ad39f5.ext.json)
-
----
-
-### The new leader of the Sri Lankan Tamil state party Sreedharan has made a call to the Tamil National parties
-
-*2024-01-22 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174525) · `ta`
-
-The Tamil National Alliance (TNA) should be able to become the political monopoly of the Tamil National Alliance (TNA) as the Tamil National Alliance (TNA), so all the Tamil National Alliance (TNA) should unite the Tamil National Alliance (TNA) as a single Tamil National Alliance (TNA) to promote the welfare of the Tamil National Alliance (TNA) as the Tamil National Alliance (TNA).Sivagnanam Sreedharan has been elected as the chairman.
-
-Sreedharan, who won the election for the new leader of the TNA in Trincomalee and became the new leader, called on the election and the Tamil National Party's future ride.
-
-My greatness is to strengthen Tamil nationalism. I have been selected as the leader of the TNA leadership. In this case, I think it is the first time I am to refuse the TNA and the Tamil National Alliance.
-
-...
-
-[Data](articles/c1ba700b.json)
-
-[Extended Data](ext_articles/c1ba700b.ext.json)
-
----
-
-### Inflation up
-
-*2024-01-22 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192433) · `si`
-
-The inflation in December 2023 has increased in December 2023, according to the National Customer Price Index.
-
-Accordingly, in December 2023, inflation was 4.2 percent in December 2023.
-
-In November 2023, inflation recorded 2.8 percent in November 2023 as per the National Customer Price Index.
-
-Meanwhile, food inflation at -2.2 percent in November 2023 increased to 1.6 percent in December.
-
-◼️
-
-[Data](articles/e1b5355f.json)
-
-[Extended Data](ext_articles/e1b5355f.ext.json)
-
----
-
-### Senior Lecturer in Peradeniya killed
-
-*2024-01-22 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192432) · `si`
-
-The deceased is a senior lecturer at the Faculty of Lakrath Peiris, a 60 year old.
-
-The suspects are the death of a drug and insecticide by the insects.
-
-He has lived in the residential house in the residential house in the Old Galawala Road, University of Sarasavi Uyana with his wife.
-
-◼️
-
-[Data](articles/371ba28d.json)
-
-[Extended Data](ext_articles/371ba28d.ext.json)
-
----
-
-### Applications called for O/L Examinations
-
-*2024-01-22 15:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Applications-called-for-OL-Examinations/108-275500) · `en`
-
-Colombo, Jan. 22 (Daily Mirror)- The applications for the Ordinary Level (O/L) examination 2023 (2024) will be called for from January 23 to February 15, the Examinations Department announced today.
-
-The Department announced that applications will be accepted only through online, via its official websites - www.doenets.lk or www.onlineexams.gov.lk/eic.
-
-The deadline for online applications is midnight on February 15.
-
-◼️
-
-[Data](articles/64864f79.json)
-
-[Extended Data](ext_articles/64864f79.ext.json)
-
----
-
-### A man's body recovered at the Fisheries Harbor in Trincomalee
-
-*2024-01-22 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/174529) · `ta`
-
-Chinese police said that the body of an unidentified man has been found in the Trincomalee Fisheries Harbor.
-
-The body was found today (22) at 10.20 am. The Chinese police are conducting further investigations into the unidentified body.
-
-◼️
-
-[Data](articles/93160e15.json)
-
-[Extended Data](ext_articles/93160e15.ext.json)
-
----
-
-### After A/Ls vocational education for students in school itself from February: Minister
-
-*2024-01-22 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/After-ALs-vocational-education-for-students-in-school-itself-from-February-Minister/108-275501) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - A programme with practical training and theoretical rehearsals on vocational education with knowledge on information technology, includin English language will be provided to students who complete their Advande Level (A/L) examination this year from February, said Education Minister Susil Premajayantha.
-
-He said this vocational training programme will be implemented in 299 selected schools in the island with the aim of directing students who complete their high school education towards vocational education.
-
-Students sitting for the GCE A/L Examination in January 2024 can register themselves for this programme before February 9, the Minister added.
-
-He further mentioned that more related information can be obtained from the Skills Development Officers of the Divisional Secretariats.
-
-◼️
-
-[Data](articles/4176ddb3.json)
-
-[Extended Data](ext_articles/4176ddb3.ext.json)
-
----
 
 ### Imad Fakhoury appointed IFC South Asia regional director
 
@@ -296,50 +84,6 @@ The Minister also said that this vocational program is being implemented in 299 
 
 ---
 
-### Indian Prime Minister Opens Indian PM
-
-*2024-01-22 14:51:15* · [`adalk`](https://www.ada.lk/religion/ලෝකයේම-අවධානය-දිනාගත්-මතභේදාත්මක-‌කෝවිල-ඉන්දීය-අගමැති-විවෘත-කරයි/4-407667) · `si`
-
-Indian Prime Minister Narendra Modi opened the controversial temple built in India for Ram Hindu. The temple was built after a mosque was removed.
-
-The Kovil has been built after the replacement of a 16th century mosque that was destroyed during the Hindu Kolonry. About 2,000 people died in this riots.
-
-The Indian Prime Minister opened the Kovil today as the world's leading news service today because it was a demonstrated incident.
-
-Thousands attended leading cinema stars and cricketers in the event of the event.
-
-However, some Hinduism and many opponents were trying to boycott the event to take political gain from this practice.
-
-The general election of India is to be held in the next few months. The Kovil has spent $ 217 million for the construction of the temple and the Kovil Trust Board says it was made in private donations.
-
-◼️
-
-[Data](articles/a11169af.json)
-
-[Extended Data](ext_articles/a11169af.ext.json)
-
----
-
-### BASL calls for independent probe into surge in killings by police
-
-*2024-01-22 14:50:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/basl-calls-for-independent-probe-into-surge-in-killings-by-police/) · `en`
-
-Colombo (News 1st) – The Bar Association of Sri Lanka (BASL) has called for an independent inquiry into the recent surge of fatalities involving police.
-
-The BASL statement comes in the wake of a member of the public being shot dead in Narammala last week by a police officer in civilian clothing.
-
-The BASL also criticised Minister of Public Security Tiran Alles, for stating that he would publish a list of persons who obstructed the ongoing Operation Yukthiya anti-narcotics program, which has drawn much criticism for its heavy-handed approach.
-
-"It is evident that these statements, among others, made by a government minister, are irresponsibly misleading and detrimental to the crucial role lawyers play in preserving public interest," the statement said.
-
-...
-
-[Data](articles/56b10332.json)
-
-[Extended Data](ext_articles/56b10332.ext.json)
-
----
-
 ### Providing vocational education at schooling students who end Advanced Level
 
 *2024-01-22 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192431) · `si`
@@ -380,30 +124,6 @@ The order was issued following a petition submitted by Sri Lanka Freedom Party (
 
 ---
 
-### The proposed anti -terrorism bill is dangerous to opposition parties and democracy - the United People's Power
-
-*2024-01-22 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174523) · `ta`
-
-The United People's Power has filed a petition against the government's proposed anti -terrorism bill.
-
-United People's Power General Secretary Ranjithmathumapandara has filed a petition in the High Court today.
-
-The proposed anti -terrorism bill is dangerous to the opposition parties and democracy.
-
-He said that the bill was not clearly defined as terrorism. No one could be arrested, he said.
-
-He said that the bill did not clearly define what terrorism was.
-
-He said that we have filed a petition in the courtroom and that we have filed a petition in the court.
-
-◼️
-
-[Data](articles/27b06e4b.json)
-
-[Extended Data](ext_articles/27b06e4b.ext.json)
-
----
-
 ### Karapitiya Hospital’s senior oncologist granted bail, 03 minor staff further remanded
 
 *2024-01-22 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96622/karapitiya-hospitals-senior-oncologist-granted-bail-03-minor-staff-further-remanded-) · `en`
@@ -425,20 +145,6 @@ The senior oncologist in question, Dr. Krishantha Perera, 61, was arrested on 18
 [Data](articles/28eb6d6f.json)
 
 [Extended Data](ext_articles/28eb6d6f.ext.json)
-
----
-
-### Ayurvedic practitioners also demand DAT...
-
-*2024-01-22 14:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ayurvedic-practitioners-also-demand-DAT/110-275498) · `en`
-
-The Government Ayurvedic Practitioners' Trade Unions Collective staged a protest calling on the authorities to fill vacancies in the indigenous medicine sector and to provide them also with the Disturbance, Availability & Transport (DAT) allowance like that given to the western medical practitioners. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/52f9f682.json)
-
-[Extended Data](ext_articles/52f9f682.ext.json)
 
 ---
 
@@ -983,26 +689,6 @@ That mission had now become a recovery operation, CENTCOM said.
 [Data](articles/eadb4752.json)
 
 [Extended Data](ext_articles/eadb4752.ext.json)
-
----
-
-### Shooting Beller?
-
-*2024-01-22 12:10:05* · [`adalk`](https://www.ada.lk/breaking_news/බෙලි-අත්තේ-වෙඩි-තැබීම-වාඩුව-ගැනීමක්-/11-407662) · `si`
-
-Beliatta Police said five persons were killed in a shooting near the Colombo expressway near the Beliatta highway.
-
-A group of people who had come to a firearm have fled the firearm targeting five people who were traveling in a white Defender vehicle.. Four persons traveling in the Defender vehicle have died in the same location, police said.
-
-The deceased has been identified by Kumara, a resident of Galabada, Induruwa, Galuaduwa, Galuadura, Galuadura, Galuadura, Galuaduwa, Galuaduwa, Galuadura, the age of 47, Rathgaligodawatta, Galuadura, the age of 31.A man named the older Madushanka age of 26, Gatekattttu, aged 34, Gatekatta, aged 34, Gatekattttu, a resident of Gatenawa Road, Kurunegala.Beliatta Police says that Kannangara Korales Champiya Jayathilake, a resident of Dematagoda, said.
-
-Beliatta Police suspect that the Buddhika Rajapakse of Kumara, Beharatha Ven and Bhirakanda, who is dead in the year 2018.Says.
-
-◼️
-
-[Data](articles/ff5bc0a9.json)
-
-[Extended Data](ext_articles/ff5bc0a9.ext.json)
 
 ---
 
@@ -1802,30 +1488,6 @@ Police suspect that underworld criminal Kosgoda Sujee's gang has carried out the
 
 ---
 
-### Businessman asks for ransom saying Bharatha Lakshman's killer
-
-*2024-01-22 09:56:07* · [`adalk`](https://www.ada.lk/breaking_news/භාරත-ලක්ෂ්මන්ගේ-ඝාතකයා-බව-කියමින්-ව්‍යාපාරිකයෙකුගෙන්-කප්පම්-ඉල්ලලා/11-407657) · `si`
-
-An investigation has been launched to arrest a person in the Mattegoda area claiming that he had a minister of MP Bharatha Lakshman Premachandra, Mattegoda Police said.
-
-In the Mt.
-
-The telephone call was received on the 20th and this investigation has commenced on a complaint.
-
-Call on the dealer's mobile, a dealer company in several main manufacturing institutions in the country,
-
-My name, my name, my name, my name, 'Suddha "you know that I have no one named Bists. You have two shops at Mattigegoda and Diyagama shops, right?
-
-Those who do business around Colombo treat me well. You have to treat me, right, it can start you like you. If you don't, you know, your mother will lose your family to the family. The complaint made by the police said, "Knowledge of Mattegoda Maha Street," said.
-
-...
-
-[Data](articles/9a0e6185.json)
-
-[Extended Data](ext_articles/9a0e6185.ext.json)
-
----
-
 ### 47 people from landslide
 
 *2024-01-22 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192421) · `si`
@@ -1899,8 +1561,6 @@ Four people died immediately, and a fifth succumbed shortly afterward.
 Among the victims is the leader of the Apey Janabala Pakshaya (Our People's Party) Saman Perera, who was a businessman cum politician, police said. The group had arrived in a white Land Rover Defender when the shooting took place.
 
 News 1st correspondent said several people who were shot were outside a tea shop near the exit, and others were in the vehicle.
-
-BASL calls for independent probe into surge in killings by police
 
 Supreme Court to consider Fundamental Rights application by Cardinal Malcolm Ranjith
 
@@ -2013,5 +1673,353 @@ As a result, the railway control room further stated that there was a delay in t
 [Data](articles/0c7c6db9.json)
 
 [Extended Data](ext_articles/0c7c6db9.ext.json)
+
+---
+
+### Important Discussion on Electricity Target Correction
+
+*2024-01-22 09:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-திருத்தம்-குறித்து-முக்கிய-கலந்துரையாடல்/175-331936) · `ta`
+
+The Public Utilities Commission will meet today (22) to hold a discussion on the Electricity Tax Amendment.
+
+Recently, the Ceylon Electricity Board (CEB) has given the idea to the Public Utilities Commission on the idea.
+
+The proposal will be discussed and the final decision has been taken and the public will be included in the Commission.
+
+Then the proposal will be made public for 3 weeks. Thereafter a public consultation meeting will be held.
+
+After all the proposals, the new proposal will be issued to the Ceylon Electricity Board.. Remble
+
+◼️
+
+[Data](articles/3c2378d9.json)
+
+[Extended Data](ext_articles/3c2378d9.ext.json)
+
+---
+
+### Another shot in the South - five dead
+
+*2024-01-22 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192420) · `si`
+
+Five persons have died in a shooting in Beliatta, Tangalle, police said.
+
+There are 4 bodies of the incident and one of the body was placed at the Tangalle Hospital.
+
+It is reported that the shooting has been carried out by a group of people who were traveling with a green cab aimed at a white Defender vehicle between 8.30 am and 8.40 this morning.
+
+◼️
+
+[Data](articles/c80e7341.json)
+
+[Extended Data](ext_articles/c80e7341.ext.json)
+
+---
+
+### Another 910 arrested in Yukati
+
+*2024-01-22 09:29:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-910-பேர்-கைது/175-331935) · `ta`
+
+In the meantime, a further 910 suspects have been arrested within 24 hours of completion at 12.30 pm today (January 22).
+
+According to the Ministry of Public Security, 65 kilograms of heroin, 136 grams of ice and 254 drugs were seized.
+
+◼️
+
+[Data](articles/d1f1f7d0.json)
+
+[Extended Data](ext_articles/d1f1f7d0.ext.json)
+
+---
+
+### Ahlandlla, trapped in the illegal asset division
+
+*2024-01-22 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192419) · `si`
+
+A motorcycle and a lorry have been arrested in connection with illegal assets.
+
+The police media division states that officials of the illegal assets in the Investigation Division have raided the raid on a complaint by the Police Narcotics Bureau.
+
+Accordingly, a motorcycle obtained from illegally earned from the Welikanda area in Welikanda yesterday (21) and arrested with a lorry.
+
+◼️
+
+[Data](articles/aada31e8.json)
+
+[Extended Data](ext_articles/aada31e8.ext.json)
+
+---
+
+### Only in some places it rains
+
+*2024-01-22 09:11:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-மட்டும்-மழை-பெய்யும்/175-331934) · `ta`
+
+Rainfall is expected in the North Central, Eastern and Uva provinces.
+
+In some places in the Western and Sabaragamuwa Provinces, Galle and Matara districts. After 2.00 pm, there is a possibility of rain or thunderstorms.
+
+In the morning, in some places in the Western, Sabaragamuwa and Central Provinces and Galle and Matara districts, there is expected snowfall in the morning.. Remble
+
+◼️
+
+[Data](articles/3264ac37.json)
+
+[Extended Data](ext_articles/3264ac37.ext.json)
+
+---
+
+### The new leader Sridharan at the hero of the hero
+
+*2024-01-22 09:07:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மாவீரர்-துயிலுமில்லத்தில்-புதிய-தலைவர்-சிறிதரன்/72-331933) · `ta`
+
+The new leader of the Sri Lankan Tamil National Party, Sridharan MP, started his journey from Kanakapuram Knight Tuilumillam today.
+
+“In the political journey of the Eelam Tamils, we began today from Kanakapuram Knights Thuilumillam to realize the responsibilities of the Sri Lankan Tamil National Alliance (TNA).R
+
+◼️
+
+[Data](articles/553bd74b.json)
+
+[Extended Data](ext_articles/553bd74b.ext.json)
+
+---
+
+### Action action;Another 910 arrested
+
+*2024-01-22 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/174487) · `ta`
+
+The Public Security Ministry said on Monday (22) that 910 people were arrested on suspicion of drug and underworld charges in the last 24 hours under the strategy.
+
+The Ministry further stated that 65 grams of heroin, 136 kg of ice and 254 drugs were seized.
+
+◼️
+
+[Data](articles/791c42b3.json)
+
+[Extended Data](ext_articles/791c42b3.ext.json)
+
+---
+
+### Special dengue control program in Colombo, Gampaha, Jaffna and Kandy districts throughout the year
+
+*2024-01-22 08:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/special-dengue-control-program-in-colombo-gampaha-jaffna-and-kandy-districts-throughout-the-year/) · `en`
+
+COLOMBO (News 1st); The National Dengue Control Unit says that it has planned to implement a special dengue control program throughout the year in the districts of Colombo, Gampaha, Jaffna, and Kandy.
+
+Its director, Dr. Sudath Samaraweera says the measure was taken due to the high percentage of dengue cases reported in these districts.
+
+He added that a special dengue control program is currently underway in Jaffna.
+
+Supreme Court to consider Fundamental Rights application by Cardinal Malcolm Ranjith
+
+BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
+
+Special dengue control program in Colombo, Gampaha, Jaffna and Kandy districts throughout the year
+
+CCTV camera system to identify traffic violations to commence today
+
+◼️
+
+[Data](articles/05faba21.json)
+
+[Extended Data](ext_articles/05faba21.ext.json)
+
+---
+
+### Residents warned of fraudulent calls
+
+*2024-01-22 08:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Residents-warned-of-fraudulent-calls/108-275465) · `en`
+
+Colombo, Jan 22 (Daily Mirror) - An organized gang has been operating in various areas of the country, defrauding people by making telephone calls and posing as police officers, attempting to extort money, the police said yesterday.
+
+Police Spokesman SSP Nihal Thalduwa said that numerous complaints had been received to various police stations regarding calls made to residents where the callers falsely claim to be police officials seeking money.
+
+...
+
+[Data](articles/2c008b06.json)
+
+[Extended Data](ext_articles/2c008b06.ext.json)
+
+---
+
+### Rein of fire
+
+*2024-01-22 08:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Rein-of-fire/110-275464) · `en`
+
+Horses have once again been made to leap and hurtle through fire by human beings as part of an annual religious festival in the name of Spain's patron saint of animals.
+
+Horses and riders were seen charging through flames several feet high in the streets of Vilanova D'Alcolea, in Castellon, eastern Spain, as part of an annual festival celebrating Saint Antoni.
+
+The saint, canonised more than 790 years ago, is well-loved in Spain, and days-long festivals are held the country in his honour. (Daily Mail)
+
+◼️
+
+[Data](articles/7479c2ce.json)
+
+[Extended Data](ext_articles/7479c2ce.ext.json)
+
+---
+
+### 910 more suspects arrested during operation ‘Yukthiya’
+
+*2024-01-22 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96610/910-more-suspects-arrested-during-operation-yukthiya) · `en`
+
+A total of 910 more suspects have been arrested during a 24-hour window ending at 12:30 a.m. today (22 Jan.), as the special anti-drug operation ‘Yukthiya’ continues across the island.
+
+According to the Ministry of Public Security, 65kg of heroin, 136g of crystal methamphetamine (Ice) and 254 narcotic pills were taken into custody during the this period.
+
+◼️
+
+[Data](articles/dadacc30.json)
+
+[Extended Data](ext_articles/dadacc30.ext.json)
+
+---
+
+### Justice is boxing
+
+*2024-01-22 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192418) · `si`
+
+910 suspects have been arrested in the 24-hour operations carried out by the special drug operation in 12.30 am today.
+
+◼️
+
+[Data](articles/ae14eeff.json)
+
+[Extended Data](ext_articles/ae14eeff.ext.json)
+
+---
+
+### CCTV camera system to identify traffic violations to commence today
+
+*2024-01-22 08:29:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/cctv-camera-system-to-identify-traffic-violations-to-commence-today/) · `en`
+
+COLOMBO (News 1st); The program to identify drivers who violate traffic rules through the CCTV camera system installed in Colombo will begin today.
+
+Police Spokesperson SSP Nihal Thalduwa says fines for detected vehicle offenses will be directed to the local police station of the vehicle owner's registered address.
+
+Supreme Court to consider Fundamental Rights application by Cardinal Malcolm Ranjith
+
+BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
+
+Special dengue control program in Colombo, Gampaha, Jaffna and Kandy districts throughout the year
+
+CCTV camera system to identify traffic violations to commence today
+
+◼️
+
+[Data](articles/ceffcec0.json)
+
+[Extended Data](ext_articles/ceffcec0.ext.json)
+
+---
+
+### A brine murder
+
+*2024-01-22 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192417) · `si`
+
+In Dehiowita area, a person was attacked with a strench and an adult.
+
+The victim was a 42 resident of Dehiowita, 42.
+
+The victim was drunk and had a dispute with his sister and had assaulted her.
+
+Her husband was later attacked by her husband and attacked the man with a stinking and a gallon. He had died, police said.
+
+The 43-year-old suspect was arrested and Dehiowita police are conducting further investigations.
+
+◼️
+
+[Data](articles/1f0d4c06.json)
+
+[Extended Data](ext_articles/1f0d4c06.ext.json)
+
+---
+
+### The Utilities Commission to Meet About Electricity tariff
+
+*2024-01-22 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192416) · `si`
+
+The Public Utilities Commission of the Public Utilities Commission is to meet today (22) to discuss the electricity tariff.
+
+The proposal on the amendments was recently handed over to the Public Utilities Commission recently.
+
+The proposal will be taken to discuss the proposal and to make public opinion and then the utility commission will also add their ideas.
+
+The proposal will be made public for three weeks.
+
+The new proposal is added to the Ceylon Electricity Board.
+
+◼️
+
+[Data](articles/5000286c.json)
+
+[Extended Data](ext_articles/5000286c.ext.json)
+
+---
+
+### Arrival attack on Tonetsk in Russia's occupation - 27 killed
+
+*2024-01-22 07:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174486) · `ta`
+
+27 people have been killed in an artillery attack on Tontsk, occupied by Russia.
+
+Terrible assault in the most busy market may increase the number of casualties, said Tenis Pussilin, a pro -leader of the region.. He accused Ukraine of carrying out the attack.
+
+A woman who survived, she said that I was sneaking in the shop, learning by the noise of the fire.
+
+I saw smoke, people screaming and a woman crying, he said.
+
+◼️
+
+[Data](articles/6dc9c4ea.json)
+
+[Extended Data](ext_articles/6dc9c4ea.ext.json)
+
+---
+
+### CCTV operates today
+
+*2024-01-22 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192415) · `si`
+
+A special program to identify traffic wrongdoing in Colombo has been launched from today (22), police said.
+
+Accordingly, it will be implemented in Colombo as a pilot project from today until 31st.
+
+Police Media Spokesperson SSP Attorney at the police media spokesman Nihal Thameda said that legal action would be taken against the drivers who violate the identification measures.
+
+"This starts as a pilot project. We observe this through the CCTV camera system that is observed by the police in Colombo town.. If something wrong, we will inform the vehicle owner. This time period is done as a pilot project until January 31st. The issuance of fine leaflets will be started. "
+
+◼️
+
+[Data](articles/ebda549a.json)
+
+[Extended Data](ext_articles/ebda549a.ext.json)
+
+---
+
+### Sri Lankan investors invited to invest in Bangladesh’s SEZs
+
+*2024-01-22 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96609/sri-lankan-investors-invited-to-invest-in-bangladeshs-sezs) · `en`
+
+Mahbubul Alam, President of the Federation of Bangladesh Chambers of Commerce and Industry (FBCCI), invited the Sri Lankan businessmen and investors to invest in the special economic zones of Bangladesh.
+
+The FBCCI President made this call during a courtesy meeting with High Commissioner of Sri Lanka in Bangladesh Dharmapala Weerakkody at FBCCI’s Gulshan office on Sunday, said a press release.
+
+The FBCCI president said the government is establishing 100 special economic zones across Bangladesh.
+
+“All kinds of facilities including oil, gas, and electricity are being provided in these economic zones apart from one-stop service and e-platform,” he added.
+
+Mahbubul said attractive incentives are on offer to facilitate business and investment in Bangladesh.
+
+“Sri Lankan businessmen can be benefitted by setting up industry here on their own or in joint ventures,” he added.
+
+Mahbubul Alam said garments, pharmaceuticals, eco-tourism and hospitality are some of the potential sectors in Bangladesh.
+
+...
+
+[Data](articles/0f14e981.json)
+
+[Extended Data](ext_articles/0f14e981.ext.json)
 
 ---

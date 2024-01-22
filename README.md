@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 21:17:26**
+As of **2024-01-22 21:33:08**
 
 ## Newspaper Stats
 
@@ -26,45 +26,49 @@ adaderanalk | 231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,823 (97.4%) of 1,871 articles have been extended.
+1,839 (98.3%) of 1,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### පොඩි ණුවන්ගේ බිරි﻿ඳ රු. කෝටි තුනක වත්කම් සමග අත්අඩංගුවට
+### Brunners' breasts Rs. Arrested with assets of three crores
 
 *2024-01-22 20:45:59* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-ණුවන්ගේ-බිරි﻿ඳ-රු--කෝටි-තුනක-වත්කම්-සමග-අත්අඩංගුවට/11-407674) · `si`
 
-අහුංගල්ල ප්‍රදේශයේ මහා පරිමාණ මත්කුඩු ජාවාරම්කරුවෙකු වන "පොඩි නුවන්" නමැත්තා මත්කුඩු ජාවාරමෙන්  නීති විරෝධී ලෙස උපයාගත් මුදලින් මිලදී ගත් බව කියන රුපියල් කෝටි 3 ට ආසන්න වටිනා දේපල සමග ඔහුගේ බිරිඳ  නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය මගින් අත්අඩංගුවට ගනු ලැබ ඇත.
+His wife has been arrested by the illegal assets division of the property, a large number of alcohol dealer in Ahungalla area.
 
-අත්අඩංගුවට ගත් දේපළ අතර, රුපියල් කෝටි 11/ 2 ආසන්න වටිනා බහුදින යාත්‍රාවක්, අධි ශීතකරණ සහිත ලොරියක්, ජේ සී බී යන්ත්‍රයක් සහ යතුරුපැදියක් වන බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+Among the possessions, a high frigation lorry, JCBB and a motorcycle, and a motorcycle are a high fixture.
 
-පොඩි නුවන් නමැත්තා මත්කුඩු ජාවාරම සම්බන්ධයෙන්  මීට වසරකට අධික කාලයකට පෙර අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයට පත් කර සිටින බවද එම නිලධාරියා කීය.
+The officer said that a smallmanna was arrested and remanded before a year ago with drug racket.
 
-සැකකරුගේ දේපළ සම්බන්ධයෙන් නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය විසින් දීර්ඝ විමර්ශනක් පවත්වා ඉකුත් 20දා පස්වරුවේ මෙම දේපල පොලිස් භාරයට ගෙන ඇත.සිද්ධිය සම්බන්ධයෙන් සැකකරුගේ බිරිඳ වන කාන්තාවක්ද අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.සැකකාරිය බලපිටිය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+The property was taken into police custody by the police station on the inspection of the suspect's property.
 
 ◼️
 
 [Data](articles/e2152af0.json)
 
+[Extended Data](ext_articles/e2152af0.ext.json)
+
 ---
 
-### කටුනායක අධිවේගී මාර්ගයේ වාහන 5ක් අනතුරට ලක්වෙයි
+### Five vehicles in the Katunayake Expressway
 
 *2024-01-22 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192443) · `si`
 
-කටුනායක අධිවේගී මාර්ගයේ පෑලියගොඩ අන්තර් හුවමාරුවේදී වාහන කිහිපයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+The Katunayake Expressway was accidental confronting several vehicles during the Peliyagoda interchange.
 
-කටුනායක දෙස සිටි පැමිණි රථවාහන 4ක් මුදල් ගෙවන කවුන්ටරය අසළ පෝලිමේ තිබියදී පසුපසින් පැමිණි කැබ් රථයක් එම මෝටර් රථවල ගැටීමෙන් මෙම අනතුර සිදුව තිබුණි.
+The accident had occurred when the cab collided with a cab when he was queled with four traffic in Katunayake.
 
-අනතුරින් කිසිවෙකුටත් තුවාල සිදුව නොමැති අතර මෝටර් රථවලට දැඩි අලාභහානි සිදුව තිබුණි.
+No one was injured in the accident and cars had to be severely damaged.
 
-පසුපසින් පැමිණි කැබ් රථයේ රියදුරුට එම රථය පාලනය කරගැනීමට නොහැකිවීම හේතුවෙන් මෙම අනතුර සිදුවන්නට ඇති බවට පොලීසිය සැකපළකරයි.
+The police suspect that the accident had been unable to control the vehicle.
 
 ◼️
 
 [Data](articles/e5c0a8f5.json)
+
+[Extended Data](ext_articles/e5c0a8f5.ext.json)
 
 ---
 
@@ -196,19 +200,21 @@ The shooting took place today (22) between 8.30 am and 8.40 am and five were kil
 
 ---
 
-### වාහන දඩ මුදල් ඔන්ලයින් ගෙවීමට අවස්ථාව
+### Chance to pay vehicle fines online
 
 *2024-01-22 19:14:49* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-දඩ-මුදල්-ඔන්ලයින්-ගෙවීමට-අවස්ථාව/11-407670) · `si`
 
-රථවාහන වැරදි සම්බන්ධයෙන් වන ස්ථානීය දඩ මුදල් එවලේම ඔන්ලයින් හරහා ගෙවීමේ අවස්ථාව ලංකාවේ ජනතාව වෙනුවෙන් ලබාදෙන බව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පැවැසීය.
+Acting IGP Tennakoon said the acting IGP Tennakoon said that the opportunity to pay online fines on traffic offenses.
 
-ඔහු පවසන්නේ තමන්ගේ ජංගම දුරකතනයෙන් හෝ පොලිස් නිලධාරියා අත ඇති උපාංගයකින් මෙම ගෙවීම් සිදුකිරීමේ අවස්ථාව ලබා දෙන බවයි.
+He says that these payments will be made by their mobile phone or the police officer.
 
-"කොහේ හෝ ගිහිල්ලා රථ වාහන වරදකට වැරදිකරු වුවහොත් එම ස්ථානයේ සිටින පොලිස් නිලධාරියා අතේ තියෙන උපකරණයක් මාර්ගයෙන්ම හෝ තමන්ගේ ජංගම දුරකතනය මාර්ගයෙන් එම දඩ මුදල් ගෙවන්න සියලු දේ සැලසුම් කර තිබෙනවා."
+"If a traffic guilty of a traffic guilt and the police officer in the hand is planned by the path of the road or by his mobile phone."
 
 ◼️
 
 [Data](articles/b9192683.json)
+
+[Extended Data](ext_articles/b9192683.ext.json)
 
 ---
 
@@ -298,21 +304,29 @@ Sivagnanam Sridharan, a newly elected Sri Lankan Tamil party leader and Kilinoch
 
 ---
 
-### සීදුව ව්‍යාජ ’’ ඉමුනොග්ලොබින්’’ ප්‍රතිදේහ නිෂ්පාදන කර්මාන්තශාලාව විමර්ශනයට
+### Ironagoglobin '' Imnogalbin 'to investigate antibody factory
 
 *2024-01-22 18:44:39* · [`adalk`](https://www.ada.lk/breaking_news/සීදුව-ව්‍යාජ-’’-ඉමුනොග්ලොබින්’’-ප්‍රතිදේහ-නිෂ්පාදන-කර්මාන්තශාලාව-විමර්ශනයට/11-407669) · `si`
 
-සීදුව අමන්දොළුව ප්‍රදේශයේ පවත්වා ගෙන ගොස් තිබූ ව්‍යාජ ප්‍රතිදේහ විශේෂයක් වූ " ඉමුනොග්ලොබින් " ( Human Immunogoblin) නිෂ්පාදන කළ අයිසෝලෙස් බයෝටෙක් පර්මා ( Islek Biotech Pharma ) ආයතනය විශේෂ විමර්ශන කණ්ඩායක් විසින් 01/22 දින දහවල් 12.00 සිට පස්වරු 05.00 දක්වා පරීක්ෂා කිරීමකට ලක් කිරීම සිදු කෙරුණි.
+A special investigation team was inspected from 12/00K Biotech Parma, a special investigation team, which was maintained in the Amalanduwa area area.
 
-මේ සදහා ශ්‍රී ලංකා ඖෂධ නියාමන අධිකාරියේ අධ්‍යක්ෂ දීපිකා බුලත්සිංහල මහත්මිය ඇතුළු පිරිසක් ද , ආහාර හා ඖෂධ විශ්ලේෂක අමිත් පෙරේරා මහතා ඇතුළු පිරිසක් ද , අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් ද සහභාගී වී තිබූ අතර මෙම අවස්ථාවට සමාගමේ අයිතිකරු සුදත් ජනක ප්‍රනාන්දු මහතා ද බන්ධනාගාර දෙපාර්තමේන්තු නිලධාරීන් විසින් කැදවා ගෙන පැමිණ තිබුණි.
+Drug Regulatory Authority of the Drug Regulatory Authority of Sri Lanka and a group of people and a group of criminal investigations and a group of Criminal Investigations also calls on the occasion.Had been brought.
 
-මීට පෙර අවස්ථාවක ද මෙම නිෂ්පාදන කර්මාන්තශාලාව පරීක්ෂා කිරීමකට මෙම විමර්ශන කණ්ඩායම පැමිණ තිබූ අතර , එහිදී මෙම කර්මාන්තශාලාවේ විදුලි බිල ගෙවා නොතිබීම නිසා, විදුලිය විසන්ධි කර පැවති නිසා මෙම පරීක්ෂණය අද දක්වා කල් ගොස් තිබුණි.
+The investigation had come to date, as the electricity tariff had not been paid, as the electricity bill of the factory was not paid.
 
-ශ්‍රී ලංකා විදුලි බල මණ්ඩලයේ නිලධාරීන් මෙම ස්ථානයට පැමිණ තාවකාලිකව විදුලිය සැපයීමෙන් අනතුරුව මෙම විමර්ශන කටයුතු ආරම්භ විය.
+The investigations were made after the Sri Lanka CEB charges were temporarily supplied with electricity.
 
-...
+There were three laboratories and the office in the factory and the office was investigated.
+
+These factories have 10 memory stores related to the main computer system (DMRF) and the fake, which is in this factory, and the fake of the factory, the investigations are also suspected of fake.The officers had been arrested.
+
+The fishermen were later departured from the factory at around 5 pm on 01/22.
+
+◼️
 
 [Data](articles/33f8073e.json)
+
+[Extended Data](ext_articles/33f8073e.ext.json)
 
 ---
 

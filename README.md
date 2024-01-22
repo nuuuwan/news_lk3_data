@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 21:51:56**
+As of **2024-01-22 21:33:08**
 
 ## Newspaper Stats
 
-*Scraped **1,872** Articles*
+*Scraped **1,871** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,35 +20,17 @@ virakesarilk | 192
 adalk | 199
 dailymirrorlk | 220
 tamilmirrorlk | 231
-adaderanalk | 232
+adaderanalk | 231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,839 (98.2%) of 1,872 articles have been extended.
+1,839 (98.3%) of 1,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
-
-### UN experts call on Sri Lanka to immediately suspend and review ‘Yukthiya’ anti-drug operation
-
-*2024-01-22 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96632/un-experts-call-on-sri-lanka-to-immediately-suspend-and-review-yukthiya-anti-drug-operation) · `en`
-
-UN experts on Monday expressed alarm at the heavy security-driven approach of Sri Lanka’s drug response. They called on authorities to immediately suspend and review so-called Operation ‘Yukthiya’ and to focus on policies based on health and human rights.
-
-“Drug users have human rights,” the experts said. “They deserve to live a life with dignity without facing further discrimination and stigmatisation.”
-
-They deplored reported cases of arbitrary arrests of thousands of drug offenders from marginalised socio-economic groups, and the detention of hundreds in compulsory military-run rehabilitation centres. Torture and ill-treatment were also reported during the security operation known as ‘Yukthiya’.
-
-“The current context of severe repression against suspected drug offenders is deeply worrying,” the experts said.
-
-...
-
-[Data](articles/d1594782.json)
-
----
 
 ### Brunners' breasts Rs. Arrested with assets of three crores
 
@@ -2009,5 +1991,31 @@ His departure sets up the one-on-one battle that Haley has coveted against Trump
 [Data](articles/f3c7db15.json)
 
 [Extended Data](ext_articles/f3c7db15.ext.json)
+
+---
+
+### CCTV penalties: "12% of registered vehicles have not been assigned to the backing of backing
+
+*2024-01-22 12:26:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce95dp5750mo) · `si`
+
+It contains nothing here. Play Video, "12% of registered vehicles, 12% of the salesholder's sales will be lawning the method of utilization on location entry related to the location of the route fine online.Acting IGP commented.
+
+CCTV penalties: "12% of registered vehicles have not been assigned to the backing of backing
+
+DIG Indika Hapugoda says that legal action will be taken against the repository of vehicles in the fined vessels through CCTV monitoring system.
+
+He said that about 82 lakhs of the Department of Motor Traffic are present.
+
+He was speaking at a program held today (January 22) on CCTV observations for traffic errors in Colombo.
+
+Meanwhile, the acting IGP commented on the introduction of the method of online fine online.
+
+The Sri Lankan police were also attempting to identify traffic violations by CCTV cameras and the Sri Lankan police were to implement the punishment of the wrongdoers in 2018.
+
+◼️
+
+[Data](articles/782219d7.json)
+
+[Extended Data](ext_articles/782219d7.ext.json)
 
 ---

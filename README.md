@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 13:52:21**
+As of **2024-01-22 13:33:13**
 
 ## Newspaper Stats
 
-*Scraped **1,758** Articles*
+*Scraped **1,757** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,47 +20,35 @@ virakesarilk | 168
 adalk | 185
 dailymirrorlk | 202
 tamilmirrorlk | 216
-adaderanalk | 220
+adaderanalk | 219
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,621 (92.2%) of 1,758 articles have been extended.
+1,616 (92.0%) of 1,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### Injunction order issued against Dayasiri Jayasekara extended
-
-*2024-01-22 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96620/injunction-order-issued-against-dayasiri-jayasekara-extended-) · `en`
-
-The Colombo District Court on Monday (22 Jan.) further extended the injunction order against the former General Secretary of the Sri Lanka Freedom Party (SLFP), Dayasiri Jayasekara, preventing him from hindering the affairs of the SLFP Acting General Secretary, Sarathi Dushmantha Mithrapala, and submitting inaccurate recommendations to the Election Commission in relation to the matter.
-
-The relevant order was issued when a petition filed by Mithrapala and Chairman of the SLFP former President Maithripala Sirisena was taken up in court this morning.
-
-The case is due to be recalled in court on 29 January, allowing time for the respondents to file objections, if any.
-
-The injunction order against Jayasekara was initially issued by Colombo District Judge Sandun Withana on 08 January.
-
-◼️
-
-[Data](articles/7c1eab4e.json)
-
----
-
-### Karapitiya has bail
+### කරාපිටියේ විශේෂඥ වෛද්‍යවරයාට ඇප
 
 *2024-01-22 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192429) · `si`
 
-Dr. Krishantha Perera has released the Head of the Cancer Unit of the Karapitiya Teaching Hospital.
+කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකයේ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා ඇප මත මුදාහැර තිබේ.
 
-◼️
+සෞඛ්‍ය වෘත්තිය සමිති පසුගිය 16 වනදා ක්‍රියාත්මක කළ සංකේත වැඩවර්ජනය අතරතුර එහි කනිෂ්ඨ සේවිකාවකට පහරදුන් බවට වූ චෝදනා මත කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකයේ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා අද (22) දිනය දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+
+කෙසේ වෙතත් ඇතිවූ හෘදයාබාධයක් මත වෛද්‍යවරයාට බන්ධනාගාර නිලධාරීන්ගේ ආරක්ෂාව මත කරාපිටිය ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකාර ලබාගැනීමට අධිකරණය අවසර ලබා දුන් අතර අද ඔහු නැවතත් අධිකරණය වෙත ඉදිරිපත් කළේය.
+
+කරුණු සලකා බැලීමෙන් අනතුරුව ගාල්ල ප්‍රධාන මහෙස්ත්‍රාත් ඉසුරු නෙත්තිකුමාර මහතා නියෝග කළේ, විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා රුපියල් මිලියනය බැගින් වූ ශරීර ඇප දෙකක් මත මුදා හැරීමටය.
+
+මේ අතර රෝහලේ ඇතිවූ නොසන්සුන්තාවට අදාළව කරාපිටිය ශික්ෂණ රෝහලේ කනිෂ්ඨ සේවකයින් දෙදෙනෙකු සහ සේවිකාවකද ගාල්ල පොලීසිය විසින් පෙරේදා අත්අඩංගුවට ගනුලැබූ අතර  ඔවුන් ලබන 29වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට වැඩබලන මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+
+...
 
 [Data](articles/fef1b570.json)
-
-[Extended Data](ext_articles/fef1b570.ext.json)
 
 ---
 
@@ -1965,5 +1953,25 @@ In 2024, Sri Lankan voters will be given the choice of electing their leaders th
 [Data](articles/278bb946.json)
 
 [Extended Data](ext_articles/278bb946.ext.json)
+
+---
+
+### President meets UN chief and state leaders during ‘G77 and China’ summit
+
+*2024-01-21 22:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96606/president-meets-un-chief-and-state-leaders-during-g77-and-china-summit) · `en`
+
+President Ranil Wickremesinghe participated in the 3rd South Summit “G77 and China,” commencing today (21) in Kampala, Uganda. During the event, he engaged in fruitful discussions with numerous state leaders and representatives.
+
+This morning (21), President Ranil Wickremesinghe held a significant meeting with Dr. Riyad Malki, Palestine’s Minister of Foreign Affairs and Expatriates. Additionally, he met with Maldives Vice President Hussain Mohamed Latheef, fostering dialogue and collaboration.
+
+Further, President Ranil Wickremesinghe convened with UN Secretary-General Antonio Guterres on the same day (21), discussing matters of global significance.
+
+In a separate engagement, Indian Minister of State for External Affairs, Mr. Shri V. Muraleedharan, had a constructive discussion with President Ranil Wickremesinghe, emphasizing bilateral relations.
+
+...
+
+[Data](articles/74655438.json)
+
+[Extended Data](ext_articles/74655438.ext.json)
 
 ---

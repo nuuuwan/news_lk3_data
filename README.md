@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 12:04:39**
+As of **2024-01-22 11:52:18**
 
 ## Newspaper Stats
 
-*Scraped **1,739** Articles*
+*Scraped **1,736** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,19 @@ dbsjeyarajcom | 121
 dailyftlk | 159
 virakesarilk | 161
 adalk | 184
-dailymirrorlk | 202
+dailymirrorlk | 201
+adaderanalk | 215
 tamilmirrorlk | 216
-adaderanalk | 217
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,584 (91.1%) of 1,739 articles have been extended.
+1,584 (91.2%) of 1,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
-
-### India’s Modi set to open Ram temple at Ayodhya
-
-*2024-01-22 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96616/indias-modi-set-to-open-ram-temple-at-ayodhya) · `en`
-
-Indian Prime Minister Narendra Modi on Monday was set to open a contentious Hindu temple built on the ruins of an ancient mosque in the holy city of Ayodhya.
-
-The grand event, which will be attended by thousands, is expected to benefit the Indian leader in the polls just months before a general election.
-
-The inauguration of the temple, which is still under construction, is dedicated to Hinduism’s most revered deity Lord Ram. It fulfills a demand made by millions of Hindus for over 100 years and delivers on a crucial campaign pledge from Modi and his Hindu nationalist Bharatiya Janata Party.
-
-Ayodhya, once dotted with tightly packed houses and rundown stalls, has undergone an elaborate makeover in the lead up to the inauguration. Narrow roads have been turned into a four-lane pilgrimage route leading to the temple, tourists are arriving at a new airport and sprawling railway station, and major hotel chains are building new properties.
-
-...
-
-[Data](articles/8666ef1b.json)
-
----
 
 ### Army soldier arrested for contact with underworld
 
@@ -71,24 +53,6 @@ The suspect has been handed over to the Kahathuduwa Police Station for further i
 [Data](articles/725299b1.json)
 
 [Extended Data](ext_articles/725299b1.ext.json)
-
----
-
-### Police to trace traffic offenders through CCTV system from today
-
-*2024-01-22 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96615/police-to-trace-traffic-offenders-through-cctv-system-from-today-) · `en`
-
-A special programme through which traffic offenders in Colombo will be traced using a CCTV surveillance camera system is set to be implemented from today (22 Jan.), Sri Lanka Police stated.
-
-A pilot project of the initiative is set to commence in the country’s commercial capital from today, until 31 January, in a bid to curb traffic violations.
-
-Accordingly, Police Media Spokesman SSP Nihal Thalduwa explained that the CCTV camera system will be monitored by police personnel stationed in Colombo, after which, the registered owner of the relevant vehicle will be notified in the event a traffic offence is recorded.
-
-SSP Thalduwa further noted that while the owner of the vehicle will be informed of any such offences during the pilot project, the issuance of fines will commence after 31 January.
-
-◼️
-
-[Data](articles/b410400c.json)
 
 ---
 
@@ -131,22 +95,6 @@ The PUCSL will then modify the proposal based on public feedback and is expected
 [Data](articles/4d9d0893.json)
 
 [Extended Data](ext_articles/4d9d0893.ext.json)
-
----
-
-### ‘Ape Jana Bala Party’ leader among victims in Beliatta shooting
-
-*2024-01-22 10:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ape-Jana-Bala-Party-leader-among-victims-in-Beliatta-shooting/108-275485) · `en`
-
-Beliatte, Jan 22 (Daily Mirror) - Saman Perera, leader of the ‘Ape Jana Bala Party’ is among the five persons who were killed in the shooting incident reported in Beliatta this morning.
-
-He was arrested and released in 2022 for aiding and abetting a suspect connected to a murder committed in Kudawella.
-
-He also faced allegations over the murder of the Balapitiya Pradeshiya Sabha chairman and his son.
-
-◼️
-
-[Data](articles/499c84ff.json)
 
 ---
 
@@ -1981,5 +1929,65 @@ Farmgate prices in Kurunegala were 65,000 to 72,000 in the week to January 11. R
 [Data](articles/d26defde.json)
 
 [Extended Data](ext_articles/d26defde.ext.json)
+
+---
+
+### President emphasizes Sri Lanka's stability of a Palestinian state
+
+*2024-01-21 20:12:12* · [`adalk`](https://www.ada.lk/breaking_news/පලස්තීන-රාජ්‍යයක්-පිළිබඳ-ලංකාවේ-ස්ථාවරත්වය-ජනපති-අවධාරණය-කරයි/11-407650) · `si`
+
+Minister of President Ranil Wickremesinghe and Minister of External Affairs and Migrants of Palestine Dr. Riyadh Malki (dr. Meeting between Mr. Riyad Malki, gathering, was held in Kampala, the 3rd South Conference of "G77 and China" today (21).
+
+Special attention was paid to the crisis in the Gaza, and President Ranil Wickremesinghe emphasized that it is impossible to prestite the Palestinian people in the Israeli-Hamas conflict.
+
+The President said that Sri Lanka's resolution would be fully supported by the United Nations Secretary-General to the Secretary General of the United Nations General Secretary to the Secretary General of the United Nations and the UN Secretary General to establish peace.
+
+President Ranil Wickremesinghe also emphasized the need to give the highest priority for the self-determination of the people of Palestine and the unable to establish a sovereign and independent state.
+
+...
+
+[Data](articles/eddcb3d2.json)
+
+[Extended Data](ext_articles/eddcb3d2.ext.json)
+
+---
+
+### Controversial monk ’Vishwa Buddha’ expelled from monkhood
+
+*2024-01-21 20:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Controversial-monk-Vishwa-Buddha-expelled-from-monkhood/108-275440) · `en`
+
+Colombo, Jan. 21 (Daily Mirror)- The controvercial saffron-robed monk who identifies himself as ‘Vishwa Buddha' has been expelled from the Ramanna Maha Nikaya and the monkhood.
+
+The Mahanayake Thera of Sri Lanka Ramanna Maha Nikaya, Ven. Makulewe Wimalaabhidana Thera has informed this decision to the Commissioner General of Buddhist Affairs.
+
+The Karaka Maha Sangha Sabha of the Sri Lanka Ramanna Maha Nikaya had unanimously decided on December 15, 2023 to explell the controversial monk from the Ramanna Maha Nikaya and the monkhood.
+
+The particular monk, who was arrested once again by the Criminal Investigation Department (CID), was remanded till January 26 by the Gangodawila Magistrate Sunil Hettiarachchi today.
+
+In December of last year, the CID's cybercrimes unit arrested the monk for allegedly insulting Buddhism on social media and later he was released on bail.
+
+◼️
+
+[Data](articles/0cde3e5c.json)
+
+[Extended Data](ext_articles/0cde3e5c.ext.json)
+
+---
+
+### Troops of the train and electricity systems. 24 loss of loss
+
+*2024-01-21 20:03:02* · [`adalk`](https://www.ada.lk/breaking_news/සීනු-හා-විදුලි-පද්ධතිවලින්-දුම්රියට-රු-කෝටි--24ක-පාඩුවක්/11-407649) · `si`
+
+The National Audit Office is not working before the period of Rs.Dates of / 09 are recommended.
+
+The audit recommended that the relevant tenderer has not met the required qualifying criteria and that it is necessary to take appropriate action on whether it is a tested deal on the limbs.
+
+It was revealed that the Technical Evaluation Committee had not taken transparency when evaluating the tender. Also, the audit recommended that the function of the Technical Evaluation Committee should consider the role of the Technical Evaluation Committee regarding the domesticity of the Technical Evaluation Committee to provide adequate and actual information to the Cabinet of Ministers.. 50 of these electricity systems were inactive from 2003 in 2003, with the 200 Billions and electrical systems installed by the logistics company.
+
+◼️
+
+[Data](articles/49cbd9a1.json)
+
+[Extended Data](ext_articles/49cbd9a1.ext.json)
 
 ---

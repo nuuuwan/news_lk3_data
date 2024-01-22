@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 20:33:09**
+As of **2024-01-22 20:51:23**
 
 ## Newspaper Stats
 
-*Scraped **1,866** Articles*
+*Scraped **1,867** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ newsfirstlk | 116
 economynextcom | 116
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 191
+virakesarilk | 192
 adalk | 196
 dailymirrorlk | 220
 tamilmirrorlk | 231
@@ -26,83 +26,113 @@ adaderanalk | 231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,789 (95.9%) of 1,866 articles have been extended.
+1,799 (96.4%) of 1,867 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### சிரேஷ்ட விரிவுரையாளர் திடீர் மரணம்
+### Senior lecturer sudden death
 
 *2024-01-22 20:02:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரேஷ்ட-விரிவுரையாளர்-திடீர்-மரணம்/175-331964) · `ta`
 
-விவசாய பீடத்தின் சிரேஷ்ட விரிவுரையாளரான 60 வயதுடைய லக்நாத் பீரிஸ் எனும்  விரிவுரையாளரே இவ்வாறு உயிரிழந்துள்ளார்.
+The deceased is the 60 -year -old lecturer, Lucknath Peiris, a senior lecturer of the Agriculture Faculty.
 
-அதிகமான மாத்திரைகள் மற்றும் பூச்சிக்கொல்லி மருந்து உடலில் பரவியதால் இந்த மரணம் ஏற்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+Police suspect that the death may have been caused by excessive pills and pesticides.
 
-இவர் தனது மனைவியுடன் பழைய கலஹா வீதி சரசவி உயன பகுதியில் அமைந்துள்ள குடியிருப்பு வீட்டில் வசித்து வந்தமை குறிப்பிடத்தக்கது.
+It is noteworthy that he lived with his wife at a residential house located in the old Kalaha Road Sarasavi Uyana area.
 
 ◼️
 
 [Data](articles/84a07908.json)
 
+[Extended Data](ext_articles/84a07908.ext.json)
+
 ---
 
-### அயோத்திக்கு வந்த “குழந்தை ராமர்” சிலையின் சிறப்புகள் என்ன தெரியுமா?
+### Do you know the specialty of the statue of "Baby Rama" who came to Ayodhya?
 
 *2024-01-22 19:48:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அயோத்திக்கு-வந்த-குழந்தை-ராமர்-சிலையின்-சிறப்புகள்-என்ன-தெரியுமா/50-331963) · `ta`
 
-அயோத்தி ராமர் கோயிலில் அமைக்கப்பட்டுள்ள குழந்தை ராமர் சிலைஉலகிலேயே ஆகச்சிறந்த கலை வேலைப்பாடுகளுடன் உருவாக்கப்பட்டுள்ளது.
+The baby in the Ayodhya Rama Temple is created with the best art work in the world.
 
-அயோத்தி ராமர் கோயிலில் வைக்கப்பட்ட குழந்தை ராமர் சிலையின் புகைப்படம் வெளியான போதே அனைவரையும் கவர்ந்து இழுத்துவிட்டது.
+The child at the Ayodhya Rama Temple was attracted to everyone when the photo of the statue of Rama statue was released.
 
-ராமர், குழந்தையில் இப்படித்தான் இருந்திருப்பாரோ என்கிற அளவுக்கு, சாந்தமும் புன்னகையும் குடிகொண்டிருக்கும் வகையில், மிகவும் தத்ரூபமாக சிலை உருவாக்கப்பட்டிருந்ததுதான் அதற்கு காரணம்.
+The reason is that the statue was made very realistic that Rama was like this in the child.
 
-உண்மையில், 5 வயது பாலகனாக ராமரை நினைவுக்கூறும் வகையில், வெவ்வேறு இடங்களில் 3 சிலைகள் உருவாக்கப்பட்டுள்ளன.
+In fact, 3 statues have been created in different places to commemorate Rama as a 5 -year -old.
 
-கர்நாடக மாநிலம் மைசூரு மாவட்டத்தைச் சேர்ந்த அருண் யோகிராஜ், பெங்களூருவைச் சேர்ந்த கணேஷ் பட் மற்றும் ராஜஸ்தானைச் சேர்ந்த சத்யநாராயண் ஆகியோர் தனித்தனியாக சிலைகளை உருவாக்கியுள்ளனர்.
+Arun Yogiraj from Mysore district of Karnataka, Ganesh Bhatt from Bangalore and Satyanarayan from Rajasthan have created separate statues.
 
-கர்நாடகாவில் உருவான 2 சிலைகளும் கருங்கல்லில் உருவானது. ராஜஸ்தானில் மார்பிள் கல்லை பயன்படுத்தி சிலை உருவாக்கப்பட்டது. இறுதியில் மைசூரில் உருவான சிலைதான் அயோத்தி கோயிலின் கருவறையை அடைந்துள்ளது.
+The 2 statues that originated in Karnataka were formed. The statue was created using marble stone in Rajasthan. In the end, the statue of Mysore has reached the sanctum sanctorum of the Ayodhya Temple.
+
+In South India, mostly used for god statues are used in gooseberry rocks. Its black color is also known as Krishna Shila, which reminds Krishna and shines in the sunlight.
 
 ...
 
 [Data](articles/c49f6196.json)
 
+[Extended Data](ext_articles/c49f6196.ext.json)
+
 ---
 
-### இனப்பிரச்சினைக்கான நிரந்தர தீர்வுக்கு அழுத்தமளியுங்கள் : புதிய இந்திய உயர்ஸ்தானிகரிடம் தமிழ்த் தேசியக் கட்சிகளின் தலைவர்கள் கூட்டாக கோரிக்கை
+### Pressing on a permanent solution to the ethnic problem: Leaders of Tamil National Party jointly request the new Indian High Commissioner
 
 *2024-01-22 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174564) · `ta`
 
-வடக்கு,கிழக்கு தமிழ் மக்களின் இனப்பிரச்சினைகான நிரந்தரமான தீர்வினை வழங்குவதற்கு அழுத்தமளிக்குமாறு இலங்கைக்கான இந்தியாவின் புதிய இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவிடத்தில் தமிழ்த் தேசியக் கட்சிகளின் தவைர்கள் மற்றும் பாராளுமன்ற உறுப்பினர்கள் கோரிக்கை விடுத்துள்ளனர்.
+The Tamil Nationalist parties and MPs have called for the new Indian High Commissioner to Sri Lanka Santosh Java to pressure Sri Lanka to provide a permanent solution to the ethnic problem of the Tamil people of the North and East.
 
-அத்துடன், வடக்கு,கிழக்கு மாகணங்களின் சபைகளுக்காகவாவது தேர்தலை நடத்துவதற்கு இலங்கை அரசாங்கத்தினை வலியுறுத்துமாறு கோரியதோடு, அதற்கு இலங்கை அரசாங்கம் நிதியில்லை என்று கூறுமாக இருந்தால் அந்நிதியை இந்தியா வழங்க வேண்டும் என்றும் குறிப்பிட்டனர்.
+They also called for the Sri Lankan government to hold the elections for the Northern and Eastern Provincial Councils and that India should be given the fund if it is not funded by the Sri Lankan government.
 
-இலங்கைக்கான புதிய இந்திய உயர்ஸ்தானிகராக நியமிக்கப்பட்டுள்ள சந்தோஷ் ஜாவுக்கும் தமிழ்த் தேசியக் கட்சிகளின் தலைவர்கள் மற்றும் பாராளுமன்ற உறுப்பினர்களுக்கும் இடையிலான சந்திப்பு கொழும்பில் உள்ள இந்திய இல்லத்தில் திங்கட்கிழமை (22) பிற்பகல் 4மணிக்கு நடைபெற்றது.
+The meeting between Santosh Jaw and the leaders of the Tamil National Party, which has been appointed as the new Indian High Commissioner to Sri Lanka, was held at the Indian residence in Colombo at 4 pm on Monday.
 
 ...
 
 [Data](articles/3506f973.json)
 
+[Extended Data](ext_articles/3506f973.ext.json)
+
 ---
 
-### பேராதனை பல்கலையின் விவசாய பீட பேராசிரியர் பீரிஸ் அதிகளவு மாத்திரைகளை உட்கொண்டதால் உயிரிழப்பு
+### Professor Peiris, who is in a state of agriculture at Peradeniya University, dies
 
 *2024-01-22 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174559) · `ta`
 
-பேராதனை பல்கலைக்கழகத்தின் விவசாய பீடத்தின் பேராசிரியர் ஒருவர் அதிகளவு மாத்திரைகளை  உட்கொண்டதன் காரணமாக ஆபத்தான நிலையில் பேராதனை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த நிலையில் திங்கட்கிழமை (22) உயிரிழந்துள்ளார்.
+A professor of the Faculty of Agriculture of the University of Peradeniya has died on Monday (22) after being admitted to the Peradeniya Teaching Hospital in critical condition due to a large number of pills.
 
-விவசாய பீடத்திற்கு சொந்தமான உத்தியோகபூர்வ இல்லத்தில் மனைவியுடன் வசித்து வந்த பேராசிரியர் திங்கட்கிழமை (22) அதிகாலை ஒரு மணியளவில் ஆபத்தான நிலையில் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டார்.
+Professor who lived with his wife at an official residence owned by the Faculty of Agriculture was taken to a hospital in danger on Monday (22).
 
-விவசாய பீடத்தில் பயிர் விஞ்ஞானப் பிரிவில் சிரேஷ்ட விரிவுரையாளராகப் பணியாற்றிய பேராசிரியர் பி.எல்.பீரிஸ் (60) என்பவரே இவ்வாறு உயிரிழந்துள்ளதாக பேராதனைப் பல்கலைக்கழக ஊடகப் பேச்சாளரும், பிரதி உபவேந்தருமான பேராசிரியர் டெரன்ஸ் மதுஜித் தெரிவித்தார்.
+Professor PL Peiris (60), who served as a senior lecturer in the Crop Sciences Division on the Faculty of Agriculture, said that the deceased was died.
 
-பேராசிரியரின் மனைவி பேராதனை பல்கலைக்கழகத்தின் பிரதான நூலகத்தில் பணிபுரிவதோடு, மரணம் தொடர்பில் பேராதனை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+The Professor's wife is working at the main library of Peradeniya University and is conducting investigations into the death of the Peradeniya Police.
 
-பிரேத பரிசோதனைக்கு பின்னரே மரணத்திற்கான காரணம் குறித்து உறுதியான அறிக்கையை வெளியிட முடியும் என பொலிஸார் தெரிவித்தனர்.
+Police said they could make a firm statement on the cause of the death after the autopsy.
 
 ◼️
 
 [Data](articles/9006af8d.json)
+
+[Extended Data](ext_articles/9006af8d.ext.json)
+
+---
+
+### தயக்கமின்றி இராஜிநாமா கடிதங்களை ஏற்றுக் கொள்ளுங்கள் - மின்சாரசபை நிர்வாகத்துக்கு அமைச்சர் உத்தரவு
+
+*2024-01-22 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174561) · `ta`
+
+இலங்கை மின்சாரசபை ஊழியர்கள் 5000 பேர் இராஜிநாமா செய்யத் தீர்மானித்துள்ளதாக செய்திகள் வெளியாகியுள்ள நிலையில், எவ்வித தயக்கமும் இன்றி இராஜிநாமா கடிதங்களை ஏற்றுக் கொள்ளுமாறு இலங்கை மின்சார சபை நிர்வாகத்திற்கு மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர உத்தரவிட்டுள்ளார்.
+
+தனது உத்தியோகபூர்வ டுவிட்டர் பக்கத்தில் பதிவொன்றை இட்டு அமைச்சர் இவ்வாறு குறிப்பிட்டுள்ளார். அதில் மேலும் தெரிவிக்கப்பட்டுள்ளதாவது:
+
+எந்த ஒரு ஊழியரின் ராஜினாமாவையும் தயக்கமின்றி ஏற்கும்படி இலங்கை மின்சாரசபை நிர்வாகத்துக்க அறிவுறுத்தப்பட்டுள்ளது. அதே வேளை இராஜிநாமா செய்பவர்கள் நிறுவனத்திற்கு செலுத்த வேண்டிய அனைத்து பாக்கிகளையும் வசூலிக்குமாறும் அறிவுறுத்தப்பட்டுள்ளது.
+
+நிறுவனத்தின் சீர்திருத்தங்கள் தொடர்பான பணிகளை துரிதப்படுத்துமாறு மின்சாரசபை நிர்வாகத்தின் சம்பந்தப்பட்ட அதிகாரிகளுக்கு பணிப்புரை விடுக்கப்பட்டுள்ளது.
+
+சீர்திருத்தங்களில் செலவு குறைப்பு வழிமுறைகள், உற்பத்தித் திட்டத்தில் அடையாளம் காணப்பட்ட மின் திட்டங்களை செயல்படுத்துதல், டிஜிட்டல் கட்டண தளத்தை விரிவுபடுத்துதல் என்பன உள்ளடங்குகின்றன.
+
+...
+
+[Data](articles/71c4327f.json)
 
 ---
 
@@ -169,6 +199,8 @@ The Anti-Terrorism Bill was published in the gazette notification on September 1
 ...
 
 [Data](articles/010d8059.json)
+
+[Extended Data](ext_articles/010d8059.ext.json)
 
 ---
 
@@ -1378,17 +1410,19 @@ He is a CFA charter holder. He has Bachelor of Commerce degree and Master of Fin
 
 ---
 
-### සාපෙළට ලියන්න ඉන්න අයට දැනුම් දීමක්
+### A notice to those who are constantly writing
 
 *2024-01-22 14:29:31* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළට-ලියන්න-ඉන්න-අයට-දැනුම්-දීමක්/11-407666) · `si`
 
-අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ (2023/2024) විභාගයට අදාළව අයදුම්පත්‍ර කැඳවීම හෙට සිට ආරම්භ වන බව විභාග දෙපාර්තමේන්තුව පවසයි.
+Applications of the GCE Ordinary Level (2023/2024) Examination will commence tomorrow, the Department of Examinations said.
 
-ජනවාරි 23 වනදා සිට පෙබරවාරි 15 දක්වා මාර්ගගත ක්‍රමය ඔස්සේ පමණක් මෙම අයදුම්පත්‍ර කැඳවීම සිදුකරන බව විභාග දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+The applications are called only on the online system from January 23 to February 15, the Department of Examinations added.
 
 ◼️
 
 [Data](articles/89f75c42.json)
+
+[Extended Data](ext_articles/89f75c42.ext.json)
 
 ---
 
@@ -1987,21 +2021,5 @@ Beliatta Police suspect that the Buddhika Rajapakse of Kumara, Beharatha Ven and
 [Data](articles/ff5bc0a9.json)
 
 [Extended Data](ext_articles/ff5bc0a9.ext.json)
-
----
-
-### Announcement on the calling for the O / L examination
-
-*2024-01-22 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192428) · `si`
-
-The Department of Examinations has issued a statement regarding the calling for applications for the Ordinary Level (2023/2024).
-
-According to the statement, the application of applications will be carried out between January 23 to February 15.
-
-◼️
-
-[Data](articles/ba52b926.json)
-
-[Extended Data](ext_articles/ba52b926.ext.json)
 
 ---

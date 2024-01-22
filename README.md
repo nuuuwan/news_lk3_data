@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 20:03:36**
+As of **2024-01-22 20:17:03**
 
 ## Newspaper Stats
 
-*Scraped **1,860** Articles*
+*Scraped **1,861** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dbsjeyarajcom | 121
 dailyftlk | 159
 virakesarilk | 189
 adalk | 195
-dailymirrorlk | 219
+dailymirrorlk | 220
 tamilmirrorlk | 229
 adaderanalk | 231
 
@@ -26,7 +26,7 @@ adaderanalk | 231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,779 (95.6%) of 1,860 articles have been extended.
+1,779 (95.6%) of 1,861 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -77,6 +77,22 @@ Sony has stated that the letter will be exposed to investors later.
 [Data](articles/d2d97068.json)
 
 [Extended Data](ext_articles/d2d97068.ext.json)
+
+---
+
+### Anti-Terrorism Bill creates separate legal regime: SJB
+
+*2024-01-22 19:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anti-Terrorism-Bill-creates-separate-legal-regime-SJB/108-275505) · `en`
+
+Colombo, Jan 22 (Daily Mirror) - Filing a special determination petition before the Supreme Court, the Samagi Jana Balawegaya (SJB) General Secretary alleged that the proposed Anti-Terrorism Bill will create a separate legal regime to other penal statutes in respect of similar conduct.
+
+Filing this petition challenging the constitutionality of the Anti-Terrorism Bill, SJB General Secretary Ranjith Madduma Bandara is seeking a declaration that the bill requires the approval by the people at a Referendum in addition to the two-thirds approval in Parliament.
+
+The Anti-Terrorism Bill was published in the gazette notification on September 15, 2023 but was tabled in Parliament only on January 10, 2024.
+
+...
+
+[Data](articles/010d8059.json)
 
 ---
 
@@ -1997,25 +2013,5 @@ The information is being spread by members of the United People's Power, includi
 [Data](articles/bd7c429f.json)
 
 [Extended Data](ext_articles/bd7c429f.ext.json)
-
----
-
-### 79 luxury vehicles belonging to the drug network
-
-*2024-01-22 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174502) · `ta`
-
-The Criminal Investigation Department has discovered that Kudu Salindu, an organized criminal and massive drug trafficker, has 79 luxury vehicles and their digit plates are being replaced and engaged in drug network.
-
-The 26 -year -old Kudu Salindu has maintained 48 bank accounts under the names of various persons, said Inspector General of Police Deshabandu Tennakoon.
-
-He said 1,059 million rupees of these forty -eight accounts were leaving within three years.
-
-Meanwhile, the list of 4,500 people involved in the drug trade in Sri Lanka has been prepared by the Intelligence Unit and the Drug Eradication Unit and handed over to the Senior Superintendents of the respective areas.
-
-◼️
-
-[Data](articles/269f428b.json)
-
-[Extended Data](ext_articles/269f428b.ext.json)
 
 ---

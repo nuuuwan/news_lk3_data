@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 01:02:07**
+As of **2024-01-23 01:17:01**
 
 ## Newspaper Stats
 
-*Scraped **1,908** Articles*
+*Scraped **1,910** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ virakesarilk | 195
 adalk | 200
 dailymirrorlk | 230
 tamilmirrorlk | 232
-adaderanalk | 233
+adaderanalk | 235
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,896 (99.4%) of 1,908 articles have been extended.
+1,906 (99.8%) of 1,910 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ According to sources within the Parliament, several amendments are expected to b
 ...
 
 [Data](articles/4c500de4.json)
+
+[Extended Data](ext_articles/4c500de4.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ Four persons had died instantly while another succumbed to his injuries after be
 ...
 
 [Data](articles/c930c2a0.json)
+
+[Extended Data](ext_articles/c930c2a0.ext.json)
 
 ---
 
@@ -82,6 +86,8 @@ Speaking to the media near the CEB head office yesterday, Jayalal said a total o
 
 [Data](articles/74f3a139.json)
 
+[Extended Data](ext_articles/74f3a139.ext.json)
+
 ---
 
 ### Legislation to combat bribery and corruption in Sri Lanka completed - says Justice Minister
@@ -97,6 +103,8 @@ He said politicians have been blamed for the bribery and corruption in the count
 ...
 
 [Data](articles/a6622c89.json)
+
+[Extended Data](ext_articles/a6622c89.ext.json)
 
 ---
 
@@ -114,6 +122,8 @@ At the conference, ten proposals were presented and adapted. They include: A cal
 
 [Data](articles/eb5a81bb.json)
 
+[Extended Data](ext_articles/eb5a81bb.ext.json)
+
 ---
 
 ### Singer Sri Lanka excels in SAFA Best Annual Report Awards 2022
@@ -129,6 +139,8 @@ The evaluation process, conducted by SAFA’s esteemed committee, focused on enh
 ...
 
 [Data](articles/8e71aaf4.json)
+
+[Extended Data](ext_articles/8e71aaf4.ext.json)
 
 ---
 
@@ -148,6 +160,8 @@ The collaboration on digital identity holds significant potential for Sri Lanka.
 
 [Data](articles/0098cd32.json)
 
+[Extended Data](ext_articles/0098cd32.ext.json)
+
 ---
 
 ### Aberdeen Holdings recognised with multiple awards in 2023
@@ -166,6 +180,8 @@ Expo Commodities, a subsidiary of Aberdeen Holdings, received three coveted acco
 
 [Data](articles/4b596b51.json)
 
+[Extended Data](ext_articles/4b596b51.ext.json)
+
 ---
 
 ### Sierra Cables shares insights with clients in glamorous networking session
@@ -183,6 +199,8 @@ The company is at the forefront of developing flame-retardant cables for the dom
 ...
 
 [Data](articles/516c3d5e.json)
+
+[Extended Data](ext_articles/516c3d5e.ext.json)
 
 ---
 
@@ -346,6 +364,8 @@ To the two minorities therefore the choice is starkly evident. Either they vote 
 
 [Data](articles/449e9b72.json)
 
+[Extended Data](ext_articles/449e9b72.ext.json)
+
 ---
 
 ### ‘Faith’ the only way to Sanity
@@ -359,6 +379,34 @@ The Presidential visit to the unfortunate area known as the former conflict area
 ...
 
 [Data](articles/78465d8f.json)
+
+---
+
+### Govt to pay monthly welfare allowance to over 16,000 institutionalised persons
+
+*2024-01-22 23:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96635/govt-to-pay-monthly-welfare-allowance-to-over-16000-institutionalised-persons) · `en`
+
+The government will pay a monthly welfare allowance of Rs. 2,000 through the district secretaries from January 2024 to approximately 16,146 institutionalised persons who have benefited under the Samurdhi programme, says the Acting Finance Minister.
+
+In a tweet, Shehan Semasinghe said this will include clergy in Piriven, children’s homes, elderly homes and disabled persons who are in caregiving homes.
+
+◼️
+
+[Data](articles/05218cc5.json)
+
+---
+
+### Secretary General refutes reports of constant violence against women in Parliament and lack of action
+
+*2024-01-22 23:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96634/secretary-general-refutes-reports-of-constant-violence-against-women-in-parliament-and-lack-of-action) · `en`
+
+The Secretary General of the Parliament Mrs. Kushani Rohanadeera has said that the reports that there is constant sexual harassment towards female staff members and female Members of Parliament in Parliament and that proper investigations and measures are not being taken are completely false.
+
+Issuing a statement, the Secretary General emphasized that when such incidents related to disciplinary violations in the Parliament are reported, investigations related to them are carried out very impartially under the guidance of the Speaker and the Speaker did not interfere or influence in any way other than giving his assistance at best towards holding speedy investigations.
+
+...
+
+[Data](articles/0d987de1.json)
 
 ---
 
@@ -1933,49 +1981,5 @@ The general election of India is to be held in the next few months. The Kovil ha
 [Data](articles/a11169af.json)
 
 [Extended Data](ext_articles/a11169af.ext.json)
-
----
-
-### BASL calls for independent probe into surge in killings by police
-
-*2024-01-22 14:50:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/basl-calls-for-independent-probe-into-surge-in-killings-by-police/) · `en`
-
-Colombo (News 1st) – The Bar Association of Sri Lanka (BASL) has called for an independent inquiry into the recent surge of fatalities involving police.
-
-The BASL statement comes in the wake of a member of the public being shot dead in Narammala last week by a police officer in civilian clothing.
-
-The BASL also criticised Minister of Public Security Tiran Alles, for stating that he would publish a list of persons who obstructed the ongoing Operation Yukthiya anti-narcotics program, which has drawn much criticism for its heavy-handed approach.
-
-"It is evident that these statements, among others, made by a government minister, are irresponsibly misleading and detrimental to the crucial role lawyers play in preserving public interest," the statement said.
-
-...
-
-[Data](articles/56b10332.json)
-
-[Extended Data](ext_articles/56b10332.ext.json)
-
----
-
-### Providing vocational education at schooling students who end Advanced Level
-
-*2024-01-22 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192431) · `si`
-
-Minister of Education Susil Premajayantha says that students who complete the A / L students will be given in school in the school, from February.
-
-A program with a professional training and theoretical rehearsal of vocational education with information technology and English.
-
-The Minister also stated that the Vocational Training Program is implemented in 299 selected schools in the island, which is being implemented to contest student students to vocational education.
-
-Students who sit for the GCE Advanced Level Examination for the GCE Advanced Level Examination for the GCE Advanced Level Examination may be registered with this program before 09th
-
-Further information can be obtained from the Skills Development Officers of the Divisional Secretariat.
-
-The Minister made these comments on this special career guidance organized by the Skills Development, Research and Invention of the Ministry of Education.
-
-◼️
-
-[Data](articles/1f54f21b.json)
-
-[Extended Data](ext_articles/1f54f21b.ext.json)
 
 ---

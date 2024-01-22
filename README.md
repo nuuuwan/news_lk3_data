@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 16:17:19**
+As of **2024-01-22 15:51:35**
 
 ## Newspaper Stats
 
-*Scraped **1,801** Articles*
+*Scraped **1,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,40 +17,20 @@ newsfirstlk | 113
 dbsjeyarajcom | 121
 dailyftlk | 159
 virakesarilk | 176
-adalk | 190
+adalk | 188
 dailymirrorlk | 211
-adaderanalk | 224
+adaderanalk | 223
 tamilmirrorlk | 224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,686 (93.6%) of 1,801 articles have been extended.
+1,684 (93.7%) of 1,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
-
-### Sri Lanka’s inflation rate rises to 4.2% in December
-
-*2024-01-22 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96624/sri-lankas-inflation-rate-rises-to-42-in-december) · `en`
-
-Sri Lanka’s consumer price inflation rate rose to 4.2% year-on-year in December from 2.8% in November, the statistics department said on Monday.
-
-The National Consumer Price Index (NCPI) captures broader retail price inflation and is released with a lag of 21 days every month.
-
-Food prices rose 1.6% in December after falling 2.2% in November on the year, the Department of Census and Statistics said in a statement.
-
-Prices for non-food items, however, fell 6.3% in December from 7.1% year-on-year in November.
-
-Sri Lanka racked up record high inflation last year after its economy was pummelled by the worst financial crisis in decades, triggered by a plunge in foreign exchange reserves.
-
-◼️
-
-[Data](articles/a5ad39f5.json)
-
----
 
 ### Imad Fakhoury appointed IFC South Asia regional director
 
@@ -709,20 +689,6 @@ That mission had now become a recovery operation, CENTCOM said.
 [Data](articles/eadb4752.json)
 
 [Extended Data](ext_articles/eadb4752.ext.json)
-
----
-
-### බෙලි අත්තේ වෙඩි තැබීම වාඩුව ගැනීමක්?
-
-*2024-01-22 12:10:05* · [`adalk`](https://www.ada.lk/breaking_news/බෙලි-අත්තේ-වෙඩි-තැබීම-වාඩුව-ගැනීමක්-/11-407662) · `si`
-
-බෙලිඅත්ත කොළඹ අධිවේගී මාර්ගයේ පිටවීම අසල වෙළඳසැලක් අසල දී   අද උදෑසන පෙ.ව 08.35 පමණ සිදු වූ වෙඩිතැබීමකින් පුද්ගලයන් 05 දෙනෙකු මියගොස් ඇති බව බෙලිඅත්ත පොලීසිය පවසයි.
-
-සුදු පැහැති  ඩිෆෙන්ඩර් රථයක ගමන් කරමින් සිටි පුද්ගලයන් 05 දෙනෙකු ඉලක්ක කරගනිමින් කොළ පැහැති කැබ් රථයකින් පැමිණි පිරිසක් ගිනි අවියකින් වෙඩිතබා පලා ගොස් ඇතිබව පොලීසිය කියයි. ඩිෆෙන්ඩර් රථයේ ගමන්ගත් පුද්ගලයන් 04 දෙනෙකු එම ස්ථානයේම මියගොස් තිබේ.අනෙක් පුද්ගලයා බෙලිඅත්ත රෝහලට ඇතුලත් කිරීමෙන් පසු මියගොස් ඇති බව බෙලිඅත්ත පොලීසිය පවසයි.
-
-...
-
-[Data](articles/ff5bc0a9.json)
 
 ---
 
@@ -1522,26 +1488,6 @@ Police suspect that underworld criminal Kosgoda Sujee's gang has carried out the
 
 ---
 
-### භාරත ලක්ෂ්මන්ගේ ඝාතකයා බව කියමින් ව්‍යාපාරිකයෙකුගෙන් කප්පම් ඉල්ලලා
-
-*2024-01-22 09:56:07* · [`adalk`](https://www.ada.lk/breaking_news/භාරත-ලක්ෂ්මන්ගේ-ඝාතකයා-බව-කියමින්-ව්‍යාපාරිකයෙකුගෙන්-කප්පම්-ඉල්ලලා/11-407657) · `si`
-
-තමන් හිටපු පාර්ලිමේන්තු මන්ත්‍රී භාරත ලක්ෂ්මන් ප්‍රේමචන්ද්‍ර මහතා ඝාතනය කළ " සුද්දා " නැමැත්තා බව පවසමින් මත්තේගොඩ ප්‍රදේශයේ ව්‍යාපාරිකයකුට දුරකථන ඇමතුමක් දී කප්පම් ඉල්ලූ බව පැවසෙන පුද්ගලයෙකු අත්අඩංගුවට ගැනීම සඳහා විමර්ශනයක් ආරම්භ කර ඇතැයි  මත්තේගොඩ පොලිසිය පවසයි .
-
-මීට අමතරව සිද්ධිය සම්බන්ධයෙන් ගල්කිස්ස කොට්ඨාශ භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි මංගල දෙහිදෙණිය මහතාගේ උපදෙසින් ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන අංශය මගින් ද (21) දා සිට වෙනම විමර්ශනයක් ආරම්භ කර තිබේ.
-
-මෙම දුරකථන ඇමතුම ඉකුත් 20 දා ලැබී තිබූ අතර  ඒ සම්බන්ධයෙන් ලද පැමිණිල්ලකට අනුව මෙම විමර්ශනය ආරම්භ කර තිබේ.
-
-එදින දහවල්  මෙරට ප්‍රධාන පෙළේ නිෂ්පාදන ආයතන කිහිපයක අලෙවි නියෝජිතවරයෙකු වන පැමිණිලිකරුගේ ජංගම දුරකථනයට ඇමතුමක් ගෙන ,
-
-මල්ලී මම හිටපු පාර්ලිමේන්තු මන්ත්‍රී භාරත ලක්ෂ්මන් ප්‍රේමචන්ද්‍ර මහතා මරපු කෙනා , මගෙ නම 'සුද්දා" ඔයා මාව දන්නවා ඇතිනේ, කොළඹ බිස්නස් කාරයෝ නම් මාව නොදන්න කෙනෙක් නෑ. ඔයාට මත්තෙගොඩ සහ දියගම වෙළඳ සැල් දෙකක් තියෙනවා නේද ?
-
-...
-
-[Data](articles/9a0e6185.json)
-
----
-
 ### 47 people from landslide
 
 *2024-01-22 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192421) · `si`
@@ -2009,5 +1955,71 @@ The new proposal is added to the Ceylon Electricity Board.
 [Data](articles/5000286c.json)
 
 [Extended Data](ext_articles/5000286c.ext.json)
+
+---
+
+### Arrival attack on Tonetsk in Russia's occupation - 27 killed
+
+*2024-01-22 07:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174486) · `ta`
+
+27 people have been killed in an artillery attack on Tontsk, occupied by Russia.
+
+Terrible assault in the most busy market may increase the number of casualties, said Tenis Pussilin, a pro -leader of the region.. He accused Ukraine of carrying out the attack.
+
+A woman who survived, she said that I was sneaking in the shop, learning by the noise of the fire.
+
+I saw smoke, people screaming and a woman crying, he said.
+
+◼️
+
+[Data](articles/6dc9c4ea.json)
+
+[Extended Data](ext_articles/6dc9c4ea.ext.json)
+
+---
+
+### CCTV operates today
+
+*2024-01-22 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192415) · `si`
+
+A special program to identify traffic wrongdoing in Colombo has been launched from today (22), police said.
+
+Accordingly, it will be implemented in Colombo as a pilot project from today until 31st.
+
+Police Media Spokesperson SSP Attorney at the police media spokesman Nihal Thameda said that legal action would be taken against the drivers who violate the identification measures.
+
+"This starts as a pilot project. We observe this through the CCTV camera system that is observed by the police in Colombo town.. If something wrong, we will inform the vehicle owner. This time period is done as a pilot project until January 31st. The issuance of fine leaflets will be started. "
+
+◼️
+
+[Data](articles/ebda549a.json)
+
+[Extended Data](ext_articles/ebda549a.ext.json)
+
+---
+
+### Sri Lankan investors invited to invest in Bangladesh’s SEZs
+
+*2024-01-22 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96609/sri-lankan-investors-invited-to-invest-in-bangladeshs-sezs) · `en`
+
+Mahbubul Alam, President of the Federation of Bangladesh Chambers of Commerce and Industry (FBCCI), invited the Sri Lankan businessmen and investors to invest in the special economic zones of Bangladesh.
+
+The FBCCI President made this call during a courtesy meeting with High Commissioner of Sri Lanka in Bangladesh Dharmapala Weerakkody at FBCCI’s Gulshan office on Sunday, said a press release.
+
+The FBCCI president said the government is establishing 100 special economic zones across Bangladesh.
+
+“All kinds of facilities including oil, gas, and electricity are being provided in these economic zones apart from one-stop service and e-platform,” he added.
+
+Mahbubul said attractive incentives are on offer to facilitate business and investment in Bangladesh.
+
+“Sri Lankan businessmen can be benefitted by setting up industry here on their own or in joint ventures,” he added.
+
+Mahbubul Alam said garments, pharmaceuticals, eco-tourism and hospitality are some of the potential sectors in Bangladesh.
+
+...
+
+[Data](articles/0f14e981.json)
+
+[Extended Data](ext_articles/0f14e981.ext.json)
 
 ---

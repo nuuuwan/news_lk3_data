@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 12:32:59**
+As of **2024-01-22 12:17:20**
 
 ## Newspaper Stats
 
-*Scraped **1,754** Articles*
+*Scraped **1,751** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 39
-adaderanasinhalalk | 89
+adaderanasinhalalk | 87
 economynextcom | 108
 islandlk | 108
 newsfirstlk | 112
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 168
+virakesarilk | 167
 adalk | 185
 dailymirrorlk | 202
 tamilmirrorlk | 216
@@ -26,49 +26,11 @@ adaderanalk | 218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,591 (90.7%) of 1,754 articles have been extended.
+1,591 (90.9%) of 1,751 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
-
-### දයාසිරිට එරෙහි තහනම් නියෝගය දීර්ඝ කෙරේ
-
-*2024-01-22 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192427) · `si`
-
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන මහ ලේකම් සාරති දුෂ්මන්ත මිත්‍රපාල මහතාගේ කටයුතුවලට බාධා වන ආකාරයෙන් කටයුතු කිරීම වළක්වාලමින් එම පක්ෂයේ හිටපු මහලේකම් දයාසිරි ජයසේකර මහතා වෙත නිකුත් කළ වාරණ නියෝගය ලබන 29 වනදා දක්වා තවදුරටත් දීර්ඝ කිරීමට කොළඹ දිසා අධිකරණය අද (22) නියෝග කළේය.
-
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති මෛත්‍රීපාල සිරිසේන සහ එහි වැඩබලන මහලේකම් සාරති දුෂ්මන්ත මිත්‍රපාල යන මහත්වරු විසින් ඉදිරිපත් කළ පෙත්සමක් අද යළි කැඳවීමෙන් අනතුරුව මෙම නියෝග නිකුත් කෙරුණි.
-
-පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම වාරණ නියෝගයට අදාළව වගඋත්තරකරුවන් විරෝධතා ඉදිරිපත් කරන්නේ නම් එය ලබන 29 වනදා කැඳවන ලෙස ඉල්ලා සිටියේය.
-
-ඒ අනුව අදාළ විරෝධතා ගොනුකිරීමට වගඋත්තරකරුවන්ට අවසර ලබා දුන් අධිකරණය අනතුරුව පෙත්සම ලබන 29 වනදා කැඳවීමටද නියම කළේය.
-
-පෙත්සම්කරු කියා සිටින්නේ ශ්‍රී ලංකා නිදහස් පක්ෂයේ මධ්‍යම කාරක සභාව විසින් ගනු ලැබූ තීරණයකට අනුව එහි මහ ලේකම්වරයා වශයෙන් කටයුතු කළ දයාසිරි ජයසේකර මහතා එම තනතුරින් ඉවත් කළ බවය.
-
-...
-
-[Data](articles/16b4ef83.json)
-
----
-
-### போதைப்பொருள் வலையமைப்புக்குப் பயன்படுத்தப்படும் குடு சலிந்துவுக்குச் சொந்தமான 79  சொகுசு வாகனங்கள்!
-
-*2024-01-22 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174502) · `ta`
-
-குடு சலிந்து என்ற ஒழுங்கமைக்கப்பட்ட குற்றவாளியும் பாரியளவிலான போதைப்பொருள் கடத்தல்காரனுமான பாணந்துறை சலிந்து 79 சொகுசு வாகனங்களை வைத்திருப்பதாகவும் அவற்றின் இலக்கத் தகடுகள் மாற்றப்பட்டு  போதைப்பொருள் வலையமைப்பில்  ஈடுபட்டுள்ளதாகவும் குற்றப் புலனாய்வுப் பிரிவினர் கண்டுபிடித்துள்ளனர்.
-
-26 வயதுடைய  குடு சலிந்து பல்வேறு நபர்களின் பெயர்களில் 48 வங்கிக் கணக்குகளை பராமரித்து வந்துள்ளதாக பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தெரிவித்துள்ளார்.
-
-மூன்றாண்டுகளுக்குள் இந்த நாற்பத்தெட்டு கணக்குகளில் 1,059 மில்லியன் ரூபா பணம் புழக்கத்தில் விடப்பட்டதாகவும் அவர் கூறினார்.
-
-இதேவேளை, இலங்கையில் போதைப்பொருள் வர்த்தகத்தில் ஈடுபடும்  4,500 பேரின் விபரப் பட்டியல் புலனாய்வுப் பிரிவினராலும் போதைப்பொருள் ஒழிப்புப் பிரிவினராலும் தயாரிக்கப்பட்டு அந்தந்த பகுதிகளின் சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களிடம் கையளிக்கப்பட்டுள்ளதாகவும்  தெரிய வந்துள்ளது.
-
-◼️
-
-[Data](articles/269f428b.json)
-
----
 
 ### Social Web Site as the force that determines diplomacy beyond politics
 
@@ -143,24 +105,6 @@ On 15 January, the CEB suspended 15 clerical staff members in charge of the cash
 ...
 
 [Data](articles/cdf283ac.json)
-
----
-
-### ජීවිත 90ක් බිලිගත් අමෙරිකාවේ හිම කුණාටුව
-
-*2024-01-22 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192426) · `si`
-
-ගෙවුණු සතිය පුරා අමෙරිකාවට බලපෑම එල්ල කළ හිම කුණාටු තත්ත්වය ආශ්‍රිත අනතුරුවලින් පුද්ගලයින් 90 දෙනෙකු මියගොස් තිබේ.
-
-ඉන් වැඩිම මරණ ගණනක් ටෙනිසි සහ ඔරිගොන් ප්‍රාන්තවලින් වාර්තා වූ අතර ඉලිනොයිස්, පෙන්සල්වේනියා, මිසිසිපි, වොෂින්ටන්, කෙන්ටාකි, නිව්යෝර්ක්, ඇතුළු තවත් ප්‍රාන්තවලින් ද මරණ වාර්තා වී තිබිණි.
-
-අධික හිමපතනය හේතුවෙන් රටපුරා කලාප රැසක විදුලිය බිඳවැටී අතර, පවතින දැඩි ශීතල හමුවේ පුද්ගලයින් දහස් ගණනක් පීඩාවට පත්ව සිටී.
-
-පවතින අධික හිමපතනය සහ ශීත සුළං තත්ත්වය මේ සතිය තුළත් පවතිනු ඇති බව අපේක්ෂිතය.
-
-◼️
-
-[Data](articles/8dacf25a.json)
 
 ---
 
@@ -716,13 +660,13 @@ Police Media Spokesperson Senior Superintendent of Police Nihal Talduwa said tha
 
 The death toll from the shooting incident in the Beliatta area in Tangalle this morning (22) has climbed to five after one more person admitted to hospital with gunshot wounds had succumbed to injuries, a short while ago.
 
-Earlier, Police said that the shooting had been carried out by a group of unidentified gunmen in a vehicle and that they had opened fire at four persons traveling in a Defender.
+Earlier, Police said that the shooting had been carried out by a group of unidentified gunmen in a vehicle and that they had opened fire at five persons traveling in a Defender.
 
-The four persons in the Defender have been shot dead near the Beliatta exit of the Southern Expressway, police said, adding that another person was hospitalised in critical condition.
+Four of the five persons in the Defender have been shot dead near the Beliatta exit of the Southern Expressway, police said, while the other was hospitalised in critical condition.
 
 The remains of the deceased have been placed at the Tangalle Base Hospital, Ada Derana reporter said.
 
-The shooting had taken place between 8.30 a.m. and 8.40 a.m. when a group of individuals who had arrived in a green colour double-cab opened fire on while Defender near the Beliatta interchange of the expressway.
+The shooting had taken place between 8.30 a.m. and 8.40 a.m. when a group of individuals who had arrived in a green colour double-cab opened fire on a Defender near the Beliatta interchange of the expressway.
 
 ◼️
 
@@ -1953,5 +1897,79 @@ The Sri Lanka Navy seized a local multi-day fishing trawler carrying over 65kg o
 [Data](articles/4b7b53ed.json)
 
 [Extended Data](ext_articles/4b7b53ed.ext.json)
+
+---
+
+### Court orders Court for 11 kilos of heroin
+
+*2024-01-21 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192408) · `si`
+
+The Police Narcotics Bureau has taken 07 days after the Police Narcotics Bureau was produced before the Fort Magistrate's Court.
+
+The Sri Lanka Navy was arrested by the Navy with the drug with the drug with narcotics.
+
+There were 65 grams of narcotics and 76 grams were found in the multi-day fishing vessels and the suspects were handed over to the Police Narcotics Bureau.
+
+◼️
+
+[Data](articles/e99d6be9.json)
+
+[Extended Data](ext_articles/e99d6be9.ext.json)
+
+---
+
+### Roshan's wife about the amount of money by the police
+
+*2024-01-21 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192407) · `si`
+
+Family members have objected to the compensation of the police for Roshan Kumaratilake, who was shot dead by the police.
+
+MP Dayasiri Jayasekera today (21st) MP Dayasiri Jayasekera, the deceased and died of Roshan Kumaratilake's body.
+
+She has said that if justice is done for her husband, it should be given to him in writing.
+
+She has asked for his husband's life to be priceless and to do justice for their children or justice.
+
+Meanwhile, a group of protests in the Naramla town this morning against the incident.
+
+The father of 41 year old Roshan Kumaratilake 51 year old Roshan Kumaratilake announced a firearm of a firearm of the police officer in Narammala.
+
+Meanwhile, acting IGP Deshabandu Tennakoon expressed his views regarding Narammala incident.
+
+He said that the law is impartial and that the law is responsible for the incident and not to restore such incidents.
+
+◼️
+
+[Data](articles/dd94afdd.json)
+
+[Extended Data](ext_articles/dd94afdd.ext.json)
+
+---
+
+### The Kori Dream was true
+
+*2024-01-21 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192406) · `si`
+
+Among the youth of Korea's jobs is about to be true, it is said in Matara.
+
+The youth named Mindika, a 22-year-old Mindi, who is an unknown gunist in Anuradhapura.
+
+He was sitting on the Korean language exam and left for work soon.
+
+The sensitive point is that the shooting of the shooting was tired at a mobile phone accessory shooting at the Thelejjawila juncture of the Matara-Thelijjawila juncture.
+
+The deceased is a pharmaceper in the Denipitiya Aluthgamage, Denipitiya, and has come to the shop to charge his mobile.
+
+At the time of shooting, the owner of the telephone release has been on the outside and has been a friend of the owner.
+
+Police said that the owner of the shooting had been arrested and released to a robbery in the Supreme Court, saying that he had been bullied and released to the Supreme Court.
+
+Matara Chief Magistrate Anuruddha Buddhadasa has ordered the security of the magisterial inquiry into the incident.
+
+...
+
+[Data](articles/84941079.json)
+
+[Extended Data](ext_articles/84941079.ext.json)
 
 ---

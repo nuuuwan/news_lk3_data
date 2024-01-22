@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 07:23:50**
+As of **2024-01-22 08:00:41**
 
 ## Newspaper Stats
 
-*Scraped **1,679** Articles*
+*Scraped **1,686** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 38
-adaderanasinhalalk | 73
+adaderanasinhalalk | 76
 economynextcom | 104
 islandlk | 108
 newsfirstlk | 109
@@ -18,7 +18,7 @@ dbsjeyarajcom | 121
 virakesarilk | 156
 dailyftlk | 159
 adalk | 180
-dailymirrorlk | 193
+dailymirrorlk | 197
 tamilmirrorlk | 203
 adaderanalk | 206
 
@@ -26,27 +26,125 @@ adaderanalk | 206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,456 (86.7%) of 1,679 articles have been extended.
+1,465 (86.9%) of 1,686 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### ”VAT இல்லா கடைகள் அறிமுகம் செய்யப்படும்”
+### ගාසා මළ ගමක් වෙයි - පැය 24ට මරණ 178ක්
+
+*2024-01-22 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192414) · `si`
+
+ඊශ්‍රායල ප්‍රහාර අතරතුර ගාසා තීරයේ පුද්ගලයින් 25,000කට වැඩි පිරිසක් මේ වන විට මියගොස් ඇති බව හමාස් සෞඛ්‍ය අංශ වාර්තා උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+ගතවු පැය 24 තුළ පමණක් මරණ 178ක් සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+එය මෙතෙක් පැවති යුද්ධයේ දරුණුතම දිනයක් බවද විදෙස් වාර්තා පෙන්වා දෙයි.
+
+ඊශ්‍රායලය සිය ප්‍රහාර ආරම්භ කරනු ලැබුවේ, පසුගිය ඔක්තෝම්බර් 07වන දින හමාස් සටන්කාමීන් දකුණු ඊශ්‍රායලයේ පුද්ගලයින් 1,300ක් ඝාතනය කර 240කට වැඩිපිරිසක් ප්‍රාණ ඇපයට ගත් ප්‍රහාරයෙන් අනතුරුවය.
+
+කෙසේවෙතත් සටන් දිගින් දිගටම පැවතීම හේතුවෙන් ඊශ්‍රායල් අග්‍රාමාත්‍ය බෙන්ජමින් නෙතන්යාහු යළිත් වරක් පලස්තීන රාජ්‍යයක් බිහිකිරීම ප්‍රතික්ෂේප කර තිබේ.
+
+◼️
+
+[Data](articles/3ab94719.json)
+
+---
+
+### Carrot, beans and leeks can be supplied at Rs. 300 to Rs. 350 a kilo, if imported: Minister
+
+*2024-01-22 07:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Carrot-beans-and-leeks-can-be-supplied-at-Rs-300-to-Rs-350-a-kilo-if-imported-Minister/155-275463) · `en`
+
+Colombo, Jan 22 (Daily Mirror) - Commenting on the sky rocketing vegetable prices, the Trade, Commerce, and Food Security Minister Nalin Fernando said if vegetables were imported, vegetables such as a kilo of carrot, beans and leeks can be supplied at Rs. 300 to Rs. 350.
+
+“I informed the Secretary to the President to convene the Food Policy Committee and asked the Agriculture Ministry and other relevant institutions whether they can provide vegetables at a low rate. They have agreed at the Food Policy Committee to reduce vegetable prices within a month or one and half months. If vegetables were imported, we can provide a kilo of leeks, carrots and beans at Rs. 300 to Rs. 350,” he said.
+
+He told reporters yesterday that the price of an imported egg was increased by Rs. 8 from today due to the increase in VAT and other taxes. An imported egg would be sold at Rs. 43 at all Sathosa outlets under the new price whereas it was previously sold at Rs. 35, he stated .
+
+...
+
+[Data](articles/552fd946.json)
+
+---
+
+### විදුලි වෘත්තීය සමිති අද තීරණාත්මක සාකච්ඡාවක
+
+*2024-01-22 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192413) · `si`
+
+විදුලි බලමණ්ඩල සේවකයින් පිරිසකගේ වැඩතහනම් කිරීමට විරෝධය පළ කරමින් ඊට එරෙහිව ගන්නා තීරණ පිළිබඳව විශේෂ සාකච්ඡාවක් අද (22) පැවැත්වීමට නියමිතය.
+
+ලංකා විදුලි බලමණ්ඩල වෘත්තීය සමිතිවල ප්‍රධානත්වයෙන් පැවැත්වෙන මෙම සාකච්ඡා සඳහා මෙරට සියලු කේෂ්ත්‍ර නියෝජනය කරමින් වෘත්තීය සමිති සියයකට ආසන්න සංඛ්‍යාවක් සහභාගී වීමට නියමිතව තිබේ.
+
+මෙම සාකච්ඡාව අද උදෑසන 09ට මරදාන ප්‍රදේශයේ දී පැවැත්වීමට නියමිතය.
+
+මේ අතර අද උදෑසන 07ට ලංකා විදුලි බලමණ්ඩල ප්‍රධාන කාර්යාලය ඉදිරිපිට අත්පත්‍රිකා බෙදාහැරීමේ ව්‍යාපාරයක් ආරම්භ කිරීමට ද වෘත්තීය සමිති පියවර ගෙන තිබේ.
+
+එමෙන්ම අද දහවල් 12ට සිවිල් සංවිධාන ලංකා විදුලි බලමණ්ඩල මූලස්ථානය ඉදිරිපිට උද්ඝෝෂණ ව්‍යාපාරයක් ද සිදුකිරීමට සැලසුම් කර ඇති බව සඳහන්ය.
+
+◼️
+
+[Data](articles/998af7a5.json)
+
+---
+
+### "VAT without shops will be introduced"
 
 *2024-01-22 06:57:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/VAT-இல்லா-கடைகள்-அறிமுகம்-செய்யப்படும்/175-331930) · `ta`
 
-பொருட்கள் மீதான பெறுமதி சேர் வரி (VAT) பற்றிய தவறான கருத்துக்கள் ஒழுங்குபடுத்தப்படாவிட்டால், நாடளாவிய ரீதியில் VAT இல்லா கடைகளை அறிமுகப்படுத்த அரசாங்கம் தேவையான நடவடிக்கைகளை எடுக்கும் என போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+Transport Minister Bandula Gunawardena said the government would take necessary steps to introduce VAT shops nationwide if the misconceptions about the Value Added Tax (VAT) were not regulated.
 
-அனைத்து பொருட்களும் VAT வரிக்கு தகுதியானவை என பொதுமக்கள் மத்தியில் தவறான கருத்து நிலவுவதாகவும், அதுவே விலை உயர்வுக்கு காரணம் என்றும் அமைச்சர் கூறினார்.
+The Minister said that there was a misconception among the public that all the goods were eligible for the VAT tax and that was the reason for the price hike.
 
-VAT இல்லா கடைகளை நிறுவுவதற்கு பொருத்தமான இடங்களை வீதி அபிவிருத்தி அதிகாரசபைக்கு (RDA) தெரிவு செய்வதற்கு இது தொடர்பான சாத்தியக்கூறு ஆய்வை மேற்கொள்ள ஏற்கனவே அறிவுறுத்தல் வழங்கப்பட்டுள்ளதாக அமைச்சர் மேலும் தெரிவித்தார்.
+The Minister added that the Road Development Authority (RDA) has already been instructed to conduct the possibility of the relevant locations for the installation of VAT shops.
 
-அதனடிப்படையில், போட்டி ரீதியிலான வர்த்தகம் மற்றும் நியாயமான முறையில் ஈடுபடத் தயாராக உள்ளவர்களுக்காக VAT இல்லா பொருட்களான காய்கறிகள், அரிசி, குழந்தை பால் மாவு போன்றவற்றிற்காக நாடு முழுவதிலும் உள்ள கடைகளின் வலையமைப்பை ஏற்படுத்துவதற்குத் தேவையான நடவடிக்கைகளை எடுக்கத் திட்டமிடப்பட்டுள்ளதாக அமைச்சர் மேலும் தெரிவித்தார்.
+Accordingly, the Minister further stated that it is planning to take necessary steps to establish a network of shops across the country for vegetables, rice and baby flour for those who are ready to engage in competitive trade and reasonably.
 
 ◼️
 
 [Data](articles/22c151f0.json)
+
+[Extended Data](ext_articles/22c151f0.ext.json)
+
+---
+
+### Narrow effort to win elections by suppressing public’s right to expression
+
+*2024-01-22 06:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Narrow-effort-to-win-elections-by-suppressing-publics-right-to-expression/108-275461) · `en`
+
+Colombo, Jan 22 (Daily Mirror) - Government’s move to pass the Online Safety Bill in Parliament this week and to bring repressive laws to take the country into a dictatorship is a narrow effort to suppress right to expression in winning the upcoming election, leading media and civil society groups voiced their opinion yesterday.
+
+Media, Civil Society and Trade Union Collective to Rise against Oppressive Laws issuing a joint statement to the media through the Free Media Movement (FMM) and Sri Lanka Working Journalists Association (SLWJA) said through a repressive law like the Online Safety Bill, which is to be passed in the House with amendments tomorrow and day after (23 - 24) to suppress public’s right to expression, right to organize and space for civil activities is contrary to the basic values of democracy.
+
+...
+
+[Data](articles/4f5da4b4.json)
+
+---
+
+### අද කාලගුණය
+
+*2024-01-22 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192411) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වල වැසි ස්වල්පයක් ඇතිවිය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ප.ව. 4.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකිය.
+
+දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතී.
+
+සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකිය.
+
+දිවයින වටා වන මුහුදු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතිනු ඇත.
+
+සුළං ඊසාන දෙසින් හමා එන අතර සුළං වේගය පැ.කි.මී. 20-30 පමණ වේ.
+
+කොළඹ සිට පුත්තලම හරහා මන්නාරම දක්වා සහ ගාල්ල සිට හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශවල සුළඟේ වේගය විටින් විට පැ.කි.මී. 40-50 දක්වා වැඩි විය හැකිය.
+
+කොළඹ සිට පුත්තලම හරහා මන්නාරම දක්වා සහ ගාල්ල සිට හම්බන්තොට හරහා පොතුවිල් දක්වා වෙරළට ඔබ්බෙන් වන මුහුදු ප්‍රදේශ විටින් විට රළු විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/198518dc.json)
 
 ---
 
@@ -230,6 +328,8 @@ He said so while visiting a food factory in Kolonnawa where fruit dices and floa
 
 [Data](articles/c36394bf.json)
 
+[Extended Data](ext_articles/c36394bf.ext.json)
+
 ---
 
 ### People’s Bank, one of the most awarded Sri Lankan banks in 2023
@@ -241,6 +341,8 @@ Growing from strength to strength with each passing year, People’s Bank was be
 ...
 
 [Data](articles/1ec99555.json)
+
+[Extended Data](ext_articles/1ec99555.ext.json)
 
 ---
 
@@ -255,6 +357,8 @@ A team of dedicated relationship managers ensures a seamless banking experience 
 ...
 
 [Data](articles/9931210f.json)
+
+[Extended Data](ext_articles/9931210f.ext.json)
 
 ---
 
@@ -284,6 +388,8 @@ Q. Why does SLACC think deepening Australia-Sri Lanka ties is vital as our natio
 
 [Data](articles/42497f0d.json)
 
+[Extended Data](ext_articles/42497f0d.ext.json)
+
 ---
 
 ### Sanasa holds annual Nelum Mal Pooja in Anuradhapura
@@ -302,6 +408,8 @@ Sanasa unveils action plan to develop 5,000 villages through 1,250 Sanasa societ
 
 [Data](articles/49bce5fe.json)
 
+[Extended Data](ext_articles/49bce5fe.ext.json)
+
 ---
 
 ### Marine product and service provider recognised at National Industry Excellence Awards
@@ -313,6 +421,8 @@ Saram Auto Industries, a leading marine product and service provider in the coun
 ...
 
 [Data](articles/b85c8097.json)
+
+[Extended Data](ext_articles/b85c8097.ext.json)
 
 ---
 
@@ -343,6 +453,8 @@ GlobalData, a global authoritative consulting firm, has released its latest Metr
 ...
 
 [Data](articles/00732313.json)
+
+[Extended Data](ext_articles/00732313.ext.json)
 
 ---
 
@@ -1883,115 +1995,5 @@ Another party in the Tamil National Party claims that the Tamil national parties
 [Data](articles/dfce2c7a.json)
 
 [Extended Data](ext_articles/dfce2c7a.ext.json)
-
----
-
-### S. Shritharan elected leader of ITAK
-
-*2024-01-21 13:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96597/s-shritharan-elected-leader-of-itak) · `en`
-
-Jaffna District Parliamentarian S. Shritharan has been elected as the leader of the Ilankai Tamil Arasu Kachchi (ITAK) at the party election held today (21), Ada Derana reporter confirmed.
-
-Mavai Senathirajah had previously served as leader of ITAK, which is a constituent party of the Tamil National Alliance (TNA).
-
-Sivagnanam Shritharan contested the 2010 parliamentary election as one of the Tamil National Alliance electoral alliance’s candidates in Jaffna District and was elected to the Parliament. He was re-elected at the 2015 and 2020 parliamentary elections.
-
-◼️
-
-[Data](articles/e74c3833.json)
-
-[Extended Data](ext_articles/e74c3833.ext.json)
-
----
-
-### Sridharan is the leader of the Sri Lankan Tamil party
-
-*2024-01-21 13:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174449) · `ta`
-
-Sridharan has won 184 votes in the referendum for the new leadership of the Sri Lankan Tamil party.
-
-The secret referendum for the new leadership of the Sri Lankan Tamil party took place today (21) at 10 am in Trincomalee.
-
-The referendum, chaired by General Secretary, Dr. Sathiyalingam, was assisted by the eight districts of the Northern and Eastern Provinces.
-
-In this case, members of the Central Executive Committee voted in the vote and voted for the General Assembly from the districts.
-
-Accordingly, 327 people participated in the voting at the Tathirukonamalai Nagar Mandapam on the 21st.
-
-Earlier, when the nomination papers for the leadership of the Sri Lankan Tamil party were sought, the party's Jaffna MP MA Sumanthiran and Sivagnanam Sreedharan and former parliamentarian of the Batticaloa district, Srinithambi Yogeswaran, had made applications.
-
-However, there were talks between the three candidates after the party's politician's meeting was urged to take place without contest.
-
-...
-
-[Data](articles/7fb0dc9d.json)
-
-[Extended Data](ext_articles/7fb0dc9d.ext.json)
-
----
-
-### S. Sridharan elected leader of Illankai Tamil Arasu Kadchi
-
-*2024-01-21 13:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/s-sridharan-elected-leader-of-illankai-tamil-arasu-kadchi/) · `en`
-
-COLOMBO (News 1st); S. Sridharan has been elected as the Leader of the Ilankai Thamil Arasu Kachchi after securing majority votes.
-
-The secret ballot to elect the leader of the Ilangei Tamil Arasu Katchi Party was held this morning at the Trincomalee Municipal Council Hall.
-
-Members of Parliament, President's Counsel M.A. Sumanthiran, S. Sreedharan and former MP Sinithambi Yogeswaran contested for the leadership of the party.
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-◼️
-
-[Data](articles/5b1105b8.json)
-
-[Extended Data](ext_articles/5b1105b8.ext.json)
-
----
-
-### Police arrest three hospital staffers over assault on Onco Surgeon
-
-*2024-01-21 13:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-arrest-three-hospital-staffers-over-assault-on-Onco-Surgeon/108-275431) · `en`
-
-Galle, Jan 21 (Daily Mirror) - The Galle Police arrested three minor hospital staff members including a female over the alleged assault on Krishantha Perera, the Onco Surgeon at the Karapitiya Teaching Hospital.
-
-Police said the arrest was made during the investigations carried out on the basis of a complaint by the specialist doctor to the Galle Police on January 17.
-
-Accordingly, a 52-year-old female health assistant and two 45-year-old and 43-year-old assistants have been arrested.
-
-The Onco Surgeon who was alleged to have assaulted a female hospital staffer during a contentious situation that erupted at the hospital premises last Wednesday, was arrested and remanded till 22 January by the Galle Magistrate’s Court.
-
-◼️
-
-[Data](articles/a6354527.json)
-
-[Extended Data](ext_articles/a6354527.ext.json)
-
----
-
-### A statement from the Minister of Rice is unnecessary
-
-*2024-01-21 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192392) · `si`
-
-Minister Mahinda Amaraweera says that the amount of rice required for the country is currently working in the country.
-
-The Minister stated that rice is not imported from the country.
-
-The paddy marketing Board was built in 1984 for the rice processing process in 1984 for the rice processing process.
-
-After the opening of bulnewa rice processing center, the Billions of rupees, had a large number of jobs.
-
-The area alleges that the rice processing process has been closed for several years since the past five years.
-
-The place, which is decomposed to the control, has been a place of becoming a place where the flies are a place where the cattle is a place.
-
-The Ada Derana recalls that such a valuable authorities should be brought to prevent the attention of this precious resource in the backdrop of food crises in the country.
-
-◼️
-
-[Data](articles/7de6e3bd.json)
-
-[Extended Data](ext_articles/7de6e3bd.ext.json)
 
 ---

@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 00:32:37**
+As of **2024-01-23 01:02:07**
 
 ## Newspaper Stats
 
-*Scraped **1,895** Articles*
+*Scraped **1,908** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 31
 bbccomsinhala | 42
-adaderanasinhalalk | 108
+adaderanasinhalalk | 109
 islandlk | 110
 newsfirstlk | 116
 economynextcom | 118
 dbsjeyarajcom | 121
-dailyftlk | 159
+dailyftlk | 171
 virakesarilk | 195
 adalk | 200
 dailymirrorlk | 230
@@ -26,11 +26,187 @@ adaderanalk | 233
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,886 (99.5%) of 1,895 articles have been extended.
+1,896 (99.4%) of 1,908 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### Parliament to debate OSB today
+
+*2024-01-23 00:30:33* · [`dailyftlk`](https://www.ft.lk/news/Parliament-to-debate-OSB-today/56-757667) · `en`
+
+The Parliament will take up for debate the contentious Online Safety Bill today. The debate is scheduled to continue tomorrow, culminating in a vote on the proposed legislation.
+
+According to sources within the Parliament, several amendments are expected to be incorporated into the bill during its deliberation. Public Security Minister Tiran Alles recently introduced the bill for its initial reading in Parliament. The bill has come under intense fire by Sri Lanka’s opposition parties, civil society groups and activists. The Opposition has claimed the Government was bringing in the legislation to silence critics leading up to the upcoming elections while various groups and organisations have raised concerns about the impact it may have on people’s liberties as well as the effect on the operation of tech companies in Sri Lanka.  Accordingly, a public protest has been organised in the vicinity of the Parliament tomorrow to voice their dissent against the draft bill.
+
+...
+
+[Data](articles/4c500de4.json)
+
+---
+
+### Six police teams deployed to probe Royal Beach Saman murder
+
+*2024-01-23 00:30:21* · [`dailyftlk`](https://www.ft.lk/news/Six-police-teams-deployed-to-probe-Royal-Beach-Saman-murder/56-757666) · `en`
+
+The police have deployed five police teams to investigate the killing of Ape Jana Bala Pakshaya leader Saman Prasanna Perera alias Royal Beach Saman who was shot dead along with five others by an unidentified group in Beliatta yesterday.
+
+According to Police Spokesperson SSP Nihal Thalduwa, specialised police teams have been dispatched to conduct investigations, overseen by the Senior Deputy Inspector General of Police (SDIG) for the Southern Province.
+
+Thalduwa said SDIG Southern Province has designated the following teams for the ongoing investigation: the Southern Province Crime Division, the Crimes Unit of the Tangalle Division, a dedicated team under the Tangalle HQI, a contingent from the Beliatta Police, a team headed by the Officer-In-Charge of the division, and a group of intelligence officers.
+
+Four persons had died instantly while another succumbed to his injuries after being admitted to the Tangalle Base Hospital.
+
+...
+
+[Data](articles/c930c2a0.json)
+
+---
+
+### CEB TU Alliance challenges Minister to take action against 23,800 employees who protested
+
+*2024-01-23 00:30:12* · [`dailyftlk`](https://www.ft.lk/news/CEB-TU-Alliance-challenges-Minister-to-take-action-against-23-800-employees-who-protested/56-757665) · `en`
+
+Reveals staggering amounts of unpaid electricity bills by Parliament, Presidential Secretariat and Shiranthi Rajapaksa
+
+Calls on Minister to first collect dues from institutions and individuals before disconnecting power supply to struggling citizens who owe smaller amounts
+
+Several trade unions underscore growing dissatisfaction over Government’s suppressive attempts to intimidate workers
+
+In a bold move, CEB United Trade Union Alliance Convener Ranjan Jayalal has challenged the Power and Energy Minister to take action against the 23,800 CEB workers who participated in a protest against the restructuring of the Ceylon Electricity Board (CEB).
+
+Speaking to the media near the CEB head office yesterday, Jayalal said a total of 15 staff members interdicted and handed over letters, whilst another 51 letters were signed but not yet handed over.
+
+...
+
+[Data](articles/74f3a139.json)
+
+---
+
+### Legislation to combat bribery and corruption in Sri Lanka completed - says Justice Minister
+
+*2024-01-23 00:29:55* · [`dailyftlk`](https://www.ft.lk/news/Legislation-to-combat-bribery-and-corruption-in-Sri-Lanka-completed-says-Justice-Minister/56-757664) · `en`
+
+A meeting between the Justice, Prison Affairs and Constitutional Reforms Minister President’s Counsel, Dr. Wijeyadasa Rajapakshe and the German Ambassador to Sri Lanka Dr. Felix Neumann was held at the Justice Ministry yesterday.
+
+The Justice Minister said the Office for National Unity and Reconciliation, the Office on Missing Persons and the Office for Reparations have been established in order to build harmony among the races in the country and that the Truth-finding Commission is to be set up soon.
+
+He said politicians have been blamed for the bribery and corruption in the country and the people have reached the point where they are rejecting the politicians as this situation is harmful to the country›s democracy. With a view to change this, the amendment for the regulation of election expenses and the Anti-corruption Act have already been passed. The Minister said the foundation has been laid for a corruption free and disorder free Sri Lanka.
+
+...
+
+[Data](articles/a6622c89.json)
+
+---
+
+### Govt. should not clash with trade unions: PM
+
+*2024-01-23 00:28:35* · [`dailyftlk`](https://www.ft.lk/news/Govt-should-not-clash-with-trade-unions-PM/56-757663) · `en`
+
+Prime Minister and Ceylon Socialist Labour Union Federation President Dinesh Gunawardena on Friday opined that the Government should not clash with trade unions but identify the problems of workers and deal with them.
+
+He made this remark at the The 50th commemoration of the Ceylon Socialist Labour Union was held at the Town Hall, Kotte.
+
+At the conference, ten proposals were presented and adapted. They include: A call to reduce the increased water and electricity tariffs, exempt retirement benefits of workers from taxes, provide a suitable salary to estate workers in accordance with the economy, and confirm women’s rights under the labour law.
+
+...
+
+[Data](articles/eb5a81bb.json)
+
+---
+
+### Singer Sri Lanka excels in SAFA Best Annual Report Awards 2022
+
+*2024-01-23 00:27:10* · [`dailyftlk`](https://www.ft.lk/business/Singer-Sri-Lanka-excels-in-SAFA-Best-Annual-Report-Awards-2022/34-757662) · `en`
+
+Singer Sri Lanka has achieved outstanding recognition at the South Asian Federation of Accountants (SAFA) Best Presented Annual Report Awards, Integrated Reporting Awards, and SAARC Anniversary Awards for Corporate Governance Disclosures Competition 2022.
+
+Singer secured the prestigious Gold Award for the third consecutive year in the Service Sector (Excluding Financial Services & Communication & IT) category. This remarkable accomplishment reflects the company’s unwavering commitment to transparency, accountability, and governance in annual reporting.
+
+The evaluation process, conducted by SAFA’s esteemed committee, focused on enhancing transparency, accountability, and governance in the published Annual Reports of entities across South Asian countries. Singer Sri Lanka’s success in clinching the Gold Award underscores the exceptional quality and excellence embedded in their annual reporting practices.
+
+...
+
+[Data](articles/8e71aaf4.json)
+
+---
+
+### Sri Lanka and India deepens collaboration on technology and digital initiatives
+
+*2024-01-23 00:27:02* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-and-India-deepens-collaboration-on-technology-and-digital-initiatives/34-757661) · `en`
+
+State Minister of Technology Kanaka Herath met the newly appointed Indian High Commissioner to Sri Lanka Santosh Jha at India House in Colombo.
+
+The discussion focused on strengthening bilateral ties and collaboration in the technology sector, particularly around Sri Lanka’s unique digital ID project.
+
+The meeting, held at High Commissioner Jha’s invitation, marks a positive step in the ongoing partnership between the two countries on technology and digital initiatives. Both leaders expressed their commitment to working closely together to leverage technology for mutual benefit.
+
+The collaboration on digital identity holds significant potential for Sri Lanka. A successful unique digital ID system could streamline Government services, boost financial inclusion and improve security.
+
+◼️
+
+[Data](articles/0098cd32.json)
+
+---
+
+### Aberdeen Holdings recognised with multiple awards in 2023
+
+*2024-01-23 00:25:08* · [`dailyftlk`](https://www.ft.lk/business/Aberdeen-Holdings-recognised-with-multiple-awards-in-2023/34-757660) · `en`
+
+Expo Commodities with three coveted accolades at NCE Export Awards
+
+Bio Extracts titled Best Exporter in the Herbal and Ayurvedic sector at the Presidential Export Awards
+
+Aberdeen Holdings, one of the country’s leading conglomerates with a presence across 11 diverse sectors, has been honoured for its exceptional performance and growth momentum, with several of its subsidiaries receiving prestigious awards and titles throughout 2023.
+
+Expo Commodities, a subsidiary of Aberdeen Holdings, received three coveted accolades at the 31st NCE Awards by the National Chamber of Exports (NCE). Notably, Expo Commodities secured the overall Gold Award (Medium) in the Organic Products category, the Gold Award (Extra Large) in the Spices and Spices Based Products category, and the Bronze Award (Extra Large) in the Coconut and Coconut Products category.
+
+...
+
+[Data](articles/4b596b51.json)
+
+---
+
+### Sierra Cables shares insights with clients in glamorous networking session
+
+*2024-01-23 00:23:47* · [`dailyftlk`](https://www.ft.lk/business/Sierra-Cables-shares-insights-with-clients-in-glamorous-networking-session/34-757659) · `en`
+
+Sierra Cables PLC, a pioneering force in the electrical wires and cables manufacturing sector, proudly hosted a networking session for its esteemed clientele on the side-lines of the prestigious INCO Exhibition where the company is the Bronze Sponsor.
+
+The glamorous cocktail night served as a platform for Sierra Cables and its valued clients to engage and exchange insights on the latest industry developments.
+
+As a prominent member of the LOLC Group, a conglomerate with a diversified presence in Sri Lanka and globally, Sierra Cables has positioned itself as a comprehensive supplier of wires and cables catering to residential, commercial, and industrial markets.
+
+The company is at the forefront of developing flame-retardant cables for the domestic market, designed to meet upcoming national standards and set to be launched in 2024. Sierra adheres to esteemed British Standards, ensuring three-hour circuit integrity at temperatures up to 950 degrees Celsius.
+
+...
+
+[Data](articles/516c3d5e.json)
+
+---
+
+### The presidential election will definitely come forward
+
+*2024-01-23 00:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192447) · `si`
+
+The Leader of the Motherland People's Party, entrepreneral Dilith Jayaweera says that a presidential election will be presented.
+
+Dilith Jayaweera made this statement participating in Derana 360 political dialogue.
+
+There, the leader of the Motherland People's Party, the Leader of the Motherland People's Party, Entrepreneurship Dilith Jayaweera,
+
+"Nomini Prime Minister's Consideracy is not the only proportional government electoral. This is a force that created for a historical need in Sri Lanka. This party is a very philosophical rational rationale, especially young people, and a lot of scholars, and a lot of scholars. We have a very long-term view for "
+
+If you ask me, I think that this presidential election candidate. It is the need for it, that if it is honestly, I can say that I was sup. However, Dilith Jayaweera is not a short-term work to be a short-term work. Definitely a presidential election, we come forward to presidential election. We apply strategies that can be given to it. "
+
+◼️
+
+[Data](articles/7d905804.json)
+
+[Extended Data](ext_articles/7d905804.ext.json)
+
+---
 
 ### Emeritus Professor Ratna Handurukande receives Lifetime Award from Indian HC
 
@@ -43,6 +219,8 @@ Prof. Handurukande received this Lifetime Award from the Swami Vivekananda Cultu
 ...
 
 [Data](articles/1e076feb.json)
+
+[Extended Data](ext_articles/1e076feb.ext.json)
 
 ---
 
@@ -59,6 +237,8 @@ The proposed change-over from “Horton Place” in Colombo 7 to “Sir Ponnamba
 ...
 
 [Data](articles/6d808796.json)
+
+[Extended Data](ext_articles/6d808796.ext.json)
 
 ---
 
@@ -82,6 +262,8 @@ Nations need to strike a balance between fostering innovation in the drone indus
 
 [Data](articles/84e69137.json)
 
+[Extended Data](ext_articles/84e69137.ext.json)
+
 ---
 
 ### We need a Foolproof Mechanism for Presidential Pardon
@@ -95,6 +277,8 @@ The irony of the decision by former President Rajapaksa was that at the time of 
 ...
 
 [Data](articles/c0f907b5.json)
+
+[Extended Data](ext_articles/c0f907b5.ext.json)
 
 ---
 
@@ -110,6 +294,8 @@ Rotary International, a globally acclaimed humanitarian  organization boasting 
 
 [Data](articles/d7143787.json)
 
+[Extended Data](ext_articles/d7143787.ext.json)
+
 ---
 
 ### Sri Lanka’s Innovation Levers,IT and Biotech Surge
@@ -123,6 +309,8 @@ A leap into the innovation frontier has its challenges. The lack of extensive ci
 ...
 
 [Data](articles/f138251f.json)
+
+[Extended Data](ext_articles/f138251f.ext.json)
 
 ---
 
@@ -140,6 +328,38 @@ The NMRA and CID officials following a court order visited the plant belonging t
 
 [Data](articles/b924687b.json)
 
+[Extended Data](ext_articles/b924687b.ext.json)
+
+---
+
+### Minorities and system change
+
+*2024-01-22 23:15:47* · [`dailyftlk`](https://www.ft.lk/columns/Minorities-and-system-change/4-757642) · `en`
+
+Unless that political culture is removed and replaced with a secular democratic culture there is no
+
+hope for ethnic and religious minorities to live in Sri Lanka with dignity, freedom and justice
+
+To the two minorities therefore the choice is starkly evident. Either they vote for a leader and party that advocates system change to bring about a new socio-economic order grounded in integrational politics, secular democracy and corruption free governance or vote for a champion of the old system that has kept the nation divided since independence, immiserised the economy and created a class of political parvenus thriving on public wealth. Alternatively, if the Tamils decide to boycott the election that would be suicidal
+
+...
+
+[Data](articles/449e9b72.json)
+
+---
+
+### ‘Faith’ the only way to Sanity
+
+*2024-01-22 23:13:31* · [`dailyftlk`](https://www.ft.lk/columns/Faith-the-only-way-to-Sanity/4-757641) · `en`
+
+Thank you Sinna for your message via the toothpaste service Signal. I am not qualified to pronounce on this but those in the know say it’s so secure that the Moneypenny’s, Sallay’s, M’s, of this world have a hard time tracking you when it’s on the toothpaste variety known as Signal.
+
+The Presidential visit to the unfortunate area known as the former conflict areas surely must denote that electioneering has started in earnest. No matter what anyone says especially our fellow citizenry from the deep South, from the agricultural areas around Medamulana too, the next leader of our country will be elected through polls where the minorities play a crucial role.
+
+...
+
+[Data](articles/78465d8f.json)
+
 ---
 
 ### Stop the “strategy” action immediately
@@ -155,6 +375,20 @@ The committee has urged the authorities to focus on issues such as health and hu
 [Data](articles/1a4b3b07.json)
 
 [Extended Data](ext_articles/1a4b3b07.ext.json)
+
+---
+
+### South Africa dazzles on global stage as Russia assumes BRICS chairmanship
+
+*2024-01-22 23:01:54* · [`dailyftlk`](https://www.ft.lk/columns/South-Africa-dazzles-on-global-stage-as-Russia-assumes-BRICS-chairmanship/4-757635) · `en`
+
+The presentation at the International Court of Justice (ICJ) by 8 legal experts on behalf of South Africa was dazzling, perfectly structured, scripted and choreographed, and flawlessly executed throughout. The moral outrage in the tone of presentation was effectively rendered, and resonated with most of the world. It thereby stands tall today as the new moral force shining a light on barbarism, wresting the self-acclaimed title from countries in the West that chose to back the accused in this case
+
+Original BRICS member and last year’s chair of BRICS, South Africa gained the admiration and appreciation of most of the world for its moral courage and example in acting to intervene in the horrific tragedy in Gaza by taking legal action at the Hague against Israel’s “genocidal acts” in its conduct of the war, calling inter alia, for an urgent ruling in favour of the immediate suspension of hostilities. It also won enormous respect for delivering its case with impressive competence and style.
+
+...
+
+[Data](articles/50c73b15.json)
 
 ---
 
@@ -766,6 +1000,8 @@ In regards to the elephant-human conflict in our country, something particularly
 
 [Data](articles/db9c6330.json)
 
+[Extended Data](ext_articles/db9c6330.ext.json)
+
 ---
 
 ### IPL. Chamari not bought. To the leadership of Women's T20 group
@@ -795,6 +1031,8 @@ Under President Ranil Wickremesinghe’s leadership it looks like Sri Lanka is o
 ...
 
 [Data](articles/f71cc61b.json)
+
+[Extended Data](ext_articles/f71cc61b.ext.json)
 
 ---
 
@@ -1739,251 +1977,5 @@ The Minister made these comments on this special career guidance organized by th
 [Data](articles/1f54f21b.json)
 
 [Extended Data](ext_articles/1f54f21b.ext.json)
-
----
-
-### Extension of Prohibition against Dayasiri
-
-*2024-01-22 14:47:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயாசிறிக்கு-எதிரான-தடை-உத்தரவு-நீடிப்பு/175-331952) · `ta`
-
-Former Secretary of the Sri Lanka Freedom Party Dayasiri Jayasekara and the Sri Lanka Freedom Party (SLFP )'s response to the General Secretary of the Sri Lanka Freedom Party (SLFP) have been ordered to further extend the order issued by the Colombo District Court today.
-
-The order was issued following a petition submitted by Sri Lanka Freedom Party (SLFP) leader Maithripala Sirisena and its general secretary, Sarathi Dushmantha Mithrapala.
-
-◼️
-
-[Data](articles/c8ad55c9.json)
-
-[Extended Data](ext_articles/c8ad55c9.ext.json)
-
----
-
-### The proposed anti -terrorism bill is dangerous to opposition parties and democracy - the United People's Power
-
-*2024-01-22 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174523) · `ta`
-
-The United People's Power has filed a petition against the government's proposed anti -terrorism bill.
-
-United People's Power General Secretary Ranjithmathumapandara has filed a petition in the High Court today.
-
-The proposed anti -terrorism bill is dangerous to the opposition parties and democracy.
-
-He said that the bill was not clearly defined as terrorism. No one could be arrested, he said.
-
-He said that the bill did not clearly define what terrorism was.
-
-He said that we have filed a petition in the courtroom and that we have filed a petition in the court.
-
-◼️
-
-[Data](articles/27b06e4b.json)
-
-[Extended Data](ext_articles/27b06e4b.ext.json)
-
----
-
-### Karapitiya Hospital’s senior oncologist granted bail, 03 minor staff further remanded
-
-*2024-01-22 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96622/karapitiya-hospitals-senior-oncologist-granted-bail-03-minor-staff-further-remanded-) · `en`
-
-The senior oncologist of the Karapitiya Teaching Hospital, who was arrested and remanded for allegedly assaulting a female junior staff member, has been granted bail.
-
-61-year-old Dr. Krishantha Perera was granted bail on orders of the Galle Magistrate’s Court today (22 Jan.) on two personal bonds of Rs. 1 million each.
-
-The relevant order was issued by Galle Magistrate Isuru Neththikumara.
-
-Meanwhile, the three minor staff members of the Karapitiya Teaching Hospital, including a female, who were arrested on 21 January in connection with a complaint by Dr. Perera alleging assault, are under remand custody until 29 January.
-
-The court also ordered that the three suspects be referred to an identification parade on the aforementioned date.
-
-The senior oncologist in question, Dr. Krishantha Perera, 61, was arrested on 18 January for purportedly assaulting a female junior staff member during a contentious situation that had ensued the previous morning.
-
-...
-
-[Data](articles/28eb6d6f.json)
-
-[Extended Data](ext_articles/28eb6d6f.ext.json)
-
----
-
-### Ayurvedic practitioners also demand DAT...
-
-*2024-01-22 14:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ayurvedic-practitioners-also-demand-DAT/110-275498) · `en`
-
-The Government Ayurvedic Practitioners' Trade Unions Collective staged a protest calling on the authorities to fill vacancies in the indigenous medicine sector and to provide them also with the Disturbance, Availability & Transport (DAT) allowance like that given to the western medical practitioners. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/52f9f682.json)
-
-[Extended Data](ext_articles/52f9f682.ext.json)
-
----
-
-### O/L Notice of Applications
-
-*2024-01-22 14:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-விண்ணப்பங்கள்-தொடர்பில்-வெளியான-அறிவிப்பு/175-331949) · `ta`
-
-The Department of Examinations has issued a notification on requesting applications for the appearance of the GCE Ordinary Level Examination.
-
-According to the announcement, applications will be filed only from January 23rd to February 15th.
-
-◼️
-
-[Data](articles/09ce0e94.json)
-
-[Extended Data](ext_articles/09ce0e94.ext.json)
-
----
-
-### Strict control in the application
-
-*2024-01-22 14:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-விண்ணப்பத்தில்-கடும்-கட்டுப்பாடு/175-331949) · `ta`
-
-Applications for the GCE Ordinary Level Examination (2023 (2024) have been requested by the Department of Examinations. Amit Jayasundara, Commissioner of Examinations Department, has announced that it will only be applied through the Internet from Tuesday 23rd to February 15th.
-
-School examiners must apply through the school principal and individual examiners must apply individually. It is also advised that the individual examiners must be compulsory from schools accepted by the state and government.
-
-Private examiners are mandatory to submit the National Identity Card. The Commissioner has advised the Department of Examinations to apply for the Department of Examinations for the application if they are expected to appear for the GCE Ordinary Level Examination.
-
-Applications can be applied to the website of the Examinations Department as www.doenets.lk or www.onlineExams.gov.lk.
-
-Further details can be obtained by contacting 0112784208, 012784537 or 0112785922.
-
-◼️
-
-[Data](articles/1d7596c5.json)
-
-[Extended Data](ext_articles/1d7596c5.ext.json)
-
----
-
-### Parents who allocate 122 billion rupees for exclusive classes!
-
-*2024-01-22 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/174503) · `ta`
-
-Exclusive class culture is a feature of Sri Lanka's free education.Thousands of teachers who receive the monthly salary and conduct exclusive classes and get millions of money.
-
-The Ministry of Education has defined the number of students in a classroom.In the 40 -minute course, the teaching of a teacher should be understood and the environment should be existed in the classroom.
-
-This is why the number of students is defined.Similarly, the number of teachers can only have physical qualifications and skills that teach in a classroom.
-
-But the same teachers are the same teachers who teach about five hundred students from two to three hours.. Parents and the Ministry of Education do not question this. But the issues of the Finance Minister Ranjith Siyambalab Bittiya are thinking about the amount of parents spending on exclusive classes in our country.. Parents are allocating thirty percent of their children for exclusive classes, rather than the amount they spend on school education, he said.
-
-...
-
-[Data](articles/0564eee7.json)
-
-[Extended Data](ext_articles/0564eee7.ext.json)
-
----
-
-### Applications for 2023 G.C.E O/L exam to be called from tomorrow
-
-*2024-01-22 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/96621/applications-for-2023-gce-ol-exam-to-be-called-from-tomorrow-) · `en`
-
-Applications for the 2023 (2024) G.C.E. Ordinary Level examination will be called from 23 January to 15 February, the Department of Examinations announced.
-
-In a statement issued on Monday (22 Jan.), the department highlighted that only applications sent online, via its official websites - www.doenets.lk or www.onlineexams.gov.lk/eic will be accepted.
-
-The deadline for submitting online applications is midnight on 15 February, the department stated, while emphasisng that no extensions of any kind will be granted.
-
-◼️
-
-[Data](articles/2a09df7d.json)
-
-[Extended Data](ext_articles/2a09df7d.ext.json)
-
----
-
-### Dasun Perera appointed Chief Executive of Senfin Securities
-
-*2024-01-22 14:30:00* · [`economynextcom`](https://economynext.com/dasun-perera-appointed-chief-executive-of-senfin-securities-148224/) · `en`
-
-ECONOMYNEXT – Dasun Perera has been appointed Chief Executive at Senfin Securities Limited, a trading member of the Colombo Stock Exchange, which is affiliated to Senkadagala Finance.
-
-Perera was the Deputy Chief Investment Officer of Senkadagala Finance PLC (SFCL).
-
-He had previously been at NDB Wealth Management, Senfin Asset Management (Pvt) Ltd and at JB Financial (Pvt) Ltd.
-
-Perera had gained post graduate experience with placements at the Inspiration Group in Germany and BlackRock in UK.
-
-He is a CFA charter holder. He has Bachelor of Commerce degree and Master of Finance (MFin) degree. (Colombo/Jan22/2024)
-
-◼️
-
-[Data](articles/a99cd5e6.json)
-
-[Extended Data](ext_articles/a99cd5e6.ext.json)
-
----
-
-### A notice to those who are constantly writing
-
-*2024-01-22 14:29:31* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළට-ලියන්න-ඉන්න-අයට-දැනුම්-දීමක්/11-407666) · `si`
-
-Applications of the GCE Ordinary Level (2023/2024) Examination will commence tomorrow, the Department of Examinations said.
-
-The applications are called only on the online system from January 23 to February 15, the Department of Examinations added.
-
-◼️
-
-[Data](articles/89f75c42.json)
-
-[Extended Data](ext_articles/89f75c42.ext.json)
-
----
-
-### World Cup stars dominate ICC Women’s T20I Team of the Year for 2023
-
-*2024-01-22 14:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Cup-stars-dominate-ICC-Womens-T20I-Team-of-the-Year-for-2023/108-275497) · `en`
-
-Jan. 22 (ICC) - The ICC Team of the Year recognises 11 outstanding individuals who have impressed throughout 2023, be it with the bat, the ball or their all-round exploits.
-
-We take a look at who made the cut for their work in women’s T20I cricket in the calendar year just gone.
-
-The veteran Sri Lankan started the year with a Player of the Match performance in Cape Town in the ICC Women's T20 World Cup, smashing 68 off 50 balls to help Sri Lanka beat South Africa by three runs. The big upset win set the tone for a remarkable year for Sri Lanka women and Athapaththu was at the forefront of it all.
-
-She finished with 470 runs in the year, scoring at a quicker-than-usual strike-rate of 130.91. With 15 sixes in the year, she also hit a personal high in Women's T20Is.
-
-...
-
-[Data](articles/fcd77cda.json)
-
-[Extended Data](ext_articles/fcd77cda.ext.json)
-
----
-
-### Did the Perenian professor die a medicine degree?
-
-*2024-01-22 14:11:30* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-මහාචාර්යවරයා-මිය-ගියේ-ඖෂධ-අධිමාත්‍රාවක්-අරන්ද-/11-407665) · `si`
-
-A professor of the Faculty of Agriculture, who was admitted to the Peradeniya Teaching Hospital, has been identified as the Peradeniya Teaching Hospital has been admitted to the Peradeniya Teaching Hospital.
-
-The deceased is B. L. It is said that Professor of Peiris (60), is said that the professor's wife is a server at the main library of the Peadeniya University.
-
-The professor died around 1.00 am today and after the death of the post mortem, the Peradeniya Police say.
-
-◼️
-
-[Data](articles/2f0b495d.json)
-
-[Extended Data](ext_articles/2f0b495d.ext.json)
-
----
-
-### Sri Lanka Tamil National Alliance (TNA) leader Sridharan met Sambandan
-
-*2024-01-22 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174518) · `ta`
-
-The new leader of the Sri Lanka Tamil National Party and Sivagnanam Sridharan, the senior leader of the party and the Trincomalee district parliamentarian, R. Sampanthan, met.
-
-On Monday (22), he met at his residence in Colombo and discussed the next steps of the party's moves.
-
-◼️
-
-[Data](articles/066d7b7e.json)
-
-[Extended Data](ext_articles/066d7b7e.ext.json)
 
 ---

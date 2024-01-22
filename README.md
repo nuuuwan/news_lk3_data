@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 17:17:07**
+As of **2024-01-22 17:33:23**
 
 ## Newspaper Stats
 
-*Scraped **1,822** Articles*
+*Scraped **1,824** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ economynextcom | 113
 newsfirstlk | 114
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 183
-adalk | 191
+virakesarilk | 184
+adalk | 192
 dailymirrorlk | 214
 adaderanalk | 224
 tamilmirrorlk | 225
@@ -26,11 +26,27 @@ tamilmirrorlk | 225
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,713 (94.0%) of 1,822 articles have been extended.
+1,720 (94.3%) of 1,824 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### அயோத்தி ராமர் கோவிலுக்கு நன்கொடையாகும் 'ஹனு-மான்' பட டிக்கெட் கட்டணம்
+
+*2024-01-22 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/174544) · `ta`
+
+மகர சங்கராந்தியை முன்னிட்டு வெளியான தெலுங்கு திரைப்படமான 'ஹனு-மான்' 175 கோடி வசூலை கடந்து வெற்றிகரமாக ஓடிக்கொண்டிருக்கும் நிலையில், இந்த வசூல் பணத்தில் ஒரு பகுதி அயோத்தி ராமர் கோவிலுக்கு நன்கொடையாக வழங்கப்படும் என படத்தின் தயாரிப்பு நிறுவனமான மைத்ரி மூவி மேக்கர்ஸ் தெரிவித்துள்ளது.
+
+அதன்படி, படத்துக்கான ஒவ்வொரு டிக்கெட் கட்டணத்திலிருந்தும் 5 ரூபாயை அயோத்தி ராமர் கோவிலுக்கு நன்கொடையாக வழங்கப் போவதாக தயாரிப்பு நிறுவனம் ஏற்கெனவே அறிவித்திருந்ததற்கமைய, இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+
+"53,28,211 பேருக்கு நன்றி. அயோத்தி ராமர் கோவிலுக்கு நல்ல விடயத்துக்காக ரூ. 2,66,41,055 நன்கொடையாக வழங்க இணைந்ததற்கு நன்றி. இந்த சிறப்பான முன்னெடுப்புக்கு ஹனு-மான் படத்தை பார்த்து நீங்களும் ஆன்மிக அனுபவத்தை பெற்று பங்கெடுக்கலாம். உங்கள் டிக்கெட் கட்டணத்தில் 5 ரூபாயை அயோத்தி கோவிலுக்கு வழங்கலாம். இந்த சரித்திரப் புகழ் வாய்ந்த தருணத்தில் நாங்களும் பங்கெடுப்பது பெருமை" என்றுள்ளது.
+
+◼️
+
+[Data](articles/fe0fc6ba.json)
+
+---
 
 ### Our Chamari is a perfect place from ICC
 
@@ -48,25 +64,29 @@ The leader of the team is noteworthy, the leader of the Sri Lankan team to the c
 
 ---
 
-### மேற்குலக நாடுகளிடமிருந்து  அழுத்தங்களை எதிர்கொள்கின்ற போதிலும் உக்ரைன் விவகாரத்தில் இலங்கை நடுநிலைமையை பேணவேண்டும்-ரஸ்ய தூதுவர்
+### Sri Lanka's neutrality should be maintained in the Ukrainian affair despite the pressure from the West
 
 *2024-01-22 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174539) · `ta`
 
-மேற்குலக நாடுகளிடமிருந்து இலங்கை அழுத்தங்களை எதிர்கொள்கின்ற போதிலும் உக்ரைன் விடயத்தில் தொடர்ந்தும் இலங்கை நடுநிலைமையை பேணவேண்டும் என ரஸ்யா எதிர்பார்ப்பு வெளியிட்டுள்ளது
+Russia has announced that Sri Lanka should continue to maintain neutrality in Ukraine, despite Sri Lanka facing pressure from the West.
 
-கேள்வி - பாதுகாப்பு ஒத்துழைப்பு என்பது உக்ரைன் ரஸ்ய மோதல் இடம்பெறும் சூழமைவில் மேற்கு ஆசியாவில் நெருக்கடி காணப்படும் சூழமைவில்  முன்வைக்கப்படுகின்றது  ஆகவே இலங்கையுடன் எந்தவகையான பாதுகாப்பு ஒத்துழைப்பை பேணுவவதற்கு  ரஸ்யா விரும்புகின்றது?
+Question - Security cooperation is presented in the environment where Ukraine's Russian conflict is in the context of crisis in West Asia?
 
-முதலில் நான் ஒன்றை தெரிவிக்க விரும்புகின்றேன் எங்களை பொறுத்தவரை இது ரஸ்ய உக்ரைன்  யுத்தம் இல்லை.இது ரஸ்யா ஆரம்பித்துள்ள விசேட நடவடிக்கை.
+First I want to convey something. For us, this is not the Russian Ukraine war.
 
-மேற்குலக நாடுகள் ரஸ்யாவிற்கு தோல்வியை ஏற்படுத்த விரும்புகின்றன மூலோபாய தோல்வியை ஏற்படுத்த முயல்கின்றன,
+Western countries seek to defeat Russia and try to make strategic defeat,
 
-பதில் - ஆம் இராணுவத்தினருக்கு என தெரிவிக்கலாம், மாணவர்களி;ற்கான கல்வி குறித்து நாங்கள் ஆராய்கின்றோம்  பொதுமக்களிற்கு மாத்திரமில்லை இராணுவத்தினருக்கும்.
+Answer - Yes, we can report to the military, we are examining the education of the students, not the civilian population.
 
-இலங்கையின் மூலோபாயரீதியில் முக்கியத்துவம் வாய்ந்த அமைவிடம் மிகவும் முக்கியமானது. மேலும் உக்ரைன் தொடர்பில் இலங்கையின் சமநிலையான நடுநிலையான நிலைப்பாட்டை நாங்கள் பாராட்டுகின்றோம்.
+The strategy of Sri Lanka is very important. We also appreciate the balance of Sri Lanka's balanced neutral position on Ukraine.
 
-...
+We expect you to maintain this neutral position, even when you face pressure from the West.
+
+◼️
 
 [Data](articles/a405cfa4.json)
+
+[Extended Data](ext_articles/a405cfa4.ext.json)
 
 ---
 
@@ -106,21 +126,23 @@ Meanwhile, a special police investigation has been carried out in this regard, a
 
 ---
 
-### விவசாயிகளிடம் நெல் அளக்கும் தராசுகளில் மோசடி : அரிசி ஆலை உரிமையாளர் சங்கத் தலைவர் குற்றச்சாட்டு
+### Farmers' Frauds
 
 *2024-01-22 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174530) · `ta`
 
-வவுனியா மாவட்டத்தில் விவசாயிகளிடம் நெல் கொள்வனவு செய்ய வரும் வெளி மாவட்ட நெல் கொள்வனவாளர்கள் மற்றும் உள்ளூர் நெல் கொள்வனவாளர்கள் நிறுவை தராசுகளில் பாரிய மோசடி மேற்கொண்டு விவசாயிகளிடம் நெல்லை கொள்ளளவு செய்து வருவதாக வவுனியா மாவட்ட அரிசி ஆலை உரிமையாளர் சங்கத் தலைவர் சி. விவேகானந்தன் தெரிவித்தார்.
+Vavuniya District Rice Mill Owners Association President C.. Vivekanandan said.
 
-தற்போது அறுவடை ஆரம்பித்து உள்ள நிலையில் விவசாயிகளிடம் நெல்லை கொள்வனவு செய்யவரும்  கொள்வனவாளர்கள்  நிறுவை தராசுகளில் மோசடி செய்து விவசாயிகளிடம் நெல்லை கொள்வனவு செய்கின்றனர்.
+At present, the harvest has begun and the buyers who buy paddy to the farmers are defrauding the establishment of the farmers and buying paddy to the farmers.
 
-தராசில் இருக்கும் மேல்பகுதியை மாற்றி வைப்பதன் ஊடாக இரண்டு மூடைகளில் சுமார் 15 கிலோ வீதம் விவசாயிகள் நட்டமடைவதற்கான வாய்ப்புகள் இருப்பதாக சுட்டிக் காட்டிய அவர் நியாயமாக கொள்வனவு செய்பவர்களை விட 100, 200 ரூபா பணம் அதிகமாக  கிடைக்கின்றது என்ற காரணத்தினால் விவசாயிகள் அவ்வாறான கொள்வனவாளர்களிடம்நெல்லை கொடுத்து பல ஆயிரம் ரூபா நட்டம் அடைந்து ஏமாறுவதாகவும் சுட்டிக்காட்டினார்.
+He pointed out that the farmers were likely to lose about 15 kilos by replacing the upper part of the scales, and that the farmers were giving the bike to the buyers and the loss of several thousand rupees because they were getting 100 and 200 rupees more than the buyers.
 
-எனவே விவசாயிகள் நெல்லை விற்பனை செய்யும் போது மிகவும் அவதானமாக செயல்படுமாறும் அவர் கேட்டுள்ளார்.
+He has therefore asked the farmers to act very much when selling paddy.
 
 ◼️
 
 [Data](articles/78be1cb8.json)
+
+[Extended Data](ext_articles/78be1cb8.ext.json)
 
 ---
 
@@ -502,19 +524,25 @@ According to the announcement, applications will be filed only from January 23rd
 
 ---
 
-### சா/த   விண்ணப்பத்தில்    கடும் கட்டுப்பாடு
+### Strict control in the application
 
 *2024-01-22 14:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-விண்ணப்பத்தில்-கடும்-கட்டுப்பாடு/175-331949) · `ta`
 
-கல்விப் பொதுத் தராதர சாதாரண பரீட்சைக்கான (2023(2024)) விண்ணப்பங்கள் பரீட்சை திணைக்களத்தால் கோரப்பட்டுள்ளன. ஜனவரி 23 ஆம் திகதி செவ்வாய்க்கிழமை முதல் பெப்ரவரி 15 நள்ளிரவு வரை மட்டும் இணையத்தின் ஊடாக மட்டுமே விண்ணப்பிக்க முடியுமென பரீட்சைகள் திணைக்களத்தின் ஆணையாளர் அமித் ஜயசுந்தர அறிவித்துள்ளார்.
+Applications for the GCE Ordinary Level Examination (2023 (2024) have been requested by the Department of Examinations. Amit Jayasundara, Commissioner of Examinations Department, has announced that it will only be applied through the Internet from Tuesday 23rd to February 15th.
 
-பாடசாலை பரீட்சார்த்திகள் பாடசாலை அதிபரின் ஊடாகவும், தனிப்பட்ட பரீட்சார்த்திகள்   தனிப்பட்ட ரீதியிலும் விண்ணப்பிக்க வேண்டும். தனிப்பட்ட பரீட்சார்த்திகள் அரச மற்றும் அரசாங்கத்தால் ஏற்றுக்கொள்ளப்பட்ட பாடசாலைகளில் இருந்து (விலகிய சான்றிதழை) கட்டாயமாக முன்வைக்கப்படவேண்டும் என்றும் அறிவுறுத்தப்பட்டுள்ளது.
+School examiners must apply through the school principal and individual examiners must apply individually. It is also advised that the individual examiners must be compulsory from schools accepted by the state and government.
 
-தனிப்பட்ட பரீட்சார்த்திகள் தேசிய அடையாள அட்டையை சமர்ப்பிப்பது கட்டாயமாக்கப்பட்டுள்ளது. 15 வயதுக்கும் குறைந்த தனிப்பட்ட பரீட்சார்த்திகள், சாதாரண தரப்பரீட்சைக்கு தோற்ற எதிர்பார்த்திருந்தால், விண்ணப்பம் செய்வதற்காக பரீட்சைகள் திணைக்களத்துக்கு சமூகமளிக்க வேண்டும் என்றும் ஆணையாளர் அறிவுறுத்தியுள்ளார்.
+Private examiners are mandatory to submit the National Identity Card. The Commissioner has advised the Department of Examinations to apply for the Department of Examinations for the application if they are expected to appear for the GCE Ordinary Level Examination.
 
-...
+Applications can be applied to the website of the Examinations Department as www.doenets.lk or www.onlineExams.gov.lk.
+
+Further details can be obtained by contacting 0112784208, 012784537 or 0112785922.
+
+◼️
 
 [Data](articles/1d7596c5.json)
+
+[Extended Data](ext_articles/1d7596c5.ext.json)
 
 ---
 
@@ -1003,6 +1031,36 @@ His departure sets up the one-on-one battle that Haley has coveted against Trump
 [Data](articles/f3c7db15.json)
 
 [Extended Data](ext_articles/f3c7db15.ext.json)
+
+---
+
+### දඹුල්ලේ කැරට් කිලෝව රු. 600ට බහියි
+
+*2024-01-22 12:24:54* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ලේ-කැරට්-කිලෝව-රු--600ට-බහියි/11-407663) · `si`
+
+පසුගිය සතියට සාපේක්ෂව දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ එළවළු තොග මිල විශාල වශයෙන් පහත වැටෙමින් පවතින බව ආර්ථික මධ්‍යස්ථාන වෙළෙන්දෝ පෙන්වා දෙති්.
+
+ඒ අනුව විසි දෙක දින අලුයම වන විට සැලකිය යුතු ප්‍රමාණයෙන් එළවළු මිල පහත වැටී ඇතත් ඒවා මිලදී ගැනීම සඳහා තවමත්  වෙළෙන්දන් ගේ පැමිණීමේ අඩුවක් දක්නට ලැබෙන බව ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමය කියයි.
+
+එළවළු මිලදී ගැනීම අවම විමත් සමඟ සීග්‍රයෙන් ඉහළ ගිය සියළුම එළවළු වර්ග මිල පහත වැටී තිබේ.
+
+ජනවාරි මාසයේ 17 දින පැවති මිල සහ 22  උදෑසන දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ පැවැති  එළවළු කිලෝ එකක තොග මිල  මෙසේ  සඳහන් කිරීමටහැකි වී තිබේ.
+
+වර්ගය       ජනවාරි 17 දිනය පැවති මිල     ජනවාරි 22 දින උදෑසන පැවති මිල
+
+ලීක්ස්          600  - 700                         250 - 300
+
+රාබු             90   - 100                         70  - 80
+
+කැකිරි         80  - 110                           100 - 110
+
+වම්බටු           380  - 400                        400 - 480
+
+දෙහි                120  - 130                     130  - 150
+
+◼️
+
+[Data](articles/22d09e3e.json)
 
 ---
 
@@ -1975,47 +2033,5 @@ CCTV camera system to identify traffic violations to commence today
 [Data](articles/58eec3ec.json)
 
 [Extended Data](ext_articles/58eec3ec.ext.json)
-
----
-
-### Four persons killed in shooting at Beliatta
-
-*2024-01-22 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96611/four-persons-killed-in-shooting-at-beliatta) · `en`
-
-At least four persons have been killed in a shooting incident in the Beliatta area in Tangalle this morning (22).
-
-Police said that the shooting had been carried out by a group of unidentified gunmen in a vehicle and that they had opened fire at four persons traveling in a Defender.
-
-The four persons in the Defender have been shot dead near the Beliatta exit of the Southern Expressway, police said.
-
-The remains of the deceased have been placed at the Tangalle Base Hospital, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/1076c0e4.json)
-
-[Extended Data](ext_articles/1076c0e4.ext.json)
-
----
-
-### CCRV to monitor drivers from today in Colombo. Comeras!
-
-*2024-01-22 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/174489) · `ta`
-
-New CCRV by police to monitor drivers who violate traffic rules in Colombo city. The surveillance configuration system has been implemented.
-
-Accordingly, the project will be implemented in Colombo city from today to 31st of this month.
-
-All vehicles entering Colombo 108 CCRV. Police said they would be monitored by cameras.
-
-CCRV in 9 places that enter Colombo. No notification boards have been put in advance to the drivers that the organization is in operation.
-
-Police Media Spokesperson Senior Superintendent of Police Nihal Talduwa said that through this procedure, legal action will be taken against drivers who violate traffic rules.
-
-◼️
-
-[Data](articles/cc1f5ee9.json)
-
-[Extended Data](ext_articles/cc1f5ee9.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 13:02:28**
+As of **2024-01-22 12:49:53**
 
 ## Newspaper Stats
 
-*Scraped **1,756** Articles*
+*Scraped **1,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,17 @@ virakesarilk | 168
 adalk | 185
 dailymirrorlk | 202
 tamilmirrorlk | 216
-adaderanalk | 219
+adaderanalk | 218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,608 (91.6%) of 1,756 articles have been extended.
+1,608 (91.6%) of 1,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
-
-### Ron DeSantis ends 2024 campaign, endorses Trump over Haley
-
-*2024-01-22 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96619/ron-desantis-ends-2024-campaign-endorses-trump-over-haley) · `en`
-
-Florida Governor Ron DeSantis ended his fading presidential campaign on Sunday and endorsed Donald Trump just two days before the pivotal New Hampshire primary, leaving former U.N. Ambassador Nikki Haley as Trump’s last long-shot challenger for the Republican nomination.
-
-DeSantis’ decision, less than a week after his deflating loss to Trump in Iowa despite an enormous investment there, caps a stunning fall from grace after DeSantis had been widely seen as Republicans’ most promising alternative to Trump ahead of the general election in November.
-
-His departure sets up the one-on-one battle that Haley has coveted against Trump, the former president who has maintained an iron grip on the Republican electorate despite facing four criminal prosecutions. Trump has pleaded not guilty in all the cases.
-
-...
-
-[Data](articles/f3c7db15.json)
-
----
 
 ### Announcement on the calling for the O / L examination
 
@@ -301,8 +285,6 @@ The suspect has been handed over to the Kahathuduwa Police Station for further i
 ### Police to trace traffic offenders through CCTV system from today
 
 *2024-01-22 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96615/police-to-trace-traffic-offenders-through-cctv-system-from-today-) · `en`
-
-UPDATE:  The programme for the detection of traffic violations through the CCTV system established within the Colombo city was launched a short while ago by Public Security Minister Tiran Alles.
 
 A special programme through which traffic offenders in Colombo will be traced using a CCTV surveillance camera system is set to be implemented from today (22 Jan.), Sri Lanka Police stated.
 
@@ -792,13 +774,13 @@ Police Media Spokesperson Senior Superintendent of Police Nihal Talduwa said tha
 
 The death toll from the shooting incident in the Beliatta area in Tangalle this morning (22) has climbed to five after one more person admitted to hospital with gunshot wounds had succumbed to injuries, a short while ago.
 
-Earlier, Police said that the shooting had been carried out by a group of unidentified gunmen in a vehicle and that they had opened fire at five persons traveling in a Defender.
+Earlier, Police said that the shooting had been carried out by a group of unidentified gunmen in a vehicle and that they had opened fire at four persons traveling in a Defender.
 
-Four of the five persons in the Defender have been shot dead near the Beliatta exit of the Southern Expressway, police said, while the other was hospitalised in critical condition.
+The four persons in the Defender have been shot dead near the Beliatta exit of the Southern Expressway, police said, adding that another person was hospitalised in critical condition.
 
 The remains of the deceased have been placed at the Tangalle Base Hospital, Ada Derana reporter said.
 
-The shooting had taken place between 8.30 a.m. and 8.40 a.m. when a group of individuals who had arrived in a green colour double-cab opened fire on a Defender near the Beliatta interchange of the expressway.
+The shooting had taken place between 8.30 a.m. and 8.40 a.m. when a group of individuals who had arrived in a green colour double-cab opened fire on while Defender near the Beliatta interchange of the expressway.
 
 ◼️
 
@@ -1987,5 +1969,31 @@ Sri Lanka Youth Group scored 5 wickets for 13 runs.
 [Data](articles/1fc37d66.json)
 
 [Extended Data](ext_articles/1fc37d66.ext.json)
+
+---
+
+### Opposition to fame factors
+
+*2024-01-21 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192409) · `si`
+
+A protest was organized in front of the Cancer Unit of the Karapitiya Teaching Hospital, claiming injustice to Mr. Dr. Krishantha Perera.
+
+There they showed that a doctor was a doctor who specializes in the Southern Province.
+
+Health Trade Unions were interrupted on the Cancer Unit on the Cancer Unit on the 16th and the Chief Guaranteed at the Karapitiya Teaching Hospital.
+
+The doctor arrested on charges of assaulting a junior staff worker is currently in remand custody.
+
+The doctor in remand custody is currently receiving treatment at the Karapitiya Hospital due to a heart attack.
+
+The doctor was admitted to a private hospital on the illicit situation, the doctor was admitted to the Karapitiya hospital for court orders.
+
+Meanwhile, Mr. Krishantha Perera has been frustrated due to the incidents and that he has decided to retire before the time.
+
+...
+
+[Data](articles/ed8f5f7f.json)
+
+[Extended Data](ext_articles/ed8f5f7f.ext.json)
 
 ---

@@ -1,36 +1,66 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 23:02:24**
+As of **2024-01-22 23:17:17**
 
 ## Newspaper Stats
 
-*Scraped **1,881** Articles*
+*Scraped **1,886** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 42
-adaderanasinhalalk | 107
+adaderanasinhalalk | 108
 islandlk | 110
 newsfirstlk | 116
-economynextcom | 116
+economynextcom | 118
 dbsjeyarajcom | 121
 dailyftlk | 159
 virakesarilk | 195
-adalk | 199
+adalk | 200
 dailymirrorlk | 223
-tamilmirrorlk | 231
+tamilmirrorlk | 232
 adaderanalk | 233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,881 (100.0%) of 1,881 articles have been extended.
+1,881 (99.7%) of 1,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### “யுக்திய” நடவடிக்கையை உடனடியாக நிறுத்துங்கள்
+
+*2024-01-22 23:02:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-நடவடிக்கையை-உடனடியாக-நிறுத்துங்கள்/175-331977) · `ta`
+
+தற்போது அமுல்படுத்தப்பட்டு வரும் யுக்திய நடவடிக்கையை உடனடியாக நிறுத்தி அதனை மறுபரிசீலனை செய்யுமாறு ஐக்கிய நாடுகளின் நிபுணர்கள் குழுவால் கோரிக்கை முன்வைக்கப்பட்டுள்ளது.
+
+சுகாதாரம், மனித உரிமைகள் போன்ற விடயங்களில் அதிகாரிகள் கவனம் செலுத்த வேண்டும் என அந்த குழு வலியுறுத்தியுள்ளது. R
+
+◼️
+
+[Data](articles/1a4b3b07.json)
+
+---
+
+### ජනවාරි සිට රජයෙන් ලැබෙන විශේෂ දීමනාව
+
+*2024-01-22 22:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192446) · `si`
+
+සමෘද්ධි වැඩසටහන යටතේ මෙතෙක් ප්‍රතිලාභ ලැබූ ආයතනගත පුද්ගලයින් 16,146ක් වෙත ජනවාරි මාසයේ සිට රුපියල් 2,000ක දීමනාවක් දිස්ත්‍රික් ලේකම්වරුන් මගින් ගෙවීමට රජය තීරණය කර තිබේ.
+
+මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සිය X ගිණුමේ සටහනක් තබමින් මේ බව සඳහන් කර ඇත.
+
+ඒ අනුව පිරිවෙන් වල වැඩසිටින හිමිවරුන්, ළමානිවාස, වැඩිහිටි නිවාස, රැකබලා ගැනීමේ නිවාස වල සිටින අබාධිත පුද්ගලයන් සඳහා මෙම දීමනාව හිමිවනු ඇත.
+
+◼️
+
+[Data](articles/b0461e2a.json)
+
+---
 
 ### Dhaka send concussion sub outside of players’ list, stir fresh controversy in BPL
 
@@ -157,6 +187,24 @@ They deplored reported cases of arbitrary arrests of thousands of drug offenders
 [Data](articles/d1594782.json)
 
 [Extended Data](ext_articles/d1594782.ext.json)
+
+---
+
+### යාලේ රක්ෂිතයේ තිබූ ගංජා කිලෝ 220ක් අල්ලයි
+
+*2024-01-22 20:50:55* · [`adalk`](https://www.ada.lk/breaking_news/යාලේ-රක්ෂිතයේ-තිබූ-ගංජා-කිලෝ-220ක්-අල්ලයි/11-407675) · `si`
+
+යුද හමුදා බුද්ධි අංශය විසින් ලබා දෙන ලද තොරතුරුවලට අනුව ශ්‍රී ලංකා යුද හමුදාව සහ ගෝනගංආර පොලීසිය සමග ඒකාබද්ධව සිදු කරන ලද වැටලීමකදී යාල රක්ෂිතය තුළ අලෙවි කිරීමට සූදානම් කර තිබූ ගංජා කිලෝ 220 ක ප්‍රමාණයක් අත්අඩංගුවට ගෙන තිබේ.
+
+යාළ වන රක්ෂිතය තුළ සුහන්දිරම්ආරු ප්‍රදේශයේ සිට කිලෝ මීටර් 11 ක් පමණ දුරින් මෙම ගංජා වගාව සූක්ෂ්මව සිදුකර තිබූ අතර පෙරේදා(21දා)  මෙම වැටලීම සිදුකරන අවස්ථාවේදී කිලෝ 220 ක පමණ ප්‍රමාණයක් එම ස්ථානයේ තිබි ඇත.
+
+යුද හමුදා බුද්ධි අංශ විසින් යාල වන රක්ෂිතය තුළ  දී  ඉකුත් 18 දින ගංජා කිලෝ 1570 ක්  අත්අඩංගුවට ගෙන තිබෙන අතර, දින පහක් තුළ සිදුකළ දෙවැනි වැටලීමේදී ගංජා කිලෝ 220  අත්අඩංගුවට ගෙන තිබේ.
+
+මේ පිළිබඳ ඉදිරි විමර්ශන කටයුතු ගෝනගංආර පොලීසිය විසින් සිදුකරනු ලබයි.
+
+◼️
+
+[Data](articles/1a6817cc.json)
 
 ---
 
@@ -469,6 +517,24 @@ He said that the Ministry of Health had issued many fake letters to import drugs
 [Data](articles/791999e1.json)
 
 [Extended Data](ext_articles/791999e1.ext.json)
+
+---
+
+### Despite economic recovery, more Sri Lankan doctors want to leave for better pay, kids’ future
+
+*2024-01-22 18:49:00* · [`economynextcom`](https://economynext.com/despite-economic-recovery-more-sri-lankan-doctors-want-to-leave-for-better-pay-kids-future-148267/) · `en`
+
+ECONOMYNEXT – More Sri Lankan doctors are planning to leave the country for greener pasture and better remunerations, Health Minister Ramesh Pathirana said, despite the recovery in the economy with higher tax revenue.
+
+The island nation’s unprecedented economic crisis has led professionals in health and education sectors to leave the country in search of better remuneration mainly after the tax hikes.
+
+According to the Government Medical Officers’ Association (GMOA), the main trade union of doctors, around 1,500 specialists and doctors have left the country for overseas opportunities in 2023 and the mass exodus is driven by economic hardship and tax hikes.
+
+Health Minister Pathirana said the official data show nearly 1,200 doctors have applied for leave and some of them have already left the country.
+
+...
+
+[Data](articles/95eb8e1d.json)
 
 ---
 
@@ -1957,73 +2023,5 @@ The traditional festivals and festivals of the Tamils have some special characte
 [Data](articles/210dbfac.json)
 
 [Extended Data](ext_articles/210dbfac.ext.json)
-
----
-
-### Warning to the public: A gang involved in money laundering
-
-*2024-01-22 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174499) · `ta`
-
-Police said that a mob is working in hiding in various parts of the country, calling themselves the police, claiming to be a policeman.
-
-In particular, police media spokesman Nihal Talduwa said that such calls have been made for houses in Mulleria and Navagamuwa areas and that police have received several complaints regarding the call for money being called police.
-
-◼️
-
-[Data](articles/5e924b08.json)
-
-[Extended Data](ext_articles/5e924b08.ext.json)
-
----
-
-### Modi inaugurates Hindu temple on razed Babri mosque site
-
-*2024-01-22 13:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Modi-inaugurates-Hindu-temple-on-razed-Babri-mosque-site/108-275492) · `en`
-
-India, Jan 22 (BBC) - India's PM Narendra Modi has taken part in rituals to open a grand temple to popular Hindu god Ram in Ayodhya city.
-
-The temple replaces a 16th-Century mosque razed by Hindu mobs in 1992. The demolition had sparked nationwide riots in which nearly 2,000 people died.
-
-Thousands of invited guests, including top film stars, industrialists and cricketers, attended the event.
-
-But some Hindu seers and most of the opposition boycotted it, saying Mr Modi was using it for political gains.
-
-General elections are due in India in the next few months and Mr Modi's political rivals say the governing Bharatiya Janata Party (BJP) will be seeking votes in the temple's name in a country where 80% of the population is Hindu.
-
-Critics have also accused the government of going overboard with what is essentially a religious celebration in a country which - according to its constitution - is secular.
-
-...
-
-[Data](articles/cf1af009.json)
-
-[Extended Data](ext_articles/cf1af009.ext.json)
-
----
-
-### Prefects' investiture ceremony
-
-*2024-01-22 13:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Prefects-investiture-ceremony/110-275502) · `en`
-
-The Prefects' investiture ceremony of the Siri Shasanodayaramaya Viharaya was held recently with the patronage of the Chief Incumbent of the temple, Venerable Dangahawala Upananda Thera. Pix by Nimalsiri Edirisinghe.
-
-◼️
-
-[Data](articles/283f3da5.json)
-
-[Extended Data](ext_articles/283f3da5.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-01-22 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174511) · `ta`
-
-The US dollar purchasing price was 315.5076 and the sales price were 325.3792 based on the Central Bank's currency exchange rate on Monday (January 22).
-
-◼️
-
-[Data](articles/01b590aa.json)
-
-[Extended Data](ext_articles/01b590aa.ext.json)
 
 ---

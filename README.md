@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 13:02:28**
+As of **2024-01-22 13:52:21**
 
 ## Newspaper Stats
 
-*Scraped **1,756** Articles*
+*Scraped **1,758** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 39
-adaderanasinhalalk | 90
+adaderanasinhalalk | 91
 economynextcom | 108
 islandlk | 108
 newsfirstlk | 112
@@ -20,17 +20,49 @@ virakesarilk | 168
 adalk | 185
 dailymirrorlk | 202
 tamilmirrorlk | 216
-adaderanalk | 219
+adaderanalk | 220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,608 (91.6%) of 1,756 articles have been extended.
+1,621 (92.2%) of 1,758 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### Injunction order issued against Dayasiri Jayasekara extended
+
+*2024-01-22 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96620/injunction-order-issued-against-dayasiri-jayasekara-extended-) · `en`
+
+The Colombo District Court on Monday (22 Jan.) further extended the injunction order against the former General Secretary of the Sri Lanka Freedom Party (SLFP), Dayasiri Jayasekara, preventing him from hindering the affairs of the SLFP Acting General Secretary, Sarathi Dushmantha Mithrapala, and submitting inaccurate recommendations to the Election Commission in relation to the matter.
+
+The relevant order was issued when a petition filed by Mithrapala and Chairman of the SLFP former President Maithripala Sirisena was taken up in court this morning.
+
+The case is due to be recalled in court on 29 January, allowing time for the respondents to file objections, if any.
+
+The injunction order against Jayasekara was initially issued by Colombo District Judge Sandun Withana on 08 January.
+
+◼️
+
+[Data](articles/7c1eab4e.json)
+
+---
+
+### Karapitiya has bail
+
+*2024-01-22 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192429) · `si`
+
+Dr. Krishantha Perera has released the Head of the Cancer Unit of the Karapitiya Teaching Hospital.
+
+◼️
+
+[Data](articles/fef1b570.json)
+
+[Extended Data](ext_articles/fef1b570.ext.json)
+
+---
 
 ### Ron DeSantis ends 2024 campaign, endorses Trump over Haley
 
@@ -45,6 +77,8 @@ His departure sets up the one-on-one battle that Haley has coveted against Trump
 ...
 
 [Data](articles/f3c7db15.json)
+
+[Extended Data](ext_articles/f3c7db15.ext.json)
 
 ---
 
@@ -1931,61 +1965,5 @@ In 2024, Sri Lankan voters will be given the choice of electing their leaders th
 [Data](articles/278bb946.json)
 
 [Extended Data](ext_articles/278bb946.ext.json)
-
----
-
-### President meets UN chief and state leaders during ‘G77 and China’ summit
-
-*2024-01-21 22:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96606/president-meets-un-chief-and-state-leaders-during-g77-and-china-summit) · `en`
-
-President Ranil Wickremesinghe participated in the 3rd South Summit “G77 and China,” commencing today (21) in Kampala, Uganda. During the event, he engaged in fruitful discussions with numerous state leaders and representatives.
-
-This morning (21), President Ranil Wickremesinghe held a significant meeting with Dr. Riyad Malki, Palestine’s Minister of Foreign Affairs and Expatriates. Additionally, he met with Maldives Vice President Hussain Mohamed Latheef, fostering dialogue and collaboration.
-
-Further, President Ranil Wickremesinghe convened with UN Secretary-General Antonio Guterres on the same day (21), discussing matters of global significance.
-
-In a separate engagement, Indian Minister of State for External Affairs, Mr. Shri V. Muraleedharan, had a constructive discussion with President Ranil Wickremesinghe, emphasizing bilateral relations.
-
-...
-
-[Data](articles/74655438.json)
-
-[Extended Data](ext_articles/74655438.ext.json)
-
----
-
-### Sri Lanka won the first win in the Youth World Cup
-
-*2024-01-21 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192410) · `si`
-
-The Sri Lanka Youth team won the first match of the Under-19 World Cup match by 39 runs.
-
-Zimbabwe was interrupted the match between the innings of Zimbabwe's innings while chasing a target of 204 runs.
-
-Accordingly, according to the dick Lewis theory, they won 129 runs in 22 overs.
-
-However, the Sri Lanka Youth Group was bowled out for 89 runs for the loss of 21 overs.
-
-Talking of TT PShila, who was engaged in a bowling, took 4 wickets for 17 runs in 4 overs.
-
-Universal Lahiru and Ru සැස
-
-Batting first, Sri Lanka teenager scored 204 runs for the loss of 38 overs.
-
-The wild beaten won the winth, 60 runs in 55 balls with six sixes and six fours.
-
-Shanmuganatan scored 41 runs with 3 fours.
-
-In addition, Ravishan de Silva and the village scored 31 runs.
-
-Kohl Eksteen took 3 wickets and Newman Nyamhuri and matthewww scored 2 wickets each.
-
-Sri Lanka Youth Group scored 5 wickets for 13 runs.
-
-...
-
-[Data](articles/1fc37d66.json)
-
-[Extended Data](ext_articles/1fc37d66.ext.json)
 
 ---

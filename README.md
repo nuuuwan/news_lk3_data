@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 05:02:18**
+As of **2024-01-23 05:17:13**
 
 ## Newspaper Stats
 
-*Scraped **1,916** Articles*
+*Scraped **1,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ virakesarilk | 195
 adalk | 200
 dailymirrorlk | 230
 adaderanalk | 235
-tamilmirrorlk | 238
+tamilmirrorlk | 239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,916 (100.0%) of 1,916 articles have been extended.
+1,916 (99.9%) of 1,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### பயங்கரவாத எதிர்ப்பு சட்டமூலம் எதிராக மனுத்தாக்கல்
+
+*2024-01-23 02:36:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-எதிர்ப்பு-சட்டமூலம்-எதிராக-மனுத்தாக்கல்/175-331985) · `ta`
+
+அரசாங்கத்தினால் முன்வைக்கப்பட்டுள்ள உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலத்திற்கு எதிராக ஐக்கிய மக்கள் சக்தி,  உயர் நீதிமன்றத்தில் திங்கட்கிழமை (22) மனுத்தாக்கல் செய்தது.
+
+ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளரும் பாராளுமன்ற உறுப்பினருமான ரஞ்சித் மத்துமபண்டார இந்த மனுவை, ஜனாதிபதி சட்டத்தரணி பர்மான் காசிம் ஊடாக தாக்கல் செய்துள்ளார்.
+
+மனுவை தாக்கல் செய்ததன் பின்னர் ஊடகங்களுக்கு கருத்துரைத்த ரஞ்சித் மத்தும பண்டார எம்.பி,
+
+“தேர்தல்கள் நடக்கவிருக்கும் இந்த காலப்பிரிவில்,எதிர்க்கட்சியின் ஜனநாயகத்துக்கு விடுக்கப்பட்ட சவாலே இந்த பயங்கரவாத எதிர்ப்பு சட்டமூலமாகும். யுத்தமொன்று இல்லாத தேர்தல் காலத்திலேயே இந்த பயங்கரவாத எதிர்ப்பு சட்டமூலத்தை கொண்டு வந்துள்ளனர்.
+
+...
+
+[Data](articles/95faf9fd.json)
+
+---
 
 ### The death of the professor who swallowed the colds
 
@@ -1971,23 +1989,5 @@ Meanwhile, food inflation at -2.2 percent in November 2023 increased to 1.6 perc
 [Data](articles/e1b5355f.json)
 
 [Extended Data](ext_articles/e1b5355f.ext.json)
-
----
-
-### Senior Lecturer in Peradeniya killed
-
-*2024-01-22 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192432) · `si`
-
-The deceased is a senior lecturer at the Faculty of Lakrath Peiris, a 60 year old.
-
-The suspects are the death of a drug and insecticide by the insects.
-
-He has lived in the residential house in the residential house in the Old Galawala Road, University of Sarasavi Uyana with his wife.
-
-◼️
-
-[Data](articles/371ba28d.json)
-
-[Extended Data](ext_articles/371ba28d.ext.json)
 
 ---

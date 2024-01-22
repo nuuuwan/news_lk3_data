@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 10:04:19**
+As of **2024-01-22 09:52:13**
 
 ## Newspaper Stats
 
-*Scraped **1,698** Articles*
+*Scraped **1,697** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 39
-adaderanasinhalalk | 82
+adaderanasinhalalk | 81
 economynextcom | 104
 islandlk | 108
 newsfirstlk | 109
@@ -26,27 +26,11 @@ adaderanalk | 209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,514 (89.2%) of 1,698 articles have been extended.
+1,514 (89.2%) of 1,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
-
-### දකුණේ තවත් වෙඩිතැබීමක් - පහක් මරුට
-
-*2024-01-22 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192420) · `si`
-
-තංගල්ල, බෙලිඅත්ත ප්‍රදේශයේ සිදුවූ වෙඩිතැබීමකින් පුද්ගලයින් පස්දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව පොලීසිය පවසයි.
-
-සිද්ධිය සිදුවු ස්ථානයේ මළ සිරුරු 4ක් ඇති අතර, එක් අයෙකුගේ මෘත ශරීරය මේ වනවිට තංගල්ල රෝහලේ තැන්පත් කර තිබේ.
-
-අද උදෑසන 8.30ත් 8.40ත් අතර කාලයේ දී සුදු පැහැති ඩිෆෙන්ඩර් රථයකින් ගමන් කරමින් සිටි පුද්ගලයින් 5 දෙනෙකු ඉලක්ක කර කොළ පැහැති කැබ් රථයකින් පැමිණි පිරිසක් විසින් මෙම වෙඩිතැබීම සිදුකර ඇතැයි වාර්තා වේ.
-
-◼️
-
-[Data](articles/c80e7341.json)
-
----
 
 ### Ahlandlla, trapped in the illegal asset division
 
@@ -2015,5 +1999,27 @@ The President has shown that principles such as harmony and cooperation of this 
 [Data](articles/f687905c.json)
 
 [Extended Data](ext_articles/f687905c.ext.json)
+
+---
+
+### President Ranil addresses G77+China summit in Uganda
+
+*2024-01-21 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96599/president-ranil-addresses-g77china-summit-in-uganda-) · `en`
+
+President Ranil Wickremesinghe is currently addressing the Group of 77 and China (G77+China) Third South Summit in Kampala, Uganda, the President’s Media Division (PMD) reported.
+
+In his statement at the summit in Kampala, President Ranil Wickremesinghe stressed establishing unity within the G77 and China to address challenges facing the Global South.
+
+Emphasizing the group’s 60th anniversary, he also highlighted principles like unity and cooperation as the basis for tackling these issues sustainably, according to the PMD.
+
+The Sri Lankan President is in Uganda to attend the XIX Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the Group of 77 (G77) and China Third South Summit.
+
+The theme of the G77 and China Third South Summit is “Leaving No One Behind”. Member States of the G77 and China will discuss developmental challenges, and ways in which the Group can work towards achieving the Sustainable Development Goals.
+
+◼️
+
+[Data](articles/6953d3f0.json)
+
+[Extended Data](ext_articles/6953d3f0.ext.json)
 
 ---

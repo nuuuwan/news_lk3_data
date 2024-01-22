@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 15:32:59**
+As of **2024-01-22 15:51:35**
 
 ## Newspaper Stats
 
-*Scraped **1,795** Articles*
+*Scraped **1,798** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,37 +12,75 @@ colombotelegraphcom | 29
 bbccomsinhala | 40
 adaderanasinhalalk | 93
 islandlk | 108
-economynextcom | 112
+economynextcom | 113
 newsfirstlk | 113
 dbsjeyarajcom | 121
 dailyftlk | 159
 virakesarilk | 176
 adalk | 188
 dailymirrorlk | 211
-adaderanalk | 221
+adaderanalk | 223
 tamilmirrorlk | 224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,676 (93.4%) of 1,795 articles have been extended.
+1,684 (93.7%) of 1,798 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### உயர்தரத்தை நிறைவு செய்தால் பாடசாலையில் தொழிற்கல்வி
+### Imad Fakhoury appointed IFC South Asia regional director
+
+*2024-01-22 15:15:00* · [`economynextcom`](https://economynext.com/imad-fakhoury-appointed-ifc-south-asia-regional-director-148231/) · `en`
+
+ECONOMYNEXT – The International Finance Corporation has appointed Imad N Fakhoury as Regional Director for South Asia, the World Bank Group member said in a statement.
+
+“Private sector investment is key to achieving South Asia’s development goals,” said Fakhoury. “Our focus is on creating opportunities where they are needed most, sustaining jobs, supporting climate goals, improving inclusion for all by improving services for people, and strengthening digital and financial access across the region.”
+
+IFC provides investment and advisory interventions across Bangladesh, Bhutan, India, the Maldives, Nepal, and Sri Lanka.
+
+In 2023, IFC provided nearly 3.45 billion dollars in long-term investments in South Asia, including 1.3 billion dollars mobilized from other investors, according to the statement.
+
+...
+
+[Data](articles/12b810f4.json)
+
+[Extended Data](ext_articles/12b810f4.ext.json)
+
+---
+
+### Modi opens controversial Hindu temple in Ayodhya in grand event ahead of national polls
+
+*2024-01-22 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96623/modi-opens-controversial-hindu-temple-in-ayodhya-in-grand-event-ahead-of-national-polls) · `en`
+
+Indian Prime Minister Narendra Modi on Monday opened a controversial Hindu temple built on the ruins of a historic mosque in the northern city of Ayodhya, delivering on a crucial Hindu nationalist pledge that his governing party hopes will catapult him to a record third successive term in upcoming elections.
+
+The temple, which is still under construction, is dedicated to Hinduism’s Lord Ram and fulfills a long-standing demand by millions of Hindus who worship the revered deity. Modi’s party and other Hindu nationalist groups who seized on the demand have portrayed the temple as central to their vision of reclaiming Hindu pride, which they say was shadowed by centuries of Mughal rule and British colonialism.
+
+...
+
+[Data](articles/bed74289.json)
+
+[Extended Data](ext_articles/bed74289.ext.json)
+
+---
+
+### Vocational education in school if you complete high quality
 
 *2024-01-22 14:56:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தரத்தை-நிறைவு-செய்தால்-பாடசாலையில்-தொழிற்கல்வி/175-331957) · `ta`
 
-உயர்தரத்தை நிறைவு செய்யும் மாணவர்களுக்கு எதிர்வரும் பெப்ரவரி மாதம் முதல் பாடசாலையிலேயே தொழிற்கல்வி வழங்கப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+Education Minister Susil Premajayantha said that students who complete the highest level will be given vocational education in school from February.
 
-உயர்தரக் கல்வியை நிறைவு செய்யும் மாணவர்களை தொழிற்கல்விக்கு வழிநடத்தும் நோக்கில் இந்தத் தொழிற்பயிற்சித் திட்டம் நாடளாவிய ரீதியில் தெரிவு செய்யப்பட்ட 299 பாடசாலைகளில் நடைமுறைப்படுத்தப்படுவதாகவும் அமைச்சர் கூறியுள்ளார்.
+The Minister also said that this vocational program is being implemented in 299 schools selected nationwide in order to guide students who are completing higher education.
 
 ◼️
 
 [Data](articles/b0142ef4.json)
+
+[Extended Data](ext_articles/b0142ef4.ext.json)
 
 ---
 
@@ -83,6 +121,30 @@ The order was issued following a petition submitted by Sri Lanka Freedom Party (
 [Data](articles/c8ad55c9.json)
 
 [Extended Data](ext_articles/c8ad55c9.ext.json)
+
+---
+
+### Karapitiya Hospital’s senior oncologist granted bail, 03 minor staff further remanded
+
+*2024-01-22 14:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96622/karapitiya-hospitals-senior-oncologist-granted-bail-03-minor-staff-further-remanded-) · `en`
+
+The senior oncologist of the Karapitiya Teaching Hospital, who was arrested and remanded for allegedly assaulting a female junior staff member, has been granted bail.
+
+61-year-old Dr. Krishantha Perera was granted bail on orders of the Galle Magistrate’s Court today (22 Jan.) on two personal bonds of Rs. 1 million each.
+
+The relevant order was issued by Galle Magistrate Isuru Neththikumara.
+
+Meanwhile, the three minor staff members of the Karapitiya Teaching Hospital, including a female, who were arrested on 21 January in connection with a complaint by Dr. Perera alleging assault, were further remanded until 29 January.
+
+The court also ordered that the three suspects be referred to an identification parade on the aforementioned date.
+
+The senior oncologist in question, Dr. Krishantha Perera, 61, was arrested on 18 January for purportedly assaulting a female junior staff member during a contentious situation that had ensued the previous morning.
+
+...
+
+[Data](articles/28eb6d6f.json)
+
+[Extended Data](ext_articles/28eb6d6f.ext.json)
 
 ---
 
@@ -178,6 +240,8 @@ She finished with 470 runs in the year, scoring at a quicker-than-usual strike-r
 
 [Data](articles/fcd77cda.json)
 
+[Extended Data](ext_articles/fcd77cda.ext.json)
+
 ---
 
 ### Sri Lanka Tamil National Alliance (TNA) leader Sridharan met Sambandan
@@ -209,6 +273,8 @@ When he returned for the 18th over, Paarl Royals were 140-1 and aiming for an ex
 ...
 
 [Data](articles/a63fc0ed.json)
+
+[Extended Data](ext_articles/a63fc0ed.ext.json)
 
 ---
 
@@ -1955,71 +2021,5 @@ Mahbubul Alam said garments, pharmaceuticals, eco-tourism and hospitality are so
 [Data](articles/0f14e981.json)
 
 [Extended Data](ext_articles/0f14e981.ext.json)
-
----
-
-### Climate Change: Should you and go out of the villages?
-
-*2024-01-22 07:41:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6pe4045v5do) · `si`
-
-Due to various human activity, the world community is focused on the world community, the entire world today. It is no secret that there will be a heavy economic impact on climate change.
-
-Due to the growth of glaciers, the greenhouse effect is developing global warming, unexpected floods, severe floods, severe floods, and a large number of refugees and migrants are in creation due to a large number of refugees and migrants. This has become a managed problem with certain states.
-
-What is Climate Change? "The Climate Crisis in Pakistan: 'I have not had the option to sell my daughter,' Sri Lankan women have decided not to receive
-
-Until recently, the term "climate change" was not so familiar to Sri Lankans. However, some have now paid attention to the recently unnatural extreme weather conditions.
-
-Sri Lanka is also facing the influence of the influence of climatic and climate change and is now informed of the article in knowledge and ignorantly.
-
-...
-
-[Data](articles/c1cc648c.json)
-
-[Extended Data](ext_articles/c1cc648c.ext.json)
-
----
-
-### Gaza is a dead tree - 178 deaths
-
-*2024-01-22 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192414) · `si`
-
-More than 25,000 people in Gaza has reportedly deceased during the Israeli attacks.
-
-Foreign media reports that 178 deaths have occurred in the past 24 hours.
-
-It is a worst day of the war so far.
-
-Israel commenced its attacks on 07th of October, the Hamas militants were killed after 1,300 South Israeli and 240 years ago.
-
-However, due to the continuing fighting, Israeli Prime Minister Benjamin Netanyahu has refused to create a Palestinian state again.
-
-◼️
-
-[Data](articles/3ab94719.json)
-
-[Extended Data](ext_articles/3ab94719.ext.json)
-
----
-
-### Yukthiya should aim to arrest major drug dealers: SF
-
-*2024-01-22 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukthiya-should-aim-to-arrest-major-drug-dealers-SF/108-275462) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - The Yukthiya operation should not be a drama but should be aimed at apprehending main drug dealers in the country, Field Marshal Sarath Fonseka said yesterday.
-
-Speaking to journalists Field Marshal Fonseka said there is no point in arresting hundreds of ordinary people without arresting main drug traffickers in Sri Lanka.
-
-"If major drug traffickers are not arrested under the Yukthiya Operation it will become another drama. Acting IGP Deshabandu Tennekoon will not be able to travel along the streets if he continues to make Yukthiya operation a drama," he added.
-
-He also stressed that Samagi Jana Balawegaya ( SJB) should go along the right track if it wants to win the hearts of the people.
-
-" SJB should scrutinize those whom it wants to accept to its fold rather than inviting those from other parties to join hands," he added.
-
-◼️
-
-[Data](articles/a99664d6.json)
-
-[Extended Data](ext_articles/a99664d6.ext.json)
 
 ---

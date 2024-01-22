@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 19:17:03**
+As of **2024-01-22 19:02:35**
 
 ## Newspaper Stats
 
-*Scraped **1,855** Articles*
+*Scraped **1,851** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,34 +17,20 @@ economynextcom | 116
 dbsjeyarajcom | 121
 dailyftlk | 159
 virakesarilk | 189
-adalk | 194
+adalk | 193
 dailymirrorlk | 219
-tamilmirrorlk | 228
+tamilmirrorlk | 225
 adaderanalk | 231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,763 (95.0%) of 1,855 articles have been extended.
+1,756 (94.9%) of 1,851 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
-
-### ஐயாவிடம் ஆசீவாதம் பெற்ற ஸ்ரீதரன்
-
-*2024-01-22 18:48:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ஐயாவிடம்-ஆசீவாதம்-பெற்ற-ஸ்ரீதரன்/75-331960) · `ta`
-
-இலங்கைத் தமிழரசுக் கட்சியின் தலைவர் சிவஞானம் ஸ்ரீதரன் தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவர் ஆர்.சம்பந்தனிடம் ஆசீவாதம் பெற்றார்.
-
-புதிதாகத் தெரிவு செய்யப்பட்ட இலங்கைத் தமிழரசுக் கட்சியின் தலைவரும் கிளிநொச்சி மாவட்டப் பாராளுமன்ற உறுப்பினருமான சிவஞானம் சிறிதரன் தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவரும் திருகோணமலை மாவட்டப் பாராளுமன்ற உறுப்பினருமான ஆர்.சம்பந்தனிடம்   (22) கொழும்பில்  வைத்து ஆசீவாதம் பெற்றார்.
-
-◼️
-
-[Data](articles/6345288c.json)
-
----
 
 ### Vocational education for students in schools
 
@@ -100,8 +86,6 @@ The Presidential Secretariat states that the acting appointment is in addition t
 
 [Data](articles/febb2aaa.json)
 
-[Extended Data](ext_articles/febb2aaa.ext.json)
-
 ---
 
 ### ‘Accept resignations of any individual without hesitation’ – Minister tells CEB
@@ -117,8 +101,6 @@ He further stated that he also instructed the relevant officials to expedite the
 ...
 
 [Data](articles/64add9bd.json)
-
-[Extended Data](ext_articles/64add9bd.ext.json)
 
 ---
 
@@ -142,25 +124,21 @@ The relevant order was issued by Galle Magistrate Isuru Neththikumara.
 
 [Data](articles/d3edc820.json)
 
-[Extended Data](ext_articles/d3edc820.ext.json)
-
 ---
 
-### Two Junior staff and worker released on bail
+### කරාපිටියේ කනිෂ්ඨ සේවකයින් දෙදෙනාට සහ සේවිකාවට ඇප
 
 *2024-01-22 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192439) · `si`
 
-Two junior employees and the maid were released on the bail of the incident on the 16th of the Karapitiya Teaching Hospital.
+කරාපිටිය ශික්ෂණ රෝහලේ පසුගිය 16 වනදා ඇතිවූ සිද්ධිය සම්බන්ධයෙන් අත්අඩංගුවට ගෙන සිටි කනිෂ්ඨ සේවකයින් දෙදෙනෙකු සහ සේවිකාව ඇප මත මුදාහැර තිබේ.
 
-The suspects have been released on bail through a motion.
+එම සැකකරුවන් මෝසමක් මාර්ගයෙන් ගාල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත කරුණු වාර්තාකිරීමෙන් අනතුරුව මෙලෙස ඇප මත මුදාහැර ඇත.
 
-Meanwhile, Dr. Krishantha Perera was released on bail this morning.
+මේ අතර එම සිදුවීමට අදාළව මීට පෙර අත්අඩංගුවට ගෙන සිටි කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකයේ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා ද අද (22) ඇප මත මුදාහැරියේය.
 
 ◼️
 
 [Data](articles/acb0c2bc.json)
-
-[Extended Data](ext_articles/acb0c2bc.ext.json)
 
 ---
 
@@ -180,8 +158,6 @@ Further, the BASL also highlighted that the Minister of Public Security Tiran Al
 
 [Data](articles/aa3dc2e6.json)
 
-[Extended Data](ext_articles/aa3dc2e6.ext.json)
-
 ---
 
 ### Minister making statements to generate public anger towards CEB, its staff: CEBEU
@@ -200,26 +176,6 @@ While issuing a media release, the CEBEU said that the Minister is trying to be 
 
 ---
 
-### ராமர் கோவில்: ஒரு பெண்ணின் ’அல்லாஹ்ஹூ அக்பர்’ முழக்கம் அதிர வைத்தது
-
-*2024-01-22 18:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமர்-கோவில்-ஒரு-பெண்ணின்-அல்லாஹ்ஹூ-அக்பர்-முழக்கம்-அதிர-வைத்தது/175-331959) · `ta`
-
-கர்நாடகா மாநிலத்தில் ராமர் கோவில் கொண்டாட்டங்களின் போது பெண் ஒருவர் எழுப்பிய அல்லாஹ்ஹூ அக்பர் முழக்கம் ஷிமோகாவை அதிர வைத்தது.
-
-அயோத்தியில் உச்சநீதிமன்ற தீர்ப்பின்படி பிரம்மாண்ட ராமர் கோவில் கட்டப்பட்டுள்ளது. இந்த ராமர் கோவில் திறப்பு விழா இன்று (22) நடைபெற்றது.
-
-நாட்டின் பெரும் தொழிலதிபர்கள், ஆன்மீகவாதிகள், திரை நட்சத்திரங்கள் என 7,000 பேர் இந்நிகழ்வில் பங்கேற்றனர். பிரதமர் மோடி, ராமர் சிலையை பிரதிஷ்டை செய்து கருவறையில் வழிபாடு நடத்தினார். பின்னர் ராமர் கோவில் வளாகப் பொதுக் கூட்டத்திலும் மோடி உரையாற்றினார்.
-
-ராமர் கோவில் திறப்பு விழாவை நாட்டின் பல பகுதிகளிலும் ராம பக்தர்கள் கொண்டாடினர். கர்நாடகா மாநிலத்திலும் ராமர் கோவில் திறப்பு விழா நிகழ்ச்சிகள் களைகட்டின. கர்நாடகாவின் ஷிமோகாவில் ஷிவப்பா நாயகா சர்க்கிள் பகுதியில் ராமர் பக்தர்கள் கொண்டாட்டங்களில் ஈடுபட்டிருந்தனர்.
-
-அப்போது அந்த வழியாக ஸ்கூட்டரில் குழந்தையுடன் சென்ற பெண் ஒருவர் வாகனத்தை நிறுத்தி படம் பிடித்தார். அப்போது பொலிஸார் அங்கு வந்து இருசக்கர வாகனத்தை அங்கிருந்து நகர்த்துமாறு கேட்டுக் கொண்டனர்.
-
-...
-
-[Data](articles/9773d756.json)
-
----
-
 ### UN experts call on Government of Sri Lanka to immediately suspend ‘Yukthiya’ anti-drug operation
 
 *2024-01-22 18:17:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/un-experts-call-on-government-of-sri-lanka-to-immediately-suspend-%e2%80%98yukthiya%e2%80%99-anti-drug-operation/) · `en`
@@ -233,22 +189,6 @@ Colombo (News 1st) – A high-level group of United Nations experts have called 
 ...
 
 [Data](articles/a126f970.json)
-
----
-
-### அட ரஜினி சார் நீங்களா, கைகூப்பி வணங்கிய அம்பானி
-
-*2024-01-22 18:10:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அட-ரஜினி-சார்-நீங்களா-கைகூப்பி-வணங்கிய-அம்பானி/175-331958) · `ta`
-
-இந்தியாவே காத்திருந்த அயோத்தி ராமர் கோவில் கும்பாபிஷேகம் பிரதமர் மோடி தலைதாங்கி பிரான் பிரதிஷ்டை விழாவை நடத்தி மக்களின் பார்வைக்குக் கோவில் திறக்கப்பட்டது. அயோத்தி ராமர் கோவில் கும்பாபிஷேக விழாவிற்காக இந்தியா முழுவதிலும் இருந்து பெரும் பிரபலங்களின் பட்டாளத்திற்கு அழைப்பு விடுக்கப்பட்டது.
-
-ராமர் கோவிலில் 5 வயது பால ராமர் சிலை மக்களைக் கவர்ந்ததைத் தொடர்ந்து, தற்போது இணையத்தில் ஒரு வீடியோ செம டிரெண்டாகி ஒட்டுமொத்த மக்களையும் பேசவைத்துள்ளது
-
-அயோத்தியிலும் மக்கள் கூட்டம் அலைமோதும் வேளையில், பிரதமர் முதல் பல்வேறு அமைச்சர்கள், அம்பானி முதல் பல தொழிலதிபர்கள், ரஜினிகாந்த் முதல் பல பிரபலங்கள் கலந்துகொண்டனர். இதில் முக்கியமான விஷயம் என்னவென்றால் ரஜினி, அம்பானி, சச்சின் ஆகியோர் பக்கது பக்கத்தில் அமர்ந்து சந்தித்துக்கொண்ட வீடியோ தான் இப்போது இணையத்தில் டிரெண்டாகி வருகிறது.
-
-...
-
-[Data](articles/f03ecbe2.json)
 
 ---
 
@@ -545,20 +485,6 @@ We had a similar division of opinion during the Aragalaya. Opinion remains divid
 [Data](articles/fe351010.json)
 
 [Extended Data](ext_articles/fe351010.ext.json)
-
----
-
-### A bleak forecast for 2024 and beyond : Politics (security), economics and military
-
-*2024-01-22 16:48:00* · [`islandlk`](http://island.lk/a-bleak-forecast-for-2024-and-beyondpolitics-security-economics-and-military/) · `en`
-
-This piece uses the vast amount of information on the web, social-media, broadcasts and news sites. My role is to use what limited intelligence providence has endowed me with to select and filter. I hope this will be of service to readers who do not have the patience to explore all the available information themselves. Nations are fretful above all else of existential concerns, that is politics in the sense of security, not politics in the familiar but vulgar sense of endemic corruption. Once existence is assured the second matter to focus on is material well-being; prosperity, employment, wealth and so on broadly falling under the umbrella term ‘the economy’. My accent in this piece is on the Great Powers (America, China and Russia) though discussion of the Middle East (the Muslim World and Israel) is unavoidable.
-
-...
-
-[Data](articles/7e2d0222.json)
-
-[Extended Data](ext_articles/7e2d0222.ext.json)
 
 ---
 
@@ -868,7 +794,7 @@ The body was found today (22) at 10.20 am. The Chinese police are conducting fur
 
 *2024-01-22 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/After-ALs-vocational-education-for-students-in-school-itself-from-February-Minister/108-275501) · `en`
 
-Colombo, Jan 22 (Daily Mirror) - A programme with practical training and theoretical rehearsals on vocational education with knowledge on information technology, includin English language will be provided to students who complete their Advande Level (A/L) examination this year from February, said Education Minister Susil Premajayantha.
+Colombo, Jan 22 (Daily Mirror) - A programme with practical training and theoretical rehearsals on vocational education with knowledge on information technology, including English language will be provided to students who complete their Advande Level (A/L) examination this year from February, said Education Minister Susil Premajayantha.
 
 He said this vocational training programme will be implemented in 299 selected schools in the island with the aim of directing students who complete their high school education towards vocational education.
 
@@ -1197,22 +1123,6 @@ She finished with 470 runs in the year, scoring at a quicker-than-usual strike-r
 [Data](articles/fcd77cda.json)
 
 [Extended Data](ext_articles/fcd77cda.ext.json)
-
----
-
-### පේරේ මහාචාර්යවරයා මිය ගියේ ඖෂධ අධිමාත්‍රාවක් අරන්ද?
-
-*2024-01-22 14:11:30* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-මහාචාර්යවරයා-මිය-ගියේ-ඖෂධ-අධිමාත්‍රාවක්-අරන්ද-/11-407665) · `si`
-
-ඖෂධ අධිමත්‍රාවක් ගත් බවට සකසහිතව පේරාදෙණිය ශික්ෂණ රෝහලට ඇතුළත් කළ පෙරදෙණිය විශ්ව විද්‍යාලයේ කෘෂිකර්ම පීඨයේ මහාචාර්යවරයකු මියගොස් ඇති බව පොලිසිය කියයි .
-
-එසේ මියගොස් ඇත්තේ බී. එල්. පීරිස් (60) නමැති මහාචාර්යවරයෙකු වන අතර මහාචාර්යවරයාගේ බිරිඳ ද පෙරදෙණිය විශ්ව විද්‍යාලයේ ප්‍රධාන පුස්තකාලයේ සේවය කරන්නියක බවද පැවසේ .
-
-මහාචාර්යවරයා අද අලුයම 1.00 ට පමණ අසාධ්‍ය තත්ත්වයෙන් රෝහල්ගත කිරීමෙන් අනතුරුව මියගොස් ඇති අතර මරණයට හේතුව පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීමෙන් අනතුරුව පැවසිය හැකි බව පේරාදෙණිය පොලිසිය කියයි .
-
-◼️
-
-[Data](articles/2f0b495d.json)
 
 ---
 
@@ -1656,29 +1566,25 @@ His departure sets up the one-on-one battle that Haley has coveted against Trump
 
 ---
 
-### CCTV penalties: "12% of registered vehicles have not been assigned to the backing of backing
+### CCTV දඩ : 'ලියාපදිංචි වාහනවලින් 12% ක් අලෙවියෙන් පසු අයිතිය පවරා නැහැ'
 
 *2024-01-22 12:26:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce95dp5750mo) · `si`
 
-It contains nothing here. Play Video, "12% of registered vehicles, 12% of the salesholder's sales will be lawning the method of utilization on location entry related to the location of the route fine online.Acting IGP commented.
+මෙහි කිසිවක් අඩංගු නැත.Play video, "CCTV දඩ : 'ලියාපදිංචි වාහනවලින් 12% ක් අලෙවියෙන් පසු අයිතිය පවරා නැහැ'", ධාවන කාලය 2,1602:16වීඩියෝ ශීර්ෂ වැකිය, රථ වාහන වැරදි වලට අදාල ස්ථානීය දඩ ඔන්ලයින් ඔස්සේ ගෙවන ක්‍රමවේදය හඳුන්වා දීම ගැන වැඩබලන පොලිස්පතිවරයා අදහස් පළ කළේය.
 
-CCTV penalties: "12% of registered vehicles have not been assigned to the backing of backing
+CCTV දඩ : 'ලියාපදිංචි වාහනවලින් 12% ක් අලෙවියෙන් පසු අයිතිය පවරා නැහැ'
 
-DIG Indika Hapugoda says that legal action will be taken against the repository of vehicles in the fined vessels through CCTV monitoring system.
+CCTV නිරීක්ෂණ හරහා දඩ නිකුත් කිරීමේ ක්‍රමය තුළ අලෙවියෙන් පසු නිසි පරිදි වාහනවල අයිතිය නොපවරණ ලද පුද්ගලයන්ට එරෙහිව ද නීතිමය පියවර ගන්නා බව රථවාහන පාලන හා මාර්ග ආරක්ෂාව භාර නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ පවසයි.
 
-He said that about 82 lakhs of the Department of Motor Traffic are present.
+මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තුවේ ලියාපදිංචි වාහන ලක්ෂ 82ක් පමණ පවතින අතර ඉන් 12%ක් අලෙවියෙන් පසු නිසි පරිදි අයිතිය පවරා නැති බව ඔහු සඳහන් කළේය.
 
-He was speaking at a program held today (January 22) on CCTV observations for traffic errors in Colombo.
+කොළඹ නගරයේ රථ වාහන වැරදි සඳහා CCTV නිරීක්ෂණ හරහා දඩ පත්‍රිකා ක්‍රමවේදය අද (ජනවාරි 22) හඳුන්වා දීම නිමිත්තෙන් පැවති වැඩසටහනක දී ඔහු මේ බව පැවසුවේ ය.
 
-Meanwhile, the acting IGP commented on the introduction of the method of online fine online.
+මේ අතර රථ වාහන වැරදි වලට අදාල ස්ථානීය දඩ ඔන්ලයින් ඔස්සේ ගෙවන ක්‍රමවේදය හඳුන්වා දීම ගැන වැඩබලන පොලිස්පතිවරයා අදහස් පළ කළේය.
 
-The Sri Lankan police were also attempting to identify traffic violations by CCTV cameras and the Sri Lankan police were to implement the punishment of the wrongdoers in 2018.
-
-◼️
+...
 
 [Data](articles/782219d7.json)
-
-[Extended Data](ext_articles/782219d7.ext.json)
 
 ---
 
@@ -1987,5 +1893,111 @@ On 15 January, the CEB suspended 15 clerical staff members in charge of the cash
 [Data](articles/a1c8c9b7.json)
 
 [Extended Data](ext_articles/a1c8c9b7.ext.json)
+
+---
+
+### The death sentence of the death sentence in the Punguduthivu case
+
+*2024-01-22 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/174493) · `ta`
+
+The appeals of those sentenced to death in connection with the abduction of Sivalokanathan Vidya in the Jaffna - Punguduthivu area will be taken up for hearing on Monday (22).
+
+These appeals were called in the presence of High Court Judges, Ayam, a three -member High Court Judges, Preity Padman Surasena, Achala Venkapuli and Shiran Gunaratne.
+
+The court has ordered the petitioners to take steps to submit Sinhala translation copies to the Attorney General.
+
+Subsequently, the judges Ayam ordered the hearing of the appeal on January 22.
+
+In 2015, Sivalokanathan Vidya, an 18 -year -old school student from Jaffna, was abducted and murdered and murdered.
+
+On September 27, 2017, seven accused in connection with the case sentenced the three judges of the Jaffna High Court to death.
+
+The defendants have said that the man who has been sentenced is contrary to the law.
+
+Accordingly, the defendants filed these appeals in the High Court demanding the release of themselves from the charge.
+
+◼️
+
+[Data](articles/cdf283ac.json)
+
+[Extended Data](ext_articles/cdf283ac.ext.json)
+
+---
+
+### Ninety-snowstorm of American 90 lives
+
+*2024-01-22 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192426) · `si`
+
+90 people have been killed in the Sri Lankan Americans with the affected week.
+
+The highest deaths were reported from Tennesses and Oregon, and Illinois, Visisal, Washington, Kentucky, New York.
+
+Due to heavy snowmore, electricity in many zones across the country, thousands of people have been affected.
+
+It is expected that there will be excessive monk and the winter winds in this week.
+
+◼️
+
+[Data](articles/8dacf25a.json)
+
+[Extended Data](ext_articles/8dacf25a.ext.json)
+
+---
+
+### India’s Modi set to open Ram temple at Ayodhya
+
+*2024-01-22 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96616/indias-modi-set-to-open-ram-temple-at-ayodhya) · `en`
+
+Indian Prime Minister Narendra Modi on Monday was set to open a contentious Hindu temple built on the ruins of an ancient mosque in the holy city of Ayodhya.
+
+The grand event, which will be attended by thousands, is expected to benefit the Indian leader in the polls just months before a general election.
+
+The inauguration of the temple, which is still under construction, is dedicated to Hinduism’s most revered deity Lord Ram. It fulfills a demand made by millions of Hindus for over 100 years and delivers on a crucial campaign pledge from Modi and his Hindu nationalist Bharatiya Janata Party.
+
+Ayodhya, once dotted with tightly packed houses and rundown stalls, has undergone an elaborate makeover in the lead up to the inauguration. Narrow roads have been turned into a four-lane pilgrimage route leading to the temple, tourists are arriving at a new airport and sprawling railway station, and major hotel chains are building new properties.
+
+...
+
+[Data](articles/8666ef1b.json)
+
+[Extended Data](ext_articles/8666ef1b.ext.json)
+
+---
+
+### NPP Dilemma: Rhetoric vs. Reality, Present Ideology vs.Past Ideology
+
+*2024-01-22 11:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/NPP-Dilemma-Rhetoric-vs-Reality-Present-Ideology-vs-Past-Ideology/155-275486) · `en`
+
+Colombo, Jan. 22 (Daily Mirror)- With vital elections looming on the horizon , rhetorical remarks from across the political divide have become the norm for each passing day.
+
+It is common for political leaders of all hues to fine-tune their speeches with rhetorical language as a vote catching ,crowd pulling exercise. In the process, what is done is ostensible concealment of truth from the general public in the couch of rhetorical language . Voters who get carried away by political rhetoric are at the receiving end finally.
+
+In recent times , the National People’s Power , the political amalgamation led by the Marxist party Janatha Vimukthi Peramuna (JVP) , has launched into swift action ahead of the presidential election to be announced likely in September, this year .
+
+...
+
+[Data](articles/009b70b7.json)
+
+[Extended Data](ext_articles/009b70b7.ext.json)
+
+---
+
+### Ice narcotics abducted in car with a dog to intimidate police
+
+*2024-01-22 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/174496) · `ta`
+
+Kahatuduwa police said that the three were arrested with an ice drug that was abducted with a dog to intimidate the police.
+
+Car, motorcycle and four cell phones have been seized by the suspects.
+
+The arrested persons belong to the same family in the Yagauluwa area of Kirivathuduwa, police said.
+
+According to reports received that ice drugs were smuggled through the Kirivathuduwa Yagahalwa area, a team of officials was sent to the Kirivathuduwa Yagauluwa area on the directive of the police officer.
+
+◼️
+
+[Data](articles/27ddf816.json)
+
+[Extended Data](ext_articles/27ddf816.ext.json)
 
 ---

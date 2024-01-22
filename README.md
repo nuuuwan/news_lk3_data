@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 11:17:11**
+As of **2024-01-22 11:33:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ tamilmirrorlk | 216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,560 (90.1%) of 1,731 articles have been extended.
+1,577 (91.1%) of 1,731 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,25 +46,29 @@ The PUCSL will then modify the proposal based on public feedback and is expected
 
 [Data](articles/4d9d0893.json)
 
+[Extended Data](ext_articles/4d9d0893.ext.json)
+
 ---
 
-### துப்பாக்கிச் சூட்டில் அரசியல் கட்சியொன்றின் தலைவரும் பலி
+### Leader of a political party
 
 *2024-01-22 10:34:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-அரசியல்-கட்சியொன்றின்-தலைவரும்-பலி/175-331939) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையில் பெலியத்த பகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஐந்து பேர் உயிரிழந்தனர்.
+Five people were killed in a shooting in Beliyatta on the southern highway.
 
-அவர்களில், 'எங்கள் மக்கள் கட்சி' என்ற அரசியல் கட்சியின் தலைவர் சமன் பெரேராவும் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Among them, the leader of the political party, Saman Perera, the political party of the 'People's Party', has also died, police said.
 
-பாதாள உலக குழுக்களுக்கு இடையில் நிலவிய நீண்டகால பகையே துப்பாக்கிச் சூட்டிற்கு காரணமாக இருக்கலாமென பொலிஸார் சந்தேகம் வெளியிட்டுள்ளனர்.
+Police have expressed suspicion that the long -standing day between the underworld groups could be responsible for the shooting.
 
-டிபெண்டர் ரக வாகனமொன்றில் பயணித்தவர்களை இலக்கு வைத்து கெப்ரக வாகனமொன்றில் பிரவேசித்தவர்கள் இந்த துப்பாக்கிப் பிரயோகத்தை நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸ் ஊடக பேச்சாளர் நிஹால் தல்துவ தெரிவித்தார்..
+Police media spokesman Nihal Talduwa said that those who entered a Kepra vehicle targeting a department of a department have fled the shooting.
 
-அத்துடன், துப்பாக்கிச் சூட்டில் காயமடைந்த மற்றுமொருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் பொலிஸ் பேச்சாளர் நிஹால் தல்துவ கூறினார்.
+Police spokesman Nihal Talduwa said the other person who was injured in the shooting has been admitted to the hospital.
 
 ◼️
 
 [Data](articles/543cb621.json)
+
+[Extended Data](ext_articles/543cb621.ext.json)
 
 ---
 
@@ -81,6 +85,8 @@ Four persons were killed at the scene, while another person who was admitted to 
 ◼️
 
 [Data](articles/6f4bf71e.json)
+
+[Extended Data](ext_articles/6f4bf71e.ext.json)
 
 ---
 
@@ -105,6 +111,8 @@ Authorities did not immediately specify whether anyone had died in the landslide
 ...
 
 [Data](articles/cf62af1f.json)
+
+[Extended Data](ext_articles/cf62af1f.ext.json)
 
 ---
 
@@ -146,6 +154,8 @@ Police suspect that underworld criminal Kosgoda Sujee's gang has carried out the
 
 [Data](articles/8d112752.json)
 
+[Extended Data](ext_articles/8d112752.ext.json)
+
 ---
 
 ### Shooting in Tangalle;Death
@@ -176,17 +186,19 @@ Some people standing in front of a shop have been shot dead.
 
 ---
 
-### தங்காலை துப்பாக்கிச் சூட்டில் ஐவர் மரணம்
+### Tangalle's death in Tangalle
 
 *2024-01-22 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தங்காலை-துப்பாக்கிச்-சூட்டில்-ஐவர்-மரணம்/150-331937) · `ta`
 
-மேலும், டிபென்டரில் பயணித்த குழுவினர் மீது நடத்தப்பட்ட துப்பாக்கிச் சூட்டிலேயே 5 பேர் உயிரிழந்துள்ளதாக உறுதிப்படுத்தப்படாத தகவல்கள் தெரிவிக்கின்றன.
+In addition, unconfirmed reports suggest that five people were killed in a firing on a group passenger in Defender.
 
-கடை ஒன்றின் முன் நின்றிருந்த சிலர் மீதே துப்பாக்கிச் சூடு நடத்தப்பட்டதாக தெரிய வந்துள்ளது.R
+Some people standing in front of a shop have been shot dead.
 
 ◼️
 
 [Data](articles/9092ccb5.json)
+
+[Extended Data](ext_articles/9092ccb5.ext.json)
 
 ---
 
@@ -213,6 +225,8 @@ Investigative report over controversial human immunoglobulin purchase handed to 
 ◼️
 
 [Data](articles/58eec3ec.json)
+
+[Extended Data](ext_articles/58eec3ec.ext.json)
 
 ---
 
@@ -276,19 +290,23 @@ The shooting had taken place between 8.30 a.m. and 8.40 a.m. when a group of ind
 
 [Data](articles/ff1f022b.json)
 
+[Extended Data](ext_articles/ff1f022b.ext.json)
+
 ---
 
-### අද බොහෝ පැතිවලට වැසි රහිත කාලගුණයක්
+### A rainy weather in many sides today
 
 *2024-01-22 09:42:53* · [`adalk`](https://www.ada.lk/breaking_news/අද-බොහෝ-පැතිවලට-වැසි-රහිත-කාලගුණයක්/11-407656) · `si`
 
-නැහෙනහිර හා ඌව පළාත්වල වැසි ස්වල්පයක් ඇතිවිය හැකි බවත් බස්නාහිර, සබරගමුව හා මධ්‍යම පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ප.ව. 4.00 න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගිරුම් සහිත වැසි ඇතිවිය හැකි බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව  පවසයි.
+In the Western, Sabaragamuwa and Central provinces, the Western, Sabaragamuwa and Central provinces are available in the Western, Sabaragamuwa and Central provinces.. Showers and thundershowers will occur at several places in about 4.00 pm.
 
-දිවයිනේ සෙසු ප්‍ර දේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බවද එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
+The department states that the department is mainly due to the prevailing weather in other countries in the island.
 
 ◼️
 
 [Data](articles/d7bdec23.json)
+
+[Extended Data](ext_articles/d7bdec23.ext.json)
 
 ---
 
@@ -456,6 +474,8 @@ Investigative report over controversial human immunoglobulin purchase handed to 
 
 [Data](articles/05faba21.json)
 
+[Extended Data](ext_articles/05faba21.ext.json)
+
 ---
 
 ### Residents warned of fraudulent calls
@@ -469,6 +489,8 @@ Police Spokesman SSP Nihal Thalduwa said that numerous complaints had been recei
 ...
 
 [Data](articles/2c008b06.json)
+
+[Extended Data](ext_articles/2c008b06.ext.json)
 
 ---
 
@@ -485,6 +507,8 @@ The saint, canonised more than 790 years ago, is well-loved in Spain, and days-l
 ◼️
 
 [Data](articles/7479c2ce.json)
+
+[Extended Data](ext_articles/7479c2ce.ext.json)
 
 ---
 
@@ -537,6 +561,8 @@ Investigative report over controversial human immunoglobulin purchase handed to 
 ◼️
 
 [Data](articles/ceffcec0.json)
+
+[Extended Data](ext_articles/ceffcec0.ext.json)
 
 ---
 
@@ -689,6 +715,8 @@ He also stressed that Samagi Jana Balawegaya ( SJB) should go along the right tr
 ◼️
 
 [Data](articles/a99664d6.json)
+
+[Extended Data](ext_articles/a99664d6.ext.json)
 
 ---
 

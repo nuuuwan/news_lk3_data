@@ -1,54 +1,192 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 13:33:13**
+As of **2024-01-22 14:33:02**
 
 ## Newspaper Stats
 
-*Scraped **1,757** Articles*
+*Scraped **1,774** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
-bbccomsinhala | 39
-adaderanasinhalalk | 91
+bbccomsinhala | 40
+adaderanasinhalalk | 92
 economynextcom | 108
 islandlk | 108
 newsfirstlk | 112
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 168
-adalk | 185
-dailymirrorlk | 202
-tamilmirrorlk | 216
-adaderanalk | 219
+virakesarilk | 172
+adalk | 187
+dailymirrorlk | 207
+tamilmirrorlk | 219
+adaderanalk | 220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,616 (92.0%) of 1,757 articles have been extended.
+1,645 (92.7%) of 1,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### කරාපිටියේ විශේෂඥ වෛද්‍යවරයාට ඇප
+### A van abducted in the owner - CCTV
 
-*2024-01-22 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192429) · `si`
+*2024-01-22 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192430) · `si`
 
-කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකයේ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා ඇප මත මුදාහැර තිබේ.
+Aluthgama was reported from Dharga town a van abduction in a filling station.
 
-සෞඛ්‍ය වෘත්තිය සමිති පසුගිය 16 වනදා ක්‍රියාත්මක කළ සංකේත වැඩවර්ජනය අතරතුර එහි කනිෂ්ඨ සේවිකාවකට පහරදුන් බවට වූ චෝදනා මත කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකයේ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා අද (22) දිනය දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+The abductor of the accident had been released even though the Aluthgama police were able to find the abducted van.
 
-කෙසේ වෙතත් ඇතිවූ හෘදයාබාධයක් මත වෛද්‍යවරයාට බන්ධනාගාර නිලධාරීන්ගේ ආරක්ෂාව මත කරාපිටිය ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකාර ලබාගැනීමට අධිකරණය අවසර ලබා දුන් අතර අද ඔහු නැවතත් අධිකරණය වෙත ඉදිරිපත් කළේය.
+These two people who come in a three-wheeler to a station in Dharga are found to go to the white van.
 
-කරුණු සලකා බැලීමෙන් අනතුරුව ගාල්ල ප්‍රධාන මහෙස්ත්‍රාත් ඉසුරු නෙත්තිකුමාර මහතා නියෝග කළේ, විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා රුපියල් මිලියනය බැගින් වූ ශරීර ඇප දෙකක් මත මුදා හැරීමටය.
+These visions are also seen in these visions that they both show a few documents to the van.
 
-මේ අතර රෝහලේ ඇතිවූ නොසන්සුන්තාවට අදාළව කරාපිටිය ශික්ෂණ රෝහලේ කනිෂ්ඨ සේවකයින් දෙදෙනෙකු සහ සේවිකාවකද ගාල්ල පොලීසිය විසින් පෙරේදා අත්අඩංගුවට ගනුලැබූ අතර  ඔවුන් ලබන 29වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට වැඩබලන මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+Then one can be drawn into the vehicle's owner into a side of the vehicle and see how the van owner is trying to prevent it.
+
+But that attempt has been failed and the person has fled the person with the van.
+
+The van is also moved to prevent the vehicle's offering.
+
+Meanwhile, officials of the Aluthgama police stabbed the van at a interval of Dharga Town.
+
+Although they had been taken to the Aluthgama police, but they had been discussed with the discussions with the owner and the vehicle.
+
+◼️
+
+[Data](articles/0b3d3745.json)
+
+[Extended Data](ext_articles/0b3d3745.ext.json)
+
+---
+
+### National Pongal Festival
+
+*2024-01-22 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/174508) · `ta`
+
+Criticism of the National Pongal Festival celebrated in Hatton, Nuwara Eliya District on the 21st. Although it was said to be a national event, the hands of the Ceylon Workers Congress, the Ceylon Workers Congress, were raised at the event.. The National Pongal Festival was organized by the Ministry of Hindu Cultural and Minister Jeevan Thondaman under the Ministry of Buddha Sasana.
+
+The traditional festivals and festivals of the Tamils have some special characteristics. The presence of the president, who is the head of the country and the first man of the country, is considered to be honored and proud.. The Prime Minister is next to him. But even though the propaganda has been made that the event will take place with the presence of both the President and the Prime Minister, the two are not present at the event.
 
 ...
 
+[Data](articles/210dbfac.json)
+
+[Extended Data](ext_articles/210dbfac.ext.json)
+
+---
+
+### Today's currency exchange rate
+
+*2024-01-22 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174511) · `ta`
+
+The US dollar purchasing price was 315.5076 and the sales price were 325.3792 based on the Central Bank's currency exchange rate on Monday (January 22).
+
+◼️
+
+[Data](articles/01b590aa.json)
+
+[Extended Data](ext_articles/01b590aa.ext.json)
+
+---
+
+### Injunction order issued against Dayasiri Jayasekara extended
+
+*2024-01-22 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96620/injunction-order-issued-against-dayasiri-jayasekara-extended-) · `en`
+
+The Colombo District Court on Monday (22 Jan.) further extended the injunction order against the former General Secretary of the Sri Lanka Freedom Party (SLFP), Dayasiri Jayasekara, preventing him from hindering the affairs of the SLFP Acting General Secretary, Sarathi Dushmantha Mithrapala, and submitting inaccurate recommendations to the Election Commission in relation to the matter.
+
+The relevant order was issued when a petition filed by Mithrapala and Chairman of the SLFP former President Maithripala Sirisena was taken up in court this morning.
+
+The case is due to be recalled in court on 29 January, allowing time for the respondents to file objections, if any.
+
+The injunction order against Jayasekara was initially issued by Colombo District Judge Sandun Withana on 08 January.
+
+◼️
+
+[Data](articles/7c1eab4e.json)
+
+[Extended Data](ext_articles/7c1eab4e.ext.json)
+
+---
+
+### Karapitiya has bail
+
+*2024-01-22 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192429) · `si`
+
+Dr. Krishantha Perera has released the Head of the Cancer Unit of the Karapitiya Teaching Hospital.
+
+Dr. Krishantha Perera was remanded until today the Cancer Economic Cancer Unit held on charges of assaulting a junior worker on the 16th.
+
+However, due to a heart attack, the court was permitted to receive the hospital with the safety of prison officials to the doctor and was returned to court today.
+
+After considering the facts, Galle Magistrate Isurra Nethththikumara ordered the release of specialist Dr. Krishantha Perera on two personal bail of Rs.
+
+Meanwhile, two junior employees of the Karapitiya Teaching Hospital and the Galle Police were arrested by the Galle Police regarding the unrest in the hospital.
+
+The Acting Magistrate ordered that the suspects also present the suspects to an identification parade.
+
+◼️
+
 [Data](articles/fef1b570.json)
+
+[Extended Data](ext_articles/fef1b570.ext.json)
+
+---
+
+### Landslides in China;47 people have chic
+
+*2024-01-22 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174507) · `ta`
+
+The media reports that 47 people have been caught in a landslide on Monday in the hill country of southwestern China.
+
+The landslide occurred in the early morning of the Jenciaong area of Yunnan province. There was a low temperature minus four degrees Celsius in the morning.
+
+About 18 houses have been buried in the soil and more than 200 people have been urgently expelled from the area.
+
+Chinese President Xi Jinping demanded that the recovery work be quickly organized. As well as efforts to reduce the deaths as possible as possible. It is necessary to console the families of the victims and resettle the victims. ”
+
+At this juncture, Sinhua said efforts are being made to find out what caused the landslide.
+
+◼️
+
+[Data](articles/15a39e34.json)
+
+[Extended Data](ext_articles/15a39e34.ext.json)
+
+---
+
+### Ayodhya Rama Temple Opening Ceremony: Live
+
+*2024-01-22 12:35:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அயோத்தி-ராமர்-கோயில்-திறப்பு-விழா-நேரலை/175-331944) · `ta`
+
+The Kumbabhishekam of the Rama Temple, which is built in Ayodhya. Various sector celebrities have also participated in this historical event.
+
+◼️
+
+[Data](articles/066e85d9.json)
+
+[Extended Data](ext_articles/066e85d9.ext.json)
+
+---
+
+### Is it a drama?MP question
+
+*2024-01-22 12:31:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-நடவடிக்கை-நாடகமா-எம்-பி-கேள்வி/175-331943) · `ta`
+
+United People's Power Parliamentarian Sujit Sanjaya Perera has accused the 'strategy of action' being carried out by the police across the country.
+
+He made this statement while commenting on it as five people, including a political party leader, were killed in Beliatta this morning.
+
+In response, the Inspector General of Police, Deshabandu Tennakoon has done his duties effectively in the past years, he said.
+
+◼️
+
+[Data](articles/ff3e4a03.json)
+
+[Extended Data](ext_articles/ff3e4a03.ext.json)
 
 ---
 
@@ -70,6 +208,28 @@ His departure sets up the one-on-one battle that Haley has coveted against Trump
 
 ---
 
+### Two missing US Navy SEALs declared dead after search off Somalia
+
+*2024-01-22 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-missing-US-Navy-SEALs-declared-dead-after-search-off-Somalia/108-275489) · `en`
+
+Jan 22, (Reuters) -  Two U.S. Navy SEALs who went missing in the Gulf of Aden earlier this month during a raid on a boat carrying Iranian weapons have not been located following an exhaustive search and their status has been changed to deceased, military officials said on Sunday.
+
+The SEALs were reported missing after boarding the vessel in a Jan. 11 operation near the coast of Somali, the U.S. Central Command said on X.
+
+“We mourn the loss of our two Naval Special Warfare warriors, and we will forever honor their sacrifice and example. Our prayers are with the SEALs’ families, friends, the U.S. Navy, and the entire Special Operations community during this time,” CENTCOM Commander General Michael Erik Kurilla said in a statement.
+
+A joint operation carried out by the United States, Spain and Japan searched more than 21,000 square miles of ocean for the missing SEALs, CENTCOM said in the statement.
+
+That mission had now become a recovery operation, CENTCOM said.
+
+...
+
+[Data](articles/eadb4752.json)
+
+[Extended Data](ext_articles/eadb4752.ext.json)
+
+---
+
 ### Announcement on the calling for the O / L examination
 
 *2024-01-22 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192428) · `si`
@@ -83,6 +243,68 @@ According to the statement, the application of applications will be carried out 
 [Data](articles/ba52b926.json)
 
 [Extended Data](ext_articles/ba52b926.ext.json)
+
+---
+
+### Economic Crisis - The risk of free meals offered to patients amidst a shortage of drugs
+
+*2024-01-22 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/174505) · `ta`
+
+Government hospitals are facing a severe crisis due to allegations that the quality of food provided to patients in government hospitals due to the increase in food prices.
+
+Health department officials have pointed out that the increase in food prices, the number of patients admitted to hospitals and the free diet is due to the increasing customs.
+
+The number of patients who receive admissions in hospitals has increased significantly, and they have said that they are seeking state governments due to the increase in fees in private hospitals.
+
+In the past, the lack of listening to free foods in the past said that it is one of the reasons for the availability of food from those who see the food from the main government hospital official, but the situation has changed completely. Many people have relied on free foods and no one comes to visit patients.
+
+He said that the distributors of the food are not thinking about providing nutritious foods.
+
+...
+
+[Data](articles/f77f5915.json)
+
+[Extended Data](ext_articles/f77f5915.ext.json)
+
+---
+
+### Police launch CCTV based traffic violations detection programme
+
+*2024-01-22 12:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-launch-CCTV-based-traffic-violations-detection-programme/108-275488) · `en`
+
+Colombo, Jan. 22 (Daily Mirror)- The police today launched the special programme aimed at identifying motorists violating traffic rules through the CCTV system in Colombo.
+
+Public Security Minister Tiran Alles and Acting Inspector General of Police Deshabandu Thennakoon launched the programme at the CCTV division in Colombo with the identification of the first traffic violation through the CCTV system.
+
+There are reportedly at least 108 CCTV cameras within the Colombo city, covering the main locations and flyovers.
+
+Despite the programme being launched today, a week-long awareness campaign for motorists will also be held about this programme.
+
+From February 01 the implementation of the law against traffic violators will commence, the IGP said.
+
+Tennakoon emphasized that through the CCTV traffic violation identification system, officers on traffic duty will be able to provide an efficient service to minimize traffic congestions.
+
+...
+
+[Data](articles/93b36d8e.json)
+
+[Extended Data](ext_articles/93b36d8e.ext.json)
+
+---
+
+### Our Five Peoples Beliyagoda
+
+*2024-01-22 12:03:36* · [`adalk`](https://www.ada.lk/breaking_news/බෙලි-අත්තේදී-ඝාතනය-වූ-පස්දෙනා-අතර-අපේ-ජන-බල-පක්ෂ-නායකයාත්/11-407661) · `si`
+
+It is reported that the five member of the Five persons who have been shot dead in Beliatta this morning are also present.
+
+Saman Perera has been charged with the Chairman of the Balapitiya Prahenthetic Palace and his son.
+
+◼️
+
+[Data](articles/c6da063d.json)
+
+[Extended Data](ext_articles/c6da063d.ext.json)
 
 ---
 
@@ -129,6 +351,22 @@ Meanwhile, the list of 4,500 people involved in the drug trade in Sri Lanka has 
 [Data](articles/269f428b.json)
 
 [Extended Data](ext_articles/269f428b.ext.json)
+
+---
+
+### ’Yukithiya’ proves to be a drama: SJB MP
+
+*2024-01-22 11:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukithiya-proves-to-be-a-drama-SJB-MP/108-275487) · `en`
+
+Colombo, Jan. 22 (Daily Mirror)- Referring to the killing of five persons, including a political party leader in Belliatta thus morning, Samagi Jana Balawegaya (SJB) MP Sujith Sanjaya Perera said the 'Yukthiya operation' has been proven to be a drama.
+
+“A large scale operation is not needed if Acting IGP Deshabandu Tennekoon had carried out his duties effectively during his past years of service in the police," he said.
+
+◼️
+
+[Data](articles/92a99c5c.json)
+
+[Extended Data](ext_articles/92a99c5c.ext.json)
 
 ---
 
@@ -276,6 +514,24 @@ Ayodhya, once dotted with tightly packed houses and rundown stalls, has undergon
 
 ---
 
+### NPP Dilemma: Rhetoric vs. Reality, Present Ideology vs.Past Ideology
+
+*2024-01-22 11:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/NPP-Dilemma-Rhetoric-vs-Reality-Present-Ideology-vs-Past-Ideology/155-275486) · `en`
+
+Colombo, Jan. 22 (Daily Mirror)- With vital elections looming on the horizon , rhetorical remarks from across the political divide have become the norm for each passing day.
+
+It is common for political leaders of all hues to fine-tune their speeches with rhetorical language as a vote catching ,crowd pulling exercise. In the process, what is done is ostensible concealment of truth from the general public in the couch of rhetorical language . Voters who get carried away by political rhetoric are at the receiving end finally.
+
+In recent times , the National People’s Power , the political amalgamation led by the Marxist party Janatha Vimukthi Peramuna (JVP) , has launched into swift action ahead of the presidential election to be announced likely in September, this year .
+
+...
+
+[Data](articles/009b70b7.json)
+
+[Extended Data](ext_articles/009b70b7.ext.json)
+
+---
+
 ### Ice narcotics abducted in car with a dog to intimidate police
 
 *2024-01-22 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/174496) · `ta`
@@ -293,6 +549,30 @@ According to reports received that ice drugs were smuggled through the Kirivathu
 [Data](articles/27ddf816.json)
 
 [Extended Data](ext_articles/27ddf816.ext.json)
+
+---
+
+### 5 Women who pregnant women
+
+*2024-01-22 11:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/5-பெண்களை-கர்ப்பமாக்கிய-ஐவருக்கும்-வளைகாப்பு-நடத்தி-அசத்தல்/53-331941) · `ta`
+
+The situation that we are two are us, and we are still one of us. If the situation of the countries lasts like this, there is a possibility that we can grow up. In this case, the incident of the baby shower for all five women pregnant and the simultaneous baby shower has gone viral.
+
+Zedi, a US -based musician, has made 5 women pregnant.
+
+The interesting incident of all five of them was held simultaneously. Photos of this are going viral on social networks.
+
+Although he has often been in touch with 5 people, everyone has been pregnant by a few days.. The man is 22 years old.
+
+The incident was revealed to the world after the incident was posted on social networks, Ashley, a 29 -year -old woman who was pregnant with Zadi.
+
+More than 1 crore people have shared this post and shared it. Ashley said that if everything is well done, the number of family soon is 11.
+
+...
+
+[Data](articles/6bfd2558.json)
+
+[Extended Data](ext_articles/6bfd2558.ext.json)
 
 ---
 
@@ -634,6 +914,30 @@ Date of announcement of the Monetary Policy Review: No. 01 of 2024 – Tuesday, 
 
 ---
 
+### Army Special Force member arrested for a number of murders
+
+*2024-01-22 10:06:04* · [`adalk`](https://www.ada.lk/breaking_news/ඝාතන-රැසක-වෙඩික්කරුවෙක්-වන-යුද-හමුදා-විශේෂ-බලකා-සාමාජිකයෙක්-අත්අඩංගුවට/11-407658) · `si`
+
+The Police Special Task Force has been arrested in Kahathuduwa
+
+Police have seized 18 millions of ice dense and access to anti uniforms and access to the suspect's Kahathuduwa.
+
+The suspect was working at the Kilinochchi Army Camp when the suspect was arrested on information received by the Northern Province of the Northern Province.
+
+The suspect had been shot dead in Kosgoda, Kosgoda, 2023 -06 -21, the suspect was shot dead in Kosgoda, 2023 -06 -21.
+
+The fishing businessman was assassinated on January 18, 2024, a large number of persons arrested by the Police Special Task Force in the Kosgoda area in Kosgoda area was sent to the police, the suspected police copyright looking for the policePolice said.
+
+Police investigations have revealed that the suspect was the shot of organized criminal, an organized criminal, a larger criminal.
+
+...
+
+[Data](articles/6349fd8e.json)
+
+[Extended Data](ext_articles/6349fd8e.ext.json)
+
+---
+
 ### DEPnder firing in Beliyatta: 5 deaths
 
 *2024-01-22 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174490) · `ta`
@@ -673,6 +977,28 @@ Police suspect that underworld criminal Kosgoda Sujee's gang has carried out the
 [Data](articles/8d112752.json)
 
 [Extended Data](ext_articles/8d112752.ext.json)
+
+---
+
+### Five killed in shooting in Beliatta
+
+*2024-01-22 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Five-killed-in-shooting-in-Beliatta/108-275481) · `en`
+
+Beliatta, Jan 22 (Daily Mirror) - Five killed after shooting incident in Beliatta
+
+At least five persons were killed in a shooting incident near the Beliatta interchange on the Southern Expressway.
+
+Four persons have reportedly lost their lives at the scene while another had died upon admission to hospital.
+
+The shooting had taken place today at around 7.45 am, when a group in a Prado type vehicle had opened fire at another group in a Defender jeep.
+
+Police suspect that underworld criminal Kosgoda Sujee's gang has carried out the shooting.
+
+◼️
+
+[Data](articles/b7ccd461.json)
+
+[Extended Data](ext_articles/b7ccd461.ext.json)
 
 ---
 
@@ -1212,6 +1538,28 @@ Mahbubul Alam said garments, pharmaceuticals, eco-tourism and hospitality are so
 
 ---
 
+### Climate Change: Should you and go out of the villages?
+
+*2024-01-22 07:41:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6pe4045v5do) · `si`
+
+Due to various human activity, the world community is focused on the world community, the entire world today. It is no secret that there will be a heavy economic impact on climate change.
+
+Due to the growth of glaciers, the greenhouse effect is developing global warming, unexpected floods, severe floods, severe floods, and a large number of refugees and migrants are in creation due to a large number of refugees and migrants. This has become a managed problem with certain states.
+
+What is Climate Change? "The Climate Crisis in Pakistan: 'I have not had the option to sell my daughter,' Sri Lankan women have decided not to receive
+
+Until recently, the term "climate change" was not so familiar to Sri Lankans. However, some have now paid attention to the recently unnatural extreme weather conditions.
+
+Sri Lanka is also facing the influence of the influence of climatic and climate change and is now informed of the article in knowledge and ignorantly.
+
+...
+
+[Data](articles/c1cc648c.json)
+
+[Extended Data](ext_articles/c1cc648c.ext.json)
+
+---
+
 ### Gaza is a dead tree - 178 deaths
 
 *2024-01-22 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192414) · `si`
@@ -1691,287 +2039,5 @@ Many trade visitors from Sri Lanka attend this show every year.
 [Data](articles/ec2f336d.json)
 
 [Extended Data](ext_articles/ec2f336d.ext.json)
-
----
-
-### Kapruka Holdings strengthens E-commerce reach through strategic partnership with Shiro Hana
-
-*2024-01-22 01:08:06* · [`dailyftlk`](https://www.ft.lk/business/Kapruka-Holdings-strengthens-E-commerce-reach-through-strategic-partnership-with-Shiro-Hana/34-757609) · `en`
-
-Kapruka Holdings Plc, the industry leader in e-commerce, has announced a strategic partnership with Shiro Hana (Huejay International Multiflora Ltd.), the leader in Sri Lanka’s cut-flower industry. This collaboration is facilitated through Kapruka’s innovative vendor portal, Kapruka Partner Central, signaling a significant step forward in providing an enhanced shopping experience for local and global customers.
-
-The synergy between Kapruka and Shiro Hana aims to enrich the shopping experience for customers, offering a broader range of products. Through Kapruka Partner Central, vendors like Shiro Hana can showcase their offerings to both Sri Lankan and international customers, providing a diverse selection comparable to global e-commerce giants.
-
-...
-
-[Data](articles/03448505.json)
-
-[Extended Data](ext_articles/03448505.ext.json)
-
----
-
-### VAT could be reduced to 15% if VAT registered persons and businesses expand: Minister
-
-*2024-01-22 00:28:00* · [`islandlk`](http://island.lk/vat-could-be-reduced-to-15-if-vat-registered-persons-and-businesses-expand-minister/) · `en`
-
-Value Added Tax (VAT) can be reduced to 15% to equalize with its previous level if all businesses in Sri Lanka register for VAT, Bandula Gunawardena, the Minister of Transport, Highways, and Mass Media said on Saturday.
-
-He said so while visiting a food factory in Kolonnawa where fruit dices and floats are produced for the wider cake industry.
-
-“Young people in this country have opportunities to stand on their feet without engaging in hateful rhetoric about the society if they reimagine and rekindle the entrepreneurial spirit within them and start their own businesses. We have the opportunity to produce goods and deliver services to countries such as India, China, Japan and South Korea. They are huge economies and we can access those markets with tax-free benefits. When such a manufacturing and business culture is embedded in our society, there would be enough liquidity to ease the burden on the vulnerable sections of the society.
-
-...
-
-[Data](articles/c36394bf.json)
-
-[Extended Data](ext_articles/c36394bf.ext.json)
-
----
-
-### People’s Bank, one of the most awarded Sri Lankan banks in 2023
-
-*2024-01-22 00:27:00* · [`islandlk`](http://island.lk/peoples-bank-one-of-the-most-awarded-sri-lankan-banks-in-2023/) · `en`
-
-Growing from strength to strength with each passing year, People’s Bank was bestowed with a multitude of international and local business excellence awards in the year 2023. The recognition is a testament to the Bank’s contribution to financially uplift its customers and to power economic development of the country throughout the past 62 years. Today, the Bank has a customer base of over 14.7 million and consolidated assets of over Rs.3 trillion, with a strong digital footprint and 747 outlets across the country – providing a full range of banking services to individuals and SMEs.
-
-...
-
-[Data](articles/1ec99555.json)
-
-[Extended Data](ext_articles/1ec99555.ext.json)
-
----
-
-### ‘Union Bank Elite Circle’ redefines personalised banking
-
-*2024-01-22 00:27:00* · [`islandlk`](http://island.lk/union-bank-elite-circle-redefines-personalised-banking/) · `en`
-
-Union Bank recently relaunched its private banking proposition, ‘Union Bank Elite Circle,’ with a selection of new features tailored to its customers’ specific needs. The most recent transformation enhances its bespoke service and tailored financial solutions, providing customers with a world of privileges and luxuries for an exclusive banking experience. The Bank recently launched a campaign theme “The Finer Things in Life Should Extend to Your Banking,” with the goal of raising awareness about the newly enhanced product.
-
-A team of dedicated relationship managers ensures a seamless banking experience with a wide range of financial solutions and services ranging from personalised banking and wealth management to expert advisory, reinforcing the hallmarks of personalised service. The exclusive Union Bank Elite Circle Centre, located in the heart of Colombo and the dedicated exclusive spaces across the branch network provides maximum convenience to its members.
-
-...
-
-[Data](articles/9931210f.json)
-
-[Extended Data](ext_articles/9931210f.ext.json)
-
----
-
-### The Status of Tamils in Ceylon, Waxed and Waned in the Pre and Post-Independence Eras Respectively
-
-*2024-01-22 00:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Status-of-Tamils-in-Ceylon-Waxed-and-Waned-in-the-Pre-and-Post-Independence-Eras-Respectively/172-275447) · `en`
-
-As far as the Tamils are concerned in Ceylon/Sri Lanka, their situation during the pre-independence era was hunky-dory, whereas in the post-independence era, it has stirred up a hornet’s nest and hamstrung the political and social fabric, which was a consequence of the act of political hanky-panky and the hegemony of the native rulers. The plight of Tamils has been agonizing and antagonistic, with deaths and destructions, wounds, loss of limbs, disabilities, enforced disappearances, property losses, internal displacements, even the rape and murder of a schoolgirl and women, and so on.
-
-...
-
-[Data](articles/2bdb03b1.json)
-
-[Extended Data](ext_articles/2bdb03b1.ext.json)
-
----
-
-### Why becoming Sri Lanka and Australia Chamber of Commerce member is a profitable idea
-
-*2024-01-22 00:03:00* · [`islandlk`](http://island.lk/why-becoming-sri-lanka-and-australia-chamber-of-commerce-member-is-a-profitable-idea/) · `en`
-
-The following are excerpts from an interview with Kalum De Silva, President of the Sri Lanka and Australia Chamber of Commerce (SLACC). The Chamber’s vision is to be the leading platform for fostering trade and investment between Sri Lanka and Australia with a view to contributing to the economic and social development of both nations. If you are looking for a platform that can help you grow your business, expand your network and access new opportunities in the dynamic markets of Sri Lanka and Australia, here is an interview article that gives you an exclusive scoop.
-
-Q. Why does SLACC think deepening Australia-Sri Lanka ties is vital as our nations drive ahead in a changing global environment?
-
-...
-
-[Data](articles/42497f0d.json)
-
-[Extended Data](ext_articles/42497f0d.ext.json)
-
----
-
-### Sanasa holds annual Nelum Mal Pooja in Anuradhapura
-
-*2024-01-22 00:03:00* · [`islandlk`](http://island.lk/sanasa-holds-annual-nelum-mal-pooja-in-anuradhapura/) · `en`
-
-The annual Buddhist event of offering lotus flowers (Nelum Pooja) at the premises of Ruwanweli Maha Seya and Jaya Sri Maha Bodhi in Anuradhapura organised by the Sanasa Movement was held recently for the 24th time. This year’s event, held to bestow blessings on all Sri Lankans, was carried forth by Sanasa societies, led by the Bodhi Rajapura Sanasa Society in Puttalam.
-
-This year’s event, which commenced with the offering of lotus flowers to Jaya Sri Maha Bodhi on 6 January and concluded with the offering of milk-based food (Kiri Ahara Pooja) for Ruwanweli Maha Seya and the almsgiving at Abhayagiriya in the afternoon on 7 January, was held under the patronage of the Leader of the Sanasa Movement, Dr. P. A. Kiriwandeniya. Thousands of devotees from all parts of the island representing Sanasa societies took part in it.
-
-Why becoming Sri Lanka and Australia Chamber of Commerce member is a profitable idea
-
-Sanasa unveils action plan to develop 5,000 villages through 1,250 Sanasa societies
-
-...
-
-[Data](articles/49bce5fe.json)
-
-[Extended Data](ext_articles/49bce5fe.ext.json)
-
----
-
-### Marine product and service provider recognised at National Industry Excellence Awards
-
-*2024-01-22 00:02:00* · [`islandlk`](http://island.lk/marine-product-and-service-provider-recognised-at-national-industry-excellence-awards/) · `en`
-
-Saram Auto Industries, a leading marine product and service provider in the country, claimed the Bronze Award in the metal casting category (small scale) at National Industry Excellence Awards 2023 organised by the Industrial Development Board (IDB). The award was received by the Owner of Saram Auto Industries Ranjith Saram at the award ceremony held at Nelum Pokuna Mahinda Rajapaksa Theatre in Colombo under the patronage of President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/b85c8097.json)
-
-[Extended Data](ext_articles/b85c8097.ext.json)
-
----
-
-### Price Controls Needed to Protect Poorer Sections of Society - EDITORIAL
-
-*2024-01-22 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Price-Controls-Needed-to-Protect-Poorer-Sections-of-Society-EDITORIAL/172-275439) · `en`
-
-Since the economic meltdown, many of us realise that bad practices of the past – spending far more than we earn – has led us down to the sorry path we find ourselves in. Political leaders claim that we are no longer a bankrupt nation and have substantial dollar reserves. The reality sadly is, the situation is not so rosy.
-
-A portion of these ‘reserves’ comprises credit lines, funds lent by the International Monetary Fund (IMF), the World Bank, the Asian Development Bank (ADB) and other multi-lateral lending agencies. Some funds are also tied to particular conditions.
-
-So while we do have a certain amount of ‘money in the bank’ so-to-say, it is not ours to spend as we would wish. Far worse, we have as yet not commenced repaying our international creditors as the negotiations are ongoing. So the situation is not as good as portrayed.
-
-...
-
-[Data](articles/ce450341.json)
-
-[Extended Data](ext_articles/ce450341.ext.json)
-
----
-
-### Huawei OptiX OSN 9800 series once again ranks as leader in Core and Metro WDM by GlobalData
-
-*2024-01-22 00:01:00* · [`islandlk`](http://island.lk/huawei-optix-osn-9800-series-once-again-ranks-as-leader-in-core-and-metro-wdm-by-globaldata/) · `en`
-
-GlobalData, a global authoritative consulting firm, has released its latest Metro & Core Packet-Optical Transport/Platform: Competitive Landscape Assessment. In the report, Huawei OptiX OSN 9800 series features leading architecture, ultra-large capacity, excellent transmission performance, and mature commercial use cases. All this has helped Huawei rank as “Leader” with the highest scores in core and metro WDM by GlobalData.
-
-...
-
-[Data](articles/00732313.json)
-
-[Extended Data](ext_articles/00732313.ext.json)
-
----
-
-### Russia wants Sri Lanka to maintain neutrality on Ukraine despite Western Pressure - Ambassador Levan Dzhagaryan
-
-*2024-01-22 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Russia-wants-Sri-Lanka-to-maintain-neutrality-on-Ukraine-despite-Western-Pressure-Ambassador-Levan-Dzhagaryan/231-275441) · `en`
-
-Russian Ambassador Levan Dzhagaryan, in an interview with Daily Mirror, discusses the current status of bilateral ties, and what is being planned for the future.
-
-Q  How did the recent visit of a top level Russian delegation help elevate bilateral ties?
-
-We are satisfied with the current level of our bilateral relations. Another indication of it was the visit of a high-ranking Russian delegation.
-
-It was a rather big delegation of more than 40 people, headed by Nikolai Patrushev, the Secretary of the Security Council of the Russian Federation.   He had a very important meeting with President Ranil Wickremesinghe on   December 6, 2023. He had a meeting with Defence Secretary, Major General (Rtd) Kamal Gunaratne. The latter was in Moscow in May, last year. So it’s a continuation of bilateral dialogue. Also, Mr. Patrushev, when he was in Colombo last December, extended his invitation to Mr. Gunaratne to visit Russia in the coming year.
-
-...
-
-[Data](articles/67056118.json)
-
-[Extended Data](ext_articles/67056118.ext.json)
-
----
-
-### Avalokiteshvaras in Every Sphere of Sasana: a Growing Gap between Dhamma & Buddhism
-
-*2024-01-22 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Avalokiteshvaras-in-Every-Sphere-of-Sasana-a-Growing-Gap-between-Dhamma-Buddhism/172-275438) · `en`
-
-Followers of wholesome Dhamma need not be disturbed by individuals like Jeromes, Sepalas, Natashas, Ruwans, or Avalokiteshvaras; these are insignificant ‘outside’ influences, a phenomenon that existed even in the times of the Buddha. The growing concern lies in the emerging threat posed by ‘Devadattas’ operating within the Sasana.
-
-...
-
-[Data](articles/67e9f781.json)
-
-[Extended Data](ext_articles/67e9f781.ext.json)
-
----
-
-### 2024-01-21 (Sunday)
-
-### Society 5.0: Is it a myth or a miracle?
-
-*2024-01-21 23:18:14* · [`dailyftlk`](https://www.ft.lk/columns/Society-5-0-Is-it-a-myth-or-a-miracle/4-757585) · `en`
-
-Urbanisation, smart cities, climate change, temporariness and aged populations are a few among many other reasons as to why firms and nations should focus on Society 5.0
-
-In an ever-changing world, one cannot find a risk-free venture, investment, event, or an activity. Risk should necessarily be examined by looking at the probability of occurrence and the impact. Technology can play a vital role in mitigating the risks by addressing both the impact and probability of occurrence. Designers and developers of Society 5.0 solutions should necessarily use best practices such as secure by design in mitigating risks
-
-...
-
-[Data](articles/8030e805.json)
-
-[Extended Data](ext_articles/8030e805.ext.json)
-
----
-
-### President meets Sri Lankan entrepreneurs based in Kenya, assures fullest support
-
-*2024-01-21 23:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Sri-Lankan-entrepreneurs-based-in-Kenya-assures-fullest-support/108-275460) · `en`
-
-Jan 21- President Ranil Wickremesinghe had a fruitful meeting with Sri Lankan entrepreneurs based in Kenya, discussing collaborative opportunities and fostering stronger ties between the two nations.
-
-The President assured full government support to these entrepreneurs, emphasizing the commitment to fostering a conducive environment for their success and contributions to the economy.
-
-◼️
-
-[Data](articles/4b1a9d9d.json)
-
-[Extended Data](ext_articles/4b1a9d9d.ext.json)
-
----
-
-### President meets Sri Lankan entrepreneurs in Kenya, assures fullest support
-
-*2024-01-21 23:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Sri-Lankan-entrepreneurs-in-Kenya-assures-fullest-support/108-275460) · `en`
-
-Jan 21- President Ranil Wickremesinghe had a fruitful meeting with Sri Lankan entrepreneurs based in Kenya, discussing collaborative opportunities and fostering stronger ties between the two nations.
-
-The President assured full government support to these entrepreneurs, emphasizing the commitment to fostering a conducive environment for their success and contributions to the economy.
-
-◼️
-
-[Data](articles/f788aabb.json)
-
-[Extended Data](ext_articles/f788aabb.ext.json)
-
----
-
-### In this election year, Sri Lanka needs a lot of rationally thinking people
-
-*2024-01-21 22:48:25* · [`dailyftlk`](https://www.ft.lk/columns/In-this-election-year-Sri-Lanka-needs-a-lot-of-rationally-thinking-people/4-757583) · `en`
-
-Instead of being rational choosers, they have acted on emotions created by political leaders of all hues  – Pic by Shehan Gunasekara
-
-At an election, political leaders would emotionalise voters to gain power but after the election, they simply forget about it leaving the voters in the lurch. Hence, acting rationally is a must for voters at the forthcoming elections
-
-In 2024, Sri Lankan voters will be given the choice of electing their leaders through the power of the ballot. This is an important occasion for Sri Lanka which is a long surviving democracy in South Asia, next only to India. However, a common allegation is that, throughout the post-independence history, the voters have not done their job correctly. Instead of being rational choosers, they have acted on emotions created by political leaders of all hues.
-
-...
-
-[Data](articles/278bb946.json)
-
-[Extended Data](ext_articles/278bb946.ext.json)
-
----
-
-### President meets UN chief and state leaders during ‘G77 and China’ summit
-
-*2024-01-21 22:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96606/president-meets-un-chief-and-state-leaders-during-g77-and-china-summit) · `en`
-
-President Ranil Wickremesinghe participated in the 3rd South Summit “G77 and China,” commencing today (21) in Kampala, Uganda. During the event, he engaged in fruitful discussions with numerous state leaders and representatives.
-
-This morning (21), President Ranil Wickremesinghe held a significant meeting with Dr. Riyad Malki, Palestine’s Minister of Foreign Affairs and Expatriates. Additionally, he met with Maldives Vice President Hussain Mohamed Latheef, fostering dialogue and collaboration.
-
-Further, President Ranil Wickremesinghe convened with UN Secretary-General Antonio Guterres on the same day (21), discussing matters of global significance.
-
-In a separate engagement, Indian Minister of State for External Affairs, Mr. Shri V. Muraleedharan, had a constructive discussion with President Ranil Wickremesinghe, emphasizing bilateral relations.
-
-...
-
-[Data](articles/74655438.json)
-
-[Extended Data](ext_articles/74655438.ext.json)
 
 ---

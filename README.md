@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 08:51:26**
+As of **2024-01-22 09:17:16**
 
 ## Newspaper Stats
 
-*Scraped **1,691** Articles*
+*Scraped **1,696** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
-bbccomsinhala | 38
-adaderanasinhalalk | 78
+bbccomsinhala | 39
+adaderanasinhalalk | 80
 economynextcom | 104
 islandlk | 108
 newsfirstlk | 109
 dbsjeyarajcom | 121
 virakesarilk | 156
 dailyftlk | 159
-adalk | 180
+adalk | 182
 dailymirrorlk | 197
 tamilmirrorlk | 203
 adaderanalk | 209
@@ -26,11 +26,43 @@ adaderanalk | 209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,492 (88.2%) of 1,691 articles have been extended.
+1,501 (88.5%) of 1,696 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### යුක්තියට තවත් පිරිසක් කොටුවෙති
+
+*2024-01-22 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192418) · `si`
+
+යුක්තිය විශේෂ මත්ද්‍රව්‍ය මෙහෙයුම යටතේ අද (22) අලුයම 12.30න් අවසන් වූ පැය 24 තුළ සිදුකළ මෙහෙයුම්වලදී සැකකරුවන් 910 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/ae14eeff.json)
+
+---
+
+### අමානුෂික ඝාතනයක්
+
+*2024-01-22 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192417) · `si`
+
+දෙහිඕවිට දිගල ප්‍රදේශයේ දී පුද්ගලයෙකුට පොරවකින් හා ගල්ඉන්නකින් පහර දී ඝාතනය කර ඇත.
+
+ඊයේ  (21) සවස මෙම ඝාතනය සිදුව ඇති අතර මෙලෙස මියගොස් ඇත්තේ 42 ක්වූ දිගල දෙහිඕවිට ප්‍රදේශයේ පදිංචිකරුවෙකි.
+
+මියගිය පුද්ගලයා බීමත්ව පැමිණ සිය සහෝදරිය සමඟ ආරවුලක් ඇති කරගෙන ඇයට පහරදීමක් සිදුකර තිබේ.
+
+පසුව ඇගේ ස්වාමි පුරුෂයා පැමිණ මෙම පුද්ගලයාට පොරවකින් හා ගල්ඉන්නකින් පහර දී ඇති අතර එහිදි ඔහු මියගොස් ඇති බව පොලීසිය පවසයි.
+
+43 හැවිරිදි සැකකරු අත්අඩංගුවට ගෙන ඇති අතර දෙහිඕවිට පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+
+◼️
+
+[Data](articles/1f0d4c06.json)
+
+---
 
 ### The Utilities Commission to Meet About Electricity tariff
 
@@ -96,6 +128,8 @@ Mahbubul Alam said garments, pharmaceuticals, eco-tourism and hospitality are so
 
 [Data](articles/0f14e981.json)
 
+[Extended Data](ext_articles/0f14e981.ext.json)
+
 ---
 
 ### Gaza is a dead tree - 178 deaths
@@ -136,6 +170,8 @@ Misty conditions can be expected at some places in Sabaragamuwa and Central prov
 
 [Data](articles/89c66caf.json)
 
+[Extended Data](ext_articles/89c66caf.ext.json)
+
 ---
 
 ### More than 25,000 now killed in Gaza, Hamas-run health ministry says
@@ -157,6 +193,8 @@ In its first public account of the October assault, published on Sunday, Hamas d
 ...
 
 [Data](articles/597ac9d2.json)
+
+[Extended Data](ext_articles/597ac9d2.ext.json)
 
 ---
 
@@ -293,6 +331,30 @@ It has been discussed on the creation of stability and creation of stability to 
 [Data](articles/1bf964b5.json)
 
 [Extended Data](ext_articles/1bf964b5.ext.json)
+
+---
+
+### "The least of the minimum facilities is treated with disabilities."
+
+*2024-01-22 02:05:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cle7e7q1j38o) · `si`
+
+There is no need to contain anything here. Play Video, "'We are treating disabilities in the middle of the minimum facilities.'" The Running Time is receiving treatment with disabilities.
+
+People receiving treatment at Munkulam The Association of Munkulam is receiving treatment in the middle of the minimum facilities.
+
+The war is treated with disabilities due to war and various accidents.
+
+"We are providing financial assistance abroad. But it has been abandoned with the economic situation now.
+
+About 250 people who have suffered disabilities registered. But there are only two people who are residing in treatment.
+
+They say they faced many problems in transport and that they have lost their votes due to the trip.
+
+◼️
+
+[Data](articles/ca4e5686.json)
+
+[Extended Data](ext_articles/ca4e5686.ext.json)
 
 ---
 
@@ -1004,6 +1066,22 @@ During the ceremony, the first batch of 197 passports was handed over to the res
 
 ---
 
+### 2022 මැයි සිට 2023 දෙසැ.31දා දක්වා කර්මාන්ත 77,118ක් වැහිලා
+
+*2024-01-21 20:42:11* · [`adalk`](https://www.ada.lk/breaking_news/2022-මැයි-සිට-2023-දෙසැ-31දා-දක්වා-කර්මාන්ත-77-118ක්-වැහිලා/11-407653) · `si`
+
+ගෙවීගිය 2022 වර්ෂයේ මැයි මාසයේ සිට 2023 දෙසැම්බර් 31 දක්වා කාලසීමාව තුළදී මධ්‍ය පරිමාණ, කුඩා සහ ඉතා කුඩා කර්මාන්ත 77,118ක් පමණ වැසී ගොස් ඇති බව ජන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව මගින් ජනවාරි 19දා  ඉදිරිපත් කර ඇති දත්ත අනුව පෙනී යන බව පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා සහ සංඛ්‍යයන අංශයේ මහාචාර්ය වසන්ත අතුකෝරළ මහතා සමගපැවසීය.
+
+2020 වසරේකර්මාන්ත සංඛ්‍යාව 87,907ක් වැසී ගොස් ඇති බවත් ඒ වන විට පැවති ආර්ථික අර්බුදය,  කෝවිඩ් වසංගතය සහ රාජ්‍ය ප්‍රතිපත්තිවල දුර්වලතා නිසා රට පුරා විසිර පවත්නා මෙවැනි කර්මාන්ත විශාල ප්‍රමාණයක් පසුගිය වසර තුළදී වැසී ගොස් ඇති බවත් මහාචාර්යවරයා සඳහන් කරන ලදී.
+
+රටේ දළ දේශීය නිෂ්පාදනය, සේවා නියුක්තියට මෙන්ම ග්‍රාමීය ජනතාවගේ ජීවන තත්ත්වය සඳහා දැඩිව බලපා ඇති බව සඳහන් කළ මහාචාර්යවරයා,මෙවැනි කර්මාන්ත වැසීයාමෙන් රටේ ජනතාවට විශාල වශයෙන් අහිතකර තත්ත්වයක් මතුව ඇති බවද මහාචාර්යවරයාපෙන්වා දුන්නේය.
+
+◼️
+
+[Data](articles/6660c68d.json)
+
+---
+
 ### Fish to Peliyagoda bandels prices
 
 *2024-01-21 20:37:46* · [`adalk`](https://www.ada.lk/breaking_news/පෑලියගොඩට-ආපු-මාලු--එළවළු-මිල-බස්සවයි/11-407652) · `si`
@@ -1021,6 +1099,22 @@ If the government acts the government, the farmers are first gathered to the str
 [Data](articles/356e1c22.json)
 
 [Extended Data](ext_articles/356e1c22.ext.json)
+
+---
+
+### කොළඹ CCTV දඩකොළ නියමු ව්‍යාපෘතිය අද සිට
+
+*2024-01-21 20:31:26* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-CCTV-දඩකොළ-නියමු-ව්‍යාපෘතිය-අද-සිට/11-407651) · `si`
+
+කොළඹ නගරයේ ස්ථාපිත කර තිබෙන ආරක්ෂිත කැමරා මගින්  රථවාහන වැරදි  නිරීක්ෂණය කර  රථවාහන හිමිකරුවන් වෙත දඩ කොළ යැවීමේ  නියමු ව්‍යාපෘතිය අද (22දා) ආරම්භ වේ.
+
+මේ වැඩපිළිවෙළ කොළඹ ඕල්කට් මාවතේ පිහිටි  CCTV කොට්ඨාසයේදීආරම්භ කිරීමට නියමිතව තිබෙන අතර,මේ සඳහා  මහජන ආරක්ෂක අමාත්‍ය  ටිරන් අලස් මහතා, වැඩබලන පොලිස්පති  දේශබන්දු තෙන්නකෝන් මහතා හා  මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තු නිලධාරීන්  සභාභාගි වීමට නියමිතය.
+
+සති දෙකක පමණ කාලයක් මෙම වැඩපිළිවෙළ නියමු ව්‍යාපෘතියක් ලෙස ක්‍රියාත්මක කිරීමට සැලසුම් කර  තිබෙන අතර, ආරක්ෂිත කැමරා මගින් රථවාහන වැරදි නිරීක්ෂණය කර අදාළ තොරතුරු වාහන හිමිකරු පදිංචිව සිටින බල ප්‍රදේශයේ පොලිස් ස්ථානයට යොමු කර  වාහන හිමියන්ට දඩපත්‍රිකා ලබා දීමට සැලසුම් කර ඇත.
+
+◼️
+
+[Data](articles/e7e3c5bb.json)
 
 ---
 
@@ -1921,107 +2015,5 @@ Furthermore, the Minister expressed that he has instructed the relevant authorit
 [Data](articles/95149291.json)
 
 [Extended Data](ext_articles/95149291.ext.json)
-
----
-
-### Monk arrested for drunken woman's house and abused the woman
-
-*2024-01-21 14:36:01* · [`adalk`](https://www.ada.lk/breaking_news/බීමත්ව-කාන්තාවකගේ-නිවසට-ගොස්-එම-කාන්තාවට-අතවර-කල-චීවරධාරියෙකු-අල්ලයි/11-407644) · `si`
-
-According to a complaint from a woman, the monk was arrested following a complaint received by a woman to abuse and sexually abusing her home in Anuradhapura.
-
-The arrested was a monk who was named in a temple in the Buduruwagala area in Wellawaya.
-
-The complaint had been lodged by a woman in Sravasthipura, Sravasthipura, a sub-Inspector General of Police.
-
-The name of this name was to be produced before the Anuradhapura General Hospital for the Anuradhapura Hospital.
-
-A team of the Anuradhapura headquarters police officers is conducting further investigations.
-
-◼️
-
-[Data](articles/2262ce49.json)
-
-[Extended Data](ext_articles/2262ce49.ext.json)
-
----
-
-### Five soldiers arrested for gems
-
-*2024-01-21 14:30:14* · [`adalk`](https://www.ada.lk/breaking_news/මැණික්වලට-අඟරු-චෙක්-දුන්-පහක්-අත්අඩංගුවට/11-407643) · `si`
-
-Five persons including three women who have not been able to obtain the money for Rs. 2,87,500 / = (2,87,50000 / =)
-
-Suspects and suspects have been arrested for violating confidence, false use.
-
-The suspects and the suspects were arrested in Fort and Jaffna Police Divisions.
-
-The suspects are Beruwala and Jaffna residents aged between 25 and 37 years of age. The CID is conducting investigations.
-
-◼️
-
-[Data](articles/e5d6d773.json)
-
-[Extended Data](ext_articles/e5d6d773.ext.json)
-
----
-
-### “Those who are killed in the attack will be declared saints"
-
-*2024-01-21 14:24:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தாக்குதலில்-உயிரிழந்தவர்கள்-புனிதர்களாக-அறிவிக்கப்படுவர்/175-331895) · `ta`
-
-Archbishop of Colombo Cardinal Malcolm Ranjith says that the Catholic Church will declare the victims of the Easter Sunday attack.
-
-Speaking during the worship of St. Sebastian Church at Kandan, Cardinal Ranjith said the first step would be taken when the country celebrated the fifth anniversary of Easter Sunday bombings on April 21 this year.
-
-“On April 21, 2019, the dead in churches sacrificed their lives for their belief. They came to the church because they believed in Christ that day. They sacrificed their lives because they loved Christ like other saints, "he said.
-
-“One can name him as a saint only after five years of sacrifice. Therefore, we will move forward to the victims of Easter Sunday as saints on April 21 this year, ”he added.
-
-"Christianity is not just about engaging in religious worship in churches. We have to stand for justice. We need to speak for the justice of others. This is what Pope Francis has taught us in his scripture how to act. ”
-
-◼️
-
-[Data](articles/a1d559f2.json)
-
-[Extended Data](ext_articles/a1d559f2.ext.json)
-
----
-
-### Asia's toy military states
-
-*2024-01-21 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/174439) · `ta`
-
-Although the Chinese side and the Indian side are not focused on democracy and human rights, they have the main purpose of pulling the government in the regime.
-
-◼️
-
-[Data](articles/feaaec46.json)
-
-[Extended Data](ext_articles/feaaec46.ext.json)
-
----
-
-### Buses will not run from tomorrow; LPBOA leader
-
-*2024-01-21 14:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-பேருந்துகள்-இயங்காது-LPBOA-தலைவர்/175-331894) · `ta`
-
-The Sri Lanka Private Bus Owners Association (LPBOA) has said that the police will be implemented from tomorrow, as the police will implement the fines of bus owners based on CCTV footage.
-
-LPBOA leader Gemunu Wijeratne said that the police are planning to send fines from tomorrow based on CCTV footage.
-
-Commenting on the media, he said that it was unreasonable to send the fines of the buses to the owner of the bus.
-
-He said the police had taken the decision without any discussion with the bus association.
-
-Wijeratne said it was unreasonable to send the fines of the buses to the bus owner.
-
-He also said that if the bus owners are implemented and properly arranged for the buses to operate the priority path, the bus owners will comply with the proposal.
-
-◼️
-
-[Data](articles/3997cd41.json)
-
-[Extended Data](ext_articles/3997cd41.ext.json)
 
 ---

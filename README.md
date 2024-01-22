@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 08:13:05**
+As of **2024-01-22 08:20:16**
 
 ## Newspaper Stats
 
-*Scraped **1,686** Articles*
+*Scraped **1,687** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 38
-adaderanasinhalalk | 76
+adaderanasinhalalk | 77
 economynextcom | 104
 islandlk | 108
 newsfirstlk | 109
@@ -26,11 +26,29 @@ adaderanalk | 206
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,475 (87.5%) of 1,686 articles have been extended.
+1,475 (87.4%) of 1,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### කොළඹ රථවාහන වැරදි සොයන්න CCTV මෙහෙයුම් අද සිට
+
+*2024-01-22 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192415) · `si`
+
+කොළඹ ප්‍රදේශයේ රථවාහන වැරදි සිදුකරන රියදුරන් CCTV කැමරා ඔස්සේ හඳුනා ගැනීමේ විශේෂ වැඩපිළිවෙලක් අද (22) සිට ආරම්භ කරන බව පොලීසිය පවසයි.
+
+ඒ අනුව අද සිට එළඹෙන 31 වනදා දක්වා එය නියමු ව්‍යාපෘතියක් ලෙස කොළඹ නගරය ආශ්‍රිතව ක්‍රියාත්මක කිරීමට නියමිතය.
+
+එහිදී හඳුනාගන්නා මාර්ග නීති කඩ කරන රියදුරන්ට එරෙහිව ඉදිරියේ දී නීතිමය පියවර ගන්නා බවද පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී නීතීඥ නිහාල් තල්දුව මහතා සඳහන් කළේය.
+
+"මෙය නියමු ව්‍යාපෘතියක් විදියට ආරම්භ වෙනවා. මෙය කොළඹ නගරයේ පිහිටි පොලීසිය මඟින් නිරීක්ෂණ කරනු ලබන CCTV කැමරා පද්ධතිය හරහා අපි නිරීක්ෂණය කරනවා රථවාහන වැරදි කරන රියදුරන් කවුද කියලා. යම් වැරැද්දක් කරොත් අපි දැනුම් දෙන්නේ වාහනයේ අයිතිකරුට. ජනවාරි 31 වන තෙක් මේ කාලසීමාවේ මෙය නියමු ව්‍යාපෘතියක් ලෙස සිදුකරනවා. ජනවාරි 31 වනදායි පසුව දඩ පත්‍රිකා නිකුත් කිරීම ආරම්භ කරනවා."
+
+◼️
+
+[Data](articles/ebda549a.json)
+
+---
 
 ### Gaza is a dead tree - 178 deaths
 
@@ -1991,19 +2009,5 @@ Members of MPs, MA Sumanthiran, S. Sridhiran and Syashwaran had been elected to 
 [Data](articles/b549c231.json)
 
 [Extended Data](ext_articles/b549c231.ext.json)
-
----
-
-### The Tamil people are in the process of fighting against Tamil national parties
-
-*2024-01-21 13:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/174433) · `ta`
-
-Another party in the Tamil National Party claims that the Tamil national parties will not come to an integrated process in the case of the Tamil general candidate.. There may be some facts in this. The parties that are truely loyal in the position of suspending the Tamil general candidate can put pressure on the people and put pressure on the people.
-
-◼️
-
-[Data](articles/dfce2c7a.json)
-
-[Extended Data](ext_articles/dfce2c7a.ext.json)
 
 ---

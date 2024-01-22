@@ -1,36 +1,182 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 12:04:39**
+As of **2024-01-22 12:32:59**
 
 ## Newspaper Stats
 
-*Scraped **1,739** Articles*
+*Scraped **1,754** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 39
-adaderanasinhalalk | 87
-economynextcom | 104
+adaderanasinhalalk | 89
+economynextcom | 108
 islandlk | 108
 newsfirstlk | 112
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 161
-adalk | 184
+virakesarilk | 168
+adalk | 185
 dailymirrorlk | 202
 tamilmirrorlk | 216
-adaderanalk | 217
+adaderanalk | 218
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,584 (91.1%) of 1,739 articles have been extended.
+1,591 (90.7%) of 1,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### දයාසිරිට එරෙහි තහනම් නියෝගය දීර්ඝ කෙරේ
+
+*2024-01-22 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192427) · `si`
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන මහ ලේකම් සාරති දුෂ්මන්ත මිත්‍රපාල මහතාගේ කටයුතුවලට බාධා වන ආකාරයෙන් කටයුතු කිරීම වළක්වාලමින් එම පක්ෂයේ හිටපු මහලේකම් දයාසිරි ජයසේකර මහතා වෙත නිකුත් කළ වාරණ නියෝගය ලබන 29 වනදා දක්වා තවදුරටත් දීර්ඝ කිරීමට කොළඹ දිසා අධිකරණය අද (22) නියෝග කළේය.
+
+ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති මෛත්‍රීපාල සිරිසේන සහ එහි වැඩබලන මහලේකම් සාරති දුෂ්මන්ත මිත්‍රපාල යන මහත්වරු විසින් ඉදිරිපත් කළ පෙත්සමක් අද යළි කැඳවීමෙන් අනතුරුව මෙම නියෝග නිකුත් කෙරුණි.
+
+පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම වාරණ නියෝගයට අදාළව වගඋත්තරකරුවන් විරෝධතා ඉදිරිපත් කරන්නේ නම් එය ලබන 29 වනදා කැඳවන ලෙස ඉල්ලා සිටියේය.
+
+ඒ අනුව අදාළ විරෝධතා ගොනුකිරීමට වගඋත්තරකරුවන්ට අවසර ලබා දුන් අධිකරණය අනතුරුව පෙත්සම ලබන 29 වනදා කැඳවීමටද නියම කළේය.
+
+පෙත්සම්කරු කියා සිටින්නේ ශ්‍රී ලංකා නිදහස් පක්ෂයේ මධ්‍යම කාරක සභාව විසින් ගනු ලැබූ තීරණයකට අනුව එහි මහ ලේකම්වරයා වශයෙන් කටයුතු කළ දයාසිරි ජයසේකර මහතා එම තනතුරින් ඉවත් කළ බවය.
+
+...
+
+[Data](articles/16b4ef83.json)
+
+---
+
+### போதைப்பொருள் வலையமைப்புக்குப் பயன்படுத்தப்படும் குடு சலிந்துவுக்குச் சொந்தமான 79  சொகுசு வாகனங்கள்!
+
+*2024-01-22 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174502) · `ta`
+
+குடு சலிந்து என்ற ஒழுங்கமைக்கப்பட்ட குற்றவாளியும் பாரியளவிலான போதைப்பொருள் கடத்தல்காரனுமான பாணந்துறை சலிந்து 79 சொகுசு வாகனங்களை வைத்திருப்பதாகவும் அவற்றின் இலக்கத் தகடுகள் மாற்றப்பட்டு  போதைப்பொருள் வலையமைப்பில்  ஈடுபட்டுள்ளதாகவும் குற்றப் புலனாய்வுப் பிரிவினர் கண்டுபிடித்துள்ளனர்.
+
+26 வயதுடைய  குடு சலிந்து பல்வேறு நபர்களின் பெயர்களில் 48 வங்கிக் கணக்குகளை பராமரித்து வந்துள்ளதாக பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தெரிவித்துள்ளார்.
+
+மூன்றாண்டுகளுக்குள் இந்த நாற்பத்தெட்டு கணக்குகளில் 1,059 மில்லியன் ரூபா பணம் புழக்கத்தில் விடப்பட்டதாகவும் அவர் கூறினார்.
+
+இதேவேளை, இலங்கையில் போதைப்பொருள் வர்த்தகத்தில் ஈடுபடும்  4,500 பேரின் விபரப் பட்டியல் புலனாய்வுப் பிரிவினராலும் போதைப்பொருள் ஒழிப்புப் பிரிவினராலும் தயாரிக்கப்பட்டு அந்தந்த பகுதிகளின் சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களிடம் கையளிக்கப்பட்டுள்ளதாகவும்  தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/269f428b.json)
+
+---
+
+### Social Web Site as the force that determines diplomacy beyond politics
+
+*2024-01-22 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/174477) · `ta`
+
+Is it possible to mortgage the lives of millions of people in the name of development for the desires of Indians who seek revenge on the Maldives?
+
+In the contemporary world where politics and diplomacy are determined by the basis for the ideas that are spread through social networks, these people cannot succeed.
+
+This is because Indians and the Maldives do not have the number of influential numbers and energy on social networks.
+
+It is imperative to see the problem of these people beyond the mirror of the Internet.
+
+◼️
+
+[Data](articles/2beb2ad6.json)
+
+[Extended Data](ext_articles/2beb2ad6.ext.json)
+
+---
+
+### ஒழுங்கமைக்கப்பட்ட குற்றக் குழுக்களுடன் தொடர்பு:  இராணுவ அதிகாரி  கைது!
+
+*2024-01-22 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174501) · `ta`
+
+ஒழுங்கமைக்கப்பட்ட குற்றக் குழுக்களுடன் தொடர்பு கொண்டிருந்த குற்றச்சாட்டில் இராணுவ அதிகாரி ஒருவரை பொலிஸ் விசேட அதிரடிப்படையினர் கைது செய்துள்ளனர்.
+
+கஹதுடுவ, உஸ்வத்த பிரதேசத்தில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் இந்த இராணுவ அதிகாரி கைது செய்யப்பட்டதாக பொலிஸ் விசேட அதிரடிப்படை தெரிவித்துள்ளது.
+
+கடந்த வருடம் ஜூன் மாதம் 21 ஆம் திகதி பலப்பிட்டிய பிரதேசத்தில் நபர் ஒருவரைக் சுட்டுக் கொன்ற சம்பவம் மற்றும் 18 ஆம் திகதி பலபிட்டிய பிரதேசத்தில் கொலை செய்ய திட்டமிட்டமை தொடர்பில் சந்தேகநபர் தேடப்பட்டு வருவதாக தெரிவிக்கப்படுகிறது.
+
+இந்தச் சோதனையின் போது சந்தேகநபரின் வீட்டில் 18 கிராம் ஐஸ் போதைப்பொருளும் கண்டுபிடிக்கப்பட்டது.
+
+◼️
+
+[Data](articles/a81da53f.json)
+
+---
+
+### Trade unions to hold special discussion over interdiction of CEB employees
+
+*2024-01-22 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96617/trade-unions-to-hold-special-discussion-over-interdiction-of-ceb-employees) · `en`
+
+A special trade union discussion is set to take place today (22 Jan.), during which a decision against the recent interdiction of employees of the Ceylon Electricity Board (CEB) is due to be taken.
+
+Accordingly, nearly 100 trade unions from across the country are due to participate in the meeting today, which will be held under the leadership of the CEB trade unions.
+
+Meanwhile, civil society organisations have planned to launch a protest campaign in front of the CEB Head Office at 12:00 p.m. today, against the said interdiction of employees.
+
+On 15 January, the CEB suspended 15 clerical staff members in charge of the cash counters for inconveniencing the customers, who had come to pay their bills, by closing the windows of the counters and refraining from accepting payments.
+
+...
+
+[Data](articles/a1c8c9b7.json)
+
+---
+
+### புங்குடுதீவு வித்தியா கொலை வழக்கில் மரண தண்டனை விதிக்கப்பட்டுள்ளவர்களின் மேன்முறையீடு விசாரணை இன்று
+
+*2024-01-22 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/174493) · `ta`
+
+யாழ்ப்பாணம் – புங்குடுதீவு பகுதியில் சிவலோகநாதன் வித்தியா என்ற மாணவி கடத்திச் செல்லப்பட்டு, கூட்டுப் பாலியல் வன்புணர்வுக்கு உட்படுத்தப்பட்டு கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் மரண தண்டனை விதிக்கப்பட்டுள்ளவர்களின் மேன்முறையீடுகள்  திங்கட்கிழமை (22) விசாரணைக்கு எடுத்துக் கொள்ளப்படவுள்ளது.
+
+இந்த மேன்முறையீட்டு மனுக்கள் நீதியரசர்களான ப்ரீத்தி பத்மன் சூரசேன, அச்சல வெங்கப்புலி மற்றும் ஷிரான் குணரத்ன ஆகிய மூவரடங்கிய உயர் நீதிமன்ற நீதியரசர்கள் ஆயம் முன்னிலையில் கடந்த 09 ஆம் திகதி அழைக்கப்பட்டது.
+
+அதன்போது, இந்த வழக்கு தொடர்பான சிங்கள மொழிபெயர்ப்பு பிரதிகளை சட்டமா அதிபரிடம் சமர்ப்பிப்பதற்கு நடவடிக்கை எடுக்குமாறு மனுதாரர்களுக்கு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இதனையடுத்து, மேன்முறையீட்டு மனு மீதான விசாரணை ஜனவரி 22ம் திகதி எடுத்துக்கொள்வதற்கு நீதியரசர்கள் ஆயம் உத்தரவிட்டது.
+
+2015 ஆம் ஆண்டில், யாழ்ப்பாணத்தை சேர்ந்த சிவலோகநாதன் வித்தியா என்ற 18 வயது பாடசாலை மாணவி கடத்திச் சென்று கூட்டு வன்புணர்வு செய்யப்பட்டு கொலை செய்யப்பட்ட சம்பவம் பெரும் சர்ச்சையை ஏற்படுத்தியிருந்தது.
+
+...
+
+[Data](articles/cdf283ac.json)
+
+---
+
+### ජීවිත 90ක් බිලිගත් අමෙරිකාවේ හිම කුණාටුව
+
+*2024-01-22 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192426) · `si`
+
+ගෙවුණු සතිය පුරා අමෙරිකාවට බලපෑම එල්ල කළ හිම කුණාටු තත්ත්වය ආශ්‍රිත අනතුරුවලින් පුද්ගලයින් 90 දෙනෙකු මියගොස් තිබේ.
+
+ඉන් වැඩිම මරණ ගණනක් ටෙනිසි සහ ඔරිගොන් ප්‍රාන්තවලින් වාර්තා වූ අතර ඉලිනොයිස්, පෙන්සල්වේනියා, මිසිසිපි, වොෂින්ටන්, කෙන්ටාකි, නිව්යෝර්ක්, ඇතුළු තවත් ප්‍රාන්තවලින් ද මරණ වාර්තා වී තිබිණි.
+
+අධික හිමපතනය හේතුවෙන් රටපුරා කලාප රැසක විදුලිය බිඳවැටී අතර, පවතින දැඩි ශීතල හමුවේ පුද්ගලයින් දහස් ගණනක් පීඩාවට පත්ව සිටී.
+
+පවතින අධික හිමපතනය සහ ශීත සුළං තත්ත්වය මේ සතිය තුළත් පවතිනු ඇති බව අපේක්ෂිතය.
+
+◼️
+
+[Data](articles/8dacf25a.json)
+
+---
+
+### பொதுமக்களுக்கு எச்சரிக்கை : பொலிஸார் போன்று தொலைப்பேசியூடாக உரையாடி பண மோசடியில் ஈடுபடும் கும்பல்!
+
+*2024-01-22 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174499) · `ta`
+
+நாட்டின் பல்வேறு பிரதேசங்களில் பல வீடுகளிலுள்ள தொலைப்பேசிகளுக்கு அழைப்பெடுத்து, தம்மை பொலிஸார் எனக் கூறி, ஏமாற்றி பணம் பறிக்க முற்படும் கும்பலொன்று தலைமறைவில் இயங்கி வருவதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+குறிப்பாக, முல்லேரியா, நவகமுவ பிரதேசங்களில் உள்ள வீடுகளுக்கு இதுபோன்ற அழைப்புகள் மேற்கொள்ளப்பட்டுள்ளதாகவும், பொலிஸார் எனக் கூறி பணம் பறிக்க அழைப்பு விடுக்கப்படுவது தொடர்பில் பொலிஸ் நிலையங்களுக்கு பல முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் நிஹால் தல்துவ கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/5e924b08.json)
+
+---
 
 ### India’s Modi set to open Ram temple at Ayodhya
 
@@ -47,6 +193,26 @@ Ayodhya, once dotted with tightly packed houses and rundown stalls, has undergon
 ...
 
 [Data](articles/8666ef1b.json)
+
+[Extended Data](ext_articles/8666ef1b.ext.json)
+
+---
+
+### பொலிஸாரை பயமுறுத்துவதற்காக நாயுடன் காரில் கடத்திச் செல்லப்பட்ட  ஐஸ் போதைப்பொருள்: ஒரே குடும்பத்தைச் சேர்ந்த மூவர் கைது!
+
+*2024-01-22 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/174496) · `ta`
+
+பொலிஸாரைப் பயமுறுத்துவதற்காக நாயுடன் காரில் கடத்திச் செல்லப்பட்ட ஐஸ் போதைப்பொருளுடன் மூவர் கைது செய்யப்பட்டதாக கஹதுடுவ பொலிஸார் தெரிவித்தனர்.
+
+சந்தேக நபர்களிடமிருந்து கார், மோட்டார் சைக்கிள் மற்றும் நான்கு கைத்தொலைபேசிகள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+
+கைது செய்யப்பட்டவர்கள் கிரிவத்துடுவ யகஹலுவ பிரதேசத்தில் வசிக்கும் ஒரே குடும்பத்தைச் சேர்ந்தவர்கள் என பொலிஸார் தெரிவிக்கின்றனர்.
+
+கிரிவத்துடுவ யகஹல்வ பிரதேசத்தின் ஊடாக ஐஸ் போதைப்பொருள் கடத்தப்படுவதாக கிடைத்த தகவலின்படி பதில் பொலிஸ் நிலைய பொறுப்பதிகாரியின்  பணிப்புரையின்பேரில் அதிகாரிகள் குழுவொன்று கிரிவத்துடுவ யகஹலுவ பிரதேசத்துக்கு அனுப்பி வைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/27ddf816.json)
 
 ---
 
@@ -89,6 +255,84 @@ SSP Thalduwa further noted that while the owner of the vehicle will be informed 
 ◼️
 
 [Data](articles/b410400c.json)
+
+[Extended Data](ext_articles/b410400c.ext.json)
+
+---
+
+### Sri Lanka’s Softlogic Finance to raise Rs2.5bn from shareholders
+
+*2024-01-22 11:14:00* · [`economynextcom`](https://economynext.com/sri-lankas-softlogic-finance-to-raise-rs2-5bn-from-shareholders-148197/) · `en`
+
+ECONOMYNEXT – Softlogic Finance Plc, a publicly traded unit of Sri Lanka’s Softlogic Capital Plc, said it was seeking shareholder approval to raise 2.5 billion rupees in equity to boost capital by offering 380 million shares at 6.60 rupees a share to existing shareholders.
+
+“In order to infuse fresh capital to increase the total Capital base of the Company to (1) address the serious loss of capital situation … (2) to improve the Capital Adequacy Requirements … (3) to improve the Core Capital Requirement” the company planned to “increase the issued capital by Rs 2,512,994,563.20, by way of a Rights Issue to the existing Shareholders,” the company said in a stock exchange filing.
+
+The 380,756,752 new ordinary voting shares will be offered to shareholders at 10 new shares for every existing 16 shares.
+
+Softlogic Finance raised equity similarly in October of 2022 and 2020.
+
+Sri Lanka’s Softlogic looking to cut debt, sell down subsidiaries
+
+...
+
+[Data](articles/98917827.json)
+
+---
+
+### Sri Lanka minor opposition party leader among five shot dead
+
+*2024-01-22 11:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-minor-opposition-party-leader-among-five-shot-dead-148177/) · `en`
+
+ECONOMYNEXT — Leader of the ‘Ape Jana Bala’ (Our People’s Force) party Saman Perera was among five people shot dead in the southern town of Beliatta, media reports said citing police.
+
+Police Spokesman SSP Nihal Thalduwa had told the media that the five individuals, who had been travelling in a Land Rover Defender, had stopped for breakfast at a roadside eatery near the Beliatta interchange of the Southern Expressway when they were shot.
+
+The Defender, which had come from Colombo, had exited the expressway from the interchange. Media reports citing SSP Thalduwa said an unidentified person who had arrived in a pickup truck just behind the Defender had opened fire on the driver of the Defender as he was getting off the vehicle, and subsequently shot the passengers.
+
+One of the victims was leader of the Ape Jana Bala party, which was in the centre of a controversy following the 2020 parliamentary elections.
+
+...
+
+[Data](articles/dd7aee52.json)
+
+---
+
+### கடனை திருப்பி செலுத்துங்கள் இல்லாவிட்டால் உங்கள் அந்தரங்க படங்களை பகிரங்கப்படுத்துவோம்- இணையவழியில் கடன் பெற்றவரை மிரட்டிய கும்பல்
+
+*2024-01-22 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174494) · `ta`
+
+கொழும்பில் சமீபத்தில் கைதுசெய்யப்பட்ட இணைய கடன் மோசடி பேர்வழிகள் எவ்வாறு தன்னை நெருக்கடிக்குள் சிக்கவைத்தனர் என்பதை பாதிக்கப்பட்ட நபர் ஒருவர் விபரித்துள்ளார்.
+
+தன்னை எவ்வாறு மேலும் மேலும் கடன்பெறச்செய்தனர் தன்னால் அதனை திருப்பி செலுத்த முடியாத நிலையேற்பட்டவேளை எவ்வாறு தன்னை மிரட்டினார்கள் என்பதை அவர் தெரிவித்துள்ளார்.
+
+எனது மோட்டார் சைக்கிளை திருத்தவேண்டியிருந்ததாலும் மொபைல்போனிற்கான மாதாந்த கட்டணத்தை செலுத்தவேண்டியிருந்ததாலும் நான் அவர்களிடமிருந்து 30000 ரூபாயினை பெற்றுக்கொண்டேன் என அவர் தெரிவித்துள்ளார்.
+
+அவர்கள் என்னிடமிருந்து  எனது அடையாளஅட்டையின் விபரங்களையும்  அடையாள அட்டையுடன் நான் காணப்படும் செல்பியையும் கேட்டனர் என பாதிக்கப்பட்டவர் தெரிவித்துள்ளார்.
+
+அதன் பின்னர் மொபைல்போனை பயன்படுத்தி என்னை விண்ணப்படிவமொன்றை பூர்த்தி செய்யுமாறு கேட்டனர் அதன் பின்னர் அவர்கள் எனது வங்கிக் கணக்கிற்கு பணத்தை அனுப்பினார்கள் எனவும் அவர் தெரிவித்துள்ளார்.
+
+நான் முதலில் கடனை பெற்ற பின்னர் நான் பெறக்கூடிய கடனை அவர்கள் அதிகரித்தனர் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/0697ba87.json)
+
+---
+
+### தமிழரசுக் கட்சியின் புதிய தலைவர் மீண்டும் கூட்டமைப்பிலிருந்து வெளியேறிய அனைவனையும் ஒன்றிணைக்க வேண்டும் - சபா குகதாஸ்
+
+*2024-01-22 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174492) · `ta`
+
+இலங்கைத் தமிழரசுக் கட்சியின் புதிய தலைவராக பாராளுமன்ற உறுப்பினர் சிறிதரன் தெரிவு செய்யப்பட்டதாக கட்சி அறிவித்துள்ளது எமது உள்ளம் நிறைந்த வாழ்த்துக்கள் என வட மாகாணசபை முன்னாள் உறுப்பினர் சபா குகதாஸ் தெரிவித்துள்ளார்.
+
+கடந்த உள்ளூராட்சி வேட்புமனு தாக்கலுக்கு முன்பாக கூட்டமைப்பில் இருந்து தமிழரசுக் கட்சி வெளியேறியது. ஆனால் கட்சியின் அன்றைய முடிவை மீள் பரிசீலனைக்கு உட்படுத்தி இனத்தின் ஒற்றுமை கருதி பொதுச் சின்னத்தில் கூட்டமைப்பாக கடந்த காலத்தில் சில கசப்பான சம்பவங்களால் கூட்டமைப்பிலிருந்து வெளியேறிய அனைவரையும்  ஒன்றிணைத்து ஒரு குடையின் கீழ் பயணிக்க தீர்க்க முடிவை கட்சியில் ஏகமனதாக எடுங்கள்.
+
+தலைவர் தெரிவுக்கு முன்பாக மக்களுக்கும் கட்சித் தொண்டர்களுக்கும் வழங்கிய வாக்குறுதிகள் முக்கியமானவை. அதன் அடிப்படையில் தமிழ்த் தேசியக் கூட்டமைப்பில் மீண்டும் இணைந்து பொதுச் சின்னத்தில் இனத்தின் ஒற்றுமையையும் அரசியல் விடுதலையையும் வென்றெடுப்போம் என குறிப்பிடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/686b3855.json)
 
 ---
 
@@ -147,6 +391,8 @@ He also faced allegations over the murder of the Balapitiya Pradeshiya Sabha cha
 ◼️
 
 [Data](articles/499c84ff.json)
+
+[Extended Data](ext_articles/499c84ff.ext.json)
 
 ---
 
@@ -216,6 +462,18 @@ Authorities did not immediately specify whether anyone had died in the landslide
 
 ---
 
+### බෙලිඅත්තේ වෙඩි තැබීමකින් පහක් මරුට
+
+*2024-01-22 10:21:26* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්තේ-වෙඩි-තැබීමකින්-පහක්-මරුට/11-407659) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ බෙලිඅත්ත පිටවීමේ දොරටුව අභියස දී ඩිපෙන්ඩරයක සිටි පිරිසකට කැබ් රථයකින් පැමිණි පිරිසක් සිදුකළ වෙඩි තැබීමකින් පුද්ගලයන් පස් දෙනෙක් මියගොස් ඇතැයි වර්තා වෙයි. වෙළඳසැලක් ඉදිරිපිට රැදී සිටි පිරිසකට මෙලෙස වෙඩිතැබීම සිදුකර ඇතැයි වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/bd0a1fd0.json)
+
+---
+
 ### Party leader also killed in Beliatta
 
 *2024-01-22 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192423) · `si`
@@ -253,6 +511,28 @@ Prof. Indika Karunatilaka said artificial intelligence has made plans to introdu
 [Data](articles/203bf55c.json)
 
 [Extended Data](ext_articles/203bf55c.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 320.00/25 to the US dollar
+
+*2024-01-22 10:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-320-00-25-to-the-us-dollar-148162/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 320.00/25 to the US dollar on Monday, from 320.20/40 Friday, dealers said.
+
+A bond maturing on 01.02.2026 was quoted stable at 13.60/65 percent.
+
+A bond maturing on 15.09.2027 was quoted at 13.80/85 percent.
+
+A bond maturing on 15.03.2028 was quoted at 14.02/14.05 percent from 14.00/14.05 percent.
+
+The Colombo Stock Exchange opened up: the All Share Price Index was up 0.07 percent at 10,440, the S&P SL20 was up 0.04 percent at 2,951.
+
+Date of announcement of the Monetary Policy Review: No. 01 of 2024 – Tuesday, January 23, 2024 at 7.30 am. (Colombo/Jan19/2024)
+
+◼️
+
+[Data](articles/654d67e1.json)
 
 ---
 
@@ -1006,6 +1286,24 @@ The ONCO Surgery Expert, who allegedly assaulted a female hospital employee duri
 
 ---
 
+### Sri Lanka is recovering, but threats from central bank, US policy
+
+*2024-01-22 07:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-is-recovering-but-threats-from-central-bank-us-policy-148111/) · `en`
+
+ECONOMYNEXT – Sri Lanka is starting the usual cyclical recovery after a currency crisis and depreciation that is triggered by rate cuts destroys purchasing power and people’s real savings, with default added to the usual story.
+
+At the moment the central bank is providing monetary stability seen in the exchange rate and inflation, allowing a battered, long suffering people to raise their heads.
+
+It is not clear when inflationary rate cuts will start. Already 2026 bonds are being bought outright.
+
+Sri Lanka has gone through easy money booms, involving private credit surges financed by central bank credit to boost growth, and the resultant forex shortages, tightening of exchange and import controls too often since the central bank was set up in 1950.
+
+...
+
+[Data](articles/126aed2b.json)
+
+---
+
 ### "VAT without shops will be introduced"
 
 *2024-01-22 06:57:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/VAT-இல்லா-கடைகள்-அறிமுகம்-செய்யப்படும்/175-331930) · `ta`
@@ -1655,331 +1953,5 @@ The Sri Lanka Navy seized a local multi-day fishing trawler carrying over 65kg o
 [Data](articles/4b7b53ed.json)
 
 [Extended Data](ext_articles/4b7b53ed.ext.json)
-
----
-
-### Court orders Court for 11 kilos of heroin
-
-*2024-01-21 21:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192408) · `si`
-
-The Police Narcotics Bureau has taken 07 days after the Police Narcotics Bureau was produced before the Fort Magistrate's Court.
-
-The Sri Lanka Navy was arrested by the Navy with the drug with the drug with narcotics.
-
-There were 65 grams of narcotics and 76 grams were found in the multi-day fishing vessels and the suspects were handed over to the Police Narcotics Bureau.
-
-◼️
-
-[Data](articles/e99d6be9.json)
-
-[Extended Data](ext_articles/e99d6be9.ext.json)
-
----
-
-### Roshan's wife about the amount of money by the police
-
-*2024-01-21 21:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192407) · `si`
-
-Family members have objected to the compensation of the police for Roshan Kumaratilake, who was shot dead by the police.
-
-MP Dayasiri Jayasekera today (21st) MP Dayasiri Jayasekera, the deceased and died of Roshan Kumaratilake's body.
-
-She has said that if justice is done for her husband, it should be given to him in writing.
-
-She has asked for his husband's life to be priceless and to do justice for their children or justice.
-
-Meanwhile, a group of protests in the Naramla town this morning against the incident.
-
-The father of 41 year old Roshan Kumaratilake 51 year old Roshan Kumaratilake announced a firearm of a firearm of the police officer in Narammala.
-
-Meanwhile, acting IGP Deshabandu Tennakoon expressed his views regarding Narammala incident.
-
-He said that the law is impartial and that the law is responsible for the incident and not to restore such incidents.
-
-◼️
-
-[Data](articles/dd94afdd.json)
-
-[Extended Data](ext_articles/dd94afdd.ext.json)
-
----
-
-### The Kori Dream was true
-
-*2024-01-21 21:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192406) · `si`
-
-Among the youth of Korea's jobs is about to be true, it is said in Matara.
-
-The youth named Mindika, a 22-year-old Mindi, who is an unknown gunist in Anuradhapura.
-
-He was sitting on the Korean language exam and left for work soon.
-
-The sensitive point is that the shooting of the shooting was tired at a mobile phone accessory shooting at the Thelejjawila juncture of the Matara-Thelijjawila juncture.
-
-The deceased is a pharmaceper in the Denipitiya Aluthgamage, Denipitiya, and has come to the shop to charge his mobile.
-
-At the time of shooting, the owner of the telephone release has been on the outside and has been a friend of the owner.
-
-Police said that the owner of the shooting had been arrested and released to a robbery in the Supreme Court, saying that he had been bullied and released to the Supreme Court.
-
-Matara Chief Magistrate Anuruddha Buddhadasa has ordered the security of the magisterial inquiry into the incident.
-
-...
-
-[Data](articles/84941079.json)
-
-[Extended Data](ext_articles/84941079.ext.json)
-
----
-
-### Sri Lanka to the United States -Israeli War fanatics
-
-*2024-01-21 21:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174476) · `ta`
-
-In 1986, Israeli President Sain Hersak made an official visit to Sri Lanka. President Ranasinghe Premadasa closed the Israeli welfare unit in Colombo on April 20, 1990 and cut off diplomatic relations with Israel. In June 2000, diplomatic relations between the two countries were resumed.
-
-President Mahinda Rajapaksa Shah as Chairman of the Palestinian People's Council has continued to grow in Sri Lanka's relations with Israel since 1975. President Mahinda Rajapaksa Shah, a two -day visit to Israel in January 2014, is the culmination of the intercourse between the two countries.
-
-◼️
-
-[Data](articles/b1762792.json)
-
-[Extended Data](ext_articles/b1762792.ext.json)
-
----
-
-### Social Web Site as the force that determines diplomacy beyond politics
-
-*2024-01-21 21:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/174477) · `ta`
-
-Is it possible to mortgage the lives of millions of people in the name of development for the desires of Indians who seek revenge on the Maldives?
-
-In the contemporary world where politics and diplomacy are determined by the basis for the ideas that are spread through social networks, these people cannot succeed.
-
-This is because Indians and the Maldives do not have the number of influential numbers and energy on social networks.
-
-It is imperative to see the problem of these people beyond the mirror of the Internet.
-
-◼️
-
-[Data](articles/2beb2ad6.json)
-
-[Extended Data](ext_articles/2beb2ad6.ext.json)
-
----
-
-### The final opportunity to protect the election country
-
-*2024-01-21 21:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174478) · `ta`
-
-It is the final opportunity to protect the next election country. So the politicians should be prepared to select some people who can serve truely and build the country.
-
-All the political parties that ruled the country are equivalent to the LTTE, said Mihintale Mahanayaka Thera Valawahengunawewawewawe Tammaratne.
-
-It doesn't matter to us who is the ruler of the country. We don't need which party is going to rule.
-
-Our country is important to us. So we don't have time to talk to us at present. We don't need to fight or carry out hartal.
-
-We need you now, you are young people who have the best thought and. One hundred and a thousand rulers are not on the people's side. That is why when the rulers go to the villages, the people of the area are chasing them.
-
-So we can build our country. We need young people who can work real, work for that. They must come forward.
-
-...
-
-[Data](articles/2fe5dc36.json)
-
-[Extended Data](ext_articles/2fe5dc36.ext.json)
-
----
-
-### Mahinda Vajira Secret Talk
-
-*2024-01-21 21:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174475) · `ta`
-
-The information is being spread by members of the United People's Power, including Nalin Bandara and SM Marikar, a UNP chief said. However, when President Ranil Wickremesinghe returns to the country, the fourth session of the ninth parliament will be concluded on the 24th of this month and the new session will commence on February 7.
-
-◼️
-
-[Data](articles/bd7c429f.json)
-
-[Extended Data](ext_articles/bd7c429f.ext.json)
-
----
-
-### Blue ocean
-
-*2024-01-21 21:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/174471) · `ta`
-
-There is also a huge economic burden behind the political decision to establish a naval ship in the Red Sea.
-
-The question of whether the country is in a position to withstand such burdens is now widespread.
-
-Cardinal's argument is that after the solution to this, the International Sea may not go to the international sea and make the blue sea dream come true.
-
-In the process of climbing the roof first and then going to Vaikundam, he said, "It is not fair."
-
-◼️
-
-[Data](articles/636de718.json)
-
-[Extended Data](ext_articles/636de718.ext.json)
-
----
-
-### In question
-
-*2024-01-21 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174467) · `ta`
-
-Some reasons have been stated, and people's money is still being made in the name of electricity bills and taxes.
-
-It is used by government financial abuse. The country cannot be recovered, despite any economic reforms and foreign aid, without ensuring the government's financial work.
-
-◼️
-
-[Data](articles/3291b94e.json)
-
-[Extended Data](ext_articles/3291b94e.ext.json)
-
----
-
-### Buds: confused or confused?
-
-*2024-01-21 21:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174466) · `ta`
-
-Sajith Ranil and Anura, Ranil, Anura and Sajith side, Anuravai, Ranil and Sajith will be criticized and torn down.
-
-Until then, Rajapakse may account that if the last time a candidate is announced and the negative campaigns can be successful.
-
-However, the Rajapaksa family is still the first of the families who have been drowned in the long -standing queen in Sri Lanka.
-
-It is not uncommon if the Rajapakse Shah family, which has long removed the family of the Golochiya Banda family from the political arena in politics, has been standing from the time of the Banda period.
-
-They are well learned that being the leader is not only important, but that it should always be sustained.
-
-That is why they cannot be so easily weight on the presidential election.
-
-◼️
-
-[Data](articles/63c4e58b.json)
-
-[Extended Data](ext_articles/63c4e58b.ext.json)
-
----
-
-### CCTV is against the owner without giving the driver's driver
-
-*2024-01-21 20:47:05* · [`adalk`](https://www.ada.lk/breaking_news/CCTV-දඩ-කොළ-රියදුරුට-ලබා--නොදී-හිමිකරුට-දෙනවාට-විරුද්ධයි/11-407654) · `si`
-
-The Lanka Private Bus Owners Association states that the fines have been strongly protesting to the drivers who violate safety cameras.
-
-Therefore, the Akhed Leaf, the President of the Association Mr. Gemunu Wijeratne stated that action will be requested to be informed from the Hon.
-
-The buses have been identified today and the pilgrims have been identified today and the pilgrims have been carried out today.
-
-The bus owners will be removed if the vehicle owner will have to pay the fines from the vehicle owner without preparation of a proper procedure.
-
-The drivers who do not punish the wrongdoing across the formation and to pay the fine leaves of the bus owners.
-
-The method is planning to implement the system of Europe's system to the country and said that there is no large lanes in Europe, and the buses were also provided with necessary facilities.
-
-...
-
-[Data](articles/985f00b1.json)
-
-[Extended Data](ext_articles/985f00b1.ext.json)
-
----
-
-### Sri Lanka issues ’All Country Passports’ to resettled nationals in Tamil Nadu
-
-*2024-01-21 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-issues-All-Country-Passports-to-resettled-nationals-in-Tamil-Nadu/108-275450) · `en`
-
-Jan 21 -  The Sri Lanka Deputy High Commission in Chennai marked a significant milestone on January 19, 2024, as it hosted a ceremony to deliver the inaugural batch of passports to Sri Lankan nationals resettled in Tamil Nadu.
-
-This initiative, orchestrated by the Government of Sri Lanka, introduces "All Country Passports" for the resettled Sri Lankans in Tamil Nadu, India.
-
-Under the guidance of President Ranil Wickremesinghe, the Sri Lanka Deputy High Commission in Chennai, in collaboration with key stakeholders, successfully implemented the program.
-
-During the ceremony, the first batch of 197 passports was handed over to the respective applicants, signifying a crucial step in the initiative.
-
-...
-
-[Data](articles/18fd9ec8.json)
-
-[Extended Data](ext_articles/18fd9ec8.ext.json)
-
----
-
-### 77,118 industries have closed from May from May 2023 to 3123
-
-*2024-01-21 20:42:11* · [`adalk`](https://www.ada.lk/breaking_news/2022-මැයි-සිට-2023-දෙසැ-31දා-දක්වා-කර්මාන්ත-77-118ක්-වැහිලා/11-407653) · `si`
-
-The Department of Economics and Statistics of the Department of Economics and Statistics of the University of Peradeniya have shown that about 77,118 small and small industries that have been closed from March 19, 2023.Along with Wasantha Athukorala.
-
-The professor said that 87,907 years of anniversary had covered 87,907 years of economic crisis and the weaknesses of state policies and the weaknesses of state policies.
-
-The professor said that the professor of the country was severely affected by the growth of the country's GDP, employment and rural people.
-
-◼️
-
-[Data](articles/6660c68d.json)
-
-[Extended Data](ext_articles/6660c68d.ext.json)
-
----
-
-### Fish to Peliyagoda bandels prices
-
-*2024-01-21 20:37:46* · [`adalk`](https://www.ada.lk/breaking_news/පෑලියගොඩට-ආපු-මාලු--එළවළු-මිල-බස්සවයි/11-407652) · `si`
-
-"Fifty-five percent of five percent of five percent in five days, the fish prices at the Pinliugoda FisherHettiarachchi said.
-
-Aruna Shantha Hettia Uthance holds a special media briefing at the Diniyanayaka Specialized Center.
-
-"Today's vegetable bulk is Rs 450 - 470, carrots kilogram of Rs.
-
-If the government acts the government, the farmers are first gathered to the streets and collect the farmers and we will be businessmen in economic centers. "
-
-◼️
-
-[Data](articles/356e1c22.json)
-
-[Extended Data](ext_articles/356e1c22.ext.json)
-
----
-
-### Colombo CCTV Damada Pilot Project from today
-
-*2024-01-21 20:31:26* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-CCTV-දඩකොළ-නියමු-ව්‍යාපෘතිය-අද-සිට/11-407651) · `si`
-
-The pilot project to monitor traffic wrongdoing through the security cameras established in Colombo today (22).
-
-The program is due to be held on the CCTV Division on the Olcotta Mawatha in Colombo and the acting IGP, Acting Inspector General of Police and the Department of Motor Traffic.
-
-The program is scheduled to be implemented as a pilot project for about two weeks, and the security cameras are also observed to enter the vehicle owner to the area.
-
-◼️
-
-[Data](articles/e7e3c5bb.json)
-
-[Extended Data](ext_articles/e7e3c5bb.ext.json)
-
----
-
-### Sri Lanka coconut auction price up 1.9-pct
-
-*2024-01-21 20:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-coconut-auction-price-up-1-9-pct-148108/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s coconut prices picked up 1.9 percent to 66,198 rupees for 1,000 nuts at an auction on January 18, after falling 14 percent over three weeks, data from the Coconut Development Authority shows.
-
-The highest price was 69,500 for 1,000 nuts and the lowest was 63,500.
-
-Farmgate prices in Kurunegala were 65,000 to 72,000 in the week to January 11. Retail prices were 105 to 120 for a large nut and 90 to 100 for a smaller one.
-
-◼️
-
-[Data](articles/d26defde.json)
-
-[Extended Data](ext_articles/d26defde.ext.json)
 
 ---

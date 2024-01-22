@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 17:33:23**
+As of **2024-01-22 18:11:18**
 
 ## Newspaper Stats
 
-*Scraped **1,824** Articles*
+*Scraped **1,829** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,35 +16,127 @@ economynextcom | 113
 newsfirstlk | 114
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 184
+virakesarilk | 186
 adalk | 192
 dailymirrorlk | 214
-adaderanalk | 224
 tamilmirrorlk | 225
+adaderanalk | 227
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,720 (94.3%) of 1,824 articles have been extended.
+1,727 (94.4%) of 1,829 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### அயோத்தி ராமர் கோவிலுக்கு நன்கொடையாகும் 'ஹனு-மான்' பட டிக்கெட் கட்டணம்
+### 2023 க்கான ஐ.சி.சி. மகளிர் ரி20 அணியின் தலைவியாக சமரி அத்தபத்து
+
+*2024-01-22 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174551) · `ta`
+
+சர்வதேச கிரிக்கெட் பேரவையினால் தெரிவு செய்யப்பட்டுள்ள 2023ஆம் ஆண்டுக்கான ஐசிசி மகளிர் சர்வதேச ரி20  கிரிக்கெட்  அணிக்கு இலங்கையின் சமரி அத்தப்பத்து தலைவராக பெயரிடப்பட்டுள்ளார்.
+
+2023ஆம் ஆண்டில் நடைபெற்ற மகளிர் சர்வதேச ரி20 கிரிக்கெட் போட்டிகளில் துடுப்பாட்டம், பந்துவீச்சு அல்லது சகலதுறைகளில் அதிசிறந்த ஆற்றல்களை வெளிப்படுத்தியவர்கள் ஐசிசி மகளிர் சர்வதேச ரி20  கிரிக்கெட்   அணியில் பெயரிடப்பட்டுள்ளனர்.
+
+கேப் டவுனில் தென் ஆபிரிக்காவுக்கு எதிராக நடைபெற்ற ஐசிசி மகளிர் ரி20 உலகக் கிண்ண கிரிக்கெட் போட்டியில் 50 பந்துகளில் 68 ஓட்டங்களைக் குவித்ததன் மூலம் சமரி அத்தப்பத்து 2023க்கான தனது கிரிக்கெட் பருவகாலத்தை சிறப்பாக ஆரம்பித்தார். அவரது துடுப்பாட்ட உதவியுடன் தென் ஆபிரிக்காவை முற்றிலும் எதிர்பாராத விதமாக 3 ஓட்டங்களால் இலங்கை வெற்றிகொண்டிருந்தது.
+
+அவர் கடந்த வருடம் 130.91 என்ற ஸ்ட்ரைக் ரேட்டுடன் 470 ஓட்டங்களை ரி20 கிரிக்கெட் போட்டிகளில் குவித்திருந்தார். இதில் 15 சிக்ஸ்கள் அடங்கியிருந்தன.
+
+...
+
+[Data](articles/c94c9ea2.json)
+
+---
+
+### Six police teams probing Beliatta shooting that killed 5
+
+*2024-01-22 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96627/six-police-teams-probing-beliatta-shooting-that-killed-5) · `en`
+
+Six police teams have been deployed to investigate the shooting incident reported in Beliatta, Tangalle this morning (22 Jan.).
+
+According to Police Spokesman SSP Nihal Thalduwa, the special police teams were deployed to carry out investigations under the supervision of the Senior Deputy Inspector General of Police (SDIG) of the Southern Province.
+
+Speaking to reporters in Colombo today, the Spokesman said the SDIG in charge of the Southern Province has appointed the following police teams to conduct the said investigation; Southern Province Crime division, the Tangalle Division Crimes Unit, a separate team under the Tangalle HQI, a team from the Beliatta Police, a team led by the Officer-In-Charge of the division and a team of intelligence officers.
+
+...
+
+[Data](articles/251df933.json)
+
+---
+
+### நிகழ்நிலை காப்புச் சட்ட வரைபு, பயங்கரவாத எதிர்ப்பு சட்ட வரைபுகளுக்கு எதிர்ப்பு தெரிவித்து மட்டக்களப்பில் ஆர்ப்பாட்டம்!
+
+*2024-01-22 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/174549) · `ta`
+
+நிகழ்நிலை காப்புச் சட்ட வரைபு, பயங்கரவாத எதிர்ப்பு சட்ட வரைபு சட்டங்களுக்கு எதிர்ப்பு தெரிவித்து மட்டக்களப்பில் திங்கட்கிழமை (22) எதிர்ப்புப் பேரணியும் ஆர்ப்பாட்டமும் முன்னெடுக்கப்பட்டன . அத்துடன் அடையாள உண்ணாவிரதம்  நடைபெற்றது.
+
+கிழக்கு சிவில் சமூகப் பிரதிநிதிகளின் ஏற்பாட்டில் நடைபெற்ற இந்தப் பேரணியில் கிழக்கின் பல பகுதிகளையும் சேர்ந்த தமிழ் முஸ்லிம் மக்கள் கலந்து கொண்டனர்.
+
+மட்டக்களப்பு கல்லடிப் பாலம் அருகில் ஆரம்பமான பேரணி காந்தி பூங்கா வரை சென்று அங்கு ஆர்ப்பாட்டம் நடைபெற்றது.
+
+இந்த ஆர்ப்பாட்டப் பேரணியில் கலந்து கொண்டவர்கள் பயங்கரவாத எதிர்ப்புச் சட்டம் மற்றும் நிகழ்நிலைக் காப்புச் சட்டங்களுக்கெதிரான வாசகங்களை எழுதிய பதாதைகளையும் கருத்துச் சுதந்திரத்தின் முக்கியத்துவம் தொடர்பான பதாதைகளையும் ஏந்தியிருந்தனர். ஆர்ப்பாட்டத்தின்போது எதிர்ப்பு கோசங்கள் எழுப்பப்பட்டன.
+
+முக்கியமாக இந்த எதிர்ப்பு நடவடிக்கையின் ஒரு பகுதியான உண்ணாவிரதத்துக்கான பந்தலமைப்புகள் பாதுகாப்புத் தரப்பினரால் அகற்றப்பட்டு இறுக்கமான பாதுகாப்பு நடவடிக்கைகளுடன் இந்த எதிர்ப்பு நடைபெற்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/d15694c9.json)
+
+---
+
+### Donation to Ayodhya Rama Temple 'Hanu-Man'
 
 *2024-01-22 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/174544) · `ta`
 
-மகர சங்கராந்தியை முன்னிட்டு வெளியான தெலுங்கு திரைப்படமான 'ஹனு-மான்' 175 கோடி வசூலை கடந்து வெற்றிகரமாக ஓடிக்கொண்டிருக்கும் நிலையில், இந்த வசூல் பணத்தில் ஒரு பகுதி அயோத்தி ராமர் கோவிலுக்கு நன்கொடையாக வழங்கப்படும் என படத்தின் தயாரிப்பு நிறுவனமான மைத்ரி மூவி மேக்கர்ஸ் தெரிவித்துள்ளது.
+The film's production company, Maithri Movie Mackers, said that the Telugu film 'Hanu-Man', which was released in front of Makara Sankranti, will be donated to the Ayodhya Rama Temple as part of the collection of money.
 
-அதன்படி, படத்துக்கான ஒவ்வொரு டிக்கெட் கட்டணத்திலிருந்தும் 5 ரூபாயை அயோத்தி ராமர் கோவிலுக்கு நன்கொடையாக வழங்கப் போவதாக தயாரிப்பு நிறுவனம் ஏற்கெனவே அறிவித்திருந்ததற்கமைய, இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+Accordingly, the decision has already been taken as the production company has already announced that it will donate 5 rupees from each ticket fee for the film.
 
-"53,28,211 பேருக்கு நன்றி. அயோத்தி ராமர் கோவிலுக்கு நல்ல விடயத்துக்காக ரூ. 2,66,41,055 நன்கொடையாக வழங்க இணைந்ததற்கு நன்றி. இந்த சிறப்பான முன்னெடுப்புக்கு ஹனு-மான் படத்தை பார்த்து நீங்களும் ஆன்மிக அனுபவத்தை பெற்று பங்கெடுக்கலாம். உங்கள் டிக்கெட் கட்டணத்தில் 5 ரூபாயை அயோத்தி கோவிலுக்கு வழங்கலாம். இந்த சரித்திரப் புகழ் வாய்ந்த தருணத்தில் நாங்களும் பங்கெடுப்பது பெருமை" என்றுள்ளது.
+“Thanks to 53,28,211. Ayodhya Rama Temple for a good thing for Rs.. Thanks for the combination of 2,66,41,055 donation. You can see the Hanu-Man movie for this excellent initiative and you can get a spiritual experience. You can offer 5 rupees of your ticket fee to Ayodhya Temple. We are proud to participate in this historic moment. ”
 
 ◼️
 
 [Data](articles/fe0fc6ba.json)
+
+[Extended Data](ext_articles/fe0fc6ba.ext.json)
+
+---
+
+### Minister Kanchana slammed over ‘mud-slinging’ campaign targeting CEB staff
+
+*2024-01-22 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96626/minister-kanchana-slammed-over-mud-slinging-campaign-targeting-ceb-staff) · `en`
+
+The Ceylon Electricity Board Engineers’ Union (CEBEU) has accused Sri Lanka’s Power and Energy Minister Kanchana Wijesekera of attempting to generate public anger towards CEB and its staff, as part of what they claim is his “ongoing efforts to harass CEB staff to position himself as a hero in the eyes of the public”.
+
+Responding to a recent claim made by the Minister on ‘X’ (formerly Twitter), alleging that the CEB had provided financial facilities to the tune of Rs. 12 billion to it employees, the CEB Engineers’ Union highlighted that “CEB staff, like other employees in both public and private sector institutions, including LECO and PUCSL, do enjoy benefits beyond their basic salary”.
+
+Accusing the Minister of carrying out a ‘mud-slinging’ campaign, CEB condemned Minister Wijesekera’s for treating CEB employees like ‘criminals’.
+
+...
+
+[Data](articles/105c3667.json)
+
+---
+
+### Chamari named captain of ICC Women’s T20I Team of the Year
+
+*2024-01-22 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96625/chamari-named-captain-of-icc-womens-t20i-team-of-the-year) · `en`
+
+Sri Lankan all-rounder and Women’s Team Captain Chamari Athapaththu has been named in the ICC Women’s T20I Team of the Year for 2023, and has been honoured with the team captaincy.
+
+The ICC Team of the Year recognises 11 outstanding individuals who have impressed throughout 2023, be it with the bat, the ball or their all-round exploits.
+
+The  ICC Women’s T20I Team of the Year for 2023 is as follows:
+
+The veteran Sri Lankan started the year with a Player of the Match performance in Cape Town in the ICC Women’s T20 World Cup, smashing 68 off 50 balls to help Sri Lanka beat South Africa by three runs. The big upset win set the tone for a remarkable year for Sri Lanka women and Athapaththu was at the forefront of it all.
+
+She finished with 470 runs in the year, scoring at a quicker-than-usual strike-rate of 130.91. With 15 sixes in the year, she also hit a personal high in Women’s T20Is.
+
+...
+
+[Data](articles/f13480c0.json)
 
 ---
 
@@ -1034,33 +1126,35 @@ His departure sets up the one-on-one battle that Haley has coveted against Trump
 
 ---
 
-### දඹුල්ලේ කැරට් කිලෝව රු. 600ට බහියි
+### Kill of carrots in Dambulla. The offensive at 600
 
 *2024-01-22 12:24:54* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ලේ-කැරට්-කිලෝව-රු--600ට-බහියි/11-407663) · `si`
 
-පසුගිය සතියට සාපේක්ෂව දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ එළවළු තොග මිල විශාල වශයෙන් පහත වැටෙමින් පවතින බව ආර්ථික මධ්‍යස්ථාන වෙළෙන්දෝ පෙන්වා දෙති්.
+Economic Center Traders point out that vegetables in the Dambulla Economic Center is largely declining compared to last week.
 
-ඒ අනුව විසි දෙක දින අලුයම වන විට සැලකිය යුතු ප්‍රමාණයෙන් එළවළු මිල පහත වැටී ඇතත් ඒවා මිලදී ගැනීම සඳහා තවමත්  වෙළෙන්දන් ගේ පැමිණීමේ අඩුවක් දක්නට ලැබෙන බව ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමය කියයි.
+According to twenty two days, the price of a significant amount of vegetables fell, the Economic Center Trade Association says that although the price of vegetables has fallen, is still found in the merchants.
 
-එළවළු මිලදී ගැනීම අවම විමත් සමඟ සීග්‍රයෙන් ඉහළ ගිය සියළුම එළවළු වර්ග මිල පහත වැටී තිබේ.
+All the vegetable varieties of vegetables have fallen by the pricing of vegetables.
 
-ජනවාරි මාසයේ 17 දින පැවති මිල සහ 22  උදෑසන දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ පැවැති  එළවළු කිලෝ එකක තොග මිල  මෙසේ  සඳහන් කිරීමටහැකි වී තිබේ.
+The price of a kilo of vegetables at the Dambulla Economic Center in the 22nd and 22nd morning have been able to say:
 
-වර්ගය       ජනවාරි 17 දිනය පැවති මිල     ජනවාරි 22 දින උදෑසන පැවති මිල
+Type of Y Jan 17 prices held on January 22 on January 22
 
-ලීක්ස්          600  - 700                         250 - 300
+600 - 700 250 - 300
 
-රාබු             90   - 100                         70  - 80
+Robs 90 - 100 70 - 80
 
-කැකිරි         80  - 110                           100 - 110
+Kekiri 80 - 110 100 - 110
 
-වම්බටු           380  - 400                        400 - 480
+Eggplant 380 - 400 400 - 480
 
-දෙහි                120  - 130                     130  - 150
+20 - 130 130 130 - 150
 
 ◼️
 
 [Data](articles/22d09e3e.json)
+
+[Extended Data](ext_articles/22d09e3e.ext.json)
 
 ---
 
@@ -1941,97 +2035,5 @@ Those who do business around Colombo treat me well. You have to treat me, right,
 [Data](articles/9a0e6185.json)
 
 [Extended Data](ext_articles/9a0e6185.ext.json)
-
----
-
-### 47 people from landslide
-
-*2024-01-22 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192421) · `si`
-
-It is reported that 47 people have gone missing from a landslide in Langugzui village in Langugzui village in Yunan State.
-
-Foreign media reports that the residents of the victims were operating.
-
-47 Villagers Were Buried In a Landslide Tat Occurred In ZhenxionxionxionG Countg City, South China's Yunnan Provinnan Province, Early Monday. A Search and Rescue Operation is currently underway. pic.twitter.com/ugDPG8XiMA
-
-◼️
-
-[Data](articles/79823afa.json)
-
-[Extended Data](ext_articles/79823afa.ext.json)
-
----
-
-### Shooting in Tangalle;Death
-
-*2024-01-22 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-331937) · `ta`
-
-◼️
-
-[Data](articles/2cfcbd63.json)
-
-[Extended Data](ext_articles/2cfcbd63.ext.json)
-
----
-
-### Tangalle firing
-
-*2024-01-22 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தங்காலை-துப்பாக்கிச்-சுட்டில்-ஐவர்-மரணம்/150-331937) · `ta`
-
-In addition, unconfirmed reports suggest that five people were killed in a firing on a group passenger in Defender.
-
-Some people standing in front of a shop have been shot dead.
-
-◼️
-
-[Data](articles/7da4c407.json)
-
-[Extended Data](ext_articles/7da4c407.ext.json)
-
----
-
-### Tangalle's death in Tangalle
-
-*2024-01-22 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தங்காலை-துப்பாக்கிச்-சூட்டில்-ஐவர்-மரணம்/150-331937) · `ta`
-
-In addition, unconfirmed reports suggest that five people were killed in a firing on a group passenger in Defender.
-
-Some people standing in front of a shop have been shot dead.
-
-◼️
-
-[Data](articles/9092ccb5.json)
-
-[Extended Data](ext_articles/9092ccb5.ext.json)
-
----
-
-### BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
-
-*2024-01-22 09:46:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/breaking-five-people-shot-dead-near-beliatta-exit-of-southern-expressway/) · `en`
-
-Colombo (News 1st) – Five people were shot dead near the Beliatta Exit of the Southern Expressway on Monday morning (22nd), police said.
-
-Four people died immediately, and a fifth succumbed shortly afterward.
-
-Among the victims is the leader of the Apey Janabala Pakshaya (Our People's Party) Saman Perera, who was a businessman cum politician, police said. The group had arrived in a white Land Rover Defender when the shooting took place.
-
-News 1st correspondent said several people who were shot were outside a tea shop near the exit, and others were in the vehicle.
-
-BASL calls for independent probe into surge in killings by police
-
-Supreme Court to consider Fundamental Rights application by Cardinal Malcolm Ranjith
-
-BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
-
-Special dengue control program in Colombo, Gampaha, Jaffna and Kandy districts throughout the year
-
-CCTV camera system to identify traffic violations to commence today
-
-◼️
-
-[Data](articles/58eec3ec.json)
-
-[Extended Data](ext_articles/58eec3ec.ext.json)
 
 ---

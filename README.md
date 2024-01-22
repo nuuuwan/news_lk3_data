@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 08:20:16**
+As of **2024-01-22 08:51:26**
 
 ## Newspaper Stats
 
-*Scraped **1,687** Articles*
+*Scraped **1,691** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 38
-adaderanasinhalalk | 77
+adaderanasinhalalk | 78
 economynextcom | 104
 islandlk | 108
 newsfirstlk | 109
@@ -20,33 +20,81 @@ dailyftlk | 159
 adalk | 180
 dailymirrorlk | 197
 tamilmirrorlk | 203
-adaderanalk | 206
+adaderanalk | 209
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,475 (87.4%) of 1,687 articles have been extended.
+1,492 (88.2%) of 1,691 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### කොළඹ රථවාහන වැරදි සොයන්න CCTV මෙහෙයුම් අද සිට
+### The Utilities Commission to Meet About Electricity tariff
+
+*2024-01-22 08:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192416) · `si`
+
+The Public Utilities Commission of the Public Utilities Commission is to meet today (22) to discuss the electricity tariff.
+
+The proposal on the amendments was recently handed over to the Public Utilities Commission recently.
+
+The proposal will be taken to discuss the proposal and to make public opinion and then the utility commission will also add their ideas.
+
+The proposal will be made public for three weeks.
+
+The new proposal is added to the Ceylon Electricity Board.
+
+◼️
+
+[Data](articles/5000286c.json)
+
+[Extended Data](ext_articles/5000286c.ext.json)
+
+---
+
+### CCTV operates today
 
 *2024-01-22 07:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192415) · `si`
 
-කොළඹ ප්‍රදේශයේ රථවාහන වැරදි සිදුකරන රියදුරන් CCTV කැමරා ඔස්සේ හඳුනා ගැනීමේ විශේෂ වැඩපිළිවෙලක් අද (22) සිට ආරම්භ කරන බව පොලීසිය පවසයි.
+A special program to identify traffic wrongdoing in Colombo has been launched from today (22), police said.
 
-ඒ අනුව අද සිට එළඹෙන 31 වනදා දක්වා එය නියමු ව්‍යාපෘතියක් ලෙස කොළඹ නගරය ආශ්‍රිතව ක්‍රියාත්මක කිරීමට නියමිතය.
+Accordingly, it will be implemented in Colombo as a pilot project from today until 31st.
 
-එහිදී හඳුනාගන්නා මාර්ග නීති කඩ කරන රියදුරන්ට එරෙහිව ඉදිරියේ දී නීතිමය පියවර ගන්නා බවද පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී නීතීඥ නිහාල් තල්දුව මහතා සඳහන් කළේය.
+Police Media Spokesperson SSP Attorney at the police media spokesman Nihal Thameda said that legal action would be taken against the drivers who violate the identification measures.
 
-"මෙය නියමු ව්‍යාපෘතියක් විදියට ආරම්භ වෙනවා. මෙය කොළඹ නගරයේ පිහිටි පොලීසිය මඟින් නිරීක්ෂණ කරනු ලබන CCTV කැමරා පද්ධතිය හරහා අපි නිරීක්ෂණය කරනවා රථවාහන වැරදි කරන රියදුරන් කවුද කියලා. යම් වැරැද්දක් කරොත් අපි දැනුම් දෙන්නේ වාහනයේ අයිතිකරුට. ජනවාරි 31 වන තෙක් මේ කාලසීමාවේ මෙය නියමු ව්‍යාපෘතියක් ලෙස සිදුකරනවා. ජනවාරි 31 වනදායි පසුව දඩ පත්‍රිකා නිකුත් කිරීම ආරම්භ කරනවා."
+"This starts as a pilot project. We observe this through the CCTV camera system that is observed by the police in Colombo town.. If something wrong, we will inform the vehicle owner. This time period is done as a pilot project until January 31st. The issuance of fine leaflets will be started. "
 
 ◼️
 
 [Data](articles/ebda549a.json)
+
+[Extended Data](ext_articles/ebda549a.ext.json)
+
+---
+
+### Sri Lankan investors invited to invest in Bangladesh’s SEZs
+
+*2024-01-22 07:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96609/sri-lankan-investors-invited-to-invest-in-bangladeshs-sezs) · `en`
+
+Mahbubul Alam, President of the Federation of Bangladesh Chambers of Commerce and Industry (FBCCI), invited the Sri Lankan businessmen and investors to invest in the special economic zones of Bangladesh.
+
+The FBCCI President made this call during a courtesy meeting with High Commissioner of Sri Lanka in Bangladesh Dharmapala Weerakkody at FBCCI’s Gulshan office on Sunday, said a press release.
+
+The FBCCI president said the government is establishing 100 special economic zones across Bangladesh.
+
+“All kinds of facilities including oil, gas, and electricity are being provided in these economic zones apart from one-stop service and e-platform,” he added.
+
+Mahbubul said attractive incentives are on offer to facilitate business and investment in Bangladesh.
+
+“Sri Lankan businessmen can be benefitted by setting up industry here on their own or in joint ventures,” he added.
+
+Mahbubul Alam said garments, pharmaceuticals, eco-tourism and hospitality are some of the potential sectors in Bangladesh.
+
+...
+
+[Data](articles/0f14e981.json)
 
 ---
 
@@ -69,6 +117,46 @@ However, due to the continuing fighting, Israeli Prime Minister Benjamin Netanya
 [Data](articles/3ab94719.json)
 
 [Extended Data](ext_articles/3ab94719.ext.json)
+
+---
+
+### Showers expected in parts of the country
+
+*2024-01-22 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96608/showers-expected-in-parts-of-the-country) · `en`
+
+A few showers may occur in Eastern and Uva Provinces, says the Department of Meteorology.
+
+Showers or thundershowers may occur at a few places in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts after 4.00 p.m.
+
+Mainly fair weather will prevail in the other areas of the island, it said.
+
+Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/89c66caf.json)
+
+---
+
+### More than 25,000 now killed in Gaza, Hamas-run health ministry says
+
+*2024-01-22 07:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96607/more-than-25000-now-killed-in-gaza-hamas-run-health-ministry-says) · `en`
+
+More than 25,000 people have now been killed in Gaza since Israel’s offensive began, according to the Hamas-run health ministry.
+
+It said there had been 178 deaths in the last 24 hours, making it one of the deadliest days in the war so far.
+
+As fighting continued, Israel’s Prime Minister Benjamin Netanyahu again rejected creating a Palestinian state.
+
+The White House has said the US and Israel “clearly see things differently” when it comes to a two-state solution.
+
+Israel began its offensive following the 7 October attack in which Hamas fighters killed 1,300 people in southern Israel and took more than 240 hostage.
+
+In its first public account of the October assault, published on Sunday, Hamas described it as a “necessary step” against the Israeli occupation of the Palestinian territories and a way to secure the release of Palestinian prisoners.
+
+...
+
+[Data](articles/597ac9d2.json)
 
 ---
 
@@ -1935,79 +2023,5 @@ He also said that if the bus owners are implemented and properly arranged for th
 [Data](articles/3997cd41.json)
 
 [Extended Data](ext_articles/3997cd41.ext.json)
-
----
-
-### Unrelated amnesty
-
-*2024-01-21 14:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174442) · `ta`
-
-Ranil Wickremesinghe, who is in power, has also released many people. But there are differences between the manner in which they used the amnesty and the manner in which Maithripala Sirisena and Gotabhaya Rajapaksa gave the amnesty.
-
-◼️
-
-[Data](articles/7316c3ac.json)
-
-[Extended Data](ext_articles/7316c3ac.ext.json)
-
----
-
-### Catholic Church to declare those who died in Easter Sunday attacks as saints
-
-*2024-01-21 13:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Catholic-Church-to-declare-those-who-died-in-Easter-Sunday-attacks-as-saints/108-275433) · `en`
-
-Colombo, Jan 21 (Daily Mirror) - The Catholic Church is to declare those who died in the Easter Sunday attacks as saints, Archbishop of Colombo Cardinal Malcolm Ranjith said over the weekend.
-
-Speaking during a service at St. Sebastian's Church, Kandana, Cardinal Ranjith said the first step towards this move will be taken on April 21 this year when the country commerates the fifth anniversary of the Easter Sunday bomb attacks.
-
-"Those who died in churches on April 21, 2019  sacrificed their lives for what they believed. They came to church on that day because they believed in Christ. They sacrificed their lives because they loved Christ like other saints," he said.
-
-"A person can be named a saint only after the completion of five years since his  sacrifice. Therefore, we will move towards declaring Easter Sunday victims as saints on April 21 this year," he added.
-
-...
-
-[Data](articles/3529b651.json)
-
-[Extended Data](ext_articles/3529b651.ext.json)
-
----
-
-### Catholic Church to declare those who died in Easter Sunday attacks as saints
-
-*2024-01-21 13:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Catholic-Church-to-declare-those-who-died-in-Easter-Sunday-attacks-as-saints/155-275433) · `en`
-
-Colombo, Jan 21 (Daily Mirror) - The Catholic Church is to declare those who died in the Easter Sunday attacks as saints, Archbishop of Colombo Cardinal Malcolm Ranjith said over the weekend.
-
-Speaking during a service at St. Sebastian's Church, Kandana, Cardinal Ranjith said the first step towards this move will be taken on April 21 this year when the country commerates the fifth anniversary of the Easter Sunday bomb attacks.
-
-"Those who died in churches on April 21, 2019  sacrificed their lives for what they believed. They came to church on that day because they believed in Christ. They sacrificed their lives because they loved Christ like other saints," he said.
-
-"A person can be named a saint only after the completion of five years since his  sacrifice. Therefore, we will move towards declaring Easter Sunday victims as saints on April 21 this year," he added.
-
-...
-
-[Data](articles/b17b15df.json)
-
-[Extended Data](ext_articles/b17b15df.ext.json)
-
----
-
-### S. Sridharan to the ITAK leadership
-
-*2024-01-21 13:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192393) · `si`
-
-Jaffna District Parliamentarian SM. Mr. Sridharan has been awarded.
-
-The Ada Derana reporter said that he had been elected to leadership in the election today.
-
-The election was held at the Trincomalee Urban Council at the Trincomalee Urban Council hall this morning.
-
-Members of MPs, MA Sumanthiran, S. Sridhiran and Syashwaran had been elected to the new leader of secret votes.
-
-◼️
-
-[Data](articles/b549c231.json)
-
-[Extended Data](ext_articles/b549c231.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 15:17:22**
+As of **2024-01-22 15:32:59**
 
 ## Newspaper Stats
 
-*Scraped **1,792** Articles*
+*Scraped **1,795** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,67 +18,87 @@ dbsjeyarajcom | 121
 dailyftlk | 159
 virakesarilk | 176
 adalk | 188
-dailymirrorlk | 209
+dailymirrorlk | 211
 adaderanalk | 221
-tamilmirrorlk | 223
+tamilmirrorlk | 224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,669 (93.1%) of 1,792 articles have been extended.
+1,676 (93.4%) of 1,795 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### උසස් පෙළ අවසන් කරන සිසුන්ට වෘත්තීය අධ්‍යාපනය පාසලේ දීම
+### உயர்தரத்தை நிறைவு செய்தால் பாடசாலையில் தொழிற்கல்வி
+
+*2024-01-22 14:56:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தரத்தை-நிறைவு-செய்தால்-பாடசாலையில்-தொழிற்கல்வி/175-331957) · `ta`
+
+உயர்தரத்தை நிறைவு செய்யும் மாணவர்களுக்கு எதிர்வரும் பெப்ரவரி மாதம் முதல் பாடசாலையிலேயே தொழிற்கல்வி வழங்கப்படும் என கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்துள்ளார்.
+
+உயர்தரக் கல்வியை நிறைவு செய்யும் மாணவர்களை தொழிற்கல்விக்கு வழிநடத்தும் நோக்கில் இந்தத் தொழிற்பயிற்சித் திட்டம் நாடளாவிய ரீதியில் தெரிவு செய்யப்பட்ட 299 பாடசாலைகளில் நடைமுறைப்படுத்தப்படுவதாகவும் அமைச்சர் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/b0142ef4.json)
+
+---
+
+### Providing vocational education at schooling students who end Advanced Level
 
 *2024-01-22 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192431) · `si`
 
-උසස් පෙළ අවසන් කරන ශිෂ්‍ය ශිෂ්‍යාවන්ට පෙබරවාරි මස සිට වෘත්තීය අධ්‍යාපනය පාසලේ දී ම ලබාදෙන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+Minister of Education Susil Premajayantha says that students who complete the A / L students will be given in school in the school, from February.
 
-තොරතුරු තාක්ෂණය හා ඉංග්‍රීසි භාෂා දැනුම සහිත ව වෘත්තීය අධ්‍යාපනය පිළිබඳ ප්‍රායෝගික පුහුණුවක් සහ න්‍යායාත්මක පෙරහුරුවක් සහිත වැඩසටහනක් එලෙස සිදුකිරීමට නියමිතය.
+A program with a professional training and theoretical rehearsal of vocational education with information technology and English.
 
-අපොස උසස් පෙළ අධ්‍යාපනය අවසන් කරන ශිෂ්‍ය ශිෂ්‍යාවන් වෘත්තීය අධ්‍යාපනයට යොමු කිරීමේ අරමුණින් ක්‍රියාත්මක මෙම වෘත්තීය පුහුණු වැඩසටහන දිවයිනේ තෝරාගත් පාසල් 299ක දී ක්‍රියාවට නංවන බව ද අමාත්‍යවරයා පැවසීය.
+The Minister also stated that the Vocational Training Program is implemented in 299 selected schools in the island, which is being implemented to contest student students to vocational education.
 
-2024 ජනවාරි මස අපොස  උසස් පෙළ විභාගය සඳහා පෙනී සිටින ශිෂ්‍ය ශිෂ්‍යාවන්ට පෙබරවාරි මස 09 දිනට පෙර මෙම වැඩසටහනට ලියාපදිංචි විය හැකිය
+Students who sit for the GCE Advanced Level Examination for the GCE Advanced Level Examination for the GCE Advanced Level Examination may be registered with this program before 09th
 
-මේ සම්බන්ධයෙන් වැඩිදුර තොරතුරු ප්‍රාදේශීය ලේකම් කාර්යාලයේ නිපුණතා සංවර්ධන නිලධාරීන්ගෙන් ලබාගත හැකි බවත් අධ්‍යාපන අමාත්‍යවරයා සඳහන් කළේය.
+Further information can be obtained from the Skills Development Officers of the Divisional Secretariat.
 
-අධ්‍යාපන අමාත්‍යාංශයේ නිපුණතා සංවර්ධන වෘත්තීය අධ්‍යාපන, පර්යේෂණ හා නව නිපැයුම් අංශය විසින් සංවිධානය කරන මෙම විශේෂ වෘත්තීය මාර්ගෝපදේශන වැඩසටහන සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශයේ දී පැවති වැඩසටහනක දී අමාත්‍යවරයා මේ අදහස් පළ කළේය.
+The Minister made these comments on this special career guidance organized by the Skills Development, Research and Invention of the Ministry of Education.
 
 ◼️
 
 [Data](articles/1f54f21b.json)
 
+[Extended Data](ext_articles/1f54f21b.ext.json)
+
 ---
 
-### தயாசிறிக்கு எதிரான தடை உத்தரவு நீடிப்பு
+### Extension of Prohibition against Dayasiri
 
 *2024-01-22 14:47:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயாசிறிக்கு-எதிரான-தடை-உத்தரவு-நீடிப்பு/175-331952) · `ta`
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் முன்னாள் செயலாளர் தயாசிறி ஜயசேகர, ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதில் பொதுச் செயலாளரின் விவகாரங்களில் தலையிடுவதைத் தடுக்கும் வகையில் அவருக்கு பிறப்பிக்கப்பட்ட தடை உத்தரவை மேலும் நீடிக்க கொழும்பு மாவட்ட நீதிமன்றம் இன்று (22) உத்தரவிட்டுள்ளது.
+Former Secretary of the Sri Lanka Freedom Party Dayasiri Jayasekara and the Sri Lanka Freedom Party (SLFP )'s response to the General Secretary of the Sri Lanka Freedom Party (SLFP) have been ordered to further extend the order issued by the Colombo District Court today.
 
-ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் தலைவர் மைத்திரிபால சிறிசேன மற்றும் அதன் பதில் பொதுச் செயலாளர் சாரதி துஷ்மந்த மித்ரபால ஆகியோர் சமர்ப்பித்த மனு இன்று விசாரணைக்கு மீள அழைக்கப்பட்டதை அடுத்து இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+The order was issued following a petition submitted by Sri Lanka Freedom Party (SLFP) leader Maithripala Sirisena and its general secretary, Sarathi Dushmantha Mithrapala.
 
 ◼️
 
 [Data](articles/c8ad55c9.json)
 
+[Extended Data](ext_articles/c8ad55c9.ext.json)
+
 ---
 
-### O/L விண்ணப்பங்கள் தொடர்பில் வெளியான அறிவிப்பு
+### O/L Notice of Applications
 
 *2024-01-22 14:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-விண்ணப்பங்கள்-தொடர்பில்-வெளியான-அறிவிப்பு/175-331949) · `ta`
 
-கல்விப் பொதுத் தராதரப் பத்திர சாதாரணத் தர பரீட்சைக்கு தோற்றுவதற்கான விண்ணப்பங்கள் கோருவது தொடர்பான அறிவிப்பை பரீட்சைகள் திணைக்களம் வெளியிட்டுள்ளது.
+The Department of Examinations has issued a notification on requesting applications for the appearance of the GCE Ordinary Level Examination.
 
-அதன்படி ஜனவரி 23ஆம் திகதி முதல் பிப்ரவரி 15ஆம் திகதி வரை இணைய முறையில் மட்டுமே விண்ணப்பங்கள் கோரப்படும் என்று அந்த அறிவிப்பில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+According to the announcement, applications will be filed only from January 23rd to February 15th.
 
 ◼️
 
 [Data](articles/09ce0e94.json)
+
+[Extended Data](ext_articles/09ce0e94.ext.json)
 
 ---
 
@@ -142,6 +162,24 @@ He is a CFA charter holder. He has Bachelor of Commerce degree and Master of Fin
 
 ---
 
+### World Cup stars dominate ICC Women’s T20I Team of the Year for 2023
+
+*2024-01-22 14:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Cup-stars-dominate-ICC-Womens-T20I-Team-of-the-Year-for-2023/108-275497) · `en`
+
+Jan. 22 (ICC) - The ICC Team of the Year recognises 11 outstanding individuals who have impressed throughout 2023, be it with the bat, the ball or their all-round exploits.
+
+We take a look at who made the cut for their work in women’s T20I cricket in the calendar year just gone.
+
+The veteran Sri Lankan started the year with a Player of the Match performance in Cape Town in the ICC Women's T20 World Cup, smashing 68 off 50 balls to help Sri Lanka beat South Africa by three runs. The big upset win set the tone for a remarkable year for Sri Lanka women and Athapaththu was at the forefront of it all.
+
+She finished with 470 runs in the year, scoring at a quicker-than-usual strike-rate of 130.91. With 15 sixes in the year, she also hit a personal high in Women's T20Is.
+
+...
+
+[Data](articles/fcd77cda.json)
+
+---
+
 ### Sri Lanka Tamil National Alliance (TNA) leader Sridharan met Sambandan
 
 *2024-01-22 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174518) · `ta`
@@ -155,6 +193,22 @@ On Monday (22), he met at his residence in Colombo and discussed the next steps 
 [Data](articles/066d7b7e.json)
 
 [Extended Data](ext_articles/066d7b7e.ext.json)
+
+---
+
+### Watch: Super-slingy Thushara sends Jos Buttler’s off-stump flying, takes two in two on SA20 debut
+
+*2024-01-22 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Watch-Super-slingy-Thushara-sends-Jos-Buttlers-off-stump-flying-takes-two-in-two-on-SA20-debut/108-275493) · `en`
+
+Jan. 22 (wisden) - Nuwan Thushara, bowling with a super-slingy action, claimed two wickets in two balls to kick off an electric death spell on SA20 debut.
+
+The 29-year-old, who has played six T20Is for Sri Lanka, is building a portfolio in franchise cricket, with today (January 21) marking his bow for MI Cape Town in South Africa’s SA20. Handed the new ball up against the formidable opening pairing of Jos Buttler and Jason Roy, he began with an exemplary yorker and mixed slower balls in as well, but was hit for three boundaries in his first two overs as Paarl Royals began strongly.
+
+When he returned for the 18th over, Paarl Royals were 140-1 and aiming for an explosive finish, but Thushara had other ideas. His first ball zipped past Buttler’s outside edge to send off-stump cartwheeling, and his second left Fabian Allen hobbling, a vicious yorker smashing the West Indies international on the top of the boot. He was given lbw.
+
+...
+
+[Data](articles/a63fc0ed.json)
 
 ---
 
@@ -1967,73 +2021,5 @@ He also stressed that Samagi Jana Balawegaya ( SJB) should go along the right tr
 [Data](articles/a99664d6.json)
 
 [Extended Data](ext_articles/a99664d6.ext.json)
-
----
-
-### Showers expected in parts of the country
-
-*2024-01-22 07:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96608/showers-expected-in-parts-of-the-country) · `en`
-
-A few showers may occur in Eastern and Uva Provinces, says the Department of Meteorology.
-
-Showers or thundershowers may occur at a few places in the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts after 4.00 p.m.
-
-Mainly fair weather will prevail in the other areas of the island, it said.
-
-Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/89c66caf.json)
-
-[Extended Data](ext_articles/89c66caf.ext.json)
-
----
-
-### More than 25,000 now killed in Gaza, Hamas-run health ministry says
-
-*2024-01-22 07:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96607/more-than-25000-now-killed-in-gaza-hamas-run-health-ministry-says) · `en`
-
-More than 25,000 people have now been killed in Gaza since Israel’s offensive began, according to the Hamas-run health ministry.
-
-It said there had been 178 deaths in the last 24 hours, making it one of the deadliest days in the war so far.
-
-As fighting continued, Israel’s Prime Minister Benjamin Netanyahu again rejected creating a Palestinian state.
-
-The White House has said the US and Israel “clearly see things differently” when it comes to a two-state solution.
-
-Israel began its offensive following the 7 October attack in which Hamas fighters killed 1,300 people in southern Israel and took more than 240 hostage.
-
-In its first public account of the October assault, published on Sunday, Hamas described it as a “necessary step” against the Israeli occupation of the Palestinian territories and a way to secure the release of Palestinian prisoners.
-
-...
-
-[Data](articles/597ac9d2.json)
-
-[Extended Data](ext_articles/597ac9d2.ext.json)
-
----
-
-### “The country should be released from the chauvinist gang”
-
-*2024-01-22 07:13:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேரினவாதக்-கும்பலிடம்-இருந்து-நாட்டை-விடுவிக்க-வேண்டும்/175-331932) · `ta`
-
-National People's Power Leader Anura Kumara Dissanayake said that the policy of the people and the National People's Power Party to change the existing regime and the new government could change this year.
-
-He also emphasized that the new Renaissance era is the imperative of the era to save the country that is drowning in all ways.
-
-He was speaking to the media after the blessing of Malwathu and Asgiri Mahanayaka.
-
-Changing the existing system is not just a political program, but a national activity. People are currently coming forward for a new change.
-
-It is ludicrous to say that those responsible for the fall of the country in all sectors in economic and all sectors are said to have progressed a step away from today.
-
-Therefore, this chauvinist gang must liberate the country and lead the country to the new path. This is the goal of the national people's power.
-
-◼️
-
-[Data](articles/bdc9b787.json)
-
-[Extended Data](ext_articles/bdc9b787.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 23:17:17**
+As of **2024-01-22 23:33:17**
 
 ## Newspaper Stats
 
@@ -26,39 +26,43 @@ adaderanalk | 233
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,881 (99.7%) of 1,886 articles have been extended.
+1,886 (100.0%) of 1,886 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### “யுக்திய” நடவடிக்கையை உடனடியாக நிறுத்துங்கள்
+### Stop the “strategy” action immediately
 
 *2024-01-22 23:02:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-நடவடிக்கையை-உடனடியாக-நிறுத்துங்கள்/175-331977) · `ta`
 
-தற்போது அமுல்படுத்தப்பட்டு வரும் யுக்திய நடவடிக்கையை உடனடியாக நிறுத்தி அதனை மறுபரிசீலனை செய்யுமாறு ஐக்கிய நாடுகளின் நிபுணர்கள் குழுவால் கோரிக்கை முன்வைக்கப்பட்டுள்ளது.
+The United Nations expert panel has made a request to immediately stop the strategic operation that is currently being implemented.
 
-சுகாதாரம், மனித உரிமைகள் போன்ற விடயங்களில் அதிகாரிகள் கவனம் செலுத்த வேண்டும் என அந்த குழு வலியுறுத்தியுள்ளது. R
+The committee has urged the authorities to focus on issues such as health and human rights. Remble
 
 ◼️
 
 [Data](articles/1a4b3b07.json)
 
+[Extended Data](ext_articles/1a4b3b07.ext.json)
+
 ---
 
-### ජනවාරි සිට රජයෙන් ලැබෙන විශේෂ දීමනාව
+### Special offer from January to Government
 
 *2024-01-22 22:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192446) · `si`
 
-සමෘද්ධි වැඩසටහන යටතේ මෙතෙක් ප්‍රතිලාභ ලැබූ ආයතනගත පුද්ගලයින් 16,146ක් වෙත ජනවාරි මාසයේ සිට රුපියල් 2,000ක දීමනාවක් දිස්ත්‍රික් ලේකම්වරුන් මගින් ගෙවීමට රජය තීරණය කර තිබේ.
+The government has decided to pay 16,146 institutional persons to receive a 2,146 institutional persons to benefit from the Samurdhi program.
 
-මුදල් රාජ්‍ය අමාත්‍ය ශෙහාන් සේමසිංහ මහතා සිය X ගිණුමේ සටහනක් තබමින් මේ බව සඳහන් කර ඇත.
+State Minister of State Shehan Semasinghe has made this statement.
 
-ඒ අනුව පිරිවෙන් වල වැඩසිටින හිමිවරුන්, ළමානිවාස, වැඩිහිටි නිවාස, රැකබලා ගැනීමේ නිවාස වල සිටින අබාධිත පුද්ගලයන් සඳහා මෙම දීමනාව හිමිවනු ඇත.
+The allowance will be available for the disabled persons, children, adult homes, the children, children, adult homes.
 
 ◼️
 
 [Data](articles/b0461e2a.json)
+
+[Extended Data](ext_articles/b0461e2a.ext.json)
 
 ---
 
@@ -190,21 +194,23 @@ They deplored reported cases of arbitrary arrests of thousands of drug offenders
 
 ---
 
-### යාලේ රක්ෂිතයේ තිබූ ගංජා කිලෝ 220ක් අල්ලයි
+### 220 kilos of cannabis in Yala reserve arrested
 
 *2024-01-22 20:50:55* · [`adalk`](https://www.ada.lk/breaking_news/යාලේ-රක්ෂිතයේ-තිබූ-ගංජා-කිලෝ-220ක්-අල්ලයි/11-407675) · `si`
 
-යුද හමුදා බුද්ධි අංශය විසින් ලබා දෙන ලද තොරතුරුවලට අනුව ශ්‍රී ලංකා යුද හමුදාව සහ ගෝනගංආර පොලීසිය සමග ඒකාබද්ධව සිදු කරන ලද වැටලීමකදී යාල රක්ෂිතය තුළ අලෙවි කිරීමට සූදානම් කර තිබූ ගංජා කිලෝ 220 ක ප්‍රමාණයක් අත්අඩංගුවට ගෙන තිබේ.
+According to information provided by the Army Intelligence Unit, 220 kilos of marijuana have been arrested in the Yala forest reserve in a raid convention with the Sri Lanka Army and Gonagangara Police.
 
-යාළ වන රක්ෂිතය තුළ සුහන්දිරම්ආරු ප්‍රදේශයේ සිට කිලෝ මීටර් 11 ක් පමණ දුරින් මෙම ගංජා වගාව සූක්ෂ්මව සිදුකර තිබූ අතර පෙරේදා(21දා)  මෙම වැටලීම සිදුකරන අවස්ථාවේදී කිලෝ 220 ක පමණ ප්‍රමාණයක් එම ස්ථානයේ තිබි ඇත.
+The cannabis was implemented at 11 km away from the FDI reserve and was Rs. 110 kilograms at the time.
 
-යුද හමුදා බුද්ධි අංශ විසින් යාල වන රක්ෂිතය තුළ  දී  ඉකුත් 18 දින ගංජා කිලෝ 1570 ක්  අත්අඩංගුවට ගෙන තිබෙන අතර, දින පහක් තුළ සිදුකළ දෙවැනි වැටලීමේදී ගංජා කිලෝ 220  අත්අඩංගුවට ගෙන තිබේ.
+The Army intelligence has been arrested in the Yala Forest Reserve and 1570 kilograms of marijuana have been arrested in the second rare in five days.
 
-මේ පිළිබඳ ඉදිරි විමර්ශන කටයුතු ගෝනගංආර පොලීසිය විසින් සිදුකරනු ලබයි.
+Gonagankara Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/1a6817cc.json)
+
+[Extended Data](ext_articles/1a6817cc.ext.json)
 
 ---
 
@@ -535,6 +541,8 @@ Health Minister Pathirana said the official data show nearly 1,200 doctors have 
 ...
 
 [Data](articles/95eb8e1d.json)
+
+[Extended Data](ext_articles/95eb8e1d.ext.json)
 
 ---
 

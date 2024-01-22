@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 00:17:06**
+As of **2024-01-23 00:32:37**
 
 ## Newspaper Stats
 
-*Scraped **1,886** Articles*
+*Scraped **1,895** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 29
+colombotelegraphcom | 31
 bbccomsinhala | 42
 adaderanasinhalalk | 108
 islandlk | 110
@@ -18,7 +18,7 @@ dbsjeyarajcom | 121
 dailyftlk | 159
 virakesarilk | 195
 adalk | 200
-dailymirrorlk | 223
+dailymirrorlk | 230
 tamilmirrorlk | 232
 adaderanalk | 233
 
@@ -26,11 +26,121 @@ adaderanalk | 233
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,886 (100.0%) of 1,886 articles have been extended.
+1,886 (99.5%) of 1,895 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-01-23 (Tuesday)
+
+### Emeritus Professor Ratna Handurukande receives Lifetime Award from Indian HC
+
+*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Emeritus-Professor-Ratna-Handurukande-receives-Lifetime-Award-from-Indian-HC/172-275522) · `en`
+
+At a very heartening ceremony held at her residence in Kandy on 19th January 2024, Professor Ratna Handurukande, the former Professor of Sanskrit at the University of Peradeniya, received a Certificate of Appreciation from the Indian Cultural Centre, Colombo.
+
+Prof. Handurukande received this Lifetime Award from the Swami Vivekananda Cultural Centre of the High Commission of India in Colombo, on the occasion of World Sanskrit Day which falls on 31st August 2023, in appreciation of her lifelong contribution to the teaching of Sanskrit in Sri Lanka. Professor Ankuran Dutta, the Director of the Indian Cultural Centre, personally visited Prof. Handurukande to present her the certificate, and praised her contribution to Sanskrit.
+
+...
+
+[Data](articles/1e076feb.json)
+
+---
+
+### Choosing between Robert Wilmot Horton and Ponnambalam Arunachalam
+
+*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Choosing-between-Robert-Wilmot-Horton-and-Ponnambalam-Arunachalam/172-275517) · `en`
+
+Changing names of places and roads bearing the names of foreigners is common in countries that have gained independence from foreign rule. Such changes can be easily justified in some cases where the foreign ruler was despotic, but in others it may be a bit tricky as both personalities may have had significant contributions to their credit.
+
+In most cases, the personages displaced are driven into oblivion despite their contribution to society, and erased from history.
+
+The proposed change-over from “Horton Place” in Colombo 7 to “Sir Ponnambalam Arunachalam Mawatha” is justified given the yeoman service rendered by Arunachalam to Ceylon, and the fact that he resided there.
+
+...
+
+[Data](articles/6d808796.json)
+
+---
+
+### Unleashing drones of war: The escalating menace and national security perils
+
+*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Unleashing-drones-of-war-The-escalating-menace-and-national-security-perils/172-275518) · `en`
+
+Drones in warfare are primarily used for surveillance, intelligence gathering, propaganda, and strikes
+
+In the realm of drone warfare, Stealth and Survivability are important factors
+
+Technology that classifies drones will usually be able to separate drones from other types of objects-like planes, trains, and automobiles
+
+State Actors, such as the United States, China, and Russia, have invested heavily in the development of sophisticated drone technology using Advanced Technology
+
+The Ukrainian battlespace features the most intensive use of drones in a military conflict in history, marking a shift in warfare tactics and technology
+
+Nations need to strike a balance between fostering innovation in the drone industry and ensuring robust security measures to prevent misuse
+
+...
+
+[Data](articles/84e69137.json)
+
+---
+
+### We need a Foolproof Mechanism for Presidential Pardon
+
+*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/We-need-a-Foolproof-Mechanism-for-Presidential-Pardon/172-275516) · `en`
+
+Many hailed the recent Supreme Court ruling on the case against the granting of Presidential pardon to former Parliamentarian Duminda Silva who had been convicted for the murder of former Presidential Advisor Bharatha Lakshman Premachandra on October 8, 2011, calling it a landmark judgement. However, their stand on the mater does not seem to be so different than the decision by former President Gotabaya Rajapaksa to grant the pardon to Silva. Both were politically driven.
+
+The irony of the decision by former President Rajapaksa was that at the time of the murder, both Silva and Premachandra were working closely with him, one as a monitoring MP for the Defence Ministry to which Gotabaya Rajapaksa was the Secretary, and the other as the Advisor to former President Mahinda Rajapaksa on trade union affairs. However, the family of Premachandra distanced themselves from the government alleging that the government of the day was siding with Silva during the investigations.
+
+...
+
+[Data](articles/c0f907b5.json)
+
+---
+
+### Spreading Hope Globally:  Rotary International President’s Visit to Sri Lanka
+
+*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Spreading-Hope-Globally-Rotary-International-Presidents-Visit-to-Sri-Lanka/172-275520) · `en`
+
+The forthcoming four-day visit by President of Rotary International,  Gordon R. McInally aims to fortify bonds and encourage collaboration  between Rotary International and the enthusiastic Rotary community in  Sri Lanka
+
+Rotary International, a globally acclaimed humanitarian  organization boasting 35,000 clubs spread across over 220 countries,  plays a pivotal role in diverse charitable activities on a global scale
+
+...
+
+[Data](articles/d7143787.json)
+
+---
+
+### Sri Lanka’s Innovation Levers,IT and Biotech Surge
+
+*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lankas-Innovation-Levers-IT-and-Biotech-Surge/172-275521) · `en`
+
+Tapping into advanced technologies, such as all-photonics networks and quantum and edge computing, could be the linchpin in harnessing what’s beyond the horizon. Imagine a tomorrow where Sri Lanka paves its tech avenues with 5G, virtual reality, and augmented reality — a visionary dreamscape manifesting in real-time, shaking the foundations of its economic and competitive stratum
+
+A leap into the innovation frontier has its challenges. The lack of extensive citation networks, a shortfall in venture capital funding, and skill mismatches represent the systemic constraints strangling the pipeline of creativity and opportunity. Sri Lanka stares down these bottlenecks, aware that overcoming them is a prelude to any genuine advancement in global standing
+
+...
+
+[Data](articles/f138251f.json)
+
+---
+
 ### 2024-01-22 (Monday)
+
+### NMRA, CID seize computers, medicine samples from infamous plant in Seeduwa
+
+*2024-01-22 23:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NMRA-CID-seize-computers-medicine-samples-from-infamous-plant-in-Seeduwa/108-275519) · `en`
+
+Colombo, Jan 22 (Daily Mirror) - The National Medicines Regulatory Authority (NMRA) and Criminal Investigation Department (CID) who visited the controversial plant involved in the human immunoglobulin scam today for the second day, searched the entire premises prior to taking several computers and samples of medicines into custody for further inquiries, the police said.
+
+The NMRA and CID officials following a court order visited the plant belonging to Isolez Biotech Pharma AG (Pvt) Ltd. in Amandoluwa in Seeduwa for the second day, as the owner cum first suspect of the scam Sudath Janaka Fernando did not cooperate with the officials during the first factory visit on January 8.
+
+...
+
+[Data](articles/b924687b.json)
+
+---
 
 ### Stop the “strategy” action immediately
 
@@ -646,6 +756,18 @@ The Presidential Secretariat states that the acting appointment is in addition t
 
 ---
 
+### Conservation Of The Asian Elephant
+
+*2024-01-22 18:30:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/conservation-of-the-asian-elephant/) · `en`
+
+In regards to the elephant-human conflict in our country, something particularly important about the issue is that despite decades of research, our understanding of elephant behaviour, especially their usage of changing environments continues to be limited. Dr. Sreedhar Vijayakrishnan, a marine biologist spoke at the Wildlife and Nature Protection Society (WNPS) last week sharing his experiences and discussing the various conflict management strategies that could be adopted to defy these challenges.
+
+...
+
+[Data](articles/db9c6330.json)
+
+---
+
 ### IPL. Chamari not bought. To the leadership of Women's T20 group
 
 *2024-01-22 18:30:52* · [`adalk`](https://www.ada.lk/sports/අයි-පී-එල්--මිලදී-නොගත්--චමරි-අයි-සී-සී--කාන්තා-විස්සයි-20-කණ්ඩායමේ-නායකත්වයට/9-407668) · `si`
@@ -661,6 +783,18 @@ However the women will be held in the future. Although she was submitted to the 
 [Data](articles/05ca14b0.json)
 
 [Extended Data](ext_articles/05ca14b0.ext.json)
+
+---
+
+### President Positions Sri Lanka To Win International Support
+
+*2024-01-22 18:30:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-positions-sri-lanka-to-win-international-support/) · `en`
+
+Under President Ranil Wickremesinghe’s leadership it looks like Sri Lanka is once again punching above its weight. The president took centre stage at the 19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the 3rd South Summit of the Group of 77 & China currently taking place in Kampala, Uganda. The president’s media unit stated that at the invitation of President Yoweri Museveni of Uganda, President Wickremesinghe not only participated in these critical global gatherings but also addressed both the NAM Summit and the South Summit. During his visit to Kampala, he is reported to have engaged in discussions with counterparts from the Global South, with a special focus on strengthening ties with leaders from the African region.
+
+...
+
+[Data](articles/f71cc61b.json)
 
 ---
 
@@ -1851,185 +1985,5 @@ On Monday (22), he met at his residence in Colombo and discussed the next steps 
 [Data](articles/066d7b7e.json)
 
 [Extended Data](ext_articles/066d7b7e.ext.json)
-
----
-
-### Watch: Super-slingy Thushara sends Jos Buttler’s off-stump flying, takes two in two on SA20 debut
-
-*2024-01-22 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Watch-Super-slingy-Thushara-sends-Jos-Buttlers-off-stump-flying-takes-two-in-two-on-SA20-debut/108-275493) · `en`
-
-Jan. 22 (wisden) - Nuwan Thushara, bowling with a super-slingy action, claimed two wickets in two balls to kick off an electric death spell on SA20 debut.
-
-The 29-year-old, who has played six T20Is for Sri Lanka, is building a portfolio in franchise cricket, with today (January 21) marking his bow for MI Cape Town in South Africa’s SA20. Handed the new ball up against the formidable opening pairing of Jos Buttler and Jason Roy, he began with an exemplary yorker and mixed slower balls in as well, but was hit for three boundaries in his first two overs as Paarl Royals began strongly.
-
-When he returned for the 18th over, Paarl Royals were 140-1 and aiming for an explosive finish, but Thushara had other ideas. His first ball zipped past Buttler’s outside edge to send off-stump cartwheeling, and his second left Fabian Allen hobbling, a vicious yorker smashing the West Indies international on the top of the boot. He was given lbw.
-
-...
-
-[Data](articles/a63fc0ed.json)
-
-[Extended Data](ext_articles/a63fc0ed.ext.json)
-
----
-
-### Supreme Court to consider Fundamental Rights application by Cardinal Malcolm Ranjith
-
-*2024-01-22 13:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/supreme-court-to-consider-fundamental-rights-application-by-cardinal-malcolm-ranjith/) · `en`
-
-COLOMBO (News 1st); The Supreme Court has decided to take up for consideration on 31st January, the Fundamental Rights application by Cardinal Malcolm Ranjith seeking the dismissal of Deshabandu Tennakoon from the post of Acting IGP and an interim order preventing his appointment as the IGP.
-
-The relevant application has requested that Deshbandu Tennakoon, the acting Inspector General of Police, be dismissed from the position and an interim injunction order be issued preventing his appointment as the Inspector General of Police.
-
-The application was called up today before judges Prithi Padman Suriyasena, Achala Vengappuli and Mahinda Samayawardena.
-
-Additional Solicitor General Nerin Pulle, who appeared for the Attorney General, requested that two petitions filed by two other parties regarding this issue be called on the 31st along with the petition submitted by His Eminence Malcolm Cardinal Ranjith.
-
-Upon Consideration, the bench fixed the date for calling this petition on the 31st.
-
-...
-
-[Data](articles/4e544a8c.json)
-
-[Extended Data](ext_articles/4e544a8c.ext.json)
-
----
-
-### Dayasiri Jayasekara's ban on Jayasekara has been extended!
-
-*2024-01-22 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174516) · `ta`
-
-The Colombo District Court on Monday (22) has extended an order imposed on former Sri Lanka Freedom Party (SLFP) general secretary Dayasiri Jayasekara not to disrupt the activities of the Sri Lanka Freedom Party (SLFP) General Secretary Sarathi Dushmantha Mithrapala.
-
-The order was issued when the petition filed by Mithrapala and former President Maithripala Sirisena was taken up in court on Monday morning.
-
-The trial will be taken up again on the 29th of this month.
-
-◼️
-
-[Data](articles/22d73012.json)
-
-[Extended Data](ext_articles/22d73012.ext.json)
-
----
-
-### Matara shooting: Police suspect that the deceased is not the target!
-
-*2024-01-22 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174520) · `ta`
-
-Investigations have expressed suspicion that the shooting incident carried out at a mobile phone equipment stall at the Telijjavila, which belongs to the Matara, Malimbada police division, was not targeted by the victim.
-
-The owner of the store was standing in front of the store when the shooting took place.It has been revealed that the deceased youth was inside the shop to charge his mobile phone.
-
-It has been revealed that the young man was expecting to go to Korea and police investigations revealed that he was not involved in any crime.
-
-◼️
-
-[Data](articles/230ae6ab.json)
-
-[Extended Data](ext_articles/230ae6ab.ext.json)
-
----
-
-### Maithri's daughter robbery at home
-
-*2024-01-22 13:50:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-மகள்-வீட்டில்-கொள்ளை/175-331947) · `ta`
-
-The daughter of former President Maithripala Sirisena's house has been broken and assets worth Rs 30 lakh have been stolen, Talangama police said.
-
-The two -storey house in the Battaramulla Wickremasinghe host has been smashed and stolen, Talangama police said.
-
-Police said that stolen items include Rs 1,50,000, gold plated camel statue, smart wristwatch, gold plated Singapore coins 8, drying products and school book bag.. .
-
-Former President Maithripala Sirisena's daughter has come to his home in Colombo with her husband. By then, the police had informed that the house had been broken.
-
-The Senior Police Officer added that the businessman, the husband of former President Maithripala Sirisena's daughter, has lodged a complaint with the police that she has broken into the front glass door and stole the property.
-
-◼️
-
-[Data](articles/6c1b13d7.json)
-
-[Extended Data](ext_articles/6c1b13d7.ext.json)
-
----
-
-### Indoor Rowing Championships 2024
-
-*2024-01-22 13:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Indoor-Rowing-Championships-2024/110-275490) · `en`
-
-The National Indoor Rowing Championships 2024 organized by the Amateur Rowing Association of Sri Lanka was held in Battaramulla. Personnel from the tri-forces also participated in the event. Pix by Waruna Wanniarachchi
-
-◼️
-
-[Data](articles/40650791.json)
-
-[Extended Data](ext_articles/40650791.ext.json)
-
----
-
-### EDB, JICA to promote Sri Lanka ICT companies in Japanese market
-
-*2024-01-22 13:45:00* · [`economynextcom`](https://economynext.com/edb-jica-to-promote-sri-lanka-ict-companies-in-japanese-market-148213/) · `en`
-
-ECONOMYNEXT – The Japan International Cooperation Agency (JICA) and the Sri Lanka Export Development Board (EDB) are working to introduce Sri Lankan ICT companies to the Japanese market, the EDB said.
-
-The project “aims to assist approximately 30 SME ICT/BPM companies and tech startups in two cohorts over a two-year period starting in 2024 by providing market intelligence, business coaching and matchmaking support,” EDB said on its website.
-
-JICA agreed to extend “Japanese technical assistance for Sri Lankan tech companies by introducing Sri Lankan ICT/BPM companies to the Japanese market.”
-
-Yoichi Kogure, Senior Consultant at Japan Development Service Co Ltd and Malith Gunasekara, Technology Advisor specializing in FinTech will provide technical consultancy for the project, the EDB said.
-
-“The consultancy team will identify the potential areas of synergy and establish connections between two tech ecosystems.”
-
-...
-
-[Data](articles/5dc24090.json)
-
-[Extended Data](ext_articles/5dc24090.ext.json)
-
----
-
-### A van abducted in the owner - CCTV
-
-*2024-01-22 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192430) · `si`
-
-Aluthgama was reported from Dharga town a van abduction in a filling station.
-
-The abductor of the accident had been released even though the Aluthgama police were able to find the abducted van.
-
-These two people who come in a three-wheeler to a station in Dharga are found to go to the white van.
-
-These visions are also seen in these visions that they both show a few documents to the van.
-
-Then one can be drawn into the vehicle's owner into a side of the vehicle and see how the van owner is trying to prevent it.
-
-But that attempt has been failed and the person has fled the person with the van.
-
-The van is also moved to prevent the vehicle's offering.
-
-Meanwhile, officials of the Aluthgama police stabbed the van at a interval of Dharga Town.
-
-Although they had been taken to the Aluthgama police, but they had been discussed with the discussions with the owner and the vehicle.
-
-◼️
-
-[Data](articles/0b3d3745.json)
-
-[Extended Data](ext_articles/0b3d3745.ext.json)
-
----
-
-### National Pongal Festival
-
-*2024-01-22 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/174508) · `ta`
-
-Criticism of the National Pongal Festival celebrated in Hatton, Nuwara Eliya District on the 21st. Although it was said to be a national event, the hands of the Ceylon Workers Congress, the Ceylon Workers Congress, were raised at the event.. The National Pongal Festival was organized by the Ministry of Hindu Cultural and Minister Jeevan Thondaman under the Ministry of Buddha Sasana.
-
-The traditional festivals and festivals of the Tamils have some special characteristics. The presence of the president, who is the head of the country and the first man of the country, is considered to be honored and proud.. The Prime Minister is next to him. But even though the propaganda has been made that the event will take place with the presence of both the President and the Prime Minister, the two are not present at the event.
-
-...
-
-[Data](articles/210dbfac.json)
-
-[Extended Data](ext_articles/210dbfac.ext.json)
 
 ---

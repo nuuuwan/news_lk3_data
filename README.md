@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 21:33:08**
+As of **2024-01-22 22:05:07**
 
 ## Newspaper Stats
 
-*Scraped **1,871** Articles*
+*Scraped **1,873** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,55 @@ virakesarilk | 192
 adalk | 199
 dailymirrorlk | 220
 tamilmirrorlk | 231
-adaderanalk | 231
+adaderanalk | 233
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,839 (98.3%) of 1,871 articles have been extended.
+1,873 (100.0%) of 1,873 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### Measles vaccine already administered to 91% of children – Health Minister
+
+*2024-01-22 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96633/measles-vaccine-already-administered-to-91-of-children-health-minister) · `en`
+
+Health Minister Dr. Ramesh Pathirana announced a staggering 91% vaccination rate for measles among children, a crucial step in combating a recent resurgence of the disease after eradication. This achievement demonstrates the country’s dedication to proactive healthcare, he said.
+
+Speaking at a media briefing on Monday, Dr. Pathirana outlined further health priorities for 2024. Disease prevention takes centre stage, with plans to bolster primary healthcare services and improve efficiency for patients. Prompt access to essential resources is also a key focus, he stressed.
+
+However, tackling non-communicable diseases (NCDs) remains a major challenge. Over 20% of Sri Lankans battle diabetes, and the country holds the dubious distinction of having the highest prevalence of high blood pressure among over-35s in South Asia. Addressing these concerns and their associated complications like heart disease and stroke is critical for Sri Lanka’s long-term health, the minister said.
+
+...
+
+[Data](articles/720f251c.json)
+
+[Extended Data](ext_articles/720f251c.ext.json)
+
+---
+
+### UN experts call on Sri Lanka to immediately suspend and review ‘Yukthiya’ anti-drug operation
+
+*2024-01-22 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96632/un-experts-call-on-sri-lanka-to-immediately-suspend-and-review-yukthiya-anti-drug-operation) · `en`
+
+UN experts on Monday expressed alarm at the heavy security-driven approach of Sri Lanka’s drug response. They called on authorities to immediately suspend and review so-called Operation ‘Yukthiya’ and to focus on policies based on health and human rights.
+
+“Drug users have human rights,” the experts said. “They deserve to live a life with dignity without facing further discrimination and stigmatisation.”
+
+They deplored reported cases of arbitrary arrests of thousands of drug offenders from marginalised socio-economic groups, and the detention of hundreds in compulsory military-run rehabilitation centres. Torture and ill-treatment were also reported during the security operation known as ‘Yukthiya’.
+
+“The current context of severe repression against suspected drug offenders is deeply worrying,” the experts said.
+
+...
+
+[Data](articles/d1594782.json)
+
+[Extended Data](ext_articles/d1594782.ext.json)
+
+---
 
 ### Brunners' breasts Rs. Arrested with assets of three crores
 
@@ -1973,49 +2011,5 @@ In response, the Inspector General of Police, Deshabandu Tennakoon has done his 
 [Data](articles/ff3e4a03.json)
 
 [Extended Data](ext_articles/ff3e4a03.ext.json)
-
----
-
-### Ron DeSantis ends 2024 campaign, endorses Trump over Haley
-
-*2024-01-22 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96619/ron-desantis-ends-2024-campaign-endorses-trump-over-haley) · `en`
-
-Florida Governor Ron DeSantis ended his fading presidential campaign on Sunday and endorsed Donald Trump just two days before the pivotal New Hampshire primary, leaving former U.N. Ambassador Nikki Haley as Trump’s last long-shot challenger for the Republican nomination.
-
-DeSantis’ decision, less than a week after his deflating loss to Trump in Iowa despite an enormous investment there, caps a stunning fall from grace after DeSantis had been widely seen as Republicans’ most promising alternative to Trump ahead of the general election in November.
-
-His departure sets up the one-on-one battle that Haley has coveted against Trump, the former president who has maintained an iron grip on the Republican electorate despite facing four criminal prosecutions. Trump has pleaded not guilty in all the cases.
-
-...
-
-[Data](articles/f3c7db15.json)
-
-[Extended Data](ext_articles/f3c7db15.ext.json)
-
----
-
-### CCTV penalties: "12% of registered vehicles have not been assigned to the backing of backing
-
-*2024-01-22 12:26:31* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ce95dp5750mo) · `si`
-
-It contains nothing here. Play Video, "12% of registered vehicles, 12% of the salesholder's sales will be lawning the method of utilization on location entry related to the location of the route fine online.Acting IGP commented.
-
-CCTV penalties: "12% of registered vehicles have not been assigned to the backing of backing
-
-DIG Indika Hapugoda says that legal action will be taken against the repository of vehicles in the fined vessels through CCTV monitoring system.
-
-He said that about 82 lakhs of the Department of Motor Traffic are present.
-
-He was speaking at a program held today (January 22) on CCTV observations for traffic errors in Colombo.
-
-Meanwhile, the acting IGP commented on the introduction of the method of online fine online.
-
-The Sri Lankan police were also attempting to identify traffic violations by CCTV cameras and the Sri Lankan police were to implement the punishment of the wrongdoers in 2018.
-
-◼️
-
-[Data](articles/782219d7.json)
-
-[Extended Data](ext_articles/782219d7.ext.json)
 
 ---

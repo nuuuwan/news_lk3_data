@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 15:02:26**
+As of **2024-01-22 15:17:22**
 
 ## Newspaper Stats
 
-*Scraped **1,789** Articles*
+*Scraped **1,792** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 40
-adaderanasinhalalk | 92
+adaderanasinhalalk | 93
 islandlk | 108
 economynextcom | 112
 newsfirstlk | 113
@@ -20,31 +20,85 @@ virakesarilk | 176
 adalk | 188
 dailymirrorlk | 209
 adaderanalk | 221
-tamilmirrorlk | 221
+tamilmirrorlk | 223
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,651 (92.3%) of 1,789 articles have been extended.
+1,669 (93.1%) of 1,792 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### பிரத்தியேக வகுப்புகளுக்காக 122 பில்லியன் ரூபாவை ஒதுக்கும் பெற்றோர்!
+### උසස් පෙළ අවසන් කරන සිසුන්ට වෘත්තීය අධ්‍යාපනය පාසලේ දීම
+
+*2024-01-22 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192431) · `si`
+
+උසස් පෙළ අවසන් කරන ශිෂ්‍ය ශිෂ්‍යාවන්ට පෙබරවාරි මස සිට වෘත්තීය අධ්‍යාපනය පාසලේ දී ම ලබාදෙන බව අධ්‍යාපන අමාත්‍ය සුසිල් ප්‍රේමජයන්ත මහතා පවසයි.
+
+තොරතුරු තාක්ෂණය හා ඉංග්‍රීසි භාෂා දැනුම සහිත ව වෘත්තීය අධ්‍යාපනය පිළිබඳ ප්‍රායෝගික පුහුණුවක් සහ න්‍යායාත්මක පෙරහුරුවක් සහිත වැඩසටහනක් එලෙස සිදුකිරීමට නියමිතය.
+
+අපොස උසස් පෙළ අධ්‍යාපනය අවසන් කරන ශිෂ්‍ය ශිෂ්‍යාවන් වෘත්තීය අධ්‍යාපනයට යොමු කිරීමේ අරමුණින් ක්‍රියාත්මක මෙම වෘත්තීය පුහුණු වැඩසටහන දිවයිනේ තෝරාගත් පාසල් 299ක දී ක්‍රියාවට නංවන බව ද අමාත්‍යවරයා පැවසීය.
+
+2024 ජනවාරි මස අපොස  උසස් පෙළ විභාගය සඳහා පෙනී සිටින ශිෂ්‍ය ශිෂ්‍යාවන්ට පෙබරවාරි මස 09 දිනට පෙර මෙම වැඩසටහනට ලියාපදිංචි විය හැකිය
+
+මේ සම්බන්ධයෙන් වැඩිදුර තොරතුරු ප්‍රාදේශීය ලේකම් කාර්යාලයේ නිපුණතා සංවර්ධන නිලධාරීන්ගෙන් ලබාගත හැකි බවත් අධ්‍යාපන අමාත්‍යවරයා සඳහන් කළේය.
+
+අධ්‍යාපන අමාත්‍යාංශයේ නිපුණතා සංවර්ධන වෘත්තීය අධ්‍යාපන, පර්යේෂණ හා නව නිපැයුම් අංශය විසින් සංවිධානය කරන මෙම විශේෂ වෘත්තීය මාර්ගෝපදේශන වැඩසටහන සම්බන්ධයෙන් අධ්‍යාපන අමාත්‍යාංශයේ දී පැවති වැඩසටහනක දී අමාත්‍යවරයා මේ අදහස් පළ කළේය.
+
+◼️
+
+[Data](articles/1f54f21b.json)
+
+---
+
+### தயாசிறிக்கு எதிரான தடை உத்தரவு நீடிப்பு
+
+*2024-01-22 14:47:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தயாசிறிக்கு-எதிரான-தடை-உத்தரவு-நீடிப்பு/175-331952) · `ta`
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் முன்னாள் செயலாளர் தயாசிறி ஜயசேகர, ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் பதில் பொதுச் செயலாளரின் விவகாரங்களில் தலையிடுவதைத் தடுக்கும் வகையில் அவருக்கு பிறப்பிக்கப்பட்ட தடை உத்தரவை மேலும் நீடிக்க கொழும்பு மாவட்ட நீதிமன்றம் இன்று (22) உத்தரவிட்டுள்ளது.
+
+ஸ்ரீ லங்கா சுதந்திரக் கட்சியின் தலைவர் மைத்திரிபால சிறிசேன மற்றும் அதன் பதில் பொதுச் செயலாளர் சாரதி துஷ்மந்த மித்ரபால ஆகியோர் சமர்ப்பித்த மனு இன்று விசாரணைக்கு மீள அழைக்கப்பட்டதை அடுத்து இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c8ad55c9.json)
+
+---
+
+### O/L விண்ணப்பங்கள் தொடர்பில் வெளியான அறிவிப்பு
+
+*2024-01-22 14:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/O-L-விண்ணப்பங்கள்-தொடர்பில்-வெளியான-அறிவிப்பு/175-331949) · `ta`
+
+கல்விப் பொதுத் தராதரப் பத்திர சாதாரணத் தர பரீட்சைக்கு தோற்றுவதற்கான விண்ணப்பங்கள் கோருவது தொடர்பான அறிவிப்பை பரீட்சைகள் திணைக்களம் வெளியிட்டுள்ளது.
+
+அதன்படி ஜனவரி 23ஆம் திகதி முதல் பிப்ரவரி 15ஆம் திகதி வரை இணைய முறையில் மட்டுமே விண்ணப்பங்கள் கோரப்படும் என்று அந்த அறிவிப்பில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/09ce0e94.json)
+
+---
+
+### Parents who allocate 122 billion rupees for exclusive classes!
 
 *2024-01-22 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/174503) · `ta`
 
-இலங்கையின் இலவச கல்வியை கேள்விக்குட்படுத்தும் ஒரு அம்சமாக  பிரத்தியேக வகுப்பு கலாசாரம் உள்ளது.  மாதச் சம்பளத்தைப் ஆயிரக்கணக்கில்  பெற்றுக்கொள்ளும் ஆசிரியர்கள் பிரத்தியேக வகுப்புகளை நடத்தி இலட்சக்கணக்கில் பணம் பெறுகின்றனர்.
+Exclusive class culture is a feature of Sri Lanka's free education.Thousands of teachers who receive the monthly salary and conduct exclusive classes and get millions of money.
 
-ஒரு வகுப்பறையில் இருக்கக் கூடிய மாணவர்களின் எண்ணிக்கை 35 என கல்வி அமைச்சு வரையறை செய்துள்ளது.  40 நிமிட பாடவேளையில்  ஒரு ஆசிரியரின்  கற்பித்தலை விளங்கிக்கொண்டு, அதற்கேற்ப விடயதானங்களை உள்வாங்கிக்கொள்ளும் சூழல் வகுப்பறையில் நிலவ வேண்டும்.
+The Ministry of Education has defined the number of students in a classroom.In the 40 -minute course, the teaching of a teacher should be understood and the environment should be existed in the classroom.
 
-இதன் காரணமாகவே மாணவர் எண்ணிக்கை வரையறுக்கப்படுகின்றது.  அதே போன்று ஆசிரியர்களும்  குறித்த எண்ணிக்கையான மாணவர்களுக்கு மாத்திரமே ஒரு வகுப்பறையில் போதிக்கக்கூடிய உடல் உளத் தகுதிகள் மற்றும் திறன்களைக் கொண்டிருப்பர்.
+This is why the number of students is defined.Similarly, the number of teachers can only have physical qualifications and skills that teach in a classroom.
+
+But the same teachers are the same teachers who teach about five hundred students from two to three hours.. Parents and the Ministry of Education do not question this. But the issues of the Finance Minister Ranjith Siyambalab Bittiya are thinking about the amount of parents spending on exclusive classes in our country.. Parents are allocating thirty percent of their children for exclusive classes, rather than the amount they spend on school education, he said.
 
 ...
 
 [Data](articles/0564eee7.json)
+
+[Extended Data](ext_articles/0564eee7.ext.json)
 
 ---
 
@@ -61,6 +115,8 @@ The deadline for submitting online applications is midnight on 15 February, the 
 ◼️
 
 [Data](articles/2a09df7d.json)
+
+[Extended Data](ext_articles/2a09df7d.ext.json)
 
 ---
 
@@ -82,19 +138,23 @@ He is a CFA charter holder. He has Bachelor of Commerce degree and Master of Fin
 
 [Data](articles/a99cd5e6.json)
 
+[Extended Data](ext_articles/a99cd5e6.ext.json)
+
 ---
 
-### சம்பந்தனை சந்தித்தார் இலங்கை தமிழரசுக் கட்சியின் தலைவர் சிறிதரன்
+### Sri Lanka Tamil National Alliance (TNA) leader Sridharan met Sambandan
 
 *2024-01-22 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174518) · `ta`
 
-இலங்கை தமிழரசு கட்சியின் புதிய தலைவரும், பாராளுமன்ற உறுப்பினருமான சிவஞானம் சிறிதரன் கட்சியின் சிரேஸ்ட தலைவரும் திருகோணமலை மாவட்ட பாராளுமன்ற உறுப்பினருமான இரா.சம்பந்தனை சந்தித்து கலந்துரையாடினார்.
+The new leader of the Sri Lanka Tamil National Party and Sivagnanam Sridharan, the senior leader of the party and the Trincomalee district parliamentarian, R. Sampanthan, met.
 
-திங்கட்கிழமை (22) அவரது கொழும்பில் உள்ள இல்லத்தில் சந்தித்து ஆசிபெற்றதுடன் கட்சியின் நகர்வுகள் அடுத்தகட்ட நடவடிக்கைகள் தொடர்பில் கலந்துரையாடினார்.
+On Monday (22), he met at his residence in Colombo and discussed the next steps of the party's moves.
 
 ◼️
 
 [Data](articles/066d7b7e.json)
+
+[Extended Data](ext_articles/066d7b7e.ext.json)
 
 ---
 
@@ -116,57 +176,65 @@ Upon Consideration, the bench fixed the date for calling this petition on the 31
 
 [Data](articles/4e544a8c.json)
 
+[Extended Data](ext_articles/4e544a8c.ext.json)
+
 ---
 
-### தயாசிறி ஜயசேகரவுக்கு விதிக்கப்பட்ட தடை உத்தரவு நீடிக்கப்பட்டது!
+### Dayasiri Jayasekara's ban on Jayasekara has been extended!
 
 *2024-01-22 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174516) · `ta`
 
-ஶ்ரீலங்கா சுதந்திரக் கட்சியின் பதில் பொதுச் செயலாளர் சரதி துஷ்மந்த மித்ரபாலவின் செயற்பாடுகளுக்கு இடையூறு விளைவிக்கக் கூடாது என ஸ்ரீலங்கா சுதந்திரக் கட்சியின் முன்னாள் பொதுச் செயலாளர் தயாசிறி ஜயசேகரவுக்கு விதிக்கப்பட்ட தடை உத்தரவை கொழும்பு மாவட்ட நீதிமன்றம் திங்கட்கிழமை (22) மேலும் நீடித்துள்ளது.
+The Colombo District Court on Monday (22) has extended an order imposed on former Sri Lanka Freedom Party (SLFP) general secretary Dayasiri Jayasekara not to disrupt the activities of the Sri Lanka Freedom Party (SLFP) General Secretary Sarathi Dushmantha Mithrapala.
 
-மித்ரபால மற்றும் ஸ்ரீலங்கா சுதந்திரக் கட்சியின் தலைவர் முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன ஆகியோர் தாக்கல் செய்த மனு திங்கட்கிழமை (22) காலை நீதிமன்றில் விசாரணைக்கு எடுத்துக் கொள்ளப்பட்டபோதே இந்த உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+The order was issued when the petition filed by Mithrapala and former President Maithripala Sirisena was taken up in court on Monday morning.
 
-இந்த வழக்கு விசாரணை எதிர்வரும் 29 ஆம் திகதி மீண்டும் விசாரணைக்கு எடுத்துக் கொள்ளப்படவுள்ளது.
+The trial will be taken up again on the 29th of this month.
 
 ◼️
 
 [Data](articles/22d73012.json)
 
+[Extended Data](ext_articles/22d73012.ext.json)
+
 ---
 
-### மாத்தறை துப்பாக்கிப் பிரயோகம்: உயிரிழந்தவர் இலக்கு அல்ல என பொலிஸார் சந்தேகம்!
+### Matara shooting: Police suspect that the deceased is not the target!
 
 *2024-01-22 13:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174520) · `ta`
 
-மாத்தறை, மாலிம்பட பொலிஸ் பிரிவுக்கு உட்பட்ட  தெலிஜ்ஜவிலவில்  உள்ள கையடக்கத் தொலைபேசி உபகரண விற்பனை நிலையமொன்றில் கடந்த 20ஆம் திகதி இரவு மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டுச் சம்பவம்  உயிரிழந்த நபரை இலக்கு வைத்தது  அல்ல  என விசாரணைகளை மேற்கொண்டுவரும் பொலிஸார் சந்தேகம் வெளியிட்டுள்ளனர்.
+Investigations have expressed suspicion that the shooting incident carried out at a mobile phone equipment stall at the Telijjavila, which belongs to the Matara, Malimbada police division, was not targeted by the victim.
 
-துப்பாக்கிச் சூடு நடந்தபோது கடையின் உரிமையாளர் கடையின் முன்பாக நின்று கொண்டிருந்துள்ளார்.  உயிரிழந்த இளைஞர்   தனது கையடக்கத் தொலைபேசியை சார்ஜ் செய்வதற்காக கடைக்குள் இருந்தமை தெரிய வந்துள்ளது.
+The owner of the store was standing in front of the store when the shooting took place.It has been revealed that the deceased youth was inside the shop to charge his mobile phone.
 
-இந்த இளைஞர்  கொரியாவுக்குச் செல்ல எதிர்பார்த்திருந்ததாகவும் தெரிய வந்துள்ளதுடன்  பொலிஸார் மேற்கொண்ட விசாரணையில் அவர் எந்த குற்றத்துடனும் ஈடுபாடு கொண்டவர் அல்லர் என்பதும் தெரிய வந்துள்ளது.
+It has been revealed that the young man was expecting to go to Korea and police investigations revealed that he was not involved in any crime.
 
 ◼️
 
 [Data](articles/230ae6ab.json)
 
+[Extended Data](ext_articles/230ae6ab.ext.json)
+
 ---
 
-### மைத்திரியின் மகள் வீட்டில் கொள்ளை
+### Maithri's daughter robbery at home
 
 *2024-01-22 13:50:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-மகள்-வீட்டில்-கொள்ளை/175-331947) · `ta`
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் மகள் வீடு உடைக்கப்பட்டு, 30 இலட்சம் ரூபாய் பெறுமதியான சொத்துக்கள் திருடப்பட்டுள்ளன என தலங்கம பொலிஸார் தெரிவித்தனர்.
+The daughter of former President Maithripala Sirisena's house has been broken and assets worth Rs 30 lakh have been stolen, Talangama police said.
 
-பத்தரமுல்ல விக்ரமசிங்க புரவில் உள்ள இரண்டு மாடி வீடே உடைக்கப்பட்டு திருடப்பட்டுள்ளதாக தலங்கம பொலிஸார் தெரிவித்துள்ளனர்.
+The two -storey house in the Battaramulla Wickremasinghe host has been smashed and stolen, Talangama police said.
 
-திருடப்பட்ட பொருட்களில் வீட்டின் அலுமாரியில் இருந்த 1,50,000 ரூபாய் பணம், தங்க முலாம் பூசப்பட்ட ஒட்டகச் சிலை, ஸ்மார்ட் கைக்கடிகாரம்,  தங்க முலாம் பூசப்பட்ட சிங்கப்பூர் நாணயங்கள் 8, உலருணவுப் பொருட்கள் மற்றும் பாடசாலை புத்தகப் பை என்பன உள்ளடங்குவதாக பொலிஸார் தெரிவித்தனர். .
+Police said that stolen items include Rs 1,50,000, gold plated camel statue, smart wristwatch, gold plated Singapore coins 8, drying products and school book bag.. .
 
-முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் மகள் தன்னுடைய கணவனுடன் கொழும்பில் உள்ள வீட்டுக்கு வந்துள்ளனர். அப்போதே, ​​வீடு உடைக்கப்பட்டுள்ளதாக பொலிஸாருக்கு தகவல் கொடுத்துள்ளனர்.
+Former President Maithripala Sirisena's daughter has come to his home in Colombo with her husband. By then, the police had informed that the house had been broken.
 
-முன் கண்ணாடிக் கதவை உடைத்து வீட்டுக்குள் நுழைந்து சொத்துக்களை திருடிச் சென்றுள்ளதாக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் மகளின் கணவரான வர்த்தகர்,  பொலிஸில் முறைப்பாடு செய்துள்ளதாக சிரேஷ்ட பொலிஸ் அதிகாரி மேலும் தெரிவித்தார்.
+The Senior Police Officer added that the businessman, the husband of former President Maithripala Sirisena's daughter, has lodged a complaint with the police that she has broken into the front glass door and stole the property.
 
 ◼️
 
 [Data](articles/6c1b13d7.json)
+
+[Extended Data](ext_articles/6c1b13d7.ext.json)
 
 ---
 
@@ -179,6 +247,8 @@ The National Indoor Rowing Championships 2024 organized by the Amateur Rowing As
 ◼️
 
 [Data](articles/40650791.json)
+
+[Extended Data](ext_articles/40650791.ext.json)
 
 ---
 
@@ -199,6 +269,8 @@ Yoichi Kogure, Senior Consultant at Japan Development Service Co Ltd and Malith 
 ...
 
 [Data](articles/5dc24090.json)
+
+[Extended Data](ext_articles/5dc24090.ext.json)
 
 ---
 
@@ -284,6 +356,8 @@ Critics have also accused the government of going overboard with what is essenti
 
 [Data](articles/cf1af009.json)
 
+[Extended Data](ext_articles/cf1af009.ext.json)
+
 ---
 
 ### Today's currency exchange rate
@@ -361,6 +435,8 @@ Speaking to reporters, the MP said the proposed bill is a threat to Sri Lanka’
 ...
 
 [Data](articles/6469b2ad.json)
+
+[Extended Data](ext_articles/6469b2ad.ext.json)
 
 ---
 
@@ -469,6 +545,8 @@ Speaking to party members and supporters following the election on Sunday Januar
 ...
 
 [Data](articles/fd99eee1.json)
+
+[Extended Data](ext_articles/fd99eee1.ext.json)
 
 ---
 
@@ -648,21 +726,25 @@ Colombo, Jan. 22 (Daily Mirror)- Referring to the killing of five persons, inclu
 
 ---
 
-### හොරුන්ට ගෙවල් බිඳින්න ගෙදර  ඉන්න අයත් නොදැනිම උදවු කරනවා
+### Thieves help you stay home to break homes
 
 *2024-01-22 11:53:19* · [`adalk`](https://www.ada.lk/breaking_news/හොරුන්ට-ගෙවල්-බිඳින්න-ගෙදර--ඉන්න-අයත්-නොදැනිම-උදවු-කරනවා/11-407660) · `si`
 
-ගෙවල් බිඳ තමන්ගේ දේපළ සොරාගෙන යන්නේ බොහෝ විට තමන්ගේම වරදින් බවත් බොහෝ දෙනා තමන්ගේ දේපළ සොරකම් කරගෙන යාමට නොදැනුවත්වම  පහසුකම් සලසන  බවත් ගාල්ල දිසාව බාර නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත චන්ද්‍රසිරි මහතා පැවසීය.
+DIG Priyantha Chandrasiri said that the houses will be taken to steal their property and that many people are unwittingly facilitate their property.
 
-බෙන්තොට පොලිස් උපදේශන කමිටු සාමාජිකයන් දැනුවත් කිරීම සඳහා ඉකුත්දා බෙන්තොට පොලිස් ස්ථානයේදී පැවති රැස්වීමේදී ඒ මහතා එසේ පැවසීය.
+He was speaking at the meeting held at Bentota Police Station recently to educate the Bentota Police Advisory Committee Members.
 
-"බොහෝ අය නිවෙස් වසා පිටතට යනවිට නිවසේ යතුර නිවසේ ඉදිරිපිට ඇති මල් පෝච්චිය හෝ පාපිස්ස යට තබා යනවා.ඒ යතුරින්ම දොර ඇරගෙන හෝ දොර කඩාගෙන හොරු ගෙට ඇතුළු වුනාම අල්මාරියේ යතුර අල්මාරියේම තිබෙන නිසා සොරකමට පහසු වෙනවා.දොර කඩන්න ඕනෙවෙන අලවංගුව,පොල් උල,ආදියත් ගේ අයිනේ තිබෙනවා.වහලට නගින්නත් හොරාට ඉනිමග තියෙනවා.
+"When many people close the house, the house is located in front of the house, and the cupboard is easier to break the robbery.There is also a climb to climb, and thief.
 
-බයිසිකලය ක්‍රියාත්මක තත්වයේම නවතා කඩේට යනවා.ඒ ගිහින් එනකොට බයිසිකලේ හොරු අරන් ගිහින්.ගෙදර හදන  හරකව රෑට   ගෙට බොහෝ ඈතින් ගාල් කරනවා.හරකව හොරු අරන් යනවා.මේ විදියට බැලුවම හොරුන්ට පහසුකම් සපයන්නේ ජනතාවමයි.
+When the bicycle is stopped at the same time.
 
-...
+The prevention of these flaws is a major road to prevent theft.
+
+◼️
 
 [Data](articles/df92c0c4.json)
+
+[Extended Data](ext_articles/df92c0c4.ext.json)
 
 ---
 
@@ -836,23 +918,27 @@ More than 1 crore people have shared this post and shared it. Ashley said that i
 
 ---
 
-### 5 பெண்களை கர்ப்பமாக்கி  ஐவருக்கும் வளைகாப்பு நடத்தி அசத்தல்
+### 5 women pregnant and have a baby shower
 
 *2024-01-22 11:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/5-பெண்களை-கர்ப்பமாக்கி-ஐவருக்கும்-வளைகாப்பு-நடத்தி-அசத்தல்/53-331941) · `ta`
 
-நாமிருவர் நமக்கு இருவர் என்ற நிலைமை மாறி, நாமிருவர் நமக்கு ஒருவர் என்றே இன்னுமிருக்கிறது. நாடுகளின் நிலைமை இவ்வாறே நீடிக்குமாயின் நமக்கேன் ஒருவர், என்ற சிந்தனையும் வளரக்கூடிய வாய்ப்பு இருக்கின்றது. இப்படி இருக்கையில், ஐந்து பெண்களை கர்ப்பமாக்கி ஐவருக்கும் ஒரே நேரத்தில் வளைகாப்பு நடத்திய சம்பவம் வைரலாகியுள்ளது.
+The situation that we are two are us, and we still have one of us. If the situation of the countries lasts like this, there is a possibility that we can grow up. In this case, the incident of the baby shower for all five women pregnant and the simultaneous baby shower has gone viral.
 
-அமெரிக்காவை சேர்ந்த இசைக்கலைஞரான ஸெடி வயது வித்தியாசம் கொண்ட 5 பெண்களை கர்ப்பமாக்கியுள்ளார்.
+Zedi, a US -based musician, has made 5 women pregnant.
 
-அந்த 5 பேருக்கும் ஒரே நேரத்தில் வளைகாப்பு நடத்தப்பட்ட சுவாரசிய சம்பவம் நடந்துள்ளது. இதுகுறித்த புகைப்படங்கள் சமூக வலைதளங்களில் வைரலாகி வருகின்றது.
+அந்த 5 பேருக்கும் ஒரே நேரத்தில் வளைகாப்பு நடத்தப்பட்ட சுவாரசிய சம்பவம் நடந்துள்ளது. Photos of this are going viral on social networks.
 
-5 பேருடன் பல நேரங்களில் தொடர்பு வைத்திருந்தபோதிலும், அனைவரும்  சில நாட்கள் வித்தியாசத்தில் கர்ப்பம் அடைந்ததாக ஸெடி தெரிவித்துள்ளார்.  அவ்விளைஞனுக்கு வயது 22 தானாம்.
+Although he has often been in touch with 5 people, everyone has been pregnant by a few days.. The man is 22 years old.
 
-இந்த சம்பவம் ஸெடியால் கர்ப்பமாக்கப்பட்ட 29 வயதாகும் ஆஷ்லே என்ற பெண், சமூக வலைதளங்களில் புகைப்படங்களை வெளியிட்டதை தொடர்ந்து உலகுக்கு தெரியவந்தது.
+The incident was revealed to the world after the incident was posted on social networks, Ashley, a 29 -year -old woman who was pregnant with Zadi.
+
+More than 1 crore people have shared this post and shared it. எல்லாம் நல்லபடியாக முடிந்தால் விரைவில் குடும்பத்தினரின் எண்ணிக்கை 11 ஆகும் என்று ஆஷ்லே கூறியுள்ளார்.
 
 ...
 
 [Data](articles/bb607818.json)
+
+[Extended Data](ext_articles/bb607818.ext.json)
 
 ---
 
@@ -1949,65 +2035,5 @@ Therefore, this chauvinist gang must liberate the country and lead the country t
 [Data](articles/bdc9b787.json)
 
 [Extended Data](ext_articles/bdc9b787.ext.json)
-
----
-
-### Carrot, beans and leeks can be supplied at Rs. 300 to Rs. 350 a kilo, if imported: Minister
-
-*2024-01-22 07:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Carrot-beans-and-leeks-can-be-supplied-at-Rs-300-to-Rs-350-a-kilo-if-imported-Minister/155-275463) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - Commenting on the sky rocketing vegetable prices, the Trade, Commerce, and Food Security Minister Nalin Fernando said if vegetables were imported, vegetables such as a kilo of carrot, beans and leeks can be supplied at Rs. 300 to Rs. 350.
-
-“I informed the Secretary to the President to convene the Food Policy Committee and asked the Agriculture Ministry and other relevant institutions whether they can provide vegetables at a low rate. They have agreed at the Food Policy Committee to reduce vegetable prices within a month or one and half months. If vegetables were imported, we can provide a kilo of leeks, carrots and beans at Rs. 300 to Rs. 350,” he said.
-
-He told reporters yesterday that the price of an imported egg was increased by Rs. 8 from today due to the increase in VAT and other taxes. An imported egg would be sold at Rs. 43 at all Sathosa outlets under the new price whereas it was previously sold at Rs. 35, he stated .
-
-...
-
-[Data](articles/552fd946.json)
-
-[Extended Data](ext_articles/552fd946.ext.json)
-
----
-
-### Electricity unions today in a crucial discussion
-
-*2024-01-22 07:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192413) · `si`
-
-A special discussion will be held today (22) on decisions that will be taken against the development of a group of electricity staff.
-
-The discussion will be held under the patronage of the Ceylon Electricity Unions, which will participate in all the trade unions representing all the fields.
-
-The discussion is scheduled to be held at the Maradana at 9 am this morning.
-
-Meanwhile, trade union measures have also been taken to start a leaflets distribution campaign in front of the Ceylon Electricity Board Head Office this morning.
-
-The Civil Assistance of Civil Assistance has also been planned in front of Civil Organization Ceylon Electricity Federation.
-
-◼️
-
-[Data](articles/998af7a5.json)
-
-[Extended Data](ext_articles/998af7a5.ext.json)
-
----
-
-### Three employees arrested for assaulting doctors
-
-*2024-01-22 07:06:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியரைத்-தாக்கிய-ஊழியர்கள்-மூவர்-கைது/175-331931) · `ta`
-
-Galle police have arrested three hospital workers, including a woman, for allegedly assaulting Krishantha Perera, a surgeon at the Karapitiya Teaching Hospital.
-
-The police said that they were arrested during an investigation into the complaint lodged by the doctor at the Galle Police on January 17.
-
-Accordingly, a 52 -year -old female health assistant and two assistants aged 45 and 43 have been arrested.
-
-The ONCO Surgery Expert, who allegedly assaulted a female hospital employee during a controversial situation at the hospital premises last Wednesday, was arrested by the Galle Magistrate's Court and kept in detention until January 22.
-
-◼️
-
-[Data](articles/86e4ff74.json)
-
-[Extended Data](ext_articles/86e4ff74.ext.json)
 
 ---

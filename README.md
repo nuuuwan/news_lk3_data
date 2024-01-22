@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 14:51:25**
+As of **2024-01-22 15:02:26**
 
 ## Newspaper Stats
 
-*Scraped **1,783** Articles*
+*Scraped **1,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,77 @@ colombotelegraphcom | 29
 bbccomsinhala | 40
 adaderanasinhalalk | 92
 islandlk | 108
-economynextcom | 111
+economynextcom | 112
 newsfirstlk | 113
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 175
-adalk | 187
+virakesarilk | 176
+adalk | 188
 dailymirrorlk | 209
-tamilmirrorlk | 219
-adaderanalk | 220
+adaderanalk | 221
+tamilmirrorlk | 221
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,651 (92.6%) of 1,783 articles have been extended.
+1,651 (92.3%) of 1,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### பிரத்தியேக வகுப்புகளுக்காக 122 பில்லியன் ரூபாவை ஒதுக்கும் பெற்றோர்!
+
+*2024-01-22 14:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/174503) · `ta`
+
+இலங்கையின் இலவச கல்வியை கேள்விக்குட்படுத்தும் ஒரு அம்சமாக  பிரத்தியேக வகுப்பு கலாசாரம் உள்ளது.  மாதச் சம்பளத்தைப் ஆயிரக்கணக்கில்  பெற்றுக்கொள்ளும் ஆசிரியர்கள் பிரத்தியேக வகுப்புகளை நடத்தி இலட்சக்கணக்கில் பணம் பெறுகின்றனர்.
+
+ஒரு வகுப்பறையில் இருக்கக் கூடிய மாணவர்களின் எண்ணிக்கை 35 என கல்வி அமைச்சு வரையறை செய்துள்ளது.  40 நிமிட பாடவேளையில்  ஒரு ஆசிரியரின்  கற்பித்தலை விளங்கிக்கொண்டு, அதற்கேற்ப விடயதானங்களை உள்வாங்கிக்கொள்ளும் சூழல் வகுப்பறையில் நிலவ வேண்டும்.
+
+இதன் காரணமாகவே மாணவர் எண்ணிக்கை வரையறுக்கப்படுகின்றது.  அதே போன்று ஆசிரியர்களும்  குறித்த எண்ணிக்கையான மாணவர்களுக்கு மாத்திரமே ஒரு வகுப்பறையில் போதிக்கக்கூடிய உடல் உளத் தகுதிகள் மற்றும் திறன்களைக் கொண்டிருப்பர்.
+
+...
+
+[Data](articles/0564eee7.json)
+
+---
+
+### Applications for 2023 G.C.E O/L exam to be called from tomorrow
+
+*2024-01-22 14:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/96621/applications-for-2023-gce-ol-exam-to-be-called-from-tomorrow-) · `en`
+
+Applications for the 2023 (2024) G.C.E. Ordinary Level examination will be called from 23 January to 15 February, the Department of Examinations announced.
+
+In a statement issued on Monday (22 Jan.), the department highlighted that only applications sent online, via its official websites - www.doenets.lk or www.onlineexams.gov.lk/eic will be accepted.
+
+The deadline for submitting online applications is midnight on 15 February, the department stated, while emphasisng that no extensions of any kind will be granted.
+
+◼️
+
+[Data](articles/2a09df7d.json)
+
+---
+
+### Dasun Perera appointed Chief Executive of Senfin Securities
+
+*2024-01-22 14:30:00* · [`economynextcom`](https://economynext.com/dasun-perera-appointed-chief-executive-of-senfin-securities-148224/) · `en`
+
+ECONOMYNEXT – Dasun Perera has been appointed Chief Executive at Senfin Securities Limited, a trading member of the Colombo Stock Exchange, which is affiliated to Senkadagala Finance.
+
+Perera was the Deputy Chief Investment Officer of Senkadagala Finance PLC (SFCL).
+
+He had previously been at NDB Wealth Management, Senfin Asset Management (Pvt) Ltd and at JB Financial (Pvt) Ltd.
+
+Perera had gained post graduate experience with placements at the Inspiration Group in Germany and BlackRock in UK.
+
+He is a CFA charter holder. He has Bachelor of Commerce degree and Master of Finance (MFin) degree. (Colombo/Jan22/2024)
+
+◼️
+
+[Data](articles/a99cd5e6.json)
+
+---
 
 ### சம்பந்தனை சந்தித்தார் இலங்கை தமிழரசுக் கட்சியின் தலைவர் சிறிதரன்
 
@@ -95,6 +147,26 @@ Upon Consideration, the bench fixed the date for calling this petition on the 31
 ◼️
 
 [Data](articles/230ae6ab.json)
+
+---
+
+### மைத்திரியின் மகள் வீட்டில் கொள்ளை
+
+*2024-01-22 13:50:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மைத்திரியின்-மகள்-வீட்டில்-கொள்ளை/175-331947) · `ta`
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் மகள் வீடு உடைக்கப்பட்டு, 30 இலட்சம் ரூபாய் பெறுமதியான சொத்துக்கள் திருடப்பட்டுள்ளன என தலங்கம பொலிஸார் தெரிவித்தனர்.
+
+பத்தரமுல்ல விக்ரமசிங்க புரவில் உள்ள இரண்டு மாடி வீடே உடைக்கப்பட்டு திருடப்பட்டுள்ளதாக தலங்கம பொலிஸார் தெரிவித்துள்ளனர்.
+
+திருடப்பட்ட பொருட்களில் வீட்டின் அலுமாரியில் இருந்த 1,50,000 ரூபாய் பணம், தங்க முலாம் பூசப்பட்ட ஒட்டகச் சிலை, ஸ்மார்ட் கைக்கடிகாரம்,  தங்க முலாம் பூசப்பட்ட சிங்கப்பூர் நாணயங்கள் 8, உலருணவுப் பொருட்கள் மற்றும் பாடசாலை புத்தகப் பை என்பன உள்ளடங்குவதாக பொலிஸார் தெரிவித்தனர். .
+
+முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் மகள் தன்னுடைய கணவனுடன் கொழும்பில் உள்ள வீட்டுக்கு வந்துள்ளனர். அப்போதே, ​​வீடு உடைக்கப்பட்டுள்ளதாக பொலிஸாருக்கு தகவல் கொடுத்துள்ளனர்.
+
+முன் கண்ணாடிக் கதவை உடைத்து வீட்டுக்குள் நுழைந்து சொத்துக்களை திருடிச் சென்றுள்ளதாக முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவின் மகளின் கணவரான வர்த்தகர்,  பொலிஸில் முறைப்பாடு செய்துள்ளதாக சிரேஷ்ட பொலிஸ் அதிகாரி மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/6c1b13d7.json)
 
 ---
 
@@ -173,6 +245,22 @@ The traditional festivals and festivals of the Tamils have some special characte
 [Data](articles/210dbfac.json)
 
 [Extended Data](ext_articles/210dbfac.ext.json)
+
+---
+
+### Warning to the public: A gang involved in money laundering
+
+*2024-01-22 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174499) · `ta`
+
+Police said that a mob is working in hiding in various parts of the country, calling themselves the police, claiming to be a policeman.
+
+In particular, police media spokesman Nihal Talduwa said that such calls have been made for houses in Mulleria and Navagamuwa areas and that police have received several complaints regarding the call for money being called police.
+
+◼️
+
+[Data](articles/5e924b08.json)
+
+[Extended Data](ext_articles/5e924b08.ext.json)
 
 ---
 
@@ -309,6 +397,26 @@ The Kumbabhishekam of the Rama Temple, which is built in Ayodhya. Various sector
 [Data](articles/066e85d9.json)
 
 [Extended Data](ext_articles/066e85d9.ext.json)
+
+---
+
+### Social Web Site as the force that determines diplomacy beyond politics
+
+*2024-01-22 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/174477) · `ta`
+
+Is it possible to mortgage the lives of millions of people in the name of development for the desires of Indians who seek revenge on the Maldives?
+
+In the contemporary world where politics and diplomacy are determined by the basis for the ideas that are spread through social networks, these people cannot succeed.
+
+This is because Indians and the Maldives do not have the number of influential numbers and energy on social networks.
+
+It is imperative to see the problem of these people beyond the mirror of the Internet.
+
+◼️
+
+[Data](articles/2beb2ad6.json)
+
+[Extended Data](ext_articles/2beb2ad6.ext.json)
 
 ---
 
@@ -490,6 +598,20 @@ It is later reported to be issued with a charge and issue of a charge against Mr
 
 ---
 
+### Mahinda Vajira Secret Talk
+
+*2024-01-22 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174475) · `ta`
+
+The information is being spread by members of the United People's Power, including Nalin Bandara and SM Marikar, a UNP chief said. However, when President Ranil Wickremesinghe returns to the country, the fourth session of the ninth parliament will be concluded on the 24th of this month and the new session will commence on February 7.
+
+◼️
+
+[Data](articles/bd7c429f.json)
+
+[Extended Data](ext_articles/bd7c429f.ext.json)
+
+---
+
 ### 79 luxury vehicles belonging to the drug network
 
 *2024-01-22 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174502) · `ta`
@@ -526,23 +648,21 @@ Colombo, Jan. 22 (Daily Mirror)- Referring to the killing of five persons, inclu
 
 ---
 
-### Social Web Site as the force that determines diplomacy beyond politics
+### හොරුන්ට ගෙවල් බිඳින්න ගෙදර  ඉන්න අයත් නොදැනිම උදවු කරනවා
 
-*2024-01-22 11:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/174477) · `ta`
+*2024-01-22 11:53:19* · [`adalk`](https://www.ada.lk/breaking_news/හොරුන්ට-ගෙවල්-බිඳින්න-ගෙදර--ඉන්න-අයත්-නොදැනිම-උදවු-කරනවා/11-407660) · `si`
 
-Is it possible to mortgage the lives of millions of people in the name of development for the desires of Indians who seek revenge on the Maldives?
+ගෙවල් බිඳ තමන්ගේ දේපළ සොරාගෙන යන්නේ බොහෝ විට තමන්ගේම වරදින් බවත් බොහෝ දෙනා තමන්ගේ දේපළ සොරකම් කරගෙන යාමට නොදැනුවත්වම  පහසුකම් සලසන  බවත් ගාල්ල දිසාව බාර නියෝජ්‍ය පොලිස්පති ප්‍රියන්ත චන්ද්‍රසිරි මහතා පැවසීය.
 
-In the contemporary world where politics and diplomacy are determined by the basis for the ideas that are spread through social networks, these people cannot succeed.
+බෙන්තොට පොලිස් උපදේශන කමිටු සාමාජිකයන් දැනුවත් කිරීම සඳහා ඉකුත්දා බෙන්තොට පොලිස් ස්ථානයේදී පැවති රැස්වීමේදී ඒ මහතා එසේ පැවසීය.
 
-This is because Indians and the Maldives do not have the number of influential numbers and energy on social networks.
+"බොහෝ අය නිවෙස් වසා පිටතට යනවිට නිවසේ යතුර නිවසේ ඉදිරිපිට ඇති මල් පෝච්චිය හෝ පාපිස්ස යට තබා යනවා.ඒ යතුරින්ම දොර ඇරගෙන හෝ දොර කඩාගෙන හොරු ගෙට ඇතුළු වුනාම අල්මාරියේ යතුර අල්මාරියේම තිබෙන නිසා සොරකමට පහසු වෙනවා.දොර කඩන්න ඕනෙවෙන අලවංගුව,පොල් උල,ආදියත් ගේ අයිනේ තිබෙනවා.වහලට නගින්නත් හොරාට ඉනිමග තියෙනවා.
 
-It is imperative to see the problem of these people beyond the mirror of the Internet.
+බයිසිකලය ක්‍රියාත්මක තත්වයේම නවතා කඩේට යනවා.ඒ ගිහින් එනකොට බයිසිකලේ හොරු අරන් ගිහින්.ගෙදර හදන  හරකව රෑට   ගෙට බොහෝ ඈතින් ගාල් කරනවා.හරකව හොරු අරන් යනවා.මේ විදියට බැලුවම හොරුන්ට පහසුකම් සපයන්නේ ජනතාවමයි.
 
-◼️
+...
 
-[Data](articles/2beb2ad6.json)
-
-[Extended Data](ext_articles/2beb2ad6.ext.json)
+[Data](articles/df92c0c4.json)
 
 ---
 
@@ -634,22 +754,6 @@ It is expected that there will be excessive monk and the winter winds in this we
 
 ---
 
-### Warning to the public: A gang involved in money laundering
-
-*2024-01-22 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174499) · `ta`
-
-Police said that a mob is working in hiding in various parts of the country, calling themselves the police, claiming to be a policeman.
-
-In particular, police media spokesman Nihal Talduwa said that such calls have been made for houses in Mulleria and Navagamuwa areas and that police have received several complaints regarding the call for money being called police.
-
-◼️
-
-[Data](articles/5e924b08.json)
-
-[Extended Data](ext_articles/5e924b08.ext.json)
-
----
-
 ### India’s Modi set to open Ram temple at Ayodhya
 
 *2024-01-22 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96616/indias-modi-set-to-open-ram-temple-at-ayodhya) · `en`
@@ -729,6 +833,26 @@ More than 1 crore people have shared this post and shared it. Ashley said that i
 [Data](articles/6bfd2558.json)
 
 [Extended Data](ext_articles/6bfd2558.ext.json)
+
+---
+
+### 5 பெண்களை கர்ப்பமாக்கி  ஐவருக்கும் வளைகாப்பு நடத்தி அசத்தல்
+
+*2024-01-22 11:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/5-பெண்களை-கர்ப்பமாக்கி-ஐவருக்கும்-வளைகாப்பு-நடத்தி-அசத்தல்/53-331941) · `ta`
+
+நாமிருவர் நமக்கு இருவர் என்ற நிலைமை மாறி, நாமிருவர் நமக்கு ஒருவர் என்றே இன்னுமிருக்கிறது. நாடுகளின் நிலைமை இவ்வாறே நீடிக்குமாயின் நமக்கேன் ஒருவர், என்ற சிந்தனையும் வளரக்கூடிய வாய்ப்பு இருக்கின்றது. இப்படி இருக்கையில், ஐந்து பெண்களை கர்ப்பமாக்கி ஐவருக்கும் ஒரே நேரத்தில் வளைகாப்பு நடத்திய சம்பவம் வைரலாகியுள்ளது.
+
+அமெரிக்காவை சேர்ந்த இசைக்கலைஞரான ஸெடி வயது வித்தியாசம் கொண்ட 5 பெண்களை கர்ப்பமாக்கியுள்ளார்.
+
+அந்த 5 பேருக்கும் ஒரே நேரத்தில் வளைகாப்பு நடத்தப்பட்ட சுவாரசிய சம்பவம் நடந்துள்ளது. இதுகுறித்த புகைப்படங்கள் சமூக வலைதளங்களில் வைரலாகி வருகின்றது.
+
+5 பேருடன் பல நேரங்களில் தொடர்பு வைத்திருந்தபோதிலும், அனைவரும்  சில நாட்கள் வித்தியாசத்தில் கர்ப்பம் அடைந்ததாக ஸெடி தெரிவித்துள்ளார்.  அவ்விளைஞனுக்கு வயது 22 தானாம்.
+
+இந்த சம்பவம் ஸெடியால் கர்ப்பமாக்கப்பட்ட 29 வயதாகும் ஆஷ்லே என்ற பெண், சமூக வலைதளங்களில் புகைப்படங்களை வெளியிட்டதை தொடர்ந்து உலகுக்கு தெரியவந்தது.
+
+...
+
+[Data](articles/bb607818.json)
 
 ---
 
@@ -1232,13 +1356,13 @@ Among the victims is the leader of the Apey Janabala Pakshaya (Our People's Part
 
 News 1st correspondent said several people who were shot were outside a tea shop near the exit, and others were in the vehicle.
 
+Supreme Court to consider Fundamental Rights application by Cardinal Malcolm Ranjith
+
 BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
 
 Special dengue control program in Colombo, Gampaha, Jaffna and Kandy districts throughout the year
 
 CCTV camera system to identify traffic violations to commence today
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -1480,13 +1604,13 @@ Its director, Dr. Sudath Samaraweera says the measure was taken due to the high 
 
 He added that a special dengue control program is currently underway in Jaffna.
 
+Supreme Court to consider Fundamental Rights application by Cardinal Malcolm Ranjith
+
 BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
 
 Special dengue control program in Colombo, Gampaha, Jaffna and Kandy districts throughout the year
 
 CCTV camera system to identify traffic violations to commence today
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -1566,15 +1690,15 @@ According to the Ministry of Public Security, 65kg of heroin, 136g of crystal me
 
 COLOMBO (News 1st); The program to identify drivers who violate traffic rules through the CCTV camera system installed in Colombo will begin today.
 
-Police Spokesperson SSP Nihal Talduwa says fines for detected vehicle offenses will be directed to the local police station of the vehicle owner's registered address.
+Police Spokesperson SSP Nihal Thalduwa says fines for detected vehicle offenses will be directed to the local police station of the vehicle owner's registered address.
+
+Supreme Court to consider Fundamental Rights application by Cardinal Malcolm Ranjith
 
 BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
 
 Special dengue control program in Colombo, Gampaha, Jaffna and Kandy districts throughout the year
 
 CCTV camera system to identify traffic violations to commence today
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
 
 ◼️
 
@@ -1885,141 +2009,5 @@ The ONCO Surgery Expert, who allegedly assaulted a female hospital employee duri
 [Data](articles/86e4ff74.json)
 
 [Extended Data](ext_articles/86e4ff74.ext.json)
-
----
-
-### Sri Lanka is recovering, but threats from central bank, US policy
-
-*2024-01-22 07:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-is-recovering-but-threats-from-central-bank-us-policy-148111/) · `en`
-
-ECONOMYNEXT – Sri Lanka is starting the usual cyclical recovery after a currency crisis and depreciation that is triggered by rate cuts destroys purchasing power and people’s real savings, with default added to the usual story.
-
-At the moment the central bank is providing monetary stability seen in the exchange rate and inflation, allowing a battered, long suffering people to raise their heads.
-
-It is not clear when inflationary rate cuts will start. Already 2026 bonds are being bought outright.
-
-Sri Lanka has gone through easy money booms, involving private credit surges financed by central bank credit to boost growth, and the resultant forex shortages, tightening of exchange and import controls too often since the central bank was set up in 1950.
-
-...
-
-[Data](articles/126aed2b.json)
-
-[Extended Data](ext_articles/126aed2b.ext.json)
-
----
-
-### "VAT without shops will be introduced"
-
-*2024-01-22 06:57:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/VAT-இல்லா-கடைகள்-அறிமுகம்-செய்யப்படும்/175-331930) · `ta`
-
-Transport Minister Bandula Gunawardena said the government would take necessary steps to introduce VAT shops nationwide if the misconceptions about the Value Added Tax (VAT) were not regulated.
-
-The Minister said that there was a misconception among the public that all the goods were eligible for the VAT tax and that was the reason for the price hike.
-
-The Minister added that the Road Development Authority (RDA) has already been instructed to conduct the possibility of the relevant locations for the installation of VAT shops.
-
-Accordingly, the Minister further stated that it is planning to take necessary steps to establish a network of shops across the country for vegetables, rice and baby flour for those who are ready to engage in competitive trade and reasonably.
-
-◼️
-
-[Data](articles/22c151f0.json)
-
-[Extended Data](ext_articles/22c151f0.ext.json)
-
----
-
-### Narrow effort to win elections by suppressing public’s right to expression
-
-*2024-01-22 06:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Narrow-effort-to-win-elections-by-suppressing-publics-right-to-expression/108-275461) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - Government’s move to pass the Online Safety Bill in Parliament this week and to bring repressive laws to take the country into a dictatorship is a narrow effort to suppress right to expression in winning the upcoming election, leading media and civil society groups voiced their opinion yesterday.
-
-Media, Civil Society and Trade Union Collective to Rise against Oppressive Laws issuing a joint statement to the media through the Free Media Movement (FMM) and Sri Lanka Working Journalists Association (SLWJA) said through a repressive law like the Online Safety Bill, which is to be passed in the House with amendments tomorrow and day after (23 - 24) to suppress public’s right to expression, right to organize and space for civil activities is contrary to the basic values of democracy.
-
-...
-
-[Data](articles/4f5da4b4.json)
-
-[Extended Data](ext_articles/4f5da4b4.ext.json)
-
----
-
-### Weather today
-
-*2024-01-22 06:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192411) · `si`
-
-The East and Uva provinces are likely to occur in the Eastern and Uva provinces.
-
-In the Western, Sabaragamuwa and Central provinces and in Galle and Matara districts. Showers or thundershowers will occur at a few places about 4.00.
-
-In other parts of the island, there is mainly in rainy weather.
-
-Some locations may last a morning in the Sabaragamuwa and Central provinces and in the Galle and Matara districts.
-
-There will be mainly in the coastal areas around the island.
-
-Winds are bowled out for the northeast of the winds.. Is about 20-30.
-
-From Colombo to Puttalam via Puttalam and Galle to Pottuvil via Galle is from time to time.. May increase to 40-50.
-
-The sea areas off the coast extending from Colombo to Mannar and Galle to Pottuvil to Pottuvil via Hambantota can be rough at times.
-
-◼️
-
-[Data](articles/198518dc.json)
-
-[Extended Data](ext_articles/198518dc.ext.json)
-
----
-
-### The President meets the Palestinian Foreign Minister
-
-*2024-01-22 03:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலஸ்தீன-வெளிவிவகார-அமைச்சரை-சந்தித்தார்-ஜனாதிபதி/175-331929) · `ta`
-
-A meeting between President Ranil Wickremesinghe and Minister of Palestinian Foreign Affairs and Diaspora Riyat Malki was held yesterday.
-
-The meeting was held in Kampala, Uganda, which began yesterday with the 'G77 and China' 3rd South Pole Conference.
-
-During the meeting, special attention was paid to the crisis in the Gaza area. President Ranil Wickremesinghe has stressed that the innocent people in Palestine cannot accept the victims of the Israeli -Hamas clash. (A)
-
-◼️
-
-[Data](articles/f8fb01e7.json)
-
-[Extended Data](ext_articles/f8fb01e7.ext.json)
-
----
-
-### An elderly man killed
-
-*2024-01-22 03:54:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-தாக்கி-வயோதிபர்-ஒருவர்-உயிரிழப்பு/175-331928) · `ta`
-
-An elderly man has died after being attacked by an elephant in the Kinniya -Van Ela police division in the Trincomalee district.
-
-The elderly man was killed when the elephant was hit by a tree in a state -owned forest yesterday.
-
-MS from Oiliyadi. Mohammed Yaqoob (age 68) has died and the police are conducting further investigations into the incident.. (A)
-
-◼️
-
-[Data](articles/0291bb06.json)
-
-[Extended Data](ext_articles/0291bb06.ext.json)
-
----
-
-### Elderly body recovery from the canal
-
-*2024-01-22 03:46:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால்வாயில்-இருந்து-முதியவரின்-சடலம்-மீட்பு/175-331927) · `ta`
-
-The body has been recovered by the police following information that the people of the area have been found dead in a canal in Anamaduwa.
-
-The body of a 64 -year -old man who retired as a security officer at a bank has been recovered, police said that the police said they were recovered.. (A)
-
-◼️
-
-[Data](articles/bf07cd2f.json)
-
-[Extended Data](ext_articles/bf07cd2f.ext.json)
 
 ---

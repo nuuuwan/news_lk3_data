@@ -1,54 +1,178 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 13:33:13**
+As of **2024-01-22 14:17:32**
 
 ## Newspaper Stats
 
-*Scraped **1,757** Articles*
+*Scraped **1,774** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
-bbccomsinhala | 39
-adaderanasinhalalk | 91
+bbccomsinhala | 40
+adaderanasinhalalk | 92
 economynextcom | 108
 islandlk | 108
 newsfirstlk | 112
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 168
-adalk | 185
-dailymirrorlk | 202
-tamilmirrorlk | 216
-adaderanalk | 219
+virakesarilk | 172
+adalk | 187
+dailymirrorlk | 207
+tamilmirrorlk | 219
+adaderanalk | 220
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,616 (92.0%) of 1,757 articles have been extended.
+1,625 (91.6%) of 1,774 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### කරාපිටියේ විශේෂඥ වෛද්‍යවරයාට ඇප
+### අයිතිකරු සිටිය දීම වෑන් රථයක් පැහැරගනී - CCTV
 
-*2024-01-22 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192429) · `si`
+*2024-01-22 13:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192430) · `si`
 
-කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකයේ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා ඇප මත මුදාහැර තිබේ.
+ඉන්ධන පිරවුම්හලකදී වෑන් රථයක් පැහැරගැනීමේ සිදුවීමක් අලුත්ගම දර්ගා නගරයෙන් වාර්තා විය.
 
-සෞඛ්‍ය වෘත්තිය සමිති පසුගිය 16 වනදා ක්‍රියාත්මක කළ සංකේත වැඩවර්ජනය අතරතුර එහි කනිෂ්ඨ සේවිකාවකට පහරදුන් බවට වූ චෝදනා මත කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකයේ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා අද (22) දිනය දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+පැහැරගත් වෑන් රථය සොයාගන්නට අලුත්ගම පොලීසිය සමත් වුවද රථය පැහැරගත් පිරිස මුදාහැර ඇති බව වාර්තා වේ.
 
-කෙසේ වෙතත් ඇතිවූ හෘදයාබාධයක් මත වෛද්‍යවරයාට බන්ධනාගාර නිලධාරීන්ගේ ආරක්ෂාව මත කරාපිටිය ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකාර ලබාගැනීමට අධිකරණය අවසර ලබා දුන් අතර අද ඔහු නැවතත් අධිකරණය වෙත ඉදිරිපත් කළේය.
+දර්ගා නගරයේ පිරවුම්හලකට ත්‍රිරෝද රථයකින් පැමිණෙන මෙම පුද්ගලයන් දෙදෙනා මෙම සුදු පැහැති වෑන් රථය අසලට ගොස් එහි රියදුරු සමග කතාබහ කරන අයුරු දක්නට ඇත.
 
-කරුණු සලකා බැලීමෙන් අනතුරුව ගාල්ල ප්‍රධාන මහෙස්ත්‍රාත් ඉසුරු නෙත්තිකුමාර මහතා නියෝග කළේ, විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා රුපියල් මිලියනය බැගින් වූ ශරීර ඇප දෙකක් මත මුදා හැරීමටය.
+ඔවුන් දෙදෙනා කිසියම් ලියකිවිලි කිහිපයක් වෑන් රථයේ හිමිකරුට පෙන්වන අයුරුත් මෙම දර්ශනවලින් දැකගත හැකිය.
 
-මේ අතර රෝහලේ ඇතිවූ නොසන්සුන්තාවට අදාළව කරාපිටිය ශික්ෂණ රෝහලේ කනිෂ්ඨ සේවකයින් දෙදෙනෙකු සහ සේවිකාවකද ගාල්ල පොලීසිය විසින් පෙරේදා අත්අඩංගුවට ගනුලැබූ අතර  ඔවුන් ලබන 29වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට වැඩබලන මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+අනතුරුව එක් අයෙක් රථයේ හිමිකරු පසෙකට ඇද දමා වෑන් රථය රැගෙන යාමට සැරසෙන අතර වෑන් රථයේ හිමිකරු එය වැළැක්වීමට උත්සාහ කරන අයුරු දැකගත හැකිය.
+
+නමුත් එම උත්සාහය ව්‍යර්ථවන අතර වෑන් රථය රැගෙන එම පුද්ගලයා මෙලෙස පළාගොස් තිබේ.
+
+වෑන් රථයේ හිමිකරුද රථයේ දොරක එල්ලී ගමන් කළේ රථය පැහැරගැනීම වැළැක්වීමට තවදුරටත් උත්සාහ කරමිනි.
+
+මේ අතර දර්ගා නගරයේ අතුරුමාර්ගයකදි වෑන් රථය නවතාගැනීමට අලුත්ගම පොලීසියේ නිලධාරීන් සමත්ව විය.
+
+රථයේ හිමිකරු සහ රථය රැගෙන පළායාමට තැත්කළ පුද්ගයින් අලුත්ගම පොලීසියට ගෙන ගොස් තිබුණද ඔවුන් සමග සාකච්ඡාකොට එම පිරිස මුදාහැර ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/0b3d3745.json)
+
+---
+
+### தேசிய பொங்கல் விழாவும் பேசப்படாத மலையக தேசியமும்…!
+
+*2024-01-22 13:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/174508) · `ta`
+
+21 ஆம் திகதி மத்திய மாகாணத்தில் நுவரெலியா மாவட்டத்தின் அட்டன் நகரில் கொண்டாடப்பட்ட  தேசிய பொங்கல் விழா பற்றிய விமர்சனங்கள் சமூக ஊடகங்களை ஆக்கிரமித்துள்ளன. அரசாங்கத்தின் அனுசரணையில் இடம்பெற்ற தேசிய நிகழ்வு என்று கூறப்பட்டாலும் இந்நிகழ்வில் மலையக அரசியல் கட்சியான இலங்கை தொழிலாளர் காங்கிரஸின் கைகளே ஓங்கியிருந்தன. புத்தசாசன அமைச்சின் கீழ் வரும் இந்து கலாசார திணைக்களம் மற்றும் அமைச்சர் ஜீவன் தொண்டமானின் நீர்வழங்கல் மற்றும் தோட்ட உட்கட்டமைப்பு வசதிகள் அபிவிருத்தி அமைச்சின் ஏற்பாட்டில் இந்த தேசிய பொங்கல் விழா ஏற்பாடு செய்யப்பட்டிருந்தன.
 
 ...
 
+[Data](articles/210dbfac.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-01-22 13:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174511) · `ta`
+
+இன்று திங்கட்கிழமை (ஜனவரி 22) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 315.5076 ஆகவும் விற்பனை விலை ரூபா 325.3792 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/01b590aa.json)
+
+---
+
+### Injunction order issued against Dayasiri Jayasekara extended
+
+*2024-01-22 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96620/injunction-order-issued-against-dayasiri-jayasekara-extended-) · `en`
+
+The Colombo District Court on Monday (22 Jan.) further extended the injunction order against the former General Secretary of the Sri Lanka Freedom Party (SLFP), Dayasiri Jayasekara, preventing him from hindering the affairs of the SLFP Acting General Secretary, Sarathi Dushmantha Mithrapala, and submitting inaccurate recommendations to the Election Commission in relation to the matter.
+
+The relevant order was issued when a petition filed by Mithrapala and Chairman of the SLFP former President Maithripala Sirisena was taken up in court this morning.
+
+The case is due to be recalled in court on 29 January, allowing time for the respondents to file objections, if any.
+
+The injunction order against Jayasekara was initially issued by Colombo District Judge Sandun Withana on 08 January.
+
+◼️
+
+[Data](articles/7c1eab4e.json)
+
+[Extended Data](ext_articles/7c1eab4e.ext.json)
+
+---
+
+### Karapitiya has bail
+
+*2024-01-22 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192429) · `si`
+
+Dr. Krishantha Perera has released the Head of the Cancer Unit of the Karapitiya Teaching Hospital.
+
+Dr. Krishantha Perera was remanded until today the Cancer Economic Cancer Unit held on charges of assaulting a junior worker on the 16th.
+
+However, due to a heart attack, the court was permitted to receive the hospital with the safety of prison officials to the doctor and was returned to court today.
+
+After considering the facts, Galle Magistrate Isurra Nethththikumara ordered the release of specialist Dr. Krishantha Perera on two personal bail of Rs.
+
+Meanwhile, two junior employees of the Karapitiya Teaching Hospital and the Galle Police were arrested by the Galle Police regarding the unrest in the hospital.
+
+The Acting Magistrate ordered that the suspects also present the suspects to an identification parade.
+
+◼️
+
 [Data](articles/fef1b570.json)
+
+[Extended Data](ext_articles/fef1b570.ext.json)
+
+---
+
+### சீனாவில் மண்சரிவு ;  47 பேர் சிக்குண்டுள்ளனர்
+
+*2024-01-22 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174507) · `ta`
+
+தென்மேற்கு சீனாவின் மலைப் பகுதியில் திங்கட்கிழமை ஏற்பட்ட மண்சரிவில்  47 பேர்  சிக்குண்டுள்ளதாக  அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+குறித்த மண்சரிவு அதிகாலை  யுன்னான் மாகாணத்தில் உள்ள ஜென்சியோங் பகுதியில் ஏற்பட்டுள்ளது. அங்கு காலை குறைந்தளவில் வெப்பநிலை மைனஸ் நான்கு டிகிரி செல்சியஸ் பதிவாகியுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+சுமார் 18 வீடுகள்  மண்ணில் புதைந்துள்ளதாகவும், 200க்கும் மேற்பட்டோர் அப்பகுதியிலிருந்து அவசரமாக வெளியேற்றப்பட்டுள்ளார்கள்.
+
+சீன ஜனாதிபதி ஜி ஜின்பிங் மீட்பு பணிகளை விரைவாக ஒழுங்கமைக்கப்பட வேண்டும் என்று கோரினார். அத்துடன், முடிந்தவரை உயிரிழப்புகளைக் குறைக்க முயற்சிகள் செய்யப்பட வேண்டும். பாதிக்கப்பட்டவர்களின்  குடும்பங்களுக்கு ஆறுதல் சொல்லவும் மற்றும் பாதிக்கப்பட்ட மக்களை மீள்குடியேற்றும் பணியை முறையாகக் கையாள்வது அவசியம்” என குறிப்பிட்டுள்ளார்.
+
+இந்நிலையில், மண்சரிவுக்கு என்ன காரணம்  என்பதை கண்டறியும் முயற்சிகள் நடந்து வருவதாக சின்ஹுவா தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/15a39e34.json)
+
+---
+
+### அயோத்தி ராமர் கோயில் திறப்பு விழா:நேரலை
+
+*2024-01-22 12:35:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அயோத்தி-ராமர்-கோயில்-திறப்பு-விழா-நேரலை/175-331944) · `ta`
+
+அயோத்தியில் கட்டப்பட்டுள்ள ராமர் கோயிலின் கும்பாபிஷேகம் நடைபெறுகின்றது. இந்த வரலாற்று நிகழ்வில்  பல்வேறு துறை சார்ந்த பிரபலங்களும் பங்கேற்றுள்ளனர்.
+
+◼️
+
+[Data](articles/066e85d9.json)
+
+---
+
+### ’யுக்திய’ நடவடிக்கை நாடகமா? எம்.பி கேள்வி
+
+*2024-01-22 12:31:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-நடவடிக்கை-நாடகமா-எம்-பி-கேள்வி/175-331943) · `ta`
+
+நாடு முழுவதும் பொலிஸாரால் முன்னெடுக்கப்படும் 'யுக்திய நடவடிக்கை' என்பது நாடகம் என நிரூபிக்கப்பட்டுள்ளதாக ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் சுஜித் சஞ்சய பெரேரா குற்றம் சுமத்தி உள்ளார்.
+
+பெலியத்தவில் இன்று காலை அரசியல் கட்சித் தலைவர் உட்பட 5 பேர் கொல்லப்பட்டுள்ள நிலையில் அது குறித்து கருத்து வெளியிடுகையில் அவர் இதனைக் கூறியுள்ளார்.
+
+பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் கடந்த வருடங்களில் தனது கடமைகளை திறம்படச் செய்திருந்தால் இவ்வாறான பெரிய அளவிலான நடவடிக்கை தேவையில்லை எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/ff3e4a03.json)
 
 ---
 
@@ -70,6 +194,26 @@ His departure sets up the one-on-one battle that Haley has coveted against Trump
 
 ---
 
+### Two missing US Navy SEALs declared dead after search off Somalia
+
+*2024-01-22 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-missing-US-Navy-SEALs-declared-dead-after-search-off-Somalia/108-275489) · `en`
+
+Jan 22, (Reuters) -  Two U.S. Navy SEALs who went missing in the Gulf of Aden earlier this month during a raid on a boat carrying Iranian weapons have not been located following an exhaustive search and their status has been changed to deceased, military officials said on Sunday.
+
+The SEALs were reported missing after boarding the vessel in a Jan. 11 operation near the coast of Somali, the U.S. Central Command said on X.
+
+“We mourn the loss of our two Naval Special Warfare warriors, and we will forever honor their sacrifice and example. Our prayers are with the SEALs’ families, friends, the U.S. Navy, and the entire Special Operations community during this time,” CENTCOM Commander General Michael Erik Kurilla said in a statement.
+
+A joint operation carried out by the United States, Spain and Japan searched more than 21,000 square miles of ocean for the missing SEALs, CENTCOM said in the statement.
+
+That mission had now become a recovery operation, CENTCOM said.
+
+...
+
+[Data](articles/eadb4752.json)
+
+---
+
 ### Announcement on the calling for the O / L examination
 
 *2024-01-22 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192428) · `si`
@@ -83,6 +227,58 @@ According to the statement, the application of applications will be carried out 
 [Data](articles/ba52b926.json)
 
 [Extended Data](ext_articles/ba52b926.ext.json)
+
+---
+
+### பொருளாதார நெருக்கடி - மருந்துகள் பற்றாக்குறைக்கு மத்தியில் நோயாளர்களிற்கு வழங்கப்படும் இலவச உணவிற்கும் ஆபத்து
+
+*2024-01-22 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/174505) · `ta`
+
+உணவுப்பொருட்களின் விலை அதிகரிப்பினால் அரசாங்க மருத்துவமனைகளில் நோயாளர்களிற்கு வழங்கப்படும் உணவின் தரத்தில் குறைபாடு காணப்படுவதாக வெளியாகும் குற்றச்சாட்டுகளால் அரசாங்க மருத்துவமனைகள் கடும் நெருக்கடியை எதிர்கொண்டுள்ளன.
+
+உணவுப்பொருட்களின் விலைகள் அதிகரிப்பு மருத்துவமனைகளில் அனுமதிக்கப்படும் நோயாளிகளின் எண்ணிக்கை அதிகரிப்பு இலவச உணவில் தங்கியிருப்பது போன்றவற்றின் காரணமாக அதிகரிக்கும் கஸ்டங்கள் குறித்து சுகாதார துறை அதிகாரிகள் சுட்டிக்காட்டியுள்ளனர்.
+
+மருத்துவமனைகளில் அனுமதி பெறும் நோயாளர்களின் எண்ணிக்கை குறிப்பிடத்தக்க அளவு அதிகரித்துள்ளது  என தெரிவித்துள்ள அவர்கள் தனியார் மருத்துவமனைகளில் அறவிடப்பட்டும் கட்டண அதிகரிப்பு காரணமாகவே அதிகளவு மக்கள் அரசமருத்துவமனைகளை நாடுவதாக தெரிவித்துள்ளனர்.
+
+...
+
+[Data](articles/f77f5915.json)
+
+---
+
+### Police launch CCTV based traffic violations detection programme
+
+*2024-01-22 12:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-launch-CCTV-based-traffic-violations-detection-programme/108-275488) · `en`
+
+Colombo, Jan. 22 (Daily Mirror)- The police today launched the special programme aimed at identifying motorists violating traffic rules through the CCTV system in Colombo.
+
+Public Security Minister Tiran Alles and Acting Inspector General of Police Deshabandu Thennakoon launched the programme at the CCTV division in Colombo with the identification of the first traffic violation through the CCTV system.
+
+There are reportedly at least 108 CCTV cameras within the Colombo city, covering the main locations and flyovers.
+
+Despite the programme being launched today, a week-long awareness campaign for motorists will also be held about this programme.
+
+From February 01 the implementation of the law against traffic violators will commence, the IGP said.
+
+Tennakoon emphasized that through the CCTV traffic violation identification system, officers on traffic duty will be able to provide an efficient service to minimize traffic congestions.
+
+...
+
+[Data](articles/93b36d8e.json)
+
+---
+
+### බෙලි අත්තේදී ඝාතනය වූ පස්දෙනා අතර අපේ ජන බල පක්ෂ නායකයාත්
+
+*2024-01-22 12:03:36* · [`adalk`](https://www.ada.lk/breaking_news/බෙලි-අත්තේදී-ඝාතනය-වූ-පස්දෙනා-අතර-අපේ-ජන-බල-පක්ෂ-නායකයාත්/11-407661) · `si`
+
+අද පෙරවරුවේදී බෙලිඅත්තේදී වෙඩි තබා ඝාතනය කළ පුද්ගලයන් පස් දෙනා අතර අපේ ජන බල පක්ෂයේ නායක සමන් පෙරේරා මහතාද සිටින බව වාර්තා වෙයි.
+
+සැකකරුවෙකුට සැඟව සිටීමට ආධාර අනුබල දීමේ චෝදනාවකට අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගර ගත කර සිටි පුද්ගලයෙක්ද වන සමන් පෙරේරා මහතාට බලපිටිය ප්‍රා දේශීය සභාවේ සභාපතිවරයා හා ඔහුගේ පුතා ඝාතනය කිරීම සම්බන්ධයෙන් චෝදනාද එල්ල වී තිබේ.
+
+◼️
+
+[Data](articles/c6da063d.json)
 
 ---
 
@@ -129,6 +325,20 @@ Meanwhile, the list of 4,500 people involved in the drug trade in Sri Lanka has 
 [Data](articles/269f428b.json)
 
 [Extended Data](ext_articles/269f428b.ext.json)
+
+---
+
+### ’Yukithiya’ proves to be a drama: SJB MP
+
+*2024-01-22 11:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukithiya-proves-to-be-a-drama-SJB-MP/108-275487) · `en`
+
+Colombo, Jan. 22 (Daily Mirror)- Referring to the killing of five persons, including a political party leader in Belliatta thus morning, Samagi Jana Balawegaya (SJB) MP Sujith Sanjaya Perera said the 'Yukthiya operation' has been proven to be a drama.
+
+“A large scale operation is not needed if Acting IGP Deshabandu Tennekoon had carried out his duties effectively during his past years of service in the police," he said.
+
+◼️
+
+[Data](articles/92a99c5c.json)
 
 ---
 
@@ -276,6 +486,22 @@ Ayodhya, once dotted with tightly packed houses and rundown stalls, has undergon
 
 ---
 
+### NPP Dilemma: Rhetoric vs. Reality, Present Ideology vs.Past Ideology
+
+*2024-01-22 11:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/NPP-Dilemma-Rhetoric-vs-Reality-Present-Ideology-vs-Past-Ideology/155-275486) · `en`
+
+Colombo, Jan. 22 (Daily Mirror)- With vital elections looming on the horizon , rhetorical remarks from across the political divide have become the norm for each passing day.
+
+It is common for political leaders of all hues to fine-tune their speeches with rhetorical language as a vote catching ,crowd pulling exercise. In the process, what is done is ostensible concealment of truth from the general public in the couch of rhetorical language . Voters who get carried away by political rhetoric are at the receiving end finally.
+
+In recent times , the National People’s Power , the political amalgamation led by the Marxist party Janatha Vimukthi Peramuna (JVP) , has launched into swift action ahead of the presidential election to be announced likely in September, this year .
+
+...
+
+[Data](articles/009b70b7.json)
+
+---
+
 ### Ice narcotics abducted in car with a dog to intimidate police
 
 *2024-01-22 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/174496) · `ta`
@@ -293,6 +519,26 @@ According to reports received that ice drugs were smuggled through the Kirivathu
 [Data](articles/27ddf816.json)
 
 [Extended Data](ext_articles/27ddf816.ext.json)
+
+---
+
+### 5 பெண்களை கர்ப்பமாக்கிய ஐவருக்கும் வளைகாப்பு நடத்தி அசத்தல்
+
+*2024-01-22 11:19:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/விநோத-உலகம்/5-பெண்களை-கர்ப்பமாக்கிய-ஐவருக்கும்-வளைகாப்பு-நடத்தி-அசத்தல்/53-331941) · `ta`
+
+நாமிருவர் நமக்கு இருவர் என்ற நிலைமை மாறி, நாமிருவர் நமக்கு ஒருவர் என்றே இன்னுமிருக்கிறது. நாடுகளின் நிலைமை இவ்வாறே நீடிக்குமாயின் நமக்கேன் ஒருவர், என்ற சிந்தனையும் வளரக்கூடிய வாய்ப்பு இருக்கின்றது. இப்படி இருக்கையில், ஐந்து பெண்களை கர்ப்பமாக்கி ஐவருக்கும் ஒரே நேரத்தில் வளைகாப்பு நடத்திய சம்பவம் வைரலாகியுள்ளது.
+
+அமெரிக்காவை சேர்ந்த இசைக்கலைஞரான ஸெடி வயது வித்தியாசம் கொண்ட 5 பெண்களை கர்ப்பமாக்கியுள்ளார்.
+
+அந்த 5 பேருக்கும் ஒரே நேரத்தில் வளைகாப்பு நடத்தப்பட்ட சுவாரசிய சம்பவம் நடந்துள்ளது. இதுகுறித்த புகைப்படங்கள் சமூக வலைதளங்களில் வைரலாகி வருகின்றது.
+
+5 பேருடன் பல நேரங்களில் தொடர்பு வைத்திருந்தபோதிலும், அனைவரும்  சில நாட்கள் வித்தியாசத்தில் கர்ப்பம் அடைந்ததாக ஸெடி தெரிவித்துள்ளார்.  அவ்விளைஞனுக்கு வயது 22 தானாம்.
+
+இந்த சம்பவம் ஸெடியால் கர்ப்பமாக்கப்பட்ட 29 வயதாகும் ஆஷ்லே என்ற பெண், சமூக வலைதளங்களில் புகைப்படங்களை வெளியிட்டதை தொடர்ந்து உலகுக்கு தெரியவந்தது.
+
+...
+
+[Data](articles/6bfd2558.json)
 
 ---
 
@@ -634,6 +880,24 @@ Date of announcement of the Monetary Policy Review: No. 01 of 2024 – Tuesday, 
 
 ---
 
+### ඝාතන රැසක වෙඩික්කරුවෙක් වන යුද හමුදා විශේෂ බලකා සාමාජිකයෙක් අත්අඩංගුවට
+
+*2024-01-22 10:06:04* · [`adalk`](https://www.ada.lk/breaking_news/ඝාතන-රැසක-වෙඩික්කරුවෙක්-වන-යුද-හමුදා-විශේෂ-බලකා-සාමාජිකයෙක්-අත්අඩංගුවට/11-407658) · `si`
+
+යුද හමුදා සක්‍රීය සේවයේ නිරත වෙමින් කොස්ගොඩ රන්මල්ලි ඝාතනය ඇතුළු ඝාතන රැසක සැලසුම්කරු  ලෙස කටයුතු කළ  යුද හමුදා විශේෂ බලකායේ ලාන්ස් ක්‍රෝප්‍රල්වරයකු කහතුඩුව ප්‍රදේශයේදී  අත්අඩංගුවට ගත් බව පොලිස් විශේෂ කාර්ය බලකාය කියයි.
+
+අත්අඩංගුවක් ගත් සැකකරුගේ කහතුඩුව නිවස පරීක්ෂා කිරීමේදී අයිස් මත්ද්‍රව්‍ය මිලිගෑම් 18 ක් මෙන්ම යුද හමුදා නිල ඇඳුම් කොටස් සහ ආයිත්තම් තොගයක් පොලිස් භාරයට ගෙන ඇත.
+
+මන්නාරම උතුරු පළාත විශේෂ විමර්ශන බුද්ධි නිලධාරීන්ට ලද තොරතුරක් මත සැකකරු අත්අඩංගුවට ගන්නා විට කිලිනොච්චිය යුද හමුදා කඳවුරේ සේවය කරමින් සිටි බව පොලිසිය සඳහන් කරයි.
+
+සැකකරුගෙන් සිදු කළ ප්‍රශ්න කිරීමේදී 2023 -06 -21 වෙනි දින  කොස්ගොඩ ප්‍රදේශයේ දී  විජිත් මහේන්ද්‍ර සිල්වා නොහොත් රන් මල්ලි නැමැත්තා වෙඩි තබා ඝාතනය කර තිබුණේ සැකකරු බවට අනාවරණය වූ බව පොලිසිය සඳහන් කරයි.
+
+...
+
+[Data](articles/6349fd8e.json)
+
+---
+
 ### DEPnder firing in Beliyatta: 5 deaths
 
 *2024-01-22 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174490) · `ta`
@@ -673,6 +937,26 @@ Police suspect that underworld criminal Kosgoda Sujee's gang has carried out the
 [Data](articles/8d112752.json)
 
 [Extended Data](ext_articles/8d112752.ext.json)
+
+---
+
+### Five killed in shooting in Beliatta
+
+*2024-01-22 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Five-killed-in-shooting-in-Beliatta/108-275481) · `en`
+
+Beliatta, Jan 22 (Daily Mirror) - Five killed after shooting incident in Beliatta
+
+At least five persons were killed in a shooting incident near the Beliatta interchange on the Southern Expressway.
+
+Four persons have reportedly lost their lives at the scene while another had died upon admission to hospital.
+
+The shooting had taken place today at around 7.45 am, when a group in a Prado type vehicle had opened fire at another group in a Defender jeep.
+
+Police suspect that underworld criminal Kosgoda Sujee's gang has carried out the shooting.
+
+◼️
+
+[Data](articles/b7ccd461.json)
 
 ---
 
@@ -1212,6 +1496,22 @@ Mahbubul Alam said garments, pharmaceuticals, eco-tourism and hospitality are so
 
 ---
 
+### දේශගුණික විපර්යාස: ඔබටත් ගම්බිම් ඇතහැර යන්න වෙලා ද?
+
+*2024-01-22 07:41:06* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c6pe4045v5do) · `si`
+
+විවිධ මිනිස් ක්‍රියාකාරකම් හේතුවෙන් පරිසරයට වන බලපෑම නිසා වර්තමානය වන විට සමස්ත ලෝකයම මුහුණ දී තිබෙන කාලගුණික හා දේශගුණික විපර්යාස පිළිබඳව ලෝක ප්‍රජාව තුළ වැඩි අවධානයක් යොමු ව පවතියි. දේශගුණික විපර්යාස හේතුවෙන් දැඩි ආර්ථික බලපෑමක් සිදුවන අතරතුරේ දී, මිනිස් හා සත්ව ජීවිත දහස් ගණනක් අහිමි වන බවද නොරහසකි.
+
+ග්ලැසියර දිය වීම නිසා සාගර ජල මට්ටම් ඉහළ යාම, හරිතාගාර ආචරණය නිසා ගෝලීය උෂ්ණත්වය ඉහළ යෑම, අනපේක්ෂිත ගංවතුර තත්ත්වයන්, දැඩි නියඟ වැනි විවිධ සංසිද්ධි නිසා ලෝකය තුළ කාලගුණ විපර්යාස හේතුවෙන් සරණාගතයන් සහ සංක්‍රමණිකයින් විශාල පිරිසක් නිර්මාණය වෙමින් පවතියි. මෙය ඇතැම් රාජ්‍යයන් හට කළමනාකරණය කරගත නොහැකි මට්ටමේ ගැටළුවක් බවට පත් වී තිබේ.
+
+දේශගුණික විපර්යාසය යනු කුමක් ද?පාකිස්ථානයේ දේශගුණික අර්බුදය: ‘මට මගේ දුව විකුණන එක ඇර විකල්පයක් තිබුණේ නැහැ’දරුවන් නොලැබීමට තීරණයකර ඇති ශ්‍රී ලාංකික කාන්තාවෝ
+
+...
+
+[Data](articles/c1cc648c.json)
+
+---
+
 ### Gaza is a dead tree - 178 deaths
 
 *2024-01-22 07:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192414) · `si`
@@ -1691,287 +1991,5 @@ Many trade visitors from Sri Lanka attend this show every year.
 [Data](articles/ec2f336d.json)
 
 [Extended Data](ext_articles/ec2f336d.ext.json)
-
----
-
-### Kapruka Holdings strengthens E-commerce reach through strategic partnership with Shiro Hana
-
-*2024-01-22 01:08:06* · [`dailyftlk`](https://www.ft.lk/business/Kapruka-Holdings-strengthens-E-commerce-reach-through-strategic-partnership-with-Shiro-Hana/34-757609) · `en`
-
-Kapruka Holdings Plc, the industry leader in e-commerce, has announced a strategic partnership with Shiro Hana (Huejay International Multiflora Ltd.), the leader in Sri Lanka’s cut-flower industry. This collaboration is facilitated through Kapruka’s innovative vendor portal, Kapruka Partner Central, signaling a significant step forward in providing an enhanced shopping experience for local and global customers.
-
-The synergy between Kapruka and Shiro Hana aims to enrich the shopping experience for customers, offering a broader range of products. Through Kapruka Partner Central, vendors like Shiro Hana can showcase their offerings to both Sri Lankan and international customers, providing a diverse selection comparable to global e-commerce giants.
-
-...
-
-[Data](articles/03448505.json)
-
-[Extended Data](ext_articles/03448505.ext.json)
-
----
-
-### VAT could be reduced to 15% if VAT registered persons and businesses expand: Minister
-
-*2024-01-22 00:28:00* · [`islandlk`](http://island.lk/vat-could-be-reduced-to-15-if-vat-registered-persons-and-businesses-expand-minister/) · `en`
-
-Value Added Tax (VAT) can be reduced to 15% to equalize with its previous level if all businesses in Sri Lanka register for VAT, Bandula Gunawardena, the Minister of Transport, Highways, and Mass Media said on Saturday.
-
-He said so while visiting a food factory in Kolonnawa where fruit dices and floats are produced for the wider cake industry.
-
-“Young people in this country have opportunities to stand on their feet without engaging in hateful rhetoric about the society if they reimagine and rekindle the entrepreneurial spirit within them and start their own businesses. We have the opportunity to produce goods and deliver services to countries such as India, China, Japan and South Korea. They are huge economies and we can access those markets with tax-free benefits. When such a manufacturing and business culture is embedded in our society, there would be enough liquidity to ease the burden on the vulnerable sections of the society.
-
-...
-
-[Data](articles/c36394bf.json)
-
-[Extended Data](ext_articles/c36394bf.ext.json)
-
----
-
-### People’s Bank, one of the most awarded Sri Lankan banks in 2023
-
-*2024-01-22 00:27:00* · [`islandlk`](http://island.lk/peoples-bank-one-of-the-most-awarded-sri-lankan-banks-in-2023/) · `en`
-
-Growing from strength to strength with each passing year, People’s Bank was bestowed with a multitude of international and local business excellence awards in the year 2023. The recognition is a testament to the Bank’s contribution to financially uplift its customers and to power economic development of the country throughout the past 62 years. Today, the Bank has a customer base of over 14.7 million and consolidated assets of over Rs.3 trillion, with a strong digital footprint and 747 outlets across the country – providing a full range of banking services to individuals and SMEs.
-
-...
-
-[Data](articles/1ec99555.json)
-
-[Extended Data](ext_articles/1ec99555.ext.json)
-
----
-
-### ‘Union Bank Elite Circle’ redefines personalised banking
-
-*2024-01-22 00:27:00* · [`islandlk`](http://island.lk/union-bank-elite-circle-redefines-personalised-banking/) · `en`
-
-Union Bank recently relaunched its private banking proposition, ‘Union Bank Elite Circle,’ with a selection of new features tailored to its customers’ specific needs. The most recent transformation enhances its bespoke service and tailored financial solutions, providing customers with a world of privileges and luxuries for an exclusive banking experience. The Bank recently launched a campaign theme “The Finer Things in Life Should Extend to Your Banking,” with the goal of raising awareness about the newly enhanced product.
-
-A team of dedicated relationship managers ensures a seamless banking experience with a wide range of financial solutions and services ranging from personalised banking and wealth management to expert advisory, reinforcing the hallmarks of personalised service. The exclusive Union Bank Elite Circle Centre, located in the heart of Colombo and the dedicated exclusive spaces across the branch network provides maximum convenience to its members.
-
-...
-
-[Data](articles/9931210f.json)
-
-[Extended Data](ext_articles/9931210f.ext.json)
-
----
-
-### The Status of Tamils in Ceylon, Waxed and Waned in the Pre and Post-Independence Eras Respectively
-
-*2024-01-22 00:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Status-of-Tamils-in-Ceylon-Waxed-and-Waned-in-the-Pre-and-Post-Independence-Eras-Respectively/172-275447) · `en`
-
-As far as the Tamils are concerned in Ceylon/Sri Lanka, their situation during the pre-independence era was hunky-dory, whereas in the post-independence era, it has stirred up a hornet’s nest and hamstrung the political and social fabric, which was a consequence of the act of political hanky-panky and the hegemony of the native rulers. The plight of Tamils has been agonizing and antagonistic, with deaths and destructions, wounds, loss of limbs, disabilities, enforced disappearances, property losses, internal displacements, even the rape and murder of a schoolgirl and women, and so on.
-
-...
-
-[Data](articles/2bdb03b1.json)
-
-[Extended Data](ext_articles/2bdb03b1.ext.json)
-
----
-
-### Why becoming Sri Lanka and Australia Chamber of Commerce member is a profitable idea
-
-*2024-01-22 00:03:00* · [`islandlk`](http://island.lk/why-becoming-sri-lanka-and-australia-chamber-of-commerce-member-is-a-profitable-idea/) · `en`
-
-The following are excerpts from an interview with Kalum De Silva, President of the Sri Lanka and Australia Chamber of Commerce (SLACC). The Chamber’s vision is to be the leading platform for fostering trade and investment between Sri Lanka and Australia with a view to contributing to the economic and social development of both nations. If you are looking for a platform that can help you grow your business, expand your network and access new opportunities in the dynamic markets of Sri Lanka and Australia, here is an interview article that gives you an exclusive scoop.
-
-Q. Why does SLACC think deepening Australia-Sri Lanka ties is vital as our nations drive ahead in a changing global environment?
-
-...
-
-[Data](articles/42497f0d.json)
-
-[Extended Data](ext_articles/42497f0d.ext.json)
-
----
-
-### Sanasa holds annual Nelum Mal Pooja in Anuradhapura
-
-*2024-01-22 00:03:00* · [`islandlk`](http://island.lk/sanasa-holds-annual-nelum-mal-pooja-in-anuradhapura/) · `en`
-
-The annual Buddhist event of offering lotus flowers (Nelum Pooja) at the premises of Ruwanweli Maha Seya and Jaya Sri Maha Bodhi in Anuradhapura organised by the Sanasa Movement was held recently for the 24th time. This year’s event, held to bestow blessings on all Sri Lankans, was carried forth by Sanasa societies, led by the Bodhi Rajapura Sanasa Society in Puttalam.
-
-This year’s event, which commenced with the offering of lotus flowers to Jaya Sri Maha Bodhi on 6 January and concluded with the offering of milk-based food (Kiri Ahara Pooja) for Ruwanweli Maha Seya and the almsgiving at Abhayagiriya in the afternoon on 7 January, was held under the patronage of the Leader of the Sanasa Movement, Dr. P. A. Kiriwandeniya. Thousands of devotees from all parts of the island representing Sanasa societies took part in it.
-
-Why becoming Sri Lanka and Australia Chamber of Commerce member is a profitable idea
-
-Sanasa unveils action plan to develop 5,000 villages through 1,250 Sanasa societies
-
-...
-
-[Data](articles/49bce5fe.json)
-
-[Extended Data](ext_articles/49bce5fe.ext.json)
-
----
-
-### Marine product and service provider recognised at National Industry Excellence Awards
-
-*2024-01-22 00:02:00* · [`islandlk`](http://island.lk/marine-product-and-service-provider-recognised-at-national-industry-excellence-awards/) · `en`
-
-Saram Auto Industries, a leading marine product and service provider in the country, claimed the Bronze Award in the metal casting category (small scale) at National Industry Excellence Awards 2023 organised by the Industrial Development Board (IDB). The award was received by the Owner of Saram Auto Industries Ranjith Saram at the award ceremony held at Nelum Pokuna Mahinda Rajapaksa Theatre in Colombo under the patronage of President Ranil Wickremesinghe.
-
-...
-
-[Data](articles/b85c8097.json)
-
-[Extended Data](ext_articles/b85c8097.ext.json)
-
----
-
-### Price Controls Needed to Protect Poorer Sections of Society - EDITORIAL
-
-*2024-01-22 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Price-Controls-Needed-to-Protect-Poorer-Sections-of-Society-EDITORIAL/172-275439) · `en`
-
-Since the economic meltdown, many of us realise that bad practices of the past – spending far more than we earn – has led us down to the sorry path we find ourselves in. Political leaders claim that we are no longer a bankrupt nation and have substantial dollar reserves. The reality sadly is, the situation is not so rosy.
-
-A portion of these ‘reserves’ comprises credit lines, funds lent by the International Monetary Fund (IMF), the World Bank, the Asian Development Bank (ADB) and other multi-lateral lending agencies. Some funds are also tied to particular conditions.
-
-So while we do have a certain amount of ‘money in the bank’ so-to-say, it is not ours to spend as we would wish. Far worse, we have as yet not commenced repaying our international creditors as the negotiations are ongoing. So the situation is not as good as portrayed.
-
-...
-
-[Data](articles/ce450341.json)
-
-[Extended Data](ext_articles/ce450341.ext.json)
-
----
-
-### Huawei OptiX OSN 9800 series once again ranks as leader in Core and Metro WDM by GlobalData
-
-*2024-01-22 00:01:00* · [`islandlk`](http://island.lk/huawei-optix-osn-9800-series-once-again-ranks-as-leader-in-core-and-metro-wdm-by-globaldata/) · `en`
-
-GlobalData, a global authoritative consulting firm, has released its latest Metro & Core Packet-Optical Transport/Platform: Competitive Landscape Assessment. In the report, Huawei OptiX OSN 9800 series features leading architecture, ultra-large capacity, excellent transmission performance, and mature commercial use cases. All this has helped Huawei rank as “Leader” with the highest scores in core and metro WDM by GlobalData.
-
-...
-
-[Data](articles/00732313.json)
-
-[Extended Data](ext_articles/00732313.ext.json)
-
----
-
-### Russia wants Sri Lanka to maintain neutrality on Ukraine despite Western Pressure - Ambassador Levan Dzhagaryan
-
-*2024-01-22 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Russia-wants-Sri-Lanka-to-maintain-neutrality-on-Ukraine-despite-Western-Pressure-Ambassador-Levan-Dzhagaryan/231-275441) · `en`
-
-Russian Ambassador Levan Dzhagaryan, in an interview with Daily Mirror, discusses the current status of bilateral ties, and what is being planned for the future.
-
-Q  How did the recent visit of a top level Russian delegation help elevate bilateral ties?
-
-We are satisfied with the current level of our bilateral relations. Another indication of it was the visit of a high-ranking Russian delegation.
-
-It was a rather big delegation of more than 40 people, headed by Nikolai Patrushev, the Secretary of the Security Council of the Russian Federation.   He had a very important meeting with President Ranil Wickremesinghe on   December 6, 2023. He had a meeting with Defence Secretary, Major General (Rtd) Kamal Gunaratne. The latter was in Moscow in May, last year. So it’s a continuation of bilateral dialogue. Also, Mr. Patrushev, when he was in Colombo last December, extended his invitation to Mr. Gunaratne to visit Russia in the coming year.
-
-...
-
-[Data](articles/67056118.json)
-
-[Extended Data](ext_articles/67056118.ext.json)
-
----
-
-### Avalokiteshvaras in Every Sphere of Sasana: a Growing Gap between Dhamma & Buddhism
-
-*2024-01-22 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Avalokiteshvaras-in-Every-Sphere-of-Sasana-a-Growing-Gap-between-Dhamma-Buddhism/172-275438) · `en`
-
-Followers of wholesome Dhamma need not be disturbed by individuals like Jeromes, Sepalas, Natashas, Ruwans, or Avalokiteshvaras; these are insignificant ‘outside’ influences, a phenomenon that existed even in the times of the Buddha. The growing concern lies in the emerging threat posed by ‘Devadattas’ operating within the Sasana.
-
-...
-
-[Data](articles/67e9f781.json)
-
-[Extended Data](ext_articles/67e9f781.ext.json)
-
----
-
-### 2024-01-21 (Sunday)
-
-### Society 5.0: Is it a myth or a miracle?
-
-*2024-01-21 23:18:14* · [`dailyftlk`](https://www.ft.lk/columns/Society-5-0-Is-it-a-myth-or-a-miracle/4-757585) · `en`
-
-Urbanisation, smart cities, climate change, temporariness and aged populations are a few among many other reasons as to why firms and nations should focus on Society 5.0
-
-In an ever-changing world, one cannot find a risk-free venture, investment, event, or an activity. Risk should necessarily be examined by looking at the probability of occurrence and the impact. Technology can play a vital role in mitigating the risks by addressing both the impact and probability of occurrence. Designers and developers of Society 5.0 solutions should necessarily use best practices such as secure by design in mitigating risks
-
-...
-
-[Data](articles/8030e805.json)
-
-[Extended Data](ext_articles/8030e805.ext.json)
-
----
-
-### President meets Sri Lankan entrepreneurs based in Kenya, assures fullest support
-
-*2024-01-21 23:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Sri-Lankan-entrepreneurs-based-in-Kenya-assures-fullest-support/108-275460) · `en`
-
-Jan 21- President Ranil Wickremesinghe had a fruitful meeting with Sri Lankan entrepreneurs based in Kenya, discussing collaborative opportunities and fostering stronger ties between the two nations.
-
-The President assured full government support to these entrepreneurs, emphasizing the commitment to fostering a conducive environment for their success and contributions to the economy.
-
-◼️
-
-[Data](articles/4b1a9d9d.json)
-
-[Extended Data](ext_articles/4b1a9d9d.ext.json)
-
----
-
-### President meets Sri Lankan entrepreneurs in Kenya, assures fullest support
-
-*2024-01-21 23:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-meets-Sri-Lankan-entrepreneurs-in-Kenya-assures-fullest-support/108-275460) · `en`
-
-Jan 21- President Ranil Wickremesinghe had a fruitful meeting with Sri Lankan entrepreneurs based in Kenya, discussing collaborative opportunities and fostering stronger ties between the two nations.
-
-The President assured full government support to these entrepreneurs, emphasizing the commitment to fostering a conducive environment for their success and contributions to the economy.
-
-◼️
-
-[Data](articles/f788aabb.json)
-
-[Extended Data](ext_articles/f788aabb.ext.json)
-
----
-
-### In this election year, Sri Lanka needs a lot of rationally thinking people
-
-*2024-01-21 22:48:25* · [`dailyftlk`](https://www.ft.lk/columns/In-this-election-year-Sri-Lanka-needs-a-lot-of-rationally-thinking-people/4-757583) · `en`
-
-Instead of being rational choosers, they have acted on emotions created by political leaders of all hues  – Pic by Shehan Gunasekara
-
-At an election, political leaders would emotionalise voters to gain power but after the election, they simply forget about it leaving the voters in the lurch. Hence, acting rationally is a must for voters at the forthcoming elections
-
-In 2024, Sri Lankan voters will be given the choice of electing their leaders through the power of the ballot. This is an important occasion for Sri Lanka which is a long surviving democracy in South Asia, next only to India. However, a common allegation is that, throughout the post-independence history, the voters have not done their job correctly. Instead of being rational choosers, they have acted on emotions created by political leaders of all hues.
-
-...
-
-[Data](articles/278bb946.json)
-
-[Extended Data](ext_articles/278bb946.ext.json)
-
----
-
-### President meets UN chief and state leaders during ‘G77 and China’ summit
-
-*2024-01-21 22:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96606/president-meets-un-chief-and-state-leaders-during-g77-and-china-summit) · `en`
-
-President Ranil Wickremesinghe participated in the 3rd South Summit “G77 and China,” commencing today (21) in Kampala, Uganda. During the event, he engaged in fruitful discussions with numerous state leaders and representatives.
-
-This morning (21), President Ranil Wickremesinghe held a significant meeting with Dr. Riyad Malki, Palestine’s Minister of Foreign Affairs and Expatriates. Additionally, he met with Maldives Vice President Hussain Mohamed Latheef, fostering dialogue and collaboration.
-
-Further, President Ranil Wickremesinghe convened with UN Secretary-General Antonio Guterres on the same day (21), discussing matters of global significance.
-
-In a separate engagement, Indian Minister of State for External Affairs, Mr. Shri V. Muraleedharan, had a constructive discussion with President Ranil Wickremesinghe, emphasizing bilateral relations.
-
-...
-
-[Data](articles/74655438.json)
-
-[Extended Data](ext_articles/74655438.ext.json)
 
 ---

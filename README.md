@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 13:02:28**
+As of **2024-01-22 13:33:13**
 
 ## Newspaper Stats
 
-*Scraped **1,756** Articles*
+*Scraped **1,757** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 39
-adaderanasinhalalk | 90
+adaderanasinhalalk | 91
 economynextcom | 108
 islandlk | 108
 newsfirstlk | 112
@@ -26,11 +26,31 @@ adaderanalk | 219
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,608 (91.6%) of 1,756 articles have been extended.
+1,616 (92.0%) of 1,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### කරාපිටියේ විශේෂඥ වෛද්‍යවරයාට ඇප
+
+*2024-01-22 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192429) · `si`
+
+කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකයේ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා ඇප මත මුදාහැර තිබේ.
+
+සෞඛ්‍ය වෘත්තිය සමිති පසුගිය 16 වනදා ක්‍රියාත්මක කළ සංකේත වැඩවර්ජනය අතරතුර එහි කනිෂ්ඨ සේවිකාවකට පහරදුන් බවට වූ චෝදනා මත කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකයේ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා අද (22) දිනය දක්වා රක්ෂිත බන්ධනාගාරගත කෙරුණි.
+
+කෙසේ වෙතත් ඇතිවූ හෘදයාබාධයක් මත වෛද්‍යවරයාට බන්ධනාගාර නිලධාරීන්ගේ ආරක්ෂාව මත කරාපිටිය ශික්ෂණ රෝහලේ නේවාසිකව ප්‍රතිකාර ලබාගැනීමට අධිකරණය අවසර ලබා දුන් අතර අද ඔහු නැවතත් අධිකරණය වෙත ඉදිරිපත් කළේය.
+
+කරුණු සලකා බැලීමෙන් අනතුරුව ගාල්ල ප්‍රධාන මහෙස්ත්‍රාත් ඉසුරු නෙත්තිකුමාර මහතා නියෝග කළේ, විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා රුපියල් මිලියනය බැගින් වූ ශරීර ඇප දෙකක් මත මුදා හැරීමටය.
+
+මේ අතර රෝහලේ ඇතිවූ නොසන්සුන්තාවට අදාළව කරාපිටිය ශික්ෂණ රෝහලේ කනිෂ්ඨ සේවකයින් දෙදෙනෙකු සහ සේවිකාවකද ගාල්ල පොලීසිය විසින් පෙරේදා අත්අඩංගුවට ගනුලැබූ අතර  ඔවුන් ලබන 29වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට වැඩබලන මහෙස්ත්‍රාත්වරයා නියෝග කළේය.
+
+...
+
+[Data](articles/fef1b570.json)
+
+---
 
 ### Ron DeSantis ends 2024 campaign, endorses Trump over Haley
 
@@ -45,6 +65,8 @@ His departure sets up the one-on-one battle that Haley has coveted against Trump
 ...
 
 [Data](articles/f3c7db15.json)
+
+[Extended Data](ext_articles/f3c7db15.ext.json)
 
 ---
 
@@ -1951,41 +1973,5 @@ In a separate engagement, Indian Minister of State for External Affairs, Mr. Shr
 [Data](articles/74655438.json)
 
 [Extended Data](ext_articles/74655438.ext.json)
-
----
-
-### Sri Lanka won the first win in the Youth World Cup
-
-*2024-01-21 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192410) · `si`
-
-The Sri Lanka Youth team won the first match of the Under-19 World Cup match by 39 runs.
-
-Zimbabwe was interrupted the match between the innings of Zimbabwe's innings while chasing a target of 204 runs.
-
-Accordingly, according to the dick Lewis theory, they won 129 runs in 22 overs.
-
-However, the Sri Lanka Youth Group was bowled out for 89 runs for the loss of 21 overs.
-
-Talking of TT PShila, who was engaged in a bowling, took 4 wickets for 17 runs in 4 overs.
-
-Universal Lahiru and Ru සැස
-
-Batting first, Sri Lanka teenager scored 204 runs for the loss of 38 overs.
-
-The wild beaten won the winth, 60 runs in 55 balls with six sixes and six fours.
-
-Shanmuganatan scored 41 runs with 3 fours.
-
-In addition, Ravishan de Silva and the village scored 31 runs.
-
-Kohl Eksteen took 3 wickets and Newman Nyamhuri and matthewww scored 2 wickets each.
-
-Sri Lanka Youth Group scored 5 wickets for 13 runs.
-
-...
-
-[Data](articles/1fc37d66.json)
-
-[Extended Data](ext_articles/1fc37d66.ext.json)
 
 ---

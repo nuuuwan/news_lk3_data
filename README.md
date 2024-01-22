@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 02:17:03**
+As of **2024-01-23 02:32:41**
 
 ## Newspaper Stats
 
-*Scraped **1,910** Articles*
+*Scraped **1,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ dailyftlk | 171
 virakesarilk | 195
 adalk | 200
 dailymirrorlk | 230
-tamilmirrorlk | 232
+tamilmirrorlk | 234
 adaderanalk | 235
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,910 (100.0%) of 1,910 articles have been extended.
+1,910 (99.9%) of 1,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### ’பாராளுமன்றத்தில் பாலியல் துன்புறுத்தல்கள் பொய்’
+
+*2024-01-23 02:00:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-பாலியல்-துன்புறுத்தல்கள்-பொய்/175-331979) · `ta`
+
+பாராளுமன்றத்தில் பெண் ஊழியர்களுக்கும் ஒரு சில பெண் உறுப்பினர்களுக்கும் தொடர்ந்து பாலியல் துன்புறுத்தல்கள் இடம்பெற்று வருவதாகவும், அது தொடர்பில் உரிய விசாரணைகள் மற்றும் நடவடிக்கைகள் எடுக்கப்படுவதில்லை என்றும் வெளியாகும் தகவல்கள் முற்றிலும் பொய்யானவை என பாராளுமன்ற  செயலாளர் நாயகம் குஷானி ரோஹணதீர அறிவித்துள்ளார்.
+
+பாராளுமன்றத்தில் ஒழுக்க மீறல் சம்பவங்களின் போது, அது தொடர்பான விசாரணைகள்  சபாநாயகரின் வழிகாட்டுதலின் கீழ் மிகவும் பக்கச்சார்பற்ற முறையில் மேற்கொள்ளப்படுவதாகவும், விரைவான விசாரணைகளுக்கு சபாநாயகர் தனது அதிகபட்ச பங்களிப்பை வழங்குவதாகவும், எந்த விதத்திலும் அதில் தலையிடுவதோ அல்லது செல்வாக்குச் செலுத்துவதோ இல்லை எனவும் குஷானி ரோஹணதீர வலியுறுத்தினார்.
+
+இதற்கு முன்னர் ஒருசில பெண் ஊழியர்களுக்கு பாலியல் துன்புறுத்தல் மேற்கொள்ளப்பட்ட சம்பவமொன்று பதிவாகியிருந்தாலும், அது தொடர்பாக நியமிக்கப்பட்ட உள்ளகக் குழு மிகவும் பக்கச்சார்பற்ற விசாரணை நடத்தி அந்த விசாரணை அறிக்கை தற்போது தன்னிடம் ஒப்படைக்கப்பட்டுள்ளதாக செயலாளர் நாயகம் தெரிவித்தார்.
+
+...
+
+[Data](articles/b6fb6526.json)
+
+---
+
+### சுகாதாரத் துறையின் பணிகளுக்கு AI தேவை
+
+*2024-01-23 01:56:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதாரத்-துறையின்-பணிகளுக்கு-AI-தேவை/175-331978) · `ta`
+
+இலங்கை சுகாதாரத் துறையின் பணிகளுக்கு செயற்கை நுண்ணறிவை (Artificial intelligence - AI)  பயன்படுத்த வேண்டிய தேவை எழுந்துள்ளதாக கொழும்பு பல்கலைக்கழகத்தின் பேராசிரியர் இந்திக கருணாதிலக்க தெரிவித்துள்ளார்.
+
+அதன்படி, செயற்கை நுண்ணறிவின் பயன்பாடு மருத்துவக் கல்வியின் தரத்தை மேம்படுத்த உதவும் என்றும் அவர் சுட்டிக்காட்டியுள்ளார்.
+
+செயற்கை நுண்ணறிவு இப்போது நிஜமாகியுள்ளது. அதை புறக்கணிக்க முடியாது. செயற்கை நுண்ணறிவு சுகாதார துறை மற்றும் மருத்துவ கல்விக்கு பல நன்மைகளை கொண்டுள்ளது. மருத்துவத்தின் தரத்தை அதிகரிக்க, சுகாதார சேவைகளின் செயல்திறன் மற்றும் தரத்தை அதிகரிக்க, தகவல் தொழில்நுட்பத்தின் வளர்ச்சியுடன் தகவல்களின் அளவு மிக வேகமாக அதிகரித்துள்ளது என்றார்.
+
+உலகில் உள்ள அனைத்து தகவல்களையும் பற்றிய அறிவைப் பெறுவது ஒரு தனி நபருக்கு கடினமாக உள்ளது. அத்தகைய சூழ்நிலையில் செயற்கை நுண்ணறிவு மிகவும் பயனுள்ளதாக இருக்கும். இலங்கையில் சுகாதார சேவைகள் மற்றும் அது தொடர்பான சேவைகளில் பயன்படுத்துவதற்கு செயற்கை நுண்ணறிவை அறிமுகப்படுத்துவதற்கான திட்டம் தயாரிக்கப்பட்டுள்ளது என்றார்.
+
+...
+
+[Data](articles/5156f488.json)
+
+---
 
 ### Parliament to debate OSB today
 
@@ -1947,37 +1981,5 @@ In 2023, IFC provided nearly 3.45 billion dollars in long-term investments in So
 [Data](articles/12b810f4.json)
 
 [Extended Data](ext_articles/12b810f4.ext.json)
-
----
-
-### Modi opens controversial Hindu temple in Ayodhya in grand event ahead of national polls
-
-*2024-01-22 15:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96623/modi-opens-controversial-hindu-temple-in-ayodhya-in-grand-event-ahead-of-national-polls) · `en`
-
-Indian Prime Minister Narendra Modi on Monday opened a controversial Hindu temple built on the ruins of a historic mosque in the northern city of Ayodhya, delivering on a crucial Hindu nationalist pledge that his governing party hopes will catapult him to a record third successive term in upcoming elections.
-
-The temple, which is still under construction, is dedicated to Hinduism’s Lord Ram and fulfills a long-standing demand by millions of Hindus who worship the revered deity. Modi’s party and other Hindu nationalist groups who seized on the demand have portrayed the temple as central to their vision of reclaiming Hindu pride, which they say was shadowed by centuries of Mughal rule and British colonialism.
-
-...
-
-[Data](articles/bed74289.json)
-
-[Extended Data](ext_articles/bed74289.ext.json)
-
----
-
-### Vocational education in school if you complete high quality
-
-*2024-01-22 14:56:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயர்தரத்தை-நிறைவு-செய்தால்-பாடசாலையில்-தொழிற்கல்வி/175-331957) · `ta`
-
-Education Minister Susil Premajayantha said that students who complete the highest level will be given vocational education in school from February.
-
-The Minister also said that this vocational program is being implemented in 299 schools selected nationwide in order to guide students who are completing higher education.
-
-◼️
-
-[Data](articles/b0142ef4.json)
-
-[Extended Data](ext_articles/b0142ef4.ext.json)
 
 ---

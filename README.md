@@ -1,48 +1,120 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 19:32:48**
+As of **2024-01-22 19:51:03**
 
 ## Newspaper Stats
 
-*Scraped **1,855** Articles*
+*Scraped **1,860** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 42
-adaderanasinhalalk | 101
+adaderanasinhalalk | 104
 islandlk | 110
 newsfirstlk | 116
 economynextcom | 116
 dbsjeyarajcom | 121
 dailyftlk | 159
 virakesarilk | 189
-adalk | 194
+adalk | 195
 dailymirrorlk | 219
-tamilmirrorlk | 228
+tamilmirrorlk | 229
 adaderanalk | 231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,768 (95.3%) of 1,855 articles have been extended.
+1,779 (95.6%) of 1,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### ஐயாவிடம் ஆசீவாதம் பெற்ற ஸ்ரீதரன்
+### பெலியத்த துப்பாக்கிச்சூடு; பொலிஸார் அதிரடி நடவடிக்கை
+
+*2024-01-22 19:31:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-துப்பாக்கிச்சூடு-பொலிஸார்-அதிரடி-நடவடிக்கை/175-331962) · `ta`
+
+மாத்தறை - பெலியத்த பிரதேசத்தில் இன்று காலை மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டு சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொள்வதற்காக 6 விசேட பொலிஸ் குழுக்கள் ஈடுபடுத்தப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சட்டத்தரணி நிஹால் தல்துவ தெரிவித்தார்.
+
+தென் மாகாணத்திற்கு பொறுப்பான சிரேஷ்ட பிரதி பொலிஸ்மா அதிபரின் கண்காணிப்பில் இந்த விசாரணைகள் முன்னெடுக்கப்படுவதாக அவர் குறிப்பிட்டார்.
+
+பெலியத்த பிரதேசத்தில் இன்று (22) காலை இடம்பெற்ற துப்பாக்கிச் சூட்டில் அபே ஜனபல கட்சியின் தலைவர் சமன் பெரேரா உள்ளிட்ட ஐந்து பேர் உயிரிழந்தனர்.
+
+இன்று(22) காலை 8.30 முதல் 8.40 மணிக்குள் இந்த துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளதுடன், இதில் ஐவர் உயிரிழந்திருந்தனர்.  R
+
+◼️
+
+[Data](articles/ba48a77c.json)
+
+---
+
+### Entertainment of India to push
+
+*2024-01-22 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192442) · `si`
+
+It is well known that India, which has the largest population of the world, as well as the most populous country, as well as music, music, music, as well as music, dance, is a best market for entertainment industry.
+
+As a result, a worldport entertainment companies such as HBo, Sony, Disney have been investing in India.
+
+Foreign companies have also faced a strong competition with indigenous entertainment companies in India.
+
+As a solution, they have chosen to merge local entertainment companies.
+
+The Sony Group of Japan was planning to merge US $ 10 billion in combining with India C (Zee) Elertainment.
+
+The merger became a timely necessity because of the Pradeshiya Sirianii Mukesh, Industries Group, to merge the US Walt Disney Company.
+
+However, the Reuters reported today (22) that there is a problem with the combination of Sony - C (Zee).
+
+It is with Sony's notification letter to Zee Entertainment that the agreement is terminated.
+
+Sony has stated that the letter will be exposed to investors later.
+
+...
+
+[Data](articles/d2d97068.json)
+
+[Extended Data](ext_articles/d2d97068.ext.json)
+
+---
+
+### What was met from the factory that produced false antibodies
+
+*2024-01-22 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192441) · `si`
+
+Seeduwa, who produced false antibodies, has been inspected by the Investigation Officers today (21).
+
+The owner of the relevant pharmaceutical factory was also called by prison guards, "Ada Derana reporter said.
+
+The officers have seized the eight computer data stores, the security camera and the database and the refrigerator.
+
+Meanwhile, Dr. Chamal Sanjeewa, Chairman of the Medical and Civil Rights, Dr. Chamal Sanjeewa has lodged a complaint with the CID regarding other pseudo-articles in the Ministry of Health.
+
+He said that the Ministry of Health had issued many fake letters to import drugs.
+
+◼️
+
+[Data](articles/791999e1.json)
+
+[Extended Data](ext_articles/791999e1.ext.json)
+
+---
+
+### Sridharan, who was blessed with sir
 
 *2024-01-22 18:48:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ஐயாவிடம்-ஆசீவாதம்-பெற்ற-ஸ்ரீதரன்/75-331960) · `ta`
 
-இலங்கைத் தமிழரசுக் கட்சியின் தலைவர் சிவஞானம் ஸ்ரீதரன் தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவர் ஆர்.சம்பந்தனிடம் ஆசீவாதம் பெற்றார்.
+Sri Lanka Tamil National Alliance (TNA) leader Sivagnanam Sridharan received a blessing to the Tamil National Alliance (TNA) leader R. Sampanthan.
 
-புதிதாகத் தெரிவு செய்யப்பட்ட இலங்கைத் தமிழரசுக் கட்சியின் தலைவரும் கிளிநொச்சி மாவட்டப் பாராளுமன்ற உறுப்பினருமான சிவஞானம் சிறிதரன் தமிழ்த் தேசியக் கூட்டமைப்பின் தலைவரும் திருகோணமலை மாவட்டப் பாராளுமன்ற உறுப்பினருமான ஆர்.சம்பந்தனிடம்   (22) கொழும்பில்  வைத்து ஆசீவாதம் பெற்றார்.
+Sivagnanam Sridharan, a newly elected Sri Lankan Tamil party leader and Kilinochchi district parliamentarian, was blessed with R. Sampanthan (22), the leader of the Tamil National Alliance (TNA) and Trincomalee district parliamentarian.
 
 ◼️
 
 [Data](articles/6345288c.json)
+
+[Extended Data](ext_articles/6345288c.ext.json)
 
 ---
 
@@ -101,6 +173,38 @@ The Presidential Secretariat states that the acting appointment is in addition t
 [Data](articles/febb2aaa.json)
 
 [Extended Data](ext_articles/febb2aaa.ext.json)
+
+---
+
+### අයි.පී.එල්. මිලදී නොගත්  චමරි අයි.සී.සී. කාන්තා විස්සයි 20 කණ්ඩායමේ නායකත්වයට
+
+*2024-01-22 18:30:52* · [`adalk`](https://www.ada.lk/sports/අයි-පී-එල්--මිලදී-නොගත්--චමරි-අයි-සී-සී--කාන්තා-විස්සයි-20-කණ්ඩායමේ-නායකත්වයට/9-407668) · `si`
+
+2023 වසරේදී කාන්තා විස්සයි20 පිටියේදී දැක්වූ දක්ෂතා අනුව එම වසරට අදාළ විස්සයි20 කාන්තා කණ්ඩායම ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ප්‍රකාශයට පත්කර තිබේ.
+
+මෙම කණ්ඩායමේ නායකත්වය ශ්‍රි ලංකා නායිකා චමරි අතපත්තුට හිමිව තිබීම කැපී පෙනෙන සාධකයකි. ඇය පසුගිය වසරේදී ජාත්‍යන්තර පිටියේදීත් ලීග පිටියේදී කැපී පෙනෙන දක්ෂතා පෙන්වූ ක්‍රීඩිකාවකි.
+
+කෙසේ වෙතත් ඉදිරියේදී පැවැත්වීමට නියමිත කාන්තා අයි.පී.එල්. තරගාවලියේ වෙන්දේසියට ඇය ඉදිරිපත් වුවත් ඇයව මිලදී ගැනීමට කිසිම කණ්ඩායමක් කටයුතු නොකළේය.
+
+◼️
+
+[Data](articles/05ca14b0.json)
+
+---
+
+### Saman Dissanayake appointed Acting Defense Secretary
+
+*2024-01-22 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192440) · `si`
+
+Additional Secretary to the Ministry of Defense Saman Dissanayake has been appointed as the Acting Secretary Defense.
+
+The Presidential Secretariat has issued a statement issued by the Defense Secretary General Kamal Gunaratne and this appointment has been made to return to the island.
+
+◼️
+
+[Data](articles/57cf9255.json)
+
+[Extended Data](ext_articles/57cf9255.ext.json)
 
 ---
 
@@ -202,23 +306,25 @@ While issuing a media release, the CEBEU said that the Minister is trying to be 
 
 ---
 
-### ராமர் கோவில்: ஒரு பெண்ணின் ’அல்லாஹ்ஹூ அக்பர்’ முழக்கம் அதிர வைத்தது
+### Rama Temple: A woman's number
 
 *2024-01-22 18:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமர்-கோவில்-ஒரு-பெண்ணின்-அல்லாஹ்ஹூ-அக்பர்-முழக்கம்-அதிர-வைத்தது/175-331959) · `ta`
 
-கர்நாடகா மாநிலத்தில் ராமர் கோவில் கொண்டாட்டங்களின் போது பெண் ஒருவர் எழுப்பிய அல்லாஹ்ஹூ அக்பர் முழக்கம் ஷிமோகாவை அதிர வைத்தது.
+Allah Akbar's slogan raised by a woman during the Rama Temple celebrations in the state of Karnataka shocked Shimoga.
 
-அயோத்தியில் உச்சநீதிமன்ற தீர்ப்பின்படி பிரம்மாண்ட ராமர் கோவில் கட்டப்பட்டுள்ளது. இந்த ராமர் கோவில் திறப்பு விழா இன்று (22) நடைபெற்றது.
+The Great Rama Temple is built in Ayodhya according to the Supreme Court ruling. The inauguration of the Rama Temple was held today (22).
 
-நாட்டின் பெரும் தொழிலதிபர்கள், ஆன்மீகவாதிகள், திரை நட்சத்திரங்கள் என 7,000 பேர் இந்நிகழ்வில் பங்கேற்றனர். பிரதமர் மோடி, ராமர் சிலையை பிரதிஷ்டை செய்து கருவறையில் வழிபாடு நடத்தினார். பின்னர் ராமர் கோவில் வளாகப் பொதுக் கூட்டத்திலும் மோடி உரையாற்றினார்.
+7,000 people participated in the event, including the country's great businessmen, spiritualists and screen stars.. Prime Minister Modi consecrated the statue of Lord Rama and worshiped the sanctum sanctorum. Modi then addressed the Rama Temple premises.
 
-ராமர் கோவில் திறப்பு விழாவை நாட்டின் பல பகுதிகளிலும் ராம பக்தர்கள் கொண்டாடினர். கர்நாடகா மாநிலத்திலும் ராமர் கோவில் திறப்பு விழா நிகழ்ச்சிகள் களைகட்டின. கர்நாடகாவின் ஷிமோகாவில் ஷிவப்பா நாயகா சர்க்கிள் பகுதியில் ராமர் பக்தர்கள் கொண்டாட்டங்களில் ஈடுபட்டிருந்தனர்.
+Rama devotees celebrated the inauguration of the Rama Temple in many parts of the country. The opening of the Rama Temple in the state of Karnataka. Rama devotees held celebrations in Shivappa Nayaka Circle in Shimoga, Karnataka.
 
-அப்போது அந்த வழியாக ஸ்கூட்டரில் குழந்தையுடன் சென்ற பெண் ஒருவர் வாகனத்தை நிறுத்தி படம் பிடித்தார். அப்போது பொலிஸார் அங்கு வந்து இருசக்கர வாகனத்தை அங்கிருந்து நகர்த்துமாறு கேட்டுக் கொண்டனர்.
+A woman who went with the baby on a scooter then parked the vehicle. The police then came there and asked him to move the two -wheeler.
 
 ...
 
 [Data](articles/9773d756.json)
+
+[Extended Data](ext_articles/9773d756.ext.json)
 
 ---
 
@@ -240,19 +346,23 @@ Colombo (News 1st) – A high-level group of United Nations experts have called 
 
 ---
 
-### அட ரஜினி சார் நீங்களா, கைகூப்பி வணங்கிய அம்பானி
+### Oh Rajini sir you, Ambani worshiped
 
 *2024-01-22 18:10:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அட-ரஜினி-சார்-நீங்களா-கைகூப்பி-வணங்கிய-அம்பானி/175-331958) · `ta`
 
-இந்தியாவே காத்திருந்த அயோத்தி ராமர் கோவில் கும்பாபிஷேகம் பிரதமர் மோடி தலைதாங்கி பிரான் பிரதிஷ்டை விழாவை நடத்தி மக்களின் பார்வைக்குக் கோவில் திறக்கப்பட்டது. அயோத்தி ராமர் கோவில் கும்பாபிஷேக விழாவிற்காக இந்தியா முழுவதிலும் இருந்து பெரும் பிரபலங்களின் பட்டாளத்திற்கு அழைப்பு விடுக்கப்பட்டது.
+The Ayodhya Rama Temple, which was waiting for India, opened the temple to the people's view of Prime Minister Modi headed by Prime Minister Modi. The Ayodhya Rama Temple Kumbabhisheka was invited to the band of great celebrities from all over India.
 
-ராமர் கோவிலில் 5 வயது பால ராமர் சிலை மக்களைக் கவர்ந்ததைத் தொடர்ந்து, தற்போது இணையத்தில் ஒரு வீடியோ செம டிரெண்டாகி ஒட்டுமொத்த மக்களையும் பேசவைத்துள்ளது
+Following the 5 -year -old statue of Lord Rama in the Rama Temple, a video on the Internet has now spoken to the entire population.
 
-அயோத்தியிலும் மக்கள் கூட்டம் அலைமோதும் வேளையில், பிரதமர் முதல் பல்வேறு அமைச்சர்கள், அம்பானி முதல் பல தொழிலதிபர்கள், ரஜினிகாந்த் முதல் பல பிரபலங்கள் கலந்துகொண்டனர். இதில் முக்கியமான விஷயம் என்னவென்றால் ரஜினி, அம்பானி, சச்சின் ஆகியோர் பக்கது பக்கத்தில் அமர்ந்து சந்தித்துக்கொண்ட வீடியோ தான் இப்போது இணையத்தில் டிரெண்டாகி வருகிறது.
+While the crowds in Ayodhya, the first ministers, various businessmen from the Prime Minister, Ambani, and many celebrities from Rajinikanth participated in the event.. The main point is that the video of Rajini, Ambani and Sachin sitting on the side are now trending on the Internet.
+
+Mukesh Ambani, who came to the Kumbabhishekha ceremony from the airport, was talking to the neighbors before sitting in his seat, and after seeing the superstar Rajini, Sir, Mukesh Ambani gave a hand.
 
 ...
 
 [Data](articles/f03ecbe2.json)
+
+[Extended Data](ext_articles/f03ecbe2.ext.json)
 
 ---
 
@@ -1194,19 +1304,21 @@ She finished with 470 runs in the year, scoring at a quicker-than-usual strike-r
 
 ---
 
-### පේරේ මහාචාර්යවරයා මිය ගියේ ඖෂධ අධිමාත්‍රාවක් අරන්ද?
+### Did the Perenian professor die a medicine degree?
 
 *2024-01-22 14:11:30* · [`adalk`](https://www.ada.lk/breaking_news/පේරේ-මහාචාර්යවරයා-මිය-ගියේ-ඖෂධ-අධිමාත්‍රාවක්-අරන්ද-/11-407665) · `si`
 
-ඖෂධ අධිමත්‍රාවක් ගත් බවට සකසහිතව පේරාදෙණිය ශික්ෂණ රෝහලට ඇතුළත් කළ පෙරදෙණිය විශ්ව විද්‍යාලයේ කෘෂිකර්ම පීඨයේ මහාචාර්යවරයකු මියගොස් ඇති බව පොලිසිය කියයි .
+A professor of the Faculty of Agriculture, who was admitted to the Peradeniya Teaching Hospital, has been identified as the Peradeniya Teaching Hospital has been admitted to the Peradeniya Teaching Hospital.
 
-එසේ මියගොස් ඇත්තේ බී. එල්. පීරිස් (60) නමැති මහාචාර්යවරයෙකු වන අතර මහාචාර්යවරයාගේ බිරිඳ ද පෙරදෙණිය විශ්ව විද්‍යාලයේ ප්‍රධාන පුස්තකාලයේ සේවය කරන්නියක බවද පැවසේ .
+The deceased is B. L. It is said that Professor of Peiris (60), is said that the professor's wife is a server at the main library of the Peadeniya University.
 
-මහාචාර්යවරයා අද අලුයම 1.00 ට පමණ අසාධ්‍ය තත්ත්වයෙන් රෝහල්ගත කිරීමෙන් අනතුරුව මියගොස් ඇති අතර මරණයට හේතුව පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීමෙන් අනතුරුව පැවසිය හැකි බව පේරාදෙණිය පොලිසිය කියයි .
+The professor died around 1.00 am today and after the death of the post mortem, the Peradeniya Police say.
 
 ◼️
 
 [Data](articles/2f0b495d.json)
+
+[Extended Data](ext_articles/2f0b495d.ext.json)
 
 ---
 
@@ -1905,111 +2017,5 @@ Meanwhile, the list of 4,500 people involved in the drug trade in Sri Lanka has 
 [Data](articles/269f428b.json)
 
 [Extended Data](ext_articles/269f428b.ext.json)
-
----
-
-### ’Yukithiya’ proves to be a drama: SJB MP
-
-*2024-01-22 11:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukithiya-proves-to-be-a-drama-SJB-MP/108-275487) · `en`
-
-Colombo, Jan. 22 (Daily Mirror)- Referring to the killing of five persons, including a political party leader in Belliatta thus morning, Samagi Jana Balawegaya (SJB) MP Sujith Sanjaya Perera said the 'Yukthiya operation' has been proven to be a drama.
-
-“A large scale operation is not needed if Acting IGP Deshabandu Tennekoon had carried out his duties effectively during his past years of service in the police," he said.
-
-◼️
-
-[Data](articles/92a99c5c.json)
-
-[Extended Data](ext_articles/92a99c5c.ext.json)
-
----
-
-### Thieves help you stay home to break homes
-
-*2024-01-22 11:53:19* · [`adalk`](https://www.ada.lk/breaking_news/හොරුන්ට-ගෙවල්-බිඳින්න-ගෙදර--ඉන්න-අයත්-නොදැනිම-උදවු-කරනවා/11-407660) · `si`
-
-DIG Priyantha Chandrasiri said that the houses will be taken to steal their property and that many people are unwittingly facilitate their property.
-
-He was speaking at the meeting held at Bentota Police Station recently to educate the Bentota Police Advisory Committee Members.
-
-"When many people close the house, the house is located in front of the house, and the cupboard is easier to break the robbery.There is also a climb to climb, and thief.
-
-When the bicycle is stopped at the same time.
-
-The prevention of these flaws is a major road to prevent theft.
-
-◼️
-
-[Data](articles/df92c0c4.json)
-
-[Extended Data](ext_articles/df92c0c4.ext.json)
-
----
-
-### Contact with organized criminal groups: Army officer arrested!
-
-*2024-01-22 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174501) · `ta`
-
-Police Special Task Force (STF) has arrested a military officer on charges of involvement with organized criminal groups.
-
-The Army Officer has been arrested in a raid in Kahatuduwa, Uswatta area, according to the Special Task Force.
-
-It is reported that the suspect is being sought into the killing of a person in Palapitiya area on June 21 last year and the plan to kill a person in Balapitiya area on the 18th.
-
-During the test, 18 grams of ice was found in the suspect's house.
-
-◼️
-
-[Data](articles/a81da53f.json)
-
-[Extended Data](ext_articles/a81da53f.ext.json)
-
----
-
-### Trade unions to hold special discussion over interdiction of CEB employees
-
-*2024-01-22 11:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96617/trade-unions-to-hold-special-discussion-over-interdiction-of-ceb-employees) · `en`
-
-A special trade union discussion is set to take place today (22 Jan.), during which a decision against the recent interdiction of employees of the Ceylon Electricity Board (CEB) is due to be taken.
-
-Accordingly, nearly 100 trade unions from across the country are due to participate in the meeting today, which will be held under the leadership of the CEB trade unions.
-
-Meanwhile, civil society organisations have planned to launch a protest campaign in front of the CEB Head Office at 12:00 p.m. today, against the said interdiction of employees.
-
-On 15 January, the CEB suspended 15 clerical staff members in charge of the cash counters for inconveniencing the customers, who had come to pay their bills, by closing the windows of the counters and refraining from accepting payments.
-
-...
-
-[Data](articles/a1c8c9b7.json)
-
-[Extended Data](ext_articles/a1c8c9b7.ext.json)
-
----
-
-### The death sentence of the death sentence in the Punguduthivu case
-
-*2024-01-22 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/174493) · `ta`
-
-The appeals of those sentenced to death in connection with the abduction of Sivalokanathan Vidya in the Jaffna - Punguduthivu area will be taken up for hearing on Monday (22).
-
-These appeals were called in the presence of High Court Judges, Ayam, a three -member High Court Judges, Preity Padman Surasena, Achala Venkapuli and Shiran Gunaratne.
-
-The court has ordered the petitioners to take steps to submit Sinhala translation copies to the Attorney General.
-
-Subsequently, the judges Ayam ordered the hearing of the appeal on January 22.
-
-In 2015, Sivalokanathan Vidya, an 18 -year -old school student from Jaffna, was abducted and murdered and murdered.
-
-On September 27, 2017, seven accused in connection with the case sentenced the three judges of the Jaffna High Court to death.
-
-The defendants have said that the man who has been sentenced is contrary to the law.
-
-Accordingly, the defendants filed these appeals in the High Court demanding the release of themselves from the charge.
-
-◼️
-
-[Data](articles/cdf283ac.json)
-
-[Extended Data](ext_articles/cdf283ac.ext.json)
 
 ---

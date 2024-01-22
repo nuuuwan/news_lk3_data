@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 04:32:45**
+As of **2024-01-23 04:50:32**
 
 ## Newspaper Stats
 
-*Scraped **1,912** Articles*
+*Scraped **1,916** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,96 @@ dailyftlk | 171
 virakesarilk | 195
 adalk | 200
 dailymirrorlk | 230
-tamilmirrorlk | 234
 adaderanalk | 235
+tamilmirrorlk | 238
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,912 (100.0%) of 1,912 articles have been extended.
+1,916 (100.0%) of 1,916 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### The death of the professor who swallowed the colds
+
+*2024-01-23 02:32:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளிசைகளை-விழுங்கிய-பேராசிரியர்-மரணம்/175-331984) · `ta`
+
+Professor L. L. L. L. L. L.. Peiris (age 60) died, police said.
+
+It is also said that the wife of the deceased professor is also working in the main library of Peradeniya University.
+
+The professor who was admitted to the hospital in critical condition died at around 1 am on Sunday and the cause of death will be revealed only after the autopsy, Peradeniya police said.
+
+◼️
+
+[Data](articles/98f8d068.json)
+
+[Extended Data](ext_articles/98f8d068.ext.json)
+
+---
+
+### By the Foundation Backup Act: Two -day debate
+
+*2024-01-23 02:19:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிகழ்நிலை-காப்புச்-சட்ட-மூலம்-இரு-நாள்-விவாதம்/175-331982) · `ta`
+
+The debate on the controversial controversy will be held in Parliament on Tuesday (23) and Wednesday (24).. After the debate, the government is looking forward to passing the bill.
+
+It is expected that a referendum may be held to pass this bill. According to reports, the government is looking for amendments to the amendments when examining the bill.
+
+It is noteworthy that Public Security Minister Tran Ales recently presented the bill to Parliament for the first reading.
+
+◼️
+
+[Data](articles/73b0f1a3.json)
+
+[Extended Data](ext_articles/73b0f1a3.ext.json)
+
+---
+
+### Authorization of the Department of Department of Supervisory
+
+*2024-01-23 02:11:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துறைசார்-மேற்பார்வை-குழு-அங்கீகாரம்/175-331981) · `ta`
+
+Amendments to the High Court have been approved by the Department of Media, Youth, Heritage and New Citizens.
+
+The Department of Media, Youth, Heritage and New Citizens has approved the approved by its Chairman of Parliament Lalith Warna Kumara on Monday (22).
+
+The Bill will be presented in Parliament on Tuesday (23) for a second assessment debate.
+
+Officials representing the Ministry of Public Security, the Attorney General's Department, the Attorney General's Department, the Sri Lanka Police and the National Secretariat for NGOs.
+
+Members of the committee were also present at the meeting, with MPs Gayantha Karunathilaka, Jayantha Kadagoda, Sanjeeva Enemy, Jagath Samarawickrama and MPs Iran Vikramaratne and Chandima Weerakody with the permission of the committee's chairman.
+
+...
+
+[Data](articles/3d48ad46.json)
+
+[Extended Data](ext_articles/3d48ad46.ext.json)
+
+---
+
+### Arrest Indian fishermen
+
+*2024-01-23 02:06:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களை-கைது-செய்க/175-331980) · `ta`
+
+The Minister of Foreign Affairs, NM Alam said that the Minister of Foreign Affairs and the Northern Province Fishermen's Internet and Media Spokesperson said that we, as Northern fishermen, expressed their opposition to the release of Indian fishermen.
+
+He told the media on Sunday evening that fishermen in the North are looking at this and how the government is coming to an end.
+
+We know through the media that more than 40 Tamil Nadu fishermen arrested in the Mannar Sea a few days ago, beyond the Nedundevu and Point Pedro, within a month of a month, are being released on the basis of the recommendation of the Ministry of Fisheries.
+
+What is this information really the position of the Minister of Fisheries?The question has encoded. In particular, when the Indian Finance Minister came to Tamil Nadu a few months ago, 20 fishermen were released without any legal action.
+
+...
+
+[Data](articles/0d945494.json)
+
+[Extended Data](ext_articles/0d945494.ext.json)
+
+---
 
 ### Sexual harassment in Parliament
 
@@ -1911,79 +1989,5 @@ He has lived in the residential house in the residential house in the Old Galawa
 [Data](articles/371ba28d.json)
 
 [Extended Data](ext_articles/371ba28d.ext.json)
-
----
-
-### Applications called for O/L Examinations
-
-*2024-01-22 15:29:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Applications-called-for-OL-Examinations/108-275500) · `en`
-
-Colombo, Jan. 22 (Daily Mirror)- The applications for the Ordinary Level (O/L) examination 2023 (2024) will be called for from January 23 to February 15, the Examinations Department announced today.
-
-The Department announced that applications will be accepted only through online, via its official websites - www.doenets.lk or www.onlineexams.gov.lk/eic.
-
-The deadline for online applications is midnight on February 15.
-
-◼️
-
-[Data](articles/64864f79.json)
-
-[Extended Data](ext_articles/64864f79.ext.json)
-
----
-
-### A man's body recovered at the Fisheries Harbor in Trincomalee
-
-*2024-01-22 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/174529) · `ta`
-
-Chinese police said that the body of an unidentified man has been found in the Trincomalee Fisheries Harbor.
-
-The body was found today (22) at 10.20 am. The Chinese police are conducting further investigations into the unidentified body.
-
-◼️
-
-[Data](articles/93160e15.json)
-
-[Extended Data](ext_articles/93160e15.ext.json)
-
----
-
-### After A/Ls vocational education for students in school itself from February: Minister
-
-*2024-01-22 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/After-ALs-vocational-education-for-students-in-school-itself-from-February-Minister/108-275501) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - A programme with practical training and theoretical rehearsals on vocational education with knowledge on information technology, including English language will be provided to students who complete their Advande Level (A/L) examination this year from February, said Education Minister Susil Premajayantha.
-
-He said this vocational training programme will be implemented in 299 selected schools in the island with the aim of directing students who complete their high school education towards vocational education.
-
-Students sitting for the GCE A/L Examination in January 2024 can register themselves for this programme before February 9, the Minister added.
-
-He further mentioned that more related information can be obtained from the Skills Development Officers of the Divisional Secretariats.
-
-◼️
-
-[Data](articles/4176ddb3.json)
-
-[Extended Data](ext_articles/4176ddb3.ext.json)
-
----
-
-### Imad Fakhoury appointed IFC South Asia regional director
-
-*2024-01-22 15:15:00* · [`economynextcom`](https://economynext.com/imad-fakhoury-appointed-ifc-south-asia-regional-director-148231/) · `en`
-
-ECONOMYNEXT – The International Finance Corporation has appointed Imad N Fakhoury as Regional Director for South Asia, the World Bank Group member said in a statement.
-
-“Private sector investment is key to achieving South Asia’s development goals,” said Fakhoury. “Our focus is on creating opportunities where they are needed most, sustaining jobs, supporting climate goals, improving inclusion for all by improving services for people, and strengthening digital and financial access across the region.”
-
-IFC provides investment and advisory interventions across Bangladesh, Bhutan, India, the Maldives, Nepal, and Sri Lanka.
-
-In 2023, IFC provided nearly 3.45 billion dollars in long-term investments in South Asia, including 1.3 billion dollars mobilized from other investors, according to the statement.
-
-...
-
-[Data](articles/12b810f4.json)
-
-[Extended Data](ext_articles/12b810f4.ext.json)
 
 ---

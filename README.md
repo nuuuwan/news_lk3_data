@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 01:17:01**
+As of **2024-01-23 01:33:01**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ adaderanalk | 235
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,906 (99.8%) of 1,910 articles have been extended.
+1,910 (100.0%) of 1,910 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -380,6 +380,8 @@ The Presidential visit to the unfortunate area known as the former conflict area
 
 [Data](articles/78465d8f.json)
 
+[Extended Data](ext_articles/78465d8f.ext.json)
+
 ---
 
 ### Govt to pay monthly welfare allowance to over 16,000 institutionalised persons
@@ -394,6 +396,8 @@ In a tweet, Shehan Semasinghe said this will include clergy in Piriven, children
 
 [Data](articles/05218cc5.json)
 
+[Extended Data](ext_articles/05218cc5.ext.json)
+
 ---
 
 ### Secretary General refutes reports of constant violence against women in Parliament and lack of action
@@ -407,6 +411,8 @@ Issuing a statement, the Secretary General emphasized that when such incidents r
 ...
 
 [Data](articles/0d987de1.json)
+
+[Extended Data](ext_articles/0d987de1.ext.json)
 
 ---
 
@@ -437,6 +443,8 @@ Original BRICS member and last year’s chair of BRICS, South Africa gained the 
 ...
 
 [Data](articles/50c73b15.json)
+
+[Extended Data](ext_articles/50c73b15.ext.json)
 
 ---
 

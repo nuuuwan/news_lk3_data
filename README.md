@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 10:17:15**
+As of **2024-01-22 10:32:57**
 
 ## Newspaper Stats
 
-*Scraped **1,711** Articles*
+*Scraped **1,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,30 +15,64 @@ economynextcom | 104
 islandlk | 108
 newsfirstlk | 109
 dbsjeyarajcom | 121
-virakesarilk | 156
 dailyftlk | 159
+virakesarilk | 161
 adalk | 183
 dailymirrorlk | 197
 adaderanalk | 211
-tamilmirrorlk | 213
+tamilmirrorlk | 214
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,528 (89.3%) of 1,711 articles have been extended.
+1,542 (89.8%) of 1,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### தங்காலையில் துப்பாக்கிச் சூடு; ஒருவர் மரணம்
+### பெலியத்தையில் டிபென்டர் மீது துப்பாக்கிப் பிரயோகம் : 5 பேர் உயிரிழப்பு
+
+*2024-01-22 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174490) · `ta`
+
+தங்காலை, பெலியத்த பகுதியில் டிபென்டர் வாகனத்தில் பயணித்தவர்கள் மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+தெற்கு அதிவேக வீதியின் பெலியத்த பகுதியில் உள்ள வெளியேறும் பகுதியில் இன்று திங்கட்கிழமை (22) குறித்த துப்பாக்கிச் சூட்டுச் சம்பவம் இடம்பெற்றுள்ளது.
+
+குறித்து வாகனத்தில் பயணித்த ஐவரில் நால்வர் ஸ்தலத்திலேயே கொல்லப்பட்டதுடன், ஒருவர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+
+மற்றுமொரு வாகனத்தில் வந்த குழுவினரால் இந்த துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/7f4ec535.json)
+
+---
+
+### Shooting in Tangalle;Death
 
 *2024-01-22 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-331937) · `ta`
 
 ◼️
 
 [Data](articles/2cfcbd63.json)
+
+[Extended Data](ext_articles/2cfcbd63.ext.json)
+
+---
+
+### தங்காலை துப்பாக்கிச் சுட்டில் ஐவர் மரணம்...
+
+*2024-01-22 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தங்காலை-துப்பாக்கிச்-சுட்டில்-ஐவர்-மரணம்/150-331937) · `ta`
+
+மேலும், டிபென்டரில் பயணித்த குழுவினர் மீது நடத்தப்பட்ட துப்பாக்கிச் சூட்டிலேயே 5 பேர் உயிரிழந்துள்ளதாக உறுதிப்படுத்தப்படாத தகவல்கள் தெரிவிக்கின்றன.
+
+கடை ஒன்றின் முன் நின்றிருந்த சிலர் மீதே துப்பாக்கிச் சூடு நடத்தப்பட்டதாக தெரிய வந்துள்ளது.R
+
+◼️
+
+[Data](articles/7da4c407.json)
 
 ---
 
@@ -58,25 +92,65 @@ The remains of the deceased have been placed at the Tangalle Base Hospital, Ada 
 
 [Data](articles/1076c0e4.json)
 
+[Extended Data](ext_articles/1076c0e4.ext.json)
+
 ---
 
-### மின் கட்டண திருத்தம் குறித்து முக்கிய கலந்துரையாடல்
+### கொழும்பில் இன்று முதல் சாரதிகளை கண்காணிக்க சி.சி.ரி.வி. கமராக்கள் !
+
+*2024-01-22 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/174489) · `ta`
+
+கொழும்பு நகரில் போக்குவரத்து விதிகளை மீறும் சாரதிகளை கண்காணிக்க பொலிஸாரினால் புதிய சி.சி.ரி.வி. கண்காணிப்பு கட்டமைப்பு அமைப்பு நடைமுறைப்படுத்தப்பட்டுள்ளது.
+
+அதன்படி இன்று முதல் இம்மாதம் 31 ஆம் திகதி வரை கொழும்பு நகரில் குறித்த திட்டம் நடைமுறைப்படுத்தப்படும்.
+
+கொழும்பிற்குள் நுழையும் அனைத்து வாகனங்களும் 108 சி.சி.ரி.வி. கமெராக்கள் மூலம் கண்காணிக்கப்படும் என  பொலிஸார் தெரிவித்தனர்.
+
+கொழும்பிற்குள் நுழையும் 9 இடங்களிலும் சி.சி.ரி.வி. அமைப்பு செயற்பாட்டில் உள்ளதாக சாரதிகளுக்கு முன்கூட்டியே அறிவிக்கும் வகையில் அறிவிப்புப் பலகைகளும் போடப்பட்டுள்ளன.
+
+இந்த நடைமுறையின் ஊடாக போக்குவரத்து விதிகளை மீறும் சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் எனவும்  போக்குவரத்து விதிகளை மீறும் சாரதிகளுக்கு அவர்கள் வசிக்கும் பகுதியிலுள்ள பொலிஸ் பிரிவின் ஊடாக அதற்கான தண்டப்பணம் அறிவிடப்படும் என பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சட்டத்தரணி நிஹால் தல்துவ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/cc1f5ee9.json)
+
+---
+
+### கரையோர ரயில் சேவையில் தாமதம்
+
+*2024-01-22 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174488) · `ta`
+
+தண்டவாளத்தில் ஏற்பட்டுள்ள வெடிப்பு காரணமாக கரையோர ரயில் சேவையில் தாமதம் ஏற்பட்டுள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+
+பாணந்துறை மற்றும் எகொட உயன ரயில் நிலையங்களுக்கிடையில் இன்று திங்கட்கிழமை (22) காலை தண்டவாளத்தில் வெடிப்பு  ஏற்பட்டுள்ளது.
+
+இதன் காரணமாக கொழும்பில் இருந்து காலி நோக்கி செல்லும் மார்க்கத்தில் ரயில் சேவையில் தாமதம் ஏற்பட்டுள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/0c7c6db9.json)
+
+---
+
+### Important Discussion on Electricity Target Correction
 
 *2024-01-22 09:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-திருத்தம்-குறித்து-முக்கிய-கலந்துரையாடல்/175-331936) · `ta`
 
-மின்சாரக் கட்டணத் திருத்தம் செய்வது தொடர்பில் கலந்துரையாடல் ஒன்றை நடத்துவதற்காக பொதுப் பயன்பாடுகள் ஆணைக்குழு இன்று (22) கூடவுள்ளது.
+The Public Utilities Commission will meet today (22) to hold a discussion on the Electricity Tax Amendment.
 
-அண்மையில் இலங்கை மின்சார சபை கட்டண திருத்தம் தொடர்பான யோசனையை பொது பயன்பாட்டு ஆணைக்குழுவிடம் வழங்கியது.
+Recently, the Ceylon Electricity Board (CEB) has given the idea to the Public Utilities Commission on the idea.
 
-குறித்த முன்மொழிவு விவாதிக்கப்பட்டு இறுதி முடிவு எடுக்கப்பட்டு, பொதுமக்களின் கருத்துகளைப் பெற்ற பிறகு, பயன்பாட்டு ஆணைக்குழு தனது கருத்துக்களைச் சேர்க்கும்.
+The proposal will be discussed and the final decision has been taken and the public will be included in the Commission.
 
-பின் 3 வாரங்களுக்கு பிரேரணை பகிரங்கப்படுத்தப்படும். அதன்பிறகு பொதுமக்கள் கலந்தாய்வு கூட்டம் நடைபெறும்.
+Then the proposal will be made public for 3 weeks. Thereafter a public consultation meeting will be held.
 
-அதன் பின்னர் அனைத்து முன்மொழிவுகளையும் இணைத்து புதிய பிரேரணை இலங்கை மின்சார சபைக்கு வழங்கப்படும் என தெரிவிக்கப்பட்டுள்ளது. R
+After all the proposals, the new proposal will be issued to the Ceylon Electricity Board.. Remble
 
 ◼️
 
 [Data](articles/3c2378d9.json)
+
+[Extended Data](ext_articles/3c2378d9.ext.json)
 
 ---
 
@@ -98,17 +172,19 @@ It is reported that the shooting has been carried out by a group of people who w
 
 ---
 
-### யுக்தியவில் மேலும் 910 பேர் கைது
+### Another 910 arrested in Yukati
 
 *2024-01-22 09:29:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-910-பேர்-கைது/175-331935) · `ta`
 
-இந்த நிலையில், இன்று (ஜனவரி 22) நள்ளிரவு12.30 மணியுடன் நிறைவடைந்த 24 மணித்தியாலங்களில் மேலும் 910 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+In the meantime, a further 910 suspects have been arrested within 24 hours of completion at 12.30 pm today (January 22).
 
-பொது பாதுகாப்பு அமைச்சின் தகவலின்படி, 65 கிலோகிராம் ஹெரோயின், 136 கிராம் ஐஸ் மற்றும் 254 போதை மாத்திரைகள் இதன் போது கைப்பற்றப்பட்டுள்ளன.
+According to the Ministry of Public Security, 65 kilograms of heroin, 136 grams of ice and 254 drugs were seized.
 
 ◼️
 
 [Data](articles/d1f1f7d0.json)
+
+[Extended Data](ext_articles/d1f1f7d0.ext.json)
 
 ---
 
@@ -130,33 +206,51 @@ Accordingly, a motorcycle obtained from illegally earned from the Welikanda area
 
 ---
 
-### சில இடங்களில் மட்டும் மழை பெய்யும்
+### Only in some places it rains
 
 *2024-01-22 09:11:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-மட்டும்-மழை-பெய்யும்/175-331934) · `ta`
 
-வடமத்திய, கிழக்கு மற்றும் ஊவா மாகாணங்களில் சிறிதளவில் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+Rainfall is expected in the North Central, Eastern and Uva provinces.
 
-மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் பி.ப. 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+In some places in the Western and Sabaragamuwa Provinces, Galle and Matara districts. After 2.00 pm, there is a possibility of rain or thunderstorms.
 
-மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது. R
+In the morning, in some places in the Western, Sabaragamuwa and Central Provinces and Galle and Matara districts, there is expected snowfall in the morning.. Remble
 
 ◼️
 
 [Data](articles/3264ac37.json)
 
+[Extended Data](ext_articles/3264ac37.ext.json)
+
 ---
 
-### மாவீரர் துயிலுமில்லத்தில் புதிய தலைவர் சிறிதரன்
+### The new leader Sridharan at the hero of the hero
 
 *2024-01-22 09:07:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மாவீரர்-துயிலுமில்லத்தில்-புதிய-தலைவர்-சிறிதரன்/72-331933) · `ta`
 
-இலங்கைத் தமிழரசுக் கட்சியின் புதிய தலைவரான சிறிதரன் எம்.பி தனது பயணத்தை கனகபுரம் மாவீரர் துயிலுமில்லத்திலிருந்து இன்று ஆரம்பித்தார்.
+The new leader of the Sri Lankan Tamil National Party, Sridharan MP, started his journey from Kanakapuram Knight Tuilumillam today.
 
-“ஈழத்தமிழர்களின் அரசியல் உரித்துக்கோரிய பயணத்தில், இலங்கைத் தமிழரசுக் கட்சியின் தலைவராக எனக்குரித்தாக்கப்பட்ட பொறுப்புகளை உணர்ந்து, கொள்கைரீதியில் ஒருமித்திருப்போரை ஒன்றிணைத்து மேற்கொள்ளவுள்ள பலம் மிக்க பயணத்தை  கனகபுரம் மாவீரர் துயிலுமில்லத்திலிருந்து இன்று ஆரம்பித்தோம்.” R
+“In the political journey of the Eelam Tamils, we began today from Kanakapuram Knights Thuilumillam to realize the responsibilities of the Sri Lankan Tamil National Alliance (TNA).R
 
 ◼️
 
 [Data](articles/553bd74b.json)
+
+[Extended Data](ext_articles/553bd74b.ext.json)
+
+---
+
+### யுக்திய நடவடிக்கை ; மேலும் 910 பேர் கைது
+
+*2024-01-22 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/174487) · `ta`
+
+யுக்திய நடவடிக்கையின் கீழ் கடந்த 24 மணித்தியாலங்களில் போதைப்பொருள் மற்றும் பாதாள உலகக் குற்றச்சாட்டின் பேரில் 910 பேர் சந்தேகத்தில்  கைது செய்யப்பட்டுள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு இன்று திங்கட்கிழமை (22)  தெரிவித்துள்ளது.
+
+இதன்போது, 65 கிராம் ஹெரோயின், 136 கிலோ கிராம் ஐஸ் மற்றும் 254 போதை மாத்திரைகள் என்பன கைப்பற்றப்பட்டதாக அமைச்சு மேலும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/791c42b3.json)
 
 ---
 
@@ -171,6 +265,8 @@ According to the Ministry of Public Security, 65kg of heroin, 136g of crystal me
 ◼️
 
 [Data](articles/dadacc30.json)
+
+[Extended Data](ext_articles/dadacc30.ext.json)
 
 ---
 
@@ -229,6 +325,24 @@ The new proposal is added to the Ceylon Electricity Board.
 [Data](articles/5000286c.json)
 
 [Extended Data](ext_articles/5000286c.ext.json)
+
+---
+
+### ரஸ்யாவின் ஆக்கிரமிப்பில் உள்ள டொனெட்ஸ்க் நகரின் மீது எறிகணை தாக்குதல் - 27 பேர் பலி
+
+*2024-01-22 07:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174486) · `ta`
+
+ரஸ்யா ஆக்கிரமித்துள்ள டொனெட்ஸ்க் நகரின் மீது மேற்கொள்ளப்பட்ட எறிகணை தாக்குதலில் 27 பேர் கொல்லப்பட்டுள்ளனர்.
+
+மிகவும் மும்முரமான சந்தையில் பயங்கரமான தாக்குதல் இடம்பெற்றுள்ளது உயிரிழந்தவர்களின் எண்ணிக்கை அதிகரிக்கலாம் என பிராந்தியத்தின் ரஸ்ய சார்பு தலைவர் டெனிஸ் புஸ்சிலின் தெரிவித்துள்ளார். அவர் உக்ரைனே இந்த தாக்குதலை மேற்கொண்டது என குற்றம்சாட்டியுள்ளார்.
+
+எறிகணைவருவதை சத்தத்தின் மூலம் அறிந்துகொண்ட நான் கடைக்குள் பதுங்கிக்கொண்டேன் என உயிர்பிழைத்த பெண்ணொருவர் தெரிவித்துள்ளார்.
+
+புகைமண்டலத்தையும் மக்கள் அலறுவதையும் பெண் ஒருவர் அழுவதையும் பார்த்தேன் என அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/6dc9c4ea.json)
 
 ---
 
@@ -344,23 +458,27 @@ In its first public account of the October assault, published on Sunday, Hamas d
 
 ---
 
-### ”பேரினவாதக் கும்பலிடம் இருந்து நாட்டை விடுவிக்க வேண்டும்”
+### “The country should be released from the chauvinist gang”
 
 *2024-01-22 07:13:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேரினவாதக்-கும்பலிடம்-இருந்து-நாட்டை-விடுவிக்க-வேண்டும்/175-331932) · `ta`
 
-தற்போதுள்ள ஆட்சி முறையை மாற்ற வேண்டும் என்ற மக்களினதும், தேசிய மக்கள் சக்தி கட்சியினதும் கொள்கை இன்று ஒன்றாக மாறியுள்ளதால், இந்த ஆண்டில் புதிய அரசாங்கத்துக்கான மாற்றத்தை ஏற்படுத்த முடியும் என தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திஸாநாயக்க கண்டியில் தெரிவித்துள்ளார்.
+National People's Power Leader Anura Kumara Dissanayake said that the policy of the people and the National People's Power Party to change the existing regime and the new government could change this year.
 
-அனைத்து வகையிலும் மூழ்கிக்கொண்டிருக்கும் நாட்டை காப்பாற்ற புதிய மறுமலர்ச்சி யுகம் காலத்தின் கட்டாயத் தேவை எனவும் அவர் வலியுறுத்தியுள்ளார்.
+He also emphasized that the new Renaissance era is the imperative of the era to save the country that is drowning in all ways.
 
-மல்வத்து மற்றும் அஸ்கிரி மகாநாயக்கரின் ஆசி பெற்ற பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும்போதே  அவர் இவ்வாறு தெரிவித்துள்ளார்.
+He was speaking to the media after the blessing of Malwathu and Asgiri Mahanayaka.
 
-தற்போதுள்ள ஆட்சி முறையை மாற்றுவது வெறும் அரசியல் வேலைத்திட்டம் அல்ல, தேசிய செயற்பாடு. புதிய மாற்றத்துக்காக மக்கள் தற்போது முன்வருகின்றனர்.
+Changing the existing system is not just a political program, but a national activity. People are currently coming forward for a new change.
 
-பொருளாதார ரீதியிலும் அனைத்து துறைகளிலும் நாட்டின் வீழ்ச்சிக்கு காரணமானவர்கள் இன்று இருந்த இடத்தில் இருந்து ஒரு படி முன்னேறி நாட்டை கட்டியெழுப்பியுள்ளதாக கூறப்படுவது நகைப்புக்குரிய விடயமாகும்.
+It is ludicrous to say that those responsible for the fall of the country in all sectors in economic and all sectors are said to have progressed a step away from today.
 
-...
+Therefore, this chauvinist gang must liberate the country and lead the country to the new path. This is the goal of the national people's power.
+
+◼️
 
 [Data](articles/bdc9b787.json)
+
+[Extended Data](ext_articles/bdc9b787.ext.json)
 
 ---
 
@@ -404,21 +522,23 @@ The Civil Assistance of Civil Assistance has also been planned in front of Civil
 
 ---
 
-### வைத்தியரைத் தாக்கிய ஊழியர்கள் மூவர் கைது
+### Three employees arrested for assaulting doctors
 
 *2024-01-22 07:06:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியரைத்-தாக்கிய-ஊழியர்கள்-மூவர்-கைது/175-331931) · `ta`
 
-கராப்பிட்டிய போதனா வைத்தியசாலையின் சத்திரசிகிச்சை நிபுணர் கிரிஷாந்த பெரேராவை தாக்கியதாக கூறப்படும் குற்றச்சாட்டில் ஒரு பெண் உட்பட மூன்று வைத்தியசாலை ஊழியர்களை காலி பொலிஸார் கைது செய்துள்ளனர்.
+Galle police have arrested three hospital workers, including a woman, for allegedly assaulting Krishantha Perera, a surgeon at the Karapitiya Teaching Hospital.
 
-ஜனவரி 17ஆம் திகதி காலி பொலிஸில் வைத்தியர் செய்த முறைப்பாட்டின் அடிப்படையில் மேற்கொள்ளப்பட்ட விசாரணைகளின் போதே இவர்கள் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+The police said that they were arrested during an investigation into the complaint lodged by the doctor at the Galle Police on January 17.
 
-அதன்படி, 52 வயதுடைய பெண் சுகாதார உதவியாளர் ஒருவரும், 45 மற்றும் 43 வயதுடைய உதவியாளர்கள் இருவருமே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+Accordingly, a 52 -year -old female health assistant and two assistants aged 45 and 43 have been arrested.
 
-கடந்த புதன்கிழமை வைத்தியசாலை வளாகத்தில் ஏற்பட்ட சர்ச்சைக்குரிய சூழ்நிலையின் போது பெண் வைத்தியசாலை ஊழியர் ஒருவரை தாக்கியதாக கூறப்படும் Onco சத்திரசிகிச்சை நிபுணர் காலி நீதவான் நீதிமன்றினால் கைது செய்யப்பட்டு ஜனவரி 22 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+The ONCO Surgery Expert, who allegedly assaulted a female hospital employee during a controversial situation at the hospital premises last Wednesday, was arrested by the Galle Magistrate's Court and kept in detention until January 22.
 
 ◼️
 
 [Data](articles/86e4ff74.json)
+
+[Extended Data](ext_articles/86e4ff74.ext.json)
 
 ---
 
@@ -486,49 +606,55 @@ The sea areas off the coast extending from Colombo to Mannar and Galle to Pottuv
 
 ---
 
-### பாலஸ்தீன வெளிவிவகார அமைச்சரை சந்தித்தார் ஜனாதிபதி
+### The President meets the Palestinian Foreign Minister
 
 *2024-01-22 03:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலஸ்தீன-வெளிவிவகார-அமைச்சரை-சந்தித்தார்-ஜனாதிபதி/175-331929) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் பாலஸ்தீன வெளிவிவகார மற்றும் புலம்பெயர்ந்தோர் தொடர்பான அமைச்சர் ரியாட் மல்கிக்கும் இடையிலான சந்திப்பொன்று நேற்று இடம்பெற்றுள்ளது.
+A meeting between President Ranil Wickremesinghe and Minister of Palestinian Foreign Affairs and Diaspora Riyat Malki was held yesterday.
 
-உகண்டாவின் கம்பாலா நகரில் நேற்று ஆரம்பமான 'ஜி 77 மற்றும் சீனா' 3 ஆவது தென் துருவ மாநாட்டுடன் இணைந்ததாக இந்தச் சந்திப்பு நடைபெற்றுள்ளது.
+The meeting was held in Kampala, Uganda, which began yesterday with the 'G77 and China' 3rd South Pole Conference.
 
-இந்தச் சந்திப்பின் போது, காஸா பகுதியில் ஏற்பட்டுள்ள நெருக்கடி தொடர்பில் விசேட கவனம் செலுத்தப்பட்டுள்ளது. இஸ்ரேல் - ஹமாஸ் மோதலில் பாலஸ்தீனத்தில் உள்ள அப்பாவி மக்கள் பாதிக்கப்படுவதை ஏற்க முடியாது என்பதை தொடர்ந்து வலியுறுத்துவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க குறிப்பிட்டுள்ளார். (a)
+During the meeting, special attention was paid to the crisis in the Gaza area. President Ranil Wickremesinghe has stressed that the innocent people in Palestine cannot accept the victims of the Israeli -Hamas clash. (A)
 
 ◼️
 
 [Data](articles/f8fb01e7.json)
 
+[Extended Data](ext_articles/f8fb01e7.ext.json)
+
 ---
 
-### யானை தாக்கி வயோதிபர் ஒருவர் உயிரிழப்பு
+### An elderly man killed
 
 *2024-01-22 03:54:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-தாக்கி-வயோதிபர்-ஒருவர்-உயிரிழப்பு/175-331928) · `ta`
 
-திருகோணமலை மாவட்டத்தில் கிண்ணியா - வான் எல பொலிஸ் பிரிவுக்குட்பட்ட செம்பி மொட்டை காட்டுப் பகுதியில் யானை தாக்கி வயோதிபர் ஒருவர் உயிரிழந்துள்ளார் என்று பொலிஸார் தெரிவித்தனர்.
+An elderly man has died after being attacked by an elephant in the Kinniya -Van Ela police division in the Trincomalee district.
 
-குறித்த வயோதிபர் செம்பி மொட்டையில் அரசுக்குச் சொந்தமான காட்டுப் பகுதியில் நேற்று மரம் வெட்டிக் கொண்டிருந்தபோது யானையின் தாக்குதலுக்கு இலக்காகிச் சாவடைந்துள்ளார்.
+The elderly man was killed when the elephant was hit by a tree in a state -owned forest yesterday.
 
-ஆயிலியடி பகுதியைச் சேர்ந்த எம்.எஸ். முகமட் யாகூப் (வயது 68) என்ற நபரே உயிரிழந்துள்ளதுடன், சம்பவம் தொடர்பில் வான்எல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். (a)
+MS from Oiliyadi. Mohammed Yaqoob (age 68) has died and the police are conducting further investigations into the incident.. (A)
 
 ◼️
 
 [Data](articles/0291bb06.json)
 
+[Extended Data](ext_articles/0291bb06.ext.json)
+
 ---
 
-### கால்வாயில் இருந்து முதியவரின் சடலம் மீட்பு
+### Elderly body recovery from the canal
 
 *2024-01-22 03:46:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால்வாயில்-இருந்து-முதியவரின்-சடலம்-மீட்பு/175-331927) · `ta`
 
-ஆனமடுவ நகரிலுள்ள கால்வாயிலில் சடலமொன்று காணப்படுவதாக பிரதேச மக்கள் பொலிஸாருக்கு வழங்கிய தகவலையடுத்து பொலிஸாரால் சடலம் மீட்கப்பட்டுள்ளது.
+The body has been recovered by the police following information that the people of the area have been found dead in a canal in Anamaduwa.
 
-வங்கியொன்றில் பாதுகாப்பு உத்தியோகத்தராக கடமையாற்றி ஓய்வு பெற்ற 64 வயதான முதியவரொருவரின் சடலமே இவ்வாறு மீட்கப்பட்டுள்ளார் என பொலிஸார் தெரிவித்தனர். (a)
+The body of a 64 -year -old man who retired as a security officer at a bank has been recovered, police said that the police said they were recovered.. (A)
 
 ◼️
 
 [Data](articles/bf07cd2f.json)
+
+[Extended Data](ext_articles/bf07cd2f.ext.json)
 
 ---
 
@@ -1276,21 +1402,27 @@ That is why they cannot be so easily weight on the presidential election.
 
 ---
 
-### CCTV දඩ කොළ රියදුරුට ලබා  නොදී හිමිකරුට දෙනවාට විරුද්ධයි
+### CCTV is against the owner without giving the driver's driver
 
 *2024-01-21 20:47:05* · [`adalk`](https://www.ada.lk/breaking_news/CCTV-දඩ-කොළ-රියදුරුට-ලබා--නොදී-හිමිකරුට-දෙනවාට-විරුද්ධයි/11-407654) · `si`
 
-ආරක්ෂිත කැමරාවලින් හඳුනාගන්නා නීති උල්ලංඝනය කරන රියදුරන්ට අදාළ දඩ කොළය වාහන හිමිකරුවන්ට ලබා දීමට ගෙන තිබෙන තීරණයට දැඩි ලෙස විරෝධය දක්වන බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමය සඳහන් කරයි.
+The Lanka Private Bus Owners Association states that the fines have been strongly protesting to the drivers who violate safety cameras.
 
-මේ නිසා අදාළදඩ කොළය, වරද සිදුකරන රියදුරුටම ලබා දෙන ක්‍රමවේදයක් සකස් කරන ලෙසට අද (22දා) මහජන ආරක්ෂක අමාත්‍යවරයාගෙන් හා වැඩබලන පොලිස්පතිවරයාගෙන් ලිඛිතව ඉල්ලා සිටීමට කටයුතු කරනබව එම සංගමයේ සභාපති ගැමුණු විජේරත්න මහතා සඳහන් කළේය.
+Therefore, the Akhed Leaf, the President of the Association Mr. Gemunu Wijeratne stated that action will be requested to be informed from the Hon.
 
-කොළඹ නගරයේ සවිකර තිබෙන ආරක්ෂිත කැමරාවලින් නීති උල්ලංඝනය කරන රියදුරන් හඳුනාගෙන අද සිට ඊට අදාළ දඩ කොළ වාහන හිමියන්ට ලබා දීමට තීරණය කර තිබෙන බවත් බස් රථ ගතහොත් අදාළ ධාවන කටයුතු  සිදුකරනු ලබන්නේ රියදුරන් විසින් බවද පවසා සිටියේය.
+The buses have been identified today and the pilgrims have been identified today and the pilgrims have been carried out today.
 
-බොහෝ රියදුරන් දෛනික පදනම මත සේවය කරන පිරිස් බවත් මේ නිසා වාහන හිමිකරුට ලැබෙන දඩ කොළය වාහන හිමිකරු විසින්ම ගෙවා දැමීමට සිදුවන බවත් මේ නිසා නිසි ක්‍රමවේදයක් සකස් නොකර බස් හිමියන්ට දඩ කොළ ලබා දීමට කටයුතු කළහොත් බස් රථ සේවයෙන් ඉවත් කර ගන්නා බවද කියා සිටියේය.
+The bus owners will be removed if the vehicle owner will have to pay the fines from the vehicle owner without preparation of a proper procedure.
+
+The drivers who do not punish the wrongdoing across the formation and to pay the fine leaves of the bus owners.
+
+The method is planning to implement the system of Europe's system to the country and said that there is no large lanes in Europe, and the buses were also provided with necessary facilities.
 
 ...
 
 [Data](articles/985f00b1.json)
+
+[Extended Data](ext_articles/985f00b1.ext.json)
 
 ---
 
@@ -1825,141 +1957,5 @@ It is said that this year is the year for the election. We do not expect the ele
 [Data](articles/f1267128.json)
 
 [Extended Data](ext_articles/f1267128.ext.json)
-
----
-
-### This renovation is urgent - President
-
-*2024-01-21 17:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192400) · `si`
-
-President Ranil Wickremesinghe states that an urgent need to reform the global financial structure is more than ever before.
-
-The President made this observation addressing the 3rd South Conference of the "G77 and China" team (3rd South Summit of 77 & China).
-
-The President has pointed out that the modern international debt solution is for the world that has dominated the global debt solutions to the global debt solutions.
-
-Today, the global debt as well as the debt and non-members of Paris society are governed by the international bonds and the international bonds.
-
-The President also pointed out that the existing public services and human development measures are unable to achieve the necessary expenses for essential public services and human development measures, and the President said.
-
-Following the entire story that President Ranil Wickremesinghe addressed the convention below
-
-...
-
-[Data](articles/976aef5a.json)
-
-[Extended Data](ext_articles/976aef5a.ext.json)
-
----
-
-### To protect the unique identities of Muslims
-
-*2024-01-21 17:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174455) · `ta`
-
-At present, the understanding of Muslims has occurred among the Buddhist Sinhalese people. So, the fears of Muslims have declined. But, not completely out of. Muslim leaders do not take action. The rulers did not do it.
-
-Thus, as the unique identities based on the Islamic religion are under question, the politics of the Muslims are being done without the uniqueness of the Muslims.
-
-◼️
-
-[Data](articles/b32fb9eb.json)
-
-[Extended Data](ext_articles/b32fb9eb.ext.json)
-
----
-
-### All three juntains remanded in Karapitiya Hospital
-
-*2024-01-21 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192399) · `si`
-
-A junior staff and two employees of the Karapitiya Teaching Hospital were remanded until 29th.
-
-The order has been issued after the suspects were produced before the Galle Magistrate's Court.
-
-The arrested were 52-year-old health assistants and two-year-old and 43 year old health supporters.
-
-The doctor had taken place between the Barcitiya Hospital Cancer staff and specialist Dr. Krishantha Perera in charge of the unit in charge of the unit of the health workers held on the 16th..
-
-The maid and the two employees have been arrested in the investigation carried out by the relevant doctor on the 17th.
-
-◼️
-
-[Data](articles/ba3c5fdf.json)
-
-[Extended Data](ext_articles/ba3c5fdf.ext.json)
-
----
-
-### Three minor staff members remanded over assault incident at Karapitiya Hospital
-
-*2024-01-21 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96601/three-minor-staff-members-remanded-over-assault-incident-at-karapitiya-hospital) · `en`
-
-Three minor staff members of the Karapitiya Teaching Hospital including a female, who were arrested in connection with a complaint by the hospital’s senior oncologist alleging assault, have been remanded in custody until 29 January 2024.
-
-The order was issued by the Galle Magistrate’s Court after the arrested suspects were produced before the court, Ada Derana reporter said.
-
-Earlier, the Galle Police had arrested three minor staff members including a female of the Karapitiya Teaching Hospital this morning (21) over an alleged assault to the senior oncologist of the hospital.
-
-The senior oncologist in question, Dr. Krishantha Perera, 61, was also arrested on 18 January for purportedly assaulting a female junior staff member during a contentious situation that had ensued the previous morning.
-
-...
-
-[Data](articles/d5019761.json)
-
-[Extended Data](ext_articles/d5019761.ext.json)
-
----
-
-### The motorcycle of the Tamilshajawila shooters
-
-*2024-01-21 16:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192398) · `si`
-
-The motorcycle who visited the suspects were shooting at the Theljjawila juncture at the Theljjawila juncture at the Theljjawila juncture.
-
-The motorcycle was found in the Thihagoda police division.
-
-When found the motorbike, the number plates and the battery had been removed.
-
-Meanwhile, police also recovered several clothes that suspected the suspects were identified as the motorbike.
-
-Also, the investigations have been commenced using the suspects using the motorcycle.
-
-Police investigations have revealed that the criminals target was not the victim of the criminals last night (20).
-
-Police Media Spokesperson SSP SSP Nihal Talduuwa said that the shooting was a 22 year old youth.
-
-He said he had come to the telephone relocation of the shooting and the aim was owned by the criminals, "Nihal Talduuwa said.
-
-A mobile phone accessory at the Thelembada Police Division in Matara - Maljjawila junction was aimed at around 8 pm yesterday (20).
-
-Two people who came on a motorcycle were shot.
-
-...
-
-[Data](articles/b5c9d0e2.json)
-
-[Extended Data](ext_articles/b5c9d0e2.ext.json)
-
----
-
-### Pleased to be given the leadership responsibility for Sreedharan: I will give my full support to Chairman Sridharan - Sumanthiran
-
-*2024-01-21 16:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/174459) · `ta`
-
-Co -chief contestant MA Sumanthiran has said that the Sri Lankan Tamil party's responsibility for the Sri Lankan Tamil party is very high and he will give his full support to Chairman Sreedharan.
-
-In the election for the leader of the Tamil party, our party has been a role model for the country and the international community.
-
-It is a very happy thing that our leader Mawai Senathirajah led the Tamil party responsibility.
-
-We will continue to travel together on this journey. We have made this clear to the people in the election. We will continue to travel.
-
-Therefore, I am informed that I will give my full support to the leader of the democratic leader and that he will fully give it to the leader Sridharan.
-
-◼️
-
-[Data](articles/df5b5d2e.json)
-
-[Extended Data](ext_articles/df5b5d2e.ext.json)
 
 ---

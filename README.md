@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 22:33:09**
+As of **2024-01-22 22:50:20**
 
 ## Newspaper Stats
 
-*Scraped **1,878** Articles*
+*Scraped **1,881** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dbsjeyarajcom | 121
 dailyftlk | 159
 virakesarilk | 195
 adalk | 199
-dailymirrorlk | 220
+dailymirrorlk | 223
 tamilmirrorlk | 231
 adaderanalk | 233
 
@@ -26,11 +26,31 @@ adaderanalk | 233
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,875 (99.8%) of 1,878 articles have been extended.
+1,881 (100.0%) of 1,881 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### Dhaka send concussion sub outside of players’ list, stir fresh controversy in BPL
+
+*2024-01-22 22:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dhaka-send-concussion-sub-outside-of-players-list-stir-fresh-controversy-in-BPL/108-275523) · `en`
+
+Jan. 22 (thedailystar) - Durdanto Dhaka's Sri Lankan opener Danushka Gunathilaka left the field retired hurt after getting struck on the with the ball early on in the innings in their ongoing Bangladesh Premier League match against the Chattogram Challengers at the Sher-e-Bangla National Cricket Stadium in Dhaka today.
+
+Dhaka sent in another Sri Lankan Lasith Croospulle as his concussion substitute. However, this substitution has led to controversy as Croospulle was not part of the 15-man squad Dhaka had submitted for the match.
+
+The general rule is that teams have to send in a concussion substitute from the players list submitted ahead of the match.
+
+Chattogram complained to the match referee Rakibul Hasan after Croopsulle was sent in as a substitute for Gunathilaka, who informed them that Dhaka were within their rights to do so.
+
+...
+
+[Data](articles/f051b517.json)
+
+[Extended Data](ext_articles/f051b517.ext.json)
+
+---
 
 ### Stop justice operation immediately - Human Rights Commission
 
@@ -98,6 +118,28 @@ Police have arrested the 59-year-old monk and the assassination of the suspected
 
 ---
 
+### Government with 6.9 mn mandate shattered by its own leaders: SB
+
+*2024-01-22 21:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-with-6-9-mn-mandate-shattered-by-its-own-leaders-SB/108-275506) · `en`
+
+Colombo, Jan 22 (Daily Mirror) - The government which was formed with a 6.9 million mandate and a two-thirds majority was shattered by its own leaders, Parliamentarian S.B. Dissanayake said today.
+
+"I am dissapointed that the government formed with a 6.9 million mandate and a two-thirds majority was shattered by our own leaders," he said.
+
+The MP said even though the President had powers to dissolve Parliament at any time now, no one can change the Presidential election which is due in October.
+
+He told reporters that the President can dissolve parliament at any time after four years, according to the Constitution.
+
+"The President or Parliament have powers to decide upon the dates of some elections. However, no one can decide the date of the Presidential election due in October," he said.
+
+◼️
+
+[Data](articles/3ea36727.json)
+
+[Extended Data](ext_articles/3ea36727.ext.json)
+
+---
+
 ### UN experts call on Sri Lanka to immediately suspend and review ‘Yukthiya’ anti-drug operation
 
 *2024-01-22 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96632/un-experts-call-on-sri-lanka-to-immediately-suspend-and-review-yukthiya-anti-drug-operation) · `en`
@@ -138,6 +180,20 @@ The property was taken into police custody by the police station on the inspecti
 
 ---
 
+### Against legalising prostitution under NPP government
+
+*2024-01-22 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-legalising-prostitution-under-NPP-government/110-275515) · `en`
+
+A protest was held in front of the head office of the Janatha Vimukthi Peramuna (JVP) in Pelawatta against the statement by National People's Power (NPP) executive member Samanmalee Gunasinghe over legalising prostitution under their government. Protest was staged by New Peoples Front Pix courtesy social media
+
+◼️
+
+[Data](articles/cc21367f.json)
+
+[Extended Data](ext_articles/cc21367f.ext.json)
+
+---
+
 ### Five vehicles in the Katunayake Expressway
 
 *2024-01-22 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192443) · `si`
@@ -158,21 +214,23 @@ The police suspect that the accident had been unable to control the vehicle.
 
 ---
 
-### பொலிஸாரின் நடவடிக்கைகளால் உயிரிழப்பவர்களின் எண்ணிக்கை அதிகரிப்பு – சுயாதீன விசாரணையை கோருகின்றது இலங்கை சட்டத்தரணிகள் சங்கம்
+### Sri Lanka Attorneys' Association demands an independent investigation
 
 *2024-01-22 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174566) · `ta`
 
-பொலிஸாரின் நடவடிக்கைகளால் உயிரிழப்பவர்களின் எண்ணிக்கை அதிகரிப்பது குறித்து இலங்கை சட்டத்தரணிகள் சங்கம் கவலை வெளியிட்டுள்ளது.
+The Sri Lanka Lawyers Association has expressed concern over the increase in the number of casualties due to the actions of the police.
 
-அரசாங்கம் இந்த விடயம் குறித்து சுயாதீன விசாரணைகளை மேற்கொள்ளவேண்டும் உன  இலங்கை சட்டத்தரணிகள் சங்கம் வேண்டுகோள் விடுத்துள்ளது.
+The Government of Sri Lanka's Lawyers Association has requested the government to conduct an independent investigation into the matter.
 
-குற்றச்செயல்களிற்கு எதிரான நடவடிக்கை முன்னெடுக்கப்படு;ம் விதம் குறித்து விமர்சனங்கள் வெளியாகியுள்ள போதிலும் பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் அதனை தொடர்வதில் உறுதிப்பாட்டை வெளிப்படுத்தியுள்ளார் எனவும் இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+The Sri Lanka Bar Association has said that the Minister of Public Security, Tran Alles, has revealed that the criticism of the crime is being carried out against the crime.
 
-போதைப்பொருள் செயற்பாடுகளில் ஈடுபட்டுள்ளவர்களிற்கு எதிராக அவசியமான சட்ட அமுலாக்கல்நடவடிக்கைகளை எடுக்கவேண்டியதன் அவசியத்தை ஏற்றுக்கொண்டுள்ள இலங்கை சட்டத்தரணிகள் சங்கம் இவற்றை உரிய சட்ட நடைமுறைகளை இறுக்கமாக பின்பற்றி முன்னெடுக்கவேண்டும் எனவும் தெரிவித்துள்ளது.
+The Sri Lanka Lawyers Association, which has accepted the need to take the necessary legal implementation measures against those involved in drug activities, has said that the appropriate legal procedures should be followed.
 
 ◼️
 
 [Data](articles/f3d350f7.json)
+
+[Extended Data](ext_articles/f3d350f7.ext.json)
 
 ---
 
@@ -238,21 +296,25 @@ The meeting between Santosh Jaw and the leaders of the Tamil National Party, whi
 
 ---
 
-### நிகழ்நிலை காப்புச் சட்டமூலத்தை திருத்தங்களுடன் நிறைவேற்ற அங்கீகாரம் - ஊடகம், இளைஞர், மரபுரிமை மற்றும் புதிய பிரஜைகள் பற்றிய துறைசார் மேற்பார்வைக்குழு
+### Authorization to carry out the Ceremony Backup Bill with amendments - Media, Youth, Heritage and New Citizens
 
 *2024-01-22 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/174556) · `ta`
 
-உயர் நீதிமன்றத்தினால் முன்வைக்கப்பட்ட திருத்தங்களுக்கு அமைய உத்தேச  நிகழ்நிலைக் காப்புச் சட்டமூலத்தை நிறைவேற்ற ஊடகம், இளைஞர், மரபுரிமை மற்றும் புதிய பிரஜைகள் பற்றிய துறைசார் மேற்பார்வைக் குழு அங்கீகரித்துள்ளது.
+The Department of Media, Youth, Heritage and New Citizens has approved the implementation of the proposed procedure Bill in accordance with the amendments made by the High Court.
 
-ஊடகம், இளைஞர், மரபுரிமை மற்றும் புதிய பிரஜைகள் பற்றிய துறைசார் மேற்பார்வைக் குழு அதன் தலைவர் பாராளுமன்ற உறுப்பினர் லலித் வர்ண குமார தலைமையில்  திங்கட்கிழமை (22) பாராளுமன்றத்தில் கூடியபோது இவ்வாறு அங்கீகாரம் வழங்கப்பட்டது.
+The Department of Media, Youth, Heritage and New Citizens' Overship Committee was approved by its Chairman of Parliament Lalith Warna Kumara on Monday (22).
 
-இதற்கமைய குறித்த சட்டமூலம் இரண்டாவது மதிப்பீட்டு விவாதத்துக்காக செவ்வாய்க்கிழமை (23) பாராளுமன்றத்தில் முன்வைக்க தீர்மானிக்கப்பட்டுள்ளது.
+The Bill is scheduled to be presented in Parliament on Tuesday (23) for a second assessment debate.
 
-இந்தக்  கூட்டத்தில் பொதுமக்கள் பாதுகாப்பு அமைச்சு, சட்டமா அதிபர் திணைக்களம், சட்டவரைஞர் திணைக்களம், இலங்கை பொலிஸ் மற்றும் அரசசார்பற்ற நிறுவனங்களுக்கான தேசிய செயலகம் ஆகியவற்றைப் பிரதிநிதித்துவப்படுத்தி அதிகாரிகள் கலந்துகொண்டனர்.
+Officers represent the meeting to represent the Public Security Ministry, the Attorney General's Department, the Department of Attorney General, the Sri Lanka Police and the National Secretariat for NGOs.
+
+Members of the committee were also present, along with MPs of the committee, Gayantha Karunathilaka, Jayantha Kadagoda, Sanjeeva Enemy and Jagath Samarawickrama with the permission of the committee's chairman Eran Wickramaratne and Chandima Weerakkody.
 
 ...
 
 [Data](articles/9487260a.json)
+
+[Extended Data](ext_articles/9487260a.ext.json)
 
 ---
 
@@ -894,27 +956,31 @@ Accordingly, the decision has already been taken as the production company has a
 
 ---
 
-### சுகாதார ஊழியர்களின் பிரச்சினைகளுக்கு ஒரு மாதத்துக்குள் தீர்வு - ரமேஷ் பத்திரண
+### Ramesh Pathirana Solves within a month of health workers' problems
 
 *2024-01-22 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/174545) · `ta`
 
-வைத்தியர்கள் மாத்திரமின்றி சகல தொழிற்துறையினரும் வரி அதிகரிப்பினால் பாதிக்கப்பட்டுள்ளனர் என்பதை ஏற்றுக் கொள்கின்றோம்.
+We accept that all the industry, not only doctors, have been affected by the tax increase.
 
-அந்த வகையில் வைத்தியர்கள் தவிர்ந்த ஏனைய சுகாதார ஊழியர்களின் கோரிக்கைகள் தொடர்பில் நிதி அமைச்சுடன் பேச்சுவார்த்தை முன்னெடுக்கப்பட்டுள்ளது.
+The Ministry of Finance has held talks on the demands of other health workers other than doctors.
 
-ஒரு மாத காலத்துக்குள் அவர்களுக்கான சாதகமான பதில் வழங்கப்படும் என்று சுகாதாரத்துறை அமைச்சர் வைத்தியர் ரமேஷ் பத்திரண தெரிவித்தார்.
+Health Minister Dr. Ramesh Pathirana said that they will be given a favorable response within a month.
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (22) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated at a press conference held at the Presidential Media Center on Monday (22).
 
-கடந்த ஆண்டு முழுவதும் தொழிற்துறையினர் எதிர்கொண்டுள்ள பிரதான பிரச்சினைகள் தொடர்பில் அவதானம் செலுத்தப்பட்டது.
+Over the past year, the major issues faced by the industry have been paid.
 
-இது தொடர்பில் பல்கலைக்கழக பேராசியர்கள் உள்ளிட்ட குழுவினர் அதிக வரி செலுத்த நேரிட்டுள்ளதால் ஏற்பட்டுள்ள நிலைவரம், வைத்தியர்கள் உள்ளிட்ட தரப்பினர் நாட்டை விட்டுச் செல்லும் நிலைமை தோற்றம் பெற்றுள்ளமை தொடர்பில் அரசாங்கத்திடம் தெளிவுபடுத்தினர்.
+In this regard, a group of university professors, including the university professors, made it clear to the government that the situation in which the doctors, including doctors, have left the country.
 
-அந்த கோரிக்கைகளுக்கான தற்காலிக தீர்வாகவே பேராசிரியர்களுக்கும், வைத்தியர்களுக்கும் நிவாரணத்தை வழங்குவதற்கு அரசாங்கம் நடவடிக்கை எடுத்துள்ளது.
+The government has taken steps to provide relief to professors and doctors as a temporary solution to those demands.
+
+We do not say that there is no problems for other sides. In this regard, negotiations have been held for the past two weeks, including the unions, including the unions. Many demands have been put forward during them.
 
 ...
 
 [Data](articles/b993dd75.json)
+
+[Extended Data](ext_articles/b993dd75.ext.json)
 
 ---
 
@@ -1959,69 +2025,5 @@ The US dollar purchasing price was 315.5076 and the sales price were 325.3792 ba
 [Data](articles/01b590aa.json)
 
 [Extended Data](ext_articles/01b590aa.ext.json)
-
----
-
-### Injunction order issued against Dayasiri Jayasekara extended
-
-*2024-01-22 12:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96620/injunction-order-issued-against-dayasiri-jayasekara-extended-) · `en`
-
-The Colombo District Court on Monday (22 Jan.) further extended the injunction order against the former General Secretary of the Sri Lanka Freedom Party (SLFP), Dayasiri Jayasekara, preventing him from hindering the affairs of the SLFP Acting General Secretary, Sarathi Dushmantha Mithrapala, and submitting inaccurate recommendations to the Election Commission in relation to the matter.
-
-The relevant order was issued when a petition filed by Mithrapala and Chairman of the SLFP former President Maithripala Sirisena was taken up in court this morning.
-
-The case is due to be recalled in court on 29 January, allowing time for the respondents to file objections, if any.
-
-The injunction order against Jayasekara was initially issued by Colombo District Judge Sandun Withana on 08 January.
-
-◼️
-
-[Data](articles/7c1eab4e.json)
-
-[Extended Data](ext_articles/7c1eab4e.ext.json)
-
----
-
-### TNSA. New Leader will take work to celebrate
-
-*2024-01-22 12:54:16* · [`adalk`](https://www.ada.lk/breaking_news/ටී-ඒන-ඒ--නව-නායකයා-මහවිරුවන්-සමරා-වැඩ-අරඹයි/11-407664) · `si`
-
-Parliamentarian Ays Sesharan, who was elected to the new leader of the TNA, was commemorating the Mahawrum Cemetery in Kilinochchi yesterday evening.
-
-After selecting the Tamil National Leadership at the party representatives of the UNP MPs, MP Esitharan was a special event.
-
-Then Ays Ratrrane went to the Sidanuchy Sidanuchy, Kilinochchi and took part in a special mission.
-
-The representatives of the party were then appointed by the people of the residents and the party members of the area.
-
-◼️
-
-[Data](articles/21aa64d9.json)
-
-[Extended Data](ext_articles/21aa64d9.ext.json)
-
----
-
-### Karapitiya has bail
-
-*2024-01-22 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192429) · `si`
-
-Dr. Krishantha Perera has released the Head of the Cancer Unit of the Karapitiya Teaching Hospital.
-
-Dr. Krishantha Perera was remanded until today the Cancer Economic Cancer Unit held on charges of assaulting a junior worker on the 16th.
-
-However, due to a heart attack, the court was permitted to receive the hospital with the safety of prison officials to the doctor and was returned to court today.
-
-After considering the facts, Galle Magistrate Isurra Nethththikumara ordered the release of specialist Dr. Krishantha Perera on two personal bail of Rs.
-
-Meanwhile, two junior employees of the Karapitiya Teaching Hospital and the Galle Police were arrested by the Galle Police regarding the unrest in the hospital.
-
-The Acting Magistrate ordered that the suspects also present the suspects to an identification parade.
-
-◼️
-
-[Data](articles/fef1b570.json)
-
-[Extended Data](ext_articles/fef1b570.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 11:33:07**
+As of **2024-01-22 11:52:18**
 
 ## Newspaper Stats
 
-*Scraped **1,731** Articles*
+*Scraped **1,736** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 39
-adaderanasinhalalk | 82
+adaderanasinhalalk | 87
 economynextcom | 104
 islandlk | 108
 newsfirstlk | 112
@@ -26,11 +26,59 @@ tamilmirrorlk | 216
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,577 (91.1%) of 1,731 articles have been extended.
+1,584 (91.2%) of 1,736 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### Army soldier arrested for contact with underworld
+
+*2024-01-22 11:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192425) · `si`
+
+An army officer who is currently active in an active service has been arrested by the STF, who have been working with organized criminal groups.
+
+The army officer had been arrested in Kahathuduwa, Kahathuduwa, the police STF personnel.
+
+It is said that the suspect had been shot dead in the Balapitiya area on June 21st and the 18th of this month.
+
+In this raid, 18 grams of ice narcotics were found in the house of the suspect.
+
+He is currently an arbitrator attached to the Special Forces.
+
+The suspect has been handed over to the Kahathuduwa Police Station for further investigations and is due to be produced before the court today.
+
+◼️
+
+[Data](articles/725299b1.json)
+
+[Extended Data](ext_articles/725299b1.ext.json)
+
+---
+
+### Opening Ram House opened with the co-ordination of 7,000 elites worldwide
+
+*2024-01-22 11:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192424) · `si`
+
+The Ram House built in North India, Ayodhya, is to be opened today (22).
+
+The opening ceremony will commence at 12.20 pm today, and Indian Prime Minister Narendra Modi is due to join the project.
+
+The inaugural ceremony of the Ram House has invited over 7,000 elites and the invitees worldwide.
+
+A 7.2 acre land mandation has been constructed in the country with 70 acres of land.
+
+It consists of three stories and is open today.
+
+Foreign critics point out that a tourist destinations of various religions and cultures worldwide will attract a tourist destinations.
+
+◼️
+
+[Data](articles/d7a2cfcb.json)
+
+[Extended Data](ext_articles/d7a2cfcb.ext.json)
+
+---
 
 ### PUCSL to discuss proposed electricity tariff revision today
 
@@ -116,6 +164,46 @@ Authorities did not immediately specify whether anyone had died in the landslide
 
 ---
 
+### Party leader also killed in Beliatta
+
+*2024-01-22 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192423) · `si`
+
+It is reported that the leader of the people, Saman Perera is also among the victims of the deceased in the Beliatta.
+
+The shooting occurred at 8.30 am and 8.40 am and four persons were killed in the shooting.
+
+One person was admitted to the Tangalle Hospital.
+
+It is reported that the shooting has been carried out by a group of people who had been traveling with a white Defender vehicle.
+
+◼️
+
+[Data](articles/437fb5e0.json)
+
+[Extended Data](ext_articles/437fb5e0.ext.json)
+
+---
+
+### AI technology to the Health Place
+
+*2024-01-22 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192422) · `si`
+
+Professor Indika Karunathilaka, professor Indika Karunatilaka, says that the need to use artificial intelligence in the field of Health has arisen.
+
+He points out that the use of artificial intelligence helps improve the quality of medical education.
+
+"The artificial intelligence is just a reality. It's not capable of ignore. There are also very benefits of the field of health and artificial education. It's not something that can be ignored. Also, increasing the efficiency and quality of hosting to increase the quality of medicine.. So it is difficult to learn about all the world's information in the world. At that point, artificial intelligence can benefit. "
+
+Prof. Indika Karunatilaka said artificial intelligence has made plans to introduce art and related services.
+
+...
+
+[Data](articles/203bf55c.json)
+
+[Extended Data](ext_articles/203bf55c.ext.json)
+
+---
+
 ### DEPnder firing in Beliyatta: 5 deaths
 
 *2024-01-22 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174490) · `ta`
@@ -155,6 +243,24 @@ Police suspect that underworld criminal Kosgoda Sujee's gang has carried out the
 [Data](articles/8d112752.json)
 
 [Extended Data](ext_articles/8d112752.ext.json)
+
+---
+
+### 47 people from landslide
+
+*2024-01-22 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192421) · `si`
+
+It is reported that 47 people have gone missing from a landslide in Langugzui village in Langugzui village in Yunan State.
+
+Foreign media reports that the residents of the victims were operating.
+
+47 Villagers Were Buried In a Landslide Tat Occurred In ZhenxionxionxionG Countg City, South China's Yunnan Provinnan Province, Early Monday. A Search and Rescue Operation is currently underway. pic.twitter.com/ugDPG8XiMA
+
+◼️
+
+[Data](articles/79823afa.json)
+
+[Extended Data](ext_articles/79823afa.ext.json)
 
 ---
 
@@ -1883,113 +1989,5 @@ It was revealed that the Technical Evaluation Committee had not taken transparen
 [Data](articles/49cbd9a1.json)
 
 [Extended Data](ext_articles/49cbd9a1.ext.json)
-
----
-
-### Sri Lanka will face a worse crisis, if deviate from current economic management plan - Semasinghe
-
-*2024-01-21 20:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96604/sri-lanka-will-face-a-worse-crisis-if-deviate-from-current-economic-management-plan-semasinghe) · `en`
-
-The State Minister of Finance Shehan Semasinghe says that the Micro-Finance and Loan Regulation Act was submitted to Parliament in order to establish a proper, strong regulatory procedure as a government.
-
-Joining the “FLi Diri Abhimani 2024” awards ceremony, organized to award women entrepreneurs in the Micro-Financial Sector, Semasinghe mentioned that the approval is expected to be obtained for the relevant act within the next few months.
-
-“We hope to get approval for this act in the next few months and protect consumers so that they can reap micro-finance benefits. We also hope to protect entities which provide these micro-financial benefits”, he expressed.
-
-The State Minister also said it would take several months for the public to reap the benefits of economic development, adding that Sri Lanka must stick to the existing economic management plan regardless of which government is in power.
-
-...
-
-[Data](articles/78a521a5.json)
-
-[Extended Data](ext_articles/78a521a5.ext.json)
-
----
-
-### S. Shritharan elected new ITAK leader
-
-*2024-01-21 19:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/S-Shritharan-elected-new-ITAK-leader/108-275437) · `en`
-
-Trincomalee, Jan. 21 (Daily Mirror)- Jaffna District Parliamentarian S. Shritharan was elected as the leader of the Ilankai Tamil Arasu Kachchi (ITAK) today.
-
-He was elected with majority votes at a secret vote taken in Trincomalee to elect a new leader.
-
-Parliamentarians M.A. Sumanthiran and former MP Sinnathamby Yogeshwaran also cotested for the ITAK leadership.
-
-◼️
-
-[Data](articles/5065d6bb.json)
-
-[Extended Data](ext_articles/5065d6bb.ext.json)
-
----
-
-### CR end 27-year wait with scintillating win
-
-*2024-01-21 19:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CR-end-27-year-wait-with-scintillating-win/108-275436) · `en`
-
-Kandy, Jan. 21 (Daily Mirror) - CR & FC ended their 27-year wait to beat Kandy Sports Club in a league encounter as they recorded a 38-point (6 tries, 4 conversions) to 26-point (4 tries, 3 conversions) win in their crucial Inter Club Rugby encounter, which concluded at the Nittawela Rugby Stadium.
-
-The game was contested at a rapid speed, with Red Shirts forwards showing great commitment and speed, shocking not only the home team but the packed stadium as well. Adeesha Weerathunge, Mursheed Doray, Lasindu Karunathilake, Manilka Ruberu, and Gemunu Chethiya were outstanding in both defence and attack. They landed the defending champions with four early tries in the initial half, which was too much for a comeback game.
-
-...
-
-[Data](articles/93c8d9b7.json)
-
-[Extended Data](ext_articles/93c8d9b7.ext.json)
-
----
-
-### Universal intelligence remanded
-
-*2024-01-21 19:20:07* · [`adalk`](https://www.ada.lk/breaking_news/විශ්ව-බුද්ධි-යළි-රිමාන්ඩ්/11-407648) · `si`
-
-Acting Universal Investigation Department (CID) has been remanded to the Gangodawila Magistrate's Court today (21).Did.
-
-The suspect was arrested on court orders as a result of the previous arrest and breaking bail conditions.
-
-Introducing the universal Buddha and created a strong speech in the society recently regarding the controversial statements about Buddhism on Buddhism.
-
-He was at times a layman and the social videos of the community were released.
-
-Accordingly, the Criminal Investigation Department has arrested a complaint received by the Criminal Investigation Department to investigate Buddhism and statements.
-
-He was then remanded and released on bail.
-
-With the incident, the Commander of the Ramawha Maha Nikaya had unanimously decided to expel the suspect and sect from scholars and sect.
-
-He is also a request made by the reciprocity of the victims.
-
-...
-
-[Data](articles/c020f404.json)
-
-[Extended Data](ext_articles/c020f404.ext.json)
-
----
-
-### The crime of the grandmother for a little girl
-
-*2024-01-21 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192404) · `si`
-
-Foreign media has made a sensitive news of pushing a small girl to a well.
-
-The girls said that the girl's grandmother is planning that the 10-year-old girl has been thrown into the well.
-
-The girl had taken place around 10 am yesterday and had taken the girl from the well and had been taken to a hospital.
-
-The victim was a small girl named 10.
-
-The suspects will be proposed that the suspect has been pusted his granddaughter in a family dispute.
-
-The girl's body has been forwarded for the post mortem.
-
-She has fled the area and police investigations have been launched to arrest the suspect.
-
-◼️
-
-[Data](articles/9b16a362.json)
-
-[Extended Data](ext_articles/9b16a362.ext.json)
 
 ---

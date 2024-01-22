@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 06:19:58**
+As of **2024-01-22 06:59:02**
 
 ## Newspaper Stats
 
-*Scraped **1,666** Articles*
+*Scraped **1,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ virakesarilk | 156
 dailyftlk | 159
 adalk | 180
 dailymirrorlk | 193
-tamilmirrorlk | 201
+tamilmirrorlk | 202
 adaderanalk | 206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,443 (86.6%) of 1,666 articles have been extended.
+1,449 (86.9%) of 1,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### காற்று சுழற்சி: அடுத்த வாரம் முதல் மழை
+
+*2024-01-22 03:42:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்று-சுழற்சி-அடுத்த-வாரம்-முதல்-மழை/175-331926) · `ta`
+
+நாட்டின் அடுத்த வாரம் உருவாகும் காற்று சுழற்சி காரணமாக எதிர்வரும் 27ஆம் திகதி முதல் மட்டக்களப்பு, பொத்துவில், திருகோணமலை மாவட்டங்களின் சில பகுதிகளிலும் எதிர்வரும் 28 ஆம் திகதியளவில் முல்லைத்தீவு மாவட்டத்தின் சில பகுதிகளிலும் ஓரளவு மழை பெய்வதற்கான சாத்தியக்கூறுகள் உள்ளன என  வளிமண்டவியல் திணைக்களத்தின் அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+
+அதேநேரம் யாழ்ப்பாணம், வவுனியா, மன்னார், கிளிநொச்சி மாவட்டங்களில் மழைக்கான சாத்திய கூறுகள் குறைவாகவே உள்ளன என திணைக்களம் தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/de3b29f8.json)
+
+---
 
 ### The UN. The President met the General Secretary
 
@@ -2043,23 +2057,5 @@ In the first installment, the newcomer, the Independence Ceremony, the Athletics
 [Data](articles/f79fbbb2.json)
 
 [Extended Data](ext_articles/f79fbbb2.ext.json)
-
----
-
-### The public can make comments from January 23 - Public Utilities Commission
-
-*2024-01-21 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174443) · `ta`
-
-The Ceylon Electricity Board has issued a proposal to revise the electricity tariff to the Sri Lanka Public Utilities Commission.
-
-A spokesman for the Commission said that the Public Utilities Commission of Sri Lanka will meet this week to discuss the proposal.
-
-In addition, the Commission said that the public will be obtained on the amendment of the electricity tariff for 23 days from Tuesday, the 23rd of Tuesday and that people can submit their views in writing for 21 days.
-
-◼️
-
-[Data](articles/20bd8ee1.json)
-
-[Extended Data](ext_articles/20bd8ee1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 22:17:04**
+As of **2024-01-22 22:33:09**
 
 ## Newspaper Stats
 
-*Scraped **1,875** Articles*
+*Scraped **1,878** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ newsfirstlk | 116
 economynextcom | 116
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 192
+virakesarilk | 195
 adalk | 199
 dailymirrorlk | 220
 tamilmirrorlk | 231
@@ -26,29 +26,33 @@ adaderanalk | 233
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,873 (99.9%) of 1,875 articles have been extended.
+1,875 (99.8%) of 1,878 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### යුක්තිය මෙහෙයුම වහාම නවත්වන්න - මානව හිමිකම් කොමිසම
+### Stop justice operation immediately - Human Rights Commission
 
 *2024-01-22 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192445) · `si`
 
-දැනට ක්‍රියාත්මක වෙමින් පවතින යුක්තිය මෙහෙයුම වහාම තාවකාලිව අත්හිටුවා එය සමාලෝචනය කරන ලෙස එක්සත් ජාතීන්ගේ විශේෂඥන් පිරිසක් ඉල්ලා සිටී.
+A group of UN has called for immediate action to be temporarily suspended immediately.
 
-ඔවුන් පවසන්නේ බලධාරීන් සෞඛ්‍ය සහ මානව හිමිකම් වැනි කරුණු සම්බන්ධයෙන් අවධානය යොමුකළ යුතු බවයි.
+They say that authorities should focus on health and human rights.
 
-GENEVA (22 January 2024) – UN experts* expressed alarm at the heavy security-driven approach of Sri Lanka’s drug response. They called on authorities to immediately suspend and review so-called Operation ‘Yukthiya’ and to focus on policies based on health and human rights.
+UN Experts * Expressed Alarm at The Heavy Security-Driven Appproach of Sri Lanka'S Drug Response. They Callet on Authorize Respenind And Review SO-Calaled Operation 'yukthiya' and fotolt opies based on health and human rightts.
 
-“Drug users have human rights,” the experts said. “They deserve to live a life with dignity without facing further discrimination and stigmatisation.”
+"Drug Users have Human Rights," The Experts SAID. "They Deserve to Live a Life With DIGNITY WITHER DISCRIMINATION AND STIGMATISATION."
 
-They deplored reported cases of arbitrary arrests of thousands of drug offenders from marginalised socio-economic groups, and the detention of hundreds in compulsory military-run rehabilitation centres. Torture and ill-treatment were also reported during the security operation known as ‘Yukthiya’.
+The DEPLORED REPORTED CASES OF ThoUGITRARY ARRESTS OF ThoUGITRARY ARRESTS OF THUSANDS OF DRUG OFFENDERS OF THUSANDS OF DRUG OFFENDERS OF DRUG OFFERSS. TOTURE AND ILL-TREATMENT Wee OPORED DURING THE Security Operation Known As 'Yuktiya'.
+
+"The Current Constext of Severe Repression Against Suspected Drug Offenders is Drywardly Worrying," The Experts Said.
 
 ...
 
 [Data](articles/0da3ab73.json)
+
+[Extended Data](ext_articles/0da3ab73.ext.json)
 
 ---
 
@@ -70,25 +74,27 @@ However, tackling non-communicable diseases (NCDs) remains a major challenge. Ov
 
 ---
 
-### අයියාගේ කතුරු ප්‍රහාරයෙන් මල්ලී මරුට
+### Brother's hostile attack dies
 
 *2024-01-22 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192444) · `si`
 
-වැඩිමල් සොහොයුරා විසින් එල්ලකළ කතුරු ප්‍රහාරයකින් ඔහුගේ බාල සොහොයුරා මියගොස් තිබේ.
+His younger brother was killed in a potential assault on the eldest brother.
 
-සිද්ධියෙන් ඝාතනයට ලක්ව ඇත්තේ බොරැල්ල, සර්පන්ටයින් පාර ප්‍රදේශයේ පදිංචිව සිටි 55 හැවිරිදි පුද්ගලයෙකි.
+The victim was 55 year old resident of the Sarpentine Road, Borella, Sarpentine Road.
 
-මරණකරු මත්පැන් පානය කරමින් සිටියදී සිය වැඩිමහල් සොහොයුරා සමඟ ඇති වූ බහින් බස් වීමත් දුරදිග යාමෙන් අනතුරුව සැකකාර වැඩිමල් සොහොයුරා  විසින් කතුරකින් මෙලෙස ඔහුගේ පපු ප්‍රදේශයට පහරදී තිබේ.
+The suspect's eldest brother has been attacked by the suspect's eldest brother, after the argument with his elder brother was drunk while drinking.
 
-කතුරු ප්‍රහාරයෙන් බරපතළ තුවාල ලද පුද්ගලයා කොළඹ ජාතික රෝහල වෙත ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇත.
+The victim was admitted to the Colombo National Hospital and was admitted to the Colombo National Hospital.
 
-මොවුන් දෙදෙනාම මත්ද්‍රව්‍ය සහ මත්පැන් පානය සඳහා ඇබ්බැහි වූවන් බවද පොලීසිය පවසයි.
+The two of them are addicted to drugs and drinking.
 
-59 හැවිරිදි සැකකාර සොයුරා ඝාතනයට යොදා ගත් කතුරත් සමග පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+Police have arrested the 59-year-old monk and the assassination of the suspected sustains and was to be produced before the court.
 
 ◼️
 
 [Data](articles/2220f678.json)
+
+[Extended Data](ext_articles/2220f678.ext.json)
 
 ---
 
@@ -152,6 +158,24 @@ The police suspect that the accident had been unable to control the vehicle.
 
 ---
 
+### பொலிஸாரின் நடவடிக்கைகளால் உயிரிழப்பவர்களின் எண்ணிக்கை அதிகரிப்பு – சுயாதீன விசாரணையை கோருகின்றது இலங்கை சட்டத்தரணிகள் சங்கம்
+
+*2024-01-22 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174566) · `ta`
+
+பொலிஸாரின் நடவடிக்கைகளால் உயிரிழப்பவர்களின் எண்ணிக்கை அதிகரிப்பது குறித்து இலங்கை சட்டத்தரணிகள் சங்கம் கவலை வெளியிட்டுள்ளது.
+
+அரசாங்கம் இந்த விடயம் குறித்து சுயாதீன விசாரணைகளை மேற்கொள்ளவேண்டும் உன  இலங்கை சட்டத்தரணிகள் சங்கம் வேண்டுகோள் விடுத்துள்ளது.
+
+குற்றச்செயல்களிற்கு எதிரான நடவடிக்கை முன்னெடுக்கப்படு;ம் விதம் குறித்து விமர்சனங்கள் வெளியாகியுள்ள போதிலும் பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் அதனை தொடர்வதில் உறுதிப்பாட்டை வெளிப்படுத்தியுள்ளார் எனவும் இலங்கை சட்டத்தரணிகள் சங்கம் தெரிவித்துள்ளது.
+
+போதைப்பொருள் செயற்பாடுகளில் ஈடுபட்டுள்ளவர்களிற்கு எதிராக அவசியமான சட்ட அமுலாக்கல்நடவடிக்கைகளை எடுக்கவேண்டியதன் அவசியத்தை ஏற்றுக்கொண்டுள்ள இலங்கை சட்டத்தரணிகள் சங்கம் இவற்றை உரிய சட்ட நடைமுறைகளை இறுக்கமாக பின்பற்றி முன்னெடுக்கவேண்டும் எனவும் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/f3d350f7.json)
+
+---
+
 ### Senior lecturer sudden death
 
 *2024-01-22 20:02:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரேஷ்ட-விரிவுரையாளர்-திடீர்-மரணம்/175-331964) · `ta`
@@ -211,6 +235,24 @@ The meeting between Santosh Jaw and the leaders of the Tamil National Party, whi
 [Data](articles/3506f973.json)
 
 [Extended Data](ext_articles/3506f973.ext.json)
+
+---
+
+### நிகழ்நிலை காப்புச் சட்டமூலத்தை திருத்தங்களுடன் நிறைவேற்ற அங்கீகாரம் - ஊடகம், இளைஞர், மரபுரிமை மற்றும் புதிய பிரஜைகள் பற்றிய துறைசார் மேற்பார்வைக்குழு
+
+*2024-01-22 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/174556) · `ta`
+
+உயர் நீதிமன்றத்தினால் முன்வைக்கப்பட்ட திருத்தங்களுக்கு அமைய உத்தேச  நிகழ்நிலைக் காப்புச் சட்டமூலத்தை நிறைவேற்ற ஊடகம், இளைஞர், மரபுரிமை மற்றும் புதிய பிரஜைகள் பற்றிய துறைசார் மேற்பார்வைக் குழு அங்கீகரித்துள்ளது.
+
+ஊடகம், இளைஞர், மரபுரிமை மற்றும் புதிய பிரஜைகள் பற்றிய துறைசார் மேற்பார்வைக் குழு அதன் தலைவர் பாராளுமன்ற உறுப்பினர் லலித் வர்ண குமார தலைமையில்  திங்கட்கிழமை (22) பாராளுமன்றத்தில் கூடியபோது இவ்வாறு அங்கீகாரம் வழங்கப்பட்டது.
+
+இதற்கமைய குறித்த சட்டமூலம் இரண்டாவது மதிப்பீட்டு விவாதத்துக்காக செவ்வாய்க்கிழமை (23) பாராளுமன்றத்தில் முன்வைக்க தீர்மானிக்கப்பட்டுள்ளது.
+
+இந்தக்  கூட்டத்தில் பொதுமக்கள் பாதுகாப்பு அமைச்சு, சட்டமா அதிபர் திணைக்களம், சட்டவரைஞர் திணைக்களம், இலங்கை பொலிஸ் மற்றும் அரசசார்பற்ற நிறுவனங்களுக்கான தேசிய செயலகம் ஆகியவற்றைப் பிரதிநிதித்துவப்படுத்தி அதிகாரிகள் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/9487260a.json)
 
 ---
 
@@ -849,6 +891,30 @@ Accordingly, the decision has already been taken as the production company has a
 [Data](articles/fe0fc6ba.json)
 
 [Extended Data](ext_articles/fe0fc6ba.ext.json)
+
+---
+
+### சுகாதார ஊழியர்களின் பிரச்சினைகளுக்கு ஒரு மாதத்துக்குள் தீர்வு - ரமேஷ் பத்திரண
+
+*2024-01-22 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/174545) · `ta`
+
+வைத்தியர்கள் மாத்திரமின்றி சகல தொழிற்துறையினரும் வரி அதிகரிப்பினால் பாதிக்கப்பட்டுள்ளனர் என்பதை ஏற்றுக் கொள்கின்றோம்.
+
+அந்த வகையில் வைத்தியர்கள் தவிர்ந்த ஏனைய சுகாதார ஊழியர்களின் கோரிக்கைகள் தொடர்பில் நிதி அமைச்சுடன் பேச்சுவார்த்தை முன்னெடுக்கப்பட்டுள்ளது.
+
+ஒரு மாத காலத்துக்குள் அவர்களுக்கான சாதகமான பதில் வழங்கப்படும் என்று சுகாதாரத்துறை அமைச்சர் வைத்தியர் ரமேஷ் பத்திரண தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (22) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+கடந்த ஆண்டு முழுவதும் தொழிற்துறையினர் எதிர்கொண்டுள்ள பிரதான பிரச்சினைகள் தொடர்பில் அவதானம் செலுத்தப்பட்டது.
+
+இது தொடர்பில் பல்கலைக்கழக பேராசியர்கள் உள்ளிட்ட குழுவினர் அதிக வரி செலுத்த நேரிட்டுள்ளதால் ஏற்பட்டுள்ள நிலைவரம், வைத்தியர்கள் உள்ளிட்ட தரப்பினர் நாட்டை விட்டுச் செல்லும் நிலைமை தோற்றம் பெற்றுள்ளமை தொடர்பில் அரசாங்கத்திடம் தெளிவுபடுத்தினர்.
+
+அந்த கோரிக்கைகளுக்கான தற்காலிக தீர்வாகவே பேராசிரியர்களுக்கும், வைத்தியர்களுக்கும் நிவாரணத்தை வழங்குவதற்கு அரசாங்கம் நடவடிக்கை எடுத்துள்ளது.
+
+...
+
+[Data](articles/b993dd75.json)
 
 ---
 
@@ -1957,63 +2023,5 @@ The Acting Magistrate ordered that the suspects also present the suspects to an 
 [Data](articles/fef1b570.json)
 
 [Extended Data](ext_articles/fef1b570.ext.json)
-
----
-
-### Sri Lanka’s main opposition files petition against anti-terrorism bill
-
-*2024-01-22 12:42:00* · [`economynextcom`](https://economynext.com/sri-lankas-main-opposition-files-petition-against-anti-terrorism-bill-148211/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s main opposition party the Samagi Jana Balawegaya (SJB) has filed a petition against a proposed Anti-Terrorism bill which the party claims is being introduced in an election year to repress opposition parties.
-
-The petition was filed by SJB general secretary Ranjith Madduma Bandara Monday January 22 morning at the Supreme Court.
-
-Speaking to reporters, the MP said the proposed bill is a threat to Sri Lanka’s opposition parties and to democracy itself.
-
-“This bill is being presented not at a time of terrorism prevailing in the country but during an election period.  The bill has not defined nor analysed what a terrorist is. Anyone can be arrested,” he said.
-
-“We think this is being done in the face of an election to repress political parties and stifle democracy of this country. That is why we filed a case against this, for democracy,” he added.
-
-...
-
-[Data](articles/6469b2ad.json)
-
-[Extended Data](ext_articles/6469b2ad.ext.json)
-
----
-
-### Landslides in China;47 people have chic
-
-*2024-01-22 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174507) · `ta`
-
-The media reports that 47 people have been caught in a landslide on Monday in the hill country of southwestern China.
-
-The landslide occurred in the early morning of the Jenciaong area of Yunnan province. There was a low temperature minus four degrees Celsius in the morning.
-
-About 18 houses have been buried in the soil and more than 200 people have been urgently expelled from the area.
-
-Chinese President Xi Jinping demanded that the recovery work be quickly organized. As well as efforts to reduce the deaths as possible as possible. It is necessary to console the families of the victims and resettle the victims. ”
-
-At this juncture, Sinhua said efforts are being made to find out what caused the landslide.
-
-◼️
-
-[Data](articles/15a39e34.json)
-
-[Extended Data](ext_articles/15a39e34.ext.json)
-
----
-
-### Ayodhya Rama Temple Opening Ceremony: Live
-
-*2024-01-22 12:35:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அயோத்தி-ராமர்-கோயில்-திறப்பு-விழா-நேரலை/175-331944) · `ta`
-
-The Kumbabhishekam of the Rama Temple, which is built in Ayodhya. Various sector celebrities have also participated in this historical event.
-
-◼️
-
-[Data](articles/066e85d9.json)
-
-[Extended Data](ext_articles/066e85d9.ext.json)
 
 ---

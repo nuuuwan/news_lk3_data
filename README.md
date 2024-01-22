@@ -1,36 +1,116 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 09:52:13**
+As of **2024-01-22 10:17:15**
 
 ## Newspaper Stats
 
-*Scraped **1,697** Articles*
+*Scraped **1,711** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 39
-adaderanasinhalalk | 81
+adaderanasinhalalk | 82
 economynextcom | 104
 islandlk | 108
 newsfirstlk | 109
 dbsjeyarajcom | 121
 virakesarilk | 156
 dailyftlk | 159
-adalk | 182
+adalk | 183
 dailymirrorlk | 197
-tamilmirrorlk | 203
-adaderanalk | 209
+adaderanalk | 211
+tamilmirrorlk | 213
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,514 (89.2%) of 1,697 articles have been extended.
+1,528 (89.3%) of 1,711 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### தங்காலையில் துப்பாக்கிச் சூடு; ஒருவர் மரணம்
+
+*2024-01-22 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-331937) · `ta`
+
+◼️
+
+[Data](articles/2cfcbd63.json)
+
+---
+
+### Four persons killed in shooting at Beliatta
+
+*2024-01-22 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96611/four-persons-killed-in-shooting-at-beliatta) · `en`
+
+At least four persons have been killed in a shooting incident in the Beliatta area in Tangalle this morning (22).
+
+Police said that the shooting had been carried out by a group of unidentified gunmen in a vehicle and that they had opened fire at four persons traveling in a Defender.
+
+The four persons in the Defender have been shot dead near the Beliatta exit of the Southern Expressway, police said.
+
+The remains of the deceased have been placed at the Tangalle Base Hospital, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/1076c0e4.json)
+
+---
+
+### மின் கட்டண திருத்தம் குறித்து முக்கிய கலந்துரையாடல்
+
+*2024-01-22 09:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-திருத்தம்-குறித்து-முக்கிய-கலந்துரையாடல்/175-331936) · `ta`
+
+மின்சாரக் கட்டணத் திருத்தம் செய்வது தொடர்பில் கலந்துரையாடல் ஒன்றை நடத்துவதற்காக பொதுப் பயன்பாடுகள் ஆணைக்குழு இன்று (22) கூடவுள்ளது.
+
+அண்மையில் இலங்கை மின்சார சபை கட்டண திருத்தம் தொடர்பான யோசனையை பொது பயன்பாட்டு ஆணைக்குழுவிடம் வழங்கியது.
+
+குறித்த முன்மொழிவு விவாதிக்கப்பட்டு இறுதி முடிவு எடுக்கப்பட்டு, பொதுமக்களின் கருத்துகளைப் பெற்ற பிறகு, பயன்பாட்டு ஆணைக்குழு தனது கருத்துக்களைச் சேர்க்கும்.
+
+பின் 3 வாரங்களுக்கு பிரேரணை பகிரங்கப்படுத்தப்படும். அதன்பிறகு பொதுமக்கள் கலந்தாய்வு கூட்டம் நடைபெறும்.
+
+அதன் பின்னர் அனைத்து முன்மொழிவுகளையும் இணைத்து புதிய பிரேரணை இலங்கை மின்சார சபைக்கு வழங்கப்படும் என தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/3c2378d9.json)
+
+---
+
+### Another shot in the South - five dead
+
+*2024-01-22 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192420) · `si`
+
+Five persons have died in a shooting in Beliatta, Tangalle, police said.
+
+There are 4 bodies of the incident and one of the body was placed at the Tangalle Hospital.
+
+It is reported that the shooting has been carried out by a group of people who were traveling with a green cab aimed at a white Defender vehicle between 8.30 am and 8.40 this morning.
+
+◼️
+
+[Data](articles/c80e7341.json)
+
+[Extended Data](ext_articles/c80e7341.ext.json)
+
+---
+
+### யுக்தியவில் மேலும் 910 பேர் கைது
+
+*2024-01-22 09:29:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-910-பேர்-கைது/175-331935) · `ta`
+
+இந்த நிலையில், இன்று (ஜனவரி 22) நள்ளிரவு12.30 மணியுடன் நிறைவடைந்த 24 மணித்தியாலங்களில் மேலும் 910 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+பொது பாதுகாப்பு அமைச்சின் தகவலின்படி, 65 கிலோகிராம் ஹெரோயின், 136 கிராம் ஐஸ் மற்றும் 254 போதை மாத்திரைகள் இதன் போது கைப்பற்றப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/d1f1f7d0.json)
+
+---
 
 ### Ahlandlla, trapped in the illegal asset division
 
@@ -47,6 +127,50 @@ Accordingly, a motorcycle obtained from illegally earned from the Welikanda area
 [Data](articles/aada31e8.json)
 
 [Extended Data](ext_articles/aada31e8.ext.json)
+
+---
+
+### சில இடங்களில் மட்டும் மழை பெய்யும்
+
+*2024-01-22 09:11:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-மட்டும்-மழை-பெய்யும்/175-331934) · `ta`
+
+வடமத்திய, கிழக்கு மற்றும் ஊவா மாகாணங்களில் சிறிதளவில் மழை பெய்யும் என எதிர்பார்க்கப்படுகின்றது.
+
+மேல் மற்றும் சப்ரகமுவ மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் பி.ப. 2.00 மணிக்குப் பின்னர் மழையோ அல்லது இடியுடன் கூடிய மழையோ பெய்யக் கூடிய சாத்தியம் காணப்படுகின்றது.
+
+மேல், சப்ரகமுவ மற்றும் மத்திய மாகாணங்களிலும் காலி மற்றும் மாத்தறை மாவட்டங்களிலும் சில இடங்களில் காலை வேளையில் பனிமூட்டமான நிலை காணப்படும் என எதிர்பார்க்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/3264ac37.json)
+
+---
+
+### மாவீரர் துயிலுமில்லத்தில் புதிய தலைவர் சிறிதரன்
+
+*2024-01-22 09:07:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/மாவீரர்-துயிலுமில்லத்தில்-புதிய-தலைவர்-சிறிதரன்/72-331933) · `ta`
+
+இலங்கைத் தமிழரசுக் கட்சியின் புதிய தலைவரான சிறிதரன் எம்.பி தனது பயணத்தை கனகபுரம் மாவீரர் துயிலுமில்லத்திலிருந்து இன்று ஆரம்பித்தார்.
+
+“ஈழத்தமிழர்களின் அரசியல் உரித்துக்கோரிய பயணத்தில், இலங்கைத் தமிழரசுக் கட்சியின் தலைவராக எனக்குரித்தாக்கப்பட்ட பொறுப்புகளை உணர்ந்து, கொள்கைரீதியில் ஒருமித்திருப்போரை ஒன்றிணைத்து மேற்கொள்ளவுள்ள பலம் மிக்க பயணத்தை  கனகபுரம் மாவீரர் துயிலுமில்லத்திலிருந்து இன்று ஆரம்பித்தோம்.” R
+
+◼️
+
+[Data](articles/553bd74b.json)
+
+---
+
+### 910 more suspects arrested during operation ‘Yukthiya’
+
+*2024-01-22 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96610/910-more-suspects-arrested-during-operation-yukthiya) · `en`
+
+A total of 910 more suspects have been arrested during a 24-hour window ending at 12:30 a.m. today (22 Jan.), as the special anti-drug operation ‘Yukthiya’ continues across the island.
+
+According to the Ministry of Public Security, 65kg of heroin, 136g of crystal methamphetamine (Ice) and 254 narcotic pills were taken into custody during the this period.
+
+◼️
+
+[Data](articles/dadacc30.json)
 
 ---
 
@@ -220,6 +344,26 @@ In its first public account of the October assault, published on Sunday, Hamas d
 
 ---
 
+### ”பேரினவாதக் கும்பலிடம் இருந்து நாட்டை விடுவிக்க வேண்டும்”
+
+*2024-01-22 07:13:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பேரினவாதக்-கும்பலிடம்-இருந்து-நாட்டை-விடுவிக்க-வேண்டும்/175-331932) · `ta`
+
+தற்போதுள்ள ஆட்சி முறையை மாற்ற வேண்டும் என்ற மக்களினதும், தேசிய மக்கள் சக்தி கட்சியினதும் கொள்கை இன்று ஒன்றாக மாறியுள்ளதால், இந்த ஆண்டில் புதிய அரசாங்கத்துக்கான மாற்றத்தை ஏற்படுத்த முடியும் என தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திஸாநாயக்க கண்டியில் தெரிவித்துள்ளார்.
+
+அனைத்து வகையிலும் மூழ்கிக்கொண்டிருக்கும் நாட்டை காப்பாற்ற புதிய மறுமலர்ச்சி யுகம் காலத்தின் கட்டாயத் தேவை எனவும் அவர் வலியுறுத்தியுள்ளார்.
+
+மல்வத்து மற்றும் அஸ்கிரி மகாநாயக்கரின் ஆசி பெற்ற பின்னர் ஊடகங்களுக்கு கருத்து தெரிவிக்கும்போதே  அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+தற்போதுள்ள ஆட்சி முறையை மாற்றுவது வெறும் அரசியல் வேலைத்திட்டம் அல்ல, தேசிய செயற்பாடு. புதிய மாற்றத்துக்காக மக்கள் தற்போது முன்வருகின்றனர்.
+
+பொருளாதார ரீதியிலும் அனைத்து துறைகளிலும் நாட்டின் வீழ்ச்சிக்கு காரணமானவர்கள் இன்று இருந்த இடத்தில் இருந்து ஒரு படி முன்னேறி நாட்டை கட்டியெழுப்பியுள்ளதாக கூறப்படுவது நகைப்புக்குரிய விடயமாகும்.
+
+...
+
+[Data](articles/bdc9b787.json)
+
+---
+
 ### Carrot, beans and leeks can be supplied at Rs. 300 to Rs. 350 a kilo, if imported: Minister
 
 *2024-01-22 07:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Carrot-beans-and-leeks-can-be-supplied-at-Rs-300-to-Rs-350-a-kilo-if-imported-Minister/155-275463) · `en`
@@ -257,6 +401,24 @@ The Civil Assistance of Civil Assistance has also been planned in front of Civil
 [Data](articles/998af7a5.json)
 
 [Extended Data](ext_articles/998af7a5.ext.json)
+
+---
+
+### வைத்தியரைத் தாக்கிய ஊழியர்கள் மூவர் கைது
+
+*2024-01-22 07:06:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியரைத்-தாக்கிய-ஊழியர்கள்-மூவர்-கைது/175-331931) · `ta`
+
+கராப்பிட்டிய போதனா வைத்தியசாலையின் சத்திரசிகிச்சை நிபுணர் கிரிஷாந்த பெரேராவை தாக்கியதாக கூறப்படும் குற்றச்சாட்டில் ஒரு பெண் உட்பட மூன்று வைத்தியசாலை ஊழியர்களை காலி பொலிஸார் கைது செய்துள்ளனர்.
+
+ஜனவரி 17ஆம் திகதி காலி பொலிஸில் வைத்தியர் செய்த முறைப்பாட்டின் அடிப்படையில் மேற்கொள்ளப்பட்ட விசாரணைகளின் போதே இவர்கள் கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+அதன்படி, 52 வயதுடைய பெண் சுகாதார உதவியாளர் ஒருவரும், 45 மற்றும் 43 வயதுடைய உதவியாளர்கள் இருவருமே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+கடந்த புதன்கிழமை வைத்தியசாலை வளாகத்தில் ஏற்பட்ட சர்ச்சைக்குரிய சூழ்நிலையின் போது பெண் வைத்தியசாலை ஊழியர் ஒருவரை தாக்கியதாக கூறப்படும் Onco சத்திரசிகிச்சை நிபுணர் காலி நீதவான் நீதிமன்றினால் கைது செய்யப்பட்டு ஜனவரி 22 ஆம் திகதி வரை விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/86e4ff74.json)
 
 ---
 
@@ -321,6 +483,52 @@ The sea areas off the coast extending from Colombo to Mannar and Galle to Pottuv
 [Data](articles/198518dc.json)
 
 [Extended Data](ext_articles/198518dc.ext.json)
+
+---
+
+### பாலஸ்தீன வெளிவிவகார அமைச்சரை சந்தித்தார் ஜனாதிபதி
+
+*2024-01-22 03:59:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாலஸ்தீன-வெளிவிவகார-அமைச்சரை-சந்தித்தார்-ஜனாதிபதி/175-331929) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவிற்கும் பாலஸ்தீன வெளிவிவகார மற்றும் புலம்பெயர்ந்தோர் தொடர்பான அமைச்சர் ரியாட் மல்கிக்கும் இடையிலான சந்திப்பொன்று நேற்று இடம்பெற்றுள்ளது.
+
+உகண்டாவின் கம்பாலா நகரில் நேற்று ஆரம்பமான 'ஜி 77 மற்றும் சீனா' 3 ஆவது தென் துருவ மாநாட்டுடன் இணைந்ததாக இந்தச் சந்திப்பு நடைபெற்றுள்ளது.
+
+இந்தச் சந்திப்பின் போது, காஸா பகுதியில் ஏற்பட்டுள்ள நெருக்கடி தொடர்பில் விசேட கவனம் செலுத்தப்பட்டுள்ளது. இஸ்ரேல் - ஹமாஸ் மோதலில் பாலஸ்தீனத்தில் உள்ள அப்பாவி மக்கள் பாதிக்கப்படுவதை ஏற்க முடியாது என்பதை தொடர்ந்து வலியுறுத்துவதாக ஜனாதிபதி ரணில் விக்கிரமசிங்க குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/f8fb01e7.json)
+
+---
+
+### யானை தாக்கி வயோதிபர் ஒருவர் உயிரிழப்பு
+
+*2024-01-22 03:54:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யானை-தாக்கி-வயோதிபர்-ஒருவர்-உயிரிழப்பு/175-331928) · `ta`
+
+திருகோணமலை மாவட்டத்தில் கிண்ணியா - வான் எல பொலிஸ் பிரிவுக்குட்பட்ட செம்பி மொட்டை காட்டுப் பகுதியில் யானை தாக்கி வயோதிபர் ஒருவர் உயிரிழந்துள்ளார் என்று பொலிஸார் தெரிவித்தனர்.
+
+குறித்த வயோதிபர் செம்பி மொட்டையில் அரசுக்குச் சொந்தமான காட்டுப் பகுதியில் நேற்று மரம் வெட்டிக் கொண்டிருந்தபோது யானையின் தாக்குதலுக்கு இலக்காகிச் சாவடைந்துள்ளார்.
+
+ஆயிலியடி பகுதியைச் சேர்ந்த எம்.எஸ். முகமட் யாகூப் (வயது 68) என்ற நபரே உயிரிழந்துள்ளதுடன், சம்பவம் தொடர்பில் வான்எல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/0291bb06.json)
+
+---
+
+### கால்வாயில் இருந்து முதியவரின் சடலம் மீட்பு
+
+*2024-01-22 03:46:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கால்வாயில்-இருந்து-முதியவரின்-சடலம்-மீட்பு/175-331927) · `ta`
+
+ஆனமடுவ நகரிலுள்ள கால்வாயிலில் சடலமொன்று காணப்படுவதாக பிரதேச மக்கள் பொலிஸாருக்கு வழங்கிய தகவலையடுத்து பொலிஸாரால் சடலம் மீட்கப்பட்டுள்ளது.
+
+வங்கியொன்றில் பாதுகாப்பு உத்தியோகத்தராக கடமையாற்றி ஓய்வு பெற்ற 64 வயதான முதியவரொருவரின் சடலமே இவ்வாறு மீட்கப்பட்டுள்ளார் என பொலிஸார் தெரிவித்தனர். (a)
+
+◼️
+
+[Data](articles/bf07cd2f.json)
 
 ---
 
@@ -1068,6 +1276,24 @@ That is why they cannot be so easily weight on the presidential election.
 
 ---
 
+### CCTV දඩ කොළ රියදුරුට ලබා  නොදී හිමිකරුට දෙනවාට විරුද්ධයි
+
+*2024-01-21 20:47:05* · [`adalk`](https://www.ada.lk/breaking_news/CCTV-දඩ-කොළ-රියදුරුට-ලබා--නොදී-හිමිකරුට-දෙනවාට-විරුද්ධයි/11-407654) · `si`
+
+ආරක්ෂිත කැමරාවලින් හඳුනාගන්නා නීති උල්ලංඝනය කරන රියදුරන්ට අදාළ දඩ කොළය වාහන හිමිකරුවන්ට ලබා දීමට ගෙන තිබෙන තීරණයට දැඩි ලෙස විරෝධය දක්වන බව ලංකා පෞද්ගලික බස් හිමියන්ගේ සංගමය සඳහන් කරයි.
+
+මේ නිසා අදාළදඩ කොළය, වරද සිදුකරන රියදුරුටම ලබා දෙන ක්‍රමවේදයක් සකස් කරන ලෙසට අද (22දා) මහජන ආරක්ෂක අමාත්‍යවරයාගෙන් හා වැඩබලන පොලිස්පතිවරයාගෙන් ලිඛිතව ඉල්ලා සිටීමට කටයුතු කරනබව එම සංගමයේ සභාපති ගැමුණු විජේරත්න මහතා සඳහන් කළේය.
+
+කොළඹ නගරයේ සවිකර තිබෙන ආරක්ෂිත කැමරාවලින් නීති උල්ලංඝනය කරන රියදුරන් හඳුනාගෙන අද සිට ඊට අදාළ දඩ කොළ වාහන හිමියන්ට ලබා දීමට තීරණය කර තිබෙන බවත් බස් රථ ගතහොත් අදාළ ධාවන කටයුතු  සිදුකරනු ලබන්නේ රියදුරන් විසින් බවද පවසා සිටියේය.
+
+බොහෝ රියදුරන් දෛනික පදනම මත සේවය කරන පිරිස් බවත් මේ නිසා වාහන හිමිකරුට ලැබෙන දඩ කොළය වාහන හිමිකරු විසින්ම ගෙවා දැමීමට සිදුවන බවත් මේ නිසා නිසි ක්‍රමවේදයක් සකස් නොකර බස් හිමියන්ට දඩ කොළ ලබා දීමට කටයුතු කළහොත් බස් රථ සේවයෙන් ඉවත් කර ගන්නා බවද කියා සිටියේය.
+
+...
+
+[Data](articles/985f00b1.json)
+
+---
+
 ### Sri Lanka issues ’All Country Passports’ to resettled nationals in Tamil Nadu
 
 *2024-01-21 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-issues-All-Country-Passports-to-resettled-nationals-in-Tamil-Nadu/108-275450) · `en`
@@ -1735,291 +1961,5 @@ Therefore, I am informed that I will give my full support to the leader of the d
 [Data](articles/df5b5d2e.json)
 
 [Extended Data](ext_articles/df5b5d2e.ext.json)
-
----
-
-### Sri Lanka records 03 dengue deaths in past 20 days
-
-*2024-01-21 16:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/sri-lanka-records-03-dengue-deaths-in-past-20-days/) · `en`
-
-COLOMBO (News 1st); The National Dengue Control Unit says that three dengue deaths were reported in the past 20 days of the year.
-
-According to the units official reports, the number of dengue cases reported daily has increased to 347.
-
-The total number of dengue patients identified so far this year is 7,299.
-
-The highest number of patients are reported from the Western Province. That number stands at 2401.
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-◼️
-
-[Data](articles/e5555304.json)
-
-[Extended Data](ext_articles/e5555304.ext.json)
-
----
-
-### Supreme Court for the second time for Rajapaksa
-
-*2024-01-21 16:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/174445) · `ta`
-
-The fundamental human rights violation petition filed against seven people was responsible for the country's economic downturn and crisis.. On November 14 last year, the Supreme Court declared that all seven were responsible for the economic downturn.
-
-Gotabhaya, who was chased away by the people without completing his tenure, said, "I have made some decisions for the benefit of the people and the nation.". However, when the Supreme Court's verdict on the issue of Duminda Silva on the 17th, the fact that the Gotabhaya executive has exceeded the constitution.. Gotabhaya also justified himself by a promise that he made this decision in view of the welfare of the nation, even the public amnesty to Duminda.. Today, his presidency has been criticized by the nation.
-
-...
-
-[Data](articles/3e46b98f.json)
-
-[Extended Data](ext_articles/3e46b98f.ext.json)
-
----
-
-### A plane crashes
-
-*2024-01-21 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192397) · `si`
-
-Foreign media has reported that an aircraft collapsed in the northeast Afghanistan, the foreign media reports.
-
-Foreign media reports that there were six passengers in the crash.
-
-The information is yet to be revealed about the place where the plane has collapsed and relief teams have been directed to the immediate areas.
-
-Russia has issued a statement and said that a light plane from India has been reported from India.
-
-Meanwhile, the Indian government has rejected the reports even before the airplane was a plane in India.
-
-◼️
-
-[Data](articles/deba17f2.json)
-
-[Extended Data](ext_articles/deba17f2.ext.json)
-
----
-
-### 100 crores to compensation for drought cultivation
-
-*2024-01-21 15:49:56* · [`adalk`](https://www.ada.lk/breaking_news/නියඟයෙන්-වූ-වගා-හානි-වෙනුවෙන්-වන්දි-ගෙවීමට-කෝටි-100ක්/11-407646) · `si`
-
-Minister of Agriculture Mahinda Amaraweera says that the government has allocated Rs.
-
-The remaining compensation is also paid expeditiously by the Department of Agrarian Development.
-
-The drought caused by the year of 2023 was damaged by 65,000 acres of paddy cultivated.
-
-Thimber sixty-six million rupees for the crop damage in the Kurunegala District is Rs.
-
-◼️
-
-[Data](articles/8512ec8a.json)
-
-[Extended Data](ext_articles/8512ec8a.ext.json)
-
----
-
-### South Indian Indiconers come from Hatton
-
-*2024-01-21 15:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192396) · `si`
-
-Several popular performers in South Indian cinema had arrived at Hatton this morning.
-
-To attend the National Thaipongal Day Ceremony held at the Hatton Dunbar Stadium.
-
-The event was attended by Aishwarya Rajesh, Aishaya Kadatha, Methodatha and Munaki.
-
-Minister Vidura Wickramanayake and Jeevan Thondaman were held under the patronage.
-
-At the National Thaipongal Day Ceremony, the Tamil people have been preparing 1008 milk in fresh guests and has been produced in fresh guests, and several Cultural and Hindu cultures have been submitted.
-
-◼️
-
-[Data](articles/6d33b836.json)
-
-[Extended Data](ext_articles/6d33b836.ext.json)
-
----
-
-### MA Sumanthiran will continue to work with C. Yogeswaran for every inch of nationality - the new leader of the TNA
-
-*2024-01-21 15:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174458) · `ta`
-
-In the history of the Sri Lanka Tamil National Party, we have posted a major history in history through a democratic dialogue and a democratic process.. MA Sumanthiran C. Yogeswaran Jaya, who contested with me, will continue to act on the party's actions and continue to act with the responsibility and responsibility of the Tamil National Party for every inch of national existence for the rights of our people.
-
-Elections to elect a new leader of the Sri Lankan Tamil state party were held in Trincomalee today (21). Sivagnanam Sridharan, who won by 47 additional votes, said this to the media.
-
-First of all, my thanks to the Lord of Nature, who was responsible for the choice of me, for the sake of the vote of the most valuable votes of those members of the General Assembly who worked tirelessly at home and abroad.
-
-...
-
-[Data](articles/ebdf8378.json)
-
-[Extended Data](ext_articles/ebdf8378.ext.json)
-
----
-
-### Regional politics and data protection
-
-*2024-01-21 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174453) · `ta`
-
-Biological data on individuals are always valuable. They can also be used to prevent crime, not only to identify criminals and construct projects.
-
-◼️
-
-[Data](articles/3d73feb0.json)
-
-[Extended Data](ext_articles/3d73feb0.ext.json)
-
----
-
-### Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-*2024-01-21 15:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/investigative-report-over-controversial-human-immunoglobulin-purchase-handed-to-attorney-general/) · `en`
-
-COLOMBO (News 1st); The completed report of the human immunoglobulin drug transaction investigation has been sent to the Attorney General.
-
-The Criminal Investigation Department (CID) will follow the Attorney General's instructions for future steps.
-
-The CID will re-record the statement of former Health Minister Keheliya Rambukwella regarding the drug transaction once again as well.
-
-This follows a review of documents from several officials, including an additional Health Ministry secretary.
-
-The CID emphasizes that these activities are being conducted in collaboration with the Attorney General's Department.
-
-Former Health Secretary Janaka Sri Chandragupta and others remain arrested and remanded in connection with the drug transaction.
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-◼️
-
-[Data](articles/be3eb997.json)
-
-[Extended Data](ext_articles/be3eb997.ext.json)
-
----
-
-### Controversial monk ‘Vishwa Buddha’ remanded
-
-*2024-01-21 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96600/controversial-monk-vishwa-buddha-remanded) · `en`
-
-The saffron-robbed monk claiming to be ‘Vishwa Buddha’ has been ordered to be remanded in custody until January 26, after being produced before the Gangodawila Magistrate’s Court in Nugegoda.
-
-The suspect, who was out on bail, was re-arrested this morning (21) by the Criminal Investigations Department (CID).
-
-Earlier, the monk was arrested on December 12 at a private establishment in Kalagedihena by the cybercrimes unit of the Criminal Investigation Department (CID), acting on a complaint received against the self-styled monk who was residing in Ratnapura.
-
-According to police, the saffron-robbed monk had allegedly issued statements demeaning Buddhism.
-
-◼️
-
-[Data](articles/3e34ef22.json)
-
-[Extended Data](ext_articles/3e34ef22.ext.json)
-
----
-
-### Universal Buddha further remanded
-
-*2024-01-21 15:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192395) · `si`
-
-The Buddhist monk he appeared in the universal Buddha by the Gangodawila Magistrate's Court.
-
-The Criminal Investigations Department was arrested by the CID and produced before the Court.
-
-The Criminal Investigations Department has been arrested in Kalgalaiiiiiiiiiiiiiii.
-
-Previously, the universal Buddha known as the universal people of the social media was issued before the controversial statements of Buddhism and the controversial behavior in the social media.
-
-However, he ordered to be used as usual in spite of the reproof of the warnings.
-
-◼️
-
-[Data](articles/c753e77f.json)
-
-[Extended Data](ext_articles/c753e77f.ext.json)
-
----
-
-### The boy's death by the Maldives president's decision
-
-*2024-01-21 15:24:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மாலத்தீவு-ஜனாதிபதி-முடிவால்-சிறுவன்-மரணம்/50-331899) · `ta`
-
-Mohammed Marsu has been elected as the new president of Maldives. As he has a stand against India, there is a rift in the relationship between the two countries.
-
-In the meantime, President Mohammed Muzhu refused permission to use the Indian flight has shocked the death of a boy in Maldives.
-
-A 14 -year -old boy from the Maldivian Kabi Alib Wiltings has tied the brain in the brain. The boy, who was receiving treatment, suffered an epilepsy last Thursday (18).
-
-Subsequently, doctors advised the boy to take immediate treatment to the hospital in the capital Mali.. Thus, the authorities have been requested to use the drone -air aircraft provided by India to take the boy. The request has been made because President Mohammed should approve the aircraft. However, it has been reported that the president has not approved the use of the aircraft provided by India.
-
-Later, after 16 hours the boy was taken to Mali by plane. The boy died without treatment. The incident has shocked.
-
-...
-
-[Data](articles/f6e90b9e.json)
-
-[Extended Data](ext_articles/f6e90b9e.ext.json)
-
----
-
-### Member of the TNA is the new leader of the TNA
-
-*2024-01-21 15:12:21* · [`adalk`](https://www.ada.lk/breaking_news/දෙමළ-ජාතික-සන්ධානයේ-නව-නායකයා-ලෙස-මන්ත්‍රී-ශ්‍රී-ධරන්-පත්වෙයි/11-407645) · `si`
-
-Jaffna District Parliamentarian S. S ෝාප parliamentarian won the majority of 47 votes.
-
-The election was held at the Trincomalee Town Hall. Members of Parliament, MPs, MP R. Krigirun, S. Ryogirun, for the leadership, proposals MP R. Krigan.
-
-327 central committee members have voted and 321 were voted.. According to Mr. Sri Danaran obtained 184 votes while Sumanthiran was able to obtain 137 votes.
-
-The new Leader has been selected on a decision taken by the Central Committee on the adverse health conditions of former leader of the Tamil National Alliance.
-
-◼️
-
-[Data](articles/4f68a343.json)
-
-[Extended Data](ext_articles/4f68a343.ext.json)
-
----
-
-### President addresses G77 team and China, 3rd South Convention
-
-*2024-01-21 15:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192394) · `si`
-
-President Ranil Wickremesinghe has commenced addressing the G77 team and China, the 3rd South Conference.
-
-G77 group and China, 3rd South Conference will be held in Kampala, Uganda.
-
-Addressing the convention, the President has shown the importance of China to cope with the G77 group to face the challenges of the South.
-
-The President has shown that principles such as harmony and cooperation of this group to provide a sustainable solution for those issues is important.
-
-◼️
-
-[Data](articles/f687905c.json)
-
-[Extended Data](ext_articles/f687905c.ext.json)
-
----
-
-### President Ranil addresses G77+China summit in Uganda
-
-*2024-01-21 14:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96599/president-ranil-addresses-g77china-summit-in-uganda-) · `en`
-
-President Ranil Wickremesinghe is currently addressing the Group of 77 and China (G77+China) Third South Summit in Kampala, Uganda, the President’s Media Division (PMD) reported.
-
-In his statement at the summit in Kampala, President Ranil Wickremesinghe stressed establishing unity within the G77 and China to address challenges facing the Global South.
-
-Emphasizing the group’s 60th anniversary, he also highlighted principles like unity and cooperation as the basis for tackling these issues sustainably, according to the PMD.
-
-The Sri Lankan President is in Uganda to attend the XIX Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the Group of 77 (G77) and China Third South Summit.
-
-The theme of the G77 and China Third South Summit is “Leaving No One Behind”. Member States of the G77 and China will discuss developmental challenges, and ways in which the Group can work towards achieving the Sustainable Development Goals.
-
-◼️
-
-[Data](articles/6953d3f0.json)
-
-[Extended Data](ext_articles/6953d3f0.ext.json)
 
 ---

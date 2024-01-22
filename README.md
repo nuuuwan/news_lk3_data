@@ -1,48 +1,68 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 06:59:02**
+As of **2024-01-22 07:23:50**
 
 ## Newspaper Stats
 
-*Scraped **1,667** Articles*
+*Scraped **1,679** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 38
 adaderanasinhalalk | 73
-islandlk | 97
 economynextcom | 104
+islandlk | 108
 newsfirstlk | 109
 dbsjeyarajcom | 121
 virakesarilk | 156
 dailyftlk | 159
 adalk | 180
 dailymirrorlk | 193
-tamilmirrorlk | 202
+tamilmirrorlk | 203
 adaderanalk | 206
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,449 (86.9%) of 1,667 articles have been extended.
+1,456 (86.7%) of 1,679 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### காற்று சுழற்சி: அடுத்த வாரம் முதல் மழை
+### ”VAT இல்லா கடைகள் அறிமுகம் செய்யப்படும்”
+
+*2024-01-22 06:57:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/VAT-இல்லா-கடைகள்-அறிமுகம்-செய்யப்படும்/175-331930) · `ta`
+
+பொருட்கள் மீதான பெறுமதி சேர் வரி (VAT) பற்றிய தவறான கருத்துக்கள் ஒழுங்குபடுத்தப்படாவிட்டால், நாடளாவிய ரீதியில் VAT இல்லா கடைகளை அறிமுகப்படுத்த அரசாங்கம் தேவையான நடவடிக்கைகளை எடுக்கும் என போக்குவரத்து அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+
+அனைத்து பொருட்களும் VAT வரிக்கு தகுதியானவை என பொதுமக்கள் மத்தியில் தவறான கருத்து நிலவுவதாகவும், அதுவே விலை உயர்வுக்கு காரணம் என்றும் அமைச்சர் கூறினார்.
+
+VAT இல்லா கடைகளை நிறுவுவதற்கு பொருத்தமான இடங்களை வீதி அபிவிருத்தி அதிகாரசபைக்கு (RDA) தெரிவு செய்வதற்கு இது தொடர்பான சாத்தியக்கூறு ஆய்வை மேற்கொள்ள ஏற்கனவே அறிவுறுத்தல் வழங்கப்பட்டுள்ளதாக அமைச்சர் மேலும் தெரிவித்தார்.
+
+அதனடிப்படையில், போட்டி ரீதியிலான வர்த்தகம் மற்றும் நியாயமான முறையில் ஈடுபடத் தயாராக உள்ளவர்களுக்காக VAT இல்லா பொருட்களான காய்கறிகள், அரிசி, குழந்தை பால் மாவு போன்றவற்றிற்காக நாடு முழுவதிலும் உள்ள கடைகளின் வலையமைப்பை ஏற்படுத்துவதற்குத் தேவையான நடவடிக்கைகளை எடுக்கத் திட்டமிடப்பட்டுள்ளதாக அமைச்சர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/22c151f0.json)
+
+---
+
+### Air Cycle: The first rain from next week
 
 *2024-01-22 03:42:49* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/காற்று-சுழற்சி-அடுத்த-வாரம்-முதல்-மழை/175-331926) · `ta`
 
-நாட்டின் அடுத்த வாரம் உருவாகும் காற்று சுழற்சி காரணமாக எதிர்வரும் 27ஆம் திகதி முதல் மட்டக்களப்பு, பொத்துவில், திருகோணமலை மாவட்டங்களின் சில பகுதிகளிலும் எதிர்வரும் 28 ஆம் திகதியளவில் முல்லைத்தீவு மாவட்டத்தின் சில பகுதிகளிலும் ஓரளவு மழை பெய்வதற்கான சாத்தியக்கூறுகள் உள்ளன என  வளிமண்டவியல் திணைக்களத்தின் அறிக்கையில் குறிப்பிடப்பட்டுள்ளது.
+The Department of Meteorology has stated that there is a possibility of some rainfall in the Batticaloa, Pottuvil and Trincomalee districts and some parts of the Mullaitivu district by the 28th of this month due to the air circulation of the country.
 
-அதேநேரம் யாழ்ப்பாணம், வவுனியா, மன்னார், கிளிநொச்சி மாவட்டங்களில் மழைக்கான சாத்திய கூறுகள் குறைவாகவே உள்ளன என திணைக்களம் தெரிவித்துள்ளது. (a)
+Meanwhile, the feases of rainfall in Jaffna, Vavuniya, Mannar and Kilinochchi districts are low, the department said that the feases of rainfall are low, the department said that the department said.. (A)
 
 ◼️
 
 [Data](articles/de3b29f8.json)
+
+[Extended Data](ext_articles/de3b29f8.ext.json)
 
 ---
 
@@ -196,6 +216,48 @@ The synergy between Kapruka and Shiro Hana aims to enrich the shopping experienc
 
 ---
 
+### VAT could be reduced to 15% if VAT registered persons and businesses expand: Minister
+
+*2024-01-22 00:28:00* · [`islandlk`](http://island.lk/vat-could-be-reduced-to-15-if-vat-registered-persons-and-businesses-expand-minister/) · `en`
+
+Value Added Tax (VAT) can be reduced to 15% to equalize with its previous level if all businesses in Sri Lanka register for VAT, Bandula Gunawardena, the Minister of Transport, Highways, and Mass Media said on Saturday.
+
+He said so while visiting a food factory in Kolonnawa where fruit dices and floats are produced for the wider cake industry.
+
+“Young people in this country have opportunities to stand on their feet without engaging in hateful rhetoric about the society if they reimagine and rekindle the entrepreneurial spirit within them and start their own businesses. We have the opportunity to produce goods and deliver services to countries such as India, China, Japan and South Korea. They are huge economies and we can access those markets with tax-free benefits. When such a manufacturing and business culture is embedded in our society, there would be enough liquidity to ease the burden on the vulnerable sections of the society.
+
+...
+
+[Data](articles/c36394bf.json)
+
+---
+
+### People’s Bank, one of the most awarded Sri Lankan banks in 2023
+
+*2024-01-22 00:27:00* · [`islandlk`](http://island.lk/peoples-bank-one-of-the-most-awarded-sri-lankan-banks-in-2023/) · `en`
+
+Growing from strength to strength with each passing year, People’s Bank was bestowed with a multitude of international and local business excellence awards in the year 2023. The recognition is a testament to the Bank’s contribution to financially uplift its customers and to power economic development of the country throughout the past 62 years. Today, the Bank has a customer base of over 14.7 million and consolidated assets of over Rs.3 trillion, with a strong digital footprint and 747 outlets across the country – providing a full range of banking services to individuals and SMEs.
+
+...
+
+[Data](articles/1ec99555.json)
+
+---
+
+### ‘Union Bank Elite Circle’ redefines personalised banking
+
+*2024-01-22 00:27:00* · [`islandlk`](http://island.lk/union-bank-elite-circle-redefines-personalised-banking/) · `en`
+
+Union Bank recently relaunched its private banking proposition, ‘Union Bank Elite Circle,’ with a selection of new features tailored to its customers’ specific needs. The most recent transformation enhances its bespoke service and tailored financial solutions, providing customers with a world of privileges and luxuries for an exclusive banking experience. The Bank recently launched a campaign theme “The Finer Things in Life Should Extend to Your Banking,” with the goal of raising awareness about the newly enhanced product.
+
+A team of dedicated relationship managers ensures a seamless banking experience with a wide range of financial solutions and services ranging from personalised banking and wealth management to expert advisory, reinforcing the hallmarks of personalised service. The exclusive Union Bank Elite Circle Centre, located in the heart of Colombo and the dedicated exclusive spaces across the branch network provides maximum convenience to its members.
+
+...
+
+[Data](articles/9931210f.json)
+
+---
+
 ### The Status of Tamils in Ceylon, Waxed and Waned in the Pre and Post-Independence Eras Respectively
 
 *2024-01-22 00:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Status-of-Tamils-in-Ceylon-Waxed-and-Waned-in-the-Pre-and-Post-Independence-Eras-Respectively/172-275447) · `en`
@@ -207,6 +269,50 @@ As far as the Tamils are concerned in Ceylon/Sri Lanka, their situation during t
 [Data](articles/2bdb03b1.json)
 
 [Extended Data](ext_articles/2bdb03b1.ext.json)
+
+---
+
+### Why becoming Sri Lanka and Australia Chamber of Commerce member is a profitable idea
+
+*2024-01-22 00:03:00* · [`islandlk`](http://island.lk/why-becoming-sri-lanka-and-australia-chamber-of-commerce-member-is-a-profitable-idea/) · `en`
+
+The following are excerpts from an interview with Kalum De Silva, President of the Sri Lanka and Australia Chamber of Commerce (SLACC). The Chamber’s vision is to be the leading platform for fostering trade and investment between Sri Lanka and Australia with a view to contributing to the economic and social development of both nations. If you are looking for a platform that can help you grow your business, expand your network and access new opportunities in the dynamic markets of Sri Lanka and Australia, here is an interview article that gives you an exclusive scoop.
+
+Q. Why does SLACC think deepening Australia-Sri Lanka ties is vital as our nations drive ahead in a changing global environment?
+
+...
+
+[Data](articles/42497f0d.json)
+
+---
+
+### Sanasa holds annual Nelum Mal Pooja in Anuradhapura
+
+*2024-01-22 00:03:00* · [`islandlk`](http://island.lk/sanasa-holds-annual-nelum-mal-pooja-in-anuradhapura/) · `en`
+
+The annual Buddhist event of offering lotus flowers (Nelum Pooja) at the premises of Ruwanweli Maha Seya and Jaya Sri Maha Bodhi in Anuradhapura organised by the Sanasa Movement was held recently for the 24th time. This year’s event, held to bestow blessings on all Sri Lankans, was carried forth by Sanasa societies, led by the Bodhi Rajapura Sanasa Society in Puttalam.
+
+This year’s event, which commenced with the offering of lotus flowers to Jaya Sri Maha Bodhi on 6 January and concluded with the offering of milk-based food (Kiri Ahara Pooja) for Ruwanweli Maha Seya and the almsgiving at Abhayagiriya in the afternoon on 7 January, was held under the patronage of the Leader of the Sanasa Movement, Dr. P. A. Kiriwandeniya. Thousands of devotees from all parts of the island representing Sanasa societies took part in it.
+
+Why becoming Sri Lanka and Australia Chamber of Commerce member is a profitable idea
+
+Sanasa unveils action plan to develop 5,000 villages through 1,250 Sanasa societies
+
+...
+
+[Data](articles/49bce5fe.json)
+
+---
+
+### Marine product and service provider recognised at National Industry Excellence Awards
+
+*2024-01-22 00:02:00* · [`islandlk`](http://island.lk/marine-product-and-service-provider-recognised-at-national-industry-excellence-awards/) · `en`
+
+Saram Auto Industries, a leading marine product and service provider in the country, claimed the Bronze Award in the metal casting category (small scale) at National Industry Excellence Awards 2023 organised by the Industrial Development Board (IDB). The award was received by the Owner of Saram Auto Industries Ranjith Saram at the award ceremony held at Nelum Pokuna Mahinda Rajapaksa Theatre in Colombo under the patronage of President Ranil Wickremesinghe.
+
+...
+
+[Data](articles/b85c8097.json)
 
 ---
 
@@ -225,6 +331,18 @@ So while we do have a certain amount of ‘money in the bank’ so-to-say, it is
 [Data](articles/ce450341.json)
 
 [Extended Data](ext_articles/ce450341.ext.json)
+
+---
+
+### Huawei OptiX OSN 9800 series once again ranks as leader in Core and Metro WDM by GlobalData
+
+*2024-01-22 00:01:00* · [`islandlk`](http://island.lk/huawei-optix-osn-9800-series-once-again-ranks-as-leader-in-core-and-metro-wdm-by-globaldata/) · `en`
+
+GlobalData, a global authoritative consulting firm, has released its latest Metro & Core Packet-Optical Transport/Platform: Competitive Landscape Assessment. In the report, Huawei OptiX OSN 9800 series features leading architecture, ultra-large capacity, excellent transmission performance, and mature commercial use cases. All this has helped Huawei rank as “Leader” with the highest scores in core and metro WDM by GlobalData.
+
+...
+
+[Data](articles/00732313.json)
 
 ---
 
@@ -1875,187 +1993,5 @@ The Ada Derana recalls that such a valuable authorities should be brought to pre
 [Data](articles/7de6e3bd.json)
 
 [Extended Data](ext_articles/7de6e3bd.ext.json)
-
----
-
-### Passenger plane crashes in northeastern Afghan mountains
-
-*2024-01-21 13:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96596/passenger-plane-crashes-in-northeastern-afghan-mountains) · `en`
-
-A plane crashed in mountainous northeastern Afghanistan, a provincial government official said Sunday.
-
-The aircraft crashed in Badakhshan province, which borders China, Tajikistan and Pakistan but the exact site of the accident was unknown.
-
-“The plane has crashed but the location is not known yet. We have sent teams but they have not arrived yet,” Zabihullah Amiri, head of the provincial information department, told AFP, without giving further details.
-
-The mighty Hindu Kush mountain range cuts through the province, which is home to Afghanistan’s highest mountain, Mount Noshaq at 7,492 metres (24,580 feet) high.
-
-◼️
-
-[Data](articles/dec7e644.json)
-
-[Extended Data](ext_articles/dec7e644.ext.json)
-
----
-
-### Global leaders are commended for the President's program
-
-*2024-01-21 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192391) · `si`
-
-External Affairs Minister Ali Sabri says the global leaders of the global leaders who are carrying out the economy of Sri Lanka to build the economy in Sri Lanka.
-
-The Minister made this statement regarding the President's official visit to Uganda.
-
-Meanwhile, President Ranil Wickremesinghe is scheduled to be addressed today (21) at Uganda's Kampala, the 3rd South Conference.
-
-President Ranil Wickremesinghe and Tanzania was held between the President Ranil Wickremesinghe and Tanzania Prime Minister Kasim Mage Alva.
-
-Prime Minister Prime Minister Prime Minister Philip Davis also met the President and held bilateral discussions.
-
-Meanwhile, External Affairs Minister Ali Sabri says the President's official visit to the President's official visit to the President to strengthen relations with many African countries.
-
-Meanwhile, President Ranil Wickremesinghe is scheduled to be addressed today, including G77 and China.
-
-...
-
-[Data](articles/ccbe6ca9.json)
-
-[Extended Data](ext_articles/ccbe6ca9.ext.json)
-
----
-
-### Notice on a crisis faced by the workforce
-
-*2024-01-21 13:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192390) · `si`
-
-Acting IGP says that most of the labor force in Sri Lanka is addicted to drugs.
-
-He was speaking at a program held in Maharagama to announce the community of drug prevention.
-
-The Colombo Central Central Division was held yesterday (20) at the Maligawatta PD Sirisena Stadium yesterday as the fifth stage of the Community Police Station.
-
-That is the chairman of the Hon. Tiran Alles and Acting Inspiry Tennakoon.
-
-2,100 community police officers representing eight police divisions were participated in the program.
-
-◼️
-
-[Data](articles/15675cb7.json)
-
-[Extended Data](ext_articles/15675cb7.ext.json)
-
----
-
-### Another 987 suspects arrested during operation ‘Yukthiya’
-
-*2024-01-21 13:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/another-987-suspects-arrested-during-operation-yukthiya/) · `en`
-
-COLOMBO (News 1st); 987 suspects have been arrested during the 24 hours that ended at 12.30 on Sunday (21) morning, under operation 'Yukthiya', which was carried out across the island.
-
-Police said 663 suspects related to drug offenses and 324 suspects who were on the list directed to the crimes divisions were among the arrested group.
-
-Drugs including 270 grams of heroin, 140 grams of ICE and 18kg of cannabis were seized during the operation.
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-◼️
-
-[Data](articles/56412894.json)
-
-[Extended Data](ext_articles/56412894.ext.json)
-
----
-
-### The shooting of the Thelejaja Village was a mistake
-
-*2024-01-21 13:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192389) · `si`
-
-Police investigations have revealed that the criminals target was not the victim of the criminals last night (20).
-
-Police Media Spokesperson SSP SSP Nihal Talduuwa said that the shooting was a 22 year old youth.
-
-He said he had come to the telephone relocation of the shooting and the aim was owned by the criminals, "Nihal Talduuwa said.
-
-At a mobile phone accessory at the Theljjawila juncture of the Matara-Maljjawila police division, a person was targeting at around 8.0 pm yesterday (20).
-
-Two people who came on a motorcycle were shot.
-
-One person who came on the motorcycle has entered the telephone shop outlet and shooting.
-
-Prior to the murderers, the telephone relocation had also been asked to obtain photocopies, and the owner has said that there is no support.
-
-Accordingly, the suspects have come back later and shooting.
-
-At the time of shooting, the owner of the telephone release was staying outside, and in the outlet, another young man, a friend of owner.
-
-...
-
-[Data](articles/dfc3072d.json)
-
-[Extended Data](ext_articles/dfc3072d.ext.json)
-
----
-
-### Group of doctors protest opposite Karapitiya Teaching Hospital
-
-*2024-01-21 12:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/group-of-doctors-protest-opposite-karapitiya-teaching-hospital/) · `en`
-
-COLOMBO (News 1st); A group of doctors of the Karapitiya Teaching Hospital and area residents launched a protest on Sunday (21) morning, opposite the Karapitiya Teaching Hospital.
-
-News 1st correspondent said the protest was held to demand the release of the Specialist Doctor who was arrested and remanded on charges of assaulting two minor staff members.
-
-The doctor was charged with allegedly assaulting the relevant employee after a dispute regarding a strike held on the 16th of January escalated.
-
-Police also arrested two hospital workers on Saturday (20) night on suspicion of assaulting the relevant doctor.
-
-They will be produced before the Galle Magistrate on Sunday (21).
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-◼️
-
-[Data](articles/d19daa25.json)
-
-[Extended Data](ext_articles/d19daa25.ext.json)
-
----
-
-### President Wickremesinghe holds meeting with the President of Uganda
-
-*2024-01-21 12:57:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/21/president-wickremesinghe-holds-meeting-with-the-president-of-uganda/) · `en`
-
-During his official visit to Uganda, President Ranil Wickremesinghe engaged in a formal meeting with HE Yoweri Museveni, the President of the Republic of Uganda, on Saturday (20) afternoon.
-
-President Museveni warmly welcomed Ranil Wickremesinghe, and following a friendly exchange, bilateral discussions commenced.
-
-During the meeting, President Yoweri Museveni expressed his joy at President Ranil Wickremesinghe’s acceptance of the invitation for the official visit and lauded his significant role in revitalizing Sri Lanka’s economy. President Museveni commended the nation for its achievements in this regard.
-
-The leaders delved into discussions about Sri Lanka’s new economic program, with President Ranil Wickremesinghe highlighting the positive economic trajectory since entering into an agreement with the International Monetary Fund. He emphasized the anticipated growth in 2024.
-
-...
-
-[Data](articles/7fe7a2c5.json)
-
-[Extended Data](ext_articles/7fe7a2c5.ext.json)
-
----
-
-### Special circular to schools
-
-*2024-01-21 12:55:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/பாடசாலைகளுக்கு-விசேட-சுற்றறிக்கை/76-331889) · `ta`
-
-A special circular has been issued by the Director of Education of the Central Province, Menaka Hera, that only seven events will be limited to all schools in the Central Province.
-
-The circular has been issued to schools and national schools under the Central Provincial Council, considering the complaints received by some schools to organize various events and make money from their parents.
-
-According to the circular, three ceremonies in the first installment and four of the second installments have been allowed to be held in the second installment and that any additional ceremony should be obtained from the Provincial Director of Education.
-
-In the first installment, the newcomer, the Independence Ceremony, the Athletics Competition between the Homes, the second and the third installments will be allowed to hold educational tourism, art and annual gifts.
-
-...
-
-[Data](articles/f79fbbb2.json)
-
-[Extended Data](ext_articles/f79fbbb2.ext.json)
 
 ---

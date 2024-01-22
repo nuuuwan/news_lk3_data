@@ -1,64 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 17:02:25**
+As of **2024-01-22 17:17:07**
 
 ## Newspaper Stats
 
-*Scraped **1,816** Articles*
+*Scraped **1,822** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
-bbccomsinhala | 40
+bbccomsinhala | 41
 adaderanasinhalalk | 98
-islandlk | 108
+islandlk | 110
 economynextcom | 113
 newsfirstlk | 114
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 181
+virakesarilk | 183
 adalk | 191
 dailymirrorlk | 214
 adaderanalk | 224
-tamilmirrorlk | 224
+tamilmirrorlk | 225
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,709 (94.1%) of 1,816 articles have been extended.
+1,713 (94.0%) of 1,822 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### අපේ චමරිට ICCයෙන් සුපිරිම තැනක්
+### Our Chamari is a perfect place from ICC
 
 *2024-01-22 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192436) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් 2023 වසරේ විස්සයි විස්ස පිටියේ හොඳම දක්ෂතා දැක්වූ ක්‍රිකට් ක්‍රීඩිකාවන් ඇතුළත් කණ්ඩායම නම්කර තිබේ.
+The International Cricket Council, the team, has been named cricketers of Twenty Twenty20.
 
-එම කණ්ඩායමේ නායිකාව ලෙස ශ්‍රී ලංකා කණ්ඩායමේ නායිකාව වන සුපිරි ක්‍රීඩිකා චමරි අතපත්ත්තු නම්කර තිබීම විශේෂත්වයකි.
+The leader of the team is noteworthy, the leader of the Sri Lankan team to the captain of the Sri Lankan team.
 
 ◼️
 
 [Data](articles/6dc101c5.json)
 
+[Extended Data](ext_articles/6dc101c5.ext.json)
+
 ---
 
-### බුකිය කැලඹුණු වැල්ලවත්තේ සිද්ධිය
+### மேற்குலக நாடுகளிடமிருந்து  அழுத்தங்களை எதிர்கொள்கின்ற போதிலும் உக்ரைன் விவகாரத்தில் இலங்கை நடுநிலைமையை பேணவேண்டும்-ரஸ்ய தூதுவர்
+
+*2024-01-22 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174539) · `ta`
+
+மேற்குலக நாடுகளிடமிருந்து இலங்கை அழுத்தங்களை எதிர்கொள்கின்ற போதிலும் உக்ரைன் விடயத்தில் தொடர்ந்தும் இலங்கை நடுநிலைமையை பேணவேண்டும் என ரஸ்யா எதிர்பார்ப்பு வெளியிட்டுள்ளது
+
+கேள்வி - பாதுகாப்பு ஒத்துழைப்பு என்பது உக்ரைன் ரஸ்ய மோதல் இடம்பெறும் சூழமைவில் மேற்கு ஆசியாவில் நெருக்கடி காணப்படும் சூழமைவில்  முன்வைக்கப்படுகின்றது  ஆகவே இலங்கையுடன் எந்தவகையான பாதுகாப்பு ஒத்துழைப்பை பேணுவவதற்கு  ரஸ்யா விரும்புகின்றது?
+
+முதலில் நான் ஒன்றை தெரிவிக்க விரும்புகின்றேன் எங்களை பொறுத்தவரை இது ரஸ்ய உக்ரைன்  யுத்தம் இல்லை.இது ரஸ்யா ஆரம்பித்துள்ள விசேட நடவடிக்கை.
+
+மேற்குலக நாடுகள் ரஸ்யாவிற்கு தோல்வியை ஏற்படுத்த விரும்புகின்றன மூலோபாய தோல்வியை ஏற்படுத்த முயல்கின்றன,
+
+பதில் - ஆம் இராணுவத்தினருக்கு என தெரிவிக்கலாம், மாணவர்களி;ற்கான கல்வி குறித்து நாங்கள் ஆராய்கின்றோம்  பொதுமக்களிற்கு மாத்திரமில்லை இராணுவத்தினருக்கும்.
+
+இலங்கையின் மூலோபாயரீதியில் முக்கியத்துவம் வாய்ந்த அமைவிடம் மிகவும் முக்கியமானது. மேலும் உக்ரைன் தொடர்பில் இலங்கையின் சமநிலையான நடுநிலையான நிலைப்பாட்டை நாங்கள் பாராட்டுகின்றோம்.
+
+...
+
+[Data](articles/a405cfa4.json)
+
+---
+
+### Bauchy Todelwatte incident
 
 *2024-01-22 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192435) · `si`
 
-පොලීසියෙන් බව පවසමින් පුද්ගලයින් පිරිසක් වැල්ලවත්ත ප්‍රදේශයේදී තරුණයෙකුට පහරදෙන අයුරු දැක්වෙන වීඩියෝවක් මේ වනවිට සමාජ මාධ්‍ය ඔස්සේ හුවමාරු වෙමින් පවතියි.
+A video of a group of people attacking a youth in the Wellawatte area in Wellawatte is being attacked by the police.
 
-අදාළ තරුණයා මාර්ගය අසළ සිටින ආකාරයත් එම ස්ථානයට ත්‍රිරෝද රථයකින් පැමිණෙන පිරිසක් ඔහුට පහරදෙන ආකාරයත් මෙලෙස එම CCTV  දර්ශනවල පටිගතව තිබේ.
+The following CCTV shows how the young man is near the road and a group of people attacking the site.
 
-මේ සම්බන්ධයෙන් නීතිය ක්‍රියාත්මක කරන බලධාරීන්ගේ කඩිනම් අවධානය යොමුවිය යුතු නොවේද ?
+Should not take immediate attention to the law enforcement authorities in this regard?
 
 ◼️
 
 [Data](articles/5cc07cbd.json)
+
+[Extended Data](ext_articles/5cc07cbd.ext.json)
 
 ---
 
@@ -77,6 +103,24 @@ Meanwhile, a special police investigation has been carried out in this regard, a
 [Data](articles/e846b523.json)
 
 [Extended Data](ext_articles/e846b523.ext.json)
+
+---
+
+### விவசாயிகளிடம் நெல் அளக்கும் தராசுகளில் மோசடி : அரிசி ஆலை உரிமையாளர் சங்கத் தலைவர் குற்றச்சாட்டு
+
+*2024-01-22 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174530) · `ta`
+
+வவுனியா மாவட்டத்தில் விவசாயிகளிடம் நெல் கொள்வனவு செய்ய வரும் வெளி மாவட்ட நெல் கொள்வனவாளர்கள் மற்றும் உள்ளூர் நெல் கொள்வனவாளர்கள் நிறுவை தராசுகளில் பாரிய மோசடி மேற்கொண்டு விவசாயிகளிடம் நெல்லை கொள்ளளவு செய்து வருவதாக வவுனியா மாவட்ட அரிசி ஆலை உரிமையாளர் சங்கத் தலைவர் சி. விவேகானந்தன் தெரிவித்தார்.
+
+தற்போது அறுவடை ஆரம்பித்து உள்ள நிலையில் விவசாயிகளிடம் நெல்லை கொள்வனவு செய்யவரும்  கொள்வனவாளர்கள்  நிறுவை தராசுகளில் மோசடி செய்து விவசாயிகளிடம் நெல்லை கொள்வனவு செய்கின்றனர்.
+
+தராசில் இருக்கும் மேல்பகுதியை மாற்றி வைப்பதன் ஊடாக இரண்டு மூடைகளில் சுமார் 15 கிலோ வீதம் விவசாயிகள் நட்டமடைவதற்கான வாய்ப்புகள் இருப்பதாக சுட்டிக் காட்டிய அவர் நியாயமாக கொள்வனவு செய்பவர்களை விட 100, 200 ரூபா பணம் அதிகமாக  கிடைக்கின்றது என்ற காரணத்தினால் விவசாயிகள் அவ்வாறான கொள்வனவாளர்களிடம்நெல்லை கொடுத்து பல ஆயிரம் ரூபா நட்டம் அடைந்து ஏமாறுவதாகவும் சுட்டிக்காட்டினார்.
+
+எனவே விவசாயிகள் நெல்லை விற்பனை செய்யும் போது மிகவும் அவதானமாக செயல்படுமாறும் அவர் கேட்டுள்ளார்.
+
+◼️
+
+[Data](articles/78be1cb8.json)
 
 ---
 
@@ -455,6 +499,22 @@ According to the announcement, applications will be filed only from January 23rd
 [Data](articles/09ce0e94.json)
 
 [Extended Data](ext_articles/09ce0e94.ext.json)
+
+---
+
+### சா/த   விண்ணப்பத்தில்    கடும் கட்டுப்பாடு
+
+*2024-01-22 14:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-விண்ணப்பத்தில்-கடும்-கட்டுப்பாடு/175-331949) · `ta`
+
+கல்விப் பொதுத் தராதர சாதாரண பரீட்சைக்கான (2023(2024)) விண்ணப்பங்கள் பரீட்சை திணைக்களத்தால் கோரப்பட்டுள்ளன. ஜனவரி 23 ஆம் திகதி செவ்வாய்க்கிழமை முதல் பெப்ரவரி 15 நள்ளிரவு வரை மட்டும் இணையத்தின் ஊடாக மட்டுமே விண்ணப்பிக்க முடியுமென பரீட்சைகள் திணைக்களத்தின் ஆணையாளர் அமித் ஜயசுந்தர அறிவித்துள்ளார்.
+
+பாடசாலை பரீட்சார்த்திகள் பாடசாலை அதிபரின் ஊடாகவும், தனிப்பட்ட பரீட்சார்த்திகள்   தனிப்பட்ட ரீதியிலும் விண்ணப்பிக்க வேண்டும். தனிப்பட்ட பரீட்சார்த்திகள் அரச மற்றும் அரசாங்கத்தால் ஏற்றுக்கொள்ளப்பட்ட பாடசாலைகளில் இருந்து (விலகிய சான்றிதழை) கட்டாயமாக முன்வைக்கப்படவேண்டும் என்றும் அறிவுறுத்தப்பட்டுள்ளது.
+
+தனிப்பட்ட பரீட்சார்த்திகள் தேசிய அடையாள அட்டையை சமர்ப்பிப்பது கட்டாயமாக்கப்பட்டுள்ளது. 15 வயதுக்கும் குறைந்த தனிப்பட்ட பரீட்சார்த்திகள், சாதாரண தரப்பரீட்சைக்கு தோற்ற எதிர்பார்த்திருந்தால், விண்ணப்பம் செய்வதற்காக பரீட்சைகள் திணைக்களத்துக்கு சமூகமளிக்க வேண்டும் என்றும் ஆணையாளர் அறிவுறுத்தியுள்ளார்.
+
+...
+
+[Data](articles/1d7596c5.json)
 
 ---
 
@@ -1957,61 +2017,5 @@ Police Media Spokesperson Senior Superintendent of Police Nihal Talduwa said tha
 [Data](articles/cc1f5ee9.json)
 
 [Extended Data](ext_articles/cc1f5ee9.ext.json)
-
----
-
-### Five persons killed in shooting at Beliatta
-
-*2024-01-22 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96611/five-persons-killed-in-shooting-at-beliatta) · `en`
-
-The death toll from the shooting incident in the Beliatta area in Tangalle this morning (22) has climbed to five after one more person admitted to hospital with gunshot wounds had succumbed to injuries, a short while ago.
-
-Earlier, Police said that the shooting had been carried out by a group of unidentified gunmen in a vehicle and that they had opened fire at five persons traveling in a Defender.
-
-Four of the five persons in the Defender have been shot dead near the Beliatta exit of the Southern Expressway, police said, while the other was hospitalised in critical condition.
-
-The remains of the deceased have been placed at the Tangalle Base Hospital, Ada Derana reporter said.
-
-The shooting had taken place between 8.30 a.m. and 8.40 a.m. when a group of individuals who had arrived in a green colour double-cab opened fire on a Defender near the Beliatta interchange of the expressway.
-
-◼️
-
-[Data](articles/ff1f022b.json)
-
-[Extended Data](ext_articles/ff1f022b.ext.json)
-
----
-
-### A rainy weather in many sides today
-
-*2024-01-22 09:42:53* · [`adalk`](https://www.ada.lk/breaking_news/අද-බොහෝ-පැතිවලට-වැසි-රහිත-කාලගුණයක්/11-407656) · `si`
-
-In the Western, Sabaragamuwa and Central provinces, the Western, Sabaragamuwa and Central provinces are available in the Western, Sabaragamuwa and Central provinces.. Showers and thundershowers will occur at several places in about 4.00 pm.
-
-The department states that the department is mainly due to the prevailing weather in other countries in the island.
-
-◼️
-
-[Data](articles/d7bdec23.json)
-
-[Extended Data](ext_articles/d7bdec23.ext.json)
-
----
-
-### Delay in the coastal train service
-
-*2024-01-22 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174488) · `ta`
-
-The railway control room said the coastal train service was delayed due to the explosion on the rails.
-
-An explosion on the rails between Panadura and Ekoda Railway Stations on Monday morning (22).
-
-As a result, the railway control room further stated that there was a delay in the train service from Colombo to Galle.
-
-◼️
-
-[Data](articles/0c7c6db9.json)
-
-[Extended Data](ext_articles/0c7c6db9.ext.json)
 
 ---

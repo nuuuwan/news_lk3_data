@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 20:17:03**
+As of **2024-01-22 20:33:09**
 
 ## Newspaper Stats
 
-*Scraped **1,861** Articles*
+*Scraped **1,866** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,113 @@ newsfirstlk | 116
 economynextcom | 116
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 189
-adalk | 195
+virakesarilk | 191
+adalk | 196
 dailymirrorlk | 220
-tamilmirrorlk | 229
+tamilmirrorlk | 231
 adaderanalk | 231
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,779 (95.6%) of 1,861 articles have been extended.
+1,789 (95.9%) of 1,866 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### பெலியத்த துப்பாக்கிச்சூடு; பொலிஸார் அதிரடி நடவடிக்கை
+### சிரேஷ்ட விரிவுரையாளர் திடீர் மரணம்
+
+*2024-01-22 20:02:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரேஷ்ட-விரிவுரையாளர்-திடீர்-மரணம்/175-331964) · `ta`
+
+விவசாய பீடத்தின் சிரேஷ்ட விரிவுரையாளரான 60 வயதுடைய லக்நாத் பீரிஸ் எனும்  விரிவுரையாளரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+அதிகமான மாத்திரைகள் மற்றும் பூச்சிக்கொல்லி மருந்து உடலில் பரவியதால் இந்த மரணம் ஏற்பட்டிருக்கலாம் என பொலிஸார் சந்தேகிக்கின்றனர்.
+
+இவர் தனது மனைவியுடன் பழைய கலஹா வீதி சரசவி உயன பகுதியில் அமைந்துள்ள குடியிருப்பு வீட்டில் வசித்து வந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/84a07908.json)
+
+---
+
+### அயோத்திக்கு வந்த “குழந்தை ராமர்” சிலையின் சிறப்புகள் என்ன தெரியுமா?
+
+*2024-01-22 19:48:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அயோத்திக்கு-வந்த-குழந்தை-ராமர்-சிலையின்-சிறப்புகள்-என்ன-தெரியுமா/50-331963) · `ta`
+
+அயோத்தி ராமர் கோயிலில் அமைக்கப்பட்டுள்ள குழந்தை ராமர் சிலைஉலகிலேயே ஆகச்சிறந்த கலை வேலைப்பாடுகளுடன் உருவாக்கப்பட்டுள்ளது.
+
+அயோத்தி ராமர் கோயிலில் வைக்கப்பட்ட குழந்தை ராமர் சிலையின் புகைப்படம் வெளியான போதே அனைவரையும் கவர்ந்து இழுத்துவிட்டது.
+
+ராமர், குழந்தையில் இப்படித்தான் இருந்திருப்பாரோ என்கிற அளவுக்கு, சாந்தமும் புன்னகையும் குடிகொண்டிருக்கும் வகையில், மிகவும் தத்ரூபமாக சிலை உருவாக்கப்பட்டிருந்ததுதான் அதற்கு காரணம்.
+
+உண்மையில், 5 வயது பாலகனாக ராமரை நினைவுக்கூறும் வகையில், வெவ்வேறு இடங்களில் 3 சிலைகள் உருவாக்கப்பட்டுள்ளன.
+
+கர்நாடக மாநிலம் மைசூரு மாவட்டத்தைச் சேர்ந்த அருண் யோகிராஜ், பெங்களூருவைச் சேர்ந்த கணேஷ் பட் மற்றும் ராஜஸ்தானைச் சேர்ந்த சத்யநாராயண் ஆகியோர் தனித்தனியாக சிலைகளை உருவாக்கியுள்ளனர்.
+
+கர்நாடகாவில் உருவான 2 சிலைகளும் கருங்கல்லில் உருவானது. ராஜஸ்தானில் மார்பிள் கல்லை பயன்படுத்தி சிலை உருவாக்கப்பட்டது. இறுதியில் மைசூரில் உருவான சிலைதான் அயோத்தி கோயிலின் கருவறையை அடைந்துள்ளது.
+
+...
+
+[Data](articles/c49f6196.json)
+
+---
+
+### இனப்பிரச்சினைக்கான நிரந்தர தீர்வுக்கு அழுத்தமளியுங்கள் : புதிய இந்திய உயர்ஸ்தானிகரிடம் தமிழ்த் தேசியக் கட்சிகளின் தலைவர்கள் கூட்டாக கோரிக்கை
+
+*2024-01-22 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174564) · `ta`
+
+வடக்கு,கிழக்கு தமிழ் மக்களின் இனப்பிரச்சினைகான நிரந்தரமான தீர்வினை வழங்குவதற்கு அழுத்தமளிக்குமாறு இலங்கைக்கான இந்தியாவின் புதிய இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவிடத்தில் தமிழ்த் தேசியக் கட்சிகளின் தவைர்கள் மற்றும் பாராளுமன்ற உறுப்பினர்கள் கோரிக்கை விடுத்துள்ளனர்.
+
+அத்துடன், வடக்கு,கிழக்கு மாகணங்களின் சபைகளுக்காகவாவது தேர்தலை நடத்துவதற்கு இலங்கை அரசாங்கத்தினை வலியுறுத்துமாறு கோரியதோடு, அதற்கு இலங்கை அரசாங்கம் நிதியில்லை என்று கூறுமாக இருந்தால் அந்நிதியை இந்தியா வழங்க வேண்டும் என்றும் குறிப்பிட்டனர்.
+
+இலங்கைக்கான புதிய இந்திய உயர்ஸ்தானிகராக நியமிக்கப்பட்டுள்ள சந்தோஷ் ஜாவுக்கும் தமிழ்த் தேசியக் கட்சிகளின் தலைவர்கள் மற்றும் பாராளுமன்ற உறுப்பினர்களுக்கும் இடையிலான சந்திப்பு கொழும்பில் உள்ள இந்திய இல்லத்தில் திங்கட்கிழமை (22) பிற்பகல் 4மணிக்கு நடைபெற்றது.
+
+...
+
+[Data](articles/3506f973.json)
+
+---
+
+### பேராதனை பல்கலையின் விவசாய பீட பேராசிரியர் பீரிஸ் அதிகளவு மாத்திரைகளை உட்கொண்டதால் உயிரிழப்பு
+
+*2024-01-22 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174559) · `ta`
+
+பேராதனை பல்கலைக்கழகத்தின் விவசாய பீடத்தின் பேராசிரியர் ஒருவர் அதிகளவு மாத்திரைகளை  உட்கொண்டதன் காரணமாக ஆபத்தான நிலையில் பேராதனை போதனா வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்த நிலையில் திங்கட்கிழமை (22) உயிரிழந்துள்ளார்.
+
+விவசாய பீடத்திற்கு சொந்தமான உத்தியோகபூர்வ இல்லத்தில் மனைவியுடன் வசித்து வந்த பேராசிரியர் திங்கட்கிழமை (22) அதிகாலை ஒரு மணியளவில் ஆபத்தான நிலையில் வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டார்.
+
+விவசாய பீடத்தில் பயிர் விஞ்ஞானப் பிரிவில் சிரேஷ்ட விரிவுரையாளராகப் பணியாற்றிய பேராசிரியர் பி.எல்.பீரிஸ் (60) என்பவரே இவ்வாறு உயிரிழந்துள்ளதாக பேராதனைப் பல்கலைக்கழக ஊடகப் பேச்சாளரும், பிரதி உபவேந்தருமான பேராசிரியர் டெரன்ஸ் மதுஜித் தெரிவித்தார்.
+
+பேராசிரியரின் மனைவி பேராதனை பல்கலைக்கழகத்தின் பிரதான நூலகத்தில் பணிபுரிவதோடு, மரணம் தொடர்பில் பேராதனை பொலிஸார் விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+பிரேத பரிசோதனைக்கு பின்னரே மரணத்திற்கான காரணம் குறித்து உறுதியான அறிக்கையை வெளியிட முடியும் என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/9006af8d.json)
+
+---
+
+### Beliatta firing;Police action
 
 *2024-01-22 19:31:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-துப்பாக்கிச்சூடு-பொலிஸார்-அதிரடி-நடவடிக்கை/175-331962) · `ta`
 
-மாத்தறை - பெலியத்த பிரதேசத்தில் இன்று காலை மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டு சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொள்வதற்காக 6 விசேட பொலிஸ் குழுக்கள் ஈடுபடுத்தப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சட்டத்தரணி நிஹால் தல்துவ தெரிவித்தார்.
+Police Media Spokesperson Senior Superintendent of Police Nihal Dalduwa said that 6 special police teams have been deployed to investigate the shooting incident in Matara - Beliyatta this morning.
 
-தென் மாகாணத்திற்கு பொறுப்பான சிரேஷ்ட பிரதி பொலிஸ்மா அதிபரின் கண்காணிப்பில் இந்த விசாரணைகள் முன்னெடுக்கப்படுவதாக அவர் குறிப்பிட்டார்.
+He added that these investigations are being carried out under the supervision of the Senior Deputy Inspector General of Police in charge of the Southern Province.
 
-பெலியத்த பிரதேசத்தில் இன்று (22) காலை இடம்பெற்ற துப்பாக்கிச் சூட்டில் அபே ஜனபல கட்சியின் தலைவர் சமன் பெரேரா உள்ளிட்ட ஐந்து பேர் உயிரிழந்தனர்.
+Five people, including Abe Janapala Party leader Saman Perera, were killed in a shooting in Beliatta area this morning.
 
-இன்று(22) காலை 8.30 முதல் 8.40 மணிக்குள் இந்த துப்பாக்கிச் சூடு நடத்தப்பட்டுள்ளதுடன், இதில் ஐவர் உயிரிழந்திருந்தனர்.  R
+The shooting took place today (22) between 8.30 am and 8.40 am and five were killed.R
 
 ◼️
 
 [Data](articles/ba48a77c.json)
+
+[Extended Data](ext_articles/ba48a77c.ext.json)
 
 ---
 
@@ -192,19 +268,21 @@ The Presidential Secretariat states that the acting appointment is in addition t
 
 ---
 
-### අයි.පී.එල්. මිලදී නොගත්  චමරි අයි.සී.සී. කාන්තා විස්සයි 20 කණ්ඩායමේ නායකත්වයට
+### IPL. Chamari not bought. To the leadership of Women's T20 group
 
 *2024-01-22 18:30:52* · [`adalk`](https://www.ada.lk/sports/අයි-පී-එල්--මිලදී-නොගත්--චමරි-අයි-සී-සී--කාන්තා-විස්සයි-20-කණ්ඩායමේ-නායකත්වයට/9-407668) · `si`
 
-2023 වසරේදී කාන්තා විස්සයි20 පිටියේදී දැක්වූ දක්ෂතා අනුව එම වසරට අදාළ විස්සයි20 කාන්තා කණ්ඩායම ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ප්‍රකාශයට පත්කර තිබේ.
+According to the National Twenty20 women's team, according to the performance of Women Twenty 20, has been announced by the International Cricket Team.
 
-මෙම කණ්ඩායමේ නායකත්වය ශ්‍රි ලංකා නායිකා චමරි අතපත්තුට හිමිව තිබීම කැපී පෙනෙන සාධකයකි. ඇය පසුගිය වසරේදී ජාත්‍යන්තර පිටියේදීත් ලීග පිටියේදී කැපී පෙනෙන දක්ෂතා පෙන්වූ ක්‍රීඩිකාවකි.
+The captaincy of the group is a significant factor in Sri Lanka Leaders Chamari Atapattu. She was in the international field last year and a player showing significant talent at the league.
 
-කෙසේ වෙතත් ඉදිරියේදී පැවැත්වීමට නියමිත කාන්තා අයි.පී.එල්. තරගාවලියේ වෙන්දේසියට ඇය ඉදිරිපත් වුවත් ඇයව මිලදී ගැනීමට කිසිම කණ්ඩායමක් කටයුතු නොකළේය.
+However the women will be held in the future. Although she was submitted to the auction of the tournament, no group did not take her to buy her.
 
 ◼️
 
 [Data](articles/05ca14b0.json)
+
+[Extended Data](ext_articles/05ca14b0.ext.json)
 
 ---
 
@@ -1300,6 +1378,20 @@ He is a CFA charter holder. He has Bachelor of Commerce degree and Master of Fin
 
 ---
 
+### සාපෙළට ලියන්න ඉන්න අයට දැනුම් දීමක්
+
+*2024-01-22 14:29:31* · [`adalk`](https://www.ada.lk/breaking_news/සාපෙළට-ලියන්න-ඉන්න-අයට-දැනුම්-දීමක්/11-407666) · `si`
+
+අධ්‍යයන පොදු සහතික පත්‍ර සාමාන්‍ය පෙළ (2023/2024) විභාගයට අදාළව අයදුම්පත්‍ර කැඳවීම හෙට සිට ආරම්භ වන බව විභාග දෙපාර්තමේන්තුව පවසයි.
+
+ජනවාරි 23 වනදා සිට පෙබරවාරි 15 දක්වා මාර්ගගත ක්‍රමය ඔස්සේ පමණක් මෙම අයදුම්පත්‍ර කැඳවීම සිදුකරන බව විභාග දෙපාර්තමේන්තුව වැඩිදුරටත් පවසයි.
+
+◼️
+
+[Data](articles/89f75c42.json)
+
+---
+
 ### World Cup stars dominate ICC Women’s T20I Team of the Year for 2023
 
 *2024-01-22 14:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/World-Cup-stars-dominate-ICC-Womens-T20I-Team-of-the-Year-for-2023/108-275497) · `en`
@@ -1911,107 +2003,5 @@ According to the statement, the application of applications will be carried out 
 [Data](articles/ba52b926.json)
 
 [Extended Data](ext_articles/ba52b926.ext.json)
-
----
-
-### Economic Crisis - The risk of free meals offered to patients amidst a shortage of drugs
-
-*2024-01-22 12:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/174505) · `ta`
-
-Government hospitals are facing a severe crisis due to allegations that the quality of food provided to patients in government hospitals due to the increase in food prices.
-
-Health department officials have pointed out that the increase in food prices, the number of patients admitted to hospitals and the free diet is due to the increasing customs.
-
-The number of patients who receive admissions in hospitals has increased significantly, and they have said that they are seeking state governments due to the increase in fees in private hospitals.
-
-In the past, the lack of listening to free foods in the past said that it is one of the reasons for the availability of food from those who see the food from the main government hospital official, but the situation has changed completely. Many people have relied on free foods and no one comes to visit patients.
-
-He said that the distributors of the food are not thinking about providing nutritious foods.
-
-...
-
-[Data](articles/f77f5915.json)
-
-[Extended Data](ext_articles/f77f5915.ext.json)
-
----
-
-### Police launch CCTV based traffic violations detection programme
-
-*2024-01-22 12:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-launch-CCTV-based-traffic-violations-detection-programme/108-275488) · `en`
-
-Colombo, Jan. 22 (Daily Mirror)- The police today launched the special programme aimed at identifying motorists violating traffic rules through the CCTV system in Colombo.
-
-Public Security Minister Tiran Alles and Acting Inspector General of Police Deshabandu Thennakoon launched the programme at the CCTV division in Colombo with the identification of the first traffic violation through the CCTV system.
-
-There are reportedly at least 108 CCTV cameras within the Colombo city, covering the main locations and flyovers.
-
-Despite the programme being launched today, a week-long awareness campaign for motorists will also be held about this programme.
-
-From February 01 the implementation of the law against traffic violators will commence, the IGP said.
-
-Tennakoon emphasized that through the CCTV traffic violation identification system, officers on traffic duty will be able to provide an efficient service to minimize traffic congestions.
-
-...
-
-[Data](articles/93b36d8e.json)
-
-[Extended Data](ext_articles/93b36d8e.ext.json)
-
----
-
-### Our Five Peoples Beliyagoda
-
-*2024-01-22 12:03:36* · [`adalk`](https://www.ada.lk/breaking_news/බෙලි-අත්තේදී-ඝාතනය-වූ-පස්දෙනා-අතර-අපේ-ජන-බල-පක්ෂ-නායකයාත්/11-407661) · `si`
-
-It is reported that the five member of the Five persons who have been shot dead in Beliatta this morning are also present.
-
-Saman Perera has been charged with the Chairman of the Balapitiya Prahenthetic Palace and his son.
-
-◼️
-
-[Data](articles/c6da063d.json)
-
-[Extended Data](ext_articles/c6da063d.ext.json)
-
----
-
-### Decline order against Dayasiri is extended
-
-*2024-01-22 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192427) · `si`
-
-The Colombo District Court today (22) ordered the former Secretary General of Sri Lanka Freedom Secretary Sarahy Jayasekera.
-
-The orders were released after a petition filed by the Sri Lanka Freedom Party (SLFP) and its acting Secretary-General Sarathi Vithantha Mithrapala.
-
-President's Counsel Faizer Mustapha, who appeared in behalf of the petitioner, appeared in court to the court if respondents would be summoned on the 29th.
-
-Accordingly, the petitioners were given permission to file objections and also also sent the petition on the 29th.
-
-The petitioner is said to have been removed as the Secretary-General of the SLFP central committee.
-
-The complaint was later appointed by Sarathi Mithrapala, then, said.
-
-It is later reported to be issued with a charge and issue of a charge against Mr. Dayasiri Jayasekara.
-
-...
-
-[Data](articles/16b4ef83.json)
-
-[Extended Data](ext_articles/16b4ef83.ext.json)
-
----
-
-### Mahinda Vajira Secret Talk
-
-*2024-01-22 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174475) · `ta`
-
-The information is being spread by members of the United People's Power, including Nalin Bandara and SM Marikar, a UNP chief said. However, when President Ranil Wickremesinghe returns to the country, the fourth session of the ninth parliament will be concluded on the 24th of this month and the new session will commence on February 7.
-
-◼️
-
-[Data](articles/bd7c429f.json)
-
-[Extended Data](ext_articles/bd7c429f.ext.json)
 
 ---

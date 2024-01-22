@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 12:32:59**
+As of **2024-01-22 12:49:53**
 
 ## Newspaper Stats
 
-*Scraped **1,754** Articles*
+*Scraped **1,755** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 39
-adaderanasinhalalk | 89
+adaderanasinhalalk | 90
 economynextcom | 108
 islandlk | 108
 newsfirstlk | 112
@@ -26,47 +26,71 @@ adaderanalk | 218
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,591 (90.7%) of 1,754 articles have been extended.
+1,608 (91.6%) of 1,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### දයාසිරිට එරෙහි තහනම් නියෝගය දීර්ඝ කෙරේ
+### Announcement on the calling for the O / L examination
+
+*2024-01-22 12:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192428) · `si`
+
+The Department of Examinations has issued a statement regarding the calling for applications for the Ordinary Level (2023/2024).
+
+According to the statement, the application of applications will be carried out between January 23 to February 15.
+
+◼️
+
+[Data](articles/ba52b926.json)
+
+[Extended Data](ext_articles/ba52b926.ext.json)
+
+---
+
+### Decline order against Dayasiri is extended
 
 *2024-01-22 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192427) · `si`
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ වැඩබලන මහ ලේකම් සාරති දුෂ්මන්ත මිත්‍රපාල මහතාගේ කටයුතුවලට බාධා වන ආකාරයෙන් කටයුතු කිරීම වළක්වාලමින් එම පක්ෂයේ හිටපු මහලේකම් දයාසිරි ජයසේකර මහතා වෙත නිකුත් කළ වාරණ නියෝගය ලබන 29 වනදා දක්වා තවදුරටත් දීර්ඝ කිරීමට කොළඹ දිසා අධිකරණය අද (22) නියෝග කළේය.
+The Colombo District Court today (22) ordered the former Secretary General of Sri Lanka Freedom Secretary Sarahy Jayasekera.
 
-ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති මෛත්‍රීපාල සිරිසේන සහ එහි වැඩබලන මහලේකම් සාරති දුෂ්මන්ත මිත්‍රපාල යන මහත්වරු විසින් ඉදිරිපත් කළ පෙත්සමක් අද යළි කැඳවීමෙන් අනතුරුව මෙම නියෝග නිකුත් කෙරුණි.
+The orders were released after a petition filed by the Sri Lanka Freedom Party (SLFP) and its acting Secretary-General Sarathi Vithantha Mithrapala.
 
-පෙත්සම්කරු වෙනුවෙන් පෙනී සිටි ජනාධිපති නීතිඥ ෆයිසර් මුස්තාපා මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම වාරණ නියෝගයට අදාළව වගඋත්තරකරුවන් විරෝධතා ඉදිරිපත් කරන්නේ නම් එය ලබන 29 වනදා කැඳවන ලෙස ඉල්ලා සිටියේය.
+President's Counsel Faizer Mustapha, who appeared in behalf of the petitioner, appeared in court to the court if respondents would be summoned on the 29th.
 
-ඒ අනුව අදාළ විරෝධතා ගොනුකිරීමට වගඋත්තරකරුවන්ට අවසර ලබා දුන් අධිකරණය අනතුරුව පෙත්සම ලබන 29 වනදා කැඳවීමටද නියම කළේය.
+Accordingly, the petitioners were given permission to file objections and also also sent the petition on the 29th.
 
-පෙත්සම්කරු කියා සිටින්නේ ශ්‍රී ලංකා නිදහස් පක්ෂයේ මධ්‍යම කාරක සභාව විසින් ගනු ලැබූ තීරණයකට අනුව එහි මහ ලේකම්වරයා වශයෙන් කටයුතු කළ දයාසිරි ජයසේකර මහතා එම තනතුරින් ඉවත් කළ බවය.
+The petitioner is said to have been removed as the Secretary-General of the SLFP central committee.
+
+The complaint was later appointed by Sarathi Mithrapala, then, said.
+
+It is later reported to be issued with a charge and issue of a charge against Mr. Dayasiri Jayasekara.
 
 ...
 
 [Data](articles/16b4ef83.json)
 
+[Extended Data](ext_articles/16b4ef83.ext.json)
+
 ---
 
-### போதைப்பொருள் வலையமைப்புக்குப் பயன்படுத்தப்படும் குடு சலிந்துவுக்குச் சொந்தமான 79  சொகுசு வாகனங்கள்!
+### 79 luxury vehicles belonging to the drug network
 
 *2024-01-22 11:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174502) · `ta`
 
-குடு சலிந்து என்ற ஒழுங்கமைக்கப்பட்ட குற்றவாளியும் பாரியளவிலான போதைப்பொருள் கடத்தல்காரனுமான பாணந்துறை சலிந்து 79 சொகுசு வாகனங்களை வைத்திருப்பதாகவும் அவற்றின் இலக்கத் தகடுகள் மாற்றப்பட்டு  போதைப்பொருள் வலையமைப்பில்  ஈடுபட்டுள்ளதாகவும் குற்றப் புலனாய்வுப் பிரிவினர் கண்டுபிடித்துள்ளனர்.
+The Criminal Investigation Department has discovered that Kudu Salindu, an organized criminal and massive drug trafficker, has 79 luxury vehicles and their digit plates are being replaced and engaged in drug network.
 
-26 வயதுடைய  குடு சலிந்து பல்வேறு நபர்களின் பெயர்களில் 48 வங்கிக் கணக்குகளை பராமரித்து வந்துள்ளதாக பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தெரிவித்துள்ளார்.
+The 26 -year -old Kudu Salindu has maintained 48 bank accounts under the names of various persons, said Inspector General of Police Deshabandu Tennakoon.
 
-மூன்றாண்டுகளுக்குள் இந்த நாற்பத்தெட்டு கணக்குகளில் 1,059 மில்லியன் ரூபா பணம் புழக்கத்தில் விடப்பட்டதாகவும் அவர் கூறினார்.
+He said 1,059 million rupees of these forty -eight accounts were leaving within three years.
 
-இதேவேளை, இலங்கையில் போதைப்பொருள் வர்த்தகத்தில் ஈடுபடும்  4,500 பேரின் விபரப் பட்டியல் புலனாய்வுப் பிரிவினராலும் போதைப்பொருள் ஒழிப்புப் பிரிவினராலும் தயாரிக்கப்பட்டு அந்தந்த பகுதிகளின் சிரேஷ்ட பொலிஸ் அத்தியட்சகர்களிடம் கையளிக்கப்பட்டுள்ளதாகவும்  தெரிய வந்துள்ளது.
+Meanwhile, the list of 4,500 people involved in the drug trade in Sri Lanka has been prepared by the Intelligence Unit and the Drug Eradication Unit and handed over to the Senior Superintendents of the respective areas.
 
 ◼️
 
 [Data](articles/269f428b.json)
+
+[Extended Data](ext_articles/269f428b.ext.json)
 
 ---
 
@@ -90,21 +114,23 @@ It is imperative to see the problem of these people beyond the mirror of the Int
 
 ---
 
-### ஒழுங்கமைக்கப்பட்ட குற்றக் குழுக்களுடன் தொடர்பு:  இராணுவ அதிகாரி  கைது!
+### Contact with organized criminal groups: Army officer arrested!
 
 *2024-01-22 11:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174501) · `ta`
 
-ஒழுங்கமைக்கப்பட்ட குற்றக் குழுக்களுடன் தொடர்பு கொண்டிருந்த குற்றச்சாட்டில் இராணுவ அதிகாரி ஒருவரை பொலிஸ் விசேட அதிரடிப்படையினர் கைது செய்துள்ளனர்.
+Police Special Task Force (STF) has arrested a military officer on charges of involvement with organized criminal groups.
 
-கஹதுடுவ, உஸ்வத்த பிரதேசத்தில் மேற்கொள்ளப்பட்ட சுற்றிவளைப்பில் இந்த இராணுவ அதிகாரி கைது செய்யப்பட்டதாக பொலிஸ் விசேட அதிரடிப்படை தெரிவித்துள்ளது.
+The Army Officer has been arrested in a raid in Kahatuduwa, Uswatta area, according to the Special Task Force.
 
-கடந்த வருடம் ஜூன் மாதம் 21 ஆம் திகதி பலப்பிட்டிய பிரதேசத்தில் நபர் ஒருவரைக் சுட்டுக் கொன்ற சம்பவம் மற்றும் 18 ஆம் திகதி பலபிட்டிய பிரதேசத்தில் கொலை செய்ய திட்டமிட்டமை தொடர்பில் சந்தேகநபர் தேடப்பட்டு வருவதாக தெரிவிக்கப்படுகிறது.
+It is reported that the suspect is being sought into the killing of a person in Palapitiya area on June 21 last year and the plan to kill a person in Balapitiya area on the 18th.
 
-இந்தச் சோதனையின் போது சந்தேகநபரின் வீட்டில் 18 கிராம் ஐஸ் போதைப்பொருளும் கண்டுபிடிக்கப்பட்டது.
+During the test, 18 grams of ice was found in the suspect's house.
 
 ◼️
 
 [Data](articles/a81da53f.json)
+
+[Extended Data](ext_articles/a81da53f.ext.json)
 
 ---
 
@@ -124,57 +150,71 @@ On 15 January, the CEB suspended 15 clerical staff members in charge of the cash
 
 [Data](articles/a1c8c9b7.json)
 
+[Extended Data](ext_articles/a1c8c9b7.ext.json)
+
 ---
 
-### புங்குடுதீவு வித்தியா கொலை வழக்கில் மரண தண்டனை விதிக்கப்பட்டுள்ளவர்களின் மேன்முறையீடு விசாரணை இன்று
+### The death sentence of the death sentence in the Punguduthivu case
 
 *2024-01-22 11:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/174493) · `ta`
 
-யாழ்ப்பாணம் – புங்குடுதீவு பகுதியில் சிவலோகநாதன் வித்தியா என்ற மாணவி கடத்திச் செல்லப்பட்டு, கூட்டுப் பாலியல் வன்புணர்வுக்கு உட்படுத்தப்பட்டு கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் மரண தண்டனை விதிக்கப்பட்டுள்ளவர்களின் மேன்முறையீடுகள்  திங்கட்கிழமை (22) விசாரணைக்கு எடுத்துக் கொள்ளப்படவுள்ளது.
+The appeals of those sentenced to death in connection with the abduction of Sivalokanathan Vidya in the Jaffna - Punguduthivu area will be taken up for hearing on Monday (22).
 
-இந்த மேன்முறையீட்டு மனுக்கள் நீதியரசர்களான ப்ரீத்தி பத்மன் சூரசேன, அச்சல வெங்கப்புலி மற்றும் ஷிரான் குணரத்ன ஆகிய மூவரடங்கிய உயர் நீதிமன்ற நீதியரசர்கள் ஆயம் முன்னிலையில் கடந்த 09 ஆம் திகதி அழைக்கப்பட்டது.
+These appeals were called in the presence of High Court Judges, Ayam, a three -member High Court Judges, Preity Padman Surasena, Achala Venkapuli and Shiran Gunaratne.
 
-அதன்போது, இந்த வழக்கு தொடர்பான சிங்கள மொழிபெயர்ப்பு பிரதிகளை சட்டமா அதிபரிடம் சமர்ப்பிப்பதற்கு நடவடிக்கை எடுக்குமாறு மனுதாரர்களுக்கு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The court has ordered the petitioners to take steps to submit Sinhala translation copies to the Attorney General.
 
-இதனையடுத்து, மேன்முறையீட்டு மனு மீதான விசாரணை ஜனவரி 22ம் திகதி எடுத்துக்கொள்வதற்கு நீதியரசர்கள் ஆயம் உத்தரவிட்டது.
+Subsequently, the judges Ayam ordered the hearing of the appeal on January 22.
 
-2015 ஆம் ஆண்டில், யாழ்ப்பாணத்தை சேர்ந்த சிவலோகநாதன் வித்தியா என்ற 18 வயது பாடசாலை மாணவி கடத்திச் சென்று கூட்டு வன்புணர்வு செய்யப்பட்டு கொலை செய்யப்பட்ட சம்பவம் பெரும் சர்ச்சையை ஏற்படுத்தியிருந்தது.
+In 2015, Sivalokanathan Vidya, an 18 -year -old school student from Jaffna, was abducted and murdered and murdered.
 
-...
+On September 27, 2017, seven accused in connection with the case sentenced the three judges of the Jaffna High Court to death.
+
+The defendants have said that the man who has been sentenced is contrary to the law.
+
+Accordingly, the defendants filed these appeals in the High Court demanding the release of themselves from the charge.
+
+◼️
 
 [Data](articles/cdf283ac.json)
 
+[Extended Data](ext_articles/cdf283ac.ext.json)
+
 ---
 
-### ජීවිත 90ක් බිලිගත් අමෙරිකාවේ හිම කුණාටුව
+### Ninety-snowstorm of American 90 lives
 
 *2024-01-22 11:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192426) · `si`
 
-ගෙවුණු සතිය පුරා අමෙරිකාවට බලපෑම එල්ල කළ හිම කුණාටු තත්ත්වය ආශ්‍රිත අනතුරුවලින් පුද්ගලයින් 90 දෙනෙකු මියගොස් තිබේ.
+90 people have been killed in the Sri Lankan Americans with the affected week.
 
-ඉන් වැඩිම මරණ ගණනක් ටෙනිසි සහ ඔරිගොන් ප්‍රාන්තවලින් වාර්තා වූ අතර ඉලිනොයිස්, පෙන්සල්වේනියා, මිසිසිපි, වොෂින්ටන්, කෙන්ටාකි, නිව්යෝර්ක්, ඇතුළු තවත් ප්‍රාන්තවලින් ද මරණ වාර්තා වී තිබිණි.
+The highest deaths were reported from Tennesses and Oregon, and Illinois, Visisal, Washington, Kentucky, New York.
 
-අධික හිමපතනය හේතුවෙන් රටපුරා කලාප රැසක විදුලිය බිඳවැටී අතර, පවතින දැඩි ශීතල හමුවේ පුද්ගලයින් දහස් ගණනක් පීඩාවට පත්ව සිටී.
+Due to heavy snowmore, electricity in many zones across the country, thousands of people have been affected.
 
-පවතින අධික හිමපතනය සහ ශීත සුළං තත්ත්වය මේ සතිය තුළත් පවතිනු ඇති බව අපේක්ෂිතය.
+It is expected that there will be excessive monk and the winter winds in this week.
 
 ◼️
 
 [Data](articles/8dacf25a.json)
 
+[Extended Data](ext_articles/8dacf25a.ext.json)
+
 ---
 
-### பொதுமக்களுக்கு எச்சரிக்கை : பொலிஸார் போன்று தொலைப்பேசியூடாக உரையாடி பண மோசடியில் ஈடுபடும் கும்பல்!
+### Warning to the public: A gang involved in money laundering
 
 *2024-01-22 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174499) · `ta`
 
-நாட்டின் பல்வேறு பிரதேசங்களில் பல வீடுகளிலுள்ள தொலைப்பேசிகளுக்கு அழைப்பெடுத்து, தம்மை பொலிஸார் எனக் கூறி, ஏமாற்றி பணம் பறிக்க முற்படும் கும்பலொன்று தலைமறைவில் இயங்கி வருவதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police said that a mob is working in hiding in various parts of the country, calling themselves the police, claiming to be a policeman.
 
-குறிப்பாக, முல்லேரியா, நவகமுவ பிரதேசங்களில் உள்ள வீடுகளுக்கு இதுபோன்ற அழைப்புகள் மேற்கொள்ளப்பட்டுள்ளதாகவும், பொலிஸார் எனக் கூறி பணம் பறிக்க அழைப்பு விடுக்கப்படுவது தொடர்பில் பொலிஸ் நிலையங்களுக்கு பல முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாக பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் நிஹால் தல்துவ கூறியுள்ளார்.
+In particular, police media spokesman Nihal Talduwa said that such calls have been made for houses in Mulleria and Navagamuwa areas and that police have received several complaints regarding the call for money being called police.
 
 ◼️
 
 [Data](articles/5e924b08.json)
+
+[Extended Data](ext_articles/5e924b08.ext.json)
 
 ---
 
@@ -198,21 +238,23 @@ Ayodhya, once dotted with tightly packed houses and rundown stalls, has undergon
 
 ---
 
-### பொலிஸாரை பயமுறுத்துவதற்காக நாயுடன் காரில் கடத்திச் செல்லப்பட்ட  ஐஸ் போதைப்பொருள்: ஒரே குடும்பத்தைச் சேர்ந்த மூவர் கைது!
+### Ice narcotics abducted in car with a dog to intimidate police
 
 *2024-01-22 11:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/174496) · `ta`
 
-பொலிஸாரைப் பயமுறுத்துவதற்காக நாயுடன் காரில் கடத்திச் செல்லப்பட்ட ஐஸ் போதைப்பொருளுடன் மூவர் கைது செய்யப்பட்டதாக கஹதுடுவ பொலிஸார் தெரிவித்தனர்.
+Kahatuduwa police said that the three were arrested with an ice drug that was abducted with a dog to intimidate the police.
 
-சந்தேக நபர்களிடமிருந்து கார், மோட்டார் சைக்கிள் மற்றும் நான்கு கைத்தொலைபேசிகள் என்பன பொலிஸாரால் கைப்பற்றப்பட்டுள்ளன.
+Car, motorcycle and four cell phones have been seized by the suspects.
 
-கைது செய்யப்பட்டவர்கள் கிரிவத்துடுவ யகஹலுவ பிரதேசத்தில் வசிக்கும் ஒரே குடும்பத்தைச் சேர்ந்தவர்கள் என பொலிஸார் தெரிவிக்கின்றனர்.
+The arrested persons belong to the same family in the Yagauluwa area of Kirivathuduwa, police said.
 
-கிரிவத்துடுவ யகஹல்வ பிரதேசத்தின் ஊடாக ஐஸ் போதைப்பொருள் கடத்தப்படுவதாக கிடைத்த தகவலின்படி பதில் பொலிஸ் நிலைய பொறுப்பதிகாரியின்  பணிப்புரையின்பேரில் அதிகாரிகள் குழுவொன்று கிரிவத்துடுவ யகஹலுவ பிரதேசத்துக்கு அனுப்பி வைக்கப்பட்டது.
+According to reports received that ice drugs were smuggled through the Kirivathuduwa Yagahalwa area, a team of officials was sent to the Kirivathuduwa Yagauluwa area on the directive of the police officer.
 
 ◼️
 
 [Data](articles/27ddf816.json)
+
+[Extended Data](ext_articles/27ddf816.ext.json)
 
 ---
 
@@ -278,6 +320,8 @@ Sri Lanka’s Softlogic looking to cut debt, sell down subsidiaries
 
 [Data](articles/98917827.json)
 
+[Extended Data](ext_articles/98917827.ext.json)
+
 ---
 
 ### Sri Lanka minor opposition party leader among five shot dead
@@ -296,43 +340,53 @@ One of the victims was leader of the Ape Jana Bala party, which was in the centr
 
 [Data](articles/dd7aee52.json)
 
+[Extended Data](ext_articles/dd7aee52.ext.json)
+
 ---
 
-### கடனை திருப்பி செலுத்துங்கள் இல்லாவிட்டால் உங்கள் அந்தரங்க படங்களை பகிரங்கப்படுத்துவோம்- இணையவழியில் கடன் பெற்றவரை மிரட்டிய கும்பல்
+### If you do not repay the loan, we will make your private pictures public
 
 *2024-01-22 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174494) · `ta`
 
-கொழும்பில் சமீபத்தில் கைதுசெய்யப்பட்ட இணைய கடன் மோசடி பேர்வழிகள் எவ்வாறு தன்னை நெருக்கடிக்குள் சிக்கவைத்தனர் என்பதை பாதிக்கப்பட்ட நபர் ஒருவர் விபரித்துள்ளார்.
+A victim has described how the recently arrested internet debt fraudulents in Colombo have been involved in the crisis.
 
-தன்னை எவ்வாறு மேலும் மேலும் கடன்பெறச்செய்தனர் தன்னால் அதனை திருப்பி செலுத்த முடியாத நிலையேற்பட்டவேளை எவ்வாறு தன்னை மிரட்டினார்கள் என்பதை அவர் தெரிவித்துள்ளார்.
+He said he threatened him when he was unable to repay it.
 
-எனது மோட்டார் சைக்கிளை திருத்தவேண்டியிருந்ததாலும் மொபைல்போனிற்கான மாதாந்த கட்டணத்தை செலுத்தவேண்டியிருந்ததாலும் நான் அவர்களிடமிருந்து 30000 ரூபாயினை பெற்றுக்கொண்டேன் என அவர் தெரிவித்துள்ளார்.
+I have received 30000 rupees from them because I have to correct my motorcycle and pay the monthly fee for the mobile phone.
 
-அவர்கள் என்னிடமிருந்து  எனது அடையாளஅட்டையின் விபரங்களையும்  அடையாள அட்டையுடன் நான் காணப்படும் செல்பியையும் கேட்டனர் என பாதிக்கப்பட்டவர் தெரிவித்துள்ளார்.
+The victim said that they asked me the details of my identity and the cellphone I found with the ID card.
 
-அதன் பின்னர் மொபைல்போனை பயன்படுத்தி என்னை விண்ணப்படிவமொன்றை பூர்த்தி செய்யுமாறு கேட்டனர் அதன் பின்னர் அவர்கள் எனது வங்கிக் கணக்கிற்கு பணத்தை அனுப்பினார்கள் எனவும் அவர் தெரிவித்துள்ளார்.
+He then asked me to complete the application of a mobile phone and then sent me money to my bank account.
 
-நான் முதலில் கடனை பெற்ற பின்னர் நான் பெறக்கூடிய கடனை அவர்கள் அதிகரித்தனர் எனவும் அவர் குறிப்பிட்டுள்ளார்.
+He also mentioned that they increased the debt I could get after I first received the loan.
 
-...
+However, on the day I had to pay back the money and the day after that, I received phone calls and they remembered that I had to pay the money.
+
+On the third day, I received calls to intimidate many people. They said they had my pictures and telephone details.
+
+◼️
 
 [Data](articles/0697ba87.json)
 
+[Extended Data](ext_articles/0697ba87.ext.json)
+
 ---
 
-### தமிழரசுக் கட்சியின் புதிய தலைவர் மீண்டும் கூட்டமைப்பிலிருந்து வெளியேறிய அனைவனையும் ஒன்றிணைக்க வேண்டும் - சபா குகதாஸ்
+### The new leader of the Tamil National Alliance (TNA) must unite all who have left the federation again - Saba Kukadas
 
 *2024-01-22 11:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174492) · `ta`
 
-இலங்கைத் தமிழரசுக் கட்சியின் புதிய தலைவராக பாராளுமன்ற உறுப்பினர் சிறிதரன் தெரிவு செய்யப்பட்டதாக கட்சி அறிவித்துள்ளது எமது உள்ளம் நிறைந்த வாழ்த்துக்கள் என வட மாகாணசபை முன்னாள் உறுப்பினர் சபா குகதாஸ் தெரிவித்துள்ளார்.
+Former Northern Provincial Council Member Sabah Gugadas has said that the party has announced that the party has announced that the new leader of the Sri Lanka Tamil National Party has been elected.
 
-கடந்த உள்ளூராட்சி வேட்புமனு தாக்கலுக்கு முன்பாக கூட்டமைப்பில் இருந்து தமிழரசுக் கட்சி வெளியேறியது. ஆனால் கட்சியின் அன்றைய முடிவை மீள் பரிசீலனைக்கு உட்படுத்தி இனத்தின் ஒற்றுமை கருதி பொதுச் சின்னத்தில் கூட்டமைப்பாக கடந்த காலத்தில் சில கசப்பான சம்பவங்களால் கூட்டமைப்பிலிருந்து வெளியேறிய அனைவரையும்  ஒன்றிணைத்து ஒரு குடையின் கீழ் பயணிக்க தீர்க்க முடிவை கட்சியில் ஏகமனதாக எடுங்கள்.
+The TNA left the federation before the last local government nomination. But take the party unanimously in the party to re -examine the party's decision and rejuvenate all those who have left the federation under some bitter events in the past, with the unity of the ethnicity.
 
-தலைவர் தெரிவுக்கு முன்பாக மக்களுக்கும் கட்சித் தொண்டர்களுக்கும் வழங்கிய வாக்குறுதிகள் முக்கியமானவை. அதன் அடிப்படையில் தமிழ்த் தேசியக் கூட்டமைப்பில் மீண்டும் இணைந்து பொதுச் சின்னத்தில் இனத்தின் ஒற்றுமையையும் அரசியல் விடுதலையையும் வென்றெடுப்போம் என குறிப்பிடப்பட்டுள்ளது.
+The promises made to the people and party volunteers before the chairman's election are important. On the basis of this, it is stated that we will reunite with the TNA and win the unity and political liberation of the race in the public symbol.
 
 ◼️
 
 [Data](articles/686b3855.json)
+
+[Extended Data](ext_articles/686b3855.ext.json)
 
 ---
 
@@ -462,15 +516,17 @@ Authorities did not immediately specify whether anyone had died in the landslide
 
 ---
 
-### බෙලිඅත්තේ වෙඩි තැබීමකින් පහක් මරුට
+### Five killed in Beliatta shooting five
 
 *2024-01-22 10:21:26* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්තේ-වෙඩි-තැබීමකින්-පහක්-මරුට/11-407659) · `si`
 
-දක්ෂිණ අධිවේගී මාර්ගයේ බෙලිඅත්ත පිටවීමේ දොරටුව අභියස දී ඩිපෙන්ඩරයක සිටි පිරිසකට කැබ් රථයකින් පැමිණි පිරිසක් සිදුකළ වෙඩි තැබීමකින් පුද්ගලයන් පස් දෙනෙක් මියගොස් ඇතැයි වර්තා වෙයි. වෙළඳසැලක් ඉදිරිපිට රැදී සිටි පිරිසකට මෙලෙස වෙඩිතැබීම සිදුකර ඇතැයි වාර්තා වෙයි.
+Five persons were killed by a group of people who had been shot dead in a demand for a group of people in the Beliatta Exit gateway to the Beliatta Exit gateway. It is reported that a group of people had been shot in front of a shop.
 
 ◼️
 
 [Data](articles/bd0a1fd0.json)
+
+[Extended Data](ext_articles/bd0a1fd0.ext.json)
 
 ---
 
@@ -533,6 +589,8 @@ Date of announcement of the Monetary Policy Review: No. 01 of 2024 – Tuesday, 
 ◼️
 
 [Data](articles/654d67e1.json)
+
+[Extended Data](ext_articles/654d67e1.ext.json)
 
 ---
 
@@ -1302,6 +1360,8 @@ Sri Lanka has gone through easy money booms, involving private credit surges fin
 
 [Data](articles/126aed2b.json)
 
+[Extended Data](ext_articles/126aed2b.ext.json)
+
 ---
 
 ### "VAT without shops will be introduced"
@@ -1935,23 +1995,5 @@ Meanwhile, Mr. Krishantha Perera has been frustrated due to the incidents and th
 [Data](articles/ed8f5f7f.json)
 
 [Extended Data](ext_articles/ed8f5f7f.ext.json)
-
----
-
-### Detention orders issued on 11 suspects arrested with 65kg heroin
-
-*2024-01-21 22:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96605/detention-orders-issued-on-11-suspects-arrested-with-65kg-heroin) · `en`
-
-The Fort Magistrate’s Court has issued detention orders on the 11 suspects apprehended by the Sri Lanka Navy in two trawlers while in the possession of 65 kilograms of heroin off the Southern coast.
-
-Accordingly, the court granted permission for the suspects to be detained for 07 days by the Police Narcotics Bureau (PNB) for further interrogation.
-
-The Sri Lanka Navy seized a local multi-day fishing trawler carrying over 65kg of heroin, and another multi-day fishing trawler suspected of assisting it, during a special operation carried out about 100 nautical miles off the Dondra Head, in southern waters on Saturday (20). The operation also led to the apprehension of 11 suspects in connection to the smuggling racket.
-
-...
-
-[Data](articles/4b7b53ed.json)
-
-[Extended Data](ext_articles/4b7b53ed.ext.json)
 
 ---

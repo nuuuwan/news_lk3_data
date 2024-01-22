@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 01:33:01**
+As of **2024-01-23 01:51:11**
 
 ## Newspaper Stats
 
@@ -1594,6 +1594,20 @@ We had a similar division of opinion during the Aragalaya. Opinion remains divid
 
 ---
 
+### A bleak forecast for 2024 and beyond : Politics (security), economics and military
+
+*2024-01-22 16:48:00* · [`islandlk`](http://island.lk/a-bleak-forecast-for-2024-and-beyondpolitics-security-economics-and-military/) · `en`
+
+This piece uses the vast amount of information on the web, social-media, broadcasts and news sites. My role is to use what limited intelligence providence has endowed me with to select and filter. I hope this will be of service to readers who do not have the patience to explore all the available information themselves. Nations are fretful above all else of existential concerns, that is politics in the sense of security, not politics in the familiar but vulgar sense of endemic corruption. Once existence is assured the second matter to focus on is material well-being; prosperity, employment, wealth and so on broadly falling under the umbrella term ‘the economy’. My accent in this piece is on the Great Powers (America, China and Russia) though discussion of the Middle East (the Muslim World and Israel) is unavoidable.
+
+...
+
+[Data](articles/7e2d0222.json)
+
+[Extended Data](ext_articles/7e2d0222.ext.json)
+
+---
+
 ### Minister Kanchana slammed over ‘mud-slinging’ campaign targeting CEB staff
 
 *2024-01-22 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96626/minister-kanchana-slammed-over-mud-slinging-campaign-targeting-ceb-staff) · `en`
@@ -1965,29 +1979,5 @@ The Minister also said that this vocational program is being implemented in 299 
 [Data](articles/b0142ef4.json)
 
 [Extended Data](ext_articles/b0142ef4.ext.json)
-
----
-
-### Indian Prime Minister Opens Indian PM
-
-*2024-01-22 14:51:15* · [`adalk`](https://www.ada.lk/religion/ලෝකයේම-අවධානය-දිනාගත්-මතභේදාත්මක-‌කෝවිල-ඉන්දීය-අගමැති-විවෘත-කරයි/4-407667) · `si`
-
-Indian Prime Minister Narendra Modi opened the controversial temple built in India for Ram Hindu. The temple was built after a mosque was removed.
-
-The Kovil has been built after the replacement of a 16th century mosque that was destroyed during the Hindu Kolonry. About 2,000 people died in this riots.
-
-The Indian Prime Minister opened the Kovil today as the world's leading news service today because it was a demonstrated incident.
-
-Thousands attended leading cinema stars and cricketers in the event of the event.
-
-However, some Hinduism and many opponents were trying to boycott the event to take political gain from this practice.
-
-The general election of India is to be held in the next few months. The Kovil has spent $ 217 million for the construction of the temple and the Kovil Trust Board says it was made in private donations.
-
-◼️
-
-[Data](articles/a11169af.json)
-
-[Extended Data](ext_articles/a11169af.ext.json)
 
 ---

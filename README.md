@@ -1,158 +1,60 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 17:17:07**
+As of **2024-01-22 16:32:52**
 
 ## Newspaper Stats
 
-*Scraped **1,822** Articles*
+*Scraped **1,811** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
-bbccomsinhala | 41
-adaderanasinhalalk | 98
-islandlk | 110
+bbccomsinhala | 40
+adaderanasinhalalk | 96
+islandlk | 108
 economynextcom | 113
-newsfirstlk | 114
+newsfirstlk | 113
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 183
-adalk | 191
+virakesarilk | 180
+adalk | 190
 dailymirrorlk | 214
 adaderanalk | 224
-tamilmirrorlk | 225
+tamilmirrorlk | 224
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,713 (94.0%) of 1,822 articles have been extended.
+1,690 (93.3%) of 1,811 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### Our Chamari is a perfect place from ICC
-
-*2024-01-22 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192436) · `si`
-
-The International Cricket Council, the team, has been named cricketers of Twenty Twenty20.
-
-The leader of the team is noteworthy, the leader of the Sri Lankan team to the captain of the Sri Lankan team.
-
-◼️
-
-[Data](articles/6dc101c5.json)
-
-[Extended Data](ext_articles/6dc101c5.ext.json)
-
----
-
-### மேற்குலக நாடுகளிடமிருந்து  அழுத்தங்களை எதிர்கொள்கின்ற போதிலும் உக்ரைன் விவகாரத்தில் இலங்கை நடுநிலைமையை பேணவேண்டும்-ரஸ்ய தூதுவர்
-
-*2024-01-22 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174539) · `ta`
-
-மேற்குலக நாடுகளிடமிருந்து இலங்கை அழுத்தங்களை எதிர்கொள்கின்ற போதிலும் உக்ரைன் விடயத்தில் தொடர்ந்தும் இலங்கை நடுநிலைமையை பேணவேண்டும் என ரஸ்யா எதிர்பார்ப்பு வெளியிட்டுள்ளது
-
-கேள்வி - பாதுகாப்பு ஒத்துழைப்பு என்பது உக்ரைன் ரஸ்ய மோதல் இடம்பெறும் சூழமைவில் மேற்கு ஆசியாவில் நெருக்கடி காணப்படும் சூழமைவில்  முன்வைக்கப்படுகின்றது  ஆகவே இலங்கையுடன் எந்தவகையான பாதுகாப்பு ஒத்துழைப்பை பேணுவவதற்கு  ரஸ்யா விரும்புகின்றது?
-
-முதலில் நான் ஒன்றை தெரிவிக்க விரும்புகின்றேன் எங்களை பொறுத்தவரை இது ரஸ்ய உக்ரைன்  யுத்தம் இல்லை.இது ரஸ்யா ஆரம்பித்துள்ள விசேட நடவடிக்கை.
-
-மேற்குலக நாடுகள் ரஸ்யாவிற்கு தோல்வியை ஏற்படுத்த விரும்புகின்றன மூலோபாய தோல்வியை ஏற்படுத்த முயல்கின்றன,
-
-பதில் - ஆம் இராணுவத்தினருக்கு என தெரிவிக்கலாம், மாணவர்களி;ற்கான கல்வி குறித்து நாங்கள் ஆராய்கின்றோம்  பொதுமக்களிற்கு மாத்திரமில்லை இராணுவத்தினருக்கும்.
-
-இலங்கையின் மூலோபாயரீதியில் முக்கியத்துவம் வாய்ந்த அமைவிடம் மிகவும் முக்கியமானது. மேலும் உக்ரைன் தொடர்பில் இலங்கையின் சமநிலையான நடுநிலையான நிலைப்பாட்டை நாங்கள் பாராட்டுகின்றோம்.
-
-...
-
-[Data](articles/a405cfa4.json)
-
----
-
-### Bauchy Todelwatte incident
-
-*2024-01-22 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192435) · `si`
-
-A video of a group of people attacking a youth in the Wellawatte area in Wellawatte is being attacked by the police.
-
-The following CCTV shows how the young man is near the road and a group of people attacking the site.
-
-Should not take immediate attention to the law enforcement authorities in this regard?
-
-◼️
-
-[Data](articles/5cc07cbd.json)
-
-[Extended Data](ext_articles/5cc07cbd.ext.json)
-
----
-
-### Drug Eradication Division Inquiry into Attorney -at -Law ASP
-
-*2024-01-22 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174534) · `ta`
-
-The Bribery Commission has launched a comprehensive investigation against a lawyer who tried to bribe an Assistant Superintendent of Police of the Drug Eradication Unit, which is being investigated against Ganemulla Sanjeeva, the leader of the underworld and a massive drug trafficker.
-
-The Bribery Commission has also received a telephone number on the attempt to bribe the Assistant Superintendent of Police of the Drug Eradication Unit.
-
-Meanwhile, a special police investigation has been carried out in this regard, according to police headquarters.
-
-◼️
-
-[Data](articles/e846b523.json)
-
-[Extended Data](ext_articles/e846b523.ext.json)
-
----
-
-### விவசாயிகளிடம் நெல் அளக்கும் தராசுகளில் மோசடி : அரிசி ஆலை உரிமையாளர் சங்கத் தலைவர் குற்றச்சாட்டு
-
-*2024-01-22 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174530) · `ta`
-
-வவுனியா மாவட்டத்தில் விவசாயிகளிடம் நெல் கொள்வனவு செய்ய வரும் வெளி மாவட்ட நெல் கொள்வனவாளர்கள் மற்றும் உள்ளூர் நெல் கொள்வனவாளர்கள் நிறுவை தராசுகளில் பாரிய மோசடி மேற்கொண்டு விவசாயிகளிடம் நெல்லை கொள்ளளவு செய்து வருவதாக வவுனியா மாவட்ட அரிசி ஆலை உரிமையாளர் சங்கத் தலைவர் சி. விவேகானந்தன் தெரிவித்தார்.
-
-தற்போது அறுவடை ஆரம்பித்து உள்ள நிலையில் விவசாயிகளிடம் நெல்லை கொள்வனவு செய்யவரும்  கொள்வனவாளர்கள்  நிறுவை தராசுகளில் மோசடி செய்து விவசாயிகளிடம் நெல்லை கொள்வனவு செய்கின்றனர்.
-
-தராசில் இருக்கும் மேல்பகுதியை மாற்றி வைப்பதன் ஊடாக இரண்டு மூடைகளில் சுமார் 15 கிலோ வீதம் விவசாயிகள் நட்டமடைவதற்கான வாய்ப்புகள் இருப்பதாக சுட்டிக் காட்டிய அவர் நியாயமாக கொள்வனவு செய்பவர்களை விட 100, 200 ரூபா பணம் அதிகமாக  கிடைக்கின்றது என்ற காரணத்தினால் விவசாயிகள் அவ்வாறான கொள்வனவாளர்களிடம்நெல்லை கொடுத்து பல ஆயிரம் ரூபா நட்டம் அடைந்து ஏமாறுவதாகவும் சுட்டிக்காட்டினார்.
-
-எனவே விவசாயிகள் நெல்லை விற்பனை செய்யும் போது மிகவும் அவதானமாக செயல்படுமாறும் அவர் கேட்டுள்ளார்.
-
-◼️
-
-[Data](articles/78be1cb8.json)
-
----
-
-### The mountain community looking for leaders within the parties ..!
+### கட்சிகளுக்குள் தலைவர்களைத் தேடும் மலையக சமூகம்..!
 
 *2024-01-22 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174528) · `ta`
 
-In the hill country, only the party leaders are just coming up. The union does not see people leaders who talk about labor rights. Two hundred years later, no solutions about labor issues can be found, and the government's votes have been put into a very weak position.
+மலையகத்தில் இப்போது கட்சித்தலைவர்கள் மாத்திரமே வலம் வந்து கொண்டிருக்கின்றனர். தொழிற்சங்க ரீதியாக தொழிலாளர் உரிமைகள் பற்றி பேசும் மக்கள் தலைவர்களை காணமுடிவதில்லை. இருநூறு வருடங்களை கடந்தும் இன்னும் தொழிலாளர் பிரச்சினைகளைப்பற்றிய எந்த தீர்வுகளையும் காண முடியாது அது பற்றி அரசாங்கத்திடம் பேச முடியாத நிலைமைகளில், இந்த மக்களின் வாக்குகளைப் பெற்றவர்கள் மிகவும் பலவீனமான நிலைக்குத் தள்ளப்பட்டு விட்டனர்.
 
-It is amazing that those who said that milk and honey will run in the hill country. People who spoke verses on stage in cinema style have gone a long way from people. Once the election is probably declared, people will come as usual. It is now guaranteed that these people are going to make a series of mistakes to welcome them.
-
-Labor Affairs is heading towards failure. In the negotiations, it has been revealed that more than a thousand rupees has not been complied with the company.. It is not possible even if some trade unions tried to keep the president in fear of meeting the companies directly. How are companies that do not listen to the president's work back to the trade unions that are not supportive of the people?
+மலையகத்தில் பாலும் தேனும் ஓடும் என்று கூறியவர்கள் நாட்டில் இருப்பதே அதிசயமாகவுள்ளது. சினிமா பாணியில் மேடைகளில் வசனங்களைப் பேசியவர்கள் மக்கள் மத்தியிலிருந்து நீண்ட தூரம் சென்று விட்டனர். அநேகமாக தேர்தல் என ஒன்று அறிவிக்கப்பட்டவுடன் வழக்கம் போன்று மக்களைத் தேடி வருவர். அவர்களை வரவேற்கும் தொடர்ச்சியான தவறுகளையே இந்த மக்கள் செய்யப்போகின்றனர் என்பதை இப்போதே உறுதியாக கூறி விடலாம்.
 
 ...
 
 [Data](articles/0fe07094.json)
 
-[Extended Data](ext_articles/0fe07094.ext.json)
-
 ---
 
-### Here is the 2023 Twenty Tup of Twenty ICC
+### ICCයේ 2023 විස්සයි විස්ස සංචිය මෙන්න
 
 *2024-01-22 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192434) · `si`
 
-The International Cricket Council has named the best players of the Twenty20 Grounds in 2023.
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් 2023 වසරේ විස්සයි විස්ස පිටියේ හොඳම දක්ෂතා දැක්වූ ක්‍රීඩකයින් ඇතුළත් කණ්ඩායම නම්කර තිබේ.
 
 ◼️
 
 [Data](articles/37357b38.json)
-
-[Extended Data](ext_articles/37357b38.ext.json)
 
 ---
 
@@ -174,63 +76,53 @@ Sri Lanka racked up record high inflation last year after its economy was pummel
 
 [Data](articles/a5ad39f5.json)
 
-[Extended Data](ext_articles/a5ad39f5.ext.json)
-
 ---
 
-### The new leader of the Sri Lankan Tamil state party Sreedharan has made a call to the Tamil National parties
+### இலங்கை தமிழ் அரசுக் கட்சியின் புதிய தலைவர் சிறீதரன் தமிழ் தேசிய கட்சிகளுக்கு விடுத்துள்ள அழைப்பு
 
 *2024-01-22 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174525) · `ta`
 
-The Tamil National Alliance (TNA) should be able to become the political monopoly of the Tamil National Alliance (TNA) as the Tamil National Alliance (TNA), so all the Tamil National Alliance (TNA) should unite the Tamil National Alliance (TNA) as a single Tamil National Alliance (TNA) to promote the welfare of the Tamil National Alliance (TNA) as the Tamil National Alliance (TNA).Sivagnanam Sreedharan has been elected as the chairman.
+2009 ஆண்டுக்கு முன்னர் இருந்த தமிழ்த் தேசியக் கூட்டமைப்பு எவ்வாறு இருந்ததோ அவ்வாறான நிலையை தமிழ் மக்களின் அரசியல் ஏகப்பிரதிநிதிகள் என்ற நிலையை தமிழ்த் தேசியக் கூட்டமைப்பு எய்த வேண்டும் எனவே தமிழ்த் தேசியத்தை நேசிக்கும் சகல தமிழ் கட்சிகளும் தம் காட்சிகளின் நலனை முன்னிறுத்தாமல் மக்கள் நலனை முன்னிறுத்தி தமிழ் தேசியத்தின் பாதையில் ஓரணியாக தமிழ் தேசியக் கூட்டமைப்பாக ஒன்றிணையுமாறு அழைக்கின்றேன் இவ்வாறு இலங்கை தமிழரசு கட்சியின் புதிய தலைவராக தெரிவு செய்யப்பட்டுள்ள சிவஞானம் சிறீதரன் தெரிவித்துள்ளார்.
 
-Sreedharan, who won the election for the new leader of the TNA in Trincomalee and became the new leader, called on the election and the Tamil National Party's future ride.
-
-My greatness is to strengthen Tamil nationalism. I have been selected as the leader of the TNA leadership. In this case, I think it is the first time I am to refuse the TNA and the Tamil National Alliance.
+திருகோணமலையில் இடம்பெற்ற தமிழரசுக் கட்சியின் புதிய தலைவருக்கான தேர்தலில் வெற்றிபெற்று புதிய தலைவராகத் தெரிந்தெடுக்கப்பட்ட சிறீதரன், இந்தத் தேர்தல் தொடர்பிலும் தமிழரசுக் கட்சியின் எதிர்காலப் பயணப்பாடு தொடர்பிலும் கருத்துத் தெரிவித்தபோதே இவ்வாறு அழைப்பு விடுத்துள்ளார்.
 
 ...
 
 [Data](articles/c1ba700b.json)
 
-[Extended Data](ext_articles/c1ba700b.ext.json)
-
 ---
 
-### Inflation up
+### උද්ධමනය ඉහළට
 
 *2024-01-22 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192433) · `si`
 
-The inflation in December 2023 has increased in December 2023, according to the National Customer Price Index.
+ජාතික පාරිභෝගික මිල දර්ශකය අනුව 2023 දෙසැම්බර් මාසයේදී මෙරට උද්ධමනය ඉහළගොස් ඇති බව ජනලේඛන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව පවසයි.
 
-Accordingly, in December 2023, inflation was 4.2 percent in December 2023.
+ඒ අනුව එම දර්ශකය අනුව 2023 වසරේ දෙසැම්බර් මාසයේදී උද්ධමනය සටහන් ව ඇත්තේ සියයට 4.2ක් ලෙසටය.
 
-In November 2023, inflation recorded 2.8 percent in November 2023 as per the National Customer Price Index.
+ජාතික පාරිභෝගික මිල දර්ශකය අනුව 2023 වසරේ නොවැම්බර් මාසයේදී උද්ධමනය සියයට 2.8ක් ලෙස සටහන් විය.
 
-Meanwhile, food inflation at -2.2 percent in November 2023 increased to 1.6 percent in December.
+මේ අතර 2023 වසරේ නොවැම්බර් මාසයේ සියයට -2.2ක් ලෙස පැවති ආහාර උද්ධමනය දෙසැම්බර් මාසයේදී සියයට 1.6ක් දක්වා ඉහළගොස් ඇත.
 
 ◼️
 
 [Data](articles/e1b5355f.json)
 
-[Extended Data](ext_articles/e1b5355f.ext.json)
-
 ---
 
-### Senior Lecturer in Peradeniya killed
+### පේරාදෙණියේ ජ්‍යේෂ්ඨ කථිකාචාර්යවරයෙකු මරුට
 
 *2024-01-22 15:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192432) · `si`
 
-The deceased is a senior lecturer at the Faculty of Lakrath Peiris, a 60 year old.
+මෙලෙස මියගොස් ඇත්තේ 60 හැවිරිදි වියේ පසුවූ ලක්නාත් පීරිස් නමැති කෘෂිකර්ම පීඨයේ ජ්‍යේෂ්ඨ කථිකාචාර්යවරයෙකි.
 
-The suspects are the death of a drug and insecticide by the insects.
+පොලීසිය සැකපළ කරන්නේ ඖෂධ අධිමාත්‍රාවක් සහ කෘමිනාශක ශරීරගතවීමෙන් එම මරණය සිදුව ඇති බවටය.
 
-He has lived in the residential house in the residential house in the Old Galawala Road, University of Sarasavi Uyana with his wife.
+ඔහු සිය බිරිඳ සමග පරණ ගලහ පාර සරසවි උයන ප්‍රදේශයේ පිහිටි නේවාසික නිවාසයේ වාසය කර ඇත.
 
 ◼️
 
 [Data](articles/371ba28d.json)
-
-[Extended Data](ext_articles/371ba28d.ext.json)
 
 ---
 
@@ -248,23 +140,19 @@ The deadline for online applications is midnight on February 15.
 
 [Data](articles/64864f79.json)
 
-[Extended Data](ext_articles/64864f79.ext.json)
-
 ---
 
-### A man's body recovered at the Fisheries Harbor in Trincomalee
+### திருகோணமலை கொட்பே மீன்பிடி துறைமுகத்தில் ஆணொருவரின் சடலம் மீட்பு
 
 *2024-01-22 15:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/174529) · `ta`
 
-Chinese police said that the body of an unidentified man has been found in the Trincomalee Fisheries Harbor.
+திருகோணமலை கொட்பே மீன்பிடி துறைமுகத்தில் அடையாளம் தெரியாத ஆணொருவரின் சடலம் கண்டுபிடிக்கப்பட்டுள்ளதாக சீனகுடா பொலிஸார் தெரிவித்தனர்.
 
-The body was found today (22) at 10.20 am. The Chinese police are conducting further investigations into the unidentified body.
+குறித்த சடலம் இன்று திங்கட்கிழமை (22) காலை 10.20 மணியளவில் கண்டுபிடிக்கப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. அடையாளம் காணப்படாத குறித்த சடலம் தொடர்பான மேலதிக விசாரணைகளை சீனக்குடா பொலிஸார் மேற்கொண்டு வருகின்றனர்.
 
 ◼️
 
 [Data](articles/93160e15.json)
-
-[Extended Data](ext_articles/93160e15.ext.json)
 
 ---
 
@@ -283,8 +171,6 @@ He further mentioned that more related information can be obtained from the Skil
 ◼️
 
 [Data](articles/4176ddb3.json)
-
-[Extended Data](ext_articles/4176ddb3.ext.json)
 
 ---
 
@@ -340,50 +226,6 @@ The Minister also said that this vocational program is being implemented in 299 
 
 ---
 
-### Indian Prime Minister Opens Indian PM
-
-*2024-01-22 14:51:15* · [`adalk`](https://www.ada.lk/religion/ලෝකයේම-අවධානය-දිනාගත්-මතභේදාත්මක-‌කෝවිල-ඉන්දීය-අගමැති-විවෘත-කරයි/4-407667) · `si`
-
-Indian Prime Minister Narendra Modi opened the controversial temple built in India for Ram Hindu. The temple was built after a mosque was removed.
-
-The Kovil has been built after the replacement of a 16th century mosque that was destroyed during the Hindu Kolonry. About 2,000 people died in this riots.
-
-The Indian Prime Minister opened the Kovil today as the world's leading news service today because it was a demonstrated incident.
-
-Thousands attended leading cinema stars and cricketers in the event of the event.
-
-However, some Hinduism and many opponents were trying to boycott the event to take political gain from this practice.
-
-The general election of India is to be held in the next few months. The Kovil has spent $ 217 million for the construction of the temple and the Kovil Trust Board says it was made in private donations.
-
-◼️
-
-[Data](articles/a11169af.json)
-
-[Extended Data](ext_articles/a11169af.ext.json)
-
----
-
-### BASL calls for independent probe into surge in killings by police
-
-*2024-01-22 14:50:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/basl-calls-for-independent-probe-into-surge-in-killings-by-police/) · `en`
-
-Colombo (News 1st) – The Bar Association of Sri Lanka (BASL) has called for an independent inquiry into the recent surge of fatalities involving police.
-
-The BASL statement comes in the wake of a member of the public being shot dead in Narammala last week by a police officer in civilian clothing.
-
-The BASL also criticised Minister of Public Security Tiran Alles, for stating that he would publish a list of persons who obstructed the ongoing Operation Yukthiya anti-narcotics program, which has drawn much criticism for its heavy-handed approach.
-
-"It is evident that these statements, among others, made by a government minister, are irresponsibly misleading and detrimental to the crucial role lawyers play in preserving public interest," the statement said.
-
-...
-
-[Data](articles/56b10332.json)
-
-[Extended Data](ext_articles/56b10332.ext.json)
-
----
-
 ### Providing vocational education at schooling students who end Advanced Level
 
 *2024-01-22 14:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192431) · `si`
@@ -424,27 +266,23 @@ The order was issued following a petition submitted by Sri Lanka Freedom Party (
 
 ---
 
-### The proposed anti -terrorism bill is dangerous to opposition parties and democracy - the United People's Power
+### உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலம் எதிர்கட்சிகளிற்கும் ஜனநாயகத்திற்கும் ஆபத்தானது - நீதிமன்றம் சென்றது ஐக்கிய மக்கள் சக்தி
 
 *2024-01-22 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174523) · `ta`
 
-The United People's Power has filed a petition against the government's proposed anti -terrorism bill.
+அரசாங்கத்தின் உத்தேச பயங்கரவாத  எதிர்ப்பு சட்டமூலத்திற்கு எதிராக ஐக்கிய மக்கள் சக்தி மனுதாக்கல் செய்துள்ளது.
 
-United People's Power General Secretary Ranjithmathumapandara has filed a petition in the High Court today.
+இன்று உயர்நீதிமன்றத்தில் ஐக்கிய மக்கள் சக்தியின் பொதுச்செயலாளர் நாடாளுமன்ற உறுப்பினர் ரஞ்சித்மத்துமபண்டார மனுவை தாக்கல் செய்துள்ளார்.
 
-The proposed anti -terrorism bill is dangerous to the opposition parties and democracy.
+உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலம் எதிர்கட்சிகளிற்கும் ஜனநாயகத்திற்கும் ஆபத்தானது என அவர் தெரிவித்துள்ளார்.இந்த சட்டமூலத்தை நாட்டில் பயங்கரவாதம் நிலவாத ஒரு காலப்பகுதியில் தேர்தல் காலப்பகுதியில் சமர்ப்பித்துள்ளனர் என ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் தெரிவித்துள்ளார்.
 
-He said that the bill was not clearly defined as terrorism. No one could be arrested, he said.
+இந்த சட்டமூலம் பயங்கரவாதம் என்றால் என்னவென  தெளிவாக வரைவிலக்கணம் செய்யவில்லை ஆராயவில்லை எவரும் கைதுசெய்யப்படலாம் எனவும் அவர் தெரிவித்துள்ளார்.இந்த சட்டமூலத்தை நாட்டில் பயங்கரவாதம் நிலவாத ஒரு காலப்பகுதியில் தேர்தல் காலப்பகுதியில் சமர்ப்பித்துள்ளனர் என ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் தெரிவித்துள்ளார்.
 
-He said that the bill did not clearly define what terrorism was.
+இந்த சட்டமூலம் பயங்கரவாதம் என்றால் என்னவென  தெளிவாக வரைவிலக்கணம் செய்யவில்லை ஆராயவில்லை எவரும் கைதுசெய்யப்படலாம் எனவும் அவர் தெரிவித்துள்ளார்.
 
-He said that we have filed a petition in the courtroom and that we have filed a petition in the court.
-
-◼️
+...
 
 [Data](articles/27b06e4b.json)
-
-[Extended Data](ext_articles/27b06e4b.ext.json)
 
 ---
 
@@ -482,8 +320,6 @@ The Government Ayurvedic Practitioners' Trade Unions Collective staged a protest
 
 [Data](articles/52f9f682.json)
 
-[Extended Data](ext_articles/52f9f682.ext.json)
-
 ---
 
 ### O/L Notice of Applications
@@ -499,22 +335,6 @@ According to the announcement, applications will be filed only from January 23rd
 [Data](articles/09ce0e94.json)
 
 [Extended Data](ext_articles/09ce0e94.ext.json)
-
----
-
-### சா/த   விண்ணப்பத்தில்    கடும் கட்டுப்பாடு
-
-*2024-01-22 14:38:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சா-த-விண்ணப்பத்தில்-கடும்-கட்டுப்பாடு/175-331949) · `ta`
-
-கல்விப் பொதுத் தராதர சாதாரண பரீட்சைக்கான (2023(2024)) விண்ணப்பங்கள் பரீட்சை திணைக்களத்தால் கோரப்பட்டுள்ளன. ஜனவரி 23 ஆம் திகதி செவ்வாய்க்கிழமை முதல் பெப்ரவரி 15 நள்ளிரவு வரை மட்டும் இணையத்தின் ஊடாக மட்டுமே விண்ணப்பிக்க முடியுமென பரீட்சைகள் திணைக்களத்தின் ஆணையாளர் அமித் ஜயசுந்தர அறிவித்துள்ளார்.
-
-பாடசாலை பரீட்சார்த்திகள் பாடசாலை அதிபரின் ஊடாகவும், தனிப்பட்ட பரீட்சார்த்திகள்   தனிப்பட்ட ரீதியிலும் விண்ணப்பிக்க வேண்டும். தனிப்பட்ட பரீட்சார்த்திகள் அரச மற்றும் அரசாங்கத்தால் ஏற்றுக்கொள்ளப்பட்ட பாடசாலைகளில் இருந்து (விலகிய சான்றிதழை) கட்டாயமாக முன்வைக்கப்படவேண்டும் என்றும் அறிவுறுத்தப்பட்டுள்ளது.
-
-தனிப்பட்ட பரீட்சார்த்திகள் தேசிய அடையாள அட்டையை சமர்ப்பிப்பது கட்டாயமாக்கப்பட்டுள்ளது. 15 வயதுக்கும் குறைந்த தனிப்பட்ட பரீட்சார்த்திகள், சாதாரண தரப்பரீட்சைக்கு தோற்ற எதிர்பார்த்திருந்தால், விண்ணப்பம் செய்வதற்காக பரீட்சைகள் திணைக்களத்துக்கு சமூகமளிக்க வேண்டும் என்றும் ஆணையாளர் அறிவுறுத்தியுள்ளார்.
-
-...
-
-[Data](articles/1d7596c5.json)
 
 ---
 
@@ -1046,23 +866,17 @@ That mission had now become a recovery operation, CENTCOM said.
 
 ---
 
-### Shooting Beller?
+### බෙලි අත්තේ වෙඩි තැබීම වාඩුව ගැනීමක්?
 
 *2024-01-22 12:10:05* · [`adalk`](https://www.ada.lk/breaking_news/බෙලි-අත්තේ-වෙඩි-තැබීම-වාඩුව-ගැනීමක්-/11-407662) · `si`
 
-Beliatta Police said five persons were killed in a shooting near the Colombo expressway near the Beliatta highway.
+බෙලිඅත්ත කොළඹ අධිවේගී මාර්ගයේ පිටවීම අසල වෙළඳසැලක් අසල දී   අද උදෑසන පෙ.ව 08.35 පමණ සිදු වූ වෙඩිතැබීමකින් පුද්ගලයන් 05 දෙනෙකු මියගොස් ඇති බව බෙලිඅත්ත පොලීසිය පවසයි.
 
-A group of people who had come to a firearm have fled the firearm targeting five people who were traveling in a white Defender vehicle.. Four persons traveling in the Defender vehicle have died in the same location, police said.
+සුදු පැහැති  ඩිෆෙන්ඩර් රථයක ගමන් කරමින් සිටි පුද්ගලයන් 05 දෙනෙකු ඉලක්ක කරගනිමින් කොළ පැහැති කැබ් රථයකින් පැමිණි පිරිසක් ගිනි අවියකින් වෙඩිතබා පලා ගොස් ඇතිබව පොලීසිය කියයි. ඩිෆෙන්ඩර් රථයේ ගමන්ගත් පුද්ගලයන් 04 දෙනෙකු එම ස්ථානයේම මියගොස් තිබේ.අනෙක් පුද්ගලයා බෙලිඅත්ත රෝහලට ඇතුලත් කිරීමෙන් පසු මියගොස් ඇති බව බෙලිඅත්ත පොලීසිය පවසයි.
 
-The deceased has been identified by Kumara, a resident of Galabada, Induruwa, Galuaduwa, Galuadura, Galuadura, Galuadura, Galuaduwa, Galuaduwa, Galuadura, the age of 47, Rathgaligodawatta, Galuadura, the age of 31.A man named the older Madushanka age of 26, Gatekattttu, aged 34, Gatekatta, aged 34, Gatekattttu, a resident of Gatenawa Road, Kurunegala.Beliatta Police says that Kannangara Korales Champiya Jayathilake, a resident of Dematagoda, said.
-
-Beliatta Police suspect that the Buddhika Rajapakse of Kumara, Beharatha Ven and Bhirakanda, who is dead in the year 2018.Says.
-
-◼️
+...
 
 [Data](articles/ff5bc0a9.json)
-
-[Extended Data](ext_articles/ff5bc0a9.ext.json)
 
 ---
 
@@ -1862,27 +1676,23 @@ Police suspect that underworld criminal Kosgoda Sujee's gang has carried out the
 
 ---
 
-### Businessman asks for ransom saying Bharatha Lakshman's killer
+### භාරත ලක්ෂ්මන්ගේ ඝාතකයා බව කියමින් ව්‍යාපාරිකයෙකුගෙන් කප්පම් ඉල්ලලා
 
 *2024-01-22 09:56:07* · [`adalk`](https://www.ada.lk/breaking_news/භාරත-ලක්ෂ්මන්ගේ-ඝාතකයා-බව-කියමින්-ව්‍යාපාරිකයෙකුගෙන්-කප්පම්-ඉල්ලලා/11-407657) · `si`
 
-An investigation has been launched to arrest a person in the Mattegoda area claiming that he had a minister of MP Bharatha Lakshman Premachandra, Mattegoda Police said.
+තමන් හිටපු පාර්ලිමේන්තු මන්ත්‍රී භාරත ලක්ෂ්මන් ප්‍රේමචන්ද්‍ර මහතා ඝාතනය කළ " සුද්දා " නැමැත්තා බව පවසමින් මත්තේගොඩ ප්‍රදේශයේ ව්‍යාපාරිකයකුට දුරකථන ඇමතුමක් දී කප්පම් ඉල්ලූ බව පැවසෙන පුද්ගලයෙකු අත්අඩංගුවට ගැනීම සඳහා විමර්ශනයක් ආරම්භ කර ඇතැයි  මත්තේගොඩ පොලිසිය පවසයි .
 
-In the Mt.
+මීට අමතරව සිද්ධිය සම්බන්ධයෙන් ගල්කිස්ස කොට්ඨාශ භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරි මංගල දෙහිදෙණිය මහතාගේ උපදෙසින් ගල්කිස්ස කොට්ඨාස අපරාධ විමර්ශන අංශය මගින් ද (21) දා සිට වෙනම විමර්ශනයක් ආරම්භ කර තිබේ.
 
-The telephone call was received on the 20th and this investigation has commenced on a complaint.
+මෙම දුරකථන ඇමතුම ඉකුත් 20 දා ලැබී තිබූ අතර  ඒ සම්බන්ධයෙන් ලද පැමිණිල්ලකට අනුව මෙම විමර්ශනය ආරම්භ කර තිබේ.
 
-Call on the dealer's mobile, a dealer company in several main manufacturing institutions in the country,
+එදින දහවල්  මෙරට ප්‍රධාන පෙළේ නිෂ්පාදන ආයතන කිහිපයක අලෙවි නියෝජිතවරයෙකු වන පැමිණිලිකරුගේ ජංගම දුරකථනයට ඇමතුමක් ගෙන ,
 
-My name, my name, my name, my name, 'Suddha "you know that I have no one named Bists. You have two shops at Mattigegoda and Diyagama shops, right?
-
-Those who do business around Colombo treat me well. You have to treat me, right, it can start you like you. If you don't, you know, your mother will lose your family to the family. The complaint made by the police said, "Knowledge of Mattegoda Maha Street," said.
+මල්ලී මම හිටපු පාර්ලිමේන්තු මන්ත්‍රී භාරත ලක්ෂ්මන් ප්‍රේමචන්ද්‍ර මහතා මරපු කෙනා , මගෙ නම 'සුද්දා" ඔයා මාව දන්නවා ඇතිනේ, කොළඹ බිස්නස් කාරයෝ නම් මාව නොදන්න කෙනෙක් නෑ. ඔයාට මත්තෙගොඩ සහ දියගම වෙළඳ සැල් දෙකක් තියෙනවා නේද ?
 
 ...
 
 [Data](articles/9a0e6185.json)
-
-[Extended Data](ext_articles/9a0e6185.ext.json)
 
 ---
 
@@ -1960,8 +1770,6 @@ Among the victims is the leader of the Apey Janabala Pakshaya (Our People's Part
 
 News 1st correspondent said several people who were shot were outside a tea shop near the exit, and others were in the vehicle.
 
-BASL calls for independent probe into surge in killings by police
-
 Supreme Court to consider Fundamental Rights application by Cardinal Malcolm Ranjith
 
 BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
@@ -2017,5 +1825,153 @@ Police Media Spokesperson Senior Superintendent of Police Nihal Talduwa said tha
 [Data](articles/cc1f5ee9.json)
 
 [Extended Data](ext_articles/cc1f5ee9.ext.json)
+
+---
+
+### Five persons killed in shooting at Beliatta
+
+*2024-01-22 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96611/five-persons-killed-in-shooting-at-beliatta) · `en`
+
+The death toll from the shooting incident in the Beliatta area in Tangalle this morning (22) has climbed to five after one more person admitted to hospital with gunshot wounds had succumbed to injuries, a short while ago.
+
+Earlier, Police said that the shooting had been carried out by a group of unidentified gunmen in a vehicle and that they had opened fire at five persons traveling in a Defender.
+
+Four of the five persons in the Defender have been shot dead near the Beliatta exit of the Southern Expressway, police said, while the other was hospitalised in critical condition.
+
+The remains of the deceased have been placed at the Tangalle Base Hospital, Ada Derana reporter said.
+
+The shooting had taken place between 8.30 a.m. and 8.40 a.m. when a group of individuals who had arrived in a green colour double-cab opened fire on a Defender near the Beliatta interchange of the expressway.
+
+◼️
+
+[Data](articles/ff1f022b.json)
+
+[Extended Data](ext_articles/ff1f022b.ext.json)
+
+---
+
+### A rainy weather in many sides today
+
+*2024-01-22 09:42:53* · [`adalk`](https://www.ada.lk/breaking_news/අද-බොහෝ-පැතිවලට-වැසි-රහිත-කාලගුණයක්/11-407656) · `si`
+
+In the Western, Sabaragamuwa and Central provinces, the Western, Sabaragamuwa and Central provinces are available in the Western, Sabaragamuwa and Central provinces.. Showers and thundershowers will occur at several places in about 4.00 pm.
+
+The department states that the department is mainly due to the prevailing weather in other countries in the island.
+
+◼️
+
+[Data](articles/d7bdec23.json)
+
+[Extended Data](ext_articles/d7bdec23.ext.json)
+
+---
+
+### Delay in the coastal train service
+
+*2024-01-22 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174488) · `ta`
+
+The railway control room said the coastal train service was delayed due to the explosion on the rails.
+
+An explosion on the rails between Panadura and Ekoda Railway Stations on Monday morning (22).
+
+As a result, the railway control room further stated that there was a delay in the train service from Colombo to Galle.
+
+◼️
+
+[Data](articles/0c7c6db9.json)
+
+[Extended Data](ext_articles/0c7c6db9.ext.json)
+
+---
+
+### Important Discussion on Electricity Target Correction
+
+*2024-01-22 09:33:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்-கட்டண-திருத்தம்-குறித்து-முக்கிய-கலந்துரையாடல்/175-331936) · `ta`
+
+The Public Utilities Commission will meet today (22) to hold a discussion on the Electricity Tax Amendment.
+
+Recently, the Ceylon Electricity Board (CEB) has given the idea to the Public Utilities Commission on the idea.
+
+The proposal will be discussed and the final decision has been taken and the public will be included in the Commission.
+
+Then the proposal will be made public for 3 weeks. Thereafter a public consultation meeting will be held.
+
+After all the proposals, the new proposal will be issued to the Ceylon Electricity Board.. Remble
+
+◼️
+
+[Data](articles/3c2378d9.json)
+
+[Extended Data](ext_articles/3c2378d9.ext.json)
+
+---
+
+### Another shot in the South - five dead
+
+*2024-01-22 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192420) · `si`
+
+Five persons have died in a shooting in Beliatta, Tangalle, police said.
+
+There are 4 bodies of the incident and one of the body was placed at the Tangalle Hospital.
+
+It is reported that the shooting has been carried out by a group of people who were traveling with a green cab aimed at a white Defender vehicle between 8.30 am and 8.40 this morning.
+
+◼️
+
+[Data](articles/c80e7341.json)
+
+[Extended Data](ext_articles/c80e7341.ext.json)
+
+---
+
+### Another 910 arrested in Yukati
+
+*2024-01-22 09:29:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-910-பேர்-கைது/175-331935) · `ta`
+
+In the meantime, a further 910 suspects have been arrested within 24 hours of completion at 12.30 pm today (January 22).
+
+According to the Ministry of Public Security, 65 kilograms of heroin, 136 grams of ice and 254 drugs were seized.
+
+◼️
+
+[Data](articles/d1f1f7d0.json)
+
+[Extended Data](ext_articles/d1f1f7d0.ext.json)
+
+---
+
+### Ahlandlla, trapped in the illegal asset division
+
+*2024-01-22 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192419) · `si`
+
+A motorcycle and a lorry have been arrested in connection with illegal assets.
+
+The police media division states that officials of the illegal assets in the Investigation Division have raided the raid on a complaint by the Police Narcotics Bureau.
+
+Accordingly, a motorcycle obtained from illegally earned from the Welikanda area in Welikanda yesterday (21) and arrested with a lorry.
+
+◼️
+
+[Data](articles/aada31e8.json)
+
+[Extended Data](ext_articles/aada31e8.ext.json)
+
+---
+
+### Only in some places it rains
+
+*2024-01-22 09:11:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-மட்டும்-மழை-பெய்யும்/175-331934) · `ta`
+
+Rainfall is expected in the North Central, Eastern and Uva provinces.
+
+In some places in the Western and Sabaragamuwa Provinces, Galle and Matara districts. After 2.00 pm, there is a possibility of rain or thunderstorms.
+
+In the morning, in some places in the Western, Sabaragamuwa and Central Provinces and Galle and Matara districts, there is expected snowfall in the morning.. Remble
+
+◼️
+
+[Data](articles/3264ac37.json)
+
+[Extended Data](ext_articles/3264ac37.ext.json)
 
 ---

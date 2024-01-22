@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 13:17:02**
+As of **2024-01-22 13:02:28**
 
 ## Newspaper Stats
 
-*Scraped **1,757** Articles*
+*Scraped **1,756** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 39
-adaderanasinhalalk | 91
+adaderanasinhalalk | 90
 economynextcom | 108
 islandlk | 108
 newsfirstlk | 112
@@ -26,23 +26,11 @@ adaderanalk | 219
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,613 (91.8%) of 1,757 articles have been extended.
+1,608 (91.6%) of 1,756 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
-
-### කරාපිටියේ විශේෂඥ වෛද්‍යවරයාට ඇප
-
-*2024-01-22 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192429) · `si`
-
-කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකයේ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා ඇප මත මුදාහැර තිබේ.
-
-◼️
-
-[Data](articles/fef1b570.json)
-
----
 
 ### Ron DeSantis ends 2024 campaign, endorses Trump over Haley
 
@@ -313,6 +301,8 @@ The suspect has been handed over to the Kahathuduwa Police Station for further i
 ### Police to trace traffic offenders through CCTV system from today
 
 *2024-01-22 11:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96615/police-to-trace-traffic-offenders-through-cctv-system-from-today-) · `en`
+
+UPDATE:  The programme for the detection of traffic violations through the CCTV system established within the Colombo city was launched a short while ago by Public Security Minister Tiran Alles.
 
 A special programme through which traffic offenders in Colombo will be traced using a CCTV surveillance camera system is set to be implemented from today (22 Jan.), Sri Lanka Police stated.
 
@@ -802,13 +792,13 @@ Police Media Spokesperson Senior Superintendent of Police Nihal Talduwa said tha
 
 The death toll from the shooting incident in the Beliatta area in Tangalle this morning (22) has climbed to five after one more person admitted to hospital with gunshot wounds had succumbed to injuries, a short while ago.
 
-Earlier, Police said that the shooting had been carried out by a group of unidentified gunmen in a vehicle and that they had opened fire at four persons traveling in a Defender.
+Earlier, Police said that the shooting had been carried out by a group of unidentified gunmen in a vehicle and that they had opened fire at five persons traveling in a Defender.
 
-The four persons in the Defender have been shot dead near the Beliatta exit of the Southern Expressway, police said, adding that another person was hospitalised in critical condition.
+Four of the five persons in the Defender have been shot dead near the Beliatta exit of the Southern Expressway, police said, while the other was hospitalised in critical condition.
 
 The remains of the deceased have been placed at the Tangalle Base Hospital, Ada Derana reporter said.
 
-The shooting had taken place between 8.30 a.m. and 8.40 a.m. when a group of individuals who had arrived in a green colour double-cab opened fire on while Defender near the Beliatta interchange of the expressway.
+The shooting had taken place between 8.30 a.m. and 8.40 a.m. when a group of individuals who had arrived in a green colour double-cab opened fire on a Defender near the Beliatta interchange of the expressway.
 
 ◼️
 
@@ -1961,5 +1951,41 @@ In a separate engagement, Indian Minister of State for External Affairs, Mr. Shr
 [Data](articles/74655438.json)
 
 [Extended Data](ext_articles/74655438.ext.json)
+
+---
+
+### Sri Lanka won the first win in the Youth World Cup
+
+*2024-01-21 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192410) · `si`
+
+The Sri Lanka Youth team won the first match of the Under-19 World Cup match by 39 runs.
+
+Zimbabwe was interrupted the match between the innings of Zimbabwe's innings while chasing a target of 204 runs.
+
+Accordingly, according to the dick Lewis theory, they won 129 runs in 22 overs.
+
+However, the Sri Lanka Youth Group was bowled out for 89 runs for the loss of 21 overs.
+
+Talking of TT PShila, who was engaged in a bowling, took 4 wickets for 17 runs in 4 overs.
+
+Universal Lahiru and Ru සැස
+
+Batting first, Sri Lanka teenager scored 204 runs for the loss of 38 overs.
+
+The wild beaten won the winth, 60 runs in 55 balls with six sixes and six fours.
+
+Shanmuganatan scored 41 runs with 3 fours.
+
+In addition, Ravishan de Silva and the village scored 31 runs.
+
+Kohl Eksteen took 3 wickets and Newman Nyamhuri and matthewww scored 2 wickets each.
+
+Sri Lanka Youth Group scored 5 wickets for 13 runs.
+
+...
+
+[Data](articles/1fc37d66.json)
+
+[Extended Data](ext_articles/1fc37d66.ext.json)
 
 ---

@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 22:05:07**
+As of **2024-01-22 22:17:04**
 
 ## Newspaper Stats
 
-*Scraped **1,873** Articles*
+*Scraped **1,875** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 42
-adaderanasinhalalk | 105
+adaderanasinhalalk | 107
 islandlk | 110
 newsfirstlk | 116
 economynextcom | 116
@@ -26,11 +26,31 @@ adaderanalk | 233
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,873 (100.0%) of 1,873 articles have been extended.
+1,873 (99.9%) of 1,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### යුක්තිය මෙහෙයුම වහාම නවත්වන්න - මානව හිමිකම් කොමිසම
+
+*2024-01-22 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192445) · `si`
+
+දැනට ක්‍රියාත්මක වෙමින් පවතින යුක්තිය මෙහෙයුම වහාම තාවකාලිව අත්හිටුවා එය සමාලෝචනය කරන ලෙස එක්සත් ජාතීන්ගේ විශේෂඥන් පිරිසක් ඉල්ලා සිටී.
+
+ඔවුන් පවසන්නේ බලධාරීන් සෞඛ්‍ය සහ මානව හිමිකම් වැනි කරුණු සම්බන්ධයෙන් අවධානය යොමුකළ යුතු බවයි.
+
+GENEVA (22 January 2024) – UN experts* expressed alarm at the heavy security-driven approach of Sri Lanka’s drug response. They called on authorities to immediately suspend and review so-called Operation ‘Yukthiya’ and to focus on policies based on health and human rights.
+
+“Drug users have human rights,” the experts said. “They deserve to live a life with dignity without facing further discrimination and stigmatisation.”
+
+They deplored reported cases of arbitrary arrests of thousands of drug offenders from marginalised socio-economic groups, and the detention of hundreds in compulsory military-run rehabilitation centres. Torture and ill-treatment were also reported during the security operation known as ‘Yukthiya’.
+
+...
+
+[Data](articles/0da3ab73.json)
+
+---
 
 ### Measles vaccine already administered to 91% of children – Health Minister
 
@@ -47,6 +67,28 @@ However, tackling non-communicable diseases (NCDs) remains a major challenge. Ov
 [Data](articles/720f251c.json)
 
 [Extended Data](ext_articles/720f251c.ext.json)
+
+---
+
+### අයියාගේ කතුරු ප්‍රහාරයෙන් මල්ලී මරුට
+
+*2024-01-22 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192444) · `si`
+
+වැඩිමල් සොහොයුරා විසින් එල්ලකළ කතුරු ප්‍රහාරයකින් ඔහුගේ බාල සොහොයුරා මියගොස් තිබේ.
+
+සිද්ධියෙන් ඝාතනයට ලක්ව ඇත්තේ බොරැල්ල, සර්පන්ටයින් පාර ප්‍රදේශයේ පදිංචිව සිටි 55 හැවිරිදි පුද්ගලයෙකි.
+
+මරණකරු මත්පැන් පානය කරමින් සිටියදී සිය වැඩිමහල් සොහොයුරා සමඟ ඇති වූ බහින් බස් වීමත් දුරදිග යාමෙන් අනතුරුව සැකකාර වැඩිමල් සොහොයුරා  විසින් කතුරකින් මෙලෙස ඔහුගේ පපු ප්‍රදේශයට පහරදී තිබේ.
+
+කතුරු ප්‍රහාරයෙන් බරපතළ තුවාල ලද පුද්ගලයා කොළඹ ජාතික රෝහල වෙත ඇතුළත් කර ප්‍රතිකාර ලබමින් සිටියදී මියගොස් ඇත.
+
+මොවුන් දෙදෙනාම මත්ද්‍රව්‍ය සහ මත්පැන් පානය සඳහා ඇබ්බැහි වූවන් බවද පොලීසිය පවසයි.
+
+59 හැවිරිදි සැකකාර සොයුරා ඝාතනයට යොදා ගත් කතුරත් සමග පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇති අතර අධිකරණය වෙත ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+
+◼️
+
+[Data](articles/2220f678.json)
 
 ---
 
@@ -1973,43 +2015,5 @@ The Kumbabhishekam of the Rama Temple, which is built in Ayodhya. Various sector
 [Data](articles/066e85d9.json)
 
 [Extended Data](ext_articles/066e85d9.ext.json)
-
----
-
-### Social Web Site as the force that determines diplomacy beyond politics
-
-*2024-01-22 12:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/174477) · `ta`
-
-Is it possible to mortgage the lives of millions of people in the name of development for the desires of Indians who seek revenge on the Maldives?
-
-In the contemporary world where politics and diplomacy are determined by the basis for the ideas that are spread through social networks, these people cannot succeed.
-
-This is because Indians and the Maldives do not have the number of influential numbers and energy on social networks.
-
-It is imperative to see the problem of these people beyond the mirror of the Internet.
-
-◼️
-
-[Data](articles/2beb2ad6.json)
-
-[Extended Data](ext_articles/2beb2ad6.ext.json)
-
----
-
-### Is it a drama?MP question
-
-*2024-01-22 12:31:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-நடவடிக்கை-நாடகமா-எம்-பி-கேள்வி/175-331943) · `ta`
-
-United People's Power Parliamentarian Sujit Sanjaya Perera has accused the 'strategy of action' being carried out by the police across the country.
-
-He made this statement while commenting on it as five people, including a political party leader, were killed in Beliatta this morning.
-
-In response, the Inspector General of Police, Deshabandu Tennakoon has done his duties effectively in the past years, he said.
-
-◼️
-
-[Data](articles/ff3e4a03.json)
-
-[Extended Data](ext_articles/ff3e4a03.ext.json)
 
 ---

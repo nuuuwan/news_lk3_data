@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 12:49:53**
+As of **2024-01-22 13:17:02**
 
 ## Newspaper Stats
 
-*Scraped **1,755** Articles*
+*Scraped **1,757** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 39
-adaderanasinhalalk | 90
+adaderanasinhalalk | 91
 economynextcom | 108
 islandlk | 108
 newsfirstlk | 112
@@ -20,17 +20,45 @@ virakesarilk | 168
 adalk | 185
 dailymirrorlk | 202
 tamilmirrorlk | 216
-adaderanalk | 218
+adaderanalk | 219
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,608 (91.6%) of 1,755 articles have been extended.
+1,613 (91.8%) of 1,757 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### කරාපිටියේ විශේෂඥ වෛද්‍යවරයාට ඇප
+
+*2024-01-22 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192429) · `si`
+
+කරාපිටිය ශික්ෂණ රෝහලේ පිළිකා ඒකකයේ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය ක්‍රිෂාන්ත පෙරේරා මහතා ඇප මත මුදාහැර තිබේ.
+
+◼️
+
+[Data](articles/fef1b570.json)
+
+---
+
+### Ron DeSantis ends 2024 campaign, endorses Trump over Haley
+
+*2024-01-22 12:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96619/ron-desantis-ends-2024-campaign-endorses-trump-over-haley) · `en`
+
+Florida Governor Ron DeSantis ended his fading presidential campaign on Sunday and endorsed Donald Trump just two days before the pivotal New Hampshire primary, leaving former U.N. Ambassador Nikki Haley as Trump’s last long-shot challenger for the Republican nomination.
+
+DeSantis’ decision, less than a week after his deflating loss to Trump in Iowa despite an enormous investment there, caps a stunning fall from grace after DeSantis had been widely seen as Republicans’ most promising alternative to Trump ahead of the general election in November.
+
+His departure sets up the one-on-one battle that Haley has coveted against Trump, the former president who has maintained an iron grip on the Republican electorate despite facing four criminal prosecutions. Trump has pleaded not guilty in all the cases.
+
+...
+
+[Data](articles/f3c7db15.json)
+
+---
 
 ### Announcement on the calling for the O / L examination
 
@@ -1933,67 +1961,5 @@ In a separate engagement, Indian Minister of State for External Affairs, Mr. Shr
 [Data](articles/74655438.json)
 
 [Extended Data](ext_articles/74655438.ext.json)
-
----
-
-### Sri Lanka won the first win in the Youth World Cup
-
-*2024-01-21 22:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192410) · `si`
-
-The Sri Lanka Youth team won the first match of the Under-19 World Cup match by 39 runs.
-
-Zimbabwe was interrupted the match between the innings of Zimbabwe's innings while chasing a target of 204 runs.
-
-Accordingly, according to the dick Lewis theory, they won 129 runs in 22 overs.
-
-However, the Sri Lanka Youth Group was bowled out for 89 runs for the loss of 21 overs.
-
-Talking of TT PShila, who was engaged in a bowling, took 4 wickets for 17 runs in 4 overs.
-
-Universal Lahiru and Ru සැස
-
-Batting first, Sri Lanka teenager scored 204 runs for the loss of 38 overs.
-
-The wild beaten won the winth, 60 runs in 55 balls with six sixes and six fours.
-
-Shanmuganatan scored 41 runs with 3 fours.
-
-In addition, Ravishan de Silva and the village scored 31 runs.
-
-Kohl Eksteen took 3 wickets and Newman Nyamhuri and matthewww scored 2 wickets each.
-
-Sri Lanka Youth Group scored 5 wickets for 13 runs.
-
-...
-
-[Data](articles/1fc37d66.json)
-
-[Extended Data](ext_articles/1fc37d66.ext.json)
-
----
-
-### Opposition to fame factors
-
-*2024-01-21 22:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192409) · `si`
-
-A protest was organized in front of the Cancer Unit of the Karapitiya Teaching Hospital, claiming injustice to Mr. Dr. Krishantha Perera.
-
-There they showed that a doctor was a doctor who specializes in the Southern Province.
-
-Health Trade Unions were interrupted on the Cancer Unit on the Cancer Unit on the 16th and the Chief Guaranteed at the Karapitiya Teaching Hospital.
-
-The doctor arrested on charges of assaulting a junior staff worker is currently in remand custody.
-
-The doctor in remand custody is currently receiving treatment at the Karapitiya Hospital due to a heart attack.
-
-The doctor was admitted to a private hospital on the illicit situation, the doctor was admitted to the Karapitiya hospital for court orders.
-
-Meanwhile, Mr. Krishantha Perera has been frustrated due to the incidents and that he has decided to retire before the time.
-
-...
-
-[Data](articles/ed8f5f7f.json)
-
-[Extended Data](ext_articles/ed8f5f7f.ext.json)
 
 ---

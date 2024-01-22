@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 02:32:41**
+As of **2024-01-23 02:49:18**
 
 ## Newspaper Stats
 
@@ -26,43 +26,47 @@ adaderanalk | 235
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,910 (99.9%) of 1,912 articles have been extended.
+1,912 (100.0%) of 1,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### ’பாராளுமன்றத்தில் பாலியல் துன்புறுத்தல்கள் பொய்’
+### Sexual harassment in Parliament
 
 *2024-01-23 02:00:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-பாலியல்-துன்புறுத்தல்கள்-பொய்/175-331979) · `ta`
 
-பாராளுமன்றத்தில் பெண் ஊழியர்களுக்கும் ஒரு சில பெண் உறுப்பினர்களுக்கும் தொடர்ந்து பாலியல் துன்புறுத்தல்கள் இடம்பெற்று வருவதாகவும், அது தொடர்பில் உரிய விசாரணைகள் மற்றும் நடவடிக்கைகள் எடுக்கப்படுவதில்லை என்றும் வெளியாகும் தகவல்கள் முற்றிலும் பொய்யானவை என பாராளுமன்ற  செயலாளர் நாயகம் குஷானி ரோஹணதீர அறிவித்துள்ளார்.
+Secretary -General of Parliament Kushani Rohanadeera has announced that the reports that are being continued to be sexually harassed for female employees and a few female members in Parliament and that the reports are not being investigated.
 
-பாராளுமன்றத்தில் ஒழுக்க மீறல் சம்பவங்களின் போது, அது தொடர்பான விசாரணைகள்  சபாநாயகரின் வழிகாட்டுதலின் கீழ் மிகவும் பக்கச்சார்பற்ற முறையில் மேற்கொள்ளப்படுவதாகவும், விரைவான விசாரணைகளுக்கு சபாநாயகர் தனது அதிகபட்ச பங்களிப்பை வழங்குவதாகவும், எந்த விதத்திலும் அதில் தலையிடுவதோ அல்லது செல்வாக்குச் செலுத்துவதோ இல்லை எனவும் குஷானி ரோஹணதீர வலியுறுத்தினார்.
+Kushani Rohanadheera stressed that during the moral violations in Parliament, the inquiries were carried out under the guidance of the Speaker, and that the Speaker would make his maximum contribution to the rapid inquiries, and that he would not interfere or influence it.
 
-இதற்கு முன்னர் ஒருசில பெண் ஊழியர்களுக்கு பாலியல் துன்புறுத்தல் மேற்கொள்ளப்பட்ட சம்பவமொன்று பதிவாகியிருந்தாலும், அது தொடர்பாக நியமிக்கப்பட்ட உள்ளகக் குழு மிகவும் பக்கச்சார்பற்ற விசாரணை நடத்தி அந்த விசாரணை அறிக்கை தற்போது தன்னிடம் ஒப்படைக்கப்பட்டுள்ளதாக செயலாளர் நாயகம் தெரிவித்தார்.
+The Secretary General said that although a few female employees had previously been reported to have been sexually harassed, the Inner Committee appointed to investigate the investigation into the matter.
 
 ...
 
 [Data](articles/b6fb6526.json)
 
+[Extended Data](ext_articles/b6fb6526.ext.json)
+
 ---
 
-### சுகாதாரத் துறையின் பணிகளுக்கு AI தேவை
+### AI is required for the tasks of the health department
 
 *2024-01-23 01:56:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதாரத்-துறையின்-பணிகளுக்கு-AI-தேவை/175-331978) · `ta`
 
-இலங்கை சுகாதாரத் துறையின் பணிகளுக்கு செயற்கை நுண்ணறிவை (Artificial intelligence - AI)  பயன்படுத்த வேண்டிய தேவை எழுந்துள்ளதாக கொழும்பு பல்கலைக்கழகத்தின் பேராசிரியர் இந்திக கருணாதிலக்க தெரிவித்துள்ளார்.
+Professor Indika Karunathilaka, Professor of Colombo University, said that there is a need to use artificial intelligence (AI) for the work of the Sri Lanka Health Department.
 
-அதன்படி, செயற்கை நுண்ணறிவின் பயன்பாடு மருத்துவக் கல்வியின் தரத்தை மேம்படுத்த உதவும் என்றும் அவர் சுட்டிக்காட்டியுள்ளார்.
+Accordingly, the use of artificial intelligence will help improve the quality of medical education.
 
-செயற்கை நுண்ணறிவு இப்போது நிஜமாகியுள்ளது. அதை புறக்கணிக்க முடியாது. செயற்கை நுண்ணறிவு சுகாதார துறை மற்றும் மருத்துவ கல்விக்கு பல நன்மைகளை கொண்டுள்ளது. மருத்துவத்தின் தரத்தை அதிகரிக்க, சுகாதார சேவைகளின் செயல்திறன் மற்றும் தரத்தை அதிகரிக்க, தகவல் தொழில்நுட்பத்தின் வளர்ச்சியுடன் தகவல்களின் அளவு மிக வேகமாக அதிகரித்துள்ளது என்றார்.
+Artificial intelligence is now real. It cannot be ignored. Artificial Intelligence has many benefits to the Department of Health and Medical Education. He said the amount of information has increased rapidly with the growth of information technology, to increase the quality of medicine, to increase the performance and quality of the health services.
 
-உலகில் உள்ள அனைத்து தகவல்களையும் பற்றிய அறிவைப் பெறுவது ஒரு தனி நபருக்கு கடினமாக உள்ளது. அத்தகைய சூழ்நிலையில் செயற்கை நுண்ணறிவு மிகவும் பயனுள்ளதாக இருக்கும். இலங்கையில் சுகாதார சேவைகள் மற்றும் அது தொடர்பான சேவைகளில் பயன்படுத்துவதற்கு செயற்கை நுண்ணறிவை அறிமுகப்படுத்துவதற்கான திட்டம் தயாரிக்கப்பட்டுள்ளது என்றார்.
+Getting knowledge of all the information in the world is difficult for an individual. Artificial intelligence is more effective in such a situation. He said the plans to introduce artificial intelligence have been prepared for the use of health services and related services in Sri Lanka.
 
 ...
 
 [Data](articles/5156f488.json)
+
+[Extended Data](ext_articles/5156f488.ext.json)
 
 ---
 

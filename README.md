@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 11:17:11**
+As of **2024-01-22 11:02:54**
 
 ## Newspaper Stats
 
-*Scraped **1,731** Articles*
+*Scraped **1,717** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,100 +13,24 @@ bbccomsinhala | 39
 adaderanasinhalalk | 82
 economynextcom | 104
 islandlk | 108
-newsfirstlk | 112
+newsfirstlk | 109
 dbsjeyarajcom | 121
 dailyftlk | 159
 virakesarilk | 161
-adalk | 184
-dailymirrorlk | 201
-adaderanalk | 215
-tamilmirrorlk | 216
+adalk | 183
+dailymirrorlk | 197
+adaderanalk | 211
+tamilmirrorlk | 214
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,560 (90.1%) of 1,731 articles have been extended.
+1,554 (90.5%) of 1,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
-
-### PUCSL to discuss proposed electricity tariff revision today
-
-*2024-01-22 10:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/96614/pucsl-to-discuss-proposed-electricity-tariff-revision-today-) · `en`
-
-The Public Utilities Commission of Sri Lanka (PUCSL) is slated to meet today (22 Jan.), and reach a final decision pertaining to the revised electric tariffs proposed by the Ceylon Electricity Board (CEB).
-
-Upon reaching the relevant decision, the proposal and the PUCSL’s decision will be made public for a three-week period.
-
-The PUCSL will then modify the proposal based on public feedback and is expected to submit the final tariff revision to the CEB.
-
-◼️
-
-[Data](articles/4d9d0893.json)
-
----
-
-### துப்பாக்கிச் சூட்டில் அரசியல் கட்சியொன்றின் தலைவரும் பலி
-
-*2024-01-22 10:34:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துப்பாக்கிச்-சூட்டில்-அரசியல்-கட்சியொன்றின்-தலைவரும்-பலி/175-331939) · `ta`
-
-தெற்கு அதிவேக நெடுஞ்சாலையில் பெலியத்த பகுதியில் இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஐந்து பேர் உயிரிழந்தனர்.
-
-அவர்களில், 'எங்கள் மக்கள் கட்சி' என்ற அரசியல் கட்சியின் தலைவர் சமன் பெரேராவும் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
-
-பாதாள உலக குழுக்களுக்கு இடையில் நிலவிய நீண்டகால பகையே துப்பாக்கிச் சூட்டிற்கு காரணமாக இருக்கலாமென பொலிஸார் சந்தேகம் வெளியிட்டுள்ளனர்.
-
-டிபெண்டர் ரக வாகனமொன்றில் பயணித்தவர்களை இலக்கு வைத்து கெப்ரக வாகனமொன்றில் பிரவேசித்தவர்கள் இந்த துப்பாக்கிப் பிரயோகத்தை நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸ் ஊடக பேச்சாளர் நிஹால் தல்துவ தெரிவித்தார்..
-
-அத்துடன், துப்பாக்கிச் சூட்டில் காயமடைந்த மற்றுமொருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும் பொலிஸ் பேச்சாளர் நிஹால் தல்துவ கூறினார்.
-
-◼️
-
-[Data](articles/543cb621.json)
-
----
-
-### ‘Ape Jana Bala Pakshaya’ leader among 5 killed in Beliatta shooting
-
-*2024-01-22 10:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96613/ape-jana-bala-pakshaya-leader-among-5-killed-in-beliatta-shooting) · `en`
-
-Leader of the ‘Ape Jana Bala Pakshaya’ (Our Power of People Party or OPPP), Saman Perera, was confirmed to be amongst those killed in the shooting incident reported in Beliatta, Tangalle earlier this morning (22 Jan.).
-
-A shooting incident was reported between 08:30 a.m. and 08:40 a.m. today, when a group of individuals who had arrived in a green colour double-cab had opened fire at a Defender near the Beliatta interchange of the Southern Expressway.
-
-Four persons were killed at the scene, while another person who was admitted to the Tangalle Hospital with gunshot wounds later succumbed to his injuries, bringing the death toll from the incident to five.
-
-◼️
-
-[Data](articles/6f4bf71e.json)
-
----
-
-### 47 buried in south-west China landslide
-
-*2024-01-22 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96612/47-buried-in-south-west-china-landslide) · `en`
-
-Forty-seven people were buried when a landslide struck a remote and mountainous part of south-western China on Monday (Jan 22), state media reported.
-
-The landslide took place at 5.51am local time in Zhenxiong County, Yunnan province, state news agency Xinhua reported, citing local authorities.
-
-State broadcaster CCTV said around 18 households were buried in the landslide, and that more than 200 people were “urgently evacuated” from the area.
-
-Authorities have launched an emergency response involving over 200 rescue workers as well as dozens of fire engines and other equipment, according to CCTV.
-
-Footage shared on social media by a local broadcaster showed emergency workers in orange jumpsuits and helmets forming ranks outside a fire station as snowflakes whirled through the air.
-
-Other images showed rescuers picking through towering piles of collapsed masonry in which a few personal belongings could be seen.
-
-Authorities did not immediately specify whether anyone had died in the landslide.
-
-...
-
-[Data](articles/cf62af1f.json)
-
----
 
 ### DEPnder firing in Beliyatta: 5 deaths
 
@@ -125,26 +49,6 @@ Police say the shooting was carried out by a group of people in another vehicle.
 [Data](articles/7f4ec535.json)
 
 [Extended Data](ext_articles/7f4ec535.ext.json)
-
----
-
-### Five killed in shooting in Beliatta
-
-*2024-01-22 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Five-killed-in-shooting-in-Beliatta/155-275481) · `en`
-
-Beliatta, Jan 22 (Daily Mirror) - Five killed after shooting incident in Beliatta
-
-At least five persons were killed in a shooting incident near the Beliatta interchange on the Southern Expressway.
-
-Four persons have reportedly lost their lives at the scene while another had died upon admission to hospital.
-
-The shooting had taken place today at around 7.45 am, when a group in a Prado type vehicle had opened fire at another group in a Defender jeep.
-
-Police suspect that underworld criminal Kosgoda Sujee's gang has carried out the shooting.
-
-◼️
-
-[Data](articles/8d112752.json)
 
 ---
 
@@ -173,46 +77,6 @@ Some people standing in front of a shop have been shot dead.
 [Data](articles/7da4c407.json)
 
 [Extended Data](ext_articles/7da4c407.ext.json)
-
----
-
-### தங்காலை துப்பாக்கிச் சூட்டில் ஐவர் மரணம்
-
-*2024-01-22 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தங்காலை-துப்பாக்கிச்-சூட்டில்-ஐவர்-மரணம்/150-331937) · `ta`
-
-மேலும், டிபென்டரில் பயணித்த குழுவினர் மீது நடத்தப்பட்ட துப்பாக்கிச் சூட்டிலேயே 5 பேர் உயிரிழந்துள்ளதாக உறுதிப்படுத்தப்படாத தகவல்கள் தெரிவிக்கின்றன.
-
-கடை ஒன்றின் முன் நின்றிருந்த சிலர் மீதே துப்பாக்கிச் சூடு நடத்தப்பட்டதாக தெரிய வந்துள்ளது.R
-
-◼️
-
-[Data](articles/9092ccb5.json)
-
----
-
-### BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
-
-*2024-01-22 09:46:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/breaking-five-people-shot-dead-near-beliatta-exit-of-southern-expressway/) · `en`
-
-Colombo (News 1st) – Five people were shot dead near the Beliatta Exit of the Southern Expressway on Monday morning (22nd), police said.
-
-Four people died immediately, and a fifth succumbed shortly afterward.
-
-Among the victims is the leader of the Apey Janabala Pakshaya (Our People's Party) Saman Perera, who was a businessman cum politician, police said. The group had arrived in a white Land Rover Defender when the shooting took place.
-
-News 1st correspondent said several people who were shot were outside a tea shop near the exit, and others were in the vehicle.
-
-BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
-
-Special dengue control program in Colombo, Gampaha, Jaffna and Kandy districts throughout the year
-
-CCTV camera system to identify traffic violations to commence today
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-◼️
-
-[Data](articles/58eec3ec.json)
 
 ---
 
@@ -255,40 +119,6 @@ Police Media Spokesperson Senior Superintendent of Police Nihal Talduwa said tha
 [Data](articles/cc1f5ee9.json)
 
 [Extended Data](ext_articles/cc1f5ee9.ext.json)
-
----
-
-### Five persons killed in shooting at Beliatta
-
-*2024-01-22 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96611/five-persons-killed-in-shooting-at-beliatta) · `en`
-
-The death toll from the shooting incident in the Beliatta area in Tangalle this morning (22) has climbed to five after one more person admitted to hospital with gunshot wounds had succumbed to injuries, a short while ago.
-
-Earlier, Police said that the shooting had been carried out by a group of unidentified gunmen in a vehicle and that they had opened fire at four persons traveling in a Defender.
-
-The four persons in the Defender have been shot dead near the Beliatta exit of the Southern Expressway, police said, adding that another person was hospitalised in critical condition.
-
-The remains of the deceased have been placed at the Tangalle Base Hospital, Ada Derana reporter said.
-
-The shooting had taken place between 8.30 a.m. and 8.40 a.m. when a group of individuals who had arrived in a green colour double-cab opened fire on while Defender near the Beliatta interchange of the expressway.
-
-◼️
-
-[Data](articles/ff1f022b.json)
-
----
-
-### අද බොහෝ පැතිවලට වැසි රහිත කාලගුණයක්
-
-*2024-01-22 09:42:53* · [`adalk`](https://www.ada.lk/breaking_news/අද-බොහෝ-පැතිවලට-වැසි-රහිත-කාලගුණයක්/11-407656) · `si`
-
-නැහෙනහිර හා ඌව පළාත්වල වැසි ස්වල්පයක් ඇතිවිය හැකි බවත් බස්නාහිර, සබරගමුව හා මධ්‍යම පළාත්වලත් ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ප.ව. 4.00 න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගිරුම් සහිත වැසි ඇතිවිය හැකි බවත් කාලගුණ විද්‍යා දෙපාර්තමේන්තුව  පවසයි.
-
-දිවයිනේ සෙසු ප්‍ර දේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතින බවද එම දෙපාර්තමේන්තුව අද පෙරවරුවේ නිකුත් කළ නිවේදනයක දැක්වෙයි.
-
-◼️
-
-[Data](articles/d7bdec23.json)
 
 ---
 
@@ -434,60 +264,6 @@ The Ministry further stated that 65 grams of heroin, 136 kg of ice and 254 drugs
 
 ---
 
-### Special dengue control program in Colombo, Gampaha, Jaffna and Kandy districts throughout the year
-
-*2024-01-22 08:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/special-dengue-control-program-in-colombo-gampaha-jaffna-and-kandy-districts-throughout-the-year/) · `en`
-
-COLOMBO (News 1st); The National Dengue Control Unit says that it has planned to implement a special dengue control program throughout the year in the districts of Colombo, Gampaha, Jaffna, and Kandy.
-
-Its director, Dr. Sudath Samaraweera says the measure was taken due to the high percentage of dengue cases reported in these districts.
-
-He added that a special dengue control program is currently underway in Jaffna.
-
-BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
-
-Special dengue control program in Colombo, Gampaha, Jaffna and Kandy districts throughout the year
-
-CCTV camera system to identify traffic violations to commence today
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-◼️
-
-[Data](articles/05faba21.json)
-
----
-
-### Residents warned of fraudulent calls
-
-*2024-01-22 08:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Residents-warned-of-fraudulent-calls/108-275465) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - An organized gang has been operating in various areas of the country, defrauding people by making telephone calls and posing as police officers, attempting to extort money, the police said yesterday.
-
-Police Spokesman SSP Nihal Thalduwa said that numerous complaints had been received to various police stations regarding calls made to residents where the callers falsely claim to be police officials seeking money.
-
-...
-
-[Data](articles/2c008b06.json)
-
----
-
-### Rein of fire
-
-*2024-01-22 08:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Rein-of-fire/110-275464) · `en`
-
-Horses have once again been made to leap and hurtle through fire by human beings as part of an annual religious festival in the name of Spain's patron saint of animals.
-
-Horses and riders were seen charging through flames several feet high in the streets of Vilanova D'Alcolea, in Castellon, eastern Spain, as part of an annual festival celebrating Saint Antoni.
-
-The saint, canonised more than 790 years ago, is well-loved in Spain, and days-long festivals are held the country in his honour. (Daily Mail)
-
-◼️
-
-[Data](articles/7479c2ce.json)
-
----
-
 ### 910 more suspects arrested during operation ‘Yukthiya’
 
 *2024-01-22 08:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96610/910-more-suspects-arrested-during-operation-yukthiya) · `en`
@@ -515,28 +291,6 @@ According to the Ministry of Public Security, 65kg of heroin, 136g of crystal me
 [Data](articles/ae14eeff.json)
 
 [Extended Data](ext_articles/ae14eeff.ext.json)
-
----
-
-### CCTV camera system to identify traffic violations to commence today
-
-*2024-01-22 08:29:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/cctv-camera-system-to-identify-traffic-violations-to-commence-today/) · `en`
-
-COLOMBO (News 1st); The program to identify drivers who violate traffic rules through the CCTV camera system installed in Colombo will begin today.
-
-Police Spokesperson SSP Nihal Talduwa says fines for detected vehicle offenses will be directed to the local police station of the vehicle owner's registered address.
-
-BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
-
-Special dengue control program in Colombo, Gampaha, Jaffna and Kandy districts throughout the year
-
-CCTV camera system to identify traffic violations to commence today
-
-Investigative report over controversial human immunoglobulin purchase handed to Attorney General
-
-◼️
-
-[Data](articles/ceffcec0.json)
 
 ---
 
@@ -669,26 +423,6 @@ However, due to the continuing fighting, Israeli Prime Minister Benjamin Netanya
 [Data](articles/3ab94719.json)
 
 [Extended Data](ext_articles/3ab94719.ext.json)
-
----
-
-### Yukthiya should aim to arrest major drug dealers: SF
-
-*2024-01-22 07:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukthiya-should-aim-to-arrest-major-drug-dealers-SF/108-275462) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - The Yukthiya operation should not be a drama but should be aimed at apprehending main drug dealers in the country, Field Marshal Sarath Fonseka said yesterday.
-
-Speaking to journalists Field Marshal Fonseka said there is no point in arresting hundreds of ordinary people without arresting main drug traffickers in Sri Lanka.
-
-"If major drug traffickers are not arrested under the Yukthiya Operation it will become another drama. Acting IGP Deshabandu Tennekoon will not be able to travel along the streets if he continues to make Yukthiya operation a drama," he added.
-
-He also stressed that Samagi Jana Balawegaya ( SJB) should go along the right track if it wants to win the hearts of the people.
-
-" SJB should scrutinize those whom it wants to accept to its fold rather than inviting those from other parties to join hands," he added.
-
-◼️
-
-[Data](articles/a99664d6.json)
 
 ---
 
@@ -1963,5 +1697,277 @@ She has fled the area and police investigations have been launched to arrest the
 [Data](articles/9b16a362.json)
 
 [Extended Data](ext_articles/9b16a362.ext.json)
+
+---
+
+### Ministry of Karapitiya
+
+*2024-01-21 19:06:11* · [`adalk`](https://www.ada.lk/breaking_news/කරාපිටිය-සිදුවීම-ගැන-අමාත්‍යාංශයෙන්-පරීක්ෂණයක්/11-407647) · `si`
+
+Director of the Ministry of Health has already begun an attempt to attack and assaulted the Karapitiya Teaching Hospital, Karapitiya Teaching Hospital.Puba Theater said.
+
+The Director of the Ministry of Health said that investigations were attended by the Ministry of Health at the Karapitiya Hospital and investigating these incidents.. The director of the hospital was the Director of the Health Services to investigate the disciplinary in connection with the two of these incidents.
+
+The director of the hospital says that the specialist surgeon has requested the necessary measures to retire.
+
+Meanwhile, the queue of perceived censorship cancer in the face of condolences of cancer is determined in the face of condolences to the Cancer Surgeons. Cancer patients say that this surgeon performs six surgeries a day and is a surgeon who is a large surgeon day and night.
+
+...
+
+[Data](articles/7417095f.json)
+
+[Extended Data](ext_articles/7417095f.ext.json)
+
+---
+
+### Here is where the inmate is in jail last
+
+*2024-01-21 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192403) · `si`
+
+Galle Prisons Officers have been arrested by the Galle Prison Officers who were fleeing from the clutches of prison officials.
+
+The inmate has been detained at the Matara Prison and has been deployed to work in Matara in Matara with another group of prisoners.
+
+The suspect had fled the grip of the prison officials and was first in Galle.
+
+He was arrested by the Galle Prisons Officers while the suspect was rise at Galle Railway Station.
+
+◼️
+
+[Data](articles/1fbe5442.json)
+
+[Extended Data](ext_articles/1fbe5442.ext.json)
+
+---
+
+### Controversial monk ‘Vishwa Buddha’ expelled from monkhood
+
+*2024-01-21 18:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96603/controversial-monk-vishwa-buddha-expelled-from-monkhood) · `en`
+
+Ven. Ratnapure Wimalabuddha, the controversial saffron-robbed monk claiming to be ‘Vishwa Buddha’, who was re-arrested by the Criminal Investigations Department (CID) over allegedly issuing statements demeaning Buddhism, has been expelled from the monkhood.
+
+This decision has been communicated to the Commissioner General of Buddhist Affairs by the Chief Prelate (Mahanayaka Thero) of Sri Lanka Ramanna Maha Nikaya, Most Venerable Makulewe Wimalabhidhana Thero.
+
+The Sangha Sabha Committee of Sri Lanka Ramanna Maha Nikaya has unanimously arrived at this decision on December 15, 2023.
+
+Accordingly, both the ‘Samanera’ and ‘Upasampada’ ordination documents of Ratnapure Wimalabuddha Thero will be invalidated along with the relevant decision.
+
+Furthermore, issuing a statement, Sri Lanka Ramanna Maha Nikaya has announced that the decision to expel the monk in question was taken in consideration of the immense damage and demeaning done to the Buddha Sasana by him.
+
+...
+
+[Data](articles/7fe6ac07.json)
+
+[Extended Data](ext_articles/7fe6ac07.ext.json)
+
+---
+
+### President emphasizes urgent need for global financial architecture reform
+
+*2024-01-21 18:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-emphasizes-urgent-need-for-global-financial-architecture-reform/108-275435) · `en`
+
+Uganda, Jan. 21 (Daily Mirror)- President Ranil Wickremesinghe, addressing the 3rd South Summit in Kampala, Uganda, emphasized the urgent need for global financial architecture reform,President's Media Division (PMD) said.
+
+In his statement, the President also pointed out that the contemporary international debt resolution architecture is more suited for a world where the Paris Club and London Club dominated global debt resolution. Currently the global debt and particularly debt in the developing world is dominated by international bond markets, and non-Paris Club lenders.
+
+The President lamented the diversion of financial resources to debt service, hindering spending on essential public services and human development, impacting Sustainable Development Goal (SDG) targets. He criticized the Common Framework for its inability to provide speedy debt resolution, causing delays in addressing recent sovereign debt distress in many G77 countries.
+
+...
+
+[Data](articles/ed4dd48f.json)
+
+[Extended Data](ext_articles/ed4dd48f.ext.json)
+
+---
+
+### Separation Of Powers, Rule Of Law, Corruption & SL Bankruptcy
+
+*2024-01-21 18:31:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/separation-of-powers-rule-of-law-corruption-sl-bankruptcy/) · `en`
+
+When late Queen Elizabeth II was in Sri Lanka during the time of late JR Jayewardene in late 1970’s, during her speech, she mentioned that the Rule of Law was fundamental to civilized living. While I am no admirer of the Royal family, I am a strong admirer of the British form of Democracy. It is clean.
+
+The rule of law is that everybody is equal under the law. While this is a simple statement, the meaning of it is gigantic for civilized living. Now how does a society ensure the concept of equal justice under the law? The simple answer is that by keeping the criminal justice system out of the control of those who manage the country.
+
+Here is where a smart constitution comes into play. A smart constitution will ensure that the executive or the members of the legislature cannot stick their fingers into the process of the law enforcement and the criminal justice system. This is easier said than done in SL and here is why.
+
+...
+
+[Data](articles/f8b74f27.json)
+
+[Extended Data](ext_articles/f8b74f27.ext.json)
+
+---
+
+### Ram Mandir At Babri Masjid Site: Death Of Secular Democracy & Rise Of Hindutva Fascism
+
+*2024-01-21 18:30:32* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/ram-mandir-at-babri-masjid-site-death-of-secular-democracy-rise-of-hindutva-fascism/) · `en`
+
+The ancient town of Ayodhya, in the north Indian state of Uttar Pradesh, has been known for its rich diversity of religious denominations, predominantly Hinduism and Islam. For centuries Hindus and Muslims lived in peace and harmony in this town where, in the year 1528, Mughal King Barber built a mosque, which later came to be known as Babri Masjid. Though there was no dispute of any kind for more than two centuries, controversy was sparked off when some Hindus started to claim that this mosque was built on the spot where the Hindu mythical deity Ram was born.
+
+The controversy resulted in the first religious violence almost three and half centuries later, in 1853. In view of the sensitive nature of the issue, six years later, in 1859, the British colonial rulers erected a fence to separate places of worship for Muslims and Hindus. Under this arrangement Muslims were allowed to use the inner court for their prayers while the outer court was allocated to Hindus.
+
+...
+
+[Data](articles/53e23b30.json)
+
+[Extended Data](ext_articles/53e23b30.ext.json)
+
+---
+
+### General Leader's decision on universal Buddha
+
+*2024-01-21 18:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192402) · `si`
+
+Ven.
+
+The Commissioner of Buddhist Affairs has informed the Commissioner of Buddhist Affairs by the General Manage of the Ramanna Nikaya.
+
+The decision was taken by the Commodum of the Ramanna Sect Sabha on the 15th of December.
+
+Accordingly, the Samanera Register of Wimalabuddi in Ratnapura will be invalid with the same decision.
+
+The statement further states that the depending on the huge harm to the Sasana, the hearing of the Jana Wimalabuddhi was selected from the Ramanna sect.
+
+◼️
+
+[Data](articles/2a77e6bc.json)
+
+[Extended Data](ext_articles/2a77e6bc.ext.json)
+
+---
+
+### G77+China summit: President emphasizes immediate reforms in global financial structure
+
+*2024-01-21 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96602/g77china-summit-president-emphasizes-immediate-reforms-in-global-financial-structure) · `en`
+
+President Ranil Wickremesinghe addressing the 3rd South Summit today (21) in Kampala, Uganda, highlighted the numerous challenges the world faces, such as conflicts, pandemic repercussions, climate disasters and financial market uncertainties. The President also emphasized the disproportionate impact on vulnerable G77 economies.
+
+In his statement, President Wickremesinghe stressed the urgency of reforming the global financial architecture.
+
+The President also pointed out that the contemporary international debt resolution architecture is more suited for a world where the Paris Club and London Club dominated global debt resolution. Currently the global debt and particularly debt in the developing world is dominated by international bond markets, and non-Paris Club lenders, the President’s Media Division (PMD) reported.
+
+...
+
+[Data](articles/915f71d7.json)
+
+[Extended Data](ext_articles/915f71d7.ext.json)
+
+---
+
+### "Tamilnadu Party Elections: The names of 13 people"
+
+*2024-01-21 17:44:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/தமிழரசு-கட்சி-தேர்தலில்-முறைக்கேடு-13-பேரின்-பெயர்கள்-நீக்கம்/73-331912) · `ta`
+
+The leader of the Sri Lanka Tamil National Alliance (TNA), including 13 people, who went to Trincomalee to vote in the election for the election for elections. Batticaloa District Women's Team Secretary Rajani Jayaprakas said that they have returned in disappointment.
+
+The election, which elects the new leader of the Sri Lankan Tamil state party, was held in Trincomalee on Sunday (21).
+
+About 350 people from 8 districts in Colombo and North and East, who have the party's membership, were eligible to vote and sent them to the voting.
+
+Accordingly, the names of 13 persons, including the name of the Women's Team Secretary, were cut down on the list of 50 people in the Batticaloa district.. We did not allow us to vote.
+
+He has not taken any action to learn to the district head. At the same time, he has voted for the party from Colombo, the party, the party or the district, the name of the Singaravel Florist who has no membership in the district.
+
+...
+
+[Data](articles/2c4831de.json)
+
+[Extended Data](ext_articles/2c4831de.ext.json)
+
+---
+
+### Where is the progress report of Muslim politicians?
+
+*2024-01-21 17:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174464) · `ta`
+
+Politicians are promoting every election that 'we will solve the problems of the Muslim community and give life to the community'. There is no account for the issues they listed, "We will solve the problem as a cure and solve this problem."
+
+Thus, they will forget what the promises made by the Muslim politicians on the election platforms are and how long the list is.. People will forget and forgive if the next election comes. But this is not a healthy course in a social politics.
+
+◼️
+
+[Data](articles/f6250700.json)
+
+[Extended Data](ext_articles/f6250700.ext.json)
+
+---
+
+### A motorcycle jumped into the river for fear of the police
+
+*2024-01-21 17:34:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பொலிஸுக்கு-பயந்து-ஆற்றுக்குள்-பாய்ந்த-மோட்டார்-சைக்கிள்/73-331911) · `ta`
+
+The incident took place on Sunday (21) on the river of Ottamavadi Bridge, which belongs to the Valaichenai police division.
+
+The bicycle lost control and fell into the Ottamavadi river when the motorcycle was speeding in fear that the motorcycle police would stop wearing a motorcycle without wearing a helmet.
+
+The injured person is being treated at the Valaichenai Resource Hospital and police are conducting investigations.
+
+◼️
+
+[Data](articles/ce895f55.json)
+
+[Extended Data](ext_articles/ce895f55.ext.json)
+
+---
+
+### Eastern Governor Senthil Thondaman congratulates the new leader of the Tamil National Party
+
+*2024-01-21 17:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/174473) · `ta`
+
+Sivagnanam Sridharan, the leader of the Eastern Province and President of the Ceylon Workers Congress, congratulated Sivagnanam Sridharan, who is elected as the leader of the Tamil National Party.
+
+Senthil Thondaman said, "I would like to win the rights of the Tamil people during your service during your service during your service, and the Tamil people should continue their work to continue their work," the Tamils in the North and East should not be able to grow further.
+
+◼️
+
+[Data](articles/99df4075.json)
+
+[Extended Data](ext_articles/99df4075.ext.json)
+
+---
+
+### 205 of Sri Lanka Youths
+
+*2024-01-21 17:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192401) · `si`
+
+Sri Lanka scored 48 overs and scored 204 runs for the loss of 38 overs.
+
+The wild beaten won the winth, 60 runs in 55 balls with six sixes and six fours.
+
+Shanmuganatan scored 41 runs with 3 fours.
+
+In addition, Ravishan de Silva and the village scored 31 runs.
+
+Kohl Eksteen took 3 wickets and Newman Nyamhuri and matthewww scored 2 wickets each.
+
+Sri Lanka Youth Group scored 5 wickets for 13 runs.
+
+But the Sri Lankan scoreboard has grown to 204 in connection with the formation of Kalupahana, Shanmuganathan and Ravishan and compilation.
+
+◼️
+
+[Data](articles/81608560.json)
+
+[Extended Data](ext_articles/81608560.ext.json)
+
+---
+
+### The leadership of the people's hunger should be elected without going under Western methods - Archbishop Malcolm Cardinal Ranjith
+
+*2024-01-21 17:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/174462) · `ta`
+
+We do not expect the election to get out of an agenda. This year is referred to as the year of election. Archbishop Malcolm Cardinal Ranjith Ranjit said that the leadership that can overcome the hunger of the people should be elected without going under Western systems.
+
+The Archbishop made this statement during a special ceremony held at St. John's Church on Sunday (21).
+
+We cannot be sipped from the problems found in Sri Lanka we are living today. Religious leadership is not the only thing that goes into the places of worship. The real leadership is to give a voice to the streets for people in the event of a grief.
+
+It is said that this year is the year for the election. We do not expect the election to get out of an agenda. Our need is to act with dedication to the country. It is useless to go behind the justifications that have become addicted to some justifications and rejected abroad.
+
+...
+
+[Data](articles/f1267128.json)
+
+[Extended Data](ext_articles/f1267128.ext.json)
 
 ---

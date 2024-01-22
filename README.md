@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 20:51:23**
+As of **2024-01-22 21:17:26**
 
 ## Newspaper Stats
 
-*Scraped **1,867** Articles*
+*Scraped **1,871** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 42
-adaderanasinhalalk | 104
+adaderanasinhalalk | 105
 islandlk | 110
 newsfirstlk | 116
 economynextcom | 116
 dbsjeyarajcom | 121
 dailyftlk | 159
 virakesarilk | 192
-adalk | 196
+adalk | 199
 dailymirrorlk | 220
 tamilmirrorlk | 231
 adaderanalk | 231
@@ -26,11 +26,47 @@ adaderanalk | 231
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,799 (96.4%) of 1,867 articles have been extended.
+1,823 (97.4%) of 1,871 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### පොඩි ණුවන්ගේ බිරි﻿ඳ රු. කෝටි තුනක වත්කම් සමග අත්අඩංගුවට
+
+*2024-01-22 20:45:59* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-ණුවන්ගේ-බිරි﻿ඳ-රු--කෝටි-තුනක-වත්කම්-සමග-අත්අඩංගුවට/11-407674) · `si`
+
+අහුංගල්ල ප්‍රදේශයේ මහා පරිමාණ මත්කුඩු ජාවාරම්කරුවෙකු වන "පොඩි නුවන්" නමැත්තා මත්කුඩු ජාවාරමෙන්  නීති විරෝධී ලෙස උපයාගත් මුදලින් මිලදී ගත් බව කියන රුපියල් කෝටි 3 ට ආසන්න වටිනා දේපල සමග ඔහුගේ බිරිඳ  නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය මගින් අත්අඩංගුවට ගනු ලැබ ඇත.
+
+අත්අඩංගුවට ගත් දේපළ අතර, රුපියල් කෝටි 11/ 2 ආසන්න වටිනා බහුදින යාත්‍රාවක්, අධි ශීතකරණ සහිත ලොරියක්, ජේ සී බී යන්ත්‍රයක් සහ යතුරුපැදියක් වන බව උසස් පොලිස් නිලධාරියෙක් පැවසීය.
+
+පොඩි නුවන් නමැත්තා මත්කුඩු ජාවාරම සම්බන්ධයෙන්  මීට වසරකට අධික කාලයකට පෙර අත්අඩංගුවට ගෙන රිමාන්ඩ් භාරයට පත් කර සිටින බවද එම නිලධාරියා කීය.
+
+සැකකරුගේ දේපළ සම්බන්ධයෙන් නීති විරෝධී වත්කම් විමර්ශන කොට්ඨාසය විසින් දීර්ඝ විමර්ශනක් පවත්වා ඉකුත් 20දා පස්වරුවේ මෙම දේපල පොලිස් භාරයට ගෙන ඇත.සිද්ධිය සම්බන්ධයෙන් සැකකරුගේ බිරිඳ වන කාන්තාවක්ද අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.සැකකාරිය බලපිටිය මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතව තිබුණි.
+
+◼️
+
+[Data](articles/e2152af0.json)
+
+---
+
+### කටුනායක අධිවේගී මාර්ගයේ වාහන 5ක් අනතුරට ලක්වෙයි
+
+*2024-01-22 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192443) · `si`
+
+කටුනායක අධිවේගී මාර්ගයේ පෑලියගොඩ අන්තර් හුවමාරුවේදී වාහන කිහිපයක් එකිනෙක ගැටීමෙන් අනතුරක් සිදුව තිබේ.
+
+කටුනායක දෙස සිටි පැමිණි රථවාහන 4ක් මුදල් ගෙවන කවුන්ටරය අසළ පෝලිමේ තිබියදී පසුපසින් පැමිණි කැබ් රථයක් එම මෝටර් රථවල ගැටීමෙන් මෙම අනතුර සිදුව තිබුණි.
+
+අනතුරින් කිසිවෙකුටත් තුවාල සිදුව නොමැති අතර මෝටර් රථවලට දැඩි අලාභහානි සිදුව තිබුණි.
+
+පසුපසින් පැමිණි කැබ් රථයේ රියදුරුට එම රථය පාලනය කරගැනීමට නොහැකිවීම හේතුවෙන් මෙම අනතුර සිදුවන්නට ඇති බවට පොලීසිය සැකපළකරයි.
+
+◼️
+
+[Data](articles/e5c0a8f5.json)
+
+---
 
 ### Senior lecturer sudden death
 
@@ -116,23 +152,27 @@ Police said they could make a firm statement on the cause of the death after the
 
 ---
 
-### தயக்கமின்றி இராஜிநாமா கடிதங்களை ஏற்றுக் கொள்ளுங்கள் - மின்சாரசபை நிர்வாகத்துக்கு அமைச்சர் உத்தரவு
+### Accept the resignation letters without hesitation - Minister of Electricity Board
 
 *2024-01-22 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174561) · `ta`
 
-இலங்கை மின்சாரசபை ஊழியர்கள் 5000 பேர் இராஜிநாமா செய்யத் தீர்மானித்துள்ளதாக செய்திகள் வெளியாகியுள்ள நிலையில், எவ்வித தயக்கமும் இன்றி இராஜிநாமா கடிதங்களை ஏற்றுக் கொள்ளுமாறு இலங்கை மின்சார சபை நிர்வாகத்திற்கு மின்சக்தி மற்றும் எரிசக்தி அமைச்சர் காஞ்சன விஜேசேகர உத்தரவிட்டுள்ளார்.
+Minister of Power and Energy Kanjana Wijeshekara has ordered the Ceylon Electricity Board to accept the resignation letters without any hesitation, as it has been reported that 5,000 Ceylon Electricity Board employees have decided to resign.
 
-தனது உத்தியோகபூர்வ டுவிட்டர் பக்கத்தில் பதிவொன்றை இட்டு அமைச்சர் இவ்வாறு குறிப்பிட்டுள்ளார். அதில் மேலும் தெரிவிக்கப்பட்டுள்ளதாவது:
+The Minister posted a post on his official Twitter page. It has further stated:
 
-எந்த ஒரு ஊழியரின் ராஜினாமாவையும் தயக்கமின்றி ஏற்கும்படி இலங்கை மின்சாரசபை நிர்வாகத்துக்க அறிவுறுத்தப்பட்டுள்ளது. அதே வேளை இராஜிநாமா செய்பவர்கள் நிறுவனத்திற்கு செலுத்த வேண்டிய அனைத்து பாக்கிகளையும் வசூலிக்குமாறும் அறிவுறுத்தப்பட்டுள்ளது.
+The Ceylon Electricity Board has been advised to accept any employee's resignation without hesitation. At the same time, the resignation is advised to charge all the packs of the company.
 
-நிறுவனத்தின் சீர்திருத்தங்கள் தொடர்பான பணிகளை துரிதப்படுத்துமாறு மின்சாரசபை நிர்வாகத்தின் சம்பந்தப்பட்ட அதிகாரிகளுக்கு பணிப்புரை விடுக்கப்பட்டுள்ளது.
+The officials of the Electricity Board have been directed to expedite the company's reforms.
 
-சீர்திருத்தங்களில் செலவு குறைப்பு வழிமுறைகள், உற்பத்தித் திட்டத்தில் அடையாளம் காணப்பட்ட மின் திட்டங்களை செயல்படுத்துதல், டிஜிட்டல் கட்டண தளத்தை விரிவுபடுத்துதல் என்பன உள்ளடங்குகின்றன.
+Reforms include cost reduction mechanisms, implementing power projects identified in the productive project, and expanding the digital payment platform.
+
+During the January Strike Strike in January this year, the Directorate has been issued to initiate disciplinary and legal action against employees who disrupted the services of the Ceylon Electricity Board.
 
 ...
 
 [Data](articles/71c4327f.json)
+
+[Extended Data](ext_articles/71c4327f.ext.json)
 
 ---
 
@@ -153,6 +193,22 @@ The shooting took place today (22) between 8.30 am and 8.40 am and five were kil
 [Data](articles/ba48a77c.json)
 
 [Extended Data](ext_articles/ba48a77c.ext.json)
+
+---
+
+### වාහන දඩ මුදල් ඔන්ලයින් ගෙවීමට අවස්ථාව
+
+*2024-01-22 19:14:49* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-දඩ-මුදල්-ඔන්ලයින්-ගෙවීමට-අවස්ථාව/11-407670) · `si`
+
+රථවාහන වැරදි සම්බන්ධයෙන් වන ස්ථානීය දඩ මුදල් එවලේම ඔන්ලයින් හරහා ගෙවීමේ අවස්ථාව ලංකාවේ ජනතාව වෙනුවෙන් ලබාදෙන බව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පැවැසීය.
+
+ඔහු පවසන්නේ තමන්ගේ ජංගම දුරකතනයෙන් හෝ පොලිස් නිලධාරියා අත ඇති උපාංගයකින් මෙම ගෙවීම් සිදුකිරීමේ අවස්ථාව ලබා දෙන බවයි.
+
+"කොහේ හෝ ගිහිල්ලා රථ වාහන වරදකට වැරදිකරු වුවහොත් එම ස්ථානයේ සිටින පොලිස් නිලධාරියා අතේ තියෙන උපකරණයක් මාර්ගයෙන්ම හෝ තමන්ගේ ජංගම දුරකතනය මාර්ගයෙන් එම දඩ මුදල් ගෙවන්න සියලු දේ සැලසුම් කර තිබෙනවා."
+
+◼️
+
+[Data](articles/b9192683.json)
 
 ---
 
@@ -239,6 +295,24 @@ Sivagnanam Sridharan, a newly elected Sri Lankan Tamil party leader and Kilinoch
 [Data](articles/6345288c.json)
 
 [Extended Data](ext_articles/6345288c.ext.json)
+
+---
+
+### සීදුව ව්‍යාජ ’’ ඉමුනොග්ලොබින්’’ ප්‍රතිදේහ නිෂ්පාදන කර්මාන්තශාලාව විමර්ශනයට
+
+*2024-01-22 18:44:39* · [`adalk`](https://www.ada.lk/breaking_news/සීදුව-ව්‍යාජ-’’-ඉමුනොග්ලොබින්’’-ප්‍රතිදේහ-නිෂ්පාදන-කර්මාන්තශාලාව-විමර්ශනයට/11-407669) · `si`
+
+සීදුව අමන්දොළුව ප්‍රදේශයේ පවත්වා ගෙන ගොස් තිබූ ව්‍යාජ ප්‍රතිදේහ විශේෂයක් වූ " ඉමුනොග්ලොබින් " ( Human Immunogoblin) නිෂ්පාදන කළ අයිසෝලෙස් බයෝටෙක් පර්මා ( Islek Biotech Pharma ) ආයතනය විශේෂ විමර්ශන කණ්ඩායක් විසින් 01/22 දින දහවල් 12.00 සිට පස්වරු 05.00 දක්වා පරීක්ෂා කිරීමකට ලක් කිරීම සිදු කෙරුණි.
+
+මේ සදහා ශ්‍රී ලංකා ඖෂධ නියාමන අධිකාරියේ අධ්‍යක්ෂ දීපිකා බුලත්සිංහල මහත්මිය ඇතුළු පිරිසක් ද , ආහාර හා ඖෂධ විශ්ලේෂක අමිත් පෙරේරා මහතා ඇතුළු පිරිසක් ද , අපරාධ පරීක්ෂණ දෙපාර්තමේන්තු නිලධාරීන් පිරිසක් ද සහභාගී වී තිබූ අතර මෙම අවස්ථාවට සමාගමේ අයිතිකරු සුදත් ජනක ප්‍රනාන්දු මහතා ද බන්ධනාගාර දෙපාර්තමේන්තු නිලධාරීන් විසින් කැදවා ගෙන පැමිණ තිබුණි.
+
+මීට පෙර අවස්ථාවක ද මෙම නිෂ්පාදන කර්මාන්තශාලාව පරීක්ෂා කිරීමකට මෙම විමර්ශන කණ්ඩායම පැමිණ තිබූ අතර , එහිදී මෙම කර්මාන්තශාලාවේ විදුලි බිල ගෙවා නොතිබීම නිසා, විදුලිය විසන්ධි කර පැවති නිසා මෙම පරීක්ෂණය අද දක්වා කල් ගොස් තිබුණි.
+
+ශ්‍රී ලංකා විදුලි බල මණ්ඩලයේ නිලධාරීන් මෙම ස්ථානයට පැමිණ තාවකාලිකව විදුලිය සැපයීමෙන් අනතුරුව මෙම විමර්ශන කටයුතු ආරම්භ විය.
+
+...
+
+[Data](articles/33f8073e.json)
 
 ---
 
@@ -1929,97 +2003,5 @@ The Sri Lankan police were also attempting to identify traffic violations by CCT
 [Data](articles/782219d7.json)
 
 [Extended Data](ext_articles/782219d7.ext.json)
-
----
-
-### Kill of carrots in Dambulla. The offensive at 600
-
-*2024-01-22 12:24:54* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ලේ-කැරට්-කිලෝව-රු--600ට-බහියි/11-407663) · `si`
-
-Economic Center Traders point out that vegetables in the Dambulla Economic Center is largely declining compared to last week.
-
-According to twenty two days, the price of a significant amount of vegetables fell, the Economic Center Trade Association says that although the price of vegetables has fallen, is still found in the merchants.
-
-All the vegetable varieties of vegetables have fallen by the pricing of vegetables.
-
-The price of a kilo of vegetables at the Dambulla Economic Center in the 22nd and 22nd morning have been able to say:
-
-Type of Y Jan 17 prices held on January 22 on January 22
-
-600 - 700 250 - 300
-
-Robs 90 - 100 70 - 80
-
-Kekiri 80 - 110 100 - 110
-
-Eggplant 380 - 400 400 - 480
-
-20 - 130 130 130 - 150
-
-◼️
-
-[Data](articles/22d09e3e.json)
-
-[Extended Data](ext_articles/22d09e3e.ext.json)
-
----
-
-### Sri Lanka’s M A Sumanthiran offers full support to new party leader Sritharan
-
-*2024-01-22 12:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-m-a-sumanthiran-offers-full-support-to-new-party-leader-sritharan-148209/) · `en`
-
-ECONOMYNEXT — Parliamentarian M A Sumanthiran extends his fullest support to his Jaffna district colleague S Srithanan who was elected leader of the Ilankai Thamil Arasu Kachchi (ITAK), the main constituent party of Sri Lanka’s opposition Tamil National Alliance (TNA), the former said.
-
-Speaking to party members and supporters following the election on Sunday January 21, Sumanthiran acknowledged that Sritharan was elected democratically by the ITAK, demonstrating the party’s commitment to democracy.
-
-“In electing the leader of our party, we demonstrated both locally and internationally the internal democracy of our party. I congratulate my friend Sritharan who won the election. We both have a responsibility of our party. This is something to celebrate,” the privately owned NewsFirst network quoted Sumanthiran as saying in Tamil.
-
-...
-
-[Data](articles/fd99eee1.json)
-
-[Extended Data](ext_articles/fd99eee1.ext.json)
-
----
-
-### Two missing US Navy SEALs declared dead after search off Somalia
-
-*2024-01-22 12:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-missing-US-Navy-SEALs-declared-dead-after-search-off-Somalia/108-275489) · `en`
-
-Jan 22, (Reuters) -  Two U.S. Navy SEALs who went missing in the Gulf of Aden earlier this month during a raid on a boat carrying Iranian weapons have not been located following an exhaustive search and their status has been changed to deceased, military officials said on Sunday.
-
-The SEALs were reported missing after boarding the vessel in a Jan. 11 operation near the coast of Somali, the U.S. Central Command said on X.
-
-“We mourn the loss of our two Naval Special Warfare warriors, and we will forever honor their sacrifice and example. Our prayers are with the SEALs’ families, friends, the U.S. Navy, and the entire Special Operations community during this time,” CENTCOM Commander General Michael Erik Kurilla said in a statement.
-
-A joint operation carried out by the United States, Spain and Japan searched more than 21,000 square miles of ocean for the missing SEALs, CENTCOM said in the statement.
-
-That mission had now become a recovery operation, CENTCOM said.
-
-...
-
-[Data](articles/eadb4752.json)
-
-[Extended Data](ext_articles/eadb4752.ext.json)
-
----
-
-### Shooting Beller?
-
-*2024-01-22 12:10:05* · [`adalk`](https://www.ada.lk/breaking_news/බෙලි-අත්තේ-වෙඩි-තැබීම-වාඩුව-ගැනීමක්-/11-407662) · `si`
-
-Beliatta Police said five persons were killed in a shooting near the Colombo expressway near the Beliatta highway.
-
-A group of people who had come to a firearm have fled the firearm targeting five people who were traveling in a white Defender vehicle.. Four persons traveling in the Defender vehicle have died in the same location, police said.
-
-The deceased has been identified by Kumara, a resident of Galabada, Induruwa, Galuaduwa, Galuadura, Galuadura, Galuadura, Galuaduwa, Galuaduwa, Galuadura, the age of 47, Rathgaligodawatta, Galuadura, the age of 31.A man named the older Madushanka age of 26, Gatekattttu, aged 34, Gatekatta, aged 34, Gatekattttu, a resident of Gatenawa Road, Kurunegala.Beliatta Police says that Kannangara Korales Champiya Jayathilake, a resident of Dematagoda, said.
-
-Beliatta Police suspect that the Buddhika Rajapakse of Kumara, Beharatha Ven and Bhirakanda, who is dead in the year 2018.Says.
-
-◼️
-
-[Data](articles/ff5bc0a9.json)
-
-[Extended Data](ext_articles/ff5bc0a9.ext.json)
 
 ---

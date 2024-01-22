@@ -1,72 +1,220 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 17:33:23**
+As of **2024-01-22 18:23:09**
 
 ## Newspaper Stats
 
-*Scraped **1,824** Articles*
+*Scraped **1,839** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 41
-adaderanasinhalalk | 98
+adaderanasinhalalk | 100
 islandlk | 110
-economynextcom | 113
 newsfirstlk | 114
+economynextcom | 116
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 184
-adalk | 192
-dailymirrorlk | 214
-adaderanalk | 224
+virakesarilk | 188
+adalk | 193
+dailymirrorlk | 216
 tamilmirrorlk | 225
+adaderanalk | 227
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,720 (94.3%) of 1,824 articles have been extended.
+1,736 (94.4%) of 1,839 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### அயோத்தி ராமர் கோவிலுக்கு நன்கொடையாகும் 'ஹனு-மான்' பட டிக்கெட் கட்டணம்
+### බොරැල්ලේ නිවාස සංකීර්ණයකින් හමුවූ උණ්ඩ
+
+*2024-01-22 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192438) · `si`
+
+බොරැල්ල, සර්පන්ටයින් මහල් නිවාස සංකීර්ණයේ වැසිකිළි පද්ධතිය අසළ වළ දමා තිබූ ගිනිඅවි වර්ග දෙකකට යොදන ජීව උණ්ඩ 15 ක් හමුවී තිබේ.
+
+ටී 56  ගිනිඅවි වලට හා එම් 16  ගිනිඅවි වලට යොදන ජීව උණ්ඩ බව බොරැල්ල පොලිසිය කියයි
+
+බොරැල්ල පොලිස් වසමේ සර්පන්ටයින් මහල් නිවාසවල පදිංචි පුද්ගලයකු කොළඹ මහ නගර සභා සේවකයින් සමඟ එම මහල් නිවාස සංකීර්ණයට අයත් වැසිකිළි පද්ධතිය පිරිසිඳු කිරීමේදී එම ජීව උණ්ඩ තොගය හමුවී ඇත.
+
+ඒ සම්බන්ධයෙන් බොරැල්ල පොලිස් ස්ථානයේ අපරාධ විමර්ශන අංශයේ නිලධාරීන් දැනුවත් කිරීමෙන් පසු එම ජීව උණ්ඩ පොලීසිය වෙත රැගෙන ඒමට කටයුතු කර තිබේ.
+
+මේවා කලකට ඉහතදී කිසියම් පුද්ගලයෙකු වළ දමන්නට ඇතැයි පොලීසිය සැකකරයි.
+
+◼️
+
+[Data](articles/f2c0ff72.json)
+
+---
+
+### இலங்கை அரசாங்கம் யுக்திய நடவடிக்கையை உடனடியாக இடைநிறுத்த வேண்டும் - ஐ.நாவின் நிபுணர்கள் வேண்டுகோள்
+
+*2024-01-22 17:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174552) · `ta`
+
+இலங்கை அரசாங்கம் யுக்திய நடவடிக்கையை உடனடியாக நிறுத்தவேண்டும் அது குறித்து மீளாய்வு செய்யவேண்டும் என ஐக்கிய நாடுகளின்  நிபுணர்கள் வேண்டுகோள் விடுத்துள்ளனர்.
+
+போதைப்பொருளிற்கு எதிரான கடுமையான பாதுகாப்பைநடவடிக்கைகளை அடிப்படையாக கொண்ட அணுகுமுறை குறித்து ஐக்கியநாடுகளின் நிபுணர்கள் அச்சம் வெளியிட்டுள்ளனர்.
+
+அதிகாரிகள் உடனடியாக இந்த நடவடிக்கையை இடைநிறுத்தவேண்டும் மீளாய்வு செய்யவேண்டும் என அவர்கள் வேண்டுகோள் விடுத்துள்ளனர்.
+
+சுகாதாரம் மற்றும் மனித உரிமைகளை அடிப்படையாக கொண்ட கொள்கைகள் குறித்து கவனம் செலுத்தவேண்டும்எனவும் ஐநாநிபுணர்கள் வேண்டுகோள் விடுத்துள்ளனர்.
+
+புறக்கணிக்கப்பட்ட சமூக பொருளாதார குழுக்களை சேர்ந்த ஆயிரக்கணக்கான போதைப்பொருள் குற்றவாளிகள் கைதுசெய்யப்பட்டதை கடுமையாக கண்டித்துள்ள ஐநாவின் மனித உரிமை நிபுணர்கள் கட்டாய இராணுவ புனர்வாழ்வு முகாம்களில் நூற்றுக்கணக்கானவர்கள் தடுத்துவைக்கப்பட்டுள்ளதையும் கண்டித்துள்ளனர்.
+
+யுக்திய எனப்படும் நடவடிக்கையின் போது சித்திரவதை மற்றும் மனிதாபிமானமற்ற நடவடிக்கைகள் குறித்தும் அவர்கள் கவலை வெளியிட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/2da67517.json)
+
+---
+
+### ICC for 2023. Samari Athapathu as the captain of the women's R20 team
+
+*2024-01-22 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174551) · `ta`
+
+The ICC Women's International R20 cricket team for 2023 has been named as the Chairman of Sri Lanka.
+
+The ICC Women's International R20 Cricket Team has been named in the women's international T20 cricket team in 2023.
+
+Samari started her cricket season for 2023 by scoring 68 runs off 50 balls in the ICC Women's R20 World Cup in Cape Town against South Africa. Sri Lanka won the South Africa with his help with his bowling.
+
+He had accumulated 470 runs in the R20 cricket match with a strike rate of 130.91 last year. It contained 15 sixes.
+
+In a T20 match in the central part of Colombo against New Zealand, Samari scored 80 runs off 47 balls. This led Sri Lanka to the remaining 141 runs for New Zealand and the remaining 10 wickets.
+
+Sri Lanka has been a major role in Sri Lanka's victory in the T20 cricket series in England.
+
+...
+
+[Data](articles/c94c9ea2.json)
+
+[Extended Data](ext_articles/c94c9ea2.ext.json)
+
+---
+
+### Six police teams probing Beliatta shooting that killed 5
+
+*2024-01-22 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96627/six-police-teams-probing-beliatta-shooting-that-killed-5) · `en`
+
+Six police teams have been deployed to investigate the shooting incident reported in Beliatta, Tangalle this morning (22 Jan.).
+
+According to Police Spokesman SSP Nihal Thalduwa, the special police teams were deployed to carry out investigations under the supervision of the Senior Deputy Inspector General of Police (SDIG) of the Southern Province.
+
+Speaking to reporters in Colombo today, the Spokesman said the SDIG in charge of the Southern Province has appointed the following police teams to conduct the said investigation; Southern Province Crime division, the Tangalle Division Crimes Unit, a separate team under the Tangalle HQI, a team from the Beliatta Police, a team led by the Officer-In-Charge of the division and a team of intelligence officers.
+
+...
+
+[Data](articles/251df933.json)
+
+[Extended Data](ext_articles/251df933.ext.json)
+
+---
+
+### Demonstration in Batticaloa in Batticaloa
+
+*2024-01-22 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/174549) · `ta`
+
+A protest rally and demonstration was held in Batticaloa on Monday (22) in protest against the Ceremony Backup Act and the Anti -Terrorism Act.. As well as a symbolic hunger strike.
+
+The rally was organized by the Eastern Civil Social Representatives.
+
+The rally, which started near the Kalladi Bridge in Batticaloa, went to Gandhi Park and held a demonstration.
+
+Those who participated in the demonstration carried out the words of the anti -Terrorism Act and the Supreme Backup Act and the signatures of the importance of freedom of expression.. During the demonstration, protests were raised.
+
+It is noteworthy that the protests for hunger strike, mainly part of the protest, removed the security forces with tight security measures.
+
+◼️
+
+[Data](articles/d15694c9.json)
+
+[Extended Data](ext_articles/d15694c9.ext.json)
+
+---
+
+### Sri Lanka energy minister ready for CEB employees quitting
+
+*2024-01-22 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-energy-minister-ready-for-ceb-employees-quitting-148251/) · `en`
+
+ECONOMYNEXT – The Ceylon Electricity Board will accept the resignation tendered by any of its employees, Sri Lanka’s Power and Energy Minister has said.
+
+“I have instructed CEB management to accept resignations of any individual without hesitation and to recover all dues to CEB,” Kanchana Wijesekera said on X Monday (22).
+
+Wijesekera was responding to reports of trade unions saying that 5,000 CEB employees were ready to stop work over recent disciplinary action against colleagues.
+
+I have instructed CEB management to accept resignations of any individual without hesitation and to recover all dues to CEB.
+
+I have also instructed the relevant officials to expedite work related to CEB reforms, cost reduction mechanisms, implementing identified power projects… pic.twitter.com/x3VQfN7Sb4
+
+Several CEB employees have been suspended from work over the last week for participating in strike action initiated by trade unions against the proposed restructuring of the state-owned electricity supplier.
+
+...
+
+[Data](articles/3f253d67.json)
+
+---
+
+### ஒடுக்கப்படும் சாமானிய மக்களுக்காக தமிழரசுக்கட்சியின் புதிய தலைமைத்துவம் செயற்பட வேண்டும் - சிறிதரனுக்கான வாழ்த்தில் பிள்ளையான் கோரிக்கை
+
+*2024-01-22 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/174542) · `ta`
+
+மேட்டுக்குடிகளின் நலன்களுக்கு அப்பால் ஒடுக்கப்படும் சாமானிய மக்களின் நலன்பேணும் தலைமையாக தமிழரசுக்கட்சியின் வரலாற்றுப் பாத்திரமானது புதிய பாதையில் பயணிக்க வேண்டும் என்று விரும்புவதாக இராஜாங்க அமைச்சர் சிவநேசதுரை சந்திரகாந்தன் தெரிவித்துள்ளார்.
+
+தமிழரசு கட்சியின் தலைமைத் தேர்வு முடிவுகள் தொடர்பில் தமிழ் மக்கள் விடுதலை புலிகள் கட்சியின் தலைவரும் கிராமிய வீதிகள்அபிவிருத்தி இராஜாங்க அமைச்சரும், மாவட்ட அபிவிருத்தி குழு தலைவருமான சிவநேசதுரை சந்திரகாந்தன் வெளியிட்டுள்ள வாழ்த்து செய்தியிலேயே இவ்வாறு குறிப்பிட்டுள்ளார்.
+
+தமிழரசு கட்சியின் தலைவராக தெரிவு செய்யப்பட்டிருக்கும் பாராளுமன்ற உறுப்பினர் சிறிதரன் அவர்களுக்கு எனது மனமார்ந்த வாழ்த்துகள்.
+
+நீண்ட நெடிய அரசியல் வரலாற்றினை கொண்ட எம் சமூகத்தின் பழம் பெரும் கட்சி ஒன்றுக்கு தலைமை ஏற்றிருக்கும் தங்கள் பயணம் வெற்றுக் கோச சித்தாந்த அரசியலுக்கப்பால் தமிழ் மக்களின் நிலம், நிருவாகம், உரிமை மற்றும் இருப்பு சார்ந்து வெற்றியடைய வேண்டும் என விரும்புகின்றேன்.
+
+...
+
+[Data](articles/089440dd.json)
+
+---
+
+### Donation to Ayodhya Rama Temple 'Hanu-Man'
 
 *2024-01-22 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/174544) · `ta`
 
-மகர சங்கராந்தியை முன்னிட்டு வெளியான தெலுங்கு திரைப்படமான 'ஹனு-மான்' 175 கோடி வசூலை கடந்து வெற்றிகரமாக ஓடிக்கொண்டிருக்கும் நிலையில், இந்த வசூல் பணத்தில் ஒரு பகுதி அயோத்தி ராமர் கோவிலுக்கு நன்கொடையாக வழங்கப்படும் என படத்தின் தயாரிப்பு நிறுவனமான மைத்ரி மூவி மேக்கர்ஸ் தெரிவித்துள்ளது.
+The film's production company, Maithri Movie Mackers, said that the Telugu film 'Hanu-Man', which was released in front of Makara Sankranti, will be donated to the Ayodhya Rama Temple as part of the collection of money.
 
-அதன்படி, படத்துக்கான ஒவ்வொரு டிக்கெட் கட்டணத்திலிருந்தும் 5 ரூபாயை அயோத்தி ராமர் கோவிலுக்கு நன்கொடையாக வழங்கப் போவதாக தயாரிப்பு நிறுவனம் ஏற்கெனவே அறிவித்திருந்ததற்கமைய, இந்த தீர்மானம் எடுக்கப்பட்டுள்ளது.
+Accordingly, the decision has already been taken as the production company has already announced that it will donate 5 rupees from each ticket fee for the film.
 
-"53,28,211 பேருக்கு நன்றி. அயோத்தி ராமர் கோவிலுக்கு நல்ல விடயத்துக்காக ரூ. 2,66,41,055 நன்கொடையாக வழங்க இணைந்ததற்கு நன்றி. இந்த சிறப்பான முன்னெடுப்புக்கு ஹனு-மான் படத்தை பார்த்து நீங்களும் ஆன்மிக அனுபவத்தை பெற்று பங்கெடுக்கலாம். உங்கள் டிக்கெட் கட்டணத்தில் 5 ரூபாயை அயோத்தி கோவிலுக்கு வழங்கலாம். இந்த சரித்திரப் புகழ் வாய்ந்த தருணத்தில் நாங்களும் பங்கெடுப்பது பெருமை" என்றுள்ளது.
+“Thanks to 53,28,211. Ayodhya Rama Temple for a good thing for Rs.. Thanks for the combination of 2,66,41,055 donation. You can see the Hanu-Man movie for this excellent initiative and you can get a spiritual experience. You can offer 5 rupees of your ticket fee to Ayodhya Temple. We are proud to participate in this historic moment. ”
 
 ◼️
 
 [Data](articles/fe0fc6ba.json)
 
+[Extended Data](ext_articles/fe0fc6ba.ext.json)
+
 ---
 
-### Our Chamari is a perfect place from ICC
+### බෙලිඅත්ත සමූහ ඝාතනය ගැන හොයන්න විශේෂ පොලිස් කණ්ඩායම් 06ක්
 
-*2024-01-22 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192436) · `si`
+*2024-01-22 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192437) · `si`
 
-The International Cricket Council, the team, has been named cricketers of Twenty Twenty20.
+බෙලිඅත්ත ප්‍රදේශයේදී පුද්ගලයින් පස්දෙනෙකු වෙඩිතබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් විමර්ශන සිදුකිරීමට විශේෂ පොලිස් කණ්ඩායම් 06ක් යොදවා තිබේ.
 
-The leader of the team is noteworthy, the leader of the Sri Lankan team to the captain of the Sri Lankan team.
+පොලිස් මාධ්‍ය ප්‍රකාශක ජ්‍යේෂ්ඨ පොලිස් අධිකාරී නීතිඥ නිහාල් තල්දූව මහතා දැන් පැවැත්වෙන මාධ්‍ය හමුවකට එක්වෙමින් මේ බව පැවසීය.
+
+"දකුණු පළාත් භාර ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරයා විසින් කණ්ඩායම් 06 දැනට විශේෂයෙන් පත්කරලා තියෙනවා. මූලිකවම දකුණු පළාත් අපරාධ කොට්ඨාසය, තංගල්ල කොට්ඨාස අපරාධ විමර්ශන අංශය, තංගල්ල මූලස්ථාන පොලිස් පරීක්ෂකවරයා යටතේ වෙනම කණ්ඩායමක්, බෙලිඅත්ත පොලිස් කණ්ඩායමක්,  කොට්ඨාස භාර නිලධාරීයා විසින් කොට්ඨාසයෙන් ලබාගත් නිලධාරීන්ගෙන් තවත් කණ්ඩායමක්, බුද්ධි නිලධාරීන්ගෙන් එම කණ්ඩායම් සමන්විතයි"
 
 ◼️
 
-[Data](articles/6dc101c5.json)
-
-[Extended Data](ext_articles/6dc101c5.ext.json)
+[Data](articles/ae849707.json)
 
 ---
 
 ### Sri Lanka's neutrality should be maintained in the Ukrainian affair despite the pressure from the West
 
-*2024-01-22 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174539) · `ta`
+*2024-01-22 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/174539) · `ta`
 
 Russia has announced that Sri Lanka should continue to maintain neutrality in Ukraine, despite Sri Lanka facing pressure from the West.
 
@@ -90,6 +238,124 @@ We expect you to maintain this neutral position, even when you face pressure fro
 
 ---
 
+### Sri Lanka rupee closes stronger at 319.90/320.05 to the US dollar
+
+*2024-01-22 17:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-319-90-320-05-to-the-us-dollar-148245/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 319.90/320.05 to the US dollar on Monday, from 320.20/40 the previous day, dealers said.
+
+A bond maturing on 01.06.2025 closed at 13.15/30 percent from 13.20/30 percent.
+
+A bond maturing on 01.02.2026 closed at 13.50/60 percent from 13.60/65 percent.
+
+A bond maturing on 15.03.2028 closed stable at 14.00/14.05 percent.
+
+A bond maturing on 15.07.2029 closed stable at 14.10/25 percent.
+
+A bond maturing on 15.05.2030 closed at 14.00/15 percent from 14.05/10 percent.
+
+A bond maturing on 01.07.2032 closed at 14.10/30 percent from 14.10/20 percent.
+
+Date of announcement of the Monetary Policy Review: No. 01 of 2024 – Tuesday, January 23, 2024 at 7.30 am. (Colombo/Jan22/2024)
+
+◼️
+
+[Data](articles/fdbaa7fd.json)
+
+---
+
+### Create smart roads before creating smart drivers, Anjana tells government, police
+
+*2024-01-22 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Create-smart-roads-before-creating-smart-drivers-Anjana-tells-government-police/108-275504) · `en`
+
+Colombo, Jan 22 (Daily Mirror) - The Inter Provincial Private Bus Association (IPPBA) today requested the government and the police to create smart roads before creating smart drivers.
+
+Addressing the media association's secretary, Anjana Priyanjith said the government and the police must keep in mind that they are unable to create smart drivers without having smart roads.
+
+"We questioned the Police Department to find out and tell them whether a higher number of fatal accidents occur in Colombo town or out of Colombo. We know the cause of the fatal accidents in Colombo town. We saw the sons of VIP officials, police officers and other higher-ranking officials who used to meet with fatal accidents during the night under the influence of alcohol. We do not know whether proper legal action was taken against them," he said.
+
+...
+
+[Data](articles/2fb7d0d5.json)
+
+---
+
+### Minister Kanchana slammed over ‘mud-slinging’ campaign targeting CEB staff
+
+*2024-01-22 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96626/minister-kanchana-slammed-over-mud-slinging-campaign-targeting-ceb-staff) · `en`
+
+The Ceylon Electricity Board Engineers’ Union (CEBEU) has accused Sri Lanka’s Power and Energy Minister Kanchana Wijesekera of attempting to generate public anger towards CEB and its staff, as part of what they claim is his “ongoing efforts to harass CEB staff to position himself as a hero in the eyes of the public”.
+
+Responding to a recent claim made by the Minister on ‘X’ (formerly Twitter), alleging that the CEB had provided financial facilities to the tune of Rs. 12 billion to it employees, the CEB Engineers’ Union highlighted that “CEB staff, like other employees in both public and private sector institutions, including LECO and PUCSL, do enjoy benefits beyond their basic salary”.
+
+Accusing the Minister of carrying out a ‘mud-slinging’ campaign, CEB condemned Minister Wijesekera’s for treating CEB employees like ‘criminals’.
+
+...
+
+[Data](articles/105c3667.json)
+
+[Extended Data](ext_articles/105c3667.ext.json)
+
+---
+
+### Chamari named captain of ICC Women’s T20I Team of the Year
+
+*2024-01-22 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96625/chamari-named-captain-of-icc-womens-t20i-team-of-the-year) · `en`
+
+Sri Lankan all-rounder and Women’s Team Captain Chamari Athapaththu has been named in the ICC Women’s T20I Team of the Year for 2023, and has been honoured with the team captaincy.
+
+The ICC Team of the Year recognises 11 outstanding individuals who have impressed throughout 2023, be it with the bat, the ball or their all-round exploits.
+
+The  ICC Women’s T20I Team of the Year for 2023 is as follows:
+
+The veteran Sri Lankan started the year with a Player of the Match performance in Cape Town in the ICC Women’s T20 World Cup, smashing 68 off 50 balls to help Sri Lanka beat South Africa by three runs. The big upset win set the tone for a remarkable year for Sri Lanka women and Athapaththu was at the forefront of it all.
+
+She finished with 470 runs in the year, scoring at a quicker-than-usual strike-rate of 130.91. With 15 sixes in the year, she also hit a personal high in Women’s T20Is.
+
+...
+
+[Data](articles/f13480c0.json)
+
+[Extended Data](ext_articles/f13480c0.ext.json)
+
+---
+
+### Our Chamari is a perfect place from ICC
+
+*2024-01-22 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192436) · `si`
+
+The International Cricket Council, the team, has been named cricketers of Twenty Twenty20.
+
+The leader of the team is noteworthy, the leader of the Sri Lankan team to the captain of the Sri Lankan team.
+
+◼️
+
+[Data](articles/6dc101c5.json)
+
+[Extended Data](ext_articles/6dc101c5.ext.json)
+
+---
+
+### Online Safety Bill approved by Sectoral Oversight Committee on Media
+
+*2024-01-22 16:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-approved-by-Sectoral-Oversight-Committee-on-Media/108-275503) · `en`
+
+Parliament, Jan. 22 (Daily Mirror)- The Online Safety Bill was approved by the Sectoral Oversight Committee on Media, Youth, Heritage and New Citizen subject to the amendments determined by the Supreme Court, the Communications Department of Parliament said.
+
+The bill was approved when the Sectoral Oversight Committee met in Parliament today (22) under the chairmanship of Parliamentarian Lalith Warankumara.
+
+The bill will be taken for the second reading debate tomorrow.
+
+Officials representing the Ministry of Public Security, the Attorney General's Department, the Legal Draftsman’s Department, Sri Lanka Police and the National Secretariat of Non-Governmental Organizations joined the meeting.
+
+The members of the committee, Gayantha Karunathilake, Jayantha Katagoda, Sanjeeva Edirimanna, Jagath Samarawickrama and S. M. M. Musharraf were present at the meeting
+
+...
+
+[Data](articles/9410b184.json)
+
+---
+
 ### Bauchy Todelwatte incident
 
 *2024-01-22 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192435) · `si`
@@ -105,6 +371,28 @@ Should not take immediate attention to the law enforcement authorities in this r
 [Data](articles/5cc07cbd.json)
 
 [Extended Data](ext_articles/5cc07cbd.ext.json)
+
+---
+
+### Sri Lanka stocks close down, Windforce pushes turnover
+
+*2024-01-22 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-windforce-pushes-turnover-148238/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
+
+The All Share Price Index was down 0.59 percent, or 61.16 points, at 10,371.
+
+The S&P SL20 index was down 0.94 percent, or 27.84 points, at 2,922.
+
+A large trade in renewable energy provider, Windforce Plc, contributed the most (492mn) to the day’s turnover, and the share closed up at 19.40.
+
+Renuka Foods Plc, an agribusiness company that manufactures and markets coconut products, also saw high turnover (120mn), and closed up at 16.90.
+
+Banks saw selling pressure, especially heavyweights Commercial Bank of Ceylon Plc (down at 87.90), Sampath Bank Plc (down at 66.90) and DFCC Bank Plc (down at 75.00).
+
+◼️
+
+[Data](articles/e0b1ac6c.json)
 
 ---
 
@@ -294,7 +582,7 @@ The body was found today (22) at 10.20 am. The Chinese police are conducting fur
 
 *2024-01-22 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/After-ALs-vocational-education-for-students-in-school-itself-from-February-Minister/108-275501) · `en`
 
-Colombo, Jan 22 (Daily Mirror) - A programme with practical training and theoretical rehearsals on vocational education with knowledge on information technology, includin English language will be provided to students who complete their Advande Level (A/L) examination this year from February, said Education Minister Susil Premajayantha.
+Colombo, Jan 22 (Daily Mirror) - A programme with practical training and theoretical rehearsals on vocational education with knowledge on information technology, including English language will be provided to students who complete their Advande Level (A/L) examination this year from February, said Education Minister Susil Premajayantha.
 
 He said this vocational training programme will be implemented in 299 selected schools in the island with the aim of directing students who complete their high school education towards vocational education.
 
@@ -896,6 +1184,24 @@ The injunction order against Jayasekara was initially issued by Colombo District
 
 ---
 
+### ටී.ඒන.ඒ. නව නායකයා මහවිරුවන් සමරා වැඩ අරඹයි
+
+*2024-01-22 12:54:16* · [`adalk`](https://www.ada.lk/breaking_news/ටී-ඒන-ඒ--නව-නායකයා-මහවිරුවන්-සමරා-වැඩ-අරඹයි/11-407664) · `si`
+
+දෙමළ ජාතික සන්ධානයේ නව නායකයා ලෙසින් තේරීපත් වූ පාර්ලිමේන්තු මන්ත්‍රී ඒස්.ශ්‍රිධරන් මහතා ඊයේ (21)  දින සවස කිලිනොච්චිය කනකපුරම් ප්‍රදේශයේ පිහිටි මහවිරු සුසාන භූමියට පැමිණ යුද්දයෙන් මිය ගිය මහවිරුවන් සිහිපත් කොට ආගමික වතාවත්වල නිරත විය.
+
+පාර්ලිමේන්තු මන්ත්‍රී ඒස්.ශ්‍රීධරන් මහතා ත්‍රීකුනාමලයේ පැවති පක්ෂ නියෝජිතයින්ගේ රැස්වීමේදී පැවති ඡන්ද විමසීමේදී දෙමල ජාතික සන්ධාන නව නායකයා ලෙසින් තේරිපත්වීමෙන් අනතුරුව කිලිනොච්චියට පැමිණ පළමුව මහවිරු සුසානභූමියට ගොස් මිය ගිය මහවිරුවන් සැමරීම විහේෂ සිදුවීමක් විය.
+
+අනතුරුව ඒස්.ශ්‍රීධරන් මහතා කිලිනොච්චිය සිද්දි විනායගර් හින්දු කෝවිලට ගොස් ඒහි පැවති විහේෂ දේව මෙහෙයකට සහභාගී වී දේවාශිර්වාද ලබාගන්නා ලදි.
+
+ඉන් අනතුරුව ප්‍රදේශවාසී ජනතාව හා පාක්ෂිකයින් විසින් ඒස්.ශ්‍රීධරන් මහතාට නව නායකත්වය වෙනුවෙන් සභපැතූ අතර ලබන 28 වනදා දෙමළ ජාතික සන්ධානයේ පක්ෂ මහසම්මේලනයේදී ඒස්.ශ්‍රීධරන් මහතා දෙමළ ජාතික සන්ධානයේ නව නායකයා ලෙසින් ප්‍රකාශයට පත්කිරීමට නියමිත් බවටද පක්ෂ නියෝජිතයින් පවසා සිටියහ.
+
+◼️
+
+[Data](articles/21aa64d9.json)
+
+---
+
 ### Karapitiya has bail
 
 *2024-01-22 12:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192429) · `si`
@@ -1034,33 +1340,35 @@ His departure sets up the one-on-one battle that Haley has coveted against Trump
 
 ---
 
-### දඹුල්ලේ කැරට් කිලෝව රු. 600ට බහියි
+### Kill of carrots in Dambulla. The offensive at 600
 
 *2024-01-22 12:24:54* · [`adalk`](https://www.ada.lk/breaking_news/දඹුල්ලේ-කැරට්-කිලෝව-රු--600ට-බහියි/11-407663) · `si`
 
-පසුගිය සතියට සාපේක්ෂව දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ එළවළු තොග මිල විශාල වශයෙන් පහත වැටෙමින් පවතින බව ආර්ථික මධ්‍යස්ථාන වෙළෙන්දෝ පෙන්වා දෙති්.
+Economic Center Traders point out that vegetables in the Dambulla Economic Center is largely declining compared to last week.
 
-ඒ අනුව විසි දෙක දින අලුයම වන විට සැලකිය යුතු ප්‍රමාණයෙන් එළවළු මිල පහත වැටී ඇතත් ඒවා මිලදී ගැනීම සඳහා තවමත්  වෙළෙන්දන් ගේ පැමිණීමේ අඩුවක් දක්නට ලැබෙන බව ආර්ථික මධ්‍යස්ථාන වෙළඳ සංගමය කියයි.
+According to twenty two days, the price of a significant amount of vegetables fell, the Economic Center Trade Association says that although the price of vegetables has fallen, is still found in the merchants.
 
-එළවළු මිලදී ගැනීම අවම විමත් සමඟ සීග්‍රයෙන් ඉහළ ගිය සියළුම එළවළු වර්ග මිල පහත වැටී තිබේ.
+All the vegetable varieties of vegetables have fallen by the pricing of vegetables.
 
-ජනවාරි මාසයේ 17 දින පැවති මිල සහ 22  උදෑසන දඹුල්ල ආර්ථික මධ්‍යස්ථානයේ පැවැති  එළවළු කිලෝ එකක තොග මිල  මෙසේ  සඳහන් කිරීමටහැකි වී තිබේ.
+The price of a kilo of vegetables at the Dambulla Economic Center in the 22nd and 22nd morning have been able to say:
 
-වර්ගය       ජනවාරි 17 දිනය පැවති මිල     ජනවාරි 22 දින උදෑසන පැවති මිල
+Type of Y Jan 17 prices held on January 22 on January 22
 
-ලීක්ස්          600  - 700                         250 - 300
+600 - 700 250 - 300
 
-රාබු             90   - 100                         70  - 80
+Robs 90 - 100 70 - 80
 
-කැකිරි         80  - 110                           100 - 110
+Kekiri 80 - 110 100 - 110
 
-වම්බටු           380  - 400                        400 - 480
+Eggplant 380 - 400 400 - 480
 
-දෙහි                120  - 130                     130  - 150
+20 - 130 130 130 - 150
 
 ◼️
 
 [Data](articles/22d09e3e.json)
+
+[Extended Data](ext_articles/22d09e3e.ext.json)
 
 ---
 
@@ -1725,313 +2033,5 @@ Four persons were killed at the scene, while another person who was admitted to 
 [Data](articles/6f4bf71e.json)
 
 [Extended Data](ext_articles/6f4bf71e.ext.json)
-
----
-
-### 47 buried in south-west China landslide
-
-*2024-01-22 10:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96612/47-buried-in-south-west-china-landslide) · `en`
-
-Forty-seven people were buried when a landslide struck a remote and mountainous part of south-western China on Monday (Jan 22), state media reported.
-
-The landslide took place at 5.51am local time in Zhenxiong County, Yunnan province, state news agency Xinhua reported, citing local authorities.
-
-State broadcaster CCTV said around 18 households were buried in the landslide, and that more than 200 people were “urgently evacuated” from the area.
-
-Authorities have launched an emergency response involving over 200 rescue workers as well as dozens of fire engines and other equipment, according to CCTV.
-
-Footage shared on social media by a local broadcaster showed emergency workers in orange jumpsuits and helmets forming ranks outside a fire station as snowflakes whirled through the air.
-
-Other images showed rescuers picking through towering piles of collapsed masonry in which a few personal belongings could be seen.
-
-Authorities did not immediately specify whether anyone had died in the landslide.
-
-...
-
-[Data](articles/cf62af1f.json)
-
-[Extended Data](ext_articles/cf62af1f.ext.json)
-
----
-
-### Five killed in Beliatta shooting five
-
-*2024-01-22 10:21:26* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්තේ-වෙඩි-තැබීමකින්-පහක්-මරුට/11-407659) · `si`
-
-Five persons were killed by a group of people who had been shot dead in a demand for a group of people in the Beliatta Exit gateway to the Beliatta Exit gateway. It is reported that a group of people had been shot in front of a shop.
-
-◼️
-
-[Data](articles/bd0a1fd0.json)
-
-[Extended Data](ext_articles/bd0a1fd0.ext.json)
-
----
-
-### Party leader also killed in Beliatta
-
-*2024-01-22 10:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192423) · `si`
-
-It is reported that the leader of the people, Saman Perera is also among the victims of the deceased in the Beliatta.
-
-The shooting occurred at 8.30 am and 8.40 am and four persons were killed in the shooting.
-
-One person was admitted to the Tangalle Hospital.
-
-It is reported that the shooting has been carried out by a group of people who had been traveling with a white Defender vehicle.
-
-◼️
-
-[Data](articles/437fb5e0.json)
-
-[Extended Data](ext_articles/437fb5e0.ext.json)
-
----
-
-### AI technology to the Health Place
-
-*2024-01-22 10:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192422) · `si`
-
-Professor Indika Karunathilaka, professor Indika Karunatilaka, says that the need to use artificial intelligence in the field of Health has arisen.
-
-He points out that the use of artificial intelligence helps improve the quality of medical education.
-
-"The artificial intelligence is just a reality. It's not capable of ignore. There are also very benefits of the field of health and artificial education. It's not something that can be ignored. Also, increasing the efficiency and quality of hosting to increase the quality of medicine.. So it is difficult to learn about all the world's information in the world. At that point, artificial intelligence can benefit. "
-
-Prof. Indika Karunatilaka said artificial intelligence has made plans to introduce art and related services.
-
-...
-
-[Data](articles/203bf55c.json)
-
-[Extended Data](ext_articles/203bf55c.ext.json)
-
----
-
-### Sri Lanka rupee opens at 320.00/25 to the US dollar
-
-*2024-01-22 10:07:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-320-00-25-to-the-us-dollar-148162/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 320.00/25 to the US dollar on Monday, from 320.20/40 Friday, dealers said.
-
-A bond maturing on 01.02.2026 was quoted stable at 13.60/65 percent.
-
-A bond maturing on 15.09.2027 was quoted at 13.80/85 percent.
-
-A bond maturing on 15.03.2028 was quoted at 14.02/14.05 percent from 14.00/14.05 percent.
-
-The Colombo Stock Exchange opened up: the All Share Price Index was up 0.07 percent at 10,440, the S&P SL20 was up 0.04 percent at 2,951.
-
-Date of announcement of the Monetary Policy Review: No. 01 of 2024 – Tuesday, January 23, 2024 at 7.30 am. (Colombo/Jan19/2024)
-
-◼️
-
-[Data](articles/654d67e1.json)
-
-[Extended Data](ext_articles/654d67e1.ext.json)
-
----
-
-### Army Special Force member arrested for a number of murders
-
-*2024-01-22 10:06:04* · [`adalk`](https://www.ada.lk/breaking_news/ඝාතන-රැසක-වෙඩික්කරුවෙක්-වන-යුද-හමුදා-විශේෂ-බලකා-සාමාජිකයෙක්-අත්අඩංගුවට/11-407658) · `si`
-
-The Police Special Task Force has been arrested in Kahathuduwa
-
-Police have seized 18 millions of ice dense and access to anti uniforms and access to the suspect's Kahathuduwa.
-
-The suspect was working at the Kilinochchi Army Camp when the suspect was arrested on information received by the Northern Province of the Northern Province.
-
-The suspect had been shot dead in Kosgoda, Kosgoda, 2023 -06 -21, the suspect was shot dead in Kosgoda, 2023 -06 -21.
-
-The fishing businessman was assassinated on January 18, 2024, a large number of persons arrested by the Police Special Task Force in the Kosgoda area in Kosgoda area was sent to the police, the suspected police copyright looking for the policePolice said.
-
-Police investigations have revealed that the suspect was the shot of organized criminal, an organized criminal, a larger criminal.
-
-...
-
-[Data](articles/6349fd8e.json)
-
-[Extended Data](ext_articles/6349fd8e.ext.json)
-
----
-
-### DEPnder firing in Beliyatta: 5 deaths
-
-*2024-01-22 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174490) · `ta`
-
-Police said that the passengers were shot dead in a Defender vehicle in Tangalle and Beliyatta.
-
-The shooting incident took place on Monday (22) in the exit area of the Southern Expressway.
-
-Four of the five passengers in the vehicle were killed in the area and one of the injured was admitted to the hospital.
-
-Police say the shooting was carried out by a group of people in another vehicle.
-
-◼️
-
-[Data](articles/7f4ec535.json)
-
-[Extended Data](ext_articles/7f4ec535.ext.json)
-
----
-
-### Five killed in shooting in Beliatta
-
-*2024-01-22 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Five-killed-in-shooting-in-Beliatta/155-275481) · `en`
-
-Beliatta, Jan 22 (Daily Mirror) - Five killed after shooting incident in Beliatta
-
-At least five persons were killed in a shooting incident near the Beliatta interchange on the Southern Expressway.
-
-Four persons have reportedly lost their lives at the scene while another had died upon admission to hospital.
-
-The shooting had taken place today at around 7.45 am, when a group in a Prado type vehicle had opened fire at another group in a Defender jeep.
-
-Police suspect that underworld criminal Kosgoda Sujee's gang has carried out the shooting.
-
-◼️
-
-[Data](articles/8d112752.json)
-
-[Extended Data](ext_articles/8d112752.ext.json)
-
----
-
-### Five killed in shooting in Beliatta
-
-*2024-01-22 09:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Five-killed-in-shooting-in-Beliatta/108-275481) · `en`
-
-Beliatta, Jan 22 (Daily Mirror) - Five killed after shooting incident in Beliatta
-
-At least five persons were killed in a shooting incident near the Beliatta interchange on the Southern Expressway.
-
-Four persons have reportedly lost their lives at the scene while another had died upon admission to hospital.
-
-The shooting had taken place today at around 7.45 am, when a group in a Prado type vehicle had opened fire at another group in a Defender jeep.
-
-Police suspect that underworld criminal Kosgoda Sujee's gang has carried out the shooting.
-
-◼️
-
-[Data](articles/b7ccd461.json)
-
-[Extended Data](ext_articles/b7ccd461.ext.json)
-
----
-
-### Businessman asks for ransom saying Bharatha Lakshman's killer
-
-*2024-01-22 09:56:07* · [`adalk`](https://www.ada.lk/breaking_news/භාරත-ලක්ෂ්මන්ගේ-ඝාතකයා-බව-කියමින්-ව්‍යාපාරිකයෙකුගෙන්-කප්පම්-ඉල්ලලා/11-407657) · `si`
-
-An investigation has been launched to arrest a person in the Mattegoda area claiming that he had a minister of MP Bharatha Lakshman Premachandra, Mattegoda Police said.
-
-In the Mt.
-
-The telephone call was received on the 20th and this investigation has commenced on a complaint.
-
-Call on the dealer's mobile, a dealer company in several main manufacturing institutions in the country,
-
-My name, my name, my name, my name, 'Suddha "you know that I have no one named Bists. You have two shops at Mattigegoda and Diyagama shops, right?
-
-Those who do business around Colombo treat me well. You have to treat me, right, it can start you like you. If you don't, you know, your mother will lose your family to the family. The complaint made by the police said, "Knowledge of Mattegoda Maha Street," said.
-
-...
-
-[Data](articles/9a0e6185.json)
-
-[Extended Data](ext_articles/9a0e6185.ext.json)
-
----
-
-### 47 people from landslide
-
-*2024-01-22 09:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192421) · `si`
-
-It is reported that 47 people have gone missing from a landslide in Langugzui village in Langugzui village in Yunan State.
-
-Foreign media reports that the residents of the victims were operating.
-
-47 Villagers Were Buried In a Landslide Tat Occurred In ZhenxionxionxionG Countg City, South China's Yunnan Provinnan Province, Early Monday. A Search and Rescue Operation is currently underway. pic.twitter.com/ugDPG8XiMA
-
-◼️
-
-[Data](articles/79823afa.json)
-
-[Extended Data](ext_articles/79823afa.ext.json)
-
----
-
-### Shooting in Tangalle;Death
-
-*2024-01-22 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தங்காலையில்-துப்பாக்கிச்-சூடு-ஒருவர்-மரணம்/175-331937) · `ta`
-
-◼️
-
-[Data](articles/2cfcbd63.json)
-
-[Extended Data](ext_articles/2cfcbd63.ext.json)
-
----
-
-### Tangalle firing
-
-*2024-01-22 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தங்காலை-துப்பாக்கிச்-சுட்டில்-ஐவர்-மரணம்/150-331937) · `ta`
-
-In addition, unconfirmed reports suggest that five people were killed in a firing on a group passenger in Defender.
-
-Some people standing in front of a shop have been shot dead.
-
-◼️
-
-[Data](articles/7da4c407.json)
-
-[Extended Data](ext_articles/7da4c407.ext.json)
-
----
-
-### Tangalle's death in Tangalle
-
-*2024-01-22 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தங்காலை-துப்பாக்கிச்-சூட்டில்-ஐவர்-மரணம்/150-331937) · `ta`
-
-In addition, unconfirmed reports suggest that five people were killed in a firing on a group passenger in Defender.
-
-Some people standing in front of a shop have been shot dead.
-
-◼️
-
-[Data](articles/9092ccb5.json)
-
-[Extended Data](ext_articles/9092ccb5.ext.json)
-
----
-
-### BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
-
-*2024-01-22 09:46:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/breaking-five-people-shot-dead-near-beliatta-exit-of-southern-expressway/) · `en`
-
-Colombo (News 1st) – Five people were shot dead near the Beliatta Exit of the Southern Expressway on Monday morning (22nd), police said.
-
-Four people died immediately, and a fifth succumbed shortly afterward.
-
-Among the victims is the leader of the Apey Janabala Pakshaya (Our People's Party) Saman Perera, who was a businessman cum politician, police said. The group had arrived in a white Land Rover Defender when the shooting took place.
-
-News 1st correspondent said several people who were shot were outside a tea shop near the exit, and others were in the vehicle.
-
-BASL calls for independent probe into surge in killings by police
-
-Supreme Court to consider Fundamental Rights application by Cardinal Malcolm Ranjith
-
-BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
-
-Special dengue control program in Colombo, Gampaha, Jaffna and Kandy districts throughout the year
-
-CCTV camera system to identify traffic violations to commence today
-
-◼️
-
-[Data](articles/58eec3ec.json)
-
-[Extended Data](ext_articles/58eec3ec.ext.json)
 
 ---

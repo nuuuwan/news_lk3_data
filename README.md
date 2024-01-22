@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 09:17:16**
+As of **2024-01-22 09:52:13**
 
 ## Newspaper Stats
 
-*Scraped **1,696** Articles*
+*Scraped **1,697** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
 bbccomsinhala | 39
-adaderanasinhalalk | 80
+adaderanasinhalalk | 81
 economynextcom | 104
 islandlk | 108
 newsfirstlk | 109
@@ -26,41 +26,63 @@ adaderanalk | 209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,501 (88.5%) of 1,696 articles have been extended.
+1,514 (89.2%) of 1,697 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### යුක්තියට තවත් පිරිසක් කොටුවෙති
+### Ahlandlla, trapped in the illegal asset division
+
+*2024-01-22 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192419) · `si`
+
+A motorcycle and a lorry have been arrested in connection with illegal assets.
+
+The police media division states that officials of the illegal assets in the Investigation Division have raided the raid on a complaint by the Police Narcotics Bureau.
+
+Accordingly, a motorcycle obtained from illegally earned from the Welikanda area in Welikanda yesterday (21) and arrested with a lorry.
+
+◼️
+
+[Data](articles/aada31e8.json)
+
+[Extended Data](ext_articles/aada31e8.ext.json)
+
+---
+
+### Justice is boxing
 
 *2024-01-22 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192418) · `si`
 
-යුක්තිය විශේෂ මත්ද්‍රව්‍ය මෙහෙයුම යටතේ අද (22) අලුයම 12.30න් අවසන් වූ පැය 24 තුළ සිදුකළ මෙහෙයුම්වලදී සැකකරුවන් 910 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+910 suspects have been arrested in the 24-hour operations carried out by the special drug operation in 12.30 am today.
 
 ◼️
 
 [Data](articles/ae14eeff.json)
 
+[Extended Data](ext_articles/ae14eeff.ext.json)
+
 ---
 
-### අමානුෂික ඝාතනයක්
+### A brine murder
 
 *2024-01-22 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192417) · `si`
 
-දෙහිඕවිට දිගල ප්‍රදේශයේ දී පුද්ගලයෙකුට පොරවකින් හා ගල්ඉන්නකින් පහර දී ඝාතනය කර ඇත.
+In Dehiowita area, a person was attacked with a strench and an adult.
 
-ඊයේ  (21) සවස මෙම ඝාතනය සිදුව ඇති අතර මෙලෙස මියගොස් ඇත්තේ 42 ක්වූ දිගල දෙහිඕවිට ප්‍රදේශයේ පදිංචිකරුවෙකි.
+The victim was a 42 resident of Dehiowita, 42.
 
-මියගිය පුද්ගලයා බීමත්ව පැමිණ සිය සහෝදරිය සමඟ ආරවුලක් ඇති කරගෙන ඇයට පහරදීමක් සිදුකර තිබේ.
+The victim was drunk and had a dispute with his sister and had assaulted her.
 
-පසුව ඇගේ ස්වාමි පුරුෂයා පැමිණ මෙම පුද්ගලයාට පොරවකින් හා ගල්ඉන්නකින් පහර දී ඇති අතර එහිදි ඔහු මියගොස් ඇති බව පොලීසිය පවසයි.
+Her husband was later attacked by her husband and attacked the man with a stinking and a gallon. He had died, police said.
 
-43 හැවිරිදි සැකකරු අත්අඩංගුවට ගෙන ඇති අතර දෙහිඕවිට පොලීසිය වැඩිදුර පරීක්ෂණ සිදුකරයි.
+The 43-year-old suspect was arrested and Dehiowita police are conducting further investigations.
 
 ◼️
 
 [Data](articles/1f0d4c06.json)
+
+[Extended Data](ext_articles/1f0d4c06.ext.json)
 
 ---
 
@@ -1066,19 +1088,21 @@ During the ceremony, the first batch of 197 passports was handed over to the res
 
 ---
 
-### 2022 මැයි සිට 2023 දෙසැ.31දා දක්වා කර්මාන්ත 77,118ක් වැහිලා
+### 77,118 industries have closed from May from May 2023 to 3123
 
 *2024-01-21 20:42:11* · [`adalk`](https://www.ada.lk/breaking_news/2022-මැයි-සිට-2023-දෙසැ-31දා-දක්වා-කර්මාන්ත-77-118ක්-වැහිලා/11-407653) · `si`
 
-ගෙවීගිය 2022 වර්ෂයේ මැයි මාසයේ සිට 2023 දෙසැම්බර් 31 දක්වා කාලසීමාව තුළදී මධ්‍ය පරිමාණ, කුඩා සහ ඉතා කුඩා කර්මාන්ත 77,118ක් පමණ වැසී ගොස් ඇති බව ජන හා සංඛ්‍යාලේඛන දෙපාර්තමේන්තුව මගින් ජනවාරි 19දා  ඉදිරිපත් කර ඇති දත්ත අනුව පෙනී යන බව පේරාදෙණිය විශ්වවිද්‍යාලයේ ආර්ථික විද්‍යා සහ සංඛ්‍යයන අංශයේ මහාචාර්ය වසන්ත අතුකෝරළ මහතා සමගපැවසීය.
+The Department of Economics and Statistics of the Department of Economics and Statistics of the University of Peradeniya have shown that about 77,118 small and small industries that have been closed from March 19, 2023.Along with Wasantha Athukorala.
 
-2020 වසරේකර්මාන්ත සංඛ්‍යාව 87,907ක් වැසී ගොස් ඇති බවත් ඒ වන විට පැවති ආර්ථික අර්බුදය,  කෝවිඩ් වසංගතය සහ රාජ්‍ය ප්‍රතිපත්තිවල දුර්වලතා නිසා රට පුරා විසිර පවත්නා මෙවැනි කර්මාන්ත විශාල ප්‍රමාණයක් පසුගිය වසර තුළදී වැසී ගොස් ඇති බවත් මහාචාර්යවරයා සඳහන් කරන ලදී.
+The professor said that 87,907 years of anniversary had covered 87,907 years of economic crisis and the weaknesses of state policies and the weaknesses of state policies.
 
-රටේ දළ දේශීය නිෂ්පාදනය, සේවා නියුක්තියට මෙන්ම ග්‍රාමීය ජනතාවගේ ජීවන තත්ත්වය සඳහා දැඩිව බලපා ඇති බව සඳහන් කළ මහාචාර්යවරයා,මෙවැනි කර්මාන්ත වැසීයාමෙන් රටේ ජනතාවට විශාල වශයෙන් අහිතකර තත්ත්වයක් මතුව ඇති බවද මහාචාර්යවරයාපෙන්වා දුන්නේය.
+The professor said that the professor of the country was severely affected by the growth of the country's GDP, employment and rural people.
 
 ◼️
 
 [Data](articles/6660c68d.json)
+
+[Extended Data](ext_articles/6660c68d.ext.json)
 
 ---
 
@@ -1102,19 +1126,21 @@ If the government acts the government, the farmers are first gathered to the str
 
 ---
 
-### කොළඹ CCTV දඩකොළ නියමු ව්‍යාපෘතිය අද සිට
+### Colombo CCTV Damada Pilot Project from today
 
 *2024-01-21 20:31:26* · [`adalk`](https://www.ada.lk/breaking_news/කොළඹ-CCTV-දඩකොළ-නියමු-ව්‍යාපෘතිය-අද-සිට/11-407651) · `si`
 
-කොළඹ නගරයේ ස්ථාපිත කර තිබෙන ආරක්ෂිත කැමරා මගින්  රථවාහන වැරදි  නිරීක්ෂණය කර  රථවාහන හිමිකරුවන් වෙත දඩ කොළ යැවීමේ  නියමු ව්‍යාපෘතිය අද (22දා) ආරම්භ වේ.
+The pilot project to monitor traffic wrongdoing through the security cameras established in Colombo today (22).
 
-මේ වැඩපිළිවෙළ කොළඹ ඕල්කට් මාවතේ පිහිටි  CCTV කොට්ඨාසයේදීආරම්භ කිරීමට නියමිතව තිබෙන අතර,මේ සඳහා  මහජන ආරක්ෂක අමාත්‍ය  ටිරන් අලස් මහතා, වැඩබලන පොලිස්පති  දේශබන්දු තෙන්නකෝන් මහතා හා  මෝටර් රථ ප්‍රවාහන දෙපාර්තමේන්තු නිලධාරීන්  සභාභාගි වීමට නියමිතය.
+The program is due to be held on the CCTV Division on the Olcotta Mawatha in Colombo and the acting IGP, Acting Inspector General of Police and the Department of Motor Traffic.
 
-සති දෙකක පමණ කාලයක් මෙම වැඩපිළිවෙළ නියමු ව්‍යාපෘතියක් ලෙස ක්‍රියාත්මක කිරීමට සැලසුම් කර  තිබෙන අතර, ආරක්ෂිත කැමරා මගින් රථවාහන වැරදි නිරීක්ෂණය කර අදාළ තොරතුරු වාහන හිමිකරු පදිංචිව සිටින බල ප්‍රදේශයේ පොලිස් ස්ථානයට යොමු කර  වාහන හිමියන්ට දඩපත්‍රිකා ලබා දීමට සැලසුම් කර ඇත.
+The program is scheduled to be implemented as a pilot project for about two weeks, and the security cameras are also observed to enter the vehicle owner to the area.
 
 ◼️
 
 [Data](articles/e7e3c5bb.json)
+
+[Extended Data](ext_articles/e7e3c5bb.ext.json)
 
 ---
 
@@ -1995,25 +2021,5 @@ The theme of the G77 and China Third South Summit is “Leaving No One Behind”
 [Data](articles/6953d3f0.json)
 
 [Extended Data](ext_articles/6953d3f0.ext.json)
-
----
-
-### No need to import rice - Agri. Minister
-
-*2024-01-21 14:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96598/no-need-to-import-rice-agri-minister) · `en`
-
-Minister of Agriculture Mahinda Amaraweera says that the government is already working on producing the required quantity of rice within the country itself.
-
-Amaraweera stated that accordingly, there is no need to import rice from overseas.
-
-Furthermore, the Minister expressed that he has instructed the relevant authorities to work towards producing an excess amount of rice within the country, enabling the export of rice from Sri Lanka to foreign countries.
-
-“In the year 2022, one-third of the country’s rice requirement was imported. The amount of rice required for the country is currently being produced within the country itself”, he added.
-
-◼️
-
-[Data](articles/95149291.json)
-
-[Extended Data](ext_articles/95149291.ext.json)
 
 ---

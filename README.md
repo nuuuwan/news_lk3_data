@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 00:32:37**
+As of **2024-01-23 00:48:16**
 
 ## Newspaper Stats
 
-*Scraped **1,895** Articles*
+*Scraped **1,896** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 31
 bbccomsinhala | 42
-adaderanasinhalalk | 108
+adaderanasinhalalk | 109
 islandlk | 110
 newsfirstlk | 116
 economynextcom | 118
@@ -26,11 +26,29 @@ adaderanalk | 233
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,886 (99.5%) of 1,895 articles have been extended.
+1,886 (99.5%) of 1,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### පැවැත්වෙන්නේ ජනාධිපතිවරණයක් නම් අනිවාර්යයෙන්ම ඉදිරිපත්වනවා
+
+*2024-01-23 00:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192447) · `si`
+
+ඉදිරියේදී පැවැත්වෙන්නේ ජනාධිපතිවරණයක් නම් ඒ සඳහා අනිවාර්යයෙන්ම ඉදිරිපත්වන බව මව්බිම ජනතා පක්ෂයේ නායක, ව්‍යවසායක දිලිත් ජයවීර මහතා පවසයි.
+
+දෙරණ 360 දේශපාලන සංවාද වැඩසටහනට එක්වෙමින් දිලිත් ජයවීර මහතා ඒ බව සඳහන් කළේය.
+
+එහිදී වැඩිටත් අදහස් දැක්වූ මව්බිම ජනතා පක්ෂයේ නායක, ව්‍යවසායක දිලිත් ජයවීර මහතා,
+
+"මව්බිම ජනතා පක්ෂයේ අපෙක්ෂාව නුදුරු අනාගතයේ එන ජනාධිපතිවරණය පමණක්ම ඉලක්ක වන වැඩලිපිළිවෙළක් නෙමෙයි. මේ පක්ෂය ලාංකාවේ ඓතිහාසික අවශ්‍යතාවයක් සඳහා බිහි වුණු බලවේගයක්. මේ පක්ෂය ඉතාම දාර්ශනික විදිහට තාර්කික විදිහට වැඩපිළිවෙළක් එක්ක ඒ වගේම ඒකට සරිලන කණ්ඩායමක් එක්ක විශේෂයෙන්ම තරුණයෝ, වෘතිකයින්, ඒ වගේම විද්‍යාර්ථයින්, ගොඩක් එකතු වුණ සංවිධානයක්. අපිට තියෙන්නේ ඉතා විශාල දීර්ඝ කාලින දැක්මක්"
+
+...
+
+[Data](articles/7d905804.json)
+
+---
 
 ### Emeritus Professor Ratna Handurukande receives Lifetime Award from Indian HC
 
@@ -1969,21 +1987,5 @@ The professor died around 1.00 am today and after the death of the post mortem, 
 [Data](articles/2f0b495d.json)
 
 [Extended Data](ext_articles/2f0b495d.ext.json)
-
----
-
-### Sri Lanka Tamil National Alliance (TNA) leader Sridharan met Sambandan
-
-*2024-01-22 14:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174518) · `ta`
-
-The new leader of the Sri Lanka Tamil National Party and Sivagnanam Sridharan, the senior leader of the party and the Trincomalee district parliamentarian, R. Sampanthan, met.
-
-On Monday (22), he met at his residence in Colombo and discussed the next steps of the party's moves.
-
-◼️
-
-[Data](articles/066d7b7e.json)
-
-[Extended Data](ext_articles/066d7b7e.ext.json)
 
 ---

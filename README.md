@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 09:02:24**
+As of **2024-01-22 08:51:26**
 
 ## Newspaper Stats
 
-*Scraped **1,692** Articles*
+*Scraped **1,691** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 29
-bbccomsinhala | 39
+bbccomsinhala | 38
 adaderanasinhalalk | 78
 economynextcom | 104
 islandlk | 108
@@ -26,7 +26,7 @@ adaderanalk | 209
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,492 (88.2%) of 1,692 articles have been extended.
+1,492 (88.2%) of 1,691 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -293,28 +293,6 @@ It has been discussed on the creation of stability and creation of stability to 
 [Data](articles/1bf964b5.json)
 
 [Extended Data](ext_articles/1bf964b5.ext.json)
-
----
-
-### 'අවම පහසුකම් මැද සුෂුම්නා අබාධිත පිරිසට ප්‍රතිකාර ලබා දෙන්නේ.'
-
-*2024-01-22 02:05:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cle7e7q1j38o) · `si`
-
-මෙහි කිසිවක් අඩංගු නැත.Play video, "'මාරුවෙන් මාරුවට තමයි අපි අවම පහසුකම් මැද සුෂුම්නා අබාධිත පිරිසට ප්‍රතිකාර ලබා දෙන්නේ.'", ධාවන කාලය 2,1202:12වීඩියෝ ශීර්ෂ වැකිය, යුද්ධයෙන් මෙන්ම විවිධ අනතුරු නිසා සුෂුම්නාවේ ආබාධ සහිත වූවන් මෙහි ප්‍රතිකාර ලබයි.
-
-ඉතා අවම පහසුකම් මැද තමන් ප්‍රතිකාර ලබන බව මුලතිව්, මාන්කුලම් පිහිටි සුෂුම්නා අනතුරු සංගමයේ නේවාසික ප්‍රතිකාර ලබන පුද්ගලයෝ පවසති.
-
-යුද්ධයෙන් මෙන්ම විවිධ අනතුරු නිසා සුෂුම්නාවේ ආබාධ සහිත වූවන් මෙහි ප්‍රතිකාර ලබයි.
-
-''අපිට මුදල් ආධාර ලබා දෙන්නේ විදේශගත දෙමළ ප්‍රජාව. ඒත් දැන් තියෙන ආර්ථික තත්ත්වය එක්ක දානපතීන් මුදල් දෙන්න බෑ කියලා ඒක අත්හැරලා තියෙනවා.'' යනුවෙන් සුෂුම්නා අනතුරු සංගමයේ උප සභාපති ඉදයලරාජා BBC සිංහල සේවයට පැවසුවේය.
-
-සුෂුම්නා ආබාධයන්ට ලක්වූවන් 250 දෙනෙකු පමණ එම සංගමයේ ලියාපදිංචි වී සිටිති. නමුත් එහි නේවාසිකව ප්‍රතිකාර ලැබීමට පහසුකම් තිබෙන්නේ දස දෙනෙකුට පමණි.
-
-ප්‍රවාහනයේ දී තමන් ගැටළු රැසකට මුහුණපාන බවත්, ගමනාගමන දුෂ්කරතාවය නිසා තමන්ට ඡන්දය භාවිත කිරීමේ අවස්ථාව පවා අහිමි වී ඇති බවත් ඔවුහු පවසති.
-
-◼️
-
-[Data](articles/ca4e5686.json)
 
 ---
 
@@ -2021,5 +1999,29 @@ Although the Chinese side and the Indian side are not focused on democracy and h
 [Data](articles/feaaec46.json)
 
 [Extended Data](ext_articles/feaaec46.ext.json)
+
+---
+
+### Buses will not run from tomorrow; LPBOA leader
+
+*2024-01-21 14:15:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-முதல்-பேருந்துகள்-இயங்காது-LPBOA-தலைவர்/175-331894) · `ta`
+
+The Sri Lanka Private Bus Owners Association (LPBOA) has said that the police will be implemented from tomorrow, as the police will implement the fines of bus owners based on CCTV footage.
+
+LPBOA leader Gemunu Wijeratne said that the police are planning to send fines from tomorrow based on CCTV footage.
+
+Commenting on the media, he said that it was unreasonable to send the fines of the buses to the owner of the bus.
+
+He said the police had taken the decision without any discussion with the bus association.
+
+Wijeratne said it was unreasonable to send the fines of the buses to the bus owner.
+
+He also said that if the bus owners are implemented and properly arranged for the buses to operate the priority path, the bus owners will comply with the proposal.
+
+◼️
+
+[Data](articles/3997cd41.json)
+
+[Extended Data](ext_articles/3997cd41.ext.json)
 
 ---

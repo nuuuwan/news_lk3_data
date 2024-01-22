@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 16:32:52**
+As of **2024-01-22 16:49:06**
 
 ## Newspaper Stats
 
-*Scraped **1,811** Articles*
+*Scraped **1,814** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 40
 adaderanasinhalalk | 96
 islandlk | 108
 economynextcom | 113
-newsfirstlk | 113
+newsfirstlk | 114
 dbsjeyarajcom | 121
 dailyftlk | 159
-virakesarilk | 180
-adalk | 190
+virakesarilk | 181
+adalk | 191
 dailymirrorlk | 214
 adaderanalk | 224
 tamilmirrorlk | 224
@@ -26,11 +26,27 @@ tamilmirrorlk | 224
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,690 (93.3%) of 1,811 articles have been extended.
+1,690 (93.2%) of 1,814 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
+
+### போதைப்பொருள் ஒழிப்புப் பிரிவு ஏ.எஸ்.பிக்கு இலஞ்சம் கொடுக்க முயன்ற சட்டத்தரணி தொடர்பில் விசாரணை!
+
+*2024-01-22 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174534) · `ta`
+
+கைது செய்யப்பட்டுள்ள பாதாள உலகக் குழுத் தலைவனும் பாரியளவிலான போதைப்பொருள் கடத்தல்காரருமான கணேமுல்ல சஞ்சீவவுக்கு எதிராக விசாரணைகளை மேற்கொண்டுவரும் போதைப்பொருள் ஒழிப்புப் பிரிவின் உதவிப் பொலிஸ் அத்தியட்சகர் ஒருவருக்கு  இலஞ்சம் கொடுக்க முயன்ற சட்டத்தரணி ஒருவருக்கு எதிராக இலஞ்ச ஊழல் விசாரணை ஆணைக்குழு விரிவான விசாரணைகளை ஆரம்பித்துள்ளது.
+
+இந்த சட்டத்தரணி போதைப்பொருள் ஒழிப்புப் பிரிவின் உதவிப் பொலிஸ் அத்தியட்சகருக்கு இலஞ்சம் கொடுக்க முற்படுவது தொடர்பான தொலைபேசிப் பதிவும் இலஞ்ச ஊழல் ஆணைக்குழுவுக்குக் கிடைத்துள்ளது.
+
+இதேவேளை, இது தொடர்பில் விசேட பொலிஸ் விசாரணையும் முன்னெடுக்கப்பட்டுள்ளதாக பொலிஸ் தலைமையக தகவல்கள் தெரிவிக்கின்றன.
+
+◼️
+
+[Data](articles/e846b523.json)
+
+---
 
 ### கட்சிகளுக்குள் தலைவர்களைத் தேடும் மலையக சமூகம்..!
 
@@ -223,6 +239,44 @@ The Minister also said that this vocational program is being implemented in 299 
 [Data](articles/b0142ef4.json)
 
 [Extended Data](ext_articles/b0142ef4.ext.json)
+
+---
+
+### ලෝකයේම අවධානය දිනාගත් මතභේදාත්මක ‌කෝවිල ඉන්දීය අගමැති විවෘත කරයි
+
+*2024-01-22 14:51:15* · [`adalk`](https://www.ada.lk/religion/ලෝකයේම-අවධානය-දිනාගත්-මතභේදාත්මක-‌කෝවිල-ඉන්දීය-අගමැති-විවෘත-කරයි/4-407667) · `si`
+
+රාම් හින්දු දෙවියන් වෙනුවෙන් ඉන්දියාවේ අයෝධ්‍යාව තුළ ඉදි කළ මතභේදාත්මක කෝවිල ඉන්දීය අග්‍රාමාත්‍ය නරේන්ද්‍ර මෝදි විසින් විවෘත කරනු ලැබීය. මෙම කෝවිල ඉදිකරනු ලැබුවේ පල්ලියක් ඉවත් කිරීමෙන් අනතුරුවය.
+
+1992 දී හින්දු  කෝලහාල සමයේදී විනාශ කරන ලද 16 වන සියවසේ මුස්ලිම් පල්ලියක් ප්‍රතිස්ථාපනය කිරීමෙන් අනතුරුව මෙම කෝවිල ඉදි කර තිබේ. මෙම කෝලහාල වලින් ඉන්දියාව පුරා පුද්ගලයන් 2000ක් පමණ මියගියේය.
+
+ඉන්දීය අග්‍රාමාත්‍යවරයා විසින් මෙම කෝවිල විවෘත කිරීම අද දිනයේදී ලෝකයේ ප්‍රමුඛතම පුවත් සේවා තම ප්‍රධාන ප්‍රවෘත්තිය ‌ලෙස ගෙන තිබුණේ එය තරමක මතභේදාත්මක සිදුවීමක් වූ නිසාය.
+
+අයෝධ්‍යාවේ පැවති උත්සවයට ප්‍රමුඛ පෙළේ සිනමා තරු සහ ක්‍රිකට් ක්‍රීඩකයින් ඇතුළු ආරාධිත අමුත්තන් දහස් ගණනක් සහභාගී වූහ.
+
+නමුත් සමහර හින්දු භක්තිකයන් සහ බොහෝ විරුද්ධවාදීන් එම උත්සවය වර්ජනය කිරීමට කටයුතු කළේ ඉන්දීය අග්‍රාමාත්‍යවරයා මෙම ක්‍රියාවෙන් දේශපාලන වාසි ලබා ගැනිමට උත්සාහ කරන බවට සඳහන් කරමිනි.
+
+...
+
+[Data](articles/a11169af.json)
+
+---
+
+### BASL calls for independent probe into surge in killings by police
+
+*2024-01-22 14:50:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/basl-calls-for-independent-probe-into-surge-in-killings-by-police/) · `en`
+
+Colombo (News 1st) – The Bar Association of Sri Lanka (BASL) has called for an independent inquiry into the recent surge of fatalities involving police.
+
+The BASL statement comes in the wake of a member of the public being shot dead in Narammala last week by a police officer in civilian clothing.
+
+The BASL also criticised Minister of Public Security Tiran Alles, for stating that he would publish a list of persons who obstructed the ongoing Operation Yukthiya anti-narcotics program, which has drawn much criticism for its heavy-handed approach.
+
+"It is evident that these statements, among others, made by a government minister, are irresponsibly misleading and detrimental to the crucial role lawyers play in preserving public interest," the statement said.
+
+...
+
+[Data](articles/56b10332.json)
 
 ---
 
@@ -1770,6 +1824,8 @@ Among the victims is the leader of the Apey Janabala Pakshaya (Our People's Part
 
 News 1st correspondent said several people who were shot were outside a tea shop near the exit, and others were in the vehicle.
 
+BASL calls for independent probe into surge in killings by police
+
 Supreme Court to consider Fundamental Rights application by Cardinal Malcolm Ranjith
 
 BREAKING: Five people shot dead near Beliatta Exit of Southern Expressway
@@ -1921,57 +1977,5 @@ It is reported that the shooting has been carried out by a group of people who w
 [Data](articles/c80e7341.json)
 
 [Extended Data](ext_articles/c80e7341.ext.json)
-
----
-
-### Another 910 arrested in Yukati
-
-*2024-01-22 09:29:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-910-பேர்-கைது/175-331935) · `ta`
-
-In the meantime, a further 910 suspects have been arrested within 24 hours of completion at 12.30 pm today (January 22).
-
-According to the Ministry of Public Security, 65 kilograms of heroin, 136 grams of ice and 254 drugs were seized.
-
-◼️
-
-[Data](articles/d1f1f7d0.json)
-
-[Extended Data](ext_articles/d1f1f7d0.ext.json)
-
----
-
-### Ahlandlla, trapped in the illegal asset division
-
-*2024-01-22 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192419) · `si`
-
-A motorcycle and a lorry have been arrested in connection with illegal assets.
-
-The police media division states that officials of the illegal assets in the Investigation Division have raided the raid on a complaint by the Police Narcotics Bureau.
-
-Accordingly, a motorcycle obtained from illegally earned from the Welikanda area in Welikanda yesterday (21) and arrested with a lorry.
-
-◼️
-
-[Data](articles/aada31e8.json)
-
-[Extended Data](ext_articles/aada31e8.ext.json)
-
----
-
-### Only in some places it rains
-
-*2024-01-22 09:11:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-இடங்களில்-மட்டும்-மழை-பெய்யும்/175-331934) · `ta`
-
-Rainfall is expected in the North Central, Eastern and Uva provinces.
-
-In some places in the Western and Sabaragamuwa Provinces, Galle and Matara districts. After 2.00 pm, there is a possibility of rain or thunderstorms.
-
-In the morning, in some places in the Western, Sabaragamuwa and Central Provinces and Galle and Matara districts, there is expected snowfall in the morning.. Remble
-
-◼️
-
-[Data](articles/3264ac37.json)
-
-[Extended Data](ext_articles/3264ac37.ext.json)
 
 ---

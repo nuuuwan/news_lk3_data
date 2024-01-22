@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-22 10:32:57**
+As of **2024-01-22 10:50:59**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ tamilmirrorlk | 214
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,542 (89.8%) of 1,717 articles have been extended.
+1,554 (90.5%) of 1,717 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-22 (Monday)
 
-### பெலியத்தையில் டிபென்டர் மீது துப்பாக்கிப் பிரயோகம் : 5 பேர் உயிரிழப்பு
+### DEPnder firing in Beliyatta: 5 deaths
 
 *2024-01-22 10:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174490) · `ta`
 
-தங்காலை, பெலியத்த பகுதியில் டிபென்டர் வாகனத்தில் பயணித்தவர்கள் மீது துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said that the passengers were shot dead in a Defender vehicle in Tangalle and Beliyatta.
 
-தெற்கு அதிவேக வீதியின் பெலியத்த பகுதியில் உள்ள வெளியேறும் பகுதியில் இன்று திங்கட்கிழமை (22) குறித்த துப்பாக்கிச் சூட்டுச் சம்பவம் இடம்பெற்றுள்ளது.
+The shooting incident took place on Monday (22) in the exit area of the Southern Expressway.
 
-குறித்து வாகனத்தில் பயணித்த ஐவரில் நால்வர் ஸ்தலத்திலேயே கொல்லப்பட்டதுடன், ஒருவர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்ட நிலையில் உயிரிழந்துள்ளார்.
+Four of the five passengers in the vehicle were killed in the area and one of the injured was admitted to the hospital.
 
-மற்றுமொரு வாகனத்தில் வந்த குழுவினரால் இந்த துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say the shooting was carried out by a group of people in another vehicle.
 
 ◼️
 
 [Data](articles/7f4ec535.json)
+
+[Extended Data](ext_articles/7f4ec535.ext.json)
 
 ---
 
@@ -62,17 +64,19 @@ Extensions include translations and NER (Named Entity Recognition).
 
 ---
 
-### தங்காலை துப்பாக்கிச் சுட்டில் ஐவர் மரணம்...
+### Tangalle firing
 
 *2024-01-22 09:46:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/தங்காலை-துப்பாக்கிச்-சுட்டில்-ஐவர்-மரணம்/150-331937) · `ta`
 
-மேலும், டிபென்டரில் பயணித்த குழுவினர் மீது நடத்தப்பட்ட துப்பாக்கிச் சூட்டிலேயே 5 பேர் உயிரிழந்துள்ளதாக உறுதிப்படுத்தப்படாத தகவல்கள் தெரிவிக்கின்றன.
+In addition, unconfirmed reports suggest that five people were killed in a firing on a group passenger in Defender.
 
-கடை ஒன்றின் முன் நின்றிருந்த சிலர் மீதே துப்பாக்கிச் சூடு நடத்தப்பட்டதாக தெரிய வந்துள்ளது.R
+Some people standing in front of a shop have been shot dead.
 
 ◼️
 
 [Data](articles/7da4c407.json)
+
+[Extended Data](ext_articles/7da4c407.ext.json)
 
 ---
 
@@ -96,39 +100,43 @@ The remains of the deceased have been placed at the Tangalle Base Hospital, Ada 
 
 ---
 
-### கொழும்பில் இன்று முதல் சாரதிகளை கண்காணிக்க சி.சி.ரி.வி. கமராக்கள் !
+### CCRV to monitor drivers from today in Colombo. Comeras!
 
 *2024-01-22 09:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/174489) · `ta`
 
-கொழும்பு நகரில் போக்குவரத்து விதிகளை மீறும் சாரதிகளை கண்காணிக்க பொலிஸாரினால் புதிய சி.சி.ரி.வி. கண்காணிப்பு கட்டமைப்பு அமைப்பு நடைமுறைப்படுத்தப்பட்டுள்ளது.
+New CCRV by police to monitor drivers who violate traffic rules in Colombo city. The surveillance configuration system has been implemented.
 
-அதன்படி இன்று முதல் இம்மாதம் 31 ஆம் திகதி வரை கொழும்பு நகரில் குறித்த திட்டம் நடைமுறைப்படுத்தப்படும்.
+Accordingly, the project will be implemented in Colombo city from today to 31st of this month.
 
-கொழும்பிற்குள் நுழையும் அனைத்து வாகனங்களும் 108 சி.சி.ரி.வி. கமெராக்கள் மூலம் கண்காணிக்கப்படும் என  பொலிஸார் தெரிவித்தனர்.
+All vehicles entering Colombo 108 CCRV. Police said they would be monitored by cameras.
 
-கொழும்பிற்குள் நுழையும் 9 இடங்களிலும் சி.சி.ரி.வி. அமைப்பு செயற்பாட்டில் உள்ளதாக சாரதிகளுக்கு முன்கூட்டியே அறிவிக்கும் வகையில் அறிவிப்புப் பலகைகளும் போடப்பட்டுள்ளன.
+CCRV in 9 places that enter Colombo. No notification boards have been put in advance to the drivers that the organization is in operation.
 
-இந்த நடைமுறையின் ஊடாக போக்குவரத்து விதிகளை மீறும் சாரதிகளுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்படும் எனவும்  போக்குவரத்து விதிகளை மீறும் சாரதிகளுக்கு அவர்கள் வசிக்கும் பகுதியிலுள்ள பொலிஸ் பிரிவின் ஊடாக அதற்கான தண்டப்பணம் அறிவிடப்படும் என பொலிஸ் ஊடகப் பேச்சாளர் சிரேஷ்ட பொலிஸ் அத்தியட்சகர் சட்டத்தரணி நிஹால் தல்துவ தெரிவித்துள்ளார்.
+Police Media Spokesperson Senior Superintendent of Police Nihal Talduwa said that through this procedure, legal action will be taken against drivers who violate traffic rules.
 
 ◼️
 
 [Data](articles/cc1f5ee9.json)
 
+[Extended Data](ext_articles/cc1f5ee9.ext.json)
+
 ---
 
-### கரையோர ரயில் சேவையில் தாமதம்
+### Delay in the coastal train service
 
 *2024-01-22 09:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174488) · `ta`
 
-தண்டவாளத்தில் ஏற்பட்டுள்ள வெடிப்பு காரணமாக கரையோர ரயில் சேவையில் தாமதம் ஏற்பட்டுள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை தெரிவித்துள்ளது.
+The railway control room said the coastal train service was delayed due to the explosion on the rails.
 
-பாணந்துறை மற்றும் எகொட உயன ரயில் நிலையங்களுக்கிடையில் இன்று திங்கட்கிழமை (22) காலை தண்டவாளத்தில் வெடிப்பு  ஏற்பட்டுள்ளது.
+An explosion on the rails between Panadura and Ekoda Railway Stations on Monday morning (22).
 
-இதன் காரணமாக கொழும்பில் இருந்து காலி நோக்கி செல்லும் மார்க்கத்தில் ரயில் சேவையில் தாமதம் ஏற்பட்டுள்ளதாக ரயில்வே கட்டுப்பாட்டு அறை மேலும் தெரிவித்துள்ளது.
+As a result, the railway control room further stated that there was a delay in the train service from Colombo to Galle.
 
 ◼️
 
 [Data](articles/0c7c6db9.json)
+
+[Extended Data](ext_articles/0c7c6db9.ext.json)
 
 ---
 
@@ -240,17 +248,19 @@ The new leader of the Sri Lankan Tamil National Party, Sridharan MP, started his
 
 ---
 
-### யுக்திய நடவடிக்கை ; மேலும் 910 பேர் கைது
+### Action action;Another 910 arrested
 
 *2024-01-22 09:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/174487) · `ta`
 
-யுக்திய நடவடிக்கையின் கீழ் கடந்த 24 மணித்தியாலங்களில் போதைப்பொருள் மற்றும் பாதாள உலகக் குற்றச்சாட்டின் பேரில் 910 பேர் சந்தேகத்தில்  கைது செய்யப்பட்டுள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு இன்று திங்கட்கிழமை (22)  தெரிவித்துள்ளது.
+The Public Security Ministry said on Monday (22) that 910 people were arrested on suspicion of drug and underworld charges in the last 24 hours under the strategy.
 
-இதன்போது, 65 கிராம் ஹெரோயின், 136 கிலோ கிராம் ஐஸ் மற்றும் 254 போதை மாத்திரைகள் என்பன கைப்பற்றப்பட்டதாக அமைச்சு மேலும் தெரிவித்துள்ளது.
+The Ministry further stated that 65 grams of heroin, 136 kg of ice and 254 drugs were seized.
 
 ◼️
 
 [Data](articles/791c42b3.json)
+
+[Extended Data](ext_articles/791c42b3.ext.json)
 
 ---
 
@@ -328,21 +338,23 @@ The new proposal is added to the Ceylon Electricity Board.
 
 ---
 
-### ரஸ்யாவின் ஆக்கிரமிப்பில் உள்ள டொனெட்ஸ்க் நகரின் மீது எறிகணை தாக்குதல் - 27 பேர் பலி
+### Arrival attack on Tonetsk in Russia's occupation - 27 killed
 
 *2024-01-22 07:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174486) · `ta`
 
-ரஸ்யா ஆக்கிரமித்துள்ள டொனெட்ஸ்க் நகரின் மீது மேற்கொள்ளப்பட்ட எறிகணை தாக்குதலில் 27 பேர் கொல்லப்பட்டுள்ளனர்.
+27 people have been killed in an artillery attack on Tontsk, occupied by Russia.
 
-மிகவும் மும்முரமான சந்தையில் பயங்கரமான தாக்குதல் இடம்பெற்றுள்ளது உயிரிழந்தவர்களின் எண்ணிக்கை அதிகரிக்கலாம் என பிராந்தியத்தின் ரஸ்ய சார்பு தலைவர் டெனிஸ் புஸ்சிலின் தெரிவித்துள்ளார். அவர் உக்ரைனே இந்த தாக்குதலை மேற்கொண்டது என குற்றம்சாட்டியுள்ளார்.
+Terrible assault in the most busy market may increase the number of casualties, said Tenis Pussilin, a pro -leader of the region.. He accused Ukraine of carrying out the attack.
 
-எறிகணைவருவதை சத்தத்தின் மூலம் அறிந்துகொண்ட நான் கடைக்குள் பதுங்கிக்கொண்டேன் என உயிர்பிழைத்த பெண்ணொருவர் தெரிவித்துள்ளார்.
+A woman who survived, she said that I was sneaking in the shop, learning by the noise of the fire.
 
-புகைமண்டலத்தையும் மக்கள் அலறுவதையும் பெண் ஒருவர் அழுவதையும் பார்த்தேன் என அவர் தெரிவித்துள்ளார்.
+I saw smoke, people screaming and a woman crying, he said.
 
 ◼️
 
 [Data](articles/6dc9c4ea.json)
+
+[Extended Data](ext_articles/6dc9c4ea.ext.json)
 
 ---
 

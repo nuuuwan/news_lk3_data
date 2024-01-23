@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 00:32:41**
+As of **2024-01-24 00:48:32**
 
 ## Newspaper Stats
 
@@ -80,7 +80,7 @@ The vehicle was found abandoned in a shrubby area at Godella in Kaduwela, Police
 
 According to police, however, another vehicle, bearing the same licence plate as that of the vehicle the suspects had arrived in, was found in a garage in Eluwila, Panadura.
 
-Earlier today, four unidentified individuals had arrived in a car at the temple, and carried out the shooting and fled the scene afterwards, police reported, adding that the shooters had claimed to officers from the Criminal Investigations Department (CID).
+Earlier today, four unidentified individuals had arrived in a car at the temple, and carried out the shooting and fled the scene afterwards, police reported, adding that the shooters had claimed to be officers from the Criminal Investigations Department (CID).
 
 The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital.
 

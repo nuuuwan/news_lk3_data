@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 08:51:10**
+As of **2024-01-23 09:02:25**
 
 ## Newspaper Stats
 
-*Scraped **1,938** Articles*
+*Scraped **1,939** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 118
 dbsjeyarajcom | 121
 dailyftlk | 171
 virakesarilk | 195
-adalk | 200
+adalk | 201
 tamilmirrorlk | 239
 adaderanalk | 240
 dailymirrorlk | 240
@@ -26,7 +26,7 @@ dailymirrorlk | 240
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,938 (100.0%) of 1,938 articles have been extended.
+1,938 (99.9%) of 1,939 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1240,6 +1240,26 @@ The Sri Lanka Lawyers Association, which has accepted the need to take the neces
 
 ---
 
+### ජනපති මාස 17 රට සවාරි 18ක් ගිහින්
+
+*2024-01-22 20:21:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-මාස-17-රට-සවාරි-18ක්-ගිහින්/11-407671) · `si`
+
+රටේ ඇති අර්බුධය ස්වාභාවිකව නිර්මාණය නොවූ බවත් අකාර්යක්ෂම දූෂිත පාලනය නිසා සිදුවූ බවත් මෙය නිර්මාණය වූ අර්බුධයක් බවත් මෙය ආර්ථික ත්‍රස්තවාදයක් බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+මෙම ආර්ථික ත්‍රස්තවාදීන් හොර කල්ලි මැර කල්ලි ගජමිතුරුන් සමග අත්වැල් බදගෙන රට බංකොලොත් කර ලෝකය වටේ සවාරි යමින් ජනතාවගේ ජනදුක පිළිබඳ කිසිදු හැගීමක් නොමැතිව කටයුතු කරන ආකාරය ගැන විරෝධය පළ කළ යුතු බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+ජනජීවිත බිල්ලට ගෙන ජනතාව විදින දුක කදුල වේදනාව ගණන් නොගෙන ජනතාව මුහුණ දෙන තාඩන පීඩන ගණන් නොගෙන රටේ නායකයා ජනතා බදු මුදලින් රට සවාරි යන බවත් රටේ ජනාධිපති වී මාස 17ට සවාරි 18ක් ගොස් ඇති බවත් අයවැයෙන් වෙන් වූ මුදල ප්‍රමාණයවත් නොවූ නිසා තවත් මිලියන 200ක් වෙන් කර ගෙන ඇති බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+
+*විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මේ බව කියා සිටියේ නාරම්මල නගරයේ පැවැති 'ජනපවුර - දඹදෙණිය' වැඩසටහනට එක්වෙමිනි.*
+
+වික්‍රමසිංහ රාජපක්ෂ ජනාධිපතිවරයා ගජමිතුරුවාදය අනුගමනය කරමින් සිටින බවත් ජනතාව පෙලා ලබා ගන්නා බදු මුදල් දූෂණයෙන් වංචාවෙන් සොරකම් කරන බවත් විපක්ෂ නායකවරයා මෙහිදි පැවසීය.
+
+...
+
+[Data](articles/bb9ddcb0.json)
+
+---
+
 ### Senior lecturer sudden death
 
 *2024-01-22 20:02:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரேஷ்ட-விரிவுரையாளர்-திடீர்-மரணம்/175-331964) · `ta`
@@ -1989,23 +2009,5 @@ Several CEB employees have been suspended from work over the last week for parti
 [Data](articles/3f253d67.json)
 
 [Extended Data](ext_articles/3f253d67.ext.json)
-
----
-
-### Donation to Ayodhya Rama Temple 'Hanu-Man'
-
-*2024-01-22 17:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/174544) · `ta`
-
-The film's production company, Maithri Movie Mackers, said that the Telugu film 'Hanu-Man', which was released in front of Makara Sankranti, will be donated to the Ayodhya Rama Temple as part of the collection of money.
-
-Accordingly, the decision has already been taken as the production company has already announced that it will donate 5 rupees from each ticket fee for the film.
-
-“Thanks to 53,28,211. Ayodhya Rama Temple for a good thing for Rs.. Thanks for the combination of 2,66,41,055 donation. You can see the Hanu-Man movie for this excellent initiative and you can get a spiritual experience. You can offer 5 rupees of your ticket fee to Ayodhya Temple. We are proud to participate in this historic moment. ”
-
-◼️
-
-[Data](articles/fe0fc6ba.json)
-
-[Extended Data](ext_articles/fe0fc6ba.ext.json)
 
 ---

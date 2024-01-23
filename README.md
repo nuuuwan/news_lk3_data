@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 15:34:16**
+As of **2024-01-23 15:51:29**
 
 ## Newspaper Stats
 
-*Scraped **2,076** Articles*
+*Scraped **2,084** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ islandlk | 123
 economynextcom | 125
 adaderanasinhalalk | 131
 dailyftlk | 171
-adalk | 207
+adalk | 212
 virakesarilk | 225
-dailymirrorlk | 255
+dailymirrorlk | 256
 adaderanalk | 258
-tamilmirrorlk | 263
+tamilmirrorlk | 265
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,075 (100.0%) of 2,076 articles have been extended.
+2,084 (100.0%) of 2,084 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -74,21 +74,75 @@ Following the main proceedings, some, including the Leader of the Opposition, ha
 
 ---
 
-### වෙඩිවැදී අපවත්වූ හිමිනම ගැන තවත් තොරතුරු
+### Tourist car collides with train, two hospitalised
+
+*2024-01-23 14:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-car-collides-with-train-two-hospitalised/108-275578) · `en`
+
+Maho, Jan 23 (Daily Mirror) - A foreign tourist and a guide were hospitalised after their motorcar collided with the Rajarata Rejini express train at the Midigama railway station this morning.
+
+The Railways Department said the train was heading towards Maho junction when the accident occurred. Meanwhile, police said there were two tourists and a tour guide in the car durinag the accident.
+
+One of the tourists and the tour guide were hospitalised with injuries.
+
+The Railways Department said the car had tried to cross the level crossing while the warning bell was still ringing and the warning light was still on.
+
+◼️
+
+[Data](articles/271768c7.json)
+
+[Extended Data](ext_articles/271768c7.ext.json)
+
+---
+
+### More information about the monk who has been shocked
 
 *2024-01-23 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192471) · `si`
 
-අද (23) පෙරවරුවේ ගම්පහ මල්වතු හිරිපිටිය විහාරස්ථානයක හිමිනමක් වෙඩිතබා ඝාතනය කර තිබුණි.
+The monk of Malwathu Hiripitiya temple in Gampaha was shot dead this morning.
 
-මෝටර් රථයකින් පැමිණි සැකකරුවන් 04 දෙනෙකු හිමිනමට වෙඩිතබා පළා ගොස් ඇති අතර වෙඩිවැදීමෙන් බරපතළ තුවාල ලැබු හිමිනම ගම්පහ රෝහලට ඇතුලත් කෙරුණි.
+Four suspects have been shot dead and has been admitted to the Gampaha Hospital with serious injuries.
 
-රෝහලේ ප්‍රතිකාර ලබමින් සිටි හිමිනම අද දහවල් අපවත් වී ඇති බව පොලීසිය සඳහන් කළේය.
+The monk who was receiving treatment at the hospital has been identified today, police said.
 
-මෙලෙස අපවත්වී ඇත්තේ 45 හැවිරිදි, කළපළුවාවේ ධම්ම රතන නැමති කහටාන, ඝනාරාම මහා විහාරස්ථානයේ වැඩසිටි හිමිනමක් බව පැවසෙයි.
+It was revealed that the 45-year-old, Kalapaluwa Dhamma Ratnane, a large number of people in the Ganaramaya Maha Viharaya.
 
 ◼️
 
 [Data](articles/de372369.json)
+
+[Extended Data](ext_articles/de372369.ext.json)
+
+---
+
+### A continuous medical strike
+
+*2024-01-23 14:41:24* · [`adalk`](https://www.ada.lk/breaking_news/අඛණ්ඩ-වෛද්‍ය-වර්ජනයක්/11-407690) · `si`
+
+The Government Medical Officers Association has decided to commence a continuous strike from tomorrow (24), protesting to suspend the payment of Rs.
+
+◼️
+
+[Data](articles/eefbfa69.json)
+
+[Extended Data](ext_articles/eefbfa69.ext.json)
+
+---
+
+### Payment of Rs. 35,000,000 to doctors
+
+*2024-01-23 14:37:51* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍යවරුන්ට-දුන්-රු-35000ක-දීමනාව-ගෙවීම-අත්හිටුවයි/11-407689) · `si`
+
+Doctors' Rs. The Ministry of Health states that the increase in allowances will be temporarily suspended.
+
+The suspension has been made by the Ministry of Finance to pay the allowance.
+
+Doctors are Rs. With the allowance of 35,000 health workers, other health workers. Procity measures launched for a month of 35,000.
+
+◼️
+
+[Data](articles/78f9454f.json)
+
+[Extended Data](ext_articles/78f9454f.ext.json)
 
 ---
 
@@ -300,6 +354,22 @@ The Director General of Health Services has issued a letter, accordingly, the He
 
 ---
 
+### Doctors first workshop
+
+*2024-01-23 13:49:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்கள்-நாளை-முதல்-பணிப்புறக்கணிப்பு/175-332013) · `ta`
+
+The State Medical Officers Association has decided to launch a series of workshops from tomorrow (24).
+
+The association said the decision was made based on information that the government had decided not to issue DAT payments since January, as stated earlier.
+
+◼️
+
+[Data](articles/2405de4b.json)
+
+[Extended Data](ext_articles/2405de4b.ext.json)
+
+---
+
 ### Two more petitions against anti-terrorism bill
 
 *2024-01-23 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192467) · `si`
@@ -406,9 +476,13 @@ The government recently approved the President's proposal to double the DAT allo
 
 *2024-01-23 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96655/buddhist-monk-killed-in-shooting-inside-temple) · `en`
 
-A Buddhist monk has been shot dead inside a temple in the Malwathuhiripitiya area of Gampaha.
+A Buddhist monk has been shot dead inside a temple in the Malwathuhiripitiya area of Gampaha this morning (Jan 23).
 
 Police stated that the shooting has been carried out using a T-56 assault rifle.
+
+Four unidentified individuals who had arrived in a car, had carried out the shooting and fled the scene afterwards, the police said.
+
+The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. However, the monk had succumbed to injuries this afternoon while receiving treatment at the hospital, according to police.
 
 ◼️
 
@@ -489,6 +563,22 @@ The Minister said the Online Safety Bill only covers online crimes, preventing p
 [Data](articles/d3e20a8a.json)
 
 [Extended Data](ext_articles/d3e20a8a.ext.json)
+
+---
+
+### Thera's death in the shooting
+
+*2024-01-23 13:24:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/துப்பாக்கிச்-சூட்டில்-தேரர்-மரணம்/95-332011) · `ta`
+
+Malwatuhiripitiya police say that four unidentified people who came in a car in a car in the Gampaha Malwathuhiripitiya area have fled.
+
+Thera, who was targeted for the shooting, died after being taken to the hospital, police said
+
+◼️
+
+[Data](articles/c3a54d83.json)
+
+[Extended Data](ext_articles/c3a54d83.ext.json)
 
 ---
 
@@ -768,6 +858,26 @@ Because the backbone of the democracy of a country is the media and the freedom 
 
 ---
 
+### We clearly go to the village
+
+*2024-01-23 12:43:29* · [`adalk`](https://www.ada.lk/breaking_news/අපි-පැහැදිලිවම-ගමට-යනවා/11-407683) · `si`
+
+MP Namal Rajapaksa said that although the bankrupt political parties performed various things, no man or party would be challenging.
+
+He was speaking at a program held at the Sri Lanka Civil Aravan Front Headquarters this morning.
+
+"We're clearly going to the village. It is done by the loss of principles of some political parties. People expect to come to the village. We are accused. Whatever the case, our bowls go to the village.
+
+JVP are Sajobe who burned the houses and arrested. Those people are opposed if someone lives well. If we are not a challenge for us to us, "
+
+◼️
+
+[Data](articles/9eba2e0f.json)
+
+[Extended Data](ext_articles/9eba2e0f.ext.json)
+
+---
+
 ### Democratic Fighters' party vice -president Nakulese released on bail
 
 *2024-01-23 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/174598) · `ta`
@@ -839,6 +949,26 @@ The US dollar purchasing price was 315.0324 and the sales price were 325.8287 ba
 [Data](articles/0cbeadf2.json)
 
 [Extended Data](ext_articles/0cbeadf2.ext.json)
+
+---
+
+### 200 crores in restructuring corporation
+
+*2024-01-23 12:34:01* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රතිව්‍යුහගත-කරන්න-තිබූ-මුද්‍රණ-සංස්ථාව-කෝටි-200ක්-ලාභ-ලබයි/11-407682) · `si`
+
+Minister of Education Dr. Susil Premajayantha says that the State Printing Corporation increased to a profitable level of Rs.
+
+He said that the Institute had developed at the level of making working capital by paying employee bonus.
+
+It is a pleasure that the state printing corporation that was identified as a loss to the restructment.Minister of Education Susil Premajayantha added.
+
+The Minister said that this success of the Ministry of Education was established under the Ministry of Education under the Ministry of Education under the Ministry of Education.It was also said that the state printing corporation was able to increase the state printing corporation to such a positive level.. Accordingly, the State Printing Corporation should enter into the new competitive investment, develops further.
+
+◼️
+
+[Data](articles/82c99667.json)
+
+[Extended Data](ext_articles/82c99667.ext.json)
 
 ---
 
@@ -1323,6 +1453,30 @@ He said that our general purpose is to destroy the underworld with the underworl
 [Data](articles/e5bd5f94.json)
 
 [Extended Data](ext_articles/e5bd5f94.ext.json)
+
+---
+
+### 18 trains between Gampola and Badulla in 2023
+
+*2024-01-23 11:14:11* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-ගම්පොල-හා-බදුල්ල-අතර-දුම්රිය-පීලි-පැනීම්-18ක්/11-407681) · `si`
+
+The train passengers say that only 18 jumps have been reported in the Kandyan railway to Badulla.
+
+Thus Kandy rail passengers allege that they are suffering from severe hardships and difficulties due to the constant train jumps.
+
+They say that if train trains are jumping on the Kandyan Railways, they will have to go to the middle of buses and carrying the baggage and the carrying bags of luggage.
+
+They also say that foreign tourists travel in Kandyan train, they are constantly uncomfortable due to the difficulties due to this dear jumps.
+
+Train passengers say that train services are constantly jumping on the Kandyan Railway Line.
+
+Railway Passengers are also demanded that the Upcountry Railway is properly maintained and take necessary trains to drive trains.
+
+◼️
+
+[Data](articles/d653e3a3.json)
+
+[Extended Data](ext_articles/d653e3a3.ext.json)
 
 ---
 
@@ -1839,147 +1993,5 @@ Commenting on the matter, Health Minister Dr. Ramesh Pathirana highlighted the i
 [Data](articles/d1964dd2.json)
 
 [Extended Data](ext_articles/d1964dd2.ext.json)
-
----
-
-### 61-year-old woman arrested with narcotic pills
-
-*2024-01-23 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96641/61-year-old-woman-arrested-with-narcotic-pills-) · `en`
-
-A female suspect, 61, was arrested by the Police Special Task Force (STF) on Monday (22 Jan.), in connection with an alleged racket involving narcotic pills.
-
-According to Police, the suspect was arrested in Kolonnawa, Wellampitiya, based on a tip-off received by the special anti-drug operation ‘Yukthiya’.
-
-At the time of her arrest, police further reported that the suspect had been in possession of 89 non-prescribed, illegal narcotic pills.
-
-Further investigations have been handed over to the Wellampitiya Police.
-
-◼️
-
-[Data](articles/d86e3240.json)
-
-[Extended Data](ext_articles/d86e3240.ext.json)
-
----
-
-### Special party leaders meeting suspended
-
-*2024-01-23 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192458) · `si`
-
-The Speaker decided to suspend Parliamentary affairs today (23).
-
-The church has deforced a special party leadership meeting to discuss the security schemes of the Online Scheme.
-
-Opposition Leader Sajith Premadasa met with the party leaders of opposition Mahinda Yapa Abeywardena this morning.
-
-The meeting took place in the Speaker's official room and discussed the bill of the security of the security of the system.
-
-◼️
-
-[Data](articles/c5e30ee9.json)
-
-[Extended Data](ext_articles/c5e30ee9.ext.json)
-
----
-
-### Yall. 06 Tamil Nadu fishermen arrested
-
-*2024-01-23 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/174577) · `ta`
-
-Six Tamil Nadu fishermen have been arrested on Tuesday morning (23) this morning.
-
-The Marines, who were involved in the operation, arrested the Tamil Nadu fishermen who had entered the Sri Lankan waters and rescued the two boats.
-
-The Navy has taken steps to appear at the Kayts Magistrate's Court through the Department of Fisheries and Aquatic Resources.
-
-◼️
-
-[Data](articles/a487f509.json)
-
-[Extended Data](ext_articles/a487f509.ext.json)
-
----
-
-### 8 killed in shooting in the United States
-
-*2024-01-23 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174575) · `ta`
-
-The shootings took place on Tuesday (22) in the Juliet area of Chicago, USA.
-
-Informed about the shooting incident, the police rushed to the scene and rescued the bodies of the victims and sent them to a nearby hospital.. Also, Romeo and Nancy, who fled the shooting, are actively searching for.
-
-◼️
-
-[Data](articles/15f83b9b.json)
-
-[Extended Data](ext_articles/15f83b9b.ext.json)
-
----
-
-### Woman arrested for racketeer alcohol
-
-*2024-01-23 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192457) · `si`
-
-A woman was arrested by the STF personnel conducted by the Special Task Force officials on information provided to justice.
-
-The Special Task Force officials were raided at No. 31 / B, and the Kolonnawa Police Division.
-
-A 61-year-old woman has been arrested and handed over to the Wellampitiya Police for possessing 89 banned alcohol without medical recommendations.
-
-◼️
-
-[Data](articles/f066164d.json)
-
-[Extended Data](ext_articles/f066164d.ext.json)
-
----
-
-### Arrest person related to Harada
-
-*2024-01-23 09:28:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரக்கட்டாவுடன்-தொடர்புடைய-நபர்-கைது/175-331998) · `ta`
-
-The Colombo Crime Investigation Division (CID) said that one person was arrested on suspicion of involvement with Nathun Chintaka Wickramaratne, the leader of a underworld group, Harakatta.
-
-The 27 -year -old from Halmulla, Wellampitiya has been arrested.
-
-The Colombo Crime Prevention Unit said that the suspect had been given a SIM card registered in his name in his name.. Remble
-
-◼️
-
-[Data](articles/ffac5fa5.json)
-
-[Extended Data](ext_articles/ffac5fa5.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-01-23 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192456) · `si`
-
-The Second Reading Debate on Online Methods is scheduled to be held today.
-
-The Bill is to be presented by the Public Defense Minister Tiran Alles to Parliament.
-
-◼️
-
-[Data](articles/5dae059a.json)
-
-[Extended Data](ext_articles/5dae059a.ext.json)
-
----
-
-### Notice of interest rates
-
-*2024-01-23 09:22:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-வீதங்கள்-தொடர்பில்-அறிவிப்பு/175-331997) · `ta`
-
-The Central Bank of Sri Lanka's Central Bank of Sri Lanka has decided to maintain the current interest rate of the Central Bank of Sri Lanka.
-
-Accordingly, the Central Bank has announced that it has decided to maintain a 9% fixed deposit rate and a 10% rate rate of 10%.
-
-◼️
-
-[Data](articles/2eb9dc1f.json)
-
-[Extended Data](ext_articles/2eb9dc1f.ext.json)
 
 ---

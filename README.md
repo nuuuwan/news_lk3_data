@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 21:32:55**
+As of **2024-01-23 21:52:30**
 
 ## Newspaper Stats
 
-*Scraped **2,152** Articles*
+*Scraped **2,153** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,48 +19,72 @@ dailyftlk | 171
 adalk | 222
 virakesarilk | 238
 dailymirrorlk | 263
-adaderanalk | 269
+adaderanalk | 270
 tamilmirrorlk | 272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,148 (99.8%) of 2,152 articles have been extended.
+2,152 (100.0%) of 2,153 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### வவுனியாவில் இருந்து மட்டக்களப்புக்கு கஞ்சா கடத்திய விவகாரம் : நால்வர் கைது!
+### Asia Internet Coalition refutes Minister Tiran’s statement on Online Safety Bill
 
-*2024-01-23 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174648) · `ta`
+*2024-01-23 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96672/asia-internet-coalition-refutes-minister-tirans-statement-on-online-safety-bill) · `en`
 
-வவுனியாவில் இருந்து மோட்டார் சைக்கிளில் மட்டக்களப்பு களுவாஞ்சிக்குடிக்கு 845 கிராம் கஞ்சா போதைப்பொருளை கடத்தி சென்ற வியாபாரிகளிடம் கஞ்சா வாங்க சென்ற வியாபாரிகள் உட்பட 4 பேர் கைதுசெய்யப்பட்டுள்ளனர்.
+An influential trade body which represents Big Tech firms such as Meta, Apple, Amazon, X (formerly Twitter), Google, Snap Inc and others today refuted certain claims made by Sri Lanka’s Public Security Minister Tiran Alles in his statement in Parliament, concerning the controversial Online Safety Bill.
 
-இவர்களை களுவாஞ்சிக்குடியில் வைத்து இன்று செவ்வாய்க்கிழமை (23) கைது செய்ததுடன் ஒரு மோட்டார்சைக்கிள் ஒரு முச்சக்கரவண்டி ஆகியவற்றை கைப்பற்றியுள்ளதாக களுவாஞ்சிக்குடி பொலிசார் தெரிவித்தனர்.
+In a statement issued on Tuesday (23 Jan.), the Asia Internet Coalition (AIC) challenged that the Minister’s recent claims “does not accurately reflect the substantial contributions that the AIC has made throughout the legislative process”.
 
-பொலிசாருக்கு கிடைத்த தகவல் ஒன்றின் பிரகாரம் களுவாஞ்சிக்குடி பொலிஸ் பொறுப்பதிகாரியின் வழிகாட்டலில் பெரும் குற்றத்தடுப்பு பிரிவு பொலிஸ் பொறுப்பதிகாரி தலைமையிலாக குழுவினர் களுவாஞ்சிக்குடி கடற்கரையில் சம்பவதினமான திங்கட்கிழமை (22) மாலை கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்தனர்.
+They also brought to light the fact that the AIC was not made aware of any amendments to the Online Safety Bill, despite their contributions.
 
 ...
 
-[Data](articles/0ee5e9a4.json)
+[Data](articles/adff3c6e.json)
 
 ---
 
-### கச்சத்தீவு புனித அந்தோனியார் ஆலய திருவிழாவுக்கு அழைப்பு விடுக்கக்கோரி தமிழகத்திலிருந்து அமைச்சருக்கு கடிதம்
+### Cannabis kidnapping from Vavuniya to Batticaloa: Four arrested
+
+*2024-01-23 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174648) · `ta`
+
+Four persons, including traders who went to buy cannabis, have been arrested on a motorbike from Vavuniya to Kaluwanchikudi, Batticaloa.
+
+They were arrested on Tuesday (23) at Kaluwanchikudi and a motorcycle had seized a three -wheeler, Kaluwanchikudi police said.
+
+According to information received by the police, under the guidance of the Kaluwanchikudi Police Officer, the team was headed by the police officer in charge of the police officer on Monday evening at the Kaluwanchikudi beach.
+
+While two merchants from Kaluwanchikudi area were waiting in a three -wheeler in the area, two men who were waiting for cannabis in a motorcycle from Vavuniya were waiting for the traders who were engaged in cannabis.Rescued.
+
+The police said that steps have been taken to produce the arrested persons in court after the hearing.
+
+◼️
+
+[Data](articles/0ee5e9a4.json)
+
+[Extended Data](ext_articles/0ee5e9a4.ext.json)
+
+---
+
+### Letter to Minister from Tamil Nadu
 
 *2024-01-23 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174647) · `ta`
 
-இந்திய பாரம்பரிய கத்தோலிக்க மீனவர்களின் உணர்வுக்கு மதிப்பளித்து கச்சத்தீவு புனித அந்தோணியார் ஆலய திருவிழாவுக்கு இலங்கை கத்தோலிக்க திருச்சபையானது கச்சத்தீவு பாரம்பரிய திருப்பயண குழுவுக்கும் அழைப்பு விடுக்க வேண்டும் என்று எழுத்து மூலம் கோரிக்கை விடுக்கப்பட்டுள்ளது.
+The Catholic Church of Sri Lanka has been summoned to the Kachchativu Traditional Thiruppa Group for the festival of St. Anthony's Temple in Kachchativu, respecting the sentiment of Indian traditional Catholic fishermen.
 
-இந்தியா, தமிழ்நாடு - இராமநாதபுரம் கச்சத்தீவு பாரம்பரிய நாட்டுப்படகு திருப்பயண குழுவினால் கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா மற்றும் யாழ் மறை மாவட்ட ஆயர் ஆகியோருக்கு அனுப்பி வைக்கப்பட்டுள்ள கடிதத்தில் இவ்வாறு கோரப்பட்டுள்ளது.
+In a letter to Fisheries Minister Douglas Devananda and the pastor of Jaffna, the Bishop of Fisheries, the Traditional Folk Group of India, Tamil Nadu - Ramanathapuram Kachchativu.
 
-1974 ஆண்டு ஒப்பந்தப்படி கச்சத்தீவு இலங்கையிடம் ஒப்படைக்கபட்ட போதிலும், இந்திய பாராம்பரிய மீனவர்களின் வழிபாட்டு உரிமையை பாதுகாக்கும் நோக்கத்தில், கச்சத்தீவு ஒப்பந்தத்தில் உள்ள 5ஆவது சரத்தில், கச்சத்தீவு புனித அந்தோணியார் ஆலய திருவிழாவிற்கு பாரம்பரிய மீனவர்கள் விசா உள்ளிட்ட எந்த அனுமதி இல்லாமல் குடும்பத்துடன் சென்று வழிபடலாம் என குறிப்பிடப்பட்டுள்ளது.
+Although Kachchativu was handed over to Sri Lanka in 1974, it is stated that in the 5th string of the Kachchativu Contract, the Kachchativu St. Anthony's Temple Festival, in order to protect the rights of the Indian fishermen, it is said that traditional fishermen can go to the Kachchativu festival without any permission, including visa.
 
 ...
 
 [Data](articles/53ba1d01.json)
+
+[Extended Data](ext_articles/53ba1d01.ext.json)
 
 ---
 
@@ -80,21 +104,23 @@ Two ODI matches 36 Colombo. Even though he has previously decided to hold at the
 
 ---
 
-### கச்சத்தீவு அந்தோனியார் ஆலய வருடாந்த திருவிழாவில் 8ஆயிரம் பக்தர்களுக்கு அனுமதி
+### Kachchativu Antoniyar Temple Annual Festival of 8,000 devotees
 
 *2024-01-23 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/174650) · `ta`
 
-கச்சத்தீவு அந்தோனியார் ஆலய வருடாந்த திருவிழா முன்னேற்பாட்டுக் கூட்டம் யாழ் மாவட்ட செயலர் தலைமையில் செவ்வாய்க்கிழமை மாவட்ட செயலகத்தில் இடம்பெற்றது.
+The Annual Festival of Kachchativu Antoniyar Temple was held at the District Secretariat on Tuesday under the chairmanship of the Jaffna District Secretary.
 
-எதிர்வரும்  பெப்ரவரி மாதம் 23 மற்றும் 24ம் திகதிகளில் கச்சத்தீவு அந்தோனியார் ஆலய வருடாந்த மகோற்வம் சிறப்பாக இடம் பெறவுள்ள நிலையில் குறித்த ஏற்பாடுகள் தொடர்பில் ஆராயும் முன்னேற்பாட்டு கூட்டத்தில், இவ்வருடம் இலங்கையிலிருந்து 4000 பக்தர்களும் இந்தியாவில் இருந்து 4000 பக்தர்களும் பங்குபற்ற அனுமதிப்பது என தீர்மானிக்கப்பட்டுள்ளது.
+At a meeting to investigate the preparations for the arrangements of the Kachchativu Antoniyar Temple on February 23 and 24, it has decided to allow 4000 pilgrims and 4,000 pilgrims from India this year.
 
-பங்குபற்றுவோருக்கான சுகாதாரம், போக்குவரத்து உட்பட அடிப்படை வசதிகள், பாதுகாப்பு, ஏற்பாடுகள் மற்றும் உணவு போன்ற பல்வேறுபட்ட விடயங்கள் தொடர்பில் ஆராயப்பட்டது.
+A variety of issues such as basic amenities, safety, arrangements and food, including health and transport for participants.
 
-குறித்த முன்னாயத்த கூட்டத்தில் யாழ் இந்திய துணைத் தூதுவராலய அதிகாரிகள், நெடுந்தீவு பிரதேச செயலர், நெடுந்தீவு பங்குத்தந்தை, யாழ்மறை மாவட்ட குரு முதல்வர், கடற்படையின் பிராந்திய பொறுப்பதிகாரி பொலிஸ் உயரதிகாரிகள் ராணுவ உயரதிகாரிகள் மற்றும் துறை சார் திணைக்களின் தலைவர்கள் கலந்து கொண்டனர்.
+The meeting was attended by the Jaffna Deputy Embassy Officers, Nedundevu Divisional Secretary, Neduntivu Stock Exchange, Jaffna District Guru Chief Minister, Regional Officer of the Navy, Army High Officers and Heads of the Department of Department of Department.
 
 ◼️
 
 [Data](articles/9ef9ddf6.json)
+
+[Extended Data](ext_articles/9ef9ddf6.ext.json)
 
 ---
 
@@ -118,19 +144,21 @@ State Minister for Rural Economy, K. Kader Masthan, conveyed this information du
 
 ---
 
-### විදුලි ගාස්තු සංශෝධනය පෙබරවාරි මැද
+### The electricity tariff revision of the middle of February
 
 *2024-01-23 19:52:14* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-පෙබරවාරි-මැද/11-407696) · `si`
 
-මේ වසරට අදාළ විදුලි ගාස්තු සංශෝධනය කිරීම පෙබරවාරි මස මැද කාලයේදී  සිදුකරන  බව ශ්‍රී ලංකා මහජන උපයෝගිතා කොමිසමේ සභාපති මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පැවසීය.
+The Chairman of the Public Utilities Commission of Sri Lanka, Professor Manjula Fernando said that the revision of the electricity tariff will be revised this year in the middle of February.
 
-විදුලි ගාස්තු සංශෝධනය කිරීමේදී අනුගමනය කළ යුතු ක්‍රියාමාර්ගයක් ඇති බවත්,  මේ අනුව විදුලි බල මණ්ඩලය විසින් ඉදිරිපත් කර තිබෙන යෝජනාව පිළිබඳ මහජන අදහස් විමසීම අද (23දා) ආරම්භ කළ බවත්  හෙතෙම සඳහන් කළේය.මහජන උපයෝගිතා කොමිසමේ පැවති වැඩසටහකට එක් වෙමින් සභාපතිවරයා මේ බව පැවසීය.
+He said that there was a program to follow during the revision of the electricity tariffs.
 
-විදුලිබල මණ්ඩලය විසින් ලබා දී තිබෙන යෝජනාවට මහජන අදහස් ලබා ගැනීම සඳහා දින 21 ක කාලයක් ගතවන අතර, විදුලිබල මණ්ඩලය විසින් විදුලි ගාස්තු සංශෝධනයට අදාළ යෝජනාව මේ මස 13 වැනි දින මහජන උපයෝගිතා කොමිසමට භාර දී ඇත.
+The proposal given by the CEB has taken a 21-day to obtain public views and has been handed over to the Public Utilities Commission on 13th of this month.
 
 ◼️
 
 [Data](articles/ce0ef201.json)
+
+[Extended Data](ext_articles/ce0ef201.ext.json)
 
 ---
 
@@ -2019,27 +2047,5 @@ Prof. Manjula Fernando, Chairman of the Public Utilities Commission, said that e
 [Data](articles/60cfc0dd.json)
 
 [Extended Data](ext_articles/60cfc0dd.ext.json)
-
----
-
-### Parliament begins debating controversial Online Safety Bill
-
-*2024-01-23 12:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/parliament-begins-debating-controversial-online-safety-bill/) · `en`
-
-Colombo (News 1st) – The debate over the Online Safety Bill commenced in Parliament on Tuesday (23rd). This followed a vote to determine whether the Bill would be subject to a debate, with 83 votes for, and 50 votes against.
-
-Earlier, parliament sessions were postponed for a party leaders meeting that was requested by the Opposition.
-
-The Online Safety Bill has been widely criticised from many quarters, including the Bar Association of Sri Lanka, IT experts, global social media companies, and advocates for civil liberties.
-
-Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
-
-Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
-
-◼️
-
-[Data](articles/d37338dd.json)
-
-[Extended Data](ext_articles/d37338dd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 15:17:21**
+As of **2024-01-23 15:34:16**
 
 ## Newspaper Stats
 
-*Scraped **2,075** Articles*
+*Scraped **2,076** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 121
 newsfirstlk | 123
 islandlk | 123
 economynextcom | 125
-adaderanasinhalalk | 130
+adaderanasinhalalk | 131
 dailyftlk | 171
 adalk | 207
 virakesarilk | 225
@@ -26,45 +26,69 @@ tamilmirrorlk | 263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,070 (99.8%) of 2,075 articles have been extended.
+2,075 (100.0%) of 2,076 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### முதலை தாக்குதலுக்கு இலக்காகிய அநுராதபுரம் சிறைச்சாலை கைதி : மற்றொரு கைதியால் காப்பாற்றப்பட்டார்!
+### Prisoner of Anuradhapura
 
 *2024-01-23 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/174618) · `ta`
 
-அநுராதபுரம் சிறைச்சாலையில் கைதி ஒருவர் முதலையின் தாக்குதலுக்கு இலக்காகி முதலையால் இழுத்துச் செல்லப்பட்டபோது, பெரும் முயற்சியில் முதலையிடமிருந்து மற்றொரு கைதியால் காப்பாற்றப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+It is reported that a prisoner at the Anuradhapura prison has been rescued by another prisoner when he was aimed at the first attack and was dragged by the first.
 
-அநுராதபுரம் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த 34 வயதுடைய தமிழ்க்  கைதி ஒருவரே முதலையால் தாக்கப்பட்டுள்ளார்.
+A 34 -year -old Tamil prisoner who was detained at the Anuradhapura Prison has been attacked by the first.
 
-சிறைச்சாலை வளாகத்தில் மல்வத்து ஓயாவை அண்மித்த பகுதியில் பாதிக்கப்பட்ட  கைதியுடன்  மற்றும் சிலர் நேற்று  (22) பயிர்ச் செய்கையில் ஈடுபட்டிருந்தபோது மூங்கில் புதருக்கு அருகில் மறைந்திருந்த முதலை ஒன்று கைதியின் காலைப் பிடித்து இழுத்துச் சென்றதாக சிறைச்சாலை அதிகாரி ஒருவர் தெரிவித்தார்.
+A prison official said that a crocodile hidden near the bamboo shrub was caught by a prisoner's leg while engaging in cultivation with a victim in a nearby area near Malwathu Oya in the prison campus.
 
-முதலையின் தாக்குதலுக்கு உள்ளான கைதிக்கு ஒரு கை, கால் மற்றும் கழுத்து பகுதியில் காயங்கள் ஏற்பட்டுள்ள நிலையில், அநுராதபுரம் போதனா வைத்தியசாலையில்  அனுமதிக்கப்பட்ட  பின்னர், இன்று செவ்வாய்க்கிழமை (23) காலை அவருக்கு சத்திரசிகிச்சை மேற்கொள்ளப்பட்டது.
+He was admitted to the Anuradhapura Teaching Hospital after being admitted to the Anuradhapura Teaching Hospital after he was injured in an arm, leg and neck area.
 
 ◼️
 
 [Data](articles/609fc5fc.json)
 
+[Extended Data](ext_articles/609fc5fc.ext.json)
+
 ---
 
-### நிகழ்நிலை காப்புச்சட்டமூலத்தை விவாதத்துக்கு எடுத்துக்கொள்வதில் ஆளும், எதிர்க்கட்சி சபையில் கடும் வாக்குவாதம்
+### Fierce arguments in the ruling and opposition council
 
 *2024-01-23 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174616) · `ta`
 
-உத்தேச நிகழ்நிலை காப்புச்சட்டமூலத்தை பாராளுமன்றத்தில் நேற்று விவாதத்துக்கு எடுத்துக்கொள்வதற்கு எதிர்க்கட்சிகள் கடும் எதிர்ப்பை வெளியிட்டுவந்த நிலையில், குறித்த சட்டமூலம் மீதான விவாத்தை ஏற்கனவே தீர்மானித்ததற்கு அமைய நடத்த வேண்டும் என ஆளும் கட்சியினர் தெரிவித்து வந்தனர். அதனால் சபையில் ஆளும் எதிர்க்கட்சி உறுப்பினர்களுக்கு மத்தியில் கடும் வாக்குவாதம் இடம்பெற்றது.
+As the opposition parties expressed their opposition to the debate in Parliament yesterday, the ruling party has announced that the debate on the bill should be held in accordance with the decision to take over. So there was a heated argument among the ruling opposition members in the House.
 
-அதனால் சபையை தொடர்ந்து முன்னெடுத்துச்செல்வதற்காக உத்தேச நிகழ்நிலை காப்புச்சட்டமூலத்தை சபையில் விவாதிப்பதா இல்லையா என தீர்மானிக்க வாக்கெடுப்புக்கு செல்லவோம் என தெரிவித்து வாக்கெடுப்பு நடத்தப்பட்டது.
+So the referendum was held to go to a referendum to decide whether or not to discuss the proposal insulation bill in the House.
 
-அதில் பெரும்பான்மையினர் விவாதத்தை நடத்த வேண்டும் என வாக்களித்ததன் பிரகாரம் உத்தேச நிகழ்நிலை காப்புச்சட்டமூலத்தின் இரண்டாம் வாசிப்பு மீதான விவாதம் முன்னெடுக்கப்பட்டது.
+The debate on the second reading of the proposed proceedings was carried out as the majority of the debate was voted for.
 
-பாராளுமன்றம் செவ்வாய்க்கிழமை சபாநாயகர் மஹிந்த யாப்பா அபேவர்த்தன தலைமையில் காலை 9.30 மணிக்கு கூடியது.
+Parliament met on Tuesday at 9.30 am chaired by Speaker Mahinda Yapa Abeywardena.
+
+Following the main proceedings, some, including the Leader of the Opposition, have asked me to take action on the day of the party leaders' meeting to take up the debate in Parliament, but to take action on the day of the proposed post -insulation.
 
 ...
 
 [Data](articles/58f846ab.json)
+
+[Extended Data](ext_articles/58f846ab.ext.json)
+
+---
+
+### වෙඩිවැදී අපවත්වූ හිමිනම ගැන තවත් තොරතුරු
+
+*2024-01-23 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192471) · `si`
+
+අද (23) පෙරවරුවේ ගම්පහ මල්වතු හිරිපිටිය විහාරස්ථානයක හිමිනමක් වෙඩිතබා ඝාතනය කර තිබුණි.
+
+මෝටර් රථයකින් පැමිණි සැකකරුවන් 04 දෙනෙකු හිමිනමට වෙඩිතබා පළා ගොස් ඇති අතර වෙඩිවැදීමෙන් බරපතළ තුවාල ලැබු හිමිනම ගම්පහ රෝහලට ඇතුලත් කෙරුණි.
+
+රෝහලේ ප්‍රතිකාර ලබමින් සිටි හිමිනම අද දහවල් අපවත් වී ඇති බව පොලීසිය සඳහන් කළේය.
+
+මෙලෙස අපවත්වී ඇත්තේ 45 හැවිරිදි, කළපළුවාවේ ධම්ම රතන නැමති කහටාන, ඝනාරාම මහා විහාරස්ථානයේ වැඩසිටි හිමිනමක් බව පැවසෙයි.
+
+◼️
+
+[Data](articles/de372369.json)
 
 ---
 
@@ -90,19 +114,21 @@ The Minister said that the Minister said that the aim of controlling the crimes 
 
 ---
 
-### மிதிகம ரயில் கடவையில்  விபத்து : காரில் பயணித்த வெளிநாட்டு பயணி உட்பட இருவர் காயம்!
+### Two persons including a foreign traveler who was traveling in a car accident
 
 *2024-01-23 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174617) · `ta`
 
-மிதிகம ரயில் கடவையில் இன்று செவ்வாய்க்கிழமை (23) இடம்பெற்ற விபத்தில் இருவர் காயமடைந்துள்ளனர்.   பெலியத்தையிலிருந்து மாகோ  நோக்கி சென்றுக் கொண்டிருந்த ரஜரட்ட ரெஜின  கடுகதி ரயில்  கார் ஒன்றை மோதியே இந்த  விபத்து இடம்பெற்றுள்ளது.
+Two persons were injured in an accident on Tuesday (23) at the Mithigama railway crossing.The accident occurred when a Rajarata Regina Kadukathi train was traveling from Beliat to Mago.
 
-இந்தச் சம்பவத்தில் காயமடைந்த உள்ளூர் சுற்றுலா வழிகாட்டி  மற்றும் ஒரு வெளிநாட்டு சுற்றுலாப் பயணி ஆகியோர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+A local tour guide and a foreign tourist who were injured in the incident have been admitted to the hospital.
 
-ரயில் செல்வதற்கான  சமிக்ஞை போடப்பட்டிருந்த நிலையில் குறித்த கார் பாதுகாப்பற்ற முறையில் பயணித்ததால் இந்த  விபத்து ஏற்பட்டதாக தெரிவிக்கப்படுகிறது.
+The crash was reportedly due to the unprotected car when the train had been signaling.
 
 ◼️
 
 [Data](articles/794c0896.json)
+
+[Extended Data](ext_articles/794c0896.ext.json)
 
 ---
 
@@ -124,6 +150,8 @@ The concerned SI and a Police Constable had then chased down the lorry and pulle
 
 [Data](articles/eb94da74.json)
 
+[Extended Data](ext_articles/eb94da74.ext.json)
+
 ---
 
 ### Six Indian fishermen arrested for poaching in Sri Lankan waters
@@ -139,6 +167,8 @@ Accordingly, the arrested Indian nationals, and their trawlers, were brought to 
 ◼️
 
 [Data](articles/89d77746.json)
+
+[Extended Data](ext_articles/89d77746.ext.json)
 
 ---
 
@@ -1951,25 +1981,5 @@ Accordingly, the Central Bank has announced that it has decided to maintain a 9%
 [Data](articles/2eb9dc1f.json)
 
 [Extended Data](ext_articles/2eb9dc1f.ext.json)
-
----
-
-### 955 more arrests in 24 hours
-
-*2024-01-23 09:16:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணி-நேரத்தில்-மேலும்-955-பேர்-கைது/175-331996) · `ta`
-
-955 suspects have been arrested in the last 24 hours that ended this morning as part of a special roundup of the country.
-
-These include 633 suspects involved in drug offenses and 322 suspects from the list of the Criminal Investigation Department.
-
-Of the 633 suspects arrested for drug offenses, seven suspects have been detained and further investigations are being carried out.
-
-28 suspects have been arrested on the list of the Police Drug Prevention Unit and the Police Special Bureau.
-
-◼️
-
-[Data](articles/a2825cbd.json)
-
-[Extended Data](ext_articles/a2825cbd.ext.json)
 
 ---

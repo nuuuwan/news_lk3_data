@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 16:17:08**
+As of **2024-01-23 16:32:50**
 
 ## Newspaper Stats
 
-*Scraped **2,088** Articles*
+*Scraped **2,090** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,60 @@ dailyftlk | 171
 adalk | 212
 virakesarilk | 227
 dailymirrorlk | 256
-adaderanalk | 258
+adaderanalk | 260
 tamilmirrorlk | 266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,085 (99.9%) of 2,088 articles have been extended.
+2,088 (99.9%) of 2,090 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### சீனாவில் மண்சரிவில் சிக்கி மாயமானவர்களில் 9 பேர் பலி
+### Dimuth Karunaratne named in ICC Men’s Test Team of the Year
+
+*2024-01-23 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96661/dimuth-karunaratne-named-in-icc-mens-test-team-of-the-year) · `en`
+
+Former captain of Sri Lanka’s Test and ODI teams, Dimuth Karunaratne has secured a spot in the ICC Men’s Test Team of the Year 2023 despite playing just six matches in the year.
+
+Meanwhile, the ICC World Test Championship 2021-23 finalists Australia and India have dominated the ICC Men’s Test Team of the Year 2023.
+
+Despite playing just six matches in the year, Sri Lanka captain Dimuth Karunaratne secures a spot in the team with memorable outings throughout 2023 in Tests having amassed 608 runs at an average of 60.8.
+
+Karunaratne led by example in the away series in New Zealand with three fifties in four innings, amassing 207 runs, the most by a Sri Lankan batter on the tour.
+
+The skipper scored a century in each match against Ireland as Sri Lanka completed a dominant 2-0 whitewash, winning both matches by an innings.
+
+Karunaratne’s struggles against Pakistan underscored his crucial role within the team as Sri Lanka lost 2-0 at home.
+
+...
+
+[Data](articles/b123e1f7.json)
+
+---
+
+### Nine people killed in landslide in China
 
 *2024-01-23 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/174625) · `ta`
 
-சீனாவின் தென்மேற்கு யுன்னான் பகுதியில் திங்கட்கிழமை ஏற்பட்ட மண்சரிவில் சிக்கியுள்ளவர்களை மீட்கும் பணியில் மீட்புக்குழுவினர் ஈடுபட்டுள்ளனர்.
+Rescue crews are in the process of rescuing those trapped in the landslide on Monday in the southwestern Yunnan area of China.
 
-மண்சரிவில் 18 வீடுகள் புதையுண்டுள்ளதோடு, அதில்  47 பேர்  சிக்குண்டுள்ளதாக  அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+There are 18 houses in the landslide, of which 47 have been cook, according to the media reports.
 
-இந்நிலையில், அவர்களில் ஒன்பது பேர் உயிரிழந்துள்ளதோடு, இருவர் இடிபாடுகளில் இருந்து மீட்கப்பட்டு வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளனர்.
+Nine of them have died and two have been rescued from the wreckage and taken to the hospital.
 
-சீனாவில் யுன்னான் மாகாணத்தில் தற்போது கடுமையான குளிர் நிலவி வருவதாக சீன தேசிய வானிலை ஆய்வு மையம் தெரிவித்துள்ளது.
+The Chinese National Meteorological Department said that there is a severe cold in China.
 
-சீனாவில் கடந்த ஆண்டு ஏற்பட்ட மண்சரிவில் சிக்கி மங்கோலியா பகுதியில் உள்ள திறந்தவெளி சுரங்கப் பணியாளர்கள் 50க்கும்  மேற்பட்டவர்கள் உட்பட  குறைந்தது 70 பேர் உயிரிழந்தனர்.
+At least 70 people were killed, including over 50 open space mining workers in Mongolia, trapped in last year's landslide in China.
 
 ◼️
 
 [Data](articles/3653d0d8.json)
+
+[Extended Data](ext_articles/3653d0d8.ext.json)
 
 ---
 
@@ -74,39 +98,61 @@ As a result, the Department of Motor Traffic has informed the public to register
 
 ---
 
-### திடீரென சரிந்து வீழ்ந்த புதிதாக கட்டப்பட்ட 3 மாடி வீடு
+### A newly built 3 -storey house
 
 *2024-01-23 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174622) · `ta`
 
-தமிழ்நாட்டில் புதுச்சேரியில் திங்கட்கிழமை வாய்க்காலில் தோண்டப்பட்ட பள்ளத்தின் காரணமாக புதிதாக 3 மாடி கட்டிமுடிக்கப்பட்ட வீடொன்று திடீரென சரிந்து வீழ்ந்து தரைமட்டடமாகியுள்ளது.
+A newly built house has suddenly collapsed due to a ditch dug in Puducherry in Puducherry in Tamil Nadu.
 
-புதுமனைப் புகுவிழா நடைபெற இருந்த நிலையிலேயே இவ்வாறு குறித்த வீடு இடிந்து விழுந்துள்ளது.
+The house has collapsed as the new festival was held.
 
-இந்நிலையில், நேற்று இன்று மதியம் பெக்கோ இயந்திரம் மூலம் வாய்க்காலின் பக்கவாட்டு பகுதி சீரமைக்கப்பட்டு சுவர் எழுப்புதற்கான நடவடிக்கை எடுக்கப்பட்டது.
+In this case, the side of the mouth was renovated by the Becko machine this afternoon and action was taken to raise the wall.
 
-இதற்காக வாய்க்காலின் மண் அகழும் பகுதியில் ஜேசிபி இயந்திரம் ஈடுபட்டது. இதனால் வாய்க்கால் ஓரம் கட்டப்பட்டுள்ள வீடுகளுக்கு அதிர்வு ஏற்பட்டது. இதற்கு அப்பகுதி மக்கள் எதிர்ப்பை தெரிவித்தனர்.
+For this purpose, the JCP machine was involved. This caused vibration to the houses that were built. The people of the area expressed their opposition to this.
 
-இந்நிலையில், திடீரென அப்பகுதியில் கட்டப்பட்டிருந்த மூன்று மாடி கட்டிடம் ஒன்று சரிந்து விழுந்தது. இதனை சற்றும் எதிர்பாராத அதன் அருகே நின்றிருந்த பொதுமக்கள், பொலிஸார் மற்றும் முன்னாள் எம்எல்ஏ அன்பழகன் ஆகியோர் அங்கிருந்து ஓடினார்கள்.
+In this case, a three -storey building, which was suddenly built in the area, collapsed. The civilians, the police and the former MLA Anbalakan ran from there to an unexpectedly unexpectedly.
 
-குறித்த வீட்டுக்கு இன்னும் சில தினங்களில் புதுமனை புகுவிழா நடைபெற இருந்தது. இந்நிலையில் குறித்த புது வீடு சரிந்து வீழ்ந்துள்ளது.
+The house was to be held in a few more days. In this case, the new house has fallen.
 
-...
+There was no one inside the house as the house was completed and the planet was not done. There was no danger to anyone as those who were standing outside were running out. Residents of the area went on strike, accusing them of collapse due to excessive sand.
+
+◼️
 
 [Data](articles/943fc0b0.json)
 
+[Extended Data](ext_articles/943fc0b0.ext.json)
+
 ---
 
-### வங்கி கடன் வட்டி வீதம் தொடர்பில் மத்திய வங்கியின் நிலைப்பாடு
+### Central Bank's position on bank loan interest rate
 
 *2024-01-23 15:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கி-கடன்-வட்டி-வீதம்-தொடர்பில்-மத்திய-வங்கியின்-நிலைப்பாடு/175-332019) · `ta`
 
-வங்கிக் கடன் வட்டி வீதம் மேலும் குறைக்கப்பட வேண்டும் என மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க தெரிவித்துள்ளார்.
+Governor of the Central Bank Dr. Nandalal Weerasinghe says the bank loan interest rate should be further reduced.
 
-மத்திய வங்கியில் இன்று (23) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் அவர் இதனைக் கூறியுள்ளார்.
+He made this statement at a media briefing held at the Central Bank today (23).
 
 ◼️
 
 [Data](articles/8574b3a9.json)
+
+[Extended Data](ext_articles/8574b3a9.ext.json)
+
+---
+
+### Dental surgeons to also go on strike
+
+*2024-01-23 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96660/dental-surgeons-to-also-go-on-strike) · `en`
+
+The Government Dental Surgeons’ Association (GDSA) announced that they will also engage in a strike action from 8.00 a.m. tomorrow, (Jan 24) in response to the Health Ministry’s decision to withhold payment of the Disturbance, Availability and Transport (DAT) allowance for doctors, which was recently increased by Rs. 35,000.
+
+Issuing a statement, the association mentioned that the duration and specifics of the strike will be decided at an emergency executive committee meeting of the GDSA which is scheduled to be held tomorrow (24).
+
+Furthermore, the Government Dental Surgeons’ Association express that they regret the inconvenience this action may cause to the public, emphasizing that the responsibility for any service breakdown and resultant public inconvenience lies squarely with the officials of the Finance Ministry.
+
+...
+
+[Data](articles/3de26d4c.json)
 
 ---
 
@@ -1961,49 +2007,5 @@ President Ranil Wickremesinghe has come to the island this morning with Ranil Wi
 [Data](articles/63867c41.json)
 
 [Extended Data](ext_articles/63867c41.ext.json)
-
----
-
-### Justice's resolution on handing Dinesh Shaft's telephone SIM card to his wife!
-
-*2024-01-23 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/174582) · `ta`
-
-Colombo Additional Justice Harshana Kekunuwela has said that the request of the assassination of the murdered businessman Dinesh Shopper will be considered after the report of the Government Analysis Division will be considered.
-
-The magistrate said in a request made by Dinesh Shaft's wife to issue an order to obtain a new SIM card, showing the phone number used before her husband.
-
-The magistrate made the announcement when the Criminal Investigation Department (CID) made a request to reject the request of his wife to issue a new SIM card to his wife.
-
-◼️
-
-[Data](articles/c1b46666.json)
-
-[Extended Data](ext_articles/c1b46666.ext.json)
-
----
-
-### The shocking information about the Beliatta shooting
-
-*2024-01-23 10:28:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-துப்பாக்கிச்சூடு-தொடர்பில்-வெளியான-திடுக்கிடும்-தகவல்கள்/175-331999) · `ta`
-
-There have been shocking reports about the murder of five people near the Beliatta Gate on the Southern Highway.
-
-Investigations have revealed that the main reason for this is the head of the underworld Kosgoda Sujee, a Dubai country.
-
-Earlier, Kosgoda Suji had tried to assassinate Abe Janapala Party leader Saman Prasanna Perera, owner of a beach hotel.
-
-However, officials of the underworld have pointed out that he survived and his foreign investor was shot and injured.
-
-Officials point out that there were long conflicts between Kosgoda Sujee and the deceased and that he was aimed at politics.
-
-The Criminal Investigation Department (CID) had earlier taken steps to bring Kosgoda Sujee, who is hiding in Dubai, to Sri Lanka.
-
-Meanwhile, the five people have come to participate in a Defender car belonging to Saman Perera, who died in the incident.. 3 of the five were guilty, police said.
-
-...
-
-[Data](articles/3904fa13.json)
-
-[Extended Data](ext_articles/3904fa13.ext.json)
 
 ---

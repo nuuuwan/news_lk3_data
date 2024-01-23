@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 15:02:24**
+As of **2024-01-23 15:17:21**
 
 ## Newspaper Stats
 
-*Scraped **2,070** Articles*
+*Scraped **2,075** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,56 @@ economynextcom | 125
 adaderanasinhalalk | 130
 dailyftlk | 171
 adalk | 207
-virakesarilk | 222
+virakesarilk | 225
 dailymirrorlk | 255
-adaderanalk | 256
+adaderanalk | 258
 tamilmirrorlk | 263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,062 (99.6%) of 2,070 articles have been extended.
+2,070 (99.8%) of 2,075 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### முதலை தாக்குதலுக்கு இலக்காகிய அநுராதபுரம் சிறைச்சாலை கைதி : மற்றொரு கைதியால் காப்பாற்றப்பட்டார்!
+
+*2024-01-23 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/174618) · `ta`
+
+அநுராதபுரம் சிறைச்சாலையில் கைதி ஒருவர் முதலையின் தாக்குதலுக்கு இலக்காகி முதலையால் இழுத்துச் செல்லப்பட்டபோது, பெரும் முயற்சியில் முதலையிடமிருந்து மற்றொரு கைதியால் காப்பாற்றப்பட்டுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+அநுராதபுரம் சிறைச்சாலையில் தடுத்து வைக்கப்பட்டிருந்த 34 வயதுடைய தமிழ்க்  கைதி ஒருவரே முதலையால் தாக்கப்பட்டுள்ளார்.
+
+சிறைச்சாலை வளாகத்தில் மல்வத்து ஓயாவை அண்மித்த பகுதியில் பாதிக்கப்பட்ட  கைதியுடன்  மற்றும் சிலர் நேற்று  (22) பயிர்ச் செய்கையில் ஈடுபட்டிருந்தபோது மூங்கில் புதருக்கு அருகில் மறைந்திருந்த முதலை ஒன்று கைதியின் காலைப் பிடித்து இழுத்துச் சென்றதாக சிறைச்சாலை அதிகாரி ஒருவர் தெரிவித்தார்.
+
+முதலையின் தாக்குதலுக்கு உள்ளான கைதிக்கு ஒரு கை, கால் மற்றும் கழுத்து பகுதியில் காயங்கள் ஏற்பட்டுள்ள நிலையில், அநுராதபுரம் போதனா வைத்தியசாலையில்  அனுமதிக்கப்பட்ட  பின்னர், இன்று செவ்வாய்க்கிழமை (23) காலை அவருக்கு சத்திரசிகிச்சை மேற்கொள்ளப்பட்டது.
+
+◼️
+
+[Data](articles/609fc5fc.json)
+
+---
+
+### நிகழ்நிலை காப்புச்சட்டமூலத்தை விவாதத்துக்கு எடுத்துக்கொள்வதில் ஆளும், எதிர்க்கட்சி சபையில் கடும் வாக்குவாதம்
+
+*2024-01-23 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174616) · `ta`
+
+உத்தேச நிகழ்நிலை காப்புச்சட்டமூலத்தை பாராளுமன்றத்தில் நேற்று விவாதத்துக்கு எடுத்துக்கொள்வதற்கு எதிர்க்கட்சிகள் கடும் எதிர்ப்பை வெளியிட்டுவந்த நிலையில், குறித்த சட்டமூலம் மீதான விவாத்தை ஏற்கனவே தீர்மானித்ததற்கு அமைய நடத்த வேண்டும் என ஆளும் கட்சியினர் தெரிவித்து வந்தனர். அதனால் சபையில் ஆளும் எதிர்க்கட்சி உறுப்பினர்களுக்கு மத்தியில் கடும் வாக்குவாதம் இடம்பெற்றது.
+
+அதனால் சபையை தொடர்ந்து முன்னெடுத்துச்செல்வதற்காக உத்தேச நிகழ்நிலை காப்புச்சட்டமூலத்தை சபையில் விவாதிப்பதா இல்லையா என தீர்மானிக்க வாக்கெடுப்புக்கு செல்லவோம் என தெரிவித்து வாக்கெடுப்பு நடத்தப்பட்டது.
+
+அதில் பெரும்பான்மையினர் விவாதத்தை நடத்த வேண்டும் என வாக்களித்ததன் பிரகாரம் உத்தேச நிகழ்நிலை காப்புச்சட்டமூலத்தின் இரண்டாம் வாசிப்பு மீதான விவாதம் முன்னெடுக்கப்பட்டது.
+
+பாராளுமன்றம் செவ்வாய்க்கிழமை சபாநாயகர் மஹிந்த யாப்பா அபேவர்த்தன தலைமையில் காலை 9.30 மணிக்கு கூடியது.
+
+...
+
+[Data](articles/58f846ab.json)
+
+---
 
 ### Pornography on social media has increased many times - Syber crimes are very high
 
@@ -54,6 +90,58 @@ The Minister said that the Minister said that the aim of controlling the crimes 
 
 ---
 
+### மிதிகம ரயில் கடவையில்  விபத்து : காரில் பயணித்த வெளிநாட்டு பயணி உட்பட இருவர் காயம்!
+
+*2024-01-23 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174617) · `ta`
+
+மிதிகம ரயில் கடவையில் இன்று செவ்வாய்க்கிழமை (23) இடம்பெற்ற விபத்தில் இருவர் காயமடைந்துள்ளனர்.   பெலியத்தையிலிருந்து மாகோ  நோக்கி சென்றுக் கொண்டிருந்த ரஜரட்ட ரெஜின  கடுகதி ரயில்  கார் ஒன்றை மோதியே இந்த  விபத்து இடம்பெற்றுள்ளது.
+
+இந்தச் சம்பவத்தில் காயமடைந்த உள்ளூர் சுற்றுலா வழிகாட்டி  மற்றும் ஒரு வெளிநாட்டு சுற்றுலாப் பயணி ஆகியோர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+ரயில் செல்வதற்கான  சமிக்ஞை போடப்பட்டிருந்த நிலையில் குறித்த கார் பாதுகாப்பற்ற முறையில் பயணித்ததால் இந்த  விபத்து ஏற்பட்டதாக தெரிவிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/794c0896.json)
+
+---
+
+### SI arrested over Narammala ‘accidental’ shooting further remanded
+
+*2024-01-23 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96659/si-arrested-over-narammala-accidental-shooting-further-remanded) · `en`
+
+The Sub-Inspector (SI) of Police who was arrested over the alleged ‘accidental’ shooting of a lorry driver in Narammala recently has been further remanded.
+
+Accordingly, the SI was ordered remanded until 31 January on orders of the Narammala Magistrate’s Court.
+
+On Thursday (18 Jan.), a 41-year-old lorry driver was killed after a police officer in civilian attire had ‘accidentally’ discharged his firearm during a vehicle inspection. The victim was identified as a resident of Maharachchimulla area.
+
+The police media division said the driver had failed to comply with a signal to stop at a police checkpoint in Dampelessa, Narammala.
+
+The concerned SI and a Police Constable had then chased down the lorry and pulled it over for a spot inspection, during which the SI had allegedly ‘accidentally’ discharged his firearm, critically wounding the driver, who was rushed to the Narammala District Hospital, but succumbed to injuries shortly after.
+
+...
+
+[Data](articles/eb94da74.json)
+
+---
+
+### Six Indian fishermen arrested for poaching in Sri Lankan waters
+
+*2024-01-23 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96658/six-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters-) · `en`
+
+Six Indian nationals, together with two fishing trawlers, have been taken into custody by the Sri Lanka Navy for poaching in local water north of Delft Islands, Jaffna.
+
+The apprehension took place during a special operation conducted on Monday night (22 Jan.), in a bid to chase away foreign fishing vessels poaching in Sri Lankan waters.
+
+Accordingly, the arrested Indian nationals, and their trawlers, were brought to the Kankasanthurai Harbour, and are due to be handed over to Mailadi Fisheries Inspector for onward legal action, the Navy reported.
+
+◼️
+
+[Data](articles/89d77746.json)
+
+---
+
 ### DAT allowance for doctors temporarily suspended – Health Services DG
 
 *2024-01-23 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96657/dat-allowance-for-doctors-temporarily-suspended-health-services-dg) · `en`
@@ -72,63 +160,73 @@ He further mentioned that the Secretary of the Ministry of Health has informed h
 
 ---
 
-### உலகின் முதல் மலேரியா தடுப்பூசி திட்டம்  கமரூனில் ஆரம்பம்
+### The world's first malaria vaccine program is in the Cameroon
 
 *2024-01-23 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174612) · `ta`
 
-ஆபிரிக்க நாடான கமரூனில் மலேரியாவுக்கு எதிரான உலகின் முதலாவது தடுப்பூசி திட்டம் ஆரம்பிக்கப்பட்டுள்ளது.
+The world's first vaccine program has been launched in the African country of Cameron.
 
-அதன்படி, திங்களன்று கமரூனின் தலைநகாரான யவுண்டே அருகே உள்ள சுகாதார நிலையத்தில் டேனியலா என்ற பெண் குழந்தைக்கு முதலாவது தடுப்பூசி வழங்கப்பட்டுள்ளது.
+Accordingly, the first vaccine was given to a baby girl named Daniela at a health center near Younde, the capital of Cameron on Monday.
 
-ஆபிரிக்காவில் ஒவ்வொரு ஆண்டும் 600,000 பேர் மலேரியாவால் உயிரிழக்கிறார்கள். அவர்களில் 80 சதவீதம் ஐந்து வயதுக்குட்பட்ட குழந்தைகளாவர் என உலக சுகாதார ஸ்தாபனம் தெரிவித்துள்ளது.
+600,000 people die by malaria every year in Africa. The World Health Organization said 80 percent of them were children under the age of five.
 
-இந்நிலையில், கமரூன் அரசாங்கம், ஆறு மாதங்கள் நிறைவடைந்த அனைத்து குழந்தைகளுக்கும் RTS,S தடுப்பூசியை இலவசமாக வழங்குகிறது.
+In this case, the Cameroon government provides free RTS and S vaccine for all children who have completed six months.
 
-எனவே, தடுப்பூசியை பெற்றுக் கொள்ளும் முறையை  பெற்றோர்களுக்கு  இலகுப்படுத்தும் வகையில் மற்றைய வழக்கமான குழந்தை பருவ தடுப்பூசிகள் போடப்படும் அதே நேரத்தில் குறித்த தடுப்பூசியும் போடப்படும்  என சுகாதார அதிகாரிகள் கூறுகின்றனர்.
+Therefore, health officials say that the vaccine will be placed on other regular childhood vaccines to make parents feel the method of receiving the vaccine.
 
-கென்யா, கானா மற்றும் மலாவி ஆகிய நாடுகளில் பரிசோதனை வெற்றிகரமாக முடிந்துள்ளது. அங்கு தடுப்பூசி மூலம் மலேரியா உயிரிழப்புகள் 13 சதவீதம்  குறைந்துள்ளது என யுனிசெப் தெரிவித்துள்ளது.
+The test has been successfully completed in Kenya, Ghana and Malawi. UNICEF said malaria casualties were reduced by 13 percent by vaccination.
+
+The vaccine is known that at least 36 percent of victims are useful. This means that US researchers say that they will save more than one third.
 
 ...
 
 [Data](articles/4d2cacb4.json)
 
+[Extended Data](ext_articles/4d2cacb4.ext.json)
+
 ---
 
-### ஹமாசின் சிரேஸ்ட தலைவர்கள் காசாவிலிருந்து பாதுகாப்பாக வெளியேற இஸ்ரேல் அனுமதி? சிஎன்என் செய்தி
+### Israel's senior leaders permit Hamas to leave Gaza safely?CNN news
 
 *2024-01-23 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174615) · `ta`
 
-பரந்துபட்ட யுத்தநிறுத்த உடன்படிக்கையின் ஒரு பகுதியாக ஹமாஸ் அமைப்பின் சிரேஸ்ட தலைவர்கள் காசாவிலிருந்து வெளியேறுவதற்கு அனுமதிக்கும் யோசனையொன்றைஇஸ்ரேல் முன்வைத்துள்ளது.
+Israel has proposed an idea that the senior leaders of the Hamas organization are part of the widespread ceasefire agreement.
 
-காசாவில் யுத்தம் நான்கு மாதங்களாக நீடிக்கின்ற போதிலும் ஹமாஸ் அமைப்பினை முற்றாக அழிக்க முடியாத நிலையில் இஸ்ரேல் உள்ள சூழ்நிலையிலேயே இது குறித்த தகவல்கள் வெளியாகியுள்ளன.
+The war in Gaza lasts for four months, but it has been revealed in Israel's situation as the Hamas system cannot be completely destroyed.
 
-இஸ்ரேல் இதுவரை ஹமாசின் முக்கிய தலைவர்கள் எவரையும் கைதுசெய்யவில்லை,ஹமாசின் போரிடும் திறன் மிக்க 70 வீதமான உறுப்பினர்கள் இன்னமும் உயிருடன் உள்ளனர் என இஸ்ரேல் மதிப்பிட்டுள்ளது.
+Israel estimates that Israel has not arrested any of Hamas so far, and that 70 percent of Hamas's war -torn members are still alive.
 
-இவ்வாறான பி;ன்னணியிலேயே ஒக்டோபர் தாக்குதலின் சூத்திரதாரிகள் என கருதப்படும் ஹமாசின் சிரேஸ்ட தலைவர்கள்  காசாவிலிருந்து பாதுகாப்பாக வெளியேறுவதற்கு அனுமதிப்பதற்கு இஸ்ரேல் இணங்கியுள்ளது.
+Israel has agreed to allow Hamasin's senior leaders to be safely out of Gaza, which is considered the mastermind of the October attack.
 
-காசாவிலிருந்து ஹமாசின் சிரேஸ்ட தலைவர்கள் வெளியேறினால் ஹமாஸ் அமைப்பின் காசா மீதான பிடியை அது பாதிக்கும் மேலும் வெளிநாட்டில் உள்ள ஹமாஸ் தலைவர்களை இஸ்ரேல் தொடர்ந்தும் இலக்குவைக்கமுடியும் எனவும் சிஎன்என் தெரிவித்துள்ளது.
+CNN has said that Israel will continue to target Hamas leaders abroad if Hamas's senior leaders leave Gaza.
 
-...
+Meanwhile, CNN has said that Hamas is likely to accept this idea of Israel.
+
+◼️
 
 [Data](articles/d501c3c5.json)
 
+[Extended Data](ext_articles/d501c3c5.ext.json)
+
 ---
 
-### රොෂාන්ගේ මරණයට සැක පොලිස් නිලධාරියාට අධිකරණය දුන් නියෝගය
+### Court of police officer was suspected of suspicion death
 
 *2024-01-23 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192470) · `si`
 
-නාරම්මල ප්‍රදේශයේදී වෙඩි වැදීමෙන් තරුණයෙකු මියයාමේ සිද්ධියට අදාළව අත්අඩංගුවට ගත් උප පොලිස් පරීක්ෂකවරයා එළැඹෙන 31 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+The sub-inspector who was arrested in connection with the death of a youth in Narammala has been remanded until 31st.
 
-සැකකාර උප පොලිස් පරීක්ෂකවරයා අද නාරම්මල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී තිබේ.
+The suspect was produced before the Narammala Magistrate's Court today.
 
-නාරම්මල, රන්මුතුගලදී ලොරි රථය පරීක්ෂා කළ සැකකාර පොලිස් නිලධාරියාගේ ගිනි අවිය ක්‍රියාත්මක වීමෙන් තිදරු පියෙකු වූ 41 හැවිරිදි රොෂාන් කුමාරතිලක ට දිවි අහිමිවුයේ පසුගිය 18වනදාය.
+The 41-year-old Roshan Kumaratilake 51 year old Roshan Kumaratilake 51 year old Roshan Kumaratilake has died on the 18th.
 
-සිද්ධිය සම්බන්ධයෙන් කුලියාපිටිය කොට්ඨාශ අපරාධ විමර්ශන ඒකකය වැඩිදුර විමර්ශන සිදුකරයි.
+The Kuliyapitiya Crime Investigation Unit is conducting further investigations.
 
 ◼️
 
 [Data](articles/e8ca53ab.json)
+
+[Extended Data](ext_articles/e8ca53ab.ext.json)
 
 ---
 
@@ -150,41 +248,49 @@ This unexpected turn of events has fueled dissatisfaction among government docto
 
 [Data](articles/98e1e36f.json)
 
+[Extended Data](ext_articles/98e1e36f.ext.json)
+
 ---
 
-### වෛද්‍යවරුන්ගේ දීමනාව ගෙවීම අත්හිටුවයි
+### Payment of doctors' allowance suspended
 
 *2024-01-23 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192469) · `si`
 
-වෛද්‍යවරුන්ගේ රාජකාරී බාධා, පැමිණසිටීමේ දීමනාව (DAT) ගෙවීම තාවකාලිකව අත්හිටුවා ඇති බවට සෞඛ්‍ය සේවා  අධ්‍යක්ෂ ජනරාල් වෛද්‍ය අසේල ගුණවර්ධන මහතා පවසයි.
+Director General of Health Services Dr. Asela Gunawardena says that the payment of the duties of doctors is temporarily suspended.
 
-එම දීමනාව ගෙවීම සඳහා අවශ්‍ය කටයුතු සකස් කර තිබුණ ද අනුමත ප්‍රතිපාදන සීමාව තුළ මහා භාණ්ඩාගාරය විසින් අක්මුදල් ලබාදීමට කටයුතු කර නොමැති බව දැනුම්දෙමින් සෞඛ්‍ය සේවා  අධ්‍යක්ෂ ජනරාල්වරයා මෙම තීරණය ගෙන තිබේ.
+The Director General of Health Services has not taken measures to provide the Treasury to the Treasury in the approved allocation.
 
-ලිපියක් නිකුත් කරමින් සෞඛ්‍ය සේවා  අධ්‍යක්ෂ ජනරාල්වරයා වැඩිදුරටත් සඳහන් කර ඇත්තේ ඒ අනුව භාණ්ඩාගාරය වෙතින් මෙම ගැටලුව නිරාකරණය කරගන්නා තෙක් වැඩිකරන ලද රුපියල් 35,000ක මුදල ගෙවීම තාවකාලිකව අත්හිටුවන ලෙසට සෞඛ්‍ය ලේකම්වරයා විසින් තමන්වෙත දැනුම්දී ඇති බවය.
+The Director General of Health Services has issued a letter, accordingly, the Health Secretary has insisted the payment of Rs. 35,000 to the Treasury.
 
 ◼️
 
 [Data](articles/a6c5918c.json)
 
+[Extended Data](ext_articles/a6c5918c.ext.json)
+
 ---
 
-### ත්‍රස්ත විරෝධී පනත් කෙටුම්පතට එරෙහිව තවත් පෙත්සම් දෙකක්
+### Two more petitions against anti-terrorism bill
 
 *2024-01-23 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192467) · `si`
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන ත්‍රස්ත විරෝධි පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි යැයි තීන්දු කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ තවත් පෙත්සම් දෙකක් ගොනුකර තිබේ.
+Two more petitions have been filed in the Supreme Court to demanding the Constitution of the Constitution to decide that the government has presented to Parliament.
 
-නීතිඥ එකමුතුව වෙනුවෙන් ආචාර්ය දීපිකා උඩුගම මහත්මිය විසින් එක් පෙත්සමක් ඉදිරිපත් කර ඇති අතර පෙරටුගාමී සමාජවාදී පක්ෂයේ ප්‍රචාරක ලේකම් දුමින්ද නාගමුව මහතා විසින් අනෙක් පෙත්සම ඉදිරිපත් කර තිබිණි.
+The other petition was presented by the other petition by Mrs. Duminda Udugama on behalf of the lawyer.
 
-පෙත්සම්කරුවන් පෙන්වාදෙන්නේ අදාළ පනත් කෙටුම්පතේ අන්තර්ගත විධිවිධානවලින් යුද හමුදාව, පොලීසිය සහ වෙරළාරක්ෂක බළකායට ඕනෑම පුද්ගලයකු සාධාරණ හේතුවක් නොමැතිව අත්අඩංගුවට ගෙන රඳවා තබා ගැනීමේ බලය ලබාදී ඇති බවය.
+The petitioners point to the army, the police and the Coast Guard for the army, the police and the Coast Guard.
 
-මෙමඟින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව මඟින් සහතික කර තිබෙන පුද්ගල නිදහස, අදහස් ප්‍රකාශ කිරීම නිදහස ඇතුළු මූලික අයිතීන් උල්ලංඝනය වන බවත් පෙත්සම්කරුවන් පවසයි.
+Petitioners say that personality and commentary of personality certified by the Constitution is violating fundamental rights, including freedom.
 
-මේ හේතුවෙන් අදාළ පනත් කෙටුම්පත සම්මත කිරීමට අවශ්‍ය නම් පාර්ලිමේන්තුවේ තුනෙන් දෙකක බහුතර ඡන්දයකින් සහ ජනමත විචාරණයකින් එය අනුමත විය යුතු බවට තීන්දුවක් ලබාදෙන ලෙසත් ඔවුන් ශ්‍රේෂ්ඨාධිකරණයෙන් ඉල්ලා තිබේ.
+The Supreme Court has asked the Supreme Court to promote the division of two-thirds majority and referendum if this is necessary to pass the Bill.
 
-...
+Petitions have been submitted by the National Zoo, MP Vijitha Herath, convener of the National Zoo, Vijitha Herath, Convener of the International People's Youth, Wasantha Samarasinghe, the Socialist Youth Union.
+
+◼️
 
 [Data](articles/fee30849.json)
+
+[Extended Data](ext_articles/fee30849.ext.json)
 
 ---
 
@@ -261,6 +367,8 @@ The government recently approved the President's proposal to double the DAT allo
 ◼️
 
 [Data](articles/78617f1e.json)
+
+[Extended Data](ext_articles/78617f1e.ext.json)
 
 ---
 
@@ -1863,101 +1971,5 @@ Of the 633 suspects arrested for drug offenses, seven suspects have been detaine
 [Data](articles/a2825cbd.json)
 
 [Extended Data](ext_articles/a2825cbd.ext.json)
-
----
-
-### China - massive earthquake on Kyrgyzstan border
-
-*2024-01-23 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174572) · `ta`
-
-A powerful earthquake in China on Monday (22) at midnight, the National Geological Survey Center said.
-
-The earthquake is centered on the Jin Jiang province, which is located along the China -Kyrgyzstan border.
-
-The center of the earthquake was located at a depth of 80 km from the ground, according to the Geological Survey.
-
-Details of the damage caused by the earthquake will be released soon.
-
-Meanwhile, the impact of the earthquake in China has caused a stir in other parts of India, including Delhi.
-
-◼️
-
-[Data](articles/7727b2f9.json)
-
-[Extended Data](ext_articles/7727b2f9.ext.json)
-
----
-
-### “2,000” rupees since January
-
-*2024-01-23 08:26:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரி-முதல்-2-000-ரூபாய்/175-331995) · `ta`
-
-Since January, the government has decided to issue a pay of Rs.
-
-Accordingly, the allowance will be given to the Disabled Persons living in Children's Homes, Elderly Homes and Maintenance Homes. Remble
-
-◼️
-
-[Data](articles/d9ebb9d2.json)
-
-[Extended Data](ext_articles/d9ebb9d2.ext.json)
-
----
-
-### Powerful earthquake in China
-
-*2024-01-23 08:18:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-சக்தி-வாய்ந்த-நிலநடுக்கம்/50-331994) · `ta`
-
-Richter scale at midnight yesterday in the northwest of China. Powerful earthquake in 2.
-
-The earthquake is centered on the Jin Jiang province, which is located on the border of China -Kyrgyzstan.
-
-The impact of the earthquake in China has been felt in the first Pakistan of the Indian capital, Delhi.
-
-Chinese state media reported that up to 47 people were buried in the wreckage and more than 200 people were immediately evacuated to safe places.. Remble
-
-◼️
-
-[Data](articles/4520fff6.json)
-
-[Extended Data](ext_articles/4520fff6.ext.json)
-
----
-
-### Yukthiya not driven by personal agenda: Deshabandu
-
-*2024-01-23 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukthiya-not-driven-by-personal-agenda-Deshabandu/108-275549) · `en`
-
-Colombo, Jan 23 (Daily Mirror) - Despite criticism from several organisations including the UN regarding potential human rights violations during the ongoing countrywide crackdown on criminals and drug smugglers, Acting IGP Deshabandu Tennakoon told the Daily Mirror that the operation ’Yukthiya’ has ano personal agenda, focusing solely on eradicating the underworld and apprehending drug smugglers.
-
-The 'Yukthiya' operation, launched on December 17 last year following the appointment of Tennakoon as the Acting IGP, has resulted in the arrest of over 40,000 individuals.
-
-The UN and local rights groups have voiced concerns about heavy-handed tactics, arbitrary arrests, and potential due process violations during the operation. Critics claim the crackdown disproportionately affects marginalised communities, leading to profiling and harassment.
-
-While denying allegations of mistreatment, Tennakoon emphasised the need for a firm hand against underworld criminals.
-
-...
-
-[Data](articles/187e04cb.json)
-
----
-
-### Yukthiya not driven by personal agenda: Deshabandu
-
-*2024-01-23 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Yukthiya-not-driven-by-personal-agenda-Deshabandu/155-275549) · `en`
-
-Colombo, Jan 23 (Daily Mirror) - Despite criticism from several organisations including the UN regarding potential human rights violations during the ongoing countrywide crackdown on criminals and drug smugglers, Acting IGP Deshabandu Tennakoon told the Daily Mirror that the operation ’Yukthiya’ has ano personal agenda, focusing solely on eradicating the underworld and apprehending drug smugglers.
-
-The 'Yukthiya' operation, launched on December 17 last year following the appointment of Tennakoon as the Acting IGP, has resulted in the arrest of over 40,000 individuals.
-
-The UN and local rights groups have voiced concerns about heavy-handed tactics, arbitrary arrests, and potential due process violations during the operation. Critics claim the crackdown disproportionately affects marginalised communities, leading to profiling and harassment.
-
-While denying allegations of mistreatment, Tennakoon emphasised the need for a firm hand against underworld criminals.
-
-...
-
-[Data](articles/4bca953f.json)
-
-[Extended Data](ext_articles/4bca953f.ext.json)
 
 ---

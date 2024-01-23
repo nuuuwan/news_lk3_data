@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 18:10:44**
+As of **2024-01-23 18:22:49**
 
 ## Newspaper Stats
 
-*Scraped **2,104** Articles*
+*Scraped **2,108** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 31
-bbccomsinhala | 43
+bbccomsinhala | 44
 dbsjeyarajcom | 122
 newsfirstlk | 123
 islandlk | 123
 economynextcom | 126
-adaderanasinhalalk | 135
+adaderanasinhalalk | 136
 dailyftlk | 171
-adalk | 215
-virakesarilk | 232
+adalk | 216
+virakesarilk | 233
 dailymirrorlk | 256
 adaderanalk | 261
 tamilmirrorlk | 266
@@ -26,11 +26,27 @@ tamilmirrorlk | 266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,103 (100.0%) of 2,104 articles have been extended.
+2,104 (99.8%) of 2,108 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### GMOA වර්ජනය අවලංගු කරයි
+
+*2024-01-23 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192478) · `si`
+
+රජයේ වෛද්‍ය නිලධාරීන් විසින් හෙට උදෑසන සිට ක්‍රියාත්මක කිරීමට සැලසුම් කළ අඛණ්ඩ වැඩ වර්ජනය අත්හිටුවීමට තීරණය කළ බව එම සංගමය පවසයි.
+
+සෞඛ්‍ය සේවා අධ්‍යක්ෂක ජෙනරාල්වරයා විසින් වෛද්‍යවරුන්ගේ DAT දීමනාව ජනවාරි මස වැටුප සමග ගෙවීම තාවකාලිකව අත්හිටුවමින් නිකුත් කළ ලිපිය වහාම ක්‍රියාත්මක වන පරිදි අවලංගු කරමින් සෞඛ්‍ය ආයතන ප්‍රධානීන් වෙත ලිඛිත දැනුම්දීමත් සමග රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය සිය වර්ජනය අත්හිටුවීමට තීරණය කර තිබේ.
+
+මේ අතර ජනවාරි  මාසය සඳහා සාමාන්‍ය වැටුප් ලේඛනය මගින් DAT දීමනාව නොලැබෙන වෛද්‍යවරුන් සඳහා අදාළ දීමනාව විශේෂ වවුචරයක් මගින් ගෙවන ලෙස ආයතන ප්‍රධානීන් වෙත නියෝග කර ඇති බවද රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය වැඩිදුරටත් සඳහන් කරයි.
+
+◼️
+
+[Data](articles/478cae37.json)
+
+---
 
 ### Court rules over EPF and ETF petitions
 
@@ -51,6 +67,18 @@ The petitions were presented by 04 parties including Anton Marcus, including Ant
 [Data](articles/a4311a7c.json)
 
 [Extended Data](ext_articles/a4311a7c.ext.json)
+
+---
+
+### ராமர் கோயிலை தொடர்ந்து ராமர் பாலம் சாத்தியமாகுமா...?
+
+*2024-01-23 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/174639) · `ta`
+
+தனுஷ்கோடியில் உள்ள அரிச்சல் முனையில் இருந்தே ராமர் பாலம் அமைத்து, இலங்கைக்கு சென்றதாக புராணங்கள் கூறுகின்றன.
+
+◼️
+
+[Data](articles/78d681fa.json)
 
 ---
 
@@ -1014,6 +1042,26 @@ Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 
 ---
 
+### නිවාස හිමිකම් ඔප්පු 50,000ක් ලබාදීමට කැබිනට් පත්‍රිකාවක්
+
+*2024-01-23 13:01:02* · [`adalk`](https://www.ada.lk/breaking_news/නිවාස-හිමිකම්-ඔප්පු-50-000ක්-ලබාදීමට-කැබිනට්-පත්‍රිකාවක්/11-407686) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉදිරිපත්කරනු ලැබූ අයවැය යෝජනා යටතේ නිවාස හිමිකම් ඔප්පු 50000ක් ලබාදීමේ වැඩපිළිවෙල ක්‍රියාත්මක කිරීම සඳහා අනුමැතිය ලබාගැනීමට කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කෙරේ.
+
+නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා විසින් මෙම කැබිනට් පත්‍රිකාව ඉදිරිපත්කරනු ලැබ ඇත.
+
+අදාළ කැබිනට් පත්‍රිකාව මඟින් යෝජනා කර ඇත්තේ හිමිකම් ඔප්පු ලබාදීමේදී නිවාස හිමියන්ට ඒ සඳහා දැරිය යුතු වන නොතාරිස් ගාස්තු, මුද්ල ගාස්තු හා වෙනත් බදු සඳහා වැයවන මුදල මහා භාණ්ඩාගාරය මඟින් දැරීමට නියමිත බවයි.
+
+එමෙන්ම අදාළ කැබිනට් පත්‍රිකාවේ වැඩිදුරටත් සඳහන් වන්නේ මෙම නිවාසවල පූර්ණ අයිතිය පැවරීමේදී මුල් ප්‍රතිලාභියා මරණයට පත්ව ඇත්නම් දැනට එම නිවසේ පදිංචිව සිටින ඔහුගේ උරුමකරුවන් වෙත පමණක් පූර්ණ නිවාස හිමිකම ලබාදිය යුතු බවයි.
+
+මෙම කැබිනට් පත්‍රිකාව මුදල් අමාත්‍යංශයේ නිරීක්ෂණ ලබාගැනීම සඳහා ඉදිරිපත්කර ඇති අතර හෙට පැවැත්වෙන කැබිනට් රැස්වීමට අදාළ නිරීක්ෂණ ඉදිරිපත් කිරීමට නියමිතය.
+
+...
+
+[Data](articles/b56ac428.json)
+
+---
+
 ### Two foreigners injured in car-train collision
 
 *2024-01-23 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96653/two-foreigners-injured-in-car-train-collision) · `en`
@@ -1772,6 +1820,26 @@ President Ranil Wickremesinghe has ordered the necessary steps to be taken to al
 
 ---
 
+### ගාලු සාහිත්‍ය උළෙල : 'ලේඛකයන්ට, කලාකරුවන්ට අපේ සුන්දර රටේ දී එක්වීමට ලැබෙන අනර්ඝ අවස්ථාවක්'
+
+*2024-01-23 11:25:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cek7j25yvz8o) · `si`
+
+ගාලු සාහිත්‍ය උළෙල : 'ලේඛකයන්ට, කලාකරුවන්ට අපේ සුන්දර රටේ දී එක්වීමට ලැබෙන අනර්ඝ අවස්ථාවක්'
+
+ගාලු සාහිත්‍ය උළෙල වසර කිහිපයක නිහඬතාවයෙන් පසු මෙම වසරේ ජනවාරි 25 - 28 දිනයන් හිදී පරිදි ගාලු කොටුව ආශ්‍රිතව පැවැත්වීමට නියමිතය.
+
+එක්සත් රාජධානියේ 'දැවැන්ත ම සාහිත්‍ය උළෙලකට' ඇරයුම් ලැබූ ශ්‍රී ලාංකික කිවිඳියමිලාන් කුන්දේරා: රචනා කළ කෘති නිසා උපන් බිම අහිමි වූ 'යුරෝපීය සාහිත්‍යයේ දැවැන්තයා' මිය යයිතමාට එල්ලවූ ‘අනපේක්ෂිත දරුණු ප්‍රහාරය’ ගැන සල්මාන් රුෂ්ඩි පළමුවරට කතා කරයි
+
+2007 වසරේ දී ආරම්භ වන ගාලු සාහිත්‍ය උළෙල ශ්‍රී ලාංකීය සාහිත්‍ය ඉතිහාසය තුළ සුවිශේෂී වන්නේ එය ලෝක මට්ටමේ සාහිත්‍යකරුවන්, ශාස්ත්‍රඥයින්, ජනමාධ්‍යවේදීන් සහ ප්‍රකාශකයන් මෙරටට ගෙන්වා ජාත්‍යන්තර සාහිත්‍ය උළෙලක ප්‍රමිතියෙන් යුතුව පැවැත්වීමට කටයුතු කිරීම හේතුවෙනි.
+
+ලෝක සහ කලාපීය සාහිත්‍යයට අමතරව මේ ඔස්සේ මූලික වශයෙන් අවධානයට පාත්‍ර වන්නේ ලංකාවේ ඉංග්‍රීසි සාහිත්‍ය සංස්කෘතියයි. ඉංග්‍රීසි භාෂාවෙන් රචනයේ යෙදෙන ලේඛකයන්ගේ විවිධත්වය සහ ගැඹුර ගැන දැනුවත්භාවයක් ඇති කිරීම මෙහි අරමුණු අතර ප්‍රධාන තැනක් ගනියි.
+
+...
+
+[Data](articles/fb20166a.json)
+
+---
+
 ### Five people shot dead in Beliatta: More information revealed by police
 
 *2024-01-23 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174592) · `ta`
@@ -1937,87 +2005,5 @@ The President had recently left the country to attend the Economic Summit in Dav
 [Data](articles/ff88d092.json)
 
 [Extended Data](ext_articles/ff88d092.ext.json)
-
----
-
-### Sri Lanka rupee opens at 319.85/320.10 to the US dollar
-
-*2024-01-23 11:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-319-85-320-10-to-the-us-dollar-148370/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 319.85/320.10 to the US dollar on Tuesday, from 319.90/320.05 the previous day, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 13.52/58 percent from 13.50/60 percent.
-
-A bond maturing on 15.03.2028 was quoted at 14.00/06 percent from 14.00/14.05 percent.
-
-◼️
-
-[Data](articles/ee5117ed.json)
-
-[Extended Data](ext_articles/ee5117ed.ext.json)
-
----
-
-### Should we have a nation to eat carrots?
-
-*2024-01-23 11:03:19* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-කන්න-ඕන-ජාතියක්ද-අපි-/11-407679) · `si`
-
-"When you go to 2000 carrots, we bark, not 2000 cars, we don't mind the National Organizer of the Sri Lanka Freedom Party (SLFP) MP Duminda Dissanayake.
-
-He was speaking at the meeting of the Palagala Divisional Coordinating Committee meeting in Anuradhapura and the meeting held at the Palagala Divisional Secretariat Auditorium under the Chairman of Parliament.
-
-The political representatives and government officials have discussed with elephant problems, agricultural issues, including agricultural problems in the Divisional Secretariat.
-
-"We distributed homes for 20 000 acres in the Anuradhapura district, the seeds were provided free of charge for some of the money to prepare the ground.There will be a few.
-
-Recently, I was very happy to see these plantations.When you go out of the kitchen, the tomato plant, which was left out of the kitchen, not to eat at the kitchen, the chili plant wasn't behind the kitchen,
-
-...
-
-[Data](articles/b86146ba.json)
-
-[Extended Data](ext_articles/b86146ba.ext.json)
-
----
-
-### US and Britain again on the positions of Haithi rebels - heavy warning
-
-*2024-01-23 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/174589) · `ta`
-
-The United States and Britain have again launched attacks in Yemen, targeting the status of Haiti insurgents.
-
-The Pentagon reports that there have been more than eight attacks on their missile and surveillance conditions by Haithi insurgents.
-
-The United States and Britain have said that our aim is to alleviate tensions in the Red Sea and create normalcy in the world's most important water.
-
-This is the eighth attack on the positions of Haiti insurgents in Yemen.
-
-◼️
-
-[Data](articles/a3ff1f3f.json)
-
-[Extended Data](ext_articles/a3ff1f3f.ext.json)
-
----
-
-### Opposition parties have met the Speaker and urged!
-
-*2024-01-23 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/174587) · `ta`
-
-Opposition parties have urged the Sabanagar to postpone the proposed debate on the Messenger Bill.
-
-Moreover, the Opposition MPs have also pointed out the serious consequences of the passage of this horrific law.
-
-A meeting of party leaders was convened today at the request of Opposition Leader Sajith Premadasa to discuss the Bill on the Celebration Bill which was to be presented in Parliament today and tomorrow.
-
-Earlier, Opposition Leader Sajith Premadasa had written to the Speaker to the Speaker of the Speaker to re -draft the views of all parties in the community.
-
-Accordingly, all party leaders representing the opposition demanded that the legislation not taken up at a meeting of party leaders in parliament today.
-
-◼️
-
-[Data](articles/5c89d945.json)
-
-[Extended Data](ext_articles/5c89d945.ext.json)
 
 ---

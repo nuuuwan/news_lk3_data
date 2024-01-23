@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 23:33:10**
+As of **2024-01-23 23:52:01**
 
 ## Newspaper Stats
 
-*Scraped **2,164** Articles*
+*Scraped **2,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,57 @@ dbsjeyarajcom | 122
 islandlk | 123
 newsfirstlk | 124
 economynextcom | 132
-adaderanasinhalalk | 142
+adaderanasinhalalk | 144
 dailyftlk | 171
 adalk | 222
 virakesarilk | 238
-dailymirrorlk | 270
 adaderanalk | 272
 tamilmirrorlk | 273
+dailymirrorlk | 274
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,164 (100.0%) of 2,164 articles have been extended.
+2,164 (99.7%) of 2,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### SJB to spend over Rs 20 Mn for protest on Jan. 30: Range Bandara
+
+*2024-01-23 23:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-to-spend-over-Rs-20-Mn-for-protest-on-Jan-30-Range-Bandara/108-275592) · `en`
+
+Colombo, Jan 23 (Daily Mirror) - Samagi Jana Balawegaya (SJB) is to spend more than Rs 20 million to be paid for the people who are to be brought to Colombo for its protest on January 30 2023, UNP General Secretary Palitha Range Bandara alleged today.
+
+Mr. Range Bandara told journalists that some of the funds have been allocated to provide liquor for those who are participating in the protest.
+
+“A close associate of the SJB Leader has assured that he will pay for the protest. This person is alleged to have paid former MP Chaminda Wijesiri to resign from his parliamentary seat recently,” he added.
+
+SJB General Secretary Ranjith Madduma Bandara who commented on the matter denied allegations. “We have not thought of providing liquor and rewarding those who participate in our protest. It is the UNP which uses such tactics to bring people for their events,” he said.
+
+◼️
+
+[Data](articles/c20d49d1.json)
+
+---
+
+### New Bill soon to protect consumers from online businesses: Minister
+
+*2024-01-23 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-Bill-soon-to-protect-consumers-from-online-businesses-Minister/108-275597) · `en`
+
+Parliament, Jan. 23 (Daily Mirrora)- Steps will be taken to introduce a new Bill through the Consumer Affairs Authority (CAA) to protect the consumers who are inconvenienced due to online businesses, Trade, Commerce and Food Security Minister Nalin Fernando said today.
+
+He told Parliament that there are no legal provisions in Sri Lanka to protect the consumers from online businesses which are widespread at present.
+
+"Online businesses have increased throughout the world. However, we have no laws in Sri Lanka to act upon complaints by consumers over issued faced due to online businesses. We will draft a Bill through the CAA and present it in Parliament soon," he said.
+
+◼️
+
+[Data](articles/a6d5a618.json)
+
+---
 
 ### Police recover car suspected to have been used in shooting of Buddhist monk
 
@@ -51,6 +85,64 @@ The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustai
 [Data](articles/5dee2b83.json)
 
 [Extended Data](ext_articles/5dee2b83.ext.json)
+
+---
+
+### Police would have changed Narammala shooting incident if not for social media: Anura Kumara
+
+*2024-01-23 22:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-would-have-changed-Narammala-shooting-incident-if-not-for-social-media-Anura-Kumara/108-275596) · `en`
+
+Parliament, Jan. 23 (Daily Mirror)- Claiming that social media was playing a vital role in circulating true and unfiltered news to the people, NPP Leader Anura Kumara Dissanayake said police would have altered the whole incident involving the Narammala shooting incident if not for social media.
+
+He said the mainstream media reports filtered news based on the needs of the media owners and that social media was circulating true and unfiltered news to the people.
+
+Commenting on the Online Safety Bill, he told Parliament that the government was plotting to restrict circulation of true news in social media as it had been a headache for them.
+
+...
+
+[Data](articles/77acf9f3.json)
+
+---
+
+### From basement boys to League leaders; How Lewke transformed CR & FC
+
+*2024-01-23 22:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/From-basement-boys-to-League-leaders-How-Lewke-transformed-CR-FC/108-275595) · `en`
+
+Jan. 23 (Daily Mirror) - It was not long ago CR and FC looked like a modern-day Manchester United with zero hopes of winning the league. In fact CR finished in the bottom of the league a couple of years ago with more than half of their senior men leaving for other top division clubs. But club the management had faith on one guy to change their fortunes; Dushanth Lewke.
+
+Having represented Sri Lanka at national level, Lewke knew CR and FC was a work in progress. They came very close last year to win the league, but this year they are now within touching distance of the most prestigious title in Sri Lanka club rugby.
+
+At the start of the season when Daily Mirror interviewed CR head coach Lewke stated that he wasn’t too worried about finishing season in the previous season, but for him what mattered the most was how CR improved on their style of play.
+
+...
+
+[Data](articles/9be76880.json)
+
+---
+
+### අමෙරිකාව සහ බ්‍රිතාන්‍යය තවත් ප්‍රහාර මාලාවක් දියත් කරයි
+
+*2024-01-23 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192486) · `si`
+
+රතු මුහුදේ වෙළෙඳ නෞකාවලට ප්‍රහාර එල්ල කරන යේමනයේ හූති කැරලිකරුවන්ගේ ඉලක්ක වෙත අමෙරිකානු සහ බ්‍රිතාන්‍යය හමුදා නව ප්‍රහාර මාලාවක් දියත් කර තිබේ.
+
+හූති කැරලිකරුවන්ගේ භූගත අවි ගබඩා මෙන්ම මිසයිල සහ සන්නිවේදන හැකියාවන් අඩපණ කිරීම එම ප්‍රහාරවල අරමුණ වී ඇත.
+
+යේමනයේ බහුතර ප්‍රදේශයක පාලන බලය හිමිකරගෙන සිටින හූති කැරළිකරුවන් රතු මුහුදේ නෞකාවලට ප්‍රහාර එල්ල කරන්නේ ගාසා තීරයේ පලස්තීනුවන්ට සහෝදරත්වය පළ කරන බව පවසමිනි.
+
+කෙසේ නමුත් මෙම ප්‍රහාර හේතුවෙන් ගෝලීය නෞකා භාණ්ඩ ප්‍රවාහනයට බාධාවන් මතුවී ඇති අතර ගෝලීය උද්ධමනය ඉහළ නැංවීමට ද එය හේතුවනු ඇතැයි විශ්වාස කෙරෙයි.
+
+සිය නවතම ප්‍රහාරවලදී අමෙරිකානු සහ බ්‍රිතාන්‍ය හමුදා යේමනයේ ඉලක්ක 08ක් වෙත ප්‍රහාර එල්ලකර ඇති බව පෙන්ටගනය ප්‍රකාශ කරයි.
+
+ඔස්ට්‍රේලියාව, බහරේනය, කැනඩාව සහ නෙදර්ලන්තය ද එම ප්‍රහාර සඳහා සහාය දක්වා තිබේ.
+
+අමෙරිකානු යුද නෞකාවලින් නික්මුණු ප්‍රහාරක යානා මගින් ද යේමනයේ ඉලක්ක වෙත ප්‍රහාර එල්ලකර ඇති බව වාර්තා වෙයි.
+
+නමුත් රතු මුහුදේ නෞකාවලට එල්ල වන තර්ජනය තවමත් අවසන් වී නොමැත.
+
+...
+
+[Data](articles/fd785a48.json)
 
 ---
 
@@ -145,6 +237,28 @@ A group of individuals staged a protest in Colombo today urging the authorities 
 [Data](articles/b1e675c2.json)
 
 [Extended Data](ext_articles/b1e675c2.ext.json)
+
+---
+
+### ඊශ්‍රායල් යුද්ධයට ඇති විසඳුම කියයි
+
+*2024-01-23 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192485) · `si`
+
+දකුණු දිග ගාසා තීරයේ ඛාන් යුනිස් නගරය අත්පත් කරගැනීමට සටන් වදින ඊශ්‍රායල හමුදා එහි එක් රෝහලකට කඩා වැඳී තවත් රෝහලක් වටලද්දී ඒවායේ සිටින අහිංසක ජනතාවට හානිනොවන ලෙස කටයුතු කරන්නැයි අමෙරිකාව ඉල්ලීමක් කර තිබේ.
+
+කෙසේ නමුත් ඛාන් යුනිස් නගරයට ගුවනින්, ගොඩබිමෙන් සහ මුහුදෙන් එල්ලවන ප්‍රහාර පසුගිය ඔක්තෝබරයේ සටන් ඇරඹුණු පසු දරුණුතම තත්ත්වයකට පත්වී ඇති බව පලස්තීනුවන් පවසයි.
+
+ඊශ්‍රායල හමුදා දකුණු දිග ගාසා තීරයේ ඛාන් යුනිස් නගරයට බටහිර දෙසින් මධ්‍යධරණී වෙරළාසන්නව පිහිටි අල්-මවාසි නගරයට ඊයේ ප්‍රථම වරට පිවිසුනු අතර, එහි පිහිටි අල්-ඛයීර් රෝහලට කඩාවැඳී වෛද්‍ය කාර්යමණ්ඩලය අත්අඩංගුවට ගෙන තිබුණි.
+
+රෝහලේ තත්ත්වය සම්බන්ධයෙන් ඊශ්‍රායලය කිසිඳු ප්‍රකාශයක් සිදුකර නොමැති අතර ඊශ්‍රායල හමුදා ප්‍රකාශක කාර්යාලය ඒ පිළිබඳ කිසිවක් පැවසීම ප්‍රතික්ෂේප කර තිබේ.
+
+මේ අතර ඊශ්‍රායල හමුදාව නිකුත් කළ නවතම නිවේදනයේ දැක්වෙන්නේ ගතවූ පැය 24 තුළ ඊශ්‍රායල හමුදා සෙබළුන් 24 දෙනෙකු ජීවිතක්ෂයට පත්වූ බවය.
+
+එය ඊශ්‍රායල හමාස් යුද්ධයෙන් දිනක් තුළ ඊශ්‍රායල හමුදාවට සිදුවු වැඩිම ජීවිත හානි සංඛ්‍යාව බව විදෙස් වාර්තා සඳහන් කරයි.
+
+...
+
+[Data](articles/40540fc7.json)
 
 ---
 
@@ -1943,113 +2057,5 @@ On January 08, the Cabinet of Ministers gave its approval to President Ranil Wic
 [Data](articles/d62cad3b.json)
 
 [Extended Data](ext_articles/d62cad3b.ext.json)
-
----
-
-### Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
-
-*2024-01-23 13:39:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/talk-of-the-town-towards-economic-recovery-raj-rajakulendran-23rd-january-2024/) · `en`
-
-Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
-
-Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
-
-Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
-
-Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
-
-◼️
-
-[Data](articles/f48c26ae.json)
-
-[Extended Data](ext_articles/f48c26ae.ext.json)
-
----
-
-### No funds, DAT allowance suspended for doctors
-
-*2024-01-23 13:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-funds-DAT-allowance-suspended-for-doctors/155-275573) · `en`
-
-Colombo, Jan 23 (Daily Mirror) -  The Health Ministry has decided to suspend the provision of the Disturbance, Availability and Transport (DAT) allowance which was increased from Rs. 35,000.
-
-The Ministry said despite the earlier announcement that the allowance for doctors will be raised to Rs. 70,000, the increased amount of Rs 35,000 will be suspended as per the directive of the Treasury.
-
-The government recently approved the President's proposal to double the DAT allowance up to Rs. 70,000 for doctors.
-
-◼️
-
-[Data](articles/78617f1e.json)
-
-[Extended Data](ext_articles/78617f1e.ext.json)
-
----
-
-### Buddhist monk killed in shooting inside temple
-
-*2024-01-23 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96655/buddhist-monk-killed-in-shooting-inside-temple) · `en`
-
-A Buddhist monk has been shot dead inside a temple in the Malwathuhiripitiya area of Gampaha this morning (Jan 23).
-
-Police stated that the shooting has been carried out using a T-56 assault rifle.
-
-Four unidentified individuals who had arrived in a car, had carried out the shooting and fled the scene afterwards, the police said.
-
-The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital. However, the monk had succumbed to injuries this afternoon while receiving treatment at the hospital, according to police.
-
-◼️
-
-[Data](articles/a570efcb.json)
-
-[Extended Data](ext_articles/a570efcb.ext.json)
-
----
-
-### No funds, DAT allowance suspended for doctors
-
-*2024-01-23 13:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-funds-DAT-allowance-suspended-for-doctors/108-275573) · `en`
-
-Colombo, Jan 23 (Daily Mirror) -  The Health Ministry has decided to suspend the provision of the Disturbance, Availability and Transport (DAT) allowance which was increased from Rs. 35,000.
-
-The Ministry said despite the earlier announcement that the allowance for doctors will be raised to Rs. 70,000, the increased amount of Rs 35,000 will be suspended as per the directive of the Treasury.
-
-The government recently approved the President's proposal to double the DAT allowance up to Rs. 70,000 for doctors.
-
-◼️
-
-[Data](articles/b1557548.json)
-
-[Extended Data](ext_articles/b1557548.ext.json)
-
----
-
-### Buddhist monk shot dead in Gampaha
-
-*2024-01-23 13:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Buddhist-monk-shot-dead-in-Gampaha/108-275574) · `en`
-
-Gampaha, Jan 23 (Daily Mirror) - A Buddhist monk has been shot dead with a T-56 weapon at a temple at Malwathu Hiripitiya in Gampaha.
-
-Police said four unknown persons in a car had reportedly opened fire at the monk and fled. The monk died after being admitted to the hospital.
-
-◼️
-
-[Data](articles/28a1243c.json)
-
-[Extended Data](ext_articles/28a1243c.ext.json)
-
----
-
-### Thera killed in shooting
-
-*2024-01-23 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174610) · `ta`
-
-Malwatuhiripitiya police say that four unidentified firing in a car for a Vihara in the Gampaha Malwathuhiripitiya area has fled.
-
-Thera, the target of the shooting, died after being taken to the hospital, police said.
-
-◼️
-
-[Data](articles/b009dd2e.json)
-
-[Extended Data](ext_articles/b009dd2e.ext.json)
 
 ---

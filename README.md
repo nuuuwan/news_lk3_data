@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 19:17:22**
+As of **2024-01-23 19:32:43**
 
 ## Newspaper Stats
 
-*Scraped **2,130** Articles*
+*Scraped **2,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,9 +14,9 @@ dbsjeyarajcom | 122
 newsfirstlk | 123
 islandlk | 123
 economynextcom | 132
-adaderanasinhalalk | 137
+adaderanasinhalalk | 138
 dailyftlk | 171
-adalk | 217
+adalk | 218
 virakesarilk | 235
 dailymirrorlk | 262
 tamilmirrorlk | 266
@@ -26,11 +26,37 @@ adaderanalk | 267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,117 (99.4%) of 2,130 articles have been extended.
+2,130 (99.9%) of 2,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### කොළඹ හෙට්ටිවීදියේ දැවැන්ත රන් කොල්ලයක්
+
+*2024-01-23 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192480) · `si`
+
+කොළඹ හෙට්ටිවීදිය ප්‍රදේශයේදී රන් භාණ්ඩ සහ විදේශ මුදල් පාර්සලයක් කොල්ල කෑ කල්ලියක් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+එම පිරිස අතර ත්‍රිරෝද රථ රියදුරෙකු සහ ඔහුගේ ඥාතියෙකු, හිටපු යුද හමුදා සෙබළෙකු සිටින බව පොලීසිය පවසයි.
+
+මෙලෙස කොල්ලකෑමට ලක්ව ඇත්තේ හෙට්ටිවීදිය රන් භාණ්ඩ අලෙවිසැලක් හිමි අයෙකුගේ රන් හා විදේශ මුදල් තොගයකි.
+
+ඔහුට අයත් තවත් රන් භාණ්ඩ අලෙවිසැල් දෙකක් කාත්තන්කුඩි සහ මඩකලපුව ප්‍රදේශ වලද ඇත.
+
+එම වෙළෙඳසැල්වල සිට උණු කරන ලද රන් කැබලි කිහිපයක් බස් රථයක් මාර්ගයෙන් පසුගිය 11 වනදා කොළඹට එවා තිබේ.
+
+අදාළ බස් රථයෙන් එම රන් පාර්සලය ලබාගෙන ඇති සේවකයා එය රැගෙන සියේ ඉණෙහි සඟවාගෙන හෙට්ටිවීදියේ වෙළෙඳසැල ආසන්නයට පැමිණීමත් සමග ත්‍රිරෝද රථයකින් පැමිණි පුද්ගලයෙකු ඔහුව පැහැරගෙන යන අයුරු CCTV කැමරාවක පටිගතව ඇත.
+
+පසුව ඔහු සතුව තිබූ රන් කොල්ලකා ඔහුව කොච්චිකඩේ පල්ලිය ආසන්නයෙන් මාර්ගයේ දමාගොස් ඇත.
+
+එම සිදුවීම සම්බන්ධයෙන් ලද පැමිණිල්ලකට අනුව පිටකොටුව පොලීසියේ අපරාධ විමර්ශන අංශය විසින් CCTV දර්ශන උපයෝගී කරගනිමින් සැකකරුවන් හඳුනාගෙන ඇත.
+
+...
+
+[Data](articles/b99033ab.json)
+
+---
 
 ### Education Ministry issues notice on school admissions
 
@@ -45,6 +71,8 @@ All applications for the admission of children to the intermediate classes other
 ...
 
 [Data](articles/9ba4647b.json)
+
+[Extended Data](ext_articles/9ba4647b.ext.json)
 
 ---
 
@@ -88,6 +116,8 @@ The DAT allowance, which was raised from Rs. 35,000 to Rs. 70,000 was suspended 
 
 [Data](articles/248c726a.json)
 
+[Extended Data](ext_articles/248c726a.ext.json)
+
 ---
 
 ### FR petitions filed over DDO programme fixed for consideration
@@ -126,6 +156,8 @@ Meanwhile, the Ministry said that the applications to enroll students in grade o
 
 [Data](articles/46c2369a.json)
 
+[Extended Data](ext_articles/46c2369a.ext.json)
+
 ---
 
 ### Samoa Rasinsundara from Samoa Rasinsundara from Sri Lanka
@@ -162,6 +194,8 @@ Therefore, the commissioner urged vehicle users to transfer ownership to the act
 
 [Data](articles/8b0e1ca5.json)
 
+[Extended Data](ext_articles/8b0e1ca5.ext.json)
+
 ---
 
 ### Google, Facebook could close up operations in Sri Lanka after OSB: Opposition MP
@@ -177,6 +211,8 @@ He was responding to the opening statement to the bill presented by Minister of 
 ...
 
 [Data](articles/be2a7804.json)
+
+[Extended Data](ext_articles/be2a7804.ext.json)
 
 ---
 
@@ -256,6 +292,8 @@ The Central Bank issued a warning against the misuse of personal accounts for �
 
 [Data](articles/35debf6e.json)
 
+[Extended Data](ext_articles/35debf6e.ext.json)
+
 ---
 
 ### Sri Lanka Treasuries yields fall across maturities
@@ -274,6 +312,8 @@ Only 4.6 billon rupees in 12-month bills were sold, at 12.78 percent, down 14 ba
 
 [Data](articles/4c0c9994.json)
 
+[Extended Data](ext_articles/4c0c9994.ext.json)
+
 ---
 
 ### Sri Lanka Treasuries yields fall across maturities
@@ -291,6 +331,8 @@ Only 4.6 billon rupees in 12-month bills were sold, at 12.78 percent, down 14 ba
 ◼️
 
 [Data](articles/74db7976.json)
+
+[Extended Data](ext_articles/74db7976.ext.json)
 
 ---
 
@@ -315,6 +357,8 @@ A bond maturing on 01.07.2032 closed at 14.05/20 percent from 14.10/30 percent. 
 ◼️
 
 [Data](articles/a9801dfa.json)
+
+[Extended Data](ext_articles/a9801dfa.ext.json)
 
 ---
 
@@ -367,6 +411,8 @@ Haputale police are conducting investigations on the instructions of ASP Ruwan F
 ◼️
 
 [Data](articles/cb384394.json)
+
+[Extended Data](ext_articles/cb384394.ext.json)
 
 ---
 
@@ -432,6 +478,8 @@ Positive contributors to the ASPI, albeit marginally, were Asiri Surgical Hospit
 
 [Data](articles/4a473156.json)
 
+[Extended Data](ext_articles/4a473156.ext.json)
+
 ---
 
 ### Is the Rama Bridge possible following the Rama Temple ...?
@@ -479,6 +527,8 @@ Fortunately, the dog survived the attack with only minor injuries. The Maskeliya
 ◼️
 
 [Data](articles/9adddfd1.json)
+
+[Extended Data](ext_articles/9adddfd1.ext.json)
 
 ---
 
@@ -669,6 +719,8 @@ The fishermen issue is a contentious one in the ties between India and Sri Lanka
 ...
 
 [Data](articles/a4dac3b9.json)
+
+[Extended Data](ext_articles/a4dac3b9.ext.json)
 
 ---
 
@@ -999,6 +1051,20 @@ Accordingly, the arrested Indian nationals, and their trawlers, were brought to 
 [Data](articles/89d77746.json)
 
 [Extended Data](ext_articles/89d77746.ext.json)
+
+---
+
+### තවත් 16000කට රු. 2000ක දීමනාවක්
+
+*2024-01-23 14:18:36* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-16000කට-රු--2000ක-දීමනාවක්/11-407688) · `si`
+
+සමෘද්ධි වැඩසටහන යටතේ මෙතෙක් ප්‍රතිලාභ ලැබූ ආයතනගත පුද්ගලයින් 16,146ක් වෙත ජනවාරි මාසයේ සිට රුපියල් 2,000ක දීමනාවක් දිස්ත්‍රික් ලේකම්වරුන් මගින් ගෙවීමට රජය තීරණය කර තිබේ.
+
+ඒ අනුව පිරිවෙන් වල වැඩසිටින හිමිවරුන්, ළමානිවාස, වැඩිහිටි නිවාස, රැකබලා ගැනීමේ නිවාස වල සිටින විශේෂ අවශ්‍යතා සහිත පුද්ගලයන් සඳහා මෙම දීමනාව හිමිවනු ඇත.
+
+◼️
+
+[Data](articles/cd2e2315.json)
 
 ---
 
@@ -1963,51 +2029,5 @@ Opposition MPs then proposed postponing the debate to a later date on account of
 [Data](articles/e5e84c0e.json)
 
 [Extended Data](ext_articles/e5e84c0e.ext.json)
-
----
-
-### Luigi Riva: Italy’s record goalscorer dies aged 79
-
-*2024-01-23 12:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Luigi-Riva-Italys-record-goalscorer-dies-aged-79/108-275569) · `en`
-
-Jan. 23 (BBC) - Italy's record goalscorer and former Cagliari forward Luigi Riva has died at the age of 79.
-
-Riva had been in hospital in Sardinia's capital after reportedly suffering a heart attack over the weekend.
-
-Nicknamed 'Roar of Thunder', Riva scored 35 goals in 42 appearances for the Azzurri, with whom he won the 1968 European Championship and reached the World Cup final two years later.
-
-He also helped Cagliari to their only Serie A title in 1970.
-
-In a post on X, formerly Twitter, Cagliari wrote,"Forever GIGI RIVA."
-
-Italian Football Federation (FIGC) president Gabriele Gravina said: "Italian soccer is grieving because a real and proper national hero has left us. Gigi Riva was the embodiment of a great man and an extraordinary footballer."
-
-The FIGC has put plans in place for matches across Italy to hold a pre-match minute's reflection in honour of Riva for the rest of this week.
-
-...
-
-[Data](articles/4681a352.json)
-
-[Extended Data](ext_articles/4681a352.ext.json)
-
----
-
-### 125 traffic violations monitored by Sisirvi camera in Colombo
-
-*2024-01-23 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174596) · `ta`
-
-The streets of Colombo have been warned of 125 traffic violations monitored by Cesirivi Camera on Monday (22).
-
-The pioneering project to monitor traffic violations by Sisirvi Camera and fines for vehicle owners began yesterday.
-
-According to the police headquarters, the owners of the vehicles have been warned of 125 traffic violations by Sisirvi Camera in Colombo.
-
-Mistakes have been observed, such as changing the path and driving in the area, mainly in violations of the identified rule.
-
-◼️
-
-[Data](articles/01a71e05.json)
-
-[Extended Data](ext_articles/01a71e05.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 22:17:40**
+As of **2024-01-23 22:32:55**
 
 ## Newspaper Stats
 
-*Scraped **2,155** Articles*
+*Scraped **2,163** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,103 @@ adaderanasinhalalk | 142
 dailyftlk | 171
 adalk | 222
 virakesarilk | 238
-dailymirrorlk | 263
-adaderanalk | 270
+dailymirrorlk | 270
+adaderanalk | 271
 tamilmirrorlk | 273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,153 (99.9%) of 2,155 articles have been extended.
+2,155 (99.6%) of 2,163 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### தேரரின் கொலைக்கு பயன்படுத்திய கார் எரிந்து சாம்பலானது
+### Israeli troops cut off Khan Younis after suffering worst Gaza loss
+
+*2024-01-23 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96673/israeli-troops-cut-off-khan-younis-after-suffering-worst-gaza-loss) · `en`
+
+Twenty-four Israeli soldiers were killed in Israel’s worst day of losses in Gaza, the military said on Tuesday, as its forces encircled southern Gaza’s main city, trapping Palestinian residents trying to flee.
+
+Spokesman Rear Admiral Daniel Hagari said 21 soldiers were killed when two buildings they had mined for demolition exploded after militants fired at a nearby tank. Earlier, three soldiers were reported killed in a separate attack.
+
+Israeli tanks, advancing west towards the Mediterranean, shut the road out towards the coast on Tuesday, blocking the escape route for civilians trying to reach Rafah, the last town on Gaza’s southern edge – now crammed with more than half the enclave’s 2.3 million people.
+
+At least 195 Palestinians were killed in the space of 24 hours, raising the documented toll to 25,490, according to Palestinian health officials, who say thousands more dead are feared lost in the rubble.
+
+...
+
+[Data](articles/4ba23fe9.json)
+
+---
+
+### Confident Sri Lanka aim to seal Super Six spot
+
+*2024-01-23 21:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Confident-Sri-Lanka-aim-to-seal-Super-Six-spot/108-275591) · `en`
+
+Jan. 23 (Agencies) - Sri Lanka will look to produce another winning performance and seal their place in the Super Six stage when they take on Namibia in the 2024 ICC Under-19 Cricket World Cup Group ‘C’ fixture at the Diamond Oval in Kimberley, South Africa tomorrow.
+
+Sri Lanka defeated Zimbabwe by 39 runs under the DLS method in their opening match of the tournament on Sunday and the side will look to carry this form forward ahead of their more vital game against Australia.
+
+In contrast, Namibia went down against Australia by four wickets in their opening match and must win this game to keep their hopes alive.
+
+The Sri Lankans will feel confident after their big win in the last game. Their bowlers are in good form, and it will be interesting to see how the Namibian players perform in this game.
+
+Sineth Jayawardena's side has made a good start to the tournament. Pulindu Perera and Vishen Halambage failed in the last game and the team will look for a good start.
+
+...
+
+[Data](articles/91d20c5b.json)
+
+---
+
+### Private hospital pleads guilty in advance when case summoned today
+
+*2024-01-23 21:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Private-hospital-pleads-guilty-in-advance-when-case-summoned-today/108-275594) · `en`
+
+Colombo, Jan 23 (Daily Mirror) -  A leading private hospital in Colombo that stirred controversy by selling government price controlled drugs for exorbitant rates, had reportedly pleaded guilty in advance when the case was scheduled to be taken up today in the presence of the complainant and other state officials, the Daily Mirror learns.
+
+National Medicines Regulatory Authority (NMRA) filed charges against eight directors and three other officials of the Asiri Hospital Holdings PLC for selling 11 medicines, which are listed with a maximum retail price, for higher prices, a spokesperson for the NMRA said.
+
+The NMRA acting on a complaint lodged by a patient by the name Sanath Kumara Athukorala mid last year and conducting a probe into the matter had filed a case at the Maligakanda Magistrate Court in the last week of December. And the hospital authorities had been summoned to appear in courts on January 24.
+
+...
+
+[Data](articles/1d511494.json)
+
+---
+
+### The car used for Thera's murder is burned to ashes
 
 *2024-01-23 21:23:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேரரின்-கொலைக்கு-பயன்படுத்திய-கார்-எரிந்து-சாம்பலானது/175-332038) · `ta`
 
-கம்பஹா, ஹேனேகம பிரதேசத்திலுள்ள விகாரையின் கலபாலுவாவே தம்மரத்ன தேரர் (45) மீது சொகுசு காரில் வந்த இனந்தெரியாத நபர்கள் மேற்கொண்ட துப்பாக்கிச் சூட்டில் அவர் உயிழந்தார்.
+He was killed in a firing by unidentified persons who came in a luxury car on the Kalapaluwawe Tammaratne Thera (45) of the Vihara of the Vihara in Hanegama, Gampaha.
 
-சொகுசு காரில் வந்த இனந்தெரியாத நால்வர், தாம் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் எனவும் தமக்குக் கிடைத்த தகவலின் பேரில் சோதனையிட வந்ததாகவும் தெரிவித்துள்ளனர்.
+Four people who came in the luxury car have said that they were also a Criminal Investigation Department officials.
 
-இதனையடுத்து சந்தேக நபர்கள் சோதனையிடுவது போன்று நடித்து  இரண்டு முறை துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் மேற்கொண்ட முதற்கட்ட விசாரணையில் தெரிய வந்துள்ளது.
+Preliminary inquiries by the police revealed that the suspects had fled and fled twice.
 
-இந்நிலையில், கலபாலுவாவே தம்மரதன தேரரின் கொலைக்கு பயன்படுத்தப்பட்டதாக கூறப்படும் கொகுசு கார் எரியூட்டப்பட்ட நிலையில், நவகமுவ பிரதேசத்தில் வைத்து பொலிஸாரால் கண்டுபிடிக்கப்பட்டுள்ளது. R
+In this case, the police have been found in the Navagamuwa area as the Kokusu car, which is said to have been used for the murder of Kalapaluwawe Tamaradana Thera.. Remble
 
 ◼️
 
 [Data](articles/6ea919a6.json)
+
+[Extended Data](ext_articles/6ea919a6.ext.json)
+
+---
+
+### Repeal Online Safety Bill…
+
+*2024-01-23 21:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Repeal-Online-Safety-Bill/110-275571) · `en`
+
+A group of individuals staged a protest in Colombo today urging the authorities to repeal the Online Safety Bill, which is being debated in Parliament. Pix by Pradeep Dilrukshana
+
+◼️
+
+[Data](articles/b1e675c2.json)
 
 ---
 
@@ -65,6 +133,38 @@ They also brought to light the fact that the AIC was not made aware of any amend
 [Data](articles/adff3c6e.json)
 
 [Extended Data](ext_articles/adff3c6e.ext.json)
+
+---
+
+### Buddhist monk killing: Car used in shooting found torched
+
+*2024-01-23 21:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Buddhist-monk-killing-Car-used-in-shooting-found-torched/108-275587) · `en`
+
+Kaduwela, Jan 23 (Daily Mirror) - The vehicle suspected to have been used in the fatal shooting of a Buddhist monk at a temple in Malwathu Hiripitiya, Gampaha, was discovered engulfed in flames in the Kaduwela area today.
+
+The suspects had set fire to the car at a deserted location near a forest in Kaduwela before making their escape.
+
+Earlier in the day, four unidentified individuals in a car had opened fire on the 45-year-old Buddhist monk using a T-56 weapon.
+
+◼️
+
+[Data](articles/401ca10c.json)
+
+---
+
+### Royal Beach Saman’s assassination linked to decades-old conflict with ’Kosgoda Sujee’
+
+*2024-01-23 20:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Royal-Beach-Samans-assassination-linked-to-decades-old-conflict-with-Kosgoda-Sujee/108-275586) · `en`
+
+Colombo, Jan 23 (Daily Mirror) - While multiple police teams are conducting investigations over the manslaughter of five persons in Beliatta, police revealed that the shooting was a result of conflicts between major organized criminal and drug trafficker 'Kosgoda Sujee' and 'Ape Jana Bala' Party leader Saman Perera over drug trafficking and the killing of Sujee's uncle and brother in 2004.
+
+Five individuals, including Saman Perera, also known as 'Royal Beach Saman,' were shot dead near the Beliatta-Kahawatta interchange of the Southern Expressway when they were enroute to a court appearance in Tangalle.
+
+Saman Perera, also known as 'Royal Beach Saman,' had several pending court cases, including one related to the murder of Asela Sampath at the Kudawella Fisheries Harbour on 05.06.2022. It was revealed that they were killed when they were on their way to appear before court in the case related to the murder Asela Sampath.
+
+...
+
+[Data](articles/f8b3ee25.json)
 
 ---
 
@@ -105,6 +205,26 @@ Although Kachchativu was handed over to Sri Lanka in 1974, it is stated that in 
 [Data](articles/53ba1d01.json)
 
 [Extended Data](ext_articles/53ba1d01.ext.json)
+
+---
+
+### President concludes successful visit to Uganda
+
+*2024-01-23 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-concludes-successful-visit-to-Uganda/108-275590) · `en`
+
+(Kampala), Jan 23 - President  Ranil Wickremesinghe concluded a highly successful visit to Uganda this afternoon after attending the Non-Aligned Movement (NAM) and Group of 77 (G-77) Summit in Kampala.
+
+During the summit, the President engaged with more than 21 world leaders, fostering diplomatic ties and discussing key global issues.
+
+The visit marked a significant diplomatic achievement, reinforcing the country's commitment to international cooperation and multilateralism. The President's discussions with global leaders focused on shared challenges, collaborative solutions, and strengthening ties for a more interconnected and secure future.
+
+The summit provided a platform for constructive dialogues on pressing issues
+
+As the President departs Uganda, the fruitful outcomes of this visit are anticipated to contribute to enhanced diplomatic relations, mutual understanding, and cooperation on a global scale.
+
+◼️
+
+[Data](articles/fb2121f0.json)
 
 ---
 
@@ -164,6 +284,26 @@ State Minister for Rural Economy, K. Kader Masthan, conveyed this information du
 
 ---
 
+### Sri Lankan Tamil leaders seek Indian intervention in implementation of 13A
+
+*2024-01-23 20:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-Tamil-leaders-seek-Indian-intervention-in-implementation-of-13A/108-275585) · `en`
+
+Jan 23 - A group of Sri Lankan Tamil legislators has sought India’s intervention to ensure that Colombo fully implements the New Delhi-mooted 13th Amendment, which provides for the devolution of power to the minority community, a source in Colombo said on Tuesday, 23 January.
+
+The group led by the veteran politician R Sampanthan met India’s new High Commissioner to Sri Lanka, Santosh Jha, on Monday, 22 January, said that the source is from the Tamil National Alliance, which represents Sri Lanka’s Tamil minority.
+
+The two-hour-long talks were centred on the 13A, which created the provincial councils system for the island nation’s nine provinces.
+
+The Tamil parties pointed out the need for India’s intervention in the current Sri Lankan political context for the meaningful devolution of power, the source said.
+
+They also highlighted the issue of the Tamil political prisoners and the Tamil land grabbing by the state.
+
+◼️
+
+[Data](articles/ce65a5f4.json)
+
+---
+
 ### Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
 
 *2024-01-23 19:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/asian-internet-coalition-refutes-statement-on-online-safety-bill-by-minister-tiran-alles/) · `en`
@@ -175,6 +315,8 @@ The Asia Internet Coalition (AIC) is an industry association comprising many of 
 ...
 
 [Data](articles/39444faa.json)
+
+[Extended Data](ext_articles/39444faa.ext.json)
 
 ---
 
@@ -1895,161 +2037,5 @@ The Minister said the Online Safety Bill only covers online crimes, preventing p
 [Data](articles/d3e20a8a.json)
 
 [Extended Data](ext_articles/d3e20a8a.ext.json)
-
----
-
-### Thera's death in the shooting
-
-*2024-01-23 13:24:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மேல்-மாகாணம்/துப்பாக்கிச்-சூட்டில்-தேரர்-மரணம்/95-332011) · `ta`
-
-Malwatuhiripitiya police say that four unidentified people who came in a car in a car in the Gampaha Malwathuhiripitiya area have fled.
-
-Thera, who was targeted for the shooting, died after being taken to the hospital, police said
-
-◼️
-
-[Data](articles/c3a54d83.json)
-
-[Extended Data](ext_articles/c3a54d83.ext.json)
-
----
-
-### Government Medical Officers in a continuous strike
-
-*2024-01-23 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192466) · `si`
-
-The Government Medical Officers Association has decided to launch a continuous strike from tomorrow (24).
-
-According to the government, the Association has decided not to receive the DAT allowance from January.
-
-◼️
-
-[Data](articles/0890f903.json)
-
-[Extended Data](ext_articles/0890f903.ext.json)
-
----
-
-### Humans are a shot
-
-*2024-01-23 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192465) · `si`
-
-The police say that the shooting has been carried out using a T-56 rifle.
-
-◼️
-
-[Data](articles/91492359.json)
-
-[Extended Data](ext_articles/91492359.ext.json)
-
----
-
-### Dengue Increase in Jaffna
-
-*2024-01-23 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/174604) · `ta`
-
-With 21 dengue cases in the Sudumalai area in Jaffna last week, 13 of them are children under the age of 10.
-
-In the meantime, the Public Health Inspector, led by Public Health Inspector, Jayabradeep, engaged in a household visit to the area's Grama Niladhari and Dengue Officers.
-
-At the same time, 23 residents who had a dengue mosquito spread were given a red warning piece and a three -man crime of the forum was pleaded with a crime of four residents of the campus.. A resident who is not present in the forum has been summoned.
-
-At the same time, the empty land owners who have been spreading the mosquitoes have been given 07 days to clean up.
-
-◼️
-
-[Data](articles/3a5eb999.json)
-
-[Extended Data](ext_articles/3a5eb999.ext.json)
-
----
-
-### The Cabinet to the Cabinet Probled the Barrier Problem Nilwala
-
-*2024-01-23 13:06:39* · [`adalk`](https://www.ada.lk/breaking_news/නිල්වලා-ලවණ-බාධක-ගැටලුව-කැබිනට්-මණ්ඩලයට/11-407687) · `si`
-
-Minister of Irrigation, Wildlife and Forest Minister Pavithra Wanniarachchi emphasizes the problem with the Salvana Barrier Fence to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved.
-
-Minister Pavithra Wanniarachchi made this observation at a special discussion held at the Ministry of Irrigation, representing the victims of the saliva.
-
-In this discussion, Ms. Pavithra Wanniarachchi stated that the Nilwala River - the construction of the salt barrier fence, he also appeared to them.
-
-However, the Minister pointed out that it is the responsibility of all aspects to the situation and the crisis of the existing crisis.
-
-...
-
-[Data](articles/50544b52.json)
-
-[Extended Data](ext_articles/50544b52.ext.json)
-
----
-
-### Central Bank Station on Bank Loan Interest
-
-*2024-01-23 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192464) · `si`
-
-Central Bank Governor Dr. Nandalal Weerasinghe says that the bank loan interest rate should be further reduced.
-
-He was speaking at a media briefing held at the Central Bank this morning (23).
-
-"The data has been reduced. We say that we are not reduced to the extent we expect. When we look down, the banks especially when the month of banks, especially when we left the month of banks, we get the data from the month, that the month of the month is achieved by month. Then, according to that data, all banks have not come. There are some banks without coming. We have informed them. Explanations have been called. Accordingly, there are some reasons. But we say that we are in the opinion that we need to reduce any further. Then we need to reduce interest sponsorship when it comes to and the bank loans. "
-
-...
-
-[Data](articles/c875e959.json)
-
-[Extended Data](ext_articles/c875e959.ext.json)
-
----
-
-### Calling for applications of the 2024 O/L examination begins
-
-*2024-01-23 13:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/calling-for-applications-of-the-2024-o-l-examination-begins/) · `en`
-
-COLOMBO (News 1st); Calling for applications for the 2024 O/Level examination starts today.
-
-The Department of Examinations announced applications will only be called online starting today up until the 15th of February.
-
-All applicants applying from schools are requested to apply through their respective principals while private applicants are requested to apply personally according to relevant instructions.
-
-The National Identity Card will be mandatory for private applicants while applicants under the age of 15 who do not have a national identity card are requested to report to the examination department to apply for it.
-
-The announced the application period will not be extended for any reason.
-
-Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
-
-Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
-
-Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
-
-◼️
-
-[Data](articles/576d8c1a.json)
-
-[Extended Data](ext_articles/576d8c1a.ext.json)
-
----
-
-### A cabinet paper to provide 50,000 home title deeds
-
-*2024-01-23 13:01:02* · [`adalk`](https://www.ada.lk/breaking_news/නිවාස-හිමිකම්-ඔප්පු-50-000ක්-ලබාදීමට-කැබිනට්-පත්‍රිකාවක්/11-407686) · `si`
-
-A Cabinet paper will be submitted to provide approval to the implementation of 500,000 housing ticenses under the budget propositions presented by President Ranil Wickremesinghe.
-
-The cabinet has been submitted by Urban Development and Housing Prasanna Ranatunga.
-
-The cabinet paper is proposed that the Treasury will be spent on notary fees, stamp charges and other taxes that have bearing title deeds.
-
-The cabinet paper also states that if the original beneficiary is dependent in the residence of these houses, the original beneficiary should be given full housing.
-
-The cabinet has been submitted to obtain the observations of the Ministry of Finance and the observations relating to the cabinet meeting will be presented tomorrow.
-
-Over 3,000 rupees of houses provided to low income families under various urban programs. Minister Prasanna Ranatunga says this cabinet paper has been proposed to completely stop the rent.
-
-...
-
-[Data](articles/b56ac428.json)
-
-[Extended Data](ext_articles/b56ac428.ext.json)
 
 ---

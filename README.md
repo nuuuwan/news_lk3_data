@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 16:32:50**
+As of **2024-01-23 16:49:24**
 
 ## Newspaper Stats
 
-*Scraped **2,090** Articles*
+*Scraped **2,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ dailyftlk | 171
 adalk | 212
 virakesarilk | 227
 dailymirrorlk | 256
-adaderanalk | 260
+adaderanalk | 261
 tamilmirrorlk | 266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,088 (99.9%) of 2,090 articles have been extended.
+2,090 (100.0%) of 2,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### US and UK launch new round of strikes against Houthi sites in Yemen
+
+*2024-01-23 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96662/us-and-uk-launch-new-round-of-strikes-against-houthi-sites-in-yemen) · `en`
+
+According to officials, the U.S. and U.K. used warship- and submarine-launched Tomahawk missiles and fighter jets to take out Houthi missile storage sites, drones and launchers.
+
+The officials, who spoke on condition of anonymity to discuss a military operation, said Australia, Bahrain, Canada and the Netherlands contributed to the mission, including with intelligence and surveillance.
+
+In a joint statement, the six allied nations said the strikes specifically targeted a Houthi underground storage site and locations associated with the Houthis’ missile and air surveillance capabilities.
+
+They added, “Our aim remains to de-escalate tensions and restore stability in the Red Sea, but let us reiterate our warning to Houthi leadership: we will not hesitate to defend lives and the free flow of commerce in one of the world’s most critical waterways in the face of continued threats.”
+
+...
+
+[Data](articles/0155eee4.json)
+
+---
 
 ### Dimuth Karunaratne named in ICC Men’s Test Team of the Year
 
@@ -51,6 +69,8 @@ Karunaratne’s struggles against Pakistan underscored his crucial role within t
 ...
 
 [Data](articles/b123e1f7.json)
+
+[Extended Data](ext_articles/b123e1f7.ext.json)
 
 ---
 
@@ -153,6 +173,8 @@ Furthermore, the Government Dental Surgeons’ Association express that they reg
 ...
 
 [Data](articles/3de26d4c.json)
+
+[Extended Data](ext_articles/3de26d4c.ext.json)
 
 ---
 
@@ -1993,19 +2015,5 @@ He added that this bill is against the rights of the people that make the govern
 [Data](articles/8df514b2.json)
 
 [Extended Data](ext_articles/8df514b2.ext.json)
-
----
-
-### President to visit Sri Lanka
-
-*2024-01-23 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192459) · `si`
-
-President Ranil Wickremesinghe has come to the island this morning with Ranil Wickremesinghe today (23).
-
-◼️
-
-[Data](articles/63867c41.json)
-
-[Extended Data](ext_articles/63867c41.ext.json)
 
 ---

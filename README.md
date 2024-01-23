@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 20:03:09**
+As of **2024-01-23 20:17:31**
 
 ## Newspaper Stats
 
-*Scraped **2,140** Articles*
+*Scraped **2,141** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 122
 newsfirstlk | 123
 islandlk | 123
 economynextcom | 132
-adaderanasinhalalk | 140
+adaderanasinhalalk | 141
 dailyftlk | 171
 adalk | 219
 virakesarilk | 235
@@ -26,11 +26,35 @@ tamilmirrorlk | 270
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,140 (100.0%) of 2,140 articles have been extended.
+2,140 (100.0%) of 2,141 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### දිවයින පුරා බන්ධනාගාරවල බරපතළ තත්ත්වයක්
+
+*2024-01-23 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192483) · `si`
+
+දිවයින පුරා බන්ධනාගාරවල රඳවා සිටින රැඳවියන්ගේ ධාරිතාවය සියයට 290කින් ඉක්මවා ගොස් ඇති බව බන්ධනාගාර කොමසාරිස් ජනරාල් තුෂාර උපුල්දෙණිය මහතා අද අනාවරණ කළේය.
+
+අද (23) විකාශය වූ අද දෙරණ බිග් ෆෝකස් වැඩසටහන සමග එක්වෙමින් ඒ මහතා මේ බව සඳහන් කළේය.
+
+ජාතික විගණන කාර්යාලය සිදුකළ "බන්ධනාගාරවල රැඳවියන්ගේ තදබදය කළමනාකරණය පිළිබඳ කාර්ය සාධන විගණන වාර්තාව" පසුගියදා එළිදක්වනු ලැබීය.
+
+විගණකාධිපති ඩබ්ලිව්.පී.සී.වික්‍රමරත්න මහතාගේ අත්සනින් යුතුව නිකුත් කෙරුණු එම වාර්තාවට අනුව 2022 දෙසැම්බර් 31 වනවිට දිවයින පුරා බන්ධනාගාරවල රඳවා තැබිය හැකි රැඳවියන්ගේ ධාරිතාවය 11,291ක් වුවත් එදින වනවිට රඳවා සිට ඇති පිරිස 26,176කි.
+
+ඒ අනුව බන්ධනාගාරවල රඳවා සිටිය හැකි රැඳවියන්ගේ ධාරිතාවය 232% කින් ඉක්මවා ගොස් තිබේ.
+
+මෙවන් පසුබිමක අද දෙරණ බිග් ෆෝකස් වැඩසටහනට එක්වූ බන්ධනාගාර කොමසාරිස් ජනරාල්වරයා  අනාවරණ කළේ මේ වනවිට එම තත්ත්වය තවදුරටත් ඔඩුදුවා ඇති බවය.
+
+එමෙන්ම විගණන වාර්තාවට අනුව, 2022 වසරේ දෙසැම්බර් 31 වැනිදා වනවිට සමස්ත රැඳවියන්ගෙන් 53%ක් සිරගත කර තිබී ඇත්තේ මත්ද්‍රව්‍ය වැරදි සම්බන්ධවය.
+
+...
+
+[Data](articles/340971a3.json)
+
+---
 
 ### State Medical Officers who changed the decision
 
@@ -2031,27 +2055,5 @@ During his visit to Kampala, he paid attention to the strengthening of bilateral
 [Data](articles/6a0cc215.json)
 
 [Extended Data](ext_articles/6a0cc215.ext.json)
-
----
-
-### Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
-
-*2024-01-23 12:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/twenty-one-israeli-soldiers-killed-in-deadliest-day-for-israel-in-gaza/) · `en`
-
-Colombo (News 1st) – The Israeli army says 21 Israeli soldiers were killed on Monday, the deadliest day for Israel since it began its invasion of Gaza immediately following the Hamas attacks on Israel on October 7, 2023, foreign media reported.
-
-The Ministry of Health in Gaza says 25,295 people have been killed and 63,000 wounded in Israeli attacks on Gaza since October 7. Israel says a total of 1,139 people died in Israel on October 7.
-
-Meanwhile, The US and UK struck eight Houthi targets in Yemen on Monday night, the eighth day of attacks since January 11 in retaliation for Houthi attacks on shipping in the Red Sea. It was only the second time that British forces joined in the strikes.
-
-Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
-
-Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
-
-◼️
-
-[Data](articles/65252b8c.json)
-
-[Extended Data](ext_articles/65252b8c.ext.json)
 
 ---

@@ -1,76 +1,234 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 14:03:39**
+As of **2024-01-23 14:17:17**
 
 ## Newspaper Stats
 
-*Scraped **2,036** Articles*
+*Scraped **2,060** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 31
 bbccomsinhala | 43
 dbsjeyarajcom | 121
-newsfirstlk | 122
+newsfirstlk | 123
 islandlk | 123
-economynextcom | 124
+economynextcom | 125
 adaderanasinhalalk | 127
 dailyftlk | 171
 adalk | 207
-virakesarilk | 211
-dailymirrorlk | 240
-adaderanalk | 253
+virakesarilk | 219
+dailymirrorlk | 252
+adaderanalk | 255
 tamilmirrorlk | 263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,031 (99.8%) of 2,036 articles have been extended.
+2,036 (98.8%) of 2,060 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### රජයේ වෛද්‍ය නිලධාරීන් අඛණ්ඩ වැඩවර්ජයක
+### Sri Lanka, Elite discuss training private security providers for employment abroad
+
+*2024-01-23 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-elite-discuss-training-private-security-providers-for-employment-abroad-148415/) · `en`
+
+ECONOMYNEXT – Representatives of Elite Academy, a UK-based private security service provider and training institute, met with Sri Lanka’s Labour and Foreign Employment Minister to discuss establishing a training center in the island, the minister said.
+
+Talks were held about establishing a training centre “aimed at foreign employment opportunities in the security sector including in the United Arab Emirates,” Nanayakkara said on Meta.
+
+Nanayakkara said he would provide state level support towards establishing such a center.
+
+Elite Academy representatives “briefed the Minister on the benefits of establishing a training center for security service providers,” and the importance of only directing those properly trained for foreign employment opportunities in the security service sector.
+
+Elite provides security, teacher training, health and social care, first aid, health and safety, conflict resolution, physical intervention, and specialist qualifications.
+
+...
+
+[Data](articles/da53ee9b.json)
+
+---
+
+### Doctors to launch indefinite strike from tomorrow
+
+*2024-01-23 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96656/doctors-to-launch-indefinite-strike-from-tomorrow) · `en`
+
+The Government Medical Officers’ Association (GMOA) has decided to launch an indefinite strike starting from tomorrow (Jan. 24).
+
+Accordingly, government doctors will commence the strike from 08.00 a.m. tomorrow, as the government has temporarily suspended the Disturbance, Availability and Transport (DAT) allowance, the GMOA said.
+
+The GMOA states that the decision was reached following information received that the government has decided not to provide the Disturbance, Availability and Transport (DAT) allowance which was increased by Rs. 35,000 from the month of January as previously promised.
+
+On January 08, the Cabinet of Ministers gave its approval to President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
+
+...
+
+[Data](articles/d62cad3b.json)
+
+---
+
+### Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
+
+*2024-01-23 13:39:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/talk-of-the-town-towards-economic-recovery-raj-rajakulendran-23rd-january-2024/) · `en`
+
+Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
+
+Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
+
+Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
+
+◼️
+
+[Data](articles/f48c26ae.json)
+
+---
+
+### Buddhist monk killed in shooting inside temple
+
+*2024-01-23 13:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96655/buddhist-monk-killed-in-shooting-inside-temple) · `en`
+
+A Buddhist monk has been shot dead inside a temple in the Malwathuhiripitiya area of Gampaha.
+
+Police stated that the shooting has been carried out using a T-56 assault rifle.
+
+◼️
+
+[Data](articles/a570efcb.json)
+
+---
+
+### No funds, DAT allowance suspended for doctors
+
+*2024-01-23 13:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/No-funds-DAT-allowance-suspended-for-doctors/108-275573) · `en`
+
+Colombo, Jan 23 (Daily Mirror) -  The Health Ministry has decided to suspend the provision of the Disturbance, Availability and Transport (DAT) allowance which was increased from Rs. 35,000.
+
+The Ministry said despite the earlier announcement that the allowance for doctors will be raised to Rs. 70,000, the increased amount of Rs 35,000 will be suspended as per the directive of the Treasury.
+
+The government recently approved the President's proposal to double the DAT allowance up to Rs. 70,000 for doctors.
+
+◼️
+
+[Data](articles/b1557548.json)
+
+---
+
+### Buddhist monk shot dead in Gampaha
+
+*2024-01-23 13:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Buddhist-monk-shot-dead-in-Gampaha/108-275574) · `en`
+
+Gampaha, Jan 23 (Daily Mirror) - A Buddhist monk has been shot dead with a T-56 weapon at a temple at Malwathu Hiripitiya in Gampaha.
+
+Police said four unknown persons in a car had reportedly opened fire at the monk and fled. The monk died after being admitted to the hospital.
+
+◼️
+
+[Data](articles/28a1243c.json)
+
+---
+
+### துப்பாக்கிச் சூட்டில் தேரர் பலி
+
+*2024-01-23 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174610) · `ta`
+
+கம்பஹா மல்வத்துஹிரிபிட்டிய பிரதேசத்தில் உள்ள விகாரை ஒன்றுக்கு  காரில் வந்த இனந்தெரியாத நால்வர் துப்பாக்கிச் சூட்டை நடத்தி விட்டு தப்பிச் சென்றுள்ளதாக மல்வத்துஹிரிபிட்டிய பொலிஸார் தெரிவிக்கின்றனர்.
+
+துப்பாக்கிச் சூட்டுக்கு இலக்கான தேரர்  வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட பின்னர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/b009dd2e.json)
+
+---
+
+### More than 100,000 nude photos circulated on social media last year: Minister
+
+*2024-01-23 13:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-than-100-000-nude-photos-circulated-on-social-media-last-year-Minister/108-275572) · `en`
+
+Parliament, Jan. 23 (Daily Mirror)- More than 100,000 nude photographs have been circulated on social media last year, while there have been 8,000 cybercrimes committed, Minister of Public Security Tiran Allas told Parliament today.
+
+Kicking off the debate on the Online Safety Bill in the House, the Minister said more than 500 nude photographs have been circulated within the first few weeks of 2024.
+
+“There have also been 6,690 instances of online sexual abuse last year,” he said.
+
+“These figures are only what have been reported and recorded by the CID. There could be many more online crimes and abuses that have gone unreported,” he added.
+
+The Minister said the Online Safety Bill only covers online crimes, preventing provocations which could lead to insurgencies, disturb religious and ethnic harmony etc.
+
+“We don’t intend to victimize anyone using the Online Safety Bill,” he said.
+
+...
+
+[Data](articles/d3e20a8a.json)
+
+---
+
+### Government Medical Officers in a continuous strike
 
 *2024-01-23 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192466) · `si`
 
-රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය හෙට (24) සිට අඛණ්ඩ වැඩවර්ජනයක් ආරම්භ කිරීමට තීරණය කර තිබේ.
+The Government Medical Officers Association has decided to launch a continuous strike from tomorrow (24).
 
-රජය විසින් මීට පෙර සඳහන් කළ පරිදි DAT දීමනාව ජනවාරි මාසයේ සිට ලබානොදීමට තීරණය කර ඇති බවට ලද තොරතුරකට අනුව එම සංගමය මෙම තීරණය ගෙන ඇත.
+According to the government, the Association has decided not to receive the DAT allowance from January.
 
 ◼️
 
 [Data](articles/0890f903.json)
 
+[Extended Data](ext_articles/0890f903.ext.json)
+
 ---
 
-### වෙඩිතැබීමකින් හිමිනමක් අපවත් වෙති
+### Humans are a shot
 
 *2024-01-23 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192465) · `si`
 
-පොලීසිය පවසන්නේ ටී 56 ගිනි අවියක් යොදාගනිමින් මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
+The police say that the shooting has been carried out using a T-56 rifle.
 
 ◼️
 
 [Data](articles/91492359.json)
 
+[Extended Data](ext_articles/91492359.ext.json)
+
 ---
 
-### බැංකු ණය පොලිය ගැන මහ බැංකු ස්ථාවරය
+### யாழ்.சுதுமலையில் டெங்கு அதிகரிப்பு : ஒரு வாரத்தில் 10 வயதிற்கு உட்பட்ட 13 சிறுவர்களுக்கு டெங்கு
+
+*2024-01-23 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/174604) · `ta`
+
+யாழ்ப்பாணம் சுதுமலை பகுதியில் கடந்த வாரம் 21 டெங்கு நோயாளர்கள் இனம் காணப்பட்டுள்ள நிலையில், அவர்களில் 13 பேர் 10 வயதிற்கு உட்பட்ட சிறுவர்கள் ஆவார்கள்.
+
+இந்நிலையில், குறித்த பகுதிகளில் பொது சுகாதார பரிசோதகர் ம.ஜெயபிரதீப் தலைமையில் அப்பகுதி கிராம சேவையாளர், டெங்கு தடுத்து உத்தியோகஸ்தர்கள் இணைந்து வீட்டு தரிசிப்பில் ஈடுபட்டனர்.
+
+அதன் போது டெங்கு நுளம்பு பரவுவதற்கு ஏதுவான சூழலை வைத்திருந்த 23 குடியிருப்பாளர்களுக்கு சிவப்பு எச்சரிக்கை துண்டு வழங்கப்பட்டதுடன், நுளம்பு குடம்பிகள் காணப்பட்ட வளாக குடியிருப்பாளர்கள் நால்வருக்கு எதிராக நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்ட நிலையில் மன்றில் முன்னிலையான மூவர் குற்றத்தை ஒப்புக்கொண்டதை அடுத்து, அவர்களுக்கு தலா 4ஆயிரத்து 500 ரூபாய் தண்டம் விதிக்கப்பட்டது. மன்றில் முன்னிலையாகாத குடியிருப்பாளருக்கு அழைப்பாணை வழங்கப்பட்டுள்ளது.
+
+அதேவேளை நுளம்பு பரவ கூடிய சூழல் காணப்பட்ட வெற்று காணி உரிமையாளர்களுக்கு, அக்காணிகளை துப்பரவு செய்வதற்கு 07 நாட்கள் அவகாசம் வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/3a5eb999.json)
+
+---
+
+### Central Bank Station on Bank Loan Interest
 
 *2024-01-23 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192464) · `si`
 
-බැංකු ණය පොලී අනුපාතය තවදුරටත් අඩු විය යුතු බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+Central Bank Governor Dr. Nandalal Weerasinghe says that the bank loan interest rate should be further reduced.
 
-අද (23) මහ බැංකුවේ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා මේ බව කියා සිටියේය.
+He was speaking at a media briefing held at the Central Bank this morning (23).
 
-"දත්ත බැලුවාම අඩුකරලා තියෙනවා. අපි බලාපොරොත්තු වන ප්‍රමාණයට අඩුකරලා නෑ කියන එක තමයි අපි කියන්නේ. අඩු කරලා නෑ කියන එක අපි බැලුවාම බැංකුවලින් විශේෂයෙන් අපි ML ඕඩරයක් දැම්මහම මාසෙන් මාසෙට ඉලක්ක ළඟා වුණාද කියලා, හැම බැංකුවෙන්ම දත්ත ගෙන්වා ගන්නවා. එතකොට ඒ දත්ත අනුව ඒ තියෙන ඉලක්කයටම සියලුම බැංකු ඇවිල්ලා නැහැ. සමහර බැංකු කිහිපයක් තියෙනවා ඇවිත් නැතුව. ඒ අයට අපි දැනුම්දීලා තියෙනවා. පැහැදිලි කිරීම් කැඳවලා තියෙනවා. ඒ අනුව යම් යම් හේතු දක්වලා තියෙනවා. ඒත් අපි කියන්නේ තවදුරටත් මේක අඩුවෙන්න ඕනේ කියන මතයේ අපි ඉන්නවා. එතකොට ඒක අලුතින් ගන්න අයටත්, ඒ එක්කම බැංකු ණය තියෙන අයගෙත් පොලී අනුපායතය අඩුවෙන්න ඕනේ."
+"The data has been reduced. We say that we are not reduced to the extent we expect. When we look down, the banks especially when the month of banks, especially when we left the month of banks, we get the data from the month, that the month of the month is achieved by month. Then, according to that data, all banks have not come. There are some banks without coming. We have informed them. Explanations have been called. Accordingly, there are some reasons. But we say that we are in the opinion that we need to reduce any further. Then we need to reduce interest sponsorship when it comes to and the bank loans. "
 
 ...
 
 [Data](articles/c875e959.json)
+
+[Extended Data](ext_articles/c875e959.ext.json)
 
 ---
 
@@ -87,6 +245,8 @@ All applicants applying from schools are requested to apply through their respec
 The National Identity Card will be mandatory for private applicants while applicants under the age of 15 who do not have a national identity card are requested to report to the examination department to apply for it.
 
 The announced the application period will not be extended for any reason.
+
+Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
 
 Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 
@@ -114,6 +274,22 @@ Two foreign nationals, who were travelling in the car have been injured in the a
 
 ---
 
+### ஜனவரி மாதம் மின் கட்டணத்தில் நிவாரணத்தை எதிர்பார்க்க முடியாது - பொதுப் பயன்பாடுகள் ஆணைக்குழு தலைவர்
+
+*2024-01-23 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174606) · `ta`
+
+எதிர்வரும் பெப்ரவரி மாத நடுப்பகுதியில் மின்சாரக் கட்டணங்கள் திருத்தப்படும் என இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ இன்று செவ்வாய்க்கிழமை (23) தெரிவித்துள்ளார்.
+
+மின்சாரக் கட்டணத்தை திருத்தும்போது கடைப்பிடிக்க வேண்டிய நடவடிக்கை ஒன்று இருப்பதாகத் தெரிவித்த  அவர்,  அதற்கிணங்க மக்கள் கருத்துக் கணிப்பு இன்றைய தினம் ஆரம்பிக்கப்பட்டதாகவும் குறிப்பிட்டார்.
+
+இலங்கையில் உள்ள மின்சார பாவனையாளர்கள் ஜனவரி மாதம் மின்சார கட்டணத்தில் நிவாரணத்தை எதிர்பார்க்க முடியாது என பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/60cfc0dd.json)
+
+---
+
 ### Parliament begins debating controversial Online Safety Bill
 
 *2024-01-23 12:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/parliament-begins-debating-controversial-online-safety-bill/) · `en`
@@ -123,6 +299,8 @@ Colombo (News 1st) – The debate over the Online Safety Bill commenced in Parl
 Earlier, parliament sessions were postponed for a party leaders meeting that was requested by the Opposition.
 
 The Online Safety Bill has been widely criticised from many quarters, including the Bar Association of Sri Lanka, IT experts, global social media companies, and advocates for civil liberties.
+
+Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
 
 Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 
@@ -174,13 +352,35 @@ Police Media Spokesman SSP Nihal Thalduwa explained that the CCTV camera system 
 
 ---
 
-### මෝටර් රථයක් දුම්රියක ගැටෙයි
+### பொலிசார் சீருடை இல்லாது சிவில் சமூகத்துடன் தொடர்பாடக்கூடாது : வெள்ளவத்தை பொலிஸ் பொறுப்பதிகாரிக்கு மனோ அறிவுறுத்தல்
+
+*2024-01-23 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174601) · `ta`
+
+வெள்ளவத்தை பொலிஸ் வலயத்தின் பசல்ஸ் ஒழுங்கை பகுதியில், இரகசிய சுற்றுவளைப்பு தேவைக்காக சீருடை அணியாமல் சென்ற பொலிஸ் அதிகாரிகளுக்கும், அப்பகுதியில் வீதியில் சாதாரண கடமையில் ஈடுபட்டிருந்த மகேஷ்வர குருக்களுக்கும் இடையில் இடம்பெற்ற பிரச்சினை, பொலிசார் தமது செய்கை தொடர்பில், வண.குருக்களிடம் வருத்தம் தெரிவித்துக்கொண்டதுடன் சுமூக முடிவுக்கு வந்துள்ளதாக தமிழ் முற்போக்குக் கூட்டணியின் தலைவர் மனோ கணேசன் எம்.பி. தெரிவித்துள்ளார்.
+
+வெள்ளவத்தையில் இந்து குருக்கள் - பொலிசார் மத்தியில் ஏற்பட்ட பிணக்கு தொடர்பில் மனோ எம்பி மேலும் கூறியுள்ளதாவது,
+
+வாகன போக்குவரத்து தொடர்பில் ஏற்பட்ட சிறு பிணக்கை  இனவாத சொற்பிரயோகம், வாக்குவாதம், உடல்ரீதியான பலவந்தம் வரை பொலிசார் கொண்டு சென்றுள்ளனர்.
+
+இரு தரப்பும் சமாதான உடன்பாட்டுக்கு வந்து பிரச்சினை, திங்கட்கிழமை (22)  மாலையே முடிவுக்கு கொண்டுவரப்பட்டுள்ளது.
+
+மத குருமார்களுக்கு உரிய பெருந்தன்மையுடன் பொலிசாரை தான் மன்னித்து விட்டதாக, குருக்கள் என்னிடம் தெரிவித்தார்.
+
+...
+
+[Data](articles/77f764bb.json)
+
+---
+
+### Car clashes on train
 
 *2024-01-23 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192463) · `si`
 
 ◼️
 
 [Data](articles/4d5a4405.json)
+
+[Extended Data](ext_articles/4d5a4405.ext.json)
 
 ---
 
@@ -206,6 +406,60 @@ A social safety net is a priority initiative under an International Monetary Fun
 
 ---
 
+### ஊடக சுதந்திரம் பேணப்படல் வேண்டும் - இராஜாங்க அமைச்சர் வியாழேந்திரன்
+
+*2024-01-23 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174600) · `ta`
+
+கருத்துச் சுதந்திரம் எனப்பது இந்த நாட்டில் இருக்க வேண்டும். ஊடக சுதந்திரம் பேணப்படல் வேண்டும். ஊடக அடக்குமுறை என்பது இருக்கக் கூடாது. எல்லோருக்கும் கருத்து வெளியிடும் சுதந்திரம் இருக்க வேண்டும் என வர்த்தக இராஜாங்க அமைச்சர் சதாசிவம் வியாழேந்திரன் தெரிவித்துள்ளார்.
+
+மட்டக்களப்பு  மண்டூர் பகுதியில் 2.5 மில்லியன் நிதி ஒதுக்கீட்டில், 1.1 கிலோ மீற்றர் வீதி கார்பட் இடும் வேலைத்திட்டம் திங்கட்கிழமை (22) ஆரம்பித்து வைக்கப்பட்டுள்ளது.
+
+இதன்போது கலந்துகொண்டு குறித்த வீதியின் புனரமைப்புப் பணிகளை ஆரம்பித்து வைத்து விட்டு கருத்துத் தெரிவிக்கையிலேயே அவர் இவ்வாறு குறிப்பிட்டடர்.
+
+பாராளுமன்றத்தில் கொண்டுவரப்படவுளள புதிய சட்டங்கள் தொடர்பில் சில விசேட கலந்துரையாடல்கள் நடைபெறவுள்ளன அந்த கலந்துரையாடல்களின்போது கொண்டுவரப்படவுள்ள சட்டங்கள் சமூகத்திற்கு சாதகமாகவா, அல்லது பாதகமாக இருக்கின்றதா என்பது தொடர்பில் நன்கு ஆராய்ந்த பின்னர் நாம் அதுதொடர்பிலான முடிவுகளை நாம் எடுபபோம்.
+
+கருத்துச் சுதந்திரம் எனப்பது இந்தநாட்டில் இருக்க வேண்டும். ஊடக சுதந்திரம் பேணப்படல் வேண்டும். ஊடக அடக்குமுறை என்பது இருக்கக் கூடாது.
+
+...
+
+[Data](articles/3de6bb3b.json)
+
+---
+
+### ஜனநாயகப் போராளிகள் கட்சியின் உபதலைவர் நகுலேஸ் பிணையில் விடுதலை
+
+*2024-01-23 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/174598) · `ta`
+
+பயங்கரவாதத் தடைச் சட்டத்தின் கீழ் கைது செய்யப்பட்டு விளக்க மறியலில் மட்டக்களப்பு சிறைச்சாலையில் வைக்கப்பட்டிருந்த ஜனநாயகப் போராளிகள் கட்சியின் உபதலைவர் என்.நகுலேஸ் திங்கட்கிழமை (22) பிணையில் விடுவிக்கப்பட்டார்.
+
+கடந்த 2023.11.25ம் திகதி ஜனநாயகப் போராளிகள் கட்சியின் ஏற்பாட்டில் மாவீரர் பெற்றோர் கௌரவிப்பினை மேற்கொண்டதன் பேரில் இவர் வெல்லாவெளி பொலிசாரால் கைது செய்யப்பட்டு பயங்கரவாதத் தடைச் சட்டத்தின் கீழ் விளக்க மறியலில் வைக்கப்பட்டிருந்து நீதிமன்றத்தினால் பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+
+நாட்டில் முன்னாள் போராளிகள் ஜனநாயக ரீதியிலான செயற்பாடுகளை முன்னெடுப்பதென்பது இன்னும் இயலாத ஒரு விடயமாகவே இருக்கின்றது.
+
+யுத்தத்தின் பிடியில் இருந்து விடுவிக்கப்பட்டாலும் இனவாத அரசியலில் இருந்து மற்றைய இனத்தினை அடிமைப்படுத்தும், பயங்கரவாதத் தடைச் சட்டத்தினைக் கொண்டு அச்சுறுத்தும் நடவடிக்கைகள் தொடரத்தான் செய்கின்றன. எது எவ்வாறு இருந்தாலும் தமிழ் மக்களுக்கான எமது பணிகளை ஒருபோதும் தடுத்துவிட முடியாது.
+
+...
+
+[Data](articles/1ae5a0a6.json)
+
+---
+
+### சர்வதேச சமூகத்தின் நல்லெண்ணத்தை நாடி நிற்கும் அரசாங்கம்
+
+*2024-01-23 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174594) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமைத்துவத்தின் கீழ் இலங்கை அதன் ஆற்றலுக்கு அப்பாற்பட்ட முறையில்மீண்டும்  முக்கியத்துவத்தைப் பெறத்தொடங்கியிருக்கிறது போன்று தெரிகிறது.
+
+ஆபிரிக்க நாடான உகண்டாவின் தலைநகர் கம்பாலாவில் தற்போது நடைபெறும் அணிசேரா நாடுகளின் 19 வது உச்சிமாநாட்டிலும் 77 நாடுகள் குழு மற்றும் சீனாவின் மூன்றாவது தெற்கு உச்சிமகாநாட்டிலும் ஜனாதிபதிக்கு  முக்கியத்துவம் வாய்ந்த  இடம் கிடைத்தது. உகண்டா ஜனாதிபதி ஜோவெரி முசவெனியின் அழைப்பின் பேரில் விக்கிரமசிங்க  முக்கியமான சந்திப்புகளில் பங்கேற்றது மாத்திரமல்ல, அணிசேரா உச்சிமாநாட்டிலும் தெற்கு உச்சிமகாநாட்டிலும் உரையாற்றினார் என்று ஜனாதிபதியின் ஊடகப்பிரிவு தெரிவித்தது.
+
+கம்பாலாவுக்கான தனது விஜயத்தின்போது அவர் ஆபிரிக்க பிராந்தியத்தைச் சேர்ந்த தலைலர்களுடன் இரு தரப்பு உறவுகளைப் பலப்படுத்துவதில் முக்கிய கவனத்தைச் செலுத்தியதுடன் தெற்கு உலக நாடுகளின் தலைவர்களுடனும் பேச்சுவார்த்தைகளை நடத்தினார்.
+
+...
+
+[Data](articles/6a0cc215.json)
+
+---
+
 ### Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 
 *2024-01-23 12:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/twenty-one-israeli-soldiers-killed-in-deadliest-day-for-israel-in-gaza/) · `en`
@@ -216,6 +470,8 @@ The Ministry of Health in Gaza says 25,295 people have been killed and 63,000 wo
 
 Meanwhile, The US and UK struck eight Houthi targets in Yemen on Monday night, the eighth day of attacks since January 11 in retaliation for Houthi attacks on shipping in the Red Sea. It was only the second time that British forces joined in the strikes.
 
+Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
+
 Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 
 ◼️
@@ -223,6 +479,18 @@ Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 [Data](articles/65252b8c.json)
 
 [Extended Data](ext_articles/65252b8c.ext.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-01-23 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174603) · `ta`
+
+இன்று செவ்வாய்க்கிழமை (ஜனவரி 23) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 315.0324 ஆகவும் விற்பனை விலை ரூபா 325.8287 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/0cbeadf2.json)
 
 ---
 
@@ -237,6 +505,8 @@ The Ministry of Public Security says that among them are 676 suspects involved i
 Police say 187 grams of heroin, 14 kilograms and 700 grams of ganja alongside a stock of other drugs were seized during the operation.
 
 322 suspects who were on the list of wanted persons prepared by the Police Narcotics Bureau and Special Bureau have also been apprehended.
+
+Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
 
 Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 
@@ -257,6 +527,8 @@ COLOMBO (News 1st); A group of social activists led by civil organizations held
 A group of civil organizations, social activists and others participated in the protest which was held under the theme of "Let's withdraw the Online Safety Bill which is suppressing the society".
 
 Police Anti-riot officers were called to the protest site and water cannons were also deployed.
+
+Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
 
 Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 
@@ -349,6 +621,30 @@ Opposition MPs then proposed postponing the debate to a later date on account of
 [Data](articles/e5e84c0e.json)
 
 [Extended Data](ext_articles/e5e84c0e.ext.json)
+
+---
+
+### Luigi Riva: Italy’s record goalscorer dies aged 79
+
+*2024-01-23 12:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Luigi-Riva-Italys-record-goalscorer-dies-aged-79/108-275569) · `en`
+
+Jan. 23 (BBC) - Italy's record goalscorer and former Cagliari forward Luigi Riva has died at the age of 79.
+
+Riva had been in hospital in Sardinia's capital after reportedly suffering a heart attack over the weekend.
+
+Nicknamed 'Roar of Thunder', Riva scored 35 goals in 42 appearances for the Azzurri, with whom he won the 1968 European Championship and reached the World Cup final two years later.
+
+He also helped Cagliari to their only Serie A title in 1970.
+
+In a post on X, formerly Twitter, Cagliari wrote,"Forever GIGI RIVA."
+
+Italian Football Federation (FIGC) president Gabriele Gravina said: "Italian soccer is grieving because a real and proper national hero has left us. Gigi Riva was the embodiment of a great man and an extraordinary footballer."
+
+The FIGC has put plans in place for matches across Italy to hold a pre-match minute's reflection in honour of Riva for the rest of this week.
+
+...
+
+[Data](articles/4681a352.json)
 
 ---
 
@@ -445,6 +741,22 @@ As the aviation sector experiences a revival, it was important to empower the ne
 [Data](articles/5dca8891.json)
 
 [Extended Data](ext_articles/5dca8891.ext.json)
+
+---
+
+### Motion to take up debate on Online Safety Bill passed in Parliament
+
+*2024-01-23 11:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Motion-to-take-up-debate-on-Online-Safety-Bill-passed-in-Parliament/108-275567) · `en`
+
+Parliament, Jan. 23 (Daily Mirror)- The motion on whether the House is agreable to take up the second reading debate on the Online Safety Bill was passed with a majority of 33 votes.
+
+A vote was taken following a division called by the Opposition to take up the debate on the Bill.
+
+A total of 83 MPs voted in favour while 50 MPs voted against.
+
+◼️
+
+[Data](articles/a0bb0e6b.json)
 
 ---
 
@@ -546,6 +858,26 @@ Accordingly, the debate was started with the passage of the bill of 33 votes.
 
 ---
 
+### Police identify 125 traffic offenders through CCTV in Colombo, warnings issued
+
+*2024-01-23 11:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-identify-125-traffic-offenders-through-CCTV-in-Colombo-warnings-issued/108-275564) · `en`
+
+Colombo, Jan 23 (Daily Mirror) A total of 125 motorists who violated traffic rules received warnings yesterday following the launch of a pilot project aimed at identifying offenders through the CCTV system in Colombo.
+
+Police initiated the programme yesterday, and it will run for a week to raise awareness on the initiative among motorists.
+
+Starting from February 01, the enforcement of laws against traffic violators will begin.
+
+Police said 125 traffic violations were observed through CCTVs in Colombo, and warnings were issued to the owners of the vehicles as an initial step.
+
+Offenses such as violating lane rules and failure to halt at stop signs were among those observed.
+
+◼️
+
+[Data](articles/4000e5e5.json)
+
+---
+
 ### The President who pleased journalists
 
 *2024-01-23 11:27:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளர்களுக்கு-மகிழ்ச்சி-கொடுத்த-ஜனாதிபதி/175-332006) · `ta`
@@ -637,6 +969,24 @@ He said that our general purpose is to destroy the underworld with the underworl
 [Data](articles/e5bd5f94.json)
 
 [Extended Data](ext_articles/e5bd5f94.ext.json)
+
+---
+
+### Central Bank maintains policy rates at current levels
+
+*2024-01-23 11:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-maintains-policy-rates-at-current-levels/108-275557) · `en`
+
+Policy rates will be maintained at their current levels, the Central Bank of Sri Lanka said today, its first monetary policy announcement for the year.
+
+The Monetary Policy Board has decided to maintain the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank at their current levels of 9.00 percent and 10.00 percent.
+
+The Board arrived at this decision following a comprehensive assessment of domestic and international macroeconomic developments to maintain inflation at the targeted level of 5 percent over the medium term, while enabling the economy to reach its potential, the Central Bank said.
+
+While the Board took note of the effects of the recent developments in taxation and supply-side factors likely to pose upside pressures on inflation in the near term, it viewed that the impact of these developments would not materially change the medium-term inflation outlook.
+
+...
+
+[Data](articles/ef2db0a8.json)
 
 ---
 
@@ -906,6 +1256,28 @@ The Head of State departed for Switzerland on 13 January, for an official visit 
 
 ---
 
+### Maxwell under investigation by Cricket Australia
+
+*2024-01-23 10:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maxwell-under-investigation-by-Cricket-Australia/108-275556) · `en`
+
+Sydney, Jan. 23 (AFP) - Glenn Maxwell is being investigated by Cricket Australia, a spokesperson said Tuesday, after the star allrounder was reportedly hospitalised following a night out.
+
+The governing body wants to quiz the 35-year-old about a recent incident in Adelaide.
+
+According to Australian media outlets, Maxwell was taken to hospital,  after attending a concert last Friday of the band Six & Out, made up of former cricket greats including Brett Lee.
+
+"Cricket Australia is aware of an incident involving Glenn Maxwell in Adelaide at the weekend and is seeking further information," said a spokesperson.
+
+Maxwell has been stood down for the upcoming 50-overs series against the West Indies early next month, but Cricket Australia insist the decision is not linked to the incident in Adelaide.
+
+He is expected to return for the Twenty20 series against the West Indies, starting February 9 following the one-day international games, Cricket Australia added.
+
+...
+
+[Data](articles/23f8f59d.json)
+
+---
+
 ### Strict resolution on annual relocation
 
 *2024-01-23 10:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருடாந்த-இடமாற்றம்-தொடர்பில்-கடுமையான-தீர்மானம்/175-332000) · `ta`
@@ -943,6 +1315,22 @@ As a result, some of the transfer cycles given under the Annual Transfers have n
 [Data](articles/d76422d2.json)
 
 [Extended Data](ext_articles/d76422d2.ext.json)
+
+---
+
+### Trade unionist representing CEB to be summoned before Parliament
+
+*2024-01-23 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trade-unionist-representing-CEB-to-be-summoned-before-Parliament/108-275555) · `en`
+
+Parliament, Jan. 23 (Daily Mirror)- Trade unionist representing employees of the Ceylon Electricity Board (CEB) Ranjan Jayalal is to be summoned before Parliament shortly for making a false claim.
+
+Minister of Power and Energy Kanchana Wijesekera proposed that trade unionist Ranjan Jayalal be summoned before Parliament for passing false information.
+
+"Ranjan Jayalal had passed false information that Parliament and the President's office have not paid their electricity bills for months. Both institutions have paid their electricity bills to date. Therefore Jayalal should be dealt with by summoning him before Parliament," Minister Wijesekera said.
+
+◼️
+
+[Data](articles/b7a43af6.json)
 
 ---
 
@@ -1039,6 +1427,20 @@ The proceedings have been temporarily postponed for the party leader's meeting t
 [Data](articles/0810ed2e.json)
 
 [Extended Data](ext_articles/0810ed2e.ext.json)
+
+---
+
+### Speaker calls for Party leaders’ meeting to discuss Online Safety Bill
+
+*2024-01-23 10:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speaker-calls-for-Party-leaders-meeting-to-discuss-Online-Safety-Bill/108-275554) · `en`
+
+Parliament, Jan 23 (Daily Mirror) -  Speaker Mahinda Yapa Abeywardena suspended Parliament sessions to hold  a party leaders' meeting to dicuss the Online Safety Bill.
+
+The Speaker said the meeting is being called following a request by the Opposition.
+
+◼️
+
+[Data](articles/700cc77f.json)
 
 ---
 
@@ -1298,6 +1700,24 @@ Chinese state media reported that up to 47 people were buried in the wreckage an
 
 ---
 
+### Yukthiya not driven by personal agenda: Deshabandu
+
+*2024-01-23 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Yukthiya-not-driven-by-personal-agenda-Deshabandu/155-275549) · `en`
+
+Colombo, Jan 23 (Daily Mirror) - Despite criticism from several organisations including the UN regarding potential human rights violations during the ongoing countrywide crackdown on criminals and drug smugglers, Acting IGP Deshabandu Tennakoon told the Daily Mirror that the operation ’Yukthiya’ has ano personal agenda, focusing solely on eradicating the underworld and apprehending drug smugglers.
+
+The 'Yukthiya' operation, launched on December 17 last year following the appointment of Tennakoon as the Acting IGP, has resulted in the arrest of over 40,000 individuals.
+
+The UN and local rights groups have voiced concerns about heavy-handed tactics, arbitrary arrests, and potential due process violations during the operation. Critics claim the crackdown disproportionately affects marginalised communities, leading to profiling and harassment.
+
+While denying allegations of mistreatment, Tennakoon emphasised the need for a firm hand against underworld criminals.
+
+...
+
+[Data](articles/4bca953f.json)
+
+---
+
 ### 955 more suspects arrested during operation ‘Yukthiya’
 
 *2024-01-23 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96640/955-more-suspects-arrested-during-operation-yukthiya) · `en`
@@ -1466,9 +1886,9 @@ The incident occurred near the Beliatta-Kahawatta entrance on the Southern Expre
 
 ---
 
-### Former President Maithripala’s daughters house in Battaramulla burgled
+### Former President Maithripala’s daughter's house in Battaramulla burgled
 
-*2024-01-23 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-President-Maithripalas-daughters-house-in-Battaramulla-burgled/108-275548) · `en`
+*2024-01-23 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-President-Maithripalas-daughter-s-house-in-Battaramulla-burgled/108-275548) · `en`
 
 Battaramulla, Jan 23 (Daily Mirror) - The house in Wickremesinghepura, Battaramulla, belonging to the daughter of former President Maithripala Sirisena, was subjected to a burglary, resulting in the loss of valuable items, worth nearly Rs.3 million, Thalangama Police has confirmed.
 
@@ -1478,480 +1898,6 @@ According to a senior police officer, the husband, who is a businessman, stated 
 
 ◼️
 
-[Data](articles/8505c7a4.json)
-
-[Extended Data](ext_articles/8505c7a4.ext.json)
-
----
-
-### The UN Human Rights Commission announced through the UN Human Rights Commission to suspend justice
-
-*2024-01-23 07:25:05* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තිය-මෙහෙයුම-වහාම-අත්හිටුවන්නැයි-එජා-මානව-හිමිකම්-කොමිසම-හරහා-නිවේදනයක්/11-407677) · `si`
-
-A UN experts have issued a statement through the UN Human Rights Commission to suspend justice operation in Sri Lanka to suspend the milk and crimes in Sri Lanka.
-
-The announcement made by the announcement that drug users should also be given the opportunity to live respectfully.
-
-The announcement released in Sri Lanka is currently in operation for drug users.
-
-Specialists say that drug abuse should be forwarded to rehabilitation and mandatory rehabilitation centers should be closed down.
-
-They also call upon the government to stop using armed forces for drug control.
-
-◼️
-
-[Data](articles/3965b4cd.json)
-
-[Extended Data](ext_articles/3965b4cd.ext.json)
-
----
-
-### Showers expected in certain parts of the country after 4pm
-
-*2024-01-23 07:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96637/showers-expected-in-certain-parts-of-the-country-after-4pm) · `en`
-
-The Department of Meteorology says showers or thundershowers may occur at a few places in Sabaragamuwa Province and in Galle and Matara districts after 4.00 p.m.
-
-Mainly fair weather will prevail in the other areas of the island, it said.
-
-There is a possibility of ground frost at some places in Nuwara-Eliya district during the early hours of the morning.
-
-Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
-
-◼️
-
-[Data](articles/5ee3f14c.json)
-
-[Extended Data](ext_articles/5ee3f14c.ext.json)
-
----
-
-### Ground frost possible at some places in Nuwara-Eliya district during early hours
-
-*2024-01-23 07:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ground-frost-possible-at-some-places-in-Nuwara-Eliya-district-during-early-hours/108-275551) · `en`
-
-Colombo, Jan 23 (Daily Mirror) - The forecasting division of the National Meteorological Centre said today that there is a possibility of ground frost at some places in the Nuwara-Eliya district during the early hours of the morning.
-
-Misty conditions can be expected at some places in the Sabaragamuwa and Central Provinces and in the Galle and Matara districts during the morning.
-
-Meanwhile, showers or thundershowers may occur at a few places in the Sabaragamuwa Province and in the Galle and Matara districts after 4 p.m.
-
-Mainly fair weather will prevail in the other areas of the island.
-
-◼️
-
-[Data](articles/a4b43286.json)
-
-[Extended Data](ext_articles/a4b43286.ext.json)
-
----
-
-### “That government is corrupted by its leaders”
-
-*2024-01-23 07:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்த-அரசாங்கம்-அதன்-தலைவர்களால்-சிதைந்தது/175-331992) · `ta`
-
-Parliamentarian SB Dissanayake said the government, which was set up with a 6.9 million decree and two -thirds majority, was corrupted by its own leaders.
-
-“I was disappointed that the government created with a 6.9 million order and two -thirds of the majority was disrupted by our own leaders,” he said.
-
-Although the president's power to dissolve parliament at any time, no one can change the presidential election in October.
-
-Four years after the Constitution, the President can dissolve parliament at any time, he told reporters.
-
-“The President or Parliament has the power to decide on some elections. However, no one can decide the date of the presidential election in October, ”he added.
-
-◼️
-
-[Data](articles/a6df3009.json)
-
-[Extended Data](ext_articles/a6df3009.ext.json)
-
----
-
-### 3 dengue deaths in 20 days
-
-*2024-01-23 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192453) · `si`
-
-The National Dengue Control Unit states that these deaths have been reported during the first 20 days of this year.
-
-7,507 dengue patients have been reported across the country during the last days.
-
-The highest number of patients have been reported from the Jaffna district and the number is 1,602.
-
-1,536 cases were reported from the Colombo district and 637 were reported from Gampaha District.
-
-Meanwhile, Minister of Health Dr. Ramesh Pathiran said that the support of the people to control the distribution of dengue is not sufficient.
-
-◼️
-
-[Data](articles/a3bb0192.json)
-
-[Extended Data](ext_articles/a3bb0192.ext.json)
-
----
-
-### “I will definitely contest the presidential election”
-
-*2024-01-23 07:14:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலில்-நிச்சயம்-போட்டியிடுவேன்/175-331991) · `ta`
-
-Dilith Jayaweera, the leader and businessman of the Mawbima Janata Party, said that if the presidential election is held in the future, he will definitely contest.
-
-He was speaking at a political interview with a private television.
-
-“The aspiration of the Mawbima Janata Party is not aimed at the upcoming presidential election.. This party is a power born for the historical needs of Sri Lanka.
-
-This party is a veryoretical and logical program. A united organization, especially that of youth, professionals and researchers. We have a great long goal.
-
-If you ask who this presidential candidate is, I consider it a question that is still asked from a short political angle. If it is needed, I can honestly say that I am ready for it.
-
-But this is not the short -term program created from the personal dream of Dilith Jayaweera's presidency. If there is a presidential election, we will contest the election. We will make efforts to succeed in it, ”he said.
-
-◼️
-
-[Data](articles/73bead4d.json)
-
-[Extended Data](ext_articles/73bead4d.ext.json)
-
----
-
-### Annual Transfers of the Public Service Commission is a severe decision
-
-*2024-01-23 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192452) · `si`
-
-The Public Service Commission has requested the immediate implementation of the markets given for the year 2024 under annual transfers.
-
-It is reported that the Secretary to the Public Service Commission has been informed in writing.
-
-The Commission's decisions have been made regarding the appeals to the Public Service Commission regarding the annual transfers of the year 2024 and further requests will be submitted to various parties.
-
-As a result, some transfers granted under the transfer of ranks have been implemented, so other officials in the respective trading cycles have been prejudiced.
-
-The official service commission said that the officers who are demanding the Administrative Appeal Authority (ACCCCSI) has been able to present their appeals to the Administrative Appeals Authority.
-
-...
-
-[Data](articles/dffd8d6b.json)
-
-[Extended Data](ext_articles/dffd8d6b.ext.json)
-
----
-
-### The weather report today
-
-*2024-01-23 07:07:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-அறிக்கை/175-331990) · `ta`
-
-The Department of Meteorology has said that there is a chance of rain or thunderstorms after four o'clock in the afternoon in some parts of the Sabaragamuwa Province as well as some of the Galle and Matara districts.
-
-In the morning, the snow will be seen in some parts of the Central and Sabaragamuwa provinces, as well as some of the Galle and Matara districts.
-
-In the northeast of 20 - 30 km / h in the sea regions.
-
-From Colombo to Mannar to Mannar, Galle to Pottuvil via Hambantota, the sea can frequently blow at 40 to 50 km / h.
-
-◼️
-
-[Data](articles/adeaa27f.json)
-
-[Extended Data](ext_articles/adeaa27f.ext.json)
-
----
-
-### Major 7.0 earthquake hits China-Kyrgyzstan border
-
-*2024-01-23 07:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96636/major-70-earthquake-hits-china-kyrgyzstan-border) · `en`
-
-A major 7.0-magnitude earthquake struck along the mountainous China-Kyrgyzstan border on Tuesday (Jan 23), triggering warnings of potentially widespread damage though no casualties were immediately reported.
-
-Local authorities dispatched a team to reach the quake’s epicentre, the Xinhua state news agency said, while some 800 people were on stand-by ready for any large disaster relief mission.
-
-The quake was registered just after 2:00 am at a depth of 13km in China’s Xinjiang region, some 140km west of the city of Aksu.
-
-Two residential houses and livestock sheds collapsed in the area near the epicentre, in rural Wushi County, Xinhua reported, while electricity was temporarily knocked out.
-
-Local TV channels in the Indian capital New Delhi reported strong tremors in the city, about 1,400km away.
-
-One Aksu resident told Xinhua that people rushed outside for safety amid the shaking, despite the frigid early morning temperatures hovering around -10°C.
-
-...
-
-[Data](articles/280e9d47.json)
-
-[Extended Data](ext_articles/280e9d47.ext.json)
-
----
-
-### Online Methods The Bill to Parliament today
-
-*2024-01-23 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192451) · `si`
-
-The Second Reading Debate on the Safety of Online Methods The Second Reading Debate will be held today (23).
-
-The Parliament is due to meet at 09.30am and is to be presented by the Minister of Public Defense Minister Tiran Alles to Parliament.
-
-The Second Oversight Committee of the Sectoral Oversight Committee was approved by the Sectoral Oversight Committee on the Scheme on the Scheme on the Scheme on the Supreme Court.
-
-Provision of provisions have been made to provide some commands to promote some statements about an incident in Sri Lanka to prevent online accounts and pseudo-online accounts.
-
-In addition, to identify the public places used for the prohibition of restrictions on the country and providing financial commands and supplying false statements on an incident.()
-
-The Bill has been established to establish a commission on the security of online methods.
-
-...
-
-[Data](articles/a067ebb3.json)
-
-[Extended Data](ext_articles/a067ebb3.ext.json)
-
----
-
-### SMS ‘e-Referendum’ on the Online Safety Bill launched
-
-*2024-01-23 06:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SMS-e-Referendum-on-the-Online-Safety-Bill-launched/108-275550) · `en`
-
-While expressing grave concerns raised by critics that, by imposing imprisonment and fines against ill-defined ‘prohibited statements’, the Online Safety Bill may cripple opposition election campaigns, silence journalists reporting on corruption, and may severely impact the IT industry, the IT Professionals for the People (IT4P) has launched an SMS ‘e-referendum’, allowing citizens to use a simple SMS message to make their voices heard on key policy issues, starting with the Online Safety Bill.
-
-“Under this law, any person aggrieved by something a citizen says online, may go to the police or magistrate court against them. Such a person may become a suspect in a criminal case, subject to investigations, have material/devices seized and may be liable to imprisonment or a fine.
-
-...
-
-[Data](articles/773db3c7.json)
-
-[Extended Data](ext_articles/773db3c7.ext.json)
-
----
-
-### A powerful earthquake in China
-
-*2024-01-23 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192450) · `si`
-
-Shin Jianne area in West China has taken place.
-
-According to foreign media reports, the tremors have been in a robbery of 7.1 of the Richter's deprived of 7.1 am today (23).
-
-Two houses have collapsed with the earthquake and suspicion has been suspended.
-
-Foreign media reports that the collapse of power collapses has also stalled the regional power supply.
-
-◼️
-
-[Data](articles/b9e9fd2b.json)
-
-[Extended Data](ext_articles/b9e9fd2b.ext.json)
-
----
-
-### UN experts call on Sri Lanka to immediately suspend and review ‘Yukthiya’ anti-drug operation
-
-*2024-01-23 06:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UN-experts-call-on-Sri-Lanka-to-immediately-suspend-and-review-Yukthiya-anti-drug-operation/108-275547) · `en`
-
-UN experts expressed alarm at the heavy security-driven approach of Sri Lanka’s drug response, and they called on authorities to immediately suspend and review the so-called Operation ‘Yukthiya’ and to focus on policies based on health and human rights, a statement from the Office of the High Commissioner for Human Rights (OHCHR) said.
-
-“Drug users have human rights,” the experts said. “They deserve to live a life with dignity without facing further discrimination and stigmatisation.”
-
-They deplored reported cases of arbitrary arrests of thousands of drug offenders from marginalised socio-economic groups, and the detention of hundreds in compulsory military-run rehabilitation centres. Torture and ill-treatment were also reported during the security operation known as ‘Yukthiya’.
-
-“The current context of severe repression against suspected drug offenders is deeply worrying,” the experts said.
-
-...
-
-[Data](articles/32bf7be2.json)
-
-[Extended Data](ext_articles/32bf7be2.ext.json)
-
----
-
-### Weather today
-
-*2024-01-23 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192448) · `si`
-
-Today is the Sabaragamuwa Province and Galle and Matara districts. Showers or thundershowers will occur at a few places after 4.00 pm, the Met Department said.
-
-The department states that the rest of the island can maintain a rainy weather mainly.
-
-In some places in the Nuwara Eliya district, there is a possibility of a flower.
-
-The Meteorological Department further states that in some places in the Sabaragamuwa and Central provinces and in the Galle and Matara districts, the Meteorological Department further states.
-
-◼️
-
-[Data](articles/0205bdc7.json)
-
-[Extended Data](ext_articles/0205bdc7.ext.json)
-
----
-
-### මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත අද පාර්ලිමේන්තුවේ විවාදයට; මේ දක්වා සිදුවුයේ කුමක් ද?
-
-*2024-01-23 05:41:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crg78n61z90o) · `si`
-
-මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත අද පාර්ලිමේන්තුවේ විවාදයට; මේ දක්වා සිදුවුයේ කුමක් ද?
-
-සමාජයේ දැඩි කතාබහට ලක්ව ඇති මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත අද (ජනවාරි 23 වැනිදා) පාර්ලිමේන්තුවේ විවාදයට ගැනීමට නියමිතය.
-
-අද (ජනවාරි 23 වැනිදා) පෙරුවරු 9.30ට පාර්ලිමේන්තුව රැස්වූ අතර පනත් කෙටුම්පත විවාදයට පෙර කතානායකවරයා විසින් සභාව තාවකාලිකව අත්හිටුවා පක්ෂනායක රැස්වීමක් කැඳවනු ලැබීය.
-
-මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් විසින් මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත පළමු වර කියවීම සඳහා පසුගිය දා පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ලැබුවේ, පාර්ශව  රැසක් මේ පනත් කෙටුම්පත පිළිබඳව දැඩි විරෝධයක් එල්ල කර ඇති පසුබිමක් තුළයි.
-
-මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත: වැඩ වරදින වැරදි මොනවද?
-
-...
-
-[Data](articles/a403ab33.json)
-
----
-
-### Apparel industry sees significant performance contraction in 2023
-
-*2024-01-23 04:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apparel-industry-sees-significant-performance-contraction-in-2023/108-275543) · `en`
-
-2023 full-year earnings total US $ 4.5bn, only slightly higher than performance in 2020
-
-However, an uptick in revenue seen from November 2023, indicating a possible turnaround
-
-Absolutely vital for offer from Sri Lanka to remain price competitive- JAAF
-
-Sri Lanka’s largest industrial exporter, the apparel sector, saw its performance for the whole of 2023 dip significantly, with its earnings contracting by 19 percent year-on-year (YoY).
-
-The local apparel sector saw its export revenue for 2023 reach US $ 4.5 billion. This is an improvement when compared with US $ 4.15 billion fetched in 2020, the year of the pandemic but a contraction when compared with the performance recorded in 2021 and 2022. In 2021, the apparel sector generated revenues amounting to US $ 5.01 billion, whereas in 2022, the revenue expanded to US $ 5.6 billion.
-
-The provisional data from Sri Lanka Customs shows that exports to all markets saw a contraction in 2023, when compared with 2022.
-
-...
-
-[Data](articles/af2ffb6d.json)
-
-[Extended Data](ext_articles/af2ffb6d.ext.json)
-
----
-
-### President congratulates Sreedharan
-
-*2024-01-23 03:04:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறீதரனுக்கு-ஜனாதிபதி-வாழ்த்து/175-331989) · `ta`
-
-President Ranil Wickremesinghe congratulates MP Sivagnanam Sridharan, who has been elected as the new leader of the Sri Lankan Tamil party.
-
-President Ranil Wickremesinghe, who is staying in the Uganda's capital, Kampala, greeted Sridharan at 3 pm yesterday at 3 pm. (A)
-
-◼️
-
-[Data](articles/ec5e345f.json)
-
-[Extended Data](ext_articles/ec5e345f.ext.json)
-
----
-
-### The body of the non -ethnic man's body recovery
-
-*2024-01-23 02:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனந்தெரியாத-ஆணின்-சடலம்-மீட்பு/175-331988) · `ta`
-
-The body of a man from the Puttalam - Mathuranguli Kalappu area has been recovered yesterday, Maduranguli police said.
-
-Police said there was no information about the body recovered.
-
-The body, which was recovered from the Kalappu area, was sent to the Puttalam Base Hospital for autopsy after the magistrate's hearing.
-
-◼️
-
-[Data](articles/0b220339.json)
-
-[Extended Data](ext_articles/0b220339.ext.json)
-
----
-
-### Corpse
-
-*2024-01-23 02:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனந்தெரியாத-ஆணின்-சடலம்/175-331988) · `ta`
-
-The body of a man from the Puttalam - Mathuranguli Kalappu area has been recovered yesterday, Maduranguli police said.
-
-Police said there was no information about the body recovered.
-
-The body, which was recovered from the Kalappu area, was sent to the Puttalam Base Hospital for autopsy after the magistrate's hearing.
-
-◼️
-
-[Data](articles/dd39642c.json)
-
-[Extended Data](ext_articles/dd39642c.ext.json)
-
----
-
-### Arms Manufacturing Center
-
-*2024-01-23 02:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுத-உற்பத்தி-நிலையம்-சுற்றிவளைப்பு-மூவர்-கைது/175-331987) · `ta`
-
-Special Task Force (STF) has blocked a local weapon in Vinayagapuram, which belongs to the police division in the Ampara district, and arrested three suspects.
-
-A sudden raid was carried out in the area on the basis of confidential information received by the Special Task Force Camp Officers in Tirukovil.
-
-Special Action Force Camp at Tirukovil Special Task Force Campaign, Varuna Jayasundera said that a gun produced in Sri Lanka, three iron pipes, an iron cutting machine and a melting machine have been seized.
-
-The arrested suspects are from Tirukovil and Kanjikkudicaru areas between the ages of 34, 42 and 54.. (A)
-
-◼️
-
-[Data](articles/e0a7c280.json)
-
-[Extended Data](ext_articles/e0a7c280.ext.json)
-
----
-
-### The prices of vegetables are down
-
-*2024-01-23 02:42:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கறிகளின்-விலைகள்-குறைந்தன/175-331986) · `ta`
-
-Compared to last week, the total prices of many vegetables at the Dambulla Economic Center have fallen drastically.
-
-According to the Economic Center Trade Association, there is a shortage of traders to buy vegetables even though the price of vegetables falls significantly.
-
-The prices of all the vegetables that rose rapidly have declined due to the decline in procurement of vegetables.
-
-◼️
-
-[Data](articles/1f57d054.json)
-
-[Extended Data](ext_articles/1f57d054.ext.json)
-
----
-
-### Anti -terrorism
-
-*2024-01-23 02:36:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-எதிர்ப்பு-சட்டமூலம்-எதிராக-மனுத்தாக்கல்/175-331985) · `ta`
-
-The United People's Power filed a petition in the Supreme Court on Monday (22) against the proposed anti -terrorism bill presented by the government.
-
-Ranjith Mathumabandara, the general secretary of the United People's Power and Member of Parliament, has filed the petition through President's Attorney Burman Kasim.
-
-Ranjith Mathuma Bandara MP, who commented to the media after the filing of the petition
-
-“In this period of elections, this is the challenge of the opposition's democracy.. The anti -terrorism bill has been introduced during the election period.
-
-The definition of terrorism in the law, who is the terrorist?No definition is mentioned in this legal source. Any person can be arrested.. This is why we have filed a petition against this law to protect the democracy of the country.
-
-General Secretary Ranjith Mathuma Bandara has accused the government of bringing this status law and the anti -terrorism legislation in an election year to repress the demise and the opposition parties.
-
-◼️
-
-[Data](articles/95faf9fd.json)
-
-[Extended Data](ext_articles/95faf9fd.ext.json)
-
----
-
-### The death of the professor who swallowed the colds
-
-*2024-01-23 02:32:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குளிசைகளை-விழுங்கிய-பேராசிரியர்-மரணம்/175-331984) · `ta`
-
-Professor L. L. L. L. L. L.. Peiris (age 60) died, police said.
-
-It is also said that the wife of the deceased professor is also working in the main library of Peradeniya University.
-
-The professor who was admitted to the hospital in critical condition died at around 1 am on Sunday and the cause of death will be revealed only after the autopsy, Peradeniya police said.
-
-◼️
-
-[Data](articles/98f8d068.json)
-
-[Extended Data](ext_articles/98f8d068.ext.json)
+[Data](articles/254e59ed.json)
 
 ---

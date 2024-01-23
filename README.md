@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 12:17:25**
+As of **2024-01-23 12:33:05**
 
 ## Newspaper Stats
 
-*Scraped **1,990** Articles*
+*Scraped **1,992** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,70 @@ dailyftlk | 171
 virakesarilk | 195
 adalk | 203
 dailymirrorlk | 240
-adaderanalk | 248
+adaderanalk | 250
 tamilmirrorlk | 260
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,988 (99.9%) of 1,990 articles have been extended.
+1,990 (99.9%) of 1,992 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### උද්ධමනය ඉහළ යා හැකි බවට පුරෝකථනයක්
+### Inflation likely to jump to 7% in January – CBSL Governor
+
+*2024-01-23 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96650/inflation-likely-to-jump-to-7-in-january-cbsl-governor-) · `en`
+
+The Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe, has warned that Sri Lanka’s inflation could rise to 7% in January 2024.
+
+Speaking at a special press briefing held on Tuesday (23 Jan.), Dr. Weerasinghe explained that an increase in inflation is likely due to the increase in the Value Added Tax (VAT), and other external factors.
+
+The VAT was increased by 3%, from 15% to 18%, with effect from 01 January 2024, after the VAT (Amendment) Bill was passed in parliament on 11 December 2023.
+
+◼️
+
+[Data](articles/702ce3d7.json)
+
+---
+
+### Prediction that inflation can rise
 
 *2024-01-23 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192462) · `si`
 
-වැට් වැඩිවීම හේතුවෙන් ජනවාරි මාසයේ උද්ධමනය 7%ක පමණ අගයක් දක්වා ඉහළ යා හැකි බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+Central Bank Governor Dr. Nandalal Weerasinghe says that inflation can be increased from 7% due to the increase in VAT.
 
-අද (23) මහ බැංකුවේ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා වැඩිදුරටත් පවසා සිටියේ, ගිය මාසයේ 4%ක්ව පැවති උද්ධමනය වැට් සහ කාලගුණ තත්ත්වයන් හේතුවෙන් මෙලෙස ඉහළ යා හැකි බවට පුරෝකථනය කරන බවය.
+Addressing a media briefing held at the Central Bank today, he said that inflation was forecasting due to VAT and weather conditions.
 
-"ඉදිරියේ දී අපේ උද්ධමන ඉලක්කය 5%ක්. එය 4% - 6%ක් වගේ සාමාන්‍ය අගයක් පවත්වාගෙන යෑමට බලාපොරොත්තු වෙනවා. ඒ නිසා මේ වෙලාවේ වෙළෙඳ පොළ පොලිය අනුපාතවලට යම්කිසි ආකාරයකට හැඩ ගැසෙන්න අවස්ථාව දීලා තියෙනවා. අපේ පොලිය අනුපාතය ස්ථාවරව පවත්වා ගත්තේ. ඉදිරියේදී අපි නැවත සලකා බලනවා. එතෙක් අපි ප්‍රතිපත්ති පොලී අනුපාතය නොවෙනස්ව පවත්වා ගන්නවා."
+"At the future our inflation goal is 5%. It is expected to maintain a normal value of 4% - 6%. So the market interest rate interest rate is given to some type of shape. Our interest ratio stable. We will reconside. Until then, we maintain policy interest rate intact. "
 
 ◼️
 
 [Data](articles/c92d202b.json)
+
+[Extended Data](ext_articles/c92d202b.ext.json)
+
+---
+
+### Parliament votes to debate the Online Safety Bill
+
+*2024-01-23 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96649/parliament-votes-to-debate-the-online-safety-bill) · `en`
+
+The Online Safety Bill is to be taken up for debate in Parliament today after 83 MPs voted in favour of debating the bill, while 50 MPs had voted against it.
+
+Accordingly, the Second Reading Debate of the proposed Online Safety Bill will continue in the Parliament today (Jan 23).
+
+Although the relevant debate was scheduled to be held in Parliament today, the parliamentary session which commenced at 09.30 a.m. this morning, took a 10-minute adjournment to convene a party leaders meeting for discussions on the proposed Online Safety Bill on the request of all Parliamentarians belonging to the Opposition.
+
+Opposition Leader Sajith Premadasa had requested for a Party Leaders meeting before the Online Safety Bill is taken up for debate, following which the Speaker adjourned Parliament for 10 minutes.
+
+A vote was then taken in Parliament on whether or not to take up the proposed Online Safety Bill will be taken up for debate.
+
+◼️
+
+[Data](articles/16a12da9.json)
 
 ---
 
@@ -94,19 +132,21 @@ The jab is known to be effective in at least 36% of cases, according to US resea
 
 ---
 
-### ඔන්ලයින් පනත ගැන ඡන්දයක්
+### Vote on Online Act
 
 *2024-01-23 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192461) · `si`
 
-ඔන්ලයින් ආරක්ෂණ පනත් කෙටුම්පත විවාදයට ගන්නේද නැද්ද යන්න පිළිබඳව තීරණය කිරීම සඳහා ඡන්ද විමසීමක් පැවැත්වීමට පාර්ලිමේන්තුව තීරණය කළේය.
+Parliament decided to hold a poll to determine whether the online security bill was debated or not.
 
-එම ඡන්ද විමසීමේදී අදාළ ඔන්ලයින් ආරක්ෂණ පනත් කෙටුම්පත විවාදයට ගැනීමට පක්ෂව ඡන්ද 83ක් සහ විපක්ෂව ඡන්ද 50ක් හිමිවිය.
+At the election, the relevant online security bill was held in favor of 83 votes and 50 votes against him.
 
-ඒ අනුව එම පනත් කෙටුම්පත විවාදයට ගැනීම වැඩි ඡන්ද 33කින් සම්මත වීමත් සමග විවාදය ආරම්භ කෙරුණි.
+Accordingly, the debate was started with the passage of the bill of 33 votes.
 
 ◼️
 
 [Data](articles/b81e3df3.json)
+
+[Extended Data](ext_articles/b81e3df3.ext.json)
 
 ---
 
@@ -1915,49 +1955,5 @@ Police have arrested the 59-year-old monk and the assassination of the suspected
 [Data](articles/2220f678.json)
 
 [Extended Data](ext_articles/2220f678.ext.json)
-
----
-
-### Government with 6.9 mn mandate shattered by its own leaders: SB
-
-*2024-01-22 21:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Government-with-6-9-mn-mandate-shattered-by-its-own-leaders-SB/155-275506) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - The government which was formed with a 6.9 million mandate and a two-thirds majority was shattered by its own leaders, Parliamentarian S.B. Dissanayake said today.
-
-"I am dissapointed that the government formed with a 6.9 million mandate and a two-thirds majority was shattered by our own leaders," he said.
-
-The MP said even though the President had powers to dissolve Parliament at any time now, no one can change the Presidential election which is due in October.
-
-He told reporters that the President can dissolve parliament at any time after four years, according to the Constitution.
-
-"The President or Parliament have powers to decide upon the dates of some elections. However, no one can decide the date of the Presidential election due in October," he said.
-
-◼️
-
-[Data](articles/0d6d2dea.json)
-
-[Extended Data](ext_articles/0d6d2dea.ext.json)
-
----
-
-### Government with 6.9 mn mandate shattered by its own leaders: SB
-
-*2024-01-22 21:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-with-6-9-mn-mandate-shattered-by-its-own-leaders-SB/108-275506) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - The government which was formed with a 6.9 million mandate and a two-thirds majority was shattered by its own leaders, Parliamentarian S.B. Dissanayake said today.
-
-"I am dissapointed that the government formed with a 6.9 million mandate and a two-thirds majority was shattered by our own leaders," he said.
-
-The MP said even though the President had powers to dissolve Parliament at any time now, no one can change the Presidential election which is due in October.
-
-He told reporters that the President can dissolve parliament at any time after four years, according to the Constitution.
-
-"The President or Parliament have powers to decide upon the dates of some elections. However, no one can decide the date of the Presidential election due in October," he said.
-
-◼️
-
-[Data](articles/3ea36727.json)
-
-[Extended Data](ext_articles/3ea36727.ext.json)
 
 ---

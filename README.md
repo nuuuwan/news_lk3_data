@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 20:33:04**
+As of **2024-01-23 20:51:08**
 
 ## Newspaper Stats
 
-*Scraped **2,145** Articles*
+*Scraped **2,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 123
 economynextcom | 132
 adaderanasinhalalk | 141
 dailyftlk | 171
-adalk | 220
+adalk | 221
 virakesarilk | 235
 dailymirrorlk | 263
 adaderanalk | 268
@@ -26,47 +26,51 @@ tamilmirrorlk | 272
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,141 (99.8%) of 2,145 articles have been extended.
+2,146 (100.0%) of 2,146 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### தீர்ப்பை ஒத்திவைத்தது உயர் நீதிமன்றம்
+### The High Court adjourned the verdict
 
 *2024-01-23 19:47:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீர்ப்பை-ஒத்திவைத்தது-உயர்-நீதிமன்றம்/175-332025) · `ta`
 
-ஐக்கிய மக்கள் சக்தி கட்சி உறுப்புரிமை தொடர்பான தீர்மானத்திற்கு எதிராக அமைச்சர்களான ஹரின் பெர்னாண்டோ மற்றும் மனுஷ நாணயக்கார ஆகியோர் தாக்கல் செய்த மனு மீதான விசாரணையை இலங்கை உயர் நீதிமன்றம் இன்று நிறைவு செய்துள்ளது.
+The Sri Lankan High Court today concludes the hearing of the petition filed by ministers Harin Fernando and Manusha Nanayakkara against the United People's Power Party membership resolution.
 
-இந்த மனு மீதான விசாரணை முடிவடைந்த நிலையில், உயர் நீதிமன்றம் தீர்ப்பை ஒத்திவைத்துள்ளது.
+The High Court has postponed the verdict as the hearing of the petition is over.
 
-கடந்த ஆண்டு ஒகஸ்ட் மாதம், அமைச்சர்கள் மனுஷ நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோர், SJB தமது கட்சி உறுப்புரிமையை இடைநீக்கம் செய்து அவர்களை பாராளுமன்றத்தில் இருந்து நீக்கிய முடிவை ரத்து செய்யுமாறு கோரி அடிப்படை உரிமைகள் (FR) மனு ஒன்றை தாக்கல் செய்தனர்.
+In August last year, ministers Manusha Nanayakkara and Harin Fernando filed a fundamental rights (FR) petition demanding the cancellation of their party membership and the cancellation of their party membership.
 
-கடந்த ஆண்டு ஜூலை மாதம், அமைச்சர்கள் இருவரும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அரசாங்கத்தில் இணைந்ததையடுத்து, இரண்டு அமைச்சர்களையும் கட்சியிலிருந்து நீக்க SJB இன் செயற்குழு தீர்மானித்தது.
+In July last year, the SJB's Executive Committee decided to remove the two ministers from the party after the two ministers joined the government of President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/aae222a3.json)
 
+[Extended Data](ext_articles/aae222a3.ext.json)
+
 ---
 
-### EPF - ETF மனுக்கள் தொடர்பில் நீதிமன்றத்தின் உத்தரவு
+### EPF - Court order on ETF petitions
 
 *2024-01-23 19:45:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/EPF-ETF-மனுக்கள்-தொடர்பில்-நீதிமன்றத்தின்-உத்தரவு/175-332024) · `ta`
 
-உள்நாட்டு கடனை மறுசீரமைப்பதில் ஊழியர் சேமலாப நிதியம் மற்றும் ஊழியர் நம்பிக்கை நிதியத்தின் உறுப்பினர்களுக்கு பாதகம் ஏற்படுவதாக குற்றம்சாட்டி  தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மனுக்களை ஒக்டோபர் 30 ஆம் திகதி பரிசீலிக்க உயர் நீதிமன்றம் இன்று (23) உத்தரவிட்டது.
+The Supreme Court today (23) ordered that the Employees Provident Fund and the Employees 'Trust Fund accuses members of the Employees' Trust Fund on October 30 to consider the fundamental rights petitions filed.
 
-இது தொடர்பான மனுக்கள் எஸ். துரைராஜா, ஷிரான் குணரத்ன மற்றும் மஹிந்த சமயவர்தன   மூவரடங்கிய உயர் நீதிமன்ற அமர்வு முன்னிலையில் அழைக்கப்பட்டது.
+Petitions related to this. Durairajah, Shiran Gunaratne and Mahinda Samitawarta were called in the presence of a three -member High Court.
 
-சட்டமா அதிபர் சார்பில் ஆஜரான மேலதிக சொலிசிட்டர் ஜெனரல் விராஜ் தயாரத்ன, நீதிமன்றில் சமர்ப்பணங்களை முன்வைத்து, இந்த மனுக்களை விசாரணை செய்யாமல் நிராகரிப்பதற்கு அடிப்படை ஆட்சேபனைகளை முன்வைப்பதாக தெரிவித்தார்.
+Additional Solicitor General Viraj, appearing on behalf of the Attorney General, said that he would present the basic objections to the court's submissions and rejected these petitions.
 
-இது தொடர்பாக தாக்கல் செய்யப்பட்ட பல மனுக்கள் உயர் நீதிமன்றத்தால் தள்ளுபடி செய்யப்பட்டுள்ளதாகவும், இந்த மனுக்களை விசாரிக்க நீதிமன்றத்திற்கு அதிகாரம் இல்லை என்றும் மேலதிக சொலிசிட்டர் ஜெனரல் தனது அடிப்படை ஆட்சேபனையில் குறிப்பிட்டுள்ளார்.
+The Additional Solicitor General has stated in his basic objection that many of the petitions filed in this regard have been dismissed by the Supreme Court and that the court does not have the authority to hear these petitions.
 
-கட்டுநாயக்க சுதந்திர வர்த்தக வலய ஊழியர் சங்கத்தின் அழைப்பாளர் என்டன் மார்கஸ் உள்ளிட்ட 04 தரப்பினரால் இந்த மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளன. R
+The petitions have been filed by four parties, including Eden Marcus, the guest of the Katunayake Independent Business Zone Employees Union.. Remble
 
 ◼️
 
 [Data](articles/2ce16789.json)
+
+[Extended Data](ext_articles/2ce16789.ext.json)
 
 ---
 
@@ -166,23 +170,25 @@ Haputale police are conducting investigations on the directive of Assistant Supe
 
 ---
 
-### හිමිනම ඝාතනයේ සැකකරුවන් පැමිණි මෝටර් රථයට ගිනි තබලා
+### Monk murder suspects were set on fire
 
 *2024-01-23 19:22:36* · [`adalk`](https://www.ada.lk/breaking_news/හිමිනම-ඝාතනයේ-සැකකරුවන්-පැමිණි-මෝටර්-රථයට-ගිනි-තබලා/11-407694) · `si`
 
-මල්වතුහිරිපිටිය විහාරස්ථානයේදී කලපලුවාවේ ධම්මරතන හිමිට වෙඩි තැබීම සදහා පැමිණි සුඛෝපභෝගී මෝටර් රථය කඩුවෙල ගොඩැල්ල ප්‍රදේශයේ ලදු කැලෑවක ගිනි තබා විනාශ කර තිබියදී අද (23 දා) සවස හමුවූ බව කඩුවෙල පොලිසිය කියයි.
+The luxury car to shoot at Kalapola Easthana Thero at the Malwathuathitiya Viharaya, Kaduwela Police say.
 
-හේනගම ප්‍රදේශයේ විහාරස්ථානයක වැඩ වාසය කරන අපවත් වූ මල්වතු හිරිපිටිය විහාරස්ථානයෙන් දානය වළඳා යළි  හේනේගම විහාරස්ථානය කරා වැඩම කරවීම සඳහා සූදානමින් සිටියදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් බව පවසා පැමිණි නාදුනන  පුද්ගලයන් තිදෙනෙකුගෙන් දෙදෙනෙකු  ටී පනස්හයේ ගිනි අවියකින් වෙඩි තබා තිබිණි.
+Two unidentified persons who had been prepared to return to the Henegama Viharaya, the Criminal Investigation Department were shot dead by the Criminal Investigation Department officials.
 
-වෙඩි තබා තිබුණේ මත්ද්‍රව්‍ය තිබෙන බවට හිමිනම පරික්ෂා කිරීමට අවශ්‍ය බවට පවසා යැයි පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+Police investigations have revealed that the ownership of the narcotics of the drug was reported.
 
-මෝටර් රථය සම්පූර්ණයෙන් ගිනිගෙන විනාශ වී ඇති අතර කිසියම් ප්‍රදේශයකින් සොරාගත් එකක් බවට සැක කළ හැකි යැයි පොලිස් නිලධාරියකු පැවසීය.
+A police officer said the car was completely burnt and suspected to be stolen from a particular area.
 
-කඩුවෙල පොලිසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක කාන් වීරසිංහ මහතාගේ උපදෙස් මත පරීක්ෂණ පැවැත්වේ.
+Investigations are being investigated by the OIC of Kaduwela Police Inspector Kan Weerasinghe.
 
 ◼️
 
 [Data](articles/f2b288fd.json)
+
+[Extended Data](ext_articles/f2b288fd.ext.json)
 
 ---
 
@@ -264,6 +270,26 @@ Kaselkanda Kumarka Kusum, which was previously worked for machinery and scientif
 
 ---
 
+### Ministry of Education announced on admission to schools
+
+*2024-01-23 19:14:24* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්වලට-සිසුන්-ඇතුළත්-කිරීම-ගැන-අධ්‍යාපන-අමාත්‍යාංශයෙන්-නිවේදනයක්/11-407693) · `si`
+
+The Ministry of Education has announced that applications have been issued by the Ministry of Education to the first grade of schools in schools.
+
+The Ministry of Colombo will be carried out on the signs of the fifth Grade Fifth Grade Fifth Scholarship Examination.
+
+GCE A GCE O / L classes other than 1, 5 and 6 in 2024. Applications should be referred to schools to include students (Advanced Level also) and will be referred to the Ministry of Education for approval by the Ministry of Education.
+
+Similarly, the applications to the Ministry of Education shall not be referred to the Ministry of Education or schools in the year 2023 and are not issued by the Ministry of Education for schools.
+
+◼️
+
+[Data](articles/35ad70a2.json)
+
+[Extended Data](ext_articles/35ad70a2.ext.json)
+
+---
+
 ### Sri Lankan Tamil leaders seek Indian intervention in implementation of 13A – report
 
 *2024-01-23 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96670/sri-lankan-tamil-leaders-seek-indian-intervention-in-implementation-of-13a-report) · `en`
@@ -281,6 +307,8 @@ They also highlighted the issue of the Tamil political prisoners and the Tamil l
 ...
 
 [Data](articles/034bb141.json)
+
+[Extended Data](ext_articles/034bb141.ext.json)
 
 ---
 
@@ -2033,27 +2061,5 @@ Accordingly, the officer in charge of the authorities has assured me to instruct
 [Data](articles/4d5a4405.json)
 
 [Extended Data](ext_articles/4d5a4405.ext.json)
-
----
-
-### Sri Lanka widens welfare benefits scheme
-
-*2024-01-23 12:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-widens-welfare-benefits-scheme-148407/) · `en`
-
-ECONOMYNEXT – Wards of the State and student Buddhist monks will be given a 2,000 rupee allowance from this month, Sri Lanka’s State Minister of Finance said.
-
-“The govt will pay a monthly welfare allowance of Rs 2000 through the district secretaries from January 2024 to approximately 16,146 institutionalized persons who have benefited under the Samurdhi programme,” Shehan Semasinghe said on X.
-
-“This will include clergy in piriven, children’s homes, elderly homes and disabled persons in care giving homes.”
-
-Sri Lanka’s poor had surged by 4 million to 7 million since 2019 to 31 percent of the population in 2023, a survey by LIRNEasia last year showed.
-
-A social safety net is a priority initiative under an International Monetary Fund backed program. (Colombo/Jan23/22024)
-
-◼️
-
-[Data](articles/39a95078.json)
-
-[Extended Data](ext_articles/39a95078.ext.json)
 
 ---

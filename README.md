@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 18:22:49**
+As of **2024-01-23 18:34:41**
 
 ## Newspaper Stats
 
-*Scraped **2,108** Articles*
+*Scraped **2,111** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,86 @@ dailyftlk | 171
 adalk | 216
 virakesarilk | 233
 dailymirrorlk | 256
-adaderanalk | 261
+adaderanalk | 264
 tamilmirrorlk | 266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,104 (99.8%) of 2,108 articles have been extended.
+2,108 (99.9%) of 2,111 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### GMOA වර්ජනය අවලංගු කරයි
+### Doctors call off planned strike action
+
+*2024-01-23 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96666/doctors-call-off-planned-strike-action) · `en`
+
+The Government Medical Officers’ Association (GMOA) has decided to call off the planned indefinite strike action which was slated to commence from tomorrow (Jan. 24).
+
+This decision has been reached after the Director General of Health Services, issuing a written notification to the Directors and Heads of all Health Institutions, a short while ago, canceling with immediate effect the previously issued letter announcing that the payment of the Disturbance, Availability and Transport (DAT) allowance of doctors for the month of January will be temporarily suspended.
+
+Furthermore, the heads of the institutions have been ordered to pay the relevant allowance through a special voucher to the doctors for the month of January, for those who do not receive the DAT allowance through the regular payroll.
+
+...
+
+[Data](articles/2c019e94.json)
+
+---
+
+### GMoA cancels strike
 
 *2024-01-23 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192478) · `si`
 
-රජයේ වෛද්‍ය නිලධාරීන් විසින් හෙට උදෑසන සිට ක්‍රියාත්මක කිරීමට සැලසුම් කළ අඛණ්ඩ වැඩ වර්ජනය අත්හිටුවීමට තීරණය කළ බව එම සංගමය පවසයි.
+The Association has decided to suspend the continued strike scheduled to operate from the morning to the implementation of government medical officers tomorrow morning.
 
-සෞඛ්‍ය සේවා අධ්‍යක්ෂක ජෙනරාල්වරයා විසින් වෛද්‍යවරුන්ගේ DAT දීමනාව ජනවාරි මස වැටුප සමග ගෙවීම තාවකාලිකව අත්හිටුවමින් නිකුත් කළ ලිපිය වහාම ක්‍රියාත්මක වන පරිදි අවලංගු කරමින් සෞඛ්‍ය ආයතන ප්‍රධානීන් වෙත ලිඛිත දැනුම්දීමත් සමග රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය සිය වර්ජනය අත්හිටුවීමට තීරණය කර තිබේ.
+The Director General of the Health Services DAT allowance has been repealed to the Chiefs of Health Institutions, which cancel the letter with the monthly discontinuation of the payment with the monthly assessment of the Government Medical Officers.
 
-මේ අතර ජනවාරි  මාසය සඳහා සාමාන්‍ය වැටුප් ලේඛනය මගින් DAT දීමනාව නොලැබෙන වෛද්‍යවරුන් සඳහා අදාළ දීමනාව විශේෂ වවුචරයක් මගින් ගෙවන ලෙස ආයතන ප්‍රධානීන් වෙත නියෝග කර ඇති බවද රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය වැඩිදුරටත් සඳහන් කරයි.
+Meanwhile, the General Measuring Authorities (AGC) has ordered the heads of the Institute to pay the applicant voucher for doctors who do not receive the DAT allowance for January.
 
 ◼️
 
 [Data](articles/478cae37.json)
+
+[Extended Data](ext_articles/478cae37.ext.json)
+
+---
+
+### Chamari leads ICC Women’s ODI Team of the Year
+
+*2024-01-23 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96665/chamari-leads-icc-womens-odi-team-of-the-year) · `en`
+
+Sri Lankan all-rounder and Women’s Team Captain Chamari Athapaththu, who showcased exceptional skills as a player in the ODI format throughout the year, has been named as the captain of the ICC Women’s ODI Team of the Year for 2023.
+
+Meanwhile, on Monday (Jan 22), Athapaththu was also honoured with the team captaincy of the ICC Women’s T20I Team of the Year for 2023.
+
+The ICC Women’s ODI Team of the Year for 2023 is as follows:
+
+Chamari Athapaththu showcased exceptional skills as a player in the ODI format throughout the year.
+
+Her standout moment came in the series decider against New Zealand, where she played a stunning unbeaten 140 off just 80 balls, leading her team to a historic victory after a shaky start in the chase.
+
+...
+
+[Data](articles/56c6fe66.json)
+
+---
+
+### SC concludes hearing of Harin and Manusha’s petition, verdict deferred
+
+*2024-01-23 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96664/sc-concludes-hearing-of-harin-and-manushas-petition-verdict-deferred-) · `en`
+
+The Supreme Court on Tuesday (23 Jan.) concluded the hearing of the petition filed by Ministers Manusha Nanayakkara and Harin Fernando, challenging the decision taken by Samagi Jana Balawegaya (SJB) to oust them from the party and disqualify them of their parliamentary seats.
+
+The hearing was concluded by a three-judge bench of the Supreme Court comprising of Justices Vijith Malalgoda, Achala Wengappuli and Arjuna Obeysekera, when the case was taken up in court this morning, and it was declared that the verdict would be deferred, indefinitely.
+
+Appearing on behalf of Minister Nanayakkara during the hearing, President’s Counsel Faizer Mustapha informed the court that as per the constitution of the SJB, taking disciplinary action against its members is a responsibility entitled to the party’s Working Committee, and not one that has been devolved to the party leader.
+
+...
+
+[Data](articles/0076958a.json)
 
 ---
 
@@ -70,15 +124,17 @@ The petitions were presented by 04 parties including Anton Marcus, including Ant
 
 ---
 
-### ராமர் கோயிலை தொடர்ந்து ராமர் பாலம் சாத்தியமாகுமா...?
+### Is the Rama Bridge possible following the Rama Temple ...?
 
 *2024-01-23 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/174639) · `ta`
 
-தனுஷ்கோடியில் உள்ள அரிச்சல் முனையில் இருந்தே ராமர் பாலம் அமைத்து, இலங்கைக்கு சென்றதாக புராணங்கள் கூறுகின்றன.
+Legends say that the Rama Bridge was built from the Ariyal Tip in Dhanushkodi and went to Sri Lanka.
 
 ◼️
 
 [Data](articles/78d681fa.json)
+
+[Extended Data](ext_articles/78d681fa.ext.json)
 
 ---
 
@@ -1042,23 +1098,27 @@ Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 
 ---
 
-### නිවාස හිමිකම් ඔප්පු 50,000ක් ලබාදීමට කැබිනට් පත්‍රිකාවක්
+### A cabinet paper to provide 50,000 home title deeds
 
 *2024-01-23 13:01:02* · [`adalk`](https://www.ada.lk/breaking_news/නිවාස-හිමිකම්-ඔප්පු-50-000ක්-ලබාදීමට-කැබිනට්-පත්‍රිකාවක්/11-407686) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් ඉදිරිපත්කරනු ලැබූ අයවැය යෝජනා යටතේ නිවාස හිමිකම් ඔප්පු 50000ක් ලබාදීමේ වැඩපිළිවෙල ක්‍රියාත්මක කිරීම සඳහා අනුමැතිය ලබාගැනීමට කැබිනට් පත්‍රිකාවක් ඉදිරිපත් කෙරේ.
+A Cabinet paper will be submitted to provide approval to the implementation of 500,000 housing ticenses under the budget propositions presented by President Ranil Wickremesinghe.
 
-නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා විසින් මෙම කැබිනට් පත්‍රිකාව ඉදිරිපත්කරනු ලැබ ඇත.
+The cabinet has been submitted by Urban Development and Housing Prasanna Ranatunga.
 
-අදාළ කැබිනට් පත්‍රිකාව මඟින් යෝජනා කර ඇත්තේ හිමිකම් ඔප්පු ලබාදීමේදී නිවාස හිමියන්ට ඒ සඳහා දැරිය යුතු වන නොතාරිස් ගාස්තු, මුද්ල ගාස්තු හා වෙනත් බදු සඳහා වැයවන මුදල මහා භාණ්ඩාගාරය මඟින් දැරීමට නියමිත බවයි.
+The cabinet paper is proposed that the Treasury will be spent on notary fees, stamp charges and other taxes that have bearing title deeds.
 
-එමෙන්ම අදාළ කැබිනට් පත්‍රිකාවේ වැඩිදුරටත් සඳහන් වන්නේ මෙම නිවාසවල පූර්ණ අයිතිය පැවරීමේදී මුල් ප්‍රතිලාභියා මරණයට පත්ව ඇත්නම් දැනට එම නිවසේ පදිංචිව සිටින ඔහුගේ උරුමකරුවන් වෙත පමණක් පූර්ණ නිවාස හිමිකම ලබාදිය යුතු බවයි.
+The cabinet paper also states that if the original beneficiary is dependent in the residence of these houses, the original beneficiary should be given full housing.
 
-මෙම කැබිනට් පත්‍රිකාව මුදල් අමාත්‍යංශයේ නිරීක්ෂණ ලබාගැනීම සඳහා ඉදිරිපත්කර ඇති අතර හෙට පැවැත්වෙන කැබිනට් රැස්වීමට අදාළ නිරීක්ෂණ ඉදිරිපත් කිරීමට නියමිතය.
+The cabinet has been submitted to obtain the observations of the Ministry of Finance and the observations relating to the cabinet meeting will be presented tomorrow.
+
+Over 3,000 rupees of houses provided to low income families under various urban programs. Minister Prasanna Ranatunga says this cabinet paper has been proposed to completely stop the rent.
 
 ...
 
 [Data](articles/b56ac428.json)
+
+[Extended Data](ext_articles/b56ac428.ext.json)
 
 ---
 
@@ -1820,23 +1880,27 @@ President Ranil Wickremesinghe has ordered the necessary steps to be taken to al
 
 ---
 
-### ගාලු සාහිත්‍ය උළෙල : 'ලේඛකයන්ට, කලාකරුවන්ට අපේ සුන්දර රටේ දී එක්වීමට ලැබෙන අනර්ඝ අවස්ථාවක්'
+### Galle Literary Festival: 'Writers, artists join in our beautiful country in our beautiful country'
 
 *2024-01-23 11:25:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cek7j25yvz8o) · `si`
 
-ගාලු සාහිත්‍ය උළෙල : 'ලේඛකයන්ට, කලාකරුවන්ට අපේ සුන්දර රටේ දී එක්වීමට ලැබෙන අනර්ඝ අවස්ථාවක්'
+Galle Literary Festival: 'Writers, artists join in our beautiful country in our beautiful country'
 
-ගාලු සාහිත්‍ය උළෙල වසර කිහිපයක නිහඬතාවයෙන් පසු මෙම වසරේ ජනවාරි 25 - 28 දිනයන් හිදී පරිදි ගාලු කොටුව ආශ්‍රිතව පැවැත්වීමට නියමිතය.
+The Galle Literary Festival will be held in the Galle Fort on January 25-28, this year.
 
-එක්සත් රාජධානියේ 'දැවැන්ත ම සාහිත්‍ය උළෙලකට' ඇරයුම් ලැබූ ශ්‍රී ලාංකික කිවිඳියමිලාන් කුන්දේරා: රචනා කළ කෘති නිසා උපන් බිම අහිමි වූ 'යුරෝපීය සාහිත්‍යයේ දැවැන්තයා' මිය යයිතමාට එල්ලවූ ‘අනපේක්ෂිත දරුණු ප්‍රහාරය’ ගැන සල්මාන් රුෂ්ඩි පළමුවරට කතා කරයි
+Salman Russell speaks of 'unexpected severe attacks', who was composed in the 'biggest literary attack', who was composed, who was composed in the UK 'great literary festival.'
 
-2007 වසරේ දී ආරම්භ වන ගාලු සාහිත්‍ය උළෙල ශ්‍රී ලාංකීය සාහිත්‍ය ඉතිහාසය තුළ සුවිශේෂී වන්නේ එය ලෝක මට්ටමේ සාහිත්‍යකරුවන්, ශාස්ත්‍රඥයින්, ජනමාධ්‍යවේදීන් සහ ප්‍රකාශකයන් මෙරටට ගෙන්වා ජාත්‍යන්තර සාහිත්‍ය උළෙලක ප්‍රමිතියෙන් යුතුව පැවැත්වීමට කටයුතු කිරීම හේතුවෙනි.
+The Galle Literary Festival, which will start in 2007, is significant in Sri Lankan literary history, academics, journalists, journalists, journalists and publishers to hold the quality of an international literary festival.
 
-ලෝක සහ කලාපීය සාහිත්‍යයට අමතරව මේ ඔස්සේ මූලික වශයෙන් අවධානයට පාත්‍ර වන්නේ ලංකාවේ ඉංග්‍රීසි සාහිත්‍ය සංස්කෘතියයි. ඉංග්‍රීසි භාෂාවෙන් රචනයේ යෙදෙන ලේඛකයන්ගේ විවිධත්වය සහ ගැඹුර ගැන දැනුවත්භාවයක් ඇති කිරීම මෙහි අරමුණු අතර ප්‍රධාන තැනක් ගනියි.
+In addition to world and regional literature, English literary culture is basically focused on this. The objectives of this is a majority of the writers of writers and depths of writers in English language.
+
+It is also another goal of this day to bring the attention of new literaryists with Sri Lankan English literaries along the recent past five years.
 
 ...
 
 [Data](articles/fb20166a.json)
+
+[Extended Data](ext_articles/fb20166a.ext.json)
 
 ---
 
@@ -1947,63 +2011,5 @@ While the Board took note of the effects of the recent developments in taxation 
 [Data](articles/ef2db0a8.json)
 
 [Extended Data](ext_articles/ef2db0a8.ext.json)
-
----
-
-### CCTV operation warns 125 people
-
-*2024-01-23 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192460) · `si`
-
-Roads in Colombo was observed yesterday (22), where 125 traffic wrongs have been warned.
-
-The pilot project to monitor traffic wrongs by cCTV cameras and sent the filigenting to traffic owners.
-
-Accordingly, the CCTV has identified 125 traffic wrongs in Colombo yesterday and advised the owners of the vehicles as a basic step.
-
-Among the mistakes that identified the sins are mainly transferred to the switching and running in the stop line.
-
-◼️
-
-[Data](articles/244b70ac.json)
-
-[Extended Data](ext_articles/244b70ac.ext.json)
-
----
-
-### President completes 12-day overseas tour
-
-*2024-01-23 11:09:06* · [`adalk`](https://www.ada.lk/breaking_news/දින-12ක-විදේශ-සංචාරය-නිමවා-ජනපති-එයි/11-407680) · `si`
-
-President Ranil Wickremesinghe has come to the Katunayake Airport on the morning of the morning of a 12-day period.
-
-The President had returned to the Katunayaka airport after attending the Economic Forum in Switzerland, Switzerland, 19th Non-Non-Non-Non-Non-Non-Non-Non-Non-Nations Summit in Mampala, Uganda.
-
-The President including the President and the Sri Lankan delegation from 01/23 on 01.23 am from Dubai to Emirates Airport.
-
-The President and their crowds commenced following the visit to Davos, Switzerland in Switzerland.
-
-◼️
-
-[Data](articles/15aa5b73.json)
-
-[Extended Data](ext_articles/15aa5b73.ext.json)
-
----
-
-### The President has returned to the country
-
-*2024-01-23 11:04:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-ஜனாதிபதி/175-332003) · `ta`
-
-President Ranil Wickremesinghe has returned to the country this morning after completing his foreign journey.
-
-The president and team arrived at the Katunayake airport at 8.30 am on the EK650 flight of the Dubai Emirates Airlines.
-
-The President had recently left the country to attend the Economic Summit in Davos, Switzerland, the 19th Summit of the Leaders of the NGOs in Uganda's Kampala, G77 and China's 3rd Southern Summit Conference.
-
-◼️
-
-[Data](articles/ff88d092.json)
-
-[Extended Data](ext_articles/ff88d092.ext.json)
 
 ---

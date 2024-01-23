@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 21:17:29**
+As of **2024-01-23 21:32:55**
 
 ## Newspaper Stats
 
-*Scraped **2,148** Articles*
+*Scraped **2,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 123
 economynextcom | 132
 adaderanasinhalalk | 142
 dailyftlk | 171
-adalk | 221
-virakesarilk | 235
+adalk | 222
+virakesarilk | 238
 dailymirrorlk | 263
 adaderanalk | 269
 tamilmirrorlk | 272
@@ -26,23 +26,75 @@ tamilmirrorlk | 272
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,147 (100.0%) of 2,148 articles have been extended.
+2,148 (99.8%) of 2,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### ශ්‍රී ලංකා - ඇෆ්ගන් එක්දින තරග පල්ලෙකැලේදී
+### வவுனியாவில் இருந்து மட்டக்களப்புக்கு கஞ்சா கடத்திய விவகாரம் : நால்வர் கைது!
+
+*2024-01-23 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174648) · `ta`
+
+வவுனியாவில் இருந்து மோட்டார் சைக்கிளில் மட்டக்களப்பு களுவாஞ்சிக்குடிக்கு 845 கிராம் கஞ்சா போதைப்பொருளை கடத்தி சென்ற வியாபாரிகளிடம் கஞ்சா வாங்க சென்ற வியாபாரிகள் உட்பட 4 பேர் கைதுசெய்யப்பட்டுள்ளனர்.
+
+இவர்களை களுவாஞ்சிக்குடியில் வைத்து இன்று செவ்வாய்க்கிழமை (23) கைது செய்ததுடன் ஒரு மோட்டார்சைக்கிள் ஒரு முச்சக்கரவண்டி ஆகியவற்றை கைப்பற்றியுள்ளதாக களுவாஞ்சிக்குடி பொலிசார் தெரிவித்தனர்.
+
+பொலிசாருக்கு கிடைத்த தகவல் ஒன்றின் பிரகாரம் களுவாஞ்சிக்குடி பொலிஸ் பொறுப்பதிகாரியின் வழிகாட்டலில் பெரும் குற்றத்தடுப்பு பிரிவு பொலிஸ் பொறுப்பதிகாரி தலைமையிலாக குழுவினர் களுவாஞ்சிக்குடி கடற்கரையில் சம்பவதினமான திங்கட்கிழமை (22) மாலை கண்காணிப்பில் ஈடுபட்டுக் கொண்டிருந்தனர்.
+
+...
+
+[Data](articles/0ee5e9a4.json)
+
+---
+
+### கச்சத்தீவு புனித அந்தோனியார் ஆலய திருவிழாவுக்கு அழைப்பு விடுக்கக்கோரி தமிழகத்திலிருந்து அமைச்சருக்கு கடிதம்
+
+*2024-01-23 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174647) · `ta`
+
+இந்திய பாரம்பரிய கத்தோலிக்க மீனவர்களின் உணர்வுக்கு மதிப்பளித்து கச்சத்தீவு புனித அந்தோணியார் ஆலய திருவிழாவுக்கு இலங்கை கத்தோலிக்க திருச்சபையானது கச்சத்தீவு பாரம்பரிய திருப்பயண குழுவுக்கும் அழைப்பு விடுக்க வேண்டும் என்று எழுத்து மூலம் கோரிக்கை விடுக்கப்பட்டுள்ளது.
+
+இந்தியா, தமிழ்நாடு - இராமநாதபுரம் கச்சத்தீவு பாரம்பரிய நாட்டுப்படகு திருப்பயண குழுவினால் கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா மற்றும் யாழ் மறை மாவட்ட ஆயர் ஆகியோருக்கு அனுப்பி வைக்கப்பட்டுள்ள கடிதத்தில் இவ்வாறு கோரப்பட்டுள்ளது.
+
+1974 ஆண்டு ஒப்பந்தப்படி கச்சத்தீவு இலங்கையிடம் ஒப்படைக்கபட்ட போதிலும், இந்திய பாராம்பரிய மீனவர்களின் வழிபாட்டு உரிமையை பாதுகாக்கும் நோக்கத்தில், கச்சத்தீவு ஒப்பந்தத்தில் உள்ள 5ஆவது சரத்தில், கச்சத்தீவு புனித அந்தோணியார் ஆலய திருவிழாவிற்கு பாரம்பரிய மீனவர்கள் விசா உள்ளிட்ட எந்த அனுமதி இல்லாமல் குடும்பத்துடன் சென்று வழிபடலாம் என குறிப்பிடப்பட்டுள்ளது.
+
+...
+
+[Data](articles/53ba1d01.json)
+
+---
+
+### Sri Lanka - Afghan ODI Series
 
 *2024-01-23 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192484) · `si`
 
-ශ්‍රී ලංකාව සමග ටෙස්ට් තරගයක්, එක්දින තරග 03ක් සහ T20 තරග 03ක් ක්‍රීඩා කිරීම සඳහා ඇෆ්ගනිස්තාන ක්‍රිකට් කණ්ඩායම එළඹෙන 30 වනදා මෙරටට පැමිණීමට නියමිතය.
+The Afghanistics Cricket Team is due to arrive in Sri Lanka a Test match with Sri Lanka and 3 T20s and 03 T20s.
 
-එහිදී දෙරට අතර එක්දින තරග 03 කොළඹ ආර්. ප්‍රේමදාස ක්‍රීඩාංගණයේදී පැවැත්වීමට මීට පෙර තීරණය කර තිබුණත් මේ වනවිට එම තරග පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණය වෙත මාරු කර තිබේ.
+Two ODI matches 36 Colombo. Even though he has previously decided to hold at the Premadasa Stadium, it has already been transferred to the Pallekele International Cricket Stadium.
 
 ◼️
 
 [Data](articles/6de8751e.json)
+
+[Extended Data](ext_articles/6de8751e.ext.json)
+
+---
+
+### கச்சத்தீவு அந்தோனியார் ஆலய வருடாந்த திருவிழாவில் 8ஆயிரம் பக்தர்களுக்கு அனுமதி
+
+*2024-01-23 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/174650) · `ta`
+
+கச்சத்தீவு அந்தோனியார் ஆலய வருடாந்த திருவிழா முன்னேற்பாட்டுக் கூட்டம் யாழ் மாவட்ட செயலர் தலைமையில் செவ்வாய்க்கிழமை மாவட்ட செயலகத்தில் இடம்பெற்றது.
+
+எதிர்வரும்  பெப்ரவரி மாதம் 23 மற்றும் 24ம் திகதிகளில் கச்சத்தீவு அந்தோனியார் ஆலய வருடாந்த மகோற்வம் சிறப்பாக இடம் பெறவுள்ள நிலையில் குறித்த ஏற்பாடுகள் தொடர்பில் ஆராயும் முன்னேற்பாட்டு கூட்டத்தில், இவ்வருடம் இலங்கையிலிருந்து 4000 பக்தர்களும் இந்தியாவில் இருந்து 4000 பக்தர்களும் பங்குபற்ற அனுமதிப்பது என தீர்மானிக்கப்பட்டுள்ளது.
+
+பங்குபற்றுவோருக்கான சுகாதாரம், போக்குவரத்து உட்பட அடிப்படை வசதிகள், பாதுகாப்பு, ஏற்பாடுகள் மற்றும் உணவு போன்ற பல்வேறுபட்ட விடயங்கள் தொடர்பில் ஆராயப்பட்டது.
+
+குறித்த முன்னாயத்த கூட்டத்தில் யாழ் இந்திய துணைத் தூதுவராலய அதிகாரிகள், நெடுந்தீவு பிரதேச செயலர், நெடுந்தீவு பங்குத்தந்தை, யாழ்மறை மாவட்ட குரு முதல்வர், கடற்படையின் பிராந்திய பொறுப்பதிகாரி பொலிஸ் உயரதிகாரிகள் ராணுவ உயரதிகாரிகள் மற்றும் துறை சார் திணைக்களின் தலைவர்கள் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/9ef9ddf6.json)
 
 ---
 
@@ -63,6 +115,22 @@ State Minister for Rural Economy, K. Kader Masthan, conveyed this information du
 [Data](articles/38ae1a45.json)
 
 [Extended Data](ext_articles/38ae1a45.ext.json)
+
+---
+
+### විදුලි ගාස්තු සංශෝධනය පෙබරවාරි මැද
+
+*2024-01-23 19:52:14* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-පෙබරවාරි-මැද/11-407696) · `si`
+
+මේ වසරට අදාළ විදුලි ගාස්තු සංශෝධනය කිරීම පෙබරවාරි මස මැද කාලයේදී  සිදුකරන  බව ශ්‍රී ලංකා මහජන උපයෝගිතා කොමිසමේ සභාපති මහාචාර්ය මංජුල ප්‍රනාන්දු මහතා පැවසීය.
+
+විදුලි ගාස්තු සංශෝධනය කිරීමේදී අනුගමනය කළ යුතු ක්‍රියාමාර්ගයක් ඇති බවත්,  මේ අනුව විදුලි බල මණ්ඩලය විසින් ඉදිරිපත් කර තිබෙන යෝජනාව පිළිබඳ මහජන අදහස් විමසීම අද (23දා) ආරම්භ කළ බවත්  හෙතෙම සඳහන් කළේය.මහජන උපයෝගිතා කොමිසමේ පැවති වැඩසටහකට එක් වෙමින් සභාපතිවරයා මේ බව පැවසීය.
+
+විදුලිබල මණ්ඩලය විසින් ලබා දී තිබෙන යෝජනාවට මහජන අදහස් ලබා ගැනීම සඳහා දින 21 ක කාලයක් ගතවන අතර, විදුලිබල මණ්ඩලය විසින් විදුලි ගාස්තු සංශෝධනයට අදාළ යෝජනාව මේ මස 13 වැනි දින මහජන උපයෝගිතා කොමිසමට භාර දී ඇත.
+
+◼️
+
+[Data](articles/ce0ef201.json)
 
 ---
 
@@ -1973,89 +2041,5 @@ Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 [Data](articles/d37338dd.json)
 
 [Extended Data](ext_articles/d37338dd.ext.json)
-
----
-
-### Inflation rises to rise to 7% in January
-
-*2024-01-23 12:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரியில்-பணவீக்கம்-7-ஆக-உயர-வாய்ப்பு/175-332010) · `ta`
-
-Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, has warned that inflation is likely to rise to 7% in January 2024.
-
-Speaking at a special media briefing on Tuesday (23), he explained that inflation is likely to increase due to the increase in Value Tax (VAT) and other external factors.
-
-After the VAT Amendment Bill was passed in Parliament on 11 December 2023, it was increased by 3% from January 01 to 15% to 18%.
-
-◼️
-
-[Data](articles/6526eda3.json)
-
-[Extended Data](ext_articles/6526eda3.ext.json)
-
----
-
-### The oldest man who lived at the time of the isura
-
-*2024-01-23 12:54:24* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-වර්තමානයේ-ජීවත්-වූ-වයස්ගතම-පුද්ගලයා-ජීවිතක්ෂයට/11-407685) · `si`
-
-A 105-year-old, aged 105, was killed last night.
-
-The deceased was the RA, a resident of Vijayapura, Anuradhapura who worked as a maratorist in the profession.. Chandrasena.
-
-He is a father of three sleepers and one daughter.
-
-1919. 2. He was born in Galle and resided in the Anuradhapura area in 1945.
-
-Reportedly, he said that he was now alive.
-
-Funerals on Tuesday at 6 pm today (23) were to be carried out at the Nilwadi Valley Cemetery in Anuradhapura.
-
-◼️
-
-[Data](articles/dfc9b7e1.json)
-
-[Extended Data](ext_articles/dfc9b7e1.ext.json)
-
----
-
-### Police detect 125 traffic offences through CCTV system on first day
-
-*2024-01-23 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96652/police-detect-125-traffic-offences-through-cctv-system-on-first-day) · `en`
-
-Owners of 125 vehicles have been issued warning over traffic offences as a preliminary step in the pilot project launched in Colombo on Monday (22 Jan.), where a 24-hour surveillance system wasw implemented to monitor traffic violations.
-
-According to police, amongst the violations detected, traffic lane violations and failing to stop at red lights were seen as the most common offences.
-
-Sri Lanka Police launched a special programme yesterday, through which traffic offenders in Colombo will be traced using a CCTV surveillance camera system.
-
-A pilot project of the initiative commenced in the country’s commercial capital on 22 January, and will continue until 31 January, in a bid to curb traffic violations.
-
-Police Media Spokesman SSP Nihal Thalduwa explained that the CCTV camera system will be monitored by police personnel stationed in Colombo, after which, the registered owner of the relevant vehicle will be notified in the event a traffic offence is recorded.
-
-...
-
-[Data](articles/df5d6e1f.json)
-
-[Extended Data](ext_articles/df5d6e1f.ext.json)
-
----
-
-### Niyangoda Vidyalaya, which is covered, focuses on Kitul based factory
-
-*2024-01-23 12:48:29* · [`adalk`](https://www.ada.lk/breaking_news/වැසී-ඇති-නියංගොඩ-විද්‍යාලය-කිතුල්-ආශ්‍රිත-නිෂ්පාදන-කර්මාන්ත-ශාලාවක්-කිරීමට-අවධානය/11-407684) · `si`
-
-Governor Lalith Under the Governor of the Central Province, Attorney at the Governor of Kandy Lalith Yamage was held at the Governor's Office Auditorium, Kandy.
-
-Accordingly, these products are to be prepared to suit the modern world and to suit the modern world to the traditional kitul industry.
-
-The project is to be implemented under a five year investment plan and the Ministry of Industries and the Green Globe Organics (Pvt) Ltd will be implemented.
-
-The initial phase of the project will be invested on Rs.The benefits of this project are unique and that our traditional industries have been maintained.
-
-◼️
-
-[Data](articles/ec1a3dcd.json)
-
-[Extended Data](ext_articles/ec1a3dcd.ext.json)
 
 ---

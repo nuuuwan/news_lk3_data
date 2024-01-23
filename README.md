@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 03:50:43**
+As of **2024-01-24 04:03:18**
 
 ## Newspaper Stats
 
-*Scraped **2,174** Articles*
+*Scraped **2,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ dailyftlk | 171
 adalk | 222
 virakesarilk | 238
 adaderanalk | 272
-tamilmirrorlk | 273
+tamilmirrorlk | 274
 dailymirrorlk | 276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,174 (100.0%) of 2,174 articles have been extended.
+2,174 (100.0%) of 2,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### ’சர்வதேச அளவில் நம்பிக்கை ஏற்பட்டுள்ளது’
+
+*2024-01-24 03:05:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-அளவில்-நம்பிக்கை-ஏற்பட்டுள்ளது/175-332039) · `ta`
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் ஆரம்பிக்கப்பட்ட சரியான பொருளாதார வேலைத்திட்டத்தினால் சர்வதேச சமூகத்தில் இலங்கையின் பொருளாதாரத்தின் மீதான நம்பிக்கையைக் கட்டியெழுப்ப முடிந்துள்ளது என தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+
+ஜனாதிபதி செயலகத்தில் நேற்று நடைபெற்ற '2024 வரவு செலவுத்திட்டம்' கருத்தரங்கின்போது சாகல ரத்நாயக்க இவ்வாறு  தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+
+ஜனாதிபதி ரணில் விக்ரமசிங்க நாட்டைப் பொறுப்பேற்ற போது நாட்டில் கடுமையான பொருளாதார நெருக்கடி ஏற்பட்டிருந்தது. எரிபொருள் வரிசைகள், எரிவாயு வரிசைகள் மற்றும் மணிக் கணக்கில் மின்வெட்டு ஏற்பட்டது. அப்போது அமுல்படுத்தப்பட்ட வரிக் கொள்கையால், அரச வருமானம் சரிவு, தவறான விவசாயக் கொள்கை, வரிக் கோப்புகள் குறைப்பு போன்ற காரணிகளால் பொருளாதார நெருக்கடி ஏற்பட்டது.
+
+...
+
+[Data](articles/aaf6f99b.json)
+
+---
 
 ### Why isn’t Lanka’s ‘War on Drugs’, taking on Drug Barons? - EDITORIAL
 
@@ -2041,23 +2057,5 @@ This unexpected turn of events has fueled dissatisfaction among government docto
 [Data](articles/98e1e36f.json)
 
 [Extended Data](ext_articles/98e1e36f.ext.json)
-
----
-
-### Payment of doctors' allowance suspended
-
-*2024-01-23 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192469) · `si`
-
-Director General of Health Services Dr. Asela Gunawardena says that the payment of the duties of doctors is temporarily suspended.
-
-The Director General of Health Services has not taken measures to provide the Treasury to the Treasury in the approved allocation.
-
-The Director General of Health Services has issued a letter, accordingly, the Health Secretary has insisted the payment of Rs. 35,000 to the Treasury.
-
-◼️
-
-[Data](articles/a6c5918c.json)
-
-[Extended Data](ext_articles/a6c5918c.ext.json)
 
 ---

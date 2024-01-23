@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 16:04:26**
+As of **2024-01-23 16:17:08**
 
 ## Newspaper Stats
 
-*Scraped **2,085** Articles*
+*Scraped **2,088** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,40 @@ economynextcom | 125
 adaderanasinhalalk | 132
 dailyftlk | 171
 adalk | 212
-virakesarilk | 225
+virakesarilk | 227
 dailymirrorlk | 256
 adaderanalk | 258
-tamilmirrorlk | 265
+tamilmirrorlk | 266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,085 (100.0%) of 2,085 articles have been extended.
+2,085 (99.9%) of 2,088 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### சீனாவில் மண்சரிவில் சிக்கி மாயமானவர்களில் 9 பேர் பலி
+
+*2024-01-23 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/174625) · `ta`
+
+சீனாவின் தென்மேற்கு யுன்னான் பகுதியில் திங்கட்கிழமை ஏற்பட்ட மண்சரிவில் சிக்கியுள்ளவர்களை மீட்கும் பணியில் மீட்புக்குழுவினர் ஈடுபட்டுள்ளனர்.
+
+மண்சரிவில் 18 வீடுகள் புதையுண்டுள்ளதோடு, அதில்  47 பேர்  சிக்குண்டுள்ளதாக  அந்நாட்டு ஊடகங்கள் செய்தி வெளியிட்டுள்ளன.
+
+இந்நிலையில், அவர்களில் ஒன்பது பேர் உயிரிழந்துள்ளதோடு, இருவர் இடிபாடுகளில் இருந்து மீட்கப்பட்டு வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளனர்.
+
+சீனாவில் யுன்னான் மாகாணத்தில் தற்போது கடுமையான குளிர் நிலவி வருவதாக சீன தேசிய வானிலை ஆய்வு மையம் தெரிவித்துள்ளது.
+
+சீனாவில் கடந்த ஆண்டு ஏற்பட்ட மண்சரிவில் சிக்கி மங்கோலியா பகுதியில் உள்ள திறந்தவெளி சுரங்கப் பணியாளர்கள் 50க்கும்  மேற்பட்டவர்கள் உட்பட  குறைந்தது 70 பேர் உயிரிழந்தனர்.
+
+◼️
+
+[Data](articles/3653d0d8.json)
+
+---
 
 ### Special notice to all traffic holders
 
@@ -51,6 +71,42 @@ As a result, the Department of Motor Traffic has informed the public to register
 [Data](articles/09503128.json)
 
 [Extended Data](ext_articles/09503128.ext.json)
+
+---
+
+### திடீரென சரிந்து வீழ்ந்த புதிதாக கட்டப்பட்ட 3 மாடி வீடு
+
+*2024-01-23 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174622) · `ta`
+
+தமிழ்நாட்டில் புதுச்சேரியில் திங்கட்கிழமை வாய்க்காலில் தோண்டப்பட்ட பள்ளத்தின் காரணமாக புதிதாக 3 மாடி கட்டிமுடிக்கப்பட்ட வீடொன்று திடீரென சரிந்து வீழ்ந்து தரைமட்டடமாகியுள்ளது.
+
+புதுமனைப் புகுவிழா நடைபெற இருந்த நிலையிலேயே இவ்வாறு குறித்த வீடு இடிந்து விழுந்துள்ளது.
+
+இந்நிலையில், நேற்று இன்று மதியம் பெக்கோ இயந்திரம் மூலம் வாய்க்காலின் பக்கவாட்டு பகுதி சீரமைக்கப்பட்டு சுவர் எழுப்புதற்கான நடவடிக்கை எடுக்கப்பட்டது.
+
+இதற்காக வாய்க்காலின் மண் அகழும் பகுதியில் ஜேசிபி இயந்திரம் ஈடுபட்டது. இதனால் வாய்க்கால் ஓரம் கட்டப்பட்டுள்ள வீடுகளுக்கு அதிர்வு ஏற்பட்டது. இதற்கு அப்பகுதி மக்கள் எதிர்ப்பை தெரிவித்தனர்.
+
+இந்நிலையில், திடீரென அப்பகுதியில் கட்டப்பட்டிருந்த மூன்று மாடி கட்டிடம் ஒன்று சரிந்து விழுந்தது. இதனை சற்றும் எதிர்பாராத அதன் அருகே நின்றிருந்த பொதுமக்கள், பொலிஸார் மற்றும் முன்னாள் எம்எல்ஏ அன்பழகன் ஆகியோர் அங்கிருந்து ஓடினார்கள்.
+
+குறித்த வீட்டுக்கு இன்னும் சில தினங்களில் புதுமனை புகுவிழா நடைபெற இருந்தது. இந்நிலையில் குறித்த புது வீடு சரிந்து வீழ்ந்துள்ளது.
+
+...
+
+[Data](articles/943fc0b0.json)
+
+---
+
+### வங்கி கடன் வட்டி வீதம் தொடர்பில் மத்திய வங்கியின் நிலைப்பாடு
+
+*2024-01-23 15:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கி-கடன்-வட்டி-வீதம்-தொடர்பில்-மத்திய-வங்கியின்-நிலைப்பாடு/175-332019) · `ta`
+
+வங்கிக் கடன் வட்டி வீதம் மேலும் குறைக்கப்பட வேண்டும் என மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க தெரிவித்துள்ளார்.
+
+மத்திய வங்கியில் இன்று (23) நடைபெற்ற ஊடகவியலாளர் சந்திப்பில் அவர் இதனைக் கூறியுள்ளார்.
+
+◼️
+
+[Data](articles/8574b3a9.json)
 
 ---
 
@@ -1949,53 +2005,5 @@ Meanwhile, the five people have come to participate in a Defender car belonging 
 [Data](articles/3904fa13.json)
 
 [Extended Data](ext_articles/3904fa13.ext.json)
-
----
-
-### Postpone the congregation activities - this is the reason!
-
-*2024-01-23 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/174581) · `ta`
-
-The proceedings have been temporarily postponed for the party leader's meeting to take a second reading of the Ceremony Backup Bill.
-
-◼️
-
-[Data](articles/0810ed2e.json)
-
-[Extended Data](ext_articles/0810ed2e.ext.json)
-
----
-
-### Speaker calls for Party leaders’ meeting to discuss Online Safety Bill
-
-*2024-01-23 10:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speaker-calls-for-Party-leaders-meeting-to-discuss-Online-Safety-Bill/108-275554) · `en`
-
-Parliament, Jan 23 (Daily Mirror) -  Speaker Mahinda Yapa Abeywardena suspended Parliament sessions to hold  a party leaders' meeting to dicuss the Online Safety Bill.
-
-The Speaker said the meeting is being called following a request by the Opposition.
-
-◼️
-
-[Data](articles/700cc77f.json)
-
-[Extended Data](ext_articles/700cc77f.ext.json)
-
----
-
-### Parliament adjourned for special party leaders meeting
-
-*2024-01-23 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96643/parliament-adjourned-for-special-party-leaders-meeting-) · `en`
-
-Parliament took a 10-minute adjournment this morning (23 Jan.) to convene a party leaders meeting for discussions on the proposed Online Safety Bill.
-
-Accordingly, the parliamentary proceedings were adjourned on the request of all Parliamentarians belonging to the Opposition.
-
-Opposition Leader Sajith Premadasa requested for a Party Leaders meeting before the Online Safety Bill is taken up for debate, following which the Speaker adjourned Parliament for 10 minutes.
-
-◼️
-
-[Data](articles/6138ba2a.json)
-
-[Extended Data](ext_articles/6138ba2a.ext.json)
 
 ---

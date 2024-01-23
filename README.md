@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 06:57:52**
+As of **2024-01-23 07:21:05**
 
 ## Newspaper Stats
 
-*Scraped **1,917** Articles*
+*Scraped **1,924** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dbsjeyarajcom | 121
 dailyftlk | 171
 virakesarilk | 195
 adalk | 200
-dailymirrorlk | 230
 adaderanalk | 235
+dailymirrorlk | 237
 tamilmirrorlk | 239
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,917 (100.0%) of 1,917 articles have been extended.
+1,917 (99.6%) of 1,924 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### SMS ‘e-Referendum’ on the Online Safety Bill launched
+
+*2024-01-23 06:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SMS-e-Referendum-on-the-Online-Safety-Bill-launched/108-275550) · `en`
+
+While expressing grave concerns raised by critics that, by imposing imprisonment and fines against ill-defined ‘prohibited statements’, the Online Safety Bill may cripple opposition election campaigns, silence journalists reporting on corruption, and may severely impact the IT industry, the IT Professionals for the People (IT4P) has launched an SMS ‘e-referendum’, allowing citizens to use a simple SMS message to make their voices heard on key policy issues, starting with the Online Safety Bill.
+
+“Under this law, any person aggrieved by something a citizen says online, may go to the police or magistrate court against them. Such a person may become a suspect in a criminal case, subject to investigations, have material/devices seized and may be liable to imprisonment or a fine.
+
+...
+
+[Data](articles/773db3c7.json)
+
+---
+
+### UN experts call on Sri Lanka to immediately suspend and review ‘Yukthiya’ anti-drug operation
+
+*2024-01-23 06:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/UN-experts-call-on-Sri-Lanka-to-immediately-suspend-and-review-Yukthiya-anti-drug-operation/108-275547) · `en`
+
+UN experts expressed alarm at the heavy security-driven approach of Sri Lanka’s drug response, and they called on authorities to immediately suspend and review the so-called Operation ‘Yukthiya’ and to focus on policies based on health and human rights, a statement from the Office of the High Commissioner for Human Rights (OHCHR) said.
+
+“Drug users have human rights,” the experts said. “They deserve to live a life with dignity without facing further discrimination and stigmatisation.”
+
+They deplored reported cases of arbitrary arrests of thousands of drug offenders from marginalised socio-economic groups, and the detention of hundreds in compulsory military-run rehabilitation centres. Torture and ill-treatment were also reported during the security operation known as ‘Yukthiya’.
+
+“The current context of severe repression against suspected drug offenders is deeply worrying,” the experts said.
+
+...
+
+[Data](articles/32bf7be2.json)
+
+---
+
+### Apparel industry sees significant performance contraction in 2023
+
+*2024-01-23 04:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apparel-industry-sees-significant-performance-contraction-in-2023/108-275543) · `en`
+
+2023 full-year earnings total US $ 4.5bn, only slightly higher than performance in 2020
+
+However, an uptick in revenue seen from November 2023, indicating a possible turnaround
+
+Absolutely vital for offer from Sri Lanka to remain price competitive- JAAF
+
+Sri Lanka’s largest industrial exporter, the apparel sector, saw its performance for the whole of 2023 dip significantly, with its earnings contracting by 19 percent year-on-year (YoY).
+
+The local apparel sector saw its export revenue for 2023 reach US $ 4.5 billion. This is an improvement when compared with US $ 4.15 billion fetched in 2020, the year of the pandemic but a contraction when compared with the performance recorded in 2021 and 2022. In 2021, the apparel sector generated revenues amounting to US $ 5.01 billion, whereas in 2022, the revenue expanded to US $ 5.6 billion.
+
+The provisional data from Sri Lanka Customs shows that exports to all markets saw a contraction in 2023, when compared with 2022.
+
+...
+
+[Data](articles/af2ffb6d.json)
+
+---
 
 ### Anti -terrorism
 
@@ -149,6 +203,26 @@ The Secretary General said that although a few female employees had previously b
 [Data](articles/b6fb6526.json)
 
 [Extended Data](ext_articles/b6fb6526.ext.json)
+
+---
+
+### Inflation quickens to four-month high as food prices soar once again
+
+*2024-01-23 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inflation-quickens-to-four-month-high-as-food-prices-soar-once-again/108-275544) · `en`
+
+Food prices expand 3.6% in December, doubling pace in November
+
+Non-food prices ameliorate, due to downward revision in energy costs
+
+Inflation entering a new era, led by supply shocks and higher taxes
+
+The pace of increase in the prices of goods and services consumed by the people, measured at a national level, saw reaccelerating in December, due to sharp increases in most of the food prices, which more than offset the softened non-food prices, largely on the back of the somewhat eased energy cost.
+
+Inflation, measured by the National Consumer Price Index, rose by 1.4 percent in December 2023 from a month earlier, as the prices of everyday goods such as rice, vegetables, chicken and many varieties of staples rose sharply during the month.
+
+...
+
+[Data](articles/87b4c88d.json)
 
 ---
 
@@ -424,6 +498,30 @@ Nations need to strike a balance between fostering innovation in the drone indus
 
 ---
 
+### January 01-18 tourist  arrivals reach 121,000 mark
+
+*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/January-01-18-tourist-arrivals-reach-121-000-mark/108-275541) · `en`
+
+The tourist arrivals to the island nation for the first 18 days of January crossed the 121,000 mark.
+
+The provisional data from the Sri Lanka Tourism Development Authority showed that from January 01 to 18, the island nation welcomed 121,446 international visitors.
+
+While the weekly arrival average for January so far is around 45,000, the daily arrival average is about 6,747.
+
+The Russian Federation currently ranks as the largest tourist traffic generator for Sri Lanka, a position it has held since the beginning of 2024. It accounted for 16 percent of the total arrivals for January so far.
+
+Neighbouring giant India, which was the largest source market throughout 2023, ranks in the second position, bringing in 15 percent of the tourists to the island nation.
+
+The United Kingdom ranks the third, accounting for 8 percent of the total arrivals.
+
+The other key markets include Germany, China, France and Australia.
+
+◼️
+
+[Data](articles/85c1d3d9.json)
+
+---
+
 ### We need a Foolproof Mechanism for Presidential Pardon
 
 *2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/We-need-a-Foolproof-Mechanism-for-Presidential-Pardon/172-275516) · `en`
@@ -689,6 +787,26 @@ Police have arrested the 59-year-old monk and the assassination of the suspected
 [Data](articles/2220f678.json)
 
 [Extended Data](ext_articles/2220f678.ext.json)
+
+---
+
+### Government with 6.9 mn mandate shattered by its own leaders: SB
+
+*2024-01-22 21:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Government-with-6-9-mn-mandate-shattered-by-its-own-leaders-SB/155-275506) · `en`
+
+Colombo, Jan 22 (Daily Mirror) - The government which was formed with a 6.9 million mandate and a two-thirds majority was shattered by its own leaders, Parliamentarian S.B. Dissanayake said today.
+
+"I am dissapointed that the government formed with a 6.9 million mandate and a two-thirds majority was shattered by our own leaders," he said.
+
+The MP said even though the President had powers to dissolve Parliament at any time now, no one can change the Presidential election which is due in October.
+
+He told reporters that the President can dissolve parliament at any time after four years, according to the Constitution.
+
+"The President or Parliament have powers to decide upon the dates of some elections. However, no one can decide the date of the Presidential election due in October," he said.
+
+◼️
+
+[Data](articles/0d6d2dea.json)
 
 ---
 
@@ -1883,117 +2001,5 @@ Meanwhile, a special police investigation has been carried out in this regard, a
 [Data](articles/e846b523.json)
 
 [Extended Data](ext_articles/e846b523.ext.json)
-
----
-
-### Farmers' Frauds
-
-*2024-01-22 16:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174530) · `ta`
-
-Vavuniya District Rice Mill Owners Association President C.. Vivekanandan said.
-
-At present, the harvest has begun and the buyers who buy paddy to the farmers are defrauding the establishment of the farmers and buying paddy to the farmers.
-
-He pointed out that the farmers were likely to lose about 15 kilos by replacing the upper part of the scales, and that the farmers were giving the bike to the buyers and the loss of several thousand rupees because they were getting 100 and 200 rupees more than the buyers.
-
-He has therefore asked the farmers to act very much when selling paddy.
-
-◼️
-
-[Data](articles/78be1cb8.json)
-
-[Extended Data](ext_articles/78be1cb8.ext.json)
-
----
-
-### The mountain community looking for leaders within the parties ..!
-
-*2024-01-22 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174528) · `ta`
-
-In the hill country, only the party leaders are just coming up. The union does not see people leaders who talk about labor rights. Two hundred years later, no solutions about labor issues can be found, and the government's votes have been put into a very weak position.
-
-It is amazing that those who said that milk and honey will run in the hill country. People who spoke verses on stage in cinema style have gone a long way from people. Once the election is probably declared, people will come as usual. It is now guaranteed that these people are going to make a series of mistakes to welcome them.
-
-Labor Affairs is heading towards failure. In the negotiations, it has been revealed that more than a thousand rupees has not been complied with the company.. It is not possible even if some trade unions tried to keep the president in fear of meeting the companies directly. How are companies that do not listen to the president's work back to the trade unions that are not supportive of the people?
-
-...
-
-[Data](articles/0fe07094.json)
-
-[Extended Data](ext_articles/0fe07094.ext.json)
-
----
-
-### Here is the 2023 Twenty Tup of Twenty ICC
-
-*2024-01-22 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192434) · `si`
-
-The International Cricket Council has named the best players of the Twenty20 Grounds in 2023.
-
-◼️
-
-[Data](articles/37357b38.json)
-
-[Extended Data](ext_articles/37357b38.ext.json)
-
----
-
-### Sri Lanka’s inflation rate rises to 4.2% in December
-
-*2024-01-22 15:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96624/sri-lankas-inflation-rate-rises-to-42-in-december) · `en`
-
-Sri Lanka’s consumer price inflation rate rose to 4.2% year-on-year in December from 2.8% in November, the statistics department said on Monday.
-
-The National Consumer Price Index (NCPI) captures broader retail price inflation and is released with a lag of 21 days every month.
-
-Food prices rose 1.6% in December after falling 2.2% in November on the year, the Department of Census and Statistics said in a statement.
-
-Prices for non-food items, however, fell 6.3% in December from 7.1% year-on-year in November.
-
-Sri Lanka racked up record high inflation last year after its economy was pummelled by the worst financial crisis in decades, triggered by a plunge in foreign exchange reserves.
-
-◼️
-
-[Data](articles/a5ad39f5.json)
-
-[Extended Data](ext_articles/a5ad39f5.ext.json)
-
----
-
-### The new leader of the Sri Lankan Tamil state party Sreedharan has made a call to the Tamil National parties
-
-*2024-01-22 15:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174525) · `ta`
-
-The Tamil National Alliance (TNA) should be able to become the political monopoly of the Tamil National Alliance (TNA) as the Tamil National Alliance (TNA), so all the Tamil National Alliance (TNA) should unite the Tamil National Alliance (TNA) as a single Tamil National Alliance (TNA) to promote the welfare of the Tamil National Alliance (TNA) as the Tamil National Alliance (TNA).Sivagnanam Sreedharan has been elected as the chairman.
-
-Sreedharan, who won the election for the new leader of the TNA in Trincomalee and became the new leader, called on the election and the Tamil National Party's future ride.
-
-My greatness is to strengthen Tamil nationalism. I have been selected as the leader of the TNA leadership. In this case, I think it is the first time I am to refuse the TNA and the Tamil National Alliance.
-
-...
-
-[Data](articles/c1ba700b.json)
-
-[Extended Data](ext_articles/c1ba700b.ext.json)
-
----
-
-### Inflation up
-
-*2024-01-22 15:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192433) · `si`
-
-The inflation in December 2023 has increased in December 2023, according to the National Customer Price Index.
-
-Accordingly, in December 2023, inflation was 4.2 percent in December 2023.
-
-In November 2023, inflation recorded 2.8 percent in November 2023 as per the National Customer Price Index.
-
-Meanwhile, food inflation at -2.2 percent in November 2023 increased to 1.6 percent in December.
-
-◼️
-
-[Data](articles/e1b5355f.json)
-
-[Extended Data](ext_articles/e1b5355f.ext.json)
 
 ---

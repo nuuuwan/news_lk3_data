@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 22:32:55**
+As of **2024-01-23 22:50:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ tamilmirrorlk | 273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,155 (99.6%) of 2,163 articles have been extended.
+2,163 (100.0%) of 2,163 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ At least 195 Palestinians were killed in the space of 24 hours, raising the docu
 
 [Data](articles/4ba23fe9.json)
 
+[Extended Data](ext_articles/4ba23fe9.ext.json)
+
 ---
 
 ### Confident Sri Lanka aim to seal Super Six spot
@@ -68,6 +70,8 @@ Sineth Jayawardena's side has made a good start to the tournament. Pulindu Perer
 
 [Data](articles/91d20c5b.json)
 
+[Extended Data](ext_articles/91d20c5b.ext.json)
+
 ---
 
 ### Private hospital pleads guilty in advance when case summoned today
@@ -83,6 +87,8 @@ The NMRA acting on a complaint lodged by a patient by the name Sanath Kumara Ath
 ...
 
 [Data](articles/1d511494.json)
+
+[Extended Data](ext_articles/1d511494.ext.json)
 
 ---
 
@@ -115,6 +121,8 @@ A group of individuals staged a protest in Colombo today urging the authorities 
 ◼️
 
 [Data](articles/b1e675c2.json)
+
+[Extended Data](ext_articles/b1e675c2.ext.json)
 
 ---
 
@@ -150,6 +158,8 @@ Earlier in the day, four unidentified individuals in a car had opened fire on th
 
 [Data](articles/401ca10c.json)
 
+[Extended Data](ext_articles/401ca10c.ext.json)
+
 ---
 
 ### Royal Beach Saman’s assassination linked to decades-old conflict with ’Kosgoda Sujee’
@@ -165,6 +175,8 @@ Saman Perera, also known as 'Royal Beach Saman,' had several pending court cases
 ...
 
 [Data](articles/f8b3ee25.json)
+
+[Extended Data](ext_articles/f8b3ee25.ext.json)
 
 ---
 
@@ -225,6 +237,8 @@ As the President departs Uganda, the fruitful outcomes of this visit are anticip
 ◼️
 
 [Data](articles/fb2121f0.json)
+
+[Extended Data](ext_articles/fb2121f0.ext.json)
 
 ---
 
@@ -301,6 +315,8 @@ They also highlighted the issue of the Tamil political prisoners and the Tamil l
 ◼️
 
 [Data](articles/ce65a5f4.json)
+
+[Extended Data](ext_articles/ce65a5f4.ext.json)
 
 ---
 

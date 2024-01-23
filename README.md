@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 21:02:33**
+As of **2024-01-23 21:17:29**
 
 ## Newspaper Stats
 
-*Scraped **2,147** Articles*
+*Scraped **2,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 122
 newsfirstlk | 123
 islandlk | 123
 economynextcom | 132
-adaderanasinhalalk | 141
+adaderanasinhalalk | 142
 dailyftlk | 171
 adalk | 221
 virakesarilk | 235
@@ -26,11 +26,25 @@ tamilmirrorlk | 272
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,147 (100.0%) of 2,147 articles have been extended.
+2,147 (100.0%) of 2,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### ශ්‍රී ලංකා - ඇෆ්ගන් එක්දින තරග පල්ලෙකැලේදී
+
+*2024-01-23 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192484) · `si`
+
+ශ්‍රී ලංකාව සමග ටෙස්ට් තරගයක්, එක්දින තරග 03ක් සහ T20 තරග 03ක් ක්‍රීඩා කිරීම සඳහා ඇෆ්ගනිස්තාන ක්‍රිකට් කණ්ඩායම එළඹෙන 30 වනදා මෙරටට පැමිණීමට නියමිතය.
+
+එහිදී දෙරට අතර එක්දින තරග 03 කොළඹ ආර්. ප්‍රේමදාස ක්‍රීඩාංගණයේදී පැවැත්වීමට මීට පෙර තීරණය කර තිබුණත් මේ වනවිට එම තරග පල්ලෙකැලේ ජාත්‍යන්තර ක්‍රිකට් ක්‍රීඩාංගණය වෙත මාරු කර තිබේ.
+
+◼️
+
+[Data](articles/6de8751e.json)
+
+---
 
 ### Lands under Forest Dept. to be released for agriculture and tourism - State Minister
 
@@ -2043,31 +2057,5 @@ The initial phase of the project will be invested on Rs.The benefits of this pro
 [Data](articles/ec1a3dcd.json)
 
 [Extended Data](ext_articles/ec1a3dcd.ext.json)
-
----
-
-### Police should not communicate with civil society without uniform: Mano instructions for Wellawatte Police Officer
-
-*2024-01-23 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174601) · `ta`
-
-In the Wellawatte Police Zone, the issue of police officers who went to uniforms for a secret surrounding area and the Maheshwara priests who were on the road in the area, the police have expressed their regret to the Vedas and the Tamil Progressive Alliance (M) leader Mano Ganesan MP MP.. Said.
-
-Mano MP added that Hindu priests in Wellawatte
-
-The police have taken the minor conflict in connection with vehicle traffic, to the racist term, argument, and physical force.
-
-The issue has come to an end on Monday (22) evening.
-
-The priests told me that he had forgiven the police with the generosity of the clergy.
-
-Despite the fact that the priests say that, I have told Wellawatte Police Officer Subhash Kanthaveli that the police officers should not be involved in the civil society without the police uniform.
-
-Accordingly, the officer in charge of the authorities has assured me to instruct his station officials.
-
-◼️
-
-[Data](articles/77f764bb.json)
-
-[Extended Data](ext_articles/77f764bb.ext.json)
 
 ---

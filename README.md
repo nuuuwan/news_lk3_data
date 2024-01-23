@@ -1,36 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 12:33:05**
+As of **2024-01-23 12:49:56**
 
 ## Newspaper Stats
 
-*Scraped **1,992** Articles*
+*Scraped **2,015** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 31
 bbccomsinhala | 42
 newsfirstlk | 116
-economynextcom | 118
 dbsjeyarajcom | 121
-islandlk | 122
+economynextcom | 122
 adaderanasinhalalk | 123
+islandlk | 123
 dailyftlk | 171
-virakesarilk | 195
 adalk | 203
+virakesarilk | 211
 dailymirrorlk | 240
-adaderanalk | 250
-tamilmirrorlk | 260
+adaderanalk | 251
+tamilmirrorlk | 261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,990 (99.9%) of 1,992 articles have been extended.
+1,992 (98.9%) of 2,015 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### Suspect in killing of 8 people in suburban Chicago has fatally shot himself in Texas, police say
+
+*2024-01-23 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/96651/suspect-in-killing-of-8-people-in-suburban-chicago-has-fatally-shot-himself-in-texas-police-say) · `en`
+
+A man suspected of shooting and killing eight people in suburban Chicago fatally shot himself after a confrontation with law enforcement officials in Texas, police said late Monday.
+
+Police in Joliet, Illinois, said on Facebook that at about 8:30 p.m. Central time 23-year-old Romeo Nance was located by U.S. Marshals near Natalia, Texas, and that Nance shot himself after a confrontation.
+
+The Medina County Sheriff’s Office in Texas said on Facebook that the agency received a call about a person suspected in the Chicago killings heading into the county on Interstate 35. A standoff then occurred between Nance and police from multiple agencies at a gas station, where Nance shot himself, the sheriff’s office said.
+
+Nance is suspected of fatally shooting eight people at three locations in the Chicago suburbs, sparking a search that left neighbors on edge earlier Monday as police warned he was still on the loose and should be considered “armed and dangerous.”
+
+...
+
+[Data](articles/419942b0.json)
+
+---
+
+### உத்தேச நிகழ்நிலை காப்புச் சட்டமூலத்திற்கு எதிர்ப்புத் தெரிவித்து பாராளுமன்ற பகுதியில் ஆர்ப்பாட்டம் !
+
+*2024-01-23 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/174599) · `ta`
+
+உத்தேச நிகழ்நிலை காப்புச் சட்டமூலத்திற்கு எதிர்ப்புத் தெரிவித்து பாராளுமன்றப் பகுதியில் இன்று செவ்வாய்க்கிழமை (23) ஆர்ப்பாட்டம் ஒன்று இடம்பெற்றுள்ளது.
+
+உத்தேச நிகழ்நிலை காப்புச் சட்டமூலத்தை 2 ஆம் வாசிப்பு மீதான விவாதத்துக்கு சபையில் எடுத்துக்கொள்ள வேண்டாமென எதிர்ப்புத் தெரிவித்தே குறித்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+
+இது மக்களின் பேச்சு சுதந்திரத்தை ஒடுக்குவதாக தெரிவித்து சமூக ஆர்வலர்களால் போராட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+
+ஆனாலும் உத்தேச நிகழ்நிலை காப்புச் சட்டமூலத்தை சபையில் இன்று இரண்டாம் வாசிப்புக்கு  எடுத்துக் கொள்வதா அல்லது ஒத்திவைப்பதா என்பது தொடர்பான வாக்கெடுப்பு 33 மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டுள்ளது. ஆதரவாக 83  வாக்குகளும்,எதிராக 50  வாக்குகளும் அளிக்கப்பட்டதைத்தொடர்து சட்டமூலம் விவாதத்துக்கு எடுத்துக் கொள்ளப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/30e3317e.json)
+
+---
+
+### கொழும்பில் சிசிரிவி கமரா மூலம் கண்காணிக்கப்பட்ட 125 போக்குவரத்து விதிமீறல்கள் தொடர்பில் எச்சரிக்கை!
+
+*2024-01-23 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174596) · `ta`
+
+கொழும்பிலுள்ள  வீதிகளில் நேற்று திங்கட்கிழமை (22) சிசிரிவி கமரா மூலம் கண்காணிக்கப்பட்ட 125 போக்குவரத்து விதிமீறல்கள் தொடர்பாக எச்சரிக்கப்பட்டுள்ளது.
+
+சிசிரிவி கமரா மூலம் போக்குவரத்து விதிமீறல்களை கண்காணித்து வாகன உரிமையாளர்களுக்கு அபராதம் விதிக்கும் முன்னோடித் திட்டம் நேற்று  ஆரம்பமானது.
+
+அதன்படி, கொழும்பில்  சிசிரிவி கமரா மூலம் 125 போக்குவரத்து விதிமீறல்கள் இனங்காணப்பட்டதாகவும் ஆரம்பக் கட்ட நடவடிக்கையாக அந்த வாகனங்களின் உரிமையாளர்களுக்கு எச்சரிக்கை விடுக்கப்பட்டுள்ளதாகவும் பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+
+இனங்காணப்பட்ட விதி மீறல்களில்  பிரதானமாக பாதையை மாற்றியமை மற்றும் தரிப்பு பகுதிகளில் நிறுத்தாமல் வாகனம்  செலுத்தியமை போன்ற தவறுகள் அவதானிக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/01a71e05.json)
+
+---
 
 ### Inflation likely to jump to 7% in January – CBSL Governor
 
@@ -45,6 +99,8 @@ The VAT was increased by 3%, from 15% to 18%, with effect from 01 January 2024, 
 ◼️
 
 [Data](articles/702ce3d7.json)
+
+[Extended Data](ext_articles/702ce3d7.ext.json)
 
 ---
 
@@ -83,6 +139,54 @@ A vote was then taken in Parliament on whether or not to take up the proposed On
 ◼️
 
 [Data](articles/16a12da9.json)
+
+[Extended Data](ext_articles/16a12da9.ext.json)
+
+---
+
+### SriLankan Aviation College made IATA training partner
+
+*2024-01-23 11:45:00* · [`economynextcom`](https://economynext.com/srilankan-aviation-college-made-iata-training-partner-148399/) · `en`
+
+ECONOMYNEXT – SriLankan Aviation College, an arm of Sri Lanka’s national carrier, has become one of seven International Air Transport Association (IATA) training partners in Asia, the airline said.
+
+The college will be offering the Safety Management Systems (SMS) for Maintenance and Repair Operations, IATA Competency-Based Training for Dangerous Goods Instructors and IATA Instructional Design programmes as a Regional Training Partner.
+
+As the aviation sector experiences a revival, it was important to empower the next generation of aviation enthusiasts with the expertise, Stephanie Siouffi-Vareilhes, Director of IATA Training said. “Our partnership with SriLankan Aviation College will be instrumental in nurturing a talented pool of aviation professionals, not only within Sri Lanka but also within the region.”
+
+...
+
+[Data](articles/5dca8891.json)
+
+---
+
+### அதிரடி வாக்கெடுப்பில் 30 மேலதிக வாக்குகள் கிடைத்தன
+
+*2024-01-23 11:39:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடி-வாக்கெடுப்பில்-30-மேலதிக-வாக்குகள்-கிடைத்தன/175-332007) · `ta`
+
+நிகழ்நிலை காப்புச் சட்ட மூலத்தை விவாதத்துக்கு எடுத்துக்கொள்வதா?இல்லையா? என்பது தொடர்பில் சபையில் செவ்வாய்க்கிழமை (23)  அவசர வாக்கெடுப்பு நடத்தப்பட்டது.
+
+அதில், விவாதத்துக்கு எடுத்துக்கொள்வதற்கு  83 வாக்குகளும், விவாதத்துக்கு எடுத்துக்கொள்ளக் கூடாது என்று 53  வாக்குகளும் அளிக்கப்பட்டன. அதன்பிரகாரம் இந்த சட்டமூலம் மீது விவாதத்தை நடத்துவதற்கு  30 மேலதிக வாக்குகள் கிடைத்துள்ளன.
+
+◼️
+
+[Data](articles/a2086b23.json)
+
+---
+
+### ஜனாதிபதி ரணில் விக்கிரமசிங்க நாடு திரும்பினார்
+
+*2024-01-23 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174593) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது உத்தியோகபூர்வ வெளிநாட்டு விஜயத்தை முடித்துக்கொண்டு இன்று செவ்வாய்க்கிழமை (23) காலை நாடு திரும்பியுள்ளார்.
+
+சுவிஸர்லாந்தின் டாவோஸ் நகரில் கடந்த 15 ஆம் திகதி முதல் 19 ஆம் திகதி வரை நடைபெற்ற 54 வது உலக பொருளாதார மாநாட்டில் கலந்துக் கொள்ள ஜனாதிபதி 13ஆம் திகதி சுவிட்சர்லாந்திற்குச் சென்றார்.
+
+அதன் பின்னர் 18ஆம் திகதி உகாண்டாவுக்குப் புறப்பட்டு, கம்பாலாவில் நடைபெற்ற 19 ஆவது அணிசேரா நாடுகளின் உச்சி மாநாட்டில் கலந்து கொண்டார்.
+
+◼️
+
+[Data](articles/a551d4a3.json)
 
 ---
 
@@ -164,6 +268,28 @@ President Ranil Wickremesinghe has ordered the necessary steps to be taken to al
 
 ---
 
+### பெலியத்தையில் ஐவர் சுட்டுக்கொலை : பொலிஸாரால் வெளிப்படுத்தப்பட்ட மேலதிக தகவல்கள்!
+
+*2024-01-23 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174592) · `ta`
+
+தெற்கு அதிவேக நெடுஞ்சாலையின் பெலியத்தை நுழைவாயிலுக்கு அருகில்  எங்கள் மக்கள் சக்தி கட்சியின் தலைவர் சமன் பெரேரா உட்பட  ஐவர் கொல்லப்பட்ட சம்பவம் தொடர்பிலான மேலதிக தகவல்களை பெலியத்த பொலிஸார் வெளியிட்டுள்ளனர்.
+
+திங்கட்கிழமை (22) காலை 8.30 முதல் 8.40 மணிக்குள் இந்தச்  துப்பாக்கிச் சூடு நடத்தப்பட்டதாக  பொலிஸார்  தெரிவித்தனர்.
+
+உயிரிழந்தவர்கள்  வெள்ளை நிற  டிபென்டரில் சென்று கொண்டிருந்தபோது காலை உணவுக்காக டிபென்டர் நிறுத்தப்பட்டபோதே இந்த துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+
+இந்த துப்பாக்கிச் சூட்டில் சமன் பெரேரா உட்பட நால்வர்  சம்பவ இடத்திலேயே உயிரிழந்துள்ளதுடன், காயமடைந்த ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+
+உயிரிழந்த சமன் பெரேரா,  கொலைச் சம்பவம் ஒன்று  தொடர்பில் தங்காலை நீதிமன்றத்தில் தொடரப்பட்டுள்ள வழக்கு ஒன்றுக்காக சென்று கொண்டிருந்தபோதே இந்தச் சம்பவம் இடம்பெற்றுள்ளமை பொலிஸாரின் ஆரம்பக்கட்ட விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+
+உயிரிழந்த எங்கள் மக்கள் சக்தி கட்சியின் தலைவர் சமன் பெரேரா அம்பலாங்கொடையில் உள்ள தனியார் ஹோட்டல் ஒன்றின் உரிமையாளராவார்.
+
+...
+
+[Data](articles/df37c684.json)
+
+---
+
 ### Alert to 125 people identified by CCTV
 
 *2024-01-23 11:21:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CCTV-மூலம்-இனங்காணப்பட்ட-125-பேருக்கு-எச்சரிக்கை/175-332005) · `ta`
@@ -181,6 +307,24 @@ Here are the mistakes of the errors that are mainly changing the path and not st
 [Data](articles/a60f4891.json)
 
 [Extended Data](ext_articles/a60f4891.ext.json)
+
+---
+
+### யுக்தியவை எந்த தனிப்பட்ட நிகழ்ச்சி நிரலின் அடிப்படையிலும் முன்னெடுக்கவில்லை - தேசபந்து தென்னக்கோன்
+
+*2024-01-23 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/174591) · `ta`
+
+யுக்திய நடவடிக்கையை தனிப்பட்ட நிகழ்ச்சிநிரலின் அடிப்படையில் முன்னெடுக்கவில்லை என பதில்பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோன் தெரிவித்துள்ளார்.
+
+யுக்தியவில் தனிப்பட்ட நிகழ்ச்சிநிரல் எதுவுமில்லை பாதளஉலகத்தினரைஅழிப்பது போதைப்பொருள் கடத்தல்காரர்களை கைதுசெய்வது குறித்து மாத்திரமே கவனம் செலுத்தப்படுகின்றது எனவும் அவர் தெரிவித்துள்ளார்.
+
+யுக்தியநடவடிக்கையின்போது துன்புறுத்தல்கள் சித்திரவதைகள் இடம்பெறுகின்றன என்ற குற்றச்சாட்டை நிராகரித்துள்ள அவர் பாதளஉலகத்தினருக்கு எதிரான உறுதியான கரமொன்று அவசியம் எனவும் தெரிவித்துள்ளார்.
+
+பாதாள உலகத்தினர் கடத்தல்காரர்களுடன் எந்த நிகழ்ச்சிநிரலும் இல்லை பாதளஉலகத்தினரை அழிப்பதே எங்களின் பொதுவான நோக்கம் எவருடனும் எந்த தனிப்பட்ட விவகாரமும் இல்லை போதைப்பொருள் பாதளஉலகத்துடன் தொடர்புபட்ட ஒவ்வொரு நபரும் எங்களின் எதிரிகள் எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e5bd5f94.json)
 
 ---
 
@@ -222,6 +366,60 @@ The President had recently left the country to attend the Economic Summit in Dav
 
 ---
 
+### Sri Lanka rupee opens at 319.85/320.10 to the US dollar
+
+*2024-01-23 11:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-319-85-320-10-to-the-us-dollar-148370/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 319.85/320.10 to the US dollar on Tuesday, from 319.90/320.05 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 13.52/58 percent from 13.50/60 percent.
+
+A bond maturing on 15.03.2028 was quoted at 14.00/06 percent from 14.00/14.05 percent.
+
+◼️
+
+[Data](articles/ee5117ed.json)
+
+---
+
+### ஹெளத்தி கிளர்ச்சியாளர்களின் நிலைகள் மீது மீண்டும் அமெரிக்காவும் பிரிட்டனும் தாக்குதல் - கடும் எச்சரிக்கை
+
+*2024-01-23 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/174589) · `ta`
+
+யேமனில் ஹெளத்தி கிளர்ச்சியாளர்களின் நிலைகளை இலக்குவைத்து அமெரிக்காவும் பிரிட்டனும் மீண்டும் தாக்குதல்களை மேற்கொண்டுள்ளன.
+
+ஹெளத்தி கிளர்ச்சியாளர்களின் நிலத்தடி சேமிப்பகங்கள் அவர்களின் ஏவுகணை மற்றும் கண்காணிப்பு நிலைகள் மீது எட்டுக்கும் மேற்பட்ட தாக்குதல்கள் இடம்பெற்றுள்ளதாக பென்டகன் தெரிவித்துள்ளது.
+
+செங்கடலில் பதற்றத்தை தணித்து  இயல்புநிலையை உருவாக்குவதே எங்களின் நோக்கம் உலகின் மிகவும் முக்கியமான நீர்நிலையில் தொடர்ந்தும் அச்சுறுத்தல் காணப்படுகின்ற நிலையில் உயிர்களையும் சுதந்திரமாக வர்த்தகம் நடைபெறுவதையும் பாதுகாக்க நாங்கள் தயங்கமாட்டோம் என்ற எங்களின் எச்சரிக்கையை ஹெளத்தி தலைமைத்துவத்திற்கு மீண்டும் தெரிவித்துக்கொள்கின்றோம் என அமெரிக்காவும் பிரிட்னும் தெரிவித்துள்ளன.
+
+யேமனில் ஹெளத்தி கிளர்ச்சியாளர்களின் நிலைகள் மீது அமெரிக்கா மேற்கொண்டுள்ள எட்டாவது தாக்குதல் இது .பிரிட்டனுடன் இணைந்து மேற்கொண்ட இரண்டாவது தாக்குதல் இது என்பதும் குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a3ff1f3f.json)
+
+---
+
+### எதிர்க்கட்சிகள் சபாநாயகரை சந்தித்து வலியுறுத்தியுள்ள விடயம் !
+
+*2024-01-23 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/174587) · `ta`
+
+நிகழ்நிலை காப்புச் சட்டமூலம் மீதான உத்தேச விவாதத்தை ஒத்திவைக்குமாறு எதிர்க்கட்சிகள்  இணைந்து சபாநாகரிடம் வலியுறுத்தியுள்ளன.
+
+மேலும், இந்த கொடூரமான சட்டத்தை நிறைவேற்றுவதால் ஏற்படும் பாரதூரமான விளைவுகளையும் எதிர்க்கட்சிகளின் பாராளுமன்ற உறுப்பினர்கள் சுட்டிக்காட்டியுள்ளனர்.
+
+அரசாங்கத்தினால் இன்றும் நாளையும் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படவிருந்த நிகழ்நிலை காப்பு தொடர்பான சட்டமூலம் தொடர்பில் கலந்துரையாடுவதற்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் வேண்டுகோளுக்கு இணங்க கட்சித் தலைவர்களின் கூட்டம் இன்று கூட்டப்பட்டது.
+
+இதற்கு முன்னரும், இச்சட்டமூலத்தை உடனடியாக விவாதத்திற்கு எடுத்துக் கொள்ளாது சமூகத்திலுள்ள அனைத்து தரப்பினரின் கருத்துக்களுக்கும் அமைய மீள் வரைவு செய்யுமாறு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சபாநாயகருக்கு எழுத்து மூலம் கோரிக்கை விடுத்திருந்தார்.
+
+இதன் பிரகாரம், இன்று பாராளுமன்றத்தில் கூடிய கட்சித் தலைவர்கள் கூட்டத்தில் இந்த சட்ட மூலத்தை இப்போதைக்கு எடுத்துக் கொள்ள வேண்டாம் என எதிர்க்கட்சியைப் பிரதிநிதித்துவப்படுத்தும் கட்சித் தலைவர்கள் அனைவரும் கோரிக்கை விடுத்தனர்.
+
+◼️
+
+[Data](articles/5c89d945.json)
+
+---
+
 ### Hurry postponed and congregation re -assembled
 
 *2024-01-23 10:59:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசரமாக-ஒத்திவைக்கப்பட்டு-சபை-மீண்டும்-கூடியது/175-332001) · `ta`
@@ -253,6 +451,74 @@ The Sri Lanka Deputy High Commission in Chennai made a proposal to the Governmen
 [Data](articles/6aa824cb.json)
 
 [Extended Data](ext_articles/6aa824cb.ext.json)
+
+---
+
+### யாழில் இரு பஸ்கள் மோதி விபத்து ; 8 பேர் வைத்தியசாலையில் அனுமதி
+
+*2024-01-23 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/174586) · `ta`
+
+யாழ்ப்பாணம் - ஊர்காவற்துறை வீதியில் இன்று செவ்வாய்க்கிழமை (23)  காலை இரண்டு பஸ்கள் மோதி விபத்துக்கு உள்ளாகியுள்ளன.
+
+யாழ். நகரை நோக்கி வந்து கொண்டிருந்த இலங்கை போக்குவரத்து சபை பஸ் ஒன்றும் தனியார் பஸ் ஒன்றும் மோதியே விபத்து இடம்பெற்றுள்ளது என முதல் கட்ட விசாரணைகளில் தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/8738d851.json)
+
+---
+
+### Sri Lanka plans tourist promotional campaign from March
+
+*2024-01-23 10:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-tourist-promotional-campaign-from-march-148382/) · `en`
+
+ECONOMYNEXT – Sri Lanka Tourism Promotion Bureau will start a 1.5 billion rupee promotional campaign in 11 key markets starting in March as part of efforts to boost arrivals, Chairman Chalaka Gajabahu said, as the South Asian island recovers from an economic crisis.
+
+The target markets include India, China, Russia, UK, France, Germany, South Korea, Japan, Australia, and Scandinavian countries.
+
+An advertising agency for creative work is selected and tender for digital and public relations work has been floated, he said.
+
+Sri Lanka is working with social media influencers, including Nas Daily who has been contracted to create three videos on why tourists should visit Sri Lanka, why investors should invest, and on Sri Lanka’s tea, he told reporters earlier in January.
+
+The video will be translated to 18 different languages including Mandarin.
+
+Sri Lanka’s Tourism Promotion Bureau said that it had attracted over 100 influencers in 2023.
+
+...
+
+[Data](articles/37d114b7.json)
+
+---
+
+### அனைத்து ஊடகவியலாளர்களுக்கும் மொபிடெல் உபகார சலுகை பெகேஜை வழங்குமாறு ஜனாதிபதி பணிப்பு !
+
+*2024-01-23 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174576) · `ta`
+
+மொபிடெல் நிறுவனத்தினால் அரச ஊழியர்கள் மற்றும் ஓய்வூதியம் பெறுவோருக்கு வழங்கப்படும் உபகார பெகேஜை, புதிய சலுகைகளுடன் மீண்டும் வழங்க தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க, இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தும் ஆணைக்குழுவிற்கு பணிப்புரை விடுத்துள்ளார்.
+
+அதன்படி, இதன் பயனை அனைவருக்கும் வழங்குமாறும், அந்த சலுகை பெகேஜை அரசாங்க தகவல் திணைக்களத்தில் பதிவுசெய்துள்ள அனைத்து ஊடகவியலாளர்களுக்கும் வழங்குவதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறும் இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தும் ஆணைக்குழுவிற்கு ஜனாதிபதி,மேலும் பணிப்புரை விடுத்துள்ளார்.
+
+◼️
+
+[Data](articles/16bf1c20.json)
+
+---
+
+### சபாநாயகர் சபைக்கு அறிவித்துள்ள முக்கிய விடயங்கள் !
+
+*2024-01-23 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174584) · `ta`
+
+உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலத்துக்கு எதிராக 6 மனுக்கள் உயர்நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு அறிவித்துள்ளார்.
+
+அத்துடன் நுண்கடன் மற்றும் கடன் ஒழுங்குபடுத்தல் அதிகாரசபை சட்டமூலத்துக்கு எதிராக 2 மனுக்கள் உயர்நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுள்ளதாகவும் சபாநாயகர் சபைக்கு அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+அரசியலமைப்பின் 121 (1) சரத்துக்கு அமைய  உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலத்துக்கு எதிராக  உயர்நீதிமன்றத்தில் ஆறு அடிப்படை உரிமை மீறல் மனுக்கள்  தாக்கல் செய்யப்பட்டுள்ளதுடன் அதன் பிரதிகள் கிடைக்கப் பெற்றுள்ளன.
+
+அதேபோல் நுண்கடன் மற்றும் கடன் ஒழுங்குபடுத்தல் அதிகார சபை சட்டமூலத்துக்கு எதிராக  அரசியலமைப்பின் 121 (1) சரத்துக்கு அமைய உயர்நீதிமன்றத்தில் இரண்டு அடிப்படை உரிமை மீறல் மனுக்களும் தாக்கல் செய்யப்பட்டு அதன் பிரதிகள் கிடைக்கப் பெற்றுள்ளன என்றார்.
+
+◼️
+
+[Data](articles/82a21f35.json)
 
 ---
 
@@ -312,6 +578,24 @@ As a result, some of the transfer cycles given under the Annual Transfers have n
 
 ---
 
+### நிகழ்நிலை பாதுகாப்பு சட்டம் அரசாங்கத்தை மேலும் ஏதேச்சதிகார தன்மை வாய்ந்ததாக மாற்றும் - எரான்
+
+*2024-01-23 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174583) · `ta`
+
+நாடாளுமன்றத்தில் இன்றும் நாளையும் விவாதிக்கப்படவுள்ள நிகழ்நிலை பாதுகாப்பு சட்டம் மக்களின் பேச்சுசுதந்திரத்திற்கு பாரிய அடியாக அமையும் என ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் எரான் விக்கிரமரட்ண தெரிவித்துள்ளார்.
+
+சமூக ஊடகங்களில் பெண்கள் சிறுவர்களின் உரிமைகளை பாதுகாப்பதே இந்த சட்டத்தின் நோக்கங்களில் ஒன்று என அரசாங்கம் தெரிவிக்கின்றது எனினும் அந்த சட்டமூலத்தில் பெண்கள் சிறுவர்கள் என்ற வார்த்தையே இல்லை என நாடாளுமன்ற உறுப்பினர் தெரிவித்துள்ளார்.
+
+நிகழ்நிலை பாதுகாப்பு சட்டமூலம் நிறைவேற்றப்பட்டால் பொலிஸார் நீதிமன்ற உத்தரவின்றி பத்திரிகையாளர்கள் சிவில் சமூக செயற்பாட்டாளர்களின் மொபைல்போன்களை பறிமுதல் செய்யலாம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+சட்டமூலத்தில் ஜனநாயக விரோத அம்சங்கள் உள்ளன இந்த சட்டமூலம் மக்களி;ன் சுதந்திரத்தை பறிக்கும் எனவும் எரான் விக்கிரமரட்ண தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/8df514b2.json)
+
+---
+
 ### President to visit Sri Lanka
 
 *2024-01-23 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192459) · `si`
@@ -323,6 +607,22 @@ President Ranil Wickremesinghe has come to the island this morning with Ranil Wi
 [Data](articles/63867c41.json)
 
 [Extended Data](ext_articles/63867c41.ext.json)
+
+---
+
+### தினேஷ் ஷாப்டரின்  தொலைபேசி  சிம் அட்டையை  மனைவியிடம் ஒப்படைப்பது தொடர்பில் நீதிவானின் தீர்மானம்!
+
+*2024-01-23 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/174582) · `ta`
+
+கொலை செய்யப்பட்ட வர்த்தகர் தினேஷ் ஷாப்டரின் கையடக்க தொலைபேசியின்  சிம் அட்டையை அவரது மனைவியிடம் ஒப்படைப்பது தொடர்பான கோரிக்கை அரசாங்க இராசாயன பகுப்பாய்வு  பிரிவினரின் அறிக்கை கிடைத்த பின்னர் பரிசீலிக்கப்படும் என கொழும்பு மேலதிக நீதிவான் ஹர்ஷண கெக்குணுவெல தெரிவித்துள்ளார்.
+
+தனது கணவர் கொல்லப்படுவதற்கு முன்னர் பயன்படுத்திய தொலைபேசி இலக்கத்தைக் காட்டும் புதிய சிம்கார்டைப் பெற்றுக் கொள்வதற்கான உத்தரவை பிறப்பிக்குமாறு தினேஷ் ஷாப்டரின் மனைவி விடுத்த கோரிக்கை தொடர்பிலேயே நீதிவான் மேற்கண்டவாறு தெரிவித்தார்.
+
+தினேஷ் ஷாஃப்டரின் கொலை தொடர்பாக விசாரணைகள் தொடர்ந்து இடம்பெறுவதாகவும் எனவே, அவரது மனைவிக்கு புதிய சிம் கார்டை வழங்கும் கோரிக்கையை நிராகரிக்குமாறு குற்றப் புலனாய்வுத் திணைக்களம் நீதிமன்றில் முன்வைத்த கோரிக்கையை  பரிசீலித்தபோதே நீதிவான் இந்த அறிவிப்பை விடுத்தார்.
+
+◼️
+
+[Data](articles/c1b46666.json)
 
 ---
 
@@ -349,6 +649,18 @@ Meanwhile, the five people have come to participate in a Defender car belonging 
 [Data](articles/3904fa13.json)
 
 [Extended Data](ext_articles/3904fa13.ext.json)
+
+---
+
+### சபை நடவடிக்கைகள் ஒத்திவைப்பு - காரணம் இது தான் !
+
+*2024-01-23 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/174581) · `ta`
+
+நிகழ்நிலை காப்புச் சட்டமூலத்தை இரண்டாம் வாசிப்புக்கு எடுத்துக் கொள்வது தொடர்பில் கட்சித் தலைவர் கூட்டத்தில் தீர்மானம் எடுப்பதற்காக சபை நடவடிக்கைகள் தற்காலிகமாக ஒத்தி வைக்கப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/0810ed2e.json)
 
 ---
 
@@ -425,6 +737,36 @@ The meeting took place in the Speaker's official room and discussed the bill of 
 [Data](articles/c5e30ee9.json)
 
 [Extended Data](ext_articles/c5e30ee9.ext.json)
+
+---
+
+### யாழ். நெடுந்தீவில் 06 தமிழக மீனவர்கள் கைது
+
+*2024-01-23 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/174577) · `ta`
+
+யாழ்ப்பாணம் - நெடுந்தீவு கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட 06 தமிழக  மீனவர்கள் இன்று செவ்வாய்க்கிழமை (23) அதிகாலை கைது செய்யப்பட்டுள்ளனர்.
+
+சுற்றுக்காவல் நடவடிக்கையில் ஈடுபட்டு இருந்த கடற்படையினர் , இலங்கை கடற்பரப்பினுள் அத்து மீறி நுழைந்து கடற்தொழில் ஈடுபட்டு இருந்த தமிழக  மீனவர்களை கைது செய்ததுடன், அவர்களின் இரண்டு படகுகளையும் மீட்டு இருந்தனர்.
+
+கைது செய்யப்பட்ட மீனவர்களை கடற்தொழில் நீரியல் வளத்துறை திணைக்களம் ஊடாக ஊர்காவற்துறை நீதவான் நீதிமன்றில் முற்படுத்த கடற்படையினர் நடவடிக்கை எடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/a487f509.json)
+
+---
+
+### அமெரிக்காவில் துப்பாக்கிச்சூட்டில் 8 பேர் பலி
+
+*2024-01-23 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174575) · `ta`
+
+அமெரிக்காவின் சிக்காக்கோ நகரில் ஜுலியட் பகுதியில் செவ்வாய்க்கிழமை (22) துப்பாக்கிச்சூட்டுச் சம்பவங்கள்  இடம்பெற்றுள்ளது.
+
+இந்த துப்பாக்கிச்சூட்டு சம்பம் குறித்து தகவலறிந்த பொலிஸார் சம்பவ இடத்திற்கு விரைந்து சென்று உயிரிழந்தவர்களின் உடல்களை மீட்டு அருகில் உள்ள வைத்தியசாலைக்கு அனுப்பி வைத்துள்ளனர். மேலும், துப்பாக்கிச்சூடு நடத்திவிட்டு தப்பியோடிய ரோமியோ நான்சியை தீவிரமாக தேடி வருகின்றனர்.
+
+◼️
+
+[Data](articles/15f83b9b.json)
 
 ---
 
@@ -513,6 +855,26 @@ Of the 633 suspects arrested for drug offenses, seven suspects have been detaine
 [Data](articles/a2825cbd.json)
 
 [Extended Data](ext_articles/a2825cbd.ext.json)
+
+---
+
+### சீனா - கிர்கிஸ்தான் எல்லையில் பாரிய பூகம்பம்
+
+*2024-01-23 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174572) · `ta`
+
+சீனாவில் திங்கட்கிழமை (22) நள்ளிரவில் 7.0 ரிச்டர் அளவில் சக்தி வாய்ந்த பூகம்பம் ஏற்பட்டுள்ளதாக அந்நாட்டு தேசிய புவியியல் ஆய்வு மையம் தெரிவித்துள்ளது.
+
+இந்த பூகம்பம் சீனா - கிர்கிஸ்தான் எல்லையை ஒட்டி அமைந்துள்ள ஜின் ஜியாங் மாகாணத்தை மையமாகக் கொண்டு  ஏற்பட்டுள்ளது.
+
+இந்த பூகம்பத்தின் மையம் தரைமட்டத்தில் இருந்து 80 கிலோ மீற்றர் ஆழத்தில் அமைந்திருந்ததாக புவியியல் ஆய்வு மையம் கூறியுள்ளது.
+
+இந்த பூகம்பத்தால் ஏற்பட்ட சேதங்கள் குறித்த விவரங்கள் விரைவில் வெளியிடப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+
+இதனிடையே சீனாவில் ஏற்பட்ட பூகம்பத்தின் தாக்கத்தால் இந்தியாவின் டெல்லி உள்ளிட்ட பிற பகுதிகளிலும் நில அதிர்வு உணரப்பட்டதால் பரபரப்பு ஏற்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7727b2f9.json)
 
 ---
 
@@ -659,6 +1021,26 @@ The Board took note of the effects of the recent developments in taxation and su
 [Data](articles/acd88347.json)
 
 [Extended Data](ext_articles/acd88347.ext.json)
+
+---
+
+### Sri Lanka keeps policy rates unchanged, CB wants market interest to fall
+
+*2024-01-23 07:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-keeps-policy-rates-unchanged-cb-wants-market-interest-to-fall-148309/) · `en`
+
+ECONOMYNEXT – Sri Lanka central bank kept its policy rate unchanged at 10 percent in the first monetary policy meeting in 2024 saying market rates should fall further.
+
+The central bank has operated largely deflationary policy (selling down its Treasury bills portfolio against dollar inflows), preventing pressure on the currency and building reserves (running balance of payments surplus).
+
+Over the past month, the exchange rate has appreciated, which may also help offset a 3 percent hike in value added tax in traded commodities, analysts say.
+
+“The Board took note of the effects of the recent developments in taxation and supply-side factors that are likely to pose upside pressures on inflation in the near term,” a statement said.
+
+“However, the Board viewed that the impact of these developments would not materially change the medium-term inflation outlook.”
+
+...
+
+[Data](articles/6cae3b40.json)
 
 ---
 
@@ -1527,433 +1909,5 @@ The proposed change-over from “Horton Place” in Colombo 7 to “Sir Ponnamba
 [Data](articles/6d808796.json)
 
 [Extended Data](ext_articles/6d808796.ext.json)
-
----
-
-### Unleashing drones of war: The escalating menace and national security perils
-
-*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Unleashing-drones-of-war-The-escalating-menace-and-national-security-perils/172-275518) · `en`
-
-Drones in warfare are primarily used for surveillance, intelligence gathering, propaganda, and strikes
-
-In the realm of drone warfare, Stealth and Survivability are important factors
-
-Technology that classifies drones will usually be able to separate drones from other types of objects-like planes, trains, and automobiles
-
-State Actors, such as the United States, China, and Russia, have invested heavily in the development of sophisticated drone technology using Advanced Technology
-
-The Ukrainian battlespace features the most intensive use of drones in a military conflict in history, marking a shift in warfare tactics and technology
-
-Nations need to strike a balance between fostering innovation in the drone industry and ensuring robust security measures to prevent misuse
-
-...
-
-[Data](articles/84e69137.json)
-
-[Extended Data](ext_articles/84e69137.ext.json)
-
----
-
-### January 01-18 tourist  arrivals reach 121,000 mark
-
-*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/January-01-18-tourist-arrivals-reach-121-000-mark/108-275541) · `en`
-
-The tourist arrivals to the island nation for the first 18 days of January crossed the 121,000 mark.
-
-The provisional data from the Sri Lanka Tourism Development Authority showed that from January 01 to 18, the island nation welcomed 121,446 international visitors.
-
-While the weekly arrival average for January so far is around 45,000, the daily arrival average is about 6,747.
-
-The Russian Federation currently ranks as the largest tourist traffic generator for Sri Lanka, a position it has held since the beginning of 2024. It accounted for 16 percent of the total arrivals for January so far.
-
-Neighbouring giant India, which was the largest source market throughout 2023, ranks in the second position, bringing in 15 percent of the tourists to the island nation.
-
-The United Kingdom ranks the third, accounting for 8 percent of the total arrivals.
-
-The other key markets include Germany, China, France and Australia.
-
-◼️
-
-[Data](articles/85c1d3d9.json)
-
-[Extended Data](ext_articles/85c1d3d9.ext.json)
-
----
-
-### We need a Foolproof Mechanism for Presidential Pardon
-
-*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/We-need-a-Foolproof-Mechanism-for-Presidential-Pardon/172-275516) · `en`
-
-Many hailed the recent Supreme Court ruling on the case against the granting of Presidential pardon to former Parliamentarian Duminda Silva who had been convicted for the murder of former Presidential Advisor Bharatha Lakshman Premachandra on October 8, 2011, calling it a landmark judgement. However, their stand on the mater does not seem to be so different than the decision by former President Gotabaya Rajapaksa to grant the pardon to Silva. Both were politically driven.
-
-The irony of the decision by former President Rajapaksa was that at the time of the murder, both Silva and Premachandra were working closely with him, one as a monitoring MP for the Defence Ministry to which Gotabaya Rajapaksa was the Secretary, and the other as the Advisor to former President Mahinda Rajapaksa on trade union affairs. However, the family of Premachandra distanced themselves from the government alleging that the government of the day was siding with Silva during the investigations.
-
-...
-
-[Data](articles/c0f907b5.json)
-
-[Extended Data](ext_articles/c0f907b5.ext.json)
-
----
-
-### Spreading Hope Globally:  Rotary International President’s Visit to Sri Lanka
-
-*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Spreading-Hope-Globally-Rotary-International-Presidents-Visit-to-Sri-Lanka/172-275520) · `en`
-
-The forthcoming four-day visit by President of Rotary International,  Gordon R. McInally aims to fortify bonds and encourage collaboration  between Rotary International and the enthusiastic Rotary community in  Sri Lanka
-
-Rotary International, a globally acclaimed humanitarian  organization boasting 35,000 clubs spread across over 220 countries,  plays a pivotal role in diverse charitable activities on a global scale
-
-...
-
-[Data](articles/d7143787.json)
-
-[Extended Data](ext_articles/d7143787.ext.json)
-
----
-
-### Sri Lanka’s Innovation Levers,IT and Biotech Surge
-
-*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sri-Lankas-Innovation-Levers-IT-and-Biotech-Surge/172-275521) · `en`
-
-Tapping into advanced technologies, such as all-photonics networks and quantum and edge computing, could be the linchpin in harnessing what’s beyond the horizon. Imagine a tomorrow where Sri Lanka paves its tech avenues with 5G, virtual reality, and augmented reality — a visionary dreamscape manifesting in real-time, shaking the foundations of its economic and competitive stratum
-
-A leap into the innovation frontier has its challenges. The lack of extensive citation networks, a shortfall in venture capital funding, and skill mismatches represent the systemic constraints strangling the pipeline of creativity and opportunity. Sri Lanka stares down these bottlenecks, aware that overcoming them is a prelude to any genuine advancement in global standing
-
-...
-
-[Data](articles/f138251f.json)
-
-[Extended Data](ext_articles/f138251f.ext.json)
-
----
-
-### 2024-01-22 (Monday)
-
-### NMRA, CID seize computers, medicine samples from infamous plant in Seeduwa
-
-*2024-01-22 23:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/NMRA-CID-seize-computers-medicine-samples-from-infamous-plant-in-Seeduwa/108-275519) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - The National Medicines Regulatory Authority (NMRA) and Criminal Investigation Department (CID) who visited the controversial plant involved in the human immunoglobulin scam today for the second day, searched the entire premises prior to taking several computers and samples of medicines into custody for further inquiries, the police said.
-
-The NMRA and CID officials following a court order visited the plant belonging to Isolez Biotech Pharma AG (Pvt) Ltd. in Amandoluwa in Seeduwa for the second day, as the owner cum first suspect of the scam Sudath Janaka Fernando did not cooperate with the officials during the first factory visit on January 8.
-
-...
-
-[Data](articles/b924687b.json)
-
-[Extended Data](ext_articles/b924687b.ext.json)
-
----
-
-### Minorities and system change
-
-*2024-01-22 23:15:47* · [`dailyftlk`](https://www.ft.lk/columns/Minorities-and-system-change/4-757642) · `en`
-
-Unless that political culture is removed and replaced with a secular democratic culture there is no
-
-hope for ethnic and religious minorities to live in Sri Lanka with dignity, freedom and justice
-
-To the two minorities therefore the choice is starkly evident. Either they vote for a leader and party that advocates system change to bring about a new socio-economic order grounded in integrational politics, secular democracy and corruption free governance or vote for a champion of the old system that has kept the nation divided since independence, immiserised the economy and created a class of political parvenus thriving on public wealth. Alternatively, if the Tamils decide to boycott the election that would be suicidal
-
-...
-
-[Data](articles/449e9b72.json)
-
-[Extended Data](ext_articles/449e9b72.ext.json)
-
----
-
-### ‘Faith’ the only way to Sanity
-
-*2024-01-22 23:13:31* · [`dailyftlk`](https://www.ft.lk/columns/Faith-the-only-way-to-Sanity/4-757641) · `en`
-
-Thank you Sinna for your message via the toothpaste service Signal. I am not qualified to pronounce on this but those in the know say it’s so secure that the Moneypenny’s, Sallay’s, M’s, of this world have a hard time tracking you when it’s on the toothpaste variety known as Signal.
-
-The Presidential visit to the unfortunate area known as the former conflict areas surely must denote that electioneering has started in earnest. No matter what anyone says especially our fellow citizenry from the deep South, from the agricultural areas around Medamulana too, the next leader of our country will be elected through polls where the minorities play a crucial role.
-
-...
-
-[Data](articles/78465d8f.json)
-
-[Extended Data](ext_articles/78465d8f.ext.json)
-
----
-
-### Govt to pay monthly welfare allowance to over 16,000 institutionalised persons
-
-*2024-01-22 23:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96635/govt-to-pay-monthly-welfare-allowance-to-over-16000-institutionalised-persons) · `en`
-
-The government will pay a monthly welfare allowance of Rs. 2,000 through the district secretaries from January 2024 to approximately 16,146 institutionalised persons who have benefited under the Samurdhi programme, says the Acting Finance Minister.
-
-In a tweet, Shehan Semasinghe said this will include clergy in Piriven, children’s homes, elderly homes and disabled persons who are in caregiving homes.
-
-◼️
-
-[Data](articles/05218cc5.json)
-
-[Extended Data](ext_articles/05218cc5.ext.json)
-
----
-
-### Secretary General refutes reports of constant violence against women in Parliament and lack of action
-
-*2024-01-22 23:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96634/secretary-general-refutes-reports-of-constant-violence-against-women-in-parliament-and-lack-of-action) · `en`
-
-The Secretary General of the Parliament Mrs. Kushani Rohanadeera has said that the reports that there is constant sexual harassment towards female staff members and female Members of Parliament in Parliament and that proper investigations and measures are not being taken are completely false.
-
-Issuing a statement, the Secretary General emphasized that when such incidents related to disciplinary violations in the Parliament are reported, investigations related to them are carried out very impartially under the guidance of the Speaker and the Speaker did not interfere or influence in any way other than giving his assistance at best towards holding speedy investigations.
-
-...
-
-[Data](articles/0d987de1.json)
-
-[Extended Data](ext_articles/0d987de1.ext.json)
-
----
-
-### Stop the “strategy” action immediately
-
-*2024-01-22 23:02:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்திய-நடவடிக்கையை-உடனடியாக-நிறுத்துங்கள்/175-331977) · `ta`
-
-The United Nations expert panel has made a request to immediately stop the strategic operation that is currently being implemented.
-
-The committee has urged the authorities to focus on issues such as health and human rights. Remble
-
-◼️
-
-[Data](articles/1a4b3b07.json)
-
-[Extended Data](ext_articles/1a4b3b07.ext.json)
-
----
-
-### South Africa dazzles on global stage as Russia assumes BRICS chairmanship
-
-*2024-01-22 23:01:54* · [`dailyftlk`](https://www.ft.lk/columns/South-Africa-dazzles-on-global-stage-as-Russia-assumes-BRICS-chairmanship/4-757635) · `en`
-
-The presentation at the International Court of Justice (ICJ) by 8 legal experts on behalf of South Africa was dazzling, perfectly structured, scripted and choreographed, and flawlessly executed throughout. The moral outrage in the tone of presentation was effectively rendered, and resonated with most of the world. It thereby stands tall today as the new moral force shining a light on barbarism, wresting the self-acclaimed title from countries in the West that chose to back the accused in this case
-
-Original BRICS member and last year’s chair of BRICS, South Africa gained the admiration and appreciation of most of the world for its moral courage and example in acting to intervene in the horrific tragedy in Gaza by taking legal action at the Hague against Israel’s “genocidal acts” in its conduct of the war, calling inter alia, for an urgent ruling in favour of the immediate suspension of hostilities. It also won enormous respect for delivering its case with impressive competence and style.
-
-...
-
-[Data](articles/50c73b15.json)
-
-[Extended Data](ext_articles/50c73b15.ext.json)
-
----
-
-### Merlina & Mission
-
-*2024-01-22 22:59:00* · [`islandlk`](http://island.lk/merlina-mission/) · `en`
-
-Dubai seems to be the number one destination for Merlina Fernando and that’s where she is at the moment, since early 2023, operating as Merlina & Mission.
-
-They are being featured at the Citymax Hotel Bur Dubai and are doing this scene as a trio.
-
-This is not Merlina’s first assignment in Dubai; her very first trip was in 2006 with the band Dream Team, and, since then, she has been checking out Dubai on a regular basis.
-
-Before travelling to Dubai, Merlina was performing with her husband, as a duo, in the Maldives.
-
-Initially, they operated as a four-piece outfit, when they got to Dubai in 2023, but at a different venue.
-
-Says Merlina: “We got a good offer and so we decided to switch venues, and the Citymax Hotel Bur Dubai, where we now perform, is awesome.
-
-“We are featured at the High So, six nights a week, from 9.30 pm onwards, along with a DJ, and the crowd is great, and we are extremely happy doing our thing here.”
-
-...
-
-[Data](articles/393392d9.json)
-
-[Extended Data](ext_articles/393392d9.ext.json)
-
----
-
-### Sri Lankan pianist at luxury resort
-
-*2024-01-22 22:53:00* · [`islandlk`](http://island.lk/sri-lankan-pianist-at-luxury-resort/) · `en`
-
-Shahen Thilakaratne is a professional pianist, music producer, music educator, and entrepreneur with an unusual musical gift: at the age of five he could play the piano/keyboards fluently, by ear. It was his mother, he says, who who urged him to do Classical piano exams.
-
-After he completed his education, at Isipathana College, Colombo, he was trained by maestro Sri Lankan pianist Harsha Makalande, a highly respected musician in the scene here.
-
-Recently, Shahen got an invitation to perform in the Maldives, at Cheval Blanc Randheli – a French five-star luxury private island resort, in the northwest of the Maldives, managed by Louis Vuitton.
-
-He was given the opportunity to perform for the festive season by the hotel management.
-
-This resort has been visited by many A-list celebrities, including Demi Lovato, John Legend and Deepika Padukone.
-
-Shahen performed as a solo pianist at the resorts premium restaurants, mainly the Le 1947, Deelani, and Diptyque.
-
-...
-
-[Data](articles/0fe75782.json)
-
-[Extended Data](ext_articles/0fe75782.ext.json)
-
----
-
-### Special offer from January to Government
-
-*2024-01-22 22:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192446) · `si`
-
-The government has decided to pay 16,146 institutional persons to receive a 2,146 institutional persons to benefit from the Samurdhi program.
-
-State Minister of State Shehan Semasinghe has made this statement.
-
-The allowance will be available for the disabled persons, children, adult homes, the children, children, adult homes.
-
-◼️
-
-[Data](articles/b0461e2a.json)
-
-[Extended Data](ext_articles/b0461e2a.ext.json)
-
----
-
-### oneworld unveils its first-ever dedicated lounge experience in Seoul
-
-*2024-01-22 22:23:00* · [`islandlk`](http://island.lk/oneworld-unveils-its-first-ever-dedicated-lounge-experience-in-seoul/) · `en`
-
-Breaking new ground in premium benefits and luxury air travel, the oneworld® alliance unveiled its first ever fully branded dedicated airport lounge in Seoul.
-
-The new oneworld lounge opens as the world’s leading airline alliance prepares to celebrate its landmark 25th anniversary later this year.
-
-For the launch of its first branded lounge, oneworld collaborated with global aviation ground services provider Swissport and the team behind its award-winning ASPIRE Airport Lounges.
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/8dd1d454.json)
-
-[Extended Data](ext_articles/8dd1d454.ext.json)
-
----
-
-### ‘Colossal amounts of vegetables and fruits going waste in SL due to non-adoption of greenhouse technology’
-
-*2024-01-22 22:21:00* · [`islandlk`](http://island.lk/colossal-amounts-of-vegetables-and-fruits-going-waste-in-sl-due-to-non-adoption-of-greenhouse-technology/) · `en`
-
-Sri Lanka farmers should adopt more affordable high tech/mid tech farming methods, such as greenhouse cultivation, to increase yield and minimize post- harvest waste in fruit and vegetable produce, like in Netherlands, chairman, Agri Innovation and Lassana Group of companies Dr. Lasantha Malavige said.
-
-“Netherlands being half the size of Sri Lanka, is the second largest fresh food exporter in the world. It adopts state- of- the- art technology, like the greenhouse concept, to ensure higher yields against environmental/climate and other external and internal changes, Malavige told the media at a function at the Hilton Colombo last week.
-
-At the function Malavige announced that his company had entered into a partnership agreement with Ginegar India and Agrilast India, to open its doors to advanced green solutions for local farmers to ensure higher yield and safer food production for Sri Lanka.
-
-...
-
-[Data](articles/7210874f.json)
-
-[Extended Data](ext_articles/7210874f.ext.json)
-
----
-
-### Reservations among investors over April deadline in restructuring effort
-
-*2024-01-22 22:20:00* · [`islandlk`](http://island.lk/reservations-among-investors-over-april-deadline-in-restructuring-effort/) · `en`
-
-The stock market yesterday kicked off on a positive note but the positives were short lived.
-
-This was on account of local and foreign investors having reservations over the possibility of concluding the external debt restructuring process, especially with commercial creditors, before the IMF’s next review meeting in April, market analysts said.’
-
-Last week the IMF team was in Sri Lanka to review the process and commended Sri Lanka’s progress, but emphasized that the external debt restructuring, especially with commercial creditors, needs to be completed before April.
-
-Amid those developments both indices moved downwards. The All- Share Price Index went down by 61.2 points and S and P SL20 declined by 27.8 points. Turnover stood at Rs 978 million with two crossings. Those crossings were reported in Wind Force, which crossed 25 million shares to the tune of Rs 482 million; its shares traded at Rs 19.70 and Renuka Foods 6 million shares crossed for Rs 120 million and its shares sold at Rs 20.
-
-...
-
-[Data](articles/8ba4a72f.json)
-
-[Extended Data](ext_articles/8ba4a72f.ext.json)
-
----
-
-### Dhaka send concussion sub outside of players’ list, stir fresh controversy in BPL
-
-*2024-01-22 22:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Dhaka-send-concussion-sub-outside-of-players-list-stir-fresh-controversy-in-BPL/108-275523) · `en`
-
-Jan. 22 (thedailystar) - Durdanto Dhaka's Sri Lankan opener Danushka Gunathilaka left the field retired hurt after getting struck on the with the ball early on in the innings in their ongoing Bangladesh Premier League match against the Chattogram Challengers at the Sher-e-Bangla National Cricket Stadium in Dhaka today.
-
-Dhaka sent in another Sri Lankan Lasith Croospulle as his concussion substitute. However, this substitution has led to controversy as Croospulle was not part of the 15-man squad Dhaka had submitted for the match.
-
-The general rule is that teams have to send in a concussion substitute from the players list submitted ahead of the match.
-
-Chattogram complained to the match referee Rakibul Hasan after Croopsulle was sent in as a substitute for Gunathilaka, who informed them that Dhaka were within their rights to do so.
-
-...
-
-[Data](articles/f051b517.json)
-
-[Extended Data](ext_articles/f051b517.ext.json)
-
----
-
-### Stop justice operation immediately - Human Rights Commission
-
-*2024-01-22 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192445) · `si`
-
-A group of UN has called for immediate action to be temporarily suspended immediately.
-
-They say that authorities should focus on health and human rights.
-
-UN Experts * Expressed Alarm at The Heavy Security-Driven Appproach of Sri Lanka'S Drug Response. They Callet on Authorize Respenind And Review SO-Calaled Operation 'yukthiya' and fotolt opies based on health and human rightts.
-
-"Drug Users have Human Rights," The Experts SAID. "They Deserve to Live a Life With DIGNITY WITHER DISCRIMINATION AND STIGMATISATION."
-
-The DEPLORED REPORTED CASES OF ThoUGITRARY ARRESTS OF ThoUGITRARY ARRESTS OF THUSANDS OF DRUG OFFENDERS OF THUSANDS OF DRUG OFFENDERS OF DRUG OFFERSS. TOTURE AND ILL-TREATMENT Wee OPORED DURING THE Security Operation Known As 'Yuktiya'.
-
-"The Current Constext of Severe Repression Against Suspected Drug Offenders is Drywardly Worrying," The Experts Said.
-
-...
-
-[Data](articles/0da3ab73.json)
-
-[Extended Data](ext_articles/0da3ab73.ext.json)
-
----
-
-### Measles vaccine already administered to 91% of children – Health Minister
-
-*2024-01-22 21:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96633/measles-vaccine-already-administered-to-91-of-children-health-minister) · `en`
-
-Health Minister Dr. Ramesh Pathirana announced a staggering 91% vaccination rate for measles among children, a crucial step in combating a recent resurgence of the disease after eradication. This achievement demonstrates the country’s dedication to proactive healthcare, he said.
-
-Speaking at a media briefing on Monday, Dr. Pathirana outlined further health priorities for 2024. Disease prevention takes centre stage, with plans to bolster primary healthcare services and improve efficiency for patients. Prompt access to essential resources is also a key focus, he stressed.
-
-However, tackling non-communicable diseases (NCDs) remains a major challenge. Over 20% of Sri Lankans battle diabetes, and the country holds the dubious distinction of having the highest prevalence of high blood pressure among over-35s in South Asia. Addressing these concerns and their associated complications like heart disease and stroke is critical for Sri Lanka’s long-term health, the minister said.
-
-...
-
-[Data](articles/720f251c.json)
-
-[Extended Data](ext_articles/720f251c.ext.json)
-
----
-
-### Brother's hostile attack dies
-
-*2024-01-22 21:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192444) · `si`
-
-His younger brother was killed in a potential assault on the eldest brother.
-
-The victim was 55 year old resident of the Sarpentine Road, Borella, Sarpentine Road.
-
-The suspect's eldest brother has been attacked by the suspect's eldest brother, after the argument with his elder brother was drunk while drinking.
-
-The victim was admitted to the Colombo National Hospital and was admitted to the Colombo National Hospital.
-
-The two of them are addicted to drugs and drinking.
-
-Police have arrested the 59-year-old monk and the assassination of the suspected sustains and was to be produced before the court.
-
-◼️
-
-[Data](articles/2220f678.json)
-
-[Extended Data](ext_articles/2220f678.ext.json)
 
 ---

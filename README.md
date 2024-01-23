@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 21:52:30**
+As of **2024-01-23 22:06:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ tamilmirrorlk | 272
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,152 (100.0%) of 2,153 articles have been extended.
+2,153 (100.0%) of 2,153 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ They also brought to light the fact that the AIC was not made aware of any amend
 ...
 
 [Data](articles/adff3c6e.json)
+
+[Extended Data](ext_articles/adff3c6e.ext.json)
 
 ---
 

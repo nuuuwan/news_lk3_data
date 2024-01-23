@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 08:10:37**
+As of **2024-01-23 08:17:53**
 
 ## Newspaper Stats
 
-*Scraped **1,929** Articles*
+*Scraped **1,935** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 31
 bbccomsinhala | 42
-adaderanasinhalalk | 109
 islandlk | 110
+adaderanasinhalalk | 115
 newsfirstlk | 116
 economynextcom | 118
 dbsjeyarajcom | 121
@@ -26,11 +26,25 @@ dailymirrorlk | 240
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,929 (100.0%) of 1,929 articles have been extended.
+1,929 (99.7%) of 1,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### පොලී අනුපාත ගැන මහ බැංකුවෙන් නිවේදනයක්
+
+*2024-01-23 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192454) · `si`
+
+පොලී අනුපාත නොවෙනස්ව පවත්වාගෙන යෑමට ශ්‍රී ලංකා මහ බැංකුවේ මුදල් ප්‍රතිපත්ති මණ්ඩලය තීරණය කර තිබේ.
+
+ඊයේ (22) පැවති රැස්වීමේ දී නිත්‍ය තැන්පතු පහසුකම් අනුපාතිකය 9%ක සහ නිත්‍ය ණය පහසුකම් අනුපාතිකය 10%ක දැනට පවතින මට්ටම්වලම පවත්වාගෙන යෑමට ඒ අනුව තීරණය කර ඇතැයි මහ බැංකුව නිවේදනය කළේය.
+
+◼️
+
+[Data](articles/2cd15fe4.json)
+
+---
 
 ### Police suspect shooting carried out in retaliation for a triple murder
 
@@ -108,6 +122,46 @@ Mainly fair weather will prevail in the other areas of the island.
 
 ---
 
+### දින 20ක් තුළ ඩෙංගු මරණ 3ක්
+
+*2024-01-23 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192453) · `si`
+
+ජාතික ඩෙංගු මර්දන ඒකකය සඳහන් කළේ, මේ වසරේ ගත වූ පළමු දින 20 තුළ මෙම මරණ වාර්තා වන බවය.
+
+මේ වසරේ ගතවූ කාලය තුළ දිවයින පුරා ඩෙංගු රෝගීන් 7,507 දෙනෙකු වාර්තා වී තිබේ.
+
+ඉන් වැඩිම රෝගීන් සංඛ්‍යාවක් යාපනය දිස්ත්‍රික්කයෙන් වාර්තා වී ඇති අතර එම සංඛ්‍යාව 1,602කි.
+
+කොළඹ දිස්ත්‍රික්කයෙන් රෝගීන් 1,536ක් වාර්තා වී ඇති අතර ගම්පහ දිස්ත්‍රික්කයෙන් රෝගීන් 637ක් වාර්තා වී තිබේ.
+
+මේ අතර ඩෙංගු රෝග ව්‍යාප්තිය පාලනය කිරීම සඳහා ජනතාවගෙන් ලැබෙන සහය ප්‍රමාණවත් නොවන බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/a3bb0192.json)
+
+---
+
+### වාර්ෂික ස්ථාන මාරුවීම් ගැන රාජ්‍ය සේවා කොමිෂන් සභාවෙන් දැඩි තීරණයක්
+
+*2024-01-23 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192452) · `si`
+
+වාර්ෂික ස්ථාන මාරුවීම් යටතේ 2024 වර්ෂය සඳහා ලබාදී ඇති ස්ථානමාරුවීම් වහාම ක්‍රියාත්මක කරන ලෙස සියලු අමාත්‍යංශ ලේකම්වරුන්ගෙන් හා දෙපාර්තමේන්තු ප්‍රධානීන්ගෙන් රාජ්‍ය සේවා කොමිෂන් සභාව ඉල්ලීමක් කර තිබේ.
+
+රාජ්‍යසේවා කොමිෂන් සේවා සභාවේ ලේකම්වරයා විසින් ලිඛිතව අදාළ දැනුම් දීම සිදුකර ඇති බව වාර්තා වේ.
+
+2024 වර්ෂය සඳහා වාර්ෂික ස්ථාන මාරුවීම්වලට අදාළව රාජ්‍ය සේවා කොමිෂන් සභාව වෙත ලැබී ඇති අභියාචනා සම්බන්ධයෙන් ද කොමිෂන් සභාවේ තීරණ මේ වන විට දැනුම් දී තිබුණ ද තවදුරටත් විවිධ පාර්ශව වෙතින් ඉල්ලීම් ඉදිරිපත් වන බව රාජ්‍ය සේවා කොමිෂන් සභාව පවසයි.
+
+මේ හේතුවෙන් වාර්ෂිත ස්ථාන මාරුවීම් යටතේ ලබා දී ඇති ඇතැම් ස්ථානමාරු චක්‍ර ක්‍රියාවට නැංවිය නොහැකි වී ඇති අතර එම නිසා අදාළ ස්ථානමාරුවීම් චක්‍රවල සිටින අනෙකුත් නිලධාරීන් අගතියට පත්ව ඇති බව රාජ්‍ය සේවා කොමිෂන් සභාව පෙන්වා දෙයි.
+
+වාර්ෂික ස්ථාන මාරුවීම් සම්බන්ධයෙන් රාජ්‍ය සේවා කොමිෂන් සභාව විසින් ලබාදී ඇති තීරණ පිළිබඳව අතෘප්තියට පත්වන නිලධාරීන්ට පරිපාලන අභියාචන විනිශ්චය අධිකාරිය වෙත සිය අභියාචනා ඉදිරිපත් කිරීමේ හැකියාව පවතින බව රාජ්‍ය සේවා කොමිෂන් සභාව පවසයි.
+
+...
+
+[Data](articles/dffd8d6b.json)
+
+---
+
 ### Major 7.0 earthquake hits China-Kyrgyzstan border
 
 *2024-01-23 07:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96636/major-70-earthquake-hits-china-kyrgyzstan-border) · `en`
@@ -132,6 +186,24 @@ One Aksu resident told Xinhua that people rushed outside for safety amid the sha
 
 ---
 
+### මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත අද පාර්ලිමේන්තුවට
+
+*2024-01-23 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192451) · `si`
+
+‍මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය අද (23) පැවැත්වීමට නියමිතව තිබේ.
+
+පෙරවරු 09.30ට පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර එහිදී මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් මෙම පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+ශ්‍රේෂ්ඨාධිකරණය ඉදිරිපත් කළ සංශෝධනයන්ට යටත්ව මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කිරීම සඳහා මාධ්‍ය, තාරුණ්‍ය, උරුමය හා නූතන පුරවැසියා පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ අනුමැතිය ද ඊයේ (22) හිමිවුණි.
+
+ශ්‍රී ලංකාව තුළ සිද්ධියක් පිළිබඳ ඇතැම් ප්‍රකාශ මාර්ගගත ලෙස සන්නිවේදනය කිරීම තහනම් කිරීම පිණිස විධි විධාන සැලසීම සඳහා ද තම නම් කාර්යය සඳහා මාර්ගගත ගිණුම් සහ ව්‍යාජ මාර්ගගත ගිණුම් භාවිත කිරීම වැළැක්වීම සඳහා මෙම පනත් කෙටුම්පත මඟින් ප්‍රතිපාදන සලසා තිබේ.
+
+...
+
+[Data](articles/a067ebb3.json)
+
+---
+
 ### SMS ‘e-Referendum’ on the Online Safety Bill launched
 
 *2024-01-23 06:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SMS-e-Referendum-on-the-Online-Safety-Bill-launched/108-275550) · `en`
@@ -145,6 +217,24 @@ While expressing grave concerns raised by critics that, by imposing imprisonment
 [Data](articles/773db3c7.json)
 
 [Extended Data](ext_articles/773db3c7.ext.json)
+
+---
+
+### චීනයේ ප්‍රබල භූ කම්පනයක්
+
+*2024-01-23 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192450) · `si`
+
+බටහිර චීනයේ ෂින් ජියෑන් පළාතේ ප්‍රබල භූ කම්පනයක් සිදුව තිබේ.
+
+අද (23) අලුයම 2ට පමණ රික්ටර් මාපක 7.1ක ප්‍රබලත්වයකින් යුතුව මෙම භූ කම්පනය සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+භූ කම්පනයත් සමඟ නිවාස 02ක් කඩා වැටී ඇති අතර එරට දුම්රිය ගමන් වාර රැසක් අත්හිටුවීමට ද පියවර ගෙන තිබේ.
+
+විදුලි රැහැන් පද්ධති කඩා වැටීම් හේතුවෙන් කලාපයේ විදුලි සැපයුම ද ඇනහිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/b9e9fd2b.json)
 
 ---
 
@@ -165,6 +255,24 @@ They deplored reported cases of arbitrary arrests of thousands of drug offenders
 [Data](articles/32bf7be2.json)
 
 [Extended Data](ext_articles/32bf7be2.ext.json)
+
+---
+
+### අද කාලගුණය
+
+*2024-01-23 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192448) · `si`
+
+සබරගමුව පළාතේත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (23) ප.ව. 4.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පැවැතිය හැකි බවය.
+
+හිමිදිරි උදෑසන කාලයේදී  නුවරඑළිය දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මල්තුහින ඇතිවීමේ හැකියාවක් පවතී.
+
+සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+
+◼️
+
+[Data](articles/0205bdc7.json)
 
 ---
 
@@ -1897,123 +2005,5 @@ We expect you to maintain this neutral position, even when you face pressure fro
 [Data](articles/a405cfa4.json)
 
 [Extended Data](ext_articles/a405cfa4.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 319.90/320.05 to the US dollar
-
-*2024-01-22 17:06:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-319-90-320-05-to-the-us-dollar-148245/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 319.90/320.05 to the US dollar on Monday, from 320.20/40 the previous day, dealers said.
-
-A bond maturing on 01.06.2025 closed at 13.15/30 percent from 13.20/30 percent.
-
-A bond maturing on 01.02.2026 closed at 13.50/60 percent from 13.60/65 percent.
-
-A bond maturing on 15.03.2028 closed stable at 14.00/14.05 percent.
-
-A bond maturing on 15.07.2029 closed stable at 14.10/25 percent.
-
-A bond maturing on 15.05.2030 closed at 14.00/15 percent from 14.05/10 percent.
-
-A bond maturing on 01.07.2032 closed at 14.10/30 percent from 14.10/20 percent.
-
-Date of announcement of the Monetary Policy Review: No. 01 of 2024 – Tuesday, January 23, 2024 at 7.30 am. (Colombo/Jan22/2024)
-
-◼️
-
-[Data](articles/fdbaa7fd.json)
-
-[Extended Data](ext_articles/fdbaa7fd.ext.json)
-
----
-
-### Create smart roads before creating smart drivers, Anjana tells government, police
-
-*2024-01-22 16:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Create-smart-roads-before-creating-smart-drivers-Anjana-tells-government-police/108-275504) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - The Inter Provincial Private Bus Association (IPPBA) today requested the government and the police to create smart roads before creating smart drivers.
-
-Addressing the media association's secretary, Anjana Priyanjith said the government and the police must keep in mind that they are unable to create smart drivers without having smart roads.
-
-"We questioned the Police Department to find out and tell them whether a higher number of fatal accidents occur in Colombo town or out of Colombo. We know the cause of the fatal accidents in Colombo town. We saw the sons of VIP officials, police officers and other higher-ranking officials who used to meet with fatal accidents during the night under the influence of alcohol. We do not know whether proper legal action was taken against them," he said.
-
-...
-
-[Data](articles/2fb7d0d5.json)
-
-[Extended Data](ext_articles/2fb7d0d5.ext.json)
-
----
-
-### AKD’s NPP-JVP & the Generic Left Aren’t Doing Their Best to Win
-
-*2024-01-22 16:50:00* · [`islandlk`](http://island.lk/akds-npp-jvp-the-generic-left-arent-doing-their-best-to-win/) · `en`
-
-The Left has the best chance of being elected to office in Sri Lanka since 1964 or 1947. That’s speculative. So let me put it more clearly. Never in my lifetime has the Left been closer to assuming governmental power by democratic means, i.e., leading the country. We have never been closer to having a left-wing leader and administration.
-
-Society is dividing between those who think that’s a good thing and those who think it’s bad. As Mao said in his first political essay on the Peasant Movement in Hunan, opinion is divided between those who say “it’s fine” and those who say “it’s terrible”. Mao thought it was fine.
-
-We had a similar division of opinion during the Aragalaya. Opinion remains divided about it. I was among those who said “it’s fine”. Ranil thought it was fine and then that it was terrible. The Pohottuwa thought it was terrible all along.
-
-...
-
-[Data](articles/fe351010.json)
-
-[Extended Data](ext_articles/fe351010.ext.json)
-
----
-
-### A bleak forecast for 2024 and beyond : Politics (security), economics and military
-
-*2024-01-22 16:48:00* · [`islandlk`](http://island.lk/a-bleak-forecast-for-2024-and-beyondpolitics-security-economics-and-military/) · `en`
-
-This piece uses the vast amount of information on the web, social-media, broadcasts and news sites. My role is to use what limited intelligence providence has endowed me with to select and filter. I hope this will be of service to readers who do not have the patience to explore all the available information themselves. Nations are fretful above all else of existential concerns, that is politics in the sense of security, not politics in the familiar but vulgar sense of endemic corruption. Once existence is assured the second matter to focus on is material well-being; prosperity, employment, wealth and so on broadly falling under the umbrella term ‘the economy’. My accent in this piece is on the Great Powers (America, China and Russia) though discussion of the Middle East (the Muslim World and Israel) is unavoidable.
-
-...
-
-[Data](articles/7e2d0222.json)
-
-[Extended Data](ext_articles/7e2d0222.ext.json)
-
----
-
-### Minister Kanchana slammed over ‘mud-slinging’ campaign targeting CEB staff
-
-*2024-01-22 16:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96626/minister-kanchana-slammed-over-mud-slinging-campaign-targeting-ceb-staff) · `en`
-
-The Ceylon Electricity Board Engineers’ Union (CEBEU) has accused Sri Lanka’s Power and Energy Minister Kanchana Wijesekera of attempting to generate public anger towards CEB and its staff, as part of what they claim is his “ongoing efforts to harass CEB staff to position himself as a hero in the eyes of the public”.
-
-Responding to a recent claim made by the Minister on ‘X’ (formerly Twitter), alleging that the CEB had provided financial facilities to the tune of Rs. 12 billion to it employees, the CEB Engineers’ Union highlighted that “CEB staff, like other employees in both public and private sector institutions, including LECO and PUCSL, do enjoy benefits beyond their basic salary”.
-
-Accusing the Minister of carrying out a ‘mud-slinging’ campaign, CEB condemned Minister Wijesekera’s for treating CEB employees like ‘criminals’.
-
-...
-
-[Data](articles/105c3667.json)
-
-[Extended Data](ext_articles/105c3667.ext.json)
-
----
-
-### Chamari named captain of ICC Women’s T20I Team of the Year
-
-*2024-01-22 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96625/chamari-named-captain-of-icc-womens-t20i-team-of-the-year) · `en`
-
-Sri Lankan all-rounder and Women’s Team Captain Chamari Athapaththu has been named in the ICC Women’s T20I Team of the Year for 2023, and has been honoured with the team captaincy.
-
-The ICC Team of the Year recognises 11 outstanding individuals who have impressed throughout 2023, be it with the bat, the ball or their all-round exploits.
-
-The  ICC Women’s T20I Team of the Year for 2023 is as follows:
-
-The veteran Sri Lankan started the year with a Player of the Match performance in Cape Town in the ICC Women’s T20 World Cup, smashing 68 off 50 balls to help Sri Lanka beat South Africa by three runs. The big upset win set the tone for a remarkable year for Sri Lanka women and Athapaththu was at the forefront of it all.
-
-She finished with 470 runs in the year, scoring at a quicker-than-usual strike-rate of 130.91. With 15 sixes in the year, she also hit a personal high in Women’s T20Is.
-
-...
-
-[Data](articles/f13480c0.json)
-
-[Extended Data](ext_articles/f13480c0.ext.json)
 
 ---

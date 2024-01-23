@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 05:17:13**
+As of **2024-01-23 05:37:31**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ tamilmirrorlk | 239
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,916 (99.9%) of 1,917 articles have been extended.
+1,917 (100.0%) of 1,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### பயங்கரவாத எதிர்ப்பு சட்டமூலம் எதிராக மனுத்தாக்கல்
+### Anti -terrorism
 
 *2024-01-23 02:36:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பயங்கரவாத-எதிர்ப்பு-சட்டமூலம்-எதிராக-மனுத்தாக்கல்/175-331985) · `ta`
 
-அரசாங்கத்தினால் முன்வைக்கப்பட்டுள்ள உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலத்திற்கு எதிராக ஐக்கிய மக்கள் சக்தி,  உயர் நீதிமன்றத்தில் திங்கட்கிழமை (22) மனுத்தாக்கல் செய்தது.
+The United People's Power filed a petition in the Supreme Court on Monday (22) against the proposed anti -terrorism bill presented by the government.
 
-ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளரும் பாராளுமன்ற உறுப்பினருமான ரஞ்சித் மத்துமபண்டார இந்த மனுவை, ஜனாதிபதி சட்டத்தரணி பர்மான் காசிம் ஊடாக தாக்கல் செய்துள்ளார்.
+Ranjith Mathumabandara, the general secretary of the United People's Power and Member of Parliament, has filed the petition through President's Attorney Burman Kasim.
 
-மனுவை தாக்கல் செய்ததன் பின்னர் ஊடகங்களுக்கு கருத்துரைத்த ரஞ்சித் மத்தும பண்டார எம்.பி,
+Ranjith Mathuma Bandara MP, who commented to the media after the filing of the petition
 
-“தேர்தல்கள் நடக்கவிருக்கும் இந்த காலப்பிரிவில்,எதிர்க்கட்சியின் ஜனநாயகத்துக்கு விடுக்கப்பட்ட சவாலே இந்த பயங்கரவாத எதிர்ப்பு சட்டமூலமாகும். யுத்தமொன்று இல்லாத தேர்தல் காலத்திலேயே இந்த பயங்கரவாத எதிர்ப்பு சட்டமூலத்தை கொண்டு வந்துள்ளனர்.
+“In this period of elections, this is the challenge of the opposition's democracy.. The anti -terrorism bill has been introduced during the election period.
 
-...
+The definition of terrorism in the law, who is the terrorist?No definition is mentioned in this legal source. Any person can be arrested.. This is why we have filed a petition against this law to protect the democracy of the country.
+
+General Secretary Ranjith Mathuma Bandara has accused the government of bringing this status law and the anti -terrorism legislation in an election year to repress the demise and the opposition parties.
+
+◼️
 
 [Data](articles/95faf9fd.json)
+
+[Extended Data](ext_articles/95faf9fd.ext.json)
 
 ---
 

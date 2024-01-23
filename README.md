@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 12:04:06**
+As of **2024-01-23 12:17:25**
 
 ## Newspaper Stats
 
-*Scraped **1,988** Articles*
+*Scraped **1,990** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ colombotelegraphcom | 31
 bbccomsinhala | 42
 newsfirstlk | 116
 economynextcom | 118
-adaderanasinhalalk | 121
 dbsjeyarajcom | 121
 islandlk | 122
+adaderanasinhalalk | 123
 dailyftlk | 171
 virakesarilk | 195
 adalk | 203
@@ -26,11 +26,27 @@ tamilmirrorlk | 260
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,988 (100.0%) of 1,988 articles have been extended.
+1,988 (99.9%) of 1,990 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### උද්ධමනය ඉහළ යා හැකි බවට පුරෝකථනයක්
+
+*2024-01-23 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192462) · `si`
+
+වැට් වැඩිවීම හේතුවෙන් ජනවාරි මාසයේ උද්ධමනය 7%ක පමණ අගයක් දක්වා ඉහළ යා හැකි බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+අද (23) මහ බැංකුවේ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා වැඩිදුරටත් පවසා සිටියේ, ගිය මාසයේ 4%ක්ව පැවති උද්ධමනය වැට් සහ කාලගුණ තත්ත්වයන් හේතුවෙන් මෙලෙස ඉහළ යා හැකි බවට පුරෝකථනය කරන බවය.
+
+"ඉදිරියේ දී අපේ උද්ධමන ඉලක්කය 5%ක්. එය 4% - 6%ක් වගේ සාමාන්‍ය අගයක් පවත්වාගෙන යෑමට බලාපොරොත්තු වෙනවා. ඒ නිසා මේ වෙලාවේ වෙළෙඳ පොළ පොලිය අනුපාතවලට යම්කිසි ආකාරයකට හැඩ ගැසෙන්න අවස්ථාව දීලා තියෙනවා. අපේ පොලිය අනුපාතය ස්ථාවරව පවත්වා ගත්තේ. ඉදිරියේදී අපි නැවත සලකා බලනවා. එතෙක් අපි ප්‍රතිපත්ති පොලී අනුපාතය නොවෙනස්ව පවත්වා ගන්නවා."
+
+◼️
+
+[Data](articles/c92d202b.json)
+
+---
 
 ### Parliamentary vote on whether to debate Online Safety Bill
 
@@ -75,6 +91,22 @@ The jab is known to be effective in at least 36% of cases, according to US resea
 [Data](articles/c281054f.json)
 
 [Extended Data](ext_articles/c281054f.ext.json)
+
+---
+
+### ඔන්ලයින් පනත ගැන ඡන්දයක්
+
+*2024-01-23 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192461) · `si`
+
+ඔන්ලයින් ආරක්ෂණ පනත් කෙටුම්පත විවාදයට ගන්නේද නැද්ද යන්න පිළිබඳව තීරණය කිරීම සඳහා ඡන්ද විමසීමක් පැවැත්වීමට පාර්ලිමේන්තුව තීරණය කළේය.
+
+එම ඡන්ද විමසීමේදී අදාළ ඔන්ලයින් ආරක්ෂණ පනත් කෙටුම්පත විවාදයට ගැනීමට පක්ෂව ඡන්ද 83ක් සහ විපක්ෂව ඡන්ද 50ක් හිමිවිය.
+
+ඒ අනුව එම පනත් කෙටුම්පත විවාදයට ගැනීම වැඩි ඡන්ද 33කින් සම්මත වීමත් සමග විවාදය ආරම්භ කෙරුණි.
+
+◼️
+
+[Data](articles/b81e3df3.json)
 
 ---
 
@@ -1927,45 +1959,5 @@ He told reporters that the President can dissolve parliament at any time after f
 [Data](articles/3ea36727.json)
 
 [Extended Data](ext_articles/3ea36727.ext.json)
-
----
-
-### UN experts call on Sri Lanka to immediately suspend and review ‘Yukthiya’ anti-drug operation
-
-*2024-01-22 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96632/un-experts-call-on-sri-lanka-to-immediately-suspend-and-review-yukthiya-anti-drug-operation) · `en`
-
-UN experts on Monday expressed alarm at the heavy security-driven approach of Sri Lanka’s drug response. They called on authorities to immediately suspend and review so-called Operation ‘Yukthiya’ and to focus on policies based on health and human rights.
-
-“Drug users have human rights,” the experts said. “They deserve to live a life with dignity without facing further discrimination and stigmatisation.”
-
-They deplored reported cases of arbitrary arrests of thousands of drug offenders from marginalised socio-economic groups, and the detention of hundreds in compulsory military-run rehabilitation centres. Torture and ill-treatment were also reported during the security operation known as ‘Yukthiya’.
-
-“The current context of severe repression against suspected drug offenders is deeply worrying,” the experts said.
-
-...
-
-[Data](articles/d1594782.json)
-
-[Extended Data](ext_articles/d1594782.ext.json)
-
----
-
-### 220 kilos of cannabis in Yala reserve arrested
-
-*2024-01-22 20:50:55* · [`adalk`](https://www.ada.lk/breaking_news/යාලේ-රක්ෂිතයේ-තිබූ-ගංජා-කිලෝ-220ක්-අල්ලයි/11-407675) · `si`
-
-According to information provided by the Army Intelligence Unit, 220 kilos of marijuana have been arrested in the Yala forest reserve in a raid convention with the Sri Lanka Army and Gonagangara Police.
-
-The cannabis was implemented at 11 km away from the FDI reserve and was Rs. 110 kilograms at the time.
-
-The Army intelligence has been arrested in the Yala Forest Reserve and 1570 kilograms of marijuana have been arrested in the second rare in five days.
-
-Gonagankara Police are conducting further investigations.
-
-◼️
-
-[Data](articles/1a6817cc.json)
-
-[Extended Data](ext_articles/1a6817cc.ext.json)
 
 ---

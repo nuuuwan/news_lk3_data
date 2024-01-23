@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 23:52:01**
+As of **2024-01-24 00:03:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,164 (99.7%) of 2,170 articles have been extended.
+2,170 (100.0%) of 2,170 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ SJB General Secretary Ranjith Madduma Bandara who commented on the matter denied
 
 [Data](articles/c20d49d1.json)
 
+[Extended Data](ext_articles/c20d49d1.ext.json)
+
 ---
 
 ### New Bill soon to protect consumers from online businesses: Minister
@@ -63,6 +65,8 @@ He told Parliament that there are no legal provisions in Sri Lanka to protect th
 ◼️
 
 [Data](articles/a6d5a618.json)
+
+[Extended Data](ext_articles/a6d5a618.ext.json)
 
 ---
 
@@ -102,6 +106,8 @@ Commenting on the Online Safety Bill, he told Parliament that the government was
 
 [Data](articles/77acf9f3.json)
 
+[Extended Data](ext_articles/77acf9f3.ext.json)
+
 ---
 
 ### From basement boys to League leaders; How Lewke transformed CR & FC
@@ -118,31 +124,37 @@ At the start of the season when Daily Mirror interviewed CR head coach Lewke sta
 
 [Data](articles/9be76880.json)
 
+[Extended Data](ext_articles/9be76880.ext.json)
+
 ---
 
-### අමෙරිකාව සහ බ්‍රිතාන්‍යය තවත් ප්‍රහාර මාලාවක් දියත් කරයි
+### America and Britain launches another series of attacks
 
 *2024-01-23 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192486) · `si`
 
-රතු මුහුදේ වෙළෙඳ නෞකාවලට ප්‍රහාර එල්ල කරන යේමනයේ හූති කැරලිකරුවන්ගේ ඉලක්ක වෙත අමෙරිකානු සහ බ්‍රිතාන්‍යය හමුදා නව ප්‍රහාර මාලාවක් දියත් කර තිබේ.
+US and Britain troops have launched a series of new attacks on the targets of Yemen in Yemen who attacked the Red Sea Trade vessels.
 
-හූති කැරලිකරුවන්ගේ භූගත අවි ගබඩා මෙන්ම මිසයිල සහ සන්නිවේදන හැකියාවන් අඩපණ කිරීම එම ප්‍රහාරවල අරමුණ වී ඇත.
+The attacks are the purpose of the attacks of the demonstrators' ground-arms storage as well as the groundwelling capabilities of the demons.
 
-යේමනයේ බහුතර ප්‍රදේශයක පාලන බලය හිමිකරගෙන සිටින හූති කැරළිකරුවන් රතු මුහුදේ නෞකාවලට ප්‍රහාර එල්ල කරන්නේ ගාසා තීරයේ පලස්තීනුවන්ට සහෝදරත්වය පළ කරන බව පවසමිනි.
+The Houthi rebels who hold control of a majority in a majority of Yemen are attacking the Red Sea by the Red Sea.
 
-කෙසේ නමුත් මෙම ප්‍රහාර හේතුවෙන් ගෝලීය නෞකා භාණ්ඩ ප්‍රවාහනයට බාධාවන් මතුවී ඇති අතර ගෝලීය උද්ධමනය ඉහළ නැංවීමට ද එය හේතුවනු ඇතැයි විශ්වාස කෙරෙයි.
+However, the transportation of global ships has caused hindrances to the transportation of global ships, and it is believed to increase global inflation.
 
-සිය නවතම ප්‍රහාරවලදී අමෙරිකානු සහ බ්‍රිතාන්‍ය හමුදා යේමනයේ ඉලක්ක 08ක් වෙත ප්‍රහාර එල්ලකර ඇති බව පෙන්ටගනය ප්‍රකාශ කරයි.
+The Pentagon states that the US and British troops have attacked eight targets in the latest strikes.
 
-ඔස්ට්‍රේලියාව, බහරේනය, කැනඩාව සහ නෙදර්ලන්තය ද එම ප්‍රහාර සඳහා සහාය දක්වා තිබේ.
+Australia, Bahrain, Canada and the Netherlands also supported the attack.
 
-අමෙරිකානු යුද නෞකාවලින් නික්මුණු ප්‍රහාරක යානා මගින් ද යේමනයේ ඉලක්ක වෙත ප්‍රහාර එල්ලකර ඇති බව වාර්තා වෙයි.
+It is reported that the tariffs of US war vessels have also attacked the targets of Yemen.
 
-නමුත් රතු මුහුදේ නෞකාවලට එල්ල වන තර්ජනය තවමත් අවසන් වී නොමැත.
+But the threat to the Red Sea is not yet over.
+
+America and Britain says they were able to reduce the ability to attacking complex attacks to the demon rebels.
 
 ...
 
 [Data](articles/fd785a48.json)
+
+[Extended Data](ext_articles/fd785a48.ext.json)
 
 ---
 
@@ -240,25 +252,29 @@ A group of individuals staged a protest in Colombo today urging the authorities 
 
 ---
 
-### ඊශ්‍රායල් යුද්ධයට ඇති විසඳුම කියයි
+### The solution to the Israeli war says
 
 *2024-01-23 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192485) · `si`
 
-දකුණු දිග ගාසා තීරයේ ඛාන් යුනිස් නගරය අත්පත් කරගැනීමට සටන් වදින ඊශ්‍රායල හමුදා එහි එක් රෝහලකට කඩා වැඳී තවත් රෝහලක් වටලද්දී ඒවායේ සිටින අහිංසක ජනතාවට හානිනොවන ලෙස කටයුතු කරන්නැයි අමෙරිකාව ඉල්ලීමක් කර තිබේ.
+Israeli troops confronted with one hospital in the southern Gaza, and the United States has requested the innocent people when they were destroyed by another hospital.
 
-කෙසේ නමුත් ඛාන් යුනිස් නගරයට ගුවනින්, ගොඩබිමෙන් සහ මුහුදෙන් එල්ලවන ප්‍රහාර පසුගිය ඔක්තෝබරයේ සටන් ඇරඹුණු පසු දරුණුතම තත්ත්වයකට පත්වී ඇති බව පලස්තීනුවන් පවසයි.
+However, Palestinians say that the attacks on fire, land and sea attacks on fire, land and sea were attacked in the city of Khan Unis.
 
-ඊශ්‍රායල හමුදා දකුණු දිග ගාසා තීරයේ ඛාන් යුනිස් නගරයට බටහිර දෙසින් මධ්‍යධරණී වෙරළාසන්නව පිහිටි අල්-මවාසි නගරයට ඊයේ ප්‍රථම වරට පිවිසුනු අතර, එහි පිහිටි අල්-ඛයීර් රෝහලට කඩාවැඳී වෛද්‍ය කාර්යමණ්ඩලය අත්අඩංගුවට ගෙන තිබුණි.
+Israeli troops went west of the Mediterranerane coast to Khan Unisk, the West of Mediterranerane, the Mediterranerarita Coastal Coast, and arrested the Medical Staff to the Al-Khatier Hospital.
 
-රෝහලේ තත්ත්වය සම්බන්ධයෙන් ඊශ්‍රායලය කිසිඳු ප්‍රකාශයක් සිදුකර නොමැති අතර ඊශ්‍රායල හමුදා ප්‍රකාශක කාර්යාලය ඒ පිළිබඳ කිසිවක් පැවසීම ප්‍රතික්ෂේප කර තිබේ.
+The Israeli Army spokesman office had refused to say anything about the situation at the hospital.
 
-මේ අතර ඊශ්‍රායල හමුදාව නිකුත් කළ නවතම නිවේදනයේ දැක්වෙන්නේ ගතවූ පැය 24 තුළ ඊශ්‍රායල හමුදා සෙබළුන් 24 දෙනෙකු ජීවිතක්ෂයට පත්වූ බවය.
+The latest announcement issued by the Israeli Army indicated that 24 Israeli soldiers were killed in the past 24 hours.
 
-එය ඊශ්‍රායල හමාස් යුද්ධයෙන් දිනක් තුළ ඊශ්‍රායල හමුදාවට සිදුවු වැඩිම ජීවිත හානි සංඛ්‍යාව බව විදෙස් වාර්තා සඳහන් කරයි.
+It is the highest number of casualties to the Israeli Army for a day from the war of Israeli Hamas.
+
+The victims were destroyed by 21 soldiers who were killed through a tank of Hamas rockets of Hamas rockets.
 
 ...
 
 [Data](articles/40540fc7.json)
+
+[Extended Data](ext_articles/40540fc7.ext.json)
 
 ---
 

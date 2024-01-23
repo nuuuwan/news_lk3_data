@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 20:51:08**
+As of **2024-01-23 21:02:33**
 
 ## Newspaper Stats
 
-*Scraped **2,146** Articles*
+*Scraped **2,147** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ dailyftlk | 171
 adalk | 221
 virakesarilk | 235
 dailymirrorlk | 263
-adaderanalk | 268
+adaderanalk | 269
 tamilmirrorlk | 272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,146 (100.0%) of 2,146 articles have been extended.
+2,147 (100.0%) of 2,147 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### Lands under Forest Dept. to be released for agriculture and tourism - State Minister
+
+*2024-01-23 20:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/96671/lands-under-forest-dept-to-be-released-for-agriculture-and-tourism-state-minister) · `en`
+
+State Minister for Rural Economy K. Kader Masthan, stated that negotiations for releasing lands under the Forest Department for agriculture and tourism have already commenced.
+
+The Minister of State also highlighted that the restoration of 61 tanks has been initiated for the agricultural development of the Mannar and Vavuniya districts.
+
+State Minister for Rural Economy, K. Kader Masthan, conveyed this information during his participation in a press conference held at the Presidential Media Centre (PMC) today (23), focusing on the theme ‘Collective path to a stable country.’
+
+“We initially anticipated a prolonged economic recovery period for the country. However, President Ranil Wickremesinghe expedited the stabilization process promptly and swiftly stabilized the economy. The President deserves gratitude for that.
+
+...
+
+[Data](articles/38ae1a45.json)
+
+[Extended Data](ext_articles/38ae1a45.ext.json)
+
+---
 
 ### The High Court adjourned the verdict
 
@@ -2049,17 +2069,5 @@ Accordingly, the officer in charge of the authorities has assured me to instruct
 [Data](articles/77f764bb.json)
 
 [Extended Data](ext_articles/77f764bb.ext.json)
-
----
-
-### Car clashes on train
-
-*2024-01-23 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192463) · `si`
-
-◼️
-
-[Data](articles/4d5a4405.json)
-
-[Extended Data](ext_articles/4d5a4405.ext.json)
 
 ---

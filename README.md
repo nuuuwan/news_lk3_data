@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 23:17:07**
+As of **2024-01-23 23:33:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ tamilmirrorlk | 273
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,163 (100.0%) of 2,164 articles have been extended.
+2,164 (100.0%) of 2,164 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,7 +40,7 @@ Police have recovered the vehicle which is suspected to have been used by the su
 
 The vehicle was found abandoned in a shrubby area at Godella in Kaduwela, Police said, adding that it had been torched beyond recognition.
 
-According to police, however, another white vehicle, bearing the same licence plate as that of the vehicle the suspects had arrived in, was found in a garage in Eluwila, Panadura.
+According to police, however, another vehicle, bearing the same licence plate as that of the vehicle the suspects had arrived in, was found in a garage in Eluwila, Panadura.
 
 Earlier today, four unidentified individuals had arrived in a car at the temple, and carried out the shooting and fled the scene afterwards, police reported, adding that the shooters had claimed to officers from the Criminal Investigations Department (CID).
 
@@ -49,6 +49,8 @@ The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustai
 ...
 
 [Data](articles/5dee2b83.json)
+
+[Extended Data](ext_articles/5dee2b83.ext.json)
 
 ---
 

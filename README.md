@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 10:50:44**
+As of **2024-01-23 11:02:27**
 
 ## Newspaper Stats
 
-*Scraped **1,974** Articles*
+*Scraped **1,976** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 31
 bbccomsinhala | 42
 newsfirstlk | 116
-adaderanasinhalalk | 118
 economynextcom | 118
+adaderanasinhalalk | 120
 dbsjeyarajcom | 121
 islandlk | 122
 dailyftlk | 171
@@ -26,11 +26,25 @@ tamilmirrorlk | 254
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,974 (100.0%) of 1,974 articles have been extended.
+1,976 (100.0%) of 1,976 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### President to visit Sri Lanka
+
+*2024-01-23 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192459) · `si`
+
+President Ranil Wickremesinghe has come to the island this morning with Ranil Wickremesinghe today (23).
+
+◼️
+
+[Data](articles/63867c41.json)
+
+[Extended Data](ext_articles/63867c41.ext.json)
+
+---
 
 ### Parliament adjourned for special party leaders meeting
 
@@ -85,6 +99,26 @@ Further investigations have been handed over to the Wellampitiya Police.
 [Data](articles/d86e3240.json)
 
 [Extended Data](ext_articles/d86e3240.ext.json)
+
+---
+
+### Special party leaders meeting suspended
+
+*2024-01-23 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192458) · `si`
+
+The Speaker decided to suspend Parliamentary affairs today (23).
+
+The church has deforced a special party leadership meeting to discuss the security schemes of the Online Scheme.
+
+Opposition Leader Sajith Premadasa met with the party leaders of opposition Mahinda Yapa Abeywardena this morning.
+
+The meeting took place in the Speaker's official room and discussed the bill of the security of the security of the system.
+
+◼️
+
+[Data](articles/c5e30ee9.json)
+
+[Extended Data](ext_articles/c5e30ee9.ext.json)
 
 ---
 
@@ -1945,53 +1979,5 @@ The shooting took place today (22) between 8.30 am and 8.40 am and five were kil
 [Data](articles/ba48a77c.json)
 
 [Extended Data](ext_articles/ba48a77c.ext.json)
-
----
-
-### Chance to pay vehicle fines online
-
-*2024-01-22 19:14:49* · [`adalk`](https://www.ada.lk/breaking_news/වාහන-දඩ-මුදල්-ඔන්ලයින්-ගෙවීමට-අවස්ථාව/11-407670) · `si`
-
-Acting IGP Tennakoon said the acting IGP Tennakoon said that the opportunity to pay online fines on traffic offenses.
-
-He says that these payments will be made by their mobile phone or the police officer.
-
-"If a traffic guilty of a traffic guilt and the police officer in the hand is planned by the path of the road or by his mobile phone."
-
-◼️
-
-[Data](articles/b9192683.json)
-
-[Extended Data](ext_articles/b9192683.ext.json)
-
----
-
-### Entertainment of India to push
-
-*2024-01-22 19:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192442) · `si`
-
-It is well known that India, which has the largest population of the world, as well as the most populous country, as well as music, music, music, as well as music, dance, is a best market for entertainment industry.
-
-As a result, a worldport entertainment companies such as HBo, Sony, Disney have been investing in India.
-
-Foreign companies have also faced a strong competition with indigenous entertainment companies in India.
-
-As a solution, they have chosen to merge local entertainment companies.
-
-The Sony Group of Japan was planning to merge US $ 10 billion in combining with India C (Zee) Elertainment.
-
-The merger became a timely necessity because of the Pradeshiya Sirianii Mukesh, Industries Group, to merge the US Walt Disney Company.
-
-However, the Reuters reported today (22) that there is a problem with the combination of Sony - C (Zee).
-
-It is with Sony's notification letter to Zee Entertainment that the agreement is terminated.
-
-Sony has stated that the letter will be exposed to investors later.
-
-...
-
-[Data](articles/d2d97068.json)
-
-[Extended Data](ext_articles/d2d97068.ext.json)
 
 ---

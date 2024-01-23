@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 23:02:27**
+As of **2024-01-23 23:17:07**
 
 ## Newspaper Stats
 
-*Scraped **2,163** Articles*
+*Scraped **2,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ dailyftlk | 171
 adalk | 222
 virakesarilk | 238
 dailymirrorlk | 270
-adaderanalk | 271
+adaderanalk | 272
 tamilmirrorlk | 273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,163 (100.0%) of 2,163 articles have been extended.
+2,163 (100.0%) of 2,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### Police recover car suspected to have been used in shooting of Buddhist monk
+
+*2024-01-23 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96674/police-recover-car-suspected-to-have-been-used-in-shooting-of-buddhist-monk) · `en`
+
+Police have recovered the vehicle which is suspected to have been used by the suspects involved in the shooting of a Buddhist monk in Malwathuhiripitiya area of Gampaha earlier today (23 Jan.).
+
+The vehicle was found abandoned in a shrubby area at Godella in Kaduwela, Police said, adding that it had been torched beyond recognition.
+
+According to police, however, another white vehicle, bearing the same licence plate as that of the vehicle the suspects had arrived in, was found in a garage in Eluwila, Panadura.
+
+Earlier today, four unidentified individuals had arrived in a car at the temple, and carried out the shooting and fled the scene afterwards, police reported, adding that the shooters had claimed to officers from the Criminal Investigations Department (CID).
+
+The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital.
+
+...
+
+[Data](articles/5dee2b83.json)
+
+---
 
 ### Israeli troops cut off Khan Younis after suffering worst Gaza loss
 
@@ -2029,29 +2049,5 @@ Thera, the target of the shooting, died after being taken to the hospital, polic
 [Data](articles/b009dd2e.json)
 
 [Extended Data](ext_articles/b009dd2e.ext.json)
-
----
-
-### More than 100,000 nude photos circulated on social media last year: Minister
-
-*2024-01-23 13:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-than-100-000-nude-photos-circulated-on-social-media-last-year-Minister/108-275572) · `en`
-
-Parliament, Jan. 23 (Daily Mirror)- More than 100,000 nude photographs have been circulated on social media last year, while there have been 8,000 cybercrimes committed, Minister of Public Security Tiran Alles told Parliament today.
-
-Kicking off the debate on the Online Safety Bill in the House, the Minister said more than 500 nude photographs have been circulated within the first few weeks of 2024.
-
-“There have also been 6,690 instances of online sexual abuse last year,” he said.
-
-“These figures are only what have been reported and recorded by the CID. There could be many more online crimes and abuses that have gone unreported,” he added.
-
-The Minister said the Online Safety Bill only covers online crimes, preventing provocations which could lead to insurgencies, disturb religious and ethnic harmony etc.
-
-“We don’t intend to victimize anyone using the Online Safety Bill,” he said.
-
-...
-
-[Data](articles/d3e20a8a.json)
-
-[Extended Data](ext_articles/d3e20a8a.ext.json)
 
 ---

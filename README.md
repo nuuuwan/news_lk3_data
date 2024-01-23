@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 13:17:22**
+As of **2024-01-23 13:33:20**
 
 ## Newspaper Stats
 
-*Scraped **2,019** Articles*
+*Scraped **2,022** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ dailyftlk | 171
 adalk | 206
 virakesarilk | 211
 dailymirrorlk | 240
-adaderanalk | 252
-tamilmirrorlk | 261
+adaderanalk | 253
+tamilmirrorlk | 263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,018 (100.0%) of 2,019 articles have been extended.
+2,019 (99.9%) of 2,022 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### Two foreigners injured in car-train collision
+
+*2024-01-23 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96653/two-foreigners-injured-in-car-train-collision) · `en`
+
+A car has collided with a train in the Midigama area, Ada Derana reporter said.
+
+Two foreign nationals, who were travelling in the car have been injured in the accident and hospitalized, according to the reporter.
+
+◼️
+
+[Data](articles/ab2449a9.json)
+
+---
+
+### ஜனவரியில் பணவீக்கம் 7% ஆக உயர வாய்ப்பு
+
+*2024-01-23 12:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரியில்-பணவீக்கம்-7-ஆக-உயர-வாய்ப்பு/175-332010) · `ta`
+
+2024 ஜனவரியில் பணவீக்கம் 7% ஆக உயரக்கூடும் என இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க எச்சரித்துள்ளார்.
+
+செவ்வாய்க்கிழமை (23) இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்துத் தெரிவித்த அவர், பெறுமதி சேர் வரி (VAT) அதிகரிப்பு மற்றும் ஏனைய வெளிப்புறக் காரணிகளால் பணவீக்கம் அதிகரிக்க வாய்ப்புள்ளதாக விளக்கமளித்தார்.
+
+VAT திருத்தச் சட்டமூலம்11 டிசெம்பர் 2023 அன்று பாராளுமன்றத்தில் நிறைவேற்றப்பட்ட பின்னர், ஜனவரி 01ஆம் திகதி முதல் 3 சதவீதம் அதிகரிக்கப்பட்டு 15% இலிருந்து 18% ஆக உயர்த்தப்பட்டது.
+
+◼️
+
+[Data](articles/6526eda3.json)
+
+---
 
 ### Police detect 125 traffic offences through CCTV system on first day
 
@@ -49,6 +79,8 @@ Police Media Spokesman SSP Nihal Thalduwa explained that the CCTV camera system 
 ...
 
 [Data](articles/df5d6e1f.json)
+
+[Extended Data](ext_articles/df5d6e1f.ext.json)
 
 ---
 
@@ -283,6 +315,18 @@ Accordingly, the debate was started with the passage of the bill of 33 votes.
 [Data](articles/b81e3df3.json)
 
 [Extended Data](ext_articles/b81e3df3.ext.json)
+
+---
+
+### ஊடகவியலாளர்களுக்கு மகிழ்ச்சி கொடுத்த ஜனாதிபதி
+
+*2024-01-23 11:27:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளர்களுக்கு-மகிழ்ச்சி-கொடுத்த-ஜனாதிபதி/175-332006) · `ta`
+
+மொபிடெல் நிறுவனத்தினால் அரச ஊழியர்களுக்கு வழங்கப்படும் உபகார சலுகை பெகேஜை அரசாங்க தகவல் திணைக்களத்தில் பதிவுசெய்துள்ள அனைத்து ஊடகவியலாளர்களுக்கும் வழங்குவதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/73bbed4a.json)
 
 ---
 
@@ -1903,65 +1947,5 @@ The evaluation process, conducted by SAFA’s esteemed committee, focused on enh
 [Data](articles/8e71aaf4.json)
 
 [Extended Data](ext_articles/8e71aaf4.ext.json)
-
----
-
-### Sri Lanka and India deepens collaboration on technology and digital initiatives
-
-*2024-01-23 00:27:02* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-and-India-deepens-collaboration-on-technology-and-digital-initiatives/34-757661) · `en`
-
-State Minister of Technology Kanaka Herath met the newly appointed Indian High Commissioner to Sri Lanka Santosh Jha at India House in Colombo.
-
-The discussion focused on strengthening bilateral ties and collaboration in the technology sector, particularly around Sri Lanka’s unique digital ID project.
-
-The meeting, held at High Commissioner Jha’s invitation, marks a positive step in the ongoing partnership between the two countries on technology and digital initiatives. Both leaders expressed their commitment to working closely together to leverage technology for mutual benefit.
-
-The collaboration on digital identity holds significant potential for Sri Lanka. A successful unique digital ID system could streamline Government services, boost financial inclusion and improve security.
-
-◼️
-
-[Data](articles/0098cd32.json)
-
-[Extended Data](ext_articles/0098cd32.ext.json)
-
----
-
-### Aberdeen Holdings recognised with multiple awards in 2023
-
-*2024-01-23 00:25:08* · [`dailyftlk`](https://www.ft.lk/business/Aberdeen-Holdings-recognised-with-multiple-awards-in-2023/34-757660) · `en`
-
-Expo Commodities with three coveted accolades at NCE Export Awards
-
-Bio Extracts titled Best Exporter in the Herbal and Ayurvedic sector at the Presidential Export Awards
-
-Aberdeen Holdings, one of the country’s leading conglomerates with a presence across 11 diverse sectors, has been honoured for its exceptional performance and growth momentum, with several of its subsidiaries receiving prestigious awards and titles throughout 2023.
-
-Expo Commodities, a subsidiary of Aberdeen Holdings, received three coveted accolades at the 31st NCE Awards by the National Chamber of Exports (NCE). Notably, Expo Commodities secured the overall Gold Award (Medium) in the Organic Products category, the Gold Award (Extra Large) in the Spices and Spices Based Products category, and the Bronze Award (Extra Large) in the Coconut and Coconut Products category.
-
-...
-
-[Data](articles/4b596b51.json)
-
-[Extended Data](ext_articles/4b596b51.ext.json)
-
----
-
-### Sierra Cables shares insights with clients in glamorous networking session
-
-*2024-01-23 00:23:47* · [`dailyftlk`](https://www.ft.lk/business/Sierra-Cables-shares-insights-with-clients-in-glamorous-networking-session/34-757659) · `en`
-
-Sierra Cables PLC, a pioneering force in the electrical wires and cables manufacturing sector, proudly hosted a networking session for its esteemed clientele on the side-lines of the prestigious INCO Exhibition where the company is the Bronze Sponsor.
-
-The glamorous cocktail night served as a platform for Sierra Cables and its valued clients to engage and exchange insights on the latest industry developments.
-
-As a prominent member of the LOLC Group, a conglomerate with a diversified presence in Sri Lanka and globally, Sierra Cables has positioned itself as a comprehensive supplier of wires and cables catering to residential, commercial, and industrial markets.
-
-The company is at the forefront of developing flame-retardant cables for the domestic market, designed to meet upcoming national standards and set to be launched in 2024. Sierra adheres to esteemed British Standards, ensuring three-hour circuit integrity at temperatures up to 950 degrees Celsius.
-
-...
-
-[Data](articles/516c3d5e.json)
-
-[Extended Data](ext_articles/516c3d5e.ext.json)
 
 ---

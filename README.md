@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 09:32:55**
+As of **2024-01-23 09:51:50**
 
 ## Newspaper Stats
 
-*Scraped **1,940** Articles*
+*Scraped **1,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ economynextcom | 118
 dbsjeyarajcom | 121
 dailyftlk | 171
 virakesarilk | 195
-adalk | 201
-tamilmirrorlk | 239
+adalk | 202
 adaderanalk | 240
 dailymirrorlk | 240
+tamilmirrorlk | 250
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,939 (99.9%) of 1,940 articles have been extended.
+1,952 (100.0%) of 1,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### 955 more arrests in 24 hours
+
+*2024-01-23 09:16:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணி-நேரத்தில்-மேலும்-955-பேர்-கைது/175-331996) · `ta`
+
+955 suspects have been arrested in the last 24 hours that ended this morning as part of a special roundup of the country.
+
+These include 633 suspects involved in drug offenses and 322 suspects from the list of the Criminal Investigation Department.
+
+Of the 633 suspects arrested for drug offenses, seven suspects have been detained and further investigations are being carried out.
+
+28 suspects have been arrested on the list of the Police Drug Prevention Unit and the Police Special Bureau.
+
+◼️
+
+[Data](articles/a2825cbd.json)
+
+[Extended Data](ext_articles/a2825cbd.ext.json)
+
+---
+
+### “2,000” rupees since January
+
+*2024-01-23 08:26:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரி-முதல்-2-000-ரூபாய்/175-331995) · `ta`
+
+Since January, the government has decided to issue a pay of Rs.
+
+Accordingly, the allowance will be given to the Disabled Persons living in Children's Homes, Elderly Homes and Maintenance Homes. Remble
+
+◼️
+
+[Data](articles/d9ebb9d2.json)
+
+[Extended Data](ext_articles/d9ebb9d2.ext.json)
+
+---
+
+### Powerful earthquake in China
+
+*2024-01-23 08:18:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சீனாவில்-சக்தி-வாய்ந்த-நிலநடுக்கம்/50-331994) · `ta`
+
+Richter scale at midnight yesterday in the northwest of China. Powerful earthquake in 2.
+
+The earthquake is centered on the Jin Jiang province, which is located on the border of China -Kyrgyzstan.
+
+The impact of the earthquake in China has been felt in the first Pakistan of the Indian capital, Delhi.
+
+Chinese state media reported that up to 47 people were buried in the wreckage and more than 200 people were immediately evacuated to safe places.. Remble
+
+◼️
+
+[Data](articles/4520fff6.json)
+
+[Extended Data](ext_articles/4520fff6.ext.json)
+
+---
 
 ### 955 more suspects arrested during operation ‘Yukthiya’
 
@@ -48,15 +104,35 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 
 ---
 
-### යුක්තිය මෙහෙයුමෙන් තවත් 955ක් අත්අඩංගුවට
+### Another 955 arrested with justice operation
 
 *2024-01-23 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192455) · `si`
 
-දිවයින පුරා ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ අද (23) අලුයම අවසන් වූ ගතවු පැය 24 තුළ සැකකරුවන් 955 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+The police said that 955 suspects were arrested in the last 24 hours of the end of justice operations island wide.
 
 ◼️
 
 [Data](articles/3457e4b4.json)
+
+[Extended Data](ext_articles/3457e4b4.ext.json)
+
+---
+
+### It is possible to form particle frosts in the early morning
+
+*2024-01-23 08:00:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாலையில்-துகள்-உறைபனி-உருவாகக்-கூடிய-சாத்தியம்/175-331993) · `ta`
+
+In some places in the Sabaragamuwa Province and Galle and Matara districts, there is a possibility of rain or thundershowers after 4.00 pm.
+
+In some places in the Nuwara Eliya district, it is possible to develop particle frosts in the early hours of the morning.
+
+In the morning, in some places in the Sabaragamuwa and Central Provinces, Galle and Matara districts, there is expected snowfall in the morning.. Remble
+
+◼️
+
+[Data](articles/7ea895ba.json)
+
+[Extended Data](ext_articles/7ea895ba.ext.json)
 
 ---
 
@@ -154,6 +230,28 @@ According to a senior police officer, the husband, who is a businessman, stated 
 
 ---
 
+### The UN Human Rights Commission announced through the UN Human Rights Commission to suspend justice
+
+*2024-01-23 07:25:05* · [`adalk`](https://www.ada.lk/breaking_news/යුක්තිය-මෙහෙයුම-වහාම-අත්හිටුවන්නැයි-එජා-මානව-හිමිකම්-කොමිසම-හරහා-නිවේදනයක්/11-407677) · `si`
+
+A UN experts have issued a statement through the UN Human Rights Commission to suspend justice operation in Sri Lanka to suspend the milk and crimes in Sri Lanka.
+
+The announcement made by the announcement that drug users should also be given the opportunity to live respectfully.
+
+The announcement released in Sri Lanka is currently in operation for drug users.
+
+Specialists say that drug abuse should be forwarded to rehabilitation and mandatory rehabilitation centers should be closed down.
+
+They also call upon the government to stop using armed forces for drug control.
+
+◼️
+
+[Data](articles/3965b4cd.json)
+
+[Extended Data](ext_articles/3965b4cd.ext.json)
+
+---
+
 ### Showers expected in certain parts of the country after 4pm
 
 *2024-01-23 07:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96637/showers-expected-in-certain-parts-of-the-country-after-4pm) · `en`
@@ -194,6 +292,28 @@ Mainly fair weather will prevail in the other areas of the island.
 
 ---
 
+### “That government is corrupted by its leaders”
+
+*2024-01-23 07:22:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அந்த-அரசாங்கம்-அதன்-தலைவர்களால்-சிதைந்தது/175-331992) · `ta`
+
+Parliamentarian SB Dissanayake said the government, which was set up with a 6.9 million decree and two -thirds majority, was corrupted by its own leaders.
+
+“I was disappointed that the government created with a 6.9 million order and two -thirds of the majority was disrupted by our own leaders,” he said.
+
+Although the president's power to dissolve parliament at any time, no one can change the presidential election in October.
+
+Four years after the Constitution, the President can dissolve parliament at any time, he told reporters.
+
+“The President or Parliament has the power to decide on some elections. However, no one can decide the date of the presidential election in October, ”he added.
+
+◼️
+
+[Data](articles/a6df3009.json)
+
+[Extended Data](ext_articles/a6df3009.ext.json)
+
+---
+
 ### 3 dengue deaths in 20 days
 
 *2024-01-23 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192453) · `si`
@@ -216,6 +336,30 @@ Meanwhile, Minister of Health Dr. Ramesh Pathiran said that the support of the p
 
 ---
 
+### “I will definitely contest the presidential election”
+
+*2024-01-23 07:14:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதித்-தேர்தலில்-நிச்சயம்-போட்டியிடுவேன்/175-331991) · `ta`
+
+Dilith Jayaweera, the leader and businessman of the Mawbima Janata Party, said that if the presidential election is held in the future, he will definitely contest.
+
+He was speaking at a political interview with a private television.
+
+“The aspiration of the Mawbima Janata Party is not aimed at the upcoming presidential election.. This party is a power born for the historical needs of Sri Lanka.
+
+This party is a veryoretical and logical program. A united organization, especially that of youth, professionals and researchers. We have a great long goal.
+
+If you ask who this presidential candidate is, I consider it a question that is still asked from a short political angle. If it is needed, I can honestly say that I am ready for it.
+
+But this is not the short -term program created from the personal dream of Dilith Jayaweera's presidency. If there is a presidential election, we will contest the election. We will make efforts to succeed in it, ”he said.
+
+◼️
+
+[Data](articles/73bead4d.json)
+
+[Extended Data](ext_articles/73bead4d.ext.json)
+
+---
+
 ### Annual Transfers of the Public Service Commission is a severe decision
 
 *2024-01-23 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192452) · `si`
@@ -235,6 +379,26 @@ The official service commission said that the officers who are demanding the Adm
 [Data](articles/dffd8d6b.json)
 
 [Extended Data](ext_articles/dffd8d6b.ext.json)
+
+---
+
+### The weather report today
+
+*2024-01-23 07:07:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்றைய-வானிலை-அறிக்கை/175-331990) · `ta`
+
+The Department of Meteorology has said that there is a chance of rain or thunderstorms after four o'clock in the afternoon in some parts of the Sabaragamuwa Province as well as some of the Galle and Matara districts.
+
+In the morning, the snow will be seen in some parts of the Central and Sabaragamuwa provinces, as well as some of the Galle and Matara districts.
+
+In the northeast of 20 - 30 km / h in the sea regions.
+
+From Colombo to Mannar to Mannar, Galle to Pottuvil via Hambantota, the sea can frequently blow at 40 to 50 km / h.
+
+◼️
+
+[Data](articles/adeaa27f.json)
+
+[Extended Data](ext_articles/adeaa27f.ext.json)
 
 ---
 
@@ -383,6 +547,78 @@ The provisional data from Sri Lanka Customs shows that exports to all markets sa
 [Data](articles/af2ffb6d.json)
 
 [Extended Data](ext_articles/af2ffb6d.ext.json)
+
+---
+
+### President congratulates Sreedharan
+
+*2024-01-23 03:04:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிறீதரனுக்கு-ஜனாதிபதி-வாழ்த்து/175-331989) · `ta`
+
+President Ranil Wickremesinghe congratulates MP Sivagnanam Sridharan, who has been elected as the new leader of the Sri Lankan Tamil party.
+
+President Ranil Wickremesinghe, who is staying in the Uganda's capital, Kampala, greeted Sridharan at 3 pm yesterday at 3 pm. (A)
+
+◼️
+
+[Data](articles/ec5e345f.json)
+
+[Extended Data](ext_articles/ec5e345f.ext.json)
+
+---
+
+### Corpse
+
+*2024-01-23 02:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனந்தெரியாத-ஆணின்-சடலம்/175-331988) · `ta`
+
+The body of a man from the Puttalam - Mathuranguli Kalappu area has been recovered yesterday, Maduranguli police said.
+
+Police said there was no information about the body recovered.
+
+The body, which was recovered from the Kalappu area, was sent to the Puttalam Base Hospital for autopsy after the magistrate's hearing.
+
+◼️
+
+[Data](articles/dd39642c.json)
+
+[Extended Data](ext_articles/dd39642c.ext.json)
+
+---
+
+### Arms Manufacturing Center
+
+*2024-01-23 02:51:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆயுத-உற்பத்தி-நிலையம்-சுற்றிவளைப்பு-மூவர்-கைது/175-331987) · `ta`
+
+Special Task Force (STF) has blocked a local weapon in Vinayagapuram, which belongs to the police division in the Ampara district, and arrested three suspects.
+
+A sudden raid was carried out in the area on the basis of confidential information received by the Special Task Force Camp Officers in Tirukovil.
+
+Special Action Force Camp at Tirukovil Special Task Force Campaign, Varuna Jayasundera said that a gun produced in Sri Lanka, three iron pipes, an iron cutting machine and a melting machine have been seized.
+
+The arrested suspects are from Tirukovil and Kanjikkudicaru areas between the ages of 34, 42 and 54.. (A)
+
+◼️
+
+[Data](articles/e0a7c280.json)
+
+[Extended Data](ext_articles/e0a7c280.ext.json)
+
+---
+
+### The prices of vegetables are down
+
+*2024-01-23 02:42:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கறிகளின்-விலைகள்-குறைந்தன/175-331986) · `ta`
+
+Compared to last week, the total prices of many vegetables at the Dambulla Economic Center have fallen drastically.
+
+According to the Economic Center Trade Association, there is a shortage of traders to buy vegetables even though the price of vegetables falls significantly.
+
+The prices of all the vegetables that rose rapidly have declined due to the decline in procurement of vegetables.
+
+◼️
+
+[Data](articles/1f57d054.json)
+
+[Extended Data](ext_articles/1f57d054.ext.json)
 
 ---
 
@@ -1751,253 +1987,5 @@ Meanwhile, Dr. Krishantha Perera was released on bail this morning.
 [Data](articles/acb0c2bc.json)
 
 [Extended Data](ext_articles/acb0c2bc.ext.json)
-
----
-
-### BASL calls for independent probe into recent surge in fatalities involving police
-
-*2024-01-22 18:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96628/basl-calls-for-independent-probe-into-recent-surge-in-fatalities-involving-police-) · `en`
-
-The Bar Association of Sri Lanka (BASL) has raised concerns pertaining to the recent surge in fatalities in the country involving the police.
-
-In a statement issued on Monday (22 Jan.), the BASL called on the relevant authorities to conduct an independent inquiry into the matter.
-
-The BASL urged for the said investigation, recalling the recent death of a lorry driver in the Damepelessa area in Narammala, after a Police Sub-Inspector’s firearm had allegedly ‘accidentally’ discharged during a vehicle inspection, after the lorry driver had failed to comply with a police checkpoint.
-
-Further, the BASL also highlighted that the Minister of Public Security Tiran Alles has ‘expressed determination to persist with the ongoing anti-crime operations’ despite the escalating criticism regarding their execution.
-
-...
-
-[Data](articles/aa3dc2e6.json)
-
-[Extended Data](ext_articles/aa3dc2e6.ext.json)
-
----
-
-### Minister making statements to generate public anger towards CEB, its staff: CEBEU
-
-*2024-01-22 18:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-making-statements-to-generate-public-anger-towards-CEB-its-staff-CEBEU/108-275510) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - While condemning the statement by Power and Energy Minister Kanchana Wijesekera, where he claimed that two-thirds of the loan interest obtained by the Ceylon Electricity Board (CEB) employees is being reimbursed by the public through their electricity bills, the Ceylon Electricity Board Engineers' Union (CEBEU) said that the Minister has once again attempted to generate public anger towards the CEB and its staff.
-
-The CEBEU said that an X message by the Minister was shared with the public as loan interest amounting to Rs. 12 billion from loans of CEB employees is being reimbursed by the public through their electricity bills.
-
-While issuing a media release, the CEBEU said that the Minister is trying to be a hero in the eyes of the public while diverting attention away from the hundreds of millions of dollars worth of non-competitive, non-transparent, and non-transparent, and questionable energy procurements that are being negotiated behind closed doors.
-
-...
-
-[Data](articles/7b81d069.json)
-
-[Extended Data](ext_articles/7b81d069.ext.json)
-
----
-
-### Rama Temple: A woman's number
-
-*2024-01-22 18:17:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ராமர்-கோவில்-ஒரு-பெண்ணின்-அல்லாஹ்ஹூ-அக்பர்-முழக்கம்-அதிர-வைத்தது/175-331959) · `ta`
-
-Allah Akbar's slogan raised by a woman during the Rama Temple celebrations in the state of Karnataka shocked Shimoga.
-
-The Great Rama Temple is built in Ayodhya according to the Supreme Court ruling. The inauguration of the Rama Temple was held today (22).
-
-7,000 people participated in the event, including the country's great businessmen, spiritualists and screen stars.. Prime Minister Modi consecrated the statue of Lord Rama and worshiped the sanctum sanctorum. Modi then addressed the Rama Temple premises.
-
-Rama devotees celebrated the inauguration of the Rama Temple in many parts of the country. The opening of the Rama Temple in the state of Karnataka. Rama devotees held celebrations in Shivappa Nayaka Circle in Shimoga, Karnataka.
-
-A woman who went with the baby on a scooter then parked the vehicle. The police then came there and asked him to move the two -wheeler.
-
-...
-
-[Data](articles/9773d756.json)
-
-[Extended Data](ext_articles/9773d756.ext.json)
-
----
-
-### UN experts call on Government of Sri Lanka to immediately suspend ‘Yukthiya’ anti-drug operation
-
-*2024-01-22 18:17:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/un-experts-call-on-government-of-sri-lanka-to-immediately-suspend-%e2%80%98yukthiya%e2%80%99-anti-drug-operation/) · `en`
-
-Colombo (News 1st) – A high-level group of United Nations experts have called on the Government of Sri Lanka to immediately halt Operation Yukthiya, its anti-narcotics drive that has resulted in more than 30,000 people being arrested in just over a month.
-
-“The UN experts expressed alarm at the heavy security-driven approach of Sri Lanka’s drug response. They called on authorities to immediately suspend and review so-called Operation ‘Yukthiya’ and to focus on policies based on health and human rights,” the statement said.
-
-“Drug users have human rights,” the experts said. “They deserve to live a life with dignity without facing further discrimination and stigmatisation.”
-
-...
-
-[Data](articles/a126f970.json)
-
-[Extended Data](ext_articles/a126f970.ext.json)
-
----
-
-### Oh Rajini sir you, Ambani worshiped
-
-*2024-01-22 18:10:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அட-ரஜினி-சார்-நீங்களா-கைகூப்பி-வணங்கிய-அம்பானி/175-331958) · `ta`
-
-The Ayodhya Rama Temple, which was waiting for India, opened the temple to the people's view of Prime Minister Modi headed by Prime Minister Modi. The Ayodhya Rama Temple Kumbabhisheka was invited to the band of great celebrities from all over India.
-
-Following the 5 -year -old statue of Lord Rama in the Rama Temple, a video on the Internet has now spoken to the entire population.
-
-While the crowds in Ayodhya, the first ministers, various businessmen from the Prime Minister, Ambani, and many celebrities from Rajinikanth participated in the event.. The main point is that the video of Rajini, Ambani and Sachin sitting on the side are now trending on the Internet.
-
-Mukesh Ambani, who came to the Kumbabhishekha ceremony from the airport, was talking to the neighbors before sitting in his seat, and after seeing the superstar Rajini, Sir, Mukesh Ambani gave a hand.
-
-...
-
-[Data](articles/f03ecbe2.json)
-
-[Extended Data](ext_articles/f03ecbe2.ext.json)
-
----
-
-### Senior IT professionals warn against the Online Safety Bill
-
-*2024-01-22 18:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/22/senior-it-professionals-warn-against-the-online-safety-bill/) · `en`
-
-Colombo (News 1st) – A group of senior IT professionals has warned that the Online Safety Bill may be used to cripple opposition election campaigns, suppress journalists reporting on corruption and even severely impact the IT industry.
-
-IT Professionals for the People (IT4P) has also launched an SMS "e-referendum", which allows Sri Lankans to use an SMS message to voice their concerns on the Online Safety Bill and other key policies.
-
-IT Professionals for the People (IT4P) has warned that the Online Safety Bill may cripple election campaigns, suppress journalists and negatively impact the IT industry.
-
-They have therefore launched an SMS "e-referendum", allowing Sri Lankans to use an SMS message to voice their concerns on key policies such as the Online Safety Bill.
-
-The group pointed out that Sri Lanka already has seven laws that place restrictions on free speech and therefore the Online Safety Bill is not necessary.
-
-...
-
-[Data](articles/19a4bb26.json)
-
-[Extended Data](ext_articles/19a4bb26.ext.json)
-
----
-
-### Give high priority to renewable energy in 2024 to reduce recurrent costs of local governments: Dinesh
-
-*2024-01-22 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Give-high-priority-to-renewable-energy-in-2024-to-reduce-recurrent-costs-of-local-governments-Dinesh/108-275509) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - Public Administration, Home Affairs, Provincial Councils and the Local Government Minister requested that high priority be given to renewable energy in order to reduce the recurrent costs of the local government bodies in 2024.
-
-He made these comments while participating in the progress review meeting of the Domestic Credit Fund Board for the year 2024.
-
-"High priority should be given to the government's programme of optimal utilization of solar energy, and to increase the IT literacy of the rural youth community, efforts should be made to provide loans by finding possibilities for creating libraries and IT centers," the Minister said.
-
-...
-
-[Data](articles/b89f404b.json)
-
-[Extended Data](ext_articles/b89f404b.ext.json)
-
----
-
-### The Sri Lankan government should immediately suspend the action - UN experts request
-
-*2024-01-22 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174552) · `ta`
-
-United Nations experts have appealed to the Sri Lankan government to stop the strategy and review it.
-
-United Nations experts have expressed fears about the attitude based on strict protection against drugs.
-
-Officials have requested that the action be suspended and reviewed immediately.
-
-The United Nations has also appealed to the focus on health and human rights -based policies.
-
-UN human rights experts have strongly condemned the arrest of thousands of drug culprits belonging to the neglected socio -economic groups and have condemned hundreds of people in compulsory military rehabilitation camps.
-
-They have expressed concern over torture and inhumane activities during the action called tactics.
-
-◼️
-
-[Data](articles/2da67517.json)
-
-[Extended Data](ext_articles/2da67517.ext.json)
-
----
-
-### Ammunition found in a housing complex in Borella
-
-*2024-01-22 17:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192438) · `si`
-
-15 live bullets have been found to be used to two firearms near the toiletical system of Borella.
-
-Borella police say T 56 firearms and M11
-
-A person from serving in the Borella Police Division, a person from serving the Colombo Municipal Council employees met with the climbing of the toilet system of the apartment complex.
-
-The Criminal Investigation Division of the Borella Police Station has taken action to the police.
-
-Police suspect that a person has been buried some time ago.
-
-◼️
-
-[Data](articles/f2c0ff72.json)
-
-[Extended Data](ext_articles/f2c0ff72.ext.json)
-
----
-
-### ICC for 2023. Samari Athapathu as the captain of the women's R20 team
-
-*2024-01-22 17:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174551) · `ta`
-
-The ICC Women's International R20 cricket team for 2023 has been named as the Chairman of Sri Lanka.
-
-The ICC Women's International R20 Cricket Team has been named in the women's international T20 cricket team in 2023.
-
-Samari started her cricket season for 2023 by scoring 68 runs off 50 balls in the ICC Women's R20 World Cup in Cape Town against South Africa. Sri Lanka won the South Africa with his help with his bowling.
-
-He had accumulated 470 runs in the R20 cricket match with a strike rate of 130.91 last year. It contained 15 sixes.
-
-In a T20 match in the central part of Colombo against New Zealand, Samari scored 80 runs off 47 balls. This led Sri Lanka to the remaining 141 runs for New Zealand and the remaining 10 wickets.
-
-Sri Lanka has been a major role in Sri Lanka's victory in the T20 cricket series in England.
-
-...
-
-[Data](articles/c94c9ea2.json)
-
-[Extended Data](ext_articles/c94c9ea2.ext.json)
-
----
-
-### Six police teams probing Beliatta shooting that killed 5
-
-*2024-01-22 17:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96627/six-police-teams-probing-beliatta-shooting-that-killed-5) · `en`
-
-Six police teams have been deployed to investigate the shooting incident reported in Beliatta, Tangalle this morning (22 Jan.).
-
-According to Police Spokesman SSP Nihal Thalduwa, the special police teams were deployed to carry out investigations under the supervision of the Senior Deputy Inspector General of Police (SDIG) of the Southern Province.
-
-Speaking to reporters in Colombo today, the Spokesman said the SDIG in charge of the Southern Province has appointed the following police teams to conduct the said investigation; Southern Province Crime division, the Tangalle Division Crimes Unit, a separate team under the Tangalle HQI, a team from the Beliatta Police, a team led by the Officer-In-Charge of the division and a team of intelligence officers.
-
-...
-
-[Data](articles/251df933.json)
-
-[Extended Data](ext_articles/251df933.ext.json)
-
----
-
-### Demonstration in Batticaloa in Batticaloa
-
-*2024-01-22 17:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/174549) · `ta`
-
-A protest rally and demonstration was held in Batticaloa on Monday (22) in protest against the Ceremony Backup Act and the Anti -Terrorism Act.. As well as a symbolic hunger strike.
-
-The rally was organized by the Eastern Civil Social Representatives.
-
-The rally, which started near the Kalladi Bridge in Batticaloa, went to Gandhi Park and held a demonstration.
-
-Those who participated in the demonstration carried out the words of the anti -Terrorism Act and the Supreme Backup Act and the signatures of the importance of freedom of expression.. During the demonstration, protests were raised.
-
-It is noteworthy that the protests for hunger strike, mainly part of the protest, removed the security forces with tight security measures.
-
-◼️
-
-[Data](articles/d15694c9.json)
-
-[Extended Data](ext_articles/d15694c9.ext.json)
 
 ---

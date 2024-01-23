@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 22:06:09**
+As of **2024-01-23 22:17:40**
 
 ## Newspaper Stats
 
-*Scraped **2,153** Articles*
+*Scraped **2,155** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 31
 bbccomsinhala | 44
 dbsjeyarajcom | 122
-newsfirstlk | 123
 islandlk | 123
+newsfirstlk | 124
 economynextcom | 132
 adaderanasinhalalk | 142
 dailyftlk | 171
@@ -20,17 +20,35 @@ adalk | 222
 virakesarilk | 238
 dailymirrorlk | 263
 adaderanalk | 270
-tamilmirrorlk | 272
+tamilmirrorlk | 273
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,153 (100.0%) of 2,153 articles have been extended.
+2,153 (99.9%) of 2,155 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### தேரரின் கொலைக்கு பயன்படுத்திய கார் எரிந்து சாம்பலானது
+
+*2024-01-23 21:23:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேரரின்-கொலைக்கு-பயன்படுத்திய-கார்-எரிந்து-சாம்பலானது/175-332038) · `ta`
+
+கம்பஹா, ஹேனேகம பிரதேசத்திலுள்ள விகாரையின் கலபாலுவாவே தம்மரத்ன தேரர் (45) மீது சொகுசு காரில் வந்த இனந்தெரியாத நபர்கள் மேற்கொண்ட துப்பாக்கிச் சூட்டில் அவர் உயிழந்தார்.
+
+சொகுசு காரில் வந்த இனந்தெரியாத நால்வர், தாம் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் எனவும் தமக்குக் கிடைத்த தகவலின் பேரில் சோதனையிட வந்ததாகவும் தெரிவித்துள்ளனர்.
+
+இதனையடுத்து சந்தேக நபர்கள் சோதனையிடுவது போன்று நடித்து  இரண்டு முறை துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் மேற்கொண்ட முதற்கட்ட விசாரணையில் தெரிய வந்துள்ளது.
+
+இந்நிலையில், கலபாலுவாவே தம்மரதன தேரரின் கொலைக்கு பயன்படுத்தப்பட்டதாக கூறப்படும் கொகுசு கார் எரியூட்டப்பட்ட நிலையில், நவகமுவ பிரதேசத்தில் வைத்து பொலிஸாரால் கண்டுபிடிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/6ea919a6.json)
+
+---
 
 ### Asia Internet Coalition refutes Minister Tiran’s statement on Online Safety Bill
 
@@ -143,6 +161,20 @@ State Minister for Rural Economy, K. Kader Masthan, conveyed this information du
 [Data](articles/38ae1a45.json)
 
 [Extended Data](ext_articles/38ae1a45.ext.json)
+
+---
+
+### Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
+
+*2024-01-23 19:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/asian-internet-coalition-refutes-statement-on-online-safety-bill-by-minister-tiran-alles/) · `en`
+
+Colombo (News 1st) – The Asian Internet Coalition on Tuesday (23rd) refuted statements made by Sri Lanka’s Minister of Public Security, Tiran Alles, and warned that “the Online Safety Bill, in its current form, is unworkable and would undermine potential growth and foreign direct investment into Sri Lanka’s digital economy”.
+
+The Asia Internet Coalition (AIC) is an industry association comprising many of the world’s most powerful Internet and technology companies. The AIC seeks to promote the understanding and resolution of Internet policy issues in the Asia Pacific region. It is comprised of Apple, Pinterest, Grab, Amazon, Line, Google, Yahoo, Booking.com, Spotify, X (Twitter), Rakuten, Meta, Shopify and FedEx.
+
+...
+
+[Data](articles/39444faa.json)
 
 ---
 
@@ -1740,6 +1772,8 @@ On January 08, the Cabinet of Ministers gave its approval to President Ranil Wic
 
 Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
 
+Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
+
 Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
 
 Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
@@ -1982,6 +2016,8 @@ The National Identity Card will be mandatory for private applicants while applic
 
 The announced the application period will not be extended for any reason.
 
+Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
+
 Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
 
 Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
@@ -2015,39 +2051,5 @@ Over 3,000 rupees of houses provided to low income families under various urban 
 [Data](articles/b56ac428.json)
 
 [Extended Data](ext_articles/b56ac428.ext.json)
-
----
-
-### Two foreigners injured in car-train collision
-
-*2024-01-23 13:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96653/two-foreigners-injured-in-car-train-collision) · `en`
-
-A car has collided with a train in the Midigama area, Ada Derana reporter said.
-
-Two foreign nationals, who were travelling in the car have been injured in the accident and hospitalized, according to the reporter.
-
-◼️
-
-[Data](articles/ab2449a9.json)
-
-[Extended Data](ext_articles/ab2449a9.ext.json)
-
----
-
-### Can't expect relief in electricity tariff in January - the Chairman of the Public Applications Commission
-
-*2024-01-23 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174606) · `ta`
-
-Professor Manjula Fernando, Chairman of the Sri Lanka Public Utilities Commission, said on Tuesday (23) that the electricity tariffs would be revised in mid -February.
-
-He said there was a steps to be followed when the electricity tariff was corrected, and that the public poll was launched today.
-
-Prof. Manjula Fernando, Chairman of the Public Utilities Commission, said that electric users in Sri Lanka cannot expect relief in electricity tariffs in January.
-
-◼️
-
-[Data](articles/60cfc0dd.json)
-
-[Extended Data](ext_articles/60cfc0dd.ext.json)
 
 ---

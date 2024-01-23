@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 09:51:50**
+As of **2024-01-23 10:03:51**
 
 ## Newspaper Stats
 
-*Scraped **1,952** Articles*
+*Scraped **1,953** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 118
 dbsjeyarajcom | 121
 dailyftlk | 171
 virakesarilk | 195
-adalk | 202
+adalk | 203
 adaderanalk | 240
 dailymirrorlk | 240
 tamilmirrorlk | 250
@@ -26,7 +26,7 @@ tamilmirrorlk | 250
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,952 (100.0%) of 1,952 articles have been extended.
+1,953 (100.0%) of 1,953 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1434,6 +1434,24 @@ The property was taken into police custody by the police station on the inspecti
 
 ---
 
+### Inflation back up again
+
+*2024-01-22 20:39:51* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-යළිත්-ඉහළට/11-407673) · `si`
+
+Inflation in Sri Lanka is once again rising. In December 2023, the inflation recorded as 2.8% in November 2023 increased to 4.2% in December 2023.
+
+In December 2023, the point inflation was increased to 1.6% in December 2023.
+
+The non-foodstream-point inflation in 7.1% in November has reduced to 6.3% in December.
+
+◼️
+
+[Data](articles/1af39420.json)
+
+[Extended Data](ext_articles/1af39420.ext.json)
+
+---
+
 ### Against legalising prostitution under NPP government
 
 *2024-01-22 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-legalising-prostitution-under-NPP-government/110-275515) · `en`
@@ -1969,23 +1987,5 @@ The relevant order was issued by Galle Magistrate Isuru Neththikumara.
 [Data](articles/d3edc820.json)
 
 [Extended Data](ext_articles/d3edc820.ext.json)
-
----
-
-### Two Junior staff and worker released on bail
-
-*2024-01-22 18:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192439) · `si`
-
-Two junior employees and the maid were released on the bail of the incident on the 16th of the Karapitiya Teaching Hospital.
-
-The suspects have been released on bail through a motion.
-
-Meanwhile, Dr. Krishantha Perera was released on bail this morning.
-
-◼️
-
-[Data](articles/acb0c2bc.json)
-
-[Extended Data](ext_articles/acb0c2bc.ext.json)
 
 ---

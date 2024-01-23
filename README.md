@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 14:33:00**
+As of **2024-01-23 14:50:34**
 
 ## Newspaper Stats
 
-*Scraped **2,061** Articles*
+*Scraped **2,062** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,36 +19,56 @@ dailyftlk | 171
 adalk | 207
 virakesarilk | 220
 dailymirrorlk | 252
-adaderanalk | 255
+adaderanalk | 256
 tamilmirrorlk | 263
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,059 (99.9%) of 2,061 articles have been extended.
+2,062 (100.0%) of 2,062 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### சமூக ஊடகங்களில் ஆபாசபடங்கள் பல மடங்காக அதிகரிப்பு -சைபர் குற்றங்களும் மிகவும் அதிகம் - இதற்காகத்தான் நிகழ்நிலை பாதுகாப்பு சட்டம் - டிரான் அலஸ்
+### DAT allowance for doctors temporarily suspended – Health Services DG
+
+*2024-01-23 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96657/dat-allowance-for-doctors-temporarily-suspended-health-services-dg) · `en`
+
+The payment of the Disturbance, Availability and Transport (DAT) allowance for doctors, which was recently increased by Rs. 35,000, has been temporarily suspended due to insufficient funds, the Director General of Health Services Dr. Asela Gunawardena said.
+
+In a letter to all directors of government hospitals and heads of institutions, the Director General of Health Services states that although the necessary arrangements have been made for the payment of the said allowance, the Treasury has not provided funds within the approved allocation limit.
+
+He further mentioned that the Secretary of the Ministry of Health has informed him to temporarily suspend the payment of the DAT allowance which was decided to be increased by Rs. 35,000 to Rs, 70,000, until the issue is resolved by the Treasury.
+
+...
+
+[Data](articles/93185dce.json)
+
+[Extended Data](ext_articles/93185dce.ext.json)
+
+---
+
+### Pornography on social media has increased many times - Syber crimes are very high
 
 *2024-01-23 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174613) · `ta`
 
-கடந்த வருடம் சமூகபடங்களில் ஒரு இலட்சத்திற்கும் மேலான நிர்வாணப்படங்கள் பரிமாறப்பட்டன என தெரிவித்துள்ள பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான்அலஸ் 8000சைபர்குற்றங்கள் இடம்பெற்றுள்ளன எனவும் தெரிவித்துள்ளார்.
+Last year, more than 100,000 nude films were exchanged in social pictures, said Public Security Minister Tran Alas 8000 cyber crimes.
 
-நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குறித்த விவாதத்தை இன்று நாடாளுமன்றத்தில் ஆரம்பித்து வைத்து  உரையாற்றுகையில் அமைச்சர் இதனை தெரிவித்துள்ளார்.
+The Minister said this while addressing the debate on the Ceylon Protection Bill today.
 
-2024 இன் முதல்வாரங்களி;ல் சமூக ஊடகங்களில் 500க்கும்மேற்பட்ட ஆபாசபடங்களை தங்களிடையே பரிமாறிக்கொண்டுள்ளனர் கடந்த வருடம் 6690 இணையவழி குற்றச்செயல்கள் இடம்பெற்றுள்ளன எனவும் டிரான்அலஸ் தெரிவித்துள்ளார்.
+The first week of 2024, more than 500 pornography on social media has been exchanged among themselves.
 
-இந்த புள்ளிவிபரங்கள் சிஐடியினரால் பதியப்பட்டவை மாத்திரமே வெளிவராத சம்பவங்கள் பல இருக்கலாம் எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+The Minister said that there may be many incidents that have not been revealed only by the CITs.
 
-நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குற்றங்களை கட்டுப்படுத்தும் நோக்கத்தையும் கிளர்ச்சிகள் இனமத ஐக்கியத்திற்கு பாதிப்பை ஏற்படுத்தும் குழப்பங்களை கட்டுப்படுத்துவதையும் நோக்கமாக கொண்டவை எனவும் தெரிவித்துள்ள அமைச்சர் நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை பயன்படுத்தி எவரையும் பழிவாங்கும் நோக்கமில்லைஎனவும் தெரிவித்துள்ளார்.
+The Minister said that the Minister said that the aim of controlling the crimes and the aim of controlling the crimes and the revival of racism is aimed at restricting the chaos.
 
 ◼️
 
 [Data](articles/cb1c73f9.json)
+
+[Extended Data](ext_articles/cb1c73f9.ext.json)
 
 ---
 
@@ -1939,23 +1959,5 @@ Over the past month, the exchange rate has appreciated, which may also help offs
 [Data](articles/6cae3b40.json)
 
 [Extended Data](ext_articles/6cae3b40.ext.json)
-
----
-
-### Police suspect shooting carried out in retaliation for a triple murder
-
-*2024-01-23 07:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-suspect-shooting-carried-out-in-retaliation-for-a-triple-murder/108-275552) · `en`
-
-Colombo, Jan 23 (Daily Mirror) - Initial investigations into the manslaughter of five individuals, including the leader of the 'Ape Jana Bala Party,' Saman Perera, who were killed in a shooting in Beliatta, revealed that the underworld gang led by Kosgoda Sujee may have orchestrated the shooting in retaliation for a murder in Tangalle.
-
-Acting IGP Deshabandu Tennakoon said that investigations into the shooting, believed to be an act of underworld retaliation, are being conducted by the Southern Province Special Crimes Investigations Unit.
-
-The incident occurred near the Beliatta-Kahawatta entrance on the Southern Expressway at approximately 8:00 am yesterday, as Saman Perera, also known as 'Royal Beach Saman,' and others were en route to a court appearance in Tangalle.
-
-...
-
-[Data](articles/f0cc2a20.json)
-
-[Extended Data](ext_articles/f0cc2a20.ext.json)
 
 ---

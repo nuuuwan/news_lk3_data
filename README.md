@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 16:49:24**
+As of **2024-01-23 17:02:23**
 
 ## Newspaper Stats
 
-*Scraped **2,091** Articles*
+*Scraped **2,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 121
 newsfirstlk | 123
 islandlk | 123
 economynextcom | 125
-adaderanasinhalalk | 132
+adaderanasinhalalk | 133
 dailyftlk | 171
-adalk | 212
-virakesarilk | 227
+adalk | 214
+virakesarilk | 232
 dailymirrorlk | 256
 adaderanalk | 261
 tamilmirrorlk | 266
@@ -26,11 +26,37 @@ tamilmirrorlk | 266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,090 (100.0%) of 2,091 articles have been extended.
+2,091 (99.6%) of 2,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### ஊடகங்களை அடக்கும் நோக்கம் அரசாங்கத்துக்கு இல்லை ; சமூக ஊடகங்கள் நிச்சயம் கண்காணிக்கப்படும் - பொதுமக்கள் பாதுகாப்பு அமைச்சர்
+
+*2024-01-23 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174630) · `ta`
+
+ஊடகங்களை அடக்கும் வகையில் நிகழ்நிலை காப்புச் சட்டமூலம் தயாரிக்கப்படவில்லை. சமூக ஊடகங்களின் தவறான செயற்பாடுகள் கண்காணிக்கப்படும். தேசிய மற்றும் சர்வதேச அமைப்பினர் முன்வைத்துள்ள யோசனைகள்  தொடர்பில் விசேட அமைச்சரவை பத்திரத்தை வெகுவிரைவில் முன்வைப்பேன் என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/944ab9bd.json)
+
+---
+
+### காசாவில் கடும் மோதல்கள் தொடர்கின்றன - ஒரேநாளில் 24 இஸ்ரேலிய படையினர் பலி
+
+*2024-01-23 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174629) · `ta`
+
+இரண்டு கட்டிடங்களிற்கு அருகில் நின்றுகொண்டிருந்த இஸ்ரேலிய டாங்கிகளை இலக்குவைத்து பாலஸ்தீன போராளிகள் ஆர்பிஜி தாக்குதலை மேற்கொண்டதில் இந்த உயிரிழப்புகள் ஏற்பட்டுள்ளன.
+
+கட்டிடமொன்றை அழிப்பதற்காக கண்ணிவெடிகளை வைத்துவிட்டு இஸ்ரேலிய படையினர் காத்திருந்தனர் அவ்வேளை ஆர்பிஜி விழுந்து வெடித்ததில் கட்டிடத்தில் பாரிய வெடிப்பு ஏற்பட்டது என இஸ்ரேலிய அதிகாரிகள் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/8969fda8.json)
+
+---
 
 ### US and UK launch new round of strikes against Houthi sites in Yemen
 
@@ -47,6 +73,82 @@ They added, “Our aim remains to de-escalate tensions and restore stability in 
 ...
 
 [Data](articles/0155eee4.json)
+
+[Extended Data](ext_articles/0155eee4.ext.json)
+
+---
+
+### வீடுகளின் முழு உரிமையை மாற்றும் போது அதன் பயனாளி இறந்தால் அந்த வீட்டின் முழு உரிமை வீட்டில் வசிக்கும் அவரது வாரிசுகளுக்கு மாத்திரமே - பிரசன்ன ரணதுங்க
+
+*2024-01-23 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174631) · `ta`
+
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் முன்வைக்கப்பட்ட வரவு செலவுத் திட்ட முன்மொழிவின் கீழ் 50,000 வீட்டு உரிமைப் பத்திரங்களை வழங்கும் வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதற்கான அனுமதியைப் பெறுவதற்கான அமைச்சரவைப் பத்திரம் சமர்ப்பிக்கப்பட்டுள்ளது.
+
+நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்கவினால் இந்த அமைச்சரவை பத்திரம் சமர்ப்பிக்கப்பட்டுள்ளது.
+
+இது தொடர்பான அமைச்சரவைப் பத்திரத்தில், வீட்டு உரிமைப் பத்திரங்களை வழங்கும் போது வீட்டு உரிமையாளர்கள் செலுத்த வேண்டிய நொத்தாரிசு கட்டணம், முத்திரைக் கட்டணம் மற்றும் பிற வரிகளுக்கு செலவிடப்படும் தொகை திறைசேரியால் ஏற்கப்படும் என்று பரிந்துரைத்துள்ளது.
+
+மேலும், இந்த வீடுகளின் முழு உரிமையை மாற்றும் போது அசல் பயனாளி இறந்திருந்தால், அந்த வீட்டில் தற்போது வசிக்கும் அவரது வாரிசுகளுக்கு மட்டுமே வீடுகளின் முழு உரிமையும் வழங்கப்பட வேண்டும் என்றும் இது தொடர்பான அமைச்சரவை பத்திரத்தில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/7f85706b.json)
+
+---
+
+### පාසල්වලට දරුවන් ඇතුළත් කරගැනීමට ගැන දැනුම්දීමක්
+
+*2024-01-23 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192474) · `si`
+
+පාසල්වල පළමු ශ්‍රේණියට සිසුන් ඇතුළත් කිරීම සඳහා අධ්‍යාපන අමාත්‍යාංශය මගින් නිකුත් කර ඇති චක්‍රලේඛය අනුව පාසල් වෙත අයදුම්පත් යොමු කළ යුතු අතර විදුහල්පතිවරුන් විසින් සම්මුඛ පරීක්ෂණ පවත්වා සිසුන් ඇතුළත් කරගැනීම සිදු කරනු ඇති බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+පාසල්වල 06 වැනි ශ්‍රේණියට සිසුන් ඇතුළත් කිරීම 05 වැනි ශ්‍රේණියේ ශිෂ්‍යත්ව විභාගයේ ලකුණු මත පමණක් සිදු කරනු ලැබේ.
+
+2024 වර්ෂයේ 1,5 සහ 6 ශ්‍රේණි හැර අනෙකුත් අතරමැදි පන්ති සඳහා (උසස් පෙළ ද ඇතුළුව) සිසුන් ඇතුළත් කිරීමට ද අදාළ අයදුම්පත් පාසල් වෙත යොමු කළ යුතු අතර එම පාසල්වල පුරප්පාඩු පවතී නම් විදුහල්පතිවරුන් විසින් අධ්‍යාපන අමාත්‍යාංශ චක්‍රලේඛ ප්‍රකාරව සම්මුඛ පරීක්ෂණ පවත්වා තෝරාගත් සිසුන්ගේ නාමලේඛනය අනුමැතිය සඳහා අධ්‍යාපන අමාත්‍යාංශයට යොමු කරනු ඇත.
+
+එසේම 2023 වර්ෂයේ පන්තිවලට අදාළව සිසුන් ඇතුළත් කිරීමේ අයදුම්පත් අධ්‍යාපන අමාත්‍යාංශයට හෝ පාසල් වෙත හෝ යොමු කිරීම සිදු නොකරන ලෙස දන්වන අතර පාසල් සඳහා සිසුන් ඇතුළත් කිරීමේ ලිපි අධ්‍යාපන අමාත්‍යාංශය මගින් නිකුත් කරනු නොලබන බව ද දන්වා සිටී.
+
+◼️
+
+[Data](articles/4f3367ac.json)
+
+---
+
+### குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் என கூறியவர்களே தேரரை சுட்டுக் கொன்றனராம்
+
+*2024-01-23 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/174628) · `ta`
+
+சொகுசு காரில் வந்த இனந்தெரியாத நபர்கள் மேற்கொண்ட துப்பாக்கிச் சூட்டில்  தேரர் ஒருவர் உயிரிழந்த சம்பவம் தொடர்பில்  மல்வத்துஹிரிபிட்டிய பொலிஸார் மேலதிக தகவல்களை வெளியிட்டுள்ளனர்.
+
+இந்த துப்பாக்கிச் சூட்டில் உயிரிழந்தவர் கலபாலுவாவைச் சேர்ந்த தம்மரத்ன தேரர் (45) என பொலிஸார் தெரிவித்துள்ளனர்.
+
+ஹேனேகம பிரதேசத்தில் உள்ள விகாரை ஒன்றில் இவர் வசித்து வந்ததாகவும், அந்த விகாரையின் காணி தொடர்பிலான பிரச்சினை காரணமாக மல்வத்துஹிரிபிட்டிய விகாரைக்கு வந்து அன்னதானம் வழங்கியமையும்  பொலிஸாரின் விசாரணைகளில் தெரிய வந்துள்ளது.
+
+சொகுசு காரில் வந்த இனந்தெரியாத நால்வர்,   தாம் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் எனவும் தமக்குக் கிடைத்த தகவலின் பேரில் சோதனையிட வந்ததாகவும் தெரிவித்துள்ளனர்.
+
+இதனையடுத்து சந்தேக நபர்கள் சோதனையிடுவது போன்று நடித்து  இரண்டு முறை துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் மேற்கொண்ட முதற்கட்ட விசாரணையில் தெரிய வந்துள்ளது.
+
+◼️
+
+[Data](articles/db2e08a1.json)
+
+---
+
+### நாரம்மலவில் லொறிச் சாரதி சுட்டுக்கொலை : சப் இன்ஸ்பெக்டரின் விளக்கமறியல் நீடிப்பு
+
+*2024-01-23 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174621) · `ta`
+
+நாரம்மலவில் லொறிச் சாரதி ஒருவரைச் சுட்டுக் கொன்றதாகக் கூறப்படும் குற்றச்சாட்டின் பேரில் கைதுசெய்யப்பட்ட பொலிஸ் சப் இன்ஸ்பெக்டரின் விளக்கமறியல் நீடிக்கப்பட்டுள்ளது.
+
+இதன்படி, நாரம்மல நீதிமன்ற  நீதிவானின்  உத்தரவின் பேரில்  ஜனவரி 31ஆம் திகதி  வரை விளக்கமறியல்  நீடிக்கப்பட்டுள்ளது.
+
+கடந்த 18 ஆம் திகதி இடம்பெற்ற இந்தச் சம்பவத்தில்  41 வயதான லொறியின் சாரதி ஒருவர் கொல்லப்பட்டார்.
+
+இதனையடுத்து குறித்த சப்-இன்ஸ்பெக்டர் மற்றும் பொலிஸ் கான்ஸ்டபிள் இருவரும் பணியிடை நீக்கம் செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/cc917f6f.json)
 
 ---
 
@@ -237,6 +339,18 @@ The Railways Department said the car had tried to cross the level crossing while
 [Data](articles/271768c7.json)
 
 [Extended Data](ext_articles/271768c7.ext.json)
+
+---
+
+### වෙඩිතැබීමකින් හිමි නමක් අපවත්වෙති
+
+*2024-01-23 14:45:41* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩිතැබීමකින්-හිමි-නමක්-අපවත්වෙති/11-407691) · `si`
+
+ගම්පහ මල්වතුහිරිපිටිය ප්‍රදේශයේ විහාරස්ථානයක හිමිනමක් වෙඩිතැබීමක් හේතුවෙන් අපවත් වී තිබේ. ටී 56 ගිනි අවියක් යොදාගනිමින් මෙම වෙඩිතැබීම සිදුකර ඇත.
+
+◼️
+
+[Data](articles/5420a4b6.json)
 
 ---
 
@@ -915,6 +1029,22 @@ Police Media Spokesman SSP Nihal Thalduwa explained that the CCTV camera system 
 [Data](articles/df5d6e1f.json)
 
 [Extended Data](ext_articles/df5d6e1f.ext.json)
+
+---
+
+### වැසී ඇති නියංගොඩ විද්‍යාලය කිතුල් ආශ්‍රිත නිෂ්පාදන කර්මාන්ත ශාලාවක් කිරීමට අවධානය
+
+*2024-01-23 12:48:29* · [`adalk`](https://www.ada.lk/breaking_news/වැසී-ඇති-නියංගොඩ-විද්‍යාලය-කිතුල්-ආශ්‍රිත-නිෂ්පාදන-කර්මාන්ත-ශාලාවක්-කිරීමට-අවධානය/11-407684) · `si`
+
+දැනට භාවිතයට නොගන්නා නියංගොඩ මහ විද්‍යාල පරිශ්‍රය කිතුල් ආශ්‍රිත නිෂ්පාදන කර්මාන්ත ශාලාවක් ආරම්භකිරීම සදහා වන මූලික සාකච්ඡාවක් මධ්‍යම පළාත් ආණ්ඩුකාරවර නීතීඥ ලලිත් යු ගමගේ මහතාගේ ප්‍රධානත්වයෙන් මහනුවර පිහිටි ආණ්ඩුකාරවර කාර්යාලීය ශ්‍රවණාගාරයේදී (22) පැවැත්විය.
+
+ඒ අනුව, සාම්ප්‍රදායික කිතුල් කර්මාන්තයට නව තාක්ෂණය මුසු කරමින් නවීන ලෝකයට ගැලපෙන පරිදි මෙම නිෂ්පාදන සකස් කිරීමට නියමිතව පවතින අතර, එය දේශීය මෙන්ම විදේශීය වෙළදපොලට කිතුල් ආශ්‍රිත අතුරු නිෂ්පාදන ලෙස ‍කිතුල් චොකලට්, තෙලිදිය පානය, දඹදිය ශක්ති ජනක පානය ඇතුලු නිෂ්පාදන රැසක් ආරම්භ කිරීමට නියමිතය.
+
+මෙම ව්‍යාපෘතිය වසර 05ක ආයෝජන සැලැස්මක් යටතේ ක්‍රියාත්මක කිරීමට නියමිත අතර, මධ්‍යම පළාත් කර්මාන්ත අමාත්‍යාංශය සහ GREEN GLOBE ORGANICS පෞද්ගලික සමාගම එක් ව ක්‍රියාත්මක කිරීමට නියමිතය.
+
+...
+
+[Data](articles/ec1a3dcd.json)
 
 ---
 
@@ -1857,163 +1987,5 @@ Sri Lanka’s Tourism Promotion Bureau said that it had attracted over 100 influ
 [Data](articles/37d114b7.json)
 
 [Extended Data](ext_articles/37d114b7.ext.json)
-
----
-
-### President's Work to grant Mobitel Subject Begage to all journalists!
-
-*2024-01-23 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174576) · `ta`
-
-President Ranil Wickremesinghe has issued a directive to the Sri Lanka Telecommunication Regulatory Commission to take necessary steps to re -provide the sub -pegge with Mobitel to the public servants and pensioners.
-
-Accordingly, the President has issued a directive to the Sri Lanka Telecommunications Regulatory Commission to provide the benefit to all and all journalists registered with the Government Information Department to the Government Information Department.
-
-◼️
-
-[Data](articles/16bf1c20.json)
-
-[Extended Data](ext_articles/16bf1c20.ext.json)
-
----
-
-### The key issues announced to the Speaker's House!
-
-*2024-01-23 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174584) · `ta`
-
-Speaker Mahinda Yapa Abeywardena has informed the House that six petitions have been filed in the Supreme Court against the proposed anti -terrorism bill.
-
-It is also worth noting that two petitions have been filed in the High Court against the Bill of the Financial and Credit Regulatory Authority.
-
-Six fundamental rights violation petitions have been filed in the Supreme Court against the proposed anti -terrorist bill, according to Article 121 (1) of the Constitution.
-
-Similarly, two fundamental rights violation petitions have been filed in the Supreme Court, according to the Constitution's 121 (1) Article 121 (1) of the Constitution's Bill.
-
-◼️
-
-[Data](articles/82a21f35.json)
-
-[Extended Data](ext_articles/82a21f35.ext.json)
-
----
-
-### President Ranil returns to the island
-
-*2024-01-23 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96645/president-ranil-returns-to-the-island-) · `en`
-
-President Ranil Wickremesinghe has returned to the island this morning following his overseas visit.
-
-The Head of State departed for Switzerland on 13 January, for an official visit in order to attend the 54th Annual Meeting of the World Economic Forum, after which he left for Uganda on 18 January, to attend the 19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the 3rd South Summit of the Group of 77 and China, in Kampala, Uganda.
-
-◼️
-
-[Data](articles/8448f2cd.json)
-
-[Extended Data](ext_articles/8448f2cd.ext.json)
-
----
-
-### Maxwell under investigation by Cricket Australia
-
-*2024-01-23 10:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maxwell-under-investigation-by-Cricket-Australia/108-275556) · `en`
-
-Sydney, Jan. 23 (AFP) - Glenn Maxwell is being investigated by Cricket Australia, a spokesperson said Tuesday, after the star allrounder was reportedly hospitalised following a night out.
-
-The governing body wants to quiz the 35-year-old about a recent incident in Adelaide.
-
-According to Australian media outlets, Maxwell was taken to hospital,  after attending a concert last Friday of the band Six & Out, made up of former cricket greats including Brett Lee.
-
-"Cricket Australia is aware of an incident involving Glenn Maxwell in Adelaide at the weekend and is seeking further information," said a spokesperson.
-
-Maxwell has been stood down for the upcoming 50-overs series against the West Indies early next month, but Cricket Australia insist the decision is not linked to the incident in Adelaide.
-
-He is expected to return for the Twenty20 series against the West Indies, starting February 9 following the one-day international games, Cricket Australia added.
-
-...
-
-[Data](articles/23f8f59d.json)
-
-[Extended Data](ext_articles/23f8f59d.ext.json)
-
----
-
-### Strict resolution on annual relocation
-
-*2024-01-23 10:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருடாந்த-இடமாற்றம்-தொடர்பில்-கடுமையான-தீர்மானம்/175-332000) · `ta`
-
-The Public Service Commission has requested the Secretaries and Department Heads of the Ministry to immediately implement the transfers for 2024 under the annual transfers.
-
-It is reported that the Secretary of the Public Service Commission has announced in writing.
-
-The Public Service Commission has stated that although the Commission's decisions have been announced on the annual transfers of the year 2024, the Commission's decisions have been made so far.
-
-Due to this, the Public Services Commission pointed out that some of the transplant cycles issued under the priority transfer were not implemented and other officers in the relevant transfers were adverse.
-
-The Public Service Commission said that the dissatisfied officials of the Public Service Commission on the annual transfer could submit their appeals to the Administrative Appeal Tribunal.
-
-...
-
-[Data](articles/9a46c720.json)
-
-[Extended Data](ext_articles/9a46c720.ext.json)
-
----
-
-### Decision from Public Service Commission regarding annual transfers
-
-*2024-01-23 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96644/decision-from-public-service-commission-regarding-annual-transfers) · `en`
-
-The Public Service Commission has requested all the department heads and ministry secretaries to immediately implement the transfers given for the year 2024 under the Annual Transfers. The Secretary of the Public Service Commission has submitted this request in writing.
-
-The commission stated that although the decisions of the commission regarding the appeals received in relation to the annual transfers for the year 2024 have been notified so far, further requests are being made from various parties regarding the matter.
-
-As a result, some of the transfer cycles given under the Annual Transfers have not been implemented and therefore other officers in the relevant transfer cycles have been prejudiced, the commission highlighted, adding that the officers who are dissatisfied with the decisions given by the Public Service Commission in relation to annual transfers can submit their appeals to the Administrative Appeals Tribunal.
-
-...
-
-[Data](articles/d76422d2.json)
-
-[Extended Data](ext_articles/d76422d2.ext.json)
-
----
-
-### Trade unionist representing CEB to be summoned before Parliament
-
-*2024-01-23 10:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trade-unionist-representing-CEB-to-be-summoned-before-Parliament/108-275555) · `en`
-
-Parliament, Jan. 23 (Daily Mirror)- Trade unionist representing employees of the Ceylon Electricity Board (CEB) Ranjan Jayalal is to be summoned before Parliament shortly for making a false claim.
-
-Minister of Power and Energy Kanchana Wijesekera proposed that trade unionist Ranjan Jayalal be summoned before Parliament for passing false information.
-
-"Ranjan Jayalal had passed false information that Parliament and the President's office have not paid their electricity bills for months. Both institutions have paid their electricity bills to date. Therefore Jayalal should be dealt with by summoning him before Parliament," Minister Wijesekera said.
-
-◼️
-
-[Data](articles/b7a43af6.json)
-
-[Extended Data](ext_articles/b7a43af6.ext.json)
-
----
-
-### The Ceremony Protection Act will make the government more and more powerful - Eran
-
-*2024-01-23 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174583) · `ta`
-
-United People's Power Parliamentarian Eran Wickramaratne says that the current security law, which is to be discussed in Parliament today and tomorrow, will be a massive blow to the people's speech.
-
-The government says that one of the objectives of this law is to protect women's rights on social media, but the Bill does not have the word "boys".
-
-He also said that if the status bill is passed, the police can confiscate the mobile phones of civil society activists without a court order.
-
-Eran Wickremaratne said that the bill would snatch the independence of the people.
-
-Under the president's direct trade;He also proposed the idea of setting up a Commission.
-
-He added that this bill is against the rights of the people that make the government more and more virtuous.
-
-◼️
-
-[Data](articles/8df514b2.json)
-
-[Extended Data](ext_articles/8df514b2.ext.json)
 
 ---

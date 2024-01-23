@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 09:02:25**
+As of **2024-01-23 09:17:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 240
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,938 (99.9%) of 1,939 articles have been extended.
+1,939 (100.0%) of 1,939 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1240,23 +1240,25 @@ The Sri Lanka Lawyers Association, which has accepted the need to take the neces
 
 ---
 
-### ජනපති මාස 17 රට සවාරි 18ක් ගිහින්
+### President has gone 17 months to 18 months
 
 *2024-01-22 20:21:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-මාස-17-රට-සවාරි-18ක්-ගිහින්/11-407671) · `si`
 
-රටේ ඇති අර්බුධය ස්වාභාවිකව නිර්මාණය නොවූ බවත් අකාර්යක්ෂම දූෂිත පාලනය නිසා සිදුවූ බවත් මෙය නිර්මාණය වූ අර්බුධයක් බවත් මෙය ආර්ථික ත්‍රස්තවාදයක් බවත් විපක්ෂ නායකවරයා පැවසීය.
+The Leader of the Opposition said that the crisis in the country was not naturally designed and that this was an economic terror and this was an economic terror.
 
-මෙම ආර්ථික ත්‍රස්තවාදීන් හොර කල්ලි මැර කල්ලි ගජමිතුරුන් සමග අත්වැල් බදගෙන රට බංකොලොත් කර ලෝකය වටේ සවාරි යමින් ජනතාවගේ ජනදුක පිළිබඳ කිසිදු හැගීමක් නොමැතිව කටයුතු කරන ආකාරය ගැන විරෝධය පළ කළ යුතු බවත් විපක්ෂ නායකවරයා පැවසීය.
+The Opposition Leader said that the country was launched with the bankruptcy of the country and ensuring how to work around the world, taking hands with these economic terrorists.
 
-ජනජීවිත බිල්ලට ගෙන ජනතාව විදින දුක කදුල වේදනාව ගණන් නොගෙන ජනතාව මුහුණ දෙන තාඩන පීඩන ගණන් නොගෙන රටේ නායකයා ජනතා බදු මුදලින් රට සවාරි යන බවත් රටේ ජනාධිපති වී මාස 17ට සවාරි 18ක් ගොස් ඇති බවත් අයවැයෙන් වෙන් වූ මුදල ප්‍රමාණයවත් නොවූ නිසා තවත් මිලියන 200ක් වෙන් කර ගෙන ඇති බවත් විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා පැවසීය.
+The country's leader has not taken the country without counting the lives of the people without regarding the life pressure of the people and the country has been allocated for 17 months.Opposition Leader Sajith Premadasa said.
 
-*විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා මේ බව කියා සිටියේ නාරම්මල නගරයේ පැවැති 'ජනපවුර - දඹදෙණිය' වැඩසටහනට එක්වෙමිනි.*
+* Sajith Premadasa, Opposition Leader Sajith Premadasa, addressing the Dambadeniya program at Narammala City. *
 
-වික්‍රමසිංහ රාජපක්ෂ ජනාධිපතිවරයා ගජමිතුරුවාදය අනුගමනය කරමින් සිටින බවත් ජනතාව පෙලා ලබා ගන්නා බදු මුදල් දූෂණයෙන් වංචාවෙන් සොරකම් කරන බවත් විපක්ෂ නායකවරයා මෙහිදි පැවසීය.
+The Opposition Leader said that Mr. Wickremasinghe Rajapaksa is following the correspondingness and that the people who receive tax money will be fraudulent.
 
 ...
 
 [Data](articles/bb9ddcb0.json)
+
+[Extended Data](ext_articles/bb9ddcb0.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 01:17:30**
+As of **2024-01-24 01:32:52**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,172 (99.9%) of 2,174 articles have been extended.
+2,174 (100.0%) of 2,174 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ What is concerning however is that the Minister and the Acting IGP seem to be ac
 
 [Data](articles/b083f963.json)
 
+[Extended Data](ext_articles/b083f963.ext.json)
+
 ---
 
 ### What is the JVP’s Economic Policy?
@@ -57,6 +59,8 @@ Hats off to the JVP lady who promised that when the JVP/NPP comes to power, it w
 ...
 
 [Data](articles/5e30e8b1.json)
+
+[Extended Data](ext_articles/5e30e8b1.ext.json)
 
 ---
 

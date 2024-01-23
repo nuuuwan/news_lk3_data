@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 17:17:11**
+As of **2024-01-23 17:33:22**
 
 ## Newspaper Stats
 
-*Scraped **2,100** Articles*
+*Scraped **2,103** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,9 +14,9 @@ dbsjeyarajcom | 121
 newsfirstlk | 123
 islandlk | 123
 economynextcom | 126
-adaderanasinhalalk | 133
+adaderanasinhalalk | 135
 dailyftlk | 171
-adalk | 214
+adalk | 215
 virakesarilk | 232
 dailymirrorlk | 256
 adaderanalk | 261
@@ -26,11 +26,47 @@ tamilmirrorlk | 266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,099 (100.0%) of 2,100 articles have been extended.
+2,100 (99.9%) of 2,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### EPF සහ ETF පෙත්සම් ගැන අධිකරණයෙන් නියමයක්
+
+*2024-01-23 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192477) · `si`
+
+දේශීය ණය ප්‍රතිව්‍යුහගත කිරීමේ කටයුතුවලදී සේවක අර්ථසාධක අරමුදල හා සේවා නියුක්තිකයන්ගේ භාර අරමුදලේ සාමාජිකයින්ට අගතියක් සිදුවන බවට චෝදනා කරමින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සම් සලකා බැලීම සඳහා ඔක්තෝම්බර් මස 30 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (23) දින නියම කළේය.
+
+අදාළ පෙත්සම් එස්. තුරෙයිරාජා, ශිරාන් ගුණරත්න සහ මහින්ද සමයවර්ධන යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+
+එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් විරාජ් දයාරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පෙත්සම් විභාගයට නොගෙන නිෂ්ප්‍රභ කරන ලෙස මූලික විරෝධතා මතු කරන බව සඳහන් කළේය.
+
+මෙම කරුණට අදාළව ගොනුකළ පෙත්සම් කිහිපයක් මීට පෙර ශ්‍රේෂ්ඨාධිකරණය විසින් නිෂ්ප්‍රභ කර තිබෙන බවත් මෙම පෙත්සම් විභාග කිරීමට අධිකරණයට බලයක් නොමැති බවත් අතිරේක සොලිසිටර් ජනරාල්වරයා සිය මූලික විරෝධතාවලින් සඳහන් කරයි.
+
+කටුනායක නිදහස් වෙළෙඳ කලාප සේවක සංගමයේ කැඳවුම්කරු ඇන්ටන් මාකස් ඇතුළු පාර්ශ්ව 04ක් විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+
+◼️
+
+[Data](articles/a4311a7c.json)
+
+---
+
+### දෑස් ඉදිරිපිට කඩා වැටුණු සිහිනය
+
+*2024-01-23 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192475) · `si`
+
+නිවසකට පදිංචිවීමට ඔන්න මෙන්න තිබියදී තෙමහල් නිවසක් කඩාවැටුණු අවාසනාවන්ත පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+
+අදාළ තෙමහල් නිවසේ හිමිකරුවන් විසින් නිවසට ගෙවැදීම සඳහා පූජාව පවත්වමින් සිටියදී මෙම අවාසනාවන්ත සිදුවීම වී ඇත.
+
+කෙසේ වෙතත් ඉන් කිසිවෙකුටත් හානියක් සිදුව නොමැති අතර විදෙස් මාධ්‍ය පවසන්නේ භූගත මළාපවහන පද්ධතියක් ගිලා බැසීමෙන් මෙම නිවස කඩාවැටී ඇති බවය.
+
+◼️
+
+[Data](articles/a32683da.json)
+
+---
 
 ### The government has no intention of suppressing the media;Social media will definitely be monitored - Minister of Public Safety
 
@@ -293,6 +329,8 @@ Weerasinghe conceded that when the order was issued “we also had expectations 
 ◼️
 
 [Data](articles/3ea49984.json)
+
+[Extended Data](ext_articles/3ea49984.ext.json)
 
 ---
 
@@ -1043,6 +1081,28 @@ After the VAT Amendment Bill was passed in Parliament on 11 December 2023, it wa
 [Data](articles/6526eda3.json)
 
 [Extended Data](ext_articles/6526eda3.ext.json)
+
+---
+
+### අපුර වර්තමානයේ ජීවත් වූ වයස්ගතම පුද්ගලයා ජීවිතක්ෂයට
+
+*2024-01-23 12:54:24* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-වර්තමානයේ-ජීවත්-වූ-වයස්ගතම-පුද්ගලයා-ජීවිතක්ෂයට/11-407685) · `si`
+
+අනුරාධපුර විජයපුර ප්‍රදේශයේ ජීවත් වූ වයස අවුරුදු 105ක, පියකු ඊයේ (22 දා) ජීවිතක්ෂයට පත් වූවාය.
+
+මෙලෙස ජීවිතක්ෂයට පත් වූයේ වෘත්තියෙන් පෙදරේරු ශිල්පියෙකු ලෙස කටයුතු කල අනුරාධපුර විජයපුර, ගැමුණු මාවතේ පදිංචිව සිටි ආර්.ඒ. චන්ද්‍රසේන  මහතාය.
+
+පුතුන් තිදෙනෙකුගේ සහ එක් දියණියකගේ පියෙකු වන ඒ මහතාට මුණුපුරු මිණිපිරියන් සහ දෙමුමුණුපුරන් රැසකි.
+
+1919 . 2. 19  ගාල්ල ප්‍රදේශයේ උපත ලබා 1945 වර්ෂයේදී අනුරාධපුර ප්‍රදේශයේ  පදිංචියට පැමිණි  ඒ මහතා පෙදරේරුවෙකු ලෙස  ලෙස කටයුතු කර තිබේ.
+
+වාර්තාවන අන්දමට අනුරාධපුර ප්‍රදේශයේ වර්තමානයේ ජීවතුන්  අතර සිටි වයස්ගතම පුද්ගලයා මොහු බව ඥාතීහු පැවසූහ.
+
+ෙදේහය  සම්බන්ධයෙන් අවසන් කටයුතු අද (23දා) සවස 6ට අනුරාධපුර නිසල නිම්නය සුසාන භූමියේදී අදාහන කටයුතු  සිදු කිරීමට නියමිතව තිබුණි.
+
+◼️
+
+[Data](articles/dfc9b7e1.json)
 
 ---
 
@@ -1953,55 +2013,5 @@ Accordingly, all party leaders representing the opposition demanded that the leg
 [Data](articles/5c89d945.json)
 
 [Extended Data](ext_articles/5c89d945.ext.json)
-
----
-
-### Hurry postponed and congregation re -assembled
-
-*2024-01-23 10:59:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசரமாக-ஒத்திவைக்கப்பட்டு-சபை-மீண்டும்-கூடியது/175-332001) · `ta`
-
-The meeting of the party leaders was held at the Speaker Mahinda Yapa Abeywardena at the Lime.
-
-Opposition Leader Sajith Premadasa made a request to hold a meeting of party leaders on the bill.
-
-◼️
-
-[Data](articles/1eab395c.json)
-
-[Extended Data](ext_articles/1eab395c.ext.json)
-
----
-
-### Sri Lankans resettled in Tamil Nadu receive ‘All Country Passports’
-
-*2024-01-23 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96646/sri-lankans-resettled-in-tamil-nadu-receive-all-country-passports) · `en`
-
-The Deputy High Commission of Sri Lanka in Chennai has recently conducted an event to hand over the first batch of “All Country Passports” to Sri Lankan nationals resettled in Tamil Nadu.
-
-The Government of Sri Lanka has so far been issuing a travel document called ‘Refugee Repatriation Passport’ for this segment of Sri Lankans for the purpose of only returning to Sri Lanka considering their irregular stay in India.
-
-The Sri Lanka Deputy High Commission in Chennai made a proposal to the Government of Sri Lanka taking into account the volume of requests received from these Sri Lankans to issue all country passport enabling them to travel to other countries for higher education, employment opportunities and family reunification etc., the Deputy High Commission said in a statement.
-
-...
-
-[Data](articles/6aa824cb.json)
-
-[Extended Data](ext_articles/6aa824cb.ext.json)
-
----
-
-### Two buses collide in Jaffna;8 people are admitted to the hospital
-
-*2024-01-23 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/174586) · `ta`
-
-Two buses crashed into the Jaffna -Kayts road this morning (23).
-
-Yall. Investigations have revealed that the Sri Lanka Transport Board bus and a private bus collided with the accident.
-
-◼️
-
-[Data](articles/8738d851.json)
-
-[Extended Data](ext_articles/8738d851.ext.json)
 
 ---

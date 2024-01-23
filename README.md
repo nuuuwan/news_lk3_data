@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 19:32:43**
+As of **2024-01-23 19:50:46**
 
 ## Newspaper Stats
 
-*Scraped **2,132** Articles*
+*Scraped **2,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 122
 newsfirstlk | 123
 islandlk | 123
 economynextcom | 132
-adaderanasinhalalk | 138
+adaderanasinhalalk | 139
 dailyftlk | 171
 adalk | 218
 virakesarilk | 235
@@ -26,35 +26,73 @@ adaderanalk | 267
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,130 (99.9%) of 2,132 articles have been extended.
+2,133 (100.0%) of 2,133 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### කොළඹ හෙට්ටිවීදියේ දැවැන්ත රන් කොල්ලයක්
+### Suspects arrested for shooting suspects arrived
+
+*2024-01-23 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192481) · `si`
+
+A suspicion of suspects had been found in the Bedumber area of the Bedumber area this afternoon.
+
+The car was already on fire that the car was unrecognized at the same time.
+
+Meanwhile, a white car holding the temples cao-5345 category cao-5345 category has been found in the Motor vehicle cao-5345.
+
+Four suspects entering the temple premises this afternoon have stopped the car and entered into the inside house.
+
+The suspects have asked whom the Lord is dealing with the gerity.
+
+The monk's prevailing lord says the suspects were carried out by saying they were CID officials.
+
+The shooting was hit by his left hand and the pale, which was admitted to the Gampaha District General Hospital soon.
+
+Hospital sources said that he had already been humiliated.
+
+The shooting was a 44 year old monk named Venerable Dhammaratne.
+
+Kaselkanda Kumarka Kusum, which was previously worked for machinery and scientific, was in a remote area.
+
+...
+
+[Data](articles/1f226575.json)
+
+[Extended Data](ext_articles/1f226575.ext.json)
+
+---
+
+### Great gold robbery in Hettivoy
 
 *2024-01-23 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192480) · `si`
 
-කොළඹ හෙට්ටිවීදිය ප්‍රදේශයේදී රන් භාණ්ඩ සහ විදේශ මුදල් පාර්සලයක් කොල්ල කෑ කල්ලියක් පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+Police have arrested a gang of robbery of gold and a foreign currency in the Hettivi area in Colombo.
 
-එම පිරිස අතර ත්‍රිරෝද රථ රියදුරෙකු සහ ඔහුගේ ඥාතියෙකු, හිටපු යුද හමුදා සෙබළෙකු සිටින බව පොලීසිය පවසයි.
+Among them are a three-wheeler driver and his relatives, a former Army soldier.
 
-මෙලෙස කොල්ලකෑමට ලක්ව ඇත්තේ හෙට්ටිවීදිය රන් භාණ්ඩ අලෙවිසැලක් හිමි අයෙකුගේ රන් හා විදේශ මුදල් තොගයකි.
+The golden and foreign currency was a golden and foreign currency of the Hettawi.
 
-ඔහුට අයත් තවත් රන් භාණ්ඩ අලෙවිසැල් දෙකක් කාත්තන්කුඩි සහ මඩකලපුව ප්‍රදේශ වලද ඇත.
+Two more gold items belonging to him in Kattankudy and Batticaloa areas.
 
-එම වෙළෙඳසැල්වල සිට උණු කරන ලද රන් කැබලි කිහිපයක් බස් රථයක් මාර්ගයෙන් පසුගිය 11 වනදා කොළඹට එවා තිබේ.
+Several heated gold pieces have been sent to Colombo on the 11th of this month.
 
-අදාළ බස් රථයෙන් එම රන් පාර්සලය ලබාගෙන ඇති සේවකයා එය රැගෙන සියේ ඉණෙහි සඟවාගෙන හෙට්ටිවීදියේ වෙළෙඳසැල ආසන්නයට පැමිණීමත් සමග ත්‍රිරෝද රථයකින් පැමිණි පුද්ගලයෙකු ඔහුව පැහැරගෙන යන අයුරු CCTV කැමරාවක පටිගතව ඇත.
+A person from a three-wheeler was recorded on a three-wheeler with a three-wheeler of the Hettivideo.
 
-පසුව ඔහු සතුව තිබූ රන් කොල්ලකා ඔහුව කොච්චිකඩේ පල්ලිය ආසන්නයෙන් මාර්ගයේ දමාගොස් ඇත.
+Later, he had gone on the road near the Kochchikade Church.
 
-එම සිදුවීම සම්බන්ධයෙන් ලද පැමිණිල්ලකට අනුව පිටකොටුව පොලීසියේ අපරාධ විමර්ශන අංශය විසින් CCTV දර්ශන උපයෝගී කරගනිමින් සැකකරුවන් හඳුනාගෙන ඇත.
+According to a complaint regarding the incident, the Criminal Investigation Division of the Pettah Police have identified the suspects using CCTV footage.
+
+The three-wheeler driver among the arrested suspects have been involved in a ten-wheeler in the area for many years.
+
+In these cases, they have confessed that the robber has been planned by buses by buses by buses by the buses on several occasions by buses.
 
 ...
 
 [Data](articles/b99033ab.json)
+
+[Extended Data](ext_articles/b99033ab.ext.json)
 
 ---
 
@@ -1054,17 +1092,19 @@ Accordingly, the arrested Indian nationals, and their trawlers, were brought to 
 
 ---
 
-### තවත් 16000කට රු. 2000ක දීමනාවක්
+### Over another 16,000. 2000 allowance
 
 *2024-01-23 14:18:36* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-16000කට-රු--2000ක-දීමනාවක්/11-407688) · `si`
 
-සමෘද්ධි වැඩසටහන යටතේ මෙතෙක් ප්‍රතිලාභ ලැබූ ආයතනගත පුද්ගලයින් 16,146ක් වෙත ජනවාරි මාසයේ සිට රුපියල් 2,000ක දීමනාවක් දිස්ත්‍රික් ලේකම්වරුන් මගින් ගෙවීමට රජය තීරණය කර තිබේ.
+The government has decided to pay 16,146 institutional persons to receive a 2,146 institutional persons to benefit from the Samurdhi program.
 
-ඒ අනුව පිරිවෙන් වල වැඩසිටින හිමිවරුන්, ළමානිවාස, වැඩිහිටි නිවාස, රැකබලා ගැනීමේ නිවාස වල සිටින විශේෂ අවශ්‍යතා සහිත පුද්ගලයන් සඳහා මෙම දීමනාව හිමිවනු ඇත.
+Accordingly, the allowance will be available for persons with special needs, children, adult homes, who are working in Pirivenas.
 
 ◼️
 
 [Data](articles/cd2e2315.json)
+
+[Extended Data](ext_articles/cd2e2315.ext.json)
 
 ---
 
@@ -2011,23 +2051,5 @@ However, a referendum on whether or postponing the proposed backup Bill for a se
 [Data](articles/30e3317e.json)
 
 [Extended Data](ext_articles/30e3317e.ext.json)
-
----
-
-### Sri Lanka parliament votes to go ahead with Online Safety bill amid opposition
-
-*2024-01-23 12:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-votes-to-go-ahead-with-online-safety-bill-amid-opposition-148400/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s parliament voted to go ahead with a scheduled debate on a controversial Online Safety Bill that critics say will stifle freedom of speech on the internet.
-
-A party leaders’ meeting was held Tuesday January 23 morning on the request of the opposition to discuss the matter. After parliament had reconvened later in the morning, opposition legislators complained that they had yet to receive a copy of the Sectoral Oversight Committee’s report on the bill in time for the debate.
-
-Opposition MPs then proposed postponing the debate to a later date on account of this delay. They lacked adequate information on the contents of the bill to proceed with the debate, the MPs said. Speaker Mahinda Yapa Abeywardena himself said he had only received the report earlier in the morning.
-
-...
-
-[Data](articles/e5e84c0e.json)
-
-[Extended Data](ext_articles/e5e84c0e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 11:52:08**
+As of **2024-01-23 12:04:06**
 
 ## Newspaper Stats
 
-*Scraped **1,984** Articles*
+*Scraped **1,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,98 @@ dailyftlk | 171
 virakesarilk | 195
 adalk | 203
 dailymirrorlk | 240
-adaderanalk | 246
-tamilmirrorlk | 258
+adaderanalk | 248
+tamilmirrorlk | 260
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,984 (100.0%) of 1,984 articles have been extended.
+1,988 (100.0%) of 1,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### Parliamentary vote on whether to debate Online Safety Bill
+
+*2024-01-23 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96648/parliamentary-vote-on-whether-to-debate-online-safety-bill-) · `en`
+
+A vote is currently being taken in Parliament on whether or not to take up the proposed Online Safety Bill for debate, Ada Derana reporter said.
+
+The Second Reading Debate of the proposed Online Safety Bill was scheduled to be held in Parliament today (Jan 23).
+
+However, the parliamentary session which commenced at 09.30 a.m. this morning, took a 10-minute adjournment to convene a party leaders meeting for discussions on the proposed Online Safety Bill on the request of all Parliamentarians belonging to the Opposition.
+
+Opposition Leader Sajith Premadasa had requested for a Party Leaders meeting before the Online Safety Bill is taken up for debate, following which the Speaker adjourned Parliament for 10 minutes.
+
+◼️
+
+[Data](articles/a8af9eae.json)
+
+[Extended Data](ext_articles/a8af9eae.ext.json)
+
+---
+
+### Cameroon starts world-first malaria mass vaccine rollout
+
+*2024-01-23 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96647/cameroon-starts-world-first-malaria-mass-vaccine-rollout) · `en`
+
+The world’s first routine vaccine programme against malaria has started in Cameroon, in a move projected to save thousands of children’s lives across Africa.
+
+The symbolic first jab was given to a baby girl named Daniella at a health facility near Yaoundé on Monday.
+
+Every year 600,000 people die of malaria in Africa, according to the World Health Organization (WHO).
+
+Cameroon is offering the RTS,S vaccine free of charge to all infants up to the age of six months old.
+
+Patients require a total of four doses. Health officials say these will be given at the same time as other routine childhood vaccines to make it easier for parents.
+
+It comes after successful pilot campaigns in Kenya, Ghana and Malawi - where the vaccine caused a 13% drop in malaria deaths in children of eligible age, says Unicef.
+
+The jab is known to be effective in at least 36% of cases, according to US researchers, meaning it could save over one in three lives.
+
+...
+
+[Data](articles/c281054f.json)
+
+[Extended Data](ext_articles/c281054f.ext.json)
+
+---
+
+### President's happy announcement to journalists
+
+*2024-01-23 11:27:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளர்களுக்கு-ஜனாதிபதியின்-மகிழ்ச்சியான-அறிவிப்பு/175-332006) · `ta`
+
+President Ranil Wickremesinghe has ordered the necessary steps to be taken to all journalists registered with the Government Information Department to the Government Information Department.
+
+◼️
+
+[Data](articles/e8a93f37.json)
+
+[Extended Data](ext_articles/e8a93f37.ext.json)
+
+---
+
+### Alert to 125 people identified by CCTV
+
+*2024-01-23 11:21:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CCTV-மூலம்-இனங்காணப்பட்ட-125-பேருக்கு-எச்சரிக்கை/175-332005) · `ta`
+
+Various roads in Colombo were monitored by CCTV yesterday (22) and alerted 125 traffic violations.
+
+The pioneer plan to monitor traffic violations through the CCTV camera began yesterday to impose fines for vehicle owners.
+
+The police headquarters said that 125 traffic violations have been identified by the CCTV around Colombo and the owners of the vehicles have been warned as an early stage.
+
+Here are the mistakes of the errors that are mainly changing the path and not standing in the area.
+
+◼️
+
+[Data](articles/a60f4891.json)
+
+[Extended Data](ext_articles/a60f4891.ext.json)
+
+---
 
 ### CCTV operation warns 125 people
 
@@ -1887,77 +1967,5 @@ Gonagankara Police are conducting further investigations.
 [Data](articles/1a6817cc.json)
 
 [Extended Data](ext_articles/1a6817cc.ext.json)
-
----
-
-### Brunners' breasts Rs. Arrested with assets of three crores
-
-*2024-01-22 20:45:59* · [`adalk`](https://www.ada.lk/breaking_news/පොඩි-ණුවන්ගේ-බිරි﻿ඳ-රු--කෝටි-තුනක-වත්කම්-සමග-අත්අඩංගුවට/11-407674) · `si`
-
-His wife has been arrested by the illegal assets division of the property, a large number of alcohol dealer in Ahungalla area.
-
-Among the possessions, a high frigation lorry, JCBB and a motorcycle, and a motorcycle are a high fixture.
-
-The officer said that a smallmanna was arrested and remanded before a year ago with drug racket.
-
-The property was taken into police custody by the police station on the inspection of the suspect's property.
-
-◼️
-
-[Data](articles/e2152af0.json)
-
-[Extended Data](ext_articles/e2152af0.ext.json)
-
----
-
-### Inflation back up again
-
-*2024-01-22 20:39:51* · [`adalk`](https://www.ada.lk/breaking_news/උද්ධමනය-යළිත්-ඉහළට/11-407673) · `si`
-
-Inflation in Sri Lanka is once again rising. In December 2023, the inflation recorded as 2.8% in November 2023 increased to 4.2% in December 2023.
-
-In December 2023, the point inflation was increased to 1.6% in December 2023.
-
-The non-foodstream-point inflation in 7.1% in November has reduced to 6.3% in December.
-
-◼️
-
-[Data](articles/1af39420.json)
-
-[Extended Data](ext_articles/1af39420.ext.json)
-
----
-
-### Against legalising prostitution under NPP government
-
-*2024-01-22 20:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Against-legalising-prostitution-under-NPP-government/110-275515) · `en`
-
-A protest was held in front of the head office of the Janatha Vimukthi Peramuna (JVP) in Pelawatta against the statement by National People's Power (NPP) executive member Samanmalee Gunasinghe over legalising prostitution under their government. Protest was staged by New Peoples Front Pix courtesy social media
-
-◼️
-
-[Data](articles/cc21367f.json)
-
-[Extended Data](ext_articles/cc21367f.ext.json)
-
----
-
-### Five vehicles in the Katunayake Expressway
-
-*2024-01-22 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192443) · `si`
-
-The Katunayake Expressway was accidental confronting several vehicles during the Peliyagoda interchange.
-
-The accident had occurred when the cab collided with a cab when he was queled with four traffic in Katunayake.
-
-No one was injured in the accident and cars had to be severely damaged.
-
-The police suspect that the accident had been unable to control the vehicle.
-
-◼️
-
-[Data](articles/e5c0a8f5.json)
-
-[Extended Data](ext_articles/e5c0a8f5.ext.json)
 
 ---

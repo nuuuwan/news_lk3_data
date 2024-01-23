@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 08:17:53**
+As of **2024-01-23 08:32:57**
 
 ## Newspaper Stats
 
-*Scraped **1,935** Articles*
+*Scraped **1,938** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,31 +18,85 @@ dbsjeyarajcom | 121
 dailyftlk | 171
 virakesarilk | 195
 adalk | 200
-adaderanalk | 237
 tamilmirrorlk | 239
+adaderanalk | 240
 dailymirrorlk | 240
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,929 (99.7%) of 1,935 articles have been extended.
+1,935 (99.8%) of 1,938 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### පොලී අනුපාත ගැන මහ බැංකුවෙන් නිවේදනයක්
+### 955 more suspects arrested during operation ‘Yukthiya’
+
+*2024-01-23 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96640/955-more-suspects-arrested-during-operation-yukthiya) · `en`
+
+A total of 955 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan. 23) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 187g of heroin, 126g of crystal methamphetamine (Ice) and 136 narcotic pills.
+
+◼️
+
+[Data](articles/c0894514.json)
+
+---
+
+### Parliament to debate the Online Safety Bill today
+
+*2024-01-23 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96639/parliament-to-debate-the-online-safety-bill-today) · `en`
+
+The Second Reading Debate of the proposed Online Safety Bill is scheduled to be held in Parliament today (January 23).
+
+Parliament is to convene at 9.30 a.m. this morning while Minister of Public Security Tiran Alles is slated to present the draft bill to the parliament.
+
+The Sectoral Oversight Committee on Media, Youth, Heritage and New Citizen has approved the Online Safety Bill, Subject to the amendments determined by the Supreme Court.
+
+The bill was approved when the Sectoral Oversight Committee met in Parliament yesterday (22) under the chairmanship of the Member of Parliament Lalith Warankumara.
+
+Thus, the bill will be taken for the second reading debate, today (23).
+
+Officials representing the Ministry of Public Security, the Attorney General’s Department, the Legal Draftsman’s Department, Sri Lanka Police and the National Secretariat of Non-Governmental Organizations joined yesteday’s meeting.
+
+...
+
+[Data](articles/434ed4c9.json)
+
+---
+
+### Central Bank announced on interest rates
 
 *2024-01-23 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192454) · `si`
 
-පොලී අනුපාත නොවෙනස්ව පවත්වාගෙන යෑමට ශ්‍රී ලංකා මහ බැංකුවේ මුදල් ප්‍රතිපත්ති මණ්ඩලය තීරණය කර තිබේ.
+The Central Bank of Sri Lanka has decided to maintain interest rate rates.
 
-ඊයේ (22) පැවති රැස්වීමේ දී නිත්‍ය තැන්පතු පහසුකම් අනුපාතිකය 9%ක සහ නිත්‍ය ණය පහසුකම් අනුපාතිකය 10%ක දැනට පවතින මට්ටම්වලම පවත්වාගෙන යෑමට ඒ අනුව තීරණය කර ඇතැයි මහ බැංකුව නිවේදනය කළේය.
+The Central Bank announced that the permanent deposit facility rate was 9% and permanent loan facilities at the meeting of the meeting yesterday (22).
 
 ◼️
 
 [Data](articles/2cd15fe4.json)
+
+[Extended Data](ext_articles/2cd15fe4.ext.json)
+
+---
+
+### Central Bank keeps policy rates unchanged
+
+*2024-01-23 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96638/central-bank-keeps-policy-rates-unchanged) · `en`
+
+The Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to maintain the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank at their current levels of 9.00 per cent and 10.00 per cent, respectively.
+
+The Board arrived at this decision at its meeting held on 22 January following a comprehensive assessment of domestic and international macroeconomic developments in order to maintain inflation at the targeted level of 5 per cent over the medium term, while enabling the economy to reach its potential, a statement said.
+
+The Board took note of the effects of the recent developments in taxation and supply-side factors that are likely to pose upside pressures on inflation in the near term. However, the Board viewed that the impact of these developments would not materially change the medium-term inflation outlook, the central bank said.
+
+...
+
+[Data](articles/acd88347.json)
 
 ---
 
@@ -122,43 +176,47 @@ Mainly fair weather will prevail in the other areas of the island.
 
 ---
 
-### දින 20ක් තුළ ඩෙංගු මරණ 3ක්
+### 3 dengue deaths in 20 days
 
 *2024-01-23 07:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192453) · `si`
 
-ජාතික ඩෙංගු මර්දන ඒකකය සඳහන් කළේ, මේ වසරේ ගත වූ පළමු දින 20 තුළ මෙම මරණ වාර්තා වන බවය.
+The National Dengue Control Unit states that these deaths have been reported during the first 20 days of this year.
 
-මේ වසරේ ගතවූ කාලය තුළ දිවයින පුරා ඩෙංගු රෝගීන් 7,507 දෙනෙකු වාර්තා වී තිබේ.
+7,507 dengue patients have been reported across the country during the last days.
 
-ඉන් වැඩිම රෝගීන් සංඛ්‍යාවක් යාපනය දිස්ත්‍රික්කයෙන් වාර්තා වී ඇති අතර එම සංඛ්‍යාව 1,602කි.
+The highest number of patients have been reported from the Jaffna district and the number is 1,602.
 
-කොළඹ දිස්ත්‍රික්කයෙන් රෝගීන් 1,536ක් වාර්තා වී ඇති අතර ගම්පහ දිස්ත්‍රික්කයෙන් රෝගීන් 637ක් වාර්තා වී තිබේ.
+1,536 cases were reported from the Colombo district and 637 were reported from Gampaha District.
 
-මේ අතර ඩෙංගු රෝග ව්‍යාප්තිය පාලනය කිරීම සඳහා ජනතාවගෙන් ලැබෙන සහය ප්‍රමාණවත් නොවන බව සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා සඳහන් කළේය.
+Meanwhile, Minister of Health Dr. Ramesh Pathiran said that the support of the people to control the distribution of dengue is not sufficient.
 
 ◼️
 
 [Data](articles/a3bb0192.json)
 
+[Extended Data](ext_articles/a3bb0192.ext.json)
+
 ---
 
-### වාර්ෂික ස්ථාන මාරුවීම් ගැන රාජ්‍ය සේවා කොමිෂන් සභාවෙන් දැඩි තීරණයක්
+### Annual Transfers of the Public Service Commission is a severe decision
 
 *2024-01-23 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192452) · `si`
 
-වාර්ෂික ස්ථාන මාරුවීම් යටතේ 2024 වර්ෂය සඳහා ලබාදී ඇති ස්ථානමාරුවීම් වහාම ක්‍රියාත්මක කරන ලෙස සියලු අමාත්‍යංශ ලේකම්වරුන්ගෙන් හා දෙපාර්තමේන්තු ප්‍රධානීන්ගෙන් රාජ්‍ය සේවා කොමිෂන් සභාව ඉල්ලීමක් කර තිබේ.
+The Public Service Commission has requested the immediate implementation of the markets given for the year 2024 under annual transfers.
 
-රාජ්‍යසේවා කොමිෂන් සේවා සභාවේ ලේකම්වරයා විසින් ලිඛිතව අදාළ දැනුම් දීම සිදුකර ඇති බව වාර්තා වේ.
+It is reported that the Secretary to the Public Service Commission has been informed in writing.
 
-2024 වර්ෂය සඳහා වාර්ෂික ස්ථාන මාරුවීම්වලට අදාළව රාජ්‍ය සේවා කොමිෂන් සභාව වෙත ලැබී ඇති අභියාචනා සම්බන්ධයෙන් ද කොමිෂන් සභාවේ තීරණ මේ වන විට දැනුම් දී තිබුණ ද තවදුරටත් විවිධ පාර්ශව වෙතින් ඉල්ලීම් ඉදිරිපත් වන බව රාජ්‍ය සේවා කොමිෂන් සභාව පවසයි.
+The Commission's decisions have been made regarding the appeals to the Public Service Commission regarding the annual transfers of the year 2024 and further requests will be submitted to various parties.
 
-මේ හේතුවෙන් වාර්ෂිත ස්ථාන මාරුවීම් යටතේ ලබා දී ඇති ඇතැම් ස්ථානමාරු චක්‍ර ක්‍රියාවට නැංවිය නොහැකි වී ඇති අතර එම නිසා අදාළ ස්ථානමාරුවීම් චක්‍රවල සිටින අනෙකුත් නිලධාරීන් අගතියට පත්ව ඇති බව රාජ්‍ය සේවා කොමිෂන් සභාව පෙන්වා දෙයි.
+As a result, some transfers granted under the transfer of ranks have been implemented, so other officials in the respective trading cycles have been prejudiced.
 
-වාර්ෂික ස්ථාන මාරුවීම් සම්බන්ධයෙන් රාජ්‍ය සේවා කොමිෂන් සභාව විසින් ලබාදී ඇති තීරණ පිළිබඳව අතෘප්තියට පත්වන නිලධාරීන්ට පරිපාලන අභියාචන විනිශ්චය අධිකාරිය වෙත සිය අභියාචනා ඉදිරිපත් කිරීමේ හැකියාව පවතින බව රාජ්‍ය සේවා කොමිෂන් සභාව පවසයි.
+The official service commission said that the officers who are demanding the Administrative Appeal Authority (ACCCCSI) has been able to present their appeals to the Administrative Appeals Authority.
 
 ...
 
 [Data](articles/dffd8d6b.json)
+
+[Extended Data](ext_articles/dffd8d6b.ext.json)
 
 ---
 
@@ -186,21 +244,27 @@ One Aksu resident told Xinhua that people rushed outside for safety amid the sha
 
 ---
 
-### මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත අද පාර්ලිමේන්තුවට
+### Online Methods The Bill to Parliament today
 
 *2024-01-23 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192451) · `si`
 
-‍මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය අද (23) පැවැත්වීමට නියමිතව තිබේ.
+The Second Reading Debate on the Safety of Online Methods The Second Reading Debate will be held today (23).
 
-පෙරවරු 09.30ට පාර්ලිමේන්තුව රැස්වීමට නියමිත අතර එහිදී මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් මෙම පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+The Parliament is due to meet at 09.30am and is to be presented by the Minister of Public Defense Minister Tiran Alles to Parliament.
 
-ශ්‍රේෂ්ඨාධිකරණය ඉදිරිපත් කළ සංශෝධනයන්ට යටත්ව මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කිරීම සඳහා මාධ්‍ය, තාරුණ්‍ය, උරුමය හා නූතන පුරවැසියා පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ අනුමැතිය ද ඊයේ (22) හිමිවුණි.
+The Second Oversight Committee of the Sectoral Oversight Committee was approved by the Sectoral Oversight Committee on the Scheme on the Scheme on the Scheme on the Supreme Court.
 
-ශ්‍රී ලංකාව තුළ සිද්ධියක් පිළිබඳ ඇතැම් ප්‍රකාශ මාර්ගගත ලෙස සන්නිවේදනය කිරීම තහනම් කිරීම පිණිස විධි විධාන සැලසීම සඳහා ද තම නම් කාර්යය සඳහා මාර්ගගත ගිණුම් සහ ව්‍යාජ මාර්ගගත ගිණුම් භාවිත කිරීම වැළැක්වීම සඳහා මෙම පනත් කෙටුම්පත මඟින් ප්‍රතිපාදන සලසා තිබේ.
+Provision of provisions have been made to provide some commands to promote some statements about an incident in Sri Lanka to prevent online accounts and pseudo-online accounts.
+
+In addition, to identify the public places used for the prohibition of restrictions on the country and providing financial commands and supplying false statements on an incident.()
+
+The Bill has been established to establish a commission on the security of online methods.
 
 ...
 
 [Data](articles/a067ebb3.json)
+
+[Extended Data](ext_articles/a067ebb3.ext.json)
 
 ---
 
@@ -220,21 +284,23 @@ While expressing grave concerns raised by critics that, by imposing imprisonment
 
 ---
 
-### චීනයේ ප්‍රබල භූ කම්පනයක්
+### A powerful earthquake in China
 
 *2024-01-23 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192450) · `si`
 
-බටහිර චීනයේ ෂින් ජියෑන් පළාතේ ප්‍රබල භූ කම්පනයක් සිදුව තිබේ.
+Shin Jianne area in West China has taken place.
 
-අද (23) අලුයම 2ට පමණ රික්ටර් මාපක 7.1ක ප්‍රබලත්වයකින් යුතුව මෙම භූ කම්පනය සිදුව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+According to foreign media reports, the tremors have been in a robbery of 7.1 of the Richter's deprived of 7.1 am today (23).
 
-භූ කම්පනයත් සමඟ නිවාස 02ක් කඩා වැටී ඇති අතර එරට දුම්රිය ගමන් වාර රැසක් අත්හිටුවීමට ද පියවර ගෙන තිබේ.
+Two houses have collapsed with the earthquake and suspicion has been suspended.
 
-විදුලි රැහැන් පද්ධති කඩා වැටීම් හේතුවෙන් කලාපයේ විදුලි සැපයුම ද ඇනහිට ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that the collapse of power collapses has also stalled the regional power supply.
 
 ◼️
 
 [Data](articles/b9e9fd2b.json)
+
+[Extended Data](ext_articles/b9e9fd2b.ext.json)
 
 ---
 
@@ -258,21 +324,23 @@ They deplored reported cases of arbitrary arrests of thousands of drug offenders
 
 ---
 
-### අද කාලගුණය
+### Weather today
 
 *2024-01-23 06:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192448) · `si`
 
-සබරගමුව පළාතේත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් අද (23) ප.ව. 4.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Today is the Sabaragamuwa Province and Galle and Matara districts. Showers or thundershowers will occur at a few places after 4.00 pm, the Met Department said.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, දිවයිනේ සෙසු ප්‍රදේශවල ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පැවැතිය හැකි බවය.
+The department states that the rest of the island can maintain a rainy weather mainly.
 
-හිමිදිරි උදෑසන කාලයේදී  නුවරඑළිය දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මල්තුහින ඇතිවීමේ හැකියාවක් පවතී.
+In some places in the Nuwara Eliya district, there is a possibility of a flower.
 
-සබරගමුව සහ මධ්‍යම පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් පැවතිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව විසින් නිකුත්කළ නිවේදනයේ වැඩිදුරටත් දැක්වේ.
+The Meteorological Department further states that in some places in the Sabaragamuwa and Central provinces and in the Galle and Matara districts, the Meteorological Department further states.
 
 ◼️
 
 [Data](articles/0205bdc7.json)
+
+[Extended Data](ext_articles/0205bdc7.ext.json)
 
 ---
 
@@ -1933,77 +2001,5 @@ Accordingly, the decision has already been taken as the production company has a
 [Data](articles/fe0fc6ba.json)
 
 [Extended Data](ext_articles/fe0fc6ba.ext.json)
-
----
-
-### Ramesh Pathirana Solves within a month of health workers' problems
-
-*2024-01-22 17:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/174545) · `ta`
-
-We accept that all the industry, not only doctors, have been affected by the tax increase.
-
-The Ministry of Finance has held talks on the demands of other health workers other than doctors.
-
-Health Minister Dr. Ramesh Pathirana said that they will be given a favorable response within a month.
-
-He further stated at a press conference held at the Presidential Media Center on Monday (22).
-
-Over the past year, the major issues faced by the industry have been paid.
-
-In this regard, a group of university professors, including the university professors, made it clear to the government that the situation in which the doctors, including doctors, have left the country.
-
-The government has taken steps to provide relief to professors and doctors as a temporary solution to those demands.
-
-We do not say that there is no problems for other sides. In this regard, negotiations have been held for the past two weeks, including the unions, including the unions. Many demands have been put forward during them.
-
-...
-
-[Data](articles/b993dd75.json)
-
-[Extended Data](ext_articles/b993dd75.ext.json)
-
----
-
-### Six special police teams to find out about Beliatta Group
-
-*2024-01-22 17:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192437) · `si`
-
-Six special police teams have been deployed to investigate five persons in Beliatta.
-
-The Police Media Spokesperson SSP Attorney at Law Nihal Talduuwa addressing a media briefing.
-
-"Senior DIG in charge of the Senior Deputy Inspector General of Police have already been appointed specially. Basically the Southern Provincial Crime Division, Tangalle Police Crime Investigation Division, Beliatta Police officer, Belivery Officer of the Division and the Officer in the Divisional Secretary
-
-◼️
-
-[Data](articles/ae849707.json)
-
-[Extended Data](ext_articles/ae849707.ext.json)
-
----
-
-### Sri Lanka's neutrality should be maintained in the Ukrainian affair despite the pressure from the West
-
-*2024-01-22 17:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/174539) · `ta`
-
-Russia has announced that Sri Lanka should continue to maintain neutrality in Ukraine, despite Sri Lanka facing pressure from the West.
-
-Question - Security cooperation is presented in the environment where Ukraine's Russian conflict is in the context of crisis in West Asia?
-
-First I want to convey something. For us, this is not the Russian Ukraine war.
-
-Western countries seek to defeat Russia and try to make strategic defeat,
-
-Answer - Yes, we can report to the military, we are examining the education of the students, not the civilian population.
-
-The strategy of Sri Lanka is very important. We also appreciate the balance of Sri Lanka's balanced neutral position on Ukraine.
-
-We expect you to maintain this neutral position, even when you face pressure from the West.
-
-◼️
-
-[Data](articles/a405cfa4.json)
-
-[Extended Data](ext_articles/a405cfa4.ext.json)
 
 ---

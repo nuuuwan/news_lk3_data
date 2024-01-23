@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 04:03:18**
+As of **2024-01-24 04:17:18**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,174 (100.0%) of 2,175 articles have been extended.
+2,175 (100.0%) of 2,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### ’சர்வதேச அளவில் நம்பிக்கை ஏற்பட்டுள்ளது’
+### International confidence
 
 *2024-01-24 03:05:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-அளவில்-நம்பிக்கை-ஏற்பட்டுள்ளது/175-332039) · `ta`
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் ஆரம்பிக்கப்பட்ட சரியான பொருளாதார வேலைத்திட்டத்தினால் சர்வதேச சமூகத்தில் இலங்கையின் பொருளாதாரத்தின் மீதான நம்பிக்கையைக் கட்டியெழுப்ப முடிந்துள்ளது என தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்க தெரிவித்தார்.
+Sakala Ratnayake, a senior adviser to the National Security and President of the President, said that the proper economic program launched by President Ranil Wickremesinghe has been able to build the confidence in the international community in the international community.
 
-ஜனாதிபதி செயலகத்தில் நேற்று நடைபெற்ற '2024 வரவு செலவுத்திட்டம்' கருத்தரங்கின்போது சாகல ரத்நாயக்க இவ்வாறு  தெரிவித்தார். அவர் மேலும் தெரிவிக்கையில்,
+Sagala Ratnayake said this during the '2024 Budget' seminar held at the Presidential Secretariat yesterday. As he further stated,
 
-ஜனாதிபதி ரணில் விக்ரமசிங்க நாட்டைப் பொறுப்பேற்ற போது நாட்டில் கடுமையான பொருளாதார நெருக்கடி ஏற்பட்டிருந்தது. எரிபொருள் வரிசைகள், எரிவாயு வரிசைகள் மற்றும் மணிக் கணக்கில் மின்வெட்டு ஏற்பட்டது. அப்போது அமுல்படுத்தப்பட்ட வரிக் கொள்கையால், அரச வருமானம் சரிவு, தவறான விவசாயக் கொள்கை, வரிக் கோப்புகள் குறைப்பு போன்ற காரணிகளால் பொருளாதார நெருக்கடி ஏற்பட்டது.
+When President Ranil Wickremesinghe took over the country, there was a severe economic crisis in the country. Fuel rows, gas rows and bells occurred in the bell account. The economic crisis was caused by the decline of state income, the wrong agriculture policy and the reduction of tax files, due to the tax policy implemented.
 
 ...
 
 [Data](articles/aaf6f99b.json)
+
+[Extended Data](ext_articles/aaf6f99b.ext.json)
 
 ---
 

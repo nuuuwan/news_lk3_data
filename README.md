@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 18:52:04**
+As of **2024-01-23 19:02:18**
 
 ## Newspaper Stats
 
-*Scraped **2,115** Articles*
+*Scraped **2,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,98 @@ dailyftlk | 171
 adalk | 217
 virakesarilk | 235
 dailymirrorlk | 256
-adaderanalk | 264
+adaderanalk | 266
 tamilmirrorlk | 266
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,111 (99.8%) of 2,115 articles have been extended.
+2,115 (99.9%) of 2,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### ලෝකයක් දිනන්න සැමෝවා රූපසුන්දරියට ශ්‍රී ලංකාවෙන් ලැබුණු දායාදය
+### Sagala claims relief for public to be anticipated within next year
+
+*2024-01-23 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/96668/sagala-claims-relief-for-public-to-be-anticipated-within-next-year) · `en`
+
+Sagala Ratnayaka, the President’s Senior Adviser on National Security and Chief of the Presidential Staff, emphasized today (23 Jan.) at the Presidential Secretariat that President Ranil Wickremesinghe’s effective economic initiatives have fostered trust in the Sri Lankan economy on the global stage.
+
+He highlighted the President’s commitment to a new economic vision aimed at stabilizing the country’s economy through comprehensive reforms in the financial, legal and governance sectors.
+
+Speaking at the “Budget 2024” conference, organized by the President’s Trade Union Relations Division, Ratnayaka outlined the plans to position Sri Lanka as a hub for energy exports.
+
+This strategic move aligns with the President’s broader efforts to enhance the nation’s economic standing and international reputation.
+
+When President Ranil Wickremesinghe assumed office, the country faced a severe economic crisis marked by long queues for oil and gas, as well as prolonged power cuts.
+
+...
+
+[Data](articles/b206880b.json)
+
+---
+
+### FR petitions filed over DDO programme fixed for consideration
+
+*2024-01-23 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96667/fr-petitions-filed-over-ddo-programme-fixed-for-consideration-) · `en`
+
+The Supreme Court has set a date to consider the Fundamental Rights (FR) petitions filed claiming that the rights of members of both, the Employees’ Provident Fund (EPF) and the Employees’ Trust Fund (ETF) are being violated as a result of the government’s Domestic Debt Restructuring (DDO) programme.
+
+Accordingly, the FR petitions are due to be taken up for consideration on 30 October 2024, as per a decision made by a three-member judge bench of the Supreme Court comprising of Justices S. Thurairaja, Shiran Gooneratne and Mahinda Samayawardhena today (23 Jan.).
+
+Appearing on behalf of the Attorney General, the Additional Solicitor General Viraj Dayaratne informed the court that preliminary objections will be filed for the dismissal of the relevant petitions, without taking them up for hearing.
+
+The FR petitions were put forward by four persons including the General Secretary of the Free Trade Zones and General Services Employees Union, Anton Marcus
+
+◼️
+
+[Data](articles/5bb07ab2.json)
+
+---
+
+### Samoa Rasinsundara from Samoa Rasinsundara from Sri Lanka
 
 *2024-01-23 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192479) · `si`
 
-සැමෝවා රාජ්‍යයට ප්‍රථමවරට ජාත්‍යන්තර රූපලාවන්‍ය තරගාවලියක ජයග්‍රහණයක් රැගෙන ඒමට ශ්‍රී ලාංකික සම්බවයක් සහිත නිරූපන ශිල්පිනියක් සමත්ව තිබෙනවා.
+A Sri Lankan monitoring has been able to bring a victory in an international beaum competition to the kingdom of Samoa.
 
-ජාත්‍යන්තර මිස් ග්ලෝබල් රූපලාවන්‍ය තරගාවලියට සැමෝවා රාජ්‍යය නියෝජනය කරමින් එක්වන පර්ල් කුරුප්පු එහි අනුශූරතාවය දිනාගැනීමට සමත්වනවා.
+Pearl Kuru, joining the Kingdom, will win the kingdom of Samova for the International Miss Global Beauty Games.
 
-ඇයගේ මව සැමෝවා ජාතික කාන්තාවක් වන අතර පියා ශ්‍රී ලාංකිකයෙකු බව විදෙස් මාධ්‍ය වාර්තා කර තිබෙනවා.
+Her mother is a national woman and the father is a Sri Lankan.
 
-සැමෝවා රූ රැජින වීමත් සමග ඇයට වියට්නාමයේ පැවති මෙම ජාත්‍යන්තර මිස් ග්ලෝබල් රූපලාවන්‍ය තරගාවලියට එක්වීමේ අවස්ථාව හිමිව තිබෙනවා.
+With the queen of Samoa, she was able to join the International Miss Global Beauty Games in Vietnam.
 
 ◼️
 
 [Data](articles/2261723a.json)
 
+[Extended Data](ext_articles/2261723a.ext.json)
+
 ---
 
-### காணாமல் ஆக்கப்பட்டோர் தொடர்பான பிரசாரத்தை பல நாடுகளுக்கு விரிவுபடுத்தவுள்ளோம்! - காணாமல் ஆக்கப்பட்டோரின் உறவுகள்
+### We will expand the missing campaign to many countries!-Relationships of the missing
 
 *2024-01-23 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174646) · `ta`
 
-காணாமல் ஆக்கப்பட்டோர் தொடர்பான பிரசாரத்தை பல நாடுகளுக்கு விரிவுபடுத்தவுள்ளோம் என காணாமல் ஆக்கப்பட்டோரின் உறவுகள் செவ்வாய்க்கிழமை (23) தெரிவித்தனர்.
+Relationships of missing persons on Tuesday (23) said that we will expand the campaign for the disappeared to many countries.
 
-வவுனியாவில் தொடர் போராட்டத்தை மேற்கொண்டுவரும் வவுனியா மாவட்ட காணாமல் ஆக்கப்பட்டோரின் உறவினர்களின் சங்கத்தினர் போராட்டம் ஆரம்பித்து செவ்வாய்க்கிழமை (23) 7 ஆவது ஆண்டு நிறைவை அனுஷ்டித்தனர்.
+The relatives of the Vavuniya District, which are carrying out a series of protests in Vavuniya, began the protest on Tuesday (23).
 
-இந்நிலையில் வவுனியா பிரதான தபாலகத்திற்கு அருகாமையில் கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டபோதே சங்கத்தின் செயலாளர் கோ. ராஜ்குமார் மற்றும் சங்க தலைவி கா.ஜெயவனிதா ஆகியோர் இவ்வாறு தெரிவித்தனர்.
+In this case, the secretary of the association is engaged in a protest protest near the Vavuniya main post.. Rajkumar and association president K Jayavanita said this.
 
-காணாமல் ஆக்கப்பட்ட நமது அன்புக்குரியவர்களைக் கண்டுபிடிப்பதில் நமது முயற்சிகளை வலுப்படுத்துவதே எங்கள் அர்ப்பணிப்பாகும், மேலும் நமது தைரியத்தின் ஆதாரம் நமது இறையாண்மையில் உள்ளது.
+Our commitment is to strengthen our efforts in finding our missing loved ones, and the source of our courage is in our sovereignty.
+
+In this place our seventh anniversary task is completed today and continues the 8th year. When we strive relentlessly to achieve our ultimate goal of sovereignty. This can only be obtained by the power to investigate the location of our missing Tamil children.
+
+We are expanding our campaign to many countries, and we are seeking people who want to go to Europe and other regions to argue on behalf of the struggling Tamils.
 
 ...
 
 [Data](articles/f2bc6639.json)
+
+[Extended Data](ext_articles/f2bc6639.ext.json)
 
 ---
 
@@ -212,23 +258,25 @@ The Unity Backup Bill is not prepared to suppress the media. The misbehavior of 
 
 ---
 
-### வெள்ளத்தால் தலதா மாளிகை, ஆளுநர் அலுவலகம்  உட்பட பல அரச நிறுவனங்களுக்கு சேதம் ஏற்படும் அபாயம்
+### Damage to many state institutions, including floods, Dalada House and Governor's Office
 
 *2024-01-23 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/174633) · `ta`
 
-பலத்த மழையின் போது கண்டி  உடவத்த வன பிரதேசத்திலிருந்து  வெள்ளம் பெருக்கெடுத்து ஓடுவதால் ஸ்ரீ தலதா மாளிகை, ஆளுநர் அலுவலகம்  உட்பட பல அரச நிறுவனங்களுக்கு சேதம் ஏற்படும் அபாயம் உள்ளதாக ஆளுநர் லலித் யு.கமகே தெரிவித்துள்ளார்.
+Governor Lalith U Kamage said that flooding from the Udawatta forest area of Kandy during heavy rains is at risk of damage to many state institutions, including the Sri Dalada Maligai and the Governor's Office.
 
-வன பாதுகாப்பு திணைக்கள பணிப்பாளர் நாயகம் உள்ளிட்ட    ஏனைய  அதிகாரிகள் இது தொடர்பில் அவசர நடவடிக்கை எடுக்கும் படியும்    ஆளுநர் அவர்களுக்கு  பணிப்புரை வழங்கியுள்ளார்.
+Other officials, including the Director General of the Forest Protection Department, have taken urgent action in this regard, and the governor has given them a directive.
 
-கண்டி மாவட்ட  செயலகத்தில்  கடந்த வியாழனன்று (18) நடைபெற்ற கண்டி மாவட்ட ஒருங்கிணைப்புக் குழுக்  கூட்டத்தில்   ஆளுநர் மேற்படி விடயத்தை   தெரிவித்தார்.
+The Governor made this statement at the Kandy District Coordinating Committee meeting held at the Kandy District Secretariat last Thursday (18).
 
-கண்டி, உடவத்தை காட்டில் இருந்து நீர் வெளியேறும் பழைய வடிகால் அமைப்புகள் பராமரிக்காமையே இதற்கு ஒரு காரணம் எனவும் ஆளுநர் தெரிவித்தார்.
+The governor said that this is one of the reasons why the old drainage systems from the forest of Kandy in Kandy are not maintained.
 
-உடவத்தை வனப்பகுதியில் நிர்மாணிக்கப்பட்டுள்ள வடிகால் அமைப்புகளை வனவள திணைக்களம் பராமரிக்க வேண்டும் எனவும்,அத்துடன்  நீர் செல்லும் ஏனைய வடிகால் அமைப்புகளை பராமரிப்பதற்கும்  கண்டி மாநகர சபை மற்றும் ஏனைய சம்பந்தப்பட்ட நிறுவனங்களை ஈடுபடுத்த வேண்டும் எனவும் அவர் கேட்டுக்கொண்டார்.
+He urged the Forest Department to maintain the drainage systems constructed in the Udawatte forest and to engage in the Kandy Municipal Council and other relevant companies to maintain other water -flowing drainage systems.
 
 ◼️
 
 [Data](articles/64cc166b.json)
+
+[Extended Data](ext_articles/64cc166b.ext.json)
 
 ---
 
@@ -1116,23 +1164,23 @@ At the same time, the empty land owners who have been spreading the mosquitoes h
 
 ---
 
-### නිල්වලා ලවණ බාධක ගැටලුව කැබිනට් මණ්ඩලයට
+### The Cabinet to the Cabinet Probled the Barrier Problem Nilwala
 
 *2024-01-23 13:06:39* · [`adalk`](https://www.ada.lk/breaking_news/නිල්වලා-ලවණ-බාධක-ගැටලුව-කැබිනට්-මණ්ඩලයට/11-407687) · `si`
 
-නිල්වලා ගඟ හරස් කොට ඉදිකර ඇති - ලවණ බාධක වැටිය සම්බන්ධ ගැටළුව  කැබිනට් මණ්ඩලයට ඉදිරිපත් කර කඩිනමින් විසඳුම්  ලබා දීමට පියවර ගන්නා බව වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ  පවිත්‍රා වන්නිආරච්චි මහත්මිය අවධාරණය කරයි.
+Minister of Irrigation, Wildlife and Forest Minister Pavithra Wanniarachchi emphasizes the problem with the Salvana Barrier Fence to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved to be resolved.
 
-ලවණ බාධක වැටිය හේතුවෙන්  අගතියට පත් ජනතාව  නියෝජනය කරමින් ප්‍රදේශයේ බෞද්ධ භික්ෂූන් වහන්සේලා සහ  සිවිල් සංවිධාන නියෝජිතයින් කැඳවා ඊයේ  පෙරවරුවේ (22) වාරිමාර්ග අමාත්‍යාංශයේ දී පැවැති  විශේෂ  සාකච්ඡාවකදී   අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මිය මේ බව  සඳහන් කළාය.
+Minister Pavithra Wanniarachchi made this observation at a special discussion held at the Ministry of Irrigation, representing the victims of the saliva.
 
-මෙම සාකච්ඡාවේදී පවිත්‍රා වන්නිආරච්චි මහත්මිය ප්‍රකාශ කළේ, ජල සම්පත් මණ්ඩලය මගින්, නිල්වලා ගඟ -  ලවණ බාධක වැටිය ඉදිකිරීමේ දී කිසියම්  අතපසු වීමක් හෝ දුර්වලතාවයක්  සිදුවී  ඇතිබව  ට, තමන්ට ද පෙනී යන බවයි.
+In this discussion, Ms. Pavithra Wanniarachchi stated that the Nilwala River - the construction of the salt barrier fence, he also appeared to them.
 
-එහෙත් කුමන  තත්ත්වයක් යටතේ  උවද, පවතින අර්බූදකාරී තත්ත්වයට විසඳුමක් ළඟා කර  ගැනීම  සියළු  අංශ වල වගකීමක්  බවද  අමාත්‍යවරිය පෙන්වා දුන්නා ය.
-
-මෙම  ලවණ බාධක වැටිය,  වර්ෂාව  අධික  කාලවලදී ගඟ පිටාර ගැලීමට ප්‍රධාන හේතුවක් බව  ප්‍රදේශවාසීහූ පෙන්වා දෙති.
+However, the Minister pointed out that it is the responsibility of all aspects to the situation and the crisis of the existing crisis.
 
 ...
 
 [Data](articles/50544b52.json)
+
+[Extended Data](ext_articles/50544b52.ext.json)
 
 ---
 
@@ -1959,55 +2007,5 @@ President Ranil Wickremesinghe has ordered the necessary steps to be taken to al
 [Data](articles/e8a93f37.json)
 
 [Extended Data](ext_articles/e8a93f37.ext.json)
-
----
-
-### Galle Literary Festival: 'Writers, artists join in our beautiful country in our beautiful country'
-
-*2024-01-23 11:25:25* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cek7j25yvz8o) · `si`
-
-Galle Literary Festival: 'Writers, artists join in our beautiful country in our beautiful country'
-
-The Galle Literary Festival will be held in the Galle Fort on January 25-28, this year.
-
-Salman Russell speaks of 'unexpected severe attacks', who was composed in the 'biggest literary attack', who was composed, who was composed in the UK 'great literary festival.'
-
-The Galle Literary Festival, which will start in 2007, is significant in Sri Lankan literary history, academics, journalists, journalists, journalists and publishers to hold the quality of an international literary festival.
-
-In addition to world and regional literature, English literary culture is basically focused on this. The objectives of this is a majority of the writers of writers and depths of writers in English language.
-
-It is also another goal of this day to bring the attention of new literaryists with Sri Lankan English literaries along the recent past five years.
-
-...
-
-[Data](articles/fb20166a.json)
-
-[Extended Data](ext_articles/fb20166a.ext.json)
-
----
-
-### Five people shot dead in Beliatta: More information revealed by police
-
-*2024-01-23 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174592) · `ta`
-
-Further information about the killing of five people, including our People's Shakti Party leader Saman Perera, near the entrance of the Southern Expressway, the Beliatta police.
-
-The shooting took place on Monday (22) at 8.30 am to 8.40 am, police said.
-
-The shooting was carried out when the deceased was stopped for breakfast as the victims were traveling in a white debiter.
-
-Four people, including Saman Perera, died on the spot and died after being admitted to the hospital.
-
-Initial investigations by the police revealed that the incident took place while he was on his way for a case in the Tangalle court on a murder.
-
-The leader of our people's power party Saman Perera is the owner of a private hotel in Ambalangoda.
-
-The Tangalle police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/df37c684.json)
-
-[Extended Data](ext_articles/df37c684.ext.json)
 
 ---

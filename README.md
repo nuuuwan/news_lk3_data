@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 11:33:13**
+As of **2024-01-23 11:52:08**
 
 ## Newspaper Stats
 
-*Scraped **1,982** Articles*
+*Scraped **1,984** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 31
 bbccomsinhala | 42
 newsfirstlk | 116
 economynextcom | 118
-adaderanasinhalalk | 120
+adaderanasinhalalk | 121
 dbsjeyarajcom | 121
 islandlk | 122
 dailyftlk | 171
@@ -20,29 +20,69 @@ virakesarilk | 195
 adalk | 203
 dailymirrorlk | 240
 adaderanalk | 246
-tamilmirrorlk | 257
+tamilmirrorlk | 258
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,978 (99.8%) of 1,982 articles have been extended.
+1,984 (100.0%) of 1,984 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### அவசரமாக ஒத்திவைக்கப்பட்டு சபை மீண்டும் கூடியது
+### CCTV operation warns 125 people
+
+*2024-01-23 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192460) · `si`
+
+Roads in Colombo was observed yesterday (22), where 125 traffic wrongs have been warned.
+
+The pilot project to monitor traffic wrongs by cCTV cameras and sent the filigenting to traffic owners.
+
+Accordingly, the CCTV has identified 125 traffic wrongs in Colombo yesterday and advised the owners of the vehicles as a basic step.
+
+Among the mistakes that identified the sins are mainly transferred to the switching and running in the stop line.
+
+◼️
+
+[Data](articles/244b70ac.json)
+
+[Extended Data](ext_articles/244b70ac.ext.json)
+
+---
+
+### The President has returned to the country
+
+*2024-01-23 11:04:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-திரும்பினார்-ஜனாதிபதி/175-332003) · `ta`
+
+President Ranil Wickremesinghe has returned to the country this morning after completing his foreign journey.
+
+The president and team arrived at the Katunayake airport at 8.30 am on the EK650 flight of the Dubai Emirates Airlines.
+
+The President had recently left the country to attend the Economic Summit in Davos, Switzerland, the 19th Summit of the Leaders of the NGOs in Uganda's Kampala, G77 and China's 3rd Southern Summit Conference.
+
+◼️
+
+[Data](articles/ff88d092.json)
+
+[Extended Data](ext_articles/ff88d092.ext.json)
+
+---
+
+### Hurry postponed and congregation re -assembled
 
 *2024-01-23 10:59:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசரமாக-ஒத்திவைக்கப்பட்டு-சபை-மீண்டும்-கூடியது/175-332001) · `ta`
 
-நிகழ்நிலை காப்புச் சட்ட மூலம், தொடர்பில் ஏற்பட்ட வாதங்களை அடுத்து சபை ந​டவடிக்கை அவசரமாக ஒத்திவைக்கப்பட்டு கட்சித் தலைவர்களின் கூட்டம், சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன த​லைமையில் நடத்தப்பட்டது.
+The meeting of the party leaders was held at the Speaker Mahinda Yapa Abeywardena at the Lime.
 
-இந்த சட்டமூலம் தொடர்பில் கட்சித் தலைவர்களின் கூட்டத்தை நடத்துமாறு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ கோரிக்கையை முன்வைத்தார்.
+Opposition Leader Sajith Premadasa made a request to hold a meeting of party leaders on the bill.
 
 ◼️
 
 [Data](articles/1eab395c.json)
+
+[Extended Data](ext_articles/1eab395c.ext.json)
 
 ---
 
@@ -59,6 +99,8 @@ The Sri Lanka Deputy High Commission in Chennai made a proposal to the Governmen
 ...
 
 [Data](articles/6aa824cb.json)
+
+[Extended Data](ext_articles/6aa824cb.ext.json)
 
 ---
 
@@ -78,21 +120,25 @@ The Head of State departed for Switzerland on 13 January, for an official visit 
 
 ---
 
-### வருடாந்த இடமாற்றம் தொடர்பில் கடுமையான தீர்மானம்
+### Strict resolution on annual relocation
 
 *2024-01-23 10:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருடாந்த-இடமாற்றம்-தொடர்பில்-கடுமையான-தீர்மானம்/175-332000) · `ta`
 
-வருடாந்த இடமாற்றங்களின் கீழ் 2024 ஆம் ஆண்டுக்கான இடமாற்றங்களை உடனடியாக நடைமுறைப்படுத்துமாறு அனைத்து அமைச்சின் செயலாளர்கள் மற்றும் திணைக்களத் தலைவர்களிடம் பொதுச் சேவை ஆணைக்குழு கோரிக்கை விடுத்துள்ளது.
+The Public Service Commission has requested the Secretaries and Department Heads of the Ministry to immediately implement the transfers for 2024 under the annual transfers.
 
-இது தொடர்பில் அரச சேவை ஆணைக்குழுவின் செயலாளர் எழுத்து மூலம் அறிவித்தல் விடுத்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that the Secretary of the Public Service Commission has announced in writing.
 
-2024ஆம் ஆண்டுக்கான வருடாந்த இடமாற்றங்கள் தொடர்பில் அரச சேவை ஆணைக்குழுவுக்கு கிடைக்கப்பெற்ற மேன்முறையீடுகள் தொடர்பில், ஆணைக்குழுவின் தீர்மானங்கள் இதுவரை அறிவிக்கப்பட்டுள்ள போதிலும், பல்வேறு தரப்பினரிடமிருந்து தொடர்ந்தும் கோரிக்கைகள் முன்வைக்கப்படுவதாக என அரச சேவை ஆணைக்குழு குறிப்பிட்டுள்ளது.
+The Public Service Commission has stated that although the Commission's decisions have been announced on the annual transfers of the year 2024, the Commission's decisions have been made so far.
 
-இதன் காரணமாக, முன்னுரிமை இடமாற்றத்தின் கீழ் வழங்கப்பட்ட சில இடமாற்ற சுழற்சிகள் நடைமுறைப்படுத்தப்படவில்லை எனவும், அதனால் சம்பந்தப்பட்ட இடமாற்ற சுழற்சிகளில் உள்ள ஏனைய உத்தியோகத்தர்களுக்கு பாதகமான நிலை ஏற்பட்டுள்ளதாகவும் அரச சேவைகள் ஆணைக்குழு சுட்டிக்காட்டியுள்ளது.
+Due to this, the Public Services Commission pointed out that some of the transplant cycles issued under the priority transfer were not implemented and other officers in the relevant transfers were adverse.
+
+The Public Service Commission said that the dissatisfied officials of the Public Service Commission on the annual transfer could submit their appeals to the Administrative Appeal Tribunal.
 
 ...
 
 [Data](articles/9a46c720.json)
+
+[Extended Data](ext_articles/9a46c720.ext.json)
 
 ---
 
@@ -128,25 +174,29 @@ President Ranil Wickremesinghe has come to the island this morning with Ranil Wi
 
 ---
 
-### பெலியத்த துப்பாக்கிச்சூடு தொடர்பில் வெளியான திடுக்கிடும் தகவல்கள்
+### The shocking information about the Beliatta shooting
 
 *2024-01-23 10:28:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-துப்பாக்கிச்சூடு-தொடர்பில்-வெளியான-திடுக்கிடும்-தகவல்கள்/175-331999) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையின் பெலியத்த நுழைவாயிலுக்கு அருகில் ஐவர் சுட்டுக் கொலைசெய்யப்பட்ட சம்பவம் தொடர்பில் திடுக்கிடும் தகவல்கள் வெளிவந்துள்ளன.
+There have been shocking reports about the murder of five people near the Beliatta Gate on the Southern Highway.
 
-இதில் துபாய் நாட்டைச் சேர்ந்த கொஸ்கொட சுஜீ என்ற பாதாள உலகத் தலைவரே இதற்கு பிரதான காரணம் என இதுவரை மேற்கொள்ளப்பட்ட விசாரணைகளில் தெரியவந்துள்ளதாக பாதுகாப்பு தரப்பினர் சுட்டிக்காட்டியுள்ளனர்.
+Investigations have revealed that the main reason for this is the head of the underworld Kosgoda Sujee, a Dubai country.
 
-இதற்கு முன்னரும் கொஸ்கொட சுஜி, பீச் ஹோட்டல் ஒன்றின் உரிமையாளரான அபே ஜனபல கட்சியின் தலைவர் சமன் பிரசன்ன பெரேராவை கொலை செய்ய முயற்சித்திருந்தார்.
+Earlier, Kosgoda Suji had tried to assassinate Abe Janapala Party leader Saman Prasanna Perera, owner of a beach hotel.
 
-எனினும் அவர் அதில் உயிர் பிழைத்ததாகவும், அவரது வெளிநாட்டு முதலீட்டாளர் சுடப்பட்டு காயமடைந்ததாகவும் பாதாள உலகத் தடுப்புப் பிரிவின் அதிகாரிகள் சுட்டிக்காட்டியுள்ளனர்.
+However, officials of the underworld have pointed out that he survived and his foreign investor was shot and injured.
 
-கொஸ்கொட சுஜீக்கும், உயிரிழந்தவருக்கும் இடையில் நீண்டகாலமாக முரண்பாடுகள் இருந்ததாகவும், அவர் அரசியலுக்கு வருவதற்கு முன்னரே இலக்கு வைக்கப்பட்டதாகவும்  அதிகாரிகள் சுட்டிக்காட்டுகின்றனர்.
+Officials point out that there were long conflicts between Kosgoda Sujee and the deceased and that he was aimed at politics.
 
-டுபாயில் தலைமறைவாக உள்ள கொஸ்கொட சுஜீயை இலங்கைக்கு அழைத்து வர குற்றப்புலனாய்வு திணைக்களம் இதற்கு முன்னர் சர்வதேச சிவப்பு அறிவித்தல் விடுத்து நடவடிக்கை எடுத்திருந்தது.
+The Criminal Investigation Department (CID) had earlier taken steps to bring Kosgoda Sujee, who is hiding in Dubai, to Sri Lanka.
+
+Meanwhile, the five people have come to participate in a Defender car belonging to Saman Perera, who died in the incident.. 3 of the five were guilty, police said.
 
 ...
 
 [Data](articles/3904fa13.json)
+
+[Extended Data](ext_articles/3904fa13.ext.json)
 
 ---
 
@@ -1909,47 +1959,5 @@ The police suspect that the accident had been unable to control the vehicle.
 [Data](articles/e5c0a8f5.json)
 
 [Extended Data](ext_articles/e5c0a8f5.ext.json)
-
----
-
-### Sri Lanka Attorneys' Association demands an independent investigation
-
-*2024-01-22 20:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174566) · `ta`
-
-The Sri Lanka Lawyers Association has expressed concern over the increase in the number of casualties due to the actions of the police.
-
-The Government of Sri Lanka's Lawyers Association has requested the government to conduct an independent investigation into the matter.
-
-The Sri Lanka Bar Association has said that the Minister of Public Security, Tran Alles, has revealed that the criticism of the crime is being carried out against the crime.
-
-The Sri Lanka Lawyers Association, which has accepted the need to take the necessary legal implementation measures against those involved in drug activities, has said that the appropriate legal procedures should be followed.
-
-◼️
-
-[Data](articles/f3d350f7.json)
-
-[Extended Data](ext_articles/f3d350f7.ext.json)
-
----
-
-### President has gone 17 months to 18 months
-
-*2024-01-22 20:21:58* · [`adalk`](https://www.ada.lk/breaking_news/ජනපති-මාස-17-රට-සවාරි-18ක්-ගිහින්/11-407671) · `si`
-
-The Leader of the Opposition said that the crisis in the country was not naturally designed and that this was an economic terror and this was an economic terror.
-
-The Opposition Leader said that the country was launched with the bankruptcy of the country and ensuring how to work around the world, taking hands with these economic terrorists.
-
-The country's leader has not taken the country without counting the lives of the people without regarding the life pressure of the people and the country has been allocated for 17 months.Opposition Leader Sajith Premadasa said.
-
-* Sajith Premadasa, Opposition Leader Sajith Premadasa, addressing the Dambadeniya program at Narammala City. *
-
-The Opposition Leader said that Mr. Wickremasinghe Rajapaksa is following the correspondingness and that the people who receive tax money will be fraudulent.
-
-...
-
-[Data](articles/bb9ddcb0.json)
-
-[Extended Data](ext_articles/bb9ddcb0.ext.json)
 
 ---

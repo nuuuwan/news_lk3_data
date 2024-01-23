@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 17:33:22**
+As of **2024-01-23 17:53:24**
 
 ## Newspaper Stats
 
@@ -26,45 +26,49 @@ tamilmirrorlk | 266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,100 (99.9%) of 2,103 articles have been extended.
+2,103 (100.0%) of 2,103 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### EPF සහ ETF පෙත්සම් ගැන අධිකරණයෙන් නියමයක්
+### Court rules over EPF and ETF petitions
 
 *2024-01-23 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192477) · `si`
 
-දේශීය ණය ප්‍රතිව්‍යුහගත කිරීමේ කටයුතුවලදී සේවක අර්ථසාධක අරමුදල හා සේවා නියුක්තිකයන්ගේ භාර අරමුදලේ සාමාජිකයින්ට අගතියක් සිදුවන බවට චෝදනා කරමින් ගොනුකර තිබෙන මූලික අයිතිවාසිකම් පෙත්සම් සලකා බැලීම සඳහා ඔක්තෝම්බර් මස 30 වනදා කැඳවන ලෙස ශ්‍රේෂ්ඨාධිකරණය අද (23) දින නියම කළේය.
+The Supreme Court today (23), the Supreme Court today (23) was held today (23) to summon the fundamental rights petitions filed by the Employees Provident Fund and the Employees' Trust Fund.
 
-අදාළ පෙත්සම් එස්. තුරෙයිරාජා, ශිරාන් ගුණරත්න සහ මහින්ද සමයවර්ධන යන ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ කැඳවනු ලැබීය.
+Perth S. The three-member Supreme Court Judge of Thurairaja, Shiran Gunaratne and Mahinda Samayawardena were called before the Supreme Court Bench.
 
-එහිදී නීතිපතිවරයා වෙනුවෙන් පෙනී සිටි අතිරේක සොලිසිටර් ජනරාල් විරාජ් දයාරත්න මහතා අධිකරණය හමුවේ කරුණු දක්වමින් මෙම පෙත්සම් විභාගයට නොගෙන නිෂ්ප්‍රභ කරන ලෙස මූලික විරෝධතා මතු කරන බව සඳහන් කළේය.
+Additional Solicitor General Viraj Dayaratne appearing on behalf of the Attorney General said that these petitions would be heard without being heard without being heard without being heard.
 
-මෙම කරුණට අදාළව ගොනුකළ පෙත්සම් කිහිපයක් මීට පෙර ශ්‍රේෂ්ඨාධිකරණය විසින් නිෂ්ප්‍රභ කර තිබෙන බවත් මෙම පෙත්සම් විභාග කිරීමට අධිකරණයට බලයක් නොමැති බවත් අතිරේක සොලිසිටර් ජනරාල්වරයා සිය මූලික විරෝධතාවලින් සඳහන් කරයි.
+The Additional Solicitor General the General said that several petitions filed before the Supreme Court have been dismissed by the Supreme Court.
 
-කටුනායක නිදහස් වෙළෙඳ කලාප සේවක සංගමයේ කැඳවුම්කරු ඇන්ටන් මාකස් ඇතුළු පාර්ශ්ව 04ක් විසින් මෙම පෙත්සම් ඉදිරිපත් කර තිබුණි.
+The petitions were presented by 04 parties including Anton Marcus, including Anton Marcus, Katunayake Free Trade Zone Employees Union.
 
 ◼️
 
 [Data](articles/a4311a7c.json)
 
+[Extended Data](ext_articles/a4311a7c.ext.json)
+
 ---
 
-### දෑස් ඉදිරිපිට කඩා වැටුණු සිහිනය
+### The dream that collapsed in front of the eyes
 
 *2024-01-23 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192475) · `si`
 
-නිවසකට පදිංචිවීමට ඔන්න මෙන්න තිබියදී තෙමහල් නිවසක් කඩාවැටුණු අවාසනාවන්ත පුවතක් විදෙස් මාධ්‍ය වාර්තා කර තිබේ.
+The unfortunate newspaper of a three storied house has been reported to reside in a house.
 
-අදාළ තෙමහල් නිවසේ හිමිකරුවන් විසින් නිවසට ගෙවැදීම සඳහා පූජාව පවත්වමින් සිටියදී මෙම අවාසනාවන්ත සිදුවීම වී ඇත.
+The unfortunate event was the case while holding the sacrifice to the house at the three storied householders.
 
-කෙසේ වෙතත් ඉන් කිසිවෙකුටත් හානියක් සිදුව නොමැති අතර විදෙස් මාධ්‍ය පවසන්නේ භූගත මළාපවහන පද්ධතියක් ගිලා බැසීමෙන් මෙම නිවස කඩාවැටී ඇති බවය.
+However, none of them have been harmed and foreign media states that the house has collapsed by subversion.
 
 ◼️
 
 [Data](articles/a32683da.json)
+
+[Extended Data](ext_articles/a32683da.ext.json)
 
 ---
 
@@ -1084,25 +1088,27 @@ After the VAT Amendment Bill was passed in Parliament on 11 December 2023, it wa
 
 ---
 
-### අපුර වර්තමානයේ ජීවත් වූ වයස්ගතම පුද්ගලයා ජීවිතක්ෂයට
+### The oldest man who lived at the time of the isura
 
 *2024-01-23 12:54:24* · [`adalk`](https://www.ada.lk/breaking_news/අපුර-වර්තමානයේ-ජීවත්-වූ-වයස්ගතම-පුද්ගලයා-ජීවිතක්ෂයට/11-407685) · `si`
 
-අනුරාධපුර විජයපුර ප්‍රදේශයේ ජීවත් වූ වයස අවුරුදු 105ක, පියකු ඊයේ (22 දා) ජීවිතක්ෂයට පත් වූවාය.
+A 105-year-old, aged 105, was killed last night.
 
-මෙලෙස ජීවිතක්ෂයට පත් වූයේ වෘත්තියෙන් පෙදරේරු ශිල්පියෙකු ලෙස කටයුතු කල අනුරාධපුර විජයපුර, ගැමුණු මාවතේ පදිංචිව සිටි ආර්.ඒ. චන්ද්‍රසේන  මහතාය.
+The deceased was the RA, a resident of Vijayapura, Anuradhapura who worked as a maratorist in the profession.. Chandrasena.
 
-පුතුන් තිදෙනෙකුගේ සහ එක් දියණියකගේ පියෙකු වන ඒ මහතාට මුණුපුරු මිණිපිරියන් සහ දෙමුමුණුපුරන් රැසකි.
+He is a father of three sleepers and one daughter.
 
-1919 . 2. 19  ගාල්ල ප්‍රදේශයේ උපත ලබා 1945 වර්ෂයේදී අනුරාධපුර ප්‍රදේශයේ  පදිංචියට පැමිණි  ඒ මහතා පෙදරේරුවෙකු ලෙස  ලෙස කටයුතු කර තිබේ.
+1919. 2. He was born in Galle and resided in the Anuradhapura area in 1945.
 
-වාර්තාවන අන්දමට අනුරාධපුර ප්‍රදේශයේ වර්තමානයේ ජීවතුන්  අතර සිටි වයස්ගතම පුද්ගලයා මොහු බව ඥාතීහු පැවසූහ.
+Reportedly, he said that he was now alive.
 
-ෙදේහය  සම්බන්ධයෙන් අවසන් කටයුතු අද (23දා) සවස 6ට අනුරාධපුර නිසල නිම්නය සුසාන භූමියේදී අදාහන කටයුතු  සිදු කිරීමට නියමිතව තිබුණි.
+Funerals on Tuesday at 6 pm today (23) were to be carried out at the Nilwadi Valley Cemetery in Anuradhapura.
 
 ◼️
 
 [Data](articles/dfc9b7e1.json)
+
+[Extended Data](ext_articles/dfc9b7e1.ext.json)
 
 ---
 

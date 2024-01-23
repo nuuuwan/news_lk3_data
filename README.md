@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 10:17:17**
+As of **2024-01-23 10:50:44**
 
 ## Newspaper Stats
 
-*Scraped **1,971** Articles*
+*Scraped **1,974** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,77 +18,141 @@ islandlk | 122
 dailyftlk | 171
 virakesarilk | 195
 adalk | 203
-adaderanalk | 240
 dailymirrorlk | 240
+adaderanalk | 243
 tamilmirrorlk | 254
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,953 (99.1%) of 1,971 articles have been extended.
+1,974 (100.0%) of 1,974 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### මත්කරල් ජාවාරම් කළ කාන්තාවක් අත්අඩංගුවට
+### Parliament adjourned for special party leaders meeting
+
+*2024-01-23 10:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96643/parliament-adjourned-for-special-party-leaders-meeting-) · `en`
+
+Parliament took a 10-minute adjournment this morning (23 Jan.) to convene a party leaders meeting for discussions on the proposed Online Safety Bill.
+
+Accordingly, the parliamentary proceedings were adjourned on the request of all Parliamentarians belonging to the Opposition.
+
+Opposition Leader Sajith Premadasa requested for a Party Leaders meeting before the Online Safety Bill is taken up for debate, following which the Speaker adjourned Parliament for 10 minutes.
+
+◼️
+
+[Data](articles/6138ba2a.json)
+
+[Extended Data](ext_articles/6138ba2a.ext.json)
+
+---
+
+### Over 7,000 dengue cases, three deaths reported so far in 2024
+
+*2024-01-23 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96642/over-7000-dengue-cases-three-deaths-reported-so-far-in-2024-) · `en`
+
+Three dengue-related deaths and over 7,000 cases have been reported in the first 20 days of 2024, according to the National Dengue Control Unit (NDCU).
+
+Jaffna reported the highest number of cases, reaching 1,602, followed closely by Colombo with 1,536 cases and Gampaha with 637 cases.
+
+Commenting on the matter, Health Minister Dr. Ramesh Pathirana highlighted the insufficient public support in controlling the spread of dengue in the country.
+
+◼️
+
+[Data](articles/d1964dd2.json)
+
+[Extended Data](ext_articles/d1964dd2.ext.json)
+
+---
+
+### 61-year-old woman arrested with narcotic pills
+
+*2024-01-23 10:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96641/61-year-old-woman-arrested-with-narcotic-pills-) · `en`
+
+A female suspect, 61, was arrested by the Police Special Task Force (STF) on Monday (22 Jan.), in connection with an alleged racket involving narcotic pills.
+
+According to Police, the suspect was arrested in Kolonnawa, Wellampitiya, based on a tip-off received by the special anti-drug operation ‘Yukthiya’.
+
+At the time of her arrest, police further reported that the suspect had been in possession of 89 non-prescribed, illegal narcotic pills.
+
+Further investigations have been handed over to the Wellampitiya Police.
+
+◼️
+
+[Data](articles/d86e3240.json)
+
+[Extended Data](ext_articles/d86e3240.ext.json)
+
+---
+
+### Woman arrested for racketeer alcohol
 
 *2024-01-23 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192457) · `si`
 
-යුක්තිය මෙහෙයුමට ලද තොරතුරක් මත පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් විසින් සිදුකළ වැටලීමක දී තහනම් මත්කරල් ජාවාරම් කළ කාන්තාවක් අත්අඩංගුවට ගෙන තිබේ.
+A woman was arrested by the STF personnel conducted by the Special Task Force officials on information provided to justice.
 
-විශේෂ කාර්ය බළකායේ නිලධාරීන් විසින් ඊයේ (22) වැල්ලම්පිටිය පොලිස් වසමේ, අංක 31/B, පුවත්ගහවත්ත, පළවෙනි පටුමඟ, කොළොන්නාව යන ලිපිනයේ වැටලීමක් සිදුකර තිබිණි.
+The Special Task Force officials were raided at No. 31 / B, and the Kolonnawa Police Division.
 
-එහිදී වෛද්‍ය නිර්දේශ නොමැතිව තහනම් මත්කරල් 89ක් සන්තකයේ තබාගෙන ජාවාරම් කරමින් සිටි අවුරුදු 61ක් වූ කාන්තාවක් අත්අඩංගුවට ගෙන වැඩිදුර විමර්ශන සඳහා වැල්ලම්පිටිය පොලීසිය වෙත භාර දී ඇත.
+A 61-year-old woman has been arrested and handed over to the Wellampitiya Police for possessing 89 banned alcohol without medical recommendations.
 
 ◼️
 
 [Data](articles/f066164d.json)
 
+[Extended Data](ext_articles/f066164d.ext.json)
+
 ---
 
-### ஹரக்கட்டாவுடன் தொடர்புடைய நபர் கைது
+### Arrest person related to Harada
 
 *2024-01-23 09:28:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரக்கட்டாவுடன்-தொடர்புடைய-நபர்-கைது/175-331998) · `ta`
 
-பாதாள உலக குழு ஒன்றின் தலைவரான ஹரக்கட்டா என்றழைக்கப்படும் நதுன் சிந்தக விக்ரமரத்னவுடன் தொடர்பு கொண்டிருந்தார் என்ற சந்தேகத்தில் ஒருவர் கைது செய்யப்பட்டதாக கொழும்பு குற்றத் தடுப்புப் பிரிவு தெரிவித்துள்ளது.
+The Colombo Crime Investigation Division (CID) said that one person was arrested on suspicion of involvement with Nathun Chintaka Wickramaratne, the leader of a underworld group, Harakatta.
 
-வெல்லம்பிட்டிய ஹல்முல்ல பிரதேசத்தை சேர்ந்த 27 வயதுடைய நபரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+The 27 -year -old from Halmulla, Wellampitiya has been arrested.
 
-கைது செய்யப்பட்ட சந்தேக நபர், தற்போது சிறையில் உள்ள தனது உறவினருக்கு தனது பெயரில் பதிவு செய்யப்பட்ட சிம் அட்டையை வழங்கியுள்ளதாக தெரிய வந்துள்ளதாக கொழும்பு குற்றத் தடுப்பு பிரிவு தெரிவித்துள்ளது. R
+The Colombo Crime Prevention Unit said that the suspect had been given a SIM card registered in his name in his name.. Remble
 
 ◼️
 
 [Data](articles/ffac5fa5.json)
 
+[Extended Data](ext_articles/ffac5fa5.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+### Parliamentary Council begins
 
 *2024-01-23 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192456) · `si`
 
-අද (23) ‍මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිතව ඇත.
+The Second Reading Debate on Online Methods is scheduled to be held today.
 
-එම පනත් කෙටුම්පත මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් මෙම පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+The Bill is to be presented by the Public Defense Minister Tiran Alles to Parliament.
 
 ◼️
 
 [Data](articles/5dae059a.json)
 
+[Extended Data](ext_articles/5dae059a.ext.json)
+
 ---
 
-### வட்டி வீதங்கள் தொடர்பில் அறிவிப்பு
+### Notice of interest rates
 
 *2024-01-23 09:22:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-வீதங்கள்-தொடர்பில்-அறிவிப்பு/175-331997) · `ta`
 
-இலங்கை மத்திய வங்கியின் நாணயக் கொள்கைச் சபை தற்போதைய வட்டி வீததங்களை மாற்றியமைக்காமல் பேணுவதற்கு இலங்கை மத்திய வங்கியின் நாணயக் கொள்கைச் சபை தீர்மானித்துள்ளது.
+The Central Bank of Sri Lanka's Central Bank of Sri Lanka has decided to maintain the current interest rate of the Central Bank of Sri Lanka.
 
-அதன்படி, 9% நிலையான வைப்புத்தொகை வசதி வீதத்தையும், வழமையான கடன் வசதி வீதமான 10% வீதத்தையும் தற்போதைய மட்டத்தில் பேணுவதற்கு தீர்மானித்துள்ளதாக மத்திய வங்கி அறிவித்துள்ளது.
+Accordingly, the Central Bank has announced that it has decided to maintain a 9% fixed deposit rate and a 10% rate rate of 10%.
 
 ◼️
 
 [Data](articles/2eb9dc1f.json)
+
+[Extended Data](ext_articles/2eb9dc1f.ext.json)
 
 ---
 
@@ -626,19 +690,21 @@ President Ranil Wickremesinghe, who is staying in the Uganda's capital, Kampala,
 
 ---
 
-### இனந்தெரியாத ஆணின் சடலம் மீட்பு
+### The body of the non -ethnic man's body recovery
 
 *2024-01-23 02:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனந்தெரியாத-ஆணின்-சடலம்-மீட்பு/175-331988) · `ta`
 
-புத்தளம் - மதுரங்குளி களப்பு பிரதேசத்தில் இருந்து இனந்தெரியாத ஆண் ஒருவரின் சடலம் ஒன்று நேற்றுப் பகல் மீட்கப்பட்டுள்ளதாக மதுரங்குளி பொலிஸார் தெரிவித்தனர்.
+The body of a man from the Puttalam - Mathuranguli Kalappu area has been recovered yesterday, Maduranguli police said.
 
-சடலமாக மீட்கப்பட்ட நபர் தொடர்பில் இதுவரை தகவல் எதுவும் தெரியவில்லை எனப் பொலிஸார் தெரிவித்தனர்.
+Police said there was no information about the body recovered.
 
-களப்பு பகுதியில் இருந்து மீட்கப்பட்ட சடலம், நீதிவான் விசாரனையின் பின்னர் பிரேத பரிசோதனைக்காக புத்தளம் தள வைத்தியசாலைக்கு அனுப்பபட்டுள்ளதாகப் பொலிஸார் தெரிவித்தனர்.
+The body, which was recovered from the Kalappu area, was sent to the Puttalam Base Hospital for autopsy after the magistrate's hearing.
 
 ◼️
 
 [Data](articles/0b220339.json)
+
+[Extended Data](ext_articles/0b220339.ext.json)
 
 ---
 
@@ -800,19 +866,21 @@ What is this information really the position of the Minister of Fisheries?The qu
 
 ---
 
-### ’பாராளுமன்றத்தில் பாலியல் துன்புறுத்தல்கள் பொய்’
+### Sexual harassment in Parliament
 
 *2024-01-23 02:00:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பாராளுமன்றத்தில்-பாலியல்-துன்புறுத்தல்கள்-பொய்/150-331979) · `ta`
 
-பாராளுமன்றத்தில் பெண் ஊழியர்களுக்கும் ஒரு சில பெண் உறுப்பினர்களுக்கும் தொடர்ந்து பாலியல் துன்புறுத்தல்கள் இடம்பெற்று வருவதாகவும், அது தொடர்பில் உரிய விசாரணைகள் மற்றும் நடவடிக்கைகள் எடுக்கப்படுவதில்லை என்றும் வெளியாகும் தகவல்கள் முற்றிலும் பொய்யானவை என பாராளுமன்ற  செயலாளர் நாயகம் குஷானி ரோஹணதீர அறிவித்துள்ளார்.
+Secretary -General of Parliament Kushani Rohanadeera has announced that the reports that are being continued to be sexually harassed for female employees and a few female members in Parliament and that the reports are not being investigated.
 
-பாராளுமன்றத்தில் ஒழுக்க மீறல் சம்பவங்களின் போது, அது தொடர்பான விசாரணைகள்  சபாநாயகரின் வழிகாட்டுதலின் கீழ் மிகவும் பக்கச்சார்பற்ற முறையில் மேற்கொள்ளப்படுவதாகவும், விரைவான விசாரணைகளுக்கு சபாநாயகர் தனது அதிகபட்ச பங்களிப்பை வழங்குவதாகவும், எந்த விதத்திலும் அதில் தலையிடுவதோ அல்லது செல்வாக்குச் செலுத்துவதோ இல்லை எனவும் குஷானி ரோஹணதீர வலியுறுத்தினார்.
+Kushani Rohanadheera stressed that during the moral violations in Parliament, the inquiries were carried out under the guidance of the Speaker, and that the Speaker would make his maximum contribution to the rapid inquiries, and that he would not interfere or influence it.
 
-இதற்கு முன்னர் ஒருசில பெண் ஊழியர்களுக்கு பாலியல் துன்புறுத்தல் மேற்கொள்ளப்பட்ட சம்பவமொன்று பதிவாகியிருந்தாலும், அது தொடர்பாக நியமிக்கப்பட்ட உள்ளகக் குழு மிகவும் பக்கச்சார்பற்ற விசாரணை நடத்தி அந்த விசாரணை அறிக்கை தற்போது தன்னிடம் ஒப்படைக்கப்பட்டுள்ளதாக செயலாளர் நாயகம் தெரிவித்தார்.
+The Secretary General said that although a few female employees had previously been reported to have been sexually harassed, the Inner Committee appointed to investigate the investigation into the matter.
 
 ...
 
 [Data](articles/8a9e138f.json)
+
+[Extended Data](ext_articles/8a9e138f.ext.json)
 
 ---
 
@@ -1340,6 +1408,8 @@ Says Merlina: “We got a good offer and so we decided to switch venues, and the
 
 [Data](articles/393392d9.json)
 
+[Extended Data](ext_articles/393392d9.ext.json)
+
 ---
 
 ### Sri Lankan pianist at luxury resort
@@ -1361,6 +1431,8 @@ Shahen performed as a solo pianist at the resorts premium restaurants, mainly th
 ...
 
 [Data](articles/0fe75782.json)
+
+[Extended Data](ext_articles/0fe75782.ext.json)
 
 ---
 
@@ -1400,6 +1472,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/8dd1d454.json)
 
+[Extended Data](ext_articles/8dd1d454.ext.json)
+
 ---
 
 ### ‘Colossal amounts of vegetables and fruits going waste in SL due to non-adoption of greenhouse technology’
@@ -1415,6 +1489,8 @@ At the function Malavige announced that his company had entered into a partnersh
 ...
 
 [Data](articles/7210874f.json)
+
+[Extended Data](ext_articles/7210874f.ext.json)
 
 ---
 
@@ -1433,6 +1509,8 @@ Amid those developments both indices moved downwards. The All- Share Price Index
 ...
 
 [Data](articles/8ba4a72f.json)
+
+[Extended Data](ext_articles/8ba4a72f.ext.json)
 
 ---
 
@@ -1915,65 +1993,5 @@ Sony has stated that the letter will be exposed to investors later.
 [Data](articles/d2d97068.json)
 
 [Extended Data](ext_articles/d2d97068.ext.json)
-
----
-
-### Anti-Terrorism Bill creates separate legal regime: SJB
-
-*2024-01-22 19:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Anti-Terrorism-Bill-creates-separate-legal-regime-SJB/108-275505) · `en`
-
-Colombo, Jan 22 (Daily Mirror) - Filing a special determination petition before the Supreme Court, the Samagi Jana Balawegaya (SJB) General Secretary alleged that the proposed Anti-Terrorism Bill will create a separate legal regime to other penal statutes in respect of similar conduct.
-
-Filing this petition challenging the constitutionality of the Anti-Terrorism Bill, SJB General Secretary Ranjith Madduma Bandara is seeking a declaration that the bill requires the approval by the people at a Referendum in addition to the two-thirds approval in Parliament.
-
-The Anti-Terrorism Bill was published in the gazette notification on September 15, 2023 but was tabled in Parliament only on January 10, 2024.
-
-...
-
-[Data](articles/010d8059.json)
-
-[Extended Data](ext_articles/010d8059.ext.json)
-
----
-
-### What was met from the factory that produced false antibodies
-
-*2024-01-22 18:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192441) · `si`
-
-Seeduwa, who produced false antibodies, has been inspected by the Investigation Officers today (21).
-
-The owner of the relevant pharmaceutical factory was also called by prison guards, "Ada Derana reporter said.
-
-The officers have seized the eight computer data stores, the security camera and the database and the refrigerator.
-
-Meanwhile, Dr. Chamal Sanjeewa, Chairman of the Medical and Civil Rights, Dr. Chamal Sanjeewa has lodged a complaint with the CID regarding other pseudo-articles in the Ministry of Health.
-
-He said that the Ministry of Health had issued many fake letters to import drugs.
-
-◼️
-
-[Data](articles/791999e1.json)
-
-[Extended Data](ext_articles/791999e1.ext.json)
-
----
-
-### Despite economic recovery, more Sri Lankan doctors want to leave for better pay, kids’ future
-
-*2024-01-22 18:49:00* · [`economynextcom`](https://economynext.com/despite-economic-recovery-more-sri-lankan-doctors-want-to-leave-for-better-pay-kids-future-148267/) · `en`
-
-ECONOMYNEXT – More Sri Lankan doctors are planning to leave the country for greener pasture and better remunerations, Health Minister Ramesh Pathirana said, despite the recovery in the economy with higher tax revenue.
-
-The island nation’s unprecedented economic crisis has led professionals in health and education sectors to leave the country in search of better remuneration mainly after the tax hikes.
-
-According to the Government Medical Officers’ Association (GMOA), the main trade union of doctors, around 1,500 specialists and doctors have left the country for overseas opportunities in 2023 and the mass exodus is driven by economic hardship and tax hikes.
-
-Health Minister Pathirana said the official data show nearly 1,200 doctors have applied for leave and some of them have already left the country.
-
-...
-
-[Data](articles/95eb8e1d.json)
-
-[Extended Data](ext_articles/95eb8e1d.ext.json)
 
 ---

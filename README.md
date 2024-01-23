@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 19:50:46**
+As of **2024-01-23 20:03:09**
 
 ## Newspaper Stats
 
-*Scraped **2,133** Articles*
+*Scraped **2,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,135 @@ dbsjeyarajcom | 122
 newsfirstlk | 123
 islandlk | 123
 economynextcom | 132
-adaderanasinhalalk | 139
+adaderanasinhalalk | 140
 dailyftlk | 171
-adalk | 218
+adalk | 219
 virakesarilk | 235
-dailymirrorlk | 262
-tamilmirrorlk | 266
+dailymirrorlk | 263
 adaderanalk | 267
+tamilmirrorlk | 270
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,133 (100.0%) of 2,133 articles have been extended.
+2,140 (100.0%) of 2,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### State Medical Officers who changed the decision
+
+*2024-01-23 19:33:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடிவை-மாற்றிய-அரச-வைத்திய-அதிகாரிகள்/175-332023) · `ta`
+
+A letter issued by the Director General of Health Services has been canceled by suspending DAT payments with January salary.
+
+The Director General of Health Services has issued a written notification to the leaders of the health institutes.
+
+It is also reported that the leaders of the companies have been ordered to provide the appropriate payments to doctors who do not receive DAT allowance through the usual salary list for January.
+
+Accordingly, the Executive Council has unanimously decided to suspend the strike action announced by the State Medical Officers Association, which is scheduled to be launched from 8 am tomorrow.. Remble
+
+◼️
+
+[Data](articles/b8fc3a46.json)
+
+[Extended Data](ext_articles/b8fc3a46.ext.json)
+
+---
+
+### CCTV out of the places of Beliatta
+
+*2024-01-23 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192482) · `si`
+
+Over 24 hours after the five-day murder of the Pantenda, no one has been able to arrest anyone so far.
+
+However, the jeep had identified the jeep who arrived.
+
+Meanwhile, a person suspected to be a shooter in the Kamburupitiya main road near the Kamburupitiya main road near the incident, a person who was suspected to shoot at the Kamburupitiya roundabout was recorded in a CCTV camera.
+
+Further, he was able to move back to the Kamburupitiya bus stand.
+
+It is reported that he has rise to Matara and left the place.
+
+However, no information has been revealed to the identity of the person.
+
+Meanwhile, the acting Inspector General of Police (IGP) has held a discussion with the participation of a number of police officers with the participation of several high police officers.
+
+The acting IGP has advised the photographs of the suspect in the CCTV data to refer to the airport automated face identification system.
+
+...
+
+[Data](articles/c0700817.json)
+
+[Extended Data](ext_articles/c0700817.ext.json)
+
+---
+
+### Iran citizen that fell from a running train
+
+*2024-01-23 19:31:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓடும்-ரயிலில்-இருந்து-விழுந்த-ஈரான்-பிரஜை/175-332022) · `ta`
+
+An Iranian tourist who fell off the express train from Colombo to Badulla has been seriously injured and admitted to the Badulla Teaching Hospital.
+
+The injured person who was taken to the Haputale railway station in the train was taken to the Diyatalawa hospital and later transferred to the Badulla Teaching Hospital.
+
+Haputale police are conducting investigations on the directive of Assistant Superintendent of Police Ruwan Fernando.
+
+◼️
+
+[Data](articles/207535d3.json)
+
+[Extended Data](ext_articles/207535d3.ext.json)
+
+---
+
+### Special Notification of the Ministry of Education
+
+*2024-01-23 19:22:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சின்-விசேட-அறிவித்தல்/175-332021) · `ta`
+
+The Ministry of Education has issued a circular that applications for the year 2024 should be submitted to the appropriate schools for enrolling students for grade 1, 5, 6 and other secondary classes.
+
+If there are vacancies in those schools, the respective school principals will conduct interviews according to the circular of the Ministry of Education and send the list of selected students to the Ministry.
+
+The Ministry said that the student enrollment for grade 6 students is only based on the results of the Grade 5 Scholarship Examination.
+
+Meanwhile, the Ministry said that applications for the enrollment of students for the year 2024 should be sent to schools and interviews will be conducted by the principals.
+
+◼️
+
+[Data](articles/95cc8f0e.json)
+
+[Extended Data](ext_articles/95cc8f0e.ext.json)
+
+---
+
+### Conflict between the priests and the police;Solved Mano MP
+
+*2024-01-23 19:21:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருக்களுக்கும்-பொலிஸாருக்கும்-இடையில்-மோதல்-தீர்த்து-வைத்தார்-மனோ-எம்-பி/175-332020) · `ta`
+
+In the area of the Wellawatte Police Zone, police officers who went to uniforms for secret surroundings and were involved in civil duties in the area.. The issue between the Maheshwara Gurus has come to an end, said DMK leader Mano Ganesan MP.
+
+Mano MP added that the Hindu priests in Wellawatte
+
+The police have taken the minor conflict in connection with vehicle traffic, to the racism, argument, and physical force.
+
+The issue came to the end of the peace agreement and ended yesterday evening.
+
+I have chatted with the priests in this regard. He told me that he had forgiven the religious clergy.
+
+Verse. Despite the fact that the priests say that, I have told Wellawatte Police Officer Subhash Kanthaveli that the police officers should not be involved in the civil society without the police uniform.
+
+Accordingly, the officer in charge has assured me that he will instruct his station officials. Remble
+
+◼️
+
+[Data](articles/28203a63.json)
+
+[Extended Data](ext_articles/28203a63.ext.json)
+
+---
 
 ### Suspects arrested for shooting suspects arrived
 
@@ -61,6 +173,20 @@ Kaselkanda Kumarka Kusum, which was previously worked for machinery and scientif
 [Data](articles/1f226575.json)
 
 [Extended Data](ext_articles/1f226575.ext.json)
+
+---
+
+### Doctors give 35000 back - doctor strikes
+
+*2024-01-23 18:52:31* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍යවරුන්ට-35000-ආයෙත්-දෙයි---දොස්තර-වර්ජනය-අත්හැර-දමයි/11-407692) · `si`
+
+Doctors suspended allowance. The Ministry of Health has decided to agree to restore the Grade of Health and the doctors who have been prepared to hold the doctors.
+
+◼️
+
+[Data](articles/c684d0e3.json)
+
+[Extended Data](ext_articles/c684d0e3.ext.json)
 
 ---
 
@@ -195,6 +321,28 @@ Meanwhile, the Ministry said that the applications to enroll students in grade o
 [Data](articles/46c2369a.json)
 
 [Extended Data](ext_articles/46c2369a.ext.json)
+
+---
+
+### Circular revoked; doctors call off planned strike
+
+*2024-01-23 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Circular-revoked-doctors-call-off-planned-strike/155-275584) · `en`
+
+Colombo, Jan 23 (Daily Mirror) - The strike action by government doctors scheduled for tomorrow morning over the suspension of the increment to the Disturbance, Availability and Transport (DAT) allowance has been called off.
+
+The Government Medical Officers' Association (GMOA) in a statement said the Director General of Health Services has issued a written notification, revoking the recent suspension of the DAT allowance for doctors, which was included in the January salary.
+
+This decision, effective immediately, comes after the initial directive to temporarily halt the payment.
+
+In addition, health institution heads have been instructed to disburse the relevant allowance for January through a special voucher for doctors not covered by the regular payroll.
+
+The DAT allowance, which was raised from Rs. 35,000 to Rs. 70,000 was suspended this morning in accordance with the Treasury's directive.
+
+◼️
+
+[Data](articles/1338bb87.json)
+
+[Extended Data](ext_articles/1338bb87.ext.json)
 
 ---
 
@@ -1905,151 +2053,5 @@ Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 [Data](articles/65252b8c.json)
 
 [Extended Data](ext_articles/65252b8c.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-01-23 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174603) · `ta`
-
-The US dollar purchasing price was 315.0324 and the sales price were 325.8287 based on the Central Bank's coinage rate on Tuesday (January 23).
-
-◼️
-
-[Data](articles/0cbeadf2.json)
-
-[Extended Data](ext_articles/0cbeadf2.ext.json)
-
----
-
-### 200 crores in restructuring corporation
-
-*2024-01-23 12:34:01* · [`adalk`](https://www.ada.lk/breaking_news/ප්‍රතිව්‍යුහගත-කරන්න-තිබූ-මුද්‍රණ-සංස්ථාව-කෝටි-200ක්-ලාභ-ලබයි/11-407682) · `si`
-
-Minister of Education Dr. Susil Premajayantha says that the State Printing Corporation increased to a profitable level of Rs.
-
-He said that the Institute had developed at the level of making working capital by paying employee bonus.
-
-It is a pleasure that the state printing corporation that was identified as a loss to the restructment.Minister of Education Susil Premajayantha added.
-
-The Minister said that this success of the Ministry of Education was established under the Ministry of Education under the Ministry of Education under the Ministry of Education.It was also said that the state printing corporation was able to increase the state printing corporation to such a positive level.. Accordingly, the State Printing Corporation should enter into the new competitive investment, develops further.
-
-◼️
-
-[Data](articles/82c99667.json)
-
-[Extended Data](ext_articles/82c99667.ext.json)
-
----
-
-### Operation Yukthiya nets another 955 suspects in 24 hours
-
-*2024-01-23 12:34:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/operation-yukthiya-nets-another-955-suspects-in-24-hours/) · `en`
-
-COLOMBO (News 1st); A total of 955 suspects have been apprehended in the past 24 hours that ended at 12.30 am today under Operation Yukthiya.
-
-The Ministry of Public Security says that among them are 676 suspects involved in drug offences.
-
-Police say 187 grams of heroin, 14 kilograms and 700 grams of ganja alongside a stock of other drugs were seized during the operation.
-
-322 suspects who were on the list of wanted persons prepared by the Police Narcotics Bureau and Special Bureau have also been apprehended.
-
-Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
-
-Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
-
-◼️
-
-[Data](articles/6550fe06.json)
-
-[Extended Data](ext_articles/6550fe06.ext.json)
-
----
-
-### Protest against Online Safety Bill at Battaramulla
-
-*2024-01-23 12:31:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/protest-against-online-safety-bill-at-battaramulla/) · `en`
-
-COLOMBO (News 1st); A group of social activists led by civil organizations held a protest against the Online Safety Bill at the Battaramulla Polduwa intersection this morning.
-
-A group of civil organizations, social activists and others participated in the protest which was held under the theme of "Let's withdraw the Online Safety Bill which is suppressing the society".
-
-Police Anti-riot officers were called to the protest site and water cannons were also deployed.
-
-Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
-
-Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
-
-◼️
-
-[Data](articles/f9bb3d5d.json)
-
-[Extended Data](ext_articles/f9bb3d5d.ext.json)
-
----
-
-### Investigations carried out in Beliatta shooting to be reviewed
-
-*2024-01-23 12:28:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/investigations-carried-out-in-beliatta-shooting-to-be-reviewed/) · `en`
-
-COLOMBO (News 1st); Acting IGP Deshabandu Thennakoon says he will review the progress of the probe pertaining to the shooting in Beliatta on the morning of the 22nd of January.
-
-He added, senior Police officers and heads of investigation units have been called for this matter.
-
-The Acting IGP says he will make a decision on the future course of action on the probe, following this review.
-
-He went onto reveal, according to intelligence reports, the suspects who carried out the shooting have fled from the Southern Province to other locations, saying a final decision will be reached taking this matter also into consideration.
-
-6 Police teams have been assigned to investigate the shooting in Beliatta.
-
-Several teams of the Police Special Task Force have also been assigned to investigate the incident.
-
-Analyzing security cameras to locate the suspects has already commenced and Police said steps have been taken to call for  telephone analysis reports.
-
-...
-
-[Data](articles/daf6dc03.json)
-
-[Extended Data](ext_articles/daf6dc03.ext.json)
-
----
-
-### Suspect in killing of 8 people in suburban Chicago has fatally shot himself in Texas, police say
-
-*2024-01-23 12:14:00* · [`adaderanalk`](https://www.adaderana.lk/news/96651/suspect-in-killing-of-8-people-in-suburban-chicago-has-fatally-shot-himself-in-texas-police-say) · `en`
-
-A man suspected of shooting and killing eight people in suburban Chicago fatally shot himself after a confrontation with law enforcement officials in Texas, police said late Monday.
-
-Police in Joliet, Illinois, said on Facebook that at about 8:30 p.m. Central time 23-year-old Romeo Nance was located by U.S. Marshals near Natalia, Texas, and that Nance shot himself after a confrontation.
-
-The Medina County Sheriff’s Office in Texas said on Facebook that the agency received a call about a person suspected in the Chicago killings heading into the county on Interstate 35. A standoff then occurred between Nance and police from multiple agencies at a gas station, where Nance shot himself, the sheriff’s office said.
-
-Nance is suspected of fatally shooting eight people at three locations in the Chicago suburbs, sparking a search that left neighbors on edge earlier Monday as police warned he was still on the loose and should be considered “armed and dangerous.”
-
-...
-
-[Data](articles/419942b0.json)
-
-[Extended Data](ext_articles/419942b0.ext.json)
-
----
-
-### Demonstration in Parliament
-
-*2024-01-23 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/174599) · `ta`
-
-A demonstration was held on Tuesday (23) in Parliament in protest against the proposed backup Bill.
-
-The demonstration has been launched in protest against the debate on the 2nd reading of the proposal backup Bill.
-
-The struggle has been waged by social activists, claiming that this is suppressing the freedom of speech.
-
-However, a referendum on whether or postponing the proposed backup Bill for a second reading of the House today has been passed by 33 additional votes.. It is noteworthy that the bill was taken up for debate, with 83 votes and 50 votes against.
-
-◼️
-
-[Data](articles/30e3317e.json)
-
-[Extended Data](ext_articles/30e3317e.ext.json)
 
 ---

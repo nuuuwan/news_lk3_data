@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 14:50:34**
+As of **2024-01-23 15:02:24**
 
 ## Newspaper Stats
 
-*Scraped **2,062** Articles*
+*Scraped **2,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,11 +14,11 @@ dbsjeyarajcom | 121
 newsfirstlk | 123
 islandlk | 123
 economynextcom | 125
-adaderanasinhalalk | 127
+adaderanasinhalalk | 130
 dailyftlk | 171
 adalk | 207
-virakesarilk | 220
-dailymirrorlk | 252
+virakesarilk | 222
+dailymirrorlk | 255
 adaderanalk | 256
 tamilmirrorlk | 263
 
@@ -26,11 +26,33 @@ tamilmirrorlk | 263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,062 (100.0%) of 2,062 articles have been extended.
+2,062 (99.6%) of 2,070 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### Pornography on social media has increased many times - Syber crimes are very high
+
+*2024-01-23 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174613) · `ta`
+
+Last year, more than 100,000 nude films were exchanged in social pictures, said Public Security Minister Tran Alas 8000 cyber crimes.
+
+The Minister said this while addressing the debate on the Ceylon Protection Bill today.
+
+The first week of 2024, more than 500 pornography on social media has been exchanged among themselves.
+
+The Minister said that there may be many incidents that have not been revealed only by the CITs.
+
+The Minister said that the Minister said that the aim of controlling the crimes and the aim of controlling the crimes and the revival of racism is aimed at restricting the chaos.
+
+◼️
+
+[Data](articles/cb1c73f9.json)
+
+[Extended Data](ext_articles/cb1c73f9.ext.json)
+
+---
 
 ### DAT allowance for doctors temporarily suspended – Health Services DG
 
@@ -50,25 +72,119 @@ He further mentioned that the Secretary of the Ministry of Health has informed h
 
 ---
 
-### Pornography on social media has increased many times - Syber crimes are very high
+### உலகின் முதல் மலேரியா தடுப்பூசி திட்டம்  கமரூனில் ஆரம்பம்
 
-*2024-01-23 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174613) · `ta`
+*2024-01-23 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174612) · `ta`
 
-Last year, more than 100,000 nude films were exchanged in social pictures, said Public Security Minister Tran Alas 8000 cyber crimes.
+ஆபிரிக்க நாடான கமரூனில் மலேரியாவுக்கு எதிரான உலகின் முதலாவது தடுப்பூசி திட்டம் ஆரம்பிக்கப்பட்டுள்ளது.
 
-The Minister said this while addressing the debate on the Ceylon Protection Bill today.
+அதன்படி, திங்களன்று கமரூனின் தலைநகாரான யவுண்டே அருகே உள்ள சுகாதார நிலையத்தில் டேனியலா என்ற பெண் குழந்தைக்கு முதலாவது தடுப்பூசி வழங்கப்பட்டுள்ளது.
 
-The first week of 2024, more than 500 pornography on social media has been exchanged among themselves.
+ஆபிரிக்காவில் ஒவ்வொரு ஆண்டும் 600,000 பேர் மலேரியாவால் உயிரிழக்கிறார்கள். அவர்களில் 80 சதவீதம் ஐந்து வயதுக்குட்பட்ட குழந்தைகளாவர் என உலக சுகாதார ஸ்தாபனம் தெரிவித்துள்ளது.
 
-The Minister said that there may be many incidents that have not been revealed only by the CITs.
+இந்நிலையில், கமரூன் அரசாங்கம், ஆறு மாதங்கள் நிறைவடைந்த அனைத்து குழந்தைகளுக்கும் RTS,S தடுப்பூசியை இலவசமாக வழங்குகிறது.
 
-The Minister said that the Minister said that the aim of controlling the crimes and the aim of controlling the crimes and the revival of racism is aimed at restricting the chaos.
+எனவே, தடுப்பூசியை பெற்றுக் கொள்ளும் முறையை  பெற்றோர்களுக்கு  இலகுப்படுத்தும் வகையில் மற்றைய வழக்கமான குழந்தை பருவ தடுப்பூசிகள் போடப்படும் அதே நேரத்தில் குறித்த தடுப்பூசியும் போடப்படும்  என சுகாதார அதிகாரிகள் கூறுகின்றனர்.
+
+கென்யா, கானா மற்றும் மலாவி ஆகிய நாடுகளில் பரிசோதனை வெற்றிகரமாக முடிந்துள்ளது. அங்கு தடுப்பூசி மூலம் மலேரியா உயிரிழப்புகள் 13 சதவீதம்  குறைந்துள்ளது என யுனிசெப் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/4d2cacb4.json)
+
+---
+
+### ஹமாசின் சிரேஸ்ட தலைவர்கள் காசாவிலிருந்து பாதுகாப்பாக வெளியேற இஸ்ரேல் அனுமதி? சிஎன்என் செய்தி
+
+*2024-01-23 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174615) · `ta`
+
+பரந்துபட்ட யுத்தநிறுத்த உடன்படிக்கையின் ஒரு பகுதியாக ஹமாஸ் அமைப்பின் சிரேஸ்ட தலைவர்கள் காசாவிலிருந்து வெளியேறுவதற்கு அனுமதிக்கும் யோசனையொன்றைஇஸ்ரேல் முன்வைத்துள்ளது.
+
+காசாவில் யுத்தம் நான்கு மாதங்களாக நீடிக்கின்ற போதிலும் ஹமாஸ் அமைப்பினை முற்றாக அழிக்க முடியாத நிலையில் இஸ்ரேல் உள்ள சூழ்நிலையிலேயே இது குறித்த தகவல்கள் வெளியாகியுள்ளன.
+
+இஸ்ரேல் இதுவரை ஹமாசின் முக்கிய தலைவர்கள் எவரையும் கைதுசெய்யவில்லை,ஹமாசின் போரிடும் திறன் மிக்க 70 வீதமான உறுப்பினர்கள் இன்னமும் உயிருடன் உள்ளனர் என இஸ்ரேல் மதிப்பிட்டுள்ளது.
+
+இவ்வாறான பி;ன்னணியிலேயே ஒக்டோபர் தாக்குதலின் சூத்திரதாரிகள் என கருதப்படும் ஹமாசின் சிரேஸ்ட தலைவர்கள்  காசாவிலிருந்து பாதுகாப்பாக வெளியேறுவதற்கு அனுமதிப்பதற்கு இஸ்ரேல் இணங்கியுள்ளது.
+
+காசாவிலிருந்து ஹமாசின் சிரேஸ்ட தலைவர்கள் வெளியேறினால் ஹமாஸ் அமைப்பின் காசா மீதான பிடியை அது பாதிக்கும் மேலும் வெளிநாட்டில் உள்ள ஹமாஸ் தலைவர்களை இஸ்ரேல் தொடர்ந்தும் இலக்குவைக்கமுடியும் எனவும் சிஎன்என் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/d501c3c5.json)
+
+---
+
+### රොෂාන්ගේ මරණයට සැක පොලිස් නිලධාරියාට අධිකරණය දුන් නියෝගය
+
+*2024-01-23 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192470) · `si`
+
+නාරම්මල ප්‍රදේශයේදී වෙඩි වැදීමෙන් තරුණයෙකු මියයාමේ සිද්ධියට අදාළව අත්අඩංගුවට ගත් උප පොලිස් පරීක්ෂකවරයා එළැඹෙන 31 වනදා දක්වා රිමාන්ඩ් බන්ධනාගාරගතකර තිබේ.
+
+සැකකාර උප පොලිස් පරීක්ෂකවරයා අද නාරම්මල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කිරීමෙන් අනතුරුව මෙම නියෝගය ලබාදී තිබේ.
+
+නාරම්මල, රන්මුතුගලදී ලොරි රථය පරීක්ෂා කළ සැකකාර පොලිස් නිලධාරියාගේ ගිනි අවිය ක්‍රියාත්මක වීමෙන් තිදරු පියෙකු වූ 41 හැවිරිදි රොෂාන් කුමාරතිලක ට දිවි අහිමිවුයේ පසුගිය 18වනදාය.
+
+සිද්ධිය සම්බන්ධයෙන් කුලියාපිටිය කොට්ඨාශ අපරාධ විමර්ශන ඒකකය වැඩිදුර විමර්ශන සිදුකරයි.
 
 ◼️
 
-[Data](articles/cb1c73f9.json)
+[Data](articles/e8ca53ab.json)
 
-[Extended Data](ext_articles/cb1c73f9.ext.json)
+---
+
+### Doctors to begin strike against suspension of DAT allowance
+
+*2024-01-23 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Doctors-to-begin-strike-against-suspension-of-DAT-allowance/108-275576) · `en`
+
+Colombo, Jan 23 (Daily Mirror) -  The government doctors, including specialists, are set to initiate an indefinite strike starting at 8 am tomorrow in protest of the suspension of the increment to the Disturbance, Availability, and Transport (DAT) allowance.
+
+The Health Ministry, responsible for overseeing these allowances, confirmed the suspension decision.
+
+Previously, the DAT allowance was raised from Rs. 35,000 to Rs. 70,000 following the government's approval of the President's proposal.
+
+Despite the earlier announcement of the allowance increase, the Ministry clarified that the elevated amount of Rs. 35,000 would be suspended in accordance with the Treasury's directive.
+
+This unexpected turn of events has fueled dissatisfaction among government doctors, leading them to call for an indefinite strike beginning tomorrow morning.
+
+◼️
+
+[Data](articles/98e1e36f.json)
+
+---
+
+### වෛද්‍යවරුන්ගේ දීමනාව ගෙවීම අත්හිටුවයි
+
+*2024-01-23 13:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192469) · `si`
+
+වෛද්‍යවරුන්ගේ රාජකාරී බාධා, පැමිණසිටීමේ දීමනාව (DAT) ගෙවීම තාවකාලිකව අත්හිටුවා ඇති බවට සෞඛ්‍ය සේවා  අධ්‍යක්ෂ ජනරාල් වෛද්‍ය අසේල ගුණවර්ධන මහතා පවසයි.
+
+එම දීමනාව ගෙවීම සඳහා අවශ්‍ය කටයුතු සකස් කර තිබුණ ද අනුමත ප්‍රතිපාදන සීමාව තුළ මහා භාණ්ඩාගාරය විසින් අක්මුදල් ලබාදීමට කටයුතු කර නොමැති බව දැනුම්දෙමින් සෞඛ්‍ය සේවා  අධ්‍යක්ෂ ජනරාල්වරයා මෙම තීරණය ගෙන තිබේ.
+
+ලිපියක් නිකුත් කරමින් සෞඛ්‍ය සේවා  අධ්‍යක්ෂ ජනරාල්වරයා වැඩිදුරටත් සඳහන් කර ඇත්තේ ඒ අනුව භාණ්ඩාගාරය වෙතින් මෙම ගැටලුව නිරාකරණය කරගන්නා තෙක් වැඩිකරන ලද රුපියල් 35,000ක මුදල ගෙවීම තාවකාලිකව අත්හිටුවන ලෙසට සෞඛ්‍ය ලේකම්වරයා විසින් තමන්වෙත දැනුම්දී ඇති බවය.
+
+◼️
+
+[Data](articles/a6c5918c.json)
+
+---
+
+### ත්‍රස්ත විරෝධී පනත් කෙටුම්පතට එරෙහිව තවත් පෙත්සම් දෙකක්
+
+*2024-01-23 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192467) · `si`
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන ත්‍රස්ත විරෝධි පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි යැයි තීන්දු කරන ලෙස ඉල්ලා ශ්‍රේෂ්ඨාධිකරණය හමුවේ තවත් පෙත්සම් දෙකක් ගොනුකර තිබේ.
+
+නීතිඥ එකමුතුව වෙනුවෙන් ආචාර්ය දීපිකා උඩුගම මහත්මිය විසින් එක් පෙත්සමක් ඉදිරිපත් කර ඇති අතර පෙරටුගාමී සමාජවාදී පක්ෂයේ ප්‍රචාරක ලේකම් දුමින්ද නාගමුව මහතා විසින් අනෙක් පෙත්සම ඉදිරිපත් කර තිබිණි.
+
+පෙත්සම්කරුවන් පෙන්වාදෙන්නේ අදාළ පනත් කෙටුම්පතේ අන්තර්ගත විධිවිධානවලින් යුද හමුදාව, පොලීසිය සහ වෙරළාරක්ෂක බළකායට ඕනෑම පුද්ගලයකු සාධාරණ හේතුවක් නොමැතිව අත්අඩංගුවට ගෙන රඳවා තබා ගැනීමේ බලය ලබාදී ඇති බවය.
+
+මෙමඟින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව මඟින් සහතික කර තිබෙන පුද්ගල නිදහස, අදහස් ප්‍රකාශ කිරීම නිදහස ඇතුළු මූලික අයිතීන් උල්ලංඝනය වන බවත් පෙත්සම්කරුවන් පවසයි.
+
+මේ හේතුවෙන් අදාළ පනත් කෙටුම්පත සම්මත කිරීමට අවශ්‍ය නම් පාර්ලිමේන්තුවේ තුනෙන් දෙකක බහුතර ඡන්දයකින් සහ ජනමත විචාරණයකින් එය අනුමත විය යුතු බවට තීන්දුවක් ලබාදෙන ලෙසත් ඔවුන් ශ්‍රේෂ්ඨාධිකරණයෙන් ඉල්ලා තිබේ.
+
+...
+
+[Data](articles/fee30849.json)
 
 ---
 
@@ -129,6 +245,22 @@ Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 [Data](articles/f48c26ae.json)
 
 [Extended Data](ext_articles/f48c26ae.ext.json)
+
+---
+
+### No funds, DAT allowance suspended for doctors
+
+*2024-01-23 13:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/No-funds-DAT-allowance-suspended-for-doctors/155-275573) · `en`
+
+Colombo, Jan 23 (Daily Mirror) -  The Health Ministry has decided to suspend the provision of the Disturbance, Availability and Transport (DAT) allowance which was increased from Rs. 35,000.
+
+The Ministry said despite the earlier announcement that the allowance for doctors will be raised to Rs. 70,000, the increased amount of Rs 35,000 will be suspended as per the directive of the Treasury.
+
+The government recently approved the President's proposal to double the DAT allowance up to Rs. 70,000 for doctors.
+
+◼️
+
+[Data](articles/78617f1e.json)
 
 ---
 
@@ -1794,6 +1926,24 @@ Chinese state media reported that up to 47 people were buried in the wreckage an
 
 ### Yukthiya not driven by personal agenda: Deshabandu
 
+*2024-01-23 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yukthiya-not-driven-by-personal-agenda-Deshabandu/108-275549) · `en`
+
+Colombo, Jan 23 (Daily Mirror) - Despite criticism from several organisations including the UN regarding potential human rights violations during the ongoing countrywide crackdown on criminals and drug smugglers, Acting IGP Deshabandu Tennakoon told the Daily Mirror that the operation ’Yukthiya’ has ano personal agenda, focusing solely on eradicating the underworld and apprehending drug smugglers.
+
+The 'Yukthiya' operation, launched on December 17 last year following the appointment of Tennakoon as the Acting IGP, has resulted in the arrest of over 40,000 individuals.
+
+The UN and local rights groups have voiced concerns about heavy-handed tactics, arbitrary arrests, and potential due process violations during the operation. Critics claim the crackdown disproportionately affects marginalised communities, leading to profiling and harassment.
+
+While denying allegations of mistreatment, Tennakoon emphasised the need for a firm hand against underworld criminals.
+
+...
+
+[Data](articles/187e04cb.json)
+
+---
+
+### Yukthiya not driven by personal agenda: Deshabandu
+
 *2024-01-23 08:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Yukthiya-not-driven-by-personal-agenda-Deshabandu/155-275549) · `en`
 
 Colombo, Jan 23 (Daily Mirror) - Despite criticism from several organisations including the UN regarding potential human rights violations during the ongoing countrywide crackdown on criminals and drug smugglers, Acting IGP Deshabandu Tennakoon told the Daily Mirror that the operation ’Yukthiya’ has ano personal agenda, focusing solely on eradicating the underworld and apprehending drug smugglers.
@@ -1809,155 +1959,5 @@ While denying allegations of mistreatment, Tennakoon emphasised the need for a f
 [Data](articles/4bca953f.json)
 
 [Extended Data](ext_articles/4bca953f.ext.json)
-
----
-
-### 955 more suspects arrested during operation ‘Yukthiya’
-
-*2024-01-23 08:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96640/955-more-suspects-arrested-during-operation-yukthiya) · `en`
-
-A total of 955 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan. 23) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 187g of heroin, 126g of crystal methamphetamine (Ice), 14kg and 700g of cannabis, 28,277 cannabis plants and 136 narcotic pills.
-
-633 of the 955 suspects were arrested over drug-related offences, while the other 322 suspects have been identified as listed criminals in numerous police divisions, including the Police Narcotics Bureau (PNB) and the Police Special Task Force (STF).
-
-Further investigations are being conducted into seven suspects against whom detention orders were obtained, while three others are being investigated for the possession of illegal assets, and 17 suspects were sent to rehabilitation.
-
-◼️
-
-[Data](articles/c0894514.json)
-
-[Extended Data](ext_articles/c0894514.ext.json)
-
----
-
-### Another 955 arrested with justice operation
-
-*2024-01-23 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192455) · `si`
-
-The police said that 955 suspects were arrested in the last 24 hours of the end of justice operations island wide.
-
-◼️
-
-[Data](articles/3457e4b4.json)
-
-[Extended Data](ext_articles/3457e4b4.ext.json)
-
----
-
-### It is possible to form particle frosts in the early morning
-
-*2024-01-23 08:00:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிகாலையில்-துகள்-உறைபனி-உருவாகக்-கூடிய-சாத்தியம்/175-331993) · `ta`
-
-In some places in the Sabaragamuwa Province and Galle and Matara districts, there is a possibility of rain or thundershowers after 4.00 pm.
-
-In some places in the Nuwara Eliya district, it is possible to develop particle frosts in the early hours of the morning.
-
-In the morning, in some places in the Sabaragamuwa and Central Provinces, Galle and Matara districts, there is expected snowfall in the morning.. Remble
-
-◼️
-
-[Data](articles/7ea895ba.json)
-
-[Extended Data](ext_articles/7ea895ba.ext.json)
-
----
-
-### Parliament to debate the Online Safety Bill today
-
-*2024-01-23 07:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96639/parliament-to-debate-the-online-safety-bill-today) · `en`
-
-The Second Reading Debate of the proposed Online Safety Bill is scheduled to be held in Parliament today (January 23).
-
-Parliament is to convene at 9.30 a.m. this morning while Minister of Public Security Tiran Alles is slated to present the draft bill to the parliament.
-
-The Sectoral Oversight Committee on Media, Youth, Heritage and New Citizen has approved the Online Safety Bill, Subject to the amendments determined by the Supreme Court.
-
-The bill was approved when the Sectoral Oversight Committee met in Parliament yesterday (22) under the chairmanship of the Member of Parliament Lalith Warankumara.
-
-Thus, the bill will be taken for the second reading debate, today (23).
-
-Officials representing the Ministry of Public Security, the Attorney General’s Department, the Legal Draftsman’s Department, Sri Lanka Police and the National Secretariat of Non-Governmental Organizations joined yesteday’s meeting.
-
-...
-
-[Data](articles/434ed4c9.json)
-
-[Extended Data](ext_articles/434ed4c9.ext.json)
-
----
-
-### Central Bank announced on interest rates
-
-*2024-01-23 07:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192454) · `si`
-
-The Central Bank of Sri Lanka has decided to maintain interest rate rates.
-
-The Central Bank announced that the permanent deposit facility rate was 9% and permanent loan facilities at the meeting of the meeting yesterday (22).
-
-◼️
-
-[Data](articles/2cd15fe4.json)
-
-[Extended Data](ext_articles/2cd15fe4.ext.json)
-
----
-
-### Central Bank keeps policy rates unchanged
-
-*2024-01-23 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96638/central-bank-keeps-policy-rates-unchanged) · `en`
-
-The Monetary Policy Board of the Central Bank of Sri Lanka (CBSL) has decided to maintain the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank at their current levels of 9.00 per cent and 10.00 per cent, respectively.
-
-The Board arrived at this decision at its meeting held on 22 January following a comprehensive assessment of domestic and international macroeconomic developments in order to maintain inflation at the targeted level of 5 per cent over the medium term, while enabling the economy to reach its potential, a statement said.
-
-The Board took note of the effects of the recent developments in taxation and supply-side factors that are likely to pose upside pressures on inflation in the near term. However, the Board viewed that the impact of these developments would not materially change the medium-term inflation outlook, the central bank said.
-
-...
-
-[Data](articles/acd88347.json)
-
-[Extended Data](ext_articles/acd88347.ext.json)
-
----
-
-### Accept any CEB employee employee employee
-
-*2024-01-23 07:48:42* · [`adalk`](https://www.ada.lk/breaking_news/ඉල්ලා-අස්වෙන-ඕනෑම-ලංවිම-සේවකයෙකුගේ-අස්වීම-භාර-ගන්න/11-407678) · `si`
-
-The Minister Kanchana Wijesekara says he has instructed the management of the CEB to take over the resignations of any CEB employees ready to resign.
-
-He made this statement on the news reports that some of the media reported that 5,000 CEB workers were ready to resign at the time.
-
-Also, preparing a cost reduction mechanism, adgenting costs developed and collecting costs developed in accordance with the generating plan, and collecting the revenue and collection of electricity projects identified, consuming disciplinary action against people who interfere with CEB service.He also instructed the relevant officers, he said.
-
-◼️
-
-[Data](articles/d8e5b00e.json)
-
-[Extended Data](ext_articles/d8e5b00e.ext.json)
-
----
-
-### Sri Lanka keeps policy rates unchanged, CB wants market interest to fall
-
-*2024-01-23 07:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-keeps-policy-rates-unchanged-cb-wants-market-interest-to-fall-148309/) · `en`
-
-ECONOMYNEXT – Sri Lanka central bank kept its policy rate unchanged at 10 percent in the first monetary policy meeting in 2024 saying market rates should fall further.
-
-The central bank has operated largely deflationary policy (selling down its Treasury bills portfolio against dollar inflows), preventing pressure on the currency and building reserves (running balance of payments surplus).
-
-Over the past month, the exchange rate has appreciated, which may also help offset a 3 percent hike in value added tax in traded commodities, analysts say.
-
-“The Board took note of the effects of the recent developments in taxation and supply-side factors that are likely to pose upside pressures on inflation in the near term,” a statement said.
-
-“However, the Board viewed that the impact of these developments would not materially change the medium-term inflation outlook.”
-
-...
-
-[Data](articles/6cae3b40.json)
-
-[Extended Data](ext_articles/6cae3b40.ext.json)
 
 ---

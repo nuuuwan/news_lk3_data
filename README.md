@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 01:02:22**
+As of **2024-01-24 01:17:30**
 
 ## Newspaper Stats
 
-*Scraped **2,172** Articles*
+*Scraped **2,174** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,45 @@ adalk | 222
 virakesarilk | 238
 adaderanalk | 272
 tamilmirrorlk | 273
-dailymirrorlk | 274
+dailymirrorlk | 276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,170 (99.9%) of 2,172 articles have been extended.
+2,172 (99.9%) of 2,174 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-01-24 (Wednesday)
+
+### Why isn’t Lanka’s ‘War on Drugs’, taking on Drug Barons? - EDITORIAL
+
+*2024-01-24 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Why-isnt-Lankas-War-on-Drugs-taking-on-Drug-Barons-EDITORIAL/172-275601) · `en`
+
+In December 2023, Public Security Minister, Tiran Alles announced with much fanfare, the launch of ‘Operation Yukthiya’. Within a 22-day spell, authorities apprehended a total of 29,475 suspects. They initially announced the seizure of millions of rupees in cash and the confiscation of assets belonging to drug peddlers/dealers.
+
+Media reports of drug raids continue to regale the public with a plethora of statements issued by the Public Security Minister and the acting IGP on how well the operation is progressing. Daily we hear of hundreds of persons being taken into custody.
+
+What is concerning however is that the Minister and the Acting IGP seem to be acting outside the law in their efforts to rid the country of the drug menace.
+
+...
+
+[Data](articles/b083f963.json)
+
+---
+
+### What is the JVP’s Economic Policy?
+
+*2024-01-24 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/What-is-the-JVPs-Economic-Policy/172-275600) · `en`
+
+Hats off to the JVP lady who promised that when the JVP/NPP comes to power, it will legalize prostitution! If Sri Lanka is to undergo the next phase of social revolution, which the JVP promises, the archaic and discriminatory laws should be discarded to build a system where every citizen, irrespective of race, religion, income, gender or sexual orientation, could exercise the full scope of liberties. But there is a glitch that the JVP’s ideologues and their busloads of supporters fail to admit - or they simply don’t comprehend: social liberalism cannot be achieved, nor could it be sustained in the long run, without economic liberalism.
+
+...
+
+[Data](articles/5e30e8b1.json)
+
+---
 
 ### 2024-01-23 (Tuesday)
 
@@ -800,6 +830,8 @@ The proposed law, the Online Safety Bill, purportedly provides protections agai
 
 [Data](articles/0ee3a241.json)
 
+[Extended Data](ext_articles/0ee3a241.ext.json)
+
 ---
 
 ### Doctors give 35000 back - doctor strikes
@@ -859,6 +891,8 @@ Let me explain. More and more that I see happening around me, seems to validate 
 ...
 
 [Data](articles/d4abacd4.json)
+
+[Extended Data](ext_articles/d4abacd4.ext.json)
 
 ---
 
@@ -2021,45 +2055,5 @@ The Director General of Health Services has issued a letter, accordingly, the He
 [Data](articles/a6c5918c.json)
 
 [Extended Data](ext_articles/a6c5918c.ext.json)
-
----
-
-### Doctors first workshop
-
-*2024-01-23 13:49:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வைத்தியர்கள்-நாளை-முதல்-பணிப்புறக்கணிப்பு/175-332013) · `ta`
-
-The State Medical Officers Association has decided to launch a series of workshops from tomorrow (24).
-
-The association said the decision was made based on information that the government had decided not to issue DAT payments since January, as stated earlier.
-
-◼️
-
-[Data](articles/2405de4b.json)
-
-[Extended Data](ext_articles/2405de4b.ext.json)
-
----
-
-### Two more petitions against anti-terrorism bill
-
-*2024-01-23 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192467) · `si`
-
-Two more petitions have been filed in the Supreme Court to demanding the Constitution of the Constitution to decide that the government has presented to Parliament.
-
-The other petition was presented by the other petition by Mrs. Duminda Udugama on behalf of the lawyer.
-
-The petitioners point to the army, the police and the Coast Guard for the army, the police and the Coast Guard.
-
-Petitioners say that personality and commentary of personality certified by the Constitution is violating fundamental rights, including freedom.
-
-The Supreme Court has asked the Supreme Court to promote the division of two-thirds majority and referendum if this is necessary to pass the Bill.
-
-Petitions have been submitted by the National Zoo, MP Vijitha Herath, convener of the National Zoo, Vijitha Herath, Convener of the International People's Youth, Wasantha Samarasinghe, the Socialist Youth Union.
-
-◼️
-
-[Data](articles/fee30849.json)
-
-[Extended Data](ext_articles/fee30849.ext.json)
 
 ---

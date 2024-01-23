@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 19:02:18**
+As of **2024-01-23 19:17:22**
 
 ## Newspaper Stats
 
-*Scraped **2,117** Articles*
+*Scraped **2,130** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,40 @@ bbccomsinhala | 44
 dbsjeyarajcom | 122
 newsfirstlk | 123
 islandlk | 123
-economynextcom | 126
+economynextcom | 132
 adaderanasinhalalk | 137
 dailyftlk | 171
 adalk | 217
 virakesarilk | 235
-dailymirrorlk | 256
-adaderanalk | 266
+dailymirrorlk | 262
 tamilmirrorlk | 266
+adaderanalk | 267
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,115 (99.9%) of 2,117 articles have been extended.
+2,117 (99.4%) of 2,130 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### Education Ministry issues notice on school admissions
+
+*2024-01-23 18:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96669/education-ministry-issues-notice-on-school-admissions) · `en`
+
+Applications for the admission of children to Grade 01 of schools should be submitted in accordance with the circular issued by the Ministry of Education and the admission process will be carried out by holding interviews through school principals, the Education Ministry said in a statement.
+
+Meanwhile, the statement also mentioned that the admission of students to Grade 05 of schools will only be carried out based on the marks obtained at the Grade 05 Scholarship Examination.
+
+All applications for the admission of children to the intermediate classes other than Grades 01, 05 and 06 in 2024, must be submitted to the relevant schools, while the school principals will hold the interviews if vacancies are available, as per the circulars issued by the ministry, and forward the name lists of selected students to the Education Ministry.
+
+...
+
+[Data](articles/9ba4647b.json)
+
+---
 
 ### Sagala claims relief for public to be anticipated within next year
 
@@ -50,6 +66,28 @@ When President Ranil Wickremesinghe assumed office, the country faced a severe e
 
 [Data](articles/b206880b.json)
 
+[Extended Data](ext_articles/b206880b.ext.json)
+
+---
+
+### Doctors call off planned strike
+
+*2024-01-23 18:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Doctors-call-off-planned-strike/155-275584) · `en`
+
+Colombo, Jan 23 (Daily Mirror) - The strike action by government doctors scheduled for tomorrow morning over the suspension of the increment to the Disturbance, Availability and Transport (DAT) allowance has been called off.
+
+The Government Medical Officers' Association (GMOA) in a statement said the Director General of Health Services has issued a written notification, revoking the recent suspension of the DAT allowance for doctors, which was included in the January salary.
+
+This decision, effective immediately, comes after the initial directive to temporarily halt the payment.
+
+In addition, health institution heads have been instructed to disburse the relevant allowance for January through a special voucher for doctors not covered by the regular payroll.
+
+The DAT allowance, which was raised from Rs. 35,000 to Rs. 70,000 was suspended this morning in accordance with the Treasury's directive.
+
+◼️
+
+[Data](articles/248c726a.json)
+
 ---
 
 ### FR petitions filed over DDO programme fixed for consideration
@@ -67,6 +105,26 @@ The FR petitions were put forward by four persons including the General Secretar
 ◼️
 
 [Data](articles/5bb07ab2.json)
+
+[Extended Data](ext_articles/5bb07ab2.ext.json)
+
+---
+
+### Apply directly to respective schools, excluding grades 1, 5, 6, and A/L
+
+*2024-01-23 18:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apply-directly-to-respective-schools-excluding-grades-1-5-6-and-AL/108-275583) · `en`
+
+Colombo, Jan 23 (Daily Mirror) - As per the circular issued by the Education Ministry, applications for the admission of students to intermediate classes for the year 2024, excluding grades 1, 5, and 6, as well as Advanced Level, should be submitted directly to the respective schools, the Education Ministry said.
+
+If vacancies are available in those schools, the respective school principals will conduct interviews as per Education Ministry circulars and forward the list of selected students to the Ministry for approval.
+
+While issuing a special notice, the Ministry said admission of students to grade six in schools is made solely on the basis of the scores of the grade five scholarship examination.
+
+Meanwhile, the Ministry said that the applications to enroll students in grade one for the year 2024 must be forwarded to the respective schools, and interviews will be conducted by the respective principals thereafter.
+
+...
+
+[Data](articles/46c2369a.json)
 
 ---
 
@@ -87,6 +145,38 @@ With the queen of Samoa, she was able to join the International Miss Global Beau
 [Data](articles/2261723a.json)
 
 [Extended Data](ext_articles/2261723a.ext.json)
+
+---
+
+### Transfer vehicle ownership to avoid complications in fine issuance via CCTV identification
+
+*2024-01-23 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Transfer-vehicle-ownership-to-avoid-complications-in-fine-issuance-via-CCTV-identification/108-275582) · `en`
+
+Colombo, Jan 23 (Daily Mirror) - The Commissioner of the Department of Motor Traffic (DMT) has advised vehicle users to transfer vehicle ownership to their names as it is crucial to avoid complications when issuing fine notices based on offender identification through the CCTV system.
+
+DMT Commissioner General Nishantha Anuruddha Weerasingha told the Daily Mirror that if vehicle ownerships are not transferred to the active user, the charge sheets will be sent to the address of the previous vehicle owner.
+
+Therefore, the commissioner urged vehicle users to transfer ownership to the active user, aiming to avoid inconveniencing the previous vehicle owner.
+
+◼️
+
+[Data](articles/8b0e1ca5.json)
+
+---
+
+### Google, Facebook could close up operations in Sri Lanka after OSB: Opposition MP
+
+*2024-01-23 18:00:00* · [`economynextcom`](https://economynext.com/google-facebook-could-close-up-operations-in-sri-lanka-after-osb-opposition-mp-148455/) · `en`
+
+ECONOMYNEXT – Sri Lanka might lose access to international platforms such as Google and Meta (formerly Facebook) with the introduction of the Online Safety Bill, Member of Parliament Eran Wickremeratne said in parliament.
+
+“Once this law is introduced, they will review the offences they would be accused of and most likely close up its access to users in Sri Lanka. Further, if the Sri Lankan government requests for certain information from Google, they will most likely not comply anymore as it may be self incriminating,” Wickremeratne said on Tuesday (22) when the bill was  being debated.
+
+He was responding to the opening statement to the bill presented by Minister of Public Security Tiran Alles.
+
+...
+
+[Data](articles/be2a7804.json)
 
 ---
 
@@ -150,6 +240,84 @@ Meanwhile, the General Measuring Authorities (AGC) has ordered the heads of the 
 
 ---
 
+### Sri Lanka CB warns against using personal bank accounts for business
+
+*2024-01-23 17:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-warns-against-using-personal-bank-accounts-for-business-148438/) · `en`
+
+ECONOMYNEXT – The Central Bank said that it was considering legal action against registered limited liability companies that were using personal bank accounts to conduct business for the purpose of tax evasion.
+
+The Central Bank issued a warning against the misuse of personal accounts for ‘illegal activities’, last week (15).
+
+“The reason for that was that we received complaints from banks that clients who had registered a business were conducting transactions not through the account established for that purpose, but through their personal accounts. This could most probably be for tax evasion purposes,” Enoka Mohotty Director of the FIU said.
+
+“We have written to the Finance Ministry, and are in discussions with the Inland Revenue Department and the Registrar of Companies on what possible legal action can be taken,” Mohotty said in reply to question by a journalist at the central bank’s Monetary Policy Review No. 01 of 2024, held on Tuesday (23).
+
+...
+
+[Data](articles/35debf6e.json)
+
+---
+
+### Sri Lanka Treasuries yields fall across maturities
+
+*2024-01-23 17:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-fall-across-maturities-148478/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasuries yields fell across maturities at Monday’s auction with strong demand seen for 3 and 6 month bills, data from the state debt office showed.
+
+The debt office sold 37 billion rupees in 3-month bills at 13.35 percent, down 56 basis points from a week earlier after offering 30 billion.
+
+87.6 billion rupees in 6-month bills were sold at 13.41 percent, down 42 basis points after offering 70 billion rupees.
+
+Only 4.6 billon rupees in 12-month bills were sold, at 12.78 percent, down 14 basis points. (Colombo/Jan23/2024)
+
+◼️
+
+[Data](articles/4c0c9994.json)
+
+---
+
+### Sri Lanka Treasuries yields fall across maturities
+
+*2024-01-23 17:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-fall-across-maturities-148475/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Treasuries yields fell across maturities at Monday’s auction with strong demand seen for 3 and 6 month bills, data from the state debt office showed.
+
+The debt office sold 37 billion rupees in 3-month bills at 13.35 percent, down 56 basis points from a week earlier after offering 30 billion.
+
+87.6 billion rupees in 6-month bills were sold at 13.41 percent, down 42 basis points after offering 70 billion rupees.
+
+Only 4.6 billon rupees in 12-month bills were sold, at 12.78 percent, down 14 basis points. (Colombo/Jan23/2024)
+
+◼️
+
+[Data](articles/74db7976.json)
+
+---
+
+### Sri Lanka rupee closes at 319.80/95 to the US dollar
+
+*2024-01-23 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-319-80-95-to-the-us-dollar-148451/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 319.80/95 to the US dollar on Tuesday, from 319.90/320.05 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 closed at 13.30/40 percent from 13.50/60 percent.
+
+A bond maturing on 15.09.2027 closed at 13.60/75 percent from 13.75/85 percent.
+
+A bond maturing on 15.03.2028 closed at 13.85/95 percent from 14.00/14.05 percent.
+
+A bond maturing on 15.07.2029 closed at 13.95/14.10 percent from 14.10/25 percent.
+
+A bond maturing on 15.05.2030 closed at 13.95/14.05 percent from 14.00/15 percent.
+
+A bond maturing on 01.07.2032 closed at 14.05/20 percent from 14.10/30 percent. (Colombo/Jan23/2024)
+
+◼️
+
+[Data](articles/a9801dfa.json)
+
+---
+
 ### Chamari leads ICC Women’s ODI Team of the Year
 
 *2024-01-23 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96665/chamari-leads-icc-womens-odi-team-of-the-year) · `en`
@@ -169,6 +337,36 @@ Her standout moment came in the series decider against New Zealand, where she pl
 [Data](articles/56c6fe66.json)
 
 [Extended Data](ext_articles/56c6fe66.ext.json)
+
+---
+
+### The government has no intention of suppressing the media;Social media will definitely be monitored - Minister of Public Safety
+
+*2024-01-23 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/174630) · `ta`
+
+The Unity Backup Bill is not prepared to suppress the media. The misbehavior of social media will be monitored. Public Defense Minister Tran Ales said that the special cabinet paper will be forwarded soon on the ideas put forward by the National and International Organization.
+
+◼️
+
+[Data](articles/944ab9bd.json)
+
+[Extended Data](ext_articles/944ab9bd.ext.json)
+
+---
+
+### Iranian falls from moving train
+
+*2024-01-23 16:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-falls-from-moving-train/108-275581) · `en`
+
+Badulla, Jan 23 (Daily Mirror) - An Iranian tourist who fell off the Badulla bound Podimenike Express from Colombo at Ohiya was seriously injured and admitted to the Badulla Teaching Hospital.
+
+The 29 year old tourist was on a trip to Ella. The injured who was brought by train to Haputale railway station was rushed to thr Diyatalawa Hospital and later transferred to the Badulla Teaching Hospital.
+
+Haputale police are conducting investigations on the instructions of ASP Ruwan Fernando.
+
+◼️
+
+[Data](articles/cb384394.json)
 
 ---
 
@@ -212,6 +410,30 @@ The petitions were presented by 04 parties including Anton Marcus, including Ant
 
 ---
 
+### Sri Lanka stocks close down, JKH drives turnover
+
+*2024-01-23 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-jkh-drives-turnover-148445/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
+
+The All Share Price Index was down 0.89 percent, or 92.60 points, at 10,279.
+
+The S&P SL20 index was down 0.86 percent, or 25.09 points, at 2,901.
+
+Turnover was at 978 million. Trades in the capital goods industry (242mn) contributed the most.
+
+Trading in John Keells Holdings Plc contributed the most (210mn) to the day’s turnover, and the share closed down at 179.75.
+
+Other companies that saw selling pressure were Expolanka Holdings Plc (down at 133.25) and Richard Pieris and Company Plc (down at 21.00).
+
+Positive contributors to the ASPI, albeit marginally, were Asiri Surgical Hospital Plc (up at 12.80), Chevron Lubricants Lanka Plc (up at 94.00) and Brown and Company Plc (up at 97.00).
+
+◼️
+
+[Data](articles/4a473156.json)
+
+---
+
 ### Is the Rama Bridge possible following the Rama Temple ...?
 
 *2024-01-23 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/174639) · `ta`
@@ -244,17 +466,19 @@ However, none of them have been harmed and foreign media states that the house h
 
 ---
 
-### The government has no intention of suppressing the media;Social media will definitely be monitored - Minister of Public Safety
+### CCTV captures leopard attempting to drag dog in Maskeliya
 
-*2024-01-23 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174630) · `ta`
+*2024-01-23 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CCTV-captures-leopard-attempting-to-drag-dog-in-Maskeliya/108-275580) · `en`
 
-The Unity Backup Bill is not prepared to suppress the media. The misbehavior of social media will be monitored. Public Defense Minister Tran Ales said that the special cabinet paper will be forwarded soon on the ideas put forward by the National and International Organization.
+Maskeliya, Jan 23 (Daily Mirror) -  CCTV footage of a leopard attempting to drag away a dog at a residence in Maskeliya, Hatton went viral on social media.
+
+The leopard appeared suddenly while the dog was seated in front of the house and attempted to drag it away. Upon hearing the dog's screams, the homeowner rushed out and witnessed the leopard running with the dog. The leopard abandoned its prey and fled towards the tea estate.
+
+Fortunately, the dog survived the attack with only minor injuries. The Maskeliya area reportedly hosts a number of leopards near tea plantations, and they often target pet dogs in households.
 
 ◼️
 
-[Data](articles/944ab9bd.json)
-
-[Extended Data](ext_articles/944ab9bd.ext.json)
+[Data](articles/9adddfd1.json)
 
 ---
 
@@ -402,6 +626,52 @@ Subsequently, the Sub-Inspector and the Police Constable were sacked.
 
 ---
 
+### A newly built 3 -storey house
+
+*2024-01-23 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174622) · `ta`
+
+A newly built house has suddenly collapsed due to a ditch dug in Puducherry in Puducherry in Tamil Nadu.
+
+The house has collapsed as the new festival was held.
+
+In this case, the side of the mouth was renovated by the Becko machine this afternoon and action was taken to raise the wall.
+
+For this purpose, the JCP machine was involved. This caused vibration to the houses that were built. The people of the area expressed their opposition to this.
+
+In this case, a three -storey building, which was suddenly built in the area, collapsed. The civilians, the police and the former MLA Anbalakan ran from there to an unexpectedly unexpectedly.
+
+The house was to be held in a few more days. In this case, the new house has fallen.
+
+There was no one inside the house as the house was completed and the planet was not done. There was no danger to anyone as those who were standing outside were running out. Residents of the area went on strike, accusing them of collapse due to excessive sand.
+
+◼️
+
+[Data](articles/943fc0b0.json)
+
+[Extended Data](ext_articles/943fc0b0.ext.json)
+
+---
+
+### Sri Lanka arrests six Indian fishermen for poaching in its waters
+
+*2024-01-23 15:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-arrests-six-Indian-fishermen-for-poaching-in-its-waters/108-275579) · `en`
+
+Colombo, Jan 23 (PTI) The Sri Lankan Navy has arrested six Indian fishermen and seized their trawlers for allegedly poaching in the island nation’s waters, an official statement said on Tuesday, in the fourth such incident this month.
+
+The fishermen were arrested, and their two trawlers were seized on Monday north of the Delft Island, Jaffna, the Sri Lanka Navy said in a press release.
+
+The six apprehended fishermen were escorted to the Kankasanthurai Harbour and will be handed over to the Mailadi Fisheries Inspector for further action, it said.
+
+Last week, as many as 18 Indian fishermen were arrested, and their two trawlers seized for allegedly poaching in Sri Lankan waters.
+
+The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
+
+...
+
+[Data](articles/a4dac3b9.json)
+
+---
+
 ### Dimuth Karunaratne named in ICC Men’s Test Team of the Year
 
 *2024-01-23 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96661/dimuth-karunaratne-named-in-icc-mens-test-team-of-the-year) · `en`
@@ -467,32 +737,6 @@ As a result, the Department of Motor Traffic has informed the public to register
 [Data](articles/09503128.json)
 
 [Extended Data](ext_articles/09503128.ext.json)
-
----
-
-### A newly built 3 -storey house
-
-*2024-01-23 15:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174622) · `ta`
-
-A newly built house has suddenly collapsed due to a ditch dug in Puducherry in Puducherry in Tamil Nadu.
-
-The house has collapsed as the new festival was held.
-
-In this case, the side of the mouth was renovated by the Becko machine this afternoon and action was taken to raise the wall.
-
-For this purpose, the JCP machine was involved. This caused vibration to the houses that were built. The people of the area expressed their opposition to this.
-
-In this case, a three -storey building, which was suddenly built in the area, collapsed. The civilians, the police and the former MLA Anbalakan ran from there to an unexpectedly unexpectedly.
-
-The house was to be held in a few more days. In this case, the new house has fallen.
-
-There was no one inside the house as the house was completed and the planet was not done. There was no danger to anyone as those who were standing outside were running out. Residents of the area went on strike, accusing them of collapse due to excessive sand.
-
-◼️
-
-[Data](articles/943fc0b0.json)
-
-[Extended Data](ext_articles/943fc0b0.ext.json)
 
 ---
 
@@ -1078,7 +1322,7 @@ Thera, the target of the shooting, died after being taken to the hospital, polic
 
 *2024-01-23 13:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/More-than-100-000-nude-photos-circulated-on-social-media-last-year-Minister/108-275572) · `en`
 
-Parliament, Jan. 23 (Daily Mirror)- More than 100,000 nude photographs have been circulated on social media last year, while there have been 8,000 cybercrimes committed, Minister of Public Security Tiran Allas told Parliament today.
+Parliament, Jan. 23 (Daily Mirror)- More than 100,000 nude photographs have been circulated on social media last year, while there have been 8,000 cybercrimes committed, Minister of Public Security Tiran Alles told Parliament today.
 
 Kicking off the debate on the Online Safety Bill in the House, the Minister said more than 500 nude photographs have been circulated within the first few weeks of 2024.
 
@@ -1765,247 +2009,5 @@ Mistakes have been observed, such as changing the path and driving in the area, 
 [Data](articles/01a71e05.json)
 
 [Extended Data](ext_articles/01a71e05.ext.json)
-
----
-
-### Inflation likely to jump to 7% in January – CBSL Governor
-
-*2024-01-23 11:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96650/inflation-likely-to-jump-to-7-in-january-cbsl-governor-) · `en`
-
-The Governor of the Central Bank of Sri Lanka (CBSL), Dr. Nandalal Weerasinghe, has warned that Sri Lanka’s inflation could rise to 7% in January 2024.
-
-Speaking at a special press briefing held on Tuesday (23 Jan.), Dr. Weerasinghe explained that an increase in inflation is likely due to the increase in the Value Added Tax (VAT), and other external factors.
-
-The VAT was increased by 3%, from 15% to 18%, with effect from 01 January 2024, after the VAT (Amendment) Bill was passed in parliament on 11 December 2023.
-
-◼️
-
-[Data](articles/702ce3d7.json)
-
-[Extended Data](ext_articles/702ce3d7.ext.json)
-
----
-
-### Prediction that inflation can rise
-
-*2024-01-23 11:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192462) · `si`
-
-Central Bank Governor Dr. Nandalal Weerasinghe says that inflation can be increased from 7% due to the increase in VAT.
-
-Addressing a media briefing held at the Central Bank today, he said that inflation was forecasting due to VAT and weather conditions.
-
-"At the future our inflation goal is 5%. It is expected to maintain a normal value of 4% - 6%. So the market interest rate interest rate is given to some type of shape. Our interest ratio stable. We will reconside. Until then, we maintain policy interest rate intact. "
-
-◼️
-
-[Data](articles/c92d202b.json)
-
-[Extended Data](ext_articles/c92d202b.ext.json)
-
----
-
-### Parliament votes to debate the Online Safety Bill
-
-*2024-01-23 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96649/parliament-votes-to-debate-the-online-safety-bill) · `en`
-
-The Online Safety Bill is to be taken up for debate in Parliament today after 83 MPs voted in favour of debating the bill, while 50 MPs had voted against it.
-
-Accordingly, the Second Reading Debate of the proposed Online Safety Bill will continue in the Parliament today (Jan 23).
-
-Although the relevant debate was scheduled to be held in Parliament today, the parliamentary session which commenced at 09.30 a.m. this morning, took a 10-minute adjournment to convene a party leaders meeting for discussions on the proposed Online Safety Bill on the request of all Parliamentarians belonging to the Opposition.
-
-Opposition Leader Sajith Premadasa had requested for a Party Leaders meeting before the Online Safety Bill is taken up for debate, following which the Speaker adjourned Parliament for 10 minutes.
-
-A vote was then taken in Parliament on whether or not to take up the proposed Online Safety Bill will be taken up for debate.
-
-◼️
-
-[Data](articles/16a12da9.json)
-
-[Extended Data](ext_articles/16a12da9.ext.json)
-
----
-
-### SriLankan Aviation College made IATA training partner
-
-*2024-01-23 11:45:00* · [`economynextcom`](https://economynext.com/srilankan-aviation-college-made-iata-training-partner-148399/) · `en`
-
-ECONOMYNEXT – SriLankan Aviation College, an arm of Sri Lanka’s national carrier, has become one of seven International Air Transport Association (IATA) training partners in Asia, the airline said.
-
-The college will be offering the Safety Management Systems (SMS) for Maintenance and Repair Operations, IATA Competency-Based Training for Dangerous Goods Instructors and IATA Instructional Design programmes as a Regional Training Partner.
-
-As the aviation sector experiences a revival, it was important to empower the next generation of aviation enthusiasts with the expertise, Stephanie Siouffi-Vareilhes, Director of IATA Training said. “Our partnership with SriLankan Aviation College will be instrumental in nurturing a talented pool of aviation professionals, not only within Sri Lanka but also within the region.”
-
-...
-
-[Data](articles/5dca8891.json)
-
-[Extended Data](ext_articles/5dca8891.ext.json)
-
----
-
-### Motion to take up debate on Online Safety Bill passed in Parliament
-
-*2024-01-23 11:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Motion-to-take-up-debate-on-Online-Safety-Bill-passed-in-Parliament/108-275567) · `en`
-
-Parliament, Jan. 23 (Daily Mirror)- The motion on whether the House is agreable to take up the second reading debate on the Online Safety Bill was passed with a majority of 33 votes.
-
-A vote was taken following a division called by the Opposition to take up the debate on the Bill.
-
-A total of 83 MPs voted in favour while 50 MPs voted against.
-
-◼️
-
-[Data](articles/a0bb0e6b.json)
-
-[Extended Data](ext_articles/a0bb0e6b.ext.json)
-
----
-
-### Action received 30 more votes in the Action Poll
-
-*2024-01-23 11:39:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடி-வாக்கெடுப்பில்-30-மேலதிக-வாக்குகள்-கிடைத்தன/175-332007) · `ta`
-
-Does the Functional Backup Act take over the source of debate or not?An emergency referendum was held in the House on Tuesday (23).
-
-In it, 83 votes were given to the debate and 53 votes not to be taken up for debate. Accordingly, there were 30 more votes to hold the debate on the bill.
-
-◼️
-
-[Data](articles/a2086b23.json)
-
-[Extended Data](ext_articles/a2086b23.ext.json)
-
----
-
-### President Ranil Wickremesinghe returns to the country
-
-*2024-01-23 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174593) · `ta`
-
-President Ranil Wickremesinghe has returned to the country this morning after completing his official foreign visit.
-
-The President visited Switzerland on the 13th to attend the 54th World Economic Forum held in Davos, Switzerland from 15th to 19th.
-
-He then left for Uganda on the 18th and attended the 19th Non -Aligned Summit in Kampala.
-
-◼️
-
-[Data](articles/a551d4a3.json)
-
-[Extended Data](ext_articles/a551d4a3.ext.json)
-
----
-
-### Parliamentary vote on whether to debate Online Safety Bill
-
-*2024-01-23 11:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96648/parliamentary-vote-on-whether-to-debate-online-safety-bill-) · `en`
-
-A vote is currently being taken in Parliament on whether or not to take up the proposed Online Safety Bill for debate, Ada Derana reporter said.
-
-The Second Reading Debate of the proposed Online Safety Bill was scheduled to be held in Parliament today (Jan 23).
-
-However, the parliamentary session which commenced at 09.30 a.m. this morning, took a 10-minute adjournment to convene a party leaders meeting for discussions on the proposed Online Safety Bill on the request of all Parliamentarians belonging to the Opposition.
-
-Opposition Leader Sajith Premadasa had requested for a Party Leaders meeting before the Online Safety Bill is taken up for debate, following which the Speaker adjourned Parliament for 10 minutes.
-
-◼️
-
-[Data](articles/a8af9eae.json)
-
-[Extended Data](ext_articles/a8af9eae.ext.json)
-
----
-
-### Cameroon starts world-first malaria mass vaccine rollout
-
-*2024-01-23 11:32:00* · [`adaderanalk`](https://www.adaderana.lk/news/96647/cameroon-starts-world-first-malaria-mass-vaccine-rollout) · `en`
-
-The world’s first routine vaccine programme against malaria has started in Cameroon, in a move projected to save thousands of children’s lives across Africa.
-
-The symbolic first jab was given to a baby girl named Daniella at a health facility near Yaoundé on Monday.
-
-Every year 600,000 people die of malaria in Africa, according to the World Health Organization (WHO).
-
-Cameroon is offering the RTS,S vaccine free of charge to all infants up to the age of six months old.
-
-Patients require a total of four doses. Health officials say these will be given at the same time as other routine childhood vaccines to make it easier for parents.
-
-It comes after successful pilot campaigns in Kenya, Ghana and Malawi - where the vaccine caused a 13% drop in malaria deaths in children of eligible age, says Unicef.
-
-The jab is known to be effective in at least 36% of cases, according to US researchers, meaning it could save over one in three lives.
-
-...
-
-[Data](articles/c281054f.json)
-
-[Extended Data](ext_articles/c281054f.ext.json)
-
----
-
-### Vote on Online Act
-
-*2024-01-23 11:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192461) · `si`
-
-Parliament decided to hold a poll to determine whether the online security bill was debated or not.
-
-At the election, the relevant online security bill was held in favor of 83 votes and 50 votes against him.
-
-Accordingly, the debate was started with the passage of the bill of 33 votes.
-
-◼️
-
-[Data](articles/b81e3df3.json)
-
-[Extended Data](ext_articles/b81e3df3.ext.json)
-
----
-
-### Police identify 125 traffic offenders through CCTV in Colombo, warnings issued
-
-*2024-01-23 11:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-identify-125-traffic-offenders-through-CCTV-in-Colombo-warnings-issued/108-275564) · `en`
-
-Colombo, Jan 23 (Daily Mirror) A total of 125 motorists who violated traffic rules received warnings yesterday following the launch of a pilot project aimed at identifying offenders through the CCTV system in Colombo.
-
-Police initiated the programme yesterday, and it will run for a week to raise awareness on the initiative among motorists.
-
-Starting from February 01, the enforcement of laws against traffic violators will begin.
-
-Police said 125 traffic violations were observed through CCTVs in Colombo, and warnings were issued to the owners of the vehicles as an initial step.
-
-Offenses such as violating lane rules and failure to halt at stop signs were among those observed.
-
-◼️
-
-[Data](articles/4000e5e5.json)
-
-[Extended Data](ext_articles/4000e5e5.ext.json)
-
----
-
-### The President who pleased journalists
-
-*2024-01-23 11:27:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளர்களுக்கு-மகிழ்ச்சி-கொடுத்த-ஜனாதிபதி/175-332006) · `ta`
-
-President Ranil Wickremesinghe has ordered the necessary steps to be taken to all journalists registered with the Government Information Department to the Government Information Department.
-
-◼️
-
-[Data](articles/73bbed4a.json)
-
-[Extended Data](ext_articles/73bbed4a.ext.json)
-
----
-
-### President's happy announcement to journalists
-
-*2024-01-23 11:27:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளர்களுக்கு-ஜனாதிபதியின்-மகிழ்ச்சியான-அறிவிப்பு/175-332006) · `ta`
-
-President Ranil Wickremesinghe has ordered the necessary steps to be taken to all journalists registered with the Government Information Department to the Government Information Department.
-
-◼️
-
-[Data](articles/e8a93f37.json)
-
-[Extended Data](ext_articles/e8a93f37.ext.json)
 
 ---

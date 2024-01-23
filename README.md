@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 11:02:27**
+As of **2024-01-23 11:17:19**
 
 ## Newspaper Stats
 
-*Scraped **1,976** Articles*
+*Scraped **1,978** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ dailyftlk | 171
 virakesarilk | 195
 adalk | 203
 dailymirrorlk | 240
-adaderanalk | 243
+adaderanalk | 245
 tamilmirrorlk | 254
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,976 (100.0%) of 1,976 articles have been extended.
+1,976 (99.9%) of 1,978 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### President Ranil returns to the island
+
+*2024-01-23 10:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96645/president-ranil-returns-to-the-island-) · `en`
+
+President Ranil Wickremesinghe has returned to the island this morning following his overseas visit.
+
+The Head of State departed for Switzerland on 13 January, for an official visit in order to attend the 54th Annual Meeting of the World Economic Forum, after which he left for Uganda on 18 January, to attend the 19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the 3rd South Summit of the Group of 77 and China, in Kampala, Uganda.
+
+◼️
+
+[Data](articles/8448f2cd.json)
+
+---
+
+### Decision from Public Service Commission regarding annual transfers
+
+*2024-01-23 10:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96644/decision-from-public-service-commission-regarding-annual-transfers) · `en`
+
+The Public Service Commission has requested all the department heads and ministry secretaries to immediately implement the transfers given for the year 2024 under the Annual Transfers. The Secretary of the Public Service Commission has submitted this request in writing.
+
+The commission stated that although the decisions of the commission regarding the appeals received in relation to the annual transfers for the year 2024 have been notified so far, further requests are being made from various parties regarding the matter.
+
+As a result, some of the transfer cycles given under the Annual Transfers have not been implemented and therefore other officers in the relevant transfer cycles have been prejudiced, the commission highlighted, adding that the officers who are dissatisfied with the decisions given by the Public Service Commission in relation to annual transfers can submit their appeals to the Administrative Appeals Tribunal.
+
+...
+
+[Data](articles/d76422d2.json)
+
+---
 
 ### President to visit Sri Lanka
 
@@ -1935,49 +1965,5 @@ Police said they could make a firm statement on the cause of the death after the
 [Data](articles/9006af8d.json)
 
 [Extended Data](ext_articles/9006af8d.ext.json)
-
----
-
-### Accept the resignation letters without hesitation - Minister of Electricity Board
-
-*2024-01-22 19:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174561) · `ta`
-
-Minister of Power and Energy Kanjana Wijeshekara has ordered the Ceylon Electricity Board to accept the resignation letters without any hesitation, as it has been reported that 5,000 Ceylon Electricity Board employees have decided to resign.
-
-The Minister posted a post on his official Twitter page. It has further stated:
-
-The Ceylon Electricity Board has been advised to accept any employee's resignation without hesitation. At the same time, the resignation is advised to charge all the packs of the company.
-
-The officials of the Electricity Board have been directed to expedite the company's reforms.
-
-Reforms include cost reduction mechanisms, implementing power projects identified in the productive project, and expanding the digital payment platform.
-
-During the January Strike Strike in January this year, the Directorate has been issued to initiate disciplinary and legal action against employees who disrupted the services of the Ceylon Electricity Board.
-
-...
-
-[Data](articles/71c4327f.json)
-
-[Extended Data](ext_articles/71c4327f.ext.json)
-
----
-
-### Beliatta firing;Police action
-
-*2024-01-22 19:31:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-துப்பாக்கிச்சூடு-பொலிஸார்-அதிரடி-நடவடிக்கை/175-331962) · `ta`
-
-Police Media Spokesperson Senior Superintendent of Police Nihal Dalduwa said that 6 special police teams have been deployed to investigate the shooting incident in Matara - Beliyatta this morning.
-
-He added that these investigations are being carried out under the supervision of the Senior Deputy Inspector General of Police in charge of the Southern Province.
-
-Five people, including Abe Janapala Party leader Saman Perera, were killed in a shooting in Beliatta area this morning.
-
-The shooting took place today (22) between 8.30 am and 8.40 am and five were killed.R
-
-◼️
-
-[Data](articles/ba48a77c.json)
-
-[Extended Data](ext_articles/ba48a77c.ext.json)
 
 ---

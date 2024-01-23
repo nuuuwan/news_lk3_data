@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 09:17:11**
+As of **2024-01-23 09:32:55**
 
 ## Newspaper Stats
 
-*Scraped **1,939** Articles*
+*Scraped **1,940** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 31
 bbccomsinhala | 42
 islandlk | 110
-adaderanasinhalalk | 115
+adaderanasinhalalk | 116
 newsfirstlk | 116
 economynextcom | 118
 dbsjeyarajcom | 121
@@ -26,7 +26,7 @@ dailymirrorlk | 240
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,939 (100.0%) of 1,939 articles have been extended.
+1,939 (99.9%) of 1,940 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,18 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 [Data](articles/c0894514.json)
 
 [Extended Data](ext_articles/c0894514.ext.json)
+
+---
+
+### යුක්තිය මෙහෙයුමෙන් තවත් 955ක් අත්අඩංගුවට
+
+*2024-01-23 08:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192455) · `si`
+
+දිවයින පුරා ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ අද (23) අලුයම අවසන් වූ ගතවු පැය 24 තුළ සැකකරුවන් 955 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/3457e4b4.json)
 
 ---
 
@@ -1987,29 +1999,5 @@ It is noteworthy that the protests for hunger strike, mainly part of the protest
 [Data](articles/d15694c9.json)
 
 [Extended Data](ext_articles/d15694c9.ext.json)
-
----
-
-### Sri Lanka energy minister ready for CEB employees quitting
-
-*2024-01-22 17:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-energy-minister-ready-for-ceb-employees-quitting-148251/) · `en`
-
-ECONOMYNEXT – The Ceylon Electricity Board will accept the resignation tendered by any of its employees, Sri Lanka’s Power and Energy Minister has said.
-
-“I have instructed CEB management to accept resignations of any individual without hesitation and to recover all dues to CEB,” Kanchana Wijesekera said on X Monday (22).
-
-Wijesekera was responding to reports of trade unions saying that 5,000 CEB employees were ready to stop work over recent disciplinary action against colleagues.
-
-I have instructed CEB management to accept resignations of any individual without hesitation and to recover all dues to CEB.
-
-I have also instructed the relevant officials to expedite work related to CEB reforms, cost reduction mechanisms, implementing identified power projects… pic.twitter.com/x3VQfN7Sb4
-
-Several CEB employees have been suspended from work over the last week for participating in strike action initiated by trade unions against the proposed restructuring of the state-owned electricity supplier.
-
-...
-
-[Data](articles/3f253d67.json)
-
-[Extended Data](ext_articles/3f253d67.ext.json)
 
 ---

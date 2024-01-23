@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 08:32:57**
+As of **2024-01-23 08:51:10**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 240
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,935 (99.8%) of 1,938 articles have been extended.
+1,938 (100.0%) of 1,938 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 ◼️
 
 [Data](articles/c0894514.json)
+
+[Extended Data](ext_articles/c0894514.ext.json)
 
 ---
 
@@ -65,6 +67,8 @@ Officials representing the Ministry of Public Security, the Attorney General’s
 ...
 
 [Data](articles/434ed4c9.json)
+
+[Extended Data](ext_articles/434ed4c9.ext.json)
 
 ---
 
@@ -97,6 +101,8 @@ The Board took note of the effects of the recent developments in taxation and su
 ...
 
 [Data](articles/acd88347.json)
+
+[Extended Data](ext_articles/acd88347.ext.json)
 
 ---
 

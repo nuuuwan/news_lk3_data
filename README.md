@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 00:48:32**
+As of **2024-01-24 01:02:22**
 
 ## Newspaper Stats
 
-*Scraped **2,170** Articles*
+*Scraped **2,172** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 31
+colombotelegraphcom | 33
 bbccomsinhala | 44
 dbsjeyarajcom | 122
 islandlk | 123
@@ -26,7 +26,7 @@ dailymirrorlk | 274
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,170 (100.0%) of 2,170 articles have been extended.
+2,170 (99.9%) of 2,172 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -786,6 +786,22 @@ They also highlighted the issue of the Tamil political prisoners and the Tamil l
 
 ---
 
+### Sri Lanka’s Proposed Internet Law Threatens Upcoming Elections
+
+*2024-01-23 18:56:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-proposed-internet-law-threatens-upcoming-elections/) · `en`
+
+Sri Lanka’s Proposed Internet Law Threatens Upcoming Elections; Government Body Could Impose Sweeping Censorship, Prosecute Offenders
+
+A repressive new internet law that Sri Lankan President Ranil Wickremesinghe is trying to rush through parliament this week would create broad and vague new speech-related offenses punishable by lengthy prison terms. The law would seriously threaten the right to freedom of expression as Sri Lanka prepares for parliamentary and presidential elections later this year.
+
+The proposed law, the Online Safety Bill, purportedly provides protections against online harassment, abuse, and fraud. Instead, it is mostly concerned with creating a new “Online Safety Commission,” appointed by the president, that can decide what online speech is “false” or “harmful,” remove content, restrict and prohibit internet access, and prosecute individuals and organizations.
+
+...
+
+[Data](articles/0ee3a241.json)
+
+---
+
 ### Doctors give 35000 back - doctor strikes
 
 *2024-01-23 18:52:31* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍යවරුන්ට-35000-ආයෙත්-දෙයි---දොස්තර-වර්ජනය-අත්හැර-දමයි/11-407692) · `si`
@@ -829,6 +845,20 @@ In these cases, they have confessed that the robber has been planned by buses by
 [Data](articles/b99033ab.json)
 
 [Extended Data](ext_articles/b99033ab.ext.json)
+
+---
+
+### Universal Franchise, Written Constitutions, Party Politics & Abuse
+
+*2024-01-23 18:40:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/universal-franchise-written-constitutions-party-politics-abuse/) · `en`
+
+It may sound heretical and ridiculous, but I boldly say, that it is only the last word in my title (“Abuse,”) is real, all else is piffle, confusion, and deceit and quite meaningless. Agreed? Of course not, – don’t be crazy!
+
+Let me explain. More and more that I see happening around me, seems to validate this apparent heresy. I take a perverse delight in witnessing the demolition of myths and untenable yet popular, beliefs. It is astonishing to see the extent to which we allow ourselves to be so easily fooled. Often we seemed to be wired to accept more readily, thoughts couched in complicated verbiage. How often do we unknowingly accept concepts, merely because we feel ill-equipped to understand them? The lament at the end of a speech, “What he said must be mighty important, because I could not understand a word of it” is a telling truth. “Faith” they say is “acceptance of something you know to be false”.  So, on to this implicitly authorized heresy.
+
+...
+
+[Data](articles/d4abacd4.json)
 
 ---
 
@@ -2031,47 +2061,5 @@ Petitions have been submitted by the National Zoo, MP Vijitha Herath, convener o
 [Data](articles/fee30849.json)
 
 [Extended Data](ext_articles/fee30849.ext.json)
-
----
-
-### Sri Lanka, Elite discuss training private security providers for employment abroad
-
-*2024-01-23 13:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-elite-discuss-training-private-security-providers-for-employment-abroad-148415/) · `en`
-
-ECONOMYNEXT – Representatives of Elite Academy, a UK-based private security service provider and training institute, met with Sri Lanka’s Labour and Foreign Employment Minister to discuss establishing a training center in the island, the minister said.
-
-Talks were held about establishing a training centre “aimed at foreign employment opportunities in the security sector including in the United Arab Emirates,” Nanayakkara said on Meta.
-
-Nanayakkara said he would provide state level support towards establishing such a center.
-
-Elite Academy representatives “briefed the Minister on the benefits of establishing a training center for security service providers,” and the importance of only directing those properly trained for foreign employment opportunities in the security service sector.
-
-Elite provides security, teacher training, health and social care, first aid, health and safety, conflict resolution, physical intervention, and specialist qualifications.
-
-...
-
-[Data](articles/da53ee9b.json)
-
-[Extended Data](ext_articles/da53ee9b.ext.json)
-
----
-
-### Doctors to launch indefinite strike from tomorrow
-
-*2024-01-23 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96656/doctors-to-launch-indefinite-strike-from-tomorrow) · `en`
-
-The Government Medical Officers’ Association (GMOA) has decided to launch an indefinite strike starting from tomorrow (Jan. 24).
-
-Accordingly, government doctors will commence the strike from 08.00 a.m. tomorrow, as the government has temporarily suspended the Disturbance, Availability and Transport (DAT) allowance, the GMOA said.
-
-The GMOA states that the decision was reached following information received that the government has decided not to provide the Disturbance, Availability and Transport (DAT) allowance which was increased by Rs. 35,000 from the month of January as previously promised.
-
-On January 08, the Cabinet of Ministers gave its approval to President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
-
-...
-
-[Data](articles/d62cad3b.json)
-
-[Extended Data](ext_articles/d62cad3b.ext.json)
 
 ---

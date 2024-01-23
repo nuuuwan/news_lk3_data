@@ -1,36 +1,96 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 10:03:51**
+As of **2024-01-23 10:17:17**
 
 ## Newspaper Stats
 
-*Scraped **1,953** Articles*
+*Scraped **1,971** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 31
 bbccomsinhala | 42
-islandlk | 110
-adaderanasinhalalk | 116
 newsfirstlk | 116
+adaderanasinhalalk | 118
 economynextcom | 118
 dbsjeyarajcom | 121
+islandlk | 122
 dailyftlk | 171
 virakesarilk | 195
 adalk | 203
 adaderanalk | 240
 dailymirrorlk | 240
-tamilmirrorlk | 250
+tamilmirrorlk | 254
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,953 (100.0%) of 1,953 articles have been extended.
+1,953 (99.1%) of 1,971 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### මත්කරල් ජාවාරම් කළ කාන්තාවක් අත්අඩංගුවට
+
+*2024-01-23 09:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192457) · `si`
+
+යුක්තිය මෙහෙයුමට ලද තොරතුරක් මත පොලිස් විශේෂ කාර්ය බළකායේ නිලධාරීන් විසින් සිදුකළ වැටලීමක දී තහනම් මත්කරල් ජාවාරම් කළ කාන්තාවක් අත්අඩංගුවට ගෙන තිබේ.
+
+විශේෂ කාර්ය බළකායේ නිලධාරීන් විසින් ඊයේ (22) වැල්ලම්පිටිය පොලිස් වසමේ, අංක 31/B, පුවත්ගහවත්ත, පළවෙනි පටුමඟ, කොළොන්නාව යන ලිපිනයේ වැටලීමක් සිදුකර තිබිණි.
+
+එහිදී වෛද්‍ය නිර්දේශ නොමැතිව තහනම් මත්කරල් 89ක් සන්තකයේ තබාගෙන ජාවාරම් කරමින් සිටි අවුරුදු 61ක් වූ කාන්තාවක් අත්අඩංගුවට ගෙන වැඩිදුර විමර්ශන සඳහා වැල්ලම්පිටිය පොලීසිය වෙත භාර දී ඇත.
+
+◼️
+
+[Data](articles/f066164d.json)
+
+---
+
+### ஹரக்கட்டாவுடன் தொடர்புடைய நபர் கைது
+
+*2024-01-23 09:28:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஹரக்கட்டாவுடன்-தொடர்புடைய-நபர்-கைது/175-331998) · `ta`
+
+பாதாள உலக குழு ஒன்றின் தலைவரான ஹரக்கட்டா என்றழைக்கப்படும் நதுன் சிந்தக விக்ரமரத்னவுடன் தொடர்பு கொண்டிருந்தார் என்ற சந்தேகத்தில் ஒருவர் கைது செய்யப்பட்டதாக கொழும்பு குற்றத் தடுப்புப் பிரிவு தெரிவித்துள்ளது.
+
+வெல்லம்பிட்டிய ஹல்முல்ல பிரதேசத்தை சேர்ந்த 27 வயதுடைய நபரே இவ்வாறு கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர், தற்போது சிறையில் உள்ள தனது உறவினருக்கு தனது பெயரில் பதிவு செய்யப்பட்ட சிம் அட்டையை வழங்கியுள்ளதாக தெரிய வந்துள்ளதாக கொழும்பு குற்றத் தடுப்பு பிரிவு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/ffac5fa5.json)
+
+---
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-01-23 09:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192456) · `si`
+
+අද (23) ‍මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත දෙවන වර කියවීමේ විවාදය පැවැත්වීමට නියමිතව ඇත.
+
+එම පනත් කෙටුම්පත මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා විසින් මෙම පනත් කෙටුම්පත පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/5dae059a.json)
+
+---
+
+### வட்டி வீதங்கள் தொடர்பில் அறிவிப்பு
+
+*2024-01-23 09:22:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வட்டி-வீதங்கள்-தொடர்பில்-அறிவிப்பு/175-331997) · `ta`
+
+இலங்கை மத்திய வங்கியின் நாணயக் கொள்கைச் சபை தற்போதைய வட்டி வீததங்களை மாற்றியமைக்காமல் பேணுவதற்கு இலங்கை மத்திய வங்கியின் நாணயக் கொள்கைச் சபை தீர்மானித்துள்ளது.
+
+அதன்படி, 9% நிலையான வைப்புத்தொகை வசதி வீதத்தையும், வழமையான கடன் வசதி வீதமான 10% வீதத்தையும் தற்போதைய மட்டத்தில் பேணுவதற்கு தீர்மானித்துள்ளதாக மத்திய வங்கி அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/2eb9dc1f.json)
+
+---
 
 ### 955 more arrests in 24 hours
 
@@ -566,6 +626,22 @@ President Ranil Wickremesinghe, who is staying in the Uganda's capital, Kampala,
 
 ---
 
+### இனந்தெரியாத ஆணின் சடலம் மீட்பு
+
+*2024-01-23 02:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனந்தெரியாத-ஆணின்-சடலம்-மீட்பு/175-331988) · `ta`
+
+புத்தளம் - மதுரங்குளி களப்பு பிரதேசத்தில் இருந்து இனந்தெரியாத ஆண் ஒருவரின் சடலம் ஒன்று நேற்றுப் பகல் மீட்கப்பட்டுள்ளதாக மதுரங்குளி பொலிஸார் தெரிவித்தனர்.
+
+சடலமாக மீட்கப்பட்ட நபர் தொடர்பில் இதுவரை தகவல் எதுவும் தெரியவில்லை எனப் பொலிஸார் தெரிவித்தனர்.
+
+களப்பு பகுதியில் இருந்து மீட்கப்பட்ட சடலம், நீதிவான் விசாரனையின் பின்னர் பிரேத பரிசோதனைக்காக புத்தளம் தள வைத்தியசாலைக்கு அனுப்பபட்டுள்ளதாகப் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/0b220339.json)
+
+---
+
 ### Corpse
 
 *2024-01-23 02:56:45* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனந்தெரியாத-ஆணின்-சடலம்/175-331988) · `ta`
@@ -721,6 +797,22 @@ What is this information really the position of the Minister of Fisheries?The qu
 [Data](articles/0d945494.json)
 
 [Extended Data](ext_articles/0d945494.ext.json)
+
+---
+
+### ’பாராளுமன்றத்தில் பாலியல் துன்புறுத்தல்கள் பொய்’
+
+*2024-01-23 02:00:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பாராளுமன்றத்தில்-பாலியல்-துன்புறுத்தல்கள்-பொய்/150-331979) · `ta`
+
+பாராளுமன்றத்தில் பெண் ஊழியர்களுக்கும் ஒரு சில பெண் உறுப்பினர்களுக்கும் தொடர்ந்து பாலியல் துன்புறுத்தல்கள் இடம்பெற்று வருவதாகவும், அது தொடர்பில் உரிய விசாரணைகள் மற்றும் நடவடிக்கைகள் எடுக்கப்படுவதில்லை என்றும் வெளியாகும் தகவல்கள் முற்றிலும் பொய்யானவை என பாராளுமன்ற  செயலாளர் நாயகம் குஷானி ரோஹணதீர அறிவித்துள்ளார்.
+
+பாராளுமன்றத்தில் ஒழுக்க மீறல் சம்பவங்களின் போது, அது தொடர்பான விசாரணைகள்  சபாநாயகரின் வழிகாட்டுதலின் கீழ் மிகவும் பக்கச்சார்பற்ற முறையில் மேற்கொள்ளப்படுவதாகவும், விரைவான விசாரணைகளுக்கு சபாநாயகர் தனது அதிகபட்ச பங்களிப்பை வழங்குவதாகவும், எந்த விதத்திலும் அதில் தலையிடுவதோ அல்லது செல்வாக்குச் செலுத்துவதோ இல்லை எனவும் குஷானி ரோஹணதீர வலியுறுத்தினார்.
+
+இதற்கு முன்னர் ஒருசில பெண் ஊழியர்களுக்கு பாலியல் துன்புறுத்தல் மேற்கொள்ளப்பட்ட சம்பவமொன்று பதிவாகியிருந்தாலும், அது தொடர்பாக நியமிக்கப்பட்ட உள்ளகக் குழு மிகவும் பக்கச்சார்பற்ற விசாரணை நடத்தி அந்த விசாரணை அறிக்கை தற்போது தன்னிடம் ஒப்படைக்கப்பட்டுள்ளதாக செயலாளர் நாயகம் தெரிவித்தார்.
+
+...
+
+[Data](articles/8a9e138f.json)
 
 ---
 
@@ -1226,6 +1318,52 @@ Original BRICS member and last year’s chair of BRICS, South Africa gained the 
 
 ---
 
+### Merlina & Mission
+
+*2024-01-22 22:59:00* · [`islandlk`](http://island.lk/merlina-mission/) · `en`
+
+Dubai seems to be the number one destination for Merlina Fernando and that’s where she is at the moment, since early 2023, operating as Merlina & Mission.
+
+They are being featured at the Citymax Hotel Bur Dubai and are doing this scene as a trio.
+
+This is not Merlina’s first assignment in Dubai; her very first trip was in 2006 with the band Dream Team, and, since then, she has been checking out Dubai on a regular basis.
+
+Before travelling to Dubai, Merlina was performing with her husband, as a duo, in the Maldives.
+
+Initially, they operated as a four-piece outfit, when they got to Dubai in 2023, but at a different venue.
+
+Says Merlina: “We got a good offer and so we decided to switch venues, and the Citymax Hotel Bur Dubai, where we now perform, is awesome.
+
+“We are featured at the High So, six nights a week, from 9.30 pm onwards, along with a DJ, and the crowd is great, and we are extremely happy doing our thing here.”
+
+...
+
+[Data](articles/393392d9.json)
+
+---
+
+### Sri Lankan pianist at luxury resort
+
+*2024-01-22 22:53:00* · [`islandlk`](http://island.lk/sri-lankan-pianist-at-luxury-resort/) · `en`
+
+Shahen Thilakaratne is a professional pianist, music producer, music educator, and entrepreneur with an unusual musical gift: at the age of five he could play the piano/keyboards fluently, by ear. It was his mother, he says, who who urged him to do Classical piano exams.
+
+After he completed his education, at Isipathana College, Colombo, he was trained by maestro Sri Lankan pianist Harsha Makalande, a highly respected musician in the scene here.
+
+Recently, Shahen got an invitation to perform in the Maldives, at Cheval Blanc Randheli – a French five-star luxury private island resort, in the northwest of the Maldives, managed by Louis Vuitton.
+
+He was given the opportunity to perform for the festive season by the hotel management.
+
+This resort has been visited by many A-list celebrities, including Demi Lovato, John Legend and Deepika Padukone.
+
+Shahen performed as a solo pianist at the resorts premium restaurants, mainly the Le 1947, Deelani, and Diptyque.
+
+...
+
+[Data](articles/0fe75782.json)
+
+---
+
 ### Special offer from January to Government
 
 *2024-01-22 22:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192446) · `si`
@@ -1241,6 +1379,60 @@ The allowance will be available for the disabled persons, children, adult homes,
 [Data](articles/b0461e2a.json)
 
 [Extended Data](ext_articles/b0461e2a.ext.json)
+
+---
+
+### oneworld unveils its first-ever dedicated lounge experience in Seoul
+
+*2024-01-22 22:23:00* · [`islandlk`](http://island.lk/oneworld-unveils-its-first-ever-dedicated-lounge-experience-in-seoul/) · `en`
+
+Breaking new ground in premium benefits and luxury air travel, the oneworld® alliance unveiled its first ever fully branded dedicated airport lounge in Seoul.
+
+The new oneworld lounge opens as the world’s leading airline alliance prepares to celebrate its landmark 25th anniversary later this year.
+
+For the launch of its first branded lounge, oneworld collaborated with global aviation ground services provider Swissport and the team behind its award-winning ASPIRE Airport Lounges.
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/8dd1d454.json)
+
+---
+
+### ‘Colossal amounts of vegetables and fruits going waste in SL due to non-adoption of greenhouse technology’
+
+*2024-01-22 22:21:00* · [`islandlk`](http://island.lk/colossal-amounts-of-vegetables-and-fruits-going-waste-in-sl-due-to-non-adoption-of-greenhouse-technology/) · `en`
+
+Sri Lanka farmers should adopt more affordable high tech/mid tech farming methods, such as greenhouse cultivation, to increase yield and minimize post- harvest waste in fruit and vegetable produce, like in Netherlands, chairman, Agri Innovation and Lassana Group of companies Dr. Lasantha Malavige said.
+
+“Netherlands being half the size of Sri Lanka, is the second largest fresh food exporter in the world. It adopts state- of- the- art technology, like the greenhouse concept, to ensure higher yields against environmental/climate and other external and internal changes, Malavige told the media at a function at the Hilton Colombo last week.
+
+At the function Malavige announced that his company had entered into a partnership agreement with Ginegar India and Agrilast India, to open its doors to advanced green solutions for local farmers to ensure higher yield and safer food production for Sri Lanka.
+
+...
+
+[Data](articles/7210874f.json)
+
+---
+
+### Reservations among investors over April deadline in restructuring effort
+
+*2024-01-22 22:20:00* · [`islandlk`](http://island.lk/reservations-among-investors-over-april-deadline-in-restructuring-effort/) · `en`
+
+The stock market yesterday kicked off on a positive note but the positives were short lived.
+
+This was on account of local and foreign investors having reservations over the possibility of concluding the external debt restructuring process, especially with commercial creditors, before the IMF’s next review meeting in April, market analysts said.’
+
+Last week the IMF team was in Sri Lanka to review the process and commended Sri Lanka’s progress, but emphasized that the external debt restructuring, especially with commercial creditors, needs to be completed before April.
+
+Amid those developments both indices moved downwards. The All- Share Price Index went down by 61.2 points and S and P SL20 declined by 27.8 points. Turnover stood at Rs 978 million with two crossings. Those crossings were reported in Wind Force, which crossed 25 million shares to the tune of Rs 482 million; its shares traded at Rs 19.70 and Renuka Foods 6 million shares crossed for Rs 120 million and its shares sold at Rs 20.
+
+...
+
+[Data](articles/8ba4a72f.json)
 
 ---
 
@@ -1783,209 +1975,5 @@ Health Minister Pathirana said the official data show nearly 1,200 doctors have 
 [Data](articles/95eb8e1d.json)
 
 [Extended Data](ext_articles/95eb8e1d.ext.json)
-
----
-
-### Sridharan, who was blessed with sir
-
-*2024-01-22 18:48:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/ஐயாவிடம்-ஆசீவாதம்-பெற்ற-ஸ்ரீதரன்/75-331960) · `ta`
-
-Sri Lanka Tamil National Alliance (TNA) leader Sivagnanam Sridharan received a blessing to the Tamil National Alliance (TNA) leader R. Sampanthan.
-
-Sivagnanam Sridharan, a newly elected Sri Lankan Tamil party leader and Kilinochchi district parliamentarian, was blessed with R. Sampanthan (22), the leader of the Tamil National Alliance (TNA) and Trincomalee district parliamentarian.
-
-◼️
-
-[Data](articles/6345288c.json)
-
-[Extended Data](ext_articles/6345288c.ext.json)
-
----
-
-### Ironagoglobin '' Imnogalbin 'to investigate antibody factory
-
-*2024-01-22 18:44:39* · [`adalk`](https://www.ada.lk/breaking_news/සීදුව-ව්‍යාජ-’’-ඉමුනොග්ලොබින්’’-ප්‍රතිදේහ-නිෂ්පාදන-කර්මාන්තශාලාව-විමර්ශනයට/11-407669) · `si`
-
-A special investigation team was inspected from 12/00K Biotech Parma, a special investigation team, which was maintained in the Amalanduwa area area.
-
-Drug Regulatory Authority of the Drug Regulatory Authority of Sri Lanka and a group of people and a group of criminal investigations and a group of Criminal Investigations also calls on the occasion.Had been brought.
-
-The investigation had come to date, as the electricity tariff had not been paid, as the electricity bill of the factory was not paid.
-
-The investigations were made after the Sri Lanka CEB charges were temporarily supplied with electricity.
-
-There were three laboratories and the office in the factory and the office was investigated.
-
-These factories have 10 memory stores related to the main computer system (DMRF) and the fake, which is in this factory, and the fake of the factory, the investigations are also suspected of fake.The officers had been arrested.
-
-The fishermen were later departured from the factory at around 5 pm on 01/22.
-
-◼️
-
-[Data](articles/33f8073e.json)
-
-[Extended Data](ext_articles/33f8073e.ext.json)
-
----
-
-### Vocational education for students in schools
-
-*2024-01-22 18:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174537) · `ta`
-
-Minister of Education Susil Premajayantha said that this year's Education General Level Examination will be launched from February in February, with the knowledge of information technology, including the English language.
-
-This vocational training program will be implemented in 299 schools nationwide schools nationwide to lead students who are completing higher education.
-
-Students who have passed the GCE Advanced Level Examination this year can register themselves in the scheme before February 9, the Minister added.
-
-He added that further information can be obtained from the Divisional Secretariat Skills Development Officers.
-
-◼️
-
-[Data](articles/c17314cb.json)
-
-[Extended Data](ext_articles/c17314cb.ext.json)
-
----
-
-### The new leadership of the Tamil party should be operated for the oppressed common people - Pillaiyan demands the greeting
-
-*2024-01-22 18:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/174542) · `ta`
-
-State Minister Sivanesathurai Chandrakanthan has said that the historic role of the TNA wants to travel on the new path as the leadership of the people who are oppressed beyond the interests of the elite.
-
-The leader of the Tamil People's Liberation Tigers of Tamil Eelam (LTTE), the Minister of Rural Roads, the Minister of State for Development and the Chairman of the District Development Committee, Sivanesathurai Chandrakanthan made these comments on the results of the Tamil National Alliance (TNA).
-
-My heartfelt congratulations to MP Sridharan, who has been elected as the leader of the TNA.
-
-I wish to succeed in the land, administration, rights and existence of the Tamil people by the political ideological politics, which has led to a great party of the great party of the long political history.
-
-I want their historical role to travel on the new path as the leadership of the grassroots people who are oppressed beyond the interests of the elite.
-
-◼️
-
-[Data](articles/089440dd.json)
-
-[Extended Data](ext_articles/089440dd.ext.json)
-
----
-
-### Acting Defence Secretary appointed
-
-*2024-01-22 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/96631/acting-defence-secretary-appointed) · `en`
-
-The Additional Secretary of the Ministry of Defence, Saman Dissanayake, has been appointed as the Acting Defence Secretary with effect from today until Defence Secretary (Rtd) General Kamal Gunaratne returns to the island.
-
-The Presidential Secretariat states that the acting appointment is in addition to the duties of his substantive post as Additional Secretary (Civil Security and Development).
-
-◼️
-
-[Data](articles/febb2aaa.json)
-
-[Extended Data](ext_articles/febb2aaa.ext.json)
-
----
-
-### Conservation Of The Asian Elephant
-
-*2024-01-22 18:30:59* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/conservation-of-the-asian-elephant/) · `en`
-
-In regards to the elephant-human conflict in our country, something particularly important about the issue is that despite decades of research, our understanding of elephant behaviour, especially their usage of changing environments continues to be limited. Dr. Sreedhar Vijayakrishnan, a marine biologist spoke at the Wildlife and Nature Protection Society (WNPS) last week sharing his experiences and discussing the various conflict management strategies that could be adopted to defy these challenges.
-
-...
-
-[Data](articles/db9c6330.json)
-
-[Extended Data](ext_articles/db9c6330.ext.json)
-
----
-
-### IPL. Chamari not bought. To the leadership of Women's T20 group
-
-*2024-01-22 18:30:52* · [`adalk`](https://www.ada.lk/sports/අයි-පී-එල්--මිලදී-නොගත්--චමරි-අයි-සී-සී--කාන්තා-විස්සයි-20-කණ්ඩායමේ-නායකත්වයට/9-407668) · `si`
-
-According to the National Twenty20 women's team, according to the performance of Women Twenty 20, has been announced by the International Cricket Team.
-
-The captaincy of the group is a significant factor in Sri Lanka Leaders Chamari Atapattu. She was in the international field last year and a player showing significant talent at the league.
-
-However the women will be held in the future. Although she was submitted to the auction of the tournament, no group did not take her to buy her.
-
-◼️
-
-[Data](articles/05ca14b0.json)
-
-[Extended Data](ext_articles/05ca14b0.ext.json)
-
----
-
-### President Positions Sri Lanka To Win International Support
-
-*2024-01-22 18:30:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-positions-sri-lanka-to-win-international-support/) · `en`
-
-Under President Ranil Wickremesinghe’s leadership it looks like Sri Lanka is once again punching above its weight. The president took centre stage at the 19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the 3rd South Summit of the Group of 77 & China currently taking place in Kampala, Uganda. The president’s media unit stated that at the invitation of President Yoweri Museveni of Uganda, President Wickremesinghe not only participated in these critical global gatherings but also addressed both the NAM Summit and the South Summit. During his visit to Kampala, he is reported to have engaged in discussions with counterparts from the Global South, with a special focus on strengthening ties with leaders from the African region.
-
-...
-
-[Data](articles/f71cc61b.json)
-
-[Extended Data](ext_articles/f71cc61b.ext.json)
-
----
-
-### Saman Dissanayake appointed Acting Defense Secretary
-
-*2024-01-22 18:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192440) · `si`
-
-Additional Secretary to the Ministry of Defense Saman Dissanayake has been appointed as the Acting Secretary Defense.
-
-The Presidential Secretariat has issued a statement issued by the Defense Secretary General Kamal Gunaratne and this appointment has been made to return to the island.
-
-◼️
-
-[Data](articles/57cf9255.json)
-
-[Extended Data](ext_articles/57cf9255.ext.json)
-
----
-
-### ‘Accept resignations of any individual without hesitation’ – Minister tells CEB
-
-*2024-01-22 18:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96630/accept-resignations-of-any-individual-without-hesitation-minister-tells-ceb) · `en`
-
-The management of the Ceylon Electricity Board (CEB) has been instructed by Minister of Power and Energy Kanchana Wijesekera to accept the resignations of any employee of the state-owned electricity company, and to recover all dues owed to CEB.
-
-Taking to ‘X’ (formerly Twitter), in response to media reports claiming that around 5,000 CEB employees stand ready resign at the same time, the Minister said, “I have instructed CEB management to accept resignations of any individual without hesitation and to recover all dues to CEB”.
-
-He further stated that he also instructed the relevant officials to expedite the work related to the CEB’s reforms and other matters, including cost reduction mechanisms, implementing identified power projects in the generation plan, expanding digital payment platforms and outsourcing payment collections.
-
-...
-
-[Data](articles/64add9bd.json)
-
-[Extended Data](ext_articles/64add9bd.ext.json)
-
----
-
-### Three minor staff members arrested over assault incident at Karapitiya Hospital granted bail
-
-*2024-01-22 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96629/three-minor-staff-members-arrested-over-assault-incident-at-karapitiya-hospital-granted-bail-) · `en`
-
-The three minor staff members of the Karapitiya Teaching Hospital who were arrested and remanded in connection with a complaint by the hospital’s senior oncologist alleging assault, have been granted bail.
-
-The relevant order was issued by the Galle Magistrate’s Court on Monday (22 Jan.), upon consideration of a motion filed by the accused seeking bail.
-
-The three minor staff, including a female, were arrested on 21 January, over an alleged assault incident based on a complaint filed by the senior oncologist of the hospital, Dr. Krishantha Perera.
-
-Earlier today, Dr. Krishantha Perera, who was arrested and remanded for allegedly assaulting a female junior staff member, was also granted bail.
-
-61-year-old Dr. Krishantha Perera was granted bail on orders of the Galle Magistrate’s on two personal bonds of Rs. 1 million each.
-
-The relevant order was issued by Galle Magistrate Isuru Neththikumara.
-
-...
-
-[Data](articles/d3edc820.json)
-
-[Extended Data](ext_articles/d3edc820.ext.json)
 
 ---

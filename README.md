@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 17:02:23**
+As of **2024-01-23 17:17:11**
 
 ## Newspaper Stats
 
-*Scraped **2,099** Articles*
+*Scraped **2,100** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 43
 dbsjeyarajcom | 121
 newsfirstlk | 123
 islandlk | 123
-economynextcom | 125
+economynextcom | 126
 adaderanasinhalalk | 133
 dailyftlk | 171
 adalk | 214
@@ -26,35 +26,39 @@ tamilmirrorlk | 266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,091 (99.6%) of 2,099 articles have been extended.
+2,099 (100.0%) of 2,100 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### ஊடகங்களை அடக்கும் நோக்கம் அரசாங்கத்துக்கு இல்லை ; சமூக ஊடகங்கள் நிச்சயம் கண்காணிக்கப்படும் - பொதுமக்கள் பாதுகாப்பு அமைச்சர்
+### The government has no intention of suppressing the media;Social media will definitely be monitored - Minister of Public Safety
 
 *2024-01-23 16:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174630) · `ta`
 
-ஊடகங்களை அடக்கும் வகையில் நிகழ்நிலை காப்புச் சட்டமூலம் தயாரிக்கப்படவில்லை. சமூக ஊடகங்களின் தவறான செயற்பாடுகள் கண்காணிக்கப்படும். தேசிய மற்றும் சர்வதேச அமைப்பினர் முன்வைத்துள்ள யோசனைகள்  தொடர்பில் விசேட அமைச்சரவை பத்திரத்தை வெகுவிரைவில் முன்வைப்பேன் என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்தார்.
+The Unity Backup Bill is not prepared to suppress the media. The misbehavior of social media will be monitored. Public Defense Minister Tran Ales said that the special cabinet paper will be forwarded soon on the ideas put forward by the National and International Organization.
 
 ◼️
 
 [Data](articles/944ab9bd.json)
 
+[Extended Data](ext_articles/944ab9bd.ext.json)
+
 ---
 
-### காசாவில் கடும் மோதல்கள் தொடர்கின்றன - ஒரேநாளில் 24 இஸ்ரேலிய படையினர் பலி
+### Fierce clashes continue - 24 Israeli soldiers killed in one day
 
 *2024-01-23 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174629) · `ta`
 
-இரண்டு கட்டிடங்களிற்கு அருகில் நின்றுகொண்டிருந்த இஸ்ரேலிய டாங்கிகளை இலக்குவைத்து பாலஸ்தீன போராளிகள் ஆர்பிஜி தாக்குதலை மேற்கொண்டதில் இந்த உயிரிழப்புகள் ஏற்பட்டுள்ளன.
+The casualties have been caused by Palestinian militants targeting Israeli tanks standing near the two buildings.
 
-கட்டிடமொன்றை அழிப்பதற்காக கண்ணிவெடிகளை வைத்துவிட்டு இஸ்ரேலிய படையினர் காத்திருந்தனர் அவ்வேளை ஆர்பிஜி விழுந்து வெடித்ததில் கட்டிடத்தில் பாரிய வெடிப்பு ஏற்பட்டது என இஸ்ரேலிய அதிகாரிகள் தெரிவித்துள்ளனர்.
+Israeli officials said that there was a massive explosion in the building when the RPG exploded.
 
 ◼️
 
 [Data](articles/8969fda8.json)
+
+[Extended Data](ext_articles/8969fda8.ext.json)
 
 ---
 
@@ -78,77 +82,89 @@ They added, “Our aim remains to de-escalate tensions and restore stability in 
 
 ---
 
-### வீடுகளின் முழு உரிமையை மாற்றும் போது அதன் பயனாளி இறந்தால் அந்த வீட்டின் முழு உரிமை வீட்டில் வசிக்கும் அவரது வாரிசுகளுக்கு மாத்திரமே - பிரசன்ன ரணதுங்க
+### When its beneficiary dies when the entire ownership of the house is changed, the full rights of the house are only for his heirs who live in the house - Prasanna Ranatunga
 
 *2024-01-23 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174631) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவினால் முன்வைக்கப்பட்ட வரவு செலவுத் திட்ட முன்மொழிவின் கீழ் 50,000 வீட்டு உரிமைப் பத்திரங்களை வழங்கும் வேலைத்திட்டத்தை நடைமுறைப்படுத்துவதற்கான அனுமதியைப் பெறுவதற்கான அமைச்சரவைப் பத்திரம் சமர்ப்பிக்கப்பட்டுள்ளது.
+The Cabinet paper has been submitted to obtain permission to implement a program issued by President Ranil Wickremesinghe under the budget proposal.
 
-நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்கவினால் இந்த அமைச்சரவை பத்திரம் சமர்ப்பிக்கப்பட்டுள்ளது.
+The Cabinet paper has been submitted by Prasanna Ranatunga, Minister of Urban Development and Housing.
 
-இது தொடர்பான அமைச்சரவைப் பத்திரத்தில், வீட்டு உரிமைப் பத்திரங்களை வழங்கும் போது வீட்டு உரிமையாளர்கள் செலுத்த வேண்டிய நொத்தாரிசு கட்டணம், முத்திரைக் கட்டணம் மற்றும் பிற வரிகளுக்கு செலவிடப்படும் தொகை திறைசேரியால் ஏற்கப்படும் என்று பரிந்துரைத்துள்ளது.
+In this cabinet deed, it has suggested that homeowners will be accepted by the Treasury Service to pay the cost of payments, stamp fees and other taxes.
 
-மேலும், இந்த வீடுகளின் முழு உரிமையை மாற்றும் போது அசல் பயனாளி இறந்திருந்தால், அந்த வீட்டில் தற்போது வசிக்கும் அவரது வாரிசுகளுக்கு மட்டுமே வீடுகளின் முழு உரிமையும் வழங்கப்பட வேண்டும் என்றும் இது தொடர்பான அமைச்சரவை பத்திரத்தில் மேலும் தெரிவிக்கப்பட்டுள்ளது.
+Moreover, if the original beneficiary dies when changing the entire ownership of these houses, only his heirs who are currently living in the house should be given the full rights of the houses.
+
+The Cabinet paper has been submitted for observations of the Ministry of Finance and the Cabinet meeting is to be held tomorrow.
+
+Under various city schemes, low -income families charge Rs.. Minister Prasanna Ranatunga has said that the Cabinet has proposed to stop the rental money.
 
 ...
 
 [Data](articles/7f85706b.json)
 
+[Extended Data](ext_articles/7f85706b.ext.json)
+
 ---
 
-### පාසල්වලට දරුවන් ඇතුළත් කරගැනීමට ගැන දැනුම්දීමක්
+### Notice to include children in schools
 
 *2024-01-23 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192474) · `si`
 
-පාසල්වල පළමු ශ්‍රේණියට සිසුන් ඇතුළත් කිරීම සඳහා අධ්‍යාපන අමාත්‍යාංශය මගින් නිකුත් කර ඇති චක්‍රලේඛය අනුව පාසල් වෙත අයදුම්පත් යොමු කළ යුතු අතර විදුහල්පතිවරුන් විසින් සම්මුඛ පරීක්ෂණ පවත්වා සිසුන් ඇතුළත් කරගැනීම සිදු කරනු ඇති බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනයක් නිකුත් කරමින් පවසයි.
+The Ministry of Education issued a statement that the schools have been sent to the school to include students to the first grade of schools.
 
-පාසල්වල 06 වැනි ශ්‍රේණියට සිසුන් ඇතුළත් කිරීම 05 වැනි ශ්‍රේණියේ ශිෂ්‍යත්ව විභාගයේ ලකුණු මත පමණක් සිදු කරනු ලැබේ.
+Admission of students to Grade 6 of schools is based on the Grade 5 Scholarship Examination.
 
-2024 වර්ෂයේ 1,5 සහ 6 ශ්‍රේණි හැර අනෙකුත් අතරමැදි පන්ති සඳහා (උසස් පෙළ ද ඇතුළුව) සිසුන් ඇතුළත් කිරීමට ද අදාළ අයදුම්පත් පාසල් වෙත යොමු කළ යුතු අතර එම පාසල්වල පුරප්පාඩු පවතී නම් විදුහල්පතිවරුන් විසින් අධ්‍යාපන අමාත්‍යාංශ චක්‍රලේඛ ප්‍රකාරව සම්මුඛ පරීක්ෂණ පවත්වා තෝරාගත් සිසුන්ගේ නාමලේඛනය අනුමැතිය සඳහා අධ්‍යාපන අමාත්‍යාංශයට යොමු කරනු ඇත.
+Applications should be referred to schools to include students (including A / L) students other than 1,5 and 6 years in 2024.Will be forwarded to the Ministry of Education.
 
-එසේම 2023 වර්ෂයේ පන්තිවලට අදාළව සිසුන් ඇතුළත් කිරීමේ අයදුම්පත් අධ්‍යාපන අමාත්‍යාංශයට හෝ පාසල් වෙත හෝ යොමු කිරීම සිදු නොකරන ලෙස දන්වන අතර පාසල් සඳහා සිසුන් ඇතුළත් කිරීමේ ලිපි අධ්‍යාපන අමාත්‍යාංශය මගින් නිකුත් කරනු නොලබන බව ද දන්වා සිටී.
+Also, applications to the Ministry of Education or schools in the year 2023 will not be referred to the Ministry of Education or to schools and the admission of students to schools will not be issued by the Ministry of Education.
 
 ◼️
 
 [Data](articles/4f3367ac.json)
 
+[Extended Data](ext_articles/4f3367ac.ext.json)
+
 ---
 
-### குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் என கூறியவர்களே தேரரை சுட்டுக் கொன்றனராம்
+### Those who claimed to be Criminal Investigation Department officials were shot dead
 
 *2024-01-23 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/174628) · `ta`
 
-சொகுசு காரில் வந்த இனந்தெரியாத நபர்கள் மேற்கொண்ட துப்பாக்கிச் சூட்டில்  தேரர் ஒருவர் உயிரிழந்த சம்பவம் தொடர்பில்  மல்வத்துஹிரிபிட்டிய பொலிஸார் மேலதிக தகவல்களை வெளியிட்டுள்ளனர்.
+Malwathuhiripitiya police have released further information about the death of a Thera in the shooting of unidentified persons in the luxury car.
 
-இந்த துப்பாக்கிச் சூட்டில் உயிரிழந்தவர் கலபாலுவாவைச் சேர்ந்த தம்மரத்ன தேரர் (45) என பொலிஸார் தெரிவித்துள்ளனர்.
+The victim was Dammaratne Thera, 45, from Kalabalua, police said.
 
-ஹேனேகம பிரதேசத்தில் உள்ள விகாரை ஒன்றில் இவர் வசித்து வந்ததாகவும், அந்த விகாரையின் காணி தொடர்பிலான பிரச்சினை காரணமாக மல்வத்துஹிரிபிட்டிய விகாரைக்கு வந்து அன்னதானம் வழங்கியமையும்  பொலிஸாரின் விசாரணைகளில் தெரிய வந்துள்ளது.
+Police investigations have revealed that he was living in a Vihara in Hanegama area and that he had come to the Malwathuhiripitiya Viharaya due to the land of the Vihara.
 
-சொகுசு காரில் வந்த இனந்தெரியாத நால்வர்,   தாம் குற்றப் புலனாய்வு திணைக்கள அதிகாரிகள் எனவும் தமக்குக் கிடைத்த தகவலின் பேரில் சோதனையிட வந்ததாகவும் தெரிவித்துள்ளனர்.
+Four people who came in the luxury car have said that they were also a Criminal Investigation Department officials.
 
-இதனையடுத்து சந்தேக நபர்கள் சோதனையிடுவது போன்று நடித்து  இரண்டு முறை துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் மேற்கொண்ட முதற்கட்ட விசாரணையில் தெரிய வந்துள்ளது.
+Preliminary inquiries by the police revealed that the suspects had fled and fled twice.
 
 ◼️
 
 [Data](articles/db2e08a1.json)
 
+[Extended Data](ext_articles/db2e08a1.ext.json)
+
 ---
 
-### நாரம்மலவில் லொறிச் சாரதி சுட்டுக்கொலை : சப் இன்ஸ்பெக்டரின் விளக்கமறியல் நீடிப்பு
+### Lorry driver shot dead in Naramalai: Sub -Inspector
 
 *2024-01-23 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174621) · `ta`
 
-நாரம்மலவில் லொறிச் சாரதி ஒருவரைச் சுட்டுக் கொன்றதாகக் கூறப்படும் குற்றச்சாட்டின் பேரில் கைதுசெய்யப்பட்ட பொலிஸ் சப் இன்ஸ்பெக்டரின் விளக்கமறியல் நீடிக்கப்பட்டுள்ளது.
+The explanation of the police Sub Inspector, who was arrested on charges of shooting a lorry driver in Narammalai, has been extended.
 
-இதன்படி, நாரம்மல நீதிமன்ற  நீதிவானின்  உத்தரவின் பேரில்  ஜனவரி 31ஆம் திகதி  வரை விளக்கமறியல்  நீடிக்கப்பட்டுள்ளது.
+Accordingly, on the orders of the Narammala Court Justice, the presentation has been extended till 31st January.
 
-கடந்த 18 ஆம் திகதி இடம்பெற்ற இந்தச் சம்பவத்தில்  41 வயதான லொறியின் சாரதி ஒருவர் கொல்லப்பட்டார்.
+A 41 -year -old lorry driver was killed in the incident which took place on the 18th.
 
-இதனையடுத்து குறித்த சப்-இன்ஸ்பெக்டர் மற்றும் பொலிஸ் கான்ஸ்டபிள் இருவரும் பணியிடை நீக்கம் செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+Subsequently, the Sub-Inspector and the Police Constable were sacked.
 
 ◼️
 
 [Data](articles/cc917f6f.json)
+
+[Extended Data](ext_articles/cc917f6f.ext.json)
 
 ---
 
@@ -262,6 +278,24 @@ He made this statement at a media briefing held at the Central Bank today (23).
 
 ---
 
+### Sri Lanka CB seeks explanation from banks which have not cut loan rates fast
+
+*2024-01-23 15:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-seeks-explanation-from-banks-which-have-not-cut-loan-rates-fast-148431/) · `en`
+
+ECONOMYNEXT – The Central Bank has sought explanations from some banks which have not cut rates as fast as required by an order issued last year, Governor Nandalal Weerasinghe said.
+
+“It may have been lower than what we anticipated when we issued these orders back in August; Some banks had already started the process of bringing down interest rates. Other banks that have not started the process we have asked them to bring it down by 350 basis points by December.”
+
+“There are a lot of banks that have reduced, but not to the extent that we hoped. We are closely monitoring the banks and we want all the bank to follow the instructions we have issued.”
+
+Weerasinghe conceded that when the order was issued “we also had expectations about where the other market rates would be; for example yield rates, we expected a further decline but that did not happen. So there’s an impact on other factors.” (Colombo/Jan23/2024)
+
+◼️
+
+[Data](articles/3ea49984.json)
+
+---
+
 ### Dental surgeons to also go on strike
 
 *2024-01-23 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96660/dental-surgeons-to-also-go-on-strike) · `en`
@@ -342,15 +376,17 @@ The Railways Department said the car had tried to cross the level crossing while
 
 ---
 
-### වෙඩිතැබීමකින් හිමි නමක් අපවත්වෙති
+### We are a shooting name
 
 *2024-01-23 14:45:41* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩිතැබීමකින්-හිමි-නමක්-අපවත්වෙති/11-407691) · `si`
 
-ගම්පහ මල්වතුහිරිපිටිය ප්‍රදේශයේ විහාරස්ථානයක හිමිනමක් වෙඩිතැබීමක් හේතුවෙන් අපවත් වී තිබේ. ටී 56 ගිනි අවියක් යොදාගනිමින් මෙම වෙඩිතැබීම සිදුකර ඇත.
+Humanity of a temple in the Malwathuhiripitiya area in Gampaha has been shot. The shooting has been carried out using a T-56 rifle.
 
 ◼️
 
 [Data](articles/5420a4b6.json)
+
+[Extended Data](ext_articles/5420a4b6.ext.json)
 
 ---
 
@@ -1032,19 +1068,23 @@ Police Media Spokesman SSP Nihal Thalduwa explained that the CCTV camera system 
 
 ---
 
-### වැසී ඇති නියංගොඩ විද්‍යාලය කිතුල් ආශ්‍රිත නිෂ්පාදන කර්මාන්ත ශාලාවක් කිරීමට අවධානය
+### Niyangoda Vidyalaya, which is covered, focuses on Kitul based factory
 
 *2024-01-23 12:48:29* · [`adalk`](https://www.ada.lk/breaking_news/වැසී-ඇති-නියංගොඩ-විද්‍යාලය-කිතුල්-ආශ්‍රිත-නිෂ්පාදන-කර්මාන්ත-ශාලාවක්-කිරීමට-අවධානය/11-407684) · `si`
 
-දැනට භාවිතයට නොගන්නා නියංගොඩ මහ විද්‍යාල පරිශ්‍රය කිතුල් ආශ්‍රිත නිෂ්පාදන කර්මාන්ත ශාලාවක් ආරම්භකිරීම සදහා වන මූලික සාකච්ඡාවක් මධ්‍යම පළාත් ආණ්ඩුකාරවර නීතීඥ ලලිත් යු ගමගේ මහතාගේ ප්‍රධානත්වයෙන් මහනුවර පිහිටි ආණ්ඩුකාරවර කාර්යාලීය ශ්‍රවණාගාරයේදී (22) පැවැත්විය.
+Governor Lalith Under the Governor of the Central Province, Attorney at the Governor of Kandy Lalith Yamage was held at the Governor's Office Auditorium, Kandy.
 
-ඒ අනුව, සාම්ප්‍රදායික කිතුල් කර්මාන්තයට නව තාක්ෂණය මුසු කරමින් නවීන ලෝකයට ගැලපෙන පරිදි මෙම නිෂ්පාදන සකස් කිරීමට නියමිතව පවතින අතර, එය දේශීය මෙන්ම විදේශීය වෙළදපොලට කිතුල් ආශ්‍රිත අතුරු නිෂ්පාදන ලෙස ‍කිතුල් චොකලට්, තෙලිදිය පානය, දඹදිය ශක්ති ජනක පානය ඇතුලු නිෂ්පාදන රැසක් ආරම්භ කිරීමට නියමිතය.
+Accordingly, these products are to be prepared to suit the modern world and to suit the modern world to the traditional kitul industry.
 
-මෙම ව්‍යාපෘතිය වසර 05ක ආයෝජන සැලැස්මක් යටතේ ක්‍රියාත්මක කිරීමට නියමිත අතර, මධ්‍යම පළාත් කර්මාන්ත අමාත්‍යාංශය සහ GREEN GLOBE ORGANICS පෞද්ගලික සමාගම එක් ව ක්‍රියාත්මක කිරීමට නියමිතය.
+The project is to be implemented under a five year investment plan and the Ministry of Industries and the Green Globe Organics (Pvt) Ltd will be implemented.
 
-...
+The initial phase of the project will be invested on Rs.The benefits of this project are unique and that our traditional industries have been maintained.
+
+◼️
 
 [Data](articles/ec1a3dcd.json)
+
+[Extended Data](ext_articles/ec1a3dcd.ext.json)
 
 ---
 
@@ -1963,29 +2003,5 @@ Yall. Investigations have revealed that the Sri Lanka Transport Board bus and a 
 [Data](articles/8738d851.json)
 
 [Extended Data](ext_articles/8738d851.ext.json)
-
----
-
-### Sri Lanka plans tourist promotional campaign from March
-
-*2024-01-23 10:55:00* · [`economynextcom`](https://economynext.com/sri-lanka-plans-tourist-promotional-campaign-from-march-148382/) · `en`
-
-ECONOMYNEXT – Sri Lanka Tourism Promotion Bureau will start a 1.5 billion rupee promotional campaign in 11 key markets starting in March as part of efforts to boost arrivals, Chairman Chalaka Gajabahu said, as the South Asian island recovers from an economic crisis.
-
-The target markets include India, China, Russia, UK, France, Germany, South Korea, Japan, Australia, and Scandinavian countries.
-
-An advertising agency for creative work is selected and tender for digital and public relations work has been floated, he said.
-
-Sri Lanka is working with social media influencers, including Nas Daily who has been contracted to create three videos on why tourists should visit Sri Lanka, why investors should invest, and on Sri Lanka’s tea, he told reporters earlier in January.
-
-The video will be translated to 18 different languages including Mandarin.
-
-Sri Lanka’s Tourism Promotion Bureau said that it had attracted over 100 influencers in 2023.
-
-...
-
-[Data](articles/37d114b7.json)
-
-[Extended Data](ext_articles/37d114b7.ext.json)
 
 ---

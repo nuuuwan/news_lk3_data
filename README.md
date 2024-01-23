@@ -1,20 +1,20 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 13:52:06**
+As of **2024-01-23 14:03:39**
 
 ## Newspaper Stats
 
-*Scraped **2,031** Articles*
+*Scraped **2,036** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 31
-bbccomsinhala | 42
+bbccomsinhala | 43
 dbsjeyarajcom | 121
 newsfirstlk | 122
-adaderanasinhalalk | 123
 islandlk | 123
 economynextcom | 124
+adaderanasinhalalk | 127
 dailyftlk | 171
 adalk | 207
 virakesarilk | 211
@@ -26,11 +26,53 @@ tamilmirrorlk | 263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,031 (100.0%) of 2,031 articles have been extended.
+2,031 (99.8%) of 2,036 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### රජයේ වෛද්‍ය නිලධාරීන් අඛණ්ඩ වැඩවර්ජයක
+
+*2024-01-23 13:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192466) · `si`
+
+රජයේ වෛද්‍ය නිලධාරීන්ගේ සංගමය හෙට (24) සිට අඛණ්ඩ වැඩවර්ජනයක් ආරම්භ කිරීමට තීරණය කර තිබේ.
+
+රජය විසින් මීට පෙර සඳහන් කළ පරිදි DAT දීමනාව ජනවාරි මාසයේ සිට ලබානොදීමට තීරණය කර ඇති බවට ලද තොරතුරකට අනුව එම සංගමය මෙම තීරණය ගෙන ඇත.
+
+◼️
+
+[Data](articles/0890f903.json)
+
+---
+
+### වෙඩිතැබීමකින් හිමිනමක් අපවත් වෙති
+
+*2024-01-23 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192465) · `si`
+
+පොලීසිය පවසන්නේ ටී 56 ගිනි අවියක් යොදාගනිමින් මෙම වෙඩිතැබීම සිදුකර ඇති බවය.
+
+◼️
+
+[Data](articles/91492359.json)
+
+---
+
+### බැංකු ණය පොලිය ගැන මහ බැංකු ස්ථාවරය
+
+*2024-01-23 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192464) · `si`
+
+බැංකු ණය පොලී අනුපාතය තවදුරටත් අඩු විය යුතු බව මහ බැංකු අධිපති ආචාර්ය නන්දලාල් වීරසිංහ මහතා පවසයි.
+
+අද (23) මහ බැංකුවේ පැවැති මාධ්‍ය හමුවකට එක්වෙමින් ඒ මහතා මේ බව කියා සිටියේය.
+
+"දත්ත බැලුවාම අඩුකරලා තියෙනවා. අපි බලාපොරොත්තු වන ප්‍රමාණයට අඩුකරලා නෑ කියන එක තමයි අපි කියන්නේ. අඩු කරලා නෑ කියන එක අපි බැලුවාම බැංකුවලින් විශේෂයෙන් අපි ML ඕඩරයක් දැම්මහම මාසෙන් මාසෙට ඉලක්ක ළඟා වුණාද කියලා, හැම බැංකුවෙන්ම දත්ත ගෙන්වා ගන්නවා. එතකොට ඒ දත්ත අනුව ඒ තියෙන ඉලක්කයටම සියලුම බැංකු ඇවිල්ලා නැහැ. සමහර බැංකු කිහිපයක් තියෙනවා ඇවිත් නැතුව. ඒ අයට අපි දැනුම්දීලා තියෙනවා. පැහැදිලි කිරීම් කැඳවලා තියෙනවා. ඒ අනුව යම් යම් හේතු දක්වලා තියෙනවා. ඒත් අපි කියන්නේ තවදුරටත් මේක අඩුවෙන්න ඕනේ කියන මතයේ අපි ඉන්නවා. එතකොට ඒක අලුතින් ගන්න අයටත්, ඒ එක්කම බැංකු ණය තියෙන අයගෙත් පොලී අනුපායතය අඩුවෙන්න ඕනේ."
+
+...
+
+[Data](articles/c875e959.json)
+
+---
 
 ### Calling for applications of the 2024 O/L examination begins
 
@@ -129,6 +171,16 @@ Police Media Spokesman SSP Nihal Thalduwa explained that the CCTV camera system 
 [Data](articles/df5d6e1f.json)
 
 [Extended Data](ext_articles/df5d6e1f.ext.json)
+
+---
+
+### මෝටර් රථයක් දුම්රියක ගැටෙයි
+
+*2024-01-23 12:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192463) · `si`
+
+◼️
+
+[Data](articles/4d5a4405.json)
 
 ---
 
@@ -1728,6 +1780,26 @@ The Meteorological Department further states that in some places in the Sabaraga
 
 ---
 
+### මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත අද පාර්ලිමේන්තුවේ විවාදයට; මේ දක්වා සිදුවුයේ කුමක් ද?
+
+*2024-01-23 05:41:14* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/crg78n61z90o) · `si`
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත අද පාර්ලිමේන්තුවේ විවාදයට; මේ දක්වා සිදුවුයේ කුමක් ද?
+
+සමාජයේ දැඩි කතාබහට ලක්ව ඇති මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත අද (ජනවාරි 23 වැනිදා) පාර්ලිමේන්තුවේ විවාදයට ගැනීමට නියමිතය.
+
+අද (ජනවාරි 23 වැනිදා) පෙරුවරු 9.30ට පාර්ලිමේන්තුව රැස්වූ අතර පනත් කෙටුම්පත විවාදයට පෙර කතානායකවරයා විසින් සභාව තාවකාලිකව අත්හිටුවා පක්ෂනායක රැස්වීමක් කැඳවනු ලැබීය.
+
+මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් විසින් මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත පළමු වර කියවීම සඳහා පසුගිය දා පාර්ලිමේන්තුවට ඉදිරිපත් කරනු ලැබුවේ, පාර්ශව  රැසක් මේ පනත් කෙටුම්පත පිළිබඳව දැඩි විරෝධයක් එල්ල කර ඇති පසුබිමක් තුළයි.
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත: වැඩ වරදින වැරදි මොනවද?
+
+...
+
+[Data](articles/a403ab33.json)
+
+---
+
 ### Apparel industry sees significant performance contraction in 2023
 
 *2024-01-23 04:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apparel-industry-sees-significant-performance-contraction-in-2023/108-275543) · `en`
@@ -1881,101 +1953,5 @@ The professor who was admitted to the hospital in critical condition died at aro
 [Data](articles/98f8d068.json)
 
 [Extended Data](ext_articles/98f8d068.ext.json)
-
----
-
-### By the Foundation Backup Act: Two -day debate
-
-*2024-01-23 02:19:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிகழ்நிலை-காப்புச்-சட்ட-மூலம்-இரு-நாள்-விவாதம்/175-331982) · `ta`
-
-The debate on the controversial controversy will be held in Parliament on Tuesday (23) and Wednesday (24).. After the debate, the government is looking forward to passing the bill.
-
-It is expected that a referendum may be held to pass this bill. According to reports, the government is looking for amendments to the amendments when examining the bill.
-
-It is noteworthy that Public Security Minister Tran Ales recently presented the bill to Parliament for the first reading.
-
-◼️
-
-[Data](articles/73b0f1a3.json)
-
-[Extended Data](ext_articles/73b0f1a3.ext.json)
-
----
-
-### Authorization of the Department of Department of Supervisory
-
-*2024-01-23 02:11:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/துறைசார்-மேற்பார்வை-குழு-அங்கீகாரம்/175-331981) · `ta`
-
-Amendments to the High Court have been approved by the Department of Media, Youth, Heritage and New Citizens.
-
-The Department of Media, Youth, Heritage and New Citizens has approved the approved by its Chairman of Parliament Lalith Warna Kumara on Monday (22).
-
-The Bill will be presented in Parliament on Tuesday (23) for a second assessment debate.
-
-Officials representing the Ministry of Public Security, the Attorney General's Department, the Attorney General's Department, the Sri Lanka Police and the National Secretariat for NGOs.
-
-Members of the committee were also present at the meeting, with MPs Gayantha Karunathilaka, Jayantha Kadagoda, Sanjeeva Enemy, Jagath Samarawickrama and MPs Iran Vikramaratne and Chandima Weerakody with the permission of the committee's chairman.
-
-...
-
-[Data](articles/3d48ad46.json)
-
-[Extended Data](ext_articles/3d48ad46.ext.json)
-
----
-
-### Arrest Indian fishermen
-
-*2024-01-23 02:06:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-மீனவர்களை-கைது-செய்க/175-331980) · `ta`
-
-The Minister of Foreign Affairs, NM Alam said that the Minister of Foreign Affairs and the Northern Province Fishermen's Internet and Media Spokesperson said that we, as Northern fishermen, expressed their opposition to the release of Indian fishermen.
-
-He told the media on Sunday evening that fishermen in the North are looking at this and how the government is coming to an end.
-
-We know through the media that more than 40 Tamil Nadu fishermen arrested in the Mannar Sea a few days ago, beyond the Nedundevu and Point Pedro, within a month of a month, are being released on the basis of the recommendation of the Ministry of Fisheries.
-
-What is this information really the position of the Minister of Fisheries?The question has encoded. In particular, when the Indian Finance Minister came to Tamil Nadu a few months ago, 20 fishermen were released without any legal action.
-
-...
-
-[Data](articles/0d945494.json)
-
-[Extended Data](ext_articles/0d945494.ext.json)
-
----
-
-### Sexual harassment in Parliament
-
-*2024-01-23 02:00:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/பாராளுமன்றத்தில்-பாலியல்-துன்புறுத்தல்கள்-பொய்/150-331979) · `ta`
-
-Secretary -General of Parliament Kushani Rohanadeera has announced that the reports that are being continued to be sexually harassed for female employees and a few female members in Parliament and that the reports are not being investigated.
-
-Kushani Rohanadheera stressed that during the moral violations in Parliament, the inquiries were carried out under the guidance of the Speaker, and that the Speaker would make his maximum contribution to the rapid inquiries, and that he would not interfere or influence it.
-
-The Secretary General said that although a few female employees had previously been reported to have been sexually harassed, the Inner Committee appointed to investigate the investigation into the matter.
-
-...
-
-[Data](articles/8a9e138f.json)
-
-[Extended Data](ext_articles/8a9e138f.ext.json)
-
----
-
-### Sexual harassment in Parliament
-
-*2024-01-23 02:00:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-பாலியல்-துன்புறுத்தல்கள்-பொய்/175-331979) · `ta`
-
-Secretary -General of Parliament Kushani Rohanadeera has announced that the reports that are being continued to be sexually harassed for female employees and a few female members in Parliament and that the reports are not being investigated.
-
-Kushani Rohanadheera stressed that during the moral violations in Parliament, the inquiries were carried out under the guidance of the Speaker, and that the Speaker would make his maximum contribution to the rapid inquiries, and that he would not interfere or influence it.
-
-The Secretary General said that although a few female employees had previously been reported to have been sexually harassed, the Inner Committee appointed to investigate the investigation into the matter.
-
-...
-
-[Data](articles/b6fb6526.json)
-
-[Extended Data](ext_articles/b6fb6526.ext.json)
 
 ---

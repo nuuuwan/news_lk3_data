@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 14:17:17**
+As of **2024-01-23 14:33:00**
 
 ## Newspaper Stats
 
-*Scraped **2,060** Articles*
+*Scraped **2,061** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 125
 adaderanasinhalalk | 127
 dailyftlk | 171
 adalk | 207
-virakesarilk | 219
+virakesarilk | 220
 dailymirrorlk | 252
 adaderanalk | 255
 tamilmirrorlk | 263
@@ -26,11 +26,31 @@ tamilmirrorlk | 263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,036 (98.8%) of 2,060 articles have been extended.
+2,059 (99.9%) of 2,061 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### சமூக ஊடகங்களில் ஆபாசபடங்கள் பல மடங்காக அதிகரிப்பு -சைபர் குற்றங்களும் மிகவும் அதிகம் - இதற்காகத்தான் நிகழ்நிலை பாதுகாப்பு சட்டம் - டிரான் அலஸ்
+
+*2024-01-23 14:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/174613) · `ta`
+
+கடந்த வருடம் சமூகபடங்களில் ஒரு இலட்சத்திற்கும் மேலான நிர்வாணப்படங்கள் பரிமாறப்பட்டன என தெரிவித்துள்ள பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான்அலஸ் 8000சைபர்குற்றங்கள் இடம்பெற்றுள்ளன எனவும் தெரிவித்துள்ளார்.
+
+நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குறித்த விவாதத்தை இன்று நாடாளுமன்றத்தில் ஆரம்பித்து வைத்து  உரையாற்றுகையில் அமைச்சர் இதனை தெரிவித்துள்ளார்.
+
+2024 இன் முதல்வாரங்களி;ல் சமூக ஊடகங்களில் 500க்கும்மேற்பட்ட ஆபாசபடங்களை தங்களிடையே பரிமாறிக்கொண்டுள்ளனர் கடந்த வருடம் 6690 இணையவழி குற்றச்செயல்கள் இடம்பெற்றுள்ளன எனவும் டிரான்அலஸ் தெரிவித்துள்ளார்.
+
+இந்த புள்ளிவிபரங்கள் சிஐடியினரால் பதியப்பட்டவை மாத்திரமே வெளிவராத சம்பவங்கள் பல இருக்கலாம் எனவும் அமைச்சர் தெரிவித்துள்ளார்.
+
+நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குற்றங்களை கட்டுப்படுத்தும் நோக்கத்தையும் கிளர்ச்சிகள் இனமத ஐக்கியத்திற்கு பாதிப்பை ஏற்படுத்தும் குழப்பங்களை கட்டுப்படுத்துவதையும் நோக்கமாக கொண்டவை எனவும் தெரிவித்துள்ள அமைச்சர் நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை பயன்படுத்தி எவரையும் பழிவாங்கும் நோக்கமில்லைஎனவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/cb1c73f9.json)
+
+---
 
 ### Sri Lanka, Elite discuss training private security providers for employment abroad
 
@@ -50,6 +70,8 @@ Elite provides security, teacher training, health and social care, first aid, he
 
 [Data](articles/da53ee9b.json)
 
+[Extended Data](ext_articles/da53ee9b.ext.json)
+
 ---
 
 ### Doctors to launch indefinite strike from tomorrow
@@ -68,6 +90,8 @@ On January 08, the Cabinet of Ministers gave its approval to President Ranil Wic
 
 [Data](articles/d62cad3b.json)
 
+[Extended Data](ext_articles/d62cad3b.ext.json)
+
 ---
 
 ### Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
@@ -84,6 +108,8 @@ Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 
 [Data](articles/f48c26ae.json)
 
+[Extended Data](ext_articles/f48c26ae.ext.json)
+
 ---
 
 ### Buddhist monk killed in shooting inside temple
@@ -97,6 +123,8 @@ Police stated that the shooting has been carried out using a T-56 assault rifle.
 ◼️
 
 [Data](articles/a570efcb.json)
+
+[Extended Data](ext_articles/a570efcb.ext.json)
 
 ---
 
@@ -114,6 +142,8 @@ The government recently approved the President's proposal to double the DAT allo
 
 [Data](articles/b1557548.json)
 
+[Extended Data](ext_articles/b1557548.ext.json)
+
 ---
 
 ### Buddhist monk shot dead in Gampaha
@@ -128,19 +158,23 @@ Police said four unknown persons in a car had reportedly opened fire at the monk
 
 [Data](articles/28a1243c.json)
 
+[Extended Data](ext_articles/28a1243c.ext.json)
+
 ---
 
-### துப்பாக்கிச் சூட்டில் தேரர் பலி
+### Thera killed in shooting
 
 *2024-01-23 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174610) · `ta`
 
-கம்பஹா மல்வத்துஹிரிபிட்டிய பிரதேசத்தில் உள்ள விகாரை ஒன்றுக்கு  காரில் வந்த இனந்தெரியாத நால்வர் துப்பாக்கிச் சூட்டை நடத்தி விட்டு தப்பிச் சென்றுள்ளதாக மல்வத்துஹிரிபிட்டிய பொலிஸார் தெரிவிக்கின்றனர்.
+Malwatuhiripitiya police say that four unidentified firing in a car for a Vihara in the Gampaha Malwathuhiripitiya area has fled.
 
-துப்பாக்கிச் சூட்டுக்கு இலக்கான தேரர்  வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட பின்னர் உயிரிழந்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Thera, the target of the shooting, died after being taken to the hospital, police said.
 
 ◼️
 
 [Data](articles/b009dd2e.json)
+
+[Extended Data](ext_articles/b009dd2e.ext.json)
 
 ---
 
@@ -163,6 +197,8 @@ The Minister said the Online Safety Bill only covers online crimes, preventing p
 ...
 
 [Data](articles/d3e20a8a.json)
+
+[Extended Data](ext_articles/d3e20a8a.ext.json)
 
 ---
 
@@ -196,21 +232,23 @@ The police say that the shooting has been carried out using a T-56 rifle.
 
 ---
 
-### யாழ்.சுதுமலையில் டெங்கு அதிகரிப்பு : ஒரு வாரத்தில் 10 வயதிற்கு உட்பட்ட 13 சிறுவர்களுக்கு டெங்கு
+### Dengue Increase in Jaffna
 
 *2024-01-23 13:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/174604) · `ta`
 
-யாழ்ப்பாணம் சுதுமலை பகுதியில் கடந்த வாரம் 21 டெங்கு நோயாளர்கள் இனம் காணப்பட்டுள்ள நிலையில், அவர்களில் 13 பேர் 10 வயதிற்கு உட்பட்ட சிறுவர்கள் ஆவார்கள்.
+With 21 dengue cases in the Sudumalai area in Jaffna last week, 13 of them are children under the age of 10.
 
-இந்நிலையில், குறித்த பகுதிகளில் பொது சுகாதார பரிசோதகர் ம.ஜெயபிரதீப் தலைமையில் அப்பகுதி கிராம சேவையாளர், டெங்கு தடுத்து உத்தியோகஸ்தர்கள் இணைந்து வீட்டு தரிசிப்பில் ஈடுபட்டனர்.
+In the meantime, the Public Health Inspector, led by Public Health Inspector, Jayabradeep, engaged in a household visit to the area's Grama Niladhari and Dengue Officers.
 
-அதன் போது டெங்கு நுளம்பு பரவுவதற்கு ஏதுவான சூழலை வைத்திருந்த 23 குடியிருப்பாளர்களுக்கு சிவப்பு எச்சரிக்கை துண்டு வழங்கப்பட்டதுடன், நுளம்பு குடம்பிகள் காணப்பட்ட வளாக குடியிருப்பாளர்கள் நால்வருக்கு எதிராக நீதிமன்றில் வழக்கு தாக்கல் செய்யப்பட்ட நிலையில் மன்றில் முன்னிலையான மூவர் குற்றத்தை ஒப்புக்கொண்டதை அடுத்து, அவர்களுக்கு தலா 4ஆயிரத்து 500 ரூபாய் தண்டம் விதிக்கப்பட்டது. மன்றில் முன்னிலையாகாத குடியிருப்பாளருக்கு அழைப்பாணை வழங்கப்பட்டுள்ளது.
+At the same time, 23 residents who had a dengue mosquito spread were given a red warning piece and a three -man crime of the forum was pleaded with a crime of four residents of the campus.. A resident who is not present in the forum has been summoned.
 
-அதேவேளை நுளம்பு பரவ கூடிய சூழல் காணப்பட்ட வெற்று காணி உரிமையாளர்களுக்கு, அக்காணிகளை துப்பரவு செய்வதற்கு 07 நாட்கள் அவகாசம் வழங்கப்பட்டுள்ளது.
+At the same time, the empty land owners who have been spreading the mosquitoes have been given 07 days to clean up.
 
 ◼️
 
 [Data](articles/3a5eb999.json)
+
+[Extended Data](ext_articles/3a5eb999.ext.json)
 
 ---
 
@@ -274,19 +312,21 @@ Two foreign nationals, who were travelling in the car have been injured in the a
 
 ---
 
-### ஜனவரி மாதம் மின் கட்டணத்தில் நிவாரணத்தை எதிர்பார்க்க முடியாது - பொதுப் பயன்பாடுகள் ஆணைக்குழு தலைவர்
+### Can't expect relief in electricity tariff in January - the Chairman of the Public Applications Commission
 
 *2024-01-23 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174606) · `ta`
 
-எதிர்வரும் பெப்ரவரி மாத நடுப்பகுதியில் மின்சாரக் கட்டணங்கள் திருத்தப்படும் என இலங்கை பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ இன்று செவ்வாய்க்கிழமை (23) தெரிவித்துள்ளார்.
+Professor Manjula Fernando, Chairman of the Sri Lanka Public Utilities Commission, said on Tuesday (23) that the electricity tariffs would be revised in mid -February.
 
-மின்சாரக் கட்டணத்தை திருத்தும்போது கடைப்பிடிக்க வேண்டிய நடவடிக்கை ஒன்று இருப்பதாகத் தெரிவித்த  அவர்,  அதற்கிணங்க மக்கள் கருத்துக் கணிப்பு இன்றைய தினம் ஆரம்பிக்கப்பட்டதாகவும் குறிப்பிட்டார்.
+He said there was a steps to be followed when the electricity tariff was corrected, and that the public poll was launched today.
 
-இலங்கையில் உள்ள மின்சார பாவனையாளர்கள் ஜனவரி மாதம் மின்சார கட்டணத்தில் நிவாரணத்தை எதிர்பார்க்க முடியாது என பொதுப் பயன்பாடுகள் ஆணைக்குழுவின் தலைவர் பேராசிரியர் மஞ்சுள பெர்னாண்டோ தெரிவித்துள்ளார்.
+Prof. Manjula Fernando, Chairman of the Public Utilities Commission, said that electric users in Sri Lanka cannot expect relief in electricity tariffs in January.
 
 ◼️
 
 [Data](articles/60cfc0dd.json)
+
+[Extended Data](ext_articles/60cfc0dd.ext.json)
 
 ---
 
@@ -352,23 +392,29 @@ Police Media Spokesman SSP Nihal Thalduwa explained that the CCTV camera system 
 
 ---
 
-### பொலிசார் சீருடை இல்லாது சிவில் சமூகத்துடன் தொடர்பாடக்கூடாது : வெள்ளவத்தை பொலிஸ் பொறுப்பதிகாரிக்கு மனோ அறிவுறுத்தல்
+### Police should not communicate with civil society without uniform: Mano instructions for Wellawatte Police Officer
 
 *2024-01-23 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174601) · `ta`
 
-வெள்ளவத்தை பொலிஸ் வலயத்தின் பசல்ஸ் ஒழுங்கை பகுதியில், இரகசிய சுற்றுவளைப்பு தேவைக்காக சீருடை அணியாமல் சென்ற பொலிஸ் அதிகாரிகளுக்கும், அப்பகுதியில் வீதியில் சாதாரண கடமையில் ஈடுபட்டிருந்த மகேஷ்வர குருக்களுக்கும் இடையில் இடம்பெற்ற பிரச்சினை, பொலிசார் தமது செய்கை தொடர்பில், வண.குருக்களிடம் வருத்தம் தெரிவித்துக்கொண்டதுடன் சுமூக முடிவுக்கு வந்துள்ளதாக தமிழ் முற்போக்குக் கூட்டணியின் தலைவர் மனோ கணேசன் எம்.பி. தெரிவித்துள்ளார்.
+In the Wellawatte Police Zone, the issue of police officers who went to uniforms for a secret surrounding area and the Maheshwara priests who were on the road in the area, the police have expressed their regret to the Vedas and the Tamil Progressive Alliance (M) leader Mano Ganesan MP MP.. Said.
 
-வெள்ளவத்தையில் இந்து குருக்கள் - பொலிசார் மத்தியில் ஏற்பட்ட பிணக்கு தொடர்பில் மனோ எம்பி மேலும் கூறியுள்ளதாவது,
+Mano MP added that Hindu priests in Wellawatte
 
-வாகன போக்குவரத்து தொடர்பில் ஏற்பட்ட சிறு பிணக்கை  இனவாத சொற்பிரயோகம், வாக்குவாதம், உடல்ரீதியான பலவந்தம் வரை பொலிசார் கொண்டு சென்றுள்ளனர்.
+The police have taken the minor conflict in connection with vehicle traffic, to the racist term, argument, and physical force.
 
-இரு தரப்பும் சமாதான உடன்பாட்டுக்கு வந்து பிரச்சினை, திங்கட்கிழமை (22)  மாலையே முடிவுக்கு கொண்டுவரப்பட்டுள்ளது.
+The issue has come to an end on Monday (22) evening.
 
-மத குருமார்களுக்கு உரிய பெருந்தன்மையுடன் பொலிசாரை தான் மன்னித்து விட்டதாக, குருக்கள் என்னிடம் தெரிவித்தார்.
+The priests told me that he had forgiven the police with the generosity of the clergy.
 
-...
+Despite the fact that the priests say that, I have told Wellawatte Police Officer Subhash Kanthaveli that the police officers should not be involved in the civil society without the police uniform.
+
+Accordingly, the officer in charge of the authorities has assured me to instruct his station officials.
+
+◼️
 
 [Data](articles/77f764bb.json)
+
+[Extended Data](ext_articles/77f764bb.ext.json)
 
 ---
 
@@ -406,57 +452,67 @@ A social safety net is a priority initiative under an International Monetary Fun
 
 ---
 
-### ஊடக சுதந்திரம் பேணப்படல் வேண்டும் - இராஜாங்க அமைச்சர் வியாழேந்திரன்
+### Media Freedom - State Minister Jupiter
 
 *2024-01-23 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174600) · `ta`
 
-கருத்துச் சுதந்திரம் எனப்பது இந்த நாட்டில் இருக்க வேண்டும். ஊடக சுதந்திரம் பேணப்படல் வேண்டும். ஊடக அடக்குமுறை என்பது இருக்கக் கூடாது. எல்லோருக்கும் கருத்து வெளியிடும் சுதந்திரம் இருக்க வேண்டும் என வர்த்தக இராஜாங்க அமைச்சர் சதாசிவம் வியாழேந்திரன் தெரிவித்துள்ளார்.
+Freedom of expression must be in this country. Media freedom should be maintained. Media repression should not be. Commerce Minister Sadasivam Jupiter Jupiter said that everyone should have the freedom to comment.
 
-மட்டக்களப்பு  மண்டூர் பகுதியில் 2.5 மில்லியன் நிதி ஒதுக்கீட்டில், 1.1 கிலோ மீற்றர் வீதி கார்பட் இடும் வேலைத்திட்டம் திங்கட்கிழமை (22) ஆரம்பித்து வைக்கப்பட்டுள்ளது.
+The 1.1 -kilometer road carcut -based program has been launched on Monday (22) with a sum of 2.5 million funds in Mandur, Batticaloa.
 
-இதன்போது கலந்துகொண்டு குறித்த வீதியின் புனரமைப்புப் பணிகளை ஆரம்பித்து வைத்து விட்டு கருத்துத் தெரிவிக்கையிலேயே அவர் இவ்வாறு குறிப்பிட்டடர்.
+He said this while commenting on the rehabilitation work of the road.
 
-பாராளுமன்றத்தில் கொண்டுவரப்படவுளள புதிய சட்டங்கள் தொடர்பில் சில விசேட கலந்துரையாடல்கள் நடைபெறவுள்ளன அந்த கலந்துரையாடல்களின்போது கொண்டுவரப்படவுள்ள சட்டங்கள் சமூகத்திற்கு சாதகமாகவா, அல்லது பாதகமாக இருக்கின்றதா என்பது தொடர்பில் நன்கு ஆராய்ந்த பின்னர் நாம் அதுதொடர்பிலான முடிவுகளை நாம் எடுபபோம்.
+There will be some special discussions on the new laws that will be brought in Parliament.
 
-கருத்துச் சுதந்திரம் எனப்பது இந்தநாட்டில் இருக்க வேண்டும். ஊடக சுதந்திரம் பேணப்படல் வேண்டும். ஊடக அடக்குமுறை என்பது இருக்கக் கூடாது.
+Freedom of expression must be in this country. Media freedom should be maintained. Media repression should not be.
+
+Everybody should have the freedom to comment. That freedom should not be suppressed, it is very important.
+
+Because the backbone of the democracy of a country is the media and the freedom of expression. Therefore, everyone should be free to express their views in this country, he said.
 
 ...
 
 [Data](articles/3de6bb3b.json)
 
+[Extended Data](ext_articles/3de6bb3b.ext.json)
+
 ---
 
-### ஜனநாயகப் போராளிகள் கட்சியின் உபதலைவர் நகுலேஸ் பிணையில் விடுதலை
+### Democratic Fighters' party vice -president Nakulese released on bail
 
 *2024-01-23 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/174598) · `ta`
 
-பயங்கரவாதத் தடைச் சட்டத்தின் கீழ் கைது செய்யப்பட்டு விளக்க மறியலில் மட்டக்களப்பு சிறைச்சாலையில் வைக்கப்பட்டிருந்த ஜனநாயகப் போராளிகள் கட்சியின் உபதலைவர் என்.நகுலேஸ் திங்கட்கிழமை (22) பிணையில் விடுவிக்கப்பட்டார்.
+Vice -President of the Democratic Fighters Party, N. Nagulese, who was arrested in the Batticaloa Prison under the Prevention of Terrorism Act, was released on bail on Monday (22).
 
-கடந்த 2023.11.25ம் திகதி ஜனநாயகப் போராளிகள் கட்சியின் ஏற்பாட்டில் மாவீரர் பெற்றோர் கௌரவிப்பினை மேற்கொண்டதன் பேரில் இவர் வெல்லாவெளி பொலிசாரால் கைது செய்யப்பட்டு பயங்கரவாதத் தடைச் சட்டத்தின் கீழ் விளக்க மறியலில் வைக்கப்பட்டிருந்து நீதிமன்றத்தினால் பிணையில் விடுவிக்கப்பட்டுள்ளார்.
+He was arrested by the Wellaveli police and was released on bail by the Wellaveli police for honoring the parents of the Democratic Fighters Party on 2023.11.2012.
 
-நாட்டில் முன்னாள் போராளிகள் ஜனநாயக ரீதியிலான செயற்பாடுகளை முன்னெடுப்பதென்பது இன்னும் இயலாத ஒரு விடயமாகவே இருக்கின்றது.
+It is still a matter of fact that ex -combatants in the country are carrying out democratic activities.
 
-யுத்தத்தின் பிடியில் இருந்து விடுவிக்கப்பட்டாலும் இனவாத அரசியலில் இருந்து மற்றைய இனத்தினை அடிமைப்படுத்தும், பயங்கரவாதத் தடைச் சட்டத்தினைக் கொண்டு அச்சுறுத்தும் நடவடிக்கைகள் தொடரத்தான் செய்கின்றன. எது எவ்வாறு இருந்தாலும் தமிழ் மக்களுக்கான எமது பணிகளை ஒருபோதும் தடுத்துவிட முடியாது.
+Despite being liberated from the clutches of the war, the actions that threaten the terrorism law from racist politics and threaten the terrorism law.. Whatever the case, we can never stop our tasks for the Tamil people.
 
 ...
 
 [Data](articles/1ae5a0a6.json)
 
+[Extended Data](ext_articles/1ae5a0a6.ext.json)
+
 ---
 
-### சர்வதேச சமூகத்தின் நல்லெண்ணத்தை நாடி நிற்கும் அரசாங்கம்
+### The government that seeks the goodwill of the international community
 
 *2024-01-23 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174594) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் தலைமைத்துவத்தின் கீழ் இலங்கை அதன் ஆற்றலுக்கு அப்பாற்பட்ட முறையில்மீண்டும்  முக்கியத்துவத்தைப் பெறத்தொடங்கியிருக்கிறது போன்று தெரிகிறது.
+Under the leadership of President Ranil Wickremesinghe, Sri Lanka seems to have begun to gain importance beyond its energy.
 
-ஆபிரிக்க நாடான உகண்டாவின் தலைநகர் கம்பாலாவில் தற்போது நடைபெறும் அணிசேரா நாடுகளின் 19 வது உச்சிமாநாட்டிலும் 77 நாடுகள் குழு மற்றும் சீனாவின் மூன்றாவது தெற்கு உச்சிமகாநாட்டிலும் ஜனாதிபதிக்கு  முக்கியத்துவம் வாய்ந்த  இடம் கிடைத்தது. உகண்டா ஜனாதிபதி ஜோவெரி முசவெனியின் அழைப்பின் பேரில் விக்கிரமசிங்க  முக்கியமான சந்திப்புகளில் பங்கேற்றது மாத்திரமல்ல, அணிசேரா உச்சிமாநாட்டிலும் தெற்கு உச்சிமகாநாட்டிலும் உரையாற்றினார் என்று ஜனாதிபதியின் ஊடகப்பிரிவு தெரிவித்தது.
+The President was prominent in the 19th summit of the non -aligned countries in the capital of the African country of Uganda, the 77 nations and the third southern summit of China. The President's media unit said that Wickremesinghe was not only participating in important meetings at the invitation of Uganda President Joveri Musaweni, but also addressed the summit and southern summit.
 
-கம்பாலாவுக்கான தனது விஜயத்தின்போது அவர் ஆபிரிக்க பிராந்தியத்தைச் சேர்ந்த தலைலர்களுடன் இரு தரப்பு உறவுகளைப் பலப்படுத்துவதில் முக்கிய கவனத்தைச் செலுத்தியதுடன் தெற்கு உலக நாடுகளின் தலைவர்களுடனும் பேச்சுவார்த்தைகளை நடத்தினார்.
+During his visit to Kampala, he paid attention to the strengthening of bilateral relations with the heads of the African region and held talks with the leaders of the South World countries.
 
 ...
 
 [Data](articles/6a0cc215.json)
+
+[Extended Data](ext_articles/6a0cc215.ext.json)
 
 ---
 
@@ -482,15 +538,17 @@ Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-01-23 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174603) · `ta`
 
-இன்று செவ்வாய்க்கிழமை (ஜனவரி 23) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 315.0324 ஆகவும் விற்பனை விலை ரூபா 325.8287 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was 315.0324 and the sales price were 325.8287 based on the Central Bank's coinage rate on Tuesday (January 23).
 
 ◼️
 
 [Data](articles/0cbeadf2.json)
+
+[Extended Data](ext_articles/0cbeadf2.ext.json)
 
 ---
 
@@ -646,6 +704,8 @@ The FIGC has put plans in place for matches across Italy to hold a pre-match min
 
 [Data](articles/4681a352.json)
 
+[Extended Data](ext_articles/4681a352.ext.json)
+
 ---
 
 ### 125 traffic violations monitored by Sisirvi camera in Colombo
@@ -757,6 +817,8 @@ A total of 83 MPs voted in favour while 50 MPs voted against.
 ◼️
 
 [Data](articles/a0bb0e6b.json)
+
+[Extended Data](ext_articles/a0bb0e6b.ext.json)
 
 ---
 
@@ -876,6 +938,8 @@ Offenses such as violating lane rules and failure to halt at stop signs were amo
 
 [Data](articles/4000e5e5.json)
 
+[Extended Data](ext_articles/4000e5e5.ext.json)
+
 ---
 
 ### The President who pleased journalists
@@ -987,6 +1051,8 @@ While the Board took note of the effects of the recent developments in taxation 
 ...
 
 [Data](articles/ef2db0a8.json)
+
+[Extended Data](ext_articles/ef2db0a8.ext.json)
 
 ---
 
@@ -1276,6 +1342,8 @@ He is expected to return for the Twenty20 series against the West Indies, starti
 
 [Data](articles/23f8f59d.json)
 
+[Extended Data](ext_articles/23f8f59d.ext.json)
+
 ---
 
 ### Strict resolution on annual relocation
@@ -1331,6 +1399,8 @@ Minister of Power and Energy Kanchana Wijesekera proposed that trade unionist Ra
 ◼️
 
 [Data](articles/b7a43af6.json)
+
+[Extended Data](ext_articles/b7a43af6.ext.json)
 
 ---
 
@@ -1441,6 +1511,8 @@ The Speaker said the meeting is being called following a request by the Oppositi
 ◼️
 
 [Data](articles/700cc77f.json)
+
+[Extended Data](ext_articles/700cc77f.ext.json)
 
 ---
 
@@ -1716,6 +1788,8 @@ While denying allegations of mistreatment, Tennakoon emphasised the need for a f
 
 [Data](articles/4bca953f.json)
 
+[Extended Data](ext_articles/4bca953f.ext.json)
+
 ---
 
 ### 955 more suspects arrested during operation ‘Yukthiya’
@@ -1883,21 +1957,5 @@ The incident occurred near the Beliatta-Kahawatta entrance on the Southern Expre
 [Data](articles/f0cc2a20.json)
 
 [Extended Data](ext_articles/f0cc2a20.ext.json)
-
----
-
-### Former President Maithripala’s daughter's house in Battaramulla burgled
-
-*2024-01-23 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-President-Maithripalas-daughter-s-house-in-Battaramulla-burgled/108-275548) · `en`
-
-Battaramulla, Jan 23 (Daily Mirror) - The house in Wickremesinghepura, Battaramulla, belonging to the daughter of former President Maithripala Sirisena, was subjected to a burglary, resulting in the loss of valuable items, worth nearly Rs.3 million, Thalangama Police has confirmed.
-
-Authorities revealed that the stolen items included Rs. 150,000 in cash, a gold-plated camel statue, a smartwatch, eight gold-plated Singapore coins, some dry foods, and a school bag. It was reported that the husband of the former President's daughter discovered the break-in upon returning to the residence and promptly notified the police.
-
-According to a senior police officer, the husband, who is a businessman, stated in his complaint that the perpetrators gained entry by breaking into the kitchen through the glass door. Investigations are currently underway to identify the individuals responsible for the burglary.
-
-◼️
-
-[Data](articles/254e59ed.json)
 
 ---

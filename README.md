@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 13:33:20**
+As of **2024-01-23 13:52:06**
 
 ## Newspaper Stats
 
-*Scraped **2,022** Articles*
+*Scraped **2,031** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 31
 bbccomsinhala | 42
-newsfirstlk | 116
 dbsjeyarajcom | 121
-economynextcom | 122
+newsfirstlk | 122
 adaderanasinhalalk | 123
 islandlk | 123
+economynextcom | 124
 dailyftlk | 171
-adalk | 206
+adalk | 207
 virakesarilk | 211
 dailymirrorlk | 240
 adaderanalk | 253
@@ -26,11 +26,35 @@ tamilmirrorlk | 263
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,019 (99.9%) of 2,022 articles have been extended.
+2,031 (100.0%) of 2,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### Calling for applications of the 2024 O/L examination begins
+
+*2024-01-23 13:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/calling-for-applications-of-the-2024-o-l-examination-begins/) · `en`
+
+COLOMBO (News 1st); Calling for applications for the 2024 O/Level examination starts today.
+
+The Department of Examinations announced applications will only be called online starting today up until the 15th of February.
+
+All applicants applying from schools are requested to apply through their respective principals while private applicants are requested to apply personally according to relevant instructions.
+
+The National Identity Card will be mandatory for private applicants while applicants under the age of 15 who do not have a national identity card are requested to report to the examination department to apply for it.
+
+The announced the application period will not be extended for any reason.
+
+Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
+
+◼️
+
+[Data](articles/576d8c1a.json)
+
+[Extended Data](ext_articles/576d8c1a.ext.json)
+
+---
 
 ### Two foreigners injured in car-train collision
 
@@ -44,21 +68,45 @@ Two foreign nationals, who were travelling in the car have been injured in the a
 
 [Data](articles/ab2449a9.json)
 
+[Extended Data](ext_articles/ab2449a9.ext.json)
+
 ---
 
-### ஜனவரியில் பணவீக்கம் 7% ஆக உயர வாய்ப்பு
+### Parliament begins debating controversial Online Safety Bill
+
+*2024-01-23 12:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/parliament-begins-debating-controversial-online-safety-bill/) · `en`
+
+Colombo (News 1st) – The debate over the Online Safety Bill commenced in Parliament on Tuesday (23rd). This followed a vote to determine whether the Bill would be subject to a debate, with 83 votes for, and 50 votes against.
+
+Earlier, parliament sessions were postponed for a party leaders meeting that was requested by the Opposition.
+
+The Online Safety Bill has been widely criticised from many quarters, including the Bar Association of Sri Lanka, IT experts, global social media companies, and advocates for civil liberties.
+
+Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
+
+◼️
+
+[Data](articles/d37338dd.json)
+
+[Extended Data](ext_articles/d37338dd.ext.json)
+
+---
+
+### Inflation rises to rise to 7% in January
 
 *2024-01-23 12:54:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனவரியில்-பணவீக்கம்-7-ஆக-உயர-வாய்ப்பு/175-332010) · `ta`
 
-2024 ஜனவரியில் பணவீக்கம் 7% ஆக உயரக்கூடும் என இலங்கை மத்திய வங்கியின் ஆளுநர் கலாநிதி நந்தலால் வீரசிங்க எச்சரித்துள்ளார்.
+Governor of the Central Bank of Sri Lanka, Dr. Nandalal Weerasinghe, has warned that inflation is likely to rise to 7% in January 2024.
 
-செவ்வாய்க்கிழமை (23) இடம்பெற்ற விசேட ஊடகவியலாளர் சந்திப்பில் கலந்துகொண்டு கருத்துத் தெரிவித்த அவர், பெறுமதி சேர் வரி (VAT) அதிகரிப்பு மற்றும் ஏனைய வெளிப்புறக் காரணிகளால் பணவீக்கம் அதிகரிக்க வாய்ப்புள்ளதாக விளக்கமளித்தார்.
+Speaking at a special media briefing on Tuesday (23), he explained that inflation is likely to increase due to the increase in Value Tax (VAT) and other external factors.
 
-VAT திருத்தச் சட்டமூலம்11 டிசெம்பர் 2023 அன்று பாராளுமன்றத்தில் நிறைவேற்றப்பட்ட பின்னர், ஜனவரி 01ஆம் திகதி முதல் 3 சதவீதம் அதிகரிக்கப்பட்டு 15% இலிருந்து 18% ஆக உயர்த்தப்பட்டது.
+After the VAT Amendment Bill was passed in Parliament on 11 December 2023, it was increased by 3% from January 01 to 15% to 18%.
 
 ◼️
 
 [Data](articles/6526eda3.json)
+
+[Extended Data](ext_articles/6526eda3.ext.json)
 
 ---
 
@@ -81,6 +129,116 @@ Police Media Spokesman SSP Nihal Thalduwa explained that the CCTV camera system 
 [Data](articles/df5d6e1f.json)
 
 [Extended Data](ext_articles/df5d6e1f.ext.json)
+
+---
+
+### Sri Lanka widens welfare benefits scheme
+
+*2024-01-23 12:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-widens-welfare-benefits-scheme-148407/) · `en`
+
+ECONOMYNEXT – Wards of the State and student Buddhist monks will be given a 2,000 rupee allowance from this month, Sri Lanka’s State Minister of Finance said.
+
+“The govt will pay a monthly welfare allowance of Rs 2000 through the district secretaries from January 2024 to approximately 16,146 institutionalized persons who have benefited under the Samurdhi programme,” Shehan Semasinghe said on X.
+
+“This will include clergy in piriven, children’s homes, elderly homes and disabled persons in care giving homes.”
+
+Sri Lanka’s poor had surged by 4 million to 7 million since 2019 to 31 percent of the population in 2023, a survey by LIRNEasia last year showed.
+
+A social safety net is a priority initiative under an International Monetary Fund backed program. (Colombo/Jan23/22024)
+
+◼️
+
+[Data](articles/39a95078.json)
+
+[Extended Data](ext_articles/39a95078.ext.json)
+
+---
+
+### Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
+
+*2024-01-23 12:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/twenty-one-israeli-soldiers-killed-in-deadliest-day-for-israel-in-gaza/) · `en`
+
+Colombo (News 1st) – The Israeli army says 21 Israeli soldiers were killed on Monday, the deadliest day for Israel since it began its invasion of Gaza immediately following the Hamas attacks on Israel on October 7, 2023, foreign media reported.
+
+The Ministry of Health in Gaza says 25,295 people have been killed and 63,000 wounded in Israeli attacks on Gaza since October 7. Israel says a total of 1,139 people died in Israel on October 7.
+
+Meanwhile, The US and UK struck eight Houthi targets in Yemen on Monday night, the eighth day of attacks since January 11 in retaliation for Houthi attacks on shipping in the Red Sea. It was only the second time that British forces joined in the strikes.
+
+Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
+
+◼️
+
+[Data](articles/65252b8c.json)
+
+[Extended Data](ext_articles/65252b8c.ext.json)
+
+---
+
+### Operation Yukthiya nets another 955 suspects in 24 hours
+
+*2024-01-23 12:34:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/operation-yukthiya-nets-another-955-suspects-in-24-hours/) · `en`
+
+COLOMBO (News 1st); A total of 955 suspects have been apprehended in the past 24 hours that ended at 12.30 am today under Operation Yukthiya.
+
+The Ministry of Public Security says that among them are 676 suspects involved in drug offences.
+
+Police say 187 grams of heroin, 14 kilograms and 700 grams of ganja alongside a stock of other drugs were seized during the operation.
+
+322 suspects who were on the list of wanted persons prepared by the Police Narcotics Bureau and Special Bureau have also been apprehended.
+
+Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
+
+◼️
+
+[Data](articles/6550fe06.json)
+
+[Extended Data](ext_articles/6550fe06.ext.json)
+
+---
+
+### Protest against Online Safety Bill at Battaramulla
+
+*2024-01-23 12:31:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/protest-against-online-safety-bill-at-battaramulla/) · `en`
+
+COLOMBO (News 1st); A group of social activists led by civil organizations held a protest against the Online Safety Bill at the Battaramulla Polduwa intersection this morning.
+
+A group of civil organizations, social activists and others participated in the protest which was held under the theme of "Let's withdraw the Online Safety Bill which is suppressing the society".
+
+Police Anti-riot officers were called to the protest site and water cannons were also deployed.
+
+Twenty-one Israeli soldiers killed in deadliest day for Israel in Gaza
+
+◼️
+
+[Data](articles/f9bb3d5d.json)
+
+[Extended Data](ext_articles/f9bb3d5d.ext.json)
+
+---
+
+### Investigations carried out in Beliatta shooting to be reviewed
+
+*2024-01-23 12:28:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/investigations-carried-out-in-beliatta-shooting-to-be-reviewed/) · `en`
+
+COLOMBO (News 1st); Acting IGP Deshabandu Thennakoon says he will review the progress of the probe pertaining to the shooting in Beliatta on the morning of the 22nd of January.
+
+He added, senior Police officers and heads of investigation units have been called for this matter.
+
+The Acting IGP says he will make a decision on the future course of action on the probe, following this review.
+
+He went onto reveal, according to intelligence reports, the suspects who carried out the shooting have fled from the Southern Province to other locations, saying a final decision will be reached taking this matter also into consideration.
+
+6 Police teams have been assigned to investigate the shooting in Beliatta.
+
+Several teams of the Police Special Task Force have also been assigned to investigate the incident.
+
+Analyzing security cameras to locate the suspects has already commenced and Police said steps have been taken to call for  telephone analysis reports.
+
+...
+
+[Data](articles/daf6dc03.json)
+
+[Extended Data](ext_articles/daf6dc03.ext.json)
 
 ---
 
@@ -121,6 +279,24 @@ However, a referendum on whether or postponing the proposed backup Bill for a se
 [Data](articles/30e3317e.json)
 
 [Extended Data](ext_articles/30e3317e.ext.json)
+
+---
+
+### Sri Lanka parliament votes to go ahead with Online Safety bill amid opposition
+
+*2024-01-23 12:02:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-votes-to-go-ahead-with-online-safety-bill-amid-opposition-148400/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s parliament voted to go ahead with a scheduled debate on a controversial Online Safety Bill that critics say will stifle freedom of speech on the internet.
+
+A party leaders’ meeting was held Tuesday January 23 morning on the request of the opposition to discuss the matter. After parliament had reconvened later in the morning, opposition legislators complained that they had yet to receive a copy of the Sectoral Oversight Committee’s report on the bill in time for the debate.
+
+Opposition MPs then proposed postponing the debate to a later date on account of this delay. They lacked adequate information on the contents of the bill to proceed with the debate, the MPs said. Speaker Mahinda Yapa Abeywardena himself said he had only received the report earlier in the morning.
+
+...
+
+[Data](articles/e5e84c0e.json)
+
+[Extended Data](ext_articles/e5e84c0e.ext.json)
 
 ---
 
@@ -318,15 +494,17 @@ Accordingly, the debate was started with the passage of the bill of 33 votes.
 
 ---
 
-### ஊடகவியலாளர்களுக்கு மகிழ்ச்சி கொடுத்த ஜனாதிபதி
+### The President who pleased journalists
 
 *2024-01-23 11:27:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஊடகவியலாளர்களுக்கு-மகிழ்ச்சி-கொடுத்த-ஜனாதிபதி/175-332006) · `ta`
 
-மொபிடெல் நிறுவனத்தினால் அரச ஊழியர்களுக்கு வழங்கப்படும் உபகார சலுகை பெகேஜை அரசாங்க தகவல் திணைக்களத்தில் பதிவுசெய்துள்ள அனைத்து ஊடகவியலாளர்களுக்கும் வழங்குவதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க உத்தரவிட்டுள்ளார்.
+President Ranil Wickremesinghe has ordered the necessary steps to be taken to all journalists registered with the Government Information Department to the Government Information Department.
 
 ◼️
 
 [Data](articles/73bbed4a.json)
+
+[Extended Data](ext_articles/73bbed4a.ext.json)
 
 ---
 
@@ -427,6 +605,26 @@ Among the mistakes that identified the sins are mainly transferred to the switch
 [Data](articles/244b70ac.json)
 
 [Extended Data](ext_articles/244b70ac.ext.json)
+
+---
+
+### President completes 12-day overseas tour
+
+*2024-01-23 11:09:06* · [`adalk`](https://www.ada.lk/breaking_news/දින-12ක-විදේශ-සංචාරය-නිමවා-ජනපති-එයි/11-407680) · `si`
+
+President Ranil Wickremesinghe has come to the Katunayake Airport on the morning of the morning of a 12-day period.
+
+The President had returned to the Katunayaka airport after attending the Economic Forum in Switzerland, Switzerland, 19th Non-Non-Non-Non-Non-Non-Non-Non-Non-Nations Summit in Mampala, Uganda.
+
+The President including the President and the Sri Lankan delegation from 01/23 on 01.23 am from Dubai to Emirates Airport.
+
+The President and their crowds commenced following the visit to Davos, Switzerland in Switzerland.
+
+◼️
+
+[Data](articles/15aa5b73.json)
+
+[Extended Data](ext_articles/15aa5b73.ext.json)
 
 ---
 
@@ -1779,173 +1977,5 @@ The Secretary General said that although a few female employees had previously b
 [Data](articles/b6fb6526.json)
 
 [Extended Data](ext_articles/b6fb6526.ext.json)
-
----
-
-### Inflation quickens to four-month high as food prices soar once again
-
-*2024-01-23 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Inflation-quickens-to-four-month-high-as-food-prices-soar-once-again/108-275544) · `en`
-
-Food prices expand 3.6% in December, doubling pace in November
-
-Non-food prices ameliorate, due to downward revision in energy costs
-
-Inflation entering a new era, led by supply shocks and higher taxes
-
-The pace of increase in the prices of goods and services consumed by the people, measured at a national level, saw reaccelerating in December, due to sharp increases in most of the food prices, which more than offset the softened non-food prices, largely on the back of the somewhat eased energy cost.
-
-Inflation, measured by the National Consumer Price Index, rose by 1.4 percent in December 2023 from a month earlier, as the prices of everyday goods such as rice, vegetables, chicken and many varieties of staples rose sharply during the month.
-
-...
-
-[Data](articles/87b4c88d.json)
-
-[Extended Data](ext_articles/87b4c88d.ext.json)
-
----
-
-### AI is required for the tasks of the health department
-
-*2024-01-23 01:56:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதாரத்-துறையின்-பணிகளுக்கு-AI-தேவை/175-331978) · `ta`
-
-Professor Indika Karunathilaka, Professor of Colombo University, said that there is a need to use artificial intelligence (AI) for the work of the Sri Lanka Health Department.
-
-Accordingly, the use of artificial intelligence will help improve the quality of medical education.
-
-Artificial intelligence is now real. It cannot be ignored. Artificial Intelligence has many benefits to the Department of Health and Medical Education. He said the amount of information has increased rapidly with the growth of information technology, to increase the quality of medicine, to increase the performance and quality of the health services.
-
-Getting knowledge of all the information in the world is difficult for an individual. Artificial intelligence is more effective in such a situation. He said the plans to introduce artificial intelligence have been prepared for the use of health services and related services in Sri Lanka.
-
-...
-
-[Data](articles/5156f488.json)
-
-[Extended Data](ext_articles/5156f488.ext.json)
-
----
-
-### President Positions Sri Lanka To Win International Support
-
-*2024-01-23 01:30:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-positions-sri-lanka-to-win-international-support/) · `en`
-
-Under President Ranil Wickremesinghe’s leadership it looks like Sri Lanka is once again punching above its weight. The president took centre stage at the 19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the 3rd South Summit of the Group of 77 & China currently taking place in Kampala, Uganda. The president’s media unit stated that at the invitation of President Yoweri Museveni of Uganda, President Wickremesinghe not only participated in these critical global gatherings but also addressed both the NAM Summit and the South Summit. During his visit to Kampala, he is reported to have engaged in discussions with counterparts from the Global South, with a special focus on strengthening ties with leaders from the African region.
-
-...
-
-[Data](articles/f71cc61b.json)
-
-[Extended Data](ext_articles/f71cc61b.ext.json)
-
----
-
-### Parliament to debate OSB today
-
-*2024-01-23 00:30:33* · [`dailyftlk`](https://www.ft.lk/news/Parliament-to-debate-OSB-today/56-757667) · `en`
-
-The Parliament will take up for debate the contentious Online Safety Bill today. The debate is scheduled to continue tomorrow, culminating in a vote on the proposed legislation.
-
-According to sources within the Parliament, several amendments are expected to be incorporated into the bill during its deliberation. Public Security Minister Tiran Alles recently introduced the bill for its initial reading in Parliament. The bill has come under intense fire by Sri Lanka’s opposition parties, civil society groups and activists. The Opposition has claimed the Government was bringing in the legislation to silence critics leading up to the upcoming elections while various groups and organisations have raised concerns about the impact it may have on people’s liberties as well as the effect on the operation of tech companies in Sri Lanka.  Accordingly, a public protest has been organised in the vicinity of the Parliament tomorrow to voice their dissent against the draft bill.
-
-...
-
-[Data](articles/4c500de4.json)
-
-[Extended Data](ext_articles/4c500de4.ext.json)
-
----
-
-### Six police teams deployed to probe Royal Beach Saman murder
-
-*2024-01-23 00:30:21* · [`dailyftlk`](https://www.ft.lk/news/Six-police-teams-deployed-to-probe-Royal-Beach-Saman-murder/56-757666) · `en`
-
-The police have deployed five police teams to investigate the killing of Ape Jana Bala Pakshaya leader Saman Prasanna Perera alias Royal Beach Saman who was shot dead along with five others by an unidentified group in Beliatta yesterday.
-
-According to Police Spokesperson SSP Nihal Thalduwa, specialised police teams have been dispatched to conduct investigations, overseen by the Senior Deputy Inspector General of Police (SDIG) for the Southern Province.
-
-Thalduwa said SDIG Southern Province has designated the following teams for the ongoing investigation: the Southern Province Crime Division, the Crimes Unit of the Tangalle Division, a dedicated team under the Tangalle HQI, a contingent from the Beliatta Police, a team headed by the Officer-In-Charge of the division, and a group of intelligence officers.
-
-Four persons had died instantly while another succumbed to his injuries after being admitted to the Tangalle Base Hospital.
-
-...
-
-[Data](articles/c930c2a0.json)
-
-[Extended Data](ext_articles/c930c2a0.ext.json)
-
----
-
-### CEB TU Alliance challenges Minister to take action against 23,800 employees who protested
-
-*2024-01-23 00:30:12* · [`dailyftlk`](https://www.ft.lk/news/CEB-TU-Alliance-challenges-Minister-to-take-action-against-23-800-employees-who-protested/56-757665) · `en`
-
-Reveals staggering amounts of unpaid electricity bills by Parliament, Presidential Secretariat and Shiranthi Rajapaksa
-
-Calls on Minister to first collect dues from institutions and individuals before disconnecting power supply to struggling citizens who owe smaller amounts
-
-Several trade unions underscore growing dissatisfaction over Government’s suppressive attempts to intimidate workers
-
-In a bold move, CEB United Trade Union Alliance Convener Ranjan Jayalal has challenged the Power and Energy Minister to take action against the 23,800 CEB workers who participated in a protest against the restructuring of the Ceylon Electricity Board (CEB).
-
-Speaking to the media near the CEB head office yesterday, Jayalal said a total of 15 staff members interdicted and handed over letters, whilst another 51 letters were signed but not yet handed over.
-
-...
-
-[Data](articles/74f3a139.json)
-
-[Extended Data](ext_articles/74f3a139.ext.json)
-
----
-
-### Legislation to combat bribery and corruption in Sri Lanka completed - says Justice Minister
-
-*2024-01-23 00:29:55* · [`dailyftlk`](https://www.ft.lk/news/Legislation-to-combat-bribery-and-corruption-in-Sri-Lanka-completed-says-Justice-Minister/56-757664) · `en`
-
-A meeting between the Justice, Prison Affairs and Constitutional Reforms Minister President’s Counsel, Dr. Wijeyadasa Rajapakshe and the German Ambassador to Sri Lanka Dr. Felix Neumann was held at the Justice Ministry yesterday.
-
-The Justice Minister said the Office for National Unity and Reconciliation, the Office on Missing Persons and the Office for Reparations have been established in order to build harmony among the races in the country and that the Truth-finding Commission is to be set up soon.
-
-He said politicians have been blamed for the bribery and corruption in the country and the people have reached the point where they are rejecting the politicians as this situation is harmful to the country›s democracy. With a view to change this, the amendment for the regulation of election expenses and the Anti-corruption Act have already been passed. The Minister said the foundation has been laid for a corruption free and disorder free Sri Lanka.
-
-...
-
-[Data](articles/a6622c89.json)
-
-[Extended Data](ext_articles/a6622c89.ext.json)
-
----
-
-### Govt. should not clash with trade unions: PM
-
-*2024-01-23 00:28:35* · [`dailyftlk`](https://www.ft.lk/news/Govt-should-not-clash-with-trade-unions-PM/56-757663) · `en`
-
-Prime Minister and Ceylon Socialist Labour Union Federation President Dinesh Gunawardena on Friday opined that the Government should not clash with trade unions but identify the problems of workers and deal with them.
-
-He made this remark at the The 50th commemoration of the Ceylon Socialist Labour Union was held at the Town Hall, Kotte.
-
-At the conference, ten proposals were presented and adapted. They include: A call to reduce the increased water and electricity tariffs, exempt retirement benefits of workers from taxes, provide a suitable salary to estate workers in accordance with the economy, and confirm women’s rights under the labour law.
-
-...
-
-[Data](articles/eb5a81bb.json)
-
-[Extended Data](ext_articles/eb5a81bb.ext.json)
-
----
-
-### Singer Sri Lanka excels in SAFA Best Annual Report Awards 2022
-
-*2024-01-23 00:27:10* · [`dailyftlk`](https://www.ft.lk/business/Singer-Sri-Lanka-excels-in-SAFA-Best-Annual-Report-Awards-2022/34-757662) · `en`
-
-Singer Sri Lanka has achieved outstanding recognition at the South Asian Federation of Accountants (SAFA) Best Presented Annual Report Awards, Integrated Reporting Awards, and SAARC Anniversary Awards for Corporate Governance Disclosures Competition 2022.
-
-Singer secured the prestigious Gold Award for the third consecutive year in the Service Sector (Excluding Financial Services & Communication & IT) category. This remarkable accomplishment reflects the company’s unwavering commitment to transparency, accountability, and governance in annual reporting.
-
-The evaluation process, conducted by SAFA’s esteemed committee, focused on enhancing transparency, accountability, and governance in the published Annual Reports of entities across South Asian countries. Singer Sri Lanka’s success in clinching the Gold Award underscores the exceptional quality and excellence embedded in their annual reporting practices.
-
-...
-
-[Data](articles/8e71aaf4.json)
-
-[Extended Data](ext_articles/8e71aaf4.ext.json)
 
 ---

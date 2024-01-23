@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 07:21:05**
+As of **2024-01-23 07:44:49**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ tamilmirrorlk | 239
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,917 (99.6%) of 1,924 articles have been extended.
+1,924 (100.0%) of 1,924 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ While expressing grave concerns raised by critics that, by imposing imprisonment
 ...
 
 [Data](articles/773db3c7.json)
+
+[Extended Data](ext_articles/773db3c7.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ They deplored reported cases of arbitrary arrests of thousands of drug offenders
 ...
 
 [Data](articles/32bf7be2.json)
+
+[Extended Data](ext_articles/32bf7be2.ext.json)
 
 ---
 
@@ -83,6 +87,8 @@ The provisional data from Sri Lanka Customs shows that exports to all markets sa
 ...
 
 [Data](articles/af2ffb6d.json)
+
+[Extended Data](ext_articles/af2ffb6d.ext.json)
 
 ---
 
@@ -223,6 +229,8 @@ Inflation, measured by the National Consumer Price Index, rose by 1.4 percent in
 ...
 
 [Data](articles/87b4c88d.json)
+
+[Extended Data](ext_articles/87b4c88d.ext.json)
 
 ---
 
@@ -520,6 +528,8 @@ The other key markets include Germany, China, France and Australia.
 
 [Data](articles/85c1d3d9.json)
 
+[Extended Data](ext_articles/85c1d3d9.ext.json)
+
 ---
 
 ### We need a Foolproof Mechanism for Presidential Pardon
@@ -807,6 +817,8 @@ He told reporters that the President can dissolve parliament at any time after f
 ◼️
 
 [Data](articles/0d6d2dea.json)
+
+[Extended Data](ext_articles/0d6d2dea.ext.json)
 
 ---
 

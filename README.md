@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 11:17:19**
+As of **2024-01-23 11:33:13**
 
 ## Newspaper Stats
 
-*Scraped **1,978** Articles*
+*Scraped **1,982** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ dailyftlk | 171
 virakesarilk | 195
 adalk | 203
 dailymirrorlk | 240
-adaderanalk | 245
-tamilmirrorlk | 254
+adaderanalk | 246
+tamilmirrorlk | 257
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,976 (99.9%) of 1,978 articles have been extended.
+1,978 (99.8%) of 1,982 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### அவசரமாக ஒத்திவைக்கப்பட்டு சபை மீண்டும் கூடியது
+
+*2024-01-23 10:59:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவசரமாக-ஒத்திவைக்கப்பட்டு-சபை-மீண்டும்-கூடியது/175-332001) · `ta`
+
+நிகழ்நிலை காப்புச் சட்ட மூலம், தொடர்பில் ஏற்பட்ட வாதங்களை அடுத்து சபை ந​டவடிக்கை அவசரமாக ஒத்திவைக்கப்பட்டு கட்சித் தலைவர்களின் கூட்டம், சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன த​லைமையில் நடத்தப்பட்டது.
+
+இந்த சட்டமூலம் தொடர்பில் கட்சித் தலைவர்களின் கூட்டத்தை நடத்துமாறு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாஸ கோரிக்கையை முன்வைத்தார்.
+
+◼️
+
+[Data](articles/1eab395c.json)
+
+---
+
+### Sri Lankans resettled in Tamil Nadu receive ‘All Country Passports’
+
+*2024-01-23 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96646/sri-lankans-resettled-in-tamil-nadu-receive-all-country-passports) · `en`
+
+The Deputy High Commission of Sri Lanka in Chennai has recently conducted an event to hand over the first batch of “All Country Passports” to Sri Lankan nationals resettled in Tamil Nadu.
+
+The Government of Sri Lanka has so far been issuing a travel document called ‘Refugee Repatriation Passport’ for this segment of Sri Lankans for the purpose of only returning to Sri Lanka considering their irregular stay in India.
+
+The Sri Lanka Deputy High Commission in Chennai made a proposal to the Government of Sri Lanka taking into account the volume of requests received from these Sri Lankans to issue all country passport enabling them to travel to other countries for higher education, employment opportunities and family reunification etc., the Deputy High Commission said in a statement.
+
+...
+
+[Data](articles/6aa824cb.json)
+
+---
 
 ### President Ranil returns to the island
 
@@ -43,6 +73,26 @@ The Head of State departed for Switzerland on 13 January, for an official visit 
 ◼️
 
 [Data](articles/8448f2cd.json)
+
+[Extended Data](ext_articles/8448f2cd.ext.json)
+
+---
+
+### வருடாந்த இடமாற்றம் தொடர்பில் கடுமையான தீர்மானம்
+
+*2024-01-23 10:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வருடாந்த-இடமாற்றம்-தொடர்பில்-கடுமையான-தீர்மானம்/175-332000) · `ta`
+
+வருடாந்த இடமாற்றங்களின் கீழ் 2024 ஆம் ஆண்டுக்கான இடமாற்றங்களை உடனடியாக நடைமுறைப்படுத்துமாறு அனைத்து அமைச்சின் செயலாளர்கள் மற்றும் திணைக்களத் தலைவர்களிடம் பொதுச் சேவை ஆணைக்குழு கோரிக்கை விடுத்துள்ளது.
+
+இது தொடர்பில் அரச சேவை ஆணைக்குழுவின் செயலாளர் எழுத்து மூலம் அறிவித்தல் விடுத்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+2024ஆம் ஆண்டுக்கான வருடாந்த இடமாற்றங்கள் தொடர்பில் அரச சேவை ஆணைக்குழுவுக்கு கிடைக்கப்பெற்ற மேன்முறையீடுகள் தொடர்பில், ஆணைக்குழுவின் தீர்மானங்கள் இதுவரை அறிவிக்கப்பட்டுள்ள போதிலும், பல்வேறு தரப்பினரிடமிருந்து தொடர்ந்தும் கோரிக்கைகள் முன்வைக்கப்படுவதாக என அரச சேவை ஆணைக்குழு குறிப்பிட்டுள்ளது.
+
+இதன் காரணமாக, முன்னுரிமை இடமாற்றத்தின் கீழ் வழங்கப்பட்ட சில இடமாற்ற சுழற்சிகள் நடைமுறைப்படுத்தப்படவில்லை எனவும், அதனால் சம்பந்தப்பட்ட இடமாற்ற சுழற்சிகளில் உள்ள ஏனைய உத்தியோகத்தர்களுக்கு பாதகமான நிலை ஏற்பட்டுள்ளதாகவும் அரச சேவைகள் ஆணைக்குழு சுட்டிக்காட்டியுள்ளது.
+
+...
+
+[Data](articles/9a46c720.json)
 
 ---
 
@@ -60,6 +110,8 @@ As a result, some of the transfer cycles given under the Annual Transfers have n
 
 [Data](articles/d76422d2.json)
 
+[Extended Data](ext_articles/d76422d2.ext.json)
+
 ---
 
 ### President to visit Sri Lanka
@@ -73,6 +125,28 @@ President Ranil Wickremesinghe has come to the island this morning with Ranil Wi
 [Data](articles/63867c41.json)
 
 [Extended Data](ext_articles/63867c41.ext.json)
+
+---
+
+### பெலியத்த துப்பாக்கிச்சூடு தொடர்பில் வெளியான திடுக்கிடும் தகவல்கள்
+
+*2024-01-23 10:28:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-துப்பாக்கிச்சூடு-தொடர்பில்-வெளியான-திடுக்கிடும்-தகவல்கள்/175-331999) · `ta`
+
+தெற்கு அதிவேக நெடுஞ்சாலையின் பெலியத்த நுழைவாயிலுக்கு அருகில் ஐவர் சுட்டுக் கொலைசெய்யப்பட்ட சம்பவம் தொடர்பில் திடுக்கிடும் தகவல்கள் வெளிவந்துள்ளன.
+
+இதில் துபாய் நாட்டைச் சேர்ந்த கொஸ்கொட சுஜீ என்ற பாதாள உலகத் தலைவரே இதற்கு பிரதான காரணம் என இதுவரை மேற்கொள்ளப்பட்ட விசாரணைகளில் தெரியவந்துள்ளதாக பாதுகாப்பு தரப்பினர் சுட்டிக்காட்டியுள்ளனர்.
+
+இதற்கு முன்னரும் கொஸ்கொட சுஜி, பீச் ஹோட்டல் ஒன்றின் உரிமையாளரான அபே ஜனபல கட்சியின் தலைவர் சமன் பிரசன்ன பெரேராவை கொலை செய்ய முயற்சித்திருந்தார்.
+
+எனினும் அவர் அதில் உயிர் பிழைத்ததாகவும், அவரது வெளிநாட்டு முதலீட்டாளர் சுடப்பட்டு காயமடைந்ததாகவும் பாதாள உலகத் தடுப்புப் பிரிவின் அதிகாரிகள் சுட்டிக்காட்டியுள்ளனர்.
+
+கொஸ்கொட சுஜீக்கும், உயிரிழந்தவருக்கும் இடையில் நீண்டகாலமாக முரண்பாடுகள் இருந்ததாகவும், அவர் அரசியலுக்கு வருவதற்கு முன்னரே இலக்கு வைக்கப்பட்டதாகவும்  அதிகாரிகள் சுட்டிக்காட்டுகின்றனர்.
+
+டுபாயில் தலைமறைவாக உள்ள கொஸ்கொட சுஜீயை இலங்கைக்கு அழைத்து வர குற்றப்புலனாய்வு திணைக்களம் இதற்கு முன்னர் சர்வதேச சிவப்பு அறிவித்தல் விடுத்து நடவடிக்கை எடுத்திருந்தது.
+
+...
+
+[Data](articles/3904fa13.json)
 
 ---
 
@@ -282,7 +356,11 @@ Chinese state media reported that up to 47 people were buried in the wreckage an
 
 A total of 955 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan. 23) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
 
-According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 187g of heroin, 126g of crystal methamphetamine (Ice) and 136 narcotic pills.
+According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 187g of heroin, 126g of crystal methamphetamine (Ice), 14kg and 700g of cannabis, 28,277 cannabis plants and 136 narcotic pills.
+
+633 of the 955 suspects were arrested over drug-related offences, while the other 322 suspects have been identified as listed criminals in numerous police divisions, including the Police Narcotics Bureau (PNB) and the Police Special Task Force (STF).
+
+Further investigations are being conducted into seven suspects against whom detention orders were obtained, while three others are being investigated for the possession of illegal assets, and 17 suspects were sent to rehabilitation.
 
 ◼️
 
@@ -1005,6 +1083,20 @@ Getting knowledge of all the information in the world is difficult for an indivi
 [Data](articles/5156f488.json)
 
 [Extended Data](ext_articles/5156f488.ext.json)
+
+---
+
+### President Positions Sri Lanka To Win International Support
+
+*2024-01-23 01:30:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/president-positions-sri-lanka-to-win-international-support/) · `en`
+
+Under President Ranil Wickremesinghe’s leadership it looks like Sri Lanka is once again punching above its weight. The president took centre stage at the 19th Summit of the Heads of State and Government of the Non-Aligned Movement (NAM) and the 3rd South Summit of the Group of 77 & China currently taking place in Kampala, Uganda. The president’s media unit stated that at the invitation of President Yoweri Museveni of Uganda, President Wickremesinghe not only participated in these critical global gatherings but also addressed both the NAM Summit and the South Summit. During his visit to Kampala, he is reported to have engaged in discussions with counterparts from the Global South, with a special focus on strengthening ties with leaders from the African region.
+
+...
+
+[Data](articles/f71cc61b.json)
+
+[Extended Data](ext_articles/f71cc61b.ext.json)
 
 ---
 
@@ -1859,111 +1951,5 @@ The Opposition Leader said that Mr. Wickremasinghe Rajapaksa is following the co
 [Data](articles/bb9ddcb0.json)
 
 [Extended Data](ext_articles/bb9ddcb0.ext.json)
-
----
-
-### Senior lecturer sudden death
-
-*2024-01-22 20:02:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிரேஷ்ட-விரிவுரையாளர்-திடீர்-மரணம்/175-331964) · `ta`
-
-The deceased is the 60 -year -old lecturer, Lucknath Peiris, a senior lecturer of the Agriculture Faculty.
-
-Police suspect that the death may have been caused by excessive pills and pesticides.
-
-It is noteworthy that he lived with his wife at a residential house located in the old Kalaha Road Sarasavi Uyana area.
-
-◼️
-
-[Data](articles/84a07908.json)
-
-[Extended Data](ext_articles/84a07908.ext.json)
-
----
-
-### Do you know the specialty of the statue of "Baby Rama" who came to Ayodhya?
-
-*2024-01-22 19:48:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/அயோத்திக்கு-வந்த-குழந்தை-ராமர்-சிலையின்-சிறப்புகள்-என்ன-தெரியுமா/50-331963) · `ta`
-
-The baby in the Ayodhya Rama Temple is created with the best art work in the world.
-
-The child at the Ayodhya Rama Temple was attracted to everyone when the photo of the statue of Rama statue was released.
-
-The reason is that the statue was made very realistic that Rama was like this in the child.
-
-In fact, 3 statues have been created in different places to commemorate Rama as a 5 -year -old.
-
-Arun Yogiraj from Mysore district of Karnataka, Ganesh Bhatt from Bangalore and Satyanarayan from Rajasthan have created separate statues.
-
-The 2 statues that originated in Karnataka were formed. The statue was created using marble stone in Rajasthan. In the end, the statue of Mysore has reached the sanctum sanctorum of the Ayodhya Temple.
-
-In South India, mostly used for god statues are used in gooseberry rocks. Its black color is also known as Krishna Shila, which reminds Krishna and shines in the sunlight.
-
-...
-
-[Data](articles/c49f6196.json)
-
-[Extended Data](ext_articles/c49f6196.ext.json)
-
----
-
-### Pressing on a permanent solution to the ethnic problem: Leaders of Tamil National Party jointly request the new Indian High Commissioner
-
-*2024-01-22 19:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174564) · `ta`
-
-The Tamil Nationalist parties and MPs have called for the new Indian High Commissioner to Sri Lanka Santosh Java to pressure Sri Lanka to provide a permanent solution to the ethnic problem of the Tamil people of the North and East.
-
-They also called for the Sri Lankan government to hold the elections for the Northern and Eastern Provincial Councils and that India should be given the fund if it is not funded by the Sri Lankan government.
-
-The meeting between Santosh Jaw and the leaders of the Tamil National Party, which has been appointed as the new Indian High Commissioner to Sri Lanka, was held at the Indian residence in Colombo at 4 pm on Monday.
-
-...
-
-[Data](articles/3506f973.json)
-
-[Extended Data](ext_articles/3506f973.ext.json)
-
----
-
-### Authorization to carry out the Ceremony Backup Bill with amendments - Media, Youth, Heritage and New Citizens
-
-*2024-01-22 19:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/174556) · `ta`
-
-The Department of Media, Youth, Heritage and New Citizens has approved the implementation of the proposed procedure Bill in accordance with the amendments made by the High Court.
-
-The Department of Media, Youth, Heritage and New Citizens' Overship Committee was approved by its Chairman of Parliament Lalith Warna Kumara on Monday (22).
-
-The Bill is scheduled to be presented in Parliament on Tuesday (23) for a second assessment debate.
-
-Officers represent the meeting to represent the Public Security Ministry, the Attorney General's Department, the Department of Attorney General, the Sri Lanka Police and the National Secretariat for NGOs.
-
-Members of the committee were also present, along with MPs of the committee, Gayantha Karunathilaka, Jayantha Kadagoda, Sanjeeva Enemy and Jagath Samarawickrama with the permission of the committee's chairman Eran Wickramaratne and Chandima Weerakkody.
-
-...
-
-[Data](articles/9487260a.json)
-
-[Extended Data](ext_articles/9487260a.ext.json)
-
----
-
-### Professor Peiris, who is in a state of agriculture at Peradeniya University, dies
-
-*2024-01-22 19:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174559) · `ta`
-
-A professor of the Faculty of Agriculture of the University of Peradeniya has died on Monday (22) after being admitted to the Peradeniya Teaching Hospital in critical condition due to a large number of pills.
-
-Professor who lived with his wife at an official residence owned by the Faculty of Agriculture was taken to a hospital in danger on Monday (22).
-
-Professor PL Peiris (60), who served as a senior lecturer in the Crop Sciences Division on the Faculty of Agriculture, said that the deceased was died.
-
-The Professor's wife is working at the main library of Peradeniya University and is conducting investigations into the death of the Peradeniya Police.
-
-Police said they could make a firm statement on the cause of the death after the autopsy.
-
-◼️
-
-[Data](articles/9006af8d.json)
-
-[Extended Data](ext_articles/9006af8d.ext.json)
 
 ---

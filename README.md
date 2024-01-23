@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 12:49:56**
+As of **2024-01-23 13:02:21**
 
 ## Newspaper Stats
 
-*Scraped **2,015** Articles*
+*Scraped **2,018** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 122
 adaderanasinhalalk | 123
 islandlk | 123
 dailyftlk | 171
-adalk | 203
+adalk | 206
 virakesarilk | 211
 dailymirrorlk | 240
 adaderanalk | 251
@@ -26,7 +26,7 @@ tamilmirrorlk | 261
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,992 (98.9%) of 2,015 articles have been extended.
+2,015 (99.9%) of 2,018 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,41 +48,47 @@ Nance is suspected of fatally shooting eight people at three locations in the Ch
 
 [Data](articles/419942b0.json)
 
+[Extended Data](ext_articles/419942b0.ext.json)
+
 ---
 
-### உத்தேச நிகழ்நிலை காப்புச் சட்டமூலத்திற்கு எதிர்ப்புத் தெரிவித்து பாராளுமன்ற பகுதியில் ஆர்ப்பாட்டம் !
+### Demonstration in Parliament
 
 *2024-01-23 12:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/174599) · `ta`
 
-உத்தேச நிகழ்நிலை காப்புச் சட்டமூலத்திற்கு எதிர்ப்புத் தெரிவித்து பாராளுமன்றப் பகுதியில் இன்று செவ்வாய்க்கிழமை (23) ஆர்ப்பாட்டம் ஒன்று இடம்பெற்றுள்ளது.
+A demonstration was held on Tuesday (23) in Parliament in protest against the proposed backup Bill.
 
-உத்தேச நிகழ்நிலை காப்புச் சட்டமூலத்தை 2 ஆம் வாசிப்பு மீதான விவாதத்துக்கு சபையில் எடுத்துக்கொள்ள வேண்டாமென எதிர்ப்புத் தெரிவித்தே குறித்த ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+The demonstration has been launched in protest against the debate on the 2nd reading of the proposal backup Bill.
 
-இது மக்களின் பேச்சு சுதந்திரத்தை ஒடுக்குவதாக தெரிவித்து சமூக ஆர்வலர்களால் போராட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+The struggle has been waged by social activists, claiming that this is suppressing the freedom of speech.
 
-ஆனாலும் உத்தேச நிகழ்நிலை காப்புச் சட்டமூலத்தை சபையில் இன்று இரண்டாம் வாசிப்புக்கு  எடுத்துக் கொள்வதா அல்லது ஒத்திவைப்பதா என்பது தொடர்பான வாக்கெடுப்பு 33 மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டுள்ளது. ஆதரவாக 83  வாக்குகளும்,எதிராக 50  வாக்குகளும் அளிக்கப்பட்டதைத்தொடர்து சட்டமூலம் விவாதத்துக்கு எடுத்துக் கொள்ளப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+However, a referendum on whether or postponing the proposed backup Bill for a second reading of the House today has been passed by 33 additional votes.. It is noteworthy that the bill was taken up for debate, with 83 votes and 50 votes against.
 
 ◼️
 
 [Data](articles/30e3317e.json)
 
+[Extended Data](ext_articles/30e3317e.ext.json)
+
 ---
 
-### கொழும்பில் சிசிரிவி கமரா மூலம் கண்காணிக்கப்பட்ட 125 போக்குவரத்து விதிமீறல்கள் தொடர்பில் எச்சரிக்கை!
+### 125 traffic violations monitored by Sisirvi camera in Colombo
 
 *2024-01-23 11:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174596) · `ta`
 
-கொழும்பிலுள்ள  வீதிகளில் நேற்று திங்கட்கிழமை (22) சிசிரிவி கமரா மூலம் கண்காணிக்கப்பட்ட 125 போக்குவரத்து விதிமீறல்கள் தொடர்பாக எச்சரிக்கப்பட்டுள்ளது.
+The streets of Colombo have been warned of 125 traffic violations monitored by Cesirivi Camera on Monday (22).
 
-சிசிரிவி கமரா மூலம் போக்குவரத்து விதிமீறல்களை கண்காணித்து வாகன உரிமையாளர்களுக்கு அபராதம் விதிக்கும் முன்னோடித் திட்டம் நேற்று  ஆரம்பமானது.
+The pioneering project to monitor traffic violations by Sisirvi Camera and fines for vehicle owners began yesterday.
 
-அதன்படி, கொழும்பில்  சிசிரிவி கமரா மூலம் 125 போக்குவரத்து விதிமீறல்கள் இனங்காணப்பட்டதாகவும் ஆரம்பக் கட்ட நடவடிக்கையாக அந்த வாகனங்களின் உரிமையாளர்களுக்கு எச்சரிக்கை விடுக்கப்பட்டுள்ளதாகவும் பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+According to the police headquarters, the owners of the vehicles have been warned of 125 traffic violations by Sisirvi Camera in Colombo.
 
-இனங்காணப்பட்ட விதி மீறல்களில்  பிரதானமாக பாதையை மாற்றியமை மற்றும் தரிப்பு பகுதிகளில் நிறுத்தாமல் வாகனம்  செலுத்தியமை போன்ற தவறுகள் அவதானிக்கப்பட்டுள்ளன.
+Mistakes have been observed, such as changing the path and driving in the area, mainly in violations of the identified rule.
 
 ◼️
 
 [Data](articles/01a71e05.json)
+
+[Extended Data](ext_articles/01a71e05.ext.json)
 
 ---
 
@@ -158,35 +164,41 @@ As the aviation sector experiences a revival, it was important to empower the ne
 
 [Data](articles/5dca8891.json)
 
+[Extended Data](ext_articles/5dca8891.ext.json)
+
 ---
 
-### அதிரடி வாக்கெடுப்பில் 30 மேலதிக வாக்குகள் கிடைத்தன
+### Action received 30 more votes in the Action Poll
 
 *2024-01-23 11:39:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிரடி-வாக்கெடுப்பில்-30-மேலதிக-வாக்குகள்-கிடைத்தன/175-332007) · `ta`
 
-நிகழ்நிலை காப்புச் சட்ட மூலத்தை விவாதத்துக்கு எடுத்துக்கொள்வதா?இல்லையா? என்பது தொடர்பில் சபையில் செவ்வாய்க்கிழமை (23)  அவசர வாக்கெடுப்பு நடத்தப்பட்டது.
+Does the Functional Backup Act take over the source of debate or not?An emergency referendum was held in the House on Tuesday (23).
 
-அதில், விவாதத்துக்கு எடுத்துக்கொள்வதற்கு  83 வாக்குகளும், விவாதத்துக்கு எடுத்துக்கொள்ளக் கூடாது என்று 53  வாக்குகளும் அளிக்கப்பட்டன. அதன்பிரகாரம் இந்த சட்டமூலம் மீது விவாதத்தை நடத்துவதற்கு  30 மேலதிக வாக்குகள் கிடைத்துள்ளன.
+In it, 83 votes were given to the debate and 53 votes not to be taken up for debate. Accordingly, there were 30 more votes to hold the debate on the bill.
 
 ◼️
 
 [Data](articles/a2086b23.json)
 
+[Extended Data](ext_articles/a2086b23.ext.json)
+
 ---
 
-### ஜனாதிபதி ரணில் விக்கிரமசிங்க நாடு திரும்பினார்
+### President Ranil Wickremesinghe returns to the country
 
 *2024-01-23 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174593) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்க தனது உத்தியோகபூர்வ வெளிநாட்டு விஜயத்தை முடித்துக்கொண்டு இன்று செவ்வாய்க்கிழமை (23) காலை நாடு திரும்பியுள்ளார்.
+President Ranil Wickremesinghe has returned to the country this morning after completing his official foreign visit.
 
-சுவிஸர்லாந்தின் டாவோஸ் நகரில் கடந்த 15 ஆம் திகதி முதல் 19 ஆம் திகதி வரை நடைபெற்ற 54 வது உலக பொருளாதார மாநாட்டில் கலந்துக் கொள்ள ஜனாதிபதி 13ஆம் திகதி சுவிட்சர்லாந்திற்குச் சென்றார்.
+The President visited Switzerland on the 13th to attend the 54th World Economic Forum held in Davos, Switzerland from 15th to 19th.
 
-அதன் பின்னர் 18ஆம் திகதி உகாண்டாவுக்குப் புறப்பட்டு, கம்பாலாவில் நடைபெற்ற 19 ஆவது அணிசேரா நாடுகளின் உச்சி மாநாட்டில் கலந்து கொண்டார்.
+He then left for Uganda on the 18th and attended the 19th Non -Aligned Summit in Kampala.
 
 ◼️
 
 [Data](articles/a551d4a3.json)
+
+[Extended Data](ext_articles/a551d4a3.ext.json)
 
 ---
 
@@ -268,25 +280,29 @@ President Ranil Wickremesinghe has ordered the necessary steps to be taken to al
 
 ---
 
-### பெலியத்தையில் ஐவர் சுட்டுக்கொலை : பொலிஸாரால் வெளிப்படுத்தப்பட்ட மேலதிக தகவல்கள்!
+### Five people shot dead in Beliatta: More information revealed by police
 
 *2024-01-23 11:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174592) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையின் பெலியத்தை நுழைவாயிலுக்கு அருகில்  எங்கள் மக்கள் சக்தி கட்சியின் தலைவர் சமன் பெரேரா உட்பட  ஐவர் கொல்லப்பட்ட சம்பவம் தொடர்பிலான மேலதிக தகவல்களை பெலியத்த பொலிஸார் வெளியிட்டுள்ளனர்.
+Further information about the killing of five people, including our People's Shakti Party leader Saman Perera, near the entrance of the Southern Expressway, the Beliatta police.
 
-திங்கட்கிழமை (22) காலை 8.30 முதல் 8.40 மணிக்குள் இந்தச்  துப்பாக்கிச் சூடு நடத்தப்பட்டதாக  பொலிஸார்  தெரிவித்தனர்.
+The shooting took place on Monday (22) at 8.30 am to 8.40 am, police said.
 
-உயிரிழந்தவர்கள்  வெள்ளை நிற  டிபென்டரில் சென்று கொண்டிருந்தபோது காலை உணவுக்காக டிபென்டர் நிறுத்தப்பட்டபோதே இந்த துப்பாக்கிப் பிரயோகம் மேற்கொள்ளப்பட்டுள்ளது.
+The shooting was carried out when the deceased was stopped for breakfast as the victims were traveling in a white debiter.
 
-இந்த துப்பாக்கிச் சூட்டில் சமன் பெரேரா உட்பட நால்வர்  சம்பவ இடத்திலேயே உயிரிழந்துள்ளதுடன், காயமடைந்த ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்ட பின்னர் உயிரிழந்துள்ளார்.
+Four people, including Saman Perera, died on the spot and died after being admitted to the hospital.
 
-உயிரிழந்த சமன் பெரேரா,  கொலைச் சம்பவம் ஒன்று  தொடர்பில் தங்காலை நீதிமன்றத்தில் தொடரப்பட்டுள்ள வழக்கு ஒன்றுக்காக சென்று கொண்டிருந்தபோதே இந்தச் சம்பவம் இடம்பெற்றுள்ளமை பொலிஸாரின் ஆரம்பக்கட்ட விசாரணைகளில் இருந்து தெரியவந்துள்ளது.
+Initial investigations by the police revealed that the incident took place while he was on his way for a case in the Tangalle court on a murder.
 
-உயிரிழந்த எங்கள் மக்கள் சக்தி கட்சியின் தலைவர் சமன் பெரேரா அம்பலாங்கொடையில் உள்ள தனியார் ஹோட்டல் ஒன்றின் உரிமையாளராவார்.
+The leader of our people's power party Saman Perera is the owner of a private hotel in Ambalangoda.
 
-...
+The Tangalle police are conducting further investigations into the incident.
+
+◼️
 
 [Data](articles/df37c684.json)
+
+[Extended Data](ext_articles/df37c684.ext.json)
 
 ---
 
@@ -310,21 +326,23 @@ Here are the mistakes of the errors that are mainly changing the path and not st
 
 ---
 
-### யுக்தியவை எந்த தனிப்பட்ட நிகழ்ச்சி நிரலின் அடிப்படையிலும் முன்னெடுக்கவில்லை - தேசபந்து தென்னக்கோன்
+### The Yuki is not carried out on the basis of any personal agenda - Patriot Thenkoon
 
 *2024-01-23 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/174591) · `ta`
 
-யுக்திய நடவடிக்கையை தனிப்பட்ட நிகழ்ச்சிநிரலின் அடிப்படையில் முன்னெடுக்கவில்லை என பதில்பொலிஸ்மா அதிபர் தேசபந்து தென்னக்கோன் தெரிவித்துள்ளார்.
+Replying President Deshabandu Tennakoon has said that the strategy was not carried out on a personal agenda.
 
-யுக்தியவில் தனிப்பட்ட நிகழ்ச்சிநிரல் எதுவுமில்லை பாதளஉலகத்தினரைஅழிப்பது போதைப்பொருள் கடத்தல்காரர்களை கைதுசெய்வது குறித்து மாத்திரமே கவனம் செலுத்தப்படுகின்றது எனவும் அவர் தெரிவித்துள்ளார்.
+He said that there is no personal agenda in Yukthi, the only focus is on the arrest of drug traffickers.
 
-யுக்தியநடவடிக்கையின்போது துன்புறுத்தல்கள் சித்திரவதைகள் இடம்பெறுகின்றன என்ற குற்றச்சாட்டை நிராகரித்துள்ள அவர் பாதளஉலகத்தினருக்கு எதிரான உறுதியான கரமொன்று அவசியம் எனவும் தெரிவித்துள்ளார்.
+He has rejected the allegation that the harassment of harassment during the strategy is essential.
 
-பாதாள உலகத்தினர் கடத்தல்காரர்களுடன் எந்த நிகழ்ச்சிநிரலும் இல்லை பாதளஉலகத்தினரை அழிப்பதே எங்களின் பொதுவான நோக்கம் எவருடனும் எந்த தனிப்பட்ட விவகாரமும் இல்லை போதைப்பொருள் பாதளஉலகத்துடன் தொடர்புபட்ட ஒவ்வொரு நபரும் எங்களின் எதிரிகள் எனவும் அவர் தெரிவித்துள்ளார்.
+He said that our general purpose is to destroy the underworld with the underworld and the underworld.
 
 ◼️
 
 [Data](articles/e5bd5f94.json)
+
+[Extended Data](ext_articles/e5bd5f94.ext.json)
 
 ---
 
@@ -380,43 +398,67 @@ A bond maturing on 15.03.2028 was quoted at 14.00/06 percent from 14.00/14.05 pe
 
 [Data](articles/ee5117ed.json)
 
+[Extended Data](ext_articles/ee5117ed.ext.json)
+
 ---
 
-### ஹெளத்தி கிளர்ச்சியாளர்களின் நிலைகள் மீது மீண்டும் அமெரிக்காவும் பிரிட்டனும் தாக்குதல் - கடும் எச்சரிக்கை
+### කැරට් කන්න ඕන ජාතියක්ද අපි?
+
+*2024-01-23 11:03:19* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-කන්න-ඕන-ජාතියක්ද-අපි-/11-407679) · `si`
+
+"කැරට් ටික 2000 ට ගියහම අපිත් බනිනවා, කැරට් 2000ට නෙමෙයි 5000ට ගියත් අපිට කමක් නෑ" යැයි ශ්‍රී ලංකා නිදහස් පක්ෂ ජාතික සංවිධායක, අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා පැවසීය.
+
+ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ, අනුරාධපුර, පලාගල ප්‍රාදේශීය සම්බන්ධීකරණ කමිටු රැස්වීම අමතමින්ය.පලාගල ප්‍රාදේශීය සම්බන්ධීකරණ කමිටු රැස්වීම පලාගල ප්‍රාදේශීය ලේකම් කාර්යාල ශ්‍රවණාගාරයේදී පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතාගේ සභාපතීත්වයෙන් පැවැත්විණි.
+
+එම ප්‍රාදේශීය ලේකම් කොට්ඨාශයේ පවතින වන අලි ගැටලු, කෘෂිකාර්මික ගැටලු ඇතුළු ගැටලු හා ඒවාට විසදුම් සම්බන්ධයෙන් දේශපාලන නියෝජිතයන් හා රාජ්‍යය නිළධාරීන් සමඟ මෙහිදී සාකච්ජා කෙරිණි.
+
+“අපි අනුරාධපුර දිස්ත්‍රික්කයේ අක්කර 20 000 ක් වෙනුවෙන් බඩඉරඟු බීජ බෙදා දුන්නා.මේකේදී අපි පවුල් 10 000 ක් අක්කර 02 ක් වැව්වා කියලා ගණන් හැදුවොත්, මේ අය වෙනුවෙන් බීජ ටික නොමිලේ ලබා දුන්නා, පොහොර ටික නොමිලේ ලබා දුන්නා, බිම් සකස් කිරීමට මුදල් ටිකත් තව දින කීපයකදී ලැබෙයි.
+
+...
+
+[Data](articles/b86146ba.json)
+
+---
+
+### US and Britain again on the positions of Haithi rebels - heavy warning
 
 *2024-01-23 11:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/174589) · `ta`
 
-யேமனில் ஹெளத்தி கிளர்ச்சியாளர்களின் நிலைகளை இலக்குவைத்து அமெரிக்காவும் பிரிட்டனும் மீண்டும் தாக்குதல்களை மேற்கொண்டுள்ளன.
+The United States and Britain have again launched attacks in Yemen, targeting the status of Haiti insurgents.
 
-ஹெளத்தி கிளர்ச்சியாளர்களின் நிலத்தடி சேமிப்பகங்கள் அவர்களின் ஏவுகணை மற்றும் கண்காணிப்பு நிலைகள் மீது எட்டுக்கும் மேற்பட்ட தாக்குதல்கள் இடம்பெற்றுள்ளதாக பென்டகன் தெரிவித்துள்ளது.
+The Pentagon reports that there have been more than eight attacks on their missile and surveillance conditions by Haithi insurgents.
 
-செங்கடலில் பதற்றத்தை தணித்து  இயல்புநிலையை உருவாக்குவதே எங்களின் நோக்கம் உலகின் மிகவும் முக்கியமான நீர்நிலையில் தொடர்ந்தும் அச்சுறுத்தல் காணப்படுகின்ற நிலையில் உயிர்களையும் சுதந்திரமாக வர்த்தகம் நடைபெறுவதையும் பாதுகாக்க நாங்கள் தயங்கமாட்டோம் என்ற எங்களின் எச்சரிக்கையை ஹெளத்தி தலைமைத்துவத்திற்கு மீண்டும் தெரிவித்துக்கொள்கின்றோம் என அமெரிக்காவும் பிரிட்னும் தெரிவித்துள்ளன.
+The United States and Britain have said that our aim is to alleviate tensions in the Red Sea and create normalcy in the world's most important water.
 
-யேமனில் ஹெளத்தி கிளர்ச்சியாளர்களின் நிலைகள் மீது அமெரிக்கா மேற்கொண்டுள்ள எட்டாவது தாக்குதல் இது .பிரிட்டனுடன் இணைந்து மேற்கொண்ட இரண்டாவது தாக்குதல் இது என்பதும் குறிப்பிடத்தக்கது.
+This is the eighth attack on the positions of Haiti insurgents in Yemen.
 
 ◼️
 
 [Data](articles/a3ff1f3f.json)
 
+[Extended Data](ext_articles/a3ff1f3f.ext.json)
+
 ---
 
-### எதிர்க்கட்சிகள் சபாநாயகரை சந்தித்து வலியுறுத்தியுள்ள விடயம் !
+### Opposition parties have met the Speaker and urged!
 
 *2024-01-23 11:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/174587) · `ta`
 
-நிகழ்நிலை காப்புச் சட்டமூலம் மீதான உத்தேச விவாதத்தை ஒத்திவைக்குமாறு எதிர்க்கட்சிகள்  இணைந்து சபாநாகரிடம் வலியுறுத்தியுள்ளன.
+Opposition parties have urged the Sabanagar to postpone the proposed debate on the Messenger Bill.
 
-மேலும், இந்த கொடூரமான சட்டத்தை நிறைவேற்றுவதால் ஏற்படும் பாரதூரமான விளைவுகளையும் எதிர்க்கட்சிகளின் பாராளுமன்ற உறுப்பினர்கள் சுட்டிக்காட்டியுள்ளனர்.
+Moreover, the Opposition MPs have also pointed out the serious consequences of the passage of this horrific law.
 
-அரசாங்கத்தினால் இன்றும் நாளையும் பாராளுமன்றத்தில் சமர்ப்பிக்கப்படவிருந்த நிகழ்நிலை காப்பு தொடர்பான சட்டமூலம் தொடர்பில் கலந்துரையாடுவதற்கு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவின் வேண்டுகோளுக்கு இணங்க கட்சித் தலைவர்களின் கூட்டம் இன்று கூட்டப்பட்டது.
+A meeting of party leaders was convened today at the request of Opposition Leader Sajith Premadasa to discuss the Bill on the Celebration Bill which was to be presented in Parliament today and tomorrow.
 
-இதற்கு முன்னரும், இச்சட்டமூலத்தை உடனடியாக விவாதத்திற்கு எடுத்துக் கொள்ளாது சமூகத்திலுள்ள அனைத்து தரப்பினரின் கருத்துக்களுக்கும் அமைய மீள் வரைவு செய்யுமாறு எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச சபாநாயகருக்கு எழுத்து மூலம் கோரிக்கை விடுத்திருந்தார்.
+Earlier, Opposition Leader Sajith Premadasa had written to the Speaker to the Speaker of the Speaker to re -draft the views of all parties in the community.
 
-இதன் பிரகாரம், இன்று பாராளுமன்றத்தில் கூடிய கட்சித் தலைவர்கள் கூட்டத்தில் இந்த சட்ட மூலத்தை இப்போதைக்கு எடுத்துக் கொள்ள வேண்டாம் என எதிர்க்கட்சியைப் பிரதிநிதித்துவப்படுத்தும் கட்சித் தலைவர்கள் அனைவரும் கோரிக்கை விடுத்தனர்.
+Accordingly, all party leaders representing the opposition demanded that the legislation not taken up at a meeting of party leaders in parliament today.
 
 ◼️
 
 [Data](articles/5c89d945.json)
+
+[Extended Data](ext_articles/5c89d945.ext.json)
 
 ---
 
@@ -454,17 +496,19 @@ The Sri Lanka Deputy High Commission in Chennai made a proposal to the Governmen
 
 ---
 
-### யாழில் இரு பஸ்கள் மோதி விபத்து ; 8 பேர் வைத்தியசாலையில் அனுமதி
+### Two buses collide in Jaffna;8 people are admitted to the hospital
 
 *2024-01-23 10:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/174586) · `ta`
 
-யாழ்ப்பாணம் - ஊர்காவற்துறை வீதியில் இன்று செவ்வாய்க்கிழமை (23)  காலை இரண்டு பஸ்கள் மோதி விபத்துக்கு உள்ளாகியுள்ளன.
+Two buses crashed into the Jaffna -Kayts road this morning (23).
 
-யாழ். நகரை நோக்கி வந்து கொண்டிருந்த இலங்கை போக்குவரத்து சபை பஸ் ஒன்றும் தனியார் பஸ் ஒன்றும் மோதியே விபத்து இடம்பெற்றுள்ளது என முதல் கட்ட விசாரணைகளில் தெரிய வந்துள்ளது.
+Yall. Investigations have revealed that the Sri Lanka Transport Board bus and a private bus collided with the accident.
 
 ◼️
 
 [Data](articles/8738d851.json)
+
+[Extended Data](ext_articles/8738d851.ext.json)
 
 ---
 
@@ -488,37 +532,43 @@ Sri Lanka’s Tourism Promotion Bureau said that it had attracted over 100 influ
 
 [Data](articles/37d114b7.json)
 
+[Extended Data](ext_articles/37d114b7.ext.json)
+
 ---
 
-### அனைத்து ஊடகவியலாளர்களுக்கும் மொபிடெல் உபகார சலுகை பெகேஜை வழங்குமாறு ஜனாதிபதி பணிப்பு !
+### President's Work to grant Mobitel Subject Begage to all journalists!
 
 *2024-01-23 10:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174576) · `ta`
 
-மொபிடெல் நிறுவனத்தினால் அரச ஊழியர்கள் மற்றும் ஓய்வூதியம் பெறுவோருக்கு வழங்கப்படும் உபகார பெகேஜை, புதிய சலுகைகளுடன் மீண்டும் வழங்க தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க, இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தும் ஆணைக்குழுவிற்கு பணிப்புரை விடுத்துள்ளார்.
+President Ranil Wickremesinghe has issued a directive to the Sri Lanka Telecommunication Regulatory Commission to take necessary steps to re -provide the sub -pegge with Mobitel to the public servants and pensioners.
 
-அதன்படி, இதன் பயனை அனைவருக்கும் வழங்குமாறும், அந்த சலுகை பெகேஜை அரசாங்க தகவல் திணைக்களத்தில் பதிவுசெய்துள்ள அனைத்து ஊடகவியலாளர்களுக்கும் வழங்குவதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறும் இலங்கை தொலைத்தொடர்பு ஒழுங்குபடுத்தும் ஆணைக்குழுவிற்கு ஜனாதிபதி,மேலும் பணிப்புரை விடுத்துள்ளார்.
+Accordingly, the President has issued a directive to the Sri Lanka Telecommunications Regulatory Commission to provide the benefit to all and all journalists registered with the Government Information Department to the Government Information Department.
 
 ◼️
 
 [Data](articles/16bf1c20.json)
 
+[Extended Data](ext_articles/16bf1c20.ext.json)
+
 ---
 
-### சபாநாயகர் சபைக்கு அறிவித்துள்ள முக்கிய விடயங்கள் !
+### The key issues announced to the Speaker's House!
 
 *2024-01-23 10:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174584) · `ta`
 
-உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலத்துக்கு எதிராக 6 மனுக்கள் உயர்நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு அறிவித்துள்ளார்.
+Speaker Mahinda Yapa Abeywardena has informed the House that six petitions have been filed in the Supreme Court against the proposed anti -terrorism bill.
 
-அத்துடன் நுண்கடன் மற்றும் கடன் ஒழுங்குபடுத்தல் அதிகாரசபை சட்டமூலத்துக்கு எதிராக 2 மனுக்கள் உயர்நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுள்ளதாகவும் சபாநாயகர் சபைக்கு அறிவித்துள்ளமை குறிப்பிடத்தக்கது.
+It is also worth noting that two petitions have been filed in the High Court against the Bill of the Financial and Credit Regulatory Authority.
 
-அரசியலமைப்பின் 121 (1) சரத்துக்கு அமைய  உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலத்துக்கு எதிராக  உயர்நீதிமன்றத்தில் ஆறு அடிப்படை உரிமை மீறல் மனுக்கள்  தாக்கல் செய்யப்பட்டுள்ளதுடன் அதன் பிரதிகள் கிடைக்கப் பெற்றுள்ளன.
+Six fundamental rights violation petitions have been filed in the Supreme Court against the proposed anti -terrorist bill, according to Article 121 (1) of the Constitution.
 
-அதேபோல் நுண்கடன் மற்றும் கடன் ஒழுங்குபடுத்தல் அதிகார சபை சட்டமூலத்துக்கு எதிராக  அரசியலமைப்பின் 121 (1) சரத்துக்கு அமைய உயர்நீதிமன்றத்தில் இரண்டு அடிப்படை உரிமை மீறல் மனுக்களும் தாக்கல் செய்யப்பட்டு அதன் பிரதிகள் கிடைக்கப் பெற்றுள்ளன என்றார்.
+Similarly, two fundamental rights violation petitions have been filed in the Supreme Court, according to the Constitution's 121 (1) Article 121 (1) of the Constitution's Bill.
 
 ◼️
 
 [Data](articles/82a21f35.json)
+
+[Extended Data](ext_articles/82a21f35.ext.json)
 
 ---
 
@@ -578,21 +628,27 @@ As a result, some of the transfer cycles given under the Annual Transfers have n
 
 ---
 
-### நிகழ்நிலை பாதுகாப்பு சட்டம் அரசாங்கத்தை மேலும் ஏதேச்சதிகார தன்மை வாய்ந்ததாக மாற்றும் - எரான்
+### The Ceremony Protection Act will make the government more and more powerful - Eran
 
 *2024-01-23 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174583) · `ta`
 
-நாடாளுமன்றத்தில் இன்றும் நாளையும் விவாதிக்கப்படவுள்ள நிகழ்நிலை பாதுகாப்பு சட்டம் மக்களின் பேச்சுசுதந்திரத்திற்கு பாரிய அடியாக அமையும் என ஐக்கிய மக்கள் சக்தியின் நாடாளுமன்ற உறுப்பினர் எரான் விக்கிரமரட்ண தெரிவித்துள்ளார்.
+United People's Power Parliamentarian Eran Wickramaratne says that the current security law, which is to be discussed in Parliament today and tomorrow, will be a massive blow to the people's speech.
 
-சமூக ஊடகங்களில் பெண்கள் சிறுவர்களின் உரிமைகளை பாதுகாப்பதே இந்த சட்டத்தின் நோக்கங்களில் ஒன்று என அரசாங்கம் தெரிவிக்கின்றது எனினும் அந்த சட்டமூலத்தில் பெண்கள் சிறுவர்கள் என்ற வார்த்தையே இல்லை என நாடாளுமன்ற உறுப்பினர் தெரிவித்துள்ளார்.
+The government says that one of the objectives of this law is to protect women's rights on social media, but the Bill does not have the word "boys".
 
-நிகழ்நிலை பாதுகாப்பு சட்டமூலம் நிறைவேற்றப்பட்டால் பொலிஸார் நீதிமன்ற உத்தரவின்றி பத்திரிகையாளர்கள் சிவில் சமூக செயற்பாட்டாளர்களின் மொபைல்போன்களை பறிமுதல் செய்யலாம் எனவும் அவர் தெரிவித்துள்ளார்.
+He also said that if the status bill is passed, the police can confiscate the mobile phones of civil society activists without a court order.
 
-சட்டமூலத்தில் ஜனநாயக விரோத அம்சங்கள் உள்ளன இந்த சட்டமூலம் மக்களி;ன் சுதந்திரத்தை பறிக்கும் எனவும் எரான் விக்கிரமரட்ண தெரிவித்துள்ளார்.
+Eran Wickremaratne said that the bill would snatch the independence of the people.
 
-...
+Under the president's direct trade;He also proposed the idea of setting up a Commission.
+
+He added that this bill is against the rights of the people that make the government more and more virtuous.
+
+◼️
 
 [Data](articles/8df514b2.json)
+
+[Extended Data](ext_articles/8df514b2.ext.json)
 
 ---
 
@@ -610,19 +666,21 @@ President Ranil Wickremesinghe has come to the island this morning with Ranil Wi
 
 ---
 
-### தினேஷ் ஷாப்டரின்  தொலைபேசி  சிம் அட்டையை  மனைவியிடம் ஒப்படைப்பது தொடர்பில் நீதிவானின் தீர்மானம்!
+### Justice's resolution on handing Dinesh Shaft's telephone SIM card to his wife!
 
 *2024-01-23 10:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/174582) · `ta`
 
-கொலை செய்யப்பட்ட வர்த்தகர் தினேஷ் ஷாப்டரின் கையடக்க தொலைபேசியின்  சிம் அட்டையை அவரது மனைவியிடம் ஒப்படைப்பது தொடர்பான கோரிக்கை அரசாங்க இராசாயன பகுப்பாய்வு  பிரிவினரின் அறிக்கை கிடைத்த பின்னர் பரிசீலிக்கப்படும் என கொழும்பு மேலதிக நீதிவான் ஹர்ஷண கெக்குணுவெல தெரிவித்துள்ளார்.
+Colombo Additional Justice Harshana Kekunuwela has said that the request of the assassination of the murdered businessman Dinesh Shopper will be considered after the report of the Government Analysis Division will be considered.
 
-தனது கணவர் கொல்லப்படுவதற்கு முன்னர் பயன்படுத்திய தொலைபேசி இலக்கத்தைக் காட்டும் புதிய சிம்கார்டைப் பெற்றுக் கொள்வதற்கான உத்தரவை பிறப்பிக்குமாறு தினேஷ் ஷாப்டரின் மனைவி விடுத்த கோரிக்கை தொடர்பிலேயே நீதிவான் மேற்கண்டவாறு தெரிவித்தார்.
+The magistrate said in a request made by Dinesh Shaft's wife to issue an order to obtain a new SIM card, showing the phone number used before her husband.
 
-தினேஷ் ஷாஃப்டரின் கொலை தொடர்பாக விசாரணைகள் தொடர்ந்து இடம்பெறுவதாகவும் எனவே, அவரது மனைவிக்கு புதிய சிம் கார்டை வழங்கும் கோரிக்கையை நிராகரிக்குமாறு குற்றப் புலனாய்வுத் திணைக்களம் நீதிமன்றில் முன்வைத்த கோரிக்கையை  பரிசீலித்தபோதே நீதிவான் இந்த அறிவிப்பை விடுத்தார்.
+The magistrate made the announcement when the Criminal Investigation Department (CID) made a request to reject the request of his wife to issue a new SIM card to his wife.
 
 ◼️
 
 [Data](articles/c1b46666.json)
+
+[Extended Data](ext_articles/c1b46666.ext.json)
 
 ---
 
@@ -652,15 +710,17 @@ Meanwhile, the five people have come to participate in a Defender car belonging 
 
 ---
 
-### சபை நடவடிக்கைகள் ஒத்திவைப்பு - காரணம் இது தான் !
+### Postpone the congregation activities - this is the reason!
 
 *2024-01-23 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/174581) · `ta`
 
-நிகழ்நிலை காப்புச் சட்டமூலத்தை இரண்டாம் வாசிப்புக்கு எடுத்துக் கொள்வது தொடர்பில் கட்சித் தலைவர் கூட்டத்தில் தீர்மானம் எடுப்பதற்காக சபை நடவடிக்கைகள் தற்காலிகமாக ஒத்தி வைக்கப்பட்டுள்ளன.
+The proceedings have been temporarily postponed for the party leader's meeting to take a second reading of the Ceremony Backup Bill.
 
 ◼️
 
 [Data](articles/0810ed2e.json)
+
+[Extended Data](ext_articles/0810ed2e.ext.json)
 
 ---
 
@@ -740,33 +800,37 @@ The meeting took place in the Speaker's official room and discussed the bill of 
 
 ---
 
-### யாழ். நெடுந்தீவில் 06 தமிழக மீனவர்கள் கைது
+### Yall. 06 Tamil Nadu fishermen arrested
 
 *2024-01-23 10:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/174577) · `ta`
 
-யாழ்ப்பாணம் - நெடுந்தீவு கடற்பரப்பினுள் அத்துமீறி நுழைந்து மீன் பிடியில் ஈடுபட்ட 06 தமிழக  மீனவர்கள் இன்று செவ்வாய்க்கிழமை (23) அதிகாலை கைது செய்யப்பட்டுள்ளனர்.
+Six Tamil Nadu fishermen have been arrested on Tuesday morning (23) this morning.
 
-சுற்றுக்காவல் நடவடிக்கையில் ஈடுபட்டு இருந்த கடற்படையினர் , இலங்கை கடற்பரப்பினுள் அத்து மீறி நுழைந்து கடற்தொழில் ஈடுபட்டு இருந்த தமிழக  மீனவர்களை கைது செய்ததுடன், அவர்களின் இரண்டு படகுகளையும் மீட்டு இருந்தனர்.
+The Marines, who were involved in the operation, arrested the Tamil Nadu fishermen who had entered the Sri Lankan waters and rescued the two boats.
 
-கைது செய்யப்பட்ட மீனவர்களை கடற்தொழில் நீரியல் வளத்துறை திணைக்களம் ஊடாக ஊர்காவற்துறை நீதவான் நீதிமன்றில் முற்படுத்த கடற்படையினர் நடவடிக்கை எடுத்துள்ளனர்.
+The Navy has taken steps to appear at the Kayts Magistrate's Court through the Department of Fisheries and Aquatic Resources.
 
 ◼️
 
 [Data](articles/a487f509.json)
 
+[Extended Data](ext_articles/a487f509.ext.json)
+
 ---
 
-### அமெரிக்காவில் துப்பாக்கிச்சூட்டில் 8 பேர் பலி
+### 8 killed in shooting in the United States
 
 *2024-01-23 09:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174575) · `ta`
 
-அமெரிக்காவின் சிக்காக்கோ நகரில் ஜுலியட் பகுதியில் செவ்வாய்க்கிழமை (22) துப்பாக்கிச்சூட்டுச் சம்பவங்கள்  இடம்பெற்றுள்ளது.
+The shootings took place on Tuesday (22) in the Juliet area of Chicago, USA.
 
-இந்த துப்பாக்கிச்சூட்டு சம்பம் குறித்து தகவலறிந்த பொலிஸார் சம்பவ இடத்திற்கு விரைந்து சென்று உயிரிழந்தவர்களின் உடல்களை மீட்டு அருகில் உள்ள வைத்தியசாலைக்கு அனுப்பி வைத்துள்ளனர். மேலும், துப்பாக்கிச்சூடு நடத்திவிட்டு தப்பியோடிய ரோமியோ நான்சியை தீவிரமாக தேடி வருகின்றனர்.
+Informed about the shooting incident, the police rushed to the scene and rescued the bodies of the victims and sent them to a nearby hospital.. Also, Romeo and Nancy, who fled the shooting, are actively searching for.
 
 ◼️
 
 [Data](articles/15f83b9b.json)
+
+[Extended Data](ext_articles/15f83b9b.ext.json)
 
 ---
 
@@ -858,23 +922,25 @@ Of the 633 suspects arrested for drug offenses, seven suspects have been detaine
 
 ---
 
-### சீனா - கிர்கிஸ்தான் எல்லையில் பாரிய பூகம்பம்
+### China - massive earthquake on Kyrgyzstan border
 
 *2024-01-23 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174572) · `ta`
 
-சீனாவில் திங்கட்கிழமை (22) நள்ளிரவில் 7.0 ரிச்டர் அளவில் சக்தி வாய்ந்த பூகம்பம் ஏற்பட்டுள்ளதாக அந்நாட்டு தேசிய புவியியல் ஆய்வு மையம் தெரிவித்துள்ளது.
+A powerful earthquake in China on Monday (22) at midnight, the National Geological Survey Center said.
 
-இந்த பூகம்பம் சீனா - கிர்கிஸ்தான் எல்லையை ஒட்டி அமைந்துள்ள ஜின் ஜியாங் மாகாணத்தை மையமாகக் கொண்டு  ஏற்பட்டுள்ளது.
+The earthquake is centered on the Jin Jiang province, which is located along the China -Kyrgyzstan border.
 
-இந்த பூகம்பத்தின் மையம் தரைமட்டத்தில் இருந்து 80 கிலோ மீற்றர் ஆழத்தில் அமைந்திருந்ததாக புவியியல் ஆய்வு மையம் கூறியுள்ளது.
+The center of the earthquake was located at a depth of 80 km from the ground, according to the Geological Survey.
 
-இந்த பூகம்பத்தால் ஏற்பட்ட சேதங்கள் குறித்த விவரங்கள் விரைவில் வெளியிடப்படும் என தெரிவிக்கப்பட்டுள்ளது.
+Details of the damage caused by the earthquake will be released soon.
 
-இதனிடையே சீனாவில் ஏற்பட்ட பூகம்பத்தின் தாக்கத்தால் இந்தியாவின் டெல்லி உள்ளிட்ட பிற பகுதிகளிலும் நில அதிர்வு உணரப்பட்டதால் பரபரப்பு ஏற்பட்டுள்ளது.
+Meanwhile, the impact of the earthquake in China has caused a stir in other parts of India, including Delhi.
 
 ◼️
 
 [Data](articles/7727b2f9.json)
+
+[Extended Data](ext_articles/7727b2f9.ext.json)
 
 ---
 
@@ -1024,6 +1090,22 @@ The Board took note of the effects of the recent developments in taxation and su
 
 ---
 
+### ඉල්ලා අස්වෙන ඕනෑම ලංවිම සේවකයෙකුගේ අස්වීම භාර ගන්න
+
+*2024-01-23 07:48:42* · [`adalk`](https://www.ada.lk/breaking_news/ඉල්ලා-අස්වෙන-ඕනෑම-ලංවිම-සේවකයෙකුගේ-අස්වීම-භාර-ගන්න/11-407678) · `si`
+
+ඉල්ලා අස්වීමට සූදානම් ඕනෑම ලංවිම සේවකයෙකුගේ ඉල්ලා අස්වීම් භාර ගන්නා ලෙසත් ඔවුන්ගෙන් ලංවිමට අයවිය යුතු සියලුම ගාස්තු අය කර ගැනීමට කටයුතු කරන ලෙසත් තමන් ලංවිම කළමනාකාරිත්වය වෙත උපදෙස් දුන් බව අමාත්‍ය කංචන විජේසේකර මහතා කියයි.
+
+ලංවිම සේවකයන් 5000ක් එකවර ඉල්ලා අස්වීමට සූදානම් බවට ඇතැම් මාධ්‍ය වාර්තා කළ පුවත සම්බන්ධයෙන් සිය x ගිණුම හරහා ප්‍රකාශයක් කරමින් ඔහු මේ බව පැවැසීය.
+
+එසේම ලංවිම ප්‍රතිසංස්කරණ කඩිනම් කරන කිරීමට, පිරිවැය අඩු කිරීමේ යාන්ත්‍රණයක් සකස් කිරීම, ජනන සැලැස්ම අනුව හඳුනාගත් විදුලි බල ව්‍යාපෘති ක්‍රියාත්ම කිරීම, මාර්ගත ගෙවීමේ කටයුතු පුළුල් කිරීම, ලැබිය යුතු ආදායම් එකතු කර ගැනීම, ලංවිම සේවා කටයුතු සඳහා බාධා කරන පුද්ගලයන්ට එරෙහිව විනය හා නීතිමය ක්‍රියාමාර්ග ගන්නා ලෙසත් තමන් අදාළ නිලධාරීන් වෙත උපදෙස් දුන් බව අමාත්‍යවරයා පවසයි.
+
+◼️
+
+[Data](articles/d8e5b00e.json)
+
+---
+
 ### Sri Lanka keeps policy rates unchanged, CB wants market interest to fall
 
 *2024-01-23 07:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-keeps-policy-rates-unchanged-cb-wants-market-interest-to-fall-148309/) · `en`
@@ -1041,6 +1123,8 @@ Over the past month, the exchange rate has appreciated, which may also help offs
 ...
 
 [Data](articles/6cae3b40.json)
+
+[Extended Data](ext_articles/6cae3b40.ext.json)
 
 ---
 
@@ -1875,39 +1959,5 @@ If you ask me, I think that this presidential election candidate. It is the need
 [Data](articles/7d905804.json)
 
 [Extended Data](ext_articles/7d905804.ext.json)
-
----
-
-### Emeritus Professor Ratna Handurukande receives Lifetime Award from Indian HC
-
-*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Emeritus-Professor-Ratna-Handurukande-receives-Lifetime-Award-from-Indian-HC/172-275522) · `en`
-
-At a very heartening ceremony held at her residence in Kandy on 19th January 2024, Professor Ratna Handurukande, the former Professor of Sanskrit at the University of Peradeniya, received a Certificate of Appreciation from the Indian Cultural Centre, Colombo.
-
-Prof. Handurukande received this Lifetime Award from the Swami Vivekananda Cultural Centre of the High Commission of India in Colombo, on the occasion of World Sanskrit Day which falls on 31st August 2023, in appreciation of her lifelong contribution to the teaching of Sanskrit in Sri Lanka. Professor Ankuran Dutta, the Director of the Indian Cultural Centre, personally visited Prof. Handurukande to present her the certificate, and praised her contribution to Sanskrit.
-
-...
-
-[Data](articles/1e076feb.json)
-
-[Extended Data](ext_articles/1e076feb.ext.json)
-
----
-
-### Choosing between Robert Wilmot Horton and Ponnambalam Arunachalam
-
-*2024-01-23 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Choosing-between-Robert-Wilmot-Horton-and-Ponnambalam-Arunachalam/172-275517) · `en`
-
-Changing names of places and roads bearing the names of foreigners is common in countries that have gained independence from foreign rule. Such changes can be easily justified in some cases where the foreign ruler was despotic, but in others it may be a bit tricky as both personalities may have had significant contributions to their credit.
-
-In most cases, the personages displaced are driven into oblivion despite their contribution to society, and erased from history.
-
-The proposed change-over from “Horton Place” in Colombo 7 to “Sir Ponnambalam Arunachalam Mawatha” is justified given the yeoman service rendered by Arunachalam to Ceylon, and the fact that he resided there.
-
-...
-
-[Data](articles/6d808796.json)
-
-[Extended Data](ext_articles/6d808796.ext.json)
 
 ---

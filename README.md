@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 18:34:41**
+As of **2024-01-23 18:52:04**
 
 ## Newspaper Stats
 
-*Scraped **2,111** Articles*
+*Scraped **2,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,10 +14,10 @@ dbsjeyarajcom | 122
 newsfirstlk | 123
 islandlk | 123
 economynextcom | 126
-adaderanasinhalalk | 136
+adaderanasinhalalk | 137
 dailyftlk | 171
-adalk | 216
-virakesarilk | 233
+adalk | 217
+virakesarilk | 235
 dailymirrorlk | 256
 adaderanalk | 264
 tamilmirrorlk | 266
@@ -26,11 +26,47 @@ tamilmirrorlk | 266
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,108 (99.9%) of 2,111 articles have been extended.
+2,111 (99.8%) of 2,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### ලෝකයක් දිනන්න සැමෝවා රූපසුන්දරියට ශ්‍රී ලංකාවෙන් ලැබුණු දායාදය
+
+*2024-01-23 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192479) · `si`
+
+සැමෝවා රාජ්‍යයට ප්‍රථමවරට ජාත්‍යන්තර රූපලාවන්‍ය තරගාවලියක ජයග්‍රහණයක් රැගෙන ඒමට ශ්‍රී ලාංකික සම්බවයක් සහිත නිරූපන ශිල්පිනියක් සමත්ව තිබෙනවා.
+
+ජාත්‍යන්තර මිස් ග්ලෝබල් රූපලාවන්‍ය තරගාවලියට සැමෝවා රාජ්‍යය නියෝජනය කරමින් එක්වන පර්ල් කුරුප්පු එහි අනුශූරතාවය දිනාගැනීමට සමත්වනවා.
+
+ඇයගේ මව සැමෝවා ජාතික කාන්තාවක් වන අතර පියා ශ්‍රී ලාංකිකයෙකු බව විදෙස් මාධ්‍ය වාර්තා කර තිබෙනවා.
+
+සැමෝවා රූ රැජින වීමත් සමග ඇයට වියට්නාමයේ පැවති මෙම ජාත්‍යන්තර මිස් ග්ලෝබල් රූපලාවන්‍ය තරගාවලියට එක්වීමේ අවස්ථාව හිමිව තිබෙනවා.
+
+◼️
+
+[Data](articles/2261723a.json)
+
+---
+
+### காணாமல் ஆக்கப்பட்டோர் தொடர்பான பிரசாரத்தை பல நாடுகளுக்கு விரிவுபடுத்தவுள்ளோம்! - காணாமல் ஆக்கப்பட்டோரின் உறவுகள்
+
+*2024-01-23 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174646) · `ta`
+
+காணாமல் ஆக்கப்பட்டோர் தொடர்பான பிரசாரத்தை பல நாடுகளுக்கு விரிவுபடுத்தவுள்ளோம் என காணாமல் ஆக்கப்பட்டோரின் உறவுகள் செவ்வாய்க்கிழமை (23) தெரிவித்தனர்.
+
+வவுனியாவில் தொடர் போராட்டத்தை மேற்கொண்டுவரும் வவுனியா மாவட்ட காணாமல் ஆக்கப்பட்டோரின் உறவினர்களின் சங்கத்தினர் போராட்டம் ஆரம்பித்து செவ்வாய்க்கிழமை (23) 7 ஆவது ஆண்டு நிறைவை அனுஷ்டித்தனர்.
+
+இந்நிலையில் வவுனியா பிரதான தபாலகத்திற்கு அருகாமையில் கவனயீர்ப்பு போராட்டத்தில் ஈடுபட்டபோதே சங்கத்தின் செயலாளர் கோ. ராஜ்குமார் மற்றும் சங்க தலைவி கா.ஜெயவனிதா ஆகியோர் இவ்வாறு தெரிவித்தனர்.
+
+காணாமல் ஆக்கப்பட்ட நமது அன்புக்குரியவர்களைக் கண்டுபிடிப்பதில் நமது முயற்சிகளை வலுப்படுத்துவதே எங்கள் அர்ப்பணிப்பாகும், மேலும் நமது தைரியத்தின் ஆதாரம் நமது இறையாண்மையில் உள்ளது.
+
+...
+
+[Data](articles/f2bc6639.json)
+
+---
 
 ### Doctors call off planned strike action
 
@@ -45,6 +81,8 @@ Furthermore, the heads of the institutions have been ordered to pay the relevant
 ...
 
 [Data](articles/2c019e94.json)
+
+[Extended Data](ext_articles/2c019e94.ext.json)
 
 ---
 
@@ -84,6 +122,8 @@ Her standout moment came in the series decider against New Zealand, where she pl
 
 [Data](articles/56c6fe66.json)
 
+[Extended Data](ext_articles/56c6fe66.ext.json)
+
 ---
 
 ### SC concludes hearing of Harin and Manusha’s petition, verdict deferred
@@ -99,6 +139,8 @@ Appearing on behalf of Minister Nanayakkara during the hearing, President’s Co
 ...
 
 [Data](articles/0076958a.json)
+
+[Extended Data](ext_articles/0076958a.ext.json)
 
 ---
 
@@ -167,6 +209,26 @@ The Unity Backup Bill is not prepared to suppress the media. The misbehavior of 
 [Data](articles/944ab9bd.json)
 
 [Extended Data](ext_articles/944ab9bd.ext.json)
+
+---
+
+### வெள்ளத்தால் தலதா மாளிகை, ஆளுநர் அலுவலகம்  உட்பட பல அரச நிறுவனங்களுக்கு சேதம் ஏற்படும் அபாயம்
+
+*2024-01-23 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/174633) · `ta`
+
+பலத்த மழையின் போது கண்டி  உடவத்த வன பிரதேசத்திலிருந்து  வெள்ளம் பெருக்கெடுத்து ஓடுவதால் ஸ்ரீ தலதா மாளிகை, ஆளுநர் அலுவலகம்  உட்பட பல அரச நிறுவனங்களுக்கு சேதம் ஏற்படும் அபாயம் உள்ளதாக ஆளுநர் லலித் யு.கமகே தெரிவித்துள்ளார்.
+
+வன பாதுகாப்பு திணைக்கள பணிப்பாளர் நாயகம் உள்ளிட்ட    ஏனைய  அதிகாரிகள் இது தொடர்பில் அவசர நடவடிக்கை எடுக்கும் படியும்    ஆளுநர் அவர்களுக்கு  பணிப்புரை வழங்கியுள்ளார்.
+
+கண்டி மாவட்ட  செயலகத்தில்  கடந்த வியாழனன்று (18) நடைபெற்ற கண்டி மாவட்ட ஒருங்கிணைப்புக் குழுக்  கூட்டத்தில்   ஆளுநர் மேற்படி விடயத்தை   தெரிவித்தார்.
+
+கண்டி, உடவத்தை காட்டில் இருந்து நீர் வெளியேறும் பழைய வடிகால் அமைப்புகள் பராமரிக்காமையே இதற்கு ஒரு காரணம் எனவும் ஆளுநர் தெரிவித்தார்.
+
+உடவத்தை வனப்பகுதியில் நிர்மாணிக்கப்பட்டுள்ள வடிகால் அமைப்புகளை வனவள திணைக்களம் பராமரிக்க வேண்டும் எனவும்,அத்துடன்  நீர் செல்லும் ஏனைய வடிகால் அமைப்புகளை பராமரிப்பதற்கும்  கண்டி மாநகர சபை மற்றும் ஏனைய சம்பந்தப்பட்ட நிறுவனங்களை ஈடுபடுத்த வேண்டும் எனவும் அவர் கேட்டுக்கொண்டார்.
+
+◼️
+
+[Data](articles/64cc166b.json)
 
 ---
 
@@ -1054,6 +1116,26 @@ At the same time, the empty land owners who have been spreading the mosquitoes h
 
 ---
 
+### නිල්වලා ලවණ බාධක ගැටලුව කැබිනට් මණ්ඩලයට
+
+*2024-01-23 13:06:39* · [`adalk`](https://www.ada.lk/breaking_news/නිල්වලා-ලවණ-බාධක-ගැටලුව-කැබිනට්-මණ්ඩලයට/11-407687) · `si`
+
+නිල්වලා ගඟ හරස් කොට ඉදිකර ඇති - ලවණ බාධක වැටිය සම්බන්ධ ගැටළුව  කැබිනට් මණ්ඩලයට ඉදිරිපත් කර කඩිනමින් විසඳුම්  ලබා දීමට පියවර ගන්නා බව වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ  පවිත්‍රා වන්නිආරච්චි මහත්මිය අවධාරණය කරයි.
+
+ලවණ බාධක වැටිය හේතුවෙන්  අගතියට පත් ජනතාව  නියෝජනය කරමින් ප්‍රදේශයේ බෞද්ධ භික්ෂූන් වහන්සේලා සහ  සිවිල් සංවිධාන නියෝජිතයින් කැඳවා ඊයේ  පෙරවරුවේ (22) වාරිමාර්ග අමාත්‍යාංශයේ දී පැවැති  විශේෂ  සාකච්ඡාවකදී   අමාත්‍ය පවිත්‍රා වන්නිආරච්චි මහත්මිය මේ බව  සඳහන් කළාය.
+
+මෙම සාකච්ඡාවේදී පවිත්‍රා වන්නිආරච්චි මහත්මිය ප්‍රකාශ කළේ, ජල සම්පත් මණ්ඩලය මගින්, නිල්වලා ගඟ -  ලවණ බාධක වැටිය ඉදිකිරීමේ දී කිසියම්  අතපසු වීමක් හෝ දුර්වලතාවයක්  සිදුවී  ඇතිබව  ට, තමන්ට ද පෙනී යන බවයි.
+
+එහෙත් කුමන  තත්ත්වයක් යටතේ  උවද, පවතින අර්බූදකාරී තත්ත්වයට විසඳුමක් ළඟා කර  ගැනීම  සියළු  අංශ වල වගකීමක්  බවද  අමාත්‍යවරිය පෙන්වා දුන්නා ය.
+
+මෙම  ලවණ බාධක වැටිය,  වර්ෂාව  අධික  කාලවලදී ගඟ පිටාර ගැලීමට ප්‍රධාන හේතුවක් බව  ප්‍රදේශවාසීහූ පෙන්වා දෙති.
+
+...
+
+[Data](articles/50544b52.json)
+
+---
+
 ### Central Bank Station on Bank Loan Interest
 
 *2024-01-23 13:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192464) · `si`
@@ -1927,89 +2009,5 @@ The Tangalle police are conducting further investigations into the incident.
 [Data](articles/df37c684.json)
 
 [Extended Data](ext_articles/df37c684.ext.json)
-
----
-
-### Alert to 125 people identified by CCTV
-
-*2024-01-23 11:21:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/CCTV-மூலம்-இனங்காணப்பட்ட-125-பேருக்கு-எச்சரிக்கை/175-332005) · `ta`
-
-Various roads in Colombo were monitored by CCTV yesterday (22) and alerted 125 traffic violations.
-
-The pioneer plan to monitor traffic violations through the CCTV camera began yesterday to impose fines for vehicle owners.
-
-The police headquarters said that 125 traffic violations have been identified by the CCTV around Colombo and the owners of the vehicles have been warned as an early stage.
-
-Here are the mistakes of the errors that are mainly changing the path and not standing in the area.
-
-◼️
-
-[Data](articles/a60f4891.json)
-
-[Extended Data](ext_articles/a60f4891.ext.json)
-
----
-
-### The Yuki is not carried out on the basis of any personal agenda - Patriot Thenkoon
-
-*2024-01-23 11:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/174591) · `ta`
-
-Replying President Deshabandu Tennakoon has said that the strategy was not carried out on a personal agenda.
-
-He said that there is no personal agenda in Yukthi, the only focus is on the arrest of drug traffickers.
-
-He has rejected the allegation that the harassment of harassment during the strategy is essential.
-
-He said that our general purpose is to destroy the underworld with the underworld and the underworld.
-
-◼️
-
-[Data](articles/e5bd5f94.json)
-
-[Extended Data](ext_articles/e5bd5f94.ext.json)
-
----
-
-### 18 trains between Gampola and Badulla in 2023
-
-*2024-01-23 11:14:11* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-ගම්පොල-හා-බදුල්ල-අතර-දුම්රිය-පීලි-පැනීම්-18ක්/11-407681) · `si`
-
-The train passengers say that only 18 jumps have been reported in the Kandyan railway to Badulla.
-
-Thus Kandy rail passengers allege that they are suffering from severe hardships and difficulties due to the constant train jumps.
-
-They say that if train trains are jumping on the Kandyan Railways, they will have to go to the middle of buses and carrying the baggage and the carrying bags of luggage.
-
-They also say that foreign tourists travel in Kandyan train, they are constantly uncomfortable due to the difficulties due to this dear jumps.
-
-Train passengers say that train services are constantly jumping on the Kandyan Railway Line.
-
-Railway Passengers are also demanded that the Upcountry Railway is properly maintained and take necessary trains to drive trains.
-
-◼️
-
-[Data](articles/d653e3a3.json)
-
-[Extended Data](ext_articles/d653e3a3.ext.json)
-
----
-
-### Central Bank maintains policy rates at current levels
-
-*2024-01-23 11:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Central-Bank-maintains-policy-rates-at-current-levels/108-275557) · `en`
-
-Policy rates will be maintained at their current levels, the Central Bank of Sri Lanka said today, its first monetary policy announcement for the year.
-
-The Monetary Policy Board has decided to maintain the Standing Deposit Facility Rate (SDFR) and the Standing Lending Facility Rate (SLFR) of the Central Bank at their current levels of 9.00 percent and 10.00 percent.
-
-The Board arrived at this decision following a comprehensive assessment of domestic and international macroeconomic developments to maintain inflation at the targeted level of 5 percent over the medium term, while enabling the economy to reach its potential, the Central Bank said.
-
-While the Board took note of the effects of the recent developments in taxation and supply-side factors likely to pose upside pressures on inflation in the near term, it viewed that the impact of these developments would not materially change the medium-term inflation outlook.
-
-...
-
-[Data](articles/ef2db0a8.json)
-
-[Extended Data](ext_articles/ef2db0a8.ext.json)
 
 ---

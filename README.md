@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 13:02:21**
+As of **2024-01-23 13:17:22**
 
 ## Newspaper Stats
 
-*Scraped **2,018** Articles*
+*Scraped **2,019** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ dailyftlk | 171
 adalk | 206
 virakesarilk | 211
 dailymirrorlk | 240
-adaderanalk | 251
+adaderanalk | 252
 tamilmirrorlk | 261
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,015 (99.9%) of 2,018 articles have been extended.
+2,018 (100.0%) of 2,019 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### Police detect 125 traffic offences through CCTV system on first day
+
+*2024-01-23 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96652/police-detect-125-traffic-offences-through-cctv-system-on-first-day) · `en`
+
+Owners of 125 vehicles have been issued warning over traffic offences as a preliminary step in the pilot project launched in Colombo on Monday (22 Jan.), where a 24-hour surveillance system wasw implemented to monitor traffic violations.
+
+According to police, amongst the violations detected, traffic lane violations and failing to stop at red lights were seen as the most common offences.
+
+Sri Lanka Police launched a special programme yesterday, through which traffic offenders in Colombo will be traced using a CCTV surveillance camera system.
+
+A pilot project of the initiative commenced in the country’s commercial capital on 22 January, and will continue until 31 January, in a bid to curb traffic violations.
+
+Police Media Spokesman SSP Nihal Thalduwa explained that the CCTV camera system will be monitored by police personnel stationed in Colombo, after which, the registered owner of the relevant vehicle will be notified in the event a traffic offence is recorded.
+
+...
+
+[Data](articles/df5d6e1f.json)
+
+---
 
 ### Suspect in killing of 8 people in suburban Chicago has fatally shot himself in Texas, police say
 
@@ -402,21 +422,25 @@ A bond maturing on 15.03.2028 was quoted at 14.00/06 percent from 14.00/14.05 pe
 
 ---
 
-### කැරට් කන්න ඕන ජාතියක්ද අපි?
+### Should we have a nation to eat carrots?
 
 *2024-01-23 11:03:19* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-කන්න-ඕන-ජාතියක්ද-අපි-/11-407679) · `si`
 
-"කැරට් ටික 2000 ට ගියහම අපිත් බනිනවා, කැරට් 2000ට නෙමෙයි 5000ට ගියත් අපිට කමක් නෑ" යැයි ශ්‍රී ලංකා නිදහස් පක්ෂ ජාතික සංවිධායක, අනුරාධපුර දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතා පැවසීය.
+"When you go to 2000 carrots, we bark, not 2000 cars, we don't mind the National Organizer of the Sri Lanka Freedom Party (SLFP) MP Duminda Dissanayake.
 
-ඒ මහතා මේ බව ප්‍රකාශ කර සිටියේ, අනුරාධපුර, පලාගල ප්‍රාදේශීය සම්බන්ධීකරණ කමිටු රැස්වීම අමතමින්ය.පලාගල ප්‍රාදේශීය සම්බන්ධීකරණ කමිටු රැස්වීම පලාගල ප්‍රාදේශීය ලේකම් කාර්යාල ශ්‍රවණාගාරයේදී පාර්ලිමේන්තු මන්ත්‍රී දුමින්ද දිසානායක මහතාගේ සභාපතීත්වයෙන් පැවැත්විණි.
+He was speaking at the meeting of the Palagala Divisional Coordinating Committee meeting in Anuradhapura and the meeting held at the Palagala Divisional Secretariat Auditorium under the Chairman of Parliament.
 
-එම ප්‍රාදේශීය ලේකම් කොට්ඨාශයේ පවතින වන අලි ගැටලු, කෘෂිකාර්මික ගැටලු ඇතුළු ගැටලු හා ඒවාට විසදුම් සම්බන්ධයෙන් දේශපාලන නියෝජිතයන් හා රාජ්‍යය නිළධාරීන් සමඟ මෙහිදී සාකච්ජා කෙරිණි.
+The political representatives and government officials have discussed with elephant problems, agricultural issues, including agricultural problems in the Divisional Secretariat.
 
-“අපි අනුරාධපුර දිස්ත්‍රික්කයේ අක්කර 20 000 ක් වෙනුවෙන් බඩඉරඟු බීජ බෙදා දුන්නා.මේකේදී අපි පවුල් 10 000 ක් අක්කර 02 ක් වැව්වා කියලා ගණන් හැදුවොත්, මේ අය වෙනුවෙන් බීජ ටික නොමිලේ ලබා දුන්නා, පොහොර ටික නොමිලේ ලබා දුන්නා, බිම් සකස් කිරීමට මුදල් ටිකත් තව දින කීපයකදී ලැබෙයි.
+"We distributed homes for 20 000 acres in the Anuradhapura district, the seeds were provided free of charge for some of the money to prepare the ground.There will be a few.
+
+Recently, I was very happy to see these plantations.When you go out of the kitchen, the tomato plant, which was left out of the kitchen, not to eat at the kitchen, the chili plant wasn't behind the kitchen,
 
 ...
 
 [Data](articles/b86146ba.json)
+
+[Extended Data](ext_articles/b86146ba.ext.json)
 
 ---
 
@@ -1090,19 +1114,21 @@ The Board took note of the effects of the recent developments in taxation and su
 
 ---
 
-### ඉල්ලා අස්වෙන ඕනෑම ලංවිම සේවකයෙකුගේ අස්වීම භාර ගන්න
+### Accept any CEB employee employee employee
 
 *2024-01-23 07:48:42* · [`adalk`](https://www.ada.lk/breaking_news/ඉල්ලා-අස්වෙන-ඕනෑම-ලංවිම-සේවකයෙකුගේ-අස්වීම-භාර-ගන්න/11-407678) · `si`
 
-ඉල්ලා අස්වීමට සූදානම් ඕනෑම ලංවිම සේවකයෙකුගේ ඉල්ලා අස්වීම් භාර ගන්නා ලෙසත් ඔවුන්ගෙන් ලංවිමට අයවිය යුතු සියලුම ගාස්තු අය කර ගැනීමට කටයුතු කරන ලෙසත් තමන් ලංවිම කළමනාකාරිත්වය වෙත උපදෙස් දුන් බව අමාත්‍ය කංචන විජේසේකර මහතා කියයි.
+The Minister Kanchana Wijesekara says he has instructed the management of the CEB to take over the resignations of any CEB employees ready to resign.
 
-ලංවිම සේවකයන් 5000ක් එකවර ඉල්ලා අස්වීමට සූදානම් බවට ඇතැම් මාධ්‍ය වාර්තා කළ පුවත සම්බන්ධයෙන් සිය x ගිණුම හරහා ප්‍රකාශයක් කරමින් ඔහු මේ බව පැවැසීය.
+He made this statement on the news reports that some of the media reported that 5,000 CEB workers were ready to resign at the time.
 
-එසේම ලංවිම ප්‍රතිසංස්කරණ කඩිනම් කරන කිරීමට, පිරිවැය අඩු කිරීමේ යාන්ත්‍රණයක් සකස් කිරීම, ජනන සැලැස්ම අනුව හඳුනාගත් විදුලි බල ව්‍යාපෘති ක්‍රියාත්ම කිරීම, මාර්ගත ගෙවීමේ කටයුතු පුළුල් කිරීම, ලැබිය යුතු ආදායම් එකතු කර ගැනීම, ලංවිම සේවා කටයුතු සඳහා බාධා කරන පුද්ගලයන්ට එරෙහිව විනය හා නීතිමය ක්‍රියාමාර්ග ගන්නා ලෙසත් තමන් අදාළ නිලධාරීන් වෙත උපදෙස් දුන් බව අමාත්‍යවරයා පවසයි.
+Also, preparing a cost reduction mechanism, adgenting costs developed and collecting costs developed in accordance with the generating plan, and collecting the revenue and collection of electricity projects identified, consuming disciplinary action against people who interfere with CEB service.He also instructed the relevant officers, he said.
 
 ◼️
 
 [Data](articles/d8e5b00e.json)
+
+[Extended Data](ext_articles/d8e5b00e.ext.json)
 
 ---
 
@@ -1937,27 +1963,5 @@ The company is at the forefront of developing flame-retardant cables for the dom
 [Data](articles/516c3d5e.json)
 
 [Extended Data](ext_articles/516c3d5e.ext.json)
-
----
-
-### The presidential election will definitely come forward
-
-*2024-01-23 00:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192447) · `si`
-
-The Leader of the Motherland People's Party, entrepreneral Dilith Jayaweera says that a presidential election will be presented.
-
-Dilith Jayaweera made this statement participating in Derana 360 political dialogue.
-
-There, the leader of the Motherland People's Party, the Leader of the Motherland People's Party, Entrepreneurship Dilith Jayaweera,
-
-"Nomini Prime Minister's Consideracy is not the only proportional government electoral. This is a force that created for a historical need in Sri Lanka. This party is a very philosophical rational rationale, especially young people, and a lot of scholars, and a lot of scholars. We have a very long-term view for "
-
-If you ask me, I think that this presidential election candidate. It is the need for it, that if it is honestly, I can say that I was sup. However, Dilith Jayaweera is not a short-term work to be a short-term work. Definitely a presidential election, we come forward to presidential election. We apply strategies that can be given to it. "
-
-◼️
-
-[Data](articles/7d905804.json)
-
-[Extended Data](ext_articles/7d905804.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 20:17:31**
+As of **2024-01-23 20:33:04**
 
 ## Newspaper Stats
 
-*Scraped **2,141** Articles*
+*Scraped **2,145** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,87 @@ islandlk | 123
 economynextcom | 132
 adaderanasinhalalk | 141
 dailyftlk | 171
-adalk | 219
+adalk | 220
 virakesarilk | 235
 dailymirrorlk | 263
-adaderanalk | 267
-tamilmirrorlk | 270
+adaderanalk | 268
+tamilmirrorlk | 272
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,140 (100.0%) of 2,141 articles have been extended.
+2,141 (99.8%) of 2,145 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
 
-### දිවයින පුරා බන්ධනාගාරවල බරපතළ තත්ත්වයක්
+### தீர்ப்பை ஒத்திவைத்தது உயர் நீதிமன்றம்
+
+*2024-01-23 19:47:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீர்ப்பை-ஒத்திவைத்தது-உயர்-நீதிமன்றம்/175-332025) · `ta`
+
+ஐக்கிய மக்கள் சக்தி கட்சி உறுப்புரிமை தொடர்பான தீர்மானத்திற்கு எதிராக அமைச்சர்களான ஹரின் பெர்னாண்டோ மற்றும் மனுஷ நாணயக்கார ஆகியோர் தாக்கல் செய்த மனு மீதான விசாரணையை இலங்கை உயர் நீதிமன்றம் இன்று நிறைவு செய்துள்ளது.
+
+இந்த மனு மீதான விசாரணை முடிவடைந்த நிலையில், உயர் நீதிமன்றம் தீர்ப்பை ஒத்திவைத்துள்ளது.
+
+கடந்த ஆண்டு ஒகஸ்ட் மாதம், அமைச்சர்கள் மனுஷ நாணயக்கார மற்றும் ஹரின் பெர்னாண்டோ ஆகியோர், SJB தமது கட்சி உறுப்புரிமையை இடைநீக்கம் செய்து அவர்களை பாராளுமன்றத்தில் இருந்து நீக்கிய முடிவை ரத்து செய்யுமாறு கோரி அடிப்படை உரிமைகள் (FR) மனு ஒன்றை தாக்கல் செய்தனர்.
+
+கடந்த ஆண்டு ஜூலை மாதம், அமைச்சர்கள் இருவரும் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அரசாங்கத்தில் இணைந்ததையடுத்து, இரண்டு அமைச்சர்களையும் கட்சியிலிருந்து நீக்க SJB இன் செயற்குழு தீர்மானித்தது.
+
+◼️
+
+[Data](articles/aae222a3.json)
+
+---
+
+### EPF - ETF மனுக்கள் தொடர்பில் நீதிமன்றத்தின் உத்தரவு
+
+*2024-01-23 19:45:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/EPF-ETF-மனுக்கள்-தொடர்பில்-நீதிமன்றத்தின்-உத்தரவு/175-332024) · `ta`
+
+உள்நாட்டு கடனை மறுசீரமைப்பதில் ஊழியர் சேமலாப நிதியம் மற்றும் ஊழியர் நம்பிக்கை நிதியத்தின் உறுப்பினர்களுக்கு பாதகம் ஏற்படுவதாக குற்றம்சாட்டி  தாக்கல் செய்யப்பட்ட அடிப்படை உரிமை மனுக்களை ஒக்டோபர் 30 ஆம் திகதி பரிசீலிக்க உயர் நீதிமன்றம் இன்று (23) உத்தரவிட்டது.
+
+இது தொடர்பான மனுக்கள் எஸ். துரைராஜா, ஷிரான் குணரத்ன மற்றும் மஹிந்த சமயவர்தன   மூவரடங்கிய உயர் நீதிமன்ற அமர்வு முன்னிலையில் அழைக்கப்பட்டது.
+
+சட்டமா அதிபர் சார்பில் ஆஜரான மேலதிக சொலிசிட்டர் ஜெனரல் விராஜ் தயாரத்ன, நீதிமன்றில் சமர்ப்பணங்களை முன்வைத்து, இந்த மனுக்களை விசாரணை செய்யாமல் நிராகரிப்பதற்கு அடிப்படை ஆட்சேபனைகளை முன்வைப்பதாக தெரிவித்தார்.
+
+இது தொடர்பாக தாக்கல் செய்யப்பட்ட பல மனுக்கள் உயர் நீதிமன்றத்தால் தள்ளுபடி செய்யப்பட்டுள்ளதாகவும், இந்த மனுக்களை விசாரிக்க நீதிமன்றத்திற்கு அதிகாரம் இல்லை என்றும் மேலதிக சொலிசிட்டர் ஜெனரல் தனது அடிப்படை ஆட்சேபனையில் குறிப்பிட்டுள்ளார்.
+
+கட்டுநாயக்க சுதந்திர வர்த்தக வலய ஊழியர் சங்கத்தின் அழைப்பாளர் என்டன் மார்கஸ் உள்ளிட்ட 04 தரப்பினரால் இந்த மனுக்கள் தாக்கல் செய்யப்பட்டுள்ளன. R
+
+◼️
+
+[Data](articles/2ce16789.json)
+
+---
+
+### A serious situation in prisons
 
 *2024-01-23 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192483) · `si`
 
-දිවයින පුරා බන්ධනාගාරවල රඳවා සිටින රැඳවියන්ගේ ධාරිතාවය සියයට 290කින් ඉක්මවා ගොස් ඇති බව බන්ධනාගාර කොමසාරිස් ජනරාල් තුෂාර උපුල්දෙණිය මහතා අද අනාවරණ කළේය.
+The Commissioner General of Prisons Thushara Upuladeniya revealed that the capacity of prisons in prisons is over 290 percent.
 
-අද (23) විකාශය වූ අද දෙරණ බිග් ෆෝකස් වැඩසටහන සමග එක්වෙමින් ඒ මහතා මේ බව සඳහන් කළේය.
+He was speaking at the Derana Big Focusing Program today (23).
 
-ජාතික විගණන කාර්යාලය සිදුකළ "බන්ධනාගාරවල රැඳවියන්ගේ තදබදය කළමනාකරණය පිළිබඳ කාර්ය සාධන විගණන වාර්තාව" පසුගියදා එළිදක්වනු ලැබීය.
+The National Audit Office "Performance Audit Report on Prisons Management Audit Report" recently released.
 
-විගණකාධිපති ඩබ්ලිව්.පී.සී.වික්‍රමරත්න මහතාගේ අත්සනින් යුතුව නිකුත් කෙරුණු එම වාර්තාවට අනුව 2022 දෙසැම්බර් 31 වනවිට දිවයින පුරා බන්ධනාගාරවල රඳවා තැබිය හැකි රැඳවියන්ගේ ධාරිතාවය 11,291ක් වුවත් එදින වනවිට රඳවා සිට ඇති පිරිස 26,176කි.
+According to the report of the Auditor General WP WiLamarametne, on December 31, 2029, the capacity of 11,291, the capacity of 11,291, was 26,291.
 
-ඒ අනුව බන්ධනාගාරවල රඳවා සිටිය හැකි රැඳවියන්ගේ ධාරිතාවය 232% කින් ඉක්මවා ගොස් තිබේ.
+Accordingly, the capacity of prisoners has exceeded 232%.
 
-මෙවන් පසුබිමක අද දෙරණ බිග් ෆෝකස් වැඩසටහනට එක්වූ බන්ධනාගාර කොමසාරිස් ජනරාල්වරයා  අනාවරණ කළේ මේ වනවිට එම තත්ත්වය තවදුරටත් ඔඩුදුවා ඇති බවය.
+The Commissioner General of Prisons, which joined Ada Derana, revealed that the situation has been no longer kept.
 
-එමෙන්ම විගණන වාර්තාවට අනුව, 2022 වසරේ දෙසැම්බර් 31 වැනිදා වනවිට සමස්ත රැඳවියන්ගෙන් 53%ක් සිරගත කර තිබී ඇත්තේ මත්ද්‍රව්‍ය වැරදි සම්බන්ධවය.
+According to the audit report, 53% of the entire detainees had been imprisoned in December 31, 2022.
 
-...
+The Audit Report further states that 187 camations of 27 prisons have a shortage of 187 prisons and 287 toilet should be repaired.
+
+Meanwhile, the National Audit Office reveals that the majority of the prisoner remains are between 30 and 40 years old.
+
+◼️
 
 [Data](articles/340971a3.json)
+
+[Extended Data](ext_articles/340971a3.ext.json)
 
 ---
 
@@ -119,6 +163,26 @@ Haputale police are conducting investigations on the directive of Assistant Supe
 [Data](articles/207535d3.json)
 
 [Extended Data](ext_articles/207535d3.ext.json)
+
+---
+
+### හිමිනම ඝාතනයේ සැකකරුවන් පැමිණි මෝටර් රථයට ගිනි තබලා
+
+*2024-01-23 19:22:36* · [`adalk`](https://www.ada.lk/breaking_news/හිමිනම-ඝාතනයේ-සැකකරුවන්-පැමිණි-මෝටර්-රථයට-ගිනි-තබලා/11-407694) · `si`
+
+මල්වතුහිරිපිටිය විහාරස්ථානයේදී කලපලුවාවේ ධම්මරතන හිමිට වෙඩි තැබීම සදහා පැමිණි සුඛෝපභෝගී මෝටර් රථය කඩුවෙල ගොඩැල්ල ප්‍රදේශයේ ලදු කැලෑවක ගිනි තබා විනාශ කර තිබියදී අද (23 දා) සවස හමුවූ බව කඩුවෙල පොලිසිය කියයි.
+
+හේනගම ප්‍රදේශයේ විහාරස්ථානයක වැඩ වාසය කරන අපවත් වූ මල්වතු හිරිපිටිය විහාරස්ථානයෙන් දානය වළඳා යළි  හේනේගම විහාරස්ථානය කරා වැඩම කරවීම සඳහා සූදානමින් සිටියදී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් බව පවසා පැමිණි නාදුනන  පුද්ගලයන් තිදෙනෙකුගෙන් දෙදෙනෙකු  ටී පනස්හයේ ගිනි අවියකින් වෙඩි තබා තිබිණි.
+
+වෙඩි තබා තිබුණේ මත්ද්‍රව්‍ය තිබෙන බවට හිමිනම පරික්ෂා කිරීමට අවශ්‍ය බවට පවසා යැයි පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+මෝටර් රථය සම්පූර්ණයෙන් ගිනිගෙන විනාශ වී ඇති අතර කිසියම් ප්‍රදේශයකින් සොරාගත් එකක් බවට සැක කළ හැකි යැයි පොලිස් නිලධාරියකු පැවසීය.
+
+කඩුවෙල පොලිසියේ ස්ථානාධිපති පොලිස් පරීක්ෂක කාන් වීරසිංහ මහතාගේ උපදෙස් මත පරීක්ෂණ පැවැත්වේ.
+
+◼️
+
+[Data](articles/f2b288fd.json)
 
 ---
 
@@ -197,6 +261,26 @@ Kaselkanda Kumarka Kusum, which was previously worked for machinery and scientif
 [Data](articles/1f226575.json)
 
 [Extended Data](ext_articles/1f226575.ext.json)
+
+---
+
+### Sri Lankan Tamil leaders seek Indian intervention in implementation of 13A – report
+
+*2024-01-23 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96670/sri-lankan-tamil-leaders-seek-indian-intervention-in-implementation-of-13a-report) · `en`
+
+A group of Sri Lankan Tamil legislators has sought India’s intervention to ensure that Colombo fully implements the New Delhi-mooted 13th Amendment, which provides for the devolution of power to the minority community, PTI reported quoting sources.
+
+The group led by the veteran politician and TNA Leader R Sampanthan met India’s new High Commissioner to Sri Lanka, Santosh Jha, on Monday, said the source from the Tamil National Alliance (TNA), which represents Sri Lanka’s Tamil minority.
+
+The two-hour-long talks were centred on the 13 Amendment, which created the provincial councils system for the island nation’s nine provinces.
+
+The Tamil parties pointed out the need for India’s intervention in the current Sri Lankan political context for the meaningful devolution of power, the source said.
+
+They also highlighted the issue of the Tamil political prisoners and the Tamil land grabbing by the state.
+
+...
+
+[Data](articles/034bb141.json)
 
 ---
 
@@ -1971,89 +2055,5 @@ A social safety net is a priority initiative under an International Monetary Fun
 [Data](articles/39a95078.json)
 
 [Extended Data](ext_articles/39a95078.ext.json)
-
----
-
-### Media Freedom - State Minister Jupiter
-
-*2024-01-23 12:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174600) · `ta`
-
-Freedom of expression must be in this country. Media freedom should be maintained. Media repression should not be. Commerce Minister Sadasivam Jupiter Jupiter said that everyone should have the freedom to comment.
-
-The 1.1 -kilometer road carcut -based program has been launched on Monday (22) with a sum of 2.5 million funds in Mandur, Batticaloa.
-
-He said this while commenting on the rehabilitation work of the road.
-
-There will be some special discussions on the new laws that will be brought in Parliament.
-
-Freedom of expression must be in this country. Media freedom should be maintained. Media repression should not be.
-
-Everybody should have the freedom to comment. That freedom should not be suppressed, it is very important.
-
-Because the backbone of the democracy of a country is the media and the freedom of expression. Therefore, everyone should be free to express their views in this country, he said.
-
-...
-
-[Data](articles/3de6bb3b.json)
-
-[Extended Data](ext_articles/3de6bb3b.ext.json)
-
----
-
-### We clearly go to the village
-
-*2024-01-23 12:43:29* · [`adalk`](https://www.ada.lk/breaking_news/අපි-පැහැදිලිවම-ගමට-යනවා/11-407683) · `si`
-
-MP Namal Rajapaksa said that although the bankrupt political parties performed various things, no man or party would be challenging.
-
-He was speaking at a program held at the Sri Lanka Civil Aravan Front Headquarters this morning.
-
-"We're clearly going to the village. It is done by the loss of principles of some political parties. People expect to come to the village. We are accused. Whatever the case, our bowls go to the village.
-
-JVP are Sajobe who burned the houses and arrested. Those people are opposed if someone lives well. If we are not a challenge for us to us, "
-
-◼️
-
-[Data](articles/9eba2e0f.json)
-
-[Extended Data](ext_articles/9eba2e0f.ext.json)
-
----
-
-### Democratic Fighters' party vice -president Nakulese released on bail
-
-*2024-01-23 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/174598) · `ta`
-
-Vice -President of the Democratic Fighters Party, N. Nagulese, who was arrested in the Batticaloa Prison under the Prevention of Terrorism Act, was released on bail on Monday (22).
-
-He was arrested by the Wellaveli police and was released on bail by the Wellaveli police for honoring the parents of the Democratic Fighters Party on 2023.11.2012.
-
-It is still a matter of fact that ex -combatants in the country are carrying out democratic activities.
-
-Despite being liberated from the clutches of the war, the actions that threaten the terrorism law from racist politics and threaten the terrorism law.. Whatever the case, we can never stop our tasks for the Tamil people.
-
-...
-
-[Data](articles/1ae5a0a6.json)
-
-[Extended Data](ext_articles/1ae5a0a6.ext.json)
-
----
-
-### The government that seeks the goodwill of the international community
-
-*2024-01-23 12:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174594) · `ta`
-
-Under the leadership of President Ranil Wickremesinghe, Sri Lanka seems to have begun to gain importance beyond its energy.
-
-The President was prominent in the 19th summit of the non -aligned countries in the capital of the African country of Uganda, the 77 nations and the third southern summit of China. The President's media unit said that Wickremesinghe was not only participating in important meetings at the invitation of Uganda President Joveri Musaweni, but also addressed the summit and southern summit.
-
-During his visit to Kampala, he paid attention to the strengthening of bilateral relations with the heads of the African region and held talks with the leaders of the South World countries.
-
-...
-
-[Data](articles/6a0cc215.json)
-
-[Extended Data](ext_articles/6a0cc215.ext.json)
 
 ---

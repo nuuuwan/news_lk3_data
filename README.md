@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 15:51:29**
+As of **2024-01-23 16:04:26**
 
 ## Newspaper Stats
 
-*Scraped **2,084** Articles*
+*Scraped **2,085** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 121
 newsfirstlk | 123
 islandlk | 123
 economynextcom | 125
-adaderanasinhalalk | 131
+adaderanasinhalalk | 132
 dailyftlk | 171
 adalk | 212
 virakesarilk | 225
@@ -26,11 +26,33 @@ tamilmirrorlk | 265
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,084 (100.0%) of 2,084 articles have been extended.
+2,085 (100.0%) of 2,085 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### Special notice to all traffic holders
+
+*2024-01-23 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192473) · `si`
+
+The department has been given special notice to persons who are purchased by the Department of Motor Traffic and purchased vehicles and used them.
+
+The traffic promptly registered with other people's name and register to their name.
+
+The Commissioner of Motor Traffic he will be fined for the end of the last days of the vehicle, who has been asked to re-register the vehicle traffic to the Department of Motor Traffic.
+
+CCTV cameras currently operated by the police, the current owners of the pilot temples and the pilot in the pilot project can be embarrassed as well as the old owners who have not been registered.
+
+As a result, the Department of Motor Traffic has informed the public to register their purchased vehicles to register their name.
+
+◼️
+
+[Data](articles/09503128.json)
+
+[Extended Data](ext_articles/09503128.ext.json)
+
+---
 
 ### Prisoner of Anuradhapura
 
@@ -1975,23 +1997,5 @@ Opposition Leader Sajith Premadasa requested for a Party Leaders meeting before 
 [Data](articles/6138ba2a.json)
 
 [Extended Data](ext_articles/6138ba2a.ext.json)
-
----
-
-### Over 7,000 dengue cases, three deaths reported so far in 2024
-
-*2024-01-23 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96642/over-7000-dengue-cases-three-deaths-reported-so-far-in-2024-) · `en`
-
-Three dengue-related deaths and over 7,000 cases have been reported in the first 20 days of 2024, according to the National Dengue Control Unit (NDCU).
-
-Jaffna reported the highest number of cases, reaching 1,602, followed closely by Colombo with 1,536 cases and Gampaha with 637 cases.
-
-Commenting on the matter, Health Minister Dr. Ramesh Pathirana highlighted the insufficient public support in controlling the spread of dengue in the country.
-
-◼️
-
-[Data](articles/d1964dd2.json)
-
-[Extended Data](ext_articles/d1964dd2.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-23 07:44:49**
+As of **2024-01-23 07:58:57**
 
 ## Newspaper Stats
 
-*Scraped **1,924** Articles*
+*Scraped **1,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,109 @@ dbsjeyarajcom | 121
 dailyftlk | 171
 virakesarilk | 195
 adalk | 200
-adaderanalk | 235
-dailymirrorlk | 237
+adaderanalk | 237
 tamilmirrorlk | 239
+dailymirrorlk | 240
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-1,924 (100.0%) of 1,924 articles have been extended.
+1,924 (99.7%) of 1,929 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-23 (Tuesday)
+
+### Police suspect shooting carried out in retaliation for a triple murder
+
+*2024-01-23 07:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-suspect-shooting-carried-out-in-retaliation-for-a-triple-murder/108-275552) · `en`
+
+Colombo, Jan 23 (Daily Mirror) - Initial investigations into the manslaughter of five individuals, including the leader of the 'Ape Jana Bala Party,' Saman Perera, who were killed in a shooting in Beliatta, revealed that the underworld gang led by Kosgoda Sujee may have orchestrated the shooting in retaliation for a murder in Tangalle.
+
+Acting IGP Deshabandu Tennakoon said that investigations into the shooting, believed to be an act of underworld retaliation, are being conducted by the Southern Province Special Crimes Investigations Unit.
+
+The incident occurred near the Beliatta-Kahawatta entrance on the Southern Expressway at approximately 8:00 am yesterday, as Saman Perera, also known as 'Royal Beach Saman,' and others were en route to a court appearance in Tangalle.
+
+...
+
+[Data](articles/f0cc2a20.json)
+
+---
+
+### Former President Maithripala’s daughters house in Battaramulla burgled
+
+*2024-01-23 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-President-Maithripalas-daughters-house-in-Battaramulla-burgled/108-275548) · `en`
+
+Battaramulla, Jan 23 (Daily Mirror) - The house in Wickremesinghepura, Battaramulla, belonging to the daughter of former President Maithripala Sirisena, was subjected to a burglary, resulting in the loss of valuable items, worth nearly Rs.3 million, Thalangama Police has confirmed.
+
+Authorities revealed that the stolen items included Rs. 150,000 in cash, a gold-plated camel statue, a smartwatch, eight gold-plated Singapore coins, some dry foods, and a school bag. It was reported that the husband of the former President's daughter discovered the break-in upon returning to the residence and promptly notified the police.
+
+According to a senior police officer, the husband, who is a businessman, stated in his complaint that the perpetrators gained entry by breaking into the kitchen through the glass door. Investigations are currently underway to identify the individuals responsible for the burglary.
+
+◼️
+
+[Data](articles/8505c7a4.json)
+
+---
+
+### Showers expected in certain parts of the country after 4pm
+
+*2024-01-23 07:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96637/showers-expected-in-certain-parts-of-the-country-after-4pm) · `en`
+
+The Department of Meteorology says showers or thundershowers may occur at a few places in Sabaragamuwa Province and in Galle and Matara districts after 4.00 p.m.
+
+Mainly fair weather will prevail in the other areas of the island, it said.
+
+There is a possibility of ground frost at some places in Nuwara-Eliya district during the early hours of the morning.
+
+Misty conditions can be expected at some places in Sabaragamuwa and Central provinces and in Galle and Matara districts during the morning.
+
+◼️
+
+[Data](articles/5ee3f14c.json)
+
+---
+
+### Ground frost possible at some places in Nuwara-Eliya district during early hours
+
+*2024-01-23 07:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ground-frost-possible-at-some-places-in-Nuwara-Eliya-district-during-early-hours/108-275551) · `en`
+
+Colombo, Jan 23 (Daily Mirror) - The forecasting division of the National Meteorological Centre said today that there is a possibility of ground frost at some places in the Nuwara-Eliya district during the early hours of the morning.
+
+Misty conditions can be expected at some places in the Sabaragamuwa and Central Provinces and in the Galle and Matara districts during the morning.
+
+Meanwhile, showers or thundershowers may occur at a few places in the Sabaragamuwa Province and in the Galle and Matara districts after 4 p.m.
+
+Mainly fair weather will prevail in the other areas of the island.
+
+◼️
+
+[Data](articles/a4b43286.json)
+
+---
+
+### Major 7.0 earthquake hits China-Kyrgyzstan border
+
+*2024-01-23 07:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96636/major-70-earthquake-hits-china-kyrgyzstan-border) · `en`
+
+A major 7.0-magnitude earthquake struck along the mountainous China-Kyrgyzstan border on Tuesday (Jan 23), triggering warnings of potentially widespread damage though no casualties were immediately reported.
+
+Local authorities dispatched a team to reach the quake’s epicentre, the Xinhua state news agency said, while some 800 people were on stand-by ready for any large disaster relief mission.
+
+The quake was registered just after 2:00 am at a depth of 13km in China’s Xinjiang region, some 140km west of the city of Aksu.
+
+Two residential houses and livestock sheds collapsed in the area near the epicentre, in rural Wushi County, Xinhua reported, while electricity was temporarily knocked out.
+
+Local TV channels in the Indian capital New Delhi reported strong tremors in the city, about 1,400km away.
+
+One Aksu resident told Xinhua that people rushed outside for safety amid the shaking, despite the frigid early morning temperatures hovering around -10°C.
+
+...
+
+[Data](articles/280e9d47.json)
+
+---
 
 ### SMS ‘e-Referendum’ on the Online Safety Bill launched
 
@@ -1915,103 +2005,5 @@ She finished with 470 runs in the year, scoring at a quicker-than-usual strike-r
 [Data](articles/f13480c0.json)
 
 [Extended Data](ext_articles/f13480c0.ext.json)
-
----
-
-### Our Chamari is a perfect place from ICC
-
-*2024-01-22 16:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192436) · `si`
-
-The International Cricket Council, the team, has been named cricketers of Twenty Twenty20.
-
-The leader of the team is noteworthy, the leader of the Sri Lankan team to the captain of the Sri Lankan team.
-
-◼️
-
-[Data](articles/6dc101c5.json)
-
-[Extended Data](ext_articles/6dc101c5.ext.json)
-
----
-
-### Online Safety Bill approved by Sectoral Oversight Committee on Media
-
-*2024-01-22 16:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-approved-by-Sectoral-Oversight-Committee-on-Media/108-275503) · `en`
-
-Parliament, Jan. 22 (Daily Mirror)- The Online Safety Bill was approved by the Sectoral Oversight Committee on Media, Youth, Heritage and New Citizen subject to the amendments determined by the Supreme Court, the Communications Department of Parliament said.
-
-The bill was approved when the Sectoral Oversight Committee met in Parliament today (22) under the chairmanship of Parliamentarian Lalith Warankumara.
-
-The bill will be taken for the second reading debate tomorrow.
-
-Officials representing the Ministry of Public Security, the Attorney General's Department, the Legal Draftsman’s Department, Sri Lanka Police and the National Secretariat of Non-Governmental Organizations joined the meeting.
-
-The members of the committee, Gayantha Karunathilake, Jayantha Katagoda, Sanjeeva Edirimanna, Jagath Samarawickrama and S. M. M. Musharraf were present at the meeting
-
-...
-
-[Data](articles/9410b184.json)
-
-[Extended Data](ext_articles/9410b184.ext.json)
-
----
-
-### Bauchy Todelwatte incident
-
-*2024-01-22 16:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192435) · `si`
-
-A video of a group of people attacking a youth in the Wellawatte area in Wellawatte is being attacked by the police.
-
-The following CCTV shows how the young man is near the road and a group of people attacking the site.
-
-Should not take immediate attention to the law enforcement authorities in this regard?
-
-◼️
-
-[Data](articles/5cc07cbd.json)
-
-[Extended Data](ext_articles/5cc07cbd.ext.json)
-
----
-
-### Sri Lanka stocks close down, Windforce pushes turnover
-
-*2024-01-22 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-windforce-pushes-turnover-148238/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Monday, data on its site showed.
-
-The All Share Price Index was down 0.59 percent, or 61.16 points, at 10,371.
-
-The S&P SL20 index was down 0.94 percent, or 27.84 points, at 2,922.
-
-A large trade in renewable energy provider, Windforce Plc, contributed the most (492mn) to the day’s turnover, and the share closed up at 19.40.
-
-Renuka Foods Plc, an agribusiness company that manufactures and markets coconut products, also saw high turnover (120mn), and closed up at 16.90.
-
-Banks saw selling pressure, especially heavyweights Commercial Bank of Ceylon Plc (down at 87.90), Sampath Bank Plc (down at 66.90) and DFCC Bank Plc (down at 75.00).
-
-◼️
-
-[Data](articles/e0b1ac6c.json)
-
-[Extended Data](ext_articles/e0b1ac6c.ext.json)
-
----
-
-### Drug Eradication Division Inquiry into Attorney -at -Law ASP
-
-*2024-01-22 16:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174534) · `ta`
-
-The Bribery Commission has launched a comprehensive investigation against a lawyer who tried to bribe an Assistant Superintendent of Police of the Drug Eradication Unit, which is being investigated against Ganemulla Sanjeeva, the leader of the underworld and a massive drug trafficker.
-
-The Bribery Commission has also received a telephone number on the attempt to bribe the Assistant Superintendent of Police of the Drug Eradication Unit.
-
-Meanwhile, a special police investigation has been carried out in this regard, according to police headquarters.
-
-◼️
-
-[Data](articles/e846b523.json)
-
-[Extended Data](ext_articles/e846b523.ext.json)
 
 ---

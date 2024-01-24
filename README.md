@@ -1,36 +1,104 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 09:33:14**
+As of **2024-01-24 09:52:02**
 
 ## Newspaper Stats
 
-*Scraped **2,210** Articles*
+*Scraped **2,225** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 33
 bbccomsinhala | 44
 dbsjeyarajcom | 122
-islandlk | 123
 newsfirstlk | 124
 economynextcom | 132
+islandlk | 133
 adaderanasinhalalk | 152
 dailyftlk | 181
 adalk | 222
-virakesarilk | 240
-adaderanalk | 276
-tamilmirrorlk | 277
+virakesarilk | 242
+adaderanalk | 277
+tamilmirrorlk | 279
 dailymirrorlk | 284
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,210 (100.0%) of 2,210 articles have been extended.
+2,210 (99.3%) of 2,225 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### கிளிநோச்சியில் பஸ் - வேன் விபத்து ; ஒருவர் பலி ; 9 பேர் காயம்
+
+*2024-01-24 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/174655) · `ta`
+
+கிளிநொச்சி ஏ.09 வீதியின் ஆனையிறவு பகுதியில் இன்று புதன்கிழமை (24) அதிகாலை 4.45 மணியளவில் இடம் பெற்ற வாகன விபத்தில் ஒருவர் உயிரிழந்ததுடன் ஒன்பது பேர் வரையில் காயமடைந்துள்ளனர்.
+
+யாழ்ப்பாணத்தில் இருந்து கண்டி நோக்கி பயணித்த இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பஸ் ஒன்று  வீதியில் சென்று கொண்டிருந்த எருமை மாடுகளுடன் மோதியதுடன்  எதிரே வந்த கயஸ் வேனிலும் மோதி குறித்த விபத்து இடம் பெற்றுள்ளது.
+
+இந்த விபத்தின் போது கயஸ் வாகனத்தில் பயணித்த ஒருவர் சம்பவ இடத்தில் உயிர் இழந்துள்ளதுடன், இரண்டு சிறுவர்கள் உட்பட 9 பேர் படுகாயமடைந்துள்ளனர்.
+
+இவர்களில்  இரண்டு பேர் ஆபத்தான நிலையில்  மேலதிக சிகிச்சைகளுக்காக யாழ்ப்பாணம்  போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளதுடன், ஏனையவர்கள் கிளிநொச்சி  மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/8c5b3b3c.json)
+
+---
+
+### Beliatta mass shooting: Vehicle used by assailants found parked near Pirivena
+
+*2024-01-24 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96679/beliatta-mass-shooting-vehicle-used-by-assailants-found-parked-near-pirivena) · `en`
+
+The vehicle believed to have been used by the assailants complicit in the Beliatta shooting incident that killed five individuals has been found while parked near the Vidyaloka Pirivena in Galle.
+
+On Tuesday (Jan.23), a group of persons who had arrived in a double-cab had opened fire at a Defender near the Beliatta Interchange of the Southern Expressway.
+
+In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he had succumbed to injuries shortly after.
+
+Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of People Party or OPPP) Saman Perera.
+
+◼️
+
+[Data](articles/9d2c18c7.json)
+
+---
+
+### தெற்கு அதிவேக வீதியில் கடும் பனி மூட்டம்  ; வாகன சாரதிகள் அவதானம்
+
+*2024-01-24 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174654) · `ta`
+
+தெற்கு அதிவேக நெடுஞ்சாலையில் பின்னதுவ மற்றும் வெலிபென்ன இடைமாறும் பகுதியில் கடந்த இரண்டு நாட்களாக கடும் பனிமூட்டம் நிலவி வருகிறது.
+
+இதன் காரணமாக, தெற்கு அதிவேக வீதியை  பயன்படுத்தும் வாகன சாரதிகளை அவதானமாக இருக்குமாறும் அதிவேகமாக பயணிப்பதை தவிர்க்குமாறும் பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/582baff2.json)
+
+---
+
+### மட்டக்களப்பில் 13 நாட்களேயான பெண் குழந்தை மரணம்
+
+*2024-01-24 09:00:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பில்-13-நாட்களேயான-பெண்-குழந்தை-மரணம்/73-332044) · `ta`
+
+மட்டக்களப்பு தலைமையக பொலிஸ் பிரிவில் உள்ள இருதயபுரம் பகுதியில் பால் புரைக்கேறி 13 நாட்களேயான பெண் குழந்தை உயிரிழந்த சம்பவம் திங்கட்கிழமை (22) இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குழந்தை பிறந்து 13 நாட்களாகிய நிலையில் குழந்தைக்கு மாலை வேளையில், தாயார் பால் கொடுத்த போது குழந்தைக்கு பால் புரைக்கேறி உயிரிழந்துள்ளது.
+
+அவர் சற்று மனநிலை பாதிக்கப்பட்டிருப்பதை கண்டறிந்து அவரை வைத்தியசாலையில் அனுமதித்ததுடன், குழந்தையின் சடலத்தை வைத்தியசாலையில் பிரேத பரிசோதனைக்காக ஒப்படைத்தனர்.
+
+இந்த நிலையில் குழந்தை பால் புரைக்கேறி உயிரிழந்துள்ளதாக சட்ட வைத்திய அறிக்கையில் தெரிவிக்கப்பட்டுள்ளதாகவும் சடலத்தை உறவினரிடம் ஒப்படைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/99c813de.json)
+
+---
 
 ### Cardinal Ranjith files petition challenging Anti-Terrorism Bill
 
@@ -564,6 +632,18 @@ and businesses will see more value as a result and that will drive the transform
 
 ---
 
+### இடமாற்றங்களை செயற்படுத்துமாறு அறிவுறுத்தல்
+
+*2024-01-24 03:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடமாற்றங்களை-செயற்படுத்துமாறு-அறிவுறுத்தல்/175-332043) · `ta`
+
+2024 ஆம் ஆண்டிற்காக வழங்கப்பட்டுள்ள இடமாற்றங்களை உடனடியாக செயற்படுத்துமாறு அனைத்து அமைச்சுகளின் செயலாளர்கள் மற்றும் திணைக்கள பிரதானிகளுக்கு பொதுச்சேவைகள் ஆணைக்குழுவினால் அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/c3b46fbd.json)
+
+---
+
 ### On February 23, 24
 
 *2024-01-24 03:29:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-23-24-இல்-கச்சதீவு-அந்தோனியார்-திருவிழா/175-332042) · `ta`
@@ -749,6 +829,84 @@ He told Parliament that there are no legal provisions in Sri Lanka to protect th
 [Data](articles/a6d5a618.json)
 
 [Extended Data](ext_articles/a6d5a618.ext.json)
+
+---
+
+### People’s Bank unveils 2024 calendar driven by AI technology
+
+*2024-01-23 23:00:00* · [`islandlk`](http://island.lk/peoples-bank-unveils-2024-calendar-driven-by-ai-technology/) · `en`
+
+People’s Bank, at the forefront of digital banking in Sri Lanka, proudly revealed its 2024 calendar infused with cutting-edge AI technology. In its relentless pursuit of delivering the most advanced digital banking services, the bank has launched this unique calendar with the purpose of offering yet another exceptional experience to its valued customers.
+
+The People’s Bank 2024 calendar, themed ‘Our Ocean – Our Pride,’ emphasizes the significance of conserving oceans and their diverse life forms. Featuring captivating images of blue whales, turtles, dolphins, and coral reefs, the calendar delivers a visual journey into marine beauty. By downloading the Overly App from the Google Play Store or Apple App Store and scanning the People’s Bank calendar, customers gain access to live videos enhanced by AI technology. This interactive experience allows users to explore additional information about the calendar’s contents.
+
+...
+
+[Data](articles/2ad4c161.json)
+
+---
+
+### 
+
+*2024-01-23 22:58:00* · [`islandlk`](http://island.lk/148694-2/) · `en`
+
+Investor anxiety over IMF’s third tranche triggers panic-selling of shares
+
+The stock market was gripped by panic- selling of shares yesterday as investors agonized over the possibility of Sri Lanka being unable to obtain the third IMF tranche of US $ 333 million, following the second review, stock market analysts said.
+
+The IMF expects Sri Lanka to reach a deal with commercial creditors by the next review, Senior Mission Chief Peter Breuer said last week.
+
+Amid those developments both indices moved downwards. The All- Share Price Index went down by 83 points and S and P SL20 declined by 22 points. Turnover stood at Rs 700 million minus crossings.
+
+...
+
+[Data](articles/46a01257.json)
+
+---
+
+### ‘SL making no attempt to put Chinese swap to use despite meeting pre-condition’
+
+*2024-01-23 22:58:00* · [`islandlk`](http://island.lk/sl-making-no-attempt-to-put-chinese-swap-to-use-despite-meeting-pre-condition/) · `en`
+
+Sri Lanka is not making any attempts as yet to put its currency swap worth USD 1.4 billion with China to ‘usable’ form, even though the country has now met the pre-condition that qualifies it to do so, CBSL Governor Dr. Nandalal Weerasinghe revealed yesterday.
+
+CBSL and People’s Bank of China entered into a currency swap agreement for Chinese Yuan 10 billion (USD 1.4 billion) in March 2021, valid for three years, with a view to promoting bilateral trade and direct investment for economic development.
+
+However, as per conditions imposed by China to which Sri Lanka had agreed, the latter cannot use the funds, but was only allowed to use it when the CBSL officially declares its foreign reserve levels.
+
+In August 2022, Ranil Wickremesinghe as the country’s new President, after the exit of former president Gotabaya Rajapakse, told parliament that Sri Lanka was required to have enough foreign reserves to cover three months of imports to be able to utilize this Chinese swap.
+
+...
+
+[Data](articles/8c1eaa33.json)
+
+---
+
+### Daraz launches first-ever Free Delivery Festival to set new e-commerce benchmarks in 2024
+
+*2024-01-23 22:53:00* · [`islandlk`](http://island.lk/daraz-launches-first-ever-free-delivery-festival-to-set-new-e-commerce-benchmarks-in-2024/) · `en`
+
+Daraz, South Asia’s leading online e-commerce platform, starts off the new year with the first-ever Daraz Free Delivery Festival. Taking place from 27th January 2024, shoppers can enjoy free delivery islandwide on millions of items across fashion, beauty, home and decor, and more. This initiative further reinforces Daraz’s commitment to communities across South Asia, showcasing the development and optimisation of infrastructure and advanced technology to ensure seamless nationwide delivery and easy access to goods.
+
+...
+
+[Data](articles/793baf93.json)
+
+---
+
+### Global Education Exhibition to be held in Negombo from February 2 to 4
+
+*2024-01-23 22:53:00* · [`islandlk`](http://island.lk/global-education-exhibition-to-be-held-in-negombo-from-february-2-to-4/) · `en`
+
+Maris Stella College Negombo, Old Boys Association (OBA), recently announced the launch of Edura Global Education Fest 2024, featuring an Education Exhibition, Job Fair, and Book Fair.
+
+Under the theme “Global Education Fest,” this three-day event will be held from February 2 to 4, 2024, at Maris Stella College premises in Negombo. The event will also host a Book Fair from February 2 to 6, showcasing leading stationery suppliers and publishers.
+
+Edura 2024 aims to be the premier platform bridging the gap in students’ pursuit of higher education, offering a unique opportunity for local and international universities, foreign university placements, student transfer options, and job seekers.
+
+...
+
+[Data](articles/7f1ead60.json)
 
 ---
 
@@ -1756,7 +1914,7 @@ Therefore, the commissioner urged vehicle users to transfer ownership to the act
 
 ECONOMYNEXT – Sri Lanka might lose access to international platforms such as Google and Meta (formerly Facebook) with the introduction of the Online Safety Bill, Member of Parliament Eran Wickremeratne said in parliament.
 
-“Once this law is introduced, they will review the offences they would be accused of and most likely close up its access to users in Sri Lanka. Further, if the Sri Lankan government requests for certain information from Google, they will most likely not comply anymore as it may be self incriminating,” Wickremeratne said on Tuesday (22) when the bill was  being debated.
+“Once this law is introduced, they will review the offences they would be accused of and most likely close up its access to users in Sri Lanka. Further, if the Sri Lankan government requests for certain information from Google, they will most likely not comply anymore as it may be self incriminating,” Wickremeratne said on Tuesday (23) when the bill was being debated.
 
 He was responding to the opening statement to the bill presented by Minister of Public Security Tiran Alles.
 
@@ -1825,211 +1983,5 @@ Meanwhile, the General Measuring Authorities (AGC) has ordered the heads of the 
 [Data](articles/478cae37.json)
 
 [Extended Data](ext_articles/478cae37.ext.json)
-
----
-
-### Sri Lanka CB warns against using personal bank accounts for business
-
-*2024-01-23 17:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-warns-against-using-personal-bank-accounts-for-business-148438/) · `en`
-
-ECONOMYNEXT – The Central Bank said that it was considering legal action against registered limited liability companies that were using personal bank accounts to conduct business for the purpose of tax evasion.
-
-The Central Bank issued a warning against the misuse of personal accounts for ‘illegal activities’, last week (15).
-
-“The reason for that was that we received complaints from banks that clients who had registered a business were conducting transactions not through the account established for that purpose, but through their personal accounts. This could most probably be for tax evasion purposes,” Enoka Mohotty Director of the FIU said.
-
-“We have written to the Finance Ministry, and are in discussions with the Inland Revenue Department and the Registrar of Companies on what possible legal action can be taken,” Mohotty said in reply to question by a journalist at the central bank’s Monetary Policy Review No. 01 of 2024, held on Tuesday (23).
-
-...
-
-[Data](articles/35debf6e.json)
-
-[Extended Data](ext_articles/35debf6e.ext.json)
-
----
-
-### Sri Lanka Treasuries yields fall across maturities
-
-*2024-01-23 17:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-fall-across-maturities-148478/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasuries yields fell across maturities at Monday’s auction with strong demand seen for 3 and 6 month bills, data from the state debt office showed.
-
-The debt office sold 37 billion rupees in 3-month bills at 13.35 percent, down 56 basis points from a week earlier after offering 30 billion.
-
-87.6 billion rupees in 6-month bills were sold at 13.41 percent, down 42 basis points after offering 70 billion rupees.
-
-Only 4.6 billon rupees in 12-month bills were sold, at 12.78 percent, down 14 basis points. (Colombo/Jan23/2024)
-
-◼️
-
-[Data](articles/4c0c9994.json)
-
-[Extended Data](ext_articles/4c0c9994.ext.json)
-
----
-
-### Sri Lanka Treasuries yields fall across maturities
-
-*2024-01-23 17:34:00* · [`economynextcom`](https://economynext.com/sri-lanka-treasuries-yields-fall-across-maturities-148475/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Treasuries yields fell across maturities at Monday’s auction with strong demand seen for 3 and 6 month bills, data from the state debt office showed.
-
-The debt office sold 37 billion rupees in 3-month bills at 13.35 percent, down 56 basis points from a week earlier after offering 30 billion.
-
-87.6 billion rupees in 6-month bills were sold at 13.41 percent, down 42 basis points after offering 70 billion rupees.
-
-Only 4.6 billon rupees in 12-month bills were sold, at 12.78 percent, down 14 basis points. (Colombo/Jan23/2024)
-
-◼️
-
-[Data](articles/74db7976.json)
-
-[Extended Data](ext_articles/74db7976.ext.json)
-
----
-
-### Sri Lanka rupee closes at 319.80/95 to the US dollar
-
-*2024-01-23 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-319-80-95-to-the-us-dollar-148451/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 319.80/95 to the US dollar on Tuesday, from 319.90/320.05 the previous day, dealers said.
-
-A bond maturing on 01.02.2026 closed at 13.30/40 percent from 13.50/60 percent.
-
-A bond maturing on 15.09.2027 closed at 13.60/75 percent from 13.75/85 percent.
-
-A bond maturing on 15.03.2028 closed at 13.85/95 percent from 14.00/14.05 percent.
-
-A bond maturing on 15.07.2029 closed at 13.95/14.10 percent from 14.10/25 percent.
-
-A bond maturing on 15.05.2030 closed at 13.95/14.05 percent from 14.00/15 percent.
-
-A bond maturing on 01.07.2032 closed at 14.05/20 percent from 14.10/30 percent. (Colombo/Jan23/2024)
-
-◼️
-
-[Data](articles/a9801dfa.json)
-
-[Extended Data](ext_articles/a9801dfa.ext.json)
-
----
-
-### Chamari leads ICC Women’s ODI Team of the Year
-
-*2024-01-23 17:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96665/chamari-leads-icc-womens-odi-team-of-the-year) · `en`
-
-Sri Lankan all-rounder and Women’s Team Captain Chamari Athapaththu, who showcased exceptional skills as a player in the ODI format throughout the year, has been named as the captain of the ICC Women’s ODI Team of the Year for 2023.
-
-Meanwhile, on Monday (Jan 22), Athapaththu was also honoured with the team captaincy of the ICC Women’s T20I Team of the Year for 2023.
-
-The ICC Women’s ODI Team of the Year for 2023 is as follows:
-
-Chamari Athapaththu showcased exceptional skills as a player in the ODI format throughout the year.
-
-Her standout moment came in the series decider against New Zealand, where she played a stunning unbeaten 140 off just 80 balls, leading her team to a historic victory after a shaky start in the chase.
-
-...
-
-[Data](articles/56c6fe66.json)
-
-[Extended Data](ext_articles/56c6fe66.ext.json)
-
----
-
-### The government has no intention of suppressing the media;Social media will definitely be monitored - Minister of Public Safety
-
-*2024-01-23 17:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/174630) · `ta`
-
-The Unity Backup Bill is not prepared to suppress the media. The misbehavior of social media will be monitored. Public Defense Minister Tran Ales said that the special cabinet paper will be forwarded soon on the ideas put forward by the National and International Organization.
-
-◼️
-
-[Data](articles/944ab9bd.json)
-
-[Extended Data](ext_articles/944ab9bd.ext.json)
-
----
-
-### Iranian falls from moving train
-
-*2024-01-23 16:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Iranian-falls-from-moving-train/108-275581) · `en`
-
-Badulla, Jan 23 (Daily Mirror) - An Iranian tourist who fell off the Badulla bound Podimenike Express from Colombo at Ohiya was seriously injured and admitted to the Badulla Teaching Hospital.
-
-The 29 year old tourist was on a trip to Ella. The injured who was brought by train to Haputale railway station was rushed to thr Diyatalawa Hospital and later transferred to the Badulla Teaching Hospital.
-
-Haputale police are conducting investigations on the instructions of ASP Ruwan Fernando.
-
-◼️
-
-[Data](articles/cb384394.json)
-
-[Extended Data](ext_articles/cb384394.ext.json)
-
----
-
-### SC concludes hearing of Harin and Manusha’s petition, verdict deferred
-
-*2024-01-23 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96664/sc-concludes-hearing-of-harin-and-manushas-petition-verdict-deferred-) · `en`
-
-The Supreme Court on Tuesday (23 Jan.) concluded the hearing of the petition filed by Ministers Manusha Nanayakkara and Harin Fernando, challenging the decision taken by Samagi Jana Balawegaya (SJB) to oust them from the party and disqualify them of their parliamentary seats.
-
-The hearing was concluded by a three-judge bench of the Supreme Court comprising of Justices Vijith Malalgoda, Achala Wengappuli and Arjuna Obeysekera, when the case was taken up in court this morning, and it was declared that the verdict would be deferred, indefinitely.
-
-Appearing on behalf of Minister Nanayakkara during the hearing, President’s Counsel Faizer Mustapha informed the court that as per the constitution of the SJB, taking disciplinary action against its members is a responsibility entitled to the party’s Working Committee, and not one that has been devolved to the party leader.
-
-...
-
-[Data](articles/0076958a.json)
-
-[Extended Data](ext_articles/0076958a.ext.json)
-
----
-
-### Court rules over EPF and ETF petitions
-
-*2024-01-23 16:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192477) · `si`
-
-The Supreme Court today (23), the Supreme Court today (23) was held today (23) to summon the fundamental rights petitions filed by the Employees Provident Fund and the Employees' Trust Fund.
-
-Perth S. The three-member Supreme Court Judge of Thurairaja, Shiran Gunaratne and Mahinda Samayawardena were called before the Supreme Court Bench.
-
-Additional Solicitor General Viraj Dayaratne appearing on behalf of the Attorney General said that these petitions would be heard without being heard without being heard without being heard.
-
-The Additional Solicitor General the General said that several petitions filed before the Supreme Court have been dismissed by the Supreme Court.
-
-The petitions were presented by 04 parties including Anton Marcus, including Anton Marcus, Katunayake Free Trade Zone Employees Union.
-
-◼️
-
-[Data](articles/a4311a7c.json)
-
-[Extended Data](ext_articles/a4311a7c.ext.json)
-
----
-
-### Sri Lanka stocks close down, JKH drives turnover
-
-*2024-01-23 16:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-jkh-drives-turnover-148445/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down on Tuesday, data on its site showed.
-
-The All Share Price Index was down 0.89 percent, or 92.60 points, at 10,279.
-
-The S&P SL20 index was down 0.86 percent, or 25.09 points, at 2,901.
-
-Turnover was at 978 million. Trades in the capital goods industry (242mn) contributed the most.
-
-Trading in John Keells Holdings Plc contributed the most (210mn) to the day’s turnover, and the share closed down at 179.75.
-
-Other companies that saw selling pressure were Expolanka Holdings Plc (down at 133.25) and Richard Pieris and Company Plc (down at 21.00).
-
-Positive contributors to the ASPI, albeit marginally, were Asiri Surgical Hospital Plc (up at 12.80), Chevron Lubricants Lanka Plc (up at 94.00) and Brown and Company Plc (up at 97.00).
-
-◼️
-
-[Data](articles/4a473156.json)
-
-[Extended Data](ext_articles/4a473156.ext.json)
 
 ---

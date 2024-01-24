@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 11:17:18**
+As of **2024-01-24 11:33:16**
 
 ## Newspaper Stats
 
-*Scraped **2,260** Articles*
+*Scraped **2,262** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 122
 newsfirstlk | 127
 economynextcom | 132
 islandlk | 133
-adaderanasinhalalk | 157
+adaderanasinhalalk | 159
 dailyftlk | 181
 adalk | 226
 virakesarilk | 247
@@ -26,27 +26,29 @@ dailymirrorlk | 290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,244 (99.3%) of 2,260 articles have been extended.
+2,260 (99.9%) of 2,262 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### வாழைச்சேனையில் காட்டு யானையால் தாக்கப்பட்டு வர்த்தகர் உயிரிழப்பு
+### Wild elephant attacked in banana
 
 *2024-01-24 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174664) · `ta`
 
-வாழைச்சேனை, வெலிகந்த செவனப்பிட்டிய நகருக்கு அருகில் காட்டு யானை தாக்கியதில் வர்த்தகர்  ஒருவர்  உயிரிழந்துள்ளார்.
+A businessman has died after a wild elephant attacked near Sevanapitiya, Welikanda, Valaichenai.
 
-குறித்த நபர் இன்று புதன்கிழமை (24) வியாபாரம் செய்யச் சென்றபோதே இந்தச் சம்பவம் இடம்பெற்றுள்ளதாக  மன்னம்பிட்டிய பொலிஸார் தெரிவிக்கின்றனர்.
+The incident took place when the man went to business on Wednesday (24), Manampitiya police said.
 
-விநாயகபுரம்,  பகுதியைச் சேர்ந்த  48  வயதுடைய ஆறு பிள்ளைகளின் தந்தையான முருகேசு முனியாண்டி என்பவரே இவ்வாறு உயிரிழந்துள்ளதாக விசாரணைகளை மேற்கொண்டுவரும் மன்னம்பிட்டிய பொலிஸார் தெரிவித்தனர்.
+The deceased is Murukesu Muniyandi, the father of six -year -old children from Vinayagapuram and the area, said Manampitiya police.
 
-செவனப்பிட்டி சந்தைக்கு தனது குடும்பத்துடன்  பொருட்களை விற்பனை செய்வதற்காக  அவர் சென்று கொண்டிருந்தபோதே காட்டு யானைத் தாக்குதலுக்கு இலக்காகி மனம்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டபோது உயிரிழந்துள்ளதாக விசாரணைகளை மேற்கொண்ட பொலிஸார் தெரிவித்துள்ளனர்.
+Investigations have said that he was killed when he was on his way to the Sevanapitiya market to sell goods with his family and was admitted to the Manampitiya Hospital in Manampitiya.
 
 ◼️
 
 [Data](articles/b97bc3fb.json)
+
+[Extended Data](ext_articles/b97bc3fb.ext.json)
 
 ---
 
@@ -68,25 +70,63 @@ Meanwhile, he also said that although the salaries of government employees are i
 
 [Data](articles/8451cfee.json)
 
+[Extended Data](ext_articles/8451cfee.ext.json)
+
 ---
 
-### தொடர்ந்து உச்சம் தொடும் மரக்கறிகளின் விலை
+### ඩොනල්ඩ් ට්‍රම්ප් තවත් ඉදිරියට
+
+*2024-01-24 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192502) · `si`
+
+රිපබ්ලිකන් පක්ෂයේ ජනාධිපති අපේක්ෂකයා වීමේ අවස්ථාව තමා වෙත තවදුරටත් ආසන්න කර ගැනීමට හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සමත්විය.
+
+ඒ තම ප්‍රතිවාදියා වන නිකී හේලි පරදවා නිව් හැම්ෂයර් කොට්ඨාසය ජයග්‍රහණය කරමිනි.
+
+◼️
+
+[Data](articles/97b69380.json)
+
+---
+
+### The price of vegetables that are constantly touched
 
 *2024-01-24 10:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-உச்சம்-தொடும்-மரக்கறிகளின்-விலை/175-332050) · `ta`
 
-நுவரெலியாவில் உற்பத்தி செய்யப்படுகின்ற மரக்கறிகளுக்கான விலைகள் தொடர்ச்சியாக விலை ஏற்றம் கண்டு வருகிறது.
+Prices for vegetables produced in Nuwara Eliya are continuously rising.
 
-அதேநேரத்தில் கரட்டுக்கான விலை நாளுக்கு நாள் உயர்ந்து கொண்டு செல்லப்பட்டுவதை அவதானிக்கக் கூடியதாக இருக்கிறது.
+At the same time, the price of bear is rising day by day.
 
-அந்த வகையில் நுவரெலியா  பொருளாதார மத்திய நிலைய சந்தையில் நுவரெலியா கரட்டுக்கு தொடர்ச்சியாக தட்டுப்பாடு நிலவுவதாகவும் தெரிவிக்கப்படுகிறது.
+It is also reported that there is a continuous shortage of Nuwara Eliya Karat at the Nuwara Eliya Economic Center market.
 
-மேலும் இன்று (24.01.2023) காலை நுவரெலியா பொருளாதார மத்திய நிலைய காரியாலயம் மரக்கறிகளுக்கான விலை பட்டியலை வெளியிட்டுள்ளது.
+The Nuwara Eliya Economic Center office has released a list of vegetables this morning (24.01.2023).
 
-அதனடிப்படையில் கரட கிலோ கிராம் ஒன்றின் மொத்த விற்பணை விலை 1250/=ரூபா என அறிவித்துள்ளது.
+Accordingly, the total sales price of a bear is Rs 1250/=.
 
 ◼️
 
 [Data](articles/3ba148c4.json)
+
+[Extended Data](ext_articles/3ba148c4.ext.json)
+
+---
+
+### ධීවරයින් 7 දෙනෙකුට මරණ දණ්ඩනය නියම කෙරේ
+
+*2024-01-24 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192501) · `si`
+
+ධීවර යාත්‍රාවක් පැහැරගෙන ධීවරයින් තිදෙනෙකු ඝාතනය කිරීම සම්බන්ධයෙන් ධීවරයින් හත්දෙනෙකුට කොළඹ මහාධිකරණය මරණ දඬුවම නියම කර තිබේ.
+
+2012.10.15 දින හෝ ඊට ආසන්න දිනයක දී නීතිවිරෝධී ලෙස ශ්‍රී ලංකා මුහුදු තීරයේ ධීවර රැකියාවක නිරත වූ පුද්ගලයින් රැගත් 'තේජාන්' නැමති ධීවර යාත්‍රාව පැහැරගෙන එහි සිටි ධීවරයින් තිදෙනෙකු ඝාතනය කර තවත් ධීවරයින් කිහිපදෙනෙකුට බරපතළ තුවාල සිදුකර බෝට්ටුව පැහැරගෙන ඔස්ට්‍රේලියාවට යෑම ඇතුළු චෝදනාවලට වරදකරුවන් වූ ධීවරයින් 7 දෙනෙකුට අද (24) කොළඹ මහාධිකරණ විනිසුරු අධිත්‍ය පටබැඳිගේ මහතා විසින් අදාළ නියෝගය ලබා දී ඇත.
+
+එම නඩුවේ 10 වන විත්තිකාරිය ලෙස නම් කර තිබු විත්තිකාරිය සියලු චෝදනාවලින් නිදොස් කොට නිදහස් කිරීමට ද මහාධිකරණ විනිසුරුවරයා නියෝග කළේය.
+
+මරණීය දණ්ඩනය නියම කළ අධි චෝදනා තුනට අමතරව සෙසු අධි චෝදනා 6ට එම විත්තිකරවන්ට බරපතළ වැඩ සහිත වසර 29ක සිරදඬුවම්ද නියම කළ විනිසුරුවරයා රුපියල් මිලියන 2යි රු 8500 බැගින් වූ දඩයක් ගෙවීමට ද නියම කළේය.
+
+මරණ දණ්ඩනයට අමතරව නියම කරනු ලැබූ සිරදඬුවම් එකවර ගෙවී යන ලෙසට ද විනිසුරුවරයා එහිදී නියම කළේය.
+
+...
+
+[Data](articles/a5808c4b.json)
 
 ---
 
@@ -109,6 +149,8 @@ Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 
 ◼️
 
 [Data](articles/2d6792b2.json)
+
+[Extended Data](ext_articles/2d6792b2.ext.json)
 
 ---
 
@@ -136,6 +178,8 @@ Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 
 
 [Data](articles/f976ccc8.json)
 
+[Extended Data](ext_articles/f976ccc8.ext.json)
+
 ---
 
 ### Seven fishermen sentenced to death over 2012 boat hijacking and triple murder
@@ -148,21 +192,25 @@ The Colombo High Court has handed death sentence to 7 fishermen who were convict
 
 [Data](articles/10f13b4e.json)
 
+[Extended Data](ext_articles/10f13b4e.ext.json)
+
 ---
 
-### பெலியத்த ஐவர் படுகொலை : சம்பவத்திற்கு பயன்படுத்திய வாகனம் மீட்பு
+### Beliatta five massacre: vehicle recovery used for the incident
 
 *2024-01-24 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174660) · `ta`
 
-பெலியத்த துப்பாக்கிச் சூட்டில் ஐந்து பேரை படுகொலை செய்த சம்பவத்திற்கு பயன்படுத்தியதாகக் கருதப்படும் வாகனம் காலி வித்யாலோக பிரிவேனாவுக்கு அருகில் நிறுத்தி வைக்கப்பட்டிருந்த நிலையில் கண்டுபிடிக்கப்பட்டுள்ளது.
+The vehicle, which was supposed to have been used for the murder of five people in the Beliatta firing, was found parked near the Galle Vidyaloka Port.
 
-செவ்வாய்க்கிழமை (23) காலை தெற்கு அதிவேக வீதியின் பெலியத்த வெளியேறும் பகுதிக்கு அருகில் டிபென்டர் வாகனத்தில் வந்த சிலர் வர்த்தக நிலையமொன்றுக்கு சென்ற சந்தர்ப்பத்தில் கெப் வாகனத்தில் வந்த குழுவினரால் துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டுள்ளது.
+On Tuesday morning (23), some people in a Defender vehicle near the Beliyatta exit of the Southern Expressway were fired by a group of people in a cab.
 
-துப்பாக்கிப் பிரயோகத்தில் நால்வர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதுடன், மற்றுமொருவர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்தார். உயிரிழந்தவர்களில் அபே ஜனபல கட்சியின் தலைவர் சமன் பெரேராவும் அடங்குவார்.
+Four people died on the spot and another man was admitted to hospital after being injured.. Among the casualties include Abe Janapala Party leader Saman Perera.
 
 ◼️
 
 [Data](articles/eb4845cd.json)
+
+[Extended Data](ext_articles/eb4845cd.ext.json)
 
 ---
 
@@ -175,6 +223,8 @@ State Minister of Finance Ranjith Siyambalapitiya has stated that measures are u
 ◼️
 
 [Data](articles/cb47658c.json)
+
+[Extended Data](ext_articles/cb47658c.ext.json)
 
 ---
 
@@ -196,17 +246,19 @@ The State Minister said that the project is being carried out using the biograph
 
 ---
 
-### ICC ලෝක කාන්තා එක්දින කණ්ඩායමේ නායකත්වයත් චමරිට
+### Chamari is captained World Women's Group ICC
 
 *2024-01-24 10:13:54* · [`adalk`](https://www.ada.lk/sports/ICC-ලෝක-කාන්තා-එක්දින-කණ්ඩායමේ-නායකත්වයත්-චමරිට/9-407700) · `si`
 
-2023 වසරට අදාළව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ප්‍රකාශයට පත්කළ වසරේ කාන්තා එක්දින කණ්ඩායමේ නායකත්වයට ශ්‍රී ලංකා නායිකා චමරි අතපත්තු නම් කර තිබේ.
+Sri Lanka Leader Chamari Atapattu has been named to lead the Women's ODI team in the year, published by the International Cricket Council in the year 2023.
 
-එම කණ්ඩායමේ ආරම්භක පිතිකාරිණිය ලෙසත් ඇය නම් කර තිබේ. එසේම ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ප්‍රකාශයට පත්කළ වසරේ කාන්තා විස්සයි20 කණ්ඩායමේ නායිකාව ලෙසද චමරි නම්කරනු ලැබීය.
+She has been named as the opening batsman of that group. Chamari was also named the leader of the Women T20 group of Twenta Year of the Year of the International Cricket Council.
 
 ◼️
 
 [Data](articles/24a48e7a.json)
+
+[Extended Data](ext_articles/24a48e7a.ext.json)
 
 ---
 
@@ -276,25 +328,29 @@ Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tir
 
 [Data](articles/09f6f72f.json)
 
+[Extended Data](ext_articles/09f6f72f.ext.json)
+
 ---
 
-### அநுரகுமாரவை சந்தித்தார் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா
+### Indian High Commissioner Santosh Ja meets Anuragumara
 
 *2024-01-24 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/174658) · `ta`
 
-தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்கவுக்கும் இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவிற்கும் இடையிலான சந்திப்பு கொழும்பில் இடம் பெற்றது.
+A meeting between National People's Power President Anura Kumara Dissanayake and Indian High Commissioner to Sri Lanka Santosh Ja were held in Colombo.
 
-இச் சந்திப்பு  செவ்வாய்க்கிழமை (23) பிற்பகல் கொழும்பிலுள்ள இந்திய உயர்ஸ்தானிகரின் அலுவலகத்தில் இடம்பெற்றது.
+The meeting was held on Tuesday (23) afternoon at the Indian High Commissioner's Office in Colombo.
 
-புதிய இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா, கடந்த டிசம்பர் மாதத்தில் இலங்கையில் தனது கடமைகளை ஆரம்பித்த பின்னர், முதற் தடவையாக தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்கவை சந்தித்து கலந்துரையாடியுள்ளார்.
+The new Indian High Commissioner Santosh Ja has met with the National People's Power Leader Anura Kumara Dissanayake for the first time since he started his duties in Sri Lanka last December.
 
-இந்த சந்திப்பின்போது, இலங்கையின் நடப்பு அரசியல் நிலைவரங்கள் குறித்தும் பொருளாதார நெருக்கடி தொடர்பாகவும் தேசிய மக்கள் சக்தியின் எதிர்கால அரசியல் வேலைத்திட்டங்கள் குறித்தும் கலந்துரையாடப்பட்டன.
+During the meeting, Sri Lanka's current political situation and the economic crisis and the future political programs of the National People's Power were discussed.
 
-இச்சந்திப்பில் தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் விஜித ஹேரத்தும் கலந்துகொண்டிருந்தார்.
+Vijitha Herath, a member of the National People's Power, was also present at the meeting.
 
 ◼️
 
 [Data](articles/42a9ad34.json)
+
+[Extended Data](ext_articles/42a9ad34.ext.json)
 
 ---
 
@@ -332,21 +388,23 @@ The youth has been arrested in the Ambatenna area in Kandy and he was a 22 year 
 
 ---
 
-### கிளிநொச்சியில் கோர விபத்து; ஒருவர் மரணம் - பலர் ஆபத்தான நிலையில்...
+### An accident in Kilinochchi;Death of One - In a dangerous ...
 
 *2024-01-24 09:45:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சியில்-கோர-விபத்து-ஒருவர்-மரணம்-பலர்-ஆபத்தான-நிலையில்/72-332049) · `ta`
 
-கிளிநொச்சி - உமையாள்புரம் பகுதியில் இன்று அதிகாலை 4.30 மணியளவில் இடம்பெற்ற விபத்தில் ஒருவர் பலியானதுடன் 8 பேர் படுகாயமடைந்துள்ளனர்.
+One person was killed and eight people were injured in an accident at around 4.30 am this morning in Kilinochchi.
 
-யாழிலிருந்து வவுனியா நோக்கி பயணித்த அரச பேருந்துடன், கொழும்பியிருந்து யாழ்ப்பாணம் நோக்கி  பயணித்த வேன் மோதி விபத்துக்குள்ளாகியுள்ளது.
+A van traveling from Colombo to Jaffna collided with a state bus traveling from Jaffna to Vavuniya.
 
-விபத்தில் வவுனியாவை சேர்ந்த 50 வயதுடைய திருமணி திருச்செல்வம் எனும் பெண் உயிரிழந்துள்ளதுடன், மேலும் 8 பேர் காயமடைந்துள்ளனர்.
+Thirumani Tiruchelvam, a 50 -year -old woman from Vavuniya, died and eight others were injured.
 
-காயமடைந்தவர்களில் ஐவர் கிளிநொச்சி வைத்தியசாலையின் தீவிர சிகிச்சைப்பிரிவில்  சிகிச்சை பெற்று வருவதாக வைத்தியசாலை தகவல்கள் தெரிவிக்கின்றனர்.
+Five of the injured are being treated in the intensive care unit of the Kilinochchi Hospital, hospital sources said.
 
 ◼️
 
 [Data](articles/3dfebbe6.json)
+
+[Extended Data](ext_articles/3dfebbe6.ext.json)
 
 ---
 
@@ -372,19 +430,21 @@ The court also announced that if the order violates, the police should take imme
 
 ---
 
-### பொதுமக்களுக்கு பொலிஸார் கூறிய சிறப்பான செய்தி
+### The best news made by the police to the public
 
 *2024-01-24 09:41:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களுக்கு-பொலிஸார்-கூறிய-சிறப்பான-செய்தி/175-332048) · `ta`
 
-சட்டவிரோத துப்பாக்கிகள் மற்றும் வெடிகுண்டுகளை வைத்திருப்பவர்கள் பற்றிய தகவல்களை வழங்குபவர்களுக்கு பணப் பரிசு வழங்க பொலிஸார் தீர்மானித்துள்ளனர்.
+Police have decided to provide cash prize to those who provide information about illegal guns and bombs.
 
-கடந்த ஆண்டு டிசம்பர் மாதம் 17ஆம் திகதி ஆரம்பிக்கப்பட்ட யுக்திய நடவடிக்கை வெற்றிகரமாக இடம்பெற்று வருவதுடன், இதற்காக தகவல் அளிப்பவர்களுக்கு ரொக்கப்பரிவு வழங்க  தீர்மானிக்கப்பட்டுள்ளது.
+The tactical operation, which began on December 17 last year, is being successful and it has been decided to provide cash in the information.
 
-அத்தகைய தகவல்களை வழங்கும் நபர்களின் ரகசியத்தன்மை பாதுகாக்கப்பட்டு, அவர்களுக்கு பரிசு வழங்கப்படவுள்ளது. R
+The confidentiality of the people who provide such information will be preserved and the prize will be given to them. Remble
 
 ◼️
 
 [Data](articles/05e9ee54.json)
+
+[Extended Data](ext_articles/05e9ee54.ext.json)
 
 ---
 
@@ -402,23 +462,25 @@ The premises of the Southern Expressway on the Southern Expressway. Police also 
 
 ---
 
-### பெலியத்த துப்பாக்கிச் சூடு: காலியில் கைவிடப்பட்ட வாகனம்
+### Beliatta firing: Abandoned vehicle in Galle
 
 *2024-01-24 09:33:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-துப்பாக்கிச்-சூடு-காலியில்-கைவிடப்பட்ட-வாகனம்/175-332047) · `ta`
 
-ஐந்து பேர் படுகொலை செய்யப்பட்ட பெலியத்த துப்பாக்கிச் சூட்டுச் சம்பவத்துக்கு உடந்தையாக இருந்தவர்கள் பயன்படுத்தியதாகக் கருதப்படும் வாகனம், காலி வித்யாலோக பிரிவேனாவுக்கு அருகில் நிறுத்தி வைக்கப்பட்டிருந்த நிலையில் கண்டுபிடிக்கப்பட்டுள்ளது.
+The vehicle, which is supposed to have been used by the complicity of the Beliatta firing, which was murdered by five, was found parked near the Galle Vidyaloka Port.
 
-தெற்கு அதிவேக நெடுஞ்சாலையின் பெலியத்த மாற்றுப்பாதைக்கு அருகில் நேற்று முன்தினம், டிஃபென்டர் மீது துப்பாக்கிச் சூடு நடத்தப்பட்டது.
+The firing was carried out yesterday, near the Beliyatha alternate lane on the Southern Highway.
 
-காலை 8:30 மணி முதல் 8:40 மணி வரை நடந்த துப்பாக்கிச் சூட்டில், 4 பேர் சம்பவ இடத்திலேயே பலியாகினர்.
+Four people were killed on the spot in the shooting from 8:30 am to 8:40 am.
 
-டிஃபென்டருக்குள் இருந்த மற்றைய நபர் படுகாயங்களுடன் தங்காலை வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட போதிலும், சிறிது நேரத்திலேயே அவர் உயிரிழந்துள்ளார்.
+The other person inside the Defender was taken to the Tangalle Hospital with injuries, but he died shortly after.
 
-இறந்தவர்களில் ‘அபே ஜன பல ’ கட்சியின் (எங்கள் மக்கள் கட்சி ) தலைவர் சமன் பெரேராவும் அடங்குவார்.
+The deceased includes Saman Perera, the leader of the Abe Jana Multiple Party (our People's Party).
 
 ◼️
 
 [Data](articles/9fb3faf0.json)
+
+[Extended Data](ext_articles/9fb3faf0.ext.json)
 
 ---
 
@@ -494,37 +556,41 @@ A young rugby coach has been arrested in Kandy, Kandy, police said.
 
 ---
 
-### யுக்தியவில் மேலும் 930 சந்தேக நபர்கள் கைது
+### 930 more suspects arrested in Yukti
 
 *2024-01-24 09:30:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-930-சந்தேக-நபர்கள்-கைது/175-332046) · `ta`
 
-நாடு தழுவிய போதைப்பொருள் எதிர்ப்பு நடவடிக்கையான ‘யுக்திய’வின்  ஒரு பகுதியாக இன்று (24) நள்ளிரவு 12.30 மணியுடன் முடிவடைந்த 24 மணி நேர நேரத்தில் மேலும் 930 சந்தேக நபர்கள் பாதுகாப்புப் படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+Another 930 suspects have been arrested by the security forces within 24 hours of today (24) at 12.30 pm as part of the Nationwide Anti -Narcotics Act.
 
-இந்த 24 மணிநேரத்தில், 425 கிராம் ஹெரோய்ன், 235 கிராம் ஐஸ் மற்றும் 4,351 போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளன.
+In this 24 hours, 425 grams of heroin, 235 grams of ice and 4,351 drug pills were seized.
 
 ◼️
 
 [Data](articles/f50697c1.json)
 
+[Extended Data](ext_articles/f50697c1.ext.json)
+
 ---
 
-### முதியவரை ஏமாற்றிய தம்பதியினர்
+### A couple who cheated the old man
 
 *2024-01-24 09:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முதியவரை-ஏமாற்றிய-தம்பதியினர்/72-332045) · `ta`
 
-கிளிநொச்சி பகுதியில் வங்கி ஊழியரான பெண் ஒருவரும்  அவரது கணவரும் இணைந்து, முதியவரை ஏமாற்றி சுமார் 6 இலட்சம் ரூபா பணத்தினை மோசடி செய்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that a bank employee in Kilinochchi, a woman and her husband, have defrauded the old man and defrauded about Rs 6 lakh.
 
-கிளிநொச்சி பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் தனியார் வங்கி ஒன்றில்  பணிபுரியும் வங்கி உத்தியோகத்தரும் அவரது கணவனும் இணைந்து முதியவர் ஒருவரிடம் மூன்று இலட்சத்து ஐம்பாயிரம்  மற்றும்   இரண்டு இலட்சத்து ஐம்பதாயிரம் ரூபாய் என ஆறு இலட்சம் ரூபா பணத்தினை மோசடியாகப் பெற்று குறித்த முதியவரை ஏமாற்றியுள்ளத்துடன் அதற்கு பதிலாக மறுக்கப்பட்ட காசோலையினையும் வழங்கியுள்ளனர்.
+The bank officer and her husband, who works in a private bank in the Kilinochchi police division, have paid an elderly man with three hundred and fifty thousand rupees of Rs.
 
-இவ்வாறு பாதிக்கப்பட்ட முதியவரால் கிளிநொச்சி பொலிஸில்  முறைப்பாடு செய்யப்பட்டதை அடுத்து பொலிஸார்  இருவருக்கும் எதிராக கிளிநொச்சி மாவட்ட நீதவான் நீதிமன்றில்  வழக்கு தாக்கல் செய்துள்ளனர்.
+The police have filed a case against the Kilinochchi District Magistrate's Court after the victims lodged a complaint with the Kilinochchi police.
 
-அத்துடன்  இரண்டு பேரையும் கைது செய்து நீதிமன்றத்தில் முன்னிலைப்படுத்த நீதிமன்ற அனுமதியை கோரியுள்ளனர்.
+They have also sought court permission to arrest the two.
 
-குறித்த வங்கி ஊழியரும் அவரது கணவரும் ஏற்கனவே  பலரை ஏமாற்றி மோசடி குற்றச்சாட்டுகளில் ஈடுபட்டதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+It is reported that the bank employee and her husband have already been accused of cheating many people. Remble
 
 ◼️
 
 [Data](articles/3c1ba28a.json)
+
+[Extended Data](ext_articles/3c1ba28a.ext.json)
 
 ---
 
@@ -1901,43 +1967,5 @@ Although Kachchativu was handed over to Sri Lanka in 1974, it is stated that in 
 [Data](articles/53ba1d01.json)
 
 [Extended Data](ext_articles/53ba1d01.ext.json)
-
----
-
-### President concludes successful visit to Uganda
-
-*2024-01-23 20:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-concludes-successful-visit-to-Uganda/108-275590) · `en`
-
-(Kampala), Jan 23 - President  Ranil Wickremesinghe concluded a highly successful visit to Uganda this afternoon after attending the Non-Aligned Movement (NAM) and Group of 77 (G-77) Summit in Kampala.
-
-During the summit, the President engaged with more than 21 world leaders, fostering diplomatic ties and discussing key global issues.
-
-The visit marked a significant diplomatic achievement, reinforcing the country's commitment to international cooperation and multilateralism. The President's discussions with global leaders focused on shared challenges, collaborative solutions, and strengthening ties for a more interconnected and secure future.
-
-The summit provided a platform for constructive dialogues on pressing issues
-
-As the President departs Uganda, the fruitful outcomes of this visit are anticipated to contribute to enhanced diplomatic relations, mutual understanding, and cooperation on a global scale.
-
-◼️
-
-[Data](articles/fb2121f0.json)
-
-[Extended Data](ext_articles/fb2121f0.ext.json)
-
----
-
-### Sri Lanka - Afghan ODI Series
-
-*2024-01-23 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192484) · `si`
-
-The Afghanistics Cricket Team is due to arrive in Sri Lanka a Test match with Sri Lanka and 3 T20s and 03 T20s.
-
-Two ODI matches 36 Colombo. Even though he has previously decided to hold at the Premadasa Stadium, it has already been transferred to the Pallekele International Cricket Stadium.
-
-◼️
-
-[Data](articles/6de8751e.json)
-
-[Extended Data](ext_articles/6de8751e.ext.json)
 
 ---

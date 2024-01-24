@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 09:02:23**
+As of **2024-01-24 09:17:19**
 
 ## Newspaper Stats
 
-*Scraped **2,207** Articles*
+*Scraped **2,208** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 122
 islandlk | 123
 newsfirstlk | 124
 economynextcom | 132
-adaderanasinhalalk | 151
+adaderanasinhalalk | 152
 dailyftlk | 181
 adalk | 222
 virakesarilk | 240
@@ -26,11 +26,23 @@ dailymirrorlk | 284
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,207 (100.0%) of 2,207 articles have been extended.
+2,207 (100.0%) of 2,208 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### යුක්තියට තවත් පිරිසක් කොටුවෙති
+
+*2024-01-24 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192495) · `si`
+
+යුක්තිය විශේෂ මත්ද්‍රව්‍ය මෙහෙයුම යටතේ අද (24) අලුයම 12.30න් අවසන් වූ පැය 24 තුළ සිදුකළ මෙහෙයුම්වලදී සැකකරුවන් 930 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/4bd8e7fe.json)
+
+---
 
 ### Sagala stated in the price of groceries
 
@@ -2009,23 +2021,5 @@ However, none of them have been harmed and foreign media states that the house h
 [Data](articles/a32683da.json)
 
 [Extended Data](ext_articles/a32683da.ext.json)
-
----
-
-### CCTV captures leopard attempting to drag dog in Maskeliya
-
-*2024-01-23 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CCTV-captures-leopard-attempting-to-drag-dog-in-Maskeliya/108-275580) · `en`
-
-Maskeliya, Jan 23 (Daily Mirror) -  CCTV footage of a leopard attempting to drag away a dog at a residence in Maskeliya, Hatton went viral on social media.
-
-The leopard appeared suddenly while the dog was seated in front of the house and attempted to drag it away. Upon hearing the dog's screams, the homeowner rushed out and witnessed the leopard running with the dog. The leopard abandoned its prey and fled towards the tea estate.
-
-Fortunately, the dog survived the attack with only minor injuries. The Maskeliya area reportedly hosts a number of leopards near tea plantations, and they often target pet dogs in households.
-
-◼️
-
-[Data](articles/9adddfd1.json)
-
-[Extended Data](ext_articles/9adddfd1.ext.json)
 
 ---

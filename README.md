@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 08:10:05**
+As of **2024-01-24 08:17:35**
 
 ## Newspaper Stats
 
-*Scraped **2,189** Articles*
+*Scraped **2,198** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,61 @@ adaderanasinhalalk | 146
 dailyftlk | 181
 adalk | 222
 virakesarilk | 238
-adaderanalk | 272
+adaderanalk | 274
 tamilmirrorlk | 276
-dailymirrorlk | 276
+dailymirrorlk | 283
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,185 (99.8%) of 2,189 articles have been extended.
+2,189 (99.6%) of 2,198 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Motorists on expressway cautioned over misty conditions
+
+*2024-01-24 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96676/motorists-on-expressway-cautioned-over-misty-conditions) · `en`
+
+Police requested motorists using the Southern Expressway to be cautious over misty conditions between Pinnaduwa and Welipenna interchanges.
+
+◼️
+
+[Data](articles/1c079b4a.json)
+
+---
+
+### Court order issued over SYU protest planned near Parliament
+
+*2024-01-24 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96675/court-order-issued-over-syu-protest-planned-near-parliament) · `en`
+
+The Colombo Chief Magistrate’s Court has issued an order in connection with a protest organized today (24) by the national organiser of the Socialist Youth Union (SYU), Eranga Gunasekara and a group of protesters.
+
+The court has issued the order following a request made by the OIC of Welikada Police based on the information received that the protest march is planned to be held by blocking the main entry road of the Parliament from Polduwa Roundabout and along the Parliament Road, and preventing access to the Parliament.
+
+Accordingly, the court order states that the protesters should not to block any road and cause any inconvenience to the general public and pedestrians using the road or act in a violent manner, and to conduct the relevant agitation in a manner that does not violate the parliamentary privileges of the public representatives and obstructs the duties of public officials on duty and does not obstruct any person.
+
+...
+
+[Data](articles/9ee61b26.json)
+
+---
+
+### Asia’s leading tech alliance refutes Minister’s comments in Parliament
+
+*2024-01-24 07:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asias-leading-tech-alliance-refutes-Ministers-comments-in-Parliament/108-275615) · `en`
+
+Colombo, Jan  24 (Daily Mirror) - The Asia Internet Coalition (AIC) refuted comments made by Public Security Minister Tiran Alles in Parliament on Tuesday, during the debate of the controversial Online Safety Bill, stressing that the alliance has not been privy to amendments made to the Bill.
+
+AIC, an industry association, comprising leading internet and technology companies such as Meta, Google, Apple and Amazon said that certain assertions made by Public Security Minister Alles do not accurately reflect the developments in drafting the controversial new legislation.
+
+...
+
+[Data](articles/d892e316.json)
+
+---
 
 ### The Court of Supreme Court order the Supreme Court over the disappearance of a person's hospital bed
 
@@ -56,6 +98,28 @@ The petitioner has presented the petition, demanding legal action against the of
 
 ---
 
+### Transparency International Sri Lanka challenges Microfinance Bill in Supreme Court
+
+*2024-01-24 06:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Transparency-International-Sri-Lanka-challenges-Microfinance-Bill-in-Supreme-Court/108-275610) · `en`
+
+Says proposed legislation lacks adequate provisions to effectively address and establish a suitable regulatory framework
+
+Asserts Bill does not conform to the principles of reasonableness
+
+Points out the Bill excludes certain entities that dominate the microfinance industry
+
+In a significant move, Transparency International Sri Lanka (TISL) has submitted a Special Determination petition to the Supreme Court, contesting the ‘Microfinance and Credit Regulatory Authority Bill.’
+
+The organisation asserted that the proposed legislation lacks adequate provisions to effectively address and establish a suitable framework for regulating the exploitative and predatory practices observed among microfinance lenders at the grassroots level.
+
+The Bill was placed on the Order Paper of parliament on 9 January, 2024.
+
+...
+
+[Data](articles/0caa6b93.json)
+
+---
+
 ### Surveying today
 
 *2024-01-24 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192487) · `si`
@@ -71,6 +135,22 @@ In some places in some places in the Galle, Western and Uva provinces, in some p
 [Data](articles/12e77fed.json)
 
 [Extended Data](ext_articles/12e77fed.ext.json)
+
+---
+
+### Minister under fire for Inviting South Indian actresses amidst austerity, hardship
+
+*2024-01-24 06:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-under-fire-for-Inviting-South-Indian-actresses-amidst-austerity-hardship/108-275616) · `en`
+
+Colombo, Jan -24 (Daily Mirror) - Ceylon Workers’ Congress (CWC) General Secretary Minister Jeevan Thondaman is in the centre of controversy over the presence of South Indian actresses Aishwarya Rajesh, Aishwarya Dutta, Samyuktha Menon, and Meenakshi (Pinky Sarkar) in national Thai Pongal celebrations conducted in Hatton last Sunday.
+
+He is under fire from his political opponents who question him whether these South artistes were sponsored using tax payers’ money despite the government having declared austerity measures
+
+Samagi Jana Balawegaya (SJB) Organizer for Passara Letchumanar Sanjay asks why Mr. Thondaman took steps to celebrate the national Pongal festival in such a luxurious manner at a time when people are suffering due to the soaring cost of living.
+
+...
+
+[Data](articles/57343039.json)
 
 ---
 
@@ -138,6 +218,8 @@ However, we have no publicly available information on how significant the issue 
 
 [Data](articles/7b8ee683.json)
 
+[Extended Data](ext_articles/7b8ee683.ext.json)
+
 ---
 
 ### Sagala says SL economy has gained international confidence thanks to President
@@ -153,6 +235,8 @@ Speaking at the ‘Budget 2024’ conference, organised by the President’s tra
 ...
 
 [Data](articles/d26f8e93.json)
+
+[Extended Data](ext_articles/d26f8e93.ext.json)
 
 ---
 
@@ -256,31 +340,53 @@ Making the relevant submissions, the NMSJ verbally informed the Commission about
 
 ---
 
-### இந்தியத் தூதுவருடன் அநுரகுமார சந்திப்பு
+### Sri Lanka observed to be putting a lot of effort to go fully digital: Indian tech expert
+
+*2024-01-24 04:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-observed-to-be-putting-a-lot-of-effort-to-go-fully-digital-Indian-tech-expert/108-275612) · `en`
+
+While different countries in the Asian region are at different levels when it comes to digital transformation,  Sri Lanka is observed to be putting in “tremendous” efforts in this regard, which will pave the way for the island nation to reach its aspirations, a top executive of an India-based global technology company said.
+
+Noting there is good traction locally, Gibu Mathew, Vice President and General Manager for Asia Pacific of Zoho Corporation told Mirror Business that the island nation is on track in this regard.
+
+“Digital transformation is a very big, lengthy process and we observe a lot of interest shown by various stakeholders for it in Sri Lanka. Many government services are going digital gradually,
+
+and businesses will see more value as a result and that will drive the transformation efforts of ordinary businesses too,” Mathew added.
+
+...
+
+[Data](articles/4390830e.json)
+
+---
+
+### Meeting with Indian Ambassador
 
 *2024-01-24 03:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-தூதுவருடன்-அநுரகுமார-சந்திப்பு/175-332041) · `ta`
 
-தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திஸாநாயக்க  இலங்கைக்கான புதிய இந்தியத் தூதுவர் சந்தோஷ் ஜாவை சந்தித்து கலந்துரையாடியுள்ளார்.
+National People's Power Leader Anura Kumara Dissanayake has met with the new Indian Ambassador to Sri Lanka Santosh Ja.
 
-இந்தச் சந்திப்பின்போது இலங்கையின் சமகால அரசியல் நிலவரங்கள் குறித்தும், பொருளாதார நெருக்கடி தொடர்பாகவும், தேசிய மக்கள் சக்தியின் எதிர்கால அரசியல் வேலைத்திட்டங்கள் குறித்தும் கலந்துரையாடப்பட்டுள்ளது.
+During the meeting, Sri Lanka's contemporary political situation, the economic crisis and the future political programs of the national people's power were discussed.
 
 ◼️
 
 [Data](articles/8ec108d6.json)
 
+[Extended Data](ext_articles/8ec108d6.ext.json)
+
 ---
 
-### இந்தியத் தூதுவருடன் மைத்திரி சந்திப்பு
+### Maithri meets with Indian Ambassador
 
 *2024-01-24 03:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-தூதுவருடன்-மைத்திரி-சந்திப்பு/175-332040) · `ta`
 
-இலங்கைக்கான புதிய இந்தியத் தூதுவர் சந்தோஷ் ஜாவுக்கும்  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கும் இடையில் சந்திப்பு ஒன்று நடைபெற்றுள்ளது.
+A meeting between the new Indian Ambassador to Sri Lanka Santosh Jaw and former President Maithripala Sirisena
 
-கொழும்பில் உள்ள இந்தியன் இல்லத்தில் நேற்று நடைபெற்ற இந்தச் சந்திப்பில் இலங்கையின் சமகால அரசியல் நிலவரங்கள் உள்ளிட்ட பல விடயங்கள் தொடர்பில் கலந்துரையாடப்பட்டுள்ளது. (a)
+The meeting, which was held yesterday at the Indian House in Colombo, discussed a number of issues, including the contemporary political situation in Sri Lanka.. (A)
 
 ◼️
 
 [Data](articles/afdfd9f7.json)
+
+[Extended Data](ext_articles/afdfd9f7.ext.json)
 
 ---
 
@@ -299,6 +405,50 @@ When President Ranil Wickremesinghe took over the country, there was a severe ec
 [Data](articles/aaf6f99b.json)
 
 [Extended Data](ext_articles/aaf6f99b.ext.json)
+
+---
+
+### Central Bank maintains key policy rates amidst inflation concerns
+
+*2024-01-24 02:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Bank-maintains-key-policy-rates-amidst-inflation-concerns/155-275614) · `en`
+
+Says January inflation could travel near 7% due to higher VAT, supply snags
+
+However, says inflation would return to 5% as price pressures would largely be transitory
+
+Asserts it wants to see further downward adjustments in yields and lending rates from past rate cuts
+
+As per the announcement, Monetary Policy Board does not see demand pressures, leaving door open for further easing
+
+In line with widespread predictions, the Central Bank opted to keep its key policy rates unchanged at 9 and 10 percent during its inaugural Monetary Policy announcement for the year. The
+
+Central Bank Governor Dr. Nandalal Weerasinghe addressing the media following the first Monetary Policy review meeting for 2024
+
+decision aims to stabilise inflation expectations at 5 percent and allow the market additional time to align their rates downward.
+
+In the announcement, the Central Bank said it remains optimistic about the effectiveness of previous monetary easing measures, indicating further room for implementation.
+
+...
+
+[Data](articles/775e4515.json)
+
+---
+
+### Judgment in Harin’s expulsion case to be delivered in due course
+
+*2024-01-24 00:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Judgment-in-Harins-expulsion-case-to-be-delivered-in-due-course/108-275618) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - The Supreme Court yesterday concluded hearing and reserved its judgment in the expulsion petitions filed by Tourism Minister Harin Fernando and Labour and Foreign Employment Minister Manusha Nanayakkkara challenging the Samagi Jana Balawegaya (SJB) decision to remove them from their party membership.
+
+Accordingly, the Supreme Court will deliver its judgment regarding this petition in due course.
+
+The Supreme Court three-judge-bench comprising Justices Vijith Malalgoda, Achala Wengappuli and Arjuna Obeysekara concluded the arguments put forward by both, the petitioner and the respondent parties. The parties were directed to file their written submissions before February 1.
+
+The two government Ministers are seeking a declaration that they have not ceased to be Members of Parliament, and that they continue to be and shall remain Members of Parliament.
+
+...
+
+[Data](articles/0c217dc9.json)
 
 ---
 
@@ -1294,6 +1444,26 @@ The DAT allowance, which was raised from Rs. 35,000 to Rs. 70,000 was suspended 
 
 ---
 
+### Circular revoked; doctors call off planned strike
+
+*2024-01-23 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Circular-revoked-doctors-call-off-planned-strike/108-275584) · `en`
+
+Colombo, Jan 23 (Daily Mirror) - The strike action by government doctors scheduled for tomorrow morning over the suspension of the increment to the Disturbance, Availability and Transport (DAT) allowance has been called off.
+
+The Government Medical Officers' Association (GMOA) in a statement said the Director General of Health Services has issued a written notification, revoking the recent suspension of the DAT allowance for doctors, which was included in the January salary.
+
+This decision, effective immediately, comes after the initial directive to temporarily halt the payment.
+
+In addition, health institution heads have been instructed to disburse the relevant allowance for January through a special voucher for doctors not covered by the regular payroll.
+
+The DAT allowance, which was raised from Rs. 35,000 to Rs. 70,000 was suspended this morning in accordance with the Treasury's directive.
+
+◼️
+
+[Data](articles/3f75e32d.json)
+
+---
+
 ### Samoa Rasinsundara from Samoa Rasinsundara from Sri Lanka
 
 *2024-01-23 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192479) · `si`
@@ -1855,189 +2025,5 @@ The fishermen issue is a contentious one in the ties between India and Sri Lanka
 [Data](articles/a4dac3b9.json)
 
 [Extended Data](ext_articles/a4dac3b9.ext.json)
-
----
-
-### Dimuth Karunaratne named in ICC Men’s Test Team of the Year
-
-*2024-01-23 15:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96661/dimuth-karunaratne-named-in-icc-mens-test-team-of-the-year) · `en`
-
-Former captain of Sri Lanka’s Test and ODI teams, Dimuth Karunaratne has secured a spot in the ICC Men’s Test Team of the Year 2023 despite playing just six matches in the year.
-
-Meanwhile, the ICC World Test Championship 2021-23 finalists Australia and India have dominated the ICC Men’s Test Team of the Year 2023.
-
-Despite playing just six matches in the year, Sri Lanka captain Dimuth Karunaratne secures a spot in the team with memorable outings throughout 2023 in Tests having amassed 608 runs at an average of 60.8.
-
-Karunaratne led by example in the away series in New Zealand with three fifties in four innings, amassing 207 runs, the most by a Sri Lankan batter on the tour.
-
-The skipper scored a century in each match against Ireland as Sri Lanka completed a dominant 2-0 whitewash, winning both matches by an innings.
-
-Karunaratne’s struggles against Pakistan underscored his crucial role within the team as Sri Lanka lost 2-0 at home.
-
-...
-
-[Data](articles/b123e1f7.json)
-
-[Extended Data](ext_articles/b123e1f7.ext.json)
-
----
-
-### Nine people killed in landslide in China
-
-*2024-01-23 15:40:00* · [`virakesarilk`](https://www.virakesari.lk/article/174625) · `ta`
-
-Rescue crews are in the process of rescuing those trapped in the landslide on Monday in the southwestern Yunnan area of China.
-
-There are 18 houses in the landslide, of which 47 have been cook, according to the media reports.
-
-Nine of them have died and two have been rescued from the wreckage and taken to the hospital.
-
-The Chinese National Meteorological Department said that there is a severe cold in China.
-
-At least 70 people were killed, including over 50 open space mining workers in Mongolia, trapped in last year's landslide in China.
-
-◼️
-
-[Data](articles/3653d0d8.json)
-
-[Extended Data](ext_articles/3653d0d8.ext.json)
-
----
-
-### Special notice to all traffic holders
-
-*2024-01-23 15:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192473) · `si`
-
-The department has been given special notice to persons who are purchased by the Department of Motor Traffic and purchased vehicles and used them.
-
-The traffic promptly registered with other people's name and register to their name.
-
-The Commissioner of Motor Traffic he will be fined for the end of the last days of the vehicle, who has been asked to re-register the vehicle traffic to the Department of Motor Traffic.
-
-CCTV cameras currently operated by the police, the current owners of the pilot temples and the pilot in the pilot project can be embarrassed as well as the old owners who have not been registered.
-
-As a result, the Department of Motor Traffic has informed the public to register their purchased vehicles to register their name.
-
-◼️
-
-[Data](articles/09503128.json)
-
-[Extended Data](ext_articles/09503128.ext.json)
-
----
-
-### Central Bank's position on bank loan interest rate
-
-*2024-01-23 15:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கி-கடன்-வட்டி-வீதம்-தொடர்பில்-மத்திய-வங்கியின்-நிலைப்பாடு/175-332019) · `ta`
-
-Governor of the Central Bank Dr. Nandalal Weerasinghe says the bank loan interest rate should be further reduced.
-
-He made this statement at a media briefing held at the Central Bank today (23).
-
-◼️
-
-[Data](articles/8574b3a9.json)
-
-[Extended Data](ext_articles/8574b3a9.ext.json)
-
----
-
-### Sri Lanka CB seeks explanation from banks which have not cut loan rates fast
-
-*2024-01-23 15:23:00* · [`economynextcom`](https://economynext.com/sri-lanka-cb-seeks-explanation-from-banks-which-have-not-cut-loan-rates-fast-148431/) · `en`
-
-ECONOMYNEXT – The Central Bank has sought explanations from some banks which have not cut rates as fast as required by an order issued last year, Governor Nandalal Weerasinghe said.
-
-“It may have been lower than what we anticipated when we issued these orders back in August; Some banks had already started the process of bringing down interest rates. Other banks that have not started the process we have asked them to bring it down by 350 basis points by December.”
-
-“There are a lot of banks that have reduced, but not to the extent that we hoped. We are closely monitoring the banks and we want all the bank to follow the instructions we have issued.”
-
-Weerasinghe conceded that when the order was issued “we also had expectations about where the other market rates would be; for example yield rates, we expected a further decline but that did not happen. So there’s an impact on other factors.” (Colombo/Jan23/2024)
-
-◼️
-
-[Data](articles/3ea49984.json)
-
-[Extended Data](ext_articles/3ea49984.ext.json)
-
----
-
-### Dental surgeons to also go on strike
-
-*2024-01-23 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96660/dental-surgeons-to-also-go-on-strike) · `en`
-
-The Government Dental Surgeons’ Association (GDSA) announced that they will also engage in a strike action from 8.00 a.m. tomorrow, (Jan 24) in response to the Health Ministry’s decision to withhold payment of the Disturbance, Availability and Transport (DAT) allowance for doctors, which was recently increased by Rs. 35,000.
-
-Issuing a statement, the association mentioned that the duration and specifics of the strike will be decided at an emergency executive committee meeting of the GDSA which is scheduled to be held tomorrow (24).
-
-Furthermore, the Government Dental Surgeons’ Association express that they regret the inconvenience this action may cause to the public, emphasizing that the responsibility for any service breakdown and resultant public inconvenience lies squarely with the officials of the Finance Ministry.
-
-...
-
-[Data](articles/3de26d4c.json)
-
-[Extended Data](ext_articles/3de26d4c.ext.json)
-
----
-
-### Prisoner of Anuradhapura
-
-*2024-01-23 14:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/174618) · `ta`
-
-It is reported that a prisoner at the Anuradhapura prison has been rescued by another prisoner when he was aimed at the first attack and was dragged by the first.
-
-A 34 -year -old Tamil prisoner who was detained at the Anuradhapura Prison has been attacked by the first.
-
-A prison official said that a crocodile hidden near the bamboo shrub was caught by a prisoner's leg while engaging in cultivation with a victim in a nearby area near Malwathu Oya in the prison campus.
-
-He was admitted to the Anuradhapura Teaching Hospital after being admitted to the Anuradhapura Teaching Hospital after he was injured in an arm, leg and neck area.
-
-◼️
-
-[Data](articles/609fc5fc.json)
-
-[Extended Data](ext_articles/609fc5fc.ext.json)
-
----
-
-### Fierce arguments in the ruling and opposition council
-
-*2024-01-23 14:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174616) · `ta`
-
-As the opposition parties expressed their opposition to the debate in Parliament yesterday, the ruling party has announced that the debate on the bill should be held in accordance with the decision to take over. So there was a heated argument among the ruling opposition members in the House.
-
-So the referendum was held to go to a referendum to decide whether or not to discuss the proposal insulation bill in the House.
-
-The debate on the second reading of the proposed proceedings was carried out as the majority of the debate was voted for.
-
-Parliament met on Tuesday at 9.30 am chaired by Speaker Mahinda Yapa Abeywardena.
-
-Following the main proceedings, some, including the Leader of the Opposition, have asked me to take action on the day of the party leaders' meeting to take up the debate in Parliament, but to take action on the day of the proposed post -insulation.
-
-...
-
-[Data](articles/58f846ab.json)
-
-[Extended Data](ext_articles/58f846ab.ext.json)
-
----
-
-### Tourist car collides with train, two hospitalised
-
-*2024-01-23 14:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tourist-car-collides-with-train-two-hospitalised/108-275578) · `en`
-
-Maho, Jan 23 (Daily Mirror) - A foreign tourist and a guide were hospitalised after their motorcar collided with the Rajarata Rejini express train at the Midigama railway station this morning.
-
-The Railways Department said the train was heading towards Maho junction when the accident occurred. Meanwhile, police said there were two tourists and a tour guide in the car durinag the accident.
-
-One of the tourists and the tour guide were hospitalised with injuries.
-
-The Railways Department said the car had tried to cross the level crossing while the warning bell was still ringing and the warning light was still on.
-
-◼️
-
-[Data](articles/271768c7.json)
-
-[Extended Data](ext_articles/271768c7.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 12:17:01**
+As of **2024-01-24 12:32:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 296
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,271 (99.5%) of 2,283 articles have been extended.
+2,283 (100.0%) of 2,283 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,77 +50,91 @@ Amid those developments both indices moved downwards. The All- Share Price Index
 
 ---
 
-### தேசிய அடையாள அட்டை இலக்கத்தை தனிநபரின் வரி இலக்கமாக (TIN) பயன்படுத்த நடவடிக்கை!
+### Action to use the National Identity Card as an individual's tax digit (TIN)!
 
 *2024-01-24 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174679) · `ta`
 
-தேசிய அடையாள அட்டை இலக்கத்தை தனிநபரின் வரி இலக்கமாக (TIN) பயன்படுத்த நடவடிக்கை எடுக்கப்படும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்தார்.
+Finance Minister Ranjith Siyambalapitiya said that steps will be taken to use the National Identity Card as an individual's tax number (TIN).
 
-இதன் மூலம் அரசாங்க வருமானம் குறித்து தெளிவான தரவு அமைப்பு உருவாக்கப்படும் என்றும் நிதி இராஜாங்க அமைச்சர் தெரிவித்தார்.
+The Minister of Finance said that this will create a clear data system on government income.
 
-18 வயதுக்கு மேற்பட்டவர்களின் தகவல் அமைப்பைப் பயன்படுத்தி இந்த செயல்முறை மேற்கொள்ளப்படுவதாகவும் அவர் குறிப்பிட்டார்.
+He added that the process is being carried out using the information system of the age of 18 years.
 
-மக்களுக்கு இலகுவாக ரின் இலக்கம் வழங்குவது தொடர்பில் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின்போதே அவர்  இதனைத் தெரிவித்துள்ளார்.
+He made this statement during a discussion held at the Presidential Office on the issue of Rin's number to the people.
 
 ◼️
 
 [Data](articles/7097e65c.json)
 
+[Extended Data](ext_articles/7097e65c.ext.json)
+
 ---
 
-### ஈராக்கில் ஈரான்சார்பு குழுக்களின் நிலைகள் மீது அமெரிக்கா மீண்டும் தாக்குதல்
+### USA again attacks the positions of Iranian groups in Iraq
 
 *2024-01-24 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174678) · `ta`
 
-ஈராக்கில் கட்டாப் ஹெஸ்புல்லா குழுவிற்கு எதிராகவும் ஏனைய ஈரான் சார்பு குழுக்களிற்கு எதிராகவும் தாக்குதல்களை மேற்கொண்டதாக அமெரிக்க பாதுகாப்பு செயலாளர் தெரிவித்துள்ளார்.
+The US Defense Secretary has said that in Iraq, the Ghatab Hesbullah group has carried out attacks against other Iranian groups.
 
-ஈராக்கிலும் சிரியாவிலும் உள்ள அமெரிக்க ஏனைய நாடுகளின் படையினருக்கு எதிரான தாக்குதலிற்கு பதிலடியாகவே இந்த தாக்குதலை மேற்கொண்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+He said the attack was in response to the attack on other US countries in Iraq and Syria.
 
-அமெரிக்காவின் நலன்களை பாதுகாப்பதற்காக ஜனாதிபதியும் நானும் மேலதிக நடவடிக்கைகளை எடுக்க தயங்கப்போவதில்லை எனவும் அமெரிக்க பாதுகாப்பு செயலாளர் தெரிவித்துள்ளார்.
+The US Defense Secretary has said that the President and I are not hesitant to take further action to protect the interests of the United States.
 
-பிராந்தியத்தில் மோதல்களை விஸ்தரிக்க நாங்கள் விரும்பவில்லை எங்கள் மக்களையும் எங்கள் நலன்களையும் பாதுகாப்பதற்கான  மேலதிக நடவடிக்கைகளை எடுக்க தயாராகவுள்ளோம்  இந்த குழுக்களையும் அவர்களிற்கு ஆதரவுவழங்கும் ஈரானியர்களையும் தாக்குதல்களை நிறுத்துமாறு கேட்டுக்கொள்கின்றோம் எனவும் அமெரிக்க பாதுகாப்பு செயலாளர்லொயிட் ஒஸ்டின் தெரிவித்துள்ளார்.
+We are ready to take further steps to protect our people and our interests in the region. We are urging these groups and Iranians to support them, "US Defense Secretary Ostin said.
 
 ◼️
 
 [Data](articles/e45394bd.json)
 
+[Extended Data](ext_articles/e45394bd.ext.json)
+
 ---
 
-### ஆர்ப்பாட்டத்தில் பங்கேற்ற இலங்கை மின்சார சபை ஊழியர்கள் 10,000 பேருக்கு கடிதம்
+### Ceylon Electricity Board employees who participated in the demonstration letter letter to 10,000
 
 *2024-01-24 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/174672) · `ta`
 
-இலங்கை மின்சார சபை ஊழியர்கள் 10,000 பேருக்கு கடிதம் அனுப்பியுள்ளதாக இலங்கை மின்சார சபை தெரிவித்துள்ளது.
+The Ceylon Electricity Board (CEB) has sent a letter to 10,000 employees of the Ceylon Electricity Board.
 
-சுகயீன விடுமுறையை பதிவு செய்து, அண்மையில் முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தில் பங்குபற்றியமைக்கு விளக்கமளிக்குமாறு கடிதம் அனுப்பியுள்ளதாக இலங்கை மின்சார சபை தெரிவித்துள்ளது.
+The Ceylon Electricity Board (CEB) has sent a letter to explain the sick holiday and explain the participation in the recent demonstration.
 
-ஊழியர்களின் அளிக்கும் பதில்களின் அடிப்படையில் அடுத்த கட்ட நடவடிக்கை எடுக்கப்படும் என இலங்கை மின்சார சபை பேச்சாளர் பிரதி பொது முகாமையாளர் நோயல் பிரியந்த தெரிவித்துள்ளார்.
+The next phase of action will be taken on the basis of the answers of the employees, Deputy General Manager of the Ceylon Electricity Board (CEB)
 
-இதேவேளை, ஆர்ப்பாட்டத்தில் பங்குபற்றிய குற்றச்சாட்டில் இலங்கை மின்சார சபையில் ஊழியர்கள்  66 பேர் பணி நீக்கம் செய்யப்பட்டுள்ளனர்.
+Meanwhile, 66 employees of the Ceylon Electricity Board have been sacked on charges of participating in the demonstration.
 
-இந்நிலையில், ஊழியர்கள் மீதான அடக்குமுறைக்கு எதிராக கடும் நடவடிக்கை எடுக்கப்படும்  இலங்கை மின்சார ஊழியர் சங்கத்தின் பொதுச் செயலாளர் ரஞ்சன் ஜெயலால் தெரிவித்துள்ளார்.
+Ranjan Jayalal, general secretary of the Ceylon Electricity Employees Union, who will take stern action against the repression of the employees.
 
 ◼️
 
 [Data](articles/7c38b152.json)
 
+[Extended Data](ext_articles/7c38b152.ext.json)
+
 ---
 
-### இலங்கையின் உத்தேச இணையசட்டம் எதிர்வரும் தேர்தல்களிற்கு அச்சுறுத்தலை  ஏற்படுத்துகின்றது - சர்வதேச மனித உரிமை கண்காணிப்பகம்
+### Sri Lanka's proposed website threatens the upcoming elections - International Human Rights Watch
 
 *2024-01-24 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174674) · `ta`
 
-இலங்கையின் உத்தேச இணையசட்டம் எதிர்வரும் தேர்தல்களிற்கு அச்சுறுத்தலை ஏற்படுத்துகின்றது என சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+The International Human Rights Watch said Sri Lanka's proposed website threatens the upcoming elections.
 
-இலங்கை ஜனாதிபதி இந்த வாரம் நாடாளுமன்றத்தில் அவசரமாக கொண்டுவர முயற்சிக்கும் அடக்குமுறையான புதிய இணைய சட்டம் நீண்டகால தண்டனையை வழங்க பேச்சுக்கள் கருத்துக்கள் தொடர்பிலான கூடிய பரந்த மற்றும் தெளிவற்ற குற்றங்களை உருவாக்கும் என சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+The International Human Rights Watch has said that the new Internet law, which is trying to bring in a hurry in parliament this week, will create a wide range of vague and vague crimes in talks to provide a long -term punishment.
 
-இலங்கை இந்த வருடத்தின் பிற்பகுதியில் ஜனாதிபதி நாடாளுமன்ற தேர்தலிற்கு தயாராகிவரும் நிலையில் இந்த சட்டம் கருத்துவெளிப்பாட்டுசுதந்திரத்திற்கு கடுமையான அச்சுறுத்தலை ஏற்படுத்துகின்றது எனவும் சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+The International Human Rights Watch said the law threatens the corporation as the president is preparing for the parliamentary elections later this year.
 
-நிகழ்நிலை பாதுகாப்பு சட்டம் என்ற உத்தேச சட்டமூலம் இணையவழி துன்புறுத்தல்கள் மோசடி துஸ்பிரயோகம் போன்றவற்றிற்கு எதிராக  பாதுகாப்பை வழங்குகின்றது என தெரிவிக்கப்படுகின்ற போதிலும் அது புதிய இணையவழி பாதுகாப்பு ஆணைக்குழுவை ஏற்படுத்துவதையே பிரதான நோக்கமாக கொண்டுள்ளது என சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+The International Human Rights Watch has said that the proposed protection law is aimed at providing protection against e -mail harassment and fraudulent abuse.
 
-...
+The International Human Rights Watch said that the President will appoint the Commission as the wrong information posted on the Internet.
+
+The Commission can also control the use of the Internet.
+
+The International Human Rights Watch said that experts appointed by the Commission can impose heavy fine fines for inspection of the houses of the suspects.
+
+◼️
 
 [Data](articles/591fc20e.json)
+
+[Extended Data](ext_articles/591fc20e.ext.json)
 
 ---
 
@@ -304,6 +318,8 @@ The two major parties – Republican and Democratic – hold an election in each
 
 [Data](articles/c958201a.json)
 
+[Extended Data](ext_articles/c958201a.ext.json)
+
 ---
 
 ### Wild elephant attacked in banana
@@ -379,6 +395,8 @@ Highlighting Dr. Crysantha's significant contributions to the hospital, sources 
 ...
 
 [Data](articles/357b0ee7.json)
+
+[Extended Data](ext_articles/357b0ee7.ext.json)
 
 ---
 
@@ -524,19 +542,21 @@ Four people died on the spot and another man was admitted to hospital after bein
 
 ---
 
-### හොරොයින් හා මත්පෙති සමග රග්බි පුහුණුකරුවෙක් අත්අඩංගුවට
+### A rugby coach arrested with horino and alcohol
 
 *2024-01-24 10:26:49* · [`adalk`](https://www.ada.lk/breaking_news/හොරොයින්-හා-මත්පෙති-සමග-රග්බි-පුහුණුකරුවෙක්-අත්අඩංගුවට/11-407701) · `si`
 
-හෙරොයින් මත්කුඩු ග්‍රෑම් දෙකහමාරක් සමග මානසික රෝගීන්ට ලබා දෙනු ලබන ඖෂධ කැප්සියුල 4100 ක් සමග මහනුවර විද්‍යාලයක බාහිර රග්බි පුහුණුකරුවෙකු අලවතුගොඩ පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ .
+Alawatugoda Police have arrested a rugby coach with 4100 pharmaceutical capsules with heroin with two and a half g of drugs.
 
-විසිදෙවැහැරිදි වියේ පසුවන මෙම රග්බි පුහුණුකරුවා සන්තකයේ හෙරෝයින් මත්කුඩු ග්‍රෑම් දෙකහමාරක් සමග අත්අඩංගුවට ගැනීමෙන් පසු කටුගස්තොට පොලිස් වසමේ අඹතැන්න ප්‍රදේශයේ පිහිටි ඔහුගේ නිවස පරීක්ෂා කිරීමේදී ඔහුගේ නිවසේ රහසිගත ස්ථානයක සඟවා තිබූ එම ඖෂධ කැප්සියුල තොගය අත්අඩංගුවට ගෙන තිබේ .
+The rugby coach's possession of heroin with two and a half grams of heroin in the Katugastota area in the Katugastota Police have been arrested in the Katugastota police division.
 
-මෙම මත් කැප්සියුල පාසල් සිසුන්ට අලෙවි කළේ ද යන්න සම්බන්ධයෙන් අලවතුගොඩ පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සුජීව ගුණතිලක මහතාගේ උපදෙස් පරිදි එහි අපරාධ අංශය විමර්ශන සිදු කරයි .
+The Criminal Division is conducting further investigations into the instructions of the Alawathugoda OIC Chief Inspector Sujeewa Gunatilake.
 
 ◼️
 
 [Data](articles/ab72a695.json)
+
+[Extended Data](ext_articles/ab72a695.ext.json)
 
 ---
 
@@ -624,6 +644,8 @@ The Office of National Unity and Reconciliation is being set up following a reso
 
 [Data](articles/494045a5.json)
 
+[Extended Data](ext_articles/494045a5.ext.json)
+
 ---
 
 ### Rugby coach arrested in Kandy with heroin and narcotic pills
@@ -642,6 +664,8 @@ It was revealed  that he is an Army deserter who had previously served at the P
 
 [Data](articles/4f84698e.json)
 
+[Extended Data](ext_articles/4f84698e.ext.json)
+
 ---
 
 ### Heavy mist at Welipenna, be cautious when driving: Police
@@ -657,6 +681,8 @@ Therefore, motorists are requested not to drive at high speeds within this area.
 ◼️
 
 [Data](articles/603c4de3.json)
+
+[Extended Data](ext_articles/603c4de3.ext.json)
 
 ---
 
@@ -695,6 +721,8 @@ The programme is organized by the Foundations of Mindfulness, followed by guided
 ◼️
 
 [Data](articles/81c09463.json)
+
+[Extended Data](ext_articles/81c09463.ext.json)
 
 ---
 
@@ -1167,6 +1195,8 @@ On January 3, during an event, President Ranil Wickremesinghe said that the gove
 ...
 
 [Data](articles/d1f70e50.json)
+
+[Extended Data](ext_articles/d1f70e50.ext.json)
 
 ---
 

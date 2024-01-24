@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 02:49:18**
+As of **2024-01-25 03:02:20**
 
 ## Newspaper Stats
 
-*Scraped **2,463** Articles*
+*Scraped **2,464** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ adaderanasinhalalk | 188
 dailyftlk | 194
 adalk | 241
 virakesarilk | 276
-tamilmirrorlk | 307
+tamilmirrorlk | 308
 adaderanalk | 308
 dailymirrorlk | 327
 
@@ -26,11 +26,27 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,463 (100.0%) of 2,463 articles have been extended.
+2,463 (100.0%) of 2,464 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### மல்கம் ரஞ்சித் ஆண்டகை மனு 24 மனுக்கள் தாக்கல்
+
+*2024-01-25 01:54:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மல்கம்-ரஞ்சித்-ஆண்டகை-மனு-24-மனுக்கள்-தாக்கல்/175-332086) · `ta`
+
+பாராளுமன்றத்தில் சமர்ப்பிக்கப்பட்டுள்ள பயங்கரவாத எதிர்ப்பு சட்டமூலத்தின் சில சரத்துக்கள் அரசியலமைப்புக்கு முரணானது என தீர்ப்பளிக்குமாறு கோரி கொழும்பு பேராயர் மல்கம் கர்தினால் ரஞ்சித் ஆண்டகை  உயர் நீதிமன்றில் மனுவொன்றை தாக்கல் செய்துள்ளார்.இந்த மனுவில் சட்டமா அதிபர் பிரதிவாதியாக குறிப்பிடப்பட்டுள்ளார்.
+
+குறித்த சட்டமூலத்தில் உள்ள விதிகள், நியாயமான காரணமின்றி எந்தவொரு நபரையும் கைது செய்து தடுத்து வைக்க இராணுவம், பொலிஸார் மற்றும் கடலோர காவல் படைக்கு அதிகாரம் அளித்துள்ளதாக மனுதாரர்   தெரிவித்துள்ளார்.அரசியலமைப்பில்  உறுதிப்படுத்தியுள்ள தனிமனித சுதந்திரம், கருத்துச் சுதந்திரம் உள்ளிட்ட அடிப்படை உரிமைகள் மீறப்படுவதாக அவர் சுட்டிக்காட்டியுள்ளார்.
+
+இதேவேளை,  “பயங்கரவாத எதிர்ப்பு”   சட்டமூலம் தொடர்பில் மேலும் 18 மனுக்கள் வயர்நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுள்ளதாக சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன சபைக்கு, புதன்கிழமை (24) அறிவித்தார்.
+
+◼️
+
+[Data](articles/ce7a0712.json)
+
+---
 
 ### Considering the aspirations of the people, "Get Retain"
 
@@ -1973,25 +1989,5 @@ The police spokesman, law spokesman, has been promoted to the post of DIG.
 [Data](articles/b0043605.json)
 
 [Extended Data](ext_articles/b0043605.ext.json)
-
----
-
-### Sri Lanka Kapruka buys USA subsidiary
-
-*2024-01-24 15:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-kapruka-buys-usa-subsidiary-148553/) · `en`
-
-ECONOMYNEXT – E-commerce retailer Kapruka Holdings Plc acquired Kapruka USA LLC, which operates its trading platform and payment gateway for 100 dollars, the company said in a stock exchange filing.
-
-“Kapruka Holdings PLC wishes to inform you that it has acquired 100% ownership of Kapruka USA LLC, incorporated in the United States of America, at a value of USD 100 on 01st November 2023.”
-
-Kapruka USA LLC operates the e-commerce platform of Kapruka including below primary tasks such as Global payment gateway integration into Kapruka, Representing Kapruka to cross-border e-commerce platforms such as Amazon and eBay, Digital advertising platform representation of Kapruka in US-based advertising platforms such as Google, Facebook, and Instagram, and Server hosting for the Kapruka platform, the company said.
-
-Kapruka sells and delivers a variety of products such as food, electronics and pharmaceuticals through an online platform.
-
-...
-
-[Data](articles/cd702425.json)
-
-[Extended Data](ext_articles/cd702425.ext.json)
 
 ---

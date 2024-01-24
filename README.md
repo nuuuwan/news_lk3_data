@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 21:33:17**
+As of **2024-01-24 21:52:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,413 (99.7%) of 2,420 articles have been extended.
+2,420 (100.0%) of 2,420 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ In November, 26 people died and dozens were sent to hospital after a fire at a c
 
 [Data](articles/0c76bf94.json)
 
+[Extended Data](ext_articles/0c76bf94.ext.json)
+
 ---
 
 ### ’’There was no gold-plated camel at daughter’s house’’: Maithri
@@ -72,43 +74,49 @@ He said robbers had only taken some food stuff from his daughter’s house altho
 
 [Data](articles/7896aa25.json)
 
+[Extended Data](ext_articles/7896aa25.ext.json)
+
 ---
 
-### පොලිස් නිලධාරියෙක් රිය අනතුරකින් මරුට
+### A police officer killed in an accident
 
 *2024-01-24 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192528) · `si`
 
-මෙලෙස මියගොස් ඇත්තේ 22 හැවිරිදි කතරගම පොලීසියට අනුයුක්තව සේවය කළ පොලිස් කොස්තාපල්වරයෙකි.
+The deceased has been identified as a 22 year old police constable attached to the Kataragama Police.
 
-අද (24) දහවල් තිස්සමහාරාම කතරගම මාර්ගයේ පුංචි අකුරුගොඩ ප්‍රදේශයේදී තිස්සමහාරාම දෙස සිට කතරගම දෙසට පෞද්ගලික බස් රථයක් ධාවනය වී තිබුණි.
+A private bus was traveling from Tissamaharama from Tissamaharama in Tissamaharama, Tissamaharama in Tissamaharama this afternoon.
 
-බස් රථය මාර්ගයේ ද්විත්ව රේඛා නීති උල්ලංඝනය කරමින් එම දෙසටම ධාවනය වූ අත්ට්‍රැක්ටරයක් ඉස්සර කිරීමේදී ප්‍රතිවිරුද්ධ දිශාවෙන් පැමිණි යතුරුපැදියක ගැටී ති‍බේ.
+The bus has collided with a motorcycle in the opposite direction by violating dual line laws on the road.
 
-එම අනතුරෙන් යතුරුපැදියේ පසුපස සිටි පොලිස් කොස්තාපල්වරයා බරපතළ තුවාල ලබා දෙබරවැව රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+The police constable was seriously injured and died on admission to the Debarawewa hospital.
 
 ◼️
 
 [Data](articles/fe9176f8.json)
 
+[Extended Data](ext_articles/fe9176f8.ext.json)
+
 ---
 
-### තම වත්මන් තත්ත්වය ගැන චාමර වීරසිංහගෙන් ෆේස්බුක් සටහනක්
+### Facebook note on Chamara Weerasinghe about their current situation
 
 *2024-01-24 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192527) · `si`
 
-අසනීප තත්ත්වයේ පසු වන ජනප්‍රිය ගායන ශිල්පී චාමර වීරසිංහ මහතා සිය ෆේස්බුක් පිටුවේ පණිවුඩයක් තබා තිබේ.
+The popular singer Chamara Weerasinghe has placed a message on his Facebook page.
 
-තමා වෙනුවෙන් වෙහෙස වී කටයුතු කරන වෛද්‍ය කාර්‍යමණ්ඩලයට හා තමාගේ යහපත ප්‍රාර්ථනා කරන රසික රසිකාවියන් වෙනුවෙන් ඔහු සිය ස්තූතිය ද එහි දී පළ කර ඇත.
+He thanked him for the fans with the medical staff and his best interests that would be working hard for him.
 
-කෙටි කාලයක් තමා විවේක ගත යුතු බවත් ඒ සඳහා විවේකී ස්ථානයකට යාමට බලාපොරොත්තු වන බවත් චාමර වීරසිංහ මහතා සඳහන් කර තිබේ.
+Chamara Weerasinghe has said that he should rest for a short period of time and seek to go to a break.
 
-චාමර වීරසිංහ මහතා සිය ෆේස්බුක් පිටුවේ තබා ඇති සම්පූර්ණ සටහන පහතින්,
+The full note on which Chamara Weerasinghe has placed his Facebook page below,
 
-දැන් මගේ සෞඛ්‍ය තත්වය තරමක් යහපත්, අසනීප තත්වය හේතුවෙන් දකුණු කොළඹ ශික්ෂණ රෝහල වෙත ඇතුළත් කළ මොහොතේ සිට මේ දක්වා ප්‍රතිකාර ලබා දුන් සියලු වෛද්‍යවරුන්ටත්, රෝහල් කාර්යමණ්ඩලයේ සැමටත්, බෝධි පූජා පවත්වමින්, ආගමික වතාවත් සිදුකරමින් ඔහු වෙනුවෙන් ආශීර්වාද කරන ලද ගරුතර ස්වාමීන්වහන්සේලා සියලුදෙනාටත්, පූජකතුමන්ලා සැමටත්, සියලුම දෙස්/විදෙස් ආදරණීය රසිකයින් සැමටත් ගෞරවණීය ස්තුතිය ප්‍රකාශ කරන ලද අතර, වෛද්‍ය උපදෙස් අනුව සුළු කාලයක් විවේක සුවයෙන් ගත කිරීම අත්‍යාවශ්‍ය බව පවසා ඇති බැවින්, ඒ සඳහා ඉදිරියේදී විවේකී ස්ථානයකට යාමට බලාපොරොත්තු වන බවත් ඔහු විසින් දැනුම් දෙන ලදී.
+Since my health is now admitted to the Colombo South Teaching Hospital, the monks who have been treated at the Colombo Teaching Hospital since its admitted to the Colombo Teaching Hospital and the sacrifices of the hospital staff have been given to everyone and the priests.He also said that all the local and dear fans were given to all of the dear fans and said that they would be necessary to go to a relaxation place.
 
 ◼️
 
 [Data](articles/433fbaaf.json)
+
+[Extended Data](ext_articles/433fbaaf.ext.json)
 
 ---
 
@@ -140,17 +148,19 @@ Ravishan Perera was divided into three wickets and two wickets among the winter 
 
 ---
 
-### மருந்து கொடுக்கல் வாங்கல்: ​7 பேருக்கு விளக்கமறியல் நீடிப்பு
+### Drug transaction: 7 people extended to 7
 
 *2024-01-24 20:20:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்து-கொடுக்கல்-வாங்கல்-7-பேருக்கு-விளக்கமறியல்-நீடிப்பு/175-332067) · `ta`
 
-சர்ச்சைக்குரிய Human Immunoglobulin மருந்து கொடுக்கல் வாங்கல் தொடர்பில் கைதாகியுள்ள சுகாதார அமைச்சின் முன்னாள் செயலாளர் ஜனக்க ஶ்ரீ சந்திரகுப்த உள்ளிட்ட 7 பேரும் எதிர்வரும் முதலாம் திகதி வரை தொடர்ந்தும் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+Seven persons, including former Secretary of Health, Janaka Chandragupta, who were arrested in connection with the controversial Human immunoglobulin drug transaction, have continued to be kept in detention until the first day.
 
-இது தொடர்பான வழக்கு மாளிகாகந்த நீதவான் நீதிமன்றத்தில் இன்று விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போதே விளக்கமறியல் உத்தரவு நீடிக்கப்பட்டது. R
+When the case was taken up for hearing at the Magistrate's Court today, the explanation order was extended.. Remble
 
 ◼️
 
 [Data](articles/27b32bc5.json)
+
+[Extended Data](ext_articles/27b32bc5.ext.json)
 
 ---
 
@@ -400,19 +410,23 @@ The prison center has requested that he be saved because he is fighting for life
 
 ---
 
-### சாந்தனின் உயிருக்கு ஆபத்து
+### Dawn
 
 *2024-01-24 18:48:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-உயிருக்கு-ஆபத்து/175-332066) · `ta`
 
-இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ்காந்தி கொலை வழக்கில் விடுதலையாகி தற்போது திருச்சி சிறைமுகாமில் தடுத்துவைக்கப்பட்டிருக்கும் சாந்தனின் உடல்நிலை பாதிக்கப்பட்டுள்ளதாக சிறைக்கைதிகள் உரிமை மையம் என்ற அமைப்பு தெரிவித்துள்ளது.
+The Prison Rights Center has said that Shantan's health has been affected by the Rajiv Gandhi murder case in the Rajiv Gandhi murder of India.
 
-திருச்சி சிறப்பு முகாமில் சாந்தனிற்கு உரிய சிகிச்சை அளிக்கப்படவில்லை இதனால் அவரின் உயிருக்கு ஆபத்து ஏற்பட்டுள்ளது இதனால் சென்னை பல்நோக்கு சிறப்பு மருத்துவமனையில் அவருக்கு சிகிச்சை வழங்கவேண்டும் என சிறைக்கைதிகள் உரிமை மையம்  தமிழக முதல்வருக்கு கடிதம் எழுதியுள்ளது.
+Santhan has not been treated at the Trichy Special Camp, causing his life to be treated at the Multipurpose Specialty Hospital in Chennai.
 
-ராஜீவ்காந்தி கொலை வழக்கில் தண்டனை பெற்று தற்போது விடுதலையான சாந்தன் இலங்கைக்கு திரும்புவதற்காக விசா போன்றவற்றை பெற்றுக்கொள்வதற்காக காத்திருக்கின்றார், திருச்சி முகாமில் அடைக்கப்பட்டுள்ள சாந்தனிற்கு சிறுநீரக பாதிப்பு எற்பட்டுள்ளதால் அவருக்கு உரிய சிகிச்சை வழங்குவதற்கான நடவடிக்கைகள் திருச்சி சிறப்பு முகாமில் எடுக்கப்படாததால் அவரின் உயிரை காப்பாற்றுவதற்காக  தமிழக முதல்வர் உரிய நடவடிக்களை எடுக்கவேண்டும் என சிறைக்கைதிகள் உரிமைகள் மையம் தனது கடிதத்தில் தெரிவித்துள்ளது.
+Shantan, who is currently released in the Rajiv Gandhi murder case, is waiting for a visa to return to Sri Lanka.
 
-...
+The prison center has requested that he be saved because he is fighting for life as he is fighting for two months.. Remble
+
+◼️
 
 [Data](articles/c90a2f5a.json)
+
+[Extended Data](ext_articles/c90a2f5a.ext.json)
 
 ---
 
@@ -560,21 +574,25 @@ Accordingly, the retail price of an egg will be Rs. 54.55, the association presi
 
 ---
 
-### அரசாங்கம் திருடர்களை சரியாக பிடித்திருந்தால் வற் வரியை விதித்து மக்களை நசுக்க வேண்டிய தேவை ஏற்பட்டிருக்காது - எதிர்க்கட்சித் தலைவர்
+### If the government liked the thieves, there would not have been a need to suppress the people by imposing a tax - the leader of the opposition
 
 *2024-01-24 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174716) · `ta`
 
-நாட்டை பொருளாதார ரீதியாக வங்குரோத்தாக்கி,நாட்டு மக்களை மிகவும் நிர்க்கதியான எதிர்காலத்திற்கு ஆளாக்கிய தரப்பினர் யார் என்பதனை உயர் நீதிமன்றத்தின் சமீபத்திய தீர்ப்பின் ஊடக வெளிக்கொணரப்பட்டது.
+The media of the High Court's latest ruling was revealed as to who had made the country economically bankrupt and made the people the most nervous future.
 
-இவ்வாறு வெளிக்கொணரப்பட்ட கோட்டாபய ராஜபக்ச,மஹிந்த ராஜபக்ச,பசில் ராஜபக்ச, அஜித் நிவாட் கப்ரால்,எஸ்.ஆர்.ஆடிகல,பி.பி. ஜயசுந்தர,டபிள்யூ.டி.லக்ஷ்மன் மற்றும் சமந்தா குமாரசிங்க போன்றவர்களைத் தவிர பொறுப்புக் கூற வேண்டிய மேலும் பலர் இந்த அரசாங்கத்தில் உள்ளனர்.
+Thus, Gotabhaya Rajapaksa, Mahinda Rajapaksa, Basil Rajapaksa, Ajith Niwad Kabral, SR Aadigala, PP. There are many more people who are responsible for the exception of Jayasundara, WD Lakshman and Samantha Kumarasinghe.
 
-இந்த ஊழல் மற்றும் மோசடி நடவடிக்கைகளுக்கு காரணமானவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதா என வரிச்சுமைக்கு ஆளான மக்கள் கேள்வி எழுப்புகின்றனர் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+The opposition leader said that taxpayer people are questioning whether legal action has been taken against those responsible for corruption and fraud.
 
-வற் வரியை அறவிடமால், திருடிய திருடர்களை சட்டத்தின் முன் நிறுத்த வேண்டும்.ஐக்கிய மக்கள் சக்தி அரசாங்கத்தில் இந்த திருடர்கள் சட்டத்தின் முன் நிறுத்தப்பட்டு,அனைத்து வித தண்டனைகளும் வழங்கப்படும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition Leader Sajith Premadasa said that the thieves will be presented before the law and will be sentenced to all kinds of punishment in the government of the United People's Power.
+
+Opposition Leader Sajith Premadasa said this in Parliament today (24) while questioning the government under Standing Orders 27 (2) on the legal proceedings of the gas, sugar, nano nitrogen, coal and fertilizer scandals.
 
 ...
 
 [Data](articles/8fe2012e.json)
+
+[Extended Data](ext_articles/8fe2012e.ext.json)
 
 ---
 

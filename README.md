@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 09:52:02**
+As of **2024-01-24 10:03:51**
 
 ## Newspaper Stats
 
-*Scraped **2,225** Articles*
+*Scraped **2,227** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 122
 newsfirstlk | 124
 economynextcom | 132
 islandlk | 133
-adaderanasinhalalk | 152
+adaderanasinhalalk | 154
 dailyftlk | 181
 adalk | 222
 virakesarilk | 242
@@ -26,11 +26,21 @@ dailymirrorlk | 284
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,210 (99.3%) of 2,225 articles have been extended.
+2,210 (99.2%) of 2,227 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### පාර්ලිමේන්තු සභාවාරය ඇරඹේ
+
+*2024-01-24 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192497) · `si`
+
+◼️
+
+[Data](articles/8e67ff19.json)
+
+---
 
 ### கிளிநோச்சியில் பஸ் - வேன் விபத்து ; ஒருவர் பலி ; 9 பேர் காயம்
 
@@ -79,6 +89,32 @@ Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of 
 ◼️
 
 [Data](articles/582baff2.json)
+
+---
+
+### බෙලිඅත්තේ ඝාතකයින් ආ ජීප් රථය ගාල්ලේ පිරිවෙනකින් සොයාගනී
+
+*2024-01-24 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192496) · `si`
+
+බෙලිඅත්තේ පංච පුද්ගල ඝාතනය සිදුකිරීමට වෙඩික්කරුවන් පැමිණි ජීප් රථය ජිප් ගාල්ලේ, විද්‍යාලෝක පිරිවෙනේ රථ ගාලේ තිබී සොයා ගෙන තිබේ.
+
+මේ අතර එම සිද්ධියෙන් විනාඩි 40කට පමණ පසුව මාතර - කඹුරුපිටිය ප්‍රධාන මාර්ගයේ කඹුරුපිටිය වටරවුම අසලදී වෙඩි තැබීමට පැමිණි ජීප් රථයේ සිටි වෙඩික්කරුවකු බවට සැකකෙරන පුද්ගලයෙක් ඉන් බැසයන අයුරු CCTV කැමරාවක සටහන්ව තිබුණි.
+
+මදක් ඉදිරියට යන ඔහු නැවතත් කඹුරුපිටිය බස් නැවතුම්පොළ දෙසට ගමන්කරන අයුරු දැකගත හැකිවිය.
+
+අනතුරුව ඔහු මාතර දෙසට ධාවනය වන බස් රථයකට නැග එම ස්ථානයෙන් පිටව ගොස් ඇති බව වාර්තාවෙයි.
+
+කෙසේවෙතත් අදාළ පුද්ගලයාගේ අනන්‍යතාව සම්බන්ධයෙන් මෙතෙක් කිසිදු තොරතුරක් අනාවරණ වී නොමැත.
+
+පසුගිය 22 වනදා උදෑසන තංගල්ල, බෙලිඅත්ත ප්‍රදේශයේ සිදුවු වෙඩිතැබීමෙන් අපේ ජනබල පක්ෂයේ නායක, සමන් පෙරේරා ඇතැළු පස්දෙනෙක් ජීවිතක්ෂයට පත්වුණි.
+
+උදෑසන 8.30ත් 8.40ත් කාලයේ මෙම වෙඩිතැබීම සිදුව තිබූ අතර, වෙඩිතැබීම සිදුවු ස්ථානයේම පුද්ගලයින් සිව්දෙනෙක් ජීවිතක්ෂයට පත්ව තිබිණි.
+
+එක් පුද්ගලයෙක් තංගල්ල රෝහලට ඇතුළත් කර සිටිය දී ජීවිතක්ෂයට පත්වුණි.
+
+...
+
+[Data](articles/33b8e096.json)
 
 ---
 
@@ -1947,41 +1983,5 @@ We are expanding our campaign to many countries, and we are seeking people who w
 [Data](articles/f2bc6639.json)
 
 [Extended Data](ext_articles/f2bc6639.ext.json)
-
----
-
-### Doctors call off planned strike action
-
-*2024-01-23 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96666/doctors-call-off-planned-strike-action) · `en`
-
-The Government Medical Officers’ Association (GMOA) has decided to call off the planned indefinite strike action which was slated to commence from tomorrow (Jan. 24).
-
-This decision has been reached after the Director General of Health Services, issuing a written notification to the Directors and Heads of all Health Institutions, a short while ago, canceling with immediate effect the previously issued letter announcing that the payment of the Disturbance, Availability and Transport (DAT) allowance of doctors for the month of January will be temporarily suspended.
-
-Furthermore, the heads of the institutions have been ordered to pay the relevant allowance through a special voucher to the doctors for the month of January, for those who do not receive the DAT allowance through the regular payroll.
-
-...
-
-[Data](articles/2c019e94.json)
-
-[Extended Data](ext_articles/2c019e94.ext.json)
-
----
-
-### GMoA cancels strike
-
-*2024-01-23 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192478) · `si`
-
-The Association has decided to suspend the continued strike scheduled to operate from the morning to the implementation of government medical officers tomorrow morning.
-
-The Director General of the Health Services DAT allowance has been repealed to the Chiefs of Health Institutions, which cancel the letter with the monthly discontinuation of the payment with the monthly assessment of the Government Medical Officers.
-
-Meanwhile, the General Measuring Authorities (AGC) has ordered the heads of the Institute to pay the applicant voucher for doctors who do not receive the DAT allowance for January.
-
-◼️
-
-[Data](articles/478cae37.json)
-
-[Extended Data](ext_articles/478cae37.ext.json)
 
 ---

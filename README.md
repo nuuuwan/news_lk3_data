@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 02:17:21**
+As of **2024-01-25 02:32:58**
 
 ## Newspaper Stats
 
-*Scraped **2,457** Articles*
+*Scraped **2,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ adaderanasinhalalk | 188
 dailyftlk | 190
 adalk | 241
 virakesarilk | 276
-tamilmirrorlk | 305
+tamilmirrorlk | 307
 adaderanalk | 308
 dailymirrorlk | 327
 
@@ -26,11 +26,27 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,457 (100.0%) of 2,457 articles have been extended.
+2,457 (99.9%) of 2,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### மக்களின் அபிலாஷைகளை கருதி   “வாபஸ் பெறவும்”
+
+*2024-01-25 01:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களின்-அபிலாஷைகளை-கருதி-வாபஸ்-பெறவும்/175-332085) · `ta`
+
+பாராளுமன்றத்தில் உள்ள 225 உறுப்பினர்களின் தனிப்பட்ட அபிலாஷைகளை விடுத்து, 220 இலட்சம் மக்களின் பொதுவான அபிலாஷைகளை கருத்திற் கொண்டு இந்த சட்டமூலத்தை உடனடியாக வாபஸ் பெறுங்கள் என்று ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாஸ தெரிவித்தார்.
+
+நிகழ்நிலை காப்பு சட்டமூலம் தொடர்பான இரண்டாம் நாள் விவாதம் புதன்கிழமை (24) நடைபெற்றது அதில்  கலந்து கொண்டு உரையாற்றும் போதே   சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+
+சட்டவாக்கத்துறையில் சட்டவாக்கம் மிக மேலான அறிவார்ந்த முறையில் நடக்க வேண்டும் என்றாலும் ,நிகழ்நிலை காப்பு தொடர்பான சட்டமூலத்தில் இவ்வாறு எதும் நடக்கவில்லை. தனிப்பட்ட ரீதியிலான தனிநபர்களின் பெயர்களுக்கு கலங்கம் விளைவித்தல்,தனிப்பட்ட தேவைகளை நிறைவேற்றிக் கொள்ளல் என்பவற்றிற்காக அமைச்சர்களால் இந்த சட்டமூலம் பயன்படுத்தப்பட்டுள்ளது. இதனூடாக 220 இலட்சம் மக்களின் அபிலாஷைகள்  நிறைவேற்றப்படாது என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+...
+
+[Data](articles/b5801bfc.json)
+
+---
 
 ### First suspect arrested for murder of Royal Beach Saman
 
@@ -85,6 +101,24 @@ During the meeting, the High Commissioner and Speaker Lord McFall discussed a wi
 [Data](articles/65bcb997.json)
 
 [Extended Data](ext_articles/65bcb997.ext.json)
+
+---
+
+### ’ 20 க்கு நேர்ந்த கதியே ஏற்படும்’
+
+*2024-01-25 00:28:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-க்கு-நேர்ந்த-கதியே-ஏற்படும்/175-332084) · `ta`
+
+சிங்கப்பூர் நாட்டை போன்று  ஊடக அடக்குமுறை கடுமையாக உள்ள நாடு ஆசியாவில் இல்லை. ஆகவே சிங்கப்பூர்  மாதிரியிலான  வகையில் நிகழ்நிலை காப்புச் சட்டமூலம் தயாரிக்கப்பட்டுள்ளதாக கூறுவதனை ஏற்றுக்கொள்ள முடியாது.   அரசியலமைப்பின் 20 ஆவது திருத்தச்சட்டத்துக்கு நேர்ந்த கதியே நிகழ்நிலை காப்புச் சட்டமூலத்துக்கும் நேரிடும்  என எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல எம்.பி. தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (24) இடம்பெற்ற உத்தேச நிகழ்நிலை காப்புச் சட்டமூலத்தின் இரண்டாம் வாசிப்பு மீதான 2 ஆம் நாள் விவாதத்தில் உரையாற்றும்போதே இவ்வாறு தெரிவித்த
+
+பாதுகாப்பு அமைச்சின் செயலாளர்,பாதுகாப்பு சட்ட அதிகாரி ஆகியோர் சிங்கப்பூருக்குச் சென்று ஆய்வுகளை மேற்கொண்டனர் அதற்கமைவாகவே நிகழ்நிலை காப்புச் சட்டமூலம் தயாரிக்கப்பட்டுள்ளது என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ்  இங்கு   தெரிவித்தார்.
+
+சர்வதேச தரப்படுத்தலுக்கு அமைய ஊடக சுதந்திர சுண்டெண்ணில் சிங்கப்பூர் 145 ஆவது இடத்தில் உள்ளது, ஆனால் இலங்கை சிங்கப்பூரை விடவும்  ஊடக சுதந்திரத்தில் முன்னிலையில் உள்ளது என்றார்.
+
+...
+
+[Data](articles/0cc214d1.json)
 
 ---
 
@@ -1963,43 +1997,5 @@ The Human Rights Watch (HRW) states that Sri Lanka’s proposed Online Safety Bi
 [Data](articles/d3627c4b.json)
 
 [Extended Data](ext_articles/d3627c4b.ext.json)
-
----
-
-### My eldest daughter entered the house and took sides and drinks of food: Maithripala!
-
-*2024-01-24 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174699) · `ta`
-
-Former President Polonnaruwa District Parliamentarian Maithripala Sirisena told parliament on Wednesday (24)
-
-He added that the thieves entered the house of my eldest daughter. Have carried milk sides and some foods and drinks from the house. But, the golden horses have nothing in that house.
-
-I also built a museum in Polonnaruwa at a cost of Rs.. He also said that no president in this country had built a museum.
-
-◼️
-
-[Data](articles/647f270a.json)
-
-[Extended Data](ext_articles/647f270a.ext.json)
-
----
-
-### Russian military plane crashes near Ukraine with 65 Ukrainian POWs on board
-
-*2024-01-24 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96695/russian-military-plane-crashes-near-ukraine-with-65-ukrainian-pows-on-board) · `en`
-
-A Russian military transport plane carrying 65 Ukrainian prisoners of war, six crew and three people accompanying them crashed on Wednesday morning in Russia’s Belgorod region near Ukraine, Russia’s Defense Ministry said.
-
-It wasn’t immediately clear what caused the crash, which occurred around 11 a.m. It was also not known if anyone survived.
-
-The authorities were investigating the cause of the crash, and a special military commission was on the way to the crash site, the Defense Ministry said.
-
-Earlier Wednesday, Ukrainian President Volodymyr Zelenskyy said a major Russian missile attack that apparently was devised to overwhelm Ukraine’s air defenses had killed 18 people and injured 130. Ukraine is marking the 700th day since the full-scale invasion by Kremlin’s forces started.
-
-...
-
-[Data](articles/2bde1086.json)
-
-[Extended Data](ext_articles/2bde1086.ext.json)
 
 ---

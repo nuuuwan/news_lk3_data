@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 01:51:34**
+As of **2024-01-25 02:02:39**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,453 (99.8%) of 2,457 articles have been extended.
+2,457 (100.0%) of 2,457 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ Meanwhile, the Police also discovered the vehicle used by the assailants in the 
 
 [Data](articles/8d5c68ae.json)
 
+[Extended Data](ext_articles/8d5c68ae.ext.json)
+
 ---
 
 ### Speaker endorses certificate on four Bills
@@ -66,6 +68,8 @@ Accordingly, the four Bills will come into effect as the Office for National Uni
 
 [Data](articles/75185383.json)
 
+[Extended Data](ext_articles/75185383.ext.json)
+
 ---
 
 ### Lankan envoy discusses future trajectory of Sri Lanka-UK ties with UK Speaker
@@ -79,6 +83,8 @@ During the meeting, the High Commissioner and Speaker Lord McFall discussed a wi
 ...
 
 [Data](articles/65bcb997.json)
+
+[Extended Data](ext_articles/65bcb997.ext.json)
 
 ---
 
@@ -287,6 +293,8 @@ The choice of Shritharan, a hardcore Tamil nationalist with sympathy for the LTT
 ...
 
 [Data](articles/d5e91a9d.json)
+
+[Extended Data](ext_articles/d5e91a9d.ext.json)
 
 ---
 

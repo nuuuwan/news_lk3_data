@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 23:02:37**
+As of **2024-01-24 23:17:23**
 
 ## Newspaper Stats
 
-*Scraped **2,428** Articles*
+*Scraped **2,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 133
 newsfirstlk | 135
 economynextcom | 144
 dailyftlk | 181
-adaderanasinhalalk | 187
+adaderanasinhalalk | 188
 adalk | 241
 virakesarilk | 276
 tamilmirrorlk | 301
@@ -26,7 +26,7 @@ dailymirrorlk | 319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,428 (100.0%) of 2,428 articles have been extended.
+2,428 (100.0%) of 2,429 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,24 @@ The injured individual has been admitted to the National Hospital, Colombo, acco
 [Data](articles/71b99ce4.json)
 
 [Extended Data](ext_articles/71b99ce4.ext.json)
+
+---
+
+### කොළඹ වෙඩිතැබීමක්
+
+*2024-01-24 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192532) · `si`
+
+අද (24) රාත්‍රී 9ත් 9.30ත් අතර කොළඹ ජින්තුපිටිය ප්‍රදේශයේදී වෙඩිතැබීමක් සිදුකර තිබේ.
+
+වෙඩිවැදීමෙන් තුවාල ලැබූ පුද්ගලයෙකු කොළඹ ජාතික රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+
+යතුරුපැදියකින් පැමිණි නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකු විසින් වෙඩිතැබීම සිදුකර පළාගොස් ඇති බවද පොලීසිය පැවසීය.
+
+ආදුරුප්පුවීදිය පොලිස් වසමේ ජින්තුපිටිය, ජින්තුපිටිය වීදිය ප්‍රදේශයේදී මෙම වෙඩි තැබීම සිදුකර ඇති බවද තවදුරටත් වාර්තා වෙයි.
+
+◼️
+
+[Data](articles/155dd828.json)
 
 ---
 
@@ -2011,31 +2029,5 @@ However, the fishing community says the project can be destroyed by this project
 [Data](articles/289e1687.json)
 
 [Extended Data](ext_articles/289e1687.ext.json)
-
----
-
-### Northern people who see the military farming in their own land
-
-*2024-01-24 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/174693) · `ta`
-
-Parliamentarian Rasamanikam Chanakyan has said that the plight of the people of the Northern region should not come to anyone who sees the military farming on their own land.
-
-He was speaking to the Defense Minister during the hearing of today's parliamentary session.
-
-The war in the North and East is now over 15 years after the end of the war. We cannot accept the claim that we have only protected military camps, especially in these North and East districts after 15 years.
-
-Although the priests claim that the ground floor of the Math Math School is not under military control, the ground land is under military control.
-
-You have said that you have set up another school instead of a school where a military camp has been set up in the Morakottan army.
-
-The newly built school is found in a river area. This is not what village parents or children do not want.
-
-Even if the school is used through a temporary alternative, it is unable to continue to be used.
-
-...
-
-[Data](articles/3d79c83e.json)
-
-[Extended Data](ext_articles/3d79c83e.ext.json)
 
 ---

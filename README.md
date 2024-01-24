@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 17:17:18**
+As of **2024-01-24 17:33:42**
 
 ## Newspaper Stats
 
-*Scraped **2,360** Articles*
+*Scraped **2,362** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 122
 newsfirstlk | 132
 islandlk | 133
 economynextcom | 144
-adaderanasinhalalk | 175
+adaderanasinhalalk | 177
 dailyftlk | 181
 adalk | 233
 virakesarilk | 264
@@ -26,11 +26,47 @@ dailymirrorlk | 307
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,358 (99.9%) of 2,360 articles have been extended.
+2,360 (99.9%) of 2,362 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### කෙටුම්පත් 04ක් සඳහා කථානායකගේ සහතිකය
+
+*2024-01-24 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192521) · `si`
+
+පාර්ලිමේන්තුව විසින් සම්මත කරනු ලැබූ පනත් කෙටුම්පත් 04ක් සඳහා සහතිකය සටහන් කළ බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා නිවේදනය කළේය.
+
+ඊයේ (23) කථානායකවරයා විසින් සිය සහතිකය කෙටුම්පත් සඳහා සටහන් කළ බව අද (24) පාර්ලිමේන්තුවට නිවේදනය කළේය.
+
+ඇටෝර්නි බලතල (සංශෝධන), වංචා වැළක්වීමේ (සංශෝධන), සමථ මණ්ඩල (සංශෝධන) සහ ජාතික සමගිය හා ප්‍රතිසන්ධානය පිළිබඳ කාර්යාල යන පනත් කෙටුම්පත්වලට කථානායකවරයා සිය සහතිකය සටහන් කොට තිබේ.
+
+ඒ අනුව, උක්ත පනත් කෙටුම්පත් 2024 අංක 01 දරන ජාතික සමගිය සහ ප්‍රතිසන්ධානය සඳහා වූ කාර්යාල පනත, 2024 අංක 02 දරන සමථ මණ්ඩල (සංශෝධන) පනත, 2024 අංක 03 දරන ඇටෝර්නි බලතල (සංශෝධන) පනත සහ 2024 අංක 04 දරන වංචා වැළැක්වීමේ (සංශෝධන) පනත ලෙස ඊයේ සිට බලාත්මක වේ.
+
+◼️
+
+[Data](articles/074d37b1.json)
+
+---
+
+### මාල නොකැඩූ බව රෝහිත කියයි
+
+*2024-01-24 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192520) · `si`
+
+තමන් මාල කැඩූ බවට ඇති එකදු හෝ පොලිස් පැමිණිල්ලක් පෙන්විය හැකි නම්, ඕනෑම මොහොතක පාර්ලිමේන්තුවෙන් ඉවත් වීමට සූදානම් බව පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පවසයි.
+
+බොහෝ අයට කුඩා කාලයේ දී විවිධ අන්වර්ථ නාමයන් පට බැඳෙන බවත් ප්‍රේමලාල් ජයසේකර මහතාට 'චොකා මල්ලි' යනුවෙන් අන්වර්ථ නාමයක් පට බැඳ ඇති සේ තමාට ද කුඩා කළ සිට 'රත්තරං' යනුවෙන් විවිධ පිරිස් අමතා ඇති බවත් මන්ත්‍රීවරයා සඳහන් කරයි.
+
+එවැනි පදනමකින් තමා ව රත්තරං යනුවෙන් විවිධ පාර්ශ්වයන් අමතනවා මිස තමා කිසි දිනයක මාල කැඩීම් වැනි දෑ සිදු නො කළ බව මන්ත්‍රීවරයා අවධාරණය කළේය.
+
+මාල කැඩීමක් පිළිබඳ පොලිස් පැමිණිල්ලක් තිබේ නම්, වහාම එය ඉදිරිපත් කරන ලෙසත් එසේ ඉදිරිපත් කිරීමට කිසිවකුට හෝ හැකි නම්, ඕනෑම මොහොතක සිය පාර්ලිමේන්තු අසුනෙන් ඉල්ලා අස් වීමට සූදානම් බවත් පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා අවසාන වශයෙන් පැවසීය.
+
+◼️
+
+[Data](articles/008dcb57.json)
+
+---
 
 ### Turkey’s parliament approves Sweden’s NATO membership, lifting a key hurdle
 
@@ -49,6 +85,8 @@ Hungary then becomes the only NATO ally not to have ratified Sweden’s accessio
 ...
 
 [Data](articles/5534d1a9.json)
+
+[Extended Data](ext_articles/5534d1a9.ext.json)
 
 ---
 
@@ -2025,41 +2063,5 @@ Four people died on the spot and another man was admitted to hospital after bein
 [Data](articles/eb4845cd.json)
 
 [Extended Data](ext_articles/eb4845cd.ext.json)
-
----
-
-### 'කතාවෙන් ඩිජිටෙල්. වැඩවලින් ගෝත්‍රිකයි'
-
-*2024-01-24 10:28:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd1vj7zgd1xo) · `si`
-
-මෙහි කිසිවක් අඩංගු නැත.Play video, "මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත : 'කතාවෙන් ඩිජිටෙල්. වැඩ වලින් ගෝත්‍රිකයි'", ධාවන කාලය 3,0803:08වීඩියෝ ශීර්ෂ වැකිය, සමාජවාදී තරුණ සංගමය සහ අලුත් පියාපත් ඇතුළු සිවිල් සංවිධාන නියෝජිතයෝ ඊට සහභාගී වූහ.
-
-මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පතට එරෙහිව පාර්ලිමේන්තුව අසල අදත් (ජනවාරි 24) විරෝධතාවයක් පැවැත්විණි.
-
-සමාජවාදී තරුණ සංගමය සහ අලුත් පියාපත් ඇතුළු සිවිල් සංවිධාන නියෝජිතයෝ ඊට සහභාගී වූහ.
-
-පාර්ලිමේන්තුවේ මේ වන විට විවාද කරමින් පවතින, අද පස්වරුවේ ඡන්ද විමසීමකින් අනතුරුව සම්මත කිරීමට රජය අපේක්ෂා කරන අදාල පනත් කෙටුම්පතට සංශෝධන එකතු නොකර සම්පුර්ණයෙන්ම අවලංගු කළ යුතු බව විරෝධතාවයට සහභාගී වුවෝ අවධාරණය කළහ.
-
-◼️
-
-[Data](articles/799b073d.json)
-
----
-
-### A rugby coach arrested with horino and alcohol
-
-*2024-01-24 10:26:49* · [`adalk`](https://www.ada.lk/breaking_news/හොරොයින්-හා-මත්පෙති-සමග-රග්බි-පුහුණුකරුවෙක්-අත්අඩංගුවට/11-407701) · `si`
-
-Alawatugoda Police have arrested a rugby coach with 4100 pharmaceutical capsules with heroin with two and a half g of drugs.
-
-The rugby coach's possession of heroin with two and a half grams of heroin in the Katugastota area in the Katugastota Police have been arrested in the Katugastota police division.
-
-The Criminal Division is conducting further investigations into the instructions of the Alawathugoda OIC Chief Inspector Sujeewa Gunatilake.
-
-◼️
-
-[Data](articles/ab72a695.json)
-
-[Extended Data](ext_articles/ab72a695.ext.json)
 
 ---

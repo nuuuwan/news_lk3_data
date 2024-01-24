@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 18:22:47**
+As of **2024-01-24 18:34:43**
 
 ## Newspaper Stats
 
-*Scraped **2,377** Articles*
+*Scraped **2,387** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ newsfirstlk | 135
 economynextcom | 144
 adaderanasinhalalk | 178
 dailyftlk | 181
-adalk | 235
+adalk | 236
 virakesarilk | 270
-tamilmirrorlk | 292
+tamilmirrorlk | 297
 adaderanalk | 298
-dailymirrorlk | 310
+dailymirrorlk | 314
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,377 (100.0%) of 2,377 articles have been extended.
+2,377 (99.6%) of 2,387 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Before final procession...
+
+*2024-01-24 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Before-final-procession/110-275661) · `en`
+
+An elephant bathing at the pond in front of the historic Kelaniya Rajamaha Viharaya before the beginning of the final procession. A procession known as “the Duruthu Perahera” is held on the pre-full moon poya day of the month of Duruthu (January) every year at the historic Kelaniya temple. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/91d4c312.json)
+
+---
+
+### Shantan - Kidney Liver Damage - Prisoners Rights Organization letter letter
+
+*2024-01-24 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174731) · `ta`
+
+The Prisoners Rights Center said that Shantan's health has been severely affected by the amnesty after several years after the murder of former Prime Minister Rajiv Gandhi in Rajiv Gandhi.
+
+The Prison Rights Center has written to the Chief Minister of Tamil Nadu that he should be treated at the Chennai Multipurpose Specialty Hospital.
+
+Rajiv Gandhi's murder case is waiting for Santhan, who is currently released in Sri Lanka.
+
+The prison center has requested that he be saved because he is fighting for life, but he has not been given proper treatment for two months.
+
+◼️
+
+[Data](articles/6e87b1b5.json)
+
+[Extended Data](ext_articles/6e87b1b5.ext.json)
+
+---
+
+### Alms giving ceremony for 70 bhikkhunis
+
+*2024-01-24 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Alms-giving-ceremony-for-70-bhikkhunis/110-275659) · `en`
+
+An alms giving ceremony was held today at the Buddhist Ladies College, Colombo premises for 70 Bhikkhunis. The ceremony was held in line with the 70th commomoration of the school. Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/3986c70b.json)
+
+---
+
+### 54 பேர் பங்கேற்கவில்லை: அரசுக்கு அறுவர் ஆதரவு
+
+*2024-01-24 17:58:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/54-பேர்-பங்கேற்கவில்லை-அரசுக்கு-அறுவர்-ஆதரவு/175-332065) · `ta`
+
+நிகழ்நிலை காப்புச் சட்டமூலம் 46 மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டது. இந்த சட்டமூலத்துக்கு ஆதரவாக 108 வாக்குகளும் எதிராக 62 வாக்குகளும்  அளிக்கப்பட நிலையில் 54 பேர் வாக்களிப்பில் பங்கேற்கவில்லை.
+
+எதிர்க்கட்சிகளின், பொதுமக்கள் மற்றும் பொது அமைப்புக்களின்  கடும் எதிர்ப்புகளுக்கு மத்தியில் பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலசினால் செவ்வாய்க்கிழமை (23) சபையில் சமர்ப்பிக்கப்பட்ட நிகழ்நிலை காப்புச் சட்டமூலம் மீதான விவாதம் செவ்வாய் மற்றும் புதன் ஆகிய இரு நாட்களாக இடம்பெற்ற நிலையில்  புதன்கிழமை (24) விவாத முடிவில் எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல எம்.பி. சட்ட மூலத்தை நிறைவேற்ற வாக்கெடுப்பைக் கோரினார்.
+
+இதனையடுத்து இடம்பெற்ற வாக்கெடுப்பிலேயே நிகழ்நிலை காப்புச்  சட்டமூலத்துக்கு ஆதரவாக 108 வாக்குகளும் எதிராக 62 வாக்குகளும் அளிக்கப்பட்ட நிலையில் 46 மேலதிக வாக்குகளினால் சட்டமூலம் நிறைவேற்றப்பட்டது.
+
+...
+
+[Data](articles/b0dc1f63.json)
+
+---
 
 ### We will completely cancel the Celebration Bill in our government - Harsha de Silva
 
@@ -54,6 +114,24 @@ We agree that social media should be monitored. This bill is the main objective 
 
 ---
 
+### Price of locally manufactured eggs increased by Rs. 3
+
+*2024-01-24 17:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Price-of-locally-manufactured-eggs-increased-by-Rs-3/108-275663) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - The All Ceylon Egg Producers' Association (ACEPA) has decided to increase the price of a locally produces egg by Rs. 3 after the increase in the standard value-added tax (VAT) rate from 15% to 18% from January 1.
+
+With the increase in the VAT, the price of an egg imported from India had been increased by Rs. 8. As a result, the price of a locally produced egg too was increased by Rs. 3.
+
+Accordingly, the stock price of an egg directly from the poultry farm has been increased to Rs. 48. However, after the meeting held on January 21, the price increment will be effective from that day.
+
+Accordingly, the retail price of an egg will be Rs. 54.55, the association president said.
+
+◼️
+
+[Data](articles/8766cbf8.json)
+
+---
+
 ### Online Safety Bill: Second reading passed with 46 majority
 
 *2024-01-24 17:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-Second-reading-passed-with-46-majority/108-275662) · `en`
@@ -65,6 +143,18 @@ Parliament, Jan. 24 (Daily Mirror)- The second reading of the Online Safety Bill
 [Data](articles/15ac8d23.json)
 
 [Extended Data](ext_articles/15ac8d23.ext.json)
+
+---
+
+### Online Safety Bill: Second reading passed with 46 majority votes
+
+*2024-01-24 17:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-Second-reading-passed-with-46-majority-votes/108-275662) · `en`
+
+Parliament, Jan. 24 (Daily Mirror)- The second reading of the Online Safety Bill was passed with a majority of 46 votes in parliamnt.
+
+◼️
+
+[Data](articles/beb8382f.json)
 
 ---
 
@@ -83,6 +173,22 @@ Accordingly, the Speaker informed the Parliament that the second reading of the 
 [Data](articles/6fbb582a.json)
 
 [Extended Data](ext_articles/6fbb582a.ext.json)
+
+---
+
+### ஒன்லைன் சட்டமூலம் நிறைவேறியது
+
+*2024-01-24 17:18:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-சட்டமூலம்-நிறைவேறியது/175-332063) · `ta`
+
+பாராளுமன்றத்தில், செவ்வாய்க்கிழமை (23), புதன்கிழமை (24) நடைபெற்ற நிகழ்நிலை  காப்புச் சட்ட மூலம் மீதான விவாதத்தின் பின்னர், புதன்கிழமை (24) மாலை வாக்கெடுப்புக்கு விடுக்கப்பட்டது.
+
+சட்டமூலத்தை வாக்கெடுப்புக்கு விடுமாறு, எதிர்க்கட்சி பிரதம கொறடாவான ஐக்கிய மக்கள் சக்தியின் கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் லக்ஷ்மன் கிரியெல்ல கோரிநின்றார்.
+
+அதன்பின்னர் வாக்கழைப்பு மணி ஒலிக்கப்பட்டது. சபைக்கு ​வெளியே இருந்த எம்.பிக்கள்,சபைக்குள் பிரவேசித்தனர் பின்னர் வாக்கெடுப்பு நடத்தப்பட்டது. அதில், சட்டமூலத்துக்கு ஆதரவாக 108 வாக்குகளும் எதிராக 62 வாக்குகளும் அளிக்கப்பட்டன.
+
+◼️
+
+[Data](articles/56e481d1.json)
 
 ---
 
@@ -123,26 +229,6 @@ Russian plane crashes with 65 Ukrainian prisoners of war on board
 [Data](articles/ca7de7c8.json)
 
 [Extended Data](ext_articles/ca7de7c8.ext.json)
-
----
-
-### Shantan - Kidney Liver Damage - Prisoners Rights Organization letter letter
-
-*2024-01-24 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174731) · `ta`
-
-The Prisoners Rights Center said that Shantan's health has been severely affected by the amnesty after several years after the murder of former Prime Minister Rajiv Gandhi in Rajiv Gandhi.
-
-The Prison Rights Center has written to the Chief Minister of Tamil Nadu that he should be treated at the Chennai Multipurpose Specialty Hospital.
-
-Rajiv Gandhi's murder case is waiting for Santhan, who is currently released in Sri Lanka.
-
-The prison center has requested that he be saved because he is fighting for life, but he has not been given proper treatment for two months.
-
-◼️
-
-[Data](articles/6e87b1b5.json)
-
-[Extended Data](ext_articles/6e87b1b5.ext.json)
 
 ---
 
@@ -261,6 +347,26 @@ Hungary then becomes the only NATO ally not to have ratified Sweden’s accessio
 [Data](articles/5534d1a9.json)
 
 [Extended Data](ext_articles/5534d1a9.ext.json)
+
+---
+
+### இராணுவ தளபதி  பரசூட்டு வீரராக தகுதி
+
+*2024-01-24 16:19:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-தளபதி-பரசூட்டு-வீரராக-தகுதி/175-332061) · `ta`
+
+இராணுவ தளபதி லெப்டினன் ஜெனரல் விக்கும் லியனகே   இராணுவ பரசூட்டில் தனது நிபுணத்துவம் மற்றும் அறிவின் மூலம்   இராணுவ பரசூட் வீரராக தகுதியை பெற்றார்.
+
+இராணுவ பரசூட் வீரராக மாறுவதற்கான தளபதியின் பயணம் குடாஓய கொமாண்டோ படையணி பயிற்சிப் பாடசாலையில் இடம்பெற்றது.
+
+இராணுவத் தளபதி, மாலைதீவு தேசிய பாதுகாப்புப் படையணியின் 18 படையினர் மற்றும் இலங்கை இராணுவத்தைச் சேர்ந்த 14 படையினர் உட்பட ஏனைய பங்கேற்பாளர்களுடன், உஹான விமானப்படைத் தள ஓடுபாதையில் எம்ஐ-17 ஹெலிகாப்டரில் விமானத்தில் 2024   ஜனவரி 22 ம் திகதியன்று சென்றார்.
+
+தளபதி உஹான விமானப்படை தளத்தின் துளி மண்டலத்தின் மீது பராசூட் குதித்து, மரியாதைக்குரிய வான்வழி வீரர்களின் குடும்பத்துடன் அதிகாரப்பூர்வமாக இணைந்தார்.
+
+இந்த சாதனையானது இலங்கை இராணுவ வரலாற்றில் ஒரு குறிப்பிடத்தக்க தடயமாக லெப்டினன் ஜெனரல் இராணுவ பரசூட் வீரராக காணப்படுவது குறிப்பிடத்தக்கது.
+
+...
+
+[Data](articles/c056e165.json)
 
 ---
 
@@ -456,7 +562,7 @@ The police spokesman, law spokesman, has been promoted to the post of DIG.
 
 *2024-01-24 15:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-kapruka-buys-usa-subsidiary-148553/) · `en`
 
-ECONOMYNEXT – E-commerce retailer Kapruka Holdings Plc acquired Kapruka USA LLC for 100 dollars, the company said in a stock exchange filing.
+ECONOMYNEXT – E-commerce retailer Kapruka Holdings Plc acquired Kapruka USA LLC, which operates its trading platform and payment gateway for 100 dollars, the company said in a stock exchange filing.
 
 “Kapruka Holdings PLC wishes to inform you that it has acquired 100% ownership of Kapruka USA LLC, incorporated in the United States of America, at a value of USD 100 on 01st November 2023.”
 
@@ -684,7 +790,7 @@ On 14 December 2022, Maligakanda Magistrate Lochani Abeywickrama had deemed as s
 
 ---
 
-### Sri Lanka online bill will curb freedom of speech in election year: Sajith
+### Sri Lanka online bill will kill democratic rights in election year: Sajith
 
 *2024-01-24 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-bill-will-curb-freedom-of-speech-in-election-year-sajith-148548/) · `en`
 
@@ -1162,6 +1268,26 @@ The ministry said that the man who had come to commit the crime had been driving
 
 ---
 
+### ඇතැම් රාජ්‍ය නිලධාරින්ගේ වැරැදි නිසා ආයෝජකයින් නැවත එන්නේ නෑ
+
+*2024-01-24 14:12:36* · [`adalk`](https://www.ada.lk/breaking_news/ඇතැම්-රාජ්‍ය-නිලධාරින්ගේ-වැරැදි-නිසා-ආයෝජකයින්-නැවත-එන්නේ-නෑ/11-407709) · `si`
+
+අරුවක්කාලු කසල ව්‍යාපෘතිය වැඩ කටයුතු මාර්තු මස වනවිට අවසන් කරන බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි. එහි අවසන් අදියරේ වැඩ කටයුතු කඩිනම් කරන්නැයි අමාත්‍යවරයා නිලධාරීන්ට උපදෙස් දුන්නේය.
+
+අමාත්‍යවරයා මෙහිදී අවධාරණය කර සිටියේ ආයෝජකයින් සමඟ කටයුතු කිරීමේදී ඇතිවන ගැටළුවලට නිත්‍යානූකූල ක්‍රියාමාර්ග ගෙන කඩිනමින් ඔවුන්ට විසදුම් ලබා දෙන ලෙසයි.
+
+එවැනි ප්‍රමාදයන් නිසා හා ඇතැම් රාජ්‍ය නිලධාරින් කරන වැරැදි නිසා ආයෝජකයින් මෙරටට නැවත නොපැමිණිය හැකි බවද අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මෙහිදී පැවසීය.
+
+අරුවක්කාලු කසළ ව්‍යාපෘතිය සම්බන්ධයෙන් පැන නැගී ඇති ගැටළු සාකච්ඡා කිරීම සඳහා නාගරික සංවර්ධන අධිකාරි ශ්‍රවණාගාරයේදී ඊයේ (23) පැවති සාකච්ඡාවකට එක්වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+
+චීන සමාගමක් වන චයිනා හාබර් ඉංජිනේරු සමාගම සහ සවුත්වෙස්ට් මියුනිසිපල් ඉංජිනියරිං ඇන්ඩ් රිසර්ච් ඉන්ස්ටිටියුට් ඔප් චයිනා සමාගම විසින් අරුවක්කාලු කසල අංගනයේ ඉදිකිරීම් කටයුතු සිදු කරනු ලබයි.
+
+...
+
+[Data](articles/967855dc.json)
+
+---
+
 ### ID Number is Tin Number
 
 *2024-01-24 14:09:13* · [`adalk`](https://www.ada.lk/breaking_news/හැඳුනුම්පත්-අංකය-ටින්-අංකය-වෙයි/11-407708) · `si`
@@ -1199,6 +1325,28 @@ Simply mocking, contempt of contempt is not torture or mental harassment.
 [Data](articles/02f75ad9.json)
 
 [Extended Data](ext_articles/02f75ad9.ext.json)
+
+---
+
+### ‘பெண்ணை கேலி செய்வது சித்திரவதை ஆகாது’: நீதிமன்றம்
+
+*2024-01-24 14:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-கேலி-செய்வது-சித்திரவதை-ஆகாது-நீதிமன்றம்/175-332054) · `ta`
+
+“வெறுமனே கேலி செய்வது, இழிவாகப் பேசுவது என்பது சித்திரவதை செய்வது அல்லது மனரீதியாக துன்புறுத்துவது ஆகாது” என மும்பை உயர்நீதிமன்ற அவுரங்காபாத் கிளை நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+மராட்டிய மாநிலம்-நந்துர்பூரை சேர்ந்த பெண் கடந்த 1994ஆம் ஆண்டு ஏப்ரல் மாதம் உடலில் தீவைத்து தன்னுயிரை மாய்த்து கொண்டுள்ளார்.
+
+பெண்ணை தற்கொலைக்கு தூண்டியதாக பெண்ணின் கணவர், மைத்துனர், மாமியார் மீது பொலிஸார் வழக்குப்பதிவு செய்துள்ளனர்.
+
+வழக்கை விசாரித்த நந்துர்பூர் அமர்வு நீதிமன்றம், பெண்ணை தற்கொலைக்கு தூண்டியதாக கணவர் உட்பட 3 பேருக்கும் தண்டனை வழங்கியுள்ளது.
+
+குறித்த மனுவை நீதிபதி அபய் வாக்வாசே தலைமையிலான தனி நபர் அமர்வு விசாரித்துள்ளது. விசாரணையின் முடிவில், குற்றஞ்சாட்டப்பட்ட 3 பேரையும் விடுவித்து நீதிபதி உத்தரவிட்டுள்ளார்
+
+"கணவர் உட்பட 3 பேரும் பெண்ணை தற்கொலைக்கு தூண்டியதற்கான ஆதாரங்கள் எதுவும் நீதிமன்றில் சமர்ப்பிக்கப்படவில்லை. குற்றஞ்சாட்டப்பட்டவர்கள் பெண்ணை சமைக்க தெரியவில்லை என கேலி செய்ததாகவும், பணம் கேட்டதாகவும் பொலிஸ் தரப்பில் கூறப்படுகிறது.
+
+...
+
+[Data](articles/ea248238.json)
 
 ---
 
@@ -1853,199 +2001,5 @@ He made this statement during a discussion held at the Presidential Office on th
 [Data](articles/7097e65c.json)
 
 [Extended Data](ext_articles/7097e65c.ext.json)
-
----
-
-### USA again attacks the positions of Iranian groups in Iraq
-
-*2024-01-24 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174678) · `ta`
-
-The US Defense Secretary has said that in Iraq, the Ghatab Hesbullah group has carried out attacks against other Iranian groups.
-
-He said the attack was in response to the attack on other US countries in Iraq and Syria.
-
-The US Defense Secretary has said that the President and I are not hesitant to take further action to protect the interests of the United States.
-
-We are ready to take further steps to protect our people and our interests in the region. We are urging these groups and Iranians to support them, "US Defense Secretary Ostin said.
-
-◼️
-
-[Data](articles/e45394bd.json)
-
-[Extended Data](ext_articles/e45394bd.ext.json)
-
----
-
-### Ceylon Electricity Board employees who participated in the demonstration letter letter to 10,000
-
-*2024-01-24 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/174672) · `ta`
-
-The Ceylon Electricity Board (CEB) has sent a letter to 10,000 employees of the Ceylon Electricity Board.
-
-The Ceylon Electricity Board (CEB) has sent a letter to explain the sick holiday and explain the participation in the recent demonstration.
-
-The next phase of action will be taken on the basis of the answers of the employees, Deputy General Manager of the Ceylon Electricity Board (CEB)
-
-Meanwhile, 66 employees of the Ceylon Electricity Board have been sacked on charges of participating in the demonstration.
-
-Ranjan Jayalal, general secretary of the Ceylon Electricity Employees Union, who will take stern action against the repression of the employees.
-
-◼️
-
-[Data](articles/7c38b152.json)
-
-[Extended Data](ext_articles/7c38b152.ext.json)
-
----
-
-### The baby bites the girl in the courtyard
-
-*2024-01-24 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192505) · `si`
-
-If Elephants are worried about the worries. It is not possible to care for something in a garden field like a garden field.
-
-In the Mawanella yesterday (23), a nine-year-old girl who was in a nine-year-old girl was reported from the Mawanella yesterday.
-
-"I was bobbed at that moment and was drying in the yard. We were giving up my son to eat. The daughter was in the yard at that time. When four people came to the daughter, he came to his body, he fell into the yard when he had finished his body. The knees were bites in the Kula area of the leg.
-
-They're not afraid of us. The son is the man who had taken home and dropped the strips. After the incident, we quickly took the daughter to the Mawanella government hospital. The doctor told us that if the blood was delicious, the blood was not going to be able to bite, "
-
-Most of the areas in the Kegalle district, most areas in the Kegalle district are currently underway.
-
-...
-
-[Data](articles/cf10c45f.json)
-
-[Extended Data](ext_articles/cf10c45f.ext.json)
-
----
-
-### Sri Lanka's proposed website threatens the upcoming elections - International Human Rights Watch
-
-*2024-01-24 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174674) · `ta`
-
-The International Human Rights Watch said Sri Lanka's proposed website threatens the upcoming elections.
-
-The International Human Rights Watch has said that the new Internet law, which is trying to bring in a hurry in parliament this week, will create a wide range of vague and vague crimes in talks to provide a long -term punishment.
-
-The International Human Rights Watch said the law threatens the corporation as the president is preparing for the parliamentary elections later this year.
-
-The International Human Rights Watch has said that the proposed protection law is aimed at providing protection against e -mail harassment and fraudulent abuse.
-
-The International Human Rights Watch said that the President will appoint the Commission as the wrong information posted on the Internet.
-
-The Commission can also control the use of the Internet.
-
-The International Human Rights Watch said that experts appointed by the Commission can impose heavy fine fines for inspection of the houses of the suspects.
-
-◼️
-
-[Data](articles/591fc20e.json)
-
-[Extended Data](ext_articles/591fc20e.ext.json)
-
----
-
-### 91 percent of young children has been given to Smap Vaccine
-
-*2024-01-24 11:32:47* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-දරුවන්ගෙන්-සියයට-91කට-සරම්ප-එන්නත-ලබාදී-අවසන්/11-407702) · `si`
-
-Industry and Health Minister Dr. Ramesh Pathiran said that 91% of children in Sri Lanka have been completed.
-
-The Minister pointed out that the disease was eradicated in Sri Lanka, but the disease was initiated, the vaccine program has been launched.
-
-Minister of Industry and Health Dr. Ramesh Pathirana made this statement participating at a press conference at the press conference at the Presidential Media Center.
-
-Speaking further Industries and Health Minister Ramesh Pathirana said:
-
-"The main hope of this year is to strengthen the work of preventing disease. Improvement of primary health services is expected to provide more efficient service to patients. It is also expected to provide the necessary allocations for this purpose.
-
-...
-
-[Data](articles/c0d4282a.json)
-
-[Extended Data](ext_articles/c0d4282a.ext.json)
-
----
-
-### The latest people who receive teacher appointments
-
-*2024-01-24 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192504) · `si`
-
-Minister of Education Susil Premajay also says that 5,500 teachers have been gazetted for several selected subjects.
-
-The Minister was responding to a question raised by Opposition Leader Sajith Premadasa in Parliament.
-
-The appointment of teachers, physics, biology, mathematics and special languages are to be given for information.
-
-Meanwhile, 22,000 petitions have been held for 9 months in the Supreme Court regarding the recruitment of graduates and the verdict will be given next week.
-
-However, due to the number of teachers vacancies should be removed due to the number of teachers vacancies.
-
-He said all the provincial councils had already taken steps to provide 13,500 teachers appointment but that it was delayed due to the judicial role in this regard.
-
-◼️
-
-[Data](articles/37c76fc5.json)
-
-[Extended Data](ext_articles/37c76fc5.ext.json)
-
----
-
-### Minister of Education on Examination
-
-*2024-01-24 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192503) · `si`
-
-Minister of Education Susil Premajay also says that by the year 2025, the necessary program has been prepared to be conducted properly.
-
-The Minister made this observation today (24).
-
-The Minister also said that the GCE A / L examination will end on February first and the program required for the answer securities will be prepared.
-
-He said that the incident has been made by the Cabinet Memorandum of the Cabinet of Ministers to provide the allowances paid to teachers and university lecturers who survere the answer sheets of the A / L examination.
-
-◼️
-
-[Data](articles/5df8fa27.json)
-
-[Extended Data](ext_articles/5df8fa27.ext.json)
-
----
-
-### Trump wins New Hampshire primary as rematch with Biden appears increasingly likely
-
-*2024-01-24 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96686/trump-wins-new-hampshire-primary-as-rematch-with-biden-appears-increasingly-likely) · `en`
-
-Former President Donald Trump easily won New Hampshire’s primary on Tuesday, seizing command of the race for the Republican nomination and making a November rematch against President Joe Biden feel all the more inevitable.
-
-The result was a setback for former U.N. Ambassador Nikki Haley, who finished second despite investing significant time and financial resources in a state famous for its independent streak. She’s the last major challenger after Florida Gov. Ron DeSantis ended his presidential bid over the weekend, allowing her to campaign as the sole alternative to Trump.
-
-Trump’s allies ramped up pressure on Haley to leave the race before the polls had closed, but Haley vowed after the results were announced to continue her campaign. Speaking to supporters, she intensified her criticism of the former president, questioning his mental acuity and pitching herself as a unifying candidate who would usher in generational change.
-
-...
-
-[Data](articles/325fd7a2.json)
-
-[Extended Data](ext_articles/325fd7a2.ext.json)
-
----
-
-### Cash rewards for people providing information for ‘Yukthiya’
-
-*2024-01-24 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96685/cash-rewards-for-people-providing-information-for-yukthiya) · `en`
-
-Sri Lanka Police have decided to offer cash prizes to the individuals who provide information about illegal firearms and bombs.
-
-The relevant cash rewards will be awarded to the individuals who provide information for the ‘Yukthiya’ special police operation, through which multiple successful raids have been carried out since its launch on December 17, 2023 to crack down on narcotics distribution and criminal offences in the country.
-
-Accordingly, the Acting Inspector General of Police Deshabandu Tennakoon has given instructions to all the Senior DIGs, DIGs, and the Officers In-Charge of each police division regarding the matter.
-
-Accordingly, Rs. 250,000 is offered to tip-offs about automatic firearms such as T56, AK47, M16, SAR80 and T81 as well as semi-automatic firearms including 84S, SLR, auto loading shotguns.
-
-...
-
-[Data](articles/cb836544.json)
-
-[Extended Data](ext_articles/cb836544.ext.json)
 
 ---

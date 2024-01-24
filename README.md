@@ -1,92 +1,134 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 20:17:33**
+As of **2024-01-24 20:32:58**
 
 ## Newspaper Stats
 
-*Scraped **2,402** Articles*
+*Scraped **2,405** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 33
-bbccomsinhala | 46
+bbccomsinhala | 47
 dbsjeyarajcom | 122
 islandlk | 133
 newsfirstlk | 135
 economynextcom | 144
 adaderanasinhalalk | 180
 dailyftlk | 181
-adalk | 239
+adalk | 240
 virakesarilk | 271
 tamilmirrorlk | 299
-adaderanalk | 304
+adaderanalk | 305
 dailymirrorlk | 315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,397 (99.8%) of 2,402 articles have been extended.
+2,402 (99.9%) of 2,405 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### වෙඩි වැදීමෙන් අපවත් වූ හිමි නම ගැන අලුත් කතාවක් එළියට
+### Iranian national arrested over large-scale drug racket in Kesbewa
+
+*2024-01-24 20:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96707/iranian-national-arrested-over-large-scale-drug-racket-in-kesbewa) · `en`
+
+Police have arrested an Iranian individual who allegedly carried out a large-scale ‘Kush’ smuggling racket in a house obtained on a rental basis in the Kesbewa area.
+
+Piliyandala Police had conducted the relevant raid acting on a tip-off provided by a person who had gone for some repair work at the suspected Iran national’s house.
+
+The suspect had requested the repairman to find buyers for the ‘Kush’ stock in his possession and that he would pay him for it. However, the repairman had informed the officers attached to the Western Province Police Intelligence Unit.
+
+During the raid, the police recovered 160 grams of ‘Kush’ hidden in the house. The street value of the seized stock of narcotics is believed to be around Rs. 1.5 million, according to police.
+
+Police have uncovered that the suspected Iranian had distributed the drugs through courier services while carrying out monetary transactions online.
+
+◼️
+
+[Data](articles/1ba22deb.json)
+
+---
+
+### A new story out about the name we have been shot
 
 *2024-01-24 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192524) · `si`
 
-ගම්පහ - මල්වතුහිරිපිටිය ප්‍රදේශයේ විහාරස්ථානයක් තුළ දී ඊයේ (23) භික්ෂුවක් වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් පොලිස් විමර්ශන නව මානයකට යොමු ව ඇති අතර, ඒ අනුව කඩුවෙල ප්‍රදේශයේ දී සැකකරුවන් පැමිණි මෝටර් රථය ගිනි තබා එම ස්ථානයෙන් ගමන් කළ පුද්ගලයන් දෙදෙනෙකු පිළිබඳ විමර්ශකයන්ගේ අවධානය යොමු ව තිබේ.
+Police investigations have been referred to the incident in the temple in the Malwathathhiripitiya area in Gampaha yesterday (23), accordingly the investigators of two persons who had arrived in the area..
 
-මෙම සැකකරුවන් දෙදෙනා සම්බන්ධයෙන් කිසියම් තොරතුරක් වෙතොත් ළඟම ඇති පොලීසියට දැනුම්දෙන ලෙස පොලීසිය ඉල්ලීමක් කර ඇත.
+Police have requested the nearest police to inform the nearest police.
 
-රජයේ රස පරීක්ෂකවරයා අද සිදු කළ පරීක්ෂාවේ දී අනාවරණ වී ඇත්තේ, අදාළ මෝටර් රථය කොටස් එකලස් කර සැකසූ එකක් බවටයි.
+The government's analyst was revealed in the inspection of today, the car was assembled and processed.
 
-මේ අතර, ඝාතනයට ලක් වූ භික්ෂුව ගුරුකම් සඳහා නම් දැරූ භික්ෂුවක් වන අතර, පාතාල කල්ලියක් හා එක් ව සිදුකළ යම්කිසි ගනුදෙනුවක දී ඇති වූ ආරවුලක් මත ඝාතනය සිදු ව ඇතැයි සැක කරන බව පොලීසිය පවසයි.
+Meanwhile, the murdered monk is a monk for teachers, police said.
 
-පොලීසිය සිදු කළ විමර්ශනවල දී අනාවරණ වී ඇත්තේ, භික්ෂුවගේ අවාතේව සිදු කරමින් සිටි තරුණයා නමින් භික්ෂුව නිවාස කිහිපයක්ම මිල දී ගෙන ඇති බවයි.
+Investigations carried out by the police have revealed that several Buddhist monks have been purchased in the name of the monastery.
 
 ◼️
 
 [Data](articles/b9052635.json)
 
+[Extended Data](ext_articles/b9052635.ext.json)
+
 ---
 
-### මහින්ද කොඩිතුවක්කු ගැන මහෙස්ත්‍රාත්වරයාගේ තීන්දුව
+### Magistrate's decision on Mahinda Kodituwakku
 
 *2024-01-24 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192523) · `si`
 
-අවලෝකිතේශ්වර නාමයෙන් පෙනී සිටිමින් බුදු දහමට අපහාස කළේ යැයි චෝදනා එල්ල වූ මහින්ද කොඩිතුවක්කු නැමැත්තාට මානසික වෛද්‍ය ප්‍රතිකාර අවශ්‍ය බව අධිකරණ මනෝ වෛද්‍යවරයා අද (24) කොටුව මහේස්ත්‍රාත් අධිකරණයට දැනුම් දී තිබේ.
+The Judicial Psyunami has informed the Fort Magistrate's Court today that Mahinda Kodituwakku, who is accused of appearance with the Avalocritice.
 
-ඒ අනුව සැකකරු තවදුරටත් රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කළ අධිකරණය, ඔහු ව මානසික වෛද්‍ය ප්‍රතිකාර ලබාගැනීම සඳහා යොමු කරන ලෙස  නියම කළේ ය.
+Accordingly, the court ordered to be remanded further reserves, he ordered him to direct mental medical treatment.
 
-අවලෝකිතේශ්වර බෝධිසත්ත්ව නාමයෙන් පෙනී සිටිමින් දිවයිනට පැමිණි මහින්ද කොඩිතුවක්කු නැමැත්තෙකු අනුගාමිකයන්ගේ වැඳුම් පිදුම්වලට ලක් වන ආකාරයේ වීඩියෝ දර්ශන පසුගිය සමයේ සමාජ මාධ්‍යයේ සංසරණය වූ අතර, ඔහුගේ දේශන තුළින් බුදු දහමට අපහාස සිදු වන බවට ද චෝදනා එල්ල විය.
+The videos of the Avalokithenwara Bodhisuna, which arrived in the island, circulated in the social media in social media, and his lectures were accused of insulting Buddhism.
 
-පසු ව පරිගණක අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගැනුණු සැකකරු, ජනවාරි 16 වැනි දා අධිකරණය හමුවට ඉදිරිපත් කළ අවස්ථාවේ කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා නියෝග කළේ, සැකකරුගේ මානසික සෞඛ්‍ය තත්ත්වය සම්බන්ධයෙන් වාර්තාවක් අධිකරණයට ඉදිරිපත් කරන ලෙසයි.
+Fort Magistrate Thilina Gamage ordered the Fort Magistrate Thilina Gamage to be produced in court on January 16.
 
-ඒ අනුව සැකකරු ඊයේ අංගොඩ මානසික සෞඛ්‍ය විද්‍යායතනය වෙත රැගෙන ගිය අතර, එහි දී පැය 03කට ආසන්න කාලයක් වෛද්‍යවරුන් ඔහුගේ මානසික තත්ත්වය පරීක්ෂා කර තිබිණි.
+The suspect was taken to the Angoda Muthural Health Scienceship yesterday, and doctors had inspected his mental status for nearly three hours.
+
+When the Law was taken up before the Law Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort, Solicitor General Dili-Peiris (CID) reported.
 
 ...
 
 [Data](articles/2ba27a66.json)
 
+[Extended Data](ext_articles/2ba27a66.ext.json)
+
 ---
 
-### ඔන්ලයින් පනත සම්මතයි
+### Online bill passed
 
 *2024-01-24 19:05:19* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්ලයින්-පනත-සම්මතයි/11-407713) · `si`
 
-මාර්ගගත ක්‍රමවල සුරක්ෂිත භාවය පිළිබඳ පනත් කෙටුම්පත වැඩි ඡන්ද 46 කින් පාර්ලිමේන්තුවේදී අද (24) සංශෝධන සහිතව සම්මතවිය.
+Online Method Self-in Bill, 46 votes were passed in parliament today (24).
 
-පනතට පක්ෂව ඡන්ද 108ක් ලැබුණු අතර ඊට විරුද්ධව ලැබුණේ ඡන්ද 46ක් පමණි. ආණ්ඩු පක්ෂයේ මන්ත්‍රීවරු පනතට පක්ෂව ඡන්දය ප්‍රකාශ කළහ.
+108 votes were cast in favor of the bill and 46 votes were against it. The government MPs voted in favor of the bill.
 
-පනතට විරුද්ධව ඡන්දය ප්‍රකාශ කළේ සමග ජන බලවේගය, ජාතික ජන බලවේගය, දෙමළ ජාතික සන්ධානය සහ නිදහස ජනතා සභාව නියෝජනය කරන මන්ත්‍රීවරු වෙති.
+MPs, the National Folk Force, TNA, representing the National Alliance and Independence of the People's Council, with votes against the bill.
 
-රොෂාන් රණසිංහ මන්ත්‍රීවරයා පනත් කෙටුම්පතට විරුද්ධව ඡන්දය ප්‍රකාශ කළේය. අලි සබ්‍රි රහීම්,වඩිවෙල් සුරේෂ්, ඩබ්ලිව් ඩී ජේ සෙනවිරත්න යන මන්ත්‍රීවරු පනතට පක්ෂව ඡන්දය ප්‍රකාශ කළහ.
+Roshan Ranasinghe voted against the Bill. Ali Sabri inscriptions, Vadivel Suresh, Wadow, Wadd Jay Seneviratne voted in favor of the bill.
 
 ◼️
 
 [Data](articles/44895cb1.json)
+
+[Extended Data](ext_articles/44895cb1.ext.json)
+
+---
+
+### ඉතිහාසය වෙනස් කල යුද්ධ හමුදාපතිගේ ගුවන් පිම්ම
+
+*2024-01-24 19:02:23* · [`adalk`](https://www.ada.lk/picture_story/ඉතිහාසය-වෙනස්-කල-යුද්ධ-හමුදාපතිගේ-ගුවන්-පිම්ම/10-407712) · `si`
+
+යුද්ධ හමුදාපති ලුතිතන් ජෙනරාල් විකුම් ලියනගේ පසුගිය ජනවාරි මස 22 වන දින‌ ඓතිහාසික  පිම්මක් පනිමින් පැරෂුට් හමුදා භටයකු ලෙස සිය අභීත බව විදහා දැක්වීය. දෙස් විදෙස් නිලධාරීන් හා සෙබලු කණ්ඩායමක්ද, සමගින් ඔහු එම දක්ෂතාව පෙන්වූයේ පැරෂුට් ඉතිහාසයට නව පරිඡ්චේදයක් ඒක් කරමිනි.
+
+ඌව කුඩා ඔය කොමාන්ඩෝ  පුහුණු පාසලේ පැරෂුට් පුහුණු අංශය තුලදී සිදුකල පැරෂුට් පැනීම සදහා අවශ්‍ය මුලික ශිල්පයන් ප්‍රගුණ කිරිමෙන් අනතුරුව උහන ගුවන් හමුදා කඳවුරෙහි පැරෂුට් පතිත කලාපයේදී ඔහු එම පිම්ම සිදු කරන ලද්දේ මාලදිවයින් නිලධාරීන් තිදෙනෙක් හා සෙබලු 15 දෙනෙක්, යුද්ධ හමුදා විනයාරක්ෂාධිපති ඇතුළු කොමාන්ඩෝ සෙබලු 13 දෙනෙක් ද සමගිනි.
+
+...
+
+[Data](articles/1a54184e.json)
 
 ---
 
@@ -1354,21 +1396,23 @@ Thus, the said Bills will come into effect as the Office for National Unity and 
 
 ---
 
-### මාල කැඩුවා කියලා ඔප්පුකළොත් ගෙදර යනවා
+### Will go home if they prove that the necklaces
 
 *2024-01-24 14:31:49* · [`adalk`](https://www.ada.lk/breaking_news/මාල-කැඩුවා-කියලා-ඔප්පුකළොත්-ගෙදර-යනවා/11-407711) · `si`
 
-තමා මාල කැඩුවා යැයි පොලිස් පොතක පැමිණිල්ලක් පෙන්නුවොත් හෙට  පාර්මේන්තුවෙන් ඉවත් වී  ගෙදර යන බව පොදු ජනපෙරමුණේ කළුතර දිස්ත්‍රික් මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පාර්ලිමේන්තුවේදී පැවසීය.
+Kalutara District MP Rohitha Abeygunawardena said in parliament that if a police book had loved the necklaces tomorrow.
 
-තමා මාල කඩනවා දැක්ක එක්කෙනෙක් හෝ ඉන්නවා නම් ඉදිරිපත් වන්නැයි අභියෝග කරන බවද අබේගුණවර්ධන මහතා සඳහන් කළේය.
+Mr. Abeygunawardena said he would challenge the presentation if he had seen the necklaces.
 
-ඕනෑම පුද්ගලයෙකු පොඩි කාලේ ගෙදරට කියන නමක් තිබෙන බවත් තමාට ගෙදර අය ආදරේට කිව්වේ රත්තරන්  යැයි ද ඔහු පැවැසීය.
+He said that he had a name named at home when he was a child, he said that he was speeded by gold.
 
-මාල කැඩීම නිසා රත්තරන් යැයි තමා හඳුන්වන බවට දේශපාලනයට පැමිණීමෙන් පසු සමාජ මාධ්‍ය විසින් සමාජගත කර ඇතැයිද රෝහිත අබේගුණවර්ධන මහතා පැවසීය.
+Rohitha Abeygunawardena said that the social media has been reintegrated into politics after the necklace is gold.
 
 ◼️
 
 [Data](articles/d2a774b6.json)
+
+[Extended Data](ext_articles/d2a774b6.ext.json)
 
 ---
 
@@ -1644,6 +1688,26 @@ Simply ridicuing, speaking disgusting is not to torture, or mental harassment.
 
 ---
 
+### පූජ්‍ය කළපළුවාවේ ධම්මරතන හිමි ඝාතනය: මෙතෙක් අප දන්නේ මොනවාද?
+
+*2024-01-24 14:00:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp6xed2n80eo) · `si`
+
+රට තුළ දිනෙන් දින ඉහළ යන මත්ද්‍රව්‍ය සහ සංවිධානත්මක අපාරාධ මැඩලීම සඳහා වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන්ගේ උපදෙස් මත ආරම්භ කරන ලද යුක්තියේ මෙහෙයුම මේවන විට රටපුරා ක්‍රියාත්මක වෙමින් පවතියි.
+
+ඒ අනුව රටපුරාම පාහේ ආරක්ෂාව තරකර ඇති අතර වාහන හා බස් රථ සෝදිසි කිරීම් ඇතුළුව පොලිස් මෙහෙයුම් දැඩි කර ඇත.
+
+එවන් පසුබිමක (ජනවාරි මස 23 වැනිදා) මෝටර් රථයකින් පැමිණි පිරිසක් බෞද්ධ භික්ෂූන් වහන්සේ නමක් වෙඩි තබා ඝාතනය කිරීමේ සාහසික සිද්ධියක් වාර්තාවුයේ ගම්පහ, මල්වතු හිරිපිටිය ප්‍රදේශයෙනි.
+
+නාදුනන තුවක්කුකරුවෙකු විහාරස්ථානය තුළදීම එල්ල කළ වෙඩි පහරකින් අපවත්වුයේ 45 හැවිරිදි වියේ පසුවූ පූජ්‍ය කළපළුවාවේ ධම්මරතන නැමති හිමිනමකි.
+
+ගම්පහ මල්වතුහිරිපිටිය කහටාන, ඝනාරාම මහා විහාරස්ථානයේ වැඩසිටි හිමිනමකට මෙම වෙඩි ප්‍රහාරය එල්ල වුයේ (ජනවාරි 23 වැනිදා) දහවල් 12 ට පමණය.
+
+...
+
+[Data](articles/816ca790.json)
+
+---
+
 ### Seven accused sentenced to death for seven court history
 
 *2024-01-24 13:54:14* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඉතිහාසය-අලුත්-කළ-නඩුවේ-විත්තිකරුවන්-07කට-මරණ-දඩුවම/11-407707) · `si`
@@ -1860,21 +1924,25 @@ The Kilinochchi police said that the vehicle driver's unrespective driver was th
 
 ---
 
-### ගවයින්ගේ ගැටුනු බස්රථය වෑන්රථයක මුහුණට මුහුණ ගැටෙයි,  කාන්තාවක් මරුට, 08 කට බරපතලයි
+### Woman dies after falling back to a vanishing bus collide
 
 *2024-01-24 13:26:21* · [`adalk`](https://www.ada.lk/uncategorized/ගවයින්ගේ-ගැටුනු-බස්රථය-වෑන්රථයක-මුහුණට-මුහුණ-ගැටෙයි---කාන්තාවක්-මරුට--08-කට-බරපතලයි/1-407705) · `si`
 
-යාපනය මහනුවර ඒ- 09 ප්‍රධාන මාර්ගයේ  කිලිනොච්චිය, අලිමංකඩ, උමයාල්පුරම් ප්‍රදේශයේදී ලංගම බස්රථයක් වෑන් රථයක මුහුණට මුහණ ගැටී අද (24) අලුයම සිදුවූ අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත්ව තවත් අටදෙනකු බරපතල තුවාල ලබා රෝහල්ගත කල බවට කිලිනොච්චිය පොලිසිය පවසයි.
+A woman killed in an accident in general area Kilinochchi, Kilinochchi and Umamalapitiya in Jaffna and eight others were injured in an accident in general area Kilinochchi.
 
-යාපනය සිට මහනුවර බලා ධාවනය වු  ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් හා කටුනායක ගුවන්තොටුපොළ වෙත ගොස් නැවත යාපනය වෙත ගමන්ගත් වෑන් රථයක් මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලිසිය පැවසීය.
+The accident had occurred when a bus belonging to the Sri Lanka Transport Board from Jaffna and the Katunayake airport and returned to Jaffna.
 
-ඒහිදී ලංගම බස් රථය අධික වේගයකින් ධාවනය වී වෙගය පාලනය කරගැනීමට නොහැකිව මාර්ගයේ නිදා සිටි ගවයින් රංචුවක ගැටීමෙන් පසුව ඉදිරියෙන් පැමිණි වෑන් රථයේ මුහුණට මුහුණ ගැටී අ‍ැති අතර බස්රථයේ ගැටුනු ගවයින් 08 දෙනකුද ජීවිතක්ෂයට පත්ව අ‍ැත.
+At the time, the SLTB bus was running at a speedy speed and eight crowd cows were killed in the bus.
 
-අනතුරින් මිය ගොස් ඇත්තේ 50 හැවිරිදි  යාපනයේ පදිංචි  කතිරිනා තිරුචෙල්වම් නැමති කාන්තාවක් වන අතර අනතුරින් බරපතල තුවාල ලැබූවන් මේ වන විට කිලිනොච්චිය මහරෝහලේ දැඩිසත්කාර ඒ්කකයේ ප්‍රතිකාර ලබමින් සිටිති.
+The deceased has been identified as a 50-year-old resident of Jaffna.
 
-...
+The Kilinochchi police said that the vehicle driver's unrespective driver was the cause of the accident.
+
+◼️
 
 [Data](articles/278ca31b.json)
+
+[Extended Data](ext_articles/278ca31b.ext.json)
 
 ---
 
@@ -1937,65 +2005,5 @@ The people of this country know that they have not accepted the leadership of th
 [Data](articles/7430baa0.json)
 
 [Extended Data](ext_articles/7430baa0.ext.json)
-
----
-
-### Appointment to 5,500 teachers
-
-*2024-01-24 13:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-500-ஆசிரியர்களுக்கு-நியமனம்/175-332053) · `ta`
-
-Education Minister Susil Premjayantha said that the gazette for incorporating 5,500 new teachers has been published.
-
-The Minister made this statement while responding to a question raised by opposition leader Sajith Premadasa.
-
-New teacher appointments are to be made for physics, biology, mathematics, chemistry, technology and special languages.
-
-◼️
-
-[Data](articles/cd3e16c7.json)
-
-[Extended Data](ext_articles/cd3e16c7.ext.json)
-
----
-
-### 2025 Examinations
-
-*2024-01-24 13:09:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-ஆம்-ஆண்டு-பரீட்சைகள்-வழமைக்கு/175-332052) · `ta`
-
-Education Minister Susil Premjayantha has said that since 2025, arrangements have been made to conduct the exams in a timely manner.
-
-The Minister also stated that after the GCE Advanced Level Examination was completed on the 1st of February, arrangements are being made to evaluate the answer sheets.
-
-At the same time, he pointed out that the teachers who evaluate the Answer Personnels have submitted a Cabinet paper on allowance.
-
-◼️
-
-[Data](articles/2614ff97.json)
-
-[Extended Data](ext_articles/2614ff97.ext.json)
-
----
-
-### Protest near the Parliament against the Online Safety Bill
-
-*2024-01-24 12:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/protest-near-the-parliament-against-the-online-safety-bill/) · `en`
-
-COLOMBO (News 1st) – The debate on the draft Online Safety Bill is currently being held in Parliament for the second day today.
-
-Meanwhile, a protest was held today at Polduwa Junction near the Parliament
-
-It was conducted amidst a court order being issued preventing protesting at that location.
-
-Members of several civil organizations, including the Socialist Youth Association, joined the protest
-
-When the protest was about to start, the police informed the protestors of the court order, but they did not accept it and continued the protest.
-
-Russian plane crashes with 65 Ukrainian prisoners of war on board
-
-◼️
-
-[Data](articles/cb3ce31c.json)
-
-[Extended Data](ext_articles/cb3ce31c.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 07:20:44**
+As of **2024-01-24 07:44:45**
 
 ## Newspaper Stats
 
@@ -26,43 +26,51 @@ dailymirrorlk | 276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,180 (99.9%) of 2,182 articles have been extended.
+2,182 (100.0%) of 2,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### පුද්ගලයෙකුගේ රෝහල් ඇඳ ඉහපත් වාර්තාව අතුරුදන්වීම ගැන ශ්‍රේෂ්ඨාධිකරණයෙන් දුන් නියෝගය
+### The Court of Supreme Court order the Supreme Court over the disappearance of a person's hospital bed
 
 *2024-01-24 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192489) · `si`
 
-අමානුෂික ලෙස පහරදීමේ සිද්ධියක් සම්බන්ධයෙන් ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්‌පති රන්මල් කොඩිතුවක්කු මහතාට එරෙහිව මූලික අයිතිවාසිකම් පෙත්සමක් ගොනුකළ පුද්ගලයා රෝහල්ගතව ප්‍රතිකාර ලැබූ අවස්ථාවේ දී ඊට අදාළ "රෝහල් ඇඳ ඉහපත් වාර්තා" අතුරුදන් වී ඇතැයි කියන සිද්ධිය පිළිබඳව සොයා බලා වාර්තාවක් ඉදිරිපත් කරන ලෙසෙ ශ්‍රේෂ්ඨාධිකරණය විසින් මුල්ලේරියාව රෝහලේ අධ්‍යක්ෂවරයාට නියෝග කර තිබේ.
+The Supreme Court has ordered the director of the Mulleriyawa Hospital.
 
-කිසිදු සාධාරණ හේතුවක් නොමැතිව තමන්ව අත්අඩංගුවට ගෙන අමානුෂික ලෙස පහරදී ලිංගික හිරිහැරයන්ට භාජනය කළේ යැයි චෝදනා කරමින් ව්‍යපාරිකයකු වන මිශාර රණසිංහ නමැත්තකු විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් කැඳවනු ලැබූ අවස්ථාවේදී මෙම නියෝගය නිකුත් කළ බව "අද දෙරණ" අධිකරණ වාර්තාකරු සඳහන් ක‍ළේය.
+The order was made by a fundamental rights petition, accusing a fundamental rights petition filed by a businessman who was arrested and inhuman harassment was held without any reasonable reason.
 
-යසන්ත කෝදාගොඩ, කුමුදුනී වික්‍රමසිංහ සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම කැඳවනු ලැබීය.
+The petition was summoned before the Supreme Court Judge Bench comprised of Yasantha Kodagoda, Kumuduni Wickremasinghe and Priyantha Fernando.
 
-පෙත්සම යළි සලකා බැලීම සඳහා මාර්තු මස 22 වනදා කැඳවන ලෙස අධිකරණය නියෝග කළේය.
+The court ordered to be summoned on March 22 to reconside the petition.
 
-...
+The petitioner has said that he was traveling from a motorcycle in Kiriella on October 30, 2021 while a group of Kiriella Police officials were taken to Kiriella police and later sexually released.
+
+The petitioner has presented the petition, demanding legal action against the officials and other officials who are responsible for the incident.
+
+◼️
 
 [Data](articles/9eb14785.json)
 
+[Extended Data](ext_articles/9eb14785.ext.json)
+
 ---
 
-### අදත් අව්ව සැරයි
+### Surveying today
 
 *2024-01-24 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192487) · `si`
 
-දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතිනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology announces that a key weather in the island is mainly there.
 
-හිමිදිරි උදෑසන කාලයේදී නුවරඑළිය දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මල්තුහින ඇතිවීමේ හැකියාවක් පවතී.
+In some places in the Nuwara Eliya district, there is a possibility of a flower.
 
-සබරගමුව, මධ්‍යම, බස්නාහිර සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+In some places in some places in the Galle, Western and Uva provinces, in some places, are expected to be meto.
 
 ◼️
 
 [Data](articles/12e77fed.json)
+
+[Extended Data](ext_articles/12e77fed.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 16:17:26**
+As of **2024-01-24 16:32:41**
 
 ## Newspaper Stats
 
-*Scraped **2,347** Articles*
+*Scraped **2,356** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,54 @@ bbccomsinhala | 45
 dbsjeyarajcom | 122
 newsfirstlk | 132
 islandlk | 133
-economynextcom | 142
-adaderanasinhalalk | 173
+economynextcom | 144
+adaderanasinhalalk | 175
 dailyftlk | 181
 adalk | 232
 virakesarilk | 264
 tamilmirrorlk | 292
 adaderanalk | 296
-dailymirrorlk | 302
+dailymirrorlk | 307
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,340 (99.7%) of 2,347 articles have been extended.
+2,347 (99.6%) of 2,356 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Nihal Thalduwa promoted as DIG
+
+*2024-01-24 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nihal-Thalduwa-promoted-as-DIG/108-275658) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - Police Spokesman SSP Nihal Thalduwa has been promoted to the rank Deputy Inspector General of Police (DIG).
+
+He will take charge of Police Crime Range and will also continue as the Police Media Spokesman.
+
+◼️
+
+[Data](articles/dee81761.json)
+
+---
+
+### විරෝධතාවක් වළක්වමින් අධිකරණ නියෝගයක්
+
+*2024-01-24 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192518) · `si`
+
+මිරිහාන පොලිස් වසමේ දෙල්කඳ හන්දියේ සිට නුගේගොඩ දක්වා සහ කිරුළපන සිට නුගේගොඩ දක්වා වන හයිලෙවල් මාර්ගයේ ගමන් කිරීමට නියමිත ව තිබුණු විරෝධතා පා ගමනක් වළක්වාලමින් අධිකරණය විසින් නියෝගයක් නිකුත් කර තිබේ.
+
+එම ප්‍රදේශයේ උසස් පෙළ විභාග මධ්‍යස්ථාන 04ක් ඇති බැවින් විරෝධතා පා ගමන තහනම් කරන ලෙස මෙම අධිකරණය නියෝගය පනවා ඇත.
+
+පොලීසිය මඟින් කරන ලද ඉල්ලීමකට අනුව නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය මඟින් මෙම තහනම් නියෝගය පනවා තිබේ.
+
+◼️
+
+[Data](articles/610dea95.json)
+
+---
 
 ### Police Spokesman Nihal Thalduwa promoted to DIG
 
@@ -44,21 +74,95 @@ Accordingly, DIG Thalduwa will take charge of Police Crime Range and will contin
 
 [Data](articles/69a2bbbf.json)
 
+[Extended Data](ext_articles/69a2bbbf.ext.json)
+
 ---
 
-### 4 சட்டமூலங்களுக்கு சபாநாயகர் கைச்சாத்து
+### Speaker signed 4 Bill Bill
 
 *2024-01-24 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/174707) · `ta`
 
-பாராளுமன்றத்தில் அண்மையில் நிறைவேற்றப்பட்ட தேசிய ஒற்றுமைக்கும் நல்லிணக்கத்துக்குமான அலுவலக சட்டமூலம், மத்தியஸ்த சபை (திருத்தச்) சட்டமூலம்,அற்றோனித் தத்துவம் (திருத்தச்) சட்டமூலம் மற்றும் மோசடிகளைத் தடுத்தல் (திருத்தச்) சட்டமூலம் என்பவற்றில் செவ்வாய்க்கிழமை  கையொப்பத்தையிட்டு சான்றுரைப்படுத்தியதாக சபாநாயகர்  மஹிந்த யாப்பா அபேவர்தன சபைக்கு  அறிவித்தார்.
+Speaker Mahinda Yapa Abeywardena has announced that he has signed a pro -National Unity and Reconciliation Bill, the Arbitration Council (Amendment) Bill, the Athonith Philosophy (Amendment) Bill and the Prevention of Fraud (Amendment) Bill on Tuesday.
 
-பாராளுமன்றம்  புதன்கிழமை (24) காலை 9.30 மணிக்கு சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் கூடியது. இதன்போது இடம்பெற்ற சபாநாயகர் அறிவிப்பின்போதே  அவர் இவ்வாறு  சபைக்கு அறிவித்தார்.
+Parliament convened on Wednesday (24) at 9.30 am chaired by Speaker Mahinda Yapa Abeywardena. He made this announcement to the House during the announcement of the Speaker.
 
-இதற்கமைய, இந்தச் சட்டமூலங்கள் 2024 ஆம் ஆண்டின் 01 ஆம் இலக்க தேசிய ஒற்றுமைக்கும் நல்லிணக்கத்துக்குமான அலுவலக சட்டம், 2024 ஆம் ஆண்டின் 02 ஆம் இலக்க மத்தியஸ்த சபை (திருத்தச்) சட்டம், 2024 ஆம் ஆண்டின் 03 ஆம் இலக்க அற்றோனித் தத்துவம் (திருத்தச்) சட்டம் மற்றும் 2024 ஆம் ஆண்டின் 04 ஆம் இலக்க மோசடிகளை தடுத்தல் (திருத்தச்) சட்டமாக 23 ஆம் திகதி செவ்வாய்க்கிழமை முதல் அமுலுக்கு வருகின்றன என்றார்.
+Accordingly, the Bill of the National Unity and Reconciliation Act No. 01 of 2024, the Arbitration Council No. 02 of 2024, the Amendment Act No. 03 of 2024, and the Prevention of the Fraud of 2024He said the law would come into effect from Tuesday, the 23rd.
 
 ◼️
 
 [Data](articles/8ad1f565.json)
+
+[Extended Data](ext_articles/8ad1f565.ext.json)
+
+---
+
+### නිහාල් තල්දූව නියෝජ්‍ය පොලිස්පති තනතුරට උසස් කෙරේ
+
+*2024-01-24 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192517) · `si`
+
+පොලිස් මාධ්‍ය ප්‍රකාශක, නීතීඥ නිහාල් තල්දූව මහතා නියෝජ්‍ය පොලිස්පති ධුරය දක්වා උසස් කර තිබේ.
+
+◼️
+
+[Data](articles/b0043605.json)
+
+---
+
+### Sri Lanka Kapruka buys USA subsidiary
+
+*2024-01-24 15:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-kapruka-buys-usa-subsidiary-148553/) · `en`
+
+ECONOMYNEXT – E-commerce retailer Kapruka Holdings Plc acquired Kapruka USA LLC for 100 dollars, the company said in a stock exchange filing.
+
+“Kapruka Holdings PLC wishes to inform you that it has acquired 100% ownership of Kapruka USA LLC, incorporated in the United States of America, at a value of USD 100 on 01st November 2023.”
+
+Kapruka USA LLC operates the e-commerce platform of Kapruka including below primary tasks such as Global payment gateway integration into Kapruka, Representing Kapruka to cross-border e-commerce platforms such as Amazon and eBay, Digital advertising platform representation of Kapruka in US-based advertising platforms such as Google, Facebook, and Instagram, and Server hosting for the Kapruka platform, the company said.
+
+Kapruka sells and delivers a variety of products such as food, electronics and pharmaceuticals through an online platform.
+
+...
+
+[Data](articles/cd702425.json)
+
+---
+
+### Russian plane carrying 65 Ukrainian prisoners of war crashes
+
+*2024-01-24 15:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-plane-carrying-65-Ukrainian-prisoners-of-war-crashes/108-275656) · `en`
+
+Belgorod, Jan 24 (BBC) -  A Russian Ilyushin-76 military transport plane has crashed in the southern Belgorod region bordering Ukraine.
+
+At least 65 people Ukrainian prisoners of war were killed, according to Russia's ministry of defence.
+
+Ria Novosti news agency said another nine people were on board, including six crew.
+
+Regional governor Vyacheslav Gladkov said he was aware of an "incident" but gave no further details.
+
+Video shared on social media showed a plane going down near the village of Yablonovo followed by an explosion, at around 11:00 local time (08:00 GMT).
+
+Russian presidential spokesman Dmitry Peskov said the Kremlin was aware of the crash but refused to go in to details.
+
+◼️
+
+[Data](articles/5e51ceb3.json)
+
+---
+
+### TIN to be issued using NIC numbers: Siyambalapitiya
+
+*2024-01-24 15:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/TIN-to-be-issued-using-NIC-numbers-Siyambalapitiya/108-275657) · `en`
+
+Ruwanwella, Jan. 24 (Daily Mirror)-  The government is considering issuing the Taxpayer Identification Number (TIN) with the assistance of the Department for Registration of Persons, using the National Identity Card (NIC) numbers, State Minister of Finance Ranjith Siyambalapitiya said.
+
+The Minister said this decision was taken at a meeting to provide the public with the TIN very easily while the normal procedure to obtain the TIN is still in progress.
+
+He told reporters in Ruwanwella that the TIN will be issued using the database of the 15 million of the 18 year-olds in the country.
+
+The Minister said a complete database on state revenue could be created after the introduction of the digital identity card in the future.
+
+◼️
+
+[Data](articles/f67378ed.json)
 
 ---
 
@@ -74,21 +178,29 @@ The Human Rights Watch (HRW) states that Sri Lanka’s proposed Online Safety Bi
 
 [Data](articles/d3627c4b.json)
 
+[Extended Data](ext_articles/d3627c4b.ext.json)
+
 ---
 
-### மாணவனின் மர்ம உயிரிழப்பு ; மத்ரஸா குறித்து ஆராய குழு நியமிப்பு
+### Student's mysterious death;Committee assignment to explore madrasa
 
 *2024-01-24 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174704) · `ta`
 
-மத்ரஸா பாடசாலை மாணவனின் மர்ம உயிரிழப்பு தொடர்பான சம்பவம் தொடர்பில் முஸ்லீம் சமய பண்பாட்டு அலுவல்கள் திணைக்களம் விசாரணை மேற்கொள்வதற்காக ஐவர் கொண்ட குழு ஒன்றினை நியமித்துள்ளது.
+The Department of Muslim Religious and Cultural Affairs has appointed a five -member committee to investigate the mysterious death of a schoolgirl.
 
-அம்பாறை மாவட்டம் சாய்ந்தமருது சந்தை  வீதியில் அமைந்துள்ள கட்டடம்  ஒன்றில் நடாத்தப்படும்  மத்ரஸா ஒன்றில்  கடந்த வருடம் டிசம்பர் மாதம்  5 ஆம் திகதி அன்று   மட்டக்களப்பு மாவட்டம்  காத்தான்குடி பகுதியைச்  சேர்ந்த எம்.எஸ். முஸ்அப் (வயது-13) எனும்  மாணவன்  தூக்கில் தொங்கி  உயிரிழந்ததாக தெரிவிக்கப்பட்டு சாய்ந்தமருது பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்தார்.
+MS in Kattankudy, Batticaloa district on December 5 last year at a building at a building located on the Sainthamaruthu Market Road, Ampara District.. A student named Musa (age 13) was admitted to the Sainthamaruthu Divisional Hospital after being found dead.
 
-மேலும் குறித்த மாணவனின்  மரணத்தில் சந்தேகம் இருப்பதாக பொதுமக்கள் ஒன்று கூடி குறிப்பிட்ட மதர்ஸாவின் நிர்வாகி மீது தாக்குதல் மேற்கொள்ள தயாராகிய வேளை  மேலதிக பொலிஸார் அவ்விடத்திற்கு அழைக்கப்பட்ட நிலையில்  சாய்ந்தமருது பொலிஸாரால்   மதரஸா  நிர்வாகியாகிய மௌலவி  கைது செய்யப்பட்டு அழைத்து செல்லப்பட்டு வழக்கு தாக்கல் மேற்கொள்ளப்பட்டு மன்றின் உத்தரவிற்கமைய விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+Moulavi, the administrator of the Sainthamaruthu police, has been arrested and filed by the Sainthamaruthu police, when the public gathered and prepared to attack the Madarsa's executive.
 
-...
+Following the incident, the committee is currently conducting a rapid inquiry into the Madrasa's complaint on the complaint sent to the Department of Muslim Religious and Cultural Affairs by other parties, including Attorney -at -Law Shafi H. Ismail.
+
+The Committee is conducting an inquiry into the incident and the Committee will issue a full report on the incident.
+
+◼️
 
 [Data](articles/dbdbb33c.json)
+
+[Extended Data](ext_articles/dbdbb33c.ext.json)
 
 ---
 
@@ -125,6 +237,8 @@ Earlier Wednesday, Ukrainian President Volodymyr Zelenskyy said a major Russian 
 ...
 
 [Data](articles/2bde1086.json)
+
+[Extended Data](ext_articles/2bde1086.ext.json)
 
 ---
 
@@ -218,6 +332,28 @@ On 14 December 2022, Maligakanda Magistrate Lochani Abeywickrama had deemed as s
 
 [Data](articles/9774549f.json)
 
+[Extended Data](ext_articles/9774549f.ext.json)
+
+---
+
+### Sri Lanka online bill will curb freedom of speech in election year: Sajith
+
+*2024-01-24 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-bill-will-curb-freedom-of-speech-in-election-year-sajith-148548/) · `en`
+
+ECONOMYNEXT – A controversial bill on controlling online publications is an attempt to curb the freedom of speech of the public in an election year, opposition leader Sajith Premadasa said.
+
+“This is election year, when a presidential and general election are to be held, clearly this was introduced to curtail the freedom of speech of the citizens of this country, right to express opinions, and destroy their democratic right,” Premadasa told parliament.
+
+Sri Lanka’s supreme court ruled that 31 provisions were unconstitutional.
+
+Several ruling party legislators and ministers referred to instances where they have been criticized or false statements made against them on social media.
+
+Ports Minister Rohitha Abeygunawardena said he was called Raththarang (gold) as an endearment when he was young but social media had now created the impression that he got the accolade after stealing necklaces (gold chains).
+
+...
+
+[Data](articles/cf2f4fc1.json)
+
 ---
 
 ### Leading Mitchell Cosse
@@ -277,6 +413,18 @@ Meanwhile, the State Minister revealed that the Inland Revenue Department (IRD) 
 [Data](articles/57c1512b.json)
 
 [Extended Data](ext_articles/57c1512b.ext.json)
+
+---
+
+### Withdraw online safety bill...
+
+*2024-01-24 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Withdraw-online-safety-bill/110-275653) · `en`
+
+Several civil organisations staged a protest today at the Polduwa junction against the online safety bill, which is paving the way for a presidential frenzy. The protestors demanded the government to withdraw the bill immediately. Pix by Nimalsiri Edirisinghe
+
+◼️
+
+[Data](articles/55c7bb8c.json)
 
 ---
 
@@ -362,6 +510,26 @@ The US dollar purchasing price was 314.9824 and the sales price were 324.7787 ba
 
 ---
 
+### Accident at Kilinochchi - woman and eight cattle dead
+
+*2024-01-24 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Accident-at-Kilinochchi-woman-and-eight-cattle-dead/108-275652) · `en`
+
+Kilinochchi, Jan 24 (Daily Mirror)  -  A woman died and eight others were seriously injured when a SLTB bus knocked to death eight heads of cattle and collided head on with a passenger van at Umayalpuram in Kilinochchi on the Kandy-Jaffna A09 highway in the morning.
+
+The bus was transporting a group of passengers from Jaffna to Kandy, while the van was on its way back from Katunayake International Airport.
+
+Investigations revealed that the driver had lost control of the bus due to excessive speed and collided with the van after knocking down a herd of cattle lying on the road.
+
+The woman who died in the incident was identified as Kathirina Thiruchelvam (50) from Jaffna. The injured were admitted to the Intensive Care Unit of the Kilinochchi General Hospital.
+
+The driver of the bus has been arrested by Kilinochchi police pending further investigations.
+
+◼️
+
+[Data](articles/56e099e2.json)
+
+---
+
 ### Accident at Kilinochchi - woman and five cattle dead
 
 *2024-01-24 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Accident-at-Kilinochchi-woman-and-five-cattle-dead/108-275652) · `en`
@@ -435,6 +603,8 @@ Earlier this month, the president of Buddhist Information Centre, Ven. Agulugall
 ...
 
 [Data](articles/d9601559.json)
+
+[Extended Data](ext_articles/d9601559.ext.json)
 
 ---
 
@@ -1871,177 +2041,5 @@ Two of them have been taken to the Jaffna Teaching Hospital for further treatmen
 [Data](articles/8c5b3b3c.json)
 
 [Extended Data](ext_articles/8c5b3b3c.ext.json)
-
----
-
-### Speaker endorses Office of National Unity and Reconciliation Bill
-
-*2024-01-24 10:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speaker-endorses-Office-of-National-Unity-and-Reconciliation-Bill/108-275647) · `en`
-
-Speaker Mahinda Yapa Abeywardena announced today that he has endorsed the Office of National Unity and Reconciliation Bill. The Bill therefore becomes law with effect from today.
-
-The Office of National Unity and Reconciliation is being set up following a resolution adopted by the UN Office of Human Rights.
-
-◼️
-
-[Data](articles/494045a5.json)
-
-[Extended Data](ext_articles/494045a5.ext.json)
-
----
-
-### Rugby coach arrested in Kandy with heroin and narcotic pills
-
-*2024-01-24 10:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rugby-coach-arrested-in-Kandy-with-heroin-and-narcotic-pills/108-275648) · `en`
-
-Kandy, Jan 24 (Daily Mirror) - A 22-year-old external rugby coach of a prominent school in Kandy was arrested by the police for possession of heroin and 4,100 narcotic pills.
-
-He was arrested in the Ambathenna area of Kandy by the Alawathugoda Police, where the suspect was found with 2 grams of heroin and 4,100 meth pills.
-
-The suspect, residing in Ambathenna, had joined as an external coach of the school six months ago.
-
-It was revealed  that he is an Army deserter who had previously served at the Panagoda camp.
-
-◼️
-
-[Data](articles/4f84698e.json)
-
-[Extended Data](ext_articles/4f84698e.ext.json)
-
----
-
-### Heavy mist at Welipenna, be cautious when driving: Police
-
-*2024-01-24 10:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-mist-at-Welipenna-be-cautious-when-driving-Police/108-275646) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - Motorists are urged to exercise caution while accessing the Welipenna interchange on the Southern Expressway, especially during the morning when visibility is reduced due to heavy mist, the police said.
-
-They said the high misty condition prevailed this morning as well as during the previous days.
-
-Therefore, motorists are requested not to drive at high speeds within this area.
-
-◼️
-
-[Data](articles/603c4de3.json)
-
-[Extended Data](ext_articles/603c4de3.ext.json)
-
----
-
-### Fatal Bus - Van accident
-
-*2024-01-24 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192499) · `si`
-
-One person was killed and 8 others suffered injuries in an accident in the Elephachchi area in Kilinochchi this morning.
-
-Police said that a bus on the Test Board of Jaffna and the Katunayake airport and returned to the Katunayake airport and returned to Jaffna.
-
-The accident had occurred when the bull collided with a herd of cows on the bus.
-
-A woman was killed in the van and five of the injured were severely in Kilinochchi.
-
-According to our correspondent, 8 cattle were killed in the accident.
-
-◼️
-
-[Data](articles/814edda9.json)
-
-[Extended Data](ext_articles/814edda9.ext.json)
-
----
-
-### International dhamma programme tomorrow
-
-*2024-01-24 10:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/International-dhamma-programme-tomorrow/108-275643) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - An international dhamma programme in view of Duruthu Full Moon Poya Day will be held tomorrow (25) by Ven. Olande Ananda Thera.
-
-This live webinar will be held between 6 p.m. and 7.30 p.m. tomorrow where the Thera will share the Buddha's teachings on mindfulness and how individuals can use these principles to improve their daily lives and deepen their mindfulness to move closer to their spiritual goals.
-
-The programme is organized by the Foundations of Mindfulness, followed by guided meditation, and will be followed by guided meditation.
-
-◼️
-
-[Data](articles/81c09463.json)
-
-[Extended Data](ext_articles/81c09463.ext.json)
-
----
-
-### Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
-
-*2024-01-24 10:00:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/letters-to-nearly-10-000-ceb-employees-who-participated-in-protests-after-reporting-sick-leave/) · `en`
-
-COLOMBO (News 1st) –  The Ceylon Electricity Board says that it sent letters calling for explanations to nearly 10,000 employees who participated in the recent protest after reporting sick leave.
-
-Its spokesperson Deputy General Manager Noel Priyantha says that they will take further steps based on their responses.
-
-The services of 66 employees who engaged in protests against the restructuring of the Electricity Board have been suspended.
-
-Convenor of the United Trade Union Front of the C.E.B Ranjan Jayalal says that strict measures will be taken against the repression of employees.
-
-Trump takes decisive step towards Republican Party nomination for president
-
-◼️
-
-[Data](articles/09f6f72f.json)
-
-[Extended Data](ext_articles/09f6f72f.ext.json)
-
----
-
-### Indian High Commissioner Santosh Ja meets Anuragumara
-
-*2024-01-24 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/174658) · `ta`
-
-A meeting between National People's Power President Anura Kumara Dissanayake and Indian High Commissioner to Sri Lanka Santosh Ja were held in Colombo.
-
-The meeting was held on Tuesday (23) afternoon at the Indian High Commissioner's Office in Colombo.
-
-The new Indian High Commissioner Santosh Ja has met with the National People's Power Leader Anura Kumara Dissanayake for the first time since he started his duties in Sri Lanka last December.
-
-During the meeting, Sri Lanka's current political situation and the economic crisis and the future political programs of the National People's Power were discussed.
-
-Vijitha Herath, a member of the National People's Power, was also present at the meeting.
-
-◼️
-
-[Data](articles/42a9ad34.json)
-
-[Extended Data](ext_articles/42a9ad34.ext.json)
-
----
-
-### ICC Naming the Test team
-
-*2024-01-24 09:52:39* · [`adalk`](https://www.ada.lk/sports/ICC--ටෙස්ට්-කණ්ඩායමට-දිමුත්-නම්-කරයි/9-407699) · `si`
-
-The International Cricket Council (ICC) has also included the name of Sri Lanka Test leader Dimuth Karunaratne.
-
-Dissanu, who has played six Tests in 2023, has scored 608 points. Over the average 60. Dimuth Karunaratne has been named as opener with Uzman Kavaraja in the 11 players team.. Australia leader Pat Kumins has been ranked leading the group.
-
-◼️
-
-[Data](articles/ea8dc6a0.json)
-
-[Extended Data](ext_articles/ea8dc6a0.ext.json)
-
----
-
-### A rugby coach arrested with alcohol and heroin
-
-*2024-01-24 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192498) · `si`
-
-A young man who is a man of the country has been arrested in a school where the drug was held.
-
-Police said that 4,100 drugs were found in his possession and 2 grams of heroin.
-
-The youth has been arrested in the Ambatenna area in Kandy and he was a 22 year old.
-
-◼️
-
-[Data](articles/bcca4156.json)
-
-[Extended Data](ext_articles/bcca4156.ext.json)
 
 ---

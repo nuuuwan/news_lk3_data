@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 00:32:44**
+As of **2024-01-25 00:48:38**
 
 ## Newspaper Stats
 
-*Scraped **2,447** Articles*
+*Scraped **2,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 122
 islandlk | 133
 newsfirstlk | 135
 economynextcom | 151
-dailyftlk | 181
+dailyftlk | 186
 adaderanasinhalalk | 188
 adalk | 241
 virakesarilk | 276
@@ -26,7 +26,7 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,445 (99.9%) of 2,447 articles have been extended.
+2,447 (99.8%) of 2,452 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,6 +42,8 @@ At present, political analysts are of the opinion that there is a school of thou
 
 [Data](articles/df0aded3.json)
 
+[Extended Data](ext_articles/df0aded3.ext.json)
+
 ---
 
 ### Think Science, Think Peace: Include more Women and Girls
@@ -54,9 +56,93 @@ With Sri Lanka struggling to meet its debts and stabilise the economy, vital are
 
 [Data](articles/ea5c329b.json)
 
+[Extended Data](ext_articles/ea5c329b.ext.json)
+
 ---
 
 ### 2024-01-24 (Wednesday)
+
+### Japan to extend fresh support for humanitarian demining activities in north
+
+*2024-01-24 23:58:40* · [`dailyftlk`](https://www.ft.lk/news/Japan-to-extend-fresh-support-for-humanitarian-demining-activitiesin-north/56-757734) · `en`
+
+Japanese Ambassador Mizukoshi Hideaki this week signed the grant contract of the demining project under the scheme of “Grant Assistance for Grassroots Human Security Projects (GGP)”, with Delvon Assistance for Social Harmony (DASH) Program Manager Ananda Chandrasiri.
+
+The Government of Japan has provided a total sum of $ 364,963 (approx. Rs. 116 million) through the GGP to DASH for humanitarian demining activities in the Northern Province.
+
+Ambassador Mizukoshi underscored Japan’s steadfast partnership with Sri Lanka in its post-conflict recovery and reconciliation process, especially by way of extending continued support to achieve Sri Lanka’s goal of becoming a Mine-Impact-Free country by 2027.
+
+...
+
+[Data](articles/f892a997.json)
+
+---
+
+### Temple to temple diplomacy strengthens cultural ties between Sri Lanka and Myanmar
+
+*2024-01-24 23:58:05* · [`dailyftlk`](https://www.ft.lk/news/Temple-to-temple-diplomacy-strengthens-cultural-ties-between-Sri-Lanka-and-Myanmar/56-757733) · `en`
+
+Four distinguished Sri Lankan Buddhist monks undertook a visit to Yangon, Myanmar on 16 January as part of the temple-to-temple diplomacy program launched by the State Ministry of Foreign Affairs.
+
+This visionary initiative was set in motion by State Minister of Foreign Affairs Tharaka Balasuriya, with the blessings of the President and the Minister of Foreign Affairs of Sri Lanka. Under the guidance of Ambassador of Sri Lanka to Myanmar Janaka Bandara, the Sri Lankan Embassy in Yangon coordinated with the temples in Myanmar to arrange the visit.
+
+The visiting monks were warmly welcomed by the Pa Thein Monastery in Yangon. During their stay, the Sri Lankan monks will explore temples in Myanmar including the most sacred Swedagon pagoda in Yangon which is said to enshrine relics of the four previous Buddhas.
+
+...
+
+[Data](articles/2a44c90c.json)
+
+---
+
+### NEDA of Thailand extends support to Sri Lanka
+
+*2024-01-24 23:56:51* · [`dailyftlk`](https://www.ft.lk/news/NEDA-of-Thailand-extends-support-to-Sri-Lanka/56-757732) · `en`
+
+The Neighbouring Countries Economic Development Cooperation Agency (NEDA) of Thailand agreed to enhance and expand its cooperation with Sri Lanka during a discussion held between Ambassador of Sri Lanka and Permanent Representative to the UNESCAP, C.A. Chaminda I. Colonne and NEDA Vice President Senior Col. Saranyu Viriyavejakul on 15 January in Bangkok.
+
+NEDA is a public organisation established in 2005, under the purview of the Ministry of Finance of Thailand providing economic development cooperation in the form of financial and technical assistance to its neighbouring countries namely Cambodia, Laos, Myanmar and Vietnam initially.
+
+In 2013, Thai Cabinet agreed to expand NEDA’s cooperation to three more specific countries namely, Sri Lanka, Bhutan and Timor-Leste.  Since then, there has hither to been cooperation only in the form of technical assistance between Sri Lanka and NEDA.
+
+...
+
+[Data](articles/4199ba00.json)
+
+---
+
+### Sri Lankans resettled in Tamil Nadu receive passports
+
+*2024-01-24 23:56:20* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankans-resettled-in-Tamil-Nadu-receive-passports/56-757731) · `en`
+
+The Deputy High Commission of Sri Lanka in Chennai conducted an event on 19 January to hand over the first batch of “All Country Passports” to Sri Lankan nationals resettled in Tamil Nadu.
+
+The Government of Sri Lanka has so far been issuing a travel document called Refugee Repatriation Passport for this segment of Sri Lankans for the purpose of only returning to Sri Lanka considering their irregular stay in India. The Sri Lanka Deputy High Commission in Chennai made a proposal to the Government of Sri Lanka taking into account the volume of requests received from these Sri Lankans to issue all country passport enabling them to travel to other countries for higher education, employment opportunities and family reunification, etc.
+
+...
+
+[Data](articles/1312703e.json)
+
+---
+
+### Edtech for marginalised children in Sri Lanka: Insights from MENA and other Asian countries
+
+*2024-01-24 23:52:31* · [`dailyftlk`](https://www.ft.lk/columns/Edtech-for-marginalised-children-in-Sri-Lanka-Insights-from-MENA-and-other-Asian-countries/4-757730) · `en`
+
+Access to inclusive and equitable quality education is a fundamental human right
+
+Despite the Government’s recent efforts to improve access to technology in facilitating edtech, that solely is insufficient and ineffective in improving inclusiveness in education. Rather, targeted, strategic and innovative measures should be taken to ensure that the implementation of edtech is effective in promoting inclusiveness in education for marginalised and vulnerable groups of children in Sri Lanka
+
+In marking International Day of Education that was observed on 24 January 2024, the following areas are explored on educational technology, based on the IPS study ‘EdTech: Landscape and Challenges in Asia and MENA’.
+
+How technological resources can help fill gaps in access and reduce inequalities in education in Sri Lanka
+
+Despite the recent uptake of educational technology (edtech) in Sri Lanka, it does not cater to the needs of diverse groups of vulnerable children in the country
+
+...
+
+[Data](articles/15d15a8e.json)
+
+---
 
 ### People in panic by a crying guest who came home
 
@@ -1907,109 +1993,5 @@ It is noteworthy that the Ceremony Backup Bill was presented to Parliament on Tu
 [Data](articles/b25bf518.json)
 
 [Extended Data](ext_articles/b25bf518.ext.json)
-
----
-
-### Sri Lanka online bill will kill democratic rights in election year: Sajith
-
-*2024-01-24 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-bill-will-kill-democratic-rights-in-election-year-sajith-148548/) · `en`
-
-ECONOMYNEXT – A controversial bill on controlling online publications is an attempt to curb the freedom of speech of the public in an election year, opposition leader Sajith Premadasa said.
-
-“This is election year, when a presidential and general election are to be held, clearly this was introduced to curtail the freedom of speech of the citizens of this country, right to express opinions, and destroy their democratic right,” Premadasa told parliament.
-
-Sri Lanka’s supreme court ruled that 31 provisions were unconstitutional.
-
-Several ruling party legislators and ministers referred to instances where they have been criticized or false statements made against them on social media.
-
-Ports Minister Rohitha Abeygunawardena said he was called Raththarang (gold) as an endearment when he was young but social media had now created the impression that he got the accolade after stealing necklaces (gold chains).
-
-...
-
-[Data](articles/0e30a47b.json)
-
-[Extended Data](ext_articles/0e30a47b.ext.json)
-
----
-
-### Seven including ex-Health Secretary further remanded
-
-*2024-01-24 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96694/seven-including-ex-health-secretary-further-remanded) · `en`
-
-Seven suspects including the former Secretary to the Ministry of Health, Janaka Chandragupta, have been further remanded until 01 February, over the controversial procurement of substandard human immunoglobulin vials.
-
-The relevant order was issued by the Maligakanda Magistrate’s Court, when the case was taken up in court this morning (24 Jan.).
-
-Chandragupta was arrested by the Criminal Investigation Department (CID) on 18 December 2022, when he arrived at the premises to record a statement regarding the substandard human immunoglobulin scandal, which had taken place during his tenure as Health Secretary.
-
-On 14 December 2022, Maligakanda Magistrate Lochani Abeywickrama had deemed as suspicious the actions of the former Secretary of the Ministry of Health pertaining to the process of purchasing the batch of ‘substandard’ human intravenous immunoglobulin (IVIG).
-
-...
-
-[Data](articles/9774549f.json)
-
-[Extended Data](ext_articles/9774549f.ext.json)
-
----
-
-### Sri Lanka online bill will kill democratic rights in election year: Sajith
-
-*2024-01-24 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-bill-will-curb-freedom-of-speech-in-election-year-sajith-148548/) · `en`
-
-ECONOMYNEXT – A controversial bill on controlling online publications is an attempt to curb the freedom of speech of the public in an election year, opposition leader Sajith Premadasa said.
-
-“This is election year, when a presidential and general election are to be held, clearly this was introduced to curtail the freedom of speech of the citizens of this country, right to express opinions, and destroy their democratic right,” Premadasa told parliament.
-
-Sri Lanka’s supreme court ruled that 31 provisions were unconstitutional.
-
-Several ruling party legislators and ministers referred to instances where they have been criticized or false statements made against them on social media.
-
-Ports Minister Rohitha Abeygunawardena said he was called Raththarang (gold) as an endearment when he was young but social media had now created the impression that he got the accolade after stealing necklaces (gold chains).
-
-...
-
-[Data](articles/cf2f4fc1.json)
-
-[Extended Data](ext_articles/cf2f4fc1.ext.json)
-
----
-
-### Leading Mitchell Cosse
-
-*2024-01-24 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192514) · `si`
-
-Michelle Mash has been named for the leadership of the Australian team in the Upple Twenty20 World Cup.
-
-Foreign media reports that the leadership of the three matches against the West Indies have been given the leadership of the three matches.
-
-However, a official statement will be made in the future regarding the leadership of the Australian team for the Mitchell Mash, the World Cup.
-
-◼️
-
-[Data](articles/27a4e025.json)
-
-[Extended Data](ext_articles/27a4e025.ext.json)
-
----
-
-### Two new pomegranate varieties introduced
-
-*2024-01-24 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-new-pomegranate-varieties-introduced/108-275654) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - Following tissue culture research conducted by the Plant Virus Indexing Centre, Homagama, two new varieties of pomegranate named 'Malee Pink' and 'Lanka Red' were introduced for cultivation in Sri Lanka today, the Agriculture Ministry said.
-
-The two new varieties of pomegranate were handed over to farmers for cultivation by Agriculture Minister Mahinda Amaraweera today.
-
-The special feature of these two latest varieties is that the lifespan of a pomegranate tree is over 30 years and 20–25 kgs of pomegranates can be harvested from each tree per year. A total of 400 trees can be planted per acre, which can generate an annual income of Rs. 8 million per acre, the Minister said.
-
-In particular, these two types of pomegranate are suitable for cultivation in the dry zone, and these varieties can be used as an alternative to the currently imported red pomegranate varieties.
-
-The cost of pomegranate imports can be reduced in our country, the Minister said.
-
-...
-
-[Data](articles/cce2ac98.json)
-
-[Extended Data](ext_articles/cce2ac98.ext.json)
 
 ---

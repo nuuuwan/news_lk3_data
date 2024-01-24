@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 05:02:22**
+As of **2024-01-25 05:17:23**
 
 ## Newspaper Stats
 
-*Scraped **2,465** Articles*
+*Scraped **2,468** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,66 @@ dailyftlk | 194
 adalk | 241
 virakesarilk | 276
 adaderanalk | 308
-tamilmirrorlk | 309
+tamilmirrorlk | 312
 dailymirrorlk | 327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,465 (100.0%) of 2,465 articles have been extended.
+2,465 (99.9%) of 2,468 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### ஆசிரியர் பற்றாக்குறை: பெப்ரவரியில் தீர்வு
+
+*2024-01-25 02:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-பற்றாக்குறை-பெப்ரவரியில்-தீர்வு/175-332090) · `ta`
+
+நாடு முழுவும் நிலவிவரும் ஆசிரியர் பற்றாக்குறை பிரச்சினைக்கு எதிர்வரும் பெப்ரவரி மாதம் இறுதியாகும்போது  முடிவு காணப்படும் என  கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  புதன்கிழமை (24)  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச முன்வைத்த விசேட கூற்றுக்கு பதிலளிக்கையிலேயே இவ்வாறு கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+
+விசேட கூற்றை முன்வைத்து உரையாற்றிய எதிர்க்கட்சித் தலைவர்  சஜித் பிரேமதாச,    நாடு முழுவதுமாக 40ஆயிரம் ஆசிரியர்களுக்கு  பற்றாக்குறை நிலவி வருகிறது. அதனால் ஆசிரியர் பற்றாக்குறைக்கு விரைவில் தீர்வுகாண நடவடிக்கை எடுக்க வேண்டும் என்றார்.
+
+...
+
+[Data](articles/93dd72be.json)
+
+---
+
+### ’மக்கள் காணிகளில் இராணுவ விவசாயம்’
+
+*2024-01-25 02:13:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்கள்-காணிகளில்-இராணுவ-விவசாயம்/175-332089) · `ta`
+
+யுத்தம் முடிவடைந்து 15 வருடங்கள் ஆகின்ற போதும் பாதுகாப்பு காரணங்களுக்காக வடக்கு, கிழக்கில் மாத்திரம் சில இடங்களில் இராணுவ முகாம்களை வைத்திருப்பதாக கூறுவதை ஏற்றுக்கொள்ள முடியாது என்று தெரிவித்த தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் இரா. சாணக்கியன், அங்கு இராணுவத்தினர் மக்களின் காணிகளில் இருந்துகொண்டு காணி சொந்தக் காரர்கள் பார்த்துக்கொண்டிருக்கவே விவசாய நடவடிக்கையில் ஈடுபடுகின்றனர் என்றும் தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  புதன்கிழமை (24) பாதுகாப்பு அமைச்சரிடம் கேள்வியெழுப்பி உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+
+வடக்கு, கிழக்கில் யுத்தம் முடிவடைந்து 15 வருடங்களாகின்றன. இன்னும் இந்த மாவட்டங்களில் மட்டும் சில இடங்களில் இராணுவ முகாம்களை வைத்திருப்பது பாதுகாப்பு காரணங்களுக்காக என்பதனை நாங்கள் ஏற்றுக்கொள்ளவில்லை. மட்டக்களப்பு குருக்கள்மடம் மைதானமானது பாடசாலைக்கு சொந்தமானது என்றாலும் இன்னும் இராணுவம் அதனை தமது கட்டுப்பாட்டுக்குள்ளேயே வைத்திருக்கின்றது. அதனை விடுவிக்க மாவட்ட மட்டத்தில் தீர்மானம் எடுக்கப்பட்டிருந்தாலும் அது இராணுவத்தின் கட்டுப்பாட்டிலேயே இருக்கின்றது.
+
+...
+
+[Data](articles/84baf5f1.json)
+
+---
+
+### ’8 ஏக்கர் காணியை மீள கையளிப்போம்’
+
+*2024-01-25 02:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-ஏக்கர்-காணியை-மீள-கையளிப்போம்/175-332088) · `ta`
+
+நாட்டின் தற்கால மற்றும் எதிர்கால பாதுகாப்பை கருத்திற்கொண்டு பல பிரதேசங்களில் இராணுவ முகாம்கள் அமைக்கப்பாட்டுள்ளதாகவும், இந்நிலையில் வடக்கு, கிழக்கில் மாத்திரம் இராணுவ முகாம்கள் இருப்பதாக முன்வைக்கப்படும் கருத்துக்களை நிராகரிப்பதாகவும் பாதுகாப்பு இராஜாங்க அமைச்சர் பிரேமித பண்டார தென்னகோன் தெரிவித்துள்ளார்.
+
+பாராளுமன்றத்தில்  புதன்கிழமை (24)  வாய்மூல விடைக்கான கேள்விநேரத்தின் போது, தமிழ்த் தேசியக் கூட்டமைப்பின் இரா.சாணக்கியன் எம்.பியினால் மட்டக்களப்பு குருக்கள்மடம் கலைவாணி மகாவித்தியாலயத்தின் மைதானம் இராணுவத்தினர் வசமிருப்பதாக தெரிவித்து எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே பாதுகாப்பு இராஜாங்க அமைச்சர் இவ்வாறு கூறினார்.
+
+இராணுவ முகாம்கள் வடக்கு, கிழக்கில் மாத்திரம் இல்லை. அனைத்து மாகாணங்களிலும் நாட்டின் தற்போதைய மற்றும் எதிர்காலத்தை கருத்திற்கொண்டு முகாம்களை வைத்திருக்கின்றோம். இதனால் வடக்கு, கிழக்கில் மாத்திரம் இராணுவ முகாம்கள் இருப்பதாக சாணக்கியன் முன்வைக்கும் கருத்தை நிராகரிக்க வேண்டியுள்ளது.
+
+...
+
+[Data](articles/2dca33b8.json)
+
+---
 
 ### If the telephone is not frozen, the riots will explode
 
@@ -1941,61 +1989,5 @@ According to the police request, the injustice has been imposed by the Nugegoda 
 [Data](articles/610dea95.json)
 
 [Extended Data](ext_articles/610dea95.ext.json)
-
----
-
-### Student's mysterious death;Committee assignment to explore madrasa
-
-*2024-01-24 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174704) · `ta`
-
-The Department of Muslim Religious and Cultural Affairs has appointed a five -member committee to investigate the mysterious death of a schoolgirl.
-
-MS in Kattankudy, Batticaloa district on December 5 last year at a building at a building located on the Sainthamaruthu Market Road, Ampara District.. A student named Musa (age 13) was admitted to the Sainthamaruthu Divisional Hospital after being found dead.
-
-Moulavi, the administrator of the Sainthamaruthu police, has been arrested and filed by the Sainthamaruthu police, when the public gathered and prepared to attack the Madarsa's executive.
-
-Following the incident, the committee is currently conducting a rapid inquiry into the Madrasa's complaint on the complaint sent to the Department of Muslim Religious and Cultural Affairs by other parties, including Attorney -at -Law Shafi H. Ismail.
-
-The Committee is conducting an inquiry into the incident and the Committee will issue a full report on the incident.
-
-◼️
-
-[Data](articles/dbdbb33c.json)
-
-[Extended Data](ext_articles/dbdbb33c.ext.json)
-
----
-
-### Police Spokesman Nihal Thalduwa promoted to DIG
-
-*2024-01-24 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96697/police-spokesman-nihal-thalduwa-promoted-to-dig) · `en`
-
-Senior Superintendent of Police (SSP) Nihal Thalduwa has been promoted to the rank of Deputy Inspector General of Police (DIG).
-
-Accordingly, DIG Thalduwa will take charge of Police Crime Range and will continue to serve as the Police Media Spokesman as well.
-
-◼️
-
-[Data](articles/69a2bbbf.json)
-
-[Extended Data](ext_articles/69a2bbbf.ext.json)
-
----
-
-### Speaker signed 4 Bill Bill
-
-*2024-01-24 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/174707) · `ta`
-
-Speaker Mahinda Yapa Abeywardena has announced that he has signed a pro -National Unity and Reconciliation Bill, the Arbitration Council (Amendment) Bill, the Athonith Philosophy (Amendment) Bill and the Prevention of Fraud (Amendment) Bill on Tuesday.
-
-Parliament convened on Wednesday (24) at 9.30 am chaired by Speaker Mahinda Yapa Abeywardena. He made this announcement to the House during the announcement of the Speaker.
-
-Accordingly, the Bill of the National Unity and Reconciliation Act No. 01 of 2024, the Arbitration Council No. 02 of 2024, the Amendment Act No. 03 of 2024, and the Prevention of the Fraud of 2024He said the law would come into effect from Tuesday, the 23rd.
-
-◼️
-
-[Data](articles/8ad1f565.json)
-
-[Extended Data](ext_articles/8ad1f565.ext.json)
 
 ---

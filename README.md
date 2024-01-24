@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 05:37:51**
+As of **2024-01-24 06:18:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,175 (99.8%) of 2,180 articles have been extended.
+2,180 (100.0%) of 2,180 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Ralhan is an industry veteran and a regular speaker and moderator in various ind
 ◼️
 
 [Data](articles/c7f00eb2.json)
+
+[Extended Data](ext_articles/c7f00eb2.ext.json)
 
 ---
 
@@ -65,6 +67,8 @@ The company is scheduled to invest over (Kenyan Shilling) KSh. 1.1 billion on fi
 ...
 
 [Data](articles/29c31ef6.json)
+
+[Extended Data](ext_articles/29c31ef6.ext.json)
 
 ---
 
@@ -92,6 +96,8 @@ Opposition MP Rauff Hakeem says bill represents a Govt. endeavour to dismantle r
 
 [Data](articles/f9cfb515.json)
 
+[Extended Data](ext_articles/f9cfb515.ext.json)
+
 ---
 
 ### SC grants leave to proceed with another FR against Deshabandu
@@ -106,6 +112,8 @@ The petitioner, identified as 27-year-old Attorney-at-law Mohmed Nibras Nazeer, 
 
 [Data](articles/b4592795.json)
 
+[Extended Data](ext_articles/b4592795.ext.json)
+
 ---
 
 ### NMSJ submits electoral reform proposals to Presidential Commission
@@ -119,6 +127,8 @@ Making the relevant submissions, the NMSJ verbally informed the Commission about
 ...
 
 [Data](articles/d4123b9f.json)
+
+[Extended Data](ext_articles/d4123b9f.ext.json)
 
 ---
 

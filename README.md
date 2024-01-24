@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 20:32:58**
+As of **2024-01-24 20:51:23**
 
 ## Newspaper Stats
 
-*Scraped **2,405** Articles*
+*Scraped **2,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,47 @@ dbsjeyarajcom | 122
 islandlk | 133
 newsfirstlk | 135
 economynextcom | 144
-adaderanasinhalalk | 180
+adaderanasinhalalk | 181
 dailyftlk | 181
 adalk | 240
-virakesarilk | 271
+virakesarilk | 275
 tamilmirrorlk | 299
 adaderanalk | 305
-dailymirrorlk | 315
+dailymirrorlk | 317
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,402 (99.9%) of 2,405 articles have been extended.
+2,405 (99.7%) of 2,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### බෙලිඅත්තේ වෙඩිතැබීම ගැන තවත් තොරතුරු
+
+*2024-01-24 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192525) · `si`
+
+බෙලිඅත්තේ පංච පුද්ගල ඝාතනය මෙහෙයවූ බව කියන සහ ප්‍රහාරය සඳහා පැමිණි පෙජෙරෝ රථය පැදවූ පුද්ගලයා අද (24) පෙරවරුවේ පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබිණි.
+
+ඝාතනය සඳහා සිව් දෙනෙකුගෙන් යුත් කණ්ඩායමක් පැමිණි බවත් ඩුබායිහී සිට ලැබුණු කොන්ත්‍රාත්තුවක් මත මෙම ඝාතනය සිදු කළ බවත් සැකකරු ප්‍රශ්න කිරීම් හමුවේ අනාවරණ කර තිබේ.
+
+බෙලිඅත්ත ප්‍රදේශයේ දී සිදු වූ පංච පුද්ගල ඝාතන සිද්ධිය සම්බන්ධයෙන් සමන් කුමාර නමැති 55 හැවිරිදි අයෙක් අකුරැස්ස, බංගම ප්‍රදේශයේ දී අද පෙරවරුවේ අත්අඩංගුවට ගැනිණි.
+
+ඒ, මාතර කොට්ඨාසය භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී පණ්ඩුල වීරසිංහ මහතාගේ අධීක්ෂණය යටතේ හක්මන පොලිසියේ නිලධාරීන් කණ්ඩායමක් විසිනි.
+
+සැකකරු තම නිවසේ සැඟවී සිටිය දී අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+
+සැකකරු මෙම අපරාධය සැලසුම් කර ඇති අතර, ඝාතකයන් පැමිණි පෙජෙරෝ රථයේ රියදුරු වශයෙන් ද කටයුතු කර ඇත්තේ ඔහු බවට අනාවරණය වී ඇත.
+
+ඩුබායිහි සිට ලැබුණු කොන්ත්‍රාත්තුවක් මත මෙම ඝාතනය සැලසුම් කළ බවත් ඝාතනය සඳහා තවත් පුද්ගලයින් තිදෙනෙකු එක්වූ බවත් සැකකරු පොලීසිය හමුවේ පාපොච්චාරණය කර තිබේ.
+
+...
+
+[Data](articles/7e8c76e3.json)
+
+---
 
 ### Iranian national arrested over large-scale drug racket in Kesbewa
 
@@ -49,6 +73,24 @@ Police have uncovered that the suspected Iranian had distributed the drugs throu
 ◼️
 
 [Data](articles/1ba22deb.json)
+
+[Extended Data](ext_articles/1ba22deb.ext.json)
+
+---
+
+### நான் இலங்கை பிரஜை, எனக்கு இரட்டை குடியுரிமை இல்லை - நயன வாசலதிலக்க
+
+*2024-01-24 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174741) · `ta`
+
+நான் இலங்கை பிரஜை இரட்டை குடியுரிமை ஏதும் இல்லை. இலங்கை வெளிநாட்டு கடவுச்சீட்டே என்னிடம் உள்ளது.மக்கள் பிரதிநிதிகள் பாராளுமன்ற சிறப்புரிமைகளை பயன்படுத்திக் கொண்டு பொய்யுரைப்பதை தவிர்த்துக் கொள்ள வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நயன வாசலதிலக்க தனது கன்னி உரையில் குறிப்பிட்டார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (24) இடம்பெற்ற  உத்தேச நிகழ்நிலை காப்புச் சட்டமூலம்  மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+எனது பெற்றோர் அரச சேவையாளர்கள் எமது குடும்ப பின்னணி தொடர்பில் கடந்த காலங்களில் பல விடயங்கள் குறிப்பிடப்பட்டன. கடுமையான உழைப்புக்கு மத்தியில் நாங்கள் முன்னேற்றமடைந்தோம்.உயர் கல்விக்காக நான் சுவிஸ்லாந்து நாட்டுக்கு சென்றேன்.அதனை தொடர்ந்து அவுஸ்ரேலியாவுக்கு சென்று தொழிற்றுறை நடவடிக்கைகளில் ஈடுபட்டேன்.
+
+...
+
+[Data](articles/7dd4cd5a.json)
 
 ---
 
@@ -71,6 +113,42 @@ Investigations carried out by the police have revealed that several Buddhist mon
 [Data](articles/b9052635.json)
 
 [Extended Data](ext_articles/b9052635.ext.json)
+
+---
+
+### பொது இணைக்கப்பாட்டுடனான திட்டங்களை நடைமுறைப்படுத்துவதற்கு  எம்பிக்களுக்கு எந்தவித தடையும் கிடையாது!! -இராஜாங்க அமைச்சர் செஹான் சேமசிங்க
+
+*2024-01-24 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/174742) · `ta`
+
+பாராளுமன்ற உறுப்பினர்கள் 225 பேரும் தமக்கு ஒதுக்கப்படும் நிதியில் தமது யோசனையின் கீழான திட்டங்களை நடைமுறைப்படுத்துவதில் எந்த தடையும் கிடையாது. மாவட்ட, பிரதேச அபிவிருத்தி குழு மற்றும் கிராம மட்டத்தில் இடம்பெறும் கூட்டங்களில் இணைந்து பொது இணக்கப்பாட்டுடனான யோசனைத் திட்டங்களை நடைமுறைப்படுத்துவதற்கான உரிமை அனைத்து பாராளுமன்ற உறுப்பினர்களுக்கும் உள்ளது என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+
+பாராளுமன்றத்தில் இன்று  (24) தயாசிறி ஜயசேகர எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+
+வரவு - செலவுத் திட்டத்தினை எதிர்த்த குழுவினர் அதன் நன்மைகளை பெற்றுக் கொள்ளும் நிலை ஏற்பட்டுள்ள போது பலாத்காரமாக அதன் பங்காளிகளாகி யுள்ளதுடன் அவர்கள் வரவு செலவு திட்டத்தை எதிர்த்தாலும் மக்கள் பிரதிநிதிகளாக குழுக்களில் கலந்து கொண்டு மக்கள் இணக்கப்பாட்டுடன் யோசனைகளை நடைமுறைப்படுத்துவதற்கு எந்த தடையும் கிடையாது.
+
+நாட்டின் பொருளாதாரத்தை கட்டியெழுப்புவதில் நிதியமைச்சின் செயலாளர் மஹிந்த சிறிவர்தனவின் ஒத்துழைப்பை குறைவாக மதிப்பிட முடியாது.
+
+...
+
+[Data](articles/a54cf8fa.json)
+
+---
+
+### இலங்கை தேசிய வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவிற்கு ரோட்டரி கழகம்  35 மில்லியன் பெறுமதியான உபகரணங்களை வழங்கியது!
+
+*2024-01-24 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174743) · `ta`
+
+இலங்கை தேசிய வைத்தியசாலையின்  அவசர சிகிச்சைப் பிரிவிற்காக ரூபா 35 மில்லியன் பெறுமதியான முக்கியமான பராமரிப்பு உபகரணங்களை ரோட்டரி கழகம் கையளித்துள்ளது.
+
+இந்நிகழ்வு இன்று 24) காலை கொழும்பு தேசிய வைத்தியசாலை அவசர சிகிச்சை பிரிவில் நடைபெற்றது.
+
+இந்த திட்டத்தை மேற்கு கொழும்பு ரோட்டரி கிளப், ஜப்பானின் தெற்கு ஹமாமட்சு ரோட்டரி கிளப் மற்றும் ரோட்டரி மாவட்டங்கள் 3220 மற்றும் 2620 உடன் இணைந்து ரோட்டரி இன்டர்நேஷனல் அறக்கட்டளையின் மானியத்துடன் மேற்கொண்டது.
+
+ரொட்டரி இன்டர்நெஷனல் தலைவர் கார்டன் ஆர். மெக்னலி மற்றும் சுகாதார அமைச்சின் சிரேஷ்ட அதிகாரிகளுடன், செயலாளர் மற்றும் இயக்குநர் ஜெனரல் மற்றும் உறுப்பினர்கள் ஆகியோர் முன்னிலையில் இவை கையளிக்கப்பட்டன.. ஜப்பானின் மாவட்ட ஆளுநர்கள் - மாவட்டம் 2620 மற்றும் இலங்கை - மாவட்டம் 3220 மற்றும் ஜப்பானின் ஹமாமட்சு தெற்கு ரோட்டரி கிளப் மற்றும் மேற்கு கொழும்பு ரோட்டரி கிளப் ஆகியவற்றின் தலைவர்கள் உட்பட பலரும் இதில் கலந்து கொண்டனர்.
+
+◼️
+
+[Data](articles/95a8eaa1.json)
 
 ---
 
@@ -118,17 +196,23 @@ Roshan Ranasinghe voted against the Bill. Ali Sabri inscriptions, Vadivel Suresh
 
 ---
 
-### ඉතිහාසය වෙනස් කල යුද්ධ හමුදාපතිගේ ගුවන් පිම්ම
+### Army Commander's Primitive
 
 *2024-01-24 19:02:23* · [`adalk`](https://www.ada.lk/picture_story/ඉතිහාසය-වෙනස්-කල-යුද්ධ-හමුදාපතිගේ-ගුවන්-පිම්ම/10-407712) · `si`
 
-යුද්ධ හමුදාපති ලුතිතන් ජෙනරාල් විකුම් ලියනගේ පසුගිය ජනවාරි මස 22 වන දින‌ ඓතිහාසික  පිම්මක් පනිමින් පැරෂුට් හමුදා භටයකු ලෙස සිය අභීත බව විදහා දැක්වීය. දෙස් විදෙස් නිලධාරීන් හා සෙබලු කණ්ඩායමක්ද, සමගින් ඔහු එම දක්ෂතාව පෙන්වූයේ පැරෂුට් ඉතිහාසයට නව පරිඡ්චේදයක් ඒක් කරමිනි.
+Army Commander Lieutenant General Vikatha refrigered his intention as a Parachute troop on 22nd January. With a team of local and foreign officers, with a new chance of parachute history, making a new chance of parachute history.
 
-ඌව කුඩා ඔය කොමාන්ඩෝ  පුහුණු පාසලේ පැරෂුට් පුහුණු අංශය තුලදී සිදුකල පැරෂුට් පැනීම සදහා අවශ්‍ය මුලික ශිල්පයන් ප්‍රගුණ කිරිමෙන් අනතුරුව උහන ගුවන් හමුදා කඳවුරෙහි පැරෂුට් පතිත කලාපයේදී ඔහු එම පිම්ම සිදු කරන ලද්දේ මාලදිවයින් නිලධාරීන් තිදෙනෙක් හා සෙබලු 15 දෙනෙක්, යුද්ධ හමුදා විනයාරක්ෂාධිපති ඇතුළු කොමාන්ඩෝ සෙබලු 13 දෙනෙක් ද සමගිනි.
+Troops of the Parachute Schedule for the Parachute Training Division in the Uva Sala Oya.With.
 
-...
+Although the parachute jumps occur in the military, this event is a historic and unparalleled. It is a historical arrangement, especially as a military command for the first military and the army commander in the military and the oldest training in the military.. It is also very likely to be the first and the same chance of such skills not only in Sri Lanka but also in the international.
+
+Army Commander This is a bold leap, well-known. His example is the example of the military to the current youth of the army. The current army commander's name is not as another parachute jump but a giant turning point in the field, not as one of the parachute jumps.
+
+◼️
 
 [Data](articles/1a54184e.json)
+
+[Extended Data](ext_articles/1a54184e.ext.json)
 
 ---
 
@@ -315,6 +399,22 @@ Accordingly, the retail price of an egg will be Rs. 54.55, the association presi
 [Data](articles/8766cbf8.json)
 
 [Extended Data](ext_articles/8766cbf8.ext.json)
+
+---
+
+### 20 ஆவது திருத்தத்துக்கு நேர்ந்த கதியே நிகழ்நிலை காப்புச்சட்டமூலத்துக்கு நேரிடும் - கிரியெல்ல சாடல்
+
+*2024-01-24 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174712) · `ta`
+
+மனித உரிமைகள் மற்றும் ஜனநாயகம்  என்பனவற்றில் சிங்கப்பூர் முன்னேற்ற நிலையில் இல்லை. ஆகவே சிங்கப்பூர் நாட்டின் மாதிரியிலான வகையில் நிகழ்நிலை காப்புச் சட்டமூலம் தயாரிக்கப்பட்டுள்ளதாக குறிப்பிடுவதை ஏற்றுக்கொள்ள முடியாது.
+
+20 ஆவது திருத்தச்சட்டத்துக்கு நேர்ந்த கதியே நிகழ்நிலை காப்புச் சட்டமூலத்துக்கும் நேரிடும். அரசாங்கத்துக்கு எதிரான கருத்தை குறிப்பிடும் சகலரையும் பயங்கரவாதிகள் என்றும் சித்தரிக்கும் நிலைப்பாட்டில் இருந்துக் கொண்டு அரசாங்கம் செயற்படுகிறது என எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (24) இடம்பெற்ற உத்தேச நிகழ்நிலை காப்புச் சட்டமூலத்தின் இரண்டாம் வாசிப்பு மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+
+◼️
+
+[Data](articles/359ade09.json)
 
 ---
 
@@ -909,6 +1009,28 @@ Russian presidential spokesman Dmitry Peskov said the Kremlin was aware of the c
 [Data](articles/5e51ceb3.json)
 
 [Extended Data](ext_articles/5e51ceb3.ext.json)
+
+---
+
+### Russian plane carrying 65 Ukrainian prisoners of war crashes
+
+*2024-01-24 15:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Russian-plane-carrying-65-Ukrainian-prisoners-of-war-crashes/107-275656) · `en`
+
+Belgorod, Jan 24 (BBC) -  A Russian Ilyushin-76 military transport plane has crashed in the southern Belgorod region bordering Ukraine.
+
+At least 65 people Ukrainian prisoners of war were killed, according to Russia's ministry of defence.
+
+Ria Novosti news agency said another nine people were on board, including six crew.
+
+Regional governor Vyacheslav Gladkov said he was aware of an "incident" but gave no further details.
+
+Video shared on social media showed a plane going down near the village of Yablonovo followed by an explosion, at around 11:00 local time (08:00 GMT).
+
+Russian presidential spokesman Dmitry Peskov said the Kremlin was aware of the crash but refused to go in to details.
+
+◼️
+
+[Data](articles/e4e85c85.json)
 
 ---
 
@@ -1688,23 +1810,27 @@ Simply ridicuing, speaking disgusting is not to torture, or mental harassment.
 
 ---
 
-### පූජ්‍ය කළපළුවාවේ ධම්මරතන හිමි ඝාතනය: මෙතෙක් අප දන්නේ මොනවාද?
+### The murder of Dhammaratana Thero: So far, what do we know so far?
 
 *2024-01-24 14:00:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp6xed2n80eo) · `si`
 
-රට තුළ දිනෙන් දින ඉහළ යන මත්ද්‍රව්‍ය සහ සංවිධානත්මක අපාරාධ මැඩලීම සඳහා වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන්ගේ උපදෙස් මත ආරම්භ කරන ලද යුක්තියේ මෙහෙයුම මේවන විට රටපුරා ක්‍රියාත්මක වෙමින් පවතියි.
+Acting IGP, led by acting IGP, is currently in progressing on the instructions of the country.
 
-ඒ අනුව රටපුරාම පාහේ ආරක්ෂාව තරකර ඇති අතර වාහන හා බස් රථ සෝදිසි කිරීම් ඇතුළුව පොලිස් මෙහෙයුම් දැඩි කර ඇත.
+Accordingly, security has been reinforced, including vehicles and buses, including vehicles and buses.
 
-එවන් පසුබිමක (ජනවාරි මස 23 වැනිදා) මෝටර් රථයකින් පැමිණි පිරිසක් බෞද්ධ භික්ෂූන් වහන්සේ නමක් වෙඩි තබා ඝාතනය කිරීමේ සාහසික සිද්ධියක් වාර්තාවුයේ ගම්පහ, මල්වතු හිරිපිටිය ප්‍රදේශයෙනි.
+In such a backment (January 23), a group of violent incidents of a car shooting a Buddhist monk shooting a Buddhist monk who was shot dead in Gampaha, Malwathu Hiripitiya.
 
-නාදුනන තුවක්කුකරුවෙකු විහාරස්ථානය තුළදීම එල්ල කළ වෙඩි පහරකින් අපවත්වුයේ 45 හැවිරිදි වියේ පසුවූ පූජ්‍ය කළපළුවාවේ ධම්මරතන නැමති හිමිනමකි.
+A 45-year-old was a 45-year-old monk, Dhammaratne, Ven.
 
-ගම්පහ මල්වතුහිරිපිටිය කහටාන, ඝනාරාම මහා විහාරස්ථානයේ වැඩසිටි හිමිනමකට මෙම වෙඩි ප්‍රහාරය එල්ල වුයේ (ජනවාරි 23 වැනිදා) දහවල් 12 ට පමණය.
+The shooting was held at the Malwathuthihiriwa, Gampaha Malwathuna, Kahanna, Kahanna, Kahanna, Kahanna, Kahanna, Kahanna, Kahanna, Kahanna, Gampaha.
+
+The monk who claims to engage in astrology and the monk, the Chief Incumbent of the temple and the temple temple, told the Halukulage Chandrama Chanduwemala Thera had told the media.
 
 ...
 
 [Data](articles/816ca790.json)
+
+[Extended Data](ext_articles/816ca790.ext.json)
 
 ---
 
@@ -1881,129 +2007,5 @@ This would foster a skilled and certified workforce, promote environmental susta
 [Data](articles/f1323e18.json)
 
 [Extended Data](ext_articles/f1323e18.ext.json)
-
----
-
-### UNP General Secretary Palitha Range Bandara visits East
-
-*2024-01-24 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/174687) · `ta`
-
-United National Party (UNP) General Secretary Palitha Range Bandara will attend the United National Party (UNP) activists meeting on Saturday (27) at 9.00 am
-
-The organizers and members of the UNP Batticaloa district. Former local council members and members of the post will be present.
-
-Similarly, meetings of the party's secretary in Ampara and Trincomalee districts have been organized.. He added that the activities that focus on the upcoming elections are being carried out by the Secretary of the Secretary to encourage and encourage the members of the party.
-
-◼️
-
-[Data](articles/3a2399b0.json)
-
-[Extended Data](ext_articles/3a2399b0.ext.json)
-
----
-
-### Woman dies after falling back to a vanishing bus collide
-
-*2024-01-24 13:26:21* · [`adalk`](https://www.ada.lk/picture_story/ගවයින්ගේ-ගැටුනු-බස්රථය-වෑන්රථයක-මුහුණට-මුහුණ-ගැටෙයි---කාන්තාවක්-මරුට--08-කට-බරපතලයි/10-407705) · `si`
-
-A woman killed in an accident in general area Kilinochchi, Kilinochchi and Umamalapitiya in Jaffna and eight others were injured in an accident in general area Kilinochchi.
-
-The accident had occurred when a bus belonging to the Sri Lanka Transport Board from Jaffna and the Katunayake airport and returned to Jaffna.
-
-At the time, the SLTB bus was running at a speedy speed and eight crowd cows were killed in the bus.
-
-The deceased has been identified as a 50-year-old resident of Jaffna.
-
-The Kilinochchi police said that the vehicle driver's unrespective driver was the cause of the accident.
-
-◼️
-
-[Data](articles/09d3f7d6.json)
-
-[Extended Data](ext_articles/09d3f7d6.ext.json)
-
----
-
-### Woman dies after falling back to a vanishing bus collide
-
-*2024-01-24 13:26:21* · [`adalk`](https://www.ada.lk/uncategorized/ගවයින්ගේ-ගැටුනු-බස්රථය-වෑන්රථයක-මුහුණට-මුහුණ-ගැටෙයි---කාන්තාවක්-මරුට--08-කට-බරපතලයි/1-407705) · `si`
-
-A woman killed in an accident in general area Kilinochchi, Kilinochchi and Umamalapitiya in Jaffna and eight others were injured in an accident in general area Kilinochchi.
-
-The accident had occurred when a bus belonging to the Sri Lanka Transport Board from Jaffna and the Katunayake airport and returned to Jaffna.
-
-At the time, the SLTB bus was running at a speedy speed and eight crowd cows were killed in the bus.
-
-The deceased has been identified as a 50-year-old resident of Jaffna.
-
-The Kilinochchi police said that the vehicle driver's unrespective driver was the cause of the accident.
-
-◼️
-
-[Data](articles/278ca31b.json)
-
-[Extended Data](ext_articles/278ca31b.ext.json)
-
----
-
-### Suspect arrested over mass shooting in Beliatta
-
-*2024-01-24 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96690/suspect-arrested-over-mass-shooting-in-beliatta-) · `en`
-
-A suspect has been arrested over his alleged complicity in the recent killing of five persons at Beliatta in Hambantota District.
-
-The arrest was made in Matara today (24), according to the police.
-
-The arrestee is believed to have been the driver of the vehicle used by the assailants and is also suspected of having orchestrated the mass shooting which took place on Tuesday (Jan.23).
-
-Earlier today, the vehicle used by the assailants was found parked near the Vidyaloka Pirivena in Galle.
-
-On 23 January, a group of persons who had arrived in an SUV had opened fire at a white Defender near the Beliatta Interchange of the Southern Expressway.
-
-In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he succumbed to injuries shortly after.
-
-...
-
-[Data](articles/c0cfabf6.json)
-
-[Extended Data](ext_articles/c0cfabf6.ext.json)
-
----
-
-### Suspect and vehicle used in Beliatta manslaughter recovered
-
-*2024-01-24 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-and-vehicle-used-in-Beliatta-manslaughter-recovered/108-275651) · `en`
-
-Hakmana, Jan 24 (Daily Mirror) -Police arrested a 54-year old suspect and the jeep used for the shooting at Beliatta where five persons including Ape Jana Bala Party leader Saman Perera were killed.
-
-The Pajero Mitsubishi type jeep has also been recovered by the Hakmana Police.
-
-Investigations have revealed that the suspect, identified as Saman Kumara who is suspected to have planned the shooting from Sri Lanka on the orders by underworld figure Kosgoda Sujee, has driven the jeep involved in the shooting.
-
-◼️
-
-[Data](articles/3c5200ca.json)
-
-[Extended Data](ext_articles/3c5200ca.ext.json)
-
----
-
-### I was told to take the President to Ranil Wickremesinghe
-
-*2024-01-24 13:18:33* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-වික්‍රමසිංහට-ජනපතිධුරය-ගන්න-කීවේ-මමයි/11-407704) · `si`
-
-"I was the one who told Ranil Wickremesinghe to take the president. I'm just saying that we should be hypocritical in a difficult time, "he said," The Minister and Civil Aviation Minister Nimal Siripala de Silva said.
-
-The Minister of Giraberagama Uma Oama, Welimada, is the Minister of the Uva Provincial Council to construct the new two bridges, the Uva Provincial Council, Uva Provincial Council, Uva Provincial Council, Rs. 213 millionA sum of money has been spent,
-
-"We have no choice despite the sea seven times. We help a person who does not set up the will of the majority of the people again and to protect the country with the views of the majority of people.
-
-The people of this country know that they have not accepted the leadership of the country today because the President has not taken populuations in this country, but today, we must thank him that the country has not acted but the country.
-
-...
-
-[Data](articles/7430baa0.json)
-
-[Extended Data](ext_articles/7430baa0.ext.json)
 
 ---

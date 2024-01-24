@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 15:17:24**
+As of **2024-01-24 15:33:02**
 
 ## Newspaper Stats
 
-*Scraped **2,324** Articles*
+*Scraped **2,328** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,63 +16,87 @@ islandlk | 133
 economynextcom | 142
 adaderanasinhalalk | 170
 dailyftlk | 181
-adalk | 229
+adalk | 232
 virakesarilk | 259
-adaderanalk | 290
 tamilmirrorlk | 290
+adaderanalk | 291
 dailymirrorlk | 298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,312 (99.5%) of 2,324 articles have been extended.
+2,324 (99.8%) of 2,328 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### අවලෝකිතේශ්වරට මානසික වෛද්‍ය ප්‍රතිකාර ලබාදීමට නියම කරයි
+### Investigations into ‘sugar tax scam’ completed – Finance State Minister
+
+*2024-01-24 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96693/investigations-into-sugar-tax-scam-completed-finance-state-minister-) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya says that the Criminal Investigations Department (CID) has concluded the investigation activities regarding the alleged ‘sugar tax scam’.
+
+In response to a question raised by Opposition Leader Sajith Premadasa during today’s Parliamentary session, Siyambalapitiya expressed that the relevant documents of the investigations have been forwarded to the Attorney General in order to obtain his advice regarding the prosecution in relation to the matter.
+
+He mentioned that the response of the Attorney General has also been received so far.
+
+Meanwhile, the State Minister revealed that the Inland Revenue Department (IRD) has carried out a forensic audit regarding 12 institutions and that they have recovered Rs. 310 million from the profits generated through the alleged scam by 06 companies.
+
+◼️
+
+[Data](articles/57c1512b.json)
+
+---
+
+### Specifies a mental medical treatment for the Avalokitiwara
 
 *2024-01-24 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192513) · `si`
 
-අවලෝකිතේශ්වර බෝධිසත්ව නමින් පෙනී සිටි පුද්ගලයාට මානසික වෛද්‍ය ප්‍රතිකාර අවශ්‍ය බව අධිකරණ මනෝ වෛද්‍යවරයා විසින් අධිකරණයට වාර්තා කර තිබේ.
+The judiciary psychiatrist has reported to the court that the person who appeared in the name of Avalokithenwara Bodhisattva needs mental medical treatment.
 
-එහිදී මෙම සැකකරු ලබන 07 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කිරීමට කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය අද (24) නියම කළේය.
+The suspect was remanded until the 7th of this month.
 
-මෙම පැමිණිල්ල අද කොළඹ කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඉදිරියේ කැඳවනු ලැබීය.
+The complaint was called before Fort Magistrate Thilina Gamage.
 
-ඒ අනුව සැකකරු  බන්ධනාගාරය මාර්ගයෙන් මානසික වෛද්‍ය ප්‍රතිකාර ලබාගැනීම සඳහා යොමු කරන ලෙසත් නියම කළේය.
+Accordingly, the suspect sent to direct mental medical treatment through the prison.
 
 ◼️
 
 [Data](articles/8c373e90.json)
 
+[Extended Data](ext_articles/8c373e90.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-01-24 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174695) · `ta`
 
-இன்று புதன்கிழமை (ஜனவரி 24) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 314.9824 ஆகவும் விற்பனை விலை ரூபா 324.7787 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was 314.9824 and the sales price were 324.7787 based on the Central Bank's currency exchange rate on Wednesday (January 24).
 
 ◼️
 
 [Data](articles/a3fdf2f3.json)
 
+[Extended Data](ext_articles/a3fdf2f3.ext.json)
+
 ---
 
-### மாத்தறை - கதிர்காமம் வீதியில் விபத்து : ஐவர் காயம்!
+### Accident on Matara - Kadirgamam Road
 
 *2024-01-24 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174694) · `ta`
 
-மாத்தறை -  கதிர்காமம் பிரதான வீதியில் ஹுங்கம மெதஎலிய பிரதேசத்தில் இன்று புதன்கிழமை (24)  வேன் ஒன்றும் சிறிய லொறியும் மோதி விபத்துக்குள்ளானதில் ஐவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Five persons were injured when a van and a small lorry collided with a small lorry on Wednesday (24) in the Hungama Medeliya area on the Matara -Kadirgamam main road.
 
-பேருவளை பகுதியிலிருந்து கதிர்காமம் நோக்கிச் சென்ற வேன் பாதையை விட்டு விலகி முன்னால் வந்த லொறியுடன் மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்தனர்.
+Police said that the van from Beruwala to Kadirgamam crashed into a lorry in front of the van.
 
 ◼️
 
 [Data](articles/c119928f.json)
+
+[Extended Data](ext_articles/c119928f.ext.json)
 
 ---
 
@@ -108,47 +132,69 @@ Thus, the said Bills will come into effect as the Office for National Unity and 
 
 ---
 
-### අවලෝකිතේශ්වර නමින් පෙනී සිටි මහින්ද කොඩිතුවක්කු යළි රිමාන්ඩ්
+### Mahinda Kodituwakku has been remanded again
 
 *2024-01-24 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192512) · `si`
 
-අවලෝකිතේශ්වර නමින් පෙනී සිටි මහින්ද කොඩිතුවක්කු නමැති පුද්ගලයා පෙබරවාරි 07 වැනි දා දක්වා යළි රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+The man named Mahinda Kodituwakku, who appeared in the name of Avalokithen, has been remanded until February 7.
 
-කොටුවෙ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරු ව සැකකරුට මෙම නියෝගය ලබා දී ඇත.
+The injunction has been given the suspect, after being produced before the Fort and the Magistrate's Court.
 
-මේ අතර, සැකකරුගේ මානසික තත්ත්වය සම්බන්ධයෙන් ලබාගත් වාර්තාව ද අද (24) අධිකරණයට ඉදිරිපත් කෙරිණි.
+Meanwhile, the report received regarding the suspect's mental state was produced before the court today (24).
 
-බුදු දහමට අපහාස කළේ යැයි චෝදනා එල්ල වූ අවලෝකිතේශ්වර නාමයෙන් පෙනී සිටි මහින්ද කොඩිතුවක්කු නැමැත්තා ඉකුත් 15 වැනි දා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගැනිණි.
+The victim was arrested by the Fed's Criminal Investigation Department on the 15th.
 
-අනතුරුව ඉකුත් 16 වැනි දා සැකකරු අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේ දී කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා නියෝග කළේ,
+Fort Magistrate Thilina Gamage ordered the suspect following the 16th.
 
-සැකකරු අංගොඩ ජාතික මානසික සෞඛ්‍ය රෝහලට ඉදිරිපත් කර ඔහුගේ මානසික සෞඛ්‍ය තත්ත්වය සම්බන්ධයෙන් වාර්තාවක් අධිකරණයට ඉදිරිපත් කරන ලෙසයි.
+The suspect is produced at the Angoda National Mental Health Hospital and produce a report on his mental health condition.
 
-ඒ අනුව සැකකරු ඊයේ අංගොඩ මානසික සෞඛ්‍ය විද්‍යායතනය වෙත රැගෙන ගිය අතර, එහි දී පැය දෙකකට අධික කාලයක් ඔහුගේ මානසික තත්ත්වය සම්බන්ධයෙන් පරීක්ෂා කර තිබේ.
+Accordingly, the suspect was taken to the Angoda Muthural Health Scienceship yesterday, and it has been investigated for more than two hours.
 
 ◼️
 
 [Data](articles/c0b20546.json)
 
+[Extended Data](ext_articles/c0b20546.ext.json)
+
 ---
 
-### චීවරධාරියෙකු ලෙස පෙනී සිටි පුද්ගලයෙක් අත්අඩංගුවට
+### Man arrested for appearing as a monk
 
 *2024-01-24 14:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192511) · `si`
 
-චීවරධාරියෙකු ලෙස පෙනී සිටිමින් දරුවන් කෘෘරත්වයට පත්කළ පුද්ගලයෙකු බම්බලපිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Bambalapitiya Police have arrested a person who was elected as a monk.
 
-සිවුරු පොරවාගත් පුද්ගලයෙකු, කාන්තාවක්, දරුවෙක් හා දැරියක් ගෙයින් ගෙට ගොස් සිඟමන් යදින බවට බම්බලපිටියේ ශාන්ති විහාරයේ වැඩවසන හිමිනමක් විසින් පොලීසියට පැමිණිලි කර ඇත.
+A man of the Shanthi Viharaya in Bambalapitiya has lodged a complaint with a person, a child, a child and a girl to go from house to house.
 
-ඒ සම්බන්ධයෙන් සිදුකළ විමර්ශනයෙන් අනතුරුව අවුරුදු 38ක් වූ ගලහේනකන්ද, බලංගොඩ ප්‍රදේශයේ පදිංචිකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+A resident of Galahenakanda, 38, has been arrested following the investigation into the matter.
 
-ඔහුව අත්අඩංගුවට ගන්නා අවස්ථාවේ දී භික්ෂු හැඳුනුම්පතක් තිබී නොමැති අතර, මොහු නාරම්මල ප්‍රදේශයේ පිරිවෙනක පෙදරේරුවෙකු ලෙස සේවය කර කෙටි කාලයක් විහාරස්ථානයක පැවිදිව සිට ඇති බවත් පසුව එම විහාරස්ථානය හැර ගිය අයෙකු බවටත් අනාවරණය වී තිබේ.
+At the time he was arrested, he had not had a bhikkhu ID and he was a shorter time in Narammala and was a victim of a temple.
 
-මෙම පුද්ගලයා සමග සිටි වයස අවුරුදු 13ක පිරිමි දරුවා දහ අවුරුදු 14ක ගැහැනු දරුවා ඔහුගේ බවට අනාවරණය වූ තොරතුරු අනුව අනාවරණය වුවත් එම පුද්ගලයා අන් අයෙකු ලෙස පෙනී සිටිමින් දරුවන්ව කෘෘරත්වයට පත්කිරීමේ වරද මත බම්බලපිටිය පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබිණි.
+The 13-year-old boy was revealed in accordance with the age group of 14 years of girl and was arrested by the Bambalapitiya Police on the guilty of being worried about children.
 
-...
+The monk who was with them was in his possession of a registered bhikkhu ID and the children have been produced before the police station.
+
+◼️
 
 [Data](articles/3d4b8913.json)
+
+[Extended Data](ext_articles/3d4b8913.ext.json)
+
+---
+
+### පංච පුද්ගල ඝාතනය මෙරට සිට සැලසුම් කළ පුද්ගලයා අත්අඩංගුවට
+
+*2024-01-24 14:20:20* · [`adalk`](https://www.ada.lk/breaking_news/පංච-පුද්ගල-ඝාතනය-මෙරට-සිට-සැලසුම්-කළ-පුද්ගලයා-අත්අඩංගුවට/11-407710) · `si`
+
+‍ෙබෙලිඅත්ත අධිවේගී පිටවුම අසලදී (22) පුද්ගලයන් පස් දෙනෙකු වෙඩි තබා ඝාතන සිද්ධිය මෙරට සිට මෙහෙයවූ පුද්ගලයා සහ ඒ සඳහා යොදා ගත් වාහනය පොලිස් අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+එම සිද්ධිය සම්බන්ධයෙන් මාතර කොට්ඨාස භාර නිලධාරිගේ අධීක්ෂණය යටතේ හක්මන පොලිස් ස්ථානාධිපති ඇතුළු නිළධාරීන් කණ්ඩායමක් කළ විමර්ශනයේ දී මෙරට සිට මෙම අපරාධය මෙහෙයවා ඇතැයි කියන සමන් කුමාර නැමැති 54 හැවිරිදි පුද්ගලයෙක් සහ අපරාධය සදහා පැමිණි අංක 65-2615 දරණ මිටිසුබිෂී පෙජරෝ ජීප් රථය ගාල්ල හැව්ලොක් පෙදෙසේ රථගාලක තිබියදී සොයා ගත් බව පොලීසිය කියයි.
+
+මෙම සැකකරු අපරාධය සදහා පැමිණි වාහනයේ රියදුරු වශයෙන් සිට අපරාධය සැලැසුම් කර ඇති බවට වැඩිදුර විමර්ශනවල දී හෙලි වී ඇති බව  ඇති බව ද පොලීසිය පවසයි.සිද්ධිය සම්බන්ධ පොලිස් විශේෂ කණ්ඩායම් තවදුරටත් විමර්ශන දියත් කරන බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/bb2b98ad.json)
 
 ---
 
@@ -168,71 +214,81 @@ Regulating for the sake of regulating will harm these community-based initiative
 
 [Data](articles/28eedd31.json)
 
+[Extended Data](ext_articles/28eedd31.ext.json)
+
 ---
 
-### ගෞතම් අදානි ට එරෙහිව ගම්මු නැගී සිටිති
+### The villagers rise up against Gautam Printer
 
 *2024-01-24 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192510) · `si`
 
-දකුණු ඉන්දීය, තමිල්නාඩු ප්‍රාන්තයේ කට්ටුපල්ලි නම් ගම්මානයේ වෙරළ තීරය ආශ්‍රිතව ව්‍යාප්ත කිරීමට සැලසුම් කර ඇති වරාය ව්‍යාපෘතියකට එරෙහිව මේ වනවිට ගම්වාසීන් විරෝධතා පවත්වයි.
+The villagers have objected against a port project planned to expand the coast of the Village of South Indian and Tamil Nadu.
 
-බෙංගාල බොක්ක වෙරළ ආශ්‍රිතව පිහිටා ඇති එම ගම්මානයේ බොහෝදෙනා ධීවරයින් ලෙස සිය ජීවිකාව ගෙනයති.
+The village in the village is located along the Bay of Bengal.
 
-ඔවුන් පවසන්නේ වරාය තවත් ව්‍යාප්ත කළහොත් සිය ගම්මාන විනාශ වී සිය ජීවන මාර්ග ද අවහිර විය හැකි බවයි.
+They say that if the port is expanded, they can destroy their villages and bloom their lives.
 
-අක්කර 330ක් පමණ ප්‍රදේශයක් පුරා පැතිර යන මෙම බහුකාර්ය වරාය ඉදිකරන ලද්දේ Larson & Toubro නම් සමාගම විසිනි.
+The multi-purpose port, which spread throughout 330 acres, was built by Larson & Tobro.
 
-මේ වනවිට එම ව්‍යාපෘතිය තවත් 18 ගුණයකින් වැඩි කිරීමට අදානි පෝට්ස් සමාගම යෝජනා කර ඇති අතර ඔවුන් වෙරළ තීරයේ අක්කර 6,110ක් ලබාගැනීමට සැලසුම් කර තිබේ.
+Rajapakse Parks has proposed to increase the project another 18 times.
 
-එම ව්‍යාපෘතිය නිමකළ පසු  වාර්ෂිකව හැසිරවිය හැකි බහාලුම් ප්‍රමාණය මෙට්‍රික් ටොන් 24.6 සිට 320ක් දක්වා ඉහළ යයි.
+Once the project is completed, the annual container is up to 24.6 to 320 metric tons.
 
-එසේම ප්‍රදේශය පුරා නව දුම්රිය මාර්ග පද්ධති සහ මහමාර්ග පද්ධති නිර්මාණය කෙරෙන බවත් එමගින් වෙළෙඳ සම්බන්ධතා වර්ධනය වෙතැයි අදානි පෝට්ස් සමාගම පවසයි.
+The new railway systems and highway systems will be created across the area and will be able to improve trade relations.
 
-නමුත් ධීවර ප්‍රජාව පවසන්නේ මෙම ව්‍යාපෘතිය මගින් මත්ස්‍ය සම්පත විනාශ විය හැකි බවයි.
+However, the fishing community says the project can be destroyed by this project.
 
 ◼️
 
 [Data](articles/289e1687.json)
 
+[Extended Data](ext_articles/289e1687.ext.json)
+
 ---
 
-### தமது சொந்த காணியில் இராணுவம் விவசாயம் செய்வதை வேலியால் பார்க்கும் வட பகுதி மக்கள்  - சாணக்கியன்
+### Northern people who see the military farming in their own land
 
 *2024-01-24 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/174693) · `ta`
 
-தங்களது சொந்த காணியில் இராணுவம் விவசாயம் செய்வதை வேலியால் பார்க்கும் வட பகுதி மக்களின் நிலை யாருக்கும் வரக்கூடாது என  பாராளுமன்ற உறுப்பினர் இராசமாணிக்கம் சாணக்கியன் தெரிவித்துள்ளார்.
+Parliamentarian Rasamanikam Chanakyan has said that the plight of the people of the Northern region should not come to anyone who sees the military farming on their own land.
 
-இன்றைய பாராளுமன்ற அமர்வில் கேள்விபதிலின் போது  பாதுகாப்பு அமைச்சரிடம் தெரிவித்தபோதே அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+He was speaking to the Defense Minister during the hearing of today's parliamentary session.
 
-வடக்கு, கிழக்கில் இடம்பெற்ற யுத்தம் முடிந்து தற்போது 15 வருடங்கள் முடிவடையப் போகின்றது. 15 வருடங்களுக்குப் பின்னரும் குறிப்பாக இந்த வடக்கு கிழக்கு மாவட்டங்களில் மாத்திரம் இராணுவ முகாம்களை பாதுகாப்பு கருதி வைத்திருக்கின்றோம் எனக் கூறுவதை எங்களால் ஏற்றுக் கொள்ள முடியாது.
+The war in the North and East is now over 15 years after the end of the war. We cannot accept the claim that we have only protected military camps, especially in these North and East districts after 15 years.
 
-குருக்கள் மடம் பாடசாலைக்குரிய மைதானக் காணியானது இராணுவ கட்டுப்பாட்டினுள் இல்லை எனக் கூறினாலும் தற்போது வரை அவ் மைதான காணி இராணுவ கட்டுப்பாட்டிலேயே இருக்கிறது.
+Although the priests claim that the ground floor of the Math Math School is not under military control, the ground land is under military control.
 
-மொறக்கொட்டான் சேனையில் இராணுவ முகாம் அமைத்திருக்கும் பாடசாலைக்கு பதிலாக பிறிதொரு பாடசாலையினை அமைத்ததாக கூறியுள்ளீர்கள்.
+You have said that you have set up another school instead of a school where a military camp has been set up in the Morakottan army.
 
-புதிதாக அமைக்கப்பட்ட பாடசாலை ஒரு ஆற்றோர பிரதேசத்தில் காணப்படுகின்றது. இதனை அக் கிராம பெற்றோர்களோ, பிள்ளைகளோ விரும்பவில்லை.
+The newly built school is found in a river area. This is not what village parents or children do not want.
+
+Even if the school is used through a temporary alternative, it is unable to continue to be used.
 
 ...
 
 [Data](articles/3d79c83e.json)
 
+[Extended Data](ext_articles/3d79c83e.ext.json)
+
 ---
 
-### අත්හැර දැමූ බීඩි කොළ තොගයක් නාවික හමුදා භාරයට
+### Navy bears a stock of beady leaves
 
 *2024-01-24 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192509) · `si`
 
-කල්පිටිය - මාම්පූරි ප්‍රදේශයට ඔබ්බෙන් වූ මුහුදු ප්‍රදේශයේ දී බීඩි කොළ කිලෝග්‍රෑම් 520කට අධික තොගයක් නාවික හමුදා භාරයට ගෙන තිබේ.
+Navy seized over 520 kilograms of beed leaves in the sea area in Kalpitiya.
 
-වයඹ නාවික විධානයට අනුයුක්ත වෙරළබඩ මුර යාත්‍රාවක් අදාළ මුහුදු ප්‍රදේශයේ සිදු කළ මුර සංචාරයක දී මෙම බීඩි කොළ තොගය සොයාගත් බව නාවික හමුදාව අවධාරණය කරයි.
+The coastal patrol junk attached to the North Western Naval Command, the resident states that the beedy was found in a guard in the sea.
 
-එහි දී මුහුදේ පා වෙමින් තිබූ මෙම බීඩි කොළ තොගය නාවික හමුදා භාරයට ගෙන ඇති බව සඳහන්ය.
+The beach had taken place in the sea and the stock of beaded has been taken into custody.
 
-මෙම තොගය ගොඩබිම‍ට රැගෙන ඒමට නොහැකි ව ජාවාරම්කරුවන් විසින් මුහුදේ අතහැර දමා යන්නට ඇති බවට නාවික හමුදාව සැක පළ කරයි.
+The navy suspicles that the stock cannot be brought to the land, the Navy suspects the racketeers to leave the sea.
 
 ◼️
 
 [Data](articles/129d7000.json)
+
+[Extended Data](ext_articles/129d7000.ext.json)
 
 ---
 
@@ -302,35 +358,39 @@ The opposition has pledged to repeal the law if they come to power. (Colombo/Jan
 
 ---
 
-### බෙලිඅත්තේ ඝාතනයට අදාළ සැකකරුවෙකු අත්අඩංගුවට
+### Suspect arrested for murder of Beliatta
 
 *2024-01-24 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192508) · `si`
 
-බෙලිඅත්තේ දී පුද්ගලයන් පස් දෙනෙකු ඝාතන සිද්ධියට අදාළ සැකකරුවෙකු සහ අපරාධය සඳහා යොදා ගත් වාහනය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Police have arrested the suspect and the vehicle involved in the crime in Beliwatta.
 
-අපරාධය මෙහෙයවා ඇති සමන් කුමාර නැමැති 54 හැවිරිදි පුද්ගලයෙකු සහ අපරාධය සඳහා පැමිණි අංක 65–2615 දරණ ජීප් රථය මෙසේ පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+The police have arrested a 54 year old man named Saman Kumara and the jeep of the crime.
 
-අපරාධය සිදු වන අවස්ථාවේ වාහනයේ රියදුරු වශයෙන් සිට ඇත්තේ ද මෙම සැකකරු බව අනාවරණය වී තිබේ.
+It has been revealed that the suspect had been the driver of the vehicle at the time of the crime.
 
 ◼️
 
 [Data](articles/8c1f2256.json)
 
+[Extended Data](ext_articles/8c1f2256.ext.json)
+
 ---
 
-### பெலியத்தவில் ஐவர் கொலை :  மாத்தறையில் ஒருவர் கைது!
+### Five murder in Beliatta: One arrested in Matara
 
 *2024-01-24 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/174692) · `ta`
 
-பெலியத்தவில் ஐவர்  கொலை செய்யப்பட்ட சம்பவத்துக்கு  உடந்தையாக இருந்தார் என்ற  சந்தேகத்தில்  ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+One person has been arrested on suspicion of complicity in the murder of five people in Beliatta.
 
-மாத்தறையில் வைத்து அவர்  இன்று புதன்கிழமை (24)  கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+He was arrested on Wednesday (24) in Matara, police said.
 
-கைது செய்யப்பட்டவர், தாக்குதல் நடத்தியவர்கள் பயன்படுத்திய வாகனத்தின் சாரதி எனவும் இவரே  இந்தத்  துப்பாக்கிச் சூட்டு சம்பவத்தை திட்டமிட்டுள்ளதாகவும் சந்தேகிக்கப்படுகிறது.
+It is suspected that the arrest was the driver of the vehicle used by the attackers and that he was planning the shooting.
 
 ◼️
 
 [Data](articles/40549ba4.json)
+
+[Extended Data](ext_articles/40549ba4.ext.json)
 
 ---
 
@@ -392,19 +452,39 @@ This would foster a skilled and certified workforce, promote environmental susta
 
 ---
 
-### ஐக்கிய தேசியக் கட்சியின் பொதுசெயலாளர் பாலித்த ரங்கே பண்டார கிழக்கிற்கு விஜயம்
+### UNP General Secretary Palitha Range Bandara visits East
 
 *2024-01-24 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/174687) · `ta`
 
-ஐக்கிய தேசியக் கட்சியின் பொது செயலாளர் பாலித்த ரங்கே பண்டார கலந்து கொள்ளும் ஐக்கிய தேசியக் கட்சின் செயல்பாட்டாளர்கள் சந்திப்பு கூட்டம் சனிக்கிழமை (27), காலை 9.00 மணிக்கு மட்டக்களப்பு பொது நூலக கேட்போர் கூடமண்டபத்தில் இடம்பெறவுள்ளதாக ஐக்கிய தேசியக் கட்சியின் பட்டிருப்புத் தொகுதி அமைப்பாளர் சிவலிங்கம் சுதர்சனன் தெரிவித்துள்ளார்.
+United National Party (UNP) General Secretary Palitha Range Bandara will attend the United National Party (UNP) activists meeting on Saturday (27) at 9.00 am
 
-இதில் ஐக்கிய தேசியக் கட்சியின் மட்டக்களப்பு மாவட்டத்தைச் சேர்ந்த அமைப்பாளர்கள், உறுப்பினர்கள். முன்னாள் உள்ளூராட்சி மன்ற உறுப்பினர்கள், பதவி நிலை உறுப்பினர்கள் உள்ளிட்ட பலரும் கலந்து கொள்ளவுள்ளார்கள்.
+The organizers and members of the UNP Batticaloa district. Former local council members and members of the post will be present.
 
-இதுபோன்று அம்பாறை மற்றும் திருகோணமலை மாவட்டங்களிலும் கட்சியின் செயலாளர் கேற்கும் கூட்டங்கள் ஒழுங்கு செய்யப்பட்டுள்ளன. எதிர்வரும் தேர்தல்களை மையப்படுத்தி அதற்குரிய முன்னாயத்தமான கட்சியின் அமைப்பாளர்கள், உறுப்பினர்களையும், சந்தித்து ஊக்கப்படுத்தும் செயற்பாடுகள் செயலாளரின் தலைமையில் முன்னெடுக்கப்பட்டு வருவதாக அவர் மேலும் தெரிவித்தார்.
+Similarly, meetings of the party's secretary in Ampara and Trincomalee districts have been organized.. He added that the activities that focus on the upcoming elections are being carried out by the Secretary of the Secretary to encourage and encourage the members of the party.
 
 ◼️
 
 [Data](articles/3a2399b0.json)
+
+[Extended Data](ext_articles/3a2399b0.ext.json)
+
+---
+
+### ගවයින්ගේ ගැටුනු බස්රථය වෑන්රථයක මුහුණට මුහුණ ගැටෙයි,  කාන්තාවක් මරුට, 08 කට බරපතලයි
+
+*2024-01-24 13:26:21* · [`adalk`](https://www.ada.lk/picture_story/ගවයින්ගේ-ගැටුනු-බස්රථය-වෑන්රථයක-මුහුණට-මුහුණ-ගැටෙයි---කාන්තාවක්-මරුට--08-කට-බරපතලයි/10-407705) · `si`
+
+යාපනය මහනුවර ඒ- 09 ප්‍රධාන මාර්ගයේ  කිලිනොච්චිය, අලිමංකඩ, උමයාල්පුරම් ප්‍රදේශයේදී ලංගම බස්රථයක් වෑන් රථයක මුහුණට මුහණ ගැටී අද (24) අලුයම සිදුවූ අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත්ව තවත් අටදෙනකු බරපතල තුවාල ලබා රෝහල්ගත කල බවට කිලිනොච්චිය පොලිසිය පවසයි.
+
+යාපනය සිට මහනුවර බලා ධාවනය වු  ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් හා කටුනායක ගුවන්තොටුපොළ වෙත ගොස් නැවත යාපනය වෙත ගමන්ගත් වෑන් රථයක් මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලිසිය පැවසීය.
+
+ඒහිදී ලංගම බස් රථය අධික වේගයකින් ධාවනය වී වෙගය පාලනය කරගැනීමට නොහැකිව මාර්ගයේ නිදා සිටි ගවයින් රංචුවක ගැටීමෙන් පසුව ඉදිරියෙන් පැමිණි වෑන් රථයේ මුහුණට මුහුණ ගැටී අ‍ැති අතර බස්රථයේ ගැටුනු ගවයින් 08 දෙනකුද ජීවිතක්ෂයට පත්ව අ‍ැත.
+
+අනතුරින් මිය ගොස් ඇත්තේ 50 හැවිරිදි  යාපනයේ පදිංචි  කතිරිනා තිරුචෙල්වම් නැමති කාන්තාවක් වන අතර අනතුරින් බරපතල තුවාල ලැබූවන් මේ වන විට කිලිනොච්චිය මහරෝහලේ දැඩිසත්කාර ඒ්කකයේ ප්‍රතිකාර ලබමින් සිටිති.
+
+...
+
+[Data](articles/09d3f7d6.json)
 
 ---
 
@@ -429,6 +509,20 @@ In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons 
 [Data](articles/c0cfabf6.json)
 
 [Extended Data](ext_articles/c0cfabf6.ext.json)
+
+---
+
+### රනිල් වික්‍රමසිංහට ජනපතිධුරය ගන්න කීවේ මමයි
+
+*2024-01-24 13:18:33* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-වික්‍රමසිංහට-ජනපතිධුරය-ගන්න-කීවේ-මමයි/11-407704) · `si`
+
+"මම තමයි රනිල් වික්‍රමසිංහ මැතිතුමාට ජනධිපතිකම ගන්න කියලා කීවේ,ඒතුමා අපි ඉහළින්ම ඔසවා තැබුවා. මම හදවතට ඒකගව කියනවා කුහක වෙන්න හොද නෑ අපිට තිබුන දුෂ්කර කාල පරිජ්‌චේදයකින් ගොඩදැම්මේ ඒතුමා ඉදිරියේදි මැතිවරණයෙන් නායකයෙකු තෝරද්දී කොන්ද පණ තියෙන ශක්තිමත් අභියෝග භාරගන්න පුළුවන් සුරංගනා කතා නොකරන යථාර්තවාදී  නායකයෙකු තොරාගත යුතුයි" යැයි වරය හා සිවිල් ගුවන්සේවා ඇමති නිමල් සිරිපාලද සිල්වා මහතා ඌවපරණගමදි පැවසීය.
+
+වැලිමඩ-ඌවපරණගම උමා ඔයෙන් වෙන්වෙන ගිරාබේ පාලම අළුතින් ඉදිකිරීමට වැඩ ආරම්භ කිරීම හා ඌවපරණගම  හගුන්නෑව පාලම අළුතින් ඉදිකර ජනතා අයිතියට පත්කිරීමේ උත්සවයේදි ජනතාව අමතමින් ඇමතිවරයා එසේ පැවසීය, මෙම පාලම් දෙක ඉදිකිරීමට ඌව පළාත් ආණ්ඩුකාරවර ඒ.ජේ.එම් මුසම්මිල් මහතා ඌව පළාත් සභාව මගින් රුපියල් මිලියන 213ක මුදලක් වැය කර තිබේ,
+
+...
+
+[Data](articles/7430baa0.json)
 
 ---
 
@@ -1949,73 +2043,5 @@ On January 3, during an event, President Ranil Wickremesinghe said that the gove
 [Data](articles/75b1e39b.json)
 
 [Extended Data](ext_articles/75b1e39b.ext.json)
-
----
-
-### Sri Lanka Navy says ready for Red Sea deployment
-
-*2024-01-24 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-Navy-says-ready-for-Red-Sea-deployment/155-275620) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - Although a date has not been fixed, the Sri Lanka Navy said yesterday that it is now prepared to send a deployment to the Red Sea to assist in defending shipping lanes from Houthi activities, once the government greenlights and authorizes the deployment.
-
-Navy spokesperson Capt. Gayan Wickramasinghe told the Daily Mirror that discussions are still underway at higher levels regarding the Red Sea deployment, but the Sri Lanka Navy is ready. "We are now on standby to send our deployment to the Red Sea at any time," he said.
-
-On January 3, during an event, President Ranil Wickremesinghe said that the government would deploy a Navy vessel to the Red Sea to safeguard shipping lanes. He said that the disruption of these lanes would lead to increased freight charges and cargo costs, affecting import prices in the country. President Wickremesinghe said that the government is committed to contributing to stability in the region.
-
-...
-
-[Data](articles/d1f70e50.json)
-
-[Extended Data](ext_articles/d1f70e50.ext.json)
-
----
-
-### Operation ‘Yukthiya’: 930 more suspects under arrest within 24 hours
-
-*2024-01-24 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96677/operation-yukthiya-930-more-suspects-under-arrest-within-24-hours) · `en`
-
-A total of 930 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.24) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 425g of heroin, 235g of crystal methamphetamine (Ice), and 4,351 narcotic pills.
-
-◼️
-
-[Data](articles/da9cdbd4.json)
-
-[Extended Data](ext_articles/da9cdbd4.ext.json)
-
----
-
-### Justice is boxing
-
-*2024-01-24 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192495) · `si`
-
-930 suspects have been arrested in the 24-hour operations carried out in the 24 hours ended today (24) under the special drug operation.
-
-◼️
-
-[Data](articles/4bd8e7fe.json)
-
-[Extended Data](ext_articles/4bd8e7fe.ext.json)
-
----
-
-### Today’s fish prices low, vegetable prices slightly high
-
-*2024-01-24 08:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Todays-fish-prices-low-vegetable-prices-slightly-high/108-275621) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - A bit of an increase was seen in vegetable prices at the Paliyagoda market due to the falls on Poyaday tomorrow, the traders of the New Manning Market in Peliyagoda said.
-
-Accordingly, a kilo of carrots was Rs. 1,000 and a kilo of beans Rs. 750.
-
-Meanwhile, the price of fish at the New Manning Market has decreased. Common fish varieties have decreased to less than Rs. 300 per kilo. A kilo of Salaya was at Rs. 500, Linna (small) at Rs. 250, and Linna (large) at Rs. 450 per kilo.
-
-The price of a kilo of fresh chicken at Handapangoda Farm in Godagama was Rs. 1,180. Skinless chicken was at Rs. 1,160 and curry chicken was at Rs. 1,300.
-
-◼️
-
-[Data](articles/ec7e17dd.json)
-
-[Extended Data](ext_articles/ec7e17dd.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 08:51:10**
+As of **2024-01-24 09:02:23**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 284
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,205 (99.9%) of 2,207 articles have been extended.
+2,207 (100.0%) of 2,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### බඩු මිල ගැන සාගලගෙන් ප්‍රකාශයක්
+### Sagala stated in the price of groceries
 
 *2024-01-24 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192494) · `si`
 
-දැනට පවතින භාණ්ඩ මිල තවදුටත් අඩු කිරීමේ හැකියාවක් නොමැති බව ජනාධිපති ජ්‍යේෂ්ඨ උපදේශක සාගල රත්නායක මහතා පවසයි.
+Presidential Advisor Sagala Ratnayake says that there is no possibility of reducing the price of goods available.
 
-රුපියල ශක්තිමත් වීම ඉතා හෙමින් සිදුවන බැවින් දැන් සිදුකළ යුත්තේ ජනතාවගේ ආදායම වැඩි කිරීම සඳහා පියවර ගැනීම බව ඔහු සඳහන් කරයි.
+The rupee strengthening is slowly, he should now take steps to increase the income of the people.
 
-"අපිට බඩු මිල ගේන්න පුළුවන් අඩුම තැනට ඇවිත් තියෙන්නේ. සමහර දේවල් අඩු වැඩි වෙනවා එළවළු වගේ දේවල්. නමුත් විදේශ විනිමය සම්බන්ධයෙන් ගේන්න පුළුවන් අඩුම තැනට බඩු මිල ඇවිත් තියෙන්නේ. මොකද රුපියල මීට වඩා ශක්තිමත් වෙන්නේ බොහෝම හෙමින්. අපිට කරන්නේ තියෙන්නේ ආදායම වැඩිකරන එක. නැත්නම් මේ තුන් ගුණයකින් වැඩි වුණ බඩු මිලට ගැලපෙන ආදායම අපි ඇති කළ යුතුයි. රාජ්‍ය සේවකයින්ට රු 10,000කින් ආදායම වැඩිවෙනවා මේ අවුරුද්දේ. ඒ වුණාට ඒ වැඩිවුණ බඩු මිල එක්ක මේක ගෑවෙන්නවත් මදි. නමුත් රජයට මේ අවුරුද්දේ දරාගන්න පුළුවන් ප්‍රමාණය තමා මේ දුන්නේ. ඉදිරි අභියෝගය තමා ආදායම වැඩිකර ගැනීම."
+"We have at the least we can bring inland prices. Some things grow less like a vegetable. But the lowest cargo price that can bring about foreign exchange has come. Because the ruyal is more stronger than so slow. We have to grow income. Or we must create the income that matches the gross buyers. 10,000 state employees increase this year. But that was not enough with the increased propaganda prices. But what the government can bear this year, he gave this year. The next challenge increases his income. "
 
-රජය ක්‍රියාත්මක කර ඇති වැඩපිළිවල හේතුවෙන් ආර්ථිකය ක්‍රමානුකුලව ශක්තිමත් වෙමින් පවතින බව සාගල රත්නායක මහතා වැඩිදුරටත් පැවසුවේය.
+Mr. Sagala Ratnayake added that due to the program of the government, the economy is being severely strengthened.
 
 ◼️
 
 [Data](articles/e0198ed4.json)
+
+[Extended Data](ext_articles/e0198ed4.ext.json)
 
 ---
 
@@ -508,19 +510,21 @@ and businesses will see more value as a result and that will drive the transform
 
 ---
 
-### பெப்ரவரி 23, 24 இல் கச்சதீவு அந்தோனியார் திருவிழா
+### On February 23, 24
 
 *2024-01-24 03:29:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-23-24-இல்-கச்சதீவு-அந்தோனியார்-திருவிழா/175-332042) · `ta`
 
-கச்சதீவு புனித அந்தோனியார் ஆலய வருடாந்த திருவிழா எதிர்வரும் பெப்ரவரி மாதம் 23, 24 ஆம் திகதிகளில் நடைபெறவுள்ளது.
+The annual festival of St. Anthony's Temple in Kachchativu will be held on the 23rd and 24th of February.
 
-வருடாந்த திருவிழாவிற்கான முன்னேற்பாட்டுக் கூட்டம் யாழ்ப்பாணம் மாவட்ட அரசாங்க அதிபர் தலைமையில் மாவட்ட செயலகத்தில் நேற்று நடைபெற்றது.
+A meeting of the annual festival was held yesterday at the District Secretariat chaired by the Jaffna District Government Agent.
 
-கூட்டத்தில் யாழ். இந்திய துணை தூதரக அதிகாரிகள், நெடுந்தீவு பிரதேச செயலாளர், நெடுந்தீவு பங்குத்தந்தை, யாழ். மறைமாவட்ட குரு முதல்வர், கடற்படையினர் உள்ளிட்ட பலரும் பங்கேற்றிருந்தனர்.
+Jaffna at the meeting. Indian Embassy Officers, Neduntivu Divisional Secretary, Neduntivu Partner. The Diocese Guru Chief Minister, Marines and many others were present.
 
 ◼️
 
 [Data](articles/c4807e4e.json)
+
+[Extended Data](ext_articles/c4807e4e.ext.json)
 
 ---
 

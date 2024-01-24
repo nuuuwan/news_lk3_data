@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 23:33:02**
+As of **2024-01-24 23:52:22**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 325
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,429 (99.8%) of 2,435 articles have been extended.
+2,435 (100.0%) of 2,435 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The police arrested the parents on their return, and kept the mother to take car
 ◼️
 
 [Data](articles/77e4bf4f.json)
+
+[Extended Data](ext_articles/77e4bf4f.ext.json)
 
 ---
 
@@ -117,6 +119,8 @@ The Island nation were then rocked by Zacheo van Vuuren, who brought two wickets
 ...
 
 [Data](articles/c2a91caa.json)
+
+[Extended Data](ext_articles/c2a91caa.ext.json)
 
 ---
 
@@ -200,6 +204,8 @@ Speaking during the debate on Online Safety Bill, he said social media was circu
 
 [Data](articles/96e09d3f.json)
 
+[Extended Data](ext_articles/96e09d3f.ext.json)
+
 ---
 
 ### The Pakistani origin is hurried
@@ -249,6 +255,8 @@ The complaint was heard before the Batticaloa Magistrate today, and the Magistra
 ...
 
 [Data](articles/2508314c.json)
+
+[Extended Data](ext_articles/2508314c.ext.json)
 
 ---
 
@@ -684,6 +692,8 @@ Asia Internet Coalition (AIC), a body comprising internet and technology compani
 
 [Data](articles/51d4e0ab.json)
 
+[Extended Data](ext_articles/51d4e0ab.ext.json)
+
 ---
 
 ### Parliament approves Online Safety Bill
@@ -825,6 +835,8 @@ Accordingly, the retail price of an egg will be Rs. 54.55, the association presi
 ◼️
 
 [Data](articles/73d2f0bc.json)
+
+[Extended Data](ext_articles/73d2f0bc.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 08:32:56**
+As of **2024-01-24 08:51:10**
 
 ## Newspaper Stats
 
-*Scraped **2,205** Articles*
+*Scraped **2,207** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,39 +14,59 @@ dbsjeyarajcom | 122
 islandlk | 123
 newsfirstlk | 124
 economynextcom | 132
-adaderanasinhalalk | 150
+adaderanasinhalalk | 151
 dailyftlk | 181
 adalk | 222
 virakesarilk | 240
 adaderanalk | 274
-tamilmirrorlk | 276
+tamilmirrorlk | 277
 dailymirrorlk | 284
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,198 (99.7%) of 2,205 articles have been extended.
+2,205 (99.9%) of 2,207 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### ත්‍රස්ත විරෝධී පනතට එරෙහිව කාදිනල් හිමි ගෙන් පෙත්සමක්
+### බඩු මිල ගැන සාගලගෙන් ප්‍රකාශයක්
+
+*2024-01-24 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192494) · `si`
+
+දැනට පවතින භාණ්ඩ මිල තවදුටත් අඩු කිරීමේ හැකියාවක් නොමැති බව ජනාධිපති ජ්‍යේෂ්ඨ උපදේශක සාගල රත්නායක මහතා පවසයි.
+
+රුපියල ශක්තිමත් වීම ඉතා හෙමින් සිදුවන බැවින් දැන් සිදුකළ යුත්තේ ජනතාවගේ ආදායම වැඩි කිරීම සඳහා පියවර ගැනීම බව ඔහු සඳහන් කරයි.
+
+"අපිට බඩු මිල ගේන්න පුළුවන් අඩුම තැනට ඇවිත් තියෙන්නේ. සමහර දේවල් අඩු වැඩි වෙනවා එළවළු වගේ දේවල්. නමුත් විදේශ විනිමය සම්බන්ධයෙන් ගේන්න පුළුවන් අඩුම තැනට බඩු මිල ඇවිත් තියෙන්නේ. මොකද රුපියල මීට වඩා ශක්තිමත් වෙන්නේ බොහෝම හෙමින්. අපිට කරන්නේ තියෙන්නේ ආදායම වැඩිකරන එක. නැත්නම් මේ තුන් ගුණයකින් වැඩි වුණ බඩු මිලට ගැලපෙන ආදායම අපි ඇති කළ යුතුයි. රාජ්‍ය සේවකයින්ට රු 10,000කින් ආදායම වැඩිවෙනවා මේ අවුරුද්දේ. ඒ වුණාට ඒ වැඩිවුණ බඩු මිල එක්ක මේක ගෑවෙන්නවත් මදි. නමුත් රජයට මේ අවුරුද්දේ දරාගන්න පුළුවන් ප්‍රමාණය තමා මේ දුන්නේ. ඉදිරි අභියෝගය තමා ආදායම වැඩිකර ගැනීම."
+
+රජය ක්‍රියාත්මක කර ඇති වැඩපිළිවල හේතුවෙන් ආර්ථිකය ක්‍රමානුකුලව ශක්තිමත් වෙමින් පවතින බව සාගල රත්නායක මහතා වැඩිදුරටත් පැවසුවේය.
+
+◼️
+
+[Data](articles/e0198ed4.json)
+
+---
+
+### Petition from Cardinal against anti-terrorism
 
 *2024-01-24 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192493) · `si`
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන ත්‍රස්ත විරෝධි පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි යැයි තීන්දු කරන ලෙස ඉල්ලා කාදිනල් අති උතුම් මැල්කම් රංජිත් හිමිපාණන් විසින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ පෙත්සමක් ගොනුකර තිබේ.
+Cardinal Malcolm Ranjith has filed a petition in the Supreme Court demanding the judiciary to decide that the government has presented to Parliament.
 
-පෙත්සම්කාර කාදිනල් හිමිපාණන් කියා සිටින්නේ, අදාළ පනත් කෙටුම්පතේ අන්තර්ගත විධිවිධානවලින් යුද හමුදාව,පොලීසිය සහ වෙරළාරක්ෂක බළකායට ඕනෑම පුද්ගලයකු සාධාරණ හේතුවක් නොමැතිව අත්අඩංගුවට ගෙන රඳවා ගැනීමේ බලය ලබාදී තිබෙන බවය.
+The Petitioner Cardinal is said to have been arrested for the army, the police and the Coast Guard for the army, the army, the police and the Coast Guard.
 
-මේ තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව මඟින් සහතික කර තිබෙන පුද්ගල නිදහස, අදහස් ප්‍රකාශ කිරීම නිදහස ඇතුළු මූලික අයිතීන් උල්ලංඝනය වන බවත් උන් වහන්සේ පෙන්වා දෙයි.
+He also shows that personal freedom and commentary of the Constitution is a violation of basic rights, including freedom.
 
-එබැවින් අදාළ පළාත් කෙටුම්පත සම්මත කිරීමට අවශ්‍ය නම් පාර්ලිමේන්තුවේ තුනෙන් දෙකක බහුතර ඡන්දයකින් සහ ජනමත විචාරණයකින් එය අනුමත විය යුතු බවට තීන්දුවක් ලබා දෙන ලෙසත් කාදිනල් හිමිපාණන් ශ්‍රේෂ්ඨාධිකරණයෙන් ඉල්ලා තිබේ.
+The Cardinal has asked the Supreme Court to give a verdict with two-thirds majority and referendum if it is necessary to pass the provincial draft.
 
 ◼️
 
 [Data](articles/1aac769e.json)
+
+[Extended Data](ext_articles/1aac769e.ext.json)
 
 ---
 
@@ -64,21 +84,23 @@ Police requested motorists using the Southern Expressway to be cautious over mi
 
 ---
 
-### යුක්තියට ඔත්තුවක් දුන්නොත් සල්ලි මල්ලක්
+### If you give justice to justice, a bag of money
 
 *2024-01-24 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192492) · `si`
 
-නීතිවිරෝධී ගිනිඅවි හා බෝම්බ පොලිස් භාරයට ගැනීම සඳහා තොරතුරු ලබාදෙන පුද්ගලයින්ට මුදල් ත්‍යාගයක් ලබාදීමට පොලීසිය තීරණය කර තිබේ.
+Police have decided to provide a cash prize to the people who provide information to obtain illegal firearms and bombs.
 
-පසුගිය වසරේ දෙසැම්බර් මස 17 වනදා සිට ආරම්භ කළ යුක්තිය මෙහෙයුම සාර්ථකව අත්අඩංගුයට ගැනීම් සිදුකර අතර ඒ සඳහා තොරතුරු ලබාදෙන ඔත්තුකරුවන් වෙත මෙම මුදල් ත්‍යාගයන් ලබාදීමට තීරණය කර ඇත.
+The unit operation commenced on December 17, last year has been successfully taken to provide these cash prizes to the spies that provide information.
 
-ඒ අනුව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් සියලුම ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන්, නියෝජ්‍ය පොලිස්පතිවරුන්, කොට්ඨාස භාර නිලධාරී සහ අධ්‍යක්ෂවරුන් වෙත මේ සම්බන්ධයෙන් උපදෙස් ලබාදී ඇත.
+Acting IGP Deshabandu Tennakoon has instructed all senior DIGs, DIGs, officer and directors.
 
-එවැනි තොරතුරු ලබාදෙන පුද්ගලයින්ගේ රහස්‍යභාවය ආරක්ෂා කරන අතර පහත පරිදි මුදල් ත්‍යාගයන් ලබාදීමට නියමිතය.
+Such information protects the confidentiality of individuals who provide such information and will be given the following cash prizes.
 
 ◼️
 
 [Data](articles/2211f20f.json)
+
+[Extended Data](ext_articles/2211f20f.ext.json)
 
 ---
 
@@ -100,39 +122,43 @@ Accordingly, the court order states that the protesters should not to block any 
 
 ---
 
-### අක්ෂිණ අධිවේගයේ දැඩි මීදුමක්
+### A heavy fog on the unison highway
 
 *2024-01-24 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192491) · `si`
 
-දක්ෂිණ අධිවේගී මාර්ගයේ දැඩි මීදුම් සහිත තත්ත්වයක් පවතින බව පොලීසිය නිවේදනය කරයි.
+Police announced that there is a heavy mist in the Southern Expressway.
 
-මේ හේතුවෙන් වැලිපැන්න පිවිසුමත් පින්නදූව පිවිසුමත් අතර මාර්ගයේ ගමන් ගන්නා රියදුරන්ට විමසිලිමත්ව රිය ධාවනය කරන ලෙස පොලීසිය දැනුම් දෙයි.
+As a result of this, the police are informed to drive a search for drivers along the Welipenna access to the Welipenna entrance and the Pinnaduwa entrance.
 
-අධික වේගයෙන් රථවාහන ධාවනය නොකරන ලෙසට ද පොලීසිය රියදුරන්ගෙන් ඉල්ලා සිටී.
+Police also call on drivers not running traffic in high speed.
 
 ◼️
 
 [Data](articles/b7b4ba54.json)
 
+[Extended Data](ext_articles/b7b4ba54.ext.json)
+
 ---
 
-### டிரான் அலஸ் நாடாளுமன்றத்தில் தெரிவித்ததை நிராகரித்தது ஆசிய இணைய கூட்டமைப்பு
+### The Asian Internet Federation rejected what Tran Ales said in parliament
 
 *2024-01-24 07:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174653) · `ta`
 
-பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் நாடாளுமன்றத்தில் நிகழ்நிலை பாதுகாப்பு சட்டம் குறித்த விவாதத்தில் வெளியிட்ட கருத்துக்களை நிராகரித்துள்ள ஆசிய இணைய கூட்டமைப்பு நிகழ்நிலை பாதுகாப்பு சட்டமூலம் அதன் தற்போதைய வடிவத்தில் முன்னெடுக்க முடியாதது மேலும் இலங்கையின் டிஜிட்டல் பொருளாதாரத்தின் சாத்தியான வளர்ச்சி மற்றும் வெளிநாட்டு முதலீட்டினை பாதிக்கும் எனவும் குறிப்பிட்டுள்ளது.
+The Minister of Public Security, Tran Alus, has rejected the comments on the debate on the Defense Act in Parliament and said that the Asian Internet Federation's Federation of Security Bill could not be carried out in its current form and would affect the development of Sri Lanka's digital economy and foreign investment.
 
-உலகின் மிகவும் வலுவான இணைய தொழில்நுட்ப நிறுவனங்களை உள்ளடக்கிய அமைப்பே ஆசிய இணைய கூட்டமைப்பு என்பது குறிப்பிடத்தக்கது.
+The Asian Internet Federation is the organization that includes the world's most strong Internet technology companies.
 
-இந்த அமைப்பு ஆசிய பிராந்தியத்தில் இணையம் தொடர்பான விடயங்களிற்கு தீர்வை காணவும் ஊக்குவிக்கவும் முயல்கின்றது.
+The organization is seeking to find solutions to the Internet -related issues in the Asian region.
 
-ஆசிய இணையகூட்டமைப்பு அப்பிள் பின்ரெஸ்ட் கூகுள் டுவிட்டர் உட்பட பல நிறுவனங்களை பிரதிநிதித்துவம் செய்கின்றது.
+The Asian web site represents many companies, including Google Twitter.
 
-நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குறித்து பொதுமக்கள் பாதுகாப்புஅமைச்சர் நாடாளுமன்றத்தில் தெரிவித்த கருத்துக்களை நிராகரிக்கவும் பதிலளிக்கவும் விரும்புகின்றோம் என ஆசிய இணைய கூட்டமைப்பின் முகாமைத்துவ பணிப்பாளர் ஜெவ்பெய்ன் தெரிவித்துள்ளார்.
+"We would like to reject and respond to the comments made by the Minister of Public Security on the Ceylon Protection Bill," said Jevbain, Managing Director of the Asian Internet Federation.
 
 ...
 
 [Data](articles/37496c9e.json)
+
+[Extended Data](ext_articles/37496c9e.ext.json)
 
 ---
 
@@ -152,21 +178,25 @@ AIC, an industry association, comprising leading internet and technology compani
 
 ---
 
-### විරෝධතාකරුවන් පිරිසකට අධිකරණ නියෝගයක්
+### Court orders a group of protesters
 
 *2024-01-24 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192490) · `si`
 
-සමාජවාදී තරුණ සංගමයේ ජාතික සංවිධායක එරංග ගුණසේකර සහ විරෝධතාකරුවන් පිරිසක් අද (24) සංවිධානය කර තිබෙන විරෝධතාවයකට අදාළව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය නියෝගයක් නිකුත් කර තිබේ.
+The Colombo Chief Magistrate's Court has issued an order to the National Organizer of the Socialist Youth Union (Socialist Youth Union) anti-government protest with a protest held today (24).
 
-පොල්දූව වටරවුමේ සිට පාර්ලිමේන්තු මාර්ගය අවහිර කරමින් පාර්ලිමේන්තු ප්‍රධාන දොරටුව අවහිර කරමින් සහ පාර්ලිමේන්තුවට පිවිසිය නොහැකි ලෙස ප්‍රධාන මාර්ගය අවහිර කරමින් විරෝධතාවය පැවැත්වීමට නියමිත බවට වැලිකඩ පොලීසියට ලද තොරතුරක් මත ස්ථානාධිපතිවරයා විසින් කළ ඉල්ලීමක් අනුව අධිකරණය එම නියෝගය ලබාදී තිබේ.
+The court has issued the court on a request received by the OIC that the parliamentary gate is to block the parliamentary gate and blocking the parliamentary path to the Welikada Police.
 
-ඒ අනුව මාර්ගය භාවිත කරන මහජනතාවට හා පදිකයින්ට අවහිර වන සේ කිසිදු මාර්ගයක් හරස් කර හෝ ප්‍රචණ්ඩක්‍රියා නොකිරීමටත්, මහජන නියොජිතයින්ගේ පාර්ලිමේන්තු වරප්‍රසාදයන් උල්ලංඝනය වන අයුරින් හා රාජකාරියේ යෙදී සිටින රාජ්‍ය නිලධාරීන්ගේ රාජකාරි සඳහා බාධාවක් සිදුවන අයුරින් හෝ කිසිදු පුද්ගලයෙකුට අවහිරයක් නොවන අයුරින් අදාළ උද්ඝෝෂණය සිදුකිරීමට වගබලාගත යුතු බව අධිකරණය දැනුම්දී තිබේ.
+Accordingly, no roads should be taken to prevent any roads to prevent the parliamentary privileges and duties in the public officials of public officials, violently, to prevent the parliamentary privileges of the parliamentary privileges and duties.Have been informed.
 
-එසේ වගකීම භාරගැනීමට නොහැකි නම් අදාළ උද්ඝෝෂණය වගඋත්තරකරුවන් විසින් නොපමාව විසුරුවා හැරිය යුතු බව ද අධිකරණය නියෝග කර ඇත.
+If not obligation, the court ordered that the residents should be dissolved by the respondents.
 
-...
+If the command is violating the Sri Lankan police should take immediate action to strengthen peace.
+
+◼️
 
 [Data](articles/d0882c7c.json)
+
+[Extended Data](ext_articles/d0882c7c.ext.json)
 
 ---
 
@@ -267,6 +297,8 @@ Samagi Jana Balawegaya (SJB) Organizer for Passara Letchumanar Sanjay asks why M
 ...
 
 [Data](articles/9b24a88c.json)
+
+[Extended Data](ext_articles/9b24a88c.ext.json)
 
 ---
 
@@ -473,6 +505,22 @@ and businesses will see more value as a result and that will drive the transform
 [Data](articles/4390830e.json)
 
 [Extended Data](ext_articles/4390830e.ext.json)
+
+---
+
+### பெப்ரவரி 23, 24 இல் கச்சதீவு அந்தோனியார் திருவிழா
+
+*2024-01-24 03:29:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-23-24-இல்-கச்சதீவு-அந்தோனியார்-திருவிழா/175-332042) · `ta`
+
+கச்சதீவு புனித அந்தோனியார் ஆலய வருடாந்த திருவிழா எதிர்வரும் பெப்ரவரி மாதம் 23, 24 ஆம் திகதிகளில் நடைபெறவுள்ளது.
+
+வருடாந்த திருவிழாவிற்கான முன்னேற்பாட்டுக் கூட்டம் யாழ்ப்பாணம் மாவட்ட அரசாங்க அதிபர் தலைமையில் மாவட்ட செயலகத்தில் நேற்று நடைபெற்றது.
+
+கூட்டத்தில் யாழ். இந்திய துணை தூதரக அதிகாரிகள், நெடுந்தீவு பிரதேச செயலாளர், நெடுந்தீவு பங்குத்தந்தை, யாழ். மறைமாவட்ட குரு முதல்வர், கடற்படையினர் உள்ளிட்ட பலரும் பங்கேற்றிருந்தனர்.
+
+◼️
+
+[Data](articles/c4807e4e.json)
 
 ---
 
@@ -890,19 +938,21 @@ Earlier in the day, four unidentified individuals in a car had opened fire on th
 
 ---
 
-### 7 கோடி ரூபா மின்கட்டணத்தை பாராளுமன்றம் செலுத்தவில்லை என்பது முற்றிலும் அடிப்படையற்றது - மின்சக்தி மற்றும் வலுசக்தி அமைச்சர்
+### It is completely baseless that Parliament does not pay Rs 7 crore.
 
 *2024-01-23 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174620) · `ta`
 
-ஏழு கோடி ரூபா மின்கட்டணத்தை பாராளுமன்றம் செலுத்தவில்லை என பாராளுமன்றத்தை அவமதிக்கும் வகையில் பொய்யான குற்றச்சாட்டை முன்வைத்துள்ள தொழிற்சங்க தலைவர்  ரஞ்சன் ஜயலாலை பாராளுமன்ற சிறப்புரிமை மற்றும் ஒழுக்கவியல் குழுவுக்கு அழைத்து உரிய சட்ட நடவடிக்கைகளை எடுங்கள் என மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் கஞ்சன விஜேசேகர சபாநாயகரிடம் வலியுறுத்தினார்.
+The Minister of Power and Power and Energy Kanjana Wijesekera urged the Speaker of the Department of Power and Energy to take appropriate legal action to take appropriate legal action to take appropriate legal action to the Parliamentary Privacy and Moral Committee.
 
-எழு கோடி ரூபா மின்கட்டணத்தை பாராளுமன்றம் செலுத்தவில்லை என சமூக வலைத்தளங்களிலும் பத்திரிகைகளிலும் பொய்யான செய்தி வெளியாகியுள்ளன. இந்த செய்தியை தொடர்ந்து நான் ஆராய்ந்து பார்த்தேன். ஒவ்வொரு மாதமும் பாராளுமன்றத்தின் மின்கட்டணம் செலுத்தப்படுகிறது.
+False news has been reported in social media and newspapers that Parliament has not paid the Rs.. This message was followed by the exploration. Parliament's electricity is paid every month.
 
-அதேபோல் ஜனாதிபதி செயலகத்தின் மின்கட்டணமும் முறையாக செலுத்தப்படுகிறது. எவ்வித நிலுவை கட்டணங்களும் இல்லை. ஆகவே பாராளுமன்றத்தை அவமதிக்கும் வகையில் உண்மைக்கு புறம்பான  விடயத்தை குறிப்பிட்டுள்ள தொழிற்சங்க தலைவர் ரஞ்சன் ஜயலாலை பாராளுமன்ற சிறப்புரிமைகள் மற்றும் ஒழுக்கவியல் குழுவுக்கு அழைத்து உரிய சட்ட நடவடிக்கை எடுங்கள் என்றார்.
+Similarly, the Presidential Secretariat is also properly paid. There are no outstanding charges. Therefore, the union leader Ranjan Jayalal, who referred to the unrealistic issue to insult the Parliament, said that the legal action should be taken to the Parliamentary Privacy and Moral Committee.
 
 ◼️
 
 [Data](articles/7c826950.json)
+
+[Extended Data](ext_articles/7c826950.ext.json)
 
 ---
 
@@ -1973,43 +2023,5 @@ Fortunately, the dog survived the attack with only minor injuries. The Maskeliya
 [Data](articles/9adddfd1.json)
 
 [Extended Data](ext_articles/9adddfd1.ext.json)
-
----
-
-### Damage to many state institutions, including floods, Dalada House and Governor's Office
-
-*2024-01-23 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/174633) · `ta`
-
-Governor Lalith U Kamage said that flooding from the Udawatta forest area of Kandy during heavy rains is at risk of damage to many state institutions, including the Sri Dalada Maligai and the Governor's Office.
-
-Other officials, including the Director General of the Forest Protection Department, have taken urgent action in this regard, and the governor has given them a directive.
-
-The Governor made this statement at the Kandy District Coordinating Committee meeting held at the Kandy District Secretariat last Thursday (18).
-
-The governor said that this is one of the reasons why the old drainage systems from the forest of Kandy in Kandy are not maintained.
-
-He urged the Forest Department to maintain the drainage systems constructed in the Udawatte forest and to engage in the Kandy Municipal Council and other relevant companies to maintain other water -flowing drainage systems.
-
-◼️
-
-[Data](articles/64cc166b.json)
-
-[Extended Data](ext_articles/64cc166b.ext.json)
-
----
-
-### Fierce clashes continue - 24 Israeli soldiers killed in one day
-
-*2024-01-23 16:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174629) · `ta`
-
-The casualties have been caused by Palestinian militants targeting Israeli tanks standing near the two buildings.
-
-Israeli officials said that there was a massive explosion in the building when the RPG exploded.
-
-◼️
-
-[Data](articles/8969fda8.json)
-
-[Extended Data](ext_articles/8969fda8.ext.json)
 
 ---

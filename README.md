@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 14:03:35**
+As of **2024-01-24 14:17:20**
 
 ## Newspaper Stats
 
@@ -41,6 +41,14 @@ A suspect has been arrested over his complicity in the killing of five persons i
 The arrest was made in Matara today, according to the police.
 
 The arrestee was reportedly the driver of the vehicle used by the assailants and is also suspected to have orchestrated the mass shooting which took place on Tuesday (Jan.23).
+
+Earlier today, the vehicle used by the assailants was found parked near the Vidyaloka Pirivena in Galle.
+
+On 23 January, a group of persons who had arrived in a double-cab had opened fire at a Defender near the Beliatta Interchange of the Southern Expressway.
+
+In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he had succumbed to injuries shortly after.
+
+Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of People Party or OPPP) Saman Perera.
 
 ◼️
 

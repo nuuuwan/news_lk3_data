@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 19:32:53**
+As of **2024-01-24 19:50:53**
 
 ## Newspaper Stats
 
-*Scraped **2,391** Articles*
+*Scraped **2,397** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,59 @@ adaderanasinhalalk | 178
 dailyftlk | 181
 adalk | 236
 virakesarilk | 271
-adaderanalk | 298
 tamilmirrorlk | 299
+adaderanalk | 304
 dailymirrorlk | 315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,387 (99.8%) of 2,391 articles have been extended.
+2,397 (100.0%) of 2,397 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### சாந்தனின் உயிருக்கு அபத்து
+### Online Safety Bill passed in Parliament
 
-*2024-01-24 18:48:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-உயிருக்கு-அபத்து/175-332066) · `ta`
+*2024-01-24 18:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96706/online-safety-bill-passed-in-parliament) · `en`
 
-இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ்காந்தி கொலை வழக்கில் விடுதலையாகி தற்போது திருச்சி சிறைமுகாமில் தடுத்துவைக்கப்பட்டிருக்கும் சாந்தனின் உடல்நிலை பாதிக்கப்பட்டுள்ளதாக சிறைக்கைதிகள் உரிமை மையம் என்ற அமைப்பு தெரிவித்துள்ளது.
+Sri Lanka’s Online Safety Bill, which seeks to regulate online content, was passed in Parliament with amendments on Wednesday (24), amidst objectios from opposition politicians and activists who allege the new law will muzzle free speech.
 
-திருச்சி சிறப்பு முகாமில் சாந்தனிற்கு உரிய சிகிச்சை அளிக்கப்படவில்லை இதனால் அவரின் உயிருக்கு ஆபத்து ஏற்பட்டுள்ளது இதனால் சென்னை பல்நோக்கு சிறப்பு மருத்துவமனையில் அவருக்கு சிகிச்சை வழங்கவேண்டும் என சிறைக்கைதிகள் உரிமை மையம்  தமிழக முதல்வருக்கு கடிதம் எழுதியுள்ளது.
+Accordingly, the Speaker of Parliament Mahinda Yapa Abeywardena informed the House that the Online Safety Bill was passed in the Committee Stage with amendments.
 
-ராஜீவ்காந்தி கொலை வழக்கில் தண்டனை பெற்று தற்போது விடுதலையான சாந்தன் இலங்கைக்கு திரும்புவதற்காக விசா போன்றவற்றை பெற்றுக்கொள்வதற்காக காத்திருக்கின்றார், திருச்சி முகாமில் அடைக்கப்பட்டுள்ள சாந்தனிற்கு சிறுநீரக பாதிப்பு எற்பட்டுள்ளதால் அவருக்கு உரிய சிகிச்சை வழங்குவதற்கான நடவடிக்கைகள் திருச்சி சிறப்பு முகாமில் எடுக்கப்படாததால் அவரின் உயிரை காப்பாற்றுவதற்காக  தமிழக முதல்வர் உரிய நடவடிக்களை எடுக்கவேண்டும் என சிறைக்கைதிகள் உரிமைகள் மையம் தனது கடிதத்தில் தெரிவித்துள்ளது.
+The Online Safety Bill proposes jail terms for content that a five-member commission considers illegal and makes social media platforms such as Google, Facebook and X, formerly known as Twitter, liable for those posted on their platforms.
+
+The government says the Bill is aimed at battling cybercrimes including child abuse, data theft and online fraud.
+
+The Second Reading of the Online Safety Bill was also passed in Parliament this evening (Jan. 24) with a majority of 46 votes. A total of 108 MPs had voted in favour, while 62 had voted against the Bill.
 
 ...
 
+[Data](articles/3ceacf4d.json)
+
+[Extended Data](ext_articles/3ceacf4d.ext.json)
+
+---
+
+### Shantan's life is absent
+
+*2024-01-24 18:48:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-உயிருக்கு-அபத்து/175-332066) · `ta`
+
+The Prisoners Rights Center (CHC) has said that Shantan's health has been affected by the Rajiv Gandhi murder case in the Rajiv Gandhi murder of India.
+
+The Prison Rights Center has written to the Chief Minister of Tamil Nadu that he should be treated at the Chennai Multipurpose Specialty Hospital.
+
+Shantan, who is currently released in the Rajiv Gandhi murder case, is waiting for a visa to return to Sri Lanka.
+
+The prison center has requested that he be saved because he is fighting for life, but he has not been given proper treatment for two months.. Remble
+
+◼️
+
 [Data](articles/0b3d4ead.json)
+
+[Extended Data](ext_articles/0b3d4ead.ext.json)
 
 ---
 
@@ -57,6 +83,8 @@ Parliament, Jan. 24 (Daily Mirror)- The Online Safety Bill was passed with amend
 ◼️
 
 [Data](articles/c76e4c15.json)
+
+[Extended Data](ext_articles/c76e4c15.ext.json)
 
 ---
 
@@ -108,19 +136,23 @@ An alms giving ceremony was held today at the Buddhist Ladies College, Colombo p
 
 ---
 
-### 54 பேர் பங்கேற்கவில்லை: அரசுக்கு நான்கு பேர் ஆதரவு
+### 54 people do not participate: Four support for the government
 
 *2024-01-24 17:58:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/54-பேர்-பங்கேற்கவில்லை-அரசுக்கு-நான்கு-பேர்-ஆதரவு/175-332065) · `ta`
 
-நிகழ்நிலை காப்புச் சட்டமூலம் 46 மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டது. இந்த சட்டமூலத்துக்கு ஆதரவாக 108 வாக்குகளும் எதிராக 62 வாக்குகளும்  அளிக்கப்பட நிலையில் 54 பேர் வாக்களிப்பில் பங்கேற்கவில்லை.
+The Ceremony Building Bill was passed by 46 additional votes. With 108 votes cast and 62 votes against the bill, 54 did not participate in the vote.
 
-எதிர்க்கட்சிகளின், பொதுமக்கள் மற்றும் பொது அமைப்புக்களின்  கடும் எதிர்ப்புகளுக்கு மத்தியில் பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலசினால் செவ்வாய்க்கிழமை (23) சபையில் சமர்ப்பிக்கப்பட்ட நிகழ்நிலை காப்புச் சட்டமூலம் மீதான விவாதம் செவ்வாய் மற்றும் புதன் ஆகிய இரு நாட்களாக இடம்பெற்ற நிலையில்  புதன்கிழமை (24) விவாத முடிவில் எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல எம்.பி. சட்ட மூலத்தை நிறைவேற்ற வாக்கெடுப்பைக் கோரினார்.
+Amidst the strong opposition of the opposition parties, civilians and public organizations, the debate on Tuesday (24) was held on Tuesday and Wednesday as the debate on Tuesday (23) by Public Security Minister Tran Alas by the Minister of Public Security. He sought a referendum to pass the legal source.
 
-இதனையடுத்து இடம்பெற்ற வாக்கெடுப்பிலேயே நிகழ்நிலை காப்புச்  சட்டமூலத்துக்கு ஆதரவாக 108 வாக்குகளும் எதிராக 62 வாக்குகளும் அளிக்கப்பட்ட நிலையில் 46 மேலதிக வாக்குகளினால் சட்டமூலம் நிறைவேற்றப்பட்டது.
+In the referendum, the bill was passed by 46 additional votes, with 108 votes and 62 votes in favor of the Backup Bill.
 
-...
+Sri Lanka Freedom Party (SLFP) MP Duminda Dissanayake, an independent opposition MP. Nimal Lansa, Alizabri Rahim, John Seneviratne. State MP Roshan Ranasinghe voted against. Vadivel Suresh, United People's Shakti MP, voted in favor of. All the opposition parties voted against it.
+
+◼️
 
 [Data](articles/6503965b.json)
+
+[Extended Data](ext_articles/6503965b.ext.json)
 
 ---
 
@@ -214,6 +246,24 @@ Parliament, Jan. 24 (Daily Mirror)- The second reading of the Online Safety Bill
 
 ---
 
+### Sri Lanka’s IT and BPM industry stakeholders raise concerns over Online Safety Bill
+
+*2024-01-24 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96705/sri-lankas-it-and-bpm-industry-stakeholders-raise-concerns-over-online-safety-bill) · `en`
+
+The Sri Lanka Association of Software and Service Companies (SLASSCOM), Federation of Information Technology Industry Sri Lanka (FITIS), the Computer Society of Sri Lanka (CSSL) and the British Computer Society (BCS) have raised concerns pertaining to the proposed Online Safety Bill.
+
+In a joint statement issued on Wednesday (24 Jan.), the collective of Information Technology (IT) and Business Process Management (BPM) industry stakeholders raised four key concerns regarding the controversial Bill.
+
+They claimed that certain provisions holding online platforms and social media networks liable were ‘impractical’, and risked an economic setback or Sri Lanka. Further, the IT and BPM industry stakeholders stated that the proposed Bill may impose a significant financial burden on the industry.
+
+...
+
+[Data](articles/2771bc70.json)
+
+[Extended Data](ext_articles/2771bc70.ext.json)
+
+---
+
 ### Online Bill Seventh Reading is passed by more
 
 *2024-01-24 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192522) · `si`
@@ -229,6 +279,26 @@ Accordingly, the Speaker informed the Parliament that the second reading of the 
 [Data](articles/6fbb582a.json)
 
 [Extended Data](ext_articles/6fbb582a.ext.json)
+
+---
+
+### Second Reading of Online Safety Bill passed in Parliament
+
+*2024-01-24 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96703/second-reading-of-online-safety-bill-passed-in-parliament) · `en`
+
+The Second Reading of the Online Safety Bill was passed in Parliament today (Jan. 24) with a majority of 46 votes.
+
+A total of 108 MPs had voted in favour, while 62 had voted against the Bill.
+
+The Sectoral Oversight Committee on Media, Youth, Heritage and New Citizen recently approved the Online Safety Bill, subject to the amendments determined by the Supreme Court.
+
+The bill was approved when the Sectoral Oversight Committee met in Parliament on Monday (22) under the chairmanship of the MP Lalith Warankumara. Thus, the bill, which was tabled in Parliament by Minister of Public Security Tiran Alles was taken for the second reading debate on Tuesday (23) and Wednesday (24).
+
+...
+
+[Data](articles/c9683b03.json)
+
+[Extended Data](ext_articles/c9683b03.ext.json)
 
 ---
 
@@ -287,6 +357,64 @@ Russian plane crashes with 65 Ukrainian prisoners of war on board
 [Data](articles/ca7de7c8.json)
 
 [Extended Data](ext_articles/ca7de7c8.ext.json)
+
+---
+
+### Court orders not to move “Ganemulla Sanjeewa” from detention
+
+*2024-01-24 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96702/court-orders-not-to-move-ganemulla-sanjeewa-from-detention) · `en`
+
+The Appeals Court today (Jan.24) delivered an order stating that the notorious underworld figure “Ganemulla Sanjeewa” should not be moved from Weeragula police premises until February 27, where he remains in custody under detention orders.
+
+This order was delivered after taking into account a writ petition filed by the mother of “Ganemulla Sanjeewa”.
+
+Thereby, further hearing of the petition was fixed for February 27.
+
+“Ganemulla Sanjeewa” was arrested at the Bandaranaike International Airport (BIA) in Katunayake upon his return from Nepal on September 13, 2023.
+
+He had a forged passport in his possession at the time of the arrest, with personal details of a female believed to be a resident of the Dematagoda area.
+
+‘Ganemulla Sanjeewa’, who is believed to have illegally entered India by boat, had reportedly later fled from to Nepal, and subsequently returned to Sri Lanka upon the issuance of an international ‘Red Warrant’ for his arrest.
+
+◼️
+
+[Data](articles/877d9195.json)
+
+[Extended Data](ext_articles/877d9195.ext.json)
+
+---
+
+### UNDP signs MoU to promote Sri Lanka’s innovation and ‘responsible business practices’
+
+*2024-01-24 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96701/undp-signs-mou-to-promote-sri-lankas-innovation-and-responsible-business-practices) · `en`
+
+The United Nations Development Programme in Sri Lanka (UNDP) and the UN Global Compact Network Sri Lanka (Network Sri Lanka) has recently renewed their commitment through the signing of the third Memorandum of Understanding (MoU), in a move towards advancing sustainable development.
+
+The agreement aims to join efforts in facilitating private-sector participation and promoting sustainable development in Sri Lanka, the UNDP said in a statement.
+
+As the first non-private sector entity to secure a position on the Network Sri Lanka  Board, UNDP has nurtured a robust partnership through years of collaboration with  Network Sri Lanka. This aligns with UNDP’s commitment to enhancing development activities to foster public dialogue, improve awareness among the business community on the Sustainable Development Goals (SDGs) and enable their engagement to accelerate progress on the 2030 Agenda for Sustainable Development, it added.
+
+...
+
+[Data](articles/b20a3d53.json)
+
+[Extended Data](ext_articles/b20a3d53.ext.json)
+
+---
+
+### Court order issued barring planned protest march on High-Level road
+
+*2024-01-24 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96700/court-order-issued-barring-planned-protest-march-on-high-level-road) · `en`
+
+A court has been issued barring a protest march on the High-Level Road from Delkanda Junction to Nugegoda and Kirulapone to Nunegoda planned to be staged by a group of trade unionists this evening (Jan.24).
+
+Earlier today, the police had sought an order from the Nugegoda Magistrate’s Court, stating that there are 4 G.C.E. Advanced Level examination centres in the area where the demonstration is planned to be staged.
+
+...
+
+[Data](articles/e429ef86.json)
+
+[Extended Data](ext_articles/e429ef86.ext.json)
 
 ---
 
@@ -432,21 +560,23 @@ At the same time, the highlight of the position as the Army Commander. Moreover,
 
 ---
 
-### சுகாதாரத்துறையின் எதிர்கால மேம்பாட்டுக்கு ஐ.நா. அபிவிருத்தித் திட்டத்திடமிருந்து தொழிநுட்ப உதவிகள்
+### UN for future development of health sector. Technical assistance from the development plan
 
 *2024-01-24 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/174697) · `ta`
 
-இலங்கையில் சிகிச்சை முறைமைகள், டெங்கு ஒழிப்பு உள்ளிட்ட சுகாதார சேவைகளுக்குத் தேவையான நவீன மருத்துவ உபகரணங்களை வழங்குமாறு சுகாதார அமைச்சர் ரமேஷ் பத்திரண, ஐக்கிய நாடுகள் அபிவிருத்தி வேலைத்திட்டதிடம் கோரியுள்ளார்.
+Health Minister Ramesh Pathirana has requested the United Nations Development Program to provide modern medical equipment for health services including treatment systems and dengue eradication.
 
-சுகாதாரம் மற்றும் கைத்தொழில் அமைச்சர் ரமேஷ் பத்திரண மற்றும் ஐக்கிய நாடுகள் அபிவிருத்தி வேலைத்திட்டத்தின் இலங்கைக்கான வதிவிடப்பிரதிநிதி அசுசா குபோடா ஆகியோருக்கிடையில் நேற்று புதன்கிழமை இடம்பெற்ற சந்திப்பின் போதே இவ்விடயம் தொடர்பில் அவதானம் செலுத்தப்பட்டுள்ளது.
+Health and Industry Minister Ramesh Pathirana and the United Nations Resident Fund for Sri Lanka Azusa Kuboda at the United Nations Development Program, Asusa Kuboda on Wednesday, were addressing the matter.
 
-இலங்கையின் சுகாதாரத்துறையின் எதிர்கால மேம்பாட்டுக்காக நவீன தொழிநுட்பத்தைப் பயன்படுத்துவது தொடர்பில் இதன் போது நீண்ட கலந்துரையாடல் இடம்பெற்றுள்ளது.
+A long discussion has taken place on the use of modern technology for the future of the health sector of Sri Lanka.
 
-இலங்கையில் டெங்கு நுளம்புகள் பரவும் வீதம் சற்று அதிகரித்துள்ளதால்,  அவற்றைக் கட்டுப்படுத்துவதற்கும், நுளம்புகள் பெருகும் இடங்களைக் கண்டறிவதற்கும், அவற்றை அழிப்பதற்கு தேவையான உபகரணங்களைப் பயன்படுத்துவதற்கும் நவீன தொழில்நுட்பத்தைப் பயன்படுத்துவது அவசியமாகும். அதற்கமைய இதற்கான நவீன தொழிநுட்ப கருவிகளை வழங்குமாறு சுகாதார அமைச்சர்,  அசுசா குபோடாவிடம் கோரிக்கை விடுத்துள்ளார்.
+Since dengue mosquitoes have increased slightly in Sri Lanka, it is necessary to use modern technology to control them, to detect mosquitoes, and to use the equipment needed to destroy them.. The Minister of Health has requested Asusa Kuboda to provide modern technology equipment.
 
 ...
 
 [Data](articles/0d8a9eda.json)
+
+[Extended Data](ext_articles/0d8a9eda.ext.json)
 
 ---
 
@@ -1875,133 +2005,5 @@ According to police, the saffron-robbed monk had allegedly issued statements dem
 [Data](articles/f2eb57b1.json)
 
 [Extended Data](ext_articles/f2eb57b1.ext.json)
-
----
-
-### Cash rewards for information on illegal firearms
-
-*2024-01-24 12:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/cash-rewards-for-information-on-illegal-firearms/) · `en`
-
-COLOMBO (News 1st) – The police have decided to give cash rewards to people who provide information about illegal firearms and bombs.
-
-The police say that the Acting Inspector General of Police Deshabandu Tennakoon has issued instructions to all senior DIGs, DIGs, Divisional Officers, and Directors in this regard.
-
-Police say that they will protect the confidentiality of the people who provide such information
-
-A reward of 250,000 rupees will be given to those who provide information about automatic firearms including T-56, AK-47, and semi-automatic weapons including pistols.
-
-The reward given to a person who gives information about revolver-type firearms is 150,000 rupees.
-
-Police say that they have decided to give a reward of 50,000 rupees to anyone who gives information about a repeater-type firearm and a reward of 15,000 rupees for a foreign-made ammunition gun.
-
-...
-
-[Data](articles/5e17e44b.json)
-
-[Extended Data](ext_articles/5e17e44b.ext.json)
-
----
-
-### More than 300 kg of cannabis burned by the Vavuniya High Court
-
-*2024-01-24 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/174675) · `ta`
-
-More than 300 kg of cannabis was burned on Wednesday (24) under the supervision of the Vavuniya High Court Judge Manikavasakar Ilancheliyan.
-
-Last year (2023), the Vavuniya High Court was handed over to the Vavuniya High Court under the supervision of the Vavuniya High Court Judge Ilangazhayan Ilangazhiyan area in the Vavuniya A9 road in the Vavuniya A9 road.
-
-Considering the health conditions, people's move and the burning of cannabis in the area where there is no health procedures.
-
-◼️
-
-[Data](articles/44abdc2d.json)
-
-[Extended Data](ext_articles/44abdc2d.ext.json)
-
----
-
-### Operation Yukthiya nets another 930 suspects in 24 hours
-
-*2024-01-24 12:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/operation-yukthiya-nets-another-930-suspects-in-24-hours/) · `en`
-
-COLOMBO (News 1st) – 930 suspects have been apprehended in the past 24 hours under Operation Yukthiya.
-
-The Ministry of Public Security says that among them are 664 suspects involved in drug offenses.
-
-266 suspects on the list of wanted persons prepared by the Police Narcotics Bureau and Special Bureau have also been apprehended.
-
-Police say 425 grams of heroin, and 6 Kilograms of cannabis alongside a stock of other drugs were seized during the operation.
-
-Russian plane crashes with 65 Ukrainian prisoners of war on board
-
-◼️
-
-[Data](articles/441e3d30.json)
-
-[Extended Data](ext_articles/441e3d30.ext.json)
-
----
-
-### Universal Buddha further remanded
-
-*2024-01-24 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192506) · `si`
-
-The Colombo Additional Magistrate has ordered the monk who appeared in the name "Universal Buddha" to be remanded until the 29th.
-
-He was produced by the Additional Magistrate Prasanna Amarasene today (24).
-
-The Colombo Addressor also said that the suspect was ordered to be produced before the Colombo Chief Magistrate's Court on the 29th, Ada Derana reporter said.
-
-The monk was produced before the Gangodawila Magistrate's Court last week.
-
-The suspected monastery was presented to the Colombo Chief Magistrate's Court today to be remanded until the 26th and Gangodawila Magistrate's Court.
-
-◼️
-
-[Data](articles/5f1d03cd.json)
-
-[Extended Data](ext_articles/5f1d03cd.ext.json)
-
----
-
-### One killed, 08 injured after bus-van collision in Kilinochchi
-
-*2024-01-24 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96687/one-killed-08-injured-after-bus-van-collision-in-kilinochchi) · `en`
-
-A person has died while 08 others sustained injuries following a bus-van collision that took place in the Elephant Pass area of Kilinochchi, early this morning (Jan 24).
-
-Police stated that the accident took place after a passenger bus attached to Sri Lanka Transport Board (SLTB) travelling from Jaffna to Kandy collided with a van returning to Jaffna from Bandaranaike International Airport (BIA) in Katunayake.
-
-The SLTB passenger bus has first hit a herd of cattle on the road before colliding with the oncoming van.
-
-A woman who was travelling in the van in question has died in the accident, while 08 other individuals who sustained injuries during the accident have been rushed to Kilinochchi Hospital. However, the condition of five of them is critical, as per hospital sources.
-
-Meanwhile, 08 cattle have also been killed in the accident, Ada Derana reporter said.
-
-◼️
-
-[Data](articles/fdfe580f.json)
-
-[Extended Data](ext_articles/fdfe580f.ext.json)
-
----
-
-### Court order preventing SYU protest in Colombo
-
-*2024-01-24 12:09:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/court-order-preventing-syu-protest-in-colombo/) · `en`
-
-COLOMBO (News 1st) – The Colombo Chief Magistrate's Court has issued an order to Eranga Gunasekara, National Organiser of the Socialist Youth Association, prohibiting them from entering Parliament Road from the Polduwa Roundabout and engaging in protest activity that could oppress the people.
-
-The order was issued after considering a statement from the Welikada Police Station Commander.
-
-The court order instructs Gunasekara and the group to refrain from blocking any roads, engaging in any violent acts that could cause public disorder, or conducting their protest in a manner that violates the parliamentary privileges of public representatives or obstructs the duties of public officials.
-
-Russian plane crashes with 65 Ukrainian prisoners of war on board
-
-◼️
-
-[Data](articles/d726523f.json)
-
-[Extended Data](ext_articles/d726523f.ext.json)
 
 ---

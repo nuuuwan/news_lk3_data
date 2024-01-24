@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 10:17:18**
+As of **2024-01-24 10:33:03**
 
 ## Newspaper Stats
 
@@ -26,29 +26,31 @@ dailymirrorlk | 290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,227 (99.6%) of 2,237 articles have been extended.
+2,237 (100.0%) of 2,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### ஆர்ப்பாட்டத்திற்கு நீதிமன்றம் தடையுத்தரவு
+### Court restriction for demonstration
 
 *2024-01-24 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174657) · `ta`
 
-பொல்துவ சுற்றுவட்டத்திலிருந்து பாராளுமன்ற வீதி வரை இன்று புதன்கிழமை (24) நடத்தப்படவிருந்த ஆர்ப்பாட்டத்தை தடுக்கும் வகையில் நீதிமன்ற உத்தரவு பிறப்பித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said that a court order was issued to prevent the demonstration to be held on Wednesday (24) from the Polthuwa to the Parliament.
 
-பொதுமக்களுக்கு இடையூறு ஏற்படுத்தும் வகையிலும் போக்குவரத்திற்கு ஏற்பாடும் நெருக்கடிகளை தவிர்க்கும் வகையிலும் வெலிக்கடை பொலிஸார் தாக்கல் செய்ய மனுவுக்கு அமைய இந்த உத்தரவு கொழும்பு பிரதான நீதவான் நீதிமன்றத்தால் வழங்கப்பட்டுள்ளது.
+The order has been issued by the Colombo Chief Magistrate's Court in order to disrupt the public and to avoid traffic crises.
 
-இதன்படி, போராட்டக்காரர்கள் எந்தவொரு வீதியையும் மறித்து வீதியை பயன்படுத்துவோருக்கு இடையூறுகளை ஏற்படுத்தவோ அல்லது வன்முறையில் ஈடுபடவோ கூடாது எனவும், பாராளுமன்ற விதிமுறைகளை மீறாத வகையில் ஆர்ப்பாட்டத்தை முன்னெடுக்க வேண்டும் எனவும் நீதிமன்ற உத்தரவில் குறிப்பிடப்பட்டுள்ளது.
+Accordingly, the court order stated that the protesters should not cross the streets and cause to prevent the road to prevent or engage in violence and carry out a demonstration in violation of parliamentary rules.
 
-மக்கள் பிரதிநிதிகளின் சிறப்புரிமைகள் மற்றும் கடமையில் இருக்கும் அரச அதிகாரிகளின் கடமைகளுக்கு இடையூறுகளை ஏற்படுத்தல் கூடாதென்றும் குறிப்பிடப்பட்டுள்ளது.
+It has also been noted that the privileges of the people's representatives and the duties of the state officials are not disrupted.
 
-இந்த உத்தரவை மீறினால், அமைதியை நிலைநாட்ட பொலிஸார் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என்றும் நீதிமன்றம் அறிவித்துள்ளது.
+The court also announced that if the order violates, the police should take immediate action to establish peace.
 
 ◼️
 
 [Data](articles/47ad035b.json)
+
+[Extended Data](ext_articles/47ad035b.ext.json)
 
 ---
 
@@ -63,6 +65,8 @@ The arrestee was identified as an external rugby coach of a school, according to
 ◼️
 
 [Data](articles/56cfc8ed.json)
+
+[Extended Data](ext_articles/56cfc8ed.ext.json)
 
 ---
 
@@ -90,19 +94,23 @@ Police said that the confidentiality of informants will be protected.
 
 [Data](articles/dcb31abb.json)
 
+[Extended Data](ext_articles/dcb31abb.ext.json)
+
 ---
 
-### றக்பி பயிற்சியாளர் போதை மாத்திரைகளுடன் கண்டியில் கைது
+### Rugby coach arrests in Kandy with drug pills
 
 *2024-01-24 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174656) · `ta`
 
-இளம் றக்பி பயிற்சியாளர் ஒருவர் கண்டி, அம்பத்தென்ன பகுதியில் வைத்து கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+A young rugby coach has been arrested in Kandy, Kandy, police said.
 
-குறித்த நபரின் உடைமையிலிருந்து 4,100 போதை மாத்திரைகளும் 2 கிராம் ஹெரோயின் போதைப்பொருளும் கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+4,100 pills and 2 grams of heroin have been seized from the person's possession, police said.
 
 ◼️
 
 [Data](articles/8ac39ac8.json)
+
+[Extended Data](ext_articles/8ac39ac8.ext.json)
 
 ---
 
@@ -153,6 +161,8 @@ Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of 
 ◼️
 
 [Data](articles/7cf80043.json)
+
+[Extended Data](ext_articles/7cf80043.ext.json)
 
 ---
 
@@ -280,6 +290,8 @@ The sea areas off the coasts extending from Colombo to Mannar via Puttalam and f
 
 [Data](articles/24a6bc34.json)
 
+[Extended Data](ext_articles/24a6bc34.ext.json)
+
 ---
 
 ### Sri Lanka Navy says ready for Red Sea deployment
@@ -295,6 +307,8 @@ On January 3, during an event, President Ranil Wickremesinghe said that the gove
 ...
 
 [Data](articles/75b1e39b.json)
+
+[Extended Data](ext_articles/75b1e39b.ext.json)
 
 ---
 
@@ -344,6 +358,8 @@ The price of a kilo of fresh chicken at Handapangoda Farm in Godagama was Rs. 1,
 
 [Data](articles/ec7e17dd.json)
 
+[Extended Data](ext_articles/ec7e17dd.ext.json)
+
 ---
 
 ### Chinese research vessel: Sri Lanka Says No, Maldives Says Yes
@@ -359,6 +375,8 @@ However, the Maldives, under the current leader who is openly toeing a pro-Chine
 ...
 
 [Data](articles/7d628b75.json)
+
+[Extended Data](ext_articles/7d628b75.ext.json)
 
 ---
 
@@ -989,6 +1007,8 @@ On Thursday (January 18), a sub-inspector attached to the Narammala Police Stati
 ...
 
 [Data](articles/34511023.json)
+
+[Extended Data](ext_articles/34511023.ext.json)
 
 ---
 

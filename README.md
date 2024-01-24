@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 02:32:58**
+As of **2024-01-25 02:49:18**
 
 ## Newspaper Stats
 
-*Scraped **2,459** Articles*
+*Scraped **2,463** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 133
 newsfirstlk | 135
 economynextcom | 151
 adaderanasinhalalk | 188
-dailyftlk | 190
+dailyftlk | 194
 adalk | 241
 virakesarilk | 276
 tamilmirrorlk | 307
@@ -26,25 +26,101 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,457 (99.9%) of 2,459 articles have been extended.
+2,463 (100.0%) of 2,463 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### மக்களின் அபிலாஷைகளை கருதி   “வாபஸ் பெறவும்”
+### Considering the aspirations of the people, "Get Retain"
 
 *2024-01-25 01:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களின்-அபிலாஷைகளை-கருதி-வாபஸ்-பெறவும்/175-332085) · `ta`
 
-பாராளுமன்றத்தில் உள்ள 225 உறுப்பினர்களின் தனிப்பட்ட அபிலாஷைகளை விடுத்து, 220 இலட்சம் மக்களின் பொதுவான அபிலாஷைகளை கருத்திற் கொண்டு இந்த சட்டமூலத்தை உடனடியாக வாபஸ் பெறுங்கள் என்று ஐக்கிய மக்கள் சக்தியின் தலைவரும் எதிர்க்கட்சித் தலைவருமான சஜித் பிரேமதாஸ தெரிவித்தார்.
+United People's Power Leader and Opposition Leader Sajith Premadasa said that the bill should be immediately withdrawn with the individual aspirations of 225 members in Parliament and the general aspirations of 220 million people.
 
-நிகழ்நிலை காப்பு சட்டமூலம் தொடர்பான இரண்டாம் நாள் விவாதம் புதன்கிழமை (24) நடைபெற்றது அதில்  கலந்து கொண்டு உரையாற்றும் போதே   சஜித் பிரேமதாச மேற்கண்டவாறு தெரிவித்தார்.
+Sajith Premadasa said this while addressing the meeting on Wednesday (24).
 
-சட்டவாக்கத்துறையில் சட்டவாக்கம் மிக மேலான அறிவார்ந்த முறையில் நடக்க வேண்டும் என்றாலும் ,நிகழ்நிலை காப்பு தொடர்பான சட்டமூலத்தில் இவ்வாறு எதும் நடக்கவில்லை. தனிப்பட்ட ரீதியிலான தனிநபர்களின் பெயர்களுக்கு கலங்கம் விளைவித்தல்,தனிப்பட்ட தேவைகளை நிறைவேற்றிக் கொள்ளல் என்பவற்றிற்காக அமைச்சர்களால் இந்த சட்டமூலம் பயன்படுத்தப்பட்டுள்ளது. இதனூடாக 220 இலட்சம் மக்களின் அபிலாஷைகள்  நிறைவேற்றப்படாது என்றும் எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+Although the legislation in the legislative sector must take place in the most intelligent, the Bill on the Backup Bill has not happened.. The Bill has been used by ministers for disturbing the names of individual individuals and to meet personal needs.. The opposition leader said that the aspirations of 220 million people will not be fulfilled.
+
+Instead of creating laws on the basis of the common aspirations of 220 million people, the Parliamentary Supervisory Committee and the Parliamentary Supervisory Committee did not fulfill its duty in the bill if the law was enacted to reach the individual aspirations of 225 persons in Parliament.
 
 ...
 
 [Data](articles/b5801bfc.json)
+
+[Extended Data](ext_articles/b5801bfc.ext.json)
+
+---
+
+### Sri Lanka holds discussions with Bahrain FinTech
+
+*2024-01-25 01:19:03* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-holds-discussions-with-Bahrain-FinTech/34-757750) · `en`
+
+As part of the Embassy of Sri Lanka in Bahrain’s Economic Diplomacy program for the year 2024, a meeting was held on 8 January between Ambassador of Sri Lanka to the Kingdom of Bahrain H.M.G.R.R.K. Wijeratne Mendis and Bahrain FinTech Bay Chief Operating Officer Suzy Al Zeerah.
+
+The meeting served as a platform to identify the commonalities and synergies in the FinTech sectors of Sri Lanka and Bahrain while taking advantage of the rapid developments in ICT and the digital economies of the two countries.
+
+The parties focused on the untapped potential for collaboration and partnership in the Fintech sector seeking to move beyond the boundaries of traditional bilateral trade and investment in goods and services.
+
+...
+
+[Data](articles/17c01b49.json)
+
+[Extended Data](ext_articles/17c01b49.ext.json)
+
+---
+
+### Federation of Bangladesh Chamber of Commerce and Industry discusses economic cooperation with SL
+
+*2024-01-25 01:18:18* · [`dailyftlk`](https://www.ft.lk/business/Federation-of-Bangladesh-Chamber-of-Commerce-and-Industry-discusses-economic-cooperation-with-SL/34-757749) · `en`
+
+Sri Lanka’s High Commissioner in Bangladesh Dharmapala Weerakkody emphasised the need to expand economic cooperation between Sri Lanka and Bangladesh by leveraging the long-standing and close bilateral partnership between the two countries.
+
+The High Commissioner conveyed this message during a meeting with Federation of Bangladesh Chamber of Commerce and Industry (FBCCI) President Mahbubul Alam in Dhaka on 21 January.
+
+The High Commissioner highlighted that there is considerable potential to export Sri Lankan products, including spices, value-added tea, coconut-based items, healthcare products and construction materials to Bangladeshi markets. Moreover, he requested the assistance and cooperation from the FBCCI to attract Bangladeshi investors to invest in the promising investment opportunities available for them in Sri Lanka, particularly in the sectors of Information Technology, Pharmaceuticals, Logistics Services in Ports and Shipping and Tourism.
+
+...
+
+[Data](articles/2bd517ef.json)
+
+[Extended Data](ext_articles/2bd517ef.ext.json)
+
+---
+
+### Lankan envoy attends Expo – Engineering and Healthcare Show in Lahore
+
+*2024-01-25 01:17:30* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-attends-Expo-Engineering-and-Healthcare-Show-in-Lahore/34-757748) · `en`
+
+High Commissioner of Sri Lanka to Pakistan Admiral (Retd.) Ravindra C. Wijegunaratne attended the Expo – 3rd Edition of the Engineering and Healthcare Show on 20 January at the Expo Centre in Lahore.
+
+The exhibition was organised by the Trade Development Authority of Pakistan (TDAP) in collaboration with the Ministry of Commerce and Export Development Fund of Pakistan.
+
+Over 200 exhibitors from Pakistan showcased their products across 26 sectors of engineering and healthcare industries of Pakistan. More than 600 international delegates from 70 countries participated as buyers/visitors in the exhibition.
+
+...
+
+[Data](articles/ea56ef46.json)
+
+[Extended Data](ext_articles/ea56ef46.ext.json)
+
+---
+
+### Ruwanpura Facet shines in Gold at National Industrial Excellence Awards
+
+*2024-01-25 01:16:04* · [`dailyftlk`](https://www.ft.lk/business/Ruwanpura-Facet-shines-in-Gold-at-National-Industrial-Excellence-Awards/34-757747) · `en`
+
+Ruwanpura Facet Director K.W. Sanjeewa Priyantha Fonseka receiving the award
+
+Ruwanpura Facet Ltd., a leader in the gem cutting and polishing industry in Sri Lanka, has been awarded the Gold Award in the Gem Cutting and Polishing Category (Medium Scale) at the National Industry Excellence Awards 2023 organised by the Industrial Development Board (IDB).
+
+The award ceremony was recently held at the Nelum Pokuna Mahinda Rajapaksa Theatre in Colombo under the patronage of President Ranil Wickremesinghe and Industries Minister Dr. Ramesh Pathirana. Ruwanpura Facet Ltd. Director K.W. Sanjeewa Priyantha Fonseka received the award at the gala event. R.S.S. Sharik Hassaen, M.N. Mohamed Mushtaq and A.A. Mohamed Aroos are the other Directors of Ruwanpura Facet Ltd.
+
+...
+
+[Data](articles/f45637d0.json)
+
+[Extended Data](ext_articles/f45637d0.ext.json)
 
 ---
 
@@ -104,21 +180,25 @@ During the meeting, the High Commissioner and Speaker Lord McFall discussed a wi
 
 ---
 
-### ’ 20 க்கு நேர்ந்த கதியே ஏற்படும்’
+### The fate of the 20 -year -old
 
 *2024-01-25 00:28:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-க்கு-நேர்ந்த-கதியே-ஏற்படும்/175-332084) · `ta`
 
-சிங்கப்பூர் நாட்டை போன்று  ஊடக அடக்குமுறை கடுமையாக உள்ள நாடு ஆசியாவில் இல்லை. ஆகவே சிங்கப்பூர்  மாதிரியிலான  வகையில் நிகழ்நிலை காப்புச் சட்டமூலம் தயாரிக்கப்பட்டுள்ளதாக கூறுவதனை ஏற்றுக்கொள்ள முடியாது.   அரசியலமைப்பின் 20 ஆவது திருத்தச்சட்டத்துக்கு நேர்ந்த கதியே நிகழ்நிலை காப்புச் சட்டமூலத்துக்கும் நேரிடும்  என எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல எம்.பி. தெரிவித்தார்.
+Media repression like Singapore is not in Asia. Therefore, it is not acceptable to say that the Singapore model is prepared by the Foundation Bill.Lakshman Kiriella MP, the leader of the opposition parties, said that the fate of the 20th Amendment to the Constitution would occur to the Backup Bill.. Said.
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) இடம்பெற்ற உத்தேச நிகழ்நிலை காப்புச் சட்டமூலத்தின் இரண்டாம் வாசிப்பு மீதான 2 ஆம் நாள் விவாதத்தில் உரையாற்றும்போதே இவ்வாறு தெரிவித்த
+Speaking at the debate on the 2nd day of the second reading of the proposed backup Bill, which was held in Parliament on Wednesday (24).
 
-பாதுகாப்பு அமைச்சின் செயலாளர்,பாதுகாப்பு சட்ட அதிகாரி ஆகியோர் சிங்கப்பூருக்குச் சென்று ஆய்வுகளை மேற்கொண்டனர் அதற்கமைவாகவே நிகழ்நிலை காப்புச் சட்டமூலம் தயாரிக்கப்பட்டுள்ளது என பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ்  இங்கு   தெரிவித்தார்.
+The Secretary to the Ministry of Defense and the Defense Law Officer went to Singapore and conducted the inspection.
 
-சர்வதேச தரப்படுத்தலுக்கு அமைய ஊடக சுதந்திர சுண்டெண்ணில் சிங்கப்பூர் 145 ஆவது இடத்தில் உள்ளது, ஆனால் இலங்கை சிங்கப்பூரை விடவும்  ஊடக சுதந்திரத்தில் முன்னிலையில் உள்ளது என்றார்.
+Singapore is ranked 145th in the Media Freedom Chunden, which is under international standardization, but Sri Lanka is more than Singapore in media freedom.
 
-...
+The people challenged the government -submitted Back to the High Court in the High Court. The Supreme Court has presented several amendments to this bill by removing many features of Singapore. He said the court had protected the speech and freedom of the people as much as possible.
+
+◼️
 
 [Data](articles/0cc214d1.json)
+
+[Extended Data](ext_articles/0cc214d1.ext.json)
 
 ---
 
@@ -1913,89 +1993,5 @@ Kapruka sells and delivers a variety of products such as food, electronics and p
 [Data](articles/cd702425.json)
 
 [Extended Data](ext_articles/cd702425.ext.json)
-
----
-
-### Russian plane carrying 65 Ukrainian prisoners of war crashes
-
-*2024-01-24 15:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Russian-plane-carrying-65-Ukrainian-prisoners-of-war-crashes/108-275656) · `en`
-
-Belgorod, Jan 24 (BBC) -  A Russian Ilyushin-76 military transport plane has crashed in the southern Belgorod region bordering Ukraine.
-
-At least 65 people Ukrainian prisoners of war were killed, according to Russia's ministry of defence.
-
-Ria Novosti news agency said another nine people were on board, including six crew.
-
-Regional governor Vyacheslav Gladkov said he was aware of an "incident" but gave no further details.
-
-Video shared on social media showed a plane going down near the village of Yablonovo followed by an explosion, at around 11:00 local time (08:00 GMT).
-
-Russian presidential spokesman Dmitry Peskov said the Kremlin was aware of the crash but refused to go in to details.
-
-◼️
-
-[Data](articles/5e51ceb3.json)
-
-[Extended Data](ext_articles/5e51ceb3.ext.json)
-
----
-
-### Russian plane carrying 65 Ukrainian prisoners of war crashes
-
-*2024-01-24 15:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Russian-plane-carrying-65-Ukrainian-prisoners-of-war-crashes/107-275656) · `en`
-
-Belgorod, Jan 24 (BBC) -  A Russian Ilyushin-76 military transport plane has crashed in the southern Belgorod region bordering Ukraine.
-
-At least 65 people Ukrainian prisoners of war were killed, according to Russia's ministry of defence.
-
-Ria Novosti news agency said another nine people were on board, including six crew.
-
-Regional governor Vyacheslav Gladkov said he was aware of an "incident" but gave no further details.
-
-Video shared on social media showed a plane going down near the village of Yablonovo followed by an explosion, at around 11:00 local time (08:00 GMT).
-
-Russian presidential spokesman Dmitry Peskov said the Kremlin was aware of the crash but refused to go in to details.
-
-◼️
-
-[Data](articles/e4e85c85.json)
-
-[Extended Data](ext_articles/e4e85c85.ext.json)
-
----
-
-### TIN to be issued using NIC numbers: Siyambalapitiya
-
-*2024-01-24 15:49:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/TIN-to-be-issued-using-NIC-numbers-Siyambalapitiya/108-275657) · `en`
-
-Ruwanwella, Jan. 24 (Daily Mirror)-  The government is considering issuing the Taxpayer Identification Number (TIN) with the assistance of the Department for Registration of Persons, using the National Identity Card (NIC) numbers, State Minister of Finance Ranjith Siyambalapitiya said.
-
-The Minister said this decision was taken at a meeting to provide the public with the TIN very easily while the normal procedure to obtain the TIN is still in progress.
-
-He told reporters in Ruwanwella that the TIN will be issued using the database of the 15 million of the 18 year-olds in the country.
-
-The Minister said a complete database on state revenue could be created after the introduction of the digital identity card in the future.
-
-◼️
-
-[Data](articles/f67378ed.json)
-
-[Extended Data](ext_articles/f67378ed.ext.json)
-
----
-
-### Sri Lanka’s proposed Online Safety Bill threatens upcoming elections – Human Rights Watch
-
-*2024-01-24 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96696/sri-lankas-proposed-online-safety-bill-threatens-upcoming-elections-human-rights-watch) · `en`
-
-The Human Rights Watch (HRW) states that Sri Lanka’s proposed Online Safety Bill will create broad and vague new speech-related offences punishable by lengthy prison terms, while critically threatening the right to freedom of expression.
-
-“A repressive new internet law that Sri Lankan President Ranil Wickremesinghe is trying to rush through parliament this week would create broad and vague new speech-related offences punishable by lengthy prison terms. The law would seriously threaten the right to freedom of expression as Sri Lanka prepares for parliamentary and presidential elections later this year”, it said in a statement.
-
-...
-
-[Data](articles/d3627c4b.json)
-
-[Extended Data](ext_articles/d3627c4b.ext.json)
 
 ---

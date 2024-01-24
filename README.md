@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 10:50:58**
+As of **2024-01-24 11:02:48**
 
 ## Newspaper Stats
 
-*Scraped **2,237** Articles*
+*Scraped **2,244** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 33
-bbccomsinhala | 44
+bbccomsinhala | 45
 dbsjeyarajcom | 122
 newsfirstlk | 124
 economynextcom | 132
 islandlk | 133
-adaderanasinhalalk | 154
+adaderanasinhalalk | 157
 dailyftlk | 181
-adalk | 222
+adalk | 225
 virakesarilk | 244
 adaderanalk | 279
 tamilmirrorlk | 279
@@ -26,11 +26,85 @@ dailymirrorlk | 290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,237 (100.0%) of 2,237 articles have been extended.
+2,244 (100.0%) of 2,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Special notice of TIN number
+
+*2024-01-24 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192500) · `si`
+
+Minister of Finance Ranjith Siyambalapitiya says that steps are being taken to make the National Identity Card Number (TIN).
+
+The decision was taken with the Presidential Secretary yesterday (23) at a discussion with the Secretary to the President yesterday.
+
+The State Minister said that the project is being carried out using the biographical information system of the state of income.
+
+◼️
+
+[Data](articles/4de7c86b.json)
+
+[Extended Data](ext_articles/4de7c86b.ext.json)
+
+---
+
+### Fatal Bus - Van accident
+
+*2024-01-24 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192499) · `si`
+
+One person was killed and 8 others suffered injuries in an accident in the Elephachchi area in Kilinochchi this morning.
+
+Police said that a bus on the Test Board of Jaffna and the Katunayake airport and returned to the Katunayake airport and returned to Jaffna.
+
+The accident had occurred when the bull collided with a herd of cows on the bus.
+
+A woman was killed in the van and five of the injured were severely in Kilinochchi.
+
+According to our correspondent, 8 cattle were killed in the accident.
+
+◼️
+
+[Data](articles/814edda9.json)
+
+[Extended Data](ext_articles/814edda9.ext.json)
+
+---
+
+### ICC Naming the Test team
+
+*2024-01-24 09:52:39* · [`adalk`](https://www.ada.lk/sports/ICC--ටෙස්ට්-කණ්ඩායමට-දිමුත්-නම්-කරයි/9-407699) · `si`
+
+The International Cricket Council (ICC) has also included the name of Sri Lanka Test leader Dimuth Karunaratne.
+
+Dissanu, who has played six Tests in 2023, has scored 608 points. Over the average 60. Dimuth Karunaratne has been named as opener with Uzman Kavaraja in the 11 players team.. Australia leader Pat Kumins has been ranked leading the group.
+
+◼️
+
+[Data](articles/ea8dc6a0.json)
+
+[Extended Data](ext_articles/ea8dc6a0.ext.json)
+
+---
+
+### A rugby coach arrested with alcohol and heroin
+
+*2024-01-24 09:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192498) · `si`
+
+A young man who is a man of the country has been arrested in a school where the drug was held.
+
+Police said that 4,100 drugs were found in his possession and 2 grams of heroin.
+
+The youth has been arrested in the Ambatenna area in Kandy and he was a 22 year old.
+
+◼️
+
+[Data](articles/bcca4156.json)
+
+[Extended Data](ext_articles/bcca4156.ext.json)
+
+---
 
 ### Court restriction for demonstration
 
@@ -51,6 +125,20 @@ The court also announced that if the order violates, the police should take imme
 [Data](articles/47ad035b.json)
 
 [Extended Data](ext_articles/47ad035b.ext.json)
+
+---
+
+### Those on the southern highway
+
+*2024-01-24 09:35:09* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-අධිවේගයේ-යන-අය-අවධානයෙන්/11-407698) · `si`
+
+The premises of the Southern Expressway on the Southern Expressway. Police also say that high speeds are not running traffic.
+
+◼️
+
+[Data](articles/08372b7c.json)
+
+[Extended Data](ext_articles/08372b7c.ext.json)
 
 ---
 
@@ -944,6 +1032,36 @@ When President Ranil Wickremesinghe took over the country, there was a severe ec
 
 ---
 
+### The Sri Lankan who has won the world from the glory of education
+
+*2024-01-24 02:38:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72gdep5x24o) · `si`
+
+The Sri Lankan who has won the world from the glory of education
+
+Norless where the thief had taken their enemies - no pit in water
+
+Even angry, the king did not take the king - the older manner ...
+
+Education is used by 'Eyes' and we are used in our society. The idea is that the world will see the opportunity to see the world.
+
+We are preparing to mark the International Education Day (January 24).
+
+He is the name Sugath Ratnayake. He is educated in the Hadaya village in Moneragala and Dambagalla, Dambagalla Maha Vidyalaya, the village of Dambagalla.
+
+The way to cross him all this distance was created because of the glory of education.
+
+Is it more time to finish education in Sri Lanka?
+
+The success of 11 brothers and sisters with the mother and father of chena and paddy fields were born and the success of the education was not easy.
+
+...
+
+[Data](articles/4390789c.json)
+
+[Extended Data](ext_articles/4390789c.ext.json)
+
+---
+
 ### Central Bank maintains key policy rates amidst inflation concerns
 
 *2024-01-24 02:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Bank-maintains-key-policy-rates-amidst-inflation-concerns/155-275614) · `en`
@@ -1592,6 +1710,30 @@ They also highlighted the issue of the Tamil political prisoners and the Tamil l
 
 ---
 
+### 8-day killings
+
+*2024-01-23 19:58:47* · [`adalk`](https://www.ada.lk/breaking_news/දින-10ට-ඝාතනය-කිරීම්-8ක්/11-407697) · `si`
+
+There have been eight deaths from shooting from the 14th of this month.
+
+A 40-year-old man was killed in a shooting near the Randiya apartment complex on the 15th of the 15th and a 24-year-old shooting near a mobile shop in Tiljjawal.
+
+The leader of the people Saman Perera and five were killed in a bullet to be shot from the Beliatta login on the 22nd day.
+
+Dammaratana Thero in the temple in Hiripitiya, Malwamatu (23) has been seriously injured and hospitalized.
+
+A person was killed and a victim was killed in a sharp object in Boyawela, in Boowalana.
+
+42-year-old podium has died due to an attack on Dehiowita on 21st. The body of a 30-year-old body was found in the Wellampitiya area on the 19th and found a body in Madampe.
+
+◼️
+
+[Data](articles/b3bbf0a6.json)
+
+[Extended Data](ext_articles/b3bbf0a6.ext.json)
+
+---
+
 ### Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
 
 *2024-01-23 19:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/asian-internet-coalition-refutes-statement-on-online-safety-bill-by-minister-tiran-alles/) · `en`
@@ -1861,145 +2003,5 @@ Kaselkanda Kumarka Kusum, which was previously worked for machinery and scientif
 [Data](articles/1f226575.json)
 
 [Extended Data](ext_articles/1f226575.ext.json)
-
----
-
-### Ministry of Education announced on admission to schools
-
-*2024-01-23 19:14:24* · [`adalk`](https://www.ada.lk/breaking_news/පාසල්වලට-සිසුන්-ඇතුළත්-කිරීම-ගැන-අධ්‍යාපන-අමාත්‍යාංශයෙන්-නිවේදනයක්/11-407693) · `si`
-
-The Ministry of Education has announced that applications have been issued by the Ministry of Education to the first grade of schools in schools.
-
-The Ministry of Colombo will be carried out on the signs of the fifth Grade Fifth Grade Fifth Scholarship Examination.
-
-GCE A GCE O / L classes other than 1, 5 and 6 in 2024. Applications should be referred to schools to include students (Advanced Level also) and will be referred to the Ministry of Education for approval by the Ministry of Education.
-
-Similarly, the applications to the Ministry of Education shall not be referred to the Ministry of Education or schools in the year 2023 and are not issued by the Ministry of Education for schools.
-
-◼️
-
-[Data](articles/35ad70a2.json)
-
-[Extended Data](ext_articles/35ad70a2.ext.json)
-
----
-
-### Sri Lankan Tamil leaders seek Indian intervention in implementation of 13A – report
-
-*2024-01-23 19:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96670/sri-lankan-tamil-leaders-seek-indian-intervention-in-implementation-of-13a-report) · `en`
-
-A group of Sri Lankan Tamil legislators has sought India’s intervention to ensure that Colombo fully implements the New Delhi-mooted 13th Amendment, which provides for the devolution of power to the minority community, PTI reported quoting sources.
-
-The group led by the veteran politician and TNA Leader R Sampanthan met India’s new High Commissioner to Sri Lanka, Santosh Jha, on Monday, said the source from the Tamil National Alliance (TNA), which represents Sri Lanka’s Tamil minority.
-
-The two-hour-long talks were centred on the 13 Amendment, which created the provincial councils system for the island nation’s nine provinces.
-
-The Tamil parties pointed out the need for India’s intervention in the current Sri Lankan political context for the meaningful devolution of power, the source said.
-
-They also highlighted the issue of the Tamil political prisoners and the Tamil land grabbing by the state.
-
-...
-
-[Data](articles/034bb141.json)
-
-[Extended Data](ext_articles/034bb141.ext.json)
-
----
-
-### Sri Lanka’s Proposed Internet Law Threatens Upcoming Elections
-
-*2024-01-23 18:56:43* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankas-proposed-internet-law-threatens-upcoming-elections/) · `en`
-
-Sri Lanka’s Proposed Internet Law Threatens Upcoming Elections; Government Body Could Impose Sweeping Censorship, Prosecute Offenders
-
-A repressive new internet law that Sri Lankan President Ranil Wickremesinghe is trying to rush through parliament this week would create broad and vague new speech-related offenses punishable by lengthy prison terms. The law would seriously threaten the right to freedom of expression as Sri Lanka prepares for parliamentary and presidential elections later this year.
-
-The proposed law, the Online Safety Bill, purportedly provides protections against online harassment, abuse, and fraud. Instead, it is mostly concerned with creating a new “Online Safety Commission,” appointed by the president, that can decide what online speech is “false” or “harmful,” remove content, restrict and prohibit internet access, and prosecute individuals and organizations.
-
-...
-
-[Data](articles/0ee3a241.json)
-
-[Extended Data](ext_articles/0ee3a241.ext.json)
-
----
-
-### Doctors give 35000 back - doctor strikes
-
-*2024-01-23 18:52:31* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍යවරුන්ට-35000-ආයෙත්-දෙයි---දොස්තර-වර්ජනය-අත්හැර-දමයි/11-407692) · `si`
-
-Doctors suspended allowance. The Ministry of Health has decided to agree to restore the Grade of Health and the doctors who have been prepared to hold the doctors.
-
-◼️
-
-[Data](articles/c684d0e3.json)
-
-[Extended Data](ext_articles/c684d0e3.ext.json)
-
----
-
-### Great gold robbery in Hettivoy
-
-*2024-01-23 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192480) · `si`
-
-Police have arrested a gang of robbery of gold and a foreign currency in the Hettivi area in Colombo.
-
-Among them are a three-wheeler driver and his relatives, a former Army soldier.
-
-The golden and foreign currency was a golden and foreign currency of the Hettawi.
-
-Two more gold items belonging to him in Kattankudy and Batticaloa areas.
-
-Several heated gold pieces have been sent to Colombo on the 11th of this month.
-
-A person from a three-wheeler was recorded on a three-wheeler with a three-wheeler of the Hettivideo.
-
-Later, he had gone on the road near the Kochchikade Church.
-
-According to a complaint regarding the incident, the Criminal Investigation Division of the Pettah Police have identified the suspects using CCTV footage.
-
-The three-wheeler driver among the arrested suspects have been involved in a ten-wheeler in the area for many years.
-
-In these cases, they have confessed that the robber has been planned by buses by buses by buses by the buses on several occasions by buses.
-
-...
-
-[Data](articles/b99033ab.json)
-
-[Extended Data](ext_articles/b99033ab.ext.json)
-
----
-
-### Universal Franchise, Written Constitutions, Party Politics & Abuse
-
-*2024-01-23 18:40:34* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/universal-franchise-written-constitutions-party-politics-abuse/) · `en`
-
-It may sound heretical and ridiculous, but I boldly say, that it is only the last word in my title (“Abuse,”) is real, all else is piffle, confusion, and deceit and quite meaningless. Agreed? Of course not, – don’t be crazy!
-
-Let me explain. More and more that I see happening around me, seems to validate this apparent heresy. I take a perverse delight in witnessing the demolition of myths and untenable yet popular, beliefs. It is astonishing to see the extent to which we allow ourselves to be so easily fooled. Often we seemed to be wired to accept more readily, thoughts couched in complicated verbiage. How often do we unknowingly accept concepts, merely because we feel ill-equipped to understand them? The lament at the end of a speech, “What he said must be mighty important, because I could not understand a word of it” is a telling truth. “Faith” they say is “acceptance of something you know to be false”.  So, on to this implicitly authorized heresy.
-
-...
-
-[Data](articles/d4abacd4.json)
-
-[Extended Data](ext_articles/d4abacd4.ext.json)
-
----
-
-### Education Ministry issues notice on school admissions
-
-*2024-01-23 18:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96669/education-ministry-issues-notice-on-school-admissions) · `en`
-
-Applications for the admission of children to Grade 01 of schools should be submitted in accordance with the circular issued by the Ministry of Education and the admission process will be carried out by holding interviews through school principals, the Education Ministry said in a statement.
-
-Meanwhile, the statement also mentioned that the admission of students to Grade 05 of schools will only be carried out based on the marks obtained at the Grade 05 Scholarship Examination.
-
-All applications for the admission of children to the intermediate classes other than Grades 01, 05 and 06 in 2024, must be submitted to the relevant schools, while the school principals will hold the interviews if vacancies are available, as per the circulars issued by the ministry, and forward the name lists of selected students to the Education Ministry.
-
-...
-
-[Data](articles/9ba4647b.json)
-
-[Extended Data](ext_articles/9ba4647b.ext.json)
 
 ---

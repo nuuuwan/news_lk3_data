@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 12:49:43**
+As of **2024-01-24 13:02:22**
 
 ## Newspaper Stats
 
-*Scraped **2,285** Articles*
+*Scraped **2,288** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 33
 bbccomsinhala | 45
 dbsjeyarajcom | 122
-newsfirstlk | 128
+newsfirstlk | 129
 islandlk | 133
 economynextcom | 135
 adaderanasinhalalk | 162
 dailyftlk | 181
 adalk | 227
 virakesarilk | 253
-adaderanalk | 284
+adaderanalk | 286
 tamilmirrorlk | 286
 dailymirrorlk | 296
 
@@ -26,11 +26,73 @@ dailymirrorlk | 296
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,285 (100.0%) of 2,285 articles have been extended.
+2,285 (99.9%) of 2,288 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Controversial monk ‘Vishwa Buddha’ further remanded
+
+*2024-01-24 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96688/controversial-monk-vishwa-buddha-further-remanded) · `en`
+
+The Colombo Magistrate’s Court has ordered the saffron-robbed monk claiming to be ‘Vishwa Buddha’ to be further remanded in custody until January 29, 2024.
+
+He was presented before the Colombo Additional Magistrate this morning (Jan. 24), as per an order issued by the Gangodawila Magistrate’s Court in Nugegoda on Tuesday (Jan.21).
+
+The suspect, who was out on bail, was re-arrested on Tuesday morning by the Criminal Investigations Department (CID) over breach of bail conditions, and was presented before the Gangodawila Magistrate’s Court.
+
+Earlier, the monk was arrested on December 12 at a private establishment in Kalagedihena by the cybercrimes unit of the Criminal Investigation Department (CID), acting on a complaint received against the self-styled monk who was residing in Ratnapura.
+
+According to police, the saffron-robbed monk had allegedly issued statements demeaning Buddhism.
+
+◼️
+
+[Data](articles/f2eb57b1.json)
+
+---
+
+### One killed, 08 injured after bus-van collision in Kilinochchi
+
+*2024-01-24 12:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96687/one-killed-08-injured-after-bus-van-collision-in-kilinochchi) · `en`
+
+A person has died while 08 others sustained injuries following a bus-van collision that took place in the Elephant Pass area of Kilinochchi, early this morning (Jan 24).
+
+Police stated that the accident took place after a passenger bus attached to Sri Lanka Transport Board (SLTB) travelling from Jaffna to Kandy collided with a van returning to Jaffna from Bandaranaike International Airport (BIA) in Katunayake.
+
+The SLTB passenger bus has first hit a herd of cattle on the road before colliding with the oncoming van.
+
+A woman who was travelling in the van in question has died in the accident, while 08 other individuals who sustained injuries during the accident have been rushed to Kilinochchi Hospital. However, the condition of five of them is critical, as per hospital sources.
+
+Meanwhile, 08 cattle have also been killed in the accident, Ada Derana reporter said.
+
+◼️
+
+[Data](articles/fdfe580f.json)
+
+---
+
+### Court order preventing SYU protest in Colombo
+
+*2024-01-24 12:09:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/court-order-preventing-syu-protest-in-colombo/) · `en`
+
+COLOMBO (News 1st) – The Colombo Chief Magistrate's Court has issued an order to Eranga Gunasekara, National Organiser of the Socialist Youth Association, prohibiting them from entering Parliament Road from the Polduwa Roundabout and engaging in protest activity that could oppress the people.
+
+The order was issued after considering a statement from the Welikada Police Station Commander.
+
+The court order instructs Gunasekara and the group to refrain from blocking any roads, engaging in any violent acts that could cause public disorder, or conducting their protest in a manner that violates the parliamentary privileges of public representatives or obstructs the duties of public officials.
+
+Trump takes decisive step towards Republican Party nomination for president
+
+Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
+
+Death sentence for 7, for 3 murders on illegal boat to Australia
+
+...
+
+[Data](articles/d726523f.json)
+
+---
 
 ### Investor anxiety over IMF’s third tranche triggers panic-selling of shares
 
@@ -508,8 +570,6 @@ Death sentence for 7, for 3 murders on illegal boat to Australia
 
 Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
 
-Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
-
 ◼️
 
 [Data](articles/2d6792b2.json)
@@ -535,8 +595,6 @@ Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe |
 Death sentence for 7, for 3 murders on illegal boat to Australia
 
 Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
-
-Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
 
 ◼️
 
@@ -792,7 +850,7 @@ Death sentence for 7, for 3 murders on illegal boat to Australia
 
 Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
 
-...
+◼️
 
 [Data](articles/09f6f72f.json)
 
@@ -1957,63 +2015,5 @@ In the announcement, the Central Bank said it remains optimistic about the effec
 [Data](articles/775e4515.json)
 
 [Extended Data](ext_articles/775e4515.ext.json)
-
----
-
-### Judgment in Harin’s expulsion case to be delivered in due course
-
-*2024-01-24 00:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Judgment-in-Harins-expulsion-case-to-be-delivered-in-due-course/108-275618) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - The Supreme Court yesterday concluded hearing and reserved its judgment in the expulsion petitions filed by Tourism Minister Harin Fernando and Labour and Foreign Employment Minister Manusha Nanayakkkara challenging the Samagi Jana Balawegaya (SJB) decision to remove them from their party membership.
-
-Accordingly, the Supreme Court will deliver its judgment regarding this petition in due course.
-
-The Supreme Court three-judge-bench comprising Justices Vijith Malalgoda, Achala Wengappuli and Arjuna Obeysekara concluded the arguments put forward by both, the petitioner and the respondent parties. The parties were directed to file their written submissions before February 1.
-
-The two government Ministers are seeking a declaration that they have not ceased to be Members of Parliament, and that they continue to be and shall remain Members of Parliament.
-
-...
-
-[Data](articles/0c217dc9.json)
-
-[Extended Data](ext_articles/0c217dc9.ext.json)
-
----
-
-### Human lives at stake… When protectors of the law become predators
-
-*2024-01-24 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Human-lives-at-stake-When-protectors-of-the-law-become-predators/131-275599) · `en`
-
-Following the Narammala shooting incident people are worried about their own safety
-
-The dead civilian’s wallet is still missing, according to his best friend
-
-Kumarasiri who was shot dead by the Narammala Police was the sole breadwinner of the family and his wife is unemployed
-
-On Thursday (January 18), a sub-inspector attached to the Narammala Police Station opened fire at a civilian. The civilian, identified as K. A Roshan Kumarasiri succumbed to injuries instantly. The reason for this brutal encounter was the fact that the police officer who was in civilian clothes had signaled Kumarasiri to stop his lorry, but since there was no sign to identify him as a police officer, Kumarasiri had ignored the signal.Eyewitness accounts claim that the cop had chased after the lorry from Rammuthugala to Dampelessa. He had then pulled it over for a spot inspection, but eyewitness accounts claim that the sub-inspector had loaded his gun while going towards the lorry driver and subsequently opened fire.
-
-...
-
-[Data](articles/34511023.json)
-
-[Extended Data](ext_articles/34511023.ext.json)
-
----
-
-### Why isn’t Lanka’s ‘War on Drugs’, taking on Drug Barons? - EDITORIAL
-
-*2024-01-24 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Why-isnt-Lankas-War-on-Drugs-taking-on-Drug-Barons-EDITORIAL/172-275601) · `en`
-
-In December 2023, Public Security Minister, Tiran Alles announced with much fanfare, the launch of ‘Operation Yukthiya’. Within a 22-day spell, authorities apprehended a total of 29,475 suspects. They initially announced the seizure of millions of rupees in cash and the confiscation of assets belonging to drug peddlers/dealers.
-
-Media reports of drug raids continue to regale the public with a plethora of statements issued by the Public Security Minister and the acting IGP on how well the operation is progressing. Daily we hear of hundreds of persons being taken into custody.
-
-What is concerning however is that the Minister and the Acting IGP seem to be acting outside the law in their efforts to rid the country of the drug menace.
-
-...
-
-[Data](articles/b083f963.json)
-
-[Extended Data](ext_articles/b083f963.ext.json)
 
 ---

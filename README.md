@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 16:32:41**
+As of **2024-01-24 16:49:14**
 
 ## Newspaper Stats
 
-*Scraped **2,356** Articles*
+*Scraped **2,358** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ islandlk | 133
 economynextcom | 144
 adaderanasinhalalk | 175
 dailyftlk | 181
-adalk | 232
+adalk | 233
 virakesarilk | 264
 tamilmirrorlk | 292
-adaderanalk | 296
+adaderanalk | 297
 dailymirrorlk | 307
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,347 (99.6%) of 2,356 articles have been extended.
+2,358 (100.0%) of 2,358 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### UN Women, Japan support 600 women-led micro-enterprises affected by Sri Lanka crisis
+
+*2024-01-24 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96698/un-women-japan-support-600-women-led-micro-enterprises-affected-by-sri-lanka-crisis) · `en`
+
+UN Women and Chrysalis – a Sri Lanka-based women and youth empowering organization, with funding from the Government of Japan, has provided productive assets worth LKR 110 million (approx. USD 343,000) to 600 women-led micro-enterprises to help expand their businesses.
+
+This initiative was undertaken as part of a larger one-year project ‘Empowering Women in Crisis’ starting in February 2023.
+
+Through this project, UN Women and implementing partner Chrysalis have provided humanitarian assistance for women most affected by the socioeconomic crisis in Sri Lanka - in close collaboration with the Ministry of Women, Child Affairs and Social Empowerment.
+
+...
+
+[Data](articles/c83c47ca.json)
+
+[Extended Data](ext_articles/c83c47ca.ext.json)
+
+---
 
 ### Nihal Thalduwa promoted as DIG
 
@@ -44,21 +62,25 @@ He will take charge of Police Crime Range and will also continue as the Police M
 
 [Data](articles/dee81761.json)
 
+[Extended Data](ext_articles/dee81761.ext.json)
+
 ---
 
-### විරෝධතාවක් වළක්වමින් අධිකරණ නියෝගයක්
+### Court order in protest
 
 *2024-01-24 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192518) · `si`
 
-මිරිහාන පොලිස් වසමේ දෙල්කඳ හන්දියේ සිට නුගේගොඩ දක්වා සහ කිරුළපන සිට නුගේගොඩ දක්වා වන හයිලෙවල් මාර්ගයේ ගමන් කිරීමට නියමිත ව තිබුණු විරෝධතා පා ගමනක් වළක්වාලමින් අධිකරණය විසින් නියෝගයක් නිකුත් කර තිබේ.
+Court has issued an order from Delkanda Junction, Delkanda Junction, Kirulapone to Nugegoda and Kirulapone to Nugegoda.
 
-එම ප්‍රදේශයේ උසස් පෙළ විභාග මධ්‍යස්ථාන 04ක් ඇති බැවින් විරෝධතා පා ගමන තහනම් කරන ලෙස මෙම අධිකරණය නියෝගය පනවා ඇත.
+The Court has issued the order to ban the protest march as there are four A / L examination centers in the area.
 
-පොලීසිය මඟින් කරන ලද ඉල්ලීමකට අනුව නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණය මඟින් මෙම තහනම් නියෝගය පනවා තිබේ.
+According to the police request, the injustice has been imposed by the Nugegoda Magistrate's Court.
 
 ◼️
 
 [Data](articles/610dea95.json)
+
+[Extended Data](ext_articles/610dea95.ext.json)
 
 ---
 
@@ -96,15 +118,17 @@ Accordingly, the Bill of the National Unity and Reconciliation Act No. 01 of 202
 
 ---
 
-### නිහාල් තල්දූව නියෝජ්‍ය පොලිස්පති තනතුරට උසස් කෙරේ
+### Nihal Talduwa promoted to DIG
 
 *2024-01-24 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192517) · `si`
 
-පොලිස් මාධ්‍ය ප්‍රකාශක, නීතීඥ නිහාල් තල්දූව මහතා නියෝජ්‍ය පොලිස්පති ධුරය දක්වා උසස් කර තිබේ.
+The police spokesman, law spokesman, has been promoted to the post of DIG.
 
 ◼️
 
 [Data](articles/b0043605.json)
+
+[Extended Data](ext_articles/b0043605.ext.json)
 
 ---
 
@@ -123,6 +147,8 @@ Kapruka sells and delivers a variety of products such as food, electronics and p
 ...
 
 [Data](articles/cd702425.json)
+
+[Extended Data](ext_articles/cd702425.ext.json)
 
 ---
 
@@ -146,6 +172,8 @@ Russian presidential spokesman Dmitry Peskov said the Kremlin was aware of the c
 
 [Data](articles/5e51ceb3.json)
 
+[Extended Data](ext_articles/5e51ceb3.ext.json)
+
 ---
 
 ### TIN to be issued using NIC numbers: Siyambalapitiya
@@ -163,6 +191,8 @@ The Minister said a complete database on state revenue could be created after th
 ◼️
 
 [Data](articles/f67378ed.json)
+
+[Extended Data](ext_articles/f67378ed.ext.json)
 
 ---
 
@@ -354,6 +384,8 @@ Ports Minister Rohitha Abeygunawardena said he was called Raththarang (gold) as 
 
 [Data](articles/cf2f4fc1.json)
 
+[Extended Data](ext_articles/cf2f4fc1.ext.json)
+
 ---
 
 ### Leading Mitchell Cosse
@@ -425,6 +457,8 @@ Several civil organisations staged a protest today at the Polduwa junction again
 ◼️
 
 [Data](articles/55c7bb8c.json)
+
+[Extended Data](ext_articles/55c7bb8c.ext.json)
 
 ---
 
@@ -527,6 +561,8 @@ The driver of the bus has been arrested by Kilinochchi police pending further in
 ◼️
 
 [Data](articles/56e099e2.json)
+
+[Extended Data](ext_articles/56e099e2.ext.json)
 
 ---
 
@@ -925,6 +961,24 @@ He pointed out that the fundamental rights, including independence and freedom o
 [Data](articles/3026d19a.json)
 
 [Extended Data](ext_articles/3026d19a.ext.json)
+
+---
+
+### 4 Acts of the Speaker
+
+*2024-01-24 13:32:21* · [`adalk`](https://www.ada.lk/breaking_news/පනත්-04-කට-කථානායක-සහතිකය/11-407706) · `si`
+
+Speaker Mahinda Yapa Abeywardena announced its certificate yesterday (23) for four Bills passed by Parliament yesterday.
+
+The Speaker has recorded his certificate to the Atonenial Powers (Amendments), Fraud (Amendment) and the National Unity Board (Amendment) and the National Unity and Reconciliation Offices.
+
+Accordingly, the UPFA (Amendment) Act No. 1 of the National Unity and Reconciliation (Amendment) Act, No. 03, 2024, No. 03 of 2024, Powers (Amendment) Act, No. 03, 2024, No. 03, No. 03In effect yesterday (23) as the Act.
+
+◼️
+
+[Data](articles/2aa2fa31.json)
+
+[Extended Data](ext_articles/2aa2fa31.ext.json)
 
 ---
 
@@ -2005,41 +2059,5 @@ The State Minister said that the project is being carried out using the biograph
 [Data](articles/4de7c86b.json)
 
 [Extended Data](ext_articles/4de7c86b.ext.json)
-
----
-
-### Chamari is captained World Women's Group ICC
-
-*2024-01-24 10:13:54* · [`adalk`](https://www.ada.lk/sports/ICC-ලෝක-කාන්තා-එක්දින-කණ්ඩායමේ-නායකත්වයත්-චමරිට/9-407700) · `si`
-
-Sri Lanka Leader Chamari Atapattu has been named to lead the Women's ODI team in the year, published by the International Cricket Council in the year 2023.
-
-She has been named as the opening batsman of that group. Chamari was also named the leader of the Women T20 group of Twenta Year of the Year of the International Cricket Council.
-
-◼️
-
-[Data](articles/24a48e7a.json)
-
-[Extended Data](ext_articles/24a48e7a.ext.json)
-
----
-
-### Bus in Parrinochchi - van accident;One kills;9 people injured
-
-*2024-01-24 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/174655) · `ta`
-
-One person was killed and nine people were injured in a vehicle accident at around 4.45 am on Wednesday (24).
-
-A bus belonging to the Sri Lanka Transport Board (SLTB) traveling from Jaffna to Kandy crashed with buffaloes on the road and crashed into the Gayas van.
-
-A man who was traveling in a Gayus vehicle died at the scene and nine people, including two boys, were injured.
-
-Two of them have been taken to the Jaffna Teaching Hospital for further treatment and others have been admitted to the Kilinochchi District General Hospital.
-
-◼️
-
-[Data](articles/8c5b3b3c.json)
-
-[Extended Data](ext_articles/8c5b3b3c.ext.json)
 
 ---

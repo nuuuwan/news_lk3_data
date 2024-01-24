@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 13:17:05**
+As of **2024-01-24 13:33:07**
 
 ## Newspaper Stats
 
-*Scraped **2,292** Articles*
+*Scraped **2,294** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,56 @@ economynextcom | 135
 adaderanasinhalalk | 164
 dailyftlk | 181
 adalk | 227
-virakesarilk | 253
-adaderanalk | 286
+virakesarilk | 254
 tamilmirrorlk | 286
+adaderanalk | 287
 dailymirrorlk | 298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,288 (99.8%) of 2,292 articles have been extended.
+2,292 (99.9%) of 2,294 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### සීනි බදු වංචාවේ පරීක්ෂණ ගැන අලුත්ම තත්ත්වය
+### National school exams will return to usual schedules by 2025 - Minster
+
+*2024-01-24 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96689/national-school-exams-will-return-to-usual-schedules-by-2025-minster-) · `en`
+
+Measures are underway to ensure that all national exams are held as per their usual schedules by 2025, Minister of Education Susil Premajayantha stated.
+
+Speaking in Parliament this morning (24 Jan.), the Minister further stated that the necessary arrangements for the paper-marking sessions of the ongoing G.C.E Advanced Level examination, due to end on 01 February, are also underway.
+
+Meanwhile, commenting on the allowances granted to teachers and university lecturers for paper-marking, Premajayantha revealed that as per a Cabinet memorandum submitted by him, measures are afoot to provide the same allowances as those granted for last year’s paper-marking.
+
+◼️
+
+[Data](articles/c5e70aec.json)
+
+---
+
+### The latest situation on the test of sugar tax fraud
 
 *2024-01-24 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192507) · `si`
 
-සීනි බදු වංචාවක් සිදුවූ බවට වූ චෝදනාව සම්බන්ධයෙන් අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව පරීක්ෂණ නිමකර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+State Minister Ranjith Siyambalapitiya stated that the CID has completed investigations into the accusation that a sugar tax fraud took place.
 
-එම පරීක්ෂණයේ ලිපි ගොනු උපදෙස් ලබාගැනීම සඳහා නීතිපතිවරයාට යොමු කර ඇති බවද  මුදල් රාජ්‍ය අමාත්‍යවරයා පවසයි.
+The investigation of the investigation has been referred to the Attorney General.
 
-එසේ කර ඇත්තේ එම වංචාවට නඩු දැමීම සඳහා උපදෙස් ලබාගැනීමට බව ඔහු කීය.
+He said that he was instructed to prosecute the fraud.
 
-දේශීය ආදායම් දෙපාර්තමේන්තුව ආයතන 12ක් සම්බන්ධයෙන් වෝහාරික විගණනයක් කර ඇති බවත් එමගින් ආයතන 6කින් ඔවුන් ලැබූ ලාබයෙන් රුපියල් කෝටි 31ක් අයකර ගෙන ඇති බවත් රාජ්‍ය අමාත්‍යවරයා හෙළිකළේය.
+The Department of Inland Revenue has made a note of 12 institutions and that they have recovered Rs. 31 crores in six companies.
 
-විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සීනි බදු වංචාව සම්බන්ධයෙන් මතු කළ ප්‍රශ්නයකට පිළිතුරු දෙමින් සියඹලාපිටිය මහතා ඒ බව හෙළිකළේය.
+Mr. Siyambalapitiya has revealed the question raised by the opposition leader Sajith Premadasa.
 
 ◼️
 
 [Data](articles/512f70d9.json)
+
+[Extended Data](ext_articles/512f70d9.ext.json)
 
 ---
 
@@ -74,23 +92,41 @@ According to police, the saffron-robbed monk had allegedly issued statements dem
 
 ---
 
-### විශ්ව බුද්ධ නැවතත් රිමාන්ඩ්
+### வவுனியா மேல் நீதிமன்றத்தினால் 300 கிலோவிற்கு மேற்பட்ட கஞ்சா எரித்து அழிப்பு
+
+*2024-01-24 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/174675) · `ta`
+
+வவுனியா மேல் நீதிமன்ற நீதிபதி மாணிக்கவாசகர் இளஞ்செழியன் அவர்களின் மேற்பார்வையின் கீழ் புதன்கிழமை (24) காலை 300 கிலோவிற்கு மேற்பட்ட கஞ்சா எரிக்கபட்டது.
+
+கடந்த வருடம் (2023) வவுனியா மேல் நீதிமன்றத்தில் வழக்குகளில் ஒப்படைக்கப்பட்ட 300 கிலோவிற்கு மேற்பட்ட கஞ்சா வவுனியா ஏ9 வீதி சாந்தசோலை பகுதியில் வவுனியா மேல் நீதிமன்ற நீதிபதி மாணிக்கவாசகர் இளஞ்செழியன் அவர்களின் மேற்பார்வையின் கீழ் நீதிமன்ற உத்தியோகத்தர்கள், நீதிமன்ற பொலிஸாரின் ஒத்துழைப்புடன் எரிக்கப்பட்டது.
+
+சுகாதார நிலமைகளை கருத்தில் கொண்டு மக்கள் நடமாட்டம் மற்றும் அருகே வீடுகள் அற்ற பகுதியில் சுகாதார நடைமுறைகளை பின்பற்றி கஞ்சா எரிக்கப்பட்டமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/44abdc2d.json)
+
+---
+
+### Universal Buddha further remanded
 
 *2024-01-24 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192506) · `si`
 
-"විශ්ව බුද්ධ" නමින් පෙනී සිටි චීවරධාරියා ලබන 29 වනදා දක්වා යළි රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ අතිරේක මහෙස්ත්‍රාත්වරයා නියෝග කර තිබේ.
+The Colombo Additional Magistrate has ordered the monk who appeared in the name "Universal Buddha" to be remanded until the 29th.
 
-ඔහු අද (24) කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා හමුට ඉදිරිපත් කිරීමෙන් අනතුරුව එම නියෝගය ලබා දුනි.
+He was produced by the Additional Magistrate Prasanna Amarasene today (24).
 
-එමෙන්ම සැකකරු ලබන 29 වනදා කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරන ලෙසටද කොළඹ අතිරේක මහෙස්ත්‍රාත්වරයා අද බන්ධනාගාර දෙපාර්මේන්තුවට නියෝග කළ බව අද දෙරණ වාර්තාකරු පැවසීය.
+The Colombo Addressor also said that the suspect was ordered to be produced before the Colombo Chief Magistrate's Court on the 29th, Ada Derana reporter said.
 
-සැකකාර චීවරධාරියා පසුගිය සතියේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන ගංගොඩවිල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබුණි.
+The monk was produced before the Gangodawila Magistrate's Court last week.
 
-එහිදී සැකකාර චීවරධාරිය අද දින කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කරන ලෙසත් ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙසත් ගංගොඩවිල මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+The suspected monastery was presented to the Colombo Chief Magistrate's Court today to be remanded until the 26th and Gangodawila Magistrate's Court.
 
 ◼️
 
 [Data](articles/5f1d03cd.json)
+
+[Extended Data](ext_articles/5f1d03cd.ext.json)
 
 ---
 
@@ -1696,6 +1732,8 @@ Samagi Jana Balawegaya (SJB) Organizer for Passara Letchumanar Sanjay asks why M
 
 [Data](articles/0edca7a7.json)
 
+[Extended Data](ext_articles/0edca7a7.ext.json)
+
 ---
 
 ### Minister under fire for Inviting South Indian actresses amidst austerity, hardship
@@ -1969,37 +2007,5 @@ Jaffna at the meeting. Indian Embassy Officers, Neduntivu Divisional Secretary, 
 [Data](articles/c4807e4e.json)
 
 [Extended Data](ext_articles/c4807e4e.ext.json)
-
----
-
-### Meeting with Indian Ambassador
-
-*2024-01-24 03:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-தூதுவருடன்-அநுரகுமார-சந்திப்பு/175-332041) · `ta`
-
-National People's Power Leader Anura Kumara Dissanayake has met with the new Indian Ambassador to Sri Lanka Santosh Ja.
-
-During the meeting, Sri Lanka's contemporary political situation, the economic crisis and the future political programs of the national people's power were discussed.
-
-◼️
-
-[Data](articles/8ec108d6.json)
-
-[Extended Data](ext_articles/8ec108d6.ext.json)
-
----
-
-### Maithri meets with Indian Ambassador
-
-*2024-01-24 03:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-தூதுவருடன்-மைத்திரி-சந்திப்பு/175-332040) · `ta`
-
-A meeting between the new Indian Ambassador to Sri Lanka Santosh Jaw and former President Maithripala Sirisena
-
-The meeting, which was held yesterday at the Indian House in Colombo, discussed a number of issues, including the contemporary political situation in Sri Lanka.. (A)
-
-◼️
-
-[Data](articles/afdfd9f7.json)
-
-[Extended Data](ext_articles/afdfd9f7.ext.json)
 
 ---

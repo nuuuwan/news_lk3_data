@@ -1,36 +1,48 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 17:53:31**
+As of **2024-01-24 18:10:42**
 
 ## Newspaper Stats
 
-*Scraped **2,363** Articles*
+*Scraped **2,371** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 33
 bbccomsinhala | 46
 dbsjeyarajcom | 122
-newsfirstlk | 132
 islandlk | 133
+newsfirstlk | 135
 economynextcom | 144
 adaderanasinhalalk | 178
 dailyftlk | 181
-adalk | 233
+adalk | 235
 virakesarilk | 264
 tamilmirrorlk | 292
 adaderanalk | 298
-dailymirrorlk | 307
+dailymirrorlk | 310
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,363 (100.0%) of 2,363 articles have been extended.
+2,363 (99.7%) of 2,371 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Online Safety Bill: Second reading passed with 46 majority
+
+*2024-01-24 17:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-Second-reading-passed-with-46-majority/108-275662) · `en`
+
+Parliament, Jan. 24 (Daily Mirror)- The second reading of the Online Safety Bill was passed with a majority of 46 votes in parliamnt.
+
+◼️
+
+[Data](articles/15ac8d23.json)
+
+---
 
 ### Online Bill Seventh Reading is passed by more
 
@@ -47,6 +59,40 @@ Accordingly, the Speaker informed the Parliament that the second reading of the 
 [Data](articles/6fbb582a.json)
 
 [Extended Data](ext_articles/6fbb582a.ext.json)
+
+---
+
+### Danu Innasithamby wins Pride of The Nation Award
+
+*2024-01-24 17:12:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/danu-innasithamby-wins-pride-of-the-nation-award/) · `en`
+
+COLOMBO (News 1st); Danu Innasithamby was awarded the Prize of The Nation award under the category of Young Journalist who works in all three languages of Sinhala, English and Tamil in Sri Lanka. The Pride of The Nation award, is a unique tribute award that a person can get only once in his lifetime. The awards signifies the nation paying its tributes to an individual who has rendered valuable service in their field throughout their lifetime.
+
+Russian plane crashes with 65 Ukrainian prisoners of war on board
+
+◼️
+
+[Data](articles/ca7de7c8.json)
+
+---
+
+### Self-proclaimed Avalokiteshvara Bodhisattva requires further mental treatment: Psychiatrist tells court
+
+*2024-01-24 16:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Self-proclaimed-Avalokiteshvara-Bodhisattva-requires-further-mental-treatment-Psychiatrist-tells-court/108-275660) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - The psychiatrist who examined the mental health condition of the self-proclaimed Avalokiteshvara Bodhisattva, Mahinda Kodithuwakku has recommended further treatment for him at the National Institute of Mental Health in Angoda.
+
+Accordingly, Colombo Fort Magistrate Thilina Gamage ordered to remand the suspect till February 7.
+
+The suspect Mahinda Kodithuwakku was arrested by the CID for allegedly insulting Buddhism and hurting religious feelings.
+
+Senior Deputy Solicitor General Dileepa Pieris, appearing for the Attorney General, moved court that the suspect be further remanded since he requires further medical treatment for his unstable mental condition.
+
+President's Counsel Kalinga Indatissa appearing for the suspect informed court that there is no ground to refuse bail in terms of Section 14 of the Bail Act and moved court that his client be released on bail on whatever conditions the court deems fit.
+
+...
+
+[Data](articles/26f73087.json)
 
 ---
 
@@ -130,6 +176,26 @@ Through this project, UN Women and implementing partner Chrysalis have provided 
 
 ---
 
+### Suspect involved in Beliatta shooting arrested
+
+*2024-01-24 16:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/suspect-involved-in-beliatta-shooting-arrested/) · `en`
+
+COLOMBO (News 1st); A suspect linked to the killing of 05 people in Beliatta on Monday has been taken into Police custody in the Bathgama, Akuressa in Matara.
+
+Police say he was arrested by a police team headed by the Hakmana Police OIC.
+
+Police added the arrested suspect had led the murder that took in Beliatta.
+
+The suspect has also worked as a businessman at the Manning Market while the jeep in which the suspects arrived for the shooting was also found hidden in Galle yesterday.
+
+Russian plane crashes with 65 Ukrainian prisoners of war on board
+
+◼️
+
+[Data](articles/c1559e38.json)
+
+---
+
 ### Nihal Thalduwa promoted as DIG
 
 *2024-01-24 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nihal-Thalduwa-promoted-as-DIG/108-275658) · `en`
@@ -143,6 +209,28 @@ He will take charge of Police Crime Range and will also continue as the Police M
 [Data](articles/dee81761.json)
 
 [Extended Data](ext_articles/dee81761.ext.json)
+
+---
+
+### Russian plane crashes with 65 Ukrainian prisoners of war on board
+
+*2024-01-24 15:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/russian-plane-crashes-with-65-ukrainian-prisoners-of-war-on-board/) · `en`
+
+Colombo (News 1st) – A Russian military aircraft carrying Ukrainian prisoners of war has crashed in the Belgorod region of Russia, foreign media reported. All 74 people on board are feared dead, including 65 Ukrainians.
+
+The Ukrainian army soldiers were being transported for a prisoner exchange with Ukraine when the aircraft crashed.
+
+Videos on social media showed the Ilyushin IL-76 plane falling from the sky and exploding in a ball of fire as it hit the ground.
+
+A Russian member of parliament accused Ukraine of shooting down the aircraft, but did not provide any evidence.
+
+Speaking in the Russian parliament, Andrei Kartapolov, a retired general, said three missiles hit the plane.
+
+Russian plane crashes with 65 Ukrainian prisoners of war on board
+
+◼️
+
+[Data](articles/1d01893d.json)
 
 ---
 
@@ -383,6 +471,24 @@ Investigations carried out regarding the purchasing output and vaccination of th
 [Data](articles/01e995ad.json)
 
 [Extended Data](ext_articles/01e995ad.ext.json)
+
+---
+
+### Army Commander joins paratrooper jump
+
+*2024-01-24 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Army-Commander-joins-paratrooper-jump/110-275655) · `en`
+
+Kudaoya, Jan 24 (Daily Mirror) - Army Commander Lieutenant General Vikum Liyanage participated in paratrooper jump over the Uhana Air Force Base drop zone with a group of airborne soldiers.
+
+The Sri Lanka Arny said the Commander's journey to become a military paratrooper took place at the Commando Regiment Training School (CRTS) in Kudaoya.
+
+On 22 January 2024, the Commander of the Army, with other participants including 18 military personnel from the Maldives National Defence Force and 14 members from the Sri Lanka Army, took to the skies aboard an MI-17 helicopter from the Uhana Air Force Base runway.
+
+This achievement is particularly a significant milestone in the annals of military history as it marks the first-ever attainment of the designation; Military Para Trooper by a distinguished individual holding the esteemed rank of Lieutenant General, who is concurrently serving as the Commander of the Army.
+
+...
+
+[Data](articles/120de450.json)
 
 ---
 
@@ -924,6 +1030,20 @@ The ministry said that the man who had come to commit the crime had been driving
 
 ---
 
+### හැඳුනුම්පත් අංකය ටින් අංකය වෙයි
+
+*2024-01-24 14:09:13* · [`adalk`](https://www.ada.lk/breaking_news/හැඳුනුම්පත්-අංකය-ටින්-අංකය-වෙයි/11-407708) · `si`
+
+පුද්ගලයෙකුගේ ජාතික හැඳුනුම්පත් අංකය එම පුද්ගලයාගේ බදු අංකය (TIN) ලෙස භාවිත කිරීමට පියවර ගන්නා බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+
+මේ හරහා  රාජ්‍ය ආදායම පිළිබඳ පැහැදිලි දත්ත පද්ධතියක්  නිර්මාණය වන බව ද  ඔහු පැවැසීය. අවුරුදු 18 ඉක්මවූ පුද්ගලයින්ගේ ජීව දත්ත තොරතුරු පද්ධතිය උපයෝගී කරගනිමින් මෙම ක්‍රියවලිය සිදුකරන බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/b7d6af61.json)
+
+---
+
 ### Mocking the woman is not tortured: the court
 
 *2024-01-24 14:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-கேலி-செய்வது-சித்ரவதை-ஆகாது-நீதிமன்றம்/175-332054) · `ta`
@@ -945,6 +1065,22 @@ Simply mocking, contempt of contempt is not torture or mental harassment.
 [Data](articles/02f75ad9.json)
 
 [Extended Data](ext_articles/02f75ad9.ext.json)
+
+---
+
+### අධිකරණ ඉතිහාසය අලුත් කළ නඩුවේ විත්තිකරුවන් 07කට මරණ දඩුවම
+
+*2024-01-24 13:54:14* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඉතිහාසය-අලුත්-කළ-නඩුවේ-විත්තිකරුවන්-07කට-මරණ-දඩුවම/11-407707) · `si`
+
+‘මුහුදු කොල්ලකෑම’ සම්බන්ධයෙන් අධිකරණ ඉතිහාසයේ පවරා ඇති ප්‍රථම නඩුවේ විත්තිකරුවන් 07 දෙනෙකුට මරණ දඬුවම් නියම කළ කොළඹ මහාධිකරණ විිනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා විත්තිකාරිය සියළු චෝදනා වලින් අද (24) නිදොස් කොට නිදහස් කළේය.
+
+වසර 11කට පෙර ගාල්ල ප්‍රදේශයේ ගැඹුරු මුහුදේදී ධීවරයින් තිදෙනෙකු මරා තවත් ධීවරයින් දෙදෙනෙකු කපා කොටා මහමුහුදට දමා බහුදින ධීවර යාත්‍රාව කොල්ලකෑමේ චෝදකාවන්ට වරදතරුවන් වු ධීවරයින්ට මෙලෙස මරණ දඬුවම් නියම කළ විනිරුවරයා විත්තිකරුවන් වරදකරුවන් වු සෙසු චෝදනා 06ට බරපතළ වැඩ සහිත වසර 29ක සිරදඬුවම්ද රුපියල් මිලියන 2ක බැගින් වූ දඩද ගෙවීමට ද නියම කළේය.
+
+චෝදනාවන්ට වරදකරුවන් වීම නිසා මෙලෙස දඩුවම් නියම වුයේ නුවන් ලක්මාල්, දිනුෂ්ක ප්‍රියශාන්ත, සම්පත් කුමාර , පී. එච්. දයානන්ද, කේ. නිහාල් නිශාන්ත, කේ. අජිත් කුමාර , කේ. රංජිත් නිශාන්ත  නමැත්තන්ටය.
+
+...
+
+[Data](articles/b46b9850.json)
 
 ---
 
@@ -1254,7 +1390,7 @@ Members of several civil organizations, including the Socialist Youth Associatio
 
 When the protest was about to start, the police informed the protestors of the court order, but they did not accept it and continued the protest.
 
-Trump takes decisive step towards Republican Party nomination for president
+Russian plane crashes with 65 Ukrainian prisoners of war on board
 
 ◼️
 
@@ -1420,7 +1556,7 @@ The Ministry of Public Security says that among them are 664 suspects involved i
 
 Police say 425 grams of heroin, and 6 Kilograms of cannabis alongside a stock of other drugs were seized during the operation.
 
-Trump takes decisive step towards Republican Party nomination for president
+Russian plane crashes with 65 Ukrainian prisoners of war on board
 
 ◼️
 
@@ -1484,7 +1620,7 @@ The order was issued after considering a statement from the Welikada Police Stat
 
 The court order instructs Gunasekara and the group to refrain from blocking any roads, engaging in any violent acts that could cause public disorder, or conducting their protest in a manner that violates the parliamentary privileges of public representatives or obstructs the duties of public officials.
 
-Trump takes decisive step towards Republican Party nomination for president
+Russian plane crashes with 65 Ukrainian prisoners of war on board
 
 ◼️
 
@@ -1901,171 +2037,5 @@ Investigations have said that he was killed when he was on his way to the Sevana
 [Data](articles/b97bc3fb.json)
 
 [Extended Data](ext_articles/b97bc3fb.ext.json)
-
----
-
-### Prevailing prices of commodities cannot be reduced further - Sagala
-
-*2024-01-24 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96684/prevailing-prices-of-commodities-cannot-be-reduced-further-sagala) · `en`
-
-Sagala Ratnayaka, the President’s Senior Adviser on National Security and Chief of the Presidential Staff, states that there is no possibility of further reducing the prevailing prices of commodities.
-
-Ratnayake expressed that since the rupee is appreciating very slowly, what needs to be done now is to take steps to increase the income of the people.
-
-“The price of goods has been brought to the lowest possible point. The prices of some goods like vegetables, fluctuate frequently. However, in terms of foreign exchange, the prices of goods have reached the lowest point”, he said.
-
-“Further appreciation of the rupee is happening very slowly. All we have to do now is to increase the income of the people. Otherwise, we have to make the income of people match the tripled prices of goods.”
-
-Meanwhile, he also said that although the salaries of government employees are increased by Rs. 10,000 from this year, that amount is nowhere near enough to cover the expenses considering the price hikes.
-
-...
-
-[Data](articles/8451cfee.json)
-
-[Extended Data](ext_articles/8451cfee.ext.json)
-
----
-
-### Donald Trump is another forward
-
-*2024-01-24 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192502) · `si`
-
-Former President, Donald Trump, was closed to the Republican Party's presidential candidate.
-
-The New Hampley Division defeated her opponent, Niki Halley.
-
-◼️
-
-[Data](articles/97b69380.json)
-
-[Extended Data](ext_articles/97b69380.ext.json)
-
----
-
-### Health Ministry denies Onco Surgeon’s retirement request
-
-*2024-01-24 10:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-Ministry-denies-Onco-Surgeons-retirement-request/108-275649) · `en`
-
-Colombo, Jan 24 (Daily Mirror) -  Notwithstanding official reports indicating that Onco Surgeon Dr. Crysantha Perera, accused of allegedly assaulting a female hospital staffer, has sought early retirement, the Health Ministry is reported to have rejected his request, Daily Mirror learns.
-
-The surgeon, in accordance with the recently issued circular, is eligible to continue serving until the age of 63. However, the 61-year-old surgeon had formally submitted his retirement request two years prior to reaching the retirement age.
-
-Against this backdrop, informed sources suggest that the Health Ministry's refusal is based on the pressing service requirements at the Karapitiya Hospital, where Dr. Crysantha plays a pivotal role as the chief Onco surgeon.
-
-Highlighting Dr. Crysantha's significant contributions to the hospital, sources emphasise that his departure would create a void that cannot be easily filled at this juncture due to the absence of any immediate replacements.
-
-...
-
-[Data](articles/357b0ee7.json)
-
-[Extended Data](ext_articles/357b0ee7.ext.json)
-
----
-
-### The price of vegetables that are constantly touched
-
-*2024-01-24 10:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-உச்சம்-தொடும்-மரக்கறிகளின்-விலை/175-332050) · `ta`
-
-Prices for vegetables produced in Nuwara Eliya are continuously rising.
-
-At the same time, the price of bear is rising day by day.
-
-It is also reported that there is a continuous shortage of Nuwara Eliya Karat at the Nuwara Eliya Economic Center market.
-
-The Nuwara Eliya Economic Center office has released a list of vegetables this morning (24.01.2023).
-
-Accordingly, the total sales price of a bear is Rs 1250/=.
-
-◼️
-
-[Data](articles/3ba148c4.json)
-
-[Extended Data](ext_articles/3ba148c4.ext.json)
-
----
-
-### Seven fishermen sentenced to death
-
-*2024-01-24 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192501) · `si`
-
-Seven fishermen have been sentenced to death for killing three fishermen who abducted a fishing vessel.
-
-7 fishermen who have been killed and killed by the 'Thajan' fisheries vessels in Sri Lanka by 15.10.2012 were killed and the fishermen were seriously wounded and accused of kidnapped the boat and abducted the boat and kid down their boat and punched the boat.The relevant order has been issued to Colombo High Court Judge today (24).
-
-The High Court Judge was also acquitted of acquitting the Devil in acquitting the Devil in the case.
-
-The judge also ordered to pay a sum of Rs. 2 million to pay a fine of Rs.
-
-The judge also condemned the sentenced to death in addition to the death penalty.
-
-The Attorney General had filed a case before 11 accused were against the incident.
-
-Three of the defendants were killed in the courts due to the death of the trial or the prosecution.
-
-◼️
-
-[Data](articles/a5808c4b.json)
-
-[Extended Data](ext_articles/a5808c4b.ext.json)
-
----
-
-### Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
-
-*2024-01-24 10:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/talk-of-the-town-policy-reform-for-economic-recovery-dr-asanka-wijesinghe-24th-january-2024/) · `en`
-
-Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
-
-Trump takes decisive step towards Republican Party nomination for president
-
-◼️
-
-[Data](articles/2d6792b2.json)
-
-[Extended Data](ext_articles/2d6792b2.ext.json)
-
----
-
-### Death sentence for 7, for 3 murders on illegal boat to Australia
-
-*2024-01-24 10:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/death-sentence-for-7-for-3-murders-on-illegal-boat-to-australia/) · `en`
-
-Colombo (News 1st) – The Colombo High Court has sentenced 7 persons to death for the murder of 3 people, while attempting to travel to Australia illegally in 2012.
-
-The group had boarded a trawler in Tangalle. But a fight had broken out on board, and several people had been thrown overboard.
-
-Three had drowned, while others were rescued by nearby fishing boats which informed the Sri Lanka Navy.
-
-Trump takes decisive step towards Republican Party nomination for president
-
-◼️
-
-[Data](articles/f976ccc8.json)
-
-[Extended Data](ext_articles/f976ccc8.ext.json)
-
----
-
-### Seven fishermen sentenced to death over 2012 boat hijacking and triple murder
-
-*2024-01-24 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96683/seven-fishermen-sentenced-to-death-over-2012-boat-hijacking-and-triple-murder) · `en`
-
-Seven fishermen convicted of hijacking a fishing boat and killing three other fishermen in 2012 have been sentenced to death.
-
-Accordingly, the relevant sentence was issued by the Colombo High Court, when the case was taken up this morning (24 Jan.).
-
-Colombo High Court Judge Aditya Patabendige further sentenced the accused to 29 years of Rigorous Imprisonment (RI), while imposing a fine of Rs. 2,008,500, each.
-
-In October 2012, the accused had hijacked a fishing boat (‘Thejan’) off Tangalle, and killed three fishermen aboard while critically injuring several others, in order to illegally migrate to Australia.
-
-Following a lengthy trial, the judge, announcing the verdict, said the charges levelled against the accused have been proven beyond reasonable doubt.
-
-Meanwhile, a female accused in the case was acquitted and released.
-
-...
-
-[Data](articles/10f13b4e.json)
-
-[Extended Data](ext_articles/10f13b4e.ext.json)
 
 ---

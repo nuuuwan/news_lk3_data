@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 07:44:45**
+As of **2024-01-24 07:58:55**
 
 ## Newspaper Stats
 
-*Scraped **2,182** Articles*
+*Scraped **2,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ islandlk | 123
 newsfirstlk | 124
 economynextcom | 132
 adaderanasinhalalk | 146
-dailyftlk | 176
+dailyftlk | 181
 adalk | 222
 virakesarilk | 238
 adaderanalk | 272
-tamilmirrorlk | 274
+tamilmirrorlk | 276
 dailymirrorlk | 276
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,182 (100.0%) of 2,182 articles have been extended.
+2,182 (99.7%) of 2,189 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -71,6 +71,82 @@ In some places in some places in the Galle, Western and Uva provinces, in some p
 [Data](articles/12e77fed.json)
 
 [Extended Data](ext_articles/12e77fed.ext.json)
+
+---
+
+### Is the new ITAK Leader Shritharan promoting separatism instead of federalism?
+
+*2024-01-24 05:50:54* · [`dailyftlk`](https://www.ft.lk/columns/Is-the-new-ITAK-Leader-Shritharan-promoting-separatism-instead-of-federalism/4-757709) · `en`
+
+The premier political party representing Sri Lankan Tamils in Parliament has got a new leader. The Ilankai Thamil Arasuk Katchi (ITAK) known in English as the Federal Party (FP) has elected Jaffna district Parliamentarian Sivagnanam Shritharan as its president in Trincomalee on 21 January 2024. The president elect will be formally installed in office at the party convention to be held on 28 January in Trinco. Shritharan will serve a two-year term as ITAK/FP president.
+
+Initially there were three contenders in the fray for the ITAK Presidency. The three aspirants to the ITAK leadership mantle were Mathiaparanan Abraham Sumanth-iran, Sivagnanam Shritharan and Seenit-hamby Yoheswaran. Suma-nthiran born in 1964 and Shritharan born in 1968 are both Jaffna district MPs while Yogeswaran born in 1970 is a former Batticaloa district Parliamentarian.
+
+...
+
+[Data](articles/de0c2ee3.json)
+
+---
+
+### Navigating educational and professional paths: Crucial role of psychometric assessment
+
+*2024-01-24 05:39:50* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-educational-and-professional-paths-Crucial-role-of-psychometric-assessment/4-757708) · `en`
+
+Psychometric assessments, when conducted by qualified practitioners, act as preventive tools by providing clarity on the best-fit educational and career paths
+
+In the journey toward educational and professional fulfilment, individuals often encounter pivotal decision points that shape their future trajectories. In these transformative moments, seeking the guidance of a qualified psychologist or licensed practitioner armed with psychometric assessments proves to be an invaluable compass. This article delves into the critical importance of professional assistance in comprehending personal strengths, preferences and aptitudes through psychometric assessments. It aims to highlight the role of these assessments in facilitating informed choices about educational and career paths, particularly by acknowledging the profound impact of brain development after the age of 18.
+
+...
+
+[Data](articles/7ac0eb4b.json)
+
+---
+
+### Four lessons for bridging the urban-rural e-commerce divide in Sri Lanka
+
+*2024-01-24 05:28:05* · [`dailyftlk`](https://www.ft.lk/columns/Four-lessons-for-bridging-the-urban-rural-e-commerce-divide-in-Sri-Lanka/4-757705) · `en`
+
+Some rural sellers continued to encounter delivery issues due to gaps in the availability of fast and reliable logistics services in remote areas
+
+Across the globe, e-commerce has emerged as a powerful engine of economic growth, job creation, innovation and trade integration. Research by the World Bank suggests that ‘e-commerce can flourish in developing countries and in rural areas and be a powerful instrument to create employment for semi-skilled workers, women and other groups.’ Correspondingly, the usage of e-commerce in Sri Lanka also appears to be gaining traction, with a recent report published in 20231 revealing that e-commerce is already an ‘island wide phenomenon’ in Sri Lanka, with over 50% of the survey respondents in all provinces affirming their use of e-commerce to purchase goods and services.
+
+...
+
+[Data](articles/fc816d75.json)
+
+---
+
+### Curbing spam, scam and fraud in Sri Lanka
+
+*2024-01-24 05:23:44* · [`dailyftlk`](https://www.ft.lk/columns/Curbing-spam-scam-and-fraud-in-Sri-Lanka/4-757704) · `en`
+
+The Sri Lankan Government is said to have approved the creation of an international A2P SMS centre to curtail fraud and spam. A private company, Infobip, has submitted a proposal to the Cabinet in this regard. The President has proposed appointing a committee with representatives from the Ministry of Finance, Ministry of Technology and the TRCSL to evaluate this proposal.
+
+The need for such a centre to be set up at this time, approved at Cabinet-level, and run by an international private messaging aggregator raises multiple questions.
+
+Spam, scam, and fraudulent communications are a valid cause for concern.
+
+However, we have no publicly available information on how significant the issue of scams and frauds are in Sri Lanka. It would be good to start off with knowing how bad is the spam, scam, fraud situation in Sri Lanka? Do we have numbers and statistics, gathered by the Government or independent researchers, to go by?
+
+...
+
+[Data](articles/7b8ee683.json)
+
+---
+
+### Sagala says SL economy has gained international confidence thanks to President
+
+*2024-01-24 05:18:42* · [`dailyftlk`](https://www.ft.lk/news/Sagala-says-SL-economy-has-gained-international-confidence-thanks-to-President/56-757703) · `en`
+
+National Security Senior Adviser and Chief of Staff Sagala Ratnayake yesterday declared President Ranil Wickremesinghe’s effective economic initiatives have fostered trust in the Sri Lankan economy on the global stage.
+
+He highlighted the President’s commitment to a new economic vision aimed at stabilising the country’s economy through comprehensive reforms in the financial, legal and governance sectors.
+
+Speaking at the ‘Budget 2024’ conference, organised by the President’s trade union relations division, Ratnayaka outlined the plans to position Sri Lanka as a hub for energy exports. This strategic move aligns with the President’s broader efforts to enhance the nation’s economic standing and international reputation.
+
+...
+
+[Data](articles/d26f8e93.json)
 
 ---
 
@@ -171,6 +247,34 @@ Making the relevant submissions, the NMSJ verbally informed the Commission about
 [Data](articles/d4123b9f.json)
 
 [Extended Data](ext_articles/d4123b9f.ext.json)
+
+---
+
+### இந்தியத் தூதுவருடன் அநுரகுமார சந்திப்பு
+
+*2024-01-24 03:22:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-தூதுவருடன்-அநுரகுமார-சந்திப்பு/175-332041) · `ta`
+
+தேசிய மக்கள் சக்தியின் தலைவர் அநுரகுமார திஸாநாயக்க  இலங்கைக்கான புதிய இந்தியத் தூதுவர் சந்தோஷ் ஜாவை சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இந்தச் சந்திப்பின்போது இலங்கையின் சமகால அரசியல் நிலவரங்கள் குறித்தும், பொருளாதார நெருக்கடி தொடர்பாகவும், தேசிய மக்கள் சக்தியின் எதிர்கால அரசியல் வேலைத்திட்டங்கள் குறித்தும் கலந்துரையாடப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/8ec108d6.json)
+
+---
+
+### இந்தியத் தூதுவருடன் மைத்திரி சந்திப்பு
+
+*2024-01-24 03:13:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியத்-தூதுவருடன்-மைத்திரி-சந்திப்பு/175-332040) · `ta`
+
+இலங்கைக்கான புதிய இந்தியத் தூதுவர் சந்தோஷ் ஜாவுக்கும்  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேனவுக்கும் இடையில் சந்திப்பு ஒன்று நடைபெற்றுள்ளது.
+
+கொழும்பில் உள்ள இந்தியன் இல்லத்தில் நேற்று நடைபெற்ற இந்தச் சந்திப்பில் இலங்கையின் சமகால அரசியல் நிலவரங்கள் உள்ளிட்ட பல விடயங்கள் தொடர்பில் கலந்துரையாடப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/afdfd9f7.json)
 
 ---
 
@@ -1929,133 +2033,5 @@ The Railways Department said the car had tried to cross the level crossing while
 [Data](articles/271768c7.json)
 
 [Extended Data](ext_articles/271768c7.ext.json)
-
----
-
-### We are a shooting name
-
-*2024-01-23 14:45:41* · [`adalk`](https://www.ada.lk/breaking_news/වෙඩිතැබීමකින්-හිමි-නමක්-අපවත්වෙති/11-407691) · `si`
-
-Humanity of a temple in the Malwathuhiripitiya area in Gampaha has been shot. The shooting has been carried out using a T-56 rifle.
-
-◼️
-
-[Data](articles/5420a4b6.json)
-
-[Extended Data](ext_articles/5420a4b6.ext.json)
-
----
-
-### More information about the monk who has been shocked
-
-*2024-01-23 14:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192471) · `si`
-
-The monk of Malwathu Hiripitiya temple in Gampaha was shot dead this morning.
-
-Four suspects have been shot dead and has been admitted to the Gampaha Hospital with serious injuries.
-
-The monk who was receiving treatment at the hospital has been identified today, police said.
-
-It was revealed that the 45-year-old, Kalapaluwa Dhamma Ratnane, a large number of people in the Ganaramaya Maha Viharaya.
-
-◼️
-
-[Data](articles/de372369.json)
-
-[Extended Data](ext_articles/de372369.ext.json)
-
----
-
-### A continuous medical strike
-
-*2024-01-23 14:41:24* · [`adalk`](https://www.ada.lk/breaking_news/අඛණ්ඩ-වෛද්‍ය-වර්ජනයක්/11-407690) · `si`
-
-The Government Medical Officers Association has decided to commence a continuous strike from tomorrow (24), protesting to suspend the payment of Rs.
-
-◼️
-
-[Data](articles/eefbfa69.json)
-
-[Extended Data](ext_articles/eefbfa69.ext.json)
-
----
-
-### Payment of Rs. 35,000,000 to doctors
-
-*2024-01-23 14:37:51* · [`adalk`](https://www.ada.lk/breaking_news/වෛද්‍යවරුන්ට-දුන්-රු-35000ක-දීමනාව-ගෙවීම-අත්හිටුවයි/11-407689) · `si`
-
-Doctors' Rs. The Ministry of Health states that the increase in allowances will be temporarily suspended.
-
-The suspension has been made by the Ministry of Finance to pay the allowance.
-
-Doctors are Rs. With the allowance of 35,000 health workers, other health workers. Procity measures launched for a month of 35,000.
-
-◼️
-
-[Data](articles/78f9454f.json)
-
-[Extended Data](ext_articles/78f9454f.ext.json)
-
----
-
-### Pornography on social media has increased many times - Syber crimes are very high
-
-*2024-01-23 14:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174613) · `ta`
-
-Last year, more than 100,000 nude films were exchanged in social pictures, said Public Security Minister Tran Alas 8000 cyber crimes.
-
-The Minister said this while addressing the debate on the Ceylon Protection Bill today.
-
-The first week of 2024, more than 500 pornography on social media has been exchanged among themselves.
-
-The Minister said that there may be many incidents that have not been revealed only by the CITs.
-
-The Minister said that the Minister said that the aim of controlling the crimes and the aim of controlling the crimes and the revival of racism is aimed at restricting the chaos.
-
-◼️
-
-[Data](articles/cb1c73f9.json)
-
-[Extended Data](ext_articles/cb1c73f9.ext.json)
-
----
-
-### Two persons including a foreign traveler who was traveling in a car accident
-
-*2024-01-23 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174617) · `ta`
-
-Two persons were injured in an accident on Tuesday (23) at the Mithigama railway crossing.The accident occurred when a Rajarata Regina Kadukathi train was traveling from Beliat to Mago.
-
-A local tour guide and a foreign tourist who were injured in the incident have been admitted to the hospital.
-
-The crash was reportedly due to the unprotected car when the train had been signaling.
-
-◼️
-
-[Data](articles/794c0896.json)
-
-[Extended Data](ext_articles/794c0896.ext.json)
-
----
-
-### SI arrested over Narammala ‘accidental’ shooting further remanded
-
-*2024-01-23 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96659/si-arrested-over-narammala-accidental-shooting-further-remanded) · `en`
-
-The Sub-Inspector (SI) of Police who was arrested over the alleged ‘accidental’ shooting of a lorry driver in Narammala recently has been further remanded.
-
-Accordingly, the SI was ordered remanded until 31 January on orders of the Narammala Magistrate’s Court.
-
-On Thursday (18 Jan.), a 41-year-old lorry driver was killed after a police officer in civilian attire had ‘accidentally’ discharged his firearm during a vehicle inspection. The victim was identified as a resident of Maharachchimulla area.
-
-The police media division said the driver had failed to comply with a signal to stop at a police checkpoint in Dampelessa, Narammala.
-
-The concerned SI and a Police Constable had then chased down the lorry and pulled it over for a spot inspection, during which the SI had allegedly ‘accidentally’ discharged his firearm, critically wounding the driver, who was rushed to the Narammala District Hospital, but succumbed to injuries shortly after.
-
-...
-
-[Data](articles/eb94da74.json)
-
-[Extended Data](ext_articles/eb94da74.ext.json)
 
 ---

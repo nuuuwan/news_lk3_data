@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 00:17:27**
+As of **2024-01-25 00:32:44**
 
 ## Newspaper Stats
 
-*Scraped **2,445** Articles*
+*Scraped **2,447** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,41 @@ adalk | 241
 virakesarilk | 276
 tamilmirrorlk | 304
 adaderanalk | 308
-dailymirrorlk | 325
+dailymirrorlk | 327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,445 (100.0%) of 2,445 articles have been extended.
+2,445 (99.9%) of 2,447 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-01-25 (Thursday)
+
+### Looking at Sri Lankan Independence through the eyes of Singapore
+
+*2024-01-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Looking-at-Sri-Lankan-Independence-through-the-eyes-of-Singapore/172-275675) · `en`
+
+At present, political analysts are of the opinion that there is a school of thought that it’s better for the country to allow President Ranil Wickremesinghe to continue as the first citizen of the country for a few more years, because he has made essential goods in Sri Lanka freely available, and also put a full stop to queues at fuel and gas stations.  But there are credibility issues with this government because this President hasn’t yet got rid of many lawmakers who have had questionable track records
+
+...
+
+[Data](articles/df0aded3.json)
+
+---
+
+### Think Science, Think Peace: Include more Women and Girls
+
+*2024-01-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Think-Science-Think-Peace-Include-more-Women-and-Girls/172-275673) · `en`
+
+With Sri Lanka struggling to meet its debts and stabilise the economy, vital areas include high technology and the new dimension of the positive aspects of Artificial Intelligence (AI). As in most countries, men dominate these areas, and it is important for developing countries like Sri Lanka to get more women involved, because as a popular say, “Man smart, woman smarter.” So it is, in the case of high technology.
+
+...
+
+[Data](articles/ea5c329b.json)
+
+---
 
 ### 2024-01-24 (Wednesday)
 
@@ -1985,39 +2011,5 @@ The cost of pomegranate imports can be reduced in our country, the Minister said
 [Data](articles/cce2ac98.json)
 
 [Extended Data](ext_articles/cce2ac98.ext.json)
-
----
-
-### Investigations into ‘sugar tax scam’ completed – Finance State Minister
-
-*2024-01-24 15:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96693/investigations-into-sugar-tax-scam-completed-finance-state-minister-) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya says that the Criminal Investigations Department (CID) has concluded the investigation activities regarding the alleged ‘sugar tax scam’.
-
-In response to a question raised by Opposition Leader Sajith Premadasa during today’s Parliamentary session, Siyambalapitiya expressed that the relevant documents of the investigations have been forwarded to the Attorney General in order to obtain his advice regarding the prosecution in relation to the matter.
-
-He mentioned that the response of the Attorney General has also been received so far.
-
-Meanwhile, the State Minister revealed that the Inland Revenue Department (IRD) has carried out a forensic audit regarding 12 institutions and that they have recovered Rs. 310 million from the profits generated through the alleged scam by 06 companies.
-
-◼️
-
-[Data](articles/57c1512b.json)
-
-[Extended Data](ext_articles/57c1512b.ext.json)
-
----
-
-### Withdraw online safety bill...
-
-*2024-01-24 15:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Withdraw-online-safety-bill/110-275653) · `en`
-
-Several civil organisations staged a protest today at the Polduwa junction against the online safety bill, which is paving the way for a presidential frenzy. The protestors demanded the government to withdraw the bill immediately. Pix by Nimalsiri Edirisinghe
-
-◼️
-
-[Data](articles/55c7bb8c.json)
-
-[Extended Data](ext_articles/55c7bb8c.ext.json)
 
 ---

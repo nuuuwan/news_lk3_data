@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 08:17:35**
+As of **2024-01-24 08:32:56**
 
 ## Newspaper Stats
 
-*Scraped **2,198** Articles*
+*Scraped **2,205** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,41 @@ dbsjeyarajcom | 122
 islandlk | 123
 newsfirstlk | 124
 economynextcom | 132
-adaderanasinhalalk | 146
+adaderanasinhalalk | 150
 dailyftlk | 181
 adalk | 222
-virakesarilk | 238
+virakesarilk | 240
 adaderanalk | 274
 tamilmirrorlk | 276
-dailymirrorlk | 283
+dailymirrorlk | 284
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,189 (99.6%) of 2,198 articles have been extended.
+2,198 (99.7%) of 2,205 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### ත්‍රස්ත විරෝධී පනතට එරෙහිව කාදිනල් හිමි ගෙන් පෙත්සමක්
+
+*2024-01-24 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192493) · `si`
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන ත්‍රස්ත විරෝධි පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි යැයි තීන්දු කරන ලෙස ඉල්ලා කාදිනල් අති උතුම් මැල්කම් රංජිත් හිමිපාණන් විසින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ පෙත්සමක් ගොනුකර තිබේ.
+
+පෙත්සම්කාර කාදිනල් හිමිපාණන් කියා සිටින්නේ, අදාළ පනත් කෙටුම්පතේ අන්තර්ගත විධිවිධානවලින් යුද හමුදාව,පොලීසිය සහ වෙරළාරක්ෂක බළකායට ඕනෑම පුද්ගලයකු සාධාරණ හේතුවක් නොමැතිව අත්අඩංගුවට ගෙන රඳවා ගැනීමේ බලය ලබාදී තිබෙන බවය.
+
+මේ තුළින් ආණ්ඩුක්‍රම ව්‍යවස්ථාව මඟින් සහතික කර තිබෙන පුද්ගල නිදහස, අදහස් ප්‍රකාශ කිරීම නිදහස ඇතුළු මූලික අයිතීන් උල්ලංඝනය වන බවත් උන් වහන්සේ පෙන්වා දෙයි.
+
+එබැවින් අදාළ පළාත් කෙටුම්පත සම්මත කිරීමට අවශ්‍ය නම් පාර්ලිමේන්තුවේ තුනෙන් දෙකක බහුතර ඡන්දයකින් සහ ජනමත විචාරණයකින් එය අනුමත විය යුතු බවට තීන්දුවක් ලබා දෙන ලෙසත් කාදිනල් හිමිපාණන් ශ්‍රේෂ්ඨාධිකරණයෙන් ඉල්ලා තිබේ.
+
+◼️
+
+[Data](articles/1aac769e.json)
+
+---
 
 ### Motorists on expressway cautioned over misty conditions
 
@@ -41,6 +59,26 @@ Police requested motorists using the Southern Expressway to be cautious over mi
 ◼️
 
 [Data](articles/1c079b4a.json)
+
+[Extended Data](ext_articles/1c079b4a.ext.json)
+
+---
+
+### යුක්තියට ඔත්තුවක් දුන්නොත් සල්ලි මල්ලක්
+
+*2024-01-24 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192492) · `si`
+
+නීතිවිරෝධී ගිනිඅවි හා බෝම්බ පොලිස් භාරයට ගැනීම සඳහා තොරතුරු ලබාදෙන පුද්ගලයින්ට මුදල් ත්‍යාගයක් ලබාදීමට පොලීසිය තීරණය කර තිබේ.
+
+පසුගිය වසරේ දෙසැම්බර් මස 17 වනදා සිට ආරම්භ කළ යුක්තිය මෙහෙයුම සාර්ථකව අත්අඩංගුයට ගැනීම් සිදුකර අතර ඒ සඳහා තොරතුරු ලබාදෙන ඔත්තුකරුවන් වෙත මෙම මුදල් ත්‍යාගයන් ලබාදීමට තීරණය කර ඇත.
+
+ඒ අනුව වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් සියලුම ජ්‍යේෂ්ඨ නියෝජ්‍ය පොලිස්පතිවරුන්, නියෝජ්‍ය පොලිස්පතිවරුන්, කොට්ඨාස භාර නිලධාරී සහ අධ්‍යක්ෂවරුන් වෙත මේ සම්බන්ධයෙන් උපදෙස් ලබාදී ඇත.
+
+එවැනි තොරතුරු ලබාදෙන පුද්ගලයින්ගේ රහස්‍යභාවය ආරක්ෂා කරන අතර පහත පරිදි මුදල් ත්‍යාගයන් ලබාදීමට නියමිතය.
+
+◼️
+
+[Data](articles/2211f20f.json)
 
 ---
 
@@ -58,6 +96,44 @@ Accordingly, the court order states that the protesters should not to block any 
 
 [Data](articles/9ee61b26.json)
 
+[Extended Data](ext_articles/9ee61b26.ext.json)
+
+---
+
+### අක්ෂිණ අධිවේගයේ දැඩි මීදුමක්
+
+*2024-01-24 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192491) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ දැඩි මීදුම් සහිත තත්ත්වයක් පවතින බව පොලීසිය නිවේදනය කරයි.
+
+මේ හේතුවෙන් වැලිපැන්න පිවිසුමත් පින්නදූව පිවිසුමත් අතර මාර්ගයේ ගමන් ගන්නා රියදුරන්ට විමසිලිමත්ව රිය ධාවනය කරන ලෙස පොලීසිය දැනුම් දෙයි.
+
+අධික වේගයෙන් රථවාහන ධාවනය නොකරන ලෙසට ද පොලීසිය රියදුරන්ගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/b7b4ba54.json)
+
+---
+
+### டிரான் அலஸ் நாடாளுமன்றத்தில் தெரிவித்ததை நிராகரித்தது ஆசிய இணைய கூட்டமைப்பு
+
+*2024-01-24 07:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174653) · `ta`
+
+பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலஸ் நாடாளுமன்றத்தில் நிகழ்நிலை பாதுகாப்பு சட்டம் குறித்த விவாதத்தில் வெளியிட்ட கருத்துக்களை நிராகரித்துள்ள ஆசிய இணைய கூட்டமைப்பு நிகழ்நிலை பாதுகாப்பு சட்டமூலம் அதன் தற்போதைய வடிவத்தில் முன்னெடுக்க முடியாதது மேலும் இலங்கையின் டிஜிட்டல் பொருளாதாரத்தின் சாத்தியான வளர்ச்சி மற்றும் வெளிநாட்டு முதலீட்டினை பாதிக்கும் எனவும் குறிப்பிட்டுள்ளது.
+
+உலகின் மிகவும் வலுவான இணைய தொழில்நுட்ப நிறுவனங்களை உள்ளடக்கிய அமைப்பே ஆசிய இணைய கூட்டமைப்பு என்பது குறிப்பிடத்தக்கது.
+
+இந்த அமைப்பு ஆசிய பிராந்தியத்தில் இணையம் தொடர்பான விடயங்களிற்கு தீர்வை காணவும் ஊக்குவிக்கவும் முயல்கின்றது.
+
+ஆசிய இணையகூட்டமைப்பு அப்பிள் பின்ரெஸ்ட் கூகுள் டுவிட்டர் உட்பட பல நிறுவனங்களை பிரதிநிதித்துவம் செய்கின்றது.
+
+நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குறித்து பொதுமக்கள் பாதுகாப்புஅமைச்சர் நாடாளுமன்றத்தில் தெரிவித்த கருத்துக்களை நிராகரிக்கவும் பதிலளிக்கவும் விரும்புகின்றோம் என ஆசிய இணைய கூட்டமைப்பின் முகாமைத்துவ பணிப்பாளர் ஜெவ்பெய்ன் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/37496c9e.json)
+
 ---
 
 ### Asia’s leading tech alliance refutes Minister’s comments in Parliament
@@ -71,6 +147,26 @@ AIC, an industry association, comprising leading internet and technology compani
 ...
 
 [Data](articles/d892e316.json)
+
+[Extended Data](ext_articles/d892e316.ext.json)
+
+---
+
+### විරෝධතාකරුවන් පිරිසකට අධිකරණ නියෝගයක්
+
+*2024-01-24 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192490) · `si`
+
+සමාජවාදී තරුණ සංගමයේ ජාතික සංවිධායක එරංග ගුණසේකර සහ විරෝධතාකරුවන් පිරිසක් අද (24) සංවිධානය කර තිබෙන විරෝධතාවයකට අදාළව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය නියෝගයක් නිකුත් කර තිබේ.
+
+පොල්දූව වටරවුමේ සිට පාර්ලිමේන්තු මාර්ගය අවහිර කරමින් පාර්ලිමේන්තු ප්‍රධාන දොරටුව අවහිර කරමින් සහ පාර්ලිමේන්තුවට පිවිසිය නොහැකි ලෙස ප්‍රධාන මාර්ගය අවහිර කරමින් විරෝධතාවය පැවැත්වීමට නියමිත බවට වැලිකඩ පොලීසියට ලද තොරතුරක් මත ස්ථානාධිපතිවරයා විසින් කළ ඉල්ලීමක් අනුව අධිකරණය එම නියෝගය ලබාදී තිබේ.
+
+ඒ අනුව මාර්ගය භාවිත කරන මහජනතාවට හා පදිකයින්ට අවහිර වන සේ කිසිදු මාර්ගයක් හරස් කර හෝ ප්‍රචණ්ඩක්‍රියා නොකිරීමටත්, මහජන නියොජිතයින්ගේ පාර්ලිමේන්තු වරප්‍රසාදයන් උල්ලංඝනය වන අයුරින් හා රාජකාරියේ යෙදී සිටින රාජ්‍ය නිලධාරීන්ගේ රාජකාරි සඳහා බාධාවක් සිදුවන අයුරින් හෝ කිසිදු පුද්ගලයෙකුට අවහිරයක් නොවන අයුරින් අදාළ උද්ඝෝෂණය සිදුකිරීමට වගබලාගත යුතු බව අධිකරණය දැනුම්දී තිබේ.
+
+එසේ වගකීම භාරගැනීමට නොහැකි නම් අදාළ උද්ඝෝෂණය වගඋත්තරකරුවන් විසින් නොපමාව විසුරුවා හැරිය යුතු බව ද අධිකරණය නියෝග කර ඇත.
+
+...
+
+[Data](articles/d0882c7c.json)
 
 ---
 
@@ -118,6 +214,8 @@ The Bill was placed on the Order Paper of parliament on 9 January, 2024.
 
 [Data](articles/0caa6b93.json)
 
+[Extended Data](ext_articles/0caa6b93.ext.json)
+
 ---
 
 ### Surveying today
@@ -151,6 +249,24 @@ Samagi Jana Balawegaya (SJB) Organizer for Passara Letchumanar Sanjay asks why M
 ...
 
 [Data](articles/57343039.json)
+
+[Extended Data](ext_articles/57343039.ext.json)
+
+---
+
+### Minister under fire for inviting South Indian actresses amidst austerity, hardship
+
+*2024-01-24 06:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-under-fire-for-inviting-South-Indian-actresses-amidst-austerity-hardship/108-275616) · `en`
+
+Colombo, Jan -24 (Daily Mirror) - Ceylon Workers’ Congress (CWC) General Secretary Minister Jeevan Thondaman is in the centre of controversy over the presence of South Indian actresses Aishwarya Rajesh, Aishwarya Dutta, Samyuktha Menon, and Meenakshi (Pinky Sarkar) in national Thai Pongal celebrations conducted in Hatton last Sunday.
+
+He is under fire from his political opponents who question him whether these South artistes were sponsored using tax payers’ money despite the government having declared austerity measures
+
+Samagi Jana Balawegaya (SJB) Organizer for Passara Letchumanar Sanjay asks why Mr. Thondaman took steps to celebrate the national Pongal festival in such a luxurious manner at a time when people are suffering due to the soaring cost of living.
+
+...
+
+[Data](articles/9b24a88c.json)
 
 ---
 
@@ -356,6 +472,8 @@ and businesses will see more value as a result and that will drive the transform
 
 [Data](articles/4390830e.json)
 
+[Extended Data](ext_articles/4390830e.ext.json)
+
 ---
 
 ### Meeting with Indian Ambassador
@@ -432,6 +550,8 @@ In the announcement, the Central Bank said it remains optimistic about the effec
 
 [Data](articles/775e4515.json)
 
+[Extended Data](ext_articles/775e4515.ext.json)
+
 ---
 
 ### Judgment in Harin’s expulsion case to be delivered in due course
@@ -449,6 +569,8 @@ The two government Ministers are seeking a declaration that they have not ceased
 ...
 
 [Data](articles/0c217dc9.json)
+
+[Extended Data](ext_articles/0c217dc9.ext.json)
 
 ---
 
@@ -765,6 +887,22 @@ Earlier in the day, four unidentified individuals in a car had opened fire on th
 [Data](articles/401ca10c.json)
 
 [Extended Data](ext_articles/401ca10c.ext.json)
+
+---
+
+### 7 கோடி ரூபா மின்கட்டணத்தை பாராளுமன்றம் செலுத்தவில்லை என்பது முற்றிலும் அடிப்படையற்றது - மின்சக்தி மற்றும் வலுசக்தி அமைச்சர்
+
+*2024-01-23 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174620) · `ta`
+
+ஏழு கோடி ரூபா மின்கட்டணத்தை பாராளுமன்றம் செலுத்தவில்லை என பாராளுமன்றத்தை அவமதிக்கும் வகையில் பொய்யான குற்றச்சாட்டை முன்வைத்துள்ள தொழிற்சங்க தலைவர்  ரஞ்சன் ஜயலாலை பாராளுமன்ற சிறப்புரிமை மற்றும் ஒழுக்கவியல் குழுவுக்கு அழைத்து உரிய சட்ட நடவடிக்கைகளை எடுங்கள் என மின்சாரத்துறை மற்றும் வலுசக்தி அமைச்சர் கஞ்சன விஜேசேகர சபாநாயகரிடம் வலியுறுத்தினார்.
+
+எழு கோடி ரூபா மின்கட்டணத்தை பாராளுமன்றம் செலுத்தவில்லை என சமூக வலைத்தளங்களிலும் பத்திரிகைகளிலும் பொய்யான செய்தி வெளியாகியுள்ளன. இந்த செய்தியை தொடர்ந்து நான் ஆராய்ந்து பார்த்தேன். ஒவ்வொரு மாதமும் பாராளுமன்றத்தின் மின்கட்டணம் செலுத்தப்படுகிறது.
+
+அதேபோல் ஜனாதிபதி செயலகத்தின் மின்கட்டணமும் முறையாக செலுத்தப்படுகிறது. எவ்வித நிலுவை கட்டணங்களும் இல்லை. ஆகவே பாராளுமன்றத்தை அவமதிக்கும் வகையில் உண்மைக்கு புறம்பான  விடயத்தை குறிப்பிட்டுள்ள தொழிற்சங்க தலைவர் ரஞ்சன் ஜயலாலை பாராளுமன்ற சிறப்புரிமைகள் மற்றும் ஒழுக்கவியல் குழுவுக்கு அழைத்து உரிய சட்ட நடவடிக்கை எடுங்கள் என்றார்.
+
+◼️
+
+[Data](articles/7c826950.json)
 
 ---
 
@@ -1462,6 +1600,8 @@ The DAT allowance, which was raised from Rs. 35,000 to Rs. 70,000 was suspended 
 
 [Data](articles/3f75e32d.json)
 
+[Extended Data](ext_articles/3f75e32d.ext.json)
+
 ---
 
 ### Samoa Rasinsundara from Samoa Rasinsundara from Sri Lanka
@@ -1871,159 +2011,5 @@ Israeli officials said that there was a massive explosion in the building when t
 [Data](articles/8969fda8.json)
 
 [Extended Data](ext_articles/8969fda8.ext.json)
-
----
-
-### US and UK launch new round of strikes against Houthi sites in Yemen
-
-*2024-01-23 16:10:00* · [`adaderanalk`](https://www.adaderana.lk/news/96662/us-and-uk-launch-new-round-of-strikes-against-houthi-sites-in-yemen) · `en`
-
-According to officials, the U.S. and U.K. used warship- and submarine-launched Tomahawk missiles and fighter jets to take out Houthi missile storage sites, drones and launchers.
-
-The officials, who spoke on condition of anonymity to discuss a military operation, said Australia, Bahrain, Canada and the Netherlands contributed to the mission, including with intelligence and surveillance.
-
-In a joint statement, the six allied nations said the strikes specifically targeted a Houthi underground storage site and locations associated with the Houthis’ missile and air surveillance capabilities.
-
-They added, “Our aim remains to de-escalate tensions and restore stability in the Red Sea, but let us reiterate our warning to Houthi leadership: we will not hesitate to defend lives and the free flow of commerce in one of the world’s most critical waterways in the face of continued threats.”
-
-...
-
-[Data](articles/0155eee4.json)
-
-[Extended Data](ext_articles/0155eee4.ext.json)
-
----
-
-### When its beneficiary dies when the entire ownership of the house is changed, the full rights of the house are only for his heirs who live in the house - Prasanna Ranatunga
-
-*2024-01-23 16:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174631) · `ta`
-
-The Cabinet paper has been submitted to obtain permission to implement a program issued by President Ranil Wickremesinghe under the budget proposal.
-
-The Cabinet paper has been submitted by Prasanna Ranatunga, Minister of Urban Development and Housing.
-
-In this cabinet deed, it has suggested that homeowners will be accepted by the Treasury Service to pay the cost of payments, stamp fees and other taxes.
-
-Moreover, if the original beneficiary dies when changing the entire ownership of these houses, only his heirs who are currently living in the house should be given the full rights of the houses.
-
-The Cabinet paper has been submitted for observations of the Ministry of Finance and the Cabinet meeting is to be held tomorrow.
-
-Under various city schemes, low -income families charge Rs.. Minister Prasanna Ranatunga has said that the Cabinet has proposed to stop the rental money.
-
-...
-
-[Data](articles/7f85706b.json)
-
-[Extended Data](ext_articles/7f85706b.ext.json)
-
----
-
-### Notice to include children in schools
-
-*2024-01-23 16:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192474) · `si`
-
-The Ministry of Education issued a statement that the schools have been sent to the school to include students to the first grade of schools.
-
-Admission of students to Grade 6 of schools is based on the Grade 5 Scholarship Examination.
-
-Applications should be referred to schools to include students (including A / L) students other than 1,5 and 6 years in 2024.Will be forwarded to the Ministry of Education.
-
-Also, applications to the Ministry of Education or schools in the year 2023 will not be referred to the Ministry of Education or to schools and the admission of students to schools will not be issued by the Ministry of Education.
-
-◼️
-
-[Data](articles/4f3367ac.json)
-
-[Extended Data](ext_articles/4f3367ac.ext.json)
-
----
-
-### Those who claimed to be Criminal Investigation Department officials were shot dead
-
-*2024-01-23 15:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/174628) · `ta`
-
-Malwathuhiripitiya police have released further information about the death of a Thera in the shooting of unidentified persons in the luxury car.
-
-The victim was Dammaratne Thera, 45, from Kalabalua, police said.
-
-Police investigations have revealed that he was living in a Vihara in Hanegama area and that he had come to the Malwathuhiripitiya Viharaya due to the land of the Vihara.
-
-Four people who came in the luxury car have said that they were also a Criminal Investigation Department officials.
-
-Preliminary inquiries by the police revealed that the suspects had fled and fled twice.
-
-◼️
-
-[Data](articles/db2e08a1.json)
-
-[Extended Data](ext_articles/db2e08a1.ext.json)
-
----
-
-### Lorry driver shot dead in Naramalai: Sub -Inspector
-
-*2024-01-23 15:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174621) · `ta`
-
-The explanation of the police Sub Inspector, who was arrested on charges of shooting a lorry driver in Narammalai, has been extended.
-
-Accordingly, on the orders of the Narammala Court Justice, the presentation has been extended till 31st January.
-
-A 41 -year -old lorry driver was killed in the incident which took place on the 18th.
-
-Subsequently, the Sub-Inspector and the Police Constable were sacked.
-
-◼️
-
-[Data](articles/cc917f6f.json)
-
-[Extended Data](ext_articles/cc917f6f.ext.json)
-
----
-
-### A newly built 3 -storey house
-
-*2024-01-23 15:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174622) · `ta`
-
-A newly built house has suddenly collapsed due to a ditch dug in Puducherry in Puducherry in Tamil Nadu.
-
-The house has collapsed as the new festival was held.
-
-In this case, the side of the mouth was renovated by the Becko machine this afternoon and action was taken to raise the wall.
-
-For this purpose, the JCP machine was involved. This caused vibration to the houses that were built. The people of the area expressed their opposition to this.
-
-In this case, a three -storey building, which was suddenly built in the area, collapsed. The civilians, the police and the former MLA Anbalakan ran from there to an unexpectedly unexpectedly.
-
-The house was to be held in a few more days. In this case, the new house has fallen.
-
-There was no one inside the house as the house was completed and the planet was not done. There was no danger to anyone as those who were standing outside were running out. Residents of the area went on strike, accusing them of collapse due to excessive sand.
-
-◼️
-
-[Data](articles/943fc0b0.json)
-
-[Extended Data](ext_articles/943fc0b0.ext.json)
-
----
-
-### Sri Lanka arrests six Indian fishermen for poaching in its waters
-
-*2024-01-23 15:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-arrests-six-Indian-fishermen-for-poaching-in-its-waters/108-275579) · `en`
-
-Colombo, Jan 23 (PTI) The Sri Lankan Navy has arrested six Indian fishermen and seized their trawlers for allegedly poaching in the island nation’s waters, an official statement said on Tuesday, in the fourth such incident this month.
-
-The fishermen were arrested, and their two trawlers were seized on Monday north of the Delft Island, Jaffna, the Sri Lanka Navy said in a press release.
-
-The six apprehended fishermen were escorted to the Kankasanthurai Harbour and will be handed over to the Mailadi Fisheries Inspector for further action, it said.
-
-Last week, as many as 18 Indian fishermen were arrested, and their two trawlers seized for allegedly poaching in Sri Lankan waters.
-
-The fishermen issue is a contentious one in the ties between India and Sri Lanka, with Lankan Navy personnel even firing at Indian fishermen in the Palk Strait and seizing their boats in several alleged incidents of illegally entering Sri Lankan territorial waters.
-
-...
-
-[Data](articles/a4dac3b9.json)
-
-[Extended Data](ext_articles/a4dac3b9.ext.json)
 
 ---

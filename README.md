@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 01:33:04**
+As of **2024-01-25 01:51:34**
 
 ## Newspaper Stats
 
-*Scraped **2,453** Articles*
+*Scraped **2,457** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,8 +14,8 @@ dbsjeyarajcom | 122
 islandlk | 133
 newsfirstlk | 135
 economynextcom | 151
-dailyftlk | 186
 adaderanasinhalalk | 188
+dailyftlk | 190
 adalk | 241
 virakesarilk | 276
 tamilmirrorlk | 305
@@ -26,25 +26,79 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,452 (100.0%) of 2,453 articles have been extended.
+2,453 (99.8%) of 2,457 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### ’நான்காவது தூணை அடக்கும் சட்டம்’
+### First suspect arrested for murder of Royal Beach Saman
 
-*2024-01-25 00:25:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்காவது-தூணை-அடக்கும்-சட்டம்/175-332083) · `ta`
+*2024-01-25 01:08:50* · [`dailyftlk`](https://www.ft.lk/news/First-suspect-arrested-for-murder-of-Royal-Beach-Saman/56-757737) · `en`
 
-மக்களின் கருத்துச் சுதந்திரத்தை கல்லறையில் வைக்கும் வகையிலேயே நிகழ்நிலை காப்புச் சட்டம் அமையும் என்று தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் கோவிந்தம் கருணாகரம் தெரிவித்தார்.
+The Police yesterday arrested the one suspect believed to be connected to the recent killing of Ape Jana Bala Pakshaya leader Saman Prasanna Perera alias Royal Beach Saman who was shot
 
-பாராளுமன்றத்தில்  புதன்கிழமை (24) நடைபெற்ற நிகழ்நிலை காப்புச் சட்டம் மீதான இரண்டாம் நாள் விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+dead along with five others by an unidentified group in Beliatta on Monday.
 
-இந்த நிகழ்நிலை காப்பு சட்டமானது ஜனநாயகத்தின் தூண்களில் நான்காவது தூணான ஊடகத்தை அடக்குவதற்கான சட்டமா? இல்லையென்றால் நல்லமுறையில் ஊடகத்தை வளப்படுத்துவதற்கான சட்டமா என்பதனை பொறுத்திருந்தே பார்க்க வேண்டும். இந்த சட்டமூலம் இன்றைய காலகட்டத்தில் எதற்காக கொண்டுவருகின்றது என்ற கேள்விகள் அனைவரிடத்திலும் உள்ளது. அரசியலமைப்பில் போதுமான உரிமைகள் வழங்கப்பட்டுள்ளது. அவ்வாறான அரசியலமைப்பை பேணிப் பாதுகாக்க வேண்டியவர்களே அரசியலமைப்பை மீறும் செயலாகவே இதனை பார்க்கின்றேன்.
+The suspect was arrested in Matara by a police team led by the OIC of the Hakmana Police. The suspect has been identified as 54-year-old Saman Kumara, who was once employed as a businessman at the Manning Market in Colombo.
+
+According to investigators he is believed to be the driver of the Pajero used by the assailants for the killing and the mastermind of the crime.
+
+Meanwhile, the Police also discovered the vehicle used by the assailants in the vicinity of Vidyaloka Pirivena in Galle. The discovery was made based on the information provided by the suspect.
 
 ...
 
+[Data](articles/8d5c68ae.json)
+
+---
+
+### Speaker endorses certificate on four Bills
+
+*2024-01-25 01:07:42* · [`dailyftlk`](https://www.ft.lk/news/Speaker-endorses-certificate-on-four-Bills/56-757736) · `en`
+
+The Speaker of House Mahinda Yapa Abeywardana has endorsed the certificate on four Bills.
+
+The Speaker endorsed the certificate on the Powers of Attorney (Amendment) Bill, Prevention of Frauds (Amendment) Bill, the Mediation Board (Amendment) Bill and the Office for National Unity and Reconciliation Bill on Tuesday.
+
+Accordingly, the four Bills will come into effect as the Office for National Unity and Reconciliation Act No.1 of 2024, the Mediation Board (Amendment) Act No.2 of 2024, Powers of Attorney (Amendment) Act No. 3 of 2024 and Prevention of Frauds (Amendment) Act No. 4 of 2024.
+
+◼️
+
+[Data](articles/75185383.json)
+
+---
+
+### Lankan envoy discusses future trajectory of Sri Lanka-UK ties with UK Speaker
+
+*2024-01-25 01:07:35* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-discusses-future-trajectory-of-Sri-Lanka-UK-ties-with-UK-Speaker/56-757735) · `en`
+
+High Commissioner of Sri Lanka to the United Kingdom Rohitha Bogollagama had a meeting on 23 January 2024, with the Speaker of the UK Parliament Lord McFall of Alcluith. The discussions centred on enhancing relations between Sri Lanka and the United Kingdom, and its future trajectory.
+
+During the meeting, the High Commissioner and Speaker Lord McFall discussed a wide array of topics covering contemporary international relations, the reconciliation process in Sri Lanka, and the enhancement of bilateral relations. The High Commissioner also briefed the Speaker on Sri Lanka’s constitutional reforms. The exchange of ideas and perspectives aimed to foster greater understanding and cooperation in the Sri Lanka-UK relationship.
+
+...
+
+[Data](articles/65bcb997.json)
+
+---
+
+### The Fourth Pillar of Pillar
+
+*2024-01-25 00:25:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்காவது-தூணை-அடக்கும்-சட்டம்/175-332083) · `ta`
+
+Tamil National Alliance (TNA) parliamentarian Govindam Karunagaram said that the event will be aimed at putting people's freedom of expression into the grave.
+
+He said this while addressing the second day of debate on the event on Wednesday (24) in Parliament.
+
+Is this the Faculty Backup Act to suppress the fourth pillar of the pillars of democracy?Otherwise it is to be seen as a law for enriching the media. Everyone has questions as to why this bill is being brought in today. Have been granted adequate rights in the Constitution. I see this as a violation of the constitution.
+
+My opinion is that the government is bringing the bill so that there is no such thing as a struggle. The fear of the rulers manifests in this bill. He said the bill would be put in the grave of people's freedom of expression.
+
+◼️
+
 [Data](articles/6c7a3435.json)
+
+[Extended Data](ext_articles/6c7a3435.ext.json)
 
 ---
 
@@ -219,6 +273,20 @@ Police said two unidentified men on a motorbike fled after fleeing.
 [Data](articles/f5041ffd.json)
 
 [Extended Data](ext_articles/f5041ffd.ext.json)
+
+---
+
+### Shritharan shock, Presidential election wild card and crippled SJB strategy
+
+*2024-01-24 22:52:56* · [`dailyftlk`](https://www.ft.lk/columns/Shritharan-shock-Presidential-election-wild-card-and-crippled-SJB-strategy/4-757720) · `en`
+
+Sri Lanka’s Tamil politics just has a new leader. Sivagnanam Shritharan is not the leader I would have hoped and wished for the Tamil people—I was expecting and rooting for M.A. Sumanthiran, a sophisticated postwar parliamentarian—but that’s democracy and the autonomous choice of a community.
+
+The choice of Shritharan, a hardcore Tamil nationalist with sympathy for the LTTE including in wartime, indicates the propensity of Tamil nationalism towards what may seem like separatism but is at root, isolationism, involution. The result is political marginality.
+
+...
+
+[Data](articles/d5e91a9d.json)
 
 ---
 
@@ -1925,79 +1993,5 @@ Earlier Wednesday, Ukrainian President Volodymyr Zelenskyy said a major Russian 
 [Data](articles/2bde1086.json)
 
 [Extended Data](ext_articles/2bde1086.ext.json)
-
----
-
-### A terrible air accident
-
-*2024-01-24 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192516) · `si`
-
-A Russian military plane has collapsed at the nearest border of Ukraine.
-
-Foreign media said that the aircraft had collapsed to the South Belgorod area and had 65 people on the plane.
-
-The BBC reported that the aircraft had been in Ukrainian prisoners.
-
-◼️
-
-[Data](articles/83a61510.json)
-
-[Extended Data](ext_articles/83a61510.ext.json)
-
----
-
-### Former senior secretary and 7 other remanded
-
-*2024-01-24 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192515) · `si`
-
-Former Secretary to the Ministry of Health, Sri Chandragupa and the six suspects were further remanded until February 1.
-
-Investigations carried out regarding the purchasing output and vaccination of that standard.
-
-◼️
-
-[Data](articles/01e995ad.json)
-
-[Extended Data](ext_articles/01e995ad.ext.json)
-
----
-
-### Army Commander joins paratrooper jump
-
-*2024-01-24 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Army-Commander-joins-paratrooper-jump/110-275655) · `en`
-
-Kudaoya, Jan 24 (Daily Mirror) - Army Commander Lieutenant General Vikum Liyanage participated in paratrooper jump over the Uhana Air Force Base drop zone with a group of airborne soldiers.
-
-The Sri Lanka Arny said the Commander's journey to become a military paratrooper took place at the Commando Regiment Training School (CRTS) in Kudaoya.
-
-On 22 January 2024, the Commander of the Army, with other participants including 18 military personnel from the Maldives National Defence Force and 14 members from the Sri Lanka Army, took to the skies aboard an MI-17 helicopter from the Uhana Air Force Base runway.
-
-This achievement is particularly a significant milestone in the annals of military history as it marks the first-ever attainment of the designation; Military Para Trooper by a distinguished individual holding the esteemed rank of Lieutenant General, who is concurrently serving as the Commander of the Army.
-
-...
-
-[Data](articles/120de450.json)
-
-[Extended Data](ext_articles/120de450.ext.json)
-
----
-
-### Army Commander joins paramilitary jump
-
-*2024-01-24 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Army-Commander-joins-paramilitary-jump/110-275655) · `en`
-
-Kudaoya, Jan 24 (Daily Mirror) - Army Commander Lieutenant General Vikum Liyanage participated in parachute jumps over the Uhana Air Force Base drop zone with a group of airborne soldiers.
-
-The Sri Lanka Arny said the Commander's journey to become a military paratrooper took place at the Commando Regiment Training School (CRTS) in Kudaoya.
-
-On 22 January 2024, the Commander of the Army, with other participants including 18 military personnel from the Maldives National Defence Force and 14 members from the Sri Lanka Army, took to the skies aboard an MI-17 helicopter from the Uhana Air Force Base runway.
-
-This achievement is particularly a significant milestone in the annals of military history as it marks the first-ever attainment of the designation; Military Para Trooper by a distinguished individual holding the esteemed rank of Lieutenant General, who is concurrently serving as the Commander of the Army.
-
-...
-
-[Data](articles/8e9cb455.json)
-
-[Extended Data](ext_articles/8e9cb455.ext.json)
 
 ---

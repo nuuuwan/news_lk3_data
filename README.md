@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 14:50:40**
+As of **2024-01-24 15:02:22**
 
 ## Newspaper Stats
 
-*Scraped **2,310** Articles*
+*Scraped **2,312** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ adaderanasinhalalk | 164
 dailyftlk | 181
 adalk | 229
 virakesarilk | 254
-adaderanalk | 288
+adaderanalk | 290
 tamilmirrorlk | 290
 dailymirrorlk | 298
 
@@ -26,11 +26,43 @@ dailymirrorlk | 298
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,310 (100.0%) of 2,310 articles have been extended.
+2,312 (100.0%) of 2,312 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Self-proclaimed ‘Avalokiteshvara Bodhisattva’ further remanded
+
+*2024-01-24 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96692/self-proclaimed-avalokiteshvara-bodhisattva-further-remanded) · `en`
+
+The self-proclaimed ‘Avalokiteshvara Bodhisattva’, Mahinda Kodituwakku has been remanded until February 07. He was produced before the Colombo Fort Magistrate’s Court earlier today.
+
+◼️
+
+[Data](articles/01f1601f.json)
+
+[Extended Data](ext_articles/01f1601f.ext.json)
+
+---
+
+### Speaker endorses certificate on four Bills
+
+*2024-01-24 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96691/speaker-endorses-certificate-on-four-bills) · `en`
+
+The Speaker of the Parliament Mahinda Yapa Abeywardana announced to the House today (Jan 24) that he endorsed the certificate on four Bills.
+
+Accordingly, the Powers of Attorney (Amendment) Bill, Prevention of Frauds (Amendment) Bill, the Mediation Board (Amendment) Bill and the Office for National Unity and Reconciliation Bill which were passed in Parliament recently, have been certified by the Speaker on Tuesday (23).
+
+Thus, the said Bills will come into effect as the Office for National Unity and Reconciliation Act No.1 of 2024, the Mediation Board (Amendment) Act No.2 of 2024, Powers of Attorney (Amendment) Act No. 3 of 2024 and Prevention of Frauds (Amendment) Act No. 4 of 2024.
+
+◼️
+
+[Data](articles/a2781a89.json)
+
+[Extended Data](ext_articles/a2781a89.ext.json)
+
+---
 
 ### Mocking the woman is not tortured: the court
 
@@ -142,21 +174,19 @@ This would foster a skilled and certified workforce, promote environmental susta
 
 *2024-01-24 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96690/suspect-arrested-over-mass-shooting-in-beliatta-) · `en`
 
-A suspect has been arrested over his complicity in the killing of five persons in Beliatta.
+A suspect has been arrested over his alleged complicity in the recent killing of five persons at Beliatta in Hambantota District.
 
-The arrest was made in Matara today, according to the police.
+The arrest was made in Matara today (24), according to the police.
 
-The arrestee was reportedly the driver of the vehicle used by the assailants and is also suspected to have orchestrated the mass shooting which took place on Tuesday (Jan.23).
+The arrestee is believed to have been the driver of the vehicle used by the assailants and is also suspected of having orchestrated the mass shooting which took place on Tuesday (Jan.23).
 
 Earlier today, the vehicle used by the assailants was found parked near the Vidyaloka Pirivena in Galle.
 
-On 23 January, a group of persons who had arrived in a double-cab had opened fire at a Defender near the Beliatta Interchange of the Southern Expressway.
+On 23 January, a group of persons who had arrived in an SUV had opened fire at a white Defender near the Beliatta Interchange of the Southern Expressway.
 
-In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he had succumbed to injuries shortly after.
+In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he succumbed to injuries shortly after.
 
-Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of People Party or OPPP) Saman Perera.
-
-◼️
+...
 
 [Data](articles/c0cfabf6.json)
 
@@ -308,11 +338,11 @@ Mr. Siyambalapitiya has revealed the question raised by the opposition leader Sa
 
 *2024-01-24 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96688/controversial-monk-vishwa-buddha-further-remanded) · `en`
 
-The Colombo Magistrate’s Court has ordered the saffron-robbed monk claiming to be ‘Vishwa Buddha’ to be further remanded in custody until January 29, 2024.
+The Colombo Magistrate’s Court has ordered to further remand in custody the saffron-robed monk, claiming to be ‘Vishwa Buddha’, until January 29, 2024.
 
 He was presented before the Colombo Additional Magistrate this morning (Jan. 24), as per an order issued by the Gangodawila Magistrate’s Court in Nugegoda on Tuesday (Jan.21).
 
-The suspect, who was out on bail, was re-arrested on Tuesday morning by the Criminal Investigations Department (CID) over breach of bail conditions, and was presented before the Gangodawila Magistrate’s Court.
+The suspect, who was out on bail, was re-arrested on Tuesday morning by the Criminal Investigations Department (CID) over breach of bail conditions and was presented before the Gangodawila Magistrate’s Court.
 
 Earlier, the monk was arrested on December 12 at a private establishment in Kalagedihena by the cybercrimes unit of the Criminal Investigation Department (CID), acting on a complaint received against the self-styled monk who was residing in Ratnapura.
 
@@ -2005,47 +2035,5 @@ The petitioner has presented the petition, demanding legal action against the of
 [Data](articles/9eb14785.json)
 
 [Extended Data](ext_articles/9eb14785.ext.json)
-
----
-
-### Transparency International Sri Lanka challenges Microfinance Bill in Supreme Court
-
-*2024-01-24 06:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Transparency-International-Sri-Lanka-challenges-Microfinance-Bill-in-Supreme-Court/108-275610) · `en`
-
-Says proposed legislation lacks adequate provisions to effectively address and establish a suitable regulatory framework
-
-Asserts Bill does not conform to the principles of reasonableness
-
-Points out the Bill excludes certain entities that dominate the microfinance industry
-
-In a significant move, Transparency International Sri Lanka (TISL) has submitted a Special Determination petition to the Supreme Court, contesting the ‘Microfinance and Credit Regulatory Authority Bill.’
-
-The organisation asserted that the proposed legislation lacks adequate provisions to effectively address and establish a suitable framework for regulating the exploitative and predatory practices observed among microfinance lenders at the grassroots level.
-
-The Bill was placed on the Order Paper of parliament on 9 January, 2024.
-
-...
-
-[Data](articles/0caa6b93.json)
-
-[Extended Data](ext_articles/0caa6b93.ext.json)
-
----
-
-### Surveying today
-
-*2024-01-24 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192487) · `si`
-
-The Department of Meteorology announces that a key weather in the island is mainly there.
-
-In some places in the Nuwara Eliya district, there is a possibility of a flower.
-
-In some places in some places in the Galle, Western and Uva provinces, in some places, are expected to be meto.
-
-◼️
-
-[Data](articles/12e77fed.json)
-
-[Extended Data](ext_articles/12e77fed.ext.json)
 
 ---

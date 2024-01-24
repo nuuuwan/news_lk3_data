@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 13:02:22**
+As of **2024-01-24 13:17:05**
 
 ## Newspaper Stats
 
-*Scraped **2,288** Articles*
+*Scraped **2,292** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,43 @@ dbsjeyarajcom | 122
 newsfirstlk | 129
 islandlk | 133
 economynextcom | 135
-adaderanasinhalalk | 162
+adaderanasinhalalk | 164
 dailyftlk | 181
 adalk | 227
 virakesarilk | 253
 adaderanalk | 286
 tamilmirrorlk | 286
-dailymirrorlk | 296
+dailymirrorlk | 298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,285 (99.9%) of 2,288 articles have been extended.
+2,288 (99.8%) of 2,292 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### සීනි බදු වංචාවේ පරීක්ෂණ ගැන අලුත්ම තත්ත්වය
+
+*2024-01-24 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192507) · `si`
+
+සීනි බදු වංචාවක් සිදුවූ බවට වූ චෝදනාව සම්බන්ධයෙන් අපරාධ පරීක්‍ෂණ දෙපාර්තමේන්තුව පරීක්ෂණ නිමකර ඇති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+
+එම පරීක්ෂණයේ ලිපි ගොනු උපදෙස් ලබාගැනීම සඳහා නීතිපතිවරයාට යොමු කර ඇති බවද  මුදල් රාජ්‍ය අමාත්‍යවරයා පවසයි.
+
+එසේ කර ඇත්තේ එම වංචාවට නඩු දැමීම සඳහා උපදෙස් ලබාගැනීමට බව ඔහු කීය.
+
+දේශීය ආදායම් දෙපාර්තමේන්තුව ආයතන 12ක් සම්බන්ධයෙන් වෝහාරික විගණනයක් කර ඇති බවත් එමගින් ආයතන 6කින් ඔවුන් ලැබූ ලාබයෙන් රුපියල් කෝටි 31ක් අයකර ගෙන ඇති බවත් රාජ්‍ය අමාත්‍යවරයා හෙළිකළේය.
+
+විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සීනි බදු වංචාව සම්බන්ධයෙන් මතු කළ ප්‍රශ්නයකට පිළිතුරු දෙමින් සියඹලාපිටිය මහතා ඒ බව හෙළිකළේය.
+
+◼️
+
+[Data](articles/512f70d9.json)
+
+---
 
 ### Controversial monk ‘Vishwa Buddha’ further remanded
 
@@ -49,6 +69,28 @@ According to police, the saffron-robbed monk had allegedly issued statements dem
 ◼️
 
 [Data](articles/f2eb57b1.json)
+
+[Extended Data](ext_articles/f2eb57b1.ext.json)
+
+---
+
+### විශ්ව බුද්ධ නැවතත් රිමාන්ඩ්
+
+*2024-01-24 12:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192506) · `si`
+
+"විශ්ව බුද්ධ" නමින් පෙනී සිටි චීවරධාරියා ලබන 29 වනදා දක්වා යළි රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ අතිරේක මහෙස්ත්‍රාත්වරයා නියෝග කර තිබේ.
+
+ඔහු අද (24) කොළඹ අතිරේක මහෙස්ත්‍රාත් පසන් අමරසේන මහතා හමුට ඉදිරිපත් කිරීමෙන් අනතුරුව එම නියෝගය ලබා දුනි.
+
+එමෙන්ම සැකකරු ලබන 29 වනදා කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කරන ලෙසටද කොළඹ අතිරේක මහෙස්ත්‍රාත්වරයා අද බන්ධනාගාර දෙපාර්මේන්තුවට නියෝග කළ බව අද දෙරණ වාර්තාකරු පැවසීය.
+
+සැකකාර චීවරධාරියා පසුගිය සතියේ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන ගංගොඩවිල මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබුණි.
+
+එහිදී සැකකාර චීවරධාරිය අද දින කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කරන ලෙසත් ලබන 26 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙසත් ගංගොඩවිල මහෙස්ත්‍රාත් අධිකරණය නියෝග කළේය.
+
+◼️
+
+[Data](articles/5f1d03cd.json)
 
 ---
 
@@ -69,6 +111,8 @@ Meanwhile, 08 cattle have also been killed in the accident, Ada Derana reporter 
 ◼️
 
 [Data](articles/fdfe580f.json)
+
+[Extended Data](ext_articles/fdfe580f.ext.json)
 
 ---
 
@@ -91,6 +135,8 @@ Death sentence for 7, for 3 murders on illegal boat to Australia
 ...
 
 [Data](articles/d726523f.json)
+
+[Extended Data](ext_articles/d726523f.ext.json)
 
 ---
 
@@ -1636,6 +1682,22 @@ In some places in some places in the Galle, Western and Uva provinces, in some p
 
 ---
 
+### Jeevan Thondaman under fire for inviting South Indian actresses amidst austerity, hardship
+
+*2024-01-24 06:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Jeevan-Thondaman-under-fire-for-inviting-South-Indian-actresses-amidst-austerity-hardship/155-275616) · `en`
+
+Colombo, Jan -24 (Daily Mirror) - Ceylon Workers’ Congress (CWC) General Secretary Minister Jeevan Thondaman is in the centre of controversy over the presence of South Indian actresses Aishwarya Rajesh, Aishwarya Dutta, Samyuktha Menon, and Meenakshi (Pinky Sarkar) in national Thai Pongal celebrations conducted in Hatton last Sunday.
+
+He is under fire from his political opponents who question him whether these South artistes were sponsored using tax payers’ money despite the government having declared austerity measures
+
+Samagi Jana Balawegaya (SJB) Organizer for Passara Letchumanar Sanjay asks why Mr. Thondaman took steps to celebrate the national Pongal festival in such a luxurious manner at a time when people are suffering due to the soaring cost of living.
+
+...
+
+[Data](articles/0edca7a7.json)
+
+---
+
 ### Minister under fire for Inviting South Indian actresses amidst austerity, hardship
 
 *2024-01-24 06:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-under-fire-for-Inviting-South-Indian-actresses-amidst-austerity-hardship/108-275616) · `en`
@@ -1939,81 +2001,5 @@ The meeting, which was held yesterday at the Indian House in Colombo, discussed 
 [Data](articles/afdfd9f7.json)
 
 [Extended Data](ext_articles/afdfd9f7.ext.json)
-
----
-
-### International confidence
-
-*2024-01-24 03:05:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சர்வதேச-அளவில்-நம்பிக்கை-ஏற்பட்டுள்ளது/175-332039) · `ta`
-
-Sakala Ratnayake, a senior adviser to the National Security and President of the President, said that the proper economic program launched by President Ranil Wickremesinghe has been able to build the confidence in the international community in the international community.
-
-Sagala Ratnayake said this during the '2024 Budget' seminar held at the Presidential Secretariat yesterday. As he further stated,
-
-When President Ranil Wickremesinghe took over the country, there was a severe economic crisis in the country. Fuel rows, gas rows and bells occurred in the bell account. The economic crisis was caused by the decline of state income, the wrong agriculture policy and the reduction of tax files, due to the tax policy implemented.
-
-...
-
-[Data](articles/aaf6f99b.json)
-
-[Extended Data](ext_articles/aaf6f99b.ext.json)
-
----
-
-### The Sri Lankan who has won the world from the glory of education
-
-*2024-01-24 02:38:22* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c72gdep5x24o) · `si`
-
-The Sri Lankan who has won the world from the glory of education
-
-Norless where the thief had taken their enemies - no pit in water
-
-Even angry, the king did not take the king - the older manner ...
-
-Education is used by 'Eyes' and we are used in our society. The idea is that the world will see the opportunity to see the world.
-
-We are preparing to mark the International Education Day (January 24).
-
-He is the name Sugath Ratnayake. He is educated in the Hadaya village in Moneragala and Dambagalla, Dambagalla Maha Vidyalaya, the village of Dambagalla.
-
-The way to cross him all this distance was created because of the glory of education.
-
-Is it more time to finish education in Sri Lanka?
-
-The success of 11 brothers and sisters with the mother and father of chena and paddy fields were born and the success of the education was not easy.
-
-...
-
-[Data](articles/4390789c.json)
-
-[Extended Data](ext_articles/4390789c.ext.json)
-
----
-
-### Central Bank maintains key policy rates amidst inflation concerns
-
-*2024-01-24 02:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Central-Bank-maintains-key-policy-rates-amidst-inflation-concerns/155-275614) · `en`
-
-Says January inflation could travel near 7% due to higher VAT, supply snags
-
-However, says inflation would return to 5% as price pressures would largely be transitory
-
-Asserts it wants to see further downward adjustments in yields and lending rates from past rate cuts
-
-As per the announcement, Monetary Policy Board does not see demand pressures, leaving door open for further easing
-
-In line with widespread predictions, the Central Bank opted to keep its key policy rates unchanged at 9 and 10 percent during its inaugural Monetary Policy announcement for the year. The
-
-Central Bank Governor Dr. Nandalal Weerasinghe addressing the media following the first Monetary Policy review meeting for 2024
-
-decision aims to stabilise inflation expectations at 5 percent and allow the market additional time to align their rates downward.
-
-In the announcement, the Central Bank said it remains optimistic about the effectiveness of previous monetary easing measures, indicating further room for implementation.
-
-...
-
-[Data](articles/775e4515.json)
-
-[Extended Data](ext_articles/775e4515.ext.json)
 
 ---

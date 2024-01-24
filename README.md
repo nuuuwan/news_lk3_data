@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 23:52:22**
+As of **2024-01-25 00:03:08**
 
 ## Newspaper Stats
 
-*Scraped **2,435** Articles*
+*Scraped **2,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 47
 dbsjeyarajcom | 122
 islandlk | 133
 newsfirstlk | 135
-economynextcom | 144
+economynextcom | 151
 dailyftlk | 181
 adaderanasinhalalk | 188
 adalk | 241
 virakesarilk | 276
-tamilmirrorlk | 301
+tamilmirrorlk | 304
 adaderanalk | 308
 dailymirrorlk | 325
 
@@ -26,11 +26,57 @@ dailymirrorlk | 325
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,435 (100.0%) of 2,435 articles have been extended.
+2,435 (99.6%) of 2,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### வீட்டுக்கு வந்த அழையா விருந்தாளியால் பீதியில் மக்கள்
+
+*2024-01-24 23:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டுக்கு-வந்த-அழையா-விருந்தாளியால்-பீதியில்-மக்கள்/175-332082) · `ta`
+
+ஹொரவபொத்தான, கடுவரகொல்லாவ பகுதியில் உள்ள வீடொன்றிற்கு 14 அடி நீள முதலை ஒன்று வந்துள்ளது.
+
+இதையடுத்து ஹொரவபொத்தான வனவிலங்கு அலுவலக அதிகாரிகள் இந்த முதலையைப் பிடித்து ஹொரவபொத்தான தேசிய பூங்காவில் விட்டனர். R
+
+◼️
+
+[Data](articles/533ba696.json)
+
+---
+
+### 22 வயதுடைய பொலிஸ் கான்ஸ்டபிள் மரணம்
+
+*2024-01-24 23:37:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-வயதுடைய-பொலிஸ்-கான்ஸ்டபிள்-மரணம்/175-332081) · `ta`
+
+திஸ்ஸமஹாராம கதிர்காமம் வீதியில் புஞ்சி அகுருகொட பிரதேசத்தில் இன்று (24) பிற்பகல் இடம்பெற்ற விபத்தில் பொலிஸ் அதிகாரி ஒருவர் உயிரிழந்துள்ளார்.
+
+கதிர்காமம் பொலிஸ் பிரிவில் கடமையாற்றும் வெலிமடையைச் சேர்ந்த 22 வயதுடைய பொலிஸ் கான்ஸ்டபிள் ஒருவரே உயிரிழந்துள்ளார்.
+
+தனியார் பஸ் ஒன்று இரட்டைக் கோடு விதிகளை மீறி, அதே திசையில் சென்ற டிராக்டரை முந்திச் செல்லும் போது, ​​எதிரே வந்த மோட்டார் சைக்கிள் மீது மோதியது.
+
+இந்த விபத்தில் மோட்டார் சைக்கிளின் பின்னால் சென்ற பொலிஸ் கான்ஸ்டபிள் பலத்த காயங்களுக்கு உள்ளாகி தெபரவெவ வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/c6e38a56.json)
+
+---
+
+### ஜிந்துப்பிட்டியில் துப்பாக்கிச் சூடு
+
+*2024-01-24 23:20:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜிந்துப்பிட்டியில்-துப்பாக்கிச்-சூடு/175-332080) · `ta`
+
+கொழும்பு ஜிந்துபிட்டிய பகுதியில் இன்று இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவர் துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/f5041ffd.json)
+
+---
 
 ### Parents arrested after leaving children alone at home to fulfill religious vow
 
@@ -710,6 +756,26 @@ Parliament, Jan. 24 (Daily Mirror)- The Online Safety Bill was passed with amend
 
 ---
 
+### Pandemonium as opposition says Sri Lanka online law changes not in line with SC order
+
+*2024-01-24 18:30:00* · [`economynextcom`](https://economynext.com/pandemonium-as-opposition-says-sri-lanka-online-law-changes-not-in-line-with-sc-order-148666/) · `en`
+
+ECONOMYNEXT – Sri Lanka ruling party legislators formed a ring around chief government whip Susil Premjayntha amid strong protests from the opposition that revisions to a controversial online speech bill suggested by the government did not comply with a Supreme Court order.
+
+The Supreme Court ruled that 31 provisions of the so-called online safety law that sought to control social media and online speech, was against the constitution.
+
+The law passed with 108 votes of the 225-member assembly voting in favour with the main opposition vowing to overhaul the law if they came to power.
+
+RELATED Sri Lanka parliament passes online speech law despite opposition
+
+Opposition legislator M A Sumanthiran, a lawyer, said 13 amendments circulated among legislators overnight to be included in the so-called ‘committee stage’ or final reading at parliament, did not comply with the Supreme Court order.
+
+...
+
+[Data](articles/046b1208.json)
+
+---
+
 ### Before final procession...
 
 *2024-01-24 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Before-final-procession/110-275661) · `en`
@@ -946,6 +1012,26 @@ They claimed that certain provisions holding online platforms and social media n
 
 ---
 
+### Sri Lanka parliament passes online speech law despite opposition
+
+*2024-01-24 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-passes-online-speech-law-despite-opposition-148648/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Parliament passed a controversial Online Safety Bill on Wednesday.
+
+Legislators had passionately argued for and against the proposed law over two days.
+
+Rights groups and international technology groups had expressed concerns about the law saying that it will stifle freedom of speech on the internet.
+
+The bill, along with a new counter-terror law have drawn criticism from various quarters including civil society.
+
+Meanwhile, around 71.6 percent of the Sri Lankan public are unaware of the Online Safety Bill, a CPA survey found. (Colombo/Jan24/2024)
+
+◼️
+
+[Data](articles/c1c06f03.json)
+
+---
+
 ### Online Bill Seventh Reading is passed by more
 
 *2024-01-24 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192522) · `si`
@@ -1026,6 +1112,30 @@ Minister Prasanna Ranatunga added that if there is a delay in providing solution
 
 ---
 
+### Sri Lanka rupee closes stronger at 318.10/40 to the US dollar
+
+*2024-01-24 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-318-10-40-to-the-us-dollar-148640/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 318.10/40 to the US dollar on Wednesday, from 319.80/95 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 closed at 13.05/15 percent from 13.30/40 percent.
+
+A bond maturing on 15.09.2027 closed at 13.35/50 percent from 13.60/75 percent.
+
+A bond maturing on 15.03.2028 closed at 13.60/75 percent from 13.85/95 percent.
+
+A bond maturing on 15.07.2029 closed at 13.85/95 percent from 13.95/14.10 percent.
+
+A bond maturing on 15.05.2030 closed at 13.90/14.00 percent from 13.95/14.05 percent.
+
+A bond maturing on 01.07.2032 closed at 14.00/15 percent from 14.05/20 percent. (Colombo/Jan24/2024)
+
+◼️
+
+[Data](articles/227d1d7f.json)
+
+---
+
 ### Danu Innasithamby wins Pride of The Nation Award
 
 *2024-01-24 17:12:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/danu-innasithamby-wins-pride-of-the-nation-award/) · `en`
@@ -1039,6 +1149,28 @@ Russian plane crashes with 65 Ukrainian prisoners of war on board
 [Data](articles/ca7de7c8.json)
 
 [Extended Data](ext_articles/ca7de7c8.ext.json)
+
+---
+
+### Sri Lanka stocks close down, JKH trades push turnover
+
+*2024-01-24 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-jkh-trades-push-turnover-148632/) · `en`
+
+ECONOMYNEXT – There were mixed sentiments on the Colombo Stock Exchange Wednesday, as the ASPI closed down, but the more liquid S&P SL20 closed up, data on its site showed.
+
+The All Share Price Index was down 0.05 percent, or 4.70 points, at 10,274.
+
+The S&P SL20 index was up 0.07 percent, or 2.09 points, at 2,903.
+
+Turnover was low at 583 million. Trading in John Keells Holdings Plc, contributed the most (106mn) to the day’s turnover, and the share closed down at 178.75.
+
+Market participants pointed out that there was an upswing in the morning with the decline in interest rates and bank stocks attracted investors.
+
+Several large banks saw positive interest after weeks of continued selling pressure in the sector in general. Among the key contributors to the ASPI in the day were DFCC Bank Plc (up at 73.90), Sampath Bank Plc (up at 67.00) and Commercial Bank of Ceylon Plc (up at 87.80).
+
+...
+
+[Data](articles/a898e139.json)
 
 ---
 
@@ -1162,6 +1294,22 @@ The MP Rohitha Abeygunawardena has said that if there is a police complaint abou
 
 ---
 
+### Asia Internet Coalition refutes Sri Lanka Minister’s Online Safety Bill claims
+
+*2024-01-24 16:40:00* · [`economynextcom`](https://economynext.com/asia-internet-coalition-refutes-sri-lanka-ministers-online-safety-bill-claims-148609/) · `en`
+
+ECONOMYNEXT – The Asia Internet Coalition (AIC) refuted claims made by Minister of Public Security Tiran Alles that they expressed agreement with the Online Safety Bill, when tabling it in Parliament.
+
+“The Asia Internet Coalition would like to address and refute certain assertions made in the statement read by the Minister of Public Security in Parliament concerning the Online Safety Bill,” the statement that was co-signed by Google, Meta, X, LinkedIn and Bookings.com said.
+
+“The Minister’s statement does not accurately reflect the substantial contributions that the AIC has made throughout the legislative process, which include comprehensive submissions as well as engagements such as hosting representatives from the Ministry of Public Security at the annual Online Safety Forum organised by the AIC in Singapore.”
+
+...
+
+[Data](articles/c3667ce7.json)
+
+---
+
 ### Resolution to increase the price of egg by 3 rupees
 
 *2024-01-24 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/174718) · `ta`
@@ -1275,6 +1423,22 @@ Since dengue mosquitoes have increased slightly in Sri Lanka, it is necessary to
 [Data](articles/0d8a9eda.json)
 
 [Extended Data](ext_articles/0d8a9eda.ext.json)
+
+---
+
+### In Sri Lanka, snitches will get riches
+
+*2024-01-24 16:11:00* · [`economynextcom`](https://economynext.com/in-sri-lanka-snitches-will-get-riches-148589/) · `en`
+
+ECONOMYNEXT – Sri Lanka Police will offer cash rewards to people who provide information that would lead to arrests on illegal firearms and bombs.
+
+The Police will give a cash reward to informants in their Operation Yukthiya (Justice), the Police Media Division said in a statement.
+
+Confidentiality of the persons providing such information will be protected, the Police said.
+
+◼️
+
+[Data](articles/2f68b5fa.json)
 
 ---
 
@@ -1702,6 +1866,26 @@ It is noteworthy that the Ceremony Backup Bill was presented to Parliament on Tu
 
 ---
 
+### Sri Lanka online bill will kill democratic rights in election year: Sajith
+
+*2024-01-24 15:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-online-bill-will-kill-democratic-rights-in-election-year-sajith-148548/) · `en`
+
+ECONOMYNEXT – A controversial bill on controlling online publications is an attempt to curb the freedom of speech of the public in an election year, opposition leader Sajith Premadasa said.
+
+“This is election year, when a presidential and general election are to be held, clearly this was introduced to curtail the freedom of speech of the citizens of this country, right to express opinions, and destroy their democratic right,” Premadasa told parliament.
+
+Sri Lanka’s supreme court ruled that 31 provisions were unconstitutional.
+
+Several ruling party legislators and ministers referred to instances where they have been criticized or false statements made against them on social media.
+
+Ports Minister Rohitha Abeygunawardena said he was called Raththarang (gold) as an endearment when he was young but social media had now created the impression that he got the accolade after stealing necklaces (gold chains).
+
+...
+
+[Data](articles/0e30a47b.json)
+
+---
+
 ### Seven including ex-Health Secretary further remanded
 
 *2024-01-24 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96694/seven-including-ex-health-secretary-further-remanded) · `en`
@@ -1815,205 +1999,5 @@ Several civil organisations staged a protest today at the Polduwa junction again
 [Data](articles/55c7bb8c.json)
 
 [Extended Data](ext_articles/55c7bb8c.ext.json)
-
----
-
-### Leopard
-
-*2024-01-24 14:59:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொழுந்து-பறித்த-பெண்ணின்-கொண்டையை-பிடித்த-சிறுத்தை/76-332059) · `ta`
-
-Lindula police said that a female worker was admitted to the Nuwara Eliya District Hospital with serious injuries in the Lemalier estate, a Lemalier estate in the Lindulai Police Division (DRI).
-
-P. Sathiyawani (36 years old) from Lemelier estate was severely injured in the incident.
-
-The incident, which took place on Wednesday (24) at 1.30 pm, was attacked by a leopard who was involved in a tea hill in the tea plantation of Lemalier estate worker woman worker, Talawakelle -Nuwara Eliya main road.
-
-At the same time, the co -workers shouted and chased the leopard and took the injured woman to the Nuwara Eliya District Hospital for further treatment.
-
-◼️
-
-[Data](articles/22f99ebd.json)
-
-[Extended Data](ext_articles/22f99ebd.ext.json)
-
----
-
-### SMS Message Small Monetary Society - 97 percent
-
-*2024-01-24 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/174696) · `ta`
-
-97 percent of their comments on the SMS Message Calculation Bill on the Ceylon Protection Bill have protested the proposed legislation.
-
-Out of the 1531 people who participated in the SMS Message Services Till yesterday evening, 1492 voted against the Funeral Protection Bill.
-
-The team of Information Technology for the people of Sri Lanka is conducting this SMS.
-
-97 percent of their comments on the SMS Message Calculation Bill on the Ceylon Protection Bill have protested the proposed legislation.
-
-Out of the 1531 people who participated in the SMS Message Services Till yesterday evening, 1492 voted against the Funeral Protection Bill.
-
-The team of Information Technology for the people of Sri Lanka is conducting this SMS.
-
-Members of the Information Technology Department have launched a SMS on the Conservation Security Bill.
-
-If the Fun 'Protection Bill is passed, prohibited reports can be imposed on prison and penalties. The bill can be dismantled by the election campaigns of the opposition. .
-
-...
-
-[Data](articles/f3baddc3.json)
-
-[Extended Data](ext_articles/f3baddc3.ext.json)
-
----
-
-### Specifies a mental medical treatment for the Avalokitiwara
-
-*2024-01-24 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192513) · `si`
-
-The judiciary psychiatrist has reported to the court that the person who appeared in the name of Avalokithenwara Bodhisattva needs mental medical treatment.
-
-The suspect was remanded until the 7th of this month.
-
-The complaint was called before Fort Magistrate Thilina Gamage.
-
-Accordingly, the suspect sent to direct mental medical treatment through the prison.
-
-◼️
-
-[Data](articles/8c373e90.json)
-
-[Extended Data](ext_articles/8c373e90.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-01-24 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174695) · `ta`
-
-The US dollar purchasing price was 314.9824 and the sales price were 324.7787 based on the Central Bank's currency exchange rate on Wednesday (January 24).
-
-◼️
-
-[Data](articles/a3fdf2f3.json)
-
-[Extended Data](ext_articles/a3fdf2f3.ext.json)
-
----
-
-### Accident at Kilinochchi - woman and eight cattle dead
-
-*2024-01-24 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Accident-at-Kilinochchi-woman-and-eight-cattle-dead/108-275652) · `en`
-
-Kilinochchi, Jan 24 (Daily Mirror)  -  A woman died and eight others were seriously injured when a SLTB bus knocked to death eight heads of cattle and collided head on with a passenger van at Umayalpuram in Kilinochchi on the Kandy-Jaffna A09 highway in the morning.
-
-The bus was transporting a group of passengers from Jaffna to Kandy, while the van was on its way back from Katunayake International Airport.
-
-Investigations revealed that the driver had lost control of the bus due to excessive speed and collided with the van after knocking down a herd of cattle lying on the road.
-
-The woman who died in the incident was identified as Kathirina Thiruchelvam (50) from Jaffna. The injured were admitted to the Intensive Care Unit of the Kilinochchi General Hospital.
-
-The driver of the bus has been arrested by Kilinochchi police pending further investigations.
-
-◼️
-
-[Data](articles/56e099e2.json)
-
-[Extended Data](ext_articles/56e099e2.ext.json)
-
----
-
-### Accident at Kilinochchi - woman and five cattle dead
-
-*2024-01-24 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Accident-at-Kilinochchi-woman-and-five-cattle-dead/108-275652) · `en`
-
-Kilinochchi, Jan 24 (Daily Mirror)  -  A woman died and eight others were seriously injured when a SLTB bus knocked to death eight heads of cattle and collided head on with a passenger van at Umayalpuram in Kilinochchi on the Kandy-Jaffna A09 highway in the morning.
-
-The bus was transporting a group of passengers from Jaffna to Kandy, while the van was on its way back from Katunayake International Airport.
-
-Investigations revealed that the driver had lost control of the bus due to excessive speed and collided with the van after knocking down a herd of cattle lying on the road.
-
-The woman who died in the incident was identified as Kathirina Thiruchelvam (50) from Jaffna. The injured were admitted to the Intensive Care Unit of the Kilinochchi General Hospital.
-
-The driver of the bus has been arrested by Kilinochchi police pending further investigations.
-
-◼️
-
-[Data](articles/ee443670.json)
-
-[Extended Data](ext_articles/ee443670.ext.json)
-
----
-
-### Accident on Matara - Kadirgamam Road
-
-*2024-01-24 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174694) · `ta`
-
-Five persons were injured when a van and a small lorry collided with a small lorry on Wednesday (24) in the Hungama Medeliya area on the Matara -Kadirgamam main road.
-
-Police said that the van from Beruwala to Kadirgamam crashed into a lorry in front of the van.
-
-◼️
-
-[Data](articles/c119928f.json)
-
-[Extended Data](ext_articles/c119928f.ext.json)
-
----
-
-### Self-proclaimed ‘Avalokiteshvara Bodhisattva’ further remanded
-
-*2024-01-24 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96692/self-proclaimed-avalokiteshvara-bodhisattva-further-remanded) · `en`
-
-The self-proclaimed ‘Avalokiteshvara Bodhisattva’, Mahinda Kodituwakku has been remanded until February 07. He was produced before the Colombo Fort Magistrate’s Court earlier today.
-
-◼️
-
-[Data](articles/01f1601f.json)
-
-[Extended Data](ext_articles/01f1601f.ext.json)
-
----
-
-### Self-proclaimed ‘Avalokiteshvara Bodhisattva’ requires psychiatric treatment, court told
-
-*2024-01-24 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96692/self-proclaimed-avalokiteshvara-bodhisattva-requires-psychiatric-treatment-court-told) · `en`
-
-The self-proclaimed ‘Avalokiteshvara Bodhisattva’, Mahinda Kodituwakku has been further remanded until February 07.
-
-He was produced before Colombo Fort Magistrate Thilina Gamage earlier today.
-
-During today’s proceedings, the forensic psychiatrist told the magistrate that the suspect requires psychiatric treatment.
-
-Accordingly, the magistrate ordered that Kodituwakku be further remanded and referred to psychiatric treatment through the prison.
-
-Kodituwakku was arrested by the Criminal Investigation Department (CID) on January 15, on charges of committing irreligious activities that are contrary to Buddhist teachings.
-
-Subsequently, on court orders, the self-styled ‘Avalokiteshvara Bodhisattva’ was placed behind bars on remand custody.
-
-Earlier this month, the president of Buddhist Information Centre, Ven. Agulugalle Sri Jinananda Thero had filed a complaint with the CID alleging that Kodituwakku has been misleading the Buddhist community.
-
-...
-
-[Data](articles/d9601559.json)
-
-[Extended Data](ext_articles/d9601559.ext.json)
-
----
-
-### Speaker endorses certificate on four Bills
-
-*2024-01-24 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96691/speaker-endorses-certificate-on-four-bills) · `en`
-
-The Speaker of the Parliament Mahinda Yapa Abeywardana announced to the House today (Jan 24) that he endorsed the certificate on four Bills.
-
-Accordingly, the Powers of Attorney (Amendment) Bill, Prevention of Frauds (Amendment) Bill, the Mediation Board (Amendment) Bill and the Office for National Unity and Reconciliation Bill which were passed in Parliament recently, have been certified by the Speaker on Tuesday (23).
-
-Thus, the said Bills will come into effect as the Office for National Unity and Reconciliation Act No.1 of 2024, the Mediation Board (Amendment) Act No.2 of 2024, Powers of Attorney (Amendment) Act No. 3 of 2024 and Prevention of Frauds (Amendment) Act No. 4 of 2024.
-
-◼️
-
-[Data](articles/a2781a89.json)
-
-[Extended Data](ext_articles/a2781a89.ext.json)
 
 ---

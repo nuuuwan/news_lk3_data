@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 03:50:36**
+As of **2024-01-25 04:02:39**
 
 ## Newspaper Stats
 
@@ -26,25 +26,29 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,464 (100.0%) of 2,465 articles have been extended.
+2,465 (100.0%) of 2,465 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### ’முடக்கி இருக்காவிடின் கலவரம் வெடித்திருக்கும்’
+### If the telephone is not frozen, the riots will explode
 
 *2024-01-25 02:00:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடக்கி-இருக்காவிடின்-கலவரம்-வெடித்திருக்கும்/175-332087) · `ta`
 
-பொய்யான தகவல்களை பரப்புபவர்களுக்கு தண்டனை வழங்கக் கூடியவகையில் நாட்டில் ஊடக கட்டுப்பாட்டு சட்டம் அவசியமாகும் என்று தெரிவித்துள்ள  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, திகன சம்பவத்துக்கு பின்னர் ஒரு வாரத்துக்கு சமூக வலைத்தளங்களை நான் முடக்கியிருந்தேன். அவ்வாறு முடக்கியிருக்காவிடின், நாடு முழுவதும் கலவரம் வெடித்திருக்கும் என்றார்.
+Former President Maithripala Sirisena said that the country's media control law is essential in order to punish those who spread false information, and I have disabled social media for a week after the incident.. If so, the riots would have erupted across the country.
 
-பாராளுமன்றத்தில் புதன்கிழமை (24)  நடைபெற்ற நிகழ்நிலை காப்புச் சட்டம் மீதான இரண்டாம் நாள் விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+He said this while addressing the second day of debate on the event on Wednesday (24) in Parliament.
 
-ஊடகங்களுக்கு முகாமைத்துவமும், ஊடக கட்டுப்பாடுகளும் இருக்க வேண்டும். நிகழ்நிலை காப்புச் சட்டத்தில் சட்டதிட்டங்கள் கடுமையானதாக இருந்தாலும் ஊடகங்கள் தொடர்பில் கட்டுப்பாடுகள் அவசியமாகும்.
+The media must have management and media restrictions. Although legal proceedings are strict in the Faithful Backup Act, restrictions on the media are essential.
+
+To say some things in this place. Thieves have entered my eldest daughter's house. Have carried items from the kitchen such as rice and coconut. I placed a gift given to the head of the State in Qatar at the Polonnaruwa New School. But in the morning, when he reads the newspaper news in the media, he said that the gift awarded to a head of state was kept at his daughter's house.
 
 ...
 
 [Data](articles/16896807.json)
+
+[Extended Data](ext_articles/16896807.ext.json)
 
 ---
 

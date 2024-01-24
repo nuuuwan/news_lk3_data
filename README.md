@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 00:03:08**
+As of **2024-01-25 00:17:27**
 
 ## Newspaper Stats
 
@@ -26,55 +26,61 @@ dailymirrorlk | 325
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,435 (99.6%) of 2,445 articles have been extended.
+2,445 (100.0%) of 2,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### வீட்டுக்கு வந்த அழையா விருந்தாளியால் பீதியில் மக்கள்
+### People in panic by a crying guest who came home
 
 *2024-01-24 23:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டுக்கு-வந்த-அழையா-விருந்தாளியால்-பீதியில்-மக்கள்/175-332082) · `ta`
 
-ஹொரவபொத்தான, கடுவரகொல்லாவ பகுதியில் உள்ள வீடொன்றிற்கு 14 அடி நீள முதலை ஒன்று வந்துள்ளது.
+A 14 -foot -long crocodile has reached a house in the Horawapothana, Kaduvarakollawa area.
 
-இதையடுத்து ஹொரவபொத்தான வனவிலங்கு அலுவலக அதிகாரிகள் இந்த முதலையைப் பிடித்து ஹொரவபொத்தான தேசிய பூங்காவில் விட்டனர். R
+Subsequently, the Horawapothana Wildlife Office caught the top and left the Horawapothana National Park. Remble
 
 ◼️
 
 [Data](articles/533ba696.json)
 
+[Extended Data](ext_articles/533ba696.ext.json)
+
 ---
 
-### 22 வயதுடைய பொலிஸ் கான்ஸ்டபிள் மரணம்
+### 22 -year -old police constable death
 
 *2024-01-24 23:37:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-வயதுடைய-பொலிஸ்-கான்ஸ்டபிள்-மரணம்/175-332081) · `ta`
 
-திஸ்ஸமஹாராம கதிர்காமம் வீதியில் புஞ்சி அகுருகொட பிரதேசத்தில் இன்று (24) பிற்பகல் இடம்பெற்ற விபத்தில் பொலிஸ் அதிகாரி ஒருவர் உயிரிழந்துள்ளார்.
+A police officer was killed in an accident at Punji Akurugoda area this afternoon at Tissamaharama Kadirgamam Road.
 
-கதிர்காமம் பொலிஸ் பிரிவில் கடமையாற்றும் வெலிமடையைச் சேர்ந்த 22 வயதுடைய பொலிஸ் கான்ஸ்டபிள் ஒருவரே உயிரிழந்துள்ளார்.
+A 22 -year -old police constable from Welimada, who is on duty in the Kadirgamam police division, has died.
 
-தனியார் பஸ் ஒன்று இரட்டைக் கோடு விதிகளை மீறி, அதே திசையில் சென்ற டிராக்டரை முந்திச் செல்லும் போது, ​​எதிரே வந்த மோட்டார் சைக்கிள் மீது மோதியது.
+A private bus crashed into the opposite motorcycle as a private bus overturned the tractor in the same direction.
 
-இந்த விபத்தில் மோட்டார் சைக்கிளின் பின்னால் சென்ற பொலிஸ் கான்ஸ்டபிள் பலத்த காயங்களுக்கு உள்ளாகி தெபரவெவ வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது உயிரிழந்துள்ளார்.
+The police constable, who was behind the motorcycle, suffered serious injuries and died when he was admitted to the Thebaraweva Hospital.
 
 ◼️
 
 [Data](articles/c6e38a56.json)
 
+[Extended Data](ext_articles/c6e38a56.ext.json)
+
 ---
 
-### ஜிந்துப்பிட்டியில் துப்பாக்கிச் சூடு
+### Firing at Jindupitiya
 
 *2024-01-24 23:20:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜிந்துப்பிட்டியில்-துப்பாக்கிச்-சூடு/175-332080) · `ta`
 
-கொழும்பு ஜிந்துபிட்டிய பகுதியில் இன்று இரவு இடம்பெற்ற துப்பாக்கிச் சூட்டில் ஒருவர் காயமடைந்து கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+One person was injured in a shooting in Jindupitiya, Colombo, police said.
 
-மோட்டார் சைக்கிளில் வந்த இனந்தெரியாத இருவர் துப்பாக்கிச் சூடு நடத்திவிட்டு தப்பிச் சென்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said two unidentified men on a motorbike fled after fleeing.
 
 ◼️
 
 [Data](articles/f5041ffd.json)
+
+[Extended Data](ext_articles/f5041ffd.ext.json)
 
 ---
 
@@ -774,6 +780,8 @@ Opposition legislator M A Sumanthiran, a lawyer, said 13 amendments circulated a
 
 [Data](articles/046b1208.json)
 
+[Extended Data](ext_articles/046b1208.ext.json)
+
 ---
 
 ### Before final procession...
@@ -1030,6 +1038,8 @@ Meanwhile, around 71.6 percent of the Sri Lankan public are unaware of the Onlin
 
 [Data](articles/c1c06f03.json)
 
+[Extended Data](ext_articles/c1c06f03.ext.json)
+
 ---
 
 ### Online Bill Seventh Reading is passed by more
@@ -1134,6 +1144,8 @@ A bond maturing on 01.07.2032 closed at 14.00/15 percent from 14.05/20 percent. 
 
 [Data](articles/227d1d7f.json)
 
+[Extended Data](ext_articles/227d1d7f.ext.json)
+
 ---
 
 ### Danu Innasithamby wins Pride of The Nation Award
@@ -1171,6 +1183,8 @@ Several large banks saw positive interest after weeks of continued selling press
 ...
 
 [Data](articles/a898e139.json)
+
+[Extended Data](ext_articles/a898e139.ext.json)
 
 ---
 
@@ -1308,6 +1322,8 @@ ECONOMYNEXT – The Asia Internet Coalition (AIC) refuted claims made by Ministe
 
 [Data](articles/c3667ce7.json)
 
+[Extended Data](ext_articles/c3667ce7.ext.json)
+
 ---
 
 ### Resolution to increase the price of egg by 3 rupees
@@ -1439,6 +1455,8 @@ Confidentiality of the persons providing such information will be protected, the
 ◼️
 
 [Data](articles/2f68b5fa.json)
+
+[Extended Data](ext_articles/2f68b5fa.ext.json)
 
 ---
 
@@ -1883,6 +1901,8 @@ Ports Minister Rohitha Abeygunawardena said he was called Raththarang (gold) as 
 ...
 
 [Data](articles/0e30a47b.json)
+
+[Extended Data](ext_articles/0e30a47b.ext.json)
 
 ---
 

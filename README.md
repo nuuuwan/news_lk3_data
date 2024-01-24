@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 22:32:45**
+As of **2024-01-24 22:50:30**
 
 ## Newspaper Stats
 
-*Scraped **2,423** Articles*
+*Scraped **2,425** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 133
 newsfirstlk | 135
 economynextcom | 144
 dailyftlk | 181
-adaderanasinhalalk | 185
+adaderanasinhalalk | 187
 adalk | 241
 virakesarilk | 276
 tamilmirrorlk | 301
@@ -26,11 +26,51 @@ dailymirrorlk | 319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,422 (100.0%) of 2,423 articles have been extended.
+2,425 (100.0%) of 2,425 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### A young man attacks and puts the road
+
+*2024-01-24 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192531) · `si`
+
+The Puttalam Police further reports that a young man was abducted and brutally assaulted and injured and injured and injured.
+
+The victim has been admitted to the Puttalam Base Hospital by the residents of the area.
+
+Police say that the assailants have fled the area and one person was arrested.
+
+The assaulted person said that he was abducted and detained in a house and was assaulted at around 11 pm today.
+
+Puttalam Police have launched an operation to arrest the other suspects.
+
+◼️
+
+[Data](articles/a4b81399.json)
+
+[Extended Data](ext_articles/a4b81399.ext.json)
+
+---
+
+### Announcement from Asian Internet Alliance on Online Act
+
+*2024-01-24 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192530) · `si`
+
+The Asian Internet Alliance, including Apple, Google, Meta, Amazon and Yahoo, has issued a statement such as Apple, Google, Meta, Amazon and Yahoo.
+
+It says that if the Bill is in the current way, the Bill will be adversely affected by the development of the digital economy in Sri Lanka as well as direct foreign investment.
+
+The proposed bill will threaten the freedom of the expression of Sri Lankans who are preparing for a presidential election and parliamentary election.
+
+◼️
+
+[Data](articles/397d9838.json)
+
+[Extended Data](ext_articles/397d9838.ext.json)
+
+---
 
 ### 22-year-old cop killed in tragic collision in Kataragama
 
@@ -51,6 +91,8 @@ Body of the deceased officer has been placed at the mortuary of Debarawewa Hospi
 ...
 
 [Data](articles/f9e40635.json)
+
+[Extended Data](ext_articles/f9e40635.ext.json)
 
 ---
 
@@ -2009,45 +2051,5 @@ Minister Prasanna Ranatunga further stated that the delay in addressing the prob
 [Data](articles/967855dc.json)
 
 [Extended Data](ext_articles/967855dc.ext.json)
-
----
-
-### ID Number is Tin Number
-
-*2024-01-24 14:09:13* · [`adalk`](https://www.ada.lk/breaking_news/හැඳුනුම්පත්-අංකය-ටින්-අංකය-වෙයි/11-407708) · `si`
-
-State Minister Ranjith Siyambalapitiya said that steps will be taken to use the National Identity Card Number (TIN) as the person's tax number (TIN).
-
-He also said that this will create a clear database regarding state income. The procedure is being carried out using the biological information system of persons over 18 years.
-
-◼️
-
-[Data](articles/b7d6af61.json)
-
-[Extended Data](ext_articles/b7d6af61.ext.json)
-
----
-
-### Mocking the woman is not tortured: the court
-
-*2024-01-24 14:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-கேலி-செய்வது-சித்ரவதை-ஆகாது-நீதிமன்றம்/175-332054) · `ta`
-
-The court has also ordered that torture, mockingly, torture, simply ridiculing, contempt, torture, or mental harassment.
-
-In April 1994, a woman from Nandurpur, Maratha state committed suicide by setting fire to his body.
-
-The woman's husband, brother -in -law and mother -in -law. The Nandurpur Session Court, hearing the case, sentenced three others, including her husband for committing suicide.. They appealed to the Aurangabad branch of the Mumbai High Court against this.
-
-The petition was heard by a separate session headed by Justice Abhay Waghwase. At the end of the investigation, the judge ordered the release of all three accused
-
-“There was no evidence that three persons, including husband, had committed suicide, were not submitted to court. According to the police, the accused had made fun of the woman and asked for money.
-
-Simply mocking, contempt of contempt is not torture or mental harassment.
-
-...
-
-[Data](articles/02f75ad9.json)
-
-[Extended Data](ext_articles/02f75ad9.ext.json)
 
 ---

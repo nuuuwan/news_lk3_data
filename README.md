@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 15:51:31**
+As of **2024-01-24 16:04:27**
 
 ## Newspaper Stats
 
-*Scraped **2,329** Articles*
+*Scraped **2,340** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,23 +14,87 @@ dbsjeyarajcom | 122
 newsfirstlk | 132
 islandlk | 133
 economynextcom | 142
-adaderanasinhalalk | 171
+adaderanasinhalalk | 173
 dailyftlk | 181
 adalk | 232
-virakesarilk | 259
-tamilmirrorlk | 290
+virakesarilk | 262
 adaderanalk | 291
-dailymirrorlk | 298
+tamilmirrorlk | 292
+dailymirrorlk | 302
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,329 (100.0%) of 2,329 articles have been extended.
+2,329 (99.5%) of 2,340 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### எனது மூத்த மகள் வீட்டுக்குள் புகுந்த திருடர்கள் பக்கற்றுகள், பானங்கள்  உணவுப் பொருட்களை எடுத்துச் சென்றனர்: மைத்திரிபால!
+
+*2024-01-24 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/174699) · `ta`
+
+தனது மூத்த மகள் வீட்டில் தங்கக் குதிரைகள் இருந்ததாக கூறப்படும் கதை பொய்யானது என முன்னாள் ஜனாதிபதியான பொலன்னறுவை மாவட்ட நாடாளுமன்ற உறுப்பினர் மைத்திரிபால சிறிசேன புதன்கிழமை (24) நாடாளுமன்றத்தில் தெரிவித்தார்.
+
+அவர் மேலும் கூறியதாவது, எனது மூத்த மகள் வீட்டில் திருடர்கள் புகுந்தனர். அந்த வீட்டிலிருந்து பால் பக்கற்றுகள் மற்றும்  சில உணவுப் பொருட்களையும் பானங்களையும் எடுத்துச் சென்றுள்ளனர். ஆனால், தங்கக் குதிரைகள் அந்த வீட்டில் எதுவும் இல்லை.
+
+மேலும் நூறு கோடி செலவு செய்து  பொலன்னறுவையில் அருங்காட்சியகத்தை உருவாக்கினேன். இந்த நாட்டில் எந்த ஜனாதிபதியும் அருங்காட்சியகம் கட்டவில்லை என்றும் அவர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/647f270a.json)
+
+---
+
+### බිහිසුණු ගුවන් අනතුරක්
+
+*2024-01-24 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192516) · `si`
+
+රුසියානු හමුදා යානයක් යුක්‍රේනය ආසන්න දේශ සීමාවේදී කඩා වැටී තිබේ.
+
+විදෙස් මාධ්‍ය පැවසුවේ, දකුණු බෙල්ගොරෝඩ් ප්‍රදේශයට එම යානය කඩා වැටී ඇති බවත් එම අවස්ථාවේදී එම යානය තුළ පුද්ගලයින් 65 දෙනෙකු සිටි බවත්ය.
+
+එම යානයේ සිට ඇත්තේ, යුක්‍රේන යුද සිරකරුවන් පිරිසක් බව බීබීසී පුවත් සේවය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/83a61510.json)
+
+---
+
+### හිටපු සෞඛ්‍ය ලේකම් ඇතුළු 7 දෙනා තවදුරටත් රිමාන්ඩ්
+
+*2024-01-24 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192515) · `si`
+
+සෞඛ්‍ය අමාත්‍යාංශයේ හිටපු ලේකම් ජනක ශ්‍රී චන්ද්‍රගුප්ත මහතා සහ සැකකරුවන් 06 දෙනා පෙබරවාරි 01 වනදා දක්වා තවදුරටත් රිමාන්ඩ් බන්ධනාගාරගත කර තිබේ.
+
+ඒ ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළවය.
+
+◼️
+
+[Data](articles/01e995ad.json)
+
+---
+
+### Army Commander joins paramilitary jump
+
+*2024-01-24 15:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Army-Commander-joins-paramilitary-jump/110-275655) · `en`
+
+Kudaoya, Jan 24 (Daily Mirror) - Army Commander Lieutenant General Vikum Liyanage participated in parachute jumps over the Uhana Air Force Base drop zone with a group of airborne soldiers.
+
+The Sri Lanka Arny said the Commander's journey to become a military paratrooper took place at the Commando Regiment Training School (CRTS) in Kudaoya.
+
+On 22 January 2024, the Commander of the Army, with other participants including 18 military personnel from the Maldives National Defence Force and 14 members from the Sri Lanka Army, took to the skies aboard an MI-17 helicopter from the Uhana Air Force Base runway.
+
+This achievement is particularly a significant milestone in the annals of military history as it marks the first-ever attainment of the designation; Military Para Trooper by a distinguished individual holding the esteemed rank of Lieutenant General, who is concurrently serving as the Commander of the Army.
+
+...
+
+[Data](articles/8e9cb455.json)
+
+---
 
 ### Leading Mitchell Cosse
 
@@ -47,6 +111,44 @@ However, a official statement will be made in the future regarding the leadershi
 [Data](articles/27a4e025.json)
 
 [Extended Data](ext_articles/27a4e025.ext.json)
+
+---
+
+### நிகழ்நிலை காப்பு சட்டமூலத்துக்கு எதிராக யாழில் கவனயீர்ப்பு போராட்டம்
+
+*2024-01-24 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/174698) · `ta`
+
+நிகழ்நிலை காப்பு சட்டமூலத்துக்கு எதிராக இன்று புதன்கிழமை (24) யாழ்பாணத்தில் கவனயீர்ப்பு போராட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
+
+யாழ்ப்பாணம் பஸ் நிலையத்திற்கு முன்பாக யாழ். கிறிஸ்தவ ஒன்றியத்தின் ஏற்பாட்டில் இந்த போராட்டம் இடம்பெற்றது.
+
+ஜனநாயகத்தை அச்சுறுத்தாதே, நிகழ் நிலை காப்புச் சட்டத்தை மீளப்பெறு, ஊடகங்களை சமூக ஊடகங்களை  நசுக்கும் நிகழ் நிலை காப்புச் சட்டத்தை மீளப்பெறு போன்ற பல கோரிக்கைகள் போராட்டகாரர்களால் வலியுறுத்தப்பட்டது.
+
+நிகழ் நிலை காப்பு சட்டமூலம் செவ்வாய்க்கிழமை பாராளுமன்றத்தில் சமர்பிக்கப்பட்டு விவாதம் நடைபெற்றுவருகின்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/b25bf518.json)
+
+---
+
+### Two new pomegranate varieties introduced
+
+*2024-01-24 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-new-pomegranate-varieties-introduced/108-275654) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - Following tissue culture research conducted by the Plant Virus Indexing Centre, Homagama, two new varieties of pomegranate named 'Malee Pink' and 'Lanka Red' were introduced for cultivation in Sri Lanka today, the Agriculture Ministry said.
+
+The two new varieties of pomegranate were handed over to farmers for cultivation by Agriculture Minister Mahinda Amaraweera today.
+
+The special feature of these two latest varieties is that the lifespan of a pomegranate tree is over 30 years and 20–25 kgs of pomegranates can be harvested from each tree per year. A total of 400 trees can be planted per acre, which can generate an annual income of Rs. 8 million per acre, the Minister said.
+
+In particular, these two types of pomegranate are suitable for cultivation in the dry zone, and these varieties can be used as an alternative to the currently imported red pomegranate varieties.
+
+The cost of pomegranate imports can be reduced in our country, the Minister said.
+
+...
+
+[Data](articles/cce2ac98.json)
 
 ---
 
@@ -67,6 +169,46 @@ Meanwhile, the State Minister revealed that the Inland Revenue Department (IRD) 
 [Data](articles/57c1512b.json)
 
 [Extended Data](ext_articles/57c1512b.ext.json)
+
+---
+
+### கொழுந்து பறித்த பெண்ணின் கொண்டையை பிடித்த சிறுத்தை
+
+*2024-01-24 14:59:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொழுந்து-பறித்த-பெண்ணின்-கொண்டையை-பிடித்த-சிறுத்தை/76-332059) · `ta`
+
+லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட (டி.ஆர்.ஐ) தோட்ட பிரிவான லெமலியர் தோட்டத்தில் பெண் தொழிலாளி ஒருவர் சிறுத்தை தாக்குதலுக்கு இலக்காகி பலத்த காயங்களுடன் நுவரெலியா மாவட்ட வைத்தியசாலையில் அவசர சிகிச்சை பிரிவில் அனுமதிக்கப்பட்டுள்ளதாக லிந்துலை பொலிஸார் தெரிவித்தனர்.
+
+இந்த சம்பவத்தில் லெமலியர் தோட்டத்தை சேர்ந்த பி.சத்தியவாணி (வயது 36) என்பவர் சிறுத்தை தாக்கி பலத்த காயமடைந்துள்ளார்.
+
+புதன்கிழமை (24)  பிற்பகல் 1.30 மணியலவில் இடம்பெற்றுள்ள இந்த சம்பவத்தில் சிறுத்தை தாக்குதலில் பலத்த காயங்களுக்கு உள்ளான லெமலியர் தோட்ட பெண் தொழிலாளி பெண் தலவாக்கலை -நுவரெலியா பிரதான வீதியின் லிந்துலை நகரை அண்மித்த தேயிலை தோட்டத்தில் பணியில் ஈடுப்பட்டிருந்த வேளையில் தேயிலை மலையில் பதுங்கியிருந்த சிறுத்தையே தாக்கியுள்ளது.
+
+அதேநேரத்தில் அருகில் தொழில் செய்துகொண்டிருந்ந சக தொழிலாளிகள் கூச்சலிட்டு சிறுத்தையை துரத்தியதுடன் காயங்களுக்கு உள்ளான தொழிலாளி பெண்னை மீட்டு லிந்துலை பிரதேச வைத்தியசாலைக்கு கொண்டு சென்ற பின் மேலதிக சிகிச்சைக்காக நுவரெலியா மாவட்ட வைத்தியசாலைக்கு கொண்டு சென்றதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/22f99ebd.json)
+
+---
+
+### நிகழ்நிலை பாதுகாப்பு சட்ட மூலம்  குறித்த குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பு - 97 வீதமானவர்கள் எதிர்ப்பு
+
+*2024-01-24 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/174696) · `ta`
+
+நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குறித்து  மேற்கொள்ளப்பட்ட குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பில் தங்கள் கருத்துக்களை தெரிவித்தவர்களில் 97 வீதமானவர்கள் உத்தேச சட்ட மூலத்திற்கு எதிர்ப்பு தெரிவித்துள்ளனர்.
+
+நேற்று மாலைவரை குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பில் கலந்துகொண்ட 1531 பேரில் 1492 பேர் நிகழ்நிலை பாதுகாப்பு சட்டமூலத்திற்கு எதிராக வாக்களித்துள்ளனர்.
+
+இலங்கையின் மக்களிற்கான தகவல்தொழில்நுட்ப துறையினர் என்ற குழுவினர் இந்த குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பை நடத்துகின்றனர்.
+
+நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குறித்து  மேற்கொள்ளப்பட்ட குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பில் தங்கள் கருத்துக்களை தெரிவித்தவர்களில் 97 வீதமானவர்கள் உத்தேச சட்ட மூலத்திற்கு எதிர்ப்பு தெரிவித்துள்ளனர்.
+
+நேற்று மாலைவரை குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பில் கலந்துகொண்ட 1531 பேரில் 1492 பேர் நிகழ்நிலை பாதுகாப்பு சட்டமூலத்திற்கு எதிராக வாக்களித்துள்ளனர்.
+
+இலங்கையின் மக்களிற்கான தகவல்தொழில்நுட்ப துறையினர் என்ற குழுவினர் இந்த குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பை நடத்துகின்றனர்.
+
+...
+
+[Data](articles/f3baddc3.json)
 
 ---
 
@@ -101,6 +243,26 @@ The US dollar purchasing price was 314.9824 and the sales price were 324.7787 ba
 [Data](articles/a3fdf2f3.json)
 
 [Extended Data](ext_articles/a3fdf2f3.ext.json)
+
+---
+
+### Accident at Kilinochchi - woman and five cattle dead
+
+*2024-01-24 14:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Accident-at-Kilinochchi-woman-and-five-cattle-dead/108-275652) · `en`
+
+Kilinochchi, Jan 24 (Daily Mirror)  -  A woman died and eight others were seriously injured when a SLTB bus knocked to death eight heads of cattle and collided head on with a passenger van at Umayalpuram in Kilinochchi on the Kandy-Jaffna A09 highway in the morning.
+
+The bus was transporting a group of passengers from Jaffna to Kandy, while the van was on its way back from Katunayake International Airport.
+
+Investigations revealed that the driver had lost control of the bus due to excessive speed and collided with the van after knocking down a herd of cattle lying on the road.
+
+The woman who died in the incident was identified as Kathirina Thiruchelvam (50) from Jaffna. The injured were admitted to the Intensive Care Unit of the Kilinochchi General Hospital.
+
+The driver of the bus has been arrested by Kilinochchi police pending further investigations.
+
+◼️
+
+[Data](articles/ee443670.json)
 
 ---
 
@@ -311,6 +473,24 @@ The navy suspicles that the stock cannot be brought to the land, the Navy suspec
 [Data](articles/129d7000.json)
 
 [Extended Data](ext_articles/129d7000.ext.json)
+
+---
+
+### ஐவர் படுகொலை: ஒருவர் கைது வாகனமும் சிக்கியது
+
+*2024-01-24 14:14:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/ஐவர்-படுகொலை-ஒருவர்-கைது-வாகனமும்-சிக்கியது/93-332057) · `ta`
+
+பெலியத்தவில் திங்கட்கிழமை (22) ஐந்து பேர் சுட்டுக் கொல்லப்பட்டதற்கு தலைமை தாங்கிய இலங்கையைச் சேர்ந்த நபர் கைது செய்யப்பட்டுள்ளார். அத்துடன்  அதற்குப் பயன்படுத்திய வாகனம் கைப்பற்றப்பட்டுள்ளது என பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+மாத்தறை பிரிவுக்கு பொறுப்பான அதிகாரியின் மேற்பார்வையில் ஹக்மன பொலிஸ் நிலைய பொறுப்பதிகாரி உள்ளிட்ட அதிகாரிகள் குழு நடத்திய விசாரணையில், கைது செய்யப்பட்டுள்ளார்.
+
+இலங்கையில் இருந்து இந்த குற்றத்திற்கு மூளையாக செயல்பட்டதாக கூறப்படும் சமன் குமார என்ற 54 வயதுடைய ஒருவரே கைது செய்யப்பட்டுள்ளார்.  குற்றத்திற்காக வந்த 65-2615 இலக்கம் கொண்ட மிட்சுபிஷி பெஜேரோ ஜீப்பையும் பொலிஸார் கைப்பற்றியுள்ளனர் என  அமைச்சு தெரிவித்துள்ளது.
+
+குற்றத்தை புரிவதற்காக வந்தவர்,  வாகனத்தை செலுத்தி வந்துள்ளார் என    மேலும் தெரியவந்துள்ளதாகவும் அமைச்சு குறிப்பிட்டுள்ளது.
+
+◼️
+
+[Data](articles/bb8d01f9.json)
 
 ---
 
@@ -535,6 +715,22 @@ In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons 
 [Data](articles/c0cfabf6.json)
 
 [Extended Data](ext_articles/c0cfabf6.ext.json)
+
+---
+
+### Suspect and vehicle used in Beliatta manslaughter recovered
+
+*2024-01-24 13:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspect-and-vehicle-used-in-Beliatta-manslaughter-recovered/108-275651) · `en`
+
+Hakmana, Jan 24 (Daily Mirror) -Police arrested a 54-year old suspect and the jeep used for the shooting at Beliatta where five persons including Ape Jana Bala Party leader Saman Perera were killed.
+
+The Pajero Mitsubishi type jeep has also been recovered by the Hakmana Police.
+
+Investigations have revealed that the suspect, identified as Saman Kumara who is suspected to have planned the shooting from Sri Lanka on the orders by underworld figure Kosgoda Sujee, has driven the jeep involved in the shooting.
+
+◼️
+
+[Data](articles/3c5200ca.json)
 
 ---
 
@@ -1841,221 +2037,5 @@ Police said that the confidentiality of informants will be protected.
 [Data](articles/dcb31abb.json)
 
 [Extended Data](ext_articles/dcb31abb.ext.json)
-
----
-
-### Rugby coach arrests in Kandy with drug pills
-
-*2024-01-24 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174656) · `ta`
-
-A young rugby coach has been arrested in Kandy, Kandy, police said.
-
-4,100 pills and 2 grams of heroin have been seized from the person's possession, police said.
-
-◼️
-
-[Data](articles/8ac39ac8.json)
-
-[Extended Data](ext_articles/8ac39ac8.ext.json)
-
----
-
-### Parliamentary Council begins
-
-*2024-01-24 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192497) · `si`
-
-◼️
-
-[Data](articles/8e67ff19.json)
-
-[Extended Data](ext_articles/8e67ff19.ext.json)
-
----
-
-### 930 more suspects arrested in Yukti
-
-*2024-01-24 09:30:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-930-சந்தேக-நபர்கள்-கைது/175-332046) · `ta`
-
-Another 930 suspects have been arrested by the security forces within 24 hours of today (24) at 12.30 pm as part of the Nationwide Anti -Narcotics Act.
-
-In this 24 hours, 425 grams of heroin, 235 grams of ice and 4,351 drug pills were seized.
-
-◼️
-
-[Data](articles/f50697c1.json)
-
-[Extended Data](ext_articles/f50697c1.ext.json)
-
----
-
-### A couple who cheated the old man
-
-*2024-01-24 09:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முதியவரை-ஏமாற்றிய-தம்பதியினர்/72-332045) · `ta`
-
-It is reported that a bank employee in Kilinochchi, a woman and her husband, have defrauded the old man and defrauded about Rs 6 lakh.
-
-The bank officer and her husband, who works in a private bank in the Kilinochchi police division, have paid an elderly man with three hundred and fifty thousand rupees of Rs.
-
-The police have filed a case against the Kilinochchi District Magistrate's Court after the victims lodged a complaint with the Kilinochchi police.
-
-They have also sought court permission to arrest the two.
-
-It is reported that the bank employee and her husband have already been accused of cheating many people. Remble
-
-◼️
-
-[Data](articles/3c1ba28a.json)
-
-[Extended Data](ext_articles/3c1ba28a.ext.json)
-
----
-
-### Beliatta mass shooting: Vehicle used by assailants found in Galle
-
-*2024-01-24 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96679/beliatta-mass-shooting-vehicle-used-by-assailants-found-in-galle) · `en`
-
-The SUV believed to have been used by the assailants complicit in the Beliatta mass shooting incident that killed five individuals has been located.
-
-On Tuesday (Jan.23), a group of persons who had arrived in a double-cab had opened fire at a Defender near the Beliatta Interchange of the Southern Expressway.
-
-In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he had succumbed to injuries shortly after.
-
-Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of People Party or OPPP) Saman Perera. The other four victims were identified as Sameera Madhusanka, Hasitha Chinsuka, Buddhika Rajapaksha, and Nalin Champika.
-
-Meanwhile, a man, purportedly one of the gunmen inside the SUV, has been captured by a surveillance camera near the Kamburupitiya roundabout. However, it identity has yet to be established.
-
-◼️
-
-[Data](articles/7cf80043.json)
-
-[Extended Data](ext_articles/7cf80043.ext.json)
-
----
-
-### Beliatta mass shooting: Vehicle used by assailants found parked near Pirivena
-
-*2024-01-24 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96679/beliatta-mass-shooting-vehicle-used-by-assailants-found-parked-near-pirivena) · `en`
-
-The vehicle believed to have been used by the assailants complicit in the Beliatta shooting incident that killed five individuals has been found while parked near the Vidyaloka Pirivena in Galle.
-
-On Tuesday (Jan.23), a group of persons who had arrived in a double-cab had opened fire at a Defender near the Beliatta Interchange of the Southern Expressway.
-
-In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he had succumbed to injuries shortly after.
-
-Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of People Party or OPPP) Saman Perera.
-
-◼️
-
-[Data](articles/9d2c18c7.json)
-
-[Extended Data](ext_articles/9d2c18c7.ext.json)
-
----
-
-### Heavy snow on the southern highway;Drivers are observation
-
-*2024-01-24 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/174654) · `ta`
-
-Heavy snowfall has been on the southern highway over the past two days.
-
-Because of this, the police have asked the drivers who use the Southern Expressway and avoid traveling high speed.
-
-◼️
-
-[Data](articles/582baff2.json)
-
-[Extended Data](ext_articles/582baff2.ext.json)
-
----
-
-### Beliatta murderers who had found the jeep in Galle
-
-*2024-01-24 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192496) · `si`
-
-The jep of the JEP in Beliatta has been found in the parking pillar of Pirivena in Galle and Pirivena.
-
-Meanwhile, a person suspected to be a shooter in the Kamburupitiya main road near the Kamburupitiya main road near the incident, a person who was suspected to shoot at the Kamburupitiya roundabout was recorded in a CCTV camera.
-
-Further, he was able to move back to the Kamburupitiya bus stand.
-
-It is reported that he has rise to Matara and left the place.
-
-However, no information has been revealed to the identity of the person.
-
-Five people were killed in the shooting of Tangalle, Tangalle on the 22nd.
-
-The shooting occurred at 8.30 am and 8.40 am and four persons were killed in the shooting.
-
-One person was admitted to the Tangalle Hospital.
-
-Illakuttige Same Madays, Sameerara Maduski, Kumara Vidyalage Handithalage Handithandu, Buddhika Wakes and Kannangara Kalelage Delin Champika Jayatilleke also killed.
-
-...
-
-[Data](articles/33b8e096.json)
-
-[Extended Data](ext_articles/33b8e096.ext.json)
-
----
-
-### The 13 -day girl death in Batticaloa
-
-*2024-01-24 09:00:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பில்-13-நாட்களேயான-பெண்-குழந்தை-மரணம்/73-332044) · `ta`
-
-Police said that the death of a baby girl in the Batticaloa Headquarters Division in the Irudayapuram area of a 13 -day girl.
-
-It was 13 days after the baby was born, in the evening, when the mother gave her milk, the baby died.
-
-He found that he was a little mentally ill and admitted him to the hospital and handed over the baby's body to the hospital for autopsy.
-
-According to the legal report, the police said that steps have been taken to hand over the body to the relative.
-
-◼️
-
-[Data](articles/99c813de.json)
-
-[Extended Data](ext_articles/99c813de.ext.json)
-
----
-
-### Cardinal Ranjith files petition challenging Anti-Terrorism Bill
-
-*2024-01-24 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96678/cardinal-ranjith-files-petition-challenging-anti-terrorism-bill) · `en`
-
-His Eminence Malcolm Cardinal Ranjith has filed a petition challenging the Anti-Terrorism Bill which was presented to the parliament by the government in a bid to replace the Prevention of Terrorism Act (PTA).
-
-In his petition, the Cardinal has requested the Supreme Court to deliver an order stating that several provisions of the Anti-Terrorism Bill are not in line with the Constitution.
-
-The Attorney General has been named as the respondent of the petition, which alleges that the proposed legislation, if passed in its current form, would grant unlimited powers to the Tri-Forces, the Police and the Coast Guard to make unwarranted arrests without reasonable suspicion.
-
-This is a violation of the fundamental rights including the freedom of expression guaranteed by the Constitution, the Cardinal raised alarm in his petition.
-
-...
-
-[Data](articles/c43883eb.json)
-
-[Extended Data](ext_articles/c43883eb.ext.json)
-
----
-
-### Fair weather, ground frost possible in Nuwara-Eliya during morning
-
-*2024-01-24 08:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fair-weather-ground-frost-possible-in-Nuwara-Eliya-during-morning/108-275622) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - Fair weather will prevail over the island and there are possibilities of ground frost at some places in the Nuwara-Eliya district during the early hours of the morning, the forecasting division of the National Meteorological Centre said today.
-
-However, misty conditions can be expected at some places in the Sabaragamuwa, Central, Western, and Uva Provinces and in the Galle and Matara districts during the morning.
-
-Meanwhile, fair weather will prevail in the coastal areas around the island.
-
-Wind speed may increase up to 50 kmph at times in the sea areas off the coasts extending from Colombo to Mannar via Puttalam and from Galle to Pottuvil via Hambantota.
-
-The sea areas off the coasts extending from Colombo to Mannar via Puttalam and from Galle to Pottuvil via Hambantota can be fairly rough at times.
-
-◼️
-
-[Data](articles/24a6bc34.json)
-
-[Extended Data](ext_articles/24a6bc34.ext.json)
 
 ---

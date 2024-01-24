@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 22:50:30**
+As of **2024-01-24 23:02:37**
 
 ## Newspaper Stats
 
-*Scraped **2,425** Articles*
+*Scraped **2,428** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 33
+colombotelegraphcom | 34
 bbccomsinhala | 47
 dbsjeyarajcom | 122
 islandlk | 133
@@ -19,18 +19,52 @@ adaderanasinhalalk | 187
 adalk | 241
 virakesarilk | 276
 tamilmirrorlk | 301
-adaderanalk | 306
+adaderanalk | 308
 dailymirrorlk | 319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,425 (100.0%) of 2,425 articles have been extended.
+2,428 (100.0%) of 2,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### One person injured in shooting in Colombo
+
+*2024-01-24 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96710/one-person-injured-in-shooting-in-colombo) · `en`
+
+One person was injured in a shooting that took place at Barber Street today (24), Jinthupitiya in Colombo, the police said.
+
+The injured individual has been admitted to the National Hospital, Colombo, according to the police.
+
+◼️
+
+[Data](articles/71b99ce4.json)
+
+[Extended Data](ext_articles/71b99ce4.ext.json)
+
+---
+
+### Sri Lanka Tourism Promotion Bureau Chairman elected as Vice Chair of UNWTO
+
+*2024-01-24 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96709/sri-lanka-tourism-promotion-bureau-chairman-elected-as-vice-chair-of-unwto-) · `en`
+
+The Chairman of Sri Lanka Tourism Promotion Bureau Chalaka Gajabahu has been elected as the Vice Chair of the United Nations World Tourism Organization Competitiveness Committee recently.
+
+The Committee on Tourism and Competitiveness (CTC) is one of the technical committees of the UNWTO and it is a subsidiary organ of the Executive Council. The Committee was established at the 95th session of the Executive Council in Belgrade, Serbia in May 2013. Its Rules of Procedure and the composition were approved by the Executive Council at its 96th session.
+
+Since its establishment in 2013, CTC focused its work mainly on assessing the state of knowledge on the basic concept of “tourism competitiveness” and identifying its key factors. This process has also included identifying, developing and harmonizing concepts, models and operational definitions used in the tourism value chain, Sri Lanka Tourism Promotion Bureau said.
+
+...
+
+[Data](articles/39ee1221.json)
+
+[Extended Data](ext_articles/39ee1221.ext.json)
+
+---
 
 ### A young man attacks and puts the road
 
@@ -1022,6 +1056,22 @@ Pictures that show the plane crash near the village of Yablono have been release
 
 ---
 
+### Sri Lankan Catholic Church To Declare Easter Sunday Attack Victims As Saints: A Comment
+
+*2024-01-24 16:25:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankan-catholic-church-to-declare-easter-sunday-attack-victims-as-saints-a-comment/) · `en`
+
+The Archbishop of Colombo Cardinal Malcolm Ranjith has reportedly announced that those who died in the Easter Sunday attacks against the Catholic churches will be declared as saints.
+
+Daily Mirror Online, January 21, reports, “Speaking during a service at St. Sebastian’s Church, Kandana, Cardinal Ranjith said the first step towards this move will be taken on April 21 this year when the country commerates [sic] the fifth anniversary of the Easter Sunday bomb attacks.” It quotes the Cardinal as saying, “Those who died in churches on April 21, 2019 sacrificed their lives for what they believed. They came to church on that day because they believed in Christ. They sacrificed their lives because they loved Christ like other saints.”
+
+...
+
+[Data](articles/d60ed575.json)
+
+[Extended Data](ext_articles/d60ed575.ext.json)
+
+---
+
 ### Turkey’s parliament approves Sweden’s NATO membership, lifting a key hurdle
 
 *2024-01-24 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96699/turkeys-parliament-approves-swedens-nato-membership-lifting-a-key-hurdle) · `en`
@@ -1987,69 +2037,5 @@ Even if the school is used through a temporary alternative, it is unable to cont
 [Data](articles/3d79c83e.json)
 
 [Extended Data](ext_articles/3d79c83e.ext.json)
-
----
-
-### Navy bears a stock of beady leaves
-
-*2024-01-24 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192509) · `si`
-
-Navy seized over 520 kilograms of beed leaves in the sea area in Kalpitiya.
-
-The coastal patrol junk attached to the North Western Naval Command, the resident states that the beedy was found in a guard in the sea.
-
-The beach had taken place in the sea and the stock of beaded has been taken into custody.
-
-The navy suspicles that the stock cannot be brought to the land, the Navy suspects the racketeers to leave the sea.
-
-◼️
-
-[Data](articles/129d7000.json)
-
-[Extended Data](ext_articles/129d7000.ext.json)
-
----
-
-### Five Massacre: One Arrest Vehicle
-
-*2024-01-24 14:14:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/ஐவர்-படுகொலை-ஒருவர்-கைது-வாகனமும்-சிக்கியது/93-332057) · `ta`
-
-A Sri Lankan man has been arrested for allegedly shooting five people in Beliatta on Monday (22). The Public Security Ministry said the vehicle used for it was seized.
-
-A team of officials, including the Hakmana Police Station, under the supervision of the Matara Division officer, has been arrested in connection with the investigation.
-
-Saman Kumara, a 54 -year -old man, has been arrested for allegedly acting as a brainchild from Sri Lanka. The police have also seized the Mitsubishi Pejero jeep with a number of 65-2615 who came for the crime.
-
-The ministry said that the man who had come to commit the crime had been driving the vehicle.
-
-◼️
-
-[Data](articles/bb8d01f9.json)
-
-[Extended Data](ext_articles/bb8d01f9.ext.json)
-
----
-
-### Investors will not come back by the faults of certain government officials
-
-*2024-01-24 14:12:36* · [`adalk`](https://www.ada.lk/breaking_news/ඇතැම්-රාජ්‍ය-නිලධාරින්ගේ-වැරැදි-නිසා-ආයෝජකයින්-නැවත-එන්නේ-නෑ/11-407709) · `si`
-
-Urban Development and Housing Minister Prasanna Ranatunga says that the archasal garbage project will be completed by March. The Minister instructed officials to expedite their final stages.
-
-The Minister emphasized to promote legitimate measures to promote certain measures to the problems of investors.
-
-Minister Prasanna Ranatunga said that investors could not return to Sri Lanka due to such delays and the faults of certain government officials.
-
-The Minister was speaking at a discussion held at the Urban Development Superintendent Auditorium yesterday (23) at a discussion held at the Urban Development Superintendent (UDA).
-
-China Harbery Engineering Company and Seina Harbor Engineering Company and the Journal Instriculture Instart Op Chainitha Company conducts the construction of a chartedated deposition.
-
-Minister Prasanna Ranatunga further stated that the delay in addressing the problems arisen in dealing with foreign investors is a delay in the country.
-
-...
-
-[Data](articles/967855dc.json)
-
-[Extended Data](ext_articles/967855dc.ext.json)
 
 ---

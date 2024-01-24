@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 19:17:12**
+As of **2024-01-24 19:32:53**
 
 ## Newspaper Stats
 
-*Scraped **2,387** Articles*
+*Scraped **2,391** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,48 @@ economynextcom | 144
 adaderanasinhalalk | 178
 dailyftlk | 181
 adalk | 236
-virakesarilk | 270
-tamilmirrorlk | 297
+virakesarilk | 271
 adaderanalk | 298
-dailymirrorlk | 314
+tamilmirrorlk | 299
+dailymirrorlk | 315
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,387 (100.0%) of 2,387 articles have been extended.
+2,387 (99.8%) of 2,391 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### சாந்தனின் உயிருக்கு அபத்து
+
+*2024-01-24 18:48:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-உயிருக்கு-அபத்து/175-332066) · `ta`
+
+இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ்காந்தி கொலை வழக்கில் விடுதலையாகி தற்போது திருச்சி சிறைமுகாமில் தடுத்துவைக்கப்பட்டிருக்கும் சாந்தனின் உடல்நிலை பாதிக்கப்பட்டுள்ளதாக சிறைக்கைதிகள் உரிமை மையம் என்ற அமைப்பு தெரிவித்துள்ளது.
+
+திருச்சி சிறப்பு முகாமில் சாந்தனிற்கு உரிய சிகிச்சை அளிக்கப்படவில்லை இதனால் அவரின் உயிருக்கு ஆபத்து ஏற்பட்டுள்ளது இதனால் சென்னை பல்நோக்கு சிறப்பு மருத்துவமனையில் அவருக்கு சிகிச்சை வழங்கவேண்டும் என சிறைக்கைதிகள் உரிமை மையம்  தமிழக முதல்வருக்கு கடிதம் எழுதியுள்ளது.
+
+ராஜீவ்காந்தி கொலை வழக்கில் தண்டனை பெற்று தற்போது விடுதலையான சாந்தன் இலங்கைக்கு திரும்புவதற்காக விசா போன்றவற்றை பெற்றுக்கொள்வதற்காக காத்திருக்கின்றார், திருச்சி முகாமில் அடைக்கப்பட்டுள்ள சாந்தனிற்கு சிறுநீரக பாதிப்பு எற்பட்டுள்ளதால் அவருக்கு உரிய சிகிச்சை வழங்குவதற்கான நடவடிக்கைகள் திருச்சி சிறப்பு முகாமில் எடுக்கப்படாததால் அவரின் உயிரை காப்பாற்றுவதற்காக  தமிழக முதல்வர் உரிய நடவடிக்களை எடுக்கவேண்டும் என சிறைக்கைதிகள் உரிமைகள் மையம் தனது கடிதத்தில் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/0b3d4ead.json)
+
+---
+
+### Parliament approves Online Safety Bill
+
+*2024-01-24 18:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-approves-Online-Safety-Bill/108-275666) · `en`
+
+Parliament, Jan. 24 (Daily Mirror)- The Online Safety Bill was passed with amendments in parliamnt.
+
+◼️
+
+[Data](articles/c76e4c15.json)
+
+---
 
 ### Before final procession...
 
@@ -77,6 +105,22 @@ An alms giving ceremony was held today at the Buddhist Ladies College, Colombo p
 [Data](articles/3986c70b.json)
 
 [Extended Data](ext_articles/3986c70b.ext.json)
+
+---
+
+### 54 பேர் பங்கேற்கவில்லை: அரசுக்கு நான்கு பேர் ஆதரவு
+
+*2024-01-24 17:58:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/54-பேர்-பங்கேற்கவில்லை-அரசுக்கு-நான்கு-பேர்-ஆதரவு/175-332065) · `ta`
+
+நிகழ்நிலை காப்புச் சட்டமூலம் 46 மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டது. இந்த சட்டமூலத்துக்கு ஆதரவாக 108 வாக்குகளும் எதிராக 62 வாக்குகளும்  அளிக்கப்பட நிலையில் 54 பேர் வாக்களிப்பில் பங்கேற்கவில்லை.
+
+எதிர்க்கட்சிகளின், பொதுமக்கள் மற்றும் பொது அமைப்புக்களின்  கடும் எதிர்ப்புகளுக்கு மத்தியில் பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலசினால் செவ்வாய்க்கிழமை (23) சபையில் சமர்ப்பிக்கப்பட்ட நிகழ்நிலை காப்புச் சட்டமூலம் மீதான விவாதம் செவ்வாய் மற்றும் புதன் ஆகிய இரு நாட்களாக இடம்பெற்ற நிலையில்  புதன்கிழமை (24) விவாத முடிவில் எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல எம்.பி. சட்ட மூலத்தை நிறைவேற்ற வாக்கெடுப்பைக் கோரினார்.
+
+இதனையடுத்து இடம்பெற்ற வாக்கெடுப்பிலேயே நிகழ்நிலை காப்புச்  சட்டமூலத்துக்கு ஆதரவாக 108 வாக்குகளும் எதிராக 62 வாக்குகளும் அளிக்கப்பட்ட நிலையில் 46 மேலதிக வாக்குகளினால் சட்டமூலம் நிறைவேற்றப்பட்டது.
+
+...
+
+[Data](articles/6503965b.json)
 
 ---
 
@@ -385,6 +429,24 @@ At the same time, the highlight of the position as the Army Commander. Moreover,
 [Data](articles/c056e165.json)
 
 [Extended Data](ext_articles/c056e165.ext.json)
+
+---
+
+### சுகாதாரத்துறையின் எதிர்கால மேம்பாட்டுக்கு ஐ.நா. அபிவிருத்தித் திட்டத்திடமிருந்து தொழிநுட்ப உதவிகள்
+
+*2024-01-24 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/174697) · `ta`
+
+இலங்கையில் சிகிச்சை முறைமைகள், டெங்கு ஒழிப்பு உள்ளிட்ட சுகாதார சேவைகளுக்குத் தேவையான நவீன மருத்துவ உபகரணங்களை வழங்குமாறு சுகாதார அமைச்சர் ரமேஷ் பத்திரண, ஐக்கிய நாடுகள் அபிவிருத்தி வேலைத்திட்டதிடம் கோரியுள்ளார்.
+
+சுகாதாரம் மற்றும் கைத்தொழில் அமைச்சர் ரமேஷ் பத்திரண மற்றும் ஐக்கிய நாடுகள் அபிவிருத்தி வேலைத்திட்டத்தின் இலங்கைக்கான வதிவிடப்பிரதிநிதி அசுசா குபோடா ஆகியோருக்கிடையில் நேற்று புதன்கிழமை இடம்பெற்ற சந்திப்பின் போதே இவ்விடயம் தொடர்பில் அவதானம் செலுத்தப்பட்டுள்ளது.
+
+இலங்கையின் சுகாதாரத்துறையின் எதிர்கால மேம்பாட்டுக்காக நவீன தொழிநுட்பத்தைப் பயன்படுத்துவது தொடர்பில் இதன் போது நீண்ட கலந்துரையாடல் இடம்பெற்றுள்ளது.
+
+இலங்கையில் டெங்கு நுளம்புகள் பரவும் வீதம் சற்று அதிகரித்துள்ளதால்,  அவற்றைக் கட்டுப்படுத்துவதற்கும், நுளம்புகள் பெருகும் இடங்களைக் கண்டறிவதற்கும், அவற்றை அழிப்பதற்கு தேவையான உபகரணங்களைப் பயன்படுத்துவதற்கும் நவீன தொழில்நுட்பத்தைப் பயன்படுத்துவது அவசியமாகும். அதற்கமைய இதற்கான நவீன தொழிநுட்ப கருவிகளை வழங்குமாறு சுகாதார அமைச்சர்,  அசுசா குபோடாவிடம் கோரிக்கை விடுத்துள்ளார்.
+
+...
+
+[Data](articles/0d8a9eda.json)
 
 ---
 
@@ -1941,91 +2003,5 @@ Russian plane crashes with 65 Ukrainian prisoners of war on board
 [Data](articles/d726523f.json)
 
 [Extended Data](ext_articles/d726523f.ext.json)
-
----
-
-### Investor anxiety over IMF’s third tranche triggers panic-selling of shares
-
-*2024-01-24 12:05:00* · [`islandlk`](http://island.lk/148694-2/) · `en`
-
-The stock market was gripped by panic- selling of shares yesterday as investors agonized over the possibility of Sri Lanka being unable to obtain the third IMF tranche of US $ 333 million, following the second review, stock market analysts said.
-
-The IMF expects Sri Lanka to reach a deal with commercial creditors by the next review, Senior Mission Chief Peter Breuer said last week.
-
-Amid those developments both indices moved downwards. The All- Share Price Index went down by 83 points and S and P SL20 declined by 22 points. Turnover stood at Rs 700 million minus crossings.
-
-...
-
-[Data](articles/46a01257.json)
-
-[Extended Data](ext_articles/46a01257.ext.json)
-
----
-
-### 7 Fishermen death sentence
-
-*2024-01-24 12:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-மீனவர்களுக்கு-மரண-தண்டனை/175-332051) · `ta`
-
-Seven fishermen have been sentenced to death for allegedly killing three fishermen in 2012.
-
-The case was taken up by the Colombo High Court when the case was taken up for hearing this morning.
-
-In addition, the accused have been sentenced to 29 years in prison.
-
-After a long hearing, the judge announced the verdict, saying that the allegations leveled against the accused were undoubtedly proved.
-
-The then Attorney General had filed a case against 11 people in connection with the incident.
-
-It is noteworthy that three of them have died, and the case is being carried out against 8 defendants.
-
-◼️
-
-[Data](articles/8334f5fb.json)
-
-[Extended Data](ext_articles/8334f5fb.ext.json)
-
----
-
-### 7 fishermen death sentence in murder
-
-*2024-01-24 12:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொலை-வழக்கில்-7-மீனவர்களுக்கு-மரண-தண்டனை/175-332051) · `ta`
-
-Seven fishermen have been sentenced to death for allegedly killing three fishermen in 2012.
-
-The case was taken up by the Colombo High Court when the case was taken up for hearing this morning.
-
-In addition, the accused have been sentenced to 29 years in prison.
-
-After a long hearing, the judge announced the verdict, saying that the allegations leveled against the accused were undoubtedly proved.
-
-The then Attorney General had filed a case against 11 people in connection with the incident.
-
-It is noteworthy that three of them have died, and the case is being carried out against 8 defendants.
-
-◼️
-
-[Data](articles/f7311b9d.json)
-
-[Extended Data](ext_articles/f7311b9d.ext.json)
-
----
-
-### Action to use the National Identity Card as an individual's tax digit (TIN)!
-
-*2024-01-24 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174679) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya said that steps will be taken to use the National Identity Card as an individual's tax number (TIN).
-
-The Minister of Finance said that this will create a clear data system on government income.
-
-He added that the process is being carried out using the information system of the age of 18 years.
-
-He made this statement during a discussion held at the Presidential Office on the issue of Rin's number to the people.
-
-◼️
-
-[Data](articles/7097e65c.json)
-
-[Extended Data](ext_articles/7097e65c.ext.json)
 
 ---

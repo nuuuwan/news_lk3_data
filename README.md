@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 23:17:23**
+As of **2024-01-24 23:33:02**
 
 ## Newspaper Stats
 
-*Scraped **2,429** Articles*
+*Scraped **2,435** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,35 @@ adalk | 241
 virakesarilk | 276
 tamilmirrorlk | 301
 adaderanalk | 308
-dailymirrorlk | 319
+dailymirrorlk | 325
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,428 (100.0%) of 2,429 articles have been extended.
+2,429 (99.8%) of 2,435 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Parents arrested after leaving children alone at home to fulfill religious vow
+
+*2024-01-24 22:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parents-arrested-after-leaving-children-alone-at-home-to-fulfill-religious-vow/108-275674) · `en`
+
+A couple of parents in Deegalla in Kuliyapitiya who went on a pilgrimage to Sri Padasthana to fulfil a vow leaving their three children all alone within closed doors were arrested today by the Kuliyapitiya police.
+
+The three children were eight, five and three years of age and they were taken charge of the police on information from the public received through Police Emergency Service 119.
+
+Police said they rushed to the scene and broke opened the doors to find the three children who had taken ill of fever in fear of being left alone and admitted them to a hospital. Investigations revealed that the parents had gone on a pilgrimage, leaving the three children with a stock of biscuits, and bread to eat.
+
+The police arrested the parents on their return, and kept the mother to take care of the children under treatment. Police said the suspect parents would be produced in court.
+
+◼️
+
+[Data](articles/77e4bf4f.json)
+
+---
 
 ### One person injured in shooting in Colombo
 
@@ -48,21 +66,23 @@ The injured individual has been admitted to the National Hospital, Colombo, acco
 
 ---
 
-### කොළඹ වෙඩිතැබීමක්
+### Shooting in Colombo
 
 *2024-01-24 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192532) · `si`
 
-අද (24) රාත්‍රී 9ත් 9.30ත් අතර කොළඹ ජින්තුපිටිය ප්‍රදේශයේදී වෙඩිතැබීමක් සිදුකර තිබේ.
+A shot dead in the Jidtupitiya area in Colombo today (24).
 
-වෙඩිවැදීමෙන් තුවාල ලැබූ පුද්ගලයෙකු කොළඹ ජාතික රෝහලට ඇතුළත් කර ඇති බව පොලීසිය පවසයි.
+A person who was injured in shooting has been admitted to the Colombo National Hospital.
 
-යතුරුපැදියකින් පැමිණි නාඳුනන වෙඩික්කරුවන් දෙදෙනෙකු විසින් වෙඩිතැබීම සිදුකර පළාගොස් ඇති බවද පොලීසිය පැවසීය.
+Two unidentified shooters who came from a motorcycle had fled the police.
 
-ආදුරුප්පුවීදිය පොලිස් වසමේ ජින්තුපිටිය, ජින්තුපිටිය වීදිය ප්‍රදේශයේදී මෙම වෙඩි තැබීම සිදුකර ඇති බවද තවදුරටත් වාර්තා වෙයි.
+It is also reported that the shooting was carried out in the Jidathupitiya Street area in Githupitiya.
 
 ◼️
 
 [Data](articles/155dd828.json)
+
+[Extended Data](ext_articles/155dd828.ext.json)
 
 ---
 
@@ -81,6 +101,22 @@ Since its establishment in 2013, CTC focused its work mainly on assessing the st
 [Data](articles/39ee1221.json)
 
 [Extended Data](ext_articles/39ee1221.ext.json)
+
+---
+
+### Sri Lanka defeated Namibia by 77 runs in Kimberley
+
+*2024-01-24 22:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-defeated-Namibia-by-77-runs-in-Kimberley/108-275683) · `en`
+
+Jan. 24 (ICC) - In the 12th match of the ICC Under-19 World Cup at Diamond Oval in Kimberley, Sri Lanka secured a commanding 77-run victory over Namibia, showcasing a blend of robust batting and incisive bowling.
+
+The Eagles kept Sri Lanka in check with their tight lines and ensured that the run rate crept at less than two in the first seven overs. Under pressure, Pulindu Perera tried to steal a quick single and was run out by a brilliant teamwork from Peter-Daniel Blignaut, who ran in from point to throw the ball at the non-striker's end, and Junior Kariata, who managed to break stumps despite being awkwardly placed.
+
+The Island nation were then rocked by Zacheo van Vuuren, who brought two wickets in his first two overs. Sineth Jayawardena's minimal foot movement meant that he was unable to cover one that came in, while Ravishan de Silva was brilliantly held by JW Visagie after he nicked one to the keeper's right.
+
+...
+
+[Data](articles/c2a91caa.json)
 
 ---
 
@@ -148,6 +184,24 @@ Body of the deceased officer has been placed at the mortuary of Debarawewa Hospi
 
 ---
 
+### ’’Rattaran’’ is my childhood nickname: Rohitha
+
+*2024-01-24 21:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rattaran-is-my-childhood-nickname-Rohitha/108-275671) · `en`
+
+Parliament, Jan. 24 (Daily Mirror)- Claiming that "Rattaran" was a nickname given to him in childhood, Parliamentarian Rohitha Abeygunawardane said he would resign if anyone proved that a police complaint had been made against him for snatching necklaces.
+
+The MP told parliament that he was called "Rattaran" in his childhood as a nickname and that after he came to politics, people started to say that he was called "Rattaran" because of snatching necklaces.
+
+"We are given nicknames when we were born. I was called 'Rattaran' in my childhood. People in my area know me as 'Rattaran'. When I came to politics people started to say that I was called "Rattaran" because I snatched necklaces. It is circulated in social media. If anyone can prove that a complaint was made against me for snatching necklaces, I will resign as MP tomorrow," he said.
+
+Speaking during the debate on Online Safety Bill, he said social media was circulating false news to get hits and earn money.
+
+◼️
+
+[Data](articles/96e09d3f.json)
+
+---
+
 ### The Pakistani origin is hurried
 
 *2024-01-24 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192529) · `si`
@@ -175,6 +229,26 @@ According to the authorities, he can join the England team over the weekend.
 [Data](articles/a5c90f80.json)
 
 [Extended Data](ext_articles/a5c90f80.ext.json)
+
+---
+
+### Meenagaya’s buffet compartment sealed till February 8
+
+*2024-01-24 21:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Meenagayas-buffet-compartment-sealed-till-February-8/108-275672) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - Following a court order, the buffet compartment of the Meenagaya inter-city express train running from Batticaloa to Colombo Fort has been temporarily sealed till February 8, the Railways Department said.
+
+They said the court order was issued following a sudden inspection conducted over the buffet compartment on Monday (22) by a team comprising the Batticoloa Public Health Inspector (PHI).
+
+During the sudden inspection, the group had observed that the buffet compartment was being run in an unhygienic manner, the department said
+
+Even though the buffet compartment had been advised earlier to be maintained in a hygienic manner, it remained the same. Therefore, the complaint was heard and a court order was issued to seal the compartment.
+
+The complaint was heard before the Batticaloa Magistrate today, and the Magistrate has ordered that the buffet compartment of the train be sealed till February 8.
+
+...
+
+[Data](articles/2508314c.json)
 
 ---
 
@@ -596,6 +670,24 @@ The prison center has requested that he be saved because he is fighting for life
 
 ### Parliament approves Online Safety Bill
 
+*2024-01-24 18:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Parliament-approves-Online-Safety-Bill/155-275666) · `en`
+
+Parliament, Jan. 24 (Daily Mirror)- Amidst criticism from tech industry giants such as Google, Yahoo, and Amazon, Parliament approved the contentious Online Safety Bill, a piece of legislation perceived by some as draconian and a potential threat to freedom of expression.
+
+The bill was passed without a vote in the House after Third Reading of the bill, a two-day debate in which the opposition launched a scathing attack on it saying it borders on the infringement of freedom of expression.
+
+During the Second Reading, the bill was taken to vote with 108 supporting it and 62 opposing. However, the Supreme Court cleared the bill subjected to amendments proposed by it.
+
+Asia Internet Coalition (AIC), a body comprising internet and technology companies in the world, and its members, expressed concern about the Online Safety Bill and called for extensive revisions and overhaul of it.
+
+...
+
+[Data](articles/51d4e0ab.json)
+
+---
+
+### Parliament approves Online Safety Bill
+
 *2024-01-24 18:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-approves-Online-Safety-Bill/108-275666) · `en`
 
 Parliament, Jan. 24 (Daily Mirror)- The Online Safety Bill was passed with amendments in parliamnt.
@@ -715,6 +807,24 @@ We agree that social media should be monitored. This bill is the main objective 
 [Data](articles/613d46b2.json)
 
 [Extended Data](ext_articles/613d46b2.ext.json)
+
+---
+
+### Price of local eggs increased by Rs. 3
+
+*2024-01-24 17:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Price-of-local-eggs-increased-by-Rs-3/108-275663) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - The All Ceylon Egg Producers' Association (ACEPA) has decided to increase the price of a locally produces egg by Rs. 3 after the increase in the standard value-added tax (VAT) rate from 15% to 18% from January 1.
+
+With the increase in the VAT, the price of an egg imported from India had been increased by Rs. 8. As a result, the price of a locally produced egg too was increased by Rs. 3.
+
+Accordingly, the stock price of an egg directly from the poultry farm has been increased to Rs. 48. However, after the meeting held on January 21, the price increment will be effective from that day.
+
+Accordingly, the retail price of an egg will be Rs. 54.55, the association president said.
+
+◼️
+
+[Data](articles/73d2f0bc.json)
 
 ---
 
@@ -1893,141 +2003,5 @@ Thus, the said Bills will come into effect as the Office for National Unity and 
 [Data](articles/a2781a89.json)
 
 [Extended Data](ext_articles/a2781a89.ext.json)
-
----
-
-### Will go home if they prove that the necklaces
-
-*2024-01-24 14:31:49* · [`adalk`](https://www.ada.lk/breaking_news/මාල-කැඩුවා-කියලා-ඔප්පුකළොත්-ගෙදර-යනවා/11-407711) · `si`
-
-Kalutara District MP Rohitha Abeygunawardena said in parliament that if a police book had loved the necklaces tomorrow.
-
-Mr. Abeygunawardena said he would challenge the presentation if he had seen the necklaces.
-
-He said that he had a name named at home when he was a child, he said that he was speeded by gold.
-
-Rohitha Abeygunawardena said that the social media has been reintegrated into politics after the necklace is gold.
-
-◼️
-
-[Data](articles/d2a774b6.json)
-
-[Extended Data](ext_articles/d2a774b6.ext.json)
-
----
-
-### Mahinda Kodituwakku has been remanded again
-
-*2024-01-24 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192512) · `si`
-
-The man named Mahinda Kodituwakku, who appeared in the name of Avalokithen, has been remanded until February 7.
-
-The injunction has been given the suspect, after being produced before the Fort and the Magistrate's Court.
-
-Meanwhile, the report received regarding the suspect's mental state was produced before the court today (24).
-
-The victim was arrested by the Fed's Criminal Investigation Department on the 15th.
-
-Fort Magistrate Thilina Gamage ordered the suspect following the 16th.
-
-The suspect is produced at the Angoda National Mental Health Hospital and produce a report on his mental health condition.
-
-Accordingly, the suspect was taken to the Angoda Muthural Health Scienceship yesterday, and it has been investigated for more than two hours.
-
-◼️
-
-[Data](articles/c0b20546.json)
-
-[Extended Data](ext_articles/c0b20546.ext.json)
-
----
-
-### Man arrested for appearing as a monk
-
-*2024-01-24 14:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192511) · `si`
-
-Bambalapitiya Police have arrested a person who was elected as a monk.
-
-A man of the Shanthi Viharaya in Bambalapitiya has lodged a complaint with a person, a child, a child and a girl to go from house to house.
-
-A resident of Galahenakanda, 38, has been arrested following the investigation into the matter.
-
-At the time he was arrested, he had not had a bhikkhu ID and he was a shorter time in Narammala and was a victim of a temple.
-
-The 13-year-old boy was revealed in accordance with the age group of 14 years of girl and was arrested by the Bambalapitiya Police on the guilty of being worried about children.
-
-The monk who was with them was in his possession of a registered bhikkhu ID and the children have been produced before the police station.
-
-◼️
-
-[Data](articles/3d4b8913.json)
-
-[Extended Data](ext_articles/3d4b8913.ext.json)
-
----
-
-### The army was arrested from Sri Lanka
-
-*2024-01-24 14:20:20* · [`adalk`](https://www.ada.lk/breaking_news/පංච-පුද්ගල-ඝාතනය-මෙරට-සිට-සැලසුම්-කළ-පුද්ගලයා-අත්අඩංගුවට/11-407710) · `si`
-
-The police said that the murder was taken into custody and the vehicle was arrested by the police while five persons were shot dead in the country (22).
-
-The Mitubishi Siyaroro jeep, 65-2615, has been conducted from the investigation of the Matara Divisional Secretary under the supervision of the Matara Division.Police said.
-
-Police say that the suspect has revealed that the suspect has been revealed to the crime.
-
-◼️
-
-[Data](articles/bb2b98ad.json)
-
-[Extended Data](ext_articles/bb2b98ad.ext.json)
-
----
-
-### Sri Lanka micro-finance bill challenged by community organizations
-
-*2024-01-24 14:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-micro-finance-bill-challenged-by-community-organizations-148535/) · `en`
-
-ECONOMYNEXT – A planned bill to regulate micro-finance organizations has been challenged in the Supreme Court by traditional community organizations which provide savings and credit, according to a statement.
-
-The proposed bill  is “intrusive and violate the autonomy of community organisations such as Death Donations and Welfare Societies, Sarvodaya Shramadana Societies and Women’s Organisations engaged in community savings and credit providing activities for generations before modern micro-finance began,” they say.
-
-The community based organizations have also complained that larger finance companies which also provide micro-finance and where concerns have been raised about “predatory lending”, appear to be excluded.
-
-Regulating for the sake of regulating will harm these community-based initiatives and trample on low-income people’s autonomy and traditional rights to organise their credit services, petitioners have said.
-
-...
-
-[Data](articles/28eedd31.json)
-
-[Extended Data](ext_articles/28eedd31.ext.json)
-
----
-
-### The villagers rise up against Gautam Printer
-
-*2024-01-24 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192510) · `si`
-
-The villagers have objected against a port project planned to expand the coast of the Village of South Indian and Tamil Nadu.
-
-The village in the village is located along the Bay of Bengal.
-
-They say that if the port is expanded, they can destroy their villages and bloom their lives.
-
-The multi-purpose port, which spread throughout 330 acres, was built by Larson & Tobro.
-
-Rajapakse Parks has proposed to increase the project another 18 times.
-
-Once the project is completed, the annual container is up to 24.6 to 320 metric tons.
-
-The new railway systems and highway systems will be created across the area and will be able to improve trade relations.
-
-However, the fishing community says the project can be destroyed by this project.
-
-◼️
-
-[Data](articles/289e1687.json)
-
-[Extended Data](ext_articles/289e1687.ext.json)
 
 ---

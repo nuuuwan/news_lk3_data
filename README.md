@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 16:04:27**
+As of **2024-01-24 16:17:26**
 
 ## Newspaper Stats
 
-*Scraped **2,340** Articles*
+*Scraped **2,347** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,64 +17,148 @@ economynextcom | 142
 adaderanasinhalalk | 173
 dailyftlk | 181
 adalk | 232
-virakesarilk | 262
-adaderanalk | 291
+virakesarilk | 264
 tamilmirrorlk | 292
+adaderanalk | 296
 dailymirrorlk | 302
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,329 (99.5%) of 2,340 articles have been extended.
+2,340 (99.7%) of 2,347 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### எனது மூத்த மகள் வீட்டுக்குள் புகுந்த திருடர்கள் பக்கற்றுகள், பானங்கள்  உணவுப் பொருட்களை எடுத்துச் சென்றனர்: மைத்திரிபால!
+### Police Spokesman Nihal Thalduwa promoted to DIG
 
-*2024-01-24 15:34:00* · [`virakesarilk`](https://www.virakesari.lk/article/174699) · `ta`
+*2024-01-24 15:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96697/police-spokesman-nihal-thalduwa-promoted-to-dig) · `en`
 
-தனது மூத்த மகள் வீட்டில் தங்கக் குதிரைகள் இருந்ததாக கூறப்படும் கதை பொய்யானது என முன்னாள் ஜனாதிபதியான பொலன்னறுவை மாவட்ட நாடாளுமன்ற உறுப்பினர் மைத்திரிபால சிறிசேன புதன்கிழமை (24) நாடாளுமன்றத்தில் தெரிவித்தார்.
+Senior Superintendent of Police (SSP) Nihal Thalduwa has been promoted to the rank of Deputy Inspector General of Police (DIG).
 
-அவர் மேலும் கூறியதாவது, எனது மூத்த மகள் வீட்டில் திருடர்கள் புகுந்தனர். அந்த வீட்டிலிருந்து பால் பக்கற்றுகள் மற்றும்  சில உணவுப் பொருட்களையும் பானங்களையும் எடுத்துச் சென்றுள்ளனர். ஆனால், தங்கக் குதிரைகள் அந்த வீட்டில் எதுவும் இல்லை.
+Accordingly, DIG Thalduwa will take charge of Police Crime Range and will continue to serve as the Police Media Spokesman as well.
 
-மேலும் நூறு கோடி செலவு செய்து  பொலன்னறுவையில் அருங்காட்சியகத்தை உருவாக்கினேன். இந்த நாட்டில் எந்த ஜனாதிபதியும் அருங்காட்சியகம் கட்டவில்லை என்றும் அவர் தெரிவித்தார்.
+◼️
+
+[Data](articles/69a2bbbf.json)
+
+---
+
+### 4 சட்டமூலங்களுக்கு சபாநாயகர் கைச்சாத்து
+
+*2024-01-24 15:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/174707) · `ta`
+
+பாராளுமன்றத்தில் அண்மையில் நிறைவேற்றப்பட்ட தேசிய ஒற்றுமைக்கும் நல்லிணக்கத்துக்குமான அலுவலக சட்டமூலம், மத்தியஸ்த சபை (திருத்தச்) சட்டமூலம்,அற்றோனித் தத்துவம் (திருத்தச்) சட்டமூலம் மற்றும் மோசடிகளைத் தடுத்தல் (திருத்தச்) சட்டமூலம் என்பவற்றில் செவ்வாய்க்கிழமை  கையொப்பத்தையிட்டு சான்றுரைப்படுத்தியதாக சபாநாயகர்  மஹிந்த யாப்பா அபேவர்தன சபைக்கு  அறிவித்தார்.
+
+பாராளுமன்றம்  புதன்கிழமை (24) காலை 9.30 மணிக்கு சபாநாயகர் மஹிந்த யாப்பா அபேவர்தன தலைமையில் கூடியது. இதன்போது இடம்பெற்ற சபாநாயகர் அறிவிப்பின்போதே  அவர் இவ்வாறு  சபைக்கு அறிவித்தார்.
+
+இதற்கமைய, இந்தச் சட்டமூலங்கள் 2024 ஆம் ஆண்டின் 01 ஆம் இலக்க தேசிய ஒற்றுமைக்கும் நல்லிணக்கத்துக்குமான அலுவலக சட்டம், 2024 ஆம் ஆண்டின் 02 ஆம் இலக்க மத்தியஸ்த சபை (திருத்தச்) சட்டம், 2024 ஆம் ஆண்டின் 03 ஆம் இலக்க அற்றோனித் தத்துவம் (திருத்தச்) சட்டம் மற்றும் 2024 ஆம் ஆண்டின் 04 ஆம் இலக்க மோசடிகளை தடுத்தல் (திருத்தச்) சட்டமாக 23 ஆம் திகதி செவ்வாய்க்கிழமை முதல் அமுலுக்கு வருகின்றன என்றார்.
+
+◼️
+
+[Data](articles/8ad1f565.json)
+
+---
+
+### Sri Lanka’s proposed Online Safety Bill threatens upcoming elections – Human Rights Watch
+
+*2024-01-24 15:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96696/sri-lankas-proposed-online-safety-bill-threatens-upcoming-elections-human-rights-watch) · `en`
+
+The Human Rights Watch (HRW) states that Sri Lanka’s proposed Online Safety Bill will create broad and vague new speech-related offences punishable by lengthy prison terms, while critically threatening the right to freedom of expression.
+
+“A repressive new internet law that Sri Lankan President Ranil Wickremesinghe is trying to rush through parliament this week would create broad and vague new speech-related offences punishable by lengthy prison terms. The law would seriously threaten the right to freedom of expression as Sri Lanka prepares for parliamentary and presidential elections later this year”, it said in a statement.
+
+...
+
+[Data](articles/d3627c4b.json)
+
+---
+
+### மாணவனின் மர்ம உயிரிழப்பு ; மத்ரஸா குறித்து ஆராய குழு நியமிப்பு
+
+*2024-01-24 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174704) · `ta`
+
+மத்ரஸா பாடசாலை மாணவனின் மர்ம உயிரிழப்பு தொடர்பான சம்பவம் தொடர்பில் முஸ்லீம் சமய பண்பாட்டு அலுவல்கள் திணைக்களம் விசாரணை மேற்கொள்வதற்காக ஐவர் கொண்ட குழு ஒன்றினை நியமித்துள்ளது.
+
+அம்பாறை மாவட்டம் சாய்ந்தமருது சந்தை  வீதியில் அமைந்துள்ள கட்டடம்  ஒன்றில் நடாத்தப்படும்  மத்ரஸா ஒன்றில்  கடந்த வருடம் டிசம்பர் மாதம்  5 ஆம் திகதி அன்று   மட்டக்களப்பு மாவட்டம்  காத்தான்குடி பகுதியைச்  சேர்ந்த எம்.எஸ். முஸ்அப் (வயது-13) எனும்  மாணவன்  தூக்கில் தொங்கி  உயிரிழந்ததாக தெரிவிக்கப்பட்டு சாய்ந்தமருது பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டிருந்தார்.
+
+மேலும் குறித்த மாணவனின்  மரணத்தில் சந்தேகம் இருப்பதாக பொதுமக்கள் ஒன்று கூடி குறிப்பிட்ட மதர்ஸாவின் நிர்வாகி மீது தாக்குதல் மேற்கொள்ள தயாராகிய வேளை  மேலதிக பொலிஸார் அவ்விடத்திற்கு அழைக்கப்பட்ட நிலையில்  சாய்ந்தமருது பொலிஸாரால்   மதரஸா  நிர்வாகியாகிய மௌலவி  கைது செய்யப்பட்டு அழைத்து செல்லப்பட்டு வழக்கு தாக்கல் மேற்கொள்ளப்பட்டு மன்றின் உத்தரவிற்கமைய விளக்கமறியலில் வைக்கப்பட்டுள்ளார்.
+
+...
+
+[Data](articles/dbdbb33c.json)
+
+---
+
+### My eldest daughter entered the house and took sides and drinks of food: Maithripala!
+
+*2024-01-24 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174699) · `ta`
+
+Former President Polonnaruwa District Parliamentarian Maithripala Sirisena told parliament on Wednesday (24)
+
+He added that the thieves entered the house of my eldest daughter. Have carried milk sides and some foods and drinks from the house. But, the golden horses have nothing in that house.
+
+I also built a museum in Polonnaruwa at a cost of Rs.. He also said that no president in this country had built a museum.
 
 ◼️
 
 [Data](articles/647f270a.json)
 
+[Extended Data](ext_articles/647f270a.ext.json)
+
 ---
 
-### බිහිසුණු ගුවන් අනතුරක්
+### Russian military plane crashes near Ukraine with 65 Ukrainian POWs on board
+
+*2024-01-24 15:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96695/russian-military-plane-crashes-near-ukraine-with-65-ukrainian-pows-on-board) · `en`
+
+A Russian military transport plane carrying 65 Ukrainian prisoners of war, six crew and three people accompanying them crashed on Wednesday morning in Russia’s Belgorod region near Ukraine, Russia’s Defense Ministry said.
+
+It wasn’t immediately clear what caused the crash, which occurred around 11 a.m. It was also not known if anyone survived.
+
+The authorities were investigating the cause of the crash, and a special military commission was on the way to the crash site, the Defense Ministry said.
+
+Earlier Wednesday, Ukrainian President Volodymyr Zelenskyy said a major Russian missile attack that apparently was devised to overwhelm Ukraine’s air defenses had killed 18 people and injured 130. Ukraine is marking the 700th day since the full-scale invasion by Kremlin’s forces started.
+
+...
+
+[Data](articles/2bde1086.json)
+
+---
+
+### A terrible air accident
 
 *2024-01-24 15:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192516) · `si`
 
-රුසියානු හමුදා යානයක් යුක්‍රේනය ආසන්න දේශ සීමාවේදී කඩා වැටී තිබේ.
+A Russian military plane has collapsed at the nearest border of Ukraine.
 
-විදෙස් මාධ්‍ය පැවසුවේ, දකුණු බෙල්ගොරෝඩ් ප්‍රදේශයට එම යානය කඩා වැටී ඇති බවත් එම අවස්ථාවේදී එම යානය තුළ පුද්ගලයින් 65 දෙනෙකු සිටි බවත්ය.
+Foreign media said that the aircraft had collapsed to the South Belgorod area and had 65 people on the plane.
 
-එම යානයේ සිට ඇත්තේ, යුක්‍රේන යුද සිරකරුවන් පිරිසක් බව බීබීසී පුවත් සේවය වාර්තා කළේය.
+The BBC reported that the aircraft had been in Ukrainian prisoners.
 
 ◼️
 
 [Data](articles/83a61510.json)
 
+[Extended Data](ext_articles/83a61510.ext.json)
+
 ---
 
-### හිටපු සෞඛ්‍ය ලේකම් ඇතුළු 7 දෙනා තවදුරටත් රිමාන්ඩ්
+### Former senior secretary and 7 other remanded
 
 *2024-01-24 15:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192515) · `si`
 
-සෞඛ්‍ය අමාත්‍යාංශයේ හිටපු ලේකම් ජනක ශ්‍රී චන්ද්‍රගුප්ත මහතා සහ සැකකරුවන් 06 දෙනා පෙබරවාරි 01 වනදා දක්වා තවදුරටත් රිමාන්ඩ් බන්ධනාගාරගත කර තිබේ.
+Former Secretary to the Ministry of Health, Sri Chandragupa and the six suspects were further remanded until February 1.
 
-ඒ ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් මිලදී ගැනීමේ සිද්ධිය සම්බන්ධයෙන් සිදුකෙරෙන විමර්ශනවලට අදාළවය.
+Investigations carried out regarding the purchasing output and vaccination of that standard.
 
 ◼️
 
 [Data](articles/01e995ad.json)
+
+[Extended Data](ext_articles/01e995ad.ext.json)
 
 ---
 
@@ -93,6 +177,46 @@ This achievement is particularly a significant milestone in the annals of milita
 ...
 
 [Data](articles/8e9cb455.json)
+
+[Extended Data](ext_articles/8e9cb455.ext.json)
+
+---
+
+### Attraction Struggle in Jaffna
+
+*2024-01-24 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/174698) · `ta`
+
+A protest campaign was launched in Jaffna today (24) against the Celebration Bill.
+
+Jaffna in front of Jaffna bus station. The struggle took place in the arrangement of the Christian Union.
+
+The protesters have been urged by the protesters, such as not to threaten democracy, restore the real status law and the restoration of the media.
+
+It is noteworthy that the Ceremony Backup Bill was presented to Parliament on Tuesday.
+
+◼️
+
+[Data](articles/b25bf518.json)
+
+[Extended Data](ext_articles/b25bf518.ext.json)
+
+---
+
+### Seven including ex-Health Secretary further remanded
+
+*2024-01-24 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96694/seven-including-ex-health-secretary-further-remanded) · `en`
+
+Seven suspects including the former Secretary to the Ministry of Health, Janaka Chandragupta, have been further remanded until 01 February, over the controversial procurement of substandard human immunoglobulin vials.
+
+The relevant order was issued by the Maligakanda Magistrate’s Court, when the case was taken up in court this morning (24 Jan.).
+
+Chandragupta was arrested by the Criminal Investigation Department (CID) on 18 December 2022, when he arrived at the premises to record a statement regarding the substandard human immunoglobulin scandal, which had taken place during his tenure as Health Secretary.
+
+On 14 December 2022, Maligakanda Magistrate Lochani Abeywickrama had deemed as suspicious the actions of the former Secretary of the Ministry of Health pertaining to the process of purchasing the batch of ‘substandard’ human intravenous immunoglobulin (IVIG).
+
+...
+
+[Data](articles/9774549f.json)
 
 ---
 
@@ -114,24 +238,6 @@ However, a official statement will be made in the future regarding the leadershi
 
 ---
 
-### நிகழ்நிலை காப்பு சட்டமூலத்துக்கு எதிராக யாழில் கவனயீர்ப்பு போராட்டம்
-
-*2024-01-24 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/174698) · `ta`
-
-நிகழ்நிலை காப்பு சட்டமூலத்துக்கு எதிராக இன்று புதன்கிழமை (24) யாழ்பாணத்தில் கவனயீர்ப்பு போராட்டம் ஒன்று முன்னெடுக்கப்பட்டது.
-
-யாழ்ப்பாணம் பஸ் நிலையத்திற்கு முன்பாக யாழ். கிறிஸ்தவ ஒன்றியத்தின் ஏற்பாட்டில் இந்த போராட்டம் இடம்பெற்றது.
-
-ஜனநாயகத்தை அச்சுறுத்தாதே, நிகழ் நிலை காப்புச் சட்டத்தை மீளப்பெறு, ஊடகங்களை சமூக ஊடகங்களை  நசுக்கும் நிகழ் நிலை காப்புச் சட்டத்தை மீளப்பெறு போன்ற பல கோரிக்கைகள் போராட்டகாரர்களால் வலியுறுத்தப்பட்டது.
-
-நிகழ் நிலை காப்பு சட்டமூலம் செவ்வாய்க்கிழமை பாராளுமன்றத்தில் சமர்பிக்கப்பட்டு விவாதம் நடைபெற்றுவருகின்றமை குறிப்பிடத்தக்கது.
-
-◼️
-
-[Data](articles/b25bf518.json)
-
----
-
 ### Two new pomegranate varieties introduced
 
 *2024-01-24 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-new-pomegranate-varieties-introduced/108-275654) · `en`
@@ -149,6 +255,8 @@ The cost of pomegranate imports can be reduced in our country, the Minister said
 ...
 
 [Data](articles/cce2ac98.json)
+
+[Extended Data](ext_articles/cce2ac98.ext.json)
 
 ---
 
@@ -172,43 +280,51 @@ Meanwhile, the State Minister revealed that the Inland Revenue Department (IRD) 
 
 ---
 
-### கொழுந்து பறித்த பெண்ணின் கொண்டையை பிடித்த சிறுத்தை
+### Leopard
 
 *2024-01-24 14:59:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/கொழுந்து-பறித்த-பெண்ணின்-கொண்டையை-பிடித்த-சிறுத்தை/76-332059) · `ta`
 
-லிந்துலை பொலிஸ் பிரிவுக்குட்பட்ட (டி.ஆர்.ஐ) தோட்ட பிரிவான லெமலியர் தோட்டத்தில் பெண் தொழிலாளி ஒருவர் சிறுத்தை தாக்குதலுக்கு இலக்காகி பலத்த காயங்களுடன் நுவரெலியா மாவட்ட வைத்தியசாலையில் அவசர சிகிச்சை பிரிவில் அனுமதிக்கப்பட்டுள்ளதாக லிந்துலை பொலிஸார் தெரிவித்தனர்.
+Lindula police said that a female worker was admitted to the Nuwara Eliya District Hospital with serious injuries in the Lemalier estate, a Lemalier estate in the Lindulai Police Division (DRI).
 
-இந்த சம்பவத்தில் லெமலியர் தோட்டத்தை சேர்ந்த பி.சத்தியவாணி (வயது 36) என்பவர் சிறுத்தை தாக்கி பலத்த காயமடைந்துள்ளார்.
+P. Sathiyawani (36 years old) from Lemelier estate was severely injured in the incident.
 
-புதன்கிழமை (24)  பிற்பகல் 1.30 மணியலவில் இடம்பெற்றுள்ள இந்த சம்பவத்தில் சிறுத்தை தாக்குதலில் பலத்த காயங்களுக்கு உள்ளான லெமலியர் தோட்ட பெண் தொழிலாளி பெண் தலவாக்கலை -நுவரெலியா பிரதான வீதியின் லிந்துலை நகரை அண்மித்த தேயிலை தோட்டத்தில் பணியில் ஈடுப்பட்டிருந்த வேளையில் தேயிலை மலையில் பதுங்கியிருந்த சிறுத்தையே தாக்கியுள்ளது.
+The incident, which took place on Wednesday (24) at 1.30 pm, was attacked by a leopard who was involved in a tea hill in the tea plantation of Lemalier estate worker woman worker, Talawakelle -Nuwara Eliya main road.
 
-அதேநேரத்தில் அருகில் தொழில் செய்துகொண்டிருந்ந சக தொழிலாளிகள் கூச்சலிட்டு சிறுத்தையை துரத்தியதுடன் காயங்களுக்கு உள்ளான தொழிலாளி பெண்னை மீட்டு லிந்துலை பிரதேச வைத்தியசாலைக்கு கொண்டு சென்ற பின் மேலதிக சிகிச்சைக்காக நுவரெலியா மாவட்ட வைத்தியசாலைக்கு கொண்டு சென்றதாக பொலிஸார் தெரிவித்தனர்.
+At the same time, the co -workers shouted and chased the leopard and took the injured woman to the Nuwara Eliya District Hospital for further treatment.
 
 ◼️
 
 [Data](articles/22f99ebd.json)
 
+[Extended Data](ext_articles/22f99ebd.ext.json)
+
 ---
 
-### நிகழ்நிலை பாதுகாப்பு சட்ட மூலம்  குறித்த குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பு - 97 வீதமானவர்கள் எதிர்ப்பு
+### SMS Message Small Monetary Society - 97 percent
 
 *2024-01-24 14:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/174696) · `ta`
 
-நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குறித்து  மேற்கொள்ளப்பட்ட குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பில் தங்கள் கருத்துக்களை தெரிவித்தவர்களில் 97 வீதமானவர்கள் உத்தேச சட்ட மூலத்திற்கு எதிர்ப்பு தெரிவித்துள்ளனர்.
+97 percent of their comments on the SMS Message Calculation Bill on the Ceylon Protection Bill have protested the proposed legislation.
 
-நேற்று மாலைவரை குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பில் கலந்துகொண்ட 1531 பேரில் 1492 பேர் நிகழ்நிலை பாதுகாப்பு சட்டமூலத்திற்கு எதிராக வாக்களித்துள்ளனர்.
+Out of the 1531 people who participated in the SMS Message Services Till yesterday evening, 1492 voted against the Funeral Protection Bill.
 
-இலங்கையின் மக்களிற்கான தகவல்தொழில்நுட்ப துறையினர் என்ற குழுவினர் இந்த குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பை நடத்துகின்றனர்.
+The team of Information Technology for the people of Sri Lanka is conducting this SMS.
 
-நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குறித்து  மேற்கொள்ளப்பட்ட குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பில் தங்கள் கருத்துக்களை தெரிவித்தவர்களில் 97 வீதமானவர்கள் உத்தேச சட்ட மூலத்திற்கு எதிர்ப்பு தெரிவித்துள்ளனர்.
+97 percent of their comments on the SMS Message Calculation Bill on the Ceylon Protection Bill have protested the proposed legislation.
 
-நேற்று மாலைவரை குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பில் கலந்துகொண்ட 1531 பேரில் 1492 பேர் நிகழ்நிலை பாதுகாப்பு சட்டமூலத்திற்கு எதிராக வாக்களித்துள்ளனர்.
+Out of the 1531 people who participated in the SMS Message Services Till yesterday evening, 1492 voted against the Funeral Protection Bill.
 
-இலங்கையின் மக்களிற்கான தகவல்தொழில்நுட்ப துறையினர் என்ற குழுவினர் இந்த குறுஞ்செய்தி சர்வஜனவாக்கெடுப்பை நடத்துகின்றனர்.
+The team of Information Technology for the people of Sri Lanka is conducting this SMS.
+
+Members of the Information Technology Department have launched a SMS on the Conservation Security Bill.
+
+If the Fun 'Protection Bill is passed, prohibited reports can be imposed on prison and penalties. The bill can be dismantled by the election campaigns of the opposition. .
 
 ...
 
 [Data](articles/f3baddc3.json)
+
+[Extended Data](ext_articles/f3baddc3.ext.json)
 
 ---
 
@@ -264,6 +380,8 @@ The driver of the bus has been arrested by Kilinochchi police pending further in
 
 [Data](articles/ee443670.json)
 
+[Extended Data](ext_articles/ee443670.ext.json)
+
 ---
 
 ### Accident on Matara - Kadirgamam Road
@@ -293,6 +411,30 @@ The self-proclaimed ‘Avalokiteshvara Bodhisattva’, Mahinda Kodituwakku has b
 [Data](articles/01f1601f.json)
 
 [Extended Data](ext_articles/01f1601f.ext.json)
+
+---
+
+### Self-proclaimed ‘Avalokiteshvara Bodhisattva’ requires psychiatric treatment, court told
+
+*2024-01-24 14:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96692/self-proclaimed-avalokiteshvara-bodhisattva-requires-psychiatric-treatment-court-told) · `en`
+
+The self-proclaimed ‘Avalokiteshvara Bodhisattva’, Mahinda Kodituwakku has been further remanded until February 07.
+
+He was produced before Colombo Fort Magistrate Thilina Gamage earlier today.
+
+During today’s proceedings, the forensic psychiatrist told the magistrate that the suspect requires psychiatric treatment.
+
+Accordingly, the magistrate ordered that Kodituwakku be further remanded and referred to psychiatric treatment through the prison.
+
+Kodituwakku was arrested by the Criminal Investigation Department (CID) on January 15, on charges of committing irreligious activities that are contrary to Buddhist teachings.
+
+Subsequently, on court orders, the self-styled ‘Avalokiteshvara Bodhisattva’ was placed behind bars on remand custody.
+
+Earlier this month, the president of Buddhist Information Centre, Ven. Agulugalle Sri Jinananda Thero had filed a complaint with the CID alleging that Kodituwakku has been misleading the Buddhist community.
+
+...
+
+[Data](articles/d9601559.json)
 
 ---
 
@@ -476,21 +618,23 @@ The navy suspicles that the stock cannot be brought to the land, the Navy suspec
 
 ---
 
-### ஐவர் படுகொலை: ஒருவர் கைது வாகனமும் சிக்கியது
+### Five Massacre: One Arrest Vehicle
 
 *2024-01-24 14:14:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/தென்-மாகாணம்/ஐவர்-படுகொலை-ஒருவர்-கைது-வாகனமும்-சிக்கியது/93-332057) · `ta`
 
-பெலியத்தவில் திங்கட்கிழமை (22) ஐந்து பேர் சுட்டுக் கொல்லப்பட்டதற்கு தலைமை தாங்கிய இலங்கையைச் சேர்ந்த நபர் கைது செய்யப்பட்டுள்ளார். அத்துடன்  அதற்குப் பயன்படுத்திய வாகனம் கைப்பற்றப்பட்டுள்ளது என பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+A Sri Lankan man has been arrested for allegedly shooting five people in Beliatta on Monday (22). The Public Security Ministry said the vehicle used for it was seized.
 
-மாத்தறை பிரிவுக்கு பொறுப்பான அதிகாரியின் மேற்பார்வையில் ஹக்மன பொலிஸ் நிலைய பொறுப்பதிகாரி உள்ளிட்ட அதிகாரிகள் குழு நடத்திய விசாரணையில், கைது செய்யப்பட்டுள்ளார்.
+A team of officials, including the Hakmana Police Station, under the supervision of the Matara Division officer, has been arrested in connection with the investigation.
 
-இலங்கையில் இருந்து இந்த குற்றத்திற்கு மூளையாக செயல்பட்டதாக கூறப்படும் சமன் குமார என்ற 54 வயதுடைய ஒருவரே கைது செய்யப்பட்டுள்ளார்.  குற்றத்திற்காக வந்த 65-2615 இலக்கம் கொண்ட மிட்சுபிஷி பெஜேரோ ஜீப்பையும் பொலிஸார் கைப்பற்றியுள்ளனர் என  அமைச்சு தெரிவித்துள்ளது.
+Saman Kumara, a 54 -year -old man, has been arrested for allegedly acting as a brainchild from Sri Lanka. The police have also seized the Mitsubishi Pejero jeep with a number of 65-2615 who came for the crime.
 
-குற்றத்தை புரிவதற்காக வந்தவர்,  வாகனத்தை செலுத்தி வந்துள்ளார் என    மேலும் தெரியவந்துள்ளதாகவும் அமைச்சு குறிப்பிட்டுள்ளது.
+The ministry said that the man who had come to commit the crime had been driving the vehicle.
 
 ◼️
 
 [Data](articles/bb8d01f9.json)
+
+[Extended Data](ext_articles/bb8d01f9.ext.json)
 
 ---
 
@@ -732,6 +876,8 @@ Investigations have revealed that the suspect, identified as Saman Kumara who is
 
 [Data](articles/3c5200ca.json)
 
+[Extended Data](ext_articles/3c5200ca.ext.json)
+
 ---
 
 ### I was told to take the President to Ranil Wickremesinghe
@@ -908,7 +1054,7 @@ Earlier, the monk was arrested on December 12 at a private establishment in Kala
 
 According to police, the saffron-robbed monk had allegedly issued statements demeaning Buddhism.
 
-◼️
+...
 
 [Data](articles/f2eb57b1.json)
 
@@ -1897,145 +2043,5 @@ The youth has been arrested in the Ambatenna area in Kandy and he was a 22 year 
 [Data](articles/bcca4156.json)
 
 [Extended Data](ext_articles/bcca4156.ext.json)
-
----
-
-### An accident in Kilinochchi;Death of One - In a dangerous ...
-
-*2024-01-24 09:45:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சியில்-கோர-விபத்து-ஒருவர்-மரணம்-பலர்-ஆபத்தான-நிலையில்/72-332049) · `ta`
-
-One person was killed and eight people were injured in an accident at around 4.30 am this morning in Kilinochchi.
-
-A van traveling from Colombo to Jaffna collided with a state bus traveling from Jaffna to Vavuniya.
-
-Thirumani Tiruchelvam, a 50 -year -old woman from Vavuniya, died and eight others were injured.
-
-Five of the injured are being treated in the intensive care unit of the Kilinochchi Hospital, hospital sources said.
-
-◼️
-
-[Data](articles/3dfebbe6.json)
-
-[Extended Data](ext_articles/3dfebbe6.ext.json)
-
----
-
-### Court restriction for demonstration
-
-*2024-01-24 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174657) · `ta`
-
-Police said that a court order was issued to prevent the demonstration to be held on Wednesday (24) from the Polthuwa to the Parliament.
-
-The order has been issued by the Colombo Chief Magistrate's Court in order to disrupt the public and to avoid traffic crises.
-
-Accordingly, the court order stated that the protesters should not cross the streets and cause to prevent the road to prevent or engage in violence and carry out a demonstration in violation of parliamentary rules.
-
-It has also been noted that the privileges of the people's representatives and the duties of the state officials are not disrupted.
-
-The court also announced that if the order violates, the police should take immediate action to establish peace.
-
-◼️
-
-[Data](articles/47ad035b.json)
-
-[Extended Data](ext_articles/47ad035b.ext.json)
-
----
-
-### The best news made by the police to the public
-
-*2024-01-24 09:41:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களுக்கு-பொலிஸார்-கூறிய-சிறப்பான-செய்தி/175-332048) · `ta`
-
-Police have decided to provide cash prize to those who provide information about illegal guns and bombs.
-
-The tactical operation, which began on December 17 last year, is being successful and it has been decided to provide cash in the information.
-
-The confidentiality of the people who provide such information will be preserved and the prize will be given to them. Remble
-
-◼️
-
-[Data](articles/05e9ee54.json)
-
-[Extended Data](ext_articles/05e9ee54.ext.json)
-
----
-
-### Those on the southern highway
-
-*2024-01-24 09:35:09* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-අධිවේගයේ-යන-අය-අවධානයෙන්/11-407698) · `si`
-
-The premises of the Southern Expressway on the Southern Expressway. Police also say that high speeds are not running traffic.
-
-◼️
-
-[Data](articles/08372b7c.json)
-
-[Extended Data](ext_articles/08372b7c.ext.json)
-
----
-
-### Beliatta firing: Abandoned vehicle in Galle
-
-*2024-01-24 09:33:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-துப்பாக்கிச்-சூடு-காலியில்-கைவிடப்பட்ட-வாகனம்/175-332047) · `ta`
-
-The vehicle, which is supposed to have been used by the complicity of the Beliatta firing, which was murdered by five, was found parked near the Galle Vidyaloka Port.
-
-The firing was carried out yesterday, near the Beliyatha alternate lane on the Southern Highway.
-
-Four people were killed on the spot in the shooting from 8:30 am to 8:40 am.
-
-The other person inside the Defender was taken to the Tangalle Hospital with injuries, but he died shortly after.
-
-The deceased includes Saman Perera, the leader of the Abe Jana Multiple Party (our People's Party).
-
-◼️
-
-[Data](articles/9fb3faf0.json)
-
-[Extended Data](ext_articles/9fb3faf0.ext.json)
-
----
-
-### Rugby coach arrested with narcotic pills and heroin
-
-*2024-01-24 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96680/rugby-coach-arrested-with-narcotic-pills-and-heroin) · `en`
-
-A 22-year-old who was in possession of 4,100 narcotic pills and 2 grams of heroin has been arrested in Ambatenna, Kandy.
-
-The arrestee was identified as an external rugby coach of a school, according to the police.
-
-◼️
-
-[Data](articles/56cfc8ed.json)
-
-[Extended Data](ext_articles/56cfc8ed.ext.json)
-
----
-
-### Police offer cash rewards for tips on illegal firearms and explosives
-
-*2024-01-24 09:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-offer-cash-rewards-for-tips-on-illegal-firearms-and-explosives/108-275630) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - Police have instituted cash rewards for individuals providing information leading to the seizure of illegal firearms and explosives.
-
-Acting Inspector General of Police Deshabandu Tennakoon has directed senior DIGs, DIGs, Divisional Officers, and Directors to implement cash incentives in line with the nationwide 'Yukthiya' operation.
-
-Police said that the confidentiality of informants will be protected.
-
-- Rs. 250,000 for information leading to the arrest of a suspect with automatic firearms (T56, AK47, M16, SAR 80, T81).
-
-- Rs. 250,000 for information leading to the recovery of an automatic firearm (T56, AK47, M16, SAR 80, T81) without a suspect.
-
-- Rs. 250,000 for successful recovery of semi-automatic firearms (pistols, 84 S, SLR, Auto-loading shotguns).
-
-- Rs. 150,000 for the arrest of a suspect in possession of a revolver-type firearm.
-
-- Rs. 100,000 for the recovery of a revolver without suspects.
-
-...
-
-[Data](articles/dcb31abb.json)
-
-[Extended Data](ext_articles/dcb31abb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 11:33:16**
+As of **2024-01-24 11:52:23**
 
 ## Newspaper Stats
 
-*Scraped **2,262** Articles*
+*Scraped **2,264** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ adaderanasinhalalk | 159
 dailyftlk | 181
 adalk | 226
 virakesarilk | 247
-adaderanalk | 282
+adaderanalk | 284
 tamilmirrorlk | 285
 dailymirrorlk | 290
 
@@ -26,11 +26,49 @@ dailymirrorlk | 290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,260 (99.9%) of 2,262 articles have been extended.
+2,264 (100.0%) of 2,264 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Trump wins New Hampshire primary as rematch with Biden appears increasingly likely
+
+*2024-01-24 11:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96686/trump-wins-new-hampshire-primary-as-rematch-with-biden-appears-increasingly-likely) · `en`
+
+Former President Donald Trump easily won New Hampshire’s primary on Tuesday, seizing command of the race for the Republican nomination and making a November rematch against President Joe Biden feel all the more inevitable.
+
+The result was a setback for former U.N. Ambassador Nikki Haley, who finished second despite investing significant time and financial resources in a state famous for its independent streak. She’s the last major challenger after Florida Gov. Ron DeSantis ended his presidential bid over the weekend, allowing her to campaign as the sole alternative to Trump.
+
+Trump’s allies ramped up pressure on Haley to leave the race before the polls had closed, but Haley vowed after the results were announced to continue her campaign. Speaking to supporters, she intensified her criticism of the former president, questioning his mental acuity and pitching herself as a unifying candidate who would usher in generational change.
+
+...
+
+[Data](articles/325fd7a2.json)
+
+[Extended Data](ext_articles/325fd7a2.ext.json)
+
+---
+
+### Cash rewards for people providing information for ‘Yukthiya’
+
+*2024-01-24 11:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96685/cash-rewards-for-people-providing-information-for-yukthiya) · `en`
+
+Sri Lanka Police have decided to offer cash prizes to the individuals who provide information about illegal firearms and bombs.
+
+The relevant cash rewards will be awarded to the individuals who provide information for the ‘Yukthiya’ special police operation, through which multiple successful raids have been carried out since its launch on December 17, 2023 to crack down on narcotics distribution and criminal offences in the country.
+
+Accordingly, the Acting Inspector General of Police Deshabandu Tennakoon has given instructions to all the Senior DIGs, DIGs, and the Officers In-Charge of each police division regarding the matter.
+
+Accordingly, Rs. 250,000 is offered to tip-offs about automatic firearms such as T56, AK47, M16, SAR80 and T81 as well as semi-automatic firearms including 84S, SLR, auto loading shot guns.
+
+...
+
+[Data](articles/cb836544.json)
+
+[Extended Data](ext_articles/cb836544.ext.json)
+
+---
 
 ### Wild elephant attacked in banana
 
@@ -74,17 +112,19 @@ Meanwhile, he also said that although the salaries of government employees are i
 
 ---
 
-### ඩොනල්ඩ් ට්‍රම්ප් තවත් ඉදිරියට
+### Donald Trump is another forward
 
 *2024-01-24 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192502) · `si`
 
-රිපබ්ලිකන් පක්ෂයේ ජනාධිපති අපේක්ෂකයා වීමේ අවස්ථාව තමා වෙත තවදුරටත් ආසන්න කර ගැනීමට හිටපු ජනාධිපති ඩොනල්ඩ් ට්‍රම්ප් සමත්විය.
+Former President, Donald Trump, was closed to the Republican Party's presidential candidate.
 
-ඒ තම ප්‍රතිවාදියා වන නිකී හේලි පරදවා නිව් හැම්ෂයර් කොට්ඨාසය ජයග්‍රහණය කරමිනි.
+The New Hampley Division defeated her opponent, Niki Halley.
 
 ◼️
 
 [Data](articles/97b69380.json)
+
+[Extended Data](ext_articles/97b69380.ext.json)
 
 ---
 
@@ -110,23 +150,29 @@ Accordingly, the total sales price of a bear is Rs 1250/=.
 
 ---
 
-### ධීවරයින් 7 දෙනෙකුට මරණ දණ්ඩනය නියම කෙරේ
+### Seven fishermen sentenced to death
 
 *2024-01-24 10:39:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192501) · `si`
 
-ධීවර යාත්‍රාවක් පැහැරගෙන ධීවරයින් තිදෙනෙකු ඝාතනය කිරීම සම්බන්ධයෙන් ධීවරයින් හත්දෙනෙකුට කොළඹ මහාධිකරණය මරණ දඬුවම නියම කර තිබේ.
+Seven fishermen have been sentenced to death for killing three fishermen who abducted a fishing vessel.
 
-2012.10.15 දින හෝ ඊට ආසන්න දිනයක දී නීතිවිරෝධී ලෙස ශ්‍රී ලංකා මුහුදු තීරයේ ධීවර රැකියාවක නිරත වූ පුද්ගලයින් රැගත් 'තේජාන්' නැමති ධීවර යාත්‍රාව පැහැරගෙන එහි සිටි ධීවරයින් තිදෙනෙකු ඝාතනය කර තවත් ධීවරයින් කිහිපදෙනෙකුට බරපතළ තුවාල සිදුකර බෝට්ටුව පැහැරගෙන ඔස්ට්‍රේලියාවට යෑම ඇතුළු චෝදනාවලට වරදකරුවන් වූ ධීවරයින් 7 දෙනෙකුට අද (24) කොළඹ මහාධිකරණ විනිසුරු අධිත්‍ය පටබැඳිගේ මහතා විසින් අදාළ නියෝගය ලබා දී ඇත.
+7 fishermen who have been killed and killed by the 'Thajan' fisheries vessels in Sri Lanka by 15.10.2012 were killed and the fishermen were seriously wounded and accused of kidnapped the boat and abducted the boat and kid down their boat and punched the boat.The relevant order has been issued to Colombo High Court Judge today (24).
 
-එම නඩුවේ 10 වන විත්තිකාරිය ලෙස නම් කර තිබු විත්තිකාරිය සියලු චෝදනාවලින් නිදොස් කොට නිදහස් කිරීමට ද මහාධිකරණ විනිසුරුවරයා නියෝග කළේය.
+The High Court Judge was also acquitted of acquitting the Devil in acquitting the Devil in the case.
 
-මරණීය දණ්ඩනය නියම කළ අධි චෝදනා තුනට අමතරව සෙසු අධි චෝදනා 6ට එම විත්තිකරවන්ට බරපතළ වැඩ සහිත වසර 29ක සිරදඬුවම්ද නියම කළ විනිසුරුවරයා රුපියල් මිලියන 2යි රු 8500 බැගින් වූ දඩයක් ගෙවීමට ද නියම කළේය.
+The judge also ordered to pay a sum of Rs. 2 million to pay a fine of Rs.
 
-මරණ දණ්ඩනයට අමතරව නියම කරනු ලැබූ සිරදඬුවම් එකවර ගෙවී යන ලෙසට ද විනිසුරුවරයා එහිදී නියම කළේය.
+The judge also condemned the sentenced to death in addition to the death penalty.
 
-...
+The Attorney General had filed a case before 11 accused were against the incident.
+
+Three of the defendants were killed in the courts due to the death of the trial or the prosecution.
+
+◼️
 
 [Data](articles/a5808c4b.json)
+
+[Extended Data](ext_articles/a5808c4b.ext.json)
 
 ---
 
@@ -219,6 +265,10 @@ Four people died on the spot and another man was admitted to hospital after bein
 *2024-01-24 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96682/nic-number-to-be-converted-to-tin) · `en`
 
 State Minister of Finance Ranjith Siyambalapitiya has stated that measures are underway to convert a person’s National Identity Card (NIC) number to their Taxpayer Identification Number (TIN).
+
+Speaking to the media today (24 Jan.), the State Minister explained that the matter was discussed, at length, at the Presidential Secretariat on Tuesday (23 Jan.) with the participation of several relevant authorities.
+
+He stated that the relevant decision was taken after a general consensus was reached that the process of obtaining a TIN must not be yet another burden on the public.
 
 ◼️
 
@@ -1927,45 +1977,5 @@ Saman Perera, also known as 'Royal Beach Saman,' had several pending court cases
 [Data](articles/f8b3ee25.json)
 
 [Extended Data](ext_articles/f8b3ee25.ext.json)
-
----
-
-### Cannabis kidnapping from Vavuniya to Batticaloa: Four arrested
-
-*2024-01-23 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174648) · `ta`
-
-Four persons, including traders who went to buy cannabis, have been arrested on a motorbike from Vavuniya to Kaluwanchikudi, Batticaloa.
-
-They were arrested on Tuesday (23) at Kaluwanchikudi and a motorcycle had seized a three -wheeler, Kaluwanchikudi police said.
-
-According to information received by the police, under the guidance of the Kaluwanchikudi Police Officer, the team was headed by the police officer in charge of the police officer on Monday evening at the Kaluwanchikudi beach.
-
-While two merchants from Kaluwanchikudi area were waiting in a three -wheeler in the area, two men who were waiting for cannabis in a motorcycle from Vavuniya were waiting for the traders who were engaged in cannabis.Rescued.
-
-The police said that steps have been taken to produce the arrested persons in court after the hearing.
-
-◼️
-
-[Data](articles/0ee5e9a4.json)
-
-[Extended Data](ext_articles/0ee5e9a4.ext.json)
-
----
-
-### Letter to Minister from Tamil Nadu
-
-*2024-01-23 20:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174647) · `ta`
-
-The Catholic Church of Sri Lanka has been summoned to the Kachchativu Traditional Thiruppa Group for the festival of St. Anthony's Temple in Kachchativu, respecting the sentiment of Indian traditional Catholic fishermen.
-
-In a letter to Fisheries Minister Douglas Devananda and the pastor of Jaffna, the Bishop of Fisheries, the Traditional Folk Group of India, Tamil Nadu - Ramanathapuram Kachchativu.
-
-Although Kachchativu was handed over to Sri Lanka in 1974, it is stated that in the 5th string of the Kachchativu Contract, the Kachchativu St. Anthony's Temple Festival, in order to protect the rights of the Indian fishermen, it is said that traditional fishermen can go to the Kachchativu festival without any permission, including visa.
-
-...
-
-[Data](articles/53ba1d01.json)
-
-[Extended Data](ext_articles/53ba1d01.ext.json)
 
 ---

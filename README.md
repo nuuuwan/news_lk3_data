@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 09:17:19**
+As of **2024-01-24 09:33:14**
 
 ## Newspaper Stats
 
-*Scraped **2,208** Articles*
+*Scraped **2,210** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ adaderanasinhalalk | 152
 dailyftlk | 181
 adalk | 222
 virakesarilk | 240
-adaderanalk | 274
+adaderanalk | 276
 tamilmirrorlk | 277
 dailymirrorlk | 284
 
@@ -26,21 +26,59 @@ dailymirrorlk | 284
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,207 (100.0%) of 2,208 articles have been extended.
+2,210 (100.0%) of 2,210 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### යුක්තියට තවත් පිරිසක් කොටුවෙති
+### Cardinal Ranjith files petition challenging Anti-Terrorism Bill
+
+*2024-01-24 08:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96678/cardinal-ranjith-files-petition-challenging-anti-terrorism-bill) · `en`
+
+His Eminence Malcolm Cardinal Ranjith has filed a petition challenging the Anti-Terrorism Bill which was presented to the parliament by the government in a bid to replace the Prevention of Terrorism Act (PTA).
+
+In his petition, the Cardinal has requested the Supreme Court to deliver an order stating that several provisions of the Anti-Terrorism Bill are not in line with the Constitution.
+
+The Attorney General has been named as the respondent of the petition, which alleges that the proposed legislation, if passed in its current form, would grant unlimited powers to the Tri-Forces, the Police and the Coast Guard to make unwarranted arrests without reasonable suspicion.
+
+This is a violation of the fundamental rights including the freedom of expression guaranteed by the Constitution, the Cardinal raised alarm in his petition.
+
+...
+
+[Data](articles/c43883eb.json)
+
+[Extended Data](ext_articles/c43883eb.ext.json)
+
+---
+
+### Operation ‘Yukthiya’: 930 more suspects under arrest within 24 hours
+
+*2024-01-24 08:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96677/operation-yukthiya-930-more-suspects-under-arrest-within-24-hours) · `en`
+
+A total of 930 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.24) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 425g of heroin, 235g of crystal methamphetamine (Ice), and 4,351 narcotic pills.
+
+◼️
+
+[Data](articles/da9cdbd4.json)
+
+[Extended Data](ext_articles/da9cdbd4.ext.json)
+
+---
+
+### Justice is boxing
 
 *2024-01-24 08:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192495) · `si`
 
-යුක්තිය විශේෂ මත්ද්‍රව්‍ය මෙහෙයුම යටතේ අද (24) අලුයම 12.30න් අවසන් වූ පැය 24 තුළ සිදුකළ මෙහෙයුම්වලදී සැකකරුවන් 930 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+930 suspects have been arrested in the 24-hour operations carried out in the 24 hours ended today (24) under the special drug operation.
 
 ◼️
 
 [Data](articles/4bd8e7fe.json)
+
+[Extended Data](ext_articles/4bd8e7fe.ext.json)
 
 ---
 
@@ -88,7 +126,11 @@ The Cardinal has asked the Supreme Court to give a verdict with two-thirds major
 
 *2024-01-24 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96676/motorists-on-expressway-cautioned-over-misty-conditions) · `en`
 
-Police requested motorists using the Southern Expressway to be cautious over misty conditions between Pinnaduwa and Welipenna interchanges.
+Police requested motorists using the Southern Expressway to be cautious over misty conditions between Pinnaduwa and Welipenna interchanges.
+
+The Police Spokesman’s Office states that thick misty conditions had been observed between the Welipenna interchange and the Pinnaduwa interchange on the Southern Expressway during the morning over the past couple of days as well as today.
+
+Therefore, motorists passing through that area are advised to remain cautious and avoid traveling at high speeds, police said.
 
 ◼️
 
@@ -1989,37 +2031,5 @@ Positive contributors to the ASPI, albeit marginally, were Asiri Surgical Hospit
 [Data](articles/4a473156.json)
 
 [Extended Data](ext_articles/4a473156.ext.json)
-
----
-
-### Is the Rama Bridge possible following the Rama Temple ...?
-
-*2024-01-23 16:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/174639) · `ta`
-
-Legends say that the Rama Bridge was built from the Ariyal Tip in Dhanushkodi and went to Sri Lanka.
-
-◼️
-
-[Data](articles/78d681fa.json)
-
-[Extended Data](ext_articles/78d681fa.ext.json)
-
----
-
-### The dream that collapsed in front of the eyes
-
-*2024-01-23 16:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192475) · `si`
-
-The unfortunate newspaper of a three storied house has been reported to reside in a house.
-
-The unfortunate event was the case while holding the sacrifice to the house at the three storied householders.
-
-However, none of them have been harmed and foreign media states that the house has collapsed by subversion.
-
-◼️
-
-[Data](articles/a32683da.json)
-
-[Extended Data](ext_articles/a32683da.ext.json)
 
 ---

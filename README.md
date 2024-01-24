@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 03:33:06**
+As of **2024-01-25 03:50:36**
 
 ## Newspaper Stats
 
-*Scraped **2,464** Articles*
+*Scraped **2,465** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,35 @@ adaderanasinhalalk | 188
 dailyftlk | 194
 adalk | 241
 virakesarilk | 276
-tamilmirrorlk | 308
 adaderanalk | 308
+tamilmirrorlk | 309
 dailymirrorlk | 327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,464 (100.0%) of 2,464 articles have been extended.
+2,464 (100.0%) of 2,465 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### ’முடக்கி இருக்காவிடின் கலவரம் வெடித்திருக்கும்’
+
+*2024-01-25 02:00:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடக்கி-இருக்காவிடின்-கலவரம்-வெடித்திருக்கும்/175-332087) · `ta`
+
+பொய்யான தகவல்களை பரப்புபவர்களுக்கு தண்டனை வழங்கக் கூடியவகையில் நாட்டில் ஊடக கட்டுப்பாட்டு சட்டம் அவசியமாகும் என்று தெரிவித்துள்ள  முன்னாள் ஜனாதிபதி மைத்திரிபால சிறிசேன, திகன சம்பவத்துக்கு பின்னர் ஒரு வாரத்துக்கு சமூக வலைத்தளங்களை நான் முடக்கியிருந்தேன். அவ்வாறு முடக்கியிருக்காவிடின், நாடு முழுவதும் கலவரம் வெடித்திருக்கும் என்றார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (24)  நடைபெற்ற நிகழ்நிலை காப்புச் சட்டம் மீதான இரண்டாம் நாள் விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+
+ஊடகங்களுக்கு முகாமைத்துவமும், ஊடக கட்டுப்பாடுகளும் இருக்க வேண்டும். நிகழ்நிலை காப்புச் சட்டத்தில் சட்டதிட்டங்கள் கடுமையானதாக இருந்தாலும் ஊடகங்கள் தொடர்பில் கட்டுப்பாடுகள் அவசியமாகும்.
+
+...
+
+[Data](articles/16896807.json)
+
+---
 
 ### Malcolm Ranjith Petition Petition
 
@@ -1977,19 +1993,5 @@ Accordingly, the Bill of the National Unity and Reconciliation Act No. 01 of 202
 [Data](articles/8ad1f565.json)
 
 [Extended Data](ext_articles/8ad1f565.ext.json)
-
----
-
-### Nihal Talduwa promoted to DIG
-
-*2024-01-24 15:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192517) · `si`
-
-The police spokesman, law spokesman, has been promoted to the post of DIG.
-
-◼️
-
-[Data](articles/b0043605.json)
-
-[Extended Data](ext_articles/b0043605.ext.json)
 
 ---

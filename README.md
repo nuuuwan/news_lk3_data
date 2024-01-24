@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 17:02:26**
+As of **2024-01-24 17:17:18**
 
 ## Newspaper Stats
 
-*Scraped **2,358** Articles*
+*Scraped **2,360** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 33
-bbccomsinhala | 45
+bbccomsinhala | 46
 dbsjeyarajcom | 122
 newsfirstlk | 132
 islandlk | 133
@@ -19,18 +19,38 @@ dailyftlk | 181
 adalk | 233
 virakesarilk | 264
 tamilmirrorlk | 292
-adaderanalk | 297
+adaderanalk | 298
 dailymirrorlk | 307
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,358 (100.0%) of 2,358 articles have been extended.
+2,358 (99.9%) of 2,360 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Turkey’s parliament approves Sweden’s NATO membership, lifting a key hurdle
+
+*2024-01-24 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96699/turkeys-parliament-approves-swedens-nato-membership-lifting-a-key-hurdle) · `en`
+
+Turkish legislators on Tuesday endorsed Sweden’s membership in NATO, lifting a major hurdle on the previously nonaligned country’s entry into the military alliance.
+
+Lawmakers ratified Sweden’s accession protocol 287 to 55, with ruling party members saying the Nordic country’s tougher stance on Kurdish militants was key to winning approval. President Recep Tayyip Erdogan also previously has linked the ratification to Turkey’s desire to buy fighter jets from the U.S.
+
+The ratification comes into effect after its publication in the Official Gazette, which was expected to be swift.
+
+Hungary then becomes the only NATO ally not to have ratified Sweden’s accession.
+
+“Today we are one step closer to becoming a full member of NATO,” Swedish Prime Minister Ulf Kristersson wrote on X, the platform formerly known as Twitter. In Washington, U.S. National Security Advisor Jake Sullivan welcomed the news, saying having Sweden in the alliance will make it “safer and stronger.”
+
+...
+
+[Data](articles/5534d1a9.json)
+
+---
 
 ### UN Women, Japan support 600 women-led micro-enterprises affected by Sri Lanka crisis
 
@@ -2008,6 +2028,24 @@ Four people died on the spot and another man was admitted to hospital after bein
 
 ---
 
+### 'කතාවෙන් ඩිජිටෙල්. වැඩවලින් ගෝත්‍රිකයි'
+
+*2024-01-24 10:28:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd1vj7zgd1xo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පත : 'කතාවෙන් ඩිජිටෙල්. වැඩ වලින් ගෝත්‍රිකයි'", ධාවන කාලය 3,0803:08වීඩියෝ ශීර්ෂ වැකිය, සමාජවාදී තරුණ සංගමය සහ අලුත් පියාපත් ඇතුළු සිවිල් සංවිධාන නියෝජිතයෝ ඊට සහභාගී වූහ.
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතභාවය පිළිබඳ පනත් කෙටුම්පතට එරෙහිව පාර්ලිමේන්තුව අසල අදත් (ජනවාරි 24) විරෝධතාවයක් පැවැත්විණි.
+
+සමාජවාදී තරුණ සංගමය සහ අලුත් පියාපත් ඇතුළු සිවිල් සංවිධාන නියෝජිතයෝ ඊට සහභාගී වූහ.
+
+පාර්ලිමේන්තුවේ මේ වන විට විවාද කරමින් පවතින, අද පස්වරුවේ ඡන්ද විමසීමකින් අනතුරුව සම්මත කිරීමට රජය අපේක්ෂා කරන අදාල පනත් කෙටුම්පතට සංශෝධන එකතු නොකර සම්පුර්ණයෙන්ම අවලංගු කළ යුතු බව විරෝධතාවයට සහභාගී වුවෝ අවධාරණය කළහ.
+
+◼️
+
+[Data](articles/799b073d.json)
+
+---
+
 ### A rugby coach arrested with horino and alcohol
 
 *2024-01-24 10:26:49* · [`adalk`](https://www.ada.lk/breaking_news/හොරොයින්-හා-මත්පෙති-සමග-රග්බි-පුහුණුකරුවෙක්-අත්අඩංගුවට/11-407701) · `si`
@@ -2023,41 +2061,5 @@ The Criminal Division is conducting further investigations into the instructions
 [Data](articles/ab72a695.json)
 
 [Extended Data](ext_articles/ab72a695.ext.json)
-
----
-
-### NIC number to be converted to TIN?
-
-*2024-01-24 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96682/nic-number-to-be-converted-to-tin) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya has stated that measures are underway to convert a person’s National Identity Card (NIC) number to their Taxpayer Identification Number (TIN).
-
-Speaking to the media today (24 Jan.), the State Minister explained that the matter was discussed, at length, at the Presidential Secretariat on Tuesday (23 Jan.) with the participation of several relevant authorities.
-
-He stated that the relevant decision was taken after a general consensus was reached that the process of obtaining a TIN must not be yet another burden on the public.
-
-◼️
-
-[Data](articles/cb47658c.json)
-
-[Extended Data](ext_articles/cb47658c.ext.json)
-
----
-
-### Special notice of TIN number
-
-*2024-01-24 10:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192500) · `si`
-
-Minister of Finance Ranjith Siyambalapitiya says that steps are being taken to make the National Identity Card Number (TIN).
-
-The decision was taken with the Presidential Secretary yesterday (23) at a discussion with the Secretary to the President yesterday.
-
-The State Minister said that the project is being carried out using the biographical information system of the state of income.
-
-◼️
-
-[Data](articles/4de7c86b.json)
-
-[Extended Data](ext_articles/4de7c86b.ext.json)
 
 ---

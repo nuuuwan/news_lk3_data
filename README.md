@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 09:52:02**
+As of **2024-01-24 10:17:18**
 
 ## Newspaper Stats
 
-*Scraped **2,225** Articles*
+*Scraped **2,237** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,39 +14,145 @@ dbsjeyarajcom | 122
 newsfirstlk | 124
 economynextcom | 132
 islandlk | 133
-adaderanasinhalalk | 152
+adaderanasinhalalk | 154
 dailyftlk | 181
 adalk | 222
-virakesarilk | 242
-adaderanalk | 277
+virakesarilk | 244
+adaderanalk | 279
 tamilmirrorlk | 279
-dailymirrorlk | 284
+dailymirrorlk | 290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,210 (99.3%) of 2,225 articles have been extended.
+2,227 (99.6%) of 2,237 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### கிளிநோச்சியில் பஸ் - வேன் விபத்து ; ஒருவர் பலி ; 9 பேர் காயம்
+### ஆர்ப்பாட்டத்திற்கு நீதிமன்றம் தடையுத்தரவு
+
+*2024-01-24 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174657) · `ta`
+
+பொல்துவ சுற்றுவட்டத்திலிருந்து பாராளுமன்ற வீதி வரை இன்று புதன்கிழமை (24) நடத்தப்படவிருந்த ஆர்ப்பாட்டத்தை தடுக்கும் வகையில் நீதிமன்ற உத்தரவு பிறப்பித்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+பொதுமக்களுக்கு இடையூறு ஏற்படுத்தும் வகையிலும் போக்குவரத்திற்கு ஏற்பாடும் நெருக்கடிகளை தவிர்க்கும் வகையிலும் வெலிக்கடை பொலிஸார் தாக்கல் செய்ய மனுவுக்கு அமைய இந்த உத்தரவு கொழும்பு பிரதான நீதவான் நீதிமன்றத்தால் வழங்கப்பட்டுள்ளது.
+
+இதன்படி, போராட்டக்காரர்கள் எந்தவொரு வீதியையும் மறித்து வீதியை பயன்படுத்துவோருக்கு இடையூறுகளை ஏற்படுத்தவோ அல்லது வன்முறையில் ஈடுபடவோ கூடாது எனவும், பாராளுமன்ற விதிமுறைகளை மீறாத வகையில் ஆர்ப்பாட்டத்தை முன்னெடுக்க வேண்டும் எனவும் நீதிமன்ற உத்தரவில் குறிப்பிடப்பட்டுள்ளது.
+
+மக்கள் பிரதிநிதிகளின் சிறப்புரிமைகள் மற்றும் கடமையில் இருக்கும் அரச அதிகாரிகளின் கடமைகளுக்கு இடையூறுகளை ஏற்படுத்தல் கூடாதென்றும் குறிப்பிடப்பட்டுள்ளது.
+
+இந்த உத்தரவை மீறினால், அமைதியை நிலைநாட்ட பொலிஸார் உடனடியாக நடவடிக்கை எடுக்க வேண்டும் என்றும் நீதிமன்றம் அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/47ad035b.json)
+
+---
+
+### Rugby coach arrested with narcotic pills and heroin
+
+*2024-01-24 09:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96680/rugby-coach-arrested-with-narcotic-pills-and-heroin) · `en`
+
+A 22-year-old who was in possession of 4,100 narcotic pills and 2 grams of heroin has been arrested in Ambatenna, Kandy.
+
+The arrestee was identified as an external rugby coach of a school, according to the police.
+
+◼️
+
+[Data](articles/56cfc8ed.json)
+
+---
+
+### Police offer cash rewards for tips on illegal firearms and explosives
+
+*2024-01-24 09:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-offer-cash-rewards-for-tips-on-illegal-firearms-and-explosives/108-275630) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - Police have instituted cash rewards for individuals providing information leading to the seizure of illegal firearms and explosives.
+
+Acting Inspector General of Police Deshabandu Tennakoon has directed senior DIGs, DIGs, Divisional Officers, and Directors to implement cash incentives in line with the nationwide 'Yukthiya' operation.
+
+Police said that the confidentiality of informants will be protected.
+
+- Rs. 250,000 for information leading to the arrest of a suspect with automatic firearms (T56, AK47, M16, SAR 80, T81).
+
+- Rs. 250,000 for information leading to the recovery of an automatic firearm (T56, AK47, M16, SAR 80, T81) without a suspect.
+
+- Rs. 250,000 for successful recovery of semi-automatic firearms (pistols, 84 S, SLR, Auto-loading shotguns).
+
+- Rs. 150,000 for the arrest of a suspect in possession of a revolver-type firearm.
+
+- Rs. 100,000 for the recovery of a revolver without suspects.
+
+...
+
+[Data](articles/dcb31abb.json)
+
+---
+
+### றக்பி பயிற்சியாளர் போதை மாத்திரைகளுடன் கண்டியில் கைது
+
+*2024-01-24 09:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174656) · `ta`
+
+இளம் றக்பி பயிற்சியாளர் ஒருவர் கண்டி, அம்பத்தென்ன பகுதியில் வைத்து கைதுசெய்யப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+குறித்த நபரின் உடைமையிலிருந்து 4,100 போதை மாத்திரைகளும் 2 கிராம் ஹெரோயின் போதைப்பொருளும் கைப்பற்றப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/8ac39ac8.json)
+
+---
+
+### Parliamentary Council begins
+
+*2024-01-24 09:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192497) · `si`
+
+◼️
+
+[Data](articles/8e67ff19.json)
+
+[Extended Data](ext_articles/8e67ff19.ext.json)
+
+---
+
+### Bus in Parrinochchi - van accident;One kills;9 people injured
 
 *2024-01-24 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/174655) · `ta`
 
-கிளிநொச்சி ஏ.09 வீதியின் ஆனையிறவு பகுதியில் இன்று புதன்கிழமை (24) அதிகாலை 4.45 மணியளவில் இடம் பெற்ற வாகன விபத்தில் ஒருவர் உயிரிழந்ததுடன் ஒன்பது பேர் வரையில் காயமடைந்துள்ளனர்.
+One person was killed and nine people were injured in a vehicle accident at around 4.45 am on Wednesday (24).
 
-யாழ்ப்பாணத்தில் இருந்து கண்டி நோக்கி பயணித்த இலங்கை போக்குவரத்து சபைக்கு சொந்தமான பஸ் ஒன்று  வீதியில் சென்று கொண்டிருந்த எருமை மாடுகளுடன் மோதியதுடன்  எதிரே வந்த கயஸ் வேனிலும் மோதி குறித்த விபத்து இடம் பெற்றுள்ளது.
+A bus belonging to the Sri Lanka Transport Board (SLTB) traveling from Jaffna to Kandy crashed with buffaloes on the road and crashed into the Gayas van.
 
-இந்த விபத்தின் போது கயஸ் வாகனத்தில் பயணித்த ஒருவர் சம்பவ இடத்தில் உயிர் இழந்துள்ளதுடன், இரண்டு சிறுவர்கள் உட்பட 9 பேர் படுகாயமடைந்துள்ளனர்.
+A man who was traveling in a Gayus vehicle died at the scene and nine people, including two boys, were injured.
 
-இவர்களில்  இரண்டு பேர் ஆபத்தான நிலையில்  மேலதிக சிகிச்சைகளுக்காக யாழ்ப்பாணம்  போதனா வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டுள்ளதுடன், ஏனையவர்கள் கிளிநொச்சி  மாவட்ட பொது வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Two of them have been taken to the Jaffna Teaching Hospital for further treatment and others have been admitted to the Kilinochchi District General Hospital.
 
 ◼️
 
 [Data](articles/8c5b3b3c.json)
+
+[Extended Data](ext_articles/8c5b3b3c.ext.json)
+
+---
+
+### Beliatta mass shooting: Vehicle used by assailants found in Galle
+
+*2024-01-24 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96679/beliatta-mass-shooting-vehicle-used-by-assailants-found-in-galle) · `en`
+
+The vehicle believed to have been used by the assailants complicit in the Beliatta shooting incident that killed five individuals has been found while parked near the Vidyaloka Pirivena in Galle.
+
+On Tuesday (Jan.23), a group of persons who had arrived in a double-cab had opened fire at a Defender near the Beliatta Interchange of the Southern Expressway.
+
+In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he had succumbed to injuries shortly after.
+
+Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of People Party or OPPP) Saman Perera.
+
+◼️
+
+[Data](articles/7cf80043.json)
 
 ---
 
@@ -66,37 +172,73 @@ Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of 
 
 [Data](articles/9d2c18c7.json)
 
+[Extended Data](ext_articles/9d2c18c7.ext.json)
+
 ---
 
-### தெற்கு அதிவேக வீதியில் கடும் பனி மூட்டம்  ; வாகன சாரதிகள் அவதானம்
+### Heavy snow on the southern highway;Drivers are observation
 
 *2024-01-24 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174654) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையில் பின்னதுவ மற்றும் வெலிபென்ன இடைமாறும் பகுதியில் கடந்த இரண்டு நாட்களாக கடும் பனிமூட்டம் நிலவி வருகிறது.
+Heavy snowfall has been on the southern highway over the past two days.
 
-இதன் காரணமாக, தெற்கு அதிவேக வீதியை  பயன்படுத்தும் வாகன சாரதிகளை அவதானமாக இருக்குமாறும் அதிவேகமாக பயணிப்பதை தவிர்க்குமாறும் பொலிஸார் கேட்டுக்கொண்டுள்ளனர்.
+Because of this, the police have asked the drivers who use the Southern Expressway and avoid traveling high speed.
 
 ◼️
 
 [Data](articles/582baff2.json)
 
+[Extended Data](ext_articles/582baff2.ext.json)
+
 ---
 
-### மட்டக்களப்பில் 13 நாட்களேயான பெண் குழந்தை மரணம்
+### Beliatta murderers who had found the jeep in Galle
+
+*2024-01-24 09:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192496) · `si`
+
+The jep of the JEP in Beliatta has been found in the parking pillar of Pirivena in Galle and Pirivena.
+
+Meanwhile, a person suspected to be a shooter in the Kamburupitiya main road near the Kamburupitiya main road near the incident, a person who was suspected to shoot at the Kamburupitiya roundabout was recorded in a CCTV camera.
+
+Further, he was able to move back to the Kamburupitiya bus stand.
+
+It is reported that he has rise to Matara and left the place.
+
+However, no information has been revealed to the identity of the person.
+
+Five people were killed in the shooting of Tangalle, Tangalle on the 22nd.
+
+The shooting occurred at 8.30 am and 8.40 am and four persons were killed in the shooting.
+
+One person was admitted to the Tangalle Hospital.
+
+Illakuttige Same Madays, Sameerara Maduski, Kumara Vidyalage Handithalage Handithandu, Buddhika Wakes and Kannangara Kalelage Delin Champika Jayatilleke also killed.
+
+...
+
+[Data](articles/33b8e096.json)
+
+[Extended Data](ext_articles/33b8e096.ext.json)
+
+---
+
+### The 13 -day girl death in Batticaloa
 
 *2024-01-24 09:00:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பில்-13-நாட்களேயான-பெண்-குழந்தை-மரணம்/73-332044) · `ta`
 
-மட்டக்களப்பு தலைமையக பொலிஸ் பிரிவில் உள்ள இருதயபுரம் பகுதியில் பால் புரைக்கேறி 13 நாட்களேயான பெண் குழந்தை உயிரிழந்த சம்பவம் திங்கட்கிழமை (22) இடம்பெற்றுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police said that the death of a baby girl in the Batticaloa Headquarters Division in the Irudayapuram area of a 13 -day girl.
 
-குழந்தை பிறந்து 13 நாட்களாகிய நிலையில் குழந்தைக்கு மாலை வேளையில், தாயார் பால் கொடுத்த போது குழந்தைக்கு பால் புரைக்கேறி உயிரிழந்துள்ளது.
+It was 13 days after the baby was born, in the evening, when the mother gave her milk, the baby died.
 
-அவர் சற்று மனநிலை பாதிக்கப்பட்டிருப்பதை கண்டறிந்து அவரை வைத்தியசாலையில் அனுமதித்ததுடன், குழந்தையின் சடலத்தை வைத்தியசாலையில் பிரேத பரிசோதனைக்காக ஒப்படைத்தனர்.
+He found that he was a little mentally ill and admitted him to the hospital and handed over the baby's body to the hospital for autopsy.
 
-இந்த நிலையில் குழந்தை பால் புரைக்கேறி உயிரிழந்துள்ளதாக சட்ட வைத்திய அறிக்கையில் தெரிவிக்கப்பட்டுள்ளதாகவும் சடலத்தை உறவினரிடம் ஒப்படைக்க நடவடிக்கை எடுக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+According to the legal report, the police said that steps have been taken to hand over the body to the relative.
 
 ◼️
 
 [Data](articles/99c813de.json)
+
+[Extended Data](ext_articles/99c813de.ext.json)
 
 ---
 
@@ -117,6 +259,42 @@ This is a violation of the fundamental rights including the freedom of expressio
 [Data](articles/c43883eb.json)
 
 [Extended Data](ext_articles/c43883eb.ext.json)
+
+---
+
+### Fair weather, ground frost possible in Nuwara-Eliya during morning
+
+*2024-01-24 08:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fair-weather-ground-frost-possible-in-Nuwara-Eliya-during-morning/108-275622) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - Fair weather will prevail over the island and there are possibilities of ground frost at some places in the Nuwara-Eliya district during the early hours of the morning, the forecasting division of the National Meteorological Centre said today.
+
+However, misty conditions can be expected at some places in the Sabaragamuwa, Central, Western, and Uva Provinces and in the Galle and Matara districts during the morning.
+
+Meanwhile, fair weather will prevail in the coastal areas around the island.
+
+Wind speed may increase up to 50 kmph at times in the sea areas off the coasts extending from Colombo to Mannar via Puttalam and from Galle to Pottuvil via Hambantota.
+
+The sea areas off the coasts extending from Colombo to Mannar via Puttalam and from Galle to Pottuvil via Hambantota can be fairly rough at times.
+
+◼️
+
+[Data](articles/24a6bc34.json)
+
+---
+
+### Sri Lanka Navy says ready for Red Sea deployment
+
+*2024-01-24 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Navy-says-ready-for-Red-Sea-deployment/108-275620) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - Although a date has not been fixed, the Sri Lanka Navy said yesterday that it is now prepared to send a deployment to the Red Sea to assist in defending shipping lanes from Houthi activities, once the government greenlights and authorizes the deployment.
+
+Navy spokesperson Capt. Gayan Wickramasinghe told the Daily Mirror that discussions are still underway at higher levels regarding the Red Sea deployment, but the Sri Lanka Navy is ready. "We are now on standby to send our deployment to the Red Sea at any time," he said.
+
+On January 3, during an event, President Ranil Wickremesinghe said that the government would deploy a Navy vessel to the Red Sea to safeguard shipping lanes. He said that the disruption of these lanes would lead to increased freight charges and cargo costs, affecting import prices in the country. President Wickremesinghe said that the government is committed to contributing to stability in the region.
+
+...
+
+[Data](articles/75b1e39b.json)
 
 ---
 
@@ -147,6 +325,40 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 [Data](articles/4bd8e7fe.json)
 
 [Extended Data](ext_articles/4bd8e7fe.ext.json)
+
+---
+
+### Today’s fish prices low, vegetable prices slightly high
+
+*2024-01-24 08:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Todays-fish-prices-low-vegetable-prices-slightly-high/108-275621) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - A bit of an increase was seen in vegetable prices at the Paliyagoda market due to the falls on Poyaday tomorrow, the traders of the New Manning Market in Peliyagoda said.
+
+Accordingly, a kilo of carrots was Rs. 1,000 and a kilo of beans Rs. 750.
+
+Meanwhile, the price of fish at the New Manning Market has decreased. Common fish varieties have decreased to less than Rs. 300 per kilo. A kilo of Salaya was at Rs. 500, Linna (small) at Rs. 250, and Linna (large) at Rs. 450 per kilo.
+
+The price of a kilo of fresh chicken at Handapangoda Farm in Godagama was Rs. 1,180. Skinless chicken was at Rs. 1,160 and curry chicken was at Rs. 1,300.
+
+◼️
+
+[Data](articles/ec7e17dd.json)
+
+---
+
+### Chinese research vessel: Sri Lanka Says No, Maldives Says Yes
+
+*2024-01-24 08:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chinese-research-vessel-Sri-Lanka-Says-No-Maldives-Says-Yes/108-275617) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - Chinese research and survey vessel Xiang Yang Hong 03 which was barred entry into Sri Lankan waters over a policy decision is now on its way to the Maldives after permission was given by its pro-China President Mohamed Muizzu.
+
+Sri Lanka has announced a moratorium on research activities in its waters for 12 months. The government announced it despite China seeking to send its Xiang Yang Hong 03 for research activities in January. Sri Lanka took such a position over pressure from India against the presence of Chinese research vessels in its territorial waters. Sri Lanka is the closest maritime neighbour of India.
+
+However, the Maldives, under the current leader who is openly toeing a pro-Chinese foreign policy, have defied Indian pressure and allowed the vessel into its waters.
+
+...
+
+[Data](articles/7d628b75.json)
 
 ---
 
@@ -632,15 +844,17 @@ and businesses will see more value as a result and that will drive the transform
 
 ---
 
-### இடமாற்றங்களை செயற்படுத்துமாறு அறிவுறுத்தல்
+### Instruction to implement transfers
 
 *2024-01-24 03:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடமாற்றங்களை-செயற்படுத்துமாறு-அறிவுறுத்தல்/175-332043) · `ta`
 
-2024 ஆம் ஆண்டிற்காக வழங்கப்பட்டுள்ள இடமாற்றங்களை உடனடியாக செயற்படுத்துமாறு அனைத்து அமைச்சுகளின் செயலாளர்கள் மற்றும் திணைக்கள பிரதானிகளுக்கு பொதுச்சேவைகள் ஆணைக்குழுவினால் அறிவுறுத்தல் விடுக்கப்பட்டுள்ளது.
+The Public Service Commission has been instructed to the Secretaries and Departments of all Ministries to immediately implement the transfers issued for 2024.
 
 ◼️
 
 [Data](articles/c3b46fbd.json)
+
+[Extended Data](ext_articles/c3b46fbd.ext.json)
 
 ---
 
@@ -760,6 +974,24 @@ The two government Ministers are seeking a declaration that they have not ceased
 
 ---
 
+### Human lives at stake… When protectors of the law become predators
+
+*2024-01-24 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/news-features/Human-lives-at-stake-When-protectors-of-the-law-become-predators/131-275599) · `en`
+
+Following the Narammala shooting incident people are worried about their own safety
+
+The dead civilian’s wallet is still missing, according to his best friend
+
+Kumarasiri who was shot dead by the Narammala Police was the sole breadwinner of the family and his wife is unemployed
+
+On Thursday (January 18), a sub-inspector attached to the Narammala Police Station opened fire at a civilian. The civilian, identified as K. A Roshan Kumarasiri succumbed to injuries instantly. The reason for this brutal encounter was the fact that the police officer who was in civilian clothes had signaled Kumarasiri to stop his lorry, but since there was no sign to identify him as a police officer, Kumarasiri had ignored the signal.Eyewitness accounts claim that the cop had chased after the lorry from Rammuthugala to Dampelessa. He had then pulled it over for a spot inspection, but eyewitness accounts claim that the sub-inspector had loaded his gun while going towards the lorry driver and subsequently opened fire.
+
+...
+
+[Data](articles/34511023.json)
+
+---
+
 ### Why isn’t Lanka’s ‘War on Drugs’, taking on Drug Barons? - EDITORIAL
 
 *2024-01-24 00:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Why-isnt-Lankas-War-on-Drugs-taking-on-Drug-Barons-EDITORIAL/172-275601) · `en`
@@ -844,6 +1076,8 @@ The People’s Bank 2024 calendar, themed ‘Our Ocean – Our Pride,’ emphasi
 
 [Data](articles/2ad4c161.json)
 
+[Extended Data](ext_articles/2ad4c161.ext.json)
+
 ---
 
 ### 
@@ -861,6 +1095,8 @@ Amid those developments both indices moved downwards. The All- Share Price Index
 ...
 
 [Data](articles/46a01257.json)
+
+[Extended Data](ext_articles/46a01257.ext.json)
 
 ---
 
@@ -880,6 +1116,8 @@ In August 2022, Ranil Wickremesinghe as the country’s new President, after the
 
 [Data](articles/8c1eaa33.json)
 
+[Extended Data](ext_articles/8c1eaa33.ext.json)
+
 ---
 
 ### Daraz launches first-ever Free Delivery Festival to set new e-commerce benchmarks in 2024
@@ -891,6 +1129,8 @@ Daraz, South Asia’s leading online e-commerce platform, starts off the new yea
 ...
 
 [Data](articles/793baf93.json)
+
+[Extended Data](ext_articles/793baf93.ext.json)
 
 ---
 
@@ -907,6 +1147,8 @@ Edura 2024 aims to be the premier platform bridging the gap in students’ pursu
 ...
 
 [Data](articles/7f1ead60.json)
+
+[Extended Data](ext_articles/7f1ead60.ext.json)
 
 ---
 
@@ -1739,249 +1981,5 @@ All applications for the admission of children to the intermediate classes other
 [Data](articles/9ba4647b.json)
 
 [Extended Data](ext_articles/9ba4647b.ext.json)
-
----
-
-### Sagala claims relief for public to be anticipated within next year
-
-*2024-01-23 18:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/96668/sagala-claims-relief-for-public-to-be-anticipated-within-next-year) · `en`
-
-Sagala Ratnayaka, the President’s Senior Adviser on National Security and Chief of the Presidential Staff, emphasized today (23 Jan.) at the Presidential Secretariat that President Ranil Wickremesinghe’s effective economic initiatives have fostered trust in the Sri Lankan economy on the global stage.
-
-He highlighted the President’s commitment to a new economic vision aimed at stabilizing the country’s economy through comprehensive reforms in the financial, legal and governance sectors.
-
-Speaking at the “Budget 2024” conference, organized by the President’s Trade Union Relations Division, Ratnayaka outlined the plans to position Sri Lanka as a hub for energy exports.
-
-This strategic move aligns with the President’s broader efforts to enhance the nation’s economic standing and international reputation.
-
-When President Ranil Wickremesinghe assumed office, the country faced a severe economic crisis marked by long queues for oil and gas, as well as prolonged power cuts.
-
-...
-
-[Data](articles/b206880b.json)
-
-[Extended Data](ext_articles/b206880b.ext.json)
-
----
-
-### Doctors call off planned strike
-
-*2024-01-23 18:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Doctors-call-off-planned-strike/155-275584) · `en`
-
-Colombo, Jan 23 (Daily Mirror) - The strike action by government doctors scheduled for tomorrow morning over the suspension of the increment to the Disturbance, Availability and Transport (DAT) allowance has been called off.
-
-The Government Medical Officers' Association (GMOA) in a statement said the Director General of Health Services has issued a written notification, revoking the recent suspension of the DAT allowance for doctors, which was included in the January salary.
-
-This decision, effective immediately, comes after the initial directive to temporarily halt the payment.
-
-In addition, health institution heads have been instructed to disburse the relevant allowance for January through a special voucher for doctors not covered by the regular payroll.
-
-The DAT allowance, which was raised from Rs. 35,000 to Rs. 70,000 was suspended this morning in accordance with the Treasury's directive.
-
-◼️
-
-[Data](articles/248c726a.json)
-
-[Extended Data](ext_articles/248c726a.ext.json)
-
----
-
-### FR petitions filed over DDO programme fixed for consideration
-
-*2024-01-23 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96667/fr-petitions-filed-over-ddo-programme-fixed-for-consideration-) · `en`
-
-The Supreme Court has set a date to consider the Fundamental Rights (FR) petitions filed claiming that the rights of members of both, the Employees’ Provident Fund (EPF) and the Employees’ Trust Fund (ETF) are being violated as a result of the government’s Domestic Debt Restructuring (DDO) programme.
-
-Accordingly, the FR petitions are due to be taken up for consideration on 30 October 2024, as per a decision made by a three-member judge bench of the Supreme Court comprising of Justices S. Thurairaja, Shiran Gooneratne and Mahinda Samayawardhena today (23 Jan.).
-
-Appearing on behalf of the Attorney General, the Additional Solicitor General Viraj Dayaratne informed the court that preliminary objections will be filed for the dismissal of the relevant petitions, without taking them up for hearing.
-
-The FR petitions were put forward by four persons including the General Secretary of the Free Trade Zones and General Services Employees Union, Anton Marcus
-
-◼️
-
-[Data](articles/5bb07ab2.json)
-
-[Extended Data](ext_articles/5bb07ab2.ext.json)
-
----
-
-### Apply directly to respective schools, excluding grades 1, 5, 6, and A/L
-
-*2024-01-23 18:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Apply-directly-to-respective-schools-excluding-grades-1-5-6-and-AL/108-275583) · `en`
-
-Colombo, Jan 23 (Daily Mirror) - As per the circular issued by the Education Ministry, applications for the admission of students to intermediate classes for the year 2024, excluding grades 1, 5, and 6, as well as Advanced Level, should be submitted directly to the respective schools, the Education Ministry said.
-
-If vacancies are available in those schools, the respective school principals will conduct interviews as per Education Ministry circulars and forward the list of selected students to the Ministry for approval.
-
-While issuing a special notice, the Ministry said admission of students to grade six in schools is made solely on the basis of the scores of the grade five scholarship examination.
-
-Meanwhile, the Ministry said that the applications to enroll students in grade one for the year 2024 must be forwarded to the respective schools, and interviews will be conducted by the respective principals thereafter.
-
-...
-
-[Data](articles/46c2369a.json)
-
-[Extended Data](ext_articles/46c2369a.ext.json)
-
----
-
-### Circular revoked; doctors call off planned strike
-
-*2024-01-23 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Circular-revoked-doctors-call-off-planned-strike/155-275584) · `en`
-
-Colombo, Jan 23 (Daily Mirror) - The strike action by government doctors scheduled for tomorrow morning over the suspension of the increment to the Disturbance, Availability and Transport (DAT) allowance has been called off.
-
-The Government Medical Officers' Association (GMOA) in a statement said the Director General of Health Services has issued a written notification, revoking the recent suspension of the DAT allowance for doctors, which was included in the January salary.
-
-This decision, effective immediately, comes after the initial directive to temporarily halt the payment.
-
-In addition, health institution heads have been instructed to disburse the relevant allowance for January through a special voucher for doctors not covered by the regular payroll.
-
-The DAT allowance, which was raised from Rs. 35,000 to Rs. 70,000 was suspended this morning in accordance with the Treasury's directive.
-
-◼️
-
-[Data](articles/1338bb87.json)
-
-[Extended Data](ext_articles/1338bb87.ext.json)
-
----
-
-### Circular revoked; doctors call off planned strike
-
-*2024-01-23 18:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Circular-revoked-doctors-call-off-planned-strike/108-275584) · `en`
-
-Colombo, Jan 23 (Daily Mirror) - The strike action by government doctors scheduled for tomorrow morning over the suspension of the increment to the Disturbance, Availability and Transport (DAT) allowance has been called off.
-
-The Government Medical Officers' Association (GMOA) in a statement said the Director General of Health Services has issued a written notification, revoking the recent suspension of the DAT allowance for doctors, which was included in the January salary.
-
-This decision, effective immediately, comes after the initial directive to temporarily halt the payment.
-
-In addition, health institution heads have been instructed to disburse the relevant allowance for January through a special voucher for doctors not covered by the regular payroll.
-
-The DAT allowance, which was raised from Rs. 35,000 to Rs. 70,000 was suspended this morning in accordance with the Treasury's directive.
-
-◼️
-
-[Data](articles/3f75e32d.json)
-
-[Extended Data](ext_articles/3f75e32d.ext.json)
-
----
-
-### Samoa Rasinsundara from Samoa Rasinsundara from Sri Lanka
-
-*2024-01-23 18:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192479) · `si`
-
-A Sri Lankan monitoring has been able to bring a victory in an international beaum competition to the kingdom of Samoa.
-
-Pearl Kuru, joining the Kingdom, will win the kingdom of Samova for the International Miss Global Beauty Games.
-
-Her mother is a national woman and the father is a Sri Lankan.
-
-With the queen of Samoa, she was able to join the International Miss Global Beauty Games in Vietnam.
-
-◼️
-
-[Data](articles/2261723a.json)
-
-[Extended Data](ext_articles/2261723a.ext.json)
-
----
-
-### Transfer vehicle ownership to avoid complications in fine issuance via CCTV identification
-
-*2024-01-23 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Transfer-vehicle-ownership-to-avoid-complications-in-fine-issuance-via-CCTV-identification/108-275582) · `en`
-
-Colombo, Jan 23 (Daily Mirror) - The Commissioner of the Department of Motor Traffic (DMT) has advised vehicle users to transfer vehicle ownership to their names as it is crucial to avoid complications when issuing fine notices based on offender identification through the CCTV system.
-
-DMT Commissioner General Nishantha Anuruddha Weerasingha told the Daily Mirror that if vehicle ownerships are not transferred to the active user, the charge sheets will be sent to the address of the previous vehicle owner.
-
-Therefore, the commissioner urged vehicle users to transfer ownership to the active user, aiming to avoid inconveniencing the previous vehicle owner.
-
-◼️
-
-[Data](articles/8b0e1ca5.json)
-
-[Extended Data](ext_articles/8b0e1ca5.ext.json)
-
----
-
-### Google, Facebook could close up operations in Sri Lanka after OSB: Opposition MP
-
-*2024-01-23 18:00:00* · [`economynextcom`](https://economynext.com/google-facebook-could-close-up-operations-in-sri-lanka-after-osb-opposition-mp-148455/) · `en`
-
-ECONOMYNEXT – Sri Lanka might lose access to international platforms such as Google and Meta (formerly Facebook) with the introduction of the Online Safety Bill, Member of Parliament Eran Wickremeratne said in parliament.
-
-“Once this law is introduced, they will review the offences they would be accused of and most likely close up its access to users in Sri Lanka. Further, if the Sri Lankan government requests for certain information from Google, they will most likely not comply anymore as it may be self incriminating,” Wickremeratne said on Tuesday (23) when the bill was being debated.
-
-He was responding to the opening statement to the bill presented by Minister of Public Security Tiran Alles.
-
-...
-
-[Data](articles/be2a7804.json)
-
-[Extended Data](ext_articles/be2a7804.ext.json)
-
----
-
-### We will expand the missing campaign to many countries!-Relationships of the missing
-
-*2024-01-23 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174646) · `ta`
-
-Relationships of missing persons on Tuesday (23) said that we will expand the campaign for the disappeared to many countries.
-
-The relatives of the Vavuniya District, which are carrying out a series of protests in Vavuniya, began the protest on Tuesday (23).
-
-In this case, the secretary of the association is engaged in a protest protest near the Vavuniya main post.. Rajkumar and association president K Jayavanita said this.
-
-Our commitment is to strengthen our efforts in finding our missing loved ones, and the source of our courage is in our sovereignty.
-
-In this place our seventh anniversary task is completed today and continues the 8th year. When we strive relentlessly to achieve our ultimate goal of sovereignty. This can only be obtained by the power to investigate the location of our missing Tamil children.
-
-We are expanding our campaign to many countries, and we are seeking people who want to go to Europe and other regions to argue on behalf of the struggling Tamils.
-
-...
-
-[Data](articles/f2bc6639.json)
-
-[Extended Data](ext_articles/f2bc6639.ext.json)
-
----
-
-### Doctors call off planned strike action
-
-*2024-01-23 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96666/doctors-call-off-planned-strike-action) · `en`
-
-The Government Medical Officers’ Association (GMOA) has decided to call off the planned indefinite strike action which was slated to commence from tomorrow (Jan. 24).
-
-This decision has been reached after the Director General of Health Services, issuing a written notification to the Directors and Heads of all Health Institutions, a short while ago, canceling with immediate effect the previously issued letter announcing that the payment of the Disturbance, Availability and Transport (DAT) allowance of doctors for the month of January will be temporarily suspended.
-
-Furthermore, the heads of the institutions have been ordered to pay the relevant allowance through a special voucher to the doctors for the month of January, for those who do not receive the DAT allowance through the regular payroll.
-
-...
-
-[Data](articles/2c019e94.json)
-
-[Extended Data](ext_articles/2c019e94.ext.json)
-
----
-
-### GMoA cancels strike
-
-*2024-01-23 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192478) · `si`
-
-The Association has decided to suspend the continued strike scheduled to operate from the morning to the implementation of government medical officers tomorrow morning.
-
-The Director General of the Health Services DAT allowance has been repealed to the Chiefs of Health Institutions, which cancel the letter with the monthly discontinuation of the payment with the monthly assessment of the Government Medical Officers.
-
-Meanwhile, the General Measuring Authorities (AGC) has ordered the heads of the Institute to pay the applicant voucher for doctors who do not receive the DAT allowance for January.
-
-◼️
-
-[Data](articles/478cae37.json)
-
-[Extended Data](ext_articles/478cae37.ext.json)
 
 ---

@@ -1,36 +1,128 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 12:04:13**
+As of **2024-01-24 12:17:01**
 
 ## Newspaper Stats
 
-*Scraped **2,271** Articles*
+*Scraped **2,283** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 33
 bbccomsinhala | 45
 dbsjeyarajcom | 122
-newsfirstlk | 127
+newsfirstlk | 128
 islandlk | 133
 economynextcom | 135
 adaderanasinhalalk | 161
 dailyftlk | 181
-adalk | 226
-virakesarilk | 249
+adalk | 227
+virakesarilk | 253
 adaderanalk | 284
 tamilmirrorlk | 285
-dailymirrorlk | 290
+dailymirrorlk | 296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,271 (100.0%) of 2,271 articles have been extended.
+2,271 (99.5%) of 2,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Investor anxiety over IMF’s third tranche triggers panic-selling of shares
+
+*2024-01-24 12:05:00* · [`islandlk`](http://island.lk/148694-2/) · `en`
+
+The stock market was gripped by panic- selling of shares yesterday as investors agonized over the possibility of Sri Lanka being unable to obtain the third IMF tranche of US $ 333 million, following the second review, stock market analysts said.
+
+The IMF expects Sri Lanka to reach a deal with commercial creditors by the next review, Senior Mission Chief Peter Breuer said last week.
+
+Amid those developments both indices moved downwards. The All- Share Price Index went down by 83 points and S and P SL20 declined by 22 points. Turnover stood at Rs 700 million minus crossings.
+
+...
+
+[Data](articles/46a01257.json)
+
+[Extended Data](ext_articles/46a01257.ext.json)
+
+---
+
+### தேசிய அடையாள அட்டை இலக்கத்தை தனிநபரின் வரி இலக்கமாக (TIN) பயன்படுத்த நடவடிக்கை!
+
+*2024-01-24 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174679) · `ta`
+
+தேசிய அடையாள அட்டை இலக்கத்தை தனிநபரின் வரி இலக்கமாக (TIN) பயன்படுத்த நடவடிக்கை எடுக்கப்படும் என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாப்பிட்டிய தெரிவித்தார்.
+
+இதன் மூலம் அரசாங்க வருமானம் குறித்து தெளிவான தரவு அமைப்பு உருவாக்கப்படும் என்றும் நிதி இராஜாங்க அமைச்சர் தெரிவித்தார்.
+
+18 வயதுக்கு மேற்பட்டவர்களின் தகவல் அமைப்பைப் பயன்படுத்தி இந்த செயல்முறை மேற்கொள்ளப்படுவதாகவும் அவர் குறிப்பிட்டார்.
+
+மக்களுக்கு இலகுவாக ரின் இலக்கம் வழங்குவது தொடர்பில் ஜனாதிபதி அலுவலகத்தில் இடம்பெற்ற கலந்துரையாடலின்போதே அவர்  இதனைத் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/7097e65c.json)
+
+---
+
+### ஈராக்கில் ஈரான்சார்பு குழுக்களின் நிலைகள் மீது அமெரிக்கா மீண்டும் தாக்குதல்
+
+*2024-01-24 12:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174678) · `ta`
+
+ஈராக்கில் கட்டாப் ஹெஸ்புல்லா குழுவிற்கு எதிராகவும் ஏனைய ஈரான் சார்பு குழுக்களிற்கு எதிராகவும் தாக்குதல்களை மேற்கொண்டதாக அமெரிக்க பாதுகாப்பு செயலாளர் தெரிவித்துள்ளார்.
+
+ஈராக்கிலும் சிரியாவிலும் உள்ள அமெரிக்க ஏனைய நாடுகளின் படையினருக்கு எதிரான தாக்குதலிற்கு பதிலடியாகவே இந்த தாக்குதலை மேற்கொண்டுள்ளதாக அவர் தெரிவித்துள்ளார்.
+
+அமெரிக்காவின் நலன்களை பாதுகாப்பதற்காக ஜனாதிபதியும் நானும் மேலதிக நடவடிக்கைகளை எடுக்க தயங்கப்போவதில்லை எனவும் அமெரிக்க பாதுகாப்பு செயலாளர் தெரிவித்துள்ளார்.
+
+பிராந்தியத்தில் மோதல்களை விஸ்தரிக்க நாங்கள் விரும்பவில்லை எங்கள் மக்களையும் எங்கள் நலன்களையும் பாதுகாப்பதற்கான  மேலதிக நடவடிக்கைகளை எடுக்க தயாராகவுள்ளோம்  இந்த குழுக்களையும் அவர்களிற்கு ஆதரவுவழங்கும் ஈரானியர்களையும் தாக்குதல்களை நிறுத்துமாறு கேட்டுக்கொள்கின்றோம் எனவும் அமெரிக்க பாதுகாப்பு செயலாளர்லொயிட் ஒஸ்டின் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e45394bd.json)
+
+---
+
+### ஆர்ப்பாட்டத்தில் பங்கேற்ற இலங்கை மின்சார சபை ஊழியர்கள் 10,000 பேருக்கு கடிதம்
+
+*2024-01-24 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/174672) · `ta`
+
+இலங்கை மின்சார சபை ஊழியர்கள் 10,000 பேருக்கு கடிதம் அனுப்பியுள்ளதாக இலங்கை மின்சார சபை தெரிவித்துள்ளது.
+
+சுகயீன விடுமுறையை பதிவு செய்து, அண்மையில் முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தில் பங்குபற்றியமைக்கு விளக்கமளிக்குமாறு கடிதம் அனுப்பியுள்ளதாக இலங்கை மின்சார சபை தெரிவித்துள்ளது.
+
+ஊழியர்களின் அளிக்கும் பதில்களின் அடிப்படையில் அடுத்த கட்ட நடவடிக்கை எடுக்கப்படும் என இலங்கை மின்சார சபை பேச்சாளர் பிரதி பொது முகாமையாளர் நோயல் பிரியந்த தெரிவித்துள்ளார்.
+
+இதேவேளை, ஆர்ப்பாட்டத்தில் பங்குபற்றிய குற்றச்சாட்டில் இலங்கை மின்சார சபையில் ஊழியர்கள்  66 பேர் பணி நீக்கம் செய்யப்பட்டுள்ளனர்.
+
+இந்நிலையில், ஊழியர்கள் மீதான அடக்குமுறைக்கு எதிராக கடும் நடவடிக்கை எடுக்கப்படும்  இலங்கை மின்சார ஊழியர் சங்கத்தின் பொதுச் செயலாளர் ரஞ்சன் ஜெயலால் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/7c38b152.json)
+
+---
+
+### இலங்கையின் உத்தேச இணையசட்டம் எதிர்வரும் தேர்தல்களிற்கு அச்சுறுத்தலை  ஏற்படுத்துகின்றது - சர்வதேச மனித உரிமை கண்காணிப்பகம்
+
+*2024-01-24 11:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174674) · `ta`
+
+இலங்கையின் உத்தேச இணையசட்டம் எதிர்வரும் தேர்தல்களிற்கு அச்சுறுத்தலை ஏற்படுத்துகின்றது என சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+இலங்கை ஜனாதிபதி இந்த வாரம் நாடாளுமன்றத்தில் அவசரமாக கொண்டுவர முயற்சிக்கும் அடக்குமுறையான புதிய இணைய சட்டம் நீண்டகால தண்டனையை வழங்க பேச்சுக்கள் கருத்துக்கள் தொடர்பிலான கூடிய பரந்த மற்றும் தெளிவற்ற குற்றங்களை உருவாக்கும் என சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+இலங்கை இந்த வருடத்தின் பிற்பகுதியில் ஜனாதிபதி நாடாளுமன்ற தேர்தலிற்கு தயாராகிவரும் நிலையில் இந்த சட்டம் கருத்துவெளிப்பாட்டுசுதந்திரத்திற்கு கடுமையான அச்சுறுத்தலை ஏற்படுத்துகின்றது எனவும் சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+நிகழ்நிலை பாதுகாப்பு சட்டம் என்ற உத்தேச சட்டமூலம் இணையவழி துன்புறுத்தல்கள் மோசடி துஸ்பிரயோகம் போன்றவற்றிற்கு எதிராக  பாதுகாப்பை வழங்குகின்றது என தெரிவிக்கப்படுகின்ற போதிலும் அது புதிய இணையவழி பாதுகாப்பு ஆணைக்குழுவை ஏற்படுத்துவதையே பிரதான நோக்கமாக கொண்டுள்ளது என சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/591fc20e.json)
+
+---
 
 ### Some of the Anti -Terrorism Bill are contrary to the Constitution: Malcolm Ranjith Petition in High Court!
 
@@ -196,6 +288,24 @@ A bond maturing on 15.03.2028 was quoted at 13.70/80 percent from 13.85/95 perce
 
 ---
 
+### Trump takes decisive step towards Republican Party nomination for president
+
+*2024-01-24 10:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/trump-takes-decisive-step-towards-republican-party-nomination-for-president/) · `en`
+
+Colombo (News 1st) – Former President Donald Trump took a firm step towards securing the Republican Party nomination for the U.S. presidential election scheduled for November 2024, with a resounding victory in the party primary in the state of New Hampshire, US media reported on Wednesday (24th).
+
+With 70% of votes now counted, the former president is up 54.4% to former South Carolina Governor Nikki Haley's 43.6%.
+
+Ms. Haley conceded defeat in New Hampshire, but vowed to continue her campaign.
+
+The two major parties – Republican and Democratic – hold an election in each state at which the respective party members get to vote for their choice for party nominees. The popular nominees become clear as soon as a handful of the 50 states conduct these elections, which are known as caucuses or primaries. New Hampshire was the second such contest.
+
+...
+
+[Data](articles/c958201a.json)
+
+---
+
 ### Wild elephant attacked in banana
 
 *2024-01-24 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174664) · `ta`
@@ -254,6 +364,24 @@ The New Hampley Division defeated her opponent, Niki Halley.
 
 ---
 
+### Health Ministry denies Onco Surgeon’s retirement request
+
+*2024-01-24 10:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Health-Ministry-denies-Onco-Surgeons-retirement-request/108-275649) · `en`
+
+Colombo, Jan 24 (Daily Mirror) -  Notwithstanding official reports indicating that Onco Surgeon Dr. Crysantha Perera, accused of allegedly assaulting a female hospital staffer, has sought early retirement, the Health Ministry is reported to have rejected his request, Daily Mirror learns.
+
+The surgeon, in accordance with the recently issued circular, is eligible to continue serving until the age of 63. However, the 61-year-old surgeon had formally submitted his retirement request two years prior to reaching the retirement age.
+
+Against this backdrop, informed sources suggest that the Health Ministry's refusal is based on the pressing service requirements at the Karapitiya Hospital, where Dr. Crysantha plays a pivotal role as the chief Onco surgeon.
+
+Highlighting Dr. Crysantha's significant contributions to the hospital, sources emphasise that his departure would create a void that cannot be easily filled at this juncture due to the absence of any immediate replacements.
+
+...
+
+[Data](articles/357b0ee7.json)
+
+---
+
 ### The price of vegetables that are constantly touched
 
 *2024-01-24 10:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-உச்சம்-தொடும்-மரக்கறிகளின்-விலை/175-332050) · `ta`
@@ -308,6 +436,8 @@ Three of the defendants were killed in the courts due to the death of the trial 
 
 Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
 
+Trump takes decisive step towards Republican Party nomination for president
+
 Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
 
 Death sentence for 7, for 3 murders on illegal boat to Australia
@@ -315,8 +445,6 @@ Death sentence for 7, for 3 murders on illegal boat to Australia
 Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
 
 Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
-
-Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
 
 ◼️
 
@@ -336,6 +464,8 @@ The group had boarded a trawler in Tangalle. But a fight had broken out on board
 
 Three had drowned, while others were rescued by nearby fishing boats which informed the Sri Lanka Navy.
 
+Trump takes decisive step towards Republican Party nomination for president
+
 Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
 
 Death sentence for 7, for 3 murders on illegal boat to Australia
@@ -343,8 +473,6 @@ Death sentence for 7, for 3 murders on illegal boat to Australia
 Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
 
 Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
-
-Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
 
 ◼️
 
@@ -358,9 +486,19 @@ Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 
 
 *2024-01-24 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96683/seven-fishermen-sentenced-to-death-over-2012-boat-hijacking-and-triple-murder) · `en`
 
-The Colombo High Court has handed death sentence to 7 fishermen who were convicted of hijacking a fishing vessel and killing three individuals in 2012.
+Seven fishermen convicted of hijacking a fishing boat and killing three other fishermen in 2012 have been sentenced to death.
 
-◼️
+Accordingly, the relevant sentence was issued by the Colombo High Court, when the case was taken up this morning (24 Jan.).
+
+Colombo High Court Judge Aditya Patabendige further sentenced the accused to 29 years of Rigorous Imprisonment (RI), while imposing a fine of Rs. 2,008,500, each.
+
+In October 2012, the accused had hijacked a fishing boat (‘Thejan’) off Tangalle, and killed three fishermen aboard while critically injuring several others, in order to illegally migrate to Australia.
+
+Following a lengthy trial, the judge, announcing the verdict, said the charges levelled against the accused have been proven beyond reasonable doubt.
+
+Meanwhile, a female accused in the case was acquitted and released.
+
+...
 
 [Data](articles/10f13b4e.json)
 
@@ -383,6 +521,22 @@ Four people died on the spot and another man was admitted to hospital after bein
 [Data](articles/eb4845cd.json)
 
 [Extended Data](ext_articles/eb4845cd.ext.json)
+
+---
+
+### හොරොයින් හා මත්පෙති සමග රග්බි පුහුණුකරුවෙක් අත්අඩංගුවට
+
+*2024-01-24 10:26:49* · [`adalk`](https://www.ada.lk/breaking_news/හොරොයින්-හා-මත්පෙති-සමග-රග්බි-පුහුණුකරුවෙක්-අත්අඩංගුවට/11-407701) · `si`
+
+හෙරොයින් මත්කුඩු ග්‍රෑම් දෙකහමාරක් සමග මානසික රෝගීන්ට ලබා දෙනු ලබන ඖෂධ කැප්සියුල 4100 ක් සමග මහනුවර විද්‍යාලයක බාහිර රග්බි පුහුණුකරුවෙකු අලවතුගොඩ පොලිසිය මගින් අත්අඩංගුවට ගෙන තිබේ .
+
+විසිදෙවැහැරිදි වියේ පසුවන මෙම රග්බි පුහුණුකරුවා සන්තකයේ හෙරෝයින් මත්කුඩු ග්‍රෑම් දෙකහමාරක් සමග අත්අඩංගුවට ගැනීමෙන් පසු කටුගස්තොට පොලිස් වසමේ අඹතැන්න ප්‍රදේශයේ පිහිටි ඔහුගේ නිවස පරීක්ෂා කිරීමේදී ඔහුගේ නිවසේ රහසිගත ස්ථානයක සඟවා තිබූ එම ඖෂධ කැප්සියුල තොගය අත්අඩංගුවට ගෙන තිබේ .
+
+මෙම මත් කැප්සියුල පාසල් සිසුන්ට අලෙවි කළේ ද යන්න සම්බන්ධයෙන් අලවතුගොඩ පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරීක්ෂක සුජීව ගුණතිලක මහතාගේ උපදෙස් පරිදි එහි අපරාධ අංශය විමර්ශන සිදු කරයි .
+
+◼️
+
+[Data](articles/ab72a695.json)
 
 ---
 
@@ -458,6 +612,54 @@ Two of them have been taken to the Jaffna Teaching Hospital for further treatmen
 
 ---
 
+### Speaker endorses Office of National Unity and Reconciliation Bill
+
+*2024-01-24 10:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Speaker-endorses-Office-of-National-Unity-and-Reconciliation-Bill/108-275647) · `en`
+
+Speaker Mahinda Yapa Abeywardena announced today that he has endorsed the Office of National Unity and Reconciliation Bill. The Bill therefore becomes law with effect from today.
+
+The Office of National Unity and Reconciliation is being set up following a resolution adopted by the UN Office of Human Rights.
+
+◼️
+
+[Data](articles/494045a5.json)
+
+---
+
+### Rugby coach arrested in Kandy with heroin and narcotic pills
+
+*2024-01-24 10:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rugby-coach-arrested-in-Kandy-with-heroin-and-narcotic-pills/108-275648) · `en`
+
+Kandy, Jan 24 (Daily Mirror) - A 22-year-old external rugby coach of a prominent school in Kandy was arrested by the police for possession of heroin and 4,100 narcotic pills.
+
+He was arrested in the Ambathenna area of Kandy by the Alawathugoda Police, where the suspect was found with 2 grams of heroin and 4,100 meth pills.
+
+The suspect, residing in Ambathenna, had joined as an external coach of the school six months ago.
+
+It was revealed  that he is an Army deserter who had previously served at the Panagoda camp.
+
+◼️
+
+[Data](articles/4f84698e.json)
+
+---
+
+### Heavy mist at Welipenna, be cautious when driving: Police
+
+*2024-01-24 10:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-mist-at-Welipenna-be-cautious-when-driving-Police/108-275646) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - Motorists are urged to exercise caution while accessing the Welipenna interchange on the Southern Expressway, especially during the morning when visibility is reduced due to heavy mist, the police said.
+
+They said the high misty condition prevailed this morning as well as during the previous days.
+
+Therefore, motorists are requested not to drive at high speeds within this area.
+
+◼️
+
+[Data](articles/603c4de3.json)
+
+---
+
 ### Fatal Bus - Van accident
 
 *2024-01-24 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192499) · `si`
@@ -480,6 +682,22 @@ According to our correspondent, 8 cattle were killed in the accident.
 
 ---
 
+### International dhamma programme tomorrow
+
+*2024-01-24 10:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/International-dhamma-programme-tomorrow/108-275643) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - An international dhamma programme in view of Duruthu Full Moon Poya Day will be held tomorrow (25) by Ven. Olande Ananda Thera.
+
+This live webinar will be held between 6 p.m. and 7.30 p.m. tomorrow where the Thera will share the Buddha's teachings on mindfulness and how individuals can use these principles to improve their daily lives and deepen their mindfulness to move closer to their spiritual goals.
+
+The programme is organized by the Foundations of Mindfulness, followed by guided meditation, and will be followed by guided meditation.
+
+◼️
+
+[Data](articles/81c09463.json)
+
+---
+
 ### Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
 
 *2024-01-24 10:00:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/letters-to-nearly-10-000-ceb-employees-who-participated-in-protests-after-reporting-sick-leave/) · `en`
@@ -492,13 +710,13 @@ The services of 66 employees who engaged in protests against the restructuring o
 
 Convenor of the United Trade Union Front of the C.E.B Ranjan Jayalal says that strict measures will be taken against the repression of employees.
 
+Trump takes decisive step towards Republican Party nomination for president
+
 Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
 
 Death sentence for 7, for 3 murders on illegal boat to Australia
 
 Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
-
-Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
 
 ...
 
@@ -933,6 +1151,22 @@ On January 3, during an event, President Ranil Wickremesinghe said that the gove
 [Data](articles/75b1e39b.json)
 
 [Extended Data](ext_articles/75b1e39b.ext.json)
+
+---
+
+### Sri Lanka Navy says ready for Red Sea deployment
+
+*2024-01-24 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sri-Lanka-Navy-says-ready-for-Red-Sea-deployment/155-275620) · `en`
+
+Colombo, Jan 24 (Daily Mirror) - Although a date has not been fixed, the Sri Lanka Navy said yesterday that it is now prepared to send a deployment to the Red Sea to assist in defending shipping lanes from Houthi activities, once the government greenlights and authorizes the deployment.
+
+Navy spokesperson Capt. Gayan Wickramasinghe told the Daily Mirror that discussions are still underway at higher levels regarding the Red Sea deployment, but the Sri Lanka Navy is ready. "We are now on standby to send our deployment to the Red Sea at any time," he said.
+
+On January 3, during an event, President Ranil Wickremesinghe said that the government would deploy a Navy vessel to the Red Sea to safeguard shipping lanes. He said that the disruption of these lanes would lead to increased freight charges and cargo costs, affecting import prices in the country. President Wickremesinghe said that the government is committed to contributing to stability in the region.
+
+...
+
+[Data](articles/d1f70e50.json)
 
 ---
 
@@ -1741,259 +1975,5 @@ SJB General Secretary Ranjith Madduma Bandara who commented on the matter denied
 [Data](articles/c20d49d1.json)
 
 [Extended Data](ext_articles/c20d49d1.ext.json)
-
----
-
-### New Bill soon to protect consumers from online businesses: Minister
-
-*2024-01-23 23:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/New-Bill-soon-to-protect-consumers-from-online-businesses-Minister/108-275597) · `en`
-
-Parliament, Jan. 23 (Daily Mirrora)- Steps will be taken to introduce a new Bill through the Consumer Affairs Authority (CAA) to protect the consumers who are inconvenienced due to online businesses, Trade, Commerce and Food Security Minister Nalin Fernando said today.
-
-He told Parliament that there are no legal provisions in Sri Lanka to protect the consumers from online businesses which are widespread at present.
-
-"Online businesses have increased throughout the world. However, we have no laws in Sri Lanka to act upon complaints by consumers over issued faced due to online businesses. We will draft a Bill through the CAA and present it in Parliament soon," he said.
-
-◼️
-
-[Data](articles/a6d5a618.json)
-
-[Extended Data](ext_articles/a6d5a618.ext.json)
-
----
-
-### People’s Bank unveils 2024 calendar driven by AI technology
-
-*2024-01-23 23:00:00* · [`islandlk`](http://island.lk/peoples-bank-unveils-2024-calendar-driven-by-ai-technology/) · `en`
-
-People’s Bank, at the forefront of digital banking in Sri Lanka, proudly revealed its 2024 calendar infused with cutting-edge AI technology. In its relentless pursuit of delivering the most advanced digital banking services, the bank has launched this unique calendar with the purpose of offering yet another exceptional experience to its valued customers.
-
-The People’s Bank 2024 calendar, themed ‘Our Ocean – Our Pride,’ emphasizes the significance of conserving oceans and their diverse life forms. Featuring captivating images of blue whales, turtles, dolphins, and coral reefs, the calendar delivers a visual journey into marine beauty. By downloading the Overly App from the Google Play Store or Apple App Store and scanning the People’s Bank calendar, customers gain access to live videos enhanced by AI technology. This interactive experience allows users to explore additional information about the calendar’s contents.
-
-...
-
-[Data](articles/2ad4c161.json)
-
-[Extended Data](ext_articles/2ad4c161.ext.json)
-
----
-
-### 
-
-*2024-01-23 22:58:00* · [`islandlk`](http://island.lk/148694-2/) · `en`
-
-Investor anxiety over IMF’s third tranche triggers panic-selling of shares
-
-The stock market was gripped by panic- selling of shares yesterday as investors agonized over the possibility of Sri Lanka being unable to obtain the third IMF tranche of US $ 333 million, following the second review, stock market analysts said.
-
-The IMF expects Sri Lanka to reach a deal with commercial creditors by the next review, Senior Mission Chief Peter Breuer said last week.
-
-Amid those developments both indices moved downwards. The All- Share Price Index went down by 83 points and S and P SL20 declined by 22 points. Turnover stood at Rs 700 million minus crossings.
-
-...
-
-[Data](articles/46a01257.json)
-
-[Extended Data](ext_articles/46a01257.ext.json)
-
----
-
-### ‘SL making no attempt to put Chinese swap to use despite meeting pre-condition’
-
-*2024-01-23 22:58:00* · [`islandlk`](http://island.lk/sl-making-no-attempt-to-put-chinese-swap-to-use-despite-meeting-pre-condition/) · `en`
-
-Sri Lanka is not making any attempts as yet to put its currency swap worth USD 1.4 billion with China to ‘usable’ form, even though the country has now met the pre-condition that qualifies it to do so, CBSL Governor Dr. Nandalal Weerasinghe revealed yesterday.
-
-CBSL and People’s Bank of China entered into a currency swap agreement for Chinese Yuan 10 billion (USD 1.4 billion) in March 2021, valid for three years, with a view to promoting bilateral trade and direct investment for economic development.
-
-However, as per conditions imposed by China to which Sri Lanka had agreed, the latter cannot use the funds, but was only allowed to use it when the CBSL officially declares its foreign reserve levels.
-
-In August 2022, Ranil Wickremesinghe as the country’s new President, after the exit of former president Gotabaya Rajapakse, told parliament that Sri Lanka was required to have enough foreign reserves to cover three months of imports to be able to utilize this Chinese swap.
-
-...
-
-[Data](articles/8c1eaa33.json)
-
-[Extended Data](ext_articles/8c1eaa33.ext.json)
-
----
-
-### Daraz launches first-ever Free Delivery Festival to set new e-commerce benchmarks in 2024
-
-*2024-01-23 22:53:00* · [`islandlk`](http://island.lk/daraz-launches-first-ever-free-delivery-festival-to-set-new-e-commerce-benchmarks-in-2024/) · `en`
-
-Daraz, South Asia’s leading online e-commerce platform, starts off the new year with the first-ever Daraz Free Delivery Festival. Taking place from 27th January 2024, shoppers can enjoy free delivery islandwide on millions of items across fashion, beauty, home and decor, and more. This initiative further reinforces Daraz’s commitment to communities across South Asia, showcasing the development and optimisation of infrastructure and advanced technology to ensure seamless nationwide delivery and easy access to goods.
-
-...
-
-[Data](articles/793baf93.json)
-
-[Extended Data](ext_articles/793baf93.ext.json)
-
----
-
-### Global Education Exhibition to be held in Negombo from February 2 to 4
-
-*2024-01-23 22:53:00* · [`islandlk`](http://island.lk/global-education-exhibition-to-be-held-in-negombo-from-february-2-to-4/) · `en`
-
-Maris Stella College Negombo, Old Boys Association (OBA), recently announced the launch of Edura Global Education Fest 2024, featuring an Education Exhibition, Job Fair, and Book Fair.
-
-Under the theme “Global Education Fest,” this three-day event will be held from February 2 to 4, 2024, at Maris Stella College premises in Negombo. The event will also host a Book Fair from February 2 to 6, showcasing leading stationery suppliers and publishers.
-
-Edura 2024 aims to be the premier platform bridging the gap in students’ pursuit of higher education, offering a unique opportunity for local and international universities, foreign university placements, student transfer options, and job seekers.
-
-...
-
-[Data](articles/7f1ead60.json)
-
-[Extended Data](ext_articles/7f1ead60.ext.json)
-
----
-
-### Police recover car suspected to have been used in shooting of Buddhist monk
-
-*2024-01-23 22:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96674/police-recover-car-suspected-to-have-been-used-in-shooting-of-buddhist-monk) · `en`
-
-Police have recovered the vehicle which is suspected to have been used by the suspects involved in the shooting of a Buddhist monk in Malwathuhiripitiya area of Gampaha earlier today (23 Jan.).
-
-The vehicle was found abandoned in a shrubby area at Godella in Kaduwela, Police said, adding that it had been torched beyond recognition.
-
-According to police, however, another vehicle, bearing the same licence plate as that of the vehicle the suspects had arrived in, was found in a garage in Eluwila, Panadura.
-
-Earlier today, four unidentified individuals had arrived in a car at the temple, and carried out the shooting and fled the scene afterwards, police reported, adding that the shooters had claimed to be officers from the Criminal Investigations Department (CID).
-
-The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero, who sustained critical injuries in the incident, had been rushed to the Gampaha Hospital.
-
-...
-
-[Data](articles/5dee2b83.json)
-
-[Extended Data](ext_articles/5dee2b83.ext.json)
-
----
-
-### Police would have changed Narammala shooting incident if not for social media: Anura Kumara
-
-*2024-01-23 22:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-would-have-changed-Narammala-shooting-incident-if-not-for-social-media-Anura-Kumara/108-275596) · `en`
-
-Parliament, Jan. 23 (Daily Mirror)- Claiming that social media was playing a vital role in circulating true and unfiltered news to the people, NPP Leader Anura Kumara Dissanayake said police would have altered the whole incident involving the Narammala shooting incident if not for social media.
-
-He said the mainstream media reports filtered news based on the needs of the media owners and that social media was circulating true and unfiltered news to the people.
-
-Commenting on the Online Safety Bill, he told Parliament that the government was plotting to restrict circulation of true news in social media as it had been a headache for them.
-
-...
-
-[Data](articles/77acf9f3.json)
-
-[Extended Data](ext_articles/77acf9f3.ext.json)
-
----
-
-### From basement boys to League leaders; How Lewke transformed CR & FC
-
-*2024-01-23 22:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/From-basement-boys-to-League-leaders-How-Lewke-transformed-CR-FC/108-275595) · `en`
-
-Jan. 23 (Daily Mirror) - It was not long ago CR and FC looked like a modern-day Manchester United with zero hopes of winning the league. In fact CR finished in the bottom of the league a couple of years ago with more than half of their senior men leaving for other top division clubs. But club the management had faith on one guy to change their fortunes; Dushanth Lewke.
-
-Having represented Sri Lanka at national level, Lewke knew CR and FC was a work in progress. They came very close last year to win the league, but this year they are now within touching distance of the most prestigious title in Sri Lanka club rugby.
-
-At the start of the season when Daily Mirror interviewed CR head coach Lewke stated that he wasn’t too worried about finishing season in the previous season, but for him what mattered the most was how CR improved on their style of play.
-
-...
-
-[Data](articles/9be76880.json)
-
-[Extended Data](ext_articles/9be76880.ext.json)
-
----
-
-### America and Britain launches another series of attacks
-
-*2024-01-23 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192486) · `si`
-
-US and Britain troops have launched a series of new attacks on the targets of Yemen in Yemen who attacked the Red Sea Trade vessels.
-
-The attacks are the purpose of the attacks of the demonstrators' ground-arms storage as well as the groundwelling capabilities of the demons.
-
-The Houthi rebels who hold control of a majority in a majority of Yemen are attacking the Red Sea by the Red Sea.
-
-However, the transportation of global ships has caused hindrances to the transportation of global ships, and it is believed to increase global inflation.
-
-The Pentagon states that the US and British troops have attacked eight targets in the latest strikes.
-
-Australia, Bahrain, Canada and the Netherlands also supported the attack.
-
-It is reported that the tariffs of US war vessels have also attacked the targets of Yemen.
-
-But the threat to the Red Sea is not yet over.
-
-America and Britain says they were able to reduce the ability to attacking complex attacks to the demon rebels.
-
-...
-
-[Data](articles/fd785a48.json)
-
-[Extended Data](ext_articles/fd785a48.ext.json)
-
----
-
-### Israeli troops cut off Khan Younis after suffering worst Gaza loss
-
-*2024-01-23 22:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96673/israeli-troops-cut-off-khan-younis-after-suffering-worst-gaza-loss) · `en`
-
-Twenty-four Israeli soldiers were killed in Israel’s worst day of losses in Gaza, the military said on Tuesday, as its forces encircled southern Gaza’s main city, trapping Palestinian residents trying to flee.
-
-Spokesman Rear Admiral Daniel Hagari said 21 soldiers were killed when two buildings they had mined for demolition exploded after militants fired at a nearby tank. Earlier, three soldiers were reported killed in a separate attack.
-
-Israeli tanks, advancing west towards the Mediterranean, shut the road out towards the coast on Tuesday, blocking the escape route for civilians trying to reach Rafah, the last town on Gaza’s southern edge – now crammed with more than half the enclave’s 2.3 million people.
-
-At least 195 Palestinians were killed in the space of 24 hours, raising the documented toll to 25,490, according to Palestinian health officials, who say thousands more dead are feared lost in the rubble.
-
-...
-
-[Data](articles/4ba23fe9.json)
-
-[Extended Data](ext_articles/4ba23fe9.ext.json)
-
----
-
-### Confident Sri Lanka aim to seal Super Six spot
-
-*2024-01-23 21:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Confident-Sri-Lanka-aim-to-seal-Super-Six-spot/108-275591) · `en`
-
-Jan. 23 (Agencies) - Sri Lanka will look to produce another winning performance and seal their place in the Super Six stage when they take on Namibia in the 2024 ICC Under-19 Cricket World Cup Group ‘C’ fixture at the Diamond Oval in Kimberley, South Africa tomorrow.
-
-Sri Lanka defeated Zimbabwe by 39 runs under the DLS method in their opening match of the tournament on Sunday and the side will look to carry this form forward ahead of their more vital game against Australia.
-
-In contrast, Namibia went down against Australia by four wickets in their opening match and must win this game to keep their hopes alive.
-
-The Sri Lankans will feel confident after their big win in the last game. Their bowlers are in good form, and it will be interesting to see how the Namibian players perform in this game.
-
-Sineth Jayawardena's side has made a good start to the tournament. Pulindu Perera and Vishen Halambage failed in the last game and the team will look for a good start.
-
-...
-
-[Data](articles/91d20c5b.json)
-
-[Extended Data](ext_articles/91d20c5b.ext.json)
-
----
-
-### Private hospital pleads guilty in advance when case summoned today
-
-*2024-01-23 21:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Private-hospital-pleads-guilty-in-advance-when-case-summoned-today/108-275594) · `en`
-
-Colombo, Jan 23 (Daily Mirror) -  A leading private hospital in Colombo that stirred controversy by selling government price controlled drugs for exorbitant rates, had reportedly pleaded guilty in advance when the case was scheduled to be taken up today in the presence of the complainant and other state officials, the Daily Mirror learns.
-
-National Medicines Regulatory Authority (NMRA) filed charges against eight directors and three other officials of the Asiri Hospital Holdings PLC for selling 11 medicines, which are listed with a maximum retail price, for higher prices, a spokesperson for the NMRA said.
-
-The NMRA acting on a complaint lodged by a patient by the name Sanath Kumara Athukorala mid last year and conducting a probe into the matter had filed a case at the Maligakanda Magistrate Court in the last week of December. And the hospital authorities had been summoned to appear in courts on January 24.
-
-...
-
-[Data](articles/1d511494.json)
-
-[Extended Data](ext_articles/1d511494.ext.json)
 
 ---

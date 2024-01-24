@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 05:17:17**
+As of **2024-01-24 05:37:51**
 
 ## Newspaper Stats
 
-*Scraped **2,175** Articles*
+*Scraped **2,180** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 123
 newsfirstlk | 124
 economynextcom | 132
 adaderanasinhalalk | 144
-dailyftlk | 171
+dailyftlk | 176
 adalk | 222
 virakesarilk | 238
 adaderanalk | 272
@@ -26,11 +26,101 @@ dailymirrorlk | 276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,175 (100.0%) of 2,175 articles have been extended.
+2,175 (99.8%) of 2,180 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Global fund management firm TIW Capital CEO visits BOI
+
+*2024-01-24 04:47:05* · [`dailyftlk`](https://www.ft.lk/business/Global-fund-management-firm-TIW-Capital-CEO-visits-BOI/34-757692) · `en`
+
+Singapore headquartered TIW Capital Group (TCG) Group CEO and Managing Partner Mohit Ralhan this week visited the Board of Investment and met with Chairman Dinesh Weerakkody and officials to discuss opportunities to set up a subsidiary in Sri Lanka.
+
+TCG is a global asset management company, and has offices in eight locations, Singapore, Malaysia, Mongolia, India, Bahrain, UAE, Oman and Mauritius and has an investor spread across 29 countries. TCG currently has SGD 1 billion assets under management.
+
+Ralhan is an industry veteran and a regular speaker and moderator in various industry forums across the region.
+
+◼️
+
+[Data](articles/c7f00eb2.json)
+
+---
+
+### Ceylon Energy secures SEZ licence from Kenyan President
+
+*2024-01-24 04:46:02* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Energy-secures-SEZ-licence-from-Kenyan-President/34-757691) · `en`
+
+Ceylon Energy Founder/Chairman Madusanka Fernando receiving the SEZ Enterprise Licence from Kenyan President Dr. William Ruto
+
+Ceylon Energy, a company with a history of excellence in power transmission projects, has been issued a Special Economic Zone (SEZ) Enterprise licence by Kenyan President Dr. William Ruto to commence operations at the Naivasha SEZ.
+
+The licence was handed over to Ceylon Energy Founder/Chairman Madusanka Fernando by President Ruto in Nairobi, Kenya on 13 January.
+
+Upon receiving the licence, Fernando assured the Kenyan President that Ceylon Energy would be investing heavily in the Naivasha SEZ.
+
+The company is scheduled to invest over (Kenyan Shilling) KSh. 1.1 billion on five acres of land in the initial phase with 374 jobs expected to be created at the end of the entire project. The proposed investment is for the projects in galvanisation, helical anchors, smart meters, tower manufacturing and steel fabrication plants.
+
+...
+
+[Data](articles/29c31ef6.json)
+
+---
+
+### OSB debate goes ahead despite claims of illegality and public protests
+
+*2024-01-24 04:39:42* · [`dailyftlk`](https://www.ft.lk/news/OSB-debate-goes-ahead-despite-claims-of-illegality-and-public-protests/56-757690) · `en`
+
+Opposition MPs reject alleged report by Sectoral Oversight Committee on bill
+
+Says going ahead with debate sans an actual report is in violation of Standing Orders and is therefore illegal
+
+MP M.A. Sumanthiran says Govt. MPs who voted to go ahead with debate under such a circumstance lack literacy
+
+Accuses Govt. of using its false majority to bulldoze through a draconian legislation when it can be amended and passed in consensus with opposition
+
+Public Security Minister Tiran Alles maintains bill is being implemented to safeguard women and children
+
+Claims intention is not to victimise anyone including media and political opponents
+
+SJB MP Eran Wickramaratne contradicts Alles’s assertion that social media companies were ready to endorse the bill
+
+Opposition MP Rauff Hakeem says bill represents a Govt. endeavour to dismantle remaining safeguards for freedom of expression in SL
+
+...
+
+[Data](articles/f9cfb515.json)
+
+---
+
+### SC grants leave to proceed with another FR against Deshabandu
+
+*2024-01-24 04:36:59* · [`dailyftlk`](https://www.ft.lk/news/SC-grants-leave-to-proceed-with-another-FR-against-Deshabandu/56-757689) · `en`
+
+The Supreme Court yesterday granted leave to proceed with yet another Fundamental Rights petition filed against Acting Inspector General of Police Deshabandu Tennekoon and several other Police officers by a petitioner alleging their involvement in the torture and degrading treatment inflicted upon him during an incident in August 2022.
+
+The petitioner, identified as 27-year-old Attorney-at-law Mohmed Nibras Nazeer, a resident of Gothatuwa has claimed that he had witnessed the first respondent, a Police sergeant attached to the Wellampitiya Police station assaulting two youths identified as Mohamed Azli Rifai and Mohamed Sajid Nazeer. He said he had intervened in the incident and requested the officer to refrain from assaulting the youths.
+
+...
+
+[Data](articles/b4592795.json)
+
+---
+
+### NMSJ submits electoral reform proposals to Presidential Commission
+
+*2024-01-24 04:36:38* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-submits-electoral-reform-proposals-to-Presidential-Commission/56-757688) · `en`
+
+The National Movement for Social Justice (NMSJ) submitted its proposals on the reforms which are required to be made to the country’s electoral system to the relevant Presidential Commission.
+
+Making the relevant submissions, the NMSJ verbally informed the Commission about the reforms that should be made in relation to Local Government (LG), Provincial Councils, Parliamentary and Presidential Elections, based on the written proposals which have been submitted previously. A detailed presentation was made on the changes to be made in relation to youth and women representation, LG structures, limitation of election expenses, new proposals for the preferential system, election laws, proposals regarding the selection units of public representatives and the proposal regarding the electronic voting system.
+
+...
+
+[Data](articles/d4123b9f.json)
+
+---
 
 ### International confidence
 
@@ -1949,115 +2039,5 @@ Accordingly, the allowance will be available for persons with special needs, chi
 [Data](articles/cd2e2315.json)
 
 [Extended Data](ext_articles/cd2e2315.ext.json)
-
----
-
-### DAT allowance for doctors temporarily suspended – Health Services DG
-
-*2024-01-23 14:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96657/dat-allowance-for-doctors-temporarily-suspended-health-services-dg) · `en`
-
-The payment of the Disturbance, Availability and Transport (DAT) allowance for doctors, which was recently increased by Rs. 35,000, has been temporarily suspended due to insufficient funds, the Director General of Health Services Dr. Asela Gunawardena said.
-
-In a letter to all directors of government hospitals and heads of institutions, the Director General of Health Services states that although the necessary arrangements have been made for the payment of the said allowance, the Treasury has not provided funds within the approved allocation limit.
-
-He further mentioned that the Secretary of the Ministry of Health has informed him to temporarily suspend the payment of the DAT allowance which was decided to be increased by Rs. 35,000 to Rs, 70,000, until the issue is resolved by the Treasury.
-
-...
-
-[Data](articles/93185dce.json)
-
-[Extended Data](ext_articles/93185dce.ext.json)
-
----
-
-### The world's first malaria vaccine program is in the Cameroon
-
-*2024-01-23 14:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174612) · `ta`
-
-The world's first vaccine program has been launched in the African country of Cameron.
-
-Accordingly, the first vaccine was given to a baby girl named Daniela at a health center near Younde, the capital of Cameron on Monday.
-
-600,000 people die by malaria every year in Africa. The World Health Organization said 80 percent of them were children under the age of five.
-
-In this case, the Cameroon government provides free RTS and S vaccine for all children who have completed six months.
-
-Therefore, health officials say that the vaccine will be placed on other regular childhood vaccines to make parents feel the method of receiving the vaccine.
-
-The test has been successfully completed in Kenya, Ghana and Malawi. UNICEF said malaria casualties were reduced by 13 percent by vaccination.
-
-The vaccine is known that at least 36 percent of victims are useful. This means that US researchers say that they will save more than one third.
-
-...
-
-[Data](articles/4d2cacb4.json)
-
-[Extended Data](ext_articles/4d2cacb4.ext.json)
-
----
-
-### Israel's senior leaders permit Hamas to leave Gaza safely?CNN news
-
-*2024-01-23 14:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174615) · `ta`
-
-Israel has proposed an idea that the senior leaders of the Hamas organization are part of the widespread ceasefire agreement.
-
-The war in Gaza lasts for four months, but it has been revealed in Israel's situation as the Hamas system cannot be completely destroyed.
-
-Israel estimates that Israel has not arrested any of Hamas so far, and that 70 percent of Hamas's war -torn members are still alive.
-
-Israel has agreed to allow Hamasin's senior leaders to be safely out of Gaza, which is considered the mastermind of the October attack.
-
-CNN has said that Israel will continue to target Hamas leaders abroad if Hamas's senior leaders leave Gaza.
-
-Meanwhile, CNN has said that Hamas is likely to accept this idea of Israel.
-
-◼️
-
-[Data](articles/d501c3c5.json)
-
-[Extended Data](ext_articles/d501c3c5.ext.json)
-
----
-
-### Court of police officer was suspected of suspicion death
-
-*2024-01-23 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192470) · `si`
-
-The sub-inspector who was arrested in connection with the death of a youth in Narammala has been remanded until 31st.
-
-The suspect was produced before the Narammala Magistrate's Court today.
-
-The 41-year-old Roshan Kumaratilake 51 year old Roshan Kumaratilake 51 year old Roshan Kumaratilake has died on the 18th.
-
-The Kuliyapitiya Crime Investigation Unit is conducting further investigations.
-
-◼️
-
-[Data](articles/e8ca53ab.json)
-
-[Extended Data](ext_articles/e8ca53ab.ext.json)
-
----
-
-### Doctors to begin strike against suspension of DAT allowance
-
-*2024-01-23 14:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Doctors-to-begin-strike-against-suspension-of-DAT-allowance/108-275576) · `en`
-
-Colombo, Jan 23 (Daily Mirror) -  The government doctors, including specialists, are set to initiate an indefinite strike starting at 8 am tomorrow in protest of the suspension of the increment to the Disturbance, Availability, and Transport (DAT) allowance.
-
-The Health Ministry, responsible for overseeing these allowances, confirmed the suspension decision.
-
-Previously, the DAT allowance was raised from Rs. 35,000 to Rs. 70,000 following the government's approval of the President's proposal.
-
-Despite the earlier announcement of the allowance increase, the Ministry clarified that the elevated amount of Rs. 35,000 would be suspended in accordance with the Treasury's directive.
-
-This unexpected turn of events has fueled dissatisfaction among government doctors, leading them to call for an indefinite strike beginning tomorrow morning.
-
-◼️
-
-[Data](articles/98e1e36f.json)
-
-[Extended Data](ext_articles/98e1e36f.ext.json)
 
 ---

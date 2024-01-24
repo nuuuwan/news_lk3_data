@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 18:10:42**
+As of **2024-01-24 18:22:47**
 
 ## Newspaper Stats
 
-*Scraped **2,371** Articles*
+*Scraped **2,377** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 144
 adaderanasinhalalk | 178
 dailyftlk | 181
 adalk | 235
-virakesarilk | 264
+virakesarilk | 270
 tamilmirrorlk | 292
 adaderanalk | 298
 dailymirrorlk | 310
@@ -26,11 +26,33 @@ dailymirrorlk | 310
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,363 (99.7%) of 2,371 articles have been extended.
+2,377 (100.0%) of 2,377 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### We will completely cancel the Celebration Bill in our government - Harsha de Silva
+
+*2024-01-24 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174726) · `ta`
+
+98 percent of the people have protested against the Ceremony Backup Bill. This bill will be completely abolished in our regime. United People's Power MP Harsha de Silva said that it is clear whether democracy is within parliament or outside.
+
+He was speaking at a debate on the Backup Bill on Wednesday (24) in Parliament.
+
+We accept that we should protect the democratic rights of the nation and that 225 members should cooperate with it. The government has not taken care of the national and international level organizations on the Foundation Bill.
+
+In a poll, 98 percent of the polls on the Celebration Bill, opposed the bill.. So is democracy in Parliament?Or you can understand whether it is outside.
+
+We agree that social media should be monitored. This bill is the main objective of repression instead of monitoring, so this law will be completely abolished in our government and will be legalized.
+
+...
+
+[Data](articles/613d46b2.json)
+
+[Extended Data](ext_articles/613d46b2.ext.json)
+
+---
 
 ### Online Safety Bill: Second reading passed with 46 majority
 
@@ -41,6 +63,8 @@ Parliament, Jan. 24 (Daily Mirror)- The second reading of the Online Safety Bill
 ◼️
 
 [Data](articles/15ac8d23.json)
+
+[Extended Data](ext_articles/15ac8d23.ext.json)
 
 ---
 
@@ -62,6 +86,30 @@ Accordingly, the Speaker informed the Parliament that the second reading of the 
 
 ---
 
+### Investors may not return to the country due to the mistakes of state officials!-Prasanna Ranatunga
+
+*2024-01-24 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174728) · `ta`
+
+Minister of Urban Development and Housing. The Minister issued a directive to the authorities to expedite the final work.
+
+The Minister stressed the need to take proper measures and provide solutions to the problems that are involved in contact with investors.
+
+The Minister said this while addressing a discussion held at the Urban Development Authority auditorium on Tuesday (23) to investigate the issues that have arisen regarding the Aruvakkal Garbage Project.
+
+Minister Prasanna Ranatunga said that investors may not return to Sri Lanka due to such delays and mistakes made by some state officials.
+
+Chinese company China Harbor Engineering Company and China's South Western Municipal Engineering and Research Institute are carrying out the construction of the Awagaal Garbage Warehouse.
+
+Minister Prasanna Ranatunga added that if there is a delay in providing solutions to the problems of contact with foreign investors, it will be affected at the national level among those countries.
+
+...
+
+[Data](articles/53f82a9d.json)
+
+[Extended Data](ext_articles/53f82a9d.ext.json)
+
+---
+
 ### Danu Innasithamby wins Pride of The Nation Award
 
 *2024-01-24 17:12:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/danu-innasithamby-wins-pride-of-the-nation-award/) · `en`
@@ -73,6 +121,28 @@ Russian plane crashes with 65 Ukrainian prisoners of war on board
 ◼️
 
 [Data](articles/ca7de7c8.json)
+
+[Extended Data](ext_articles/ca7de7c8.ext.json)
+
+---
+
+### Shantan - Kidney Liver Damage - Prisoners Rights Organization letter letter
+
+*2024-01-24 17:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174731) · `ta`
+
+The Prisoners Rights Center said that Shantan's health has been severely affected by the amnesty after several years after the murder of former Prime Minister Rajiv Gandhi in Rajiv Gandhi.
+
+The Prison Rights Center has written to the Chief Minister of Tamil Nadu that he should be treated at the Chennai Multipurpose Specialty Hospital.
+
+Rajiv Gandhi's murder case is waiting for Santhan, who is currently released in Sri Lanka.
+
+The prison center has requested that he be saved because he is fighting for life, but he has not been given proper treatment for two months.
+
+◼️
+
+[Data](articles/6e87b1b5.json)
+
+[Extended Data](ext_articles/6e87b1b5.ext.json)
 
 ---
 
@@ -93,6 +163,8 @@ President's Counsel Kalinga Indatissa appearing for the suspect informed court t
 ...
 
 [Data](articles/26f73087.json)
+
+[Extended Data](ext_articles/26f73087.ext.json)
 
 ---
 
@@ -133,6 +205,40 @@ The MP Rohitha Abeygunawardena has said that if there is a police complaint abou
 [Data](articles/008dcb57.json)
 
 [Extended Data](ext_articles/008dcb57.ext.json)
+
+---
+
+### Resolution to increase the price of egg by 3 rupees
+
+*2024-01-24 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/174718) · `ta`
+
+The All Ceylon Egg Manufacturers Association has decided to increase the price of a local egg by 3 rupees.
+
+Association President Sarath Ratnayake said the cost of local egg production has increased by 8 rupees due to increased tax increases.
+
+Sarath Ratnayake notes that the price of an Indian egg imported due to an increase of taxation has increased by 8 rupees and the price of a local egg has been increased by only 3 rupees.
+
+Accordingly, the total price of a local egg, which is sold for 45 rupees from poultry farm, will be increased to 48 rupees, he said.
+
+◼️
+
+[Data](articles/dce126ae.json)
+
+[Extended Data](ext_articles/dce126ae.ext.json)
+
+---
+
+### Russian plane crashed with 65 people Ukraine warriors - International media
+
+*2024-01-24 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/174714) · `ta`
+
+Pictures that show the plane crash near the village of Yablono have been released on social media.
+
+◼️
+
+[Data](articles/0126e050.json)
+
+[Extended Data](ext_articles/0126e050.ext.json)
 
 ---
 
@@ -194,6 +300,28 @@ Russian plane crashes with 65 Ukrainian prisoners of war on board
 
 [Data](articles/c1559e38.json)
 
+[Extended Data](ext_articles/c1559e38.ext.json)
+
+---
+
+### Those who worked with him about Trump's re -election - BBC
+
+*2024-01-24 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174710) · `ta`
+
+Former President Bilklin's aide said that many people, including former assistants who worked with him, were worried about the danger of Donald Trump's re -election.
+
+I have spoken to many former Trump's former assistants, they are creating organizations to act against Trump, ”Sydney told the BBC.
+
+It is not two or two, but 100 people who have worked with Trump said that Trump is a real danger.
+
+He said this is not known in the polls so far but they will have a huge impact.
+
+◼️
+
+[Data](articles/a4cc5521.json)
+
+[Extended Data](ext_articles/a4cc5521.ext.json)
+
 ---
 
 ### Nihal Thalduwa promoted as DIG
@@ -232,6 +360,8 @@ Russian plane crashes with 65 Ukrainian prisoners of war on board
 
 [Data](articles/1d01893d.json)
 
+[Extended Data](ext_articles/1d01893d.ext.json)
+
 ---
 
 ### Court order in protest
@@ -249,6 +379,28 @@ According to the police request, the injustice has been imposed by the Nugegoda 
 [Data](articles/610dea95.json)
 
 [Extended Data](ext_articles/610dea95.ext.json)
+
+---
+
+### Student's mysterious death;Committee assignment to explore madrasa
+
+*2024-01-24 15:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174704) · `ta`
+
+The Department of Muslim Religious and Cultural Affairs has appointed a five -member committee to investigate the mysterious death of a schoolgirl.
+
+MS in Kattankudy, Batticaloa district on December 5 last year at a building at a building located on the Sainthamaruthu Market Road, Ampara District.. A student named Musa (age 13) was admitted to the Sainthamaruthu Divisional Hospital after being found dead.
+
+Moulavi, the administrator of the Sainthamaruthu police, has been arrested and filed by the Sainthamaruthu police, when the public gathered and prepared to attack the Madarsa's executive.
+
+Following the incident, the committee is currently conducting a rapid inquiry into the Madrasa's complaint on the complaint sent to the Department of Muslim Religious and Cultural Affairs by other parties, including Attorney -at -Law Shafi H. Ismail.
+
+The Committee is conducting an inquiry into the incident and the Committee will issue a full report on the incident.
+
+◼️
+
+[Data](articles/dbdbb33c.json)
+
+[Extended Data](ext_articles/dbdbb33c.ext.json)
 
 ---
 
@@ -380,28 +532,6 @@ The Human Rights Watch (HRW) states that Sri Lanka’s proposed Online Safety Bi
 
 ---
 
-### Student's mysterious death;Committee assignment to explore madrasa
-
-*2024-01-24 15:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174704) · `ta`
-
-The Department of Muslim Religious and Cultural Affairs has appointed a five -member committee to investigate the mysterious death of a schoolgirl.
-
-MS in Kattankudy, Batticaloa district on December 5 last year at a building at a building located on the Sainthamaruthu Market Road, Ampara District.. A student named Musa (age 13) was admitted to the Sainthamaruthu Divisional Hospital after being found dead.
-
-Moulavi, the administrator of the Sainthamaruthu police, has been arrested and filed by the Sainthamaruthu police, when the public gathered and prepared to attack the Madarsa's executive.
-
-Following the incident, the committee is currently conducting a rapid inquiry into the Madrasa's complaint on the complaint sent to the Department of Muslim Religious and Cultural Affairs by other parties, including Attorney -at -Law Shafi H. Ismail.
-
-The Committee is conducting an inquiry into the incident and the Committee will issue a full report on the incident.
-
-◼️
-
-[Data](articles/dbdbb33c.json)
-
-[Extended Data](ext_articles/dbdbb33c.ext.json)
-
----
-
 ### My eldest daughter entered the house and took sides and drinks of food: Maithripala!
 
 *2024-01-24 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174699) · `ta`
@@ -489,6 +619,8 @@ This achievement is particularly a significant milestone in the annals of milita
 ...
 
 [Data](articles/120de450.json)
+
+[Extended Data](ext_articles/120de450.ext.json)
 
 ---
 
@@ -1030,17 +1162,19 @@ The ministry said that the man who had come to commit the crime had been driving
 
 ---
 
-### හැඳුනුම්පත් අංකය ටින් අංකය වෙයි
+### ID Number is Tin Number
 
 *2024-01-24 14:09:13* · [`adalk`](https://www.ada.lk/breaking_news/හැඳුනුම්පත්-අංකය-ටින්-අංකය-වෙයි/11-407708) · `si`
 
-පුද්ගලයෙකුගේ ජාතික හැඳුනුම්පත් අංකය එම පුද්ගලයාගේ බදු අංකය (TIN) ලෙස භාවිත කිරීමට පියවර ගන්නා බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවසීය.
+State Minister Ranjith Siyambalapitiya said that steps will be taken to use the National Identity Card Number (TIN) as the person's tax number (TIN).
 
-මේ හරහා  රාජ්‍ය ආදායම පිළිබඳ පැහැදිලි දත්ත පද්ධතියක්  නිර්මාණය වන බව ද  ඔහු පැවැසීය. අවුරුදු 18 ඉක්මවූ පුද්ගලයින්ගේ ජීව දත්ත තොරතුරු පද්ධතිය උපයෝගී කරගනිමින් මෙම ක්‍රියවලිය සිදුකරන බවද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+He also said that this will create a clear database regarding state income. The procedure is being carried out using the biological information system of persons over 18 years.
 
 ◼️
 
 [Data](articles/b7d6af61.json)
+
+[Extended Data](ext_articles/b7d6af61.ext.json)
 
 ---
 
@@ -1068,19 +1202,25 @@ Simply mocking, contempt of contempt is not torture or mental harassment.
 
 ---
 
-### අධිකරණ ඉතිහාසය අලුත් කළ නඩුවේ විත්තිකරුවන් 07කට මරණ දඩුවම
+### Seven accused sentenced to death for seven court history
 
 *2024-01-24 13:54:14* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඉතිහාසය-අලුත්-කළ-නඩුවේ-විත්තිකරුවන්-07කට-මරණ-දඩුවම/11-407707) · `si`
 
-‘මුහුදු කොල්ලකෑම’ සම්බන්ධයෙන් අධිකරණ ඉතිහාසයේ පවරා ඇති ප්‍රථම නඩුවේ විත්තිකරුවන් 07 දෙනෙකුට මරණ දඬුවම් නියම කළ කොළඹ මහාධිකරණ විිනිසුරු ආදිත්‍ය පටබැඳිගේ මහතා විත්තිකාරිය සියළු චෝදනා වලින් අද (24) නිදොස් කොට නිදහස් කළේය.
+Colombo High Court Winitanti, who was sentenced to death in court, was sentenced to acquitted of all accused from all allegations today (24).
 
-වසර 11කට පෙර ගාල්ල ප්‍රදේශයේ ගැඹුරු මුහුදේදී ධීවරයින් තිදෙනෙකු මරා තවත් ධීවරයින් දෙදෙනෙකු කපා කොටා මහමුහුදට දමා බහුදින ධීවර යාත්‍රාව කොල්ලකෑමේ චෝදකාවන්ට වරදතරුවන් වු ධීවරයින්ට මෙලෙස මරණ දඬුවම් නියම කළ විනිරුවරයා විත්තිකරුවන් වරදකරුවන් වු සෙසු චෝදනා 06ට බරපතළ වැඩ සහිත වසර 29ක සිරදඬුවම්ද රුපියල් මිලියන 2ක බැගින් වූ දඩද ගෙවීමට ද නියම කළේය.
+The vicinity of the accused of murder of two fishermen at the deep sea of Galle and two other fishermen were sentenced to six million fishermen sentenced to Rs. 2 millionAlso fixed.
 
-චෝදනාවන්ට වරදකරුවන් වීම නිසා මෙලෙස දඩුවම් නියම වුයේ නුවන් ලක්මාල්, දිනුෂ්ක ප්‍රියශාන්ත, සම්පත් කුමාර , පී. එච්. දයානන්ද, කේ. නිහාල් නිශාන්ත, කේ. අජිත් කුමාර , කේ. රංජිත් නිශාන්ත  නමැත්තන්ටය.
+Nonw Lakmal, Dayuska Priyashal, Sampath Kumara, P. H. Dayananda, K. Nihal Nishantha, K. Ajith Kumara, K. Ranjith Nishantha is for the people.
+
+The judge declared the case without the death of the accusation of Telsek Chhihuri, who was named the 10th accused in the case while the 10th defendant named Telsey Kumaran, who was named the 10th defendant named Telseh Queen.Released.
+
+Tangalle on the 15th of October 15, 2012, Tangalle was conspired to takecure the Thajan's multi-dimensional water in the near future.The Attorney General has been accused of being accused of killing.
 
 ...
 
 [Data](articles/b46b9850.json)
+
+[Extended Data](ext_articles/b46b9850.ext.json)
 
 ---
 
@@ -1907,135 +2047,5 @@ Accordingly, Rs. 250,000 is offered to tip-offs about automatic firearms such as
 [Data](articles/cb836544.json)
 
 [Extended Data](ext_articles/cb836544.ext.json)
-
----
-
-### Sri Lanka central bank equity positive by end 2023, no need for govt capital yet: Governor
-
-*2024-01-24 11:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-equity-positive-by-end-2023-no-need-for-govt-capital-yet-governor-148503/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank had positive equity in its balance sheet by end December and the central bank does not need a government capital injection, after losses made in debt restructuring, Central Bank Governor Nandalal Weerasinghe said.
-
-The International Monetary Fund has asked the central bank to be recapitalized if its capital is negative by 2025, he said.
-
-“If you look at end December balance sheet, we still maintain positive equity,” Governor Weerasinghe said.
-
-“So I think there is no need for us to seek recapitalization at this point.”
-
-Due to converting Treasury bills to bonds, the lower yielding bonds led to a large capital loss at current yields immediately.
-
-The central bank, while losing money on central bank dollar swaps and dollar borrowings, makes cashflow profits on its Treasuries portfolio coupons, though at a lower rate than before restructuring. Foreign assets also bring profits.
-
-...
-
-[Data](articles/43e10060.json)
-
-[Extended Data](ext_articles/43e10060.ext.json)
-
----
-
-### Sri Lanka central bank does not need govt capital yet: Governor
-
-*2024-01-24 11:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-does-not-need-govt-capital-yet-governor-148503/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s central bank had positive equity in its balance sheet by end December and the central bank does not need a government capital injection, after losses made in debt restructuring, Central Bank Governor Nandalal Weerasinghe said.
-
-The International Monetary Fund has asked the central bank to be recapitalized if its capital is negative by 2025, he said.
-
-“If you look at end December balance sheet, we still maintain positive equity,” Governor Weerasinghe said.
-
-“So I think there is no need for us to seek recapitalization at this point.”
-
-Due to converting Treasury bills to bonds, the lower yielding bonds led to a large capital loss at current yields immediately.
-
-RELATED IMF urges recapitalization after Sri Lanka DDR busts central bank finances
-
-The central bank, while losing money on central bank dollar swaps and dollar borrowings, makes cashflow profits on its Treasuries portfolio coupons, though at a lower rate than before restructuring. Foreign assets also bring profits.
-
-...
-
-[Data](articles/60a6ed98.json)
-
-[Extended Data](ext_articles/60a6ed98.ext.json)
-
----
-
-### Colombo High Court in Colombo
-
-*2024-01-24 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174667) · `ta`
-
-Colombo High Court has sentenced seven fishermen to death for kidnapping a fishing boat and killing three fishermen. The incident took place in 2012.
-
-When the case was taken up at the Colombo High Court on Wednesday (24), Judge Aditya Patabandi sentenced the culprits to death.
-
-The High Court judge has ordered the release of the person who was referred to as the 10th defendant of the case.
-
-He was sentenced to 29 years in prison for the defendants for six other charges in addition to the three charges of the death penalty.
-
-◼️
-
-[Data](articles/4ff1ef55.json)
-
-[Extended Data](ext_articles/4ff1ef55.ext.json)
-
----
-
-### Sri Lanka rupee opens at 319.15/30 to the US dollar
-
-*2024-01-24 10:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-319-15-30-to-the-us-dollar-148499/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee was quoted at 319.15/30 to the US dollar on Wednesday late morning trade, while bond yields were lower, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 13.15/25 percent from 13.30/40 percent.
-
-A bond maturing on 01.05.2027 was quoted at 13.45/55 percent.
-
-A bond maturing on 15.03.2028 was quoted at 13.70/80 percent from 13.85/95 percent.
-
-◼️
-
-[Data](articles/5ab1b475.json)
-
-[Extended Data](ext_articles/5ab1b475.ext.json)
-
----
-
-### Trump takes decisive step towards Republican Party nomination for president
-
-*2024-01-24 10:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/trump-takes-decisive-step-towards-republican-party-nomination-for-president/) · `en`
-
-Colombo (News 1st) – Former President Donald Trump took a firm step towards securing the Republican Party nomination for the U.S. presidential election scheduled for November 2024, with a resounding victory in the party primary in the state of New Hampshire, US media reported on Wednesday (24th).
-
-With 70% of votes now counted, the former president is up 54.4% to former South Carolina Governor Nikki Haley's 43.6%.
-
-Ms. Haley conceded defeat in New Hampshire, but vowed to continue her campaign.
-
-The two major parties – Republican and Democratic – hold an election in each state at which the respective party members get to vote for their choice for party nominees. The popular nominees become clear as soon as a handful of the 50 states conduct these elections, which are known as caucuses or primaries. New Hampshire was the second such contest.
-
-...
-
-[Data](articles/c958201a.json)
-
-[Extended Data](ext_articles/c958201a.ext.json)
-
----
-
-### Wild elephant attacked in banana
-
-*2024-01-24 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174664) · `ta`
-
-A businessman has died after a wild elephant attacked near Sevanapitiya, Welikanda, Valaichenai.
-
-The incident took place when the man went to business on Wednesday (24), Manampitiya police said.
-
-The deceased is Murukesu Muniyandi, the father of six -year -old children from Vinayagapuram and the area, said Manampitiya police.
-
-Investigations have said that he was killed when he was on his way to the Sevanapitiya market to sell goods with his family and was admitted to the Manampitiya Hospital in Manampitiya.
-
-◼️
-
-[Data](articles/b97bc3fb.json)
-
-[Extended Data](ext_articles/b97bc3fb.ext.json)
 
 ---

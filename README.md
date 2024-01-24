@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 13:52:01**
+As of **2024-01-24 14:03:35**
 
 ## Newspaper Stats
 
-*Scraped **2,299** Articles*
+*Scraped **2,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ adaderanasinhalalk | 164
 dailyftlk | 181
 adalk | 229
 virakesarilk | 254
-tamilmirrorlk | 286
-adaderanalk | 287
+adaderanalk | 288
+tamilmirrorlk | 289
 dailymirrorlk | 298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,294 (99.8%) of 2,299 articles have been extended.
+2,303 (100.0%) of 2,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Suspect arrested over mass shooting in Beliatta
+
+*2024-01-24 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96690/suspect-arrested-over-mass-shooting-in-beliatta-) · `en`
+
+A suspect has been arrested over his complicity in the killing of five persons in Beliatta.
+
+The arrest was made in Matara today, according to the police.
+
+The arrestee was reportedly the driver of the vehicle used by the assailants and is also suspected to have orchestrated the mass shooting which took place on Tuesday (Jan.23).
+
+◼️
+
+[Data](articles/c0cfabf6.json)
+
+[Extended Data](ext_articles/c0cfabf6.ext.json)
+
+---
+
+### Appointment to 5,500 teachers
+
+*2024-01-24 13:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/5-500-ஆசிரியர்களுக்கு-நியமனம்/175-332053) · `ta`
+
+Education Minister Susil Premjayantha said that the gazette for incorporating 5,500 new teachers has been published.
+
+The Minister made this statement while responding to a question raised by opposition leader Sajith Premadasa.
+
+New teacher appointments are to be made for physics, biology, mathematics, chemistry, technology and special languages.
+
+◼️
+
+[Data](articles/cd3e16c7.json)
+
+[Extended Data](ext_articles/cd3e16c7.ext.json)
+
+---
+
+### 2025 Examinations
+
+*2024-01-24 13:09:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2025-ஆம்-ஆண்டு-பரீட்சைகள்-வழமைக்கு/175-332052) · `ta`
+
+Education Minister Susil Premjayantha has said that since 2025, arrangements have been made to conduct the exams in a timely manner.
+
+The Minister also stated that after the GCE Advanced Level Examination was completed on the 1st of February, arrangements are being made to evaluate the answer sheets.
+
+At the same time, he pointed out that the teachers who evaluate the Answer Personnels have submitted a Cabinet paper on allowance.
+
+◼️
+
+[Data](articles/2614ff97.json)
+
+[Extended Data](ext_articles/2614ff97.ext.json)
+
+---
 
 ### Protest near the Parliament against the Online Safety Bill
 
@@ -52,23 +106,29 @@ Trump takes decisive step towards Republican Party nomination for president
 
 [Data](articles/cb3ce31c.json)
 
+[Extended Data](ext_articles/cb3ce31c.ext.json)
+
 ---
 
-### වන සංරක්ෂණ දෙපාර්තමේන්තුව යටතේ ඇති ඉඩම් යළි කෘෂිකර්මාන්තයට
+### Lands under the Forest Department
 
 *2024-01-24 12:40:00* · [`adalk`](https://www.ada.lk/breaking_news/වන-සංරක්ෂණ-දෙපාර්තමේන්තුව-යටතේ-ඇති-ඉඩම්-යළි-කෘෂිකර්මාන්තයට/11-407703) · `si`
 
-වන සංරක්ෂණ අමාත්‍යාංශය යටතේ ඇති ඉඩම් යළි කෘෂිකර්මාන්තයට සහ සංචාරක ව්‍යාපාරය සඳහා මුදා හැරීම සදහා වන සාකච්ඡා මේ වන විට ආරම්භ කර තිබෙන බව ග්‍රාමීය ආර්ථික රාජ්‍ය අමාත්‍ය කේ. කාදර් මස්තාන් මහතා පැවසීය.
+State Minister of Rural Economic State Minister Kariya Economic State Minister. Said Kader Masathan said.
 
-මන්නාරම සහ වව්නියාව යන දිස්ත්‍රික්කවල කෘෂිකාර්මික අංශය දියුණු කිරීම සඳහා මේ වන විටත් වැව් 61ක ප්‍රතිසංස්කරණ කටයුතු ආරම්භ කර තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා පෙන්වා දුන්නේය.
+The State Minister pointed out that 61 tanks have already begun to develop the agriculture sector in Mannar and Vavuniya districts.
 
-ග්‍රාමීය ආර්ථික රාජ්‍ය අමාත්‍ය කේ. කාදර් මස්තාන් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+State Minister of Rural Economic. Mr. Kader Masathan made this statement participating at a press conference held by the President's Media Center by a press conference.
 
-"සැබවින්ම අප හිතුවේ මේ රටේ ආර්ථිකය යළි ගොඩනැගීමට බොහෝ කාලයක් ගතවනු ඇති බවයි. නමුත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැටී තිබූ ආර්ථිකය ඉතා ඉක්මනින් යළි ස්ථාවර මට්ටමකට ගෙන ආවා. ඒ පිළිබදව ජනාධිපතිවරයාට ස්තුතිවන්ත විය යුතුයි.
+"Of course we thought that the economy of this country would take a long time. However, President Ranil Wickremesinghe brought the economy soon. Thank you for that.
+
+Also, funds have been made to implement a number of projects to uplift the rural economy in the Northern, Eastern and Central provinces.. Last year launched a number of livelihood improvement programs through the Ministry of Rural Economy. Providing goats such as providing goats, providing essential seeds for green cultivation.
 
 ...
 
 [Data](articles/54023e9a.json)
+
+[Extended Data](ext_articles/54023e9a.ext.json)
 
 ---
 
@@ -154,6 +214,8 @@ Police say that they have decided to give a reward of 50,000 rupees to anyone wh
 
 [Data](articles/5e17e44b.json)
 
+[Extended Data](ext_articles/5e17e44b.ext.json)
+
 ---
 
 ### More than 300 kg of cannabis burned by the Vavuniya High Court
@@ -191,6 +253,8 @@ Trump takes decisive step towards Republican Party nomination for president
 ◼️
 
 [Data](articles/441e3d30.json)
+
+[Extended Data](ext_articles/441e3d30.ext.json)
 
 ---
 
@@ -250,11 +314,7 @@ The court order instructs Gunasekara and the group to refrain from blocking any 
 
 Trump takes decisive step towards Republican Party nomination for president
 
-Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
-
-Death sentence for 7, for 3 murders on illegal boat to Australia
-
-...
+◼️
 
 [Data](articles/d726523f.json)
 
@@ -277,6 +337,30 @@ Amid those developments both indices moved downwards. The All- Share Price Index
 [Data](articles/46a01257.json)
 
 [Extended Data](ext_articles/46a01257.ext.json)
+
+---
+
+### 7 Fishermen death sentence
+
+*2024-01-24 12:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/7-மீனவர்களுக்கு-மரண-தண்டனை/175-332051) · `ta`
+
+Seven fishermen have been sentenced to death for allegedly killing three fishermen in 2012.
+
+The case was taken up by the Colombo High Court when the case was taken up for hearing this morning.
+
+In addition, the accused have been sentenced to 29 years in prison.
+
+After a long hearing, the judge announced the verdict, saying that the allegations leveled against the accused were undoubtedly proved.
+
+The then Attorney General had filed a case against 11 people in connection with the incident.
+
+It is noteworthy that three of them have died, and the case is being carried out against 8 defendants.
+
+◼️
+
+[Data](articles/8334f5fb.json)
+
+[Extended Data](ext_articles/8334f5fb.ext.json)
 
 ---
 
@@ -432,23 +516,25 @@ He pointed out that the fundamental rights, including independence and freedom o
 
 ---
 
-### කුඩා දරුවන්ගෙන් සියයට 91කට සරම්ප එන්නත ලබාදී අවසන්
+### 91 percent of young children has been given to Smap Vaccine
 
 *2024-01-24 11:32:47* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-දරුවන්ගෙන්-සියයට-91කට-සරම්ප-එන්නත-ලබාදී-අවසන්/11-407702) · `si`
 
-මෙරට කුඩා දරුවන්ගෙන් 91%කට සරම්ප එන්නත මේ වන විට ලබාදී අවසන් කර ඇති බව කර්මාන්ත හා සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පැවසීය.
+Industry and Health Minister Dr. Ramesh Pathiran said that 91% of children in Sri Lanka have been completed.
 
-මෙරටින් සරම්ප රෝගය තුරන් කර තිබූ නමුත් පසුගිය සමයේ එම රෝගය යළි හිස ඔසවන තත්ත්වයක් පෙන්නුම් කළ බැවින් මේ ආකාරයේ එන්නත් වැඩසටහනක් ආරම්භ කළ බවද අමාත්‍යවරයා පෙන්වා දුන්නේය.
+The Minister pointed out that the disease was eradicated in Sri Lanka, but the disease was initiated, the vaccine program has been launched.
 
-කර්මාන්ත හා සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of Industry and Health Dr. Ramesh Pathirana made this statement participating at a press conference at the press conference at the Presidential Media Center.
 
-එහිදී වැඩිදුරටත් අදහස් දැක් වූ කර්මාන්ත හා සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා මෙසේ ද පැවසීය,
+Speaking further Industries and Health Minister Ramesh Pathirana said:
 
-"මෙම වසරේ ප්‍රධානම බලාපොරොත්තුව වන්නේ රෝග වළක්වා ගැනීම සම්බන්ධයෙන් වන කටයුතු ශක්තිමත් කිරීමයි. ප්‍රාථමික සෞඛ්‍ය සේවාවන් වැඩිදියුණු කිරීම තුළින් රෝගීන්ට වඩාත් කාර්යක්ෂම සේවාවක් ලබාදීමට බලාපොරොත්තු වෙනවා. ඒ වෙනුවෙන් අවශ්‍ය ප්‍රතිපාදන කඩිනමින් ලබාදීමට ද බලාපොරොත්තු ‍වෙනවා.
+"The main hope of this year is to strengthen the work of preventing disease. Improvement of primary health services is expected to provide more efficient service to patients. It is also expected to provide the necessary allocations for this purpose.
 
 ...
 
 [Data](articles/c0d4282a.json)
+
+[Extended Data](ext_articles/c0d4282a.ext.json)
 
 ---
 
@@ -752,12 +838,6 @@ Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe |
 
 Trump takes decisive step towards Republican Party nomination for president
 
-Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
-
-Death sentence for 7, for 3 murders on illegal boat to Australia
-
-Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
-
 ◼️
 
 [Data](articles/2d6792b2.json)
@@ -777,12 +857,6 @@ The group had boarded a trawler in Tangalle. But a fight had broken out on board
 Three had drowned, while others were rescued by nearby fishing boats which informed the Sri Lanka Navy.
 
 Trump takes decisive step towards Republican Party nomination for president
-
-Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
-
-Death sentence for 7, for 3 murders on illegal boat to Australia
-
-Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
 
 ◼️
 
@@ -1031,12 +1105,6 @@ The services of 66 employees who engaged in protests against the restructuring o
 Convenor of the United Trade Union Front of the C.E.B Ranjan Jayalal says that strict measures will be taken against the repression of employees.
 
 Trump takes decisive step towards Republican Party nomination for president
-
-Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
-
-Death sentence for 7, for 3 murders on illegal boat to Australia
-
-Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
 
 ◼️
 
@@ -1943,91 +2011,5 @@ However, we have no publicly available information on how significant the issue 
 [Data](articles/7b8ee683.json)
 
 [Extended Data](ext_articles/7b8ee683.ext.json)
-
----
-
-### Sagala says SL economy has gained international confidence thanks to President
-
-*2024-01-24 05:18:42* · [`dailyftlk`](https://www.ft.lk/news/Sagala-says-SL-economy-has-gained-international-confidence-thanks-to-President/56-757703) · `en`
-
-National Security Senior Adviser and Chief of Staff Sagala Ratnayake yesterday declared President Ranil Wickremesinghe’s effective economic initiatives have fostered trust in the Sri Lankan economy on the global stage.
-
-He highlighted the President’s commitment to a new economic vision aimed at stabilising the country’s economy through comprehensive reforms in the financial, legal and governance sectors.
-
-Speaking at the ‘Budget 2024’ conference, organised by the President’s trade union relations division, Ratnayaka outlined the plans to position Sri Lanka as a hub for energy exports. This strategic move aligns with the President’s broader efforts to enhance the nation’s economic standing and international reputation.
-
-...
-
-[Data](articles/d26f8e93.json)
-
-[Extended Data](ext_articles/d26f8e93.ext.json)
-
----
-
-### Global fund management firm TIW Capital CEO visits BOI
-
-*2024-01-24 04:47:05* · [`dailyftlk`](https://www.ft.lk/business/Global-fund-management-firm-TIW-Capital-CEO-visits-BOI/34-757692) · `en`
-
-Singapore headquartered TIW Capital Group (TCG) Group CEO and Managing Partner Mohit Ralhan this week visited the Board of Investment and met with Chairman Dinesh Weerakkody and officials to discuss opportunities to set up a subsidiary in Sri Lanka.
-
-TCG is a global asset management company, and has offices in eight locations, Singapore, Malaysia, Mongolia, India, Bahrain, UAE, Oman and Mauritius and has an investor spread across 29 countries. TCG currently has SGD 1 billion assets under management.
-
-Ralhan is an industry veteran and a regular speaker and moderator in various industry forums across the region.
-
-◼️
-
-[Data](articles/c7f00eb2.json)
-
-[Extended Data](ext_articles/c7f00eb2.ext.json)
-
----
-
-### Ceylon Energy secures SEZ licence from Kenyan President
-
-*2024-01-24 04:46:02* · [`dailyftlk`](https://www.ft.lk/business/Ceylon-Energy-secures-SEZ-licence-from-Kenyan-President/34-757691) · `en`
-
-Ceylon Energy Founder/Chairman Madusanka Fernando receiving the SEZ Enterprise Licence from Kenyan President Dr. William Ruto
-
-Ceylon Energy, a company with a history of excellence in power transmission projects, has been issued a Special Economic Zone (SEZ) Enterprise licence by Kenyan President Dr. William Ruto to commence operations at the Naivasha SEZ.
-
-The licence was handed over to Ceylon Energy Founder/Chairman Madusanka Fernando by President Ruto in Nairobi, Kenya on 13 January.
-
-Upon receiving the licence, Fernando assured the Kenyan President that Ceylon Energy would be investing heavily in the Naivasha SEZ.
-
-The company is scheduled to invest over (Kenyan Shilling) KSh. 1.1 billion on five acres of land in the initial phase with 374 jobs expected to be created at the end of the entire project. The proposed investment is for the projects in galvanisation, helical anchors, smart meters, tower manufacturing and steel fabrication plants.
-
-...
-
-[Data](articles/29c31ef6.json)
-
-[Extended Data](ext_articles/29c31ef6.ext.json)
-
----
-
-### OSB debate goes ahead despite claims of illegality and public protests
-
-*2024-01-24 04:39:42* · [`dailyftlk`](https://www.ft.lk/news/OSB-debate-goes-ahead-despite-claims-of-illegality-and-public-protests/56-757690) · `en`
-
-Opposition MPs reject alleged report by Sectoral Oversight Committee on bill
-
-Says going ahead with debate sans an actual report is in violation of Standing Orders and is therefore illegal
-
-MP M.A. Sumanthiran says Govt. MPs who voted to go ahead with debate under such a circumstance lack literacy
-
-Accuses Govt. of using its false majority to bulldoze through a draconian legislation when it can be amended and passed in consensus with opposition
-
-Public Security Minister Tiran Alles maintains bill is being implemented to safeguard women and children
-
-Claims intention is not to victimise anyone including media and political opponents
-
-SJB MP Eran Wickramaratne contradicts Alles’s assertion that social media companies were ready to endorse the bill
-
-Opposition MP Rauff Hakeem says bill represents a Govt. endeavour to dismantle remaining safeguards for freedom of expression in SL
-
-...
-
-[Data](articles/f9cfb515.json)
-
-[Extended Data](ext_articles/f9cfb515.ext.json)
 
 ---

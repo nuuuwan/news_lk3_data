@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 13:33:07**
+As of **2024-01-24 13:52:01**
 
 ## Newspaper Stats
 
-*Scraped **2,294** Articles*
+*Scraped **2,299** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 33
 bbccomsinhala | 45
 dbsjeyarajcom | 122
-newsfirstlk | 129
+newsfirstlk | 132
 islandlk | 133
 economynextcom | 135
 adaderanasinhalalk | 164
 dailyftlk | 181
-adalk | 227
+adalk | 229
 virakesarilk | 254
 tamilmirrorlk | 286
 adaderanalk | 287
@@ -26,11 +26,51 @@ dailymirrorlk | 298
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,292 (99.9%) of 2,294 articles have been extended.
+2,294 (99.8%) of 2,299 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Protest near the Parliament against the Online Safety Bill
+
+*2024-01-24 12:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/protest-near-the-parliament-against-the-online-safety-bill/) · `en`
+
+COLOMBO (News 1st) – The debate on the draft Online Safety Bill is currently being held in Parliament for the second day today.
+
+Meanwhile, a protest was held today at Polduwa Junction near the Parliament
+
+It was conducted amidst a court order being issued preventing protesting at that location.
+
+Members of several civil organizations, including the Socialist Youth Association, joined the protest
+
+When the protest was about to start, the police informed the protestors of the court order, but they did not accept it and continued the protest.
+
+Trump takes decisive step towards Republican Party nomination for president
+
+◼️
+
+[Data](articles/cb3ce31c.json)
+
+---
+
+### වන සංරක්ෂණ දෙපාර්තමේන්තුව යටතේ ඇති ඉඩම් යළි කෘෂිකර්මාන්තයට
+
+*2024-01-24 12:40:00* · [`adalk`](https://www.ada.lk/breaking_news/වන-සංරක්ෂණ-දෙපාර්තමේන්තුව-යටතේ-ඇති-ඉඩම්-යළි-කෘෂිකර්මාන්තයට/11-407703) · `si`
+
+වන සංරක්ෂණ අමාත්‍යාංශය යටතේ ඇති ඉඩම් යළි කෘෂිකර්මාන්තයට සහ සංචාරක ව්‍යාපාරය සඳහා මුදා හැරීම සදහා වන සාකච්ඡා මේ වන විට ආරම්භ කර තිබෙන බව ග්‍රාමීය ආර්ථික රාජ්‍ය අමාත්‍ය කේ. කාදර් මස්තාන් මහතා පැවසීය.
+
+මන්නාරම සහ වව්නියාව යන දිස්ත්‍රික්කවල කෘෂිකාර්මික අංශය දියුණු කිරීම සඳහා මේ වන විටත් වැව් 61ක ප්‍රතිසංස්කරණ කටයුතු ආරම්භ කර තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා පෙන්වා දුන්නේය.
+
+ග්‍රාමීය ආර්ථික රාජ්‍ය අමාත්‍ය කේ. කාදර් මස්තාන් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+"සැබවින්ම අප හිතුවේ මේ රටේ ආර්ථිකය යළි ගොඩනැගීමට බොහෝ කාලයක් ගතවනු ඇති බවයි. නමුත් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා වැටී තිබූ ආර්ථිකය ඉතා ඉක්මනින් යළි ස්ථාවර මට්ටමකට ගෙන ආවා. ඒ පිළිබදව ජනාධිපතිවරයාට ස්තුතිවන්ත විය යුතුයි.
+
+...
+
+[Data](articles/54023e9a.json)
+
+---
 
 ### National school exams will return to usual schedules by 2025 - Minster
 
@@ -45,6 +85,8 @@ Meanwhile, commenting on the allowances granted to teachers and university lectu
 ◼️
 
 [Data](articles/c5e70aec.json)
+
+[Extended Data](ext_articles/c5e70aec.ext.json)
 
 ---
 
@@ -92,19 +134,63 @@ According to police, the saffron-robbed monk had allegedly issued statements dem
 
 ---
 
-### வவுனியா மேல் நீதிமன்றத்தினால் 300 கிலோவிற்கு மேற்பட்ட கஞ்சா எரித்து அழிப்பு
+### Cash rewards for information on illegal firearms
+
+*2024-01-24 12:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/cash-rewards-for-information-on-illegal-firearms/) · `en`
+
+COLOMBO (News 1st) – The police have decided to give cash rewards to people who provide information about illegal firearms and bombs.
+
+The police say that the Acting Inspector General of Police Deshabandu Tennakoon has issued instructions to all senior DIGs, DIGs, Divisional Officers, and Directors in this regard.
+
+Police say that they will protect the confidentiality of the people who provide such information
+
+A reward of 250,000 rupees will be given to those who provide information about automatic firearms including T-56, AK-47, and semi-automatic weapons including pistols.
+
+The reward given to a person who gives information about revolver-type firearms is 150,000 rupees.
+
+Police say that they have decided to give a reward of 50,000 rupees to anyone who gives information about a repeater-type firearm and a reward of 15,000 rupees for a foreign-made ammunition gun.
+
+...
+
+[Data](articles/5e17e44b.json)
+
+---
+
+### More than 300 kg of cannabis burned by the Vavuniya High Court
 
 *2024-01-24 12:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/174675) · `ta`
 
-வவுனியா மேல் நீதிமன்ற நீதிபதி மாணிக்கவாசகர் இளஞ்செழியன் அவர்களின் மேற்பார்வையின் கீழ் புதன்கிழமை (24) காலை 300 கிலோவிற்கு மேற்பட்ட கஞ்சா எரிக்கபட்டது.
+More than 300 kg of cannabis was burned on Wednesday (24) under the supervision of the Vavuniya High Court Judge Manikavasakar Ilancheliyan.
 
-கடந்த வருடம் (2023) வவுனியா மேல் நீதிமன்றத்தில் வழக்குகளில் ஒப்படைக்கப்பட்ட 300 கிலோவிற்கு மேற்பட்ட கஞ்சா வவுனியா ஏ9 வீதி சாந்தசோலை பகுதியில் வவுனியா மேல் நீதிமன்ற நீதிபதி மாணிக்கவாசகர் இளஞ்செழியன் அவர்களின் மேற்பார்வையின் கீழ் நீதிமன்ற உத்தியோகத்தர்கள், நீதிமன்ற பொலிஸாரின் ஒத்துழைப்புடன் எரிக்கப்பட்டது.
+Last year (2023), the Vavuniya High Court was handed over to the Vavuniya High Court under the supervision of the Vavuniya High Court Judge Ilangazhayan Ilangazhiyan area in the Vavuniya A9 road in the Vavuniya A9 road.
 
-சுகாதார நிலமைகளை கருத்தில் கொண்டு மக்கள் நடமாட்டம் மற்றும் அருகே வீடுகள் அற்ற பகுதியில் சுகாதார நடைமுறைகளை பின்பற்றி கஞ்சா எரிக்கப்பட்டமை குறிப்பிடத்தக்கது.
+Considering the health conditions, people's move and the burning of cannabis in the area where there is no health procedures.
 
 ◼️
 
 [Data](articles/44abdc2d.json)
+
+[Extended Data](ext_articles/44abdc2d.ext.json)
+
+---
+
+### Operation Yukthiya nets another 930 suspects in 24 hours
+
+*2024-01-24 12:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/operation-yukthiya-nets-another-930-suspects-in-24-hours/) · `en`
+
+COLOMBO (News 1st) – 930 suspects have been apprehended in the past 24 hours under Operation Yukthiya.
+
+The Ministry of Public Security says that among them are 664 suspects involved in drug offenses.
+
+266 suspects on the list of wanted persons prepared by the Police Narcotics Bureau and Special Bureau have also been apprehended.
+
+Police say 425 grams of heroin, and 6 Kilograms of cannabis alongside a stock of other drugs were seized during the operation.
+
+Trump takes decisive step towards Republican Party nomination for president
+
+◼️
+
+[Data](articles/441e3d30.json)
 
 ---
 
@@ -343,6 +429,26 @@ He pointed out that the fundamental rights, including independence and freedom o
 [Data](articles/3026d19a.json)
 
 [Extended Data](ext_articles/3026d19a.ext.json)
+
+---
+
+### කුඩා දරුවන්ගෙන් සියයට 91කට සරම්ප එන්නත ලබාදී අවසන්
+
+*2024-01-24 11:32:47* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-දරුවන්ගෙන්-සියයට-91කට-සරම්ප-එන්නත-ලබාදී-අවසන්/11-407702) · `si`
+
+මෙරට කුඩා දරුවන්ගෙන් 91%කට සරම්ප එන්නත මේ වන විට ලබාදී අවසන් කර ඇති බව කර්මාන්ත හා සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා පැවසීය.
+
+මෙරටින් සරම්ප රෝගය තුරන් කර තිබූ නමුත් පසුගිය සමයේ එම රෝගය යළි හිස ඔසවන තත්ත්වයක් පෙන්නුම් කළ බැවින් මේ ආකාරයේ එන්නත් වැඩසටහනක් ආරම්භ කළ බවද අමාත්‍යවරයා පෙන්වා දුන්නේය.
+
+කර්මාන්ත හා සෞඛ්‍ය අමාත්‍ය වෛද්‍ය රමේෂ් පතිරණ මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක් වූ කර්මාන්ත හා සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා මෙසේ ද පැවසීය,
+
+"මෙම වසරේ ප්‍රධානම බලාපොරොත්තුව වන්නේ රෝග වළක්වා ගැනීම සම්බන්ධයෙන් වන කටයුතු ශක්තිමත් කිරීමයි. ප්‍රාථමික සෞඛ්‍ය සේවාවන් වැඩිදියුණු කිරීම තුළින් රෝගීන්ට වඩාත් කාර්යක්ෂම සේවාවක් ලබාදීමට බලාපොරොත්තු වෙනවා. ඒ වෙනුවෙන් අවශ්‍ය ප්‍රතිපාදන කඩිනමින් ලබාදීමට ද බලාපොරොත්තු ‍වෙනවා.
+
+...
+
+[Data](articles/c0d4282a.json)
 
 ---
 
@@ -1923,89 +2029,5 @@ Opposition MP Rauff Hakeem says bill represents a Govt. endeavour to dismantle r
 [Data](articles/f9cfb515.json)
 
 [Extended Data](ext_articles/f9cfb515.ext.json)
-
----
-
-### SC grants leave to proceed with another FR against Deshabandu
-
-*2024-01-24 04:36:59* · [`dailyftlk`](https://www.ft.lk/news/SC-grants-leave-to-proceed-with-another-FR-against-Deshabandu/56-757689) · `en`
-
-The Supreme Court yesterday granted leave to proceed with yet another Fundamental Rights petition filed against Acting Inspector General of Police Deshabandu Tennekoon and several other Police officers by a petitioner alleging their involvement in the torture and degrading treatment inflicted upon him during an incident in August 2022.
-
-The petitioner, identified as 27-year-old Attorney-at-law Mohmed Nibras Nazeer, a resident of Gothatuwa has claimed that he had witnessed the first respondent, a Police sergeant attached to the Wellampitiya Police station assaulting two youths identified as Mohamed Azli Rifai and Mohamed Sajid Nazeer. He said he had intervened in the incident and requested the officer to refrain from assaulting the youths.
-
-...
-
-[Data](articles/b4592795.json)
-
-[Extended Data](ext_articles/b4592795.ext.json)
-
----
-
-### NMSJ submits electoral reform proposals to Presidential Commission
-
-*2024-01-24 04:36:38* · [`dailyftlk`](https://www.ft.lk/news/NMSJ-submits-electoral-reform-proposals-to-Presidential-Commission/56-757688) · `en`
-
-The National Movement for Social Justice (NMSJ) submitted its proposals on the reforms which are required to be made to the country’s electoral system to the relevant Presidential Commission.
-
-Making the relevant submissions, the NMSJ verbally informed the Commission about the reforms that should be made in relation to Local Government (LG), Provincial Councils, Parliamentary and Presidential Elections, based on the written proposals which have been submitted previously. A detailed presentation was made on the changes to be made in relation to youth and women representation, LG structures, limitation of election expenses, new proposals for the preferential system, election laws, proposals regarding the selection units of public representatives and the proposal regarding the electronic voting system.
-
-...
-
-[Data](articles/d4123b9f.json)
-
-[Extended Data](ext_articles/d4123b9f.ext.json)
-
----
-
-### Sri Lanka observed to be putting a lot of effort to go fully digital: Indian tech expert
-
-*2024-01-24 04:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-observed-to-be-putting-a-lot-of-effort-to-go-fully-digital-Indian-tech-expert/108-275612) · `en`
-
-While different countries in the Asian region are at different levels when it comes to digital transformation,  Sri Lanka is observed to be putting in “tremendous” efforts in this regard, which will pave the way for the island nation to reach its aspirations, a top executive of an India-based global technology company said.
-
-Noting there is good traction locally, Gibu Mathew, Vice President and General Manager for Asia Pacific of Zoho Corporation told Mirror Business that the island nation is on track in this regard.
-
-“Digital transformation is a very big, lengthy process and we observe a lot of interest shown by various stakeholders for it in Sri Lanka. Many government services are going digital gradually,
-
-and businesses will see more value as a result and that will drive the transformation efforts of ordinary businesses too,” Mathew added.
-
-...
-
-[Data](articles/4390830e.json)
-
-[Extended Data](ext_articles/4390830e.ext.json)
-
----
-
-### Instruction to implement transfers
-
-*2024-01-24 03:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடமாற்றங்களை-செயற்படுத்துமாறு-அறிவுறுத்தல்/175-332043) · `ta`
-
-The Public Service Commission has been instructed to the Secretaries and Departments of all Ministries to immediately implement the transfers issued for 2024.
-
-◼️
-
-[Data](articles/c3b46fbd.json)
-
-[Extended Data](ext_articles/c3b46fbd.ext.json)
-
----
-
-### On February 23, 24
-
-*2024-01-24 03:29:34* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெப்ரவரி-23-24-இல்-கச்சதீவு-அந்தோனியார்-திருவிழா/175-332042) · `ta`
-
-The annual festival of St. Anthony's Temple in Kachchativu will be held on the 23rd and 24th of February.
-
-A meeting of the annual festival was held yesterday at the District Secretariat chaired by the Jaffna District Government Agent.
-
-Jaffna at the meeting. Indian Embassy Officers, Neduntivu Divisional Secretary, Neduntivu Partner. The Diocese Guru Chief Minister, Marines and many others were present.
-
-◼️
-
-[Data](articles/c4807e4e.json)
-
-[Extended Data](ext_articles/c4807e4e.ext.json)
 
 ---

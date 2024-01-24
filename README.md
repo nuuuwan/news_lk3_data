@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 20:03:23**
+As of **2024-01-24 20:17:33**
 
 ## Newspaper Stats
 
-*Scraped **2,397** Articles*
+*Scraped **2,402** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,9 +14,9 @@ dbsjeyarajcom | 122
 islandlk | 133
 newsfirstlk | 135
 economynextcom | 144
-adaderanasinhalalk | 178
+adaderanasinhalalk | 180
 dailyftlk | 181
-adalk | 236
+adalk | 239
 virakesarilk | 271
 tamilmirrorlk | 299
 adaderanalk | 304
@@ -26,11 +26,69 @@ dailymirrorlk | 315
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,397 (100.0%) of 2,397 articles have been extended.
+2,397 (99.8%) of 2,402 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### වෙඩි වැදීමෙන් අපවත් වූ හිමි නම ගැන අලුත් කතාවක් එළියට
+
+*2024-01-24 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192524) · `si`
+
+ගම්පහ - මල්වතුහිරිපිටිය ප්‍රදේශයේ විහාරස්ථානයක් තුළ දී ඊයේ (23) භික්ෂුවක් වෙඩි තබා ඝාතනය කිරීමේ සිද්ධිය සම්බන්ධයෙන් පොලිස් විමර්ශන නව මානයකට යොමු ව ඇති අතර, ඒ අනුව කඩුවෙල ප්‍රදේශයේ දී සැකකරුවන් පැමිණි මෝටර් රථය ගිනි තබා එම ස්ථානයෙන් ගමන් කළ පුද්ගලයන් දෙදෙනෙකු පිළිබඳ විමර්ශකයන්ගේ අවධානය යොමු ව තිබේ.
+
+මෙම සැකකරුවන් දෙදෙනා සම්බන්ධයෙන් කිසියම් තොරතුරක් වෙතොත් ළඟම ඇති පොලීසියට දැනුම්දෙන ලෙස පොලීසිය ඉල්ලීමක් කර ඇත.
+
+රජයේ රස පරීක්ෂකවරයා අද සිදු කළ පරීක්ෂාවේ දී අනාවරණ වී ඇත්තේ, අදාළ මෝටර් රථය කොටස් එකලස් කර සැකසූ එකක් බවටයි.
+
+මේ අතර, ඝාතනයට ලක් වූ භික්ෂුව ගුරුකම් සඳහා නම් දැරූ භික්ෂුවක් වන අතර, පාතාල කල්ලියක් හා එක් ව සිදුකළ යම්කිසි ගනුදෙනුවක දී ඇති වූ ආරවුලක් මත ඝාතනය සිදු ව ඇතැයි සැක කරන බව පොලීසිය පවසයි.
+
+පොලීසිය සිදු කළ විමර්ශනවල දී අනාවරණ වී ඇත්තේ, භික්ෂුවගේ අවාතේව සිදු කරමින් සිටි තරුණයා නමින් භික්ෂුව නිවාස කිහිපයක්ම මිල දී ගෙන ඇති බවයි.
+
+◼️
+
+[Data](articles/b9052635.json)
+
+---
+
+### මහින්ද කොඩිතුවක්කු ගැන මහෙස්ත්‍රාත්වරයාගේ තීන්දුව
+
+*2024-01-24 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192523) · `si`
+
+අවලෝකිතේශ්වර නාමයෙන් පෙනී සිටිමින් බුදු දහමට අපහාස කළේ යැයි චෝදනා එල්ල වූ මහින්ද කොඩිතුවක්කු නැමැත්තාට මානසික වෛද්‍ය ප්‍රතිකාර අවශ්‍ය බව අධිකරණ මනෝ වෛද්‍යවරයා අද (24) කොටුව මහේස්ත්‍රාත් අධිකරණයට දැනුම් දී තිබේ.
+
+ඒ අනුව සැකකරු තවදුරටත් රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කළ අධිකරණය, ඔහු ව මානසික වෛද්‍ය ප්‍රතිකාර ලබාගැනීම සඳහා යොමු කරන ලෙස  නියම කළේ ය.
+
+අවලෝකිතේශ්වර බෝධිසත්ත්ව නාමයෙන් පෙනී සිටිමින් දිවයිනට පැමිණි මහින්ද කොඩිතුවක්කු නැමැත්තෙකු අනුගාමිකයන්ගේ වැඳුම් පිදුම්වලට ලක් වන ආකාරයේ වීඩියෝ දර්ශන පසුගිය සමයේ සමාජ මාධ්‍යයේ සංසරණය වූ අතර, ඔහුගේ දේශන තුළින් බුදු දහමට අපහාස සිදු වන බවට ද චෝදනා එල්ල විය.
+
+පසු ව පරිගණක අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගැනුණු සැකකරු, ජනවාරි 16 වැනි දා අධිකරණය හමුවට ඉදිරිපත් කළ අවස්ථාවේ කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා නියෝග කළේ, සැකකරුගේ මානසික සෞඛ්‍ය තත්ත්වය සම්බන්ධයෙන් වාර්තාවක් අධිකරණයට ඉදිරිපත් කරන ලෙසයි.
+
+ඒ අනුව සැකකරු ඊයේ අංගොඩ මානසික සෞඛ්‍ය විද්‍යායතනය වෙත රැගෙන ගිය අතර, එහි දී පැය 03කට ආසන්න කාලයක් වෛද්‍යවරුන් ඔහුගේ මානසික තත්ත්වය පරීක්ෂා කර තිබිණි.
+
+...
+
+[Data](articles/2ba27a66.json)
+
+---
+
+### ඔන්ලයින් පනත සම්මතයි
+
+*2024-01-24 19:05:19* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්ලයින්-පනත-සම්මතයි/11-407713) · `si`
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිත භාවය පිළිබඳ පනත් කෙටුම්පත වැඩි ඡන්ද 46 කින් පාර්ලිමේන්තුවේදී අද (24) සංශෝධන සහිතව සම්මතවිය.
+
+පනතට පක්ෂව ඡන්ද 108ක් ලැබුණු අතර ඊට විරුද්ධව ලැබුණේ ඡන්ද 46ක් පමණි. ආණ්ඩු පක්ෂයේ මන්ත්‍රීවරු පනතට පක්ෂව ඡන්දය ප්‍රකාශ කළහ.
+
+පනතට විරුද්ධව ඡන්දය ප්‍රකාශ කළේ සමග ජන බලවේගය, ජාතික ජන බලවේගය, දෙමළ ජාතික සන්ධානය සහ නිදහස ජනතා සභාව නියෝජනය කරන මන්ත්‍රීවරු වෙති.
+
+රොෂාන් රණසිංහ මන්ත්‍රීවරයා පනත් කෙටුම්පතට විරුද්ධව ඡන්දය ප්‍රකාශ කළේය. අලි සබ්‍රි රහීම්,වඩිවෙල් සුරේෂ්, ඩබ්ලිව් ඩී ජේ සෙනවිරත්න යන මන්ත්‍රීවරු පනතට පක්ෂව ඡන්දය ප්‍රකාශ කළහ.
+
+◼️
+
+[Data](articles/44895cb1.json)
+
+---
 
 ### Online Safety Bill passed in Parliament
 
@@ -1296,6 +1354,24 @@ Thus, the said Bills will come into effect as the Office for National Unity and 
 
 ---
 
+### මාල කැඩුවා කියලා ඔප්පුකළොත් ගෙදර යනවා
+
+*2024-01-24 14:31:49* · [`adalk`](https://www.ada.lk/breaking_news/මාල-කැඩුවා-කියලා-ඔප්පුකළොත්-ගෙදර-යනවා/11-407711) · `si`
+
+තමා මාල කැඩුවා යැයි පොලිස් පොතක පැමිණිල්ලක් පෙන්නුවොත් හෙට  පාර්මේන්තුවෙන් ඉවත් වී  ගෙදර යන බව පොදු ජනපෙරමුණේ කළුතර දිස්ත්‍රික් මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පාර්ලිමේන්තුවේදී පැවසීය.
+
+තමා මාල කඩනවා දැක්ක එක්කෙනෙක් හෝ ඉන්නවා නම් ඉදිරිපත් වන්නැයි අභියෝග කරන බවද අබේගුණවර්ධන මහතා සඳහන් කළේය.
+
+ඕනෑම පුද්ගලයෙකු පොඩි කාලේ ගෙදරට කියන නමක් තිබෙන බවත් තමාට ගෙදර අය ආදරේට කිව්වේ රත්තරන්  යැයි ද ඔහු පැවැසීය.
+
+මාල කැඩීම නිසා රත්තරන් යැයි තමා හඳුන්වන බවට දේශපාලනයට පැමිණීමෙන් පසු සමාජ මාධ්‍ය විසින් සමාජගත කර ඇතැයිද රෝහිත අබේගුණවර්ධන මහතා පැවසීය.
+
+◼️
+
+[Data](articles/d2a774b6.json)
+
+---
+
 ### Mahinda Kodituwakku has been remanded again
 
 *2024-01-24 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192512) · `si`
@@ -1784,6 +1860,24 @@ The Kilinochchi police said that the vehicle driver's unrespective driver was th
 
 ---
 
+### ගවයින්ගේ ගැටුනු බස්රථය වෑන්රථයක මුහුණට මුහුණ ගැටෙයි,  කාන්තාවක් මරුට, 08 කට බරපතලයි
+
+*2024-01-24 13:26:21* · [`adalk`](https://www.ada.lk/uncategorized/ගවයින්ගේ-ගැටුනු-බස්රථය-වෑන්රථයක-මුහුණට-මුහුණ-ගැටෙයි---කාන්තාවක්-මරුට--08-කට-බරපතලයි/1-407705) · `si`
+
+යාපනය මහනුවර ඒ- 09 ප්‍රධාන මාර්ගයේ  කිලිනොච්චිය, අලිමංකඩ, උමයාල්පුරම් ප්‍රදේශයේදී ලංගම බස්රථයක් වෑන් රථයක මුහුණට මුහණ ගැටී අද (24) අලුයම සිදුවූ අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත්ව තවත් අටදෙනකු බරපතල තුවාල ලබා රෝහල්ගත කල බවට කිලිනොච්චිය පොලිසිය පවසයි.
+
+යාපනය සිට මහනුවර බලා ධාවනය වු  ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් හා කටුනායක ගුවන්තොටුපොළ වෙත ගොස් නැවත යාපනය වෙත ගමන්ගත් වෑන් රථයක් මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලිසිය පැවසීය.
+
+ඒහිදී ලංගම බස් රථය අධික වේගයකින් ධාවනය වී වෙගය පාලනය කරගැනීමට නොහැකිව මාර්ගයේ නිදා සිටි ගවයින් රංචුවක ගැටීමෙන් පසුව ඉදිරියෙන් පැමිණි වෑන් රථයේ මුහුණට මුහුණ ගැටී අ‍ැති අතර බස්රථයේ ගැටුනු ගවයින් 08 දෙනකුද ජීවිතක්ෂයට පත්ව අ‍ැත.
+
+අනතුරින් මිය ගොස් ඇත්තේ 50 හැවිරිදි  යාපනයේ පදිංචි  කතිරිනා තිරුචෙල්වම් නැමති කාන්තාවක් වන අතර අනතුරින් බරපතල තුවාල ලැබූවන් මේ වන විට කිලිනොච්චිය මහරෝහලේ දැඩිසත්කාර ඒ්කකයේ ප්‍රතිකාර ලබමින් සිටිති.
+
+...
+
+[Data](articles/278ca31b.json)
+
+---
+
 ### Suspect arrested over mass shooting in Beliatta
 
 *2024-01-24 13:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96690/suspect-arrested-over-mass-shooting-in-beliatta-) · `en`
@@ -1903,107 +1997,5 @@ Russian plane crashes with 65 Ukrainian prisoners of war on board
 [Data](articles/cb3ce31c.json)
 
 [Extended Data](ext_articles/cb3ce31c.ext.json)
-
----
-
-### Japan, UN Women support 600 women-led micro enterprises in Sri Lanka
-
-*2024-01-24 12:49:00* · [`economynextcom`](https://economynext.com/japan-un-women-support-600-women-led-micro-enterprises-in-sri-lanka-148516/) · `en`
-
-ECONOMYNEXT — Amid some uneasiness in relations between the two countries in light of a cancelled light rail transit project, Japanese funding worth 343,000 US dollars has been used by UN Women and a local organisation to provide assets to 600 women-led micro-enterprises.
-
-UN Women, a United Nations (UN) agency, said in a statement that the initiative was undertaken as part of a larger one-year project ‘Empowering women in crisis’ that began in February 2023.
-
-“Through this project, UN Women and implementing partner Chrysalis have provided humanitarian assistance for women most affected by the socioeconomic crisis in Sri Lanka – in close collaboration with Ministry of Women, Child Affairs and Social Empowerment,” the statement said.
-
-...
-
-[Data](articles/69f5b2a5.json)
-
-[Extended Data](ext_articles/69f5b2a5.ext.json)
-
----
-
-### Lands under the Forest Department
-
-*2024-01-24 12:40:00* · [`adalk`](https://www.ada.lk/breaking_news/වන-සංරක්ෂණ-දෙපාර්තමේන්තුව-යටතේ-ඇති-ඉඩම්-යළි-කෘෂිකර්මාන්තයට/11-407703) · `si`
-
-State Minister of Rural Economic State Minister Kariya Economic State Minister. Said Kader Masathan said.
-
-The State Minister pointed out that 61 tanks have already begun to develop the agriculture sector in Mannar and Vavuniya districts.
-
-State Minister of Rural Economic. Mr. Kader Masathan made this statement participating at a press conference held by the President's Media Center by a press conference.
-
-"Of course we thought that the economy of this country would take a long time. However, President Ranil Wickremesinghe brought the economy soon. Thank you for that.
-
-Also, funds have been made to implement a number of projects to uplift the rural economy in the Northern, Eastern and Central provinces.. Last year launched a number of livelihood improvement programs through the Ministry of Rural Economy. Providing goats such as providing goats, providing essential seeds for green cultivation.
-
-...
-
-[Data](articles/54023e9a.json)
-
-[Extended Data](ext_articles/54023e9a.ext.json)
-
----
-
-### National school exams will return to usual schedules by 2025 - Minster
-
-*2024-01-24 12:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96689/national-school-exams-will-return-to-usual-schedules-by-2025-minster-) · `en`
-
-Measures are underway to ensure that all national exams are held as per their usual schedules by 2025, Minister of Education Susil Premajayantha stated.
-
-Speaking in Parliament this morning (24 Jan.), the Minister further stated that the necessary arrangements for the paper-marking sessions of the ongoing G.C.E Advanced Level examination, due to end on 01 February, are also underway.
-
-Meanwhile, commenting on the allowances granted to teachers and university lecturers for paper-marking, Premajayantha revealed that as per a Cabinet memorandum submitted by him, measures are afoot to provide the same allowances as those granted for last year’s paper-marking.
-
-◼️
-
-[Data](articles/c5e70aec.json)
-
-[Extended Data](ext_articles/c5e70aec.ext.json)
-
----
-
-### The latest situation on the test of sugar tax fraud
-
-*2024-01-24 12:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192507) · `si`
-
-State Minister Ranjith Siyambalapitiya stated that the CID has completed investigations into the accusation that a sugar tax fraud took place.
-
-The investigation of the investigation has been referred to the Attorney General.
-
-He said that he was instructed to prosecute the fraud.
-
-The Department of Inland Revenue has made a note of 12 institutions and that they have recovered Rs. 31 crores in six companies.
-
-Mr. Siyambalapitiya has revealed the question raised by the opposition leader Sajith Premadasa.
-
-◼️
-
-[Data](articles/512f70d9.json)
-
-[Extended Data](ext_articles/512f70d9.ext.json)
-
----
-
-### Controversial monk ‘Vishwa Buddha’ further remanded
-
-*2024-01-24 12:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96688/controversial-monk-vishwa-buddha-further-remanded) · `en`
-
-The Colombo Magistrate’s Court has ordered to further remand in custody the saffron-robed monk, claiming to be ‘Vishwa Buddha’, until January 29, 2024.
-
-He was presented before the Colombo Additional Magistrate this morning (Jan. 24), as per an order issued by the Gangodawila Magistrate’s Court in Nugegoda on Tuesday (Jan.21).
-
-The suspect, who was out on bail, was re-arrested on Tuesday morning by the Criminal Investigations Department (CID) over breach of bail conditions and was presented before the Gangodawila Magistrate’s Court.
-
-Earlier, the monk was arrested on December 12 at a private establishment in Kalagedihena by the cybercrimes unit of the Criminal Investigation Department (CID), acting on a complaint received against the self-styled monk who was residing in Ratnapura.
-
-According to police, the saffron-robbed monk had allegedly issued statements demeaning Buddhism.
-
-...
-
-[Data](articles/f2eb57b1.json)
-
-[Extended Data](ext_articles/f2eb57b1.ext.json)
 
 ---

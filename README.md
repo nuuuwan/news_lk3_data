@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 18:34:43**
+As of **2024-01-24 18:51:56**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 314
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,377 (99.6%) of 2,387 articles have been extended.
+2,387 (100.0%) of 2,387 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,8 @@ An elephant bathing at the pond in front of the historic Kelaniya Rajamaha Vihar
 ◼️
 
 [Data](articles/91d4c312.json)
+
+[Extended Data](ext_articles/91d4c312.ext.json)
 
 ---
 
@@ -74,21 +76,27 @@ An alms giving ceremony was held today at the Buddhist Ladies College, Colombo p
 
 [Data](articles/3986c70b.json)
 
+[Extended Data](ext_articles/3986c70b.ext.json)
+
 ---
 
-### 54 பேர் பங்கேற்கவில்லை: அரசுக்கு அறுவர் ஆதரவு
+### 54 people do not participate: Government support
 
 *2024-01-24 17:58:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/54-பேர்-பங்கேற்கவில்லை-அரசுக்கு-அறுவர்-ஆதரவு/175-332065) · `ta`
 
-நிகழ்நிலை காப்புச் சட்டமூலம் 46 மேலதிக வாக்குகளினால் நிறைவேற்றப்பட்டது. இந்த சட்டமூலத்துக்கு ஆதரவாக 108 வாக்குகளும் எதிராக 62 வாக்குகளும்  அளிக்கப்பட நிலையில் 54 பேர் வாக்களிப்பில் பங்கேற்கவில்லை.
+The Ceremony Building Bill was passed by 46 additional votes. With 108 votes cast and 62 votes against the bill, 54 did not participate in the vote.
 
-எதிர்க்கட்சிகளின், பொதுமக்கள் மற்றும் பொது அமைப்புக்களின்  கடும் எதிர்ப்புகளுக்கு மத்தியில் பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலசினால் செவ்வாய்க்கிழமை (23) சபையில் சமர்ப்பிக்கப்பட்ட நிகழ்நிலை காப்புச் சட்டமூலம் மீதான விவாதம் செவ்வாய் மற்றும் புதன் ஆகிய இரு நாட்களாக இடம்பெற்ற நிலையில்  புதன்கிழமை (24) விவாத முடிவில் எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல எம்.பி. சட்ட மூலத்தை நிறைவேற்ற வாக்கெடுப்பைக் கோரினார்.
+Amidst the strong opposition of the opposition parties, civilians and public organizations, the debate on Tuesday (24) was held on Tuesday and Wednesday as the debate on Tuesday (23) by Public Security Minister Tran Alas by the Minister of Public Security. He sought a referendum to pass the legal source.
 
-இதனையடுத்து இடம்பெற்ற வாக்கெடுப்பிலேயே நிகழ்நிலை காப்புச்  சட்டமூலத்துக்கு ஆதரவாக 108 வாக்குகளும் எதிராக 62 வாக்குகளும் அளிக்கப்பட்ட நிலையில் 46 மேலதிக வாக்குகளினால் சட்டமூலம் நிறைவேற்றப்பட்டது.
+In the referendum, the bill was passed by 46 additional votes, with 108 votes and 62 votes in favor of the Backup Bill.
 
-...
+Sri Lanka Freedom Party (SLFP) MP Duminda Dissanayake, an independent opposition MP. Nimal Lansa, Alizabri Rahim, John Seneviratne. State MP Roshan Ranasinghe and United People's Power MP Vadivel Suresh voted in favor of. All the opposition parties voted against it.
+
+◼️
 
 [Data](articles/b0dc1f63.json)
+
+[Extended Data](ext_articles/b0dc1f63.ext.json)
 
 ---
 
@@ -130,6 +138,8 @@ Accordingly, the retail price of an egg will be Rs. 54.55, the association presi
 
 [Data](articles/8766cbf8.json)
 
+[Extended Data](ext_articles/8766cbf8.ext.json)
+
 ---
 
 ### Online Safety Bill: Second reading passed with 46 majority
@@ -156,6 +166,8 @@ Parliament, Jan. 24 (Daily Mirror)- The second reading of the Online Safety Bill
 
 [Data](articles/beb8382f.json)
 
+[Extended Data](ext_articles/beb8382f.ext.json)
+
 ---
 
 ### Online Bill Seventh Reading is passed by more
@@ -176,19 +188,21 @@ Accordingly, the Speaker informed the Parliament that the second reading of the 
 
 ---
 
-### ஒன்லைன் சட்டமூலம் நிறைவேறியது
+### The Online Bill has been passed
 
 *2024-01-24 17:18:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-சட்டமூலம்-நிறைவேறியது/175-332063) · `ta`
 
-பாராளுமன்றத்தில், செவ்வாய்க்கிழமை (23), புதன்கிழமை (24) நடைபெற்ற நிகழ்நிலை  காப்புச் சட்ட மூலம் மீதான விவாதத்தின் பின்னர், புதன்கிழமை (24) மாலை வாக்கெடுப்புக்கு விடுக்கப்பட்டது.
+The referendum was held on Wednesday (24) after a debate on Tuesday (23) and Wednesday (24).
 
-சட்டமூலத்தை வாக்கெடுப்புக்கு விடுமாறு, எதிர்க்கட்சி பிரதம கொறடாவான ஐக்கிய மக்கள் சக்தியின் கண்டி மாவட்ட பாராளுமன்ற உறுப்பினர் லக்ஷ்மன் கிரியெல்ல கோரிநின்றார்.
+The United People's Power Kandy District Parliamentarian Lakshman Kiriella has demanded that the legislature be refereed.
 
-அதன்பின்னர் வாக்கழைப்பு மணி ஒலிக்கப்பட்டது. சபைக்கு ​வெளியே இருந்த எம்.பிக்கள்,சபைக்குள் பிரவேசித்தனர் பின்னர் வாக்கெடுப்பு நடத்தப்பட்டது. அதில், சட்டமூலத்துக்கு ஆதரவாக 108 வாக்குகளும் எதிராக 62 வாக்குகளும் அளிக்கப்பட்டன.
+Thereafter the voting bell sounded. The MPs outside the congregation entered the congregation and then refered the referendum. In it, 108 votes were cast in favor of the Bill and 62 votes.
 
 ◼️
 
 [Data](articles/56e481d1.json)
+
+[Extended Data](ext_articles/56e481d1.ext.json)
 
 ---
 
@@ -350,23 +364,27 @@ Hungary then becomes the only NATO ally not to have ratified Sweden’s accessio
 
 ---
 
-### இராணுவ தளபதி  பரசூட்டு வீரராக தகுதி
+### Qualified as a military commander
 
 *2024-01-24 16:19:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-தளபதி-பரசூட்டு-வீரராக-தகுதி/175-332061) · `ta`
 
-இராணுவ தளபதி லெப்டினன் ஜெனரல் விக்கும் லியனகே   இராணுவ பரசூட்டில் தனது நிபுணத்துவம் மற்றும் அறிவின் மூலம்   இராணுவ பரசூட் வீரராக தகுதியை பெற்றார்.
+Army Commander Lieutenant General Viqi Liyanage qualified as a military parachute player in the Army Parasuit by his expertise and knowledge.
 
-இராணுவ பரசூட் வீரராக மாறுவதற்கான தளபதியின் பயணம் குடாஓய கொமாண்டோ படையணி பயிற்சிப் பாடசாலையில் இடம்பெற்றது.
+The commander's journey to become a military parachute was held at the Kudaoya Commando Brigade Training School.
 
-இராணுவத் தளபதி, மாலைதீவு தேசிய பாதுகாப்புப் படையணியின் 18 படையினர் மற்றும் இலங்கை இராணுவத்தைச் சேர்ந்த 14 படையினர் உட்பட ஏனைய பங்கேற்பாளர்களுடன், உஹான விமானப்படைத் தள ஓடுபாதையில் எம்ஐ-17 ஹெலிகாப்டரில் விமானத்தில் 2024   ஜனவரி 22 ம் திகதியன்று சென்றார்.
+The Army Commander, with the Maldivian National Security Forces, and 14 other participants from the Sri Lankan army, went on a helicopter on a helicopter on the Uhna Air Force runway on January 22, 2024.
 
-தளபதி உஹான விமானப்படை தளத்தின் துளி மண்டலத்தின் மீது பராசூட் குதித்து, மரியாதைக்குரிய வான்வழி வீரர்களின் குடும்பத்துடன் அதிகாரப்பூர்வமாக இணைந்தார்.
+Commander Uhnah jumped on the drop zone of the Air Force base and officially joined the family of respected airmen.
 
-இந்த சாதனையானது இலங்கை இராணுவ வரலாற்றில் ஒரு குறிப்பிடத்தக்க தடயமாக லெப்டினன் ஜெனரல் இராணுவ பரசூட் வீரராக காணப்படுவது குறிப்பிடத்தக்கது.
+It is noteworthy that this record is a significant trade in the history of Sri Lankan military, Lieutenant General.
+
+At the same time, the highlight of the position as the Army Commander. Moreover, Army Commander Lieutenant General Lieutenant Lienake (ARWB RSP ENTU) has become a Senior Senior Senior Soldier who has successfully qualified as a military Parasood soldier.
 
 ...
 
 [Data](articles/c056e165.json)
+
+[Extended Data](ext_articles/c056e165.ext.json)
 
 ---
 
@@ -1268,23 +1286,27 @@ The ministry said that the man who had come to commit the crime had been driving
 
 ---
 
-### ඇතැම් රාජ්‍ය නිලධාරින්ගේ වැරැදි නිසා ආයෝජකයින් නැවත එන්නේ නෑ
+### Investors will not come back by the faults of certain government officials
 
 *2024-01-24 14:12:36* · [`adalk`](https://www.ada.lk/breaking_news/ඇතැම්-රාජ්‍ය-නිලධාරින්ගේ-වැරැදි-නිසා-ආයෝජකයින්-නැවත-එන්නේ-නෑ/11-407709) · `si`
 
-අරුවක්කාලු කසල ව්‍යාපෘතිය වැඩ කටයුතු මාර්තු මස වනවිට අවසන් කරන බව නාගරික සංවර්ධන හා නිවාස අමාත්‍ය ප්‍රසන්න රණතුංග මහතා පවසයි. එහි අවසන් අදියරේ වැඩ කටයුතු කඩිනම් කරන්නැයි අමාත්‍යවරයා නිලධාරීන්ට උපදෙස් දුන්නේය.
+Urban Development and Housing Minister Prasanna Ranatunga says that the archasal garbage project will be completed by March. The Minister instructed officials to expedite their final stages.
 
-අමාත්‍යවරයා මෙහිදී අවධාරණය කර සිටියේ ආයෝජකයින් සමඟ කටයුතු කිරීමේදී ඇතිවන ගැටළුවලට නිත්‍යානූකූල ක්‍රියාමාර්ග ගෙන කඩිනමින් ඔවුන්ට විසදුම් ලබා දෙන ලෙසයි.
+The Minister emphasized to promote legitimate measures to promote certain measures to the problems of investors.
 
-එවැනි ප්‍රමාදයන් නිසා හා ඇතැම් රාජ්‍ය නිලධාරින් කරන වැරැදි නිසා ආයෝජකයින් මෙරටට නැවත නොපැමිණිය හැකි බවද අමාත්‍ය ප්‍රසන්න රණතුංග මහතා මෙහිදී පැවසීය.
+Minister Prasanna Ranatunga said that investors could not return to Sri Lanka due to such delays and the faults of certain government officials.
 
-අරුවක්කාලු කසළ ව්‍යාපෘතිය සම්බන්ධයෙන් පැන නැගී ඇති ගැටළු සාකච්ඡා කිරීම සඳහා නාගරික සංවර්ධන අධිකාරි ශ්‍රවණාගාරයේදී ඊයේ (23) පැවති සාකච්ඡාවකට එක්වෙමින් අමාත්‍යවරයා මේ බව සඳහන් කළේය.
+The Minister was speaking at a discussion held at the Urban Development Superintendent Auditorium yesterday (23) at a discussion held at the Urban Development Superintendent (UDA).
 
-චීන සමාගමක් වන චයිනා හාබර් ඉංජිනේරු සමාගම සහ සවුත්වෙස්ට් මියුනිසිපල් ඉංජිනියරිං ඇන්ඩ් රිසර්ච් ඉන්ස්ටිටියුට් ඔප් චයිනා සමාගම විසින් අරුවක්කාලු කසල අංගනයේ ඉදිකිරීම් කටයුතු සිදු කරනු ලබයි.
+China Harbery Engineering Company and Seina Harbor Engineering Company and the Journal Instriculture Instart Op Chainitha Company conducts the construction of a chartedated deposition.
+
+Minister Prasanna Ranatunga further stated that the delay in addressing the problems arisen in dealing with foreign investors is a delay in the country.
 
 ...
 
 [Data](articles/967855dc.json)
+
+[Extended Data](ext_articles/967855dc.ext.json)
 
 ---
 
@@ -1328,25 +1350,29 @@ Simply mocking, contempt of contempt is not torture or mental harassment.
 
 ---
 
-### ‘பெண்ணை கேலி செய்வது சித்திரவதை ஆகாது’: நீதிமன்றம்
+### Mocking woman
 
 *2024-01-24 14:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-கேலி-செய்வது-சித்திரவதை-ஆகாது-நீதிமன்றம்/175-332054) · `ta`
 
-“வெறுமனே கேலி செய்வது, இழிவாகப் பேசுவது என்பது சித்திரவதை செய்வது அல்லது மனரீதியாக துன்புறுத்துவது ஆகாது” என மும்பை உயர்நீதிமன்ற அவுரங்காபாத் கிளை நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Mumbai High Court's Aurangabad Branch Court has ordered that “simply ridicule and derision is not torture or mental harassment.”
 
-மராட்டிய மாநிலம்-நந்துர்பூரை சேர்ந்த பெண் கடந்த 1994ஆம் ஆண்டு ஏப்ரல் மாதம் உடலில் தீவைத்து தன்னுயிரை மாய்த்து கொண்டுள்ளார்.
+In April 1994, a woman from Maratha State-Nandurpur set fire to her body.
 
-பெண்ணை தற்கொலைக்கு தூண்டியதாக பெண்ணின் கணவர், மைத்துனர், மாமியார் மீது பொலிஸார் வழக்குப்பதிவு செய்துள்ளனர்.
+Police have filed a case against the woman's husband, brother -in -law and mother -in -law for allegedly committing suicide.
 
-வழக்கை விசாரித்த நந்துர்பூர் அமர்வு நீதிமன்றம், பெண்ணை தற்கொலைக்கு தூண்டியதாக கணவர் உட்பட 3 பேருக்கும் தண்டனை வழங்கியுள்ளது.
+The Nandarpur Session Court, which heard the case, has sentenced three others, including her husband for provoking a woman.
 
-குறித்த மனுவை நீதிபதி அபய் வாக்வாசே தலைமையிலான தனி நபர் அமர்வு விசாரித்துள்ளது. விசாரணையின் முடிவில், குற்றஞ்சாட்டப்பட்ட 3 பேரையும் விடுவித்து நீதிபதி உத்தரவிட்டுள்ளார்
+The petition has been heard by a separate session headed by Justice Abhay Waghwase. At the end of the investigation, the judge ordered the release of all three accused
 
-"கணவர் உட்பட 3 பேரும் பெண்ணை தற்கொலைக்கு தூண்டியதற்கான ஆதாரங்கள் எதுவும் நீதிமன்றில் சமர்ப்பிக்கப்படவில்லை. குற்றஞ்சாட்டப்பட்டவர்கள் பெண்ணை சமைக்க தெரியவில்லை என கேலி செய்ததாகவும், பணம் கேட்டதாகவும் பொலிஸ் தரப்பில் கூறப்படுகிறது.
+“There was no evidence that three others, including the husband, had committed suicide by suicide. According to the police, the accused had joked that the woman did not know how to cook and asked for money.
+
+Simply ridicuing, speaking disgusting is not to torture, or mental harassment.
 
 ...
 
 [Data](articles/ea248238.json)
+
+[Extended Data](ext_articles/ea248238.ext.json)
 
 ---
 

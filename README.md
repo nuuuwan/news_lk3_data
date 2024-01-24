@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 12:32:57**
+As of **2024-01-24 12:49:43**
 
 ## Newspaper Stats
 
-*Scraped **2,283** Articles*
+*Scraped **2,285** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,19 +14,19 @@ dbsjeyarajcom | 122
 newsfirstlk | 128
 islandlk | 133
 economynextcom | 135
-adaderanasinhalalk | 161
+adaderanasinhalalk | 162
 dailyftlk | 181
 adalk | 227
 virakesarilk | 253
 adaderanalk | 284
-tamilmirrorlk | 285
+tamilmirrorlk | 286
 dailymirrorlk | 296
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,283 (100.0%) of 2,283 articles have been extended.
+2,285 (100.0%) of 2,285 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,30 @@ Amid those developments both indices moved downwards. The All- Share Price Index
 [Data](articles/46a01257.json)
 
 [Extended Data](ext_articles/46a01257.ext.json)
+
+---
+
+### 7 fishermen death sentence in murder
+
+*2024-01-24 12:04:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொலை-வழக்கில்-7-மீனவர்களுக்கு-மரண-தண்டனை/175-332051) · `ta`
+
+Seven fishermen have been sentenced to death for allegedly killing three fishermen in 2012.
+
+The case was taken up by the Colombo High Court when the case was taken up for hearing this morning.
+
+In addition, the accused have been sentenced to 29 years in prison.
+
+After a long hearing, the judge announced the verdict, saying that the allegations leveled against the accused were undoubtedly proved.
+
+The then Attorney General had filed a case against 11 people in connection with the incident.
+
+It is noteworthy that three of them have died, and the case is being carried out against 8 defendants.
+
+◼️
+
+[Data](articles/f7311b9d.json)
+
+[Extended Data](ext_articles/f7311b9d.ext.json)
 
 ---
 
@@ -92,7 +116,7 @@ We are ready to take further steps to protect our people and our interests in th
 
 ### Ceylon Electricity Board employees who participated in the demonstration letter letter to 10,000
 
-*2024-01-24 11:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/174672) · `ta`
+*2024-01-24 11:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/174672) · `ta`
 
 The Ceylon Electricity Board (CEB) has sent a letter to 10,000 employees of the Ceylon Electricity Board.
 
@@ -109,6 +133,28 @@ Ranjan Jayalal, general secretary of the Ceylon Electricity Employees Union, who
 [Data](articles/7c38b152.json)
 
 [Extended Data](ext_articles/7c38b152.ext.json)
+
+---
+
+### The baby bites the girl in the courtyard
+
+*2024-01-24 11:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192505) · `si`
+
+If Elephants are worried about the worries. It is not possible to care for something in a garden field like a garden field.
+
+In the Mawanella yesterday (23), a nine-year-old girl who was in a nine-year-old girl was reported from the Mawanella yesterday.
+
+"I was bobbed at that moment and was drying in the yard. We were giving up my son to eat. The daughter was in the yard at that time. When four people came to the daughter, he came to his body, he fell into the yard when he had finished his body. The knees were bites in the Kula area of the leg.
+
+They're not afraid of us. The son is the man who had taken home and dropped the strips. After the incident, we quickly took the daughter to the Mawanella government hospital. The doctor told us that if the blood was delicious, the blood was not going to be able to bite, "
+
+Most of the areas in the Kegalle district, most areas in the Kegalle district are currently underway.
+
+...
+
+[Data](articles/cf10c45f.json)
+
+[Extended Data](ext_articles/cf10c45f.ext.json)
 
 ---
 
@@ -1969,41 +2015,5 @@ What is concerning however is that the Minister and the Acting IGP seem to be ac
 [Data](articles/b083f963.json)
 
 [Extended Data](ext_articles/b083f963.ext.json)
-
----
-
-### What is the JVP’s Economic Policy?
-
-*2024-01-24 00:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/What-is-the-JVPs-Economic-Policy/172-275600) · `en`
-
-Hats off to the JVP lady who promised that when the JVP/NPP comes to power, it will legalize prostitution! If Sri Lanka is to undergo the next phase of social revolution, which the JVP promises, the archaic and discriminatory laws should be discarded to build a system where every citizen, irrespective of race, religion, income, gender or sexual orientation, could exercise the full scope of liberties. But there is a glitch that the JVP’s ideologues and their busloads of supporters fail to admit - or they simply don’t comprehend: social liberalism cannot be achieved, nor could it be sustained in the long run, without economic liberalism.
-
-...
-
-[Data](articles/5e30e8b1.json)
-
-[Extended Data](ext_articles/5e30e8b1.ext.json)
-
----
-
-### 2024-01-23 (Tuesday)
-
-### SJB to spend over Rs 20 Mn for protest on Jan. 30: Range Bandara
-
-*2024-01-23 23:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-to-spend-over-Rs-20-Mn-for-protest-on-Jan-30-Range-Bandara/108-275592) · `en`
-
-Colombo, Jan 23 (Daily Mirror) - Samagi Jana Balawegaya (SJB) is to spend more than Rs 20 million to be paid for the people who are to be brought to Colombo for its protest on January 30 2023, UNP General Secretary Palitha Range Bandara alleged today.
-
-Mr. Range Bandara told journalists that some of the funds have been allocated to provide liquor for those who are participating in the protest.
-
-“A close associate of the SJB Leader has assured that he will pay for the protest. This person is alleged to have paid former MP Chaminda Wijesiri to resign from his parliamentary seat recently,” he added.
-
-SJB General Secretary Ranjith Madduma Bandara who commented on the matter denied allegations. “We have not thought of providing liquor and rewarding those who participate in our protest. It is the UNP which uses such tactics to bring people for their events,” he said.
-
-◼️
-
-[Data](articles/c20d49d1.json)
-
-[Extended Data](ext_articles/c20d49d1.ext.json)
 
 ---

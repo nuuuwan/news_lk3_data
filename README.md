@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 15:02:22**
+As of **2024-01-24 15:17:24**
 
 ## Newspaper Stats
 
-*Scraped **2,312** Articles*
+*Scraped **2,324** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 45
 dbsjeyarajcom | 122
 newsfirstlk | 132
 islandlk | 133
-economynextcom | 141
-adaderanasinhalalk | 164
+economynextcom | 142
+adaderanasinhalalk | 170
 dailyftlk | 181
 adalk | 229
-virakesarilk | 254
+virakesarilk | 259
 adaderanalk | 290
 tamilmirrorlk | 290
 dailymirrorlk | 298
@@ -26,11 +26,55 @@ dailymirrorlk | 298
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,312 (100.0%) of 2,312 articles have been extended.
+2,312 (99.5%) of 2,324 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### අවලෝකිතේශ්වරට මානසික වෛද්‍ය ප්‍රතිකාර ලබාදීමට නියම කරයි
+
+*2024-01-24 14:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192513) · `si`
+
+අවලෝකිතේශ්වර බෝධිසත්ව නමින් පෙනී සිටි පුද්ගලයාට මානසික වෛද්‍ය ප්‍රතිකාර අවශ්‍ය බව අධිකරණ මනෝ වෛද්‍යවරයා විසින් අධිකරණයට වාර්තා කර තිබේ.
+
+එහිදී මෙම සැකකරු ලබන 07 වනදා දක්වා තවදුරටත් රක්ෂිත බන්ධනාගාරගත කිරීමට කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණය අද (24) නියම කළේය.
+
+මෙම පැමිණිල්ල අද කොළඹ කොටුව මහෙස්ත්‍රාත් තිළිණ ගමගේ මහතා ඉදිරියේ කැඳවනු ලැබීය.
+
+ඒ අනුව සැකකරු  බන්ධනාගාරය මාර්ගයෙන් මානසික වෛද්‍ය ප්‍රතිකාර ලබාගැනීම සඳහා යොමු කරන ලෙසත් නියම කළේය.
+
+◼️
+
+[Data](articles/8c373e90.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-01-24 14:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174695) · `ta`
+
+இன்று புதன்கிழமை (ஜனவரி 24) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில்  அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 314.9824 ஆகவும் விற்பனை விலை ரூபா 324.7787 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a3fdf2f3.json)
+
+---
+
+### மாத்தறை - கதிர்காமம் வீதியில் விபத்து : ஐவர் காயம்!
+
+*2024-01-24 14:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174694) · `ta`
+
+மாத்தறை -  கதிர்காமம் பிரதான வீதியில் ஹுங்கம மெதஎலிய பிரதேசத்தில் இன்று புதன்கிழமை (24)  வேன் ஒன்றும் சிறிய லொறியும் மோதி விபத்துக்குள்ளானதில் ஐவர் காயமடைந்து வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+பேருவளை பகுதியிலிருந்து கதிர்காமம் நோக்கிச் சென்ற வேன் பாதையை விட்டு விலகி முன்னால் வந்த லொறியுடன் மோதி விபத்துக்குள்ளானதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/c119928f.json)
+
+---
 
 ### Self-proclaimed ‘Avalokiteshvara Bodhisattva’ further remanded
 
@@ -61,6 +105,134 @@ Thus, the said Bills will come into effect as the Office for National Unity and 
 [Data](articles/a2781a89.json)
 
 [Extended Data](ext_articles/a2781a89.ext.json)
+
+---
+
+### අවලෝකිතේශ්වර නමින් පෙනී සිටි මහින්ද කොඩිතුවක්කු යළි රිමාන්ඩ්
+
+*2024-01-24 14:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192512) · `si`
+
+අවලෝකිතේශ්වර නමින් පෙනී සිටි මහින්ද කොඩිතුවක්කු නමැති පුද්ගලයා පෙබරවාරි 07 වැනි දා දක්වා යළි රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+කොටුවෙ මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමෙන් අනතුරු ව සැකකරුට මෙම නියෝගය ලබා දී ඇත.
+
+මේ අතර, සැකකරුගේ මානසික තත්ත්වය සම්බන්ධයෙන් ලබාගත් වාර්තාව ද අද (24) අධිකරණයට ඉදිරිපත් කෙරිණි.
+
+බුදු දහමට අපහාස කළේ යැයි චෝදනා එල්ල වූ අවලෝකිතේශ්වර නාමයෙන් පෙනී සිටි මහින්ද කොඩිතුවක්කු නැමැත්තා ඉකුත් 15 වැනි දා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ පරිගණක අපරාධ කොට්ඨාසය මගින් අත්අඩංගුවට ගැනිණි.
+
+අනතුරුව ඉකුත් 16 වැනි දා සැකකරු අධිකරණයට ඉදිරිපත් කළ අවස්ථාවේ දී කොටුව මහේස්ත්‍රාත් තිළිණ ගමගේ මහතා නියෝග කළේ,
+
+සැකකරු අංගොඩ ජාතික මානසික සෞඛ්‍ය රෝහලට ඉදිරිපත් කර ඔහුගේ මානසික සෞඛ්‍ය තත්ත්වය සම්බන්ධයෙන් වාර්තාවක් අධිකරණයට ඉදිරිපත් කරන ලෙසයි.
+
+ඒ අනුව සැකකරු ඊයේ අංගොඩ මානසික සෞඛ්‍ය විද්‍යායතනය වෙත රැගෙන ගිය අතර, එහි දී පැය දෙකකට අධික කාලයක් ඔහුගේ මානසික තත්ත්වය සම්බන්ධයෙන් පරීක්ෂා කර තිබේ.
+
+◼️
+
+[Data](articles/c0b20546.json)
+
+---
+
+### චීවරධාරියෙකු ලෙස පෙනී සිටි පුද්ගලයෙක් අත්අඩංගුවට
+
+*2024-01-24 14:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192511) · `si`
+
+චීවරධාරියෙකු ලෙස පෙනී සිටිමින් දරුවන් කෘෘරත්වයට පත්කළ පුද්ගලයෙකු බම්බලපිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සිවුරු පොරවාගත් පුද්ගලයෙකු, කාන්තාවක්, දරුවෙක් හා දැරියක් ගෙයින් ගෙට ගොස් සිඟමන් යදින බවට බම්බලපිටියේ ශාන්ති විහාරයේ වැඩවසන හිමිනමක් විසින් පොලීසියට පැමිණිලි කර ඇත.
+
+ඒ සම්බන්ධයෙන් සිදුකළ විමර්ශනයෙන් අනතුරුව අවුරුදු 38ක් වූ ගලහේනකන්ද, බලංගොඩ ප්‍රදේශයේ පදිංචිකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+ඔහුව අත්අඩංගුවට ගන්නා අවස්ථාවේ දී භික්ෂු හැඳුනුම්පතක් තිබී නොමැති අතර, මොහු නාරම්මල ප්‍රදේශයේ පිරිවෙනක පෙදරේරුවෙකු ලෙස සේවය කර කෙටි කාලයක් විහාරස්ථානයක පැවිදිව සිට ඇති බවත් පසුව එම විහාරස්ථානය හැර ගිය අයෙකු බවටත් අනාවරණය වී තිබේ.
+
+මෙම පුද්ගලයා සමග සිටි වයස අවුරුදු 13ක පිරිමි දරුවා දහ අවුරුදු 14ක ගැහැනු දරුවා ඔහුගේ බවට අනාවරණය වූ තොරතුරු අනුව අනාවරණය වුවත් එම පුද්ගලයා අන් අයෙකු ලෙස පෙනී සිටිමින් දරුවන්ව කෘෘරත්වයට පත්කිරීමේ වරද මත බම්බලපිටිය පොලිසිය විසින් අත්අඩංගුවට ගෙන තිබිණි.
+
+...
+
+[Data](articles/3d4b8913.json)
+
+---
+
+### Sri Lanka micro-finance bill challenged by community organizations
+
+*2024-01-24 14:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-micro-finance-bill-challenged-by-community-organizations-148535/) · `en`
+
+ECONOMYNEXT – A planned bill to regulate micro-finance organizations has been challenged in the Supreme Court by traditional community organizations which provide savings and credit, according to a statement.
+
+The proposed bill  is “intrusive and violate the autonomy of community organisations such as Death Donations and Welfare Societies, Sarvodaya Shramadana Societies and Women’s Organisations engaged in community savings and credit providing activities for generations before modern micro-finance began,” they say.
+
+The community based organizations have also complained that larger finance companies which also provide micro-finance and where concerns have been raised about “predatory lending”, appear to be excluded.
+
+Regulating for the sake of regulating will harm these community-based initiatives and trample on low-income people’s autonomy and traditional rights to organise their credit services, petitioners have said.
+
+...
+
+[Data](articles/28eedd31.json)
+
+---
+
+### ගෞතම් අදානි ට එරෙහිව ගම්මු නැගී සිටිති
+
+*2024-01-24 14:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192510) · `si`
+
+දකුණු ඉන්දීය, තමිල්නාඩු ප්‍රාන්තයේ කට්ටුපල්ලි නම් ගම්මානයේ වෙරළ තීරය ආශ්‍රිතව ව්‍යාප්ත කිරීමට සැලසුම් කර ඇති වරාය ව්‍යාපෘතියකට එරෙහිව මේ වනවිට ගම්වාසීන් විරෝධතා පවත්වයි.
+
+බෙංගාල බොක්ක වෙරළ ආශ්‍රිතව පිහිටා ඇති එම ගම්මානයේ බොහෝදෙනා ධීවරයින් ලෙස සිය ජීවිකාව ගෙනයති.
+
+ඔවුන් පවසන්නේ වරාය තවත් ව්‍යාප්ත කළහොත් සිය ගම්මාන විනාශ වී සිය ජීවන මාර්ග ද අවහිර විය හැකි බවයි.
+
+අක්කර 330ක් පමණ ප්‍රදේශයක් පුරා පැතිර යන මෙම බහුකාර්ය වරාය ඉදිකරන ලද්දේ Larson & Toubro නම් සමාගම විසිනි.
+
+මේ වනවිට එම ව්‍යාපෘතිය තවත් 18 ගුණයකින් වැඩි කිරීමට අදානි පෝට්ස් සමාගම යෝජනා කර ඇති අතර ඔවුන් වෙරළ තීරයේ අක්කර 6,110ක් ලබාගැනීමට සැලසුම් කර තිබේ.
+
+එම ව්‍යාපෘතිය නිමකළ පසු  වාර්ෂිකව හැසිරවිය හැකි බහාලුම් ප්‍රමාණය මෙට්‍රික් ටොන් 24.6 සිට 320ක් දක්වා ඉහළ යයි.
+
+එසේම ප්‍රදේශය පුරා නව දුම්රිය මාර්ග පද්ධති සහ මහමාර්ග පද්ධති නිර්මාණය කෙරෙන බවත් එමගින් වෙළෙඳ සම්බන්ධතා වර්ධනය වෙතැයි අදානි පෝට්ස් සමාගම පවසයි.
+
+නමුත් ධීවර ප්‍රජාව පවසන්නේ මෙම ව්‍යාපෘතිය මගින් මත්ස්‍ය සම්පත විනාශ විය හැකි බවයි.
+
+◼️
+
+[Data](articles/289e1687.json)
+
+---
+
+### தமது சொந்த காணியில் இராணுவம் விவசாயம் செய்வதை வேலியால் பார்க்கும் வட பகுதி மக்கள்  - சாணக்கியன்
+
+*2024-01-24 14:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/174693) · `ta`
+
+தங்களது சொந்த காணியில் இராணுவம் விவசாயம் செய்வதை வேலியால் பார்க்கும் வட பகுதி மக்களின் நிலை யாருக்கும் வரக்கூடாது என  பாராளுமன்ற உறுப்பினர் இராசமாணிக்கம் சாணக்கியன் தெரிவித்துள்ளார்.
+
+இன்றைய பாராளுமன்ற அமர்வில் கேள்விபதிலின் போது  பாதுகாப்பு அமைச்சரிடம் தெரிவித்தபோதே அவர் இதனைக் குறிப்பிட்டுள்ளார்.
+
+வடக்கு, கிழக்கில் இடம்பெற்ற யுத்தம் முடிந்து தற்போது 15 வருடங்கள் முடிவடையப் போகின்றது. 15 வருடங்களுக்குப் பின்னரும் குறிப்பாக இந்த வடக்கு கிழக்கு மாவட்டங்களில் மாத்திரம் இராணுவ முகாம்களை பாதுகாப்பு கருதி வைத்திருக்கின்றோம் எனக் கூறுவதை எங்களால் ஏற்றுக் கொள்ள முடியாது.
+
+குருக்கள் மடம் பாடசாலைக்குரிய மைதானக் காணியானது இராணுவ கட்டுப்பாட்டினுள் இல்லை எனக் கூறினாலும் தற்போது வரை அவ் மைதான காணி இராணுவ கட்டுப்பாட்டிலேயே இருக்கிறது.
+
+மொறக்கொட்டான் சேனையில் இராணுவ முகாம் அமைத்திருக்கும் பாடசாலைக்கு பதிலாக பிறிதொரு பாடசாலையினை அமைத்ததாக கூறியுள்ளீர்கள்.
+
+புதிதாக அமைக்கப்பட்ட பாடசாலை ஒரு ஆற்றோர பிரதேசத்தில் காணப்படுகின்றது. இதனை அக் கிராம பெற்றோர்களோ, பிள்ளைகளோ விரும்பவில்லை.
+
+...
+
+[Data](articles/3d79c83e.json)
+
+---
+
+### අත්හැර දැමූ බීඩි කොළ තොගයක් නාවික හමුදා භාරයට
+
+*2024-01-24 14:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192509) · `si`
+
+කල්පිටිය - මාම්පූරි ප්‍රදේශයට ඔබ්බෙන් වූ මුහුදු ප්‍රදේශයේ දී බීඩි කොළ කිලෝග්‍රෑම් 520කට අධික තොගයක් නාවික හමුදා භාරයට ගෙන තිබේ.
+
+වයඹ නාවික විධානයට අනුයුක්ත වෙරළබඩ මුර යාත්‍රාවක් අදාළ මුහුදු ප්‍රදේශයේ සිදු කළ මුර සංචාරයක දී මෙම බීඩි කොළ තොගය සොයාගත් බව නාවික හමුදාව අවධාරණය කරයි.
+
+එහි දී මුහුදේ පා වෙමින් තිබූ මෙම බීඩි කොළ තොගය නාවික හමුදා භාරයට ගෙන ඇති බව සඳහන්ය.
+
+මෙම තොගය ගොඩබිම‍ට රැගෙන ඒමට නොහැකි ව ජාවාරම්කරුවන් විසින් මුහුදේ අතහැර දමා යන්නට ඇති බවට නාවික හමුදාව සැක පළ කරයි.
+
+◼️
+
+[Data](articles/129d7000.json)
 
 ---
 
@@ -130,6 +302,56 @@ The opposition has pledged to repeal the law if they come to power. (Colombo/Jan
 
 ---
 
+### බෙලිඅත්තේ ඝාතනයට අදාළ සැකකරුවෙකු අත්අඩංගුවට
+
+*2024-01-24 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192508) · `si`
+
+බෙලිඅත්තේ දී පුද්ගලයන් පස් දෙනෙකු ඝාතන සිද්ධියට අදාළ සැකකරුවෙකු සහ අපරාධය සඳහා යොදා ගත් වාහනය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+අපරාධය මෙහෙයවා ඇති සමන් කුමාර නැමැති 54 හැවිරිදි පුද්ගලයෙකු සහ අපරාධය සඳහා පැමිණි අංක 65–2615 දරණ ජීප් රථය මෙසේ පොලීසිය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+අපරාධය සිදු වන අවස්ථාවේ වාහනයේ රියදුරු වශයෙන් සිට ඇත්තේ ද මෙම සැකකරු බව අනාවරණය වී තිබේ.
+
+◼️
+
+[Data](articles/8c1f2256.json)
+
+---
+
+### பெலியத்தவில் ஐவர் கொலை :  மாத்தறையில் ஒருவர் கைது!
+
+*2024-01-24 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/174692) · `ta`
+
+பெலியத்தவில் ஐவர்  கொலை செய்யப்பட்ட சம்பவத்துக்கு  உடந்தையாக இருந்தார் என்ற  சந்தேகத்தில்  ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+மாத்தறையில் வைத்து அவர்  இன்று புதன்கிழமை (24)  கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+கைது செய்யப்பட்டவர், தாக்குதல் நடத்தியவர்கள் பயன்படுத்திய வாகனத்தின் சாரதி எனவும் இவரே  இந்தத்  துப்பாக்கிச் சூட்டு சம்பவத்தை திட்டமிட்டுள்ளதாகவும் சந்தேகிக்கப்படுகிறது.
+
+◼️
+
+[Data](articles/40549ba4.json)
+
+---
+
+### Some of the Anti -Terrorism Bill are contrary to the Constitution: Malcolm Ranjith Petition in High Court!
+
+*2024-01-24 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174673) · `ta`
+
+Colombo Archbishop Malcolm Cardinal has filed a petition in the Supreme Court demanding that some of the Anti -Terrorism Bill presented in Parliament be contrary to the Constitution.
+
+Petitioner Cardinal Medaku has said that the military, police and the Coast Guard have empowered the army, police and the arrest of any person without a legitimate reason.
+
+He pointed out that the fundamental rights, including independence and freedom of expression, have been violated.
+
+◼️
+
+[Data](articles/3026d19a.json)
+
+[Extended Data](ext_articles/3026d19a.ext.json)
+
+---
+
 ### 90 pct of military-held land in Sri Lanka’s east already returned: official
 
 *2024-01-24 13:32:00* · [`economynextcom`](https://economynext.com/90-pct-of-military-held-land-in-sri-lankas-east-already-returned-official-148531/) · `en`
@@ -167,6 +389,22 @@ This would foster a skilled and certified workforce, promote environmental susta
 [Data](articles/f1323e18.json)
 
 [Extended Data](ext_articles/f1323e18.ext.json)
+
+---
+
+### ஐக்கிய தேசியக் கட்சியின் பொதுசெயலாளர் பாலித்த ரங்கே பண்டார கிழக்கிற்கு விஜயம்
+
+*2024-01-24 13:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/174687) · `ta`
+
+ஐக்கிய தேசியக் கட்சியின் பொது செயலாளர் பாலித்த ரங்கே பண்டார கலந்து கொள்ளும் ஐக்கிய தேசியக் கட்சின் செயல்பாட்டாளர்கள் சந்திப்பு கூட்டம் சனிக்கிழமை (27), காலை 9.00 மணிக்கு மட்டக்களப்பு பொது நூலக கேட்போர் கூடமண்டபத்தில் இடம்பெறவுள்ளதாக ஐக்கிய தேசியக் கட்சியின் பட்டிருப்புத் தொகுதி அமைப்பாளர் சிவலிங்கம் சுதர்சனன் தெரிவித்துள்ளார்.
+
+இதில் ஐக்கிய தேசியக் கட்சியின் மட்டக்களப்பு மாவட்டத்தைச் சேர்ந்த அமைப்பாளர்கள், உறுப்பினர்கள். முன்னாள் உள்ளூராட்சி மன்ற உறுப்பினர்கள், பதவி நிலை உறுப்பினர்கள் உள்ளிட்ட பலரும் கலந்து கொள்ளவுள்ளார்கள்.
+
+இதுபோன்று அம்பாறை மற்றும் திருகோணமலை மாவட்டங்களிலும் கட்சியின் செயலாளர் கேற்கும் கூட்டங்கள் ஒழுங்கு செய்யப்பட்டுள்ளன. எதிர்வரும் தேர்தல்களை மையப்படுத்தி அதற்குரிய முன்னாயத்தமான கட்சியின் அமைப்பாளர்கள், உறுப்பினர்களையும், சந்தித்து ஊக்கப்படுத்தும் செயற்பாடுகள் செயலாளரின் தலைமையில் முன்னெடுக்கப்பட்டு வருவதாக அவர் மேலும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/3a2399b0.json)
 
 ---
 
@@ -660,24 +898,6 @@ The International Human Rights Watch said that experts appointed by the Commissi
 
 ---
 
-### Some of the Anti -Terrorism Bill are contrary to the Constitution: Malcolm Ranjith Petition in High Court!
-
-*2024-01-24 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174673) · `ta`
-
-Colombo Archbishop Malcolm Cardinal has filed a petition in the Supreme Court demanding that some of the Anti -Terrorism Bill presented in Parliament be contrary to the Constitution.
-
-Petitioner Cardinal Medaku has said that the military, police and the Coast Guard have empowered the army, police and the arrest of any person without a legitimate reason.
-
-He pointed out that the fundamental rights, including independence and freedom of expression, have been violated.
-
-◼️
-
-[Data](articles/3026d19a.json)
-
-[Extended Data](ext_articles/3026d19a.ext.json)
-
----
-
 ### 91 percent of young children has been given to Smap Vaccine
 
 *2024-01-24 11:32:47* · [`adalk`](https://www.ada.lk/breaking_news/කුඩා-දරුවන්ගෙන්-සියයට-91කට-සරම්ප-එන්නත-ලබාදී-අවසන්/11-407702) · `si`
@@ -819,6 +1039,8 @@ The International Monetary Fund has asked the central bank to be recapitalized i
 “So I think there is no need for us to seek recapitalization at this point.”
 
 Due to converting Treasury bills to bonds, the lower yielding bonds led to a large capital loss at current yields immediately.
+
+RELATED IMF urges recapitalization after Sri Lanka DDR busts central bank finances
 
 The central bank, while losing money on central bank dollar swaps and dollar borrowings, makes cashflow profits on its Treasuries portfolio coupons, though at a lower rate than before restructuring. Foreign assets also bring profits.
 
@@ -1795,245 +2017,5 @@ The price of a kilo of fresh chicken at Handapangoda Farm in Godagama was Rs. 1,
 [Data](articles/ec7e17dd.json)
 
 [Extended Data](ext_articles/ec7e17dd.ext.json)
-
----
-
-### Chinese research vessel: Sri Lanka Says No, Maldives Says Yes
-
-*2024-01-24 08:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chinese-research-vessel-Sri-Lanka-Says-No-Maldives-Says-Yes/108-275617) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - Chinese research and survey vessel Xiang Yang Hong 03 which was barred entry into Sri Lankan waters over a policy decision is now on its way to the Maldives after permission was given by its pro-China President Mohamed Muizzu.
-
-Sri Lanka has announced a moratorium on research activities in its waters for 12 months. The government announced it despite China seeking to send its Xiang Yang Hong 03 for research activities in January. Sri Lanka took such a position over pressure from India against the presence of Chinese research vessels in its territorial waters. Sri Lanka is the closest maritime neighbour of India.
-
-However, the Maldives, under the current leader who is openly toeing a pro-Chinese foreign policy, have defied Indian pressure and allowed the vessel into its waters.
-
-...
-
-[Data](articles/7d628b75.json)
-
-[Extended Data](ext_articles/7d628b75.ext.json)
-
----
-
-### Sagala stated in the price of groceries
-
-*2024-01-24 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192494) · `si`
-
-Presidential Advisor Sagala Ratnayake says that there is no possibility of reducing the price of goods available.
-
-The rupee strengthening is slowly, he should now take steps to increase the income of the people.
-
-"We have at the least we can bring inland prices. Some things grow less like a vegetable. But the lowest cargo price that can bring about foreign exchange has come. Because the ruyal is more stronger than so slow. We have to grow income. Or we must create the income that matches the gross buyers. 10,000 state employees increase this year. But that was not enough with the increased propaganda prices. But what the government can bear this year, he gave this year. The next challenge increases his income. "
-
-Mr. Sagala Ratnayake added that due to the program of the government, the economy is being severely strengthened.
-
-◼️
-
-[Data](articles/e0198ed4.json)
-
-[Extended Data](ext_articles/e0198ed4.ext.json)
-
----
-
-### Petition from Cardinal against anti-terrorism
-
-*2024-01-24 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192493) · `si`
-
-Cardinal Malcolm Ranjith has filed a petition in the Supreme Court demanding the judiciary to decide that the government has presented to Parliament.
-
-The Petitioner Cardinal is said to have been arrested for the army, the police and the Coast Guard for the army, the army, the police and the Coast Guard.
-
-He also shows that personal freedom and commentary of the Constitution is a violation of basic rights, including freedom.
-
-The Cardinal has asked the Supreme Court to give a verdict with two-thirds majority and referendum if it is necessary to pass the provincial draft.
-
-◼️
-
-[Data](articles/1aac769e.json)
-
-[Extended Data](ext_articles/1aac769e.ext.json)
-
----
-
-### Motorists on expressway cautioned over misty conditions
-
-*2024-01-24 07:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96676/motorists-on-expressway-cautioned-over-misty-conditions) · `en`
-
-Police requested motorists using the Southern Expressway to be cautious over misty conditions between Pinnaduwa and Welipenna interchanges.
-
-The Police Spokesman’s Office states that thick misty conditions had been observed between the Welipenna interchange and the Pinnaduwa interchange on the Southern Expressway during the morning over the past couple of days as well as today.
-
-Therefore, motorists passing through that area are advised to remain cautious and avoid traveling at high speeds, police said.
-
-◼️
-
-[Data](articles/1c079b4a.json)
-
-[Extended Data](ext_articles/1c079b4a.ext.json)
-
----
-
-### If you give justice to justice, a bag of money
-
-*2024-01-24 07:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192492) · `si`
-
-Police have decided to provide a cash prize to the people who provide information to obtain illegal firearms and bombs.
-
-The unit operation commenced on December 17, last year has been successfully taken to provide these cash prizes to the spies that provide information.
-
-Acting IGP Deshabandu Tennakoon has instructed all senior DIGs, DIGs, officer and directors.
-
-Such information protects the confidentiality of individuals who provide such information and will be given the following cash prizes.
-
-◼️
-
-[Data](articles/2211f20f.json)
-
-[Extended Data](ext_articles/2211f20f.ext.json)
-
----
-
-### Court order issued over SYU protest planned near Parliament
-
-*2024-01-24 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96675/court-order-issued-over-syu-protest-planned-near-parliament) · `en`
-
-The Colombo Chief Magistrate’s Court has issued an order in connection with a protest organized today (24) by the national organiser of the Socialist Youth Union (SYU), Eranga Gunasekara and a group of protesters.
-
-The court has issued the order following a request made by the OIC of Welikada Police based on the information received that the protest march is planned to be held by blocking the main entry road of the Parliament from Polduwa Roundabout and along the Parliament Road, and preventing access to the Parliament.
-
-Accordingly, the court order states that the protesters should not to block any road and cause any inconvenience to the general public and pedestrians using the road or act in a violent manner, and to conduct the relevant agitation in a manner that does not violate the parliamentary privileges of the public representatives and obstructs the duties of public officials on duty and does not obstruct any person.
-
-...
-
-[Data](articles/9ee61b26.json)
-
-[Extended Data](ext_articles/9ee61b26.ext.json)
-
----
-
-### A heavy fog on the unison highway
-
-*2024-01-24 07:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192491) · `si`
-
-Police announced that there is a heavy mist in the Southern Expressway.
-
-As a result of this, the police are informed to drive a search for drivers along the Welipenna access to the Welipenna entrance and the Pinnaduwa entrance.
-
-Police also call on drivers not running traffic in high speed.
-
-◼️
-
-[Data](articles/b7b4ba54.json)
-
-[Extended Data](ext_articles/b7b4ba54.ext.json)
-
----
-
-### The Asian Internet Federation rejected what Tran Ales said in parliament
-
-*2024-01-24 07:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174653) · `ta`
-
-The Minister of Public Security, Tran Alus, has rejected the comments on the debate on the Defense Act in Parliament and said that the Asian Internet Federation's Federation of Security Bill could not be carried out in its current form and would affect the development of Sri Lanka's digital economy and foreign investment.
-
-The Asian Internet Federation is the organization that includes the world's most strong Internet technology companies.
-
-The organization is seeking to find solutions to the Internet -related issues in the Asian region.
-
-The Asian web site represents many companies, including Google Twitter.
-
-"We would like to reject and respond to the comments made by the Minister of Public Security on the Ceylon Protection Bill," said Jevbain, Managing Director of the Asian Internet Federation.
-
-...
-
-[Data](articles/37496c9e.json)
-
-[Extended Data](ext_articles/37496c9e.ext.json)
-
----
-
-### Asia’s leading tech alliance refutes Minister’s comments in Parliament
-
-*2024-01-24 07:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Asias-leading-tech-alliance-refutes-Ministers-comments-in-Parliament/108-275615) · `en`
-
-Colombo, Jan  24 (Daily Mirror) - The Asia Internet Coalition (AIC) refuted comments made by Public Security Minister Tiran Alles in Parliament on Tuesday, during the debate of the controversial Online Safety Bill, stressing that the alliance has not been privy to amendments made to the Bill.
-
-AIC, an industry association, comprising leading internet and technology companies such as Meta, Google, Apple and Amazon said that certain assertions made by Public Security Minister Alles do not accurately reflect the developments in drafting the controversial new legislation.
-
-...
-
-[Data](articles/d892e316.json)
-
-[Extended Data](ext_articles/d892e316.ext.json)
-
----
-
-### Court orders a group of protesters
-
-*2024-01-24 07:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192490) · `si`
-
-The Colombo Chief Magistrate's Court has issued an order to the National Organizer of the Socialist Youth Union (Socialist Youth Union) anti-government protest with a protest held today (24).
-
-The court has issued the court on a request received by the OIC that the parliamentary gate is to block the parliamentary gate and blocking the parliamentary path to the Welikada Police.
-
-Accordingly, no roads should be taken to prevent any roads to prevent the parliamentary privileges and duties in the public officials of public officials, violently, to prevent the parliamentary privileges of the parliamentary privileges and duties.Have been informed.
-
-If not obligation, the court ordered that the residents should be dissolved by the respondents.
-
-If the command is violating the Sri Lankan police should take immediate action to strengthen peace.
-
-◼️
-
-[Data](articles/d0882c7c.json)
-
-[Extended Data](ext_articles/d0882c7c.ext.json)
-
----
-
-### Sri Lanka inflation to top 6.0-pct in early 2023: CB Governor
-
-*2024-01-24 07:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-to-top-6-0-pct-in-early-2023-cb-governor-148492/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s inflation will top 6.0 percent in January and February 2024, partly due to the imposition of value added tax, but ease later, Central Bank Governor Nandalal Weerasinghe said.
-
-The central bank had under an agreement signed with President Ranil Wickremesinghe which allows the agency to generate up too 7 percent inflation.
-
-“In the first couple of months there will be a some increase just above the middle path, may be 6.0 percent,” Governor Weerasinghe said.
-
-“Probably in the month of January and February it will remain. We have a projection that it will remain around high levels for some time and then it will come down back to 5 percent in the medium term.”
-
-A hike in value added tax will contribute to the rise in the index in early 2024, as well as a statistical base effect, he said.
-
-Sri Lanka’s vegetable prices have also spiked in recent weeks amid excessive rains.
-
-...
-
-[Data](articles/4a122d4f.json)
-
-[Extended Data](ext_articles/4a122d4f.ext.json)
-
----
-
-### The Court of Supreme Court order the Supreme Court over the disappearance of a person's hospital bed
-
-*2024-01-24 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192489) · `si`
-
-The Supreme Court has ordered the director of the Mulleriyawa Hospital.
-
-The order was made by a fundamental rights petition, accusing a fundamental rights petition filed by a businessman who was arrested and inhuman harassment was held without any reasonable reason.
-
-The petition was summoned before the Supreme Court Judge Bench comprised of Yasantha Kodagoda, Kumuduni Wickremasinghe and Priyantha Fernando.
-
-The court ordered to be summoned on March 22 to reconside the petition.
-
-The petitioner has said that he was traveling from a motorcycle in Kiriella on October 30, 2021 while a group of Kiriella Police officials were taken to Kiriella police and later sexually released.
-
-The petitioner has presented the petition, demanding legal action against the officials and other officials who are responsible for the incident.
-
-◼️
-
-[Data](articles/9eb14785.json)
-
-[Extended Data](ext_articles/9eb14785.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 01:17:17**
+As of **2024-01-25 01:33:04**
 
 ## Newspaper Stats
 
-*Scraped **2,452** Articles*
+*Scraped **2,453** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 186
 adaderanasinhalalk | 188
 adalk | 241
 virakesarilk | 276
-tamilmirrorlk | 304
+tamilmirrorlk | 305
 adaderanalk | 308
 dailymirrorlk | 327
 
@@ -26,11 +26,27 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,452 (100.0%) of 2,452 articles have been extended.
+2,452 (100.0%) of 2,453 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### ’நான்காவது தூணை அடக்கும் சட்டம்’
+
+*2024-01-25 00:25:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்காவது-தூணை-அடக்கும்-சட்டம்/175-332083) · `ta`
+
+மக்களின் கருத்துச் சுதந்திரத்தை கல்லறையில் வைக்கும் வகையிலேயே நிகழ்நிலை காப்புச் சட்டம் அமையும் என்று தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் கோவிந்தம் கருணாகரம் தெரிவித்தார்.
+
+பாராளுமன்றத்தில்  புதன்கிழமை (24) நடைபெற்ற நிகழ்நிலை காப்புச் சட்டம் மீதான இரண்டாம் நாள் விவாதத்தில் உரையாற்றும் போதே அவர் இவ்வாறு கூறினார்.
+
+இந்த நிகழ்நிலை காப்பு சட்டமானது ஜனநாயகத்தின் தூண்களில் நான்காவது தூணான ஊடகத்தை அடக்குவதற்கான சட்டமா? இல்லையென்றால் நல்லமுறையில் ஊடகத்தை வளப்படுத்துவதற்கான சட்டமா என்பதனை பொறுத்திருந்தே பார்க்க வேண்டும். இந்த சட்டமூலம் இன்றைய காலகட்டத்தில் எதற்காக கொண்டுவருகின்றது என்ற கேள்விகள் அனைவரிடத்திலும் உள்ளது. அரசியலமைப்பில் போதுமான உரிமைகள் வழங்கப்பட்டுள்ளது. அவ்வாறான அரசியலமைப்பை பேணிப் பாதுகாக்க வேண்டியவர்களே அரசியலமைப்பை மீறும் செயலாகவே இதனை பார்க்கின்றேன்.
+
+...
+
+[Data](articles/6c7a3435.json)
+
+---
 
 ### Looking at Sri Lankan Independence through the eyes of Singapore
 
@@ -1983,25 +1999,5 @@ This achievement is particularly a significant milestone in the annals of milita
 [Data](articles/8e9cb455.json)
 
 [Extended Data](ext_articles/8e9cb455.ext.json)
-
----
-
-### Attraction Struggle in Jaffna
-
-*2024-01-24 15:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/174698) · `ta`
-
-A protest campaign was launched in Jaffna today (24) against the Celebration Bill.
-
-Jaffna in front of Jaffna bus station. The struggle took place in the arrangement of the Christian Union.
-
-The protesters have been urged by the protesters, such as not to threaten democracy, restore the real status law and the restoration of the media.
-
-It is noteworthy that the Ceremony Backup Bill was presented to Parliament on Tuesday.
-
-◼️
-
-[Data](articles/b25bf518.json)
-
-[Extended Data](ext_articles/b25bf518.ext.json)
 
 ---

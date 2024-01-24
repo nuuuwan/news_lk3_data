@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 20:51:23**
+As of **2024-01-24 21:02:30**
 
 ## Newspaper Stats
 
-*Scraped **2,412** Articles*
+*Scraped **2,413** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,8 +14,8 @@ dbsjeyarajcom | 122
 islandlk | 133
 newsfirstlk | 135
 economynextcom | 144
-adaderanasinhalalk | 181
 dailyftlk | 181
+adaderanasinhalalk | 182
 adalk | 240
 virakesarilk | 275
 tamilmirrorlk | 299
@@ -26,33 +26,67 @@ dailymirrorlk | 317
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,405 (99.7%) of 2,412 articles have been extended.
+2,413 (100.0%) of 2,413 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### බෙලිඅත්තේ වෙඩිතැබීම ගැන තවත් තොරතුරු
+### Sri Lanka Youth squad by 77 runs
+
+*2024-01-24 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192526) · `si`
+
+Sri Lanka Youth Group won the second match of the Under-19 World Cup in South Africa.
+
+Namibia Leader won the toss and invited the Sri Lanka Youth group to bat first.
+
+Accordingly, the Sri Lankan youth group was able to score only 37 overs and at last five overs and at the end of 5 balls.
+
+The highest scorer of Sri Lankan innings received unbeaten on 56 not out.
+
+A strong challenge for the Sri Lanka Youth group took four wickets.
+
+In reply, Namibia Youth team was able to score only 56 runs in 27 overs.
+
+The Namibia is also not allowed to allow any batsmen except for a batsman.
+
+Ravishan Perera was divided into three wickets and two wickets among the winter and universities.
+
+◼️
+
+[Data](articles/0630889f.json)
+
+[Extended Data](ext_articles/0630889f.ext.json)
+
+---
+
+### More information about the shooting of Beliatta
 
 *2024-01-24 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192525) · `si`
 
-බෙලිඅත්තේ පංච පුද්ගල ඝාතනය මෙහෙයවූ බව කියන සහ ප්‍රහාරය සඳහා පැමිණි පෙජෙරෝ රථය පැදවූ පුද්ගලයා අද (24) පෙරවරුවේ පොලීසිය විසින් අත්අඩංගුවට ගනු ලැබිණි.
+The man who was led by the Beliatta killing and riding the Pajro vehicle for the attack was arrested by the police this morning.
 
-ඝාතනය සඳහා සිව් දෙනෙකුගෙන් යුත් කණ්ඩායමක් පැමිණි බවත් ඩුබායිහී සිට ලැබුණු කොන්ත්‍රාත්තුවක් මත මෙම ඝාතනය සිදු කළ බවත් සැකකරු ප්‍රශ්න කිරීම් හමුවේ අනාවරණ කර තිබේ.
+The suspect has revealed in the face of interrogation that a group of four people had arrived in the murder.
 
-බෙලිඅත්ත ප්‍රදේශයේ දී සිදු වූ පංච පුද්ගල ඝාතන සිද්ධිය සම්බන්ධයෙන් සමන් කුමාර නමැති 55 හැවිරිදි අයෙක් අකුරැස්ස, බංගම ප්‍රදේශයේ දී අද පෙරවරුවේ අත්අඩංගුවට ගැනිණි.
+Saman Kumara was arrested in the Bangawa, Akuressa this morning regarding the five-person murder case in Beliatta.
 
-ඒ, මාතර කොට්ඨාසය භාර ජ්‍යෙෂ්ඨ පොලිස් අධිකාරී පණ්ඩුල වීරසිංහ මහතාගේ අධීක්ෂණය යටතේ හක්මන පොලිසියේ නිලධාරීන් කණ්ඩායමක් විසිනි.
+A team of Hakmana police officers under the supervision of the Senior Superintendent of Police in charge of the Matara Division.
 
-සැකකරු තම නිවසේ සැඟවී සිටිය දී අත්අඩංගුවට ගෙන ඇති බව වාර්තා වේ.
+It is reported that the suspect had been arrested while hiding in his house.
 
-සැකකරු මෙම අපරාධය සැලසුම් කර ඇති අතර, ඝාතකයන් පැමිණි පෙජෙරෝ රථයේ රියදුරු වශයෙන් ද කටයුතු කර ඇත්තේ ඔහු බවට අනාවරණය වී ඇත.
+The suspect has also planned this crime and has also been identified as the driver of the piorirera.
 
-ඩුබායිහි සිට ලැබුණු කොන්ත්‍රාත්තුවක් මත මෙම ඝාතනය සැලසුම් කළ බවත් ඝාතනය සඳහා තවත් පුද්ගලයින් තිදෙනෙකු එක්වූ බවත් සැකකරු පොලීසිය හමුවේ පාපොච්චාරණය කර තිබේ.
+The suspect had confessed to the police and three other persons had joined the assassination of a contract received from Dubai.
+
+The police said that the manning suspect, including murders, have been jailed for over 15 years of crimes.
+
+The suspect engaged in criminal activities is to be detained and questioned.
 
 ...
 
 [Data](articles/7e8c76e3.json)
+
+[Extended Data](ext_articles/7e8c76e3.ext.json)
 
 ---
 
@@ -78,19 +112,27 @@ Police have uncovered that the suspected Iranian had distributed the drugs throu
 
 ---
 
-### நான் இலங்கை பிரஜை, எனக்கு இரட்டை குடியுரிமை இல்லை - நயன வாசலதிலக்க
+### I am a Sri Lankan citizen, I have no dual citizenship - Nayana Vasalathilaka
 
 *2024-01-24 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174741) · `ta`
 
-நான் இலங்கை பிரஜை இரட்டை குடியுரிமை ஏதும் இல்லை. இலங்கை வெளிநாட்டு கடவுச்சீட்டே என்னிடம் உள்ளது.மக்கள் பிரதிநிதிகள் பாராளுமன்ற சிறப்புரிமைகளை பயன்படுத்திக் கொண்டு பொய்யுரைப்பதை தவிர்த்துக் கொள்ள வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் நயன வாசலதிலக்க தனது கன்னி உரையில் குறிப்பிட்டார்.
+I have no dual citizenship of Sri Lankan citizen. In his speech, United People's Power MP Nayana Vasalathilaka said in his speech that I have a foreign passport.
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) இடம்பெற்ற  உத்தேச நிகழ்நிலை காப்புச் சட்டமூலம்  மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at a debate on the proposed backup Bill on Wednesday (24) in Parliament.
 
-எனது பெற்றோர் அரச சேவையாளர்கள் எமது குடும்ப பின்னணி தொடர்பில் கடந்த காலங்களில் பல விடயங்கள் குறிப்பிடப்பட்டன. கடுமையான உழைப்புக்கு மத்தியில் நாங்கள் முன்னேற்றமடைந்தோம்.உயர் கல்விக்காக நான் சுவிஸ்லாந்து நாட்டுக்கு சென்றேன்.அதனை தொடர்ந்து அவுஸ்ரேலியாவுக்கு சென்று தொழிற்றுறை நடவடிக்கைகளில் ஈடுபட்டேன்.
+My Parents Public Service has been mentioned in many things in the past regarding our family background. I went to Switzerland for High Education amidst hard work.
 
-...
+In 2019, I joined the Opposition Leader and contested political activities in 2020 and thanked the people of Badulla district who did not vote in favor of me.
+
+Even though I live in Australia, I have a lot of fabric on Sri Lanka. I am not a dual citizenship. Sri Lanka has a foreign passport.
+
+People's representatives should avoid lying and lied to the parliamentary privilege.
+
+◼️
 
 [Data](articles/7dd4cd5a.json)
+
+[Extended Data](ext_articles/7dd4cd5a.ext.json)
 
 ---
 
@@ -116,39 +158,45 @@ Investigations carried out by the police have revealed that several Buddhist mon
 
 ---
 
-### பொது இணைக்கப்பாட்டுடனான திட்டங்களை நடைமுறைப்படுத்துவதற்கு  எம்பிக்களுக்கு எந்தவித தடையும் கிடையாது!! -இராஜாங்க அமைச்சர் செஹான் சேமசிங்க
+### There is no restriction on the MPs to implement projects with public connectivity !!-Minister of State
 
 *2024-01-24 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/174742) · `ta`
 
-பாராளுமன்ற உறுப்பினர்கள் 225 பேரும் தமக்கு ஒதுக்கப்படும் நிதியில் தமது யோசனையின் கீழான திட்டங்களை நடைமுறைப்படுத்துவதில் எந்த தடையும் கிடையாது. மாவட்ட, பிரதேச அபிவிருத்தி குழு மற்றும் கிராம மட்டத்தில் இடம்பெறும் கூட்டங்களில் இணைந்து பொது இணக்கப்பாட்டுடனான யோசனைத் திட்டங்களை நடைமுறைப்படுத்துவதற்கான உரிமை அனைத்து பாராளுமன்ற உறுப்பினர்களுக்கும் உள்ளது என நிதி இராஜாங்க அமைச்சர் செஹான் சேமசிங்க தெரிவித்தார்.
+There is no restriction on implementing the plans under their ideas in the funds allocated to 225 MPs. Finance Minister Xihan Semasinghe said that all parliamentarians have the right to implement public compliance with the District, Divisional Development Committee and the village level meetings.
 
-பாராளுமன்றத்தில் இன்று  (24) தயாசிறி ஜயசேகர எழுப்பிய கேள்விக்கு பதிலளிக்கும் போதே இவ்வாறு தெரிவித்தார்.
+In response to a question raised by Dayasiri Jayasekara in Parliament today (24).
 
-வரவு - செலவுத் திட்டத்தினை எதிர்த்த குழுவினர் அதன் நன்மைகளை பெற்றுக் கொள்ளும் நிலை ஏற்பட்டுள்ள போது பலாத்காரமாக அதன் பங்காளிகளாகி யுள்ளதுடன் அவர்கள் வரவு செலவு திட்டத்தை எதிர்த்தாலும் மக்கள் பிரதிநிதிகளாக குழுக்களில் கலந்து கொண்டு மக்கள் இணக்கப்பாட்டுடன் யோசனைகளை நடைமுறைப்படுத்துவதற்கு எந்த தடையும் கிடையாது.
+When the group that opposes the budget is to get its benefits, there is no obstacle for the implementation of the ideas of the people as the representatives of the people, even if they oppose the budget, even if they oppose their budget.
 
-நாட்டின் பொருளாதாரத்தை கட்டியெழுப்புவதில் நிதியமைச்சின் செயலாளர் மஹிந்த சிறிவர்தனவின் ஒத்துழைப்பை குறைவாக மதிப்பிட முடியாது.
+The cooperation of the Finance Ministry Secretary Mahinda Siriwardena in building the country's economy cannot be underestimated.
+
+After several years of the development of the district development activities, 10 billion rupees has been allocated for the development of the regional development and a further Rs.
 
 ...
 
 [Data](articles/a54cf8fa.json)
 
+[Extended Data](ext_articles/a54cf8fa.ext.json)
+
 ---
 
-### இலங்கை தேசிய வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவிற்கு ரோட்டரி கழகம்  35 மில்லியன் பெறுமதியான உபகரணங்களை வழங்கியது!
+### Rotary Corporation has provided 35 million equipment to the Emergency Department of the Sri Lanka National Hospital!
 
 *2024-01-24 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174743) · `ta`
 
-இலங்கை தேசிய வைத்தியசாலையின்  அவசர சிகிச்சைப் பிரிவிற்காக ரூபா 35 மில்லியன் பெறுமதியான முக்கியமான பராமரிப்பு உபகரணங்களை ரோட்டரி கழகம் கையளித்துள்ளது.
+The Rotary Corporation has handed over important maintenance equipment worth Rs 35 million for the emergency department of the Sri Lanka National Hospital.
 
-இந்நிகழ்வு இன்று 24) காலை கொழும்பு தேசிய வைத்தியசாலை அவசர சிகிச்சை பிரிவில் நடைபெற்றது.
+The event was held this morning at the Colombo National Hospital Emergency Unit.
 
-இந்த திட்டத்தை மேற்கு கொழும்பு ரோட்டரி கிளப், ஜப்பானின் தெற்கு ஹமாமட்சு ரோட்டரி கிளப் மற்றும் ரோட்டரி மாவட்டங்கள் 3220 மற்றும் 2620 உடன் இணைந்து ரோட்டரி இன்டர்நேஷனல் அறக்கட்டளையின் மானியத்துடன் மேற்கொண்டது.
+The project was carried out by the Rotary International Foundation in conjunction with 3220 and 2620 districts of the Rotary Club of West Colombo, Japan's South Hamamchu Rotary Club and Rotary Districts.
 
-ரொட்டரி இன்டர்நெஷனல் தலைவர் கார்டன் ஆர். மெக்னலி மற்றும் சுகாதார அமைச்சின் சிரேஷ்ட அதிகாரிகளுடன், செயலாளர் மற்றும் இயக்குநர் ஜெனரல் மற்றும் உறுப்பினர்கள் ஆகியோர் முன்னிலையில் இவை கையளிக்கப்பட்டன.. ஜப்பானின் மாவட்ட ஆளுநர்கள் - மாவட்டம் 2620 மற்றும் இலங்கை - மாவட்டம் 3220 மற்றும் ஜப்பானின் ஹமாமட்சு தெற்கு ரோட்டரி கிளப் மற்றும் மேற்கு கொழும்பு ரோட்டரி கிளப் ஆகியவற்றின் தலைவர்கள் உட்பட பலரும் இதில் கலந்து கொண்டனர்.
+Rotary International President Garden R. These were handed over to the Senior Officials of the Ministry of Health and the Secretary General and the Director General and the members of the Ministry of Health.. Japan's District Governors - District 2620 and Sri Lanka -District 3220 and Japan's Hamamatsu South Rotary Club and West Colombo Rotary Club and many others participated.
 
 ◼️
 
 [Data](articles/95a8eaa1.json)
+
+[Extended Data](ext_articles/95a8eaa1.ext.json)
 
 ---
 
@@ -402,19 +450,21 @@ Accordingly, the retail price of an egg will be Rs. 54.55, the association presi
 
 ---
 
-### 20 ஆவது திருத்தத்துக்கு நேர்ந்த கதியே நிகழ்நிலை காப்புச்சட்டமூலத்துக்கு நேரிடும் - கிரியெல்ல சாடல்
+### The fate of the 20th Amendment will lead to the Funeral Backup - Kiriella Sadal
 
 *2024-01-24 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174712) · `ta`
 
-மனித உரிமைகள் மற்றும் ஜனநாயகம்  என்பனவற்றில் சிங்கப்பூர் முன்னேற்ற நிலையில் இல்லை. ஆகவே சிங்கப்பூர் நாட்டின் மாதிரியிலான வகையில் நிகழ்நிலை காப்புச் சட்டமூலம் தயாரிக்கப்பட்டுள்ளதாக குறிப்பிடுவதை ஏற்றுக்கொள்ள முடியாது.
+Singapore is not in progress in human rights and democracy. Therefore, it is not acceptable to mention the fact that the Ceremony Bill was prepared in the country of Singapore.
 
-20 ஆவது திருத்தச்சட்டத்துக்கு நேர்ந்த கதியே நிகழ்நிலை காப்புச் சட்டமூலத்துக்கும் நேரிடும். அரசாங்கத்துக்கு எதிரான கருத்தை குறிப்பிடும் சகலரையும் பயங்கரவாதிகள் என்றும் சித்தரிக்கும் நிலைப்பாட்டில் இருந்துக் கொண்டு அரசாங்கம் செயற்படுகிறது என எதிர்க்கட்சிகளின் பிரதம கொறடாவான லக்ஷ்மன் கிரியெல்ல தெரிவித்தார்.
+The fate of the 20th Amendment will also occur to the Funeral Backup Bill. Lakshman Kiriella, the prime minister of the opposition parties, said that the government is acting in a position to portray all those who refer to the anti -government opinion as terrorists.
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) இடம்பெற்ற உத்தேச நிகழ்நிலை காப்புச் சட்டமூலத்தின் இரண்டாம் வாசிப்பு மீதான விவாதத்தில் உரையாற்றுகையில் மேற்கண்டவாறு குறிப்பிட்டார்.
+He was speaking at the debate on the second reading of the proposed backup Bill on Wednesday (24) in Parliament.
 
 ◼️
 
 [Data](articles/359ade09.json)
+
+[Extended Data](ext_articles/359ade09.ext.json)
 
 ---
 
@@ -1031,6 +1081,8 @@ Russian presidential spokesman Dmitry Peskov said the Kremlin was aware of the c
 ◼️
 
 [Data](articles/e4e85c85.json)
+
+[Extended Data](ext_articles/e4e85c85.ext.json)
 
 ---
 
@@ -1987,25 +2039,5 @@ Responding to a question raised by opposition Tamil National Alliance (TNA) parl
 [Data](articles/a0e7580b.json)
 
 [Extended Data](ext_articles/a0e7580b.ext.json)
-
----
-
-### Sri Lanka to certify, regulate RAC and MAC technicians
-
-*2024-01-24 13:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-certify-regulate-rac-and-mac-technicians-148520/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Environment Ministry plans to establish a licensing system for refrigeration, air conditioning (RAC) and mobile air conditioning (MAC) technicians and to provide national vocational qualification for them.
-
-Sri Lanka hoped to regulate “the technicians in the informal sector and introduce national vocational qualification and a license,” Apsara Mendis, Director Air Management and Ozone Unit of Ministry of Environment said.
-
-“We will join with the Engineering Council of Sri Lanka (ECSL), and give licenses and we will bring a law saying that without the license, you can’t work with air conditioners and refrigerators.”
-
-This would foster a skilled and certified workforce, promote environmental sustainability, and safeguard public well-being, Mendis said at the signing of an agreement with the Public Utilities Commission of Sri Lanka (PUCSL), on Tuesday (23).
-
-...
-
-[Data](articles/f1323e18.json)
-
-[Extended Data](ext_articles/f1323e18.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 06:57:50**
+As of **2024-01-24 07:20:44**
 
 ## Newspaper Stats
 
-*Scraped **2,180** Articles*
+*Scraped **2,182** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 122
 islandlk | 123
 newsfirstlk | 124
 economynextcom | 132
-adaderanasinhalalk | 144
+adaderanasinhalalk | 146
 dailyftlk | 176
 adalk | 222
 virakesarilk | 238
@@ -26,11 +26,45 @@ dailymirrorlk | 276
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,180 (100.0%) of 2,180 articles have been extended.
+2,180 (99.9%) of 2,182 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### පුද්ගලයෙකුගේ රෝහල් ඇඳ ඉහපත් වාර්තාව අතුරුදන්වීම ගැන ශ්‍රේෂ්ඨාධිකරණයෙන් දුන් නියෝගය
+
+*2024-01-24 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192489) · `si`
+
+අමානුෂික ලෙස පහරදීමේ සිද්ධියක් සම්බන්ධයෙන් ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්‌පති රන්මල් කොඩිතුවක්කු මහතාට එරෙහිව මූලික අයිතිවාසිකම් පෙත්සමක් ගොනුකළ පුද්ගලයා රෝහල්ගතව ප්‍රතිකාර ලැබූ අවස්ථාවේ දී ඊට අදාළ "රෝහල් ඇඳ ඉහපත් වාර්තා" අතුරුදන් වී ඇතැයි කියන සිද්ධිය පිළිබඳව සොයා බලා වාර්තාවක් ඉදිරිපත් කරන ලෙසෙ ශ්‍රේෂ්ඨාධිකරණය විසින් මුල්ලේරියාව රෝහලේ අධ්‍යක්ෂවරයාට නියෝග කර තිබේ.
+
+කිසිදු සාධාරණ හේතුවක් නොමැතිව තමන්ව අත්අඩංගුවට ගෙන අමානුෂික ලෙස පහරදී ලිංගික හිරිහැරයන්ට භාජනය කළේ යැයි චෝදනා කරමින් ව්‍යපාරිකයකු වන මිශාර රණසිංහ නමැත්තකු විසින් ඉදිරිපත් කළ මූලික අයිතිවාසිකම් පෙත්සමක් කැඳවනු ලැබූ අවස්ථාවේදී මෙම නියෝගය නිකුත් කළ බව "අද දෙරණ" අධිකරණ වාර්තාකරු සඳහන් ක‍ළේය.
+
+යසන්ත කෝදාගොඩ, කුමුදුනී වික්‍රමසිංහ සහ ප්‍රියන්ත ප්‍රනාන්දු යන මහත්ම මහත්මීන්ගෙන් සමන්විත ත්‍රිපුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ මෙම පෙත්සම කැඳවනු ලැබීය.
+
+පෙත්සම යළි සලකා බැලීම සඳහා මාර්තු මස 22 වනදා කැඳවන ලෙස අධිකරණය නියෝග කළේය.
+
+...
+
+[Data](articles/9eb14785.json)
+
+---
+
+### අදත් අව්ව සැරයි
+
+*2024-01-24 06:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192487) · `si`
+
+දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතිනු ඇති බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+හිමිදිරි උදෑසන කාලයේදී නුවරඑළිය දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මල්තුහින ඇතිවීමේ හැකියාවක් පවතී.
+
+සබරගමුව, මධ්‍යම, බස්නාහිර සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+◼️
+
+[Data](articles/12e77fed.json)
+
+---
 
 ### Global fund management firm TIW Capital CEO visits BOI
 
@@ -2015,39 +2049,5 @@ The concerned SI and a Police Constable had then chased down the lorry and pulle
 [Data](articles/eb94da74.json)
 
 [Extended Data](ext_articles/eb94da74.ext.json)
-
----
-
-### Six Indian fishermen arrested for poaching in Sri Lankan waters
-
-*2024-01-23 14:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96658/six-indian-fishermen-arrested-for-poaching-in-sri-lankan-waters-) · `en`
-
-Six Indian nationals, together with two fishing trawlers, have been taken into custody by the Sri Lanka Navy for poaching in local water north of Delft Islands, Jaffna.
-
-The apprehension took place during a special operation conducted on Monday night (22 Jan.), in a bid to chase away foreign fishing vessels poaching in Sri Lankan waters.
-
-Accordingly, the arrested Indian nationals, and their trawlers, were brought to the Kankasanthurai Harbour, and are due to be handed over to Mailadi Fisheries Inspector for onward legal action, the Navy reported.
-
-◼️
-
-[Data](articles/89d77746.json)
-
-[Extended Data](ext_articles/89d77746.ext.json)
-
----
-
-### Over another 16,000. 2000 allowance
-
-*2024-01-23 14:18:36* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-16000කට-රු--2000ක-දීමනාවක්/11-407688) · `si`
-
-The government has decided to pay 16,146 institutional persons to receive a 2,146 institutional persons to benefit from the Samurdhi program.
-
-Accordingly, the allowance will be available for persons with special needs, children, adult homes, who are working in Pirivenas.
-
-◼️
-
-[Data](articles/cd2e2315.json)
-
-[Extended Data](ext_articles/cd2e2315.ext.json)
 
 ---

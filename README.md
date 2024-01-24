@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 21:17:24**
+As of **2024-01-24 21:33:17**
 
 ## Newspaper Stats
 
-*Scraped **2,413** Articles*
+*Scraped **2,420** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,102 @@ islandlk | 133
 newsfirstlk | 135
 economynextcom | 144
 dailyftlk | 181
-adaderanasinhalalk | 182
+adaderanasinhalalk | 184
 adalk | 240
-virakesarilk | 275
-tamilmirrorlk | 299
+virakesarilk | 276
+tamilmirrorlk | 301
 adaderanalk | 305
-dailymirrorlk | 317
+dailymirrorlk | 319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,413 (100.0%) of 2,413 articles have been extended.
+2,413 (99.7%) of 2,420 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Dozens dead after fire breaks out in China shop
+
+*2024-01-24 20:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Dozens-dead-after-fire-breaks-out-in-China-shop/107-275669) · `en`
+
+Xinyu, Jan 24 (BBC) - At least 39 people have been killed and nine injured in a fire that started in the basement of a shop in the Chinese city of Xinyu.
+
+State media said the fire started on Wednesday afternoon local time in the city in Jiangxi province.
+
+Footage from state-backed Global Times showed smoke billowing from buildings and people jumping from windows. The video has not been verified by the BBC.
+
+President Xi Jinping has called for an investigation into the blaze.
+
+He also demanded the "resolute containment" of similar deadly incidents in the country.
+
+Wednesday's fire comes days after 13 children died when a fire broke out in a school dormitory in the central Henan province. Seven members of staff were later arrested by police.
+
+In November, 26 people died and dozens were sent to hospital after a fire at a coal company office in northern China's Shanxi province.
+
+...
+
+[Data](articles/0c76bf94.json)
+
+---
+
+### ’’There was no gold-plated camel at daughter’s house’’: Maithri
+
+*2024-01-24 20:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/There-was-no-gold-plated-camel-at-daughters-house-Maithri/108-275670) · `en`
+
+Parliament, Jan. 24 (Daily Mirror)- Refuting reports that there was a gold-plated camel in his daughter's house, former President Maithripala Sirisena told Parliament that only a personal gift given by the Emir of Qatar was kept at the said residence.
+
+“The official gift I received from the Emir of Qatar is kept in the museum at Polonnaruwa. Some of my staff members including security personnel received wrist watches worth more than Rupees one million from the Emir. I also got a personal gift and I kept it at my daughter’s house,” MP Sirisena said.
+
+“ A person who reads newspapers reports on a national TV station commented on the media reports of the robbery at my daughter’s residence in an unfounded manner and questioned as to why I kept the official gift which I have received at my daughter’s residence,” he said.
+
+He said robbers had only taken some food stuff from his daughter’s house although it was sensationalized by the media,
+
+...
+
+[Data](articles/7896aa25.json)
+
+---
+
+### පොලිස් නිලධාරියෙක් රිය අනතුරකින් මරුට
+
+*2024-01-24 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192528) · `si`
+
+මෙලෙස මියගොස් ඇත්තේ 22 හැවිරිදි කතරගම පොලීසියට අනුයුක්තව සේවය කළ පොලිස් කොස්තාපල්වරයෙකි.
+
+අද (24) දහවල් තිස්සමහාරාම කතරගම මාර්ගයේ පුංචි අකුරුගොඩ ප්‍රදේශයේදී තිස්සමහාරාම දෙස සිට කතරගම දෙසට පෞද්ගලික බස් රථයක් ධාවනය වී තිබුණි.
+
+බස් රථය මාර්ගයේ ද්විත්ව රේඛා නීති උල්ලංඝනය කරමින් එම දෙසටම ධාවනය වූ අත්ට්‍රැක්ටරයක් ඉස්සර කිරීමේදී ප්‍රතිවිරුද්ධ දිශාවෙන් පැමිණි යතුරුපැදියක ගැටී ති‍බේ.
+
+එම අනතුරෙන් යතුරුපැදියේ පසුපස සිටි පොලිස් කොස්තාපල්වරයා බරපතළ තුවාල ලබා දෙබරවැව රෝහලට ඇතුළත් කිරීමේදී මියගොස් ඇත.
+
+◼️
+
+[Data](articles/fe9176f8.json)
+
+---
+
+### තම වත්මන් තත්ත්වය ගැන චාමර වීරසිංහගෙන් ෆේස්බුක් සටහනක්
+
+*2024-01-24 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192527) · `si`
+
+අසනීප තත්ත්වයේ පසු වන ජනප්‍රිය ගායන ශිල්පී චාමර වීරසිංහ මහතා සිය ෆේස්බුක් පිටුවේ පණිවුඩයක් තබා තිබේ.
+
+තමා වෙනුවෙන් වෙහෙස වී කටයුතු කරන වෛද්‍ය කාර්‍යමණ්ඩලයට හා තමාගේ යහපත ප්‍රාර්ථනා කරන රසික රසිකාවියන් වෙනුවෙන් ඔහු සිය ස්තූතිය ද එහි දී පළ කර ඇත.
+
+කෙටි කාලයක් තමා විවේක ගත යුතු බවත් ඒ සඳහා විවේකී ස්ථානයකට යාමට බලාපොරොත්තු වන බවත් චාමර වීරසිංහ මහතා සඳහන් කර තිබේ.
+
+චාමර වීරසිංහ මහතා සිය ෆේස්බුක් පිටුවේ තබා ඇති සම්පූර්ණ සටහන පහතින්,
+
+දැන් මගේ සෞඛ්‍ය තත්වය තරමක් යහපත්, අසනීප තත්වය හේතුවෙන් දකුණු කොළඹ ශික්ෂණ රෝහල වෙත ඇතුළත් කළ මොහොතේ සිට මේ දක්වා ප්‍රතිකාර ලබා දුන් සියලු වෛද්‍යවරුන්ටත්, රෝහල් කාර්යමණ්ඩලයේ සැමටත්, බෝධි පූජා පවත්වමින්, ආගමික වතාවත් සිදුකරමින් ඔහු වෙනුවෙන් ආශීර්වාද කරන ලද ගරුතර ස්වාමීන්වහන්සේලා සියලුදෙනාටත්, පූජකතුමන්ලා සැමටත්, සියලුම දෙස්/විදෙස් ආදරණීය රසිකයින් සැමටත් ගෞරවණීය ස්තුතිය ප්‍රකාශ කරන ලද අතර, වෛද්‍ය උපදෙස් අනුව සුළු කාලයක් විවේක සුවයෙන් ගත කිරීම අත්‍යාවශ්‍ය බව පවසා ඇති බැවින්, ඒ සඳහා ඉදිරියේදී විවේකී ස්ථානයකට යාමට බලාපොරොත්තු වන බවත් ඔහු විසින් දැනුම් දෙන ලදී.
+
+◼️
+
+[Data](articles/433fbaaf.json)
+
+---
 
 ### Sri Lanka Youth squad by 77 runs
 
@@ -57,6 +137,20 @@ Ravishan Perera was divided into three wickets and two wickets among the winter 
 [Data](articles/0630889f.json)
 
 [Extended Data](ext_articles/0630889f.ext.json)
+
+---
+
+### மருந்து கொடுக்கல் வாங்கல்: ​7 பேருக்கு விளக்கமறியல் நீடிப்பு
+
+*2024-01-24 20:20:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்து-கொடுக்கல்-வாங்கல்-7-பேருக்கு-விளக்கமறியல்-நீடிப்பு/175-332067) · `ta`
+
+சர்ச்சைக்குரிய Human Immunoglobulin மருந்து கொடுக்கல் வாங்கல் தொடர்பில் கைதாகியுள்ள சுகாதார அமைச்சின் முன்னாள் செயலாளர் ஜனக்க ஶ்ரீ சந்திரகுப்த உள்ளிட்ட 7 பேரும் எதிர்வரும் முதலாம் திகதி வரை தொடர்ந்தும் விளக்கமறியலில் வைக்கப்பட்டுள்ளனர்.
+
+இது தொடர்பான வழக்கு மாளிகாகந்த நீதவான் நீதிமன்றத்தில் இன்று விசாரணைக்கு எடுத்துக்கொள்ளப்பட்ட போதே விளக்கமறியல் உத்தரவு நீடிக்கப்பட்டது. R
+
+◼️
+
+[Data](articles/27b32bc5.json)
 
 ---
 
@@ -306,6 +400,22 @@ The prison center has requested that he be saved because he is fighting for life
 
 ---
 
+### சாந்தனின் உயிருக்கு ஆபத்து
+
+*2024-01-24 18:48:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-உயிருக்கு-ஆபத்து/175-332066) · `ta`
+
+இந்தியாவின் முன்னாள் பிரதமர் ராஜீவ்காந்தி கொலை வழக்கில் விடுதலையாகி தற்போது திருச்சி சிறைமுகாமில் தடுத்துவைக்கப்பட்டிருக்கும் சாந்தனின் உடல்நிலை பாதிக்கப்பட்டுள்ளதாக சிறைக்கைதிகள் உரிமை மையம் என்ற அமைப்பு தெரிவித்துள்ளது.
+
+திருச்சி சிறப்பு முகாமில் சாந்தனிற்கு உரிய சிகிச்சை அளிக்கப்படவில்லை இதனால் அவரின் உயிருக்கு ஆபத்து ஏற்பட்டுள்ளது இதனால் சென்னை பல்நோக்கு சிறப்பு மருத்துவமனையில் அவருக்கு சிகிச்சை வழங்கவேண்டும் என சிறைக்கைதிகள் உரிமை மையம்  தமிழக முதல்வருக்கு கடிதம் எழுதியுள்ளது.
+
+ராஜீவ்காந்தி கொலை வழக்கில் தண்டனை பெற்று தற்போது விடுதலையான சாந்தன் இலங்கைக்கு திரும்புவதற்காக விசா போன்றவற்றை பெற்றுக்கொள்வதற்காக காத்திருக்கின்றார், திருச்சி முகாமில் அடைக்கப்பட்டுள்ள சாந்தனிற்கு சிறுநீரக பாதிப்பு எற்பட்டுள்ளதால் அவருக்கு உரிய சிகிச்சை வழங்குவதற்கான நடவடிக்கைகள் திருச்சி சிறப்பு முகாமில் எடுக்கப்படாததால் அவரின் உயிரை காப்பாற்றுவதற்காக  தமிழக முதல்வர் உரிய நடவடிக்களை எடுக்கவேண்டும் என சிறைக்கைதிகள் உரிமைகள் மையம் தனது கடிதத்தில் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/c90a2f5a.json)
+
+---
+
 ### Parliament approves Online Safety Bill
 
 *2024-01-24 18:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-approves-Online-Safety-Bill/108-275666) · `en`
@@ -447,6 +557,24 @@ Accordingly, the retail price of an egg will be Rs. 54.55, the association presi
 [Data](articles/8766cbf8.json)
 
 [Extended Data](ext_articles/8766cbf8.ext.json)
+
+---
+
+### அரசாங்கம் திருடர்களை சரியாக பிடித்திருந்தால் வற் வரியை விதித்து மக்களை நசுக்க வேண்டிய தேவை ஏற்பட்டிருக்காது - எதிர்க்கட்சித் தலைவர்
+
+*2024-01-24 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174716) · `ta`
+
+நாட்டை பொருளாதார ரீதியாக வங்குரோத்தாக்கி,நாட்டு மக்களை மிகவும் நிர்க்கதியான எதிர்காலத்திற்கு ஆளாக்கிய தரப்பினர் யார் என்பதனை உயர் நீதிமன்றத்தின் சமீபத்திய தீர்ப்பின் ஊடக வெளிக்கொணரப்பட்டது.
+
+இவ்வாறு வெளிக்கொணரப்பட்ட கோட்டாபய ராஜபக்ச,மஹிந்த ராஜபக்ச,பசில் ராஜபக்ச, அஜித் நிவாட் கப்ரால்,எஸ்.ஆர்.ஆடிகல,பி.பி. ஜயசுந்தர,டபிள்யூ.டி.லக்ஷ்மன் மற்றும் சமந்தா குமாரசிங்க போன்றவர்களைத் தவிர பொறுப்புக் கூற வேண்டிய மேலும் பலர் இந்த அரசாங்கத்தில் உள்ளனர்.
+
+இந்த ஊழல் மற்றும் மோசடி நடவடிக்கைகளுக்கு காரணமானவர்களுக்கு எதிராக சட்ட நடவடிக்கை எடுக்கப்பட்டுள்ளதா என வரிச்சுமைக்கு ஆளான மக்கள் கேள்வி எழுப்புகின்றனர் என எதிர்க்கட்சித் தலைவர் தெரிவித்தார்.
+
+வற் வரியை அறவிடமால், திருடிய திருடர்களை சட்டத்தின் முன் நிறுத்த வேண்டும்.ஐக்கிய மக்கள் சக்தி அரசாங்கத்தில் இந்த திருடர்கள் சட்டத்தின் முன் நிறுத்தப்பட்டு,அனைத்து வித தண்டனைகளும் வழங்கப்படும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+...
+
+[Data](articles/8fe2012e.json)
 
 ---
 
@@ -1905,139 +2033,5 @@ Tangalle on the 15th of October 15, 2012, Tangalle was conspired to takecure the
 [Data](articles/b46b9850.json)
 
 [Extended Data](ext_articles/b46b9850.ext.json)
-
----
-
-### Sri Lanka ponders use of national identity card number for tax registration
-
-*2024-01-24 13:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-ponders-use-of-national-identity-card-number-for-tax-registration-148545/) · `en`
-
-ECONOMYNEXT — Sri Lanka is contemplating the use of the existing national identity card (NIC) number to register for taxation in place of the Taxation Identification Number (TIN) that all citizens above the age of 18 were recently asked to obtain.
-
-State Minister of Finance Ranjith Siyambalapitiya told reporters that a discussion in this regard was held at the Presidential Secretariat on Tuesday January 23 with the participation of the Secretary to the President, the Chief Economic Advisor to the President, the Commissioner General of the Inland Revenue Department (IRD) and other officials.
-
-Siyambalapitiya said the discussion had focused on the possibility of using existing biographical data of citizens already recorded by various state bodies that routinely deal with members of the public.
-
-...
-
-[Data](articles/3344c59c.json)
-
-[Extended Data](ext_articles/3344c59c.ext.json)
-
----
-
-### Rulers trying to curb freedom of online speech, after bankrupting Sri Lanka: opposition
-
-*2024-01-24 13:50:00* · [`economynextcom`](https://economynext.com/rulers-trying-to-curb-freedom-of-online-speech-after-bankrupting-sri-lanka-opposition-148530/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rulers are trying to curb the freedom of speech of people after bankrupting the country, opposition chief whip Lakshman Kiriella told parliament in a debate over a controversial law to control online speech.
-
-“We agree that regulation is needed, but this Bill should be postponed and get suggestions from the opposition about our doubts and fears (se-ka san-ka) on this,” Kiriella said.
-
-The UN and several international companies have opposed this Bill, Kiriella said. “The international community will be against us if we bring this law.”
-
-“Lajjayi (shame), instead of going home you are trying to bring this law.”
-
-Ruling party legislator Ajith Rajapakse said there were people who mis-used social media.
-
-The opposition has pledged to repeal the law if they come to power. (Colombo/Jan24/2024)
-
-◼️
-
-[Data](articles/281a3ee5.json)
-
-[Extended Data](ext_articles/281a3ee5.ext.json)
-
----
-
-### Suspect arrested for murder of Beliatta
-
-*2024-01-24 13:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192508) · `si`
-
-Police have arrested the suspect and the vehicle involved in the crime in Beliwatta.
-
-The police have arrested a 54 year old man named Saman Kumara and the jeep of the crime.
-
-It has been revealed that the suspect had been the driver of the vehicle at the time of the crime.
-
-◼️
-
-[Data](articles/8c1f2256.json)
-
-[Extended Data](ext_articles/8c1f2256.ext.json)
-
----
-
-### Five murder in Beliatta: One arrested in Matara
-
-*2024-01-24 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/174692) · `ta`
-
-One person has been arrested on suspicion of complicity in the murder of five people in Beliatta.
-
-He was arrested on Wednesday (24) in Matara, police said.
-
-It is suspected that the arrest was the driver of the vehicle used by the attackers and that he was planning the shooting.
-
-◼️
-
-[Data](articles/40549ba4.json)
-
-[Extended Data](ext_articles/40549ba4.ext.json)
-
----
-
-### Some of the Anti -Terrorism Bill are contrary to the Constitution: Malcolm Ranjith Petition in High Court!
-
-*2024-01-24 13:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174673) · `ta`
-
-Colombo Archbishop Malcolm Cardinal has filed a petition in the Supreme Court demanding that some of the Anti -Terrorism Bill presented in Parliament be contrary to the Constitution.
-
-Petitioner Cardinal Medaku has said that the military, police and the Coast Guard have empowered the army, police and the arrest of any person without a legitimate reason.
-
-He pointed out that the fundamental rights, including independence and freedom of expression, have been violated.
-
-◼️
-
-[Data](articles/3026d19a.json)
-
-[Extended Data](ext_articles/3026d19a.ext.json)
-
----
-
-### 4 Acts of the Speaker
-
-*2024-01-24 13:32:21* · [`adalk`](https://www.ada.lk/breaking_news/පනත්-04-කට-කථානායක-සහතිකය/11-407706) · `si`
-
-Speaker Mahinda Yapa Abeywardena announced its certificate yesterday (23) for four Bills passed by Parliament yesterday.
-
-The Speaker has recorded his certificate to the Atonenial Powers (Amendments), Fraud (Amendment) and the National Unity Board (Amendment) and the National Unity and Reconciliation Offices.
-
-Accordingly, the UPFA (Amendment) Act No. 1 of the National Unity and Reconciliation (Amendment) Act, No. 03, 2024, No. 03 of 2024, Powers (Amendment) Act, No. 03, 2024, No. 03, No. 03In effect yesterday (23) as the Act.
-
-◼️
-
-[Data](articles/2aa2fa31.json)
-
-[Extended Data](ext_articles/2aa2fa31.ext.json)
-
----
-
-### 90 pct of military-held land in Sri Lanka’s east already returned: official
-
-*2024-01-24 13:32:00* · [`economynextcom`](https://economynext.com/90-pct-of-military-held-land-in-sri-lankas-east-already-returned-official-148531/) · `en`
-
-ECONOMYNEXT — Some 90 percent of military-held land in Sri Lanka’s eastern province has been handed over to residents, State Minister of Pramitha Bandara Tennakoon told parliament.
-
-Responding to a question raised by opposition Tamil National Alliance (TNA) parliamentarian Shanakiyan Rasamanickam, Tennakoon said on Wednesday January 24 that military camps are not limited to the country’s formerly war-torn northern and eastern provinces but are located in all provinces taking into account present and future security risks.
-
-“In the eastern province, the tri forces owned 44,980 acres [of land]. Of this, 37,955 acres, over 90 percent, has been given back to residents of that area. The forces have only 7,379 acres under their control now. Of these, lands owned by private citizens amount to 37.84 acres, while state land amounts to 7,342 acres,” the state minister said.
-
-“Of the land owned by private citizens, we will hand over eight acres this year,” he added.
-
-...
-
-[Data](articles/a0e7580b.json)
-
-[Extended Data](ext_articles/a0e7580b.ext.json)
 
 ---

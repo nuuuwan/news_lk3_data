@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 15:33:02**
+As of **2024-01-24 15:51:31**
 
 ## Newspaper Stats
 
-*Scraped **2,328** Articles*
+*Scraped **2,329** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 122
 newsfirstlk | 132
 islandlk | 133
 economynextcom | 142
-adaderanasinhalalk | 170
+adaderanasinhalalk | 171
 dailyftlk | 181
 adalk | 232
 virakesarilk | 259
@@ -26,11 +26,29 @@ dailymirrorlk | 298
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,324 (99.8%) of 2,328 articles have been extended.
+2,329 (100.0%) of 2,329 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Leading Mitchell Cosse
+
+*2024-01-24 15:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192514) · `si`
+
+Michelle Mash has been named for the leadership of the Australian team in the Upple Twenty20 World Cup.
+
+Foreign media reports that the leadership of the three matches against the West Indies have been given the leadership of the three matches.
+
+However, a official statement will be made in the future regarding the leadership of the Australian team for the Mitchell Mash, the World Cup.
+
+◼️
+
+[Data](articles/27a4e025.json)
+
+[Extended Data](ext_articles/27a4e025.ext.json)
+
+---
 
 ### Investigations into ‘sugar tax scam’ completed – Finance State Minister
 
@@ -47,6 +65,8 @@ Meanwhile, the State Minister revealed that the Inland Revenue Department (IRD) 
 ◼️
 
 [Data](articles/57c1512b.json)
+
+[Extended Data](ext_articles/57c1512b.ext.json)
 
 ---
 
@@ -182,19 +202,21 @@ The monk who was with them was in his possession of a registered bhikkhu ID and 
 
 ---
 
-### පංච පුද්ගල ඝාතනය මෙරට සිට සැලසුම් කළ පුද්ගලයා අත්අඩංගුවට
+### The army was arrested from Sri Lanka
 
 *2024-01-24 14:20:20* · [`adalk`](https://www.ada.lk/breaking_news/පංච-පුද්ගල-ඝාතනය-මෙරට-සිට-සැලසුම්-කළ-පුද්ගලයා-අත්අඩංගුවට/11-407710) · `si`
 
-‍ෙබෙලිඅත්ත අධිවේගී පිටවුම අසලදී (22) පුද්ගලයන් පස් දෙනෙකු වෙඩි තබා ඝාතන සිද්ධිය මෙරට සිට මෙහෙයවූ පුද්ගලයා සහ ඒ සඳහා යොදා ගත් වාහනය පොලිස් අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+The police said that the murder was taken into custody and the vehicle was arrested by the police while five persons were shot dead in the country (22).
 
-එම සිද්ධිය සම්බන්ධයෙන් මාතර කොට්ඨාස භාර නිලධාරිගේ අධීක්ෂණය යටතේ හක්මන පොලිස් ස්ථානාධිපති ඇතුළු නිළධාරීන් කණ්ඩායමක් කළ විමර්ශනයේ දී මෙරට සිට මෙම අපරාධය මෙහෙයවා ඇතැයි කියන සමන් කුමාර නැමැති 54 හැවිරිදි පුද්ගලයෙක් සහ අපරාධය සදහා පැමිණි අංක 65-2615 දරණ මිටිසුබිෂී පෙජරෝ ජීප් රථය ගාල්ල හැව්ලොක් පෙදෙසේ රථගාලක තිබියදී සොයා ගත් බව පොලීසිය කියයි.
+The Mitubishi Siyaroro jeep, 65-2615, has been conducted from the investigation of the Matara Divisional Secretary under the supervision of the Matara Division.Police said.
 
-මෙම සැකකරු අපරාධය සදහා පැමිණි වාහනයේ රියදුරු වශයෙන් සිට අපරාධය සැලැසුම් කර ඇති බවට වැඩිදුර විමර්ශනවල දී හෙලි වී ඇති බව  ඇති බව ද පොලීසිය පවසයි.සිද්ධිය සම්බන්ධ පොලිස් විශේෂ කණ්ඩායම් තවදුරටත් විමර්ශන දියත් කරන බව පොලීසිය පවසයි.
+Police say that the suspect has revealed that the suspect has been revealed to the crime.
 
 ◼️
 
 [Data](articles/bb2b98ad.json)
+
+[Extended Data](ext_articles/bb2b98ad.ext.json)
 
 ---
 
@@ -470,21 +492,25 @@ Similarly, meetings of the party's secretary in Ampara and Trincomalee districts
 
 ---
 
-### ගවයින්ගේ ගැටුනු බස්රථය වෑන්රථයක මුහුණට මුහුණ ගැටෙයි,  කාන්තාවක් මරුට, 08 කට බරපතලයි
+### Woman dies after falling back to a vanishing bus collide
 
 *2024-01-24 13:26:21* · [`adalk`](https://www.ada.lk/picture_story/ගවයින්ගේ-ගැටුනු-බස්රථය-වෑන්රථයක-මුහුණට-මුහුණ-ගැටෙයි---කාන්තාවක්-මරුට--08-කට-බරපතලයි/10-407705) · `si`
 
-යාපනය මහනුවර ඒ- 09 ප්‍රධාන මාර්ගයේ  කිලිනොච්චිය, අලිමංකඩ, උමයාල්පුරම් ප්‍රදේශයේදී ලංගම බස්රථයක් වෑන් රථයක මුහුණට මුහණ ගැටී අද (24) අලුයම සිදුවූ අනතුරකින් කාන්තාවක් ජීවිතක්ෂයට පත්ව තවත් අටදෙනකු බරපතල තුවාල ලබා රෝහල්ගත කල බවට කිලිනොච්චිය පොලිසිය පවසයි.
+A woman killed in an accident in general area Kilinochchi, Kilinochchi and Umamalapitiya in Jaffna and eight others were injured in an accident in general area Kilinochchi.
 
-යාපනය සිට මහනුවර බලා ධාවනය වු  ලංකා ගමනාගමන මණ්ඩලයට අයත් බස් රථයක් හා කටුනායක ගුවන්තොටුපොළ වෙත ගොස් නැවත යාපනය වෙත ගමන්ගත් වෑන් රථයක් මුහුණට මුහුණ ගැටීමෙන් මෙම අනතුර සිදුව ඇති බව පොලිසිය පැවසීය.
+The accident had occurred when a bus belonging to the Sri Lanka Transport Board from Jaffna and the Katunayake airport and returned to Jaffna.
 
-ඒහිදී ලංගම බස් රථය අධික වේගයකින් ධාවනය වී වෙගය පාලනය කරගැනීමට නොහැකිව මාර්ගයේ නිදා සිටි ගවයින් රංචුවක ගැටීමෙන් පසුව ඉදිරියෙන් පැමිණි වෑන් රථයේ මුහුණට මුහුණ ගැටී අ‍ැති අතර බස්රථයේ ගැටුනු ගවයින් 08 දෙනකුද ජීවිතක්ෂයට පත්ව අ‍ැත.
+At the time, the SLTB bus was running at a speedy speed and eight crowd cows were killed in the bus.
 
-අනතුරින් මිය ගොස් ඇත්තේ 50 හැවිරිදි  යාපනයේ පදිංචි  කතිරිනා තිරුචෙල්වම් නැමති කාන්තාවක් වන අතර අනතුරින් බරපතල තුවාල ලැබූවන් මේ වන විට කිලිනොච්චිය මහරෝහලේ දැඩිසත්කාර ඒ්කකයේ ප්‍රතිකාර ලබමින් සිටිති.
+The deceased has been identified as a 50-year-old resident of Jaffna.
 
-...
+The Kilinochchi police said that the vehicle driver's unrespective driver was the cause of the accident.
+
+◼️
 
 [Data](articles/09d3f7d6.json)
+
+[Extended Data](ext_articles/09d3f7d6.ext.json)
 
 ---
 
@@ -512,17 +538,23 @@ In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons 
 
 ---
 
-### රනිල් වික්‍රමසිංහට ජනපතිධුරය ගන්න කීවේ මමයි
+### I was told to take the President to Ranil Wickremesinghe
 
 *2024-01-24 13:18:33* · [`adalk`](https://www.ada.lk/breaking_news/රනිල්-වික්‍රමසිංහට-ජනපතිධුරය-ගන්න-කීවේ-මමයි/11-407704) · `si`
 
-"මම තමයි රනිල් වික්‍රමසිංහ මැතිතුමාට ජනධිපතිකම ගන්න කියලා කීවේ,ඒතුමා අපි ඉහළින්ම ඔසවා තැබුවා. මම හදවතට ඒකගව කියනවා කුහක වෙන්න හොද නෑ අපිට තිබුන දුෂ්කර කාල පරිජ්‌චේදයකින් ගොඩදැම්මේ ඒතුමා ඉදිරියේදි මැතිවරණයෙන් නායකයෙකු තෝරද්දී කොන්ද පණ තියෙන ශක්තිමත් අභියෝග භාරගන්න පුළුවන් සුරංගනා කතා නොකරන යථාර්තවාදී  නායකයෙකු තොරාගත යුතුයි" යැයි වරය හා සිවිල් ගුවන්සේවා ඇමති නිමල් සිරිපාලද සිල්වා මහතා ඌවපරණගමදි පැවසීය.
+"I was the one who told Ranil Wickremesinghe to take the president. I'm just saying that we should be hypocritical in a difficult time, "he said," The Minister and Civil Aviation Minister Nimal Siripala de Silva said.
 
-වැලිමඩ-ඌවපරණගම උමා ඔයෙන් වෙන්වෙන ගිරාබේ පාලම අළුතින් ඉදිකිරීමට වැඩ ආරම්භ කිරීම හා ඌවපරණගම  හගුන්නෑව පාලම අළුතින් ඉදිකර ජනතා අයිතියට පත්කිරීමේ උත්සවයේදි ජනතාව අමතමින් ඇමතිවරයා එසේ පැවසීය, මෙම පාලම් දෙක ඉදිකිරීමට ඌව පළාත් ආණ්ඩුකාරවර ඒ.ජේ.එම් මුසම්මිල් මහතා ඌව පළාත් සභාව මගින් රුපියල් මිලියන 213ක මුදලක් වැය කර තිබේ,
+The Minister of Giraberagama Uma Oama, Welimada, is the Minister of the Uva Provincial Council to construct the new two bridges, the Uva Provincial Council, Uva Provincial Council, Uva Provincial Council, Rs. 213 millionA sum of money has been spent,
+
+"We have no choice despite the sea seven times. We help a person who does not set up the will of the majority of the people again and to protect the country with the views of the majority of people.
+
+The people of this country know that they have not accepted the leadership of the country today because the President has not taken populuations in this country, but today, we must thank him that the country has not acted but the country.
 
 ...
 
 [Data](articles/7430baa0.json)
+
+[Extended Data](ext_articles/7430baa0.ext.json)
 
 ---
 
@@ -2025,23 +2057,5 @@ The sea areas off the coasts extending from Colombo to Mannar via Puttalam and f
 [Data](articles/24a6bc34.json)
 
 [Extended Data](ext_articles/24a6bc34.ext.json)
-
----
-
-### Sri Lanka Navy says ready for Red Sea deployment
-
-*2024-01-24 08:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-Navy-says-ready-for-Red-Sea-deployment/108-275620) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - Although a date has not been fixed, the Sri Lanka Navy said yesterday that it is now prepared to send a deployment to the Red Sea to assist in defending shipping lanes from Houthi activities, once the government greenlights and authorizes the deployment.
-
-Navy spokesperson Capt. Gayan Wickramasinghe told the Daily Mirror that discussions are still underway at higher levels regarding the Red Sea deployment, but the Sri Lanka Navy is ready. "We are now on standby to send our deployment to the Red Sea at any time," he said.
-
-On January 3, during an event, President Ranil Wickremesinghe said that the government would deploy a Navy vessel to the Red Sea to safeguard shipping lanes. He said that the disruption of these lanes would lead to increased freight charges and cargo costs, affecting import prices in the country. President Wickremesinghe said that the government is committed to contributing to stability in the region.
-
-...
-
-[Data](articles/75b1e39b.json)
-
-[Extended Data](ext_articles/75b1e39b.ext.json)
 
 ---

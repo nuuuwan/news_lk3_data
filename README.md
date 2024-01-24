@@ -1,36 +1,182 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 11:02:48**
+As of **2024-01-24 11:17:18**
 
 ## Newspaper Stats
 
-*Scraped **2,244** Articles*
+*Scraped **2,260** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 33
 bbccomsinhala | 45
 dbsjeyarajcom | 122
-newsfirstlk | 124
+newsfirstlk | 127
 economynextcom | 132
 islandlk | 133
 adaderanasinhalalk | 157
 dailyftlk | 181
-adalk | 225
-virakesarilk | 244
-adaderanalk | 279
-tamilmirrorlk | 279
+adalk | 226
+virakesarilk | 247
+adaderanalk | 282
+tamilmirrorlk | 285
 dailymirrorlk | 290
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,244 (100.0%) of 2,244 articles have been extended.
+2,244 (99.3%) of 2,260 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### வாழைச்சேனையில் காட்டு யானையால் தாக்கப்பட்டு வர்த்தகர் உயிரிழப்பு
+
+*2024-01-24 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174664) · `ta`
+
+வாழைச்சேனை, வெலிகந்த செவனப்பிட்டிய நகருக்கு அருகில் காட்டு யானை தாக்கியதில் வர்த்தகர்  ஒருவர்  உயிரிழந்துள்ளார்.
+
+குறித்த நபர் இன்று புதன்கிழமை (24) வியாபாரம் செய்யச் சென்றபோதே இந்தச் சம்பவம் இடம்பெற்றுள்ளதாக  மன்னம்பிட்டிய பொலிஸார் தெரிவிக்கின்றனர்.
+
+விநாயகபுரம்,  பகுதியைச் சேர்ந்த  48  வயதுடைய ஆறு பிள்ளைகளின் தந்தையான முருகேசு முனியாண்டி என்பவரே இவ்வாறு உயிரிழந்துள்ளதாக விசாரணைகளை மேற்கொண்டுவரும் மன்னம்பிட்டிய பொலிஸார் தெரிவித்தனர்.
+
+செவனப்பிட்டி சந்தைக்கு தனது குடும்பத்துடன்  பொருட்களை விற்பனை செய்வதற்காக  அவர் சென்று கொண்டிருந்தபோதே காட்டு யானைத் தாக்குதலுக்கு இலக்காகி மனம்பிட்டிய வைத்தியசாலையில் அனுமதிக்கப்பட்டபோது உயிரிழந்துள்ளதாக விசாரணைகளை மேற்கொண்ட பொலிஸார் தெரிவித்துள்ளனர்.
+
+◼️
+
+[Data](articles/b97bc3fb.json)
+
+---
+
+### Prevailing prices of commodities cannot be reduced further - Sagala
+
+*2024-01-24 10:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96684/prevailing-prices-of-commodities-cannot-be-reduced-further-sagala) · `en`
+
+Sagala Ratnayaka, the President’s Senior Adviser on National Security and Chief of the Presidential Staff, states that there is no possibility of further reducing the prevailing prices of commodities.
+
+Ratnayake expressed that since the rupee is appreciating very slowly, what needs to be done now is to take steps to increase the income of the people.
+
+“The price of goods has been brought to the lowest possible point. The prices of some goods like vegetables, fluctuate frequently. However, in terms of foreign exchange, the prices of goods have reached the lowest point”, he said.
+
+“Further appreciation of the rupee is happening very slowly. All we have to do now is to increase the income of the people. Otherwise, we have to make the income of people match the tripled prices of goods.”
+
+Meanwhile, he also said that although the salaries of government employees are increased by Rs. 10,000 from this year, that amount is nowhere near enough to cover the expenses considering the price hikes.
+
+...
+
+[Data](articles/8451cfee.json)
+
+---
+
+### தொடர்ந்து உச்சம் தொடும் மரக்கறிகளின் விலை
+
+*2024-01-24 10:41:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தொடர்ந்து-உச்சம்-தொடும்-மரக்கறிகளின்-விலை/175-332050) · `ta`
+
+நுவரெலியாவில் உற்பத்தி செய்யப்படுகின்ற மரக்கறிகளுக்கான விலைகள் தொடர்ச்சியாக விலை ஏற்றம் கண்டு வருகிறது.
+
+அதேநேரத்தில் கரட்டுக்கான விலை நாளுக்கு நாள் உயர்ந்து கொண்டு செல்லப்பட்டுவதை அவதானிக்கக் கூடியதாக இருக்கிறது.
+
+அந்த வகையில் நுவரெலியா  பொருளாதார மத்திய நிலைய சந்தையில் நுவரெலியா கரட்டுக்கு தொடர்ச்சியாக தட்டுப்பாடு நிலவுவதாகவும் தெரிவிக்கப்படுகிறது.
+
+மேலும் இன்று (24.01.2023) காலை நுவரெலியா பொருளாதார மத்திய நிலைய காரியாலயம் மரக்கறிகளுக்கான விலை பட்டியலை வெளியிட்டுள்ளது.
+
+அதனடிப்படையில் கரட கிலோ கிராம் ஒன்றின் மொத்த விற்பணை விலை 1250/=ரூபா என அறிவித்துள்ளது.
+
+◼️
+
+[Data](articles/3ba148c4.json)
+
+---
+
+### Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
+
+*2024-01-24 10:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/talk-of-the-town-policy-reform-for-economic-recovery-dr-asanka-wijesinghe-24th-january-2024/) · `en`
+
+Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
+
+Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
+
+Death sentence for 7, for 3 murders on illegal boat to Australia
+
+Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
+
+Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
+
+Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
+
+◼️
+
+[Data](articles/2d6792b2.json)
+
+---
+
+### Death sentence for 7, for 3 murders on illegal boat to Australia
+
+*2024-01-24 10:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/death-sentence-for-7-for-3-murders-on-illegal-boat-to-australia/) · `en`
+
+Colombo (News 1st) – The Colombo High Court has sentenced 7 persons to death for the murder of 3 people, while attempting to travel to Australia illegally in 2012.
+
+The group had boarded a trawler in Tangalle. But a fight had broken out on board, and several people had been thrown overboard.
+
+Three had drowned, while others were rescued by nearby fishing boats which informed the Sri Lanka Navy.
+
+Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
+
+Death sentence for 7, for 3 murders on illegal boat to Australia
+
+Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
+
+Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
+
+Talk of The Town | Towards Economic Recovery | Raj Rajakulendran | 23rd January 2024
+
+◼️
+
+[Data](articles/f976ccc8.json)
+
+---
+
+### Seven fishermen sentenced to death over 2012 boat hijacking and triple murder
+
+*2024-01-24 10:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96683/seven-fishermen-sentenced-to-death-over-2012-boat-hijacking-and-triple-murder) · `en`
+
+The Colombo High Court has handed death sentence to 7 fishermen who were convicted of hijacking a fishing vessel and killing three individuals in 2012.
+
+◼️
+
+[Data](articles/10f13b4e.json)
+
+---
+
+### பெலியத்த ஐவர் படுகொலை : சம்பவத்திற்கு பயன்படுத்திய வாகனம் மீட்பு
+
+*2024-01-24 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174660) · `ta`
+
+பெலியத்த துப்பாக்கிச் சூட்டில் ஐந்து பேரை படுகொலை செய்த சம்பவத்திற்கு பயன்படுத்தியதாகக் கருதப்படும் வாகனம் காலி வித்யாலோக பிரிவேனாவுக்கு அருகில் நிறுத்தி வைக்கப்பட்டிருந்த நிலையில் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+செவ்வாய்க்கிழமை (23) காலை தெற்கு அதிவேக வீதியின் பெலியத்த வெளியேறும் பகுதிக்கு அருகில் டிபென்டர் வாகனத்தில் வந்த சிலர் வர்த்தக நிலையமொன்றுக்கு சென்ற சந்தர்ப்பத்தில் கெப் வாகனத்தில் வந்த குழுவினரால் துப்பாக்கிச் சூடு மேற்கொள்ளப்பட்டுள்ளது.
+
+துப்பாக்கிப் பிரயோகத்தில் நால்வர் சம்பவ இடத்திலேயே உயிரிழந்துள்ளதுடன், மற்றுமொருவர் காயமடைந்த நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டதன் பின்னர் உயிரிழந்தார். உயிரிழந்தவர்களில் அபே ஜனபல கட்சியின் தலைவர் சமன் பெரேராவும் அடங்குவார்.
+
+◼️
+
+[Data](articles/eb4845cd.json)
+
+---
+
+### NIC number to be converted to TIN?
+
+*2024-01-24 10:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96682/nic-number-to-be-converted-to-tin) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya has stated that measures are underway to convert a person’s National Identity Card (NIC) number to their Taxpayer Identification Number (TIN).
+
+◼️
+
+[Data](articles/cb47658c.json)
+
+---
 
 ### Special notice of TIN number
 
@@ -47,6 +193,40 @@ The State Minister said that the project is being carried out using the biograph
 [Data](articles/4de7c86b.json)
 
 [Extended Data](ext_articles/4de7c86b.ext.json)
+
+---
+
+### ICC ලෝක කාන්තා එක්දින කණ්ඩායමේ නායකත්වයත් චමරිට
+
+*2024-01-24 10:13:54* · [`adalk`](https://www.ada.lk/sports/ICC-ලෝක-කාන්තා-එක්දින-කණ්ඩායමේ-නායකත්වයත්-චමරිට/9-407700) · `si`
+
+2023 වසරට අදාළව ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ප්‍රකාශයට පත්කළ වසරේ කාන්තා එක්දින කණ්ඩායමේ නායකත්වයට ශ්‍රී ලංකා නායිකා චමරි අතපත්තු නම් කර තිබේ.
+
+එම කණ්ඩායමේ ආරම්භක පිතිකාරිණිය ලෙසත් ඇය නම් කර තිබේ. එසේම ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ප්‍රකාශයට පත්කළ වසරේ කාන්තා විස්සයි20 කණ්ඩායමේ නායිකාව ලෙසද චමරි නම්කරනු ලැබීය.
+
+◼️
+
+[Data](articles/24a48e7a.json)
+
+---
+
+### Bus in Parrinochchi - van accident;One kills;9 people injured
+
+*2024-01-24 10:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/174655) · `ta`
+
+One person was killed and nine people were injured in a vehicle accident at around 4.45 am on Wednesday (24).
+
+A bus belonging to the Sri Lanka Transport Board (SLTB) traveling from Jaffna to Kandy crashed with buffaloes on the road and crashed into the Gayas van.
+
+A man who was traveling in a Gayus vehicle died at the scene and nine people, including two boys, were injured.
+
+Two of them have been taken to the Jaffna Teaching Hospital for further treatment and others have been admitted to the Kilinochchi District General Hospital.
+
+◼️
+
+[Data](articles/8c5b3b3c.json)
+
+[Extended Data](ext_articles/8c5b3b3c.ext.json)
 
 ---
 
@@ -69,6 +249,52 @@ According to our correspondent, 8 cattle were killed in the accident.
 [Data](articles/814edda9.json)
 
 [Extended Data](ext_articles/814edda9.ext.json)
+
+---
+
+### Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
+
+*2024-01-24 10:00:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/letters-to-nearly-10-000-ceb-employees-who-participated-in-protests-after-reporting-sick-leave/) · `en`
+
+COLOMBO (News 1st) –  The Ceylon Electricity Board says that it sent letters calling for explanations to nearly 10,000 employees who participated in the recent protest after reporting sick leave.
+
+Its spokesperson Deputy General Manager Noel Priyantha says that they will take further steps based on their responses.
+
+The services of 66 employees who engaged in protests against the restructuring of the Electricity Board have been suspended.
+
+Convenor of the United Trade Union Front of the C.E.B Ranjan Jayalal says that strict measures will be taken against the repression of employees.
+
+Talk of The Town | Policy Reform For Economic Recovery | Dr. Asanka Wijesinghe | 24th January 2024
+
+Death sentence for 7, for 3 murders on illegal boat to Australia
+
+Letters to nearly 10,000 CEB employees who participated in protests after reporting sick leave.
+
+Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
+
+...
+
+[Data](articles/09f6f72f.json)
+
+---
+
+### அநுரகுமாரவை சந்தித்தார் இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா
+
+*2024-01-24 09:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/174658) · `ta`
+
+தேசிய மக்கள் சக்தியின் தலைவர் அனுர குமார திசாநாயக்கவுக்கும் இலங்கைக்கான இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜாவிற்கும் இடையிலான சந்திப்பு கொழும்பில் இடம் பெற்றது.
+
+இச் சந்திப்பு  செவ்வாய்க்கிழமை (23) பிற்பகல் கொழும்பிலுள்ள இந்திய உயர்ஸ்தானிகரின் அலுவலகத்தில் இடம்பெற்றது.
+
+புதிய இந்திய உயர்ஸ்தானிகர் சந்தோஷ் ஜா, கடந்த டிசம்பர் மாதத்தில் இலங்கையில் தனது கடமைகளை ஆரம்பித்த பின்னர், முதற் தடவையாக தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்கவை சந்தித்து கலந்துரையாடியுள்ளார்.
+
+இந்த சந்திப்பின்போது, இலங்கையின் நடப்பு அரசியல் நிலைவரங்கள் குறித்தும் பொருளாதார நெருக்கடி தொடர்பாகவும் தேசிய மக்கள் சக்தியின் எதிர்கால அரசியல் வேலைத்திட்டங்கள் குறித்தும் கலந்துரையாடப்பட்டன.
+
+இச்சந்திப்பில் தேசிய மக்கள் சக்தியின் தேசிய நிறைவேற்றுப் பேரவை உறுப்பினர் விஜித ஹேரத்தும் கலந்துகொண்டிருந்தார்.
+
+◼️
+
+[Data](articles/42a9ad34.json)
 
 ---
 
@@ -106,6 +332,24 @@ The youth has been arrested in the Ambatenna area in Kandy and he was a 22 year 
 
 ---
 
+### கிளிநொச்சியில் கோர விபத்து; ஒருவர் மரணம் - பலர் ஆபத்தான நிலையில்...
+
+*2024-01-24 09:45:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/கிளிநொச்சியில்-கோர-விபத்து-ஒருவர்-மரணம்-பலர்-ஆபத்தான-நிலையில்/72-332049) · `ta`
+
+கிளிநொச்சி - உமையாள்புரம் பகுதியில் இன்று அதிகாலை 4.30 மணியளவில் இடம்பெற்ற விபத்தில் ஒருவர் பலியானதுடன் 8 பேர் படுகாயமடைந்துள்ளனர்.
+
+யாழிலிருந்து வவுனியா நோக்கி பயணித்த அரச பேருந்துடன், கொழும்பியிருந்து யாழ்ப்பாணம் நோக்கி  பயணித்த வேன் மோதி விபத்துக்குள்ளாகியுள்ளது.
+
+விபத்தில் வவுனியாவை சேர்ந்த 50 வயதுடைய திருமணி திருச்செல்வம் எனும் பெண் உயிரிழந்துள்ளதுடன், மேலும் 8 பேர் காயமடைந்துள்ளனர்.
+
+காயமடைந்தவர்களில் ஐவர் கிளிநொச்சி வைத்தியசாலையின் தீவிர சிகிச்சைப்பிரிவில்  சிகிச்சை பெற்று வருவதாக வைத்தியசாலை தகவல்கள் தெரிவிக்கின்றனர்.
+
+◼️
+
+[Data](articles/3dfebbe6.json)
+
+---
+
 ### Court restriction for demonstration
 
 *2024-01-24 09:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174657) · `ta`
@@ -128,6 +372,22 @@ The court also announced that if the order violates, the police should take imme
 
 ---
 
+### பொதுமக்களுக்கு பொலிஸார் கூறிய சிறப்பான செய்தி
+
+*2024-01-24 09:41:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொதுமக்களுக்கு-பொலிஸார்-கூறிய-சிறப்பான-செய்தி/175-332048) · `ta`
+
+சட்டவிரோத துப்பாக்கிகள் மற்றும் வெடிகுண்டுகளை வைத்திருப்பவர்கள் பற்றிய தகவல்களை வழங்குபவர்களுக்கு பணப் பரிசு வழங்க பொலிஸார் தீர்மானித்துள்ளனர்.
+
+கடந்த ஆண்டு டிசம்பர் மாதம் 17ஆம் திகதி ஆரம்பிக்கப்பட்ட யுக்திய நடவடிக்கை வெற்றிகரமாக இடம்பெற்று வருவதுடன், இதற்காக தகவல் அளிப்பவர்களுக்கு ரொக்கப்பரிவு வழங்க  தீர்மானிக்கப்பட்டுள்ளது.
+
+அத்தகைய தகவல்களை வழங்கும் நபர்களின் ரகசியத்தன்மை பாதுகாக்கப்பட்டு, அவர்களுக்கு பரிசு வழங்கப்படவுள்ளது. R
+
+◼️
+
+[Data](articles/05e9ee54.json)
+
+---
+
 ### Those on the southern highway
 
 *2024-01-24 09:35:09* · [`adalk`](https://www.ada.lk/breaking_news/දකුණු-අධිවේගයේ-යන-අය-අවධානයෙන්/11-407698) · `si`
@@ -139,6 +399,26 @@ The premises of the Southern Expressway on the Southern Expressway. Police also 
 [Data](articles/08372b7c.json)
 
 [Extended Data](ext_articles/08372b7c.ext.json)
+
+---
+
+### பெலியத்த துப்பாக்கிச் சூடு: காலியில் கைவிடப்பட்ட வாகனம்
+
+*2024-01-24 09:33:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-துப்பாக்கிச்-சூடு-காலியில்-கைவிடப்பட்ட-வாகனம்/175-332047) · `ta`
+
+ஐந்து பேர் படுகொலை செய்யப்பட்ட பெலியத்த துப்பாக்கிச் சூட்டுச் சம்பவத்துக்கு உடந்தையாக இருந்தவர்கள் பயன்படுத்தியதாகக் கருதப்படும் வாகனம், காலி வித்யாலோக பிரிவேனாவுக்கு அருகில் நிறுத்தி வைக்கப்பட்டிருந்த நிலையில் கண்டுபிடிக்கப்பட்டுள்ளது.
+
+தெற்கு அதிவேக நெடுஞ்சாலையின் பெலியத்த மாற்றுப்பாதைக்கு அருகில் நேற்று முன்தினம், டிஃபென்டர் மீது துப்பாக்கிச் சூடு நடத்தப்பட்டது.
+
+காலை 8:30 மணி முதல் 8:40 மணி வரை நடந்த துப்பாக்கிச் சூட்டில், 4 பேர் சம்பவ இடத்திலேயே பலியாகினர்.
+
+டிஃபென்டருக்குள் இருந்த மற்றைய நபர் படுகாயங்களுடன் தங்காலை வைத்தியசாலைக்கு கொண்டு செல்லப்பட்ட போதிலும், சிறிது நேரத்திலேயே அவர் உயிரிழந்துள்ளார்.
+
+இறந்தவர்களில் ‘அபே ஜன பல ’ கட்சியின் (எங்கள் மக்கள் கட்சி ) தலைவர் சமன் பெரேராவும் அடங்குவார்.
+
+◼️
+
+[Data](articles/9fb3faf0.json)
 
 ---
 
@@ -214,23 +494,37 @@ A young rugby coach has been arrested in Kandy, Kandy, police said.
 
 ---
 
-### Bus in Parrinochchi - van accident;One kills;9 people injured
+### யுக்தியவில் மேலும் 930 சந்தேக நபர்கள் கைது
 
-*2024-01-24 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/174655) · `ta`
+*2024-01-24 09:30:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/யுக்தியவில்-மேலும்-930-சந்தேக-நபர்கள்-கைது/175-332046) · `ta`
 
-One person was killed and nine people were injured in a vehicle accident at around 4.45 am on Wednesday (24).
+நாடு தழுவிய போதைப்பொருள் எதிர்ப்பு நடவடிக்கையான ‘யுக்திய’வின்  ஒரு பகுதியாக இன்று (24) நள்ளிரவு 12.30 மணியுடன் முடிவடைந்த 24 மணி நேர நேரத்தில் மேலும் 930 சந்தேக நபர்கள் பாதுகாப்புப் படையினரால் கைது செய்யப்பட்டுள்ளனர்.
 
-A bus belonging to the Sri Lanka Transport Board (SLTB) traveling from Jaffna to Kandy crashed with buffaloes on the road and crashed into the Gayas van.
-
-A man who was traveling in a Gayus vehicle died at the scene and nine people, including two boys, were injured.
-
-Two of them have been taken to the Jaffna Teaching Hospital for further treatment and others have been admitted to the Kilinochchi District General Hospital.
+இந்த 24 மணிநேரத்தில், 425 கிராம் ஹெரோய்ன், 235 கிராம் ஐஸ் மற்றும் 4,351 போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளன.
 
 ◼️
 
-[Data](articles/8c5b3b3c.json)
+[Data](articles/f50697c1.json)
 
-[Extended Data](ext_articles/8c5b3b3c.ext.json)
+---
+
+### முதியவரை ஏமாற்றிய தம்பதியினர்
+
+*2024-01-24 09:28:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/முதியவரை-ஏமாற்றிய-தம்பதியினர்/72-332045) · `ta`
+
+கிளிநொச்சி பகுதியில் வங்கி ஊழியரான பெண் ஒருவரும்  அவரது கணவரும் இணைந்து, முதியவரை ஏமாற்றி சுமார் 6 இலட்சம் ரூபா பணத்தினை மோசடி செய்துள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+கிளிநொச்சி பொலிஸ் பிரிவுக்குட்பட்ட பகுதியில் தனியார் வங்கி ஒன்றில்  பணிபுரியும் வங்கி உத்தியோகத்தரும் அவரது கணவனும் இணைந்து முதியவர் ஒருவரிடம் மூன்று இலட்சத்து ஐம்பாயிரம்  மற்றும்   இரண்டு இலட்சத்து ஐம்பதாயிரம் ரூபாய் என ஆறு இலட்சம் ரூபா பணத்தினை மோசடியாகப் பெற்று குறித்த முதியவரை ஏமாற்றியுள்ளத்துடன் அதற்கு பதிலாக மறுக்கப்பட்ட காசோலையினையும் வழங்கியுள்ளனர்.
+
+இவ்வாறு பாதிக்கப்பட்ட முதியவரால் கிளிநொச்சி பொலிஸில்  முறைப்பாடு செய்யப்பட்டதை அடுத்து பொலிஸார்  இருவருக்கும் எதிராக கிளிநொச்சி மாவட்ட நீதவான் நீதிமன்றில்  வழக்கு தாக்கல் செய்துள்ளனர்.
+
+அத்துடன்  இரண்டு பேரையும் கைது செய்து நீதிமன்றத்தில் முன்னிலைப்படுத்த நீதிமன்ற அனுமதியை கோரியுள்ளனர்.
+
+குறித்த வங்கி ஊழியரும் அவரது கணவரும் ஏற்கனவே  பலரை ஏமாற்றி மோசடி குற்றச்சாட்டுகளில் ஈடுபட்டதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/3c1ba28a.json)
 
 ---
 
@@ -276,7 +570,7 @@ Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of 
 
 ### Heavy snow on the southern highway;Drivers are observation
 
-*2024-01-24 09:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174654) · `ta`
+*2024-01-24 09:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/174654) · `ta`
 
 Heavy snowfall has been on the southern highway over the past two days.
 
@@ -1645,363 +1939,5 @@ Two ODI matches 36 Colombo. Even though he has previously decided to hold at the
 [Data](articles/6de8751e.json)
 
 [Extended Data](ext_articles/6de8751e.ext.json)
-
----
-
-### Kachchativu Antoniyar Temple Annual Festival of 8,000 devotees
-
-*2024-01-23 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/174650) · `ta`
-
-The Annual Festival of Kachchativu Antoniyar Temple was held at the District Secretariat on Tuesday under the chairmanship of the Jaffna District Secretary.
-
-At a meeting to investigate the preparations for the arrangements of the Kachchativu Antoniyar Temple on February 23 and 24, it has decided to allow 4000 pilgrims and 4,000 pilgrims from India this year.
-
-A variety of issues such as basic amenities, safety, arrangements and food, including health and transport for participants.
-
-The meeting was attended by the Jaffna Deputy Embassy Officers, Nedundevu Divisional Secretary, Neduntivu Stock Exchange, Jaffna District Guru Chief Minister, Regional Officer of the Navy, Army High Officers and Heads of the Department of Department of Department.
-
-◼️
-
-[Data](articles/9ef9ddf6.json)
-
-[Extended Data](ext_articles/9ef9ddf6.ext.json)
-
----
-
-### Lands under Forest Dept. to be released for agriculture and tourism - State Minister
-
-*2024-01-23 20:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/96671/lands-under-forest-dept-to-be-released-for-agriculture-and-tourism-state-minister) · `en`
-
-State Minister for Rural Economy K. Kader Masthan, stated that negotiations for releasing lands under the Forest Department for agriculture and tourism have already commenced.
-
-The Minister of State also highlighted that the restoration of 61 tanks has been initiated for the agricultural development of the Mannar and Vavuniya districts.
-
-State Minister for Rural Economy, K. Kader Masthan, conveyed this information during his participation in a press conference held at the Presidential Media Centre (PMC) today (23), focusing on the theme ‘Collective path to a stable country.’
-
-“We initially anticipated a prolonged economic recovery period for the country. However, President Ranil Wickremesinghe expedited the stabilization process promptly and swiftly stabilized the economy. The President deserves gratitude for that.
-
-...
-
-[Data](articles/38ae1a45.json)
-
-[Extended Data](ext_articles/38ae1a45.ext.json)
-
----
-
-### Sri Lankan Tamil leaders seek Indian intervention in implementation of 13A
-
-*2024-01-23 20:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-Tamil-leaders-seek-Indian-intervention-in-implementation-of-13A/108-275585) · `en`
-
-Jan 23 - A group of Sri Lankan Tamil legislators has sought India’s intervention to ensure that Colombo fully implements the New Delhi-mooted 13th Amendment, which provides for the devolution of power to the minority community, a source in Colombo said on Tuesday, 23 January.
-
-The group led by the veteran politician R Sampanthan met India’s new High Commissioner to Sri Lanka, Santosh Jha, on Monday, 22 January, said that the source is from the Tamil National Alliance, which represents Sri Lanka’s Tamil minority.
-
-The two-hour-long talks were centred on the 13A, which created the provincial councils system for the island nation’s nine provinces.
-
-The Tamil parties pointed out the need for India’s intervention in the current Sri Lankan political context for the meaningful devolution of power, the source said.
-
-They also highlighted the issue of the Tamil political prisoners and the Tamil land grabbing by the state.
-
-◼️
-
-[Data](articles/ce65a5f4.json)
-
-[Extended Data](ext_articles/ce65a5f4.ext.json)
-
----
-
-### 8-day killings
-
-*2024-01-23 19:58:47* · [`adalk`](https://www.ada.lk/breaking_news/දින-10ට-ඝාතනය-කිරීම්-8ක්/11-407697) · `si`
-
-There have been eight deaths from shooting from the 14th of this month.
-
-A 40-year-old man was killed in a shooting near the Randiya apartment complex on the 15th of the 15th and a 24-year-old shooting near a mobile shop in Tiljjawal.
-
-The leader of the people Saman Perera and five were killed in a bullet to be shot from the Beliatta login on the 22nd day.
-
-Dammaratana Thero in the temple in Hiripitiya, Malwamatu (23) has been seriously injured and hospitalized.
-
-A person was killed and a victim was killed in a sharp object in Boyawela, in Boowalana.
-
-42-year-old podium has died due to an attack on Dehiowita on 21st. The body of a 30-year-old body was found in the Wellampitiya area on the 19th and found a body in Madampe.
-
-◼️
-
-[Data](articles/b3bbf0a6.json)
-
-[Extended Data](ext_articles/b3bbf0a6.ext.json)
-
----
-
-### Asian Internet Coalition refutes statement on Online Safety Bill by Minister Tiran Alles
-
-*2024-01-23 19:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/23/asian-internet-coalition-refutes-statement-on-online-safety-bill-by-minister-tiran-alles/) · `en`
-
-Colombo (News 1st) – The Asian Internet Coalition on Tuesday (23rd) refuted statements made by Sri Lanka’s Minister of Public Security, Tiran Alles, and warned that “the Online Safety Bill, in its current form, is unworkable and would undermine potential growth and foreign direct investment into Sri Lanka’s digital economy”.
-
-The Asia Internet Coalition (AIC) is an industry association comprising many of the world’s most powerful Internet and technology companies. The AIC seeks to promote the understanding and resolution of Internet policy issues in the Asia Pacific region. It is comprised of Apple, Pinterest, Grab, Amazon, Line, Google, Yahoo, Booking.com, Spotify, X (Twitter), Rakuten, Meta, Shopify and FedEx.
-
-...
-
-[Data](articles/39444faa.json)
-
-[Extended Data](ext_articles/39444faa.ext.json)
-
----
-
-### The electricity tariff revision of the middle of February
-
-*2024-01-23 19:52:14* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ගාස්තු-සංශෝධනය-පෙබරවාරි-මැද/11-407696) · `si`
-
-The Chairman of the Public Utilities Commission of Sri Lanka, Professor Manjula Fernando said that the revision of the electricity tariff will be revised this year in the middle of February.
-
-He said that there was a program to follow during the revision of the electricity tariffs.
-
-The proposal given by the CEB has taken a 21-day to obtain public views and has been handed over to the Public Utilities Commission on 13th of this month.
-
-◼️
-
-[Data](articles/ce0ef201.json)
-
-[Extended Data](ext_articles/ce0ef201.ext.json)
-
----
-
-### The High Court adjourned the verdict
-
-*2024-01-23 19:47:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தீர்ப்பை-ஒத்திவைத்தது-உயர்-நீதிமன்றம்/175-332025) · `ta`
-
-The Sri Lankan High Court today concludes the hearing of the petition filed by ministers Harin Fernando and Manusha Nanayakkara against the United People's Power Party membership resolution.
-
-The High Court has postponed the verdict as the hearing of the petition is over.
-
-In August last year, ministers Manusha Nanayakkara and Harin Fernando filed a fundamental rights (FR) petition demanding the cancellation of their party membership and the cancellation of their party membership.
-
-In July last year, the SJB's Executive Committee decided to remove the two ministers from the party after the two ministers joined the government of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/aae222a3.json)
-
-[Extended Data](ext_articles/aae222a3.ext.json)
-
----
-
-### EPF - Court order on ETF petitions
-
-*2024-01-23 19:45:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/EPF-ETF-மனுக்கள்-தொடர்பில்-நீதிமன்றத்தின்-உத்தரவு/175-332024) · `ta`
-
-The Supreme Court today (23) ordered that the Employees Provident Fund and the Employees 'Trust Fund accuses members of the Employees' Trust Fund on October 30 to consider the fundamental rights petitions filed.
-
-Petitions related to this. Durairajah, Shiran Gunaratne and Mahinda Samitawarta were called in the presence of a three -member High Court.
-
-Additional Solicitor General Viraj, appearing on behalf of the Attorney General, said that he would present the basic objections to the court's submissions and rejected these petitions.
-
-The Additional Solicitor General has stated in his basic objection that many of the petitions filed in this regard have been dismissed by the Supreme Court and that the court does not have the authority to hear these petitions.
-
-The petitions have been filed by four parties, including Eden Marcus, the guest of the Katunayake Independent Business Zone Employees Union.. Remble
-
-◼️
-
-[Data](articles/2ce16789.json)
-
-[Extended Data](ext_articles/2ce16789.ext.json)
-
----
-
-### A serious situation in prisons
-
-*2024-01-23 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192483) · `si`
-
-The Commissioner General of Prisons Thushara Upuladeniya revealed that the capacity of prisons in prisons is over 290 percent.
-
-He was speaking at the Derana Big Focusing Program today (23).
-
-The National Audit Office "Performance Audit Report on Prisons Management Audit Report" recently released.
-
-According to the report of the Auditor General WP WiLamarametne, on December 31, 2029, the capacity of 11,291, the capacity of 11,291, was 26,291.
-
-Accordingly, the capacity of prisoners has exceeded 232%.
-
-The Commissioner General of Prisons, which joined Ada Derana, revealed that the situation has been no longer kept.
-
-According to the audit report, 53% of the entire detainees had been imprisoned in December 31, 2022.
-
-The Audit Report further states that 187 camations of 27 prisons have a shortage of 187 prisons and 287 toilet should be repaired.
-
-Meanwhile, the National Audit Office reveals that the majority of the prisoner remains are between 30 and 40 years old.
-
-◼️
-
-[Data](articles/340971a3.json)
-
-[Extended Data](ext_articles/340971a3.ext.json)
-
----
-
-### State Medical Officers who changed the decision
-
-*2024-01-23 19:33:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடிவை-மாற்றிய-அரச-வைத்திய-அதிகாரிகள்/175-332023) · `ta`
-
-A letter issued by the Director General of Health Services has been canceled by suspending DAT payments with January salary.
-
-The Director General of Health Services has issued a written notification to the leaders of the health institutes.
-
-It is also reported that the leaders of the companies have been ordered to provide the appropriate payments to doctors who do not receive DAT allowance through the usual salary list for January.
-
-Accordingly, the Executive Council has unanimously decided to suspend the strike action announced by the State Medical Officers Association, which is scheduled to be launched from 8 am tomorrow.. Remble
-
-◼️
-
-[Data](articles/b8fc3a46.json)
-
-[Extended Data](ext_articles/b8fc3a46.ext.json)
-
----
-
-### CCTV out of the places of Beliatta
-
-*2024-01-23 19:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192482) · `si`
-
-Over 24 hours after the five-day murder of the Pantenda, no one has been able to arrest anyone so far.
-
-However, the jeep had identified the jeep who arrived.
-
-Meanwhile, a person suspected to be a shooter in the Kamburupitiya main road near the Kamburupitiya main road near the incident, a person who was suspected to shoot at the Kamburupitiya roundabout was recorded in a CCTV camera.
-
-Further, he was able to move back to the Kamburupitiya bus stand.
-
-It is reported that he has rise to Matara and left the place.
-
-However, no information has been revealed to the identity of the person.
-
-Meanwhile, the acting Inspector General of Police (IGP) has held a discussion with the participation of a number of police officers with the participation of several high police officers.
-
-The acting IGP has advised the photographs of the suspect in the CCTV data to refer to the airport automated face identification system.
-
-...
-
-[Data](articles/c0700817.json)
-
-[Extended Data](ext_articles/c0700817.ext.json)
-
----
-
-### Iran citizen that fell from a running train
-
-*2024-01-23 19:31:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஓடும்-ரயிலில்-இருந்து-விழுந்த-ஈரான்-பிரஜை/175-332022) · `ta`
-
-An Iranian tourist who fell off the express train from Colombo to Badulla has been seriously injured and admitted to the Badulla Teaching Hospital.
-
-The injured person who was taken to the Haputale railway station in the train was taken to the Diyatalawa hospital and later transferred to the Badulla Teaching Hospital.
-
-Haputale police are conducting investigations on the directive of Assistant Superintendent of Police Ruwan Fernando.
-
-◼️
-
-[Data](articles/207535d3.json)
-
-[Extended Data](ext_articles/207535d3.ext.json)
-
----
-
-### Monk murder suspects were set on fire
-
-*2024-01-23 19:22:36* · [`adalk`](https://www.ada.lk/breaking_news/හිමිනම-ඝාතනයේ-සැකකරුවන්-පැමිණි-මෝටර්-රථයට-ගිනි-තබලා/11-407694) · `si`
-
-The luxury car to shoot at Kalapola Easthana Thero at the Malwathuathitiya Viharaya, Kaduwela Police say.
-
-Two unidentified persons who had been prepared to return to the Henegama Viharaya, the Criminal Investigation Department were shot dead by the Criminal Investigation Department officials.
-
-Police investigations have revealed that the ownership of the narcotics of the drug was reported.
-
-A police officer said the car was completely burnt and suspected to be stolen from a particular area.
-
-Investigations are being investigated by the OIC of Kaduwela Police Inspector Kan Weerasinghe.
-
-◼️
-
-[Data](articles/f2b288fd.json)
-
-[Extended Data](ext_articles/f2b288fd.ext.json)
-
----
-
-### Special Notification of the Ministry of Education
-
-*2024-01-23 19:22:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கல்வி-அமைச்சின்-விசேட-அறிவித்தல்/175-332021) · `ta`
-
-The Ministry of Education has issued a circular that applications for the year 2024 should be submitted to the appropriate schools for enrolling students for grade 1, 5, 6 and other secondary classes.
-
-If there are vacancies in those schools, the respective school principals will conduct interviews according to the circular of the Ministry of Education and send the list of selected students to the Ministry.
-
-The Ministry said that the student enrollment for grade 6 students is only based on the results of the Grade 5 Scholarship Examination.
-
-Meanwhile, the Ministry said that applications for the enrollment of students for the year 2024 should be sent to schools and interviews will be conducted by the principals.
-
-◼️
-
-[Data](articles/95cc8f0e.json)
-
-[Extended Data](ext_articles/95cc8f0e.ext.json)
-
----
-
-### Conflict between the priests and the police;Solved Mano MP
-
-*2024-01-23 19:21:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குருக்களுக்கும்-பொலிஸாருக்கும்-இடையில்-மோதல்-தீர்த்து-வைத்தார்-மனோ-எம்-பி/175-332020) · `ta`
-
-In the area of the Wellawatte Police Zone, police officers who went to uniforms for secret surroundings and were involved in civil duties in the area.. The issue between the Maheshwara Gurus has come to an end, said DMK leader Mano Ganesan MP.
-
-Mano MP added that the Hindu priests in Wellawatte
-
-The police have taken the minor conflict in connection with vehicle traffic, to the racism, argument, and physical force.
-
-The issue came to the end of the peace agreement and ended yesterday evening.
-
-I have chatted with the priests in this regard. He told me that he had forgiven the religious clergy.
-
-Verse. Despite the fact that the priests say that, I have told Wellawatte Police Officer Subhash Kanthaveli that the police officers should not be involved in the civil society without the police uniform.
-
-Accordingly, the officer in charge has assured me that he will instruct his station officials. Remble
-
-◼️
-
-[Data](articles/28203a63.json)
-
-[Extended Data](ext_articles/28203a63.ext.json)
-
----
-
-### Suspects arrested for shooting suspects arrived
-
-*2024-01-23 19:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192481) · `si`
-
-A suspicion of suspects had been found in the Bedumber area of the Bedumber area this afternoon.
-
-The car was already on fire that the car was unrecognized at the same time.
-
-Meanwhile, a white car holding the temples cao-5345 category cao-5345 category has been found in the Motor vehicle cao-5345.
-
-Four suspects entering the temple premises this afternoon have stopped the car and entered into the inside house.
-
-The suspects have asked whom the Lord is dealing with the gerity.
-
-The monk's prevailing lord says the suspects were carried out by saying they were CID officials.
-
-The shooting was hit by his left hand and the pale, which was admitted to the Gampaha District General Hospital soon.
-
-Hospital sources said that he had already been humiliated.
-
-The shooting was a 44 year old monk named Venerable Dhammaratne.
-
-Kaselkanda Kumarka Kusum, which was previously worked for machinery and scientific, was in a remote area.
-
-...
-
-[Data](articles/1f226575.json)
-
-[Extended Data](ext_articles/1f226575.ext.json)
 
 ---

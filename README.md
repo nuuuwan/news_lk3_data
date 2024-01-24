@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 21:52:11**
+As of **2024-01-24 22:05:26**
 
 ## Newspaper Stats
 
@@ -762,7 +762,7 @@ Russian plane crashes with 65 Ukrainian prisoners of war on board
 
 The Appeals Court today (Jan.24) delivered an order stating that the notorious underworld figure “Ganemulla Sanjeewa” should not be moved from Weeragula police premises until February 27, where he remains in custody under detention orders.
 
-This order was delivered after taking into account a writ petition filed by the mother of “Ganemulla Sanjeewa”.
+This order was delivered after taking into account a writ petition filed by the mother of the accused.
 
 Thereby, further hearing of the petition was fixed for February 27.
 
@@ -770,7 +770,7 @@ Thereby, further hearing of the petition was fixed for February 27.
 
 He had a forged passport in his possession at the time of the arrest, with personal details of a female believed to be a resident of the Dematagoda area.
 
-‘Ganemulla Sanjeewa’, who is believed to have illegally entered India by boat, had reportedly later fled from to Nepal, and subsequently returned to Sri Lanka upon the issuance of an international ‘Red Warrant’ for his arrest.
+“Ganemulla Sanjeewa”, who is believed to have illegally entered India by boat, had reportedly later fled from to Nepal, and subsequently returned to Sri Lanka upon the issuance of an international ‘Red Warrant’ for his arrest.
 
 ◼️
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 14:32:53**
+As of **2024-01-24 14:50:40**
 
 ## Newspaper Stats
 
@@ -26,27 +26,33 @@ dailymirrorlk | 298
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,303 (99.7%) of 2,310 articles have been extended.
+2,310 (100.0%) of 2,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### பெண்ணை கேலி செய்வது சித்ரவதை ஆகாது : நீதிமன்றம்
+### Mocking the woman is not tortured: the court
 
 *2024-01-24 14:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-கேலி-செய்வது-சித்ரவதை-ஆகாது-நீதிமன்றம்/175-332054) · `ta`
 
-வெறுமனே கேலி செய்வது, இகழ்வாக பேசுவது என்பது சித்ரவதை செய்வது  வெறுமனே கேலி செய்வது, இகழ்வாக பேசுவது என்பது சித்ரவதை செய்வது அல்லது மனரீதியாக துன்புறுத்துவது ஆகாது என்றும் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The court has also ordered that torture, mockingly, torture, simply ridiculing, contempt, torture, or mental harassment.
 
-மராட்டிய மாநிலம் நந்துர்பூரை சேர்ந்த பெண் கடந்த 1994-ம் ஆண்டு ஏப்ரல் மாதம் உடலில் தீவைத்து தற்கொலை செய்து கொண்டார்.
+In April 1994, a woman from Nandurpur, Maratha state committed suicide by setting fire to his body.
 
-பெண்ணை தற்கொலைக்கு தூண்டியதாக பெண்ணின் கணவர், மைத்துனர், மாமியார் மீது பொலிஸார் வழக்குப்பதிவு செய்தனர். வழக்கை விசாரித்த நந்துர்பூர் அமர்வு நீதிமன்றம், பெண்ணை தற்கொலைக்கு தூண்டியதாக கணவர் உள்பட 3 பேருக்கும் தண்டனை வழங்கியது. இதை எதிர்த்து அவர்கள் மும்பை உயர்நீதிமன்ற அவுரங்காபாத் கிளையில் மேல் முறையீடு செய்தனர்.
+The woman's husband, brother -in -law and mother -in -law. The Nandurpur Session Court, hearing the case, sentenced three others, including her husband for committing suicide.. They appealed to the Aurangabad branch of the Mumbai High Court against this.
 
-மனுவை நீதிபதி அபய் வாக்வாசே தலைமையிலான தனி நபர் அமர்வு விசாரித்தது. விசாரணையின் முடிவில், குற்றம்சாட்டப்பட்ட 3 பேரையும் விடுவித்து நீதிபதி உத்தரவிட்டார்
+The petition was heard by a separate session headed by Justice Abhay Waghwase. At the end of the investigation, the judge ordered the release of all three accused
+
+“There was no evidence that three persons, including husband, had committed suicide, were not submitted to court. According to the police, the accused had made fun of the woman and asked for money.
+
+Simply mocking, contempt of contempt is not torture or mental harassment.
 
 ...
 
 [Data](articles/02f75ad9.json)
+
+[Extended Data](ext_articles/02f75ad9.ext.json)
 
 ---
 
@@ -63,6 +69,8 @@ Siyambalapitiya said the discussion had focused on the possibility of using exis
 ...
 
 [Data](articles/3344c59c.json)
+
+[Extended Data](ext_articles/3344c59c.ext.json)
 
 ---
 
@@ -86,6 +94,8 @@ The opposition has pledged to repeal the law if they come to power. (Colombo/Jan
 
 [Data](articles/281a3ee5.json)
 
+[Extended Data](ext_articles/281a3ee5.ext.json)
+
 ---
 
 ### 90 pct of military-held land in Sri Lanka’s east already returned: official
@@ -104,6 +114,8 @@ Responding to a question raised by opposition Tamil National Alliance (TNA) parl
 
 [Data](articles/a0e7580b.json)
 
+[Extended Data](ext_articles/a0e7580b.ext.json)
+
 ---
 
 ### Sri Lanka to certify, regulate RAC and MAC technicians
@@ -121,6 +133,8 @@ This would foster a skilled and certified workforce, promote environmental susta
 ...
 
 [Data](articles/f1323e18.json)
+
+[Extended Data](ext_articles/f1323e18.ext.json)
 
 ---
 
@@ -223,6 +237,8 @@ UN Women, a United Nations (UN) agency, said in a statement that the initiative 
 ...
 
 [Data](articles/69f5b2a5.json)
+
+[Extended Data](ext_articles/69f5b2a5.ext.json)
 
 ---
 
@@ -726,7 +742,7 @@ The relevant cash rewards will be awarded to the individuals who provide informa
 
 Accordingly, the Acting Inspector General of Police Deshabandu Tennakoon has given instructions to all the Senior DIGs, DIGs, and the Officers In-Charge of each police division regarding the matter.
 
-Accordingly, Rs. 250,000 is offered to tip-offs about automatic firearms such as T56, AK47, M16, SAR80 and T81 as well as semi-automatic firearms including 84S, SLR, auto loading shot guns.
+Accordingly, Rs. 250,000 is offered to tip-offs about automatic firearms such as T56, AK47, M16, SAR80 and T81 as well as semi-automatic firearms including 84S, SLR, auto loading shotguns.
 
 ...
 
@@ -779,6 +795,8 @@ The central bank, while losing money on central bank dollar swaps and dollar bor
 ...
 
 [Data](articles/60a6ed98.json)
+
+[Extended Data](ext_articles/60a6ed98.ext.json)
 
 ---
 
@@ -1518,13 +1536,15 @@ It is reported that the bank employee and her husband have already been accused 
 
 *2024-01-24 09:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96679/beliatta-mass-shooting-vehicle-used-by-assailants-found-in-galle) · `en`
 
-The vehicle believed to have been used by the assailants complicit in the Beliatta shooting incident that killed five individuals has been found while parked near the Vidyaloka Pirivena in Galle.
+The SUV believed to have been used by the assailants complicit in the Beliatta mass shooting incident that killed five individuals has been located.
 
 On Tuesday (Jan.23), a group of persons who had arrived in a double-cab had opened fire at a Defender near the Beliatta Interchange of the Southern Expressway.
 
 In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he had succumbed to injuries shortly after.
 
-Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of People Party or OPPP) Saman Perera.
+Among the deceased was the leader of ‘Ape Jana Bala Pakshaya’ (Our Power of People Party or OPPP) Saman Perera. The other four victims were identified as Sameera Madhusanka, Hasitha Chinsuka, Buddhika Rajapaksha, and Nalin Champika.
+
+Meanwhile, a man, purportedly one of the gunmen inside the SUV, has been captured by a surveillance camera near the Kamburupitiya roundabout. However, it identity has yet to be established.
 
 ◼️
 

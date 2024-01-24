@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 11:52:23**
+As of **2024-01-24 12:04:13**
 
 ## Newspaper Stats
 
-*Scraped **2,264** Articles*
+*Scraped **2,271** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,12 +12,12 @@ colombotelegraphcom | 33
 bbccomsinhala | 45
 dbsjeyarajcom | 122
 newsfirstlk | 127
-economynextcom | 132
 islandlk | 133
-adaderanasinhalalk | 159
+economynextcom | 135
+adaderanasinhalalk | 161
 dailyftlk | 181
 adalk | 226
-virakesarilk | 247
+virakesarilk | 249
 adaderanalk | 284
 tamilmirrorlk | 285
 dailymirrorlk | 290
@@ -26,11 +26,73 @@ dailymirrorlk | 290
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,264 (100.0%) of 2,264 articles have been extended.
+2,271 (100.0%) of 2,271 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### Some of the Anti -Terrorism Bill are contrary to the Constitution: Malcolm Ranjith Petition in High Court!
+
+*2024-01-24 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174673) · `ta`
+
+Colombo Archbishop Malcolm Cardinal has filed a petition in the Supreme Court demanding that some of the Anti -Terrorism Bill presented in Parliament be contrary to the Constitution.
+
+Petitioner Cardinal Medaku has said that the military, police and the Coast Guard have empowered the army, police and the arrest of any person without a legitimate reason.
+
+He pointed out that the fundamental rights, including independence and freedom of expression, have been violated.
+
+◼️
+
+[Data](articles/3026d19a.json)
+
+[Extended Data](ext_articles/3026d19a.ext.json)
+
+---
+
+### The latest people who receive teacher appointments
+
+*2024-01-24 11:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192504) · `si`
+
+Minister of Education Susil Premajay also says that 5,500 teachers have been gazetted for several selected subjects.
+
+The Minister was responding to a question raised by Opposition Leader Sajith Premadasa in Parliament.
+
+The appointment of teachers, physics, biology, mathematics and special languages are to be given for information.
+
+Meanwhile, 22,000 petitions have been held for 9 months in the Supreme Court regarding the recruitment of graduates and the verdict will be given next week.
+
+However, due to the number of teachers vacancies should be removed due to the number of teachers vacancies.
+
+He said all the provincial councils had already taken steps to provide 13,500 teachers appointment but that it was delayed due to the judicial role in this regard.
+
+◼️
+
+[Data](articles/37c76fc5.json)
+
+[Extended Data](ext_articles/37c76fc5.ext.json)
+
+---
+
+### Minister of Education on Examination
+
+*2024-01-24 11:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192503) · `si`
+
+Minister of Education Susil Premajay also says that by the year 2025, the necessary program has been prepared to be conducted properly.
+
+The Minister made this observation today (24).
+
+The Minister also said that the GCE A / L examination will end on February first and the program required for the answer securities will be prepared.
+
+He said that the incident has been made by the Cabinet Memorandum of the Cabinet of Ministers to provide the allowances paid to teachers and university lecturers who survere the answer sheets of the A / L examination.
+
+◼️
+
+[Data](articles/5df8fa27.json)
+
+[Extended Data](ext_articles/5df8fa27.ext.json)
+
+---
 
 ### Trump wins New Hampshire primary as rematch with Biden appears increasingly likely
 
@@ -67,6 +129,70 @@ Accordingly, Rs. 250,000 is offered to tip-offs about automatic firearms such as
 [Data](articles/cb836544.json)
 
 [Extended Data](ext_articles/cb836544.ext.json)
+
+---
+
+### Sri Lanka central bank equity positive by end 2023, no need for govt capital yet: Governor
+
+*2024-01-24 11:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-equity-positive-by-end-2023-no-need-for-govt-capital-yet-governor-148503/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank had positive equity in its balance sheet by end December and the central bank does not need a government capital injection, after losses made in debt restructuring, Central Bank Governor Nandalal Weerasinghe said.
+
+The International Monetary Fund has asked the central bank to be recapitalized if its capital is negative by 2025, he said.
+
+“If you look at end December balance sheet, we still maintain positive equity,” Governor Weerasinghe said.
+
+“So I think there is no need for us to seek recapitalization at this point.”
+
+Due to converting Treasury bills to bonds, the lower yielding bonds led to a large capital loss at current yields immediately.
+
+The central bank, while losing money on central bank dollar swaps and dollar borrowings, makes cashflow profits on its Treasuries portfolio coupons, though at a lower rate than before restructuring. Foreign assets also bring profits.
+
+...
+
+[Data](articles/43e10060.json)
+
+[Extended Data](ext_articles/43e10060.ext.json)
+
+---
+
+### Colombo High Court in Colombo
+
+*2024-01-24 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174667) · `ta`
+
+Colombo High Court has sentenced seven fishermen to death for kidnapping a fishing boat and killing three fishermen. The incident took place in 2012.
+
+When the case was taken up at the Colombo High Court on Wednesday (24), Judge Aditya Patabandi sentenced the culprits to death.
+
+The High Court judge has ordered the release of the person who was referred to as the 10th defendant of the case.
+
+He was sentenced to 29 years in prison for the defendants for six other charges in addition to the three charges of the death penalty.
+
+◼️
+
+[Data](articles/4ff1ef55.json)
+
+[Extended Data](ext_articles/4ff1ef55.ext.json)
+
+---
+
+### Sri Lanka rupee opens at 319.15/30 to the US dollar
+
+*2024-01-24 10:57:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-319-15-30-to-the-us-dollar-148499/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee was quoted at 319.15/30 to the US dollar on Wednesday late morning trade, while bond yields were lower, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 13.15/25 percent from 13.30/40 percent.
+
+A bond maturing on 01.05.2027 was quoted at 13.45/55 percent.
+
+A bond maturing on 15.03.2028 was quoted at 13.70/80 percent from 13.85/95 percent.
+
+◼️
+
+[Data](articles/5ab1b475.json)
+
+[Extended Data](ext_articles/5ab1b475.ext.json)
 
 ---
 
@@ -1052,6 +1178,30 @@ If the command is violating the Sri Lankan police should take immediate action t
 
 ---
 
+### Sri Lanka inflation to top 6.0-pct in early 2023: CB Governor
+
+*2024-01-24 07:08:00* · [`economynextcom`](https://economynext.com/sri-lanka-inflation-to-top-6-0-pct-in-early-2023-cb-governor-148492/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s inflation will top 6.0 percent in January and February 2024, partly due to the imposition of value added tax, but ease later, Central Bank Governor Nandalal Weerasinghe said.
+
+The central bank had under an agreement signed with President Ranil Wickremesinghe which allows the agency to generate up too 7 percent inflation.
+
+“In the first couple of months there will be a some increase just above the middle path, may be 6.0 percent,” Governor Weerasinghe said.
+
+“Probably in the month of January and February it will remain. We have a projection that it will remain around high levels for some time and then it will come down back to 5 percent in the medium term.”
+
+A hike in value added tax will contribute to the rise in the index in early 2024, as well as a statistical base effect, he said.
+
+Sri Lanka’s vegetable prices have also spiked in recent weeks amid excessive rains.
+
+...
+
+[Data](articles/4a122d4f.json)
+
+[Extended Data](ext_articles/4a122d4f.ext.json)
+
+---
+
 ### The Court of Supreme Court order the Supreme Court over the disappearance of a person's hospital bed
 
 *2024-01-24 06:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192489) · `si`
@@ -1845,137 +1995,5 @@ The NMRA acting on a complaint lodged by a patient by the name Sanath Kumara Ath
 [Data](articles/1d511494.json)
 
 [Extended Data](ext_articles/1d511494.ext.json)
-
----
-
-### The car used for Thera's murder is burned to ashes
-
-*2024-01-23 21:23:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேரரின்-கொலைக்கு-பயன்படுத்திய-கார்-எரிந்து-சாம்பலானது/175-332038) · `ta`
-
-He was killed in a firing by unidentified persons who came in a luxury car on the Kalapaluwawe Tammaratne Thera (45) of the Vihara of the Vihara in Hanegama, Gampaha.
-
-Four people who came in the luxury car have said that they were also a Criminal Investigation Department officials.
-
-Preliminary inquiries by the police revealed that the suspects had fled and fled twice.
-
-In this case, the police have been found in the Navagamuwa area as the Kokusu car, which is said to have been used for the murder of Kalapaluwawe Tamaradana Thera.. Remble
-
-◼️
-
-[Data](articles/6ea919a6.json)
-
-[Extended Data](ext_articles/6ea919a6.ext.json)
-
----
-
-### Repeal Online Safety Bill…
-
-*2024-01-23 21:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Repeal-Online-Safety-Bill/110-275571) · `en`
-
-A group of individuals staged a protest in Colombo today urging the authorities to repeal the Online Safety Bill, which is being debated in Parliament. Pix by Pradeep Dilrukshana
-
-◼️
-
-[Data](articles/b1e675c2.json)
-
-[Extended Data](ext_articles/b1e675c2.ext.json)
-
----
-
-### The solution to the Israeli war says
-
-*2024-01-23 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192485) · `si`
-
-Israeli troops confronted with one hospital in the southern Gaza, and the United States has requested the innocent people when they were destroyed by another hospital.
-
-However, Palestinians say that the attacks on fire, land and sea attacks on fire, land and sea were attacked in the city of Khan Unis.
-
-Israeli troops went west of the Mediterranerane coast to Khan Unisk, the West of Mediterranerane, the Mediterranerarita Coastal Coast, and arrested the Medical Staff to the Al-Khatier Hospital.
-
-The Israeli Army spokesman office had refused to say anything about the situation at the hospital.
-
-The latest announcement issued by the Israeli Army indicated that 24 Israeli soldiers were killed in the past 24 hours.
-
-It is the highest number of casualties to the Israeli Army for a day from the war of Israeli Hamas.
-
-The victims were destroyed by 21 soldiers who were killed through a tank of Hamas rockets of Hamas rockets.
-
-...
-
-[Data](articles/40540fc7.json)
-
-[Extended Data](ext_articles/40540fc7.ext.json)
-
----
-
-### Asia Internet Coalition refutes Minister Tiran’s statement on Online Safety Bill
-
-*2024-01-23 21:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96672/asia-internet-coalition-refutes-minister-tirans-statement-on-online-safety-bill) · `en`
-
-An influential trade body which represents Big Tech firms such as Meta, Apple, Amazon, X (formerly Twitter), Google, Snap Inc and others today refuted certain claims made by Sri Lanka’s Public Security Minister Tiran Alles in his statement in Parliament, concerning the controversial Online Safety Bill.
-
-In a statement issued on Tuesday (23 Jan.), the Asia Internet Coalition (AIC) challenged that the Minister’s recent claims “does not accurately reflect the substantial contributions that the AIC has made throughout the legislative process”.
-
-They also brought to light the fact that the AIC was not made aware of any amendments to the Online Safety Bill, despite their contributions.
-
-...
-
-[Data](articles/adff3c6e.json)
-
-[Extended Data](ext_articles/adff3c6e.ext.json)
-
----
-
-### Buddhist monk killing: Car used in shooting found torched
-
-*2024-01-23 21:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Buddhist-monk-killing-Car-used-in-shooting-found-torched/108-275587) · `en`
-
-Kaduwela, Jan 23 (Daily Mirror) - The vehicle suspected to have been used in the fatal shooting of a Buddhist monk at a temple in Malwathu Hiripitiya, Gampaha, was discovered engulfed in flames in the Kaduwela area today.
-
-The suspects had set fire to the car at a deserted location near a forest in Kaduwela before making their escape.
-
-Earlier in the day, four unidentified individuals in a car had opened fire on the 45-year-old Buddhist monk using a T-56 weapon.
-
-◼️
-
-[Data](articles/401ca10c.json)
-
-[Extended Data](ext_articles/401ca10c.ext.json)
-
----
-
-### It is completely baseless that Parliament does not pay Rs 7 crore.
-
-*2024-01-23 20:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174620) · `ta`
-
-The Minister of Power and Power and Energy Kanjana Wijesekera urged the Speaker of the Department of Power and Energy to take appropriate legal action to take appropriate legal action to take appropriate legal action to the Parliamentary Privacy and Moral Committee.
-
-False news has been reported in social media and newspapers that Parliament has not paid the Rs.. This message was followed by the exploration. Parliament's electricity is paid every month.
-
-Similarly, the Presidential Secretariat is also properly paid. There are no outstanding charges. Therefore, the union leader Ranjan Jayalal, who referred to the unrealistic issue to insult the Parliament, said that the legal action should be taken to the Parliamentary Privacy and Moral Committee.
-
-◼️
-
-[Data](articles/7c826950.json)
-
-[Extended Data](ext_articles/7c826950.ext.json)
-
----
-
-### Royal Beach Saman’s assassination linked to decades-old conflict with ’Kosgoda Sujee’
-
-*2024-01-23 20:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Royal-Beach-Samans-assassination-linked-to-decades-old-conflict-with-Kosgoda-Sujee/108-275586) · `en`
-
-Colombo, Jan 23 (Daily Mirror) - While multiple police teams are conducting investigations over the manslaughter of five persons in Beliatta, police revealed that the shooting was a result of conflicts between major organized criminal and drug trafficker 'Kosgoda Sujee' and 'Ape Jana Bala' Party leader Saman Perera over drug trafficking and the killing of Sujee's uncle and brother in 2004.
-
-Five individuals, including Saman Perera, also known as 'Royal Beach Saman,' were shot dead near the Beliatta-Kahawatta interchange of the Southern Expressway when they were enroute to a court appearance in Tangalle.
-
-Saman Perera, also known as 'Royal Beach Saman,' had several pending court cases, including one related to the murder of Asela Sampath at the Kudawella Fisheries Harbour on 05.06.2022. It was revealed that they were killed when they were on their way to appear before court in the case related to the murder Asela Sampath.
-
-...
-
-[Data](articles/f8b3ee25.json)
-
-[Extended Data](ext_articles/f8b3ee25.ext.json)
 
 ---

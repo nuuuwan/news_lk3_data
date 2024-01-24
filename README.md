@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 00:48:38**
+As of **2024-01-25 01:02:27**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,447 (99.8%) of 2,452 articles have been extended.
+2,452 (100.0%) of 2,452 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -76,6 +76,8 @@ Ambassador Mizukoshi underscored Japan’s steadfast partnership with Sri Lanka 
 
 [Data](articles/f892a997.json)
 
+[Extended Data](ext_articles/f892a997.ext.json)
+
 ---
 
 ### Temple to temple diplomacy strengthens cultural ties between Sri Lanka and Myanmar
@@ -91,6 +93,8 @@ The visiting monks were warmly welcomed by the Pa Thein Monastery in Yangon. Dur
 ...
 
 [Data](articles/2a44c90c.json)
+
+[Extended Data](ext_articles/2a44c90c.ext.json)
 
 ---
 
@@ -108,6 +112,8 @@ In 2013, Thai Cabinet agreed to expand NEDA’s cooperation to three more specif
 
 [Data](articles/4199ba00.json)
 
+[Extended Data](ext_articles/4199ba00.ext.json)
+
 ---
 
 ### Sri Lankans resettled in Tamil Nadu receive passports
@@ -121,6 +127,8 @@ The Government of Sri Lanka has so far been issuing a travel document called Ref
 ...
 
 [Data](articles/1312703e.json)
+
+[Extended Data](ext_articles/1312703e.ext.json)
 
 ---
 
@@ -141,6 +149,8 @@ Despite the recent uptake of educational technology (edtech) in Sri Lanka, it do
 ...
 
 [Data](articles/15d15a8e.json)
+
+[Extended Data](ext_articles/15d15a8e.ext.json)
 
 ---
 

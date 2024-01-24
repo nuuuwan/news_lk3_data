@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 17:33:42**
+As of **2024-01-24 17:53:31**
 
 ## Newspaper Stats
 
-*Scraped **2,362** Articles*
+*Scraped **2,363** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 122
 newsfirstlk | 132
 islandlk | 133
 economynextcom | 144
-adaderanasinhalalk | 177
+adaderanasinhalalk | 178
 dailyftlk | 181
 adalk | 233
 virakesarilk | 264
@@ -26,45 +26,67 @@ dailymirrorlk | 307
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,360 (99.9%) of 2,362 articles have been extended.
+2,363 (100.0%) of 2,363 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### කෙටුම්පත් 04ක් සඳහා කථානායකගේ සහතිකය
+### Online Bill Seventh Reading is passed by more
+
+*2024-01-24 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192522) · `si`
+
+Online methods security bill held a vote in Parliament this afternoon.
+
+Online methods security bill, 108 votes were cast against and 62 votes.
+
+Accordingly, the Speaker informed the Parliament that the second reading of the security of online methods was approved by more than 46 votes.
+
+◼️
+
+[Data](articles/6fbb582a.json)
+
+[Extended Data](ext_articles/6fbb582a.ext.json)
+
+---
+
+### Speaker's Certificate for Four Draft
 
 *2024-01-24 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192521) · `si`
 
-පාර්ලිමේන්තුව විසින් සම්මත කරනු ලැබූ පනත් කෙටුම්පත් 04ක් සඳහා සහතිකය සටහන් කළ බව කථානායක මහින්ද යාපා අබේවර්ධන මහතා නිවේදනය කළේය.
+Speaker Mahinda Yapa Abeywardena announced that the certificate was passed to four Bills passed by Parliament.
 
-ඊයේ (23) කථානායකවරයා විසින් සිය සහතිකය කෙටුම්පත් සඳහා සටහන් කළ බව අද (24) පාර්ලිමේන්තුවට නිවේදනය කළේය.
+The Speaker was recorded yesterday (23) to publish that the Speaker had recorded his certificate today.
 
-ඇටෝර්නි බලතල (සංශෝධන), වංචා වැළක්වීමේ (සංශෝධන), සමථ මණ්ඩල (සංශෝධන) සහ ජාතික සමගිය හා ප්‍රතිසන්ධානය පිළිබඳ කාර්යාල යන පනත් කෙටුම්පත්වලට කථානායකවරයා සිය සහතිකය සටහන් කොට තිබේ.
+The Speaker has recorded its certificate to the Atonement Amendment (Amendment), Fraud (Amendment) and the National Unity and Reconciliation Offices.
 
-ඒ අනුව, උක්ත පනත් කෙටුම්පත් 2024 අංක 01 දරන ජාතික සමගිය සහ ප්‍රතිසන්ධානය සඳහා වූ කාර්යාල පනත, 2024 අංක 02 දරන සමථ මණ්ඩල (සංශෝධන) පනත, 2024 අංක 03 දරන ඇටෝර්නි බලතල (සංශෝධන) පනත සහ 2024 අංක 04 දරන වංචා වැළැක්වීමේ (සංශෝධන) පනත ලෙස ඊයේ සිට බලාත්මක වේ.
+Accordingly, the UPFA (Amendment) Act No. 1 of the National Unity and Reconciliation (Amendment) Act, No. 03, 2024, No. 03 of 2024, Powers (Amendment) Act, No. 03, 2024, No. 03, No. 03Effective from yesterday as bill.
 
 ◼️
 
 [Data](articles/074d37b1.json)
 
+[Extended Data](ext_articles/074d37b1.ext.json)
+
 ---
 
-### මාල නොකැඩූ බව රෝහිත කියයි
+### Rohitha says the necklaces
 
 *2024-01-24 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192520) · `si`
 
-තමන් මාල කැඩූ බවට ඇති එකදු හෝ පොලිස් පැමිණිල්ලක් පෙන්විය හැකි නම්, ඕනෑම මොහොතක පාර්ලිමේන්තුවෙන් ඉවත් වීමට සූදානම් බව පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා පවසයි.
+MP Rohitha Abeygunawardena says he is ready to leave Parliament at any time, if he could have shown a single police complaint.
 
-බොහෝ අයට කුඩා කාලයේ දී විවිධ අන්වර්ථ නාමයන් පට බැඳෙන බවත් ප්‍රේමලාල් ජයසේකර මහතාට 'චොකා මල්ලි' යනුවෙන් අන්වර්ථ නාමයක් පට බැඳ ඇති සේ තමාට ද කුඩා කළ සිට 'රත්තරං' යනුවෙන් විවිධ පිරිස් අමතා ඇති බවත් මන්ත්‍රීවරයා සඳහන් කරයි.
+He said that Mr. Premalal Jayasekera has been asked 'gold' from a child, 'Gold' has been told, 'Gold' has been addressed to the 'Ranht'.
 
-එවැනි පදනමකින් තමා ව රත්තරං යනුවෙන් විවිධ පාර්ශ්වයන් අමතනවා මිස තමා කිසි දිනයක මාල කැඩීම් වැනි දෑ සිදු නො කළ බව මන්ත්‍රීවරයා අවධාරණය කළේය.
+The MP emphasized that he addresses the partners he is addressed by such a basis.
 
-මාල කැඩීමක් පිළිබඳ පොලිස් පැමිණිල්ලක් තිබේ නම්, වහාම එය ඉදිරිපත් කරන ලෙසත් එසේ ඉදිරිපත් කිරීමට කිසිවකුට හෝ හැකි නම්, ඕනෑම මොහොතක සිය පාර්ලිමේන්තු අසුනෙන් ඉල්ලා අස් වීමට සූදානම් බවත් පාර්ලිමේන්තු මන්ත්‍රී රෝහිත අබේගුණවර්ධන මහතා අවසාන වශයෙන් පැවසීය.
+The MP Rohitha Abeygunawardena has said that if there is a police complaint about a necklace.
 
 ◼️
 
 [Data](articles/008dcb57.json)
+
+[Extended Data](ext_articles/008dcb57.ext.json)
 
 ---
 
@@ -2045,23 +2067,5 @@ Meanwhile, a female accused in the case was acquitted and released.
 [Data](articles/10f13b4e.json)
 
 [Extended Data](ext_articles/10f13b4e.ext.json)
-
----
-
-### Beliatta five massacre: vehicle recovery used for the incident
-
-*2024-01-24 10:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174660) · `ta`
-
-The vehicle, which was supposed to have been used for the murder of five people in the Beliatta firing, was found parked near the Galle Vidyaloka Port.
-
-On Tuesday morning (23), some people in a Defender vehicle near the Beliyatta exit of the Southern Expressway were fired by a group of people in a cab.
-
-Four people died on the spot and another man was admitted to hospital after being injured.. Among the casualties include Abe Janapala Party leader Saman Perera.
-
-◼️
-
-[Data](articles/eb4845cd.json)
-
-[Extended Data](ext_articles/eb4845cd.ext.json)
 
 ---

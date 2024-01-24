@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 22:05:26**
+As of **2024-01-24 22:17:06**
 
 ## Newspaper Stats
 
-*Scraped **2,420** Articles*
+*Scraped **2,422** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ islandlk | 133
 newsfirstlk | 135
 economynextcom | 144
 dailyftlk | 181
-adaderanasinhalalk | 184
-adalk | 240
+adaderanasinhalalk | 185
+adalk | 241
 virakesarilk | 276
 tamilmirrorlk | 301
 adaderanalk | 305
@@ -26,11 +26,39 @@ dailymirrorlk | 319
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,420 (100.0%) of 2,420 articles have been extended.
+2,420 (99.9%) of 2,422 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### පාකිස්තාන සම්භවය බශීර් ට හරහට හිටියි
+
+*2024-01-24 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192529) · `si`
+
+සිය මංගල ටෙස්ට් තරගය සඳහා හෙට (25) සහභාගීවීම ට හැකි වෙතැයි සිහින මවමින් සිටි එංගලන්ත යොවුන් ක්‍රීඩක ෂොයිබ් බශීර් ට එම අවස්ථාව අහිමිවී තිබේ.
+
+බශීර් සරේ ප්‍රාන්තයේ උපත ලබා ඇති නමුත් ඔහුගේ දෙමව්පියන් පාකිස්තාන සම්භවයක් සහිත පුද්ගලයින් ය.
+
+ඉන්දීය - පාකිස්තාන අර්බුදය හේතුවෙන් ඔහුට වීසා නිකුත් කිරීම ප්‍රමාද වන්නට ඇතැයි සැලකෙයි.
+
+පාකිස්තාන සම්භවයක් සහිත මොයීන් අලී, උස්මාන් ක්වාජා වැනි ක්‍රීඩකයින් ටද එවැනි දුෂ්කරතා මීට පෙර ඇතිවුණි.
+
+සිය ජාතිකයින් ට වීසා නිකුත් කිරීමේදී සම තත්ත්වයෙන් සලකන ලෙස එංගලන්ත බලධාරීන් ඉන්දියාවට දැනුම්දී තිබේ.
+
+මේ අතර එංගලන්ත නායක බෙන් ස්ටෝක්ස් පවසා අත්තේ දෙරට අතර පළමු ටෙස්ට් තරගය වර්ජනය කිරීමට තමාට සිතුවිල්ලක් ඇතිවූ බවය.
+
+තම ක්‍රීඩකයාට ඉන්දීය බලධාරීන් සැලකූ ආකාරය ගැන කලකිරීමෙන් තමා එය පැවසූ බව ඔහු කියා තිබේ.
+
+මේ අතර එංගලන්ත මාධ්‍ය මීට සුළු මොහොතකට පෙර වාර්තා කළේ බශීර් ගේ වීසා නිකුත් කළ බවය.
+
+ඒ අනුව ඔහුට සති අන්තයේ එංගලන්ත කණ්ඩායම සමග එක්වීමට හැකි වෙතැයි බලධාරීන් පවසයි.
+
+◼️
+
+[Data](articles/a5c90f80.json)
+
+---
 
 ### Dozens dead after fire breaks out in China shop
 
@@ -325,6 +353,22 @@ When the Law was taken up before the Law Fort Fort Fort Fort Fort Fort Fort Fort
 [Data](articles/2ba27a66.json)
 
 [Extended Data](ext_articles/2ba27a66.ext.json)
+
+---
+
+### නුදුරේ දී ම තවත් ගුරු පත්වීම් පන්දාහක්
+
+*2024-01-24 19:11:56* · [`adalk`](https://www.ada.lk/breaking_news/නුදුරේ-දී-ම-තවත්-ගුරු-පත්වීම්-පන්දාහක්/11-407714) · `si`
+
+රසායන විද්‍යාව, භෞතික විද්‍යාව, ජීව විද්‍යා, ගණිතය, තාක්ෂණවේදය හා විශේෂ භාෂා යන විෂයන් සඳහා ගැසට් නිවේදන නිකුත් කර විභාග පවත්වා පන්දාස් පන්සීයක පමණ ගුරුවරුන් සංඛ්‍යාවක් ගුරු සේවා ව්‍යවස්ථාව අනුව බඳවාගැනීමට අපේක්ෂා කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා අද පාර්ලිමේන්තුවේ දී ප්‍රකාශ කළේ ය.
+
+එසේ ම ශ්‍රේෂ්ඨාධිකරණය විසින් ලබා දෙන නියෝග අනුව දැනටමත් රාජ්‍ය සේවයේ නියුතු උපාධිධාරීන් විසි දෙදහසකට ඉදිරියේ දී ගුරුපත්වීම් ලබා දීමට හැකි වන බව ද මෙහි දී පැවසූ අමාත්‍යවරයා ඊට අමතර ව පළාත් සභා මගින් ද දහතුන්දහස ඉක්මවූ ගුරුවරුන් සංඛ්‍යාවක් බඳවාගැනීම උසාවි නියෝග මත ක්‍රියාත්මක කරන බවත් සඳහන් කළේ ය.
+
+ලබන පෙබරවාරි මස අග වන විට මෙම සියලු‍ ගුරු පත්වීම් ලබා දී ගුරු පුරප්පාඩු පුරවා ගුරු හිඟය පූර්ණ වශයෙන් ම මගහරවා ගැනීම තම අපේක්ෂාව වන බව ද ඒ මහතා වැඩිදුරටත් පැවසී ය.
+
+◼️
+
+[Data](articles/3f28ad52.json)
 
 ---
 
@@ -2005,51 +2049,5 @@ Simply ridicuing, speaking disgusting is not to torture, or mental harassment.
 [Data](articles/ea248238.json)
 
 [Extended Data](ext_articles/ea248238.ext.json)
-
----
-
-### The murder of Dhammaratana Thero: So far, what do we know so far?
-
-*2024-01-24 14:00:50* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cp6xed2n80eo) · `si`
-
-Acting IGP, led by acting IGP, is currently in progressing on the instructions of the country.
-
-Accordingly, security has been reinforced, including vehicles and buses, including vehicles and buses.
-
-In such a backment (January 23), a group of violent incidents of a car shooting a Buddhist monk shooting a Buddhist monk who was shot dead in Gampaha, Malwathu Hiripitiya.
-
-A 45-year-old was a 45-year-old monk, Dhammaratne, Ven.
-
-The shooting was held at the Malwathuthihiriwa, Gampaha Malwathuna, Kahanna, Kahanna, Kahanna, Kahanna, Kahanna, Kahanna, Kahanna, Kahanna, Gampaha.
-
-The monk who claims to engage in astrology and the monk, the Chief Incumbent of the temple and the temple temple, told the Halukulage Chandrama Chanduwemala Thera had told the media.
-
-...
-
-[Data](articles/816ca790.json)
-
-[Extended Data](ext_articles/816ca790.ext.json)
-
----
-
-### Seven accused sentenced to death for seven court history
-
-*2024-01-24 13:54:14* · [`adalk`](https://www.ada.lk/breaking_news/අධිකරණ-ඉතිහාසය-අලුත්-කළ-නඩුවේ-විත්තිකරුවන්-07කට-මරණ-දඩුවම/11-407707) · `si`
-
-Colombo High Court Winitanti, who was sentenced to death in court, was sentenced to acquitted of all accused from all allegations today (24).
-
-The vicinity of the accused of murder of two fishermen at the deep sea of Galle and two other fishermen were sentenced to six million fishermen sentenced to Rs. 2 millionAlso fixed.
-
-Nonw Lakmal, Dayuska Priyashal, Sampath Kumara, P. H. Dayananda, K. Nihal Nishantha, K. Ajith Kumara, K. Ranjith Nishantha is for the people.
-
-The judge declared the case without the death of the accusation of Telsek Chhihuri, who was named the 10th accused in the case while the 10th defendant named Telsey Kumaran, who was named the 10th defendant named Telseh Queen.Released.
-
-Tangalle on the 15th of October 15, 2012, Tangalle was conspired to takecure the Thajan's multi-dimensional water in the near future.The Attorney General has been accused of being accused of killing.
-
-...
-
-[Data](articles/b46b9850.json)
-
-[Extended Data](ext_articles/b46b9850.ext.json)
 
 ---

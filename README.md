@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 14:17:20**
+As of **2024-01-24 14:32:53**
 
 ## Newspaper Stats
 
-*Scraped **2,303** Articles*
+*Scraped **2,310** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,116 @@ bbccomsinhala | 45
 dbsjeyarajcom | 122
 newsfirstlk | 132
 islandlk | 133
-economynextcom | 135
+economynextcom | 141
 adaderanasinhalalk | 164
 dailyftlk | 181
 adalk | 229
 virakesarilk | 254
 adaderanalk | 288
-tamilmirrorlk | 289
+tamilmirrorlk | 290
 dailymirrorlk | 298
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,303 (100.0%) of 2,303 articles have been extended.
+2,303 (99.7%) of 2,310 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
+
+### பெண்ணை கேலி செய்வது சித்ரவதை ஆகாது : நீதிமன்றம்
+
+*2024-01-24 14:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-கேலி-செய்வது-சித்ரவதை-ஆகாது-நீதிமன்றம்/175-332054) · `ta`
+
+வெறுமனே கேலி செய்வது, இகழ்வாக பேசுவது என்பது சித்ரவதை செய்வது  வெறுமனே கேலி செய்வது, இகழ்வாக பேசுவது என்பது சித்ரவதை செய்வது அல்லது மனரீதியாக துன்புறுத்துவது ஆகாது என்றும் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+மராட்டிய மாநிலம் நந்துர்பூரை சேர்ந்த பெண் கடந்த 1994-ம் ஆண்டு ஏப்ரல் மாதம் உடலில் தீவைத்து தற்கொலை செய்து கொண்டார்.
+
+பெண்ணை தற்கொலைக்கு தூண்டியதாக பெண்ணின் கணவர், மைத்துனர், மாமியார் மீது பொலிஸார் வழக்குப்பதிவு செய்தனர். வழக்கை விசாரித்த நந்துர்பூர் அமர்வு நீதிமன்றம், பெண்ணை தற்கொலைக்கு தூண்டியதாக கணவர் உள்பட 3 பேருக்கும் தண்டனை வழங்கியது. இதை எதிர்த்து அவர்கள் மும்பை உயர்நீதிமன்ற அவுரங்காபாத் கிளையில் மேல் முறையீடு செய்தனர்.
+
+மனுவை நீதிபதி அபய் வாக்வாசே தலைமையிலான தனி நபர் அமர்வு விசாரித்தது. விசாரணையின் முடிவில், குற்றம்சாட்டப்பட்ட 3 பேரையும் விடுவித்து நீதிபதி உத்தரவிட்டார்
+
+...
+
+[Data](articles/02f75ad9.json)
+
+---
+
+### Sri Lanka ponders use of national identity card number for tax registration
+
+*2024-01-24 13:52:00* · [`economynextcom`](https://economynext.com/sri-lanka-ponders-use-of-national-identity-card-number-for-tax-registration-148545/) · `en`
+
+ECONOMYNEXT — Sri Lanka is contemplating the use of the existing national identity card (NIC) number to register for taxation in place of the Taxation Identification Number (TIN) that all citizens above the age of 18 were recently asked to obtain.
+
+State Minister of Finance Ranjith Siyambalapitiya told reporters that a discussion in this regard was held at the Presidential Secretariat on Tuesday January 23 with the participation of the Secretary to the President, the Chief Economic Advisor to the President, the Commissioner General of the Inland Revenue Department (IRD) and other officials.
+
+Siyambalapitiya said the discussion had focused on the possibility of using existing biographical data of citizens already recorded by various state bodies that routinely deal with members of the public.
+
+...
+
+[Data](articles/3344c59c.json)
+
+---
+
+### Rulers trying to curb freedom of online speech, after bankrupting Sri Lanka: opposition
+
+*2024-01-24 13:50:00* · [`economynextcom`](https://economynext.com/rulers-trying-to-curb-freedom-of-online-speech-after-bankrupting-sri-lanka-opposition-148530/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rulers are trying to curb the freedom of speech of people after bankrupting the country, opposition chief whip Lakshman Kiriella told parliament in a debate over a controversial law to control online speech.
+
+“We agree that regulation is needed, but this Bill should be postponed and get suggestions from the opposition about our doubts and fears (se-ka san-ka) on this,” Kiriella said.
+
+The UN and several international companies have opposed this Bill, Kiriella said. “The international community will be against us if we bring this law.”
+
+“Lajjayi (shame), instead of going home you are trying to bring this law.”
+
+Ruling party legislator Ajith Rajapakse said there were people who mis-used social media.
+
+The opposition has pledged to repeal the law if they come to power. (Colombo/Jan24/2024)
+
+◼️
+
+[Data](articles/281a3ee5.json)
+
+---
+
+### 90 pct of military-held land in Sri Lanka’s east already returned: official
+
+*2024-01-24 13:32:00* · [`economynextcom`](https://economynext.com/90-pct-of-military-held-land-in-sri-lankas-east-already-returned-official-148531/) · `en`
+
+ECONOMYNEXT — Some 90 percent of military-held land in Sri Lanka’s eastern province has been handed over to residents, State Minister of Pramitha Bandara Tennakoon told parliament.
+
+Responding to a question raised by opposition Tamil National Alliance (TNA) parliamentarian Shanakiyan Rasamanickam, Tennakoon said on Wednesday January 24 that military camps are not limited to the country’s formerly war-torn northern and eastern provinces but are located in all provinces taking into account present and future security risks.
+
+“In the eastern province, the tri forces owned 44,980 acres [of land]. Of this, 37,955 acres, over 90 percent, has been given back to residents of that area. The forces have only 7,379 acres under their control now. Of these, lands owned by private citizens amount to 37.84 acres, while state land amounts to 7,342 acres,” the state minister said.
+
+“Of the land owned by private citizens, we will hand over eight acres this year,” he added.
+
+...
+
+[Data](articles/a0e7580b.json)
+
+---
+
+### Sri Lanka to certify, regulate RAC and MAC technicians
+
+*2024-01-24 13:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-certify-regulate-rac-and-mac-technicians-148520/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Environment Ministry plans to establish a licensing system for refrigeration, air conditioning (RAC) and mobile air conditioning (MAC) technicians and to provide national vocational qualification for them.
+
+Sri Lanka hoped to regulate “the technicians in the informal sector and introduce national vocational qualification and a license,” Apsara Mendis, Director Air Management and Ozone Unit of Ministry of Environment said.
+
+“We will join with the Engineering Council of Sri Lanka (ECSL), and give licenses and we will bring a law saying that without the license, you can’t work with air conditioners and refrigerators.”
+
+This would foster a skilled and certified workforce, promote environmental sustainability, and safeguard public well-being, Mendis said at the signing of an agreement with the Public Utilities Commission of Sri Lanka (PUCSL), on Tuesday (23).
+
+...
+
+[Data](articles/f1323e18.json)
+
+---
 
 ### Suspect arrested over mass shooting in Beliatta
 
@@ -115,6 +207,22 @@ Trump takes decisive step towards Republican Party nomination for president
 [Data](articles/cb3ce31c.json)
 
 [Extended Data](ext_articles/cb3ce31c.ext.json)
+
+---
+
+### Japan, UN Women support 600 women-led micro enterprises in Sri Lanka
+
+*2024-01-24 12:49:00* · [`economynextcom`](https://economynext.com/japan-un-women-support-600-women-led-micro-enterprises-in-sri-lanka-148516/) · `en`
+
+ECONOMYNEXT — Amid some uneasiness in relations between the two countries in light of a cancelled light rail transit project, Japanese funding worth 343,000 US dollars has been used by UN Women and a local organisation to provide assets to 600 women-led micro-enterprises.
+
+UN Women, a United Nations (UN) agency, said in a statement that the initiative was undertaken as part of a larger one-year project ‘Empowering women in crisis’ that began in February 2023.
+
+“Through this project, UN Women and implementing partner Chrysalis have provided humanitarian assistance for women most affected by the socioeconomic crisis in Sri Lanka – in close collaboration with Ministry of Women, Child Affairs and Social Empowerment,” the statement said.
+
+...
+
+[Data](articles/69f5b2a5.json)
 
 ---
 
@@ -649,6 +757,28 @@ The central bank, while losing money on central bank dollar swaps and dollar bor
 [Data](articles/43e10060.json)
 
 [Extended Data](ext_articles/43e10060.ext.json)
+
+---
+
+### Sri Lanka central bank does not need govt capital yet: Governor
+
+*2024-01-24 11:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-central-bank-does-not-need-govt-capital-yet-governor-148503/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s central bank had positive equity in its balance sheet by end December and the central bank does not need a government capital injection, after losses made in debt restructuring, Central Bank Governor Nandalal Weerasinghe said.
+
+The International Monetary Fund has asked the central bank to be recapitalized if its capital is negative by 2025, he said.
+
+“If you look at end December balance sheet, we still maintain positive equity,” Governor Weerasinghe said.
+
+“So I think there is no need for us to seek recapitalization at this point.”
+
+Due to converting Treasury bills to bonds, the lower yielding bonds led to a large capital loss at current yields immediately.
+
+The central bank, while losing money on central bank dollar swaps and dollar borrowings, makes cashflow profits on its Treasuries portfolio coupons, though at a lower rate than before restructuring. Foreign assets also bring profits.
+
+...
+
+[Data](articles/60a6ed98.json)
 
 ---
 
@@ -1897,127 +2027,5 @@ In some places in some places in the Galle, Western and Uva provinces, in some p
 [Data](articles/12e77fed.json)
 
 [Extended Data](ext_articles/12e77fed.ext.json)
-
----
-
-### Jeevan Thondaman under fire for inviting South Indian actresses amidst austerity, hardship
-
-*2024-01-24 06:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Jeevan-Thondaman-under-fire-for-inviting-South-Indian-actresses-amidst-austerity-hardship/155-275616) · `en`
-
-Colombo, Jan -24 (Daily Mirror) - Ceylon Workers’ Congress (CWC) General Secretary Minister Jeevan Thondaman is in the centre of controversy over the presence of South Indian actresses Aishwarya Rajesh, Aishwarya Dutta, Samyuktha Menon, and Meenakshi (Pinky Sarkar) in national Thai Pongal celebrations conducted in Hatton last Sunday.
-
-He is under fire from his political opponents who question him whether these South artistes were sponsored using tax payers’ money despite the government having declared austerity measures
-
-Samagi Jana Balawegaya (SJB) Organizer for Passara Letchumanar Sanjay asks why Mr. Thondaman took steps to celebrate the national Pongal festival in such a luxurious manner at a time when people are suffering due to the soaring cost of living.
-
-...
-
-[Data](articles/0edca7a7.json)
-
-[Extended Data](ext_articles/0edca7a7.ext.json)
-
----
-
-### Minister under fire for Inviting South Indian actresses amidst austerity, hardship
-
-*2024-01-24 06:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-under-fire-for-Inviting-South-Indian-actresses-amidst-austerity-hardship/108-275616) · `en`
-
-Colombo, Jan -24 (Daily Mirror) - Ceylon Workers’ Congress (CWC) General Secretary Minister Jeevan Thondaman is in the centre of controversy over the presence of South Indian actresses Aishwarya Rajesh, Aishwarya Dutta, Samyuktha Menon, and Meenakshi (Pinky Sarkar) in national Thai Pongal celebrations conducted in Hatton last Sunday.
-
-He is under fire from his political opponents who question him whether these South artistes were sponsored using tax payers’ money despite the government having declared austerity measures
-
-Samagi Jana Balawegaya (SJB) Organizer for Passara Letchumanar Sanjay asks why Mr. Thondaman took steps to celebrate the national Pongal festival in such a luxurious manner at a time when people are suffering due to the soaring cost of living.
-
-...
-
-[Data](articles/57343039.json)
-
-[Extended Data](ext_articles/57343039.ext.json)
-
----
-
-### Minister under fire for inviting South Indian actresses amidst austerity, hardship
-
-*2024-01-24 06:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minister-under-fire-for-inviting-South-Indian-actresses-amidst-austerity-hardship/108-275616) · `en`
-
-Colombo, Jan -24 (Daily Mirror) - Ceylon Workers’ Congress (CWC) General Secretary Minister Jeevan Thondaman is in the centre of controversy over the presence of South Indian actresses Aishwarya Rajesh, Aishwarya Dutta, Samyuktha Menon, and Meenakshi (Pinky Sarkar) in national Thai Pongal celebrations conducted in Hatton last Sunday.
-
-He is under fire from his political opponents who question him whether these South artistes were sponsored using tax payers’ money despite the government having declared austerity measures
-
-Samagi Jana Balawegaya (SJB) Organizer for Passara Letchumanar Sanjay asks why Mr. Thondaman took steps to celebrate the national Pongal festival in such a luxurious manner at a time when people are suffering due to the soaring cost of living.
-
-...
-
-[Data](articles/9b24a88c.json)
-
-[Extended Data](ext_articles/9b24a88c.ext.json)
-
----
-
-### Is the new ITAK Leader Shritharan promoting separatism instead of federalism?
-
-*2024-01-24 05:50:54* · [`dailyftlk`](https://www.ft.lk/columns/Is-the-new-ITAK-Leader-Shritharan-promoting-separatism-instead-of-federalism/4-757709) · `en`
-
-The premier political party representing Sri Lankan Tamils in Parliament has got a new leader. The Ilankai Thamil Arasuk Katchi (ITAK) known in English as the Federal Party (FP) has elected Jaffna district Parliamentarian Sivagnanam Shritharan as its president in Trincomalee on 21 January 2024. The president elect will be formally installed in office at the party convention to be held on 28 January in Trinco. Shritharan will serve a two-year term as ITAK/FP president.
-
-Initially there were three contenders in the fray for the ITAK Presidency. The three aspirants to the ITAK leadership mantle were Mathiaparanan Abraham Sumanth-iran, Sivagnanam Shritharan and Seenit-hamby Yoheswaran. Suma-nthiran born in 1964 and Shritharan born in 1968 are both Jaffna district MPs while Yogeswaran born in 1970 is a former Batticaloa district Parliamentarian.
-
-...
-
-[Data](articles/de0c2ee3.json)
-
-[Extended Data](ext_articles/de0c2ee3.ext.json)
-
----
-
-### Navigating educational and professional paths: Crucial role of psychometric assessment
-
-*2024-01-24 05:39:50* · [`dailyftlk`](https://www.ft.lk/columns/Navigating-educational-and-professional-paths-Crucial-role-of-psychometric-assessment/4-757708) · `en`
-
-Psychometric assessments, when conducted by qualified practitioners, act as preventive tools by providing clarity on the best-fit educational and career paths
-
-In the journey toward educational and professional fulfilment, individuals often encounter pivotal decision points that shape their future trajectories. In these transformative moments, seeking the guidance of a qualified psychologist or licensed practitioner armed with psychometric assessments proves to be an invaluable compass. This article delves into the critical importance of professional assistance in comprehending personal strengths, preferences and aptitudes through psychometric assessments. It aims to highlight the role of these assessments in facilitating informed choices about educational and career paths, particularly by acknowledging the profound impact of brain development after the age of 18.
-
-...
-
-[Data](articles/7ac0eb4b.json)
-
-[Extended Data](ext_articles/7ac0eb4b.ext.json)
-
----
-
-### Four lessons for bridging the urban-rural e-commerce divide in Sri Lanka
-
-*2024-01-24 05:28:05* · [`dailyftlk`](https://www.ft.lk/columns/Four-lessons-for-bridging-the-urban-rural-e-commerce-divide-in-Sri-Lanka/4-757705) · `en`
-
-Some rural sellers continued to encounter delivery issues due to gaps in the availability of fast and reliable logistics services in remote areas
-
-Across the globe, e-commerce has emerged as a powerful engine of economic growth, job creation, innovation and trade integration. Research by the World Bank suggests that ‘e-commerce can flourish in developing countries and in rural areas and be a powerful instrument to create employment for semi-skilled workers, women and other groups.’ Correspondingly, the usage of e-commerce in Sri Lanka also appears to be gaining traction, with a recent report published in 20231 revealing that e-commerce is already an ‘island wide phenomenon’ in Sri Lanka, with over 50% of the survey respondents in all provinces affirming their use of e-commerce to purchase goods and services.
-
-...
-
-[Data](articles/fc816d75.json)
-
-[Extended Data](ext_articles/fc816d75.ext.json)
-
----
-
-### Curbing spam, scam and fraud in Sri Lanka
-
-*2024-01-24 05:23:44* · [`dailyftlk`](https://www.ft.lk/columns/Curbing-spam-scam-and-fraud-in-Sri-Lanka/4-757704) · `en`
-
-The Sri Lankan Government is said to have approved the creation of an international A2P SMS centre to curtail fraud and spam. A private company, Infobip, has submitted a proposal to the Cabinet in this regard. The President has proposed appointing a committee with representatives from the Ministry of Finance, Ministry of Technology and the TRCSL to evaluate this proposal.
-
-The need for such a centre to be set up at this time, approved at Cabinet-level, and run by an international private messaging aggregator raises multiple questions.
-
-Spam, scam, and fraudulent communications are a valid cause for concern.
-
-However, we have no publicly available information on how significant the issue of scams and frauds are in Sri Lanka. It would be good to start off with knowing how bad is the spam, scam, fraud situation in Sri Lanka? Do we have numbers and statistics, gathered by the Government or independent researchers, to go by?
-
-...
-
-[Data](articles/7b8ee683.json)
-
-[Extended Data](ext_articles/7b8ee683.ext.json)
 
 ---

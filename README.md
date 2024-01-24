@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-24 22:17:06**
+As of **2024-01-24 22:32:45**
 
 ## Newspaper Stats
 
-*Scraped **2,422** Articles*
+*Scraped **2,423** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,44 +19,68 @@ adaderanasinhalalk | 185
 adalk | 241
 virakesarilk | 276
 tamilmirrorlk | 301
-adaderanalk | 305
+adaderanalk | 306
 dailymirrorlk | 319
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,420 (99.9%) of 2,422 articles have been extended.
+2,422 (100.0%) of 2,423 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-24 (Wednesday)
 
-### පාකිස්තාන සම්භවය බශීර් ට හරහට හිටියි
+### 22-year-old cop killed in tragic collision in Kataragama
+
+*2024-01-24 21:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96708/22-year-old-cop-killed-in-tragic-collision-in-kataragama) · `en`
+
+A young police officer has been killed in a road accident involving a private passenger bus and a motorcycle in the Tissamaharama Police Division this afternoon (24).
+
+Police stated that the accident occurred when a private passenger bus, travelling from Tissamaharama to Kataragama, crossed the double line on the road to recklessly overtake a tractor and collided with an oncoming motorcycle.
+
+The collision took place in the Punchi Akuregoda area on the Kataragama - Tissamaharama road, the police said.
+
+The motorcyclist who sustained critical injuries in the accident has been rushed to Debarawewa Hospita, where he was pronounced dead upon admission.
+
+The deceased was identified as a 22-year-old Constable attached to Kataragama Police Station. He was a resident of the Welimada area, the Police Media Division said.
+
+Body of the deceased officer has been placed at the mortuary of Debarawewa Hospital.
+
+...
+
+[Data](articles/f9e40635.json)
+
+---
+
+### The Pakistani origin is hurried
 
 *2024-01-24 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192529) · `si`
 
-සිය මංගල ටෙස්ට් තරගය සඳහා හෙට (25) සහභාගීවීම ට හැකි වෙතැයි සිහින මවමින් සිටි එංගලන්ත යොවුන් ක්‍රීඩක ෂොයිබ් බශීර් ට එම අවස්ථාව අහිමිවී තිබේ.
+Shazibow, who was dreaming to participate in his Mangala Test, has lost the event.
 
-බශීර් සරේ ප්‍රාන්තයේ උපත ලබා ඇති නමුත් ඔහුගේ දෙමව්පියන් පාකිස්තාන සම්භවයක් සහිත පුද්ගලයින් ය.
+Born in Saray State of Bay mee, his parents are individuals with Pakistan.
 
-ඉන්දීය - පාකිස්තාන අර්බුදය හේතුවෙන් ඔහුට වීසා නිකුත් කිරීම ප්‍රමාද වන්නට ඇතැයි සැලකෙයි.
+The Indian-Pakistani crisis is considered to be delayed due to the issuance of visas.
 
-පාකිස්තාන සම්භවයක් සහිත මොයීන් අලී, උස්මාන් ක්වාජා වැනි ක්‍රීඩකයින් ටද එවැනි දුෂ්කරතා මීට පෙර ඇතිවුණි.
+Such difficulties were previously affected by Pakistani Ali, Ali, Uzman Quaja.
 
-සිය ජාතිකයින් ට වීසා නිකුත් කිරීමේදී සම තත්ත්වයෙන් සලකන ලෙස එංගලන්ත බලධාරීන් ඉන්දියාවට දැනුම්දී තිබේ.
+England authorities have informed India to treat their nationals from the issuance of visas.
 
-මේ අතර එංගලන්ත නායක බෙන් ස්ටෝක්ස් පවසා අත්තේ දෙරට අතර පළමු ටෙස්ට් තරගය වර්ජනය කිරීමට තමාට සිතුවිල්ලක් ඇතිවූ බවය.
+Meanwhile, England captain Ben Stokes said he had a thought to boycott the first Test between the two countries.
 
-තම ක්‍රීඩකයාට ඉන්දීය බලධාරීන් සැලකූ ආකාරය ගැන කලකිරීමෙන් තමා එය පැවසූ බව ඔහු කියා තිබේ.
+He has said that he said that he was disappointed with the frustration of the Indian authorities.
 
-මේ අතර එංගලන්ත මාධ්‍ය මීට සුළු මොහොතකට පෙර වාර්තා කළේ බශීර් ගේ වීසා නිකුත් කළ බවය.
+Meanwhile, the England media reported a few moments ago.
 
-ඒ අනුව ඔහුට සති අන්තයේ එංගලන්ත කණ්ඩායම සමග එක්වීමට හැකි වෙතැයි බලධාරීන් පවසයි.
+According to the authorities, he can join the England team over the weekend.
 
 ◼️
 
 [Data](articles/a5c90f80.json)
+
+[Extended Data](ext_articles/a5c90f80.ext.json)
 
 ---
 
@@ -356,19 +380,21 @@ When the Law was taken up before the Law Fort Fort Fort Fort Fort Fort Fort Fort
 
 ---
 
-### නුදුරේ දී ම තවත් ගුරු පත්වීම් පන්දාහක්
+### More teaching appointments in the nearfather
 
 *2024-01-24 19:11:56* · [`adalk`](https://www.ada.lk/breaking_news/නුදුරේ-දී-ම-තවත්-ගුරු-පත්වීම්-පන්දාහක්/11-407714) · `si`
 
-රසායන විද්‍යාව, භෞතික විද්‍යාව, ජීව විද්‍යා, ගණිතය, තාක්ෂණවේදය හා විශේෂ භාෂා යන විෂයන් සඳහා ගැසට් නිවේදන නිකුත් කර විභාග පවත්වා පන්දාස් පන්සීයක පමණ ගුරුවරුන් සංඛ්‍යාවක් ගුරු සේවා ව්‍යවස්ථාව අනුව බඳවාගැනීමට අපේක්ෂා කරන බව අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා අද පාර්ලිමේන්තුවේ දී ප්‍රකාශ කළේ ය.
+Minister of Education Dr. Susil Premajayantha today stated that the Gazette Notices are expected to be recruited by the Teachers' Service Minute and a teachers of the Teacher Services Constitution for the subjects of chemistry, physics, biology, technology and technical subjects.
 
-එසේ ම ශ්‍රේෂ්ඨාධිකරණය විසින් ලබා දෙන නියෝග අනුව දැනටමත් රාජ්‍ය සේවයේ නියුතු උපාධිධාරීන් විසි දෙදහසකට ඉදිරියේ දී ගුරුපත්වීම් ලබා දීමට හැකි වන බව ද මෙහි දී පැවසූ අමාත්‍යවරයා ඊට අමතර ව පළාත් සභා මගින් ද දහතුන්දහස ඉක්මවූ ගුරුවරුන් සංඛ්‍යාවක් බඳවාගැනීම උසාවි නියෝග මත ක්‍රියාත්මක කරන බවත් සඳහන් කළේ ය.
+The Minister said that the Minister also said that it would be able to grant two thousand public servants in the future, according to the provisions of the Supreme Court.
 
-ලබන පෙබරවාරි මස අග වන විට මෙම සියලු‍ ගුරු පත්වීම් ලබා දී ගුරු පුරප්පාඩු පුරවා ගුරු හිඟය පූර්ණ වශයෙන් ම මගහරවා ගැනීම තම අපේක්ෂාව වන බව ද ඒ මහතා වැඩිදුරටත් පැවසී ය.
+He added that the appointment of all these teaching appointments will be provided with all these teaching appointments and fill the shortage of teachers and overcome the shortage of teachers.
 
 ◼️
 
 [Data](articles/3f28ad52.json)
+
+[Extended Data](ext_articles/3f28ad52.ext.json)
 
 ---
 
@@ -2023,31 +2049,5 @@ Simply mocking, contempt of contempt is not torture or mental harassment.
 [Data](articles/02f75ad9.json)
 
 [Extended Data](ext_articles/02f75ad9.ext.json)
-
----
-
-### Mocking woman
-
-*2024-01-24 14:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்ணை-கேலி-செய்வது-சித்திரவதை-ஆகாது-நீதிமன்றம்/175-332054) · `ta`
-
-The Mumbai High Court's Aurangabad Branch Court has ordered that “simply ridicule and derision is not torture or mental harassment.”
-
-In April 1994, a woman from Maratha State-Nandurpur set fire to her body.
-
-Police have filed a case against the woman's husband, brother -in -law and mother -in -law for allegedly committing suicide.
-
-The Nandarpur Session Court, which heard the case, has sentenced three others, including her husband for provoking a woman.
-
-The petition has been heard by a separate session headed by Justice Abhay Waghwase. At the end of the investigation, the judge ordered the release of all three accused
-
-“There was no evidence that three others, including the husband, had committed suicide by suicide. According to the police, the accused had joked that the woman did not know how to cook and asked for money.
-
-Simply ridicuing, speaking disgusting is not to torture, or mental harassment.
-
-...
-
-[Data](articles/ea248238.json)
-
-[Extended Data](ext_articles/ea248238.ext.json)
 
 ---

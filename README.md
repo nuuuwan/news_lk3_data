@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 19:33:01**
+As of **2024-01-25 19:50:53**
 
 ## Newspaper Stats
 
-*Scraped **2,602** Articles*
+*Scraped **2,604** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,58 @@ newsfirstlk | 144
 islandlk | 147
 economynextcom | 152
 dailyftlk | 194
-adaderanasinhalalk | 219
+adaderanasinhalalk | 220
 adalk | 252
 virakesarilk | 284
 adaderanalk | 324
-tamilmirrorlk | 330
+tamilmirrorlk | 331
 dailymirrorlk | 348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,602 (100.0%) of 2,602 articles have been extended.
+2,604 (100.0%) of 2,604 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### Sanath Nishantha to pay attention to Nishantha
+
+*2024-01-25 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192566) · `si`
+
+The body of State Minister Sanath Nishantha has been placed in the Malzala to address the last respects.
+
+The body is taken to the house of Mr. Sanath Nishantha in Puttalam at 10.30 am.
+
+◼️
+
+[Data](articles/71bc33b2.json)
+
+[Extended Data](ext_articles/71bc33b2.ext.json)
+
+---
+
+### Death of fruit
+
+*2024-01-25 18:39:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழம்-பறிக்க-மரத்தில்-ஏறியவர்-மரணம்/175-332110) · `ta`
+
+Police say that a man who climbed into the tree fell down with a tree to pluck fruit in the Singapura area in Belmadulla.
+
+The 66 -year -old man, a father of two children who joined the Singapura area in Belmadulla, died.
+
+Neighbors died without treatment as he was admitted to the Kahawatte Teaching Hospital until he fell down from the tree.
+
+It is noteworthy that the police are conducting further investigations into the matter.R
+
+◼️
+
+[Data](articles/6e47008a.json)
+
+[Extended Data](ext_articles/6e47008a.ext.json)
+
+---
 
 ### President advocates expansion of Sri Lankan confectionery industry and cocoa cultivation
 
@@ -2049,49 +2085,5 @@ The state minister and the police constable died on admission and the driver is 
 [Data](articles/51518c9f.json)
 
 [Extended Data](ext_articles/51518c9f.ext.json)
-
----
-
-### State Minister Sanath Nishantha killed in accident
-
-*2024-01-25 05:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96711/state-minister-sanath-nishantha-killed-in-accident) · `en`
-
-State Minister Sanath Nishantha and another person have reportedly died in a tragic accident that took place on the Colombo - Katunayake expressway in the early hours of the day.
-
-According to the police, the state minister’s vehicle had crashed against the roadside barrier before rear-ending a moving container truck around 2:00 a.m. (25 Jan.).
-
-Following the fatal collision, three persons including State Minister Nishantha were rushed to the Colombo North Teaching Hospital in Ragama with critical wounds.
-
-Hospital sources later confirmed that two persons – the lawmaker and his security guard, a police constable named Jayakody – had succumbed to their injuries. The driver of the vehicle is currently receiving medical attention at the hospital.
-
-According to reports, the group had been returning from a wedding ceremony held at a hotel in Bandarawatta, Chilaw last night at the time of the accident.
-
-...
-
-[Data](articles/17be8bd7.json)
-
-[Extended Data](ext_articles/17be8bd7.ext.json)
-
----
-
-### State Minister Sanath Nishantha killed
-
-*2024-01-25 05:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192533) · `si`
-
-State Minister Sanath Nishantha and another have died in an accident on the Katunayake Expressway.
-
-According to the police, the luxury vehicle that was traveling from Katunayake to Colombo was the back of the container.
-
-The Minister of State and his security officer and the driver of the vehicle were admitted to the Ragama Hospital.
-
-The State Minister and the security officer were killed and the police said.
-
-The accident had occurred at around 2 am near the Katunayake Expressway at Katunayake Expressway around 2 am.
-
-◼️
-
-[Data](articles/9a0781fb.json)
-
-[Extended Data](ext_articles/9a0781fb.ext.json)
 
 ---

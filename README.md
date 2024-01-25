@@ -1,36 +1,180 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 11:02:39**
+As of **2024-01-25 11:17:18**
 
 ## Newspaper Stats
 
-*Scraped **2,530** Articles*
+*Scraped **2,540** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 35
 bbccomsinhala | 49
 dbsjeyarajcom | 123
-newsfirstlk | 137
+newsfirstlk | 138
 islandlk | 146
 economynextcom | 151
 dailyftlk | 194
 adaderanasinhalalk | 202
 adalk | 245
-virakesarilk | 280
-adaderanalk | 313
-tamilmirrorlk | 318
+virakesarilk | 281
+adaderanalk | 314
+tamilmirrorlk | 325
 dailymirrorlk | 337
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,530 (100.0%) of 2,530 articles have been extended.
+2,530 (99.6%) of 2,540 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### 2 புதிய வகை மாதுளை வகைகள் அறிமுகம்
+
+*2024-01-25 10:44:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-புதிய-வகை-மாதுளை-வகைகள்-அறிமுகம்/175-332102) · `ta`
+
+இலங்கையில் இரண்டு புதிய வகை மாதுளை வகைகள் அறிமுகப்படுத்தப்பட்டுள்ளதாக விவசாய அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+
+புதிய மாதுளை வகைகளுக்கு 'மலே பிங்க்' மற்றும் 'லங்கா ரெட்' என பெயரிடப்பட்டு, இலங்கையின் உலர் வலயங்களில் பயிரிடுவதற்காக அறிமுகப்படுத்தப்பட்டுள்ளதாக அமைச்சர் கூறினார்.
+
+ஹோமாகமவில் உள்ள தாவர வைரஸ் குறியீட்டு மையத்தினால் மேற்கொள்ளப்பட்ட திசு வளர்ப்பு ஆராய்ச்சியைத் தொடர்ந்து புதிய வகை மாதுளை அறிமுகப்படுத்தப்பட்டுள்ளது. மேலும் தற்போது இறக்குமதி செய்யப்படும் சிவப்பு மாதுளை வகைகளுக்கு மாற்றாக இதனைப் பயன்படுத்த முடியும்.
+
+இந்த இரண்டு புதிய வகைகளின் சிறப்பு அம்சம் என்னவென்றால், ஒரு மாதுளை மரத்தின் ஆயுட்காலம் 30 ஆண்டுகளுக்கு மேல் உள்ளது மற்றும் ஒவ்வொரு மரத்திலிருந்தும் ஒரு வருடத்திற்கு 20-25 கிலோ மாதுளை அறுவடை செய்யலாம்.
+
+ஒரு ஏக்கருக்கு மொத்தம் 400 மரங்கள் நடுவதன் மூலம் ஆண்டு வருமானம் ஒரு ஏக்கருக்கு ரூ. 8 லட்சம்  என அவர் தெரிவித்தார்.
+
+விவசாய அமைச்சர் மஹிந்த அமரவீரவினால் பயிரிடுவதற்காக விவசாயிகளிடம் மாதுளை வகைகள் நேற்று (24) கையளிக்கப்பட்டன.
+
+◼️
+
+[Data](articles/074e3e12.json)
+
+---
+
+### போர்க்கைதிகள் உட்பட 74 பேருடன் பயணித்துக்கொண்டிருந்த விமானத்தை உக்ரைனே சுட்டுவீழ்த்தியது – ரஸ்யா
+
+*2024-01-25 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/174756) · `ta`
+
+74 பேருடன் பயணித்துக்கொண்டிருந்த விமானத்தை உக்ரைனே சுட்டுவீழ்த்தியதாக குற்றம்சாட்டியுள்ள ரஸ்யா விமானத்திலிருந்த அனைவரும் உயிரிழந்துவிட்டனர் என தெரிவித்துள்ளது.
+
+போர்க்கைதிகள் பரிமாற்றத்திற்காக அழைத்துச்செல்லப்பட்ட உக்ரைன் போர்க்கைதிகளும் அந்த விமானத்திலிருந்தனர் எனவும் ரஸ்யா தெரிவித்துள்ளது.
+
+கார்கிவ் பிராந்தியத்தின் லிப்ட்சி பகுதியிலிருந்து உக்ரைன் படையினர் இந்த விமானத்தை தாக்கியுள்ளனர் என தெரிவித்துள்ள ரஸ்ய பாதுகாப்பு அமைச்சு விமான எதிர்ப்பு ஏவுகணை பயன்படுத்தப்பட்டுள்ளது என குறிப்பிட்டுள்ளது.
+
+உக்ரைன் இரண்டு ஏவுகணைகளை ஏவுவதை ரஸ்ய ராடர்கள் அவதானித்துள்ளன என ரஸ்யா தெரிவித்துள்ளது.
+
+பெலோகோரோட்டை நோக்கி வரும் எந்த விமானத்தையும் இலக்காக கருதுவதாக தெரிவித்துள்ள உக்ரைன் எனினும் விமானத்தை சுட்டுவீழ்த்தியதை ஏற்றுக்கொள்ளவில்லை.
+
+◼️
+
+[Data](articles/9203eccf.json)
+
+---
+
+### 46 Indian fishermen apprehended within the last 24 days
+
+*2024-01-25 10:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/46-indian-fishermen-apprehended-within-the-last-24-days/) · `en`
+
+COLOMBO (News 1st);46 Indian fishermen have been apprehended for illegal fishing activities within the last 24 days of the year.
+
+Navy spokesperson Captain Gayan Wickramasuriya says that 8 Indian fishing boats have also been taken into custody.
+
+He added that the apprehended Indian fishermen have been handed over to the Fisheries Inspectors for onward legal action.
+
+◼️
+
+[Data](articles/2ef49caf.json)
+
+---
+
+### இன்று விசேட பாதுகாப்பு அமுல்படுத்தப்படும்
+
+*2024-01-25 10:32:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-விசேட-பாதுகாப்பு-அமுல்படுத்தப்படும்/175-332101) · `ta`
+
+சிவனொளிபாதமலை யாத்ரீகர்களின் பாதுகாப்பை உறுதிப்படுத்தும் வகையில் இன்றைய போயா தினத்தில் விசேட பாதுகாப்பு வேலைத்திட்டம் அமுல்படுத்தப்படுவதாக நல்லதண்ணி பொலிஸார் அறிவித்துள்ளனர்.
+
+ஆண்டின் முதல் போயா நாள் என்பதால், யாத்திரைக்கு வரும் பக்தர்களின் எண்ணிக்கை அதிகரித்துள்ளது. அவர்களில் பெரும்பாலானோர் ரயில்கள் மற்றும் பொதுப் போக்குவரத்து மூலம் வருவதால் தனியார் வாகனங்களின் பயன்பாடு கணிசமாகக் குறைந்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/048af6ec.json)
+
+---
+
+### ”சட்டமூலத்தின் பொருளாதார விளைவுகளை கவனிக்க வேண்டும்”
+
+*2024-01-25 10:27:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலத்தின்-பொருளாதார-விளைவுகளை-கவனிக்க-வேண்டும்/175-332100) · `ta`
+
+சமூக ஊடகங்களை ஒழுங்குபடுத்த வேண்டிய தேவையிருப்பினும் ஒன்லைன் பாதுகாப்பு சட்டமூலத்தின் பொருளாதார விளைவுகளை அரசாங்கம் பரிசீலிக்க வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா நேற்று தெரிவித்தார்.
+
+"இ-வர்த்தகத்தில் சட்டமூலம் ஏற்படுத்தும் விளைவுகளை ஒருவர் கவனிக்க வேண்டும். நமது இளைஞர்களை இ-வர்த்தகம் மூலம் பொருளாதாரத்தில் பங்கு கொள்ளச் செய்ய வேண்டும். இவ்வாறான சட்டங்கள் இந்த வாய்ப்புகளை தடுக்கும்,'' என்றார்.
+
+“ஒருவர் சமூக ஊடகங்களில் தேவையற்ற பதிவை பதிவேற்றுவதால், முகப்புத்தகம் மற்றும் யூ டியூப் போன்ற சேவை வழங்குநர்களை குற்றவாளிகளாக நீங்கள் கருத முடியாது,” என்று அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/1a41e9b3.json)
+
+---
+
+### அதீத போதைப்பொருள் பாவனையால் யாழில் மற்றுமொரு இளைஞன் மரணம்
+
+*2024-01-25 10:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அதீத-போதைப்பொருள்-பாவனையால்-யாழில்-மற்றுமொரு-இளைஞன்-மரணம்/71-332098) · `ta`
+
+யாழ்ப்பாணம் நகரை அண்டிய கலட்டி பகுதியில், போதைப்பொருளை அதீத அளவு நுகர்ந்த இளைஞன் ஒருவர் நேற்றைய தினம் உயிரிழந்துள்ளார்.
+
+உயிரிழந்த இளைஞனின் சடலம் பிரேத பரிசோதனைக்காக யாழ்.போதனா வைத்தியசாலையில் ஒப்படைக்கப்பட்ட நிலையில் , உடற்கூற்று பரிசோதனையில் இளைஞன் போதைப்பொருளை அதீத அளவு நுகர்ந்தமை கண்டறியப்பட்டுள்ளது.
+
+கடந்த சில தினங்களுக்கு முன்னர் சாவகச்சேரி பகுதியில் இளைஞன் ஒருவர் போதைப்பொருள் பாவனையால் உயிரிழந்தமை குறிப்பிடத்தக்கது.
+
+போதைப்பொருள் தடுப்பு நடவடிக்கையாக பொலிசாரின் விசேட நடவடிக்கைக்கான "யுக்திய" நடவடிக்கை யாழ்ப்பாணத்திலும் தீவிரமாக முன்னெடுக்கப்பட்டு வரும் நிலையிலையே போதைப்பொருள் பாவனையால் குறித்த இரு மரணங்களும் நிகழ்ந்துள்ளமை குறிப்பிடத்தக்கது.  R
+
+◼️
+
+[Data](articles/17d1632d.json)
+
+---
+
+### கந்தகாட்டில் 50 கைதிகள் தப்பியோட்டம்
+
+*2024-01-25 10:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/கந்தகாட்டில்-50-கைதிகள்-தப்பியோட்டம்/94-332097) · `ta`
+
+வெலிகந்தை கந்தகாட்டு புனர்வாழ்வு நிலையத்தில் மீண்டும் கைதிகளுக்கிடையே ஏற்பட்ட மோதலையடுத்து அங்கிருந்து 50 கைதிகள்   புதன்கிழமை (24) இரவு தப்பியோடிவிட்டனர்.  அவர்களை தேடும் நடவடிக்கையினை பொலிசார் இராணுவத்தினருடன் இணைந்து தேடும் நடவடிக்கையினை முன்னெடுத்துவருவதாக வெலிகந்தை பொலிஸார் தெரிவித்தனர்.
+
+குறித்த புனர்வாழ்வு நிலையத்தில் சம்பவதினமான புதன்கிழமை (24) பகல் இரு கைதிகளுக்குள் ஏற்பட்ட சண்டையில் இருவரும் காயமடைந்து வைத்தியசாலையில் சிகிச்சையளிக்கப்பட்டு மீண்டும் புனர்வாழ்வு நிலையத்திற்கு கொண்டுவரப்பட்டனர்.
+
+இந்த நிலையில் அங்கு மீண்டும் இரவு புனர்வாழ்வு அளிக்கப்பட்டுவரும் கைதிகளுக்கிடையே மாத்தறை, காலி, ஹம்பாந்தோட்டை போன்ற பிரதேசவாதத்தின் அடிப்படையில் கலகம் ஏற்பட்ட நிலையில் அங்கிருந்து பாதுகாப்பு வேலியை உடைத்து  50 பேர்வரை தப்பியோடியுள்ளனர்.
+
+இவ்வாறு தப்பியோடியவர்கள் அந்த பகுதி காட்டில் தலைமறைவாகியுள்ளதையடுத்து அந்தபகுதியை பொலிஸார் இராணுவத்துடன் இணைந்து சுற்றிவளைத்து தேடும் நடவடிக்கை முன்னெடுத்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+...
+
+[Data](articles/e1b9772a.json)
+
+---
+
+### Russia, Ukraine trade blame after Russian military plane crash kills 74
+
+*2024-01-25 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96715/russia-ukraine-trade-blame-after-russian-military-plane-crash-kills-74) · `en`
+
+Russia accused Ukraine on Wednesday of deliberately shooting down a Russian military transport plane carrying 65 captured Ukrainian soldiers to a prisoner exchange in what it called a barbaric act of terrorism that had killed a total of 74 people.
+
+Ukraine called for full clarification of the circumstances of the incident and did not directly confirm it had shot down the plane.
+
+Ukrainian President Volodymyr Zelenskiy, in his evening address said: “It is clear that the Russians are playing with the lives of Ukrainian prisoners, the feelings of their loved ones and the emotions of our society.”
+
+The Russian defence ministry said six Russian crew members and three Russian soldiers had been on the Ilyushin Il-76 military transport plane shot down near the Russian city of Belgorod near the Ukrainian border.
+
+After a long pause, the Ukrainian military said it would continue to destroy Russian military transport aircraft it believed were carrying missiles with which to strike Ukraine.
+
+...
+
+[Data](articles/35718298.json)
+
+---
 
 ### New choice for the post of Sanath; change in seats
 
@@ -45,6 +189,20 @@ Accordingly, Priyankara is the district leader of the National Freedom Front led
 [Data](articles/1432d5b2.json)
 
 [Extended Data](ext_articles/1432d5b2.ext.json)
+
+---
+
+### சனத்தின் வெற்றிடத்துக்கு ஜகத் பிரியங்கர
+
+*2024-01-25 10:05:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்தின்-வெற்றிடத்துக்கு-ஜகத்-பிரியங்கர/175-332096) · `ta`
+
+இன்று காலை நிகழ்ந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் திடீர் மரணத்தினால் ஏற்பட்ட வெற்றிடத்திற்கு தேசிய சுதந்திர முன்னணி ஜகத் பிரியங்கர நியமிக்கப்படவுள்ளார்.
+
+இதன்படி, விமல் வீரவங்ச தலைமையிலான தேசிய சுதந்திர முன்னணியின் மாவட்டத் தலைவராக பிரியங்கர இருப்பதால், அவர் தனது கட்சியை பிரதிநிதித்துவப்படுத்தும் மற்ற பாராளுமன்ற உறுப்பினர்களுடன் எதிர்க்கட்சியில் அமர்ந்திருப்பதால், அரசாங்கம் ஒரு ஆசனத்தை இழக்கும்.
+
+◼️
+
+[Data](articles/b5d2f0f0.json)
 
 ---
 
@@ -418,6 +576,24 @@ In this case, the State Minister and the Security Police Officer have died. Poli
 
 ---
 
+### விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த பலி
+
+*2024-01-25 07:03:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/விபத்தில்-இராஜாங்க-அமைச்சர்-சனத்-நிஷாந்த-பலி/150-332094) · `ta`
+
+கட்டுநாயக்க அதிவேக வீதியில் இடம்பெற்ற வாகன விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த உயிரிழந்துள்ளார்.
+
+கட்டுநாயக்க பகுதியிலிருந்து கொழும்பு நோக்கி பயணித்த இராஜாங்க அமைச்சர் பயணித்த வாகனம், அதே திசையில் பயணித்த லொறி ஒன்றின் பின்புறத்தில் மோதுண்டு விபத்துக்குள்ளானதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்த விபத்தில் காயமடைந்த இராஜாங்க அமைச்சர் உள்ளிட்ட சிலர் ராகம வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+இந்த நிலையில், இராஜாங்க அமைச்சர் மற்றும் பாதுகாப்பு பொலிஸ் அதிகாரி ஆகியோர் உயிரிழந்துள்ளனர்.
+
+◼️
+
+[Data](articles/e3f5fe8a.json)
+
+---
+
 ### Suspect involved in shooting at Jinthupitiya in Police custody
 
 *2024-01-25 07:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/suspect-involved-in-shooting-at-jinthupitiya-in-police-custody/) · `en`
@@ -431,8 +607,6 @@ One of the suspects and the motorcycle was captured by the residents around the 
 Police say the suspect who was caught by the residents along with the firearm used in the shooting was later taken into Police custody.
 
 Police say, Investigations are underway to find the suspect who fled the scene.
-
-Russian plane crashes with 65 Ukrainian prisoners of war on board
 
 ◼️
 
@@ -605,8 +779,6 @@ COLOMBO (News 1st); Sri Lankan State Minister Sanath Nishantha died early on Thu
 Sri Lanka Police said that a Police Constable attached to the security detail of the State Minister died as well, while the driver sustained serious injuries and was admitted to the hospital.
 
 According to an official statement from Sri Lanka Police the accident took place at 2 AM and the SUV in which the State Minister was travelling in crashed on to the rear end of a freight container truck heading to Colombo, resulting in the tragic accident.
-
-Russian plane crashes with 65 Ukrainian prisoners of war on board
 
 ◼️
 
@@ -1823,225 +1995,5 @@ When the case was taken up for hearing at the Magistrate's Court today, the expl
 [Data](articles/27b32bc5.json)
 
 [Extended Data](ext_articles/27b32bc5.ext.json)
-
----
-
-### More information about the shooting of Beliatta
-
-*2024-01-24 20:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192525) · `si`
-
-The man who was led by the Beliatta killing and riding the Pajro vehicle for the attack was arrested by the police this morning.
-
-The suspect has revealed in the face of interrogation that a group of four people had arrived in the murder.
-
-Saman Kumara was arrested in the Bangawa, Akuressa this morning regarding the five-person murder case in Beliatta.
-
-A team of Hakmana police officers under the supervision of the Senior Superintendent of Police in charge of the Matara Division.
-
-It is reported that the suspect had been arrested while hiding in his house.
-
-The suspect has also planned this crime and has also been identified as the driver of the piorirera.
-
-The suspect had confessed to the police and three other persons had joined the assassination of a contract received from Dubai.
-
-The police said that the manning suspect, including murders, have been jailed for over 15 years of crimes.
-
-The suspect engaged in criminal activities is to be detained and questioned.
-
-...
-
-[Data](articles/7e8c76e3.json)
-
-[Extended Data](ext_articles/7e8c76e3.ext.json)
-
----
-
-### Iranian national arrested over large-scale drug racket in Kesbewa
-
-*2024-01-24 20:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96707/iranian-national-arrested-over-large-scale-drug-racket-in-kesbewa) · `en`
-
-Police have arrested an Iranian individual who allegedly carried out a large-scale ‘Kush’ smuggling racket in a house obtained on a rental basis in the Kesbewa area.
-
-Piliyandala Police had conducted the relevant raid acting on a tip-off provided by a person who had gone for some repair work at the suspected Iran national’s house.
-
-The suspect had requested the repairman to find buyers for the ‘Kush’ stock in his possession and that he would pay him for it. However, the repairman had informed the officers attached to the Western Province Police Intelligence Unit.
-
-During the raid, the police recovered 160 grams of ‘Kush’ hidden in the house. The street value of the seized stock of narcotics is believed to be around Rs. 1.5 million, according to police.
-
-Police have uncovered that the suspected Iranian had distributed the drugs through courier services while carrying out monetary transactions online.
-
-◼️
-
-[Data](articles/1ba22deb.json)
-
-[Extended Data](ext_articles/1ba22deb.ext.json)
-
----
-
-### Promotion to a police media statement
-
-*2024-01-24 19:57:29* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-මාධ්‍ය-ප්‍රකාශයකට-උසස්වීමක්/11-407717) · `si`
-
-Attorney Nihal Talduuwa has been promoted to the post of DIG.
-
-The DIG continues to be the Police Media Spokesman, and the acting IGP has been promoted as the approval of the National Police Commission.
-
-Promotion has been provided with effect from the 8th of this month.
-
-◼️
-
-[Data](articles/0f9a74b5.json)
-
-[Extended Data](ext_articles/0f9a74b5.ext.json)
-
----
-
-### I am a Sri Lankan citizen, I have no dual citizenship - Nayana Vasalathilaka
-
-*2024-01-24 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174741) · `ta`
-
-I have no dual citizenship of Sri Lankan citizen. In his speech, United People's Power MP Nayana Vasalathilaka said in his speech that I have a foreign passport.
-
-He was speaking at a debate on the proposed backup Bill on Wednesday (24) in Parliament.
-
-My Parents Public Service has been mentioned in many things in the past regarding our family background. I went to Switzerland for High Education amidst hard work.
-
-In 2019, I joined the Opposition Leader and contested political activities in 2020 and thanked the people of Badulla district who did not vote in favor of me.
-
-Even though I live in Australia, I have a lot of fabric on Sri Lanka. I am not a dual citizenship. Sri Lanka has a foreign passport.
-
-People's representatives should avoid lying and lied to the parliamentary privilege.
-
-◼️
-
-[Data](articles/7dd4cd5a.json)
-
-[Extended Data](ext_articles/7dd4cd5a.ext.json)
-
----
-
-### A new story out about the name we have been shot
-
-*2024-01-24 19:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192524) · `si`
-
-Police investigations have been referred to the incident in the temple in the Malwathathhiripitiya area in Gampaha yesterday (23), accordingly the investigators of two persons who had arrived in the area..
-
-Police have requested the nearest police to inform the nearest police.
-
-The government's analyst was revealed in the inspection of today, the car was assembled and processed.
-
-Meanwhile, the murdered monk is a monk for teachers, police said.
-
-Investigations carried out by the police have revealed that several Buddhist monks have been purchased in the name of the monastery.
-
-◼️
-
-[Data](articles/b9052635.json)
-
-[Extended Data](ext_articles/b9052635.ext.json)
-
----
-
-### Let us put all those who have plundered state resources before the law in our government - Sajith Premadasa
-
-*2024-01-24 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174740) · `ta`
-
-Opposition Leader Sajith Premadasa said that all the thieves in the United People's Power would be put before the law and all kinds of punishments would be given.
-
-He said this while addressing the question of the Standing Ordinance of Parliament on Wednesday (24).
-
-The recent ruling of the High Court of the Supreme Court has revealed who the country was economically shaking and the people of the country were the most popular future.. There are many more people who are responsible for Lakshman and Samantha Kumarasinghe.
-
-Although investigations against gas, sugar, nano nitrogen, coal and fertilizer are delayed, their assets are being auctioned for micro, small and medium traders.
-
-There are many issues relating to special audit investigations on the many irregularities that occurred in 2019-2022. What is the legal action taken by the government against the Srine Tax Fraud?
-
-...
-
-[Data](articles/b08bae44.json)
-
-[Extended Data](ext_articles/b08bae44.ext.json)
-
----
-
-### Talks with China on Fisheries Investment Zone in the North
-
-*2024-01-24 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174738) · `ta`
-
-Fisheries Minister Piyal Nishantha said that a special talks will be held with a Chinese company headed by Fisheries Minister Douglas Devananda on Thursday (25) regarding the launching of the Fisheries Investment Zone on the North.
-
-Minister of State for Domestic Tinmene Piyal Nishantha said that it has also been decided to ban the importation of tin fish in view of the development of domestic dinner manufacturers.
-
-He further stated at the media conference held at the Presidential Media Center on Wednesday (24).
-
-We will launch the Fisheries Welfare Service Project tomorrow at Wellamangara Fisheries Harbor on Friday. When fishermen are ill in the deep sea, they will be given more attention to the provision of emergency health services to them.. The program will be launched in collaboration with the Ministry of Fisheries and the Ministry of Health.
-
-...
-
-[Data](articles/b67d7355.json)
-
-[Extended Data](ext_articles/b67d7355.ext.json)
-
----
-
-### There is no restriction on the MPs to implement projects with public connectivity !!-Minister of State
-
-*2024-01-24 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/174742) · `ta`
-
-There is no restriction on implementing the plans under their ideas in the funds allocated to 225 MPs. Finance Minister Xihan Semasinghe said that all parliamentarians have the right to implement public compliance with the District, Divisional Development Committee and the village level meetings.
-
-In response to a question raised by Dayasiri Jayasekara in Parliament today (24).
-
-When the group that opposes the budget is to get its benefits, there is no obstacle for the implementation of the ideas of the people as the representatives of the people, even if they oppose the budget, even if they oppose their budget.
-
-The cooperation of the Finance Ministry Secretary Mahinda Siriwardena in building the country's economy cannot be underestimated.
-
-After several years of the development of the district development activities, 10 billion rupees has been allocated for the development of the regional development and a further Rs.
-
-...
-
-[Data](articles/a54cf8fa.json)
-
-[Extended Data](ext_articles/a54cf8fa.ext.json)
-
----
-
-### Rotary Corporation has provided 35 million equipment to the Emergency Department of the Sri Lanka National Hospital!
-
-*2024-01-24 19:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/174743) · `ta`
-
-The Rotary Corporation has handed over important maintenance equipment worth Rs 35 million for the emergency department of the Sri Lanka National Hospital.
-
-The event was held this morning at the Colombo National Hospital Emergency Unit.
-
-The project was carried out by the Rotary International Foundation in conjunction with 3220 and 2620 districts of the Rotary Club of West Colombo, Japan's South Hamamchu Rotary Club and Rotary Districts.
-
-Rotary International President Garden R. These were handed over to the Senior Officials of the Ministry of Health and the Secretary General and the Director General and the members of the Ministry of Health.. Japan's District Governors - District 2620 and Sri Lanka -District 3220 and Japan's Hamamatsu South Rotary Club and West Colombo Rotary Club and many others participated.
-
-◼️
-
-[Data](articles/95a8eaa1.json)
-
-[Extended Data](ext_articles/95a8eaa1.ext.json)
-
----
-
-### 2023 VAT income for 9 months is Rs. Up by 505
-
-*2024-01-24 19:31:16* · [`adalk`](https://www.ada.lk/breaking_news/2023-මාස-9ට-වැට්-ආදායම-රු-බි--505කින්-ඉහළට/11-407716) · `si`
-
-The Ministry of Finance Responsibility stated in the first nine months of Rs.
-
-This report also states that this is 55% of the total tax revenue for the year 2023. The value added from local economic activities in the first nine months of 2023, tax revenues increased by 81.4% to Rs 35.6 billion.
-
-The value added to Rs.Increased to 12%. Once again, 15% increased by 15% to the effect on 1st September.
-
-VAT rate has been increased to 18% from 1st January 2024. VAT Tax has increased by 50%, the Ministry of Finance has increased by 50%.
-
-◼️
-
-[Data](articles/249f0f7c.json)
-
-[Extended Data](ext_articles/249f0f7c.ext.json)
 
 ---

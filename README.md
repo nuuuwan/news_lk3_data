@@ -1,36 +1,56 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 14:03:34**
+As of **2024-01-25 14:17:20**
 
 ## Newspaper Stats
 
-*Scraped **2,561** Articles*
+*Scraped **2,564** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 35
 bbccomsinhala | 49
 dbsjeyarajcom | 123
-newsfirstlk | 138
+newsfirstlk | 139
 islandlk | 146
 economynextcom | 152
 dailyftlk | 194
 adaderanasinhalalk | 209
-adalk | 247
+adalk | 248
 virakesarilk | 281
 adaderanalk | 318
-tamilmirrorlk | 327
+tamilmirrorlk | 328
 dailymirrorlk | 342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,561 (100.0%) of 2,561 articles have been extended.
+2,561 (99.9%) of 2,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### உயிரிழந்த இராஜாங்க அமைச்சரின் இறுதி செல்ஃபி
+
+*2024-01-25 13:38:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்த-இராஜாங்க-அமைச்சரின்-இறுதி-செல்ஃபி/175-332105) · `ta`
+
+கட்டுநாயக்க நெடுஞ்சாலையில் இன்று (25) அதிகாலை 2 மணி அளவில்  இடம்பெற்ற வாகன விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த மற்றும் மேலும் ஒருவர் உயிரிழந்துள்ளனர்.
+
+சனத் நிஷாந்த கட்டுநாயக்காவில் இருந்து கொழும்பு நோக்கி பயணிக்கும் போதே இந்த விபத்து இடம்பெற்றுள்ளது.
+
+இவர் பயணித்த சொகுசு கார் அதே திசையில் சென்ற கொள்கலன் பாரவூர்தியுடன் மோதியே இந்த விபத்து இடம்பெற்றுள்ளது.
+
+நேற்று (24) இரவு சனத் நிஷாந்த, பண்டாரவத்தை, சிலாபம் பகுதியில் உள்ள ஹோட்டல் ஒன்றில் நடைபெற்ற திருமண வைபவத்தில் கலந்து கொண்டு கொழும்பு திரும்பும் போதே வாகன விபத்தில் உயிரிழந்தார்.
+
+திருமண வைபவத்தின் போது சனத் நிஷாந்தவுடன் புதுமணத் தம்பதிகள் எடுத்துக்கொண்ட செல்ஃபி புகைப்படம் தற்போது முகநூலில் வைரலாகியுள்ளதுடன், புகைப்படம் எடுத்தவர் தனது தனிப்பட்ட முகநூல் கணக்கில் குறித்த புகைப்படத்தை பதிவிட்டுள்ளார். R
+
+◼️
+
+[Data](articles/1d5b3a6c.json)
+
+---
 
 ### Another story about the killing of Beliatta
 
@@ -138,6 +158,30 @@ Anamaduwa police are conducting further investigations into the incident.
 
 ---
 
+### 838 suspects apprehended in the past 24 hours under Operation Yukthiya
+
+*2024-01-25 12:29:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/838-suspects-apprehended-in-the-past-24-hours-under-operation-yukthiya/) · `en`
+
+COLOMBO (News 1st); A total of 838 suspects have been apprehended in the past 24 hours that ended at 12.30 am today under Operation Yukthiya.
+
+The number of suspects arrested for drug offences among them is 549.
+
+289 suspects who were on the list of wanted persons prepared by the Police Narcotics Bureau and Special Bureau have also been apprehended.
+
+Police say that they seized 16 kilograms and 600 grams of ganja, 211 grams of heroin, 78 grams of ice, and 1,192 narcotic pills during the operation.
+
+05 suspects in connection with drug offences are to be further investigated on detention orders while 10 drug addicts were referred for rehabilitation.
+
+35 suspects who had open warrants for drug offences and 246 suspects who had open warrants for non-drug offences were also among the suspects apprehended.
+
+838 suspects apprehended in the past 24 hours under Operation Yukthiya
+
+◼️
+
+[Data](articles/ac09ee35.json)
+
+---
+
 ### ‘Major blow to human rights’: Amnesty International slams newly passed Online Safety Bill
 
 *2024-01-25 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96718/major-blow-to-human-rights-amnesty-international-slams-newly-passed-online-safety-bill) · `en`
@@ -155,6 +199,24 @@ The Online Safety Bill, which seeks to regulate online content, received the par
 [Data](articles/17d43718.json)
 
 [Extended Data](ext_articles/17d43718.ext.json)
+
+---
+
+### ඇමති සනත් නිශාන්තගේ දේහය මහජන ගෞරවය සඳහා ජයරත්න මල්ශාලාවට
+
+*2024-01-25 12:17:52* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-සනත්-නිශාන්තගේ-දේහය-මහජන-ගෞරවය-සඳහා-ජයරත්න-මල්ශාලාවට/11-407722) · `si`
+
+ජල සම්පාදන රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා හා ඔහුගේ ආරක්ෂක නිලධාරියා කොළඹ කටුනායක අධිවේගී මාර්ගයේ 25 දින අලුයම 2.00ට පමණ සිදු වු රිය අනතුරකින් ජීවිතක්ෂයට පත් විය.
+
+කොටස් කටුනායක 11/1 R කිලෝමීටර කණුව අසලදී මෙම අනතතුර සිදුව තිබුණේ අමාත්‍ය වරයා ගමන් ගත් රථය කර්ටේනර් රථයක් ඉස්සර කිරීමට යාමේදී එම කන්ටේනර් රථය හා ගැටීමෙනි.
+
+අනතුරින් රාජ්‍ය අමාත්‍ය වරයාගේ රථයට දැඩි හානි සිදුව තිබිණි. අමාත්‍යයවරයා සමග අනතුරින් මියගොස් තිබුණේ ඔහුගේ ආරක්ෂක නිලධාරි පොලිස් කොස්තාපල් අනුරාධ ජයකොඩි මහතාය. අනතුරක් සමග අමාත්‍ය වරයා හා ආරක්ෂක නිලධාරියා රාගම ශික්ෂණ රෝහලට වහාම ඇතුලත් කිරීමට පියවර ගෙන තිබුණද ඔවුන් එහිදී ජීවිතක්ෂයට පත්ව තිබේ. අනතුර සිදු වීමෙන් අනතුරුව වැලිසර මහෙස්ත්‍රාත් ධම්මික උඩුවේවිදාණ මහතා රාගම රෝහලට පැමිණ මහෙස්ත්‍රාත් පරීක්ෂණය සිදු කරනු ලැබීය.
+
+මෙහිදී අමාත්‍යවරයාගේ සොහොයුරු කුරුගමගේ ජගත් සමන්ත පෙරේරා මහතා අමාත්‍යවරයාගේ දේහය හදුනාගනිමින් සාක්ෂි ලබා දෙනු ලදී. ජගත් සමන්ත මහතා අප කල විමසීමේදී මෙලෙස ප්‍රකාශ කලහ. " මිය ගොස් සිටින්නේ මගේ බාල සොයුරා. ඔහුට දියණියන් තිදෙනෙක් හා පුතෙක් ඉන්නවා.
+
+...
+
+[Data](articles/72103168.json)
 
 ---
 
@@ -459,6 +521,8 @@ COLOMBO (News 1st);46 Indian fishermen have been apprehended for illegal fishing
 Navy spokesperson Captain Gayan Wickramasuriya says that 8 Indian fishing boats have also been taken into custody.
 
 He added that the apprehended Indian fishermen have been handed over to the Fisheries Inspectors for onward legal action.
+
+838 suspects apprehended in the past 24 hours under Operation Yukthiya
 
 ◼️
 
@@ -1038,6 +1102,8 @@ Police say the suspect who was caught by the residents along with the firearm us
 
 Police say, Investigations are underway to find the suspect who fled the scene.
 
+838 suspects apprehended in the past 24 hours under Operation Yukthiya
+
 ◼️
 
 [Data](articles/4a89318d.json)
@@ -1209,6 +1275,8 @@ COLOMBO (News 1st); Sri Lankan State Minister Sanath Nishantha died early on Thu
 Sri Lanka Police said that a Police Constable attached to the security detail of the State Minister died as well, while the driver sustained serious injuries and was admitted to the hospital.
 
 According to an official statement from Sri Lanka Police the accident took place at 2 AM and the SUV in which the State Minister was travelling in crashed on to the rear end of a freight container truck heading to Colombo, resulting in the tragic accident.
+
+838 suspects apprehended in the past 24 hours under Operation Yukthiya
 
 ◼️
 
@@ -1965,57 +2033,5 @@ The injured individual has been admitted to the National Hospital, Colombo, acco
 [Data](articles/71b99ce4.json)
 
 [Extended Data](ext_articles/71b99ce4.ext.json)
-
----
-
-### Shooting in Colombo
-
-*2024-01-24 22:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192532) · `si`
-
-A shot dead in the Jidtupitiya area in Colombo today (24).
-
-A person who was injured in shooting has been admitted to the Colombo National Hospital.
-
-Two unidentified shooters who came from a motorcycle had fled the police.
-
-It is also reported that the shooting was carried out in the Jidathupitiya Street area in Githupitiya.
-
-◼️
-
-[Data](articles/155dd828.json)
-
-[Extended Data](ext_articles/155dd828.ext.json)
-
----
-
-### Sri Lanka Tourism Promotion Bureau Chairman elected as Vice Chair of UNWTO
-
-*2024-01-24 22:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96709/sri-lanka-tourism-promotion-bureau-chairman-elected-as-vice-chair-of-unwto-) · `en`
-
-The Chairman of Sri Lanka Tourism Promotion Bureau Chalaka Gajabahu has been elected as the Vice Chair of the United Nations World Tourism Organization Competitiveness Committee recently.
-
-The Committee on Tourism and Competitiveness (CTC) is one of the technical committees of the UNWTO and it is a subsidiary organ of the Executive Council. The Committee was established at the 95th session of the Executive Council in Belgrade, Serbia in May 2013. Its Rules of Procedure and the composition were approved by the Executive Council at its 96th session.
-
-Since its establishment in 2013, CTC focused its work mainly on assessing the state of knowledge on the basic concept of “tourism competitiveness” and identifying its key factors. This process has also included identifying, developing and harmonizing concepts, models and operational definitions used in the tourism value chain, Sri Lanka Tourism Promotion Bureau said.
-
-...
-
-[Data](articles/39ee1221.json)
-
-[Extended Data](ext_articles/39ee1221.ext.json)
-
----
-
-### Online Safety Act Major Blow To Freedom Of Expression: Amnesty International
-
-*2024-01-24 22:09:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/online-safety-act-major-blow-to-freedom-of-expression-amnesty-international/) · `en`
-
-Responding to the passing of the draconian Online Safety Act in the Sri Lankan Parliament today, Thyagi Ruwanpathirana, Regional Researcher for South Asia at Amnesty International said: “The passing of the Online Safety Act is a major blow to human rights in Sri Lanka. The Act is the newest weapon in the government’s arsenal of tools that could be used to undermine freedom of expression and suppress dissent. Authorities must immediately withdraw it and ensure respect for the human rights of everyone in the country.
-
-...
-
-[Data](articles/d420da3f.json)
-
-[Extended Data](ext_articles/d420da3f.ext.json)
 
 ---

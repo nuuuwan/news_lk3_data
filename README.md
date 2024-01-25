@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 20:32:58**
+As of **2024-01-25 20:51:18**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 350
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,610 (99.8%) of 2,615 articles have been extended.
+2,615 (100.0%) of 2,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### පිළිකාව සුව කරන්න ජලයේ ගිල්වූ දරුවා මරුට
+### Child killed in water to heal cancer
 
 *2024-01-25 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192567) · `si`
 
-ලේ පිළිකාවකින් පීඩා විඳිමින් සිටි 07 හැවිරිදි දරුවෙකු ගංඟා නදියේ විනාඩි 15ක කාලයක් ගිල්වා තැබීමෙන් මියයාමේ පුවතක් ඉන්දියාවෙන් වාර්තා වෙයි.
+A seven-year-old child who suffered a blood cancer is reported from India for a 15-minute diminishing the river.
 
-දරුවාගේ මව්පියන් මෙලෙස දරුවා ජලයේ ගිල්වා ඇති බව වාර්තා වෙයි.
+The child's parents have been dumped in water.
 
-විදෙස් මාධ්‍ය සඳහන් කළේ දරුවාගේ දෙමාපියන් විසින් මෙලෙස දරුවාව ගංගා නදියේ ජලයේ ගිල්වා ඇත්තේ, ජලයේ ගිල්වීමෙන් පසු ආශ්චර්යකින් ඔහුට වැළදී ඇති පිළිකාව සුවවනු ඇති බවට වූ අන්ධ විශ්වාසයක් හේතුවෙනි.
+Foreign media, the child's parents have been immersed in the river river, and the blind faith that he refused in the river.
 
 ◼️
 
 [Data](articles/3282b8a4.json)
+
+[Extended Data](ext_articles/3282b8a4.ext.json)
 
 ---
 
@@ -117,6 +119,8 @@ Accordingly, the Legal Draftsman has formulated the draft bill and the clearance
 ...
 
 [Data](articles/20728f4c.json)
+
+[Extended Data](ext_articles/20728f4c.ext.json)
 
 ---
 
@@ -196,21 +200,23 @@ Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestio
 
 ---
 
-### நாடு முழுவதிலும் ஏற்றுமதி வலயங்கள் நிறுவப்படும் - ஜனாதிபதி தெரிவிப்பு
+### Export Zones will be established across the country - President
 
 *2024-01-25 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/174799) · `ta`
 
-பியகமவை முன்மாதிரியாகக் கொண்டு அடுத்த சில வருடங்களுக்குள் நாட்டை முன்னேற்றுவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க உறுதியளித்தார்.
+President Ranil Wickremesinghe has promised to improve the country within the next few years with the role model of Biyagama.
 
-தனது அரசியல் வாழ்க்கையை ஆரம்பித்த பியகம தேர்தல் தொகுதிக்கு அன்று தான் வந்த போது அந்தப் பிரதேசம் மிகவும் பின்தங்கிய நிலையில் இருந்ததாக சுட்டிக்காட்டிய ஜனாதிபதி, பியகம முதலீட்டு வலயத்தை நிறுவுதல்  உள்ளிட்ட  சரியான பொருளாதார தீர்மானங்களினால் பியகம மிக குறுகிய காலத்தில் பெரும் முன்னேற்றத்தை அடைந்துள்ளதெனவும் தெரிவித்தார்.
+The President pointed out that when he came to the Biyagama electoral constituency that started his political career, the president said that the area was very backward and that Biyagama has made great improvement in a short time due to the proper economic decisions, including the establishment of the Biyagama Investment Zone.
 
-அதே முறையில், திறந்த பொருளாதாரத்தில் முழுமையாகப் பயனடையும் வகையில் நாடு முழுவதும் புதிய முதலீட்டு வலயங்களை உருவாக்கி, தேசிய பொருளாதாரத்தை பத்து மடங்கு மேம்படுத்த நடவடிக்கை எடுப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+In the same way, the President said that the new investment zones across the country will be created to improve the national economy ten times to benefit the open economy.
 
-சபுகஸ்கந்த அபேசேகரராமவில் புதிதாக நிர்மாணிக்கப்பட்ட போதி மதில் மற்றும் தங்க வேலி திறப்பு நிகழ்வில் வியாழக்கிழமை (25) முற்பகல் கலந்து கொண்டபோதே ஜனாதிபதி ரணில் விக்ரமசிங்க இவ்வாறு தெரிவித்தார்.
+President Ranil Wickremesinghe said this while attending the newly constructed Bodhi Madil and Gold Valley inauguration in Sabukaskanda Abeesekerama on Thursday (25).
 
 ...
 
 [Data](articles/bc1a7ef6.json)
+
+[Extended Data](ext_articles/bc1a7ef6.ext.json)
 
 ---
 
@@ -282,6 +288,8 @@ The Women and Children's Bureau of Kekirawa Police are conducting further invest
 
 [Data](articles/8985b875.json)
 
+[Extended Data](ext_articles/8985b875.ext.json)
+
 ---
 
 ### The President expressed his condolences to Sanath Nishantha's residence
@@ -300,21 +308,23 @@ The President expressed his condolences to his family members over the sudden de
 
 ---
 
-### அனைத்து தமிழ் அரசியல் கட்சிகளுக்கும் வடக்கு, கிழக்கு ஒருங்கிணைப்புக் குழு முன்வைத்துள்ள 11 கோரிக்கைள்
+### The North and Eastern Coordinating Committee has made 11 request for all Tamil political parties
 
 *2024-01-25 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174795) · `ta`
 
-ஐக்கிய இலங்கைக்குள் இணைந்த வடக்கு கிழக்கு மாகாணத்துக்கு மீளப் பெறமுடியாத சமஸ்டி முறையிலான அதிகாரப் பகிர்வான தீர்வை பெறுவதற்காக நாங்கள் முன்வைக்கும் 11 கோரிக்கைகளை அனைத்து தமிழ் அரசியல் கட்சிகளும் கட்சிகளும் உடனடியாகக் கவனம் செலுத்த வேண்டும் என ஒருங்கிணைப்பாளர் கண்டுமணி லவகுகராசா தெரிவித்தார்.
+Coordinator Kandumani Lavakugarasa said that all Tamil political parties and parties should immediately pay attention to the 11 demands that we make in order to find a power -sharing solution for the united North and East, which joined the United States.
 
-இது தொடர்பில் வடக்கு கிழக்கு ஒருங்கிணைப்புக் குழு ஒருங்கிணைப்பாளர்  கண்டுமணி லவகுகராசா வியாழக்கிழமை (25) ஊடக அறிக்கை ஒன்றை வெளியிட்டுள்ளார்.
+North East Coordinating Committee Coordinator Kandumani Lavakugarasa issued a media statement on Thursday (25).
 
-தமிழ்த் தேசிய அரசியலின் வரலாற்றிலும், தமிழரசுக் கட்சியின் வரலாற்றிலும் முதன்முதல் வாக்கெடுப்பு மூலம் கட்சித் தலைமையை தெரிவு செய்வது ஜனநாயகப் பண்பை வரவேற்பதோடு இது நிலைத்திட வேண்டும்.
+In the history of Tamil national politics and the history of the TNA, the first vote of party leadership is welcomed by the democratic character.
 
-இலங்கை நாட்டின் உள்ளக அரசியல், பிராந்திய அரசியல் மற்றும் சர்வதேச சூழல் ஆகியன சிக்கல்மிக்கதாகக் காணப்படும் தற்போதைய சூழலில், தமிழரசுக் கட்சியின் தலைமைத்துவத்தைப் பொறுப்பேற்றிருக்கும் பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரன் முன்னால் பாரிய கடப்பாடுகள் உள்ளது. வீழ்ச்சியடைந்திருக்கும் தமிழ்த் தேசிய அரசியலை பரந்துபட்ட மக்களின் பங்கேற்புடன் மீளவும் கட்டியெழுப்ப வேண்டும்.
+In the present context of the internal political, regional politics and international environment of Sri Lanka, there are massive obligations in front of Parliamentarian Sivagnanam Sridharan, who is responsible for the leadership of the TNA.. The collapse Tamil national politics must be rebuilt with the participation of widespread people.
 
 ...
 
 [Data](articles/ea5f8919.json)
+
+[Extended Data](ext_articles/ea5f8919.ext.json)
 
 ---
 

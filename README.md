@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 15:51:28**
+As of **2024-01-25 16:04:50**
 
 ## Newspaper Stats
 
-*Scraped **2,578** Articles*
+*Scraped **2,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 142
 islandlk | 146
 economynextcom | 152
 dailyftlk | 194
-adaderanasinhalalk | 212
+adaderanasinhalalk | 213
 adalk | 249
 virakesarilk | 282
 adaderanalk | 320
@@ -26,11 +26,37 @@ dailymirrorlk | 345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,578 (100.0%) of 2,578 articles have been extended.
+2,579 (100.0%) of 2,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### Another fire in China loses many lives
+
+*2024-01-25 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192558) · `si`
+
+39 people were killed in a fire in Shinui shop in Jeanzhi Province, China.
+
+Eyewitnesses have said that the fire was started by the basement of the shop in the market.
+
+With the instance of the incident, the relief divisions had come to it and had taken steps to quit the fire and to rescue fire.
+
+The fire has already been rescued and there is no other trapped in the building.
+
+In recent years, China has recently been reported.
+
+The incident was reported from a fire in a school hostel and 13 students were killed and 24 hours.
+
+President Xi Ginking has ordered the investigation into the investigation.
+
+◼️
+
+[Data](articles/efd3ead1.json)
+
+[Extended Data](ext_articles/efd3ead1.ext.json)
+
+---
 
 ### ICC Women’s ODI Cricketer of the Year announced
 
@@ -2055,25 +2081,5 @@ The people challenged the government -submitted Back to the High Court in the Hi
 [Data](articles/0cc214d1.json)
 
 [Extended Data](ext_articles/0cc214d1.ext.json)
-
----
-
-### The Fourth Pillar of Pillar
-
-*2024-01-25 00:25:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நான்காவது-தூணை-அடக்கும்-சட்டம்/175-332083) · `ta`
-
-Tamil National Alliance (TNA) parliamentarian Govindam Karunagaram said that the event will be aimed at putting people's freedom of expression into the grave.
-
-He said this while addressing the second day of debate on the event on Wednesday (24) in Parliament.
-
-Is this the Faculty Backup Act to suppress the fourth pillar of the pillars of democracy?Otherwise it is to be seen as a law for enriching the media. Everyone has questions as to why this bill is being brought in today. Have been granted adequate rights in the Constitution. I see this as a violation of the constitution.
-
-My opinion is that the government is bringing the bill so that there is no such thing as a struggle. The fear of the rulers manifests in this bill. He said the bill would be put in the grave of people's freedom of expression.
-
-◼️
-
-[Data](articles/6c7a3435.json)
-
-[Extended Data](ext_articles/6c7a3435.ext.json)
 
 ---

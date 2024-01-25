@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 14:32:57**
+As of **2024-01-25 14:50:28**
 
 ## Newspaper Stats
 
-*Scraped **2,564** Articles*
+*Scraped **2,565** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 194
 adaderanasinhalalk | 209
 adalk | 248
 virakesarilk | 281
-adaderanalk | 318
+adaderanalk | 319
 tamilmirrorlk | 328
 dailymirrorlk | 342
 
@@ -26,7 +26,7 @@ dailymirrorlk | 342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,564 (100.0%) of 2,564 articles have been extended.
+2,565 (100.0%) of 2,565 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,30 @@ During the wedding ceremony, a selfie photo of the newlyweds with Sanath Nishant
 [Data](articles/1d5b3a6c.json)
 
 [Extended Data](ext_articles/1d5b3a6c.ext.json)
+
+---
+
+### Final rites of State Minister Sanath Nishantha on Sunday
+
+*2024-01-25 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96720/final-rites-of-state-minister-sanath-nishantha-on-sunday-) · `en`
+
+The final rites of the late State Minister Sanath Nishantha are scheduled to be performed on Sunday (Jan. 28).
+
+MP Mahindananda Aluthgamage said that the funeral service would be conducted in the Arachchikattuwa area.
+
+According to the police, the state minister’s vehicle had rear-ended a moving container truck around 2:00 a.m. (25 Jan.), before crashing against the roadside barrier.
+
+Following the fatal collision, three persons including State Minister Nishantha were rushed to the Colombo North Teaching Hospital in Ragama with critical wounds, where two of them - the lawmaker and his security guard, a police constable named Jayakody – succumbed to their injuries upon admission.
+
+The driver of the vehicle is currently receiving medical attention at the hospital.
+
+The group had been returning from a wedding ceremony held at a hotel in Bandarawatta, Chilaw last night when they met with the accident.
+
+◼️
+
+[Data](articles/87bea950.json)
+
+[Extended Data](ext_articles/87bea950.ext.json)
 
 ---
 
@@ -2023,21 +2047,5 @@ The police arrested the parents on their return, and kept the mother to take car
 [Data](articles/77e4bf4f.json)
 
 [Extended Data](ext_articles/77e4bf4f.ext.json)
-
----
-
-### One person injured in shooting in Colombo
-
-*2024-01-24 22:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96710/one-person-injured-in-shooting-in-colombo) · `en`
-
-One person was injured in a shooting that took place at Barber Street today (24), Jinthupitiya in Colombo, the police said.
-
-The injured individual has been admitted to the National Hospital, Colombo, according to the police.
-
-◼️
-
-[Data](articles/71b99ce4.json)
-
-[Extended Data](ext_articles/71b99ce4.ext.json)
 
 ---

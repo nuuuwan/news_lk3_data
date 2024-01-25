@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 18:51:59**
+As of **2024-01-25 19:02:29**
 
 ## Newspaper Stats
 
-*Scraped **2,600** Articles*
+*Scraped **2,602** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 35
 bbccomsinhala | 50
 dbsjeyarajcom | 123
-newsfirstlk | 143
+newsfirstlk | 144
 islandlk | 147
 economynextcom | 152
 dailyftlk | 194
 adaderanasinhalalk | 219
 adalk | 252
 virakesarilk | 284
-adaderanalk | 323
+adaderanalk | 324
 tamilmirrorlk | 330
 dailymirrorlk | 348
 
@@ -26,11 +26,49 @@ dailymirrorlk | 348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,600 (100.0%) of 2,600 articles have been extended.
+2,601 (100.0%) of 2,602 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### President advocates expansion of Sri Lankan confectionery industry and cocoa cultivation
+
+*2024-01-25 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/96725/president-advocates-expansion-of-sri-lankan-confectionery-industry-and-cocoa-cultivation) · `en`
+
+President Ranil Wickremesinghe, addressing the 30th Annual General Meeting of the Lanka Confectionary Manufacturers Association (LCMA) on Wednesday (24) at Cinnamon Grand Hotel, Colombo emphasized the potential for Sri Lanka to become a global player in the confectionery industry. He encouraged Sri Lankan confectioners to expand their horizons and tap into international markets.
+
+Acknowledging the success of Sri Lankan teas and cinnamon globally, the President posed the question, “How long before I can take chocolates and go?” He also encouraged the confectioners to explore the export market for chocolates, the President’s Media Division (PMD) said in a statement.
+
+The President emphasized the significance of positioning Sri Lankan chocolates as a world-class product, similar to the renowned reputation of the country’s tea and cinnamon. His encouragement aimed to inspire the confectionery industry to embark on a journey towards global recognition and market presence.
+
+...
+
+[Data](articles/03c131ea.json)
+
+[Extended Data](ext_articles/03c131ea.ext.json)
+
+---
+
+### President Visits Late State Minister Sanath Nishantha’s Home
+
+*2024-01-25 18:16:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/president-visits-late-state-minister-sanath-nishantha%e2%80%99s-home/) · `en`
+
+Colombo (News 1st) – President Ranil Wickremesinghe visited the home of late State Minister Sanath Nishantha and condoled with his wife and four children today (25th).
+
+The state minister died in a motor accident on the Airport Expressway in the early hours of Thursday.
+
+Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
+
+Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+
+Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
+
+◼️
+
+[Data](articles/d496300b.json)
+
+---
 
 ### Sanath Nishantha looks for slanderous posts
 
@@ -302,7 +340,7 @@ Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 
 
 Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
 
-...
+◼️
 
 [Data](articles/f7aea77d.json)
 
@@ -571,8 +609,6 @@ Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
 Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
 
 Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
-
-838 suspects apprehended in the past 24 hours under Operation Yukthiya
 
 ◼️
 
@@ -1224,8 +1260,6 @@ Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 
 
 Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
 
-838 suspects apprehended in the past 24 hours under Operation Yukthiya
-
 ◼️
 
 [Data](articles/2ef49caf.json)
@@ -1810,8 +1844,6 @@ Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 
 
 Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
 
-838 suspects apprehended in the past 24 hours under Operation Yukthiya
-
 ◼️
 
 [Data](articles/4a89318d.json)
@@ -1990,8 +2022,6 @@ Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 
 
 Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
 
-838 suspects apprehended in the past 24 hours under Operation Yukthiya
-
 ◼️
 
 [Data](articles/7baf4fae.json)
@@ -2061,51 +2091,5 @@ The accident had occurred at around 2 am near the Katunayake Expressway at Katun
 [Data](articles/9a0781fb.json)
 
 [Extended Data](ext_articles/9a0781fb.ext.json)
-
----
-
-### Introduction of VAT on used vehicles sparks black market: Motor Traders
-
-*2024-01-25 03:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Introduction-of-VAT-on-used-vehicles-sparks-black-market-Motor-Traders/108-275688) · `en`
-
-The recently introduced Value Added Tax (VAT) on used vehicles has inadvertently given rise to a black market within the industry. This, in turn, has led to an escalation in the market prices of used vehicles, adversely impacting the average citizens of the country, according to the Ceylon Motor Traders’ Association (CMTA).
-
-The recent implementation of the VAT has stirred concerns in the motor trade, as the legitimate companies now face a significant hurdle. When these companies sell vehicles, the prices surge by an additional 18 percent, due to the newly imposed VAT.
-
-On the other hand, the unethical companies and individuals, often dealing in cash transactions, can operate without the burden of this additional tax, offering them an 18 percent substantial competitive advantage. This situation poses a serious threat to legitimate companies, rendering them inoperable against the black-market competitors.
-
-...
-
-[Data](articles/ebbff3ac.json)
-
-[Extended Data](ext_articles/ebbff3ac.ext.json)
-
----
-
-### What is the process of sacking the bhikkill in Sri Lanka?
-
-*2024-01-25 03:35:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn4njy66r66o) · `si`
-
-Bridgement in the Sasana, the various information about monks have been circulated in various media.
-
-The latest incident was that universal intelligence was arrested and arrested for insulting Buddhism and remanded.
-
-The Ramanna Niki Niki Niki Nika Nikaya has unanimously decided to expel the 'Universal Intelligence Muni' in Ratnapura.
-
-The person who appeared as 'Alocatheeswara Bodhisattva' calls
-
-However, the monk pointed out that the Bhikku society has no power to ban a monk just by sacking the monk.
-
-What, then, is removal of bhikkh from the way?What is the process of removing the bhikkh?This is a note that inquire about it.
-
-The Chief Prelate of the Ramer Ramanna Nikaya has decided to expel the Buddhist monk by Buddhism as a monk called Wimalabuddi in Ratnapura.
-
-The article stated that the Ramanna Section of the Ramanna section of the Ramanna Sect of December 15, decided to expel the universal intelligence.
-
-...
-
-[Data](articles/d9a61420.json)
-
-[Extended Data](ext_articles/d9a61420.ext.json)
 
 ---

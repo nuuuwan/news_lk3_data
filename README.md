@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 20:51:18**
+As of **2024-01-25 21:02:34**
 
 ## Newspaper Stats
 
-*Scraped **2,615** Articles*
+*Scraped **2,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,69 @@ dailyftlk | 194
 adaderanasinhalalk | 221
 adalk | 255
 virakesarilk | 286
-adaderanalk | 327
+adaderanalk | 328
 tamilmirrorlk | 331
-dailymirrorlk | 350
+dailymirrorlk | 351
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,615 (100.0%) of 2,615 articles have been extended.
+2,617 (100.0%) of 2,617 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### US expresses concerns over Sri Lanka’s Online Safety Bill, calls for transparency
+
+*2024-01-25 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/96729/us-expresses-concerns-over-sri-lankas-online-safety-bill-calls-for-transparency) · `en`
+
+The United States remains concerned about the potential impact of Sri Lanka’s newly passed Online Safety Bill, Ambassador Julie Chung said on Thursday (Jan.25).
+
+Taking to X (formerly Twitter), the US envoy in Colombo expressed dismay at passing the legislation in the parliament by majority vote without incorporating important input from key stakeholders, including civil society and tech companies.
+
+The new law has come under fire for the problematic aspects of several clauses of the Bill, which threaten the freedom of expression, innovation and privacy.
+
+Chung emphasized that the ‘vague and overly restrictive’ Online Safety Bill can hinder investment and development of a digital economy, undermining Sri Lanka’s much-needed economic growth.
+
+On that account, the United States has urged the Sri Lankan authorities to prioritize transparency and ensure any legislation does not stifle the voices of its people.
+
+...
+
+[Data](articles/c3c17c46.json)
+
+[Extended Data](ext_articles/c3c17c46.ext.json)
+
+---
+
+### Judge proposes Spain’s Luis Rubiales face trial over Hermoso World Cup kiss
+
+*2024-01-25 20:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Judge-proposes-Spains-Luis-Rubiales-face-trial-over-Hermoso-World-Cup-kiss/108-275717) · `en`
+
+Spain, Jan 25 (BBC) - A Spanish judge has proposed that former football federation president Luis Rubiales should stand trial over the women's World Cup kiss involving captain Jenni Hermoso.
+
+Mr Rubiales grabbed Ms Hermoso's head and kissed her during the presentation after Spain's victory in Australia.
+
+She said the kiss was "not consensual", a statement denied by Mr Rubiales.
+
+A judge has found there is enough evidence for the matter to proceed to trial.
+
+During a hearing at the Audencia Nacional, or High Court, in Madrid, the judge described the kiss as "not consensual and... a unilateral and surprising initiative".
+
+Prosecutors previously charged Mr Rubiales with sexual assault and coercion.
+
+Penalties for such a kiss range from a fine to four years in prison.
+
+The incident has involved several Spanish football executives including Ms Hermoso's former coach, a former marketing manager and the sports director of the men's team.
+
+...
+
+[Data](articles/243639a7.json)
+
+[Extended Data](ext_articles/243639a7.ext.json)
+
+---
 
 ### Child killed in water to heal cancer
 
@@ -2027,45 +2077,5 @@ The National Organizer Jayathilaka Ranasinghe said that the government's attenti
 [Data](articles/657610b0.json)
 
 [Extended Data](ext_articles/657610b0.ext.json)
-
----
-
-### State Minister Sanath Nishantha killed in accident
-
-*2024-01-25 07:03:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-இராஜாங்க-அமைச்சர்-சனத்-நிஷாந்த-பலி/175-332094) · `ta`
-
-State Minister Sanath Nishantha has died in a vehicle accident on the Katunayake Highway.
-
-Police say the vehicle traveling from Katunayake to Colombo crashed into the back of a lorry that was traveling in the same direction.
-
-Some people, including the Minister of State, who were injured in the accident, have been admitted to the Ragama Hospital.
-
-In this case, the State Minister and the Security Police Officer have died. Police have begun investigations into the accident
-
-◼️
-
-[Data](articles/e101ad92.json)
-
-[Extended Data](ext_articles/e101ad92.ext.json)
-
----
-
-### State Minister Sanath Nishantha kills in accident
-
-*2024-01-25 07:03:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/விபத்தில்-இராஜாங்க-அமைச்சர்-சனத்-நிஷாந்த-பலி/150-332094) · `ta`
-
-State Minister Sanath Nishantha has died in a vehicle accident on the Katunayake Expressway.
-
-Police say the vehicle traveling from Katunayake to Colombo crashed into the back of a lorry that was traveling in the same direction.
-
-Some people, including the Minister of State, who were injured in the accident, have been admitted to the Ragama Hospital.
-
-In this case, the Minister of State and the Security Police Officer died.
-
-◼️
-
-[Data](articles/e3f5fe8a.json)
-
-[Extended Data](ext_articles/e3f5fe8a.ext.json)
 
 ---

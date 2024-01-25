@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 23:33:16**
+As of **2024-01-25 23:52:08**
 
 ## Newspaper Stats
 
-*Scraped **2,627** Articles*
+*Scraped **2,628** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 194
 adaderanasinhalalk | 225
 adalk | 255
 virakesarilk | 286
-adaderanalk | 329
+adaderanalk | 330
 tamilmirrorlk | 333
 dailymirrorlk | 354
 
@@ -26,11 +26,33 @@ dailymirrorlk | 354
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,626 (100.0%) of 2,627 articles have been extended.
+2,628 (100.0%) of 2,628 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### We must boost country’s income, transitioning to positive economic trajectory - President
+
+*2024-01-25 22:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96731/we-must-boost-countrys-income-transitioning-to-positive-economic-trajectory-president) · `en`
+
+President Ranil Wickremesinghe on Thursday (Jan.25) underscored his commitment to guiding the country’s progress in the coming years, drawing inspiration from the success of Biyagama.
+
+Reflecting on his early political career in the Biyagama Constituency, where the region experienced notable underdevelopment, the President emphasized the positive impact of strategic economic decisions, particularly the establishment of the Biyagama Investment Zone. He noted that Biyagama’s rapid progress stands as a testament to those decisions.
+
+The Head of State underscored his vision for replicating such success nationwide by leveraging the advantages of an open economy.
+
+He expressed plans to establish new investment zones across the country, with the aim of significantly boosting the national economy.
+
+Recalling his recent visit to Switzerland, President Wickremesinghe said world leaders were amazed to hear how rapidly Sri Lanka has turned itself around and how its once-bankrupt economy has rebounded.
+
+...
+
+[Data](articles/173e0ff3.json)
+
+[Extended Data](ext_articles/173e0ff3.ext.json)
+
+---
 
 ### Father and son killed in an accident
 
@@ -61,6 +83,8 @@ The Commission wishes to consult the stakeholders as required under Section 30(3
 ...
 
 [Data](articles/cb2a7d99.json)
+
+[Extended Data](ext_articles/cb2a7d99.ext.json)
 
 ---
 
@@ -2037,33 +2061,5 @@ However, Israel says that the attack has not been carried out by his troops.
 [Data](articles/073f4b17.json)
 
 [Extended Data](ext_articles/073f4b17.ext.json)
-
----
-
-### Several fatal accidents that have been killed
-
-*2024-01-25 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192543) · `si`
-
-Police say that several lives were lost in several parts of the island.
-
-A van in the Tissama Matara area yesterday (24th) had been reported towards a horn of a horn and a hanging lorry.
-
-The driver of the van was killed and 7 years of age were seriously injured and hospitalized.
-
-The lorry driver and the injured were injured and admitted to the Hambantota Hospital.
-
-Meanwhile, a three-wheeler, which was running towards the doorway from the Kotapaduwa area along the Kotawadiya road in Kalu Palane road in Kalu Palane road, the Kolonnawa road in Kalu Palane road has to control the road to the driver.
-
-A woman was killed in the back of the three wheeler and her husband was slightly injured.
-
-Meanwhile, a motorbike traw towards a lorry, which was parked towards a lorry, towards a lorry, towards a parked lorry in the Chilaw Police Division, was on a lorry.
-
-Meanwhile, a jeep who had been on the right route 26 main road in the Pallekele Police Division was in the back of the car accident.
-
-...
-
-[Data](articles/8bad562f.json)
-
-[Extended Data](ext_articles/8bad562f.ext.json)
 
 ---

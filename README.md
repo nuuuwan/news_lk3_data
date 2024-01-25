@@ -1,32 +1,32 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 08:51:03**
+As of **2024-01-25 09:02:26**
 
 ## Newspaper Stats
 
-*Scraped **2,510** Articles*
+*Scraped **2,516** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 35
-bbccomsinhala | 47
+bbccomsinhala | 48
 dbsjeyarajcom | 123
 newsfirstlk | 137
 islandlk | 145
 economynextcom | 151
 dailyftlk | 194
 adaderanasinhalalk | 198
-adalk | 242
+adalk | 244
 virakesarilk | 277
 adaderanalk | 313
-tamilmirrorlk | 313
+tamilmirrorlk | 316
 dailymirrorlk | 335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,507 (99.9%) of 2,510 articles have been extended.
+2,510 (99.8%) of 2,516 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 ◼️
 
 [Data](articles/35811508.json)
+
+[Extended Data](ext_articles/35811508.ext.json)
 
 ---
 
@@ -202,6 +204,8 @@ The sea areas off the coasts extending from Colombo to Mannar via Puttalam and f
 
 [Data](articles/a952df9b.json)
 
+[Extended Data](ext_articles/a952df9b.ext.json)
+
 ---
 
 ### Latest Hope for Public Servant Salary
@@ -223,6 +227,24 @@ The National Organizer Jayathilaka Ranasinghe said that the government's attenti
 [Data](articles/657610b0.json)
 
 [Extended Data](ext_articles/657610b0.ext.json)
+
+---
+
+### விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த பலி
+
+*2024-01-25 07:03:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-இராஜாங்க-அமைச்சர்-சனத்-நிஷாந்த-பலி/175-332094) · `ta`
+
+கட்டுநாயக்க அதிவேக நெடுஞ்சாலையில் இடம்பெற்ற வாகன விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த உயிரிழந்துள்ளார்.
+
+கட்டுநாயக்க பகுதியிலிருந்து கொழும்பு நோக்கி இராஜாங்க அமைச்சர் பயணித்த வாகனம், அதே திசையில் பயணித்த லொறி ஒன்றின் பின்புறத்தில் மோதுண்டு விபத்துக்குள்ளானதாக பொலிஸார் தெரிவிக்கின்றனர்.
+
+இந்த விபத்தில் காயமடைந்த இராஜாங்க அமைச்சர் உள்ளிட்ட சிலர் ராகமை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+இந்த நிலையில், இராஜாங்க அமைச்சர் மற்றும் பாதுகாப்பு பொலிஸ் அதிகாரி ஆகியோர் உயிரிழந்துள்ளனர். இந்த விபத்து தொடர்பில் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்
+
+◼️
+
+[Data](articles/e101ad92.json)
 
 ---
 
@@ -349,6 +371,24 @@ This incident comes on the heels of a clash that took place between two groups o
 ◼️
 
 [Data](articles/b62726bb.json)
+
+[Extended Data](ext_articles/b62726bb.ext.json)
+
+---
+
+### රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මරුට
+
+*2024-01-25 06:43:40* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරකින්-රාජ්‍ය-අමාත්‍ය-සනත්-නිශාන්ත-මරුට/11-407720) · `si`
+
+පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්ත්‍රී හා රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා කටුනායක කොළඹ අධිවේගී මාර්ගයේ දී සිදු වූ රිය අනතුරකින් මියගොස් ඇතැයි රාගම රෝහල් ප්‍රකාශකයෙක් පැවැසීය.
+
+රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා ගමන් ගත් මෝටර් රථය කන්ටේනරයකට ඉස්සර කිරීමට යාමේදි මෝටර් රථයේ වම් පැත්ත එහි ගැටීමෙන් මෙම අනතුර සිදුව ඇති අතර එහිදී අමාත්‍යවරයා සහ ඔහුගේ ආරක්ෂකයා බරපතල තුවාල ලබා රාගම රෝහලට රැගෙන ගොස් ඇත. ඒ වන විට රාජ්‍ය අමාත්‍යවරයා සහ ආරක්ෂකය මියගොස් සිටි බව වාර්තා වේ.
+
+අද අලුයම 1.00 පමණ මෙම අනතුර සිදුව තිබේ. අනතුරත් සමග රාජ්‍ය අමාත්‍යවරයා සහ තුවලකුරුවන් රාගම රෝහලට ඇතුළත් කර ඇතැයි පොලිසිය කියයි.
+
+◼️
+
+[Data](articles/5d7e6e03.json)
 
 ---
 
@@ -481,6 +521,38 @@ On the other hand, the unethical companies and individuals, often dealing in cas
 [Data](articles/ebbff3ac.json)
 
 [Extended Data](ext_articles/ebbff3ac.ext.json)
+
+---
+
+### போதை மருந்து ஏற்றிய இளைஞர் உயிரிழப்பு
+
+*2024-01-25 02:40:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மருந்து-ஏற்றிய-இளைஞர்-உயிரிழப்பு/175-332093) · `ta`
+
+யாழ்ப்பாணம், ஓட்டுமடம் பகுதியைச் சேர்ந்த இளைஞர் ஒருவர் அதிகளவு போதை மருந்தை ஊசி மூலம் ஏற்றியதால்  உயிரிழந்துள்ளார்.
+
+ஓட்டுமடம் பகுதியில் நேற்று முன்தினம் திடீரென உயிரிழந்த 26 வயது இளைஞரின் மரணத்தில் ஏதும் மர்மம் உள்ளதா எனக் கண்டறிய நேற்று உடற்கூறு ஆய்வு நடத்தப்பட்டது. இதன்போது ஊசி மூலம் அதிகளவு போதை மருந்து ஏற்றியமையே இளைஞரின் மரணத்துக்குக் காரணம் எனக் கண்டறியப்பட்டது.
+
+இதேவேளை, உயிரிழந்த இளைஞரின் உடலில் போதை ஊசி மருந்து ஏற்றிய அடையாளமும் காணப்படுகின்றது. (a)
+
+◼️
+
+[Data](articles/db2578b8.json)
+
+---
+
+### கணக்காய்வாளர் திணைக்களத்தில் பதவி வெற்றிடம்
+
+*2024-01-25 02:33:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணக்காய்வாளர்-திணைக்களத்தில்-பதவி-வெற்றிடம்/175-332092) · `ta`
+
+கணக்காய்வு அதிகாரிகளுக்கான சுமார் 400 பதவி வெற்றிடங்கள் காணப்படுகின்றன என  கணக்காய்வாளர் திணைக்களம் தெரிவித்துள்ளது.
+
+இதன் காரணமாக கணக்காய்வு நடவடிக்கைகளை அதிகபட்ச முகாமைத்துவத்துடன் மேற்கொள்ள வேண்டியுள்ளதாக, கணக்காய்வாளர் நாயகம் டபிள்யூ.பி.சி. விக்ரமரத்ன குறிப்பிட்டுள்ளார்.
+
+கணக்காய்வு அதிகாரி பதவிக்கு பொருத்தமானவர்களை இணைத்துக்கொள்ளும் நடவடிக்கை விரைவில் மேற்கொள்ளப்படும் எனவும் அவர் தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/3b4c97ab.json)
 
 ---
 
@@ -893,6 +965,28 @@ The visiting monks were warmly welcomed by the Pa Thein Monastery in Yangon. Dur
 [Data](articles/2a44c90c.json)
 
 [Extended Data](ext_articles/2a44c90c.ext.json)
+
+---
+
+### රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත රිය අනතුරකින් ජීවිතක්ෂයට
+
+*2024-01-24 23:57:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckkvzyy4yg9o) · `si`
+
+ජල සම්පාදන රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත අද (ජනවාරි මස 25 වෙනිදා) කටුනායක - කොළඹ  අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලිස් මාධ්‍ය කොට්ඨාසය බීබීසී සිංහල සේවයට පැවසුවේ රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත ගමන් කරමින් තිබු ජීප් රථය අධිවේගී මාර්ගයේ කඳාන පොලිස් බල ප්‍රදේශයේ 11.1 සැතපුම් කණුව අසලදී කන්ටේනර් රථයක ගැටීමෙන් අනතුරක් සිදුව ඇති බවයි.
+
+කන්ටේනර් රථයේ පසුපස ගැටීමෙන් අනතුරුව රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත  ගමන් කරමින් තිබු මෝටර් රථය අධිවේගී මාර්ගයේ ආරක්‍ෂිත වැටේහි ද ගැටී තිබෙන බව  පොලිස් මාධ්‍ය කොට්ඨාසය ප්‍රකාශ කළේය.
+
+අනතුරින් එම රථයේ ගමන් කරමින් සිටි සනත් නිශාන්ත රාජ්‍ය අමාත්‍යවරයා, එතුමාගේ ආරක්ෂක නිලධාරියෙක් ලෙස කටයුතු කළ පොලිස් කොස්තාපල්වරයෙක් සහ රථයේ රියැදුරු තුවාල ලබා රාගම රෝහලට ඇතුලත් කර ඇත.
+
+රෝහල් ගත කිරීමෙන් අනතුරුව රාජ්‍ය අමාත්‍යවරයා සහ පොලිස් කොස්තාපල්වරයා ජිවිතක්ෂයට පත්ව තිබෙන බව පොලිසිය පැවසීය.
+
+රාගම රෝහලේ අධ්‍යක්ෂක ලියනගේ රණවීර බීබීසී සිංහල සේවයට පැවසුවේ රෝහල් ගත කරන විටත් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත රිය අනතුරෙන් ලද තුවාල හේතුවෙන් ජිවිතක්ෂයට පත්ව සිටි බවයි.
+
+...
+
+[Data](articles/a8d728c6.json)
 
 ---
 
@@ -1628,6 +1722,22 @@ Rotary International President Garden R. These were handed over to the Senior Of
 
 ---
 
+### 2023 මාස 9ට වැට් ආදායම රු.බි. 505කින් ඉහළට
+
+*2024-01-24 19:31:16* · [`adalk`](https://www.ada.lk/breaking_news/2023-මාස-9ට-වැට්-ආදායම-රු-බි--505කින්-ඉහළට/11-407716) · `si`
+
+එකතු කරන ලද අගය මත පනවනු ලැබූ බදු අනුපාතය වැට් වැඩි කිරීම නිසා 2023 වර්ෂයේ පළමු මාස 09 තුළ දී එම බද්දෙන් ලැබූ රාජ්‍ය ආදායම රුපියල් බිලියන 505 දක්වා 62.6% කින් ඉහළ ගොස් ඇති බැව් මුදල් අමාත්‍යාංශය විසින් විගණනයට නිකුත් කොට ඇති රාජ්‍ය මූල්‍ය කළමනාකරණ වාර්තාවේ සඳහන්වේ.
+
+මෙය 2023 වර්ෂය සඳහා ඇස්තමේන්තු කළ එකතු කළ අගය මත බදු ආදායමෙන් 55%ක්  බව ද මෙම වාර්තාවේ සඳහන් වේ. 2023 වර්ෂයේ මුල් මාස 09 තුළ දී දේශීය ආර්ථික ක්‍රියාකාරකම්වලින් ලද එකතු කළ අගය මත  බදු ආදායම රුපියල් බිලියන 351.6 දක්වා 81.4% කින් වැඩි වී ඇත.
+
+ආනයනය මගින් ලද එකතු කළ අගය මත බදු ආදායම මෙම කාල සීමාව තුළ රුපියල් බිලියන 153.04 දක්වා 31.5% කින් වැඩි වී ඇති බව ද මෙම වාර්තාවේ සඳහන් වේ.2022 වර්ෂයේ ජූලි මස 01 වැනි දින සිට බල පැවැත්වෙන පරිදි එකතු කළ අගය මත බදු අනුපාතය 8% සිට 12% දක්වා වැඩි කරනු ලැබීය. නැවත වතාවක් 2022 වර්ෂයේ සැප්තැම්බර් මස 01 වැනි දින සිට බලපැවැත්වෙන පරිදි 15% කින් වැඩි කරනු ලැබීය.
+
+...
+
+[Data](articles/249f0f7c.json)
+
+---
+
 ### Magistrate's decision on Mahinda Kodituwakku
 
 *2024-01-24 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192523) · `si`
@@ -1875,121 +1985,5 @@ The prison center has requested that he be saved because he is fighting for life
 [Data](articles/6e87b1b5.json)
 
 [Extended Data](ext_articles/6e87b1b5.ext.json)
-
----
-
-### Alms giving ceremony for 70 bhikkhunis
-
-*2024-01-24 18:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Alms-giving-ceremony-for-70-bhikkhunis/110-275659) · `en`
-
-An alms giving ceremony was held today at the Buddhist Ladies College, Colombo premises for 70 Bhikkhunis. The ceremony was held in line with the 70th commomoration of the school. Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/3986c70b.json)
-
-[Extended Data](ext_articles/3986c70b.ext.json)
-
----
-
-### 54 people do not participate: Four support for the government
-
-*2024-01-24 17:58:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/54-பேர்-பங்கேற்கவில்லை-அரசுக்கு-நான்கு-பேர்-ஆதரவு/175-332065) · `ta`
-
-The Ceremony Building Bill was passed by 46 additional votes. With 108 votes cast and 62 votes against the bill, 54 did not participate in the vote.
-
-Amidst the strong opposition of the opposition parties, civilians and public organizations, the debate on Tuesday (24) was held on Tuesday and Wednesday as the debate on Tuesday (23) by Public Security Minister Tran Alas by the Minister of Public Security. He sought a referendum to pass the legal source.
-
-In the referendum, the bill was passed by 46 additional votes, with 108 votes and 62 votes in favor of the Backup Bill.
-
-Sri Lanka Freedom Party (SLFP) MP Duminda Dissanayake, an independent opposition MP. Nimal Lansa, Alizabri Rahim, John Seneviratne. State MP Roshan Ranasinghe voted against. Vadivel Suresh, United People's Shakti MP, voted in favor of. All the opposition parties voted against it.
-
-◼️
-
-[Data](articles/6503965b.json)
-
-[Extended Data](ext_articles/6503965b.ext.json)
-
----
-
-### 54 people do not participate: Government support
-
-*2024-01-24 17:58:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/54-பேர்-பங்கேற்கவில்லை-அரசுக்கு-அறுவர்-ஆதரவு/175-332065) · `ta`
-
-The Ceremony Building Bill was passed by 46 additional votes. With 108 votes cast and 62 votes against the bill, 54 did not participate in the vote.
-
-Amidst the strong opposition of the opposition parties, civilians and public organizations, the debate on Tuesday (24) was held on Tuesday and Wednesday as the debate on Tuesday (23) by Public Security Minister Tran Alas by the Minister of Public Security. He sought a referendum to pass the legal source.
-
-In the referendum, the bill was passed by 46 additional votes, with 108 votes and 62 votes in favor of the Backup Bill.
-
-Sri Lanka Freedom Party (SLFP) MP Duminda Dissanayake, an independent opposition MP. Nimal Lansa, Alizabri Rahim, John Seneviratne. State MP Roshan Ranasinghe and United People's Power MP Vadivel Suresh voted in favor of. All the opposition parties voted against it.
-
-◼️
-
-[Data](articles/b0dc1f63.json)
-
-[Extended Data](ext_articles/b0dc1f63.ext.json)
-
----
-
-### We will completely cancel the Celebration Bill in our government - Harsha de Silva
-
-*2024-01-24 17:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174726) · `ta`
-
-98 percent of the people have protested against the Ceremony Backup Bill. This bill will be completely abolished in our regime. United People's Power MP Harsha de Silva said that it is clear whether democracy is within parliament or outside.
-
-He was speaking at a debate on the Backup Bill on Wednesday (24) in Parliament.
-
-We accept that we should protect the democratic rights of the nation and that 225 members should cooperate with it. The government has not taken care of the national and international level organizations on the Foundation Bill.
-
-In a poll, 98 percent of the polls on the Celebration Bill, opposed the bill.. So is democracy in Parliament?Or you can understand whether it is outside.
-
-We agree that social media should be monitored. This bill is the main objective of repression instead of monitoring, so this law will be completely abolished in our government and will be legalized.
-
-...
-
-[Data](articles/613d46b2.json)
-
-[Extended Data](ext_articles/613d46b2.ext.json)
-
----
-
-### Price of local eggs increased by Rs. 3
-
-*2024-01-24 17:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Price-of-local-eggs-increased-by-Rs-3/108-275663) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - The All Ceylon Egg Producers' Association (ACEPA) has decided to increase the price of a locally produces egg by Rs. 3 after the increase in the standard value-added tax (VAT) rate from 15% to 18% from January 1.
-
-With the increase in the VAT, the price of an egg imported from India had been increased by Rs. 8. As a result, the price of a locally produced egg too was increased by Rs. 3.
-
-Accordingly, the stock price of an egg directly from the poultry farm has been increased to Rs. 48. However, after the meeting held on January 21, the price increment will be effective from that day.
-
-Accordingly, the retail price of an egg will be Rs. 54.55, the association president said.
-
-◼️
-
-[Data](articles/73d2f0bc.json)
-
-[Extended Data](ext_articles/73d2f0bc.ext.json)
-
----
-
-### Price of locally manufactured eggs increased by Rs. 3
-
-*2024-01-24 17:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Price-of-locally-manufactured-eggs-increased-by-Rs-3/108-275663) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - The All Ceylon Egg Producers' Association (ACEPA) has decided to increase the price of a locally produces egg by Rs. 3 after the increase in the standard value-added tax (VAT) rate from 15% to 18% from January 1.
-
-With the increase in the VAT, the price of an egg imported from India had been increased by Rs. 8. As a result, the price of a locally produced egg too was increased by Rs. 3.
-
-Accordingly, the stock price of an egg directly from the poultry farm has been increased to Rs. 48. However, after the meeting held on January 21, the price increment will be effective from that day.
-
-Accordingly, the retail price of an egg will be Rs. 54.55, the association president said.
-
-◼️
-
-[Data](articles/8766cbf8.json)
-
-[Extended Data](ext_articles/8766cbf8.ext.json)
 
 ---

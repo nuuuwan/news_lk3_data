@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 17:53:38**
+As of **2024-01-25 18:10:45**
 
 ## Newspaper Stats
 
-*Scraped **2,590** Articles*
+*Scraped **2,594** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 35
 bbccomsinhala | 49
 dbsjeyarajcom | 123
 newsfirstlk | 143
-islandlk | 146
+islandlk | 147
 economynextcom | 152
 dailyftlk | 194
-adaderanasinhalalk | 215
-adalk | 251
+adaderanasinhalalk | 217
+adalk | 252
 virakesarilk | 282
 adaderanalk | 322
 tamilmirrorlk | 330
@@ -26,11 +26,67 @@ dailymirrorlk | 348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,590 (100.0%) of 2,590 articles have been extended.
+2,590 (99.8%) of 2,594 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### මුහුදේ ගිලී පුද්ගලයෙක් මරුට - තවත් අයෙක් අතුරුදන්
+
+*2024-01-25 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192563) · `si`
+
+කුඩාවැල්ල මෝදරවත්ත මුහුදේ දියනෑමට ගිය පුද්ගලයින් තිදෙනෙකු අද (25) දහවල් 2.30ට පමණ රළ පහරට හසුවී ගසාගෙන ගොස් තිබේ.
+
+ඉන් එක් පුද්ගලයෙක් දිවි බේරාගෙන තිබූ අතර තවත් පුද්ගලයෙකුගේ සිරුර හමුවී ඇත.
+
+මෙලෙස සිරුර හමුවී ඇත්තේ සම්පත් කුමාර නම් කළුතර පදිංචි 35 හැවිරිදි පුද්ගලයෙකුගේය.
+
+තවත් අයෙක් අතුරුදන්ව ඇති අතර ඔහු 25 හැවිරිදි කඹුරුපිටියේ පදිංචි උදාර පුෂ්පකුමාර නම් පුද්ගලයෙකි.
+
+පස් දෙනෙකුගෙන් යුත් කණ්ඩායමක් මෙලෙස පැමිණ ඇති අතර ඉන් තිදෙනෙකු මුහුදේ දියනෑමට ගොස් අනතුර සිදුවී ඇත.
+
+◼️
+
+[Data](articles/301a8b97.json)
+
+---
+
+### කැලණි ගඟේ සිටි දැවැන්ත කිඹුලෙක් මරුට
+
+*2024-01-25 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192562) · `si`
+
+කැළණි ගඟේ පූගොඩ - කනම්පැල්ල පාලම අසල මියගොස් සිටි දැවැන්ත කිඹුලෙකුගේ සිරුරක් අද (25) සවස 2.00 ට පමණ හමුවී තිබේ.
+
+තරුණයන් පිරිසක් විසින් කිඹුලාගේ සිරුර දැක ඇති අතර, පසුව ඔවුන් එම සිරුර ගඟ පහළට ගසාගෙන යාම සඳහා ගඟ මැදට ඇදගෙන ගොස් තිබුණි.
+
+◼️
+
+[Data](articles/ec72956c.json)
+
+---
+
+### සනත්ගේ තැනට එන ජගත් විමල්ට එක්වෙයි
+
+*2024-01-25 17:22:41* · [`adalk`](https://www.ada.lk/breaking_news/සනත්ගේ-තැනට-එන-ජගත්-විමල්ට-එක්වෙයි/11-407727) · `si`
+
+ජනතාව ලබා දුන් ජන්දයට කිසිදු විටක අසාධාරණයක් නොකරන බවත් තමන්ට ලැබෙන මන්ත්‍රි ධුරය කිසිදු ලෙසකින් අවතක්සේරු නොකරන බව සනත් නිශාන්ත පෙරේරා මහතාගෙ අභාවයෙන් පසු හිස් වු මන්ත්‍රි ධුරයට පසු තේරී පත්විමට නියමිත ජගත් ප්‍රියංකර මහතාගෙන් කල විමසිමේදි පවසන්නට විය.
+
+සනත් නිශාන්ත මහතාගෙ අභාවයෙන් හිස් වු මන්ත්‍රි ධුරයෙන් පසුව පුත්තලම දිස්ත්‍රික්කයෙ ශ්‍රී ලංකා පොදුජන පෙරමුණේ ලයිස්තුවේ සිටින ජගත් ප්‍රියංකර මහතාය.
+
+ඔහු විමල් විරවංශ මහතාගේ ජාතික නිදහස් පෙරමුණ යටතේ පොදුජන පෙරමුණ සමග එක්ව  පසුගිය මහ මැතිවර්ණයෙදී ගෝඨාභය රාජපක්ෂ මහතාගෙ ජයග්‍රහණය වෙනුවෙන් තරග වැදිනි.
+
+එහිදි මනාප ජන්ද 40800 ක් ලබා ගත් ජගත් ප්‍රියංකර මහතා එම ලයිස්තුවේ පස් වන ස්ථානය හිමිකර ගැනිමට සමත්විය.
+
+නමුත් පුත්තලම දිස්ත්‍රික්කයට පොදුජන පෙරමුණින් සිව් දෙනෙකුට පමනක් පාර්ලිමේන්තු වරම් හිමිවිනි.
+
+මෙහිදි වැඩි දුරටත් අදහස් දැක්වු ජගත් ප්‍රියංකර මහතා පවසා සිටියෙ තමන්ට දේශපාලන ඒපා වි සිටි බවයි.ඒ නිසාම තම රැකියාව වන සමෘද්ධි කළමණාකරුවකු ලෙස නාත්තන්ඩිය සමෘද්ධි කාර්යාලයෙ සේවය කරමින් සිටි බවයි.
+
+...
+
+[Data](articles/2fdfb068.json)
+
+---
 
 ### Solutions to the issues of principals
 
@@ -2045,63 +2101,5 @@ Meanwhile, the military is farming as the people are watching the fences on the 
 [Data](articles/84baf5f1.json)
 
 [Extended Data](ext_articles/84baf5f1.ext.json)
-
----
-
-### Recovery of 8 acres of land
-
-*2024-01-25 02:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-ஏக்கர்-காணியை-மீள-கையளிப்போம்/175-332088) · `ta`
-
-Defense Minister Premitha Bandara Tennakoon has said that military camps have been set up in many areas in view of the modern and future security of the country and that there are only military camps in the North and East.
-
-The Minister of Defense said this in response to a question raised by the Tamil National Alliance (TNA) MP's MP's MP's priests, the Kalavani Maha Vidyalaya, the Ground of Batticaloa, during the questioning of oral response in Parliament on Wednesday (24).
-
-Military camps are not only in the north and east. We have camps for the current and future of the country in all provinces. Thus, Chanakyan has to reject the idea that there are only military camps in the North and East.
-
-Meanwhile, according to me, the priests were taken to another place after the tsunami of the school tsunami. Thereafter, the headquarters of a military force was set up on this place. In this case, the stadium is outside the camp. There is a two -acre military face near it.
-
-...
-
-[Data](articles/2dca33b8.json)
-
-[Extended Data](ext_articles/2dca33b8.ext.json)
-
----
-
-### If the telephone is not frozen, the riots will explode
-
-*2024-01-25 02:00:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முடக்கி-இருக்காவிடின்-கலவரம்-வெடித்திருக்கும்/175-332087) · `ta`
-
-Former President Maithripala Sirisena said that the country's media control law is essential in order to punish those who spread false information, and I have disabled social media for a week after the incident.. If so, the riots would have erupted across the country.
-
-He said this while addressing the second day of debate on the event on Wednesday (24) in Parliament.
-
-The media must have management and media restrictions. Although legal proceedings are strict in the Faithful Backup Act, restrictions on the media are essential.
-
-To say some things in this place. Thieves have entered my eldest daughter's house. Have carried items from the kitchen such as rice and coconut. I placed a gift given to the head of the State in Qatar at the Polonnaruwa New School. But in the morning, when he reads the newspaper news in the media, he said that the gift awarded to a head of state was kept at his daughter's house.
-
-...
-
-[Data](articles/16896807.json)
-
-[Extended Data](ext_articles/16896807.ext.json)
-
----
-
-### Malcolm Ranjith Petition Petition
-
-*2024-01-25 01:54:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மல்கம்-ரஞ்சித்-ஆண்டகை-மனு-24-மனுக்கள்-தாக்கல்/175-332086) · `ta`
-
-Colombo Archbishop Malcolm Cardinal has filed a petition in the Supreme Court demanding that some of the anti -terrorism bill presented in Parliament be unconstitutional.
-
-The petitioner said the army, police and the Coast Guard had empowered the arrest of any person without the reasonable reason, without a reasonable reason.
-
-Meanwhile, Speaker Mahinda Yapa Abeywardena announced on Wednesday (24) that 18 more petitions have been filed in the Wireeta Court regarding the “anti -terrorism” Bill.
-
-◼️
-
-[Data](articles/ce7a0712.json)
-
-[Extended Data](ext_articles/ce7a0712.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 23:17:12**
+As of **2024-01-25 23:33:16**
 
 ## Newspaper Stats
 
-*Scraped **2,626** Articles*
+*Scraped **2,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 255
 virakesarilk | 286
 adaderanalk | 329
 tamilmirrorlk | 333
-dailymirrorlk | 353
+dailymirrorlk | 354
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,626 (100.0%) of 2,626 articles have been extended.
+2,626 (100.0%) of 2,627 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,22 @@ The deceased has been identified as a 38-year-old Army Special Forces Lt. and th
 [Data](articles/6fcd0566.json)
 
 [Extended Data](ext_articles/6fcd0566.ext.json)
+
+---
+
+### PUCSL tells CEB to submit proposal before Feb. 12
+
+*2024-01-25 22:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PUCSL-tells-CEB-to-submit-proposal-before-Feb-12/108-275718) · `en`
+
+Colombo, Jan 25 (Daily Mirror) - After considering the favourable hydroelectric storage and profits earned during the year ending December 2023, the Ceylon Electricity Board (CEB) was directed by the Public Utilities Commission of Sri Lanka (PUCSL) to submit a tariff proposal.
+
+Accordingly, the end user and bulk supply tariff proposals by the CEB for January to March 2024 were received by the PUCSL on January 16, 2024. Subsequently, though the Commission had requested certain clarifications from the CEB, the information is yet to be received.
+
+The Commission wishes to consult the stakeholders as required under Section 30(3) of the Sri Lanka Electricity Act (SLEA) on the proposed tariff structure and the associated costs. The process is to be launched as early as possible to ensure the timely implementation of the tariff revision.
+
+...
+
+[Data](articles/cb2a7d99.json)
 
 ---
 
@@ -2049,23 +2065,5 @@ Meanwhile, a jeep who had been on the right route 26 main road in the Pallekele 
 [Data](articles/8bad562f.json)
 
 [Extended Data](ext_articles/8bad562f.ext.json)
-
----
-
-### Constable Billy to Bus
-
-*2024-01-25 08:13:15* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රියට-කොස්තාපල්-බිලි/11-407721) · `si`
-
-A bus driver was killed in the motorcycle while a bus and a motorcycle was hit by a bus and a motorcycle in Tissamaharama - Kataragama road.
-
-Tissa - Kataragama Private bus collided with a double line in the road and collided with a motorcycle in the opposite direction.
-
-The deceased has been identified as Welimada resident of Kataragama police station. The driver of the 39 high bus has been arrested and the body has been placed in the Debarawewa hospitalized.
-
-◼️
-
-[Data](articles/0def1229.json)
-
-[Extended Data](ext_articles/0def1229.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 19:50:53**
+As of **2024-01-25 20:03:13**
 
 ## Newspaper Stats
 
-*Scraped **2,604** Articles*
+*Scraped **2,606** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 194
 adaderanasinhalalk | 220
 adalk | 252
 virakesarilk | 284
-adaderanalk | 324
+adaderanalk | 326
 tamilmirrorlk | 331
 dailymirrorlk | 348
 
@@ -26,11 +26,47 @@ dailymirrorlk | 348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,604 (100.0%) of 2,604 articles have been extended.
+2,606 (100.0%) of 2,606 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### President visits residence of late State Minister Sanath Nishantha
+
+*2024-01-25 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96727/president-visits-residence-of-late-state-minister-sanath-nishantha) · `en`
+
+President Ranil Wickremesinghe has visited the residence of the late State Minister Sanath Nishantha this afternoon (Jan.25) to offer his condolences to the bereaved family members.
+
+State Minister Sanath Nishantha lost his life in a tragic accident on the Colombo - Katunayake expressway early this morning.
+
+◼️
+
+[Data](articles/1bffd3ca.json)
+
+[Extended Data](ext_articles/1bffd3ca.ext.json)
+
+---
+
+### UNDP provides technical assistance for Sri Lanka’s health promotion
+
+*2024-01-25 19:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96726/undp-provides-technical-assistance-for-sri-lankas-health-promotion) · `en`
+
+The United Nations Development Programme (UNDP) has distributed 1,600 chicks to 80 beneficiaries in Kandamalawa Grama Niladhari Division in Gomarankadawala, as part of the UNDP’s Sri Lankan project with the technical and financial assistance of the Government of Japan.
+
+Meanwhile, foul pox vaccinations have been administered by cluster leaders in Anuradhapura recently under the programme.
+
+Additionally, a technical team has conducted a monitoring session of the mini incubators in Vavuniya, while a Black Soldier Fly unit and Azzolla farming has been conducted successfully in the Anuradhapura District with beneficiary commitment, the UNDP said.
+
+In the meantime, the UNDP pledged its technical assistance for the future progress of the health service in Sri Lanka, when the UNDP’s Resident Representative in Sri Lanka Azusa Kubota met with Minister of Health Ramesh Pathirana on Wednesday (24).
+
+...
+
+[Data](articles/ca30d9db.json)
+
+[Extended Data](ext_articles/ca30d9db.ext.json)
+
+---
 
 ### Sanath Nishantha to pay attention to Nishantha
 
@@ -2041,49 +2077,5 @@ In some places in the Galle, Sabaragamuwa, Western and Uva provinces, are expect
 [Data](articles/e03f10f3.json)
 
 [Extended Data](ext_articles/e03f10f3.ext.json)
-
----
-
-### Sanath Nishantha dies in fatal accident
-
-*2024-01-25 05:37:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/sanath-nishantha-dies-in-fatal-accident/) · `en`
-
-COLOMBO (News 1st); Sri Lankan State Minister Sanath Nishantha died early on Thursday (25) morning in a tragic car crash on the Katunayake Expressway.
-
-Sri Lanka Police said that a Police Constable attached to the security detail of the State Minister died as well, while the driver sustained serious injuries and was admitted to the hospital.
-
-According to an official statement from Sri Lanka Police the accident took place at 2 AM and the SUV in which the State Minister was travelling in crashed on to the rear end of a freight container truck heading to Colombo, resulting in the tragic accident.
-
-Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
-
-Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
-
-Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
-
-◼️
-
-[Data](articles/7baf4fae.json)
-
-[Extended Data](ext_articles/7baf4fae.ext.json)
-
----
-
-### Sanath Nishantha, Police constable killed in accident
-
-*2024-01-25 05:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sanath-Nishantha-Police-constable-killed-in-accident/155-275698) · `en`
-
-Katunayake, Jan 25 (Daily Mirror) - State Minister Sanath Nishantha and the police constable, who was his security officer, died in an accident on the Katunayake Expressway near Kandana early this morning.
-
-A jeep that was driving towards Colombo from Katunayake collided with a container vehicle that was driving in the same direction and then collided with the safety fence of the road.
-
-The state minister Sanath Nishantha, who was traveling in the jeep, the police constable 72542 Jayakodi, who was his security officer and the driver of the jeep were seriously injured and admitted to the Ragama hospital.
-
-The state minister and the police constable died on admission and the driver is being treated at Ragama Hospital, police said.
-
-◼️
-
-[Data](articles/51518c9f.json)
-
-[Extended Data](ext_articles/51518c9f.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 10:32:56**
+As of **2024-01-25 10:50:48**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 337
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,524 (99.8%) of 2,530 articles have been extended.
+2,530 (100.0%) of 2,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### சனத்தின் பதவிக்கு புதியவர் தேர்வு;ஆசனங்களில் மாற்றம்
+### New choice for the post of Sanath; change in seats
 
 *2024-01-25 10:05:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்தின்-பதவிக்கு-புதியவர்-தேர்வு-ஆசனங்களில்-மாற்றம்/175-332096) · `ta`
 
-இன்று காலை நிகழ்ந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் திடீர் மரணத்தினால் ஏற்பட்ட வெற்றிடத்திற்கு தேசிய சுதந்திர முன்னணி ஜகத் பிரியங்கர நியமிக்கப்படவுள்ளார்.
+The National Freedom Front will be appointed to the vacancy caused by the sudden death of Minister of State Sanath Nishantha this morning.
 
-இதன்படி, விமல் வீரவங்ச தலைமையிலான தேசிய சுதந்திர முன்னணியின் மாவட்டத் தலைவராக பிரியங்கர இருப்பதால், அவர் தனது கட்சியை பிரதிநிதித்துவப்படுத்தும் மற்ற பாராளுமன்ற உறுப்பினர்களுடன் எதிர்க்கட்சியில் அமர்ந்திருப்பதால், அரசாங்கம் ஒரு ஆசனத்தை இழக்கும்.
+Accordingly, Priyankara is the district leader of the National Freedom Front led by Wimal Weerawansa, and the government will lose a seat with other MPs representing his party.
 
 ◼️
 
 [Data](articles/1432d5b2.json)
+
+[Extended Data](ext_articles/1432d5b2.ext.json)
 
 ---
 
@@ -58,23 +60,27 @@ Being the first poya day of the year, there is an increase in the number of pilg
 
 [Data](articles/6a4ac7eb.json)
 
+[Extended Data](ext_articles/6a4ac7eb.ext.json)
+
 ---
 
-### மட்டக்களப்பில் சக்தி வாய்ந்த குண்டுகள் மீட்பு
+### Recovery of powerful shells in Batticaloa
 
 *2024-01-25 09:53:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பில்-சக்தி-வாய்ந்த-குண்டுகள்-மீட்பு/73-332095) · `ta`
 
-மட்டக்ககளப்பு - களுவாஞ்சிகுடி பொலிஸ் பிரிவுக்குட்பட்ட பட்டிருப்பு பாலத்தின் கீழிருந்து இரண்டு சக்தி வாய்ந்த மோட்டார் குண்டுகளை மீண்டுள்ளதாக களுவாஞ்சிகுடி பொலிஸார் தெரிவித்தனர்.
+Kaluwanchikudi police said that two powerful motor bombs have been recovered from the bottom of the Pattupuram Bridge belonging to the Mattagalappu - Kaluwanchikudi police division.
 
-நேற்றைய தினம் மட்டக்களப்பு வாவியின் பட்டிருப்பு பகுதியில் மீன்பிடித்தொழிலில் ஈடுபட்டிருந்த மீனவர் ஒருவரின் வலையில் இந்த இரு குண்டுகளும் அகப்பட்டுள்ளன.
+The two bombs were caught in the trap of a fisherman who had been fishing in the Pattupi area of Batticaloa yesterday.
 
-சம்பவ இடத்திற்கு விரைந்த பொலிஸார் இரண்டு குண்டுகளையும் மீண்டுள்ளனர்.  நீதிமன்ற உத்தரவைப் பெற்று குண்டு செயலிழக்கும் பிரிவினரைக் கொண்டு இக்குண்டுகள் செயலிழக்கச் செய்ய உள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Police rushed to the scene and recovered two bombs.Police said the bombs were to deactivate with the bomb -free section receiving a court order.
 
-கடந்த யுத்த காலத்தில் பட்டிருப்பு பாலத்தில் இருமருங்கிலும் இலங்கை இராணுவத்தினரின் பாதுகாப்பு காவலரண்கள் இருந்தமை குறிப்பிடத்தக்கதாகும். R
+During the war. Remble
 
 ◼️
 
 [Data](articles/a3958d96.json)
+
+[Extended Data](ext_articles/a3958d96.ext.json)
 
 ---
 
@@ -1780,23 +1786,27 @@ Ravishan Perera was divided into three wickets and two wickets among the winter 
 
 ---
 
-### දුවගේ ගෙදර රත්තරන් අශ්වයෝ හිටියේ නෑ
+### The daughter's house was not gold horses
 
 *2024-01-24 20:23:15* · [`adalk`](https://www.ada.lk/breaking_news/දුවගේ-ගෙදර-රත්තරන්-අශ්වයෝ-හිටියේ-නෑ/11-407718) · `si`
 
-ජනාධිපති සංචාරයක් අතරතුරදී ව්ලැඩ්මීර්   පුටින්  රුසියානු ජනාධිපතිවරයා   විසින් මැණික් ගල් ඔබ්බන ලද රත්‍රන් කඩුවක්  තමාට තෑගි දුන් බව හිටපු ජනාධිපති, පොළොන්නරුව දිස්ත්‍රික්   පාර්ලිමේන්තු මන්ත්‍රී මෛත්‍රිපාල සිරිසේන මහතා  පැවසීය.
+Former Polonnaruwa District MP Maithripala Sirisena said that a gold sword on a gem stone was given by the Russian President.
 
-මාර්ගගත ක්‍රමවල සුරක්ෂිතතාව පිළිබඳ පනත් කෙටුම්පත පිළිබඳ විවාදයට එක්වෙමින් පාර්ලිමේන්තුවේදී ඊයේ(24) ඔහු සඳහන් කර සිටියේ තමාගේ වැඩිමහල් දියණියගේ නිවසෙහි රත්‍රන්  අශ්වයන්  සිටියා යැයි  පැවසෙන කතාව මුසාවක් වන බවයි.
+He was speaking at the debate on the security system of the system of things that the speech of the old daughter was in gold horses.
 
-ඒ අනුව එහිදී වැඩිදුරටත් අදහස් දක්වමින් ඔහු ප්‍රකාශ කර සිටියේ
+Accordingly, he said
 
-"මගේ ලොකු දුවගේ ගෙදර හොරු කැඩුවා. ඒ ගෙදර තිබුණු  කිරි පැකට් වගේ කන බොන දේවල් ටිකක් ගෙනිහිල්ලා තිබුණා. රත්රන් අශ්වයෝ ඒ ගෙදර මොකුත් තිබුණේ  නැහැ. මම  කටාර් රාජ්‍යයට ගිය වෙලාවේ රාජ්‍ය නායකයෙකුට දින තෑග්ග හම්බවුණා. ඒක මම පොළොන්නරුවේ කෞතුකාගාරයේ තියලා තියෙනවා. මම ඒ කෞතුකාගාරය හැදුවේ කෝටි සීයක් වැය කරලා. කිසිම ජනාධිපතිවරයෙකු මේ රටේ කෞතුකාගාරයක් හදල නැහැ.
+"The thieves of my big daughter's house was broken. There was some things that drink like a packet of milk packet. The gold horses had nothing at home. When I visited Qatar, a head of state found the gift. I've placed it in the museum of Polonnaruwa. I've used a museum in the museum. No President has made a museum in this country.
 
-කොළඹ කෞතුකාගාරය හැදුවේ සුද්දෝ. නමුත් මම කෝටි සීයක් වැය කරලා තට්ටු හතරක විශාල ගොඩනැගිල්ලක් හැදුවා.
+Colombo Museum Museum. But I spent a billions of crores and built a large building.
+
+One who read a papers of a media institution in the daughter's house was very unugical. When a gift was given to the head of the head of the head of the daughter, he asked when it was right. During Qatar, the country's leader also had about ten lakh watches.
 
 ...
 
 [Data](articles/6c440d6e.json)
+
+[Extended Data](ext_articles/6c440d6e.ext.json)
 
 ---
 
@@ -1932,35 +1942,45 @@ Investigations carried out by the police have revealed that several Buddhist mon
 
 ---
 
-### அரச வளங்களை கொள்ளையடித்த அனைவரையும்  எமது அரசாங்கத்தில் சட்டத்தின் முன் நிறுத்துவோம் - சஜித் பிரேமதாச
+### Let us put all those who have plundered state resources before the law in our government - Sajith Premadasa
 
 *2024-01-24 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174740) · `ta`
 
-வற் வரியை அறவிடமால், அரச வளங்களை திருடிய திருடர்களை சட்டத்தின் முன் நிறுத்தி கொள்ளையிட்ட பணத்தை மீள பெற்றுக்கொள்ள வேண்டும்.ஐக்கிய மக்கள் சக்தி அரசாங்கத்தில் இந்த திருடர்கள் அனைவரும்  சட்டத்தின் முன் நிறுத்தப்பட்டு,அனைத்து வித தண்டனைகளும் வழங்கப்படும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+Opposition Leader Sajith Premadasa said that all the thieves in the United People's Power would be put before the law and all kinds of punishments would be given.
 
-பாராளுமன்றத்தில் புதன்கிழமை (24) நிலையியற் கட்டளை 27இன் 2கீழ் கேள்வி நேரத்தில் உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+He said this while addressing the question of the Standing Ordinance of Parliament on Wednesday (24).
+
+The recent ruling of the High Court of the Supreme Court has revealed who the country was economically shaking and the people of the country were the most popular future.. There are many more people who are responsible for Lakshman and Samantha Kumarasinghe.
+
+Although investigations against gas, sugar, nano nitrogen, coal and fertilizer are delayed, their assets are being auctioned for micro, small and medium traders.
+
+There are many issues relating to special audit investigations on the many irregularities that occurred in 2019-2022. What is the legal action taken by the government against the Srine Tax Fraud?
 
 ...
 
 [Data](articles/b08bae44.json)
 
+[Extended Data](ext_articles/b08bae44.ext.json)
+
 ---
 
-### வடக்கில் மீன்பிடித்துறைசார் முதலீட்டு வலயம் தொடர்பில் சீனாவுடன் பேச்சுவார்த்தை - இராஜாங்க அமைச்சர் பியல் நிஷாந்த தகவல்
+### Talks with China on Fisheries Investment Zone in the North
 
 *2024-01-24 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174738) · `ta`
 
-வடக்கை அடிப்படையாகக் கொண்டு மீன்பிடித்துறை சார் முதலீட்டு வலயத்தை ஆரம்பிப்பது தொடர்பில் வியாழக்கிழமை (25) கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தலைமையில் சீன நிறுவனமொன்றுடன் விசேட பேச்சுவார்த்தை இடம்பெறவுள்ளதாக கடற்றொழில் இராஜாங்க அமைச்சர் பியல் நிஷாந்த தெரிவித்தார்.
+Fisheries Minister Piyal Nishantha said that a special talks will be held with a Chinese company headed by Fisheries Minister Douglas Devananda on Thursday (25) regarding the launching of the Fisheries Investment Zone on the North.
 
-அத்தோடு உள்நாட்டு டின்மீன் உற்பத்தியாளர்களின் மேம்பாட்டைக் கருத்திற் கொண்டு டின் மீன் இறக்குமதிக்கு தடை விதிப்பதற்கும் அண்மையில் தீர்மானிக்கப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் பியல் நிஷாந்த தெரிவித்தார்.
+Minister of State for Domestic Tinmene Piyal Nishantha said that it has also been decided to ban the importation of tin fish in view of the development of domestic dinner manufacturers.
 
-ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (24) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated at the media conference held at the Presidential Media Center on Wednesday (24).
 
-மீனவர் நலன்புரி சேவை திட்டத்தை நாளை வெள்ளிக்கிழமை வெல்லமங்கரை மீன்பிடி துறைமுகத்தில் ஆரம்பிக்கவுள்ளோம். ஆழ்கடலில் மீனவர்கள் சுகவீனமடையும் போது, அவர்களுக்கான அவசர சுகாதார சேவைகளை வழங்குவது குறித்து இதன் போது அதிக அவதானம் செலுத்தப்படும். கடற்றொழில் அமைச்சு, சுகாதார அமைச்சுடன் இணைந்து இந்த வேலைத்திட்டம் ஆரம்பிக்கப்படவுள்ளது.
+We will launch the Fisheries Welfare Service Project tomorrow at Wellamangara Fisheries Harbor on Friday. When fishermen are ill in the deep sea, they will be given more attention to the provision of emergency health services to them.. The program will be launched in collaboration with the Ministry of Fisheries and the Ministry of Health.
 
 ...
 
 [Data](articles/b67d7355.json)
+
+[Extended Data](ext_articles/b67d7355.ext.json)
 
 ---
 

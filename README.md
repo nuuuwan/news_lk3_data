@@ -1,36 +1,186 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 07:45:11**
+As of **2024-01-25 08:11:08**
 
 ## Newspaper Stats
 
-*Scraped **2,476** Articles*
+*Scraped **2,499** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 35
 bbccomsinhala | 47
 dbsjeyarajcom | 123
-islandlk | 133
 newsfirstlk | 136
+islandlk | 144
 economynextcom | 151
-adaderanasinhalalk | 189
 dailyftlk | 194
+adaderanasinhalalk | 196
 adalk | 242
 virakesarilk | 276
 adaderanalk | 310
 tamilmirrorlk | 313
-dailymirrorlk | 327
+dailymirrorlk | 332
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,476 (100.0%) of 2,476 articles have been extended.
+2,491 (99.7%) of 2,499 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### All Medical Associations Join
+
+*2024-01-25 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192540) · `si`
+
+All Medical Associations have decided to launch a new program for the future of the medical service.
+
+The program is to be implemented with the participation of the doctors of the Government Medical Officers, Specialist Office Association and the Sri Lanka Medical Institute.
+
+A special discussion was held yesterday (24), the Government Medical Officers' Association Media Spokesperson Dr. Chamil Wijesinghe said.
+
+"We should talk to the country's burden to the country and a mechanism that can provide quality service to the people of this country and a quality service to the people of this country. How can people spend more services relatively we spend on medications?. It was discussed yesterday how we can give it justice to this money and how this service could be less expensive. Along with an agreement to take free health services in this country to a new chapter under a public committee. "
+
+◼️
+
+[Data](articles/92d84da7.json)
+
+[Extended Data](ext_articles/92d84da7.ext.json)
+
+---
+
+### Economic consequences of Online Safety Bill should be considered: Harsha
+
+*2024-01-25 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Economic-consequences-of-Online-Safety-Bill-should-be-considered-Harsha/108-275700) · `en`
+
+Economic consequences of the Online Safety Bill should be considered by the government though there is a need for regulating social media, SJB MP Harsha de Silva said yesterday.
+
+“One should take a note on the consequence the Bill will have on e-commerce. Our youth should be made to participate in the economy through e-commerce. Legislations such as these will prevent these opportunities,” he said.
+
+“You cannot consider service providers such as Facebook and You Tube as perpetrators just because another person uploads an unwanted post on social media,” he added.
+
+◼️
+
+[Data](articles/b2c57876.json)
+
+[Extended Data](ext_articles/b2c57876.ext.json)
+
+---
+
+### Pisphere seals the cafeteria of the train
+
+*2024-01-25 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192539) · `si`
+
+The cafeteria of the train has been temporarily sealed on a court order on trade unimputers.
+
+It is reported that the cafeteria of the train is sealed by a group of Batticaloa Public Health Inspectors.
+
+The cafeteria of the train was tested on the 22nd.
+
+The court has ordered the court that the cafeteria has been ordered to be temporarily closed in the sale of food inadequate food.
+
+Accordingly, the Batticaloa Magistrate has ordered to submit a report to the court regarding the cafeteria on the 08th.
+
+Last year, the monk was fined for selling food inadequate food at the rest of the train.
+
+◼️
+
+[Data](articles/39851728.json)
+
+[Extended Data](ext_articles/39851728.ext.json)
+
+---
+
+### Latest Hope for Public Servant Salary
+
+*2024-01-25 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192538) · `si`
+
+The government and provincial government service collection states that the procedure that is not sufficient for public servants is not sufficient.
+
+The Coordinator Chandana Sooriyarachchi said that the requests will be paid to the allowance of Rs.
+
+"The government is Rs. 5,000 Allowance for Public Servants. We also say that the balance Rs.. He fought the working people for the minimum Rs.. State and provincial trade unions meet in Colombo on the 29th. In terms of this cost of living, it will take measures to take a fair wage increase or allowance. "
+
+Meanwhile, the Hotel Employee Center states that his hotel industry has been difficult to run over the economic situation.
+
+The National Organizer Jayathilaka Ranasinghe said that the government's attention has not been addressed for the problems faced by its surveillance.
+
+◼️
+
+[Data](articles/657610b0.json)
+
+[Extended Data](ext_articles/657610b0.ext.json)
+
+---
+
+### An elephant deaths this year
+
+*2024-01-25 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192537) · `si`
+
+The Department of Wildlife Conservation says that a program has been launched to inspect a standard electricity electricival electricivation island wide.
+
+The Department of Wildlife Conservation has commenced on the instructions of the Director General of Wildlife.
+
+The program has been launched with the reporting of the deaths of the elephants in the past due to quality electric fence.
+
+It is reported that it is reported that the removal of the electric fence and producing the quality of the electric fence.
+
+Meanwhile, the Department of Wildlife Conservation says that about 12 deaths in the past few days.
+
+About 470 people of the wild elephants were killed last year, and fifty elephants were killed in electricity.
+
+◼️
+
+[Data](articles/70041d75.json)
+
+[Extended Data](ext_articles/70041d75.ext.json)
+
+---
+
+### Duritu full mortality poo day today
+
+*2024-01-25 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192536) · `si`
+
+Today, the first motion of the year, the first poorer of the year, is today (25).
+
+Buddhist history states that the first day of the Supreme Buddha was in the forecast of the Buddha today.
+
+According to Sumana Samithi, Sumana Samitha has been working to Lakdiva and the Buddha to worship the Buddhist Buddhist people.
+
+The history of Bimbisara has predicted the Honorable Magistrate in the Buddha.
+
+Army and policy sacrifices have been organized in temples and policy sacrifices in temples throughout the island to mark the nationality.
+
+Meanwhile, the Wanduramba Uruka Ancient Viharaya in Galle will be held from the Wanduramba Uruka Ancient Viharaya in Galle today.
+
+◼️
+
+[Data](articles/cc19a0d6.json)
+
+[Extended Data](ext_articles/cc19a0d6.ext.json)
+
+---
+
+### Have the governing MPs really understood the Online Safety Bill?
+
+*2024-01-25 06:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Have-the-governing-MPs-really-understood-the-Online-Safety-Bill/108-275699) · `en`
+
+An amended Online Safety Bill was passed in Parliament on Wednesday, despite calls from the opposition to delay the debating of the Bill and international organisations urging extensive revisions to be made. The final reading of the Bill however was approved without a vote.
+
+For months, the controversial Bill has been criticised by not only opposition politicians but also journalists, activists, business leaders and civil society groups as an attempt by the government to stifle free speech.
+
+The Bill, which draws heavily from similar legislation in countries such as Singapore and the United Kingdom, has also been viewed as a threat to foreign direct investment in the country.
+
+...
+
+[Data](articles/26b02b95.json)
+
+[Extended Data](ext_articles/26b02b95.ext.json)
+
+---
 
 ### Inmates escape after another clash breaks out at Kandakadu rehab centre
 
@@ -47,6 +197,40 @@ The police have taken measures to bring the situation under control.
 [Data](articles/0a6e4171.json)
 
 [Extended Data](ext_articles/0a6e4171.ext.json)
+
+---
+
+### Kandakadu will be rebuke again
+
+*2024-01-25 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192535) · `si`
+
+It is reported that a group of inmates had fled.
+
+Among the two to 40 inmates were fled during the confrontation.
+
+◼️
+
+[Data](articles/b402c58d.json)
+
+[Extended Data](ext_articles/b402c58d.ext.json)
+
+---
+
+### Heavyweight weather
+
+*2024-01-25 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192534) · `si`
+
+The Department of Meteorology announces that a key weather in the island is mainly there.
+
+In some places in the Nuwara Eliya district, there is a possibility of a flower.
+
+In some places in the Galle, Sabaragamuwa, Western and Uva provinces, are expected to be methaved in the Galle and Matara districts.
+
+◼️
+
+[Data](articles/e03f10f3.json)
+
+[Extended Data](ext_articles/e03f10f3.ext.json)
 
 ---
 
@@ -67,6 +251,26 @@ Russian plane crashes with 65 Ukrainian prisoners of war on board
 [Data](articles/7baf4fae.json)
 
 [Extended Data](ext_articles/7baf4fae.ext.json)
+
+---
+
+### Sanath Nishantha, Police constable killed in accident
+
+*2024-01-25 05:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sanath-Nishantha-Police-constable-killed-in-accident/155-275698) · `en`
+
+Katunayake, Jan 25 (Daily Mirror) - State Minister Sanath Nishantha and the police constable, who was his security officer, died in an accident on the Katunayake Expressway near Kandana early this morning.
+
+A jeep that was driving towards Colombo from Katunayake collided with a container vehicle that was driving in the same direction and then collided with the safety fence of the road.
+
+The state minister Sanath Nishantha, who was traveling in the jeep, the police constable 72542 Jayakodi, who was his security officer and the driver of the jeep were seriously injured and admitted to the Ragama hospital.
+
+The state minister and the police constable died on admission and the driver is being treated at Ragama Hospital, police said.
+
+◼️
+
+[Data](articles/51518c9f.json)
+
+[Extended Data](ext_articles/51518c9f.ext.json)
 
 ---
 
@@ -375,6 +579,20 @@ During the meeting, the High Commissioner and Speaker Lord McFall discussed a wi
 [Data](articles/65bcb997.json)
 
 [Extended Data](ext_articles/65bcb997.ext.json)
+
+---
+
+### Annual Duruthu Perahara...
+
+*2024-01-25 00:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Annual-Duruthu-Perahara/110-275694) · `en`
+
+Traditional dancers were seen performing during the Duruthu Perahera festival in Kelaniya, which was held last night. The event named ’’Duruthu Perahara’’ is celebrated annually in January with the participation of elephants, dancers, drummers, and musicians. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/f6cf9415.json)
+
+[Extended Data](ext_articles/f6cf9415.ext.json)
 
 ---
 
@@ -918,6 +1136,52 @@ The police constable was seriously injured and died on admission to the Debarawe
 
 ---
 
+### Loops Integrated’s teams dominate the Young Spikes Competition in the Digital Category
+
+*2024-01-24 20:49:00* · [`islandlk`](http://island.lk/loops-integrateds-teams-dominate-the-young-spikes-competition-in-the-digital-category/) · `en`
+
+In a remarkable achievement, Amaya Suriyapperuma & Arqam Anjath from Loops Integrated emerged as the winners in the Young Spikes Digital category, while Oken Silva & Sachintha Naotunna secured the prestigious 2nd runners-up position. The competition featured 22 teams from distinguished advertising agencies in Sri Lanka, showcasing the industry’s top digital talents.
+
+A panel of 6 judges presided over the event, with the winning decision reaching a unanimous consensus. The local competition, facilitated by the 4A’s (Accredited Advertising Agencies Association), provided a platform for the teams to exhibit their creativity and digital prowess.
+
+...
+
+[Data](articles/129ab3c1.json)
+
+[Extended Data](ext_articles/129ab3c1.ext.json)
+
+---
+
+### Falmouth University, UK’s No. 1 Arts University, strengthens global partnerships through inspiring visit to AMDT School of Creativity
+
+*2024-01-24 20:48:00* · [`islandlk`](http://island.lk/falmouth-university-uks-no-1-arts-university-strengthens-global-partnerships-through-inspiring-visit-to-amdt-school-of-creativity/) · `en`
+
+The AMDT School of Creativity recently had the privilege of hosting key officials from Falmouth University, with which it is affiliated, offering globally recognized Falmouth University BA (Hons) Degrees in Sri Lanka. Falmouth University holds a world class reputation as the No. 1 Arts University in the UK according to The Times and The Sunday Times Good University Guide 2023, and is also ranked among the top 50 universities globally for Creative Media and Entertainment by The Rookies, whilst also being recognized as one of the Best 20 Universities in the World for Concept Art & Illustration Schools in 2023.
+
+...
+
+[Data](articles/e8a3301f.json)
+
+[Extended Data](ext_articles/e8a3301f.ext.json)
+
+---
+
+### Teejay Lanka & Hemas collaborate to promote menstrual hygiene in rural schools
+
+*2024-01-24 20:42:00* · [`islandlk`](http://island.lk/teejay-lanka-hemas-collaborate-to-promote-menstrual-hygiene-in-rural-schools/) · `en`
+
+Top fabric manufacturer Teejay Lanka PLC and leading business conglomerate Hemas Holdings have joined forces to launch a groundbreaking initiative to promote menstrual hygiene awareness and provide essential resources to underserved communities in rural Sri Lanka.
+
+A Memorandum of Understanding (MoU) signed by the two corporate giants outlines a collaboration that will see Hemas Holdings supplying sanitary napkins to female students above 12 years in a minimum of six schools identified by Teejay for one year. The programme will be facilitated by the FEMS H.E.R. Foundation with Teejay. An abbreviation of its principal pillars of Help, Empower and Rise, the H.E.R. Foundation was set up by FEMS to create an even bigger impact and attract more like-minded organisations and people to join its initiative to end period poverty and promote awareness in Sri Lanka.
+
+...
+
+[Data](articles/1e8bb743.json)
+
+[Extended Data](ext_articles/1e8bb743.ext.json)
+
+---
+
 ### Facebook note on Chamara Weerasinghe about their current situation
 
 *2024-01-24 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192527) · `si`
@@ -937,6 +1201,22 @@ Since my health is now admitted to the Colombo South Teaching Hospital, the monk
 [Data](articles/433fbaaf.json)
 
 [Extended Data](ext_articles/433fbaaf.ext.json)
+
+---
+
+### Declining trend continues in bourse; investor sentiment low
+
+*2024-01-24 20:39:00* · [`islandlk`](http://island.lk/declining-trend-continues-in-bourse-investor-sentiment-low/) · `en`
+
+The stock market continued on a downward path yesterday as investor sentiment showed no rebound. CSE indices indicated mixed reactions. The All Share Price Index went down by 4.7 points while S and P SL20 rose by 2 percent.
+
+Turnover stood at Rs 589 million with two crossings. Those crossings were reported in Renuka City Hotel, which crossed 184,000 shares to the tune of Rs 61.7 million; its shares traded at Rs 335 and LB Finance 500,000 shares crossed for Rs 30.5 million; its shares traded at Rs 61.
+
+...
+
+[Data](articles/7d1b1411.json)
+
+[Extended Data](ext_articles/7d1b1411.ext.json)
 
 ---
 
@@ -1693,305 +1973,5 @@ Minister Prasanna Ranatunga added that if there is a delay in providing solution
 [Data](articles/53f82a9d.json)
 
 [Extended Data](ext_articles/53f82a9d.ext.json)
-
----
-
-### Sri Lanka rupee closes stronger at 318.10/40 to the US dollar
-
-*2024-01-24 17:13:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-stronger-at-318-10-40-to-the-us-dollar-148640/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 318.10/40 to the US dollar on Wednesday, from 319.80/95 the previous day, dealers said.
-
-A bond maturing on 01.02.2026 closed at 13.05/15 percent from 13.30/40 percent.
-
-A bond maturing on 15.09.2027 closed at 13.35/50 percent from 13.60/75 percent.
-
-A bond maturing on 15.03.2028 closed at 13.60/75 percent from 13.85/95 percent.
-
-A bond maturing on 15.07.2029 closed at 13.85/95 percent from 13.95/14.10 percent.
-
-A bond maturing on 15.05.2030 closed at 13.90/14.00 percent from 13.95/14.05 percent.
-
-A bond maturing on 01.07.2032 closed at 14.00/15 percent from 14.05/20 percent. (Colombo/Jan24/2024)
-
-◼️
-
-[Data](articles/227d1d7f.json)
-
-[Extended Data](ext_articles/227d1d7f.ext.json)
-
----
-
-### Danu Innasithamby wins Pride of The Nation Award
-
-*2024-01-24 17:12:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/danu-innasithamby-wins-pride-of-the-nation-award/) · `en`
-
-COLOMBO (News 1st); Danu Innasithamby was awarded the Prize of The Nation award under the category of Young Journalist who works in all three languages of Sinhala, English and Tamil in Sri Lanka. The Pride of The Nation award, is a unique tribute award that a person can get only once in his lifetime. The awards signifies the nation paying its tributes to an individual who has rendered valuable service in their field throughout their lifetime.
-
-Russian plane crashes with 65 Ukrainian prisoners of war on board
-
-◼️
-
-[Data](articles/ca7de7c8.json)
-
-[Extended Data](ext_articles/ca7de7c8.ext.json)
-
----
-
-### Sri Lanka stocks close down, JKH trades push turnover
-
-*2024-01-24 17:05:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-jkh-trades-push-turnover-148632/) · `en`
-
-ECONOMYNEXT – There were mixed sentiments on the Colombo Stock Exchange Wednesday, as the ASPI closed down, but the more liquid S&P SL20 closed up, data on its site showed.
-
-The All Share Price Index was down 0.05 percent, or 4.70 points, at 10,274.
-
-The S&P SL20 index was up 0.07 percent, or 2.09 points, at 2,903.
-
-Turnover was low at 583 million. Trading in John Keells Holdings Plc, contributed the most (106mn) to the day’s turnover, and the share closed down at 178.75.
-
-Market participants pointed out that there was an upswing in the morning with the decline in interest rates and bank stocks attracted investors.
-
-Several large banks saw positive interest after weeks of continued selling pressure in the sector in general. Among the key contributors to the ASPI in the day were DFCC Bank Plc (up at 73.90), Sampath Bank Plc (up at 67.00) and Commercial Bank of Ceylon Plc (up at 87.80).
-
-...
-
-[Data](articles/a898e139.json)
-
-[Extended Data](ext_articles/a898e139.ext.json)
-
----
-
-### Court orders not to move “Ganemulla Sanjeewa” from detention
-
-*2024-01-24 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96702/court-orders-not-to-move-ganemulla-sanjeewa-from-detention) · `en`
-
-The Appeals Court today (Jan.24) delivered an order stating that the notorious underworld figure “Ganemulla Sanjeewa” should not be moved from Weeragula police premises until February 27, where he remains in custody under detention orders.
-
-This order was delivered after taking into account a writ petition filed by the mother of the accused.
-
-Thereby, further hearing of the petition was fixed for February 27.
-
-“Ganemulla Sanjeewa” was arrested at the Bandaranaike International Airport (BIA) in Katunayake upon his return from Nepal on September 13, 2023.
-
-He had a forged passport in his possession at the time of the arrest, with personal details of a female believed to be a resident of the Dematagoda area.
-
-“Ganemulla Sanjeewa”, who is believed to have illegally entered India by boat, had reportedly later fled from to Nepal, and subsequently returned to Sri Lanka upon the issuance of an international ‘Red Warrant’ for his arrest.
-
-◼️
-
-[Data](articles/877d9195.json)
-
-[Extended Data](ext_articles/877d9195.ext.json)
-
----
-
-### UNDP signs MoU to promote Sri Lanka’s innovation and ‘responsible business practices’
-
-*2024-01-24 16:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96701/undp-signs-mou-to-promote-sri-lankas-innovation-and-responsible-business-practices) · `en`
-
-The United Nations Development Programme in Sri Lanka (UNDP) and the UN Global Compact Network Sri Lanka (Network Sri Lanka) has recently renewed their commitment through the signing of the third Memorandum of Understanding (MoU), in a move towards advancing sustainable development.
-
-The agreement aims to join efforts in facilitating private-sector participation and promoting sustainable development in Sri Lanka, the UNDP said in a statement.
-
-As the first non-private sector entity to secure a position on the Network Sri Lanka  Board, UNDP has nurtured a robust partnership through years of collaboration with  Network Sri Lanka. This aligns with UNDP’s commitment to enhancing development activities to foster public dialogue, improve awareness among the business community on the Sustainable Development Goals (SDGs) and enable their engagement to accelerate progress on the 2030 Agenda for Sustainable Development, it added.
-
-...
-
-[Data](articles/b20a3d53.json)
-
-[Extended Data](ext_articles/b20a3d53.ext.json)
-
----
-
-### Court order issued barring planned protest march on High-Level road
-
-*2024-01-24 16:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96700/court-order-issued-barring-planned-protest-march-on-high-level-road) · `en`
-
-A court has been issued barring a protest march on the High-Level Road from Delkanda Junction to Nugegoda and Kirulapone to Nunegoda planned to be staged by a group of trade unionists this evening (Jan.24).
-
-Earlier today, the police had sought an order from the Nugegoda Magistrate’s Court, stating that there are 4 G.C.E. Advanced Level examination centres in the area where the demonstration is planned to be staged.
-
-...
-
-[Data](articles/e429ef86.json)
-
-[Extended Data](ext_articles/e429ef86.ext.json)
-
----
-
-### Self-proclaimed Avalokiteshvara Bodhisattva requires further mental treatment: Psychiatrist tells court
-
-*2024-01-24 16:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Self-proclaimed-Avalokiteshvara-Bodhisattva-requires-further-mental-treatment-Psychiatrist-tells-court/108-275660) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - The psychiatrist who examined the mental health condition of the self-proclaimed Avalokiteshvara Bodhisattva, Mahinda Kodithuwakku has recommended further treatment for him at the National Institute of Mental Health in Angoda.
-
-Accordingly, Colombo Fort Magistrate Thilina Gamage ordered to remand the suspect till February 7.
-
-The suspect Mahinda Kodithuwakku was arrested by the CID for allegedly insulting Buddhism and hurting religious feelings.
-
-Senior Deputy Solicitor General Dileepa Pieris, appearing for the Attorney General, moved court that the suspect be further remanded since he requires further medical treatment for his unstable mental condition.
-
-President's Counsel Kalinga Indatissa appearing for the suspect informed court that there is no ground to refuse bail in terms of Section 14 of the Bail Act and moved court that his client be released on bail on whatever conditions the court deems fit.
-
-...
-
-[Data](articles/26f73087.json)
-
-[Extended Data](ext_articles/26f73087.ext.json)
-
----
-
-### Speaker's Certificate for Four Draft
-
-*2024-01-24 16:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192521) · `si`
-
-Speaker Mahinda Yapa Abeywardena announced that the certificate was passed to four Bills passed by Parliament.
-
-The Speaker was recorded yesterday (23) to publish that the Speaker had recorded his certificate today.
-
-The Speaker has recorded its certificate to the Atonement Amendment (Amendment), Fraud (Amendment) and the National Unity and Reconciliation Offices.
-
-Accordingly, the UPFA (Amendment) Act No. 1 of the National Unity and Reconciliation (Amendment) Act, No. 03, 2024, No. 03 of 2024, Powers (Amendment) Act, No. 03, 2024, No. 03, No. 03Effective from yesterday as bill.
-
-◼️
-
-[Data](articles/074d37b1.json)
-
-[Extended Data](ext_articles/074d37b1.ext.json)
-
----
-
-### Rohitha says the necklaces
-
-*2024-01-24 16:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192520) · `si`
-
-MP Rohitha Abeygunawardena says he is ready to leave Parliament at any time, if he could have shown a single police complaint.
-
-He said that Mr. Premalal Jayasekera has been asked 'gold' from a child, 'Gold' has been told, 'Gold' has been addressed to the 'Ranht'.
-
-The MP emphasized that he addresses the partners he is addressed by such a basis.
-
-The MP Rohitha Abeygunawardena has said that if there is a police complaint about a necklace.
-
-◼️
-
-[Data](articles/008dcb57.json)
-
-[Extended Data](ext_articles/008dcb57.ext.json)
-
----
-
-### Asia Internet Coalition refutes Sri Lanka Minister’s Online Safety Bill claims
-
-*2024-01-24 16:40:00* · [`economynextcom`](https://economynext.com/asia-internet-coalition-refutes-sri-lanka-ministers-online-safety-bill-claims-148609/) · `en`
-
-ECONOMYNEXT – The Asia Internet Coalition (AIC) refuted claims made by Minister of Public Security Tiran Alles that they expressed agreement with the Online Safety Bill, when tabling it in Parliament.
-
-“The Asia Internet Coalition would like to address and refute certain assertions made in the statement read by the Minister of Public Security in Parliament concerning the Online Safety Bill,” the statement that was co-signed by Google, Meta, X, LinkedIn and Bookings.com said.
-
-“The Minister’s statement does not accurately reflect the substantial contributions that the AIC has made throughout the legislative process, which include comprehensive submissions as well as engagements such as hosting representatives from the Ministry of Public Security at the annual Online Safety Forum organised by the AIC in Singapore.”
-
-...
-
-[Data](articles/c3667ce7.json)
-
-[Extended Data](ext_articles/c3667ce7.ext.json)
-
----
-
-### Resolution to increase the price of egg by 3 rupees
-
-*2024-01-24 16:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/174718) · `ta`
-
-The All Ceylon Egg Manufacturers Association has decided to increase the price of a local egg by 3 rupees.
-
-Association President Sarath Ratnayake said the cost of local egg production has increased by 8 rupees due to increased tax increases.
-
-Sarath Ratnayake notes that the price of an Indian egg imported due to an increase of taxation has increased by 8 rupees and the price of a local egg has been increased by only 3 rupees.
-
-Accordingly, the total price of a local egg, which is sold for 45 rupees from poultry farm, will be increased to 48 rupees, he said.
-
-◼️
-
-[Data](articles/dce126ae.json)
-
-[Extended Data](ext_articles/dce126ae.ext.json)
-
----
-
-### Russian plane crashed with 65 people Ukraine warriors - International media
-
-*2024-01-24 16:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/174714) · `ta`
-
-Pictures that show the plane crash near the village of Yablono have been released on social media.
-
-◼️
-
-[Data](articles/0126e050.json)
-
-[Extended Data](ext_articles/0126e050.ext.json)
-
----
-
-### Sri Lankan Catholic Church To Declare Easter Sunday Attack Victims As Saints: A Comment
-
-*2024-01-24 16:25:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/sri-lankan-catholic-church-to-declare-easter-sunday-attack-victims-as-saints-a-comment/) · `en`
-
-The Archbishop of Colombo Cardinal Malcolm Ranjith has reportedly announced that those who died in the Easter Sunday attacks against the Catholic churches will be declared as saints.
-
-Daily Mirror Online, January 21, reports, “Speaking during a service at St. Sebastian’s Church, Kandana, Cardinal Ranjith said the first step towards this move will be taken on April 21 this year when the country commerates [sic] the fifth anniversary of the Easter Sunday bomb attacks.” It quotes the Cardinal as saying, “Those who died in churches on April 21, 2019 sacrificed their lives for what they believed. They came to church on that day because they believed in Christ. They sacrificed their lives because they loved Christ like other saints.”
-
-...
-
-[Data](articles/d60ed575.json)
-
-[Extended Data](ext_articles/d60ed575.ext.json)
-
----
-
-### Turkey’s parliament approves Sweden’s NATO membership, lifting a key hurdle
-
-*2024-01-24 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96699/turkeys-parliament-approves-swedens-nato-membership-lifting-a-key-hurdle) · `en`
-
-Turkish legislators on Tuesday endorsed Sweden’s membership in NATO, lifting a major hurdle on the previously nonaligned country’s entry into the military alliance.
-
-Lawmakers ratified Sweden’s accession protocol 287 to 55, with ruling party members saying the Nordic country’s tougher stance on Kurdish militants was key to winning approval. President Recep Tayyip Erdogan also previously has linked the ratification to Turkey’s desire to buy fighter jets from the U.S.
-
-The ratification comes into effect after its publication in the Official Gazette, which was expected to be swift.
-
-Hungary then becomes the only NATO ally not to have ratified Sweden’s accession.
-
-“Today we are one step closer to becoming a full member of NATO,” Swedish Prime Minister Ulf Kristersson wrote on X, the platform formerly known as Twitter. In Washington, U.S. National Security Advisor Jake Sullivan welcomed the news, saying having Sweden in the alliance will make it “safer and stronger.”
-
-...
-
-[Data](articles/5534d1a9.json)
-
-[Extended Data](ext_articles/5534d1a9.ext.json)
-
----
-
-### Qualified as a military commander
-
-*2024-01-24 16:19:05* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராணுவ-தளபதி-பரசூட்டு-வீரராக-தகுதி/175-332061) · `ta`
-
-Army Commander Lieutenant General Viqi Liyanage qualified as a military parachute player in the Army Parasuit by his expertise and knowledge.
-
-The commander's journey to become a military parachute was held at the Kudaoya Commando Brigade Training School.
-
-The Army Commander, with the Maldivian National Security Forces, and 14 other participants from the Sri Lankan army, went on a helicopter on a helicopter on the Uhna Air Force runway on January 22, 2024.
-
-Commander Uhnah jumped on the drop zone of the Air Force base and officially joined the family of respected airmen.
-
-It is noteworthy that this record is a significant trade in the history of Sri Lankan military, Lieutenant General.
-
-At the same time, the highlight of the position as the Army Commander. Moreover, Army Commander Lieutenant General Lieutenant Lienake (ARWB RSP ENTU) has become a Senior Senior Senior Soldier who has successfully qualified as a military Parasood soldier.
-
-...
-
-[Data](articles/c056e165.json)
-
-[Extended Data](ext_articles/c056e165.ext.json)
 
 ---

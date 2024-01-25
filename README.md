@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 10:17:17**
+As of **2024-01-25 10:32:56**
 
 ## Newspaper Stats
 
-*Scraped **2,524** Articles*
+*Scraped **2,530** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,91 @@ islandlk | 146
 economynextcom | 151
 dailyftlk | 194
 adaderanasinhalalk | 202
-adalk | 244
-virakesarilk | 278
+adalk | 245
+virakesarilk | 280
 adaderanalk | 313
-tamilmirrorlk | 316
-dailymirrorlk | 336
+tamilmirrorlk | 318
+dailymirrorlk | 337
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,523 (100.0%) of 2,524 articles have been extended.
+2,524 (99.8%) of 2,530 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### තවත් ඝාතන තැතක් අනූනවයෙන් ගිලිහෙයි
+### சனத்தின் பதவிக்கு புதியவர் தேர்வு;ஆசனங்களில் மாற்றம்
+
+*2024-01-25 10:05:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்தின்-பதவிக்கு-புதியவர்-தேர்வு-ஆசனங்களில்-மாற்றம்/175-332096) · `ta`
+
+இன்று காலை நிகழ்ந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் திடீர் மரணத்தினால் ஏற்பட்ட வெற்றிடத்திற்கு தேசிய சுதந்திர முன்னணி ஜகத் பிரியங்கர நியமிக்கப்படவுள்ளார்.
+
+இதன்படி, விமல் வீரவங்ச தலைமையிலான தேசிய சுதந்திர முன்னணியின் மாவட்டத் தலைவராக பிரியங்கர இருப்பதால், அவர் தனது கட்சியை பிரதிநிதித்துவப்படுத்தும் மற்ற பாராளுமன்ற உறுப்பினர்களுடன் எதிர்க்கட்சியில் அமர்ந்திருப்பதால், அரசாங்கம் ஒரு ஆசனத்தை இழக்கும்.
+
+◼️
+
+[Data](articles/1432d5b2.json)
+
+---
+
+### Special security programme today to ensure safety of Sri Pada pilgrims
+
+*2024-01-25 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-security-programme-today-to-ensure-safety-of-Sri-Pada-pilgrims/108-275703) · `en`
+
+Nallathanniya, Jan 25 (Daily Mirror) - Nallathanniya police announced the implementation of a special security programme on Poya Day today to ensure the safety of Sri Pada pilgrims, the police said.
+
+Being the first poya day of the year, there is an increase in the number of pilgrims to Sri Pada. The majority of them arrive by trains and public transport to Sri Pada and there has been a significant decrease in the use of private vehicles.
+
+◼️
+
+[Data](articles/6a4ac7eb.json)
+
+---
+
+### மட்டக்களப்பில் சக்தி வாய்ந்த குண்டுகள் மீட்பு
+
+*2024-01-25 09:53:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பில்-சக்தி-வாய்ந்த-குண்டுகள்-மீட்பு/73-332095) · `ta`
+
+மட்டக்ககளப்பு - களுவாஞ்சிகுடி பொலிஸ் பிரிவுக்குட்பட்ட பட்டிருப்பு பாலத்தின் கீழிருந்து இரண்டு சக்தி வாய்ந்த மோட்டார் குண்டுகளை மீண்டுள்ளதாக களுவாஞ்சிகுடி பொலிஸார் தெரிவித்தனர்.
+
+நேற்றைய தினம் மட்டக்களப்பு வாவியின் பட்டிருப்பு பகுதியில் மீன்பிடித்தொழிலில் ஈடுபட்டிருந்த மீனவர் ஒருவரின் வலையில் இந்த இரு குண்டுகளும் அகப்பட்டுள்ளன.
+
+சம்பவ இடத்திற்கு விரைந்த பொலிஸார் இரண்டு குண்டுகளையும் மீண்டுள்ளனர்.  நீதிமன்ற உத்தரவைப் பெற்று குண்டு செயலிழக்கும் பிரிவினரைக் கொண்டு இக்குண்டுகள் செயலிழக்கச் செய்ய உள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+கடந்த யுத்த காலத்தில் பட்டிருப்பு பாலத்தில் இருமருங்கிலும் இலங்கை இராணுவத்தினரின் பாதுகாப்பு காவலரண்கள் இருந்தமை குறிப்பிடத்தக்கதாகும். R
+
+◼️
+
+[Data](articles/a3958d96.json)
+
+---
+
+### Another murder drowns
 
 *2024-01-25 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192546) · `si`
 
-මුල්ලේරියාව කැලණි නදී මාවත හන්දියේ ලේ පැල්ලම් සහිත කඩු කිහිපයක් සමග නවතා තිබූ සැකකටයුතු ත්‍රීරෝද රථයක් පරීක්ෂා කර සැකකරුවන් 6 දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+Six suspects have been arrested by the Mulleriyawaya Kelani Nadee Mawatha junction and six suspects have been arrested.
 
-එම ත්‍රීරෝද රථයේ තිබී කඩු තුනක්, යකඩ පොල්ලක්, මන්නයක් සහ ජීව අත්බෝම්බ දෙකක් සමග මෙම සැකකරුවන් මුල්ලේරියාව පොලිස් භාරයට ගෙන ඇත.
+Three swords, an iron stick, manne, and a living grenade in the three-wheeler have been taken into custody.
 
-මුර සංචාරයේ යෙදී සිටි පොලිස් නිලධාරීන් දෙදෙනෙකුට අදාළ ත්‍රීරෝද රථය පිළිබඳව සැකසිතී සිදුකළ පරීක්ෂාවේදී මෙම ආයුධ හමු වී ඇති අතර අදාළ ත්‍රීරෝද රථයෙහි  පුද්ගලයින් හයදෙනෙක් ගමන් කර තිබූ බවද පොලීසිය පවසයි.
+The weapons have been found in the inspection of the three-wheeler of the three-wheeler for two police officers.
 
-එම පොලිස් නිලධාරීන් දෙදෙනා විසින් අනෙකුත් පොලිස් නිලධාරීන් වෙත දුරකථන ඇමතුමක් ලබාදී ගෙන්වාගෙන සිදුකළ පරීක්ෂාවේදී සැකකරුවන්ගේ ශරීරයේ සඟවා ගෙන තිබූ ජීව අත් බෝම්බ සහ ජංගම දුරකථන හයක් අත්අඩංගුවට ගත් බවද මුල්ලේරියාව පොලීසියේ උසස් නිලධාරියෙකු සඳහන් කළේය.
+A senior police officer of the Mulleriyawa police stated that the two police calls for other police officers to other police officers and six mobile phones were arrested in the suspects.
 
-119 පොලිස් හදිසි ඇමතුම් අංකයට ලද පණිවිඩයක් අනුව අනාවරණය වී ඇත්තේ පිංතාලිය හන්දියේ බටකැටිය පටුමගේ නිවසකට අනවසරයෙන් පිරිසක් ඇතුළු වී ඇති බවටය.
+The 119 Police Emergency Call Number was revealed that a group of people had entered the house of Bataketiya Lane at the Bataketiya Lane of the Bataketiya Lane of Pinathali Junction.
+
+The police have revealed that a person had gone to murdered and was not at home and had severely damaged his father and had been severely damaged.
+
+The injured person has been admitted to the basin hospital in Mulleriyawa.
 
 ...
 
 [Data](articles/2352a8b1.json)
+
+[Extended Data](ext_articles/2352a8b1.ext.json)
 
 ---
 
@@ -476,9 +528,7 @@ A group of inmates detained at the Kandakadu Treatment and Rehabilitation Center
 
 According to the Commissioner General of Rehabilitation, at least 40 inmates have fled the facility amidst the altercation.
 
-The police have taken measures to bring the situation under control.
-
-This incident comes on the heels of a clash that took place between two groups of inmates detained at the rehab center on January 12 after which at least 60 inmates had escaped. However, they had later surrendered. Another 25 had sustained injuries following the heated situation on that day.
+This incident comes on the heels of a clash that took place on January 12 between two groups of inmates detained at the rehab center, during which at least 60 inmates had escaped. However, the escapees had later surrendered. Meanwhile, another 25 had sustained injuries following the heated situation on that day.
 
 ◼️
 
@@ -584,11 +634,13 @@ The state minister and the police constable died on admission and the driver is 
 
 *2024-01-25 05:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96711/state-minister-sanath-nishantha-killed-in-accident) · `en`
 
-Two persons, including State Minister Sanath Nishantha, were reportedly killed in an accident on the Katunayake Highway.
+State Minister Sanath Nishantha and another person have reportedly died in a tragic accident that took place on the Colombo - Katunayake expressway in the early hours of the day.
 
-The State Minister’s vehicle had reportedly met with an accident on the Katunayake Highway earlier this morning (25 Jan.), following which three persons including the State Minister were admitted to the Ragama Hospital.
+According to the police, the state minister’s vehicle had rear-ended a container truck around 2:00 a.m. (25 Jan.), before crashing against the roadside barrier.
 
-Hospital sources later confirmed that two persons, including State Minister Nishantha, had succumbed to their injuries.
+Following the fatal collision, three persons including the lawmaker were rushed to the Colombo North Teaching Hospital in Ragama with critical wounds.
+
+Hospital sources later confirmed that two persons – State Minister Nishantha and his security guard, a police constable named Jayakody – had succumbed to their injuries. The driver of the vehicle is currently receiving medical attention at the hospital.
 
 ◼️
 
@@ -1728,6 +1780,26 @@ Ravishan Perera was divided into three wickets and two wickets among the winter 
 
 ---
 
+### දුවගේ ගෙදර රත්තරන් අශ්වයෝ හිටියේ නෑ
+
+*2024-01-24 20:23:15* · [`adalk`](https://www.ada.lk/breaking_news/දුවගේ-ගෙදර-රත්තරන්-අශ්වයෝ-හිටියේ-නෑ/11-407718) · `si`
+
+ජනාධිපති සංචාරයක් අතරතුරදී ව්ලැඩ්මීර්   පුටින්  රුසියානු ජනාධිපතිවරයා   විසින් මැණික් ගල් ඔබ්බන ලද රත්‍රන් කඩුවක්  තමාට තෑගි දුන් බව හිටපු ජනාධිපති, පොළොන්නරුව දිස්ත්‍රික්   පාර්ලිමේන්තු මන්ත්‍රී මෛත්‍රිපාල සිරිසේන මහතා  පැවසීය.
+
+මාර්ගගත ක්‍රමවල සුරක්ෂිතතාව පිළිබඳ පනත් කෙටුම්පත පිළිබඳ විවාදයට එක්වෙමින් පාර්ලිමේන්තුවේදී ඊයේ(24) ඔහු සඳහන් කර සිටියේ තමාගේ වැඩිමහල් දියණියගේ නිවසෙහි රත්‍රන්  අශ්වයන්  සිටියා යැයි  පැවසෙන කතාව මුසාවක් වන බවයි.
+
+ඒ අනුව එහිදී වැඩිදුරටත් අදහස් දක්වමින් ඔහු ප්‍රකාශ කර සිටියේ
+
+"මගේ ලොකු දුවගේ ගෙදර හොරු කැඩුවා. ඒ ගෙදර තිබුණු  කිරි පැකට් වගේ කන බොන දේවල් ටිකක් ගෙනිහිල්ලා තිබුණා. රත්රන් අශ්වයෝ ඒ ගෙදර මොකුත් තිබුණේ  නැහැ. මම  කටාර් රාජ්‍යයට ගිය වෙලාවේ රාජ්‍ය නායකයෙකුට දින තෑග්ග හම්බවුණා. ඒක මම පොළොන්නරුවේ කෞතුකාගාරයේ තියලා තියෙනවා. මම ඒ කෞතුකාගාරය හැදුවේ කෝටි සීයක් වැය කරලා. කිසිම ජනාධිපතිවරයෙකු මේ රටේ කෞතුකාගාරයක් හදල නැහැ.
+
+කොළඹ කෞතුකාගාරය හැදුවේ සුද්දෝ. නමුත් මම කෝටි සීයක් වැය කරලා තට්ටු හතරක විශාල ගොඩනැගිල්ලක් හැදුවා.
+
+...
+
+[Data](articles/6c440d6e.json)
+
+---
+
 ### Drug transaction: 7 people extended to 7
 
 *2024-01-24 20:20:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்து-கொடுக்கல்-வாங்கல்-7-பேருக்கு-விளக்கமறியல்-நீடிப்பு/175-332067) · `ta`
@@ -1860,6 +1932,38 @@ Investigations carried out by the police have revealed that several Buddhist mon
 
 ---
 
+### அரச வளங்களை கொள்ளையடித்த அனைவரையும்  எமது அரசாங்கத்தில் சட்டத்தின் முன் நிறுத்துவோம் - சஜித் பிரேமதாச
+
+*2024-01-24 19:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174740) · `ta`
+
+வற் வரியை அறவிடமால், அரச வளங்களை திருடிய திருடர்களை சட்டத்தின் முன் நிறுத்தி கொள்ளையிட்ட பணத்தை மீள பெற்றுக்கொள்ள வேண்டும்.ஐக்கிய மக்கள் சக்தி அரசாங்கத்தில் இந்த திருடர்கள் அனைவரும்  சட்டத்தின் முன் நிறுத்தப்பட்டு,அனைத்து வித தண்டனைகளும் வழங்கப்படும் என எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தெரிவித்தார்.
+
+பாராளுமன்றத்தில் புதன்கிழமை (24) நிலையியற் கட்டளை 27இன் 2கீழ் கேள்வி நேரத்தில் உரையாற்றுகையிலேயே இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/b08bae44.json)
+
+---
+
+### வடக்கில் மீன்பிடித்துறைசார் முதலீட்டு வலயம் தொடர்பில் சீனாவுடன் பேச்சுவார்த்தை - இராஜாங்க அமைச்சர் பியல் நிஷாந்த தகவல்
+
+*2024-01-24 19:41:00* · [`virakesarilk`](https://www.virakesari.lk/article/174738) · `ta`
+
+வடக்கை அடிப்படையாகக் கொண்டு மீன்பிடித்துறை சார் முதலீட்டு வலயத்தை ஆரம்பிப்பது தொடர்பில் வியாழக்கிழமை (25) கடற்றொழில் அமைச்சர் டக்ளஸ் தேவானந்தா தலைமையில் சீன நிறுவனமொன்றுடன் விசேட பேச்சுவார்த்தை இடம்பெறவுள்ளதாக கடற்றொழில் இராஜாங்க அமைச்சர் பியல் நிஷாந்த தெரிவித்தார்.
+
+அத்தோடு உள்நாட்டு டின்மீன் உற்பத்தியாளர்களின் மேம்பாட்டைக் கருத்திற் கொண்டு டின் மீன் இறக்குமதிக்கு தடை விதிப்பதற்கும் அண்மையில் தீர்மானிக்கப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் பியல் நிஷாந்த தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் புதன்கிழமை (24) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+மீனவர் நலன்புரி சேவை திட்டத்தை நாளை வெள்ளிக்கிழமை வெல்லமங்கரை மீன்பிடி துறைமுகத்தில் ஆரம்பிக்கவுள்ளோம். ஆழ்கடலில் மீனவர்கள் சுகவீனமடையும் போது, அவர்களுக்கான அவசர சுகாதார சேவைகளை வழங்குவது குறித்து இதன் போது அதிக அவதானம் செலுத்தப்படும். கடற்றொழில் அமைச்சு, சுகாதார அமைச்சுடன் இணைந்து இந்த வேலைத்திட்டம் ஆரம்பிக்கப்படவுள்ளது.
+
+...
+
+[Data](articles/b67d7355.json)
+
+---
+
 ### There is no restriction on the MPs to implement projects with public connectivity !!-Minister of State
 
 *2024-01-24 19:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/174742) · `ta`
@@ -1919,129 +2023,5 @@ VAT rate has been increased to 18% from 1st January 2024. VAT Tax has increased 
 [Data](articles/249f0f7c.json)
 
 [Extended Data](ext_articles/249f0f7c.ext.json)
-
----
-
-### Magistrate's decision on Mahinda Kodituwakku
-
-*2024-01-24 19:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192523) · `si`
-
-The Judicial Psyunami has informed the Fort Magistrate's Court today that Mahinda Kodituwakku, who is accused of appearance with the Avalocritice.
-
-Accordingly, the court ordered to be remanded further reserves, he ordered him to direct mental medical treatment.
-
-The videos of the Avalokithenwara Bodhisuna, which arrived in the island, circulated in the social media in social media, and his lectures were accused of insulting Buddhism.
-
-Fort Magistrate Thilina Gamage ordered the Fort Magistrate Thilina Gamage to be produced in court on January 16.
-
-The suspect was taken to the Angoda Muthural Health Scienceship yesterday, and doctors had inspected his mental status for nearly three hours.
-
-When the Law was taken up before the Law Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort Fort, Solicitor General Dili-Peiris (CID) reported.
-
-...
-
-[Data](articles/2ba27a66.json)
-
-[Extended Data](ext_articles/2ba27a66.ext.json)
-
----
-
-### More teaching appointments in the nearfather
-
-*2024-01-24 19:11:56* · [`adalk`](https://www.ada.lk/breaking_news/නුදුරේ-දී-ම-තවත්-ගුරු-පත්වීම්-පන්දාහක්/11-407714) · `si`
-
-Minister of Education Dr. Susil Premajayantha today stated that the Gazette Notices are expected to be recruited by the Teachers' Service Minute and a teachers of the Teacher Services Constitution for the subjects of chemistry, physics, biology, technology and technical subjects.
-
-The Minister said that the Minister also said that it would be able to grant two thousand public servants in the future, according to the provisions of the Supreme Court.
-
-He added that the appointment of all these teaching appointments will be provided with all these teaching appointments and fill the shortage of teachers and overcome the shortage of teachers.
-
-◼️
-
-[Data](articles/3f28ad52.json)
-
-[Extended Data](ext_articles/3f28ad52.ext.json)
-
----
-
-### Online bill passed
-
-*2024-01-24 19:05:19* · [`adalk`](https://www.ada.lk/breaking_news/ඔන්ලයින්-පනත-සම්මතයි/11-407713) · `si`
-
-Online Method Self-in Bill, 46 votes were passed in parliament today (24).
-
-108 votes were cast in favor of the bill and 46 votes were against it. The government MPs voted in favor of the bill.
-
-MPs, the National Folk Force, TNA, representing the National Alliance and Independence of the People's Council, with votes against the bill.
-
-Roshan Ranasinghe voted against the Bill. Ali Sabri inscriptions, Vadivel Suresh, Wadow, Wadd Jay Seneviratne voted in favor of the bill.
-
-◼️
-
-[Data](articles/44895cb1.json)
-
-[Extended Data](ext_articles/44895cb1.ext.json)
-
----
-
-### Army Commander's Primitive
-
-*2024-01-24 19:02:23* · [`adalk`](https://www.ada.lk/picture_story/ඉතිහාසය-වෙනස්-කල-යුද්ධ-හමුදාපතිගේ-ගුවන්-පිම්ම/10-407712) · `si`
-
-Army Commander Lieutenant General Vikatha refrigered his intention as a Parachute troop on 22nd January. With a team of local and foreign officers, with a new chance of parachute history, making a new chance of parachute history.
-
-Troops of the Parachute Schedule for the Parachute Training Division in the Uva Sala Oya.With.
-
-Although the parachute jumps occur in the military, this event is a historic and unparalleled. It is a historical arrangement, especially as a military command for the first military and the army commander in the military and the oldest training in the military.. It is also very likely to be the first and the same chance of such skills not only in Sri Lanka but also in the international.
-
-Army Commander This is a bold leap, well-known. His example is the example of the military to the current youth of the army. The current army commander's name is not as another parachute jump but a giant turning point in the field, not as one of the parachute jumps.
-
-◼️
-
-[Data](articles/1a54184e.json)
-
-[Extended Data](ext_articles/1a54184e.ext.json)
-
----
-
-### Online Safety Bill passed in Parliament
-
-*2024-01-24 18:49:00* · [`adaderanalk`](https://www.adaderana.lk/news/96706/online-safety-bill-passed-in-parliament) · `en`
-
-Sri Lanka’s Online Safety Bill, which seeks to regulate online content, was passed in Parliament with amendments on Wednesday (24), amidst objectios from opposition politicians and activists who allege the new law will muzzle free speech.
-
-Accordingly, the Speaker of Parliament Mahinda Yapa Abeywardena informed the House that the Online Safety Bill was passed in the Committee Stage with amendments.
-
-The Online Safety Bill proposes jail terms for content that a five-member commission considers illegal and makes social media platforms such as Google, Facebook and X, formerly known as Twitter, liable for those posted on their platforms.
-
-The government says the Bill is aimed at battling cybercrimes including child abuse, data theft and online fraud.
-
-The Second Reading of the Online Safety Bill was also passed in Parliament this evening (Jan. 24) with a majority of 46 votes. A total of 108 MPs had voted in favour, while 62 had voted against the Bill.
-
-...
-
-[Data](articles/3ceacf4d.json)
-
-[Extended Data](ext_articles/3ceacf4d.ext.json)
-
----
-
-### Shantan's life is absent
-
-*2024-01-24 18:48:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-உயிருக்கு-அபத்து/175-332066) · `ta`
-
-The Prisoners Rights Center (CHC) has said that Shantan's health has been affected by the Rajiv Gandhi murder case in the Rajiv Gandhi murder of India.
-
-The Prison Rights Center has written to the Chief Minister of Tamil Nadu that he should be treated at the Chennai Multipurpose Specialty Hospital.
-
-Shantan, who is currently released in the Rajiv Gandhi murder case, is waiting for a visa to return to Sri Lanka.
-
-The prison center has requested that he be saved because he is fighting for life, but he has not been given proper treatment for two months.. Remble
-
-◼️
-
-[Data](articles/0b3d4ead.json)
-
-[Extended Data](ext_articles/0b3d4ead.ext.json)
 
 ---

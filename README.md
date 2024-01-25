@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 20:03:13**
+As of **2024-01-25 20:17:20**
 
 ## Newspaper Stats
 
-*Scraped **2,606** Articles*
+*Scraped **2,610** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 147
 economynextcom | 152
 dailyftlk | 194
 adaderanasinhalalk | 220
-adalk | 252
+adalk | 255
 virakesarilk | 284
-adaderanalk | 326
+adaderanalk | 327
 tamilmirrorlk | 331
 dailymirrorlk | 348
 
@@ -26,11 +26,29 @@ dailymirrorlk | 348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,606 (100.0%) of 2,606 articles have been extended.
+2,606 (99.8%) of 2,610 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### Remains of late State Minister Sanath Nishantha lie in state
+
+*2024-01-25 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96728/remains-of-late-state-minister-sanath-nishantha-lie-in-state) · `en`
+
+President Ranil Wickremesinghe has visited the residence of the late State Minister Sanath Nishantha this afternoon (Jan.25) to offer his condolences to the bereaved family members.
+
+State Minister Sanath Nishantha lost his life in a tragic accident on the Colombo - Katunayake expressway early this morning.
+
+The deceased lawmaker is now lying in state at Jayaratne Funeral Parlour in Borella for the public to pay their last respects.
+
+The casket will be brought to the late state minister’s residence in Puttalam at 10:30 a.m. tomorrow (Jan.26).
+
+◼️
+
+[Data](articles/a1b1ac3b.json)
+
+---
 
 ### President visits residence of late State Minister Sanath Nishantha
 
@@ -144,6 +162,22 @@ Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestio
 
 ---
 
+### හෙට වැස්ස නෑ - නුවරඑළියට මල් තුහින
+
+*2024-01-25 18:07:38* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැස්ස-නෑ---නුවරඑළියට-මල්-තුහින/11-407729) · `si`
+
+හෙට දිනයේදී දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතිනු ඇතැයි අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+හිමිදිරි උදෑසන කාලයේදී නුවරඑළිය දිස්ත්‍රික්කයේ ඇතැම් සරථානවල මල්තුහින ඇතිවීමේ හැකියාවක් පවතින බවද එම දෙපාර්තමේන්තුව පවසයි.
+
+මධ්‍යම, සබරගමුව, බස්නාහිර හා ඌව පළාත්තවලත්ත ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ඇතැම් සරථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්තත්තවයක් අපේක්ෂා කරන බවද එම දෙපාර්තමේන්තුව වැඩිදුරටත් දන්වා සිටියි.
+
+◼️
+
+[Data](articles/0e44dc7f.json)
+
+---
+
 ### Sanath Nishantha looks for slanderous posts
 
 *2024-01-25 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192565) · `si`
@@ -216,6 +250,22 @@ A group of five people had arrived in the sea, and three of them had gone to the
 
 ---
 
+### විදුහල්පති දීමනාව රු. 9000කින් වැඩි කිරීමට නිර්දේශ
+
+*2024-01-25 17:27:18* · [`adalk`](https://www.ada.lk/breaking_news/විදුහල්පති-දීමනාව-රු--9000කින්-වැඩි-කිරීමට-නිර්දේශ/11-407728) · `si`
+
+විදුහල්පති සේවයේ මෙතෙක් නොවිසඳී පැවැති ගැටලු‍ විසඳීමට සහ එම සේවාවේ වෘත්තීය ස්වභාවය උසස්කොට අධ්‍යාපන ප්‍රතිසංස්කරණවලට ගැළපෙන ලෙස සංවර්ධනය කිරීමට අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා විසින් පත් කරන ලද කමිටුවේ වාර්තාව අමාත්‍යවරයා වෙත භාරදෙන ලදී.
+
+මෙම වාර්තාවෙහි ප්‍රධාන කරුණු හයක් ඔස්සේ ගැටළු අධ්‍යයනය හා අදාළ නිර්දේශ ඉදිරිපත් කර ඇත.  විදුහල්පති සේවාව පිළිගත් වෘත්තීයක් ලෙස දියුණු කිරීම, විදුහල්පති සේවය පිළිබඳ ජාතික ප්‍රතිපත්ති සැකසීම, සේවා ව්‍යවස්ථාව සංශෝධනය කර අනාගතයට සුදුසු පරිදි ව්‍යුහගත කිරීම, විදුහල්පති කාර්යභාරය, වගකීම් හා වගවීම්. විදුහල්පතිවරුන්ගේ වැටුප් දීමනා වරප්‍රසාද හා කුසලතා වර්ධනය සඳහා අවස්ථා සහ අධ්‍යාපන ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීමේ කාර්යභාරය යන කරුණු මීට ඇතුළත් ය.
+
+දැනට 16,000කට අධික නිලධාරීන් පිරිසක් සිටින විදුහල්පති සේවයේ iii, ii, i ශ්‍රේණිවලට අයත්  විදුහල්පති නියෝජ්‍ය විදුහල්පති හා උප විදුහල්පතිවරුන්ගේ සේවා අභිවෘද්ධිය හා පාසල් පද්ධතියේ නව අවශ්‍යතා සලකා විදුහල්පති අධිශ්‍රේණියක් ඇති කිරීමට නිර්දේශ කොට ඇත.
+
+...
+
+[Data](articles/161f8d25.json)
+
+---
+
 ### Massant crocodile killed in Kelani River
 
 *2024-01-25 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192562) · `si`
@@ -275,6 +325,24 @@ The body of a 35-year-old male has been recovered so far while a search is ongoi
 [Data](articles/01e142bc.json)
 
 [Extended Data](ext_articles/01e142bc.ext.json)
+
+---
+
+### රට පුරා නව ආයෝජන කලාප ඇති කරනවා
+
+*2024-01-25 17:13:43* · [`adalk`](https://www.ada.lk/breaking_news/රට-පුරා-නව-ආයෝජන-කලාප-ඇති-කරනවා/11-407726) · `si`
+
+බියගම උදාහරණයට ගෙන ඉදිරි වසර කිහිපය තුළ රටම ඉදිරියට ගෙන යාමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+
+තම දේශපාලන ජීවිතය ආරම්භ කළ බියගම ආසනයට එදා තමා පැමිණෙන විට එම ප්‍රදේශය ඉතා නොදියුණු ප්‍රදේශයක්ව තිබූ බව සිහිපත් කළ ජනාධිපතිවරයා බියගම ආයෝජන කලාපය ඇති කිරීම ඇතුළුව එදා තමා ගත් නිවැරදි ආර්ථික තීන්දු තීරණ හේතුවෙන් බියගම ඉතා කෙටි කලක් තුළ විශාල දියුණුවක් ලැබූ බව සඳහන් කළේය.
+
+ඒ අයුරින් විවෘත ආර්ථිකයෙන් උපරිම ප්‍රයෝජන ගනිමින් රට පුරා නව ආයෝජන කලාප ඇති කර මෙරට ජාතික ආර්ථිකය දස ගුණයකින් ඉහළ නංවා ගැනීමට කටයුතු කරන බවද ජනාධිපතිවරයා පැවසීය.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ, සපුගස්කන්ද අබේසේකරාරාමයේ අභිනවයෙන් ඉදිකරන ලද බෝධි ප්‍රාකාරය සහ රන් වැට විවෘත කිරීමේ අවස්ථාවට අද (25) පෙරවරුවේ එක්වෙමිනි.
+
+...
+
+[Data](articles/84d0519d.json)
 
 ---
 
@@ -2007,75 +2075,5 @@ The police have taken measures to bring the situation under control.
 [Data](articles/0a6e4171.json)
 
 [Extended Data](ext_articles/0a6e4171.ext.json)
-
----
-
-### Another clash breaks out at Kandakadu rehab center; inmates escape
-
-*2024-01-25 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96712/another-clash-breaks-out-at-kandakadu-rehab-center-inmates-escape) · `en`
-
-A group of inmates detained at the Kandakadu Treatment and Rehabilitation Center have escaped following a clash that ensued last night (Jan.24).
-
-According to the Commissioner General of Rehabilitation, at least 40 inmates have fled the facility amidst the altercation.
-
-This incident comes on the heels of a clash that took place on January 12 between two groups of inmates detained at the rehab center, during which at least 60 inmates had escaped. However, the escapees had later surrendered. Meanwhile, another 25 had sustained injuries following the heated situation on that day.
-
-◼️
-
-[Data](articles/b62726bb.json)
-
-[Extended Data](ext_articles/b62726bb.ext.json)
-
----
-
-### State Minister Sanath Nishantha killed in a car accident
-
-*2024-01-25 06:43:40* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරකින්-රාජ්‍ය-අමාත්‍ය-සනත්-නිශාන්ත-මරුට/11-407720) · `si`
-
-A spokesman said that Puttalam District Parliamentary and State Minister Sanath Nishantha has died of an accident on Colombo Expressway, a Ragama Hospital.
-
-The minister was taken to the Ragama hospital and his bodyguard was taken to Ragama Hospital. The public minister and the security person has been killed.
-
-The accident occurred around 1.00 am this morning. The State Minister and the Breasury have been admitted to the Ragama Hospital with the accident.
-
-◼️
-
-[Data](articles/5d7e6e03.json)
-
-[Extended Data](ext_articles/5d7e6e03.ext.json)
-
----
-
-### Kandakadu will be rebuke again
-
-*2024-01-25 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192535) · `si`
-
-It is reported that a group of inmates had fled.
-
-Among the two to 40 inmates were fled during the confrontation.
-
-◼️
-
-[Data](articles/b402c58d.json)
-
-[Extended Data](ext_articles/b402c58d.ext.json)
-
----
-
-### Heavyweight weather
-
-*2024-01-25 06:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192534) · `si`
-
-The Department of Meteorology announces that a key weather in the island is mainly there.
-
-In some places in the Nuwara Eliya district, there is a possibility of a flower.
-
-In some places in the Galle, Sabaragamuwa, Western and Uva provinces, are expected to be methaved in the Galle and Matara districts.
-
-◼️
-
-[Data](articles/e03f10f3.json)
-
-[Extended Data](ext_articles/e03f10f3.ext.json)
 
 ---

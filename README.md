@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 06:18:19**
+As of **2024-01-25 06:58:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,471 (99.9%) of 2,473 articles have been extended.
+2,473 (100.0%) of 2,473 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -40,13 +40,15 @@ COLOMBO (News 1st); Sri Lankan State Minister Sanath Nishantha died early on Thu
 
 Sri Lanka Police said that a Police Constable attached to the security detail of the State Minister died as well, while the driver sustained serious injuries and was admitted to the hospital.
 
-According to an official statement from Sri Lanka Police the accident took place at 2 AM and the SUV in which the State Minister was travelling in crashed on to the rear end of a freight container truck heading to Colombo, resulting in the tragic accident.Juwaad
+According to an official statement from Sri Lanka Police the accident took place at 2 AM and the SUV in which the State Minister was travelling in crashed on to the rear end of a freight container truck heading to Colombo, resulting in the tragic accident.
 
 Russian plane crashes with 65 Ukrainian prisoners of war on board
 
 ◼️
 
 [Data](articles/7baf4fae.json)
+
+[Extended Data](ext_articles/7baf4fae.ext.json)
 
 ---
 
@@ -68,23 +70,25 @@ Hospital sources later confirmed that two persons, including State Minister Nish
 
 ---
 
-### රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මරුට
+### State Minister Sanath Nishantha killed
 
 *2024-01-25 05:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192533) · `si`
 
-කටුනායක අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ තවත් අයෙක් මියගොස් තිබේ.
+State Minister Sanath Nishantha and another have died in an accident on the Katunayake Expressway.
 
-පොලීසිය පැවසුවේ, කටුනායක සිට කොළඹ දෙසට ධාවනය කරමින් තිබූ ඒ මහතා ගමන් කරමින් සිටි සුඛෝපභෝගි රථය, ඒ දෙසටම ධාවනය කරමින් තිබූ කන්ටේනරයක පිටුපස ගැටී තිබූ බවයි.
+According to the police, the luxury vehicle that was traveling from Katunayake to Colombo was the back of the container.
 
-අනතුරින් බරපතළ තුවාල ලැබූ රාජ්‍ය අමාත්‍යවරයා, ඔහුගේ ආරක්ෂක නිලධාරියා සහ එම රථයේ රියදුරා රාගම රෝහලට ඇතුළු කෙරිණි.
+The Minister of State and his security officer and the driver of the vehicle were admitted to the Ragama Hospital.
 
-එහිදී රාජ්‍ය අමාත්‍යවරයා සහ ආරක්ෂක නිලධාරියා ජීවිතක්ෂයට පත්වූ බව පොලීසිය පැවසීය.
+The State Minister and the security officer were killed and the police said.
 
-කටුනායක අධිවේගයේ R 11.1 කිලෝමීටර් කණුව අසල දී අද පාන්දර 2ට පමණ එම අනතුර සිදුව තිබුණි.
+The accident had occurred at around 2 am near the Katunayake Expressway at Katunayake Expressway around 2 am.
 
 ◼️
 
 [Data](articles/9a0781fb.json)
+
+[Extended Data](ext_articles/9a0781fb.ext.json)
 
 ---
 

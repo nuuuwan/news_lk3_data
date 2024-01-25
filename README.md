@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 15:17:29**
+As of **2024-01-25 15:32:55**
 
 ## Newspaper Stats
 
-*Scraped **2,570** Articles*
+*Scraped **2,572** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,17 +16,17 @@ islandlk | 146
 economynextcom | 152
 dailyftlk | 194
 adaderanasinhalalk | 209
-adalk | 248
+adalk | 249
 virakesarilk | 282
 adaderanalk | 320
-tamilmirrorlk | 328
+tamilmirrorlk | 329
 dailymirrorlk | 342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,565 (99.8%) of 2,570 articles have been extended.
+2,570 (99.9%) of 2,572 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,28 @@ The arrest has been made by the Criminal Investigation Department (CID) officers
 
 [Data](articles/3ff5baa5.json)
 
+[Extended Data](ext_articles/3ff5baa5.ext.json)
+
+---
+
+### ”அவரின் மறைவு மஹிந்தவுக்கு பெரும் இழப்பாகும்”
+
+*2024-01-25 14:16:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவரின்-மறைவு-மஹிந்தவுக்கு-பெரும்-இழப்பாகும்/175-332106) · `ta`
+
+இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மறைவு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவுக்கும் கட்சிக்கும் புத்தளம் நகர அபிவிருத்தி மற்றும் வீடமைப்பு மக்களுக்கும் பாரிய இழப்பாகும் என அரசாங்கத்தின் பிரதம கொறடாவும் அமைச்சருமான பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+”சனத் நிஷாந்த புத்தளம் மற்றும் சிலாபம் மாவட்ட மக்களுக்காக உழைத்தவர் என அவர் ஊடகங்களுக்கு தெரிவித்தார். புத்தளம் மற்றும் சிலாபத்தில் இரண்டு நிகழ்வுகளில் கலந்து கொண்டு கொழும்பு செல்லும் வழியில் அவர் இந்த விபத்தை சந்தித்துள்ளார்.
+
+மே 9ஆம் திகதி அரகலய போராட்டத்தின் போது புத்தளத்தில் உள்ள அவரது உத்தியோகபூர்வ இல்லம் எரிக்கப்பட்டது. எனவே புத்தளத்தில் ஓய்வெடுக்க வீடு இல்லாத நிலையில், கொழும்புக்கு திரும்பிக் கொண்டிருந்த போதே இந்த விபத்து ஏற்பட்டுள்ளது.
+
+மேலும், நேற்றைய தினம் பாராளுமன்ற அமர்வுகளின் பின்னர் அவுஸ்திரேலிய உயர்ஸ்தானிகராலயத்தில் இடம்பெற்ற நிகழ்வொன்றில் சனத நிஷாந்த கலந்துகொண்டார்” அவர் தெரிவித்தார்.
+
+பொலிஸ் விசாரணைகளின் படி, இராஜாங்க அமைச்சரின் சாரதி மதுபோதையில் இருக்கவில்லை என அமைச்சர் ரணதுங்க தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/9e408b04.json)
+
 ---
 
 ### Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
@@ -64,6 +86,8 @@ Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestio
 
 [Data](articles/517c96a4.json)
 
+[Extended Data](ext_articles/517c96a4.ext.json)
+
 ---
 
 ### US government expresses concern over Online Safety Bill
@@ -77,6 +101,8 @@ US Ambassador Julie Chung, in a message on X (formerly Twitter) said: “The Uni
 ...
 
 [Data](articles/70a0ae31.json)
+
+[Extended Data](ext_articles/70a0ae31.ext.json)
 
 ---
 
@@ -98,25 +124,31 @@ The British drink an estimated 100 million cups of tea a day, and consider it th
 
 [Data](articles/6c03c934.json)
 
+[Extended Data](ext_articles/6c03c934.ext.json)
+
 ---
 
-### நிகழ்நிலை காப்புச் சட்டமூலத்தை இலங்கை நிறைவேற்றியமைக்கு அமெரிக்கா கவலை
+### The US is concerned about the passage of Sri Lanka
 
 *2024-01-25 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174774) · `ta`
 
-பாராளுமன்றத்தில் எதிர்க்கட்சிகளின் கடும் எதிர்ப்புகளுக்கு மத்தியில் பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலசினால் சபைக்கு சமர்ப்பித்திருந்த நிகழ்நிலை காப்புச் சட்டமூலம் 46 மேலதிக வாக்குகளால் திருத்தங்களுடன் நிறைவேற்றப்பட்டது.
+Amidst the fierce opposition of the opposition parties in Parliament, the Public Security Minister Tran Alsin, the Celebration Bill, was passed by 46 additional votes.
 
-இந்த நிகழ்நிலை காப்புச் சட்டமூலம் நிறைவேற்றப்பட்டுள்ளமை தொடர்பில் அமெரிக்கா தனது கவலையை வெளியிட்டுள்ளது.
+The US has expressed its concern over the passage of the Backup Bill.
 
-இது குறித்து இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜுலி சங் தனது எக்ஸ் தளத்தில் குறிப்பிட்டுள்ளதாவது,
+US Ambassador to Sri Lanka, Julie Sung, said on his X site.
 
-“ சிவில் சமூகம் மற்றும் தொழில்நுட்ப நிறுவனங்கள் உள்ளிட்ட முக்கிய பங்குதாரர்களின் கோரிக்கைகளை உள்ளடக்காமல் பாராளுமன்றில் நேற்று நிறைவேற்றப்பட்ட இலங்கையின் நிகழ்நிலை காப்புச் சட்டமூலத்தின் சாத்தியமான தாக்கம் குறித்து அமெரிக்கா கவலை கொண்டுள்ளது.
+“The United States is concerned about the potential impact of the Sri Lanka's Faculty Backup Bill, which was passed in Parliament yesterday, without the demands of prominent shareholders, including civil society and technology organizations.
 
-ஜனநாயக விழுமியங்களை ஆபத்தில் தள்ளுவதுடன் தெளிவற்ற மற்றும் மிகையான கடுமையான சட்டங்கள் முதலீடு மற்றும் டிஜிட்டல் பொருளாதாரத்தின் வளர்ச்சிக்கு இடையூறாக அமையும் என்பதுடன் இலங்கையின் பொருளாதார வளர்ச்சியைக் குறைமதிப்பிற்கு உட்படுத்தும்.
+Democratic values are in danger and vague and excessive laws can disrupt the growth of the digital economy and undermine Sri Lanka's economic growth.
 
-...
+The US urges Sri Lanka to prioritize transparency and ensure that any law does not suppress the voices of the people. As mentioned further.
+
+◼️
 
 [Data](articles/b3acce90.json)
+
+[Extended Data](ext_articles/b3acce90.ext.json)
 
 ---
 
@@ -163,6 +195,26 @@ The group had been returning from a wedding ceremony held at a hotel in Bandaraw
 [Data](articles/87bea950.json)
 
 [Extended Data](ext_articles/87bea950.ext.json)
+
+---
+
+### කන්දකාඩුවෙන් 200ක් පළා යයි
+
+*2024-01-25 13:22:11* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවෙන්-200ක්-පළා-යයි/11-407723) · `si`
+
+වැලිකන්ද කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ රැදවියන් පිරිසක් 24 වෙනිදා රාත්‍රියේ පලාගොස් ඈති බව වැලිකන්ද පොලිසිය කියයි.
+
+පලාගිය පිරිසෙන් 17 දෙනෙකු 25 වෙනිද උදැසන  සුංගාවිල පාලම අසලදි අත් අඩංගුවට ගෙන තිබෙන අතර ඔවුන් පොලොන්නරුව පොලිසිය මගින් පොලොන්නරුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරිමට කටයුතු කරන බව පොලොන්නරුව වැඩබලන ජේෂ්ඨ පොලිස් අධිකාරි චානක ද සිල්වා මහතා අප කළ විමසීමකදී කීවේය .
+
+නවසේනපුර වෘත්තීය පුහුණ මධ්‍යස්ථානයේ රැඳවියන් සහ කණ්ඩකාඩු වෘත්තිය පුහුණු  මධ්‍යස්ථානයේ රැඳවියන් දෙපිරිසක් අතර ඇති වූ ගැටුමක් අතරතුර මෙම පිරිස පලාගොස් ඇති බව පරීක්ෂණ සිදු කරන වැලිකන්ද පොලිසිය කියයි.
+
+පලාගොස් සෝමාවතිය වනෝද්‍යානයේ හා ඒ අවට සැගව සිටින රැදවියන් අත් අඩංගුවට ගැනීම සදහා පොලිසිය ,,යුද හමුදාව එක්ව විශේෂ මෙහෙයුමක් ක්‍රියාත්මක කර ඇති බව වැලිකන්ද පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක සමන්ත රත්නායක මහතා කීය.
+
+කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ රැදවියන් 408 දෙනෙකු පුනරුත්ථාපනය වෙමින් සිටි අතර ඔවුන්ගෙන් 200 ක ආසන්න රැදවියන් පිරිසක් පලාගොස් තිබෙන බව එම මධ්‍යස්ථානයේ ආරක්ෂක අංශයේ උසස් නිලධාරීයෙකු පැවසීය.
+
+...
+
+[Data](articles/a32c3f5d.json)
 
 ---
 
@@ -2023,43 +2075,5 @@ In 2013, Thai Cabinet agreed to expand NEDA’s cooperation to three more specif
 [Data](articles/4199ba00.json)
 
 [Extended Data](ext_articles/4199ba00.ext.json)
-
----
-
-### Sri Lankans resettled in Tamil Nadu receive passports
-
-*2024-01-24 23:56:20* · [`dailyftlk`](https://www.ft.lk/news/Sri-Lankans-resettled-in-Tamil-Nadu-receive-passports/56-757731) · `en`
-
-The Deputy High Commission of Sri Lanka in Chennai conducted an event on 19 January to hand over the first batch of “All Country Passports” to Sri Lankan nationals resettled in Tamil Nadu.
-
-The Government of Sri Lanka has so far been issuing a travel document called Refugee Repatriation Passport for this segment of Sri Lankans for the purpose of only returning to Sri Lanka considering their irregular stay in India. The Sri Lanka Deputy High Commission in Chennai made a proposal to the Government of Sri Lanka taking into account the volume of requests received from these Sri Lankans to issue all country passport enabling them to travel to other countries for higher education, employment opportunities and family reunification, etc.
-
-...
-
-[Data](articles/1312703e.json)
-
-[Extended Data](ext_articles/1312703e.ext.json)
-
----
-
-### Edtech for marginalised children in Sri Lanka: Insights from MENA and other Asian countries
-
-*2024-01-24 23:52:31* · [`dailyftlk`](https://www.ft.lk/columns/Edtech-for-marginalised-children-in-Sri-Lanka-Insights-from-MENA-and-other-Asian-countries/4-757730) · `en`
-
-Access to inclusive and equitable quality education is a fundamental human right
-
-Despite the Government’s recent efforts to improve access to technology in facilitating edtech, that solely is insufficient and ineffective in improving inclusiveness in education. Rather, targeted, strategic and innovative measures should be taken to ensure that the implementation of edtech is effective in promoting inclusiveness in education for marginalised and vulnerable groups of children in Sri Lanka
-
-In marking International Day of Education that was observed on 24 January 2024, the following areas are explored on educational technology, based on the IPS study ‘EdTech: Landscape and Challenges in Asia and MENA’.
-
-How technological resources can help fill gaps in access and reduce inequalities in education in Sri Lanka
-
-Despite the recent uptake of educational technology (edtech) in Sri Lanka, it does not cater to the needs of diverse groups of vulnerable children in the country
-
-...
-
-[Data](articles/15d15a8e.json)
-
-[Extended Data](ext_articles/15d15a8e.ext.json)
 
 ---

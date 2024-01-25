@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 21:52:28**
+As of **2024-01-25 22:06:46**
 
 ## Newspaper Stats
 
-*Scraped **2,618** Articles*
+*Scraped **2,620** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 144
 islandlk | 147
 economynextcom | 152
 dailyftlk | 194
-adaderanasinhalalk | 221
+adaderanasinhalalk | 223
 adalk | 255
 virakesarilk | 286
 adaderanalk | 329
@@ -26,11 +26,35 @@ dailymirrorlk | 351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,618 (100.0%) of 2,618 articles have been extended.
+2,620 (100.0%) of 2,620 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### Now the problem with a economy - President
+
+*2024-01-25 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192569) · `si`
+
+President Ranil Wickremesinghe says that even foreign leaders have been subjected to restoration of bankruptcy.
+
+The President made this observation at the opening ceremony of the Sapugaskanda Abeysekararamaya.
+
+"I took over that government.. It was the economic broke out that day. The economy was lost. There was no food to live for people. There was no income. There was no fuel. Because of the need to rescue the economy, so that it is possible to do so.. I took over the president in this country. "
+
+"Two years have gone,. There is a common common condition. There is a loan payment questions. There is economic problems.. These are the questions that have been recovered by a economy. We're in there now. "
+
+"Many world leaders were surprised at the developed in a very short time. There will be stability of the economy in the future. "
+
+"The income of the country has to be increased. That is why they had to increase the vate. "
+
+◼️
+
+[Data](articles/aa680ee0.json)
+
+[Extended Data](ext_articles/aa680ee0.ext.json)
+
+---
 
 ### Detention order issued on suspect arrested over Beliatta mass shooting
 
@@ -73,6 +97,36 @@ On that account, the United States has urged the Sri Lankan authorities to prior
 [Data](articles/c3c17c46.json)
 
 [Extended Data](ext_articles/c3c17c46.ext.json)
+
+---
+
+### Detention order to the suspect in Beliatta
+
+*2024-01-25 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192568) · `si`
+
+The suspect arrested in connection with the murder of Beliatta has been deployed today (25).
+
+The suspect was produced before the Assembly Magistrate's Court today.
+
+There were many other important facts in the suspects in the arrested suspect in Akuressa yesterday (24).
+
+He is suspicious that the man was headed by the attack and we will go to a hotel in the CCTV sewage that was revealed before yesterday.
+
+The police also recovered a motorcycle and a van according to the information revealed by the 55-year-old suspect named Saman Kumara.
+
+Hakmana police officers under the supervision of Senior Superintendent of Police of the Matara Division.
+
+The police suspect that the motorcycle has been used to dispose of the two T-56 riffles used for the attack.
+
+The police suspect that the van with the crime was prepared to hide hiding after the crime.
+
+One of the shooter in the jeep of the shooter has been tabled in Akuressa and another shotgam has been detected in Kamburupitiya area.
+
+...
+
+[Data](articles/f7ccb32d.json)
+
+[Extended Data](ext_articles/f7ccb32d.ext.json)
 
 ---
 
@@ -2031,55 +2085,5 @@ Economic consequences of the Online Safety Bill should be considered by the gove
 [Data](articles/b2c57876.json)
 
 [Extended Data](ext_articles/b2c57876.ext.json)
-
----
-
-### Pisphere seals the cafeteria of the train
-
-*2024-01-25 07:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192539) · `si`
-
-The cafeteria of the train has been temporarily sealed on a court order on trade unimputers.
-
-It is reported that the cafeteria of the train is sealed by a group of Batticaloa Public Health Inspectors.
-
-The cafeteria of the train was tested on the 22nd.
-
-The court has ordered the court that the cafeteria has been ordered to be temporarily closed in the sale of food inadequate food.
-
-Accordingly, the Batticaloa Magistrate has ordered to submit a report to the court regarding the cafeteria on the 08th.
-
-Last year, the monk was fined for selling food inadequate food at the rest of the train.
-
-◼️
-
-[Data](articles/39851728.json)
-
-[Extended Data](ext_articles/39851728.ext.json)
-
----
-
-### Fair weather to prevail over the island today
-
-*2024-01-25 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96713/fair-weather-to-prevail-over-the-island-today) · `en`
-
-The Department of Meteorology says mainly fair weather is expected to prevail over the island today (Jan.25).
-
-There is a possibility of ground frost at some places in Nuwara-Eliya district during the early hours of the morning.
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa, Western and Uva provinces and in Galle and Matara districts during the morning.
-
-Mainly fair weather will prevail in the sea areas around the island.
-
-Winds will be north-easterly and wind speed will be 20-30 kmph.
-
-Wind speed may increase up to 40-45 kmph at times in the sea areas off the coasts extending from Colombo to Mannar via Puttalam and from Galle to Pottuvil via Hambantota.
-
-The sea areas off the coasts extending from Colombo to Mannar via Puttalam and from Galle to Pottuvil via Hambantota can be fairly rough at times.
-
-◼️
-
-[Data](articles/a952df9b.json)
-
-[Extended Data](ext_articles/a952df9b.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 11:17:18**
+As of **2024-01-25 11:33:05**
 
 ## Newspaper Stats
 
-*Scraped **2,540** Articles*
+*Scraped **2,543** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 138
 islandlk | 146
 economynextcom | 151
 dailyftlk | 194
-adaderanasinhalalk | 202
-adalk | 245
+adaderanasinhalalk | 204
+adalk | 246
 virakesarilk | 281
 adaderanalk | 314
 tamilmirrorlk | 325
@@ -26,51 +26,91 @@ dailymirrorlk | 337
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,530 (99.6%) of 2,540 articles have been extended.
+2,540 (99.9%) of 2,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### 2 புதிய வகை மாதுளை வகைகள் அறிமுகம்
+### නියෝජ්‍ය පොලිස්පතිවරුන් තිදෙනෙකුට ස්ථාන මාරු
+
+*2024-01-25 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192548) · `si`
+
+ජාතික පොලිස් කොමිෂන් සභාවේ අනුමැතිය පරිදි වැඩබලන පොලිස්පතිවරයා විසින් ඊයේ (24) දිනයේ සිට ක්‍රියාත්මක වන පරිදි අදාළ ස්ථාන මාරුවීම් ලබා දී ඇති බව පොලිස් මූලස්ථානය සඳහන් කරයි.
+
+ඒ අනුව ප්‍රවාහන හා සංදේශ දිසාව භාරව කටයුතු කළ නියෝජ්‍ය පොලිස්පති කේ.කඩුපිටිය මහතා බස්නාහිර පළාත උතුර දිසාව භාර නියෝජ්‍ය පොලිස්පතිවරයා ලෙස පත් කර ඇත.
+
+යාපනය දිසාව භාරව කටයුතු කළ නියෝජ්‍ය පොලිස්පති එම්.ආර්.එම්.සෙනරත් මහතා ප්‍රවාහන හා සංදේශ දිසාව භාර නියෝජ්‍ය පොලිස්පතිවරයා ලෙසත් අපරාධ දිසාව භාර නියෝජ්‍ය පොලිස්පති ජේ.ඒ.කේ.ජයසිංහ මහතා යාපනය දිසාව භාර නියෝජ්‍ය පොලිස්පතිවරයා ලෙසත් මාරු කර ඇති බව පොලිස් මූලස්ථානය සඳහන් කර තිබේ.
+
+◼️
+
+[Data](articles/920c448e.json)
+
+---
+
+### සනත් නිශාන්ත මියයෑමට මොහොතකට පෙර
+
+*2024-01-25 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192547) · `si`
+
+අද (25) අලුයම 2ට පමණ කටුනායක අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ තවත් අයෙක් අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්වුණි.
+
+සනත් නිශාන්ත මහතා එලෙස අනතුරට ලක්ව තිබුණේ, කටුනායක සිට කොළඹ දක්වා ගමන් කරමින් සිටිය දීය.
+
+ඒ මහතා ගමන්ගත් සුඛෝපභෝගී මෝටර් රථය ඒ දෙසටම ධාවනය කරමින් තිබූ කන්ටේනර් රථයක පිටපස ගැටී අනතුර සිදුව තිබිණි.
+
+ඊයේ (24) රාත්‍රියේ හලාවත, බණ්ඩාරවත්ත ප්‍රදේශයේ හෝටලයක පැවති විවාහ මංගල උත්සවයකට සහභාගි වී ආපසු කොළඹ බලා එමින් අතරතුර දී සනත් නිශාන්ත මහතා රිය අනතුරට ලක්වුණි.
+
+එම මංගල උත්සවයේ දී මනාල යුවළ විසින් සනත් නිශාන්ත මහතා සමග ලබාගත් සෙල්ෆි ඡායාරූපය මුහුණුපොතේ මේ වනවිට සංසරණය වන අතර එම ඡායාරූපය ලබාගත් පුද්ගලයා සිය පෞද්ගලික ෆේස්බුක් ගිණුමේ මෙලෙස සටහන් තබා තිබුණි.
+
+◼️
+
+[Data](articles/5d206970.json)
+
+---
+
+### Introduction to 2 new type of pomegranate types
 
 *2024-01-25 10:44:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-புதிய-வகை-மாதுளை-வகைகள்-அறிமுகம்/175-332102) · `ta`
 
-இலங்கையில் இரண்டு புதிய வகை மாதுளை வகைகள் அறிமுகப்படுத்தப்பட்டுள்ளதாக விவசாய அமைச்சர் மஹிந்த அமரவீர தெரிவித்துள்ளார்.
+Agriculture Minister Mahinda Amaraweera says two new types of pomegranate have been introduced in Sri Lanka.
 
-புதிய மாதுளை வகைகளுக்கு 'மலே பிங்க்' மற்றும் 'லங்கா ரெட்' என பெயரிடப்பட்டு, இலங்கையின் உலர் வலயங்களில் பயிரிடுவதற்காக அறிமுகப்படுத்தப்பட்டுள்ளதாக அமைச்சர் கூறினார்.
+The new pomegranate varieties have been labeled as 'Male Pink' and 'Lanka Red' and introduced in the dry zones of Sri Lanka, the Minister said.
 
-ஹோமாகமவில் உள்ள தாவர வைரஸ் குறியீட்டு மையத்தினால் மேற்கொள்ளப்பட்ட திசு வளர்ப்பு ஆராய்ச்சியைத் தொடர்ந்து புதிய வகை மாதுளை அறிமுகப்படுத்தப்பட்டுள்ளது. மேலும் தற்போது இறக்குமதி செய்யப்படும் சிவப்பு மாதுளை வகைகளுக்கு மாற்றாக இதனைப் பயன்படுத்த முடியும்.
+The new type of pomegranate has been introduced following a tissue breeding research carried out by the plant virus index in Homagama. It can also be used as an alternative to the now imported red pomegranate types.
 
-இந்த இரண்டு புதிய வகைகளின் சிறப்பு அம்சம் என்னவென்றால், ஒரு மாதுளை மரத்தின் ஆயுட்காலம் 30 ஆண்டுகளுக்கு மேல் உள்ளது மற்றும் ஒவ்வொரு மரத்திலிருந்தும் ஒரு வருடத்திற்கு 20-25 கிலோ மாதுளை அறுவடை செய்யலாம்.
+The special feature of these two new varieties is that the life span of a pomegranate tree is over 30 years and can be harvested 20-25 kg per year from each tree.
 
-ஒரு ஏக்கருக்கு மொத்தம் 400 மரங்கள் நடுவதன் மூலம் ஆண்டு வருமானம் ஒரு ஏக்கருக்கு ரூ. 8 லட்சம்  என அவர் தெரிவித்தார்.
+Annual income of a total of 400 trees per acre is Rs.. 8 lakhs, he said.
 
-விவசாய அமைச்சர் மஹிந்த அமரவீரவினால் பயிரிடுவதற்காக விவசாயிகளிடம் மாதுளை வகைகள் நேற்று (24) கையளிக்கப்பட்டன.
+Pomegranate varieties were handed over to the farmers yesterday (24) for the cultivation of Agriculture Minister Mahinda Amaraweera.
 
 ◼️
 
 [Data](articles/074e3e12.json)
 
+[Extended Data](ext_articles/074e3e12.ext.json)
+
 ---
 
-### போர்க்கைதிகள் உட்பட 74 பேருடன் பயணித்துக்கொண்டிருந்த விமானத்தை உக்ரைனே சுட்டுவீழ்த்தியது – ரஸ்யா
+### Ukraine shot the aircraft that was traveling with 74 people, including warlords - Russia
 
 *2024-01-25 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/174756) · `ta`
 
-74 பேருடன் பயணித்துக்கொண்டிருந்த விமானத்தை உக்ரைனே சுட்டுவீழ்த்தியதாக குற்றம்சாட்டியுள்ள ரஸ்யா விமானத்திலிருந்த அனைவரும் உயிரிழந்துவிட்டனர் என தெரிவித்துள்ளது.
+Russia, who alleges that Ukraine was shot dead by 74 people, said everyone was killed.
 
-போர்க்கைதிகள் பரிமாற்றத்திற்காக அழைத்துச்செல்லப்பட்ட உக்ரைன் போர்க்கைதிகளும் அந்த விமானத்திலிருந்தனர் எனவும் ரஸ்யா தெரிவித்துள்ளது.
+Russia also said that the Ukraine warriors were on the plane.
 
-கார்கிவ் பிராந்தியத்தின் லிப்ட்சி பகுதியிலிருந்து உக்ரைன் படையினர் இந்த விமானத்தை தாக்கியுள்ளனர் என தெரிவித்துள்ள ரஸ்ய பாதுகாப்பு அமைச்சு விமான எதிர்ப்பு ஏவுகணை பயன்படுத்தப்பட்டுள்ளது என குறிப்பிட்டுள்ளது.
+The Russian Defense Ministry has said that the Anti -Anti -Airport has been used by Ukrainian soldiers from the Liptzi region of the Karkiv region.
 
-உக்ரைன் இரண்டு ஏவுகணைகளை ஏவுவதை ரஸ்ய ராடர்கள் அவதானித்துள்ளன என ரஸ்யா தெரிவித்துள்ளது.
+Russia has said that Russian radars have observed two missiles launching Ukraine.
 
-பெலோகோரோட்டை நோக்கி வரும் எந்த விமானத்தையும் இலக்காக கருதுவதாக தெரிவித்துள்ள உக்ரைன் எனினும் விமானத்தை சுட்டுவீழ்த்தியதை ஏற்றுக்கொள்ளவில்லை.
+Ukraine, who said it was aimed at any aircraft coming to Pelocorot, but did not accept the shooting of the aircraft.
 
 ◼️
 
 [Data](articles/9203eccf.json)
+
+[Extended Data](ext_articles/9203eccf.ext.json)
 
 ---
 
@@ -88,71 +128,83 @@ He added that the apprehended Indian fishermen have been handed over to the Fish
 
 [Data](articles/2ef49caf.json)
 
+[Extended Data](ext_articles/2ef49caf.ext.json)
+
 ---
 
-### இன்று விசேட பாதுகாப்பு அமுல்படுத்தப்படும்
+### Special security will be implemented today
 
 *2024-01-25 10:32:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-விசேட-பாதுகாப்பு-அமுல்படுத்தப்படும்/175-332101) · `ta`
 
-சிவனொளிபாதமலை யாத்ரீகர்களின் பாதுகாப்பை உறுதிப்படுத்தும் வகையில் இன்றைய போயா தினத்தில் விசேட பாதுகாப்பு வேலைத்திட்டம் அமுல்படுத்தப்படுவதாக நல்லதண்ணி பொலிஸார் அறிவித்துள்ளனர்.
+The goodwill police have announced that a special security program is being implemented on today's Poya Day to ensure the safety of the pilgrims.
 
-ஆண்டின் முதல் போயா நாள் என்பதால், யாத்திரைக்கு வரும் பக்தர்களின் எண்ணிக்கை அதிகரித்துள்ளது. அவர்களில் பெரும்பாலானோர் ரயில்கள் மற்றும் பொதுப் போக்குவரத்து மூலம் வருவதால் தனியார் வாகனங்களின் பயன்பாடு கணிசமாகக் குறைந்துள்ளமை குறிப்பிடத்தக்கது.
+Since the first Poya day of the year, the number of pilgrims on the pilgrimage has increased.Significantly, the use of private vehicles has declined significantly as most of them come through trains and public transport.
 
 ◼️
 
 [Data](articles/048af6ec.json)
 
+[Extended Data](ext_articles/048af6ec.ext.json)
+
 ---
 
-### ”சட்டமூலத்தின் பொருளாதார விளைவுகளை கவனிக்க வேண்டும்”
+### “The economic consequences of the Bill must be noticed”
 
 *2024-01-25 10:27:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலத்தின்-பொருளாதார-விளைவுகளை-கவனிக்க-வேண்டும்/175-332100) · `ta`
 
-சமூக ஊடகங்களை ஒழுங்குபடுத்த வேண்டிய தேவையிருப்பினும் ஒன்லைன் பாதுகாப்பு சட்டமூலத்தின் பொருளாதார விளைவுகளை அரசாங்கம் பரிசீலிக்க வேண்டும் என ஐக்கிய மக்கள் சக்தியின் பாராளுமன்ற உறுப்பினர் ஹர்ஷ டி சில்வா நேற்று தெரிவித்தார்.
+United People's Power MP Harsha de Silva said yesterday that the government should consider the economic consequences of the Online Security Bill, though there is a need to regulate social media.
 
-"இ-வர்த்தகத்தில் சட்டமூலம் ஏற்படுத்தும் விளைவுகளை ஒருவர் கவனிக்க வேண்டும். நமது இளைஞர்களை இ-வர்த்தகம் மூலம் பொருளாதாரத்தில் பங்கு கொள்ளச் செய்ய வேண்டும். இவ்வாறான சட்டங்கள் இந்த வாய்ப்புகளை தடுக்கும்,'' என்றார்.
+"One must look at the consequences of the e-election. One must take part in the economy through e-commerce. These laws will prevent these opportunities."
 
-“ஒருவர் சமூக ஊடகங்களில் தேவையற்ற பதிவை பதிவேற்றுவதால், முகப்புத்தகம் மற்றும் யூ டியூப் போன்ற சேவை வழங்குநர்களை குற்றவாளிகளாக நீங்கள் கருத முடியாது,” என்று அவர் மேலும் கூறினார்.
+“You cannot consider service providers such as Homepage and YouTube as a person uploading an unnecessary post on social media,” he added.
 
 ◼️
 
 [Data](articles/1a41e9b3.json)
 
+[Extended Data](ext_articles/1a41e9b3.ext.json)
+
 ---
 
-### அதீத போதைப்பொருள் பாவனையால் யாழில் மற்றுமொரு இளைஞன் மரணம்
+### Another young man in Jaffna
 
 *2024-01-25 10:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அதீத-போதைப்பொருள்-பாவனையால்-யாழில்-மற்றுமொரு-இளைஞன்-மரணம்/71-332098) · `ta`
 
-யாழ்ப்பாணம் நகரை அண்டிய கலட்டி பகுதியில், போதைப்பொருளை அதீத அளவு நுகர்ந்த இளைஞன் ஒருவர் நேற்றைய தினம் உயிரிழந்துள்ளார்.
+A young man who consumed drugs died yesterday in Kalati area near Jaffna.
 
-உயிரிழந்த இளைஞனின் சடலம் பிரேத பரிசோதனைக்காக யாழ்.போதனா வைத்தியசாலையில் ஒப்படைக்கப்பட்ட நிலையில் , உடற்கூற்று பரிசோதனையில் இளைஞன் போதைப்பொருளை அதீத அளவு நுகர்ந்தமை கண்டறியப்பட்டுள்ளது.
+The body of the deceased has been handed over to the Jaffna Bodhana Hospital for autopsy.
 
-கடந்த சில தினங்களுக்கு முன்னர் சாவகச்சேரி பகுதியில் இளைஞன் ஒருவர் போதைப்பொருள் பாவனையால் உயிரிழந்தமை குறிப்பிடத்தக்கது.
+It is noteworthy that a young man died of drug use in Chavakachcheri in the last few days.
 
-போதைப்பொருள் தடுப்பு நடவடிக்கையாக பொலிசாரின் விசேட நடவடிக்கைக்கான "யுக்திய" நடவடிக்கை யாழ்ப்பாணத்திலும் தீவிரமாக முன்னெடுக்கப்பட்டு வரும் நிலையிலையே போதைப்பொருள் பாவனையால் குறித்த இரு மரணங்களும் நிகழ்ந்துள்ளமை குறிப்பிடத்தக்கது.  R
+It is noteworthy that the two deaths have been carried out in Jaffna as a drug prevention measures are being carried out in Jaffna.R
 
 ◼️
 
 [Data](articles/17d1632d.json)
 
+[Extended Data](ext_articles/17d1632d.ext.json)
+
 ---
 
-### கந்தகாட்டில் 50 கைதிகள் தப்பியோட்டம்
+### 50 prisoners escaped in Kandagad
 
 *2024-01-25 10:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/கந்தகாட்டில்-50-கைதிகள்-தப்பியோட்டம்/94-332097) · `ta`
 
-வெலிகந்தை கந்தகாட்டு புனர்வாழ்வு நிலையத்தில் மீண்டும் கைதிகளுக்கிடையே ஏற்பட்ட மோதலையடுத்து அங்கிருந்து 50 கைதிகள்   புதன்கிழமை (24) இரவு தப்பியோடிவிட்டனர்.  அவர்களை தேடும் நடவடிக்கையினை பொலிசார் இராணுவத்தினருடன் இணைந்து தேடும் நடவடிக்கையினை முன்னெடுத்துவருவதாக வெலிகந்தை பொலிஸார் தெரிவித்தனர்.
+Fifty prisoners fled on Wednesday night after a clash between prisoners at the Welikanda Kandagatu Rehabilitation Center.Welikanda police said that the police are searching for the search for them with the military.
 
-குறித்த புனர்வாழ்வு நிலையத்தில் சம்பவதினமான புதன்கிழமை (24) பகல் இரு கைதிகளுக்குள் ஏற்பட்ட சண்டையில் இருவரும் காயமடைந்து வைத்தியசாலையில் சிகிச்சையளிக்கப்பட்டு மீண்டும் புனர்வாழ்வு நிலையத்திற்கு கொண்டுவரப்பட்டனர்.
+On Wednesday (24), the two were injured in a fight between two prisoners on Wednesday (24).
 
-இந்த நிலையில் அங்கு மீண்டும் இரவு புனர்வாழ்வு அளிக்கப்பட்டுவரும் கைதிகளுக்கிடையே மாத்தறை, காலி, ஹம்பாந்தோட்டை போன்ற பிரதேசவாதத்தின் அடிப்படையில் கலகம் ஏற்பட்ட நிலையில் அங்கிருந்து பாதுகாப்பு வேலியை உடைத்து  50 பேர்வரை தப்பியோடியுள்ளனர்.
+In the meantime, the rehabilitation of the rehabilitated prisoners has been rebellious on the basis of regionalism like Matara, Galle and Hambantota.
 
-இவ்வாறு தப்பியோடியவர்கள் அந்த பகுதி காட்டில் தலைமறைவாகியுள்ளதையடுத்து அந்தபகுதியை பொலிஸார் இராணுவத்துடன் இணைந்து சுற்றிவளைத்து தேடும் நடவடிக்கை முன்னெடுத்துள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The police said that the fugitives were in hiding in the forest and the police had taken steps to raid the area with the army.
 
-...
+Meanwhile, more than a thousand people who are addicted to alcohol have been rehabilitated and there are a number of reasons, including territorial fighting and food supplied among them, and there is a continuation of the safety fence and the safety fence continues to be broken out.
+
+◼️
 
 [Data](articles/e1b9772a.json)
+
+[Extended Data](ext_articles/e1b9772a.ext.json)
 
 ---
 
@@ -174,6 +226,8 @@ After a long pause, the Ukrainian military said it would continue to destroy Rus
 
 [Data](articles/35718298.json)
 
+[Extended Data](ext_articles/35718298.ext.json)
+
 ---
 
 ### New choice for the post of Sanath; change in seats
@@ -192,17 +246,19 @@ Accordingly, Priyankara is the district leader of the National Freedom Front led
 
 ---
 
-### சனத்தின் வெற்றிடத்துக்கு ஜகத் பிரியங்கர
+### Jagath Priyankara to the vacuum of the people
 
 *2024-01-25 10:05:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்தின்-வெற்றிடத்துக்கு-ஜகத்-பிரியங்கர/175-332096) · `ta`
 
-இன்று காலை நிகழ்ந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் திடீர் மரணத்தினால் ஏற்பட்ட வெற்றிடத்திற்கு தேசிய சுதந்திர முன்னணி ஜகத் பிரியங்கர நியமிக்கப்படவுள்ளார்.
+The National Freedom Front will be appointed to the vacancy caused by the sudden death of Minister of State Sanath Nishantha this morning.
 
-இதன்படி, விமல் வீரவங்ச தலைமையிலான தேசிய சுதந்திர முன்னணியின் மாவட்டத் தலைவராக பிரியங்கர இருப்பதால், அவர் தனது கட்சியை பிரதிநிதித்துவப்படுத்தும் மற்ற பாராளுமன்ற உறுப்பினர்களுடன் எதிர்க்கட்சியில் அமர்ந்திருப்பதால், அரசாங்கம் ஒரு ஆசனத்தை இழக்கும்.
+Accordingly, Priyankara is the district leader of the National Freedom Front led by Wimal Weerawansa, and the government will lose a seat with other MPs representing his party.
 
 ◼️
 
 [Data](articles/b5d2f0f0.json)
+
+[Extended Data](ext_articles/b5d2f0f0.ext.json)
 
 ---
 
@@ -576,21 +632,23 @@ In this case, the State Minister and the Security Police Officer have died. Poli
 
 ---
 
-### விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த பலி
+### State Minister Sanath Nishantha kills in accident
 
 *2024-01-25 07:03:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரசித்த-செய்தி/விபத்தில்-இராஜாங்க-அமைச்சர்-சனத்-நிஷாந்த-பலி/150-332094) · `ta`
 
-கட்டுநாயக்க அதிவேக வீதியில் இடம்பெற்ற வாகன விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த உயிரிழந்துள்ளார்.
+State Minister Sanath Nishantha has died in a vehicle accident on the Katunayake Expressway.
 
-கட்டுநாயக்க பகுதியிலிருந்து கொழும்பு நோக்கி பயணித்த இராஜாங்க அமைச்சர் பயணித்த வாகனம், அதே திசையில் பயணித்த லொறி ஒன்றின் பின்புறத்தில் மோதுண்டு விபத்துக்குள்ளானதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say the vehicle traveling from Katunayake to Colombo crashed into the back of a lorry that was traveling in the same direction.
 
-இந்த விபத்தில் காயமடைந்த இராஜாங்க அமைச்சர் உள்ளிட்ட சிலர் ராகம வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Some people, including the Minister of State, who were injured in the accident, have been admitted to the Ragama Hospital.
 
-இந்த நிலையில், இராஜாங்க அமைச்சர் மற்றும் பாதுகாப்பு பொலிஸ் அதிகாரி ஆகியோர் உயிரிழந்துள்ளனர்.
+In this case, the Minister of State and the Security Police Officer died.
 
 ◼️
 
 [Data](articles/e3f5fe8a.json)
+
+[Extended Data](ext_articles/e3f5fe8a.ext.json)
 
 ---
 
@@ -1876,6 +1934,24 @@ Standard Chartered has announced the appointment of Rukshila Seneviratne as the 
 
 ---
 
+### විදුලි ඉල්ලුම ගිගාවොට් පැය 45ක් දක්වා ඉහළට
+
+*2024-01-24 20:42:24* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ඉල්ලුම-ගිගාවොට්-පැය-45ක්-දක්වා-ඉහළට/11-407719) · `si`
+
+වියළි කාලගුණ තත්වයත් සමග දෛනික විදුලි ඉල්ලුම් මේ වන ගිගාවොට් පැය 45ක්  දක්වා ඉහළ ගොස් තිබෙන බවත්, වියළි කාලගුණ තත්වය නිසා ජලවිදුලි නිෂ්පාදනය  අඩු වෙමින් තිබෙන බවත් විදුලිබල මණ්ඩලය සඳහන් කරයි.
+
+පසුගිය දිනවල පැවැති වැසි තත්වය නිසා දෛනික විදුලි ඉල්ලුම ගිගාවොට් පැය 40-42 අතර ප්‍රමාණයක පැවති බවත්, ජලවිදුලි නිෂ්පාදනය  75%  ඉක්මවා ගොස් තිබූ බවත්, මීට සාපේක්ෂව තාප විදුලි නිෂ්පාදනය 20% කට අඩු මටට්මක පැවති බවද මණ්ඩලය පෙන්වා දෙයි.
+
+ඊයේ (24දා) උදේ 6.00න් අවසන් වූ පැය 24 ක කාලය සැලකීමෙහිදී  විදුලි ඉල්ලුම ගිගාවොට් පැය 45.73 ක් වූ බවත්, එම විදුලි ප්‍රමාණයෙන්  50.17% ක් නිෂ්පාදනය කර තිබෙන්නේ තාප විදුලියෙන් (ඉන්ධන ගල් අඟුරු) බවත් සඳහන් කරයි.
+
+මහා පරිමාණ ජල මූලාශ්‍ර ආශ්‍රිතව පිහිටුවා තිබෙන ජලවිදුලි බලාගාරවලින් 34.46෴ ක විදුලි ප්‍රමාණයක් හා කුඩා ජලමූලාශ ආශ්‍රිතව පිහිටුවා තිබෙන ජලවිදුලිබලාගාරවලින් 7.12% ක විදුලි ප්‍රමාණයක් නිෂ්පාදනය කර තිබෙන අතර ඉතිරි විදුලි ප්‍රමාණය පුනර්ජනනිය බලශක්ති ක්‍රම මගින් නිෂ්පාදනය කරගෙන තිබේ.
+
+◼️
+
+[Data](articles/1351d1fb.json)
+
+---
+
 ### Teejay Lanka & Hemas collaborate to promote menstrual hygiene in rural schools
 
 *2024-01-24 20:42:00* · [`islandlk`](http://island.lk/teejay-lanka-hemas-collaborate-to-promote-menstrual-hygiene-in-rural-schools/) · `en`
@@ -1927,73 +2003,5 @@ Turnover stood at Rs 589 million with two crossings. Those crossings were report
 [Data](articles/7d1b1411.json)
 
 [Extended Data](ext_articles/7d1b1411.ext.json)
-
----
-
-### Sri Lanka Youth squad by 77 runs
-
-*2024-01-24 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192526) · `si`
-
-Sri Lanka Youth Group won the second match of the Under-19 World Cup in South Africa.
-
-Namibia Leader won the toss and invited the Sri Lanka Youth group to bat first.
-
-Accordingly, the Sri Lankan youth group was able to score only 37 overs and at last five overs and at the end of 5 balls.
-
-The highest scorer of Sri Lankan innings received unbeaten on 56 not out.
-
-A strong challenge for the Sri Lanka Youth group took four wickets.
-
-In reply, Namibia Youth team was able to score only 56 runs in 27 overs.
-
-The Namibia is also not allowed to allow any batsmen except for a batsman.
-
-Ravishan Perera was divided into three wickets and two wickets among the winter and universities.
-
-◼️
-
-[Data](articles/0630889f.json)
-
-[Extended Data](ext_articles/0630889f.ext.json)
-
----
-
-### The daughter's house was not gold horses
-
-*2024-01-24 20:23:15* · [`adalk`](https://www.ada.lk/breaking_news/දුවගේ-ගෙදර-රත්තරන්-අශ්වයෝ-හිටියේ-නෑ/11-407718) · `si`
-
-Former Polonnaruwa District MP Maithripala Sirisena said that a gold sword on a gem stone was given by the Russian President.
-
-He was speaking at the debate on the security system of the system of things that the speech of the old daughter was in gold horses.
-
-Accordingly, he said
-
-"The thieves of my big daughter's house was broken. There was some things that drink like a packet of milk packet. The gold horses had nothing at home. When I visited Qatar, a head of state found the gift. I've placed it in the museum of Polonnaruwa. I've used a museum in the museum. No President has made a museum in this country.
-
-Colombo Museum Museum. But I spent a billions of crores and built a large building.
-
-One who read a papers of a media institution in the daughter's house was very unugical. When a gift was given to the head of the head of the head of the daughter, he asked when it was right. During Qatar, the country's leader also had about ten lakh watches.
-
-...
-
-[Data](articles/6c440d6e.json)
-
-[Extended Data](ext_articles/6c440d6e.ext.json)
-
----
-
-### Drug transaction: 7 people extended to 7
-
-*2024-01-24 20:20:14* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மருந்து-கொடுக்கல்-வாங்கல்-7-பேருக்கு-விளக்கமறியல்-நீடிப்பு/175-332067) · `ta`
-
-Seven persons, including former Secretary of Health, Janaka Chandragupta, who were arrested in connection with the controversial Human immunoglobulin drug transaction, have continued to be kept in detention until the first day.
-
-When the case was taken up for hearing at the Magistrate's Court today, the explanation order was extended.. Remble
-
-◼️
-
-[Data](articles/27b32bc5.json)
-
-[Extended Data](ext_articles/27b32bc5.ext.json)
 
 ---

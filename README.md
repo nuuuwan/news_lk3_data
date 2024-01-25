@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 12:49:43**
+As of **2024-01-25 13:02:21**
 
 ## Newspaper Stats
 
-*Scraped **2,549** Articles*
+*Scraped **2,551** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 146
 economynextcom | 152
 dailyftlk | 194
 adaderanasinhalalk | 206
-adalk | 246
+adalk | 247
 virakesarilk | 281
-adaderanalk | 316
+adaderanalk | 317
 tamilmirrorlk | 325
 dailymirrorlk | 338
 
@@ -26,11 +26,29 @@ dailymirrorlk | 338
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,549 (100.0%) of 2,549 articles have been extended.
+2,549 (99.9%) of 2,551 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### ‘Major blow to human rights’: Amnesty International slams newly passed Online Safety Bill
+
+*2024-01-25 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96718/major-blow-to-human-rights-amnesty-international-slams-newly-passed-online-safety-bill) · `en`
+
+Amnesty International says the Online Safety Bill, freshly passed in Sri Lanka parliament on Wednesday (Jan.24), is a ‘major blow’ to human rights in the country.
+
+Commenting in this regard, Thyagi Ruwanpathirana, Regional Researcher for South Asia at the international rights organisation said this legislation is the ‘newest weapon in the government’s arsenal of tools’ that could be used to undermine freedom of expression and suppress dissent.
+
+She urged the Sri Lankan authorities to immediately withdraw the Online Safety Bill and ensure respect for the human rights of everyone in the country.
+
+The Online Safety Bill, which seeks to regulate online content, received the parliamentary majority on Wednesday evening, amidst objections from opposition politicians and activists who raised alarm that the new law would muzzle free speech.
+
+...
+
+[Data](articles/17d43718.json)
+
+---
 
 ### Shot at a temple
 
@@ -533,6 +551,22 @@ Meanwhile, a jeep who had been on the right route 26 main road in the Pallekele 
 [Data](articles/8bad562f.json)
 
 [Extended Data](ext_articles/8bad562f.ext.json)
+
+---
+
+### බස් රියට කොස්තාපල් බිලි
+
+*2024-01-25 08:13:15* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රියට-කොස්තාපල්-බිලි/11-407721) · `si`
+
+තිස්සමහාරාම - කතරගම මාර්ගයේ පුංචි අකුරගොඩ  ප්‍ර දේශයේදී බස් රථයක් හා යතුරු පැදියක් ගැටීමෙන් සිදුවූ අනතුරකින් යතුරු පැදියේ ගමන් කළ 22 හැවැරිදි කොස්තාපල්වරයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+
+තිස්ස - කතරගම පුද්ගලික බස් රථයක් මාර්ගයේ ද්විත්ව රේඛාව කපා ට්‍රැක්ටරයකට ඉස්සර කර ගමන් කිරීමේදි ප්‍රතිවිරුද්ධ දිශාවෙන් පැමිණි යතුරු පැදියේ ගැටී මෙම අනතුර සිදුව තිබේ.
+
+අනතුරින් ජීවිතක්ෂයට පත්ව ඇත්තේ කතරගම පොලිස් ස්ථානයට අනියුක්තව සේවය කළ වැලිමඩ පදිංචිකරුවෙකි. අවුරුුු 39ක් වන බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර මෘත ශරිරය දෙබරවැව රෝහලේ තැන්පත් කර තිබේ.
+
+◼️
+
+[Data](articles/0def1229.json)
 
 ---
 
@@ -1987,35 +2021,5 @@ The police constable was seriously injured and died on admission to the Debarawe
 [Data](articles/fe9176f8.json)
 
 [Extended Data](ext_articles/fe9176f8.ext.json)
-
----
-
-### Loops Integrated’s teams dominate the Young Spikes Competition in the Digital Category
-
-*2024-01-24 20:49:00* · [`islandlk`](http://island.lk/loops-integrateds-teams-dominate-the-young-spikes-competition-in-the-digital-category/) · `en`
-
-In a remarkable achievement, Amaya Suriyapperuma & Arqam Anjath from Loops Integrated emerged as the winners in the Young Spikes Digital category, while Oken Silva & Sachintha Naotunna secured the prestigious 2nd runners-up position. The competition featured 22 teams from distinguished advertising agencies in Sri Lanka, showcasing the industry’s top digital talents.
-
-A panel of 6 judges presided over the event, with the winning decision reaching a unanimous consensus. The local competition, facilitated by the 4A’s (Accredited Advertising Agencies Association), provided a platform for the teams to exhibit their creativity and digital prowess.
-
-...
-
-[Data](articles/129ab3c1.json)
-
-[Extended Data](ext_articles/129ab3c1.ext.json)
-
----
-
-### Falmouth University, UK’s No. 1 Arts University, strengthens global partnerships through inspiring visit to AMDT School of Creativity
-
-*2024-01-24 20:48:00* · [`islandlk`](http://island.lk/falmouth-university-uks-no-1-arts-university-strengthens-global-partnerships-through-inspiring-visit-to-amdt-school-of-creativity/) · `en`
-
-The AMDT School of Creativity recently had the privilege of hosting key officials from Falmouth University, with which it is affiliated, offering globally recognized Falmouth University BA (Hons) Degrees in Sri Lanka. Falmouth University holds a world class reputation as the No. 1 Arts University in the UK according to The Times and The Sunday Times Good University Guide 2023, and is also ranked among the top 50 universities globally for Creative Media and Entertainment by The Rookies, whilst also being recognized as one of the Best 20 Universities in the World for Concept Art & Illustration Schools in 2023.
-
-...
-
-[Data](articles/e8a3301f.json)
-
-[Extended Data](ext_articles/e8a3301f.ext.json)
 
 ---

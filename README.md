@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 00:32:42**
+As of **2024-01-26 00:48:25**
 
 ## Newspaper Stats
 
-*Scraped **2,628** Articles*
+*Scraped **2,629** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,16 +19,36 @@ adaderanasinhalalk | 225
 adalk | 255
 virakesarilk | 286
 adaderanalk | 330
-tamilmirrorlk | 333
+tamilmirrorlk | 334
 dailymirrorlk | 354
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,628 (100.0%) of 2,628 articles have been extended.
+2,628 (100.0%) of 2,629 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-01-26 (Friday)
+
+### ஐவர் சுட்டுக்கொலை - நீதிமன்றம் அதிரடி உத்தரவு
+
+*2024-01-26 00:04:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐவர்-சுட்டுக்கொலை-நீதிமன்றம்-அதிரடி-உத்தரவு/175-332125) · `ta`
+
+பெலியத்தை பகுதியில் மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டில் ஐவர் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் கைது செய்யப்பட்ட சந்தேக நபரை தடுத்து வைத்து விசாரிக்க நீதிமன்றம் இன்று (25) அனுமதி வழங்கியுள்ளது.
+
+குறித்த சந்தேக நபர் இன்று தெய்யந்தர நீதிவான் முன்னிலையில் ஆஜ்படுப்படுத்தப்பட்டபோது சந்தேக நபரை எதிர்வரும் 27ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறும் உத்தரவு பிறப்பிக்கப்பட்டது.
+
+அக்குரஸ்ஸ, பங்கம பிரதேசத்தில் வைத்து நேற்று (24) கைது செய்யப்பட்ட சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போது மேலும் பல முக்கிய தகவல்கள் வெளியாகியுள்ளன.
+
+குறித்த நபரே இந்தத் தாக்குதலுக்கு மூளையாகச் செயற்பட்டவர் என சந்தேகிக்கப்படுவதாகவும் பொலிஸார் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/d00ee312.json)
+
+---
 
 ### 2024-01-25 (Thursday)
 
@@ -2043,23 +2063,5 @@ He was also able to hold the Acting Chief Minister on one occasion in the provin
 [Data](articles/9688f50e.json)
 
 [Extended Data](ext_articles/9688f50e.ext.json)
-
----
-
-### Fatal shells at a refugee center
-
-*2024-01-25 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192544) · `si`
-
-Nine personnel were killed in a refugee center who was run by the United Nations in the South Gaza.
-
-Foreign media reports that 75 others were injured in the hospital.
-
-However, Israel says that the attack has not been carried out by his troops.
-
-◼️
-
-[Data](articles/073f4b17.json)
-
-[Extended Data](ext_articles/073f4b17.ext.json)
 
 ---

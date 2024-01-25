@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 20:17:20**
+As of **2024-01-25 20:32:58**
 
 ## Newspaper Stats
 
-*Scraped **2,610** Articles*
+*Scraped **2,615** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,38 @@ newsfirstlk | 144
 islandlk | 147
 economynextcom | 152
 dailyftlk | 194
-adaderanasinhalalk | 220
+adaderanasinhalalk | 221
 adalk | 255
-virakesarilk | 284
+virakesarilk | 286
 adaderanalk | 327
 tamilmirrorlk | 331
-dailymirrorlk | 348
+dailymirrorlk | 350
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,606 (99.8%) of 2,610 articles have been extended.
+2,610 (99.8%) of 2,615 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### පිළිකාව සුව කරන්න ජලයේ ගිල්වූ දරුවා මරුට
+
+*2024-01-25 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192567) · `si`
+
+ලේ පිළිකාවකින් පීඩා විඳිමින් සිටි 07 හැවිරිදි දරුවෙකු ගංඟා නදියේ විනාඩි 15ක කාලයක් ගිල්වා තැබීමෙන් මියයාමේ පුවතක් ඉන්දියාවෙන් වාර්තා වෙයි.
+
+දරුවාගේ මව්පියන් මෙලෙස දරුවා ජලයේ ගිල්වා ඇති බව වාර්තා වෙයි.
+
+විදෙස් මාධ්‍ය සඳහන් කළේ දරුවාගේ දෙමාපියන් විසින් මෙලෙස දරුවාව ගංගා නදියේ ජලයේ ගිල්වා ඇත්තේ, ජලයේ ගිල්වීමෙන් පසු ආශ්චර්යකින් ඔහුට වැළදී ඇති පිළිකාව සුවවනු ඇති බවට වූ අන්ධ විශ්වාසයක් හේතුවෙනි.
+
+◼️
+
+[Data](articles/3282b8a4.json)
+
+---
 
 ### Remains of late State Minister Sanath Nishantha lie in state
 
@@ -47,6 +63,8 @@ The casket will be brought to the late state minister’s residence in Puttalam 
 ◼️
 
 [Data](articles/a1b1ac3b.json)
+
+[Extended Data](ext_articles/a1b1ac3b.ext.json)
 
 ---
 
@@ -83,6 +101,22 @@ In the meantime, the UNDP pledged its technical assistance for the future progre
 [Data](articles/ca30d9db.json)
 
 [Extended Data](ext_articles/ca30d9db.ext.json)
+
+---
+
+### Laws in the offing to institute raping of male children as criminal offense
+
+*2024-01-25 18:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Laws-in-the-offing-to-institute-raping-of-male-children-as-criminal-offense/108-275715) · `en`
+
+Colombo, Jan. 25 (Daily Mirror)- The government is in the process of introducing amendments to the Penal Code to institute raping of male children as a criminal offense, amend laws on constitutional rape of females mentioned in the Penal Code and to correct the shortcomings in the law of raping of females.
+
+Approval has already been granted by the Cabinet at the meetings held on 18.01.2021 and 28.06.2021 to introduce amendments to the Penal Code to amend laws on constitutional rape of females mentioned in the Penal Code, to correct shortcomings in the law of raping of females and to institute raping of male children as a criminal offense.
+
+Accordingly, the Legal Draftsman has formulated the draft bill and the clearance of the Attorney General has also been granted.
+
+...
+
+[Data](articles/20728f4c.json)
 
 ---
 
@@ -162,19 +196,55 @@ Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestio
 
 ---
 
-### හෙට වැස්ස නෑ - නුවරඑළියට මල් තුහින
+### நாடு முழுவதிலும் ஏற்றுமதி வலயங்கள் நிறுவப்படும் - ஜனாதிபதி தெரிவிப்பு
+
+*2024-01-25 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/174799) · `ta`
+
+பியகமவை முன்மாதிரியாகக் கொண்டு அடுத்த சில வருடங்களுக்குள் நாட்டை முன்னேற்றுவதாக ஜனாதிபதி ரணில் விக்ரமசிங்க உறுதியளித்தார்.
+
+தனது அரசியல் வாழ்க்கையை ஆரம்பித்த பியகம தேர்தல் தொகுதிக்கு அன்று தான் வந்த போது அந்தப் பிரதேசம் மிகவும் பின்தங்கிய நிலையில் இருந்ததாக சுட்டிக்காட்டிய ஜனாதிபதி, பியகம முதலீட்டு வலயத்தை நிறுவுதல்  உள்ளிட்ட  சரியான பொருளாதார தீர்மானங்களினால் பியகம மிக குறுகிய காலத்தில் பெரும் முன்னேற்றத்தை அடைந்துள்ளதெனவும் தெரிவித்தார்.
+
+அதே முறையில், திறந்த பொருளாதாரத்தில் முழுமையாகப் பயனடையும் வகையில் நாடு முழுவதும் புதிய முதலீட்டு வலயங்களை உருவாக்கி, தேசிய பொருளாதாரத்தை பத்து மடங்கு மேம்படுத்த நடவடிக்கை எடுப்பதாகவும் ஜனாதிபதி தெரிவித்தார்.
+
+சபுகஸ்கந்த அபேசேகரராமவில் புதிதாக நிர்மாணிக்கப்பட்ட போதி மதில் மற்றும் தங்க வேலி திறப்பு நிகழ்வில் வியாழக்கிழமை (25) முற்பகல் கலந்து கொண்டபோதே ஜனாதிபதி ரணில் விக்ரமசிங்க இவ்வாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/bc1a7ef6.json)
+
+---
+
+### No rain tomorrow - Nuwara Eliya
 
 *2024-01-25 18:07:38* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැස්ස-නෑ---නුවරඑළියට-මල්-තුහින/11-407729) · `si`
 
-හෙට දිනයේදී දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතිනු ඇතැයි අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Department of Meteorology says that tomorrow is a key weather in the island tomorrow.
 
-හිමිදිරි උදෑසන කාලයේදී නුවරඑළිය දිස්ත්‍රික්කයේ ඇතැම් සරථානවල මල්තුහින ඇතිවීමේ හැකියාවක් පවතින බවද එම දෙපාර්තමේන්තුව පවසයි.
+The Department says that there is a possibility of failure in the Nuwara Eliya district in the Nuwara Eliya district.
 
-මධ්‍යම, සබරගමුව, බස්නාහිර හා ඌව පළාත්තවලත්ත ගාල්ල හා මාතර දිස්ත්‍රික්කවලත් ඇතැම් සරථානවල උදෑසන කාලහේදී මීදුම් සහිත තත්තත්තවයක් අපේක්ෂා කරන බවද එම දෙපාර්තමේන්තුව වැඩිදුරටත් දන්වා සිටියි.
+The Department further stated that some of the morning in the Central, Sabaragamuwa, Western and Uva Palaturawela districts are expected to be met with Meaththewa.
 
 ◼️
 
 [Data](articles/0e44dc7f.json)
+
+[Extended Data](ext_articles/0e44dc7f.ext.json)
+
+---
+
+### A man who bathing in the sea of Kaduwela dies: The other is magic!
+
+*2024-01-25 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/174796) · `ta`
+
+Two of the two men who were bathing in the Kaduwela Sea in Hambantota have died and the other disappeared, police said.
+
+The body of a 35 -year -old man has been recovered and a 25 -year -old man has disappeared, police said.
+
+◼️
+
+[Data](articles/5c870fe1.json)
+
+[Extended Data](ext_articles/5c870fe1.ext.json)
 
 ---
 
@@ -196,6 +266,24 @@ He referred to postings on death cannot be approved.
 
 ---
 
+### Man held for raping elderly aunt for two years
+
+*2024-01-25 17:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-held-for-raping-elderly-aunt-for-two-years/108-275714) · `en`
+
+Anuradhapura, Jan. 25 (Daily Mirror)- A 38-year-old man from Kekirawa has been arrested for allegedly raping his aunt, an elderly woman who was caring for her ailing brother.
+
+The victim, who is unmarried, told police that she had been raped under threat of death for about two years.
+
+The suspect was arrested yesterday morning and is due to be produced before the Kikirawa Magistrate's Court today.
+
+The Women and Children's Bureau of Kekirawa Police are conducting further investigations.
+
+◼️
+
+[Data](articles/8985b875.json)
+
+---
+
 ### The President expressed his condolences to Sanath Nishantha's residence
 
 *2024-01-25 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174797) · `ta`
@@ -212,19 +300,21 @@ The President expressed his condolences to his family members over the sudden de
 
 ---
 
-### A man who bathing in the sea of Kaduwela dies: The other is magic!
+### அனைத்து தமிழ் அரசியல் கட்சிகளுக்கும் வடக்கு, கிழக்கு ஒருங்கிணைப்புக் குழு முன்வைத்துள்ள 11 கோரிக்கைள்
 
-*2024-01-25 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/174796) · `ta`
+*2024-01-25 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174795) · `ta`
 
-Two of the two men who were bathing in the Kaduwela Sea in Hambantota have died and the other disappeared, police said.
+ஐக்கிய இலங்கைக்குள் இணைந்த வடக்கு கிழக்கு மாகாணத்துக்கு மீளப் பெறமுடியாத சமஸ்டி முறையிலான அதிகாரப் பகிர்வான தீர்வை பெறுவதற்காக நாங்கள் முன்வைக்கும் 11 கோரிக்கைகளை அனைத்து தமிழ் அரசியல் கட்சிகளும் கட்சிகளும் உடனடியாகக் கவனம் செலுத்த வேண்டும் என ஒருங்கிணைப்பாளர் கண்டுமணி லவகுகராசா தெரிவித்தார்.
 
-The body of a 35 -year -old man has been recovered and a 25 -year -old man has disappeared, police said.
+இது தொடர்பில் வடக்கு கிழக்கு ஒருங்கிணைப்புக் குழு ஒருங்கிணைப்பாளர்  கண்டுமணி லவகுகராசா வியாழக்கிழமை (25) ஊடக அறிக்கை ஒன்றை வெளியிட்டுள்ளார்.
 
-◼️
+தமிழ்த் தேசிய அரசியலின் வரலாற்றிலும், தமிழரசுக் கட்சியின் வரலாற்றிலும் முதன்முதல் வாக்கெடுப்பு மூலம் கட்சித் தலைமையை தெரிவு செய்வது ஜனநாயகப் பண்பை வரவேற்பதோடு இது நிலைத்திட வேண்டும்.
 
-[Data](articles/5c870fe1.json)
+இலங்கை நாட்டின் உள்ளக அரசியல், பிராந்திய அரசியல் மற்றும் சர்வதேச சூழல் ஆகியன சிக்கல்மிக்கதாகக் காணப்படும் தற்போதைய சூழலில், தமிழரசுக் கட்சியின் தலைமைத்துவத்தைப் பொறுப்பேற்றிருக்கும் பாராளுமன்ற உறுப்பினர் சிவஞானம் சிறிதரன் முன்னால் பாரிய கடப்பாடுகள் உள்ளது. வீழ்ச்சியடைந்திருக்கும் தமிழ்த் தேசிய அரசியலை பரந்துபட்ட மக்களின் பங்கேற்புடன் மீளவும் கட்டியெழுப்ப வேண்டும்.
 
-[Extended Data](ext_articles/5c870fe1.ext.json)
+...
+
+[Data](articles/ea5f8919.json)
 
 ---
 
@@ -250,19 +340,21 @@ A group of five people had arrived in the sea, and three of them had gone to the
 
 ---
 
-### විදුහල්පති දීමනාව රු. 9000කින් වැඩි කිරීමට නිර්දේශ
+### Principal Allowance. Recommendations to increase by 9000
 
 *2024-01-25 17:27:18* · [`adalk`](https://www.ada.lk/breaking_news/විදුහල්පති-දීමනාව-රු--9000කින්-වැඩි-කිරීමට-නිර්දේශ/11-407728) · `si`
 
-විදුහල්පති සේවයේ මෙතෙක් නොවිසඳී පැවැති ගැටලු‍ විසඳීමට සහ එම සේවාවේ වෘත්තීය ස්වභාවය උසස්කොට අධ්‍යාපන ප්‍රතිසංස්කරණවලට ගැළපෙන ලෙස සංවර්ධනය කිරීමට අධ්‍යාපන අමාත්‍ය ආචාර්ය සුසිල් ප්‍රේමජයන්ත මහතා විසින් පත් කරන ලද කමිටුවේ වාර්තාව අමාත්‍යවරයා වෙත භාරදෙන ලදී.
+Minister of Education Susil Premajayantha handed over the report of the committee appointed by Education Dr. Susil Premajayantha, the Minister of Education Dr. Susil Premajayantha to solve the issues of the Principal and to meet the professional nature of the service.
 
-මෙම වාර්තාවෙහි ප්‍රධාන කරුණු හයක් ඔස්සේ ගැටළු අධ්‍යයනය හා අදාළ නිර්දේශ ඉදිරිපත් කර ඇත.  විදුහල්පති සේවාව පිළිගත් වෘත්තීයක් ලෙස දියුණු කිරීම, විදුහල්පති සේවය පිළිබඳ ජාතික ප්‍රතිපත්ති සැකසීම, සේවා ව්‍යවස්ථාව සංශෝධනය කර අනාගතයට සුදුසු පරිදි ව්‍යුහගත කිරීම, විදුහල්පති කාර්යභාරය, වගකීම් හා වගවීම්. විදුහල්පතිවරුන්ගේ වැටුප් දීමනා වරප්‍රසාද හා කුසලතා වර්ධනය සඳහා අවස්ථා සහ අධ්‍යාපන ප්‍රතිසංස්කරණ ක්‍රියාත්මක කිරීමේ කාර්යභාරය යන කරුණු මීට ඇතුළත් ය.
+The report has been submitted along with six key points in this report.Principal's Service, a recognized professional and the preparation of the Principals' Service. These include opportunities for the proceeds and skills development of principals and the role of implementing education reforms.
 
-දැනට 16,000කට අධික නිලධාරීන් පිරිසක් සිටින විදුහල්පති සේවයේ iii, ii, i ශ්‍රේණිවලට අයත්  විදුහල්පති නියෝජ්‍ය විදුහල්පති හා උප විදුහල්පතිවරුන්ගේ සේවා අභිවෘද්ධිය හා පාසල් පද්ධතියේ නව අවශ්‍යතා සලකා විදුහල්පති අධිශ්‍රේණියක් ඇති කිරීමට නිර්දේශ කොට ඇත.
+The Principals of the Principals and Vice Principals of the Principal of the Principals and Vice Principals of the Principal of the Principals and Vice Principals of the Principal of the Principals and Vice Principals of the Principals and Vice Principals of the Principal of the Principals and Vice Principals of the Principal of the Principals and Vice Principals of the school system have been recommended.
 
 ...
 
 [Data](articles/161f8d25.json)
+
+[Extended Data](ext_articles/161f8d25.ext.json)
 
 ---
 
@@ -328,21 +420,23 @@ The body of a 35-year-old male has been recovered so far while a search is ongoi
 
 ---
 
-### රට පුරා නව ආයෝජන කලාප ඇති කරනවා
+### New Investment Zones throughout the country
 
 *2024-01-25 17:13:43* · [`adalk`](https://www.ada.lk/breaking_news/රට-පුරා-නව-ආයෝජන-කලාප-ඇති-කරනවා/11-407726) · `si`
 
-බියගම උදාහරණයට ගෙන ඉදිරි වසර කිහිපය තුළ රටම ඉදිරියට ගෙන යාමට කටයුතු කරන බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා අවධාරණය කළේය.
+President Ranil Wickremesinghe stressed that he will continue to be promoted to the country in the next few years.
 
-තම දේශපාලන ජීවිතය ආරම්භ කළ බියගම ආසනයට එදා තමා පැමිණෙන විට එම ප්‍රදේශය ඉතා නොදියුණු ප්‍රදේශයක්ව තිබූ බව සිහිපත් කළ ජනාධිපතිවරයා බියගම ආයෝජන කලාපය ඇති කිරීම ඇතුළුව එදා තමා ගත් නිවැරදි ආර්ථික තීන්දු තීරණ හේතුවෙන් බියගම ඉතා කෙටි කලක් තුළ විශාල දියුණුවක් ලැබූ බව සඳහන් කළේය.
+The President recalled that the area was a highly advanced area when he began his political career, the President said that Biyagama had made great advancement in a very short time due to the accurate economic decisions of the Biyagama Investment Zone.
 
-ඒ අයුරින් විවෘත ආර්ථිකයෙන් උපරිම ප්‍රයෝජන ගනිමින් රට පුරා නව ආයෝජන කලාප ඇති කර මෙරට ජාතික ආර්ථිකය දස ගුණයකින් ඉහළ නංවා ගැනීමට කටයුතු කරන බවද ජනාධිපතිවරයා පැවසීය.
+The President also said that this will take full advantage of the open economy and increase new investment zones throughout the country.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මේ බව සඳහන් කර සිටියේ, සපුගස්කන්ද අබේසේකරාරාමයේ අභිනවයෙන් ඉදිකරන ලද බෝධි ප්‍රාකාරය සහ රන් වැට විවෘත කිරීමේ අවස්ථාවට අද (25) පෙරවරුවේ එක්වෙමිනි.
+President Ranil Wickremesinghe made this statement participating at the newly constructed Bodhi Wall and the golden fence in Sapugaskanda Abeysekararama.
 
 ...
 
 [Data](articles/84d0519d.json)
+
+[Extended Data](ext_articles/84d0519d.ext.json)
 
 ---
 
@@ -1963,117 +2057,5 @@ In this case, the Minister of State and the Security Police Officer died.
 [Data](articles/e3f5fe8a.json)
 
 [Extended Data](ext_articles/e3f5fe8a.ext.json)
-
----
-
-### Suspect involved in shooting at Jinthupitiya in Police custody
-
-*2024-01-25 07:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/suspect-involved-in-shooting-at-jinthupitiya-in-police-custody/) · `en`
-
-COLOMBO (News 1st); One suspect involved in the shooting that took place in Jintupitiya last night has been taken into police custody.
-
-Police say that a 26-year-old man was injured and admitted to the Colombo National Hospital.
-
-One of the suspects and the motorcycle was captured by the residents around the area.
-
-Police say the suspect who was caught by the residents along with the firearm used in the shooting was later taken into Police custody.
-
-Police say, Investigations are underway to find the suspect who fled the scene.
-
-Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
-
-Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
-
-Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
-
-◼️
-
-[Data](articles/4a89318d.json)
-
-[Extended Data](ext_articles/4a89318d.ext.json)
-
----
-
-### An elephant deaths this year
-
-*2024-01-25 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192537) · `si`
-
-The Department of Wildlife Conservation says that a program has been launched to inspect a standard electricity electricival electricivation island wide.
-
-The Department of Wildlife Conservation has commenced on the instructions of the Director General of Wildlife.
-
-The program has been launched with the reporting of the deaths of the elephants in the past due to quality electric fence.
-
-It is reported that it is reported that the removal of the electric fence and producing the quality of the electric fence.
-
-Meanwhile, the Department of Wildlife Conservation says that about 12 deaths in the past few days.
-
-About 470 people of the wild elephants were killed last year, and fifty elephants were killed in electricity.
-
-◼️
-
-[Data](articles/70041d75.json)
-
-[Extended Data](ext_articles/70041d75.ext.json)
-
----
-
-### Duritu full mortality poo day today
-
-*2024-01-25 06:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192536) · `si`
-
-Today, the first motion of the year, the first poorer of the year, is today (25).
-
-Buddhist history states that the first day of the Supreme Buddha was in the forecast of the Buddha today.
-
-According to Sumana Samithi, Sumana Samitha has been working to Lakdiva and the Buddha to worship the Buddhist Buddhist people.
-
-The history of Bimbisara has predicted the Honorable Magistrate in the Buddha.
-
-Army and policy sacrifices have been organized in temples and policy sacrifices in temples throughout the island to mark the nationality.
-
-Meanwhile, the Wanduramba Uruka Ancient Viharaya in Galle will be held from the Wanduramba Uruka Ancient Viharaya in Galle today.
-
-◼️
-
-[Data](articles/cc19a0d6.json)
-
-[Extended Data](ext_articles/cc19a0d6.ext.json)
-
----
-
-### Have the governing MPs really understood the Online Safety Bill?
-
-*2024-01-25 06:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Have-the-governing-MPs-really-understood-the-Online-Safety-Bill/108-275699) · `en`
-
-(COLOMBO) - An amended Online Safety Bill was passed in Parliament on Wednesday, despite calls from the opposition to delay the debating of the Bill and international organisations urging extensive revisions to be made. The final reading of the Bill however was approved without a vote.
-
-For months, the controversial Bill has been criticised by not only opposition politicians but also journalists, activists, business leaders and civil society groups as an attempt by the government to stifle free speech.
-
-The Bill, which draws heavily from similar legislation in countries such as Singapore and the United Kingdom, has also been viewed as a threat to foreign direct investment in the country.
-
-...
-
-[Data](articles/26b02b95.json)
-
-[Extended Data](ext_articles/26b02b95.ext.json)
-
----
-
-### Inmates escape after another clash breaks out at Kandakadu rehab centre
-
-*2024-01-25 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96712/inmates-escape-after-another-clash-breaks-out-at-kandakadu-rehab-centre) · `en`
-
-A group of inmates detained at the Kandakadu Treatment and Rehabilitation Centre have escaped following a clash that ensued last night (Jan.24).
-
-According to the Commissioner General of Rehabilitation, at least 40 inmates have fled the facility amidst the altercation.
-
-The police have taken measures to bring the situation under control.
-
-◼️
-
-[Data](articles/0a6e4171.json)
-
-[Extended Data](ext_articles/0a6e4171.ext.json)
 
 ---

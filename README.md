@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 12:32:55**
+As of **2024-01-25 12:49:43**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 338
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,546 (99.9%) of 2,549 articles have been extended.
+2,549 (100.0%) of 2,549 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -63,6 +63,8 @@ Other countries where elections are slated to be conducted include in India, Sri
 ...
 
 [Data](articles/6b780d0b.json)
+
+[Extended Data](ext_articles/6b780d0b.ext.json)
 
 ---
 
@@ -104,6 +106,8 @@ Giant pandas are a unique species in China and are hailed as a national treasure
 
 [Data](articles/4cd513e9.json)
 
+[Extended Data](ext_articles/4cd513e9.ext.json)
+
 ---
 
 ### Transfers to three DIGs
@@ -141,6 +145,8 @@ Following the fatal collision, three persons including State Minister Nishantha 
 ...
 
 [Data](articles/87be04ce.json)
+
+[Extended Data](ext_articles/87be04ce.ext.json)
 
 ---
 

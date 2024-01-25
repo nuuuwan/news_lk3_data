@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 07:21:19**
+As of **2024-01-25 07:45:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,473 (99.9%) of 2,476 articles have been extended.
+2,476 (100.0%) of 2,476 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The police have taken measures to bring the situation under control.
 ◼️
 
 [Data](articles/0a6e4171.json)
+
+[Extended Data](ext_articles/0a6e4171.ext.json)
 
 ---
 
@@ -1034,19 +1036,21 @@ Police have uncovered that the suspected Iranian had distributed the drugs throu
 
 ---
 
-### පොලිස් මාධ්‍ය ප්‍රකාශයකට උසස්වීමක්
+### Promotion to a police media statement
 
 *2024-01-24 19:57:29* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-මාධ්‍ය-ප්‍රකාශයකට-උසස්වීමක්/11-407717) · `si`
 
-පොලිස් මාධ්‍ය ප්‍රකාශක නීතිඥ නිහාල් තල්දූව මහතා නියෝජ්‍ය පොලිස්පති තනතුරට උසස් කර තිබෙන අතර ඒ මහතා අපරාධ දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස පත් කර තිබේ.
+Attorney Nihal Talduuwa has been promoted to the post of DIG.
 
-නියෝජ්‍ය පොලිස්පතිවරයා පොලිස් මාධ්‍ය ප්‍රකාශක  ලෙස තවදුරටත් කටයුතු කරන  අතර ජාතික පොලිස් කොමිෂන් සභාවේ අනුමතිය පරිදි වැඩබලන පොලිස්පතිවරයා  විසින්  මේ උසස් වීම සිදුකර ඇත.
+The DIG continues to be the Police Media Spokesman, and the acting IGP has been promoted as the approval of the National Police Commission.
 
-උසස් වීම මේ මස 08 වැනි දින සිට ක්‍රියාත්මක වන පරිදි ලබා දී තිබේ.
+Promotion has been provided with effect from the 8th of this month.
 
 ◼️
 
 [Data](articles/0f9a74b5.json)
+
+[Extended Data](ext_articles/0f9a74b5.ext.json)
 
 ---
 
@@ -1349,6 +1353,8 @@ Initially there were three contenders in the fray for the ITAK Presidency. The t
 ...
 
 [Data](articles/d76517fd.json)
+
+[Extended Data](ext_articles/d76517fd.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 05:57:14**
+As of **2024-01-25 06:18:19**
 
 ## Newspaper Stats
 
-*Scraped **2,471** Articles*
+*Scraped **2,473** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,9 +12,9 @@ colombotelegraphcom | 35
 bbccomsinhala | 47
 dbsjeyarajcom | 122
 islandlk | 133
-newsfirstlk | 135
+newsfirstlk | 136
 economynextcom | 151
-adaderanasinhalalk | 188
+adaderanasinhalalk | 189
 dailyftlk | 194
 adalk | 241
 virakesarilk | 276
@@ -26,11 +26,29 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,471 (100.0%) of 2,471 articles have been extended.
+2,471 (99.9%) of 2,473 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### Sanath Nishantha dies in fatal accident
+
+*2024-01-25 05:37:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/sanath-nishantha-dies-in-fatal-accident/) · `en`
+
+COLOMBO (News 1st); Sri Lankan State Minister Sanath Nishantha died early on Thursday (25) morning in a tragic car crash on the Katunayake Expressway.
+
+Sri Lanka Police said that a Police Constable attached to the security detail of the State Minister died as well, while the driver sustained serious injuries and was admitted to the hospital.
+
+According to an official statement from Sri Lanka Police the accident took place at 2 AM and the SUV in which the State Minister was travelling in crashed on to the rear end of a freight container truck heading to Colombo, resulting in the tragic accident.Juwaad
+
+Russian plane crashes with 65 Ukrainian prisoners of war on board
+
+◼️
+
+[Data](articles/7baf4fae.json)
+
+---
 
 ### State Minister Sanath Nishantha killed in accident
 
@@ -47,6 +65,26 @@ Hospital sources later confirmed that two persons, including State Minister Nish
 [Data](articles/17be8bd7.json)
 
 [Extended Data](ext_articles/17be8bd7.ext.json)
+
+---
+
+### රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මරුට
+
+*2024-01-25 05:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192533) · `si`
+
+කටුනායක අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ තවත් අයෙක් මියගොස් තිබේ.
+
+පොලීසිය පැවසුවේ, කටුනායක සිට කොළඹ දෙසට ධාවනය කරමින් තිබූ ඒ මහතා ගමන් කරමින් සිටි සුඛෝපභෝගි රථය, ඒ දෙසටම ධාවනය කරමින් තිබූ කන්ටේනරයක පිටුපස ගැටී තිබූ බවයි.
+
+අනතුරින් බරපතළ තුවාල ලැබූ රාජ්‍ය අමාත්‍යවරයා, ඔහුගේ ආරක්ෂක නිලධාරියා සහ එම රථයේ රියදුරා රාගම රෝහලට ඇතුළු කෙරිණි.
+
+එහිදී රාජ්‍ය අමාත්‍යවරයා සහ ආරක්ෂක නිලධාරියා ජීවිතක්ෂයට පත්වූ බව පොලීසිය පැවසීය.
+
+කටුනායක අධිවේගයේ R 11.1 කිලෝමීටර් කණුව අසල දී අද පාන්දර 2ට පමණ එම අනතුර සිදුව තිබුණි.
+
+◼️
+
+[Data](articles/9a0781fb.json)
 
 ---
 
@@ -1955,47 +1993,5 @@ Through this project, UN Women and implementing partner Chrysalis have provided 
 [Data](articles/c83c47ca.json)
 
 [Extended Data](ext_articles/c83c47ca.ext.json)
-
----
-
-### Suspect involved in Beliatta shooting arrested
-
-*2024-01-24 16:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/suspect-involved-in-beliatta-shooting-arrested/) · `en`
-
-COLOMBO (News 1st); A suspect linked to the killing of 05 people in Beliatta on Monday has been taken into Police custody in the Bathgama, Akuressa in Matara.
-
-Police say he was arrested by a police team headed by the Hakmana Police OIC.
-
-Police added the arrested suspect had led the murder that took in Beliatta.
-
-The suspect has also worked as a businessman at the Manning Market while the jeep in which the suspects arrived for the shooting was also found hidden in Galle yesterday.
-
-Russian plane crashes with 65 Ukrainian prisoners of war on board
-
-◼️
-
-[Data](articles/c1559e38.json)
-
-[Extended Data](ext_articles/c1559e38.ext.json)
-
----
-
-### Those who worked with him about Trump's re -election - BBC
-
-*2024-01-24 16:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/174710) · `ta`
-
-Former President Bilklin's aide said that many people, including former assistants who worked with him, were worried about the danger of Donald Trump's re -election.
-
-I have spoken to many former Trump's former assistants, they are creating organizations to act against Trump, ”Sydney told the BBC.
-
-It is not two or two, but 100 people who have worked with Trump said that Trump is a real danger.
-
-He said this is not known in the polls so far but they will have a huge impact.
-
-◼️
-
-[Data](articles/a4cc5521.json)
-
-[Extended Data](ext_articles/a4cc5521.ext.json)
 
 ---

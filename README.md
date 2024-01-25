@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 16:32:50**
+As of **2024-01-25 16:48:56**
 
 ## Newspaper Stats
 
-*Scraped **2,584** Articles*
+*Scraped **2,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adalk | 250
 virakesarilk | 282
 adaderanalk | 322
 tamilmirrorlk | 329
-dailymirrorlk | 345
+dailymirrorlk | 348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,581 (99.9%) of 2,584 articles have been extended.
+2,584 (99.9%) of 2,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### US concerned over potential impact of Sri Lanka’s Online Safety Bill: Julie Chung
+
+*2024-01-25 16:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-concerned-over-potential-impact-of-Sri-Lankas-Online-Safety-Bill-Julie-Chung/108-275713) · `en`
+
+Colombo, Jan. 25 (Daily Mirror)- The United States remains concerned over the potential impact of Sri Lanka’s Online Safety Bill, which was passed yesterday without incorporating important inputs from key stakeholders, including civil society and tech companies who say that this legislation threatens freedom of expression, innovation and privacy, US Ambassador to Sri Lanka Julie Chung said.
+
+"In addition to jeopardizing democratic values, vague and overly restrictive legislation can hinder investments and the development of a digital economy, undermining the economic growth that Sri Lanka needs. The US urges Sri Lanka to prioritize transparency and ensure any legislation does not stifle the voices of its people," she tweeted.
+
+◼️
+
+[Data](articles/3d862c6a.json)
+
+---
+
+### Export-oriented strategies a must to overcome financial hurdles: President
+
+*2024-01-25 15:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Export-oriented-strategies-a-must-to-overcome-financial-hurdles-President/108-275712) · `en`
+
+Colombo, Jan. 25 (Daily Mirror)- President Ranil Wickremesinghe stressed the need for a sustainable solution and highlighted the importance of export-oriented strategies to overcome financial hurdles, the President’s Media Division (PMD) said.
+
+He advocated for increased exports and identified the confectionery industry, particularly chocolates, as having the potential for international recognition.
+
+The President said this while addressing the 30th Annual General Meeting of the Lanka Confectionary Manufacturers' Association (LCMA) yesterday (24) at the Cinnamon Grand Hotel, Colombo.
+
+He emphasized the potential for Sri Lanka to become a global player in the confectionery industry and encouraged Sri Lankan confectioners to expand their horizons and tap into international markets.
+
+...
+
+[Data](articles/5b2e0fad.json)
+
+---
 
 ### Shop fire in China’s Jiangxi province kills 39, traps others
 
@@ -49,6 +81,8 @@ According to state broadcaster CCTV News, there was an Internet cafe located bel
 ...
 
 [Data](articles/a63f4163.json)
+
+[Extended Data](ext_articles/a63f4163.ext.json)
 
 ---
 
@@ -96,6 +130,8 @@ Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestio
 
 [Data](articles/f7aea77d.json)
 
+[Extended Data](ext_articles/f7aea77d.ext.json)
+
 ---
 
 ### Penal Code to be amended to declare male child rape a criminal offence
@@ -113,6 +149,8 @@ Later, clearance of the Attorney General has been granted for the draft bill for
 ...
 
 [Data](articles/7af593c5.json)
+
+[Extended Data](ext_articles/7af593c5.ext.json)
 
 ---
 
@@ -193,6 +231,18 @@ Several Ministers and MPs visit the Ragama Hospital, where State Minister Sanath
 [Data](articles/6c9e0879.json)
 
 [Extended Data](ext_articles/6c9e0879.ext.json)
+
+---
+
+### Ministers, MPs visit Ragama Hospital
+
+*2024-01-25 15:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ministers-MPs-visit-Ragama-Hospital/110-275711) · `en`
+
+Several Ministers and MPs visit the Ragama Hospital, where State Minister Sanath Nishantha was admitted after the fatal accident this morning (25). Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/8464aaa1.json)
 
 ---
 
@@ -2041,59 +2091,5 @@ The parties focused on the untapped potential for collaboration and partnership 
 [Data](articles/17c01b49.json)
 
 [Extended Data](ext_articles/17c01b49.ext.json)
-
----
-
-### Federation of Bangladesh Chamber of Commerce and Industry discusses economic cooperation with SL
-
-*2024-01-25 01:18:18* · [`dailyftlk`](https://www.ft.lk/business/Federation-of-Bangladesh-Chamber-of-Commerce-and-Industry-discusses-economic-cooperation-with-SL/34-757749) · `en`
-
-Sri Lanka’s High Commissioner in Bangladesh Dharmapala Weerakkody emphasised the need to expand economic cooperation between Sri Lanka and Bangladesh by leveraging the long-standing and close bilateral partnership between the two countries.
-
-The High Commissioner conveyed this message during a meeting with Federation of Bangladesh Chamber of Commerce and Industry (FBCCI) President Mahbubul Alam in Dhaka on 21 January.
-
-The High Commissioner highlighted that there is considerable potential to export Sri Lankan products, including spices, value-added tea, coconut-based items, healthcare products and construction materials to Bangladeshi markets. Moreover, he requested the assistance and cooperation from the FBCCI to attract Bangladeshi investors to invest in the promising investment opportunities available for them in Sri Lanka, particularly in the sectors of Information Technology, Pharmaceuticals, Logistics Services in Ports and Shipping and Tourism.
-
-...
-
-[Data](articles/2bd517ef.json)
-
-[Extended Data](ext_articles/2bd517ef.ext.json)
-
----
-
-### Lankan envoy attends Expo – Engineering and Healthcare Show in Lahore
-
-*2024-01-25 01:17:30* · [`dailyftlk`](https://www.ft.lk/business/Lankan-envoy-attends-Expo-Engineering-and-Healthcare-Show-in-Lahore/34-757748) · `en`
-
-High Commissioner of Sri Lanka to Pakistan Admiral (Retd.) Ravindra C. Wijegunaratne attended the Expo – 3rd Edition of the Engineering and Healthcare Show on 20 January at the Expo Centre in Lahore.
-
-The exhibition was organised by the Trade Development Authority of Pakistan (TDAP) in collaboration with the Ministry of Commerce and Export Development Fund of Pakistan.
-
-Over 200 exhibitors from Pakistan showcased their products across 26 sectors of engineering and healthcare industries of Pakistan. More than 600 international delegates from 70 countries participated as buyers/visitors in the exhibition.
-
-...
-
-[Data](articles/ea56ef46.json)
-
-[Extended Data](ext_articles/ea56ef46.ext.json)
-
----
-
-### Ruwanpura Facet shines in Gold at National Industrial Excellence Awards
-
-*2024-01-25 01:16:04* · [`dailyftlk`](https://www.ft.lk/business/Ruwanpura-Facet-shines-in-Gold-at-National-Industrial-Excellence-Awards/34-757747) · `en`
-
-Ruwanpura Facet Director K.W. Sanjeewa Priyantha Fonseka receiving the award
-
-Ruwanpura Facet Ltd., a leader in the gem cutting and polishing industry in Sri Lanka, has been awarded the Gold Award in the Gem Cutting and Polishing Category (Medium Scale) at the National Industry Excellence Awards 2023 organised by the Industrial Development Board (IDB).
-
-The award ceremony was recently held at the Nelum Pokuna Mahinda Rajapaksa Theatre in Colombo under the patronage of President Ranil Wickremesinghe and Industries Minister Dr. Ramesh Pathirana. Ruwanpura Facet Ltd. Director K.W. Sanjeewa Priyantha Fonseka received the award at the gala event. R.S.S. Sharik Hassaen, M.N. Mohamed Mushtaq and A.A. Mohamed Aroos are the other Directors of Ruwanpura Facet Ltd.
-
-...
-
-[Data](articles/f45637d0.json)
-
-[Extended Data](ext_articles/f45637d0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 03:32:43**
+As of **2024-01-26 03:50:03**
 
 ## Newspaper Stats
 
-*Scraped **2,632** Articles*
+*Scraped **2,633** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adaderanasinhalalk | 225
 adalk | 255
 virakesarilk | 286
 adaderanalk | 330
-tamilmirrorlk | 334
+tamilmirrorlk | 335
 dailymirrorlk | 356
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,632 (100.0%) of 2,632 articles have been extended.
+2,633 (100.0%) of 2,633 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Export zones across the country
+
+*2024-01-26 02:42:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-முழுவதிலும்-ஏற்றுமதி-வலயங்கள்/175-332126) · `ta`
+
+President Ranil Wickremesinghe has said that steps will be taken to create new investment zones across the country and improve the national economy ten times to benefit the open economy.
+
+President Ranil Wickremesinghe said this while attending the newly constructed Bodhi Mathil and Gold Valley inauguration in Sabukaskanda Abeesekerama.
+
+“The country has to increase the income of. That is why, unfortunately, to be charged. Now we are moving towards the positive economy instead of the negative economy.
+
+Create new industries and new investment opportunities and provide employment opportunities to people. We are currently trying to create a suitable environment. We are planning to increase the country's economic speed ten times by creating investment zones such as the Biyagama Investment Zone across the country. ”. (A)
+
+◼️
+
+[Data](articles/4ff31b47.json)
+
+[Extended Data](ext_articles/4ff31b47.ext.json)
+
+---
 
 ### Guns and Sri Lankan ‘Roses’ - EDITORIAL
 
@@ -2031,31 +2051,5 @@ During the war. Remble
 [Data](articles/a3958d96.json)
 
 [Extended Data](ext_articles/a3958d96.ext.json)
-
----
-
-### Another murder drowns
-
-*2024-01-25 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192546) · `si`
-
-Six suspects have been arrested by the Mulleriyawaya Kelani Nadee Mawatha junction and six suspects have been arrested.
-
-Three swords, an iron stick, manne, and a living grenade in the three-wheeler have been taken into custody.
-
-The weapons have been found in the inspection of the three-wheeler of the three-wheeler for two police officers.
-
-A senior police officer of the Mulleriyawa police stated that the two police calls for other police officers to other police officers and six mobile phones were arrested in the suspects.
-
-The 119 Police Emergency Call Number was revealed that a group of people had entered the house of Bataketiya Lane at the Bataketiya Lane of the Bataketiya Lane of Pinathali Junction.
-
-The police have revealed that a person had gone to murdered and was not at home and had severely damaged his father and had been severely damaged.
-
-The injured person has been admitted to the basin hospital in Mulleriyawa.
-
-...
-
-[Data](articles/2352a8b1.json)
-
-[Extended Data](ext_articles/2352a8b1.ext.json)
 
 ---

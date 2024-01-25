@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 14:17:20**
+As of **2024-01-25 14:32:57**
 
 ## Newspaper Stats
 
@@ -26,29 +26,31 @@ dailymirrorlk | 342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,561 (99.9%) of 2,564 articles have been extended.
+2,564 (100.0%) of 2,564 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### உயிரிழந்த இராஜாங்க அமைச்சரின் இறுதி செல்ஃபி
+### The final selfie of the deceased diplomatic minister
 
 *2024-01-25 13:38:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்த-இராஜாங்க-அமைச்சரின்-இறுதி-செல்ஃபி/175-332105) · `ta`
 
-கட்டுநாயக்க நெடுஞ்சாலையில் இன்று (25) அதிகாலை 2 மணி அளவில்  இடம்பெற்ற வாகன விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த மற்றும் மேலும் ஒருவர் உயிரிழந்துள்ளனர்.
+State Minister Sanath Nishantha and others were killed in a vehicle accident on the Katunayake Highway at around 2 am this morning.
 
-சனத் நிஷாந்த கட்டுநாயக்காவில் இருந்து கொழும்பு நோக்கி பயணிக்கும் போதே இந்த விபத்து இடம்பெற்றுள்ளது.
+The accident occurred while traveling from Sanath Nishantha Katunayake to Colombo.
 
-இவர் பயணித்த சொகுசு கார் அதே திசையில் சென்ற கொள்கலன் பாரவூர்தியுடன் மோதியே இந்த விபத்து இடம்பெற்றுள்ளது.
+The accident occurred when the luxury car he was traveling in the same direction collided with the container paramour.
 
-நேற்று (24) இரவு சனத் நிஷாந்த, பண்டாரவத்தை, சிலாபம் பகுதியில் உள்ள ஹோட்டல் ஒன்றில் நடைபெற்ற திருமண வைபவத்தில் கலந்து கொண்டு கொழும்பு திரும்பும் போதே வாகன விபத்தில் உயிரிழந்தார்.
+Sanath Nishantha, who was attending a wedding ceremony at a hotel in Bandarawatte, Chilaw, last night, died in a vehicle accident while returning to Colombo.
 
-திருமண வைபவத்தின் போது சனத் நிஷாந்தவுடன் புதுமணத் தம்பதிகள் எடுத்துக்கொண்ட செல்ஃபி புகைப்படம் தற்போது முகநூலில் வைரலாகியுள்ளதுடன், புகைப்படம் எடுத்தவர் தனது தனிப்பட்ட முகநூல் கணக்கில் குறித்த புகைப்படத்தை பதிவிட்டுள்ளார். R
+During the wedding ceremony, a selfie photo of the newlyweds with Sanath Nishantha has now gone viral on the face and posted a photo of the photographer in his personal face account.. Remble
 
 ◼️
 
 [Data](articles/1d5b3a6c.json)
+
+[Extended Data](ext_articles/1d5b3a6c.ext.json)
 
 ---
 
@@ -180,6 +182,8 @@ Police say that they seized 16 kilograms and 600 grams of ganja, 211 grams of he
 
 [Data](articles/ac09ee35.json)
 
+[Extended Data](ext_articles/ac09ee35.ext.json)
+
 ---
 
 ### ‘Major blow to human rights’: Amnesty International slams newly passed Online Safety Bill
@@ -202,21 +206,23 @@ The Online Safety Bill, which seeks to regulate online content, received the par
 
 ---
 
-### ඇමති සනත් නිශාන්තගේ දේහය මහජන ගෞරවය සඳහා ජයරත්න මල්ශාලාවට
+### Minister Sanath Nishantha's body to Jayaratne Malzala
 
 *2024-01-25 12:17:52* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-සනත්-නිශාන්තගේ-දේහය-මහජන-ගෞරවය-සඳහා-ජයරත්න-මල්ශාලාවට/11-407722) · `si`
 
-ජල සම්පාදන රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා හා ඔහුගේ ආරක්ෂක නිලධාරියා කොළඹ කටුනායක අධිවේගී මාර්ගයේ 25 දින අලුයම 2.00ට පමණ සිදු වු රිය අනතුරකින් ජීවිතක්ෂයට පත් විය.
+State Minister of Water Supply and his security officer of the Colombo Katunayake Expressway took place around 2.00 am on 25 days.
 
-කොටස් කටුනායක 11/1 R කිලෝමීටර කණුව අසලදී මෙම අනතතුර සිදුව තිබුණේ අමාත්‍ය වරයා ගමන් ගත් රථය කර්ටේනර් රථයක් ඉස්සර කිරීමට යාමේදී එම කන්ටේනර් රථය හා ගැටීමෙනි.
+The accident had taken place near the Katunayake 11/1 R near the kilometer post at the Katunayake 11/1 R.
 
-අනතුරින් රාජ්‍ය අමාත්‍ය වරයාගේ රථයට දැඩි හානි සිදුව තිබිණි. අමාත්‍යයවරයා සමග අනතුරින් මියගොස් තිබුණේ ඔහුගේ ආරක්ෂක නිලධාරි පොලිස් කොස්තාපල් අනුරාධ ජයකොඩි මහතාය. අනතුරක් සමග අමාත්‍ය වරයා හා ආරක්ෂක නිලධාරියා රාගම ශික්ෂණ රෝහලට වහාම ඇතුලත් කිරීමට පියවර ගෙන තිබුණද ඔවුන් එහිදී ජීවිතක්ෂයට පත්ව තිබේ. අනතුර සිදු වීමෙන් අනතුරුව වැලිසර මහෙස්ත්‍රාත් ධම්මික උඩුවේවිදාණ මහතා රාගම රෝහලට පැමිණ මහෙස්ත්‍රාත් පරීක්ෂණය සිදු කරනු ලැබීය.
+State Minister's vehicle was severely damaged. His security officer, police constable Anuradha Jayakody was killed in danger with the Minister.. The Minister and the security officer had taken steps to be referred to the Ragama Teaching Hospital with a danger but they have been killed. Minister of Welisara Magistrate Dhammika Uduwela was conducted to Ragama Hospital following the accident.
 
-මෙහිදී අමාත්‍යවරයාගේ සොහොයුරු කුරුගමගේ ජගත් සමන්ත පෙරේරා මහතා අමාත්‍යවරයාගේ දේහය හදුනාගනිමින් සාක්ෂි ලබා දෙනු ලදී. ජගත් සමන්ත මහතා අප කල විමසීමේදී මෙලෙස ප්‍රකාශ කලහ. " මිය ගොස් සිටින්නේ මගේ බාල සොයුරා. ඔහුට දියණියන් තිදෙනෙක් හා පුතෙක් ඉන්නවා.
+Minister's brother 'brother' was introduced by the Minister's body and gave evidence. When Jagath Samantha uses, we made this statement. "The dead is my younger brother. He has three daughters and son.
 
 ...
 
 [Data](articles/72103168.json)
+
+[Extended Data](ext_articles/72103168.ext.json)
 
 ---
 

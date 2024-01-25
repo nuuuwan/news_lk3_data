@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 01:17:14**
+As of **2024-01-26 01:33:03**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,629 (99.9%) of 2,632 articles have been extended.
+2,632 (100.0%) of 2,632 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ But roses have entered our culture and quite secretly encroached the minds of pe
 
 [Data](articles/6fc6e4ec.json)
 
+[Extended Data](ext_articles/6fc6e4ec.ext.json)
+
 ---
 
 ### Palestinian crisis: Obstacles on path to two-state solution
@@ -59,6 +61,8 @@ Though the two-state solution requires thorough scrutiny and resurrection, some 
 ...
 
 [Data](articles/97ac5504.json)
+
+[Extended Data](ext_articles/97ac5504.ext.json)
 
 ---
 
@@ -833,6 +837,8 @@ ECONOMYNEXT – The United States has expressed concern over a controversial law
 ...
 
 [Data](articles/01270084.json)
+
+[Extended Data](ext_articles/01270084.ext.json)
 
 ---
 

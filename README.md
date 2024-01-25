@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 15:32:55**
+As of **2024-01-25 15:51:28**
 
 ## Newspaper Stats
 
-*Scraped **2,572** Articles*
+*Scraped **2,578** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,130 @@ newsfirstlk | 142
 islandlk | 146
 economynextcom | 152
 dailyftlk | 194
-adaderanasinhalalk | 209
+adaderanasinhalalk | 212
 adalk | 249
 virakesarilk | 282
 adaderanalk | 320
 tamilmirrorlk | 329
-dailymirrorlk | 342
+dailymirrorlk | 345
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,570 (99.9%) of 2,572 articles have been extended.
+2,578 (100.0%) of 2,578 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### ICC Women’s ODI Cricketer of the Year announced
+
+*2024-01-25 15:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-Womens-ODI-Cricketer-of-the-Year-announced/108-275710) · `en`
+
+Jan. 25 (ICC) - Sri Lanka star Chamari Athapaththu has won the ICC Women's ODI Cricketer of the Year for 2023 after a stellar 12 months.
+
+Chamari Athapaththu was rewarded for her exceptional year with the bat in ODIs. The Sri Lanka top-order batter made significant contributions with the bat and as captain, notably leading the side to a first bilateral series win over New Zealand.
+
+Athapaththu showcased exceptional skills and leadership throughout the year, excelling both as a captain and a player in the ODI format.
+
+Athapaththu started the year as skipper with a 1-0 win in a rain-truncated series over Bangladesh. With the first two matches not producing a result due to rain, the final clash turned into a decider.
+
+In a 30-over-a-side game, the skipper stroked a 60-ball 64 laced with six fours and four sixes to propel Sri Lanka to 186. With the ball, Athapaththu got rid of her opposite number and top-scorer Nigar Sultana to put her side in pole position for victory.
+
+...
+
+[Data](articles/20216a86.json)
+
+[Extended Data](ext_articles/20216a86.ext.json)
+
+---
+
+### Chamari Atapattu is one-day cricketer in the year
+
+*2024-01-25 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192557) · `si`
+
+Chamari Atapattu has been nominated by the International Cricket Council as one of the 2023 Cricketer of the Year.
+
+It is said that the performance of her show at the ODI was in line with the performance of the ODIs last year.
+
+Chamari Atapattu scored 415 runs while eight ODIs participated in the year 2023.
+
+◼️
+
+[Data](articles/836c1836.json)
+
+[Extended Data](ext_articles/836c1836.ext.json)
+
+---
+
+### Ministers, MPs visited Ragama Hospital
+
+*2024-01-25 15:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ministers-MPs-visited-Ragama-Hospital/110-275711) · `en`
+
+Several Ministers and MPs visit the Ragama Hospital, where State Minister Sanath Nishantha was admitted after the fatal accident this morning (25). Pix by Kithsiri de Mel
+
+◼️
+
+[Data](articles/6c9e0879.json)
+
+[Extended Data](ext_articles/6c9e0879.ext.json)
+
+---
+
+### The reason for the crisis is the Governor of Governor
+
+*2024-01-25 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192555) · `si`
+
+Central Bank Governor Dr. Nandalal Weerasinghe says that the country was in a economic crisis when necessary.
+
+He was responding to the Parliamentary Select Committee appointed to seek the search for the country.
+
+Ocean Kariyawasam - We know that when the country is closed during the program, investments are not coming?The income from foreign tourists went to zero. Do you accept that the covard situation had influenced this?
+
+...
+
+[Data](articles/c3cc07fa.json)
+
+[Extended Data](ext_articles/c3cc07fa.ext.json)
+
+---
+
+### Mihintale Rajamaha Viharama arrested for death to death
+
+*2024-01-25 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192554) · `si`
+
+Mihintale Rajamaha Viharaya Walawaastanawewa Dammaratana Thero has been arrested.
+
+The arrest was made by the CID.
+
+◼️
+
+[Data](articles/e5165166.json)
+
+[Extended Data](ext_articles/e5165166.ext.json)
+
+---
+
+### President, Mahinda Rajapaksa visit Sanath Nishantha’s residence
+
+*2024-01-25 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-Mahinda-Rajapaksa-visit-Sanath-Nishanthas-residence/108-275709) · `en`
+
+Colombo, Jan. 25 (Daily Mirror)- President Ranil Wickremesinghe and former President Mahinda Rajapaksa visited State Minister Sanath Nishantha's residence in Colombo this morning, after learning of his sudden death.
+
+Former President Mahinda Rajapaksa conveyed his condolences to the Minister's wife and children.
+
+The former President told reporters that the sudden death of Sanath Nishantha is a great loss to the Sri Lanka Podujana Peramuna (SLPP), the contry and the people.
+
+"He was a Minister who took the lead in party activities and any task in the area," he said.
+
+◼️
+
+[Data](articles/894b5cdf.json)
+
+[Extended Data](ext_articles/894b5cdf.ext.json)
+
+---
 
 ### Man arrested for threatening & attempting to extort money from Mihintale Chief Prelate
 
@@ -50,23 +158,25 @@ The arrest has been made by the Criminal Investigation Department (CID) officers
 
 ---
 
-### ”அவரின் மறைவு மஹிந்தவுக்கு பெரும் இழப்பாகும்”
+### "His death is a great loss for Mahinda"
 
 *2024-01-25 14:16:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவரின்-மறைவு-மஹிந்தவுக்கு-பெரும்-இழப்பாகும்/175-332106) · `ta`
 
-இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மறைவு முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்சவுக்கும் கட்சிக்கும் புத்தளம் நகர அபிவிருத்தி மற்றும் வீடமைப்பு மக்களுக்கும் பாரிய இழப்பாகும் என அரசாங்கத்தின் பிரதம கொறடாவும் அமைச்சருமான பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+The demise of State Minister Sanath Nishantha, former President Mahinda Rajapaksa, the party, the party and the people of Puttalam, the people of Puttalam Urban Development and Housing, said the government's chief minister and minister Prasanna Ranatunga said.
 
-”சனத் நிஷாந்த புத்தளம் மற்றும் சிலாபம் மாவட்ட மக்களுக்காக உழைத்தவர் என அவர் ஊடகங்களுக்கு தெரிவித்தார். புத்தளம் மற்றும் சிலாபத்தில் இரண்டு நிகழ்வுகளில் கலந்து கொண்டு கொழும்பு செல்லும் வழியில் அவர் இந்த விபத்தை சந்தித்துள்ளார்.
+“He told the media that Sanath Nishantha was working for the people of Puttalam and Chilaw districts.He has attended two events in Puttalam and Chilaw and he had met the accident on the way to Colombo.
 
-மே 9ஆம் திகதி அரகலய போராட்டத்தின் போது புத்தளத்தில் உள்ள அவரது உத்தியோகபூர்வ இல்லம் எரிக்கப்பட்டது. எனவே புத்தளத்தில் ஓய்வெடுக்க வீடு இல்லாத நிலையில், கொழும்புக்கு திரும்பிக் கொண்டிருந்த போதே இந்த விபத்து ஏற்பட்டுள்ளது.
+His official residence in Puttalam was burnt during the Arakalai protest on May 9.So the accident occurred while returning to Colombo in the absence of a home to rest in Puttalam.
 
-மேலும், நேற்றைய தினம் பாராளுமன்ற அமர்வுகளின் பின்னர் அவுஸ்திரேலிய உயர்ஸ்தானிகராலயத்தில் இடம்பெற்ற நிகழ்வொன்றில் சனத நிஷாந்த கலந்துகொண்டார்” அவர் தெரிவித்தார்.
+In addition, Sanatha Nishantha participated in an event held at the Australian High Commission after yesterday's parliamentary sessions. ”
 
-பொலிஸ் விசாரணைகளின் படி, இராஜாங்க அமைச்சரின் சாரதி மதுபோதையில் இருக்கவில்லை என அமைச்சர் ரணதுங்க தெரிவித்துள்ளார்.
+According to police investigations, Minister Ranatunga said that the driver of the diplomatic minister was not in alcohol.
 
 ...
 
 [Data](articles/9e408b04.json)
+
+[Extended Data](ext_articles/9e408b04.ext.json)
 
 ---
 
@@ -198,23 +308,29 @@ The group had been returning from a wedding ceremony held at a hotel in Bandaraw
 
 ---
 
-### කන්දකාඩුවෙන් 200ක් පළා යයි
+### 200 from Kandakad, 200
 
 *2024-01-25 13:22:11* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවෙන්-200ක්-පළා-යයි/11-407723) · `si`
 
-වැලිකන්ද කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ රැදවියන් පිරිසක් 24 වෙනිදා රාත්‍රියේ පලාගොස් ඈති බව වැලිකන්ද පොලිසිය කියයි.
+Welikanda Police say that a group of inmates from the Kandakadu Rehabilitation Center will be fled on the 24th tomorrow.
 
-පලාගිය පිරිසෙන් 17 දෙනෙකු 25 වෙනිද උදැසන  සුංගාවිල පාලම අසලදි අත් අඩංගුවට ගෙන තිබෙන අතර ඔවුන් පොලොන්නරුව පොලිසිය මගින් පොලොන්නරුව මහේස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරිමට කටයුතු කරන බව පොලොන්නරුව වැඩබලන ජේෂ්ඨ පොලිස් අධිකාරි චානක ද සිල්වා මහතා අප කළ විමසීමකදී කීවේය .
+Troops of Sri Lanka Acting Sector Chanaka De Silva said that 17 of the fugitive people said that they would be produced before the Polonnaruwa Magistrate's Court.
 
-නවසේනපුර වෘත්තීය පුහුණ මධ්‍යස්ථානයේ රැඳවියන් සහ කණ්ඩකාඩු වෘත්තිය පුහුණු  මධ්‍යස්ථානයේ රැඳවියන් දෙපිරිසක් අතර ඇති වූ ගැටුමක් අතරතුර මෙම පිරිස පලාගොස් ඇති බව පරීක්ෂණ සිදු කරන වැලිකන්ද පොලිසිය කියයි.
+Welikanda Police say that the group had fled the detainees of the Navigade Vocational Training Center at the Advisory Center at the Thampe.
 
-පලාගොස් සෝමාවතිය වනෝද්‍යානයේ හා ඒ අවට සැගව සිටින රැදවියන් අත් අඩංගුවට ගැනීම සදහා පොලිසිය ,,යුද හමුදාව එක්ව විශේෂ මෙහෙයුමක් ක්‍රියාත්මක කර ඇති බව වැලිකන්ද පොලිස් ස්ථානාධිපති ප්‍රධාන පොලිස් පරික්ෂක සමන්ත රත්නායක මහතා කීය.
+The Police OIC Samantha Police Inspector Samantha Ratnayake said that the police were conducting a special operation to arrest the latest inmates in and around the fleeing embrace.
 
-කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ රැදවියන් 408 දෙනෙකු පුනරුත්ථාපනය වෙමින් සිටි අතර ඔවුන්ගෙන් 200 ක ආසන්න රැදවියන් පිරිසක් පලාගොස් තිබෙන බව එම මධ්‍යස්ථානයේ ආරක්ෂක අංශයේ උසස් නිලධාරීයෙකු පැවසීය.
+A total of 408 inmates were being rehabilitated at the Kandakadu Rehabilitation Center.
+
+The clash caused a problem with a food problem for a food problem for the rehabilitation center in the rehabilitation center.
+
+Nine of 92 inmates have fled the conflict and nine were further disappeared.
 
 ...
 
 [Data](articles/a32c3f5d.json)
+
+[Extended Data](ext_articles/a32c3f5d.ext.json)
 
 ---
 
@@ -1959,121 +2075,5 @@ My opinion is that the government is bringing the bill so that there is no such 
 [Data](articles/6c7a3435.json)
 
 [Extended Data](ext_articles/6c7a3435.ext.json)
-
----
-
-### Looking at Sri Lankan Independence through the eyes of Singapore
-
-*2024-01-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Looking-at-Sri-Lankan-Independence-through-the-eyes-of-Singapore/172-275675) · `en`
-
-At present, political analysts are of the opinion that there is a school of thought that it’s better for the country to allow President Ranil Wickremesinghe to continue as the first citizen of the country for a few more years, because he has made essential goods in Sri Lanka freely available, and also put a full stop to queues at fuel and gas stations.  But there are credibility issues with this government because this President hasn’t yet got rid of many lawmakers who have had questionable track records
-
-...
-
-[Data](articles/df0aded3.json)
-
-[Extended Data](ext_articles/df0aded3.ext.json)
-
----
-
-### Think Science, Think Peace: Include more Women and Girls
-
-*2024-01-25 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Think-Science-Think-Peace-Include-more-Women-and-Girls/172-275673) · `en`
-
-With Sri Lanka struggling to meet its debts and stabilise the economy, vital areas include high technology and the new dimension of the positive aspects of Artificial Intelligence (AI). As in most countries, men dominate these areas, and it is important for developing countries like Sri Lanka to get more women involved, because as a popular say, “Man smart, woman smarter.” So it is, in the case of high technology.
-
-...
-
-[Data](articles/ea5c329b.json)
-
-[Extended Data](ext_articles/ea5c329b.ext.json)
-
----
-
-### 2024-01-24 (Wednesday)
-
-### Japan to extend fresh support for humanitarian demining activities in north
-
-*2024-01-24 23:58:40* · [`dailyftlk`](https://www.ft.lk/news/Japan-to-extend-fresh-support-for-humanitarian-demining-activitiesin-north/56-757734) · `en`
-
-Japanese Ambassador Mizukoshi Hideaki this week signed the grant contract of the demining project under the scheme of “Grant Assistance for Grassroots Human Security Projects (GGP)”, with Delvon Assistance for Social Harmony (DASH) Program Manager Ananda Chandrasiri.
-
-The Government of Japan has provided a total sum of $ 364,963 (approx. Rs. 116 million) through the GGP to DASH for humanitarian demining activities in the Northern Province.
-
-Ambassador Mizukoshi underscored Japan’s steadfast partnership with Sri Lanka in its post-conflict recovery and reconciliation process, especially by way of extending continued support to achieve Sri Lanka’s goal of becoming a Mine-Impact-Free country by 2027.
-
-...
-
-[Data](articles/f892a997.json)
-
-[Extended Data](ext_articles/f892a997.ext.json)
-
----
-
-### Temple to temple diplomacy strengthens cultural ties between Sri Lanka and Myanmar
-
-*2024-01-24 23:58:05* · [`dailyftlk`](https://www.ft.lk/news/Temple-to-temple-diplomacy-strengthens-cultural-ties-between-Sri-Lanka-and-Myanmar/56-757733) · `en`
-
-Four distinguished Sri Lankan Buddhist monks undertook a visit to Yangon, Myanmar on 16 January as part of the temple-to-temple diplomacy program launched by the State Ministry of Foreign Affairs.
-
-This visionary initiative was set in motion by State Minister of Foreign Affairs Tharaka Balasuriya, with the blessings of the President and the Minister of Foreign Affairs of Sri Lanka. Under the guidance of Ambassador of Sri Lanka to Myanmar Janaka Bandara, the Sri Lankan Embassy in Yangon coordinated with the temples in Myanmar to arrange the visit.
-
-The visiting monks were warmly welcomed by the Pa Thein Monastery in Yangon. During their stay, the Sri Lankan monks will explore temples in Myanmar including the most sacred Swedagon pagoda in Yangon which is said to enshrine relics of the four previous Buddhas.
-
-...
-
-[Data](articles/2a44c90c.json)
-
-[Extended Data](ext_articles/2a44c90c.ext.json)
-
----
-
-### State Minister Sanath Nishantha killed in accident
-
-*2024-01-24 23:57:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckkvzyy4yg9o) · `si`
-
-State Minister of Water Supply, Sanath Nishantha has died in an accident on the Katunayake-Colombo expressway today (Jan. 25).
-
-The Police Media Division told the BBC Sinhala service.
-
-After the rear of the container, State Minister Sanath Nishantha has collided with the safe fence on the Expressway.
-
-Sanath Nishantha, a police constable and injured in the accident, was admitted to the Ragama Hospital with a police constable and injuries in the accident.
-
-The State Minister and the Police Constable have been killed after hospitalization.
-
-The Director of the Ragama Hospital told BBC to Sinhala and said that Minister of State Sanath Nishantha was killed in injuries.
-
-The Sri Lankan who has won the world from the glory of education
-
-Diagno Garcia: United Nations says British island is not suitable for human habitation with Sri Lankan refugees
-
-The Bill of Online Methods is passed;What happened to date?
-
-Sanath Nishantha reserves to be remanded, Wimal warrant to update: March 19, 2018
-
-◼️
-
-[Data](articles/a8d728c6.json)
-
-[Extended Data](ext_articles/a8d728c6.ext.json)
-
----
-
-### NEDA of Thailand extends support to Sri Lanka
-
-*2024-01-24 23:56:51* · [`dailyftlk`](https://www.ft.lk/news/NEDA-of-Thailand-extends-support-to-Sri-Lanka/56-757732) · `en`
-
-The Neighbouring Countries Economic Development Cooperation Agency (NEDA) of Thailand agreed to enhance and expand its cooperation with Sri Lanka during a discussion held between Ambassador of Sri Lanka and Permanent Representative to the UNESCAP, C.A. Chaminda I. Colonne and NEDA Vice President Senior Col. Saranyu Viriyavejakul on 15 January in Bangkok.
-
-NEDA is a public organisation established in 2005, under the purview of the Ministry of Finance of Thailand providing economic development cooperation in the form of financial and technical assistance to its neighbouring countries namely Cambodia, Laos, Myanmar and Vietnam initially.
-
-In 2013, Thai Cabinet agreed to expand NEDA’s cooperation to three more specific countries namely, Sri Lanka, Bhutan and Timor-Leste.  Since then, there has hither to been cooperation only in the form of technical assistance between Sri Lanka and NEDA.
-
-...
-
-[Data](articles/4199ba00.json)
-
-[Extended Data](ext_articles/4199ba00.ext.json)
 
 ---

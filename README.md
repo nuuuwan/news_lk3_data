@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 09:33:06**
+As of **2024-01-25 09:51:53**
 
 ## Newspaper Stats
 
-*Scraped **2,519** Articles*
+*Scraped **2,520** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 35
 bbccomsinhala | 48
 dbsjeyarajcom | 123
 newsfirstlk | 137
-islandlk | 145
+islandlk | 146
 economynextcom | 151
 dailyftlk | 194
 adaderanasinhalalk | 200
@@ -26,7 +26,7 @@ dailymirrorlk | 335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,518 (100.0%) of 2,519 articles have been extended.
+2,519 (100.0%) of 2,520 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1516,6 +1516,28 @@ The AMDT School of Creativity recently had the privilege of hosting key official
 
 ---
 
+### Sri Lanka Insurance emerges winner at the ‘Great HR Quiz 2023’
+
+*2024-01-24 20:47:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-emerges-winner-at-the-great-hr-quiz-2023/) · `en`
+
+The HR team of Sri Lanka Insurance recently emerged winners at the Great HR Quiz 2023 in the Insurance, Finance and Investment category. The SLIC HR team was also able to secure an impressive 4th place overall out of the 65 companies participated at the quiz.
+
+The Great HR Quiz 2023 was organized by the Chartered Institute of Personnel Management (CIPM). It is the only quiz dedicated to HRM fraternity to uplift the knowledge and capacity of human resources professionals in Sri Lanka and the quiz covers all aspects of HR and general knowledge of participants.
+
+SLT Digital Services launches innovative School Attendance Notification System as part of ESG initiative
+
+Teejay Lanka & Hemas collaborate to promote menstrual hygiene in rural schools
+
+Sri Lanka Insurance Achieves Milestone with ISO/IEC 27001:2013 Certification for Information Security Management
+
+Sri Lanka Insurance achieves milestone with ISO/IEC 27001: 2013 Certification for Information Security Management
+
+...
+
+[Data](articles/02514b3b.json)
+
+---
+
 ### Standard Chartered appoints Rukshila Seneviratne as new Head of Human Resources in Sri Lanka
 
 *2024-01-24 20:44:00* · [`islandlk`](http://island.lk/standard-chartered-appoints-rukshila-seneviratne-as-new-head-of-human-resources-in-sri-lanka/) · `en`
@@ -2003,21 +2025,5 @@ Opposition legislator M A Sumanthiran, a lawyer, said 13 amendments circulated a
 [Data](articles/046b1208.json)
 
 [Extended Data](ext_articles/046b1208.ext.json)
-
----
-
-### Is the  ITAK  President Elect  Shritharan Changing Party  Policy From Espousing Federalism to that of Supporting  TamiL Eelam?
-
-*2024-01-24 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83498) · `en`
-
-The premier political party representing  Sri Lankan Tamils in Parliament has got a new leader. The Ilankai Thamil Arasuk Katchi(ITAK) known in English as the Federal Party(FP) has elected Jaffna district Parliamentarian Sivagnanam Shritharan as its president in Trincomalee on 21 January 2024. The president elect will be formally installed  in office at the party convention to be held on 28 January in Trinco. Shritharan  will serve  a  two-year term   as ITAK/FP president.
-
-Initially there were three contenders in the fray for the ITAK Presidency. The three aspirants to the ITAK leadership mantle were Mathiaparanan Abraham Sumanthiran, Sivagnanam Shritharan and Seenithamby Yoheswaran.  Sumanthiran born in 1964  and Shritharan born in 1968  are both Jaffna district MP’s while Yogeswaran  born in 1970 is a former Batticaloa district Parliamentarian.
-
-...
-
-[Data](articles/d76517fd.json)
-
-[Extended Data](ext_articles/d76517fd.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 04:02:25**
+As of **2024-01-26 04:17:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,633 (99.9%) of 2,635 articles have been extended.
+2,635 (100.0%) of 2,635 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -176,6 +176,8 @@ Several factors contribute to the escalating vegetable prices in Sri Lanka. Clim
 
 [Data](articles/571af48a.json)
 
+[Extended Data](ext_articles/571af48a.ext.json)
+
 ---
 
 ### Group connected to certain political party posting insulting posts: Amaraweera
@@ -227,6 +229,8 @@ This Sinhala production was one-of-a-kind, in multiple ways. It was a collective
 ...
 
 [Data](articles/676bd257.json)
+
+[Extended Data](ext_articles/676bd257.ext.json)
 
 ---
 

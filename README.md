@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 05:37:17**
+As of **2024-01-25 05:57:14**
 
 ## Newspaper Stats
 
-*Scraped **2,469** Articles*
+*Scraped **2,471** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,59 @@ adaderanasinhalalk | 188
 dailyftlk | 194
 adalk | 241
 virakesarilk | 276
-adaderanalk | 308
-tamilmirrorlk | 312
+adaderanalk | 309
+tamilmirrorlk | 313
 dailymirrorlk | 327
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,468 (100.0%) of 2,469 articles have been extended.
+2,471 (100.0%) of 2,471 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### State Minister Sanath Nishantha killed in accident
+
+*2024-01-25 05:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96711/state-minister-sanath-nishantha-killed-in-accident) · `en`
+
+Two persons, including State Minister Sanath Nishantha, were reportedly killed in an accident on the Katunayake Highway.
+
+The State Minister’s vehicle had reportedly met with an accident on the Katunayake Highway earlier this morning (25 Jan.), following which three persons including the State Minister were admitted to the Ragama Hospital.
+
+Hospital sources later confirmed that two persons, including State Minister Nishantha, had succumbed to their injuries.
+
+◼️
+
+[Data](articles/17be8bd7.json)
+
+[Extended Data](ext_articles/17be8bd7.ext.json)
+
+---
+
+### ID digit is the tin number
+
+*2024-01-25 02:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ID-இலக்கமே-TIN-இலக்கம்/175-332091) · `ta`
+
+Finance Minister Ranjith Siyambalapitiya has said that steps have been taken to use the taxpayer National Identification Number-Tin as the taxpayer identification number-tin.
+
+In addition, the government has focused on providing the public through public data through state institutions.
+
+He said he was looking forward to providing the registration number after receiving the appropriate data through the companies.
+
+The Minister of State said that action would be taken to obtain these information from companies that do not have legal problems.
+
+He said the aim was to prepare a very easy procedure for obtaining a taxpayer identity through online.
+
+◼️
+
+[Data](articles/29805f95.json)
+
+[Extended Data](ext_articles/29805f95.ext.json)
+
+---
 
 ### Teacher deficit: solution in Febravi
 
@@ -593,6 +633,8 @@ Responding to the passing of the draconian Online Safety Act in the Sri Lankan P
 ...
 
 [Data](articles/d420da3f.json)
+
+[Extended Data](ext_articles/d420da3f.ext.json)
 
 ---
 
@@ -1955,45 +1997,5 @@ He said this is not known in the polls so far but they will have a huge impact.
 [Data](articles/a4cc5521.json)
 
 [Extended Data](ext_articles/a4cc5521.ext.json)
-
----
-
-### Nihal Thalduwa promoted as DIG
-
-*2024-01-24 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Nihal-Thalduwa-promoted-as-DIG/108-275658) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - Police Spokesman SSP Nihal Thalduwa has been promoted to the rank Deputy Inspector General of Police (DIG).
-
-He will take charge of Police Crime Range and will also continue as the Police Media Spokesman.
-
-◼️
-
-[Data](articles/dee81761.json)
-
-[Extended Data](ext_articles/dee81761.ext.json)
-
----
-
-### Russian plane crashes with 65 Ukrainian prisoners of war on board
-
-*2024-01-24 15:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/24/russian-plane-crashes-with-65-ukrainian-prisoners-of-war-on-board/) · `en`
-
-Colombo (News 1st) – A Russian military aircraft carrying Ukrainian prisoners of war has crashed in the Belgorod region of Russia, foreign media reported. All 74 people on board are feared dead, including 65 Ukrainians.
-
-The Ukrainian army soldiers were being transported for a prisoner exchange with Ukraine when the aircraft crashed.
-
-Videos on social media showed the Ilyushin IL-76 plane falling from the sky and exploding in a ball of fire as it hit the ground.
-
-A Russian member of parliament accused Ukraine of shooting down the aircraft, but did not provide any evidence.
-
-Speaking in the Russian parliament, Andrei Kartapolov, a retired general, said three missiles hit the plane.
-
-Russian plane crashes with 65 Ukrainian prisoners of war on board
-
-◼️
-
-[Data](articles/1d01893d.json)
-
-[Extended Data](ext_articles/1d01893d.ext.json)
 
 ---

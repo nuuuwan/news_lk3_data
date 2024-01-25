@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 22:17:18**
+As of **2024-01-25 22:32:43**
 
 ## Newspaper Stats
 
-*Scraped **2,622** Articles*
+*Scraped **2,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,49 @@ adalk | 255
 virakesarilk | 286
 adaderanalk | 329
 tamilmirrorlk | 333
-dailymirrorlk | 351
+dailymirrorlk | 353
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,620 (99.9%) of 2,622 articles have been extended.
+2,622 (99.9%) of 2,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### Group connected to certain political party posting insulting posts: Amaraweera
+
+*2024-01-25 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Group-connected-to-certain-political-party-posting-insulting-posts-Amaraweera/108-275720) · `en`
+
+Hambantota, Jan. 25 (Daily Mirror)- A group connected to a particular political party and fake account holders have posted insulting posts on State Minister Sanath Nishantha's tragic death, Minister Mahinda Amaraweera said.
+
+He told reporters that they observed those who circulate such insulting posts on social media and came to know that they were being done by a group connected to a certain political party and through fake accounts.
+
+"Lots of insulting posts about his death are shared on social media. We observed who had uploaded such posts. According to the reports, we came to know that it is mostly done by a group connected to a certain political party and through fake accounts. We never upload such insulting posts when someone dies. We are happy that we can trace such posts now whereas it was difficult earlier," he said.
+
+◼️
+
+[Data](articles/7623b926.json)
+
+---
+
+### Solutions to principals’ issues, Ministerial Committee report released
+
+*2024-01-25 21:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Solutions-to-principals-issues-Ministerial-Committee-report-released/108-275719) · `en`
+
+Colombo, Jan 25 (Daily Mirror) - The report of the committee appointed to resolve the outstanding issues in the Principals' Service, to develop the pricipals' service compatibility according to the educational reforms while uplifting the professional nature of the service was handed over to Education Minister Susil Premajayantha today.
+
+In this report, case studies and relevant recommendations have been presented through six main points.
+
+Accordingly, details relating to developing principalship as a recognized profession,formulation of a National Policy on Principals' Service, amending the service constitution and structuring it for the future, the principal's role, responsibilities and accountabilities, principals' pay benefits and opportunities for talent development and the role of educational reform implementation have been included in the report.
+
+...
+
+[Data](articles/36badca1.json)
+
+---
 
 ### Now the problem with a economy - President
 
@@ -56,15 +88,17 @@ The President made this observation at the opening ceremony of the Sapugaskanda 
 
 ---
 
-### பின்னணிப் பாடகி பவதாரணி காலமானார்
+### Background singer Bhavatharani has passed away
 
 *2024-01-25 21:19:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பின்னணிப்-பாடகி-பவதாரணி-காலமானார்/54-332112) · `ta`
 
-எனினும், அவர் இன்று மாலை 5 மணியளவில்  சிகிச்சைப் பலனின்றி உயிரிழந்தார். அவரது உடல் நாளை (ஜனவரி 26) சென்னைக்கு கொண்டு செல்லப்படவுள்ளதுடன் உயிரிழக்கும் போது பவதாரணிக்கு  வயது 47என்பது குறிப்பிடத்தக்கது.
+However, he died at 5 pm this evening without treatment.Her body will be taken to Chennai tomorrow (January 26) and is 47 years old when he dies.
 
 ◼️
 
 [Data](articles/fb30c118.json)
+
+[Extended Data](ext_articles/fb30c118.ext.json)
 
 ---
 
@@ -188,23 +222,25 @@ Foreign media, the child's parents have been immersed in the river river, and th
 
 ---
 
-### 6 கிலோ கஞ்சாவுடன் சிக்கிய அதிகாரி
+### The officer caught with 6 kg of cannabis
 
 *2024-01-25 19:44:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-கிலோ-கஞ்சாவுடன்-சிக்கிய-அதிகாரி/175-332111) · `ta`
 
-புத்தளம் - ஆனமடுவ பகுதியில் உள்ள பிரபல குத்தகை நிறுவனம் ஒன்றில் பணியாற்றி வரும் , கடன் வழங்கல் பிரிவு உத்தியோகத்தர் ஒருவர் கஞ்சாவுடன் நுரைச்சோலை இளந்தையடி பகுதியில் வைத்து இன்று (25) கைது செய்யப்பட்டுள்ளார்.
+A loan unit officer who works at a leading lease company in Puttalam - Anamaduwa area
 
-கைது செய்யப்பட்ட சந்தேக நபர், காரில் கேரள கஞ்சாவை ஏற்றிச் சென்ற போது பொலிஸாரால் செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that the arrested suspect was made by the police when the car was loaded with Kerala cannabis in the car.
 
-40 வயதான ஆனமடுவ பிரதேசத்தைச் சேர்ந்த ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார் என பொலிஸார் தெரிவித்தனர்.
+A 40 -year -old man from Anamaduwa area has been arrested, police said.
 
-குறித்த சந்தேக நபர் காரின் சாரதி ஆசனத்திலும் மற்றைய முன் இருக்கைகளிலும் 6 கிலோ 500 கிராம் கேரள கஞ்சாவை கொண்டு சென்றுள்ளார் என தெரியவந்துள்ளது.
+It has been revealed that the suspect has taken 6 kg of Kerala cannabis in the car's driver's seat and other seats.
 
-இந்த சம்பவம் தொடர்பில் நுரைச்சோலை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+Forest police are conducting further investigations into the incident. Remble
 
 ◼️
 
 [Data](articles/e6060a3f.json)
+
+[Extended Data](ext_articles/e6060a3f.ext.json)
 
 ---
 
@@ -2039,45 +2075,5 @@ Kuliyapitiya Police say that the father and mother of the suspect is due to be p
 [Data](articles/bdf5dcfc.json)
 
 [Extended Data](ext_articles/bdf5dcfc.ext.json)
-
----
-
-### 838 suspects arrested
-
-*2024-01-25 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192541) · `si`
-
-838 criminals have been arrested by 838 criminals by operations island wide under the operation of justice.
-
-It includes 549 suspects in drug misconduct and 289 suspects on the list of criminal sections.
-
-Among the 549 suspects arrested over drug misconduct, five suspects are conducted on rehabilitation and 10 drug addicts.
-
-The Police Narcotics Bureau and the Police Special Bureau's list have been apprehended.
-
-It is also reported that there are 35 suspects in the list of the 289 suspects arrested on the list of the list of the list.
-
-Five suspects and three suspects who were not arrested from the media and three suspects were arrested in operations.
-
-◼️
-
-[Data](articles/b622505e.json)
-
-[Extended Data](ext_articles/b622505e.ext.json)
-
----
-
-### Jagath Priyankara to fill vacancy created by Sanath Nishantha’s death
-
-*2024-01-25 07:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jagath-Priyankara-to-fill-vacancy-created-by-Sanath-Nishanthas-death/108-275701) · `en`
-
-Colombo, Jan 25 (Daily Mirror) - Jagath Priyankara from the Jathika Nidahas Peramuna is to fill the vacancy created by the sudden death of State Minister Sanath Nishantha, who met with a fatal accident this morning.
-
-Accordingly, the government will lose a seat as Priyankara is the district leader of the Jathika Nidahas Peramuna led by Wimal Weerawansa who sits in Opposition along with other MPs representing his party.
-
-◼️
-
-[Data](articles/d62704a1.json)
-
-[Extended Data](ext_articles/d62704a1.ext.json)
 
 ---

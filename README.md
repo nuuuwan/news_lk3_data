@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 17:17:18**
+As of **2024-01-25 17:33:52**
 
 ## Newspaper Stats
 
-*Scraped **2,587** Articles*
+*Scraped **2,588** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adaderanasinhalalk | 214
 adalk | 250
 virakesarilk | 282
 adaderanalk | 322
-tamilmirrorlk | 329
+tamilmirrorlk | 330
 dailymirrorlk | 348
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,587 (100.0%) of 2,587 articles have been extended.
+2,587 (100.0%) of 2,588 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### சனத் நிஷாந்தவின் வீட்டுக்குச் சென்றார் ஜனாதிபதி...
+
+*2024-01-25 16:54:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-வீட்டுக்குச்-சென்றார்-ஜனாதிபதி/175-332107) · `ta`
+
+இராஜாங்க அமைச்சர் சனத் நிஷாந்த விபத்தில் உயிரிழந்த நிலையில் ஜனாதிபதி ரணில் விக்ரமசிங்க அவரது வீட்டுக்கு நேரில் சென்றுள்ளார்.
+
+இதேவேளை, இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் பூதவுடலை பார்வையிட முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ஷ உள்ளிட்ட பலரும் சென்றுள்ளமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/b34a1534.json)
+
+---
 
 ### US concerned over potential impact of Sri Lanka’s Online Safety Bill: Julie Chung
 
@@ -2079,23 +2093,5 @@ Instead of creating laws on the basis of the common aspirations of 220 million p
 [Data](articles/b5801bfc.json)
 
 [Extended Data](ext_articles/b5801bfc.ext.json)
-
----
-
-### Sri Lanka holds discussions with Bahrain FinTech
-
-*2024-01-25 01:19:03* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-holds-discussions-with-Bahrain-FinTech/34-757750) · `en`
-
-As part of the Embassy of Sri Lanka in Bahrain’s Economic Diplomacy program for the year 2024, a meeting was held on 8 January between Ambassador of Sri Lanka to the Kingdom of Bahrain H.M.G.R.R.K. Wijeratne Mendis and Bahrain FinTech Bay Chief Operating Officer Suzy Al Zeerah.
-
-The meeting served as a platform to identify the commonalities and synergies in the FinTech sectors of Sri Lanka and Bahrain while taking advantage of the rapid developments in ICT and the digital economies of the two countries.
-
-The parties focused on the untapped potential for collaboration and partnership in the Fintech sector seeking to move beyond the boundaries of traditional bilateral trade and investment in goods and services.
-
-...
-
-[Data](articles/17c01b49.json)
-
-[Extended Data](ext_articles/17c01b49.ext.json)
 
 ---

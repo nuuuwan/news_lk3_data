@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 22:06:46**
+As of **2024-01-25 22:17:18**
 
 ## Newspaper Stats
 
-*Scraped **2,620** Articles*
+*Scraped **2,622** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adaderanasinhalalk | 223
 adalk | 255
 virakesarilk | 286
 adaderanalk | 329
-tamilmirrorlk | 331
+tamilmirrorlk | 333
 dailymirrorlk | 351
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,620 (100.0%) of 2,620 articles have been extended.
+2,620 (99.9%) of 2,622 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -53,6 +53,18 @@ The President made this observation at the opening ceremony of the Sapugaskanda 
 [Data](articles/aa680ee0.json)
 
 [Extended Data](ext_articles/aa680ee0.ext.json)
+
+---
+
+### பின்னணிப் பாடகி பவதாரணி காலமானார்
+
+*2024-01-25 21:19:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பின்னணிப்-பாடகி-பவதாரணி-காலமானார்/54-332112) · `ta`
+
+எனினும், அவர் இன்று மாலை 5 மணியளவில்  சிகிச்சைப் பலனின்றி உயிரிழந்தார். அவரது உடல் நாளை (ஜனவரி 26) சென்னைக்கு கொண்டு செல்லப்படவுள்ளதுடன் உயிரிழக்கும் போது பவதாரணிக்கு  வயது 47என்பது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/fb30c118.json)
 
 ---
 
@@ -173,6 +185,26 @@ Foreign media, the child's parents have been immersed in the river river, and th
 [Data](articles/3282b8a4.json)
 
 [Extended Data](ext_articles/3282b8a4.ext.json)
+
+---
+
+### 6 கிலோ கஞ்சாவுடன் சிக்கிய அதிகாரி
+
+*2024-01-25 19:44:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-கிலோ-கஞ்சாவுடன்-சிக்கிய-அதிகாரி/175-332111) · `ta`
+
+புத்தளம் - ஆனமடுவ பகுதியில் உள்ள பிரபல குத்தகை நிறுவனம் ஒன்றில் பணியாற்றி வரும் , கடன் வழங்கல் பிரிவு உத்தியோகத்தர் ஒருவர் கஞ்சாவுடன் நுரைச்சோலை இளந்தையடி பகுதியில் வைத்து இன்று (25) கைது செய்யப்பட்டுள்ளார்.
+
+கைது செய்யப்பட்ட சந்தேக நபர், காரில் கேரள கஞ்சாவை ஏற்றிச் சென்ற போது பொலிஸாரால் செய்யப்பட்டுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+40 வயதான ஆனமடுவ பிரதேசத்தைச் சேர்ந்த ஒருவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார் என பொலிஸார் தெரிவித்தனர்.
+
+குறித்த சந்தேக நபர் காரின் சாரதி ஆசனத்திலும் மற்றைய முன் இருக்கைகளிலும் 6 கிலோ 500 கிராம் கேரள கஞ்சாவை கொண்டு சென்றுள்ளார் என தெரியவந்துள்ளது.
+
+இந்த சம்பவம் தொடர்பில் நுரைச்சோலை பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/e6060a3f.json)
 
 ---
 
@@ -2047,43 +2079,5 @@ Accordingly, the government will lose a seat as Priyankara is the district leade
 [Data](articles/d62704a1.json)
 
 [Extended Data](ext_articles/d62704a1.ext.json)
-
----
-
-### All Medical Associations Join
-
-*2024-01-25 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192540) · `si`
-
-All Medical Associations have decided to launch a new program for the future of the medical service.
-
-The program is to be implemented with the participation of the doctors of the Government Medical Officers, Specialist Office Association and the Sri Lanka Medical Institute.
-
-A special discussion was held yesterday (24), the Government Medical Officers' Association Media Spokesperson Dr. Chamil Wijesinghe said.
-
-"We should talk to the country's burden to the country and a mechanism that can provide quality service to the people of this country and a quality service to the people of this country. How can people spend more services relatively we spend on medications?. It was discussed yesterday how we can give it justice to this money and how this service could be less expensive. Along with an agreement to take free health services in this country to a new chapter under a public committee. "
-
-◼️
-
-[Data](articles/92d84da7.json)
-
-[Extended Data](ext_articles/92d84da7.ext.json)
-
----
-
-### Economic consequences of Online Safety Bill should be considered: Harsha
-
-*2024-01-25 07:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Economic-consequences-of-Online-Safety-Bill-should-be-considered-Harsha/108-275700) · `en`
-
-Economic consequences of the Online Safety Bill should be considered by the government though there is a need for regulating social media, SJB MP Harsha de Silva said yesterday.
-
-“One should take a note on the consequence the Bill will have on e-commerce. Our youth should be made to participate in the economy through e-commerce. Legislations such as these will prevent these opportunities,” he said.
-
-“You cannot consider service providers such as Facebook and You Tube as perpetrators just because another person uploads an unwanted post on social media,” he added.
-
-◼️
-
-[Data](articles/b2c57876.json)
-
-[Extended Data](ext_articles/b2c57876.ext.json)
 
 ---

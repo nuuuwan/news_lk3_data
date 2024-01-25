@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 09:17:21**
+As of **2024-01-25 09:33:06**
 
 ## Newspaper Stats
 
-*Scraped **2,518** Articles*
+*Scraped **2,519** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ economynextcom | 151
 dailyftlk | 194
 adaderanasinhalalk | 200
 adalk | 244
-virakesarilk | 277
+virakesarilk | 278
 adaderanalk | 313
 tamilmirrorlk | 316
 dailymirrorlk | 335
@@ -26,47 +26,55 @@ dailymirrorlk | 335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,516 (99.9%) of 2,518 articles have been extended.
+2,518 (100.0%) of 2,519 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### සරණාගත මධ්‍යස්ථානයකට මාරක ෂෙල් වෙඩි ප්‍රහාරයක්
+### Fatal shells at a refugee center
 
 *2024-01-25 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192544) · `si`
 
-දකුණු ගාසා තීරයේ එක්සත් ජාතීන්ගේ සංවිධානය විසින් පවත්වාගෙන යනු ලබන සරණාගත මධ්‍යස්ථානයකට එල්ල වූ ප්‍රහාරයකින් පුද්ගලයින් නව දෙනෙකු ජීවිතක්ෂයට පත් ව තිබේ.
+Nine personnel were killed in a refugee center who was run by the United Nations in the South Gaza.
 
-එහි දී තවත් පුද්ගලයින් 75 දෙනෙකු තුවාල ලබා රෝහල්ගත කර ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+Foreign media reports that 75 others were injured in the hospital.
 
-කෙසේ වෙතත් අදාළ ප්‍රහාරය තම හමුදා විසින් සිදු කර නොමැති බව ඊශ්‍රායලය පවසයි.
+However, Israel says that the attack has not been carried out by his troops.
 
 ◼️
 
 [Data](articles/073f4b17.json)
 
+[Extended Data](ext_articles/073f4b17.ext.json)
+
 ---
 
-### ජීවිත බිලිගත් මාරක අනතුරු කිහිපයක්
+### Several fatal accidents that have been killed
 
 *2024-01-25 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192543) · `si`
 
-දිවයිනේ ප්‍රදේශ කිහිපයක සිදුවු රිය අනතුරුවලින් ජීවිත රැසක් අහිමි වී ඇතැයි පොලීසිය පවසයි.
+Police say that several lives were lost in several parts of the island.
 
-ඊයේ (24) උදෑසන තිස්ස - මාතර මාර්ගයේ මැදඑළිය ප්‍රදේශයේ දී රන්න දෙස සිට හුංගම දෙසට ධාවනය වූ වෑන් රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි ලොරියක ගැටී අනතුරක් සිදුව තිබිණි.
+A van in the Tissama Matara area yesterday (24th) had been reported towards a horn of a horn and a hanging lorry.
 
-අනතුරින් වෑන් රථයේ රියදුරු ජීවිතක්ෂයට පත්වූ අතර එහි ගමන් ගත් අවුරුදු 12ත් 71ත් අතර වයස්වල පසුවන 7 දෙනෙකු බරපතළ තුවාල ලබා රෝහල් ගත කර තිබේ.
+The driver of the van was killed and 7 years of age were seriously injured and hospitalized.
 
-අනතුරින් ලොරි රථ රියදුරුද තුවාල ලබා හම්බන්තොට රෝහලට ඇතුළත් කර ඇත.
+The lorry driver and the injured were injured and admitted to the Hambantota Hospital.
 
-මේ අතර කොළොන්න පොලිස් වසමේ පනාමුර කළුපොත්දෙණිය මාර්ගයේ දොරපනේ ප්‍රදේශයේ දී මොරවාඩිය දෙස සිට දොරපනේ දෙසට ධාවනය වූ ත්‍රීරෝද රථයක් මාර්ගයේ බෑවුම් ප්‍රදේශයක දී රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයේ වම්පසට පෙරළී ගොස් අනතුරක් සිදුව ඇත.
+Meanwhile, a three-wheeler, which was running towards the doorway from the Kotapaduwa area along the Kotawadiya road in Kalu Palane road in Kalu Palane road, the Kolonnawa road in Kalu Palane road has to control the road to the driver.
 
-අනතුරින් ත්‍රීරෝද රථයේ පිටුපස ගමන් කළ කාන්තාවක් ජීවිතක්ෂයට පත්ව ඇති අතර, ඇයගේ ස්වාමිපුරුෂයා සුළු තුවාල ලබා තිබේ.
+A woman was killed in the back of the three wheeler and her husband was slightly injured.
+
+Meanwhile, a motorbike traw towards a lorry, which was parked towards a lorry, towards a lorry, towards a parked lorry in the Chilaw Police Division, was on a lorry.
+
+Meanwhile, a jeep who had been on the right route 26 main road in the Pallekele Police Division was in the back of the car accident.
 
 ...
 
 [Data](articles/8bad562f.json)
+
+[Extended Data](ext_articles/8bad562f.ext.json)
 
 ---
 

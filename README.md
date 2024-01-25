@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 18:22:45**
+As of **2024-01-25 18:34:55**
 
 ## Newspaper Stats
 
-*Scraped **2,598** Articles*
+*Scraped **2,600** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 143
 islandlk | 147
 economynextcom | 152
 dailyftlk | 194
-adaderanasinhalalk | 217
+adaderanasinhalalk | 219
 adalk | 252
 virakesarilk | 284
 adaderanalk | 323
@@ -26,37 +26,57 @@ dailymirrorlk | 348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,594 (99.8%) of 2,598 articles have been extended.
+2,598 (99.9%) of 2,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### சனத் நிஷாந்தவின் இல்லத்திற்குச் சென்று இரங்கல் தெரிவித்தார் ஜனாதிபதி
+### සනත් නිශාන්තගේ මරණය ගැන අපහාසාත්මක පෝස්ට් දාන අයව සොයයි
+
+*2024-01-25 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192565) · `si`
+
+රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ මියයෑම පිළිබඳ සමාජ මාධ්‍ය ඔස්සේ අපහාසාත්මක ලෙස මත පළ කරන පුද්ගලයින් පිළිබඳ සොයාබැලීමක් සිදුකළ බව කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා පැවසීය.
+
+ඔහු සඳහන් කළේ මරණයක් පිළිබඳ එවැනි ආකාරයේ මත පළ කිරීම් අනුමත කළ නොහැකි බවය.
+
+"එතුමාගේ මරණය ගැන සමාජ මාධ්‍යවල ඉතාමත් නරක විදියට පළ කිරීම් සිදුකර තිබෙනවා. ඒකෙන් අපිට පැහැදිලි වුණා හැමදාම කමෙන්ට්ස් දාන්නේ කවුද කියලා. මේ වතාවේ සොයාබැලීමක් කළාම... ඒක පක්ෂයකට සම්බන්ධ කට්ටිය තමයි මෙහෙම දේවල් දාලා තියෙන්නේ. නැත්නම් දෙයියනේ මනුස්සයෙක් මැරුණාම මෙහෙම දේවල් කියන්න බැහැ. අපි සොයාබැලීමක් කළා.. ලැබුණු වාර්තා අනුව එක පක්ෂයකට සම්බන්ධ වෙච්ච කට්ටිය සහ ෆේක් එකවුන්ට්ස්. අපි සතුටු වෙනවා.. දැන් ඒවා හොයාගන්නත් පුළුවන් වෙයි. ඉස්සර නම් හොයා ගන්නත් අමාරුයි නේ."
+
+◼️
+
+[Data](articles/311ea5b9.json)
+
+---
+
+### The President expressed his condolences to Sanath Nishantha's residence
 
 *2024-01-25 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174797) · `ta`
 
-வாகன விபத்தில் உயிர் நீத்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் இல்லத்திற்கு வியாழக்கிழமை (25) காலை சென்றிருந்த ஜனாதிபதி ரணில் விக்ரமசிங்க அவரது குடும்பத்தாருக்கு ஆறுதல் கூறினார்.
+President Ranil Wickremesinghe, who was on his way to the residence of Minister Sanath Nishantha, who died in a vehicle accident, consoled his family on Thursday morning.
 
-இராஜாங்க அமைச்சரின் திடீர் மரணத்தையிட்டு அவரது குடும்ப உறுப்பினர்களிடம் ஜனாதிபதி இரங்கல் தெரிவித்தார்.
+The President expressed his condolences to his family members over the sudden death of the diplomatic minister.
 
 ◼️
 
 [Data](articles/24bcc45b.json)
 
+[Extended Data](ext_articles/24bcc45b.ext.json)
+
 ---
 
-### கடுவெல கடலில் குளிக்கச் சென்ற ஒருவர் உயிரிழப்பு : மற்றையவர் மாயம் !
+### A man who bathing in the sea of Kaduwela dies: The other is magic!
 
 *2024-01-25 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/174796) · `ta`
 
-ஹம்பாந்தோட்டை , கடுவெல கடலில் குளிக்கச்சென்ற இருவரில் ஒருவர் உயிரிழந்துள்ளதுடன் மற்றையவர் காணாமல் போயுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+Two of the two men who were bathing in the Kaduwela Sea in Hambantota have died and the other disappeared, police said.
 
-இவ்வாறு கடலில் குளிக்கச்சென்றவரில் 35 வயதான ஆணின் சடலம் மீட்கப்பட்டுள்ளதாகவும் 25 வயதுடைய ஆண்  காணாமல்போயுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+The body of a 35 -year -old man has been recovered and a 25 -year -old man has disappeared, police said.
 
 ◼️
 
 [Data](articles/5c870fe1.json)
+
+[Extended Data](ext_articles/5c870fe1.ext.json)
 
 ---
 
@@ -139,6 +159,8 @@ The body of a 35-year-old male has been recovered so far while a search is ongoi
 ◼️
 
 [Data](articles/01e142bc.json)
+
+[Extended Data](ext_articles/01e142bc.ext.json)
 
 ---
 
@@ -1050,25 +1072,29 @@ Giant pandas are a unique species in China and are hailed as a national treasure
 
 ---
 
-### රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත කියන්නේ කවුද ?
+### Who is Sanath Nishantha?
 
 *2024-01-25 11:22:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckrdv4503v8o) · `si`
 
-මෙරට දේශපාලනයේ ආන්දෝලනාත්මක චරිතයක් මෙන්ම රාජපක්ෂ කඳවුරේ ප්‍රබලයෙකු වූ ධීවර සහ මිරිදිය මත්ස්‍ය කර්මාන්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත පෙරේරා අද (ජනවාරි 25 වැනිදා) කටුනායක - කොළඹ අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් ජීවිතක්ෂයට පත් විය.
+As a controversial figure of the politics of Sri Lanka, the Rajapaksa camp, the Minister of Fisheries and Inland Camp, was killed in an accident on the Katunayake-Colombo expressway today (Jan. 25).
 
-රාජ්‍ය අමාත්‍යවරයාගේ මරණය සැලවීමත් සමග ඔහුගේ දේහය තැන්පත් කර තිබෙන රාගම ශික්ෂණ රෝහලට පාර්ලිමේන්තුව නියෝජනය කරනු ලබන මන්ත්‍රීවරුන් රැසක් පැමිණ සිටිනු දක්නට ලැබුණි.
+With the death of the State Minister, he was present at the Ragama Teaching Hospital which was buried.
 
-එමෙන්ම ජනාධිපති රනිල් වික්‍රමසිංහද රාජ්‍ය අමාත්‍යවරයා තාවකාලිකව පදිංචිව සිටි කොළඹ නිවස වෙත ගොස්  බිරිඳ ඇතුළු පවුලේ සමාජිකයින් හමුවේ සිය ශෝකය පළ කර සිටියේය.
+President Ranil Wickremesinghe also visited the Colombo house which was temporarily resided to move to Colombo and his wife and family members.
 
-දේශපාලන වේදිකාවේදී මෙන්ම ඉන් පිටදිත් සිදුකළ විවිධ ප්‍රකාශ හේතුවෙන් සනත් නිශාන්ත රාජ්‍ය අමාත්‍යවරයාට පක්ෂව මෙන්ම විපක්ෂව ජනමතයක් ගොඩනැගී තිබුණි.
+Sanath Nishantha was in favor of the Minister of State and against the state minister as well as various statements made by the political platform.
 
-1973 වර්ෂයේ මැයි මස 3 වැනිදා උපත ලැබු සනත් නිශාන්ත රාජ්‍ය අමාත්‍යවරයා අධ්‍යාපනය හදාරා ඇත්තේ හලාවත සාන්ත මරියා විදුහලෙනි.
+Sanath Nishantha who was born on May 3, 1973, State Minister has been studying St. Mary's College, Chilaw.
 
-සනත් නිශාන්ත ආරච්චිකට්ටුව ප්‍රාදේශිය සභාවේ ශ්‍රී ලංකා නිදහස් පක්ෂ සභිකයෙක් ලෙස දේශපාලනයට පිවිසියේ 1998 වසරේදීයි.
+Sanath Nishantha Arachchikattuwa as a member of the Sri Lanka Freedom Party Council of the House entered politics in 1998.
+
+Sanath Nishantha, who contested the General Election of the Puttalam District from the UPFA, was elected to the Parliament by obtaining 68,240 preferential votes.
 
 ...
 
 [Data](articles/61f73c65.json)
+
+[Extended Data](ext_articles/61f73c65.ext.json)
 
 ---
 
@@ -2079,23 +2105,5 @@ The article stated that the Ramanna Section of the Ramanna section of the Ramann
 [Data](articles/d9a61420.json)
 
 [Extended Data](ext_articles/d9a61420.ext.json)
-
----
-
-### Drug dried
-
-*2024-01-25 02:40:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மருந்து-ஏற்றிய-இளைஞர்-உயிரிழப்பு/175-332093) · `ta`
-
-A youth from Otumadam, Jaffna, has died of a large number of drug injections.
-
-An anatomical study was conducted yesterday to find out if there was any mystery in the death of a 26 -year -old youth who was suddenly killed in the Ootumadam area yesterday.. It was attributed to the death of the young man to be the cause of the injection of the drug.
-
-Meanwhile, the body of the deceased is also found in the body of drugs. (A)
-
-◼️
-
-[Data](articles/db2578b8.json)
-
-[Extended Data](ext_articles/db2578b8.ext.json)
 
 ---

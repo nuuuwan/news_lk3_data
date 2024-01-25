@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 16:17:09**
+As of **2024-01-25 16:32:50**
 
 ## Newspaper Stats
 
-*Scraped **2,581** Articles*
+*Scraped **2,584** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 35
 bbccomsinhala | 49
 dbsjeyarajcom | 123
-newsfirstlk | 142
+newsfirstlk | 143
 islandlk | 146
 economynextcom | 152
 dailyftlk | 194
 adaderanasinhalalk | 214
 adalk | 250
 virakesarilk | 282
-adaderanalk | 320
+adaderanalk | 322
 tamilmirrorlk | 329
 dailymirrorlk | 345
 
@@ -26,29 +26,93 @@ dailymirrorlk | 345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,579 (99.9%) of 2,581 articles have been extended.
+2,581 (99.9%) of 2,584 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### ජනපති සනත් නිශාන්තගේ නිවසට එයි
+### Shop fire in China’s Jiangxi province kills 39, traps others
+
+*2024-01-25 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96723/shop-fire-in-chinas-jiangxi-province-kills-39-traps-others) · `en`
+
+A fire at a street shop in Xinyu City of Jiangxi Province has killed 39 people and injured nine, Chinese state media and the local government said on Wednesday, adding that some people were still trapped.
+
+The fire broke out in the afternoon in an underground floor of the shop on Tiangongnan Avenue in the Yushui district, said the local fire response emergency headquarters, according to the China Daily media outlet.
+
+The injured were taken to hospital, a government statement said, without disclosing how many.
+
+Thick, black smoke could be seen spewing from shops on the street level and engulfing surrounding buildings in video footage on social media platform Weibo.
+
+According to state broadcaster CCTV News, there was an Internet cafe located below ground level and a training institution upstairs in the building where the fire broke out.
+
+...
+
+[Data](articles/a63f4163.json)
+
+---
+
+### President wins Sanath Nishantha's house
 
 *2024-01-25 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192559) · `si`
 
-අභාවප්‍රාප්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ ඥාතීන් හමුවීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැමිණියේය.
+President Ranil Wickremesinghe arrived to meet the relatives of the late Minister of State Sanath Nishantha.
 
-රාජ්‍ය අමාත්‍යවරයාගේ දේහය පිළිබඳ අවසන් කටයුතු ලබන 28 වන ඉරිදා සිදුකිරීමට සැලසුම් කර තිබේ.
+The funeral of the State Minister's remains is scheduled to be held on Sunday, 28.
 
-අද (25) අලුයම කටුනායක අධිවේගී මාර්ගයේ සිදුවු රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ ඔහුගේ ආරක්ෂක නිලධාරියා ජීවිතක්ෂයට පත් වුණි.
+State Minister Sanath Nishantha and his security officer were killed in an accident on the Katunayake Expressway this morning.
 
-අද අලුයම දෙකට පමණ රාජ්‍ය අමාත්‍යවරයා ගමන් ගත් සුඛෝපභෝගී රථය එම දෙසටම ඉදිරියෙන් ධාවනය වූ කන්ටේනර් රථයක හා මාර්ගයේ ආරක්ෂිත වැටේ ගැටීමෙන් අනතුර සිදුව තිබිණි.
+The luxury vehicle traveling about two am this morning was accidental.
 
-"ෆැමිලි එක පිටින් යන්න ඕනේ කියලා අපි ඔක්කොම ගියා. ගිහින් එතනින් අපිව වෙන වාහනයකට දැම්මා එන්න. එයා ගියා හලාවත.... වෙඩින් එකකට. ඒ ගිහින් එමින් ගමන් තමයි මේ..."
+"We all went to go outside the Family. Go and let us put us in another vehicle. He went to the Chilaw .... To one of a wedding. It's going on that ... "
 
 ◼️
 
 [Data](articles/2ece7f4c.json)
+
+[Extended Data](ext_articles/2ece7f4c.ext.json)
+
+---
+
+### Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
+
+*2024-01-25 15:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/chamari-athapaththu-named-the-icc-women%e2%80%99s-odi-cricketer-of-the-year-2023/) · `en`
+
+Colombo (News 1st) – Sri Lanka’s cricket star Chamari Athapaththu has won the ICC Women’s ODI Cricketer of the Year 2023 award after an extraordinary 12 months.
+
+During 2023, Chamari scored 415 runs in eight matches and took one wicket as well.
+
+As captain, 33-year-old Chamari led Sri Lanka to its first series win over New Zealand 2-1. She scored unbeaten knocks of 108 and 140 in the two wins, which were decisive. In the 3rd match, she raced to a century off just 29 balls, which is the fastest century by a Sri Lankan and the 4th fastest by any cricketer in women’s ODI history.
+
+In a career of 98 ODIs, she has scored 3,255 runs at an average of 34.26, with a highest score of 178 not out. With 8 centuries and 15 half-centuries, she has a strike rate of 73.09.
+
+Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
+
+Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+
+Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
+
+...
+
+[Data](articles/f7aea77d.json)
+
+---
+
+### Penal Code to be amended to declare male child rape a criminal offence
+
+*2024-01-25 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96722/penal-code-to-be-amended-to-declare-male-child-rape-a-criminal-offence-) · `en`
+
+The Sri Lankan government has decided to amend the Penal to institute raping of male children as a criminal offence.
+
+Accordingly, the approval of the Cabinet of Ministers has been granted to publish the relevant draft bill introducing amendments to the Penal Code in the government gazette notification and table it in the Parliament.
+
+The Cabinet of Ministers had previously green-lighted a resolution to amend the Penal Code, to amend laws on constitutional rape of females mentioned in the Penal Code, to correct the shortcomings in the law of raping of females and to institute raping of male children as a criminal offense in the year 2021.
+
+Later, clearance of the Attorney General has been granted for the draft bill formulated by the Legal Draftsman.
+
+...
+
+[Data](articles/7af593c5.json)
 
 ---
 
@@ -132,15 +196,17 @@ Several Ministers and MPs visit the Ragama Hospital, where State Minister Sanath
 
 ---
 
-### සනත් නිශාන්තගෙන් හිස්වන මන්ත්‍රී ධුරයට ජගත් ප්‍රියංකර
+### Jagath Priyankara appointed Sanath Nishantha
 
 *2024-01-25 15:04:28* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තගෙන්-හිස්වන-මන්ත්‍රී-ධුරයට-ජගත්-ප්‍රියංකර/11-407724) · `si`
 
-සනත් නිශාන්ත මහතාගේ අභාවයෙන් පුරප්පාඩු වන පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ධූරය සදහා පසුගිය මැතිවරණයට ඉදිරිපත් වූ ජගත් ප්‍රියංකර මහතා සුදුසුකම් ලබා තිබේ. ජගත් ප්‍රියංකර මහතා වෘත්තීයෙන් සමෘද්ධි සංවර්ධන කළමණාකරුවෙකි.
+Jagath Priyankara, who was contesting for the last election of the death of Mr. Sanath Nishantha, has been eligible for the post of Vacant Puttalam District Parliamentary Parliamentary Parliamentary Parliamentary Parliamentary Parliament. Jagath Priyankara is a Samurdhi Development Manager.
 
 ◼️
 
 [Data](articles/6eae5dec.json)
+
+[Extended Data](ext_articles/6eae5dec.ext.json)
 
 ---
 
@@ -243,6 +309,8 @@ According to police investigations, Minister Ranatunga said that the driver of t
 *2024-01-25 14:11:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/talk-of-the-town-when-women-come-first-hirunika-premachandra-25th-january-2024/) · `en`
 
 Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+
+Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
 
 Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
 
@@ -514,9 +582,9 @@ Police say that they seized 16 kilograms and 600 grams of ganja, 211 grams of he
 
 35 suspects who had open warrants for drug offences and 246 suspects who had open warrants for non-drug offences were also among the suspects apprehended.
 
-Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
 
-Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
+Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
 
 ...
 
@@ -867,6 +935,8 @@ COLOMBO (News 1st);46 Indian fishermen have been apprehended for illegal fishing
 Navy spokesperson Captain Gayan Wickramasuriya says that 8 Indian fishing boats have also been taken into custody.
 
 He added that the apprehended Indian fishermen have been handed over to the Fisheries Inspectors for onward legal action.
+
+Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
 
 Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
 
@@ -1452,6 +1522,8 @@ Police say the suspect who was caught by the residents along with the firearm us
 
 Police say, Investigations are underway to find the suspect who fled the scene.
 
+Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
+
 Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
 
 Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
@@ -1629,6 +1701,8 @@ COLOMBO (News 1st); Sri Lankan State Minister Sanath Nishantha died early on Thu
 Sri Lanka Police said that a Police Constable attached to the security detail of the State Minister died as well, while the driver sustained serious injuries and was admitted to the hospital.
 
 According to an official statement from Sri Lanka Police the accident took place at 2 AM and the SUV in which the State Minister was travelling in crashed on to the rear end of a freight container truck heading to Colombo, resulting in the tragic accident.
+
+Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
 
 Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
 
@@ -2021,61 +2095,5 @@ The award ceremony was recently held at the Nelum Pokuna Mahinda Rajapaksa Theat
 [Data](articles/f45637d0.json)
 
 [Extended Data](ext_articles/f45637d0.ext.json)
-
----
-
-### First suspect arrested for murder of Royal Beach Saman
-
-*2024-01-25 01:08:50* · [`dailyftlk`](https://www.ft.lk/news/First-suspect-arrested-for-murder-of-Royal-Beach-Saman/56-757737) · `en`
-
-The Police yesterday arrested the one suspect believed to be connected to the recent killing of Ape Jana Bala Pakshaya leader Saman Prasanna Perera alias Royal Beach Saman who was shot
-
-dead along with five others by an unidentified group in Beliatta on Monday.
-
-The suspect was arrested in Matara by a police team led by the OIC of the Hakmana Police. The suspect has been identified as 54-year-old Saman Kumara, who was once employed as a businessman at the Manning Market in Colombo.
-
-According to investigators he is believed to be the driver of the Pajero used by the assailants for the killing and the mastermind of the crime.
-
-Meanwhile, the Police also discovered the vehicle used by the assailants in the vicinity of Vidyaloka Pirivena in Galle. The discovery was made based on the information provided by the suspect.
-
-...
-
-[Data](articles/8d5c68ae.json)
-
-[Extended Data](ext_articles/8d5c68ae.ext.json)
-
----
-
-### Speaker endorses certificate on four Bills
-
-*2024-01-25 01:07:42* · [`dailyftlk`](https://www.ft.lk/news/Speaker-endorses-certificate-on-four-Bills/56-757736) · `en`
-
-The Speaker of House Mahinda Yapa Abeywardana has endorsed the certificate on four Bills.
-
-The Speaker endorsed the certificate on the Powers of Attorney (Amendment) Bill, Prevention of Frauds (Amendment) Bill, the Mediation Board (Amendment) Bill and the Office for National Unity and Reconciliation Bill on Tuesday.
-
-Accordingly, the four Bills will come into effect as the Office for National Unity and Reconciliation Act No.1 of 2024, the Mediation Board (Amendment) Act No.2 of 2024, Powers of Attorney (Amendment) Act No. 3 of 2024 and Prevention of Frauds (Amendment) Act No. 4 of 2024.
-
-◼️
-
-[Data](articles/75185383.json)
-
-[Extended Data](ext_articles/75185383.ext.json)
-
----
-
-### Lankan envoy discusses future trajectory of Sri Lanka-UK ties with UK Speaker
-
-*2024-01-25 01:07:35* · [`dailyftlk`](https://www.ft.lk/news/Lankan-envoy-discusses-future-trajectory-of-Sri-Lanka-UK-ties-with-UK-Speaker/56-757735) · `en`
-
-High Commissioner of Sri Lanka to the United Kingdom Rohitha Bogollagama had a meeting on 23 January 2024, with the Speaker of the UK Parliament Lord McFall of Alcluith. The discussions centred on enhancing relations between Sri Lanka and the United Kingdom, and its future trajectory.
-
-During the meeting, the High Commissioner and Speaker Lord McFall discussed a wide array of topics covering contemporary international relations, the reconciliation process in Sri Lanka, and the enhancement of bilateral relations. The High Commissioner also briefed the Speaker on Sri Lanka’s constitutional reforms. The exchange of ideas and perspectives aimed to foster greater understanding and cooperation in the Sri Lanka-UK relationship.
-
-...
-
-[Data](articles/65bcb997.json)
-
-[Extended Data](ext_articles/65bcb997.ext.json)
 
 ---

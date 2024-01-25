@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 10:04:10**
+As of **2024-01-25 10:17:17**
 
 ## Newspaper Stats
 
-*Scraped **2,523** Articles*
+*Scraped **2,524** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 137
 islandlk | 146
 economynextcom | 151
 dailyftlk | 194
-adaderanasinhalalk | 201
+adaderanasinhalalk | 202
 adalk | 244
 virakesarilk | 278
 adaderanalk | 313
@@ -26,11 +26,31 @@ dailymirrorlk | 336
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,523 (100.0%) of 2,523 articles have been extended.
+2,523 (100.0%) of 2,524 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### තවත් ඝාතන තැතක් අනූනවයෙන් ගිලිහෙයි
+
+*2024-01-25 09:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192546) · `si`
+
+මුල්ලේරියාව කැලණි නදී මාවත හන්දියේ ලේ පැල්ලම් සහිත කඩු කිහිපයක් සමග නවතා තිබූ සැකකටයුතු ත්‍රීරෝද රථයක් පරීක්ෂා කර සැකකරුවන් 6 දෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+එම ත්‍රීරෝද රථයේ තිබී කඩු තුනක්, යකඩ පොල්ලක්, මන්නයක් සහ ජීව අත්බෝම්බ දෙකක් සමග මෙම සැකකරුවන් මුල්ලේරියාව පොලිස් භාරයට ගෙන ඇත.
+
+මුර සංචාරයේ යෙදී සිටි පොලිස් නිලධාරීන් දෙදෙනෙකුට අදාළ ත්‍රීරෝද රථය පිළිබඳව සැකසිතී සිදුකළ පරීක්ෂාවේදී මෙම ආයුධ හමු වී ඇති අතර අදාළ ත්‍රීරෝද රථයෙහි  පුද්ගලයින් හයදෙනෙක් ගමන් කර තිබූ බවද පොලීසිය පවසයි.
+
+එම පොලිස් නිලධාරීන් දෙදෙනා විසින් අනෙකුත් පොලිස් නිලධාරීන් වෙත දුරකථන ඇමතුමක් ලබාදී ගෙන්වාගෙන සිදුකළ පරීක්ෂාවේදී සැකකරුවන්ගේ ශරීරයේ සඟවා ගෙන තිබූ ජීව අත් බෝම්බ සහ ජංගම දුරකථන හයක් අත්අඩංගුවට ගත් බවද මුල්ලේරියාව පොලීසියේ උසස් නිලධාරියෙකු සඳහන් කළේය.
+
+119 පොලිස් හදිසි ඇමතුම් අංකයට ලද පණිවිඩයක් අනුව අනාවරණය වී ඇත්තේ පිංතාලිය හන්දියේ බටකැටිය පටුමගේ නිවසකට අනවසරයෙන් පිරිසක් ඇතුළු වී ඇති බවටය.
+
+...
+
+[Data](articles/2352a8b1.json)
+
+---
 
 ### Notice of MP, who is vacant after Sanath Nishantha
 
@@ -2023,25 +2043,5 @@ The prison center has requested that he be saved because he is fighting for life
 [Data](articles/0b3d4ead.json)
 
 [Extended Data](ext_articles/0b3d4ead.ext.json)
-
----
-
-### Dawn
-
-*2024-01-24 18:48:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சாந்தனின்-உயிருக்கு-ஆபத்து/175-332066) · `ta`
-
-The Prison Rights Center has said that Shantan's health has been affected by the Rajiv Gandhi murder case in the Rajiv Gandhi murder of India.
-
-Santhan has not been treated at the Trichy Special Camp, causing his life to be treated at the Multipurpose Specialty Hospital in Chennai.
-
-Shantan, who is currently released in the Rajiv Gandhi murder case, is waiting for a visa to return to Sri Lanka.
-
-The prison center has requested that he be saved because he is fighting for life as he is fighting for two months.. Remble
-
-◼️
-
-[Data](articles/c90a2f5a.json)
-
-[Extended Data](ext_articles/c90a2f5a.ext.json)
 
 ---

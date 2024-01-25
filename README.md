@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 06:58:07**
+As of **2024-01-25 07:21:19**
 
 ## Newspaper Stats
 
-*Scraped **2,473** Articles*
+*Scraped **2,476** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 35
 bbccomsinhala | 47
-dbsjeyarajcom | 122
+dbsjeyarajcom | 123
 islandlk | 133
 newsfirstlk | 136
 economynextcom | 151
 adaderanasinhalalk | 189
 dailyftlk | 194
-adalk | 241
+adalk | 242
 virakesarilk | 276
-adaderanalk | 309
+adaderanalk | 310
 tamilmirrorlk | 313
 dailymirrorlk | 327
 
@@ -26,11 +26,27 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,473 (100.0%) of 2,473 articles have been extended.
+2,473 (99.9%) of 2,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### Inmates escape after another clash breaks out at Kandakadu rehab centre
+
+*2024-01-25 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96712/inmates-escape-after-another-clash-breaks-out-at-kandakadu-rehab-centre) · `en`
+
+A group of inmates detained at the Kandakadu Treatment and Rehabilitation Centre have escaped following a clash that ensued last night (Jan.24).
+
+According to the Commissioner General of Rehabilitation, at least 40 inmates have fled the facility amidst the altercation.
+
+The police have taken measures to bring the situation under control.
+
+◼️
+
+[Data](articles/0a6e4171.json)
+
+---
 
 ### Sanath Nishantha dies in fatal accident
 
@@ -1018,6 +1034,22 @@ Police have uncovered that the suspected Iranian had distributed the drugs throu
 
 ---
 
+### පොලිස් මාධ්‍ය ප්‍රකාශයකට උසස්වීමක්
+
+*2024-01-24 19:57:29* · [`adalk`](https://www.ada.lk/breaking_news/පොලිස්-මාධ්‍ය-ප්‍රකාශයකට-උසස්වීමක්/11-407717) · `si`
+
+පොලිස් මාධ්‍ය ප්‍රකාශක නීතිඥ නිහාල් තල්දූව මහතා නියෝජ්‍ය පොලිස්පති තනතුරට උසස් කර තිබෙන අතර ඒ මහතා අපරාධ දිසාව භාර නියෝජ්‍ය පොලිස්පති ලෙස පත් කර තිබේ.
+
+නියෝජ්‍ය පොලිස්පතිවරයා පොලිස් මාධ්‍ය ප්‍රකාශක  ලෙස තවදුරටත් කටයුතු කරන  අතර ජාතික පොලිස් කොමිෂන් සභාවේ අනුමතිය පරිදි වැඩබලන පොලිස්පතිවරයා  විසින්  මේ උසස් වීම සිදුකර ඇත.
+
+උසස් වීම මේ මස 08 වැනි දින සිට ක්‍රියාත්මක වන පරිදි ලබා දී තිබේ.
+
+◼️
+
+[Data](articles/0f9a74b5.json)
+
+---
+
 ### I am a Sri Lankan citizen, I have no dual citizenship - Nayana Vasalathilaka
 
 *2024-01-24 19:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/174741) · `ta`
@@ -1303,6 +1335,20 @@ Opposition legislator M A Sumanthiran, a lawyer, said 13 amendments circulated a
 [Data](articles/046b1208.json)
 
 [Extended Data](ext_articles/046b1208.ext.json)
+
+---
+
+### Is the  ITAK  President Elect  Shritharan Changing Party  Policy From Espousing Federalism to that of Supporting  TamiL Eelam?
+
+*2024-01-24 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83498) · `en`
+
+The premier political party representing  Sri Lankan Tamils in Parliament has got a new leader. The Ilankai Thamil Arasuk Katchi(ITAK) known in English as the Federal Party(FP) has elected Jaffna district Parliamentarian Sivagnanam Shritharan as its president in Trincomalee on 21 January 2024. The president elect will be formally installed  in office at the party convention to be held on 28 January in Trinco. Shritharan  will serve  a  two-year term   as ITAK/FP president.
+
+Initially there were three contenders in the fray for the ITAK Presidency. The three aspirants to the ITAK leadership mantle were Mathiaparanan Abraham Sumanthiran, Sivagnanam Shritharan and Seenithamby Yoheswaran.  Sumanthiran born in 1964  and Shritharan born in 1968  are both Jaffna district MP’s while Yogeswaran  born in 1970 is a former Batticaloa district Parliamentarian.
+
+...
+
+[Data](articles/d76517fd.json)
 
 ---
 
@@ -1941,61 +1987,5 @@ At the same time, the highlight of the position as the Army Commander. Moreover,
 [Data](articles/c056e165.json)
 
 [Extended Data](ext_articles/c056e165.ext.json)
-
----
-
-### UN for future development of health sector. Technical assistance from the development plan
-
-*2024-01-24 16:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/174697) · `ta`
-
-Health Minister Ramesh Pathirana has requested the United Nations Development Program to provide modern medical equipment for health services including treatment systems and dengue eradication.
-
-Health and Industry Minister Ramesh Pathirana and the United Nations Resident Fund for Sri Lanka Azusa Kuboda at the United Nations Development Program, Asusa Kuboda on Wednesday, were addressing the matter.
-
-A long discussion has taken place on the use of modern technology for the future of the health sector of Sri Lanka.
-
-Since dengue mosquitoes have increased slightly in Sri Lanka, it is necessary to use modern technology to control them, to detect mosquitoes, and to use the equipment needed to destroy them.. The Minister of Health has requested Asusa Kuboda to provide modern technology equipment.
-
-...
-
-[Data](articles/0d8a9eda.json)
-
-[Extended Data](ext_articles/0d8a9eda.ext.json)
-
----
-
-### In Sri Lanka, snitches will get riches
-
-*2024-01-24 16:11:00* · [`economynextcom`](https://economynext.com/in-sri-lanka-snitches-will-get-riches-148589/) · `en`
-
-ECONOMYNEXT – Sri Lanka Police will offer cash rewards to people who provide information that would lead to arrests on illegal firearms and bombs.
-
-The Police will give a cash reward to informants in their Operation Yukthiya (Justice), the Police Media Division said in a statement.
-
-Confidentiality of the persons providing such information will be protected, the Police said.
-
-◼️
-
-[Data](articles/2f68b5fa.json)
-
-[Extended Data](ext_articles/2f68b5fa.ext.json)
-
----
-
-### UN Women, Japan support 600 women-led micro-enterprises affected by Sri Lanka crisis
-
-*2024-01-24 16:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96698/un-women-japan-support-600-women-led-micro-enterprises-affected-by-sri-lanka-crisis) · `en`
-
-UN Women and Chrysalis – a Sri Lanka-based women and youth empowering organization, with funding from the Government of Japan, has provided productive assets worth LKR 110 million (approx. USD 343,000) to 600 women-led micro-enterprises to help expand their businesses.
-
-This initiative was undertaken as part of a larger one-year project ‘Empowering Women in Crisis’ starting in February 2023.
-
-Through this project, UN Women and implementing partner Chrysalis have provided humanitarian assistance for women most affected by the socioeconomic crisis in Sri Lanka - in close collaboration with the Ministry of Women, Child Affairs and Social Empowerment.
-
-...
-
-[Data](articles/c83c47ca.json)
-
-[Extended Data](ext_articles/c83c47ca.ext.json)
 
 ---

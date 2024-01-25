@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 11:33:05**
+As of **2024-01-25 11:52:12**
 
 ## Newspaper Stats
 
@@ -26,45 +26,49 @@ dailymirrorlk | 337
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,540 (99.9%) of 2,543 articles have been extended.
+2,543 (100.0%) of 2,543 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### නියෝජ්‍ය පොලිස්පතිවරුන් තිදෙනෙකුට ස්ථාන මාරු
+### Transfers to three DIGs
 
 *2024-01-25 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192548) · `si`
 
-ජාතික පොලිස් කොමිෂන් සභාවේ අනුමැතිය පරිදි වැඩබලන පොලිස්පතිවරයා විසින් ඊයේ (24) දිනයේ සිට ක්‍රියාත්මක වන පරිදි අදාළ ස්ථාන මාරුවීම් ලබා දී ඇති බව පොලිස් මූලස්ථානය සඳහන් කරයි.
+The acting transfers have been made by the Acting Inspector General yesterday (24), police headquarters.
 
-ඒ අනුව ප්‍රවාහන හා සංදේශ දිසාව භාරව කටයුතු කළ නියෝජ්‍ය පොලිස්පති කේ.කඩුපිටිය මහතා බස්නාහිර පළාත උතුර දිසාව භාර නියෝජ්‍ය පොලිස්පතිවරයා ලෙස පත් කර ඇත.
+Accordingly, DIG, who was in charge of the Transport and Sandapitiya, has been appointed as the DIG in charge of the North District.
 
-යාපනය දිසාව භාරව කටයුතු කළ නියෝජ්‍ය පොලිස්පති එම්.ආර්.එම්.සෙනරත් මහතා ප්‍රවාහන හා සංදේශ දිසාව භාර නියෝජ්‍ය පොලිස්පතිවරයා ලෙසත් අපරාධ දිසාව භාර නියෝජ්‍ය පොලිස්පති ජේ.ඒ.කේ.ජයසිංහ මහතා යාපනය දිසාව භාර නියෝජ්‍ය පොලිස්පතිවරයා ලෙසත් මාරු කර ඇති බව පොලිස් මූලස්ථානය සඳහන් කර තිබේ.
+Deputy Inspector General of Police (IGP) has been transferred as the DIG in charge of the Jaffna District and the DIG of the Criminal Inspector General of Police.Available.
 
 ◼️
 
 [Data](articles/920c448e.json)
 
+[Extended Data](ext_articles/920c448e.ext.json)
+
 ---
 
-### සනත් නිශාන්ත මියයෑමට මොහොතකට පෙර
+### Sanath Nishantha is a moment before he died
 
 *2024-01-25 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192547) · `si`
 
-අද (25) අලුයම 2ට පමණ කටුනායක අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ තවත් අයෙක් අවාසනාවන්ත ලෙස ජීවිතක්ෂයට පත්වුණි.
+State Minister Sanath Nishantha and another injured in an accident on the Katunayake Expressway around 2 am.
 
-සනත් නිශාන්ත මහතා එලෙස අනතුරට ලක්ව තිබුණේ, කටුනායක සිට කොළඹ දක්වා ගමන් කරමින් සිටිය දීය.
+Sanath Nishantha was in danger of moving from Katunayake to Colombo.
 
-ඒ මහතා ගමන්ගත් සුඛෝපභෝගී මෝටර් රථය ඒ දෙසටම ධාවනය කරමින් තිබූ කන්ටේනර් රථයක පිටපස ගැටී අනතුර සිදුව තිබිණි.
+The luxury car, which was traveling, was on the collide of a container.
 
-ඊයේ (24) රාත්‍රියේ හලාවත, බණ්ඩාරවත්ත ප්‍රදේශයේ හෝටලයක පැවති විවාහ මංගල උත්සවයකට සහභාගි වී ආපසු කොළඹ බලා එමින් අතරතුර දී සනත් නිශාන්ත මහතා රිය අනතුරට ලක්වුණි.
+Sanath Nishantha was inaugurated in Chilaw at a wedding ceremony at a hotel in Bandarawatta last night.
 
-එම මංගල උත්සවයේ දී මනාල යුවළ විසින් සනත් නිශාන්ත මහතා සමග ලබාගත් සෙල්ෆි ඡායාරූපය මුහුණුපොතේ මේ වනවිට සංසරණය වන අතර එම ඡායාරූපය ලබාගත් පුද්ගලයා සිය පෞද්ගලික ෆේස්බුක් ගිණුමේ මෙලෙස සටහන් තබා තිබුණි.
+Celphi photograph, which was with Sanath Nishantha at the wedding, circulates the photo of the facial manual.
 
 ◼️
 
 [Data](articles/5d206970.json)
+
+[Extended Data](ext_articles/5d206970.ext.json)
 
 ---
 
@@ -1934,21 +1938,23 @@ Standard Chartered has announced the appointment of Rukshila Seneviratne as the 
 
 ---
 
-### විදුලි ඉල්ලුම ගිගාවොට් පැය 45ක් දක්වා ඉහළට
+### Electricity demand up to 45 GWh
 
 *2024-01-24 20:42:24* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ඉල්ලුම-ගිගාවොට්-පැය-45ක්-දක්වා-ඉහළට/11-407719) · `si`
 
-වියළි කාලගුණ තත්වයත් සමග දෛනික විදුලි ඉල්ලුම් මේ වන ගිගාවොට් පැය 45ක්  දක්වා ඉහළ ගොස් තිබෙන බවත්, වියළි කාලගුණ තත්වය නිසා ජලවිදුලි නිෂ්පාදනය  අඩු වෙමින් තිබෙන බවත් විදුලිබල මණ්ඩලය සඳහන් කරයි.
+Daily weather conditions have risen to 45 gig රූපට්, and the production of hydroelectricity is increasing due to dry weather.
 
-පසුගිය දිනවල පැවැති වැසි තත්වය නිසා දෛනික විදුලි ඉල්ලුම ගිගාවොට් පැය 40-42 අතර ප්‍රමාණයක පැවති බවත්, ජලවිදුලි නිෂ්පාදනය  75%  ඉක්මවා ගොස් තිබූ බවත්, මීට සාපේක්ෂව තාප විදුලි නිෂ්පාදනය 20% කට අඩු මටට්මක පැවති බවද මණ්ඩලය පෙන්වා දෙයි.
+The daily electricity demand for 40-42 GWh due to the recent rains, the board also said that the production of electricawaot had over 75%.
 
-ඊයේ (24දා) උදේ 6.00න් අවසන් වූ පැය 24 ක කාලය සැලකීමෙහිදී  විදුලි ඉල්ලුම ගිගාවොට් පැය 45.73 ක් වූ බවත්, එම විදුලි ප්‍රමාණයෙන්  50.17% ක් නිෂ්පාදනය කර තිබෙන්නේ තාප විදුලියෙන් (ඉන්ධන ගල් අඟුරු) බවත් සඳහන් කරයි.
+It is said that the demand for 24 hours to end at 6.00 am yesterday (24) is 45.73 GWh and 50.17% of the electricity (fuel).
 
-මහා පරිමාණ ජල මූලාශ්‍ර ආශ්‍රිතව පිහිටුවා තිබෙන ජලවිදුලි බලාගාරවලින් 34.46෴ ක විදුලි ප්‍රමාණයක් හා කුඩා ජලමූලාශ ආශ්‍රිතව පිහිටුවා තිබෙන ජලවිදුලිබලාගාරවලින් 7.12% ක විදුලි ප්‍රමාණයක් නිෂ්පාදනය කර තිබෙන අතර ඉතිරි විදුලි ප්‍රමාණය පුනර්ජනනිය බලශක්ති ක්‍රම මගින් නිෂ්පාදනය කරගෙන තිබේ.
+A total of 346% of the electrical electricity projects have been established in the hydroelectric power plants, which have been established in large water sources, and the remaining electrification has produced renewable energy.
 
 ◼️
 
 [Data](articles/1351d1fb.json)
+
+[Extended Data](ext_articles/1351d1fb.ext.json)
 
 ---
 

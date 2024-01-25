@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 04:50:23**
+As of **2024-01-26 05:02:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,637 (99.8%) of 2,643 articles have been extended.
+2,643 (100.0%) of 2,643 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -90,6 +90,8 @@ The US envoy in Colombo expressed dismay at the legislation’s passage in Parli
 
 [Data](articles/cf66cd56.json)
 
+[Extended Data](ext_articles/cf66cd56.ext.json)
+
 ---
 
 ### Export zones across the country
@@ -124,6 +126,8 @@ Sources indicate that the State Minister was en route to his residence in Colomb
 
 [Data](articles/9e05ab68.json)
 
+[Extended Data](ext_articles/9e05ab68.ext.json)
+
 ---
 
 ### Cabinet green lights to enter into implementation agreement for Sustainable Consumption and Production Project
@@ -140,6 +144,8 @@ The initiative aligns with the 7th Sustainable Development Goal identified by th
 
 [Data](articles/553a2c1f.json)
 
+[Extended Data](ext_articles/553a2c1f.ext.json)
+
 ---
 
 ### UNDP and UN Global Compact Network Sri Lanka renew strategic collaboration
@@ -154,6 +160,8 @@ In a move towards advancing sustainable development, the United Nations Developm
 
 [Data](articles/4279ec09.json)
 
+[Extended Data](ext_articles/4279ec09.ext.json)
+
 ---
 
 ### People’s Bank and George Steuart Solutions join forces to promote solar energy in Sri Lanka
@@ -167,6 +175,8 @@ This groundbreaking partnership aims to make solar energy more affordable to cus
 ...
 
 [Data](articles/36fea8ad.json)
+
+[Extended Data](ext_articles/36fea8ad.ext.json)
 
 ---
 
@@ -183,6 +193,8 @@ Chandika Fernando is the present manager of the Dickoya Estate & Tea Processing 
 ◼️
 
 [Data](articles/0beb9f3e.json)
+
+[Extended Data](ext_articles/0beb9f3e.ext.json)
 
 ---
 

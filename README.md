@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 05:17:23**
+As of **2024-01-25 05:37:17**
 
 ## Newspaper Stats
 
-*Scraped **2,468** Articles*
+*Scraped **2,469** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 34
+colombotelegraphcom | 35
 bbccomsinhala | 47
 dbsjeyarajcom | 122
 islandlk | 133
@@ -26,57 +26,69 @@ dailymirrorlk | 327
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,465 (99.9%) of 2,468 articles have been extended.
+2,468 (100.0%) of 2,469 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### ஆசிரியர் பற்றாக்குறை: பெப்ரவரியில் தீர்வு
+### Teacher deficit: solution in Febravi
 
 *2024-01-25 02:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-பற்றாக்குறை-பெப்ரவரியில்-தீர்வு/175-332090) · `ta`
 
-நாடு முழுவும் நிலவிவரும் ஆசிரியர் பற்றாக்குறை பிரச்சினைக்கு எதிர்வரும் பெப்ரவரி மாதம் இறுதியாகும்போது  முடிவு காணப்படும் என  கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+Minister of Education Susil Premajayantha said that the problem of teacher shortage across the country will be decided at the end of February.
 
-பாராளுமன்றத்தில்  புதன்கிழமை (24)  எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச முன்வைத்த விசேட கூற்றுக்கு பதிலளிக்கையிலேயே இவ்வாறு கல்வி அமைச்சர் சுசில் பிரேமஜயந்த தெரிவித்தார்.
+In response to a special statement made by Opposition Leader Sajith Premadasa in Parliament on Wednesday (24), Education Minister Susil Premajayantha said.
 
-விசேட கூற்றை முன்வைத்து உரையாற்றிய எதிர்க்கட்சித் தலைவர்  சஜித் பிரேமதாச,    நாடு முழுவதுமாக 40ஆயிரம் ஆசிரியர்களுக்கு  பற்றாக்குறை நிலவி வருகிறது. அதனால் ஆசிரியர் பற்றாக்குறைக்கு விரைவில் தீர்வுகாண நடவடிக்கை எடுக்க வேண்டும் என்றார்.
+Speaking on a special statement, Opposition Leader Sajith Premadasa said that there is a shortage of 40 thousand teachers across the country.. He said the teacher should take action to resolve the shortage.
+
+When the Graduates took steps to appoint 22 thousand people, the case filed in the Supreme Court was heard for nine months and ended last week.. Provincial Councils have taken steps to combine 13, 500 people. Ritman is in court in connection. Today (yesterday Wednesday) is to be issued that writman. If that directive is available, the majority of teacher shortages will be resolved.
 
 ...
 
 [Data](articles/93dd72be.json)
 
+[Extended Data](ext_articles/93dd72be.ext.json)
+
 ---
 
-### ’மக்கள் காணிகளில் இராணுவ விவசாயம்’
+### Military agriculture in people's lands
 
 *2024-01-25 02:13:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்கள்-காணிகளில்-இராணுவ-விவசாயம்/175-332089) · `ta`
 
-யுத்தம் முடிவடைந்து 15 வருடங்கள் ஆகின்ற போதும் பாதுகாப்பு காரணங்களுக்காக வடக்கு, கிழக்கில் மாத்திரம் சில இடங்களில் இராணுவ முகாம்களை வைத்திருப்பதாக கூறுவதை ஏற்றுக்கொள்ள முடியாது என்று தெரிவித்த தமிழ்த் தேசியக் கூட்டமைப்பு பாராளுமன்ற உறுப்பினர் இரா. சாணக்கியன், அங்கு இராணுவத்தினர் மக்களின் காணிகளில் இருந்துகொண்டு காணி சொந்தக் காரர்கள் பார்த்துக்கொண்டிருக்கவே விவசாய நடவடிக்கையில் ஈடுபடுகின்றனர் என்றும் தெரிவித்தார்.
+The Tamil National Alliance (TNA) parliamentarian said that it is unacceptable to claim that it is only 15 years since the end of the war.. Chanakyan said that the soldiers were engaged in agricultural activities while the land owned by the people were watching the land.
 
-பாராளுமன்றத்தில்  புதன்கிழமை (24) பாதுகாப்பு அமைச்சரிடம் கேள்வியெழுப்பி உரையாற்றும் போதே அவர் இவ்வாறு தெரிவித்துள்ளார்.
+He was speaking to the Defense Minister in Parliament on Wednesday (24).
 
-வடக்கு, கிழக்கில் யுத்தம் முடிவடைந்து 15 வருடங்களாகின்றன. இன்னும் இந்த மாவட்டங்களில் மட்டும் சில இடங்களில் இராணுவ முகாம்களை வைத்திருப்பது பாதுகாப்பு காரணங்களுக்காக என்பதனை நாங்கள் ஏற்றுக்கொள்ளவில்லை. மட்டக்களப்பு குருக்கள்மடம் மைதானமானது பாடசாலைக்கு சொந்தமானது என்றாலும் இன்னும் இராணுவம் அதனை தமது கட்டுப்பாட்டுக்குள்ளேயே வைத்திருக்கின்றது. அதனை விடுவிக்க மாவட்ட மட்டத்தில் தீர்மானம் எடுக்கப்பட்டிருந்தாலும் அது இராணுவத்தின் கட்டுப்பாட்டிலேயே இருக்கின்றது.
+15 years since the end of the war in the North and East. We do not accept that it is for security reasons for keeping military camps in some places only in these districts. Although the Batticaloa priests are belonging to the school, the military is still under its control. Although the district level has been decided to release it, it is under the control of the military.
 
-...
+Meanwhile, the military is farming as the people are watching the fences on the lands belonging to the people in the north and east areas including Palali.. He said the army was holding people's lands.
+
+◼️
 
 [Data](articles/84baf5f1.json)
 
+[Extended Data](ext_articles/84baf5f1.ext.json)
+
 ---
 
-### ’8 ஏக்கர் காணியை மீள கையளிப்போம்’
+### Recovery of 8 acres of land
 
 *2024-01-25 02:07:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/8-ஏக்கர்-காணியை-மீள-கையளிப்போம்/175-332088) · `ta`
 
-நாட்டின் தற்கால மற்றும் எதிர்கால பாதுகாப்பை கருத்திற்கொண்டு பல பிரதேசங்களில் இராணுவ முகாம்கள் அமைக்கப்பாட்டுள்ளதாகவும், இந்நிலையில் வடக்கு, கிழக்கில் மாத்திரம் இராணுவ முகாம்கள் இருப்பதாக முன்வைக்கப்படும் கருத்துக்களை நிராகரிப்பதாகவும் பாதுகாப்பு இராஜாங்க அமைச்சர் பிரேமித பண்டார தென்னகோன் தெரிவித்துள்ளார்.
+Defense Minister Premitha Bandara Tennakoon has said that military camps have been set up in many areas in view of the modern and future security of the country and that there are only military camps in the North and East.
 
-பாராளுமன்றத்தில்  புதன்கிழமை (24)  வாய்மூல விடைக்கான கேள்விநேரத்தின் போது, தமிழ்த் தேசியக் கூட்டமைப்பின் இரா.சாணக்கியன் எம்.பியினால் மட்டக்களப்பு குருக்கள்மடம் கலைவாணி மகாவித்தியாலயத்தின் மைதானம் இராணுவத்தினர் வசமிருப்பதாக தெரிவித்து எழுப்பிய கேள்விக்கு பதிலளிக்கையிலேயே பாதுகாப்பு இராஜாங்க அமைச்சர் இவ்வாறு கூறினார்.
+The Minister of Defense said this in response to a question raised by the Tamil National Alliance (TNA) MP's MP's MP's priests, the Kalavani Maha Vidyalaya, the Ground of Batticaloa, during the questioning of oral response in Parliament on Wednesday (24).
 
-இராணுவ முகாம்கள் வடக்கு, கிழக்கில் மாத்திரம் இல்லை. அனைத்து மாகாணங்களிலும் நாட்டின் தற்போதைய மற்றும் எதிர்காலத்தை கருத்திற்கொண்டு முகாம்களை வைத்திருக்கின்றோம். இதனால் வடக்கு, கிழக்கில் மாத்திரம் இராணுவ முகாம்கள் இருப்பதாக சாணக்கியன் முன்வைக்கும் கருத்தை நிராகரிக்க வேண்டியுள்ளது.
+Military camps are not only in the north and east. We have camps for the current and future of the country in all provinces. Thus, Chanakyan has to reject the idea that there are only military camps in the North and East.
+
+Meanwhile, according to me, the priests were taken to another place after the tsunami of the school tsunami. Thereafter, the headquarters of a military force was set up on this place. In this case, the stadium is outside the camp. There is a two -acre military face near it.
 
 ...
 
 [Data](articles/2dca33b8.json)
+
+[Extended Data](ext_articles/2dca33b8.ext.json)
 
 ---
 
@@ -569,6 +581,18 @@ Since its establishment in 2013, CTC focused its work mainly on assessing the st
 [Data](articles/39ee1221.json)
 
 [Extended Data](ext_articles/39ee1221.ext.json)
+
+---
+
+### Online Safety Act Major Blow To Freedom Of Expression: Amnesty International
+
+*2024-01-24 22:09:41* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/online-safety-act-major-blow-to-freedom-of-expression-amnesty-international/) · `en`
+
+Responding to the passing of the draconian Online Safety Act in the Sri Lankan Parliament today, Thyagi Ruwanpathirana, Regional Researcher for South Asia at Amnesty International said: “The passing of the Online Safety Act is a major blow to human rights in Sri Lanka. The Act is the newest weapon in the government’s arsenal of tools that could be used to undermine freedom of expression and suppress dissent. Authorities must immediately withdraw it and ensure respect for the human rights of everyone in the country.
+
+...
+
+[Data](articles/d420da3f.json)
 
 ---
 
@@ -1971,23 +1995,5 @@ Russian plane crashes with 65 Ukrainian prisoners of war on board
 [Data](articles/1d01893d.json)
 
 [Extended Data](ext_articles/1d01893d.ext.json)
-
----
-
-### Court order in protest
-
-*2024-01-24 15:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192518) · `si`
-
-Court has issued an order from Delkanda Junction, Delkanda Junction, Kirulapone to Nugegoda and Kirulapone to Nugegoda.
-
-The Court has issued the order to ban the protest march as there are four A / L examination centers in the area.
-
-According to the police request, the injustice has been imposed by the Nugegoda Magistrate's Court.
-
-◼️
-
-[Data](articles/610dea95.json)
-
-[Extended Data](ext_articles/610dea95.ext.json)
 
 ---

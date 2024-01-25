@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 13:33:15**
+As of **2024-01-25 13:52:08**
 
 ## Newspaper Stats
 
-*Scraped **2,559** Articles*
+*Scraped **2,561** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,79 +18,123 @@ dailyftlk | 194
 adaderanasinhalalk | 209
 adalk | 247
 virakesarilk | 281
-adaderanalk | 317
+adaderanalk | 318
 tamilmirrorlk | 327
-dailymirrorlk | 341
+dailymirrorlk | 342
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,551 (99.7%) of 2,559 articles have been extended.
+2,561 (100.0%) of 2,561 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### බෙලිඅත්තේ ඝාතනය ගැන තවත් කතාවක්
+### Another story about the killing of Beliatta
 
 *2024-01-25 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192553) · `si`
 
-බෙලිඅත්ත පංච පුද්ගල ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුගෙන් සිදු කළ ප්‍රශ්න කිරිම්වල දී යතුරුපැදියක් හා වෑන් රථයක් හක්මන පොලීසිය විසින් සොයාගෙන තිබේ.
+Hakmana Police have recovered a motorcycle and a van in the suspects arrested for the murder of Beliatta.
 
-පොලීසිය සැක කරන්නේ, ප්‍රහාරය සඳහා යොදාගත් ටී 56 වර්ගයේ ගිනි අවි දෙක බැහැර කිරීමට අදාළ යතුරුපැදිය ‍යොදාගෙන ඇති බවයි.
+Police suspect that the motorcycle has been used to dispose of the two T-56 riffles used for the attack.
 
-අපරාධයෙන් පසු ව සැකකරුවන්ට සැඟවී ගමන් කිරීමට අදාළ වෑන් රථය භාවිත කිරීම සඳහා සූදානම් කර තිබූ බවට ද පොලීසිය සැක පහළ කරයි.
+The police also suspect that the suspects were prepared to hide the suspects after the crime.
 
 ◼️
 
 [Data](articles/b4f81477.json)
 
+[Extended Data](ext_articles/b4f81477.ext.json)
+
 ---
 
-### ආනන්තරීය පාපකර්මයක් කළ පුතෙක්
+### Father, son killed, mother injured in accident
+
+*2024-01-25 13:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Father-son-killed-mother-injured-in-accident/108-275708) · `en`
+
+Anamaduwa, Jan. 25 (Daily Mirror)- A 38-year-old man and his 10-year-old son were killed while his wife was injured in a road accident in Labugala, Anamaduwa this morning.
+
+The tragedy occurred when the motorcycle they were riding on crashed on to a stationary lorry in front of the Labugala Rajamaha Viharaya.
+
+◼️
+
+[Data](articles/5bfaafee.json)
+
+[Extended Data](ext_articles/5bfaafee.ext.json)
+
+---
+
+### Another shooting incident reported at a temple
+
+*2024-01-25 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96719/another-shooting-incident-reported-at-a-temple) · `en`
+
+A shooting has been carried out aiming at the historical temple in Udaththapola, Dodangaslanda last night (24), the Police said.
+
+The assailants had fired shots at the window of the room in which the Chief Incumbent of the temple, Ven. Galnewe Pannakiththi Thero resides, however, the venerated monk was not injured in the shooting.
+
+Police investigations have uncovered that the gunmen had used a firearm similar to a trap gun.
+
+This incident comes a day after a Buddhist monk was shot dead by four unidentified individuals impersonating Criminal Investigation Department’s officers. The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero had been rushed to the Gampaha Hospital where he succumbed to critical injuries hours later.
+
+◼️
+
+[Data](articles/4d084cb7.json)
+
+[Extended Data](ext_articles/4d084cb7.ext.json)
+
+---
+
+### A sleeve of vital sinning
 
 *2024-01-25 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192552) · `si`
 
-ඉල ඇට විසි දෙකක් කැඩෙනතුරු පහරදී  67 හැවිරිදි සිය මව ඝාතනය කළ  41 හැවිරිදි පුතෙකු නාවලපිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+Nawalapitiya Police have arrested a 41-year-old son, who was assassinated by the 67-year-old breaks of the ribs.
 
-මෙසේ ඝාතනය වී ඇත්තේ නාවලපිටිය බෝහිල් උඩ කොටසේ පදිංචිව සිටි එස්. සෙල්ලම්මා නමැති දෙදරු මවක් වන අතර සති දෙකක් තුළ ගම්පොළ පොලිස් කොට්ඨාසයේ පුතෙකු විසින් පහර දී මව ඝාතනය කළ දෙවන අවස්ථාව ද මෙය වේ.
+The victims were assassinated in the Bohilwala Upstairs of Nawalapitiya. It is a mother of two, two, two, two, two.
 
-සිය බාල පුතුගේ පහරදීමෙන් මවගේ හිස අභ්‍යන්තරයේ බහුවිධ තුවාල සිදු වී හකු ඇටය සහ ඉල ඇට විසි දෙකක්
+Multiple wounds in the inside of the mother's head by the assault of their youngest son and two ribs
 
-බිඳී ඇති බව නාවලපිටිය රෝහලේ විශේෂඥ අධිකරණ වෛද්‍ය රුචිර නදීර මහතා පශ්චාත් මරණ පරීක්ෂණයේදී හෙළිකර තිබිණි.
+Specialist Judicial Medical Dr. Ruchira Nadeera had been revealed at the post mortem examination that had been broken.
 
-සැකකරු මීට පෙර ඔහුගේ පියාටද හිසට පහරදී තුවාල සිදුකිරීම නිසා පියා මේ වනවිට ඔහුගේ වැඩිමහල් දියණියගේ නිවසේ පදිංචියට ගොස් ඇති බව පොලීසිය සඳහන් කරයි.
+The father had already moved to his elder daughter at the homes of his elder daughter due to the suspect before he had previously wounded his father.
 
-එමෙන්ම පසුගිය 17 වැනිදා සැකකාර පුත්‍රයා ඔහුගේ බිරිඳට ද පහරදී ඇති අතර, ඇයද දරුවා රැගෙන ඇගේ මහ ගෙදරට ගොස් තිබේ.
+The suspect's son was assaulted by his wife on the 17th, and she had gone to her home.
 
-ඉන්පසු සැකකරු ඔහුගේ මව සමග වසරක පමණ කාලයක් නිවසේ සිට ඇති අතර පසුව මව සමග ආරවුල්
+The suspect had then been home for about a year with his mother and then disputes with the mother
 
-ඇති කරගෙන තමා වයස අවුරුදු දාසයේ සිට කුලී වැඩට යැවූ බවත් තමා ගැන සොයා නොබැලූ බවත් පවසමින්
+Saying that he sent to hire from the age of the age to the hire and was not investigated.
+
+Accordingly, about eight am the attack and put his mother in the house on the 20th and cover the door
 
 ...
 
 [Data](articles/82d69253.json)
 
+[Extended Data](ext_articles/82d69253.ext.json)
+
 ---
 
-### விபத்தில் தந்தை, மகன் பலி: தாய் படுகாயம்
+### Father and son killed in accident
 
 *2024-01-25 12:47:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/விபத்தில்-தந்தை-மகன்-பலி-தாய்-படுகாயம்/94-332104) · `ta`
 
-ஆனமடுவ – நவகத்தேகம பிரதான வீதி  லபுகம பகுதியில் வியாழக்கிழமை( 25) இடம்பெற்ற வாகன விபத்தில்  தந்தை மற்றும் மகன் ஆகியோர்  உயிரிழந்துள்ளர்.
+Father and son died in a vehicle accident on Thursday (25) in Lapugama area of Anamaduwa - Navathagama main road.
 
-இந்த விபத்தில் காயமடைந்த தாய் ஆபத்தான நிலையில் புத்தளம் தள வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The mother who was injured in the accident has been admitted to the Puttalam Base Hospital, police said.
 
-நவகத்தேகம, வெலேவெவ பகுதியைச் சேர்ந்த 38 வயதுடைய இராணுவ விஷேட படையின் லெப்டினன்ட் பதவி வகித்த ஜீவக செனவிரத்ன மற்றும் அவரது 10 வயதான மகன் மனுஜ பிரபாஸ்வர ஆகிய இருவருமே இந்த விபத்தில் உயிரிழந்துள்ளனர்.
+Jeevaka Seneviratne and his 10 -year -old son Manuja Prabhaswara, a 38 -year -old military Special Forces, from Navagadegama and Walewewa, died in the accident.
 
-உயிரிழந்த இராணுவ வீரர் , மகன் மற்றும் மனைவி ஆகியோர் பயணித்த மோட்டார் சைக்கிள் ஆனமடுவ - நவகத்தேகம பிரதான வீதியின் ரஜமஹா விகாரைக்கு முன்பாக லொறியுடன் மோதியதில் இந்த விபத்து சம்பவித்துள்ளதாக பொலிஸார் குறிப்பிட்டனர்.
+Police said the accident occurred when the motorcycle, the son and wife of the deceased, collided with a lorry in front of the Rajamaha Vihara on the main road of Anamaduwa - Navagadegama.
 
-இந்த விபத்து சம்பவம் தொடர்பில் ஆனமடுவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Anamaduwa police are conducting further investigations into the incident.
 
 ◼️
 
 [Data](articles/c2110077.json)
+
+[Extended Data](ext_articles/c2110077.ext.json)
 
 ---
 
@@ -118,7 +162,7 @@ The Online Safety Bill, which seeks to regulate online content, received the par
 
 *2024-01-25 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Death-of-Sanath-Nishantha-great-loss-to-Mahinda-Rajapaksa-party-and-people/108-275707) · `en`
 
-Colombo, Jan 25 (Daily Mirror) - The death of State Minister Sanath Nishantha is a great loss to former president Mahinda Rajapaksa, to the party and to the people in the Puttalam district, Urban Development and Housing, Chief Government Whip and Minister Prasanna Ranatunga said.
+Colombo, Jan 25 (Daily Mirror) - The death of State Minister Sanath Nishantha is a great loss to former president Mahinda Rajapaksa, to the party and to the people in the Puttalam, Urban Development and Housing, Chief Government Whip and Minister Prasanna Ranatunga said.
 
 He told the media that Sanath Nishantha had worked for the people in the Puttalam and Chilaw districts. He met with the accident while in his way Colombo after participating in two occasions in Puttalam and Chilaw.
 
@@ -131,6 +175,8 @@ According to police investigations, the driver of the State Minister was not und
 ...
 
 [Data](articles/a19db29c.json)
+
+[Extended Data](ext_articles/a19db29c.ext.json)
 
 ---
 
@@ -150,6 +196,8 @@ The drivers of the two tipper trucks were also admitted with minor injuries to t
 
 [Data](articles/b0088b45.json)
 
+[Extended Data](ext_articles/b0088b45.ext.json)
+
 ---
 
 ### Devotees seek blessings at Gangarama
@@ -162,47 +210,57 @@ Devotees visiting the Gangaramaya Temple in view of the Duruthu Poya day today t
 
 [Data](articles/2b990ff2.json)
 
+[Extended Data](ext_articles/2b990ff2.ext.json)
+
 ---
 
-### අභාවප්‍රාප්ත සනත් නිශාන්තගේ අවසන් කටයුතු ඉරිදා
+### Last activities of the late Sanath Nishantha Sunday Sunday
 
 *2024-01-25 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192551) · `si`
 
-අභාවප්‍රාප්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු ලබන 28 වන ඉරිදා සිදුකිරීමට සැලසුම් කර තිබේ.
+The funeral of the late Minister of State Sanath Nishantha is planning to take place on Sunday.
 
-පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා පැවසුවේ, ආරච්චිකට්ටුව ප්‍රදේශයේ දී අවසන් කටයුතු සිදුකිරීමට සැලසුම්කර ඇති බවය.
+Parliamentarian Mahindananda Aluthgamage said that the funeral was planned in the Arachchikattuwa area.
 
-සනත් නිශාන්ත මහතාගේ දේහය මහජන ගෞරවය සඳහා අද පස්වරු 5.30 බොරැල්ලේ ජයරත්න මල්ශාලාවට රැගෙන එන අතර දේහය හෙට (26) පෙරවරු 10.30ට පුත්තලමේ පිහිටි ඒ මහතාගේ නිවස වෙත රැගෙන යනු ඇත.
+The remains of Mr. Sanath Nishantha will bring public honor to Jayaratne in Borella tomorrow at 5.30 am at 10.30 am to his residence in Puttalam.
 
-අද (25) අලුයම කටුනායක අධිවේගී මාර්ගයේ සිදුවු රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ ඔහුගේ ආරක්ෂක නිලධාරියා ජීවිතක්ෂයට පත් වුණි.
+State Minister Sanath Nishantha and his security officer were killed in an accident on the Katunayake Expressway this morning.
 
-අද අලුයම දෙකට පමණ රාජ්‍ය අමාත්‍යවරයා ගමන් ගත් සුඛෝපභෝගී රථය එම දෙසටම ඉදිරියෙන් ධාවනය වූ කන්ටේනර් රථයක හා මාර්ගයේ ආරක්ෂිත වැටේ ගැටීමෙන් අනතුර සිදුව තිබිණි.
+The luxury vehicle traveling about two am this morning was accidental.
 
-අනතුරෙන් තුවාල ලැබු ජිප් රථයේ ගමන්ගත් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා ඔහුගේ ආරක්ෂක නිලධාරියා මියගිය අතර ජීප් රථයේ රියදුරු රාගම රෝහලේ ප්‍රතිකාර ලබයි.
+Headdicles of the jeep were injured in the accident and is receiving treatment at the driver of the jeep hospital.
 
-මරණය සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරීක්ෂණය අද පෙරවරුවේ රාගම රෝහලේ දී සිදුකෙරුණු බව "අද දෙරණ" වාර්තාකරු පැවසුවේය.
+The magisterial inquiry into the death was held at the Ragama Hospital this morning, "Ada Derana reporter said.
 
-...
+As the death of Mr. Sanath Nishantha, he had reached the Ragama Hospital with the death to the death of Mr. Sanath Nishantha.
+
+◼️
 
 [Data](articles/33d0c8af.json)
 
+[Extended Data](ext_articles/33d0c8af.ext.json)
+
 ---
 
-### ஆண்களின் நிர்வாண திருவிழா : பெண்கள் பங்கேற்க அனுமதி
+### Men's naked festival: Allow women to participate
 
 *2024-01-25 11:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆண்களின்-நிர்வாண-திருவிழா-பெண்கள்-பங்கேற்க-அனுமதி/50-332103) · `ta`
 
-பெண்கள் நிர்வாணமாக சில நாட்கள் இருக்கும் கிராமங்க​ள் பற்றி கேள்வி பட்டிருக்கின்றோம் எனினும், ஆண்களும் நிர்வாணமாக இருக்கும் விசித்திரமான நிகழ்வு பெப்ரவரி 22ஆம் திகதி இடம்பெறவுள்ளது.
+Although we have heard about the villages that are naked for a few days, the strange event of men and nakedness will take place on February 22.
 
-ஜப்பானில் 1675 ஆண்டுகளாக தொடர்ந்து நடந்து வரும் ‛ஹட்கா மட்சூரி' எனும் ஆண்களின் நிர்வாண திருவிழாவில் பங்கேற்க பெண்களுக்கு அனுமதி வழங்கப்பட்டுள்ளது. இதற்கிடையே தான் அந்த திருவிழா கொண்டாடப்படுவதன் பின்னணி குறித்த வினோத தகவல் வெளியாகி உள்ளது.
+Women have been granted permission to participate in the naked festival of men, 'Hatka Matsuri', which continues for 1675 years in Japan.. In the meantime, the bizarre information has been revealed on the background of the festival.
 
-இந்தியா உள்பட பல்வேறு நாடுகளில் பாரம்பரியமாக சில திருவிழாக்கள் நடத்தப்பட்டு வருகின்றன. இந்த திருவிழாக்கள் வெறும் பொழுது போக்குகளுக்கு மட்டுமின்றி அந்த பகுதி மக்கள் வைத்துள்ள நம்பிக்கையின் அடையாளமாக இருக்கிறது.
+Some festivals are being held in various countries, including India. These festivals are a symbol of the confidence that the people have in the area are not just for pastime.
 
-அந்த வகையில் ஜப்பானில் ஆண்டுதோறும் வினோத திருவிழா ஒன்று கொண்டாடப்பட்டு வருகிறது. அதாவது அந்த திருவிழாவின் பெயர் ஆண்களுக்கான நிர்வாண திருவிழாவாம்.
+In that way, a bizarre festival is celebrated annually in Japan. That is, the name of the festival is the naked festival for men.
+
+The real name of this bizarre festival celebrated in Japan is ‛Hadaka Matsuri '. This is also known as the naked festival of men. At this festival, men will only wear a small amount of cloth on the body. The Konomia shrine is being held in the city of Ichi, Japan.
 
 ...
 
 [Data](articles/12337c30.json)
+
+[Extended Data](ext_articles/12337c30.ext.json)
 
 ---
 
@@ -1959,45 +2017,5 @@ Responding to the passing of the draconian Online Safety Act in the Sri Lankan P
 [Data](articles/d420da3f.json)
 
 [Extended Data](ext_articles/d420da3f.ext.json)
-
----
-
-### Sri Lanka defeated Namibia by 77 runs in Kimberley
-
-*2024-01-24 22:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-defeated-Namibia-by-77-runs-in-Kimberley/108-275683) · `en`
-
-Jan. 24 (ICC) - In the 12th match of the ICC Under-19 World Cup at Diamond Oval in Kimberley, Sri Lanka secured a commanding 77-run victory over Namibia, showcasing a blend of robust batting and incisive bowling.
-
-The Eagles kept Sri Lanka in check with their tight lines and ensured that the run rate crept at less than two in the first seven overs. Under pressure, Pulindu Perera tried to steal a quick single and was run out by a brilliant teamwork from Peter-Daniel Blignaut, who ran in from point to throw the ball at the non-striker's end, and Junior Kariata, who managed to break stumps despite being awkwardly placed.
-
-The Island nation were then rocked by Zacheo van Vuuren, who brought two wickets in his first two overs. Sineth Jayawardena's minimal foot movement meant that he was unable to cover one that came in, while Ravishan de Silva was brilliantly held by JW Visagie after he nicked one to the keeper's right.
-
-...
-
-[Data](articles/c2a91caa.json)
-
-[Extended Data](ext_articles/c2a91caa.ext.json)
-
----
-
-### A young man attacks and puts the road
-
-*2024-01-24 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192531) · `si`
-
-The Puttalam Police further reports that a young man was abducted and brutally assaulted and injured and injured and injured.
-
-The victim has been admitted to the Puttalam Base Hospital by the residents of the area.
-
-Police say that the assailants have fled the area and one person was arrested.
-
-The assaulted person said that he was abducted and detained in a house and was assaulted at around 11 pm today.
-
-Puttalam Police have launched an operation to arrest the other suspects.
-
-◼️
-
-[Data](articles/a4b81399.json)
-
-[Extended Data](ext_articles/a4b81399.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 00:48:25**
+As of **2024-01-26 01:02:28**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 354
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,628 (100.0%) of 2,629 articles have been extended.
+2,629 (100.0%) of 2,629 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### ஐவர் சுட்டுக்கொலை - நீதிமன்றம் அதிரடி உத்தரவு
+### Five shooting - court order
 
 *2024-01-26 00:04:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐவர்-சுட்டுக்கொலை-நீதிமன்றம்-அதிரடி-உத்தரவு/175-332125) · `ta`
 
-பெலியத்தை பகுதியில் மேற்கொள்ளப்பட்ட துப்பாக்கிச் சூட்டில் ஐவர் கொலை செய்யப்பட்ட சம்பவம் தொடர்பில் கைது செய்யப்பட்ட சந்தேக நபரை தடுத்து வைத்து விசாரிக்க நீதிமன்றம் இன்று (25) அனுமதி வழங்கியுள்ளது.
+The court today (25) granted permission to detain the suspect in connection with the murder of five people in a shooting in Beliam.
 
-குறித்த சந்தேக நபர் இன்று தெய்யந்தர நீதிவான் முன்னிலையில் ஆஜ்படுப்படுத்தப்பட்டபோது சந்தேக நபரை எதிர்வரும் 27ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறும் உத்தரவு பிறப்பிக்கப்பட்டது.
+The suspect was ordered to be remanded until the 27th of this month when the suspect was presented in the presence of the Tayantha Magistrate.
 
-அக்குரஸ்ஸ, பங்கம பிரதேசத்தில் வைத்து நேற்று (24) கைது செய்யப்பட்ட சந்தேக நபரிடம் மேற்கொள்ளப்பட்ட விசாரணைகளின் போது மேலும் பல முக்கிய தகவல்கள் வெளியாகியுள்ளன.
+Investigations carried out by the suspect arrested yesterday (24) in Pangama, Akuressa, have revealed more important information.
 
-குறித்த நபரே இந்தத் தாக்குதலுக்கு மூளையாகச் செயற்பட்டவர் என சந்தேகிக்கப்படுவதாகவும் பொலிஸார் தெரிவித்தனர். R
+Police said the person was suspected to be the brainchild of the attack.. Remble
 
 ◼️
 
 [Data](articles/d00ee312.json)
+
+[Extended Data](ext_articles/d00ee312.ext.json)
 
 ---
 

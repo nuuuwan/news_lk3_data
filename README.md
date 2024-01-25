@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 15:02:25**
+As of **2024-01-25 15:17:29**
 
 ## Newspaper Stats
 
-*Scraped **2,565** Articles*
+*Scraped **2,570** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 35
 bbccomsinhala | 49
 dbsjeyarajcom | 123
-newsfirstlk | 139
+newsfirstlk | 142
 islandlk | 146
 economynextcom | 152
 dailyftlk | 194
 adaderanasinhalalk | 209
 adalk | 248
-virakesarilk | 281
-adaderanalk | 319
+virakesarilk | 282
+adaderanalk | 320
 tamilmirrorlk | 328
 dailymirrorlk | 342
 
@@ -26,11 +26,99 @@ dailymirrorlk | 342
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,565 (100.0%) of 2,565 articles have been extended.
+2,565 (99.8%) of 2,570 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### Man arrested for threatening & attempting to extort money from Mihintale Chief Prelate
+
+*2024-01-25 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96721/man-arrested-for-threatening-attempting-to-extort-money-from-mihintale-chief-prelate) · `en`
+
+The police have arrested a man who allegedly sent death threats to the chief incumbent of Mihintale Rajamaha Viharaya Most Ven. Walawahengunawewa Dhammarathana Thero and attempting to extort money.
+
+According to Ada Derana correspondent, the 51-year-old had attempted to extort Rs. 10 million from the most venerated monk.
+
+The arrest has been made by the Criminal Investigation Department (CID) officers.
+
+◼️
+
+[Data](articles/3ff5baa5.json)
+
+---
+
+### Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+
+*2024-01-25 14:11:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/talk-of-the-town-when-women-come-first-hirunika-premachandra-25th-january-2024/) · `en`
+
+Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+
+Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+
+Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
+
+838 suspects apprehended in the past 24 hours under Operation Yukthiya
+
+◼️
+
+[Data](articles/517c96a4.json)
+
+---
+
+### US government expresses concern over Online Safety Bill
+
+*2024-01-25 13:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/us-government-expresses-concern-over-online-safety-bill/) · `en`
+
+Colombo (News 1st) – The United States government on Thursday (25th) expressed its concern over the controversial Online Safety Bill that was passed by parliament on Wednesday.
+
+US Ambassador Julie Chung, in a message on X (formerly Twitter) said: “The United States remains concerned about the potential impact of Sri Lanka’s Online Safety Bill, which passed yesterday without incorporating important input from key stakeholders, including civil society and tech companies who say that this legislation threatens freedom of expression, innovation, and privacy. In addition to jeopardizing democratic values, vague and overly restrictive legislation can hinder investment and the development of a digital economy, undermining the economic growth that Sri Lanka needs. The U.S. urges Sri Lanka to prioritize transparency and ensure any legislation does not stifle the voices of its people.”
+
+...
+
+[Data](articles/70a0ae31.json)
+
+---
+
+### Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
+
+*2024-01-25 13:48:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/add-salt-to-a-cuppa-tea-storm-brews-between-uk-and-us-over-outrageous-suggestion/) · `en`
+
+Colombo (News 1st) – The humble tea pluckers of Sri Lanka’s central highlands may not know it, but their world famous cuppa is at the centre of an unusual storm that is brewing between the United States and the United Kingdom.
+
+On Wednesday (24th), the UK Cabinet Office put out an official statement, disputing the method of making tea that had been suggested by the U.S. embassy in London.
+
+”In response, to the statement put out by the US Embassy in the UK: We appreciate our Special Relationship, however, we must disagree wholeheartedly… Tea can only be made using a kettle.” the UK Cabinet Office said on X (formerly Twitter).
+
+Hours before, the US embassy had stated, perhaps tongue in cheek, that the proper way to brew a cuppa is “by microwaving it”.
+
+The British drink an estimated 100 million cups of tea a day, and consider it their national drink.
+
+...
+
+[Data](articles/6c03c934.json)
+
+---
+
+### நிகழ்நிலை காப்புச் சட்டமூலத்தை இலங்கை நிறைவேற்றியமைக்கு அமெரிக்கா கவலை
+
+*2024-01-25 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174774) · `ta`
+
+பாராளுமன்றத்தில் எதிர்க்கட்சிகளின் கடும் எதிர்ப்புகளுக்கு மத்தியில் பொதுமக்கள் பாதுகாப்பு அமைச்சர் டிரான் அலசினால் சபைக்கு சமர்ப்பித்திருந்த நிகழ்நிலை காப்புச் சட்டமூலம் 46 மேலதிக வாக்குகளால் திருத்தங்களுடன் நிறைவேற்றப்பட்டது.
+
+இந்த நிகழ்நிலை காப்புச் சட்டமூலம் நிறைவேற்றப்பட்டுள்ளமை தொடர்பில் அமெரிக்கா தனது கவலையை வெளியிட்டுள்ளது.
+
+இது குறித்து இலங்கைக்கான அமெரிக்கத் தூதுவர் ஜுலி சங் தனது எக்ஸ் தளத்தில் குறிப்பிட்டுள்ளதாவது,
+
+“ சிவில் சமூகம் மற்றும் தொழில்நுட்ப நிறுவனங்கள் உள்ளிட்ட முக்கிய பங்குதாரர்களின் கோரிக்கைகளை உள்ளடக்காமல் பாராளுமன்றில் நேற்று நிறைவேற்றப்பட்ட இலங்கையின் நிகழ்நிலை காப்புச் சட்டமூலத்தின் சாத்தியமான தாக்கம் குறித்து அமெரிக்கா கவலை கொண்டுள்ளது.
+
+ஜனநாயக விழுமியங்களை ஆபத்தில் தள்ளுவதுடன் தெளிவற்ற மற்றும் மிகையான கடுமையான சட்டங்கள் முதலீடு மற்றும் டிஜிட்டல் பொருளாதாரத்தின் வளர்ச்சிக்கு இடையூறாக அமையும் என்பதுடன் இலங்கையின் பொருளாதார வளர்ச்சியைக் குறைமதிப்பிற்கு உட்படுத்தும்.
+
+...
+
+[Data](articles/b3acce90.json)
+
+---
 
 ### The final selfie of the deceased diplomatic minister
 
@@ -200,9 +288,11 @@ Police say that they seized 16 kilograms and 600 grams of ganja, 211 grams of he
 
 35 suspects who had open warrants for drug offences and 246 suspects who had open warrants for non-drug offences were also among the suspects apprehended.
 
-838 suspects apprehended in the past 24 hours under Operation Yukthiya
+Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
 
-◼️
+Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
+
+...
 
 [Data](articles/ac09ee35.json)
 
@@ -551,6 +641,10 @@ COLOMBO (News 1st);46 Indian fishermen have been apprehended for illegal fishing
 Navy spokesperson Captain Gayan Wickramasuriya says that 8 Indian fishing boats have also been taken into custody.
 
 He added that the apprehended Indian fishermen have been handed over to the Fisheries Inspectors for onward legal action.
+
+Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+
+Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
 
 838 suspects apprehended in the past 24 hours under Operation Yukthiya
 
@@ -1132,6 +1226,10 @@ Police say the suspect who was caught by the residents along with the firearm us
 
 Police say, Investigations are underway to find the suspect who fled the scene.
 
+Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+
+Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
+
 838 suspects apprehended in the past 24 hours under Operation Yukthiya
 
 ◼️
@@ -1305,6 +1403,10 @@ COLOMBO (News 1st); Sri Lankan State Minister Sanath Nishantha died early on Thu
 Sri Lanka Police said that a Police Constable attached to the security detail of the State Minister died as well, while the driver sustained serious injuries and was admitted to the hospital.
 
 According to an official statement from Sri Lanka Police the accident took place at 2 AM and the SUV in which the State Minister was travelling in crashed on to the rear end of a freight container truck heading to Colombo, resulting in the tragic accident.
+
+Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+
+Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
 
 838 suspects apprehended in the past 24 hours under Operation Yukthiya
 
@@ -1959,93 +2061,5 @@ Despite the recent uptake of educational technology (edtech) in Sri Lanka, it do
 [Data](articles/15d15a8e.json)
 
 [Extended Data](ext_articles/15d15a8e.ext.json)
-
----
-
-### People in panic by a crying guest who came home
-
-*2024-01-24 23:42:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வீட்டுக்கு-வந்த-அழையா-விருந்தாளியால்-பீதியில்-மக்கள்/175-332082) · `ta`
-
-A 14 -foot -long crocodile has reached a house in the Horawapothana, Kaduvarakollawa area.
-
-Subsequently, the Horawapothana Wildlife Office caught the top and left the Horawapothana National Park. Remble
-
-◼️
-
-[Data](articles/533ba696.json)
-
-[Extended Data](ext_articles/533ba696.ext.json)
-
----
-
-### 22 -year -old police constable death
-
-*2024-01-24 23:37:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/22-வயதுடைய-பொலிஸ்-கான்ஸ்டபிள்-மரணம்/175-332081) · `ta`
-
-A police officer was killed in an accident at Punji Akurugoda area this afternoon at Tissamaharama Kadirgamam Road.
-
-A 22 -year -old police constable from Welimada, who is on duty in the Kadirgamam police division, has died.
-
-A private bus crashed into the opposite motorcycle as a private bus overturned the tractor in the same direction.
-
-The police constable, who was behind the motorcycle, suffered serious injuries and died when he was admitted to the Thebaraweva Hospital.
-
-◼️
-
-[Data](articles/c6e38a56.json)
-
-[Extended Data](ext_articles/c6e38a56.ext.json)
-
----
-
-### Firing at Jindupitiya
-
-*2024-01-24 23:20:46* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜிந்துப்பிட்டியில்-துப்பாக்கிச்-சூடு/175-332080) · `ta`
-
-One person was injured in a shooting in Jindupitiya, Colombo, police said.
-
-Police said two unidentified men on a motorbike fled after fleeing.
-
-◼️
-
-[Data](articles/f5041ffd.json)
-
-[Extended Data](ext_articles/f5041ffd.ext.json)
-
----
-
-### Shritharan shock, Presidential election wild card and crippled SJB strategy
-
-*2024-01-24 22:52:56* · [`dailyftlk`](https://www.ft.lk/columns/Shritharan-shock-Presidential-election-wild-card-and-crippled-SJB-strategy/4-757720) · `en`
-
-Sri Lanka’s Tamil politics just has a new leader. Sivagnanam Shritharan is not the leader I would have hoped and wished for the Tamil people—I was expecting and rooting for M.A. Sumanthiran, a sophisticated postwar parliamentarian—but that’s democracy and the autonomous choice of a community.
-
-The choice of Shritharan, a hardcore Tamil nationalist with sympathy for the LTTE including in wartime, indicates the propensity of Tamil nationalism towards what may seem like separatism but is at root, isolationism, involution. The result is political marginality.
-
-...
-
-[Data](articles/d5e91a9d.json)
-
-[Extended Data](ext_articles/d5e91a9d.ext.json)
-
----
-
-### Parents arrested after leaving children alone at home to fulfill religious vow
-
-*2024-01-24 22:25:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parents-arrested-after-leaving-children-alone-at-home-to-fulfill-religious-vow/108-275674) · `en`
-
-A couple of parents in Deegalla in Kuliyapitiya who went on a pilgrimage to Sri Padasthana to fulfil a vow leaving their three children all alone within closed doors were arrested today by the Kuliyapitiya police.
-
-The three children were eight, five and three years of age and they were taken charge of the police on information from the public received through Police Emergency Service 119.
-
-Police said they rushed to the scene and broke opened the doors to find the three children who had taken ill of fever in fear of being left alone and admitted them to a hospital. Investigations revealed that the parents had gone on a pilgrimage, leaving the three children with a stock of biscuits, and bread to eat.
-
-The police arrested the parents on their return, and kept the mother to take care of the children under treatment. Police said the suspect parents would be produced in court.
-
-◼️
-
-[Data](articles/77e4bf4f.json)
-
-[Extended Data](ext_articles/77e4bf4f.ext.json)
 
 ---

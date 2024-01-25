@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 04:32:53**
+As of **2024-01-26 04:50:23**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,635 (99.7%) of 2,643 articles have been extended.
+2,637 (99.8%) of 2,643 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -54,6 +54,8 @@ Reduced tourism: The COVID-19 pandemic dealt a severe blow to Sri Lanka’s vita
 
 [Data](articles/e761dbfd.json)
 
+[Extended Data](ext_articles/e761dbfd.ext.json)
+
 ---
 
 ### Challenges in the forthcoming Presidential election
@@ -65,6 +67,8 @@ Unless there is a major political predicament, the Presidential elections will b
 ...
 
 [Data](articles/416ab1c4.json)
+
+[Extended Data](ext_articles/416ab1c4.ext.json)
 
 ---
 

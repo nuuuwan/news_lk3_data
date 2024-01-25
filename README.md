@@ -1,36 +1,80 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 09:51:53**
+As of **2024-01-25 10:04:10**
 
 ## Newspaper Stats
 
-*Scraped **2,520** Articles*
+*Scraped **2,523** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 35
-bbccomsinhala | 48
+bbccomsinhala | 49
 dbsjeyarajcom | 123
 newsfirstlk | 137
 islandlk | 146
 economynextcom | 151
 dailyftlk | 194
-adaderanasinhalalk | 200
+adaderanasinhalalk | 201
 adalk | 244
 virakesarilk | 278
 adaderanalk | 313
 tamilmirrorlk | 316
-dailymirrorlk | 335
+dailymirrorlk | 336
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,519 (100.0%) of 2,520 articles have been extended.
+2,523 (100.0%) of 2,523 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### Notice of MP, who is vacant after Sanath Nishantha
+
+*2024-01-25 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192545) · `si`
+
+State Minister Sanath Nishantha was killed in an accident on the Southern Expressway last night.
+
+Sanath Nishantha Perera, who is born on May 3, 1975, has three other sisters and three brothers.
+
+Sanath Nishantha is an alumni of St. Mary's College, Chilaw.
+
+In 1997, the Arachchikattuwa Pradeshiya Sabha contested the Pradeshiya Sabha, but he could not win.
+
+Sanath Nishantha was able to act as a member of the Arachchikattuwa Pradeshiya Sabha after the assassination of the Pradeshiya Sabha.
+
+He was contesting for the North Western Provincial Council election in 2004 and won the 2009 Provincial Council election.
+
+He was also the fisheries and highways and powerful Minister of the North Western Provincial Council on May 31, 2010.
+
+He was first the first minister to be appointed as the Puttalam District to be appointed as the first person in the North Western Provincial Council election.
+
+He was also able to hold the Acting Chief Minister on one occasion in the provincial council.
+
+...
+
+[Data](articles/c19bc984.json)
+
+[Extended Data](ext_articles/c19bc984.ext.json)
+
+---
+
+### Sanath Nishantha killed in car accident
+
+*2024-01-25 09:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sanath-Nishantha-killed-in-car-accident/110-275702) · `en`
+
+State Minister Sanath Nishantha and the police constable, who was his security officer, died in an accident on the Katunayake Expressway near Kandana early this morning.
+
+◼️
+
+[Data](articles/9688f50e.json)
+
+[Extended Data](ext_articles/9688f50e.ext.json)
+
+---
 
 ### Fatal shells at a refugee center
 
@@ -571,6 +615,34 @@ On the other hand, the unethical companies and individuals, often dealing in cas
 [Data](articles/ebbff3ac.json)
 
 [Extended Data](ext_articles/ebbff3ac.ext.json)
+
+---
+
+### What is the process of sacking the bhikkill in Sri Lanka?
+
+*2024-01-25 03:35:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cn4njy66r66o) · `si`
+
+Bridgement in the Sasana, the various information about monks have been circulated in various media.
+
+The latest incident was that universal intelligence was arrested and arrested for insulting Buddhism and remanded.
+
+The Ramanna Niki Niki Niki Nika Nikaya has unanimously decided to expel the 'Universal Intelligence Muni' in Ratnapura.
+
+The person who appeared as 'Alocatheeswara Bodhisattva' calls
+
+However, the monk pointed out that the Bhikku society has no power to ban a monk just by sacking the monk.
+
+What, then, is removal of bhikkh from the way?What is the process of removing the bhikkh?This is a note that inquire about it.
+
+The Chief Prelate of the Ramer Ramanna Nikaya has decided to expel the Buddhist monk by Buddhism as a monk called Wimalabuddi in Ratnapura.
+
+The article stated that the Ramanna Section of the Ramanna section of the Ramanna Sect of December 15, decided to expel the universal intelligence.
+
+...
+
+[Data](articles/d9a61420.json)
+
+[Extended Data](ext_articles/d9a61420.ext.json)
 
 ---
 
@@ -1536,6 +1608,8 @@ Sri Lanka Insurance achieves milestone with ISO/IEC 27001: 2013 Certification fo
 
 [Data](articles/02514b3b.json)
 
+[Extended Data](ext_articles/02514b3b.ext.json)
+
 ---
 
 ### Standard Chartered appoints Rukshila Seneviratne as new Head of Human Resources in Sri Lanka
@@ -1969,61 +2043,5 @@ The prison center has requested that he be saved because he is fighting for life
 [Data](articles/c90a2f5a.json)
 
 [Extended Data](ext_articles/c90a2f5a.ext.json)
-
----
-
-### Parliament approves Online Safety Bill
-
-*2024-01-24 18:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Parliament-approves-Online-Safety-Bill/155-275666) · `en`
-
-Parliament, Jan. 24 (Daily Mirror)- Amidst criticism from tech industry giants such as Google, Yahoo, and Amazon, Parliament approved the contentious Online Safety Bill, a piece of legislation perceived by some as draconian and a potential threat to freedom of expression.
-
-The bill was passed without a vote in the House after Third Reading of the bill, a two-day debate in which the opposition launched a scathing attack on it saying it borders on the infringement of freedom of expression.
-
-During the Second Reading, the bill was taken to vote with 108 supporting it and 62 opposing. However, the Supreme Court cleared the bill subjected to amendments proposed by it.
-
-Asia Internet Coalition (AIC), a body comprising internet and technology companies in the world, and its members, expressed concern about the Online Safety Bill and called for extensive revisions and overhaul of it.
-
-...
-
-[Data](articles/51d4e0ab.json)
-
-[Extended Data](ext_articles/51d4e0ab.ext.json)
-
----
-
-### Parliament approves Online Safety Bill
-
-*2024-01-24 18:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-approves-Online-Safety-Bill/108-275666) · `en`
-
-Parliament, Jan. 24 (Daily Mirror)- The Online Safety Bill was passed with amendments in parliamnt.
-
-◼️
-
-[Data](articles/c76e4c15.json)
-
-[Extended Data](ext_articles/c76e4c15.ext.json)
-
----
-
-### Pandemonium as opposition says Sri Lanka online law changes not in line with SC order
-
-*2024-01-24 18:30:00* · [`economynextcom`](https://economynext.com/pandemonium-as-opposition-says-sri-lanka-online-law-changes-not-in-line-with-sc-order-148666/) · `en`
-
-ECONOMYNEXT – Sri Lanka ruling party legislators formed a ring around chief government whip Susil Premjayntha amid strong protests from the opposition that revisions to a controversial online speech bill suggested by the government did not comply with a Supreme Court order.
-
-The Supreme Court ruled that 31 provisions of the so-called online safety law that sought to control social media and online speech, was against the constitution.
-
-The law passed with 108 votes of the 225-member assembly voting in favour with the main opposition vowing to overhaul the law if they came to power.
-
-RELATED Sri Lanka parliament passes online speech law despite opposition
-
-Opposition legislator M A Sumanthiran, a lawyer, said 13 amendments circulated among legislators overnight to be included in the so-called ‘committee stage’ or final reading at parliament, did not comply with the Supreme Court order.
-
-...
-
-[Data](articles/046b1208.json)
-
-[Extended Data](ext_articles/046b1208.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 12:04:08**
+As of **2024-01-25 12:17:21**
 
 ## Newspaper Stats
 
-*Scraped **2,543** Articles*
+*Scraped **2,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ bbccomsinhala | 49
 dbsjeyarajcom | 123
 newsfirstlk | 138
 islandlk | 146
-economynextcom | 151
+economynextcom | 152
 dailyftlk | 194
-adaderanasinhalalk | 204
+adaderanasinhalalk | 206
 adalk | 246
 virakesarilk | 281
 adaderanalk | 314
@@ -26,11 +26,47 @@ dailymirrorlk | 337
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,543 (100.0%) of 2,543 articles have been extended.
+2,543 (99.9%) of 2,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### විහාරස්ථානයකට වෙඩි ප්‍රහාරයක්
+
+*2024-01-25 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192550) · `si`
+
+දොඩම්ගස්ලන්ද - උඩත්තාපොළ පුරාණ විහාරස්ථානයට ඊයේ (24) රාත්‍රියේ වෙඩි ප්‍රහාරයක් එල්ල කර ඇති බව මදුරාගොඩ පොලීසිය පවසයි.
+
+විහාරාධිපති ගල්නෑවේ පඤ්ඤාකිත්ති හිමියන් වැඩ වසන කාමරයේ ජනේලයකට වෙඩි ප්‍රහාරය එල්ල වී තිබුණ ද පඤ්ඤාකිත්ති හිමියන් එම අවස්ථාවේ දී ලැගුම් ගෙයි වෙනත් ස්ථානයක සැතපී සිටි බැවින් උන් වහන්සේට හානියක් සිදු ව නැති බව ද පොලීසිය සඳහන් කළේ ය.
+
+පොලිස් පරීක්ෂණවලට අනුව බඳින තුවක්කුවක් හා සමාන කුවක්කුවකින් මෙම වෙඩි තැබීම සිදු කර තිබෙන බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/fae723b6.json)
+
+---
+
+### දණ්ඩ නීති සංග්‍රහයේ සංශෝධනයක්
+
+*2024-01-25 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192549) · `si`
+
+ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් ඊයේ (24) පැවති අමාත්‍ය මණ්ඩල රැස්වීමේ දී තීරණ කිහිපයකට එළැඹ තිබේ.
+
+ඒ අනුව ප්‍රධාන වශයෙන් දණ්ඩ නීති සංග්‍රහය සඳහා සංශෝධනයන් ඉදිරිපත් කිරීමට ද අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව ඇත.
+
+දණ්ඩ නීති සංග්‍රහයේ සඳහන් ව්‍යස්ථාපිත ස්ත්‍රී දුෂණය පිළිබඳ නීති සංශෝධනය කිරීම සඳහාත්, ස්ත්‍රී දුෂණය සම්බන්ධ නීතියේ පවතින අඩුපාඩු නිවැරදි කිරීම සඳහා සහ පිරිමි ළමයින් දුෂණය කිරීම සාපරාධී ක්‍රියාවක් බවට පත්කිරීම සඳහාත් දණ්ඩ නීති සංග්‍රහය සඳහා සංශෝධන හඳුන්වා දීමට 2021.01.18 සහ 2021.06.28 යන පැවති අමාත්‍ය මණ්ඩලයේ දී අනුමැතිය හිමිව ඇත.
+
+ඒ අනුව නීති කෙටුම්පත් සම්පාදක විසින් සකස් කරනු ලැබ ඇති පනත් කෙටුම්පත සඳහා නීතිපතිගේ නිෂ්කාශනය ලැබී තිබේ.
+
+එකී පනත් කෙටුම්පත රජයේ ගැසට් පත්‍රයේ පළ කිරීමටත්, ඉන් අනතුරුව අනුමැතිය පිණිස පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමටත් අධිකරණ අමාත්‍යවරයා ඉදිරිපත් කළ යෝජනාවට එලෙස අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව ඇත.
+
+◼️
+
+[Data](articles/af5196d1.json)
+
+---
 
 ### Transfers to three DIGs
 
@@ -325,6 +361,24 @@ The injured person has been admitted to the basin hospital in Mulleriyawa.
 [Data](articles/2352a8b1.json)
 
 [Extended Data](ext_articles/2352a8b1.ext.json)
+
+---
+
+### Sri Lanka workers in Maldives turn to Undiyal as banks limit dollars: legislator
+
+*2024-01-25 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-workers-in-maldives-turn-to-undiyal-as-banks-limit-dollars-legislator-148693/) · `en`
+
+ECONOMYNEXT – Sri Lanka workers in the Maldives have to rely on Undiyal to send remittances home, as banks have limited dollar sales to customers amid forex shortages, a legislator told State Minister for Finance Shehan Semasinghe, seeking his intervention.
+
+Data showed that the Maldive’s Monetary Authority’s domestic assets had risen over the past several months resulting in reserve losses as the liquidity pushed up dollar demand.
+
+A large number of Sri Lankans work in the Maldives in high executive jobs in the hospitality sector in other categories including and labourers and housemaids.
+
+“There are many Sri Lankans working in high level jobs in the Maldives,” ruling party legislator Weerasumana Weerasinghe told State Minister for Finance Shehan Semasinghe.
+
+...
+
+[Data](articles/6fc95cbe.json)
 
 ---
 
@@ -1955,59 +2009,5 @@ A total of 346% of the electrical electricity projects have been established in 
 [Data](articles/1351d1fb.json)
 
 [Extended Data](ext_articles/1351d1fb.ext.json)
-
----
-
-### Teejay Lanka & Hemas collaborate to promote menstrual hygiene in rural schools
-
-*2024-01-24 20:42:00* · [`islandlk`](http://island.lk/teejay-lanka-hemas-collaborate-to-promote-menstrual-hygiene-in-rural-schools/) · `en`
-
-Top fabric manufacturer Teejay Lanka PLC and leading business conglomerate Hemas Holdings have joined forces to launch a groundbreaking initiative to promote menstrual hygiene awareness and provide essential resources to underserved communities in rural Sri Lanka.
-
-A Memorandum of Understanding (MoU) signed by the two corporate giants outlines a collaboration that will see Hemas Holdings supplying sanitary napkins to female students above 12 years in a minimum of six schools identified by Teejay for one year. The programme will be facilitated by the FEMS H.E.R. Foundation with Teejay. An abbreviation of its principal pillars of Help, Empower and Rise, the H.E.R. Foundation was set up by FEMS to create an even bigger impact and attract more like-minded organisations and people to join its initiative to end period poverty and promote awareness in Sri Lanka.
-
-...
-
-[Data](articles/1e8bb743.json)
-
-[Extended Data](ext_articles/1e8bb743.ext.json)
-
----
-
-### Facebook note on Chamara Weerasinghe about their current situation
-
-*2024-01-24 20:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192527) · `si`
-
-The popular singer Chamara Weerasinghe has placed a message on his Facebook page.
-
-He thanked him for the fans with the medical staff and his best interests that would be working hard for him.
-
-Chamara Weerasinghe has said that he should rest for a short period of time and seek to go to a break.
-
-The full note on which Chamara Weerasinghe has placed his Facebook page below,
-
-Since my health is now admitted to the Colombo South Teaching Hospital, the monks who have been treated at the Colombo Teaching Hospital since its admitted to the Colombo Teaching Hospital and the sacrifices of the hospital staff have been given to everyone and the priests.He also said that all the local and dear fans were given to all of the dear fans and said that they would be necessary to go to a relaxation place.
-
-◼️
-
-[Data](articles/433fbaaf.json)
-
-[Extended Data](ext_articles/433fbaaf.ext.json)
-
----
-
-### Declining trend continues in bourse; investor sentiment low
-
-*2024-01-24 20:39:00* · [`islandlk`](http://island.lk/declining-trend-continues-in-bourse-investor-sentiment-low/) · `en`
-
-The stock market continued on a downward path yesterday as investor sentiment showed no rebound. CSE indices indicated mixed reactions. The All Share Price Index went down by 4.7 points while S and P SL20 rose by 2 percent.
-
-Turnover stood at Rs 589 million with two crossings. Those crossings were reported in Renuka City Hotel, which crossed 184,000 shares to the tune of Rs 61.7 million; its shares traded at Rs 335 and LB Finance 500,000 shares crossed for Rs 30.5 million; its shares traded at Rs 61.
-
-...
-
-[Data](articles/7d1b1411.json)
-
-[Extended Data](ext_articles/7d1b1411.ext.json)
 
 ---

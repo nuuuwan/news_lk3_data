@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 01:02:28**
+As of **2024-01-26 01:17:14**
 
 ## Newspaper Stats
 
-*Scraped **2,629** Articles*
+*Scraped **2,632** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,54 @@ bbccomsinhala | 50
 dbsjeyarajcom | 123
 newsfirstlk | 144
 islandlk | 147
-economynextcom | 152
+economynextcom | 153
 dailyftlk | 194
 adaderanasinhalalk | 225
 adalk | 255
 virakesarilk | 286
 adaderanalk | 330
 tamilmirrorlk | 334
-dailymirrorlk | 354
+dailymirrorlk | 356
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,629 (100.0%) of 2,629 articles have been extended.
+2,629 (99.9%) of 2,632 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Guns and Sri Lankan ‘Roses’ - EDITORIAL
+
+*2024-01-26 00:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Guns-and-Sri-Lankan-Roses-EDITORIAL/172-275724) · `en`
+
+Yesterday was a Poya Day (Duruthu Poya), and people placed flowers in front of Buddha statues all over the country, but we can safely say that roses have not been the favourite of Buddhists. This isn’t because roses are criminally expensive, but because this religion doesn’t have a close relationship with the ‘rose’. Buddhists prefer the lotus when an offering needs to be done; largely due to the lessons the flower symbolises.
+
+But roses have entered our culture and quite secretly encroached the minds of peace-loving people as well as rebels and protesters. We remember in 2022 April (8) how a female undergraduate went in front of a barricade near the Sri Lankan Parliament and offered a rose to the Police, who were in their numbers to quell a protest. That gesture was ‘sweet’ like the rose itself, but those who love roses can love guns as well; in case you’re pushed to the wall and there is no solace from the law.
+
+...
+
+[Data](articles/6fc6e4ec.json)
+
+---
+
+### Palestinian crisis: Obstacles on path to two-state solution
+
+*2024-01-26 00:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Palestinian-crisis-Obstacles-on-path-to-two-state-solution/172-275723) · `en`
+
+Palestinians fleeing Khan Yunis on a donkey cart with their belongings as Israel pressed its blistering assault on the city yesterday. AFP
+
+As Israel’s inhuman onslaught on the Gaza Strip continues, the talk of a two-state solution is being bandied about by world leaders, especially those from the Global South.
+
+Though the two-state solution requires thorough scrutiny and resurrection, some see this as an attempt to deflect global attention from the Gaza horror, which has killed more than 25,000 people; 70 percent of them being women and children. Whether this horror is gross genocide will be known today when the International Court of Justice delivers its provisional order.
+
+...
+
+[Data](articles/97ac5504.json)
+
+---
 
 ### Five shooting - court order
 
@@ -785,6 +815,24 @@ Meanwhile, former President Mahinda Rajapaksa has visited many others to visit t
 [Data](articles/b34a1534.json)
 
 [Extended Data](ext_articles/b34a1534.ext.json)
+
+---
+
+### US expresses concern over Sri Lanka law to police online discourse
+
+*2024-01-25 16:46:00* · [`economynextcom`](https://economynext.com/us-expresses-concern-over-sri-lanka-law-to-police-online-discourse-148706/) · `en`
+
+ECONOMYNEXT – The United States has expressed concern over a controversial law to control online discourse which was passed by parliament amid opposition protests, despite last minute changes brought by the government.
+
+“The United States remains concerned about the potential impact of Sri Lanka’s Online Safety Bill, which passed yesterday without incorporating important input from key stakeholders, including civil society and tech companies who say that this legislation threatens freedom of expression, innovation, and privacy,” US ambassador Juline Chung said in a statement on the social media platform twitter, now called ‘X’.
+
+“In addition to jeopardizing democratic values, vague and overly restrictive legislation can hinder investment and the development of a digital economy, undermining the economic growth that Sri Lanka needs.
+
+“The U.S. urges Sri Lanka to prioritize transparency and ensure any legislation does not stifle the voices of its people.”
+
+...
+
+[Data](articles/01270084.json)
 
 ---
 
@@ -2003,67 +2051,5 @@ The injured person has been admitted to the basin hospital in Mulleriyawa.
 [Data](articles/2352a8b1.json)
 
 [Extended Data](ext_articles/2352a8b1.ext.json)
-
----
-
-### Sri Lanka workers in Maldives turn to Undiyal as banks limit dollars: legislator
-
-*2024-01-25 09:46:00* · [`economynextcom`](https://economynext.com/sri-lanka-workers-in-maldives-turn-to-undiyal-as-banks-limit-dollars-legislator-148693/) · `en`
-
-ECONOMYNEXT – Sri Lanka workers in the Maldives have to rely on Undiyal to send remittances home, as banks have limited dollar sales to customers amid forex shortages, a legislator told State Minister for Finance Shehan Semasinghe, seeking his intervention.
-
-Data showed that the Maldive’s Monetary Authority’s domestic assets had risen over the past several months resulting in reserve losses as the liquidity pushed up dollar demand.
-
-A large number of Sri Lankans work in the Maldives in high executive jobs in the hospitality sector in other categories including and labourers and housemaids.
-
-“There are many Sri Lankans working in high level jobs in the Maldives,” ruling party legislator Weerasumana Weerasinghe told State Minister for Finance Shehan Semasinghe.
-
-...
-
-[Data](articles/6fc95cbe.json)
-
-[Extended Data](ext_articles/6fc95cbe.ext.json)
-
----
-
-### Notice of MP, who is vacant after Sanath Nishantha
-
-*2024-01-25 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192545) · `si`
-
-State Minister Sanath Nishantha was killed in an accident on the Southern Expressway last night.
-
-Sanath Nishantha Perera, who is born on May 3, 1975, has three other sisters and three brothers.
-
-Sanath Nishantha is an alumni of St. Mary's College, Chilaw.
-
-In 1997, the Arachchikattuwa Pradeshiya Sabha contested the Pradeshiya Sabha, but he could not win.
-
-Sanath Nishantha was able to act as a member of the Arachchikattuwa Pradeshiya Sabha after the assassination of the Pradeshiya Sabha.
-
-He was contesting for the North Western Provincial Council election in 2004 and won the 2009 Provincial Council election.
-
-He was also the fisheries and highways and powerful Minister of the North Western Provincial Council on May 31, 2010.
-
-He was first the first minister to be appointed as the Puttalam District to be appointed as the first person in the North Western Provincial Council election.
-
-He was also able to hold the Acting Chief Minister on one occasion in the provincial council.
-
-...
-
-[Data](articles/c19bc984.json)
-
-[Extended Data](ext_articles/c19bc984.ext.json)
-
----
-
-### Sanath Nishantha killed in car accident
-
-*2024-01-25 09:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sanath-Nishantha-killed-in-car-accident/110-275702) · `en`
-
-◼️
-
-[Data](articles/9688f50e.json)
-
-[Extended Data](ext_articles/9688f50e.ext.json)
 
 ---

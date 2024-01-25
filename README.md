@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 08:32:53**
+As of **2024-01-25 08:51:03**
 
 ## Newspaper Stats
 
-*Scraped **2,507** Articles*
+*Scraped **2,510** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 194
 adaderanasinhalalk | 198
 adalk | 242
 virakesarilk | 277
-adaderanalk | 310
+adaderanalk | 313
 tamilmirrorlk | 313
 dailymirrorlk | 335
 
@@ -26,11 +26,29 @@ dailymirrorlk | 335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,505 (99.9%) of 2,507 articles have been extended.
+2,507 (99.9%) of 2,510 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### 838 more suspects arrested under ‘Yukthiya’ operation
+
+*2024-01-25 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96714/838-more-suspects-arrested-under-yukthiya-operation) · `en`
+
+A total of 838 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.25) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Among the arrestees are 549 suspects who were taken into custody on narcotics-related charges and 289 others who were on the list of wanted criminal suspects.
+
+Detention orders have been secured against 5 drug suspects for further interrogations, and 10 drug addicts who were among the arrestees have been sent for rehabilitation.
+
+According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 211g of heroin, 78g of crystal methamphetamine (‘Ice’), 16.6kg of cannabis, 9,974 cannabis plants and 1,192 narcotic pills.
+
+◼️
+
+[Data](articles/35811508.json)
+
+---
 
 ### The three children have gone in the house of home
 
@@ -162,6 +180,30 @@ Last year, the monk was fined for selling food inadequate food at the rest of th
 
 ---
 
+### Fair weather to prevail over the island today
+
+*2024-01-25 07:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96713/fair-weather-to-prevail-over-the-island-today) · `en`
+
+The Department of Meteorology says mainly fair weather is expected to prevail over the island today (Jan.25).
+
+There is a possibility of ground frost at some places in Nuwara-Eliya district during the early hours of the morning.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa, Western and Uva provinces and in Galle and Matara districts during the morning.
+
+Mainly fair weather will prevail in the sea areas around the island.
+
+Winds will be north-easterly and wind speed will be 20-30 kmph.
+
+Wind speed may increase up to 40-45 kmph at times in the sea areas off the coasts extending from Colombo to Mannar via Puttalam and from Galle to Pottuvil via Hambantota.
+
+The sea areas off the coasts extending from Colombo to Mannar via Puttalam and from Galle to Pottuvil via Hambantota can be fairly rough at times.
+
+◼️
+
+[Data](articles/a952df9b.json)
+
+---
+
 ### Latest Hope for Public Servant Salary
 
 *2024-01-25 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192538) · `si`
@@ -289,6 +331,24 @@ The police have taken measures to bring the situation under control.
 [Data](articles/0a6e4171.json)
 
 [Extended Data](ext_articles/0a6e4171.ext.json)
+
+---
+
+### Another clash breaks out at Kandakadu rehab center; inmates escape
+
+*2024-01-25 06:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96712/another-clash-breaks-out-at-kandakadu-rehab-center-inmates-escape) · `en`
+
+A group of inmates detained at the Kandakadu Treatment and Rehabilitation Center have escaped following a clash that ensued last night (Jan.24).
+
+According to the Commissioner General of Rehabilitation, at least 40 inmates have fled the facility amidst the altercation.
+
+The police have taken measures to bring the situation under control.
+
+This incident comes on the heels of a clash that took place between two groups of inmates detained at the rehab center on January 12 after which at least 60 inmates had escaped. However, they had later surrendered. Another 25 had sustained injuries following the heated situation on that day.
+
+◼️
+
+[Data](articles/b62726bb.json)
 
 ---
 
@@ -1931,59 +1991,5 @@ Accordingly, the retail price of an egg will be Rs. 54.55, the association presi
 [Data](articles/8766cbf8.json)
 
 [Extended Data](ext_articles/8766cbf8.ext.json)
-
----
-
-### If the government liked the thieves, there would not have been a need to suppress the people by imposing a tax - the leader of the opposition
-
-*2024-01-24 17:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/174716) · `ta`
-
-The media of the High Court's latest ruling was revealed as to who had made the country economically bankrupt and made the people the most nervous future.
-
-Thus, Gotabhaya Rajapaksa, Mahinda Rajapaksa, Basil Rajapaksa, Ajith Niwad Kabral, SR Aadigala, PP. There are many more people who are responsible for the exception of Jayasundara, WD Lakshman and Samantha Kumarasinghe.
-
-The opposition leader said that taxpayer people are questioning whether legal action has been taken against those responsible for corruption and fraud.
-
-Opposition Leader Sajith Premadasa said that the thieves will be presented before the law and will be sentenced to all kinds of punishment in the government of the United People's Power.
-
-Opposition Leader Sajith Premadasa said this in Parliament today (24) while questioning the government under Standing Orders 27 (2) on the legal proceedings of the gas, sugar, nano nitrogen, coal and fertilizer scandals.
-
-...
-
-[Data](articles/8fe2012e.json)
-
-[Extended Data](ext_articles/8fe2012e.ext.json)
-
----
-
-### The fate of the 20th Amendment will lead to the Funeral Backup - Kiriella Sadal
-
-*2024-01-24 17:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174712) · `ta`
-
-Singapore is not in progress in human rights and democracy. Therefore, it is not acceptable to mention the fact that the Ceremony Bill was prepared in the country of Singapore.
-
-The fate of the 20th Amendment will also occur to the Funeral Backup Bill. Lakshman Kiriella, the prime minister of the opposition parties, said that the government is acting in a position to portray all those who refer to the anti -government opinion as terrorists.
-
-He was speaking at the debate on the second reading of the proposed backup Bill on Wednesday (24) in Parliament.
-
-◼️
-
-[Data](articles/359ade09.json)
-
-[Extended Data](ext_articles/359ade09.ext.json)
-
----
-
-### Online Safety Bill: Second reading passed with 46 majority
-
-*2024-01-24 17:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-Second-reading-passed-with-46-majority/108-275662) · `en`
-
-Parliament, Jan. 24 (Daily Mirror)- The second reading of the Online Safety Bill was passed with a majority of 46 votes in parliamnt.
-
-◼️
-
-[Data](articles/15ac8d23.json)
-
-[Extended Data](ext_articles/15ac8d23.ext.json)
 
 ---

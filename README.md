@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 08:18:26**
+As of **2024-01-25 08:32:53**
 
 ## Newspaper Stats
 
@@ -26,57 +26,61 @@ dailymirrorlk | 335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,491 (99.4%) of 2,507 articles have been extended.
+2,505 (99.9%) of 2,507 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### දරු තිදෙනා ගෙයි සිරකර මව්පියන් සිරිපා වඳින්න ගිහින්
+### The three children have gone in the house of home
 
 *2024-01-25 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192542) · `si`
 
-අවුරුදු අට, පහ සහ තුන යන වයස්වල පසුවෙන දරුවන් තිදෙනා නිවෙසෙහි තනි කර දමා බාරයක් ඔප්පු කිරීමට යැයි පවසා ශ්‍රීපාද වන්දනාවේ ගිය මව සහ පියා අත්අඩංගුවට ගත් බව කුලියාපිටිය පොලීසිය සඳහන්
+Kuliyapitiya Police have arrested the mother and father who had been arrested in Sripada, claiming that the three children who were eight and five-year-old had to offer a vow to the house.
 
-පොලිස් හදිසි ඇමතුම් අංකයට ලද තොරතුරකට අනුව අදාළ නිවෙස පරීක්ෂාව සඳහා ගිය නිලධාරීන්ට දක්නට
+Officials who went to the house inspection of the police emergency number
 
-පසුව කළ සොයා බැලීමේදී තහවුරු කර ගැනීමට හැකිව ඇත්තේ දරුවන් තිදෙනකු එම නිවෙස තුළ සිටින බවය.
+Later, the three children were able to be confirmed in that home.
 
-එම දරුවන් තිදෙනා ඒ වන විටත් උණ රෝගයෙන් පෙළෙමින් සිටි බව විමර්ශන සඳහා ගිය නිලධාරීන්ට අනාවරණය වී තිබිණි.
+The officials were revealed that the three children were already suffering from fever.
 
-එම නිසා දරුවන් තිදෙනා කඩිනමින් රෝහල් ගත කිරීමට පොලීසිය පියවර ගෙන ඇත.
+Therefore, the police have taken steps to hospital with the three children expeded.
 
-පාන්, බිස්කට් ආදී ක්ෂණික ආහාර වර්ග නිවෙසට ගෙනැවිත් දී මෙම යුවළ තවත් පිරිසක් සමග වන්දනාවේ
+The couple was brought to the house, such as bread and biscuits to the residence
 
-වන්දනා ගමන නිමවී පැමිණි මවුපියෝ වහා අත්අඩංගුවට ගෙන තිබූ අතර රෝහල් ගතව සාංකාවෙන් පසුවන දරුවන්ගේ ආරක්ෂාව වෙනුවෙන් දරුවන්ගේ මව එම ස්ථානයේ රඳවා තිබිණි.
+Parents who had come to the pilgrimage were arrested immediately and the mother of their children was detained for the safety of their children.
 
-සිද්ධියට අදාළ සැකකාර පියා හා මව අධිකරණයට ඉදිරිපත් කිරීමට නියමිත බව කුලියාපිටිය පොලීසිය පවසයි.
+Kuliyapitiya Police say that the father and mother of the suspect is due to be produced in court.
 
 ◼️
 
 [Data](articles/bdf5dcfc.json)
 
+[Extended Data](ext_articles/bdf5dcfc.ext.json)
+
 ---
 
-### තවත් සැකකරුවන් 838ක් අත්අඩංගුවට
+### 838 suspects arrested
 
 *2024-01-25 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192541) · `si`
 
-ගත වූ පැය 24 තුළ යුක්තිය මෙහෙයුම යටතේ දිවයින පුරා සිදු කළ මෙහෙයුම්වලින් අපරාධකරුවන් 838ක් අත්අඩංගුවට ගෙන තිබේ.
+838 criminals have been arrested by 838 criminals by operations island wide under the operation of justice.
 
-ඊට මත්ද්‍රව්‍ය වැරදි සම්බන්ධ සැකකරුවන් 549ක් සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 289ක් ඇතුළත් වේ.
+It includes 549 suspects in drug misconduct and 289 suspects on the list of criminal sections.
 
-මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් 549 දෙනා අතරින් සැකකරුවන් 05කට රැඳවුම් නියෝග මත වැඩිදුර විමර්ශන සිදු කරන අතර, මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් 10ක් පුනරුත්ථාපනය සඳහා යොමු කර ඇත.
+Among the 549 suspects arrested over drug misconduct, five suspects are conducted on rehabilitation and 10 drug addicts.
 
-පොලිස් මත්ද්‍රව්‍ය නාශක කාර්‍යාංශය සහ පොලිස් විශේෂ කාර්යාංශ ලැයිස්තුවේ සිටි සැකකරුවන් 14ක් ද අත්අඩංගුවට ගෙන තිබේ.
+The Police Narcotics Bureau and the Police Special Bureau's list have been apprehended.
 
-එසේම, අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ අත්අඩංගුවට ගත් සැකකරුවන් 289 දෙනා අතරින් මත්ද්‍රව්‍ය වැරදි සම්බන්ධව විවෘත වරෙන්තු නිකුත්ව සිටි සැකකරුවන් 35ක් සහ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධ විවෘත වරෙන්තුකරුවන් 246ක් ද සිටින බව වාර්තා වේ.
+It is also reported that there are 35 suspects in the list of the 289 suspects arrested on the list of the list of the list.
 
-ඇඟිලි සටහන් මාධ්‍යයෙන් හඳුනාගෙන අත්අඩංගුවට නොගෙන සිටි සැකකරුවන් 05ක් සහ අපරාධවලට අවශ්‍ය කරන සැකකරුවන් 03ක් ද මෙහෙයුම්වල දී අත්අඩංගුවට ගෙන ඇත.
+Five suspects and three suspects who were not arrested from the media and three suspects were arrested in operations.
 
 ◼️
 
 [Data](articles/b622505e.json)
+
+[Extended Data](ext_articles/b622505e.ext.json)
 
 ---
 
@@ -91,6 +95,8 @@ Accordingly, the government will lose a seat as Priyankara is the district leade
 ◼️
 
 [Data](articles/d62704a1.json)
+
+[Extended Data](ext_articles/d62704a1.ext.json)
 
 ---
 
@@ -197,6 +203,8 @@ Russian plane crashes with 65 Ukrainian prisoners of war on board
 ◼️
 
 [Data](articles/4a89318d.json)
+
+[Extended Data](ext_articles/4a89318d.ext.json)
 
 ---
 
@@ -412,6 +420,8 @@ On the other hand, the unethical companies and individuals, often dealing in cas
 
 [Data](articles/ebbff3ac.json)
 
+[Extended Data](ext_articles/ebbff3ac.ext.json)
+
 ---
 
 ### ID digit is the tin number
@@ -551,6 +561,8 @@ The transshipment volumes handled by the port rose by 2.1 percent YoY to 5.75 mi
 ...
 
 [Data](articles/c3943156.json)
+
+[Extended Data](ext_articles/c3943156.ext.json)
 
 ---
 
@@ -1295,6 +1307,8 @@ Standard Chartered has announced the appointment of Rukshila Seneviratne as the 
 ...
 
 [Data](articles/93bd9810.json)
+
+[Extended Data](ext_articles/93bd9810.ext.json)
 
 ---
 

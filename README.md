@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 21:17:13**
+As of **2024-01-25 21:33:11**
 
 ## Newspaper Stats
 
-*Scraped **2,617** Articles*
+*Scraped **2,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 194
 adaderanasinhalalk | 221
 adalk | 255
 virakesarilk | 286
-adaderanalk | 328
+adaderanalk | 329
 tamilmirrorlk | 331
 dailymirrorlk | 351
 
@@ -26,11 +26,31 @@ dailymirrorlk | 351
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,617 (100.0%) of 2,617 articles have been extended.
+2,617 (100.0%) of 2,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### Detention order issued on suspect arrested over Beliatta mass shooting
+
+*2024-01-25 20:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96730/detention-order-issued-on-suspect-arrested-over-beliatta-mass-shooting) · `en`
+
+Deiyannadara Magistrate has issued a detention order on the suspect arrested in connection with the mass shooting in Beliatta in which five people were killed.
+
+Accordingly, the suspect will be detained until January 27 for onward investigations.
+
+The arrestee was identified as the driver of the SUV used by the assailants and is also suspected to have orchestrated the mass shooting which took place on Tuesday (Jan.23).
+
+He was arrested on Thursday (Jan.24) in Maliduwa, Akuressa and earlier in the day, the vehicle used by the assailants was found parked near the Vidyaloka Pirivena in Galle.
+
+On January 23, a group of persons who had arrived in an SUV had opened fire at a white Defender near the Beliatta Interchange of the Southern Expressway.
+
+...
+
+[Data](articles/287e314d.json)
+
+---
 
 ### US expresses concerns over Sri Lanka’s Online Safety Bill, calls for transparency
 
@@ -108,11 +128,15 @@ President Ranil Wickremesinghe has visited the residence of the late State Minis
 
 State Minister Sanath Nishantha lost his life in a tragic accident on the Colombo - Katunayake expressway early this morning.
 
-The deceased lawmaker is now lying in state at Jayaratne Funeral Parlour in Borella for the public to pay their last respects.
+The deceased lawmaker is now lying in state at Jayaratne Funeral Parlour in Borella, and the members of the public are allowed to pay their last respects.
 
 The casket will be brought to the late state minister’s residence in Puttalam at 10:30 a.m. tomorrow (Jan.26).
 
-◼️
+According to the police, the state minister’s vehicle had crashed against the roadside barrier before rear-ending a moving container truck around 2:00 a.m. today.
+
+Following the fatal collision, three critically injured people including State Minister Nishantha had been rushed to the Colombo North Teaching Hospital in Ragama.
+
+...
 
 [Data](articles/a1b1ac3b.json)
 
@@ -2055,27 +2079,5 @@ The sea areas off the coasts extending from Colombo to Mannar via Puttalam and f
 [Data](articles/a952df9b.json)
 
 [Extended Data](ext_articles/a952df9b.ext.json)
-
----
-
-### Latest Hope for Public Servant Salary
-
-*2024-01-25 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192538) · `si`
-
-The government and provincial government service collection states that the procedure that is not sufficient for public servants is not sufficient.
-
-The Coordinator Chandana Sooriyarachchi said that the requests will be paid to the allowance of Rs.
-
-"The government is Rs. 5,000 Allowance for Public Servants. We also say that the balance Rs.. He fought the working people for the minimum Rs.. State and provincial trade unions meet in Colombo on the 29th. In terms of this cost of living, it will take measures to take a fair wage increase or allowance. "
-
-Meanwhile, the Hotel Employee Center states that his hotel industry has been difficult to run over the economic situation.
-
-The National Organizer Jayathilaka Ranasinghe said that the government's attention has not been addressed for the problems faced by its surveillance.
-
-◼️
-
-[Data](articles/657610b0.json)
-
-[Extended Data](ext_articles/657610b0.ext.json)
 
 ---

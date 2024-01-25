@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 13:02:21**
+As of **2024-01-25 13:17:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 338
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,549 (99.9%) of 2,551 articles have been extended.
+2,551 (100.0%) of 2,551 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The Online Safety Bill, which seeks to regulate online content, received the par
 ...
 
 [Data](articles/17d43718.json)
+
+[Extended Data](ext_articles/17d43718.ext.json)
 
 ---
 
@@ -554,19 +556,21 @@ Meanwhile, a jeep who had been on the right route 26 main road in the Pallekele 
 
 ---
 
-### බස් රියට කොස්තාපල් බිලි
+### Constable Billy to Bus
 
 *2024-01-25 08:13:15* · [`adalk`](https://www.ada.lk/breaking_news/බස්-රියට-කොස්තාපල්-බිලි/11-407721) · `si`
 
-තිස්සමහාරාම - කතරගම මාර්ගයේ පුංචි අකුරගොඩ  ප්‍ර දේශයේදී බස් රථයක් හා යතුරු පැදියක් ගැටීමෙන් සිදුවූ අනතුරකින් යතුරු පැදියේ ගමන් කළ 22 හැවැරිදි කොස්තාපල්වරයෙක් ජීවිතක්ෂයට පත්ව තිබේ.
+A bus driver was killed in the motorcycle while a bus and a motorcycle was hit by a bus and a motorcycle in Tissamaharama - Kataragama road.
 
-තිස්ස - කතරගම පුද්ගලික බස් රථයක් මාර්ගයේ ද්විත්ව රේඛාව කපා ට්‍රැක්ටරයකට ඉස්සර කර ගමන් කිරීමේදි ප්‍රතිවිරුද්ධ දිශාවෙන් පැමිණි යතුරු පැදියේ ගැටී මෙම අනතුර සිදුව තිබේ.
+Tissa - Kataragama Private bus collided with a double line in the road and collided with a motorcycle in the opposite direction.
 
-අනතුරින් ජීවිතක්ෂයට පත්ව ඇත්තේ කතරගම පොලිස් ස්ථානයට අනියුක්තව සේවය කළ වැලිමඩ පදිංචිකරුවෙකි. අවුරුුු 39ක් වන බස් රථයේ රියදුරු අත්අඩංගුවට ගෙන ඇති අතර මෘත ශරිරය දෙබරවැව රෝහලේ තැන්පත් කර තිබේ.
+The deceased has been identified as Welimada resident of Kataragama police station. The driver of the 39 high bus has been arrested and the body has been placed in the Debarawewa hospitalized.
 
 ◼️
 
 [Data](articles/0def1229.json)
+
+[Extended Data](ext_articles/0def1229.ext.json)
 
 ---
 

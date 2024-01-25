@@ -1,36 +1,98 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 08:11:08**
+As of **2024-01-25 08:18:26**
 
 ## Newspaper Stats
 
-*Scraped **2,499** Articles*
+*Scraped **2,507** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 35
 bbccomsinhala | 47
 dbsjeyarajcom | 123
-newsfirstlk | 136
-islandlk | 144
+newsfirstlk | 137
+islandlk | 145
 economynextcom | 151
 dailyftlk | 194
-adaderanasinhalalk | 196
+adaderanasinhalalk | 198
 adalk | 242
-virakesarilk | 276
+virakesarilk | 277
 adaderanalk | 310
 tamilmirrorlk | 313
-dailymirrorlk | 332
+dailymirrorlk | 335
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,491 (99.7%) of 2,499 articles have been extended.
+2,491 (99.4%) of 2,507 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### දරු තිදෙනා ගෙයි සිරකර මව්පියන් සිරිපා වඳින්න ගිහින්
+
+*2024-01-25 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192542) · `si`
+
+අවුරුදු අට, පහ සහ තුන යන වයස්වල පසුවෙන දරුවන් තිදෙනා නිවෙසෙහි තනි කර දමා බාරයක් ඔප්පු කිරීමට යැයි පවසා ශ්‍රීපාද වන්දනාවේ ගිය මව සහ පියා අත්අඩංගුවට ගත් බව කුලියාපිටිය පොලීසිය සඳහන්
+
+පොලිස් හදිසි ඇමතුම් අංකයට ලද තොරතුරකට අනුව අදාළ නිවෙස පරීක්ෂාව සඳහා ගිය නිලධාරීන්ට දක්නට
+
+පසුව කළ සොයා බැලීමේදී තහවුරු කර ගැනීමට හැකිව ඇත්තේ දරුවන් තිදෙනකු එම නිවෙස තුළ සිටින බවය.
+
+එම දරුවන් තිදෙනා ඒ වන විටත් උණ රෝගයෙන් පෙළෙමින් සිටි බව විමර්ශන සඳහා ගිය නිලධාරීන්ට අනාවරණය වී තිබිණි.
+
+එම නිසා දරුවන් තිදෙනා කඩිනමින් රෝහල් ගත කිරීමට පොලීසිය පියවර ගෙන ඇත.
+
+පාන්, බිස්කට් ආදී ක්ෂණික ආහාර වර්ග නිවෙසට ගෙනැවිත් දී මෙම යුවළ තවත් පිරිසක් සමග වන්දනාවේ
+
+වන්දනා ගමන නිමවී පැමිණි මවුපියෝ වහා අත්අඩංගුවට ගෙන තිබූ අතර රෝහල් ගතව සාංකාවෙන් පසුවන දරුවන්ගේ ආරක්ෂාව වෙනුවෙන් දරුවන්ගේ මව එම ස්ථානයේ රඳවා තිබිණි.
+
+සිද්ධියට අදාළ සැකකාර පියා හා මව අධිකරණයට ඉදිරිපත් කිරීමට නියමිත බව කුලියාපිටිය පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/bdf5dcfc.json)
+
+---
+
+### තවත් සැකකරුවන් 838ක් අත්අඩංගුවට
+
+*2024-01-25 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192541) · `si`
+
+ගත වූ පැය 24 තුළ යුක්තිය මෙහෙයුම යටතේ දිවයින පුරා සිදු කළ මෙහෙයුම්වලින් අපරාධකරුවන් 838ක් අත්අඩංගුවට ගෙන තිබේ.
+
+ඊට මත්ද්‍රව්‍ය වැරදි සම්බන්ධ සැකකරුවන් 549ක් සහ අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ සිටි සැකකරුවන් 289ක් ඇතුළත් වේ.
+
+මත්ද්‍රව්‍ය වැරදි සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවන් 549 දෙනා අතරින් සැකකරුවන් 05කට රැඳවුම් නියෝග මත වැඩිදුර විමර්ශන සිදු කරන අතර, මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවන් 10ක් පුනරුත්ථාපනය සඳහා යොමු කර ඇත.
+
+පොලිස් මත්ද්‍රව්‍ය නාශක කාර්‍යාංශය සහ පොලිස් විශේෂ කාර්යාංශ ලැයිස්තුවේ සිටි සැකකරුවන් 14ක් ද අත්අඩංගුවට ගෙන තිබේ.
+
+එසේම, අපරාධ අංශ වෙත යොමු කළ ලැයිස්තුවේ අත්අඩංගුවට ගත් සැකකරුවන් 289 දෙනා අතරින් මත්ද්‍රව්‍ය වැරදි සම්බන්ධව විවෘත වරෙන්තු නිකුත්ව සිටි සැකකරුවන් 35ක් සහ මත්ද්‍රව්‍ය නොවන වැරදි සම්බන්ධ විවෘත වරෙන්තුකරුවන් 246ක් ද සිටින බව වාර්තා වේ.
+
+ඇඟිලි සටහන් මාධ්‍යයෙන් හඳුනාගෙන අත්අඩංගුවට නොගෙන සිටි සැකකරුවන් 05ක් සහ අපරාධවලට අවශ්‍ය කරන සැකකරුවන් 03ක් ද මෙහෙයුම්වල දී අත්අඩංගුවට ගෙන ඇත.
+
+◼️
+
+[Data](articles/b622505e.json)
+
+---
+
+### Jagath Priyankara to fill vacancy created by Sanath Nishantha’s death
+
+*2024-01-25 07:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jagath-Priyankara-to-fill-vacancy-created-by-Sanath-Nishanthas-death/108-275701) · `en`
+
+Colombo, Jan 25 (Daily Mirror) - Jagath Priyankara from the Jathika Nidahas Peramuna is to fill the vacancy created by the sudden death of State Minister Sanath Nishantha who met with a sudden death this morning.
+
+Accordingly, the government will lose a seat as Priyankara is the district leader of the Jathika Nidahas Peramuna led by Wimal Weerawansa who sits in Opposition along with other MPs representing his party.
+
+◼️
+
+[Data](articles/d62704a1.json)
+
+---
 
 ### All Medical Associations Join
 
@@ -113,6 +175,28 @@ The National Organizer Jayathilaka Ranasinghe said that the government's attenti
 [Data](articles/657610b0.json)
 
 [Extended Data](ext_articles/657610b0.ext.json)
+
+---
+
+### Suspect involved in shooting at Jinthupitiya in Police custody
+
+*2024-01-25 07:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/suspect-involved-in-shooting-at-jinthupitiya-in-police-custody/) · `en`
+
+COLOMBO (News 1st); One suspect involved in the shooting that took place in Jintupitiya last night has been taken into police custody.
+
+Police say that a 26-year-old man was injured and admitted to the Colombo National Hospital.
+
+One of the suspects and the motorcycle was captured by the residents around the area.
+
+Police say the suspect who was caught by the residents along with the firearm used in the shooting was later taken into Police custody.
+
+Police say, Investigations are underway to find the suspect who fled the scene.
+
+Russian plane crashes with 65 Ukrainian prisoners of war on board
+
+◼️
+
+[Data](articles/4a89318d.json)
 
 ---
 
@@ -314,6 +398,22 @@ The accident had occurred at around 2 am near the Katunayake Expressway at Katun
 
 ---
 
+### Introduction of VAT on used vehicles sparks black market: Motor Traders
+
+*2024-01-25 03:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Introduction-of-VAT-on-used-vehicles-sparks-black-market-Motor-Traders/108-275688) · `en`
+
+The recently introduced Value Added Tax (VAT) on used vehicles has inadvertently given rise to a black market within the industry. This, in turn, has led to an escalation in the market prices of used vehicles, adversely impacting the average citizens of the country, according to the Ceylon Motor Traders’ Association (CMTA).
+
+The recent implementation of the VAT has stirred concerns in the motor trade, as the legitimate companies now face a significant hurdle. When these companies sell vehicles, the prices surge by an additional 18 percent, due to the newly imposed VAT.
+
+On the other hand, the unethical companies and individuals, often dealing in cash transactions, can operate without the burden of this additional tax, offering them an 18 percent substantial competitive advantage. This situation poses a serious threat to legitimate companies, rendering them inoperable against the black-market competitors.
+
+...
+
+[Data](articles/ebbff3ac.json)
+
+---
+
 ### ID digit is the tin number
 
 *2024-01-25 02:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ID-இலக்கமே-TIN-இலக்கம்/175-332091) · `ta`
@@ -431,6 +531,26 @@ Meanwhile, Speaker Mahinda Yapa Abeywardena announced on Wednesday (24) that 18 
 [Data](articles/ce7a0712.json)
 
 [Extended Data](ext_articles/ce7a0712.ext.json)
+
+---
+
+### Colombo Port sees modest recovery in container throughput despite global uncertainties
+
+*2024-01-25 01:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Port-sees-modest-recovery-in-container-throughput-despite-global-uncertainties/108-275691) · `en`
+
+Container throughput at Port of Colombo expanded by 1.3% YoY
+
+The container throughput at the Port of Colombo experienced a modest recovery in 2023, rebounding from the effects of the economic crisis and political and social unrest of the preceding year.
+
+Notably, there was a substantial increase in transshipment container volumes in December, attributed to the advantages gained from the Red Sea crisis, as indicated by the data from the Sri Lanka’s Port Authority (SLPA).
+
+The container throughput at the Port of Colombo expanded by 1.3 percent year-on-year (YoY) to 6.949 million TEUs in 2023, indicating a return of confidence in the country by the main lines.
+
+The transshipment volumes handled by the port rose by 2.1 percent YoY to 5.75 million TEUs, while the transshipment volumes accounted for 83 percent of the port’s container throughput during the period.
+
+...
+
+[Data](articles/c3943156.json)
 
 ---
 
@@ -1166,6 +1286,18 @@ The AMDT School of Creativity recently had the privilege of hosting key official
 
 ---
 
+### Standard Chartered appoints Rukshila Seneviratne as new Head of Human Resources in Sri Lanka
+
+*2024-01-24 20:44:00* · [`islandlk`](http://island.lk/standard-chartered-appoints-rukshila-seneviratne-as-new-head-of-human-resources-in-sri-lanka/) · `en`
+
+Standard Chartered has announced the appointment of Rukshila Seneviratne as the new Head of Human Resources for Sri Lanka, effective 12th January 2024. In her new role, Rukshila will lead the country’s people strategy and will join the Bank’s Country Management Team. As part of her appointment, she will also assume duties as the Co-Chair of the Bank’s internal Diversity & Inclusion (D&I) Council.
+
+...
+
+[Data](articles/93bd9810.json)
+
+---
+
 ### Teejay Lanka & Hemas collaborate to promote menstrual hygiene in rural schools
 
 *2024-01-24 20:42:00* · [`islandlk`](http://island.lk/teejay-lanka-hemas-collaborate-to-promote-menstrual-hygiene-in-rural-schools/) · `en`
@@ -1839,139 +1971,5 @@ Parliament, Jan. 24 (Daily Mirror)- The second reading of the Online Safety Bill
 [Data](articles/15ac8d23.json)
 
 [Extended Data](ext_articles/15ac8d23.ext.json)
-
----
-
-### Online Safety Bill: Second reading passed with 46 majority votes
-
-*2024-01-24 17:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-Second-reading-passed-with-46-majority-votes/108-275662) · `en`
-
-Parliament, Jan. 24 (Daily Mirror)- The second reading of the Online Safety Bill was passed with a majority of 46 votes in parliamnt.
-
-◼️
-
-[Data](articles/beb8382f.json)
-
-[Extended Data](ext_articles/beb8382f.ext.json)
-
----
-
-### Sri Lanka’s IT and BPM industry stakeholders raise concerns over Online Safety Bill
-
-*2024-01-24 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96705/sri-lankas-it-and-bpm-industry-stakeholders-raise-concerns-over-online-safety-bill) · `en`
-
-The Sri Lanka Association of Software and Service Companies (SLASSCOM), Federation of Information Technology Industry Sri Lanka (FITIS), the Computer Society of Sri Lanka (CSSL) and the British Computer Society (BCS) have raised concerns pertaining to the proposed Online Safety Bill.
-
-In a joint statement issued on Wednesday (24 Jan.), the collective of Information Technology (IT) and Business Process Management (BPM) industry stakeholders raised four key concerns regarding the controversial Bill.
-
-They claimed that certain provisions holding online platforms and social media networks liable were ‘impractical’, and risked an economic setback or Sri Lanka. Further, the IT and BPM industry stakeholders stated that the proposed Bill may impose a significant financial burden on the industry.
-
-...
-
-[Data](articles/2771bc70.json)
-
-[Extended Data](ext_articles/2771bc70.ext.json)
-
----
-
-### Sri Lanka parliament passes online speech law despite opposition
-
-*2024-01-24 17:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-parliament-passes-online-speech-law-despite-opposition-148648/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Parliament passed a controversial Online Safety Bill on Wednesday.
-
-Legislators had passionately argued for and against the proposed law over two days.
-
-Rights groups and international technology groups had expressed concerns about the law saying that it will stifle freedom of speech on the internet.
-
-The bill, along with a new counter-terror law have drawn criticism from various quarters including civil society.
-
-Meanwhile, around 71.6 percent of the Sri Lankan public are unaware of the Online Safety Bill, a CPA survey found. (Colombo/Jan24/2024)
-
-◼️
-
-[Data](articles/c1c06f03.json)
-
-[Extended Data](ext_articles/c1c06f03.ext.json)
-
----
-
-### Online Bill Seventh Reading is passed by more
-
-*2024-01-24 17:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192522) · `si`
-
-Online methods security bill held a vote in Parliament this afternoon.
-
-Online methods security bill, 108 votes were cast against and 62 votes.
-
-Accordingly, the Speaker informed the Parliament that the second reading of the security of online methods was approved by more than 46 votes.
-
-◼️
-
-[Data](articles/6fbb582a.json)
-
-[Extended Data](ext_articles/6fbb582a.ext.json)
-
----
-
-### Second Reading of Online Safety Bill passed in Parliament
-
-*2024-01-24 17:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96703/second-reading-of-online-safety-bill-passed-in-parliament) · `en`
-
-The Second Reading of the Online Safety Bill was passed in Parliament today (Jan. 24) with a majority of 46 votes.
-
-A total of 108 MPs had voted in favour, while 62 had voted against the Bill.
-
-The Sectoral Oversight Committee on Media, Youth, Heritage and New Citizen recently approved the Online Safety Bill, subject to the amendments determined by the Supreme Court.
-
-The bill was approved when the Sectoral Oversight Committee met in Parliament on Monday (22) under the chairmanship of the MP Lalith Warankumara. Thus, the bill, which was tabled in Parliament by Minister of Public Security Tiran Alles was taken for the second reading debate on Tuesday (23) and Wednesday (24).
-
-...
-
-[Data](articles/c9683b03.json)
-
-[Extended Data](ext_articles/c9683b03.ext.json)
-
----
-
-### The Online Bill has been passed
-
-*2024-01-24 17:18:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஒன்லைன்-சட்டமூலம்-நிறைவேறியது/175-332063) · `ta`
-
-The referendum was held on Wednesday (24) after a debate on Tuesday (23) and Wednesday (24).
-
-The United People's Power Kandy District Parliamentarian Lakshman Kiriella has demanded that the legislature be refereed.
-
-Thereafter the voting bell sounded. The MPs outside the congregation entered the congregation and then refered the referendum. In it, 108 votes were cast in favor of the Bill and 62 votes.
-
-◼️
-
-[Data](articles/56e481d1.json)
-
-[Extended Data](ext_articles/56e481d1.ext.json)
-
----
-
-### Investors may not return to the country due to the mistakes of state officials!-Prasanna Ranatunga
-
-*2024-01-24 17:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/174728) · `ta`
-
-Minister of Urban Development and Housing. The Minister issued a directive to the authorities to expedite the final work.
-
-The Minister stressed the need to take proper measures and provide solutions to the problems that are involved in contact with investors.
-
-The Minister said this while addressing a discussion held at the Urban Development Authority auditorium on Tuesday (23) to investigate the issues that have arisen regarding the Aruvakkal Garbage Project.
-
-Minister Prasanna Ranatunga said that investors may not return to Sri Lanka due to such delays and mistakes made by some state officials.
-
-Chinese company China Harbor Engineering Company and China's South Western Municipal Engineering and Research Institute are carrying out the construction of the Awagaal Garbage Warehouse.
-
-Minister Prasanna Ranatunga added that if there is a delay in providing solutions to the problems of contact with foreign investors, it will be affected at the national level among those countries.
-
-...
-
-[Data](articles/53f82a9d.json)
-
-[Extended Data](ext_articles/53f82a9d.ext.json)
 
 ---

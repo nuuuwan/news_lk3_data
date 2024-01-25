@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 16:48:56**
+As of **2024-01-25 17:02:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,584 (99.9%) of 2,587 articles have been extended.
+2,587 (100.0%) of 2,587 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Colombo, Jan. 25 (Daily Mirror)- The United States remains concerned over the po
 ◼️
 
 [Data](articles/3d862c6a.json)
+
+[Extended Data](ext_articles/3d862c6a.ext.json)
 
 ---
 
@@ -61,6 +63,8 @@ He emphasized the potential for Sri Lanka to become a global player in the confe
 ...
 
 [Data](articles/5b2e0fad.json)
+
+[Extended Data](ext_articles/5b2e0fad.ext.json)
 
 ---
 
@@ -243,6 +247,8 @@ Several Ministers and MPs visit the Ragama Hospital, where State Minister Sanath
 ◼️
 
 [Data](articles/8464aaa1.json)
+
+[Extended Data](ext_articles/8464aaa1.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 04:17:11**
+As of **2024-01-26 04:32:53**
 
 ## Newspaper Stats
 
-*Scraped **2,635** Articles*
+*Scraped **2,643** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 123
 newsfirstlk | 144
 islandlk | 147
 economynextcom | 153
-dailyftlk | 194
+dailyftlk | 202
 adaderanasinhalalk | 225
 adalk | 255
 virakesarilk | 286
@@ -26,11 +26,67 @@ dailymirrorlk | 356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,635 (100.0%) of 2,635 articles have been extended.
+2,635 (99.7%) of 2,643 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Sri Lanka’s financial crisis: Strategies for coping and thriving
+
+*2024-01-26 03:30:12* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-financial-crisis-Strategies-for-coping-and-thriving/4-757788) · `en`
+
+People struggle to make ends meet due to rising costs of living and high taxes
+
+Sri Lanka is currently facing a severe economic crisis, with many people struggling to make ends meet due to rising costs of living and high taxes. This is causing a strain on businesses, individuals, and senior citizens alike.
+
+Several factors have contributed to Sri Lanka’s economic woes, including:
+
+High levels of debt: The country’s foreign debt burden has ballooned in recent years, making it difficult to meet financial obligations.
+
+Rising inflation: The cost of essential goods and services has steadily increased, outpacing wage growth and eroding purchasing power.
+
+Currency depreciation: The Sri Lankan rupee has weakened significantly against major currencies, making imports more expensive.
+
+Reduced tourism: The COVID-19 pandemic dealt a severe blow to Sri Lanka’s vital tourism industry, a major source of foreign income.
+
+...
+
+[Data](articles/e761dbfd.json)
+
+---
+
+### Challenges in the forthcoming Presidential election
+
+*2024-01-26 03:17:16* · [`dailyftlk`](https://www.ft.lk/columns/Challenges-in-the-forthcoming-Presidential-election/4-757787) · `en`
+
+Unless there is a major political predicament, the Presidential elections will be held between September and October 2024. That is for what all political parties and formations are now getting ready.
+
+...
+
+[Data](articles/416ab1c4.json)
+
+---
+
+### US Ambassador expresses concern over OSB
+
+*2024-01-26 02:43:35* · [`dailyftlk`](https://www.ft.lk/news/US-Ambassador-expresses-concern-over-OSB/56-757774) · `en`
+
+Expresses dismay at legislation’s passage in Parliament by a majority vote
+
+Emphasises failure to incorporate important input from key stakeholders, including civil society and tech companies
+
+Claims overly restrictive legislation can hinder investment and development of a digital economy in SL
+
+US Ambassador to Sri Lanka Julie Chung took to X (formerly Twitter) yesterday to voice her concerns about the recently approved controversial Online Safety Bill and its potential impact.
+
+The US envoy in Colombo expressed dismay at the legislation’s passage in Parliament by a majority vote, emphasising the failure to incorporate important input from key stakeholders, including civil society and tech companies.
+
+...
+
+[Data](articles/cf66cd56.json)
+
+---
 
 ### Export zones across the country
 
@@ -49,6 +105,80 @@ Create new industries and new investment opportunities and provide employment op
 [Data](articles/4ff31b47.json)
 
 [Extended Data](ext_articles/4ff31b47.ext.json)
+
+---
+
+### SLPP mourns demise of Rajapaksa loyalist State Minister Sanath Nishantha
+
+*2024-01-26 02:40:42* · [`dailyftlk`](https://www.ft.lk/news/SLPP-mourns-demise-of-Rajapaksa-loyalist-State-MinisterSanath-Nishantha/56-757773) · `en`
+
+State Minister of Water Supply and Sri Lanka Podujana Peramuna Puttalam District MP Sanath Nishantha Perera died in a tragic road accident which took place on the Colombo-Katunayake Expressway in the early hours of yesterday. He was 48 at the time of his death and was a father of four. His Personal Security Officer (PSO) identified as Police Constable Jayakody was also killed in the accident.
+
+Sources indicate that the State Minister was en route to his residence in Colombo after attending a wedding in Chilaw when the vehicle he was travelling in collided with a container transportation truck heading in the same direction at around 1.55 a.m near the R-11 post in the Kandana Police area.
+
+...
+
+[Data](articles/9e05ab68.json)
+
+---
+
+### Cabinet green lights to enter into implementation agreement for Sustainable Consumption and Production Project
+
+*2024-01-26 02:40:25* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-green-lights-to-enter-into-implementation-agreement-for-Sustainable-Consumption-and-Production-Project/56-757772) · `en`
+
+The Cabinet of Ministers approved entering into an Implementation Agreement between the Environment Ministry and the German Development Corporation to advance sustainable practices.
+
+The agreement is a key step in obtaining technical assistance under the “Sustainable Consumption and Production Promotion Project.”
+
+The initiative aligns with the 7th Sustainable Development Goal identified by the United Nations, focusing on “Ensuring Sustainable Production and Consumption Patterns.” The project aims to promote sustainable public procurement practices following national policies. It is poised to pave the way for the effective implementation of environmentally conscious policies and practices, reinforcing Sri Lanka’s dedication to achieving sustainable development goals and contributing to global efforts for a more sustainable future.
+
+...
+
+[Data](articles/553a2c1f.json)
+
+---
+
+### UNDP and UN Global Compact Network Sri Lanka renew strategic collaboration
+
+*2024-01-26 02:35:09* · [`dailyftlk`](https://www.ft.lk/business/UNDP-and-UN-Global-Compact-Network-Sri-Lanka-renew-strategic-collaboration/34-757771) · `en`
+
+UN Global Compact Network Sri Lanka Executive Director Rathika de Silva, UN Global Compact Network Sri Lanka Chairman Dilhan Fernando, UNDP Sri Lanka Resident Representative and UN Global Compact Network Sri Lanka Board Representative Azusa Kubota, and UN in Sri Lanka Resident Coordinator Marc-André Franche
+
+In a move towards advancing sustainable development, the United Nations Development Programme in Sri Lanka (UNDP) and the UN Global Compact Network Sri Lanka (Network Sri Lanka) recently renewed their commitment through the signing of the third Memorandum of Understanding (MoU). The agreement aims to join efforts in facilitating private-sector participation and promoting sustainable development in Sri Lanka.
+
+...
+
+[Data](articles/4279ec09.json)
+
+---
+
+### People’s Bank and George Steuart Solutions join forces to promote solar energy in Sri Lanka
+
+*2024-01-26 02:21:52* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-and-George-Steuart-Solutions-join-forces-to-promote-solar-energy-in-Sri-Lanka/34-757770) · `en`
+
+In a strategic move towards sustainable energy solutions, People’s Bank and George Steuart Solutions Ltd. (GSS) entered into a Memorandum of Understanding (MoU) to collaborate on a pioneering initiative for solar solutions in Sri Lanka.
+
+This groundbreaking partnership aims to make solar energy more affordable to customers by offering a comprehensive package that combines financial support and incentives. People’s Bank, a leading commercial bank in Sri Lanka, will provide tailored loans for customers who are seeking to invest in solar systems. The financial patronage will enable the adoption of solar energy solutions by making them accessible to a broader segment of the public.
+
+...
+
+[Data](articles/36fea8ad.json)
+
+---
+
+### HPL’s Adhisham achieves highest-selling quantity of tea
+
+*2024-01-26 02:21:04* · [`dailyftlk`](https://www.ft.lk/business/HPL-s-Adhisham-achieves-highest-selling-quantity-of-tea/34-757769) · `en`
+
+Hatton Plantations (HPL) PLC’s Dick Oya aka Adhisham Estate has marked the highest volume sold by a factory among all regional plantation companies in 2023 under John Keells PLC by recording
+
+According to the statement issued by John Keells PLC, “This is the highest volume sold by a factory among all regional plantation companies and incidentally, this is the highest quantity sold by a rotorvane orthodox tea factory in western high elevation among regional plantation companies.” The G&G Group of companies, Hatton Plantations PLC, is one of the leading black Ceylon tea producers on the island. The company consisted of 13 tea estates located in the Hatton and Lindula (Thalawakele) regions.
+
+Chandika Fernando is the present manager of the Dickoya Estate & Tea Processing Centre and conducts its operations together with his staff under the direction and supervision of Hatton Plantations PLC Executive Director Menaka Athukorala, and other senior officials.
+
+◼️
+
+[Data](articles/0beb9f3e.json)
 
 ---
 
@@ -1893,159 +2023,5 @@ Ukraine, who said it was aimed at any aircraft coming to Pelocorot, but did not 
 [Data](articles/9203eccf.json)
 
 [Extended Data](ext_articles/9203eccf.ext.json)
-
----
-
-### 46 Indian fishermen apprehended within the last 24 days
-
-*2024-01-25 10:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/46-indian-fishermen-apprehended-within-the-last-24-days/) · `en`
-
-COLOMBO (News 1st);46 Indian fishermen have been apprehended for illegal fishing activities within the last 24 days of the year.
-
-Navy spokesperson Captain Gayan Wickramasuriya says that 8 Indian fishing boats have also been taken into custody.
-
-He added that the apprehended Indian fishermen have been handed over to the Fisheries Inspectors for onward legal action.
-
-Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
-
-Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
-
-Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
-
-◼️
-
-[Data](articles/2ef49caf.json)
-
-[Extended Data](ext_articles/2ef49caf.ext.json)
-
----
-
-### Special security will be implemented today
-
-*2024-01-25 10:32:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-விசேட-பாதுகாப்பு-அமுல்படுத்தப்படும்/175-332101) · `ta`
-
-The goodwill police have announced that a special security program is being implemented on today's Poya Day to ensure the safety of the pilgrims.
-
-Since the first Poya day of the year, the number of pilgrims on the pilgrimage has increased.Significantly, the use of private vehicles has declined significantly as most of them come through trains and public transport.
-
-◼️
-
-[Data](articles/048af6ec.json)
-
-[Extended Data](ext_articles/048af6ec.ext.json)
-
----
-
-### “The economic consequences of the Bill must be noticed”
-
-*2024-01-25 10:27:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சட்டமூலத்தின்-பொருளாதார-விளைவுகளை-கவனிக்க-வேண்டும்/175-332100) · `ta`
-
-United People's Power MP Harsha de Silva said yesterday that the government should consider the economic consequences of the Online Security Bill, though there is a need to regulate social media.
-
-"One must look at the consequences of the e-election. One must take part in the economy through e-commerce. These laws will prevent these opportunities."
-
-“You cannot consider service providers such as Homepage and YouTube as a person uploading an unnecessary post on social media,” he added.
-
-◼️
-
-[Data](articles/1a41e9b3.json)
-
-[Extended Data](ext_articles/1a41e9b3.ext.json)
-
----
-
-### Another young man in Jaffna
-
-*2024-01-25 10:13:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/அதீத-போதைப்பொருள்-பாவனையால்-யாழில்-மற்றுமொரு-இளைஞன்-மரணம்/71-332098) · `ta`
-
-A young man who consumed drugs died yesterday in Kalati area near Jaffna.
-
-The body of the deceased has been handed over to the Jaffna Bodhana Hospital for autopsy.
-
-It is noteworthy that a young man died of drug use in Chavakachcheri in the last few days.
-
-It is noteworthy that the two deaths have been carried out in Jaffna as a drug prevention measures are being carried out in Jaffna.R
-
-◼️
-
-[Data](articles/17d1632d.json)
-
-[Extended Data](ext_articles/17d1632d.ext.json)
-
----
-
-### 50 prisoners escaped in Kandagad
-
-*2024-01-25 10:11:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/கந்தகாட்டில்-50-கைதிகள்-தப்பியோட்டம்/94-332097) · `ta`
-
-Fifty prisoners fled on Wednesday night after a clash between prisoners at the Welikanda Kandagatu Rehabilitation Center.Welikanda police said that the police are searching for the search for them with the military.
-
-On Wednesday (24), the two were injured in a fight between two prisoners on Wednesday (24).
-
-In the meantime, the rehabilitation of the rehabilitated prisoners has been rebellious on the basis of regionalism like Matara, Galle and Hambantota.
-
-The police said that the fugitives were in hiding in the forest and the police had taken steps to raid the area with the army.
-
-Meanwhile, more than a thousand people who are addicted to alcohol have been rehabilitated and there are a number of reasons, including territorial fighting and food supplied among them, and there is a continuation of the safety fence and the safety fence continues to be broken out.
-
-◼️
-
-[Data](articles/e1b9772a.json)
-
-[Extended Data](ext_articles/e1b9772a.ext.json)
-
----
-
-### Russia, Ukraine trade blame after Russian military plane crash kills 74
-
-*2024-01-25 10:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96715/russia-ukraine-trade-blame-after-russian-military-plane-crash-kills-74) · `en`
-
-Russia accused Ukraine on Wednesday of deliberately shooting down a Russian military transport plane carrying 65 captured Ukrainian soldiers to a prisoner exchange in what it called a barbaric act of terrorism that had killed a total of 74 people.
-
-Ukraine called for full clarification of the circumstances of the incident and did not directly confirm it had shot down the plane.
-
-Ukrainian President Volodymyr Zelenskiy, in his evening address said: “It is clear that the Russians are playing with the lives of Ukrainian prisoners, the feelings of their loved ones and the emotions of our society.”
-
-The Russian defence ministry said six Russian crew members and three Russian soldiers had been on the Ilyushin Il-76 military transport plane shot down near the Russian city of Belgorod near the Ukrainian border.
-
-After a long pause, the Ukrainian military said it would continue to destroy Russian military transport aircraft it believed were carrying missiles with which to strike Ukraine.
-
-...
-
-[Data](articles/35718298.json)
-
-[Extended Data](ext_articles/35718298.ext.json)
-
----
-
-### New choice for the post of Sanath; change in seats
-
-*2024-01-25 10:05:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்தின்-பதவிக்கு-புதியவர்-தேர்வு-ஆசனங்களில்-மாற்றம்/175-332096) · `ta`
-
-The National Freedom Front will be appointed to the vacancy caused by the sudden death of Minister of State Sanath Nishantha this morning.
-
-Accordingly, Priyankara is the district leader of the National Freedom Front led by Wimal Weerawansa, and the government will lose a seat with other MPs representing his party.
-
-◼️
-
-[Data](articles/1432d5b2.json)
-
-[Extended Data](ext_articles/1432d5b2.ext.json)
-
----
-
-### Jagath Priyankara to the vacuum of the people
-
-*2024-01-25 10:05:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்தின்-வெற்றிடத்துக்கு-ஜகத்-பிரியங்கர/175-332096) · `ta`
-
-The National Freedom Front will be appointed to the vacancy caused by the sudden death of Minister of State Sanath Nishantha this morning.
-
-Accordingly, Priyankara is the district leader of the National Freedom Front led by Wimal Weerawansa, and the government will lose a seat with other MPs representing his party.
-
-◼️
-
-[Data](articles/b5d2f0f0.json)
-
-[Extended Data](ext_articles/b5d2f0f0.ext.json)
 
 ---

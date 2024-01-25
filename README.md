@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 18:34:55**
+As of **2024-01-25 18:51:59**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,598 (99.9%) of 2,600 articles have been extended.
+2,600 (100.0%) of 2,600 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### සනත් නිශාන්තගේ මරණය ගැන අපහාසාත්මක පෝස්ට් දාන අයව සොයයි
+### Sanath Nishantha looks for slanderous posts
 
 *2024-01-25 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192565) · `si`
 
-රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ මියයෑම පිළිබඳ සමාජ මාධ්‍ය ඔස්සේ අපහාසාත්මක ලෙස මත පළ කරන පුද්ගලයින් පිළිබඳ සොයාබැලීමක් සිදුකළ බව කෘෂිකර්ම අමාත්‍ය මහින්ද අමරවීර මහතා පැවසීය.
+Minister of Agriculture Mahinda Amaraweera said that he had conducted a discontent expressing a discernment of the death of Sanath Nishantha's death.
 
-ඔහු සඳහන් කළේ මරණයක් පිළිබඳ එවැනි ආකාරයේ මත පළ කිරීම් අනුමත කළ නොහැකි බවය.
+He referred to postings on death cannot be approved.
 
-"එතුමාගේ මරණය ගැන සමාජ මාධ්‍යවල ඉතාමත් නරක විදියට පළ කිරීම් සිදුකර තිබෙනවා. ඒකෙන් අපිට පැහැදිලි වුණා හැමදාම කමෙන්ට්ස් දාන්නේ කවුද කියලා. මේ වතාවේ සොයාබැලීමක් කළාම... ඒක පක්ෂයකට සම්බන්ධ කට්ටිය තමයි මෙහෙම දේවල් දාලා තියෙන්නේ. නැත්නම් දෙයියනේ මනුස්සයෙක් මැරුණාම මෙහෙම දේවල් කියන්න බැහැ. අපි සොයාබැලීමක් කළා.. ලැබුණු වාර්තා අනුව එක පක්ෂයකට සම්බන්ධ වෙච්ච කට්ටිය සහ ෆේක් එකවුන්ට්ස්. අපි සතුටු වෙනවා.. දැන් ඒවා හොයාගන්නත් පුළුවන් වෙයි. ඉස්සර නම් හොයා ගන්නත් අමාරුයි නේ."
+"His death has been published in social media's worst. It explained to us who would put the comment every day. When you look into this time,. It's the crowd of a party is the. Or the man's man cannot say:. We have been investigated.. According to reports received, one party connected to one party and Faq Either. We're happy.. It will be able to find them now. It's hard to sit before. "
 
 ◼️
 
 [Data](articles/311ea5b9.json)
+
+[Extended Data](ext_articles/311ea5b9.ext.json)
 
 ---
 

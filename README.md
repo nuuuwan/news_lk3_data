@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 22:50:25**
+As of **2024-01-25 23:02:34**
 
 ## Newspaper Stats
 
-*Scraped **2,624** Articles*
+*Scraped **2,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 144
 islandlk | 147
 economynextcom | 152
 dailyftlk | 194
-adaderanasinhalalk | 223
+adaderanasinhalalk | 225
 adalk | 255
 virakesarilk | 286
 adaderanalk | 329
@@ -26,11 +26,27 @@ dailymirrorlk | 353
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,624 (100.0%) of 2,624 articles have been extended.
+2,626 (100.0%) of 2,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### Father and son killed in an accident
+
+*2024-01-25 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192571) · `si`
+
+An army officer and his son were hospitalized after a motorcycle and his son killed in a lorry transporting at the Anamaduwa area.
+
+The deceased has been identified as a 38-year-old Army Special Forces Lt. and the 10-year-old son.
+
+◼️
+
+[Data](articles/6fcd0566.json)
+
+[Extended Data](ext_articles/6fcd0566.ext.json)
+
+---
 
 ### Group connected to certain political party posting insulting posts: Amaraweera
 
@@ -47,6 +63,26 @@ He told reporters that they observed those who circulate such insulting posts on
 [Data](articles/7623b926.json)
 
 [Extended Data](ext_articles/7623b926.ext.json)
+
+---
+
+### Sanath Nishantha's security officer who died of accident
+
+*2024-01-25 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192570) · `si`
+
+The security guard with Minister Sanath Nishantha is the security guard with Minister Sanath Nishantha when the accident occurred.
+
+He was a father of a resident of the Mahawa area and was in the back of the seat of the State Minister.
+
+State Minister Sanath Nishanti has been accidental at around 2 am today at around 2nd kilometer post on the Colombo-Katunayake Expressway.
+
+The jeep was on the back of the container after falling in front of Katunayake to Colombo.
+
+◼️
+
+[Data](articles/799c0f48.json)
+
+[Extended Data](ext_articles/799c0f48.ext.json)
 
 ---
 
@@ -2031,53 +2067,5 @@ The deceased has been identified as Welimada resident of Kataragama police stati
 [Data](articles/0def1229.json)
 
 [Extended Data](ext_articles/0def1229.ext.json)
-
----
-
-### 838 more suspects arrested under ‘Yukthiya’ operation
-
-*2024-01-25 08:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96714/838-more-suspects-arrested-under-yukthiya-operation) · `en`
-
-A total of 838 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.25) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Among the arrestees are 549 suspects who were taken into custody on narcotics-related charges and 289 others who were on the list of wanted criminal suspects.
-
-Detention orders have been secured against 5 drug suspects for further interrogations, and 10 drug addicts who were among the arrestees have been sent for rehabilitation.
-
-According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 211g of heroin, 78g of crystal methamphetamine (‘Ice’), 16.6kg of cannabis, 9,974 cannabis plants and 1,192 narcotic pills.
-
-◼️
-
-[Data](articles/35811508.json)
-
-[Extended Data](ext_articles/35811508.ext.json)
-
----
-
-### The three children have gone in the house of home
-
-*2024-01-25 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192542) · `si`
-
-Kuliyapitiya Police have arrested the mother and father who had been arrested in Sripada, claiming that the three children who were eight and five-year-old had to offer a vow to the house.
-
-Officials who went to the house inspection of the police emergency number
-
-Later, the three children were able to be confirmed in that home.
-
-The officials were revealed that the three children were already suffering from fever.
-
-Therefore, the police have taken steps to hospital with the three children expeded.
-
-The couple was brought to the house, such as bread and biscuits to the residence
-
-Parents who had come to the pilgrimage were arrested immediately and the mother of their children was detained for the safety of their children.
-
-Kuliyapitiya Police say that the father and mother of the suspect is due to be produced in court.
-
-◼️
-
-[Data](articles/bdf5dcfc.json)
-
-[Extended Data](ext_articles/bdf5dcfc.ext.json)
 
 ---

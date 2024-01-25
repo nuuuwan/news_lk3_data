@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 09:02:26**
+As of **2024-01-25 09:17:21**
 
 ## Newspaper Stats
 
-*Scraped **2,516** Articles*
+*Scraped **2,518** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 137
 islandlk | 145
 economynextcom | 151
 dailyftlk | 194
-adaderanasinhalalk | 198
+adaderanasinhalalk | 200
 adalk | 244
 virakesarilk | 277
 adaderanalk | 313
@@ -26,11 +26,49 @@ dailymirrorlk | 335
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,510 (99.8%) of 2,516 articles have been extended.
+2,516 (99.9%) of 2,518 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### සරණාගත මධ්‍යස්ථානයකට මාරක ෂෙල් වෙඩි ප්‍රහාරයක්
+
+*2024-01-25 08:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192544) · `si`
+
+දකුණු ගාසා තීරයේ එක්සත් ජාතීන්ගේ සංවිධානය විසින් පවත්වාගෙන යනු ලබන සරණාගත මධ්‍යස්ථානයකට එල්ල වූ ප්‍රහාරයකින් පුද්ගලයින් නව දෙනෙකු ජීවිතක්ෂයට පත් ව තිබේ.
+
+එහි දී තවත් පුද්ගලයින් 75 දෙනෙකු තුවාල ලබා රෝහල්ගත කර ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+කෙසේ වෙතත් අදාළ ප්‍රහාරය තම හමුදා විසින් සිදු කර නොමැති බව ඊශ්‍රායලය පවසයි.
+
+◼️
+
+[Data](articles/073f4b17.json)
+
+---
+
+### ජීවිත බිලිගත් මාරක අනතුරු කිහිපයක්
+
+*2024-01-25 08:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192543) · `si`
+
+දිවයිනේ ප්‍රදේශ කිහිපයක සිදුවු රිය අනතුරුවලින් ජීවිත රැසක් අහිමි වී ඇතැයි පොලීසිය පවසයි.
+
+ඊයේ (24) උදෑසන තිස්ස - මාතර මාර්ගයේ මැදඑළිය ප්‍රදේශයේ දී රන්න දෙස සිට හුංගම දෙසට ධාවනය වූ වෑන් රථයක් ප්‍රතිවිරුද්ධ දෙසින් පැමිණි ලොරියක ගැටී අනතුරක් සිදුව තිබිණි.
+
+අනතුරින් වෑන් රථයේ රියදුරු ජීවිතක්ෂයට පත්වූ අතර එහි ගමන් ගත් අවුරුදු 12ත් 71ත් අතර වයස්වල පසුවන 7 දෙනෙකු බරපතළ තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+අනතුරින් ලොරි රථ රියදුරුද තුවාල ලබා හම්බන්තොට රෝහලට ඇතුළත් කර ඇත.
+
+මේ අතර කොළොන්න පොලිස් වසමේ පනාමුර කළුපොත්දෙණිය මාර්ගයේ දොරපනේ ප්‍රදේශයේ දී මොරවාඩිය දෙස සිට දොරපනේ දෙසට ධාවනය වූ ත්‍රීරෝද රථයක් මාර්ගයේ බෑවුම් ප්‍රදේශයක දී රියදුරුට පාලනය කරගත නොහැකිව මාර්ගයේ වම්පසට පෙරළී ගොස් අනතුරක් සිදුව ඇත.
+
+අනතුරින් ත්‍රීරෝද රථයේ පිටුපස ගමන් කළ කාන්තාවක් ජීවිතක්ෂයට පත්ව ඇති අතර, ඇයගේ ස්වාමිපුරුෂයා සුළු තුවාල ලබා තිබේ.
+
+...
+
+[Data](articles/8bad562f.json)
+
+---
 
 ### 838 more suspects arrested under ‘Yukthiya’ operation
 
@@ -230,21 +268,23 @@ The National Organizer Jayathilaka Ranasinghe said that the government's attenti
 
 ---
 
-### விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த பலி
+### State Minister Sanath Nishantha killed in accident
 
 *2024-01-25 07:03:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விபத்தில்-இராஜாங்க-அமைச்சர்-சனத்-நிஷாந்த-பலி/175-332094) · `ta`
 
-கட்டுநாயக்க அதிவேக நெடுஞ்சாலையில் இடம்பெற்ற வாகன விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த உயிரிழந்துள்ளார்.
+State Minister Sanath Nishantha has died in a vehicle accident on the Katunayake Highway.
 
-கட்டுநாயக்க பகுதியிலிருந்து கொழும்பு நோக்கி இராஜாங்க அமைச்சர் பயணித்த வாகனம், அதே திசையில் பயணித்த லொறி ஒன்றின் பின்புறத்தில் மோதுண்டு விபத்துக்குள்ளானதாக பொலிஸார் தெரிவிக்கின்றனர்.
+Police say the vehicle traveling from Katunayake to Colombo crashed into the back of a lorry that was traveling in the same direction.
 
-இந்த விபத்தில் காயமடைந்த இராஜாங்க அமைச்சர் உள்ளிட்ட சிலர் ராகமை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Some people, including the Minister of State, who were injured in the accident, have been admitted to the Ragama Hospital.
 
-இந்த நிலையில், இராஜாங்க அமைச்சர் மற்றும் பாதுகாப்பு பொலிஸ் அதிகாரி ஆகியோர் உயிரிழந்துள்ளனர். இந்த விபத்து தொடர்பில் பொலிஸார் விசாரணைகளை ஆரம்பித்துள்ளனர்
+In this case, the State Minister and the Security Police Officer have died. Police have begun investigations into the accident
 
 ◼️
 
 [Data](articles/e101ad92.json)
+
+[Extended Data](ext_articles/e101ad92.ext.json)
 
 ---
 
@@ -376,19 +416,21 @@ This incident comes on the heels of a clash that took place between two groups o
 
 ---
 
-### රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මරුට
+### State Minister Sanath Nishantha killed in a car accident
 
 *2024-01-25 06:43:40* · [`adalk`](https://www.ada.lk/breaking_news/රිය-අනතුරකින්-රාජ්‍ය-අමාත්‍ය-සනත්-නිශාන්ත-මරුට/11-407720) · `si`
 
-පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්ත්‍රී හා රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා කටුනායක කොළඹ අධිවේගී මාර්ගයේ දී සිදු වූ රිය අනතුරකින් මියගොස් ඇතැයි රාගම රෝහල් ප්‍රකාශකයෙක් පැවැසීය.
+A spokesman said that Puttalam District Parliamentary and State Minister Sanath Nishantha has died of an accident on Colombo Expressway, a Ragama Hospital.
 
-රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා ගමන් ගත් මෝටර් රථය කන්ටේනරයකට ඉස්සර කිරීමට යාමේදි මෝටර් රථයේ වම් පැත්ත එහි ගැටීමෙන් මෙම අනතුර සිදුව ඇති අතර එහිදී අමාත්‍යවරයා සහ ඔහුගේ ආරක්ෂකයා බරපතල තුවාල ලබා රාගම රෝහලට රැගෙන ගොස් ඇත. ඒ වන විට රාජ්‍ය අමාත්‍යවරයා සහ ආරක්ෂකය මියගොස් සිටි බව වාර්තා වේ.
+The minister was taken to the Ragama hospital and his bodyguard was taken to Ragama Hospital. The public minister and the security person has been killed.
 
-අද අලුයම 1.00 පමණ මෙම අනතුර සිදුව තිබේ. අනතුරත් සමග රාජ්‍ය අමාත්‍යවරයා සහ තුවලකුරුවන් රාගම රෝහලට ඇතුළත් කර ඇතැයි පොලිසිය කියයි.
+The accident occurred around 1.00 am this morning. The State Minister and the Breasury have been admitted to the Ragama Hospital with the accident.
 
 ◼️
 
 [Data](articles/5d7e6e03.json)
+
+[Extended Data](ext_articles/5d7e6e03.ext.json)
 
 ---
 
@@ -524,35 +566,39 @@ On the other hand, the unethical companies and individuals, often dealing in cas
 
 ---
 
-### போதை மருந்து ஏற்றிய இளைஞர் உயிரிழப்பு
+### Drug dried
 
 *2024-01-25 02:40:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/போதை-மருந்து-ஏற்றிய-இளைஞர்-உயிரிழப்பு/175-332093) · `ta`
 
-யாழ்ப்பாணம், ஓட்டுமடம் பகுதியைச் சேர்ந்த இளைஞர் ஒருவர் அதிகளவு போதை மருந்தை ஊசி மூலம் ஏற்றியதால்  உயிரிழந்துள்ளார்.
+A youth from Otumadam, Jaffna, has died of a large number of drug injections.
 
-ஓட்டுமடம் பகுதியில் நேற்று முன்தினம் திடீரென உயிரிழந்த 26 வயது இளைஞரின் மரணத்தில் ஏதும் மர்மம் உள்ளதா எனக் கண்டறிய நேற்று உடற்கூறு ஆய்வு நடத்தப்பட்டது. இதன்போது ஊசி மூலம் அதிகளவு போதை மருந்து ஏற்றியமையே இளைஞரின் மரணத்துக்குக் காரணம் எனக் கண்டறியப்பட்டது.
+An anatomical study was conducted yesterday to find out if there was any mystery in the death of a 26 -year -old youth who was suddenly killed in the Ootumadam area yesterday.. It was attributed to the death of the young man to be the cause of the injection of the drug.
 
-இதேவேளை, உயிரிழந்த இளைஞரின் உடலில் போதை ஊசி மருந்து ஏற்றிய அடையாளமும் காணப்படுகின்றது. (a)
+Meanwhile, the body of the deceased is also found in the body of drugs. (A)
 
 ◼️
 
 [Data](articles/db2578b8.json)
 
+[Extended Data](ext_articles/db2578b8.ext.json)
+
 ---
 
-### கணக்காய்வாளர் திணைக்களத்தில் பதவி வெற்றிடம்
+### Vacuum in the Auditor's Department
 
 *2024-01-25 02:33:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணக்காய்வாளர்-திணைக்களத்தில்-பதவி-வெற்றிடம்/175-332092) · `ta`
 
-கணக்காய்வு அதிகாரிகளுக்கான சுமார் 400 பதவி வெற்றிடங்கள் காணப்படுகின்றன என  கணக்காய்வாளர் திணைக்களம் தெரிவித்துள்ளது.
+About 400 vacancies for the Audit Officers are found, the Auditor's Department said.
 
-இதன் காரணமாக கணக்காய்வு நடவடிக்கைகளை அதிகபட்ச முகாமைத்துவத்துடன் மேற்கொள்ள வேண்டியுள்ளதாக, கணக்காய்வாளர் நாயகம் டபிள்யூ.பி.சி. விக்ரமரத்ன குறிப்பிட்டுள்ளார்.
+Due to this, the Auditor General has to carry out the accounting process with maximum management.. Vikramaratne mentioned.
 
-கணக்காய்வு அதிகாரி பதவிக்கு பொருத்தமானவர்களை இணைத்துக்கொள்ளும் நடவடிக்கை விரைவில் மேற்கொள்ளப்படும் எனவும் அவர் தெரிவித்துள்ளார். (a)
+He said that action will be taken to recruit those appropriate for the post of audit officer.. (A)
 
 ◼️
 
 [Data](articles/3b4c97ab.json)
+
+[Extended Data](ext_articles/3b4c97ab.ext.json)
 
 ---
 
@@ -968,25 +1014,35 @@ The visiting monks were warmly welcomed by the Pa Thein Monastery in Yangon. Dur
 
 ---
 
-### රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත රිය අනතුරකින් ජීවිතක්ෂයට
+### State Minister Sanath Nishantha killed in accident
 
 *2024-01-24 23:57:03* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckkvzyy4yg9o) · `si`
 
-ජල සම්පාදන රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත අද (ජනවාරි මස 25 වෙනිදා) කටුනායක - කොළඹ  අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් ජීවිතක්ෂයට පත්ව තිබේ.
+State Minister of Water Supply, Sanath Nishantha has died in an accident on the Katunayake-Colombo expressway today (Jan. 25).
 
-පොලිස් මාධ්‍ය කොට්ඨාසය බීබීසී සිංහල සේවයට පැවසුවේ රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත ගමන් කරමින් තිබු ජීප් රථය අධිවේගී මාර්ගයේ කඳාන පොලිස් බල ප්‍රදේශයේ 11.1 සැතපුම් කණුව අසලදී කන්ටේනර් රථයක ගැටීමෙන් අනතුරක් සිදුව ඇති බවයි.
+The Police Media Division told the BBC Sinhala service.
 
-කන්ටේනර් රථයේ පසුපස ගැටීමෙන් අනතුරුව රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත  ගමන් කරමින් තිබු මෝටර් රථය අධිවේගී මාර්ගයේ ආරක්‍ෂිත වැටේහි ද ගැටී තිබෙන බව  පොලිස් මාධ්‍ය කොට්ඨාසය ප්‍රකාශ කළේය.
+After the rear of the container, State Minister Sanath Nishantha has collided with the safe fence on the Expressway.
 
-අනතුරින් එම රථයේ ගමන් කරමින් සිටි සනත් නිශාන්ත රාජ්‍ය අමාත්‍යවරයා, එතුමාගේ ආරක්ෂක නිලධාරියෙක් ලෙස කටයුතු කළ පොලිස් කොස්තාපල්වරයෙක් සහ රථයේ රියැදුරු තුවාල ලබා රාගම රෝහලට ඇතුලත් කර ඇත.
+Sanath Nishantha, a police constable and injured in the accident, was admitted to the Ragama Hospital with a police constable and injuries in the accident.
 
-රෝහල් ගත කිරීමෙන් අනතුරුව රාජ්‍ය අමාත්‍යවරයා සහ පොලිස් කොස්තාපල්වරයා ජිවිතක්ෂයට පත්ව තිබෙන බව පොලිසිය පැවසීය.
+The State Minister and the Police Constable have been killed after hospitalization.
 
-රාගම රෝහලේ අධ්‍යක්ෂක ලියනගේ රණවීර බීබීසී සිංහල සේවයට පැවසුවේ රෝහල් ගත කරන විටත් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත රිය අනතුරෙන් ලද තුවාල හේතුවෙන් ජිවිතක්ෂයට පත්ව සිටි බවයි.
+The Director of the Ragama Hospital told BBC to Sinhala and said that Minister of State Sanath Nishantha was killed in injuries.
 
-...
+The Sri Lankan who has won the world from the glory of education
+
+Diagno Garcia: United Nations says British island is not suitable for human habitation with Sri Lankan refugees
+
+The Bill of Online Methods is passed;What happened to date?
+
+Sanath Nishantha reserves to be remanded, Wimal warrant to update: March 19, 2018
+
+◼️
 
 [Data](articles/a8d728c6.json)
+
+[Extended Data](ext_articles/a8d728c6.ext.json)
 
 ---
 
@@ -1722,19 +1778,23 @@ Rotary International President Garden R. These were handed over to the Senior Of
 
 ---
 
-### 2023 මාස 9ට වැට් ආදායම රු.බි. 505කින් ඉහළට
+### 2023 VAT income for 9 months is Rs. Up by 505
 
 *2024-01-24 19:31:16* · [`adalk`](https://www.ada.lk/breaking_news/2023-මාස-9ට-වැට්-ආදායම-රු-බි--505කින්-ඉහළට/11-407716) · `si`
 
-එකතු කරන ලද අගය මත පනවනු ලැබූ බදු අනුපාතය වැට් වැඩි කිරීම නිසා 2023 වර්ෂයේ පළමු මාස 09 තුළ දී එම බද්දෙන් ලැබූ රාජ්‍ය ආදායම රුපියල් බිලියන 505 දක්වා 62.6% කින් ඉහළ ගොස් ඇති බැව් මුදල් අමාත්‍යාංශය විසින් විගණනයට නිකුත් කොට ඇති රාජ්‍ය මූල්‍ය කළමනාකරණ වාර්තාවේ සඳහන්වේ.
+The Ministry of Finance Responsibility stated in the first nine months of Rs.
 
-මෙය 2023 වර්ෂය සඳහා ඇස්තමේන්තු කළ එකතු කළ අගය මත බදු ආදායමෙන් 55%ක්  බව ද මෙම වාර්තාවේ සඳහන් වේ. 2023 වර්ෂයේ මුල් මාස 09 තුළ දී දේශීය ආර්ථික ක්‍රියාකාරකම්වලින් ලද එකතු කළ අගය මත  බදු ආදායම රුපියල් බිලියන 351.6 දක්වා 81.4% කින් වැඩි වී ඇත.
+This report also states that this is 55% of the total tax revenue for the year 2023. The value added from local economic activities in the first nine months of 2023, tax revenues increased by 81.4% to Rs 35.6 billion.
 
-ආනයනය මගින් ලද එකතු කළ අගය මත බදු ආදායම මෙම කාල සීමාව තුළ රුපියල් බිලියන 153.04 දක්වා 31.5% කින් වැඩි වී ඇති බව ද මෙම වාර්තාවේ සඳහන් වේ.2022 වර්ෂයේ ජූලි මස 01 වැනි දින සිට බල පැවැත්වෙන පරිදි එකතු කළ අගය මත බදු අනුපාතය 8% සිට 12% දක්වා වැඩි කරනු ලැබීය. නැවත වතාවක් 2022 වර්ෂයේ සැප්තැම්බර් මස 01 වැනි දින සිට බලපැවැත්වෙන පරිදි 15% කින් වැඩි කරනු ලැබීය.
+The value added to Rs.Increased to 12%. Once again, 15% increased by 15% to the effect on 1st September.
 
-...
+VAT rate has been increased to 18% from 1st January 2024. VAT Tax has increased by 50%, the Ministry of Finance has increased by 50%.
+
+◼️
 
 [Data](articles/249f0f7c.json)
+
+[Extended Data](ext_articles/249f0f7c.ext.json)
 
 ---
 
@@ -1951,39 +2011,5 @@ Initially there were three contenders in the fray for the ITAK Presidency. The t
 [Data](articles/d76517fd.json)
 
 [Extended Data](ext_articles/d76517fd.ext.json)
-
----
-
-### Before final procession...
-
-*2024-01-24 18:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Before-final-procession/110-275661) · `en`
-
-An elephant bathing at the pond in front of the historic Kelaniya Rajamaha Viharaya before the beginning of the final procession. A procession known as “the Duruthu Perahera” is held on the pre-full moon poya day of the month of Duruthu (January) every year at the historic Kelaniya temple. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/91d4c312.json)
-
-[Extended Data](ext_articles/91d4c312.ext.json)
-
----
-
-### Shantan - Kidney Liver Damage - Prisoners Rights Organization letter letter
-
-*2024-01-24 18:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174731) · `ta`
-
-The Prisoners Rights Center said that Shantan's health has been severely affected by the amnesty after several years after the murder of former Prime Minister Rajiv Gandhi in Rajiv Gandhi.
-
-The Prison Rights Center has written to the Chief Minister of Tamil Nadu that he should be treated at the Chennai Multipurpose Specialty Hospital.
-
-Rajiv Gandhi's murder case is waiting for Santhan, who is currently released in Sri Lanka.
-
-The prison center has requested that he be saved because he is fighting for life, but he has not been given proper treatment for two months.
-
-◼️
-
-[Data](articles/6e87b1b5.json)
-
-[Extended Data](ext_articles/6e87b1b5.ext.json)
 
 ---

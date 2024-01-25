@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 03:50:03**
+As of **2024-01-26 04:02:25**
 
 ## Newspaper Stats
 
-*Scraped **2,633** Articles*
+*Scraped **2,635** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 35
+colombotelegraphcom | 37
 bbccomsinhala | 50
 dbsjeyarajcom | 123
 newsfirstlk | 144
@@ -26,7 +26,7 @@ dailymirrorlk | 356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,633 (100.0%) of 2,633 articles have been extended.
+2,633 (99.9%) of 2,635 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -164,6 +164,20 @@ The Commission wishes to consult the stakeholders as required under Section 30(3
 
 ---
 
+### Navigating The Challenges Of Escalating Vegetable Prices In Sri Lanka: A Call For Sustainable Solutions
+
+*2024-01-25 22:01:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/navigating-the-challenges-of-escalating-vegetable-prices-in-sri-lanka-a-call-for-sustainable-solutions/) · `en`
+
+Sri Lanka is currently grappling with a significant challenge – the escalating prices of vegetables. This surge in food prices has a direct impact on households, affecting their ability to afford essential and nutritious foods. In this article, we will explore the reasons behind the rising vegetable prices in Sri Lanka, discuss their implications for households, and propose measures to mitigate the impact.
+
+Several factors contribute to the escalating vegetable prices in Sri Lanka. Climate change-induced weather patterns, fluctuating global commodity prices, and disruptions in the supply chain are some of the key contributors. Additionally, increased production costs, inadequate infrastructure, and inefficiencies in distribution channels have further exacerbated the situation.
+
+...
+
+[Data](articles/571af48a.json)
+
+---
+
 ### Group connected to certain political party posting insulting posts: Amaraweera
 
 *2024-01-25 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Group-connected-to-certain-political-party-posting-insulting-posts-Amaraweera/108-275720) · `en`
@@ -199,6 +213,20 @@ The jeep was on the back of the container after falling in front of Katunayake t
 [Data](articles/799c0f48.json)
 
 [Extended Data](ext_articles/799c0f48.ext.json)
+
+---
+
+### Meet The Brothers Size In A Local Backyard
+
+*2024-01-25 21:38:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/meet-the-brothers-size-in-a-local-backyard/) · `en`
+
+The Sinhala language production of The Brothers Size, premiered in December 2023, in a Kumbukgahaduwa backyard. Directed by Prasanna Mahagamage, it was enacted by Hiran Abeysekera, Danushka Dias, and Chamara Gamaathige.
+
+This Sinhala production was one-of-a-kind, in multiple ways. It was a collective translation from English to Sinhala by the director and actors. The open theatre space called LOVEARTLOVE was an unconventional, unknown, residential space, away from the city centre and other familiar theatre locations. The play itself had an ambiguous English title transliterated in Sinhala. The e-flyer announcing the play, displaying an architectural drawing, announced irregular seating, and possibly standing spaces for the audience. A mysterious charm, amidst risk-taking. Was the focus more on entertainment, and coming together with ‘sexy theatre lovers’, and ‘BYOB… clinking glasses’ later, than a theatre enactment?
+
+...
+
+[Data](articles/676bd257.json)
 
 ---
 
@@ -2015,41 +2043,5 @@ Accordingly, Priyankara is the district leader of the National Freedom Front led
 [Data](articles/b5d2f0f0.json)
 
 [Extended Data](ext_articles/b5d2f0f0.ext.json)
-
----
-
-### Special security programme today to ensure safety of Sri Pada pilgrims
-
-*2024-01-25 09:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-security-programme-today-to-ensure-safety-of-Sri-Pada-pilgrims/108-275703) · `en`
-
-Nallathanniya, Jan 25 (Daily Mirror) - Nallathanniya police announced the implementation of a special security programme on Poya Day today to ensure the safety of Sri Pada pilgrims, the police said.
-
-Being the first poya day of the year, there is an increase in the number of pilgrims to Sri Pada. The majority of them arrive by trains and public transport to Sri Pada and there has been a significant decrease in the use of private vehicles.
-
-◼️
-
-[Data](articles/6a4ac7eb.json)
-
-[Extended Data](ext_articles/6a4ac7eb.ext.json)
-
----
-
-### Recovery of powerful shells in Batticaloa
-
-*2024-01-25 09:53:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/மட்டக்களப்பில்-சக்தி-வாய்ந்த-குண்டுகள்-மீட்பு/73-332095) · `ta`
-
-Kaluwanchikudi police said that two powerful motor bombs have been recovered from the bottom of the Pattupuram Bridge belonging to the Mattagalappu - Kaluwanchikudi police division.
-
-The two bombs were caught in the trap of a fisherman who had been fishing in the Pattupi area of Batticaloa yesterday.
-
-Police rushed to the scene and recovered two bombs.Police said the bombs were to deactivate with the bomb -free section receiving a court order.
-
-During the war. Remble
-
-◼️
-
-[Data](articles/a3958d96.json)
-
-[Extended Data](ext_articles/a3958d96.ext.json)
 
 ---

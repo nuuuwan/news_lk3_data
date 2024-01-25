@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 17:33:52**
+As of **2024-01-25 17:53:38**
 
 ## Newspaper Stats
 
-*Scraped **2,588** Articles*
+*Scraped **2,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 143
 islandlk | 146
 economynextcom | 152
 dailyftlk | 194
-adaderanasinhalalk | 214
-adalk | 250
+adaderanasinhalalk | 215
+adalk | 251
 virakesarilk | 282
 adaderanalk | 322
 tamilmirrorlk | 330
@@ -26,23 +26,47 @@ dailymirrorlk | 348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,587 (100.0%) of 2,588 articles have been extended.
+2,590 (100.0%) of 2,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### சனத் நிஷாந்தவின் வீட்டுக்குச் சென்றார் ஜனாதிபதி...
+### Solutions to the issues of principals
+
+*2024-01-25 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192561) · `si`
+
+The Minister has received the report of the Committee appointed by Education Dr. Susil Premajayantha.
+
+That is the report to solve the issues of the Principal in the ministry and promote the professionalism of the service and to develop the education reforms.
+
+The report has submitted the recommendations and the relevant recommendations through six main points.
+
+The Principal's Service is the role of implementing the National Policy and the National Policy of Principal as a recognized professional and the preparation of the service minutes and the procedure of the future.Includes.
+
+The Principals of the Principal, Deputy Principal, II, II, II, II, II, II and Sub Principals, II and Sub Principals' Service Highlights and System Highlights have been recommended by the services industry and the new schools.
+
+...
+
+[Data](articles/19032220.json)
+
+[Extended Data](ext_articles/19032220.ext.json)
+
+---
+
+### The President went to Sanath Nishantha's house ...
 
 *2024-01-25 16:54:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-வீட்டுக்குச்-சென்றார்-ஜனாதிபதி/175-332107) · `ta`
 
-இராஜாங்க அமைச்சர் சனத் நிஷாந்த விபத்தில் உயிரிழந்த நிலையில் ஜனாதிபதி ரணில் விக்ரமசிங்க அவரது வீட்டுக்கு நேரில் சென்றுள்ளார்.
+President Ranil Wickremesinghe has visited his home after the death of diplomatic minister Sanath Nishantha.
 
-இதேவேளை, இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் பூதவுடலை பார்வையிட முன்னாள் ஜனாதிபதி மகிந்த ராஜபக்ஷ உள்ளிட்ட பலரும் சென்றுள்ளமை குறிப்பிடத்தக்கது. R
+Meanwhile, former President Mahinda Rajapaksa has visited many others to visit the Buddhist Minister of State Sanath Nishantha.. Remble
 
 ◼️
 
 [Data](articles/b34a1534.json)
+
+[Extended Data](ext_articles/b34a1534.ext.json)
 
 ---
 
@@ -263,6 +287,34 @@ Several Ministers and MPs visit the Ragama Hospital, where State Minister Sanath
 [Data](articles/8464aaa1.json)
 
 [Extended Data](ext_articles/8464aaa1.ext.json)
+
+---
+
+### Shot at a temple on the day of Poya Day
+
+*2024-01-25 15:10:43* · [`adalk`](https://www.ada.lk/breaking_news/පොහෝ-දිනයේදී-විහාරස්ථානයකට-වෙඩි-ප්‍රහාරයක්/11-407725) · `si`
+
+Dodamgaslanda Uttivarama Ancient Temple has been shot dead today (25) morning.
+
+The Viharadhipathi Panthankithi Thera, Despite the shooting of the house in the house of the house of the workplace, had been shot dead in a nearby lodge, the police said.
+
+According to police investigations, the shooting was carried out with a ripe of a bullets in the shot.
+
+It is reported that the monks have lodged a complaint with the Maduragoda police that he had been threatened with the deaths between the temple and the Chief Incumbent of the temple.
+
+The shooting has been carried out tomorrow (26).
+
+Pannuni Thera has targeted the bowl and threatened the window and the delegation was shot across the window.
+
+The man who was threatened with the death of the death of the incident regarding the incident.
+
+Maduragoda Police Inspector Weeraratne Bandara and other officials are conducting further investigations.
+
+◼️
+
+[Data](articles/d484d448.json)
+
+[Extended Data](ext_articles/d484d448.ext.json)
 
 ---
 
@@ -2051,47 +2103,5 @@ Meanwhile, Speaker Mahinda Yapa Abeywardena announced on Wednesday (24) that 18 
 [Data](articles/ce7a0712.json)
 
 [Extended Data](ext_articles/ce7a0712.ext.json)
-
----
-
-### Colombo Port sees modest recovery in container throughput despite global uncertainties
-
-*2024-01-25 01:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Colombo-Port-sees-modest-recovery-in-container-throughput-despite-global-uncertainties/108-275691) · `en`
-
-Container throughput at Port of Colombo expanded by 1.3% YoY
-
-The container throughput at the Port of Colombo experienced a modest recovery in 2023, rebounding from the effects of the economic crisis and political and social unrest of the preceding year.
-
-Notably, there was a substantial increase in transshipment container volumes in December, attributed to the advantages gained from the Red Sea crisis, as indicated by the data from the Sri Lanka’s Port Authority (SLPA).
-
-The container throughput at the Port of Colombo expanded by 1.3 percent year-on-year (YoY) to 6.949 million TEUs in 2023, indicating a return of confidence in the country by the main lines.
-
-The transshipment volumes handled by the port rose by 2.1 percent YoY to 5.75 million TEUs, while the transshipment volumes accounted for 83 percent of the port’s container throughput during the period.
-
-...
-
-[Data](articles/c3943156.json)
-
-[Extended Data](ext_articles/c3943156.ext.json)
-
----
-
-### Considering the aspirations of the people, "Get Retain"
-
-*2024-01-25 01:36:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்களின்-அபிலாஷைகளை-கருதி-வாபஸ்-பெறவும்/175-332085) · `ta`
-
-United People's Power Leader and Opposition Leader Sajith Premadasa said that the bill should be immediately withdrawn with the individual aspirations of 225 members in Parliament and the general aspirations of 220 million people.
-
-Sajith Premadasa said this while addressing the meeting on Wednesday (24).
-
-Although the legislation in the legislative sector must take place in the most intelligent, the Bill on the Backup Bill has not happened.. The Bill has been used by ministers for disturbing the names of individual individuals and to meet personal needs.. The opposition leader said that the aspirations of 220 million people will not be fulfilled.
-
-Instead of creating laws on the basis of the common aspirations of 220 million people, the Parliamentary Supervisory Committee and the Parliamentary Supervisory Committee did not fulfill its duty in the bill if the law was enacted to reach the individual aspirations of 225 persons in Parliament.
-
-...
-
-[Data](articles/b5801bfc.json)
-
-[Extended Data](ext_articles/b5801bfc.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 18:10:45**
+As of **2024-01-25 18:22:45**
 
 ## Newspaper Stats
 
-*Scraped **2,594** Articles*
+*Scraped **2,598** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 35
-bbccomsinhala | 49
+bbccomsinhala | 50
 dbsjeyarajcom | 123
 newsfirstlk | 143
 islandlk | 147
@@ -17,8 +17,8 @@ economynextcom | 152
 dailyftlk | 194
 adaderanasinhalalk | 217
 adalk | 252
-virakesarilk | 282
-adaderanalk | 322
+virakesarilk | 284
+adaderanalk | 323
 tamilmirrorlk | 330
 dailymirrorlk | 348
 
@@ -26,65 +26,119 @@ dailymirrorlk | 348
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,590 (99.8%) of 2,594 articles have been extended.
+2,594 (99.8%) of 2,598 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### මුහුදේ ගිලී පුද්ගලයෙක් මරුට - තවත් අයෙක් අතුරුදන්
+### சனத் நிஷாந்தவின் இல்லத்திற்குச் சென்று இரங்கல் தெரிவித்தார் ஜனாதிபதி
+
+*2024-01-25 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174797) · `ta`
+
+வாகன விபத்தில் உயிர் நீத்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் இல்லத்திற்கு வியாழக்கிழமை (25) காலை சென்றிருந்த ஜனாதிபதி ரணில் விக்ரமசிங்க அவரது குடும்பத்தாருக்கு ஆறுதல் கூறினார்.
+
+இராஜாங்க அமைச்சரின் திடீர் மரணத்தையிட்டு அவரது குடும்ப உறுப்பினர்களிடம் ஜனாதிபதி இரங்கல் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/24bcc45b.json)
+
+---
+
+### கடுவெல கடலில் குளிக்கச் சென்ற ஒருவர் உயிரிழப்பு : மற்றையவர் மாயம் !
+
+*2024-01-25 17:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/174796) · `ta`
+
+ஹம்பாந்தோட்டை , கடுவெல கடலில் குளிக்கச்சென்ற இருவரில் ஒருவர் உயிரிழந்துள்ளதுடன் மற்றையவர் காணாமல் போயுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இவ்வாறு கடலில் குளிக்கச்சென்றவரில் 35 வயதான ஆணின் சடலம் மீட்கப்பட்டுள்ளதாகவும் 25 வயதுடைய ஆண்  காணாமல்போயுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/5c870fe1.json)
+
+---
+
+### Man drowns in sea - another disappeared
 
 *2024-01-25 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192563) · `si`
 
-කුඩාවැල්ල මෝදරවත්ත මුහුදේ දියනෑමට ගිය පුද්ගලයින් තිදෙනෙකු අද (25) දහවල් 2.30ට පමණ රළ පහරට හසුවී ගසාගෙන ගොස් තිබේ.
+Three persons who had gone to Kudawella madaratu sea were hit by the waves around 2.30 pm today (25).
 
-ඉන් එක් පුද්ගලයෙක් දිවි බේරාගෙන තිබූ අතර තවත් පුද්ගලයෙකුගේ සිරුර හමුවී ඇත.
+One of them had survived and another person was found.
 
-මෙලෙස සිරුර හමුවී ඇත්තේ සම්පත් කුමාර නම් කළුතර පදිංචි 35 හැවිරිදි පුද්ගලයෙකුගේය.
+The body was found in Kalutara, a 35 year old resident of Kalutara.
 
-තවත් අයෙක් අතුරුදන්ව ඇති අතර ඔහු 25 හැවිරිදි කඹුරුපිටියේ පදිංචි උදාර පුෂ්පකුමාර නම් පුද්ගලයෙකි.
+Another has disappeared and he is a 25 year old resident of Kamburupitiya.
 
-පස් දෙනෙකුගෙන් යුත් කණ්ඩායමක් මෙලෙස පැමිණ ඇති අතර ඉන් තිදෙනෙකු මුහුදේ දියනෑමට ගොස් අනතුර සිදුවී ඇත.
+A group of five people had arrived in the sea, and three of them had gone to the sea.
 
 ◼️
 
 [Data](articles/301a8b97.json)
 
+[Extended Data](ext_articles/301a8b97.ext.json)
+
 ---
 
-### කැලණි ගඟේ සිටි දැවැන්ත කිඹුලෙක් මරුට
+### Massant crocodile killed in Kelani River
 
 *2024-01-25 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192562) · `si`
 
-කැළණි ගඟේ පූගොඩ - කනම්පැල්ල පාලම අසල මියගොස් සිටි දැවැන්ත කිඹුලෙකුගේ සිරුරක් අද (25) සවස 2.00 ට පමණ හමුවී තිබේ.
+The body of a huge crocodile was found dead at the Kalakampla Bridge in Kelani River at around 2.00 pm today (25).
 
-තරුණයන් පිරිසක් විසින් කිඹුලාගේ සිරුර දැක ඇති අතර, පසුව ඔවුන් එම සිරුර ගඟ පහළට ගසාගෙන යාම සඳහා ගඟ මැදට ඇදගෙන ගොස් තිබුණි.
+A group of young people have seen the crocodile body, and then they had been dragged to the center of the river.
 
 ◼️
 
 [Data](articles/ec72956c.json)
 
+[Extended Data](ext_articles/ec72956c.ext.json)
+
 ---
 
-### සනත්ගේ තැනට එන ජගත් විමල්ට එක්වෙයි
+### Jagath Wimal joins Jagath Wimal in Sanath
 
 *2024-01-25 17:22:41* · [`adalk`](https://www.ada.lk/breaking_news/සනත්ගේ-තැනට-එන-ජගත්-විමල්ට-එක්වෙයි/11-407727) · `si`
 
-ජනතාව ලබා දුන් ජන්දයට කිසිදු විටක අසාධාරණයක් නොකරන බවත් තමන්ට ලැබෙන මන්ත්‍රි ධුරය කිසිදු ලෙසකින් අවතක්සේරු නොකරන බව සනත් නිශාන්ත පෙරේරා මහතාගෙ අභාවයෙන් පසු හිස් වු මන්ත්‍රි ධුරයට පසු තේරී පත්විමට නියමිත ජගත් ප්‍රියංකර මහතාගෙන් කල විමසිමේදි පවසන්නට විය.
+After the death of the MP, Jagath Priyankara, who is elected empty, inquiries, inquiry, inquiry, inquiry, inquiry, inquiry was said to be unfairly unfair to vote.
 
-සනත් නිශාන්ත මහතාගෙ අභාවයෙන් හිස් වු මන්ත්‍රි ධුරයෙන් පසුව පුත්තලම දිස්ත්‍රික්කයෙ ශ්‍රී ලංකා පොදුජන පෙරමුණේ ලයිස්තුවේ සිටින ජගත් ප්‍රියංකර මහතාය.
+Jagath Priyankara, who is empty for the death of Mr. Sanath Nishantha, is Jagath Priyankara in the Sri Lanka Civil Appointment of the Sri Lanka Civil Appointment.
 
-ඔහු විමල් විරවංශ මහතාගේ ජාතික නිදහස් පෙරමුණ යටතේ පොදුජන පෙරමුණ සමග එක්ව  පසුගිය මහ මැතිවර්ණයෙදී ගෝඨාභය රාජපක්ෂ මහතාගෙ ජයග්‍රහණය වෙනුවෙන් තරග වැදිනි.
+He joined the General Mahindabaya Rajapaksa in the last general election under the National Independent General of Wimal Weerawansa.
 
-එහිදි මනාප ජන්ද 40800 ක් ලබා ගත් ජගත් ප්‍රියංකර මහතා එම ලයිස්තුවේ පස් වන ස්ථානය හිමිකර ගැනිමට සමත්විය.
+Jagath Priyankara, who obtained 40,8800 votes, was able to occupy the fifth place of the same list.
 
-නමුත් පුත්තලම දිස්ත්‍රික්කයට පොදුජන පෙරමුණින් සිව් දෙනෙකුට පමනක් පාර්ලිමේන්තු වරම් හිමිවිනි.
+However, the Puttalam district was about four people of Parliament.
 
-මෙහිදි වැඩි දුරටත් අදහස් දැක්වු ජගත් ප්‍රියංකර මහතා පවසා සිටියෙ තමන්ට දේශපාලන ඒපා වි සිටි බවයි.ඒ නිසාම තම රැකියාව වන සමෘද්ධි කළමණාකරුවකු ලෙස නාත්තන්ඩිය සමෘද්ධි කාර්යාලයෙ සේවය කරමින් සිටි බවයි.
+Speaking further Mr. Jagath Priyankara said that he was the politician of the political manager.
+
+However, he is representing parliament for the empty urge and is not being treated unfairly.
+
+He is sworn in as a Member of Parliament and will join the party leader Wimal Weerawansa.
+
+But he believes that all should be able to face the situation so far.
 
 ...
 
 [Data](articles/2fdfb068.json)
+
+[Extended Data](ext_articles/2fdfb068.ext.json)
+
+---
+
+### One drowns, another missing while sea bathing in Kudawella
+
+*2024-01-25 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/96724/one-drowns-another-missing-while-sea-bathing-in-kudawella) · `en`
+
+One person has drowned and another remains missing after being swept away by water currents while they were bathing in the seas off Kudawella in Hambantota, the Police said.
+
+The body of a 35-year-old male has been recovered so far while a search is ongoing for a 25-year-old male who went missing.
+
+◼️
+
+[Data](articles/01e142bc.json)
 
 ---
 
@@ -993,6 +1047,28 @@ Giant pandas are a unique species in China and are hailed as a national treasure
 [Data](articles/4cd513e9.json)
 
 [Extended Data](ext_articles/4cd513e9.ext.json)
+
+---
+
+### රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත කියන්නේ කවුද ?
+
+*2024-01-25 11:22:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckrdv4503v8o) · `si`
+
+මෙරට දේශපාලනයේ ආන්දෝලනාත්මක චරිතයක් මෙන්ම රාජපක්ෂ කඳවුරේ ප්‍රබලයෙකු වූ ධීවර සහ මිරිදිය මත්ස්‍ය කර්මාන්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත පෙරේරා අද (ජනවාරි 25 වැනිදා) කටුනායක - කොළඹ අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් ජීවිතක්ෂයට පත් විය.
+
+රාජ්‍ය අමාත්‍යවරයාගේ මරණය සැලවීමත් සමග ඔහුගේ දේහය තැන්පත් කර තිබෙන රාගම ශික්ෂණ රෝහලට පාර්ලිමේන්තුව නියෝජනය කරනු ලබන මන්ත්‍රීවරුන් රැසක් පැමිණ සිටිනු දක්නට ලැබුණි.
+
+එමෙන්ම ජනාධිපති රනිල් වික්‍රමසිංහද රාජ්‍ය අමාත්‍යවරයා තාවකාලිකව පදිංචිව සිටි කොළඹ නිවස වෙත ගොස්  බිරිඳ ඇතුළු පවුලේ සමාජිකයින් හමුවේ සිය ශෝකය පළ කර සිටියේය.
+
+දේශපාලන වේදිකාවේදී මෙන්ම ඉන් පිටදිත් සිදුකළ විවිධ ප්‍රකාශ හේතුවෙන් සනත් නිශාන්ත රාජ්‍ය අමාත්‍යවරයාට පක්ෂව මෙන්ම විපක්ෂව ජනමතයක් ගොඩනැගී තිබුණි.
+
+1973 වර්ෂයේ මැයි මස 3 වැනිදා උපත ලැබු සනත් නිශාන්ත රාජ්‍ය අමාත්‍යවරයා අධ්‍යාපනය හදාරා ඇත්තේ හලාවත සාන්ත මරියා විදුහලෙනි.
+
+සනත් නිශාන්ත ආරච්චිකට්ටුව ප්‍රාදේශිය සභාවේ ශ්‍රී ලංකා නිදහස් පක්ෂ සභිකයෙක් ලෙස දේශපාලනයට පිවිසියේ 1998 වසරේදීයි.
+
+...
+
+[Data](articles/61f73c65.json)
 
 ---
 
@@ -2021,85 +2097,5 @@ Meanwhile, the body of the deceased is also found in the body of drugs. (A)
 [Data](articles/db2578b8.json)
 
 [Extended Data](ext_articles/db2578b8.ext.json)
-
----
-
-### Vacuum in the Auditor's Department
-
-*2024-01-25 02:33:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கணக்காய்வாளர்-திணைக்களத்தில்-பதவி-வெற்றிடம்/175-332092) · `ta`
-
-About 400 vacancies for the Audit Officers are found, the Auditor's Department said.
-
-Due to this, the Auditor General has to carry out the accounting process with maximum management.. Vikramaratne mentioned.
-
-He said that action will be taken to recruit those appropriate for the post of audit officer.. (A)
-
-◼️
-
-[Data](articles/3b4c97ab.json)
-
-[Extended Data](ext_articles/3b4c97ab.ext.json)
-
----
-
-### ID digit is the tin number
-
-*2024-01-25 02:26:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ID-இலக்கமே-TIN-இலக்கம்/175-332091) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya has said that steps have been taken to use the taxpayer National Identification Number-Tin as the taxpayer identification number-tin.
-
-In addition, the government has focused on providing the public through public data through state institutions.
-
-He said he was looking forward to providing the registration number after receiving the appropriate data through the companies.
-
-The Minister of State said that action would be taken to obtain these information from companies that do not have legal problems.
-
-He said the aim was to prepare a very easy procedure for obtaining a taxpayer identity through online.
-
-◼️
-
-[Data](articles/29805f95.json)
-
-[Extended Data](ext_articles/29805f95.ext.json)
-
----
-
-### Teacher deficit: solution in Febravi
-
-*2024-01-25 02:20:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆசிரியர்-பற்றாக்குறை-பெப்ரவரியில்-தீர்வு/175-332090) · `ta`
-
-Minister of Education Susil Premajayantha said that the problem of teacher shortage across the country will be decided at the end of February.
-
-In response to a special statement made by Opposition Leader Sajith Premadasa in Parliament on Wednesday (24), Education Minister Susil Premajayantha said.
-
-Speaking on a special statement, Opposition Leader Sajith Premadasa said that there is a shortage of 40 thousand teachers across the country.. He said the teacher should take action to resolve the shortage.
-
-When the Graduates took steps to appoint 22 thousand people, the case filed in the Supreme Court was heard for nine months and ended last week.. Provincial Councils have taken steps to combine 13, 500 people. Ritman is in court in connection. Today (yesterday Wednesday) is to be issued that writman. If that directive is available, the majority of teacher shortages will be resolved.
-
-...
-
-[Data](articles/93dd72be.json)
-
-[Extended Data](ext_articles/93dd72be.ext.json)
-
----
-
-### Military agriculture in people's lands
-
-*2024-01-25 02:13:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மக்கள்-காணிகளில்-இராணுவ-விவசாயம்/175-332089) · `ta`
-
-The Tamil National Alliance (TNA) parliamentarian said that it is unacceptable to claim that it is only 15 years since the end of the war.. Chanakyan said that the soldiers were engaged in agricultural activities while the land owned by the people were watching the land.
-
-He was speaking to the Defense Minister in Parliament on Wednesday (24).
-
-15 years since the end of the war in the North and East. We do not accept that it is for security reasons for keeping military camps in some places only in these districts. Although the Batticaloa priests are belonging to the school, the military is still under its control. Although the district level has been decided to release it, it is under the control of the military.
-
-Meanwhile, the military is farming as the people are watching the fences on the lands belonging to the people in the north and east areas including Palali.. He said the army was holding people's lands.
-
-◼️
-
-[Data](articles/84baf5f1.json)
-
-[Extended Data](ext_articles/84baf5f1.ext.json)
 
 ---

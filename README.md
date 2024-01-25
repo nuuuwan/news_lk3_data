@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 13:17:20**
+As of **2024-01-25 13:33:15**
 
 ## Newspaper Stats
 
-*Scraped **2,551** Articles*
+*Scraped **2,559** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,84 @@ newsfirstlk | 138
 islandlk | 146
 economynextcom | 152
 dailyftlk | 194
-adaderanasinhalalk | 206
+adaderanasinhalalk | 209
 adalk | 247
 virakesarilk | 281
 adaderanalk | 317
-tamilmirrorlk | 325
-dailymirrorlk | 338
+tamilmirrorlk | 327
+dailymirrorlk | 341
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,551 (100.0%) of 2,551 articles have been extended.
+2,551 (99.7%) of 2,559 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### බෙලිඅත්තේ ඝාතනය ගැන තවත් කතාවක්
+
+*2024-01-25 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192553) · `si`
+
+බෙලිඅත්ත පංච පුද්ගල ඝාතනය සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුගෙන් සිදු කළ ප්‍රශ්න කිරිම්වල දී යතුරුපැදියක් හා වෑන් රථයක් හක්මන පොලීසිය විසින් සොයාගෙන තිබේ.
+
+පොලීසිය සැක කරන්නේ, ප්‍රහාරය සඳහා යොදාගත් ටී 56 වර්ගයේ ගිනි අවි දෙක බැහැර කිරීමට අදාළ යතුරුපැදිය ‍යොදාගෙන ඇති බවයි.
+
+අපරාධයෙන් පසු ව සැකකරුවන්ට සැඟවී ගමන් කිරීමට අදාළ වෑන් රථය භාවිත කිරීම සඳහා සූදානම් කර තිබූ බවට ද පොලීසිය සැක පහළ කරයි.
+
+◼️
+
+[Data](articles/b4f81477.json)
+
+---
+
+### ආනන්තරීය පාපකර්මයක් කළ පුතෙක්
+
+*2024-01-25 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192552) · `si`
+
+ඉල ඇට විසි දෙකක් කැඩෙනතුරු පහරදී  67 හැවිරිදි සිය මව ඝාතනය කළ  41 හැවිරිදි පුතෙකු නාවලපිටිය පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+මෙසේ ඝාතනය වී ඇත්තේ නාවලපිටිය බෝහිල් උඩ කොටසේ පදිංචිව සිටි එස්. සෙල්ලම්මා නමැති දෙදරු මවක් වන අතර සති දෙකක් තුළ ගම්පොළ පොලිස් කොට්ඨාසයේ පුතෙකු විසින් පහර දී මව ඝාතනය කළ දෙවන අවස්ථාව ද මෙය වේ.
+
+සිය බාල පුතුගේ පහරදීමෙන් මවගේ හිස අභ්‍යන්තරයේ බහුවිධ තුවාල සිදු වී හකු ඇටය සහ ඉල ඇට විසි දෙකක්
+
+බිඳී ඇති බව නාවලපිටිය රෝහලේ විශේෂඥ අධිකරණ වෛද්‍ය රුචිර නදීර මහතා පශ්චාත් මරණ පරීක්ෂණයේදී හෙළිකර තිබිණි.
+
+සැකකරු මීට පෙර ඔහුගේ පියාටද හිසට පහරදී තුවාල සිදුකිරීම නිසා පියා මේ වනවිට ඔහුගේ වැඩිමහල් දියණියගේ නිවසේ පදිංචියට ගොස් ඇති බව පොලීසිය සඳහන් කරයි.
+
+එමෙන්ම පසුගිය 17 වැනිදා සැකකාර පුත්‍රයා ඔහුගේ බිරිඳට ද පහරදී ඇති අතර, ඇයද දරුවා රැගෙන ඇගේ මහ ගෙදරට ගොස් තිබේ.
+
+ඉන්පසු සැකකරු ඔහුගේ මව සමග වසරක පමණ කාලයක් නිවසේ සිට ඇති අතර පසුව මව සමග ආරවුල්
+
+ඇති කරගෙන තමා වයස අවුරුදු දාසයේ සිට කුලී වැඩට යැවූ බවත් තමා ගැන සොයා නොබැලූ බවත් පවසමින්
+
+...
+
+[Data](articles/82d69253.json)
+
+---
+
+### விபத்தில் தந்தை, மகன் பலி: தாய் படுகாயம்
+
+*2024-01-25 12:47:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/விபத்தில்-தந்தை-மகன்-பலி-தாய்-படுகாயம்/94-332104) · `ta`
+
+ஆனமடுவ – நவகத்தேகம பிரதான வீதி  லபுகம பகுதியில் வியாழக்கிழமை( 25) இடம்பெற்ற வாகன விபத்தில்  தந்தை மற்றும் மகன் ஆகியோர்  உயிரிழந்துள்ளர்.
+
+இந்த விபத்தில் காயமடைந்த தாய் ஆபத்தான நிலையில் புத்தளம் தள வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+நவகத்தேகம, வெலேவெவ பகுதியைச் சேர்ந்த 38 வயதுடைய இராணுவ விஷேட படையின் லெப்டினன்ட் பதவி வகித்த ஜீவக செனவிரத்ன மற்றும் அவரது 10 வயதான மகன் மனுஜ பிரபாஸ்வர ஆகிய இருவருமே இந்த விபத்தில் உயிரிழந்துள்ளனர்.
+
+உயிரிழந்த இராணுவ வீரர் , மகன் மற்றும் மனைவி ஆகியோர் பயணித்த மோட்டார் சைக்கிள் ஆனமடுவ - நவகத்தேகம பிரதான வீதியின் ரஜமஹா விகாரைக்கு முன்பாக லொறியுடன் மோதியதில் இந்த விபத்து சம்பவித்துள்ளதாக பொலிஸார் குறிப்பிட்டனர்.
+
+இந்த விபத்து சம்பவம் தொடர்பில் ஆனமடுவ பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/c2110077.json)
+
+---
 
 ### ‘Major blow to human rights’: Amnesty International slams newly passed Online Safety Bill
 
@@ -49,6 +111,98 @@ The Online Safety Bill, which seeks to regulate online content, received the par
 [Data](articles/17d43718.json)
 
 [Extended Data](ext_articles/17d43718.ext.json)
+
+---
+
+### Death of Sanath Nishantha, great loss to Mahinda Rajapaksa, party and people
+
+*2024-01-25 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Death-of-Sanath-Nishantha-great-loss-to-Mahinda-Rajapaksa-party-and-people/108-275707) · `en`
+
+Colombo, Jan 25 (Daily Mirror) - The death of State Minister Sanath Nishantha is a great loss to former president Mahinda Rajapaksa, to the party and to the people in the Puttalam district, Urban Development and Housing, Chief Government Whip and Minister Prasanna Ranatunga said.
+
+He told the media that Sanath Nishantha had worked for the people in the Puttalam and Chilaw districts. He met with the accident while in his way Colombo after participating in two occasions in Puttalam and Chilaw.
+
+His official residence in Puttalam was burned down on May 9 during the Aragalaya protests. Therefore, he did not have a home to rest in Puttalam, and the accident occurred while he was returning to Colombo.
+
+Moreover, he said that Sanatha Nishantha had participated in an event held at the Australian High Commission after parliament sessions yesterday.
+
+According to police investigations, the driver of the State Minister was not under the influence of alcohol, Minister Ranatunga said.
+
+...
+
+[Data](articles/a19db29c.json)
+
+---
+
+### Two trucks collide head-on on A9 road, four injured
+
+*2024-01-25 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-trucks-collide-head-on-on-A9-road-four-injured/108-275706) · `en`
+
+Mankulam, Jan 25 (Daily Mirror) - Four persons were injured when two tipper trucks collided head-on in the area between Mankulam and Kanagarayankulam on the Jaffna-Kandy A-9 main road, Mankulam Police said.
+
+Police investigations revealed that the two tipper trucks had been driven at a high speed and the accident occurred while one was attempting to overtake a motorcycle and was unable to control its speed.
+
+The two riders on the motorcycle (a man and a woman) also sustained injuries and were admitted to the Mankulam hospital and later transferred to the Vavuniya Base Hospital for further treatment.
+
+The drivers of the two tipper trucks were also admitted with minor injuries to the Mankulam Hospital.
+
+◼️
+
+[Data](articles/b0088b45.json)
+
+---
+
+### Devotees seek blessings at Gangarama
+
+*2024-01-25 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Devotees-seek-blessings-at-Gangarama/110-275705) · `en`
+
+Devotees visiting the Gangaramaya Temple in view of the Duruthu Poya day today to engage in religious rituals and receive blessings. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/2b990ff2.json)
+
+---
+
+### අභාවප්‍රාප්ත සනත් නිශාන්තගේ අවසන් කටයුතු ඉරිදා
+
+*2024-01-25 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192551) · `si`
+
+අභාවප්‍රාප්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු ලබන 28 වන ඉරිදා සිදුකිරීමට සැලසුම් කර තිබේ.
+
+පාර්ලිමේන්තු මන්ත්‍රී මහින්දානන්ද අලුත්ගමගේ මහතා පැවසුවේ, ආරච්චිකට්ටුව ප්‍රදේශයේ දී අවසන් කටයුතු සිදුකිරීමට සැලසුම්කර ඇති බවය.
+
+සනත් නිශාන්ත මහතාගේ දේහය මහජන ගෞරවය සඳහා අද පස්වරු 5.30 බොරැල්ලේ ජයරත්න මල්ශාලාවට රැගෙන එන අතර දේහය හෙට (26) පෙරවරු 10.30ට පුත්තලමේ පිහිටි ඒ මහතාගේ නිවස වෙත රැගෙන යනු ඇත.
+
+අද (25) අලුයම කටුනායක අධිවේගී මාර්ගයේ සිදුවු රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ ඔහුගේ ආරක්ෂක නිලධාරියා ජීවිතක්ෂයට පත් වුණි.
+
+අද අලුයම දෙකට පමණ රාජ්‍ය අමාත්‍යවරයා ගමන් ගත් සුඛෝපභෝගී රථය එම දෙසටම ඉදිරියෙන් ධාවනය වූ කන්ටේනර් රථයක හා මාර්ගයේ ආරක්ෂිත වැටේ ගැටීමෙන් අනතුර සිදුව තිබිණි.
+
+අනතුරෙන් තුවාල ලැබු ජිප් රථයේ ගමන්ගත් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා ඔහුගේ ආරක්ෂක නිලධාරියා මියගිය අතර ජීප් රථයේ රියදුරු රාගම රෝහලේ ප්‍රතිකාර ලබයි.
+
+මරණය සම්බන්ධයෙන් මහෙස්ත්‍රාත් පරීක්ෂණය අද පෙරවරුවේ රාගම රෝහලේ දී සිදුකෙරුණු බව "අද දෙරණ" වාර්තාකරු පැවසුවේය.
+
+...
+
+[Data](articles/33d0c8af.json)
+
+---
+
+### ஆண்களின் நிர்வாண திருவிழா : பெண்கள் பங்கேற்க அனுமதி
+
+*2024-01-25 11:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆண்களின்-நிர்வாண-திருவிழா-பெண்கள்-பங்கேற்க-அனுமதி/50-332103) · `ta`
+
+பெண்கள் நிர்வாணமாக சில நாட்கள் இருக்கும் கிராமங்க​ள் பற்றி கேள்வி பட்டிருக்கின்றோம் எனினும், ஆண்களும் நிர்வாணமாக இருக்கும் விசித்திரமான நிகழ்வு பெப்ரவரி 22ஆம் திகதி இடம்பெறவுள்ளது.
+
+ஜப்பானில் 1675 ஆண்டுகளாக தொடர்ந்து நடந்து வரும் ‛ஹட்கா மட்சூரி' எனும் ஆண்களின் நிர்வாண திருவிழாவில் பங்கேற்க பெண்களுக்கு அனுமதி வழங்கப்பட்டுள்ளது. இதற்கிடையே தான் அந்த திருவிழா கொண்டாடப்படுவதன் பின்னணி குறித்த வினோத தகவல் வெளியாகி உள்ளது.
+
+இந்தியா உள்பட பல்வேறு நாடுகளில் பாரம்பரியமாக சில திருவிழாக்கள் நடத்தப்பட்டு வருகின்றன. இந்த திருவிழாக்கள் வெறும் பொழுது போக்குகளுக்கு மட்டுமின்றி அந்த பகுதி மக்கள் வைத்துள்ள நம்பிக்கையின் அடையாளமாக இருக்கிறது.
+
+அந்த வகையில் ஜப்பானில் ஆண்டுதோறும் வினோத திருவிழா ஒன்று கொண்டாடப்பட்டு வருகிறது. அதாவது அந்த திருவிழாவின் பெயர் ஆண்களுக்கான நிர்வாண திருவிழாவாம்.
+
+...
+
+[Data](articles/12337c30.json)
 
 ---
 
@@ -1845,185 +1999,5 @@ Puttalam Police have launched an operation to arrest the other suspects.
 [Data](articles/a4b81399.json)
 
 [Extended Data](ext_articles/a4b81399.ext.json)
-
----
-
-### Announcement from Asian Internet Alliance on Online Act
-
-*2024-01-24 21:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192530) · `si`
-
-The Asian Internet Alliance, including Apple, Google, Meta, Amazon and Yahoo, has issued a statement such as Apple, Google, Meta, Amazon and Yahoo.
-
-It says that if the Bill is in the current way, the Bill will be adversely affected by the development of the digital economy in Sri Lanka as well as direct foreign investment.
-
-The proposed bill will threaten the freedom of the expression of Sri Lankans who are preparing for a presidential election and parliamentary election.
-
-◼️
-
-[Data](articles/397d9838.json)
-
-[Extended Data](ext_articles/397d9838.ext.json)
-
----
-
-### 22-year-old cop killed in tragic collision in Kataragama
-
-*2024-01-24 21:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96708/22-year-old-cop-killed-in-tragic-collision-in-kataragama) · `en`
-
-A young police officer has been killed in a road accident involving a private passenger bus and a motorcycle in the Tissamaharama Police Division this afternoon (24).
-
-Police stated that the accident occurred when a private passenger bus, travelling from Tissamaharama to Kataragama, crossed the double line on the road to recklessly overtake a tractor and collided with an oncoming motorcycle.
-
-The collision took place in the Punchi Akuregoda area on the Kataragama - Tissamaharama road, the police said.
-
-The motorcyclist who sustained critical injuries in the accident has been rushed to Debarawewa Hospita, where he was pronounced dead upon admission.
-
-The deceased was identified as a 22-year-old Constable attached to Kataragama Police Station. He was a resident of the Welimada area, the Police Media Division said.
-
-Body of the deceased officer has been placed at the mortuary of Debarawewa Hospital.
-
-...
-
-[Data](articles/f9e40635.json)
-
-[Extended Data](ext_articles/f9e40635.ext.json)
-
----
-
-### ’’Rattaran’’ is my childhood nickname: Rohitha
-
-*2024-01-24 21:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rattaran-is-my-childhood-nickname-Rohitha/108-275671) · `en`
-
-Parliament, Jan. 24 (Daily Mirror)- Claiming that "Rattaran" was a nickname given to him in childhood, Parliamentarian Rohitha Abeygunawardane said he would resign if anyone proved that a police complaint had been made against him for snatching necklaces.
-
-The MP told parliament that he was called "Rattaran" in his childhood as a nickname and that after he came to politics, people started to say that he was called "Rattaran" because of snatching necklaces.
-
-"We are given nicknames when we were born. I was called 'Rattaran' in my childhood. People in my area know me as 'Rattaran'. When I came to politics people started to say that I was called "Rattaran" because I snatched necklaces. It is circulated in social media. If anyone can prove that a complaint was made against me for snatching necklaces, I will resign as MP tomorrow," he said.
-
-Speaking during the debate on Online Safety Bill, he said social media was circulating false news to get hits and earn money.
-
-◼️
-
-[Data](articles/96e09d3f.json)
-
-[Extended Data](ext_articles/96e09d3f.ext.json)
-
----
-
-### The Pakistani origin is hurried
-
-*2024-01-24 21:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192529) · `si`
-
-Shazibow, who was dreaming to participate in his Mangala Test, has lost the event.
-
-Born in Saray State of Bay mee, his parents are individuals with Pakistan.
-
-The Indian-Pakistani crisis is considered to be delayed due to the issuance of visas.
-
-Such difficulties were previously affected by Pakistani Ali, Ali, Uzman Quaja.
-
-England authorities have informed India to treat their nationals from the issuance of visas.
-
-Meanwhile, England captain Ben Stokes said he had a thought to boycott the first Test between the two countries.
-
-He has said that he said that he was disappointed with the frustration of the Indian authorities.
-
-Meanwhile, the England media reported a few moments ago.
-
-According to the authorities, he can join the England team over the weekend.
-
-◼️
-
-[Data](articles/a5c90f80.json)
-
-[Extended Data](ext_articles/a5c90f80.ext.json)
-
----
-
-### Meenagaya’s buffet compartment sealed till February 8
-
-*2024-01-24 21:16:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Meenagayas-buffet-compartment-sealed-till-February-8/108-275672) · `en`
-
-Colombo, Jan 24 (Daily Mirror) - Following a court order, the buffet compartment of the Meenagaya inter-city express train running from Batticaloa to Colombo Fort has been temporarily sealed till February 8, the Railways Department said.
-
-They said the court order was issued following a sudden inspection conducted over the buffet compartment on Monday (22) by a team comprising the Batticoloa Public Health Inspector (PHI).
-
-During the sudden inspection, the group had observed that the buffet compartment was being run in an unhygienic manner, the department said
-
-Even though the buffet compartment had been advised earlier to be maintained in a hygienic manner, it remained the same. Therefore, the complaint was heard and a court order was issued to seal the compartment.
-
-The complaint was heard before the Batticaloa Magistrate today, and the Magistrate has ordered that the buffet compartment of the train be sealed till February 8.
-
-...
-
-[Data](articles/2508314c.json)
-
-[Extended Data](ext_articles/2508314c.ext.json)
-
----
-
-### Dozens dead after fire breaks out in China shop
-
-*2024-01-24 20:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Dozens-dead-after-fire-breaks-out-in-China-shop/107-275669) · `en`
-
-Xinyu, Jan 24 (BBC) - At least 39 people have been killed and nine injured in a fire that started in the basement of a shop in the Chinese city of Xinyu.
-
-State media said the fire started on Wednesday afternoon local time in the city in Jiangxi province.
-
-Footage from state-backed Global Times showed smoke billowing from buildings and people jumping from windows. The video has not been verified by the BBC.
-
-President Xi Jinping has called for an investigation into the blaze.
-
-He also demanded the "resolute containment" of similar deadly incidents in the country.
-
-Wednesday's fire comes days after 13 children died when a fire broke out in a school dormitory in the central Henan province. Seven members of staff were later arrested by police.
-
-In November, 26 people died and dozens were sent to hospital after a fire at a coal company office in northern China's Shanxi province.
-
-...
-
-[Data](articles/0c76bf94.json)
-
-[Extended Data](ext_articles/0c76bf94.ext.json)
-
----
-
-### ’’There was no gold-plated camel at daughter’s house’’: Maithri
-
-*2024-01-24 20:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/There-was-no-gold-plated-camel-at-daughters-house-Maithri/108-275670) · `en`
-
-Parliament, Jan. 24 (Daily Mirror)- Refuting reports that there was a gold-plated camel in his daughter's house, former President Maithripala Sirisena told Parliament that only a personal gift given by the Emir of Qatar was kept at the said residence.
-
-“The official gift I received from the Emir of Qatar is kept in the museum at Polonnaruwa. Some of my staff members including security personnel received wrist watches worth more than Rupees one million from the Emir. I also got a personal gift and I kept it at my daughter’s house,” MP Sirisena said.
-
-“ A person who reads newspapers reports on a national TV station commented on the media reports of the robbery at my daughter’s residence in an unfounded manner and questioned as to why I kept the official gift which I have received at my daughter’s residence,” he said.
-
-He said robbers had only taken some food stuff from his daughter’s house although it was sensationalized by the media,
-
-...
-
-[Data](articles/7896aa25.json)
-
-[Extended Data](ext_articles/7896aa25.ext.json)
-
----
-
-### A police officer killed in an accident
-
-*2024-01-24 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192528) · `si`
-
-The deceased has been identified as a 22 year old police constable attached to the Kataragama Police.
-
-A private bus was traveling from Tissamaharama from Tissamaharama in Tissamaharama, Tissamaharama in Tissamaharama this afternoon.
-
-The bus has collided with a motorcycle in the opposite direction by violating dual line laws on the road.
-
-The police constable was seriously injured and died on admission to the Debarawewa hospital.
-
-◼️
-
-[Data](articles/fe9176f8.json)
-
-[Extended Data](ext_articles/fe9176f8.ext.json)
 
 ---

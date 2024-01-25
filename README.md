@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 16:04:50**
+As of **2024-01-25 16:17:09**
 
 ## Newspaper Stats
 
-*Scraped **2,579** Articles*
+*Scraped **2,581** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 142
 islandlk | 146
 economynextcom | 152
 dailyftlk | 194
-adaderanasinhalalk | 213
-adalk | 249
+adaderanasinhalalk | 214
+adalk | 250
 virakesarilk | 282
 adaderanalk | 320
 tamilmirrorlk | 329
@@ -26,11 +26,31 @@ dailymirrorlk | 345
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,579 (100.0%) of 2,579 articles have been extended.
+2,579 (99.9%) of 2,581 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
+
+### ජනපති සනත් නිශාන්තගේ නිවසට එයි
+
+*2024-01-25 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192559) · `si`
+
+අභාවප්‍රාප්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ ඥාතීන් හමුවීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැමිණියේය.
+
+රාජ්‍ය අමාත්‍යවරයාගේ දේහය පිළිබඳ අවසන් කටයුතු ලබන 28 වන ඉරිදා සිදුකිරීමට සැලසුම් කර තිබේ.
+
+අද (25) අලුයම කටුනායක අධිවේගී මාර්ගයේ සිදුවු රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ ඔහුගේ ආරක්ෂක නිලධාරියා ජීවිතක්ෂයට පත් වුණි.
+
+අද අලුයම දෙකට පමණ රාජ්‍ය අමාත්‍යවරයා ගමන් ගත් සුඛෝපභෝගී රථය එම දෙසටම ඉදිරියෙන් ධාවනය වූ කන්ටේනර් රථයක හා මාර්ගයේ ආරක්ෂිත වැටේ ගැටීමෙන් අනතුර සිදුව තිබිණි.
+
+"ෆැමිලි එක පිටින් යන්න ඕනේ කියලා අපි ඔක්කොම ගියා. ගිහින් එතනින් අපිව වෙන වාහනයකට දැම්මා එන්න. එයා ගියා හලාවත.... වෙඩින් එකකට. ඒ ගිහින් එමින් ගමන් තමයි මේ..."
+
+◼️
+
+[Data](articles/2ece7f4c.json)
+
+---
 
 ### Another fire in China loses many lives
 
@@ -109,6 +129,18 @@ Several Ministers and MPs visit the Ragama Hospital, where State Minister Sanath
 [Data](articles/6c9e0879.json)
 
 [Extended Data](ext_articles/6c9e0879.ext.json)
+
+---
+
+### සනත් නිශාන්තගෙන් හිස්වන මන්ත්‍රී ධුරයට ජගත් ප්‍රියංකර
+
+*2024-01-25 15:04:28* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තගෙන්-හිස්වන-මන්ත්‍රී-ධුරයට-ජගත්-ප්‍රියංකර/11-407724) · `si`
+
+සනත් නිශාන්ත මහතාගේ අභාවයෙන් පුරප්පාඩු වන පුත්තලම දිස්ත්‍රික් පාර්ලිමේන්තු මන්ත්‍රී ධූරය සදහා පසුගිය මැතිවරණයට ඉදිරිපත් වූ ජගත් ප්‍රියංකර මහතා සුදුසුකම් ලබා තිබේ. ජගත් ප්‍රියංකර මහතා වෘත්තීයෙන් සමෘද්ධි සංවර්ධන කළමණාකරුවෙකි.
+
+◼️
+
+[Data](articles/6eae5dec.json)
 
 ---
 
@@ -2045,41 +2077,5 @@ During the meeting, the High Commissioner and Speaker Lord McFall discussed a wi
 [Data](articles/65bcb997.json)
 
 [Extended Data](ext_articles/65bcb997.ext.json)
-
----
-
-### Annual Duruthu Perahara...
-
-*2024-01-25 00:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Annual-Duruthu-Perahara/110-275694) · `en`
-
-Traditional dancers were seen performing during the Duruthu Perahera festival in Kelaniya, which was held last night. The event named ’’Duruthu Perahara’’ is celebrated annually in January with the participation of elephants, dancers, drummers, and musicians. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/f6cf9415.json)
-
-[Extended Data](ext_articles/f6cf9415.ext.json)
-
----
-
-### The fate of the 20 -year -old
-
-*2024-01-25 00:28:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/20-க்கு-நேர்ந்த-கதியே-ஏற்படும்/175-332084) · `ta`
-
-Media repression like Singapore is not in Asia. Therefore, it is not acceptable to say that the Singapore model is prepared by the Foundation Bill.Lakshman Kiriella MP, the leader of the opposition parties, said that the fate of the 20th Amendment to the Constitution would occur to the Backup Bill.. Said.
-
-Speaking at the debate on the 2nd day of the second reading of the proposed backup Bill, which was held in Parliament on Wednesday (24).
-
-The Secretary to the Ministry of Defense and the Defense Law Officer went to Singapore and conducted the inspection.
-
-Singapore is ranked 145th in the Media Freedom Chunden, which is under international standardization, but Sri Lanka is more than Singapore in media freedom.
-
-The people challenged the government -submitted Back to the High Court in the High Court. The Supreme Court has presented several amendments to this bill by removing many features of Singapore. He said the court had protected the speech and freedom of the people as much as possible.
-
-◼️
-
-[Data](articles/0cc214d1.json)
-
-[Extended Data](ext_articles/0cc214d1.ext.json)
 
 ---

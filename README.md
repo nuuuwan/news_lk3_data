@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-25 12:17:21**
+As of **2024-01-25 12:32:55**
 
 ## Newspaper Stats
 
-*Scraped **2,546** Articles*
+*Scraped **2,549** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,53 +18,91 @@ dailyftlk | 194
 adaderanasinhalalk | 206
 adalk | 246
 virakesarilk | 281
-adaderanalk | 314
+adaderanalk | 316
 tamilmirrorlk | 325
-dailymirrorlk | 337
+dailymirrorlk | 338
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,543 (99.9%) of 2,546 articles have been extended.
+2,546 (99.9%) of 2,549 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-25 (Thursday)
 
-### විහාරස්ථානයකට වෙඩි ප්‍රහාරයක්
+### Shot at a temple
 
 *2024-01-25 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192550) · `si`
 
-දොඩම්ගස්ලන්ද - උඩත්තාපොළ පුරාණ විහාරස්ථානයට ඊයේ (24) රාත්‍රියේ වෙඩි ප්‍රහාරයක් එල්ල කර ඇති බව මදුරාගොඩ පොලීසිය පවසයි.
+The Maduragoda Police say that the ancient temple was shot at the Eldagaslanda-Udduta Vihara yesterday (24).
 
-විහාරාධිපති ගල්නෑවේ පඤ්ඤාකිත්ති හිමියන් වැඩ වසන කාමරයේ ජනේලයකට වෙඩි ප්‍රහාරය එල්ල වී තිබුණ ද පඤ්ඤාකිත්ති හිමියන් එම අවස්ථාවේ දී ලැගුම් ගෙයි වෙනත් ස්ථානයක සැතපී සිටි බැවින් උන් වහන්සේට හානියක් සිදු ව නැති බව ද පොලීසිය සඳහන් කළේ ය.
+The police said that the Pannakiti Thera was shot dead in the area, but the Pannayakiti Thera had been shot dead in a nearby location as the lodge was shot dead at the time.
 
-පොලිස් පරීක්ෂණවලට අනුව බඳින තුවක්කුවක් හා සමාන කුවක්කුවකින් මෙම වෙඩි තැබීම සිදු කර තිබෙන බව වාර්තා වේ.
+According to police investigations, the shooting has been carried out with a temple gun.
 
 ◼️
 
 [Data](articles/fae723b6.json)
 
+[Extended Data](ext_articles/fae723b6.ext.json)
+
 ---
 
-### දණ්ඩ නීති සංග්‍රහයේ සංශෝධනයක්
+### Pakistan to remain dependent on IMF for next few years: Fitch Ratings
+
+*2024-01-25 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96717/pakistan-to-remain-dependent-on-imf-for-next-few-years-fitch-ratings) · `en`
+
+Fitch Ratings, an American credit rating agency, maintained that Pakistan will remain dependent on the successful  International Monetary Fund (IMF) programme implementation and its official support for the next few years, The News reported on Thursday.
+
+With elections taking place in almost half of Finch’s rated portfolio of Asia Pacific (APAC) sovereigns in 2024, including Pakistan where general polls are scheduled for February 8, the agency on Wednesday shared the possibility in its forecast report, mentioning the chance of election outcomes influencing credit profiles as being higher in both Pakistan and Sri Lanka, which also gets its funds from the IMF.
+
+Other countries where elections are slated to be conducted include in India, Sri Lanka, Indonesia and Korea.
+
+...
+
+[Data](articles/6b780d0b.json)
+
+---
+
+### An amendment of the Penal Code
 
 *2024-01-25 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192549) · `si`
 
-ජනාධිපතිවරයාගේ ප්‍රධානත්වයෙන් ඊයේ (24) පැවති අමාත්‍ය මණ්ඩල රැස්වීමේ දී තීරණ කිහිපයකට එළැඹ තිබේ.
+The president's chaired by the president yesterday (24) has reached several decisions.
 
-ඒ අනුව ප්‍රධාන වශයෙන් දණ්ඩ නීති සංග්‍රහය සඳහා සංශෝධනයන් ඉදිරිපත් කිරීමට ද අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව ඇත.
+Cabinet approval has been paid to submit the amendments for the penal code.
 
-දණ්ඩ නීති සංග්‍රහයේ සඳහන් ව්‍යස්ථාපිත ස්ත්‍රී දුෂණය පිළිබඳ නීති සංශෝධනය කිරීම සඳහාත්, ස්ත්‍රී දුෂණය සම්බන්ධ නීතියේ පවතින අඩුපාඩු නිවැරදි කිරීම සඳහා සහ පිරිමි ළමයින් දුෂණය කිරීම සාපරාධී ක්‍රියාවක් බවට පත්කිරීම සඳහාත් දණ්ඩ නීති සංග්‍රහය සඳහා සංශෝධන හඳුන්වා දීමට 2021.01.18 සහ 2021.06.28 යන පැවති අමාත්‍ය මණ්ඩලයේ දී අනුමැතිය හිමිව ඇත.
+In order to amend the statutory fertility laws of the Penal Code and to rectify the shortcomings of feminine, and the pension Code on 28.01.2013, 1821.2009 to introduce a criminal act.The approval has been approved.
 
-ඒ අනුව නීති කෙටුම්පත් සම්පාදක විසින් සකස් කරනු ලැබ ඇති පනත් කෙටුම්පත සඳහා නීතිපතිගේ නිෂ්කාශනය ලැබී තිබේ.
+Accordingly, the Attorney General's clearance has been received for the Bill, which has been prepared by the Legal Draftsman.
 
-එකී පනත් කෙටුම්පත රජයේ ගැසට් පත්‍රයේ පළ කිරීමටත්, ඉන් අනතුරුව අනුමැතිය පිණිස පාර්ලිමේන්තුවට ඉදිරිපත් කිරීමටත් අධිකරණ අමාත්‍යවරයා ඉදිරිපත් කළ යෝජනාවට එලෙස අමාත්‍ය මණ්ඩල අනුමැතිය හිමිව ඇත.
+The Justice Minister has submitted the approval of the Cabinet of Ministers to publish the Bill in the Government Gazette and submit the approval to Parliament for approval.
 
 ◼️
 
 [Data](articles/af5196d1.json)
+
+[Extended Data](ext_articles/af5196d1.ext.json)
+
+---
+
+### Wild giant panda population increases in China
+
+*2024-01-25 11:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wild-giant-panda-population-increases-in-China/108-275704) · `en`
+
+China, Jan 25 (China Daily) -The population of wild giant pandas in China has increased from around 1,100 in the 1980s to nearly 1,900, according to the latest announcement from the National Forestry and Grassland Administration on Thursday.
+
+The International Union for Conservation of Nature has adjusted the threatened status of giant pandas from "endangered" to "vulnerable".
+
+"This indicates that the conservation efforts for giant pandas in China have been recognized by the international wildlife conservation community, which is a full affirmation of our country's conservation efforts," said Zhang Yue, deputy director of the Wildlife Conservation Department of the National Forestry and Grassland Administration. "The remarkable achievements in the protection of giant pandas and their habitats in China have attracted global attention."
+
+Giant pandas are a unique species in China and are hailed as a national treasure.
+
+...
+
+[Data](articles/4cd513e9.json)
 
 ---
 
@@ -83,6 +121,26 @@ Deputy Inspector General of Police (IGP) has been transferred as the DIG in char
 [Data](articles/920c448e.json)
 
 [Extended Data](ext_articles/920c448e.ext.json)
+
+---
+
+### Jagath Priyankara tipped to fill Sanath Nishantha’s MP seat
+
+*2024-01-25 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96716/jagath-priyankara-tipped-to-fill-sanath-nishanthas-mp-seat) · `en`
+
+Jagath Priyankara who vied for the 202 Parliamentary Election is tipped to fill the MP seat left vacant after State Minister Sanath Nishantha passed away in a tragic motor accident early this morning (25).
+
+Priyankara is a member of the National Freedom Front (Jathika Nidahas Peramuna) led by MP Wimal Weerawansa.
+
+State Minister Sanath Nishantha and his security officer died in a tragic accident that took place on the Colombo - Katunayake expressway in the early hours of the day.
+
+According to the police, the state minister’s vehicle had rear-ended a moving container truck around 2:00 a.m. (25 Jan.), before crashing against the roadside barrier.
+
+Following the fatal collision, three persons including State Minister Nishantha were rushed to the Colombo North Teaching Hospital in Ragama with critical wounds, where two of them - the lawmaker and his security guard, a police constable named Jayakody – succumbed to their injuries upon admission.
+
+...
+
+[Data](articles/87be04ce.json)
 
 ---
 
@@ -380,6 +438,8 @@ A large number of Sri Lankans work in the Maldives in high executive jobs in the
 
 [Data](articles/6fc95cbe.json)
 
+[Extended Data](ext_articles/6fc95cbe.ext.json)
+
 ---
 
 ### Notice of MP, who is vacant after Sanath Nishantha
@@ -415,8 +475,6 @@ He was also able to hold the Acting Chief Minister on one occasion in the provin
 ### Sanath Nishantha killed in car accident
 
 *2024-01-25 09:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Sanath-Nishantha-killed-in-car-accident/110-275702) · `en`
-
-State Minister Sanath Nishantha and the police constable, who was his security officer, died in an accident on the Katunayake Expressway near Kandana early this morning.
 
 ◼️
 
@@ -548,7 +606,7 @@ Five suspects and three suspects who were not arrested from the media and three 
 
 *2024-01-25 07:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Jagath-Priyankara-to-fill-vacancy-created-by-Sanath-Nishanthas-death/108-275701) · `en`
 
-Colombo, Jan 25 (Daily Mirror) - Jagath Priyankara from the Jathika Nidahas Peramuna is to fill the vacancy created by the sudden death of State Minister Sanath Nishantha who met with a sudden death this morning.
+Colombo, Jan 25 (Daily Mirror) - Jagath Priyankara from the Jathika Nidahas Peramuna is to fill the vacancy created by the sudden death of State Minister Sanath Nishantha, who met with a fatal accident this morning.
 
 Accordingly, the government will lose a seat as Priyankara is the district leader of the Jathika Nidahas Peramuna led by Wimal Weerawansa who sits in Opposition along with other MPs representing his party.
 
@@ -784,7 +842,7 @@ Meanwhile, the Wanduramba Uruka Ancient Viharaya in Galle will be held from the 
 
 *2024-01-25 06:50:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Have-the-governing-MPs-really-understood-the-Online-Safety-Bill/108-275699) · `en`
 
-An amended Online Safety Bill was passed in Parliament on Wednesday, despite calls from the opposition to delay the debating of the Bill and international organisations urging extensive revisions to be made. The final reading of the Bill however was approved without a vote.
+(COLOMBO) - An amended Online Safety Bill was passed in Parliament on Wednesday, despite calls from the opposition to delay the debating of the Bill and international organisations urging extensive revisions to be made. The final reading of the Bill however was approved without a vote.
 
 For months, the controversial Bill has been criticised by not only opposition politicians but also journalists, activists, business leaders and civil society groups as an attempt by the government to stifle free speech.
 
@@ -930,13 +988,15 @@ The state minister and the police constable died on admission and the driver is 
 
 State Minister Sanath Nishantha and another person have reportedly died in a tragic accident that took place on the Colombo - Katunayake expressway in the early hours of the day.
 
-According to the police, the state minister’s vehicle had rear-ended a container truck around 2:00 a.m. (25 Jan.), before crashing against the roadside barrier.
+According to the police, the state minister’s vehicle had crashed against the roadside barrier before rear-ending a moving container truck around 2:00 a.m. (25 Jan.).
 
-Following the fatal collision, three persons including the lawmaker were rushed to the Colombo North Teaching Hospital in Ragama with critical wounds.
+Following the fatal collision, three persons including State Minister Nishantha were rushed to the Colombo North Teaching Hospital in Ragama with critical wounds.
 
-Hospital sources later confirmed that two persons – State Minister Nishantha and his security guard, a police constable named Jayakody – had succumbed to their injuries. The driver of the vehicle is currently receiving medical attention at the hospital.
+Hospital sources later confirmed that two persons – the lawmaker and his security guard, a police constable named Jayakody – had succumbed to their injuries. The driver of the vehicle is currently receiving medical attention at the hospital.
 
-◼️
+According to reports, the group had been returning from a wedding ceremony held at a hotel in Bandarawatta, Chilaw last night at the time of the accident.
+
+...
 
 [Data](articles/17be8bd7.json)
 
@@ -1951,63 +2011,5 @@ The AMDT School of Creativity recently had the privilege of hosting key official
 [Data](articles/e8a3301f.json)
 
 [Extended Data](ext_articles/e8a3301f.ext.json)
-
----
-
-### Sri Lanka Insurance emerges winner at the ‘Great HR Quiz 2023’
-
-*2024-01-24 20:47:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-emerges-winner-at-the-great-hr-quiz-2023/) · `en`
-
-The HR team of Sri Lanka Insurance recently emerged winners at the Great HR Quiz 2023 in the Insurance, Finance and Investment category. The SLIC HR team was also able to secure an impressive 4th place overall out of the 65 companies participated at the quiz.
-
-The Great HR Quiz 2023 was organized by the Chartered Institute of Personnel Management (CIPM). It is the only quiz dedicated to HRM fraternity to uplift the knowledge and capacity of human resources professionals in Sri Lanka and the quiz covers all aspects of HR and general knowledge of participants.
-
-SLT Digital Services launches innovative School Attendance Notification System as part of ESG initiative
-
-Teejay Lanka & Hemas collaborate to promote menstrual hygiene in rural schools
-
-Sri Lanka Insurance Achieves Milestone with ISO/IEC 27001:2013 Certification for Information Security Management
-
-Sri Lanka Insurance achieves milestone with ISO/IEC 27001: 2013 Certification for Information Security Management
-
-...
-
-[Data](articles/02514b3b.json)
-
-[Extended Data](ext_articles/02514b3b.ext.json)
-
----
-
-### Standard Chartered appoints Rukshila Seneviratne as new Head of Human Resources in Sri Lanka
-
-*2024-01-24 20:44:00* · [`islandlk`](http://island.lk/standard-chartered-appoints-rukshila-seneviratne-as-new-head-of-human-resources-in-sri-lanka/) · `en`
-
-Standard Chartered has announced the appointment of Rukshila Seneviratne as the new Head of Human Resources for Sri Lanka, effective 12th January 2024. In her new role, Rukshila will lead the country’s people strategy and will join the Bank’s Country Management Team. As part of her appointment, she will also assume duties as the Co-Chair of the Bank’s internal Diversity & Inclusion (D&I) Council.
-
-...
-
-[Data](articles/93bd9810.json)
-
-[Extended Data](ext_articles/93bd9810.ext.json)
-
----
-
-### Electricity demand up to 45 GWh
-
-*2024-01-24 20:42:24* · [`adalk`](https://www.ada.lk/breaking_news/විදුලි-ඉල්ලුම-ගිගාවොට්-පැය-45ක්-දක්වා-ඉහළට/11-407719) · `si`
-
-Daily weather conditions have risen to 45 gig රූපට්, and the production of hydroelectricity is increasing due to dry weather.
-
-The daily electricity demand for 40-42 GWh due to the recent rains, the board also said that the production of electricawaot had over 75%.
-
-It is said that the demand for 24 hours to end at 6.00 am yesterday (24) is 45.73 GWh and 50.17% of the electricity (fuel).
-
-A total of 346% of the electrical electricity projects have been established in the hydroelectric power plants, which have been established in large water sources, and the remaining electrification has produced renewable energy.
-
-◼️
-
-[Data](articles/1351d1fb.json)
-
-[Extended Data](ext_articles/1351d1fb.ext.json)
 
 ---

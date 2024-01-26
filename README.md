@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 20:32:57**
+As of **2024-01-26 20:49:52**
 
 ## Newspaper Stats
 
-*Scraped **2,788** Articles*
+*Scraped **2,789** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 151
 newsfirstlk | 155
 economynextcom | 168
 dailyftlk | 202
-adaderanasinhalalk | 253
+adaderanasinhalalk | 254
 adalk | 261
 virakesarilk | 300
 tamilmirrorlk | 349
@@ -26,33 +26,59 @@ dailymirrorlk | 381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,787 (100.0%) of 2,788 articles have been extended.
+2,788 (100.0%) of 2,789 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### ගෙවුණු දින 26ට ජීවිත 6ක් අධිවේගයේ දී බිලිවෙයි
+### බෙලිඅත්ත පංච පුද්ගල ඝාතනය සමඟ එළියට ආ අලුත්ම චරිතය
+
+*2024-01-26 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192603) · `si`
+
+බෙලිඅත්ත පංච පුද්ගල ඝාතනයට ආධාර අනුබල දුන් බව කියන තවත් දෙදෙනෙකු පොලිස් විශේෂ කාර්ය බළකායේ සංවිධානාත්මක අපරාධ මර්දන ඒකකය විසින් අත්අඩංගුවට ගනු ලැබිණි.
+
+සැකකරුවන් පවසා ඇත්තේ, විදෙස්ගත ව සැඟ ව සිටින ඌරගහ මයිකල් නැමැති අපරාධකරුගේ උපදෙස් මත තංගල්ල අධිකරණය අසල දී ප්‍රහාරය එල්ල කිරීමට සැලසුම් කළ බවයි.
+
+බෙලිඅත්තේ දී සිදු වූ පංච පුද්ගල ඝාතනයට ආධාර අනුබල දුන් බව කියන දෙදෙනෙකු ගාල්ල, මාගාල්ල ප්‍රදේශයේ දී හා ගාල්ල, වංචාවල ප්‍රදේශයේ දී පොලිස් විශේෂ කාර්ය බළකායේ සංවිධානාත්මක අපරාධ මර්දන ඒකක අංක එක මගින් ඊයේ (25) පස්වරුවේ අත්අඩංගුවට ගනු ලැබිණි.
+
+ඒ, පොලිස් විශේෂ කාර්ය බළකායේ අණදෙන නිලධාරී ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති වරුණ ජයසුන්දර මහතාගේ උපදෙස් මත සිදු කළ විමර්ශනයක දී ය.
+
+සැකකරුවන් අවුරුදු 25 සහ 35 යන වයස්වල පසු වන අතර, ඔවුන් හෙරොයින් ජාවාරම්කරුවන් බව වාර්තා වේ.
+
+ඔවුන් සතු ව තිබී හෙරොයින් ග්‍රෑම් 9යි මිලිග්‍රෑම් 300ක්, යතුරුපැදියක්, ජංගම දුරකතන 03ක් සහ උල්පිහියක් ද සොයාගෙන තිබේ.
+
+...
+
+[Data](articles/84ee778c.json)
+
+---
+
+### 6 lives navigated at the highway at the end of the last 26 days
 
 *2024-01-26 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192602) · `si`
 
-මේ වසරේ ගතවූ දින 26 තුළ පමණක් අධිවේගී මාර්ගවල සිදුවූ අනතුරුවලින් පුද්ගලයින් 6 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව මාර්ග සංවර්ධන අධිකාරිය පවසයි.
+The Road Development Authority (UPFA) says that six people were killed in highways during the past 26 days alone.
 
-කෙසේවෙතත්, පසුගිය වසරටම අධිවේගී මාර්ගවල සිදුවූ අනතුරුවලින් සිදුව ඇත්තේ පුද්ගල මරණ ගණන 5ක් පමණයි.
+However, there were only 5 deaths due to the candidates on highways.
 
-අධිවේගී මාර්ග භාවිතයේදී මංතීරුවල රථ වාහන අතර නියමිත පරතරය තබා නොගැනීම බොහෝ අනතුරුවලට හේතුවී ඇති බව මාර්ග සංවර්ධන අධිකාරිය පෙන්වා දෙයි.
+The Road Development Authority points out that there were many accidents that there were many dangers of not keeping the prescribed gap.
 
-මේ අතර අධිවේගී මාර්ගවල මෙන්ම අධිවේගී මාර්ග අන්තර්හුවමාරු ස්ථානවල සවිකර ඇති වීදි ලාම්පු බොහෝමයක් ක්‍රියා විරහිත තත්ත්වයට පත්වීම හේතුවෙන් එම ප්‍රදේශ අඳුරු ස්වභාවයක් ගෙන ඇති බව ද "අද දෙරණ" කළ සොයාබැලීමකදී නිරීක්ෂණය වුණි.
+Meanwhile, Ada Derana observed that many of the street lamps had been caused by the exhibition as well as high-speed lamps, as well as many street lamps installed in high-speed lamps.
 
-මාර්ග සංවර්ධන අධිකාරිය පවසන්නේ මත්ද්‍රව්‍යවලට ඇබ්බැහිවූවන් හොර රහසේ විදුලි රැහැන් කපාගෙන යාම මෙම තත්ත්වයට හේතුවී ඇති බවය.
+The Road Development Authority states that this situation has caused this situation to cut off the power cords of drug addicts.
 
-ඊයේ පෙරවරුවේ ද හෝමාගම - නියඳගල අධිවේගී ගුවන් පාලම පහළ වූ රුපියල් දසලක්ෂ පනස්දහසක අධිබලැති විදුලි රැහැන් පද්ධතියේ කොටසක් කපා දමා ඇති බව පොලීසිය පවසයි.
+Police say that a part of the highlighting power wiring has been cut off at a total of Rs.
 
-ඉදිකිරීම් සමාගමේ නියෝජිතයෙකු එම ස්ථානයට ළඟාවනවාත් සමඟම රැහැන් කපමින් සිටි තිදෙනෙක් පළාගොස් ඇති අතර සැකකරුවන් සොයා පොලිස් විමර්ශනයක්ද ආරම්භ කෙරුණි.
+A representative of the construction company had reached the scene with three cords and commenced a police investigation into the suspects.
+
+Meanwhile, a foreigner lost his lives in the Kerawalapitiya Expressway today (26).
 
 ...
 
 [Data](articles/d2d8324e.json)
+
+[Extended Data](ext_articles/d2d8324e.ext.json)
 
 ---
 
@@ -2063,21 +2089,5 @@ The accident occurred when a van crashed into the back of the lorry on the highw
 [Data](articles/0b1ed5ba.json)
 
 [Extended Data](ext_articles/0b1ed5ba.ext.json)
-
----
-
-### Accident on the highway again ... Foreigner killed
-
-*2024-01-26 10:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-அதிவேக-நெடுஞ்சாலையில்-விபத்து-வெளிநாட்டவர்-பலி/175-332131) · `ta`
-
-A foreigner has died in a vehicle accident on the highway and three others have been admitted to the hospital.
-
-The accident occurred when a van crashed into the back of the lorry on the highway between Kadawatha and Karavalapitiya.
-
-◼️
-
-[Data](articles/9617e091.json)
-
-[Extended Data](ext_articles/9617e091.ext.json)
 
 ---

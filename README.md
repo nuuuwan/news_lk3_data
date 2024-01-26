@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 02:02:23**
+As of **2024-01-27 02:32:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,818 (99.6%) of 2,830 articles have been extended.
+2,830 (100.0%) of 2,830 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The opening ceremony was held on Friday, 12 January with the participation of se
 ...
 
 [Data](articles/da41d0f8.json)
+
+[Extended Data](ext_articles/da41d0f8.ext.json)
 
 ---
 
@@ -66,6 +68,8 @@ As the Official Banking Partner, NDB’s dedicated stall invites potential homeo
 
 [Data](articles/9e8017a7.json)
 
+[Extended Data](ext_articles/9e8017a7.ext.json)
+
 ---
 
 ### Nelco Food Products bags Gold award at NIE Awards
@@ -77,6 +81,8 @@ Nelco Food Products Ltd., a leading food company in the country, claimed Gold aw
 ...
 
 [Data](articles/15f8acfa.json)
+
+[Extended Data](ext_articles/15f8acfa.ext.json)
 
 ---
 
@@ -94,6 +100,8 @@ The Ambassador also emphasised on the need to strengthen the economic and trade 
 
 [Data](articles/ca816907.json)
 
+[Extended Data](ext_articles/ca816907.ext.json)
+
 ---
 
 ### India’s 75th Republic Day celebrations in Sri Lanka
@@ -109,6 +117,8 @@ On the occasion, High Commissioner Santosh Jha unfurled India’s national flag 
 ...
 
 [Data](articles/5ee07a5c.json)
+
+[Extended Data](ext_articles/5ee07a5c.ext.json)
 
 ---
 
@@ -126,6 +136,8 @@ Following the Credentials ceremony, President de Sousa hosted resident and non-r
 
 [Data](articles/f36a6ce1.json)
 
+[Extended Data](ext_articles/f36a6ce1.ext.json)
+
 ---
 
 ### Kudos for Sri Lanka in US for ratifying Treaty on Prohibition of Nuclear Weapons
@@ -141,6 +153,8 @@ The CPSR is a local chapter of Physicians for Social Responsibility (PSR) in the
 ◼️
 
 [Data](articles/a73e8e04.json)
+
+[Extended Data](ext_articles/a73e8e04.ext.json)
 
 ---
 
@@ -159,6 +173,8 @@ The event also showcased our longstanding bilateral ties that encompass many sec
 ◼️
 
 [Data](articles/58aeb7f9.json)
+
+[Extended Data](ext_articles/58aeb7f9.ext.json)
 
 ---
 
@@ -179,6 +195,8 @@ b)   Maulana Azad Scholarship Scheme: Masters Degrees courses with preference 
 ...
 
 [Data](articles/a83bc19a.json)
+
+[Extended Data](ext_articles/a83bc19a.ext.json)
 
 ---
 
@@ -250,6 +268,8 @@ Against this backdrop, there is a clear need for economic transformation and tra
 
 [Data](articles/c94cce15.json)
 
+[Extended Data](ext_articles/c94cce15.ext.json)
+
 ---
 
 ### Sri Lanka scales up preventive healthcare with impressive results
@@ -265,6 +285,8 @@ What impressed me the most about the hospital is its investment in preventive ca
 ...
 
 [Data](articles/6eb7d0f8.json)
+
+[Extended Data](ext_articles/6eb7d0f8.ext.json)
 
 ---
 
@@ -283,6 +305,8 @@ Many attempts were made – from politicised staging of Shakespeare and Orwell, 
 ...
 
 [Data](articles/ee6e3cfb.json)
+
+[Extended Data](ext_articles/ee6e3cfb.ext.json)
 
 ---
 

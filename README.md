@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 17:53:10**
+As of **2024-01-26 18:08:32**
 
 ## Newspaper Stats
 
-*Scraped **2,769** Articles*
+*Scraped **2,772** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,30 +17,52 @@ economynextcom | 166
 dailyftlk | 202
 adaderanasinhalalk | 247
 adalk | 261
-virakesarilk | 296
+virakesarilk | 298
 adaderanalk | 347
 tamilmirrorlk | 349
-dailymirrorlk | 380
+dailymirrorlk | 381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,767 (99.9%) of 2,769 articles have been extended.
+2,769 (99.9%) of 2,772 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### චමරි අතපත්තු ට විශේෂ කැඳවීමක්
+### WPL 2024: UP Warriorz names Chamari as replacement for Lauren
+
+*2024-01-26 17:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/WPL-2024-UP-Warriorz-names-Chamari-as-replacement-for-Lauren/108-275788) · `en`
+
+Jan. 26 (SS) - Bell, who was signed by Warriorz in the inaugural WPL auction for her base price of Rs 30 lakh, has withdrawn from the upcoming edition.
+
+UP Warriorz has named Sri Lanka’s Chamari Athapaththu as replacement for England’s Lauren Bell, ahead of the Women’s Premier League (WPL) season next month.
+
+Fast bowler Bell, who was signed by Warriorz in the inaugural WPL auction for her base price of Rs 30 lakh, has withdrawn from the upcoming edition.
+
+Athapaththu is among the most powerful hitters in the game and the Lankan captain is also one of the most experienced players, having featured in over 120 T20Is. Known for her attacking batting, the 33-year-old is the only Lankan woman to have scored a century in T20Is.
+
+The hard-hitting batter finished with 470 runs in 2023, with an impressive strike-rate of 130.91. Her 15 sixes in the year is also a personal high in Women’s T20Is.
+
+...
+
+[Data](articles/46c1588e.json)
+
+---
+
+### Special summon for Chamari Atapattu
 
 *2024-01-26 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192596) · `si`
 
-2024 කාන්තා ප්‍රිමියර් ලීග් තරගාවලියට සහභාගී වීමේ අවස්ථාව චමරි අතපත්තු ට හිමිවී තිබේ.
+Chamari Atapattu has the opportunity to attend the 2024 Women's Premier League.
 
 ◼️
 
 [Data](articles/483f014c.json)
+
+[Extended Data](ext_articles/483f014c.ext.json)
 
 ---
 
@@ -60,7 +82,7 @@ Other companies that saw buying interest were Sampath Bank Plc (up at 68.10), Me
 
 The banks industry (187mn) and diversified financials (150mn) saw some positive interest after weeks of continued selling pressure in the sectors in general.
 
-However, the net foreign outflow since the beginning of this year continued, with today registering an outflow of 28 million. (Colombo/Jan26/2024).
+However, the net foreign outflow seen since the beginning of this year continued, with today registering an outflow of 200 million. (Colombo/Jan26/2024).
 
 ◼️
 
@@ -83,6 +105,8 @@ The Daily Mirror reported on January 5 that Parliament will be prorogoued.
 ◼️
 
 [Data](articles/67ff7801.json)
+
+[Extended Data](ext_articles/67ff7801.ext.json)
 
 ---
 
@@ -132,6 +156,24 @@ All parliamentary committees are automatically dissolved by the prorogation and 
 
 ---
 
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-01-26 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174857) · `ta`
+
+இலங்கை மத்திய வங்கி இன்றைய தினம் வெள்ளிக்கிழமை (26) வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை 323.17 ரூபாயாகவும் கொள்வனவு விலை 313.17 ரூபாயாகவும் பதிவாகியுள்ளது.
+
+அதைப்போன்று ஸ்ரேலிங் பவுண்ட் ஒன்றின் விற்பனை விலை 412.29 ரூபாய் மற்றும் கொள்வனவு விலை 396.57 ரூபாயாகும்.
+
+யூரோ ஒன்றின் விற்பனை விலை 352.03 ரூபாய் எனவும் கொள்வனவு விலை 338.04 ரூபாய் எனவும் குறிப்பிடப்பட்டுள்ளது.
+
+அதன்படி, ஏனைய வெளிநாட்டு நாணய மாற்று விகிதங்கள் தொடர்பாக இன்று (26.01.2024) மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள தகவல்கள் கீழே தரப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/161f8d55.json)
+
+---
+
 ### Sri Lanka Parliament prorogued
 
 *2024-01-26 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96747/sri-lanka-parliament-prorogued) · `en`
@@ -158,9 +200,9 @@ When a new session kicks off, the President has the opportunity to ceremonially 
 
 *2024-01-26 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Election-Commission-notified-of-vacancy-in-parliamentary-seat/108-275783) · `en`
 
-Parliament, Jan. 26 (Daily Mirror)- The Chief of Staff and the Deputy Secretary General of Parliament Chaminda Kularatne, on behalf of Secretary General of Parliament Kushani Rohanadeera, has informed the Chairman of the Election Commission in a letter that a Parliamentary seat has fallen vacant from 25 January 2024, following the demise of Puttalam District Member of Parliament Sanath Nishantha, the Parliament Media Division said.
+Parliament, Jan. 26 (Daily Mirror)- The Parliament has informed the Chairman of the Election Commission in a letter that a Parliamentary seat has fallen vacant from 25 January 2024, following the demise of Puttalam District Member of Parliament Sanath Nishantha, the Parliament Media Division said.
 
-The Deputy Secretary General has further mentioned that this notification is made in terms of Section 64(1) of the Parliamentary Elections Act No. 1 of 1981. The name of the new members who is to fill the vacancy has to be gazetted by the Election Commission as per the act. The new member can be sworn in once his name is gazetted.
+The Deputy Secretary General of Parliament Chaminda Kularatne has further mentioned that this notification is made in terms of Section 64(1) of the Parliamentary Elections Act No. 1 of 1981. The name of the new members who is to fill the vacancy has to be gazetted by the Election Commission as per the act. The new member can be sworn in once his name is gazetted.
 
 The vacancy created by the demise of the State Minister is to be filled by Jagath Priyankara who represents the Jathika Nidahas Peramuna led by MP Wimal Weerawansa. Accordingly, the government will lose one seat.
 
@@ -287,6 +329,22 @@ The officials of the Department, the Secretary of the Ministry of Finance, the S
 [Data](articles/db6766f7.json)
 
 [Extended Data](ext_articles/db6766f7.ext.json)
+
+---
+
+### ஊடக அடக்குமுறைகள், கருத்து வெளிப்பாட்டுச் சுதந்திரத்திற்கு எதிரான நடவடிக்கைகளை கண்டித்து யாழில் போராட்டம்
+
+*2024-01-26 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174852) · `ta`
+
+ஊடக அடக்குமுறைகள் மற்றும் கருத்து வெளிப்பாட்டு சுதந்திரத்திற்கு எதிரான நடவடிக்கைகளை கண்டித்து யாழில், இன்று வெள்ளிக்கிழமை (26) போராட்டம் முன்னெடுக்கப்பட்டது.
+
+யாழ். ஊடக அமையத்தின் ஏற்பாட்டில், யாழ்.பொது நூலகத்தில் இருந்து பேரணியாக யாழ். மத்திய பேருந்து நிலையத்திற்கு சென்று  அங்கு குறித்த போராட்டம் முன்னெடுக்கப்பட்டது.
+
+உழைக்கும் பத்திரிகையாளர் சங்கம் உள்ளிட்ட தென்னிலங்கை ஊடக அமைப்புக்களின் பங்கேற்புடன் முன்னெடுக்கப்பட்ட குறித்த போராட்டத்தில் சிவில் சமூக அமைப்புக்கள் , அரசியல்வாதிகள் உள்ளிட்ட பல்வேறு தரப்பினர் கலந்து கொண்டிருந்தனர்.
+
+◼️
+
+[Data](articles/0207ca38.json)
 
 ---
 
@@ -2039,65 +2097,5 @@ Hela said the acquisition will bring significantly closer to its end customer an
 [Data](articles/24525500.json)
 
 [Extended Data](ext_articles/24525500.ext.json)
-
----
-
-### Two more suspects arrested over Beliatta mass shooting
-
-*2024-01-26 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96733/two-more-suspects-arrested-over-beliatta-mass-shooting) · `en`
-
-Two more individuals have been arrested for allegedly aiding and abetting the mass shooting in Beliatta in which five people were killed earlier this week.
-
-The arrest was made by the Police Special Task Force (STF) in Wanchawala and Megalle areas in Galle on Thursday (Jan.25).
-
-STF officers have also found 9 grams and 300 milligrams of heroin on the suspects.
-
-The duo, aged 25 and 35 years, have been handed over to the Galle Harbour Police for onward investigations.
-
-◼️
-
-[Data](articles/94c8ec61.json)
-
-[Extended Data](ext_articles/94c8ec61.ext.json)
-
----
-
-### Two more suspects under arrest over Beliatta mass shooting
-
-*2024-01-26 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96733/two-more-suspects-under-arrest-over-beliatta-mass-shooting) · `en`
-
-Two more individuals have been arrested for allegedly aiding and abetting the mass shooting in Beliatta in which five people were killed earlier this week.
-
-The arrest was made by the Police Special Task Force (STF) in Wanchawala and Megalle areas in Galle on Thursday (Jan.25) as part of the ongoing island-wide “Yukthiya” operation to crack down on narcotics distribution and organized crimes.
-
-STF officers have seized 9 grams and 300 milligrams of heroin, a knife, 3 mobile phones and a motorcycle from the possession of the suspects.
-
-The duo, aged 25 and 35 years, has been handed over to the Galle Harbour police station for onward investigations.
-
-The investigating officers have uncovered that the two arrestees were involved in orchestrating the mass shooting to be carried out near the Tangalle court premises. Notorious underworld figure “Kosgoda Sujee” had reportedly contracted the drug trafficker operating under the alias “Uragaha Michael” for the killings.
-
-...
-
-[Data](articles/ce4aacdf.json)
-
-[Extended Data](ext_articles/ce4aacdf.ext.json)
-
----
-
-### Two acres raided in 02 acres - 81,000 cannabis plants
-
-*2024-01-26 07:59:10* · [`adalk`](https://www.ada.lk/breaking_news/යලේ-අක්කර-02-ගංජා-වගාවක්-වටලයි---ගංජා-පැල-81000-විනාශ-කරයි/11-407732) · `si`
-
-The Army Intelligence Union and Buttala Special Worker has passed the long-held cannabis in the forest reserve.
-
-81,000 plants were arrested and destroyed the place after 8 feet tall.
-
-The Army Intelligence Union has raided over 2500 kilograms of marijuana during the past two weeks.
-
-◼️
-
-[Data](articles/dd41545e.json)
-
-[Extended Data](ext_articles/dd41545e.ext.json)
 
 ---

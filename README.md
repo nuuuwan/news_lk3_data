@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 01:32:48**
+As of **2024-01-27 01:49:43**
 
 ## Newspaper Stats
 
-*Scraped **2,817** Articles*
+*Scraped **2,818** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 39
+colombotelegraphcom | 40
 bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 151
@@ -26,7 +26,7 @@ dailymirrorlk | 393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,817 (100.0%) of 2,817 articles have been extended.
+2,818 (100.0%) of 2,818 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -539,6 +539,18 @@ However, the Senior Deputy Solicitor General the General stated that the Buddhis
 [Data](articles/2e21d4ac.json)
 
 [Extended Data](ext_articles/2e21d4ac.ext.json)
+
+---
+
+### The Lungs Of The City
+
+*2024-01-26 19:08:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-lungs-of-the-city/) · `en`
+
+...
+
+[Data](articles/d80226b3.json)
+
+[Extended Data](ext_articles/d80226b3.ext.json)
 
 ---
 
@@ -2025,21 +2037,5 @@ Speaking at a conference in Chennai, the Indian Minister for Ports, Shipping and
 [Data](articles/8a31adde.json)
 
 [Extended Data](ext_articles/8a31adde.ext.json)
-
----
-
-### Sri Lanka can employ ‘ed tech’ to make education more equitable: study
-
-*2024-01-26 11:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-employ-ed-tech-to-make-education-more-equitable-study-148757/) · `en`
-
-ECONOMYNEXT – Despite having achieved near-universal participation in education, Sri Lanka has a long way to go in achieving equitable education for vulnerable groups, the Institute of Policy Studies (IPS) said, proposing ‘ed tech’, or education technology, as a possible solution.
-
-A blog authored by IPS Research Assistant Himani Vithanage noted that children with disabilities, out-of-school children, school dropouts, migrant workers’ children, and children from minority communities are among those that do not receive equal access to education in the island nation.
-
-...
-
-[Data](articles/26341503.json)
-
-[Extended Data](ext_articles/26341503.ext.json)
 
 ---

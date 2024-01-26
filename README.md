@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 14:50:05**
+As of **2024-01-26 15:02:09**
 
 ## Newspaper Stats
 
-*Scraped **2,733** Articles*
+*Scraped **2,735** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,37 @@ adalk | 259
 virakesarilk | 295
 adaderanalk | 344
 tamilmirrorlk | 348
-dailymirrorlk | 371
+dailymirrorlk | 373
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,731 (99.9%) of 2,733 articles have been extended.
+2,733 (99.9%) of 2,735 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Team Barishal, Shoaib Malik dismisses match-fixing rumors in BPL
+
+*2024-01-26 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Team-Barishal-Shoaib-Malik-dismisses-match-fixing-rumors-in-BPL/108-275778) · `en`
+
+Jan. 26 (Cricketpakistan) - It was circulating on social media that Malik's contract has been terminated due to match-fixing suspicions
+
+Former Pakistan captain. Shoaib Malik,  who was currently participating in the Bangladesh Premier League (BPL) as a member of Fortune Barishal, has had his contract terminated amid suspicions of involvement in match-fixing.
+
+Reports from the Bangladesh media suggest that suspicions of match-fixing arose when Malik bowled three no-balls in a single over during the match against Khulna Tigers in the BPL.
+
+Malik's bowled one over in the match, where he conceded 18 runs, with two boundaries and a six. Unfortunately, Barishal ended up losing the match by 8 wickets.
+
+Prior to the revelation of these suspicions, Malik had planned to go to Dubai for personal reasons, and Barishal had officially announced his absence from the remaining matches. However, recent reports indicate that the owner of Barishal has decided to abruptly terminate his contract.
+
+...
+
+[Data](articles/f1f30460.json)
+
+---
 
 ### Sharp weapons attack on the flower hall
 
@@ -82,21 +102,23 @@ A source familiar with the plans told Reuters the shop was expected to open with
 
 ---
 
-### ஜனாதிபதி தேர்தல் தொடர்பில்  முடிவெடுப்பது ரணிலோ பாராளுமன்றமோ அல்ல - ரில்வின் சில்வா
+### Ranil nor parliament is not a decision on the presidential election - Rilvin Silva
 
 *2024-01-26 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174841) · `ta`
 
-ஜனாதிபதி தேர்தலை ஆணைக்குழுவைத் தவிர வேறு எவரும் தீர்மானிக்கத் தேவையில்லையென்று தேர்தல் ஆணைக்குழு அலுவலகத்தின் பணிப்பாளர் நாயகம் இரு தடவைகள் ஊடகங்களுக்கு கூறியுள்ள என களுத்துறை மாவட்ட மீனவர் மாநாட்டில் மக்கள் விடுதலை முன்னணியின் பொதுச் செயலாளர்  ரில்வின் சில்வா தெரிவித்துள்ளார்.
+The General Secretary of the Janatha Vimukthi Peramuna (JVP) at the Kalutara District Fisheries Conference said that the Director General of the Election Commission's Office had twice that no one should decide to decide.
 
-ஜனாதிபதித் தேர்தலை நடத்துவதற்கான முழு அதிகாரமும் தேர்தல் ஆணைக்குழுவுக்குத்தான் இருக்கிறது. எனவே, இந்த வருடம் செப்டெம்பர் 17 ஆம் திகதிக்கும்  ஒக்டோபர் 17 ஆம் திகதிக்கும் இடையில் ஜனாதிபதித் தேர்தல் நடைபெறும். அதில் சந்தேகமில்லை.
+The Election Commission has the full authority to hold the presidential election. Therefore, the presidential election will be held between September 17 and October 17 this year.. There is no doubt in it.
 
-அடுத்த ஜனாதிபதித் தேர்தலில் தேசிய மக்கள் சக்தியின் வேட்பாளர் அநுர குமார திசாநாக்க வெற்றி பெறுவார் என்பதில் சந்தேகமில்லை. எம்மவர் ஜனாதிபதியானதன் பின்னர் இந்தப் பாராளுமன்றம் எமக்குத் தேவையில்லையே.  எனவே, இந்தப் பாராளுமன்றத்தைக் கலைத்து புதிய பாராளுமன்றம் ஒன்றை ஸ்தாபித்து இந்த நாட்டை முன்னேற்ற  வேண்டும்.
+There is no doubt that the national People's Power candidate will win the next presidential election. We do not need this parliament after we become president.Therefore, this country should be dissolved and established a new parliament.
 
-அநேகமாக முதலில் ஜனாதிபதித் தேர்தல் நடைபெறும் என்று நாங்கள் நினைக்கிறோம். அடுத்த ஜனாதிபதி தேர்தலில் பெரும்பான்மை மக்களின் ஆதரவு தேசிய மக்கள் சக்தியே அன்றி வேறெதற்கும் இல்லை.
+We think the first presidential election will be held first. The support of the majority of the people in the next presidential election is nothing but the national power of the people.
 
 ...
 
 [Data](articles/7c1836d5.json)
+
+[Extended Data](ext_articles/7c1836d5.ext.json)
 
 ---
 
@@ -157,6 +179,30 @@ Currently, Prince Mohammed bin Salman has taken steps to convert Saudi Arabia in
 [Data](articles/886cc610.json)
 
 [Extended Data](ext_articles/886cc610.ext.json)
+
+---
+
+### Thai police to charge Sri Lankan over pet lion spotted cruising in Bentley
+
+*2024-01-26 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Thai-police-to-charge-Sri-Lankan-over-pet-lion-spotted-cruising-in-Bentley/107-275774) · `en`
+
+Thailand, Jan 26 (BBC) - Police in Thailand have arrested a woman whose pet lion was pictured going on a joyride in the streets of Pattaya.
+
+A video that has now gone viral shows the chained lion cub seated in the back of a white, open-top Bentley.
+
+The lion was being driven about by a Sri Lankan man who has since left the country, and is believed to be a friend of the woman, Sawangjit Kosoongnern.
+
+While it is not illegal to own a lion in Thailand, it needs to be officially registered.
+
+Authorities in Thailand said Ms Sawangjit claimed to have bought the animal from a Thai man in Nakhon Pathom province, who successfully facilitated its delivery to Pattaya.
+
+However he failed to have his facility checked by officials before doing so, which made both the transfer and ownership of the animal illegal.
+
+She is therefore facing charges of possessing a controlled wild animal without permission, which carries a penalty of a year's imprisonment and a fine of up to 100,000 baht ($2,800; £2,200).
+
+...
+
+[Data](articles/48246248.json)
 
 ---
 
@@ -1140,6 +1186,8 @@ At the time of the accident, the Austrian family had been en route to the Bandar
 
 [Data](articles/301ee14a.json)
 
+[Extended Data](ext_articles/301ee14a.ext.json)
+
 ---
 
 ### Card payments’ merchant fee shouldn’t be borne by customers: CB Deputy Governor
@@ -2033,43 +2081,5 @@ Several factors contribute to the escalating vegetable prices in Sri Lanka. Clim
 [Data](articles/571af48a.json)
 
 [Extended Data](ext_articles/571af48a.ext.json)
-
----
-
-### Group connected to certain political party posting insulting posts: Amaraweera
-
-*2024-01-25 21:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Group-connected-to-certain-political-party-posting-insulting-posts-Amaraweera/108-275720) · `en`
-
-Hambantota, Jan. 25 (Daily Mirror)- A group connected to a particular political party and fake account holders have posted insulting posts on State Minister Sanath Nishantha's tragic death, Minister Mahinda Amaraweera said.
-
-He told reporters that they observed those who circulate such insulting posts on social media and came to know that they were being done by a group connected to a certain political party and through fake accounts.
-
-"Lots of insulting posts about his death are shared on social media. We observed who had uploaded such posts. According to the reports, we came to know that it is mostly done by a group connected to a certain political party and through fake accounts. We never upload such insulting posts when someone dies. We are happy that we can trace such posts now whereas it was difficult earlier," he said.
-
-◼️
-
-[Data](articles/7623b926.json)
-
-[Extended Data](ext_articles/7623b926.ext.json)
-
----
-
-### Sanath Nishantha's security officer who died of accident
-
-*2024-01-25 21:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192570) · `si`
-
-The security guard with Minister Sanath Nishantha is the security guard with Minister Sanath Nishantha when the accident occurred.
-
-He was a father of a resident of the Mahawa area and was in the back of the seat of the State Minister.
-
-State Minister Sanath Nishanti has been accidental at around 2 am today at around 2nd kilometer post on the Colombo-Katunayake Expressway.
-
-The jeep was on the back of the container after falling in front of Katunayake to Colombo.
-
-◼️
-
-[Data](articles/799c0f48.json)
-
-[Extended Data](ext_articles/799c0f48.ext.json)
 
 ---

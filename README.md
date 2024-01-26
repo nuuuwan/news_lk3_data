@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 07:52:29**
+As of **2024-01-26 08:03:14**
 
 ## Newspaper Stats
 
-*Scraped **2,655** Articles*
+*Scraped **2,660** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,57 @@ adalk | 255
 virakesarilk | 286
 adaderanalk | 331
 tamilmirrorlk | 337
-dailymirrorlk | 356
+dailymirrorlk | 361
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,655 (100.0%) of 2,655 articles have been extended.
+2,655 (99.8%) of 2,660 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Sanath Nishantha; will he be remembered?
+
+*2024-01-26 06:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sanath-Nishantha-will-he-be-remembered/155-275726) · `en`
+
+Colombo, Jan 26 (Daily Mirror) - Forty-eight-year-old Sanath Nishantha who hailed from Puttalam, left his house late on Wednesday to attend two weddings, one in Kurunegala and another in Chilaw.
+
+While wishing his wife and four children goodbye, little did he know that he would never return.
+
+At approximately 1 a.m. on Thursday (25) morning, while he was returning home on the Katunayake Expressway, his Land Cruiser met with a fatal accident as it rammed into a moving container truck.
+
+His security officer, Police Constable Jayakody and Sanath Nishantha died on the spot. Their bodies were later transferred to the Ragama General Hospital.
+
+SLPP Parliamentarian Sanath Nishantha entered parliament in 2015 and served as the State Minister of Water Supply under the present government. He was a staunch supporter of the Rajapaksas and always remained in the forefront when it came to defending them. However in his few years in politics, did the parliamentarian make his mark?
+
+...
+
+[Data](articles/e903f3ae.json)
+
+---
+
+### Police bust suspect selling organ to buy drugs
+
+*2024-01-26 06:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-bust-suspect-selling-organ-to-buy-drugs/108-275725) · `en`
+
+Jan -26 (Daily Mirror) - In a grim tale of addiction and desperation, Kattankudi Police nabbed two suspects yesterday, uncovering a significant stash of the illegal drug ICE and a shocking story of organ traf­ficking fuelled by addiction.
+
+The raid, led by OIC G.gajanayake, netted a 32-year-old man caught with nearly 3 grams of ICE.
+
+During interrogation, the suspect revealed a chilling truth: he had allegedly sold one of his own kidneys to fund his drug habit.
+
+Adding another layer to this disturbing bust, police apprehended another individual at the scene, found in possession of over 2.4 litres of ICE - a substantial quantity indicative of potential large-scale distribution.
+
+Both suspects were produced before Batticaloa Magistrate M.H.M. Hamza and remanded until February 6th.
+
+◼️
+
+[Data](articles/a83f298b.json)
+
+---
 
 ### The weather from tomorrow will change
 
@@ -75,6 +115,24 @@ The sea areas off the coasts from Colombo to Kankesanturai via Puttalam and Mann
 [Data](articles/fc9a9328.json)
 
 [Extended Data](ext_articles/fc9a9328.ext.json)
+
+---
+
+### Sri Lankans with forged Italian resident cards nabbed at BIA
+
+*2024-01-26 05:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-with-forged-Italian-resident-cards-nabbed-at-BIA/108-275727) · `en`
+
+BIA, Jan 26 (Daily Mirror) - The Immigration and Emigration Department officials at the Bandaranaike International Airport (BIA) searched two Sri Lankan men bound for Dubai on suspicion yesterday and found forged Italian resident visa cards in their possession.
+
+The immigration officials stationed at the BIA departure terminal detained two males who were about to leave for Dubai last evening and handed them over to the Border Surveillance Unit (BSU) for further inquiries.
+
+Although the passengers had genuine Sri Lankan passports the officials out of suspicion searched the men to find two other Sri Lankan passports in their baggage, which were forged along with two fake Italian resident cards.
+
+A senior immigration official told the Daily Mirror the suspects had reportedly received the forged travel documents from an unidentified person outside the airport prior to their travel yesterday. The suspects who were aged 43 and 23 had been identified as residents of Jaffna and Puthukkudiyirrippu.
+
+...
+
+[Data](articles/6b9dac96.json)
 
 ---
 
@@ -964,7 +1022,7 @@ He referred to postings on death cannot be approved.
 
 ---
 
-### Tamil Musician and Singer  Bhavatharini Dies of Cancer in Sri Lankaon 25 January; 47 Year old daughter of Maestro Ilaiyaraja won  Indian National award for song “ Mayil Pola Ponnu Onnu”
+### Tamil Musician and Singer  Bhavatharini  Dies of  Cancer in Sri Lanka  on 25 January; 47 Year old daughter of Maestro Ilaiyaraja won  Indian National award for song “ Mayil Pola Ponnu Onnu”
 
 *2024-01-25 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83503) · `en`
 
@@ -1961,69 +2019,5 @@ The drivers of the two tipper trucks were also admitted with minor injuries to t
 [Data](articles/b0088b45.json)
 
 [Extended Data](ext_articles/b0088b45.ext.json)
-
----
-
-### Devotees seek blessings at Gangarama
-
-*2024-01-25 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Devotees-seek-blessings-at-Gangarama/110-275705) · `en`
-
-Devotees visiting the Gangaramaya Temple in view of the Duruthu Poya day today to engage in religious rituals and receive blessings. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/2b990ff2.json)
-
-[Extended Data](ext_articles/2b990ff2.ext.json)
-
----
-
-### Last activities of the late Sanath Nishantha Sunday Sunday
-
-*2024-01-25 12:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192551) · `si`
-
-The funeral of the late Minister of State Sanath Nishantha is planning to take place on Sunday.
-
-Parliamentarian Mahindananda Aluthgamage said that the funeral was planned in the Arachchikattuwa area.
-
-The remains of Mr. Sanath Nishantha will bring public honor to Jayaratne in Borella tomorrow at 5.30 am at 10.30 am to his residence in Puttalam.
-
-State Minister Sanath Nishantha and his security officer were killed in an accident on the Katunayake Expressway this morning.
-
-The luxury vehicle traveling about two am this morning was accidental.
-
-Headdicles of the jeep were injured in the accident and is receiving treatment at the driver of the jeep hospital.
-
-The magisterial inquiry into the death was held at the Ragama Hospital this morning, "Ada Derana reporter said.
-
-As the death of Mr. Sanath Nishantha, he had reached the Ragama Hospital with the death to the death of Mr. Sanath Nishantha.
-
-◼️
-
-[Data](articles/33d0c8af.json)
-
-[Extended Data](ext_articles/33d0c8af.ext.json)
-
----
-
-### Men's naked festival: Allow women to participate
-
-*2024-01-25 11:57:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஆண்களின்-நிர்வாண-திருவிழா-பெண்கள்-பங்கேற்க-அனுமதி/50-332103) · `ta`
-
-Although we have heard about the villages that are naked for a few days, the strange event of men and nakedness will take place on February 22.
-
-Women have been granted permission to participate in the naked festival of men, 'Hatka Matsuri', which continues for 1675 years in Japan.. In the meantime, the bizarre information has been revealed on the background of the festival.
-
-Some festivals are being held in various countries, including India. These festivals are a symbol of the confidence that the people have in the area are not just for pastime.
-
-In that way, a bizarre festival is celebrated annually in Japan. That is, the name of the festival is the naked festival for men.
-
-The real name of this bizarre festival celebrated in Japan is ‛Hadaka Matsuri '. This is also known as the naked festival of men. At this festival, men will only wear a small amount of cloth on the body. The Konomia shrine is being held in the city of Ichi, Japan.
-
-...
-
-[Data](articles/12337c30.json)
-
-[Extended Data](ext_articles/12337c30.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 07:16:08**
+As of **2024-01-26 07:39:31**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,646 (99.9%) of 2,648 articles have been extended.
+2,648 (100.0%) of 2,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### හෙට සිට කාලගුණය වෙනස් වෙයි
+### The weather from tomorrow will change
 
 *2024-01-26 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192572) · `si`
 
-උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල පවතින වියළි කාලගුණ තත්ත්වයේ වෙනස්වීමක් හෙට (27) දින සිට අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද (26) නිකුත් කළ කාලගුණ නිවේදනයේ දැක්වෙයි.
+The Department of Meteorology has issued a weather notification today (26) a dispute in the North, North-Central and Uva provinces.
 
-එහි වැඩිදුරටත් දැක්වෙන්නේ අද දිනයේ දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතිනු ඇති බවය.
+It further states that today is the mainstill in the country.
 
-අද උදෑසන කාලයේදී නුවරඑළිය දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මල්තුහින ඇතිවීමේ හැකියාවක් ද පවතී.
+There is also a possibility of a flower in some parts of the Nuwara Eliya district this morning.
 
-මධ්‍යම, සබරගමුව, බස්නාහිර සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරයි.
+Some locations in the Galle, Sabaragamuwa, Western and Uva provinces are expected to be methavior in the Galle and Matara districts.
 
 ◼️
 
 [Data](articles/9b918cc6.json)
+
+[Extended Data](ext_articles/9b918cc6.ext.json)
 
 ---
 
@@ -919,6 +921,8 @@ Bhavatharini made her debut as a singer with ‘Raasaiya’. From then, she sang
 ...
 
 [Data](articles/d375e402.json)
+
+[Extended Data](ext_articles/d375e402.ext.json)
 
 ---
 

@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 10:50:02**
+As of **2024-01-26 11:17:12**
 
 ## Newspaper Stats
 
-*Scraped **2,683** Articles*
+*Scraped **2,687** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 39
-bbccomsinhala | 51
+bbccomsinhala | 52
 dbsjeyarajcom | 124
 newsfirstlk | 146
 islandlk | 151
 economynextcom | 154
 dailyftlk | 202
 adaderanasinhalalk | 232
-adalk | 257
+adalk | 258
 virakesarilk | 286
-adaderanalk | 335
+adaderanalk | 337
 tamilmirrorlk | 340
 dailymirrorlk | 366
 
@@ -26,11 +26,31 @@ dailymirrorlk | 366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,683 (100.0%) of 2,683 articles have been extended.
+2,686 (100.0%) of 2,687 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### ‘Vishwa Buddha’ further remanded on another pending case
+
+*2024-01-26 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96737/vishwa-buddha-further-remanded-on-another-pending-case) · `en`
+
+The saffron robed person claiming to be ‘Vishwa Buddha’ has been ordered to be further remanded in custody until 02 February, 2024.
+
+This order was issued when he was produced before the Nugegoda Magistrate’s Court over another pending case, Ada Derana reporter said.
+
+The suspect, who was out on bail, was re-arrested on January 23 by the Criminal Investigations Department (CID) over breach of bail conditions and was presented before the Gangodawila Magistrate’s Court. However, later he was presented before the Colombo Magistrate’s Court as per the orders of the Gangodawila Magistrate.
+
+Earlier, the monk was arrested on December 12 at a private establishment in Kalagedihena by the cybercrimes unit of the Criminal Investigation Department (CID), acting on a complaint received against the self-styled monk who was residing in Ratnapura.
+
+According to police, the saffron-robed monk had allegedly issued statements demeaning Buddhism.
+
+...
+
+[Data](articles/e34709ed.json)
+
+---
 
 ### Israeli - Hamas's verdict on war
 
@@ -67,6 +87,24 @@ The accident occurred when a van crashed into the back of the lorry on the highw
 [Data](articles/9617e091.json)
 
 [Extended Data](ext_articles/9617e091.ext.json)
+
+---
+
+### Alabama executes a man with nitrogen gas, a first in the world
+
+*2024-01-26 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96736/alabama-executes-a-man-with-nitrogen-gas-a-first-in-the-world) · `en`
+
+Alabama executed a convicted murderer with nitrogen gas Thursday, putting him to death with a first-of-its-kind method that once again put the US at the forefront of the debate over capital punishment. The state said the method would be humane, but critics called it cruel and experimental.
+
+Officials said Kenneth Eugene Smith, 58, was pronounced dead at 8:25 pm at an Alabama prison after breathing pure nitrogen gas through a face mask to cause oxygen deprivation. It marked the first time that a new execution method has been used in the United States since lethal injection, now the most commonly used method, was introduced in 1982.
+
+The state had previously attempted to execute Smith, who was convicted of a 1988 murder-for-hire, in 2022, but the lethal injection was called off at the last minute because authorities couldn’t connect an IV line.
+
+...
+
+[Data](articles/8526fe63.json)
+
+[Extended Data](ext_articles/8526fe63.ext.json)
 
 ---
 
@@ -364,6 +402,24 @@ The investigating officers have uncovered that the two arrestees were involved i
 
 ---
 
+### Two acres raided in 02 acres - 81,000 cannabis plants
+
+*2024-01-26 07:59:10* · [`adalk`](https://www.ada.lk/breaking_news/යලේ-අක්කර-02-ගංජා-වගාවක්-වටලයි---ගංජා-පැල-81000-විනාශ-කරයි/11-407732) · `si`
+
+The Army Intelligence Union and Buttala Special Worker has passed the long-held cannabis in the forest reserve.
+
+81,000 plants were arrested and destroyed the place after 8 feet tall.
+
+The Army Intelligence Union has raided over 2500 kilograms of marijuana during the past two weeks.
+
+◼️
+
+[Data](articles/dd41545e.json)
+
+[Extended Data](ext_articles/dd41545e.ext.json)
+
+---
+
 ### Sanath Nishantha reveals
 
 *2024-01-26 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192574) · `si`
@@ -571,6 +627,36 @@ A senior immigration official told the Daily Mirror the suspects had reportedly 
 [Data](articles/6b9dac96.json)
 
 [Extended Data](ext_articles/6b9dac96.ext.json)
+
+---
+
+### 'How I Write': Anurasiri Hettige
+
+*2024-01-26 04:27:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4ndl7jm9exo) · `si`
+
+Reader reviewer is a shorter one as a novelist of Anurasiri Hettige.
+
+His novels that his novels are moving to various software and touching human life and the world appear to be aesthetically touching human life and the world.
+
+I talk to him with the objective of understanding his feelings and writing when he joined him as a novelist.
+
+The questions I hear in this discussion is currently published by I have expressed the 'history of Nimna' (2019) and the novels of this secret wind.
+
+It is well known for all writer's writing process.
+
+Where writing, writing, writing, how to write, the writing of the coffee, belong to the writer's abundance.
+
+The conversation is seeking to pointer to that secret site of the newcomers.
+
+The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
+
+Easice: As usual, I ask you how to hear the first sentences in your novels. Can you say something about your novels?
+
+...
+
+[Data](articles/444f54d6.json)
+
+[Extended Data](ext_articles/444f54d6.ext.json)
 
 ---
 
@@ -1961,75 +2047,5 @@ Chamari Atapattu scored 415 runs while eight ODIs participated in the year 2023.
 [Data](articles/836c1836.json)
 
 [Extended Data](ext_articles/836c1836.ext.json)
-
----
-
-### Ministers, MPs visited Ragama Hospital
-
-*2024-01-25 15:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ministers-MPs-visited-Ragama-Hospital/110-275711) · `en`
-
-Several Ministers and MPs visit the Ragama Hospital, where State Minister Sanath Nishantha was admitted after the fatal accident this morning (25). Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/6c9e0879.json)
-
-[Extended Data](ext_articles/6c9e0879.ext.json)
-
----
-
-### Ministers, MPs visit Ragama Hospital
-
-*2024-01-25 15:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ministers-MPs-visit-Ragama-Hospital/110-275711) · `en`
-
-Several Ministers and MPs visit the Ragama Hospital, where State Minister Sanath Nishantha was admitted after the fatal accident this morning (25). Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/8464aaa1.json)
-
-[Extended Data](ext_articles/8464aaa1.ext.json)
-
----
-
-### Shot at a temple on the day of Poya Day
-
-*2024-01-25 15:10:43* · [`adalk`](https://www.ada.lk/breaking_news/පොහෝ-දිනයේදී-විහාරස්ථානයකට-වෙඩි-ප්‍රහාරයක්/11-407725) · `si`
-
-Dodamgaslanda Uttivarama Ancient Temple has been shot dead today (25) morning.
-
-The Viharadhipathi Panthankithi Thera, Despite the shooting of the house in the house of the house of the workplace, had been shot dead in a nearby lodge, the police said.
-
-According to police investigations, the shooting was carried out with a ripe of a bullets in the shot.
-
-It is reported that the monks have lodged a complaint with the Maduragoda police that he had been threatened with the deaths between the temple and the Chief Incumbent of the temple.
-
-The shooting has been carried out tomorrow (26).
-
-Pannuni Thera has targeted the bowl and threatened the window and the delegation was shot across the window.
-
-The man who was threatened with the death of the death of the incident regarding the incident.
-
-Maduragoda Police Inspector Weeraratne Bandara and other officials are conducting further investigations.
-
-◼️
-
-[Data](articles/d484d448.json)
-
-[Extended Data](ext_articles/d484d448.ext.json)
-
----
-
-### Jagath Priyankara appointed Sanath Nishantha
-
-*2024-01-25 15:04:28* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තගෙන්-හිස්වන-මන්ත්‍රී-ධුරයට-ජගත්-ප්‍රියංකර/11-407724) · `si`
-
-Jagath Priyankara, who was contesting for the last election of the death of Mr. Sanath Nishantha, has been eligible for the post of Vacant Puttalam District Parliamentary Parliamentary Parliamentary Parliamentary Parliamentary Parliament. Jagath Priyankara is a Samurdhi Development Manager.
-
-◼️
-
-[Data](articles/6eae5dec.json)
-
-[Extended Data](ext_articles/6eae5dec.ext.json)
 
 ---

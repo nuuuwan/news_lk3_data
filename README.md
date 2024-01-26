@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 17:02:16**
+As of **2024-01-26 17:17:14**
 
 ## Newspaper Stats
 
-*Scraped **2,761** Articles*
+*Scraped **2,763** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 202
 adaderanasinhalalk | 245
 adalk | 261
 virakesarilk | 296
-adaderanalk | 345
+adaderanalk | 347
 tamilmirrorlk | 349
 dailymirrorlk | 379
 
@@ -26,11 +26,31 @@ dailymirrorlk | 379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,755 (99.8%) of 2,761 articles have been extended.
+2,761 (99.9%) of 2,763 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Sri Lanka Parliament prorogued
+
+*2024-01-26 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96747/sri-lanka-parliament-prorogued) · `en`
+
+Sri Lanka Parliament will be prorogued with effect from midnight on Friday (Jan.26) until February 07 (Wednesday). This marks the closure of the fourth session of the Ninth Parliament.
+
+The prorogation was communicated in a proclamation published in the government gazette by President’s Secretary Saman Ekanayake.
+
+The Extraordinary Gazette was issued by virtue of the powers vested in the President by Article 70 of the Constitution.
+
+Accordingly, the next parliamentary session is scheduled to commence at 10:30 a.m. on February 07.
+
+When a new session kicks off, the President has the opportunity to ceremonially declare open the Parliament and preside over to present the Government’s Policy Statement. In the past, it was known as the Throne Speech and was presented by the Governor. According to current practice, it is neither debated nor put to the vote.
+
+...
+
+[Data](articles/8ac6fda0.json)
+
+---
 
 ### Election Commission notified of vacancy in parliamentary seat
 
@@ -46,39 +66,65 @@ The vacancy created by the demise of the State Minister is to be filled by Jagat
 
 [Data](articles/2c43e75d.json)
 
+[Extended Data](ext_articles/2c43e75d.ext.json)
+
 ---
 
-### පාර්ලිමේන්තු වාර අවසන් කෙරේ
+### Parliamentary Terms of Parliament
 
 *2024-01-26 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192594) · `si`
 
-අද (26) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි පාර්ලිමේන්තු වාර අවසාන කර තිබේ.
+Parliamentarians have been completed this morning (26).
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් නිකුත් කළ ගැසට් නිවේදනයක් මඟාන් පාර්ලිමේන්තුව වාර අවසාන කර ඇති අතර එහි දැක්වෙන්නේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 70 වැනි ව්‍යවස්ථාවෙන් තමා වෙත පැවරී ඇති බලතල ප්‍රකාරව මෙලෙස පාර්ලිමේන්තු වාර අවසාන කරන බවය.
+A gazette notification issued by President Ranil Wickremesinghe has ended the Passover parliament and the Constitution will end the time as well as the end of the powers of the 70th Amendment.
 
-ඒ අනුව පාර්ලිමේන්තුවේ මීළඟ වාරය පෙබරවාරි 7 වැනිදා පෙරවරු 10.30ට ආරම්භ වන බව ජනාධිපතිවරයා සිය ගැසට් නිවේදනය මඟින් දක්වා තිබේ.
+Accordingly, the next season of Parliament will commence at 10.30 am on February.
 
 ◼️
 
 [Data](articles/40f353f9.json)
 
+[Extended Data](ext_articles/40f353f9.ext.json)
+
 ---
 
-### පාකිස්තානයේ ඝාතන දෙකක් - චෝදනාව ඉන්දියාවට
+### WPL 2024: UP Warriorz rope in Chamari Athapaththu as replacement player
+
+*2024-01-26 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96746/wpl-2024-up-warriorz-rope-in-chamari-athapaththu-as-replacement-player) · `en`
+
+The UP Warriorz have roped in Sri Lanka captain Chamari Athapaththu as a replacement for England pacer Lauren Bell, who has withdrawn from the upcoming season of the Women’s Premier League (WPL) 2024.
+
+The Sri Lankan all-rounder was signed by the Warriorz for her base price of 30 Lakhs.
+
+“English fast bowler Lauren Bell has withdrawn from the upcoming season of the TATA Women’s Premier League 2024. UP Warriorz have named Sri Lanka’s Chamari Athapaththu as a replacement for Bell.”
+
+“Among the most powerful hitters in the game, the Lankan captain is also one of the most experienced players, having featured in over 120 T20Is. Known for her attacking batting, Chamari is the only Lankan woman to have scored a century in T20Is. She has been signed for her base price of INR 30 lakh,” read the statement from WPL website.
+
+The Sri Lanka skipper was expected to be one of the stars who was expected to ignite a bidding war during the auction.
+
+...
+
+[Data](articles/343c3ce7.json)
+
+---
+
+### Two Pakistan killings - allegation to India
 
 *2024-01-26 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192593) · `si`
 
-පාකිස්තානය තුළදී ඉන්දීය නියෝජිතයින් විසින් පාකිස්තාන ජාතිකයින් දෙදෙනෙක් ඝාතනය කර ඇතැයි පාකිස්තානය චෝදනා කරයි.
+Pakistan alleges that Indian delegation has killed two Pakistaniists in Pakistan.
 
-නමුත් 2023 වසරේදී වාර්තා වූ එම ඝාතන සම්බන්ධයෙන් වූ චෝදනාව ඉන්දියාව ප්‍රතික්ෂේප කරයි.
+However, India rejects the allegation against the killings reported in 2023.
 
-ඒ සික් ජාතිකයෙක් ඝාතනය කිරීම හේතුවෙනි. එම චෝදනාව ද ඉන්දියාව ප්‍රතික්ෂේප කර තිබුණි.
+It is because of the assassination of a Sikh. India was also denied that allegation.
 
-පාකිස්තාන බලධාරීන් පවසන්නේ රාවලාකොට් සහ සියල්කොට් නගරවලදී 2023 සැප්තැම්බර් සහ ඔක්තෝබර් මාසවල සිදුකර තිබූ ඝාතන දෙක සඳහා ඉන්දීය නියෝජිතයින් සම්බන්ධ බවට ඔවුන් සතුව පැහැදිලි සාක්ෂි ඇති බවයි.
+The Pakistani authorities say that they have clear evidence that Indian representatives are involved in the two killings in Rawalacott and cities in Sepcott cities.
 
 ◼️
 
 [Data](articles/f5189ac3.json)
+
+[Extended Data](ext_articles/f5189ac3.ext.json)
 
 ---
 
@@ -97,6 +143,8 @@ President Ranil Wickremesinghe made these remarks during the International Custo
 ...
 
 [Data](articles/19f12497.json)
+
+[Extended Data](ext_articles/19f12497.ext.json)
 
 ---
 
@@ -135,6 +183,8 @@ The arrest was made based on a complaint filed by a resident of Mahavilacchiya.
 ...
 
 [Data](articles/d550ca2c.json)
+
+[Extended Data](ext_articles/d550ca2c.ext.json)
 
 ---
 
@@ -277,6 +327,8 @@ Several Ministers and MPs including former President Mahinda Rajapaksa paying th
 ◼️
 
 [Data](articles/cb251698.json)
+
+[Extended Data](ext_articles/cb251698.ext.json)
 
 ---
 
@@ -2067,47 +2119,5 @@ Both suspects were produced before Batticaloa Magistrate M.H.M. Hamza and remand
 [Data](articles/a83f298b.json)
 
 [Extended Data](ext_articles/a83f298b.ext.json)
-
----
-
-### The weather from tomorrow will change
-
-*2024-01-26 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192572) · `si`
-
-The Department of Meteorology has issued a weather notification today (26) a dispute in the North, North-Central and Uva provinces.
-
-It further states that today is the mainstill in the country.
-
-There is also a possibility of a flower in some parts of the Nuwara Eliya district this morning.
-
-Some locations in the Galle, Sabaragamuwa, Western and Uva provinces are expected to be methavior in the Galle and Matara districts.
-
-◼️
-
-[Data](articles/9b918cc6.json)
-
-[Extended Data](ext_articles/9b918cc6.ext.json)
-
----
-
-### Greeds arrested for the face of the Netherlands
-
-*2024-01-26 06:22:15* · [`adalk`](https://www.ada.lk/breaking_news/නෙදර්ලන්ත-කතක-මුහුණ-ඉඹින්න-ගිය-ගයිඩ්-අත්අඩංගුවට/11-407731) · `si`
-
-A travel guideline who is said to have been arrested yesterday for a visit to the island yesterday (25).
-
-The suspect was arrested by Petronella Agonita Maria 42 Havrivarn Netherlands.
-
-Police said that he was a 58 sharp person from the Waskaduwa area in Waskaduwa, police said.
-
-The complainant was staying at a house in Waskaduwa area, while she had been speaking in the room and had sexually abused her in the room.
-
-The suspect was to be produced by the Kalutara Magistrate's eraction under accusation of a woman sexually abused.
-
-◼️
-
-[Data](articles/30e52e9c.json)
-
-[Extended Data](ext_articles/30e52e9c.ext.json)
 
 ---

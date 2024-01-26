@@ -1,70 +1,176 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 12:02:47**
+As of **2024-01-26 12:17:14**
 
 ## Newspaper Stats
 
-*Scraped **2,704** Articles*
+*Scraped **2,714** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 39
 bbccomsinhala | 52
 dbsjeyarajcom | 124
-newsfirstlk | 150
+newsfirstlk | 151
 islandlk | 151
-economynextcom | 154
+economynextcom | 158
 dailyftlk | 202
 adaderanasinhalalk | 234
-adalk | 258
+adalk | 259
 virakesarilk | 292
 adaderanalk | 338
 tamilmirrorlk | 344
-dailymirrorlk | 366
+dailymirrorlk | 370
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,702 (99.9%) of 2,704 articles have been extended.
+2,704 (99.6%) of 2,714 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### பாடசாலைகளுக்குள் போதைப்பொருள் தொடர்பான நடவடிக்கையா? தொழிற்சங்கங்கள் கடும் எதிர்ப்பு
+### Russia and India set to revitalize alternative shipping line
+
+*2024-01-26 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Russia-and-India-set-to-revitalize-alternative-shipping-line/107-275772) · `en`
+
+Russia, Jan 26 (Russia Today) - Moscow and New Delhi on Wednesday held detailed talks on reviving the Eastern Maritime Corridor (EMC) connecting Vladivostok in the Russian Far East and Chennai on India’s eastern coast.
+
+The route, which was operational during the Soviet era, is the object of renewed interest from businesses in both countries amid an unprecedented surge in oil, coal, and fertilizer exports from Russia to India, as well as tensions in the Red Sea impacting existing shipping routes.
+
+Speaking at a conference in Chennai, the Indian Minister for Ports, Shipping and Waterways, Sarbananda Sonowal, called the Eastern Maritime Corridor a “game changer” that would save up to 16 days of travel, significantly cutting freight costs. At present, most of the trade between India and Russia is conducted via the Mumbai–St. Petersburg sea route, which traverses the Suez Canal and takes 35-40 days.
+
+...
+
+[Data](articles/8a31adde.json)
+
+---
+
+### Is there a drug -related operation within schools?The unions are fierce opposition
 
 *2024-01-26 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174827) · `ta`
 
-பாடசாலை வளாகத்திற்குள் போதைப்பொருள் சோதனை நடவடிக்கைகளை  முன்னெடுக்கவேண்டாம் என தொழிற்சங்கங்கள் வேண்டுகோள் விடுத்துள்ளன.
+The unions have requested that the drug tests be carried out inside the school premises.
 
-பாடசாலை வளாகப்பகுதிக்குள் முன்னெடுக்கப்படும் விசாரணைகளால் மாணவர்களிற்கு உடல் உளபாதிப்புகள் ஏற்படலாம் என கல்வித்துறை தொழிற்சங்கங்கள்  தெரிவித்துள்ளன.
+The trade unions have said that the investigations carried out inside the school premises can cause physical psychology.
 
-யுக்திய நடவடிக்கைக்கு சமாந்திரமாக பொதுமக்கள் பாதுகாப்பு அமைச்சும்  பொலிஸாரும்  பாடசாலைபகுதிகளில் போதைப்பொருள் ஒழிப்பு நடவடிக்கைகளில் ஈடுபடவுள்ள -போதைப்பொருள் வர்த்தகத்தினை முடக்குவதற்கான நடவடிக்கைகளில் ஈடுபடவுள்ள நிலையில் சட்ட அமுலாக்கல் அதிகாரிகள் பாடசாலைக்குள் எந்த விசாரணைகளையும் மேற்கொள்ளக்கூடாது என தொழிற்சங்கங்கள் வேண்டுகோள் விடுத்துள்ளனர்.
+The trade unions have requested that law enforcement authorities should not conduct any inquiries inside the school as the Public Security Ministry and the police are engaged in drug eradication in school areas and are engaged in the process of disrupting the business trade.
 
-இவ்வாறான விசாரணைகளால் மாணவர்கள் உடல்உளரீதியாக பாதிக்கப்படுவார்கள் அவர்களின் கற்றல் நடவடிக்கைககள் பாதிக்கப்படலாம் என இலங்கை ஆசியர்கள் சேவை சங்கத்தின் பொதுச்செயலாளர் மகிந்த ஜயசிங்க தெரிவித்துள்ளார்.
+The students of Sri Lanka Asians Service Association, Mahinda Jayasinghe, said that such inquiries will be affected by their learning activities.
+
+We have realized the need to eradicate drugs from schools but a complete plan can be eradicated by a complete plan, he said.
+
+He also pointed out that such plans are being carried out in time to make them popular among the people for the needs of the rulers.
 
 ...
 
 [Data](articles/d3baebe7.json)
 
+[Extended Data](ext_articles/d3baebe7.ext.json)
+
 ---
 
-### கூரிய ஆயுதங்களால் தாக்கப்பட்டு கொள்ளை
+### Plundered by sharp weapons
 
 *2024-01-26 11:36:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரிய-ஆயுதங்களால்-தாக்கப்பட்டு-கொள்ளை/175-332136) · `ta`
 
-பமுனுகம தெலத்துர எலபெம்ம பகுதியில் கூரிய ஆயுதங்களால் மூவர் தாக்கப்பட்டுள்ளதுடன், அவர்களின் பணம் மற்றும் தங்க நகைகள் கொள்ளையடிக்கப்பட்டுள்ளன.
+Three people have been attacked by sharp weapons in the Pamunugama Telathura Elabema area and their money and gold jewelery has been looted.
 
-இணையத்தில் வெளியான விளம்பரத்துக்கு அமைய மோட்டார் சைக்கிள் வாங்குவதற்காக லொறியில் வந்த மூவரே இவ்வாறு தாக்கப்பட்டதாக  பொலிஸார் தெரிவித்துள்ளனர்.
+Police said the three men who came in the lorry were attacked to buy a motorcycle on the Internet.
 
-வீதியில் மறைந்திருந்த நால்வர் இந்த தாக்குதலை மேற்கொள்ளப்பட்டுள்ளதுடன், 132,000 ரூபாய் பணம், 5 அலைலைபேசிகள், தங்க நகை மற்றும் வளையல் என்பவற்றை திருடிக்கொண்டு தப்பிச் சென்றுள்ளனர்.
+The attack has been carried out on the road and has escaped by stealing 132,000 rupees of money, 5 telephone, gold jewelery and bracelets.
 
-தாக்குதலில் காயமடைந்தவர்கள் ராகம வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும், கொள்ளைச் சம்பவத்தை மேற்கொண்ட சந்தேக நபர்கள் பமுனுகம பொலிஸாரினால் அடையாளம் காணப்பட்டுள்ளதாகவும் பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+The police headquarters said that the victims of the attack were being treated at the Ragama Hospital and the suspects who carried out the robbery have been identified by the Pamunugama police.
 
 ◼️
 
 [Data](articles/b56fd972.json)
+
+[Extended Data](ext_articles/b56fd972.ext.json)
+
+---
+
+### Alabama carries out first U.S. execution by nitrogen
+
+*2024-01-26 11:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Alabama-carries-out-first-U-S-execution-by-nitrogen/107-275770) · `en`
+
+Alabama, Jan 26 (The New York Times) - Alabama carried out the first American execution using nitrogen gas on Thursday evening, killing a convicted murderer whose jury had voted to spare his life and opening a new frontier in how states execute death row prisoners.
+
+The execution of the condemned prisoner, Kenneth Smith, 58, began at 7:53 p.m. Central time, and he was pronounced dead at 8:25 p.m. in an execution chamber in Atmore, Ala., according to John Q. Hamm, the state prison system’s commissioner.
+
+The U.S. Supreme Court allowed the execution to move forward over the objections of its three liberal justices and concerns from death penalty opponents that the untested method could cause Mr. Smith to suffer.
+
+◼️
+
+[Data](articles/b0d6d14f.json)
+
+---
+
+### Sri Lanka to host UN FAO’s 37th regional conference for Asia Pacific
+
+*2024-01-26 11:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-host-un-faos-37th-regional-conference-for-asia-pacific-148754/) · `en`
+
+ECONOMYNEXT – The UN Food and Agriculture Organisation’s 37th Session of the Regional Conference for Asia and the Pacific (#APRC37) will be held in Colombo, Sri Lanka, from February 19 to 22, the FAO said.
+
+Civil society organisations (CSOs) from Asia and the Pacific are expected to take part in this major multilateral conference aimed at charting a course for the region’s food security and agrifood systems transformation, the FAO, a United Nations (UN) agency, said in a statement.
+
+The CSOs’ participation at the event will “aim to add a collective voice among civil society organisations during their contributions to discussions at the conference – a biennial governing body session of some 46 FAO member nations from across the region. The CSO’s finalised their positions, in advance of #APRC37, during a virtual consultation this week,” the FAO said.
+
+...
+
+[Data](articles/80bb3c77.json)
+
+---
+
+### SJB wants Speaker to call for a party leaders’ meeting before endorsing Online Safety Bill
+
+*2024-01-26 11:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-wants-Speaker-to-call-for-a-party-leaders-meeting-before-endorsing-Online-Safety-Bill/108-275769) · `en`
+
+Colombo, Jan 26 (Daily Mirror) - The Samagi Jana Balawegaya (SJB) today urged Speaker Mahinda Yapa Abeywardene to call for a party leaders' meeting to discuss the Online Safety Bill before endorsing it.
+
+SJB MP Harshana Rajakaruna who raised this matter during a media briefing said his party has decided to urge the Speaker to call for a party leaders' meeting to discuss the Online Safety Bill as the government has not accommodated some of the amendments recommended by the Supreme Courts.
+
+“The Speaker should not endorse the Online Safety Bill as some of the amendments recommended by the Supreme Courts have not been made. Therefore, we urge the Speaker to call for a party leaders' meeting to discuss the matter before endorsing the Bill,” MP Rajakaruna said.
+
+“There will be a conflict between the Legislature and the Judiciary if the Speaker endorses the Bill before the relevant amendments are made,” he added.
+
+...
+
+[Data](articles/46ffe44d.json)
+
+---
+
+### Sri Lanka to amend penal code to criminalise rape of young boys
+
+*2024-01-26 11:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-amend-penal-code-to-criminalise-rape-of-young-boys-148746/) · `en`
+
+ECONOMYNEXT – Sri Lanka will introduce amendments to the Penal Code to make raping of male children a criminal offense.
+
+Sri Lanka’s law does not effectively recognise male rape. Section 363(e) of the Penal Code of Sri Lanka specifically protects girls and fails to recognize that boys can be victims of rape.
+
+The country is also looking to close loopholes in the law on the rape of females, the Cabinet of Ministers decided at this week’s meeting (24), a statement said.
+
+At previous Cabinet meetings (held on 18.01.2021 and 28.06.2021) approval was given “to introduce amendments to the Penal Code to amend laws on constitutional rape of females mentioned in the Penal Code, to correct the shortcomings in the law of raping of females and to institute raping of male children as a criminal offense,” the Cabinet Decisions announcement read.
+
+The Attorney General has now cleared the draft bill formulated by the Legal Draftsman.
+
+...
+
+[Data](articles/db5584ef.json)
+
+---
+
+### 75th Republic Day of India celebrated in Colombo
+
+*2024-01-26 11:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/75th-Republic-Day-of-India-celebrated-in-Colombo/110-275768) · `en`
+
+The Indian High Commission of Sri Lanka celebrated the 75th Republic Day at the India House today (26). The Indian High Commissioner Mr. Santosh Jha unfurled the Indian flag to mark the event. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/3528cb72.json)
 
 ---
 
@@ -145,6 +251,32 @@ Some media reports, citing the findings of ongoing investigations, had mentioned
 [Data](articles/6811bfbe.json)
 
 [Extended Data](ext_articles/6811bfbe.ext.json)
+
+---
+
+### Several government-owned buildings to be handed over to private sector under lease
+
+*2024-01-26 10:53:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/several-government-owned-buildings-to-be-handed-over-to-private-sector-under-lease/) · `en`
+
+COLOMBO (News 1st); The Ministry of Urban Development and Housing says that several government-owned buildings in Colombo, including Visum Paya, are planned to be handed over to the private sector immediately under lease.
+
+Its secretary W. S. Satyananda says the Gafoor building, the Tea Museum and two lands of 3 acres located in DR Wijewardana Mawatha are also planned to be given under lease.
+
+He added an agreement with investors have been reached in this regard.
+
+Apart from this, another government-owned building located in Nuwara Elya is among the buildings that are given on lease.
+
+These buildings and lands are planned to be developed and used effectively as tourist attractions.
+
+The secretary says the buildings will be provided for private sector services without harming archaeological values.
+
+Several government-owned buildings to be handed over to private sector under lease
+
+Face to Face | Ravi Karunanayake | Operation Successful, patient dead
+
+...
+
+[Data](articles/e35df84e.json)
 
 ---
 
@@ -254,6 +386,24 @@ He was married to Kumarapuram, Batticaloa. He was found dead on Friday morning (
 
 ---
 
+### මුහුදේ දිය නෑමට ගිය පස්දෙනකු අතුරින් දෙදෙනෙකු ගසාගෙන ගිහින්
+
+*2024-01-26 10:29:47* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-දිය-නෑමට-ගිය-පස්දෙනකු-අතුරින්-දෙදෙනෙකු-ගසාගෙන-ගිහින්/11-407733) · `si`
+
+කඹුරුපිටියේ හෝටලයක සේවය කරන මිතුරන් පස් දෙනකු ඊයේ (25) දහවල් තංගල්ල, කුඩාවැල්ල මෝදර වැල්ලේ දිය නෑමට ගොස් තිබූ ඇති අතර ,ඉන් තිදෙනකු දිය නෑමට මුහුදට බැස ඇත.මොවුන් දියරැලකට  හසුවී ගසාගෙන ගොස් ඇති අතර  ගසාගෙන යන පුද්ගලයන් දුටු ප්‍රදේශවාසීන්ට ඉන් එක් අයකු බේරාගැනීමට හැකිව තිබූ බව තංගල්ල මූලස්ථාන පොලීසිය පවසයි.
+
+අතුරුදන් වූ තවත් පුද්ගලයකුගේ සිරුර  ඊයේ  පස්වරුව වන විට සොයාගැනීමට හැකිව ඇති බව පොලීසිය කියයි.එසේ මියගොස් ඇත්තේ කළුතර පදිංචි රත්නායක මුදියන්සේලාගේ සම්පත් ප්‍රදීප් කුමාර නමැති 35 හැවිරිදි තරුණයකු ය.
+
+මෝදර  වැ‌ල්ල දිය නෑමට සුදුසු ස්ථානයක් නොවන බව කුඩාවැල්ල මෝදර වැල්ල ආසන්නයේ පදිංචිකරුවන් පොලීසියට පවසා ඇති අතර කඹුරුපිටියේ පදිංචි අහංගමගමගේ උදාර පුෂ්පකුමාර නමැති 25 හැවිරිදි තරුණයාගේ සිරුර සොයාගැනීමට අද (26)උදෑසන වන විටත් නොහැකි වී ඇති බව පොලීසිය කියයි.
+
+අතුරුදන් වූ තරුණයා සොයා ප්‍රදේශවාසී ධීවරයන් සහ පොලීසිය වැඩිදුර විමර්ශන දියත්කර ඇති බව තංගල්ල මූලස්ථාන පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/ee06d323.json)
+
+---
+
 ### China remanded for another case
 
 *2024-01-26 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192580) · `si`
@@ -300,6 +450,8 @@ Shantan, who is currently released in the Rajiv Gandhi murder case, is waiting f
 
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
+Several government-owned buildings to be handed over to private sector under lease
+
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
 International Court of Justice set to rule on Gaza War today
@@ -307,8 +459,6 @@ International Court of Justice set to rule on Gaza War today
 The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 
 Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
-
-World’s first execution by Nitrogen injection carried out in US state of Alabama
 
 ◼️
 
@@ -344,6 +494,8 @@ The court will not rule today on whether Israel has committed acts of genocide. 
 
 The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 
+Several government-owned buildings to be handed over to private sector under lease
+
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
 International Court of Justice set to rule on Gaza War today
@@ -351,8 +503,6 @@ International Court of Justice set to rule on Gaza War today
 The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 
 Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
-
-World’s first execution by Nitrogen injection carried out in US state of Alabama
 
 ◼️
 
@@ -390,6 +540,8 @@ However, critics say it will be strictly affected by Israel politically.
 
 Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
 
+Several government-owned buildings to be handed over to private sector under lease
+
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
 International Court of Justice set to rule on Gaza War today
@@ -397,8 +549,6 @@ International Court of Justice set to rule on Gaza War today
 The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 
 Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
-
-World’s first execution by Nitrogen injection carried out in US state of Alabama
 
 ◼️
 
@@ -481,6 +631,24 @@ Due to this, a delay in the night train from Colombo Fort Railway Station to Bad
 [Data](articles/405aeb0e.json)
 
 [Extended Data](ext_articles/405aeb0e.ext.json)
+
+---
+
+### Sri Lanka rupee opens stronger at 317.10/40 to the US dollar
+
+*2024-01-26 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-317-10-40-to-the-us-dollar-148733/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 317.10/40 to the US dollar on Friday, from 318.10/40 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 13.05/20 percent from 13.05/15 percent.
+
+A bond maturing on 15.05.2030 closed at 13.85/14.00 percent from 13.90/14.00 percent.
+
+The Colombo Stock Exchange was trading up in the first half hour since open: The All Share Price Index was up 0.27 percent at 10,301, and the S&P SL20 was up 0.75 at 2,925.(Colombo/Jan26/2024)
+
+◼️
+
+[Data](articles/70e2ffbb.json)
 
 ---
 
@@ -710,6 +878,26 @@ It was also revealed by the officials that the removal of copper wire from concr
 
 ---
 
+### Sri Lanka’s Hela Apparel buys UK-based Focus Brands
+
+*2024-01-26 08:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-hela-apparel-buys-uk-based-focus-brands-148727/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Hela Apparel Holdings Plc said it had acquired a Focus Brands, UK based brand licensing house, which is involved in design, sourcing, distribution and promotion of sports fashion and lifestyle apparel brands.
+
+Hela has acquired a 100 percent of Focus Brands from JD Sports Fashion Plc, a statement said. The firm paid 8 million sterling pounds, a stock exchange filing said.
+
+“Focus Brands will form the basis for the organisation’s new brand licensing division, which will initially operate independently of the existing apparel manufacturing business,” Hela Apparels said.
+
+“The transaction also marks the first time a Sri Lankan apparel manufacturer has acquired a brand management company in one of its key markets…”
+
+Hela said the acquisition will bring significantly closer to its end customer and expanding its range of services to brand marketing and distribution,
+
+...
+
+[Data](articles/24525500.json)
+
+---
+
 ### Two more suspects arrested over Beliatta mass shooting
 
 *2024-01-26 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96733/two-more-suspects-arrested-over-beliatta-mass-shooting) · `en`
@@ -832,13 +1020,13 @@ Police say the killings were carried out with 2 T56 firearms close to the Beliat
 
 Five individuals including  Saman Perera, the leader of the Ape Janabala Party were victims of the shooting.
 
+Several government-owned buildings to be handed over to private sector under lease
+
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
 International Court of Justice set to rule on Gaza War today
 
 The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
-
-Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
 
 ...
 
@@ -1851,203 +2039,5 @@ Initially there were three contenders in the fray for the ITAK Presidency. The t
 [Data](articles/d76517fd.json)
 
 [Extended Data](ext_articles/d76517fd.ext.json)
-
----
-
-### President Visits Late State Minister Sanath Nishantha’s Home
-
-*2024-01-25 18:16:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/president-visits-late-state-minister-sanath-nishantha%e2%80%99s-home/) · `en`
-
-Colombo (News 1st) – President Ranil Wickremesinghe visited the home of late State Minister Sanath Nishantha and condoled with his wife and four children today (25th).
-
-The state minister died in a motor accident on the Airport Expressway in the early hours of Thursday.
-
-Face to Face | Ravi Karunanayake | Operation Successful, patient dead
-
-International Court of Justice set to rule on Gaza War today
-
-The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
-
-Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
-
-World’s first execution by Nitrogen injection carried out in US state of Alabama
-
-◼️
-
-[Data](articles/d496300b.json)
-
-[Extended Data](ext_articles/d496300b.ext.json)
-
----
-
-### Export Zones will be established across the country - President
-
-*2024-01-25 18:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/174799) · `ta`
-
-President Ranil Wickremesinghe has promised to improve the country within the next few years with the role model of Biyagama.
-
-The President pointed out that when he came to the Biyagama electoral constituency that started his political career, the president said that the area was very backward and that Biyagama has made great improvement in a short time due to the proper economic decisions, including the establishment of the Biyagama Investment Zone.
-
-In the same way, the President said that the new investment zones across the country will be created to improve the national economy ten times to benefit the open economy.
-
-President Ranil Wickremesinghe said this while attending the newly constructed Bodhi Madil and Gold Valley inauguration in Sabukaskanda Abeesekerama on Thursday (25).
-
-...
-
-[Data](articles/bc1a7ef6.json)
-
-[Extended Data](ext_articles/bc1a7ef6.ext.json)
-
----
-
-### No rain tomorrow - Nuwara Eliya
-
-*2024-01-25 18:07:38* · [`adalk`](https://www.ada.lk/breaking_news/හෙට-වැස්ස-නෑ---නුවරඑළියට-මල්-තුහින/11-407729) · `si`
-
-The Department of Meteorology says that tomorrow is a key weather in the island tomorrow.
-
-The Department says that there is a possibility of failure in the Nuwara Eliya district in the Nuwara Eliya district.
-
-The Department further stated that some of the morning in the Central, Sabaragamuwa, Western and Uva Palaturawela districts are expected to be met with Meaththewa.
-
-◼️
-
-[Data](articles/0e44dc7f.json)
-
-[Extended Data](ext_articles/0e44dc7f.ext.json)
-
----
-
-### A man who bathing in the sea of Kaduwela dies: The other is magic!
-
-*2024-01-25 18:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/174796) · `ta`
-
-Two of the two men who were bathing in the Kaduwela Sea in Hambantota have died and the other disappeared, police said.
-
-The body of a 35 -year -old man has been recovered and a 25 -year -old man has disappeared, police said.
-
-◼️
-
-[Data](articles/5c870fe1.json)
-
-[Extended Data](ext_articles/5c870fe1.ext.json)
-
----
-
-### Sanath Nishantha looks for slanderous posts
-
-*2024-01-25 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192565) · `si`
-
-Minister of Agriculture Mahinda Amaraweera said that he had conducted a discontent expressing a discernment of the death of Sanath Nishantha's death.
-
-He referred to postings on death cannot be approved.
-
-"His death has been published in social media's worst. It explained to us who would put the comment every day. When you look into this time,. It's the crowd of a party is the. Or the man's man cannot say:. We have been investigated.. According to reports received, one party connected to one party and Faq Either. We're happy.. It will be able to find them now. It's hard to sit before. "
-
-◼️
-
-[Data](articles/311ea5b9.json)
-
-[Extended Data](ext_articles/311ea5b9.ext.json)
-
----
-
-### Tamil Musician and Singer  Bhavatharini  Dies of  Cancer in Sri Lanka  on 25 January; 47 Year old daughter of Maestro Ilaiyaraja won  Indian National award for song “ Mayil Pola Ponnu Onnu”
-
-*2024-01-25 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83503) · `en`
-
-Music director Ilaiyaraaja’s daughter and playback singer Bhavatharini died of cancer on January 25. According to reports, she went to Sri Lanka to get treated for liver cancer. However, she died at around 5 pm in Sri Lanka.
-
-Her body will be brought to Chennai tomorrow, January 26, where the final rites will take place. She is survived by her husband. Bhavatharini was 47 years old.
-
-She is the daughter of Ilaiyaraaja and sister of Karthik Raja and Yuvan Shankar Raja. She won the National Film Award for Best Female Playback singer for Tamil song, ‘Mayil Pola Ponnu Onnu’ from ‘Bharathi’.
-
-Ilaiyaraaja’s daughter, Bhavatharini’, was a playback singer and music composer. For the past six months, she had been treated for liver cancer. Recently, she was taken to Sri Lanka to get further treatment, where she died at a private hospital.
-
-Bhavatharini made her debut as a singer with ‘Raasaiya’. From then, she sang songs for her father, Ilaiyaraaja, and brothers, Karthik Raja and Yuvan Shankar Raja.
-
-...
-
-[Data](articles/d375e402.json)
-
-[Extended Data](ext_articles/d375e402.ext.json)
-
----
-
-### Man held for raping elderly aunt for two years
-
-*2024-01-25 17:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Man-held-for-raping-elderly-aunt-for-two-years/108-275714) · `en`
-
-Anuradhapura, Jan. 25 (Daily Mirror)- A 38-year-old man from Kekirawa has been arrested for allegedly raping his aunt, an elderly woman who was caring for her ailing brother.
-
-The victim, who is unmarried, told police that she had been raped under threat of death for about two years.
-
-The suspect was arrested yesterday morning and is due to be produced before the Kikirawa Magistrate's Court today.
-
-The Women and Children's Bureau of Kekirawa Police are conducting further investigations.
-
-◼️
-
-[Data](articles/8985b875.json)
-
-[Extended Data](ext_articles/8985b875.ext.json)
-
----
-
-### The President expressed his condolences to Sanath Nishantha's residence
-
-*2024-01-25 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/174797) · `ta`
-
-President Ranil Wickremesinghe, who was on his way to the residence of Minister Sanath Nishantha, who died in a vehicle accident, consoled his family on Thursday morning.
-
-The President expressed his condolences to his family members over the sudden death of the diplomatic minister.
-
-◼️
-
-[Data](articles/24bcc45b.json)
-
-[Extended Data](ext_articles/24bcc45b.ext.json)
-
----
-
-### The North and Eastern Coordinating Committee has made 11 request for all Tamil political parties
-
-*2024-01-25 17:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174795) · `ta`
-
-Coordinator Kandumani Lavakugarasa said that all Tamil political parties and parties should immediately pay attention to the 11 demands that we make in order to find a power -sharing solution for the united North and East, which joined the United States.
-
-North East Coordinating Committee Coordinator Kandumani Lavakugarasa issued a media statement on Thursday (25).
-
-In the history of Tamil national politics and the history of the TNA, the first vote of party leadership is welcomed by the democratic character.
-
-In the present context of the internal political, regional politics and international environment of Sri Lanka, there are massive obligations in front of Parliamentarian Sivagnanam Sridharan, who is responsible for the leadership of the TNA.. The collapse Tamil national politics must be rebuilt with the participation of widespread people.
-
-...
-
-[Data](articles/ea5f8919.json)
-
-[Extended Data](ext_articles/ea5f8919.ext.json)
-
----
-
-### Man drowns in sea - another disappeared
-
-*2024-01-25 17:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192563) · `si`
-
-Three persons who had gone to Kudawella madaratu sea were hit by the waves around 2.30 pm today (25).
-
-One of them had survived and another person was found.
-
-The body was found in Kalutara, a 35 year old resident of Kalutara.
-
-Another has disappeared and he is a 25 year old resident of Kamburupitiya.
-
-A group of five people had arrived in the sea, and three of them had gone to the sea.
-
-◼️
-
-[Data](articles/301a8b97.json)
-
-[Extended Data](ext_articles/301a8b97.ext.json)
 
 ---

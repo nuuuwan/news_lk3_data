@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 13:17:02**
+As of **2024-01-26 13:33:09**
 
 ## Newspaper Stats
 
-*Scraped **2,720** Articles*
+*Scraped **2,723** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 39
 bbccomsinhala | 52
 dbsjeyarajcom | 124
-newsfirstlk | 151
 islandlk | 151
+newsfirstlk | 152
 economynextcom | 158
 dailyftlk | 202
 adaderanasinhalalk | 235
 adalk | 259
 virakesarilk | 294
-adaderanalk | 340
+adaderanalk | 342
 tamilmirrorlk | 344
 dailymirrorlk | 371
 
@@ -26,11 +26,63 @@ dailymirrorlk | 371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,720 (100.0%) of 2,720 articles have been extended.
+2,720 (99.9%) of 2,723 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Sri Lanka’s economy suffered due to ‘politics of promises’ - President
+
+*2024-01-26 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96743/sri-lankas-economy-suffered-due-to-politics-of-promises-president) · `en`
+
+President Ranil Wickremesinghe has urged all political parties to formulate a comprehensive plan for rebuilding the country, especially when gearing up for the elections.
+
+Addressing an event at the Sri Lanka Customs headquarters in Colombo this morning, the Head of State emphasized that the nation’s economy has suffered due to the ‘politics of promises’.
+
+The event was organized to mark International Customs Day observed annually on January 26, the President’s Media Division (PMD) said.
+
+Further, addressing the gathering, the President appealed to the political parties to unite for discussions with the International Monetary Fund (IMF) on potential alternative proposals.
+
+He also expressed his readiness to extend an invitation to IMF’s Managing Director Kristalina Georgieva to visit Sri Lanka for this crucial dialogue.
+
+◼️
+
+[Data](articles/faf0f469.json)
+
+---
+
+### SC begins hearing of more than 20 petitions against Anti-Terrorism Bill
+
+*2024-01-26 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96742/sc-begins-hearing-of-more-than-20-petitions-against-anti-terrorism-bill) · `en`
+
+Hearing of petitions filed against the government’s new Anti-Terrorism Bill got underway before a five-member Supreme Court judge bench this morning (Jan.26).
+
+Chief Justice Jayantha Jayasuriya and Justices A.H.M.D. Nawaz, Shiran Gunaratne and Arjuna Obeysekera sat for the petition hearing.
+
+At least 27 petitions have been put forward against the proposed legislation which seeks to replace the controversial Prevention of Terrorism Act (PTA). Among the petitioners are His Eminence Malcolm Cardinal Ranjith, General Secretary of Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara, National People’s Power (NPP) MP Vijitha Herath, Centre for Policy Alternatives (CPA), Socialist Youth Union (SYU), Duminda Nagamuwa of Frontline Socialist Party (FSP) and the Ceylon Teachers’ Union (CTU).
+
+...
+
+[Data](articles/d8ae44c5.json)
+
+---
+
+### The body of a youth's body was recovered while sleeping in Batticaloa
+
+*2024-01-26 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174817) · `ta`
+
+A 21 -year -old youth has been found dead in Nawaladi, Batticaloa.
+
+He was married to Kumarapuram, Batticaloa. He was found dead on Friday morning (26).
+
+◼️
+
+[Data](articles/a5102b9b.json)
+
+[Extended Data](ext_articles/a5102b9b.ext.json)
+
+---
 
 ### Electricity supply to Bambalapitiya railway station disconnected over unpaid bills
 
@@ -123,6 +175,30 @@ Nelliyadi police are conducting investigations as the injured youth is being tre
 [Data](articles/e1f610f3.json)
 
 [Extended Data](ext_articles/e1f610f3.ext.json)
+
+---
+
+### Austrian citizen dies and two others injured in an accident in the expressway
+
+*2024-01-26 11:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/austrian-citizen-dies-and-two-others-injured-in-an-accident-in-the-expressway/) · `en`
+
+COLOMBO (News 1st); A 37-year-old Austrian citizen has died and two others have been injured in an accident on the expressway between Kadavata and Kerawalapitiya.
+
+Police say the accident occurred when a van collided with the a lorry around 7 this morning.
+
+Austrian citizen dies and two others injured in an accident in the expressway
+
+Several government-owned buildings to be handed over to private sector under lease
+
+Face to Face | Ravi Karunanayake | Operation Successful, patient dead
+
+International Court of Justice set to rule on Gaza War today
+
+The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
+
+◼️
+
+[Data](articles/99b3080f.json)
 
 ---
 
@@ -402,9 +478,9 @@ These buildings and lands are planned to be developed and used effectively as to
 
 The secretary says the buildings will be provided for private sector services without harming archaeological values.
 
-Several government-owned buildings to be handed over to private sector under lease
+Austrian citizen dies and two others injured in an accident in the expressway
 
-Face to Face | Ravi Karunanayake | Operation Successful, patient dead
+Several government-owned buildings to be handed over to private sector under lease
 
 ...
 
@@ -504,22 +580,6 @@ According to police, the saffron-robed monk had allegedly issued statements deme
 
 ---
 
-### The body of a youth's body was recovered while sleeping in Batticaloa
-
-*2024-01-26 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174817) · `ta`
-
-A 21 -year -old youth has been found dead in Nawaladi, Batticaloa.
-
-He was married to Kumarapuram, Batticaloa. He was found dead on Friday morning (26).
-
-◼️
-
-[Data](articles/a5102b9b.json)
-
-[Extended Data](ext_articles/a5102b9b.ext.json)
-
----
-
 ### Two of five people who were bathing in the sea
 
 *2024-01-26 10:29:47* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-දිය-නෑමට-ගිය-පස්දෙනකු-අතුරින්-දෙදෙනෙකු-ගසාගෙන-ගිහින්/11-407733) · `si`
@@ -586,6 +646,8 @@ Shantan, who is currently released in the Rajiv Gandhi murder case, is waiting f
 
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
+Austrian citizen dies and two others injured in an accident in the expressway
+
 Several government-owned buildings to be handed over to private sector under lease
 
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
@@ -593,8 +655,6 @@ Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 International Court of Justice set to rule on Gaza War today
 
 The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
-
-Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
 
 ◼️
 
@@ -630,6 +690,8 @@ The court will not rule today on whether Israel has committed acts of genocide. 
 
 The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 
+Austrian citizen dies and two others injured in an accident in the expressway
+
 Several government-owned buildings to be handed over to private sector under lease
 
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
@@ -637,8 +699,6 @@ Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 International Court of Justice set to rule on Gaza War today
 
 The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
-
-Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
 
 ◼️
 
@@ -676,6 +736,8 @@ However, critics say it will be strictly affected by Israel politically.
 
 Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
 
+Austrian citizen dies and two others injured in an accident in the expressway
+
 Several government-owned buildings to be handed over to private sector under lease
 
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
@@ -683,8 +745,6 @@ Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 International Court of Justice set to rule on Gaza War today
 
 The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
-
-Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
 
 ◼️
 
@@ -1160,13 +1220,13 @@ Police say the killings were carried out with 2 T56 firearms close to the Beliat
 
 Five individuals including  Saman Perera, the leader of the Ape Janabala Party were victims of the shooting.
 
+Austrian citizen dies and two others injured in an accident in the expressway
+
 Several government-owned buildings to be handed over to private sector under lease
 
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
 International Court of Justice set to rule on Gaza War today
-
-The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 
 ...
 
@@ -2015,61 +2075,5 @@ Forest police are conducting further investigations into the incident. Remble
 [Data](articles/e6060a3f.json)
 
 [Extended Data](ext_articles/e6060a3f.ext.json)
-
----
-
-### Remains of late State Minister Sanath Nishantha lie in state
-
-*2024-01-25 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96728/remains-of-late-state-minister-sanath-nishantha-lie-in-state) · `en`
-
-President Ranil Wickremesinghe visited the residence of the late State Minister Sanath Nishantha this afternoon (Jan.25) to offer his condolences to the bereaved family members.
-
-State Minister Sanath Nishantha lost his life in a tragic accident on the Colombo - Katunayake expressway early this morning.
-
-The deceased lawmaker is now lying in state at Jayaratne Funeral Parlour in Borella, and the members of the public are allowed to pay their last respects.
-
-The casket will be brought to the late state minister’s residence in Puttalam at 10:30 a.m. tomorrow (Jan.26).
-
-According to the police, the state minister’s vehicle had crashed against the roadside barrier before rear-ending a moving container truck around 2:00 a.m. today.
-
-Following the fatal collision, three critically injured people including State Minister Nishantha had been rushed to the Colombo North Teaching Hospital in Ragama.
-
-...
-
-[Data](articles/a1b1ac3b.json)
-
-[Extended Data](ext_articles/a1b1ac3b.ext.json)
-
----
-
-### ICC. Women's ODI player Chamari
-
-*2024-01-25 19:29:30* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී--වසරේ-කාන්තා-එක්දින-ක්‍රීඩිකාව-චමරි/9-407730) · `si`
-
-Sri Lanka Cricket Leader Chamari Atapattu International Cricket Council has been named as one of the year in relation to 2023.
-
-In 2023, she was able to indicate special talent and scored 415 runs in 8 matches and scored 415 runs in 8 matches.. She also guided the Sri Lankan team for the history of the history of Sri Lanka against New Zealand.
-
-◼️
-
-[Data](articles/a5d9fb7e.json)
-
-[Extended Data](ext_articles/a5d9fb7e.ext.json)
-
----
-
-### President visits residence of late State Minister Sanath Nishantha
-
-*2024-01-25 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96727/president-visits-residence-of-late-state-minister-sanath-nishantha) · `en`
-
-President Ranil Wickremesinghe has visited the residence of the late State Minister Sanath Nishantha this afternoon (Jan.25) to offer his condolences to the bereaved family members.
-
-State Minister Sanath Nishantha lost his life in a tragic accident on the Colombo - Katunayake expressway early this morning.
-
-◼️
-
-[Data](articles/1bffd3ca.json)
-
-[Extended Data](ext_articles/1bffd3ca.ext.json)
 
 ---

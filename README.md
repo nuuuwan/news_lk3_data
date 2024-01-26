@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 18:20:22**
+As of **2024-01-26 18:33:17**
 
 ## Newspaper Stats
 
-*Scraped **2,773** Articles*
+*Scraped **2,775** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 202
 adaderanasinhalalk | 248
 adalk | 261
 virakesarilk | 298
-adaderanalk | 347
+adaderanalk | 349
 tamilmirrorlk | 349
 dailymirrorlk | 381
 
@@ -26,29 +26,31 @@ dailymirrorlk | 381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,772 (100.0%) of 2,773 articles have been extended.
+2,773 (99.9%) of 2,775 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### මිහින්තලේ හිමිට තර්ජනය කළ පුද්ගලයා රිමාන්ඩ්
+### Man remanded for threatening Mihintale Thero
 
 *2024-01-26 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192597) · `si`
 
-මිහින්තලේ රජමහා විහාරාධිපති පූජ්‍ය  වලවාහැංගුණවැවේ ධම්මරතන හිමියන්ට අපහාසාත්මක හා තර්ජනාත්මක ප්‍රකාශය නිකුත් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවෙකු ලබන 31 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+The Colombo Magistrate's Court prescribed the suspects to be remanded until the 31st of the Issuing of Ven.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් මෙම සැකකරු අද (26) දහවල් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා ඉදිරියට පමුණුවනු ලැබීය.
+The suspect was arrested by the Criminal Investigation Department (CID) and the Chief Magistrate Prasanna Alwis.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් අධිකරණය හමුවේ කරුණු දක්වමින් මිහින්තලේ රජමහා විහාරයේ විහාරාධිපති හිමියන්ට තර්ජනය කරමින් හා අපහාසාත්මක ප්‍රකාශ නිකුත් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් මෙම සැකකරු අත්අඩංගුවට ගත් බව සඳහන් කළේය.
+The Criminal Investigations Department officials threatened the Chief Incumbent of the Mihintale Raja Maha Viharaya and arrested the suspect in connection with the appointment of defamatory statements.
 
-සැකකරු සම්බන්ධයෙන් තවදුරටත් විමර්ශන සිදුකරන හෙයින් ඔහු රක්ෂිත බන්ධනාගාර ගත කරන ලෙසත් පොලීසිය අධිකරණයෙන් ඉල්ලා සිටියේය.
+The police also requested the court to be remanded as he was conducting further investigations into the suspect.
 
-එම ඉල්ලීම පිළිගත් මහෙස්ත්‍රාත්වරයක කරුණු ලබන 31 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
+The request was ordered to be remanded until 31st on 31st of the 31st of the magistrate.
 
 ◼️
 
 [Data](articles/9fb82ecd.json)
+
+[Extended Data](ext_articles/9fb82ecd.ext.json)
 
 ---
 
@@ -74,6 +76,22 @@ The hard-hitting batter finished with 470 runs in 2023, with an impressive strik
 
 ---
 
+### Petition filed against tax-defaulted distilleries
+
+*2024-01-26 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96749/petition-filed-against-tax-defaulted-distilleries-) · `en`
+
+A Fundamental Rights (FR) petition has been filed before the Supreme Court against the distilleries that have defaulted on excise tax payments.
+
+This petition has been filed by a group including social activist Sanjaya Mahawaththa seeking an order suspending the licenses issued to the tax-defaulted distilleries and to recover the overdue tax payments from the relevant companies.
+
+The Commissioner General of the Department of Excise and its officials, Secretary of the Ministry of Finance, State Minister of Finance Ranjith Siyambalapitiya and several others have been named as the respondents of the petition.
+
+◼️
+
+[Data](articles/9871e811.json)
+
+---
+
 ### Special summon for Chamari Atapattu
 
 *2024-01-26 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192596) · `si`
@@ -85,6 +103,24 @@ Chamari Atapattu has the opportunity to attend the 2024 Women's Premier League.
 [Data](articles/483f014c.json)
 
 [Extended Data](ext_articles/483f014c.ext.json)
+
+---
+
+### President promises to facilitate meeting with IMF to clarify doubts or alternative proposals
+
+*2024-01-26 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96748/president-promises-to-facilitate-meeting-with-imf-to-clarify-doubts-or-alternative-proposals) · `en`
+
+President Ranil Wickremesinghe has extended an invitation to all political party leaders in the Parliament to engage in discussions with the Managing Director of the International Monetary Fund (IMF) on the implementation of the agreement with the IMF.
+
+Emphasizing the importance of unity in leading the country to success, he highlighted that withdrawing from the agreement would jeopardize the trust in Sri Lanka’s economy.
+
+The President stressed that the nation’s economy suffered due to the politics of promises, emphasizing the need for all political parties to formulate comprehensive plans for the country’s development when gearing up for an election.
+
+President Ranil Wickremesinghe made these remarks during the International Customs Day celebrations at the Colombo Customs Headquarters this morning (Jan.26).
+
+...
+
+[Data](articles/617617ce.json)
 
 ---
 
@@ -2057,49 +2093,5 @@ The luxury vehicle he was traveling was in front of the safety fence and the inj
 [Data](articles/6e5a5fa2.json)
 
 [Extended Data](ext_articles/6e5a5fa2.ext.json)
-
----
-
-### Two suspects arrested for murder Beliatta
-
-*2024-01-26 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192575) · `si`
-
-Two suspects have been arrested under the allegations of supporting the murder of Beliatta.
-
-The two persons have arrested the police STF in the Galle Sakrawala area with heroin with heroin.
-
-Five people including our fartune member of our fartune member Saman Perera alias Royal Beach Saman were murdered by the shooting.
-
-The arrested were 25 and 35 years of resident of Galle.
-
-At the time of the arrest, they had found 9 g of heroin and 300 milligrans, a motorbike, three mobile phones and a match.
-
-The suspects have been handed over to the Galle Harbor Police for further investigations.
-
-The suspects were also attacked by the Tangalle Urasgoda Pepami to kill the five persons including the Tangalle Pig ෙන් na.It is also reported that these suspects have been revealed that the murder contract has been uncovered.
-
-◼️
-
-[Data](articles/d6f87455.json)
-
-[Extended Data](ext_articles/d6f87455.ext.json)
-
----
-
-### Katunayake expressway in the dark
-
-*2024-01-26 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Katunayake-expressway-in-the-dark/108-275728) · `en`
-
-Katunayake, Jan 26 (Daily Mirror) - It was recently reported that it was impossible to turn on the lights of the Katunayake expressway as thieves have cut and removed the high-voltage electricity cables.
-
-It was reported that the robberies had taken place around six months ago.
-
-It was also revealed by the officials that the removal of copper wire from concrete covers of the new “Kalyani” Bridge, which was built with a Japanese loan and the removal of cables of the Katunayake expressway has caused a loss of 286 million rupees.
-
-◼️
-
-[Data](articles/31fb8981.json)
-
-[Extended Data](ext_articles/31fb8981.ext.json)
 
 ---

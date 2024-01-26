@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 00:17:17**
+As of **2024-01-27 00:32:51**
 
 ## Newspaper Stats
 
-*Scraped **2,813** Articles*
+*Scraped **2,817** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,85 @@ adalk | 265
 virakesarilk | 300
 tamilmirrorlk | 352
 adaderanalk | 357
-dailymirrorlk | 389
+dailymirrorlk | 393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,813 (100.0%) of 2,813 articles have been extended.
+2,813 (99.9%) of 2,817 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-01-27 (Saturday)
+
+### The Attack on ITAK  Jaffna MP,  Shritharan in  Anuradhapura
+
+*2024-01-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Attack-on-ITAK-Jaffna-MP-Shritharan-in-Anuradhapura/172-275815) · `en`
+
+A noteworthy incident was the attack launched on the vehicle he was travelling in by “unknown” gunmen more than 23 years ago. In the news story appearing in the “Uthayan”, Shritharan was quoted that the attack was a planned attempt to kill him and that his Tamil political opponents who were aligned with the government for concessions and ministerial posts were responsible.
+
+Shritharan has been projecting himself as a supporter and fellow traveller of the LTTE from the time he entered Parliament. This has earned him bouquets from pro-Tiger elements and brickbats from anti-Tiger elements. While the pro-LTTE label has helped him in politics, it has at times placed him in jeopardy too
+
+...
+
+[Data](articles/85adc22f.json)
+
+---
+
+### Can The New ITAK Leader Help Bring About Reconciliation?
+
+*2024-01-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Can-The-New-ITAK-Leader-Help-Bring-About-Reconciliation/172-275802) · `en`
+
+With the end of the war in 2009, the ITAK again gained its clout as the main Tamil party in the country as well as within the TNA. Despite other Tamil parties in the north having grown as a threat to its hegemony in the north and the Tamil politics, the ITAK is still a force to be reckoned with
+
+Many in the south seem to confuse the Tamil National Alliance (TNA) with the Ilankai Thamil Arasu Katchi (ITAK), the group that can be considered to be the main Tamil political party in the country, especially in the north. This confusion was evident by the news items carried by some of the south based newspapers on the election of the Leader of the ITAK last Sunday (January 21).
+
+Some Sinhala newspapers said that Sivagnanam Sritharan was elected as the Leader of the TNA, while the others rightly described him to be the new President (Leader) of the ITAK.
+
+...
+
+[Data](articles/a709cd40.json)
+
+---
+
+### From Wijeweera to AKD - Changing Faces of the JVP
+
+*2024-01-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/From-Wijeweera-to-AKD-Changing-Faces-of-the-JVP/172-275801) · `en`
+
+Election fever is in the air. Whether it be in the south with over 70 percent of the population or the Northern Province (which is home to the largest minority), elections are a hot topic. In the south, three political parties - namely the National People’s Power (an alliance of individuals and organisation centred around the Janatha Vimukthi Peramuna - JVP), the Samagi Jana Balawegaya (SJB) and the United National Party (UNP) have named their candidates for the upcoming Presidential election.
+
+Anura Kumara Dissanayake popularly known as ‘AKD’ is the nominee of the NPP/JVP combine. The SJB nominee is Sajith Premadasa, and President Ranil Wickremasinghe is the nominee of the UNP
+
+The Sri Lanka Freedom Party (SLFP) and the Sri Lanka Podujana Peramuna (SLPP) have not put forward candidates of their own, and are expected to support either the UNP or SJB candidate.
+
+...
+
+[Data](articles/fd101d6a.json)
+
+---
+
 ### 2024-01-26 (Friday)
+
+### Fisherman, helper arrested for abusing 12-year-old boy
+
+*2024-01-26 23:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fisherman-helper-arrested-for-abusing-12-year-old-boy/108-275793) · `en`
+
+A young man who dragged a 12-year-old boy offshore and sexually abused him and a 16-year-old boy who aided and abetted it were arrested by Angulana Police yesterday.
+
+The victim told police that he was picking shells on the beach when the two suspects dragged him into the water, pulled his trousers down and sexually abused him. He said while the young man abused him, the other boy enjoyed it by watching. He said he went home in a sarong burrowed from a fisherman.
+
+The two suspects were arrested during investigations of a complaint received from the victim’s parents.
+
+Investigations revealed that the main suspect was a fisherman in Angulana beach and the other his helper and that they were residents of Sayurupura housing scheme. The victim was referred to JMO Colombo South Hospital. The suspects were to be produced before Moratuwa Magistrate.
+
+OIC Crime Investigation Branch SI Prabodha is conducting further investigations on the instructions of OIC Angulana Police CI Sujeewa Ekanayaka.
+
+◼️
+
+[Data](articles/d24e0ad7.json)
+
+---
 
 ### Promotion to Constable Death with Sanath Nishantha
 
@@ -1965,93 +2033,5 @@ A blog authored by IPS Research Assistant Himani Vithanage noted that children w
 [Data](articles/26341503.json)
 
 [Extended Data](ext_articles/26341503.ext.json)
-
----
-
-### Sri Lankan faces charges in Thailand over pet lion joyride
-
-*2024-01-26 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96740/sri-lankan-faces-charges-in-thailand-over-pet-lion-joyride) · `en`
-
-Police in Thailand have arrested a woman whose pet lion was pictured going on a joyride in the streets of Pattaya.
-
-A video that has now gone viral shows the chained lion cub seated in the back of a white, open-top Bentley.
-
-The lion was being driven about by a Sri Lankan man who has since left the country, and is believed to be a friend of the woman, Sawangjit Kosoongnern.
-
-While it is not illegal to own a lion in Thailand, it needs to be officially registered.
-
-Authorities in Thailand said Ms Sawangjit claimed to have bought the animal from a Thai man in Nakhon Pathom province, who successfully facilitated its delivery to Pattaya.
-
-However he failed to have his facility checked by officials before doing so, which made both the transfer and ownership of the animal illegal.
-
-She is therefore facing charges of possessing a controlled wild animal without permission, which carries a penalty of a year’s imprisonment and a fine of up to 100,000 baht ($2,800; £2,200).
-
-...
-
-[Data](articles/fd6decd0.json)
-
-[Extended Data](ext_articles/fd6decd0.ext.json)
-
----
-
-### Is there a drug -related operation within schools?The unions are fierce opposition
-
-*2024-01-26 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174827) · `ta`
-
-The unions have requested that the drug tests be carried out inside the school premises.
-
-The trade unions have said that the investigations carried out inside the school premises can cause physical psychology.
-
-The trade unions have requested that law enforcement authorities should not conduct any inquiries inside the school as the Public Security Ministry and the police are engaged in drug eradication in school areas and are engaged in the process of disrupting the business trade.
-
-The students of Sri Lanka Asians Service Association, Mahinda Jayasinghe, said that such inquiries will be affected by their learning activities.
-
-We have realized the need to eradicate drugs from schools but a complete plan can be eradicated by a complete plan, he said.
-
-He also pointed out that such plans are being carried out in time to make them popular among the people for the needs of the rulers.
-
-...
-
-[Data](articles/d3baebe7.json)
-
-[Extended Data](ext_articles/d3baebe7.ext.json)
-
----
-
-### Plundered by sharp weapons
-
-*2024-01-26 11:36:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரிய-ஆயுதங்களால்-தாக்கப்பட்டு-கொள்ளை/175-332136) · `ta`
-
-Three people have been attacked by sharp weapons in the Pamunugama Telathura Elabema area and their money and gold jewelery has been looted.
-
-Police said the three men who came in the lorry were attacked to buy a motorcycle on the Internet.
-
-The attack has been carried out on the road and has escaped by stealing 132,000 rupees of money, 5 telephone, gold jewelery and bracelets.
-
-The police headquarters said that the victims of the attack were being treated at the Ragama Hospital and the suspects who carried out the robbery have been identified by the Pamunugama police.
-
-◼️
-
-[Data](articles/b56fd972.json)
-
-[Extended Data](ext_articles/b56fd972.ext.json)
-
----
-
-### Alabama carries out first U.S. execution by nitrogen
-
-*2024-01-26 11:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Alabama-carries-out-first-U-S-execution-by-nitrogen/107-275770) · `en`
-
-Alabama, Jan 26 (The New York Times) - Alabama carried out the first American execution using nitrogen gas on Thursday evening, killing a convicted murderer whose jury had voted to spare his life and opening a new frontier in how states execute death row prisoners.
-
-The execution of the condemned prisoner, Kenneth Smith, 58, began at 7:53 p.m. Central time, and he was pronounced dead at 8:25 p.m. in an execution chamber in Atmore, Ala., according to John Q. Hamm, the state prison system’s commissioner.
-
-The U.S. Supreme Court allowed the execution to move forward over the objections of its three liberal justices and concerns from death penalty opponents that the untested method could cause Mr. Smith to suffer.
-
-◼️
-
-[Data](articles/b0d6d14f.json)
-
-[Extended Data](ext_articles/b0d6d14f.ext.json)
 
 ---

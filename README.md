@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 00:32:51**
+As of **2024-01-27 00:47:13**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,813 (99.9%) of 2,817 articles have been extended.
+2,815 (99.9%) of 2,817 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ Shritharan has been projecting himself as a supporter and fellow traveller of th
 
 [Data](articles/85adc22f.json)
 
+[Extended Data](ext_articles/85adc22f.ext.json)
+
 ---
 
 ### Can The New ITAK Leader Help Bring About Reconciliation?
@@ -59,6 +61,8 @@ Some Sinhala newspapers said that Sivagnanam Sritharan was elected as the Leader
 ...
 
 [Data](articles/a709cd40.json)
+
+[Extended Data](ext_articles/a709cd40.ext.json)
 
 ---
 

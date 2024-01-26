@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 19:17:19**
+As of **2024-01-26 19:32:50**
 
 ## Newspaper Stats
 
-*Scraped **2,778** Articles*
+*Scraped **2,785** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 151
 newsfirstlk | 154
-economynextcom | 166
+economynextcom | 168
 dailyftlk | 202
-adaderanasinhalalk | 248
+adaderanasinhalalk | 251
 adalk | 261
-virakesarilk | 298
+virakesarilk | 300
 tamilmirrorlk | 349
 adaderanalk | 352
 dailymirrorlk | 381
@@ -26,11 +26,25 @@ dailymirrorlk | 381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,776 (99.9%) of 2,778 articles have been extended.
+2,778 (99.7%) of 2,785 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### ජාත්‍යන්තර අධිකරණයෙන් නියෝගයක්
+
+*2024-01-26 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192600) · `si`
+
+ගාසා තීරයේ සමූල ඝාතන සිදුවීම් වැළැක්වීම සඳහා සියලු පියවර ගත යුතු බව ජාත්‍යන්තර අධිකරණය විසින් ඊශ්‍රායලයට නියෝග කර තිබේ.
+
+ඊශ්‍රායලයට එරෙහි ව දකුණු අප්‍රිකාව විසින් ගොනු කර තිබුණු සමූල ඝාතන චෝදනා විභාගයට ගත් ජාත්‍යන්තර අධිකරණය විසින් මෙම නියෝගය නිකුත් කර ඇත.
+
+◼️
+
+[Data](articles/80e924d8.json)
+
+---
 
 ### World Court orders Israel to prevent acts of genocide, fails to order ceasefire
 
@@ -48,6 +62,42 @@ In Friday’s ruling, the judges said Israel must take all measures within its p
 
 [Data](articles/d0db3f83.json)
 
+[Extended Data](ext_articles/d0db3f83.ext.json)
+
+---
+
+### சனத் நிஷாந்தவின் மறைவு முழு நாட்டுக்கும் பேரிழப்பு! - மஹிந்த ராஜபக்க்ஷ அனுதாபம்
+
+*2024-01-26 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174855) · `ta`
+
+இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மறைவு எமது கட்சிக்கு மாத்திரமல்ல முழு நாட்டுக்கும் பேரிழப்பு. புத்தளம் மாவட்டம் சிறந்த தலைமைத்துவத்தை இழந்து விட்டது என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+
+கட்டுநாயக்க அதிவேக நெடுஞ்சாலையில் வியாழக்கிழமை (25) அதிகாலை இடம்பெற்ற வீதி விபத்தில் உயிரிழந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் பூதவுடல் கொழும்பில் உள்ள மலர்சாலையில் வைக்கப்பட்டிருந்தது. ஆளும் மற்றும் எதிரணியின் பாராளுமன்ற உறுப்பினர்கள் உட்பட பொதுமக்கள் பூதலுடலுக்கு அஞ்சலி செலுத்தினார்கள்.
+
+பூதவுடலுக்கு அஞ்சலி செலுத்திய முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்க்ஷ தனது அனுதாபத்தை தெரிவித்துக் கொண்டு இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மறைவு எமது கட்சிக்கு மாத்திரமல்ல நாட்டுக்கும் பேரழிப்பு. அச்சம் என்பது அறியாதவர். பல சவாலான சந்தர்ப்பத்திலும் முன்னின்று செயற்பட்டுள்ளார். புத்தளம் மாவட்டம் சிறந்த தலைமைத்துவத்தை இழந்து விட்டது என்றார்.
+
+◼️
+
+[Data](articles/dc09141f.json)
+
+---
+
+### பாராளுமன்ற உறுப்பினர் பதவியில் வெற்றிடம் தேர்தல் ஆணைக்குழுவுக்கு உத்தியோகபூர்வமாக அறிவித்தது பாராளுமன்றம்!
+
+*2024-01-26 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/174856) · `ta`
+
+புத்தளம் தேர்தல் மாவட்டத்தின் பாராளுமன்ற உறுப்பினர் சனத் நிஷாந்தவின் மறைவைத் தொடர்ந்து 2024 ஜனவரி 25ஆம் திகதி முதல் ஒன்பதாவது பாராளுமன்றத்தில் உறுப்பினர் ஒருவருக்கான வெற்றிடம் ஏற்பட்டிருப்பதாக பாராளுமன்ற செயலாளர் நாயகம் சார்பில் பாராளுமன்ற பதவியணித் தலைமை அதிகாரியும், பிரதி செயலாளர் நாயகமுமான சமிந்த குலரத்ன தேர்தல்கள் ஆணைக்குழுவின் தலைவருக்கு எழுத்து மூலம் அறிவித்துள்ளார்.
+
+1981ஆம் ஆண்டின் 1ஆம் இலக்க பாராளுமன்றத் தேர்தல்கள் சட்டத்தின் 64(1) ஆம் பிரிவின் பிரகாரம் பாராளுமன்ற செயலாளர் நாயகம் சார்பில் இதனை அறியத் தருவதாக பிரதிச் செயலாளர் நாயகம் இந்தக் கடிதத்தின் மூலம் தெரிவித்துள்ளார்.
+
+கட்டுநாயக்க அதிவேக நெடுஞ்சாலையில் கந்தானை பகுதியில் வியாழக்கிழமை (25) அதிகாலை இடம்பெற்ற கோர விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த மற்றும் அவரது பாதுகாப்பு பொலிஸ் அதிகாரி ஒருவர் உயிரிழந்தார்.
+
+சனத் நிஷாந்தவின் மறைவையொட்டி ஏற்பட்டுள்ள பாராளுமன்ற வெற்றிடத்துக்கு 2020 ஆம் ஆண்டு இடம்பெற்ற பொதுத்தேர்தலில் பொதுஜன போட்டியிட்ட ஜகத் பியங்கரவின் பெயர் தேர்தல் தெரிவத்தாட்சி பத்திரத்தில் உள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/969b994e.json)
+
 ---
 
 ### New Board of Directors appointed to SLT
@@ -61,6 +111,42 @@ This appointments come under the directives of President Ranil Wickremesinghe, S
 ◼️
 
 [Data](articles/bcef6172.json)
+
+[Extended Data](ext_articles/bcef6172.ext.json)
+
+---
+
+### Sri Lanka Police to take street children into custody
+
+*2024-01-26 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-to-take-street-children-into-custody-148838/) · `en`
+
+ECONOMYNEXT – Sri Lanka Police said it will continue to take street children into the State’s custody and eventually place them with a suitable guardian, a DIG said.
+
+“An operation to take street children into custody in 2023 saw us take into custody 102 street kids who were used for begging,” Deputy Inspector General of Police Renuka Jayasundara said at a press briefing.
+
+“We were able to place them with suitable guardians. We will continue this operation in 2024,” she added.
+
+The Police has also introduced a 109 hotline for child and female victims of any form of abuse to reach out to them.
+
+“This line is handled by female officers who will protect your privacy,” Jayasundara said, pointing out that victims of abuse usually avoid going to a Police station because of the treatment they are meted out.
+
+The government was improving laws to curb child molestation and compiling a sex offender list, officials said at the briefing. (Colombo/Jan26/2024)
+
+◼️
+
+[Data](articles/961bea91.json)
+
+---
+
+### ශ්‍රී ලංකා ටෙලිකොම් ආයතනයට නව අධ්‍යක්ෂ මණ්ඩලයක්
+
+*2024-01-26 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192599) · `si`
+
+ශ්‍රී ලංකා ටෙලිකොම් ආයතනයට නව අධ්‍යක්ෂ මණ්ඩලයක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පත්කර තිබේ.
+
+◼️
+
+[Data](articles/692f759b.json)
 
 ---
 
@@ -84,6 +170,22 @@ The police said the state minister’s vehicle had crashed against the roadside 
 
 ---
 
+### දියේ ගිලී පාසල් සිසුවෙක් ජීවිතක්ෂයට
+
+*2024-01-26 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192598) · `si`
+
+මාතලේ - රත්තොට - බණ්ඩරපොළ - සේරුගොල්ල ඔයේ දිය නෑමට ගොස් සිටි වයස අවුරුදු 16ක පාසල් සිසුවෙකු ජීවිතක්ෂයට පත් ව තිබේ.
+
+මිය ගොස් ඇත්තේ, මාතලේ සාන්ත තෝමස් විද්‍යාලයේ ඉගෙනුම ලබන මෙවර අපොස සාමාන්‍ය පෙළ විභාගයට පෙනී සිටීමට නියමිත ව සිටි සිසුවෙකු.
+
+ඔහු මාතලේ කවුඩුපැළැල්ල - ගල්වඩුකුබුර ප්‍රදේශයේ පදිංචි සිසුවෙකු වන අතර, සිසුවා යහළුවන් සමඟ දිය නෑමට ගොස් මෙසේ ජීවිතක්ෂයට පත් ව ඇති බව මාතලේ - කන්දේනුවර පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/7c8c233d.json)
+
+---
+
 ### Man remanded for threatening Mihintale Thero
 
 *2024-01-26 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192597) · `si`
@@ -103,6 +205,30 @@ The request was ordered to be remanded until 31st on 31st of the 31st of the mag
 [Data](articles/9fb82ecd.json)
 
 [Extended Data](ext_articles/9fb82ecd.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 317.50/80 to the US dollar
+
+*2024-01-26 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-317-50-80-to-the-us-dollar-148820/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 317.50/80 to the US dollar on Friday, from 318.10/40 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 closed at 13.10/20 percent from 13.05/15 percent.
+
+A bond maturing on 15.09.2027 closed at 13.45/60 percent from 13.35/50 percent.
+
+A bond maturing on 15.03.2028 closed at 13.70/80 percent from 13.60/75 percent.
+
+A bond maturing on 15.07.2029 closed at 13.95/14.00 percent from 13.85/95 percent.
+
+A bond maturing on 15.05.2030 closed stable at 13.90/14.00 percent.
+
+A bond maturing on 01.07.2032 closed at 14.00/10 percent from 14.00/15 percent. (Colombo/Jan26/2024)
+
+◼️
+
+[Data](articles/2d610236.json)
 
 ---
 
@@ -1945,149 +2071,5 @@ The Colombo Stock Exchange was trading up in the first half hour since open: The
 [Data](articles/70e2ffbb.json)
 
 [Extended Data](ext_articles/70e2ffbb.ext.json)
-
----
-
-### Daughter of legendary music director Ilaiyaraaja dies of cancer in Sri Lanka
-
-*2024-01-26 09:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daughter-of-legendary-music-director-Ilaiyaraaja-dies-of-cancer-in-Sri-Lanka/108-275752) · `en`
-
-Colombo, Jan 26 (India Today) - Legendary music director Ilaiyaraaja's daughter and playback singer Bhavatharini died of cancer on Thursday (25) in Sri Lanka.
-
-According to reports, she went to Sri Lanka to get treated for liver cancer. However, she died at around 5 pm in Sri Lanka. Her body will be brought to Chennai today (January 26), where the final rites will take place. She is survived by her husband. Bhavatharini was 47 years old.
-
-She is the daughter of Ilaiyaraaja and sister of Karthik Raja and Yuvan Shankar Raja. She won the National Film Award for Best Female Playback singer for Tamil song, 'Mayil Pola Ponnu Onnu' from 'Bharathi'.
-
-Ilaiyaraaja's daughter, Bhavatharini', was a playback singer and music composer. For the past six months, she had been treated for liver cancer. Recently, she was taken to Sri Lanka to get further treatment, where she died at a private hospital.
-
-...
-
-[Data](articles/9e63a130.json)
-
-[Extended Data](ext_articles/9e63a130.ext.json)
-
----
-
-### Government allocates Rs.1,000 million for small scale irrigation reconstructions in 2024
-
-*2024-01-26 09:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-allocates-Rs-1-000-million-for-small-scale-irrigation-reconstructions-in-2024/108-275749) · `en`
-
-Colombo, Jan 26 (Daily Mirror) - Government has allocated Rs.1,000 million for 2024 for the reconstruction of small-scale tanks, culverts and embankments in the country.
-
-This allocation has been made through the Agrarian Development Department for the reconstruction of 17,000 small scale irrigation systems in the country.
-
-These renovation works started last year with Rs.1,000 million allocated for 2023.
-
-The construction work of around 1,100 tanks, which were carried out under the full supervision of the Agrarian Development Department have been successfully completed by now.
-
-According to Agriculture Minister Mahinda Amaraweera, many lakes including Wariyapola Moonamale Lake, Nikawewa, Balalla Borawawa, Katupetiwawa, Niyadagalawawa, Amunakole cascade System, Galkandegama Lake, Matambalawa, Bakmeewewa and Kudawawa have been renovated by using government funds and several paddy fields which had not been cultivated for years have been cultivated successfully.
-
-...
-
-[Data](articles/064071e0.json)
-
-[Extended Data](ext_articles/064071e0.ext.json)
-
----
-
-### Two more arrested over Beliatta shooting
-
-*2024-01-26 09:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-more-arrested-over-Beliatta-shooting/108-275746) · `en`
-
-Galle, Jan 26 (Daily Mirror) - Two more suspects have been arrested on suspicion of aiding and abetting the shooting in Beliatta where five persons were killed.
-
-Police said the two suspects were arrested by the Police Special Task Force at the Wanchawala area in Galle while also in possession of heroin.
-
-Five persons, including the leader of the 'Ape Jan Bala Party', Saman Perera alias Royal Beach Saman, were killed in the shooting.
-
-Police said the arrested suspects, aged 25 and 35, were identified as residents of Galle.
-
-At the time of arrest, 09 grams and 300 milligrams of heroin, a motorcycle, three mobile phones and a knife were found in their possession.
-
-The suspects have been handed over to the Galle Harbour Police Station for further investigations.
-
-Police earlier arrested the main suspect in connection with the shooting and he was detained for further questioning.
-
-◼️
-
-[Data](articles/4282758e.json)
-
-[Extended Data](ext_articles/4282758e.ext.json)
-
----
-
-### Another fatal accident on a highway
-
-*2024-01-26 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192577) · `si`
-
-One person was killed and three others were hospitalized after an accident on the Expressway.
-
-A van collided with the back of a lorry in the expressway on the Expressway.
-
-◼️
-
-[Data](articles/0ae455c6.json)
-
-[Extended Data](ext_articles/0ae455c6.ext.json)
-
----
-
-### Foreigner dead, 3 others injured in expressway collision
-
-*2024-01-26 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96735/foreigner-dead-3-others-injured-in-expressway-collision) · `en`
-
-A deadly collision on the Kadawatha expressway has claimed the life of a foreign national, Ada Derana learns.
-
-Three others who were injured in the accident have been admitted to the Colombo North Teaching Hospital in Ragama for immediate medical attention.
-
-According to reports, the van, which the foreign national and the others were travelling in, had rear-ended a lorry in the Kerawalapitiya area.
-
-◼️
-
-[Data](articles/279d5f0a.json)
-
-[Extended Data](ext_articles/279d5f0a.ext.json)
-
----
-
-### Austrian national dead, 2 others injured in fatal expressway collision
-
-*2024-01-26 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96735/austrian-national-dead-2-others-injured-in-fatal-expressway-collision) · `en`
-
-A tragic collision on the Kadawatha - Kerawalapitiya section of the Outer Circular Highway has claimed the life of an Austrian national this morning (Jan.26), Ada Derana learns.
-
-According to reports, a lorry had made a sudden stop on the left lane of the motorway after experiencing a breakdown in Kerawalapitiya area. But then, the van, hired by the Austrian national and his parents, had rear-ended the lorry, killing the 37-year-old at the scene.
-
-The deceased’s mother, 60, and the driver of the van were injured in the accident and were admitted to the Colombo North Teaching Hospital in Ragama for immediate medical attention. The father, however, remains unscathed.
-
-Meanwhile, the driver of the van has been taken into custody by the police.
-
-At the time of the accident, the Austrian family had been en route to the Bandaranaike International Airport (BIA) in Katunayake to catch a flight to return to their home country after wrapping up their vacation in Sri Lanka.
-
-◼️
-
-[Data](articles/301ee14a.json)
-
-[Extended Data](ext_articles/301ee14a.ext.json)
-
----
-
-### Card payments’ merchant fee shouldn’t be borne by customers: CB Deputy Governor
-
-*2024-01-26 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Card-paymentsmerchant-feeshouldnt-be-borne-by-customers-CB-Deputy-Governor/108-275740) · `en`
-
-Merchant fees which are at most times conveniently passed on to the customer should not be borne by the customer, the Central Bank asserted this week.
-
-As per agreements inked between banks and vendors, the fee must be absorbed by the merchant himself.
-
-Speaking on the issue, the Central Bank’s Senior Deputy Governor, Yvette Fernando said they have made aware the merchants at times who should bear the merchant fee which often gets added to the cost of purchase, and has made even the banks aware to pass on the message and to ensure that this doesn’t recur.
-
-Although the practice has been known and in public for a very long time, no one or nothing has been done to address the issue. And it appears even the continuous awareness campaigns the Central Bank claims to have been conducting have not been followed by the merchants and even the banks.
-
-...
-
-[Data](articles/5003bbf7.json)
-
-[Extended Data](ext_articles/5003bbf7.ext.json)
 
 ---

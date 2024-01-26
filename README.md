@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 08:50:50**
+As of **2024-01-26 09:02:34**
 
 ## Newspaper Stats
 
-*Scraped **2,663** Articles*
+*Scraped **2,666** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,44 @@ newsfirstlk | 145
 islandlk | 151
 economynextcom | 154
 dailyftlk | 202
-adaderanasinhalalk | 226
+adaderanasinhalalk | 228
 adalk | 255
 virakesarilk | 286
 adaderanalk | 332
-tamilmirrorlk | 337
+tamilmirrorlk | 338
 dailymirrorlk | 361
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,661 (99.9%) of 2,663 articles have been extended.
+2,663 (99.9%) of 2,666 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### බෙලිඅත්ත පංච පුද්ගල ඝාතනයට තවත් සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-01-26 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192575) · `si`
+
+බෙලිඅත්ත පංච පුද්ගල ඝාතනය සම්බන්ධයෙන් සිදු කෙරෙන විමර්ශනවලට අදාළව ඝාතනයට ආධාර අනුබල දීමේ චෝදනා යටතේ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙම පුද්ගයින් දෙදෙනා හෙරොයින් සමග ගාල්ල වංචාවල ප්‍රදේශයේදී පොලිස් විශේෂ කාර්ය බළකායේ අත්අඩංගුවට පත්වී ඇත.
+
+අපේ ජනබල පක්ෂයේ නායක සමන් පෙරේරා නොහොත් රෝයල් බීච් සමන් ඇතුළු පුද්ගලයින් පස්දෙනෙකු මෙම වෙඩිතැබීමෙන් ඝාතනයට ලක්වුණි.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ගාල්ල ප්‍රදේශයේ පදිංචි වයස අවුරුදු 25ක් සහ 35ක් වන පුද්ගලයින් දෙදෙනෙකි.
+
+අත්අඩංගුවට ගන්නා අවස්ථාවේදී ඔවුන් සතුව හෙරොයින් ග්‍රෑම් 09යි  මිලි ග්‍රෑම් 300 ක්, යතුරුපැදියක්, ජංගම දුරකථන 03ක් සහ උල් පිහියක් තිබී සොයාගෙන ඇත.
+
+සැකකරුවන් වැඩිදුර විමර්ශන කටයුතු සඳහා ගාල්ල වරාය පොලිස් ස්ථානයට භාරදී ඇත.
+
+...
+
+[Data](articles/d6f87455.json)
+
+---
 
 ### Two more suspects arrested over Beliatta mass shooting
 
@@ -47,6 +69,30 @@ The duo, aged 25 and 35 years, have been handed over to the Galle Harbour Police
 ◼️
 
 [Data](articles/94c8ec61.json)
+
+[Extended Data](ext_articles/94c8ec61.ext.json)
+
+---
+
+### සනත් නිශාන්ත සිටි රථය ධාවනය වූ වේගය ගැන හෙළිවෙයි
+
+*2024-01-26 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192574) · `si`
+
+රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාට මරු කැඳවූ රිය අනතුර සම්බන්ධයෙන් එම රථය පැදවූ රියදුරා පොලීසියට කරුණු හෙළිකර තිබේ.
+
+ඒ අනුව රියරුදු ප්‍රභාත් එරංග පොලීසිය හමුවේ පාපොච්චාරණය කර ඇත්තේ,
+
+"අපි පුළුවන් තරම් ඉක්මනට කොළඹ එන්න බලාගෙන ආවේ. ඒ වෙනකොට ඇමතිතුමාට නින්ද ගිහින් හිටියේ. හයිවේ එකේදී ඉස්සරහින් ගිය කාර් එක මම වම් පැත්තෙන් ඉස්සර කළා. ආපහු ජීප් එක දකුණු පැත්තේ මංතීරුවට ගන්න හදද්දී ඉස්සරහින් ගිය කන්ටේනර් එකේ හැප්පුණා. ජීප් එක කන්ට්‍රොල් නැතුව ගිහින් වැටේ හැප්පිලා නතර වුණා."
+
+විමර්ශනවලින් හෙළිවී ඇති අන්දමට මෙම අනතුර සිදුවන අවස්ථාවේ ජීප් රථය පැයට කිලෝමීටර් 160 ඉක්මවූ වේගයකින් ධාවනය කර ඇති බවද මාධ්‍ය වාර්තා පළවෙයි.
+
+අනතුරෙන් රාජ්‍ය අමාත්‍යවරයාගේ හිසට සහ දකුණු කකුලට බරපතළ තුවාල සිදුවී තිබූ බව රෝහල් ආරංචි මාර්ග පවසයි.
+
+මේ අතර, "මට මාරක අපල තියෙනවා කියලා හඳහන බලපු ජ්‍යොතිෂවේදියෙක් කිව්වා" යැයි කටුනායක අධිවේගී මාර්ගයේ වූ මාරක රිය අනතුරින් ජීවිතක්ෂයට පත්වූ රාජ්‍ය ඇමැති සනත් නිශාන්ත මීට දින කිහිපයකට පෙර මාධ්‍යවේදීන් සමග පැවැති සුහද හමුවකදී ප්‍රකාශ කර ඇති බවද වාර්තා වෙයි.
+
+...
+
+[Data](articles/ba00349c.json)
 
 ---
 
@@ -67,6 +113,8 @@ High tariffs also makes the economy inefficient and noncompetitive. (Colombo/Jan
 ◼️
 
 [Data](articles/bcbc126b.json)
+
+[Extended Data](ext_articles/bcbc126b.ext.json)
 
 ---
 
@@ -231,6 +279,20 @@ Reduced tourism: The COVID-19 pandemic dealt a severe blow to Sri Lanka’s vita
 [Data](articles/e761dbfd.json)
 
 [Extended Data](ext_articles/e761dbfd.ext.json)
+
+---
+
+### குடாவெல்ல கடலில் மூழ்கி இளைஞர் மரணம்
+
+*2024-01-26 03:20:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடாவெல்ல-கடலில்-மூழ்கி-இளைஞர்-மரணம்/175-332129) · `ta`
+
+அம்பாந்தோட்டை, குடாவெல்ல மீன்பிடித் துறைமுகத்தை அண்மித்து கடலில் குளிக்கச் சென்ற இளைஞர் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளார்.
+
+குடாவெல்ல கடலில் ஐவர் நேற்றுப் பிற்பகல் 2.30 மணியளவில் குளிக்கச் சென்றபோதே இந்த அனர்த்தம் இடம்பெற்றுள்ளது என்றும் பொலிஸார் தெரிவித்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/6d5c9833.json)
 
 ---
 
@@ -1959,75 +2021,5 @@ Accordingly, about eight am the attack and put his mother in the house on the 20
 [Data](articles/82d69253.json)
 
 [Extended Data](ext_articles/82d69253.ext.json)
-
----
-
-### Father and son killed in accident
-
-*2024-01-25 12:47:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வடமேல்-வடமத்தி/விபத்தில்-தந்தை-மகன்-பலி-தாய்-படுகாயம்/94-332104) · `ta`
-
-Father and son died in a vehicle accident on Thursday (25) in Lapugama area of Anamaduwa - Navathagama main road.
-
-The mother who was injured in the accident has been admitted to the Puttalam Base Hospital, police said.
-
-Jeevaka Seneviratne and his 10 -year -old son Manuja Prabhaswara, a 38 -year -old military Special Forces, from Navagadegama and Walewewa, died in the accident.
-
-Police said the accident occurred when the motorcycle, the son and wife of the deceased, collided with a lorry in front of the Rajamaha Vihara on the main road of Anamaduwa - Navagadegama.
-
-Anamaduwa police are conducting further investigations into the incident.
-
-◼️
-
-[Data](articles/c2110077.json)
-
-[Extended Data](ext_articles/c2110077.ext.json)
-
----
-
-### 838 suspects apprehended in the past 24 hours under Operation Yukthiya
-
-*2024-01-25 12:29:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/838-suspects-apprehended-in-the-past-24-hours-under-operation-yukthiya/) · `en`
-
-COLOMBO (News 1st); A total of 838 suspects have been apprehended in the past 24 hours that ended at 12.30 am today under Operation Yukthiya.
-
-The number of suspects arrested for drug offences among them is 549.
-
-289 suspects who were on the list of wanted persons prepared by the Police Narcotics Bureau and Special Bureau have also been apprehended.
-
-Police say that they seized 16 kilograms and 600 grams of ganja, 211 grams of heroin, 78 grams of ice, and 1,192 narcotic pills during the operation.
-
-05 suspects in connection with drug offences are to be further investigated on detention orders while 10 drug addicts were referred for rehabilitation.
-
-35 suspects who had open warrants for drug offences and 246 suspects who had open warrants for non-drug offences were also among the suspects apprehended.
-
-Court allows questioning of suspect in Beliatta shooting on detention orders
-
-Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
-
-...
-
-[Data](articles/ac09ee35.json)
-
-[Extended Data](ext_articles/ac09ee35.ext.json)
-
----
-
-### ‘Major blow to human rights’: Amnesty International slams newly passed Online Safety Bill
-
-*2024-01-25 12:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96718/major-blow-to-human-rights-amnesty-international-slams-newly-passed-online-safety-bill) · `en`
-
-Amnesty International says the Online Safety Bill, freshly passed in Sri Lanka parliament on Wednesday (Jan.24), is a ‘major blow’ to human rights in the country.
-
-Commenting in this regard, Thyagi Ruwanpathirana, Regional Researcher for South Asia at the international rights organisation said this legislation is the ‘newest weapon in the government’s arsenal of tools’ that could be used to undermine freedom of expression and suppress dissent.
-
-She urged the Sri Lankan authorities to immediately withdraw the Online Safety Bill and ensure respect for the human rights of everyone in the country.
-
-The Online Safety Bill, which seeks to regulate online content, received the parliamentary majority on Wednesday evening, amidst objections from opposition politicians and activists who raised alarm that the new law would muzzle free speech.
-
-...
-
-[Data](articles/17d43718.json)
-
-[Extended Data](ext_articles/17d43718.ext.json)
 
 ---

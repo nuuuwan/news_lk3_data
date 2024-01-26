@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 21:17:28**
+As of **2024-01-26 21:33:02**
 
 ## Newspaper Stats
 
-*Scraped **2,800** Articles*
+*Scraped **2,802** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,56 @@ adaderanasinhalalk | 255
 adalk | 265
 virakesarilk | 300
 tamilmirrorlk | 350
-adaderanalk | 352
+adaderanalk | 354
 dailymirrorlk | 386
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,790 (99.6%) of 2,800 articles have been extended.
+2,800 (99.9%) of 2,802 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### යුරෝපයට මත්ස්‍ය නිශ්පාදන යැවීමට පැය 24 පුරා ක්‍රියාත්මක සේවාවක්
+### Sri Lanka’s Online Safety Bill sparks geopolitical debate as Russia backs govt.
 
-*2024-01-26 20:32:07* · [`adalk`](https://www.ada.lk/breaking_news/යුරෝපයට-මත්ස්‍ය නිශ්පාදන-යැවීමට-පැය-24-පුරා-ක්‍රියාත්මක-සේවාවක්/11-407740) · `si`
+*2024-01-26 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96754/sri-lankas-online-safety-bill-sparks-geopolitical-debate-as-russia-backs-govt) · `en`
 
-ශ්‍රී ලංකාවෙන් විශේෂයෙන් යුරෝපා සංගමයේ රටවල් වෙත අපනයනය කෙරෙන මත්ස්‍ය නිෂ්පාදන සදහා අවශ්‍ය
+The controversial Online Safety Bill has sparked a geopolitical debate with the Russian Ambassador in Colombo Levan Dzhagaryan stating that regulations of the online sphere are solely a domestic issue of Sri Lanka, and that any interference in this internal issue by foreign powers is absolutely irrelevant and unacceptable.
 
-" ස්වස්තතා සහතික " ( Health Certificate ) නිකුත් කිරීම සදහා දවසේ පැය 24 පුරා ක්‍රියාත්මක කාර්යාලයක් කටුනායක ගුවන් තොටුපොළ ගුවන් භාණ්ඩ ගැල් ගම්මානයේ 01/26 දින පස්වරුවේ ධීවර අමාත්‍ය ඩග්ලස් දේවානන්ද සහ රාජ්‍ය අමාත්‍ය පියල් නිශාන්ත ද සිල්වා යන මහත්වරුන් විසින් විවෘත කිරීම සිදු විය .
+In a statement issued by the Russian Embassy in Colombo this morning (26), the Russian Ambassador in Colombo highlighted that Russia is currently following the developments pertaining to Sri Lanka’s Online Safety Bill, which was passed in the Parliament on Wednesday (24).
 
-යුරෝපා සංගමයේ රටවල් 28 ක් වෙත ශ්‍රී ලංකාවෙන් මත්ස්‍ය නිෂ්පාදන අපනයන කරන අතර ඒවා නීත්‍යානුකූලව නිෂ්පාදනය කර ඇති බව මෙම " ස්වස්තතා සහතිකය " මගින් සනාථ කිරීම සිදු කෙරේ.
+Dzhagaryan added that Russia also takes notice of all comments and reactions both from the domestic political sphere and among the foreign powers accredited in Sri Lanka.
 
-එහිදී නිවැරැදි යෝග්‍ය  දැල් ආම්පන්න භාවිතා කිරීම , ලියාපදිංචි ධීවර යාත්‍රා භාවිතා කිරීම , නීත්‍යානුකූලව අනෙක් අසල්වැසි රටවල මුහුදු සීමා උල්ලංඝනය කරමින් මසුන් නොමැරීම , රජයේ ලියාපදිංචි ධීවරයින් මෙම මසුන් මැරීම සදහා සහභාගී වීම යනාදී කරුණු මෙම ස්වස්තතා සහතික මගින් යුරෝපා රටවලට සහතික කර ප්‍රකාශ කර සිටී .
+The Russian Ambassador’s statement came hours after U.S. Ambassador in Colombo Julie Chung’s reaction to the Online Safety Bill yesterday (Jan. 25).
 
 ...
 
+[Data](articles/3df5df1f.json)
+
+---
+
+### 24 hour effective service to send fish products to Europe
+
+*2024-01-26 20:32:07* · [`adalk`](https://www.ada.lk/breaking_news/යුරෝපයට-මත්ස්‍ය නිශ්පාදන-යැවීමට-පැය-24-පුරා-ක්‍රියාත්මක-සේවාවක්/11-407740) · `si`
+
+Fish products that export Sri Lanka especially exported to the EU countries
+
+Fisheries Minister Douglas Devananda and State Minister Piyal Nishantha De Silva were opened by Fisheries Minister Douglas Devananda and State Minister Piyal Nishantha De Silva.
+
+The export of fish products from Sri Lanka to 28 European Union and are proven to be legally manufactured.
+
+The use of correct nets is used by the use of registered fishing vessels, legalized fishing vessels, to participate in this fishing to the country, certifying to Europe.
+
+Fisheries and Aquatic Resources Minister Duglas Devananda, State Minister Phal Nishantha De Silva and Mrs. Susantha Kahawatta, Secretary General of the Ministry, was attended by the Secretary General of the Ministry Kumari Susanthawatt.
+
+◼️
+
 [Data](articles/e1caec54.json)
+
+[Extended Data](ext_articles/e1caec54.ext.json)
 
 ---
 
@@ -76,33 +98,43 @@ The police call for the drivers and the people who are looking for the city of N
 
 ---
 
-### අද පාර්ලිමේන්තුවේ වාරාවසාන කරයි
+### Invitations in parliament today
 
 *2024-01-26 20:27:56* · [`adalk`](https://www.ada.lk/breaking_news/අද-පාර්ලිමේන්තුවේ-වාරාවසාන-කරයි/11-407739) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අද (26) මධ්‍යම රාත්‍රියේ සිට බලපැවැත්වෙන පරිදි ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 70 (1) ව්‍යවස්ථාව ප්‍රකාරව එතුමාට පැවරී ඇති බලතල අනුව පාර්ලිමේන්තුව වාරාවසාන කරන ලද අතර නවවැනි පාර්ලිමේන්තුවේ පස්වැනි සභාවාරය ලබන පෙබරවාරී 07 වැනිදා පෙ.ව 10.30 ට ආරම්භ කරන ලෙස ප්‍රකාශයට පත් කොට ඇත.
+President Ranil Wickremesinghe has been informed in accordance with the Constitution of Article 70 (1) of the constitution today (26) of the Constitution.Has been done.
 
-ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 33 වන ව්‍යවස්ථාවේ (අ) සහ (ආ) අනු ව්‍යවස්ථා අනුව පාර්ලිමේන්තුවේ එක් සභාවාරයක් අවසන්කොට නව සභාවාරයක් ආරම්භ කරන අවස්ථාවේදී ගරු ජනාධිපතිතුමාට පාර්ලිමේන්තුව උත්සවාකාරයෙන් විවෘත කොට මුලසුන දරමින් ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කිරීමටද අවස්ථාව ඇත.
+The President has the opportunity to conclude the government's policy statement at the commencement of a new commander at the constitution of the Constitution.
 
-පාර්ලිමේන්තුව වාර අවසාන කළ විට එතෙක් පාර්ලිමේන්තුව විසින් සලකා නොබලන ලද  ප්‍රශ්න සහ  යෝජනා අහෝසි වන අතර මන්ත්‍රීවරුන් නැවත වාරයක් ඒ සම්බන්ධව ස්ථාවර නියෝග අනුව කටයුතු කළ යුතුය. තවද පාර්ලිමේන්තුවේ සම්බන්ධීකරණ කාරක සභාව,  උසස් නිලතල පිළිබද කාරක සභාව, විශේෂ කාරක සභා සහ ආංශික අධීක්ෂණ කාරක සභා හැර අනෙකුත් සියලු කාරක සභා නව සභාවාරයේදී නැවත පත්කළ යුතුය.
+When the parliament is concluded, the issues and proposals that parliament should not be considered and proposals should be abolished and the MPs should act again on fixed orders. Further, all the Committees of the Parliament, the High Court Committee, Select Committees should be re-be assigned in the new new new congregation.
 
-...
+The first congregation in the ninth parliament has been held from August 20 to December 20, 2021, January 18, 2022 to 28 July 20, 2022.. The third session of Parliament was held from August 03 to January 3, 2023 and the fourth election began 106 days for the fourth session of Parliament today (26).
+
+◼️
 
 [Data](articles/f2f9a5f1.json)
 
+[Extended Data](ext_articles/f2f9a5f1.ext.json)
+
 ---
 
-### මත්ද්‍රව්‍යයෙන් මිදීමට කැමති අය 1927 අමතන්න
+### Call those who wish to get rid of drugs 1927
 
 *2024-01-26 20:13:57* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍යයෙන්-මිදීමට-කැමති-අය-1927-අමතන්න/11-407738) · `si`
 
-මත්ද්‍රව්‍ය සඳහා ඇබ්බැහිවූවන් ඉන් මිදීම වෙනුවෙන් ප්‍රථිකාර, පුනරුත්ථාපනය සහ උපදේශනය වෙත ස්වේච්ඡාවෙන් ඉදිරිපත් වීමට, විෂ මත්ද්‍රව්‍ය හා අන්තරායකර ඖෂධ භාවිතය වළක්වාලීම සඳහා වන කාර්යය සාධක බළකාය විසින් ක්‍රියාවට නංවා ඇති විශේෂ වැඩපිළිවෙල පිළිබඳව තම අනන්‍යතාවය හෙළිනොකර තොරතුරු දැනගැනීම සඳහා 1927 නමැති විශේෂ ක්‍ෂණික දුරකථන අංකය හඳුන්වා දී තිබේ.
+The Special Instant Telephone Number 1927 has been introduced to volunteer to volunteer to get rid of drugs and preventing the use of poisonous drug and hazardous medicines to avoid the use of poisonous drugs and hazardous drugs..
 
-ඒ සම්බන්ධ මාධ්‍ය දැනුවත් කිරී‍මේ සාකච්ඡාවක්, අද දින ( 2024 ජනවාරි 26) විෂ මත්ද්‍රව්‍ය හා අන්තරායකර ඖෂධ භාවිතය වළක්වාලීම සඳහා වන කාර්යය සාධක බළකායේ සභාපති වශයෙන් කටයුතු කරනු ලබන, නාවික හමුදාධිපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේ‍රා ගේ ප්‍රධානත්වයෙන් කොළඹ ප්‍රදීපාගාර අවන්හල පරිශ්‍රයේදී පැවැත්විණි.
+The Chairman of the Navy, who is the Chairman of the Task Force (January 26), is the Chairman of the Task Force (January 26) to prevent the use of the Task Force and Dangerous Drugs in the Colombo Lighty Arts.
 
-...
+Taking social economic security and rehabilitate to control, preventing the development of poison to the country and to control the development of the country and rehabilitate the development of the country.Commander of the Navy Vice Admiral Priyantha Periantha Perianantha has been appointed as its Chairman.
+
+The immediate telephone number of 1927 (January 26, 2024), the immediate telephone number of 1927 (January 26, 2024), the immediate telephone number of the 1927 (January 26) will be able to obtain information on drugs today..
+
+◼️
 
 [Data](articles/64f2ee58.json)
+
+[Extended Data](ext_articles/64f2ee58.ext.json)
 
 ---
 
@@ -132,6 +164,22 @@ The suspects have said that the suspects have planned to assassinate the murder 
 
 ---
 
+### Psychiatric treatment for self-proclaimed ‘Vishwa Buddha’
+
+*2024-01-26 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96753/psychiatric-treatment-for-self-proclaimed-vishwa-buddha) · `en`
+
+The saffron-robed person claiming to be ‘Vishwa Buddha’ has been referred for psychiatric treatment under the recommendation of the Judicial Medical Officer, Senior Deputy Solicitor General Dileepa Peiris revealed before the court today (26).
+
+Appearing on behalf of the Criminal Investigations Department (CID), the Senior Deputy Solicitor General stated that accordingly, the suspect, who has been remanded in custody, is currently receiving psychiatric treatment at the Prison Hospital.
+
+This was revealed when the case pertaining to the breaching of bail conditions by the self-styled monk was recalled before the Nugegoda Magistrate’s Court this afternoon.
+
+...
+
+[Data](articles/024cb69a.json)
+
+---
+
 ### Reshan Most Outstanding Schools Golfer for 2023
 
 *2024-01-26 20:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reshan-Most-Outstanding-Schools-Golfer-for-2023/108-275785) · `en`
@@ -147,6 +195,8 @@ The organisers are planning to have a pool and all winners of the sports awards 
 ◼️
 
 [Data](articles/90b6ad66.json)
+
+[Extended Data](ext_articles/90b6ad66.ext.json)
 
 ---
 
@@ -166,19 +216,23 @@ In Friday's ruling, the judges said Israel must take all measures within its pow
 
 [Data](articles/74f00e43.json)
 
+[Extended Data](ext_articles/74f00e43.ext.json)
+
 ---
 
-### இன்று நள்ளிரவு முதல் பாராளுமன்ற அமர்வுகள் நிறைவு
+### Completion of Parliamentary Sessions from midnight today
 
 *2024-01-26 19:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நள்ளிரவு-முதல்-பாராளுமன்ற-அமர்வுகள்-நிறைவு/175-332145) · `ta`
 
-இன்று (26) நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் பாராளுமன்ற அமர்வுகள் நிறைவு செய்யப்படுகின்றதாக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+President Ranil Wickremesinghe has issued a gazette notification by President Ranil Wickremesinghe that the parliamentary session is being completed with effect from midnight today.
 
-இதன்படி, பாராளுமன்றத்தின் அடுத்த அமர்வு பெப்ரவரி 7 ஆம் திகதி காலை 10.30 மணிக்கு ஆரம்பமாகும் என அறிவிக்கப்பட்டுள்ளது.
+Accordingly, the next session of Parliament will begin on February 7 at 10.30 am.
 
 ◼️
 
 [Data](articles/81b47383.json)
+
+[Extended Data](ext_articles/81b47383.ext.json)
 
 ---
 
@@ -245,6 +299,8 @@ The State Minister also revealed plans to utilize 31 identified reservoirs for f
 ...
 
 [Data](articles/f03c887c.json)
+
+[Extended Data](ext_articles/f03c887c.ext.json)
 
 ---
 
@@ -796,6 +852,8 @@ Vendors in Colombo selling national flags ahead of the Independence Day celebrat
 
 [Data](articles/ef00a333.json)
 
+[Extended Data](ext_articles/ef00a333.ext.json)
+
 ---
 
 ### Petition to the Supreme Court regarding taxes
@@ -851,6 +909,8 @@ The arrest was made based on a complaint filed by a resident of Mahavilacchiya.
 ...
 
 [Data](articles/430339d1.json)
+
+[Extended Data](ext_articles/430339d1.ext.json)
 
 ---
 
@@ -1316,21 +1376,29 @@ A 120 MW Uma Oya hydro power plant will be added in 2024 as is the open cycle (g
 
 ---
 
-### අත වෙන්වෙන්න කැපුණු තුවාලකරු ජාතික රෝහලේදී මරුට
+### The injured wound dies at the National Hospital
 
 *2024-01-26 13:12:18* · [`adalk`](https://www.ada.lk/breaking_news/අත-වෙන්වෙන්න-කැපුණු-තුවාලකරු-ජාතික-රෝහලේදී-මරුට/11-407736) · `si`
 
-අසල්වාසියෙකු විසින් තියුණු ආයුධයකින් එල්ල කරන ලද ප්‍රහාරයකින් වම් අත වෙන්වනසේ කැපි බරපතල තුවාල ලබා රෝහල් ගතව සිටි 33 හැවිරිදි පුද්ගලයෙකු අද උදේ කොළඹ ජාතික රෝහලේ දී මියගොස් ඇතැයි ඌරගස්මංහන්දිය පොලිසිය කියයි.
+A neighbors have been killed in a sharp weapon with a sharp object, Uragasundara, police said.
 
-මෙසේ මියගොස් ඇත්තේ ඌරගස්මංහන්දිය ,යටගල කන්ද ප්‍රදේශයේ පදිංචි කරුවෙකු වූ කේ.ඩී. අසේල සම්පත් නැමැත්තෙකි.
+The deceased has been identified as Uragasmanhandiya, a resident of Yatagala Kanda. Asela Sampath is a resource.
 
-අසල්වාසි නිවැසියෙකු හා මොහු අතර කලක් තිස්සේ පැවති ආරවුලක් දුරදිග යාමෙන් එම නිවැසියා හා තවත් දෙදෙනෙකු එක්වී ඊයේ (25දා) සවස තියුණු ආයුධයකින්  මොහුගේ  වම් අත වෙන් වෙන්නම කපා ඇතැයි ඌරගස්මංහන්දිය පොලිසිය කියයි.
+Uragasmanhandiya Police say that he has been cut by a sharp weapon with a sharp weapon yesterday evening with a neighboring resident of a long-standing dispute.
 
-සිද්ධියෙන් වම් අත වැලමිට අසලින් කැපී වෙන්වීමෙන්   බරපතල ලෙස තුවාල ලබා සිටි තුවාලකරු   කැපී  වෙන්වූ අතද සමග 1990 ගිලන් රථයකින් ප්‍රථමාධාර දෙමින් ඇල්පිටිය රෝහලටත් එතැනින් කරාපිටිය රෝහලටත් ඇතුළත් කළ බව පොලිසිය කියයි.පසුව ශල්‍ය කර්මයක් සඳහා  කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබියදී මොහු මියගොස් ඇතිබව පොලිසිය පැවසීය.
+The victim was admitted to the Elpitiya Hospital with a remarkable ambulance with the left-handed hand.
 
-...
+The victim has faced the incident in the Yangalakanda area, the police said.
+
+The deceased and the main suspect of the Siddhartha is the rehabilitation center at the Kandakadu Rehabilitation Center for a while, police said.
+
+Uragasmanhandiya OIC Chief Inspector PLKUTUTHIANH and CID HARDER HARDI Harthi Silva, the officials including the Hon.
+
+◼️
 
 [Data](articles/0677671f.json)
+
+[Extended Data](ext_articles/0677671f.ext.json)
 
 ---
 
@@ -2019,49 +2087,5 @@ The injured were receiving treatment at the Ragama Hospital and the suspects wer
 [Data](articles/151ab7c9.json)
 
 [Extended Data](ext_articles/151ab7c9.ext.json)
-
----
-
-### Cut the sword on the young man
-
-*2024-01-26 10:41:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இளைஞன்-மீது-வாள்-வெட்டு/71-332132) · `ta`
-
-A violent gang has launched a sword -cutting attack after lodging a complaint at the police station on the robbery.
-
-Jayakody Karthipan (age 30) from Vadamarachchi, Jaffna - Vadamarachchi, has been admitted to the hospital with the attacker.
-
-The two youths who came on a motorcycle were pretending to buy ice cream and robbed the young man's possession of sales and mobile phones.
-
-When the youth lodged a complaint at the Nelliyadi police station, a gang of youth in the Alwai area had fled and fled.
-
-Nelliyadi police are conducting investigations as the teenager who is targeted at the sword cut is being treated at the hospital. Remble
-
-◼️
-
-[Data](articles/bb9e9293.json)
-
-[Extended Data](ext_articles/bb9e9293.ext.json)
-
----
-
-### ‘Vishwa Buddha’ further remanded on another pending case
-
-*2024-01-26 10:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96737/vishwa-buddha-further-remanded-on-another-pending-case) · `en`
-
-The saffron robed person claiming to be ‘Vishwa Buddha’ has been ordered to be further remanded in custody until 02 February, 2024.
-
-This order was issued when he was produced before the Nugegoda Magistrate’s Court over another pending case, Ada Derana reporter said.
-
-The suspect, who was out on bail, was re-arrested on January 23 by the Criminal Investigations Department (CID) over breach of bail conditions and was presented before the Gangodawila Magistrate’s Court. However, later he was presented before the Colombo Magistrate’s Court as per the orders of the Gangodawila Magistrate.
-
-Earlier, the monk was arrested on December 12 at a private establishment in Kalagedihena by the cybercrimes unit of the Criminal Investigation Department (CID), acting on a complaint received against the self-styled monk who was residing in Ratnapura.
-
-According to police, the saffron-robed monk had allegedly issued statements demeaning Buddhism.
-
-...
-
-[Data](articles/e34709ed.json)
-
-[Extended Data](ext_articles/e34709ed.ext.json)
 
 ---

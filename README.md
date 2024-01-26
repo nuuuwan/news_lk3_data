@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 03:02:31**
+As of **2024-01-27 03:17:06**
 
 ## Newspaper Stats
 
-*Scraped **2,831** Articles*
+*Scraped **2,832** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 215
 adaderanasinhalalk | 258
 adalk | 265
 virakesarilk | 300
-tamilmirrorlk | 352
+tamilmirrorlk | 353
 adaderanalk | 357
 dailymirrorlk | 393
 
@@ -26,11 +26,29 @@ dailymirrorlk | 393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,831 (100.0%) of 2,831 articles have been extended.
+2,831 (100.0%) of 2,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### ஜனாதிபதிக்கு மகா சங்கத்தினர் ஆதரவு
+
+*2024-01-27 02:40:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-மகா-சங்கத்தினர்-ஆதரவு/175-332160) · `ta`
+
+மக்கள் நலனுக்காக முன்னெடுக்கும் அனைத்து திட்டங்களிலும் ஜனாதிபதிக்கு மகா சங்கத்தினரின் ஆதரவு கிடைக்கும் என முருத்தெட்டுவே ஆனந்த தேரர் தெரிவித்துள்ளார்.
+
+கொழும்பு பல்கலைக்கழகத்தின் வேந்தரும், அரச சேவை ஒன்றிணைந்த தாதியர் சங்கத் தலைவரும், மேல் மாகாணத்துக்கான பிரதான சங்கநாயக்கருமான முருத்தெட்டுவே ஆனந்த தேரரின் ஜனன தினமான நேற்று ஏற்பாடு செய்யப்பட்டிருந்த நிகழ்வில் ஜனாதிபதி ரணில் விக்ரமசிங்க கலந்துகொண்டிருந்தார்.
+
+அந்த நிகழ்வில் இறுதியில் ஜனாதிபதி ரணில் விக்ரமசிங்க உள்ளிட்ட பிரதிநிதிகள் முன்னிலையில் உரையாற்றிய போதே முருத்தெட்டுவே ஆனந்த தேரர் இவ்வாறு தெரிவித்துள்ளார்.
+
+இந்த நிகழ்வில் மகா சங்கத்தினர், பிரதமர் தினேஸ் குணவர்தன, சபாநாயகர் மகிந்த யாப்பா அபேவர்தன, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்‌ச உள்ளிட்ட பலரும்  கலந்துகொண்டிருந்தனர் என ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/9463b0a0.json)
+
+---
 
 ### NPP/JVP on 39% of all adults, ahead of SJB, SLPP
 
@@ -2005,31 +2023,5 @@ Currently, Prince Mohammed bin Salman has taken steps to convert Saudi Arabia in
 [Data](articles/886cc610.json)
 
 [Extended Data](ext_articles/886cc610.ext.json)
-
----
-
-### Thai police to charge Sri Lankan over pet lion spotted cruising in Bentley
-
-*2024-01-26 12:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Thai-police-to-charge-Sri-Lankan-over-pet-lion-spotted-cruising-in-Bentley/107-275774) · `en`
-
-Thailand, Jan 26 (BBC) - Police in Thailand have arrested a woman whose pet lion was pictured going on a joyride in the streets of Pattaya.
-
-A video that has now gone viral shows the chained lion cub seated in the back of a white, open-top Bentley.
-
-The lion was being driven about by a Sri Lankan man who has since left the country, and is believed to be a friend of the woman, Sawangjit Kosoongnern.
-
-While it is not illegal to own a lion in Thailand, it needs to be officially registered.
-
-Authorities in Thailand said Ms Sawangjit claimed to have bought the animal from a Thai man in Nakhon Pathom province, who successfully facilitated its delivery to Pattaya.
-
-However he failed to have his facility checked by officials before doing so, which made both the transfer and ownership of the animal illegal.
-
-She is therefore facing charges of possessing a controlled wild animal without permission, which carries a penalty of a year's imprisonment and a fine of up to 100,000 baht ($2,800; £2,200).
-
-...
-
-[Data](articles/48246248.json)
-
-[Extended Data](ext_articles/48246248.ext.json)
 
 ---

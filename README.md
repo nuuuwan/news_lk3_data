@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 17:33:09**
+As of **2024-01-26 17:53:10**
 
 ## Newspaper Stats
 
-*Scraped **2,767** Articles*
+*Scraped **2,769** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,34 @@ islandlk | 151
 newsfirstlk | 154
 economynextcom | 166
 dailyftlk | 202
-adaderanasinhalalk | 246
+adaderanasinhalalk | 247
 adalk | 261
 virakesarilk | 296
 adaderanalk | 347
 tamilmirrorlk | 349
-dailymirrorlk | 379
+dailymirrorlk | 380
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,763 (99.9%) of 2,767 articles have been extended.
+2,767 (99.9%) of 2,769 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### චමරි අතපත්තු ට විශේෂ කැඳවීමක්
+
+*2024-01-26 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192596) · `si`
+
+2024 කාන්තා ප්‍රිමියර් ලීග් තරගාවලියට සහභාගී වීමේ අවස්ථාව චමරි අතපත්තු ට හිමිවී තිබේ.
+
+◼️
+
+[Data](articles/483f014c.json)
+
+---
 
 ### Sri Lanka stocks close up, net outflow continues
 
@@ -54,27 +66,51 @@ However, the net foreign outflow since the beginning of this year continued, wit
 
 [Data](articles/116a67b0.json)
 
+[Extended Data](ext_articles/116a67b0.ext.json)
+
 ---
 
-### සනත් නිශාන්තගේ දේහය නිවසට රැගෙන එයි
+### Parliament prorogued till February 7
+
+*2024-01-26 16:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-prorogued-till-February-7/108-275784) · `en`
+
+Colombo, Jan. 26 (Daily Mirror)- President Ranil Wickremesinghe has prorogued Parliament till February 7, 2024.
+
+The President issued the gazette notification stating that the Parliament was prorogued from midnight today under the powers vested in him in terms of the Constitution.
+
+The Daily Mirror reported on January 5 that Parliament will be prorogoued.
+
+◼️
+
+[Data](articles/67ff7801.json)
+
+---
+
+### Sanath Nishantha takes the body to the house
 
 *2024-01-26 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192595) · `si`
 
-හදිසි අනතුරකින් ජීවිතක්ෂයට පත්වු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ දේහය පුත්තලම ආරච්චිකට්ටුවේ පිහිටි ඒ මහතාගේ නිවස වෙත මීට සුළු වේලාවකට පෙර රැගෙන ආවේය.
+State Minister Sanath Nishantha's body was brought to his residence in Puttalam Arachchikketuwa, who was killed in an accident.
 
-බොරැල්ල ජයරත්න මල්ශාලාවේ සිට රැගෙන ආ දේහයට අවසන් ගෞරව දැක්වීමට මඟ දෙපස විශාල ජනතාවක් රැස්ව සිටි අතර, නිවස වෙත ද මේ වනවිට විශාල ජනතාවක් එක්වෙමින් සිටින බව අප වාර්තාකරු පැවසීය.
+A large number of people gathered to the house to the house from Jayaratne from Jayaratne from Breaka.
 
-මේ අතර, ජනාධිපති රනිල් වික්‍රමසිංහ, අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන යන මහත්වරු මෙන්ම මැති ඇමතිවරු ඇතුළු විශාල පිරිසක් ඊයේ (25) රාත්‍රියේ දේහයට අවසන් ගෞරව දැක්වීමට බොරැල්ල ජයරත්න මල්ශාලාව වෙත පැමිණියහ.
+Meanwhile, President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena and many MPs MPs and MPs were present at Borella Jayaratne Malzala.
 
-අද පෙරවරුවේ හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ, කථානායක මහින්ද යාපා අබේවර්ධන යන මහත්වරු ඇතුළු පිරිසක් දේහයට අවසන් ගෞරව දැක්වීමට පැමිණියහ.
+Former President Gotabhaya Rajapaksa, Speaker Mahinda Yapa Abeywardena came to the remains this morning.
 
-හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ද අද දහවල් දේහයට අවසන් ගෞරව දැක්වීමට පැමිණ සිටියේය.
+Former President Mahinda Rajapaksa was also honored to pay his last honor to the body this afternoon.
 
-ජල සම්පාදන රාජ්‍ය අමාත්‍යවරයා ලෙස කටයුතු කළ සනත් නිශාන්ත මහතා සහ ඔහුගේ ආරක්ෂක නිලධාරියා ඊයේ අලුයම කටුනායක අධිවේගී මාර්ගයේ සිදුවු රිය අනතුරකින් ජීවිතක්ෂයට පත් වුණි.
+Sanath Nishantha, the State Minister and his security officer, was killed in an accident on the Katunayake Expressway yesterday.
 
-...
+The luxury vehicle he was traveling was accidental with the safety fence of a container vehicle and on the road.
+
+Headdicles of the jeep were injured in the accident and is receiving treatment at the driver of the jeep hospital.
+
+◼️
 
 [Data](articles/4fefa75c.json)
+
+[Extended Data](ext_articles/4fefa75c.ext.json)
 
 ---
 
@@ -91,6 +127,8 @@ All parliamentary committees are automatically dissolved by the prorogation and 
 ◼️
 
 [Data](articles/f11a10df.json)
+
+[Extended Data](ext_articles/f11a10df.ext.json)
 
 ---
 
@@ -209,6 +247,8 @@ In return for a bailout, the agreement has Sri Lanka restructuring its foreign a
 ...
 
 [Data](articles/04f3e2f3.json)
+
+[Extended Data](ext_articles/04f3e2f3.ext.json)
 
 ---
 
@@ -2059,53 +2099,5 @@ The Army Intelligence Union has raided over 2500 kilograms of marijuana during t
 [Data](articles/dd41545e.json)
 
 [Extended Data](ext_articles/dd41545e.ext.json)
-
----
-
-### 29 petitions to Supreme Court challenged by challenges the anti-terrorism Bill
-
-*2024-01-26 07:42:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd1j0r5jn5po) · `si`
-
-29 petitions to Supreme Court challenged by challenges the anti-terrorism Bill
-
-Chief Justice Jayantha Jayasuriya is leading the petitions filed by the Constitution that the government has been contrary to the Constitution and to pass it to be approved by the government.The five-member Supreme Court judge yesterday (Jan. 26) commenced today.
-
-Vijith Balaltota, other member of the panel of judges, A. HMD. Nawaz, Shiran Gunaratne and Arjuna Obeysekere.
-
-29 petitions have been filed before the Supreme Court asking to decide that the Anti-Terrorism Bill has been presented to the Constitution.
-
-Archbishop Fantry Malcolm Cardinal Ranjith, Secretary to the General Secretary of the Sri Lanka Muslim Congress, Sri Lanka Muslim Congress, the Frontline Socialist Party, Duminda Nagamuwa, Sri Lanka Trade PolicyThe petitions have been filed by the Association and a group of people.
-
-...
-
-[Data](articles/ff14f4fa.json)
-
-[Extended Data](ext_articles/ff14f4fa.ext.json)
-
----
-
-### Sanath Nishantha reveals
-
-*2024-01-26 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192574) · `si`
-
-The driver of the vehicle has revealed the police regarding the accident that was killed by State Minister Sanath Nishantha.
-
-The Rrilevil Eranga Police have confessed to police
-
-"We watched Colombo as soon as possible. The Minister was sleeping at the time. The car in front of the highway was on the left side of I. When trying to get the jeep back to the right side, the container was hit by the first container. The jeep stopped without the fall. "
-
-Investigations have revealed that the jeep had been driven out of 160 km per hour at the time of the accident.
-
-Hospital sources say that the head of the State Minister and the South had been injured in the accident.
-
-"I have been killed in a group of crowdial influence," reports say that "Minister of State Minister Sanath Nishantha, who was killed in a crisis on the Katunayake Expressway, has said.
-
-The State Minister smiled and said that a relative said, "You can't kill you," he said.. "And as well as I still live today."The State Minister has said.
-
-...
-
-[Data](articles/ba00349c.json)
-
-[Extended Data](ext_articles/ba00349c.ext.json)
 
 ---

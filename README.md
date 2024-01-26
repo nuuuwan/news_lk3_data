@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 22:32:57**
+As of **2024-01-26 22:49:36**
 
 ## Newspaper Stats
 
-*Scraped **2,807** Articles*
+*Scraped **2,808** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,50 +19,76 @@ adaderanasinhalalk | 258
 adalk | 265
 virakesarilk | 300
 tamilmirrorlk | 350
-adaderanalk | 356
+adaderanalk | 357
 dailymirrorlk | 386
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,805 (99.9%) of 2,807 articles have been extended.
+2,808 (100.0%) of 2,808 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### මියගිය පොලිස් කොස්තාපල්ට උසස්වීමක්
+### UN and EU condemn first US execution using nitrogen gas
+
+*2024-01-26 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96757/un-and-eu-condemn-first-us-execution-using-nitrogen-gas) · `en`
+
+The United Nations and European Union condemned the United States on Friday after the country’s first execution of an inmate using nitrogen asphyxiation, an untested method that has reignited a debate about capital punishment, saying the method could amount to torture.
+
+The southern state of Alabama put convicted murderer Kenneth Smith to death on Thursday by pumping nitrogen hypoxia into a facemask, causing him to suffocate. It was the first use of the execution method, rather than the usual lethal injection.
+
+Alabama Attorney General Steve Marshall said “justice has been served” with Smith’s execution but UN human rights chief Volker Turk, the EU and US civil liberties groups expressed horror and concern.
+
+“I deeply regret the execution of Kenneth Eugene Smith in Alabama despite serious concerns this novel and untested method of suffocation by nitrogen gas may amount to torture, or cruel, inhuman or degrading treatment,” Volker Turk, the U.N. High Commissioner for Human Rights, said.
+
+...
+
+[Data](articles/d945ec13.json)
+
+[Extended Data](ext_articles/d945ec13.ext.json)
+
+---
+
+### Promotion to the deceased police constable
 
 *2024-01-26 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192607) · `si`
 
-රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සමඟ රිය අනතුරින් මිය ගිය ඔහුගේ ආරක්ෂක නිලධාරි පොලිස් කොස්තාපල් අනුරාධ ජයකොඩි මහතා පොලිස් සැරයන් නිලයට උසස් කර තිබේ.
+His security officer Anuradha Jayakody has been promoted to the ratio of the police sergeant who died in accident with State Minister Sanath Nishantha.
 
-පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+The Police Media Division has issued a statement.
 
-ඒ අනුව රාජ්‍ය පරිපාලන චක්‍ර ලේඛන අංක 22/93 පරිදි පශ්චාත් උසස්වීම් පදනම යටතේ වැඩබලන පොලිස්පතිවරයා වරයා විසින් ඊයේ (25) සිට ක්‍රියාත්මක වන පරිදි පොලිස් සැරයන් තනතුරට උසස් කර තිබේ.
+Accordingly, the acting IGP has been promoted to the post of Police Sergeant at the Post Promotions on 22/93 Public Administration Circulars.
 
 ◼️
 
 [Data](articles/48b24192.json)
 
+[Extended Data](ext_articles/48b24192.ext.json)
+
 ---
 
-### මුරුත්තෙට්ටුවේ ආනන්ද හිමිගේ ජන්ම දිනය වෙනුවෙන් දානමය පිංකමක්
+### Alcohol provision for Ananda Thera of Muruththettuwe Ananda Thera
 
 *2024-01-26 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192606) · `si`
 
-කොළඹ විශ්වවිද්‍යාලයේ කුලපති, බස්නාහිර පළාත් ප්‍රධාන සංඝ නායක, රාජ්‍ය සේවා එක්සත් හෙද සංගමයේ සභාපති පූජ්‍ය මුරුත්තෙට්ටුවේ ආනන්ද හිමිගේ ජන්ම දිනය නිමිත්තෙන් නාරාහේන්පිට ශ්‍රී අභයාරාම පුරාණ විහාරස්ථානයේ දී අද (26) පැවැත්වුණ දානමය පුණ්‍යකර්මය සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහභාගි විය.
+President Ranil Wickremesinghe was present at the Sri Paratrama Ancupitiya Ananda The Sri Paratrama Anchoke, Ven.
 
-එම දානමය පුණ්‍ය කර්මය අවසානයේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු පිරිස ඉදිරියේ සිය අදහස් දැක්වූ පූජ්‍ය මුරුත්තෙට්ටුවේ ආනන්ද හිමි සඳහන් කළේ, සම්බුද්ධ ශාසනයේ උන්නතිය මෙන්ම රටවැසි ජනතාවගේ යහපත වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිදු කරන සෑම කටයුත්තකටම මහා සංඝරත්නයේ සහාය හිමි වන බවයි.
+At the end of that alms, Ven.
 
-රට තුළ පංච ශීල ප්‍රතිපත්තිය ආරක්ෂා කිරීමට අවශ්‍ය වැඩපිළිවෙළක් සකස් කර දෙන ලෙස ජනාධිපතිවරයාගෙන් ඉල්ලා සිටි උන්වහන්සේ මහා සංඝරත්නයේ යම් යම් ක්‍රියා කලාප සැබෑ බෞද්ධයින්ගේ සිත් වේදනාවට හා කලකිරීමට පත් කරන බවත් මේ තත්ත්වයෙන් මිදෙන්නට නම් මහා සංඝරත්නය පෙරදැරි කර ගනිමින් ශාසන සංශෝධනයක් කඩිනමින් සිදු කළ යුතු බවත් අවධාරණය කළ හ.
+He urged the president to prepare a program to protect the five-day policy in the country, he emphasized that true Buddhists are frustrating and frustrated and frustrated by the Maha Sangha, to get rid of this situation quickly, the survival revision of the Maha Sangha should be performed soon.And
 
-එහි දී වැඩිදුරටත් අදහස් දැක්වූ පූජ්‍ය මුරුත්තෙට්ටුවේ ආනන්ද නායක හිමි,
+Ven. Muruththewe Ananda Leader, Speaking further,
+
+"Today there are many things that are incorporated to Buddhism as well as from some of the media. Films should be filled with a short time to receive intellectual. But now, the Buddhist. These are very impossible for the Buddha Sasana. I urge you as the head of state to stop the disaster for the Sambuddha Sasana. I kindly request that a monastery or a managing the assault.
 
 ...
 
 [Data](articles/ca176a7f.json)
+
+[Extended Data](ext_articles/ca176a7f.ext.json)
 
 ---
 
@@ -2035,27 +2061,5 @@ He was ordered to be held in the Nugegoda Magistrate's Court today (26) for anot
 [Data](articles/613fa871.json)
 
 [Extended Data](ext_articles/613fa871.ext.json)
-
----
-
-### Sri Lanka's Independence Day for Sinhalese- Jaffna. University Student Union
-
-*2024-01-26 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/174822) · `ta`
-
-The Jaffna University Students Union, which called on the Independence Day of Sri Lanka as a charcoal day, said that the day is appropriate for the Sinhalese people.
-
-Representatives of the University Student Union made this statement while addressing a media briefing held at the University of Jaffna on Thursday (25).
-
-The Tamil people on the island of Sri Lanka have been engaged in a series of protests since then.
-
-Accordingly, we will announce the Independence Day of Sri Lanka on the 4th of February as a charcoal day and inform the public of the North and East.
-
-The rights of the Tamil people are being violated, especially in this island of Sri Lanka. The regimes change. The rulers are also changing. But for the Tamil people to date, no solution plan has been presented. The Sinhalese parties are not ready to find a solution for the Tamil people with a heart hammer.
-
-...
-
-[Data](articles/b4a475cc.json)
-
-[Extended Data](ext_articles/b4a475cc.ext.json)
 
 ---

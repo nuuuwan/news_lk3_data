@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 14:33:09**
+As of **2024-01-26 14:50:05**
 
 ## Newspaper Stats
 
-*Scraped **2,731** Articles*
+*Scraped **2,733** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ economynextcom | 158
 dailyftlk | 202
 adaderanasinhalalk | 237
 adalk | 259
-virakesarilk | 294
-adaderanalk | 343
+virakesarilk | 295
+adaderanalk | 344
 tamilmirrorlk | 348
 dailymirrorlk | 371
 
@@ -26,27 +26,29 @@ dailymirrorlk | 371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,730 (100.0%) of 2,731 articles have been extended.
+2,731 (99.9%) of 2,733 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### මල් ශාලාවේ සේවකයාට තියුණු ආයුධ ප්‍රහාරයක්
+### Sharp weapons attack on the flower hall
 
 *2024-01-26 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192585) · `si`
 
-කහතුඩුව දියගම සමූපකාර මල් ශාලාවට කඩාවැදුණු පස්දෙනෙකුගෙන් යුත් කල්ලියක් එහි සේවකයෙකුට තියුණු ආයුධයකින් පහරදී තිබේ.
+A five-member gang of five cooled into the Cooperative Flower of Kahathuduwa has been attacked with a sharp instrument.
 
-කහතුඩුව පොලීසිය සඳහන් කළේ ප්‍රහාරයෙන් පසු සැකකරුවන් පළාගොස් ඇති බවය.
+The Kahathuduwa police stated that the suspects had fled after the attack.
 
-සිද්ධියෙන් තුවාල ලබා ඇති 24 හැවිරිදි සේවකයාව ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුලත් කෙරුණි.
+The 24-year-old worker was admitted to the Homagama Base Hospital for treatment.
 
-සේවකයා මළසිරුරක් තැන්පත් කිරීම සඳහා පෙට්ටියක අභ්‍යන්තරය සකස් කරමින් සිටියදී එම ස්ථානයට කඩාවැදී ඇති සැකකරුවන් තියුණු ආයුධයකින් සේවකයාගේ පපුවට, බඩට හා ඇස ආසන්නයට කැපුම් තුවාල සිදුකර තිබේ.
+The suspects who had broken the inside of a box in a box to delay the inside of a box to delay the inside of a box in a box in a box.
 
 ◼️
 
 [Data](articles/ada3e109.json)
+
+[Extended Data](ext_articles/ada3e109.ext.json)
 
 ---
 
@@ -77,6 +79,24 @@ A source familiar with the plans told Reuters the shop was expected to open with
 [Data](articles/4b720333.json)
 
 [Extended Data](ext_articles/4b720333.ext.json)
+
+---
+
+### ஜனாதிபதி தேர்தல் தொடர்பில்  முடிவெடுப்பது ரணிலோ பாராளுமன்றமோ அல்ல - ரில்வின் சில்வா
+
+*2024-01-26 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174841) · `ta`
+
+ஜனாதிபதி தேர்தலை ஆணைக்குழுவைத் தவிர வேறு எவரும் தீர்மானிக்கத் தேவையில்லையென்று தேர்தல் ஆணைக்குழு அலுவலகத்தின் பணிப்பாளர் நாயகம் இரு தடவைகள் ஊடகங்களுக்கு கூறியுள்ள என களுத்துறை மாவட்ட மீனவர் மாநாட்டில் மக்கள் விடுதலை முன்னணியின் பொதுச் செயலாளர்  ரில்வின் சில்வா தெரிவித்துள்ளார்.
+
+ஜனாதிபதித் தேர்தலை நடத்துவதற்கான முழு அதிகாரமும் தேர்தல் ஆணைக்குழுவுக்குத்தான் இருக்கிறது. எனவே, இந்த வருடம் செப்டெம்பர் 17 ஆம் திகதிக்கும்  ஒக்டோபர் 17 ஆம் திகதிக்கும் இடையில் ஜனாதிபதித் தேர்தல் நடைபெறும். அதில் சந்தேகமில்லை.
+
+அடுத்த ஜனாதிபதித் தேர்தலில் தேசிய மக்கள் சக்தியின் வேட்பாளர் அநுர குமார திசாநாக்க வெற்றி பெறுவார் என்பதில் சந்தேகமில்லை. எம்மவர் ஜனாதிபதியானதன் பின்னர் இந்தப் பாராளுமன்றம் எமக்குத் தேவையில்லையே.  எனவே, இந்தப் பாராளுமன்றத்தைக் கலைத்து புதிய பாராளுமன்றம் ஒன்றை ஸ்தாபித்து இந்த நாட்டை முன்னேற்ற  வேண்டும்.
+
+அநேகமாக முதலில் ஜனாதிபதித் தேர்தல் நடைபெறும் என்று நாங்கள் நினைக்கிறோம். அடுத்த ஜனாதிபதி தேர்தலில் பெரும்பான்மை மக்களின் ஆதரவு தேசிய மக்கள் சக்தியே அன்றி வேறெதற்கும் இல்லை.
+
+...
+
+[Data](articles/7c1836d5.json)
 
 ---
 
@@ -1102,6 +1122,26 @@ According to reports, the van, which the foreign national and the others were tr
 
 ---
 
+### Austrian national dead, 2 others injured in fatal expressway collision
+
+*2024-01-26 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96735/austrian-national-dead-2-others-injured-in-fatal-expressway-collision) · `en`
+
+A tragic collision on the Kadawatha - Kerawalapitiya section of the Outer Circular Highway has claimed the life of an Austrian national this morning (Jan.26), Ada Derana learns.
+
+According to reports, a lorry had made a sudden stop on the left lane of the motorway after experiencing a breakdown in Kerawalapitiya area. But then, the van, hired by the Austrian national and his parents, had rear-ended the lorry, killing the 37-year-old at the scene.
+
+The deceased’s mother, 60, and the driver of the van were injured in the accident and were admitted to the Colombo North Teaching Hospital in Ragama for immediate medical attention. The father, however, remains unscathed.
+
+Meanwhile, the driver of the van has been taken into custody by the police.
+
+At the time of the accident, the Austrian family had been en route to the Bandaranaike International Airport (BIA) in Katunayake to catch a flight to return to their home country after wrapping up their vacation in Sri Lanka.
+
+◼️
+
+[Data](articles/301ee14a.json)
+
+---
+
 ### Card payments’ merchant fee shouldn’t be borne by customers: CB Deputy Governor
 
 *2024-01-26 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Card-paymentsmerchant-feeshouldnt-be-borne-by-customers-CB-Deputy-Governor/108-275740) · `en`
@@ -2031,39 +2071,5 @@ The jeep was on the back of the container after falling in front of Katunayake t
 [Data](articles/799c0f48.json)
 
 [Extended Data](ext_articles/799c0f48.ext.json)
-
----
-
-### Meet The Brothers Size In A Local Backyard
-
-*2024-01-25 21:38:05* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/meet-the-brothers-size-in-a-local-backyard/) · `en`
-
-The Sinhala language production of The Brothers Size, premiered in December 2023, in a Kumbukgahaduwa backyard. Directed by Prasanna Mahagamage, it was enacted by Hiran Abeysekera, Danushka Dias, and Chamara Gamaathige.
-
-This Sinhala production was one-of-a-kind, in multiple ways. It was a collective translation from English to Sinhala by the director and actors. The open theatre space called LOVEARTLOVE was an unconventional, unknown, residential space, away from the city centre and other familiar theatre locations. The play itself had an ambiguous English title transliterated in Sinhala. The e-flyer announcing the play, displaying an architectural drawing, announced irregular seating, and possibly standing spaces for the audience. A mysterious charm, amidst risk-taking. Was the focus more on entertainment, and coming together with ‘sexy theatre lovers’, and ‘BYOB… clinking glasses’ later, than a theatre enactment?
-
-...
-
-[Data](articles/676bd257.json)
-
-[Extended Data](ext_articles/676bd257.ext.json)
-
----
-
-### Solutions to principals’ issues, Ministerial Committee report released
-
-*2024-01-25 21:37:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Solutions-to-principals-issues-Ministerial-Committee-report-released/108-275719) · `en`
-
-Colombo, Jan 25 (Daily Mirror) - The report of the committee appointed to resolve the outstanding issues in the Principals' Service, to develop the pricipals' service compatibility according to the educational reforms while uplifting the professional nature of the service was handed over to Education Minister Susil Premajayantha today.
-
-In this report, case studies and relevant recommendations have been presented through six main points.
-
-Accordingly, details relating to developing principalship as a recognized profession,formulation of a National Policy on Principals' Service, amending the service constitution and structuring it for the future, the principal's role, responsibilities and accountabilities, principals' pay benefits and opportunities for talent development and the role of educational reform implementation have been included in the report.
-
-...
-
-[Data](articles/36badca1.json)
-
-[Extended Data](ext_articles/36badca1.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 01:49:43**
+As of **2024-01-27 02:02:23**
 
 ## Newspaper Stats
 
-*Scraped **2,818** Articles*
+*Scraped **2,830** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 124
 islandlk | 151
 newsfirstlk | 155
 economynextcom | 168
-dailyftlk | 202
+dailyftlk | 214
 adaderanasinhalalk | 258
 adalk | 265
 virakesarilk | 300
@@ -26,11 +26,161 @@ dailymirrorlk | 393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,818 (100.0%) of 2,818 articles have been extended.
+2,818 (99.6%) of 2,830 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### SL holds first ever single country exhibition in Brazil
+
+*2024-01-27 00:53:23* · [`dailyftlk`](https://www.ft.lk/business/SL-holds-first-ever-single-country-exhibition-in-Brazil/34-757822) · `en`
+
+The first ever single country exhibition on Sri Lanka in Brazil was held under the theme ‘Explore Sri Lanka 2024’ on 12 and 13 January at the Espaço Cultural Renato Russo (Cultural Centre) in Brasilia to promote history, heritage, culture, trade, tourism, cuisine and products of Sri Lanka.
+
+The exhibition was organised by the Embassy of Sri Lanka in Brazil in collaboration with the Secretariat for the International Relations of the Federal District Government of Brazil.
+
+The opening ceremony was held on Friday, 12 January with the participation of senior officials of the government of Brazil, diplomats, business leaders, tour operators and journalists.
+
+...
+
+[Data](articles/da41d0f8.json)
+
+---
+
+### NDB Bank takes centre stage as Official Banking Partner at Kadella Exhibition 2024
+
+*2024-01-27 00:48:56* · [`dailyftlk`](https://www.ft.lk/business/NDB-Bank-takes-centre-stage-as-Official-Banking-Partner-at-Kadella-Exhibition-2024/34-757821) · `en`
+
+National Development Bank PLC (NDB) stands as the Official Banking Partner at the eagerly anticipated Kadella Exhibition 2024, hosted at BMICH from 26 to 28 January.
+
+Organised by CEC Events Ltd, this premier exhibition is the go-to destination for individuals seeking inspiration and guidance on their homeownership journey in Sri Lanka.
+
+Featuring over 150 stalls, the “Kadella Living in Style” exhibition showcases a diverse range of home-related products and services, spanning from household appliances, furniture, and craft to tiles and sanitary wear, designers, manufacturers, and smart home and security solutions.
+
+Beyond a mere exhibition, Kadella provides a unique opportunity for visitors to explore businesses within the industry, gain insights into emerging trends, and discover tailored solutions for their specific requirements.
+
+As the Official Banking Partner, NDB’s dedicated stall invites potential homeowners to explore valuable insights into NDB Home Loans.
+
+...
+
+[Data](articles/9e8017a7.json)
+
+---
+
+### Nelco Food Products bags Gold award at NIE Awards
+
+*2024-01-27 00:46:37* · [`dailyftlk`](https://www.ft.lk/business/Nelco-Food-Products-bags-Gold-award-at-NIE-Awards/34-757820) · `en`
+
+Nelco Food Products Ltd., a leading food company in the country, claimed Gold award in the Medium Category (Spices and Condiments Sector) at the National Industry Excellence Awards 2023 organised by the Industrial Development Board (IDB). The award ceremony was held recently at the Nelum Pokuna Mahinda Rajapaksa Theatre in Colombo under the patronage of former President Mahinda Rajapaksa. Founded by Nimal Ariyaratne as a small-scale home-based business in 1992, Nelco Food Products is currently a leading food company in the country. Since inception, they have stood firm against many challenges. Nelco Food Products has provided more than 250 job opportunities and indirect earning opportunities for many while moving ahead steadily in the market.
+
+...
+
+[Data](articles/15f8acfa.json)
+
+---
+
+### Sri Lanka discusses ways to strengthen economic ties with Jordan
+
+*2024-01-27 00:44:17* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-discusses-ways-to-strengtheneconomic-ties-with-Jordan/34-757819) · `en`
+
+The Ambassador of Sri Lanka to Jordan J.A.D.S. Priyangika Wijegunasekara, held talks with the First Vice Chairman of the Jordan Chamber of Commerce Nabil Khatib on 22 January, which focused on ways to strengthen economic ties between the two countries through visits of delegations and trade missions.
+
+At the discussion Ambassador Wijegunasekara spoke of the developing Sri Lanka-Jordan relations on trade and the growth and development of bilateral relations which was established in 1965.
+
+The Ambassador also emphasised on the need to strengthen the economic and trade relations between the two countries and improve political and financial stability and shared updates on the ongoing IMF bailout program, and the ease of import controls that take place subsequently. The discussion also focused on attracting Jordanian investors to Colombo Port City, which is vital for the socio-economic development of Sri Lanka.
+
+...
+
+[Data](articles/ca816907.json)
+
+---
+
+### India’s 75th Republic Day celebrations in Sri Lanka
+
+*2024-01-27 00:41:57* · [`dailyftlk`](https://www.ft.lk/news/India-s-75thRepublic-Day-celebrations-in-Sri-Lanka/56-757818) · `en`
+
+The High Commission of India, in Colombo celebrated India’s 75th Republic Day yesterday.
+
+It was on 26 January 1950 that the Indian Constitution, the world’s largest written Constitution, came into force. The Preamble to the Constitution declares India to be a Sovereign, Socialist, Secular, Democratic, Republic.
+
+On the occasion, High Commissioner Santosh Jha unfurled India’s national flag at India House, the residence of the Indian High Commissioner and inspected the Guard of Honour. The High Commissioner also read out excerpts of the Indian President’s Republic Day address.
+
+...
+
+[Data](articles/5ee07a5c.json)
+
+---
+
+### Ambassador Manisha Gunasekera presents credentials to President of Portugal
+
+*2024-01-27 00:35:46* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Manisha-Gunasekera-presents-credentials-to-President-of-Portugal/56-757817) · `en`
+
+Ambassador Manisha Gunasekera presented her Letters of Credence to the President of the Portuguese Republic Marcelo Rebelo de Sousa at the historic Belém Palace in Lisbon on 8 January.
+
+The presentation of credentials was followed by a brief conversation with President de Sousa in which the Ambassador conveyed the warm greetings and best wishes of President Ranil Wickremesinghe to the Portuguese Head of State who reciprocated the sentiments.
+
+Following the Credentials ceremony, President de Sousa hosted resident and non-resident Ambassadors accredited to Portugal to a traditional New Year Greetings Dinner at the Ajuda National Palace on Tuesday 9 January. The Ambassador also attended a luncheon for non-resident ambassadors to Portugal hosted by the Minister of Foreign Affairs of Portugal João Gomes Cravinho at the Foreign Ministry the same day.
+
+...
+
+[Data](articles/f36a6ce1.json)
+
+---
+
+### Kudos for Sri Lanka in US for ratifying Treaty on Prohibition of Nuclear Weapons
+
+*2024-01-27 00:31:52* · [`dailyftlk`](https://www.ft.lk/news/Kudos-for-Sri-Lanka-in-US-for-ratifying-Treaty-on-Prohibition-of-Nuclear-Weapons/56-757816) · `en`
+
+Chesapeake Physicians for Social Responsibility (CPSR) President Dr. Gwen L. DuBois MD, MPH, and a CPSR representative visited the Embassy of Sri Lanka in Washington D.C. on 24 January to present a certificate of recognition to the Government of Sri Lanka for its commitment towards the UN Treaty on the Prohibition of Nuclear Weapons (TPNW).
+
+The President of CPSR, representing CPSR and Prevent Nuclear war-Maryland extended their gratitude towards Sri Lanka for being the 69th nation to ratify the treaty which coincided with the third anniversary of the treaty entering into effect.
+
+The CPSR is a local chapter of Physicians for Social Responsibility (PSR) in the State of Maryland. The PSR is the US affiliate of International Physicians for the Prevention of Nuclear War (IPPNW) which won the Nobel Peace Prize in 1985.
+
+◼️
+
+[Data](articles/a73e8e04.json)
+
+---
+
+### Australian High Commissioner hosts Australia Day 2024
+
+*2024-01-27 00:30:18* · [`dailyftlk`](https://www.ft.lk/news/Australian-High-Commissioner-hosts-Australia-Day-2024/56-757815) · `en`
+
+The Australian High Commissioner to Sri Lanka Paul Stephens hosted a reception to celebrate Australia Day 2024 on 24 January.
+
+Ports, Shipping and Aviation Minister Nimal Siripala de Silva joined the reception as the Chief Guest.
+
+Australia Day is an opportunity for Australians to come together and celebrate our modern, multicultural nation. Following Australia’s recent victory in the World Cup, this year’s Australia Day reception was used to highlight the passion Australians and Sri Lankans share for the game of cricket.
+
+The event also showcased our longstanding bilateral ties that encompass many sectors such as trade and investment, education, maritime cooperation, culture and sport.
+
+◼️
+
+[Data](articles/58aeb7f9.json)
+
+---
+
+### Fully-funded scholarships by Indian Govt. for Sri Lankan nationals
+
+*2024-01-27 00:26:00* · [`dailyftlk`](https://www.ft.lk/news/Fully-funded-scholarships-by-Indian-Govt-for-Sri-Lankan-nationals/56-757814) · `en`
+
+The High Commission of India, Colombo is inviting applications for around 200 fully-funded scholarships for Sri Lankan nationals, across various levels.
+
+These scholarships are being offered for studies in prestigious Indian institutes and universities across subject domains but not including Medical/Paramedical, Fashion Design and Law courses. The scholarships offered exclusively for Sri Lankan nationals are for 2024-2025 academic session.
+
+The schemes under which these scholarships have been offered are:
+
+a)   Nehru Memorial Scholarship Scheme: This scheme covers Under Graduate/Post Graduate and PhD courses in various domains such as Engineering, Science, Business, Economics, Commerce, Humanities and Arts, among others.
+
+b)   Maulana Azad Scholarship Scheme: Masters Degrees courses with preference to Engineering, Science and Agriculture.
+
+...
+
+[Data](articles/a83bc19a.json)
+
+---
 
 ### The Attack on ITAK  Jaffna MP,  Shritharan in  Anuradhapura
 
@@ -85,6 +235,56 @@ The Sri Lanka Freedom Party (SLFP) and the Sri Lanka Podujana Peramuna (SLPP) ha
 ---
 
 ### 2024-01-26 (Friday)
+
+### Climate entrepreneurship and green economic growth in Sri Lanka
+
+*2024-01-26 23:51:27* · [`dailyftlk`](https://www.ft.lk/columns/Climate-entrepreneurship-and-green-economic-growth-in-Sri-Lanka/4-757809) · `en`
+
+Startups, entrepreneurs, and SMEs can play a crucial role as pioneers for a just transition towards a more sustainable, climate-friendly, and resilient economy
+
+The climate crisis presents a critical challenge for countries across the world. In particular, climate-vulnerable developing countries such as Sri Lanka are facing severe climate impacts as well as losses and damages, affecting all economic sectors and constraining fiscal space, development efforts, and climate action.
+
+Against this backdrop, there is a clear need for economic transformation and transition. On the one hand, existing livelihoods and business models need to adapt to climatic changes and become more resilient to shocks; on the other hand, there are also opportunities to invest in more sustainable and climate-friendly products, practices, and services across key sectors and at all levels.
+
+...
+
+[Data](articles/c94cce15.json)
+
+---
+
+### Sri Lanka scales up preventive healthcare with impressive results
+
+*2024-01-26 23:45:11* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-scales-up-preventive-healthcare-with-impressive-results/4-757808) · `en`
+
+The Kopay Divisional Hospital in the Jaffna District in northern Sri Lanka is one of the primary medical care institutions in the country – Photo: World Bank/Chameera Laknath
+
+A recent visit to Sri Lanka took me to the Kopay Divisional Hospital in the Jaffna District in the northern part of the country. For the close to 16,000 people living in the area, this hospital serves as the first point of care. It is also one of the primary medical care institutions that is part of Sri Lanka’s primary healthcare reorganisation strategy, implemented with support from the World Bank.
+
+What impressed me the most about the hospital is its investment in preventive care and the shift in approach from episodic to continued care, which has been successfully introduced over the last few years. Now, patients are routinely screened for noncommunicable diseases, including diabetes and cardiovascular diseases, and connected to appropriate treatments.
+
+...
+
+[Data](articles/6eb7d0f8.json)
+
+---
+
+### Speaking truth to power – ‘Ethnics’ in ELT to the fore: the curtain falls (Part III of III)
+
+*2024-01-26 23:38:20* · [`dailyftlk`](https://www.ft.lk/columns/Speaking-truth-to-power-Ethnics-in-ELT-to-the-fore-the-curtain-falls-Part-III-of-III/4-757806) · `en`
+
+It was an eye-opener, and an open invitation to other ethnics – indeed, the ethnic other – to similarly turn the lens of scrutiny upon themselves
+
+English-Language Theatre (ELT) in Sri Lanka has great potential as a tool for civil society to engage critically with the political powers that be when our elected representatives get uppity or let us and themselves down.
+
+It is a pity then that since 1994, when a humble arts editor (ahem) proposed a consortium of the creative and critical arms of the performing arts to this end, there have been few takers and even fewer serious contenders where ELT has dared to ‘speak truth to power’.
+
+Many attempts were made – from politicised staging of Shakespeare and Orwell, through slapstick masquerading as satire, to original pieces in the shape and form of existential plays, stand-up comedy and (O, Dario Fo!) even musicals.
+
+...
+
+[Data](articles/ee6e3cfb.json)
+
+---
 
 ### Fisherman, helper arrested for abusing 12-year-old boy
 
@@ -1807,235 +2007,5 @@ At least 27 petitions have been put forward against the proposed legislation whi
 [Data](articles/d8ae44c5.json)
 
 [Extended Data](ext_articles/d8ae44c5.ext.json)
-
----
-
-### The body of a youth's body was recovered while sleeping in Batticaloa
-
-*2024-01-26 12:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174817) · `ta`
-
-A 21 -year -old youth has been found dead in Nawaladi, Batticaloa.
-
-He was married to Kumarapuram, Batticaloa. He was found dead on Friday morning (26).
-
-◼️
-
-[Data](articles/a5102b9b.json)
-
-[Extended Data](ext_articles/a5102b9b.ext.json)
-
----
-
-### Sri Lanka railway station in the dark for nonpayment of electricity bill
-
-*2024-01-26 12:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-railway-station-in-the-dark-for-nonpayment-of-electricity-bill-148763/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s state-run Ceylon Electricity Board (CEB) has disconnected the power supply to the Bambalapitiya railway station due to nonpayment of electricity bills amounting to over 78,000 rupees.
-
-Railways Deputy General Manager (Traffic) M J Indipolage told reporters Friday January 26 that the CEB has not heeded a routine request of a few days’ grace period to settle outstanding bills.
-
-“The accounts division takes measures to pay these electricity bills the moment they arrive. Sometimes, there are instances where it’s delayed. At those time, we talk to the CEB and request a grace period of a few days, without resorting to disconnection. It seems that this time that request was not heeded,” he said.
-
-Indipolage said the request is made taking into account the inconvenience to the public as well.
-
-...
-
-[Data](articles/1c657ebf.json)
-
-[Extended Data](ext_articles/1c657ebf.ext.json)
-
----
-
-### Questionnaire Leak: Explanation for the trio
-
-*2024-01-26 12:48:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/வினாத்தாள்-கசிவு-மூவருக்கும்-விளக்கமறியல்/74-332140) · `ta`
-
-All three persons arrested in connection with the incident of leaking the first and 2nd questions of the ongoing Education General Examination of the ongoing GCE Ordinary Level Examination.
-
-The Chief Magistrate of Ampara and Additional District Judge Mrs. Naomi Wickramaratne ordered the above.
-
-The Moratuwa Maha Vidyalaya Examination Hall and the office assistant were arrested on Thursday (25). They have been ordered to be remanded until the 2nd.
-
-Dinesh Viratani and office assistant Sumuthu Sindhana have been kept in charge of the Moratuwa Maha Vidyalaya Examination Hall.
-
-The Agricultural Science Teacher of the Ampara DS Senanayake Vidyalaya, which is currently being kept in detail on the release of the exam question papers, has been presented in court on Wednesday (26) and she has been remanded till the 2nd of this month.
-
-◼️
-
-[Data](articles/a1260d91.json)
-
-[Extended Data](ext_articles/a1260d91.ext.json)
-
----
-
-### We can't breathe free air: Sridharan
-
-*2024-01-26 12:21:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/சுதந்திர-காற்றை-சுவாசிக்க-முடியாது-இருக்கிறோம்-ஸ்ரீதரன்/72-332139) · `ta`
-
-The Sinhalese people have begun to experience the suffering suffered by the Tamil people. Thus the state is in fear. This is also the way to open the path to Tamils. Therefore, the new leader of the Sri Lanka Tamil National Party, Sivagnanam Sreedharan, said that we should all unite.
-
-Kilinochchi District Parliamentarian S. Sreedharan was elected as the new leader of the Sri Lanka Tamil National Alliance (TNA) on Thursday evening at the Mannar office by members of the Mannar District Tamil National Party.
-
-Likewise, in my history of my history, I am talking to the members of the Mannar Tamil party.
-
-Although we have sacrificed many lives in this soil we are in a state of unable to breathe another free air. We are still alienating.
-
-We have been a race that has been fighting for over 75 years. In 1949, Father Selva said that Tamils are a national race. He began to act to restore the lost sovereignty and live with our national identity.
-
-...
-
-[Data](articles/0f7edf69.json)
-
-[Extended Data](ext_articles/0f7edf69.ext.json)
-
----
-
-### Electricity supply to Bambalapitiya railway station disconnected over unpaid bills
-
-*2024-01-26 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96741/electricity-supply-to-bambalapitiya-railway-station-disconnected-over-unpaid-bills) · `en`
-
-The electricity supply to the Bambalapitiya railway station has been disconnected owing to the non-payment of bills.
-
-It was reported that for about two days, the functions of the railway station were carried out by using alternative lighting sources such as kerosene oil lamps. As a result, the commuters as well as the employees of the railway station including the station masters have reportedly been experiencing inconveniences.
-
-A spokesperson of the railway station stated that the suspension of electricity supply has affected the proper delivery of announcements at the railway station.
-
-◼️
-
-[Data](articles/5b002cf6.json)
-
-[Extended Data](ext_articles/5b002cf6.ext.json)
-
----
-
-### Minister Sanath Nishantha's body to take away to Arachchikattuwa
-
-*2024-01-26 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192582) · `si`
-
-The remains of the death of Hon.
-
-Our correspondent said that the remains held at the Borella Ravad Flower of Colombo for public dignity were taken out a few months ago.
-
-◼️
-
-[Data](articles/15009b00.json)
-
-[Extended Data](ext_articles/15009b00.ext.json)
-
----
-
-### India's 75th Republic Day was celebrated
-
-*2024-01-26 12:13:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவின்-75வது-குடியரசு-தினம்-கொண்டாடப்பட்டது/175-332138) · `ta`
-
-The 75th Republic Day of India was celebrated by the Indian High Commissioner to Sri Lanka, Santosh Ja, the Indian House in Colombo.
-
-◼️
-
-[Data](articles/bad55382.json)
-
-[Extended Data](ext_articles/bad55382.ext.json)
-
----
-
-### City Protection Act: The government does not embrace the amendments made by the court - the United People's Power
-
-*2024-01-26 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174831) · `ta`
-
-The United People's Power has appealed to the meeting of party leaders before the Speaker gives its approval to the Savior Safety Act.
-
-The United Nations Shakti has decided to request a meeting of the Speaker's party leader on the issue of protection law, as the government has not taken up some of the amendments made by the Supreme Court.
-
-The United People's Power MP has said that the Speaker should not approve the law as the Supreme Court's recommendations have not been enacted.
-
-He also said that if the Speaker grants his permission without the appropriate amendments, there may be a conflict between the judiciary and the legislation.
-
-◼️
-
-[Data](articles/2dc5d63b.json)
-
-[Extended Data](ext_articles/2dc5d63b.ext.json)
-
----
-
-### Austrian tourist dies, three others injured in highway accident
-
-*2024-01-26 12:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Austrian-tourist-dies-three-others-injured-in-highway-accident/108-275773) · `en`
-
-Mahabage, Jan 26 (Daily Mirror) - An Austrian national died and three other foreigners injured when the van they were travelling in collided against the back of a lorry on the Katunayake Expressway near the 27th kilometre post this morning.
-
-Police said the van carrying tourists travelling towards Kerawalapitiya from Kawadatha collided with the lorry travelling in the same direction.
-
-The injured tourists were admitted to the Colombo North Teaching Hospital where the 37-year-old Austrian tourist died on admission.
-
-◼️
-
-[Data](articles/7f169d45.json)
-
-[Extended Data](ext_articles/7f169d45.ext.json)
-
----
-
-### Sword cut on youth of Nelliyadi
-
-*2024-01-26 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174829) · `ta`
-
-After lodging a complaint at the police station, a young man who was returning home was on the street and some people attacked him.
-
-Jayakody Kardiban, 30, from Vadamarachchi, Jaffna, has been admitted to the hospital with the attacker.
-
-While the young man was engaged in the sale of ice cream yesterday evening, two youths on a motorbike pretended to buy ice cream and robbed the young man's money and cell phone.
-
-While returning home after a youth lodged a complaint at the Nelliyadi police station, some people who had led the youth in the Alwai area had fled the sword.
-
-Nelliyadi police are conducting investigations as the injured youth is being treated at the hospital.
-
-◼️
-
-[Data](articles/e1f610f3.json)
-
-[Extended Data](ext_articles/e1f610f3.ext.json)
-
----
-
-### Austrian citizen dies and two others injured in an accident in the expressway
-
-*2024-01-26 11:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/austrian-citizen-dies-and-two-others-injured-in-an-accident-in-the-expressway/) · `en`
-
-COLOMBO (News 1st); A 37-year-old Austrian citizen has died and two others have been injured in an accident on the expressway between Kadavata and Kerawalapitiya.
-
-Police say the accident occurred when a van collided with the a lorry around 7 this morning.
-
-Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
-
-Austrian citizen dies and two others injured in an accident in the expressway
-
-Several government-owned buildings to be handed over to private sector under lease
-
-Face to Face | Ravi Karunanayake | Operation Successful, patient dead
-
-◼️
-
-[Data](articles/99b3080f.json)
-
-[Extended Data](ext_articles/99b3080f.ext.json)
-
----
-
-### Russia and India set to revitalize alternative shipping line
-
-*2024-01-26 11:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Russia-and-India-set-to-revitalize-alternative-shipping-line/107-275772) · `en`
-
-Russia, Jan 26 (Russia Today) - Moscow and New Delhi on Wednesday held detailed talks on reviving the Eastern Maritime Corridor (EMC) connecting Vladivostok in the Russian Far East and Chennai on India’s eastern coast.
-
-The route, which was operational during the Soviet era, is the object of renewed interest from businesses in both countries amid an unprecedented surge in oil, coal, and fertilizer exports from Russia to India, as well as tensions in the Red Sea impacting existing shipping routes.
-
-Speaking at a conference in Chennai, the Indian Minister for Ports, Shipping and Waterways, Sarbananda Sonowal, called the Eastern Maritime Corridor a “game changer” that would save up to 16 days of travel, significantly cutting freight costs. At present, most of the trade between India and Russia is conducted via the Mumbai–St. Petersburg sea route, which traverses the Suez Canal and takes 35-40 days.
-
-...
-
-[Data](articles/8a31adde.json)
-
-[Extended Data](ext_articles/8a31adde.ext.json)
 
 ---

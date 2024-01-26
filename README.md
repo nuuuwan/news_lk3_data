@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 19:02:20**
+As of **2024-01-26 19:17:19**
 
 ## Newspaper Stats
 
-*Scraped **2,776** Articles*
+*Scraped **2,778** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,50 @@ adaderanasinhalalk | 248
 adalk | 261
 virakesarilk | 298
 tamilmirrorlk | 349
-adaderanalk | 350
+adaderanalk | 352
 dailymirrorlk | 381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,776 (100.0%) of 2,776 articles have been extended.
+2,776 (99.9%) of 2,778 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### World Court orders Israel to prevent acts of genocide, fails to order ceasefire
+
+*2024-01-26 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/96752/world-court-orders-israel-to-prevent-acts-of-genocide-fails-to-order-ceasefire) · `en`
+
+The World Court ordered Israel on Friday to prevent acts of genocide against the Palestinians and do more to help civilians, although it stopped short of ordering a ceasefire as requested by South Africa.
+
+South Africa brought the case to the International Court of Justice (ICJ) earlier this month, asking it to grant emergency measures to halt the fighting, which has killed more than 26,000 Palestinians.
+
+It accused Israel of state-led genocide in its offensive, begun after Hamas militants stormed into Israel killing 1,200 and kidnapping more than 240. Israel sought to have the case thrown out.
+
+In Friday’s ruling, the judges said Israel must take all measures within its power to prevent its troops from committing genocide, punish and must take steps to improve the humanitarian situation.
+
+...
+
+[Data](articles/d0db3f83.json)
+
+---
+
+### New Board of Directors appointed to SLT
+
+*2024-01-26 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96751/new-board-of-directors-appointed-to-slt) · `en`
+
+A new Board of Directors has been appointed to the Sri Lanka Telecom PLC with immediate effect, in place of the current members appointed on behalf of the Government of Sri Lanka.
+
+This appointments come under the directives of President Ranil Wickremesinghe, Secretary to the President Saman Ekanayake said in a communiqué.
+
+◼️
+
+[Data](articles/bcef6172.json)
+
+---
 
 ### Remains of late State Minister Sanath Nishantha taken to Puttalam
 
@@ -2057,41 +2089,5 @@ Although the practice has been known and in public for a very long time, no one 
 [Data](articles/5003bbf7.json)
 
 [Extended Data](ext_articles/5003bbf7.ext.json)
-
----
-
-### World’s first execution by Nitrogen injection carried out in US state of Alabama
-
-*2024-01-26 09:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/world%e2%80%99s-first-execution-by-nitrogen-injection-carried-out-in-us-state-of-alabama/) · `en`
-
-Colombo (News 1st) – The world’s first execution by Nitrogen injection, a new method of putting a person to death, was carried out by the U.S. state of Alabama on Thursday (25th).
-
-Kenneth Eugene Smith, 58, was executed by having nitrogen gas pumped into his lungs through a mask for several minutes. Authorities say the method is relatively painless, but his lawyers had argued that it was a cruel and unusual method.
-
-Smith and an accomplice were convicted of the 1988 murder of a 45-year-old woman. It was a hired killing for which they were paid USD 1,000 by her husband, a preacher, who later killed himself as police tried to arrest him.
-
-The U.S. Supreme Court declined to hear his case. Smith claimed he was present at the scene of the murder but did not take part in the attack.
-
-...
-
-[Data](articles/b1cb60e9.json)
-
-[Extended Data](ext_articles/b1cb60e9.ext.json)
-
----
-
-### ‘Yukthiya’ operation leads to arrest of 871 more suspects
-
-*2024-01-26 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96734/yukthiya-operation-leads-to-arrest-of-871-more-suspects) · `en`
-
-A total of 871 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.26) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 231g of heroin, 129g of crystal methamphetamine (‘Ice’), and 222 narcotic pills.
-
-◼️
-
-[Data](articles/36bee5ba.json)
-
-[Extended Data](ext_articles/36bee5ba.ext.json)
 
 ---

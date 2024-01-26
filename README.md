@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 14:17:20**
+As of **2024-01-26 14:33:09**
 
 ## Newspaper Stats
 
-*Scraped **2,730** Articles*
+*Scraped **2,731** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 151
 newsfirstlk | 152
 economynextcom | 158
 dailyftlk | 202
-adaderanasinhalalk | 236
+adaderanasinhalalk | 237
 adalk | 259
 virakesarilk | 294
 adaderanalk | 343
@@ -26,11 +26,29 @@ dailymirrorlk | 371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,729 (100.0%) of 2,730 articles have been extended.
+2,730 (100.0%) of 2,731 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### මල් ශාලාවේ සේවකයාට තියුණු ආයුධ ප්‍රහාරයක්
+
+*2024-01-26 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192585) · `si`
+
+කහතුඩුව දියගම සමූපකාර මල් ශාලාවට කඩාවැදුණු පස්දෙනෙකුගෙන් යුත් කල්ලියක් එහි සේවකයෙකුට තියුණු ආයුධයකින් පහරදී තිබේ.
+
+කහතුඩුව පොලීසිය සඳහන් කළේ ප්‍රහාරයෙන් පසු සැකකරුවන් පළාගොස් ඇති බවය.
+
+සිද්ධියෙන් තුවාල ලබා ඇති 24 හැවිරිදි සේවකයාව ප්‍රතිකාර සඳහා හෝමාගම මූලික රෝහලට ඇතුලත් කෙරුණි.
+
+සේවකයා මළසිරුරක් තැන්පත් කිරීම සඳහා පෙට්ටියක අභ්‍යන්තරය සකස් කරමින් සිටියදී එම ස්ථානයට කඩාවැදී ඇති සැකකරුවන් තියුණු ආයුධයකින් සේවකයාගේ පපුවට, බඩට හා ඇස ආසන්නයට කැපුම් තුවාල සිදුකර තිබේ.
+
+◼️
+
+[Data](articles/ada3e109.json)
+
+---
 
 ### Saudi Arabia to get first alcohol shop in more than 70 years
 
@@ -57,6 +75,8 @@ A source familiar with the plans told Reuters the shop was expected to open with
 ...
 
 [Data](articles/4b720333.json)
+
+[Extended Data](ext_articles/4b720333.ext.json)
 
 ---
 
@@ -2045,29 +2065,5 @@ Accordingly, details relating to developing principalship as a recognized profes
 [Data](articles/36badca1.json)
 
 [Extended Data](ext_articles/36badca1.ext.json)
-
----
-
-### Now the problem with a economy - President
-
-*2024-01-25 21:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192569) · `si`
-
-President Ranil Wickremesinghe says that even foreign leaders have been subjected to restoration of bankruptcy.
-
-The President made this observation at the opening ceremony of the Sapugaskanda Abeysekararamaya.
-
-"I took over that government.. It was the economic broke out that day. The economy was lost. There was no food to live for people. There was no income. There was no fuel. Because of the need to rescue the economy, so that it is possible to do so.. I took over the president in this country. "
-
-"Two years have gone,. There is a common common condition. There is a loan payment questions. There is economic problems.. These are the questions that have been recovered by a economy. We're in there now. "
-
-"Many world leaders were surprised at the developed in a very short time. There will be stability of the economy in the future. "
-
-"The income of the country has to be increased. That is why they had to increase the vate. "
-
-◼️
-
-[Data](articles/aa680ee0.json)
-
-[Extended Data](ext_articles/aa680ee0.ext.json)
 
 ---

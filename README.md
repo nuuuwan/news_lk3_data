@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 11:17:12**
+As of **2024-01-26 11:32:49**
 
 ## Newspaper Stats
 
-*Scraped **2,687** Articles*
+*Scraped **2,692** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 39
 bbccomsinhala | 52
 dbsjeyarajcom | 124
-newsfirstlk | 146
+newsfirstlk | 150
 islandlk | 151
 economynextcom | 154
 dailyftlk | 202
 adaderanasinhalalk | 232
 adalk | 258
 virakesarilk | 286
-adaderanalk | 337
+adaderanalk | 338
 tamilmirrorlk | 340
 dailymirrorlk | 366
 
@@ -26,11 +26,29 @@ dailymirrorlk | 366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,686 (100.0%) of 2,687 articles have been extended.
+2,687 (99.8%) of 2,692 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Driver of Sanath Nishantha’s vehicle details chilling moment of fatal collision
+
+*2024-01-26 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96738/driver-of-sanath-nishanthas-vehicle-details-chilling-moment-of-fatal-collision) · `en`
+
+The driver of the SUV belonging to late State Minister Sanath Nishantha has detailed the chilling moment when the fatal collision, which killed the lawmaker and his security guard on Thursday morning (Jan.25), happened.
+
+During interrogations, Prabhath Eranga told the police: “We were trying to reach Colombo as soon as possible. The [state] minister was asleep at the time. I overtook the car in front of us, from the left side. And when I tried to get the jeep back to the lane on the right side, I hit the container truck moving in front of us.”
+
+The driver, who is currently receiving medical care at the Colombo North Teaching Hospital in Ragama, further stated that he ended up crashing into the roadside barrier as he lost control of the vehicle after rear-ending the container truck.
+
+Some media reports, citing the findings of ongoing investigations, had mentioned that the SUV had been speeding at 160kmph at the time of the accident.
+
+...
+
+[Data](articles/6811bfbe.json)
+
+---
 
 ### ‘Vishwa Buddha’ further remanded on another pending case
 
@@ -49,6 +67,70 @@ According to police, the saffron-robed monk had allegedly issued statements deme
 ...
 
 [Data](articles/e34709ed.json)
+
+[Extended Data](ext_articles/e34709ed.ext.json)
+
+---
+
+### Face to Face | Ravi Karunanayake | Operation Successful, patient dead
+
+*2024-01-26 10:15:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/face-to-face-ravi-karunanayake-operation-successful-patient-dead/) · `en`
+
+Face to Face | Ravi Karunanayake | Operation Successful, patient dead
+
+Face to Face | Ravi Karunanayake | Operation Successful, patient dead
+
+International Court of Justice set to rule on Gaza War today
+
+The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
+
+Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
+
+World’s first execution by Nitrogen injection carried out in US state of Alabama
+
+◼️
+
+[Data](articles/1a9cc138.json)
+
+---
+
+### International Court of Justice set to rule on Gaza War today
+
+*2024-01-26 10:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/international-court-of-justice-set-to-rule-on-gaza-war-today/) · `en`
+
+Colombo (News 1st) – The International Court of Justice (ICJ) could order Israel to halt its Gaza offensive, in a sitting scheduled for Friday (26th) in The Hague, Netherlands.
+
+The ICJ is the judicial body of the United Nations that decides on disputes between nations.  It comprises 17 judges from 17 nations, including one each from South Africa and Israel.
+
+Judges are set to rule today on whether to order Israel to suspend its military campaign, as it responds to a case brought to the UN’s highest court by South Africa accusing Israel of state-led genocide in Gaza. The ICJ is set to rule on South Africa’s request for “provisional measures” against Israel over its alleged genocide in Gaza; the top UN court could order Israel to halt its offensive against the Palestinian territory.
+
+The court will not rule today on whether Israel has committed acts of genocide. That process could take several years.
+
+...
+
+[Data](articles/2d783b18.json)
+
+---
+
+### The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
+
+*2024-01-26 10:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/the-people%e2%80%99s-platform-dr-kalana-senaratne-reforms-the-need-of-the-hour/) · `en`
+
+The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
+
+Face to Face | Ravi Karunanayake | Operation Successful, patient dead
+
+International Court of Justice set to rule on Gaza War today
+
+The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
+
+Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
+
+World’s first execution by Nitrogen injection carried out in US state of Alabama
+
+◼️
+
+[Data](articles/f5db86b6.json)
 
 ---
 
@@ -71,6 +153,28 @@ However, critics say it will be strictly affected by Israel politically.
 [Data](articles/b2b3ed75.json)
 
 [Extended Data](ext_articles/b2b3ed75.ext.json)
+
+---
+
+### Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
+
+*2024-01-26 10:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/talk-of-the-town-dr-kalana-senaratne-reforms-the-need-of-the-hour-26-january-2024/) · `en`
+
+Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
+
+Face to Face | Ravi Karunanayake | Operation Successful, patient dead
+
+International Court of Justice set to rule on Gaza War today
+
+The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
+
+Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
+
+World’s first execution by Nitrogen injection carried out in US state of Alabama
+
+◼️
+
+[Data](articles/172e00c1.json)
 
 ---
 
@@ -482,15 +586,15 @@ Police say the killings were carried out with 2 T56 firearms close to the Beliat
 
 Five individuals including  Saman Perera, the leader of the Ape Janabala Party were victims of the shooting.
 
-World’s first execution by Nitrogen injection carried out in US state of Alabama
+Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
-Court allows questioning of suspect in Beliatta shooting on detention orders
+International Court of Justice set to rule on Gaza War today
 
-Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
+The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 
-Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
 
-◼️
+...
 
 [Data](articles/eb4dc42d.json)
 
@@ -1512,13 +1616,15 @@ Colombo (News 1st) – President Ranil Wickremesinghe visited the home of late S
 
 The state minister died in a motor accident on the Airport Expressway in the early hours of Thursday.
 
+Face to Face | Ravi Karunanayake | Operation Successful, patient dead
+
+International Court of Justice set to rule on Gaza War today
+
+The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
+
+Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
+
 World’s first execution by Nitrogen injection carried out in US state of Alabama
-
-Court allows questioning of suspect in Beliatta shooting on detention orders
-
-Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
-
-Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
 
 ◼️
 
@@ -1935,117 +2041,5 @@ The luxury vehicle traveling about two am this morning was accidental.
 [Data](articles/2ece7f4c.json)
 
 [Extended Data](ext_articles/2ece7f4c.ext.json)
-
----
-
-### Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
-
-*2024-01-25 15:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/chamari-athapaththu-named-the-icc-women%e2%80%99s-odi-cricketer-of-the-year-2023/) · `en`
-
-Colombo (News 1st) – Sri Lanka’s cricket star Chamari Athapaththu has won the ICC Women’s ODI Cricketer of the Year 2023 award after an extraordinary 12 months.
-
-During 2023, Chamari scored 415 runs in eight matches and took one wicket as well.
-
-As captain, 33-year-old Chamari led Sri Lanka to its first series win over New Zealand 2-1. She scored unbeaten knocks of 108 and 140 in the two wins, which were decisive. In the 3rd match, she raced to a century off just 29 balls, which is the fastest century by a Sri Lankan and the 4th fastest by any cricketer in women’s ODI history.
-
-In a career of 98 ODIs, she has scored 3,255 runs at an average of 34.26, with a highest score of 178 not out. With 8 centuries and 15 half-centuries, she has a strike rate of 73.09.
-
-World’s first execution by Nitrogen injection carried out in US state of Alabama
-
-Court allows questioning of suspect in Beliatta shooting on detention orders
-
-Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
-
-...
-
-[Data](articles/f7aea77d.json)
-
-[Extended Data](ext_articles/f7aea77d.ext.json)
-
----
-
-### Penal Code to be amended to declare male child rape a criminal offence
-
-*2024-01-25 15:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96722/penal-code-to-be-amended-to-declare-male-child-rape-a-criminal-offence-) · `en`
-
-The Sri Lankan government has decided to amend the Penal to institute raping of male children as a criminal offence.
-
-Accordingly, the approval of the Cabinet of Ministers has been granted to publish the relevant draft bill introducing amendments to the Penal Code in the government gazette notification and table it in the Parliament.
-
-The Cabinet of Ministers had previously green-lighted a resolution to amend the Penal Code, to amend laws on constitutional rape of females mentioned in the Penal Code, to correct the shortcomings in the law of raping of females and to institute raping of male children as a criminal offense in the year 2021.
-
-Later, clearance of the Attorney General has been granted for the draft bill formulated by the Legal Draftsman.
-
-...
-
-[Data](articles/7af593c5.json)
-
-[Extended Data](ext_articles/7af593c5.ext.json)
-
----
-
-### Another fire in China loses many lives
-
-*2024-01-25 15:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192558) · `si`
-
-39 people were killed in a fire in Shinui shop in Jeanzhi Province, China.
-
-Eyewitnesses have said that the fire was started by the basement of the shop in the market.
-
-With the instance of the incident, the relief divisions had come to it and had taken steps to quit the fire and to rescue fire.
-
-The fire has already been rescued and there is no other trapped in the building.
-
-In recent years, China has recently been reported.
-
-The incident was reported from a fire in a school hostel and 13 students were killed and 24 hours.
-
-President Xi Ginking has ordered the investigation into the investigation.
-
-◼️
-
-[Data](articles/efd3ead1.json)
-
-[Extended Data](ext_articles/efd3ead1.ext.json)
-
----
-
-### ICC Women’s ODI Cricketer of the Year announced
-
-*2024-01-25 15:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICC-Womens-ODI-Cricketer-of-the-Year-announced/108-275710) · `en`
-
-Jan. 25 (ICC) - Sri Lanka star Chamari Athapaththu has won the ICC Women's ODI Cricketer of the Year for 2023 after a stellar 12 months.
-
-Chamari Athapaththu was rewarded for her exceptional year with the bat in ODIs. The Sri Lanka top-order batter made significant contributions with the bat and as captain, notably leading the side to a first bilateral series win over New Zealand.
-
-Athapaththu showcased exceptional skills and leadership throughout the year, excelling both as a captain and a player in the ODI format.
-
-Athapaththu started the year as skipper with a 1-0 win in a rain-truncated series over Bangladesh. With the first two matches not producing a result due to rain, the final clash turned into a decider.
-
-In a 30-over-a-side game, the skipper stroked a 60-ball 64 laced with six fours and four sixes to propel Sri Lanka to 186. With the ball, Athapaththu got rid of her opposite number and top-scorer Nigar Sultana to put her side in pole position for victory.
-
-...
-
-[Data](articles/20216a86.json)
-
-[Extended Data](ext_articles/20216a86.ext.json)
-
----
-
-### Chamari Atapattu is one-day cricketer in the year
-
-*2024-01-25 15:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192557) · `si`
-
-Chamari Atapattu has been nominated by the International Cricket Council as one of the 2023 Cricketer of the Year.
-
-It is said that the performance of her show at the ODI was in line with the performance of the ODIs last year.
-
-Chamari Atapattu scored 415 runs while eight ODIs participated in the year 2023.
-
-◼️
-
-[Data](articles/836c1836.json)
-
-[Extended Data](ext_articles/836c1836.ext.json)
 
 ---

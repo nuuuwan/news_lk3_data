@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 14:02:16**
+As of **2024-01-26 14:17:20**
 
 ## Newspaper Stats
 
-*Scraped **2,729** Articles*
+*Scraped **2,730** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 202
 adaderanasinhalalk | 236
 adalk | 259
 virakesarilk | 294
-adaderanalk | 342
+adaderanalk | 343
 tamilmirrorlk | 348
 dailymirrorlk | 371
 
@@ -26,11 +26,39 @@ dailymirrorlk | 371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,729 (100.0%) of 2,729 articles have been extended.
+2,729 (100.0%) of 2,730 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Saudi Arabia to get first alcohol shop in more than 70 years
+
+*2024-01-26 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96744/saudi-arabia-to-get-first-alcohol-shop-in-more-than-70-years) · `en`
+
+Saudi Arabia has said it will open a shop in Riyadh selling alcohol to a select band of non-Muslim expats, the first to open in more than 70 years.
+
+The clientele will be limited to diplomatic staff, who have for years imported booze in sealed official packages known as diplomatic pouches.
+
+Saudi officials said the shop would counter “the illicit trade of alcohol”.
+
+Prohibition has been law since 1952, after one of King Abdulaziz’s sons drunkenly shot dead a British diplomat.
+
+The new store will be located in Riyadh’s Diplomatic Quarter west of the city centre, according to a document seen by the AFP and Reuters news agencies.
+
+A source familiar with the plans told Reuters the shop was expected to open within weeks. There will be limitations, however:
+
+• Thirsty envoys would need to register beforehand and receive clearance by the government
+
+• No one under 21 will be allowed in the store and “proper attire is required” at all times inside
+
+• Drinkers will not be able to send a proxy, such as a driver
+
+...
+
+[Data](articles/4b720333.json)
+
+---
 
 ### President Mahinda Rajapaksa proposes to all parties
 
@@ -2041,19 +2069,5 @@ The President made this observation at the opening ceremony of the Sapugaskanda 
 [Data](articles/aa680ee0.json)
 
 [Extended Data](ext_articles/aa680ee0.ext.json)
-
----
-
-### Background singer Bhavatharani has passed away
-
-*2024-01-25 21:19:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/cinema/பின்னணிப்-பாடகி-பவதாரணி-காலமானார்/54-332112) · `ta`
-
-However, he died at 5 pm this evening without treatment.Her body will be taken to Chennai tomorrow (January 26) and is 47 years old when he dies.
-
-◼️
-
-[Data](articles/fb30c118.json)
-
-[Extended Data](ext_articles/fb30c118.ext.json)
 
 ---

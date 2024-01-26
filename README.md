@@ -1,21 +1,21 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 06:54:21**
+As of **2024-01-26 07:16:08**
 
 ## Newspaper Stats
 
-*Scraped **2,646** Articles*
+*Scraped **2,648** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 39
 bbccomsinhala | 50
-dbsjeyarajcom | 123
+dbsjeyarajcom | 124
 newsfirstlk | 144
 islandlk | 147
 economynextcom | 153
 dailyftlk | 202
-adaderanasinhalalk | 225
+adaderanasinhalalk | 226
 adalk | 255
 virakesarilk | 286
 adaderanalk | 331
@@ -26,11 +26,29 @@ dailymirrorlk | 356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,645 (100.0%) of 2,646 articles have been extended.
+2,646 (99.9%) of 2,648 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### හෙට සිට කාලගුණය වෙනස් වෙයි
+
+*2024-01-26 06:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192572) · `si`
+
+උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල පවතින වියළි කාලගුණ තත්ත්වයේ වෙනස්වීමක් හෙට (27) දින සිට අපේක්ෂා කරන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව අද (26) නිකුත් කළ කාලගුණ නිවේදනයේ දැක්වෙයි.
+
+එහි වැඩිදුරටත් දැක්වෙන්නේ අද දිනයේ දිවයිනේ ප්‍රධාන වශයෙන් වැසි රහිත කාලගුණ තත්ත්වයක් පවතිනු ඇති බවය.
+
+අද උදෑසන කාලයේදී නුවරඑළිය දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මල්තුහින ඇතිවීමේ හැකියාවක් ද පවතී.
+
+මධ්‍යම, සබරගමුව, බස්නාහිර සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කරයි.
+
+◼️
+
+[Data](articles/9b918cc6.json)
+
+---
 
 ### Prevailing dry weather likely to change from tomorrow
 
@@ -53,6 +71,8 @@ The sea areas off the coasts from Colombo to Kankesanturai via Puttalam and Mann
 ◼️
 
 [Data](articles/fc9a9328.json)
+
+[Extended Data](ext_articles/fc9a9328.ext.json)
 
 ---
 
@@ -772,6 +792,22 @@ The President emphasized the significance of positioning Sri Lankan chocolates a
 
 ---
 
+### Is the  ITAK  President Elect  Shritharan Changing Party  Policy From Espousing Federalism to that of Supporting  TamiL Eelam?
+
+*2024-01-25 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83498) · `en`
+
+The premier political party representing  Sri Lankan Tamils in Parliament has got a new leader. The Ilankai Thamil Arasuk Katchi(ITAK) known in English as the Federal Party(FP) has elected Jaffna district Parliamentarian Sivagnanam Shritharan as its president in Trincomalee on 21 January 2024. The president elect will be formally installed  in office at the party convention to be held on 28 January in Trinco. Shritharan  will serve  a  two-year term   as ITAK/FP president.
+
+Initially there were three contenders in the fray for the ITAK Presidency. The three aspirants to the ITAK leadership mantle were Mathiaparanan Abraham Sumanthiran, Sivagnanam Shritharan and Seenithamby Yoheswaran.  Sumanthiran born in 1964  and Shritharan born in 1968  are both Jaffna district MP’s while Yogeswaran  born in 1970 is a former Batticaloa district Parliamentarian.
+
+...
+
+[Data](articles/d76517fd.json)
+
+[Extended Data](ext_articles/d76517fd.ext.json)
+
+---
+
 ### President Visits Late State Minister Sanath Nishantha’s Home
 
 *2024-01-25 18:16:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/president-visits-late-state-minister-sanath-nishantha%e2%80%99s-home/) · `en`
@@ -863,6 +899,26 @@ He referred to postings on death cannot be approved.
 [Data](articles/311ea5b9.json)
 
 [Extended Data](ext_articles/311ea5b9.ext.json)
+
+---
+
+### Tamil Musician and Singer  Bhavatharini Dies of Cancer in Sri Lankaon 25 January; 47 Year old daughter of Maestro Ilaiyaraja won  Indian National award for song “ Mayil Pola Ponnu Onnu”
+
+*2024-01-25 18:00:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83503) · `en`
+
+Music director Ilaiyaraaja’s daughter and playback singer Bhavatharini died of cancer on January 25. According to reports, she went to Sri Lanka to get treated for liver cancer. However, she died at around 5 pm in Sri Lanka.
+
+Her body will be brought to Chennai tomorrow, January 26, where the final rites will take place. She is survived by her husband. Bhavatharini was 47 years old.
+
+She is the daughter of Ilaiyaraaja and sister of Karthik Raja and Yuvan Shankar Raja. She won the National Film Award for Best Female Playback singer for Tamil song, ‘Mayil Pola Ponnu Onnu’ from ‘Bharathi’.
+
+Ilaiyaraaja’s daughter, Bhavatharini’, was a playback singer and music composer. For the past six months, she had been treated for liver cancer. Recently, she was taken to Sri Lanka to get further treatment, where she died at a private hospital.
+
+Bhavatharini made her debut as a singer with ‘Raasaiya’. From then, she sang songs for her father, Ilaiyaraaja, and brothers, Karthik Raja and Yuvan Shankar Raja.
+
+...
+
+[Data](articles/d375e402.json)
 
 ---
 
@@ -1967,71 +2023,5 @@ Giant pandas are a unique species in China and are hailed as a national treasure
 [Data](articles/4cd513e9.json)
 
 [Extended Data](ext_articles/4cd513e9.ext.json)
-
----
-
-### Who is Sanath Nishantha?
-
-*2024-01-25 11:22:10* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckrdv4503v8o) · `si`
-
-As a controversial figure of the politics of Sri Lanka, the Rajapaksa camp, the Minister of Fisheries and Inland Camp, was killed in an accident on the Katunayake-Colombo expressway today (Jan. 25).
-
-With the death of the State Minister, he was present at the Ragama Teaching Hospital which was buried.
-
-President Ranil Wickremesinghe also visited the Colombo house which was temporarily resided to move to Colombo and his wife and family members.
-
-Sanath Nishantha was in favor of the Minister of State and against the state minister as well as various statements made by the political platform.
-
-Sanath Nishantha who was born on May 3, 1973, State Minister has been studying St. Mary's College, Chilaw.
-
-Sanath Nishantha Arachchikattuwa as a member of the Sri Lanka Freedom Party Council of the House entered politics in 1998.
-
-Sanath Nishantha, who contested the General Election of the Puttalam District from the UPFA, was elected to the Parliament by obtaining 68,240 preferential votes.
-
-...
-
-[Data](articles/61f73c65.json)
-
-[Extended Data](ext_articles/61f73c65.ext.json)
-
----
-
-### Transfers to three DIGs
-
-*2024-01-25 11:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192548) · `si`
-
-The acting transfers have been made by the Acting Inspector General yesterday (24), police headquarters.
-
-Accordingly, DIG, who was in charge of the Transport and Sandapitiya, has been appointed as the DIG in charge of the North District.
-
-Deputy Inspector General of Police (IGP) has been transferred as the DIG in charge of the Jaffna District and the DIG of the Criminal Inspector General of Police.Available.
-
-◼️
-
-[Data](articles/920c448e.json)
-
-[Extended Data](ext_articles/920c448e.ext.json)
-
----
-
-### Jagath Priyankara tipped to fill Sanath Nishantha’s MP seat
-
-*2024-01-25 10:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96716/jagath-priyankara-tipped-to-fill-sanath-nishanthas-mp-seat) · `en`
-
-Jagath Priyankara who vied for the 202 Parliamentary Election is tipped to fill the MP seat left vacant after State Minister Sanath Nishantha passed away in a tragic motor accident early this morning (25).
-
-Priyankara is a member of the National Freedom Front (Jathika Nidahas Peramuna) led by MP Wimal Weerawansa.
-
-State Minister Sanath Nishantha and his security officer died in a tragic accident that took place on the Colombo - Katunayake expressway in the early hours of the day.
-
-According to the police, the state minister’s vehicle had rear-ended a moving container truck around 2:00 a.m. (25 Jan.), before crashing against the roadside barrier.
-
-Following the fatal collision, three persons including State Minister Nishantha were rushed to the Colombo North Teaching Hospital in Ragama with critical wounds, where two of them - the lawmaker and his security guard, a police constable named Jayakody – succumbed to their injuries upon admission.
-
-...
-
-[Data](articles/87be04ce.json)
-
-[Extended Data](ext_articles/87be04ce.ext.json)
 
 ---

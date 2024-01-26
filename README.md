@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 21:02:26**
+As of **2024-01-26 21:17:28**
 
 ## Newspaper Stats
 
-*Scraped **2,790** Articles*
+*Scraped **2,800** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,39 @@ newsfirstlk | 155
 economynextcom | 168
 dailyftlk | 202
 adaderanasinhalalk | 255
-adalk | 261
+adalk | 265
 virakesarilk | 300
-tamilmirrorlk | 349
+tamilmirrorlk | 350
 adaderanalk | 352
-dailymirrorlk | 381
+dailymirrorlk | 386
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,790 (100.0%) of 2,790 articles have been extended.
+2,790 (99.6%) of 2,800 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### යුරෝපයට මත්ස්‍ය නිශ්පාදන යැවීමට පැය 24 පුරා ක්‍රියාත්මක සේවාවක්
+
+*2024-01-26 20:32:07* · [`adalk`](https://www.ada.lk/breaking_news/යුරෝපයට-මත්ස්‍ය නිශ්පාදන-යැවීමට-පැය-24-පුරා-ක්‍රියාත්මක-සේවාවක්/11-407740) · `si`
+
+ශ්‍රී ලංකාවෙන් විශේෂයෙන් යුරෝපා සංගමයේ රටවල් වෙත අපනයනය කෙරෙන මත්ස්‍ය නිෂ්පාදන සදහා අවශ්‍ය
+
+" ස්වස්තතා සහතික " ( Health Certificate ) නිකුත් කිරීම සදහා දවසේ පැය 24 පුරා ක්‍රියාත්මක කාර්යාලයක් කටුනායක ගුවන් තොටුපොළ ගුවන් භාණ්ඩ ගැල් ගම්මානයේ 01/26 දින පස්වරුවේ ධීවර අමාත්‍ය ඩග්ලස් දේවානන්ද සහ රාජ්‍ය අමාත්‍ය පියල් නිශාන්ත ද සිල්වා යන මහත්වරුන් විසින් විවෘත කිරීම සිදු විය .
+
+යුරෝපා සංගමයේ රටවල් 28 ක් වෙත ශ්‍රී ලංකාවෙන් මත්ස්‍ය නිෂ්පාදන අපනයන කරන අතර ඒවා නීත්‍යානුකූලව නිෂ්පාදනය කර ඇති බව මෙම " ස්වස්තතා සහතිකය " මගින් සනාථ කිරීම සිදු කෙරේ.
+
+එහිදී නිවැරැදි යෝග්‍ය  දැල් ආම්පන්න භාවිතා කිරීම , ලියාපදිංචි ධීවර යාත්‍රා භාවිතා කිරීම , නීත්‍යානුකූලව අනෙක් අසල්වැසි රටවල මුහුදු සීමා උල්ලංඝනය කරමින් මසුන් නොමැරීම , රජයේ ලියාපදිංචි ධීවරයින් මෙම මසුන් මැරීම සදහා සහභාගී වීම යනාදී කරුණු මෙම ස්වස්තතා සහතික මගින් යුරෝපා රටවලට සහතික කර ප්‍රකාශ කර සිටී .
+
+...
+
+[Data](articles/e1caec54.json)
+
+---
 
 ### Notice on traffic restricted to Kandy - Colombo
 
@@ -58,6 +76,36 @@ The police call for the drivers and the people who are looking for the city of N
 
 ---
 
+### අද පාර්ලිමේන්තුවේ වාරාවසාන කරයි
+
+*2024-01-26 20:27:56* · [`adalk`](https://www.ada.lk/breaking_news/අද-පාර්ලිමේන්තුවේ-වාරාවසාන-කරයි/11-407739) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් අද (26) මධ්‍යම රාත්‍රියේ සිට බලපැවැත්වෙන පරිදි ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 70 (1) ව්‍යවස්ථාව ප්‍රකාරව එතුමාට පැවරී ඇති බලතල අනුව පාර්ලිමේන්තුව වාරාවසාන කරන ලද අතර නවවැනි පාර්ලිමේන්තුවේ පස්වැනි සභාවාරය ලබන පෙබරවාරී 07 වැනිදා පෙ.ව 10.30 ට ආරම්භ කරන ලෙස ප්‍රකාශයට පත් කොට ඇත.
+
+ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 33 වන ව්‍යවස්ථාවේ (අ) සහ (ආ) අනු ව්‍යවස්ථා අනුව පාර්ලිමේන්තුවේ එක් සභාවාරයක් අවසන්කොට නව සභාවාරයක් ආරම්භ කරන අවස්ථාවේදී ගරු ජනාධිපතිතුමාට පාර්ලිමේන්තුව උත්සවාකාරයෙන් විවෘත කොට මුලසුන දරමින් ආණ්ඩුවේ ප්‍රතිපත්ති ප්‍රකාශය ඉදිරිපත් කිරීමටද අවස්ථාව ඇත.
+
+පාර්ලිමේන්තුව වාර අවසාන කළ විට එතෙක් පාර්ලිමේන්තුව විසින් සලකා නොබලන ලද  ප්‍රශ්න සහ  යෝජනා අහෝසි වන අතර මන්ත්‍රීවරුන් නැවත වාරයක් ඒ සම්බන්ධව ස්ථාවර නියෝග අනුව කටයුතු කළ යුතුය. තවද පාර්ලිමේන්තුවේ සම්බන්ධීකරණ කාරක සභාව,  උසස් නිලතල පිළිබද කාරක සභාව, විශේෂ කාරක සභා සහ ආංශික අධීක්ෂණ කාරක සභා හැර අනෙකුත් සියලු කාරක සභා නව සභාවාරයේදී නැවත පත්කළ යුතුය.
+
+...
+
+[Data](articles/f2f9a5f1.json)
+
+---
+
+### මත්ද්‍රව්‍යයෙන් මිදීමට කැමති අය 1927 අමතන්න
+
+*2024-01-26 20:13:57* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍යයෙන්-මිදීමට-කැමති-අය-1927-අමතන්න/11-407738) · `si`
+
+මත්ද්‍රව්‍ය සඳහා ඇබ්බැහිවූවන් ඉන් මිදීම වෙනුවෙන් ප්‍රථිකාර, පුනරුත්ථාපනය සහ උපදේශනය වෙත ස්වේච්ඡාවෙන් ඉදිරිපත් වීමට, විෂ මත්ද්‍රව්‍ය හා අන්තරායකර ඖෂධ භාවිතය වළක්වාලීම සඳහා වන කාර්යය සාධක බළකාය විසින් ක්‍රියාවට නංවා ඇති විශේෂ වැඩපිළිවෙල පිළිබඳව තම අනන්‍යතාවය හෙළිනොකර තොරතුරු දැනගැනීම සඳහා 1927 නමැති විශේෂ ක්‍ෂණික දුරකථන අංකය හඳුන්වා දී තිබේ.
+
+ඒ සම්බන්ධ මාධ්‍ය දැනුවත් කිරී‍මේ සාකච්ඡාවක්, අද දින ( 2024 ජනවාරි 26) විෂ මත්ද්‍රව්‍ය හා අන්තරායකර ඖෂධ භාවිතය වළක්වාලීම සඳහා වන කාර්යය සාධක බළකායේ සභාපති වශයෙන් කටයුතු කරනු ලබන, නාවික හමුදාධිපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේ‍රා ගේ ප්‍රධානත්වයෙන් කොළඹ ප්‍රදීපාගාර අවන්හල පරිශ්‍රයේදී පැවැත්විණි.
+
+...
+
+[Data](articles/64f2ee58.json)
+
+---
+
 ### The newest character who came out with the murder of Beliatta
 
 *2024-01-26 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192603) · `si`
@@ -81,6 +129,56 @@ The suspects have said that the suspects have planned to assassinate the murder 
 [Data](articles/84ee778c.json)
 
 [Extended Data](ext_articles/84ee778c.ext.json)
+
+---
+
+### Reshan Most Outstanding Schools Golfer for 2023
+
+*2024-01-26 20:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reshan-Most-Outstanding-Schools-Golfer-for-2023/108-275785) · `en`
+
+Colombo, Jan. 26 (Daily Mirror) - Fifteen-year-old schoolboy from Colombo International School, Reshan Algama was recognised as the Most Outstanding Schools Golfer of the Year 2023 at the second Sportunleash Schools Sports Awards 2024, which took place at the BMICH in Colombo.
+
+Reshan secured the first-ever win in the newly introduced golf segment, reflecting his dedication, determination, and outstanding performance throughout the year.
+
+This also will means that he is chosen to be part of the Vision 2036 ‘Lion Warrior’ and programme to nature and develop Sri Lankan athletes to take part in the 2036 Olympics.
+
+The organisers are planning to have a pool and all winners of the sports awards of various sports are to be in a pool called 'Lion Warriors' and the programme is to be initiated soon.
+
+◼️
+
+[Data](articles/90b6ad66.json)
+
+---
+
+### ICJ orders Israel to prevent acts of genocide, fails to order ceasefire
+
+*2024-01-26 19:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICJ-orders-Israel-to-prevent-acts-of-genocide-fails-to-order-ceasefire/108-275790) · `en`
+
+Jan 26 (Reuters) - The International Court of Justice (ICJ) ordered Israel on Friday to prevent acts of genocide against the Palestinians and do more to help civilians, although it stopped short of ordering a ceasefire as requested by South Africa.
+
+South Africa brought the case to the International Court of Justice (ICJ) earlier this month, asking it to grant emergency measures to halt the fighting, which has killed more than 26,000 Palestinians.
+
+It accused Israel of state-led genocide in its offensive, begun after Hamas militants stormed into Israel killing 1,200 and kidnapping more than 240. Israel sought to have the case thrown out.
+
+In Friday's ruling, the judges said Israel must take all measures within its power to prevent its troops from committing genocide, punish and must take steps to improve the humanitarian situation.
+
+...
+
+[Data](articles/74f00e43.json)
+
+---
+
+### இன்று நள்ளிரவு முதல் பாராளுமன்ற அமர்வுகள் நிறைவு
+
+*2024-01-26 19:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நள்ளிரவு-முதல்-பாராளுமன்ற-அமர்வுகள்-நிறைவு/175-332145) · `ta`
+
+இன்று (26) நள்ளிரவு முதல் அமுலுக்கு வரும் வகையில் பாராளுமன்ற அமர்வுகள் நிறைவு செய்யப்படுகின்றதாக ஜனாதிபதி ரணில் விக்ரமசிங்கவினால் வர்த்தமானி அறிவித்தல் வெளியிடப்பட்டுள்ளது.
+
+இதன்படி, பாராளுமன்றத்தின் அடுத்த அமர்வு பெப்ரவரி 7 ஆம் திகதி காலை 10.30 மணிக்கு ஆரம்பமாகும் என அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/81b47383.json)
 
 ---
 
@@ -131,6 +229,22 @@ However, the Senior Deputy Solicitor General the General stated that the Buddhis
 [Data](articles/2e21d4ac.json)
 
 [Extended Data](ext_articles/2e21d4ac.ext.json)
+
+---
+
+### Uma Oya project to add 120 MW of electricity to national grid by February: State Minister
+
+*2024-01-26 18:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uma-Oya-project-to-add-120-MW-of-electricity-to-national-grid-by-February-State-Minister/108-275789) · `en`
+
+Colombo, Jan. 26 (Daily Mirror)- The Uma Oya project is expected to add 120 MW of electricity to the national grid by February 15, Minister of State for Irrigation Shasheendra Rajapaksa said today.
+
+While speaking at a media briefing held today at the Presidential Media Centre (PMC) on the theme 'Collective path to a stable country', he outlined ambitious plans to increase the country's electricity generation and food production in 2024.
+
+The State Minister also revealed plans to utilize 31 identified reservoirs for floating solar power plants, with the potential to generate an additional 3,077 MW of electricity. This innovative approach leverages existing infrastructure and resources to address the country's growing energy needs.
+
+...
+
+[Data](articles/f03c887c.json)
 
 ---
 
@@ -352,11 +466,11 @@ A bond maturing on 01.07.2032 closed at 14.00/10 percent from 14.00/15 percent. 
 
 *2024-01-26 17:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/WPL-2024-UP-Warriorz-names-Chamari-as-replacement-for-Lauren/108-275788) · `en`
 
-Jan. 26 (SS) - Bell, who was signed by Warriorz in the inaugural WPL auction for her base price of Rs 30 lakh, has withdrawn from the upcoming edition.
+Jan. 26 (SS) - English fast bowler Lauren Bell has opted out of the upcoming Women's Premier League (WPL) season, prompting UP Warriorz to announce Sri Lanka's Chamari Athapaththu as her replacement.
 
-UP Warriorz has named Sri Lanka’s Chamari Athapaththu as replacement for England’s Lauren Bell, ahead of the Women’s Premier League (WPL) season next month.
+Athapaththu, a formidable force in the cricketing world known for her powerful hitting, will be joining the team for her base price of Rs 30 lakh, according to a statement from the WPL.
 
-Fast bowler Bell, who was signed by Warriorz in the inaugural WPL auction for her base price of Rs 30 lakh, has withdrawn from the upcoming edition.
+Bell, who was signed by Warriorz in the inaugural WPL auction for her base price of Rs 30 lakh, has withdrawn from the upcoming edition.
 
 Athapaththu is among the most powerful hitters in the game and the Lankan captain is also one of the most experienced players, having featured in over 120 T20Is. Known for her attacking batting, the 33-year-old is the only Lankan woman to have scored a century in T20Is.
 
@@ -672,6 +786,18 @@ President Ranil Wickremesinghe made these remarks during the International Custo
 
 ---
 
+### Ahead of Independence Day…
+
+*2024-01-26 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ahead-of-Independence-Day/110-275781) · `en`
+
+Vendors in Colombo selling national flags ahead of the Independence Day celebrations. Sri Lanka will celebrate its 76th Independence Day on February 4. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/ef00a333.json)
+
+---
+
 ### Petition to the Supreme Court regarding taxes
 
 *2024-01-26 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192592) · `si`
@@ -705,6 +831,26 @@ Various parties, including civil society organizations and politicians, particip
 [Data](articles/0207ca38.json)
 
 [Extended Data](ext_articles/0207ca38.ext.json)
+
+---
+
+### Hotel accountant arrested for soliciting sexual bribe from female employee
+
+*2024-01-26 15:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Hotel-accountant-arrested-for-soliciting-sexual-bribe-from-female-employee/155-275780) · `en`
+
+Kekirawa, Jan 26 (Daily Mirror) - The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) conducted the first crackdown on bribery in the private sector under the powers conferred by the new Anti-Corruption Act.
+
+The Commission said that the Anti-Corruption Act No. 09 of 2023 has empowered the Bribery Commission to address bribery in the private sector, overriding powers that previously applied only to bribery or corruption in the public sector.
+
+Accordingly, the first raid on a bribery offense in the private sector was conducted on Friday (26) by officials with the approval of the Commission.
+
+They arrested an accountant, who is also the Human Resources Manager of a private hotel, for allegedly soliciting a sexual bribe from a female employee.
+
+The arrest was made based on a complaint filed by a resident of Mahavilacchiya.
+
+...
+
+[Data](articles/430339d1.json)
 
 ---
 
@@ -1010,7 +1156,7 @@ Wickremesinghe pledged 8 billion rupees for research and development to foster a
 
 *2024-01-26 14:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Kidella-Expo-opens-at-BMICH/110-275777) · `en`
 
-Once again this year, the Kidella exhibition and trade fair kicked off at Colombo BMICH, providing an excellent opportunity to shop for thousands of essential items for homes. The event, taking place from the 26th to the 28th of December, was officially inaugurated by Sriyan Cooray, Chairman of NDB. Pix by Kithsiri De Mel
+Once again this year, the Kidella exhibition and trade fair kicked off at Colombo BMICH, providing an excellent opportunity to shop for thousands of essential items for homes. The event, taking place from the 26th to the 28th of December, was officially inaugurated by Sanjaya Perera, Senior Vice President- Personal Banking and Customer Experience. Pix by Kithsiri De Mel
 
 ◼️
 
@@ -1167,6 +1313,24 @@ A 120 MW Uma Oya hydro power plant will be added in 2024 as is the open cycle (g
 [Data](articles/7aac838b.json)
 
 [Extended Data](ext_articles/7aac838b.ext.json)
+
+---
+
+### අත වෙන්වෙන්න කැපුණු තුවාලකරු ජාතික රෝහලේදී මරුට
+
+*2024-01-26 13:12:18* · [`adalk`](https://www.ada.lk/breaking_news/අත-වෙන්වෙන්න-කැපුණු-තුවාලකරු-ජාතික-රෝහලේදී-මරුට/11-407736) · `si`
+
+අසල්වාසියෙකු විසින් තියුණු ආයුධයකින් එල්ල කරන ලද ප්‍රහාරයකින් වම් අත වෙන්වනසේ කැපි බරපතල තුවාල ලබා රෝහල් ගතව සිටි 33 හැවිරිදි පුද්ගලයෙකු අද උදේ කොළඹ ජාතික රෝහලේ දී මියගොස් ඇතැයි ඌරගස්මංහන්දිය පොලිසිය කියයි.
+
+මෙසේ මියගොස් ඇත්තේ ඌරගස්මංහන්දිය ,යටගල කන්ද ප්‍රදේශයේ පදිංචි කරුවෙකු වූ කේ.ඩී. අසේල සම්පත් නැමැත්තෙකි.
+
+අසල්වාසි නිවැසියෙකු හා මොහු අතර කලක් තිස්සේ පැවති ආරවුලක් දුරදිග යාමෙන් එම නිවැසියා හා තවත් දෙදෙනෙකු එක්වී ඊයේ (25දා) සවස තියුණු ආයුධයකින්  මොහුගේ  වම් අත වෙන් වෙන්නම කපා ඇතැයි ඌරගස්මංහන්දිය පොලිසිය කියයි.
+
+සිද්ධියෙන් වම් අත වැලමිට අසලින් කැපී වෙන්වීමෙන්   බරපතල ලෙස තුවාල ලබා සිටි තුවාලකරු   කැපී  වෙන්වූ අතද සමග 1990 ගිලන් රථයකින් ප්‍රථමාධාර දෙමින් ඇල්පිටිය රෝහලටත් එතැනින් කරාපිටිය රෝහලටත් ඇතුළත් කළ බව පොලිසිය කියයි.පසුව ශල්‍ය කර්මයක් සඳහා  කොළඹ ජාතික රෝහලට ඇතුළත් කර තිබියදී මොහු මියගොස් ඇතිබව පොලිසිය පැවසීය.
+
+...
+
+[Data](articles/0677671f.json)
 
 ---
 
@@ -1899,209 +2063,5 @@ According to police, the saffron-robed monk had allegedly issued statements deme
 [Data](articles/e34709ed.json)
 
 [Extended Data](ext_articles/e34709ed.ext.json)
-
----
-
-### Woman kills a woman in precipice
-
-*2024-01-26 10:35:04* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රි-රෝද-රථය-ප්‍රපාතයකට-පෙරලී-කාන්තාවක්-මරුට/11-407734) · `si`
-
-Koslanda Police said that five of the victims were admitted to the Wellawaya Base Hospital with a 30-foot precipice at the Koslanda Wellawaya main road.
-
-H.P.. The woman was killed by Champa Nilanthi Karunaratne (54).
-
-Driver Driving Driver Karunaratne with Driver Driver Kridhathne, GMTland Karunaratne, K.M.M.M.M.Maolia Damped, K.M.M. Police said that Akasha Karunaratne had been injured and admitted to hospital.
-
-The three-wheeler driver, who was involved in the accident, was transferred to Siriigala Hospital for further treatment.
-
-The three-wheeler was inaugurated in the Hivillendara in Hivillendara in the Hivillendadura area in Uvawella, Koslanda in Ratnapura.
-
-Police say six people have traveled six in the three-wheeler and the three-wheeler, who has been precipitated, police said.
-
-◼️
-
-[Data](articles/86d6ae50.json)
-
-[Extended Data](ext_articles/86d6ae50.ext.json)
-
----
-
-### Two of five people who were bathing in the sea
-
-*2024-01-26 10:29:47* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-දිය-නෑමට-ගිය-පස්දෙනකු-අතුරින්-දෙදෙනෙකු-ගසාගෙන-ගිහින්/11-407733) · `si`
-
-Five of the friends who work at Kamburupitiya Hotel yesterday had to be drowned in the lake, and the residents of the area had been able to save the people who were drunk and they had rescued one of themThe Tangalle Headquarters Police said.
-
-The body of another disappeared has been recovered from the afternoon, police said.
-
-The residents of Kudawella have told the police near the police stating that Modara Wella was not suitable for water.
-
-The fishermen and police of the residents have been conducting further investigations in search of the missing youth.
-
-◼️
-
-[Data](articles/ee06d323.json)
-
-[Extended Data](ext_articles/ee06d323.ext.json)
-
----
-
-### China remanded for another case
-
-*2024-01-26 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192580) · `si`
-
-The monk known as universal Buddha has been remanded again until February 2.
-
-It was when he was produced before the Nugegoda Magistrate for another cases.
-
-◼️
-
-[Data](articles/69e7977f.json)
-
-[Extended Data](ext_articles/69e7977f.ext.json)
-
----
-
-### Rajiv Gandhi's murder case
-
-*2024-01-26 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/174816) · `ta`
-
-Chennai: Santhan, who was sentenced to life imprisonment in the Rajiv Gandhi assassination case, has filed a petition in the Supreme Court seeking to be admitted to the Rajiv Gandhi Government General Hospital in Chennai.
-
-Santhan, a life imprisonment in the murder of former Prime Minister Rajiv Gandhi, was released in 2022 on a Supreme Court order. He is currently staying in the Trichy special camp.
-
-He has already filed a petition in the Supreme Court seeking her to be sent to Sri Lanka as his mother in Jaffna has to look after him.
-
-Shantan has filed a petition in the Madras High Court seeking to be treated at the Rajiv Gandhi Government General Hospital in Chennai due to ill health.. The petition is due to be heard soon.
-
-Santhan has not been treated at the Trichy Special Camp, causing his life to be treated at the Multipurpose Specialty Hospital in Chennai.
-
-Shantan, who is currently released in the Rajiv Gandhi murder case, is waiting for a visa to return to Sri Lanka.
-
-...
-
-[Data](articles/76888c93.json)
-
-[Extended Data](ext_articles/76888c93.ext.json)
-
----
-
-### Face to Face | Ravi Karunanayake | Operation Successful, patient dead
-
-*2024-01-26 10:15:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/face-to-face-ravi-karunanayake-operation-successful-patient-dead/) · `en`
-
-Face to Face | Ravi Karunanayake | Operation Successful, patient dead
-
-Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
-
-Austrian citizen dies and two others injured in an accident in the expressway
-
-Several government-owned buildings to be handed over to private sector under lease
-
-Face to Face | Ravi Karunanayake | Operation Successful, patient dead
-
-◼️
-
-[Data](articles/1a9cc138.json)
-
-[Extended Data](ext_articles/1a9cc138.ext.json)
-
----
-
-### The International Court of Justice determines that South Africa does have standing in its case against Israel
-
-*2024-01-26 10:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/the-international-court-of-justice-determines-that-south-africa-does-have-standing-in-its-case-against-israel/) · `en`
-
-...
-
-[Data](articles/050ab149.json)
-
-[Extended Data](ext_articles/050ab149.ext.json)
-
----
-
-### International Court of Justice set to rule on Gaza War today
-
-*2024-01-26 10:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/international-court-of-justice-set-to-rule-on-gaza-war-today/) · `en`
-
-Colombo (News 1st) – The International Court of Justice (ICJ) could order Israel to halt its Gaza offensive, in a sitting scheduled for Friday (26th) in The Hague, Netherlands.
-
-The ICJ is the judicial body of the United Nations that decides on disputes between nations.  It comprises 17 judges from 17 nations, including one each from South Africa and Israel.
-
-Judges are set to rule today on whether to order Israel to suspend its military campaign, as it responds to a case brought to the UN’s highest court by South Africa accusing Israel of state-led genocide in Gaza. The ICJ is set to rule on South Africa’s request for “provisional measures” against Israel over its alleged genocide in Gaza; the top UN court could order Israel to halt its offensive against the Palestinian territory.
-
-The court will not rule today on whether Israel has committed acts of genocide. That process could take several years.
-
-...
-
-[Data](articles/2d783b18.json)
-
-[Extended Data](ext_articles/2d783b18.ext.json)
-
----
-
-### The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
-
-*2024-01-26 10:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/the-people%e2%80%99s-platform-dr-kalana-senaratne-reforms-the-need-of-the-hour/) · `en`
-
-The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
-
-Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
-
-Austrian citizen dies and two others injured in an accident in the expressway
-
-Several government-owned buildings to be handed over to private sector under lease
-
-Face to Face | Ravi Karunanayake | Operation Successful, patient dead
-
-◼️
-
-[Data](articles/f5db86b6.json)
-
-[Extended Data](ext_articles/f5db86b6.ext.json)
-
----
-
-### Israeli - Hamas's verdict on war
-
-*2024-01-26 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192579) · `si`
-
-It is reported that the International Court of Sri Lanka to be asked to stop the operations in the Gaza to be issued to the United Nations International Court of Justice.
-
-The case by South Africa, the case by South Africa is being heard that Israel is making a genocide in Palestine.
-
-Both sides have evidence of the case and have rejected Israel.
-
-The International Court of judiciary gives judgment against Israel and the implementation of it.
-
-However, critics say it will be strictly affected by Israel politically.
-
-◼️
-
-[Data](articles/b2b3ed75.json)
-
-[Extended Data](ext_articles/b2b3ed75.ext.json)
-
----
-
-### Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
-
-*2024-01-26 10:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/talk-of-the-town-dr-kalana-senaratne-reforms-the-need-of-the-hour-26-january-2024/) · `en`
-
-Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
-
-Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
-
-Austrian citizen dies and two others injured in an accident in the expressway
-
-Several government-owned buildings to be handed over to private sector under lease
-
-Face to Face | Ravi Karunanayake | Operation Successful, patient dead
-
-◼️
-
-[Data](articles/172e00c1.json)
-
-[Extended Data](ext_articles/172e00c1.ext.json)
 
 ---

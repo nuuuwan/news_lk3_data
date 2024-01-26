@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 19:32:50**
+As of **2024-01-26 19:49:57**
 
 ## Newspaper Stats
 
-*Scraped **2,785** Articles*
+*Scraped **2,786** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 151
 newsfirstlk | 154
 economynextcom | 168
 dailyftlk | 202
-adaderanasinhalalk | 251
+adaderanasinhalalk | 252
 adalk | 261
 virakesarilk | 300
 tamilmirrorlk | 349
@@ -26,23 +26,47 @@ dailymirrorlk | 381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,778 (99.7%) of 2,785 articles have been extended.
+2,786 (100.0%) of 2,786 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### ජාත්‍යන්තර අධිකරණයෙන් නියෝගයක්
+### The universal Buddha who had acted due to work
+
+*2024-01-26 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192601) · `si`
+
+Senior Deputy Solicitor General Dileepa Peiris has informed the court today that he has been directed to psychological treatment on the recommendation of the forensic medical recommendation due to the issuance of claims.
+
+The Court of Nugegoda, the suspect, was further remanded until February 02.
+
+The case was taken up again in Nugegoda Magistrate's Court today to break the suspect's bail of the suspect.
+
+"Lord, when released on bail, has repeatedly expressed the statement of Buddhism in an interview again. The interview with a famous journalist, 879,000 users viewed 879,000 users within 8 days online. We recorded a statement from that journalist. He says that ICCPR Act did not apply the ICCPR Act to the suspect's case, and discussed all facts based on the case. "
+
+However, the Senior Deputy Solicitor General the General stated that the Buddhist philosophy has made a Buddhist philosophy as a monk.
+
+...
+
+[Data](articles/2e21d4ac.json)
+
+[Extended Data](ext_articles/2e21d4ac.ext.json)
+
+---
+
+### International Court orders
 
 *2024-01-26 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192600) · `si`
 
-ගාසා තීරයේ සමූල ඝාතන සිදුවීම් වැළැක්වීම සඳහා සියලු පියවර ගත යුතු බව ජාත්‍යන්තර අධිකරණය විසින් ඊශ්‍රායලයට නියෝග කර තිබේ.
+The International Court has ordered Israel that all steps should be taken to prevent mass murder in Gaza.
 
-ඊශ්‍රායලයට එරෙහි ව දකුණු අප්‍රිකාව විසින් ගොනු කර තිබුණු සමූල ඝාතන චෝදනා විභාගයට ගත් ජාත්‍යන්තර අධිකරණය විසින් මෙම නියෝගය නිකුත් කර ඇත.
+The order has been issued by the International Court of Justice filed by South Africa against Israel.
 
 ◼️
 
 [Data](articles/80e924d8.json)
+
+[Extended Data](ext_articles/80e924d8.ext.json)
 
 ---
 
@@ -66,37 +90,41 @@ In Friday’s ruling, the judges said Israel must take all measures within its p
 
 ---
 
-### சனத் நிஷாந்தவின் மறைவு முழு நாட்டுக்கும் பேரிழப்பு! - மஹிந்த ராஜபக்க்ஷ அனுதாபம்
+### The demise of Sanath Nishantha is disaster for the whole country!- Mahinda Rajapaksa sympathy
 
 *2024-01-26 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174855) · `ta`
 
-இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மறைவு எமது கட்சிக்கு மாத்திரமல்ல முழு நாட்டுக்கும் பேரிழப்பு. புத்தளம் மாவட்டம் சிறந்த தலைமைத்துவத்தை இழந்து விட்டது என முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்ஷ தெரிவித்தார்.
+The demise of the Minister of State Sanath Nishantha is not only for our party but the entire country. Former President Mahinda Rajapakse said the Puttalam district has lost its best leadership.
 
-கட்டுநாயக்க அதிவேக நெடுஞ்சாலையில் வியாழக்கிழமை (25) அதிகாலை இடம்பெற்ற வீதி விபத்தில் உயிரிழந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் பூதவுடல் கொழும்பில் உள்ள மலர்சாலையில் வைக்கப்பட்டிருந்தது. ஆளும் மற்றும் எதிரணியின் பாராளுமன்ற உறுப்பினர்கள் உட்பட பொதுமக்கள் பூதலுடலுக்கு அஞ்சலி செலுத்தினார்கள்.
+State Minister Sanath Nishantha's body was placed in a flower accident in Katunayake Highway on Thursday morning (25). The public paid tribute to the public, including MPs of the ruling and opposition.
 
-பூதவுடலுக்கு அஞ்சலி செலுத்திய முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்க்ஷ தனது அனுதாபத்தை தெரிவித்துக் கொண்டு இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் மறைவு எமது கட்சிக்கு மாத்திரமல்ல நாட்டுக்கும் பேரழிப்பு. அச்சம் என்பது அறியாதவர். பல சவாலான சந்தர்ப்பத்திலும் முன்னின்று செயற்பட்டுள்ளார். புத்தளம் மாவட்டம் சிறந்த தலைமைத்துவத்தை இழந்து விட்டது என்றார்.
+Former President Mahinda Rajapaksa, who paid tribute to the bodhouse, expressed his sympathy and the demise of State Minister Sanath Nishantha. Fear is the unknown. He has also taken the lead in many challenging occasions. He said the Puttalam district has lost its best leadership.
 
 ◼️
 
 [Data](articles/dc09141f.json)
 
+[Extended Data](ext_articles/dc09141f.ext.json)
+
 ---
 
-### பாராளுமன்ற உறுப்பினர் பதவியில் வெற்றிடம் தேர்தல் ஆணைக்குழுவுக்கு உத்தியோகபூர்வமாக அறிவித்தது பாராளுமன்றம்!
+### Parliament officially announced to the Election Commission in the post of Member of Parliament!
 
 *2024-01-26 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/174856) · `ta`
 
-புத்தளம் தேர்தல் மாவட்டத்தின் பாராளுமன்ற உறுப்பினர் சனத் நிஷாந்தவின் மறைவைத் தொடர்ந்து 2024 ஜனவரி 25ஆம் திகதி முதல் ஒன்பதாவது பாராளுமன்றத்தில் உறுப்பினர் ஒருவருக்கான வெற்றிடம் ஏற்பட்டிருப்பதாக பாராளுமன்ற செயலாளர் நாயகம் சார்பில் பாராளுமன்ற பதவியணித் தலைமை அதிகாரியும், பிரதி செயலாளர் நாயகமுமான சமிந்த குலரத்ன தேர்தல்கள் ஆணைக்குழுவின் தலைவருக்கு எழுத்து மூலம் அறிவித்துள்ளார்.
+The Puttalam Electoral District Parliamentarian Sanath Nishantha has been in writing to the Chairman of the Elections Commission of Parliament on behalf of the Secretary General of Parliament and the Deputy Secretary General of Parliament on behalf of the Secretary General of Parliament.
 
-1981ஆம் ஆண்டின் 1ஆம் இலக்க பாராளுமன்றத் தேர்தல்கள் சட்டத்தின் 64(1) ஆம் பிரிவின் பிரகாரம் பாராளுமன்ற செயலாளர் நாயகம் சார்பில் இதனை அறியத் தருவதாக பிரதிச் செயலாளர் நாயகம் இந்தக் கடிதத்தின் மூலம் தெரிவித்துள்ளார்.
+The Deputy Secretary General said that this will be known on behalf of the Secretary General of the Parliamentary Secretary of the Parliamentary Elections Act No. 1 of 1981.
 
-கட்டுநாயக்க அதிவேக நெடுஞ்சாலையில் கந்தானை பகுதியில் வியாழக்கிழமை (25) அதிகாலை இடம்பெற்ற கோர விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த மற்றும் அவரது பாதுகாப்பு பொலிஸ் அதிகாரி ஒருவர் உயிரிழந்தார்.
+State Minister Sanath Nishantha and his security police officer were killed in an accident that took place on Thursday (25) in Kandana on the Katunayake Highway.
 
-சனத் நிஷாந்தவின் மறைவையொட்டி ஏற்பட்டுள்ள பாராளுமன்ற வெற்றிடத்துக்கு 2020 ஆம் ஆண்டு இடம்பெற்ற பொதுத்தேர்தலில் பொதுஜன போட்டியிட்ட ஜகத் பியங்கரவின் பெயர் தேர்தல் தெரிவத்தாட்சி பத்திரத்தில் உள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that the name of Jagath Piyankara, who contested the PA in the 2020 general election, is the name of the Election Corporation.
 
 ◼️
 
 [Data](articles/969b994e.json)
+
+[Extended Data](ext_articles/969b994e.ext.json)
 
 ---
 
@@ -136,17 +164,21 @@ The government was improving laws to curb child molestation and compiling a sex 
 
 [Data](articles/961bea91.json)
 
+[Extended Data](ext_articles/961bea91.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා ටෙලිකොම් ආයතනයට නව අධ්‍යක්ෂ මණ්ඩලයක්
+### New Board of Directors for SLT
 
 *2024-01-26 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192599) · `si`
 
-ශ්‍රී ලංකා ටෙලිකොම් ආයතනයට නව අධ්‍යක්ෂ මණ්ඩලයක් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් පත්කර තිබේ.
+President Ranil Wickremesinghe has been appointed by President Ranil Wickremesinghe to Sri Lanka Telecom.
 
 ◼️
 
 [Data](articles/692f759b.json)
+
+[Extended Data](ext_articles/692f759b.ext.json)
 
 ---
 
@@ -170,19 +202,21 @@ The police said the state minister’s vehicle had crashed against the roadside 
 
 ---
 
-### දියේ ගිලී පාසල් සිසුවෙක් ජීවිතක්ෂයට
+### School student killed in drowning
 
 *2024-01-26 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192598) · `si`
 
-මාතලේ - රත්තොට - බණ්ඩරපොළ - සේරුගොල්ල ඔයේ දිය නෑමට ගොස් සිටි වයස අවුරුදු 16ක පාසල් සිසුවෙකු ජීවිතක්ෂයට පත් ව තිබේ.
+A 16-year-old schoolgirl was killed in Rattota - Death in the Matale - Rattota - Death.
 
-මිය ගොස් ඇත්තේ, මාතලේ සාන්ත තෝමස් විද්‍යාලයේ ඉගෙනුම ලබන මෙවර අපොස සාමාන්‍ය පෙළ විභාගයට පෙනී සිටීමට නියමිත ව සිටි සිසුවෙකු.
+The deceased has been identified as a student who was due to sit on St. Thomas' College, Matale.
 
-ඔහු මාතලේ කවුඩුපැළැල්ල - ගල්වඩුකුබුර ප්‍රදේශයේ පදිංචි සිසුවෙකු වන අතර, සිසුවා යහළුවන් සමඟ දිය නෑමට ගොස් මෙසේ ජීවිතක්ෂයට පත් ව ඇති බව මාතලේ - කන්දේනුවර පොලීසිය පවසයි.
+He is a resident of Kawadupura - Matale and the student has died on the deceased, Matale, Matale.
 
 ◼️
 
 [Data](articles/7c8c233d.json)
+
+[Extended Data](ext_articles/7c8c233d.ext.json)
 
 ---
 
@@ -229,6 +263,8 @@ A bond maturing on 01.07.2032 closed at 14.00/10 percent from 14.00/15 percent. 
 ◼️
 
 [Data](articles/2d610236.json)
+
+[Extended Data](ext_articles/2d610236.ext.json)
 
 ---
 
@@ -2051,25 +2087,5 @@ Due to this, a delay in the night train from Colombo Fort Railway Station to Bad
 [Data](articles/405aeb0e.json)
 
 [Extended Data](ext_articles/405aeb0e.ext.json)
-
----
-
-### Sri Lanka rupee opens stronger at 317.10/40 to the US dollar
-
-*2024-01-26 09:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-stronger-at-317-10-40-to-the-us-dollar-148733/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 317.10/40 to the US dollar on Friday, from 318.10/40 the previous day, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 13.05/20 percent from 13.05/15 percent.
-
-A bond maturing on 15.05.2030 closed at 13.85/14.00 percent from 13.90/14.00 percent.
-
-The Colombo Stock Exchange was trading up in the first half hour since open: The All Share Price Index was up 0.27 percent at 10,301, and the S&P SL20 was up 0.75 at 2,925.(Colombo/Jan26/2024)
-
-◼️
-
-[Data](articles/70e2ffbb.json)
-
-[Extended Data](ext_articles/70e2ffbb.ext.json)
 
 ---

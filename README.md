@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 08:17:17**
+As of **2024-01-26 08:32:59**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,660 (100.0%) of 2,661 articles have been extended.
+2,661 (100.0%) of 2,661 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -55,6 +55,8 @@ Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 
 ◼️
 
 [Data](articles/eb4dc42d.json)
+
+[Extended Data](ext_articles/eb4dc42d.ext.json)
 
 ---
 

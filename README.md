@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 08:03:14**
+As of **2024-01-26 08:17:17**
 
 ## Newspaper Stats
 
-*Scraped **2,660** Articles*
+*Scraped **2,661** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 39
 bbccomsinhala | 51
 dbsjeyarajcom | 124
-newsfirstlk | 144
+newsfirstlk | 145
 islandlk | 151
 economynextcom | 153
 dailyftlk | 202
@@ -26,11 +26,37 @@ dailymirrorlk | 361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,655 (99.8%) of 2,660 articles have been extended.
+2,660 (100.0%) of 2,661 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Court allows questioning of suspect in Beliatta shooting on detention orders
+
+*2024-01-26 07:10:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/court-allows-questioning-of-suspect-in-beliatta-shooting-on-detention-orders/) · `en`
+
+COLOMBO (News 1st); The Deindara magistrate's court has allowed the questioning of the suspect in the Beliatta murder on detention orders.
+
+Following the questioning of the 54-year-old suspect, Hakmana police have also seized a motorcycle used by the suspects for the shooting and a van used to flee the crime scene.
+
+The jeep in which the suspects arrived was also taken into police custody in Galle.
+
+Police say the killings were carried out with 2 T56 firearms close to the Beliatta exit of the Southern Expressway on the 22nd of January.
+
+Five individuals including  Saman Perera, the leader of the Ape Janabala Party were victims of the shooting.
+
+Court allows questioning of suspect in Beliatta shooting on detention orders
+
+Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
+
+Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+
+◼️
+
+[Data](articles/eb4dc42d.json)
+
+---
 
 ### Sanath Nishantha; will he be remembered?
 
@@ -49,6 +75,8 @@ SLPP Parliamentarian Sanath Nishantha entered parliament in 2015 and served as t
 ...
 
 [Data](articles/e903f3ae.json)
+
+[Extended Data](ext_articles/e903f3ae.ext.json)
 
 ---
 
@@ -69,6 +97,8 @@ Both suspects were produced before Batticaloa Magistrate M.H.M. Hamza and remand
 ◼️
 
 [Data](articles/a83f298b.json)
+
+[Extended Data](ext_articles/a83f298b.ext.json)
 
 ---
 
@@ -133,6 +163,8 @@ A senior immigration official told the Daily Mirror the suspects had reportedly 
 ...
 
 [Data](articles/6b9dac96.json)
+
+[Extended Data](ext_articles/6b9dac96.ext.json)
 
 ---
 
@@ -936,11 +968,11 @@ Colombo (News 1st) – President Ranil Wickremesinghe visited the home of late S
 
 The state minister died in a motor accident on the Airport Expressway in the early hours of Thursday.
 
+Court allows questioning of suspect in Beliatta shooting on detention orders
+
 Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
 
 Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
-
-Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
 
 ◼️
 
@@ -1372,11 +1404,11 @@ As captain, 33-year-old Chamari led Sri Lanka to its first series win over New Z
 
 In a career of 98 ODIs, she has scored 3,255 runs at an average of 34.26, with a highest score of 178 not out. With 8 centuries and 15 half-centuries, she has a strike rate of 73.09.
 
+Court allows questioning of suspect in Beliatta shooting on detention orders
+
 Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
 
 Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
-
-Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
 
 ◼️
 
@@ -1658,11 +1690,11 @@ According to police investigations, Minister Ranatunga said that the driver of t
 
 Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
 
+Court allows questioning of suspect in Beliatta shooting on detention orders
+
 Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
 
 Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
-
-Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
 
 ◼️
 
@@ -1928,9 +1960,9 @@ Police say that they seized 16 kilograms and 600 grams of ganja, 211 grams of he
 
 35 suspects who had open warrants for drug offences and 246 suspects who had open warrants for non-drug offences were also among the suspects apprehended.
 
-Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
+Court allows questioning of suspect in Beliatta shooting on detention orders
 
-Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
+Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
 
 ...
 
@@ -1999,25 +2031,5 @@ According to police investigations, the driver of the State Minister was not und
 [Data](articles/a19db29c.json)
 
 [Extended Data](ext_articles/a19db29c.ext.json)
-
----
-
-### Two trucks collide head-on on A9 road, four injured
-
-*2024-01-25 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-trucks-collide-head-on-on-A9-road-four-injured/108-275706) · `en`
-
-Mankulam, Jan 25 (Daily Mirror) - Four persons were injured when two tipper trucks collided head-on in the area between Mankulam and Kanagarayankulam on the Jaffna-Kandy A-9 main road, Mankulam Police said.
-
-Police investigations revealed that the two tipper trucks had been driven at a high speed and the accident occurred while one was attempting to overtake a motorcycle and was unable to control its speed.
-
-The two riders on the motorcycle (a man and a woman) also sustained injuries and were admitted to the Mankulam hospital and later transferred to the Vavuniya Base Hospital for further treatment.
-
-The drivers of the two tipper trucks were also admitted with minor injuries to the Mankulam Hospital.
-
-◼️
-
-[Data](articles/b0088b45.json)
-
-[Extended Data](ext_articles/b0088b45.ext.json)
 
 ---

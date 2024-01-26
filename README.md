@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 20:02:19**
+As of **2024-01-26 20:17:25**
 
 ## Newspaper Stats
 
-*Scraped **2,786** Articles*
+*Scraped **2,787** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 39
 bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 151
-newsfirstlk | 154
+newsfirstlk | 155
 economynextcom | 168
 dailyftlk | 202
 adaderanasinhalalk | 252
@@ -26,7 +26,7 @@ dailymirrorlk | 381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,786 (100.0%) of 2,786 articles have been extended.
+2,786 (100.0%) of 2,787 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1928,6 +1928,16 @@ Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
 ---
 
+### The International Court of Justice determines that South Africa does have standing in its case against Israel
+
+*2024-01-26 10:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/the-international-court-of-justice-determines-that-south-africa-does-have-standing-in-its-case-against-israel/) · `en`
+
+...
+
+[Data](articles/050ab149.json)
+
+---
+
 ### International Court of Justice set to rule on Gaza War today
 
 *2024-01-26 10:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/international-court-of-justice-set-to-rule-on-gaza-war-today/) · `en`
@@ -2061,31 +2071,5 @@ The state had previously attempted to execute Smith, who was convicted of a 1988
 [Data](articles/8526fe63.json)
 
 [Extended Data](ext_articles/8526fe63.ext.json)
-
----
-
-### Electricity at Bambalapitiya Railway Station
-
-*2024-01-26 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192578) · `si`
-
-It is reported that electricity station has been disconnected due to the non-payment of electricity bills.
-
-The stroll lamps and other supports have been operated by the vicarian lamps and other supports without electricity.
-
-As a result, the passengers, including station and the trains, have been severely embarrassed.
-
-A spokesman for notification station at Bambalapitiya Railway Station said due to the suppression of electricity.
-
-Meanwhile, an express train traveling from Colombo Fort to Kandy was derailed at Kadigamuwa and Upstiya.
-
-Only one wheel of the train has begun to be accused of acceptance of the trains last night, the Railway Department said.
-
-Due to this, a delay in the night train from Colombo Fort Railway Station to Badulla said the Railway Department said.
-
-◼️
-
-[Data](articles/405aeb0e.json)
-
-[Extended Data](ext_articles/405aeb0e.ext.json)
 
 ---

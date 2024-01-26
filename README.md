@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 06:16:28**
+As of **2024-01-26 06:54:21**
 
 ## Newspaper Stats
 
-*Scraped **2,645** Articles*
+*Scraped **2,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 202
 adaderanasinhalalk | 225
 adalk | 255
 virakesarilk | 286
-adaderanalk | 330
+adaderanalk | 331
 tamilmirrorlk | 335
 dailymirrorlk | 356
 
@@ -26,11 +26,35 @@ dailymirrorlk | 356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,645 (100.0%) of 2,645 articles have been extended.
+2,645 (100.0%) of 2,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Prevailing dry weather likely to change from tomorrow
+
+*2024-01-26 06:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96732/prevailing-dry-weather-likely-to-change-from-tomorrow) · `en`
+
+The prevailing dry weather condition in the Northern, North-central, Eastern and Uva provinces is expected to change from tomorrow onwards, says the Department of Meteorology.
+
+There is a possibility of ground frost at some places in Nuwara-Eliya district during the early hours of the morning.
+
+Misty conditions can be expected at some places in Central, Sabaragamuwa, Western and Uva provinces and Galle and Matara districts during the morning.
+
+Mainly fair weather will prevail in the sea areas around the island.
+
+Winds will be north-easterly and wind speed will be 25-35 kmph.
+
+Wind speed may increase up to 40-50 kmph at times in the sea areas off the coasts extending from Colombo to Kankesanturai via Puttalam and Mannar and from Galle to Pottuvil via Hambantota.
+
+The sea areas off the coasts from Colombo to Kankesanturai via Puttalam and Mannar and from Galle to Pottuvil via Hambantota can be rough at times.
+
+◼️
+
+[Data](articles/fc9a9328.json)
+
+---
 
 ### Sri Lanka’s financial crisis: Strategies for coping and thriving
 
@@ -2009,27 +2033,5 @@ Following the fatal collision, three persons including State Minister Nishantha 
 [Data](articles/87be04ce.json)
 
 [Extended Data](ext_articles/87be04ce.ext.json)
-
----
-
-### Sanath Nishantha is a moment before he died
-
-*2024-01-25 10:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192547) · `si`
-
-State Minister Sanath Nishantha and another injured in an accident on the Katunayake Expressway around 2 am.
-
-Sanath Nishantha was in danger of moving from Katunayake to Colombo.
-
-The luxury car, which was traveling, was on the collide of a container.
-
-Sanath Nishantha was inaugurated in Chilaw at a wedding ceremony at a hotel in Bandarawatta last night.
-
-Celphi photograph, which was with Sanath Nishantha at the wedding, circulates the photo of the facial manual.
-
-◼️
-
-[Data](articles/5d206970.json)
-
-[Extended Data](ext_articles/5d206970.ext.json)
 
 ---

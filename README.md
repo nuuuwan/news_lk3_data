@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 15:17:20**
+As of **2024-01-26 15:32:59**
 
 ## Newspaper Stats
 
-*Scraped **2,742** Articles*
+*Scraped **2,746** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 151
 newsfirstlk | 154
 economynextcom | 163
 dailyftlk | 202
-adaderanasinhalalk | 237
+adaderanasinhalalk | 241
 adalk | 259
 virakesarilk | 295
 adaderanalk | 344
@@ -26,11 +26,53 @@ dailymirrorlk | 373
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,735 (99.7%) of 2,742 articles have been extended.
+2,742 (99.9%) of 2,746 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### රතු මුහුදේ ගැටලුව විසඳන්න චීනය පෙරට
+
+*2024-01-26 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192589) · `si`
+
+රතු මුහුදේ වෙළෙඳ නෞකාවලට යේමනයේ හූලි කැරලිකරුවන් එල්ල කරන ප්‍රහාර නිසා ගෝලීය නෞකා ප්‍රවාහන කටයුතුවලට එල්ල වී ඇති බලපෑම, අපනයන මත පදනම් වූ චීන ආර්ථිකයකට අහිතකර ප්‍රතිඵල අත්කර දෙන බව අප මීට පෙරද ඔබ වෙත තොරතුරු ඉදිරිපත් කළේය.
+
+විශේෂයෙන් කොරෝනා වසංගතයෙන් පසු අපේක්ෂිත ආර්ථික වර්ධනය සාක්ෂාත් කරගැනීමට අපොහොසත් වී සිටින චීනය මේ නිසා යම් පියවරකට එළැඹීම අපේක්ෂා කළ හැකි කරුණකි.
+
+මෑතක සිට මැදපෙරදිග සහ අප්‍රිකානු රටවල් සමග සමීප සබඳතාවන් පවත්වන චීනයට ඒ සඳහා, ඇතැම්විට බටහිර රටවලටත් වඩා රාජ්‍ය තාන්ත්‍රික හැකියාවක් පවතී.
+
+ඒ අනුව හූති කැරලිකරුවන් රතු මුහුදේ නෞකාවලට එල්ල කරන ප්‍රහාර වැළැක්වීම සඳහා චීනය ප්‍රවේශ වී ඇත්තේ ඉරානය වෙතය.
+
+ඉරානය හූති කැරලිකරුවන් ඇතුළු මැදපෙරදිග සන්නද්ධ කණ්ඩායම්වලට සහාය දක්වන බව බොහෝ දෙනා පිළිගත් කරුණකි.
+
+විශේෂයෙන් ඊශ්‍රායලය සහ බටහිර විරෝධී කණ්ඩායම්වලට ඉරානයේ අවි සැපයුම් පවා සිදුවන බව වාර්තා වේ.
+
+මේ නිසා චීන බලධාරීන් දැනටමත් ඉරාන බලධාරීන් සමග මේ පිළිබඳ සාකච්ඡා කර ඇති බව රොයිටර්ස් පුවත් සේවය අනාවරණය කළේය.
+
+...
+
+[Data](articles/da18c68a.json)
+
+---
+
+### බිල් ගෙවීමෙන් පසු බම්බලපිටිය දුම්රිය ස්ථානයට යළිත් විදුලිය
+
+*2024-01-26 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192588) · `si`
+
+අදාළ හිඟ බිල්පත් ගෙවීමෙන් අනතුරුව අද (26) දහවල් දුම්රිය ස්ථානයේ විදුලි සැපයුම යථා තත්ත්වයට පත්කර ඇති බව වාර්තා වෙයි.
+
+විදුලි ගාස්තු නොගෙවීම හේතුවෙන් බම්බලපිටිය දුම්රිය ස්ථානයේ පසුගිය 24 වනදා සිට විදුලිය විසන්ධි කර තිබූ අතර මේ හේතුවෙන් දුම්රිය ස්ථානාධිපතිවරුන් ඇතුළු කාර්යමණ්ඩලය මෙන්ම මගී ජනතාව ද දැඩි අපහසුතාවයට පත්වී තිබුණි.
+
+කෙසේවෙතත් විදුලි බිලට අදාළ ගාස්තු චෙක් පතක් මගින් ගෙවන බවට දැනුම්දී තිබියදී ලංකා විදුලිබල මණ්ඩලය විසින් මෙලෙස විදුලිය විසන්ධි කර තිබූ බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+බම්බලපිටිය දුම්රිය ස්ථානයේ විදුලිය විසන්ධි කර ඇති බවට 'අද දෙරණ' මධ්‍යාහ්න පුවත් තුළින් අද (26) දිනයේ අනාවරණය කිරීමෙන් අනතුරුව මෙලෙස විදුලිය ලබාදීමට කටයුතු කර තිබුණි.
+
+◼️
+
+[Data](articles/5d48f3f4.json)
+
+---
 
 ### Team Barishal, Shoaib Malik dismisses match-fixing rumors in BPL
 
@@ -76,6 +118,8 @@ Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
 [Data](articles/5934841c.json)
 
+[Extended Data](ext_articles/5934841c.ext.json)
+
 ---
 
 ### The hearing of petitions against the ATA begins
@@ -100,6 +144,8 @@ Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
 [Data](articles/b2f7a435.json)
 
+[Extended Data](ext_articles/b2f7a435.ext.json)
+
 ---
 
 ### Sri Lanka should export chocolates: President
@@ -121,6 +167,44 @@ Wickremesinghe pledged 8 billion rupees for research and development to foster a
 ...
 
 [Data](articles/6b6b0e40.json)
+
+[Extended Data](ext_articles/6b6b0e40.ext.json)
+
+---
+
+### රවීන් නොසිතූ මොහොතක ජීවිතයෙන් සමුගනී
+
+*2024-01-26 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192587) · `si`
+
+මුලතිව්, පුදුකුඩිඉරිප්පු, සුදන්තිරපුරම් ප්‍රදේශයේ සිදුවු රිය අනතුරකින් තරුණයෙකු ජීවිතක්ෂයට පත්ව ඇති බව පුදුකුඩිඉරිප්පු පොලීසිය පවසයි.
+
+පොලීසිය පැවසූවේ, බට්ටා වර්ගයේ ලොරි රථයක ගොයම් කපන යන්ත්‍රයක් පටවාගෙන ගිය ට්‍රැක්ටර් රථයක් ගැටීමෙන් අනතුර සිදුව ඇති බවය.
+
+අනතුරින් බට්ටා වර්ගයේ ලොරි රථයේ ගමන්ගත් පුදුකුඩිඉරිප්පු ප්‍රදේශයේ පදිංචි 27 හැවිරිදි රවීන් නමැති තරුණයෙකු ජීවිතක්ෂයට පත්ව ඇත.
+
+අනතුර සම්බන්ධයෙන් ට්‍රැක්ටර් රථයේ  රියදුරු අත්අඩංගුවට ගත් බව ද පොලීසිය පැවසීය‍.
+
+මියගිය පුද්ගලයාගේ මළ සිරුර පශ්චාත් මරණ පරීක්ෂණ වෙනුවෙන් මුලතිව් රෝහල් මෘත ශරීරාගාරයේ තැන්පත් කොට ඇති අතර, අනතුර සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරු මුලතිව් මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+
+◼️
+
+[Data](articles/979b44c0.json)
+
+---
+
+### IMF සාකච්ඡාවක් ගැන ජනපති කළ දැනුම්දීම
+
+*2024-01-26 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192586) · `si`
+
+විකල්ප යෝජනා තිබේනම් ජාත්‍යන්තර මූල්‍ය අරමුදල සමග සාකච්ඡා කිරීමට එකතු වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දේශපාලන පක්ෂවලින් ඉල්ලීමක් කළේය.
+
+එවැනි තීරණාත්මක සාකච්ඡාවක් සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක අධ්‍යක්ෂිකා ක්‍රිස්ටලීනා ජෝර්ජියේවා මහත්මියට මෙරටට පැමිණෙන ලෙස ආරාධනා කිරීමට තමා සූදානම් බව ද ඔහු කීය.
+
+ජාත්‍යන්තර රේගු දිනය සමරමින් කොළඹ රේගු මූලස්ථානයේදී පැවැති උත්සවයකදී ජනාධිපතිවරයා මේ බව පැවසීය.
+
+◼️
+
+[Data](articles/cd0f3c18.json)
 
 ---
 
@@ -159,6 +243,8 @@ The three companies all belong to bigger conglomerate – Hayleys Group.
 ◼️
 
 [Data](articles/1723efdc.json)
+
+[Extended Data](ext_articles/1723efdc.ext.json)
 
 ---
 
@@ -227,6 +313,8 @@ A 120 MW Uma Oya hydro power plant will be added in 2024 as is the open cycle (g
 ◼️
 
 [Data](articles/7aac838b.json)
+
+[Extended Data](ext_articles/7aac838b.ext.json)
 
 ---
 
@@ -365,6 +453,8 @@ Indipolage said the request is made taking into account the inconvenience to the
 ...
 
 [Data](articles/1c657ebf.json)
+
+[Extended Data](ext_articles/1c657ebf.ext.json)
 
 ---
 
@@ -573,6 +663,8 @@ A blog authored by IPS Research Assistant Himani Vithanage noted that children w
 ...
 
 [Data](articles/26341503.json)
+
+[Extended Data](ext_articles/26341503.ext.json)
 
 ---
 
@@ -2013,77 +2105,5 @@ This groundbreaking partnership aims to make solar energy more affordable to cus
 [Data](articles/36fea8ad.json)
 
 [Extended Data](ext_articles/36fea8ad.ext.json)
-
----
-
-### HPL’s Adhisham achieves highest-selling quantity of tea
-
-*2024-01-26 02:21:04* · [`dailyftlk`](https://www.ft.lk/business/HPL-s-Adhisham-achieves-highest-selling-quantity-of-tea/34-757769) · `en`
-
-Hatton Plantations (HPL) PLC’s Dick Oya aka Adhisham Estate has marked the highest volume sold by a factory among all regional plantation companies in 2023 under John Keells PLC by recording
-
-According to the statement issued by John Keells PLC, “This is the highest volume sold by a factory among all regional plantation companies and incidentally, this is the highest quantity sold by a rotorvane orthodox tea factory in western high elevation among regional plantation companies.” The G&G Group of companies, Hatton Plantations PLC, is one of the leading black Ceylon tea producers on the island. The company consisted of 13 tea estates located in the Hatton and Lindula (Thalawakele) regions.
-
-Chandika Fernando is the present manager of the Dickoya Estate & Tea Processing Centre and conducts its operations together with his staff under the direction and supervision of Hatton Plantations PLC Executive Director Menaka Athukorala, and other senior officials.
-
-◼️
-
-[Data](articles/0beb9f3e.json)
-
-[Extended Data](ext_articles/0beb9f3e.ext.json)
-
----
-
-### Diriya daughter who commented the poor children in the village
-
-*2024-01-26 01:29:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c191793v117o) · `si`
-
-There is nothing here. Play Video, "Diriya Dairy," Diriya Dairy, A / L
-
-"We have to give them their unihasu and the education we did not receive. So we saw children every day to the class every day, "we saw how to gather and advise a small daughter.
-
-She is waiting to sit for the GCE O / L and the A / L classes living with her grandmother of the country in Gampaha and Pilipitiya.
-
-There are 29 families in our village. They cannot send their children to a tuition class. I also understand the value of education because I too have many difficulties. So I want to help the village sister and brother to win the world through education, "he told the BBC Sinhala service.
-
-◼️
-
-[Data](articles/f486c9db.json)
-
-[Extended Data](ext_articles/f486c9db.ext.json)
-
----
-
-### Guns and Sri Lankan ‘Roses’ - EDITORIAL
-
-*2024-01-26 00:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Guns-and-Sri-Lankan-Roses-EDITORIAL/172-275724) · `en`
-
-Yesterday was a Poya Day (Duruthu Poya), and people placed flowers in front of Buddha statues all over the country, but we can safely say that roses have not been the favourite of Buddhists. This isn’t because roses are criminally expensive, but because this religion doesn’t have a close relationship with the ‘rose’. Buddhists prefer the lotus when an offering needs to be done; largely due to the lessons the flower symbolises.
-
-But roses have entered our culture and quite secretly encroached the minds of peace-loving people as well as rebels and protesters. We remember in 2022 April (8) how a female undergraduate went in front of a barricade near the Sri Lankan Parliament and offered a rose to the Police, who were in their numbers to quell a protest. That gesture was ‘sweet’ like the rose itself, but those who love roses can love guns as well; in case you’re pushed to the wall and there is no solace from the law.
-
-...
-
-[Data](articles/6fc6e4ec.json)
-
-[Extended Data](ext_articles/6fc6e4ec.ext.json)
-
----
-
-### Palestinian crisis: Obstacles on path to two-state solution
-
-*2024-01-26 00:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Palestinian-crisis-Obstacles-on-path-to-two-state-solution/172-275723) · `en`
-
-Palestinians fleeing Khan Yunis on a donkey cart with their belongings as Israel pressed its blistering assault on the city yesterday. AFP
-
-As Israel’s inhuman onslaught on the Gaza Strip continues, the talk of a two-state solution is being bandied about by world leaders, especially those from the Global South.
-
-Though the two-state solution requires thorough scrutiny and resurrection, some see this as an attempt to deflect global attention from the Gaza horror, which has killed more than 25,000 people; 70 percent of them being women and children. Whether this horror is gross genocide will be known today when the International Court of Justice delivers its provisional order.
-
-...
-
-[Data](articles/97ac5504.json)
-
-[Extended Data](ext_articles/97ac5504.ext.json)
 
 ---

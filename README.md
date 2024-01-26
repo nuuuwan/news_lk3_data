@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 09:17:18**
+As of **2024-01-26 09:33:08**
 
 ## Newspaper Stats
 
-*Scraped **2,667** Articles*
+*Scraped **2,670** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ newsfirstlk | 145
 islandlk | 151
 economynextcom | 154
 dailyftlk | 202
-adaderanasinhalalk | 228
-adalk | 255
+adaderanasinhalalk | 229
+adalk | 257
 virakesarilk | 286
 adaderanalk | 333
 tamilmirrorlk | 338
@@ -26,11 +26,33 @@ dailymirrorlk | 361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,666 (100.0%) of 2,667 articles have been extended.
+2,666 (99.9%) of 2,670 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### සනත් නිශාන්තගේ දේහය අද නිවසට රැගෙන යයි
+
+*2024-01-26 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192576) · `si`
+
+අභාවප්‍රාප්ත රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ දේහය අද (26)  පුත්තලමේ පිහිටි ඒ මහතාගේ නිවස වෙත රැගෙන යාමට නියමිතව තිබේ.
+
+දේහය මහජන ගෞරවය සඳහා ඊයේ පස්වරුවේ බොරැල්ලේ පිහිටි පෞද්ගලික මල් ශාලාවක් වෙත රැගෙන ආ අතර එය අද පෙරවරු 10.30ට ආරච්චිකට්ටුව ප්‍රදේශයට රැගෙන යාමට නියමිත බව වාර්තා වෙයි.
+
+ඒ අනුව දේහය පිළිබද අවසන් කටයුතු ලබන 28 වන ඉරිදා සිදුකිරීමට සැලසුම් කර තිබේ.
+
+ඊයේ (25) රාත්‍රියේත් ඒ මහතාගේ දේහය තැන්පත් කර ඇති මල් ශාලාව වෙත අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන මහතා සහ මැතිඇමතිවරුන් ඇතුළු පාර්ශ්ව රැසක් පැමිණි බව අප වාර්තාකරුවන් සඳහන් කරයි.
+
+ඊයේ අලුයම කටුනායක අධිවේගී මාර්ගයේ සිදුවු රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ ඔහුගේ ආරක්ෂක නිලධාරියා මියගොස් තිබුණි.
+
+රාජ්‍ය අමාත්‍යවරයා ගමන් ගත් සුඛෝපභෝගී රථය එම දෙසටම ඉදිරියෙන් ධාවනය වූ කන්ටේනර් රථයක හා මාර්ගයේ ආරක්ෂිත වැටේ ගැටීමෙන් මෙම අනතුර සිදුවී තිබු අතර ඉන් තුවාල ලැබු ජීප් රථයේ රියදුරු මේ වනවිටත් රාගම රෝහලේ ප්‍රතිකාර ලබමින් පසුවෙයි.
+
+◼️
+
+[Data](articles/6e5a5fa2.json)
+
+---
 
 ### Two suspects arrested for murder Beliatta
 
@@ -233,6 +255,26 @@ Some locations in the Galle, Sabaragamuwa, Western and Uva provinces are expecte
 [Data](articles/9b918cc6.json)
 
 [Extended Data](ext_articles/9b918cc6.ext.json)
+
+---
+
+### නෙදර්ලන්ත කතක මුහුණ ඉඹින්න ගිය ගයිඩ් අත්අඩංගුවට
+
+*2024-01-26 06:22:15* · [`adalk`](https://www.ada.lk/breaking_news/නෙදර්ලන්ත-කතක-මුහුණ-ඉඹින්න-ගිය-ගයිඩ්-අත්අඩංගුවට/11-407731) · `si`
+
+සංචාරයක් සදහා දිවයිනට පැමිණ සිටී නෙදර්ලන්ත  ජාතික කාන්තාවකගේ ශරීරය ස්පර්ශ කිරිමට සහ මුහුන සිපගැනීමට උත්සාහ කල බව කියන සංචාරක මගපෙන්වන්නෙකු  සැකපිට ඊයේ (25) අත්අඩංගුවට ගත්බව කළුතර උතුර පොලිසිය පවසයි .
+
+පෙට්‍රොනෙල්ලා ඇග්නිටා මරියා නමැති 42 හැව්රිදි නෙදර්ලන්ත ජාතික කාන්තාවක විසින් කල පැමිණිල්ලක් මත සැකකරු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙසේ අත්අඩංගුවට ගෙන ඇත්තේ වස්කඩුව ප්‍රදේශයේ පදිංචි 58 හැව්රිදි පුද්ගලයකු බවත්, ඔහු  පැමිණිලිකාරිය සමග හිතවත් කමක් පවත්වා ඇති අයෙකු බවත්  පොලිසිය කීය.
+
+පැමිණිලිකාර කත වස්කඩුව ප්‍රදේශයේ නිවසක නවාතැන් ගෙන සිට ඇති අතර , ඇය පෙරේදා (24) රාත්‍රි මත්පැන් පානය කර කාමරයේ නිදාසිටීයදී සැකකරු ඇයට ලිංගික අතවර සිදුකර ඇති බවට පැමිණිල්ලේ සටහන්ව ඇති බවත් පොලිසිය කීය.
+
+කාන්තාවකට ලිංගික අතවර කිරීමේ චෝදනාව යටතේ සැකකරු කළුතර මහේස්ත්‍රාත් අධ්කරණයට ඉදිරිපත් කිරීමට නියමිතව තිබූණි .
+
+◼️
+
+[Data](articles/30e52e9c.json)
 
 ---
 
@@ -963,6 +1005,20 @@ Following the fatal collision, three critically injured people including State M
 [Data](articles/a1b1ac3b.json)
 
 [Extended Data](ext_articles/a1b1ac3b.ext.json)
+
+---
+
+### අයි.සී.සී. වසරේ කාන්තා එක්දින ක්‍රීඩිකාව චමරි
+
+*2024-01-25 19:29:30* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී--වසරේ-කාන්තා-එක්දින-ක්‍රීඩිකාව-චමරි/9-407730) · `si`
+
+ශ්‍රී ලංකා ක්‍රිකට් නායිකා චමරි අතපත්තු ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් 2023 වසරට අදාළව වසරේ එක්දින ක්‍රීඩිකාව ලෙස නම්කර තිබේ.
+
+2023 වසරේදී ඇය පිත්තෙන් සුවිශේෂී දක්ෂතා දැක්වීමට සමත්වූ අතර තරග 8කදී ලකුණු 415ක්, එක් කඩුල්ලක් දවා ගැනීමට සමත්වූවාය. එසේම නවසීලන්තයට එරෙහිව ශ්‍රී ලංකාවට ඉතිහාස ගත තරගාවලි ජයක් වෙනුවෙන්ද ඇය ශ්‍රී ලංකා කණ්ඩායමට මග පෙන්වූවාය.
+
+◼️
+
+[Data](articles/a5d9fb7e.json)
 
 ---
 
@@ -1965,59 +2021,5 @@ Nine of 92 inmates have fled the conflict and nine were further disappeared.
 [Data](articles/a32c3f5d.json)
 
 [Extended Data](ext_articles/a32c3f5d.ext.json)
-
----
-
-### Another story about the killing of Beliatta
-
-*2024-01-25 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192553) · `si`
-
-Hakmana Police have recovered a motorcycle and a van in the suspects arrested for the murder of Beliatta.
-
-Police suspect that the motorcycle has been used to dispose of the two T-56 riffles used for the attack.
-
-The police also suspect that the suspects were prepared to hide the suspects after the crime.
-
-◼️
-
-[Data](articles/b4f81477.json)
-
-[Extended Data](ext_articles/b4f81477.ext.json)
-
----
-
-### Father, son killed, mother injured in accident
-
-*2024-01-25 13:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Father-son-killed-mother-injured-in-accident/108-275708) · `en`
-
-Anamaduwa, Jan. 25 (Daily Mirror)- A 38-year-old man and his 10-year-old son were killed while his wife was injured in a road accident in Labugala, Anamaduwa this morning.
-
-The tragedy occurred when the motorcycle they were riding on crashed on to a stationary lorry in front of the Labugala Rajamaha Viharaya.
-
-◼️
-
-[Data](articles/5bfaafee.json)
-
-[Extended Data](ext_articles/5bfaafee.ext.json)
-
----
-
-### Another shooting incident reported at a temple
-
-*2024-01-25 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96719/another-shooting-incident-reported-at-a-temple) · `en`
-
-A shooting has been carried out aiming at the historical temple in Udaththapola, Dodangaslanda last night (24), the Police said.
-
-The assailants had fired shots at the window of the room in which the Chief Incumbent of the temple, Ven. Galnewe Pannakiththi Thero resides, however, the venerated monk was not injured in the shooting.
-
-Police investigations have uncovered that the gunmen had used a firearm similar to a trap gun.
-
-This incident comes a day after a Buddhist monk was shot dead by four unidentified individuals impersonating Criminal Investigation Department’s officers. The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero had been rushed to the Gampaha Hospital where he succumbed to critical injuries hours later.
-
-◼️
-
-[Data](articles/4d084cb7.json)
-
-[Extended Data](ext_articles/4d084cb7.ext.json)
 
 ---

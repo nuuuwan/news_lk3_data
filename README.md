@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 15:02:09**
+As of **2024-01-26 15:17:20**
 
 ## Newspaper Stats
 
-*Scraped **2,735** Articles*
+*Scraped **2,742** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,8 +12,8 @@ colombotelegraphcom | 39
 bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 151
-newsfirstlk | 152
-economynextcom | 158
+newsfirstlk | 154
+economynextcom | 163
 dailyftlk | 202
 adaderanasinhalalk | 237
 adalk | 259
@@ -26,7 +26,7 @@ dailymirrorlk | 373
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,733 (99.9%) of 2,735 articles have been extended.
+2,735 (99.7%) of 2,742 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,78 @@ Prior to the revelation of these suspicions, Malik had planned to go to Dubai fo
 
 [Data](articles/f1f30460.json)
 
+[Extended Data](ext_articles/f1f30460.ext.json)
+
+---
+
+### Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
+
+*2024-01-26 14:31:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/colombo-records-billions-in-unpaid-taxes-state-owned-institutes-top-list/) · `en`
+
+COLOMBO (News 1st); Revelations show that the value of assessed tax arrears in the jurisdiction of the Colombo Municipal Council exceeds Rs. 5 billion.
+
+Colombo Municipal Commissioner Badrani Jayawardena says that Rs. 1 billion of this amount are overdues of state-owned institutes.
+
+She adds that steps have also been taken to offer a discount to people who pay their assessment tax early in the year.
+
+Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
+
+Austrian citizen dies and two others injured in an accident in the expressway
+
+Several government-owned buildings to be handed over to private sector under lease
+
+Face to Face | Ravi Karunanayake | Operation Successful, patient dead
+
+◼️
+
+[Data](articles/5934841c.json)
+
+---
+
+### The hearing of petitions against the ATA begins
+
+*2024-01-26 14:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/the-hearing-of-petitions-against-the-ata-begins/) · `en`
+
+COLOMBO (News 1st); The hearing of 29 petitions challenging the Anti-Terrorism Bill submitted by the government to Parliament began today.
+
+The five-judge bench comprises Chief Justice Jayantha Jayasuriya, Vijith Malalgoda, A.H.M.D. Nawaz, Shiran Gunaratne, and Arjuna Obeysekera.
+
+The petitions argue that certain clauses of the proposed bill violate basic human rights and call for a two-thirds majority vote in Parliament and a referendum before the bill can be passed.
+
+Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
+
+Austrian citizen dies and two others injured in an accident in the expressway
+
+Several government-owned buildings to be handed over to private sector under lease
+
+Face to Face | Ravi Karunanayake | Operation Successful, patient dead
+
+◼️
+
+[Data](articles/b2f7a435.json)
+
+---
+
+### Sri Lanka should export chocolates: President
+
+*2024-01-26 14:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-export-chocolates-president-148786/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s confectioners should tap into international markets, President Ranil Wickremesinghe told a gathering of sweet makers.
+
+Pointing to the success of Sri Lanka teas and cinnamon globally, Wickremesinghe asked “How long before I can take chocolates and go?” at the Lanka Confectionary Manufacturers Association AGM on Wednesday (24).
+
+Sri Lanka however heavily taxes both milk and sugar, key ingredients of chocolates and confectionery. Milk is taxed to ‘protect’ domestic products.
+
+Sri Lankan chocolates could become “a world-class product”, as there were limitations for expansion within the country, Wickremesinghe was quoted by his media division.
+
+Since Sri Lanka’s foreign exchange crisis, the country has become hyper focused on export-oriented strategies.
+
+Wickremesinghe pledged 8 billion rupees for research and development to foster a thriving confectionery industry, saying it was the “low hanging fruit” for economic growth.
+
+...
+
+[Data](articles/6b6b0e40.json)
+
 ---
 
 ### Sharp weapons attack on the flower hall
@@ -69,6 +141,24 @@ The suspects who had broken the inside of a box in a box to delay the inside of 
 [Data](articles/ada3e109.json)
 
 [Extended Data](ext_articles/ada3e109.ext.json)
+
+---
+
+### Sri Lanka’s Regnis and Singer Industries shares cease trading
+
+*2024-01-26 13:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-regnis-and-singer-industries-shares-cease-trading-148764/) · `en`
+
+ECONOMYNEXT – Trading the shares of Regnis (Lanka) Plc and Singer Industries (Ceylon) Plc was suspended from today (26), the companies said in a stock exchange filing.
+
+The two companies will merge with parent company Singer (Sri Lanka) Plc.
+
+“Following the approval of the shareholders being obtained for the amalgamation of Singer Industries (Ceylon) Plc and Regnis (Lanka) Plc with Singer (Sri Lanka) Plc, trading in the shares … will be suspended from 26th January 2024 onwards.”
+
+The three companies all belong to bigger conglomerate – Hayleys Group.
+
+◼️
+
+[Data](articles/1723efdc.json)
 
 ---
 
@@ -119,6 +209,24 @@ We think the first presidential election will be held first. The support of the 
 [Data](articles/7c1836d5.json)
 
 [Extended Data](ext_articles/7c1836d5.ext.json)
+
+---
+
+### Sri Lanka’s ACE Embilipitiya, ACE Matara power contracts to expire in Feb 24
+
+*2024-01-26 13:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-ace-embilipitiya-ace-matara-power-contracts-to-expire-in-feb-24-148759/) · `en`
+
+ECONOMYNEXT – Two thermal plants owned by Sri Lanka’s Aitken Spence group will drop from the national grid from February 2024 as their power purchase agreements expire, according to a tariff filing by state-run Ceylon Electricity Board.
+
+ACE Matara has a capacity of 23 Mega Watts and ACE Embilipitiya 100 MW.
+
+A 100 megawatt high sulfur fuel oil plant taken on a supplementary basis will continue.
+
+A 120 MW Uma Oya hydro power plant will be added in 2024 as is the open cycle (gas turbine) section of an LNG capable combined cycle known as Sobadanavi. (Colombo/Jan26/2024)
+
+◼️
+
+[Data](articles/7aac838b.json)
 
 ---
 
@@ -204,6 +312,8 @@ She is therefore facing charges of possessing a controlled wild animal without p
 
 [Data](articles/48246248.json)
 
+[Extended Data](ext_articles/48246248.ext.json)
+
 ---
 
 ### SC begins hearing of more than 20 petitions against Anti-Terrorism Bill
@@ -237,6 +347,24 @@ He was married to Kumarapuram, Batticaloa. He was found dead on Friday morning (
 [Data](articles/a5102b9b.json)
 
 [Extended Data](ext_articles/a5102b9b.ext.json)
+
+---
+
+### Sri Lanka railway station in the dark for nonpayment of electricity bill
+
+*2024-01-26 12:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-railway-station-in-the-dark-for-nonpayment-of-electricity-bill-148763/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s state-run Ceylon Electricity Board (CEB) has disconnected the power supply to the Bambalapitiya railway station due to nonpayment of electricity bills amounting to over 78,000 rupees.
+
+Railways Deputy General Manager (Traffic) M J Indipolage told reporters Friday January 26 that the CEB has not heeded a routine request of a few days’ grace period to settle outstanding bills.
+
+“The accounts division takes measures to pay these electricity bills the moment they arrive. Sometimes, there are instances where it’s delayed. At those time, we talk to the CEB and request a grace period of a few days, without resorting to disconnection. It seems that this time that request was not heeded,” he said.
+
+Indipolage said the request is made taking into account the inconvenience to the public as well.
+
+...
+
+[Data](articles/1c657ebf.json)
 
 ---
 
@@ -400,15 +528,13 @@ COLOMBO (News 1st); A 37-year-old Austrian citizen has died and two others have 
 
 Police say the accident occurred when a van collided with the a lorry around 7 this morning.
 
+Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
+
 Austrian citizen dies and two others injured in an accident in the expressway
 
 Several government-owned buildings to be handed over to private sector under lease
 
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
-
-International Court of Justice set to rule on Gaza War today
-
-The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 
 ◼️
 
@@ -433,6 +559,20 @@ Speaking at a conference in Chennai, the Indian Minister for Ports, Shipping and
 [Data](articles/8a31adde.json)
 
 [Extended Data](ext_articles/8a31adde.ext.json)
+
+---
+
+### Sri Lanka can employ ‘ed tech’ to make education more equitable: study
+
+*2024-01-26 11:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-can-employ-ed-tech-to-make-education-more-equitable-study-148757/) · `en`
+
+ECONOMYNEXT – Despite having achieved near-universal participation in education, Sri Lanka has a long way to go in achieving equitable education for vulnerable groups, the Institute of Policy Studies (IPS) said, proposing ‘ed tech’, or education technology, as a possible solution.
+
+A blog authored by IPS Research Assistant Himani Vithanage noted that children with disabilities, out-of-school children, school dropouts, migrant workers’ children, and children from minority communities are among those that do not receive equal access to education in the island nation.
+
+...
+
+[Data](articles/26341503.json)
 
 ---
 
@@ -694,9 +834,9 @@ These buildings and lands are planned to be developed and used effectively as to
 
 The secretary says the buildings will be provided for private sector services without harming archaeological values.
 
-Austrian citizen dies and two others injured in an accident in the expressway
+Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
 
-Several government-owned buildings to be handed over to private sector under lease
+Austrian citizen dies and two others injured in an accident in the expressway
 
 ...
 
@@ -862,15 +1002,13 @@ Shantan, who is currently released in the Rajiv Gandhi murder case, is waiting f
 
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
+Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
+
 Austrian citizen dies and two others injured in an accident in the expressway
 
 Several government-owned buildings to be handed over to private sector under lease
 
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
-
-International Court of Justice set to rule on Gaza War today
-
-The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 
 ◼️
 
@@ -906,15 +1044,13 @@ The court will not rule today on whether Israel has committed acts of genocide. 
 
 The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 
+Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
+
 Austrian citizen dies and two others injured in an accident in the expressway
 
 Several government-owned buildings to be handed over to private sector under lease
 
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
-
-International Court of Justice set to rule on Gaza War today
-
-The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 
 ◼️
 
@@ -952,15 +1088,13 @@ However, critics say it will be strictly affected by Israel politically.
 
 Talk of the Town | Dr. Kalana Senaratne | Reforms: The Need of the Hour | 26 January 2024
 
+Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
+
 Austrian citizen dies and two others injured in an accident in the expressway
 
 Several government-owned buildings to be handed over to private sector under lease
 
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
-
-International Court of Justice set to rule on Gaza War today
-
-The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 
 ◼️
 
@@ -1480,15 +1614,15 @@ Police say the killings were carried out with 2 T56 firearms close to the Beliat
 
 Five individuals including  Saman Perera, the leader of the Ape Janabala Party were victims of the shooting.
 
+Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
+
 Austrian citizen dies and two others injured in an accident in the expressway
 
 Several government-owned buildings to be handed over to private sector under lease
 
 Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
-International Court of Justice set to rule on Gaza War today
-
-...
+◼️
 
 [Data](articles/eb4dc42d.json)
 
@@ -1951,135 +2085,5 @@ Though the two-state solution requires thorough scrutiny and resurrection, some 
 [Data](articles/97ac5504.json)
 
 [Extended Data](ext_articles/97ac5504.ext.json)
-
----
-
-### Five shooting - court order
-
-*2024-01-26 00:04:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐவர்-சுட்டுக்கொலை-நீதிமன்றம்-அதிரடி-உத்தரவு/175-332125) · `ta`
-
-The court today (25) granted permission to detain the suspect in connection with the murder of five people in a shooting in Beliam.
-
-The suspect was ordered to be remanded until the 27th of this month when the suspect was presented in the presence of the Tayantha Magistrate.
-
-Investigations carried out by the suspect arrested yesterday (24) in Pangama, Akuressa, have revealed more important information.
-
-Police said the person was suspected to be the brainchild of the attack.. Remble
-
-◼️
-
-[Data](articles/d00ee312.json)
-
-[Extended Data](ext_articles/d00ee312.ext.json)
-
----
-
-### 2024-01-25 (Thursday)
-
-### We must boost country’s income, transitioning to positive economic trajectory - President
-
-*2024-01-25 22:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96731/we-must-boost-countrys-income-transitioning-to-positive-economic-trajectory-president) · `en`
-
-President Ranil Wickremesinghe on Thursday (Jan.25) underscored his commitment to guiding the country’s progress in the coming years, drawing inspiration from the success of Biyagama.
-
-Reflecting on his early political career in the Biyagama Constituency, where the region experienced notable underdevelopment, the President emphasized the positive impact of strategic economic decisions, particularly the establishment of the Biyagama Investment Zone. He noted that Biyagama’s rapid progress stands as a testament to those decisions.
-
-The Head of State underscored his vision for replicating such success nationwide by leveraging the advantages of an open economy.
-
-He expressed plans to establish new investment zones across the country, with the aim of significantly boosting the national economy.
-
-Recalling his recent visit to Switzerland, President Wickremesinghe said world leaders were amazed to hear how rapidly Sri Lanka has turned itself around and how its once-bankrupt economy has rebounded.
-
-...
-
-[Data](articles/173e0ff3.json)
-
-[Extended Data](ext_articles/173e0ff3.ext.json)
-
----
-
-### Plans, Teams & Mis-Steps
-
-*2024-01-25 22:22:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/plans-teams-mis-steps/) · `en`
-
-There is much hope placed on direct foreign investments (FDI) and tourism, as the sectors most likely to help hoist us out of our current financial mess. Are they properly thought out plans, mere fantasies, deceptions or added follies? It is wise for us to frankly and rigorously examine and recognize possible perils or false expectations ourselves, rather than leave it for  others to do so. Confidence lost, is not easily regained. All geese cannot pose as swans.
-
-Foreign investors are not Santa Claus’s in disguise. They are hard-headed business experts, looking for opportunities to maximize returns for their clients and profits for themselves. This is quite legitimate, and it is naïve to think otherwise. They are certainly not here for our good. Not ‘altruism’, but ‘profit’ is the name of the game. Who can blame them, seeking rules that are fair and promises that are honoured? To think otherwise is stupid.
-
-...
-
-[Data](articles/da76dd90.json)
-
-[Extended Data](ext_articles/da76dd90.ext.json)
-
----
-
-### Father and son killed in an accident
-
-*2024-01-25 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192571) · `si`
-
-An army officer and his son were hospitalized after a motorcycle and his son killed in a lorry transporting at the Anamaduwa area.
-
-The deceased has been identified as a 38-year-old Army Special Forces Lt. and the 10-year-old son.
-
-◼️
-
-[Data](articles/6fcd0566.json)
-
-[Extended Data](ext_articles/6fcd0566.ext.json)
-
----
-
-### PUCSL tells CEB to submit proposal before Feb. 12
-
-*2024-01-25 22:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/PUCSL-tells-CEB-to-submit-proposal-before-Feb-12/108-275718) · `en`
-
-Colombo, Jan 25 (Daily Mirror) - After considering the favourable hydroelectric storage and profits earned during the year ending December 2023, the Ceylon Electricity Board (CEB) was directed by the Public Utilities Commission of Sri Lanka (PUCSL) to submit a tariff proposal.
-
-Accordingly, the end user and bulk supply tariff proposals by the CEB for January to March 2024 were received by the PUCSL on January 16, 2024. Subsequently, though the Commission had requested certain clarifications from the CEB, the information is yet to be received.
-
-The Commission wishes to consult the stakeholders as required under Section 30(3) of the Sri Lanka Electricity Act (SLEA) on the proposed tariff structure and the associated costs. The process is to be launched as early as possible to ensure the timely implementation of the tariff revision.
-
-...
-
-[Data](articles/cb2a7d99.json)
-
-[Extended Data](ext_articles/cb2a7d99.ext.json)
-
----
-
-### Champika Ranawaka’s Transformative Message: Lessons For National Unity & Global Politics
-
-*2024-01-25 22:09:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/champika-ranawakas-transformative-message-lessons-for-national-unity-global-politics/) · `en`
-
-In a recent speech delivered in Batticaloa, Patali Champika Ranawaka, a figure often scrutinized for party-switching, revealed a profound perspective on unity and forgiveness.
-
-Batticaloa, a historically significant place in Sri Lanka, served as the backdrop for his message that transcends political boundaries and holds relevance not only for the nation but also for global political dynamics.
-
-Amidst discussions about Patali’s political affiliations, his Batticaloa speech sheds light on his character and philosophy. *”Acknowledging past mistakes and expressing a commitment to move forward, Patali emphasized the importance of letting go of historical grievances”.*
-
-His words echo a universal truth – dwelling on past pains, anger, and conflicts impedes progress. Instead, he advocates for forgiveness, urging society to collectively forge ahead.
-
-...
-
-[Data](articles/70c93d72.json)
-
-[Extended Data](ext_articles/70c93d72.ext.json)
-
----
-
-### Navigating The Challenges Of Escalating Vegetable Prices In Sri Lanka: A Call For Sustainable Solutions
-
-*2024-01-25 22:01:03* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/navigating-the-challenges-of-escalating-vegetable-prices-in-sri-lanka-a-call-for-sustainable-solutions/) · `en`
-
-Sri Lanka is currently grappling with a significant challenge – the escalating prices of vegetables. This surge in food prices has a direct impact on households, affecting their ability to afford essential and nutritious foods. In this article, we will explore the reasons behind the rising vegetable prices in Sri Lanka, discuss their implications for households, and propose measures to mitigate the impact.
-
-Several factors contribute to the escalating vegetable prices in Sri Lanka. Climate change-induced weather patterns, fluctuating global commodity prices, and disruptions in the supply chain are some of the key contributors. Additionally, increased production costs, inadequate infrastructure, and inefficiencies in distribution channels have further exacerbated the situation.
-
-...
-
-[Data](articles/571af48a.json)
-
-[Extended Data](ext_articles/571af48a.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 22:49:36**
+As of **2024-01-26 23:02:17**
 
 ## Newspaper Stats
 
-*Scraped **2,808** Articles*
+*Scraped **2,813** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,33 @@ dailyftlk | 202
 adaderanasinhalalk | 258
 adalk | 265
 virakesarilk | 300
-tamilmirrorlk | 350
+tamilmirrorlk | 352
 adaderanalk | 357
-dailymirrorlk | 386
+dailymirrorlk | 389
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,808 (100.0%) of 2,808 articles have been extended.
+2,808 (99.8%) of 2,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### சனத் நிஷாந்தவுடன் உயிரிழந்த கான்ஸ்டபிளுக்கு பதவி உயர்வு
+
+*2024-01-26 22:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவுடன்-உயிரிழந்த-கான்ஸ்டபிளுக்கு-பதவி-உயர்வு/175-332147) · `ta`
+
+இராஜாங்க அமைச்சர் சனத் நிஷாந்தவுடன் வாகன விபத்தில் உயிரிழந்த அவரது பாதுகாப்பு அதிகாரி, பொலிஸ் கான்ஸ்டபிள் அனுராதா ஜயக்கொடி, பொலிஸ் சார்ஜன்டாக பதவி உயர்த்தப்பட்டுள்ளார்.
+
+இதன்படி, அரச நிர்வாக சுற்றறிக்கை இலக்கம் 22/93இன் பிரகாரம், பதவி உயர்வுக்கு பின்னரான அடிப்படையில், பதில் பொலிஸ் மா அதிபரால் நேற்று (25) முதல் இந்த பதவி உயர்வு வழங்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/65b8e970.json)
+
+---
 
 ### UN and EU condemn first US execution using nitrogen gas
 
@@ -52,6 +66,24 @@ Alabama Attorney General Steve Marshall said “justice has been served” with 
 
 ---
 
+### சனத் நிஷாந்தவின் சாரதிக்கு விளக்கமறியல்
+
+*2024-01-26 22:06:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-சாரதிக்கு-விளக்கமறியல்/175-332146) · `ta`
+
+உயிரிழந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் சாரதி எதிர்வரும் பெப்ரவரி மாதம் 5ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு வெலிசறை நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+சனத் நிஷாந்த உயிரிழந்த சம்பவம் தொடர்பில் காரின் சாரதி பொலிஸாரிடம் உண்மைகளை வெளிப்படுத்தியுள்ளார்.
+
+இவர் சுமார் 10 வருடங்களாக சனத் நிஷாந்தவின் சாரதியாக பணிபுரிந்து வந்ததாக தெரிவிக்கப்படுகிறது.
+
+விபத்தில் காயமடைந்து ராகம வைத்தியசாலையில் பொலிஸ் பாதுகாப்பில் சிகிச்சை பெற்றுவரும் சாரதியே இவ்வாறு விளக்கமறியலில் வைக்கப்பட்டுள்ளார். R
+
+◼️
+
+[Data](articles/70bab147.json)
+
+---
+
 ### Promotion to the deceased police constable
 
 *2024-01-26 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192607) · `si`
@@ -67,6 +99,20 @@ Accordingly, the acting IGP has been promoted to the post of Police Sergeant at 
 [Data](articles/48b24192.json)
 
 [Extended Data](ext_articles/48b24192.ext.json)
+
+---
+
+### MSD officer of late State Minister posthumously promoted
+
+*2024-01-26 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MSD-officer-of-late-State-Minister-posthumously-promoted/108-275798) · `en`
+
+Colombo, Jan. 26 (Daily Mirror)- Police Constable J.A.A. Jayakodi who was the security officer of late State Minister Sanath Nishantha, who died in an accident on the Katunayake Expressway, was posthumously promoted to the rank of Police Sergeant by the IGP with effect from January 25.
+
+The constable attached to the Ministerial Security Division (MSD) and State Minister Sanath Nishantha died in the accident early morning on Wednesday.
+
+◼️
+
+[Data](articles/4c37ddfb.json)
 
 ---
 
@@ -137,6 +183,20 @@ The driver of State Minister Sanath Nishantha has been remanded till 5th Februar
 [Data](articles/17bb56dc.json)
 
 [Extended Data](ext_articles/17bb56dc.ext.json)
+
+---
+
+### Default of Rs.6Bn taxes by liquor manufacturing companies challenged in Court
+
+*2024-01-26 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Default-of-Rs-6Bn-taxes-by-liquor-manufacturing-companies-challenged-in-Court/108-275791) · `en`
+
+Colombo, Jan. 26 (Daily Mirror)- Seventeen social activists have filed a Fundamental Rights petition in the Supreme Court seeking an order directing the authorities to forthwith take steps to recover all arrears of tax due from all the liquor manufacturing companies.
+
+The Petitioners stated that by June 15, 2023, the amount of back taxes payable by the liquor manufacturing companies had increased to Rs.6,221 million.
+
+...
+
+[Data](articles/94c69869.json)
 
 ---
 
@@ -1338,6 +1398,18 @@ Once again this year, the Kidella exhibition and trade fair kicked off at Colomb
 
 ---
 
+### Kedella Expo opens at BMICH
+
+*2024-01-26 14:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Kedella-Expo-opens-at-BMICH/110-275777) · `en`
+
+Once again this year, the Kedella exhibition and trade fair kicked off at Colombo BMICH, providing an excellent opportunity to shop for thousands of essential items for homes. The event, taking place from the 26th to the 28th of December, was officially inaugurated by Sanjaya Perera, Senior Vice President- Personal Banking and Customer Experience. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/f84fbd06.json)
+
+---
+
 ### Revivin retires from life
 
 *2024-01-26 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192587) · `si`
@@ -1971,95 +2043,5 @@ The U.S. Supreme Court allowed the execution to move forward over the objections
 [Data](articles/b0d6d14f.json)
 
 [Extended Data](ext_articles/b0d6d14f.ext.json)
-
----
-
-### Sri Lanka to host UN FAO’s 37th regional conference for Asia Pacific
-
-*2024-01-26 11:31:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-host-un-faos-37th-regional-conference-for-asia-pacific-148754/) · `en`
-
-ECONOMYNEXT – The UN Food and Agriculture Organisation’s 37th Session of the Regional Conference for Asia and the Pacific (#APRC37) will be held in Colombo, Sri Lanka, from February 19 to 22, the FAO said.
-
-Civil society organisations (CSOs) from Asia and the Pacific are expected to take part in this major multilateral conference aimed at charting a course for the region’s food security and agrifood systems transformation, the FAO, a United Nations (UN) agency, said in a statement.
-
-The CSOs’ participation at the event will “aim to add a collective voice among civil society organisations during their contributions to discussions at the conference – a biennial governing body session of some 46 FAO member nations from across the region. The CSO’s finalised their positions, in advance of #APRC37, during a virtual consultation this week,” the FAO said.
-
-...
-
-[Data](articles/80bb3c77.json)
-
-[Extended Data](ext_articles/80bb3c77.ext.json)
-
----
-
-### SJB wants Speaker to call for a party leaders’ meeting before endorsing Online Safety Bill
-
-*2024-01-26 11:22:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-wants-Speaker-to-call-for-a-party-leaders-meeting-before-endorsing-Online-Safety-Bill/108-275769) · `en`
-
-Colombo, Jan 26 (Daily Mirror) - The Samagi Jana Balawegaya (SJB) today urged Speaker Mahinda Yapa Abeywardene to call for a party leaders' meeting to discuss the Online Safety Bill before endorsing it.
-
-SJB MP Harshana Rajakaruna who raised this matter during a media briefing said his party has decided to urge the Speaker to call for a party leaders' meeting to discuss the Online Safety Bill as the government has not accommodated some of the amendments recommended by the Supreme Courts.
-
-“The Speaker should not endorse the Online Safety Bill as some of the amendments recommended by the Supreme Courts have not been made. Therefore, we urge the Speaker to call for a party leaders' meeting to discuss the matter before endorsing the Bill,” MP Rajakaruna said.
-
-“There will be a conflict between the Legislature and the Judiciary if the Speaker endorses the Bill before the relevant amendments are made,” he added.
-
-...
-
-[Data](articles/46ffe44d.json)
-
-[Extended Data](ext_articles/46ffe44d.ext.json)
-
----
-
-### Sri Lanka to amend penal code to criminalise rape of young boys
-
-*2024-01-26 11:12:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-amend-penal-code-to-criminalise-rape-of-young-boys-148746/) · `en`
-
-ECONOMYNEXT – Sri Lanka will introduce amendments to the Penal Code to make raping of male children a criminal offense.
-
-Sri Lanka’s law does not effectively recognise male rape. Section 363(e) of the Penal Code of Sri Lanka specifically protects girls and fails to recognize that boys can be victims of rape.
-
-The country is also looking to close loopholes in the law on the rape of females, the Cabinet of Ministers decided at this week’s meeting (24), a statement said.
-
-At previous Cabinet meetings (held on 18.01.2021 and 28.06.2021) approval was given “to introduce amendments to the Penal Code to amend laws on constitutional rape of females mentioned in the Penal Code, to correct the shortcomings in the law of raping of females and to institute raping of male children as a criminal offense,” the Cabinet Decisions announcement read.
-
-The Attorney General has now cleared the draft bill formulated by the Legal Draftsman.
-
-...
-
-[Data](articles/db5584ef.json)
-
-[Extended Data](ext_articles/db5584ef.ext.json)
-
----
-
-### 75th Republic Day of India celebrated in Colombo
-
-*2024-01-26 11:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/75th-Republic-Day-of-India-celebrated-in-Colombo/110-275768) · `en`
-
-The Indian High Commission of Sri Lanka celebrated the 75th Republic Day at the India House today (26). The Indian High Commissioner Mr. Santosh Jha unfurled the Indian flag to mark the event. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/3528cb72.json)
-
-[Extended Data](ext_articles/3528cb72.ext.json)
-
----
-
-### Explanation for Vishwa Buddha in another case!
-
-*2024-01-26 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174824) · `ta`
-
-The person who introduced himself as Vishwa Buddha has been remanded until February 2.
-
-He was ordered to be held in the Nugegoda Magistrate's Court today (26) for another case.
-
-◼️
-
-[Data](articles/613fa871.json)
-
-[Extended Data](ext_articles/613fa871.ext.json)
 
 ---

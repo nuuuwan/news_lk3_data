@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 11:51:58**
+As of **2024-01-26 12:02:47**
 
 ## Newspaper Stats
 
-*Scraped **2,697** Articles*
+*Scraped **2,704** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,32 +17,128 @@ economynextcom | 154
 dailyftlk | 202
 adaderanasinhalalk | 234
 adalk | 258
-virakesarilk | 286
+virakesarilk | 292
 adaderanalk | 338
-tamilmirrorlk | 343
+tamilmirrorlk | 344
 dailymirrorlk | 366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,697 (100.0%) of 2,697 articles have been extended.
+2,702 (99.9%) of 2,704 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
+### பாடசாலைகளுக்குள் போதைப்பொருள் தொடர்பான நடவடிக்கையா? தொழிற்சங்கங்கள் கடும் எதிர்ப்பு
+
+*2024-01-26 11:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174827) · `ta`
+
+பாடசாலை வளாகத்திற்குள் போதைப்பொருள் சோதனை நடவடிக்கைகளை  முன்னெடுக்கவேண்டாம் என தொழிற்சங்கங்கள் வேண்டுகோள் விடுத்துள்ளன.
+
+பாடசாலை வளாகப்பகுதிக்குள் முன்னெடுக்கப்படும் விசாரணைகளால் மாணவர்களிற்கு உடல் உளபாதிப்புகள் ஏற்படலாம் என கல்வித்துறை தொழிற்சங்கங்கள்  தெரிவித்துள்ளன.
+
+யுக்திய நடவடிக்கைக்கு சமாந்திரமாக பொதுமக்கள் பாதுகாப்பு அமைச்சும்  பொலிஸாரும்  பாடசாலைபகுதிகளில் போதைப்பொருள் ஒழிப்பு நடவடிக்கைகளில் ஈடுபடவுள்ள -போதைப்பொருள் வர்த்தகத்தினை முடக்குவதற்கான நடவடிக்கைகளில் ஈடுபடவுள்ள நிலையில் சட்ட அமுலாக்கல் அதிகாரிகள் பாடசாலைக்குள் எந்த விசாரணைகளையும் மேற்கொள்ளக்கூடாது என தொழிற்சங்கங்கள் வேண்டுகோள் விடுத்துள்ளனர்.
+
+இவ்வாறான விசாரணைகளால் மாணவர்கள் உடல்உளரீதியாக பாதிக்கப்படுவார்கள் அவர்களின் கற்றல் நடவடிக்கைககள் பாதிக்கப்படலாம் என இலங்கை ஆசியர்கள் சேவை சங்கத்தின் பொதுச்செயலாளர் மகிந்த ஜயசிங்க தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/d3baebe7.json)
+
+---
+
+### கூரிய ஆயுதங்களால் தாக்கப்பட்டு கொள்ளை
+
+*2024-01-26 11:36:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூரிய-ஆயுதங்களால்-தாக்கப்பட்டு-கொள்ளை/175-332136) · `ta`
+
+பமுனுகம தெலத்துர எலபெம்ம பகுதியில் கூரிய ஆயுதங்களால் மூவர் தாக்கப்பட்டுள்ளதுடன், அவர்களின் பணம் மற்றும் தங்க நகைகள் கொள்ளையடிக்கப்பட்டுள்ளன.
+
+இணையத்தில் வெளியான விளம்பரத்துக்கு அமைய மோட்டார் சைக்கிள் வாங்குவதற்காக லொறியில் வந்த மூவரே இவ்வாறு தாக்கப்பட்டதாக  பொலிஸார் தெரிவித்துள்ளனர்.
+
+வீதியில் மறைந்திருந்த நால்வர் இந்த தாக்குதலை மேற்கொள்ளப்பட்டுள்ளதுடன், 132,000 ரூபாய் பணம், 5 அலைலைபேசிகள், தங்க நகை மற்றும் வளையல் என்பவற்றை திருடிக்கொண்டு தப்பிச் சென்றுள்ளனர்.
+
+தாக்குதலில் காயமடைந்தவர்கள் ராகம வைத்தியசாலையில் சிகிச்சை பெற்று வருவதாகவும், கொள்ளைச் சம்பவத்தை மேற்கொண்ட சந்தேக நபர்கள் பமுனுகம பொலிஸாரினால் அடையாளம் காணப்பட்டுள்ளதாகவும் பொலிஸ் தலைமையகம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/b56fd972.json)
+
+---
+
+### Explanation for Vishwa Buddha in another case!
+
+*2024-01-26 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174824) · `ta`
+
+The person who introduced himself as Vishwa Buddha has been remanded until February 2.
+
+He was ordered to be held in the Nugegoda Magistrate's Court today (26) for another case.
+
+◼️
+
+[Data](articles/613fa871.json)
+
+[Extended Data](ext_articles/613fa871.ext.json)
+
+---
+
+### Sri Lanka's Independence Day for Sinhalese- Jaffna. University Student Union
+
+*2024-01-26 11:07:00* · [`virakesarilk`](https://www.virakesari.lk/article/174822) · `ta`
+
+The Jaffna University Students Union, which called on the Independence Day of Sri Lanka as a charcoal day, said that the day is appropriate for the Sinhalese people.
+
+Representatives of the University Student Union made this statement while addressing a media briefing held at the University of Jaffna on Thursday (25).
+
+The Tamil people on the island of Sri Lanka have been engaged in a series of protests since then.
+
+Accordingly, we will announce the Independence Day of Sri Lanka on the 4th of February as a charcoal day and inform the public of the North and East.
+
+The rights of the Tamil people are being violated, especially in this island of Sri Lanka. The regimes change. The rulers are also changing. But for the Tamil people to date, no solution plan has been presented. The Sinhalese parties are not ready to find a solution for the Tamil people with a heart hammer.
+
+...
+
+[Data](articles/b4a475cc.json)
+
+[Extended Data](ext_articles/b4a475cc.ext.json)
+
+---
+
+### Gaza War: International Court of Justice may order Israel's military action
+
+*2024-01-26 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174821) · `ta`
+
+The International Court of Justice will present its verdict on the petition filed by South Africa, claiming that Israel is engaged in war crimes in Gaza.
+
+There are reports that the United Nations court may order Israeli military operations in Gaza.
+
+The two sides had made their arguments when the hearing of the petition filed by South Africa against Israel.
+
+The verdict may be seen as political, despite the fact that the International Court of Justice is not required to implement the ruling of the International Court of Justice.
+
+South Africa, which is vocal in support of the Palestinians, has appealed to Israel to court nine interim orders, including the suspension of its military actions.
+
+◼️
+
+[Data](articles/c3226cf4.json)
+
+[Extended Data](ext_articles/c3226cf4.ext.json)
+
+---
+
 ### Driver of Sanath Nishantha’s vehicle details chilling moment of fatal collision
 
 *2024-01-26 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96738/driver-of-sanath-nishanthas-vehicle-details-chilling-moment-of-fatal-collision) · `en`
 
-The driver of the SUV belonging to late State Minister Sanath Nishantha has detailed the chilling moment when the fatal collision, which killed the lawmaker and his security guard on Thursday morning (Jan.25), happened.
+The driver of the vehicle belonging to late State Minister Sanath Nishantha has detailed the chilling moment when the fatal collision, which killed the lawmaker and his security guard on Thursday morning (Jan.25), happened.
 
 During interrogations, Prabhath Eranga told the police: “We were trying to reach Colombo as soon as possible. The [state] minister was asleep at the time. I overtook the car in front of us, from the left side. And when I tried to get the jeep back to the lane on the right side, I hit the container truck moving in front of us.”
 
-The driver, who is currently receiving medical care at the Colombo North Teaching Hospital in Ragama, further stated that he ended up crashing into the roadside barrier as he lost control of the vehicle after rear-ending the container truck.
+The driver, who is currently receiving medical care at the Colombo North Teaching Hospital in Ragama, further stated that he ended up crashing into the roadside barrier as he lost control of the vehicle after rear-ending the container truck.
 
-Some media reports, citing the findings of ongoing investigations, had mentioned that the SUV had been speeding at 160kmph at the time of the accident.
+Some media reports, citing the findings of ongoing investigations, had mentioned that the vehicle had been speeding at 160kmph at the time of the accident.
 
 ...
 
@@ -142,6 +238,22 @@ According to police, the saffron-robed monk had allegedly issued statements deme
 
 ---
 
+### The body of a youth's body was recovered while sleeping in Batticaloa
+
+*2024-01-26 10:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/174817) · `ta`
+
+A 21 -year -old youth has been found dead in Nawaladi, Batticaloa.
+
+He was married to Kumarapuram, Batticaloa. He was found dead on Friday morning (26).
+
+◼️
+
+[Data](articles/a5102b9b.json)
+
+[Extended Data](ext_articles/a5102b9b.ext.json)
+
+---
+
 ### China remanded for another case
 
 *2024-01-26 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192580) · `si`
@@ -155,6 +267,30 @@ It was when he was produced before the Nugegoda Magistrate for another cases.
 [Data](articles/69e7977f.json)
 
 [Extended Data](ext_articles/69e7977f.ext.json)
+
+---
+
+### Rajiv Gandhi's murder case
+
+*2024-01-26 10:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/174816) · `ta`
+
+Chennai: Santhan, who was sentenced to life imprisonment in the Rajiv Gandhi assassination case, has filed a petition in the Supreme Court seeking to be admitted to the Rajiv Gandhi Government General Hospital in Chennai.
+
+Santhan, a life imprisonment in the murder of former Prime Minister Rajiv Gandhi, was released in 2022 on a Supreme Court order. He is currently staying in the Trichy special camp.
+
+He has already filed a petition in the Supreme Court seeking her to be sent to Sri Lanka as his mother in Jaffna has to look after him.
+
+Shantan has filed a petition in the Madras High Court seeking to be treated at the Rajiv Gandhi Government General Hospital in Chennai due to ill health.. The petition is due to be heard soon.
+
+Santhan has not been treated at the Trichy Special Camp, causing his life to be treated at the Multipurpose Specialty Hospital in Chennai.
+
+Shantan, who is currently released in the Rajiv Gandhi murder case, is waiting for a visa to return to Sri Lanka.
+
+...
+
+[Data](articles/76888c93.json)
+
+[Extended Data](ext_articles/76888c93.ext.json)
 
 ---
 
@@ -1558,7 +1694,7 @@ Forest police are conducting further investigations into the incident. Remble
 
 *2024-01-25 19:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96728/remains-of-late-state-minister-sanath-nishantha-lie-in-state) · `en`
 
-President Ranil Wickremesinghe has visited the residence of the late State Minister Sanath Nishantha this afternoon (Jan.25) to offer his condolences to the bereaved family members.
+President Ranil Wickremesinghe visited the residence of the late State Minister Sanath Nishantha this afternoon (Jan.25) to offer his condolences to the bereaved family members.
 
 State Minister Sanath Nishantha lost his life in a tragic accident on the Colombo - Katunayake expressway early this morning.
 
@@ -1913,143 +2049,5 @@ A group of five people had arrived in the sea, and three of them had gone to the
 [Data](articles/301a8b97.json)
 
 [Extended Data](ext_articles/301a8b97.ext.json)
-
----
-
-### Principal Allowance. Recommendations to increase by 9000
-
-*2024-01-25 17:27:18* · [`adalk`](https://www.ada.lk/breaking_news/විදුහල්පති-දීමනාව-රු--9000කින්-වැඩි-කිරීමට-නිර්දේශ/11-407728) · `si`
-
-Minister of Education Susil Premajayantha handed over the report of the committee appointed by Education Dr. Susil Premajayantha, the Minister of Education Dr. Susil Premajayantha to solve the issues of the Principal and to meet the professional nature of the service.
-
-The report has been submitted along with six key points in this report.Principal's Service, a recognized professional and the preparation of the Principals' Service. These include opportunities for the proceeds and skills development of principals and the role of implementing education reforms.
-
-The Principals of the Principals and Vice Principals of the Principal of the Principals and Vice Principals of the Principal of the Principals and Vice Principals of the Principal of the Principals and Vice Principals of the Principals and Vice Principals of the Principal of the Principals and Vice Principals of the Principal of the Principals and Vice Principals of the school system have been recommended.
-
-...
-
-[Data](articles/161f8d25.json)
-
-[Extended Data](ext_articles/161f8d25.ext.json)
-
----
-
-### Massant crocodile killed in Kelani River
-
-*2024-01-25 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192562) · `si`
-
-The body of a huge crocodile was found dead at the Kalakampla Bridge in Kelani River at around 2.00 pm today (25).
-
-A group of young people have seen the crocodile body, and then they had been dragged to the center of the river.
-
-◼️
-
-[Data](articles/ec72956c.json)
-
-[Extended Data](ext_articles/ec72956c.ext.json)
-
----
-
-### Jagath Wimal joins Jagath Wimal in Sanath
-
-*2024-01-25 17:22:41* · [`adalk`](https://www.ada.lk/breaking_news/සනත්ගේ-තැනට-එන-ජගත්-විමල්ට-එක්වෙයි/11-407727) · `si`
-
-After the death of the MP, Jagath Priyankara, who is elected empty, inquiries, inquiry, inquiry, inquiry, inquiry, inquiry was said to be unfairly unfair to vote.
-
-Jagath Priyankara, who is empty for the death of Mr. Sanath Nishantha, is Jagath Priyankara in the Sri Lanka Civil Appointment of the Sri Lanka Civil Appointment.
-
-He joined the General Mahindabaya Rajapaksa in the last general election under the National Independent General of Wimal Weerawansa.
-
-Jagath Priyankara, who obtained 40,8800 votes, was able to occupy the fifth place of the same list.
-
-However, the Puttalam district was about four people of Parliament.
-
-Speaking further Mr. Jagath Priyankara said that he was the politician of the political manager.
-
-However, he is representing parliament for the empty urge and is not being treated unfairly.
-
-He is sworn in as a Member of Parliament and will join the party leader Wimal Weerawansa.
-
-But he believes that all should be able to face the situation so far.
-
-...
-
-[Data](articles/2fdfb068.json)
-
-[Extended Data](ext_articles/2fdfb068.ext.json)
-
----
-
-### One drowns, another missing while sea bathing in Kudawella
-
-*2024-01-25 17:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/96724/one-drowns-another-missing-while-sea-bathing-in-kudawella) · `en`
-
-One person has drowned and another remains missing after being swept away by water currents while they were bathing in the seas off Kudawella in Hambantota, the Police said.
-
-The body of a 35-year-old male has been recovered so far while a search is ongoing for a 25-year-old male who went missing.
-
-◼️
-
-[Data](articles/01e142bc.json)
-
-[Extended Data](ext_articles/01e142bc.ext.json)
-
----
-
-### New Investment Zones throughout the country
-
-*2024-01-25 17:13:43* · [`adalk`](https://www.ada.lk/breaking_news/රට-පුරා-නව-ආයෝජන-කලාප-ඇති-කරනවා/11-407726) · `si`
-
-President Ranil Wickremesinghe stressed that he will continue to be promoted to the country in the next few years.
-
-The President recalled that the area was a highly advanced area when he began his political career, the President said that Biyagama had made great advancement in a very short time due to the accurate economic decisions of the Biyagama Investment Zone.
-
-The President also said that this will take full advantage of the open economy and increase new investment zones throughout the country.
-
-President Ranil Wickremesinghe made this statement participating at the newly constructed Bodhi Wall and the golden fence in Sapugaskanda Abeysekararama.
-
-...
-
-[Data](articles/84d0519d.json)
-
-[Extended Data](ext_articles/84d0519d.ext.json)
-
----
-
-### Solutions to the issues of principals
-
-*2024-01-25 17:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192561) · `si`
-
-The Minister has received the report of the Committee appointed by Education Dr. Susil Premajayantha.
-
-That is the report to solve the issues of the Principal in the ministry and promote the professionalism of the service and to develop the education reforms.
-
-The report has submitted the recommendations and the relevant recommendations through six main points.
-
-The Principal's Service is the role of implementing the National Policy and the National Policy of Principal as a recognized professional and the preparation of the service minutes and the procedure of the future.Includes.
-
-The Principals of the Principal, Deputy Principal, II, II, II, II, II, II and Sub Principals, II and Sub Principals' Service Highlights and System Highlights have been recommended by the services industry and the new schools.
-
-...
-
-[Data](articles/19032220.json)
-
-[Extended Data](ext_articles/19032220.ext.json)
-
----
-
-### The President went to Sanath Nishantha's house ...
-
-*2024-01-25 16:54:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-வீட்டுக்குச்-சென்றார்-ஜனாதிபதி/175-332107) · `ta`
-
-President Ranil Wickremesinghe has visited his home after the death of diplomatic minister Sanath Nishantha.
-
-Meanwhile, former President Mahinda Rajapaksa has visited many others to visit the Buddhist Minister of State Sanath Nishantha.. Remble
-
-◼️
-
-[Data](articles/b34a1534.json)
-
-[Extended Data](ext_articles/b34a1534.ext.json)
 
 ---

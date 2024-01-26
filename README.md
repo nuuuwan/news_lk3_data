@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 16:17:06**
+As of **2024-01-26 16:32:45**
 
 ## Newspaper Stats
 
-*Scraped **2,754** Articles*
+*Scraped **2,755** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 202
 adaderanasinhalalk | 243
 adalk | 261
 virakesarilk | 296
-adaderanalk | 344
+adaderanalk | 345
 tamilmirrorlk | 349
 dailymirrorlk | 375
 
@@ -26,25 +26,47 @@ dailymirrorlk | 375
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,753 (100.0%) of 2,754 articles have been extended.
+2,754 (100.0%) of 2,755 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### බදු නොගෙවූ මත්පැන් සමාගම් ගැන ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
+### Petition to the Supreme Court regarding taxes
 
 *2024-01-26 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192592) · `si`
 
-සුරා බදු ගෙවීම පැහැර හල මත්පැන් නිෂ්පාදන සමාගම් සඳහා නිකුත් කළ බලපත්‍ර අත්හිටුවීමේ නියෝගයක් නිකුත් කරන ලෙසත් මේ වනවිට පැහැර හැර ඇති සුරා බදු මුදල් එම සමාගම්වලින් අයකර ගැනීමේ නියෝගයක් සුරා බදු කොමසාරිස් ජෙනරාල්වරයා වෙත නිකුත් කරන ලෙසත් ඉල්ලමින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ගොනුකර තිබේ.
+A fundamental rights petition has been filed in the Supreme Court to issue a licensing of an Excise of Excise.
 
-සමාජ ක්‍රියාකාරිකයෙකු වන සංජය මහවත්ව ඇතුළු පිරිසක් විසින් පෙත්සම ඉදිරිපත් කළේය.
+The petition was presented by a social activist Sanjaya and several others.
 
-එහි වග උත්තරකරුවන් ලෙස සුරා බදු කොමසාරිස් ජෙනරාල්වරයා ඇතුළු එම දෙපාර්තමේන්තුවේ නිලධාරීන්, මුදල් අමාත්‍යාංශයේ ලේකම්වරයා, මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලා පිටිය, ඇතුළු පිරිසක් නම් කර තිබේ.
+The officials of the Department, the Secretary of the Ministry of Finance, the Secretary of the Ministry of Finance, and other people have been named as respondents.
 
 ◼️
 
 [Data](articles/db6766f7.json)
+
+[Extended Data](ext_articles/db6766f7.ext.json)
+
+---
+
+### Gang attacks funeral parlour employee with sharp weapon
+
+*2024-01-26 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96745/gang-attacks-funeral-parlour-employee-with-sharp-weapon) · `en`
+
+A gang of five who stormed into Diyagama Co-operative Florist in Kahathuduwa has attacked one of its employees with a sharp weapon.
+
+Police stated that the assailants had fled the scene following the attack.
+
+The 24-year-old injured person has been admitted to Homagama Base Hospital for treatment.
+
+The suspects, who forced their way into the funeral parlour, had attacked the employee, who sustained cut wounds to his chest, stomach and near the eyes, while he was arranging a coffin, the police said.
+
+The motive behind the attack, however, was not immediately clear.
+
+◼️
+
+[Data](articles/5866b49e.json)
 
 ---
 
@@ -2123,19 +2145,5 @@ The disaster occurred at around 2.30 pm yesterday at the Kudavella Sea, police s
 [Data](articles/6d5c9833.json)
 
 [Extended Data](ext_articles/6d5c9833.ext.json)
-
----
-
-### Challenges in the forthcoming Presidential election
-
-*2024-01-26 03:17:16* · [`dailyftlk`](https://www.ft.lk/columns/Challenges-in-the-forthcoming-Presidential-election/4-757787) · `en`
-
-Unless there is a major political predicament, the Presidential elections will be held between September and October 2024. That is for what all political parties and formations are now getting ready.
-
-...
-
-[Data](articles/416ab1c4.json)
-
-[Extended Data](ext_articles/416ab1c4.ext.json)
 
 ---

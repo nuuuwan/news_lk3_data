@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 22:17:18**
+As of **2024-01-26 22:32:57**
 
 ## Newspaper Stats
 
-*Scraped **2,805** Articles*
+*Scraped **2,807** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 151
 newsfirstlk | 155
 economynextcom | 168
 dailyftlk | 202
-adaderanasinhalalk | 256
+adaderanasinhalalk | 258
 adalk | 265
 virakesarilk | 300
 tamilmirrorlk | 350
@@ -26,11 +26,45 @@ dailymirrorlk | 386
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,805 (100.0%) of 2,805 articles have been extended.
+2,805 (99.9%) of 2,807 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### මියගිය පොලිස් කොස්තාපල්ට උසස්වීමක්
+
+*2024-01-26 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192607) · `si`
+
+රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සමඟ රිය අනතුරින් මිය ගිය ඔහුගේ ආරක්ෂක නිලධාරි පොලිස් කොස්තාපල් අනුරාධ ජයකොඩි මහතා පොලිස් සැරයන් නිලයට උසස් කර තිබේ.
+
+පොලිස් මාධ්‍ය කොට්ඨාසය නිවේදනයක් නිකුත් කරමින් මේ බව සඳහන් කර ඇත.
+
+ඒ අනුව රාජ්‍ය පරිපාලන චක්‍ර ලේඛන අංක 22/93 පරිදි පශ්චාත් උසස්වීම් පදනම යටතේ වැඩබලන පොලිස්පතිවරයා වරයා විසින් ඊයේ (25) සිට ක්‍රියාත්මක වන පරිදි පොලිස් සැරයන් තනතුරට උසස් කර තිබේ.
+
+◼️
+
+[Data](articles/48b24192.json)
+
+---
+
+### මුරුත්තෙට්ටුවේ ආනන්ද හිමිගේ ජන්ම දිනය වෙනුවෙන් දානමය පිංකමක්
+
+*2024-01-26 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192606) · `si`
+
+කොළඹ විශ්වවිද්‍යාලයේ කුලපති, බස්නාහිර පළාත් ප්‍රධාන සංඝ නායක, රාජ්‍ය සේවා එක්සත් හෙද සංගමයේ සභාපති පූජ්‍ය මුරුත්තෙට්ටුවේ ආනන්ද හිමිගේ ජන්ම දිනය නිමිත්තෙන් නාරාහේන්පිට ශ්‍රී අභයාරාම පුරාණ විහාරස්ථානයේ දී අද (26) පැවැත්වුණ දානමය පුණ්‍යකර්මය සඳහා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සහභාගි විය.
+
+එම දානමය පුණ්‍ය කර්මය අවසානයේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඇතුළු පිරිස ඉදිරියේ සිය අදහස් දැක්වූ පූජ්‍ය මුරුත්තෙට්ටුවේ ආනන්ද හිමි සඳහන් කළේ, සම්බුද්ධ ශාසනයේ උන්නතිය මෙන්ම රටවැසි ජනතාවගේ යහපත වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සිදු කරන සෑම කටයුත්තකටම මහා සංඝරත්නයේ සහාය හිමි වන බවයි.
+
+රට තුළ පංච ශීල ප්‍රතිපත්තිය ආරක්ෂා කිරීමට අවශ්‍ය වැඩපිළිවෙළක් සකස් කර දෙන ලෙස ජනාධිපතිවරයාගෙන් ඉල්ලා සිටි උන්වහන්සේ මහා සංඝරත්නයේ යම් යම් ක්‍රියා කලාප සැබෑ බෞද්ධයින්ගේ සිත් වේදනාවට හා කලකිරීමට පත් කරන බවත් මේ තත්ත්වයෙන් මිදෙන්නට නම් මහා සංඝරත්නය පෙරදැරි කර ගනිමින් ශාසන සංශෝධනයක් කඩිනමින් සිදු කළ යුතු බවත් අවධාරණය කළ හ.
+
+එහි දී වැඩිදුරටත් අදහස් දැක්වූ පූජ්‍ය මුරුත්තෙට්ටුවේ ආනන්ද නායක හිමි,
+
+...
+
+[Data](articles/ca176a7f.json)
+
+---
 
 ### State Minister Sanath Nishantha’s security officer posthumously promoted
 
@@ -2023,47 +2057,5 @@ The rights of the Tamil people are being violated, especially in this island of 
 [Data](articles/b4a475cc.json)
 
 [Extended Data](ext_articles/b4a475cc.ext.json)
-
----
-
-### Gaza War: International Court of Justice may order Israel's military action
-
-*2024-01-26 10:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174821) · `ta`
-
-The International Court of Justice will present its verdict on the petition filed by South Africa, claiming that Israel is engaged in war crimes in Gaza.
-
-There are reports that the United Nations court may order Israeli military operations in Gaza.
-
-The two sides had made their arguments when the hearing of the petition filed by South Africa against Israel.
-
-The verdict may be seen as political, despite the fact that the International Court of Justice is not required to implement the ruling of the International Court of Justice.
-
-South Africa, which is vocal in support of the Palestinians, has appealed to Israel to court nine interim orders, including the suspension of its military actions.
-
-◼️
-
-[Data](articles/c3226cf4.json)
-
-[Extended Data](ext_articles/c3226cf4.ext.json)
-
----
-
-### Driver of Sanath Nishantha’s vehicle details chilling moment of fatal collision
-
-*2024-01-26 10:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96738/driver-of-sanath-nishanthas-vehicle-details-chilling-moment-of-fatal-collision) · `en`
-
-The driver of the vehicle belonging to late State Minister Sanath Nishantha has detailed the chilling moment when the fatal collision, which killed the lawmaker and his security guard on Thursday morning (Jan.25), happened.
-
-During interrogations, Prabhath Eranga told the police: “We were trying to reach Colombo as soon as possible. The [state] minister was asleep at the time. I overtook the car in front of us, from the left side. And when I tried to get the jeep back to the lane on the right side, I hit the container truck moving in front of us.”
-
-The driver, who is currently receiving medical care at the Colombo North Teaching Hospital in Ragama, further stated that he ended up crashing into the roadside barrier as he lost control of the vehicle after rear-ending the container truck.
-
-Some media reports, citing the findings of ongoing investigations, had mentioned that the vehicle had been speeding at 160kmph at the time of the accident.
-
-...
-
-[Data](articles/6811bfbe.json)
-
-[Extended Data](ext_articles/6811bfbe.ext.json)
 
 ---

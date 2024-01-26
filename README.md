@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 05:55:23**
+As of **2024-01-26 05:37:01**
 
 ## Newspaper Stats
 
-*Scraped **2,645** Articles*
+*Scraped **2,643** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 39
+colombotelegraphcom | 37
 bbccomsinhala | 50
 dbsjeyarajcom | 123
 newsfirstlk | 144
@@ -26,7 +26,7 @@ dailymirrorlk | 356
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,643 (99.9%) of 2,645 articles have been extended.
+2,643 (100.0%) of 2,643 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -276,20 +276,6 @@ Recalling his recent visit to Switzerland, President Wickremesinghe said world l
 
 ---
 
-### Plans, Teams & Mis-Steps
-
-*2024-01-25 22:22:24* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/plans-teams-mis-steps/) · `en`
-
-There is much hope placed on direct foreign investments (FDI) and tourism, as the sectors most likely to help hoist us out of our current financial mess. Are they properly thought out plans, mere fantasies, deceptions or added follies? It is wise for us to frankly and rigorously examine and recognize possible perils or false expectations ourselves, rather than leave it for  others to do so. Confidence lost, is not easily regained. All geese cannot pose as swans.
-
-Foreign investors are not Santa Claus’s in disguise. They are hard-headed business experts, looking for opportunities to maximize returns for their clients and profits for themselves. This is quite legitimate, and it is naïve to think otherwise. They are certainly not here for our good. Not ‘altruism’, but ‘profit’ is the name of the game. Who can blame them, seeking rules that are fair and promises that are honoured? To think otherwise is stupid.
-
-...
-
-[Data](articles/da76dd90.json)
-
----
-
 ### Father and son killed in an accident
 
 *2024-01-25 22:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192571) · `si`
@@ -321,24 +307,6 @@ The Commission wishes to consult the stakeholders as required under Section 30(3
 [Data](articles/cb2a7d99.json)
 
 [Extended Data](ext_articles/cb2a7d99.ext.json)
-
----
-
-### Champika Ranawaka’s Transformative Message: Lessons For National Unity & Global Politics
-
-*2024-01-25 22:09:50* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/champika-ranawakas-transformative-message-lessons-for-national-unity-global-politics/) · `en`
-
-In a recent speech delivered in Batticaloa, Patali Champika Ranawaka, a figure often scrutinized for party-switching, revealed a profound perspective on unity and forgiveness.
-
-Batticaloa, a historically significant place in Sri Lanka, served as the backdrop for his message that transcends political boundaries and holds relevance not only for the nation but also for global political dynamics.
-
-Amidst discussions about Patali’s political affiliations, his Batticaloa speech sheds light on his character and philosophy. *”Acknowledging past mistakes and expressing a commitment to move forward, Patali emphasized the importance of letting go of historical grievances”.*
-
-His words echo a universal truth – dwelling on past pains, anger, and conflicts impedes progress. Instead, he advocates for forgiveness, urging society to collectively forge ahead.
-
-...
-
-[Data](articles/70c93d72.json)
 
 ---
 
@@ -2025,5 +1993,51 @@ Celphi photograph, which was with Sanath Nishantha at the wedding, circulates th
 [Data](articles/5d206970.json)
 
 [Extended Data](ext_articles/5d206970.ext.json)
+
+---
+
+### Introduction to 2 new type of pomegranate types
+
+*2024-01-25 10:44:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-புதிய-வகை-மாதுளை-வகைகள்-அறிமுகம்/175-332102) · `ta`
+
+Agriculture Minister Mahinda Amaraweera says two new types of pomegranate have been introduced in Sri Lanka.
+
+The new pomegranate varieties have been labeled as 'Male Pink' and 'Lanka Red' and introduced in the dry zones of Sri Lanka, the Minister said.
+
+The new type of pomegranate has been introduced following a tissue breeding research carried out by the plant virus index in Homagama. It can also be used as an alternative to the now imported red pomegranate types.
+
+The special feature of these two new varieties is that the life span of a pomegranate tree is over 30 years and can be harvested 20-25 kg per year from each tree.
+
+Annual income of a total of 400 trees per acre is Rs.. 8 lakhs, he said.
+
+Pomegranate varieties were handed over to the farmers yesterday (24) for the cultivation of Agriculture Minister Mahinda Amaraweera.
+
+◼️
+
+[Data](articles/074e3e12.json)
+
+[Extended Data](ext_articles/074e3e12.ext.json)
+
+---
+
+### Ukraine shot the aircraft that was traveling with 74 people, including warlords - Russia
+
+*2024-01-25 10:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/174756) · `ta`
+
+Russia, who alleges that Ukraine was shot dead by 74 people, said everyone was killed.
+
+Russia also said that the Ukraine warriors were on the plane.
+
+The Russian Defense Ministry has said that the Anti -Anti -Airport has been used by Ukrainian soldiers from the Liptzi region of the Karkiv region.
+
+Russia has said that Russian radars have observed two missiles launching Ukraine.
+
+Ukraine, who said it was aimed at any aircraft coming to Pelocorot, but did not accept the shooting of the aircraft.
+
+◼️
+
+[Data](articles/9203eccf.json)
+
+[Extended Data](ext_articles/9203eccf.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 12:48:27**
+As of **2024-01-26 13:02:12**
 
 ## Newspaper Stats
 
-*Scraped **2,715** Articles*
+*Scraped **2,720** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,36 @@ economynextcom | 158
 dailyftlk | 202
 adaderanasinhalalk | 235
 adalk | 259
-virakesarilk | 292
-adaderanalk | 338
+virakesarilk | 294
+adaderanalk | 340
 tamilmirrorlk | 344
-dailymirrorlk | 370
+dailymirrorlk | 371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,715 (100.0%) of 2,715 articles have been extended.
+2,715 (99.8%) of 2,720 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Electricity supply to Bambalapitiya railway station disconnected over unpaid bills
+
+*2024-01-26 12:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96741/electricity-supply-to-bambalapitiya-railway-station-disconnected-over-unpaid-bills) · `en`
+
+The electricity supply to the Bambalapitiya railway station has been disconnected owing to the non-payment of bills.
+
+It was reported that for about two days, the functions of the railway station were carried out by using alternative lighting sources such as kerosene oil lamps. As a result, the commuters as well as the employees of the railway station including the station masters have reportedly been experiencing inconveniences.
+
+A spokesperson of the railway station stated that the suspension of electricity supply has affected the proper delivery of announcements at the railway station.
+
+◼️
+
+[Data](articles/5b002cf6.json)
+
+---
 
 ### Minister Sanath Nishantha's body to take away to Arachchikattuwa
 
@@ -45,6 +61,60 @@ Our correspondent said that the remains held at the Borella Ravad Flower of Colo
 [Data](articles/15009b00.json)
 
 [Extended Data](ext_articles/15009b00.ext.json)
+
+---
+
+### நிகழ்நிலை பாதுகாப்பு சட்டம் : நீதிமன்றம் முன்வைத்த திருத்தங்களை அரசாங்கம் உள்வாங்கவில்லை - ஐக்கிய மக்கள் சக்தி
+
+*2024-01-26 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174831) · `ta`
+
+சபாநாயகர் நிகழ்நிலைபாதுகாப்பு சட்டத்திற்கு தனது அங்கீகாரத்தை வழங்குவதற்கு முன்னர் கட்சி தலைவர்களின் கூட்டத்தை கூட்டவேண்டும் என ஐக்கிய மக்கள் சக்தி வேண்டுகோள் விடுத்துள்ளது.
+
+உயர்நீதிமன்றம் முன்வைத்த திருத்தங்கள்  சிலவற்றை அரசாங்கம் உள்வாங்கவில்லை என்பதால்  நிகழ்நிலை பாதுகாப்பு சட்டம் தொடர்பில் சபாநாயகர் கட்சிதலைவரின் கூட்டத்தினை கூட்டவேண்டும் என வேண்டுகோள் விடுக்க தீர்மானித்துள்ளதாக ஐக்கியமக்கள் சக்தியின் ஹர்சனராஜகருண தெரிவித்துள்ளார்.
+
+உயர்நீதிமன்றம் முன்வைத்த பரிந்துரைகளை நிகழ்நிலை பாதுகாப்பு சட்டம் உள்வாங்கவில்லை என்பதால் சபாநாயக அந்த சட்டத்தினை அங்கீகரிக்க கூடாது எனவும் ஐக்கிய மக்கள் சக்தி நாடாளுமன்ற உறுப்பினர் தெரிவித்துள்ளார்.
+
+உரிய திருத்தங்களை முன்னெடுக்காமல் சபாநாயகர் தனது அனுமதியை வழங்கினால் நீதித்துறைக்கும் சட்டவாக்கத்திற்கும் இடையில் மோதல் ஏற்படலாம்  எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/2dc5d63b.json)
+
+---
+
+### Austrian tourist dies, three others injured in highway accident
+
+*2024-01-26 12:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Austrian-tourist-dies-three-others-injured-in-highway-accident/108-275773) · `en`
+
+Mahabage, Jan 26 (Daily Mirror) - An Austrian national died and three other foreigners injured when the van they were travelling in collided against the back of a lorry on the Katunayake Expressway near the 27th kilometre post this morning.
+
+Police said the van carrying tourists travelling towards Kerawalapitiya from Kawadatha collided with the lorry travelling in the same direction.
+
+The injured tourists were admitted to the Colombo North Teaching Hospital where the 37-year-old Austrian tourist died on admission.
+
+◼️
+
+[Data](articles/7f169d45.json)
+
+---
+
+### கொள்ளைச் சம்பவம் தொடர்பில் முறைப்பாடு செய்த நெல்லியடி இளைஞன் மீது வாள் வெட்டு!
+
+*2024-01-26 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174829) · `ta`
+
+கொள்ளைச் சம்பவம் தொடர்பில் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்த பின்னர் வீடு திரும்பிக் கொண்டிருந்த இளைஞனை வீதியில் வழி மறித்து சிலர் அவர் மீது வாள் வெட்டுத் தாக்குதலை நடத்தியுள்ளனர்.
+
+யாழ்ப்பாணம் வடமராட்சி பகுதியை சேர்ந்த ஜெயக்கொடி கார்தீபன் (30)  எனும் இளைஞனே தாக்குதலுக்கு இலக்கான நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+குறித்த இளைஞன் நேற்று (25) மாலை  ஐஸ்கிறீம் விற்பனையில்  ஈடுபட்டிருந்த போது , மோட்டார் சைக்கிளில் வந்த இரு இளைஞர்கள், ஐஸ் கிறீம் வாங்குவது போல நடித்து  இளைஞனிடமிருந்த  பணம் , மற்றும் கைத்தொலைபேசி என்பவற்றை கொள்ளையடித்து சென்றனர்.
+
+இது தொடர்பில் நெல்லியடி பொலிஸ் நிலையத்தில் இளைஞன் முறைப்பாடு செய்த பின்னர்  வீடு  திரும்பிக் கொண்டிருந்த போது, அல்வாய் பகுதியில் இளைஞனை வழிமறித்த சிலர் வாள் வெட்டுத் தாக்குதலை மேற்கொண்டு விட்டு தப்பி சென்றுள்ளனர்.
+
+இதனையடுத்து காயமடைந்த இளைஞன் வைத்தியசாலையில் சிகிச்சை பெற்று வரும் நிலையில், நெல்லியடி பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+◼️
+
+[Data](articles/e1f610f3.json)
 
 ---
 
@@ -63,6 +133,30 @@ Speaking at a conference in Chennai, the Indian Minister for Ports, Shipping and
 [Data](articles/8a31adde.json)
 
 [Extended Data](ext_articles/8a31adde.ext.json)
+
+---
+
+### Sri Lankan faces charges in Thailand over pet lion joyride
+
+*2024-01-26 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96740/sri-lankan-faces-charges-in-thailand-over-pet-lion-joyride) · `en`
+
+Police in Thailand have arrested a woman whose pet lion was pictured going on a joyride in the streets of Pattaya.
+
+A video that has now gone viral shows the chained lion cub seated in the back of a white, open-top Bentley.
+
+The lion was being driven about by a Sri Lankan man who has since left the country, and is believed to be a friend of the woman, Sawangjit Kosoongnern.
+
+While it is not illegal to own a lion in Thailand, it needs to be officially registered.
+
+Authorities in Thailand said Ms Sawangjit claimed to have bought the animal from a Thai man in Nakhon Pathom province, who successfully facilitated its delivery to Pattaya.
+
+However he failed to have his facility checked by officials before doing so, which made both the transfer and ownership of the animal illegal.
+
+She is therefore facing charges of possessing a controlled wild animal without permission, which carries a penalty of a year’s imprisonment and a fine of up to 100,000 baht ($2,800; £2,200).
+
+...
+
+[Data](articles/fd6decd0.json)
 
 ---
 
@@ -1967,97 +2061,5 @@ State Minister Sanath Nishantha lost his life in a tragic accident on the Colomb
 [Data](articles/1bffd3ca.json)
 
 [Extended Data](ext_articles/1bffd3ca.ext.json)
-
----
-
-### UNDP provides technical assistance for Sri Lanka’s health promotion
-
-*2024-01-25 19:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96726/undp-provides-technical-assistance-for-sri-lankas-health-promotion) · `en`
-
-The United Nations Development Programme (UNDP) has distributed 1,600 chicks to 80 beneficiaries in Kandamalawa Grama Niladhari Division in Gomarankadawala, as part of the UNDP’s Sri Lankan project with the technical and financial assistance of the Government of Japan.
-
-Meanwhile, foul pox vaccinations have been administered by cluster leaders in Anuradhapura recently under the programme.
-
-Additionally, a technical team has conducted a monitoring session of the mini incubators in Vavuniya, while a Black Soldier Fly unit and Azzolla farming has been conducted successfully in the Anuradhapura District with beneficiary commitment, the UNDP said.
-
-In the meantime, the UNDP pledged its technical assistance for the future progress of the health service in Sri Lanka, when the UNDP’s Resident Representative in Sri Lanka Azusa Kubota met with Minister of Health Ramesh Pathirana on Wednesday (24).
-
-...
-
-[Data](articles/ca30d9db.json)
-
-[Extended Data](ext_articles/ca30d9db.ext.json)
-
----
-
-### Laws in the offing to institute raping of male children as criminal offense
-
-*2024-01-25 18:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Laws-in-the-offing-to-institute-raping-of-male-children-as-criminal-offense/108-275715) · `en`
-
-Colombo, Jan. 25 (Daily Mirror)- The government is in the process of introducing amendments to the Penal Code to institute raping of male children as a criminal offense, amend laws on constitutional rape of females mentioned in the Penal Code and to correct the shortcomings in the law of raping of females.
-
-Approval has already been granted by the Cabinet at the meetings held on 18.01.2021 and 28.06.2021 to introduce amendments to the Penal Code to amend laws on constitutional rape of females mentioned in the Penal Code, to correct shortcomings in the law of raping of females and to institute raping of male children as a criminal offense.
-
-Accordingly, the Legal Draftsman has formulated the draft bill and the clearance of the Attorney General has also been granted.
-
-...
-
-[Data](articles/20728f4c.json)
-
-[Extended Data](ext_articles/20728f4c.ext.json)
-
----
-
-### Sanath Nishantha to pay attention to Nishantha
-
-*2024-01-25 18:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192566) · `si`
-
-The body of State Minister Sanath Nishantha has been placed in the Malzala to address the last respects.
-
-The body is taken to the house of Mr. Sanath Nishantha in Puttalam at 10.30 am.
-
-◼️
-
-[Data](articles/71bc33b2.json)
-
-[Extended Data](ext_articles/71bc33b2.ext.json)
-
----
-
-### Death of fruit
-
-*2024-01-25 18:39:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பழம்-பறிக்க-மரத்தில்-ஏறியவர்-மரணம்/175-332110) · `ta`
-
-Police say that a man who climbed into the tree fell down with a tree to pluck fruit in the Singapura area in Belmadulla.
-
-The 66 -year -old man, a father of two children who joined the Singapura area in Belmadulla, died.
-
-Neighbors died without treatment as he was admitted to the Kahawatte Teaching Hospital until he fell down from the tree.
-
-It is noteworthy that the police are conducting further investigations into the matter.R
-
-◼️
-
-[Data](articles/6e47008a.json)
-
-[Extended Data](ext_articles/6e47008a.ext.json)
-
----
-
-### President advocates expansion of Sri Lankan confectionery industry and cocoa cultivation
-
-*2024-01-25 18:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/96725/president-advocates-expansion-of-sri-lankan-confectionery-industry-and-cocoa-cultivation) · `en`
-
-President Ranil Wickremesinghe, addressing the 30th Annual General Meeting of the Lanka Confectionary Manufacturers Association (LCMA) on Wednesday (24) at Cinnamon Grand Hotel, Colombo emphasized the potential for Sri Lanka to become a global player in the confectionery industry. He encouraged Sri Lankan confectioners to expand their horizons and tap into international markets.
-
-Acknowledging the success of Sri Lankan teas and cinnamon globally, the President posed the question, “How long before I can take chocolates and go?” He also encouraged the confectioners to explore the export market for chocolates, the President’s Media Division (PMD) said in a statement.
-
-The President emphasized the significance of positioning Sri Lankan chocolates as a world-class product, similar to the renowned reputation of the country’s tea and cinnamon. His encouragement aimed to inspire the confectionery industry to embark on a journey towards global recognition and market presence.
-
-...
-
-[Data](articles/03c131ea.json)
-
-[Extended Data](ext_articles/03c131ea.ext.json)
 
 ---

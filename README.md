@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 13:33:09**
+As of **2024-01-26 13:51:32**
 
 ## Newspaper Stats
 
-*Scraped **2,723** Articles*
+*Scraped **2,728** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ islandlk | 151
 newsfirstlk | 152
 economynextcom | 158
 dailyftlk | 202
-adaderanasinhalalk | 235
+adaderanasinhalalk | 236
 adalk | 259
 virakesarilk | 294
 adaderanalk | 342
-tamilmirrorlk | 344
+tamilmirrorlk | 348
 dailymirrorlk | 371
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,720 (99.9%) of 2,723 articles have been extended.
+2,728 (100.0%) of 2,728 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### President Mahinda Rajapaksa proposes to all parties
+
+*2024-01-26 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192583) · `si`
+
+President Ranil Wickremesinghe says that the main reason for the collapse of the country's economy is "promised politics".
+
+The President was speaking at a function held at the Customs Headquarters in Colombo after celebrating international customs date.
+
+Accordingly, the President requested all political parties to create a comprehensive plan to build the country, especially when preparing for elections.
+
+◼️
+
+[Data](articles/8eb067e2.json)
+
+[Extended Data](ext_articles/8eb067e2.ext.json)
+
+---
 
 ### Sri Lanka’s economy suffered due to ‘politics of promises’ - President
 
@@ -50,6 +68,28 @@ He also expressed his readiness to extend an invitation to IMF’s Managing Dire
 
 [Data](articles/faf0f469.json)
 
+[Extended Data](ext_articles/faf0f469.ext.json)
+
+---
+
+### The liquor bar has been opened in Saudi
+
+*2024-01-26 12:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சவுதியில்-மதுபானக்கடை-திறக்கப்பட்டது/50-332141) · `ta`
+
+It is noteworthy that the liquor bar has been opened only to non -Muslim foreign ambassadors, and the Sauds have opened the liquor bar after 70 years.
+
+In 1950, alcohol was banned in Saudi Arabia. Abdul Aziz was the king of Saudi Arabia.
+
+The king's son, Prince Mishari, was drinking alcohol and the British deputy ambassador in Jeddah was shot dead by Cyril Osman.
+
+Currently, Prince Mohammed bin Salman has taken steps to convert Saudi Arabia into a tourist destination. The liquor store was opened in conjunction with tons. (App)
+
+◼️
+
+[Data](articles/886cc610.json)
+
+[Extended Data](ext_articles/886cc610.ext.json)
+
 ---
 
 ### SC begins hearing of more than 20 petitions against Anti-Terrorism Bill
@@ -66,6 +106,8 @@ At least 27 petitions have been put forward against the proposed legislation whi
 
 [Data](articles/d8ae44c5.json)
 
+[Extended Data](ext_articles/d8ae44c5.ext.json)
+
 ---
 
 ### The body of a youth's body was recovered while sleeping in Batticaloa
@@ -81,6 +123,50 @@ He was married to Kumarapuram, Batticaloa. He was found dead on Friday morning (
 [Data](articles/a5102b9b.json)
 
 [Extended Data](ext_articles/a5102b9b.ext.json)
+
+---
+
+### Questionnaire Leak: Explanation for the trio
+
+*2024-01-26 12:48:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/அம்பாறை/வினாத்தாள்-கசிவு-மூவருக்கும்-விளக்கமறியல்/74-332140) · `ta`
+
+All three persons arrested in connection with the incident of leaking the first and 2nd questions of the ongoing Education General Examination of the ongoing GCE Ordinary Level Examination.
+
+The Chief Magistrate of Ampara and Additional District Judge Mrs. Naomi Wickramaratne ordered the above.
+
+The Moratuwa Maha Vidyalaya Examination Hall and the office assistant were arrested on Thursday (25). They have been ordered to be remanded until the 2nd.
+
+Dinesh Viratani and office assistant Sumuthu Sindhana have been kept in charge of the Moratuwa Maha Vidyalaya Examination Hall.
+
+The Agricultural Science Teacher of the Ampara DS Senanayake Vidyalaya, which is currently being kept in detail on the release of the exam question papers, has been presented in court on Wednesday (26) and she has been remanded till the 2nd of this month.
+
+◼️
+
+[Data](articles/a1260d91.json)
+
+[Extended Data](ext_articles/a1260d91.ext.json)
+
+---
+
+### We can't breathe free air: Sridharan
+
+*2024-01-26 12:21:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/சுதந்திர-காற்றை-சுவாசிக்க-முடியாது-இருக்கிறோம்-ஸ்ரீதரன்/72-332139) · `ta`
+
+The Sinhalese people have begun to experience the suffering suffered by the Tamil people. Thus the state is in fear. This is also the way to open the path to Tamils. Therefore, the new leader of the Sri Lanka Tamil National Party, Sivagnanam Sreedharan, said that we should all unite.
+
+Kilinochchi District Parliamentarian S. Sreedharan was elected as the new leader of the Sri Lanka Tamil National Alliance (TNA) on Thursday evening at the Mannar office by members of the Mannar District Tamil National Party.
+
+Likewise, in my history of my history, I am talking to the members of the Mannar Tamil party.
+
+Although we have sacrificed many lives in this soil we are in a state of unable to breathe another free air. We are still alienating.
+
+We have been a race that has been fighting for over 75 years. In 1949, Father Selva said that Tamils are a national race. He began to act to restore the lost sovereignty and live with our national identity.
+
+...
+
+[Data](articles/0f7edf69.json)
+
+[Extended Data](ext_articles/0f7edf69.ext.json)
 
 ---
 
@@ -115,6 +201,20 @@ Our correspondent said that the remains held at the Borella Ravad Flower of Colo
 [Data](articles/15009b00.json)
 
 [Extended Data](ext_articles/15009b00.ext.json)
+
+---
+
+### India's 75th Republic Day was celebrated
+
+*2024-01-26 12:13:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்தியாவின்-75வது-குடியரசு-தினம்-கொண்டாடப்பட்டது/175-332138) · `ta`
+
+The 75th Republic Day of India was celebrated by the Indian High Commissioner to Sri Lanka, Santosh Ja, the Indian House in Colombo.
+
+◼️
+
+[Data](articles/bad55382.json)
+
+[Extended Data](ext_articles/bad55382.ext.json)
 
 ---
 
@@ -199,6 +299,8 @@ The People’s Platform | Dr. Kalana Senaratne | Reforms : The need of the hour
 ◼️
 
 [Data](articles/99b3080f.json)
+
+[Extended Data](ext_articles/99b3080f.ext.json)
 
 ---
 
@@ -1955,125 +2057,5 @@ Based on the information divulged by the suspect during interrogations, the inve
 [Data](articles/287e314d.json)
 
 [Extended Data](ext_articles/287e314d.ext.json)
-
----
-
-### US expresses concerns over Sri Lanka’s Online Safety Bill, calls for transparency
-
-*2024-01-25 20:34:00* · [`adaderanalk`](https://www.adaderana.lk/news/96729/us-expresses-concerns-over-sri-lankas-online-safety-bill-calls-for-transparency) · `en`
-
-The United States remains concerned about the potential impact of Sri Lanka’s newly passed Online Safety Bill, Ambassador Julie Chung said on Thursday (Jan.25).
-
-Taking to X (formerly Twitter), the US envoy in Colombo expressed dismay at passing the legislation in the parliament by majority vote without incorporating important input from key stakeholders, including civil society and tech companies.
-
-The new law has come under fire for the problematic aspects of several clauses of the Bill, which threaten the freedom of expression, innovation and privacy.
-
-Chung emphasized that the ‘vague and overly restrictive’ Online Safety Bill can hinder investment and development of a digital economy, undermining Sri Lanka’s much-needed economic growth.
-
-On that account, the United States has urged the Sri Lankan authorities to prioritize transparency and ensure any legislation does not stifle the voices of its people.
-
-...
-
-[Data](articles/c3c17c46.json)
-
-[Extended Data](ext_articles/c3c17c46.ext.json)
-
----
-
-### Detention order to the suspect in Beliatta
-
-*2024-01-25 20:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192568) · `si`
-
-The suspect arrested in connection with the murder of Beliatta has been deployed today (25).
-
-The suspect was produced before the Assembly Magistrate's Court today.
-
-There were many other important facts in the suspects in the arrested suspect in Akuressa yesterday (24).
-
-He is suspicious that the man was headed by the attack and we will go to a hotel in the CCTV sewage that was revealed before yesterday.
-
-The police also recovered a motorcycle and a van according to the information revealed by the 55-year-old suspect named Saman Kumara.
-
-Hakmana police officers under the supervision of Senior Superintendent of Police of the Matara Division.
-
-The police suspect that the motorcycle has been used to dispose of the two T-56 riffles used for the attack.
-
-The police suspect that the van with the crime was prepared to hide hiding after the crime.
-
-One of the shooter in the jeep of the shooter has been tabled in Akuressa and another shotgam has been detected in Kamburupitiya area.
-
-...
-
-[Data](articles/f7ccb32d.json)
-
-[Extended Data](ext_articles/f7ccb32d.ext.json)
-
----
-
-### Judge proposes Spain’s Luis Rubiales face trial over Hermoso World Cup kiss
-
-*2024-01-25 20:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Judge-proposes-Spains-Luis-Rubiales-face-trial-over-Hermoso-World-Cup-kiss/108-275717) · `en`
-
-Spain, Jan 25 (BBC) - A Spanish judge has proposed that former football federation president Luis Rubiales should stand trial over the women's World Cup kiss involving captain Jenni Hermoso.
-
-Mr Rubiales grabbed Ms Hermoso's head and kissed her during the presentation after Spain's victory in Australia.
-
-She said the kiss was "not consensual", a statement denied by Mr Rubiales.
-
-A judge has found there is enough evidence for the matter to proceed to trial.
-
-During a hearing at the Audencia Nacional, or High Court, in Madrid, the judge described the kiss as "not consensual and... a unilateral and surprising initiative".
-
-Prosecutors previously charged Mr Rubiales with sexual assault and coercion.
-
-Penalties for such a kiss range from a fine to four years in prison.
-
-The incident has involved several Spanish football executives including Ms Hermoso's former coach, a former marketing manager and the sports director of the men's team.
-
-...
-
-[Data](articles/243639a7.json)
-
-[Extended Data](ext_articles/243639a7.ext.json)
-
----
-
-### Child killed in water to heal cancer
-
-*2024-01-25 20:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192567) · `si`
-
-A seven-year-old child who suffered a blood cancer is reported from India for a 15-minute diminishing the river.
-
-The child's parents have been dumped in water.
-
-Foreign media, the child's parents have been immersed in the river river, and the blind faith that he refused in the river.
-
-◼️
-
-[Data](articles/3282b8a4.json)
-
-[Extended Data](ext_articles/3282b8a4.ext.json)
-
----
-
-### The officer caught with 6 kg of cannabis
-
-*2024-01-25 19:44:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/6-கிலோ-கஞ்சாவுடன்-சிக்கிய-அதிகாரி/175-332111) · `ta`
-
-A loan unit officer who works at a leading lease company in Puttalam - Anamaduwa area
-
-It is reported that the arrested suspect was made by the police when the car was loaded with Kerala cannabis in the car.
-
-A 40 -year -old man from Anamaduwa area has been arrested, police said.
-
-It has been revealed that the suspect has taken 6 kg of Kerala cannabis in the car's driver's seat and other seats.
-
-Forest police are conducting further investigations into the incident. Remble
-
-◼️
-
-[Data](articles/e6060a3f.json)
-
-[Extended Data](ext_articles/e6060a3f.ext.json)
 
 ---

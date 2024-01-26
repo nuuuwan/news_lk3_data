@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 10:32:44**
+As of **2024-01-26 10:50:02**
 
 ## Newspaper Stats
 
-*Scraped **2,677** Articles*
+*Scraped **2,683** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,74 +19,164 @@ adaderanasinhalalk | 232
 adalk | 257
 virakesarilk | 286
 adaderanalk | 335
-tamilmirrorlk | 338
-dailymirrorlk | 362
+tamilmirrorlk | 340
+dailymirrorlk | 366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,674 (99.9%) of 2,677 articles have been extended.
+2,683 (100.0%) of 2,683 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### ඊශ්‍රායල් - හමාස් යුද්ධය ගැන ජාත්‍යන්තර අධිකරණය දෙන්න යන තීන්දුව
+### Israeli - Hamas's verdict on war
 
 *2024-01-26 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192579) · `si`
 
-ඊශ්‍රායලය ගාසා තීරයේ සිදුකරන මෙහෙයුම් නතර කරන ලෙස ඉල්ලා සිටීමට එක්සත් ජාතීන්ගේ සංවිධානයට සම්බන්ධ ජාත්‍යන්තර අධිකරණය මඟින් නියෝගයක් නිකුත් කිරිමේ හැකියාව පවතින බව වාර්තා වෙයි.
+It is reported that the International Court of Sri Lanka to be asked to stop the operations in the Gaza to be issued to the United Nations International Court of Justice.
 
-ඊශ්‍රායලය පලස්තීනයේ ජන සංහාරයක් සිදුකරන බවට දකුණු අප්‍රිකාව විසින් ඉදිරිපත් කරන ලද නඩුව මේ වනවිට විභාග වෙමින් පවතී.
+The case by South Africa, the case by South Africa is being heard that Israel is making a genocide in Palestine.
 
-එම නඩුවට අදාළව දෙපාර්ශ්වයම සාක්ෂි ඉදිරිපත් කර ඇති අතර ඊශ්‍රායලය තමන්ට එරෙහි වෝදනා ප්‍රතික්ෂේප කර තිබේ.
+Both sides have evidence of the case and have rejected Israel.
 
-ජාත්‍යන්තර අධිකරණය ඊශ්‍රායලයට එරෙහිව තීන්දුවක් ලබාදුන්න ද එය ක්‍රියාත්මක කිරීමට බලපෑම් කිරිමේ හැකියාවක් නොමැත.
+The International Court of judiciary gives judgment against Israel and the implementation of it.
 
-එහෙත් එය දේශපාලනික වශයෙන් ඊශ්‍රායලය වෙත දැඩිව බලපානු ඇති බව විචාරකයින් පවසයි.
+However, critics say it will be strictly affected by Israel politically.
 
 ◼️
 
 [Data](articles/b2b3ed75.json)
 
+[Extended Data](ext_articles/b2b3ed75.ext.json)
+
 ---
 
-### බම්බලපිටිය දුම්රිය ස්ථානයේ විදුලිය විසන්ධි කෙරේ
+### Accident on the highway again ... Foreigner killed
+
+*2024-01-26 10:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டும்-அதிவேக-நெடுஞ்சாலையில்-விபத்து-வெளிநாட்டவர்-பலி/175-332131) · `ta`
+
+A foreigner has died in a vehicle accident on the highway and three others have been admitted to the hospital.
+
+The accident occurred when a van crashed into the back of the lorry on the highway between Kadawatha and Karavalapitiya.
+
+◼️
+
+[Data](articles/9617e091.json)
+
+[Extended Data](ext_articles/9617e091.ext.json)
+
+---
+
+### Electricity at Bambalapitiya Railway Station
 
 *2024-01-26 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192578) · `si`
 
-විදුලි බිල නොගෙවීම හේතුවෙන් දුම්රිය ස්ථානයේ විදුලිය විසන්ධි කර ඇති බව වාර්තා වෙයි.
+It is reported that electricity station has been disconnected due to the non-payment of electricity bills.
 
-විදුලිය නොමැතිව දින දෙකක් පමණ දුම්රිය ස්ථානයේ කටයුතු කුප්පි ලාම්පු හා වෙනත් ආධාරක මඟින් පවත්වාගෙන ගොස් තිබේ.
+The stroll lamps and other supports have been operated by the vicarian lamps and other supports without electricity.
 
-මේ හේතුවෙන් දුම්රිය ස්ථානාධිපතිවරුන් ඇතුළු කාර්යමණ්ඩලය  මෙන්ම දුම්රිය භාවිත කරන මගී ජනතාව ද දැඩි  අපහසුතාවයට පත්වී ඇති බව වාර්තා වෙයි.
+As a result, the passengers, including station and the trains, have been severely embarrassed.
 
-විදුලිය විසන්ධි කිරිම හේතුවෙන් බම්බලපිටිය දුම්රිය ස්ථානයේ නිවේදන කටයුතු සිදු නොවන බවද එහි ප්‍රකාශකයෙකු සඳහන් කළේය.
+A spokesman for notification station at Bambalapitiya Railway Station said due to the suppression of electricity.
 
-මේ අතර කොළඹ කොටුව සිට මහනුවර බලා ධාවනය වූ සීඝ්‍රගාමී දුම්රියක් ඊයේ (25) රාත්‍රියේ කඩිගමුව සහ ඉහළ කෝට්ටේ දුම්රිය ස්ථානය අතරදී පීලි පැනීමකට ලක්වී තිබුණි.
+Meanwhile, an express train traveling from Colombo Fort to Kandy was derailed at Kadigamuwa and Upstiya.
 
-දුම්රියේ එක් රෝදයක් පමණක් පිලී පැනීමට ලක්වී ඇති අතර ඊයේ රාත්‍රීයේම දුම්රිය පිළිගත කිරිමේ කටයුතු ආරම්භ කළ බව දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
+Only one wheel of the train has begun to be accused of acceptance of the trains last night, the Railway Department said.
 
-මේ හේතුවෙන් කොළඹ කොටුව දුම්රිය ස්ථානයේ සිට බදුල්ල දක්වා වන රාත්‍රි තැපැල් දුම්රියේ ප්‍රමාදයක් සිදුවු බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+Due to this, a delay in the night train from Colombo Fort Railway Station to Badulla said the Railway Department said.
 
 ◼️
 
 [Data](articles/405aeb0e.json)
 
+[Extended Data](ext_articles/405aeb0e.ext.json)
+
 ---
 
-### අධිවේගී මාර්ගයක තවත් මාරක අනතුරක්
+### Daughter of legendary music director Ilaiyaraaja dies of cancer in Sri Lanka
+
+*2024-01-26 09:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daughter-of-legendary-music-director-Ilaiyaraaja-dies-of-cancer-in-Sri-Lanka/108-275752) · `en`
+
+Colombo, Jan 26 (India Today) - Legendary music director Ilaiyaraaja's daughter and playback singer Bhavatharini died of cancer on Thursday (25) in Sri Lanka.
+
+According to reports, she went to Sri Lanka to get treated for liver cancer. However, she died at around 5 pm in Sri Lanka. Her body will be brought to Chennai today (January 26), where the final rites will take place. She is survived by her husband. Bhavatharini was 47 years old.
+
+She is the daughter of Ilaiyaraaja and sister of Karthik Raja and Yuvan Shankar Raja. She won the National Film Award for Best Female Playback singer for Tamil song, 'Mayil Pola Ponnu Onnu' from 'Bharathi'.
+
+Ilaiyaraaja's daughter, Bhavatharini', was a playback singer and music composer. For the past six months, she had been treated for liver cancer. Recently, she was taken to Sri Lanka to get further treatment, where she died at a private hospital.
+
+...
+
+[Data](articles/9e63a130.json)
+
+[Extended Data](ext_articles/9e63a130.ext.json)
+
+---
+
+### Government allocates Rs.1,000 million for small scale irrigation reconstructions in 2024
+
+*2024-01-26 09:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Government-allocates-Rs-1-000-million-for-small-scale-irrigation-reconstructions-in-2024/108-275749) · `en`
+
+Colombo, Jan 26 (Daily Mirror) - Government has allocated Rs.1,000 million for 2024 for the reconstruction of small-scale tanks, culverts and embankments in the country.
+
+This allocation has been made through the Agrarian Development Department for the reconstruction of 17,000 small scale irrigation systems in the country.
+
+These renovation works started last year with Rs.1,000 million allocated for 2023.
+
+The construction work of around 1,100 tanks, which were carried out under the full supervision of the Agrarian Development Department have been successfully completed by now.
+
+According to Agriculture Minister Mahinda Amaraweera, many lakes including Wariyapola Moonamale Lake, Nikawewa, Balalla Borawawa, Katupetiwawa, Niyadagalawawa, Amunakole cascade System, Galkandegama Lake, Matambalawa, Bakmeewewa and Kudawawa have been renovated by using government funds and several paddy fields which had not been cultivated for years have been cultivated successfully.
+
+...
+
+[Data](articles/064071e0.json)
+
+[Extended Data](ext_articles/064071e0.ext.json)
+
+---
+
+### Two more arrested over Beliatta shooting
+
+*2024-01-26 09:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-more-arrested-over-Beliatta-shooting/108-275746) · `en`
+
+Galle, Jan 26 (Daily Mirror) - Two more suspects have been arrested on suspicion of aiding and abetting the shooting in Beliatta where five persons were killed.
+
+Police said the two suspects were arrested by the Police Special Task Force at the Wanchawala area in Galle while also in possession of heroin.
+
+Five persons, including the leader of the 'Ape Jan Bala Party', Saman Perera alias Royal Beach Saman, were killed in the shooting.
+
+Police said the arrested suspects, aged 25 and 35, were identified as residents of Galle.
+
+At the time of arrest, 09 grams and 300 milligrams of heroin, a motorcycle, three mobile phones and a knife were found in their possession.
+
+The suspects have been handed over to the Galle Harbour Police Station for further investigations.
+
+Police earlier arrested the main suspect in connection with the shooting and he was detained for further questioning.
+
+◼️
+
+[Data](articles/4282758e.json)
+
+[Extended Data](ext_articles/4282758e.ext.json)
+
+---
+
+### Another fatal accident on a highway
 
 *2024-01-26 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192577) · `si`
 
-අධිවේගී මාර්ගයේදී සිදුවූ රිය අනතුරකින් එක් පුද්ගලයෙකු මියගොස් තවත් තිදෙනෙකු රෝහල්ගත කර තිබේ.
+One person was killed and three others were hospitalized after an accident on the Expressway.
 
-අධිවේගී මාර්ගයේ කඩවත සහ කෙරවලපිටිය අතර කොටසේදී වෑන් රථයක් ලොරි රථයක පිටුපස ගැටීමෙන් අනතුර සිදුවී ඇත.
+A van collided with the back of a lorry in the expressway on the Expressway.
 
 ◼️
 
 [Data](articles/0ae455c6.json)
+
+[Extended Data](ext_articles/0ae455c6.ext.json)
 
 ---
 
@@ -105,6 +195,26 @@ According to reports, the van, which the foreign national and the others were tr
 [Data](articles/279d5f0a.json)
 
 [Extended Data](ext_articles/279d5f0a.ext.json)
+
+---
+
+### Card payments’ merchant fee shouldn’t be borne by customers: CB Deputy Governor
+
+*2024-01-26 09:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Card-paymentsmerchant-feeshouldnt-be-borne-by-customers-CB-Deputy-Governor/108-275740) · `en`
+
+Merchant fees which are at most times conveniently passed on to the customer should not be borne by the customer, the Central Bank asserted this week.
+
+As per agreements inked between banks and vendors, the fee must be absorbed by the merchant himself.
+
+Speaking on the issue, the Central Bank’s Senior Deputy Governor, Yvette Fernando said they have made aware the merchants at times who should bear the merchant fee which often gets added to the cost of purchase, and has made even the banks aware to pass on the message and to ensure that this doesn’t recur.
+
+Although the practice has been known and in public for a very long time, no one or nothing has been done to address the issue. And it appears even the continuous awareness campaigns the Central Bank claims to have been conducting have not been followed by the merchants and even the banks.
+
+...
+
+[Data](articles/5003bbf7.json)
+
+[Extended Data](ext_articles/5003bbf7.ext.json)
 
 ---
 
@@ -487,6 +597,26 @@ Reduced tourism: The COVID-19 pandemic dealt a severe blow to Sri Lanka’s vita
 [Data](articles/e761dbfd.json)
 
 [Extended Data](ext_articles/e761dbfd.ext.json)
+
+---
+
+### The economy is affected by high definitions
+
+*2024-01-26 03:22:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வரையறைகளால்-பொருளாதாரத்துக்கு-பாதிப்பு/175-332130) · `ta`
+
+US Ambassador to Sri Lanka Julie Sung said that Sri Lanka's economic development will be affected by vague laws that will impose more definitions.
+
+He also warned that they would affect investments and digital economic development.
+
+He posted this on the social website about the e -mail security bill passed in Parliament.
+
+US Ambassador to Sri Lanka Julie Sung said that this amendment threatens freedom, innovation and privacy and that the major issues put forward by the major parties, including civil society and technology institutions.. (A)
+
+◼️
+
+[Data](articles/5dd2976a.json)
+
+[Extended Data](ext_articles/5dd2976a.ext.json)
 
 ---
 
@@ -1901,115 +2031,5 @@ Jagath Priyankara, who was contesting for the last election of the death of Mr. 
 [Data](articles/6eae5dec.json)
 
 [Extended Data](ext_articles/6eae5dec.ext.json)
-
----
-
-### The reason for the crisis is the Governor of Governor
-
-*2024-01-25 14:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192555) · `si`
-
-Central Bank Governor Dr. Nandalal Weerasinghe says that the country was in a economic crisis when necessary.
-
-He was responding to the Parliamentary Select Committee appointed to seek the search for the country.
-
-Ocean Kariyawasam - We know that when the country is closed during the program, investments are not coming?The income from foreign tourists went to zero. Do you accept that the covard situation had influenced this?
-
-...
-
-[Data](articles/c3cc07fa.json)
-
-[Extended Data](ext_articles/c3cc07fa.ext.json)
-
----
-
-### Mihintale Rajamaha Viharama arrested for death to death
-
-*2024-01-25 14:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192554) · `si`
-
-Mihintale Rajamaha Viharaya Walawaastanawewa Dammaratana Thero has been arrested.
-
-The arrest was made by the CID.
-
-◼️
-
-[Data](articles/e5165166.json)
-
-[Extended Data](ext_articles/e5165166.ext.json)
-
----
-
-### President, Mahinda Rajapaksa visit Sanath Nishantha’s residence
-
-*2024-01-25 14:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/President-Mahinda-Rajapaksa-visit-Sanath-Nishanthas-residence/108-275709) · `en`
-
-Colombo, Jan. 25 (Daily Mirror)- President Ranil Wickremesinghe and former President Mahinda Rajapaksa visited State Minister Sanath Nishantha's residence in Colombo this morning, after learning of his sudden death.
-
-Former President Mahinda Rajapaksa conveyed his condolences to the Minister's wife and children.
-
-The former President told reporters that the sudden death of Sanath Nishantha is a great loss to the Sri Lanka Podujana Peramuna (SLPP), the contry and the people.
-
-"He was a Minister who took the lead in party activities and any task in the area," he said.
-
-◼️
-
-[Data](articles/894b5cdf.json)
-
-[Extended Data](ext_articles/894b5cdf.ext.json)
-
----
-
-### Man arrested for threatening & attempting to extort money from Mihintale Chief Prelate
-
-*2024-01-25 14:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96721/man-arrested-for-threatening-attempting-to-extort-money-from-mihintale-chief-prelate) · `en`
-
-The police have arrested a man who allegedly sent death threats to the chief incumbent of Mihintale Rajamaha Viharaya Most Ven. Walawahengunawewa Dhammarathana Thero and attempting to extort money.
-
-According to Ada Derana correspondent, the 51-year-old had attempted to extort Rs. 10 million from the most venerated monk.
-
-The arrest has been made by the Criminal Investigation Department (CID) officers.
-
-◼️
-
-[Data](articles/3ff5baa5.json)
-
-[Extended Data](ext_articles/3ff5baa5.ext.json)
-
----
-
-### “Look beyond borders” president tells LCMA citing the success of the Kandos factory in Petaling Jaya, Malaysia in 1978
-
-*2024-01-25 14:33:00* · [`islandlk`](http://island.lk/look-beyond-borders-president-tells-lcma-citing-the-success-of-the-kandos-factory-in-petaling-jaya-malaysia-in-1978/) · `en`
-
-President Ranil Wickremesinghe, addressing the 30th Annual General Meeting of the Lanka Confectionary Manufacturers Association (LCMA) yesterday (24) at Cinnamon Grand Hotel, Colombo emphasized the potential for Sri Lanka to become a global player in the confectionery industry. He encouraged Sri Lankan confectioners to expand their horizons and tap into international markets.
-
-The President emphasized the significance of positioning Sri Lankan chocolates as a world-class product, similar to the renowned reputation of the country’s tea and cinnamon. His encouragement aimed to inspire the confectionery industry to embark on a journey towards global recognition and market presence.
-
-...
-
-[Data](articles/d3c3c68c.json)
-
-[Extended Data](ext_articles/d3c3c68c.ext.json)
-
----
-
-### "His death is a great loss for Mahinda"
-
-*2024-01-25 14:16:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவரின்-மறைவு-மஹிந்தவுக்கு-பெரும்-இழப்பாகும்/175-332106) · `ta`
-
-The demise of State Minister Sanath Nishantha, former President Mahinda Rajapaksa, the party, the party and the people of Puttalam, the people of Puttalam Urban Development and Housing, said the government's chief minister and minister Prasanna Ranatunga said.
-
-“He told the media that Sanath Nishantha was working for the people of Puttalam and Chilaw districts.He has attended two events in Puttalam and Chilaw and he had met the accident on the way to Colombo.
-
-His official residence in Puttalam was burnt during the Arakalai protest on May 9.So the accident occurred while returning to Colombo in the absence of a home to rest in Puttalam.
-
-In addition, Sanatha Nishantha participated in an event held at the Australian High Commission after yesterday's parliamentary sessions. ”
-
-According to police investigations, Minister Ranatunga said that the driver of the diplomatic minister was not in alcohol.
-
-...
-
-[Data](articles/9e408b04.json)
-
-[Extended Data](ext_articles/9e408b04.ext.json)
 
 ---

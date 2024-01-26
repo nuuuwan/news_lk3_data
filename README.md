@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 12:32:44**
+As of **2024-01-26 12:48:27**
 
 ## Newspaper Stats
 
-*Scraped **2,714** Articles*
+*Scraped **2,715** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 151
 islandlk | 151
 economynextcom | 158
 dailyftlk | 202
-adaderanasinhalalk | 234
+adaderanasinhalalk | 235
 adalk | 259
 virakesarilk | 292
 adaderanalk | 338
@@ -26,11 +26,27 @@ dailymirrorlk | 370
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,714 (100.0%) of 2,714 articles have been extended.
+2,715 (100.0%) of 2,715 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Minister Sanath Nishantha's body to take away to Arachchikattuwa
+
+*2024-01-26 12:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192582) · `si`
+
+The remains of the death of Hon.
+
+Our correspondent said that the remains held at the Borella Ravad Flower of Colombo for public dignity were taken out a few months ago.
+
+◼️
+
+[Data](articles/15009b00.json)
+
+[Extended Data](ext_articles/15009b00.ext.json)
+
+---
 
 ### Russia and India set to revitalize alternative shipping line
 
@@ -2043,21 +2059,5 @@ The President emphasized the significance of positioning Sri Lankan chocolates a
 [Data](articles/03c131ea.json)
 
 [Extended Data](ext_articles/03c131ea.ext.json)
-
----
-
-### Is the  ITAK  President Elect  Shritharan Changing Party  Policy From Espousing Federalism to that of Supporting  TamiL Eelam?
-
-*2024-01-25 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83498) · `en`
-
-The premier political party representing  Sri Lankan Tamils in Parliament has got a new leader. The Ilankai Thamil Arasuk Katchi(ITAK) known in English as the Federal Party(FP) has elected Jaffna district Parliamentarian Sivagnanam Shritharan as its president in Trincomalee on 21 January 2024. The president elect will be formally installed  in office at the party convention to be held on 28 January in Trinco. Shritharan  will serve  a  two-year term   as ITAK/FP president.
-
-Initially there were three contenders in the fray for the ITAK Presidency. The three aspirants to the ITAK leadership mantle were Mathiaparanan Abraham Sumanthiran, Sivagnanam Shritharan and Seenithamby Yoheswaran.  Sumanthiran born in 1964  and Shritharan born in 1968  are both Jaffna district MP’s while Yogeswaran  born in 1970 is a former Batticaloa district Parliamentarian.
-
-...
-
-[Data](articles/d76517fd.json)
-
-[Extended Data](ext_articles/d76517fd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 10:17:12**
+As of **2024-01-26 10:32:44**
 
 ## Newspaper Stats
 
-*Scraped **2,674** Articles*
+*Scraped **2,677** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ newsfirstlk | 146
 islandlk | 151
 economynextcom | 154
 dailyftlk | 202
-adaderanasinhalalk | 229
+adaderanasinhalalk | 232
 adalk | 257
 virakesarilk | 286
 adaderanalk | 335
@@ -26,11 +26,69 @@ dailymirrorlk | 362
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,674 (100.0%) of 2,674 articles have been extended.
+2,674 (99.9%) of 2,677 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### ඊශ්‍රායල් - හමාස් යුද්ධය ගැන ජාත්‍යන්තර අධිකරණය දෙන්න යන තීන්දුව
+
+*2024-01-26 10:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192579) · `si`
+
+ඊශ්‍රායලය ගාසා තීරයේ සිදුකරන මෙහෙයුම් නතර කරන ලෙස ඉල්ලා සිටීමට එක්සත් ජාතීන්ගේ සංවිධානයට සම්බන්ධ ජාත්‍යන්තර අධිකරණය මඟින් නියෝගයක් නිකුත් කිරිමේ හැකියාව පවතින බව වාර්තා වෙයි.
+
+ඊශ්‍රායලය පලස්තීනයේ ජන සංහාරයක් සිදුකරන බවට දකුණු අප්‍රිකාව විසින් ඉදිරිපත් කරන ලද නඩුව මේ වනවිට විභාග වෙමින් පවතී.
+
+එම නඩුවට අදාළව දෙපාර්ශ්වයම සාක්ෂි ඉදිරිපත් කර ඇති අතර ඊශ්‍රායලය තමන්ට එරෙහි වෝදනා ප්‍රතික්ෂේප කර තිබේ.
+
+ජාත්‍යන්තර අධිකරණය ඊශ්‍රායලයට එරෙහිව තීන්දුවක් ලබාදුන්න ද එය ක්‍රියාත්මක කිරීමට බලපෑම් කිරිමේ හැකියාවක් නොමැත.
+
+එහෙත් එය දේශපාලනික වශයෙන් ඊශ්‍රායලය වෙත දැඩිව බලපානු ඇති බව විචාරකයින් පවසයි.
+
+◼️
+
+[Data](articles/b2b3ed75.json)
+
+---
+
+### බම්බලපිටිය දුම්රිය ස්ථානයේ විදුලිය විසන්ධි කෙරේ
+
+*2024-01-26 09:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192578) · `si`
+
+විදුලි බිල නොගෙවීම හේතුවෙන් දුම්රිය ස්ථානයේ විදුලිය විසන්ධි කර ඇති බව වාර්තා වෙයි.
+
+විදුලිය නොමැතිව දින දෙකක් පමණ දුම්රිය ස්ථානයේ කටයුතු කුප්පි ලාම්පු හා වෙනත් ආධාරක මඟින් පවත්වාගෙන ගොස් තිබේ.
+
+මේ හේතුවෙන් දුම්රිය ස්ථානාධිපතිවරුන් ඇතුළු කාර්යමණ්ඩලය  මෙන්ම දුම්රිය භාවිත කරන මගී ජනතාව ද දැඩි  අපහසුතාවයට පත්වී ඇති බව වාර්තා වෙයි.
+
+විදුලිය විසන්ධි කිරිම හේතුවෙන් බම්බලපිටිය දුම්රිය ස්ථානයේ නිවේදන කටයුතු සිදු නොවන බවද එහි ප්‍රකාශකයෙකු සඳහන් කළේය.
+
+මේ අතර කොළඹ කොටුව සිට මහනුවර බලා ධාවනය වූ සීඝ්‍රගාමී දුම්රියක් ඊයේ (25) රාත්‍රියේ කඩිගමුව සහ ඉහළ කෝට්ටේ දුම්රිය ස්ථානය අතරදී පීලි පැනීමකට ලක්වී තිබුණි.
+
+දුම්රියේ එක් රෝදයක් පමණක් පිලී පැනීමට ලක්වී ඇති අතර ඊයේ රාත්‍රීයේම දුම්රිය පිළිගත කිරිමේ කටයුතු ආරම්භ කළ බව දුම්රිය දෙපාර්තමේන්තුව පැවසීය.
+
+මේ හේතුවෙන් කොළඹ කොටුව දුම්රිය ස්ථානයේ සිට බදුල්ල දක්වා වන රාත්‍රි තැපැල් දුම්රියේ ප්‍රමාදයක් සිදුවු බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කළේය.
+
+◼️
+
+[Data](articles/405aeb0e.json)
+
+---
+
+### අධිවේගී මාර්ගයක තවත් මාරක අනතුරක්
+
+*2024-01-26 09:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192577) · `si`
+
+අධිවේගී මාර්ගයේදී සිදුවූ රිය අනතුරකින් එක් පුද්ගලයෙකු මියගොස් තවත් තිදෙනෙකු රෝහල්ගත කර තිබේ.
+
+අධිවේගී මාර්ගයේ කඩවත සහ කෙරවලපිටිය අතර කොටසේදී වෑන් රථයක් ලොරි රථයක පිටුපස ගැටීමෙන් අනතුර සිදුවී ඇත.
+
+◼️
+
+[Data](articles/0ae455c6.json)
+
+---
 
 ### Foreigner dead, 3 others injured in expressway collision
 
@@ -1953,65 +2011,5 @@ According to police investigations, Minister Ranatunga said that the driver of t
 [Data](articles/9e408b04.json)
 
 [Extended Data](ext_articles/9e408b04.ext.json)
-
----
-
-### Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
-
-*2024-01-25 14:11:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/talk-of-the-town-when-women-come-first-hirunika-premachandra-25th-january-2024/) · `en`
-
-Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
-
-World’s first execution by Nitrogen injection carried out in US state of Alabama
-
-Court allows questioning of suspect in Beliatta shooting on detention orders
-
-Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
-
-Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
-
-◼️
-
-[Data](articles/517c96a4.json)
-
-[Extended Data](ext_articles/517c96a4.ext.json)
-
----
-
-### US government expresses concern over Online Safety Bill
-
-*2024-01-25 13:58:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/us-government-expresses-concern-over-online-safety-bill/) · `en`
-
-Colombo (News 1st) – The United States government on Thursday (25th) expressed its concern over the controversial Online Safety Bill that was passed by parliament on Wednesday.
-
-US Ambassador Julie Chung, in a message on X (formerly Twitter) said: “The United States remains concerned about the potential impact of Sri Lanka’s Online Safety Bill, which passed yesterday without incorporating important input from key stakeholders, including civil society and tech companies who say that this legislation threatens freedom of expression, innovation, and privacy. In addition to jeopardizing democratic values, vague and overly restrictive legislation can hinder investment and the development of a digital economy, undermining the economic growth that Sri Lanka needs. The U.S. urges Sri Lanka to prioritize transparency and ensure any legislation does not stifle the voices of its people.”
-
-...
-
-[Data](articles/70a0ae31.json)
-
-[Extended Data](ext_articles/70a0ae31.ext.json)
-
----
-
-### Add salt to a cuppa tea? Storm brews between UK and US over outrageous suggestion
-
-*2024-01-25 13:48:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/25/add-salt-to-a-cuppa-tea-storm-brews-between-uk-and-us-over-outrageous-suggestion/) · `en`
-
-Colombo (News 1st) – The humble tea pluckers of Sri Lanka’s central highlands may not know it, but their world famous cuppa is at the centre of an unusual storm that is brewing between the United States and the United Kingdom.
-
-On Wednesday (24th), the UK Cabinet Office put out an official statement, disputing the method of making tea that had been suggested by the U.S. embassy in London.
-
-”In response, to the statement put out by the US Embassy in the UK: We appreciate our Special Relationship, however, we must disagree wholeheartedly… Tea can only be made using a kettle.” the UK Cabinet Office said on X (formerly Twitter).
-
-Hours before, the US embassy had stated, perhaps tongue in cheek, that the proper way to brew a cuppa is “by microwaving it”.
-
-The British drink an estimated 100 million cups of tea a day, and consider it their national drink.
-
-...
-
-[Data](articles/6c03c934.json)
-
-[Extended Data](ext_articles/6c03c934.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 03:17:06**
+As of **2024-01-27 03:32:53**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,831 (100.0%) of 2,832 articles have been extended.
+2,832 (100.0%) of 2,832 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### ஜனாதிபதிக்கு மகா சங்கத்தினர் ஆதரவு
+### Maha Sangha support for the president
 
 *2024-01-27 02:40:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-மகா-சங்கத்தினர்-ஆதரவு/175-332160) · `ta`
 
-மக்கள் நலனுக்காக முன்னெடுக்கும் அனைத்து திட்டங்களிலும் ஜனாதிபதிக்கு மகா சங்கத்தினரின் ஆதரவு கிடைக்கும் என முருத்தெட்டுவே ஆனந்த தேரர் தெரிவித்துள்ளார்.
+The President will get the support of the Maha Sangam on all the plans for the welfare of the people.
 
-கொழும்பு பல்கலைக்கழகத்தின் வேந்தரும், அரச சேவை ஒன்றிணைந்த தாதியர் சங்கத் தலைவரும், மேல் மாகாணத்துக்கான பிரதான சங்கநாயக்கருமான முருத்தெட்டுவே ஆனந்த தேரரின் ஜனன தினமான நேற்று ஏற்பாடு செய்யப்பட்டிருந்த நிகழ்வில் ஜனாதிபதி ரணில் விக்ரமசிங்க கலந்துகொண்டிருந்தார்.
+President Ranil Wickremesinghe was present at the event organized by the University of Colombo, the President of the University of Colombo, the President of the Public Service and the President of the Western Province, Muruttuve Ananda Thera's birthday.
 
-அந்த நிகழ்வில் இறுதியில் ஜனாதிபதி ரணில் விக்ரமசிங்க உள்ளிட்ட பிரதிநிதிகள் முன்னிலையில் உரையாற்றிய போதே முருத்தெட்டுவே ஆனந்த தேரர் இவ்வாறு தெரிவித்துள்ளார்.
+Muruttuve Ananda Thera said this while addressing the event in the event of President Ranil Wickremesinghe, including President Ranil Wickremesinghe.
 
-இந்த நிகழ்வில் மகா சங்கத்தினர், பிரதமர் தினேஸ் குணவர்தன, சபாநாயகர் மகிந்த யாப்பா அபேவர்தன, முன்னாள் ஜனாதிபதி மஹிந்த ராஜபக்‌ச உள்ளிட்ட பலரும்  கலந்துகொண்டிருந்தனர் என ஜனாதிபதி ஊடகப் பிரிவு தெரிவித்துள்ளது. (a)
+The event was attended by the President, Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena and former President Mahinda Rajapaksa.. (A)
 
 ◼️
 
 [Data](articles/9463b0a0.json)
+
+[Extended Data](ext_articles/9463b0a0.ext.json)
 
 ---
 

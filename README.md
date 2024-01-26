@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 09:51:50**
+As of **2024-01-26 10:03:01**
 
 ## Newspaper Stats
 
-*Scraped **2,673** Articles*
+*Scraped **2,674** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 202
 adaderanasinhalalk | 229
 adalk | 257
 virakesarilk | 286
-adaderanalk | 334
+adaderanalk | 335
 tamilmirrorlk | 338
 dailymirrorlk | 362
 
@@ -26,11 +26,29 @@ dailymirrorlk | 362
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,670 (99.9%) of 2,673 articles have been extended.
+2,674 (100.0%) of 2,674 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Foreigner dead, 3 others injured in expressway collision
+
+*2024-01-26 09:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96735/foreigner-dead-3-others-injured-in-expressway-collision) · `en`
+
+A deadly collision on the Kadawatha expressway has claimed the life of a foreign national, Ada Derana learns.
+
+Three others who were injured in the accident have been admitted to the Colombo North Teaching Hospital in Ragama for immediate medical attention.
+
+According to reports, the van, which the foreign national and the others were travelling in, had rear-ended a lorry in the Kerawalapitiya area.
+
+◼️
+
+[Data](articles/279d5f0a.json)
+
+[Extended Data](ext_articles/279d5f0a.ext.json)
+
+---
 
 ### World’s first execution by Nitrogen injection carried out in US state of Alabama
 
@@ -48,6 +66,8 @@ The U.S. Supreme Court declined to hear his case. Smith claimed he was present a
 
 [Data](articles/b1cb60e9.json)
 
+[Extended Data](ext_articles/b1cb60e9.ext.json)
+
 ---
 
 ### ‘Yukthiya’ operation leads to arrest of 871 more suspects
@@ -61,6 +81,8 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 ◼️
 
 [Data](articles/36bee5ba.json)
+
+[Extended Data](ext_articles/36bee5ba.ext.json)
 
 ---
 
@@ -127,6 +149,8 @@ It was also revealed by the officials that the removal of copper wire from concr
 ◼️
 
 [Data](articles/31fb8981.json)
+
+[Extended Data](ext_articles/31fb8981.ext.json)
 
 ---
 
@@ -1989,29 +2013,5 @@ The British drink an estimated 100 million cups of tea a day, and consider it th
 [Data](articles/6c03c934.json)
 
 [Extended Data](ext_articles/6c03c934.ext.json)
-
----
-
-### The US is concerned about the passage of Sri Lanka
-
-*2024-01-25 13:45:00* · [`virakesarilk`](https://www.virakesari.lk/article/174774) · `ta`
-
-Amidst the fierce opposition of the opposition parties in Parliament, the Public Security Minister Tran Alsin, the Celebration Bill, was passed by 46 additional votes.
-
-The US has expressed its concern over the passage of the Backup Bill.
-
-US Ambassador to Sri Lanka, Julie Sung, said on his X site.
-
-“The United States is concerned about the potential impact of the Sri Lanka's Faculty Backup Bill, which was passed in Parliament yesterday, without the demands of prominent shareholders, including civil society and technology organizations.
-
-Democratic values are in danger and vague and excessive laws can disrupt the growth of the digital economy and undermine Sri Lanka's economic growth.
-
-The US urges Sri Lanka to prioritize transparency and ensure that any law does not suppress the voices of the people. As mentioned further.
-
-◼️
-
-[Data](articles/b3acce90.json)
-
-[Extended Data](ext_articles/b3acce90.ext.json)
 
 ---

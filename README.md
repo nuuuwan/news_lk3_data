@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 13:51:32**
+As of **2024-01-26 14:02:16**
 
 ## Newspaper Stats
 
-*Scraped **2,728** Articles*
+*Scraped **2,729** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 39
-bbccomsinhala | 52
+bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 151
 newsfirstlk | 152
@@ -26,7 +26,7 @@ dailymirrorlk | 371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,728 (100.0%) of 2,728 articles have been extended.
+2,729 (100.0%) of 2,729 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1260,6 +1260,28 @@ The Army Intelligence Union has raided over 2500 kilograms of marijuana during t
 
 ---
 
+### 29 petitions to Supreme Court challenged by challenges the anti-terrorism Bill
+
+*2024-01-26 07:42:55* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd1j0r5jn5po) · `si`
+
+29 petitions to Supreme Court challenged by challenges the anti-terrorism Bill
+
+Chief Justice Jayantha Jayasuriya is leading the petitions filed by the Constitution that the government has been contrary to the Constitution and to pass it to be approved by the government.The five-member Supreme Court judge yesterday (Jan. 26) commenced today.
+
+Vijith Balaltota, other member of the panel of judges, A. HMD. Nawaz, Shiran Gunaratne and Arjuna Obeysekere.
+
+29 petitions have been filed before the Supreme Court asking to decide that the Anti-Terrorism Bill has been presented to the Constitution.
+
+Archbishop Fantry Malcolm Cardinal Ranjith, Secretary to the General Secretary of the Sri Lanka Muslim Congress, Sri Lanka Muslim Congress, the Frontline Socialist Party, Duminda Nagamuwa, Sri Lanka Trade PolicyThe petitions have been filed by the Association and a group of people.
+
+...
+
+[Data](articles/ff14f4fa.json)
+
+[Extended Data](ext_articles/ff14f4fa.ext.json)
+
+---
+
 ### Sanath Nishantha reveals
 
 *2024-01-26 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192574) · `si`
@@ -2033,29 +2055,5 @@ However, he died at 5 pm this evening without treatment.Her body will be taken t
 [Data](articles/fb30c118.json)
 
 [Extended Data](ext_articles/fb30c118.ext.json)
-
----
-
-### Detention order issued on suspect arrested over Beliatta mass shooting
-
-*2024-01-25 20:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96730/detention-order-issued-on-suspect-arrested-over-beliatta-mass-shooting) · `en`
-
-A detention order was issued on Thursday (Jan.25) on the suspect arrested in connection with the recent mass shooting in Beliatta in which five people were killed.
-
-Deiyandara Magistrate delivered the order when the suspect was produced before the court.
-
-Accordingly, the suspect will be detained until January 27 for onward investigations.
-
-The arrestee was identified as the driver of the SUV used by the assailants and is also suspected of having orchestrated the mass shooting which took place on Tuesday (Jan.23).
-
-The 55-year-old named Saman Kumara was arrested on Thursday (Jan.24) in Akuressa and earlier in the day, the vehicle used by the assailants was found parked near the Vidyaloka Pirivena in Galle.
-
-Based on the information divulged by the suspect during interrogations, the investigating officers managed to locate a motorcycle and a van linked to the assailants.
-
-...
-
-[Data](articles/287e314d.json)
-
-[Extended Data](ext_articles/287e314d.ext.json)
 
 ---

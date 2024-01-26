@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 08:32:59**
+As of **2024-01-26 08:50:50**
 
 ## Newspaper Stats
 
-*Scraped **2,661** Articles*
+*Scraped **2,663** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 51
 dbsjeyarajcom | 124
 newsfirstlk | 145
 islandlk | 151
-economynextcom | 153
+economynextcom | 154
 dailyftlk | 202
 adaderanasinhalalk | 226
 adalk | 255
 virakesarilk | 286
-adaderanalk | 331
+adaderanalk | 332
 tamilmirrorlk | 337
 dailymirrorlk | 361
 
@@ -26,11 +26,49 @@ dailymirrorlk | 361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,661 (100.0%) of 2,661 articles have been extended.
+2,661 (99.9%) of 2,663 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Two more suspects arrested over Beliatta mass shooting
+
+*2024-01-26 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96733/two-more-suspects-arrested-over-beliatta-mass-shooting) · `en`
+
+Two more individuals have been arrested for allegedly aiding and abetting the mass shooting in Beliatta in which five people were killed earlier this week.
+
+The arrest was made by the Police Special Task Force (STF) in Wanchawala and Megalle areas in Galle on Thursday (Jan.25).
+
+STF officers have also found 9 grams and 300 milligrams of heroin on the suspects.
+
+The duo, aged 25 and 35 years, have been handed over to the Galle Harbour Police for onward investigations.
+
+◼️
+
+[Data](articles/94c8ec61.json)
+
+---
+
+### Sri Lanka cabinet gives ok to sign Thailand FTA
+
+*2024-01-26 07:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-gives-ok-to-sign-thailand-fta-148720/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers has given approval to sign a free trade agreement with Thailand, the state information office said.
+
+A complete FTA of 14 chapters with the preamble and annexes has been prepared after nine rounds of negotiations.
+
+The government hopes to improve trade and investment with Thailand which is one of the largest nations in South East Asia.
+
+Sri Lanka has high levels of import duties and protectionism, which has kept local prices high and allowed domestic producers to exploit the public, critics say.
+
+High tariffs also makes the economy inefficient and noncompetitive. (Colombo/Jan26/2024)
+
+◼️
+
+[Data](articles/bcbc126b.json)
+
+---
 
 ### Court allows questioning of suspect in Beliatta shooting on detention orders
 
@@ -1991,47 +2029,5 @@ The Online Safety Bill, which seeks to regulate online content, received the par
 [Data](articles/17d43718.json)
 
 [Extended Data](ext_articles/17d43718.ext.json)
-
----
-
-### Minister Sanath Nishantha's body to Jayaratne Malzala
-
-*2024-01-25 12:17:52* · [`adalk`](https://www.ada.lk/breaking_news/ඇමති-සනත්-නිශාන්තගේ-දේහය-මහජන-ගෞරවය-සඳහා-ජයරත්න-මල්ශාලාවට/11-407722) · `si`
-
-State Minister of Water Supply and his security officer of the Colombo Katunayake Expressway took place around 2.00 am on 25 days.
-
-The accident had taken place near the Katunayake 11/1 R near the kilometer post at the Katunayake 11/1 R.
-
-State Minister's vehicle was severely damaged. His security officer, police constable Anuradha Jayakody was killed in danger with the Minister.. The Minister and the security officer had taken steps to be referred to the Ragama Teaching Hospital with a danger but they have been killed. Minister of Welisara Magistrate Dhammika Uduwela was conducted to Ragama Hospital following the accident.
-
-Minister's brother 'brother' was introduced by the Minister's body and gave evidence. When Jagath Samantha uses, we made this statement. "The dead is my younger brother. He has three daughters and son.
-
-...
-
-[Data](articles/72103168.json)
-
-[Extended Data](ext_articles/72103168.ext.json)
-
----
-
-### Death of Sanath Nishantha, great loss to Mahinda Rajapaksa, party and people
-
-*2024-01-25 12:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Death-of-Sanath-Nishantha-great-loss-to-Mahinda-Rajapaksa-party-and-people/108-275707) · `en`
-
-Colombo, Jan 25 (Daily Mirror) - The death of State Minister Sanath Nishantha is a great loss to former president Mahinda Rajapaksa, to the party and to the people in the Puttalam, Urban Development and Housing, Chief Government Whip and Minister Prasanna Ranatunga said.
-
-He told the media that Sanath Nishantha had worked for the people in the Puttalam and Chilaw districts. He met with the accident while in his way Colombo after participating in two occasions in Puttalam and Chilaw.
-
-His official residence in Puttalam was burned down on May 9 during the Aragalaya protests. Therefore, he did not have a home to rest in Puttalam, and the accident occurred while he was returning to Colombo.
-
-Moreover, he said that Sanatha Nishantha had participated in an event held at the Australian High Commission after parliament sessions yesterday.
-
-According to police investigations, the driver of the State Minister was not under the influence of alcohol, Minister Ranatunga said.
-
-...
-
-[Data](articles/a19db29c.json)
-
-[Extended Data](ext_articles/a19db29c.ext.json)
 
 ---

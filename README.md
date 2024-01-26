@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 20:17:25**
+As of **2024-01-26 20:32:57**
 
 ## Newspaper Stats
 
-*Scraped **2,787** Articles*
+*Scraped **2,788** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 151
 newsfirstlk | 155
 economynextcom | 168
 dailyftlk | 202
-adaderanasinhalalk | 252
+adaderanasinhalalk | 253
 adalk | 261
 virakesarilk | 300
 tamilmirrorlk | 349
@@ -26,11 +26,35 @@ dailymirrorlk | 381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,786 (100.0%) of 2,787 articles have been extended.
+2,787 (100.0%) of 2,788 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### ගෙවුණු දින 26ට ජීවිත 6ක් අධිවේගයේ දී බිලිවෙයි
+
+*2024-01-26 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192602) · `si`
+
+මේ වසරේ ගතවූ දින 26 තුළ පමණක් අධිවේගී මාර්ගවල සිදුවූ අනතුරුවලින් පුද්ගලයින් 6 දෙනෙකු ජීවිතක්ෂයට පත්ව ඇති බව මාර්ග සංවර්ධන අධිකාරිය පවසයි.
+
+කෙසේවෙතත්, පසුගිය වසරටම අධිවේගී මාර්ගවල සිදුවූ අනතුරුවලින් සිදුව ඇත්තේ පුද්ගල මරණ ගණන 5ක් පමණයි.
+
+අධිවේගී මාර්ග භාවිතයේදී මංතීරුවල රථ වාහන අතර නියමිත පරතරය තබා නොගැනීම බොහෝ අනතුරුවලට හේතුවී ඇති බව මාර්ග සංවර්ධන අධිකාරිය පෙන්වා දෙයි.
+
+මේ අතර අධිවේගී මාර්ගවල මෙන්ම අධිවේගී මාර්ග අන්තර්හුවමාරු ස්ථානවල සවිකර ඇති වීදි ලාම්පු බොහෝමයක් ක්‍රියා විරහිත තත්ත්වයට පත්වීම හේතුවෙන් එම ප්‍රදේශ අඳුරු ස්වභාවයක් ගෙන ඇති බව ද "අද දෙරණ" කළ සොයාබැලීමකදී නිරීක්ෂණය වුණි.
+
+මාර්ග සංවර්ධන අධිකාරිය පවසන්නේ මත්ද්‍රව්‍යවලට ඇබ්බැහිවූවන් හොර රහසේ විදුලි රැහැන් කපාගෙන යාම මෙම තත්ත්වයට හේතුවී ඇති බවය.
+
+ඊයේ පෙරවරුවේ ද හෝමාගම - නියඳගල අධිවේගී ගුවන් පාලම පහළ වූ රුපියල් දසලක්ෂ පනස්දහසක අධිබලැති විදුලි රැහැන් පද්ධතියේ කොටසක් කපා දමා ඇති බව පොලීසිය පවසයි.
+
+ඉදිකිරීම් සමාගමේ නියෝජිතයෙකු එම ස්ථානයට ළඟාවනවාත් සමඟම රැහැන් කපමින් සිටි තිදෙනෙක් පළාගොස් ඇති අතර සැකකරුවන් සොයා පොලිස් විමර්ශනයක්ද ආරම්භ කෙරුණි.
+
+...
+
+[Data](articles/d2d8324e.json)
+
+---
 
 ### The universal Buddha who had acted due to work
 
@@ -1936,6 +1960,8 @@ Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
 [Data](articles/050ab149.json)
 
+[Extended Data](ext_articles/050ab149.ext.json)
+
 ---
 
 ### International Court of Justice set to rule on Gaza War today
@@ -2053,23 +2079,5 @@ The accident occurred when a van crashed into the back of the lorry on the highw
 [Data](articles/9617e091.json)
 
 [Extended Data](ext_articles/9617e091.ext.json)
-
----
-
-### Alabama executes a man with nitrogen gas, a first in the world
-
-*2024-01-26 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96736/alabama-executes-a-man-with-nitrogen-gas-a-first-in-the-world) · `en`
-
-Alabama executed a convicted murderer with nitrogen gas Thursday, putting him to death with a first-of-its-kind method that once again put the US at the forefront of the debate over capital punishment. The state said the method would be humane, but critics called it cruel and experimental.
-
-Officials said Kenneth Eugene Smith, 58, was pronounced dead at 8:25 pm at an Alabama prison after breathing pure nitrogen gas through a face mask to cause oxygen deprivation. It marked the first time that a new execution method has been used in the United States since lethal injection, now the most commonly used method, was introduced in 1982.
-
-The state had previously attempted to execute Smith, who was convicted of a 1988 murder-for-hire, in 2022, but the lethal injection was called off at the last minute because authorities couldn’t connect an IV line.
-
-...
-
-[Data](articles/8526fe63.json)
-
-[Extended Data](ext_articles/8526fe63.ext.json)
 
 ---

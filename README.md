@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 00:47:13**
+As of **2024-01-27 01:02:35**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,815 (99.9%) of 2,817 articles have been extended.
+2,817 (100.0%) of 2,817 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -80,6 +80,8 @@ The Sri Lanka Freedom Party (SLFP) and the Sri Lanka Podujana Peramuna (SLPP) ha
 
 [Data](articles/fd101d6a.json)
 
+[Extended Data](ext_articles/fd101d6a.ext.json)
+
 ---
 
 ### 2024-01-26 (Friday)
@@ -101,6 +103,8 @@ OIC Crime Investigation Branch SI Prabodha is conducting further investigations 
 ◼️
 
 [Data](articles/d24e0ad7.json)
+
+[Extended Data](ext_articles/d24e0ad7.ext.json)
 
 ---
 

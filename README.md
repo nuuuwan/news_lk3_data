@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 21:33:02**
+As of **2024-01-26 21:51:37**
 
 ## Newspaper Stats
 
-*Scraped **2,802** Articles*
+*Scraped **2,803** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 151
 newsfirstlk | 155
 economynextcom | 168
 dailyftlk | 202
-adaderanasinhalalk | 255
+adaderanasinhalalk | 256
 adalk | 265
 virakesarilk | 300
 tamilmirrorlk | 350
@@ -26,11 +26,25 @@ dailymirrorlk | 386
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,800 (99.9%) of 2,802 articles have been extended.
+2,803 (100.0%) of 2,803 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Sanath Nishantha's driver remanded
+
+*2024-01-26 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192605) · `si`
+
+The driver of State Minister Sanath Nishantha has been remanded till 5th February.
+
+◼️
+
+[Data](articles/17bb56dc.json)
+
+[Extended Data](ext_articles/17bb56dc.ext.json)
+
+---
 
 ### Sri Lanka’s Online Safety Bill sparks geopolitical debate as Russia backs govt.
 
@@ -47,6 +61,8 @@ The Russian Ambassador’s statement came hours after U.S. Ambassador in Colombo
 ...
 
 [Data](articles/3df5df1f.json)
+
+[Extended Data](ext_articles/3df5df1f.ext.json)
 
 ---
 
@@ -177,6 +193,8 @@ This was revealed when the case pertaining to the breaching of bail conditions b
 ...
 
 [Data](articles/024cb69a.json)
+
+[Extended Data](ext_articles/024cb69a.ext.json)
 
 ---
 
@@ -2067,25 +2085,5 @@ He added that our race should be liberated.. Remble
 [Data](articles/949c0a37.json)
 
 [Extended Data](ext_articles/949c0a37.ext.json)
-
----
-
-### Money plundered with sharp weapons
-
-*2024-01-26 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192581) · `si`
-
-Three people have been attacked with sharp weapons in the Pamunugama Dela, Pamunugama.
-
-Police said that the assault had been assaulted by three persons from a lorry to purchase a motorcycle on the Internet.
-
-Four persons who were hiding along the road have been assaulted by Rs.
-
-The injured were receiving treatment at the Ragama Hospital and the suspects were identified by Pamunugama Police, police said.
-
-◼️
-
-[Data](articles/151ab7c9.json)
-
-[Extended Data](ext_articles/151ab7c9.ext.json)
 
 ---

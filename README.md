@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 12:17:14**
+As of **2024-01-26 12:32:44**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 370
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,704 (99.6%) of 2,714 articles have been extended.
+2,714 (100.0%) of 2,714 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ Speaking at a conference in Chennai, the Indian Minister for Ports, Shipping and
 ...
 
 [Data](articles/8a31adde.json)
+
+[Extended Data](ext_articles/8a31adde.ext.json)
 
 ---
 
@@ -106,6 +108,8 @@ The U.S. Supreme Court allowed the execution to move forward over the objections
 
 [Data](articles/b0d6d14f.json)
 
+[Extended Data](ext_articles/b0d6d14f.ext.json)
+
 ---
 
 ### Sri Lanka to host UN FAO’s 37th regional conference for Asia Pacific
@@ -121,6 +125,8 @@ The CSOs’ participation at the event will “aim to add a collective voice amo
 ...
 
 [Data](articles/80bb3c77.json)
+
+[Extended Data](ext_articles/80bb3c77.ext.json)
 
 ---
 
@@ -139,6 +145,8 @@ SJB MP Harshana Rajakaruna who raised this matter during a media briefing said h
 ...
 
 [Data](articles/46ffe44d.json)
+
+[Extended Data](ext_articles/46ffe44d.ext.json)
 
 ---
 
@@ -160,6 +168,8 @@ The Attorney General has now cleared the draft bill formulated by the Legal Draf
 
 [Data](articles/db5584ef.json)
 
+[Extended Data](ext_articles/db5584ef.ext.json)
+
 ---
 
 ### 75th Republic Day of India celebrated in Colombo
@@ -171,6 +181,8 @@ The Indian High Commission of Sri Lanka celebrated the 75th Republic Day at the 
 ◼️
 
 [Data](articles/3528cb72.json)
+
+[Extended Data](ext_articles/3528cb72.ext.json)
 
 ---
 
@@ -277,6 +289,8 @@ Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 ...
 
 [Data](articles/e35df84e.json)
+
+[Extended Data](ext_articles/e35df84e.ext.json)
 
 ---
 
@@ -386,21 +400,23 @@ He was married to Kumarapuram, Batticaloa. He was found dead on Friday morning (
 
 ---
 
-### මුහුදේ දිය නෑමට ගිය පස්දෙනකු අතුරින් දෙදෙනෙකු ගසාගෙන ගිහින්
+### Two of five people who were bathing in the sea
 
 *2024-01-26 10:29:47* · [`adalk`](https://www.ada.lk/breaking_news/මුහුදේ-දිය-නෑමට-ගිය-පස්දෙනකු-අතුරින්-දෙදෙනෙකු-ගසාගෙන-ගිහින්/11-407733) · `si`
 
-කඹුරුපිටියේ හෝටලයක සේවය කරන මිතුරන් පස් දෙනකු ඊයේ (25) දහවල් තංගල්ල, කුඩාවැල්ල මෝදර වැල්ලේ දිය නෑමට ගොස් තිබූ ඇති අතර ,ඉන් තිදෙනකු දිය නෑමට මුහුදට බැස ඇත.මොවුන් දියරැලකට  හසුවී ගසාගෙන ගොස් ඇති අතර  ගසාගෙන යන පුද්ගලයන් දුටු ප්‍රදේශවාසීන්ට ඉන් එක් අයකු බේරාගැනීමට හැකිව තිබූ බව තංගල්ල මූලස්ථාන පොලීසිය පවසයි.
+Five of the friends who work at Kamburupitiya Hotel yesterday had to be drowned in the lake, and the residents of the area had been able to save the people who were drunk and they had rescued one of themThe Tangalle Headquarters Police said.
 
-අතුරුදන් වූ තවත් පුද්ගලයකුගේ සිරුර  ඊයේ  පස්වරුව වන විට සොයාගැනීමට හැකිව ඇති බව පොලීසිය කියයි.එසේ මියගොස් ඇත්තේ කළුතර පදිංචි රත්නායක මුදියන්සේලාගේ සම්පත් ප්‍රදීප් කුමාර නමැති 35 හැවිරිදි තරුණයකු ය.
+The body of another disappeared has been recovered from the afternoon, police said.
 
-මෝදර  වැ‌ල්ල දිය නෑමට සුදුසු ස්ථානයක් නොවන බව කුඩාවැල්ල මෝදර වැල්ල ආසන්නයේ පදිංචිකරුවන් පොලීසියට පවසා ඇති අතර කඹුරුපිටියේ පදිංචි අහංගමගමගේ උදාර පුෂ්පකුමාර නමැති 25 හැවිරිදි තරුණයාගේ සිරුර සොයාගැනීමට අද (26)උදෑසන වන විටත් නොහැකි වී ඇති බව පොලීසිය කියයි.
+The residents of Kudawella have told the police near the police stating that Modara Wella was not suitable for water.
 
-අතුරුදන් වූ තරුණයා සොයා ප්‍රදේශවාසී ධීවරයන් සහ පොලීසිය වැඩිදුර විමර්ශන දියත්කර ඇති බව තංගල්ල මූලස්ථාන පොලීසිය පවසයි.
+The fishermen and police of the residents have been conducting further investigations in search of the missing youth.
 
 ◼️
 
 [Data](articles/ee06d323.json)
+
+[Extended Data](ext_articles/ee06d323.ext.json)
 
 ---
 
@@ -650,6 +666,8 @@ The Colombo Stock Exchange was trading up in the first half hour since open: The
 
 [Data](articles/70e2ffbb.json)
 
+[Extended Data](ext_articles/70e2ffbb.ext.json)
+
 ---
 
 ### Daughter of legendary music director Ilaiyaraaja dies of cancer in Sri Lanka
@@ -895,6 +913,8 @@ Hela said the acquisition will bring significantly closer to its end customer an
 ...
 
 [Data](articles/24525500.json)
+
+[Extended Data](ext_articles/24525500.ext.json)
 
 ---
 

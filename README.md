@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 18:08:32**
+As of **2024-01-26 18:20:22**
 
 ## Newspaper Stats
 
-*Scraped **2,772** Articles*
+*Scraped **2,773** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 151
 newsfirstlk | 154
 economynextcom | 166
 dailyftlk | 202
-adaderanasinhalalk | 247
+adaderanasinhalalk | 248
 adalk | 261
 virakesarilk | 298
 adaderanalk | 347
@@ -26,11 +26,31 @@ dailymirrorlk | 381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,769 (99.9%) of 2,772 articles have been extended.
+2,772 (100.0%) of 2,773 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### මිහින්තලේ හිමිට තර්ජනය කළ පුද්ගලයා රිමාන්ඩ්
+
+*2024-01-26 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192597) · `si`
+
+මිහින්තලේ රජමහා විහාරාධිපති පූජ්‍ය  වලවාහැංගුණවැවේ ධම්මරතන හිමියන්ට අපහාසාත්මක හා තර්ජනාත්මක ප්‍රකාශය නිකුත් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවෙකු ලබන 31 වනදා දක්වා රක්ෂිත බන්ධනාගාරගත කරන ලෙස කොළඹ මහෙස්ත්‍රාත් අධිකරණය නියම කළේය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගත් මෙම සැකකරු අද (26) දහවල් කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා ඉදිරියට පමුණුවනු ලැබීය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ නිලධාරීන් අධිකරණය හමුවේ කරුණු දක්වමින් මිහින්තලේ රජමහා විහාරයේ විහාරාධිපති හිමියන්ට තර්ජනය කරමින් හා අපහාසාත්මක ප්‍රකාශ නිකුත් කිරීමේ සිද්ධියක් සම්බන්ධයෙන් මෙම සැකකරු අත්අඩංගුවට ගත් බව සඳහන් කළේය.
+
+සැකකරු සම්බන්ධයෙන් තවදුරටත් විමර්ශන සිදුකරන හෙයින් ඔහු රක්ෂිත බන්ධනාගාර ගත කරන ලෙසත් පොලීසිය අධිකරණයෙන් ඉල්ලා සිටියේය.
+
+එම ඉල්ලීම පිළිගත් මහෙස්ත්‍රාත්වරයක කරුණු ලබන 31 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කිරීමට නියෝග කළේය.
+
+◼️
+
+[Data](articles/9fb82ecd.json)
+
+---
 
 ### WPL 2024: UP Warriorz names Chamari as replacement for Lauren
 
@@ -49,6 +69,8 @@ The hard-hitting batter finished with 470 runs in 2023, with an impressive strik
 ...
 
 [Data](articles/46c1588e.json)
+
+[Extended Data](ext_articles/46c1588e.ext.json)
 
 ---
 
@@ -156,21 +178,23 @@ All parliamentary committees are automatically dissolved by the prorogation and 
 
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-01-26 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174857) · `ta`
 
-இலங்கை மத்திய வங்கி இன்றைய தினம் வெள்ளிக்கிழமை (26) வெளியிட்டுள்ள நாணய மாற்று விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் விற்பனை விலை 323.17 ரூபாயாகவும் கொள்வனவு விலை 313.17 ரூபாயாகவும் பதிவாகியுள்ளது.
+The Central Bank of Sri Lanka (Central Bank) today (26), the US dollar sales price was Rs 323.17 and the price was Rs 313.17.
 
-அதைப்போன்று ஸ்ரேலிங் பவுண்ட் ஒன்றின் விற்பனை விலை 412.29 ரூபாய் மற்றும் கொள்வனவு விலை 396.57 ரூபாயாகும்.
+The sales price of a Srealing pound is Rs 412.29 and the purchase price is Rs 396.57.
 
-யூரோ ஒன்றின் விற்பனை விலை 352.03 ரூபாய் எனவும் கொள்வனவு விலை 338.04 ரூபாய் எனவும் குறிப்பிடப்பட்டுள்ளது.
+The sales price of the euro is 352.03 rupees and the purchase price is 338.04 rupees.
 
-அதன்படி, ஏனைய வெளிநாட்டு நாணய மாற்று விகிதங்கள் தொடர்பாக இன்று (26.01.2024) மத்திய வங்கியினால் வெளியிடப்பட்டுள்ள தகவல்கள் கீழே தரப்பட்டுள்ளது.
+Accordingly, the information released by the Central Bank today (26.01.2024) on other foreign currency exchange rates has been issued.
 
 ◼️
 
 [Data](articles/161f8d55.json)
+
+[Extended Data](ext_articles/161f8d55.ext.json)
 
 ---
 
@@ -332,19 +356,21 @@ The officials of the Department, the Secretary of the Ministry of Finance, the S
 
 ---
 
-### ஊடக அடக்குமுறைகள், கருத்து வெளிப்பாட்டுச் சுதந்திரத்திற்கு எதிரான நடவடிக்கைகளை கண்டித்து யாழில் போராட்டம்
+### Struggle in Jaffna condemning media repression and expression against freedom of expression
 
 *2024-01-26 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174852) · `ta`
 
-ஊடக அடக்குமுறைகள் மற்றும் கருத்து வெளிப்பாட்டு சுதந்திரத்திற்கு எதிரான நடவடிக்கைகளை கண்டித்து யாழில், இன்று வெள்ளிக்கிழமை (26) போராட்டம் முன்னெடுக்கப்பட்டது.
+The struggle was launched in Jaffna today (26) to condemn action against the freedom of the media and expression.
 
-யாழ். ஊடக அமையத்தின் ஏற்பாட்டில், யாழ்.பொது நூலகத்தில் இருந்து பேரணியாக யாழ். மத்திய பேருந்து நிலையத்திற்கு சென்று  அங்கு குறித்த போராட்டம் முன்னெடுக்கப்பட்டது.
+Yall. Jaffna rally from the Jaffna Public Library. The protest was carried out at the Central Bus Stand.
 
-உழைக்கும் பத்திரிகையாளர் சங்கம் உள்ளிட்ட தென்னிலங்கை ஊடக அமைப்புக்களின் பங்கேற்புடன் முன்னெடுக்கப்பட்ட குறித்த போராட்டத்தில் சிவில் சமூக அமைப்புக்கள் , அரசியல்வாதிகள் உள்ளிட்ட பல்வேறு தரப்பினர் கலந்து கொண்டிருந்தனர்.
+Various parties, including civil society organizations and politicians, participated in the struggle carried out with the participation of the South Sri Lanka Media Organizations, including the Working Press Association.
 
 ◼️
 
 [Data](articles/0207ca38.json)
+
+[Extended Data](ext_articles/0207ca38.ext.json)
 
 ---
 
@@ -2075,27 +2101,5 @@ It was also revealed by the officials that the removal of copper wire from concr
 [Data](articles/31fb8981.json)
 
 [Extended Data](ext_articles/31fb8981.ext.json)
-
----
-
-### Sri Lanka’s Hela Apparel buys UK-based Focus Brands
-
-*2024-01-26 08:16:00* · [`economynextcom`](https://economynext.com/sri-lankas-hela-apparel-buys-uk-based-focus-brands-148727/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s Hela Apparel Holdings Plc said it had acquired a Focus Brands, UK based brand licensing house, which is involved in design, sourcing, distribution and promotion of sports fashion and lifestyle apparel brands.
-
-Hela has acquired a 100 percent of Focus Brands from JD Sports Fashion Plc, a statement said. The firm paid 8 million sterling pounds, a stock exchange filing said.
-
-“Focus Brands will form the basis for the organisation’s new brand licensing division, which will initially operate independently of the existing apparel manufacturing business,” Hela Apparels said.
-
-“The transaction also marks the first time a Sri Lankan apparel manufacturer has acquired a brand management company in one of its key markets…”
-
-Hela said the acquisition will bring significantly closer to its end customer and expanding its range of services to brand marketing and distribution,
-
-...
-
-[Data](articles/24525500.json)
-
-[Extended Data](ext_articles/24525500.ext.json)
 
 ---

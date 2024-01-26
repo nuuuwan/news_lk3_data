@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 15:32:59**
+As of **2024-01-26 15:51:05**
 
 ## Newspaper Stats
 
-*Scraped **2,746** Articles*
+*Scraped **2,750** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,62 +15,128 @@ islandlk | 151
 newsfirstlk | 154
 economynextcom | 163
 dailyftlk | 202
-adaderanasinhalalk | 241
+adaderanasinhalalk | 242
 adalk | 259
-virakesarilk | 295
+virakesarilk | 296
 adaderanalk | 344
 tamilmirrorlk | 348
-dailymirrorlk | 373
+dailymirrorlk | 375
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,742 (99.9%) of 2,746 articles have been extended.
+2,746 (99.9%) of 2,750 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### රතු මුහුදේ ගැටලුව විසඳන්න චීනය පෙරට
+### ඉතිහාසගත වූ මරණ දණ්ඩනය
+
+*2024-01-26 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192591) · `si`
+
+කාන්තාවක් ඝාතනය කිරීම සම්බන්ධයෙන් මරණ දණ්ඩනය හිමිව සිටි කෙනත් ඉයුජීන් ස්මිත් ගේ මරණ දණ්ඩනය ක්‍රියාත්මක කිරීමට ඇලබාමා බලධාරීන් කටයුතු කර තිබේ.
+
+ජාත්‍යන්තර මාධ්‍ය පවසන්නේ නයිට්‍රජන් වායුව යොදා ඔහුගේ දිවි තොර කර ඇති බවයි.
+
+ඒ සඳහා විනාඩි 25ක පමණ කාලයක් ගතවූ බව සිද්ධිය නිරීක්ෂණය කිරීමට අවස්ථාව ලැබුණු මාධ්‍යවේදියෙක් බී බී සී පුවත් සේවයට පවසා තිබේ.
+
+එවැනි ආකාරයකට මරණ දණ්ඩනය ක්‍රියාත්මක කළ ලොව පළමු අවස්ථාව ලෙස එය සැලකෙයි.
+
+නයිට්‍රජන් වායුව භාවිතයෙන් මරණ දණ්ඩනය ක්‍රියාත්මක කිරීමට සැලසුම් කිරීමට එරෙහිව ස්මිත් අමෙරිකානු ඉහළ අධිකරණ වෙත අභියාචනා ඉදිරිපත් කර තිබුණි.
+
+එසේ මරණ දණ්ඩනය ක්‍රියාත්මක කිරීම ඉතා අමානුෂික ක්‍රමවේදයක් බව ඔහු පවසා තිබුණි.
+
+2022 වසරේදී විස එන්නතක් ලබාදී ස්මිත් ගේ මරණ දණ්ඩනය ක්‍රියාත්මක කිරීමට ඇලබාමා බලධාරීන් ගත් උත්සාහය ව්‍යාර්ථ වුණි.
+
+එළිසබෙත් සෙන්නෙත් නම් කාන්තාවක් ඝාතනය කිරීම සම්බන්ධයෙන් 1989 දී ස්මිත් වරදකරු විය.
+
+◼️
+
+[Data](articles/35df1b5d.json)
+
+---
+
+### நிகழ்நிலை பாதுகாப்பு சட்டம் -அரசாங்கம் விரும்பாத ஒரு பதிவை நீங்கள் விரும்பினால் அதற்கு நீங்கள் பழிவாங்கப்படலாம் என ஜயம்பதி விக்கிரமரட்ண கருத்து
+
+*2024-01-26 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174850) · `ta`
+
+நிகழ்நிலை பாதுகாப்பு சட்டமூலம் முதலில்வர்த்தமானியில்வெளியானவேளை சட்டமா அதிபர் திணைக்களம் அதனை ஆராயவில்லை என ஜனாதிபதி சட்டத்தரணி கலாநிதி  ஜயம்பதி விக்கிரமரட்ண தெரிவித்துள்ளார்.
+
+கடந்த வருடம் செப்டம்பர் மாதம் 15 ம் திகதி முதலில் இந்த சட்டமூலம் வர்த்தமானியில் வெளியானது.
+
+நாங்கள் இதற்கு எதிராகஉயர்நீதிமன்றம் சென்றோம் சட்டமா அதிபர் திணைக்களம் அந்த சட்டமூலத்தில்  30 திருத்தங்களை முன்வைப்பதாக தெரிவித்தது என அவர் தெரிவித்துள்ளார்.
+
+ஒருசட்டமூலம் சமர்ப்பிக்கப்பட்டால் சட்டமா அதிபர் திணைக்களம் அதனை ஆராய்ந்து அது அரசமைப்பிற்கு உட்பட்டதா என்பதை தெரிவிக்கவேண்டும் ஆனால் அவர்கள் அதனை தெரிவிக்காததால் அவர்கள் இந்த சட்டமூலத்தை ஆராயவில்லை போல தோன்றுகின்றது எனவும் அவர் தெரிவித்துள்ளார்.
+
+இந்த சட்டமூலத்தை ஊடக அமைச்சு தயாரித்தது நீதியமைச்சு சமர்ப்பித்தது என அரசாங்க வட்டாரங்கள் எனக்கு தெரிவித்தன கடந்தகாலங்களில் பல தடவை அமைச்சரவையினால் அனுமதிக்கப்பட்ட சட்டமூலங்களை திருத்துவதற்கு அரசாங்கம் நீதிமன்றில் இணங்கியிருந்தது எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/56c49797.json)
+
+---
+
+### To solve the problem of the Red Sea is before
 
 *2024-01-26 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192589) · `si`
 
-රතු මුහුදේ වෙළෙඳ නෞකාවලට යේමනයේ හූලි කැරලිකරුවන් එල්ල කරන ප්‍රහාර නිසා ගෝලීය නෞකා ප්‍රවාහන කටයුතුවලට එල්ල වී ඇති බලපෑම, අපනයන මත පදනම් වූ චීන ආර්ථිකයකට අහිතකර ප්‍රතිඵල අත්කර දෙන බව අප මීට පෙරද ඔබ වෙත තොරතුරු ඉදිරිපත් කළේය.
+We have previously presented information to you that the influence on the Red Sea vebilian vessels of the Red Sea.
 
-විශේෂයෙන් කොරෝනා වසංගතයෙන් පසු අපේක්ෂිත ආර්ථික වර්ධනය සාක්ෂාත් කරගැනීමට අපොහොසත් වී සිටින චීනය මේ නිසා යම් පියවරකට එළැඹීම අපේක්ෂා කළ හැකි කරුණකි.
+China, especially the failure to achieve the expected economic growth after the coronary epidemic, is expected to be anticipated.
 
-මෑතක සිට මැදපෙරදිග සහ අප්‍රිකානු රටවල් සමග සමීප සබඳතාවන් පවත්වන චීනයට ඒ සඳහා, ඇතැම්විට බටහිර රටවලටත් වඩා රාජ්‍ය තාන්ත්‍රික හැකියාවක් පවතී.
+China conducts close relations with the Middle East and African countries, China is more diplomatic than Western countries.
 
-ඒ අනුව හූති කැරලිකරුවන් රතු මුහුදේ නෞකාවලට එල්ල කරන ප්‍රහාර වැළැක්වීම සඳහා චීනය ප්‍රවේශ වී ඇත්තේ ඉරානය වෙතය.
+Accordingly, China has access to Iran to prevent attacks on the Red Sea.
 
-ඉරානය හූති කැරලිකරුවන් ඇතුළු මැදපෙරදිග සන්නද්ධ කණ්ඩායම්වලට සහාය දක්වන බව බොහෝ දෙනා පිළිගත් කරුණකි.
+Many people are recognized that Iran's Houtu rebels and the Middle East.
 
-විශේෂයෙන් ඊශ්‍රායලය සහ බටහිර විරෝධී කණ්ඩායම්වලට ඉරානයේ අවි සැපයුම් පවා සිදුවන බව වාර්තා වේ.
+It is reported that Iran's arms supplies are especially in Israel and anti-Western groups.
 
-මේ නිසා චීන බලධාරීන් දැනටමත් ඉරාන බලධාරීන් සමග මේ පිළිබඳ සාකච්ඡා කර ඇති බව රොයිටර්ස් පුවත් සේවය අනාවරණය කළේය.
+As a result, the Chinese authorities have already discussed the matter with Iranian authorities.
+
+Chinese authorities have asked Iran to influence the poorest insurgents to stop the attacks on the ship.
+
+Iran has pointed out that if there is no room for Chinese and Iranian relations.
 
 ...
 
 [Data](articles/da18c68a.json)
 
+[Extended Data](ext_articles/da18c68a.ext.json)
+
 ---
 
-### බිල් ගෙවීමෙන් පසු බම්බලපිටිය දුම්රිය ස්ථානයට යළිත් විදුලිය
+### Paying last respect
+
+*2024-01-26 14:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Paying-last-respect/110-275776) · `en`
+
+Several Ministers and MPs including former President Mahinda Rajapaksa paying their last respects to State Minister Sanath Nishantha while his remains lie in state at a private funeral parlour in Borella. The remains will be taken to Arachchikattuwa today for the last rites to be held on Sunday. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/f42c8fbf.json)
+
+---
+
+### Electricity project again after paying bills
 
 *2024-01-26 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192588) · `si`
 
-අදාළ හිඟ බිල්පත් ගෙවීමෙන් අනතුරුව අද (26) දහවල් දුම්රිය ස්ථානයේ විදුලි සැපයුම යථා තත්ත්වයට පත්කර ඇති බව වාර්තා වෙයි.
+It is reported that after the payment of the relevant deficit bills, it is reported that the supply of electricity supply has been restored today (26).
 
-විදුලි ගාස්තු නොගෙවීම හේතුවෙන් බම්බලපිටිය දුම්රිය ස්ථානයේ පසුගිය 24 වනදා සිට විදුලිය විසන්ධි කර තිබූ අතර මේ හේතුවෙන් දුම්රිය ස්ථානාධිපතිවරුන් ඇතුළු කාර්යමණ්ඩලය මෙන්ම මගී ජනතාව ද දැඩි අපහසුතාවයට පත්වී තිබුණි.
+The power cuts were disconnected from the Bambalapitiya Railway Station due to the non-payment of electricity tariffs.
 
-කෙසේවෙතත් විදුලි බිලට අදාළ ගාස්තු චෙක් පතක් මගින් ගෙවන බවට දැනුම්දී තිබියදී ලංකා විදුලිබල මණ්ඩලය විසින් මෙලෙස විදුලිය විසන්ධි කර තිබූ බව දුම්රිය දෙපාර්තමේන්තුව සඳහන් කරයි.
+However, the Ceylon Electricity Board (CEB) has been devised by the Ceylon Electricity Board.
 
-බම්බලපිටිය දුම්රිය ස්ථානයේ විදුලිය විසන්ධි කර ඇති බවට 'අද දෙරණ' මධ්‍යාහ්න පුවත් තුළින් අද (26) දිනයේ අනාවරණය කිරීමෙන් අනතුරුව මෙලෙස විදුලිය ලබාදීමට කටයුතු කර තිබුණි.
+Electricity was disconnected at the Bambalapitiya Railway Station
 
 ◼️
 
 [Data](articles/5d48f3f4.json)
+
+[Extended Data](ext_articles/5d48f3f4.ext.json)
 
 ---
 
@@ -172,39 +238,55 @@ Wickremesinghe pledged 8 billion rupees for research and development to foster a
 
 ---
 
-### රවීන් නොසිතූ මොහොතක ජීවිතයෙන් සමුගනී
+### Kidella Expo opens at BMICH
+
+*2024-01-26 14:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Kidella-Expo-opens-at-BMICH/110-275777) · `en`
+
+Once again this year, the Kidella exhibition and trade fair kicked off at Colombo BMICH, providing an excellent opportunity to shop for thousands of essential items for homes. The event, taking place from the 26th to the 28th of December, was officially inaugurated by Sriyan Cooray, Chairman of NDB. Pix by Kithsiri De Mel
+
+◼️
+
+[Data](articles/474caa62.json)
+
+---
+
+### Revivin retires from life
 
 *2024-01-26 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192587) · `si`
 
-මුලතිව්, පුදුකුඩිඉරිප්පු, සුදන්තිරපුරම් ප්‍රදේශයේ සිදුවු රිය අනතුරකින් තරුණයෙකු ජීවිතක්ෂයට පත්ව ඇති බව පුදුකුඩිඉරිප්පු පොලීසිය පවසයි.
+A youth has died in an accident in the Mullaitivu, Pudukudiyirippu, Pudunukudiyuramu area in Mullaitivu.
 
-පොලීසිය පැවසූවේ, බට්ටා වර්ගයේ ලොරි රථයක ගොයම් කපන යන්ත්‍රයක් පටවාගෙන ගිය ට්‍රැක්ටර් රථයක් ගැටීමෙන් අනතුර සිදුව ඇති බවය.
+The police said that the accident had occurred when a tractor was configured in a batto a lorry.
 
-අනතුරින් බට්ටා වර්ගයේ ලොරි රථයේ ගමන්ගත් පුදුකුඩිඉරිප්පු ප්‍රදේශයේ පදිංචි 27 හැවිරිදි රවීන් නමැති තරුණයෙකු ජීවිතක්ෂයට පත්ව ඇත.
+A resident of Pudukudiirippu, a resident of Pudukuduirippu, was killed in a resident of Pudukuduirippu.
 
-අනතුර සම්බන්ධයෙන් ට්‍රැක්ටර් රථයේ  රියදුරු අත්අඩංගුවට ගත් බව ද පොලීසිය පැවසීය‍.
+The driver of the tractor was arrested in connection with the accident.
 
-මියගිය පුද්ගලයාගේ මළ සිරුර පශ්චාත් මරණ පරීක්ෂණ වෙනුවෙන් මුලතිව් රෝහල් මෘත ශරීරාගාරයේ තැන්පත් කොට ඇති අතර, අනතුර සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරු මුලතිව් මහෙස්ත්‍රාත් අධිකරණයට ඉදිරිපත් කිරීමට නියමිතය.
+The body of the deceased has been placed at the Mullaitivu Hospital morgue and the suspect arrested in connection with the accident and is to be produced before the Mullaitivu Magistrate's Court.
 
 ◼️
 
 [Data](articles/979b44c0.json)
 
+[Extended Data](ext_articles/979b44c0.ext.json)
+
 ---
 
-### IMF සාකච්ඡාවක් ගැන ජනපති කළ දැනුම්දීම
+### President's notification for an IMF conference
 
 *2024-01-26 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192586) · `si`
 
-විකල්ප යෝජනා තිබේනම් ජාත්‍යන්තර මූල්‍ය අරමුදල සමග සාකච්ඡා කිරීමට එකතු වන ලෙස ජනාධිපති රනිල් වික්‍රමසිංහ මහතා දේශපාලන පක්ෂවලින් ඉල්ලීමක් කළේය.
+President Ranil Wickremesinghe requested political parties to join the International Monetary Fund if there were alternative proposals.
 
-එවැනි තීරණාත්මක සාකච්ඡාවක් සඳහා ජාත්‍යන්තර මූල්‍ය අරමුදලේ විධායක අධ්‍යක්ෂිකා ක්‍රිස්ටලීනා ජෝර්ජියේවා මහත්මියට මෙරටට පැමිණෙන ලෙස ආරාධනා කිරීමට තමා සූදානම් බව ද ඔහු කීය.
+He added that he is ready to invite Mrs. Christenda to visit Sri Lanka to a critical discussion.
 
-ජාත්‍යන්තර රේගු දිනය සමරමින් කොළඹ රේගු මූලස්ථානයේදී පැවැති උත්සවයකදී ජනාධිපතිවරයා මේ බව පැවසීය.
+The President was speaking at a function held at the Customs Headquarters in Colombo after celebrating international customs date.
 
 ◼️
 
 [Data](articles/cd0f3c18.json)
+
+[Extended Data](ext_articles/cd0f3c18.ext.json)
 
 ---
 
@@ -2039,71 +2121,5 @@ Create new industries and new investment opportunities and provide employment op
 [Data](articles/4ff31b47.json)
 
 [Extended Data](ext_articles/4ff31b47.ext.json)
-
----
-
-### SLPP mourns demise of Rajapaksa loyalist State Minister Sanath Nishantha
-
-*2024-01-26 02:40:42* · [`dailyftlk`](https://www.ft.lk/news/SLPP-mourns-demise-of-Rajapaksa-loyalist-State-MinisterSanath-Nishantha/56-757773) · `en`
-
-State Minister of Water Supply and Sri Lanka Podujana Peramuna Puttalam District MP Sanath Nishantha Perera died in a tragic road accident which took place on the Colombo-Katunayake Expressway in the early hours of yesterday. He was 48 at the time of his death and was a father of four. His Personal Security Officer (PSO) identified as Police Constable Jayakody was also killed in the accident.
-
-Sources indicate that the State Minister was en route to his residence in Colombo after attending a wedding in Chilaw when the vehicle he was travelling in collided with a container transportation truck heading in the same direction at around 1.55 a.m near the R-11 post in the Kandana Police area.
-
-...
-
-[Data](articles/9e05ab68.json)
-
-[Extended Data](ext_articles/9e05ab68.ext.json)
-
----
-
-### Cabinet green lights to enter into implementation agreement for Sustainable Consumption and Production Project
-
-*2024-01-26 02:40:25* · [`dailyftlk`](https://www.ft.lk/news/Cabinet-green-lights-to-enter-into-implementation-agreement-for-Sustainable-Consumption-and-Production-Project/56-757772) · `en`
-
-The Cabinet of Ministers approved entering into an Implementation Agreement between the Environment Ministry and the German Development Corporation to advance sustainable practices.
-
-The agreement is a key step in obtaining technical assistance under the “Sustainable Consumption and Production Promotion Project.”
-
-The initiative aligns with the 7th Sustainable Development Goal identified by the United Nations, focusing on “Ensuring Sustainable Production and Consumption Patterns.” The project aims to promote sustainable public procurement practices following national policies. It is poised to pave the way for the effective implementation of environmentally conscious policies and practices, reinforcing Sri Lanka’s dedication to achieving sustainable development goals and contributing to global efforts for a more sustainable future.
-
-...
-
-[Data](articles/553a2c1f.json)
-
-[Extended Data](ext_articles/553a2c1f.ext.json)
-
----
-
-### UNDP and UN Global Compact Network Sri Lanka renew strategic collaboration
-
-*2024-01-26 02:35:09* · [`dailyftlk`](https://www.ft.lk/business/UNDP-and-UN-Global-Compact-Network-Sri-Lanka-renew-strategic-collaboration/34-757771) · `en`
-
-UN Global Compact Network Sri Lanka Executive Director Rathika de Silva, UN Global Compact Network Sri Lanka Chairman Dilhan Fernando, UNDP Sri Lanka Resident Representative and UN Global Compact Network Sri Lanka Board Representative Azusa Kubota, and UN in Sri Lanka Resident Coordinator Marc-André Franche
-
-In a move towards advancing sustainable development, the United Nations Development Programme in Sri Lanka (UNDP) and the UN Global Compact Network Sri Lanka (Network Sri Lanka) recently renewed their commitment through the signing of the third Memorandum of Understanding (MoU). The agreement aims to join efforts in facilitating private-sector participation and promoting sustainable development in Sri Lanka.
-
-...
-
-[Data](articles/4279ec09.json)
-
-[Extended Data](ext_articles/4279ec09.ext.json)
-
----
-
-### People’s Bank and George Steuart Solutions join forces to promote solar energy in Sri Lanka
-
-*2024-01-26 02:21:52* · [`dailyftlk`](https://www.ft.lk/business/People-s-Bank-and-George-Steuart-Solutions-join-forces-to-promote-solar-energy-in-Sri-Lanka/34-757770) · `en`
-
-In a strategic move towards sustainable energy solutions, People’s Bank and George Steuart Solutions Ltd. (GSS) entered into a Memorandum of Understanding (MoU) to collaborate on a pioneering initiative for solar solutions in Sri Lanka.
-
-This groundbreaking partnership aims to make solar energy more affordable to customers by offering a comprehensive package that combines financial support and incentives. People’s Bank, a leading commercial bank in Sri Lanka, will provide tailored loans for customers who are seeking to invest in solar systems. The financial patronage will enable the adoption of solar energy solutions by making them accessible to a broader segment of the public.
-
-...
-
-[Data](articles/36fea8ad.json)
-
-[Extended Data](ext_articles/36fea8ad.ext.json)
 
 ---

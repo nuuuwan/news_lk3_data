@@ -1,36 +1,92 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 09:17:18**
+As of **2024-01-26 09:51:50**
 
 ## Newspaper Stats
 
-*Scraped **2,667** Articles*
+*Scraped **2,673** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 39
 bbccomsinhala | 51
 dbsjeyarajcom | 124
-newsfirstlk | 145
+newsfirstlk | 146
 islandlk | 151
 economynextcom | 154
 dailyftlk | 202
-adaderanasinhalalk | 228
-adalk | 255
+adaderanasinhalalk | 229
+adalk | 257
 virakesarilk | 286
-adaderanalk | 333
+adaderanalk | 334
 tamilmirrorlk | 338
-dailymirrorlk | 361
+dailymirrorlk | 362
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,666 (100.0%) of 2,667 articles have been extended.
+2,670 (99.9%) of 2,673 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### World’s first execution by Nitrogen injection carried out in US state of Alabama
+
+*2024-01-26 09:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/world%e2%80%99s-first-execution-by-nitrogen-injection-carried-out-in-us-state-of-alabama/) · `en`
+
+Colombo (News 1st) – The world’s first execution by Nitrogen injection, a new method of putting a person to death, was carried out by the U.S. state of Alabama on Thursday (25th).
+
+Kenneth Eugene Smith, 58, was executed by having nitrogen gas pumped into his lungs through a mask for several minutes. Authorities say the method is relatively painless, but his lawyers had argued that it was a cruel and unusual method.
+
+Smith and an accomplice were convicted of the 1988 murder of a 45-year-old woman. It was a hired killing for which they were paid USD 1,000 by her husband, a preacher, who later killed himself as police tried to arrest him.
+
+The U.S. Supreme Court declined to hear his case. Smith claimed he was present at the scene of the murder but did not take part in the attack.
+
+...
+
+[Data](articles/b1cb60e9.json)
+
+---
+
+### ‘Yukthiya’ operation leads to arrest of 871 more suspects
+
+*2024-01-26 08:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96734/yukthiya-operation-leads-to-arrest-of-871-more-suspects) · `en`
+
+A total of 871 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.26) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+According to the Ministry of Public Security, the narcotics taken into custody during this 24-hour window include 231g of heroin, 129g of crystal methamphetamine (‘Ice’), and 222 narcotic pills.
+
+◼️
+
+[Data](articles/36bee5ba.json)
+
+---
+
+### The body of Sanath Nishantha takes the house today
+
+*2024-01-26 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192576) · `si`
+
+The remains of the late Minister of State Sanath Nishantha is due to be taken to his residence in Puttalam today (26).
+
+The body was brought to a private flower hall in Borella last yesterday afternoon, which is to be taken to the Arachchikattuwa area this morning.
+
+Accordingly, the funeral will be held on Sunday, 28.
+
+According to our correspondent, Prime Minister Dinesh Gunawardena and other parties including his minister had come to the flower hall at the flower hall at night.
+
+State Minister Sanath Nishantha and his security officer had died in an accident on the Katunayake Expressway yesterday.
+
+The luxury vehicle he was traveling was in front of the safety fence and the injured jeep was currently receiving treatment at the Ragama Hospital.
+
+◼️
+
+[Data](articles/6e5a5fa2.json)
+
+[Extended Data](ext_articles/6e5a5fa2.ext.json)
+
+---
 
 ### Two suspects arrested for murder Beliatta
 
@@ -55,6 +111,22 @@ The suspects were also attacked by the Tangalle Urasgoda Pepami to kill the five
 [Data](articles/d6f87455.json)
 
 [Extended Data](ext_articles/d6f87455.ext.json)
+
+---
+
+### Katunayake expressway in the dark
+
+*2024-01-26 08:21:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Katunayake-expressway-in-the-dark/108-275728) · `en`
+
+Katunayake, Jan 26 (Daily Mirror) - It was recently reported that it was impossible to turn on the lights of the Katunayake expressway as thieves have cut and removed the high-voltage electricity cables.
+
+It was reported that the robberies had taken place around six months ago.
+
+It was also revealed by the officials that the removal of copper wire from concrete covers of the new “Kalyani” Bridge, which was built with a Japanese loan and the removal of cables of the Katunayake expressway has caused a loss of 286 million rupees.
+
+◼️
+
+[Data](articles/31fb8981.json)
 
 ---
 
@@ -84,15 +156,19 @@ The duo, aged 25 and 35 years, have been handed over to the Galle Harbour Police
 
 Two more individuals have been arrested for allegedly aiding and abetting the mass shooting in Beliatta in which five people were killed earlier this week.
 
-The arrest was made by the Police Special Task Force (STF) in Wanchawala and Megalle areas in Galle on Thursday (Jan.25).
+The arrest was made by the Police Special Task Force (STF) in Wanchawala and Megalle areas in Galle on Thursday (Jan.25) as part of the ongoing island-wide “Yukthiya” operation to crack down on narcotics distribution and organized crimes.
 
-STF officers have also found 9 grams and 300 milligrams of heroin on the suspects.
+STF officers have seized 9 grams and 300 milligrams of heroin, a knife, 3 mobile phones and a motorcycle from the possession of the suspects.
 
-The duo, aged 25 and 35 years, have been handed over to the Galle Harbour Police for onward investigations.
+The duo, aged 25 and 35 years, has been handed over to the Galle Harbour police station for onward investigations.
 
-◼️
+The investigating officers have uncovered that the two arrestees were involved in orchestrating the mass shooting to be carried out near the Tangalle court premises. Notorious underworld figure “Kosgoda Sujee” had reportedly contracted the drug trafficker operating under the alias “Uragaha Michael” for the killings.
+
+...
 
 [Data](articles/ce4aacdf.json)
+
+[Extended Data](ext_articles/ce4aacdf.ext.json)
 
 ---
 
@@ -157,6 +233,8 @@ The jeep in which the suspects arrived was also taken into police custody in Gal
 Police say the killings were carried out with 2 T56 firearms close to the Beliatta exit of the Southern Expressway on the 22nd of January.
 
 Five individuals including  Saman Perera, the leader of the Ape Janabala Party were victims of the shooting.
+
+World’s first execution by Nitrogen injection carried out in US state of Alabama
 
 Court allows questioning of suspect in Beliatta shooting on detention orders
 
@@ -233,6 +311,28 @@ Some locations in the Galle, Sabaragamuwa, Western and Uva provinces are expecte
 [Data](articles/9b918cc6.json)
 
 [Extended Data](ext_articles/9b918cc6.ext.json)
+
+---
+
+### Greeds arrested for the face of the Netherlands
+
+*2024-01-26 06:22:15* · [`adalk`](https://www.ada.lk/breaking_news/නෙදර්ලන්ත-කතක-මුහුණ-ඉඹින්න-ගිය-ගයිඩ්-අත්අඩංගුවට/11-407731) · `si`
+
+A travel guideline who is said to have been arrested yesterday for a visit to the island yesterday (25).
+
+The suspect was arrested by Petronella Agonita Maria 42 Havrivarn Netherlands.
+
+Police said that he was a 58 sharp person from the Waskaduwa area in Waskaduwa, police said.
+
+The complainant was staying at a house in Waskaduwa area, while she had been speaking in the room and had sexually abused her in the room.
+
+The suspect was to be produced by the Kalutara Magistrate's eraction under accusation of a woman sexually abused.
+
+◼️
+
+[Data](articles/30e52e9c.json)
+
+[Extended Data](ext_articles/30e52e9c.ext.json)
 
 ---
 
@@ -804,7 +904,7 @@ However, he died at 5 pm this evening without treatment.Her body will be taken t
 
 A detention order was issued on Thursday (Jan.25) on the suspect arrested in connection with the recent mass shooting in Beliatta in which five people were killed.
 
-Deiyannadara Magistrate delivered the order when the suspect was produced before the court.
+Deiyandara Magistrate delivered the order when the suspect was produced before the court.
 
 Accordingly, the suspect will be detained until January 27 for onward investigations.
 
@@ -966,6 +1066,22 @@ Following the fatal collision, three critically injured people including State M
 
 ---
 
+### ICC. Women's ODI player Chamari
+
+*2024-01-25 19:29:30* · [`adalk`](https://www.ada.lk/sports/අයි-සී-සී--වසරේ-කාන්තා-එක්දින-ක්‍රීඩිකාව-චමරි/9-407730) · `si`
+
+Sri Lanka Cricket Leader Chamari Atapattu International Cricket Council has been named as one of the year in relation to 2023.
+
+In 2023, she was able to indicate special talent and scored 415 runs in 8 matches and scored 415 runs in 8 matches.. She also guided the Sri Lankan team for the history of the history of Sri Lanka against New Zealand.
+
+◼️
+
+[Data](articles/a5d9fb7e.json)
+
+[Extended Data](ext_articles/a5d9fb7e.ext.json)
+
+---
+
 ### President visits residence of late State Minister Sanath Nishantha
 
 *2024-01-25 19:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96727/president-visits-residence-of-late-state-minister-sanath-nishantha) · `en`
@@ -1097,6 +1213,8 @@ Initially there were three contenders in the fray for the ITAK Presidency. The t
 Colombo (News 1st) – President Ranil Wickremesinghe visited the home of late State Minister Sanath Nishantha and condoled with his wife and four children today (25th).
 
 The state minister died in a motor accident on the Airport Expressway in the early hours of Thursday.
+
+World’s first execution by Nitrogen injection carried out in US state of Alabama
 
 Court allows questioning of suspect in Beliatta shooting on detention orders
 
@@ -1534,13 +1652,13 @@ As captain, 33-year-old Chamari led Sri Lanka to its first series win over New Z
 
 In a career of 98 ODIs, she has scored 3,255 runs at an average of 34.26, with a highest score of 178 not out. With 8 centuries and 15 half-centuries, she has a strike rate of 73.09.
 
+World’s first execution by Nitrogen injection carried out in US state of Alabama
+
 Court allows questioning of suspect in Beliatta shooting on detention orders
 
 Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
 
-Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
-
-◼️
+...
 
 [Data](articles/f7aea77d.json)
 
@@ -1820,6 +1938,8 @@ According to police investigations, Minister Ranatunga said that the driver of t
 
 Talk of the Town | When Women Come First | Hirunika Premachandra | 25th January 2024
 
+World’s first execution by Nitrogen injection carried out in US state of Alabama
+
 Court allows questioning of suspect in Beliatta shooting on detention orders
 
 Chamari Athapaththu named the ICC Women’s ODI Cricketer of the Year 2023
@@ -1893,131 +2013,5 @@ The US urges Sri Lanka to prioritize transparency and ensure that any law does n
 [Data](articles/b3acce90.json)
 
 [Extended Data](ext_articles/b3acce90.ext.json)
-
----
-
-### The final selfie of the deceased diplomatic minister
-
-*2024-01-25 13:38:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/உயிரிழந்த-இராஜாங்க-அமைச்சரின்-இறுதி-செல்ஃபி/175-332105) · `ta`
-
-State Minister Sanath Nishantha and others were killed in a vehicle accident on the Katunayake Highway at around 2 am this morning.
-
-The accident occurred while traveling from Sanath Nishantha Katunayake to Colombo.
-
-The accident occurred when the luxury car he was traveling in the same direction collided with the container paramour.
-
-Sanath Nishantha, who was attending a wedding ceremony at a hotel in Bandarawatte, Chilaw, last night, died in a vehicle accident while returning to Colombo.
-
-During the wedding ceremony, a selfie photo of the newlyweds with Sanath Nishantha has now gone viral on the face and posted a photo of the photographer in his personal face account.. Remble
-
-◼️
-
-[Data](articles/1d5b3a6c.json)
-
-[Extended Data](ext_articles/1d5b3a6c.ext.json)
-
----
-
-### Final rites of State Minister Sanath Nishantha on Sunday
-
-*2024-01-25 13:29:00* · [`adaderanalk`](https://www.adaderana.lk/news/96720/final-rites-of-state-minister-sanath-nishantha-on-sunday-) · `en`
-
-The final rites of the late State Minister Sanath Nishantha are scheduled to be performed on Sunday (Jan. 28).
-
-MP Mahindananda Aluthgamage said that the funeral service would be conducted in the Arachchikattuwa area.
-
-According to the police, the state minister’s vehicle had rear-ended a moving container truck around 2:00 a.m. (25 Jan.), before crashing against the roadside barrier.
-
-Following the fatal collision, three persons including State Minister Nishantha were rushed to the Colombo North Teaching Hospital in Ragama with critical wounds, where two of them - the lawmaker and his security guard, a police constable named Jayakody – succumbed to their injuries upon admission.
-
-The driver of the vehicle is currently receiving medical attention at the hospital.
-
-The group had been returning from a wedding ceremony held at a hotel in Bandarawatta, Chilaw last night when they met with the accident.
-
-◼️
-
-[Data](articles/87bea950.json)
-
-[Extended Data](ext_articles/87bea950.ext.json)
-
----
-
-### 200 from Kandakad, 200
-
-*2024-01-25 13:22:11* · [`adalk`](https://www.ada.lk/breaking_news/කන්දකාඩුවෙන්-200ක්-පළා-යයි/11-407723) · `si`
-
-Welikanda Police say that a group of inmates from the Kandakadu Rehabilitation Center will be fled on the 24th tomorrow.
-
-Troops of Sri Lanka Acting Sector Chanaka De Silva said that 17 of the fugitive people said that they would be produced before the Polonnaruwa Magistrate's Court.
-
-Welikanda Police say that the group had fled the detainees of the Navigade Vocational Training Center at the Advisory Center at the Thampe.
-
-The Police OIC Samantha Police Inspector Samantha Ratnayake said that the police were conducting a special operation to arrest the latest inmates in and around the fleeing embrace.
-
-A total of 408 inmates were being rehabilitated at the Kandakadu Rehabilitation Center.
-
-The clash caused a problem with a food problem for a food problem for the rehabilitation center in the rehabilitation center.
-
-Nine of 92 inmates have fled the conflict and nine were further disappeared.
-
-...
-
-[Data](articles/a32c3f5d.json)
-
-[Extended Data](ext_articles/a32c3f5d.ext.json)
-
----
-
-### Another story about the killing of Beliatta
-
-*2024-01-25 13:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192553) · `si`
-
-Hakmana Police have recovered a motorcycle and a van in the suspects arrested for the murder of Beliatta.
-
-Police suspect that the motorcycle has been used to dispose of the two T-56 riffles used for the attack.
-
-The police also suspect that the suspects were prepared to hide the suspects after the crime.
-
-◼️
-
-[Data](articles/b4f81477.json)
-
-[Extended Data](ext_articles/b4f81477.ext.json)
-
----
-
-### Father, son killed, mother injured in accident
-
-*2024-01-25 13:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Father-son-killed-mother-injured-in-accident/108-275708) · `en`
-
-Anamaduwa, Jan. 25 (Daily Mirror)- A 38-year-old man and his 10-year-old son were killed while his wife was injured in a road accident in Labugala, Anamaduwa this morning.
-
-The tragedy occurred when the motorcycle they were riding on crashed on to a stationary lorry in front of the Labugala Rajamaha Viharaya.
-
-◼️
-
-[Data](articles/5bfaafee.json)
-
-[Extended Data](ext_articles/5bfaafee.ext.json)
-
----
-
-### Another shooting incident reported at a temple
-
-*2024-01-25 13:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96719/another-shooting-incident-reported-at-a-temple) · `en`
-
-A shooting has been carried out aiming at the historical temple in Udaththapola, Dodangaslanda last night (24), the Police said.
-
-The assailants had fired shots at the window of the room in which the Chief Incumbent of the temple, Ven. Galnewe Pannakiththi Thero resides, however, the venerated monk was not injured in the shooting.
-
-Police investigations have uncovered that the gunmen had used a firearm similar to a trap gun.
-
-This incident comes a day after a Buddhist monk was shot dead by four unidentified individuals impersonating Criminal Investigation Department’s officers. The 45-year-old Buddhist monk, Ven. Kalapaluwawe Dhammarathana Thero had been rushed to the Gampaha Hospital where he succumbed to critical injuries hours later.
-
-◼️
-
-[Data](articles/4d084cb7.json)
-
-[Extended Data](ext_articles/4d084cb7.ext.json)
 
 ---

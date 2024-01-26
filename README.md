@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 18:50:41**
+As of **2024-01-26 19:02:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,775 (100.0%) of 2,776 articles have been extended.
+2,776 (100.0%) of 2,776 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The police said the state minister’s vehicle had crashed against the roadside 
 ...
 
 [Data](articles/50bc5ff0.json)
+
+[Extended Data](ext_articles/50bc5ff0.ext.json)
 
 ---
 

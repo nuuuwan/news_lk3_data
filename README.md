@@ -1,32 +1,32 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 07:39:31**
+As of **2024-01-26 07:52:29**
 
 ## Newspaper Stats
 
-*Scraped **2,648** Articles*
+*Scraped **2,655** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 39
-bbccomsinhala | 50
+bbccomsinhala | 51
 dbsjeyarajcom | 124
 newsfirstlk | 144
-islandlk | 147
+islandlk | 151
 economynextcom | 153
 dailyftlk | 202
 adaderanasinhalalk | 226
 adalk | 255
 virakesarilk | 286
 adaderanalk | 331
-tamilmirrorlk | 335
+tamilmirrorlk | 337
 dailymirrorlk | 356
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,648 (100.0%) of 2,648 articles have been extended.
+2,655 (100.0%) of 2,655 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -115,6 +115,46 @@ Unless there is a major political predicament, the Presidential elections will b
 [Data](articles/416ab1c4.json)
 
 [Extended Data](ext_articles/416ab1c4.ext.json)
+
+---
+
+### 8,000 permission for the Kachchativu festival
+
+*2024-01-26 03:02:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சதீவு-திருவிழாவுக்கு-8-000-பேருக்கு-அனுமதி/175-332128) · `ta`
+
+It has been announced that devotees of Tamil Nadu will be able to apply for the St. Anthony's Temple Festival.
+
+The Kachchativu St. Anthony's Temple Festival will be held on the 23rd and 24th of next month.
+
+A total of 8 thousand people from Sri Lanka and 4 thousand from Tamil Nadu have been allowed to attend the festival.
+
+The Indian media has reported that the application form for pilgrims attending the Kachchativu festival can be issued from yesterday to February 6, the Rameshwaram St.. (A)
+
+◼️
+
+[Data](articles/0b7e0df5.json)
+
+[Extended Data](ext_articles/0b7e0df5.ext.json)
+
+---
+
+### The government supports the dessert industry
+
+*2024-01-26 02:52:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனிப்புப்-பண்டத்-தொழில்துறைக்கு-அரசாங்கம்-ஆதரவு/175-332127) · `ta`
+
+President Ranil Wickremesinghe has urged the government to support the sweets industry into the leading export sector.
+
+President Ranil Wickremesinghe said this at the 30th General Assembly of the Sri Lanka Sweet Producers Association held at the Cinnamon Grand Hotel, Colombo.
+
+The President also said that the government is planning to lease state -owned plantations for cultivation, including cocoa.
+
+He said that all the land belonging to the Gardens in Chilaw and Kurunegala areas and other land belonging to the Elkaduwa Plantation Company belonging to the Janata Plantation Development Board and the State Plantation Corporation have been taken.. (A)
+
+◼️
+
+[Data](articles/a064694b.json)
+
+[Extended Data](ext_articles/a064694b.ext.json)
 
 ---
 
@@ -241,6 +281,26 @@ Chandika Fernando is the present manager of the Dickoya Estate & Tea Processing 
 [Data](articles/0beb9f3e.json)
 
 [Extended Data](ext_articles/0beb9f3e.ext.json)
+
+---
+
+### Diriya daughter who commented the poor children in the village
+
+*2024-01-26 01:29:20* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c191793v117o) · `si`
+
+There is nothing here. Play Video, "Diriya Dairy," Diriya Dairy, A / L
+
+"We have to give them their unihasu and the education we did not receive. So we saw children every day to the class every day, "we saw how to gather and advise a small daughter.
+
+She is waiting to sit for the GCE O / L and the A / L classes living with her grandmother of the country in Gampaha and Pilipitiya.
+
+There are 29 families in our village. They cannot send their children to a tuition class. I also understand the value of education because I too have many difficulties. So I want to help the village sister and brother to win the world through education, "he told the BBC Sinhala service.
+
+◼️
+
+[Data](articles/f486c9db.json)
+
+[Extended Data](ext_articles/f486c9db.ext.json)
 
 ---
 
@@ -1496,6 +1556,22 @@ The arrest has been made by the Criminal Investigation Department (CID) officers
 
 ---
 
+### “Look beyond borders” president tells LCMA citing the success of the Kandos factory in Petaling Jaya, Malaysia in 1978
+
+*2024-01-25 14:33:00* · [`islandlk`](http://island.lk/look-beyond-borders-president-tells-lcma-citing-the-success-of-the-kandos-factory-in-petaling-jaya-malaysia-in-1978/) · `en`
+
+President Ranil Wickremesinghe, addressing the 30th Annual General Meeting of the Lanka Confectionary Manufacturers Association (LCMA) yesterday (24) at Cinnamon Grand Hotel, Colombo emphasized the potential for Sri Lanka to become a global player in the confectionery industry. He encouraged Sri Lankan confectioners to expand their horizons and tap into international markets.
+
+The President emphasized the significance of positioning Sri Lankan chocolates as a world-class product, similar to the renowned reputation of the country’s tea and cinnamon. His encouragement aimed to inspire the confectionery industry to embark on a journey towards global recognition and market presence.
+
+...
+
+[Data](articles/d3c3c68c.json)
+
+[Extended Data](ext_articles/d3c3c68c.ext.json)
+
+---
+
 ### "His death is a great loss for Mahinda"
 
 *2024-01-25 14:16:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அவரின்-மறைவு-மஹிந்தவுக்கு-பெரும்-இழப்பாகும்/175-332106) · `ta`
@@ -1949,83 +2025,5 @@ The real name of this bizarre festival celebrated in Japan is ‛Hadaka Matsuri 
 [Data](articles/12337c30.json)
 
 [Extended Data](ext_articles/12337c30.ext.json)
-
----
-
-### Shot at a temple
-
-*2024-01-25 11:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192550) · `si`
-
-The Maduragoda Police say that the ancient temple was shot at the Eldagaslanda-Udduta Vihara yesterday (24).
-
-The police said that the Pannakiti Thera was shot dead in the area, but the Pannayakiti Thera had been shot dead in a nearby location as the lodge was shot dead at the time.
-
-According to police investigations, the shooting has been carried out with a temple gun.
-
-◼️
-
-[Data](articles/fae723b6.json)
-
-[Extended Data](ext_articles/fae723b6.ext.json)
-
----
-
-### Pakistan to remain dependent on IMF for next few years: Fitch Ratings
-
-*2024-01-25 11:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96717/pakistan-to-remain-dependent-on-imf-for-next-few-years-fitch-ratings) · `en`
-
-Fitch Ratings, an American credit rating agency, maintained that Pakistan will remain dependent on the successful  International Monetary Fund (IMF) programme implementation and its official support for the next few years, The News reported on Thursday.
-
-With elections taking place in almost half of Finch’s rated portfolio of Asia Pacific (APAC) sovereigns in 2024, including Pakistan where general polls are scheduled for February 8, the agency on Wednesday shared the possibility in its forecast report, mentioning the chance of election outcomes influencing credit profiles as being higher in both Pakistan and Sri Lanka, which also gets its funds from the IMF.
-
-Other countries where elections are slated to be conducted include in India, Sri Lanka, Indonesia and Korea.
-
-...
-
-[Data](articles/6b780d0b.json)
-
-[Extended Data](ext_articles/6b780d0b.ext.json)
-
----
-
-### An amendment of the Penal Code
-
-*2024-01-25 11:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192549) · `si`
-
-The president's chaired by the president yesterday (24) has reached several decisions.
-
-Cabinet approval has been paid to submit the amendments for the penal code.
-
-In order to amend the statutory fertility laws of the Penal Code and to rectify the shortcomings of feminine, and the pension Code on 28.01.2013, 1821.2009 to introduce a criminal act.The approval has been approved.
-
-Accordingly, the Attorney General's clearance has been received for the Bill, which has been prepared by the Legal Draftsman.
-
-The Justice Minister has submitted the approval of the Cabinet of Ministers to publish the Bill in the Government Gazette and submit the approval to Parliament for approval.
-
-◼️
-
-[Data](articles/af5196d1.json)
-
-[Extended Data](ext_articles/af5196d1.ext.json)
-
----
-
-### Wild giant panda population increases in China
-
-*2024-01-25 11:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wild-giant-panda-population-increases-in-China/108-275704) · `en`
-
-China, Jan 25 (China Daily) -The population of wild giant pandas in China has increased from around 1,100 in the 1980s to nearly 1,900, according to the latest announcement from the National Forestry and Grassland Administration on Thursday.
-
-The International Union for Conservation of Nature has adjusted the threatened status of giant pandas from "endangered" to "vulnerable".
-
-"This indicates that the conservation efforts for giant pandas in China have been recognized by the international wildlife conservation community, which is a full affirmation of our country's conservation efforts," said Zhang Yue, deputy director of the Wildlife Conservation Department of the National Forestry and Grassland Administration. "The remarkable achievements in the protection of giant pandas and their habitats in China have attracted global attention."
-
-Giant pandas are a unique species in China and are hailed as a national treasure.
-
-...
-
-[Data](articles/4cd513e9.json)
-
-[Extended Data](ext_articles/4cd513e9.ext.json)
 
 ---

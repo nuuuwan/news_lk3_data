@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 11:32:49**
+As of **2024-01-26 11:51:58**
 
 ## Newspaper Stats
 
-*Scraped **2,692** Articles*
+*Scraped **2,697** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ newsfirstlk | 150
 islandlk | 151
 economynextcom | 154
 dailyftlk | 202
-adaderanasinhalalk | 232
+adaderanasinhalalk | 234
 adalk | 258
 virakesarilk | 286
 adaderanalk | 338
-tamilmirrorlk | 340
+tamilmirrorlk | 343
 dailymirrorlk | 366
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,687 (99.8%) of 2,692 articles have been extended.
+2,697 (100.0%) of 2,697 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,76 @@ Some media reports, citing the findings of ongoing investigations, had mentione
 ...
 
 [Data](articles/6811bfbe.json)
+
+[Extended Data](ext_articles/6811bfbe.ext.json)
+
+---
+
+### "Independence Day should be declared as a black day"
+
+*2024-01-26 10:52:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திர-தினத்தை-கரிநாளாக-பிரகடனப்படுத்த-வேண்டும்/175-332133) · `ta`
+
+The Jaffna University Students Union has called on Sri Lanka's Independence Day as a day.
+
+They also said that this is appropriate for the Sinhalese people.
+
+Speaking at a media briefing held at the University of Jaffna yesterday (25), the University Student Union representatives said this. Continuing to say,
+
+The Tamil people on the island of Sri Lanka have been engaged in a series of protests since then to keep their reserves.
+
+Accordingly, we will declare Sri Lanka's Independence Day on February 4 as a charcoal day and inform the public of the North and East.
+
+Moreover, the day is appropriate for the Sinhalese people because the laws against the Sinhalese people today have been created.
+
+He added that our race should be liberated.. Remble
+
+◼️
+
+[Data](articles/949c0a37.json)
+
+[Extended Data](ext_articles/949c0a37.ext.json)
+
+---
+
+### Money plundered with sharp weapons
+
+*2024-01-26 10:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192581) · `si`
+
+Three people have been attacked with sharp weapons in the Pamunugama Dela, Pamunugama.
+
+Police said that the assault had been assaulted by three persons from a lorry to purchase a motorcycle on the Internet.
+
+Four persons who were hiding along the road have been assaulted by Rs.
+
+The injured were receiving treatment at the Ragama Hospital and the suspects were identified by Pamunugama Police, police said.
+
+◼️
+
+[Data](articles/151ab7c9.json)
+
+[Extended Data](ext_articles/151ab7c9.ext.json)
+
+---
+
+### Cut the sword on the young man
+
+*2024-01-26 10:41:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/இளைஞன்-மீது-வாள்-வெட்டு/71-332132) · `ta`
+
+A violent gang has launched a sword -cutting attack after lodging a complaint at the police station on the robbery.
+
+Jayakody Karthipan (age 30) from Vadamarachchi, Jaffna - Vadamarachchi, has been admitted to the hospital with the attacker.
+
+The two youths who came on a motorcycle were pretending to buy ice cream and robbed the young man's possession of sales and mobile phones.
+
+When the youth lodged a complaint at the Nelliyadi police station, a gang of youth in the Alwai area had fled and fled.
+
+Nelliyadi police are conducting investigations as the teenager who is targeted at the sword cut is being treated at the hospital. Remble
+
+◼️
+
+[Data](articles/bb9e9293.json)
+
+[Extended Data](ext_articles/bb9e9293.ext.json)
 
 ---
 
@@ -72,6 +142,22 @@ According to police, the saffron-robed monk had allegedly issued statements deme
 
 ---
 
+### China remanded for another case
+
+*2024-01-26 10:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192580) · `si`
+
+The monk known as universal Buddha has been remanded again until February 2.
+
+It was when he was produced before the Nugegoda Magistrate for another cases.
+
+◼️
+
+[Data](articles/69e7977f.json)
+
+[Extended Data](ext_articles/69e7977f.ext.json)
+
+---
+
 ### Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
 *2024-01-26 10:15:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/face-to-face-ravi-karunanayake-operation-successful-patient-dead/) · `en`
@@ -92,6 +178,8 @@ World’s first execution by Nitrogen injection carried out in US state of Alaba
 
 [Data](articles/1a9cc138.json)
 
+[Extended Data](ext_articles/1a9cc138.ext.json)
+
 ---
 
 ### International Court of Justice set to rule on Gaza War today
@@ -109,6 +197,8 @@ The court will not rule today on whether Israel has committed acts of genocide. 
 ...
 
 [Data](articles/2d783b18.json)
+
+[Extended Data](ext_articles/2d783b18.ext.json)
 
 ---
 
@@ -131,6 +221,8 @@ World’s first execution by Nitrogen injection carried out in US state of Alaba
 ◼️
 
 [Data](articles/f5db86b6.json)
+
+[Extended Data](ext_articles/f5db86b6.ext.json)
 
 ---
 
@@ -175,6 +267,24 @@ World’s first execution by Nitrogen injection carried out in US state of Alaba
 ◼️
 
 [Data](articles/172e00c1.json)
+
+[Extended Data](ext_articles/172e00c1.ext.json)
+
+---
+
+### Accident on highway;Foreigner killed
+
+*2024-01-26 10:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலையில்-விபத்து-வெளிநாட்டவர்-பலி/175-332131) · `ta`
+
+A foreigner has died in a vehicle accident on the highway and three others have been admitted to the hospital.
+
+The accident occurred when a van crashed into the back of the lorry on the highway between Kadawatha and Karavalapitiya.
+
+◼️
+
+[Data](articles/0b1ed5ba.json)
+
+[Extended Data](ext_articles/0b1ed5ba.ext.json)
 
 ---
 
@@ -1941,105 +2051,5 @@ Meanwhile, former President Mahinda Rajapaksa has visited many others to visit t
 [Data](articles/b34a1534.json)
 
 [Extended Data](ext_articles/b34a1534.ext.json)
-
----
-
-### US expresses concern over Sri Lanka law to police online discourse
-
-*2024-01-25 16:46:00* · [`economynextcom`](https://economynext.com/us-expresses-concern-over-sri-lanka-law-to-police-online-discourse-148706/) · `en`
-
-ECONOMYNEXT – The United States has expressed concern over a controversial law to control online discourse which was passed by parliament amid opposition protests, despite last minute changes brought by the government.
-
-“The United States remains concerned about the potential impact of Sri Lanka’s Online Safety Bill, which passed yesterday without incorporating important input from key stakeholders, including civil society and tech companies who say that this legislation threatens freedom of expression, innovation, and privacy,” US ambassador Juline Chung said in a statement on the social media platform twitter, now called ‘X’.
-
-“In addition to jeopardizing democratic values, vague and overly restrictive legislation can hinder investment and the development of a digital economy, undermining the economic growth that Sri Lanka needs.
-
-“The U.S. urges Sri Lanka to prioritize transparency and ensure any legislation does not stifle the voices of its people.”
-
-...
-
-[Data](articles/01270084.json)
-
-[Extended Data](ext_articles/01270084.ext.json)
-
----
-
-### US concerned over potential impact of Sri Lanka’s Online Safety Bill: Julie Chung
-
-*2024-01-25 16:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/US-concerned-over-potential-impact-of-Sri-Lankas-Online-Safety-Bill-Julie-Chung/108-275713) · `en`
-
-Colombo, Jan. 25 (Daily Mirror)- The United States remains concerned over the potential impact of Sri Lanka’s Online Safety Bill, which was passed yesterday without incorporating important inputs from key stakeholders, including civil society and tech companies who say that this legislation threatens freedom of expression, innovation and privacy, US Ambassador to Sri Lanka Julie Chung said.
-
-"In addition to jeopardizing democratic values, vague and overly restrictive legislation can hinder investments and the development of a digital economy, undermining the economic growth that Sri Lanka needs. The US urges Sri Lanka to prioritize transparency and ensure any legislation does not stifle the voices of its people," she tweeted.
-
-◼️
-
-[Data](articles/3d862c6a.json)
-
-[Extended Data](ext_articles/3d862c6a.ext.json)
-
----
-
-### Export-oriented strategies a must to overcome financial hurdles: President
-
-*2024-01-25 15:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Export-oriented-strategies-a-must-to-overcome-financial-hurdles-President/108-275712) · `en`
-
-Colombo, Jan. 25 (Daily Mirror)- President Ranil Wickremesinghe stressed the need for a sustainable solution and highlighted the importance of export-oriented strategies to overcome financial hurdles, the President’s Media Division (PMD) said.
-
-He advocated for increased exports and identified the confectionery industry, particularly chocolates, as having the potential for international recognition.
-
-The President said this while addressing the 30th Annual General Meeting of the Lanka Confectionary Manufacturers' Association (LCMA) yesterday (24) at the Cinnamon Grand Hotel, Colombo.
-
-He emphasized the potential for Sri Lanka to become a global player in the confectionery industry and encouraged Sri Lankan confectioners to expand their horizons and tap into international markets.
-
-...
-
-[Data](articles/5b2e0fad.json)
-
-[Extended Data](ext_articles/5b2e0fad.ext.json)
-
----
-
-### Shop fire in China’s Jiangxi province kills 39, traps others
-
-*2024-01-25 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96723/shop-fire-in-chinas-jiangxi-province-kills-39-traps-others) · `en`
-
-A fire at a street shop in Xinyu City of Jiangxi Province has killed 39 people and injured nine, Chinese state media and the local government said on Wednesday, adding that some people were still trapped.
-
-The fire broke out in the afternoon in an underground floor of the shop on Tiangongnan Avenue in the Yushui district, said the local fire response emergency headquarters, according to the China Daily media outlet.
-
-The injured were taken to hospital, a government statement said, without disclosing how many.
-
-Thick, black smoke could be seen spewing from shops on the street level and engulfing surrounding buildings in video footage on social media platform Weibo.
-
-According to state broadcaster CCTV News, there was an Internet cafe located below ground level and a training institution upstairs in the building where the fire broke out.
-
-...
-
-[Data](articles/a63f4163.json)
-
-[Extended Data](ext_articles/a63f4163.ext.json)
-
----
-
-### President wins Sanath Nishantha's house
-
-*2024-01-25 15:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192559) · `si`
-
-President Ranil Wickremesinghe arrived to meet the relatives of the late Minister of State Sanath Nishantha.
-
-The funeral of the State Minister's remains is scheduled to be held on Sunday, 28.
-
-State Minister Sanath Nishantha and his security officer were killed in an accident on the Katunayake Expressway this morning.
-
-The luxury vehicle traveling about two am this morning was accidental.
-
-"We all went to go outside the Family. Go and let us put us in another vehicle. He went to the Chilaw .... To one of a wedding. It's going on that ... "
-
-◼️
-
-[Data](articles/2ece7f4c.json)
-
-[Extended Data](ext_articles/2ece7f4c.ext.json)
 
 ---

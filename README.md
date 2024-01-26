@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 17:17:14**
+As of **2024-01-26 17:33:09**
 
 ## Newspaper Stats
 
-*Scraped **2,763** Articles*
+*Scraped **2,767** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 151
 newsfirstlk | 154
-economynextcom | 163
+economynextcom | 166
 dailyftlk | 202
-adaderanasinhalalk | 245
+adaderanasinhalalk | 246
 adalk | 261
 virakesarilk | 296
 adaderanalk | 347
@@ -26,11 +26,73 @@ dailymirrorlk | 379
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,761 (99.9%) of 2,763 articles have been extended.
+2,763 (99.9%) of 2,767 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Sri Lanka stocks close up, net outflow continues
+
+*2024-01-26 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-net-outflow-continues-148814/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange remained in green on Friday, after weeks of being on a downward trajectory, data on its site showed.
+
+The All Share Price Index was up 0.60 percent, or 61.40 points, at 10,335.
+
+The S&P SL20 index was up 0.88 percent, or 25.61 points, at 2,929.
+
+Turnover was at 798 million. Trading in John Keells Holdings Plc contributing the most (200mn) to the day’s turnover, and the share closed down at 181.50. Market participants said foreign buying in the stock continued.
+
+Other companies that saw buying interest were Sampath Bank Plc (up at 68.10), Melstacorp Plc (up at 81.80) and Royal Ceramics Lanka Plc (up at 27.00).
+
+The banks industry (187mn) and diversified financials (150mn) saw some positive interest after weeks of continued selling pressure in the sectors in general.
+
+However, the net foreign outflow since the beginning of this year continued, with today registering an outflow of 28 million. (Colombo/Jan26/2024).
+
+◼️
+
+[Data](articles/116a67b0.json)
+
+---
+
+### සනත් නිශාන්තගේ දේහය නිවසට රැගෙන එයි
+
+*2024-01-26 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192595) · `si`
+
+හදිසි අනතුරකින් ජීවිතක්ෂයට පත්වු රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ දේහය පුත්තලම ආරච්චිකට්ටුවේ පිහිටි ඒ මහතාගේ නිවස වෙත මීට සුළු වේලාවකට පෙර රැගෙන ආවේය.
+
+බොරැල්ල ජයරත්න මල්ශාලාවේ සිට රැගෙන ආ දේහයට අවසන් ගෞරව දැක්වීමට මඟ දෙපස විශාල ජනතාවක් රැස්ව සිටි අතර, නිවස වෙත ද මේ වනවිට විශාල ජනතාවක් එක්වෙමින් සිටින බව අප වාර්තාකරු පැවසීය.
+
+මේ අතර, ජනාධිපති රනිල් වික්‍රමසිංහ, අග්‍රාමාත්‍ය දිනේෂ් ගුණවර්ධන යන මහත්වරු මෙන්ම මැති ඇමතිවරු ඇතුළු විශාල පිරිසක් ඊයේ (25) රාත්‍රියේ දේහයට අවසන් ගෞරව දැක්වීමට බොරැල්ල ජයරත්න මල්ශාලාව වෙත පැමිණියහ.
+
+අද පෙරවරුවේ හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ, කථානායක මහින්ද යාපා අබේවර්ධන යන මහත්වරු ඇතුළු පිරිසක් දේහයට අවසන් ගෞරව දැක්වීමට පැමිණියහ.
+
+හිටපු ජනාධිපති මහින්ද රාජපක්ෂ මහතා ද අද දහවල් දේහයට අවසන් ගෞරව දැක්වීමට පැමිණ සිටියේය.
+
+ජල සම්පාදන රාජ්‍ය අමාත්‍යවරයා ලෙස කටයුතු කළ සනත් නිශාන්ත මහතා සහ ඔහුගේ ආරක්ෂක නිලධාරියා ඊයේ අලුයම කටුනායක අධිවේගී මාර්ගයේ සිදුවු රිය අනතුරකින් ජීවිතක්ෂයට පත් වුණි.
+
+...
+
+[Data](articles/4fefa75c.json)
+
+---
+
+### Sri Lanka President prorogues parliament till Feb 07
+
+*2024-01-26 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-prorogues-parliament-till-feb-07-148811/) · `en`
+
+ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has prorogued parliament with effect from midnight of January 26, according to a gazette notice.
+
+A new sessions of parliament will begin on February 07 with an address  by the President.
+
+All parliamentary committees are automatically dissolved by the prorogation and other business is suspended. (Colombo/Jan26/2024)
+
+◼️
+
+[Data](articles/f11a10df.json)
+
+---
 
 ### Sri Lanka Parliament prorogued
 
@@ -49,6 +111,8 @@ When a new session kicks off, the President has the opportunity to ceremonially 
 ...
 
 [Data](articles/8ac6fda0.json)
+
+[Extended Data](ext_articles/8ac6fda0.ext.json)
 
 ---
 
@@ -106,6 +170,8 @@ The Sri Lanka skipper was expected to be one of the stars who was expected to ig
 
 [Data](articles/343c3ce7.json)
 
+[Extended Data](ext_articles/343c3ce7.ext.json)
+
 ---
 
 ### Two Pakistan killings - allegation to India
@@ -125,6 +191,24 @@ The Pakistani authorities say that they have clear evidence that Indian represen
 [Data](articles/f5189ac3.json)
 
 [Extended Data](ext_articles/f5189ac3.ext.json)
+
+---
+
+### Sri Lanka President invites party leaders for ‘collective dialogue’ with IMF
+
+*2024-01-26 16:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-invites-party-leaders-for-collective-dialogue-with-imf-148801/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has invited political party leaders in Parliament to discuss the IMF agreement implementation with the fund’s Managing Director.
+
+“I am willing to extend an invitation to the Managing Director of the IMF to participate in a collective dialogue here. Let us collaboratively explore different perspectives and propose modifications if deemed beneficial,” Wickremesinghe said during the International Customs Day celebrations at the Colombo Customs Headquarters on Friday (26), according to his media division.
+
+Sri Lanka has entered into an agreement with the International Monetary Fund, a pact signed by numerous countries, including 15-20 others.
+
+In return for a bailout, the agreement has Sri Lanka restructuring its foreign and local debt after the country defaulted in peacetime after triggering serial currency crises, and increasing its revenue.
+
+...
+
+[Data](articles/04f3e2f3.json)
 
 ---
 
@@ -2023,101 +2107,5 @@ The State Minister smiled and said that a relative said, "You can't kill you," h
 [Data](articles/ba00349c.json)
 
 [Extended Data](ext_articles/ba00349c.ext.json)
-
----
-
-### Sri Lanka cabinet gives ok to sign Thailand FTA
-
-*2024-01-26 07:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-cabinet-gives-ok-to-sign-thailand-fta-148720/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has given approval to sign a free trade agreement with Thailand, the state information office said.
-
-A complete FTA of 14 chapters with the preamble and annexes has been prepared after nine rounds of negotiations.
-
-The government hopes to improve trade and investment with Thailand which is one of the largest nations in South East Asia.
-
-Sri Lanka has high levels of import duties and protectionism, which has kept local prices high and allowed domestic producers to exploit the public, critics say.
-
-High tariffs also makes the economy inefficient and noncompetitive. (Colombo/Jan26/2024)
-
-◼️
-
-[Data](articles/bcbc126b.json)
-
-[Extended Data](ext_articles/bcbc126b.ext.json)
-
----
-
-### Court allows questioning of suspect in Beliatta shooting on detention orders
-
-*2024-01-26 07:10:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/court-allows-questioning-of-suspect-in-beliatta-shooting-on-detention-orders/) · `en`
-
-COLOMBO (News 1st); The Deindara magistrate's court has allowed the questioning of the suspect in the Beliatta murder on detention orders.
-
-Following the questioning of the 54-year-old suspect, Hakmana police have also seized a motorcycle used by the suspects for the shooting and a van used to flee the crime scene.
-
-The jeep in which the suspects arrived was also taken into police custody in Galle.
-
-Police say the killings were carried out with 2 T56 firearms close to the Beliatta exit of the Southern Expressway on the 22nd of January.
-
-Five individuals including  Saman Perera, the leader of the Ape Janabala Party were victims of the shooting.
-
-Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
-
-Austrian citizen dies and two others injured in an accident in the expressway
-
-Several government-owned buildings to be handed over to private sector under lease
-
-Face to Face | Ravi Karunanayake | Operation Successful, patient dead
-
-◼️
-
-[Data](articles/eb4dc42d.json)
-
-[Extended Data](ext_articles/eb4dc42d.ext.json)
-
----
-
-### Sanath Nishantha; will he be remembered?
-
-*2024-01-26 06:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sanath-Nishantha-will-he-be-remembered/155-275726) · `en`
-
-Colombo, Jan 26 (Daily Mirror) - Forty-eight-year-old Sanath Nishantha who hailed from Puttalam, left his house late on Wednesday to attend two weddings, one in Kurunegala and another in Chilaw.
-
-While wishing his wife and four children goodbye, little did he know that he would never return.
-
-At approximately 1 a.m. on Thursday (25) morning, while he was returning home on the Katunayake Expressway, his Land Cruiser met with a fatal accident as it rammed into a moving container truck.
-
-His security officer, Police Constable Jayakody and Sanath Nishantha died on the spot. Their bodies were later transferred to the Ragama General Hospital.
-
-SLPP Parliamentarian Sanath Nishantha entered parliament in 2015 and served as the State Minister of Water Supply under the present government. He was a staunch supporter of the Rajapaksas and always remained in the forefront when it came to defending them. However in his few years in politics, did the parliamentarian make his mark?
-
-...
-
-[Data](articles/e903f3ae.json)
-
-[Extended Data](ext_articles/e903f3ae.ext.json)
-
----
-
-### Police bust suspect selling organ to buy drugs
-
-*2024-01-26 06:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-bust-suspect-selling-organ-to-buy-drugs/108-275725) · `en`
-
-Jan -26 (Daily Mirror) - In a grim tale of addiction and desperation, Kattankudi Police nabbed two suspects yesterday, uncovering a significant stash of the illegal drug ICE and a shocking story of organ traf­ficking fuelled by addiction.
-
-The raid, led by OIC G.gajanayake, netted a 32-year-old man caught with nearly 3 grams of ICE.
-
-During interrogation, the suspect revealed a chilling truth: he had allegedly sold one of his own kidneys to fund his drug habit.
-
-Adding another layer to this disturbing bust, police apprehended another individual at the scene, found in possession of over 2.4 litres of ICE - a substantial quantity indicative of potential large-scale distribution.
-
-Both suspects were produced before Batticaloa Magistrate M.H.M. Hamza and remanded until February 6th.
-
-◼️
-
-[Data](articles/a83f298b.json)
-
-[Extended Data](ext_articles/a83f298b.ext.json)
 
 ---

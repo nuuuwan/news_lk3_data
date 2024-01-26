@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 18:33:17**
+As of **2024-01-26 18:50:41**
 
 ## Newspaper Stats
 
-*Scraped **2,775** Articles*
+*Scraped **2,776** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,37 @@ dailyftlk | 202
 adaderanasinhalalk | 248
 adalk | 261
 virakesarilk | 298
-adaderanalk | 349
 tamilmirrorlk | 349
+adaderanalk | 350
 dailymirrorlk | 381
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,773 (99.9%) of 2,775 articles have been extended.
+2,775 (100.0%) of 2,776 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Remains of late State Minister Sanath Nishantha taken to Puttalam
+
+*2024-01-26 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96750/remains-of-late-state-minister-sanath-nishantha-taken-to-puttalam) · `en`
+
+The remains of the late State Minister Sanath Nishantha has been taken to his private residence in Arachchikattuwa are of Puttalam this evening (Jan. 26).
+
+Meanwhile, many politicians representing both ruling party and the opposition including President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena, Former Presidents Gotabaya Rajapaksa and Mahinda Rajapaksa paid their final respects to the late State Minister at Jayaratne Funeral Parlour in Borella last night and this morning, and offered their condolences to the bereaved family members.
+
+The final rites of the late State Minister Sanath Nishantha are scheduled to be performed on Sunday (Jan. 28), in the Arachchikattuwa area, according to family sources.
+
+The police said the state minister’s vehicle had crashed against the roadside barrier before rear-ending a moving container truck in the early hours of Thursday.
+
+...
+
+[Data](articles/50bc5ff0.json)
+
+---
 
 ### Man remanded for threatening Mihintale Thero
 
@@ -90,6 +108,8 @@ The Commissioner General of the Department of Excise and its officials, Secretar
 
 [Data](articles/9871e811.json)
 
+[Extended Data](ext_articles/9871e811.ext.json)
+
 ---
 
 ### Special summon for Chamari Atapattu
@@ -121,6 +141,8 @@ President Ranil Wickremesinghe made these remarks during the International Custo
 ...
 
 [Data](articles/617617ce.json)
+
+[Extended Data](ext_articles/617617ce.ext.json)
 
 ---
 
@@ -2069,29 +2091,5 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 [Data](articles/36bee5ba.json)
 
 [Extended Data](ext_articles/36bee5ba.ext.json)
-
----
-
-### The body of Sanath Nishantha takes the house today
-
-*2024-01-26 08:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192576) · `si`
-
-The remains of the late Minister of State Sanath Nishantha is due to be taken to his residence in Puttalam today (26).
-
-The body was brought to a private flower hall in Borella last yesterday afternoon, which is to be taken to the Arachchikattuwa area this morning.
-
-Accordingly, the funeral will be held on Sunday, 28.
-
-According to our correspondent, Prime Minister Dinesh Gunawardena and other parties including his minister had come to the flower hall at the flower hall at night.
-
-State Minister Sanath Nishantha and his security officer had died in an accident on the Katunayake Expressway yesterday.
-
-The luxury vehicle he was traveling was in front of the safety fence and the injured jeep was currently receiving treatment at the Ragama Hospital.
-
-◼️
-
-[Data](articles/6e5a5fa2.json)
-
-[Extended Data](ext_articles/6e5a5fa2.ext.json)
 
 ---

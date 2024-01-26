@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 15:51:05**
+As of **2024-01-26 16:03:12**
 
 ## Newspaper Stats
 
-*Scraped **2,750** Articles*
+*Scraped **2,753** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,65 +16,71 @@ newsfirstlk | 154
 economynextcom | 163
 dailyftlk | 202
 adaderanasinhalalk | 242
-adalk | 259
+adalk | 261
 virakesarilk | 296
 adaderanalk | 344
-tamilmirrorlk | 348
+tamilmirrorlk | 349
 dailymirrorlk | 375
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,746 (99.9%) of 2,750 articles have been extended.
+2,753 (100.0%) of 2,753 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### ඉතිහාසගත වූ මරණ දණ්ඩනය
+### Historical death sentence
 
 *2024-01-26 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192591) · `si`
 
-කාන්තාවක් ඝාතනය කිරීම සම්බන්ධයෙන් මරණ දණ්ඩනය හිමිව සිටි කෙනත් ඉයුජීන් ස්මිත් ගේ මරණ දණ්ඩනය ක්‍රියාත්මක කිරීමට ඇලබාමා බලධාරීන් කටයුතු කර තිබේ.
+Alabama authorities have acted to implement the death penalty of the death penalty in the killing of a woman.
 
-ජාත්‍යන්තර මාධ්‍ය පවසන්නේ නයිට්‍රජන් වායුව යොදා ඔහුගේ දිවි තොර කර ඇති බවයි.
+International media states that he has committed suicide using nitrogen gas.
 
-ඒ සඳහා විනාඩි 25ක පමණ කාලයක් ගතවූ බව සිද්ධිය නිරීක්ෂණය කිරීමට අවස්ථාව ලැබුණු මාධ්‍යවේදියෙක් බී බී සී පුවත් සේවයට පවසා තිබේ.
+A journalist who had been able to observe the incident, a journalist who was able to observe it was about 25 minutes.
 
-එවැනි ආකාරයකට මරණ දණ්ඩනය ක්‍රියාත්මක කළ ලොව පළමු අවස්ථාව ලෙස එය සැලකෙයි.
+It is considered the first time in the world that the death penalty was implemented.
 
-නයිට්‍රජන් වායුව භාවිතයෙන් මරණ දණ්ඩනය ක්‍රියාත්මක කිරීමට සැලසුම් කිරීමට එරෙහිව ස්මිත් අමෙරිකානු ඉහළ අධිකරණ වෙත අභියාචනා ඉදිරිපත් කර තිබුණි.
+Smith had appealed to American high courts against planning to implement the death penalty using Nitrogen gas.
 
-එසේ මරණ දණ්ඩනය ක්‍රියාත්මක කිරීම ඉතා අමානුෂික ක්‍රමවේදයක් බව ඔහු පවසා තිබුණි.
+He had said that the implementation of the death penalty was a brutal procedure.
 
-2022 වසරේදී විස එන්නතක් ලබාදී ස්මිත් ගේ මරණ දණ්ඩනය ක්‍රියාත්මක කිරීමට ඇලබාමා බලධාරීන් ගත් උත්සාහය ව්‍යාර්ථ වුණි.
+Alabama authorities have enabled the death penalty for the death penalty in 2022.
 
-එළිසබෙත් සෙන්නෙත් නම් කාන්තාවක් ඝාතනය කිරීම සම්බන්ධයෙන් 1989 දී ස්මිත් වරදකරු විය.
+In 1989, Smith was guilty of killing a woman named Elizabeth.
 
 ◼️
 
 [Data](articles/35df1b5d.json)
 
+[Extended Data](ext_articles/35df1b5d.ext.json)
+
 ---
 
-### நிகழ்நிலை பாதுகாப்பு சட்டம் -அரசாங்கம் விரும்பாத ஒரு பதிவை நீங்கள் விரும்பினால் அதற்கு நீங்கள் பழிவாங்கப்படலாம் என ஜயம்பதி விக்கிரமரட்ண கருத்து
+### The Ceremonial Security Act
 
 *2024-01-26 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174850) · `ta`
 
-நிகழ்நிலை பாதுகாப்பு சட்டமூலம் முதலில்வர்த்தமானியில்வெளியானவேளை சட்டமா அதிபர் திணைக்களம் அதனை ஆராயவில்லை என ஜனாதிபதி சட்டத்தரணி கலாநிதி  ஜயம்பதி விக்கிரமரட்ண தெரிவித்துள்ளார்.
+President's Attorney Dr. Jayampathi Wickremaratne said that the Attorney General's Department did not investigate it in the first place in the Federal Protection Bill.
 
-கடந்த வருடம் செப்டம்பர் மாதம் 15 ம் திகதி முதலில் இந்த சட்டமூலம் வர்த்தமானியில் வெளியானது.
+The bill was first published in the Gazette on September 15 last year.
 
-நாங்கள் இதற்கு எதிராகஉயர்நீதிமன்றம் சென்றோம் சட்டமா அதிபர் திணைக்களம் அந்த சட்டமூலத்தில்  30 திருத்தங்களை முன்வைப்பதாக தெரிவித்தது என அவர் தெரிவித்துள்ளார்.
+We went to the High Court against this.
 
-ஒருசட்டமூலம் சமர்ப்பிக்கப்பட்டால் சட்டமா அதிபர் திணைக்களம் அதனை ஆராய்ந்து அது அரசமைப்பிற்கு உட்பட்டதா என்பதை தெரிவிக்கவேண்டும் ஆனால் அவர்கள் அதனை தெரிவிக்காததால் அவர்கள் இந்த சட்டமூலத்தை ஆராயவில்லை போல தோன்றுகின்றது எனவும் அவர் தெரிவித்துள்ளார்.
+He said that if a law is submitted, the Attorney General's Department should examine it and report whether it is subject to constitution but they do not examine the bill because they do not report it.
 
-இந்த சட்டமூலத்தை ஊடக அமைச்சு தயாரித்தது நீதியமைச்சு சமர்ப்பித்தது என அரசாங்க வட்டாரங்கள் எனக்கு தெரிவித்தன கடந்தகாலங்களில் பல தடவை அமைச்சரவையினால் அனுமதிக்கப்பட்ட சட்டமூலங்களை திருத்துவதற்கு அரசாங்கம் நீதிமன்றில் இணங்கியிருந்தது எனவும் அவர் குறிப்பிட்டுள்ளார்.
+He said that the law was produced by the Media Ministry and the Justice Ministry had submitted to me that the government had agreed to amend the bills allowed by the Cabinet several times in the past.
+
+The Parliament was only discussing the current Security Bill for two days, saying that the government wanted to fulfill it as an urgent need and that the law has adopted the law that the law has had a major impact on the freedom of the people.
 
 ...
 
 [Data](articles/56c49797.json)
+
+[Extended Data](ext_articles/56c49797.ext.json)
 
 ---
 
@@ -108,6 +114,32 @@ Iran has pointed out that if there is no room for Chinese and Iranian relations.
 
 ---
 
+### Son arrested for targeting skulls
+
+*2024-01-26 15:00:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்டைகளை-குறிவைக்கும்-மகன்-கைது/76-332144) · `ta`
+
+The son has been arrested by the police for brutally assassinating his mother.
+
+The 67 -year -old mother of the two children, S. Sellamma, has been arrested in connection with the murder of Nawalapitiya police and has been arrested in connection with the murder of her mother's 41 -year -old son.
+
+The death investigation revealed that the suspect had suffered several injuries in his head and his ribs had been broken into 22 pieces.
+
+The father, who was severely injured when the suspect was hit by his father's head a few days ago, has lived in the house of his eldest daughter.
+
+The suspect attacked his wife on the 17th and his wife had taken the children and went to his mother's house, police said.
+
+The suspect, who lived with her mother, attacked her mother at the age of 16 at the age of 16 and that no one was concerned about her.
+
+He then went to Nawalapitiya area for personal work and returned home at 4 pm and was found dead inside his home.
+
+...
+
+[Data](articles/9900b5e7.json)
+
+[Extended Data](ext_articles/9900b5e7.ext.json)
+
+---
+
 ### Paying last respect
 
 *2024-01-26 14:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Paying-last-respect/110-275776) · `en`
@@ -117,6 +149,8 @@ Several Ministers and MPs including former President Mahinda Rajapaksa paying th
 ◼️
 
 [Data](articles/f42c8fbf.json)
+
+[Extended Data](ext_articles/f42c8fbf.ext.json)
 
 ---
 
@@ -247,6 +281,8 @@ Once again this year, the Kidella exhibition and trade fair kicked off at Colomb
 ◼️
 
 [Data](articles/474caa62.json)
+
+[Extended Data](ext_articles/474caa62.ext.json)
 
 ---
 
@@ -415,6 +451,28 @@ Accordingly, the President requested all political parties to create a comprehen
 [Data](articles/8eb067e2.json)
 
 [Extended Data](ext_articles/8eb067e2.ext.json)
+
+---
+
+### The Russian tolenitor of the train falls from the train
+
+*2024-01-26 13:08:22* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියේ-සෙල්ෆි-ගන්න-ගිය-රුසියානු-සංචාරිකාව-දුම්රියෙන්-වැටෙයි/11-407735) · `si`
+
+The Russian woman who was trying to take a photo while traveling from the train said the Ella Police have admitted to the Demodara Base Hospital with serious injuries.
+
+Russian nationalist Christenda Alakwana, a 25-year-old woman, has been injured in Sri Lanka.
+
+When she arrived in Hikkaduwa to one day tour, she was in danger.
+
+Police have revealed that her passports were placed at the hotel that stayed.
+
+The woman is due to be transferred to the Badulla General Hospital, hospital sources.Falls are investigating.
+
+◼️
+
+[Data](articles/209411a6.json)
+
+[Extended Data](ext_articles/209411a6.ext.json)
 
 ---
 
@@ -1107,6 +1165,30 @@ According to police, the saffron-robed monk had allegedly issued statements deme
 [Data](articles/e34709ed.json)
 
 [Extended Data](ext_articles/e34709ed.ext.json)
+
+---
+
+### Woman kills a woman in precipice
+
+*2024-01-26 10:35:04* · [`adalk`](https://www.ada.lk/breaking_news/ත්‍රි-රෝද-රථය-ප්‍රපාතයකට-පෙරලී-කාන්තාවක්-මරුට/11-407734) · `si`
+
+Koslanda Police said that five of the victims were admitted to the Wellawaya Base Hospital with a 30-foot precipice at the Koslanda Wellawaya main road.
+
+H.P.. The woman was killed by Champa Nilanthi Karunaratne (54).
+
+Driver Driving Driver Karunaratne with Driver Driver Kridhathne, GMTland Karunaratne, K.M.M.M.M.Maolia Damped, K.M.M. Police said that Akasha Karunaratne had been injured and admitted to hospital.
+
+The three-wheeler driver, who was involved in the accident, was transferred to Siriigala Hospital for further treatment.
+
+The three-wheeler was inaugurated in the Hivillendara in Hivillendara in the Hivillendadura area in Uvawella, Koslanda in Ratnapura.
+
+Police say six people have traveled six in the three-wheeler and the three-wheeler, who has been precipitated, police said.
+
+◼️
+
+[Data](articles/86d6ae50.json)
+
+[Extended Data](ext_articles/86d6ae50.ext.json)
 
 ---
 
@@ -2059,67 +2141,5 @@ The Indian media has reported that the application form for pilgrims attending t
 [Data](articles/0b7e0df5.json)
 
 [Extended Data](ext_articles/0b7e0df5.ext.json)
-
----
-
-### The government supports the dessert industry
-
-*2024-01-26 02:52:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இனிப்புப்-பண்டத்-தொழில்துறைக்கு-அரசாங்கம்-ஆதரவு/175-332127) · `ta`
-
-President Ranil Wickremesinghe has urged the government to support the sweets industry into the leading export sector.
-
-President Ranil Wickremesinghe said this at the 30th General Assembly of the Sri Lanka Sweet Producers Association held at the Cinnamon Grand Hotel, Colombo.
-
-The President also said that the government is planning to lease state -owned plantations for cultivation, including cocoa.
-
-He said that all the land belonging to the Gardens in Chilaw and Kurunegala areas and other land belonging to the Elkaduwa Plantation Company belonging to the Janata Plantation Development Board and the State Plantation Corporation have been taken.. (A)
-
-◼️
-
-[Data](articles/a064694b.json)
-
-[Extended Data](ext_articles/a064694b.ext.json)
-
----
-
-### US Ambassador expresses concern over OSB
-
-*2024-01-26 02:43:35* · [`dailyftlk`](https://www.ft.lk/news/US-Ambassador-expresses-concern-over-OSB/56-757774) · `en`
-
-Expresses dismay at legislation’s passage in Parliament by a majority vote
-
-Emphasises failure to incorporate important input from key stakeholders, including civil society and tech companies
-
-Claims overly restrictive legislation can hinder investment and development of a digital economy in SL
-
-US Ambassador to Sri Lanka Julie Chung took to X (formerly Twitter) yesterday to voice her concerns about the recently approved controversial Online Safety Bill and its potential impact.
-
-The US envoy in Colombo expressed dismay at the legislation’s passage in Parliament by a majority vote, emphasising the failure to incorporate important input from key stakeholders, including civil society and tech companies.
-
-...
-
-[Data](articles/cf66cd56.json)
-
-[Extended Data](ext_articles/cf66cd56.ext.json)
-
----
-
-### Export zones across the country
-
-*2024-01-26 02:42:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாடு-முழுவதிலும்-ஏற்றுமதி-வலயங்கள்/175-332126) · `ta`
-
-President Ranil Wickremesinghe has said that steps will be taken to create new investment zones across the country and improve the national economy ten times to benefit the open economy.
-
-President Ranil Wickremesinghe said this while attending the newly constructed Bodhi Mathil and Gold Valley inauguration in Sabukaskanda Abeesekerama.
-
-“The country has to increase the income of. That is why, unfortunately, to be charged. Now we are moving towards the positive economy instead of the negative economy.
-
-Create new industries and new investment opportunities and provide employment opportunities to people. We are currently trying to create a suitable environment. We are planning to increase the country's economic speed ten times by creating investment zones such as the Biyagama Investment Zone across the country. ”. (A)
-
-◼️
-
-[Data](articles/4ff31b47.json)
-
-[Extended Data](ext_articles/4ff31b47.ext.json)
 
 ---

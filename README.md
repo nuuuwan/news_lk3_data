@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 02:32:57**
+As of **2024-01-27 02:48:44**
 
 ## Newspaper Stats
 
-*Scraped **2,830** Articles*
+*Scraped **2,831** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 124
 islandlk | 151
 newsfirstlk | 155
 economynextcom | 168
-dailyftlk | 214
+dailyftlk | 215
 adaderanasinhalalk | 258
 adalk | 265
 virakesarilk | 300
@@ -26,11 +26,27 @@ dailymirrorlk | 393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,830 (100.0%) of 2,830 articles have been extended.
+2,830 (100.0%) of 2,831 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### NPP/JVP on 39% of all adults, ahead of SJB, SLPP
+
+*2024-01-27 02:02:10* · [`dailyftlk`](https://www.ft.lk/news/NPP-JVP-on-39-of-all-adults-ahead-of-SJB-SLPP/56-757833) · `en`
+
+The latest estimates from IHP’s revised SLOTS MRP model (revised 01/2024) show that the NPP/JVP maintains a lead in General Election voting intent with 39% of Sri Lankan adults in December 2023.
+
+This was significantly ahead of the SJB on 27%, the SLPP on 10%, the UNP on 6%, and ITAK and SLMC on 3% each. The December estimates are provisional and are associated with a margin of error of 2.0–3.5% for the four leading parties.
+
+The revised IHP SLOTS model estimates reveal more clearly that the current NPP/JVP lead is based on a continuous rise in support since early 2022. The SJB has also increased its support, but a slower pace, lying in second place since mid-2022. The December 2023 estimates also confirm a decline in support for the UNP since July 2023, with SLPP support holding steady.
+
+...
+
+[Data](articles/cc8b1f17.json)
+
+---
 
 ### SL holds first ever single country exhibition in Brazil
 
@@ -2013,23 +2029,5 @@ She is therefore facing charges of possessing a controlled wild animal without p
 [Data](articles/48246248.json)
 
 [Extended Data](ext_articles/48246248.ext.json)
-
----
-
-### SC begins hearing of more than 20 petitions against Anti-Terrorism Bill
-
-*2024-01-26 12:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96742/sc-begins-hearing-of-more-than-20-petitions-against-anti-terrorism-bill) · `en`
-
-Hearing of petitions filed against the government’s new Anti-Terrorism Bill got underway before a five-member Supreme Court judge bench this morning (Jan.26).
-
-Chief Justice Jayantha Jayasuriya and Justices A.H.M.D. Nawaz, Shiran Gunaratne and Arjuna Obeysekera sat for the petition hearing.
-
-At least 27 petitions have been put forward against the proposed legislation which seeks to replace the controversial Prevention of Terrorism Act (PTA). Among the petitioners are His Eminence Malcolm Cardinal Ranjith, General Secretary of Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara, National People’s Power (NPP) MP Vijitha Herath, Centre for Policy Alternatives (CPA), Socialist Youth Union (SYU), Duminda Nagamuwa of Frontline Socialist Party (FSP) and the Ceylon Teachers’ Union (CTU).
-
-...
-
-[Data](articles/d8ae44c5.json)
-
-[Extended Data](ext_articles/d8ae44c5.ext.json)
 
 ---

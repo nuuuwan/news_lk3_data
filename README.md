@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 16:48:09**
+As of **2024-01-26 17:02:16**
 
 ## Newspaper Stats
 
-*Scraped **2,755** Articles*
+*Scraped **2,761** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,90 @@ islandlk | 151
 newsfirstlk | 154
 economynextcom | 163
 dailyftlk | 202
-adaderanasinhalalk | 243
+adaderanasinhalalk | 245
 adalk | 261
 virakesarilk | 296
 adaderanalk | 345
 tamilmirrorlk | 349
-dailymirrorlk | 375
+dailymirrorlk | 379
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,755 (100.0%) of 2,755 articles have been extended.
+2,755 (99.8%) of 2,761 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### Election Commission notified of vacancy in parliamentary seat
+
+*2024-01-26 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Election-Commission-notified-of-vacancy-in-parliamentary-seat/108-275783) · `en`
+
+Parliament, Jan. 26 (Daily Mirror)- The Chief of Staff and the Deputy Secretary General of Parliament Chaminda Kularatne, on behalf of Secretary General of Parliament Kushani Rohanadeera, has informed the Chairman of the Election Commission in a letter that a Parliamentary seat has fallen vacant from 25 January 2024, following the demise of Puttalam District Member of Parliament Sanath Nishantha, the Parliament Media Division said.
+
+The Deputy Secretary General has further mentioned that this notification is made in terms of Section 64(1) of the Parliamentary Elections Act No. 1 of 1981. The name of the new members who is to fill the vacancy has to be gazetted by the Election Commission as per the act. The new member can be sworn in once his name is gazetted.
+
+The vacancy created by the demise of the State Minister is to be filled by Jagath Priyankara who represents the Jathika Nidahas Peramuna led by MP Wimal Weerawansa. Accordingly, the government will lose one seat.
+
+◼️
+
+[Data](articles/2c43e75d.json)
+
+---
+
+### පාර්ලිමේන්තු වාර අවසන් කෙරේ
+
+*2024-01-26 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192594) · `si`
+
+අද (26) මධ්‍යම රාත්‍රියේ සිට ක්‍රියාත්මක වන පරිදි පාර්ලිමේන්තු වාර අවසාන කර තිබේ.
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් නිකුත් කළ ගැසට් නිවේදනයක් මඟාන් පාර්ලිමේන්තුව වාර අවසාන කර ඇති අතර එහි දැක්වෙන්නේ ආණ්ඩුක්‍රම ව්‍යවස්ථාවේ 70 වැනි ව්‍යවස්ථාවෙන් තමා වෙත පැවරී ඇති බලතල ප්‍රකාරව මෙලෙස පාර්ලිමේන්තු වාර අවසාන කරන බවය.
+
+ඒ අනුව පාර්ලිමේන්තුවේ මීළඟ වාරය පෙබරවාරි 7 වැනිදා පෙරවරු 10.30ට ආරම්භ වන බව ජනාධිපතිවරයා සිය ගැසට් නිවේදනය මඟින් දක්වා තිබේ.
+
+◼️
+
+[Data](articles/40f353f9.json)
+
+---
+
+### පාකිස්තානයේ ඝාතන දෙකක් - චෝදනාව ඉන්දියාවට
+
+*2024-01-26 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192593) · `si`
+
+පාකිස්තානය තුළදී ඉන්දීය නියෝජිතයින් විසින් පාකිස්තාන ජාතිකයින් දෙදෙනෙක් ඝාතනය කර ඇතැයි පාකිස්තානය චෝදනා කරයි.
+
+නමුත් 2023 වසරේදී වාර්තා වූ එම ඝාතන සම්බන්ධයෙන් වූ චෝදනාව ඉන්දියාව ප්‍රතික්ෂේප කරයි.
+
+ඒ සික් ජාතිකයෙක් ඝාතනය කිරීම හේතුවෙනි. එම චෝදනාව ද ඉන්දියාව ප්‍රතික්ෂේප කර තිබුණි.
+
+පාකිස්තාන බලධාරීන් පවසන්නේ රාවලාකොට් සහ සියල්කොට් නගරවලදී 2023 සැප්තැම්බර් සහ ඔක්තෝබර් මාසවල සිදුකර තිබූ ඝාතන දෙක සඳහා ඉන්දීය නියෝජිතයින් සම්බන්ධ බවට ඔවුන් සතුව පැහැදිලි සාක්ෂි ඇති බවයි.
+
+◼️
+
+[Data](articles/f5189ac3.json)
+
+---
+
+### Unite for discussion with IMF on alternative proposals: President urges political parties
+
+*2024-01-26 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Unite-for-discussion-with-IMF-on-alternative-proposals-President-urges-political-parties/108-275782) · `en`
+
+Colombo, Jan. 26 (Daily Mirror)- President Ranil Wickremesinghe extended an invitation to all political party leaders in the Parliament to engage in discussions with the Managing Director of the International Monetary Fund (IMF) on the implementation of the agreement with the IMF, the President's Media Division (PMD) said.
+
+Emphasizing the importance of unity in leading the country to success, he highlighted that withdrawing from the agreement would jeopardize the trust in Sri Lanka's economy.
+
+The President stressed that the nation's economy suffered due to the politics of promises, emphasizing the need for all political parties to formulate comprehensive plans for the country's development when gearing up for an election.
+
+President Ranil Wickremesinghe made these remarks during the International Customs Day celebrations at the Colombo Customs Headquarters this morning.
+
+...
+
+[Data](articles/19f12497.json)
+
+---
 
 ### Petition to the Supreme Court regarding taxes
 
@@ -47,6 +115,26 @@ The officials of the Department, the Secretary of the Ministry of Finance, the S
 [Data](articles/db6766f7.json)
 
 [Extended Data](ext_articles/db6766f7.ext.json)
+
+---
+
+### Hotel accountant arrested for soliciting sexual bribe from female employee
+
+*2024-01-26 15:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hotel-accountant-arrested-for-soliciting-sexual-bribe-from-female-employee/108-275780) · `en`
+
+Kekirawa, Jan 26 (Daily Mirror) - The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) conducted the first crackdown on bribery in the private sector under the powers conferred by the new Anti-Corruption Act.
+
+The Commission said that the Anti-Corruption Act No. 09 of 2023 has empowered the Bribery Commission to address bribery in the private sector, overriding powers that previously applied only to bribery or corruption in the public sector.
+
+Accordingly, the first raid on a bribery offense in the private sector was conducted on Friday (26) by officials with the approval of the Commission.
+
+They arrested an accountant, who is also the Human Resources Manager of a private hotel, for allegedly soliciting a sexual bribe from a female employee.
+
+The arrest was made based on a complaint filed by a resident of Mahavilacchiya.
+
+...
+
+[Data](articles/d550ca2c.json)
 
 ---
 
@@ -177,6 +265,18 @@ He then went to Nawalapitiya area for personal work and returned home at 4 pm an
 [Data](articles/9900b5e7.json)
 
 [Extended Data](ext_articles/9900b5e7.ext.json)
+
+---
+
+### Paying last respects
+
+*2024-01-26 14:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Paying-last-respects/110-275776) · `en`
+
+Several Ministers and MPs including former President Mahinda Rajapaksa paying their last respects to State Minister Sanath Nishantha while his remains lie in state at a private funeral parlour in Borella. The remains will be taken to Arachchikattuwa today for the last rites to be held on Sunday. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/cb251698.json)
 
 ---
 
@@ -2009,143 +2109,5 @@ The suspect was to be produced by the Kalutara Magistrate's eraction under accus
 [Data](articles/30e52e9c.json)
 
 [Extended Data](ext_articles/30e52e9c.ext.json)
-
----
-
-### Prevailing dry weather likely to change from tomorrow
-
-*2024-01-26 06:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96732/prevailing-dry-weather-likely-to-change-from-tomorrow) · `en`
-
-The prevailing dry weather condition in the Northern, North-central, Eastern and Uva provinces is expected to change from tomorrow onwards, says the Department of Meteorology.
-
-There is a possibility of ground frost at some places in Nuwara-Eliya district during the early hours of the morning.
-
-Misty conditions can be expected at some places in Central, Sabaragamuwa, Western and Uva provinces and Galle and Matara districts during the morning.
-
-Mainly fair weather will prevail in the sea areas around the island.
-
-Winds will be north-easterly and wind speed will be 25-35 kmph.
-
-Wind speed may increase up to 40-50 kmph at times in the sea areas off the coasts extending from Colombo to Kankesanturai via Puttalam and Mannar and from Galle to Pottuvil via Hambantota.
-
-The sea areas off the coasts from Colombo to Kankesanturai via Puttalam and Mannar and from Galle to Pottuvil via Hambantota can be rough at times.
-
-◼️
-
-[Data](articles/fc9a9328.json)
-
-[Extended Data](ext_articles/fc9a9328.ext.json)
-
----
-
-### Sri Lankans with forged Italian resident cards nabbed at BIA
-
-*2024-01-26 05:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankans-with-forged-Italian-resident-cards-nabbed-at-BIA/108-275727) · `en`
-
-BIA, Jan 26 (Daily Mirror) - The Immigration and Emigration Department officials at the Bandaranaike International Airport (BIA) searched two Sri Lankan men bound for Dubai on suspicion yesterday and found forged Italian resident visa cards in their possession.
-
-The immigration officials stationed at the BIA departure terminal detained two males who were about to leave for Dubai last evening and handed them over to the Border Surveillance Unit (BSU) for further inquiries.
-
-Although the passengers had genuine Sri Lankan passports the officials out of suspicion searched the men to find two other Sri Lankan passports in their baggage, which were forged along with two fake Italian resident cards.
-
-A senior immigration official told the Daily Mirror the suspects had reportedly received the forged travel documents from an unidentified person outside the airport prior to their travel yesterday. The suspects who were aged 43 and 23 had been identified as residents of Jaffna and Puthukkudiyirrippu.
-
-...
-
-[Data](articles/6b9dac96.json)
-
-[Extended Data](ext_articles/6b9dac96.ext.json)
-
----
-
-### 'How I Write': Anurasiri Hettige
-
-*2024-01-26 04:27:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4ndl7jm9exo) · `si`
-
-Reader reviewer is a shorter one as a novelist of Anurasiri Hettige.
-
-His novels that his novels are moving to various software and touching human life and the world appear to be aesthetically touching human life and the world.
-
-I talk to him with the objective of understanding his feelings and writing when he joined him as a novelist.
-
-The questions I hear in this discussion is currently published by I have expressed the 'history of Nimna' (2019) and the novels of this secret wind.
-
-It is well known for all writer's writing process.
-
-Where writing, writing, writing, how to write, the writing of the coffee, belong to the writer's abundance.
-
-The conversation is seeking to pointer to that secret site of the newcomers.
-
-The first conversation - 'How to write': 'How I Write': 'How I'm writing': Dariyana Amarasinghe
-
-Easice: As usual, I ask you how to hear the first sentences in your novels. Can you say something about your novels?
-
-...
-
-[Data](articles/444f54d6.json)
-
-[Extended Data](ext_articles/444f54d6.ext.json)
-
----
-
-### Sri Lanka’s financial crisis: Strategies for coping and thriving
-
-*2024-01-26 03:30:12* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-s-financial-crisis-Strategies-for-coping-and-thriving/4-757788) · `en`
-
-People struggle to make ends meet due to rising costs of living and high taxes
-
-Sri Lanka is currently facing a severe economic crisis, with many people struggling to make ends meet due to rising costs of living and high taxes. This is causing a strain on businesses, individuals, and senior citizens alike.
-
-Several factors have contributed to Sri Lanka’s economic woes, including:
-
-High levels of debt: The country’s foreign debt burden has ballooned in recent years, making it difficult to meet financial obligations.
-
-Rising inflation: The cost of essential goods and services has steadily increased, outpacing wage growth and eroding purchasing power.
-
-Currency depreciation: The Sri Lankan rupee has weakened significantly against major currencies, making imports more expensive.
-
-Reduced tourism: The COVID-19 pandemic dealt a severe blow to Sri Lanka’s vital tourism industry, a major source of foreign income.
-
-...
-
-[Data](articles/e761dbfd.json)
-
-[Extended Data](ext_articles/e761dbfd.ext.json)
-
----
-
-### The economy is affected by high definitions
-
-*2024-01-26 03:22:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிக-வரையறைகளால்-பொருளாதாரத்துக்கு-பாதிப்பு/175-332130) · `ta`
-
-US Ambassador to Sri Lanka Julie Sung said that Sri Lanka's economic development will be affected by vague laws that will impose more definitions.
-
-He also warned that they would affect investments and digital economic development.
-
-He posted this on the social website about the e -mail security bill passed in Parliament.
-
-US Ambassador to Sri Lanka Julie Sung said that this amendment threatens freedom, innovation and privacy and that the major issues put forward by the major parties, including civil society and technology institutions.. (A)
-
-◼️
-
-[Data](articles/5dd2976a.json)
-
-[Extended Data](ext_articles/5dd2976a.ext.json)
-
----
-
-### Youth death
-
-*2024-01-26 03:20:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடாவெல்ல-கடலில்-மூழ்கி-இளைஞர்-மரணம்/175-332129) · `ta`
-
-A youth who was drowned in the sea near the Kudavella fishing harbor in Hambantota has drowned.
-
-The disaster occurred at around 2.30 pm yesterday at the Kudavella Sea, police said that the disaster occurred.. (A)
-
-◼️
-
-[Data](articles/6d5c9833.json)
-
-[Extended Data](ext_articles/6d5c9833.ext.json)
 
 ---

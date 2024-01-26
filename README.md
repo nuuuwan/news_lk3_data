@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 13:02:12**
+As of **2024-01-26 13:17:02**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 371
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,715 (99.8%) of 2,720 articles have been extended.
+2,720 (100.0%) of 2,720 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ A spokesperson of the railway station stated that the suspension of electricity 
 
 [Data](articles/5b002cf6.json)
 
+[Extended Data](ext_articles/5b002cf6.ext.json)
+
 ---
 
 ### Minister Sanath Nishantha's body to take away to Arachchikattuwa
@@ -64,21 +66,23 @@ Our correspondent said that the remains held at the Borella Ravad Flower of Colo
 
 ---
 
-### நிகழ்நிலை பாதுகாப்பு சட்டம் : நீதிமன்றம் முன்வைத்த திருத்தங்களை அரசாங்கம் உள்வாங்கவில்லை - ஐக்கிய மக்கள் சக்தி
+### City Protection Act: The government does not embrace the amendments made by the court - the United People's Power
 
 *2024-01-26 12:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/174831) · `ta`
 
-சபாநாயகர் நிகழ்நிலைபாதுகாப்பு சட்டத்திற்கு தனது அங்கீகாரத்தை வழங்குவதற்கு முன்னர் கட்சி தலைவர்களின் கூட்டத்தை கூட்டவேண்டும் என ஐக்கிய மக்கள் சக்தி வேண்டுகோள் விடுத்துள்ளது.
+The United People's Power has appealed to the meeting of party leaders before the Speaker gives its approval to the Savior Safety Act.
 
-உயர்நீதிமன்றம் முன்வைத்த திருத்தங்கள்  சிலவற்றை அரசாங்கம் உள்வாங்கவில்லை என்பதால்  நிகழ்நிலை பாதுகாப்பு சட்டம் தொடர்பில் சபாநாயகர் கட்சிதலைவரின் கூட்டத்தினை கூட்டவேண்டும் என வேண்டுகோள் விடுக்க தீர்மானித்துள்ளதாக ஐக்கியமக்கள் சக்தியின் ஹர்சனராஜகருண தெரிவித்துள்ளார்.
+The United Nations Shakti has decided to request a meeting of the Speaker's party leader on the issue of protection law, as the government has not taken up some of the amendments made by the Supreme Court.
 
-உயர்நீதிமன்றம் முன்வைத்த பரிந்துரைகளை நிகழ்நிலை பாதுகாப்பு சட்டம் உள்வாங்கவில்லை என்பதால் சபாநாயக அந்த சட்டத்தினை அங்கீகரிக்க கூடாது எனவும் ஐக்கிய மக்கள் சக்தி நாடாளுமன்ற உறுப்பினர் தெரிவித்துள்ளார்.
+The United People's Power MP has said that the Speaker should not approve the law as the Supreme Court's recommendations have not been enacted.
 
-உரிய திருத்தங்களை முன்னெடுக்காமல் சபாநாயகர் தனது அனுமதியை வழங்கினால் நீதித்துறைக்கும் சட்டவாக்கத்திற்கும் இடையில் மோதல் ஏற்படலாம்  எனவும் அவர் தெரிவித்துள்ளார்.
+He also said that if the Speaker grants his permission without the appropriate amendments, there may be a conflict between the judiciary and the legislation.
 
 ◼️
 
 [Data](articles/2dc5d63b.json)
+
+[Extended Data](ext_articles/2dc5d63b.ext.json)
 
 ---
 
@@ -96,25 +100,29 @@ The injured tourists were admitted to the Colombo North Teaching Hospital where 
 
 [Data](articles/7f169d45.json)
 
+[Extended Data](ext_articles/7f169d45.ext.json)
+
 ---
 
-### கொள்ளைச் சம்பவம் தொடர்பில் முறைப்பாடு செய்த நெல்லியடி இளைஞன் மீது வாள் வெட்டு!
+### Sword cut on youth of Nelliyadi
 
 *2024-01-26 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/174829) · `ta`
 
-கொள்ளைச் சம்பவம் தொடர்பில் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்த பின்னர் வீடு திரும்பிக் கொண்டிருந்த இளைஞனை வீதியில் வழி மறித்து சிலர் அவர் மீது வாள் வெட்டுத் தாக்குதலை நடத்தியுள்ளனர்.
+After lodging a complaint at the police station, a young man who was returning home was on the street and some people attacked him.
 
-யாழ்ப்பாணம் வடமராட்சி பகுதியை சேர்ந்த ஜெயக்கொடி கார்தீபன் (30)  எனும் இளைஞனே தாக்குதலுக்கு இலக்கான நிலையில் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+Jayakody Kardiban, 30, from Vadamarachchi, Jaffna, has been admitted to the hospital with the attacker.
 
-குறித்த இளைஞன் நேற்று (25) மாலை  ஐஸ்கிறீம் விற்பனையில்  ஈடுபட்டிருந்த போது , மோட்டார் சைக்கிளில் வந்த இரு இளைஞர்கள், ஐஸ் கிறீம் வாங்குவது போல நடித்து  இளைஞனிடமிருந்த  பணம் , மற்றும் கைத்தொலைபேசி என்பவற்றை கொள்ளையடித்து சென்றனர்.
+While the young man was engaged in the sale of ice cream yesterday evening, two youths on a motorbike pretended to buy ice cream and robbed the young man's money and cell phone.
 
-இது தொடர்பில் நெல்லியடி பொலிஸ் நிலையத்தில் இளைஞன் முறைப்பாடு செய்த பின்னர்  வீடு  திரும்பிக் கொண்டிருந்த போது, அல்வாய் பகுதியில் இளைஞனை வழிமறித்த சிலர் வாள் வெட்டுத் தாக்குதலை மேற்கொண்டு விட்டு தப்பி சென்றுள்ளனர்.
+While returning home after a youth lodged a complaint at the Nelliyadi police station, some people who had led the youth in the Alwai area had fled the sword.
 
-இதனையடுத்து காயமடைந்த இளைஞன் வைத்தியசாலையில் சிகிச்சை பெற்று வரும் நிலையில், நெல்லியடி பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+Nelliyadi police are conducting investigations as the injured youth is being treated at the hospital.
 
 ◼️
 
 [Data](articles/e1f610f3.json)
+
+[Extended Data](ext_articles/e1f610f3.ext.json)
 
 ---
 
@@ -157,6 +165,8 @@ She is therefore facing charges of possessing a controlled wild animal without p
 ...
 
 [Data](articles/fd6decd0.json)
+
+[Extended Data](ext_articles/fd6decd0.ext.json)
 
 ---
 

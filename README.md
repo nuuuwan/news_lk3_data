@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 16:03:12**
+As of **2024-01-26 16:17:06**
 
 ## Newspaper Stats
 
-*Scraped **2,753** Articles*
+*Scraped **2,754** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 151
 newsfirstlk | 154
 economynextcom | 163
 dailyftlk | 202
-adaderanasinhalalk | 242
+adaderanasinhalalk | 243
 adalk | 261
 virakesarilk | 296
 adaderanalk | 344
@@ -26,11 +26,27 @@ dailymirrorlk | 375
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,753 (100.0%) of 2,753 articles have been extended.
+2,753 (100.0%) of 2,754 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### බදු නොගෙවූ මත්පැන් සමාගම් ගැන ශ්‍රේෂ්ඨාධිකරණයට පෙත්සමක්
+
+*2024-01-26 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192592) · `si`
+
+සුරා බදු ගෙවීම පැහැර හල මත්පැන් නිෂ්පාදන සමාගම් සඳහා නිකුත් කළ බලපත්‍ර අත්හිටුවීමේ නියෝගයක් නිකුත් කරන ලෙසත් මේ වනවිට පැහැර හැර ඇති සුරා බදු මුදල් එම සමාගම්වලින් අයකර ගැනීමේ නියෝගයක් සුරා බදු කොමසාරිස් ජෙනරාල්වරයා වෙත නිකුත් කරන ලෙසත් ඉල්ලමින් ශ්‍රේෂ්ඨාධිකරණය හමුවේ මූලික අයිතිවාසිකම් පෙත්සමක් ගොනුකර තිබේ.
+
+සමාජ ක්‍රියාකාරිකයෙකු වන සංජය මහවත්ව ඇතුළු පිරිසක් විසින් පෙත්සම ඉදිරිපත් කළේය.
+
+එහි වග උත්තරකරුවන් ලෙස සුරා බදු කොමසාරිස් ජෙනරාල්වරයා ඇතුළු එම දෙපාර්තමේන්තුවේ නිලධාරීන්, මුදල් අමාත්‍යාංශයේ ලේකම්වරයා, මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලා පිටිය, ඇතුළු පිරිසක් නම් කර තිබේ.
+
+◼️
+
+[Data](articles/db6766f7.json)
+
+---
 
 ### Historical death sentence
 
@@ -2121,25 +2137,5 @@ Unless there is a major political predicament, the Presidential elections will b
 [Data](articles/416ab1c4.json)
 
 [Extended Data](ext_articles/416ab1c4.ext.json)
-
----
-
-### 8,000 permission for the Kachchativu festival
-
-*2024-01-26 03:02:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கச்சதீவு-திருவிழாவுக்கு-8-000-பேருக்கு-அனுமதி/175-332128) · `ta`
-
-It has been announced that devotees of Tamil Nadu will be able to apply for the St. Anthony's Temple Festival.
-
-The Kachchativu St. Anthony's Temple Festival will be held on the 23rd and 24th of next month.
-
-A total of 8 thousand people from Sri Lanka and 4 thousand from Tamil Nadu have been allowed to attend the festival.
-
-The Indian media has reported that the application form for pilgrims attending the Kachchativu festival can be issued from yesterday to February 6, the Rameshwaram St.. (A)
-
-◼️
-
-[Data](articles/0b7e0df5.json)
-
-[Extended Data](ext_articles/0b7e0df5.ext.json)
 
 ---

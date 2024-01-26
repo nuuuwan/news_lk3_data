@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 09:02:34**
+As of **2024-01-26 09:17:18**
 
 ## Newspaper Stats
 
-*Scraped **2,666** Articles*
+*Scraped **2,667** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 202
 adaderanasinhalalk | 228
 adalk | 255
 virakesarilk | 286
-adaderanalk | 332
+adaderanalk | 333
 tamilmirrorlk | 338
 dailymirrorlk | 361
 
@@ -26,31 +26,35 @@ dailymirrorlk | 361
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,663 (99.9%) of 2,666 articles have been extended.
+2,666 (100.0%) of 2,667 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### බෙලිඅත්ත පංච පුද්ගල ඝාතනයට තවත් සැකකරුවන් දෙදෙනෙක් අත්අඩංගුවට
+### Two suspects arrested for murder Beliatta
 
 *2024-01-26 08:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192575) · `si`
 
-බෙලිඅත්ත පංච පුද්ගල ඝාතනය සම්බන්ධයෙන් සිදු කෙරෙන විමර්ශනවලට අදාළව ඝාතනයට ආධාර අනුබල දීමේ චෝදනා යටතේ සැකකරුවන් දෙදෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Two suspects have been arrested under the allegations of supporting the murder of Beliatta.
 
-මෙම පුද්ගයින් දෙදෙනා හෙරොයින් සමග ගාල්ල වංචාවල ප්‍රදේශයේදී පොලිස් විශේෂ කාර්ය බළකායේ අත්අඩංගුවට පත්වී ඇත.
+The two persons have arrested the police STF in the Galle Sakrawala area with heroin with heroin.
 
-අපේ ජනබල පක්ෂයේ නායක සමන් පෙරේරා නොහොත් රෝයල් බීච් සමන් ඇතුළු පුද්ගලයින් පස්දෙනෙකු මෙම වෙඩිතැබීමෙන් ඝාතනයට ලක්වුණි.
+Five people including our fartune member of our fartune member Saman Perera alias Royal Beach Saman were murdered by the shooting.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ගාල්ල ප්‍රදේශයේ පදිංචි වයස අවුරුදු 25ක් සහ 35ක් වන පුද්ගලයින් දෙදෙනෙකි.
+The arrested were 25 and 35 years of resident of Galle.
 
-අත්අඩංගුවට ගන්නා අවස්ථාවේදී ඔවුන් සතුව හෙරොයින් ග්‍රෑම් 09යි  මිලි ග්‍රෑම් 300 ක්, යතුරුපැදියක්, ජංගම දුරකථන 03ක් සහ උල් පිහියක් තිබී සොයාගෙන ඇත.
+At the time of the arrest, they had found 9 g of heroin and 300 milligrans, a motorbike, three mobile phones and a match.
 
-සැකකරුවන් වැඩිදුර විමර්ශන කටයුතු සඳහා ගාල්ල වරාය පොලිස් ස්ථානයට භාරදී ඇත.
+The suspects have been handed over to the Galle Harbor Police for further investigations.
 
-...
+The suspects were also attacked by the Tangalle Urasgoda Pepami to kill the five persons including the Tangalle Pig ෙන් na.It is also reported that these suspects have been revealed that the murder contract has been uncovered.
+
+◼️
 
 [Data](articles/d6f87455.json)
+
+[Extended Data](ext_articles/d6f87455.ext.json)
 
 ---
 
@@ -74,25 +78,47 @@ The duo, aged 25 and 35 years, have been handed over to the Galle Harbour Police
 
 ---
 
-### සනත් නිශාන්ත සිටි රථය ධාවනය වූ වේගය ගැන හෙළිවෙයි
+### Two more suspects under arrest over Beliatta mass shooting
+
+*2024-01-26 08:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96733/two-more-suspects-under-arrest-over-beliatta-mass-shooting) · `en`
+
+Two more individuals have been arrested for allegedly aiding and abetting the mass shooting in Beliatta in which five people were killed earlier this week.
+
+The arrest was made by the Police Special Task Force (STF) in Wanchawala and Megalle areas in Galle on Thursday (Jan.25).
+
+STF officers have also found 9 grams and 300 milligrams of heroin on the suspects.
+
+The duo, aged 25 and 35 years, have been handed over to the Galle Harbour Police for onward investigations.
+
+◼️
+
+[Data](articles/ce4aacdf.json)
+
+---
+
+### Sanath Nishantha reveals
 
 *2024-01-26 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192574) · `si`
 
-රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාට මරු කැඳවූ රිය අනතුර සම්බන්ධයෙන් එම රථය පැදවූ රියදුරා පොලීසියට කරුණු හෙළිකර තිබේ.
+The driver of the vehicle has revealed the police regarding the accident that was killed by State Minister Sanath Nishantha.
 
-ඒ අනුව රියරුදු ප්‍රභාත් එරංග පොලීසිය හමුවේ පාපොච්චාරණය කර ඇත්තේ,
+The Rrilevil Eranga Police have confessed to police
 
-"අපි පුළුවන් තරම් ඉක්මනට කොළඹ එන්න බලාගෙන ආවේ. ඒ වෙනකොට ඇමතිතුමාට නින්ද ගිහින් හිටියේ. හයිවේ එකේදී ඉස්සරහින් ගිය කාර් එක මම වම් පැත්තෙන් ඉස්සර කළා. ආපහු ජීප් එක දකුණු පැත්තේ මංතීරුවට ගන්න හදද්දී ඉස්සරහින් ගිය කන්ටේනර් එකේ හැප්පුණා. ජීප් එක කන්ට්‍රොල් නැතුව ගිහින් වැටේ හැප්පිලා නතර වුණා."
+"We watched Colombo as soon as possible. The Minister was sleeping at the time. The car in front of the highway was on the left side of I. When trying to get the jeep back to the right side, the container was hit by the first container. The jeep stopped without the fall. "
 
-විමර්ශනවලින් හෙළිවී ඇති අන්දමට මෙම අනතුර සිදුවන අවස්ථාවේ ජීප් රථය පැයට කිලෝමීටර් 160 ඉක්මවූ වේගයකින් ධාවනය කර ඇති බවද මාධ්‍ය වාර්තා පළවෙයි.
+Investigations have revealed that the jeep had been driven out of 160 km per hour at the time of the accident.
 
-අනතුරෙන් රාජ්‍ය අමාත්‍යවරයාගේ හිසට සහ දකුණු කකුලට බරපතළ තුවාල සිදුවී තිබූ බව රෝහල් ආරංචි මාර්ග පවසයි.
+Hospital sources say that the head of the State Minister and the South had been injured in the accident.
 
-මේ අතර, "මට මාරක අපල තියෙනවා කියලා හඳහන බලපු ජ්‍යොතිෂවේදියෙක් කිව්වා" යැයි කටුනායක අධිවේගී මාර්ගයේ වූ මාරක රිය අනතුරින් ජීවිතක්ෂයට පත්වූ රාජ්‍ය ඇමැති සනත් නිශාන්ත මීට දින කිහිපයකට පෙර මාධ්‍යවේදීන් සමග පැවැති සුහද හමුවකදී ප්‍රකාශ කර ඇති බවද වාර්තා වෙයි.
+"I have been killed in a group of crowdial influence," reports say that "Minister of State Minister Sanath Nishantha, who was killed in a crisis on the Katunayake Expressway, has said.
+
+The State Minister smiled and said that a relative said, "You can't kill you," he said.. "And as well as I still live today."The State Minister has said.
 
 ...
 
 [Data](articles/ba00349c.json)
+
+[Extended Data](ext_articles/ba00349c.ext.json)
 
 ---
 
@@ -282,17 +308,19 @@ Reduced tourism: The COVID-19 pandemic dealt a severe blow to Sri Lanka’s vita
 
 ---
 
-### குடாவெல்ல கடலில் மூழ்கி இளைஞர் மரணம்
+### Youth death
 
 *2024-01-26 03:20:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/குடாவெல்ல-கடலில்-மூழ்கி-இளைஞர்-மரணம்/175-332129) · `ta`
 
-அம்பாந்தோட்டை, குடாவெல்ல மீன்பிடித் துறைமுகத்தை அண்மித்து கடலில் குளிக்கச் சென்ற இளைஞர் ஒருவர் நீரில் மூழ்கி உயிரிழந்துள்ளார்.
+A youth who was drowned in the sea near the Kudavella fishing harbor in Hambantota has drowned.
 
-குடாவெல்ல கடலில் ஐவர் நேற்றுப் பிற்பகல் 2.30 மணியளவில் குளிக்கச் சென்றபோதே இந்த அனர்த்தம் இடம்பெற்றுள்ளது என்றும் பொலிஸார் தெரிவித்துள்ளனர். (a)
+The disaster occurred at around 2.30 pm yesterday at the Kudavella Sea, police said that the disaster occurred.. (A)
 
 ◼️
 
 [Data](articles/6d5c9833.json)
+
+[Extended Data](ext_articles/6d5c9833.ext.json)
 
 ---
 
@@ -1991,35 +2019,5 @@ This incident comes a day after a Buddhist monk was shot dead by four unidentifi
 [Data](articles/4d084cb7.json)
 
 [Extended Data](ext_articles/4d084cb7.ext.json)
-
----
-
-### A sleeve of vital sinning
-
-*2024-01-25 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192552) · `si`
-
-Nawalapitiya Police have arrested a 41-year-old son, who was assassinated by the 67-year-old breaks of the ribs.
-
-The victims were assassinated in the Bohilwala Upstairs of Nawalapitiya. It is a mother of two, two, two, two, two.
-
-Multiple wounds in the inside of the mother's head by the assault of their youngest son and two ribs
-
-Specialist Judicial Medical Dr. Ruchira Nadeera had been revealed at the post mortem examination that had been broken.
-
-The father had already moved to his elder daughter at the homes of his elder daughter due to the suspect before he had previously wounded his father.
-
-The suspect's son was assaulted by his wife on the 17th, and she had gone to her home.
-
-The suspect had then been home for about a year with his mother and then disputes with the mother
-
-Saying that he sent to hire from the age of the age to the hire and was not investigated.
-
-Accordingly, about eight am the attack and put his mother in the house on the 20th and cover the door
-
-...
-
-[Data](articles/82d69253.json)
-
-[Extended Data](ext_articles/82d69253.ext.json)
 
 ---

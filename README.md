@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 21:51:37**
+As of **2024-01-26 22:03:35**
 
 ## Newspaper Stats
 
-*Scraped **2,803** Articles*
+*Scraped **2,805** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adaderanasinhalalk | 256
 adalk | 265
 virakesarilk | 300
 tamilmirrorlk | 350
-adaderanalk | 354
+adaderanalk | 356
 dailymirrorlk | 386
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,803 (100.0%) of 2,803 articles have been extended.
+2,805 (100.0%) of 2,805 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
+
+### State Minister Sanath Nishantha’s security officer posthumously promoted
+
+*2024-01-26 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/96756/state-minister-sanath-nishanthas-security-officer-posthumously-promoted) · `en`
+
+The Police Constable attached to the Ministerial Security Division (MSD), who was killed in the fatal crash along with State Minister Sanath Nishantha while on duty, has been posthumously promoted.
+
+Accordingly, Police Constable Anuradha Jayakody was posthumously promoted to the rank of Sergeant, the Police Media Division said.
+
+◼️
+
+[Data](articles/6309d42c.json)
+
+[Extended Data](ext_articles/6309d42c.ext.json)
+
+---
+
+### Sanath Nishantha’s driver remanded
+
+*2024-01-26 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96755/sanath-nishanthas-driver-remanded) · `en`
+
+The driver of late State Minister Sanath Nishantha, who was arrested over crash that claimed the politician’s life, has been remanded by the Welisara Magistrate’s Court.
+
+The state minister’s driver, who is still undergoing treatment at the Ragama Hospital, has been ordered to be remanded in custody until 05 February by the magistrate.
+
+Earlier today, the police recorded a statement from the driver in question, who drove the vehicle belonging to late State Minister which was involved in the accident that killed the lawmaker and his security guard on Thursday morning (Jan.25). He had reportedly detailed the moment when the fatal collision had occurred, to the police officers.
+
+...
+
+[Data](articles/b001e345.json)
+
+[Extended Data](ext_articles/b001e345.ext.json)
+
+---
 
 ### Sanath Nishantha's driver remanded
 
@@ -2031,59 +2065,5 @@ Some media reports, citing the findings of ongoing investigations, had mentioned
 [Data](articles/6811bfbe.json)
 
 [Extended Data](ext_articles/6811bfbe.ext.json)
-
----
-
-### Several government-owned buildings to be handed over to private sector under lease
-
-*2024-01-26 10:53:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/several-government-owned-buildings-to-be-handed-over-to-private-sector-under-lease/) · `en`
-
-COLOMBO (News 1st); The Ministry of Urban Development and Housing says that several government-owned buildings in Colombo, including Visum Paya, are planned to be handed over to the private sector immediately under lease.
-
-Its secretary W. S. Satyananda says the Gafoor building, the Tea Museum and two lands of 3 acres located in DR Wijewardana Mawatha are also planned to be given under lease.
-
-He added an agreement with investors have been reached in this regard.
-
-Apart from this, another government-owned building located in Nuwara Elya is among the buildings that are given on lease.
-
-These buildings and lands are planned to be developed and used effectively as tourist attractions.
-
-The secretary says the buildings will be provided for private sector services without harming archaeological values.
-
-Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
-
-Austrian citizen dies and two others injured in an accident in the expressway
-
-...
-
-[Data](articles/e35df84e.json)
-
-[Extended Data](ext_articles/e35df84e.ext.json)
-
----
-
-### "Independence Day should be declared as a black day"
-
-*2024-01-26 10:52:21* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுதந்திர-தினத்தை-கரிநாளாக-பிரகடனப்படுத்த-வேண்டும்/175-332133) · `ta`
-
-The Jaffna University Students Union has called on Sri Lanka's Independence Day as a day.
-
-They also said that this is appropriate for the Sinhalese people.
-
-Speaking at a media briefing held at the University of Jaffna yesterday (25), the University Student Union representatives said this. Continuing to say,
-
-The Tamil people on the island of Sri Lanka have been engaged in a series of protests since then to keep their reserves.
-
-Accordingly, we will declare Sri Lanka's Independence Day on February 4 as a charcoal day and inform the public of the North and East.
-
-Moreover, the day is appropriate for the Sinhalese people because the laws against the Sinhalese people today have been created.
-
-He added that our race should be liberated.. Remble
-
-◼️
-
-[Data](articles/949c0a37.json)
-
-[Extended Data](ext_articles/949c0a37.ext.json)
 
 ---

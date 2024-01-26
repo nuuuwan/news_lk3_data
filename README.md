@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 20:49:52**
+As of **2024-01-26 21:02:26**
 
 ## Newspaper Stats
 
-*Scraped **2,789** Articles*
+*Scraped **2,790** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 151
 newsfirstlk | 155
 economynextcom | 168
 dailyftlk | 202
-adaderanasinhalalk | 254
+adaderanasinhalalk | 255
 adalk | 261
 virakesarilk | 300
 tamilmirrorlk | 349
@@ -26,31 +26,61 @@ dailymirrorlk | 381
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,788 (100.0%) of 2,789 articles have been extended.
+2,790 (100.0%) of 2,790 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### බෙලිඅත්ත පංච පුද්ගල ඝාතනය සමඟ එළියට ආ අලුත්ම චරිතය
+### Notice on traffic restricted to Kandy - Colombo
+
+*2024-01-26 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192604) · `si`
+
+The police are notable for traffic on the Kandy-Colombo main road due to the global perahera of Nittambuwa.
+
+The procession will be held from 7 pm tomorrow to 8.30 pm.
+
+The procession from the Perahera of the Colombo Malwatta Sri Bodhi Viharaya from Sri Bodhi Temple on the Colombo-Kandy main road, the Nittambuwa is due to travel to the Sri Vijayarama Viharaya.
+
+The Colombo-Colombo main road from the Colombo-Colombo main road to the Nittambuwa Junction to the Nittambuwa junction, the Colombo-Colombo main road to the city is restricted to traffic.
+
+The police call for the drivers and the people who are looking for the city of Nittambuwa from Colombo to the city of concession.
+
+* Vehicles heading towards Colombo to Kandy turn left from Kalgodagana Junction to Veyangoda.
+
+* Vehicles traveling to the Mirigama-Kurunegala Expressway to the Yarigaguwa Junction of Veyangoda can lead to Rs.
+
+◼️
+
+[Data](articles/f37676e5.json)
+
+[Extended Data](ext_articles/f37676e5.ext.json)
+
+---
+
+### The newest character who came out with the murder of Beliatta
 
 *2024-01-26 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192603) · `si`
 
-බෙලිඅත්ත පංච පුද්ගල ඝාතනයට ආධාර අනුබල දුන් බව කියන තවත් දෙදෙනෙකු පොලිස් විශේෂ කාර්ය බළකායේ සංවිධානාත්මක අපරාධ මර්දන ඒකකය විසින් අත්අඩංගුවට ගනු ලැබිණි.
+The organized criminal criminal criminal efficicious unit of the Police Special Task Force was arrested by two other two others who were supporting the murder of Beliatta.
 
-සැකකරුවන් පවසා ඇත්තේ, විදෙස්ගත ව සැඟ ව සිටින ඌරගහ මයිකල් නැමැති අපරාධකරුගේ උපදෙස් මත තංගල්ල අධිකරණය අසල දී ප්‍රහාරය එල්ල කිරීමට සැලසුම් කළ බවයි.
+The suspects have been planned to attack the Tangalle court on the instructions of the criminal of Uragas Michael.
 
-බෙලිඅත්තේ දී සිදු වූ පංච පුද්ගල ඝාතනයට ආධාර අනුබල දුන් බව කියන දෙදෙනෙකු ගාල්ල, මාගාල්ල ප්‍රදේශයේ දී හා ගාල්ල, වංචාවල ප්‍රදේශයේ දී පොලිස් විශේෂ කාර්ය බළකායේ සංවිධානාත්මක අපරාධ මර්දන ඒකක අංක එක මගින් ඊයේ (25) පස්වරුවේ අත්අඩංගුවට ගනු ලැබිණි.
+Two people who supported the murder of the five-member murder in Beliatta were arrested in Galle and Magalla, Galle and Galle yesterday afternoon.
 
-ඒ, පොලිස් විශේෂ කාර්ය බළකායේ අණදෙන නිලධාරී ජ්‍යෙෂ්ඨ නියෝජ්‍ය පොලිස්පති වරුණ ජයසුන්දර මහතාගේ උපදෙස් මත සිදු කළ විමර්ශනයක දී ය.
+It was in the investigation of the Police Special Task Force Commanding Officer of the Police Special Task Force.
 
-සැකකරුවන් අවුරුදු 25 සහ 35 යන වයස්වල පසු වන අතර, ඔවුන් හෙරොයින් ජාවාරම්කරුවන් බව වාර්තා වේ.
+The suspects are 25 and 35 years old and they are heroin traffickers.
 
-ඔවුන් සතු ව තිබී හෙරොයින් ග්‍රෑම් 9යි මිලිග්‍රෑම් 300ක්, යතුරුපැදියක්, ජංගම දුරකතන 03ක් සහ උල්පිහියක් ද සොයාගෙන තිබේ.
+They found 9 grams of heroin and 300 milligrams, 300 milligrams, two motorbikes, three mobile phones.
+
+The suspects have said that the suspects have planned to assassinate the murder of the criminal gang member of the criminal criminal criminal prick micro, Kosgoda Sujee.
 
 ...
 
 [Data](articles/84ee778c.json)
+
+[Extended Data](ext_articles/84ee778c.ext.json)
 
 ---
 
@@ -2073,21 +2103,5 @@ Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 [Data](articles/172e00c1.json)
 
 [Extended Data](ext_articles/172e00c1.ext.json)
-
----
-
-### Accident on highway;Foreigner killed
-
-*2024-01-26 10:00:56* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலையில்-விபத்து-வெளிநாட்டவர்-பலி/175-332131) · `ta`
-
-A foreigner has died in a vehicle accident on the highway and three others have been admitted to the hospital.
-
-The accident occurred when a van crashed into the back of the lorry on the highway between Kadawatha and Karavalapitiya.
-
-◼️
-
-[Data](articles/0b1ed5ba.json)
-
-[Extended Data](ext_articles/0b1ed5ba.ext.json)
 
 ---

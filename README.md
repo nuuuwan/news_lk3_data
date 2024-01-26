@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 10:50:02**
+As of **2024-01-26 11:02:27**
 
 ## Newspaper Stats
 
-*Scraped **2,683** Articles*
+*Scraped **2,686** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 39
-bbccomsinhala | 51
+bbccomsinhala | 52
 dbsjeyarajcom | 124
 newsfirstlk | 146
 islandlk | 151
 economynextcom | 154
 dailyftlk | 202
 adaderanasinhalalk | 232
-adalk | 257
+adalk | 258
 virakesarilk | 286
-adaderanalk | 335
+adaderanalk | 336
 tamilmirrorlk | 340
 dailymirrorlk | 366
 
@@ -26,7 +26,7 @@ dailymirrorlk | 366
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,683 (100.0%) of 2,683 articles have been extended.
+2,683 (99.9%) of 2,686 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,22 @@ The accident occurred when a van crashed into the back of the lorry on the highw
 [Data](articles/9617e091.json)
 
 [Extended Data](ext_articles/9617e091.ext.json)
+
+---
+
+### Alabama executes a man with nitrogen gas, a first in the world
+
+*2024-01-26 10:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96736/alabama-executes-a-man-with-nitrogen-gas-a-first-in-the-world) · `en`
+
+Alabama executed a convicted murderer with nitrogen gas Thursday, putting him to death with a first-of-its-kind method that once again put the US at the forefront of the debate over capital punishment. The state said the method would be humane, but critics called it cruel and experimental.
+
+Officials said Kenneth Eugene Smith, 58, was pronounced dead at 8:25 pm at an Alabama prison after breathing pure nitrogen gas through a face mask to cause oxygen deprivation. It marked the first time that a new execution method has been used in the United States since lethal injection, now the most commonly used method, was introduced in 1982.
+
+The state had previously attempted to execute Smith, who was convicted of a 1988 murder-for-hire, in 2022, but the lethal injection was called off at the last minute because authorities couldn’t connect an IV line.
+
+...
+
+[Data](articles/8526fe63.json)
 
 ---
 
@@ -364,6 +380,22 @@ The investigating officers have uncovered that the two arrestees were involved i
 
 ---
 
+### යලේ අක්කර 02 ගංජා වගාවක් වටලයි - ගංජා පැල 81000 විනාශ කරයි
+
+*2024-01-26 07:59:10* · [`adalk`](https://www.ada.lk/breaking_news/යලේ-අක්කර-02-ගංජා-වගාවක්-වටලයි---ගංජා-පැල-81000-විනාශ-කරයි/11-407732) · `si`
+
+යාල වන රක්ෂිතයේ දීර්ඝ කාලිනව පවත්වාගෙන ගිය ගංජා හේනක් යුද හමුදා බුද්ධි අංශය හා බුත්තල විශේෂ කාරය බලකාය සමත්ව තිබේ.
+
+මෙහිදී අඩි 8ක් පමණ උස කැපීමට සූදානම් කර තිබූ පැල 81000ක් අත්අඩංගුවට ගෙන පසුව එම ස්ථානයේදීම විනාශ කර ඇත.
+
+යුද හමුදා බුද්ධි අංශය විසින් පසුගිය සති දෙකක කාලය තුල ගංජා කිලෝ 2500ක් පමණ වැටලීම් කර තිබේ.
+
+◼️
+
+[Data](articles/dd41545e.json)
+
+---
+
 ### Sanath Nishantha reveals
 
 *2024-01-26 07:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192574) · `si`
@@ -571,6 +603,30 @@ A senior immigration official told the Daily Mirror the suspects had reportedly 
 [Data](articles/6b9dac96.json)
 
 [Extended Data](ext_articles/6b9dac96.ext.json)
+
+---
+
+### 'මම ලියන හැටි': අනුරසිරි හෙට්ටිගේ
+
+*2024-01-26 04:27:43* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/c4ndl7jm9exo) · `si`
+
+අනුරසිරි හෙට්ටිගේ නවකතාකරුවෙක් සේම කෙටිකතාකරුවෙක් ලෙසද පාඨක විචාරක සම්භාවනාවට පාත්‍ර වී ඇත.
+
+ඔහුගේ නවකතා විවිධ තේමාත්මක කලාපයන් වෙත ගමන් කරමින් මිනිස් ජීවිතය සහ ලෝකය සෞන්දර්යාත්මකව ස්පර්ශ කරන බව ඔහුගේ නවකතා වන ගනදුරෙහි දිලෙන එළි , කියග මගිය එනු කොහි සිට, කළුවරයි පුරහඳ, ස්මරණ, බැඳමාරිය, පණ්ඩක පුත්‍ර වස්තුව සහ නිශා දෙස බලන විට පෙනී යයි.
+
+මා ඔහු සමග කතාබහක යෙදෙන්නේ නවකතාකරුවෙකු ලෙස ඔහු ලේඛනයේ යෙදෙන විට ඔහුට දැනෙන හැඟීම් සහ ලිවීම සමඟ බැඳුණු  ඔහුටම අනන්‍ය වූ වතාවත් තේරුම් ගැනීමේ අරමුණින් ය.
+
+මේ සාකච්ඡාව තුළ  මා අසන ප්‍රශ්න මේ වන විට මා විසින් පළකර ඇති ‘නිම්නාගේ ඉතිහාසය’ (2019) සහ ‘මේ රහස් කවුලුවෙන් එබෙන්න’ (2014) නවකතා ලියන අතර මා මුහුණ දුන් අත්දැකීම් මතින් පැන නැගුණු  ඒවා ය.
+
+හැම ලේඛකයෙක්ම ලිවීමේ ක්‍රියාවලියට මුහුණ දෙන්නේ තමන්ගේම වූ ආකාරයකට ය යන්න ප්‍රකට කරුණකි.
+
+ලියන තැන, ලියන විදිහ, ලියන විට බොන කෝපි කෝප්ප ගණන, ලිවීම තමන්ම විඳින හැටි වැනි දේ අයත් වන්නේ ලේඛකයාගේ අතිපුද්ගලික අඩවියට ය.
+
+මේ සංවාද මාලාව උත්සාහ කරන්නේ නවකතාකරුවන්ගේ එම රහස් අඩවිය වෙත එබී බැලීමට ය.
+
+...
+
+[Data](articles/444f54d6.json)
 
 ---
 
@@ -1975,61 +2031,5 @@ Several Ministers and MPs visit the Ragama Hospital, where State Minister Sanath
 [Data](articles/6c9e0879.json)
 
 [Extended Data](ext_articles/6c9e0879.ext.json)
-
----
-
-### Ministers, MPs visit Ragama Hospital
-
-*2024-01-25 15:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ministers-MPs-visit-Ragama-Hospital/110-275711) · `en`
-
-Several Ministers and MPs visit the Ragama Hospital, where State Minister Sanath Nishantha was admitted after the fatal accident this morning (25). Pix by Kithsiri de Mel
-
-◼️
-
-[Data](articles/8464aaa1.json)
-
-[Extended Data](ext_articles/8464aaa1.ext.json)
-
----
-
-### Shot at a temple on the day of Poya Day
-
-*2024-01-25 15:10:43* · [`adalk`](https://www.ada.lk/breaking_news/පොහෝ-දිනයේදී-විහාරස්ථානයකට-වෙඩි-ප්‍රහාරයක්/11-407725) · `si`
-
-Dodamgaslanda Uttivarama Ancient Temple has been shot dead today (25) morning.
-
-The Viharadhipathi Panthankithi Thera, Despite the shooting of the house in the house of the house of the workplace, had been shot dead in a nearby lodge, the police said.
-
-According to police investigations, the shooting was carried out with a ripe of a bullets in the shot.
-
-It is reported that the monks have lodged a complaint with the Maduragoda police that he had been threatened with the deaths between the temple and the Chief Incumbent of the temple.
-
-The shooting has been carried out tomorrow (26).
-
-Pannuni Thera has targeted the bowl and threatened the window and the delegation was shot across the window.
-
-The man who was threatened with the death of the death of the incident regarding the incident.
-
-Maduragoda Police Inspector Weeraratne Bandara and other officials are conducting further investigations.
-
-◼️
-
-[Data](articles/d484d448.json)
-
-[Extended Data](ext_articles/d484d448.ext.json)
-
----
-
-### Jagath Priyankara appointed Sanath Nishantha
-
-*2024-01-25 15:04:28* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තගෙන්-හිස්වන-මන්ත්‍රී-ධුරයට-ජගත්-ප්‍රියංකර/11-407724) · `si`
-
-Jagath Priyankara, who was contesting for the last election of the death of Mr. Sanath Nishantha, has been eligible for the post of Vacant Puttalam District Parliamentary Parliamentary Parliamentary Parliamentary Parliamentary Parliament. Jagath Priyankara is a Samurdhi Development Manager.
-
-◼️
-
-[Data](articles/6eae5dec.json)
-
-[Extended Data](ext_articles/6eae5dec.ext.json)
 
 ---

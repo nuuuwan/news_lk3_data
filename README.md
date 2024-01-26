@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-26 23:02:17**
+As of **2024-01-26 23:17:05**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 389
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,808 (99.8%) of 2,813 articles have been extended.
+2,813 (100.0%) of 2,813 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-26 (Friday)
 
-### சனத் நிஷாந்தவுடன் உயிரிழந்த கான்ஸ்டபிளுக்கு பதவி உயர்வு
+### Promotion to Constable Death with Sanath Nishantha
 
 *2024-01-26 22:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவுடன்-உயிரிழந்த-கான்ஸ்டபிளுக்கு-பதவி-உயர்வு/175-332147) · `ta`
 
-இராஜாங்க அமைச்சர் சனத் நிஷாந்தவுடன் வாகன விபத்தில் உயிரிழந்த அவரது பாதுகாப்பு அதிகாரி, பொலிஸ் கான்ஸ்டபிள் அனுராதா ஜயக்கொடி, பொலிஸ் சார்ஜன்டாக பதவி உயர்த்தப்பட்டுள்ளார்.
+His security officer, Anuradha Jayakody, who died in a vehicle accident with State Minister Sanath Nishantha, has been promoted to police sergeant.
 
-இதன்படி, அரச நிர்வாக சுற்றறிக்கை இலக்கம் 22/93இன் பிரகாரம், பதவி உயர்வுக்கு பின்னரான அடிப்படையில், பதில் பொலிஸ் மா அதிபரால் நேற்று (25) முதல் இந்த பதவி உயர்வு வழங்கப்பட்டுள்ளது.
+Accordingly, the Public Administrative Circle has been promoted by the Inspector General of Police yesterday (25).
 
 ◼️
 
 [Data](articles/65b8e970.json)
+
+[Extended Data](ext_articles/65b8e970.ext.json)
 
 ---
 
@@ -66,21 +68,23 @@ Alabama Attorney General Steve Marshall said “justice has been served” with 
 
 ---
 
-### சனத் நிஷாந்தவின் சாரதிக்கு விளக்கமறியல்
+### Explanation for the driver of Sanath Nishantha
 
 *2024-01-26 22:06:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-சாரதிக்கு-விளக்கமறியல்/175-332146) · `ta`
 
-உயிரிழந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் சாரதி எதிர்வரும் பெப்ரவரி மாதம் 5ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு வெலிசறை நீதவான் நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The Velisara Magistrate's Court has ordered the detriment of the deceased Minister Sanath Nishantha to be remanded until the 5th of February.
 
-சனத் நிஷாந்த உயிரிழந்த சம்பவம் தொடர்பில் காரின் சாரதி பொலிஸாரிடம் உண்மைகளை வெளிப்படுத்தியுள்ளார்.
+The driver of the car has revealed the facts to the driver of the car over the death of Sanath Nishantha.
 
-இவர் சுமார் 10 வருடங்களாக சனத் நிஷாந்தவின் சாரதியாக பணிபுரிந்து வந்ததாக தெரிவிக்கப்படுகிறது.
+He has been working as a driver of Sanath Nishantha for about 10 years.
 
-விபத்தில் காயமடைந்து ராகம வைத்தியசாலையில் பொலிஸ் பாதுகாப்பில் சிகிச்சை பெற்றுவரும் சாரதியே இவ்வாறு விளக்கமறியலில் வைக்கப்பட்டுள்ளார். R
+The driver of the police protection at the Ragama Hospital was injured in the accident.. Remble
 
 ◼️
 
 [Data](articles/70bab147.json)
+
+[Extended Data](ext_articles/70bab147.ext.json)
 
 ---
 
@@ -113,6 +117,8 @@ The constable attached to the Ministerial Security Division (MSD) and State Mini
 ◼️
 
 [Data](articles/4c37ddfb.json)
+
+[Extended Data](ext_articles/4c37ddfb.ext.json)
 
 ---
 
@@ -197,6 +203,8 @@ The Petitioners stated that by June 15, 2023, the amount of back taxes payable b
 ...
 
 [Data](articles/94c69869.json)
+
+[Extended Data](ext_articles/94c69869.ext.json)
 
 ---
 
@@ -1407,6 +1415,8 @@ Once again this year, the Kedella exhibition and trade fair kicked off at Colomb
 ◼️
 
 [Data](articles/f84fbd06.json)
+
+[Extended Data](ext_articles/f84fbd06.ext.json)
 
 ---
 

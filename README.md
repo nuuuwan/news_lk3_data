@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 01:17:22**
+As of **2024-01-28 01:32:35**
 
 ## Newspaper Stats
 
-*Scraped **2,956** Articles*
+*Scraped **2,957** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 215
 adalk | 268
 adaderanasinhalalk | 289
 virakesarilk | 305
-tamilmirrorlk | 373
+tamilmirrorlk | 374
 adaderanalk | 384
 dailymirrorlk | 405
 
@@ -26,9 +26,29 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,956 (100.0%) of 2,956 articles have been extended.
+2,956 (100.0%) of 2,957 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-01-28 (Sunday)
+
+### அதிவேக நெடுஞ்சாலையில் மீண்டும் விபத்து
+
+*2024-01-28 00:34:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலையில்-மீண்டும்-விபத்து/175-332194) · `ta`
+
+தெற்கு அதிவேக நெடுஞ்சாலையில் பயணித்த கொள்கலன் பாரவூர்தி  ஒன்று கவிழ்ந்து விபத்துக்குள்ளாகி உள்ளது.
+
+தெற்கு அதிவேக நெடுஞ்சாலையின் 118 ஆவது கிலோமீற்றருக்கு அருகில் இன்று இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்து காரணமாக மாத்தறையில் இருந்து கொழும்பு நோக்கி பயணிக்கும் வாகனங்களுக்கான போக்குவரத்து தடைப்பட்டுள்ளது.
+
+இதனால், கொழும்பு நோக்கி பயணிக்கும் வாகனங்கள், கொடகமையில் வௌியேறி கொக்மாதுவ ஊடாக அதிவேக நெடுஞ்சாலைக்குள் மீண்டும் நுழையுமாறு அறிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/63e1aa9c.json)
+
+---
 
 ### 2024-01-27 (Saturday)
 
@@ -2035,23 +2055,5 @@ However, he said the project remain delayed and he instructed the officials conc
 [Data](articles/f8ba7f72.json)
 
 [Extended Data](ext_articles/f8ba7f72.ext.json)
-
----
-
-### The cause of the accidents on highways
-
-*2024-01-27 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192611) · `si`
-
-Bandula Gunawardena says that the main cause of the accidents on highway roads is to not accept rules.
-
-He said a special program will be implemented next week to measures against drivers who violate the rules of the Expressway.
-
-Bandula Gunawardena said that a program has been launched in the Expressway from Katunayake to Colombo.
-
-◼️
-
-[Data](articles/7ac9a07f.json)
-
-[Extended Data](ext_articles/7ac9a07f.ext.json)
 
 ---

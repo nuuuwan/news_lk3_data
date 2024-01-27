@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 11:02:16**
+As of **2024-01-27 11:17:20**
 
 ## Newspaper Stats
 
-*Scraped **2,874** Articles*
+*Scraped **2,875** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adaderanasinhalalk | 264
 adalk | 265
 virakesarilk | 301
 tamilmirrorlk | 360
-adaderanalk | 362
+adaderanalk | 363
 dailymirrorlk | 400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,874 (100.0%) of 2,874 articles have been extended.
+2,874 (100.0%) of 2,875 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### UN agency fires Gaza staff suspected of joining Oct.7 attacks on Israel
+
+*2024-01-27 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96763/un-agency-fires-gaza-staff-suspected-of-joining-oct7-attacks-on-israel) · `en`
+
+The United Nations agency for Palestinian refugees (UNRWA) said on Friday it had opened an investigation into several employees suspected of involvement in the Oct. 7 attacks in Israel by Hamas and that it had severed ties with those staff members.
+
+“The Israeli authorities have provided UNRWA with information about the alleged involvement of several UNRWA employees in the horrific attacks on Israel on October 7,” said Philippe Lazzarini, UNRWA Commissioner-General.
+
+“To protect the agency’s ability to deliver humanitarian assistance, I have taken the decision to immediately terminate the contracts of these staff members and launch an investigation in order to establish the truth without delay.”
+
+Lazzarini did not disclose the number of employees allegedly involved in the attacks, nor the nature of their alleged involvement. He said, however, that “any UNRWA employee who was involved in acts of terror” would be held accountable, including through criminal prosecution.
+
+...
+
+[Data](articles/05ba5a26.json)
+
+---
 
 ### Increased sexual offenses in Sri Lanka
 
@@ -1991,27 +2009,5 @@ Accordingly, the information released by the Central Bank today (26.01.2024) on 
 [Data](articles/161f8d55.json)
 
 [Extended Data](ext_articles/161f8d55.ext.json)
-
----
-
-### Sri Lanka Parliament prorogued
-
-*2024-01-26 16:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96747/sri-lanka-parliament-prorogued) · `en`
-
-Sri Lanka Parliament will be prorogued with effect from midnight on Friday (Jan.26) until February 07 (Wednesday). This marks the closure of the fourth session of the Ninth Parliament.
-
-The prorogation was communicated in a proclamation published in the government gazette by President’s Secretary Saman Ekanayake.
-
-The Extraordinary Gazette was issued by virtue of the powers vested in the President by Article 70 of the Constitution.
-
-Accordingly, the next parliamentary session is scheduled to commence at 10:30 a.m. on February 07.
-
-When a new session kicks off, the President has the opportunity to ceremonially declare open the Parliament and preside over to present the Government’s Policy Statement. In the past, it was known as the Throne Speech and was presented by the Governor. According to current practice, it is neither debated nor put to the vote.
-
-...
-
-[Data](articles/8ac6fda0.json)
-
-[Extended Data](ext_articles/8ac6fda0.ext.json)
 
 ---

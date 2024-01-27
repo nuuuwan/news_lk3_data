@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 23:02:23**
+As of **2024-01-27 23:17:03**
 
 ## Newspaper Stats
 
-*Scraped **2,952** Articles*
+*Scraped **2,955** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 40
+colombotelegraphcom | 41
 bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 159
@@ -19,18 +19,40 @@ adalk | 268
 adaderanasinhalalk | 289
 virakesarilk | 305
 tamilmirrorlk | 373
-adaderanalk | 382
+adaderanalk | 384
 dailymirrorlk | 405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,952 (100.0%) of 2,952 articles have been extended.
+2,952 (99.9%) of 2,955 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### Indian envoy lauds LIOC’s contribution to Sri Lanka’s economy
+
+*2024-01-27 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96781/indian-envoy-lauds-liocs-contribution-to-sri-lankas-economy) · `en`
+
+The Indian High Commissioner to Sri Lanka, Santosh Jha, attended an event of Indian Oil’s subsidiary in Sri Lanka, Lanka IOC (Indian Oil Corporation), on Saturday to extend the ‘Group term assurance plan’ through LIC Lanka.
+
+He lauded LIOC’s contribution to the economy and its service to society through various CSR activities.
+
+“High Commissioner @santjha attended the LIOC event to extend the ‘Group term assurance plan’ through LIC Lanka to its 1500 customer attendants across the island,” the High Commission of India in Colombo wrote on X.
+
+Lanka IOC is the only private oil company that operates retail petrol and diesel stations in Sri Lanka.
+
+On December 22, 2023, the Indian envoy to Sri Lanka, Santosh Jha, presented credentials to Sri Lankan President Ranil Wickremesinghe. He assumed the charge of the Indian High Commissioner to Sri Lanka on December 22.
+
+Earlier in September, Santosh Jha was appointed as India’s next High Commissioner to Sri Lanka.
+
+...
+
+[Data](articles/8305c04a.json)
+
+---
 
 ### Young people who joked wildlaria
 
@@ -190,7 +212,17 @@ He is a 30 year old and arrested in the Ratgama area in Galle.
 
 A 30-year-old was arrested on Friday (Jan.27) on suspicion of taking possession of the firearms after they were used in the mass shooting in Beliatta.
 
-◼️
+According to the police, the arrest was made in the area of Rathgama, Galle.
+
+On Jan.23, a group of persons who had arrived in an SUV had opened fire at a white Defender near the Beliatta Interchange of the Southern Expressway.
+
+In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he succumbed to injuries shortly after.
+
+Among the deceased was the leader of “Ape Jana Bala Pakshaya” (Our Power of People Party or OPPP) Saman Perera. The other four victims were identified as Sameera Madhusanka, Hasitha Chinsuka, Buddhika Rajapaksha, and Nalin Champika.
+
+Thus far, three suspects have been arrested in connection with the incident.
+
+...
 
 [Data](articles/f706c1a6.json)
 
@@ -456,6 +488,20 @@ Grama Niladhari Exam Interview Selected List20212023 by poornima on Scribd
 
 ---
 
+### ICJ Ruling On Israeli Genocide In Gaza; Stopped Short Of Ordering A Ceasefire
+
+*2024-01-27 17:26:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/icj-ruling-on-israeli-genocide-in-gaza-stopped-short-of-ordering-a-ceasefire/) · `en`
+
+On Friday 26 January 2024, the International Court of Justice, ICJ,  United Nation’s highest judicial organ, ordered Israel to take steps to prevent acts of genocide in Gaza, but stopped short of ordering a ceasefire.
+
+This ruling was not something unexpected as the  ICJ, based in the Dutch city of Hague, was established by US, British, European imperial powers to serve their interests.Thus one cannot expect ICJ to issue a verdict against Israel-a settler colonial entity planted by US European imperialism in the heart of Middle East to destabilize the region.
+
+...
+
+[Data](articles/396671a2.json)
+
+---
+
 ### Sri Lanka hoping to reach agreement ‘within couple of months’ on restructuring $13bn debt
 
 *2024-01-27 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96773/sri-lanka-hoping-to-reach-agreement-within-couple-of-months-on-restructuring-13bn-debt) · `en`
@@ -571,6 +617,26 @@ The arrest was made in Pilimathalawa area by the Illegal Assets and Property Inv
 [Data](articles/05ecc232.json)
 
 [Extended Data](ext_articles/05ecc232.ext.json)
+
+---
+
+### Fraudster and mistress arrested for scamming Rs. 5bn through pyramid scheme
+
+*2024-01-27 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96771/fraudster-and-mistress-arrested-for-scamming-rs-5bn-through-pyramid-scheme) · `en`
+
+A 39-year-old and his mistress have been arrested on suspicion of defrauding people of Rs. 5 billion through a pyramid scheme.
+
+The arrest was made in Pilimathalawa area by the Illegal Assets and Property Investigation Unit.
+
+The man had operated a pyramid-type financial institution called ‘TredWin Share’ in Galenbindunuwewa area.
+
+He had been staying with his mistress in Pilimathalawa, Kandy. According to investigating officers, the couple had been living a luxurious life by buying real estate and vehicles using the ill-gotten money.
+
+The mistress was arrested on charges of investing the money swindled from people.
+
+◼️
+
+[Data](articles/75246eef.json)
 
 ---
 
@@ -1981,77 +2047,5 @@ Based on initial investigations and 16 confirmed complaints, the Sri Lankan Bure
 [Data](articles/0675beea.json)
 
 [Extended Data](ext_articles/0675beea.ext.json)
-
----
-
-### Smugglers Remanded after Heroin Bust At Sea
-
-*2024-01-27 07:21:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/smugglers-remanded-after-heroin-bust-at-sea/) · `en`
-
-COLOMBO (News 1st); The eleven suspects who were arrested on the high seas off the southern coast of Sri Lanka for transporting heroin were remanded until February 6th after being presented to the Fort Magistrate Court.
-
-The Sri Lanka Navy on 20th January 2024 seized a local multi-day fishing trawler carrying over 65kg of heroin, and another multi-day fishing trawler suspected of assisting it, during a special operation carried out about 100 nautical miles off the Dondra Head, in southern waters.
-
-Subsequent search led to the recovery of 03 sacks stuffed with heroin weighing more than 65kg and 076g, intending to be smuggled into the country.
-
-The street value of the seized heroin is believed to be more than Rs. 1626 million.
-
-◼️
-
-[Data](articles/39f267b6.json)
-
-[Extended Data](ext_articles/39f267b6.ext.json)
-
----
-
-### 13 Detainees Still on the Run After Kandakadu Rehabilitation Center Escape
-
-*2024-01-27 07:18:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/13-detainees-still-on-the-run-after-kandakadu-rehabilitation-center-escape/) · `en`
-
-COLOMBO (News 1st); 34 of the 47 inmates who fled from the Kandakadu Treatment and Rehabilitation Centre and were later arrested by Sri Lanka Police have been remanded after appearing before the Polonnaruwa Magistrate's Court.
-
-The escape occurred after a clash between two inmate groups within the facility.
-
-Retired Major General Darshana Hettiarachchi, Commissioner General of Rehabilitation, confirmed that two of the three inmates injured in the conflict are receiving treatment at the Welikanda Hospital.
-
-With 34 escapees recaptured, the hunt continues for the remaining thirteen individuals still at large.
-
-The Kandakadu Rehabilitation Center houses individuals undergoing rehabilitation for various offenses.
-
-Commissioner General Hettiarachchi emphasized that those apprehended during the "Yukthiya Operation" were sent for rehabilitation.
-
-Despite the recent escape attempt, the Kandakadu Rehabilitation Center remains operational with 358 individuals currently residing there.
-
-◼️
-
-[Data](articles/52b5cf32.json)
-
-[Extended Data](ext_articles/52b5cf32.ext.json)
-
----
-
-### Thundershowers, fairly strong winds anticipated in parts of the island today
-
-*2024-01-27 07:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96758/thundershowers-fairly-strong-winds-anticipated-in-parts-of-the-island-today) · `en`
-
-The Department of Meteorology says showers or thundershowers are likely in parts of the Northern, North-central, Eastern and Uva provinces today (Jan.27).
-
-Fairly strong winds of about 40 kmph can be expected at times over the North-central, Eastern, Central, Uva and Northwestern provinces.
-
-Meanwhile, ground frost is possible at some places in Nuwara-Eliya district during the early hours of the day.
-
-Showers or thundershowers may occur in parts of Central, Sabaragamuwa and Western provinces and Galle and Matara districts after 2.00 p.m.
-
-Showers or thundershowers may occur at several places in the sea areas off the coast extending from Trincomalee to Hambantota via Batticaloa.
-
-Winds will be north-easterly and wind speed will be 30-40 kmph.
-
-Wind speed may increase up to 50-60 kmph at times in the sea areas off the coasts extending from Colombo to Hambantota via Puttalam, Kankesanturai, Trincomalee and Pottuvil.
-
-...
-
-[Data](articles/8805fa2a.json)
-
-[Extended Data](ext_articles/8805fa2a.ext.json)
 
 ---

@@ -1,36 +1,56 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 09:50:50**
+As of **2024-01-27 10:02:23**
 
 ## Newspaper Stats
 
-*Scraped **2,858** Articles*
+*Scraped **2,863** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 40
 bbccomsinhala | 53
 dbsjeyarajcom | 124
-newsfirstlk | 159
 islandlk | 159
+newsfirstlk | 162
 economynextcom | 168
 dailyftlk | 215
 adaderanasinhalalk | 264
 adalk | 265
-virakesarilk | 300
+virakesarilk | 301
 tamilmirrorlk | 356
-adaderanalk | 361
+adaderanalk | 362
 dailymirrorlk | 394
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,858 (100.0%) of 2,858 articles have been extended.
+2,858 (99.8%) of 2,863 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### Litro Gas contributes another Rs. 1.5 billion to Treasury
+
+*2024-01-27 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96762/litro-gas-contributes-another-rs-15-billion-to-treasury) · `en`
+
+Litro Gas Company’s profits for the year 2023, totalling Rs. 1.5 billion, was officially handed over to the Sri Lanka Insurance Corporation, the company’s parent entity, during a ceremony held at the Presidential Secretariat on Friday (Jan.26).
+
+Muditha Peiris, Chairman of Litro Gas Company, presented the cheque to Sagala Ratnayaka, the President’s Senior Adviser on National Security and Chief of Presidential Staff.
+
+Subsequently, Mr. Ratnayaka handed over the cheque to Sriyani Kulasinghe, the Chief Financial Officer of Sri Lanka Insurance Company.
+
+During the handover, Litro chairman acknowledged the significant growth achieved by the company, even in challenging economic times, attributing it to the guidance of President Ranil Wickremesinghe and the unwavering support of Mrs. Ratnayake.
+
+Additionally, Mr. Peiris highlighted that Litro Gas Company contributed Rs. 3 billion as dividends to the Treasury in the year 2023 alone.
+
+◼️
+
+[Data](articles/edf0cb61.json)
+
+---
 
 ### EC informed of MP seat left vacant after Sanath Nishantha’s death
 
@@ -72,6 +92,72 @@ Ministry of Public Security said the narcotics impounded during this 24-hour win
 
 ---
 
+### 264 Individuals with Outstanding Warrants Arrested
+
+*2024-01-27 08:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/264-individuals-with-outstanding-warrants-arrested/) · `en`
+
+COLOMBO (News 1st); Sri Lanka Police have apprehended 818 suspects across the island nation in the past 24 hours.
+
+The operation, targeting a range of criminal activities, yielded significant results, including the capture of drug offenders, individuals with outstanding warrants, and wanted criminals.
+
+The operation's focus on drug trafficking paid off handsomely, with 554 suspects linked to drug offenses apprehended.
+
+Of the total arrests, 10 were identified as high-priority targets on the watchlists of both the Police Narcotics Bureau and the Police Special Bureau.
+
+Further investigation under detention orders is underway for one suspect, while eight identified drug addicts were directed towards rehabilitation programs.
+
+The crackdown also led to the seizure of a substantial quantity of illegal narcotics, including:
+
+The operation also netted 264 individuals with outstanding warrants, including 25 specifically related to drug offenses and 231 pertaining to other criminal activities.
+
+...
+
+[Data](articles/fc615a48.json)
+
+---
+
+### ஏடன்வளைகுடாவில் தீப்பிடித்து எரிகின்றது கப்பல் - ஹெளத்தி கிளர்ச்சியாளர்கள் ஏவுகணை தாக்குதல்
+
+*2024-01-27 08:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174888) · `ta`
+
+ஹெளத்தி கிளர்ச்சியாளர்களின் தாக்குதல் காரணமாக ஏடன்வளைகுடாவில் எண்ணெய்கப்பலொன்று தீப்பிடித்து எரிவதாக அதன் உரிமையாளர் தெரிவித்துள்ளார்.
+
+ஹெளத்திகிளர்ச்சியாளர்கள் மேற்கொண்ட ஏவுகணை தாக்குதலால் மார்லின் லுவாhன்டா என்ற கப்பல் தீப்பிடித்துள்ளது என  கப்பலை இயக்கும் நிறுவனம் தெரிவித்துள்ளது.
+
+கப்பல் எதிர்ப்பு ஏவுகணை எண்ணெய் கப்பலை தாக்கியுள்ளது என தெரிவித்துள்ள அமெரிக்க அதிகாரிகள் கடற்படை கப்பலொன்று உதவிக்கு விரைந்துள்ளது என குறிப்பிட்டுள்ளனர்.
+
+போர்க்கப்பல்கள் அந்த கப்பலை நோக்கி சென்றன மாலுமிகள் பாதுகாப்பாக உள்ளனர் என பிரிட்டனின் கடல்சார்வர்த்தக நடவடிக்கை அமைப்பு தெரிவித்துள்ளது.
+
+ஏனைய கப்பல்கள் எச்சரிக்கையுடன் பயணிக்கவேண்டும் சந்தேகத்திற்கு இடமான விடயங்களை அவதானித்தால் அறிவிக்கவேண்டும் என பிரிட்டன் அமைப்பு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/bc24d56f.json)
+
+---
+
+### Sanath Nishantha’s Bodyguard Posthumously Promoted to Sergeant
+
+*2024-01-27 08:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/sanath-nishantha-s-bodyguard-posthumously-promoted-to-sergeant/) · `en`
+
+COLOMBO (News 1st): Sri Lanka Police has awarded Rs. 1.5 Million to the family of deceased police constable Anuradha Jayakodi, who tragically died while serving as the bodyguard of State Minister Sanath Nishantha.
+
+The Police Media Division confirmed that the financial assistance was presented by Acting Inspector General of Police Deshbandu Tennakoon.
+
+Further honoring Jayakodi's service, the late constable was posthumously promoted to the rank of sergeant yesterday (26).
+
+Jayakodi, a father of one, was only 43 years old at the time of his passing.
+
+Joining the police service in 2007, Jayakodi distinguished himself by serving in the VIP security service for the past five years, and served for the late Sanath Nishantha.
+
+A tragic accident on the Katunayake Expresswat claimed the lives of both State Minister Sanath Nishantha and Anuradha Jayakodi, leaving a void in the Sri Lankan government and police force.
+
+...
+
+[Data](articles/a0eb3399.json)
+
+---
+
 ### Decision of arrested drugs
 
 *2024-01-27 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192613) · `si`
@@ -85,6 +171,22 @@ He said a building was being constructed with drugs destroyed in Wanathavilluwa.
 [Data](articles/524a26e8.json)
 
 [Extended Data](ext_articles/524a26e8.ext.json)
+
+---
+
+### Political Landscape Reshapes as ‘New Alliance’ To Takes its First Steps
+
+*2024-01-27 07:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/political-landscape-reshapes-as-new-alliance-to-takes-its-first-steps/) · `en`
+
+COLOMBO (News 1st); The launch of a new political movement named the 'New Alliance' will take place at 2 PM today, in Ja-Ela
+
+The maiden rally of this new political movement will be presided over by Minister Susil Premajayantha, Trade Minister Nalin Fernando, Former Minister Anura Priyadarshana Yapa, Former Minister Piyankara Jayaratne, and the MP Nimal Lanza.
+
+Political Landscape Reshapes as ‘New Alliance’ To Takes its First Steps
+
+◼️
+
+[Data](articles/2fc92d1a.json)
 
 ---
 
@@ -200,11 +302,7 @@ Subsequent search led to the recovery of 03 sacks stuffed with heroin weighing m
 
 The street value of the seized heroin is believed to be more than Rs. 1626 million.
 
-13 Detainees Still on the Run After Kandakadu Rehabilitation Center Escape
-
-Wickremesinghe to Present Policy Statement as Parliament Resumes Feb. 7th
-
-Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
+Political Landscape Reshapes as ‘New Alliance’ To Takes its First Steps
 
 ◼️
 
@@ -1883,135 +1981,5 @@ The arrest was made based on a complaint filed by a resident of Mahavilacchiya.
 [Data](articles/d550ca2c.json)
 
 [Extended Data](ext_articles/d550ca2c.ext.json)
-
----
-
-### Gang attacks funeral parlour employee with sharp weapon
-
-*2024-01-26 15:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96745/gang-attacks-funeral-parlour-employee-with-sharp-weapon) · `en`
-
-A gang of five who stormed into Diyagama Co-operative Florist in Kahathuduwa has attacked one of its employees with a sharp weapon.
-
-Police stated that the assailants had fled the scene following the attack.
-
-The 24-year-old injured person has been admitted to Homagama Base Hospital for treatment.
-
-The suspects, who forced their way into the funeral parlour, had attacked the employee, who sustained cut wounds to his chest, stomach and near the eyes, while he was arranging a coffin, the police said.
-
-The motive behind the attack, however, was not immediately clear.
-
-◼️
-
-[Data](articles/5866b49e.json)
-
-[Extended Data](ext_articles/5866b49e.ext.json)
-
----
-
-### Historical death sentence
-
-*2024-01-26 15:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192591) · `si`
-
-Alabama authorities have acted to implement the death penalty of the death penalty in the killing of a woman.
-
-International media states that he has committed suicide using nitrogen gas.
-
-A journalist who had been able to observe the incident, a journalist who was able to observe it was about 25 minutes.
-
-It is considered the first time in the world that the death penalty was implemented.
-
-Smith had appealed to American high courts against planning to implement the death penalty using Nitrogen gas.
-
-He had said that the implementation of the death penalty was a brutal procedure.
-
-Alabama authorities have enabled the death penalty for the death penalty in 2022.
-
-In 1989, Smith was guilty of killing a woman named Elizabeth.
-
-◼️
-
-[Data](articles/35df1b5d.json)
-
-[Extended Data](ext_articles/35df1b5d.ext.json)
-
----
-
-### The Ceremonial Security Act
-
-*2024-01-26 15:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/174850) · `ta`
-
-President's Attorney Dr. Jayampathi Wickremaratne said that the Attorney General's Department did not investigate it in the first place in the Federal Protection Bill.
-
-The bill was first published in the Gazette on September 15 last year.
-
-We went to the High Court against this.
-
-He said that if a law is submitted, the Attorney General's Department should examine it and report whether it is subject to constitution but they do not examine the bill because they do not report it.
-
-He said that the law was produced by the Media Ministry and the Justice Ministry had submitted to me that the government had agreed to amend the bills allowed by the Cabinet several times in the past.
-
-The Parliament was only discussing the current Security Bill for two days, saying that the government wanted to fulfill it as an urgent need and that the law has adopted the law that the law has had a major impact on the freedom of the people.
-
-...
-
-[Data](articles/56c49797.json)
-
-[Extended Data](ext_articles/56c49797.ext.json)
-
----
-
-### To solve the problem of the Red Sea is before
-
-*2024-01-26 15:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192589) · `si`
-
-We have previously presented information to you that the influence on the Red Sea vebilian vessels of the Red Sea.
-
-China, especially the failure to achieve the expected economic growth after the coronary epidemic, is expected to be anticipated.
-
-China conducts close relations with the Middle East and African countries, China is more diplomatic than Western countries.
-
-Accordingly, China has access to Iran to prevent attacks on the Red Sea.
-
-Many people are recognized that Iran's Houtu rebels and the Middle East.
-
-It is reported that Iran's arms supplies are especially in Israel and anti-Western groups.
-
-As a result, the Chinese authorities have already discussed the matter with Iranian authorities.
-
-Chinese authorities have asked Iran to influence the poorest insurgents to stop the attacks on the ship.
-
-Iran has pointed out that if there is no room for Chinese and Iranian relations.
-
-...
-
-[Data](articles/da18c68a.json)
-
-[Extended Data](ext_articles/da18c68a.ext.json)
-
----
-
-### Son arrested for targeting skulls
-
-*2024-01-26 15:00:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மண்டைகளை-குறிவைக்கும்-மகன்-கைது/76-332144) · `ta`
-
-The son has been arrested by the police for brutally assassinating his mother.
-
-The 67 -year -old mother of the two children, S. Sellamma, has been arrested in connection with the murder of Nawalapitiya police and has been arrested in connection with the murder of her mother's 41 -year -old son.
-
-The death investigation revealed that the suspect had suffered several injuries in his head and his ribs had been broken into 22 pieces.
-
-The father, who was severely injured when the suspect was hit by his father's head a few days ago, has lived in the house of his eldest daughter.
-
-The suspect attacked his wife on the 17th and his wife had taken the children and went to his mother's house, police said.
-
-The suspect, who lived with her mother, attacked her mother at the age of 16 at the age of 16 and that no one was concerned about her.
-
-He then went to Nawalapitiya area for personal work and returned home at 4 pm and was found dead inside his home.
-
-...
-
-[Data](articles/9900b5e7.json)
-
-[Extended Data](ext_articles/9900b5e7.ext.json)
 
 ---

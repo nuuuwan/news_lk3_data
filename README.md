@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 03:02:34**
+As of **2024-01-28 03:17:31**
 
 ## Newspaper Stats
 
-*Scraped **2,958** Articles*
+*Scraped **2,959** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 215
 adalk | 269
 adaderanasinhalalk | 289
 virakesarilk | 305
-tamilmirrorlk | 374
+tamilmirrorlk | 375
 adaderanalk | 384
 dailymirrorlk | 405
 
@@ -26,11 +26,27 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,958 (100.0%) of 2,958 articles have been extended.
+2,958 (100.0%) of 2,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### கிராம உத்தியோகத்தர் பெறுபேறுகள் வெளியாகின
+
+*2024-01-28 02:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராம-உத்தியோகத்தர்-பெறுபேறுகள்-வெளியாகின/175-332195) · `ta`
+
+வெற்றிடமாக காணப்பட்ட 2,002 கிராம உத்தியோகத்தர்களின் வெற்றிடங்களை நிரப்புவதற்காக நடைபெற்ற போட்டிப் பரீட்சையில் சித்தியடைந்து நேர்முகத்தேர்வுக்கு தகுதி பெற்றவர்களின் பெயர் விபரங்கள் வெளியிடப்பட்டுள்ளன.
+
+கிராம உத்தியோகத்தர்களை தெரிவு செய்வதற்காக கடந்த வருடம் டிசம்பர் மாதம் இரண்டாம் திகதி இடம்பெற்ற போட்டிப் பரீட்சைக்கு அமைய 4 ஆயிரத்து 232 பேர் நேர்முகத்தேர்வுக்கு தகுதிபெற்றுள்ளனர் என  தெரிவிக்கப்பட்டுள்ளது.
+
+இவ்வாறு நேர்முகத்தேர்வுக்கு தகுதிபெற்றவர்கள் தொடர்பான தகவல்களை உள்நாட்டலுவல்கள் அமைச்சின் உத்தியோகபூர்வ இணையத்தளத்தில் பார்வையிட முடியும் என இராஜாங்க அமைச்சர் அசோக பிரியந்த தெரிவித்துள்ளார். (a)
+
+◼️
+
+[Data](articles/52ece667.json)
+
+---
 
 ### Accident again on the highway highway
 
@@ -2035,25 +2051,5 @@ At the time of the accident, the group had been returning from a wedding ceremon
 [Data](articles/572b8fce.json)
 
 [Extended Data](ext_articles/572b8fce.ext.json)
-
----
-
-### Fresh efforts underway to expedite illumination in Expressways
-
-*2024-01-27 07:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fresh-efforts-underway-to-expedite-illumination-in-Expressways/108-275794) · `en`
-
-Colombo, Jan. 27 (Daily Mirror)- In the wake of two fatal accidents including the pre-dawn crash that claimed the life of State Minister Sanath Nishantha, the Road Development Authority (RDA) is planning to expedite illumination of the expressway by laying aluminum transmission cables in place of Rs.250 million worth copper current cables stolen during the pandemic.
-
-Darkness is now identified as one of the reasons that can cause accidents on the expressway after nightfall.
-
-Asked for a comment on the situation, Transport, Highways and Media Minister Bandula Gunawardane told Daily Mirror that the RDA, instructed by engineers, decided to lay aluminum cables for power transmission along the expressway that links the airport with the city.
-
-However, he said the project remain delayed and he instructed the officials concerned to complete work in one month’s time.
-
-◼️
-
-[Data](articles/43c18573.json)
-
-[Extended Data](ext_articles/43c18573.ext.json)
 
 ---

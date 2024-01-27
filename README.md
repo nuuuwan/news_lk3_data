@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 19:49:37**
+As of **2024-01-27 20:03:09**
 
 ## Newspaper Stats
 
-*Scraped **2,936** Articles*
+*Scraped **2,937** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 268
 adaderanasinhalalk | 282
 virakesarilk | 305
 tamilmirrorlk | 373
-adaderanalk | 376
+adaderanalk | 377
 dailymirrorlk | 402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,936 (100.0%) of 2,936 articles have been extended.
+2,937 (100.0%) of 2,937 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### India, Sri Lanka hopeful of early ETCA conclusion, working on Kochi-Colombo LNG pipeline
+
+*2024-01-27 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96777/india-sri-lanka-hopeful-of-early-etca-conclusion-working-on-kochi-colombo-lng-pipeline-) · `en`
+
+India has expressed hopes for the early conclusion of the Economic and Technology Cooperation Agreement (ETCA), which seeks to add to the existing free trade agreement with Sri Lanka, to pave the way to boost the island’s export potential.
+
+Indian High Commissioner to Sri Lanka, Mr. Santosh Jha, addressing an event held in Colombo, said: “We hope to enhance our economic partnership and enhance Sri Lanka’s export potential through early conclusion of the Economic and Technology Cooperation Agreement, just as the FTA opened new export opportunities for Sri Lanka to India, which now stands at more than 1 billion dollars.”
+
+The remarks came during an evening reception hosted by Mr. Jha at India House in Colombo on the occasion of 75th Republic Day of India on Friday (Jan.26).
+
+...
+
+[Data](articles/ab256253.json)
+
+[Extended Data](ext_articles/ab256253.ext.json)
+
+---
 
 ### Somali pirates abduct Sri Lankan fishing trawler with 6 crew members
 
@@ -2045,19 +2063,5 @@ As the Official Banking Partner, NDB’s dedicated stall invites potential homeo
 [Data](articles/9e8017a7.json)
 
 [Extended Data](ext_articles/9e8017a7.ext.json)
-
----
-
-### Nelco Food Products bags Gold award at NIE Awards
-
-*2024-01-27 00:46:37* · [`dailyftlk`](https://www.ft.lk/business/Nelco-Food-Products-bags-Gold-award-at-NIE-Awards/34-757820) · `en`
-
-Nelco Food Products Ltd., a leading food company in the country, claimed Gold award in the Medium Category (Spices and Condiments Sector) at the National Industry Excellence Awards 2023 organised by the Industrial Development Board (IDB). The award ceremony was held recently at the Nelum Pokuna Mahinda Rajapaksa Theatre in Colombo under the patronage of former President Mahinda Rajapaksa. Founded by Nimal Ariyaratne as a small-scale home-based business in 1992, Nelco Food Products is currently a leading food company in the country. Since inception, they have stood firm against many challenges. Nelco Food Products has provided more than 250 job opportunities and indirect earning opportunities for many while moving ahead steadily in the market.
-
-...
-
-[Data](articles/15f8acfa.json)
-
-[Extended Data](ext_articles/15f8acfa.ext.json)
 
 ---

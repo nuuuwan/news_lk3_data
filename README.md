@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 06:52:21**
+As of **2024-01-27 07:15:04**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,832 (99.7%) of 2,840 articles have been extended.
+2,840 (100.0%) of 2,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### கொழும்பில் இன்று போக்குவரத்து மட்டுப்பாடு
+### Traffic in Colombo today
 
 *2024-01-27 02:53:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இன்று-போக்குவரத்து-மட்டுப்பாடு/175-332161) · `ta`
 
-கண்டி – கொழும்பு பிரதான வீதியின் போக்குவரத்து இன்று (27) இரவு 7 மணி முதல் 8.30 மணி வரை மட்டுப்படுத்தப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Traffic on the Kandy -Colombo main road will be restricted from 7 pm to 8.30 pm today.
 
-நிட்டம்புவ ஸ்ரீ விஜயராம விகாரையின் மஹா பெரஹெராவினை முன்னிட்டு இந்த தீர்மானம் மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+The decision has been made in front of the Maha Perahera of the Nittambuwa Sri Vijayarama Vihara, police said.
 
-அதன்படி இன்று  இரவு 7 மணி முதல் 8.30 மணி வரை ஊர்வலம் நடைபெறவுள்ளது.
+Accordingly, the procession will be held from 7 pm to 8.30 pm.
 
-ஊர்வலமானது நிட்டம்புவ மல்வத்தை ஸ்ரீ போதி விகாரையில் இருந்து கொழும்பு - கண்டிவ பிரதான வீதியில் நிட்டம்புவ சந்தி வரை சென்று வலப்புறம் திரும்பி அத்தனகல்ல வீதியில் பயணித்து நிட்டம்புவ ஸ்ரீ விஜயராம விகாரையை வந்தடையும் என அறிவிக்கப்பட்டுள்ளது. (a)
+It has been announced that the procession will go to Nittambuwa Malwatte to Sri Bodhi Viharaya to Colombo - Kandiva main road and travel to the right side of Attanagalla road. (A)
 
 ◼️
 
 [Data](articles/f96f0b0d.json)
+
+[Extended Data](ext_articles/f96f0b0d.ext.json)
 
 ---
 
@@ -664,6 +666,8 @@ On top of that, corporate financial results for the up and coming quarter showed
 
 [Data](articles/1b86d828.json)
 
+[Extended Data](ext_articles/1b86d828.ext.json)
+
 ---
 
 ### People’s Bank and George Steuart Solutions join forces to promote solar energy in Sri Lanka
@@ -677,6 +681,8 @@ This groundbreaking partnership aims to make solar energy more affordable to cus
 ...
 
 [Data](articles/0afdf6c9.json)
+
+[Extended Data](ext_articles/0afdf6c9.ext.json)
 
 ---
 
@@ -693,6 +699,8 @@ The Bank-driven initiative will result in holders of Commercial Bank Visa Infini
 ...
 
 [Data](articles/9b7f2beb.json)
+
+[Extended Data](ext_articles/9b7f2beb.ext.json)
 
 ---
 

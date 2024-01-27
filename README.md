@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 22:32:55**
+As of **2024-01-27 22:50:09**
 
 ## Newspaper Stats
 
-*Scraped **2,948** Articles*
+*Scraped **2,950** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 268
 adaderanasinhalalk | 287
 virakesarilk | 305
 tamilmirrorlk | 373
-adaderanalk | 380
+adaderanalk | 382
 dailymirrorlk | 405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,945 (99.9%) of 2,948 articles have been extended.
+2,948 (99.9%) of 2,950 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### ‘New Alliance’ kicks off inaugural public rally
+
+*2024-01-27 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96780/new-alliance-kicks-off-inaugural-public-rally) · `en`
+
+A new coalition named ‘New Alliance’, founded by MP Nimal Lanza, held its inaugural public rally in Ja-Ela on Saturday (Jan.27).
+
+Addressing the event, the parliamentarian vowed to form a new alliance by amalgamating the political parties with the highest number of members representing the parliament.
+
+‘New Alliance’ will back incumbent Ranil Wickremesinghe in the upcoming Presidential Election.
+
+MP Anura Priyadarshana Yapa serves as the operational leader of the coalition.
+
+The inaugural rally was joined by Ministers Nalin Fernando and Susil Premajayantha and MP Priyankara Jayaratne.
+
+◼️
+
+[Data](articles/475e65d1.json)
+
+---
 
 ### ‘New Alliance’ kicks off inaugural rally
 
@@ -49,6 +69,8 @@ The inaugural rally was joined by Ministers Nalin Fernando and Susil Premajayant
 ◼️
 
 [Data](articles/4ca4fdb6.json)
+
+[Extended Data](ext_articles/4ca4fdb6.ext.json)
 
 ---
 
@@ -86,6 +108,24 @@ Accordingly, motorists heading to Colombo are urged to use the Kokmaduwa interch
 
 [Data](articles/46457999.json)
 
+[Extended Data](ext_articles/46457999.ext.json)
+
+---
+
+### Container truck topples on Southern Expressway, disrupting traffic
+
+*2024-01-27 21:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96779/container-truck-topples-on-southern-expressway-disrupting-traffic) · `en`
+
+Vehicular movement on the Southern Expressway towards Colombo has been disrupted by a toppled container truck, Ada Derana correspondent says.
+
+The incident took place between the Godagama and Kokmaduwa interchanges a short while ago.
+
+Accordingly, motorists heading to Colombo are urged to use the Kokmaduwa interchange until the stretch of the road is cleared and vehicular movement is restored.
+
+◼️
+
+[Data](articles/850a2cc4.json)
+
 ---
 
 ### Another suspect arrested for murder Beliatta
@@ -115,6 +155,8 @@ A 30-year-old was arrested on Friday (Jan.27) on suspicion of taking possession 
 ◼️
 
 [Data](articles/f706c1a6.json)
+
+[Extended Data](ext_articles/f706c1a6.ext.json)
 
 ---
 
@@ -2015,45 +2057,5 @@ When the Parliament is prorogued, the questions and motions that have not been c
 [Data](articles/029833b3.json)
 
 [Extended Data](ext_articles/029833b3.ext.json)
-
----
-
-### Another person arrested for exit agrology question paper
-
-*2024-01-27 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192609) · `si`
-
-The Aladder of the Moratuwa College has been arrested and produced before the Ampara Magistrate's Court regarding the agrology of the GCE Advanced Level examination.
-
-The Department of Examinations said that the Magistrate had first been arrested by the Magistrate to remanded until February second in February.
-
-It is reported that the Goldeniya is serving as a teacher consultant at the Piliyandala Zonal Education Office.
-
-The Department of Examinations said that the CID is conducting further investigations.
-
-◼️
-
-[Data](articles/9dd80636.json)
-
-[Extended Data](ext_articles/9dd80636.ext.json)
-
----
-
-### Flowers in Nuwara Eliya
-
-*2024-01-27 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192608) · `si`
-
-The Department of Meteorology has announced that showers can occur at the Northern, North-Central and Uva provinces.
-
-There may be 40 km of strong winds per hour in the North-Central, Eastern, Uva and Northwestern provinces.
-
-It is also reported that there is a possibility of the possibility of a large number of locations in the Nuwara Eliya district.
-
-Showers or thundershowers will occur at several places in the Central, Sabaragamuwa and Western provinces and in the Galle and Matara districts.
-
-◼️
-
-[Data](articles/fc82ac9e.json)
-
-[Extended Data](ext_articles/fc82ac9e.ext.json)
 
 ---

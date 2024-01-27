@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 16:32:54**
+As of **2024-01-27 16:47:15**
 
 ## Newspaper Stats
 
-*Scraped **2,917** Articles*
+*Scraped **2,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ islandlk | 159
 economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
-adalk | 267
+adalk | 268
 adaderanasinhalalk | 274
 virakesarilk | 305
-tamilmirrorlk | 370
 adaderanalk | 371
-dailymirrorlk | 400
+tamilmirrorlk | 371
+dailymirrorlk | 402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,915 (99.9%) of 2,917 articles have been extended.
+2,917 (99.9%) of 2,921 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ The arrest was made in Pilimathalawa area by the Illegal Assets and Property Inv
 ◼️
 
 [Data](articles/05ecc232.json)
+
+[Extended Data](ext_articles/05ecc232.ext.json)
 
 ---
 
@@ -61,6 +63,26 @@ Meanwhile, the Chairman of the COPA, State Minister Lasantha Alagiyawanna assure
 ◼️
 
 [Data](articles/b871f64e.json)
+
+[Extended Data](ext_articles/b871f64e.ext.json)
+
+---
+
+### மாணவர்களுக்கான உணவு விலை அதிகரிப்பு
+
+*2024-01-27 15:42:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கான-உணவு-விலை-அதிகரிப்பு/175-332178) · `ta`
+
+பாடசாலை மாணவர் ஒருவரின் உணவுக்காக தற்போது வழங்கப்படும் 85 ரூபாயை 115 ரூபாயாக அதிகரிப்பது தொடர்பில் கல்வி அமைச்சு கவனம் செலுத்தியுள்ளது.
+
+அண்மையில் இது தொடர்பில் பேச்சுவார்த்தைகள் இடம்பெற்றுள்ளதுடன், நிதியமைச்சின் பிரதிநிதிகளுடனும் கலந்துரையாடப்பட்டுள்ளதாக கல்வி அமைச்சு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+
+இந்தநிலையில், இது தொடர்பிலான இறுதித் தீர்மானம் அடுத்தவாரமளவில் எடுக்கப்படும் என்றும் அந்த அறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
+
+அத்தியாவசிய உணவுப் பொருட்களின் விலையேற்றித்தினால் இந்த தீர்மானம் எட்டப்பட்டுள்ளகவும், இதேவேளை, 100,000 பாடசாலை மாணவர்களுக்கு இலவச மதிய உணவு தற்போது வழங்கப்பட்டு வருகின்றதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/a6340e6c.json)
 
 ---
 
@@ -102,6 +124,26 @@ The final text upheld by the council retains key elements initially desired by t
 
 ---
 
+### තායිලන්තය එපා කියූ කුණු මාළු බහාලුම් 98ක් ලංකාවට ගෙනල්ලා
+
+*2024-01-27 14:29:36* · [`adalk`](https://www.ada.lk/breaking_news/තායිලන්තය-එපා-කියූ-කුණු-මාළු-බහාලුම්-98ක්-ලංකාවට-ගෙනල්ලා/11-407742) · `si`
+
+කාබනික පොහොර නිෂ්පාදන සමාගමක් සඳහා නෞකාවක නරක්වූ මාළු බහාලුම් 98ක් ගොඩබෑමට ශ්‍රී ලංකා රේගුවේ ඉල්ලීමට ආනයන හා අපනයන පාලක බලපත්‍රයක් නිකුත් කරලා - අදාළ සමාගමට ම සැමන් නිෂ්පාදන ආයතනයක් - කෝපා කමිටුවේදී අනාවරණය වෙයි.
+
+ආනයන හා අපනයන පාලන දෙපාර්තමේන්තුවෙන් ආනයන බලපත්‍ර නිකුත් කලත්, පසු විපරමක් සිදු නොවීම ගැන කාරක සභාවේ කනස්සල්ල..
+
+සියලු තොරතුරු රැස් කරමින් කඩිනමින් දත්ත පද්ධතිය සකස් කර අවසන් කරන්න - කෝපා කමිටුවෙන් ආනයන හා අපනයන පාලන දෙපාර්තමේන්තුවට උපදෙස්..
+
+කාබනික පොහොර නිෂ්පාදනය සමාගමක් සඳහා නෞකාවක නරක්වූ මාළු බහාලුම් 98ක් මෙරට ගොඩබෑම සඳහා ශ්‍රී ලංකා රේගුවේ ඉල්ලීමට ආනයන හා අපනයන පාලක ජනරාල් විසින් බලපත්‍රක් නිකුත් කර ඇති බව රජයේ ගිණුම් පිළිබඳ  කාරක සභාවේදී අනාවරණය විය.
+
+මේ පිළිබද කරුණු අනාවරණය වූයේ රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතාගේ සභාපතිත්වයෙන්  එම කාරක සභාව පසුගියදා (23) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය. මෙදින කාරක සභාව හමුවට 2021 සහ 2022 මූල්‍ය වර්ෂය සඳහා වූ විගණකාධිපති වාර්තා සහ කාර්ය සාධනය පරික්ෂාව සඳහා ආනයන හා අපනයන පාලන දෙපාර්තමේන්තුව කැඳවා තිබිණි.
+
+...
+
+[Data](articles/6ca5fc25.json)
+
+---
+
 ### The twins found after 19 years
 
 *2024-01-27 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192623) · `si`
@@ -117,6 +159,26 @@ Details of a child racket of child racket in Georgia have also been revealed in 
 [Data](articles/fa26362a.json)
 
 [Extended Data](ext_articles/fa26362a.ext.json)
+
+---
+
+### Three killed in three-wheeler-lorry collision
+
+*2024-01-27 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-killed-in-three-wheeler-lorry-collision/108-275819) · `en`
+
+Kurunegala, Jan. 27 (Daily Mirror)- Two men and a woman were killed after a three-wheeler they were travelling in collided head-on with a lorry at Kivulgalla in Narammala this morning, Police said.
+
+The driver of the three-wheeler, two women and a man who were critically injured were admitted to the Narammala Hospital where one man was pronouned dead on admission while the three-wheeler driver and a woman died after being admitted to the Kurunegala Hospital.
+
+The deceased are 50 and 53 years-old men and a 61-year-old woman from the Kelaniya and Wattala areas.
+
+The injured woman is receiving treatment at the Kurunegala Hospital.
+
+The driver of the lorry was arrested in connection with the accident.
+
+◼️
+
+[Data](articles/75d053f5.json)
 
 ---
 
@@ -1266,6 +1328,24 @@ However, he said the project remain delayed and he instructed the officials conc
 
 ---
 
+### Fresh efforts underway to expedite illumination in Expressways
+
+*2024-01-27 07:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Fresh-efforts-underway-to-expedite-illumination-in-Expressways/155-275794) · `en`
+
+Colombo, Jan. 27 (Daily Mirror)- In the wake of two fatal accidents including the pre-dawn crash that claimed the life of State Minister Sanath Nishantha, the Road Development Authority (RDA) is planning to expedite illumination of the expressway by laying aluminum transmission cables in place of Rs.250 million worth copper current cables stolen during the pandemic.
+
+Darkness is now identified as one of the reasons that can cause accidents on the expressway after nightfall.
+
+Asked for a comment on the situation, Transport, Highways and Media Minister Bandula Gunawardane told Daily Mirror that the RDA, instructed by engineers, decided to lay aluminum cables for power transmission along the expressway that links the airport with the city.
+
+However, he said the project remain delayed and he instructed the officials concerned to complete work in one month’s time.
+
+◼️
+
+[Data](articles/f8ba7f72.json)
+
+---
+
 ### The cause of the accidents on highways
 
 *2024-01-27 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192611) · `si`
@@ -1947,81 +2027,5 @@ Alabama Attorney General Steve Marshall said “justice has been served” with 
 [Data](articles/d945ec13.json)
 
 [Extended Data](ext_articles/d945ec13.ext.json)
-
----
-
-### Explanation for the driver of Sanath Nishantha
-
-*2024-01-26 22:06:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-சாரதிக்கு-விளக்கமறியல்/175-332146) · `ta`
-
-The Velisara Magistrate's Court has ordered the detriment of the deceased Minister Sanath Nishantha to be remanded until the 5th of February.
-
-The driver of the car has revealed the facts to the driver of the car over the death of Sanath Nishantha.
-
-He has been working as a driver of Sanath Nishantha for about 10 years.
-
-The driver of the police protection at the Ragama Hospital was injured in the accident.. Remble
-
-◼️
-
-[Data](articles/70bab147.json)
-
-[Extended Data](ext_articles/70bab147.ext.json)
-
----
-
-### Promotion to the deceased police constable
-
-*2024-01-26 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192607) · `si`
-
-His security officer Anuradha Jayakody has been promoted to the ratio of the police sergeant who died in accident with State Minister Sanath Nishantha.
-
-The Police Media Division has issued a statement.
-
-Accordingly, the acting IGP has been promoted to the post of Police Sergeant at the Post Promotions on 22/93 Public Administration Circulars.
-
-◼️
-
-[Data](articles/48b24192.json)
-
-[Extended Data](ext_articles/48b24192.ext.json)
-
----
-
-### MSD officer of late State Minister posthumously promoted
-
-*2024-01-26 21:41:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/MSD-officer-of-late-State-Minister-posthumously-promoted/108-275798) · `en`
-
-Colombo, Jan. 26 (Daily Mirror)- Police Constable J.A.A. Jayakodi who was the security officer of late State Minister Sanath Nishantha, who died in an accident on the Katunayake Expressway, was posthumously promoted to the rank of Police Sergeant by the IGP with effect from January 25.
-
-The constable attached to the Ministerial Security Division (MSD) and State Minister Sanath Nishantha died in the accident early morning on Wednesday.
-
-◼️
-
-[Data](articles/4c37ddfb.json)
-
-[Extended Data](ext_articles/4c37ddfb.ext.json)
-
----
-
-### Alcohol provision for Ananda Thera of Muruththettuwe Ananda Thera
-
-*2024-01-26 21:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192606) · `si`
-
-President Ranil Wickremesinghe was present at the Sri Paratrama Ancupitiya Ananda The Sri Paratrama Anchoke, Ven.
-
-At the end of that alms, Ven.
-
-He urged the president to prepare a program to protect the five-day policy in the country, he emphasized that true Buddhists are frustrating and frustrated and frustrated by the Maha Sangha, to get rid of this situation quickly, the survival revision of the Maha Sangha should be performed soon.And
-
-Ven. Muruththewe Ananda Leader, Speaking further,
-
-"Today there are many things that are incorporated to Buddhism as well as from some of the media. Films should be filled with a short time to receive intellectual. But now, the Buddhist. These are very impossible for the Buddha Sasana. I urge you as the head of state to stop the disaster for the Sambuddha Sasana. I kindly request that a monastery or a managing the assault.
-
-...
-
-[Data](articles/ca176a7f.json)
-
-[Extended Data](ext_articles/ca176a7f.ext.json)
 
 ---

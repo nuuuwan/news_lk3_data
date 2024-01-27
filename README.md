@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 11:32:47**
+As of **2024-01-27 11:51:20**
 
 ## Newspaper Stats
 
-*Scraped **2,875** Articles*
+*Scraped **2,885** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,133 @@ colombotelegraphcom | 40
 bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 159
-newsfirstlk | 163
+newsfirstlk | 167
 economynextcom | 168
 dailyftlk | 215
 adaderanasinhalalk | 264
 adalk | 265
 virakesarilk | 301
-tamilmirrorlk | 360
-adaderanalk | 363
+adaderanalk | 364
+tamilmirrorlk | 365
 dailymirrorlk | 400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,875 (100.0%) of 2,875 articles have been extended.
+2,875 (99.7%) of 2,885 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### Three killed in accident on Kurunegala - Giriulla main road
+
+*2024-01-27 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96764/three-killed-in-accident-on-kurunegala-giriulla-main-road) · `en`
+
+Three individuals were reported dead following a collision between a lorry and a three-wheeler at Kiwulgalla on the Kurunegala-Giriulla main road this morning (Jan.27), the police said.
+
+◼️
+
+[Data](articles/965ac04c.json)
+
+---
+
+### 36 வழக்குகளில் மு.காவின் மனு திங்கள் விசாரணை
+
+*2024-01-27 11:04:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-வழக்குகளில்-மு-காவின்-மனு-திங்கள்-விசாரணை/175-332172) · `ta`
+
+பாராளுமன்றத்தில் கடந்த ஜனவரி 10ஆம் திகதி கொண்டு வரப்பட்டிருக்கும் புதிய பயங்கரவாத தடைச்  சட்டமூலத்திற்கு எதிராக 36 மனுக்கள் உயர் நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுள்ள நிலையில்,
+
+ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர் ரவூப் ஹக்கீம் மற்றும் கட்சியின் செயலாளர் ஜனாதிபதி சட்டத்தரணி நிசாம் காரியப்பர் ஆகியோர் வெள்ளிக்கிழமை (26) உயர்நீதி மன்றத்திற்கு வந்திருந்தனர்.
+
+ஸ்ரீ லங்கா முஸ்லிம் காங்கிரஸ் தாக்கல் செய்திருக்கும் SC/SD/27 /2014. இலக்க மனு திங்கட்கிழமை(29) விசாரணைக்கு எடுத்துக் கொள்ளப்படும் போது   அவர்கள் வாதாடவுள்ளனர்.
+
+பிரதம நீதியரசர் ஜனாதிபதி சட்டத்தரணி ஜயந்த ஜயசூரிய தலைமையில், ஐவர் அடங்கிய நீதியரசர் குழாமினால்   பிரஸ்தாப வழக்கு விசாரணை தற்பொழுது முன்னெடுக்கப்பட்டுவருகின்றது.
+
+நடைமுறையிலுள்ள பயங்கரவாத தடைச் சட்டத்தை விட ஆபத்தான பல்வேறு விடயங்கள் அரசாங்ம் கொண்டுவந்துள்ள இந்த புதிய திருத்தச் சட்டத்தில் அடங்கியுள்ளதாக பல தரப்பினராலும் சுட்டிக்காட்டப்பட்டு வருகின்றது. R
+
+◼️
+
+[Data](articles/b16345a8.json)
+
+---
+
+### Three Killed, One Injured in Narammala Accident
+
+*2024-01-27 11:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/three-killed-one-injured-in-narammala-accident/) · `en`
+
+COLOMBO (News 1st); A tragic accident in Kivulgalla claimed the lives of three individuals and injured another in a collision between a three-wheeler and a truck.
+
+According to police reports, the incident occurred early this morning, with details surrounding the cause of the crash still under investigation.
+
+The deceased identified as residents of the Kelaniya area are exceeding 50 years of age.
+
+Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
+
+◼️
+
+[Data](articles/f36b88d9.json)
+
+---
+
+### Jagath Priyantha Named to Replace Late Sanath Nishantha
+
+*2024-01-27 10:56:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/jagath-priyantha-named-to-replace-late-sanath-nishantha/) · `en`
+
+COLOMBO (News 1st); The Sri Lanka Podujan Peramuna is set to retain its Puttalam District seat in Parliament following the passing of State Minister Sanath Nishantha.
+
+District Secretary Sunanda Herath confirmed that Jagath Priyantha's name has been forwarded to the Election Commission as the replacement candidate.
+
+Election Commissioner General Saman Sri Ratnayake said that Priyantha's official appointment as Member of Parliament will be published in the Gazette shortly.
+
+Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
+
+◼️
+
+[Data](articles/0dc471ba.json)
+
+---
+
+### Online Safety Bill Heads for Legal Review
+
+*2024-01-27 10:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/online-safety-bill-heads-for-legal-review/) · `en`
+
+COLOMBO (News 1st): Following its passage in Parliament on January 24th, the controversial Online Safety Bill will undergo further legal scrutiny before being officially signed into law.
+
+Speaker Mahinda Yapa Abeywardena announced that the Attorney General's Department will investigate whether all amendments inserted during the legislative process were properly implemented as per Supreme Court directives.
+
+The Speaker assured that "every bill" undergoes such scrutiny by the Attorney General's office to ensure adherence to legal procedures and address any potential deficiencies.
+
+Additionally, a team of parliamentary officials will conduct a second review after receiving confirmation from the Attorney General. Only after these safeguards are met will the Speaker sign and finalize the bill.
+
+The bill's passage through Parliament itself was a closely contested affair.
+
+...
+
+[Data](articles/9eef587b.json)
+
+---
+
+### பட்டப்பகலில் 14 பவுண் தங்க நகைகள் கொள்ளை
+
+*2024-01-27 10:50:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பட்டப்பகலில்-14-பவுண்-தங்க-நகைகள்-கொள்ளை/73-332171) · `ta`
+
+அக்கரைப்பற்றில் அமைந்துள்ள வீடொன்றில் நேற்று (26) பட்டப்பகலில் 14 பவுண் மதிக்கத்தக்க தங்க நகைகளை கொள்ளையிட்டு சென்றுள்ளதாக முறைப்பாடளிக்கப்பட்டுள்ளது.
+
+சம்பவ தினமான இன்று வைத்தியசாலையில் கடமை புரியும் கணவனும் மனைவியும் தனது இரு பிள்ளைகளையும் சகோதரியிடம் விட்டு விட்டு வைத்தியசாலைக்கு சென்றுள்ளனர்.
+
+இதேநேரம் வீட்டு உரிமையாளரின் சகோதரி இரு பிள்ளைகளையும் பிரதேச சுகாதார வைத்திய அதிகாரி பணிமனைக்கு அழைத்துச் சென்று பின்னர் வீட்டிற்கு சென்று பார்க்கையில் வீட்டின் ஜன்னல் உடைக்கப்பட்டு திருட்டு நடைபெற்றுள்ளதை அவதானித்து அயலவர்களின் உதவியை கோரியுள்ளார்.
+
+ஆயினும் வீட்டின் அலுமாரியில் இருந்த நகைகள் கொள்ளையிடப்பட்டுள்ளதை வீட்டின் உரிமையாளர் பார்வையிட்டு உறுதிப்படுத்தினார்.
+
+இந்த நிலையில் சம்பவ இடத்திற்கு விரைந்த அக்கரைப்பற்று பொலிஸ் நிலைய குற்றத்தடுப்பு பொறுப்பதிகாரி எம்.எச்.எம்.ஹசீப் தலைமையிலான பொலிசார் தீவிர விசாரணையை ஆரம்பித்துள்ளனர். R
+
+◼️
+
+[Data](articles/34a601e5.json)
+
+---
 
 ### UN agency fires Gaza staff suspected of joining Oct.7 attacks on Israel
 
@@ -49,6 +157,78 @@ Lazzarini did not disclose the number of employees allegedly involved in the att
 [Data](articles/05ba5a26.json)
 
 [Extended Data](ext_articles/05ba5a26.ext.json)
+
+---
+
+### 83 மில்லியன் டொலர் நஷ்ட ஈடு வழங்க ட்ரம்புக்கு உத்தரவு
+
+*2024-01-27 10:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/83-மில்லியன்-டொலர்-நஷ்ட-ஈடு-வழங்க-ட்ரம்புக்கு-உத்தரவு/50-332170) · `ta`
+
+பெண் பத்திரிகையாளர் தொடர்ந்து அவதூறு வழக்கில் அமெரிக்க முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் 83 மில்லியன் டொலர் நஷ்ட ஈடு வழங்க உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+பொதுவெளியில் தன்னை அவமானப்படுத்தியதாக பெண் பத்திரிக்கையாளர் ஜீன் கரோல் என்பவர் நியூயார்க் நீதிமன்றத்தில் வழக்கு தொடர்ந்தார். இந்த வழக்கில் 10 மில்லியன் டொலர் நஷ்ட ஈடு கோரப்பட்டது.
+
+இந்த வழக்கை விசாரித்த நியூயார்க் நீதிமன்றம் 83 மில்லியன் டொலர் நஷ்ட ஈடு வழங்க ட்ரம்புக்கு உத்தரவிட்டுள்ளது.
+
+ஜீன் கரோல் கேட்டதை விட 8 மடங்கு அதிகமாக நீதிமன்றம் நஷ்ட ஈடு வழங்க உத்தரவு பிறப்பித்துள்ளது.
+
+அதை எதிர்த்து மேல்முறையீடு செய்யப்படும் என டொனால்ட் டிரம்ப் தரப்பில் தெரிவிக்கப்பட்டுள்ளது. (N)
+
+◼️
+
+[Data](articles/401bd19d.json)
+
+---
+
+### 12 வயது சிறுவன் துஷ்பிரயோகம்; இருவர் கைது
+
+*2024-01-27 10:27:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-வயது-சிறுவன்-துஷ்பிரயோகம்-இருவர்-கைது/175-332169) · `ta`
+
+கடலுக்குள் இழுத்துச் சென்று 12 வயது சிறுவனை பாலியல் துஷ்பிரயோகம்  செய்த இளைஞனும் அதற்கு உதவிய 16 வயது சிறுவனும் அங்குலான பொலிஸாரால் நேற்று கைது செய்யப்பட்டுள்ளனர்.
+
+கடற்கரையில் இருந்தபோது சந்தேக நபர்கள் இருவரும் தன்னை தண்ணீருக்குள் இழுத்து பாலியல்ரீதியாக துஷ்பிரயோகம் செய்ததாக பாதிக்கப்பட்ட சிறுவன் பொலிஸாரிடம் முறையிட்டுள்ளார்.
+
+அந்த இளைஞன் தன்னை துஷ்பிரயோகம் செய்த போது மற்றைய சிறுவன் அதை பார்த்து ரசித்ததாக பாதிக்கப்பட்ட சிறுவன் வாக்குமூலம் அளித்துள்ளார்.
+
+இந்த நிலையில், பாதிக்கப்பட்ட சிறுவனின் பெற்றோர் செய்த முறைப்பாட்டின் அடிப்படையில் சந்தேக நபர்கள் இருவரும் கைது செய்யப்பட்டுள்ளனர். (N)
+
+◼️
+
+[Data](articles/c9944693.json)
+
+---
+
+### WPL 2024: UP Warriorz Rope in Chamari Athapaththu
+
+*2024-01-27 10:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/wpl-2024-up-warriorz-rope-in-chamari-athapaththu/) · `en`
+
+UP Warriorz have named Sri Lanka skipper Chamari Athapaththu as a replacement for England fast-bowler Lauren Bell ahead of the 2024 season of the Women’s Premier League (WPL).
+
+English fast bowler Lauren Bell has withdrawn from the upcoming season of the Women’s Premier League 2024.
+
+Among the most powerful hitters in the game, Chamari has featured in over 120 T20Is for Sri Lanka. Known for her attacking batting and handy off-spin bowling, Athapaththu is the only Sri Lankan woman to have scored a century in T20Is.
+
+Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
+
+◼️
+
+[Data](articles/b4cd82ee.json)
+
+---
+
+### அதிவேக நெடுஞ்சாலை விபத்துக்கள்; இதுதான் காரணம்
+
+*2024-01-27 10:21:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலை-விபத்துக்கள்-இதுதான்-காரணம்/175-332168) · `ta`
+
+அதிவேக நெடுஞ்சாலைகளில் ஏற்படும் விபத்துக்களுக்கு முக்கிய காரணம் விதிமுறைகளை கடைப்பிடிக்காத சாரதிகளே என அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+
+இந்த நிலையில், விதிகளை மீறும் சாரதிகளுக்கு எதிராக விசேட வேலைத்திட்டம் விரைவில் அமுல்படுத்தப்படவுள்ளதாக அவர் கூறியுள்ளார்.
+
+இதேவேளை, கட்டுநாயக்காவிலிருந்து கொழும்பு வரையிலான நெடுஞ்சாலையில் மின்சார விளக்குகளை பொருத்தும் வேலைத்திட்டம் தற்போது ஆரம்பிக்கப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0c1dac96.json)
 
 ---
 
@@ -402,8 +582,6 @@ The maiden rally of this new political movement will be presided over by Ministe
 
 Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
 
-Political Landscape Reshapes as ‘New Alliance’ To Takes its First Steps
-
 ◼️
 
 [Data](articles/2fc92d1a.json)
@@ -525,8 +703,6 @@ Subsequent search led to the recovery of 03 sacks stuffed with heroin weighing m
 The street value of the seized heroin is believed to be more than Rs. 1626 million.
 
 Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
-
-Political Landscape Reshapes as ‘New Alliance’ To Takes its First Steps
 
 ◼️
 
@@ -1801,215 +1977,5 @@ The request was ordered to be remanded until 31st on 31st of the 31st of the mag
 [Data](articles/9fb82ecd.json)
 
 [Extended Data](ext_articles/9fb82ecd.ext.json)
-
----
-
-### Sri Lanka rupee closes at 317.50/80 to the US dollar
-
-*2024-01-26 17:25:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-317-50-80-to-the-us-dollar-148820/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 317.50/80 to the US dollar on Friday, from 318.10/40 the previous day, dealers said.
-
-A bond maturing on 01.02.2026 closed at 13.10/20 percent from 13.05/15 percent.
-
-A bond maturing on 15.09.2027 closed at 13.45/60 percent from 13.35/50 percent.
-
-A bond maturing on 15.03.2028 closed at 13.70/80 percent from 13.60/75 percent.
-
-A bond maturing on 15.07.2029 closed at 13.95/14.00 percent from 13.85/95 percent.
-
-A bond maturing on 15.05.2030 closed stable at 13.90/14.00 percent.
-
-A bond maturing on 01.07.2032 closed at 14.00/10 percent from 14.00/15 percent. (Colombo/Jan26/2024)
-
-◼️
-
-[Data](articles/2d610236.json)
-
-[Extended Data](ext_articles/2d610236.ext.json)
-
----
-
-### WPL 2024: UP Warriorz names Chamari as replacement for Lauren
-
-*2024-01-26 17:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/WPL-2024-UP-Warriorz-names-Chamari-as-replacement-for-Lauren/108-275788) · `en`
-
-Jan. 26 (SS) - English fast bowler Lauren Bell has opted out of the upcoming Women's Premier League (WPL) season, prompting UP Warriorz to announce Sri Lanka's Chamari Athapaththu as her replacement.
-
-Athapaththu, a formidable force in the cricketing world known for her powerful hitting, will be joining the team for her base price of Rs 30 lakh, according to a statement from the WPL.
-
-Bell, who was signed by Warriorz in the inaugural WPL auction for her base price of Rs 30 lakh, has withdrawn from the upcoming edition.
-
-Athapaththu is among the most powerful hitters in the game and the Lankan captain is also one of the most experienced players, having featured in over 120 T20Is. Known for her attacking batting, the 33-year-old is the only Lankan woman to have scored a century in T20Is.
-
-The hard-hitting batter finished with 470 runs in 2023, with an impressive strike-rate of 130.91. Her 15 sixes in the year is also a personal high in Women’s T20Is.
-
-...
-
-[Data](articles/46c1588e.json)
-
-[Extended Data](ext_articles/46c1588e.ext.json)
-
----
-
-### Petition filed against tax-defaulted distilleries
-
-*2024-01-26 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96749/petition-filed-against-tax-defaulted-distilleries-) · `en`
-
-A Fundamental Rights (FR) petition has been filed before the Supreme Court against the distilleries that have defaulted on excise tax payments.
-
-This petition has been filed by a group including social activist Sanjaya Mahawaththa seeking an order suspending the licenses issued to the tax-defaulted distilleries and to recover the overdue tax payments from the relevant companies.
-
-The Commissioner General of the Department of Excise and its officials, Secretary of the Ministry of Finance, State Minister of Finance Ranjith Siyambalapitiya and several others have been named as the respondents of the petition.
-
-◼️
-
-[Data](articles/9871e811.json)
-
-[Extended Data](ext_articles/9871e811.ext.json)
-
----
-
-### Special summon for Chamari Atapattu
-
-*2024-01-26 17:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192596) · `si`
-
-Chamari Atapattu has the opportunity to attend the 2024 Women's Premier League.
-
-◼️
-
-[Data](articles/483f014c.json)
-
-[Extended Data](ext_articles/483f014c.ext.json)
-
----
-
-### President promises to facilitate meeting with IMF to clarify doubts or alternative proposals
-
-*2024-01-26 17:01:00* · [`adaderanalk`](https://www.adaderana.lk/news/96748/president-promises-to-facilitate-meeting-with-imf-to-clarify-doubts-or-alternative-proposals) · `en`
-
-President Ranil Wickremesinghe has extended an invitation to all political party leaders in the Parliament to engage in discussions with the Managing Director of the International Monetary Fund (IMF) on the implementation of the agreement with the IMF.
-
-Emphasizing the importance of unity in leading the country to success, he highlighted that withdrawing from the agreement would jeopardize the trust in Sri Lanka’s economy.
-
-The President stressed that the nation’s economy suffered due to the politics of promises, emphasizing the need for all political parties to formulate comprehensive plans for the country’s development when gearing up for an election.
-
-President Ranil Wickremesinghe made these remarks during the International Customs Day celebrations at the Colombo Customs Headquarters this morning (Jan.26).
-
-...
-
-[Data](articles/617617ce.json)
-
-[Extended Data](ext_articles/617617ce.ext.json)
-
----
-
-### Sri Lanka stocks close up, net outflow continues
-
-*2024-01-26 17:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-net-outflow-continues-148814/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange remained in green on Friday, after weeks of being on a downward trajectory, data on its site showed.
-
-The All Share Price Index was up 0.60 percent, or 61.40 points, at 10,335.
-
-The S&P SL20 index was up 0.88 percent, or 25.61 points, at 2,929.
-
-Turnover was at 798 million. Trading in John Keells Holdings Plc contributing the most (200mn) to the day’s turnover, and the share closed down at 181.50. Market participants said foreign buying in the stock continued.
-
-Other companies that saw buying interest were Sampath Bank Plc (up at 68.10), Melstacorp Plc (up at 81.80) and Royal Ceramics Lanka Plc (up at 27.00).
-
-The banks industry (187mn) and diversified financials (150mn) saw some positive interest after weeks of continued selling pressure in the sectors in general.
-
-However, the net foreign outflow seen since the beginning of this year continued, with today registering an outflow of 200 million. (Colombo/Jan26/2024).
-
-◼️
-
-[Data](articles/116a67b0.json)
-
-[Extended Data](ext_articles/116a67b0.ext.json)
-
----
-
-### Parliament prorogued till February 7
-
-*2024-01-26 16:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Parliament-prorogued-till-February-7/108-275784) · `en`
-
-Colombo, Jan. 26 (Daily Mirror)- President Ranil Wickremesinghe has prorogued Parliament till February 7, 2024.
-
-The President issued the gazette notification stating that the Parliament was prorogued from midnight today under the powers vested in him in terms of the Constitution.
-
-The Daily Mirror reported on January 5 that Parliament will be prorogoued.
-
-◼️
-
-[Data](articles/67ff7801.json)
-
-[Extended Data](ext_articles/67ff7801.ext.json)
-
----
-
-### Sanath Nishantha takes the body to the house
-
-*2024-01-26 16:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192595) · `si`
-
-State Minister Sanath Nishantha's body was brought to his residence in Puttalam Arachchikketuwa, who was killed in an accident.
-
-A large number of people gathered to the house to the house from Jayaratne from Jayaratne from Breaka.
-
-Meanwhile, President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena and many MPs MPs and MPs were present at Borella Jayaratne Malzala.
-
-Former President Gotabhaya Rajapaksa, Speaker Mahinda Yapa Abeywardena came to the remains this morning.
-
-Former President Mahinda Rajapaksa was also honored to pay his last honor to the body this afternoon.
-
-Sanath Nishantha, the State Minister and his security officer, was killed in an accident on the Katunayake Expressway yesterday.
-
-The luxury vehicle he was traveling was accidental with the safety fence of a container vehicle and on the road.
-
-Headdicles of the jeep were injured in the accident and is receiving treatment at the driver of the jeep hospital.
-
-◼️
-
-[Data](articles/4fefa75c.json)
-
-[Extended Data](ext_articles/4fefa75c.ext.json)
-
----
-
-### Sri Lanka President prorogues parliament till Feb 07
-
-*2024-01-26 16:50:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-prorogues-parliament-till-feb-07-148811/) · `en`
-
-ECONOMYNEXT – Sri Lanka President Ranil Wickremesinghe has prorogued parliament with effect from midnight of January 26, according to a gazette notice.
-
-A new sessions of parliament will begin on February 07 with an address  by the President.
-
-All parliamentary committees are automatically dissolved by the prorogation and other business is suspended. (Colombo/Jan26/2024)
-
-◼️
-
-[Data](articles/f11a10df.json)
-
-[Extended Data](ext_articles/f11a10df.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-01-26 16:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/174857) · `ta`
-
-The Central Bank of Sri Lanka (Central Bank) today (26), the US dollar sales price was Rs 323.17 and the price was Rs 313.17.
-
-The sales price of a Srealing pound is Rs 412.29 and the purchase price is Rs 396.57.
-
-The sales price of the euro is 352.03 rupees and the purchase price is 338.04 rupees.
-
-Accordingly, the information released by the Central Bank today (26.01.2024) on other foreign currency exchange rates has been issued.
-
-◼️
-
-[Data](articles/161f8d55.json)
-
-[Extended Data](ext_articles/161f8d55.ext.json)
 
 ---

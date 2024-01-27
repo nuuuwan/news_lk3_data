@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 17:02:26**
+As of **2024-01-27 17:17:11**
 
 ## Newspaper Stats
 
@@ -26,31 +26,33 @@ dailymirrorlk | 402
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,921 (99.9%) of 2,925 articles have been extended.
+2,925 (100.0%) of 2,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### ග්‍රාම නිලධාරී විභාග ප්‍රතිඵල නිකුත් කෙරෙයි
+### Grama Niladhari Examination results released
 
 *2024-01-27 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192627) · `si`
 
-පුරප්පාඩු පවතින ග්‍රාම නිලධාරි තනතුරු සඳහා විභාග දෙපාර්තමේන්තුව ලබාදුන් ප්‍රාදේශීය ලේකම් කොට්ඨාස අනුව සම්මුඛ පරීක්ෂණයට සුදුසුකම්ලත් 4,232ක නාමලේඛනය අද (27) දින නිකුත් කළ බව ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා පවසයි.
+State Affairs State Minister Asoka Priyantha says that the 4,232 list of the interview was issued by the Department of Examinations for the post of Vacancies.
 
-ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍යංශයේ  www.moha.gov.lk නිල වෙබ් අඩවියේ එම නාමලේඛනය පළකර ඇත.
+The list of official website has published the official website www.mohaha.gov.lk
 
-මෙම විභාග ප්‍රතිඵල අනුව ග්‍රාම නිලධාරී පුරප්පාඩු 2002 ක් සඳහා බඳවා ගැනීම් සිදුකිරීමට නියමිතය.
+According to the results of this examination, the recruitment for 2002 Grama Niladhari vacancies will be made.
 
-ගැසට් නිවේදනයට අනුව කඩිනමින් සම්මුඛ පරීක්‍ෂණ පවත්වා ඔවුන් රාජ්‍ය සේවයට එක් කරගන්නා බව ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා වැඩිදුරටත් පැවසීය.
+State Affairs Minister of Home Affairs Ashoka Priyantha added that according to the gazette notification, he will conduct expeditious interviews to the public service.
 
-විභාග දෙපාර්තමේන්තුව විසින් 2023 වසරේ දෙසැම්බර් 02 වැනිදා ග්‍රාම නිලධාරි විභාගය පවත්වන ලදී.
+The Department of Examinations held the Grama Niladhari exam to December 2, 2023.
 
-Grama Niladhari Exam Interview Selected List20212023 by poornima on Scribd
+Grama Niladhahari Exam Interview SELEVED LIST20212023 by Poornima On Scribd
 
 ◼️
 
 [Data](articles/b2300b29.json)
+
+[Extended Data](ext_articles/b2300b29.ext.json)
 
 ---
 
@@ -90,35 +92,39 @@ Meanwhile, the Chairman of the COPA, State Minister Lasantha Alagiyawanna assure
 
 ---
 
-### රු කෝටි 500ක මුදල් වංචා කළ සැකකාර යුවළ අත්අඩංගුවට
+### The suspect couple arrested for defrauding Rs 500 crores
 
 *2024-01-27 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192626) · `si`
 
-පීරමීඩ මුදල් ක්‍රමය යටතේ රුපියල් කෝට් 500ක මුදල් වංචා කළ සිද්ධියකට සැකපිට යුවළක් අත්අඩංගුවට ගෙන තිබේ.
+A couple has been arrested on suspicion of 500 rupees cash in the Phiroidi cash scheme.
 
 ◼️
 
 [Data](articles/c8da0ad0.json)
 
+[Extended Data](ext_articles/c8da0ad0.ext.json)
+
 ---
 
-### ඔන්ලයින් පනත් කෙටුම්පත ලබන සතියේ බලාත්මක වෙයිද ?
+### Will the Online Bill Effective next week?
 
 *2024-01-27 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192625) · `si`
 
-පාර්ලිමේන්තුවේදී සම්මත වු මාර්ගගත ක්‍රමවල සුරක්ෂිත භාවය පිළිබඳ පනත් කෙටුම්පතට ලබන සතියේ පළමු දින දෙක තුළ අත්සන් තැබීමට බලාපොරොත්තු වන බව කථානායන මහින්ද යාපා අබේවර්ධන මහතා පවසයි.
+Mr. Speaker Mahinda Yapa Abeywardena says he expects to sign a security system of online methods passed in parliament next two days.
 
-පනත් කෙටුම්පත පසුගිය 23 වනදා පාර්ලිමේන්තුවේ දී වැඩි ජන්දයෙන් සම්මත කෙරුණි.
+The Bill was passed in parliament on the 23rd of Parliament.
 
-කෙසේවෙතත් මේ දක්වාත් එම පනත් කෙටුම්පතට කථානායකවරයා අත්සන් තබා නොමැති බැවින් එය බලාත්මකවීමක් මෙතෙක් සිදුවී නොමැත.
+However, it has not been implemented as the Speaker has not signed the Bill.
 
-මේ සම්බන්ධයෙන් වැඩිදුරටත් අදහස් දැක්වූ කථානායක මහින්ද යාපා අබේවර්ධන මහතා සඳහන් කළේ,
+Speaking further Mr. Speaker Mahinda Yapa Abeywardena said he said,
 
-"ඕක සඳුදා නැත්නම් අඟහරුවාදා එයි. ආවාම අත්සන් කරනවා. පරක්කු නැහැ."
+"It's Monday or Tuesday. Sign up when. Not too late. "
 
 ◼️
 
 [Data](articles/c56c373e.json)
+
+[Extended Data](ext_articles/c56c373e.ext.json)
 
 ---
 
@@ -160,27 +166,31 @@ Accordingly, traffic has been temporarily prohibited through specific roads unti
 
 ---
 
-### පොලීසිය බව හඟවා රථයක් කොල්ලකයි
+### A vehicle is robbed that the police stir
 
 *2024-01-27 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192624) · `si`
 
-පොලිස් නිලධාරීන් ලෙස පෙනී සිටිමින් පුද්ගලයින් පිරිසක් කොල්ලකෑමක් සිදුකර ඇති බව පොලිස් මූලස්ථානය පවසයි.
+Police headquarters said that a large number of people have been looting as police officers.
 
-බිංගිරිය පඩිවෙල ප්‍රදේශයේදී රුපියල් 930,000ක් පමණ වටිනා ත්‍රීරෝද රථයක් මෙලෙස කොල්ලකා ඇති බවට ඊයේ (26) දහවල් බිංගිරිය පොලීසියට පැමිණිල්ලක් ලැබී ඇත.
+Bingiriya Police have received a complaint that a three-wheeler has been plundered in the Padiwela area in Bingiriya.
 
-පඩිවෙල ප්‍රදේශයේදී මාර්ගයේ වම්පස සිවිල් ඇඳුමින් සැරසී සිටි පුද්ගලයින් දෙදෙනෙකුගෙන් එක් අයෙකු අදාළ ත්‍රීරෝද රථය නවතා ඔවුන් කුලියාපිටිය පොලීසියේ බව පවසා රියදුරු බලපත්‍රය ඉල්ලා සිටි බව පැමිණිලිකරු පොලීසියට පවසා ඇත.
+The complainant has told the police that one of two persons who were dressed in civilian clothes in the Padiwela area and asked the driver's license that they had been in Kuliyapitiya police.
 
-පසුව රියදුරු ත්‍රීරෝද රථයෙන් බැස රියදුරු බලපත්‍රය ලබාදී ඇති අතර එහිදී එම රියදුරු බලපත්‍රය ත්‍රීරෝද රථය පැදවීම සඳහා වලංගු නොවන බවත් පොලීසියට යායුතු බවත් සැකකරුවන් පවසා තිබේ.‍
+The suspects have said that the driver should go to the police that the driving license was not valid for driving the three-wheeler.
 
-ඒ අනුව පොලිස් ස්ථානයට යෑම සඳහා රියදුරුව සැකකරුවන් පැමිණි යතුරුපැදියකට නංවාගෙන ඇති අතර ත්‍රීරෝද රථය අනෙක් සැකකරු පදවාගෙන ගොස් ඇත.
+Accordingly, the driver of the driver has been raised to a motorbike and the three-wheeler has drove the other suspect.
 
-පසුව සැකකරුවන් විසින් කදුරුගස් හන්දිය ප්‍රදේශයේදී රියදුරුව අතහැර දමා ත්‍රීරෝද රථය කොල්ලකා තිබේ.
+The suspects were later abandoned by the driver and plundered the three-wheeler.
 
-පොලීසිය සඳහන් කළේ සිවිල් ඇඳුමින් සැරසී සිටි සැකකරුවන් දෙදෙනා පොලිස් නිලධාරීන් නොවන බවට අනාවරණය වී ඇති බවය.
+The police said that the two suspects dressed in civilian clothes were not police officers.
+
+The Bingiriya Police have commenced investigations to arrest the suspects.
 
 ...
 
 [Data](articles/8fcecd42.json)
+
+[Extended Data](ext_articles/8fcecd42.ext.json)
 
 ---
 

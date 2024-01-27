@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 11:51:20**
+As of **2024-01-27 12:02:13**
 
 ## Newspaper Stats
 
-*Scraped **2,885** Articles*
+*Scraped **2,891** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ islandlk | 159
 newsfirstlk | 167
 economynextcom | 168
 dailyftlk | 215
-adaderanasinhalalk | 264
 adalk | 265
+adaderanasinhalalk | 270
 virakesarilk | 301
 adaderanalk | 364
 tamilmirrorlk | 365
@@ -26,7 +26,7 @@ dailymirrorlk | 400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,875 (99.7%) of 2,885 articles have been extended.
+2,891 (100.0%) of 2,891 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -42,25 +42,47 @@ Three individuals were reported dead following a collision between a lorry and a
 
 [Data](articles/965ac04c.json)
 
+[Extended Data](ext_articles/965ac04c.ext.json)
+
 ---
 
-### 36 வழக்குகளில் மு.காவின் மனு திங்கள் விசாரணை
+### The insulting Trump is mistaken to blaspheme
+
+*2024-01-27 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192619) · `si`
+
+US writer and journalist Egyan carole has been the right to pay $ 83 million to the loss of USA Carol.
+
+Foreign media reports that the order has been issued by a New York jury.
+
+The Trump had committed these unfaithful statements against the Geean Carol in 2019.
+
+◼️
+
+[Data](articles/a132659f.json)
+
+[Extended Data](ext_articles/a132659f.ext.json)
+
+---
+
+### In 36 cases, the MU's petition was heard Monday
 
 *2024-01-27 11:04:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-வழக்குகளில்-மு-காவின்-மனு-திங்கள்-விசாரணை/175-332172) · `ta`
 
-பாராளுமன்றத்தில் கடந்த ஜனவரி 10ஆம் திகதி கொண்டு வரப்பட்டிருக்கும் புதிய பயங்கரவாத தடைச்  சட்டமூலத்திற்கு எதிராக 36 மனுக்கள் உயர் நீதிமன்றத்தில் தாக்கல் செய்யப்பட்டுள்ள நிலையில்,
+As 36 petitions have been filed in the Supreme Court against the new Terrorism Bill, which was introduced in Parliament on January 10,
 
-ஸ்ரீலங்கா முஸ்லிம் காங்கிரஸ் தலைவர் ரவூப் ஹக்கீம் மற்றும் கட்சியின் செயலாளர் ஜனாதிபதி சட்டத்தரணி நிசாம் காரியப்பர் ஆகியோர் வெள்ளிக்கிழமை (26) உயர்நீதி மன்றத்திற்கு வந்திருந்தனர்.
+Sri Lanka Muslim Congress leader Rauf Hakeem and party secretary President Attorney Nizam Kariyapar arrived at the High Court on Friday (26).
 
-ஸ்ரீ லங்கா முஸ்லிம் காங்கிரஸ் தாக்கல் செய்திருக்கும் SC/SD/27 /2014. இலக்க மனு திங்கட்கிழமை(29) விசாரணைக்கு எடுத்துக் கொள்ளப்படும் போது   அவர்கள் வாதாடவுள்ளனர்.
+SC/SD/27/2014 filed by the Sri Lanka Muslim Congress. They will argue when the digit petition is taken up for hearing on Monday (29).
 
-பிரதம நீதியரசர் ஜனாதிபதி சட்டத்தரணி ஜயந்த ஜயசூரிய தலைமையில், ஐவர் அடங்கிய நீதியரசர் குழாமினால்   பிரஸ்தாப வழக்கு விசாரணை தற்பொழுது முன்னெடுக்கப்பட்டுவருகின்றது.
+The prosecution case is currently being carried out by the five -member panel headed by Chief Justice President Jayantha Jayasuriya.
 
-நடைமுறையிலுள்ள பயங்கரவாத தடைச் சட்டத்தை விட ஆபத்தான பல்வேறு விடயங்கள் அரசாங்ம் கொண்டுவந்துள்ள இந்த புதிய திருத்தச் சட்டத்தில் அடங்கியுள்ளதாக பல தரப்பினராலும் சுட்டிக்காட்டப்பட்டு வருகின்றது. R
+It has been pointed out by many parties that the new amendment is that the government has introduced various issues more dangerous than the existing Terrorism Act.. Remble
 
 ◼️
 
 [Data](articles/b16345a8.json)
+
+[Extended Data](ext_articles/b16345a8.ext.json)
 
 ---
 
@@ -80,6 +102,8 @@ Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
 
 [Data](articles/f36b88d9.json)
 
+[Extended Data](ext_articles/f36b88d9.ext.json)
+
 ---
 
 ### Jagath Priyantha Named to Replace Late Sanath Nishantha
@@ -97,6 +121,24 @@ Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
 ◼️
 
 [Data](articles/0dc471ba.json)
+
+[Extended Data](ext_articles/0dc471ba.ext.json)
+
+---
+
+### Car accident killed in three
+
+*2024-01-27 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192618) · `si`
+
+Three persons were killed in a car accident in Rajugedella main road on the Kurunegala-Giriulla main road.
+
+The accident had occurred when a lorry and three-wheeler collided with a three-wheeler.
+
+◼️
+
+[Data](articles/625652f2.json)
+
+[Extended Data](ext_articles/625652f2.ext.json)
 
 ---
 
@@ -118,25 +160,29 @@ The bill's passage through Parliament itself was a closely contested affair.
 
 [Data](articles/9eef587b.json)
 
+[Extended Data](ext_articles/9eef587b.ext.json)
+
 ---
 
-### பட்டப்பகலில் 14 பவுண் தங்க நகைகள் கொள்ளை
+### 14 pound gold jewelery robbery
 
 *2024-01-27 10:50:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பட்டப்பகலில்-14-பவுண்-தங்க-நகைகள்-கொள்ளை/73-332171) · `ta`
 
-அக்கரைப்பற்றில் அமைந்துள்ள வீடொன்றில் நேற்று (26) பட்டப்பகலில் 14 பவுண் மதிக்கத்தக்க தங்க நகைகளை கொள்ளையிட்டு சென்றுள்ளதாக முறைப்பாடளிக்கப்பட்டுள்ளது.
+It has been reported that 14 pounds of gold jewelery have been robbed at a house in Akkaraipattu yesterday (26).
 
-சம்பவ தினமான இன்று வைத்தியசாலையில் கடமை புரியும் கணவனும் மனைவியும் தனது இரு பிள்ளைகளையும் சகோதரியிடம் விட்டு விட்டு வைத்தியசாலைக்கு சென்றுள்ளனர்.
+On the day of the incident, the husband and wife, who are working in the hospital today, left her two children to the hospital.
 
-இதேநேரம் வீட்டு உரிமையாளரின் சகோதரி இரு பிள்ளைகளையும் பிரதேச சுகாதார வைத்திய அதிகாரி பணிமனைக்கு அழைத்துச் சென்று பின்னர் வீட்டிற்கு சென்று பார்க்கையில் வீட்டின் ஜன்னல் உடைக்கப்பட்டு திருட்டு நடைபெற்றுள்ளதை அவதானித்து அயலவர்களின் உதவியை கோரியுள்ளார்.
+At the same time, the homeowner's sister took the two children to the workshop and then went to the house and sought the help of the neighbors that the house of the house had been broken.
 
-ஆயினும் வீட்டின் அலுமாரியில் இருந்த நகைகள் கொள்ளையிடப்பட்டுள்ளதை வீட்டின் உரிமையாளர் பார்வையிட்டு உறுதிப்படுத்தினார்.
+The owner of the house, however, confirmed that the jewelery in the house of the house had been robbed.
 
-இந்த நிலையில் சம்பவ இடத்திற்கு விரைந்த அக்கரைப்பற்று பொலிஸ் நிலைய குற்றத்தடுப்பு பொறுப்பதிகாரி எம்.எச்.எம்.ஹசீப் தலைமையிலான பொலிசார் தீவிர விசாரணையை ஆரம்பித்துள்ளனர். R
+Police, led by MHM Haseeb, in charge of the Akkaraipattu Police Station, who rushed to the scene, have launched an intensive investigation.. Remble
 
 ◼️
 
 [Data](articles/34a601e5.json)
+
+[Extended Data](ext_articles/34a601e5.ext.json)
 
 ---
 
@@ -160,41 +206,63 @@ Lazzarini did not disclose the number of employees allegedly involved in the att
 
 ---
 
-### 83 மில்லியன் டொலர் நஷ்ட ஈடு வழங்க ட்ரம்புக்கு உத்தரவு
+### Massive cannabis tea
+
+*2024-01-27 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192617) · `si`
+
+The Army and the STF have been deployed to raid a large cannabis in the Yala forest reserve.
+
+The marijuana payments have been carried out by the Yala Insured Environment and raided 21,260 dried cannabis trees have been able to find 21,260 dried cannabis trees.
+
+The suspects had escaped at the time of the raid.
+
+◼️
+
+[Data](articles/bf9ece92.json)
+
+[Extended Data](ext_articles/bf9ece92.ext.json)
+
+---
+
+### Trump ordered to pay $ 83 million compensation
 
 *2024-01-27 10:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/83-மில்லியன்-டொலர்-நஷ்ட-ஈடு-வழங்க-ட்ரம்புக்கு-உத்தரவு/50-332170) · `ta`
 
-பெண் பத்திரிகையாளர் தொடர்ந்து அவதூறு வழக்கில் அமெரிக்க முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் 83 மில்லியன் டொலர் நஷ்ட ஈடு வழங்க உத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+Former US President Donald Trump has been ordered to pay $ 83 million compensation in the case of a female journalist.
 
-பொதுவெளியில் தன்னை அவமானப்படுத்தியதாக பெண் பத்திரிக்கையாளர் ஜீன் கரோல் என்பவர் நியூயார்க் நீதிமன்றத்தில் வழக்கு தொடர்ந்தார். இந்த வழக்கில் 10 மில்லியன் டொலர் நஷ்ட ஈடு கோரப்பட்டது.
+Female journalist Jean Carol suits the New York Court for insulting her in public. In this case, $ 10 million was compensated.
 
-இந்த வழக்கை விசாரித்த நியூயார்க் நீதிமன்றம் 83 மில்லியன் டொலர் நஷ்ட ஈடு வழங்க ட்ரம்புக்கு உத்தரவிட்டுள்ளது.
+The New York court, which heard the case, has ordered Trump to pay $ 83 million compensation.
 
-ஜீன் கரோல் கேட்டதை விட 8 மடங்கு அதிகமாக நீதிமன்றம் நஷ்ட ஈடு வழங்க உத்தரவு பிறப்பித்துள்ளது.
+The court has ordered a compensation of 8 times more than Jean Carol.
 
-அதை எதிர்த்து மேல்முறையீடு செய்யப்படும் என டொனால்ட் டிரம்ப் தரப்பில் தெரிவிக்கப்பட்டுள்ளது. (N)
+Donald Trump has said that it will appeal against it. (Of)
 
 ◼️
 
 [Data](articles/401bd19d.json)
 
+[Extended Data](ext_articles/401bd19d.ext.json)
+
 ---
 
-### 12 வயது சிறுவன் துஷ்பிரயோகம்; இருவர் கைது
+### 12 -year -old boy abuse;Two arrests
 
 *2024-01-27 10:27:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-வயது-சிறுவன்-துஷ்பிரயோகம்-இருவர்-கைது/175-332169) · `ta`
 
-கடலுக்குள் இழுத்துச் சென்று 12 வயது சிறுவனை பாலியல் துஷ்பிரயோகம்  செய்த இளைஞனும் அதற்கு உதவிய 16 வயது சிறுவனும் அங்குலான பொலிஸாரால் நேற்று கைது செய்யப்பட்டுள்ளனர்.
+A young man and a 16 -year -old boy who had been abused by a 12 -year -old boy were arrested by Angala police yesterday.
 
-கடற்கரையில் இருந்தபோது சந்தேக நபர்கள் இருவரும் தன்னை தண்ணீருக்குள் இழுத்து பாலியல்ரீதியாக துஷ்பிரயோகம் செய்ததாக பாதிக்கப்பட்ட சிறுவன் பொலிஸாரிடம் முறையிட்டுள்ளார்.
+The victim has appealed to the police that the two suspects were sexually abused by two suspects while on the beach.
 
-அந்த இளைஞன் தன்னை துஷ்பிரயோகம் செய்த போது மற்றைய சிறுவன் அதை பார்த்து ரசித்ததாக பாதிக்கப்பட்ட சிறுவன் வாக்குமூலம் அளித்துள்ளார்.
+When the young man abused him, the victim had confessed that the other boy had seen it.
 
-இந்த நிலையில், பாதிக்கப்பட்ட சிறுவனின் பெற்றோர் செய்த முறைப்பாட்டின் அடிப்படையில் சந்தேக நபர்கள் இருவரும் கைது செய்யப்பட்டுள்ளனர். (N)
+In this case, the two suspects have been arrested on the basis of a complaint made by the parents of the victim's boy. (Of)
 
 ◼️
 
 [Data](articles/c9944693.json)
+
+[Extended Data](ext_articles/c9944693.ext.json)
 
 ---
 
@@ -214,21 +282,25 @@ Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
 
 [Data](articles/b4cd82ee.json)
 
+[Extended Data](ext_articles/b4cd82ee.ext.json)
+
 ---
 
-### அதிவேக நெடுஞ்சாலை விபத்துக்கள்; இதுதான் காரணம்
+### Highway highway accidents;This is the reason
 
 *2024-01-27 10:21:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலை-விபத்துக்கள்-இதுதான்-காரணம்/175-332168) · `ta`
 
-அதிவேக நெடுஞ்சாலைகளில் ஏற்படும் விபத்துக்களுக்கு முக்கிய காரணம் விதிமுறைகளை கடைப்பிடிக்காத சாரதிகளே என அமைச்சர் பந்துல குணவர்தன தெரிவித்துள்ளார்.
+Minister Bandula Gunawardena said that the main reason for accidents on the highway is that the drivers who do not comply with the rules.
 
-இந்த நிலையில், விதிகளை மீறும் சாரதிகளுக்கு எதிராக விசேட வேலைத்திட்டம் விரைவில் அமுல்படுத்தப்படவுள்ளதாக அவர் கூறியுள்ளார்.
+In this case, a special program will be implemented soon against drivers who violate the rules, he said.
 
-இதேவேளை, கட்டுநாயக்காவிலிருந்து கொழும்பு வரையிலான நெடுஞ்சாலையில் மின்சார விளக்குகளை பொருத்தும் வேலைத்திட்டம் தற்போது ஆரம்பிக்கப்பட்டுள்ளதாகவும் அவர் குறிப்பிட்டுள்ளார்.
+Meanwhile, he said that a program to fit the electric lighting on the highway from Katunayake to Colombo has now begun.
 
 ◼️
 
 [Data](articles/0c1dac96.json)
+
+[Extended Data](ext_articles/0c1dac96.ext.json)
 
 ---
 
@@ -330,6 +402,22 @@ However, when her guardian did not show any response to information on her death
 
 ---
 
+### Social Media and Approved Online Act
+
+*2024-01-27 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192616) · `si`
+
+There was a time when the bills came on. The conversation of the Bills, Ranil Wickremesinghe, the conversation of the bills came to the president.
+
+Anti-Terrorism Bill, Corruption Bill, Bill and Online Methods of Online Skills Bills. As these drafts were tabled in Parliament, the society caused serious turmoil in society.
+
+...
+
+[Data](articles/ab854688.json)
+
+[Extended Data](ext_articles/ab854688.ext.json)
+
+---
+
 ### Litro Gas contributes another Rs. 1.5 billion to Treasury
 
 *2024-01-27 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96762/litro-gas-contributes-another-rs-15-billion-to-treasury) · `en`
@@ -352,6 +440,28 @@ Additionally, Mr. Peiris highlighted that Litro Gas Company contributed Rs. 3 bi
 
 ---
 
+### Hubeur attacked by Adon Sea
+
+*2024-01-27 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192615) · `si`
+
+Houthi insurgents have launched an air strike on the sea of Eden in the Sea of Gulf.
+
+According to foreign reports, one of the items on the ship was a blast in a container, and the fire supplements were used to control it.
+
+The US has said that no casualties have been reported due to the attack, and all staff has been able to liberate.
+
+This is the latest assault on commercial shipping by the red sea and around the Red Sea and at that.
+
+The UK Marine Trade Operations (UK) has said that the attack has been attacked by 60 nautical miles from a southeast.
+
+◼️
+
+[Data](articles/e42eeebc.json)
+
+[Extended Data](ext_articles/e42eeebc.ext.json)
+
+---
+
 ### EC informed of MP seat left vacant after Sanath Nishantha’s death
 
 *2024-01-27 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96761/ec-informed-of-mp-seat-left-vacant-after-sanath-nishanthas-death) · `en`
@@ -371,6 +481,24 @@ Shortly after the collision, three critically injured people – State Minister 
 [Data](articles/3540b5c5.json)
 
 [Extended Data](ext_articles/3540b5c5.ext.json)
+
+---
+
+### 818 suspects arrested
+
+*2024-01-27 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192614) · `si`
+
+818 suspects have been arrested under the operation of 24 hours of justice operation ended at 12.30 am today.
+
+It is reported that eight others have been sent to rehabilitation.
+
+The Ministry of Defense has announced that 159 grams of heroin, 112 g of ice and 329 drugs had been arrested.
+
+◼️
+
+[Data](articles/9bc41302.json)
+
+[Extended Data](ext_articles/9bc41302.ext.json)
 
 ---
 
@@ -1863,119 +1991,5 @@ It is noteworthy that the name of Jagath Piyankara, who contested the PA in the 
 [Data](articles/969b994e.json)
 
 [Extended Data](ext_articles/969b994e.ext.json)
-
----
-
-### New Board of Directors appointed to SLT
-
-*2024-01-26 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96751/new-board-of-directors-appointed-to-slt) · `en`
-
-A new Board of Directors has been appointed to the Sri Lanka Telecom PLC with immediate effect, in place of the current members appointed on behalf of the Government of Sri Lanka.
-
-This appointments come under the directives of President Ranil Wickremesinghe, Secretary to the President Saman Ekanayake said in a communiqué.
-
-◼️
-
-[Data](articles/bcef6172.json)
-
-[Extended Data](ext_articles/bcef6172.ext.json)
-
----
-
-### Sri Lanka Police to take street children into custody
-
-*2024-01-26 18:30:00* · [`economynextcom`](https://economynext.com/sri-lanka-police-to-take-street-children-into-custody-148838/) · `en`
-
-ECONOMYNEXT – Sri Lanka Police said it will continue to take street children into the State’s custody and eventually place them with a suitable guardian, a DIG said.
-
-“An operation to take street children into custody in 2023 saw us take into custody 102 street kids who were used for begging,” Deputy Inspector General of Police Renuka Jayasundara said at a press briefing.
-
-“We were able to place them with suitable guardians. We will continue this operation in 2024,” she added.
-
-The Police has also introduced a 109 hotline for child and female victims of any form of abuse to reach out to them.
-
-“This line is handled by female officers who will protect your privacy,” Jayasundara said, pointing out that victims of abuse usually avoid going to a Police station because of the treatment they are meted out.
-
-The government was improving laws to curb child molestation and compiling a sex offender list, officials said at the briefing. (Colombo/Jan26/2024)
-
-◼️
-
-[Data](articles/961bea91.json)
-
-[Extended Data](ext_articles/961bea91.ext.json)
-
----
-
-### New Board of Directors for SLT
-
-*2024-01-26 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192599) · `si`
-
-President Ranil Wickremesinghe has been appointed by President Ranil Wickremesinghe to Sri Lanka Telecom.
-
-◼️
-
-[Data](articles/692f759b.json)
-
-[Extended Data](ext_articles/692f759b.ext.json)
-
----
-
-### Remains of late State Minister Sanath Nishantha taken to Puttalam
-
-*2024-01-26 18:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96750/remains-of-late-state-minister-sanath-nishantha-taken-to-puttalam) · `en`
-
-The remains of the late State Minister Sanath Nishantha has been taken to his private residence in Arachchikattuwa are of Puttalam this evening (Jan. 26).
-
-Meanwhile, many politicians representing both ruling party and the opposition including President Ranil Wickremesinghe, Prime Minister Dinesh Gunawardena, Former Presidents Gotabaya Rajapaksa and Mahinda Rajapaksa paid their final respects to the late State Minister at Jayaratne Funeral Parlour in Borella last night and this morning, and offered their condolences to the bereaved family members.
-
-The final rites of the late State Minister Sanath Nishantha are scheduled to be performed on Sunday (Jan. 28), in the Arachchikattuwa area, according to family sources.
-
-The police said the state minister’s vehicle had crashed against the roadside barrier before rear-ending a moving container truck in the early hours of Thursday.
-
-...
-
-[Data](articles/50bc5ff0.json)
-
-[Extended Data](ext_articles/50bc5ff0.ext.json)
-
----
-
-### School student killed in drowning
-
-*2024-01-26 18:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192598) · `si`
-
-A 16-year-old schoolgirl was killed in Rattota - Death in the Matale - Rattota - Death.
-
-The deceased has been identified as a student who was due to sit on St. Thomas' College, Matale.
-
-He is a resident of Kawadupura - Matale and the student has died on the deceased, Matale, Matale.
-
-◼️
-
-[Data](articles/7c8c233d.json)
-
-[Extended Data](ext_articles/7c8c233d.ext.json)
-
----
-
-### Man remanded for threatening Mihintale Thero
-
-*2024-01-26 17:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192597) · `si`
-
-The Colombo Magistrate's Court prescribed the suspects to be remanded until the 31st of the Issuing of Ven.
-
-The suspect was arrested by the Criminal Investigation Department (CID) and the Chief Magistrate Prasanna Alwis.
-
-The Criminal Investigations Department officials threatened the Chief Incumbent of the Mihintale Raja Maha Viharaya and arrested the suspect in connection with the appointment of defamatory statements.
-
-The police also requested the court to be remanded as he was conducting further investigations into the suspect.
-
-The request was ordered to be remanded until 31st on 31st of the 31st of the magistrate.
-
-◼️
-
-[Data](articles/9fb82ecd.json)
-
-[Extended Data](ext_articles/9fb82ecd.ext.json)
 
 ---

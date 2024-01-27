@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 18:19:05**
+As of **2024-01-27 18:32:40**
 
 ## Newspaper Stats
 
-*Scraped **2,930** Articles*
+*Scraped **2,931** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 268
 adaderanasinhalalk | 280
 virakesarilk | 305
 tamilmirrorlk | 372
-adaderanalk | 373
+adaderanalk | 374
 dailymirrorlk | 402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,929 (100.0%) of 2,930 articles have been extended.
+2,930 (100.0%) of 2,931 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### Special notice on rehearsals for Independence Day ceremony
+
+*2024-01-27 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96775/special-notice-on-rehearsals-for-independence-day-ceremony) · `en`
+
+Rehearsals for the 76th Independence Day ceremony, scheduled to commence on Monday (Jan.29), have been pushed back by a day.
+
+In a media release, the Police Media Division said the rehearsals would thus begin on Tuesday (Jan.30) and continue until February 03 at the Galle Face Green.
+
+Meanwhile, a special traffic plan is planned to be put in place on a stretch of the Galle Road in view of the upcoming event. As such, the Galle Road will temporarily remain closed from Kollupitiya Junction - Galle Face and from Ceramic Junction - Galle Face.
+
+Police Media Division earlier said the traffic plan comes into effect on January 29, however, as the start date for the rehearsals was deferred, the road closure is now expected to be effective from 6 a.m. - 8.30 a.m. and 11 a.m. - 12.30 p.m. from January 30 to February 02.
+
+...
+
+[Data](articles/6774d0dc.json)
+
+---
 
 ### Grama Niladhari exam results released; recruitments expected soon
 
@@ -53,6 +71,8 @@ Grama Niladhari Exam Interview Selected List20212023 by poornima on Scribd
 ◼️
 
 [Data](articles/8af4b12a.json)
+
+[Extended Data](ext_articles/8af4b12a.ext.json)
 
 ---
 
@@ -2035,27 +2055,5 @@ The event also showcased our longstanding bilateral ties that encompass many sec
 [Data](articles/58aeb7f9.json)
 
 [Extended Data](ext_articles/58aeb7f9.ext.json)
-
----
-
-### Fully-funded scholarships by Indian Govt. for Sri Lankan nationals
-
-*2024-01-27 00:26:00* · [`dailyftlk`](https://www.ft.lk/news/Fully-funded-scholarships-by-Indian-Govt-for-Sri-Lankan-nationals/56-757814) · `en`
-
-The High Commission of India, Colombo is inviting applications for around 200 fully-funded scholarships for Sri Lankan nationals, across various levels.
-
-These scholarships are being offered for studies in prestigious Indian institutes and universities across subject domains but not including Medical/Paramedical, Fashion Design and Law courses. The scholarships offered exclusively for Sri Lankan nationals are for 2024-2025 academic session.
-
-The schemes under which these scholarships have been offered are:
-
-a)   Nehru Memorial Scholarship Scheme: This scheme covers Under Graduate/Post Graduate and PhD courses in various domains such as Engineering, Science, Business, Economics, Commerce, Humanities and Arts, among others.
-
-b)   Maulana Azad Scholarship Scheme: Masters Degrees courses with preference to Engineering, Science and Agriculture.
-
-...
-
-[Data](articles/a83bc19a.json)
-
-[Extended Data](ext_articles/a83bc19a.ext.json)
 
 ---

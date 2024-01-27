@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 07:40:43**
+As of **2024-01-27 07:51:23**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,840 (100.0%) of 2,841 articles have been extended.
+2,841 (100.0%) of 2,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### இலாபத்தை திறைசேரிக்கு வழங்கியது லிட்ரோ
+### Litro offered profit to the Treasury
 
 *2024-01-27 02:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலாபத்தை-திறைசேரிக்கு-வழங்கியது-லிட்ரோ/175-332162) · `ta`
 
-லிட்ரோ எரிவாயு நிறுவனம் 2023 ஆம் ஆண்டில் இலாபமாகப் பெற்றுக்கொண்ட மேலும் 1.5 பில்லியன் ரூபா நிதியை திறைசேரிக்கு வழங்கியுள்ளது.
+Litro Gas Company has made a profit of Rs.
 
-குறித்த காசோலையை லிட்ரோ எரிவாயு நிறுவனத்தின் தலைவர் முதித பீரிஸ், தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவிடம் உத்தியோகபூர்வமாக கையளித்தார். (a)
+The check was officially handed over to Sagala Ratnayake, president of Litro Gas Company, Muditha Peiris, President's Senior Advisor and President of the President.. (A)
 
 ◼️
 
 [Data](articles/2aecada8.json)
+
+[Extended Data](ext_articles/2aecada8.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 01:32:35**
+As of **2024-01-28 01:49:41**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,956 (100.0%) of 2,957 articles have been extended.
+2,957 (100.0%) of 2,957 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### அதிவேக நெடுஞ்சாலையில் மீண்டும் விபத்து
+### Accident again on the highway highway
 
 *2024-01-28 00:34:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலையில்-மீண்டும்-விபத்து/175-332194) · `ta`
 
-தெற்கு அதிவேக நெடுஞ்சாலையில் பயணித்த கொள்கலன் பாரவூர்தி  ஒன்று கவிழ்ந்து விபத்துக்குள்ளாகி உள்ளது.
+A container palace on the southern highway has crashed and crashed.
 
-தெற்கு அதிவேக நெடுஞ்சாலையின் 118 ஆவது கிலோமீற்றருக்கு அருகில் இன்று இந்த விபத்து இடம்பெற்றுள்ளது.
+The accident took place today near the 118th kilometer of the Southern Highway.
 
-விபத்து காரணமாக மாத்தறையில் இருந்து கொழும்பு நோக்கி பயணிக்கும் வாகனங்களுக்கான போக்குவரத்து தடைப்பட்டுள்ளது.
+Traffic from Matara to Colombo has been blocked due to the accident.
 
-இதனால், கொழும்பு நோக்கி பயணிக்கும் வாகனங்கள், கொடகமையில் வௌியேறி கொக்மாதுவ ஊடாக அதிவேக நெடுஞ்சாலைக்குள் மீண்டும் நுழையுமாறு அறிவிக்கப்பட்டுள்ளது. R
+As a result, vehicles traveling to Colombo have been announced to re -enter the highway through Kokmadhuwa in Kodagam.. Remble
 
 ◼️
 
 [Data](articles/63e1aa9c.json)
+
+[Extended Data](ext_articles/63e1aa9c.ext.json)
 
 ---
 

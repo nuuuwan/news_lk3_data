@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 02:02:28**
+As of **2024-01-28 02:17:02**
 
 ## Newspaper Stats
 
-*Scraped **2,957** Articles*
+*Scraped **2,958** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 159
 economynextcom | 170
 newsfirstlk | 170
 dailyftlk | 215
-adalk | 268
+adalk | 269
 adaderanasinhalalk | 289
 virakesarilk | 305
 tamilmirrorlk | 374
@@ -26,7 +26,7 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,957 (100.0%) of 2,957 articles have been extended.
+2,957 (100.0%) of 2,958 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -809,6 +809,22 @@ The Bingiriya Police have commenced investigations to arrest the suspects.
 [Data](articles/8fcecd42.json)
 
 [Extended Data](ext_articles/8fcecd42.ext.json)
+
+---
+
+### චමරිට කාන්තා අයි.පී.එල්. තරගාවලියේ දොර ඇරෙයි
+
+*2024-01-27 14:48:17* · [`adalk`](https://www.ada.lk/sports/චමරිට-කාන්තා-අයි-පී-එල්--තරගාවලියේ-දොර-ඇරෙයි/9-407743) · `si`
+
+ඉන්දීය ප්‍රිමියර් ලීග තරගාවලියේ කාන්තා තරගාවලිය සඳහා ශ්‍රී ලංකා කාන්තා ක්‍රිකට් නායිකා චමරි අතපත්තුව කැඳවා තිබේ. උත්තර ප්‍ර දේශ් ‌වොරියරස් කණ්ඩායම නියෝජනය කළ ලෝරන් බෙල් වෙනුවට මෙසේ චමරි අතපත්තු කැඳවා තිබේ. අතපත්තු ඇයගේ මූලික මිල වන ඉන්දීය රුපියල් ලක්ෂ 30 (ඇමරිකානු ඩොලර් 36,000 පමණ) වටිනායකමට කණ්ඩායම සමගින් ගිවිසුම් ගතව තිබේ
+
+“මම කණ්ඩායමට මගේ උපරිමය ලබා දීමටත් ප්‍රධාන පුහුණුකරු ජෝන් ලුවිස් සහ නායිකා ඇලිසා හීලි සමඟ සමීපව කටයුතු කිරීමටත් මගේ කණ්ඩායමට කීර්තිමත් ශූරතාව ලබා ගැනීමට උදව් කිරීමටත් බලාපොරොත්තු වෙනවා,” අතපත්තු පැවසීය.
+
+ශ්‍රී ලංකා නායක අතපත්තු WPL 2024 වෙන්දේසියේදී අලෙවි නොවීය. ඇය පසුගිය වසරේ විස්සයි20 තරග 16 කදී ලකුණු 470 ක් රැස්කරගෙන තිබේ.
+
+◼️
+
+[Data](articles/8de45afc.json)
 
 ---
 
@@ -2037,25 +2053,5 @@ However, he said the project remain delayed and he instructed the officials conc
 [Data](articles/43c18573.json)
 
 [Extended Data](ext_articles/43c18573.ext.json)
-
----
-
-### Fresh efforts underway to expedite illumination in Expressways
-
-*2024-01-27 07:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Fresh-efforts-underway-to-expedite-illumination-in-Expressways/155-275794) · `en`
-
-Colombo, Jan. 27 (Daily Mirror)- In the wake of two fatal accidents including the pre-dawn crash that claimed the life of State Minister Sanath Nishantha, the Road Development Authority (RDA) is planning to expedite illumination of the expressway by laying aluminum transmission cables in place of Rs.250 million worth copper current cables stolen during the pandemic.
-
-Darkness is now identified as one of the reasons that can cause accidents on the expressway after nightfall.
-
-Asked for a comment on the situation, Transport, Highways and Media Minister Bandula Gunawardane told Daily Mirror that the RDA, instructed by engineers, decided to lay aluminum cables for power transmission along the expressway that links the airport with the city.
-
-However, he said the project remain delayed and he instructed the officials concerned to complete work in one month’s time.
-
-◼️
-
-[Data](articles/f8ba7f72.json)
-
-[Extended Data](ext_articles/f8ba7f72.ext.json)
 
 ---

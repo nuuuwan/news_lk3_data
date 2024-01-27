@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 19:02:12**
+As of **2024-01-27 19:17:09**
 
 ## Newspaper Stats
 
-*Scraped **2,934** Articles*
+*Scraped **2,936** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 268
 adaderanasinhalalk | 282
 virakesarilk | 305
 tamilmirrorlk | 373
-adaderanalk | 374
+adaderanalk | 376
 dailymirrorlk | 402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,934 (100.0%) of 2,934 articles have been extended.
+2,934 (99.9%) of 2,936 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### Somali pirates abduct Sri Lankan fishing trawler with 6 crew members
+
+*2024-01-27 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96776/-somali-pirates-abduct-sri-lankan-fishing-trawler-with-6-crew-members) · `en`
+
+A Sri Lankan multi-day fishing trawler, with 6 crew members aboard, has reportedly been abducted by Somali pirates, the Department of Fisheries confirmed.
+
+According to a spokesperson from the department, the fishing trawler, along with several Sri Lankan fishermen, had been kidnapped by the pirates in the Arabian Sea.
+
+The “Lorenzo Putha - 4” multi-day fishing trawler had set sail from Dikowita fishing harbor in Chilaw on January 12.
+
+The abduction has happened approximately 1,160 nautical miles away from the Sri Lankan maritime boundary.
+
+The authorities stated that necessary measures are being taken to rescue the abducted fishermen.
+
+◼️
+
+[Data](articles/5ea58d72.json)
+
+---
 
 ### Information about the country's fishing vessel claimed by Somali pirates
 
@@ -81,6 +101,24 @@ State Minister Sanath Nishantha and his bodyguard police constable Anuradha Jaya
 [Data](articles/553e57d4.json)
 
 [Extended Data](ext_articles/553e57d4.ext.json)
+
+---
+
+### Independence Day ceremony: Rehearsals start date pushed back by a day
+
+*2024-01-27 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96775/independence-day-ceremony-rehearsals-start-date-pushed-back-by-a-day) · `en`
+
+Rehearsals for the 76th Independence Day ceremony, scheduled to commence on Monday (Jan.29), have been pushed back by a day.
+
+In a media release, the Police Media Division said the rehearsals would thus begin on Tuesday (Jan.30) and continue until February 03 at the Galle Face Green.
+
+Meanwhile, a special traffic plan is planned to be put in place on a stretch of the Galle Road in view of the upcoming event. As such, the Galle Road will temporarily remain closed from Kollupitiya Junction - Galle Face and from Ceramic Junction - Galle Face.
+
+Police Media Division earlier said the traffic plan comes into effect on January 29, however, as the start date for the rehearsals was deferred, the road closure is now expected to be effective from 6 a.m. - 8.30 a.m. and 11 a.m. - 12.30 p.m. from January 30 to February 02.
+
+...
+
+[Data](articles/610b3b72.json)
 
 ---
 
@@ -2017,41 +2055,5 @@ Nelco Food Products Ltd., a leading food company in the country, claimed Gold aw
 [Data](articles/15f8acfa.json)
 
 [Extended Data](ext_articles/15f8acfa.ext.json)
-
----
-
-### Sri Lanka discusses ways to strengthen economic ties with Jordan
-
-*2024-01-27 00:44:17* · [`dailyftlk`](https://www.ft.lk/business/Sri-Lanka-discusses-ways-to-strengtheneconomic-ties-with-Jordan/34-757819) · `en`
-
-The Ambassador of Sri Lanka to Jordan J.A.D.S. Priyangika Wijegunasekara, held talks with the First Vice Chairman of the Jordan Chamber of Commerce Nabil Khatib on 22 January, which focused on ways to strengthen economic ties between the two countries through visits of delegations and trade missions.
-
-At the discussion Ambassador Wijegunasekara spoke of the developing Sri Lanka-Jordan relations on trade and the growth and development of bilateral relations which was established in 1965.
-
-The Ambassador also emphasised on the need to strengthen the economic and trade relations between the two countries and improve political and financial stability and shared updates on the ongoing IMF bailout program, and the ease of import controls that take place subsequently. The discussion also focused on attracting Jordanian investors to Colombo Port City, which is vital for the socio-economic development of Sri Lanka.
-
-...
-
-[Data](articles/ca816907.json)
-
-[Extended Data](ext_articles/ca816907.ext.json)
-
----
-
-### India’s 75th Republic Day celebrations in Sri Lanka
-
-*2024-01-27 00:41:57* · [`dailyftlk`](https://www.ft.lk/news/India-s-75thRepublic-Day-celebrations-in-Sri-Lanka/56-757818) · `en`
-
-The High Commission of India, in Colombo celebrated India’s 75th Republic Day yesterday.
-
-It was on 26 January 1950 that the Indian Constitution, the world’s largest written Constitution, came into force. The Preamble to the Constitution declares India to be a Sovereign, Socialist, Secular, Democratic, Republic.
-
-On the occasion, High Commissioner Santosh Jha unfurled India’s national flag at India House, the residence of the Indian High Commissioner and inspected the Guard of Honour. The High Commissioner also read out excerpts of the Indian President’s Republic Day address.
-
-...
-
-[Data](articles/5ee07a5c.json)
-
-[Extended Data](ext_articles/5ee07a5c.ext.json)
 
 ---

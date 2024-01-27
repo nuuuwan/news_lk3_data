@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 10:17:11**
+As of **2024-01-27 10:32:39**
 
 ## Newspaper Stats
 
-*Scraped **2,863** Articles*
+*Scraped **2,864** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 215
 adaderanasinhalalk | 264
 adalk | 265
 virakesarilk | 301
-tamilmirrorlk | 356
+tamilmirrorlk | 357
 adaderanalk | 362
 dailymirrorlk | 394
 
@@ -26,7 +26,7 @@ dailymirrorlk | 394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,863 (100.0%) of 2,863 articles have been extended.
+2,863 (100.0%) of 2,864 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -453,6 +453,20 @@ Showers or thundershowers will occur at several places in the Central, Sabaragam
 [Data](articles/fc82ac9e.json)
 
 [Extended Data](ext_articles/fc82ac9e.ext.json)
+
+---
+
+### புதுக்குடியிருப்பு விபத்தில் இளைஞன் பலி
+
+*2024-01-27 03:10:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுக்குடியிருப்பு-விபத்தில்-இளைஞன்-பலி/175-332164) · `ta`
+
+உழவு இயந்திரமும் சிறிய ரக பட்டா ரக வாகனமும் மோதி விபத்துக்குள்ளானதில் வள்ளிபுனம் பகுதியைச் சேர்ந்த 28 வயதுடைய இளைஞரே உயிரிழந்துள்ளார் .
+
+நேற்றுமுன்தினம் இரவு பட்டா ரக வாகனத்தில் பயணித்த குறித்த  இளைஞர் விபத்தில் படுகாயமடைந்து புதுக்குடியிருப்பு ஆதார வைத்தியசாலையில் சேர்க்கப்பட்டு சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+
+◼️
+
+[Data](articles/1754528a.json)
 
 ---
 
@@ -1969,27 +1983,5 @@ The arrest was made based on a complaint filed by a resident of Mahavilacchiya.
 [Data](articles/430339d1.json)
 
 [Extended Data](ext_articles/430339d1.ext.json)
-
----
-
-### Hotel accountant arrested for soliciting sexual bribe from female employee
-
-*2024-01-26 15:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Hotel-accountant-arrested-for-soliciting-sexual-bribe-from-female-employee/108-275780) · `en`
-
-Kekirawa, Jan 26 (Daily Mirror) - The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) conducted the first crackdown on bribery in the private sector under the powers conferred by the new Anti-Corruption Act.
-
-The Commission said that the Anti-Corruption Act No. 09 of 2023 has empowered the Bribery Commission to address bribery in the private sector, overriding powers that previously applied only to bribery or corruption in the public sector.
-
-Accordingly, the first raid on a bribery offense in the private sector was conducted on Friday (26) by officials with the approval of the Commission.
-
-They arrested an accountant, who is also the Human Resources Manager of a private hotel, for allegedly soliciting a sexual bribe from a female employee.
-
-The arrest was made based on a complaint filed by a resident of Mahavilacchiya.
-
-...
-
-[Data](articles/d550ca2c.json)
-
-[Extended Data](ext_articles/d550ca2c.ext.json)
 
 ---

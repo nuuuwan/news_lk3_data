@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 20:32:34**
+As of **2024-01-27 20:48:27**
 
 ## Newspaper Stats
 
-*Scraped **2,937** Articles*
+*Scraped **2,941** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
 adalk | 268
-adaderanasinhalalk | 282
+adaderanasinhalalk | 284
 virakesarilk | 305
 tamilmirrorlk | 373
 adaderanalk | 377
-dailymirrorlk | 402
+dailymirrorlk | 404
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,937 (100.0%) of 2,937 articles have been extended.
+2,937 (99.9%) of 2,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### නව සන්ධානය ඇරඹෙයි
+
+*2024-01-27 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192634) · `si`
+
+පාර්ලිමේන්තුව නියෝජනය කරන වැඩිම දේශපාලන පක්ෂ ගණනක වැඩිම මන්ත්‍රිවරුන් පිරිසක එකමුතුවෙන් නව සන්ධානයක් ගොඩනගන බව පාර්ලිමේන්තු මන්ත්‍රී නිමල් ලාන්සා මහතා පවසයි.
+
+නව සන්ධානය නම්වූ එකමුතුව අද (27) ජාඇල කේන්ද්‍ර කරගනිමින් පැවැත්වූ මංගල මහජන රැලියේදී ඔහු මේ බව සඳහන් කළේය.
+
+ඉදිරි ජනනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරමින් නව සන්ධානයක් නිර්මාණය කිරීම වෙනුවන් ජනතාව දැනුවත් කිරීමේ ජන රැලියක් අද ජාඇල නගරයේදී මෙලෙස පැවැත්වුණි.
+
+එම සන්ධානයේ නිර්මාතෘවරයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී නිමල් ලාන්සා මහතා කටයුතු කරන අතර එහි මෙහෙයුම් නායකයා ලෙස කටයුතු කරන්නේ පාර්ලිමේන්තු මන්ත්‍රී අනුර ප්‍රියදර්ශන යාපා මහතාය.
+
+මෙම රැලියට අමාත්‍ය නලීන් ප්‍රනාන්දු, අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත් සහ පාර්ලිමේන්තු මන්ත්‍රී ප්‍රියංකර ජයරත්න මහතා ඇතුළු පිරිසක් එක්වී සිටී.
+
+◼️
+
+[Data](articles/fb7cde24.json)
+
+---
+
+### මුදල් වංචාවකට හිටපු නිලමේ අනියම් බිරිඳ සමග අත්අඩංගුවට
+
+*2024-01-27 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192633) · `si`
+
+වැඩි පොලියක් ලබාදෙන බව පවසා ගලෙන්බිඳුනුවැව ප්‍රදේශයේ ජනතාවගෙන් රුපියල් කෝටි 500ක් වංචා කිරීම සම්බන්ධයෙන් පුද්ගලයෙකු හා ඔහුගේ අනියම් බිරිඳ නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයේ ජාලගත වංචා විමර්ශන ඒකකය මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+2021 වසරේදී වෙහෙරහේන විහාරයේ බස්නායක නිලමේවරයා ලෙස කටයුතු කර ඇති එම පුද්ගලයා මුදල් වංචා කර ඇත්තේ ගලෙන්බිඳුනුවැව ප්‍රදේශයේ "ට්‍රෙඩ්වින් ෂෙයාර්" නම් පීරමීඩාකාර මූල්‍ය ආයතනයක් පවත්වාගෙන යමිනි.
+
+මුදල් වංචා කිරීමෙන් පසු මහනුවර පිළිමතලාව ප්‍රදේශයේ සිය අනියම් බිරිඳ සමග රැඳී සිට ඇති ඔහු ජනතාවගෙන් වංචා කළ මුදලින් ඉඩකඩම්, වාහන මිලදීගෙන අධි සුඛෝපභෝගි ජීවිතයක් ගත කර ඇති බව වාර්තා වෙයි.
+
+එසේම අනියම් බිරිඳගේ නමින් රුපියල් ලක්ෂ 80ක් ස්ථිර තැන්පතුවක්ද පවත්වාගෙන ගොස් තිබේ.
+
+ඒ අනුව ඔහුගේ අනියම් බිරිඳ අත්අඩංගුවට ගැනුණේ වංචා කළ මුදල් ආයෝජනය කිරීමේ චෝදනාව මතය.
+
+අත්අඩංගුවට ගත් 39 හැවිරිදි පුද්ගලයා සහ ඔහුගේ අනියම් බිරිඳ නාරාහේන්පිට පිහිටි නීතිවිරෝධි වත්කම් විමර්ශන කොට්ඨාසයේ ජාලගත වංචා විමර්ශන ඒකකය වෙත අද (27) පස්වරුවේ රැගෙන ආවේය.
+
+◼️
+
+[Data](articles/da52bda1.json)
+
+---
+
+### Police awards Rs. 1.5 mn to MSD officer killed in Expressway accident
+
+*2024-01-27 19:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-awards-Rs-1-5-mn-to-MSD-officer-killed-in-Expressway-accident/108-275820) · `en`
+
+Kandy, Jan. 27 (Daily Mirror)- The police has offered a Rs. 1.5 million cash donation to the family of late State Minister Sanath Nishantha's security officer, Police Constable J.A.A. Jayakodi, who died in the accident on the Katunayake Expressway.
+
+Acting IGP Deshabandu Tennakoon, who visited the constable's residence in Hedeniya, Galagedara to pay his last respects today handed over the cheque for Rs. 1.5 million to the constable's wife.
+
+◼️
+
+[Data](articles/367aa8f6.json)
+
+---
 
 ### India, Sri Lanka hopeful of early ETCA conclusion, working on Kochi-Colombo LNG pipeline
 
@@ -1999,69 +2055,5 @@ The revised IHP SLOTS model estimates reveal more clearly that the current NPP/J
 [Data](articles/cc8b1f17.json)
 
 [Extended Data](ext_articles/cc8b1f17.ext.json)
-
----
-
-### Sri Lanka cannot simply walk away from IMF: Ranil
-
-*2024-01-27 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-simply-walk-away-from-IMF-Ranil/108-275814) · `en`
-
-President Ranil Wickremesinghe addresses Sri Lanka Customs Department at International Customs Day 2024 celebrations in Colombo
-
-Urges parliamentary leaders of all political parties to engage in comprehensive discussions on position regarding IMF agreement
-
-Expresses willingness to extend an invitation to IMF Managing Director
-
-Sri Lanka cannot simply dismiss its engagement with the International Monetary Fund (IMF), in a nuanced stance, President Ranil Wickremesinghe emphasised while citing the complexities that could arise, if a decision is made to do so.
-
-Sri Lanka recently formalised an agreement with the IMF, a collective response to address the profound economic challenges the nation faced, marked as the most severe in its history. This pact stands among agreements endorsed by numerous nations, involving approximately 15-20 others.
-
-“It is an agreement we cannot simply walk away from, necessitating collective discussion and consideration.
-
-...
-
-[Data](articles/e26588c2.json)
-
-[Extended Data](ext_articles/e26588c2.ext.json)
-
----
-
-### SL holds first ever single country exhibition in Brazil
-
-*2024-01-27 00:53:23* · [`dailyftlk`](https://www.ft.lk/business/SL-holds-first-ever-single-country-exhibition-in-Brazil/34-757822) · `en`
-
-The first ever single country exhibition on Sri Lanka in Brazil was held under the theme ‘Explore Sri Lanka 2024’ on 12 and 13 January at the Espaço Cultural Renato Russo (Cultural Centre) in Brasilia to promote history, heritage, culture, trade, tourism, cuisine and products of Sri Lanka.
-
-The exhibition was organised by the Embassy of Sri Lanka in Brazil in collaboration with the Secretariat for the International Relations of the Federal District Government of Brazil.
-
-The opening ceremony was held on Friday, 12 January with the participation of senior officials of the government of Brazil, diplomats, business leaders, tour operators and journalists.
-
-...
-
-[Data](articles/da41d0f8.json)
-
-[Extended Data](ext_articles/da41d0f8.ext.json)
-
----
-
-### NDB Bank takes centre stage as Official Banking Partner at Kadella Exhibition 2024
-
-*2024-01-27 00:48:56* · [`dailyftlk`](https://www.ft.lk/business/NDB-Bank-takes-centre-stage-as-Official-Banking-Partner-at-Kadella-Exhibition-2024/34-757821) · `en`
-
-National Development Bank PLC (NDB) stands as the Official Banking Partner at the eagerly anticipated Kadella Exhibition 2024, hosted at BMICH from 26 to 28 January.
-
-Organised by CEC Events Ltd, this premier exhibition is the go-to destination for individuals seeking inspiration and guidance on their homeownership journey in Sri Lanka.
-
-Featuring over 150 stalls, the “Kadella Living in Style” exhibition showcases a diverse range of home-related products and services, spanning from household appliances, furniture, and craft to tiles and sanitary wear, designers, manufacturers, and smart home and security solutions.
-
-Beyond a mere exhibition, Kadella provides a unique opportunity for visitors to explore businesses within the industry, gain insights into emerging trends, and discover tailored solutions for their specific requirements.
-
-As the Official Banking Partner, NDB’s dedicated stall invites potential homeowners to explore valuable insights into NDB Home Loans.
-
-...
-
-[Data](articles/9e8017a7.json)
-
-[Extended Data](ext_articles/9e8017a7.ext.json)
 
 ---

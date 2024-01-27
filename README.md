@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 14:17:14**
+As of **2024-01-27 14:32:35**
 
 ## Newspaper Stats
 
-*Scraped **2,907** Articles*
+*Scraped **2,911** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,81 @@ economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
 adalk | 266
-adaderanasinhalalk | 272
-virakesarilk | 303
+adaderanasinhalalk | 273
+virakesarilk | 305
 adaderanalk | 368
-tamilmirrorlk | 368
+tamilmirrorlk | 369
 dailymirrorlk | 400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,907 (100.0%) of 2,907 articles have been extended.
+2,907 (99.9%) of 2,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### நுவரெலியா கிரகரி வாவியில் மிதக்கும் சடலம்
+
+*2024-01-27 14:04:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியா-கிரகரி-வாவியில்-மிதக்கும்-சடலம்/76-332176) · `ta`
+
+நுவரெலியா - பதுளை பிரதான வீதியில் உள்ள கிரகரி வாவியில் இன்று  (27) காலை சடலமொன்று மிதப்பதாக நுவரெலியா பொலிஸார் தெரிவித்தனர்.
+
+கிரகரி வாவியில் படகு சவாரியில் ஈடுபடுவோர் சடலமொன்று மிதப்பதாக பொலிஸாருக்கு வழங்கிய தகவலின் அடிப்படையில் பொலிஸார் சம்பவ இடத்துக்கு விரைந்துள்ளனர்.
+
+இவ்வாறு சடலமாக மிதப்பவர் இராமன் பத்மநாதன் வயது (64) என பொலிஸார் தெரிவிக்கின்றனர்.
+
+நுவரெலியா மாவட்ட நீதவான் ஸ்தலத்துக்கு சென்று சடலத்தை பார்வையிட்டதன் பின்னர், சடலம் வாவியில் இருந்து மீட்கப்படும் என்று பொலிஸார் தெரிவித்தனர்.
+
+இவர் வாவியில் பாய்ந்து உயிரிழந்தாரா? அல்லது கொலை செய்து வாவியில் எறிந்து சென்றார்களா என்பது தொடர்பாக பலகோணங்களில் பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+
+மரண விசாரணைகளின் பின் சடலம் வைத்திய பரிசோதனைக்காக நுவரெலியா மாவட்ட வைத்தியசாலைக்கு அனுப்பி வைக்கப்படவுள்ளதாகவும் பொலிஸார் மேலும் தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/bd9e1a9d.json)
+
+---
+
+### කොළඹ වරායට ආ කුණු මාළු
+
+*2024-01-27 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192622) · `si`
+
+සීෂෙල්ස් සිට තායිලන්තය දක්වා ගමන් ගත් නෞකාවක තිබූ නරක් වූ මාළු අඩංගු බහාලුම් 98ක් කාබනික පොහොර සෑදීමට බව කියමින් මෙරටට ගොඩ බා ඇති බව රජයේ ගිණුම් කාරක සභාවේ දී අනාවරණය වී ඇත.
+
+එම නෞකාව මෙරටට ගෙන ඒමට කටයුතු කළ මෙරට නියෝජිතයා සතු ව සැමන් කර්මාන්ත ශාලාවක් පවතින බවත් නෞකාවේ තිබු නරක් වූ මාළු අඩංගු බහාලුම් 04කට සිදු වූ දෙයක් නොමැති බවත් එහි දී වැඩිදුරටත් හෙළි වී තිබේ.
+
+නෞකාවට වරයේ ගොඩ බෑම සඳහා බලපත්‍රයක් ලබා දී ඇති බව ද වාර්තා වේ.
+
+කෙසේ වෙතත් ආනයන අපනයන පාලක ජනරාල් ටී.ටී.උපුල්මලී ප්‍රේමතිලක මහත්මොය පැවසුවේ, මෙම බලපත්‍රය මත්ස්‍ය අපද්‍රව්‍ය සඳහා නිකුත් කර ඇති බවයි.
+
+මාර්තු 05 වැනි දා මීට අදාළ සියලු රාජ්‍ය ආයතන කැඳවා මේ පිළිබඳ වැඩිදුරටත් සොයාබලන බව රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ සභාපති රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පැවසීය.
+
+◼️
+
+[Data](articles/0d191a98.json)
+
+---
+
+### மலையக தோட்டப் பகுதிகளில் சிறுத்தைகளின் நடமாட்டம் அதிகரிப்பு : அச்சத்தில் மக்கள்
+
+*2024-01-27 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174912) · `ta`
+
+தேயிலை தோட்டப் பகுதிகளில் சிறுத்தைகளின் நடமாட்டம் அதிகரித்துள்ளதாகவும் இதனால் தோட்டத் தொழிலாளர்களுக்கு உயிராபத்துள்ளதாகவும் மலையக தோட்டப் பகுதிகளில் வசிக்கும் பொதுமக்கள் அச்சம் தெரிவிக்கின்றனர்.
+
+சிறுத்தைகள் தேயிலைச் செடிகளுக்குள் பதுங்கியிருந்து அவ்வழியே செல்வோரை தாக்கிய பல சம்பவங்கள் இடம்பெற்றுள்ளதாக பாதிக்கப்பட்ட மக்கள் கூறும் அதேவேளை, அண்மையில் தேயிலைச் செடிக்குள் இறந்து கிடந்த நாயின் உடலை உண்டுகொண்டிருந்த சிறுத்தையொன்று, அப்பகுதியில் தேயிலை பறித்துக்கொண்டிருந்த தொழிலாளி ஒருவரை தாக்கியதாகவும் கூறுகின்றனர்.
+
+"பொகவந்தலாவையிலுள்ள தோட்டமொன்றில் வேலை செய்யும் தொழிலாளி ஒருவர் பணியிடத்துக்கு சென்றுகொண்டிருந்தபோது சிறுத்தையால் தாக்கப்பட்டு பலத்த காயங்களுக்குள்ளானார்.
+
+சிறுத்தைகளின் தாக்குதலிலிருந்து பொது மக்களை பாதுகாக்கவும், சிறுத்தைகளிடமிருந்து தம்மை பாதுகாத்துக்கொள்ள மக்கள் பொறி வைத்து சிறுத்தைகளை கொல்வதை தடுக்கவும் வனவிலங்கு அதிகாரிகள் சிறந்த பொறிமுறையை உருவாக்க வேண்டும்" என்கின்றனர்.
+
+...
+
+[Data](articles/9df46fe1.json)
+
+---
 
 ### Man arrested for nine warrants
 
@@ -60,6 +120,28 @@ The suspect was present in 2008 as Maharagama Ratana Thera in 2008, since then h
 
 ---
 
+### காசாவில் இனப்படுகொலை இடம்பெறுகின்றதா? சர்வதேச நீதிமன்றம் வழங்கியுள்ள முக்கிய தீர்ப்பு என்ன?
+
+*2024-01-27 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/174913) · `ta`
+
+காசாவில் இனப்படுகொலைகள் இடம்பெறுவதை தடுப்பதற்கான நடவடிக்கைகளை இஸ்ரேல் எடுக்கவேண்டும் என சர்வதேச நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+இஸ்ரேல் இனப்படுகொலைகளில் ஈடுபடுவதாக தெரிவித்து தென்னாபிரிக்கா தாக்கல் செய்த மனுவை ஆராய்ந்த சர்வதேசநீதிமன்றம் தனது உத்தரவினை வெளியிட்டுள்ளது.
+
+இனப்படுகொலை என்பதற்குள் அடங்ககூடிய அனைத்துவகையான நடவடிக்கைகளையும் தடுத்துநிறுத்துவதற்கான நடவடிக்கைகளை இஸ்ரேல் எடுக்கவேண்டும் என நீதிபதி ஜோன்டொனோகு தெரிவித்துள்ளார்.
+
+இஸ்ரேலி;ய படையினர் இனப்படுகொலைகள் என கருதப்படும் நடவடிக்கைகளில் ஈடுபடுவதை இஸ்;ரேல் தடுத்து நிறுத்தவேண்டும் எனவும் அவர் உத்தரவிட்டுள்ளார்.
+
+எனினும் தென்னாபிரிக்கா வேண்டுகோள் விடுத்தபடி இஸ்ரேல் காசாவில் தனது இராணுவநடவடிக்கைகளை நிறுத்தவேண்டும் என நீதிமன்றம் உத்தரவிடவில்லை.
+
+இஸ்ரேலின் நடவடிக்கைகள் தொடர்பிலான நீதிமன்றத்தின் இறுதி தீர்ப்பு இதுவல்ல என்ற போதிலும் பாலஸ்தீனியர்கள் இனப்படுகொலை ஆபத்தை எதிர்கொள்கின்றனர் என தாங்கள் கருதுவதை நீதிபதிகள் வெளிப்படுத்தியுள்ளனர்.
+
+◼️
+
+[Data](articles/25e0732b.json)
+
+---
+
 ### Special traffic plan in Colombo
 
 *2024-01-27 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192620) · `si`
@@ -73,6 +155,32 @@ Speaking to a press conference held in the Police Media Division in the Police M
 [Data](articles/027eb806.json)
 
 [Extended Data](ext_articles/027eb806.ext.json)
+
+---
+
+### Did the UN for Balasatinam, then workers joined the attack with Hamas?Israel
+
+*2024-01-27 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174911) · `ta`
+
+Australia has suspended funding for the organization following investigations into the UN employees of Palestine on the seventh of October Hamas.
+
+The Palestinian Refugees (UNA) has said that Israel has provided details that their organizations were involved in the attack on the seventh of October.
+
+Investigations have begun.
+
+The UN has not released the details of how many people in the attack against Israel and how many attackers were attacked.
+
+Australia has announced that it has suspended funding for the Palestinian Organization for Refugees, like Canada.
+
+The Australian Foreign Minister said that Australia is deeply concerned about these allegations.
+
+Australia has welcomed the suspension of certain employees.
+
+◼️
+
+[Data](articles/d39a12a4.json)
+
+[Extended Data](ext_articles/d39a12a4.ext.json)
 
 ---
 
@@ -99,32 +207,6 @@ It took the jury of seven men and two women less than three hours to reach a ver
 [Data](articles/2f3a2e07.json)
 
 [Extended Data](ext_articles/2f3a2e07.ext.json)
-
----
-
-### Did the UN for Balasatinam, then workers joined the attack with Hamas?Israel
-
-*2024-01-27 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/174911) · `ta`
-
-Australia has suspended funding for the organization following investigations into the UN employees of Palestine on the seventh of October Hamas.
-
-The Palestinian Refugees (UNA) has said that Israel has provided details that their organizations were involved in the attack on the seventh of October.
-
-Investigations have begun.
-
-The UN has not released the details of how many people in the attack against Israel and how many attackers were attacked.
-
-Australia has announced that it has suspended funding for the Palestinian Organization for Refugees, like Canada.
-
-The Australian Foreign Minister said that Australia is deeply concerned about these allegations.
-
-Australia has welcomed the suspension of certain employees.
-
-◼️
-
-[Data](articles/d39a12a4.json)
-
-[Extended Data](ext_articles/d39a12a4.ext.json)
 
 ---
 
@@ -1931,83 +2013,5 @@ Fisheries and Aquatic Resources Minister Duglas Devananda, State Minister Phal N
 [Data](articles/e1caec54.json)
 
 [Extended Data](ext_articles/e1caec54.ext.json)
-
----
-
-### Notice on traffic restricted to Kandy - Colombo
-
-*2024-01-26 20:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192604) · `si`
-
-The police are notable for traffic on the Kandy-Colombo main road due to the global perahera of Nittambuwa.
-
-The procession will be held from 7 pm tomorrow to 8.30 pm.
-
-The procession from the Perahera of the Colombo Malwatta Sri Bodhi Viharaya from Sri Bodhi Temple on the Colombo-Kandy main road, the Nittambuwa is due to travel to the Sri Vijayarama Viharaya.
-
-The Colombo-Colombo main road from the Colombo-Colombo main road to the Nittambuwa Junction to the Nittambuwa junction, the Colombo-Colombo main road to the city is restricted to traffic.
-
-The police call for the drivers and the people who are looking for the city of Nittambuwa from Colombo to the city of concession.
-
-* Vehicles heading towards Colombo to Kandy turn left from Kalgodagana Junction to Veyangoda.
-
-* Vehicles traveling to the Mirigama-Kurunegala Expressway to the Yarigaguwa Junction of Veyangoda can lead to Rs.
-
-◼️
-
-[Data](articles/f37676e5.json)
-
-[Extended Data](ext_articles/f37676e5.ext.json)
-
----
-
-### Invitations in parliament today
-
-*2024-01-26 20:27:56* · [`adalk`](https://www.ada.lk/breaking_news/අද-පාර්ලිමේන්තුවේ-වාරාවසාන-කරයි/11-407739) · `si`
-
-President Ranil Wickremesinghe has been informed in accordance with the Constitution of Article 70 (1) of the constitution today (26) of the Constitution.Has been done.
-
-The President has the opportunity to conclude the government's policy statement at the commencement of a new commander at the constitution of the Constitution.
-
-When the parliament is concluded, the issues and proposals that parliament should not be considered and proposals should be abolished and the MPs should act again on fixed orders. Further, all the Committees of the Parliament, the High Court Committee, Select Committees should be re-be assigned in the new new new congregation.
-
-The first congregation in the ninth parliament has been held from August 20 to December 20, 2021, January 18, 2022 to 28 July 20, 2022.. The third session of Parliament was held from August 03 to January 3, 2023 and the fourth election began 106 days for the fourth session of Parliament today (26).
-
-◼️
-
-[Data](articles/f2f9a5f1.json)
-
-[Extended Data](ext_articles/f2f9a5f1.ext.json)
-
----
-
-### Share market bounces back following temporary slide; indices up
-
-*2024-01-26 20:25:00* · [`islandlk`](http://island.lk/share-market-bounces-back-following-temporary-slide-indices-up/) · `en`
-
-The stock market yesterday evinced some bounce after witnessing a downturn in the trading of shares due to bargain hunters becoming active and going for low cost shares, market analysts said.
-
-On top of that, corporate financial results for the up and coming quarter showed some improvements. This resulted in the market moving to positive territory. Amid those developments both indices moved upwards. The All- Share Price Index went up by 61.4 points and S and P SL20 rose by 24.1 points. Turnover stood at Rs 798 million with one crossing. The crossing was reported in LB Finance, which crossed 1.8 million shares to the tune of Rs 111 million; its shares traded at Rs 61.
-
-...
-
-[Data](articles/1b86d828.json)
-
-[Extended Data](ext_articles/1b86d828.ext.json)
-
----
-
-### People’s Bank and George Steuart Solutions join forces to promote solar energy in Sri Lanka
-
-*2024-01-26 20:23:00* · [`islandlk`](http://island.lk/peoples-bank-and-george-steuart-solutions-join-forces-to-promote-solar-energy-in-sri-lanka/) · `en`
-
-In a strategic move towards sustainable energy solutions, People’s Bank and George Steuart Solutions (Pvt) Ltd. (GSS) entered into a Memorandum of Understanding (MoU) to collaborate on a pioneering initiative for solar solutions in Sri Lanka.
-
-This groundbreaking partnership aims to make solar energy more affordable to customers by offering a comprehensive package that combines financial support and incentives. People’s Bank, a leading commercial Bank in Sri Lanka, will provide tailored loans for customers who are seeking to invest in solar systems. The financial patronage will enable the adoption of solar energy solutions by making them accessible to a broader segment of the public.
-
-...
-
-[Data](articles/0afdf6c9.json)
-
-[Extended Data](ext_articles/0afdf6c9.ext.json)
 
 ---

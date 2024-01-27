@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 08:02:30**
+As of **2024-01-27 08:17:18**
 
 ## Newspaper Stats
 
-*Scraped **2,847** Articles*
+*Scraped **2,848** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adalk | 265
 virakesarilk | 300
 tamilmirrorlk | 355
 adaderanalk | 359
-dailymirrorlk | 393
+dailymirrorlk | 394
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,841 (99.8%) of 2,847 articles have been extended.
+2,847 (100.0%) of 2,848 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,26 @@ At the time of the accident, the group had been returning from a wedding ceremon
 
 [Data](articles/572b8fce.json)
 
+[Extended Data](ext_articles/572b8fce.ext.json)
+
+---
+
+### Fresh efforts underway to expedite illumination in Expressways
+
+*2024-01-27 07:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fresh-efforts-underway-to-expedite-illumination-in-Expressways/108-275794) · `en`
+
+Colombo, Jan. 27 (Daily Mirror)- In the wake of two fatal accidents including the pre-dawn crash that claimed the life of State Minister Sanath Nishantha, the Road Development Authority (RDA) is planning to expedite illumination of the expressway by laying aluminum transmission cables in place of Rs.250 million worth copper current cables stolen during the pandemic.
+
+Darkness is now identified as one of the reasons that can cause accidents on the expressway after nightfall.
+
+Asked for a comment on the situation, Transport, Highways and Media Minister Bandula Gunawardane told Daily Mirror that the RDA, instructed by engineers, decided to lay aluminum cables for power transmission along the expressway that links the airport with the city.
+
+However, he said the project remain delayed and he instructed the officials concerned to complete work in one month’s time.
+
+◼️
+
+[Data](articles/43c18573.json)
+
 ---
 
 ### Woman Remanded for Canadian Job Fraud Spree
@@ -69,6 +89,8 @@ Based on initial investigations and 16 confirmed complaints, the Sri Lankan Bure
 ...
 
 [Data](articles/0675beea.json)
+
+[Extended Data](ext_articles/0675beea.ext.json)
 
 ---
 
@@ -94,6 +116,8 @@ Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
 
 [Data](articles/39f267b6.json)
 
+[Extended Data](ext_articles/39f267b6.ext.json)
+
 ---
 
 ### 13 Detainees Still on the Run After Kandakadu Rehabilitation Center Escape
@@ -117,6 +141,8 @@ Despite the recent escape attempt, the Kandakadu Rehabilitation Center remains o
 ...
 
 [Data](articles/52b5cf32.json)
+
+[Extended Data](ext_articles/52b5cf32.ext.json)
 
 ---
 
@@ -142,6 +168,8 @@ Wind speed may increase up to 50-60 kmph at times in the sea areas off the coast
 
 [Data](articles/8805fa2a.json)
 
+[Extended Data](ext_articles/8805fa2a.ext.json)
+
 ---
 
 ### Wickremesinghe to Present Policy Statement as Parliament Resumes Feb. 7th
@@ -161,6 +189,8 @@ When the Parliament is prorogued, the questions and motions that have not been c
 ...
 
 [Data](articles/029833b3.json)
+
+[Extended Data](ext_articles/029833b3.ext.json)
 
 ---
 
@@ -1981,27 +2011,5 @@ Once again this year, the Kedella exhibition and trade fair kicked off at Colomb
 [Data](articles/f84fbd06.json)
 
 [Extended Data](ext_articles/f84fbd06.ext.json)
-
----
-
-### Revivin retires from life
-
-*2024-01-26 14:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192587) · `si`
-
-A youth has died in an accident in the Mullaitivu, Pudukudiyirippu, Pudunukudiyuramu area in Mullaitivu.
-
-The police said that the accident had occurred when a tractor was configured in a batto a lorry.
-
-A resident of Pudukudiirippu, a resident of Pudukuduirippu, was killed in a resident of Pudukuduirippu.
-
-The driver of the tractor was arrested in connection with the accident.
-
-The body of the deceased has been placed at the Mullaitivu Hospital morgue and the suspect arrested in connection with the accident and is to be produced before the Mullaitivu Magistrate's Court.
-
-◼️
-
-[Data](articles/979b44c0.json)
-
-[Extended Data](ext_articles/979b44c0.ext.json)
 
 ---

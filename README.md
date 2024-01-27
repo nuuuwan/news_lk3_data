@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 19:17:09**
+As of **2024-01-27 19:32:46**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 402
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,934 (99.9%) of 2,936 articles have been extended.
+2,936 (100.0%) of 2,936 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ The authorities stated that necessary measures are being taken to rescue the abd
 ◼️
 
 [Data](articles/5ea58d72.json)
+
+[Extended Data](ext_articles/5ea58d72.ext.json)
 
 ---
 
@@ -119,6 +121,8 @@ Police Media Division earlier said the traffic plan comes into effect on January
 ...
 
 [Data](articles/610b3b72.json)
+
+[Extended Data](ext_articles/610b3b72.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 15:50:44**
+As of **2024-01-27 16:02:10**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,912 (99.9%) of 2,915 articles have been extended.
+2,915 (100.0%) of 2,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### கொழும்பில் விசேட போக்குவரத்து திட்டம்
+### Special Transport Plan in Colombo
 
 *2024-01-27 15:18:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-விசேட-போக்குவரத்து-திட்டம்/175-332177) · `ta`
 
-எதிர்வரும் சுதந்திர தின நிகழ்வுகளை முன்னிட்டு காலி வீதியின் ஒரு பகுதியில் விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளது.
+A special traffic plan will be implemented in a part of Galle Road to mark the upcoming Independence Day event.
 
-இதன்படி, காலி வீதியின் கொள்ளுப்பிட்டி சந்தியில் இருந்து காலி முகத்திடலுக்கும், செராமிக் சந்தியிலிருந்து காலி முகத்திடலுக்கும் தற்காலிகமாக போக்குவரத்து தடைசெய்யப்பட்டுள்ளது.
+Accordingly, traffic has been temporarily blocked from the Kaluppitti junction of Galle Road to the Galle Face and the Galle Face from the Ceramic Junction.
 
-இதன்படி, பெப்ரவரி 04 ஆம் திகதி வரை குறிப்பிட்ட வீதிகளூடாக போக்குவரத்து தற்காலிகமாக தடைசெய்யப்பட்டுள்ளது. R
+Accordingly, traffic has been temporarily prohibited through specific roads until February 04. Remble
 
 ◼️
 
 [Data](articles/5fb9888b.json)
+
+[Extended Data](ext_articles/5fb9888b.ext.json)
 
 ---
 
@@ -63,6 +65,8 @@ The final text upheld by the council retains key elements initially desired by t
 ...
 
 [Data](articles/e51bc20a.json)
+
+[Extended Data](ext_articles/e51bc20a.ext.json)
 
 ---
 
@@ -344,17 +348,23 @@ At the same time, the total sales price of vegetables that are being transported
 
 ---
 
-### කැනඩා රැකියා පෙන්වා කෝටි 6ක් වංචාකළ කත කොටුවෙයි
+### The woman who has cheated 6 crores in cheated on Canada jobs
 
 *2024-01-27 11:59:05* · [`adalk`](https://www.ada.lk/breaking_news/කැනඩා-රැකියා-පෙන්වා-කෝටි-6ක්-වංචාකළ-කත-කොටුවෙයි/11-407741) · `si`
 
-කැනඩාවේ රැකියා ලබාදෙන බව පවසා රුපියල් කෝටි 6ට අධික මුදලක් වංචාකල කාන්තාවක් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් 2024.01.24 දින අත්අඩංගුවට ගෙන තිබේ.
+A woman who cheated for more than Rs.
 
-පෑලියගොඩ මාලු වෙළඳාමේ නිරතවන පුද්ගලයෙකු විසින් කැනඩාවේ රැකියාවක් ලබාගැනීම සඳහා වත්තල, කුඩා ඒදණ්ඩ පාර ප්‍රදේශයේ පදිංචි කාන්තාවකට රු.6,210,000.00 ක මුදලක් ලබාදී ඇති අතර, මෙම කාන්තාව විසින් වරින් වර කොටස් වශයෙන් මෙම මුදල් ලබාගෙන තිබේ. මුදල් ලබාදීමෙන් අනතුරුව රැකියාව ලබාදීමට නොහැකි බව මෙම කාන්තාව පැවසූ හෙයින් මුදල් ලබාදුන් පුද්ගලයා කාර්යාංශය වෙත පැමිණිලි කරන ලදී.
+A woman residing in Wattala, Small Udanda Road, has been provided with Rs.. The woman said that it was not possible to provide a job after the money was paid.
 
-...
+A 37-year-old unmarried woman has been arrested in accordance with the person who had been fraudulent. The Bureau has received 16 complaints against the complaint so far, according to the complaints, over Rs.. The woman has defrauded people from different parts of the island, and the people who engage in bank officials, lawyers, including banking officers and the advisors have been fraud.
+
+The suspect was produced before the Welisara Magistrate's Court yesterday (2024.2015) without a validity of the Bureau.
+
+◼️
 
 [Data](articles/4fe21a3f.json)
+
+[Extended Data](ext_articles/4fe21a3f.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 12:17:36**
+As of **2024-01-27 12:32:58**
 
 ## Newspaper Stats
 
-*Scraped **2,896** Articles*
+*Scraped **2,898** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,10 +12,10 @@ colombotelegraphcom | 40
 bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 159
-economynextcom | 168
+economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
-adalk | 265
+adalk | 266
 adaderanasinhalalk | 270
 virakesarilk | 301
 tamilmirrorlk | 365
@@ -26,7 +26,7 @@ dailymirrorlk | 400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,891 (99.8%) of 2,896 articles have been extended.
+2,896 (99.9%) of 2,898 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Furthermore, the Navy chief said that a building with all facilities required fo
 ◼️
 
 [Data](articles/ff16ec6b.json)
+
+[Extended Data](ext_articles/ff16ec6b.ext.json)
 
 ---
 
@@ -64,6 +66,8 @@ However, the Ambassador firmly asserted Sri Lanka's sovereign right to regulate 
 
 [Data](articles/8e33c5ee.json)
 
+[Extended Data](ext_articles/8e33c5ee.ext.json)
+
 ---
 
 ### Exam centre chief arrested over 2023 A/L exam paper leak
@@ -83,6 +87,8 @@ The three suspects have been remanded in custody until February 02, 2024, after 
 ...
 
 [Data](articles/1c2fdc38.json)
+
+[Extended Data](ext_articles/1c2fdc38.ext.json)
 
 ---
 
@@ -108,6 +114,8 @@ This development comes amidst heightened tensions at the Kankakadu Treatment Reh
 
 [Data](articles/96eee7a1.json)
 
+[Extended Data](ext_articles/96eee7a1.ext.json)
+
 ---
 
 ### Kidney Sale for Drugs: Suspect Remanded in Sri Lanka
@@ -125,6 +133,8 @@ According to police reports, the suspect had sold his kidney in Colombo sometime
 ◼️
 
 [Data](articles/63672dad.json)
+
+[Extended Data](ext_articles/63672dad.ext.json)
 
 ---
 
@@ -1060,6 +1070,26 @@ Showers or thundershowers will occur at several places in the Central, Sabaragam
 
 ---
 
+### Sri Lanka eyes 3,007MW of floating solar power
+
+*2024-01-27 06:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-3007mw-of-floating-solar-power-148831/) · `en`
+
+ECONOMYNEXT – Sri Lanka has identified locations in 31 reservoirs which can be used to built 3,077 MegaWatts of floating solar plants, Irrigation Minister Sashindra Rajapsksa has said.
+
+Floating solar plants totaling 2,534 Mega Watts could be built on 14 reservoirs belonging to Sri Lanka Mahaweli Authority, a statement from President’s media office quoted Minister Rajapaksa as saying at a briefing.
+
+Another 553 MW of solar plants are planned on 17 reservoirs belonging o the Department of Irrigation.
+
+RELATEDSri Lanka’s ACE Embilipitiya, ACE Matara power contracts to expire in Feb 24
+
+A 120MW hydro power plant at Uma Oya will be opened on February 15. (Colombo/Jan26/2024)
+
+◼️
+
+[Data](articles/cb3eb892.json)
+
+---
+
 ### Youth killed in accident
 
 *2024-01-27 03:10:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுக்குடியிருப்பு-விபத்தில்-இளைஞன்-பலி/175-332164) · `ta`
@@ -1852,6 +1882,26 @@ The suspects have said that the suspects have planned to assassinate the murder 
 
 ---
 
+### ලක්ෂ 137ක ස්වර්ණාභරණ තොගයක් සමග ව්‍යාපාරිකාවක් අල්ලයි
+
+*2024-01-26 20:04:54* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-137ක-ස්වර්ණාභරණ-තොගයක්-සමග-ව්‍යාපාරිකාවක්-අල්ලයි/11-407737) · `si`
+
+රුපියල් එක් කෝටි තිස් හත් ලක්ෂයක් වටිනා ස්වර්ණාභරණ තොගයක් නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවට රැගෙන එමින් සිටි ව්‍යාපාරික කාන්තාවක් 01/26 දින අලුයම කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+
+ඇය කොළඹ 10 , මරදාන ප්‍රදේශයේ පදිංචි 46 හැවිරිදි නිතර නිතර ගුවන් ගමන් වල නිරත වන ව්‍යාපාරික කාන්තාවකි .
+
+ඇය 01/26 දින අලුයම 12.40 ට ඩුබායි සිට ෆ්ලයි ඩුබායි ගුවන් සේවයේ එෆ්.ඉසෙඩ්.- 569 දරන ගුවන් යානයෙන් කටුනා.
+
+ඇය විසින් රැගෙන ආ ගමන් මලු තුළ සූක්ෂම ලෙස සගවා ගෙන තිබූ ග්‍රෑම් 666 ක් බරැති මෙම ස්වර්ණාභරණ තොගය පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් විසින් සොයා ගෙන අත් අඩංගුවට ගෙන තිබුණි .
+
+පසුව මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සදහා කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් වෙත භාර දීමට පියවර ගෙන තිබේ .
+
+◼️
+
+[Data](articles/d82de3fe.json)
+
+---
+
 ### Psychiatric treatment for self-proclaimed ‘Vishwa Buddha’
 
 *2024-01-26 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96753/psychiatric-treatment-for-self-proclaimed-vishwa-buddha) · `en`
@@ -1951,39 +2001,5 @@ Meanwhile, a foreigner lost his lives in the Kerawalapitiya Expressway today (26
 [Data](articles/d2d8324e.json)
 
 [Extended Data](ext_articles/d2d8324e.ext.json)
-
----
-
-### The universal Buddha who had acted due to work
-
-*2024-01-26 19:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192601) · `si`
-
-Senior Deputy Solicitor General Dileepa Peiris has informed the court today that he has been directed to psychological treatment on the recommendation of the forensic medical recommendation due to the issuance of claims.
-
-The Court of Nugegoda, the suspect, was further remanded until February 02.
-
-The case was taken up again in Nugegoda Magistrate's Court today to break the suspect's bail of the suspect.
-
-"Lord, when released on bail, has repeatedly expressed the statement of Buddhism in an interview again. The interview with a famous journalist, 879,000 users viewed 879,000 users within 8 days online. We recorded a statement from that journalist. He says that ICCPR Act did not apply the ICCPR Act to the suspect's case, and discussed all facts based on the case. "
-
-However, the Senior Deputy Solicitor General the General stated that the Buddhist philosophy has made a Buddhist philosophy as a monk.
-
-...
-
-[Data](articles/2e21d4ac.json)
-
-[Extended Data](ext_articles/2e21d4ac.ext.json)
-
----
-
-### The Lungs Of The City
-
-*2024-01-26 19:08:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/the-lungs-of-the-city/) · `en`
-
-...
-
-[Data](articles/d80226b3.json)
-
-[Extended Data](ext_articles/d80226b3.ext.json)
 
 ---

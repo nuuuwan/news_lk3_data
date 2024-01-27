@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 22:50:09**
+As of **2024-01-27 23:02:23**
 
 ## Newspaper Stats
 
-*Scraped **2,950** Articles*
+*Scraped **2,952** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
 adalk | 268
-adaderanasinhalalk | 287
+adaderanasinhalalk | 289
 virakesarilk | 305
 tamilmirrorlk | 373
 adaderanalk | 382
@@ -26,11 +26,45 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,948 (99.9%) of 2,950 articles have been extended.
+2,952 (100.0%) of 2,952 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### Young people who joked wildlaria
+
+*2024-01-27 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192639) · `si`
+
+We had a video of two youths who wreate the wildlife.
+
+Two youths who entered the flooding valley of Polonnaruwa have been harassed by a wildlife.
+
+There was a nearby man who was on the two young men who were chasing the two young men.
+
+◼️
+
+[Data](articles/e5700660.json)
+
+[Extended Data](ext_articles/e5700660.ext.json)
+
+---
+
+### The odd way of the highway
+
+*2024-01-27 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192638) · `si`
+
+A video running a car in the opposite direction of the Colombo-Katunayake Expressway is circulated on social media.
+
+When contacted, the authorities of the Colombo-Katunayake Expressway said that immediate action would be taken.
+
+◼️
+
+[Data](articles/963374f0.json)
+
+[Extended Data](ext_articles/963374f0.ext.json)
+
+---
 
 ### ‘New Alliance’ kicks off inaugural public rally
 
@@ -49,6 +83,8 @@ The inaugural rally was joined by Ministers Nalin Fernando and Susil Premajayant
 ◼️
 
 [Data](articles/475e65d1.json)
+
+[Extended Data](ext_articles/475e65d1.ext.json)
 
 ---
 
@@ -125,6 +161,8 @@ Accordingly, motorists heading to Colombo are urged to use the Kokmaduwa interch
 ◼️
 
 [Data](articles/850a2cc4.json)
+
+[Extended Data](ext_articles/850a2cc4.ext.json)
 
 ---
 
@@ -2015,47 +2053,5 @@ Wind speed may increase up to 50-60 kmph at times in the sea areas off the coast
 [Data](articles/8805fa2a.json)
 
 [Extended Data](ext_articles/8805fa2a.ext.json)
-
----
-
-### 15 lakhs of constable family who died at highway
-
-*2024-01-27 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192610) · `si`
-
-Government Constable Anuradha Jayakody has provided the passage of Rs.
-
-Acting Inspiration Inspector General of Police has made the donation by Mr. Deshabandu Tennakoon.
-
-Meanwhile, the deceased police constable has also been promoted to the rank.
-
-State Minister Sanath Nishantha and his defense, police constable Anuradha Jayakody killed in an accident on the Southern Expressway.
-
-◼️
-
-[Data](articles/4090d2eb.json)
-
-[Extended Data](ext_articles/4090d2eb.ext.json)
-
----
-
-### Wickremesinghe to Present Policy Statement as Parliament Resumes Feb. 7th
-
-*2024-01-27 07:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/wickremesinghe-to-present-policy-statement-as-parliament-resumes-feb-7th/) · `en`
-
-COLOMBO (News 1st); Sri Lankan President Ranil Wickremesinghe is expected to deliver the Government's Policy Statement on the 7th of February, commencing the fifth session of the ninth parliament.
-
-According to the Sri Lanka Parliament, the fifth session of the Ninth Parliament will commence on February 07 at 10.30 am.
-
-President Ranil Wickremesinghe prorogued the Parliament in accordance with the powers vested in him with Article 70 (1) of the Constitution with effect from midnight on 26th January.
-
-Following the end of one session of Parliament and a new session commences, the President has the opportunity to ceremonially declare open the Parliament and preside over to present the Government's Policy Statement.
-
-When the Parliament is prorogued, the questions and motions that have not been considered by the Parliament until then will be abolished, and the Members of Parliament thus have to take it up again in accordance with the standing orders.
-
-◼️
-
-[Data](articles/029833b3.json)
-
-[Extended Data](ext_articles/029833b3.ext.json)
 
 ---

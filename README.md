@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 10:32:39**
+As of **2024-01-27 10:49:51**
 
 ## Newspaper Stats
 
-*Scraped **2,864** Articles*
+*Scraped **2,874** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,113 @@ colombotelegraphcom | 40
 bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 159
-newsfirstlk | 162
+newsfirstlk | 163
 economynextcom | 168
 dailyftlk | 215
 adaderanasinhalalk | 264
 adalk | 265
 virakesarilk | 301
-tamilmirrorlk | 357
+tamilmirrorlk | 360
 adaderanalk | 362
-dailymirrorlk | 394
+dailymirrorlk | 400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,863 (100.0%) of 2,864 articles have been extended.
+2,864 (99.7%) of 2,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### இலங்கையில் அதிகரிக்கும் பாலியல் குற்றங்கள்
+
+*2024-01-27 10:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-அதிகரிக்கும்-பாலியல்-குற்றங்கள்/175-332167) · `ta`
+
+நாட்டில் வருடாந்தம் பாலியல் குற்றங்கள் அதிகரித்து வருவதாக பொலிஸ் சிறுவர் மற்றும் மகளிர் பணியகம் தெரிவித்துள்ளது.
+
+கடந்த வருடத்தில் மாத்திரம் 18 வயதுக்குட்பட்ட 1,502 சிறுமிகள் வன்புணர்வுக்கு உள்ளானதாக பிரதிப் பொலிஸ் மா அதிபர் ரேணுகா ஜயசுந்தர கூறியுள்ளார். (N)
+
+◼️
+
+[Data](articles/bf6e3f1c.json)
+
+---
+
+### வினாத்தாள் வெளியானமை தொடர்பில் மற்றுமொருவர் கைது
+
+*2024-01-27 10:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-வெளியானமை-தொடர்பில்-மற்றுமொருவர்-கைது/175-332166) · `ta`
+
+இம்முறை நடைபெற்று வரும் உயர்தரப் பரீட்சைக்கான  விவசாய விஞ்ஞான வினாத்தாள் வெளியான சம்பவம் தொடர்பில் மற்றுமொருவர் கைது செய்யப்பட்டுள்ளார்.
+
+பரீட்சை மண்டப பெண் பொறுப்பாளர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டு அம்பாறை நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டுள்ளார்.
+
+இச்சம்பவம் தொடர்பில் பரீட்சை மண்டப பொறுப்பாளர், மண்டபப் பணியாளர் மற்றும் முதலில் கைது செய்யப்பட்ட ஆசிரியர் ஆகியோரை எதிர்வரும் பெப்ரவரி மாதம் இரண்டாம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டுள்ளதாக பரீட்சை திணைக்களம் கூறியுள்ளது.
+
+இந்த சம்பவத்துடன் தொடர்புடைய பரீட்சை மண்டப பொறுப்பாளர்  பிலியந்தலை பிராந்திய கல்வி அலுவலகத்தில் ஆசிரியர் ஆலோசகராக கடமையாற்றி வருவதாக தெரிவிக்கப்படுகிறது.
+
+மேலதிக விசாரணைகளை குற்றப் புலனாய்வுப் பிரிவினர் மேற்கொண்டு வருவதாக பரீட்சைகள் திணைக்களம் குறிப்பிட்டுள்ளது. (N)
+
+◼️
+
+[Data](articles/2bd5a8c4.json)
+
+---
+
+### 24 மணித்தியாலங்களில் மேலும் 818 பேர் கைது
+
+*2024-01-27 10:14:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-மேலும்-818-பேர்-கைது/175-332165) · `ta`
+
+இன்று (27) அதிகாலையுடன் நிறைவடைந்த 24 மணித்தியாலங்களில் யுக்திய நடவடிக்கையின் கீழ் 818 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+அவர்களில் ஒருவர் தடுப்பு காவலில் வைக்கப்பட்டுள்ளதுடன், மேலும் 08 பேர் புனர்வாழ்வுக்காக பரிந்துரைக்கப்பட்டுள்ளனர்.
+
+அத்துடன்,159 கிராம் ஹெரோயின், 112 கிராம் ஐஸ் மற்றும் 329 போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு கூறியுள்ளது. (N)
+
+◼️
+
+[Data](articles/635776ef.json)
+
+---
+
+### Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
+
+*2024-01-27 10:05:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/sri-lanka-to-power-up-with-uma-oya-project-120-mw-boost-expected-soon/) · `en`
+
+COLOMBO (News 1st); Sri Lanka's national electricity grid is set for a significant boost, with State Minister of Irrigation Shasheendra Rajapaksa announcing that the Uma Oya project is nearing completion and poised to inject 120 megawatts of capacity into the system as early as next month.
+
+The State Minister highlighted the Uma Oya project as one of several major multipurpose development initiatives currently underway under the Ministry of Irrigation.
+
+He noted that many of these projects, including Uma Oya, rely on foreign loan assistance for their construction and are nearing completion.
+
+The Umaoya project is not just about boosting the national grid; it also promises significant agricultural benefits.
+
+With the project's irrigation component coming online, an estimated 4,500 hectares of existing rice fields and 1,500 hectares of new land will receive water, significantly enhancing the country's agricultural output.
+
+...
+
+[Data](articles/98bbde1d.json)
+
+---
+
+### Half burnt body removed from crematorium for postmortem
+
+*2024-01-27 10:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Half-burnt-body-removed-from-crematorium-for-postmortem/108-275795) · `en`
+
+Gampaha, Han. 27 (Daily Mirror)- A body which was being cremated had been taken out and referred to JMO Wathupitiwala Hospital for postmortem examination.
+
+The deceased woman, R.D. Sirisoma Ranasinghe (81) of Veyangoda area was an inmate of a home for the aged in Mirigama. The doctors had declared that she had died of pneumonia and accordingly taken steps to cremate the body.
+
+Police said she had taken ill and admitted to Mirigama Base Hospital and died of pneumonia as decided by the doctors.
+
+However, when her guardian did not show any response to information on her death, the home for the aged had taken steps to cremate the body at the Mirigama crematorium.
+
+...
+
+[Data](articles/53b49bf7.json)
+
+---
 
 ### Litro Gas contributes another Rs. 1.5 billion to Treasury
 
@@ -91,6 +179,32 @@ Ministry of Public Security said the narcotics impounded during this 24-hour win
 [Data](articles/f2cc4685.json)
 
 [Extended Data](ext_articles/f2cc4685.ext.json)
+
+---
+
+### Trump must pay $83.3m for defaming columnist
+
+*2024-01-27 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trump-must-pay-83-3m-for-defaming-columnist/108-275818) · `en`
+
+BBC - A New York jury has decided Donald Trump should pay $83.3m (£65m) for defaming columnist E Jean Carroll in 2019 while he was US president.
+
+Mr Trump was previously found to have defamed Ms Carroll and to have sexually assaulted her in the 1990s.
+
+The jury's penalty in the civil trial is made up of $18.3m for compensatory damages and $65m in punitive damages.
+
+Mr Trump vowed to appeal, calling the case a witch hunt and the verdict "Absolutely ridiculous!"
+
+The compensatory damages are meant to account for the harm his comments did to her reputation and emotional wellbeing.
+
+The panel also had to come up with a punitive penalty intended to stop Mr Trump from continuing to speak out against her.
+
+It took the jury of seven men and two women less than three hours to reach a verdict on Friday afternoon.
+
+"This is a great victory for every woman who stands up when she's been knocked down, and a huge defeat for every bully who has tried to keep a woman down," Ms Carroll said in a statement.
+
+...
+
+[Data](articles/bb2d2eed.json)
 
 ---
 
@@ -166,6 +280,46 @@ A tragic accident on the Katunayake Expresswat claimed the lives of both State M
 
 ---
 
+### Australia marks national day that stokes patriotism and anger
+
+*2024-01-27 08:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-marks-national-day-that-stokes-patriotism-and-anger/108-275817) · `en`
+
+Sydney, Jan 27 (CNN) — “Australia Day is Dead!” Indigenous activist Gwenda Stanley chants into the loudspeaker, as a crowd of thousands breaks into applause.
+
+It’s Australia’s national day, but the crowd in central Sydney seethes in anger and cheers in solidarity with Indigenous Australians, many of whom view January 26 as nothing but the anniversary of their colonial dispossession, 236 years ago this Friday.
+
+“Australia is stolen land and we need to be united and firm in our resistance and sustain that resistance until justice is achieved under our terms,” protest organizer Lynda-June Coe, a Wiradjuri woman, told CNN.
+
+The Sydney crowd is diverse, and it’s replicated in Australian cities nationwide.
+
+Each year an increasing number of non-Indigenous Australians find it impossible to celebrate Australia Day, in the knowledge that many of their Indigenous fellow citizens treat it as a day of mourning.
+
+...
+
+[Data](articles/4c84939d.json)
+
+---
+
+### Court issues Red notices for four alleged Al-Qaeda aides abroad
+
+*2024-01-27 08:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-issues-Red-notices-for-four-alleged-Al-Qaeda-aides-abroad/108-275796) · `en`
+
+Colombo, Jan. 27 (Daily Mirror)- Colombo Additional Magistrate Pasan Amarasinghe yesterday (26) ordered the issuance of a red warrant in English, ordering the arrest of four suspects who are said to be currently abroad for aiding and abetting the Al-Qaeda terrorist organization.
+
+The red notices have been issued on the request of the Terrorists Investigation Division (TID).
+
+The red warrants were issued against the father and son and two other people who are said to be residing in Kaleliya, Kalagedi Henawala areas and are currently residing in Australia and Syria.
+
+The TID has filed a case against 16 suspects in 2021 and issued red warrants to four of those suspects.
+
+Thus the red warrants were issued to four people named Ahmed Khalil Luqman Talib, Ahman Luqmand Haleen, Abdul Bahin Mohammad Lebbe and Mohammad Pahir Ripon who are said to be residents of Australia.
+
+◼️
+
+[Data](articles/9a71b6fc.json)
+
+---
+
 ### Decision of arrested drugs
 
 *2024-01-27 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192613) · `si`
@@ -182,6 +336,24 @@ He said a building was being constructed with drugs destroyed in Wanathavilluwa.
 
 ---
 
+### Leopard threat in the hills
+
+*2024-01-27 08:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leopard-threat-in-the-hills/108-275816) · `en`
+
+Bogawantalawa, Jan 27 (Daily Mirror) - People in the upcountry estates are living in constant fear of any possible danger to their lives from leopards frequenting in estates
+
+They pointed out that leopards hiding under the tea bushes posed a serious Colombo danger to the estate workers.they pointed out that in the latest incident, a tea plucker had been attacked by a leopard feeding on the carcass of a dog under a tea bush.
+
+In a similar incident a worker in Bridwell Estate in Bogawantalawa on her way to her workplace had been attacked by a leopard causing her serious injuries.
+
+Trade union representatives said the Wildlife authorities should have worked out an effective mechanism to protect the people from the threat of ill country leopards and also to protect them from being slain by the villagers by laying traps.
+
+...
+
+[Data](articles/6a917109.json)
+
+---
+
 ### Political Landscape Reshapes as ‘New Alliance’ To Takes its First Steps
 
 *2024-01-27 07:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/political-landscape-reshapes-as-new-alliance-to-takes-its-first-steps/) · `en`
@@ -189,6 +361,8 @@ He said a building was being constructed with drugs destroyed in Wanathavilluwa.
 COLOMBO (News 1st); The launch of a new political movement named the 'New Alliance' will take place at 2 PM today, in Ja-Ela
 
 The maiden rally of this new political movement will be presided over by Minister Susil Premajayantha, Trade Minister Nalin Fernando, Former Minister Anura Priyadarshana Yapa, Former Minister Piyankara Jayaratne, and the MP Nimal Lanza.
+
+Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
 
 Political Landscape Reshapes as ‘New Alliance’ To Takes its First Steps
 
@@ -311,6 +485,8 @@ The Sri Lanka Navy on 20th January 2024 seized a local multi-day fishing trawler
 Subsequent search led to the recovery of 03 sacks stuffed with heroin weighing more than 65kg and 076g, intending to be smuggled into the country.
 
 The street value of the seized heroin is believed to be more than Rs. 1626 million.
+
+Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
 
 Political Landscape Reshapes as ‘New Alliance’ To Takes its First Steps
 
@@ -456,17 +632,19 @@ Showers or thundershowers will occur at several places in the Central, Sabaragam
 
 ---
 
-### புதுக்குடியிருப்பு விபத்தில் இளைஞன் பலி
+### Youth killed in accident
 
 *2024-01-27 03:10:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுக்குடியிருப்பு-விபத்தில்-இளைஞன்-பலி/175-332164) · `ta`
 
-உழவு இயந்திரமும் சிறிய ரக பட்டா ரக வாகனமும் மோதி விபத்துக்குள்ளானதில் வள்ளிபுனம் பகுதியைச் சேர்ந்த 28 வயதுடைய இளைஞரே உயிரிழந்துள்ளார் .
+A 28 -year -old youth from Vallipunam area has died in a collision with a plowing machine and a small strap.
 
-நேற்றுமுன்தினம் இரவு பட்டா ரக வாகனத்தில் பயணித்த குறித்த  இளைஞர் விபத்தில் படுகாயமடைந்து புதுக்குடியிருப்பு ஆதார வைத்தியசாலையில் சேர்க்கப்பட்டு சிகிச்சை பலனின்றி உயிரிழந்துள்ளார்.
+The youth who was traveling in a traveler in a patta vehicle last night was injured in the accident and was admitted to the Pudukkudiyiruppu Resource Hospital and died without treatment.
 
 ◼️
 
 [Data](articles/1754528a.json)
+
+[Extended Data](ext_articles/1754528a.ext.json)
 
 ---
 
@@ -559,6 +737,28 @@ The revised IHP SLOTS model estimates reveal more clearly that the current NPP/J
 [Data](articles/cc8b1f17.json)
 
 [Extended Data](ext_articles/cc8b1f17.ext.json)
+
+---
+
+### Sri Lanka cannot simply walk away from IMF: Ranil
+
+*2024-01-27 02:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lanka-cannot-simply-walk-away-from-IMF-Ranil/108-275814) · `en`
+
+President Ranil Wickremesinghe addresses Sri Lanka Customs Department at International Customs Day 2024 celebrations in Colombo
+
+Urges parliamentary leaders of all political parties to engage in comprehensive discussions on position regarding IMF agreement
+
+Expresses willingness to extend an invitation to IMF Managing Director
+
+Sri Lanka cannot simply dismiss its engagement with the International Monetary Fund (IMF), in a nuanced stance, President Ranil Wickremesinghe emphasised while citing the complexities that could arise, if a decision is made to do so.
+
+Sri Lanka recently formalised an agreement with the IMF, a collective response to address the profound economic challenges the nation faced, marked as the most severe in its history. This pact stands among agreements endorsed by numerous nations, involving approximately 15-20 others.
+
+“It is an agreement we cannot simply walk away from, necessitating collective discussion and consideration.
+
+...
+
+[Data](articles/e26588c2.json)
 
 ---
 
@@ -1793,195 +1993,5 @@ When a new session kicks off, the President has the opportunity to ceremonially 
 [Data](articles/8ac6fda0.json)
 
 [Extended Data](ext_articles/8ac6fda0.ext.json)
-
----
-
-### Election Commission notified of vacancy in parliamentary seat
-
-*2024-01-26 16:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Election-Commission-notified-of-vacancy-in-parliamentary-seat/108-275783) · `en`
-
-Parliament, Jan. 26 (Daily Mirror)- The Parliament has informed the Chairman of the Election Commission in a letter that a Parliamentary seat has fallen vacant from 25 January 2024, following the demise of Puttalam District Member of Parliament Sanath Nishantha, the Parliament Media Division said.
-
-The Deputy Secretary General of Parliament Chaminda Kularatne has further mentioned that this notification is made in terms of Section 64(1) of the Parliamentary Elections Act No. 1 of 1981. The name of the new members who is to fill the vacancy has to be gazetted by the Election Commission as per the act. The new member can be sworn in once his name is gazetted.
-
-The vacancy created by the demise of the State Minister is to be filled by Jagath Priyankara who represents the Jathika Nidahas Peramuna led by MP Wimal Weerawansa. Accordingly, the government will lose one seat.
-
-◼️
-
-[Data](articles/2c43e75d.json)
-
-[Extended Data](ext_articles/2c43e75d.ext.json)
-
----
-
-### Parliamentary Terms of Parliament
-
-*2024-01-26 16:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192594) · `si`
-
-Parliamentarians have been completed this morning (26).
-
-A gazette notification issued by President Ranil Wickremesinghe has ended the Passover parliament and the Constitution will end the time as well as the end of the powers of the 70th Amendment.
-
-Accordingly, the next season of Parliament will commence at 10.30 am on February.
-
-◼️
-
-[Data](articles/40f353f9.json)
-
-[Extended Data](ext_articles/40f353f9.ext.json)
-
----
-
-### WPL 2024: UP Warriorz rope in Chamari Athapaththu as replacement player
-
-*2024-01-26 16:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96746/wpl-2024-up-warriorz-rope-in-chamari-athapaththu-as-replacement-player) · `en`
-
-The UP Warriorz have roped in Sri Lanka captain Chamari Athapaththu as a replacement for England pacer Lauren Bell, who has withdrawn from the upcoming season of the Women’s Premier League (WPL) 2024.
-
-The Sri Lankan all-rounder was signed by the Warriorz for her base price of 30 Lakhs.
-
-“English fast bowler Lauren Bell has withdrawn from the upcoming season of the TATA Women’s Premier League 2024. UP Warriorz have named Sri Lanka’s Chamari Athapaththu as a replacement for Bell.”
-
-“Among the most powerful hitters in the game, the Lankan captain is also one of the most experienced players, having featured in over 120 T20Is. Known for her attacking batting, Chamari is the only Lankan woman to have scored a century in T20Is. She has been signed for her base price of INR 30 lakh,” read the statement from WPL website.
-
-The Sri Lanka skipper was expected to be one of the stars who was expected to ignite a bidding war during the auction.
-
-...
-
-[Data](articles/343c3ce7.json)
-
-[Extended Data](ext_articles/343c3ce7.ext.json)
-
----
-
-### Two Pakistan killings - allegation to India
-
-*2024-01-26 16:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192593) · `si`
-
-Pakistan alleges that Indian delegation has killed two Pakistaniists in Pakistan.
-
-However, India rejects the allegation against the killings reported in 2023.
-
-It is because of the assassination of a Sikh. India was also denied that allegation.
-
-The Pakistani authorities say that they have clear evidence that Indian representatives are involved in the two killings in Rawalacott and cities in Sepcott cities.
-
-◼️
-
-[Data](articles/f5189ac3.json)
-
-[Extended Data](ext_articles/f5189ac3.ext.json)
-
----
-
-### Sri Lanka President invites party leaders for ‘collective dialogue’ with IMF
-
-*2024-01-26 16:10:00* · [`economynextcom`](https://economynext.com/sri-lanka-president-invites-party-leaders-for-collective-dialogue-with-imf-148801/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s President Ranil Wickremesinghe has invited political party leaders in Parliament to discuss the IMF agreement implementation with the fund’s Managing Director.
-
-“I am willing to extend an invitation to the Managing Director of the IMF to participate in a collective dialogue here. Let us collaboratively explore different perspectives and propose modifications if deemed beneficial,” Wickremesinghe said during the International Customs Day celebrations at the Colombo Customs Headquarters on Friday (26), according to his media division.
-
-Sri Lanka has entered into an agreement with the International Monetary Fund, a pact signed by numerous countries, including 15-20 others.
-
-In return for a bailout, the agreement has Sri Lanka restructuring its foreign and local debt after the country defaulted in peacetime after triggering serial currency crises, and increasing its revenue.
-
-...
-
-[Data](articles/04f3e2f3.json)
-
-[Extended Data](ext_articles/04f3e2f3.ext.json)
-
----
-
-### Unite for discussion with IMF on alternative proposals: President urges political parties
-
-*2024-01-26 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Unite-for-discussion-with-IMF-on-alternative-proposals-President-urges-political-parties/108-275782) · `en`
-
-Colombo, Jan. 26 (Daily Mirror)- President Ranil Wickremesinghe extended an invitation to all political party leaders in the Parliament to engage in discussions with the Managing Director of the International Monetary Fund (IMF) on the implementation of the agreement with the IMF, the President's Media Division (PMD) said.
-
-Emphasizing the importance of unity in leading the country to success, he highlighted that withdrawing from the agreement would jeopardize the trust in Sri Lanka's economy.
-
-The President stressed that the nation's economy suffered due to the politics of promises, emphasizing the need for all political parties to formulate comprehensive plans for the country's development when gearing up for an election.
-
-President Ranil Wickremesinghe made these remarks during the International Customs Day celebrations at the Colombo Customs Headquarters this morning.
-
-...
-
-[Data](articles/19f12497.json)
-
-[Extended Data](ext_articles/19f12497.ext.json)
-
----
-
-### Ahead of Independence Day…
-
-*2024-01-26 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Ahead-of-Independence-Day/110-275781) · `en`
-
-Vendors in Colombo selling national flags ahead of the Independence Day celebrations. Sri Lanka will celebrate its 76th Independence Day on February 4. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/ef00a333.json)
-
-[Extended Data](ext_articles/ef00a333.ext.json)
-
----
-
-### Petition to the Supreme Court regarding taxes
-
-*2024-01-26 15:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192592) · `si`
-
-A fundamental rights petition has been filed in the Supreme Court to issue a licensing of an Excise of Excise.
-
-The petition was presented by a social activist Sanjaya and several others.
-
-The officials of the Department, the Secretary of the Ministry of Finance, the Secretary of the Ministry of Finance, and other people have been named as respondents.
-
-◼️
-
-[Data](articles/db6766f7.json)
-
-[Extended Data](ext_articles/db6766f7.ext.json)
-
----
-
-### Struggle in Jaffna condemning media repression and expression against freedom of expression
-
-*2024-01-26 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174852) · `ta`
-
-The struggle was launched in Jaffna today (26) to condemn action against the freedom of the media and expression.
-
-Yall. Jaffna rally from the Jaffna Public Library. The protest was carried out at the Central Bus Stand.
-
-Various parties, including civil society organizations and politicians, participated in the struggle carried out with the participation of the South Sri Lanka Media Organizations, including the Working Press Association.
-
-◼️
-
-[Data](articles/0207ca38.json)
-
-[Extended Data](ext_articles/0207ca38.ext.json)
-
----
-
-### Hotel accountant arrested for soliciting sexual bribe from female employee
-
-*2024-01-26 15:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Hotel-accountant-arrested-for-soliciting-sexual-bribe-from-female-employee/155-275780) · `en`
-
-Kekirawa, Jan 26 (Daily Mirror) - The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) conducted the first crackdown on bribery in the private sector under the powers conferred by the new Anti-Corruption Act.
-
-The Commission said that the Anti-Corruption Act No. 09 of 2023 has empowered the Bribery Commission to address bribery in the private sector, overriding powers that previously applied only to bribery or corruption in the public sector.
-
-Accordingly, the first raid on a bribery offense in the private sector was conducted on Friday (26) by officials with the approval of the Commission.
-
-They arrested an accountant, who is also the Human Resources Manager of a private hotel, for allegedly soliciting a sexual bribe from a female employee.
-
-The arrest was made based on a complaint filed by a resident of Mahavilacchiya.
-
-...
-
-[Data](articles/430339d1.json)
-
-[Extended Data](ext_articles/430339d1.ext.json)
 
 ---

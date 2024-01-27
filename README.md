@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 11:17:20**
+As of **2024-01-27 11:32:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,874 (100.0%) of 2,875 articles have been extended.
+2,875 (100.0%) of 2,875 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Lazzarini did not disclose the number of employees allegedly involved in the att
 ...
 
 [Data](articles/05ba5a26.json)
+
+[Extended Data](ext_articles/05ba5a26.ext.json)
 
 ---
 

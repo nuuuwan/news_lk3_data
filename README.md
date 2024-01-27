@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 17:32:57**
+As of **2024-01-27 17:52:31**
 
 ## Newspaper Stats
 
-*Scraped **2,926** Articles*
+*Scraped **2,928** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,33 +18,71 @@ dailyftlk | 215
 adalk | 268
 adaderanasinhalalk | 279
 virakesarilk | 305
-adaderanalk | 371
-tamilmirrorlk | 371
+adaderanalk | 372
+tamilmirrorlk | 372
 dailymirrorlk | 402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,925 (100.0%) of 2,926 articles have been extended.
+2,926 (99.9%) of 2,928 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### 74 හැවිරිදි කාන්තාවක් සැකසහිත ලෙස මරුට
+### Sri Lanka hoping to reach agreement ‘within couple of months’ on restructuring $13bn debt
+
+*2024-01-27 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96773/sri-lanka-hoping-to-reach-agreement-within-couple-of-months-on-restructuring-13bn-debt) · `en`
+
+Sri Lanka is aiming to negotiate a debt restructuring with holders of its defaulted US dollar bonds within “a couple of months”, the Governor of the Central Bank of Sri Lanka (CBSL) told the Financial Times, despite complaints by private creditors that they are being left in the dark.
+
+Dr. Nandalal Weerasinghe further mentioned that Sri Lanka needs to reach an agreement “within a couple of months” on restructuring the USD 13bn of debt, but he went on to dismiss worries that negotiations have become bogged down, the Financial Times reported.
+
+“There’s a lot of interest from private creditors to finish this as soon as possible. But because of the procedure it takes a certain time . . . We also want to do that fast,” the CBSL governor has said.
+
+He noted that Sri Lanka must “ensure whatever proposals we have exchanged are consistent with the [IMF’s] debt sustainability analysis and also comparable [with] we have been discussing with other creditors. That’s a bit of a complicated process.”
+
+...
+
+[Data](articles/cdda79a7.json)
+
+---
+
+### 74 year old woman dies
 
 *2024-01-27 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192629) · `si`
 
-සැකසහිත ලෙස මියගිය 74 හැවිරිදි කාන්තාවක් සම්බන්ධයෙන් සිදුකළ පශ්චාත් මරණ පරීක්ෂණයේදී ඇය ලිංගික අපයෝජනයකට ලක්වී ඇති බව හෙළිවී ඇත.
+She has been sexually abused at the post mortem examination of a 74-year-old woman who died.
 
-නිවසක තනිව ජීවත්වූ 74 හැවිරිදි අදාළ කාන්තාව පසුගියදා සිය නිවස තුළ සිහිසුන්ව වැටී සිටියදී අසල්වාසීන් විසින් රෝහල්ගත කර තිබුණි.
+The 74-year-old woman living alone in a house was hospitalized after her neighbors were admitted to her home.
 
-එහිදී සිදුකළ පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරන වී ඇත්තේ ඇය එලෙස ලිංගික අපයෝජනයකට ලක්වී ඇති බවය.
+The post mortem was revealed that she had been sexually abused.
 
 ◼️
 
 [Data](articles/bf63ba87.json)
+
+[Extended Data](ext_articles/bf63ba87.ext.json)
+
+---
+
+### 98 கொள்கலன்களில் இலங்கைக்கு வந்த அழுகிய மீன்கள்
+
+*2024-01-27 16:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/98-கொள்கலன்களில்-இலங்கைக்கு-வந்த-அழுகிய-மீன்கள்/175-332179) · `ta`
+
+சீஷெல்ஸில் இருந்து தாய்லாந்து நோக்கி பயணித்த கப்பலில் இருந்து அழுகிய மீன்கள் அடங்கிய 98 கொள்கலன்கள் நாட்டில் தரையிறக்கப்பட்டுள்ளதாக அரசாங்க கணக்குகள் பற்றிய குழுவில் தெரியவந்துள்ளது.
+
+கப்பலை இலங்கைக்கு கொண்டு வந்த இலங்கை பிரதிநிதிக்கு சொந்தமான செமண் தொழிற்சாலை உள்ளதாகவும், கப்பலில் இருந்த கெட்டுப்போன மீன்கள் அடங்கிய 04 கொள்கலன்களுக்கு என்ன நடந்தது என தெரியவரவில்லை எனவும்  அந்த குழுவில் மேலும் தெரியவந்துள்ளது.
+
+எவ்வாறாயினும், மீன் கழிவுகளுக்காகவே இந்த அனுமதிப்பத்திரம் வழங்கப்பட்டுள்ளதாக இறக்குமதி மற்றும் ஏற்றுமதி கட்டுப்பாட்டாளர் நாயகம் டி.டி உபுல்மலி பிரேமதிலக்க தெரிவித்தார்.
+
+இது தொடர்பில் மேலதிக விசாரணைகளை முன்னெடுப்பதற்காக எதிர்வரும் மார்ச் மாதம் 5ஆம் திகதி விடயத்திற்குரிய அனைத்து அரச நிறுவனங்களுக்கும் அழைப்பு விடுக்கப்படும் என அரச கணக்குகள் பற்றி குழுவின் தலைவரான இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/02dbbd6d.json)
 
 ---
 
@@ -2005,43 +2043,5 @@ Some Sinhala newspapers said that Sivagnanam Sritharan was elected as the Leader
 [Data](articles/a709cd40.json)
 
 [Extended Data](ext_articles/a709cd40.ext.json)
-
----
-
-### From Wijeweera to AKD - Changing Faces of the JVP
-
-*2024-01-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/From-Wijeweera-to-AKD-Changing-Faces-of-the-JVP/172-275801) · `en`
-
-Election fever is in the air. Whether it be in the south with over 70 percent of the population or the Northern Province (which is home to the largest minority), elections are a hot topic. In the south, three political parties - namely the National People’s Power (an alliance of individuals and organisation centred around the Janatha Vimukthi Peramuna - JVP), the Samagi Jana Balawegaya (SJB) and the United National Party (UNP) have named their candidates for the upcoming Presidential election.
-
-Anura Kumara Dissanayake popularly known as ‘AKD’ is the nominee of the NPP/JVP combine. The SJB nominee is Sajith Premadasa, and President Ranil Wickremasinghe is the nominee of the UNP
-
-The Sri Lanka Freedom Party (SLFP) and the Sri Lanka Podujana Peramuna (SLPP) have not put forward candidates of their own, and are expected to support either the UNP or SJB candidate.
-
-...
-
-[Data](articles/fd101d6a.json)
-
-[Extended Data](ext_articles/fd101d6a.ext.json)
-
----
-
-### 2024-01-26 (Friday)
-
-### Climate entrepreneurship and green economic growth in Sri Lanka
-
-*2024-01-26 23:51:27* · [`dailyftlk`](https://www.ft.lk/columns/Climate-entrepreneurship-and-green-economic-growth-in-Sri-Lanka/4-757809) · `en`
-
-Startups, entrepreneurs, and SMEs can play a crucial role as pioneers for a just transition towards a more sustainable, climate-friendly, and resilient economy
-
-The climate crisis presents a critical challenge for countries across the world. In particular, climate-vulnerable developing countries such as Sri Lanka are facing severe climate impacts as well as losses and damages, affecting all economic sectors and constraining fiscal space, development efforts, and climate action.
-
-Against this backdrop, there is a clear need for economic transformation and transition. On the one hand, existing livelihoods and business models need to adapt to climatic changes and become more resilient to shocks; on the other hand, there are also opportunities to invest in more sustainable and climate-friendly products, practices, and services across key sectors and at all levels.
-
-...
-
-[Data](articles/c94cce15.json)
-
-[Extended Data](ext_articles/c94cce15.ext.json)
 
 ---

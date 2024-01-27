@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 18:06:42**
+As of **2024-01-27 18:19:05**
 
 ## Newspaper Stats
 
-*Scraped **2,929** Articles*
+*Scraped **2,930** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,43 @@ dailyftlk | 215
 adalk | 268
 adaderanasinhalalk | 280
 virakesarilk | 305
-adaderanalk | 372
 tamilmirrorlk | 372
+adaderanalk | 373
 dailymirrorlk | 402
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,928 (100.0%) of 2,929 articles have been extended.
+2,929 (100.0%) of 2,930 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### Grama Niladhari exam results released; recruitments expected soon
+
+*2024-01-27 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96774/grama-niladhari-exam-results-released-recruitments-expected-soon) · `en`
+
+The list of 4,232 candidates, who qualified to face the interview for the vacant Grama Niladhari positions based on the written examination, has been released, State Minister of Home Affairs Ashoka Priyantha said.
+
+The relevant list has been published on the official website of the State Ministry of Home Affairs which is accessible through the link – www.moha.gov.lk.
+
+Accordingly, a total of 2,002 individuals will be recruited to the Grade III of Grama Niladhari Service based on the results of the interviews.
+
+Meanwhile, the State Minister also expressed that acting on the gazette notification, interviews are expected to be held without delay to recruit them to the public service at the earliest possible.
+
+The Grama Niladhari examination was conducted by the Department of Examinations on December 02, 2023.
+
+The list of candidates qualified for the interviews is as follows;
+
+Grama Niladhari Exam Interview Selected List20212023 by poornima on Scribd
+
+◼️
+
+[Data](articles/8af4b12a.json)
+
+---
 
 ### Sri Lanka hoping to reach agreement ‘within couple of months’ on restructuring $13bn debt
 
@@ -52,21 +76,23 @@ He noted that Sri Lanka must “ensure whatever proposals we have exchanged are 
 
 ---
 
-### අනුරාධ ජයකොඩිගේ අවසන් කටයුතු සිදුකෙරේ
+### Anuradha Jayakody's funeral will take place
 
 *2024-01-27 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192630) · `si`
 
-රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සමඟ රිය අනතුරින් මිය ගිය ඔහුගේ ආරක්ෂක නිලධාරි පොලිස් කොස්තාපල් අනුරාධ ජයකොඩි මහතාගේ අවසන් කටයුතු අද (27) පස්වරුවේ සිදුකෙරුණි.
+The funeral of his security officer Anuradha Jayakody died in accident with State Minister Sanath Nishantha.
 
-මේ අතර පොලිස් කොස්තාපල් අනුරාධ ජයකොඩි මහතා පොලිස් සැරයන් නිලයට උසස් කෙරුණි.
+Meanwhile, police constable Anuradha Jayakody was promoted to the ratio.
 
-රාජ්‍ය පරිපාලන චක්‍ර ලේඛන අංක 22/93 පරිදි පශ්චාත් උසස්වීම් පදනම යටතේ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් 25 වනදා සිට ක්‍රියාත්මක වන පරිදි ඔහුව පොලිස් සැරයන් තනතුරට උසස් කර ඇති බව පොලිස් මාධ්‍ය කොට්ඨාසය මාධ්‍ය නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+The Police Media Divisions stated that he has promoted the post of Police Sergeant to the post of Police Act on 25/93 Public Administration Circulars.
 
-මෙම නිලධාරියාගේ පවුලේ සාමාජිකයින්ට රුපියල් ලක්ෂ 15 ක මුදලක් එම නිවසේදී ලබාදීමට ද වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පියවර ගෙන තිබුණි.
+Acting Insider Inspector has also taken steps to provide the officer's family at the house.
 
 ◼️
 
 [Data](articles/ed4b6f21.json)
+
+[Extended Data](ext_articles/ed4b6f21.ext.json)
 
 ---
 
@@ -562,7 +588,7 @@ A special traffic plan will be implemented in a section of the Galle Road in vie
 
 Accordingly, the stretch of Galle Road from Kollupitiya Junction - Galle Face and from Ceramic Junction - Galle Face will temporarily remain off limits for traffic until 04 February.
 
-The road closure is effective from 06.00 a.m. - 08.30 a.m. and 11.00 a.m. - 12.30 p.m. from 29 January to 02 February and again from 02.00 p.m. on 03 February, 2023 until the conclusion of the Independence Day ceremony on 04 February, the Police said.
+The road closure is effective from 06.00 a.m. - 08.30 a.m. and 11.00 a.m. - 12.30 p.m. from 29 January to 02 February and again from 02.00 p.m. on 03 February until the conclusion of the Independence Day ceremony on 04 February, the Police said.
 
 ◼️
 
@@ -2031,21 +2057,5 @@ b)   Maulana Azad Scholarship Scheme: Masters Degrees courses with preference 
 [Data](articles/a83bc19a.json)
 
 [Extended Data](ext_articles/a83bc19a.ext.json)
-
----
-
-### The Attack on ITAK  Jaffna MP,  Shritharan in  Anuradhapura
-
-*2024-01-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Attack-on-ITAK-Jaffna-MP-Shritharan-in-Anuradhapura/172-275815) · `en`
-
-A noteworthy incident was the attack launched on the vehicle he was travelling in by “unknown” gunmen more than 23 years ago. In the news story appearing in the “Uthayan”, Shritharan was quoted that the attack was a planned attempt to kill him and that his Tamil political opponents who were aligned with the government for concessions and ministerial posts were responsible.
-
-Shritharan has been projecting himself as a supporter and fellow traveller of the LTTE from the time he entered Parliament. This has earned him bouquets from pro-Tiger elements and brickbats from anti-Tiger elements. While the pro-LTTE label has helped him in politics, it has at times placed him in jeopardy too
-
-...
-
-[Data](articles/85adc22f.json)
-
-[Extended Data](ext_articles/85adc22f.ext.json)
 
 ---

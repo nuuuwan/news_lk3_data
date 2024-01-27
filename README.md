@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 06:16:10**
+As of **2024-01-27 06:52:21**
 
 ## Newspaper Stats
 
-*Scraped **2,832** Articles*
+*Scraped **2,840** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 40
 bbccomsinhala | 53
 dbsjeyarajcom | 124
-islandlk | 151
 newsfirstlk | 155
+islandlk | 158
 economynextcom | 168
 dailyftlk | 215
 adaderanasinhalalk | 258
 adalk | 265
 virakesarilk | 300
-tamilmirrorlk | 353
+tamilmirrorlk | 354
 adaderanalk | 357
 dailymirrorlk | 393
 
@@ -26,11 +26,29 @@ dailymirrorlk | 393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,832 (100.0%) of 2,832 articles have been extended.
+2,832 (99.7%) of 2,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### கொழும்பில் இன்று போக்குவரத்து மட்டுப்பாடு
+
+*2024-01-27 02:53:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இன்று-போக்குவரத்து-மட்டுப்பாடு/175-332161) · `ta`
+
+கண்டி – கொழும்பு பிரதான வீதியின் போக்குவரத்து இன்று (27) இரவு 7 மணி முதல் 8.30 மணி வரை மட்டுப்படுத்தப்படவுள்ளதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+நிட்டம்புவ ஸ்ரீ விஜயராம விகாரையின் மஹா பெரஹெராவினை முன்னிட்டு இந்த தீர்மானம் மேற்கொள்ளப்பட்டுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+அதன்படி இன்று  இரவு 7 மணி முதல் 8.30 மணி வரை ஊர்வலம் நடைபெறவுள்ளது.
+
+ஊர்வலமானது நிட்டம்புவ மல்வத்தை ஸ்ரீ போதி விகாரையில் இருந்து கொழும்பு - கண்டிவ பிரதான வீதியில் நிட்டம்புவ சந்தி வரை சென்று வலப்புறம் திரும்பி அத்தனகல்ல வீதியில் பயணித்து நிட்டம்புவ ஸ்ரீ விஜயராம விகாரையை வந்தடையும் என அறிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/f96f0b0d.json)
+
+---
 
 ### Maha Sangha support for the president
 
@@ -631,6 +649,50 @@ The first congregation in the ninth parliament has been held from August 20 to D
 [Data](articles/f2f9a5f1.json)
 
 [Extended Data](ext_articles/f2f9a5f1.ext.json)
+
+---
+
+### Share market bounces back following temporary slide; indices up
+
+*2024-01-26 20:25:00* · [`islandlk`](http://island.lk/share-market-bounces-back-following-temporary-slide-indices-up/) · `en`
+
+The stock market yesterday evinced some bounce after witnessing a downturn in the trading of shares due to bargain hunters becoming active and going for low cost shares, market analysts said.
+
+On top of that, corporate financial results for the up and coming quarter showed some improvements. This resulted in the market moving to positive territory. Amid those developments both indices moved upwards. The All- Share Price Index went up by 61.4 points and S and P SL20 rose by 24.1 points. Turnover stood at Rs 798 million with one crossing. The crossing was reported in LB Finance, which crossed 1.8 million shares to the tune of Rs 111 million; its shares traded at Rs 61.
+
+...
+
+[Data](articles/1b86d828.json)
+
+---
+
+### People’s Bank and George Steuart Solutions join forces to promote solar energy in Sri Lanka
+
+*2024-01-26 20:23:00* · [`islandlk`](http://island.lk/peoples-bank-and-george-steuart-solutions-join-forces-to-promote-solar-energy-in-sri-lanka/) · `en`
+
+In a strategic move towards sustainable energy solutions, People’s Bank and George Steuart Solutions (Pvt) Ltd. (GSS) entered into a Memorandum of Understanding (MoU) to collaborate on a pioneering initiative for solar solutions in Sri Lanka.
+
+This groundbreaking partnership aims to make solar energy more affordable to customers by offering a comprehensive package that combines financial support and incentives. People’s Bank, a leading commercial Bank in Sri Lanka, will provide tailored loans for customers who are seeking to invest in solar systems. The financial patronage will enable the adoption of solar energy solutions by making them accessible to a broader segment of the public.
+
+...
+
+[Data](articles/0afdf6c9.json)
+
+---
+
+### ComBank enhances airport lounge access for premium credit card holders
+
+*2024-01-26 20:22:00* · [`islandlk`](http://island.lk/combank-enhances-airport-lounge-access-for-premium-credit-card-holders/) · `en`
+
+The Commercial Bank of Ceylon has announced an enhancement of the complimentary airport lounge access available to holders of premium segment credit cards issued by the Bank.
+
+The Bank-driven initiative will result in holders of Commercial Bank Visa Infinite credit cards enjoying up to four complimentary visits per year to airport lounges around the world, and holders of Visa Signature and World Mastercard credit cards becoming eligible for up to two complimentary airport lounge visits per year, the Bank said.
+
+“It is customary for holders of premium credit cards to be provided airport lounge access,” Commercial Bank’s Deputy General Manager – Retail Banking and Marketing Hasrath Munasinghe elaborated. “With this increase in access provided exclusively to three categories of premium cards issued by Commercial Bank, we are demonstrating the additional prestige that accrues to our cardholders.”
+
+...
+
+[Data](articles/9b7f2beb.json)
 
 ---
 
@@ -1943,87 +2005,5 @@ Uragasmanhandiya OIC Chief Inspector PLKUTUTHIANH and CID HARDER HARDI Harthi Si
 [Data](articles/0677671f.json)
 
 [Extended Data](ext_articles/0677671f.ext.json)
-
----
-
-### President Mahinda Rajapaksa proposes to all parties
-
-*2024-01-26 13:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192583) · `si`
-
-President Ranil Wickremesinghe says that the main reason for the collapse of the country's economy is "promised politics".
-
-The President was speaking at a function held at the Customs Headquarters in Colombo after celebrating international customs date.
-
-Accordingly, the President requested all political parties to create a comprehensive plan to build the country, especially when preparing for elections.
-
-◼️
-
-[Data](articles/8eb067e2.json)
-
-[Extended Data](ext_articles/8eb067e2.ext.json)
-
----
-
-### The Russian tolenitor of the train falls from the train
-
-*2024-01-26 13:08:22* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රියේ-සෙල්ෆි-ගන්න-ගිය-රුසියානු-සංචාරිකාව-දුම්රියෙන්-වැටෙයි/11-407735) · `si`
-
-The Russian woman who was trying to take a photo while traveling from the train said the Ella Police have admitted to the Demodara Base Hospital with serious injuries.
-
-Russian nationalist Christenda Alakwana, a 25-year-old woman, has been injured in Sri Lanka.
-
-When she arrived in Hikkaduwa to one day tour, she was in danger.
-
-Police have revealed that her passports were placed at the hotel that stayed.
-
-The woman is due to be transferred to the Badulla General Hospital, hospital sources.Falls are investigating.
-
-◼️
-
-[Data](articles/209411a6.json)
-
-[Extended Data](ext_articles/209411a6.ext.json)
-
----
-
-### Sri Lanka’s economy suffered due to ‘politics of promises’ - President
-
-*2024-01-26 13:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96743/sri-lankas-economy-suffered-due-to-politics-of-promises-president) · `en`
-
-President Ranil Wickremesinghe has urged all political parties to formulate a comprehensive plan for rebuilding the country, especially when gearing up for the elections.
-
-Addressing an event at the Sri Lanka Customs headquarters in Colombo this morning, the Head of State emphasized that the nation’s economy has suffered due to the ‘politics of promises’.
-
-The event was organized to mark International Customs Day observed annually on January 26, the President’s Media Division (PMD) said.
-
-Further, addressing the gathering, the President appealed to the political parties to unite for discussions with the International Monetary Fund (IMF) on potential alternative proposals.
-
-He also expressed his readiness to extend an invitation to IMF’s Managing Director Kristalina Georgieva to visit Sri Lanka for this crucial dialogue.
-
-◼️
-
-[Data](articles/faf0f469.json)
-
-[Extended Data](ext_articles/faf0f469.ext.json)
-
----
-
-### The liquor bar has been opened in Saudi
-
-*2024-01-26 12:56:19* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/சவுதியில்-மதுபானக்கடை-திறக்கப்பட்டது/50-332141) · `ta`
-
-It is noteworthy that the liquor bar has been opened only to non -Muslim foreign ambassadors, and the Sauds have opened the liquor bar after 70 years.
-
-In 1950, alcohol was banned in Saudi Arabia. Abdul Aziz was the king of Saudi Arabia.
-
-The king's son, Prince Mishari, was drinking alcohol and the British deputy ambassador in Jeddah was shot dead by Cyril Osman.
-
-Currently, Prince Mohammed bin Salman has taken steps to convert Saudi Arabia into a tourist destination. The liquor store was opened in conjunction with tons. (App)
-
-◼️
-
-[Data](articles/886cc610.json)
-
-[Extended Data](ext_articles/886cc610.ext.json)
 
 ---

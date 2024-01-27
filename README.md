@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 08:32:57**
+As of **2024-01-27 08:49:39**
 
 ## Newspaper Stats
 
-*Scraped **2,848** Articles*
+*Scraped **2,849** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 215
 adaderanasinhalalk | 258
 adalk | 265
 virakesarilk | 300
-tamilmirrorlk | 355
+tamilmirrorlk | 356
 adaderanalk | 359
 dailymirrorlk | 394
 
@@ -26,7 +26,7 @@ dailymirrorlk | 394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,848 (100.0%) of 2,848 articles have been extended.
+2,849 (100.0%) of 2,849 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -193,6 +193,24 @@ When the Parliament is prorogued, the questions and motions that have not been c
 [Data](articles/029833b3.json)
 
 [Extended Data](ext_articles/029833b3.ext.json)
+
+---
+
+### Release of 12 Indian fishermen
+
+*2024-01-27 03:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-இந்திய-மீனவர்கள்-விடுதலை/175-332163) · `ta`
+
+12 Indian fishermen arrested on charges of fishing across the Sri Lankan waters have been released yesterday.
+
+12 Indian fishermen in Jaffna. District Fisheries Department officials highlighted.
+
+The magistrate has ordered the three allegations filed against the fishermen and sentenced to six months in prison for five years.. (A)
+
+◼️
+
+[Data](articles/ba771589.json)
+
+[Extended Data](ext_articles/ba771589.ext.json)
 
 ---
 
@@ -1999,19 +2017,5 @@ Once again this year, the Kidella exhibition and trade fair kicked off at Colomb
 [Data](articles/474caa62.json)
 
 [Extended Data](ext_articles/474caa62.ext.json)
-
----
-
-### Kedella Expo opens at BMICH
-
-*2024-01-26 14:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Kedella-Expo-opens-at-BMICH/110-275777) · `en`
-
-Once again this year, the Kedella exhibition and trade fair kicked off at Colombo BMICH, providing an excellent opportunity to shop for thousands of essential items for homes. The event, taking place from the 26th to the 28th of December, was officially inaugurated by Sanjaya Perera, Senior Vice President- Personal Banking and Customer Experience. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/f84fbd06.json)
-
-[Extended Data](ext_articles/f84fbd06.ext.json)
 
 ---

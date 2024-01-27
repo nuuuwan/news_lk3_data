@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 23:17:03**
+As of **2024-01-27 23:32:55**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,952 (99.9%) of 2,955 articles have been extended.
+2,955 (100.0%) of 2,955 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ Earlier in September, Santosh Jha was appointed as India’s next High Commissio
 ...
 
 [Data](articles/8305c04a.json)
+
+[Extended Data](ext_articles/8305c04a.ext.json)
 
 ---
 
@@ -500,6 +502,8 @@ This ruling was not something unexpected as the  ICJ, based in the Dutch city o
 
 [Data](articles/396671a2.json)
 
+[Extended Data](ext_articles/396671a2.ext.json)
+
 ---
 
 ### Sri Lanka hoping to reach agreement ‘within couple of months’ on restructuring $13bn debt
@@ -637,6 +641,8 @@ The mistress was arrested on charges of investing the money swindled from people
 ◼️
 
 [Data](articles/75246eef.json)
+
+[Extended Data](ext_articles/75246eef.ext.json)
 
 ---
 

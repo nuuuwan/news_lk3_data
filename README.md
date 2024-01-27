@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 18:49:34**
+As of **2024-01-27 19:02:12**
 
 ## Newspaper Stats
 
@@ -26,55 +26,61 @@ dailymirrorlk | 402
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,931 (99.9%) of 2,934 articles have been extended.
+2,934 (100.0%) of 2,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### සෝමාලියානු මුහුදු කොල්ලකරුවන් පැහැරගත් බව කියන මෙරට ධීවර යාත්‍රාව ගැන තොරතුරු
+### Information about the country's fishing vessel claimed by Somali pirates
 
 *2024-01-27 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192632) · `si`
 
-මෙරට බහුදින ධිවර යාත්‍රාවක් සෝමාලියානු මුහුදු කොල්ලකරුවන් විසින් පැහැරගෙන ඇති බවට තොරතුරු වාර්තා වී ඇති බව ධීවර දෙපාර්තමේන්තුව පවසයි.
+It is reported that the Somali pirate vessel was abducted by the Somali pirates in the country.
 
-අරාබි මුහුදේ දී ධීවරයින් රැගත් යාත්‍රාව පහැරගැනීමට ලක්වී ඇති බව ධීවර දෙපාර්තමේන්තුවේ ප්‍රකාශකයෙකු පැවසීය.
+A spokesperson of the Fisheries Department said that the vessel carrying fishermen was raped at the Arabian Sea.
 
-හලාවත, දික්ඕවිට ධීවර වරායෙන් පසුගිය 12 වනදා මුහුදු ගිය බහුදින ධීවර යාත්‍රාව සහ එහි සිටි ධීවරයින් 06 දෙනෙකු එලෙස සෝමාලියානු මුහුදු කොල්ලකරුවන් පැහැරගෙන ඇත.
+Somali pirates have been abducted from the Fisheries Yatchera and six fishermen in Chilaw and Dickowita fisheries harbor.
 
-මෙරට මුහුදු සීමාවේ සිට නාවික සැතපුම් 1160ක් දුරින් වු මුහුදු ප්‍රදේශයේ දී එම පැහැරගැනීම සිදුකර ඇති බව වාර්තා වෙයි.
+It is reported that the abduction has been abducted at 1160 nautical miles away from the country.
 
-පැහැරගැනීමට ලක්වු ධීවරයින් මුදාගැනීම සඳහා අවශ්‍ය ක්‍රියාමාර්ග ගනිමින් සිටින බව බලධාරීන් සඳහන් කළේය.
+Authorities stated that action is taken to rescue the abducted fishermen.
 
 ◼️
 
 [Data](articles/435cab19.json)
 
+[Extended Data](ext_articles/435cab19.ext.json)
+
 ---
 
-### නිදහස් උත්සවයේ පෙරහුරු දින වෙනස් වෙයි
+### The Independence Day Changes Changed Days
 
 *2024-01-27 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192631) · `si`
 
-ජනවාරි 29 වනදා සිට ආරම්භවීමට නියමිතව තිබූ නිදහස් සැමරුමේ පෙරහුරු ජනවාරි 30 වනදා සිට ආරම්භ කිරීමට තීරණය කළ බව පොලීසිය නවතම නිවේදනයක් නිකුත් කරමින් පවසයි.
+The police said in a new statement that the rehearsal of the Independence Day was to commence from January 29.
 
 ◼️
 
 [Data](articles/3d90a8fe.json)
 
+[Extended Data](ext_articles/3d90a8fe.ext.json)
+
 ---
 
-### கான்ஸ்டபிளின் குடும்பத்திற்கு 15 இலட்சம் ரூபாய்
+### 15 lakhs for the family of Constable
 
 *2024-01-27 18:06:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கான்ஸ்டபிளின்-குடும்பத்திற்கு-15-இலட்சம்-ரூபாய்/175-332180) · `ta`
 
-இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் பாதுகாப்பாளராக கடமையாற்றி விபத்தில் அவருடனேயே மரணித்த பொலிஸ் கான்ஸ்டபிள்  அனுராதா ஜயக்கொடியின் குடும்பத்திற்கு 15 இலட்சம் ரூபாய் நட்ட ஈடு வழங்கப்பட்டுள்ளது.
+The family of the police constable Anuradha Jayakody, who died in the accident as the defender of the State Minister Sanath Nishantha, has been paid a compensation of Rs 15 lakh.
 
-தெற்கு அதிவேக நெடுஞ்சாலையில் நேற்று முன்தினம் (25) இடம்பெற்ற வாகன விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த மற்றும் அவரது மெய்ப்பாதுகாவலரான பொலிஸ் கான்ஸ்டபிள் அனுராதா ஜயக்கொடி ஆகியோர் உயிரிழந்தமை குறிப்பிடத்தக்கது. R
+State Minister Sanath Nishantha and his bodyguard police constable Anuradha Jayakody were killed in a vehicle accident on the southern highway yesterday (25). Remble
 
 ◼️
 
 [Data](articles/553e57d4.json)
+
+[Extended Data](ext_articles/553e57d4.ext.json)
 
 ---
 

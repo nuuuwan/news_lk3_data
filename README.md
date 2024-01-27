@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 13:17:16**
+As of **2024-01-27 13:32:49**
 
 ## Newspaper Stats
 
-*Scraped **2,903** Articles*
+*Scraped **2,905** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 215
 adalk | 266
 adaderanasinhalalk | 270
 virakesarilk | 303
-adaderanalk | 366
+adaderanalk | 368
 tamilmirrorlk | 368
 dailymirrorlk | 400
 
@@ -26,101 +26,153 @@ dailymirrorlk | 400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,898 (99.8%) of 2,903 articles have been extended.
+2,903 (99.9%) of 2,905 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### பாலஸதீனத்திற்கான ஐநா அமைப்;பின் பணியாளர்கள் ஹமாசுடன் இணைந்து தாக்குதலில் ஈடுபட்டனரா?  இஸ்ரேல் பரபரப்பு குற்றச்சாட்டு
+### Donald Trump ordered to pay $83.3mn for defaming writer E. Jean Carroll
 
-*2024-01-27 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/174911) · `ta`
+*2024-01-27 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96768/donald-trump-ordered-to-pay-833mn-for-defaming-writer-e-jean-carroll) · `en`
 
-ஓக்டோபர் ஏழாம் திகதி ஹமாஸ் மேற்கொண்ட தாக்குதலில் ஈடுபட்டவர்களில் பாலஸ்தீனத்திற்கான ஐநா அமைப்பின் பணியாளர்களும் உள்ளனர் என விசாரணைகள் மூலம் தெரியவந்துள்ளதை தொடர்ந்து அந்த அமைப்பிற்கான நிதியை அவுஸ்திரேலியா  இடைநிறுத்தியுள்ளது.
+A New York jury has decided Donald Trump should pay $83.3m (£65m) for defaming columnist E Jean Carroll in 2019 while he was US president.
 
-ஒக்டோபர் ஏழாம் திகதி தாக்குதலில் தனது அமைப்பை சேர்ந்தவர்களும் ஈடுபட்டனர் என்ற விபரங்களை இஸ்ரேல் வழங்கியுள்ளது என பாலஸ்தீன அகதிகளிற்கான ஐநா அமைப்பு தெரிவித்துள்ளது.
+The penalty in the civil trial is made up of $18.3m for compensatory damages and $65m in punitive damages.
 
-விசாரணைகள் ஆரம்பமாகியுள்ளன  குறிப்பிட்ட பணியாளர்கள் பணிநீக்கம் செய்யப்பட்டுள்ளனர் என ஐநா அமைப்பு தெரிவித்துள்ளது.
+Mr Trump was found in a previous civil case to have defamed Ms Carroll and sexually assaulted her in the 1990s.
 
-இஸ்ரேலிற்கு எதிராக தனது அமைப்பின் எத்தனை பேர் தாக்குதலில் ஈடுபட்டனர் எவ்வகையான தாக்குதலில் ஈடுபட்டனர் என்ற விபரங்களை ஐநா அமைப்பு வெளியிடவில்லை.
+He vowed to appeal the latest ruling, calling the case a witch hunt and the verdict “Absolutely ridiculous!”
 
-இந்நிலையில் அமெரிக்கா கனடா போன்று அகதிகளிற்கான பாலஸ்தீன அமைப்பிற்கான நிதிஉதவியை இடைநிறுத்தியுள்ளதாக அவுஸ்திரேலியா அறிவித்துள்ளது.
+The compensatory damages are meant to account for the harm that the jury found his comments had done to her reputation and emotional wellbeing.
 
-அவுஸ்திரேலியா இந்த குற்றச்சாட்டுகள் குறித்து ஆழ்ந்த கவலை கொண்டுள்ளதாக அவுஸ்திரேலிய வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+The panel also had to come up with a punitive penalty intended to stop Mr Trump from continuing to speak out against her.
+
+It took the jury of seven men and two women less than three hours to reach a verdict on Friday afternoon.
 
 ...
 
-[Data](articles/d39a12a4.json)
+[Data](articles/2f3a2e07.json)
 
 ---
 
-### மனைவியை உயிருடன் தீ வைத்து எரித்த கணவருக்கு மரண தண்டனை
+### Did the UN for Balasatinam, then workers joined the attack with Hamas?Israel
+
+*2024-01-27 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/174911) · `ta`
+
+Australia has suspended funding for the organization following investigations into the UN employees of Palestine on the seventh of October Hamas.
+
+The Palestinian Refugees (UNA) has said that Israel has provided details that their organizations were involved in the attack on the seventh of October.
+
+Investigations have begun.
+
+The UN has not released the details of how many people in the attack against Israel and how many attackers were attacked.
+
+Australia has announced that it has suspended funding for the Palestinian Organization for Refugees, like Canada.
+
+The Australian Foreign Minister said that Australia is deeply concerned about these allegations.
+
+Australia has welcomed the suspension of certain employees.
+
+◼️
+
+[Data](articles/d39a12a4.json)
+
+[Extended Data](ext_articles/d39a12a4.ext.json)
+
+---
+
+### Husband sentenced to death
 
 *2024-01-27 12:40:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவியை-உயிருடன்-தீ-வைத்து-எரித்த-கணவருக்கு-மரண-தண்டனை/175-332175) · `ta`
 
-தனது மனைவியை தாக்கி மண்ணெண்ணெய் ஊற்றி தீயிட்டு கொலை செய்த  குற்றச்சாட்டில் கைது செய்யப்பட்ட கணவருக்கு மரணதண்டனை விதிக்கப்பட்டுள்ளது.
+A husband who was arrested for allegedly assaulting his wife and pouring kerosene oil has been sentenced to death.
 
-2010 ஆம் ஆண்டு ஜனவரி மாதம் 26 ஆம் திகதி  தனது மனைவியை தாக்கி அறையொன்றில் வைத்து மண்ணெண்ணெய் ஊற்றி தீ வைத்து கொலை செய்த சம்வம் தொடர்பில் இவர் கைது செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது. R
+On January 26, 2010, he was arrested in connection with the death of his wife in a room.. Remble
 
 ◼️
 
 [Data](articles/cffd5bbd.json)
 
+[Extended Data](ext_articles/cffd5bbd.ext.json)
+
 ---
 
-### புவிசார் அரசியல் மோதலில் சிக்குண்டது  நிகழ்நிலை பாதுகாப்பு சட்டம் - அமெரிக்கா எதிர்ப்பு – ரஸ்யா ஆதரவு
+### Special traffic plan in Colombo for Independence Day ceremony
+
+*2024-01-27 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96767/special-traffic-plan-in-colombo-for-independence-day-ceremony) · `en`
+
+A special traffic plan will be implemented in a section of the Galle Road in view of the upcoming Independence Day ceremony.
+
+Accordingly, the stretch of Galle Road from Kollupitiya Junction - Galle Face and from Ceramic Junction - Galle Face will temporarily remain off limits for traffic until 04 February.
+
+The road closure is effective from 06.00 a.m. - 08.30 a.m. and 11.00 a.m. - 12.30 p.m. from 29 January to 02 February and again from 02.00 p.m. on 03 February, 2023 until the conclusion of the Independence Day ceremony on 04 February, the Police said.
+
+◼️
+
+[Data](articles/eb6d8360.json)
+
+---
+
+### Geological political conflict
 
 *2024-01-27 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174908) · `ta`
 
-இலங்கைக்கான அமெரிக்க தூதுவர் நிகழ்நிலை பாதுகாப்பு சட்டத்தை கண்டித்துள்ள அதேவேளை ரஸ்யா வரவேற்றுள்ளது.
+The US Ambassador to Sri Lanka has condemned the Steam Protection Act while Russia has welcomed.
 
-நிகழ்நிலை பாதுகாப்பு சட்டத்தில் உள்ளடக்கப்பட்டுள்ள விடயங்கள் முற்றிலும்  ஒரு உள்நாட்டு விடயம் என  இலங்கைக்கான ரஸ்ய தூதுவர் லெவன்  ஜகர்யான்தெரிவித்துள்ளார்.
+Russian Ambassador to Sri Lanka, Eleven Jagyanarder, said that the issues include in the Ceremonial Security Act are a completely domestic issue.
 
-இலங்கை நிறைவேற்றியுள்ள நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குறித்த விடயங்களை ரஸ்யா உன்னிப்பாக அவதானித்து வருகின்றது என அவர் தெரிவித்துள்ளார்.நிகழ்நிலை பாதுகாப்பு சட்டம் தொடர்பில் உள்நாட்டிலிருந்தும் சர்வதேச அளவிலும் வெளியாகும் கருத்துக்களை உன்னிப்பாக அவதானிப்பதாக ரஸ்ய தூதுவர் தெரிவித்துள்ளார்
+He said that Russia is closely observing the issues of the Sri Lankan Protection Bill.
 
-இலங்கையின் நிகழ்நிலை பாதுகாப்பு சட்டத்தில் உள்ளடக்கப்பட்டுள்ள விடயங்கள்  முற்றிலும் உள்நாட்டு விடயம் என தெரிவித்துள்ள அவர் உள்நாட்டு விடயங்களில் வெளிநாடுகள் தலையிடுவது முற்றிலும் அவசியமற்ற ஏற்றுக்கொள்ள முடியாத விடயம் எனவும் தெரிவித்துள்ளார்.
+He said that the issues included in the Sri Lankan Protection Act are completely domestic and that foreigners interfere in domestic issues are an unacceptable issue.
 
 ◼️
 
 [Data](articles/a3b9615a.json)
 
+[Extended Data](ext_articles/a3b9615a.ext.json)
+
 ---
 
-### நுவரெலியாவில் உச்சம் தொடும் மரக்கறிகளின் விலைகள்
+### Prices of vegetables in Nuwara Eliya
 
 *2024-01-27 12:31:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-உச்சம்-தொடும்-மரக்கறிகளின்-விலைகள்/175-332174) · `ta`
 
-நுவரெலியா பொருளாதார மத்திய நிலைய சந்தையில் கரட் மற்றும்  மேல் நாட்டு உணவுகளுக்கு சேர்க்கப்படும் மரக்கறிகளின் மொத்த விலை உயர்வு ஏற்பட்டுள்ளது.
+The total price of vegetables added to carrots and top foods in the Nuwara Eliya Economic Center market has occurred.
 
-நுவரெலியா பொருளாதார மத்திய நிலைய காரியாலயம் இன்று (27) காலை வெளியிட்டுள்ள மரக்கறிகள் கொள்வனவு மற்றும், விற்பணை விலை பட்டியலில் இந்த விலை உயர்வு குறிப்பிடப்பட்டுள்ளது.
+The hike in the Purchasing and Sale Price list issued by the Nuwara Eliya Economic Center office this morning (27).
 
-அதனடிப்படையில் சிவப்பு கோவா 3,700 ரூபாய், புரக்கோலின் 4,000 ரூபாய், பெஸில் இலை 3,000 ரூபாய், ஐஸ்பேர்க் 2,600 ரூபாய் என மொத்த விற்பனை விலை குறிப்பிடப்பட்டுள்ளது.
+Accordingly, the total sales price is worth Rs 3,700, the Red Goa is Rs 3,700, the Pulkolin 4,000 rupees, the leaf 3,000 rupees and the Iberg.
 
-அதேநேரத்தில் நுவரெலியாவில் இருந்து வெளியிட சந்தைகளுக்கு அதிகமாக கொண்டு செல்லப்படும் மரக்கறிகளின் மொத்த விற்பணை விலையும் அறிவிக்கப்பட்டுள்ளது.
+At the same time, the total sales price of vegetables that are being transported to the markets from Nuwara Eliya have been announced.
 
 ◼️
 
 [Data](articles/d59fea9b.json)
 
+[Extended Data](ext_articles/d59fea9b.ext.json)
+
 ---
 
-### மற்றுமொரு கோர விபத்தில் 8 பேர் படுகாயம்
+### 8 people were injured in an accident
 
 *2024-01-27 11:52:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மற்றுமொரு-கோர-விபத்தில்-8-பேர்-படுகாயம்/75-332173) · `ta`
 
-திருகோணமலை - சேருநுவர பொலிஸ் பிரிவிலுள்ள தங்கநகர் பகுதியில் இடம்பெற்ற வாகன விபத்தில் 8 நபர்கள் படுகாயமடைந்த நிலையில் மூதூர் தள வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக சேருநுவர பொலிஸார் தெரிவித்தனர்.
+Eight persons have been admitted to the Muttur Base Hospital after being injured in a vehicle accident in the Thanganagar area of the Trincomalee - Cherunuwara police division, Cherunuwara police said.
 
-திருகோணமலை - மட்டக்களப்பு பிரதான வீதியில்  நேற்று (26) மாலை இச்சம்பவம் இடம்பெற்றுள்ளது.
+The incident took place yesterday evening on the Trincomalee - Batticaloa main road.
 
-அவிசாலையிலிருந்து திருகோணமலைக்கு வேனில் சுற்றுலா வந்தவர்கள் சுற்றுலாவை முடித்துக் கொண்டு திரும்பிச் சென்று வேளை, நிறுத்தி வைக்கப்பட்டிருந்த கெப் ரக லொறியின் பின்னால்   மோதுண்டதில் இவ்விபத்துச் சம்பவம் நேர்ந்துள்ளது.
+The incident occurred when tourists from Avisala to Trincomalee collided behind a parked lorry when they finished the tour.
 
-இதன்போது வேனில் பயணித்த அவிசாவளையைச் சேர்ந்த வேன் சாரதி உற்பட 07 பேர் படுகாயமடைந்துள்ளதுடன் முன்னால் நிறுத்தி வைக்கப்பட்டிருந்த கெப் ரக லொறியின் உதவியாளர் ஒருவரும் படுகாயங்களுக்குள்ளாகியுள்ளனர்.
+Seven people were injured in the van driver of the van who was traveling in the van and an assistant of a keb lorry that had been parked in front of it was injured.
 
-இச்சம்பவத்தில் படுகாயமடைந்தவர்கள் மூதூர் தள வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருவதுடன் சம்பவம் தொடர்பிலான மேலதிக விசாரணைகளை சேருநுவர பொலிஸார் முன்னெடுத்து வருகின்றனர். R
+The victims are being treated at the Muttur Base Hospital and further investigations are being carried out by the Serunuwara police.. Remble
 
 ◼️
 
 [Data](articles/da9b912b.json)
+
+[Extended Data](ext_articles/da9b912b.ext.json)
 
 ---
 
@@ -1947,53 +1999,5 @@ The immediate telephone number of 1927 (January 26, 2024), the immediate telepho
 [Data](articles/64f2ee58.json)
 
 [Extended Data](ext_articles/64f2ee58.ext.json)
-
----
-
-### The newest character who came out with the murder of Beliatta
-
-*2024-01-26 20:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192603) · `si`
-
-The organized criminal criminal criminal efficicious unit of the Police Special Task Force was arrested by two other two others who were supporting the murder of Beliatta.
-
-The suspects have been planned to attack the Tangalle court on the instructions of the criminal of Uragas Michael.
-
-Two people who supported the murder of the five-member murder in Beliatta were arrested in Galle and Magalla, Galle and Galle yesterday afternoon.
-
-It was in the investigation of the Police Special Task Force Commanding Officer of the Police Special Task Force.
-
-The suspects are 25 and 35 years old and they are heroin traffickers.
-
-They found 9 grams of heroin and 300 milligrams, 300 milligrams, two motorbikes, three mobile phones.
-
-The suspects have said that the suspects have planned to assassinate the murder of the criminal gang member of the criminal criminal criminal prick micro, Kosgoda Sujee.
-
-...
-
-[Data](articles/84ee778c.json)
-
-[Extended Data](ext_articles/84ee778c.ext.json)
-
----
-
-### Business with jewelery stocks arrested with jewelery
-
-*2024-01-26 20:04:54* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-137ක-ස්වර්ණාභරණ-තොගයක්-සමග-ව්‍යාපාරිකාවක්-අල්ලයි/11-407737) · `si`
-
-A businessman arrested by the Police Narcotics Unit on April 5/26, a businessman who was illegally brought to Sri Lanka with Rs. 30 million.
-
-She is a 46-year-old businessman from Maradana area in Colombo 10.
-
-She was 12.40 am on April 01/26 am from Dubai to 12.40 am from Dubai. - The flight of 569.
-
-The jewelery was recovered by the Police Narcotics Unit of the Police Narcotics, which weighing 666 grams of water taken by her baggage.
-
-Steps have been taken to hand over the Katunayaka airport for further investigations.
-
-◼️
-
-[Data](articles/d82de3fe.json)
-
-[Extended Data](ext_articles/d82de3fe.ext.json)
 
 ---

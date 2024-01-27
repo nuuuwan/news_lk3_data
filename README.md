@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 21:51:30**
+As of **2024-01-27 22:03:23**
 
 ## Newspaper Stats
 
-*Scraped **2,941** Articles*
+*Scraped **2,944** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
 adalk | 268
-adaderanasinhalalk | 284
+adaderanasinhalalk | 286
 virakesarilk | 305
 tamilmirrorlk | 373
 adaderanalk | 377
-dailymirrorlk | 404
+dailymirrorlk | 405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,941 (100.0%) of 2,941 articles have been extended.
+2,944 (100.0%) of 2,944 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### Another suspect arrested for murder Beliatta
+
+*2024-01-27 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192636) · `si`
+
+Another suspect has been arrested in connection with the investigations into the killing of the Beliatta.
+
+The suspect has been suspected of the possession of the firearms used for the killings.
+
+He is a 30 year old and arrested in the Ratgama area in Galle.
+
+◼️
+
+[Data](articles/cfad27c5.json)
+
+[Extended Data](ext_articles/cfad27c5.ext.json)
+
+---
+
+### Sri Lankan fishing trawler reportedly hijacked by Somali pirates
+
+*2024-01-27 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-fishing-trawler-reportedly-hijacked-by-Somali-pirates/108-275821) · `en`
+
+Dikkowita, Jan 27 (Daily Mirror) - Somali pirates have reportedly hijacked a Sri Lankan multi-day fishing trawler with six fishermen aboard in the Arabian Sea.
+
+The trawler 'Lorenzo Putha 04' reportedly departed from the Dikkowita Fisheries Harbour on January 12.
+
+The abduction had occurred approximately 1,160 nautical miles away from the Sri Lankan coast.
+
+◼️
+
+[Data](articles/8fc51171.json)
+
+[Extended Data](ext_articles/8fc51171.ext.json)
+
+---
+
+### Underworld and drug dealers are burden to the country - Tiran Alles
+
+*2024-01-27 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192635) · `si`
+
+The Minister of Defense Minister Tiran Alles stressed that even if the international pressure has influenced the operation.
+
+The Minister made these comments participating in the Negombo Divisional Police Commissioner General of Police Commissioners.
+
+"If there are Unifiome beds, you have to beat. Or no work from the uniform. Had to make up hard decisions. Because I gave it to my president. It was the case with Koddon's money, who begins justice and cleaning the country.. They leave them and attack us. The United Nations asked to stop justice. In our country, we are working in our own way to the international community. "
+
+"There are lawyers who speak in underworld cases. Looking for millions of millions. Anyway, the political is out of here. Tiran's aliens are telling. Underworld, drug dealers cannot be held. They a burden to this country. "
+
+...
+
+[Data](articles/8e3f9c99.json)
+
+[Extended Data](ext_articles/8e3f9c99.ext.json)
+
+---
 
 ### The New Alliance begins
 
@@ -2003,63 +2059,5 @@ The check was officially handed over to Sagala Ratnayake, president of Litro Gas
 [Data](articles/2aecada8.json)
 
 [Extended Data](ext_articles/2aecada8.ext.json)
-
----
-
-### Traffic in Colombo today
-
-*2024-01-27 02:53:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இன்று-போக்குவரத்து-மட்டுப்பாடு/175-332161) · `ta`
-
-Traffic on the Kandy -Colombo main road will be restricted from 7 pm to 8.30 pm today.
-
-The decision has been made in front of the Maha Perahera of the Nittambuwa Sri Vijayarama Vihara, police said.
-
-Accordingly, the procession will be held from 7 pm to 8.30 pm.
-
-It has been announced that the procession will go to Nittambuwa Malwatte to Sri Bodhi Viharaya to Colombo - Kandiva main road and travel to the right side of Attanagalla road. (A)
-
-◼️
-
-[Data](articles/f96f0b0d.json)
-
-[Extended Data](ext_articles/f96f0b0d.ext.json)
-
----
-
-### Maha Sangha support for the president
-
-*2024-01-27 02:40:15* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஜனாதிபதிக்கு-மகா-சங்கத்தினர்-ஆதரவு/175-332160) · `ta`
-
-The President will get the support of the Maha Sangam on all the plans for the welfare of the people.
-
-President Ranil Wickremesinghe was present at the event organized by the University of Colombo, the President of the University of Colombo, the President of the Public Service and the President of the Western Province, Muruttuve Ananda Thera's birthday.
-
-Muruttuve Ananda Thera said this while addressing the event in the event of President Ranil Wickremesinghe, including President Ranil Wickremesinghe.
-
-The event was attended by the President, Prime Minister Dinesh Gunawardena, Speaker Mahinda Yapa Abeywardena and former President Mahinda Rajapaksa.. (A)
-
-◼️
-
-[Data](articles/9463b0a0.json)
-
-[Extended Data](ext_articles/9463b0a0.ext.json)
-
----
-
-### NPP/JVP on 39% of all adults, ahead of SJB, SLPP
-
-*2024-01-27 02:02:10* · [`dailyftlk`](https://www.ft.lk/news/NPP-JVP-on-39-of-all-adults-ahead-of-SJB-SLPP/56-757833) · `en`
-
-The latest estimates from IHP’s revised SLOTS MRP model (revised 01/2024) show that the NPP/JVP maintains a lead in General Election voting intent with 39% of Sri Lankan adults in December 2023.
-
-This was significantly ahead of the SJB on 27%, the SLPP on 10%, the UNP on 6%, and ITAK and SLMC on 3% each. The December estimates are provisional and are associated with a margin of error of 2.0–3.5% for the four leading parties.
-
-The revised IHP SLOTS model estimates reveal more clearly that the current NPP/JVP lead is based on a continuous rise in support since early 2022. The SJB has also increased its support, but a slower pace, lying in second place since mid-2022. The December 2023 estimates also confirm a decline in support for the UNP since July 2023, with SLPP support holding steady.
-
-...
-
-[Data](articles/cc8b1f17.json)
-
-[Extended Data](ext_articles/cc8b1f17.ext.json)
 
 ---

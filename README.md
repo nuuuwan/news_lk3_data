@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 00:02:27**
+As of **2024-01-28 00:17:18**
 
 ## Newspaper Stats
 
-*Scraped **2,955** Articles*
+*Scraped **2,956** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 41
 bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 159
-economynextcom | 169
+economynextcom | 170
 newsfirstlk | 170
 dailyftlk | 215
 adalk | 268
@@ -26,7 +26,7 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,955 (100.0%) of 2,955 articles have been extended.
+2,955 (100.0%) of 2,956 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -543,6 +543,26 @@ Acting Insider Inspector has also taken steps to provide the officer's family at
 [Data](articles/ed4b6f21.json)
 
 [Extended Data](ext_articles/ed4b6f21.ext.json)
+
+---
+
+### Sri Lanka defence sector to join tourism initiatives
+
+*2024-01-27 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-defence-sector-to-join-tourism-initiatives-148870/) · `en`
+
+ECONOMYNEXT – Minister of Tourism Harin Fernando has met the heads of the armed forces and the police to discuss tourism projects.
+
+The forces will contribute to adding many new experiences to the tourism business, a statement by the Department of Government Information said after the meeting on Friday (26).
+
+These include the police ensuring the safety of tourists, the air force increasing domestic flights within the island, developing marine tourism with the participation of the navy, and initiating a life-saving programme with the participation of the army.
+
+Sri Lanka is eagerly focused on promoting tourism, a key foreign exchange source for the country, but lacks critical infrastructure and faces much red tape. However, the government has adopted an all hands on deck approach since of late.
+
+Although surrounded by the sea, the island neither has a domestic yatch culture, nor yacht based tourism activities like liveaboard diving cruises.
+
+...
+
+[Data](articles/c9f536d8.json)
 
 ---
 
@@ -2031,27 +2051,5 @@ Bandula Gunawardena said that a program has been launched in the Expressway from
 [Data](articles/7ac9a07f.json)
 
 [Extended Data](ext_articles/7ac9a07f.ext.json)
-
----
-
-### Woman Remanded for Canadian Job Fraud Spree
-
-*2024-01-27 07:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/woman-remanded-for-canadian-job-fraud-spree/) · `en`
-
-COLOMBO (News 1st); A woman was apprehended by the Sri Lankan Bureau of Foreign Employment for allegedly defrauding over Rs. 60 Million from individuals seeking overseas employment, primarily in Canada.
-
-The accused, a 37-year-old resident of Kudaedanda Road, Wattala, reportedly targeted a wide range of victims, including bank officers, lawyers, and other professionals, across the island nation.
-
-The woman allegedly took money from job seekers, promising them secure employment opportunities in Canada.
-
-However, upon failing to deliver on her promises, she left her victims empty-handed and financially distraught. This led to a fish trader from Peliyagoda lodging a complaint with the SLBFE, prompting an investigation.
-
-Based on initial investigations and 16 confirmed complaints, the Sri Lankan Bureau of Foreign Employment estimates the accused's fraudulent activities to exceed Rs. 60 Million.
-
-...
-
-[Data](articles/0675beea.json)
-
-[Extended Data](ext_articles/0675beea.ext.json)
 
 ---

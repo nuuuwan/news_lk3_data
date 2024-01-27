@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 10:49:51**
+As of **2024-01-27 11:02:16**
 
 ## Newspaper Stats
 
@@ -26,59 +26,65 @@ dailymirrorlk | 400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,864 (99.7%) of 2,874 articles have been extended.
+2,874 (100.0%) of 2,874 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### இலங்கையில் அதிகரிக்கும் பாலியல் குற்றங்கள்
+### Increased sexual offenses in Sri Lanka
 
 *2024-01-27 10:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-அதிகரிக்கும்-பாலியல்-குற்றங்கள்/175-332167) · `ta`
 
-நாட்டில் வருடாந்தம் பாலியல் குற்றங்கள் அதிகரித்து வருவதாக பொலிஸ் சிறுவர் மற்றும் மகளிர் பணியகம் தெரிவித்துள்ளது.
+The Bureau of Police and Women's Bureau says that the year is increasing in sexual offenses in the country.
 
-கடந்த வருடத்தில் மாத்திரம் 18 வயதுக்குட்பட்ட 1,502 சிறுமிகள் வன்புணர்வுக்கு உள்ளானதாக பிரதிப் பொலிஸ் மா அதிபர் ரேணுகா ஜயசுந்தர கூறியுள்ளார். (N)
+Deputy Inspector General of Police Renuka Jayasundera has said that 1,502 girls under the age of 18 were raped last year alone.. (Of)
 
 ◼️
 
 [Data](articles/bf6e3f1c.json)
 
+[Extended Data](ext_articles/bf6e3f1c.ext.json)
+
 ---
 
-### வினாத்தாள் வெளியானமை தொடர்பில் மற்றுமொருவர் கைது
+### Another man arrested in connection with the release of the questionnaire
 
 *2024-01-27 10:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-வெளியானமை-தொடர்பில்-மற்றுமொருவர்-கைது/175-332166) · `ta`
 
-இம்முறை நடைபெற்று வரும் உயர்தரப் பரீட்சைக்கான  விவசாய விஞ்ஞான வினாத்தாள் வெளியான சம்பவம் தொடர்பில் மற்றுமொருவர் கைது செய்யப்பட்டுள்ளார்.
+Another man has been arrested in connection with the release of the Agricultural Science Questionnaire for the ongoing GCE A / L examination.
 
-பரீட்சை மண்டப பெண் பொறுப்பாளர் ஒருவரே இவ்வாறு கைது செய்யப்பட்டு அம்பாறை நீதவான் நீதிமன்றில் முன்னிலைப்படுத்தப்பட்டுள்ளார்.
+A woman in charge of the examination hall has been arrested and produced before the Ampara Magistrate's Court.
 
-இச்சம்பவம் தொடர்பில் பரீட்சை மண்டப பொறுப்பாளர், மண்டபப் பணியாளர் மற்றும் முதலில் கைது செய்யப்பட்ட ஆசிரியர் ஆகியோரை எதிர்வரும் பெப்ரவரி மாதம் இரண்டாம் திகதி வரை விளக்கமறியலில் வைக்குமாறு நீதவான் உத்தரவிட்டுள்ளதாக பரீட்சை திணைக்களம் கூறியுள்ளது.
+The Magistrate has ordered that the Magistrate's Trustee, the Hall and the first teacher who was first arrested and the first arrested teacher should be remanded until the second of February.
 
-இந்த சம்பவத்துடன் தொடர்புடைய பரீட்சை மண்டப பொறுப்பாளர்  பிலியந்தலை பிராந்திய கல்வி அலுவலகத்தில் ஆசிரியர் ஆலோசகராக கடமையாற்றி வருவதாக தெரிவிக்கப்படுகிறது.
+It is reported that the Examination Hall in charge of the incident is serving as a teacher advisor at the Regional Education Office at the Regional Education Office.
 
-மேலதிக விசாரணைகளை குற்றப் புலனாய்வுப் பிரிவினர் மேற்கொண்டு வருவதாக பரீட்சைகள் திணைக்களம் குறிப்பிட்டுள்ளது. (N)
+The Department of Examinations has stated that the Criminal Investigation Department is conducting further investigations. (Of)
 
 ◼️
 
 [Data](articles/2bd5a8c4.json)
 
+[Extended Data](ext_articles/2bd5a8c4.ext.json)
+
 ---
 
-### 24 மணித்தியாலங்களில் மேலும் 818 பேர் கைது
+### 818 arrested in 24 hours
 
 *2024-01-27 10:14:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-மேலும்-818-பேர்-கைது/175-332165) · `ta`
 
-இன்று (27) அதிகாலையுடன் நிறைவடைந்த 24 மணித்தியாலங்களில் யுக்திய நடவடிக்கையின் கீழ் 818 சந்தேக நபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+818 suspects have been arrested under the strategy of 24 hours after the early hours of this morning (27).
 
-அவர்களில் ஒருவர் தடுப்பு காவலில் வைக்கப்பட்டுள்ளதுடன், மேலும் 08 பேர் புனர்வாழ்வுக்காக பரிந்துரைக்கப்பட்டுள்ளனர்.
+One of them has been detained and eight others have been recommended for rehabilitation.
 
-அத்துடன்,159 கிராம் ஹெரோயின், 112 கிராம் ஐஸ் மற்றும் 329 போதை மாத்திரைகள் கைப்பற்றப்பட்டுள்ளதாக பொதுமக்கள் பாதுகாப்பு அமைச்சு கூறியுள்ளது. (N)
+In addition, 159 grams of heroin, 112 grams of ice and 329 narcotics have been seized, the Ministry of Public Safety said.. (Of)
 
 ◼️
 
 [Data](articles/635776ef.json)
+
+[Extended Data](ext_articles/635776ef.ext.json)
 
 ---
 
@@ -100,6 +106,8 @@ With the project's irrigation component coming online, an estimated 4,500 hectar
 
 [Data](articles/98bbde1d.json)
 
+[Extended Data](ext_articles/98bbde1d.ext.json)
+
 ---
 
 ### Half burnt body removed from crematorium for postmortem
@@ -117,6 +125,8 @@ However, when her guardian did not show any response to information on her death
 ...
 
 [Data](articles/53b49bf7.json)
+
+[Extended Data](ext_articles/53b49bf7.ext.json)
 
 ---
 
@@ -205,6 +215,8 @@ It took the jury of seven men and two women less than three hours to reach a ver
 ...
 
 [Data](articles/bb2d2eed.json)
+
+[Extended Data](ext_articles/bb2d2eed.ext.json)
 
 ---
 
@@ -298,6 +310,8 @@ Each year an increasing number of non-Indigenous Australians find it impossible 
 
 [Data](articles/4c84939d.json)
 
+[Extended Data](ext_articles/4c84939d.ext.json)
+
 ---
 
 ### Court issues Red notices for four alleged Al-Qaeda aides abroad
@@ -317,6 +331,8 @@ Thus the red warrants were issued to four people named Ahmed Khalil Luqman Talib
 ◼️
 
 [Data](articles/9a71b6fc.json)
+
+[Extended Data](ext_articles/9a71b6fc.ext.json)
 
 ---
 
@@ -351,6 +367,8 @@ Trade union representatives said the Wildlife authorities should have worked out
 ...
 
 [Data](articles/6a917109.json)
+
+[Extended Data](ext_articles/6a917109.ext.json)
 
 ---
 
@@ -759,6 +777,8 @@ Sri Lanka recently formalised an agreement with the IMF, a collective response t
 ...
 
 [Data](articles/e26588c2.json)
+
+[Extended Data](ext_articles/e26588c2.ext.json)
 
 ---
 

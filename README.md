@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 09:02:35**
+As of **2024-01-27 09:17:18**
 
 ## Newspaper Stats
 
@@ -26,39 +26,43 @@ dailymirrorlk | 394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,849 (99.8%) of 2,855 articles have been extended.
+2,855 (100.0%) of 2,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### අත්අඩංගුවට ගත් මත්ද්‍රව්‍ය ගැන තීරණයක්
+### Decision of arrested drugs
 
 *2024-01-27 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192613) · `si`
 
-ආරක්ෂක අංශ මඟින් අත්අඩංගුවට ගනු ලබන මත්ද්‍රව්‍ය විනාශ කිරීමට අදාළ කටයුතු මාර්තු මාසය අවසන් වනවිට ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති බව නාවික හමුදාපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා මහතා අවධාරණය කර තිබේ.
+Commander of the Navy Vice Admiral Priyantha Perera has stressed that it is planned to be implemented to destroy drugs arrested by security forces.
 
-ඔහු සඳහන් කළේ, වනාතවිල්ලුව ප්‍රදේශයේ මත්ද්‍රව්‍ය විනාශ කිරීමේ පහසුකම් සහිත ගොඩනැගිල්ලක් ඉදිවෙමින් පවතින බවයි.
+He said a building was being constructed with drugs destroyed in Wanathavilluwa.
 
 ◼️
 
 [Data](articles/524a26e8.json)
 
+[Extended Data](ext_articles/524a26e8.ext.json)
+
 ---
 
-### ලිංගික අපරාධවල වර්ධනයක්
+### Increase in sex crimes
 
 *2024-01-27 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192612) · `si`
 
-ලිංගික අපරාධ සම්බන්ධයෙන් වාර්ෂිකව වැඩි වර්ධනයක් පෙන්නුම් කරන බව පොලිස් ළමා හා කාන්තා කාර්යංශය සඳහන් කර තිබේ.
+The Police Children and Women's Bureau has stated that there is an increase in the annual growth of sex.
 
-එහි නියෝජ්‍ය පොලිස්පති රේණුකා ජයසුන්දර මහත්මිය සඳහන් කළේ, පසුගිය වසරේ දී වයස අවුරුදු 18ට අඩු දැරියන් 1,502ක් දූෂණයට ලක් ව ඇති බවයි.
+DIG Renuka Jayasundara said that 1,502 girls under the age of 18 were under the age of 18 years old last year.
 
-ජාතික ළමාරක්ෂක අධිකාරියේ සභාපති ශ්‍රී ජයවර්ධපුර විශ්වවිද්‍යාලයේ ජ්‍යෙෂ්ඨ කතිකාචාර්ය උදය කුමාර අමරසිංහ මහතා සඳහන් කළේ, ලිංගික අධ්‍යාපනය සම්බන්ධයෙන් දරුවන් දැනුම්වත් කිරීම වැදගත් බවයි.
+Senior Chibil Kumara Amarasinghe, Chairman of the National Institute of Child Care Authority, said that it is important to inform children of sex education.
 
 ◼️
 
 [Data](articles/48a57c07.json)
+
+[Extended Data](ext_articles/48a57c07.ext.json)
 
 ---
 
@@ -104,19 +108,21 @@ However, he said the project remain delayed and he instructed the officials conc
 
 ---
 
-### අධිවේගී මාර්ගවල අනතුරු සිදු වීමට හේතුව
+### The cause of the accidents on highways
 
 *2024-01-27 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192611) · `si`
 
-අධිවේගී මාර්ගවල අනතුරු සිදුවීමට ප්‍රධානතම හේතුව රියදුරන් විසින් නීති-රීති නොපිළිපැදීම බව බන්දුල ගුණවර්ධන අමාත්‍යවරයා පවසයි.
+Bandula Gunawardena says that the main cause of the accidents on highway roads is to not accept rules.
 
-ඔහු සඳහන් කළේ, අධිවේගී මාර්ගයේ නීති කඩකරන රියදුරන්ට එරෙහි ව ගත හැකි ක්‍රියාමාර්ග පිළිබඳ ලබන සතියේ සිට විශේෂ වැඩපිළිවළක් ක්‍රියාත්මක කරන බවයි.
+He said a special program will be implemented next week to measures against drivers who violate the rules of the Expressway.
 
-කටුනායක සිට කොළඹ දක්වා අධිවේගී මාර්ග කොටසේ විදුලි ලාම්පු සවි කිරීම පිළිබඳ වැඩපිළිවෙළක් ආරම්භ කර ඇති බව ද බන්දුල ගුණවර්ධන අමාත්‍යවරයා සඳහන් කරයි.
+Bandula Gunawardena said that a program has been launched in the Expressway from Katunayake to Colombo.
 
 ◼️
 
 [Data](articles/7ac9a07f.json)
+
+[Extended Data](ext_articles/7ac9a07f.ext.json)
 
 ---
 
@@ -220,21 +226,23 @@ Wind speed may increase up to 50-60 kmph at times in the sea areas off the coast
 
 ---
 
-### අධිවේගයේ අනතුරින් මිය ගිය කොස්තාපල්ගේ පවුලට ලක්ෂ 15ක්
+### 15 lakhs of constable family who died at highway
 
 *2024-01-27 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192610) · `si`
 
-රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ ආරක්ෂක වශයෙන් සේවය කළ අභාවප්‍රාප්ත පොලිස් කොස්තාපල් අනුරාධ ජයකොඩි මහතාගේ පවුලට රුපියල් ලක්ෂ 15ක් ලබා දී තිබේ.
+Government Constable Anuradha Jayakody has provided the passage of Rs.
 
-වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අතින් මෙම මුදල් පරිත්‍යාගය සිදු කර ඇත.
+Acting Inspiration Inspector General of Police has made the donation by Mr. Deshabandu Tennakoon.
 
-මේ අතර, මිය ගිය පොලිස් කොස්තාපල්වරයා සැරයන් නිලයට ද උසස් කර තිබේ.
+Meanwhile, the deceased police constable has also been promoted to the rank.
 
-පෙරේදා (25) දක්ෂිණ අධිවේගී මාර්ගයේ සිදු වූ රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ ඔහුගේ ආරක්ෂක, පොලිස් කොස්තාපල් අනුරාධ ජයකොඩි මහතා ජීවිතක්ෂයට පත් වූහ.
+State Minister Sanath Nishantha and his defense, police constable Anuradha Jayakody killed in an accident on the Southern Expressway.
 
 ◼️
 
 [Data](articles/4090d2eb.json)
+
+[Extended Data](ext_articles/4090d2eb.ext.json)
 
 ---
 
@@ -260,39 +268,43 @@ When the Parliament is prorogued, the questions and motions that have not been c
 
 ---
 
-### කෘෂි විද්‍යාව ප්‍රශ්න පත්‍රය පිටවීමේ සිද්ධියට තවත් පුද්ගලයෙක් අත්අඩංගුවට
+### Another person arrested for exit agrology question paper
 
 *2024-01-27 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192609) · `si`
 
-අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ කෘෂි විද්‍යාව ප්‍රශ්න පත්‍රය පිටවීම සම්බන්ධයෙන් මොරටුව මහා විද්‍යාලයේ විභාග ශාලාවේ ශාලාධිපතිනිය අත්අඩංගුවට ගෙන අම්පාර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබේ.
+The Aladder of the Moratuwa College has been arrested and produced before the Ampara Magistrate's Court regarding the agrology of the GCE Advanced Level examination.
 
-විභාග දෙපාර්තමේන්තුව සඳහන් කළේ, මහෙස්ත්‍රාත්වරයා විසින් එම ශාලාධිපතිනිය, ශාලා සේවක හා මෙම සිදුවීම සම්බන්ධයෙන් ප්‍රථමයෙන් අත්අඩංගුවට ගත් ගුරුවරයා පෙබරවාරි මස දෙවැනි දා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කර ඇති බවයි.
+The Department of Examinations said that the Magistrate had first been arrested by the Magistrate to remanded until February second in February.
 
-මෙම සිදුවීමට සම්බන්ධ ශාලාධිපතිනිය පිළියන්දල කලාප අධ්‍යාපන කාර්යාලයේ ගුරු උපදේශකවරියක් ලෙස සේවය කරමින් සිටින බව වාර්තා වේ.
+It is reported that the Goldeniya is serving as a teacher consultant at the Piliyandala Zonal Education Office.
 
-මේ සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව තවදුරටත් විමර්ශන මෙහෙයවමින් සිටින බව විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
+The Department of Examinations said that the CID is conducting further investigations.
 
 ◼️
 
 [Data](articles/9dd80636.json)
 
+[Extended Data](ext_articles/9dd80636.ext.json)
+
 ---
 
-### නුවරඑළියට මල් තුහින
+### Flowers in Nuwara Eliya
 
 *2024-01-27 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192608) · `si`
 
-උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල තැනින් තැන වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
+The Department of Meteorology has announced that showers can occur at the Northern, North-Central and Uva provinces.
 
-උතුරු-මැද, නැගෙනහිර, මධ්‍යම, ඌව සහ වයඹ පළාත්වල විටින් විට හමන පැයට කිලෝ මීටර් 40ක පමණ තරමක තද සුළං ඇති විය හැක.
+There may be 40 km of strong winds per hour in the North-Central, Eastern, Uva and Northwestern provinces.
 
-හිමිදිරි උදෑසන කාලයේ දී නුවරඑළිය දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මල්තුහින ඇති වීමේ හැකියාවක් පවතින බව ද වාර්තා වේ.
+It is also reported that there is a possibility of the possibility of a large number of locations in the Nuwara Eliya district.
 
-මධ්‍යම, සබරගමුව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් පස්වරු 02.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+Showers or thundershowers will occur at several places in the Central, Sabaragamuwa and Western provinces and in the Galle and Matara districts.
 
 ◼️
 
 [Data](articles/fc82ac9e.json)
+
+[Extended Data](ext_articles/fc82ac9e.ext.json)
 
 ---
 

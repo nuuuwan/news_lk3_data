@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 16:47:15**
+As of **2024-01-27 17:02:26**
 
 ## Newspaper Stats
 
-*Scraped **2,921** Articles*
+*Scraped **2,925** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
 adalk | 268
-adaderanasinhalalk | 274
+adaderanasinhalalk | 278
 virakesarilk | 305
 adaderanalk | 371
 tamilmirrorlk | 371
@@ -26,11 +26,33 @@ dailymirrorlk | 402
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,917 (99.9%) of 2,921 articles have been extended.
+2,921 (99.9%) of 2,925 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### ග්‍රාම නිලධාරී විභාග ප්‍රතිඵල නිකුත් කෙරෙයි
+
+*2024-01-27 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192627) · `si`
+
+පුරප්පාඩු පවතින ග්‍රාම නිලධාරි තනතුරු සඳහා විභාග දෙපාර්තමේන්තුව ලබාදුන් ප්‍රාදේශීය ලේකම් කොට්ඨාස අනුව සම්මුඛ පරීක්ෂණයට සුදුසුකම්ලත් 4,232ක නාමලේඛනය අද (27) දින නිකුත් කළ බව ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා පවසයි.
+
+ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍යංශයේ  www.moha.gov.lk නිල වෙබ් අඩවියේ එම නාමලේඛනය පළකර ඇත.
+
+මෙම විභාග ප්‍රතිඵල අනුව ග්‍රාම නිලධාරී පුරප්පාඩු 2002 ක් සඳහා බඳවා ගැනීම් සිදුකිරීමට නියමිතය.
+
+ගැසට් නිවේදනයට අනුව කඩිනමින් සම්මුඛ පරීක්‍ෂණ පවත්වා ඔවුන් රාජ්‍ය සේවයට එක් කරගන්නා බව ස්වදේශ කටයුතු රාජ්‍ය අමාත්‍ය අශෝක ප්‍රියන්ත මහතා වැඩිදුරටත් පැවසීය.
+
+විභාග දෙපාර්තමේන්තුව විසින් 2023 වසරේ දෙසැම්බර් 02 වැනිදා ග්‍රාම නිලධාරි විභාගය පවත්වන ලදී.
+
+Grama Niladhari Exam Interview Selected List20212023 by poornima on Scribd
+
+◼️
+
+[Data](articles/b2300b29.json)
+
+---
 
 ### Couple arrested for scamming Rs. 5bn through pyramid scheme
 
@@ -68,21 +90,55 @@ Meanwhile, the Chairman of the COPA, State Minister Lasantha Alagiyawanna assure
 
 ---
 
-### மாணவர்களுக்கான உணவு விலை அதிகரிப்பு
+### රු කෝටි 500ක මුදල් වංචා කළ සැකකාර යුවළ අත්අඩංගුවට
+
+*2024-01-27 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192626) · `si`
+
+පීරමීඩ මුදල් ක්‍රමය යටතේ රුපියල් කෝට් 500ක මුදල් වංචා කළ සිද්ධියකට සැකපිට යුවළක් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/c8da0ad0.json)
+
+---
+
+### ඔන්ලයින් පනත් කෙටුම්පත ලබන සතියේ බලාත්මක වෙයිද ?
+
+*2024-01-27 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192625) · `si`
+
+පාර්ලිමේන්තුවේදී සම්මත වු මාර්ගගත ක්‍රමවල සුරක්ෂිත භාවය පිළිබඳ පනත් කෙටුම්පතට ලබන සතියේ පළමු දින දෙක තුළ අත්සන් තැබීමට බලාපොරොත්තු වන බව කථානායන මහින්ද යාපා අබේවර්ධන මහතා පවසයි.
+
+පනත් කෙටුම්පත පසුගිය 23 වනදා පාර්ලිමේන්තුවේ දී වැඩි ජන්දයෙන් සම්මත කෙරුණි.
+
+කෙසේවෙතත් මේ දක්වාත් එම පනත් කෙටුම්පතට කථානායකවරයා අත්සන් තබා නොමැති බැවින් එය බලාත්මකවීමක් මෙතෙක් සිදුවී නොමැත.
+
+මේ සම්බන්ධයෙන් වැඩිදුරටත් අදහස් දැක්වූ කථානායක මහින්ද යාපා අබේවර්ධන මහතා සඳහන් කළේ,
+
+"ඕක සඳුදා නැත්නම් අඟහරුවාදා එයි. ආවාම අත්සන් කරනවා. පරක්කු නැහැ."
+
+◼️
+
+[Data](articles/c56c373e.json)
+
+---
+
+### Increase food prices for students
 
 *2024-01-27 15:42:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கான-உணவு-விலை-அதிகரிப்பு/175-332178) · `ta`
 
-பாடசாலை மாணவர் ஒருவரின் உணவுக்காக தற்போது வழங்கப்படும் 85 ரூபாயை 115 ரூபாயாக அதிகரிப்பது தொடர்பில் கல்வி அமைச்சு கவனம் செலுத்தியுள்ளது.
+The Ministry of Education has focused on increasing the current Rs.
 
-அண்மையில் இது தொடர்பில் பேச்சுவார்த்தைகள் இடம்பெற்றுள்ளதுடன், நிதியமைச்சின் பிரதிநிதிகளுடனும் கலந்துரையாடப்பட்டுள்ளதாக கல்வி அமைச்சு விடுத்துள்ள அறிக்கையில் தெரிவிக்கப்பட்டுள்ளது.
+In a recent report, the Ministry of Education said in a statement that talks have been held in this regard and the representatives of the Finance Ministry have been discussed.
 
-இந்தநிலையில், இது தொடர்பிலான இறுதித் தீர்மானம் அடுத்தவாரமளவில் எடுக்கப்படும் என்றும் அந்த அறிக்கையில் சுட்டிக்காட்டப்பட்டுள்ளது.
+The report also pointed out that the final decision on the matter will be taken next week.
 
-அத்தியாவசிய உணவுப் பொருட்களின் விலையேற்றித்தினால் இந்த தீர்மானம் எட்டப்பட்டுள்ளகவும், இதேவேளை, 100,000 பாடசாலை மாணவர்களுக்கு இலவச மதிய உணவு தற்போது வழங்கப்பட்டு வருகின்றதாகவும் தெரிவிக்கப்பட்டுள்ளது. R
+It has been reported that the resolution has been reached by the essential food items and that 100,000 school children are currently being provided with free lunch.. Remble
 
 ◼️
 
 [Data](articles/a6340e6c.json)
+
+[Extended Data](ext_articles/a6340e6c.ext.json)
 
 ---
 
@@ -101,6 +157,30 @@ Accordingly, traffic has been temporarily prohibited through specific roads unti
 [Data](articles/5fb9888b.json)
 
 [Extended Data](ext_articles/5fb9888b.ext.json)
+
+---
+
+### පොලීසිය බව හඟවා රථයක් කොල්ලකයි
+
+*2024-01-27 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192624) · `si`
+
+පොලිස් නිලධාරීන් ලෙස පෙනී සිටිමින් පුද්ගලයින් පිරිසක් කොල්ලකෑමක් සිදුකර ඇති බව පොලිස් මූලස්ථානය පවසයි.
+
+බිංගිරිය පඩිවෙල ප්‍රදේශයේදී රුපියල් 930,000ක් පමණ වටිනා ත්‍රීරෝද රථයක් මෙලෙස කොල්ලකා ඇති බවට ඊයේ (26) දහවල් බිංගිරිය පොලීසියට පැමිණිල්ලක් ලැබී ඇත.
+
+පඩිවෙල ප්‍රදේශයේදී මාර්ගයේ වම්පස සිවිල් ඇඳුමින් සැරසී සිටි පුද්ගලයින් දෙදෙනෙකුගෙන් එක් අයෙකු අදාළ ත්‍රීරෝද රථය නවතා ඔවුන් කුලියාපිටිය පොලීසියේ බව පවසා රියදුරු බලපත්‍රය ඉල්ලා සිටි බව පැමිණිලිකරු පොලීසියට පවසා ඇත.
+
+පසුව රියදුරු ත්‍රීරෝද රථයෙන් බැස රියදුරු බලපත්‍රය ලබාදී ඇති අතර එහිදී එම රියදුරු බලපත්‍රය ත්‍රීරෝද රථය පැදවීම සඳහා වලංගු නොවන බවත් පොලීසියට යායුතු බවත් සැකකරුවන් පවසා තිබේ.‍
+
+ඒ අනුව පොලිස් ස්ථානයට යෑම සඳහා රියදුරුව සැකකරුවන් පැමිණි යතුරුපැදියකට නංවාගෙන ඇති අතර ත්‍රීරෝද රථය අනෙක් සැකකරු පදවාගෙන ගොස් ඇත.
+
+පසුව සැකකරුවන් විසින් කදුරුගස් හන්දිය ප්‍රදේශයේදී රියදුරුව අතහැර දමා ත්‍රීරෝද රථය කොල්ලකා තිබේ.
+
+පොලීසිය සඳහන් කළේ සිවිල් ඇඳුමින් සැරසී සිටි සැකකරුවන් දෙදෙනා පොලිස් නිලධාරීන් නොවන බවට අනාවරණය වී ඇති බවය.
+
+...
+
+[Data](articles/8fcecd42.json)
 
 ---
 
@@ -124,23 +204,25 @@ The final text upheld by the council retains key elements initially desired by t
 
 ---
 
-### තායිලන්තය එපා කියූ කුණු මාළු බහාලුම් 98ක් ලංකාවට ගෙනල්ලා
+### 98 garbage containers in Thailand brought to Sri Lanka
 
 *2024-01-27 14:29:36* · [`adalk`](https://www.ada.lk/breaking_news/තායිලන්තය-එපා-කියූ-කුණු-මාළු-බහාලුම්-98ක්-ලංකාවට-ගෙනල්ලා/11-407742) · `si`
 
-කාබනික පොහොර නිෂ්පාදන සමාගමක් සඳහා නෞකාවක නරක්වූ මාළු බහාලුම් 98ක් ගොඩබෑමට ශ්‍රී ලංකා රේගුවේ ඉල්ලීමට ආනයන හා අපනයන පාලක බලපත්‍රයක් නිකුත් කරලා - අදාළ සමාගමට ම සැමන් නිෂ්පාදන ආයතනයක් - කෝපා කමිටුවේදී අනාවරණය වෙයි.
+An Imports and Export Control License has been issued to the land of Sri Lanka and the company to land on a ship's operating company for a product company for a manufacturing company.
 
-ආනයන හා අපනයන පාලන දෙපාර්තමේන්තුවෙන් ආනයන බලපත්‍ර නිකුත් කලත්, පසු විපරමක් සිදු නොවීම ගැන කාරක සභාවේ කනස්සල්ල..
+Although issuing imports from the Department of Import and Export Control, the committee worry about not a follow-up
 
-සියලු තොරතුරු රැස් කරමින් කඩිනමින් දත්ත පද්ධතිය සකස් කර අවසන් කරන්න - කෝපා කමිටුවෙන් ආනයන හා අපනයන පාලන දෙපාර්තමේන්තුවට උපදෙස්..
+Collect and complete the database speedy database - Kopyr
 
-කාබනික පොහොර නිෂ්පාදනය සමාගමක් සඳහා නෞකාවක නරක්වූ මාළු බහාලුම් 98ක් මෙරට ගොඩබෑම සඳහා ශ්‍රී ලංකා රේගුවේ ඉල්ලීමට ආනයන හා අපනයන පාලක ජනරාල් විසින් බලපත්‍රක් නිකුත් කර ඇති බව රජයේ ගිණුම් පිළිබඳ  කාරක සභාවේදී අනාවරණය විය.
+The Committee on the Department of Import and Export General of Sri Lanka has issued a license to the Sri Lankan customs for the production of organic fertilizer to land in Sri Lanka.
 
-මේ පිළිබද කරුණු අනාවරණය වූයේ රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතාගේ සභාපතිත්වයෙන්  එම කාරක සභාව පසුගියදා (23) පාර්ලිමේන්තුවේදී රැස්වූ අවස්ථාවේදීය. මෙදින කාරක සභාව හමුවට 2021 සහ 2022 මූල්‍ය වර්ෂය සඳහා වූ විගණකාධිපති වාර්තා සහ කාර්ය සාධනය පරික්ෂාව සඳහා ආනයන හා අපනයන පාලන දෙපාර්තමේන්තුව කැඳවා තිබිණි.
+It was revealed when the committee met with State Minister Lasantha Alagiyawanna yesterday (23). The Auditor General's Report and Performance for the financial year 2021 and 2022 was convened for the year 2021 and 2022.
 
 ...
 
 [Data](articles/6ca5fc25.json)
+
+[Extended Data](ext_articles/6ca5fc25.ext.json)
 
 ---
 
@@ -179,6 +261,8 @@ The driver of the lorry was arrested in connection with the accident.
 ◼️
 
 [Data](articles/75d053f5.json)
+
+[Extended Data](ext_articles/75d053f5.ext.json)
 
 ---
 
@@ -1344,6 +1428,8 @@ However, he said the project remain delayed and he instructed the officials conc
 
 [Data](articles/f8ba7f72.json)
 
+[Extended Data](ext_articles/f8ba7f72.ext.json)
+
 ---
 
 ### The cause of the accidents on highways
@@ -1949,83 +2035,5 @@ What impressed me the most about the hospital is its investment in preventive ca
 [Data](articles/6eb7d0f8.json)
 
 [Extended Data](ext_articles/6eb7d0f8.ext.json)
-
----
-
-### Speaking truth to power – ‘Ethnics’ in ELT to the fore: the curtain falls (Part III of III)
-
-*2024-01-26 23:38:20* · [`dailyftlk`](https://www.ft.lk/columns/Speaking-truth-to-power-Ethnics-in-ELT-to-the-fore-the-curtain-falls-Part-III-of-III/4-757806) · `en`
-
-It was an eye-opener, and an open invitation to other ethnics – indeed, the ethnic other – to similarly turn the lens of scrutiny upon themselves
-
-English-Language Theatre (ELT) in Sri Lanka has great potential as a tool for civil society to engage critically with the political powers that be when our elected representatives get uppity or let us and themselves down.
-
-It is a pity then that since 1994, when a humble arts editor (ahem) proposed a consortium of the creative and critical arms of the performing arts to this end, there have been few takers and even fewer serious contenders where ELT has dared to ‘speak truth to power’.
-
-Many attempts were made – from politicised staging of Shakespeare and Orwell, through slapstick masquerading as satire, to original pieces in the shape and form of existential plays, stand-up comedy and (O, Dario Fo!) even musicals.
-
-...
-
-[Data](articles/ee6e3cfb.json)
-
-[Extended Data](ext_articles/ee6e3cfb.ext.json)
-
----
-
-### Fisherman, helper arrested for abusing 12-year-old boy
-
-*2024-01-26 23:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Fisherman-helper-arrested-for-abusing-12-year-old-boy/108-275793) · `en`
-
-A young man who dragged a 12-year-old boy offshore and sexually abused him and a 16-year-old boy who aided and abetted it were arrested by Angulana Police yesterday.
-
-The victim told police that he was picking shells on the beach when the two suspects dragged him into the water, pulled his trousers down and sexually abused him. He said while the young man abused him, the other boy enjoyed it by watching. He said he went home in a sarong burrowed from a fisherman.
-
-The two suspects were arrested during investigations of a complaint received from the victim’s parents.
-
-Investigations revealed that the main suspect was a fisherman in Angulana beach and the other his helper and that they were residents of Sayurupura housing scheme. The victim was referred to JMO Colombo South Hospital. The suspects were to be produced before Moratuwa Magistrate.
-
-OIC Crime Investigation Branch SI Prabodha is conducting further investigations on the instructions of OIC Angulana Police CI Sujeewa Ekanayaka.
-
-◼️
-
-[Data](articles/d24e0ad7.json)
-
-[Extended Data](ext_articles/d24e0ad7.ext.json)
-
----
-
-### Promotion to Constable Death with Sanath Nishantha
-
-*2024-01-26 22:22:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவுடன்-உயிரிழந்த-கான்ஸ்டபிளுக்கு-பதவி-உயர்வு/175-332147) · `ta`
-
-His security officer, Anuradha Jayakody, who died in a vehicle accident with State Minister Sanath Nishantha, has been promoted to police sergeant.
-
-Accordingly, the Public Administrative Circle has been promoted by the Inspector General of Police yesterday (25).
-
-◼️
-
-[Data](articles/65b8e970.json)
-
-[Extended Data](ext_articles/65b8e970.ext.json)
-
----
-
-### UN and EU condemn first US execution using nitrogen gas
-
-*2024-01-26 22:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96757/un-and-eu-condemn-first-us-execution-using-nitrogen-gas) · `en`
-
-The United Nations and European Union condemned the United States on Friday after the country’s first execution of an inmate using nitrogen asphyxiation, an untested method that has reignited a debate about capital punishment, saying the method could amount to torture.
-
-The southern state of Alabama put convicted murderer Kenneth Smith to death on Thursday by pumping nitrogen hypoxia into a facemask, causing him to suffocate. It was the first use of the execution method, rather than the usual lethal injection.
-
-Alabama Attorney General Steve Marshall said “justice has been served” with Smith’s execution but UN human rights chief Volker Turk, the EU and US civil liberties groups expressed horror and concern.
-
-“I deeply regret the execution of Kenneth Eugene Smith in Alabama despite serious concerns this novel and untested method of suffocation by nitrogen gas may amount to torture, or cruel, inhuman or degrading treatment,” Volker Turk, the U.N. High Commissioner for Human Rights, said.
-
-...
-
-[Data](articles/d945ec13.json)
-
-[Extended Data](ext_articles/d945ec13.ext.json)
 
 ---

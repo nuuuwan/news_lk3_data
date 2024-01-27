@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 18:32:40**
+As of **2024-01-27 18:49:34**
 
 ## Newspaper Stats
 
-*Scraped **2,931** Articles*
+*Scraped **2,934** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
 adalk | 268
-adaderanasinhalalk | 280
+adaderanasinhalalk | 282
 virakesarilk | 305
-tamilmirrorlk | 372
+tamilmirrorlk | 373
 adaderanalk | 374
 dailymirrorlk | 402
 
@@ -26,11 +26,57 @@ dailymirrorlk | 402
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,930 (100.0%) of 2,931 articles have been extended.
+2,931 (99.9%) of 2,934 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### සෝමාලියානු මුහුදු කොල්ලකරුවන් පැහැරගත් බව කියන මෙරට ධීවර යාත්‍රාව ගැන තොරතුරු
+
+*2024-01-27 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192632) · `si`
+
+මෙරට බහුදින ධිවර යාත්‍රාවක් සෝමාලියානු මුහුදු කොල්ලකරුවන් විසින් පැහැරගෙන ඇති බවට තොරතුරු වාර්තා වී ඇති බව ධීවර දෙපාර්තමේන්තුව පවසයි.
+
+අරාබි මුහුදේ දී ධීවරයින් රැගත් යාත්‍රාව පහැරගැනීමට ලක්වී ඇති බව ධීවර දෙපාර්තමේන්තුවේ ප්‍රකාශකයෙකු පැවසීය.
+
+හලාවත, දික්ඕවිට ධීවර වරායෙන් පසුගිය 12 වනදා මුහුදු ගිය බහුදින ධීවර යාත්‍රාව සහ එහි සිටි ධීවරයින් 06 දෙනෙකු එලෙස සෝමාලියානු මුහුදු කොල්ලකරුවන් පැහැරගෙන ඇත.
+
+මෙරට මුහුදු සීමාවේ සිට නාවික සැතපුම් 1160ක් දුරින් වු මුහුදු ප්‍රදේශයේ දී එම පැහැරගැනීම සිදුකර ඇති බව වාර්තා වෙයි.
+
+පැහැරගැනීමට ලක්වු ධීවරයින් මුදාගැනීම සඳහා අවශ්‍ය ක්‍රියාමාර්ග ගනිමින් සිටින බව බලධාරීන් සඳහන් කළේය.
+
+◼️
+
+[Data](articles/435cab19.json)
+
+---
+
+### නිදහස් උත්සවයේ පෙරහුරු දින වෙනස් වෙයි
+
+*2024-01-27 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192631) · `si`
+
+ජනවාරි 29 වනදා සිට ආරම්භවීමට නියමිතව තිබූ නිදහස් සැමරුමේ පෙරහුරු ජනවාරි 30 වනදා සිට ආරම්භ කිරීමට තීරණය කළ බව පොලීසිය නවතම නිවේදනයක් නිකුත් කරමින් පවසයි.
+
+◼️
+
+[Data](articles/3d90a8fe.json)
+
+---
+
+### கான்ஸ்டபிளின் குடும்பத்திற்கு 15 இலட்சம் ரூபாய்
+
+*2024-01-27 18:06:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கான்ஸ்டபிளின்-குடும்பத்திற்கு-15-இலட்சம்-ரூபாய்/175-332180) · `ta`
+
+இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் பாதுகாப்பாளராக கடமையாற்றி விபத்தில் அவருடனேயே மரணித்த பொலிஸ் கான்ஸ்டபிள்  அனுராதா ஜயக்கொடியின் குடும்பத்திற்கு 15 இலட்சம் ரூபாய் நட்ட ஈடு வழங்கப்பட்டுள்ளது.
+
+தெற்கு அதிவேக நெடுஞ்சாலையில் நேற்று முன்தினம் (25) இடம்பெற்ற வாகன விபத்தில் இராஜாங்க அமைச்சர் சனத் நிஷாந்த மற்றும் அவரது மெய்ப்பாதுகாவலரான பொலிஸ் கான்ஸ்டபிள் அனுராதா ஜயக்கொடி ஆகியோர் உயிரிழந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/553e57d4.json)
+
+---
 
 ### Special notice on rehearsals for Independence Day ceremony
 
@@ -47,6 +93,8 @@ Police Media Division earlier said the traffic plan comes into effect on January
 ...
 
 [Data](articles/6774d0dc.json)
+
+[Extended Data](ext_articles/6774d0dc.ext.json)
 
 ---
 
@@ -1999,61 +2047,5 @@ On the occasion, High Commissioner Santosh Jha unfurled India’s national flag 
 [Data](articles/5ee07a5c.json)
 
 [Extended Data](ext_articles/5ee07a5c.ext.json)
-
----
-
-### Ambassador Manisha Gunasekera presents credentials to President of Portugal
-
-*2024-01-27 00:35:46* · [`dailyftlk`](https://www.ft.lk/news/Ambassador-Manisha-Gunasekera-presents-credentials-to-President-of-Portugal/56-757817) · `en`
-
-Ambassador Manisha Gunasekera presented her Letters of Credence to the President of the Portuguese Republic Marcelo Rebelo de Sousa at the historic Belém Palace in Lisbon on 8 January.
-
-The presentation of credentials was followed by a brief conversation with President de Sousa in which the Ambassador conveyed the warm greetings and best wishes of President Ranil Wickremesinghe to the Portuguese Head of State who reciprocated the sentiments.
-
-Following the Credentials ceremony, President de Sousa hosted resident and non-resident Ambassadors accredited to Portugal to a traditional New Year Greetings Dinner at the Ajuda National Palace on Tuesday 9 January. The Ambassador also attended a luncheon for non-resident ambassadors to Portugal hosted by the Minister of Foreign Affairs of Portugal João Gomes Cravinho at the Foreign Ministry the same day.
-
-...
-
-[Data](articles/f36a6ce1.json)
-
-[Extended Data](ext_articles/f36a6ce1.ext.json)
-
----
-
-### Kudos for Sri Lanka in US for ratifying Treaty on Prohibition of Nuclear Weapons
-
-*2024-01-27 00:31:52* · [`dailyftlk`](https://www.ft.lk/news/Kudos-for-Sri-Lanka-in-US-for-ratifying-Treaty-on-Prohibition-of-Nuclear-Weapons/56-757816) · `en`
-
-Chesapeake Physicians for Social Responsibility (CPSR) President Dr. Gwen L. DuBois MD, MPH, and a CPSR representative visited the Embassy of Sri Lanka in Washington D.C. on 24 January to present a certificate of recognition to the Government of Sri Lanka for its commitment towards the UN Treaty on the Prohibition of Nuclear Weapons (TPNW).
-
-The President of CPSR, representing CPSR and Prevent Nuclear war-Maryland extended their gratitude towards Sri Lanka for being the 69th nation to ratify the treaty which coincided with the third anniversary of the treaty entering into effect.
-
-The CPSR is a local chapter of Physicians for Social Responsibility (PSR) in the State of Maryland. The PSR is the US affiliate of International Physicians for the Prevention of Nuclear War (IPPNW) which won the Nobel Peace Prize in 1985.
-
-◼️
-
-[Data](articles/a73e8e04.json)
-
-[Extended Data](ext_articles/a73e8e04.ext.json)
-
----
-
-### Australian High Commissioner hosts Australia Day 2024
-
-*2024-01-27 00:30:18* · [`dailyftlk`](https://www.ft.lk/news/Australian-High-Commissioner-hosts-Australia-Day-2024/56-757815) · `en`
-
-The Australian High Commissioner to Sri Lanka Paul Stephens hosted a reception to celebrate Australia Day 2024 on 24 January.
-
-Ports, Shipping and Aviation Minister Nimal Siripala de Silva joined the reception as the Chief Guest.
-
-Australia Day is an opportunity for Australians to come together and celebrate our modern, multicultural nation. Following Australia’s recent victory in the World Cup, this year’s Australia Day reception was used to highlight the passion Australians and Sri Lankans share for the game of cricket.
-
-The event also showcased our longstanding bilateral ties that encompass many sectors such as trade and investment, education, maritime cooperation, culture and sport.
-
-◼️
-
-[Data](articles/58aeb7f9.json)
-
-[Extended Data](ext_articles/58aeb7f9.ext.json)
 
 ---

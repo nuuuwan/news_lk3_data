@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 22:17:05**
+As of **2024-01-27 22:32:55**
 
 ## Newspaper Stats
 
-*Scraped **2,945** Articles*
+*Scraped **2,948** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,72 @@ adalk | 268
 adaderanasinhalalk | 287
 virakesarilk | 305
 tamilmirrorlk | 373
-adaderanalk | 377
+adaderanalk | 380
 dailymirrorlk | 405
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,944 (100.0%) of 2,945 articles have been extended.
+2,945 (99.9%) of 2,948 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### දක්ෂිණ අධිවේගී මාර්ගයේ ලොරියක් පෙරළෙයි
+### ‘New Alliance’ kicks off inaugural rally
+
+*2024-01-27 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96780/new-alliance-kicks-off-inaugural-rally) · `en`
+
+A new coalition named ‘New Alliance’, founded by MP Nimal Lanza, held its inaugural public rally in Ja-Ela on Saturday (Jan.27).
+
+Addressing the event, the parliamentarian vowed to form a new alliance by amalgamating the political parties with the highest number of members representing the parliament.
+
+‘New Alliance’ will back incumbent Ranil Wickremesinghe in the upcoming Presidential Election.
+
+MP Anura Priyadarshana Yapa serves as the operational leader of the coalition.
+
+The inaugural rally was joined by Ministers Nalin Fernando and Susil Premajayantha and MP Priyankara Jayaratne.
+
+◼️
+
+[Data](articles/4ca4fdb6.json)
+
+---
+
+### A lorry rolling on the Southern Expressway
 
 *2024-01-27 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192637) · `si`
 
-දක්ෂිණ අධිවේගී මාර්ගයේ ගමන් ගත් ලොරි රථයක් පෙරළී අනතුරක් සිදුවී තිබේ.
+A lorry rolling on the Southern Expressway, a crash has reached.
 
-දක්ෂිණ අධිවේගී මාර්ගයේ 118 කිලෝමීටර් කණුව ආසන්නයේදී මෙම අනතුර සිදුවී ඇත.
+The accident occurred near the 118 kilometer post on the Southern Expressway.
 
-අනතුර හේතුවෙන් මාතර සිට කොළඹ බලා ධාවනය වන වාහනවලට බාධා එල්ලවී තිබේ.
+Vehicles traveling from Matara to Colombo has been hindered.
 
-ඒ හේතුවෙන් කොළඹ දෙසට ගමන් ගන්නා රථ වාහන ගොඩගමින් පිටවී කොක්මාදූව හරහා යළි අධිවේගී මාර්ගයට පිවිසෙන ලෙස දැනුම්දී ඇත.
+As a result, vehicles traveling towards Colombo has been informed to be back on the Expressway through the Cocomet.
 
 ◼️
 
 [Data](articles/64ad5f4e.json)
+
+[Extended Data](ext_articles/64ad5f4e.ext.json)
+
+---
+
+### Lorry topples on Southern Expressway, disrupting traffic
+
+*2024-01-27 21:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96779/lorry-topples-on-southern-expressway-disrupting-traffic) · `en`
+
+Vehicular movement on the Southern Expressway towards Colombo has been disrupted by a toppled lorry, Ada Derana correspondent says.
+
+The incident took place between the Godagama and Kokmaduwa interchanges a short while ago.
+
+Accordingly, motorists heading to Colombo are urged to use the Kokmaduwa interchange until the stretch of the road is cleared and vehicular movement is restored.
+
+◼️
+
+[Data](articles/46457999.json)
 
 ---
 
@@ -65,6 +103,18 @@ He is a 30 year old and arrested in the Ratgama area in Galle.
 [Data](articles/cfad27c5.json)
 
 [Extended Data](ext_articles/cfad27c5.ext.json)
+
+---
+
+### Fourth suspect arrested over Beliatta mass shooting
+
+*2024-01-27 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96778/fourth-suspect-arrested-over-beliatta-mass-shooting-) · `en`
+
+A 30-year-old was arrested on Friday (Jan.27) on suspicion of taking possession of the firearms after they were used in the mass shooting in Beliatta.
+
+◼️
+
+[Data](articles/f706c1a6.json)
 
 ---
 
@@ -2005,61 +2055,5 @@ Showers or thundershowers will occur at several places in the Central, Sabaragam
 [Data](articles/fc82ac9e.json)
 
 [Extended Data](ext_articles/fc82ac9e.ext.json)
-
----
-
-### Sri Lanka eyes 3,007MW of floating solar power
-
-*2024-01-27 06:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-eyes-3007mw-of-floating-solar-power-148831/) · `en`
-
-ECONOMYNEXT – Sri Lanka has identified locations in 31 reservoirs which can be used to built 3,077 MegaWatts of floating solar plants, Irrigation Minister Sashindra Rajapsksa has said.
-
-Floating solar plants totaling 2,534 Mega Watts could be built on 14 reservoirs belonging to Sri Lanka Mahaweli Authority, a statement from President’s media office quoted Minister Rajapaksa as saying at a briefing.
-
-Another 553 MW of solar plants are planned on 17 reservoirs belonging o the Department of Irrigation.
-
-RELATEDSri Lanka’s ACE Embilipitiya, ACE Matara power contracts to expire in Feb 24
-
-A 120MW hydro power plant at Uma Oya will be opened on February 15. (Colombo/Jan26/2024)
-
-◼️
-
-[Data](articles/cb3eb892.json)
-
-[Extended Data](ext_articles/cb3eb892.ext.json)
-
----
-
-### Youth killed in accident
-
-*2024-01-27 03:10:24* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புதுக்குடியிருப்பு-விபத்தில்-இளைஞன்-பலி/175-332164) · `ta`
-
-A 28 -year -old youth from Vallipunam area has died in a collision with a plowing machine and a small strap.
-
-The youth who was traveling in a traveler in a patta vehicle last night was injured in the accident and was admitted to the Pudukkudiyiruppu Resource Hospital and died without treatment.
-
-◼️
-
-[Data](articles/1754528a.json)
-
-[Extended Data](ext_articles/1754528a.ext.json)
-
----
-
-### Release of 12 Indian fishermen
-
-*2024-01-27 03:04:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-இந்திய-மீனவர்கள்-விடுதலை/175-332163) · `ta`
-
-12 Indian fishermen arrested on charges of fishing across the Sri Lankan waters have been released yesterday.
-
-12 Indian fishermen in Jaffna. District Fisheries Department officials highlighted.
-
-The magistrate has ordered the three allegations filed against the fishermen and sentenced to six months in prison for five years.. (A)
-
-◼️
-
-[Data](articles/ba771589.json)
-
-[Extended Data](ext_articles/ba771589.ext.json)
 
 ---

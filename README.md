@@ -1,36 +1,76 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 09:32:43**
+As of **2024-01-27 09:50:50**
 
 ## Newspaper Stats
 
-*Scraped **2,855** Articles*
+*Scraped **2,858** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 40
 bbccomsinhala | 53
 dbsjeyarajcom | 124
-islandlk | 158
 newsfirstlk | 159
+islandlk | 159
 economynextcom | 168
 dailyftlk | 215
 adaderanasinhalalk | 264
 adalk | 265
 virakesarilk | 300
 tamilmirrorlk | 356
-adaderanalk | 359
+adaderanalk | 361
 dailymirrorlk | 394
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,855 (100.0%) of 2,855 articles have been extended.
+2,858 (100.0%) of 2,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### EC informed of MP seat left vacant after Sanath Nishantha’s death
+
+*2024-01-27 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96761/ec-informed-of-mp-seat-left-vacant-after-sanath-nishanthas-death) · `en`
+
+The Parliament has informed the Election Commission of the MP seat left vacant following the demise of State Minister Sanath Nishantha, who represented the Puttalam constituency.
+
+This was communicated in writing to the election body’s chairman on Friday (Jan.26).
+
+The Deputy Secretary General of Parliament has further mentioned that the notification was made in terms of Section 64(1) of the Parliamentary Elections Act No. 1 of 1981.
+
+State Minister Sanath Nishantha, 48, was killed in a fatal accident that took place on the Colombo - Katunayake expressway around 2:00 a.m. on Thursday (Jan.25). The car had crashed into the roadside barrier before rear-ending a moving container truck.
+
+Shortly after the collision, three critically injured people – State Minister Nishantha, his security officer and the driver – had been rushed to the Colombo North Teaching Hospital in Ragama. But the lawmaker and the security officer, a police constable named Jayakody had succumbed to injuries.
+
+...
+
+[Data](articles/3540b5c5.json)
+
+[Extended Data](ext_articles/3540b5c5.ext.json)
+
+---
+
+### 818 more suspects arrested under ongoing ‘Yukthiya’ operation
+
+*2024-01-27 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96760/818-more-suspects-arrested-under-ongoing-yukthiya-operation) · `en`
+
+A total of 818 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.27) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+The police have secured detention orders on one arrestee for onward investigations, and sent 8 others to rehabilitation centres.
+
+Ministry of Public Security said the narcotics impounded during this 24-hour window include 159g of heroin, 112g of crystal methamphetamine (‘Ice’), and 329 narcotic pills.
+
+◼️
+
+[Data](articles/f2cc4685.json)
+
+[Extended Data](ext_articles/f2cc4685.ext.json)
+
+---
 
 ### Decision of arrested drugs
 
@@ -1973,33 +2013,5 @@ He then went to Nawalapitiya area for personal work and returned home at 4 pm an
 [Data](articles/9900b5e7.json)
 
 [Extended Data](ext_articles/9900b5e7.ext.json)
-
----
-
-### Paying last respects
-
-*2024-01-26 14:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Paying-last-respects/110-275776) · `en`
-
-Several Ministers and MPs including former President Mahinda Rajapaksa paying their last respects to State Minister Sanath Nishantha while his remains lie in state at a private funeral parlour in Borella. The remains will be taken to Arachchikattuwa today for the last rites to be held on Sunday. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/cb251698.json)
-
-[Extended Data](ext_articles/cb251698.ext.json)
-
----
-
-### Paying last respect
-
-*2024-01-26 14:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Paying-last-respect/110-275776) · `en`
-
-Several Ministers and MPs including former President Mahinda Rajapaksa paying their last respects to State Minister Sanath Nishantha while his remains lie in state at a private funeral parlour in Borella. The remains will be taken to Arachchikattuwa today for the last rites to be held on Sunday. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/f42c8fbf.json)
-
-[Extended Data](ext_articles/f42c8fbf.ext.json)
 
 ---

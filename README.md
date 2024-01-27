@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 13:51:07**
+As of **2024-01-27 14:02:15**
 
 ## Newspaper Stats
 
@@ -26,43 +26,53 @@ dailymirrorlk | 400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,905 (99.9%) of 2,907 articles have been extended.
+2,907 (100.0%) of 2,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### භික්ෂු වෙසින් සිටි වරෙන්තු 09ක් ලැබූ පුද්ගලයෙකු අත්අඩංගුවට
+### Man arrested for nine warrants
 
 *2024-01-27 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192621) · `si`
 
-ව්‍යාජ රන් භාණ්ඩ බැංකුවල උකස් තැබීම සහ විවිධ චෝදනා සම්බන්ධයෙන් වරෙන්තු 19ක් ලැබ සිටි පුද්ගලයෙකු භික්ෂුවක් ලෙස පෙනී සිටිය දී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන තිබේ.
+The Criminal Investigations Department (CID) has been arrested by the Criminal Investigations Department at a monks who had been in charge of fake gold items and 19 warrants.
 
-භික්ෂුව ලෙස පෙනී සිටි පුද්ගලයා රැඳී සිට තිබුණේ, අවිස්සාවේල්ල ප්‍රදේශයේ භාවනා මධ්‍යස්ථානයක ය.
+The person who appeared as a monk was at a meditation center in Avissawella.
 
-2003, 2004 යන කාලසීමාවල දී රන් ආලේපිත ව්‍යාජ රත්‍රං ආභරණ සකසා පෞද්ගලික බැංකුවක ශාඛා 24ක උකස් තබා රුපියල් ලක්ෂ 50ක පමණ මූල්‍ය වංචා සිදු කළ ජයම්පති අලුවිහාරේ නැමැති පුද්ගලයෙකු සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ලැබී තිබිණි.
+In 2003, 2004, a gold plated riding jewelry had a complaint with a person named Aluwiharare, a private bank. Aluwiharare.
 
-අදාළ පෞද්ගලික බැංකුවෙන් පැමිණිල්ල සිදු කර තිබූ අතර, ඒ අනුව සැකකරු අත්අඩංගුවට ගැනීම සඳහා විමර්ශන කණ්ඩායම් යොදවා තිබුණත් මොහු පිළිබඳ 2008 වර්ෂයේ සිට කිසිදු තොරතුරක් ලැබී නොතිබිණි.
+The complaint has been lodged with the relevant private bank, accordingly, has not received any information since 2008.
 
-සැකකරු මහාධිකරණ වරෙන්තු 12ක්, මහේස්ත්‍රාත් අධිකරණ වරෙන්තු 07ක් සහ විභාග වෙමින් පැවති නඩු 04ක් සම්බන්ධ ව අධිකරණයෙන් වරදකරු කර සිටි අයෙකි.
+The suspect is a person who was convicted of the Court of Court regarding 12 magistrate warrants, seven magistrate jurisdictors and four trips.
+
+It was then another group of people including the party and a group of LTTE cadres to investigate the missing suspect in 2008.
+
+Investigations have revealed that the suspect appeared as an ordained monk at Avissawella area.
+
+The suspect was present in 2008 as Maharagama Ratana Thera in 2008, since then he appeared at the meditation center.
 
 ...
 
 [Data](articles/0e928bd6.json)
 
+[Extended Data](ext_articles/0e928bd6.ext.json)
+
 ---
 
-### කොළඹ නගරයේ විශේෂ රථ වාහන සැලසුමක්
+### Special traffic plan in Colombo
 
 *2024-01-27 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192620) · `si`
 
-76 වැනි නිදහස් දින සැමරුම වෙනුවෙන් ලබන 29 වැනි දා සිට පෙබරවාරි 02 වැනි දා දක්වා කොළඹ නගරයේ විශේෂ රථ වාහන සැලැස්මක් ක්‍රියාත්මක කරන බව රථ වාහන පොලීසිය නිවේදනය කරයි.
+The vehicle police announced that a special traffic plan in Colombo will be implemented from the 29th to February 29th to February 29th.
 
-අද (27) පොලිස් මාධ්‍ය කොට්ඨාසයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් රථවාහන දිශාව භාර නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා මේ බව සඳහන් කළේ ය.
+Speaking to a press conference held in the Police Media Division in the Police Media Division, DIG Indika Hapugoda was speaking.
 
 ◼️
 
 [Data](articles/027eb806.json)
+
+[Extended Data](ext_articles/027eb806.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 17:17:11**
+As of **2024-01-27 17:32:57**
 
 ## Newspaper Stats
 
-*Scraped **2,925** Articles*
+*Scraped **2,926** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
 adalk | 268
-adaderanasinhalalk | 278
+adaderanasinhalalk | 279
 virakesarilk | 305
 adaderanalk | 371
 tamilmirrorlk | 371
@@ -26,11 +26,27 @@ dailymirrorlk | 402
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,925 (100.0%) of 2,925 articles have been extended.
+2,925 (100.0%) of 2,926 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### 74 හැවිරිදි කාන්තාවක් සැකසහිත ලෙස මරුට
+
+*2024-01-27 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192629) · `si`
+
+සැකසහිත ලෙස මියගිය 74 හැවිරිදි කාන්තාවක් සම්බන්ධයෙන් සිදුකළ පශ්චාත් මරණ පරීක්ෂණයේදී ඇය ලිංගික අපයෝජනයකට ලක්වී ඇති බව හෙළිවී ඇත.
+
+නිවසක තනිව ජීවත්වූ 74 හැවිරිදි අදාළ කාන්තාව පසුගියදා සිය නිවස තුළ සිහිසුන්ව වැටී සිටියදී අසල්වාසීන් විසින් රෝහල්ගත කර තිබුණි.
+
+එහිදී සිදුකළ පශ්චාත් මරණ පරීක්ෂණයේදී අනාවරන වී ඇත්තේ ඇය එලෙස ලිංගික අපයෝජනයකට ලක්වී ඇති බවය.
+
+◼️
+
+[Data](articles/bf63ba87.json)
+
+---
 
 ### Grama Niladhari Examination results released
 
@@ -2027,23 +2043,5 @@ Against this backdrop, there is a clear need for economic transformation and tra
 [Data](articles/c94cce15.json)
 
 [Extended Data](ext_articles/c94cce15.ext.json)
-
----
-
-### Sri Lanka scales up preventive healthcare with impressive results
-
-*2024-01-26 23:45:11* · [`dailyftlk`](https://www.ft.lk/columns/Sri-Lanka-scales-up-preventive-healthcare-with-impressive-results/4-757808) · `en`
-
-The Kopay Divisional Hospital in the Jaffna District in northern Sri Lanka is one of the primary medical care institutions in the country – Photo: World Bank/Chameera Laknath
-
-A recent visit to Sri Lanka took me to the Kopay Divisional Hospital in the Jaffna District in the northern part of the country. For the close to 16,000 people living in the area, this hospital serves as the first point of care. It is also one of the primary medical care institutions that is part of Sri Lanka’s primary healthcare reorganisation strategy, implemented with support from the World Bank.
-
-What impressed me the most about the hospital is its investment in preventive care and the shift in approach from episodic to continued care, which has been successfully introduced over the last few years. Now, patients are routinely screened for noncommunicable diseases, including diabetes and cardiovascular diseases, and connected to appropriate treatments.
-
-...
-
-[Data](articles/6eb7d0f8.json)
-
-[Extended Data](ext_articles/6eb7d0f8.ext.json)
 
 ---

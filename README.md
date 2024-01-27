@@ -1,36 +1,168 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 07:51:23**
+As of **2024-01-27 08:02:30**
 
 ## Newspaper Stats
 
-*Scraped **2,841** Articles*
+*Scraped **2,847** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 40
 bbccomsinhala | 53
 dbsjeyarajcom | 124
-newsfirstlk | 155
 islandlk | 158
+newsfirstlk | 159
 economynextcom | 168
 dailyftlk | 215
 adaderanasinhalalk | 258
 adalk | 265
 virakesarilk | 300
 tamilmirrorlk | 355
-adaderanalk | 357
+adaderanalk | 359
 dailymirrorlk | 393
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,841 (100.0%) of 2,841 articles have been extended.
+2,841 (99.8%) of 2,847 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### Bereaved family of Sanath Nishantha’s security officer receives Rs. 1.5mn
+
+*2024-01-27 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96759/bereaved-family-of-sanath-nishanthas-security-officer-receives-rs-15mn) · `en`
+
+Sri Lanka Police has provided a cash donation of Rs. 1.5 million to the bereaved family of the Police Constable, who died while on duty in the tragic crash along with State Minister Sanath Nishantha.
+
+The money was handed over to the family members by the Acting Inspector-General of Police (IGP) Deshabandu Tennakoon.
+
+Additionally, Police Constable Anuradha Jayakody, who was attached to the Ministerial Security Division (MSD), has been posthumously promoted to the rank of Sergeant.
+
+Following the fatal collision that took place around 2:00 a.m. on January 25 on the Colombo - Katunayake expressway, three injured people including State Minister Nishantha had been rushed to the Colombo North Teaching Hospital in Ragama. But, two of them – the lawmaker and his security officer – had succumbed to their injuries.
+
+At the time of the accident, the group had been returning from a wedding ceremony held at a hotel in Bandarawatta, Chilaw the previous night.
+
+◼️
+
+[Data](articles/572b8fce.json)
+
+---
+
+### Woman Remanded for Canadian Job Fraud Spree
+
+*2024-01-27 07:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/woman-remanded-for-canadian-job-fraud-spree/) · `en`
+
+COLOMBO (News 1st); A woman was apprehended by the Sri Lankan Bureau of Foreign Employment for allegedly defrauding over Rs. 60 Million from individuals seeking overseas employment, primarily in Canada.
+
+The accused, a 37-year-old resident of Kudaedanda Road, Wattala, reportedly targeted a wide range of victims, including bank officers, lawyers, and other professionals, across the island nation.
+
+The woman allegedly took money from job seekers, promising them secure employment opportunities in Canada.
+
+However, upon failing to deliver on her promises, she left her victims empty-handed and financially distraught. This led to a fish trader from Peliyagoda lodging a complaint with the SLBFE, prompting an investigation.
+
+Based on initial investigations and 16 confirmed complaints, the Sri Lankan Bureau of Foreign Employment estimates the accused's fraudulent activities to exceed Rs. 60 Million.
+
+...
+
+[Data](articles/0675beea.json)
+
+---
+
+### Smugglers Remanded after Heroin Bust At Sea
+
+*2024-01-27 07:21:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/smugglers-remanded-after-heroin-bust-at-sea/) · `en`
+
+COLOMBO (News 1st); The eleven suspects who were arrested on the high seas off the southern coast of Sri Lanka for transporting heroin were remanded until February 6th after being presented to the Fort Magistrate Court.
+
+The Sri Lanka Navy on 20th January 2024 seized a local multi-day fishing trawler carrying over 65kg of heroin, and another multi-day fishing trawler suspected of assisting it, during a special operation carried out about 100 nautical miles off the Dondra Head, in southern waters.
+
+Subsequent search led to the recovery of 03 sacks stuffed with heroin weighing more than 65kg and 076g, intending to be smuggled into the country.
+
+The street value of the seized heroin is believed to be more than Rs. 1626 million.
+
+13 Detainees Still on the Run After Kandakadu Rehabilitation Center Escape
+
+Wickremesinghe to Present Policy Statement as Parliament Resumes Feb. 7th
+
+Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
+
+◼️
+
+[Data](articles/39f267b6.json)
+
+---
+
+### 13 Detainees Still on the Run After Kandakadu Rehabilitation Center Escape
+
+*2024-01-27 07:18:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/13-detainees-still-on-the-run-after-kandakadu-rehabilitation-center-escape/) · `en`
+
+COLOMBO (News 1st); 34 of the 47 inmates who fled from the Kandakadu Treatment and Rehabilitation Centre and were later arrested by Sri Lanka Police have been remanded after appearing before the Polonnaruwa Magistrate's Court.
+
+The escape occurred after a clash between two inmate groups within the facility.
+
+Retired Major General Darshana Hettiarachchi, Commissioner General of Rehabilitation, confirmed that two of the three inmates injured in the conflict are receiving treatment at the Welikanda Hospital.
+
+With 34 escapees recaptured, the hunt continues for the remaining thirteen individuals still at large.
+
+The Kandakadu Rehabilitation Center houses individuals undergoing rehabilitation for various offenses.
+
+Commissioner General Hettiarachchi emphasized that those apprehended during the "Yukthiya Operation" were sent for rehabilitation.
+
+Despite the recent escape attempt, the Kandakadu Rehabilitation Center remains operational with 358 individuals currently residing there.
+
+...
+
+[Data](articles/52b5cf32.json)
+
+---
+
+### Thundershowers, fairly strong winds anticipated in parts of the island today
+
+*2024-01-27 07:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96758/thundershowers-fairly-strong-winds-anticipated-in-parts-of-the-island-today) · `en`
+
+The Department of Meteorology says showers or thundershowers are likely in parts of the Northern, North-central, Eastern and Uva provinces today (Jan.27).
+
+Fairly strong winds of about 40 kmph can be expected at times over the North-central, Eastern, Central, Uva and Northwestern provinces.
+
+Meanwhile, ground frost is possible at some places in Nuwara-Eliya district during the early hours of the day.
+
+Showers or thundershowers may occur in parts of Central, Sabaragamuwa and Western provinces and Galle and Matara districts after 2.00 p.m.
+
+Showers or thundershowers may occur at several places in the sea areas off the coast extending from Trincomalee to Hambantota via Batticaloa.
+
+Winds will be north-easterly and wind speed will be 30-40 kmph.
+
+Wind speed may increase up to 50-60 kmph at times in the sea areas off the coasts extending from Colombo to Hambantota via Puttalam, Kankesanturai, Trincomalee and Pottuvil.
+
+...
+
+[Data](articles/8805fa2a.json)
+
+---
+
+### Wickremesinghe to Present Policy Statement as Parliament Resumes Feb. 7th
+
+*2024-01-27 07:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/wickremesinghe-to-present-policy-statement-as-parliament-resumes-feb-7th/) · `en`
+
+COLOMBO (News 1st); Sri Lankan President Ranil Wickremesinghe is expected to deliver the Government's Policy Statement on the 7th of February, commencing the fifth session of the ninth parliament.
+
+According to the Sri Lanka Parliament, the fifth session of the Ninth Parliament will commence on February 07 at 10.30 am.
+
+President Ranil Wickremesinghe prorogued the Parliament in accordance with the powers vested in him with Article 70 (1) of the Constitution with effect from midnight on 26th January.
+
+Following the end of one session of Parliament and a new session commences, the President has the opportunity to ceremonially declare open the Parliament and preside over to present the Government's Policy Statement.
+
+When the Parliament is prorogued, the questions and motions that have not been considered by the Parliament until then will be abolished, and the Members of Parliament thus have to take it up again in accordance with the standing orders.
+
+...
+
+[Data](articles/029833b3.json)
+
+---
 
 ### Litro offered profit to the Treasury
 
@@ -1762,13 +1894,11 @@ Colombo Municipal Commissioner Badrani Jayawardena says that Rs. 1 billion of th
 
 She adds that steps have also been taken to offer a discount to people who pay their assessment tax early in the year.
 
+13 Detainees Still on the Run After Kandakadu Rehabilitation Center Escape
+
+Wickremesinghe to Present Policy Statement as Parliament Resumes Feb. 7th
+
 Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
-
-Austrian citizen dies and two others injured in an accident in the expressway
-
-Several government-owned buildings to be handed over to private sector under lease
-
-Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
 ◼️
 
@@ -1788,13 +1918,11 @@ The five-judge bench comprises Chief Justice Jayantha Jayasuriya, Vijith Malalgo
 
 The petitions argue that certain clauses of the proposed bill violate basic human rights and call for a two-thirds majority vote in Parliament and a referendum before the bill can be passed.
 
+13 Detainees Still on the Run After Kandakadu Rehabilitation Center Escape
+
+Wickremesinghe to Present Policy Statement as Parliament Resumes Feb. 7th
+
 Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
-
-Austrian citizen dies and two others injured in an accident in the expressway
-
-Several government-owned buildings to be handed over to private sector under lease
-
-Face to Face | Ravi Karunanayake | Operation Successful, patient dead
 
 ◼️
 
@@ -1875,133 +2003,5 @@ The body of the deceased has been placed at the Mullaitivu Hospital morgue and t
 [Data](articles/979b44c0.json)
 
 [Extended Data](ext_articles/979b44c0.ext.json)
-
----
-
-### President's notification for an IMF conference
-
-*2024-01-26 14:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192586) · `si`
-
-President Ranil Wickremesinghe requested political parties to join the International Monetary Fund if there were alternative proposals.
-
-He added that he is ready to invite Mrs. Christenda to visit Sri Lanka to a critical discussion.
-
-The President was speaking at a function held at the Customs Headquarters in Colombo after celebrating international customs date.
-
-◼️
-
-[Data](articles/cd0f3c18.json)
-
-[Extended Data](ext_articles/cd0f3c18.ext.json)
-
----
-
-### Sharp weapons attack on the flower hall
-
-*2024-01-26 14:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192585) · `si`
-
-A five-member gang of five cooled into the Cooperative Flower of Kahathuduwa has been attacked with a sharp instrument.
-
-The Kahathuduwa police stated that the suspects had fled after the attack.
-
-The 24-year-old worker was admitted to the Homagama Base Hospital for treatment.
-
-The suspects who had broken the inside of a box in a box to delay the inside of a box to delay the inside of a box in a box in a box.
-
-◼️
-
-[Data](articles/ada3e109.json)
-
-[Extended Data](ext_articles/ada3e109.ext.json)
-
----
-
-### Sri Lanka’s Regnis and Singer Industries shares cease trading
-
-*2024-01-26 13:50:00* · [`economynextcom`](https://economynext.com/sri-lankas-regnis-and-singer-industries-shares-cease-trading-148764/) · `en`
-
-ECONOMYNEXT – Trading the shares of Regnis (Lanka) Plc and Singer Industries (Ceylon) Plc was suspended from today (26), the companies said in a stock exchange filing.
-
-The two companies will merge with parent company Singer (Sri Lanka) Plc.
-
-“Following the approval of the shareholders being obtained for the amalgamation of Singer Industries (Ceylon) Plc and Regnis (Lanka) Plc with Singer (Sri Lanka) Plc, trading in the shares … will be suspended from 26th January 2024 onwards.”
-
-The three companies all belong to bigger conglomerate – Hayleys Group.
-
-◼️
-
-[Data](articles/1723efdc.json)
-
-[Extended Data](ext_articles/1723efdc.ext.json)
-
----
-
-### Saudi Arabia to get first alcohol shop in more than 70 years
-
-*2024-01-26 13:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96744/saudi-arabia-to-get-first-alcohol-shop-in-more-than-70-years) · `en`
-
-Saudi Arabia has said it will open a shop in Riyadh selling alcohol to a select band of non-Muslim expats, the first to open in more than 70 years.
-
-The clientele will be limited to diplomatic staff, who have for years imported booze in sealed official packages known as diplomatic pouches.
-
-Saudi officials said the shop would counter “the illicit trade of alcohol”.
-
-Prohibition has been law since 1952, after one of King Abdulaziz’s sons drunkenly shot dead a British diplomat.
-
-The new store will be located in Riyadh’s Diplomatic Quarter west of the city centre, according to a document seen by the AFP and Reuters news agencies.
-
-A source familiar with the plans told Reuters the shop was expected to open within weeks. There will be limitations, however:
-
-• Thirsty envoys would need to register beforehand and receive clearance by the government
-
-• No one under 21 will be allowed in the store and “proper attire is required” at all times inside
-
-• Drinkers will not be able to send a proxy, such as a driver
-
-...
-
-[Data](articles/4b720333.json)
-
-[Extended Data](ext_articles/4b720333.ext.json)
-
----
-
-### Ranil nor parliament is not a decision on the presidential election - Rilvin Silva
-
-*2024-01-26 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174841) · `ta`
-
-The General Secretary of the Janatha Vimukthi Peramuna (JVP) at the Kalutara District Fisheries Conference said that the Director General of the Election Commission's Office had twice that no one should decide to decide.
-
-The Election Commission has the full authority to hold the presidential election. Therefore, the presidential election will be held between September 17 and October 17 this year.. There is no doubt in it.
-
-There is no doubt that the national People's Power candidate will win the next presidential election. We do not need this parliament after we become president.Therefore, this country should be dissolved and established a new parliament.
-
-We think the first presidential election will be held first. The support of the majority of the people in the next presidential election is nothing but the national power of the people.
-
-...
-
-[Data](articles/7c1836d5.json)
-
-[Extended Data](ext_articles/7c1836d5.ext.json)
-
----
-
-### Sri Lanka’s ACE Embilipitiya, ACE Matara power contracts to expire in Feb 24
-
-*2024-01-26 13:20:00* · [`economynextcom`](https://economynext.com/sri-lankas-ace-embilipitiya-ace-matara-power-contracts-to-expire-in-feb-24-148759/) · `en`
-
-ECONOMYNEXT – Two thermal plants owned by Sri Lanka’s Aitken Spence group will drop from the national grid from February 2024 as their power purchase agreements expire, according to a tariff filing by state-run Ceylon Electricity Board.
-
-ACE Matara has a capacity of 23 Mega Watts and ACE Embilipitiya 100 MW.
-
-A 100 megawatt high sulfur fuel oil plant taken on a supplementary basis will continue.
-
-A 120 MW Uma Oya hydro power plant will be added in 2024 as is the open cycle (gas turbine) section of an LNG capable combined cycle known as Sobadanavi. (Colombo/Jan26/2024)
-
-◼️
-
-[Data](articles/7aac838b.json)
-
-[Extended Data](ext_articles/7aac838b.ext.json)
 
 ---

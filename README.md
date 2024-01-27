@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 02:17:02**
+As of **2024-01-28 02:32:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,957 (100.0%) of 2,958 articles have been extended.
+2,958 (100.0%) of 2,958 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -812,19 +812,21 @@ The Bingiriya Police have commenced investigations to arrest the suspects.
 
 ---
 
-### චමරිට කාන්තා අයි.පී.එල්. තරගාවලියේ දොර ඇරෙයි
+### Chamari Women's IPL. The tournament opens
 
 *2024-01-27 14:48:17* · [`adalk`](https://www.ada.lk/sports/චමරිට-කාන්තා-අයි-පී-එල්--තරගාවලියේ-දොර-ඇරෙයි/9-407743) · `si`
 
-ඉන්දීය ප්‍රිමියර් ලීග තරගාවලියේ කාන්තා තරගාවලිය සඳහා ශ්‍රී ලංකා කාන්තා ක්‍රිකට් නායිකා චමරි අතපත්තුව කැඳවා තිබේ. උත්තර ප්‍ර දේශ් ‌වොරියරස් කණ්ඩායම නියෝජනය කළ ලෝරන් බෙල් වෙනුවට මෙසේ චමරි අතපත්තු කැඳවා තිබේ. අතපත්තු ඇයගේ මූලික මිල වන ඉන්දීය රුපියල් ලක්ෂ 30 (ඇමරිකානු ඩොලර් 36,000 පමණ) වටිනායකමට කණ්ඩායම සමගින් ගිවිසුම් ගතව තිබේ
+Sri Lanka women's cricket leader Chamari Atapattu has been summoned for the women's tournament in the Indian Premier League. Chamari Atapattu has been summoned to laurene bel, who represented Uththassa Voriors. Atapattu has contracted her basic price of Rs.
 
-“මම කණ්ඩායමට මගේ උපරිමය ලබා දීමටත් ප්‍රධාන පුහුණුකරු ජෝන් ලුවිස් සහ නායිකා ඇලිසා හීලි සමඟ සමීපව කටයුතු කිරීමටත් මගේ කණ්ඩායමට කීර්තිමත් ශූරතාව ලබා ගැනීමට උදව් කිරීමටත් බලාපොරොත්තු වෙනවා,” අතපත්තු පැවසීය.
+"I hope to give my best to the team and help my team to help my team beyond the famous championship," Atapattu said.
 
-ශ්‍රී ලංකා නායක අතපත්තු WPL 2024 වෙන්දේසියේදී අලෙවි නොවීය. ඇය පසුගිය වසරේ විස්සයි20 තරග 16 කදී ලකුණු 470 ක් රැස්කරගෙන තිබේ.
+Sri Lanka Leader Atapattu WPL 2024 was not sold at auction. She scored 470 runs in 16 T20s last year.
 
 ◼️
 
 [Data](articles/8de45afc.json)
+
+[Extended Data](ext_articles/8de45afc.ext.json)
 
 ---
 

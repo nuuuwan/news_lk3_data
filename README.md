@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 15:32:47**
+As of **2024-01-27 15:50:44**
 
 ## Newspaper Stats
 
-*Scraped **2,912** Articles*
+*Scraped **2,915** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,56 @@ islandlk | 159
 economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
-adalk | 266
+adalk | 267
 adaderanasinhalalk | 274
 virakesarilk | 305
-adaderanalk | 368
-tamilmirrorlk | 369
+adaderanalk | 369
+tamilmirrorlk | 370
 dailymirrorlk | 400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,912 (100.0%) of 2,912 articles have been extended.
+2,912 (99.9%) of 2,915 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### கொழும்பில் விசேட போக்குவரத்து திட்டம்
+
+*2024-01-27 15:18:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-விசேட-போக்குவரத்து-திட்டம்/175-332177) · `ta`
+
+எதிர்வரும் சுதந்திர தின நிகழ்வுகளை முன்னிட்டு காலி வீதியின் ஒரு பகுதியில் விசேட போக்குவரத்து திட்டம் அமுல்படுத்தப்படவுள்ளது.
+
+இதன்படி, காலி வீதியின் கொள்ளுப்பிட்டி சந்தியில் இருந்து காலி முகத்திடலுக்கும், செராமிக் சந்தியிலிருந்து காலி முகத்திடலுக்கும் தற்காலிகமாக போக்குவரத்து தடைசெய்யப்பட்டுள்ளது.
+
+இதன்படி, பெப்ரவரி 04 ஆம் திகதி வரை குறிப்பிட்ட வீதிகளூடாக போக்குவரத்து தற்காலிகமாக தடைசெய்யப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/5fb9888b.json)
+
+---
+
+### Controversial new French immigration law promulgated by President Macron
+
+*2024-01-27 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96769/controversial-new-french-immigration-law-promulgated-by-president-macron) · `en`
+
+The administration of French President Emmanuel Macron published the formal text of a new immigration law in its Official Journal on Saturday, with the first instructions on applying the legislation already presented to officials.
+
+The law’s promulgation comes after France’s Constitutional Council censured 35 of its 86 articles, including contentious additions insisted on by the right, such as measures restricting access to social benefits and the introduction of immigration quotas.
+
+While the bill was seen as one of the signature reforms of Macron’s second term, some in his camp had baulked at the stricter version, with about a quarter of his allies in parliament voting against it or abstaining.
+
+The final text upheld by the council retains key elements initially desired by the government, with a large part of it dedicated to simplifying procedures for expelling delinquent foreigners -- one of the objectives of Interior Minister Gerard Darmanin.
+
+...
+
+[Data](articles/e51bc20a.json)
+
+---
 
 ### The twins found after 19 years
 
@@ -307,6 +341,20 @@ At the same time, the total sales price of vegetables that are being transported
 [Data](articles/d59fea9b.json)
 
 [Extended Data](ext_articles/d59fea9b.ext.json)
+
+---
+
+### කැනඩා රැකියා පෙන්වා කෝටි 6ක් වංචාකළ කත කොටුවෙයි
+
+*2024-01-27 11:59:05* · [`adalk`](https://www.ada.lk/breaking_news/කැනඩා-රැකියා-පෙන්වා-කෝටි-6ක්-වංචාකළ-කත-කොටුවෙයි/11-407741) · `si`
+
+කැනඩාවේ රැකියා ලබාදෙන බව පවසා රුපියල් කෝටි 6ට අධික මුදලක් වංචාකල කාන්තාවක් ශ්‍රි ලංකා විදේශ සේවා නියුක්ති කාර්යාංශයේ විශේෂ විමර්ශන අංශයේ නිළධාරීන් විසින් 2024.01.24 දින අත්අඩංගුවට ගෙන තිබේ.
+
+පෑලියගොඩ මාලු වෙළඳාමේ නිරතවන පුද්ගලයෙකු විසින් කැනඩාවේ රැකියාවක් ලබාගැනීම සඳහා වත්තල, කුඩා ඒදණ්ඩ පාර ප්‍රදේශයේ පදිංචි කාන්තාවකට රු.6,210,000.00 ක මුදලක් ලබාදී ඇති අතර, මෙම කාන්තාව විසින් වරින් වර කොටස් වශයෙන් මෙම මුදල් ලබාගෙන තිබේ. මුදල් ලබාදීමෙන් අනතුරුව රැකියාව ලබාදීමට නොහැකි බව මෙම කාන්තාව පැවසූ හෙයින් මුදල් ලබාදුන් පුද්ගලයා කාර්යාංශය වෙත පැමිණිලි කරන ලදී.
+
+...
+
+[Data](articles/4fe21a3f.json)
 
 ---
 
@@ -1967,55 +2015,5 @@ Earlier today, the police recorded a statement from the driver in question, who 
 [Data](articles/b001e345.json)
 
 [Extended Data](ext_articles/b001e345.ext.json)
-
----
-
-### Sanath Nishantha's driver remanded
-
-*2024-01-26 21:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192605) · `si`
-
-The driver of State Minister Sanath Nishantha has been remanded till 5th February.
-
-◼️
-
-[Data](articles/17bb56dc.json)
-
-[Extended Data](ext_articles/17bb56dc.ext.json)
-
----
-
-### Default of Rs.6Bn taxes by liquor manufacturing companies challenged in Court
-
-*2024-01-26 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Default-of-Rs-6Bn-taxes-by-liquor-manufacturing-companies-challenged-in-Court/108-275791) · `en`
-
-Colombo, Jan. 26 (Daily Mirror)- Seventeen social activists have filed a Fundamental Rights petition in the Supreme Court seeking an order directing the authorities to forthwith take steps to recover all arrears of tax due from all the liquor manufacturing companies.
-
-The Petitioners stated that by June 15, 2023, the amount of back taxes payable by the liquor manufacturing companies had increased to Rs.6,221 million.
-
-...
-
-[Data](articles/94c69869.json)
-
-[Extended Data](ext_articles/94c69869.ext.json)
-
----
-
-### Sri Lanka’s Online Safety Bill sparks geopolitical debate as Russia backs govt.
-
-*2024-01-26 20:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96754/sri-lankas-online-safety-bill-sparks-geopolitical-debate-as-russia-backs-govt) · `en`
-
-The controversial Online Safety Bill has sparked a geopolitical debate with the Russian Ambassador in Colombo Levan Dzhagaryan stating that regulations of the online sphere are solely a domestic issue of Sri Lanka, and that any interference in this internal issue by foreign powers is absolutely irrelevant and unacceptable.
-
-In a statement issued by the Russian Embassy in Colombo this morning (26), the Russian Ambassador in Colombo highlighted that Russia is currently following the developments pertaining to Sri Lanka’s Online Safety Bill, which was passed in the Parliament on Wednesday (24).
-
-Dzhagaryan added that Russia also takes notice of all comments and reactions both from the domestic political sphere and among the foreign powers accredited in Sri Lanka.
-
-The Russian Ambassador’s statement came hours after U.S. Ambassador in Colombo Julie Chung’s reaction to the Online Safety Bill yesterday (Jan. 25).
-
-...
-
-[Data](articles/3df5df1f.json)
-
-[Extended Data](ext_articles/3df5df1f.ext.json)
 
 ---

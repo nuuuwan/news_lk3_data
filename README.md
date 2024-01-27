@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 20:48:27**
+As of **2024-01-27 21:02:12**
 
 ## Newspaper Stats
 
@@ -26,51 +26,55 @@ dailymirrorlk | 404
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,937 (99.9%) of 2,941 articles have been extended.
+2,941 (100.0%) of 2,941 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### නව සන්ධානය ඇරඹෙයි
+### The New Alliance begins
 
 *2024-01-27 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192634) · `si`
 
-පාර්ලිමේන්තුව නියෝජනය කරන වැඩිම දේශපාලන පක්ෂ ගණනක වැඩිම මන්ත්‍රිවරුන් පිරිසක එකමුතුවෙන් නව සන්ධානයක් ගොඩනගන බව පාර්ලිමේන්තු මන්ත්‍රී නිමල් ලාන්සා මහතා පවසයි.
+MP Nimal Lansa says that the highest number of political parties representing Parliament will build a new alliance.
 
-නව සන්ධානය නම්වූ එකමුතුව අද (27) ජාඇල කේන්ද්‍ර කරගනිමින් පැවැත්වූ මංගල මහජන රැලියේදී ඔහු මේ බව සඳහන් කළේය.
+The New Alliance (UPFA) was nominated at the Mangala public rally held today (27).
 
-ඉදිරි ජනනාධිපතිවරණයේදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට සහාය පළ කරමින් නව සන්ධානයක් නිර්මාණය කිරීම වෙනුවන් ජනතාව දැනුවත් කිරීමේ ජන රැලියක් අද ජාඇල නගරයේදී මෙලෙස පැවැත්වුණි.
+The massive rally to educate the public in Geneala today, supporting President Ranil Wickremesinghe in the next reputation.
 
-එම සන්ධානයේ නිර්මාතෘවරයා ලෙස පාර්ලිමේන්තු මන්ත්‍රී නිමල් ලාන්සා මහතා කටයුතු කරන අතර එහි මෙහෙයුම් නායකයා ලෙස කටයුතු කරන්නේ පාර්ලිමේන්තු මන්ත්‍රී අනුර ප්‍රියදර්ශන යාපා මහතාය.
+MP Nimal Lansa is the founder of the UPFA and is the leader Anura Priyadarshana Yapa.
 
-මෙම රැලියට අමාත්‍ය නලීන් ප්‍රනාන්දු, අමාත්‍ය සුසිල් ප්‍රේම්ජයන්ත් සහ පාර්ලිමේන්තු මන්ත්‍රී ප්‍රියංකර ජයරත්න මහතා ඇතුළු පිරිසක් එක්වී සිටී.
+Minister Nalin Fernando, Minister Susil Premajans and MP Priyankara Jayaratne joined the rally.
 
 ◼️
 
 [Data](articles/fb7cde24.json)
 
+[Extended Data](ext_articles/fb7cde24.ext.json)
+
 ---
 
-### මුදල් වංචාවකට හිටපු නිලමේ අනියම් බිරිඳ සමග අත්අඩංගුවට
+### Former Nilame arrested with former Nilame
 
 *2024-01-27 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192633) · `si`
 
-වැඩි පොලියක් ලබාදෙන බව පවසා ගලෙන්බිඳුනුවැව ප්‍රදේශයේ ජනතාවගෙන් රුපියල් කෝටි 500ක් වංචා කිරීම සම්බන්ධයෙන් පුද්ගලයෙකු හා ඔහුගේ අනියම් බිරිඳ නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයේ ජාලගත වංචා විමර්ශන ඒකකය මගින් අත්අඩංගුවට ගෙන තිබේ.
+The UPFA, a person and his casualist Investigation Division has been arrested by the Illegal Fraud Division of the Illegal Asset Investigation Division.
 
-2021 වසරේදී වෙහෙරහේන විහාරයේ බස්නායක නිලමේවරයා ලෙස කටයුතු කර ඇති එම පුද්ගලයා මුදල් වංචා කර ඇත්තේ ගලෙන්බිඳුනුවැව ප්‍රදේශයේ "ට්‍රෙඩ්වින් ෂෙයාර්" නම් පීරමීඩාකාර මූල්‍ය ආයතනයක් පවත්වාගෙන යමිනි.
+The man who had served as the Basnayake Nilame of the Weherahena Viharaya in 2021, the man was cheated with a Phiramyadkara Company.
 
-මුදල් වංචා කිරීමෙන් පසු මහනුවර පිළිමතලාව ප්‍රදේශයේ සිය අනියම් බිරිඳ සමග රැඳී සිට ඇති ඔහු ජනතාවගෙන් වංචා කළ මුදලින් ඉඩකඩම්, වාහන මිලදීගෙන අධි සුඛෝපභෝගි ජීවිතයක් ගත කර ඇති බව වාර්තා වෙයි.
+It is reported that he has stayed with its mistress in Pilimatalawa, Kandy after defrauding the money.
 
-එසේම අනියම් බිරිඳගේ නමින් රුපියල් ලක්ෂ 80ක් ස්ථිර තැන්පතුවක්ද පවත්වාගෙන ගොස් තිබේ.
+800 lakhship deposit has been conducted in the name of the mistress.
 
-ඒ අනුව ඔහුගේ අනියම් බිරිඳ අත්අඩංගුවට ගැනුණේ වංචා කළ මුදල් ආයෝජනය කිරීමේ චෝදනාව මතය.
+His casual wife was arrested on charges of investing cheating.
 
-අත්අඩංගුවට ගත් 39 හැවිරිදි පුද්ගලයා සහ ඔහුගේ අනියම් බිරිඳ නාරාහේන්පිට පිහිටි නීතිවිරෝධි වත්කම් විමර්ශන කොට්ඨාසයේ ජාලගත වංචා විමර්ශන ඒකකය වෙත අද (27) පස්වරුවේ රැගෙන ආවේය.
+The 39-year-old man and his casual wife was brought to the Illegal Summary Investigation Division in Narahenpita this afternoon.
 
 ◼️
 
 [Data](articles/da52bda1.json)
+
+[Extended Data](ext_articles/da52bda1.ext.json)
 
 ---
 
@@ -85,6 +89,8 @@ Acting IGP Deshabandu Tennakoon, who visited the constable's residence in Hedeni
 ◼️
 
 [Data](articles/367aa8f6.json)
+
+[Extended Data](ext_articles/367aa8f6.ext.json)
 
 ---
 

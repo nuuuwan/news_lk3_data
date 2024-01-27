@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 14:48:22**
+As of **2024-01-27 15:02:28**
 
 ## Newspaper Stats
 
-*Scraped **2,911** Articles*
+*Scraped **2,912** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
 adalk | 266
-adaderanasinhalalk | 273
+adaderanasinhalalk | 274
 virakesarilk | 305
 adaderanalk | 368
 tamilmirrorlk | 369
@@ -26,11 +26,27 @@ dailymirrorlk | 400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,911 (100.0%) of 2,911 articles have been extended.
+2,911 (100.0%) of 2,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### වසර 19කට පසු හමු වූ නිවුන් සොහොයුරියන්
+
+*2024-01-27 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192623) · `si`
+
+උපත ලැබීමෙන් පසු දෙමව්පියන්ගෙන් සොරා ගෙන පවුල් දෙකකට විකිණූ නිවුන් සහෝදරියන් දෙදෙනෙක් වසර 19කට පසු නැවත හමුවීමේ පුවතක් ජෝරිජියාවෙන් වාර්තා වේ.
+
+TIK TOK වීඩියෝවක් හරහා ඔවුන් එකිනෙකා හදුනාගෙන ඇති බව විදෙස් වාර්තා පෙන්වා දෙයි.
+
+උපතේ ඔවුන්ගේ වෙන් වීම පිළිබඳ කරුණු සෙවීමේ දී දශක ගණනාවක සිට ජෝර්ජියාවේ ක්‍රියාත්මක ළමා ජාවාරමක් පිළිබඳ තොරතුරු ද අනාවරණ වී ඇත.
+
+◼️
+
+[Data](articles/fa26362a.json)
+
+---
 
 ### Corpse floating in Nuwara Eliya
 
@@ -1999,27 +2015,5 @@ The Russian Ambassador’s statement came hours after U.S. Ambassador in Colombo
 [Data](articles/3df5df1f.json)
 
 [Extended Data](ext_articles/3df5df1f.ext.json)
-
----
-
-### 24 hour effective service to send fish products to Europe
-
-*2024-01-26 20:32:07* · [`adalk`](https://www.ada.lk/breaking_news/යුරෝපයට-මත්ස්‍ය නිශ්පාදන-යැවීමට-පැය-24-පුරා-ක්‍රියාත්මක-සේවාවක්/11-407740) · `si`
-
-Fish products that export Sri Lanka especially exported to the EU countries
-
-Fisheries Minister Douglas Devananda and State Minister Piyal Nishantha De Silva were opened by Fisheries Minister Douglas Devananda and State Minister Piyal Nishantha De Silva.
-
-The export of fish products from Sri Lanka to 28 European Union and are proven to be legally manufactured.
-
-The use of correct nets is used by the use of registered fishing vessels, legalized fishing vessels, to participate in this fishing to the country, certifying to Europe.
-
-Fisheries and Aquatic Resources Minister Duglas Devananda, State Minister Phal Nishantha De Silva and Mrs. Susantha Kahawatta, Secretary General of the Ministry, was attended by the Secretary General of the Ministry Kumari Susanthawatt.
-
-◼️
-
-[Data](articles/e1caec54.json)
-
-[Extended Data](ext_articles/e1caec54.ext.json)
 
 ---

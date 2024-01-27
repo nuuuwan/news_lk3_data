@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 13:32:49**
+As of **2024-01-27 13:51:07**
 
 ## Newspaper Stats
 
-*Scraped **2,905** Articles*
+*Scraped **2,907** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
 adalk | 266
-adaderanasinhalalk | 270
+adaderanasinhalalk | 272
 virakesarilk | 303
 adaderanalk | 368
 tamilmirrorlk | 368
@@ -26,11 +26,45 @@ dailymirrorlk | 400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,903 (99.9%) of 2,905 articles have been extended.
+2,905 (99.9%) of 2,907 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### භික්ෂු වෙසින් සිටි වරෙන්තු 09ක් ලැබූ පුද්ගලයෙකු අත්අඩංගුවට
+
+*2024-01-27 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192621) · `si`
+
+ව්‍යාජ රන් භාණ්ඩ බැංකුවල උකස් තැබීම සහ විවිධ චෝදනා සම්බන්ධයෙන් වරෙන්තු 19ක් ලැබ සිටි පුද්ගලයෙකු භික්ෂුවක් ලෙස පෙනී සිටිය දී අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන තිබේ.
+
+භික්ෂුව ලෙස පෙනී සිටි පුද්ගලයා රැඳී සිට තිබුණේ, අවිස්සාවේල්ල ප්‍රදේශයේ භාවනා මධ්‍යස්ථානයක ය.
+
+2003, 2004 යන කාලසීමාවල දී රන් ආලේපිත ව්‍යාජ රත්‍රං ආභරණ සකසා පෞද්ගලික බැංකුවක ශාඛා 24ක උකස් තබා රුපියල් ලක්ෂ 50ක පමණ මූල්‍ය වංචා සිදු කළ ජයම්පති අලුවිහාරේ නැමැති පුද්ගලයෙකු සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවට පැමිණිල්ලක් ලැබී තිබිණි.
+
+අදාළ පෞද්ගලික බැංකුවෙන් පැමිණිල්ල සිදු කර තිබූ අතර, ඒ අනුව සැකකරු අත්අඩංගුවට ගැනීම සඳහා විමර්ශන කණ්ඩායම් යොදවා තිබුණත් මොහු පිළිබඳ 2008 වර්ෂයේ සිට කිසිදු තොරතුරක් ලැබී නොතිබිණි.
+
+සැකකරු මහාධිකරණ වරෙන්තු 12ක්, මහේස්ත්‍රාත් අධිකරණ වරෙන්තු 07ක් සහ විභාග වෙමින් පැවති නඩු 04ක් සම්බන්ධ ව අධිකරණයෙන් වරදකරු කර සිටි අයෙකි.
+
+...
+
+[Data](articles/0e928bd6.json)
+
+---
+
+### කොළඹ නගරයේ විශේෂ රථ වාහන සැලසුමක්
+
+*2024-01-27 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192620) · `si`
+
+76 වැනි නිදහස් දින සැමරුම වෙනුවෙන් ලබන 29 වැනි දා සිට පෙබරවාරි 02 වැනි දා දක්වා කොළඹ නගරයේ විශේෂ රථ වාහන සැලැස්මක් ක්‍රියාත්මක කරන බව රථ වාහන පොලීසිය නිවේදනය කරයි.
+
+අද (27) පොලිස් මාධ්‍ය කොට්ඨාසයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවකට එක්වෙමින් රථවාහන දිශාව භාර නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා මේ බව සඳහන් කළේ ය.
+
+◼️
+
+[Data](articles/027eb806.json)
+
+---
 
 ### Donald Trump ordered to pay $83.3mn for defaming writer E. Jean Carroll
 
@@ -53,6 +87,8 @@ It took the jury of seven men and two women less than three hours to reach a ver
 ...
 
 [Data](articles/2f3a2e07.json)
+
+[Extended Data](ext_articles/2f3a2e07.ext.json)
 
 ---
 
@@ -111,6 +147,8 @@ The road closure is effective from 06.00 a.m. - 08.30 a.m. and 11.00 a.m. - 12.3
 ◼️
 
 [Data](articles/eb6d8360.json)
+
+[Extended Data](ext_articles/eb6d8360.ext.json)
 
 ---
 
@@ -1961,43 +1999,5 @@ This groundbreaking partnership aims to make solar energy more affordable to cus
 [Data](articles/0afdf6c9.json)
 
 [Extended Data](ext_articles/0afdf6c9.ext.json)
-
----
-
-### ComBank enhances airport lounge access for premium credit card holders
-
-*2024-01-26 20:22:00* · [`islandlk`](http://island.lk/combank-enhances-airport-lounge-access-for-premium-credit-card-holders/) · `en`
-
-The Commercial Bank of Ceylon has announced an enhancement of the complimentary airport lounge access available to holders of premium segment credit cards issued by the Bank.
-
-The Bank-driven initiative will result in holders of Commercial Bank Visa Infinite credit cards enjoying up to four complimentary visits per year to airport lounges around the world, and holders of Visa Signature and World Mastercard credit cards becoming eligible for up to two complimentary airport lounge visits per year, the Bank said.
-
-“It is customary for holders of premium credit cards to be provided airport lounge access,” Commercial Bank’s Deputy General Manager – Retail Banking and Marketing Hasrath Munasinghe elaborated. “With this increase in access provided exclusively to three categories of premium cards issued by Commercial Bank, we are demonstrating the additional prestige that accrues to our cardholders.”
-
-...
-
-[Data](articles/9b7f2beb.json)
-
-[Extended Data](ext_articles/9b7f2beb.ext.json)
-
----
-
-### Call those who wish to get rid of drugs 1927
-
-*2024-01-26 20:13:57* · [`adalk`](https://www.ada.lk/breaking_news/මත්ද්‍රව්‍යයෙන්-මිදීමට-කැමති-අය-1927-අමතන්න/11-407738) · `si`
-
-The Special Instant Telephone Number 1927 has been introduced to volunteer to volunteer to get rid of drugs and preventing the use of poisonous drug and hazardous medicines to avoid the use of poisonous drugs and hazardous drugs..
-
-The Chairman of the Navy, who is the Chairman of the Task Force (January 26), is the Chairman of the Task Force (January 26) to prevent the use of the Task Force and Dangerous Drugs in the Colombo Lighty Arts.
-
-Taking social economic security and rehabilitate to control, preventing the development of poison to the country and to control the development of the country and rehabilitate the development of the country.Commander of the Navy Vice Admiral Priyantha Periantha Perianantha has been appointed as its Chairman.
-
-The immediate telephone number of 1927 (January 26, 2024), the immediate telephone number of 1927 (January 26, 2024), the immediate telephone number of the 1927 (January 26) will be able to obtain information on drugs today..
-
-◼️
-
-[Data](articles/64f2ee58.json)
-
-[Extended Data](ext_articles/64f2ee58.ext.json)
 
 ---

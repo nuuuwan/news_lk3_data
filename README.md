@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 10:02:23**
+As of **2024-01-27 10:17:11**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,858 (99.8%) of 2,863 articles have been extended.
+2,863 (100.0%) of 2,863 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Additionally, Mr. Peiris highlighted that Litro Gas Company contributed Rs. 3 bi
 ◼️
 
 [Data](articles/edf0cb61.json)
+
+[Extended Data](ext_articles/edf0cb61.ext.json)
 
 ---
 
@@ -114,25 +116,29 @@ The operation also netted 264 individuals with outstanding warrants, including 2
 
 [Data](articles/fc615a48.json)
 
+[Extended Data](ext_articles/fc615a48.ext.json)
+
 ---
 
-### ஏடன்வளைகுடாவில் தீப்பிடித்து எரிகின்றது கப்பல் - ஹெளத்தி கிளர்ச்சியாளர்கள் ஏவுகணை தாக்குதல்
+### Shipping in Edanwalakuda
 
 *2024-01-27 08:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174888) · `ta`
 
-ஹெளத்தி கிளர்ச்சியாளர்களின் தாக்குதல் காரணமாக ஏடன்வளைகுடாவில் எண்ணெய்கப்பலொன்று தீப்பிடித்து எரிவதாக அதன் உரிமையாளர் தெரிவித்துள்ளார்.
+Its owner said that an oilplane was burnt in Edanwalakuda due to the attack of Haiti insurgents.
 
-ஹெளத்திகிளர்ச்சியாளர்கள் மேற்கொண்ட ஏவுகணை தாக்குதலால் மார்லின் லுவாhன்டா என்ற கப்பல் தீப்பிடித்துள்ளது என  கப்பலை இயக்கும் நிறுவனம் தெரிவித்துள்ளது.
+The ship operated by Marlin Lua Hnta has caught fire due to a missile attack by the Holy Seth.
 
-கப்பல் எதிர்ப்பு ஏவுகணை எண்ணெய் கப்பலை தாக்கியுள்ளது என தெரிவித்துள்ள அமெரிக்க அதிகாரிகள் கடற்படை கப்பலொன்று உதவிக்கு விரைந்துள்ளது என குறிப்பிட்டுள்ளனர்.
+US officials said that the anti -shiping missile oil ship has been rushed to aid for aid.
 
-போர்க்கப்பல்கள் அந்த கப்பலை நோக்கி சென்றன மாலுமிகள் பாதுகாப்பாக உள்ளனர் என பிரிட்டனின் கடல்சார்வர்த்தக நடவடிக்கை அமைப்பு தெரிவித்துள்ளது.
+Britain's Maritime Action Organization said the warships went to the ship.
 
-ஏனைய கப்பல்கள் எச்சரிக்கையுடன் பயணிக்கவேண்டும் சந்தேகத்திற்கு இடமான விடயங்களை அவதானித்தால் அறிவிக்கவேண்டும் என பிரிட்டன் அமைப்பு தெரிவித்துள்ளது.
+The British organization said that other ships should travel with caution and report on suspicion.
 
 ◼️
 
 [Data](articles/bc24d56f.json)
+
+[Extended Data](ext_articles/bc24d56f.ext.json)
 
 ---
 
@@ -155,6 +161,8 @@ A tragic accident on the Katunayake Expresswat claimed the lives of both State M
 ...
 
 [Data](articles/a0eb3399.json)
+
+[Extended Data](ext_articles/a0eb3399.ext.json)
 
 ---
 
@@ -187,6 +195,8 @@ Political Landscape Reshapes as ‘New Alliance’ To Takes its First Steps
 ◼️
 
 [Data](articles/2fc92d1a.json)
+
+[Extended Data](ext_articles/2fc92d1a.ext.json)
 
 ---
 

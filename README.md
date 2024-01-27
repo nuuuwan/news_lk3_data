@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 12:32:58**
+As of **2024-01-27 12:48:36**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,896 (99.9%) of 2,898 articles have been extended.
+2,898 (100.0%) of 2,898 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -1088,6 +1088,8 @@ A 120MW hydro power plant at Uma Oya will be opened on February 15. (Colombo/Jan
 
 [Data](articles/cb3eb892.json)
 
+[Extended Data](ext_articles/cb3eb892.ext.json)
+
 ---
 
 ### Youth killed in accident
@@ -1882,23 +1884,25 @@ The suspects have said that the suspects have planned to assassinate the murder 
 
 ---
 
-### ලක්ෂ 137ක ස්වර්ණාභරණ තොගයක් සමග ව්‍යාපාරිකාවක් අල්ලයි
+### Business with jewelery stocks arrested with jewelery
 
 *2024-01-26 20:04:54* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-137ක-ස්වර්ණාභරණ-තොගයක්-සමග-ව්‍යාපාරිකාවක්-අල්ලයි/11-407737) · `si`
 
-රුපියල් එක් කෝටි තිස් හත් ලක්ෂයක් වටිනා ස්වර්ණාභරණ තොගයක් නීතිවිරෝධී ලෙස ශ්‍රී ලංකාවට රැගෙන එමින් සිටි ව්‍යාපාරික කාන්තාවක් 01/26 දින අලුයම කටුනායක ගුවන් තොටුපොළ පැමිණීමේ පර්යන්තයේ දී පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් පිරිසක් විසින් අත් අඩංගුවට ගෙන තිබේ.
+A businessman arrested by the Police Narcotics Unit on April 5/26, a businessman who was illegally brought to Sri Lanka with Rs. 30 million.
 
-ඇය කොළඹ 10 , මරදාන ප්‍රදේශයේ පදිංචි 46 හැවිරිදි නිතර නිතර ගුවන් ගමන් වල නිරත වන ව්‍යාපාරික කාන්තාවකි .
+She is a 46-year-old businessman from Maradana area in Colombo 10.
 
-ඇය 01/26 දින අලුයම 12.40 ට ඩුබායි සිට ෆ්ලයි ඩුබායි ගුවන් සේවයේ එෆ්.ඉසෙඩ්.- 569 දරන ගුවන් යානයෙන් කටුනා.
+She was 12.40 am on April 01/26 am from Dubai to 12.40 am from Dubai. - The flight of 569.
 
-ඇය විසින් රැගෙන ආ ගමන් මලු තුළ සූක්ෂම ලෙස සගවා ගෙන තිබූ ග්‍රෑම් 666 ක් බරැති මෙම ස්වර්ණාභරණ තොගය පොලිස් මත්ද්‍රව්‍ය නාශක අංශයේ නිලධාරීන් විසින් සොයා ගෙන අත් අඩංගුවට ගෙන තිබුණි .
+The jewelery was recovered by the Police Narcotics Unit of the Police Narcotics, which weighing 666 grams of water taken by her baggage.
 
-පසුව මේ පිළිබඳ වැඩිදුර විමර්ශන කටයුතු සදහා කටුනායක ගුවන් තොටුපොළ රේගු නිලධාරීන් වෙත භාර දීමට පියවර ගෙන තිබේ .
+Steps have been taken to hand over the Katunayaka airport for further investigations.
 
 ◼️
 
 [Data](articles/d82de3fe.json)
+
+[Extended Data](ext_articles/d82de3fe.ext.json)
 
 ---
 

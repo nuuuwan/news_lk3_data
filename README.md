@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 22:03:23**
+As of **2024-01-27 22:17:05**
 
 ## Newspaper Stats
 
-*Scraped **2,944** Articles*
+*Scraped **2,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
 adalk | 268
-adaderanasinhalalk | 286
+adaderanasinhalalk | 287
 virakesarilk | 305
 tamilmirrorlk | 373
 adaderanalk | 377
@@ -26,11 +26,29 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,944 (100.0%) of 2,944 articles have been extended.
+2,944 (100.0%) of 2,945 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### දක්ෂිණ අධිවේගී මාර්ගයේ ලොරියක් පෙරළෙයි
+
+*2024-01-27 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192637) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ ගමන් ගත් ලොරි රථයක් පෙරළී අනතුරක් සිදුවී තිබේ.
+
+දක්ෂිණ අධිවේගී මාර්ගයේ 118 කිලෝමීටර් කණුව ආසන්නයේදී මෙම අනතුර සිදුවී ඇත.
+
+අනතුර හේතුවෙන් මාතර සිට කොළඹ බලා ධාවනය වන වාහනවලට බාධා එල්ලවී තිබේ.
+
+ඒ හේතුවෙන් කොළඹ දෙසට ගමන් ගන්නා රථ වාහන ගොඩගමින් පිටවී කොක්මාදූව හරහා යළි අධිවේගී මාර්ගයට පිවිසෙන ලෙස දැනුම්දී ඇත.
+
+◼️
+
+[Data](articles/64ad5f4e.json)
+
+---
 
 ### Another suspect arrested for murder Beliatta
 
@@ -2043,21 +2061,5 @@ The magistrate has ordered the three allegations filed against the fishermen and
 [Data](articles/ba771589.json)
 
 [Extended Data](ext_articles/ba771589.ext.json)
-
----
-
-### Litro offered profit to the Treasury
-
-*2024-01-27 02:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலாபத்தை-திறைசேரிக்கு-வழங்கியது-லிட்ரோ/175-332162) · `ta`
-
-Litro Gas Company has made a profit of Rs.
-
-The check was officially handed over to Sagala Ratnayake, president of Litro Gas Company, Muditha Peiris, President's Senior Advisor and President of the President.. (A)
-
-◼️
-
-[Data](articles/2aecada8.json)
-
-[Extended Data](ext_articles/2aecada8.ext.json)
 
 ---

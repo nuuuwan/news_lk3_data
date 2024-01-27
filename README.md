@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 16:17:20**
+As of **2024-01-27 16:32:54**
 
 ## Newspaper Stats
 
-*Scraped **2,915** Articles*
+*Scraped **2,917** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailyftlk | 215
 adalk | 267
 adaderanasinhalalk | 274
 virakesarilk | 305
-adaderanalk | 369
 tamilmirrorlk | 370
+adaderanalk | 371
 dailymirrorlk | 400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,915 (100.0%) of 2,915 articles have been extended.
+2,915 (99.9%) of 2,917 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### Couple arrested for scamming Rs. 5bn through pyramid scheme
+
+*2024-01-27 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96771/couple-arrested-for-scamming-rs-5bn-through-pyramid-scheme) · `en`
+
+A couple has been arrested on suspicion of defrauding people of Rs. 5 billion through a pyramid scheme.
+
+The arrest was made in Pilimathalawa area by the Illegal Assets and Property Investigation Unit.
+
+◼️
+
+[Data](articles/05ecc232.json)
+
+---
+
+### Large cache of rotten fish unloaded at Colombo Port?
+
+*2024-01-27 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96770/large-cache-of-rotten-fish-unloaded-at-colombo-port) · `en`
+
+At a recent meeting, the Committee on Public Accounts (COPA) has heard that a ship sailing from Seychelles to Thailand had unloaded 98 containers carrying a large cache of rotten fish in Sri Lanka, claiming that the consignment was intended for organic fertilizer manufacturing.
+
+Additionally, the COPA has uncovered that the Sri Lankan agent of the said ship owns a fish cannery here and that 04 of the containers, which were unloaded from the ship, have gone missing.
+
+It is also reported that the ship had been permitted to unload the containers at the Colombo Port. However, the Import and Export Controller General Mrs.  Upulmalee Premathilaka claimed that the relevant permit was issued for fish waste.
+
+Meanwhile, the Chairman of the COPA, State Minister Lasantha Alagiyawanna assured that all government institutions related to the matter would be summoned before the committee on March 05, in order to investigate the incident further.
+
+◼️
+
+[Data](articles/b871f64e.json)
+
+---
 
 ### Special Transport Plan in Colombo
 
@@ -1991,39 +2023,5 @@ Ven. Muruththewe Ananda Leader, Speaking further,
 [Data](articles/ca176a7f.json)
 
 [Extended Data](ext_articles/ca176a7f.ext.json)
-
----
-
-### State Minister Sanath Nishantha’s security officer posthumously promoted
-
-*2024-01-26 21:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/96756/state-minister-sanath-nishanthas-security-officer-posthumously-promoted) · `en`
-
-The Police Constable attached to the Ministerial Security Division (MSD), who was killed in the fatal crash along with State Minister Sanath Nishantha while on duty, has been posthumously promoted.
-
-Accordingly, Police Constable Anuradha Jayakody was posthumously promoted to the rank of Sergeant, the Police Media Division said.
-
-◼️
-
-[Data](articles/6309d42c.json)
-
-[Extended Data](ext_articles/6309d42c.ext.json)
-
----
-
-### Sanath Nishantha’s driver remanded
-
-*2024-01-26 21:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96755/sanath-nishanthas-driver-remanded) · `en`
-
-The driver of late State Minister Sanath Nishantha, who was arrested over crash that claimed the politician’s life, has been remanded by the Welisara Magistrate’s Court.
-
-The state minister’s driver, who is still undergoing treatment at the Ragama Hospital, has been ordered to be remanded in custody until 05 February by the magistrate.
-
-Earlier today, the police recorded a statement from the driver in question, who drove the vehicle belonging to late State Minister which was involved in the accident that killed the lawmaker and his security guard on Thursday morning (Jan.25). He had reportedly detailed the moment when the fatal collision had occurred, to the police officers.
-
-...
-
-[Data](articles/b001e345.json)
-
-[Extended Data](ext_articles/b001e345.ext.json)
 
 ---

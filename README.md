@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 00:17:18**
+As of **2024-01-28 00:33:09**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,955 (100.0%) of 2,956 articles have been extended.
+2,956 (100.0%) of 2,956 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -563,6 +563,8 @@ Although surrounded by the sea, the island neither has a domestic yatch culture,
 ...
 
 [Data](articles/c9f536d8.json)
+
+[Extended Data](ext_articles/c9f536d8.ext.json)
 
 ---
 

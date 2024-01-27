@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 15:02:28**
+As of **2024-01-27 15:17:12**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,911 (100.0%) of 2,912 articles have been extended.
+2,912 (100.0%) of 2,912 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### වසර 19කට පසු හමු වූ නිවුන් සොහොයුරියන්
+### The twins found after 19 years
 
 *2024-01-27 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192623) · `si`
 
-උපත ලැබීමෙන් පසු දෙමව්පියන්ගෙන් සොරා ගෙන පවුල් දෙකකට විකිණූ නිවුන් සහෝදරියන් දෙදෙනෙක් වසර 19කට පසු නැවත හමුවීමේ පුවතක් ජෝරිජියාවෙන් වාර්තා වේ.
+After birth, two twin sisters who stole the parents and sold two families who sold two families have been re-found in Jorgania.
 
-TIK TOK වීඩියෝවක් හරහා ඔවුන් එකිනෙකා හදුනාගෙන ඇති බව විදෙස් වාර්තා පෙන්වා දෙයි.
+According to foreign reports, they have identified each other through a Tik Tok video.
 
-උපතේ ඔවුන්ගේ වෙන් වීම පිළිබඳ කරුණු සෙවීමේ දී දශක ගණනාවක සිට ජෝර්ජියාවේ ක්‍රියාත්මක ළමා ජාවාරමක් පිළිබඳ තොරතුරු ද අනාවරණ වී ඇත.
+Details of a child racket of child racket in Georgia have also been revealed in decades of searching for their separation.
 
 ◼️
 
 [Data](articles/fa26362a.json)
+
+[Extended Data](ext_articles/fa26362a.ext.json)
 
 ---
 

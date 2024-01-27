@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 12:02:13**
+As of **2024-01-27 12:17:36**
 
 ## Newspaper Stats
 
-*Scraped **2,891** Articles*
+*Scraped **2,896** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,25 +12,121 @@ colombotelegraphcom | 40
 bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 159
-newsfirstlk | 167
 economynextcom | 168
+newsfirstlk | 170
 dailyftlk | 215
 adalk | 265
 adaderanasinhalalk | 270
 virakesarilk | 301
-adaderanalk | 364
 tamilmirrorlk | 365
+adaderanalk | 366
 dailymirrorlk | 400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,891 (100.0%) of 2,891 articles have been extended.
+2,891 (99.8%) of 2,896 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### Drug destruction facility under construction in Wanathavilluwa
+
+*2024-01-27 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96766/drug-destruction-facility-under-construction-in-wanathavilluwa) · `en`
+
+Plans are afoot to execute the destruction of drugs seized by the security forces by the end of March, the Commander of the Navy Vice Admiral Priyantha Perera has emphasized.
+
+Furthermore, the Navy chief said that a building with all facilities required for drug destruction is under construction in the Wanathavilluwa area.
+
+◼️
+
+[Data](articles/ff16ec6b.json)
+
+---
+
+### Sri Lanka’s Online Safety Bill: Russia Underscores Domestic Issue
+
+*2024-01-27 11:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/sri-lanka-s-online-safety-bill-russia-underscores-domestic-issue/) · `en`
+
+COLOMBO (News 1st); Following the recent passage of the Online Safety Bill through Sri Lanka's Parliament, Ambassador Levan Dzhagaryan of Russia has weighed in, emphasizing the legislation as an internal matter and calling for non-interference from foreign powers.
+
+Ambassador Dzhagaryan acknowledged the ongoing discussions surrounding the bill, both within Sri Lanka and among the international community.
+
+He stated that Russia following the situation with the Online Safety Bill in Sri Lanka, which has been adopted by the Parliamentary majority in all readings recently.
+
+He also said that Russia takes notice of all comments and reactions on this legislature both from the domestic political sphere and among the foreign powers accredited in this country."
+
+However, the Ambassador firmly asserted Sri Lanka's sovereign right to regulate its online sphere, adding that regulations of the online sphere are solely domestic issue of the Republic of Sri Lanka.
+
+...
+
+[Data](articles/8e33c5ee.json)
+
+---
+
+### Exam centre chief arrested over 2023 A/L exam paper leak
+
+*2024-01-27 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96765/exam-centre-chief-arrested-over-2023-al-exam-paper-leak) · `en`
+
+The Criminal Investigations Department (CID) has arrested another individual on suspicion of his involvement in the incident of several questions of the 2023 G.C.E. Advanced Level examination’s Agricultural Science I & II question papers allegedly being leaked prior to the test.
+
+The arrested female suspect was the chief at the A/L examination centre established at the Moratuwa Maha Vidyalaya, the police said.
+
+Police mentioned that she served as a teacher advisor attached to the Piliyandala Zonal Education Office.
+
+Last week, the CID also arrested a 38-year-old man who had served as the peon of the female exam centre chief in question and a 52-year-old A/L Agricultural Science teacher of a popular government school in Ampara on suspicion of being involved in the incident.
+
+The three suspects have been remanded in custody until February 02, 2024, after being produced before the Ampara Magistrate’s Court.
+
+...
+
+[Data](articles/1c2fdc38.json)
+
+---
+
+### Drug Traffickers Pose Challenge in Sri Lanka’s Rehabilitation Efforts
+
+*2024-01-27 11:20:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/drug-traffickers-pose-challenge-in-sri-lanka-s-rehabilitation-efforts/) · `en`
+
+COLOMBO (News 1st);  Sri Lanka's rehabilitation initiative faces a new obstacle, as authorities discover drug traffickers and criminals mingling among those referred for addiction treatment.
+
+Retired Major General Darshana Hettiarachchi who is the Commissioner General of Rehabilitation confirmed that stricter procedures will be implemented to filter individuals entering rehabilitation programs.
+
+Following the "Yukthiya Operation" that commenced in December 2023, over 300 individuals were sent for rehabilitation.
+
+However, intelligence revealed the presence of non-addicts, including drug traffickers and criminals, within the group.
+
+In response, Hettiarachchi announced a shift in strategy noting that moving forward not every person referred by the courts or police will be automatically admitted to rehabilitation.
+
+He said that officials will prioritize those with genuine addiction problems.
+
+This development comes amidst heightened tensions at the Kankakadu Treatment Rehabilitation Center.
+
+...
+
+[Data](articles/96eee7a1.json)
+
+---
+
+### Kidney Sale for Drugs: Suspect Remanded in Sri Lanka
+
+*2024-01-27 11:18:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/kidney-sale-for-drugs-suspect-remanded-in-sri-lanka/) · `en`
+
+COLOMBO (News 1st); A shocking case of organ trafficking has come to light in Sri Lanka, with a 32-year-old man from the Kathankudi area being arrested for allegedly selling his kidney to purchase drugs.
+
+The suspect, whose name has not been released by authorities, was produced before the Batticaloa Magistrate's Court and remanded in custody.
+
+Adding a further layer of complexity to the case, police revealed that the suspect was also found in possession of ice, a highly addictive methamphetamine.
+
+According to police reports, the suspect had sold his kidney in Colombo sometime ago.
+
+◼️
+
+[Data](articles/63672dad.json)
+
+---
 
 ### Three killed in accident on Kurunegala - Giriulla main road
 
@@ -96,8 +192,6 @@ According to police reports, the incident occurred early this morning, with deta
 
 The deceased identified as residents of the Kelaniya area are exceeding 50 years of age.
 
-Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
-
 ◼️
 
 [Data](articles/f36b88d9.json)
@@ -115,8 +209,6 @@ COLOMBO (News 1st); The Sri Lanka Podujan Peramuna is set to retain its Puttalam
 District Secretary Sunanda Herath confirmed that Jagath Priyantha's name has been forwarded to the Election Commission as the replacement candidate.
 
 Election Commissioner General Saman Sri Ratnayake said that Priyantha's official appointment as Member of Parliament will be published in the Gazette shortly.
-
-Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
 
 ◼️
 
@@ -275,8 +367,6 @@ UP Warriorz have named Sri Lanka skipper Chamari Athapaththu as a replacement fo
 English fast bowler Lauren Bell has withdrawn from the upcoming season of the Women’s Premier League 2024.
 
 Among the most powerful hitters in the game, Chamari has featured in over 120 T20Is for Sri Lanka. Known for her attacking batting and handy off-spin bowling, Athapaththu is the only Sri Lankan woman to have scored a century in T20Is.
-
-Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
 
 ◼️
 
@@ -708,8 +798,6 @@ COLOMBO (News 1st); The launch of a new political movement named the 'New Allian
 
 The maiden rally of this new political movement will be presided over by Minister Susil Premajayantha, Trade Minister Nalin Fernando, Former Minister Anura Priyadarshana Yapa, Former Minister Piyankara Jayaratne, and the MP Nimal Lanza.
 
-Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
-
 ◼️
 
 [Data](articles/2fc92d1a.json)
@@ -830,8 +918,6 @@ Subsequent search led to the recovery of 03 sacks stuffed with heroin weighing m
 
 The street value of the seized heroin is believed to be more than Rs. 1626 million.
 
-Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
-
 ◼️
 
 [Data](articles/39f267b6.json)
@@ -858,7 +944,7 @@ Commissioner General Hettiarachchi emphasized that those apprehended during the 
 
 Despite the recent escape attempt, the Kandakadu Rehabilitation Center remains operational with 358 individuals currently residing there.
 
-...
+◼️
 
 [Data](articles/52b5cf32.json)
 
@@ -926,7 +1012,7 @@ Following the end of one session of Parliament and a new session commences, the 
 
 When the Parliament is prorogued, the questions and motions that have not been considered by the Parliament until then will be abolished, and the Members of Parliament thus have to take it up again in accordance with the standing orders.
 
-...
+◼️
 
 [Data](articles/029833b3.json)
 
@@ -1899,97 +1985,5 @@ However, the Senior Deputy Solicitor General the General stated that the Buddhis
 [Data](articles/d80226b3.json)
 
 [Extended Data](ext_articles/d80226b3.ext.json)
-
----
-
-### Uma Oya project to add 120 MW of electricity to national grid by February: State Minister
-
-*2024-01-26 18:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Uma-Oya-project-to-add-120-MW-of-electricity-to-national-grid-by-February-State-Minister/108-275789) · `en`
-
-Colombo, Jan. 26 (Daily Mirror)- The Uma Oya project is expected to add 120 MW of electricity to the national grid by February 15, Minister of State for Irrigation Shasheendra Rajapaksa said today.
-
-While speaking at a media briefing held today at the Presidential Media Centre (PMC) on the theme 'Collective path to a stable country', he outlined ambitious plans to increase the country's electricity generation and food production in 2024.
-
-The State Minister also revealed plans to utilize 31 identified reservoirs for floating solar power plants, with the potential to generate an additional 3,077 MW of electricity. This innovative approach leverages existing infrastructure and resources to address the country's growing energy needs.
-
-...
-
-[Data](articles/f03c887c.json)
-
-[Extended Data](ext_articles/f03c887c.ext.json)
-
----
-
-### International Court orders
-
-*2024-01-26 18:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192600) · `si`
-
-The International Court has ordered Israel that all steps should be taken to prevent mass murder in Gaza.
-
-The order has been issued by the International Court of Justice filed by South Africa against Israel.
-
-◼️
-
-[Data](articles/80e924d8.json)
-
-[Extended Data](ext_articles/80e924d8.ext.json)
-
----
-
-### World Court orders Israel to prevent acts of genocide, fails to order ceasefire
-
-*2024-01-26 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/96752/world-court-orders-israel-to-prevent-acts-of-genocide-fails-to-order-ceasefire) · `en`
-
-The World Court ordered Israel on Friday to prevent acts of genocide against the Palestinians and do more to help civilians, although it stopped short of ordering a ceasefire as requested by South Africa.
-
-South Africa brought the case to the International Court of Justice (ICJ) earlier this month, asking it to grant emergency measures to halt the fighting, which has killed more than 26,000 Palestinians.
-
-It accused Israel of state-led genocide in its offensive, begun after Hamas militants stormed into Israel killing 1,200 and kidnapping more than 240. Israel sought to have the case thrown out.
-
-In Friday’s ruling, the judges said Israel must take all measures within its power to prevent its troops from committing genocide, punish and must take steps to improve the humanitarian situation.
-
-...
-
-[Data](articles/d0db3f83.json)
-
-[Extended Data](ext_articles/d0db3f83.ext.json)
-
----
-
-### The demise of Sanath Nishantha is disaster for the whole country!- Mahinda Rajapaksa sympathy
-
-*2024-01-26 18:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174855) · `ta`
-
-The demise of the Minister of State Sanath Nishantha is not only for our party but the entire country. Former President Mahinda Rajapakse said the Puttalam district has lost its best leadership.
-
-State Minister Sanath Nishantha's body was placed in a flower accident in Katunayake Highway on Thursday morning (25). The public paid tribute to the public, including MPs of the ruling and opposition.
-
-Former President Mahinda Rajapaksa, who paid tribute to the bodhouse, expressed his sympathy and the demise of State Minister Sanath Nishantha. Fear is the unknown. He has also taken the lead in many challenging occasions. He said the Puttalam district has lost its best leadership.
-
-◼️
-
-[Data](articles/dc09141f.json)
-
-[Extended Data](ext_articles/dc09141f.ext.json)
-
----
-
-### Parliament officially announced to the Election Commission in the post of Member of Parliament!
-
-*2024-01-26 18:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/174856) · `ta`
-
-The Puttalam Electoral District Parliamentarian Sanath Nishantha has been in writing to the Chairman of the Elections Commission of Parliament on behalf of the Secretary General of Parliament and the Deputy Secretary General of Parliament on behalf of the Secretary General of Parliament.
-
-The Deputy Secretary General said that this will be known on behalf of the Secretary General of the Parliamentary Secretary of the Parliamentary Elections Act No. 1 of 1981.
-
-State Minister Sanath Nishantha and his security police officer were killed in an accident that took place on Thursday (25) in Kandana on the Katunayake Highway.
-
-It is noteworthy that the name of Jagath Piyankara, who contested the PA in the 2020 general election, is the name of the Election Corporation.
-
-◼️
-
-[Data](articles/969b994e.json)
-
-[Extended Data](ext_articles/969b994e.ext.json)
 
 ---

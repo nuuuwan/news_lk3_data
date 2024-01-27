@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 03:17:31**
+As of **2024-01-28 03:32:42**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,958 (100.0%) of 2,959 articles have been extended.
+2,959 (100.0%) of 2,959 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### கிராம உத்தியோகத்தர் பெறுபேறுகள் வெளியாகின
+### Grama Niladhari results were released
 
 *2024-01-28 02:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராம-உத்தியோகத்தர்-பெறுபேறுகள்-வெளியாகின/175-332195) · `ta`
 
-வெற்றிடமாக காணப்பட்ட 2,002 கிராம உத்தியோகத்தர்களின் வெற்றிடங்களை நிரப்புவதற்காக நடைபெற்ற போட்டிப் பரீட்சையில் சித்தியடைந்து நேர்முகத்தேர்வுக்கு தகுதி பெற்றவர்களின் பெயர் விபரங்கள் வெளியிடப்பட்டுள்ளன.
+The names of those who qualified for the interview have been released in the competitive examination held to fill the vacancies of 2,002 Grama Niladhari Officers.
 
-கிராம உத்தியோகத்தர்களை தெரிவு செய்வதற்காக கடந்த வருடம் டிசம்பர் மாதம் இரண்டாம் திகதி இடம்பெற்ற போட்டிப் பரீட்சைக்கு அமைய 4 ஆயிரத்து 232 பேர் நேர்முகத்தேர்வுக்கு தகுதிபெற்றுள்ளனர் என  தெரிவிக்கப்பட்டுள்ளது.
+It is reported that 4 thousand 232 candidates have qualified for the competitive examination held on the second day of December last year to select Grama Niladhari.
 
-இவ்வாறு நேர்முகத்தேர்வுக்கு தகுதிபெற்றவர்கள் தொடர்பான தகவல்களை உள்நாட்டலுவல்கள் அமைச்சின் உத்தியோகபூர்வ இணையத்தளத்தில் பார்வையிட முடியும் என இராஜாங்க அமைச்சர் அசோக பிரியந்த தெரிவித்துள்ளார். (a)
+Minister of State for Home Affairs can visit the official website of the Ministry of Home Affairs, Asoka Priyantha said that those who are eligible for the interview.. (A)
 
 ◼️
 
 [Data](articles/52ece667.json)
+
+[Extended Data](ext_articles/52ece667.ext.json)
 
 ---
 

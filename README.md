@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 07:15:04**
+As of **2024-01-27 07:29:35**
 
 ## Newspaper Stats
 
-*Scraped **2,840** Articles*
+*Scraped **2,841** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 215
 adaderanasinhalalk | 258
 adalk | 265
 virakesarilk | 300
-tamilmirrorlk | 354
+tamilmirrorlk | 355
 adaderanalk | 357
 dailymirrorlk | 393
 
@@ -26,11 +26,25 @@ dailymirrorlk | 393
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,840 (100.0%) of 2,840 articles have been extended.
+2,840 (100.0%) of 2,841 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### இலாபத்தை திறைசேரிக்கு வழங்கியது லிட்ரோ
+
+*2024-01-27 02:59:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலாபத்தை-திறைசேரிக்கு-வழங்கியது-லிட்ரோ/175-332162) · `ta`
+
+லிட்ரோ எரிவாயு நிறுவனம் 2023 ஆம் ஆண்டில் இலாபமாகப் பெற்றுக்கொண்ட மேலும் 1.5 பில்லியன் ரூபா நிதியை திறைசேரிக்கு வழங்கியுள்ளது.
+
+குறித்த காசோலையை லிட்ரோ எரிவாயு நிறுவனத்தின் தலைவர் முதித பீரிஸ், தேசிய பாதுகாப்பு தொடர்பான ஜனாதிபதியின் சிரேஷ்ட ஆலோசகரும் ஜனாதிபதி பணிக்குழாம் பிரதானியுமான சாகல ரத்நாயக்கவிடம் உத்தியோகபூர்வமாக கையளித்தார். (a)
+
+◼️
+
+[Data](articles/2aecada8.json)
+
+---
 
 ### Traffic in Colombo today
 
@@ -1987,31 +2001,5 @@ A 120 MW Uma Oya hydro power plant will be added in 2024 as is the open cycle (g
 [Data](articles/7aac838b.json)
 
 [Extended Data](ext_articles/7aac838b.ext.json)
-
----
-
-### The injured wound dies at the National Hospital
-
-*2024-01-26 13:12:18* · [`adalk`](https://www.ada.lk/breaking_news/අත-වෙන්වෙන්න-කැපුණු-තුවාලකරු-ජාතික-රෝහලේදී-මරුට/11-407736) · `si`
-
-A neighbors have been killed in a sharp weapon with a sharp object, Uragasundara, police said.
-
-The deceased has been identified as Uragasmanhandiya, a resident of Yatagala Kanda. Asela Sampath is a resource.
-
-Uragasmanhandiya Police say that he has been cut by a sharp weapon with a sharp weapon yesterday evening with a neighboring resident of a long-standing dispute.
-
-The victim was admitted to the Elpitiya Hospital with a remarkable ambulance with the left-handed hand.
-
-The victim has faced the incident in the Yangalakanda area, the police said.
-
-The deceased and the main suspect of the Siddhartha is the rehabilitation center at the Kandakadu Rehabilitation Center for a while, police said.
-
-Uragasmanhandiya OIC Chief Inspector PLKUTUTHIANH and CID HARDER HARDI Harthi Silva, the officials including the Hon.
-
-◼️
-
-[Data](articles/0677671f.json)
-
-[Extended Data](ext_articles/0677671f.ext.json)
 
 ---

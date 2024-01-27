@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 08:49:39**
+As of **2024-01-27 09:02:35**
 
 ## Newspaper Stats
 
-*Scraped **2,849** Articles*
+*Scraped **2,855** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ islandlk | 158
 newsfirstlk | 159
 economynextcom | 168
 dailyftlk | 215
-adaderanasinhalalk | 258
+adaderanasinhalalk | 264
 adalk | 265
 virakesarilk | 300
 tamilmirrorlk | 356
@@ -26,11 +26,41 @@ dailymirrorlk | 394
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,849 (100.0%) of 2,849 articles have been extended.
+2,849 (99.8%) of 2,855 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### අත්අඩංගුවට ගත් මත්ද්‍රව්‍ය ගැන තීරණයක්
+
+*2024-01-27 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192613) · `si`
+
+ආරක්ෂක අංශ මඟින් අත්අඩංගුවට ගනු ලබන මත්ද්‍රව්‍ය විනාශ කිරීමට අදාළ කටයුතු මාර්තු මාසය අවසන් වනවිට ක්‍රියාත්මක කිරීමට සැලසුම් කර ඇති බව නාවික හමුදාපති වයිස් අද්මිරාල් ප්‍රියන්ත පෙරේරා මහතා අවධාරණය කර තිබේ.
+
+ඔහු සඳහන් කළේ, වනාතවිල්ලුව ප්‍රදේශයේ මත්ද්‍රව්‍ය විනාශ කිරීමේ පහසුකම් සහිත ගොඩනැගිල්ලක් ඉදිවෙමින් පවතින බවයි.
+
+◼️
+
+[Data](articles/524a26e8.json)
+
+---
+
+### ලිංගික අපරාධවල වර්ධනයක්
+
+*2024-01-27 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192612) · `si`
+
+ලිංගික අපරාධ සම්බන්ධයෙන් වාර්ෂිකව වැඩි වර්ධනයක් පෙන්නුම් කරන බව පොලිස් ළමා හා කාන්තා කාර්යංශය සඳහන් කර තිබේ.
+
+එහි නියෝජ්‍ය පොලිස්පති රේණුකා ජයසුන්දර මහත්මිය සඳහන් කළේ, පසුගිය වසරේ දී වයස අවුරුදු 18ට අඩු දැරියන් 1,502ක් දූෂණයට ලක් ව ඇති බවයි.
+
+ජාතික ළමාරක්ෂක අධිකාරියේ සභාපති ශ්‍රී ජයවර්ධපුර විශ්වවිද්‍යාලයේ ජ්‍යෙෂ්ඨ කතිකාචාර්ය උදය කුමාර අමරසිංහ මහතා සඳහන් කළේ, ලිංගික අධ්‍යාපනය සම්බන්ධයෙන් දරුවන් දැනුම්වත් කිරීම වැදගත් බවයි.
+
+◼️
+
+[Data](articles/48a57c07.json)
+
+---
 
 ### Bereaved family of Sanath Nishantha’s security officer receives Rs. 1.5mn
 
@@ -71,6 +101,22 @@ However, he said the project remain delayed and he instructed the officials conc
 [Data](articles/43c18573.json)
 
 [Extended Data](ext_articles/43c18573.ext.json)
+
+---
+
+### අධිවේගී මාර්ගවල අනතුරු සිදු වීමට හේතුව
+
+*2024-01-27 07:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192611) · `si`
+
+අධිවේගී මාර්ගවල අනතුරු සිදුවීමට ප්‍රධානතම හේතුව රියදුරන් විසින් නීති-රීති නොපිළිපැදීම බව බන්දුල ගුණවර්ධන අමාත්‍යවරයා පවසයි.
+
+ඔහු සඳහන් කළේ, අධිවේගී මාර්ගයේ නීති කඩකරන රියදුරන්ට එරෙහි ව ගත හැකි ක්‍රියාමාර්ග පිළිබඳ ලබන සතියේ සිට විශේෂ වැඩපිළිවළක් ක්‍රියාත්මක කරන බවයි.
+
+කටුනායක සිට කොළඹ දක්වා අධිවේගී මාර්ග කොටසේ විදුලි ලාම්පු සවි කිරීම පිළිබඳ වැඩපිළිවෙළක් ආරම්භ කර ඇති බව ද බන්දුල ගුණවර්ධන අමාත්‍යවරයා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/7ac9a07f.json)
 
 ---
 
@@ -174,6 +220,24 @@ Wind speed may increase up to 50-60 kmph at times in the sea areas off the coast
 
 ---
 
+### අධිවේගයේ අනතුරින් මිය ගිය කොස්තාපල්ගේ පවුලට ලක්ෂ 15ක්
+
+*2024-01-27 07:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192610) · `si`
+
+රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ ආරක්ෂක වශයෙන් සේවය කළ අභාවප්‍රාප්ත පොලිස් කොස්තාපල් අනුරාධ ජයකොඩි මහතාගේ පවුලට රුපියල් ලක්ෂ 15ක් ලබා දී තිබේ.
+
+වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා අතින් මෙම මුදල් පරිත්‍යාගය සිදු කර ඇත.
+
+මේ අතර, මිය ගිය පොලිස් කොස්තාපල්වරයා සැරයන් නිලයට ද උසස් කර තිබේ.
+
+පෙරේදා (25) දක්ෂිණ අධිවේගී මාර්ගයේ සිදු වූ රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සහ ඔහුගේ ආරක්ෂක, පොලිස් කොස්තාපල් අනුරාධ ජයකොඩි මහතා ජීවිතක්ෂයට පත් වූහ.
+
+◼️
+
+[Data](articles/4090d2eb.json)
+
+---
+
 ### Wickremesinghe to Present Policy Statement as Parliament Resumes Feb. 7th
 
 *2024-01-27 07:07:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/wickremesinghe-to-present-policy-statement-as-parliament-resumes-feb-7th/) · `en`
@@ -193,6 +257,42 @@ When the Parliament is prorogued, the questions and motions that have not been c
 [Data](articles/029833b3.json)
 
 [Extended Data](ext_articles/029833b3.ext.json)
+
+---
+
+### කෘෂි විද්‍යාව ප්‍රශ්න පත්‍රය පිටවීමේ සිද්ධියට තවත් පුද්ගලයෙක් අත්අඩංගුවට
+
+*2024-01-27 06:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192609) · `si`
+
+අධ්‍යයන පොදු සහතික පත්‍ර උසස් පෙළ විභාගයේ කෘෂි විද්‍යාව ප්‍රශ්න පත්‍රය පිටවීම සම්බන්ධයෙන් මොරටුව මහා විද්‍යාලයේ විභාග ශාලාවේ ශාලාධිපතිනිය අත්අඩංගුවට ගෙන අම්පාර මහෙස්ත්‍රාත් අධිකරණය වෙත ඉදිරිපත් කර තිබේ.
+
+විභාග දෙපාර්තමේන්තුව සඳහන් කළේ, මහෙස්ත්‍රාත්වරයා විසින් එම ශාලාධිපතිනිය, ශාලා සේවක හා මෙම සිදුවීම සම්බන්ධයෙන් ප්‍රථමයෙන් අත්අඩංගුවට ගත් ගුරුවරයා පෙබරවාරි මස දෙවැනි දා දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට නියෝග කර ඇති බවයි.
+
+මෙම සිදුවීමට සම්බන්ධ ශාලාධිපතිනිය පිළියන්දල කලාප අධ්‍යාපන කාර්යාලයේ ගුරු උපදේශකවරියක් ලෙස සේවය කරමින් සිටින බව වාර්තා වේ.
+
+මේ සම්බන්ධයෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව තවදුරටත් විමර්ශන මෙහෙයවමින් සිටින බව විභාග දෙපාර්තමේන්තුව සඳහන් කරයි.
+
+◼️
+
+[Data](articles/9dd80636.json)
+
+---
+
+### නුවරඑළියට මල් තුහින
+
+*2024-01-27 06:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192608) · `si`
+
+උතුරු, උතුරු-මැද, නැගෙනහිර සහ ඌව පළාත්වල තැනින් තැන වැසි ඇති විය හැකි බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව නිවේදනය කර තිබේ.
+
+උතුරු-මැද, නැගෙනහිර, මධ්‍යම, ඌව සහ වයඹ පළාත්වල විටින් විට හමන පැයට කිලෝ මීටර් 40ක පමණ තරමක තද සුළං ඇති විය හැක.
+
+හිමිදිරි උදෑසන කාලයේ දී නුවරඑළිය දිස්ත්‍රික්කයේ ඇතැම් ස්ථානවල මල්තුහින ඇති වීමේ හැකියාවක් පවතින බව ද වාර්තා වේ.
+
+මධ්‍යම, සබරගමුව සහ බස්නාහිර පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් පස්වරු 02.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති විය හැක.
+
+◼️
+
+[Data](articles/fc82ac9e.json)
 
 ---
 
@@ -1889,133 +1989,5 @@ Several Ministers and MPs including former President Mahinda Rajapaksa paying th
 [Data](articles/f42c8fbf.json)
 
 [Extended Data](ext_articles/f42c8fbf.ext.json)
-
----
-
-### Electricity project again after paying bills
-
-*2024-01-26 14:38:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192588) · `si`
-
-It is reported that after the payment of the relevant deficit bills, it is reported that the supply of electricity supply has been restored today (26).
-
-The power cuts were disconnected from the Bambalapitiya Railway Station due to the non-payment of electricity tariffs.
-
-However, the Ceylon Electricity Board (CEB) has been devised by the Ceylon Electricity Board.
-
-Electricity was disconnected at the Bambalapitiya Railway Station
-
-◼️
-
-[Data](articles/5d48f3f4.json)
-
-[Extended Data](ext_articles/5d48f3f4.ext.json)
-
----
-
-### Team Barishal, Shoaib Malik dismisses match-fixing rumors in BPL
-
-*2024-01-26 14:32:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Team-Barishal-Shoaib-Malik-dismisses-match-fixing-rumors-in-BPL/108-275778) · `en`
-
-Jan. 26 (Cricketpakistan) - It was circulating on social media that Malik's contract has been terminated due to match-fixing suspicions
-
-Former Pakistan captain. Shoaib Malik,  who was currently participating in the Bangladesh Premier League (BPL) as a member of Fortune Barishal, has had his contract terminated amid suspicions of involvement in match-fixing.
-
-Reports from the Bangladesh media suggest that suspicions of match-fixing arose when Malik bowled three no-balls in a single over during the match against Khulna Tigers in the BPL.
-
-Malik's bowled one over in the match, where he conceded 18 runs, with two boundaries and a six. Unfortunately, Barishal ended up losing the match by 8 wickets.
-
-Prior to the revelation of these suspicions, Malik had planned to go to Dubai for personal reasons, and Barishal had officially announced his absence from the remaining matches. However, recent reports indicate that the owner of Barishal has decided to abruptly terminate his contract.
-
-...
-
-[Data](articles/f1f30460.json)
-
-[Extended Data](ext_articles/f1f30460.ext.json)
-
----
-
-### Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
-
-*2024-01-26 14:31:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/colombo-records-billions-in-unpaid-taxes-state-owned-institutes-top-list/) · `en`
-
-COLOMBO (News 1st); Revelations show that the value of assessed tax arrears in the jurisdiction of the Colombo Municipal Council exceeds Rs. 5 billion.
-
-Colombo Municipal Commissioner Badrani Jayawardena says that Rs. 1 billion of this amount are overdues of state-owned institutes.
-
-She adds that steps have also been taken to offer a discount to people who pay their assessment tax early in the year.
-
-13 Detainees Still on the Run After Kandakadu Rehabilitation Center Escape
-
-Wickremesinghe to Present Policy Statement as Parliament Resumes Feb. 7th
-
-Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
-
-◼️
-
-[Data](articles/5934841c.json)
-
-[Extended Data](ext_articles/5934841c.ext.json)
-
----
-
-### The hearing of petitions against the ATA begins
-
-*2024-01-26 14:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/26/the-hearing-of-petitions-against-the-ata-begins/) · `en`
-
-COLOMBO (News 1st); The hearing of 29 petitions challenging the Anti-Terrorism Bill submitted by the government to Parliament began today.
-
-The five-judge bench comprises Chief Justice Jayantha Jayasuriya, Vijith Malalgoda, A.H.M.D. Nawaz, Shiran Gunaratne, and Arjuna Obeysekera.
-
-The petitions argue that certain clauses of the proposed bill violate basic human rights and call for a two-thirds majority vote in Parliament and a referendum before the bill can be passed.
-
-13 Detainees Still on the Run After Kandakadu Rehabilitation Center Escape
-
-Wickremesinghe to Present Policy Statement as Parliament Resumes Feb. 7th
-
-Colombo Records Billions in Unpaid Taxes; State-Owned Institutes Top List
-
-◼️
-
-[Data](articles/b2f7a435.json)
-
-[Extended Data](ext_articles/b2f7a435.ext.json)
-
----
-
-### Sri Lanka should export chocolates: President
-
-*2024-01-26 14:20:00* · [`economynextcom`](https://economynext.com/sri-lanka-should-export-chocolates-president-148786/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s confectioners should tap into international markets, President Ranil Wickremesinghe told a gathering of sweet makers.
-
-Pointing to the success of Sri Lanka teas and cinnamon globally, Wickremesinghe asked “How long before I can take chocolates and go?” at the Lanka Confectionary Manufacturers Association AGM on Wednesday (24).
-
-Sri Lanka however heavily taxes both milk and sugar, key ingredients of chocolates and confectionery. Milk is taxed to ‘protect’ domestic products.
-
-Sri Lankan chocolates could become “a world-class product”, as there were limitations for expansion within the country, Wickremesinghe was quoted by his media division.
-
-Since Sri Lanka’s foreign exchange crisis, the country has become hyper focused on export-oriented strategies.
-
-Wickremesinghe pledged 8 billion rupees for research and development to foster a thriving confectionery industry, saying it was the “low hanging fruit” for economic growth.
-
-...
-
-[Data](articles/6b6b0e40.json)
-
-[Extended Data](ext_articles/6b6b0e40.ext.json)
-
----
-
-### Kidella Expo opens at BMICH
-
-*2024-01-26 14:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Kidella-Expo-opens-at-BMICH/110-275777) · `en`
-
-Once again this year, the Kidella exhibition and trade fair kicked off at Colombo BMICH, providing an excellent opportunity to shop for thousands of essential items for homes. The event, taking place from the 26th to the 28th of December, was officially inaugurated by Sanjaya Perera, Senior Vice President- Personal Banking and Customer Experience. Pix by Kithsiri De Mel
-
-◼️
-
-[Data](articles/474caa62.json)
-
-[Extended Data](ext_articles/474caa62.ext.json)
 
 ---

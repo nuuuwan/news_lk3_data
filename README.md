@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 17:52:31**
+As of **2024-01-27 18:06:42**
 
 ## Newspaper Stats
 
-*Scraped **2,928** Articles*
+*Scraped **2,929** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 169
 newsfirstlk | 170
 dailyftlk | 215
 adalk | 268
-adaderanasinhalalk | 279
+adaderanasinhalalk | 280
 virakesarilk | 305
 adaderanalk | 372
 tamilmirrorlk | 372
@@ -26,7 +26,7 @@ dailymirrorlk | 402
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,926 (99.9%) of 2,928 articles have been extended.
+2,928 (100.0%) of 2,929 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,26 @@ He noted that Sri Lanka must “ensure whatever proposals we have exchanged are 
 
 [Data](articles/cdda79a7.json)
 
+[Extended Data](ext_articles/cdda79a7.ext.json)
+
+---
+
+### අනුරාධ ජයකොඩිගේ අවසන් කටයුතු සිදුකෙරේ
+
+*2024-01-27 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192630) · `si`
+
+රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතා සමඟ රිය අනතුරින් මිය ගිය ඔහුගේ ආරක්ෂක නිලධාරි පොලිස් කොස්තාපල් අනුරාධ ජයකොඩි මහතාගේ අවසන් කටයුතු අද (27) පස්වරුවේ සිදුකෙරුණි.
+
+මේ අතර පොලිස් කොස්තාපල් අනුරාධ ජයකොඩි මහතා පොලිස් සැරයන් නිලයට උසස් කෙරුණි.
+
+රාජ්‍ය පරිපාලන චක්‍ර ලේඛන අංක 22/93 පරිදි පශ්චාත් උසස්වීම් පදනම යටතේ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා විසින් 25 වනදා සිට ක්‍රියාත්මක වන පරිදි ඔහුව පොලිස් සැරයන් තනතුරට උසස් කර ඇති බව පොලිස් මාධ්‍ය කොට්ඨාසය මාධ්‍ය නිවේදනයක් නිකුත් කරමින් සඳහන් කරයි.
+
+මෙම නිලධාරියාගේ පවුලේ සාමාජිකයින්ට රුපියල් ලක්ෂ 15 ක මුදලක් එම නිවසේදී ලබාදීමට ද වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා පියවර ගෙන තිබුණි.
+
+◼️
+
+[Data](articles/ed4b6f21.json)
+
 ---
 
 ### 74 year old woman dies
@@ -68,21 +88,23 @@ The post mortem was revealed that she had been sexually abused.
 
 ---
 
-### 98 கொள்கலன்களில் இலங்கைக்கு வந்த அழுகிய மீன்கள்
+### Redolored fish that came to Sri Lanka in 98 containers
 
 *2024-01-27 16:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/98-கொள்கலன்களில்-இலங்கைக்கு-வந்த-அழுகிய-மீன்கள்/175-332179) · `ta`
 
-சீஷெல்ஸில் இருந்து தாய்லாந்து நோக்கி பயணித்த கப்பலில் இருந்து அழுகிய மீன்கள் அடங்கிய 98 கொள்கலன்கள் நாட்டில் தரையிறக்கப்பட்டுள்ளதாக அரசாங்க கணக்குகள் பற்றிய குழுவில் தெரியவந்துள்ளது.
+A group of government accounts has revealed that 98 containers of rotten fish have landed in the country from the ship traveling from Seychelles to Thailand.
 
-கப்பலை இலங்கைக்கு கொண்டு வந்த இலங்கை பிரதிநிதிக்கு சொந்தமான செமண் தொழிற்சாலை உள்ளதாகவும், கப்பலில் இருந்த கெட்டுப்போன மீன்கள் அடங்கிய 04 கொள்கலன்களுக்கு என்ன நடந்தது என தெரியவரவில்லை எனவும்  அந்த குழுவில் மேலும் தெரியவந்துள்ளது.
+The group has also revealed that there is a Seman factory belonging to the Sri Lankan representative who brought the ship to Sri Lanka and did not know what happened to the 04 containers of the ship.
 
-எவ்வாறாயினும், மீன் கழிவுகளுக்காகவே இந்த அனுமதிப்பத்திரம் வழங்கப்பட்டுள்ளதாக இறக்குமதி மற்றும் ஏற்றுமதி கட்டுப்பாட்டாளர் நாயகம் டி.டி உபுல்மலி பிரேமதிலக்க தெரிவித்தார்.
+However, the permit has been issued for fish waste, said the Import and Export Controller General DD Upulmali Premadilaka.
 
-இது தொடர்பில் மேலதிக விசாரணைகளை முன்னெடுப்பதற்காக எதிர்வரும் மார்ச் மாதம் 5ஆம் திகதி விடயத்திற்குரிய அனைத்து அரச நிறுவனங்களுக்கும் அழைப்பு விடுக்கப்படும் என அரச கணக்குகள் பற்றி குழுவின் தலைவரான இராஜாங்க அமைச்சர் லசந்த அழகியவண்ண தெரிவித்துள்ளார். R
+The Chairman of the Committee, Lasantha Alagiyawana, said that all state institutions will be invited to investigate further inquiries on March 5.. Remble
 
 ◼️
 
 [Data](articles/02dbbd6d.json)
+
+[Extended Data](ext_articles/02dbbd6d.ext.json)
 
 ---
 
@@ -2025,23 +2047,5 @@ Shritharan has been projecting himself as a supporter and fellow traveller of th
 [Data](articles/85adc22f.json)
 
 [Extended Data](ext_articles/85adc22f.ext.json)
-
----
-
-### Can The New ITAK Leader Help Bring About Reconciliation?
-
-*2024-01-27 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Can-The-New-ITAK-Leader-Help-Bring-About-Reconciliation/172-275802) · `en`
-
-With the end of the war in 2009, the ITAK again gained its clout as the main Tamil party in the country as well as within the TNA. Despite other Tamil parties in the north having grown as a threat to its hegemony in the north and the Tamil politics, the ITAK is still a force to be reckoned with
-
-Many in the south seem to confuse the Tamil National Alliance (TNA) with the Ilankai Thamil Arasu Katchi (ITAK), the group that can be considered to be the main Tamil political party in the country, especially in the north. This confusion was evident by the news items carried by some of the south based newspapers on the election of the Leader of the ITAK last Sunday (January 21).
-
-Some Sinhala newspapers said that Sivagnanam Sritharan was elected as the Leader of the TNA, while the others rightly described him to be the new President (Leader) of the ITAK.
-
-...
-
-[Data](articles/a709cd40.json)
-
-[Extended Data](ext_articles/a709cd40.ext.json)
 
 ---

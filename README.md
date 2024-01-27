@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 13:02:21**
+As of **2024-01-27 13:17:16**
 
 ## Newspaper Stats
 
-*Scraped **2,898** Articles*
+*Scraped **2,903** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,112 @@ newsfirstlk | 170
 dailyftlk | 215
 adalk | 266
 adaderanasinhalalk | 270
-virakesarilk | 301
-tamilmirrorlk | 365
+virakesarilk | 303
 adaderanalk | 366
+tamilmirrorlk | 368
 dailymirrorlk | 400
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,898 (100.0%) of 2,898 articles have been extended.
+2,898 (99.8%) of 2,903 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
+
+### பாலஸதீனத்திற்கான ஐநா அமைப்;பின் பணியாளர்கள் ஹமாசுடன் இணைந்து தாக்குதலில் ஈடுபட்டனரா?  இஸ்ரேல் பரபரப்பு குற்றச்சாட்டு
+
+*2024-01-27 12:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/174911) · `ta`
+
+ஓக்டோபர் ஏழாம் திகதி ஹமாஸ் மேற்கொண்ட தாக்குதலில் ஈடுபட்டவர்களில் பாலஸ்தீனத்திற்கான ஐநா அமைப்பின் பணியாளர்களும் உள்ளனர் என விசாரணைகள் மூலம் தெரியவந்துள்ளதை தொடர்ந்து அந்த அமைப்பிற்கான நிதியை அவுஸ்திரேலியா  இடைநிறுத்தியுள்ளது.
+
+ஒக்டோபர் ஏழாம் திகதி தாக்குதலில் தனது அமைப்பை சேர்ந்தவர்களும் ஈடுபட்டனர் என்ற விபரங்களை இஸ்ரேல் வழங்கியுள்ளது என பாலஸ்தீன அகதிகளிற்கான ஐநா அமைப்பு தெரிவித்துள்ளது.
+
+விசாரணைகள் ஆரம்பமாகியுள்ளன  குறிப்பிட்ட பணியாளர்கள் பணிநீக்கம் செய்யப்பட்டுள்ளனர் என ஐநா அமைப்பு தெரிவித்துள்ளது.
+
+இஸ்ரேலிற்கு எதிராக தனது அமைப்பின் எத்தனை பேர் தாக்குதலில் ஈடுபட்டனர் எவ்வகையான தாக்குதலில் ஈடுபட்டனர் என்ற விபரங்களை ஐநா அமைப்பு வெளியிடவில்லை.
+
+இந்நிலையில் அமெரிக்கா கனடா போன்று அகதிகளிற்கான பாலஸ்தீன அமைப்பிற்கான நிதிஉதவியை இடைநிறுத்தியுள்ளதாக அவுஸ்திரேலியா அறிவித்துள்ளது.
+
+அவுஸ்திரேலியா இந்த குற்றச்சாட்டுகள் குறித்து ஆழ்ந்த கவலை கொண்டுள்ளதாக அவுஸ்திரேலிய வெளிவிவகார அமைச்சர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/d39a12a4.json)
+
+---
+
+### மனைவியை உயிருடன் தீ வைத்து எரித்த கணவருக்கு மரண தண்டனை
+
+*2024-01-27 12:40:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவியை-உயிருடன்-தீ-வைத்து-எரித்த-கணவருக்கு-மரண-தண்டனை/175-332175) · `ta`
+
+தனது மனைவியை தாக்கி மண்ணெண்ணெய் ஊற்றி தீயிட்டு கொலை செய்த  குற்றச்சாட்டில் கைது செய்யப்பட்ட கணவருக்கு மரணதண்டனை விதிக்கப்பட்டுள்ளது.
+
+2010 ஆம் ஆண்டு ஜனவரி மாதம் 26 ஆம் திகதி  தனது மனைவியை தாக்கி அறையொன்றில் வைத்து மண்ணெண்ணெய் ஊற்றி தீ வைத்து கொலை செய்த சம்வம் தொடர்பில் இவர் கைது செய்யப்பட்டிருந்தமை குறிப்பிடத்தக்கது. R
+
+◼️
+
+[Data](articles/cffd5bbd.json)
+
+---
+
+### புவிசார் அரசியல் மோதலில் சிக்குண்டது  நிகழ்நிலை பாதுகாப்பு சட்டம் - அமெரிக்கா எதிர்ப்பு – ரஸ்யா ஆதரவு
+
+*2024-01-27 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174908) · `ta`
+
+இலங்கைக்கான அமெரிக்க தூதுவர் நிகழ்நிலை பாதுகாப்பு சட்டத்தை கண்டித்துள்ள அதேவேளை ரஸ்யா வரவேற்றுள்ளது.
+
+நிகழ்நிலை பாதுகாப்பு சட்டத்தில் உள்ளடக்கப்பட்டுள்ள விடயங்கள் முற்றிலும்  ஒரு உள்நாட்டு விடயம் என  இலங்கைக்கான ரஸ்ய தூதுவர் லெவன்  ஜகர்யான்தெரிவித்துள்ளார்.
+
+இலங்கை நிறைவேற்றியுள்ள நிகழ்நிலை பாதுகாப்பு சட்டமூலம் குறித்த விடயங்களை ரஸ்யா உன்னிப்பாக அவதானித்து வருகின்றது என அவர் தெரிவித்துள்ளார்.நிகழ்நிலை பாதுகாப்பு சட்டம் தொடர்பில் உள்நாட்டிலிருந்தும் சர்வதேச அளவிலும் வெளியாகும் கருத்துக்களை உன்னிப்பாக அவதானிப்பதாக ரஸ்ய தூதுவர் தெரிவித்துள்ளார்
+
+இலங்கையின் நிகழ்நிலை பாதுகாப்பு சட்டத்தில் உள்ளடக்கப்பட்டுள்ள விடயங்கள்  முற்றிலும் உள்நாட்டு விடயம் என தெரிவித்துள்ள அவர் உள்நாட்டு விடயங்களில் வெளிநாடுகள் தலையிடுவது முற்றிலும் அவசியமற்ற ஏற்றுக்கொள்ள முடியாத விடயம் எனவும் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a3b9615a.json)
+
+---
+
+### நுவரெலியாவில் உச்சம் தொடும் மரக்கறிகளின் விலைகள்
+
+*2024-01-27 12:31:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-உச்சம்-தொடும்-மரக்கறிகளின்-விலைகள்/175-332174) · `ta`
+
+நுவரெலியா பொருளாதார மத்திய நிலைய சந்தையில் கரட் மற்றும்  மேல் நாட்டு உணவுகளுக்கு சேர்க்கப்படும் மரக்கறிகளின் மொத்த விலை உயர்வு ஏற்பட்டுள்ளது.
+
+நுவரெலியா பொருளாதார மத்திய நிலைய காரியாலயம் இன்று (27) காலை வெளியிட்டுள்ள மரக்கறிகள் கொள்வனவு மற்றும், விற்பணை விலை பட்டியலில் இந்த விலை உயர்வு குறிப்பிடப்பட்டுள்ளது.
+
+அதனடிப்படையில் சிவப்பு கோவா 3,700 ரூபாய், புரக்கோலின் 4,000 ரூபாய், பெஸில் இலை 3,000 ரூபாய், ஐஸ்பேர்க் 2,600 ரூபாய் என மொத்த விற்பனை விலை குறிப்பிடப்பட்டுள்ளது.
+
+அதேநேரத்தில் நுவரெலியாவில் இருந்து வெளியிட சந்தைகளுக்கு அதிகமாக கொண்டு செல்லப்படும் மரக்கறிகளின் மொத்த விற்பணை விலையும் அறிவிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/d59fea9b.json)
+
+---
+
+### மற்றுமொரு கோர விபத்தில் 8 பேர் படுகாயம்
+
+*2024-01-27 11:52:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மற்றுமொரு-கோர-விபத்தில்-8-பேர்-படுகாயம்/75-332173) · `ta`
+
+திருகோணமலை - சேருநுவர பொலிஸ் பிரிவிலுள்ள தங்கநகர் பகுதியில் இடம்பெற்ற வாகன விபத்தில் 8 நபர்கள் படுகாயமடைந்த நிலையில் மூதூர் தள வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாக சேருநுவர பொலிஸார் தெரிவித்தனர்.
+
+திருகோணமலை - மட்டக்களப்பு பிரதான வீதியில்  நேற்று (26) மாலை இச்சம்பவம் இடம்பெற்றுள்ளது.
+
+அவிசாலையிலிருந்து திருகோணமலைக்கு வேனில் சுற்றுலா வந்தவர்கள் சுற்றுலாவை முடித்துக் கொண்டு திரும்பிச் சென்று வேளை, நிறுத்தி வைக்கப்பட்டிருந்த கெப் ரக லொறியின் பின்னால்   மோதுண்டதில் இவ்விபத்துச் சம்பவம் நேர்ந்துள்ளது.
+
+இதன்போது வேனில் பயணித்த அவிசாவளையைச் சேர்ந்த வேன் சாரதி உற்பட 07 பேர் படுகாயமடைந்துள்ளதுடன் முன்னால் நிறுத்தி வைக்கப்பட்டிருந்த கெப் ரக லொறியின் உதவியாளர் ஒருவரும் படுகாயங்களுக்குள்ளாகியுள்ளனர்.
+
+இச்சம்பவத்தில் படுகாயமடைந்தவர்கள் மூதூர் தள வைத்தியசாலையில் அனுமதிக்கப்பட்டு சிகிச்சை பெற்று வருவதுடன் சம்பவம் தொடர்பிலான மேலதிக விசாரணைகளை சேருநுவர பொலிஸார் முன்னெடுத்து வருகின்றனர். R
+
+◼️
+
+[Data](articles/da9b912b.json)
+
+---
 
 ### Drug destruction facility under construction in Wanathavilluwa
 
@@ -1903,107 +1995,5 @@ Steps have been taken to hand over the Katunayaka airport for further investigat
 [Data](articles/d82de3fe.json)
 
 [Extended Data](ext_articles/d82de3fe.ext.json)
-
----
-
-### Psychiatric treatment for self-proclaimed ‘Vishwa Buddha’
-
-*2024-01-26 20:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96753/psychiatric-treatment-for-self-proclaimed-vishwa-buddha) · `en`
-
-The saffron-robed person claiming to be ‘Vishwa Buddha’ has been referred for psychiatric treatment under the recommendation of the Judicial Medical Officer, Senior Deputy Solicitor General Dileepa Peiris revealed before the court today (26).
-
-Appearing on behalf of the Criminal Investigations Department (CID), the Senior Deputy Solicitor General stated that accordingly, the suspect, who has been remanded in custody, is currently receiving psychiatric treatment at the Prison Hospital.
-
-This was revealed when the case pertaining to the breaching of bail conditions by the self-styled monk was recalled before the Nugegoda Magistrate’s Court this afternoon.
-
-...
-
-[Data](articles/024cb69a.json)
-
-[Extended Data](ext_articles/024cb69a.ext.json)
-
----
-
-### Reshan Most Outstanding Schools Golfer for 2023
-
-*2024-01-26 20:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Reshan-Most-Outstanding-Schools-Golfer-for-2023/108-275785) · `en`
-
-Colombo, Jan. 26 (Daily Mirror) - Fifteen-year-old schoolboy from Colombo International School, Reshan Algama was recognised as the Most Outstanding Schools Golfer of the Year 2023 at the second Sportunleash Schools Sports Awards 2024, which took place at the BMICH in Colombo.
-
-Reshan secured the first-ever win in the newly introduced golf segment, reflecting his dedication, determination, and outstanding performance throughout the year.
-
-This also will means that he is chosen to be part of the Vision 2036 ‘Lion Warrior’ and programme to nature and develop Sri Lankan athletes to take part in the 2036 Olympics.
-
-The organisers are planning to have a pool and all winners of the sports awards of various sports are to be in a pool called 'Lion Warriors' and the programme is to be initiated soon.
-
-◼️
-
-[Data](articles/90b6ad66.json)
-
-[Extended Data](ext_articles/90b6ad66.ext.json)
-
----
-
-### ICJ orders Israel to prevent acts of genocide, fails to order ceasefire
-
-*2024-01-26 19:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/ICJ-orders-Israel-to-prevent-acts-of-genocide-fails-to-order-ceasefire/108-275790) · `en`
-
-Jan 26 (Reuters) - The International Court of Justice (ICJ) ordered Israel on Friday to prevent acts of genocide against the Palestinians and do more to help civilians, although it stopped short of ordering a ceasefire as requested by South Africa.
-
-South Africa brought the case to the International Court of Justice (ICJ) earlier this month, asking it to grant emergency measures to halt the fighting, which has killed more than 26,000 Palestinians.
-
-It accused Israel of state-led genocide in its offensive, begun after Hamas militants stormed into Israel killing 1,200 and kidnapping more than 240. Israel sought to have the case thrown out.
-
-In Friday's ruling, the judges said Israel must take all measures within its power to prevent its troops from committing genocide, punish and must take steps to improve the humanitarian situation.
-
-...
-
-[Data](articles/74f00e43.json)
-
-[Extended Data](ext_articles/74f00e43.ext.json)
-
----
-
-### Completion of Parliamentary Sessions from midnight today
-
-*2024-01-26 19:40:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இன்று-நள்ளிரவு-முதல்-பாராளுமன்ற-அமர்வுகள்-நிறைவு/175-332145) · `ta`
-
-President Ranil Wickremesinghe has issued a gazette notification by President Ranil Wickremesinghe that the parliamentary session is being completed with effect from midnight today.
-
-Accordingly, the next session of Parliament will begin on February 7 at 10.30 am.
-
-◼️
-
-[Data](articles/81b47383.json)
-
-[Extended Data](ext_articles/81b47383.ext.json)
-
----
-
-### 6 lives navigated at the highway at the end of the last 26 days
-
-*2024-01-26 19:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192602) · `si`
-
-The Road Development Authority (UPFA) says that six people were killed in highways during the past 26 days alone.
-
-However, there were only 5 deaths due to the candidates on highways.
-
-The Road Development Authority points out that there were many accidents that there were many dangers of not keeping the prescribed gap.
-
-Meanwhile, Ada Derana observed that many of the street lamps had been caused by the exhibition as well as high-speed lamps, as well as many street lamps installed in high-speed lamps.
-
-The Road Development Authority states that this situation has caused this situation to cut off the power cords of drug addicts.
-
-Police say that a part of the highlighting power wiring has been cut off at a total of Rs.
-
-A representative of the construction company had reached the scene with three cords and commenced a police investigation into the suspects.
-
-Meanwhile, a foreigner lost his lives in the Kerawalapitiya Expressway today (26).
-
-...
-
-[Data](articles/d2d8324e.json)
-
-[Extended Data](ext_articles/d2d8324e.ext.json)
 
 ---

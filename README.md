@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-27 14:32:35**
+As of **2024-01-27 14:48:22**
 
 ## Newspaper Stats
 
@@ -26,69 +26,75 @@ dailymirrorlk | 400
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,907 (99.9%) of 2,911 articles have been extended.
+2,911 (100.0%) of 2,911 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-27 (Saturday)
 
-### நுவரெலியா கிரகரி வாவியில் மிதக்கும் சடலம்
+### Corpse floating in Nuwara Eliya
 
 *2024-01-27 14:04:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியா-கிரகரி-வாவியில்-மிதக்கும்-சடலம்/76-332176) · `ta`
 
-நுவரெலியா - பதுளை பிரதான வீதியில் உள்ள கிரகரி வாவியில் இன்று  (27) காலை சடலமொன்று மிதப்பதாக நுவரெலியா பொலிஸார் தெரிவித்தனர்.
+Nuwara Eliya police said that a body was floated this morning (27) at the Grakari Wavi on the Nuwara Eliya - Badulla main road.
 
-கிரகரி வாவியில் படகு சவாரியில் ஈடுபடுவோர் சடலமொன்று மிதப்பதாக பொலிஸாருக்கு வழங்கிய தகவலின் அடிப்படையில் பொலிஸார் சம்பவ இடத்துக்கு விரைந்துள்ளனர்.
+Police have rushed to the scene on the basis of information provided to the police that a bodybuilder was floating in the Grakari Wavi.
 
-இவ்வாறு சடலமாக மிதப்பவர் இராமன் பத்மநாதன் வயது (64) என பொலிஸார் தெரிவிக்கின்றனர்.
+According to police, Raman Padmanathan is age (64).
 
-நுவரெலியா மாவட்ட நீதவான் ஸ்தலத்துக்கு சென்று சடலத்தை பார்வையிட்டதன் பின்னர், சடலம் வாவியில் இருந்து மீட்கப்படும் என்று பொலிஸார் தெரிவித்தனர்.
+Police said the body would be recovered from the Vaavi after visiting the body of the Nuwara Eliya District Magistrate.
 
-இவர் வாவியில் பாய்ந்து உயிரிழந்தாரா? அல்லது கொலை செய்து வாவியில் எறிந்து சென்றார்களா என்பது தொடர்பாக பலகோணங்களில் பொலிஸார் விசாரணைகளை முன்னெடுத்துள்ளனர்.
+Did he die in the Vavi?Police are conducting investigations into whether they were murdered and thrown into the vaigai.
 
-மரண விசாரணைகளின் பின் சடலம் வைத்திய பரிசோதனைக்காக நுவரெலியா மாவட்ட வைத்தியசாலைக்கு அனுப்பி வைக்கப்படவுள்ளதாகவும் பொலிஸார் மேலும் தெரிவித்தனர். R
-
-◼️
+...
 
 [Data](articles/bd9e1a9d.json)
 
+[Extended Data](ext_articles/bd9e1a9d.ext.json)
+
 ---
 
-### කොළඹ වරායට ආ කුණු මාළු
+### Rubbish fish to the port of Colombo
 
 *2024-01-27 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192622) · `si`
 
-සීෂෙල්ස් සිට තායිලන්තය දක්වා ගමන් ගත් නෞකාවක තිබූ නරක් වූ මාළු අඩංගු බහාලුම් 98ක් කාබනික පොහොර සෑදීමට බව කියමින් මෙරටට ගොඩ බා ඇති බව රජයේ ගිණුම් කාරක සභාවේ දී අනාවරණය වී ඇත.
+Seychelles to Thailand, 98 containers, which have spoken to Thailand, has been revealed in the Government Accounts Committee that the government's accounting was made to make organic fertilizer.
 
-එම නෞකාව මෙරටට ගෙන ඒමට කටයුතු කළ මෙරට නියෝජිතයා සතු ව සැමන් කර්මාන්ත ශාලාවක් පවතින බවත් නෞකාවේ තිබු නරක් වූ මාළු අඩංගු බහාලුම් 04කට සිදු වූ දෙයක් නොමැති බවත් එහි දී වැඩිදුරටත් හෙළි වී තිබේ.
+It has further revealed that the Sri Lankan agency has had a factory and four containers in the ship that had spoiled fish in the ship.
 
-නෞකාවට වරයේ ගොඩ බෑම සඳහා බලපත්‍රයක් ලබා දී ඇති බව ද වාර්තා වේ.
+It is also reported that a license has been issued to the ship to land on the table.
 
-කෙසේ වෙතත් ආනයන අපනයන පාලක ජනරාල් ටී.ටී.උපුල්මලී ප්‍රේමතිලක මහත්මොය පැවසුවේ, මෙම බලපත්‍රය මත්ස්‍ය අපද්‍රව්‍ය සඳහා නිකුත් කර ඇති බවයි.
+However, TT Abulmali Premathilaka, however, said that the license was issued to fish waste.
 
-මාර්තු 05 වැනි දා මීට අදාළ සියලු රාජ්‍ය ආයතන කැඳවා මේ පිළිබඳ වැඩිදුරටත් සොයාබලන බව රජයේ ගිණුම් පිළිබඳ කාරක සභාවේ සභාපති රාජ්‍ය අමාත්‍ය ලසන්ත අලගියවන්න මහතා පැවසීය.
+The Chairman of the Public Accounting Committee Lasantha Alagiyawanna said that all state institutions of the government summoned all the government institutions on March 5.
 
 ◼️
 
 [Data](articles/0d191a98.json)
 
+[Extended Data](ext_articles/0d191a98.ext.json)
+
 ---
 
-### மலையக தோட்டப் பகுதிகளில் சிறுத்தைகளின் நடமாட்டம் அதிகரிப்பு : அச்சத்தில் மக்கள்
+### Increase of leopards in the hill plantation areas: People in fear
 
 *2024-01-27 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174912) · `ta`
 
-தேயிலை தோட்டப் பகுதிகளில் சிறுத்தைகளின் நடமாட்டம் அதிகரித்துள்ளதாகவும் இதனால் தோட்டத் தொழிலாளர்களுக்கு உயிராபத்துள்ளதாகவும் மலையக தோட்டப் பகுதிகளில் வசிக்கும் பொதுமக்கள் அச்சம் தெரிவிக்கின்றனர்.
+The public living in the hill plantation area is worried about the increase in leopards' mobility in the tea plantation areas and this has caused the plantation workers to live.
 
-சிறுத்தைகள் தேயிலைச் செடிகளுக்குள் பதுங்கியிருந்து அவ்வழியே செல்வோரை தாக்கிய பல சம்பவங்கள் இடம்பெற்றுள்ளதாக பாதிக்கப்பட்ட மக்கள் கூறும் அதேவேளை, அண்மையில் தேயிலைச் செடிக்குள் இறந்து கிடந்த நாயின் உடலை உண்டுகொண்டிருந்த சிறுத்தையொன்று, அப்பகுதியில் தேயிலை பறித்துக்கொண்டிருந்த தொழிலாளி ஒருவரை தாக்கியதாகவும் கூறுகின்றனர்.
+While the victims have claimed that there were many incidents that had taken place in the tea plants and attacked them, a leopard that had recently died in a tea plant had been attacked by a tea worker.
 
-"பொகவந்தலாவையிலுள்ள தோட்டமொன்றில் வேலை செய்யும் தொழிலாளி ஒருவர் பணியிடத்துக்கு சென்றுகொண்டிருந்தபோது சிறுத்தையால் தாக்கப்பட்டு பலத்த காயங்களுக்குள்ளானார்.
+“A worker working in a garden in Bogawantalawa was attacked by a leopard and suffered seriously injuries.
 
-சிறுத்தைகளின் தாக்குதலிலிருந்து பொது மக்களை பாதுகாக்கவும், சிறுத்தைகளிடமிருந்து தம்மை பாதுகாத்துக்கொள்ள மக்கள் பொறி வைத்து சிறுத்தைகளை கொல்வதை தடுக்கவும் வனவிலங்கு அதிகாரிகள் சிறந்த பொறிமுறையை உருவாக்க வேண்டும்" என்கின்றனர்.
+Wildlife officials should develop a better mechanism to protect the public from the attacks of leopards and prevent people from killing the leopards to protect themselves from the leopards. ”
 
-...
+Also, a medical expert in the Randenigala Wildlife Veterinary Division said, “If workers see the leopards moving amidst the tea plants, you can try to scare the leopards loud and shout out.. But if they try to attack those leopards, they will attack humans.
+
+◼️
 
 [Data](articles/9df46fe1.json)
+
+[Extended Data](ext_articles/9df46fe1.ext.json)
 
 ---
 
@@ -120,25 +126,27 @@ The suspect was present in 2008 as Maharagama Ratana Thera in 2008, since then h
 
 ---
 
-### காசாவில் இனப்படுகொலை இடம்பெறுகின்றதா? சர்வதேச நீதிமன்றம் வழங்கியுள்ள முக்கிய தீர்ப்பு என்ன?
+### Is the genocide in Gaza?What is the main judgment given by the International Court of Justice?
 
 *2024-01-27 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/174913) · `ta`
 
-காசாவில் இனப்படுகொலைகள் இடம்பெறுவதை தடுப்பதற்கான நடவடிக்கைகளை இஸ்ரேல் எடுக்கவேண்டும் என சர்வதேச நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The International Court of Justice has ordered Israel to take measures to prevent the genocide of Gaza.
 
-இஸ்ரேல் இனப்படுகொலைகளில் ஈடுபடுவதாக தெரிவித்து தென்னாபிரிக்கா தாக்கல் செய்த மனுவை ஆராய்ந்த சர்வதேசநீதிமன்றம் தனது உத்தரவினை வெளியிட்டுள்ளது.
+The International Court of Justice has issued a petition filed by South Africa to claim Israeli genocide.
 
-இனப்படுகொலை என்பதற்குள் அடங்ககூடிய அனைத்துவகையான நடவடிக்கைகளையும் தடுத்துநிறுத்துவதற்கான நடவடிக்கைகளை இஸ்ரேல் எடுக்கவேண்டும் என நீதிபதி ஜோன்டொனோகு தெரிவித்துள்ளார்.
+Judge Jondonoku said Israel should take steps to prevent all the proceedings of the genocide.
 
-இஸ்ரேலி;ய படையினர் இனப்படுகொலைகள் என கருதப்படும் நடவடிக்கைகளில் ஈடுபடுவதை இஸ்;ரேல் தடுத்து நிறுத்தவேண்டும் எனவும் அவர் உத்தரவிட்டுள்ளார்.
+He has also ordered the prevention of Israeli soldiers to stop engaging in genocide.
 
-எனினும் தென்னாபிரிக்கா வேண்டுகோள் விடுத்தபடி இஸ்ரேல் காசாவில் தனது இராணுவநடவடிக்கைகளை நிறுத்தவேண்டும் என நீதிமன்றம் உத்தரவிடவில்லை.
+However, the court did not order Israeli to stop its military actions in Israeli Gaza, according to South Africa.
 
-இஸ்ரேலின் நடவடிக்கைகள் தொடர்பிலான நீதிமன்றத்தின் இறுதி தீர்ப்பு இதுவல்ல என்ற போதிலும் பாலஸ்தீனியர்கள் இனப்படுகொலை ஆபத்தை எதிர்கொள்கின்றனர் என தாங்கள் கருதுவதை நீதிபதிகள் வெளிப்படுத்தியுள்ளனர்.
+The judges have revealed that the Palestinians are facing the danger of genocide, despite the fact that this is not the final decision of the court on Israel.
 
 ◼️
 
 [Data](articles/25e0732b.json)
+
+[Extended Data](ext_articles/25e0732b.ext.json)
 
 ---
 

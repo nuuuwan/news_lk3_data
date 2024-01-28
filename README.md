@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 09:17:05**
+As of **2024-01-28 09:32:46**
 
 ## Newspaper Stats
 
@@ -353,6 +353,8 @@ COLOMBO (News 1st); Sri Lankan authorities confirmed that a group of six fisherm
 The Sri Lankan Navy received information on Saturday (27) about the capture of the fishing vessel, which had set sail from Dikowita port recently.
 
 Navy Spokesperson Captain Gayan Wickramasuriya stated that based on preliminary reports, pirates intercepted the fishing vessel carrying six Sri Lankan fishermen in the Indian Ocean north of Seychelles
+
+Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
 ◼️
 
@@ -1920,6 +1922,8 @@ Adding a further layer of complexity to the case, police revealed that the suspe
 
 According to police reports, the suspect had sold his kidney in Colombo sometime ago.
 
+Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
+
 ◼️
 
 [Data](articles/63672dad.json)
@@ -1992,6 +1996,8 @@ According to police reports, the incident occurred early this morning, with deta
 
 The deceased identified as residents of the Kelaniya area are exceeding 50 years of age.
 
+Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
+
 ◼️
 
 [Data](articles/f36b88d9.json)
@@ -2009,6 +2015,8 @@ COLOMBO (News 1st); The Sri Lanka Podujan Peramuna is set to retain its Puttalam
 District Secretary Sunanda Herath confirmed that Jagath Priyantha's name has been forwarded to the Election Commission as the replacement candidate.
 
 Election Commissioner General Saman Sri Ratnayake said that Priyantha's official appointment as Member of Parliament will be published in the Gazette shortly.
+
+Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
 ◼️
 

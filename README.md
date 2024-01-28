@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 12:48:19**
+As of **2024-01-28 13:02:15**
 
 ## Newspaper Stats
 
-*Scraped **3,039** Articles*
+*Scraped **3,045** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 172
 islandlk | 174
-newsfirstlk | 180
+newsfirstlk | 181
 dailyftlk | 215
-adalk | 274
+adalk | 275
 adaderanasinhalalk | 303
-virakesarilk | 311
-tamilmirrorlk | 384
+virakesarilk | 314
+tamilmirrorlk | 385
 adaderanalk | 393
 dailymirrorlk | 414
 
@@ -26,11 +26,43 @@ dailymirrorlk | 414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,039 (100.0%) of 3,039 articles have been extended.
+3,039 (99.8%) of 3,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### ஐநா அமைப்பின் உறுப்பினர்கள் ஹமாசுடன் இணைந்து தாக்குதலில் ஈடுபட்டதாக குற்றச்சாட்டு- நிதி உதவியை பல நாடுகள் இடைநிறுத்தின-
+
+*2024-01-28 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/174975) · `ta`
+
+ஹமாசின் ஒக்டோபர் ஏழாம் திகதி தாக்குதலிற்கு  பாலஸ்தீன அகதிகளிற்கான ஐநா அமைப்பு உதவியதாக தெரிவித்து அந்த அமைப்பிற்கான நிதி உதவியை உலகநாடுகள் இடைநிறுத்தியுள்ளன.
+
+பிரிட்டன் உட்பட எட்டு நாடுகள் பாலஸ்தீனத்தின அகதிகளுக்கான ஐநா அமைப்பிற்கான நிதி உதவியை நிறுத்தியுள்ளன.
+
+யுஎன்ஆர்டபில்யூஏ என்பது பிரதானமாக காசாவிற்கான மனிதாபிமான அமைப்பு இரண்டு மில்லியனிற்கும் மேற்பட்ட மக்கள் உயிர்வாழ்வதற்காக அந்த அமைப்பினை நம்பியிருக்கின்றனர் என அந்த அமைப்பின் தலைவர் பிலிப்பே லசாரினி தெரிவித்துள்ளார்.
+
+சிறிய எண்ணிக்கையிலான பணியாளர்களிற்கு எதிரான குற்றச்சாட்டுகளை அடிப்படையாக வைத்து நிதி இடைநிறுத்தப்பட்டுள்ளமை அதிர்ச்சியளிக்கின்றது  என தெரிவித்துள்ள அவர் ஏற்கனவே குற்றச்சாட்டுகளின் அடிப்படையில் நாங்கள் சில பணியாளர்களை இடைநிறுத்தியுள்ளோம்  விசாரணைகள் தொடர்கின்றன எனவும் தெரிவித்துள்ளார்.
+
+பிராந்தியத்தில் யுத்தம் இடம்பெயர்வு அரசியல் நெருக்கடிகள் காணப்படும் சூழ்நிலையில் இந்த தடைகள் பொருத்தமற்றவை எனவும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/3615bad7.json)
+
+---
+
+### புலமைப்பரிசில் தொகை அதிகரிப்பு
+
+*2024-01-28 12:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-தொகை-அதிகரிப்பு/175-332204) · `ta`
+
+2021 (2022) ஆம் ஆண்டில் க.பொ.த சாதாரண தரப் பரீட்சைக்கு முதன் முறையாக
+
+◼️
+
+[Data](articles/5e92bcc3.json)
+
+---
 
 ### Electoral bribery fine raised to Rs. 100,000
 
@@ -45,6 +77,38 @@ Accordingly, the fine, previously set at Rs. 500, has now been escalated to Rs 1
 [Data](articles/0310b77f.json)
 
 [Extended Data](ext_articles/0310b77f.ext.json)
+
+---
+
+### Sri Lankan fishing boats seized in Maldives
+
+*2024-01-28 12:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/sri-lankan-fishing-boats-seized-in-maldives/) · `en`
+
+Two Sri Lankan fishing boats have been detained by the Maldives National Defence Force (MNDF) Coast Guard for allegedly fishing illegally within the Maldives' Exclusive Economic Zone (EEZ).
+
+The two fishing boats were seized by the MNDF's Northern Area Command Coast Guard First Squadron following a report received by the MNDF Coast Guard on January 25. One boat had seven crew members while the other had six crew members.
+
+According to MNDF, the two vessels are currently under the custody of the Coast Guard First Squadron's Coast Guard Ship Nooraddeen, docked at Haa Alif Filladhoo harbour. The two fishing boats will be brought to Male' City and handed over to the police.
+
+Illegal fishing by Indian and Sri Lankan fishing vessels is common in Maldivian waters.
+
+Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
+
+◼️
+
+[Data](articles/babff3c5.json)
+
+---
+
+### புதிய தென்பூகோள தலைமை
+
+*2024-01-28 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/174971) · `ta`
+
+அர­சி­யலில் இடம்­பெறும் மாற்­றங்­களை தமக்கு சாத­க­மாக மாற்றி அமைத்துக்கொள்­வதில் மேலைத்­தேய வெளி­யு­ற­வுக்­ கொள்கை வகுப்­பா­ளர்கள் கைதேர்ந்­த­வர்­க­ளாக பார்க்­கப்­ப­டு­கின்­றனர். கடந்த வருடம் புது டில்­லியில் இடம்­பெற்ற ஜி20 மா­நாட்டில் தென்­பூ­கோள நாடு­க­ளுக்­கான பால­மாக இந்­தியா செய­லாற்றும் என்ற ஒரு விவ­காரம் கொண்டு வரப்­பட்­டது. இந்த விவ­காரம் பூகோள வல்­ல­ர­சு­க­ளுக்­கி­டை­யி­லான அர­சி­யலில் சீன - அமெ­ரிக்க போட்­டி­யுடன் எந்த வகையில் இணைக்­கப்­ப­டலாம் என்­பது ஒரு சிந்­த­னை­யாக எழுந்­துள்­ளது.
+
+◼️
+
+[Data](articles/47dbebed.json)
 
 ---
 
@@ -125,6 +189,26 @@ As such, in accordance with the Sports Act, No. 25 of 1973, both, the Sri Lanka 
 [Data](articles/d90a8d8a.json)
 
 [Extended Data](ext_articles/d90a8d8a.ext.json)
+
+---
+
+### பொதுமக்களின் உரிமைகளை கட்டுப்படுத்தும் அதிகாரங்களை பொலிஸாருக்கு வழங்கவேண்டாம் - பயங்கரவாத எதிர்ப்பு சட்டமூலம் குறித்து மனித உரிமை ஆணைக்குழு நீதியமைச்சருக்கு கடிதம்
+
+*2024-01-28 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174969) · `ta`
+
+உத்தேச பயங்கரவாத எதிர்ப்பு சட்டத்தின் மூலம் பொதுமக்களின் அடிப்படை உரிமைகளை கட்டுப்படுத்தும் அதிகாரங்களை பொலிஸாருக்கு வழங்கவேண்டாம் என இலங்கையின் மனித உரிமை ஆணைக்குழு வேண்டுகோள் விடுத்துள்ளது.
+
+உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலம் குறித்த தனது அவதானிப்புகள் குறித்து   இலங்கையின் மனித உரிமை ஆணைக்குழு நீதியமைச்சர் விஜயதாச ராஜபக்சவிற்கு கடிதமொன்றை எழுதியுள்ளது.
+
+பயங்கரவாதகுற்றம் என்பதற்கான வரைவிலணக்கத்தை கணிசமான அளவில் குறைக்கவேண்டும் என இலங்கை மனித உரிமை ஆணைக்குழு வேண்டுகோள் விடுத்துள்ளது.
+
+அரசமைப்பில் தெரிவிக்கப்பட்டுள்ளபடி பயங்கரவாத குற்ற சந்தேகநபருக்கு எதிராக பிறப்பிக்கப்படும் தடுப்பு உத்தரவு நீதித்துறையின் கண்காணிப்பிற்கு உட்படுத்தப்படுவதை உறுதி செய்யவேண்டும் எனவும் மனித உரிமை ஆணைக்குழு பரிந்துரைத்துள்ளது.
+
+பயங்கரவாத குற்றச்செயல்கள் தொடர்பில் கைதுசெய்யப்பட்ட எந்த சந்தேகநபருக்கும் எந்த நேரத்திலும் பிணைவழங்கும் அதிகாரம் நீதிபதிகளிற்கு வழங்கப்படுவதை உறுதி செய்யவேண்டும் எனவும் மனித உரிமைகள் ஆணைக்குழு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/48eb8ac9.json)
 
 ---
 
@@ -621,6 +705,24 @@ Encouraging more donor suspensions, Israeli Foreign Minister Israel Katz said UN
 [Data](articles/c1892851.json)
 
 [Extended Data](ext_articles/c1892851.ext.json)
+
+---
+
+### උමාඔයෙන් මෙගා වොට් 120ක් දෙන දිනය කියයි
+
+*2024-01-28 10:04:17* · [`adalk`](https://www.ada.lk/breaking_news/උමාඔයෙන්-මෙගා-වොට්-120ක්-දෙන-දිනය-කියයි/11-407749) · `si`
+
+උමාඔය ව්‍යාපෘතිය යටතේ මෙගාවොට් 120ක විදුලි ධාරිතාවක් ලබන පෙබරවාරි මස 15 වැනිදා වන විට ජාතික විදුලි පද්ධතියට එකතු කිරීමට අපේක්ෂා කරන බව වාරිමාර්ග රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා පැවසීය.
+
+එසේම ජලය මත පාවෙන සූර්ය පැනල මගින් මෙගාවොට් 3077ක් ජාතික විදුලිබල පද්ධතියට එකතු කිරීමට අවශ්‍ය ජලාශ 31ක් දැනටමත් හඳුනාගෙන තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+වාරිමාර්ග රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා මෙම අදහස් පළ කළේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+2024 වසරේ වාරිමාර්ග අමාත්‍යාංශයේ ප්‍රධාන කාර්යභාරය වශයෙන් ආහාර නිෂ්පාදනය ඉහළ නංවමින් ජාතික ආහාර සුරක්ෂිතතාවය උදෙසා උපරිම දායකත්වයක් ලබාදීමට අරමුණු කරගෙන තිබෙනවා. ඒ වගේම වාරිමාර්ග අමාත්‍යාංශයට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙවර අයවැයෙන් රුපියල් මිලියන 23,413ක මුදලක් වෙන් කර තිබෙනවා. ඉන් රුපියල් මිලියන 6913ක් ජලාශ නඩත්තු කිරීමටත්, රුපියල් මිලියන 16500ක් මහා පරිමාණ වාරි ව්‍යාපෘතීන් වෙනුවෙනුත් වෙන් කර තිබෙනවා.
+
+...
+
+[Data](articles/a1c9c57e.json)
 
 ---
 
@@ -1915,123 +2017,5 @@ The police said in a new statement that the rehearsal of the Independence Day wa
 [Data](articles/3d90a8fe.json)
 
 [Extended Data](ext_articles/3d90a8fe.ext.json)
-
----
-
-### 15 lakhs for the family of Constable
-
-*2024-01-27 18:06:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கான்ஸ்டபிளின்-குடும்பத்திற்கு-15-இலட்சம்-ரூபாய்/175-332180) · `ta`
-
-The family of the police constable Anuradha Jayakody, who died in the accident as the defender of the State Minister Sanath Nishantha, has been paid a compensation of Rs 15 lakh.
-
-State Minister Sanath Nishantha and his bodyguard police constable Anuradha Jayakody were killed in a vehicle accident on the southern highway yesterday (25). Remble
-
-◼️
-
-[Data](articles/553e57d4.json)
-
-[Extended Data](ext_articles/553e57d4.ext.json)
-
----
-
-### Independence Day ceremony: Rehearsals start date pushed back by a day
-
-*2024-01-27 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96775/independence-day-ceremony-rehearsals-start-date-pushed-back-by-a-day) · `en`
-
-Rehearsals for the 76th Independence Day ceremony, scheduled to commence on Monday (Jan.29), have been pushed back by a day.
-
-In a media release, the Police Media Division said the rehearsals would thus begin on Tuesday (Jan.30) and continue until February 03 at the Galle Face Green.
-
-Meanwhile, a special traffic plan is planned to be put in place on a stretch of the Galle Road in view of the upcoming event. As such, the Galle Road will temporarily remain closed from Kollupitiya Junction - Galle Face and from Ceramic Junction - Galle Face.
-
-Police Media Division earlier said the traffic plan comes into effect on January 29, however, as the start date for the rehearsals was deferred, the road closure is now expected to be effective from 6 a.m. - 8.30 a.m. and 11 a.m. - 12.30 p.m. from January 30 to February 02.
-
-...
-
-[Data](articles/610b3b72.json)
-
-[Extended Data](ext_articles/610b3b72.ext.json)
-
----
-
-### Special notice on rehearsals for Independence Day ceremony
-
-*2024-01-27 17:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96775/special-notice-on-rehearsals-for-independence-day-ceremony) · `en`
-
-Rehearsals for the 76th Independence Day ceremony, scheduled to commence on Monday (Jan.29), have been pushed back by a day.
-
-In a media release, the Police Media Division said the rehearsals would thus begin on Tuesday (Jan.30) and continue until February 03 at the Galle Face Green.
-
-Meanwhile, a special traffic plan is planned to be put in place on a stretch of the Galle Road in view of the upcoming event. As such, the Galle Road will temporarily remain closed from Kollupitiya Junction - Galle Face and from Ceramic Junction - Galle Face.
-
-Police Media Division earlier said the traffic plan comes into effect on January 29, however, as the start date for the rehearsals was deferred, the road closure is now expected to be effective from 6 a.m. - 8.30 a.m. and 11 a.m. - 12.30 p.m. from January 30 to February 02.
-
-...
-
-[Data](articles/6774d0dc.json)
-
-[Extended Data](ext_articles/6774d0dc.ext.json)
-
----
-
-### Grama Niladhari exam results released; recruitments expected soon
-
-*2024-01-27 17:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96774/grama-niladhari-exam-results-released-recruitments-expected-soon) · `en`
-
-The list of 4,232 candidates, who qualified to face the interview for the vacant Grama Niladhari positions based on the written examination, has been released, State Minister of Home Affairs Ashoka Priyantha said.
-
-The relevant list has been published on the official website of the State Ministry of Home Affairs which is accessible through the link – www.moha.gov.lk.
-
-Accordingly, a total of 2,002 individuals will be recruited to the Grade III of Grama Niladhari Service based on the results of the interviews.
-
-Meanwhile, the State Minister also expressed that acting on the gazette notification, interviews are expected to be held without delay to recruit them to the public service at the earliest possible.
-
-The Grama Niladhari examination was conducted by the Department of Examinations on December 02, 2023.
-
-The list of candidates qualified for the interviews is as follows;
-
-Grama Niladhari Exam Interview Selected List20212023 by poornima on Scribd
-
-◼️
-
-[Data](articles/8af4b12a.json)
-
-[Extended Data](ext_articles/8af4b12a.ext.json)
-
----
-
-### ICJ Ruling On Israeli Genocide In Gaza; Stopped Short Of Ordering A Ceasefire
-
-*2024-01-27 17:26:38* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/icj-ruling-on-israeli-genocide-in-gaza-stopped-short-of-ordering-a-ceasefire/) · `en`
-
-On Friday 26 January 2024, the International Court of Justice, ICJ,  United Nation’s highest judicial organ, ordered Israel to take steps to prevent acts of genocide in Gaza, but stopped short of ordering a ceasefire.
-
-This ruling was not something unexpected as the  ICJ, based in the Dutch city of Hague, was established by US, British, European imperial powers to serve their interests.Thus one cannot expect ICJ to issue a verdict against Israel-a settler colonial entity planted by US European imperialism in the heart of Middle East to destabilize the region.
-
-...
-
-[Data](articles/396671a2.json)
-
-[Extended Data](ext_articles/396671a2.ext.json)
-
----
-
-### Sri Lanka hoping to reach agreement ‘within couple of months’ on restructuring $13bn debt
-
-*2024-01-27 17:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96773/sri-lanka-hoping-to-reach-agreement-within-couple-of-months-on-restructuring-13bn-debt) · `en`
-
-Sri Lanka is aiming to negotiate a debt restructuring with holders of its defaulted US dollar bonds within “a couple of months”, the Governor of the Central Bank of Sri Lanka (CBSL) told the Financial Times, despite complaints by private creditors that they are being left in the dark.
-
-Dr. Nandalal Weerasinghe further mentioned that Sri Lanka needs to reach an agreement “within a couple of months” on restructuring the USD 13bn of debt, but he went on to dismiss worries that negotiations have become bogged down, the Financial Times reported.
-
-“There’s a lot of interest from private creditors to finish this as soon as possible. But because of the procedure it takes a certain time . . . We also want to do that fast,” the CBSL governor has said.
-
-He noted that Sri Lanka must “ensure whatever proposals we have exchanged are consistent with the [IMF’s] debt sustainability analysis and also comparable [with] we have been discussing with other creditors. That’s a bit of a complicated process.”
-
-...
-
-[Data](articles/cdda79a7.json)
-
-[Extended Data](ext_articles/cdda79a7.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 19:02:23**
+As of **2024-01-28 19:17:15**
 
 ## Newspaper Stats
 
-*Scraped **3,099** Articles*
+*Scraped **3,102** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 174
 newsfirstlk | 183
 dailyftlk | 215
 adalk | 283
-adaderanasinhalalk | 315
-virakesarilk | 321
+adaderanasinhalalk | 316
+virakesarilk | 323
 tamilmirrorlk | 393
 adaderanalk | 399
 dailymirrorlk | 424
@@ -26,79 +26,125 @@ dailymirrorlk | 424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,091 (99.7%) of 3,099 articles have been extended.
+3,099 (99.9%) of 3,102 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### இறுதி கிரியைகளுக்கு விசேட பொலிஸ் பாதுகாப்பு
+### ICC තහනම ඉවතට
+
+*2024-01-28 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192667) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ශ්‍රී ලංකාව වෙත පනවා තිබූ තහනම වහාම ක්‍රියාත්මක වන පරිදි ඉවත්කිරීමට පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/9e794332.json)
+
+---
+
+### ஜனாதிபதியை சந்தித்து ரகசியம் பேசிய எதிர்க்கட்சி எம்.பிக்கள்
+
+*2024-01-28 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175010) · `ta`
+
+நிகழ்­நிலை காப்புச் சட்ட மூலத்­துக்கு எதி­ராக இரு குழுக்கள் மாத்­தி­ரமே எதிர்ப்பை வெளி­யி­டு­கின்­றன. அவர்­களின் முத­லாவது குழு­வினர் ஊட­கங்­களில் பணி ­பு­ரிந்துகொண்டு சமூக வலைத்­த­ளங்­களை பயன்­ப­டுத்­து­ப­வர்கள். மற்றைய தரப்­பினர் எதிர்க்­கட்சி உறுப்­பி­னர்கள். 'இந்த சட்­டத்­தினால் பெண்கள் மற்றும் சிறு­வர்­களின் உரி­மைகள் பாது­காக்­கப்­படும் என்று உண்­மையில் இவர்­க­ளுக்குத் தெரியும். ஆனால் அர­சி­ய­லுக்­காக எதிர்ப்­பினை வெளி­யி­டு­கி­றார்கள்' என பாரா­ளு­மன்ற உறுப்­பினர் வஜிர அபே­வர்­தன ஜனா­தி­ப­திக்கு கூறினார்.
+
+...
+
+[Data](articles/94cc2568.json)
+
+---
+
+### இலங்கை தமிழ் அரசுக் கட்சித் தேர்தல் : கற்க வேண்டிய பாடங்கள்
+
+*2024-01-28 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/174998) · `ta`
+
+தமி­ழ­ரசுக் கட்­சி நூறு வீதம் அர­சி­ய­லையே செய்­கின்­றது. ஆயினும் அதனை மக்கள் பக்­கத்தில் நின்று, வெளிப்­ப­டை­யாக, ஒரு ஜன­நா­யக ரீதி­யான தோற்­றப்­பாட்­டுடன் செய்­வ­தாக தோன்­று­கி­றது. இத­னா­லேயே ஏனைய சிறு­பான்மைக் கட்­சி­களும் இவற்­றை­யெல்லாம் கற்றுக்கொள்ள வேண்டும் என்று வலி­யு­றுத்­தப்­ப­டு­கி­றது.
+
+◼️
+
+[Data](articles/752a7569.json)
+
+---
+
+### Special police protection for funerals
 
 *2024-01-28 18:27:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதி-கிரியைகளுக்கு-விசேட-பொலிஸ்-பாதுகாப்பு/175-332234) · `ta`
 
-மறைந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்த பெரேராவின் இறுதி சடங்குகளின் போது பாதுகாப்பு வழங்குவதற்காக 380 பேர் கொண்ட விசேட பொலிஸ் குழுவொன்று ஈடுபடுத்தப்பட்டுள்ளது.
+A special police team of 380 people has been deployed to provide security during the funeral of the late State Minister Sanath Nishantha Perera.
 
-இறுதிச் சடங்கில் அமைச்சர்கள், பாராளுமன்ற உறுப்பினர்கள், பிரமுகர்கள் உள்ளிட்ட ஏராளமானோர் கலந்துகொள்வார்கள் என எதிர்பார்க்கப்பட்டதால் அப்பகுதியில் பாதுகாப்பை பலப்படுத்த நடவடிக்கை எடுக்கப்பட்டதாக உயர் பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+A senior police official said that steps were taken to strengthen security in the area as a large number of ministers, parliamentarians and dignitaries were expected to attend the funeral.
 
-வடமேல் மாகாணத்தில் உள்ள பொலிஸ் நிலையங்களின் உத்தியோகத்தர்களை உள்ளடக்கிய பொலிஸ் குழு பாதுகாப்பில் ஈடுபடுவதாக அவர் கூறினார்.
+He said that the police team, which includes officers of police stations in the North Western Province, was involved in security.
 
 ◼️
 
 [Data](articles/301517b6.json)
 
+[Extended Data](ext_articles/301517b6.ext.json)
+
 ---
 
-### චිත්‍රපට දුම්රිය පීලිපනී
+### Film Railway Plips
 
 *2024-01-28 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192666) · `si`
 
-කොටගල හා හැටන් දුම්රිය ස්ථාන අතර දී විශේෂ දුම්රියක් පීලි පැනීම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ගමනාගමනයට බාධා එල්ලවී තිබේ.
+Traffic train was derailed in Kotagala and Hatton railway stations.
 
-මෙලෙස පීලි පැනීමට ලක්ව ඇත්තේ විදෙස් රටක චිත්‍රපටයක් රූගත කිරීම සඳහා ලබා දී ඇති දුම්රියකි.
+The delegation was a train given to shoot a film in a foreign country.
 
-විශේෂ අවසරයක් යටතේ අදාළ චිත්‍රපටය රූගත කිරීම සඳහා දුම්රිය දෙපාර්තමේන්තුව විසින් ජනවාරි 24 සිට 29 වනදා දක්වා මෙම මැදිරි 6ක විශේෂ දුම්රිය සපයා ඇත.
+The Railway Department provides a special train from January 24 to 29, the Railway Department to shoot the film under special permission.
 
-කොටස් වශයෙන් සිදුකර ඇති අදාළ රූගත කිරීම් අවසන් කර අද කොළඹ බලා නැවත ධාවනය වෙමින් තිබියදී එම දුම්රිය මෙලෙස පීලි පැනීමකට ලක්ව තිබේ.
+The train has been derailed when the filming has been completed and traveling to Colombo today.
 
 ◼️
 
 [Data](articles/dc62bc47.json)
 
+[Extended Data](ext_articles/dc62bc47.ext.json)
+
 ---
 
-### වඳින්න ගිය දේවාලේ ඉහේ කඩන් වැටුණු හැටි
+### How to fell in the line of monk
 
 *2024-01-28 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192665) · `si`
 
-ඉන්දියාවේ කෝවිලක සිදුවූ අනතුරකින් කාන්තාවක් මියගොස් තවත් 17කට ආසන්න පිරිසක් තුවාල ලබා තිබේ.
+Nearly 17 others suffered injuries in an accident in Kovil, India.
 
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ දිල්ලියේ Kalkaji නම් කෝවිලක මෙම අනතුර සිදුව ඇති බවය.
+Foreign media reports that the accident had occurred at Delkaji Kovil.
 
-එහිදී කෝවිලේ පැවති ආගමික ප්‍රසංගයක් අතරතුරදී එහි වේදිකාව බැතිමතුන් මතට කඩා වැටී මෙම අනතුර සිදුව තිබුණි.
+The accident had occurred during a religious concert held at the Kovil.
 
-මේ අතර සිද්ධිය සම්බන්ධයෙන් පසුව විශේෂ විමර්ශනයක් ආරම්භ කර ඇති අතර එහිදී අනාවරණය වී ඇත්තේ මේ සඳහා නිසි අවසරයක් පවා ලබාගෙන නොමැති බවය.
+Meanwhile, a special investigation has been launched in connection with the incident and has not received any proper permission.
 
-විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ මෙම ආගමික ප්‍රසංගය සඳහා ආසන්න වශයෙන් 1,600ක පමණ පිරිසක් එක්ව සිට ඇති බවය.
+Foreign media has reported that approximately 1,600 people have been involved in this religious concert.
 
 ◼️
 
 [Data](articles/8f7d3ce3.json)
 
+[Extended Data](ext_articles/8f7d3ce3.ext.json)
+
 ---
 
-### கூடாத உறவுக்கு ரூ.40,000 சம்பளம்: ‘படோவிட ஆஷா’ கைது
+### Rs.
 
 *2024-01-28 18:06:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூடாத-உறவுக்கு-ரூ-40-000-சம்பளம்-படோவிட-ஆஷா-கைது/175-332232) · `ta`
 
-சிறைக்காவரின் பெயரில்,​ பொரலஸ்கமுவ பிரிவென வீதியில் உள்ள வீட்டுத்தொகுதியில் அதிசொகுசு வீடொன்றை வாடகை அடிப்படையில் பெற்று. சிறைக்காவலருடன் இணைந்து ஹெரோய்ன் போதைப்பொருளை விற்பனையில் ஈடுபட்ட பெருந்தொகை போதைப்பொருள் விற்பனையாளரான ‘படோவிட ஆஷா’ என்ற பெண் கைது செய்யப்பட்டுள்ளார் என பாணந்துறை வலன மத்திய ஊழல் எதிர்ப்பு செயலணி தெரிவித்துள்ளது.
+In the name of the prisoner, the house of the Boraleskamuwa section on the road on the road. A woman named Badovitta Asha, a large -scale drug dealer, has been arrested in connection with the sale of heroin with the prisoner, according to the Panadura Central Anti -Central Anti -Central Anti -Central Anti -Central Anti -Central Anti -Central Act.
 
-சந்தேகநபரான அந்த பெண்ணின் வீட்டிலிருந்து 5 இலட்சம் ரூபாய் பெறுமதியான 4054 மில்லிகிராம் ஹெரோய்ன் போதைப்பொருள், போதைப்பொருள் விற்பனைச் செய்ததன் ஊடாக திரட்டிய 40,700 ரூபாய் பணம் என்பன கைப்பற்றப்பட்டுள்ளன.
+4054 milligrams of heroin, worth Rs 5 lakhs from the suspect's house, and Rs.
 
-டுபாயில் தலைமறைவாகியிருக்கும் பெரும் போதைப்பொருள் வர்த்தகத்தில் ஈடுபடும் ‘மர்வின் ஜனா’ என்பவரின் ஊடாக பெற்றுக்கொள்ளப்படும் போதைப்பொருளையே இப்பெண் விற்பனைச் செய்துவந்துள்ளார்.
+The woman sells the drug obtained through Marvin Jana, who is engaged in a huge drug trade in Dubai.
 
-...
+While the woman was in prison, there was a relationship with the prisoner who was on duty.. After leaving jail, he rented a house in the name of the prisoner. Investigations have revealed that the woman pays 40 thousand rupees a month to the prison police.
+
+◼️
 
 [Data](articles/cbf99986.json)
+
+[Extended Data](ext_articles/cbf99986.ext.json)
 
 ---
 
@@ -144,21 +190,23 @@ Taking to ‘X’ (formerly Twitter), the Minister revealed that the first unit 
 
 ---
 
-### ලෝ ප්‍රකට සිතුවමට ප්‍රහාරයක්
+### Attack on the world famous
 
 *2024-01-28 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192664) · `si`
 
-ලියනාඩෝ ඩාවින්චි අතින් සිත්තම් කෙරුණු ලෝ ප්‍රකට මෝනාලීසා සිතුවමට සුප් බඳුනකින් දමා ගසා තිබේ.
+Lonoado Dawinchi painted the wooden temple painting has been thrown into a bowl of soup.
 
-ප්‍රංශයේ ලූවර් කෞතුකාගාරයේ ඇති සිතුවමට මෙම ප්‍රහාරය එල්ල කර තිබුණේ ආහාර සුරක්ෂිතතාව සම්බන්ධ වැකි පළකළ විරෝධතාකරුවන් දෙදෙනෙකි.
+The painting at the French French Museum has launched two of the two protesters who expressed food security.
 
-ප්‍රංශ මාධ්‍ය වාර්තා කළේ වෙඩි නොවදින වීදුරු ආවරණයක ආරක්ෂාව ඇති නිසා සිතුවමට හානියක් විය නොහැකි බවය.
+The French media reported that the security of a bulletproof glass cover cannot be harmed.
 
-16 වැනි සියවසට අයත් මේ සිතුවම ලොව වැඩිම ජන ප්‍රසාදයට ලක්වූ සිතුවම ලෙස සැළකෙයි.
+The 16th century painting is considered the most popular painting of the world.
 
 ◼️
 
 [Data](articles/484b0afc.json)
+
+[Extended Data](ext_articles/484b0afc.ext.json)
 
 ---
 
@@ -242,25 +290,27 @@ According to the Department, charges for railway freight services will be increa
 
 ---
 
-### டயகமவில் திடீரென குதித்தார் திகா
+### Suddenly jumped in Diagama
 
 *2024-01-28 17:36:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/டயகமவில்-திடீரென-குதித்தார்-திகா/76-332231) · `ta`
 
-நுவரெலியா மாவட்டத்தில் தலவாக்கலை- டயகம நகரில் ஞாயிற்றுக்கிழமை (28) பாரிய ஆர்ப்பாட்டம் முன்​னெடுக்கப்பட்டது.
+A massive demonstration was held on Sunday (28) in Diyagama, Thalawakalai district in Nuwara Eliya district.
 
-தோட்டத் தொழிலாளர்களின் சம்பள உயர்வைக் கோரி தமிழ் முற்போக்குக் கூட்டணி டயகம நகரில் ஆர்ப்பாட்டத்தில் ஈடுபட்டது.
+The Tamil Progressive Alliance staged a protest in Diagama, demanding the salary of plantation workers.
 
-நாட்டில் தற்போதைய வாழ்க்கைச் செலவுக்கு ஏற்ப தோட்டத் தொழிலாளி ஒருவரின் நாளாந்த சம்பளத்தை அதிகரிக்குமாறு கோரி தமிழ் முற்போக்குக் கூட்டணியினர் டயகம நகரில் இன்று (28) பிற்பகல் ஆர்ப்பாட்டம் ஒன்றை நடத்தினர்.
+The Tamil Progressive Alliance staged a demonstration in Diyagama this afternoon demanding the increase in the day -to -day salary of a plantation worker in accordance with the current cost of living in the country.
 
-தமிழ் முற்போக்குக் கூட்டணியின் நுவரெலியா மாவட்ட பிரதித் தலைவரும் பாராளுமன்ற உறுப்பினருமான பி.ஏ.பழனி திகாம்பரம்,  பாராளுமன்ற உறுப்பினர் எஸ்.உதயகுமார் ஆகியோர் தலைமையில் இந்தப் போராட்டம் நடைபெற்றது.
+The protest was led by Nuwara Eliya District Deputy Leader of the Tamil Progressive Alliance and Member of Parliament BA Palani Thikambaram and Member of Parliament S. Udayakumar.
 
-இந்த போராட்டத்தில் கருத்து தெரிவித்த  பழனி திகாம்பரம், தோட்ட தொழிலாளி ஒருவரின் நாளாந்த சம்பளத்தை 1,750 ரூபாயாக அதிகரிக்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்க தோட்ட நிறுவனங்களுக்கு ஆலோசனை வழங்கிய போதும் இதுவரை சம்பளம் கிடைக்கவில்லை.
+Commenting on the protest, Palani Thikambaram said that the plantation worker's day -to -day salary was increased by Rs 1,750, but the salary has not yet been paid.
 
-நாட்டின் வாழ்க்கைச் செலவுக்கு ஏற்ப தோட்டத் தொழிலாளி ஒருவரின் நாளாந்த சம்பளம் இரண்டாயிரம் ரூபாவாக அதிகரிக்கப்பட வேண்டுமென  பழனி திகாம்பரம் தெரிவித்தார்.
+Palani Thikambaram said that the daily salary of a plantation worker should be increased to two thousand rupees according to the cost of living.
 
 ...
 
 [Data](articles/66d9b348.json)
+
+[Extended Data](ext_articles/66d9b348.ext.json)
 
 ---
 
@@ -598,21 +648,23 @@ The arrested Eros was produced before the Kahadagastikiliya Magistrate on Sunday
 
 ---
 
-### பிரமிட்டில் ரூ.500 கோடி  மோசடி; பஸ்நாயக்க, நடிகைக்கு விளக்கமறியல்
+### Rs 500 crore fraud in pyramid;Basnayake, actress
 
 *2024-01-28 15:07:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமிட்டில்-ரூ-500-கோடி-மோசடி-பஸ்நாயக்க-நடிகைக்கு-விளக்கமறியல்/175-332228) · `ta`
 
-‘டிரேட்வின்’ எனும் பெயரில் பிரமிட் முறைமையின் ஊடாக வர்த்தக நடவடிக்கையை முன்னெடுத்து, அதில் பணத்தை வைப்பிலிடும் வைப்பாளர்களின் பணத்தில் 500 கோடி ரூபாவை மோசடி செய்தார என்றக் குற்றஞ்சாட்டில் குற்றப் புலனாய்வுத் திணைக்களத்தின் சட்டவிரோத சொத்துக்கள் தொடர்பான விசாரணைப் பிரிவின் வலையமைப்பு விசாரணைப் பிரிவினரால் ஒருவர்  கைது செய்யப்பட்டுள்ளார்.
+One person has been arrested by the network inquiry unit of the Criminal Investigation Department (CID) for allegedly defrauding Rs 500 crore in the money of deposits by the pyramid system in the name of Tradewin.
 
-கடந்த மூன்று வருடங்களாக தலைமறைவாக வாழ்ந்து வந்தவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார். பிலிமத்தலாவை பிரதேசத்தில் மறைந்திருந்த போதே இவர் கைது செய்யப்பட்டார் என்று அந்த வலையமைப்பின் விசாரணைப் பிரிவு அறிவித்துள்ளது.
+The man who has been in hiding for the past three years has been arrested. The network's inquiry unit has announced that he was arrested while he was hiding in the Pilimathalawa area.
 
-சந்தேகநபர் பட்டத்தாரி ஆசிரியராக இருந்துள்ளார். அத்துடன் தென் மாகாணத்தில் உள்ள பிரதான விஹாரை ஒன்றில் பஸ்நாயக்க நிலமேயாகவும் பணியாற்றியுள்ளார் என்பதும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+The suspect has been a graduate teacher. Investigations have also been found that Basnayaka has worked as a major Vihar in the Southern Province.
 
-கைது செய்யப்பட்ட தரிந்து ஈரோஸ் வீரசேகர கஹடகஸ்திகிலிய நீதவான் முன்னிலையில் ஞாயிற்றுக்கிழமை (28) ஆஜர்படுத்தப்பட்டார். அவரை   எதிர்வரும் 05 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கஹடகஸ்திகிலிய பதில் நீதவான்   திமுத்து உத்தரவிட்டுள்ளார்.
+The arrested Eros was produced before the Kahadagastikiliya Magistrate on Sunday (28). The Magistrate Timuthu has ordered Kahadagastikiliya to be kept in detention until the 05th of this month.
 
 ◼️
 
 [Data](articles/b5fc4d7b.json)
+
+[Extended Data](ext_articles/b5fc4d7b.ext.json)
 
 ---
 
@@ -822,17 +874,25 @@ He added that these obstacles are inappropriate in the context of war migration 
 
 ---
 
-### ’’ ස්වාමීනී  ඔබතුමා ඉදිරියේ ඉන්නේ විත්තිකාරයෙක් වුණාට මගේ ඉදිරියේ ඉන්නේ මනාලයෙක්’’
+### "Lord, in your presence, is a bridegroom in front of me"
 
 *2024-01-28 13:33:50* · [`adalk`](https://www.ada.lk/breaking_news/’’-ස්වාමීනී--ඔබතුමා-ඉදිරියේ-ඉන්නේ-විත්තිකාරයෙක්-වුණාට-මගේ-ඉදිරියේ-ඉන්නේ-මනාලයෙක්’’/11-407755) · `si`
 
-" ගරු ස්වාමීනී ඔබතුමා ඉදිරියේ පෙනී ඉන්නේ විත්තිකාරයෙක් වුණාට, මම පෙනී ඉන්නේ මනමාලයෙක් වෙනුවෙන්, මෙය සමාජ සංවේදී කාරණයක්  ස්වාමීනී , ඒ නිසා ගරු ස්වාමීනි මා  ගෞරවයෙන් ඉල්ලා සිටිනවා  අධිකරණයේ දැඩි අවධානය යොමු කර , සුදුසු ඇපයක් මත මේ විත්තිකරු  මුදා හරින්න කියලා."
+"When a defendant was a so-called a lord, I am appearing for a bridon, and this is the close attention of the judiciary and release this accused."
 
-විත්ති කූඩුවේ සිටි පුද්ගලයෙක් වෙනුවෙන් නීතිඥ මහත්මයෙක් දැක්වූ අසාමාන්‍ය    කරුණු වලට පානදුර අධිකරණයේ අතිරේක  මහේස්ත්‍රාත් ලහිරු  ද  සිල්වා මහතාගේ දැඩි අවධානය වගේම  අධිකරණයේ එම මොහොතේ සිටි සැමගේම දැඩි අවධානය යොමු විය
+The Additional Magistrate Lahira De Silva, the UPFA, was the focus of the Supreme Court of Attorney at the same moment of the courts.
+
+Attorneys-to-courts sent a monk to be sentenced to the chain of the courts sent a monk to be sentenced to the 30th of this month.I bailed to a little child, saying: "I came to the police on the morning of the morning, sir, sir, sir, just remanded my friend today.
+
+Furthermore, the person who has been married to the law, the bridegroom has been married to the bride and parent in a hotel in the room where he has been returned to the bridegroom in Wadduwa.The lawyer also caught the appeal to the lawyer, as a result of the situation.
+
+Lord, he continually acknowledges to a man of the judiciary. But my servant is now a brideg. He has come to this case and the bride is in a hingam with the bride.
 
 ...
 
 [Data](articles/4e2c6180.json)
+
+[Extended Data](ext_articles/4e2c6180.ext.json)
 
 ---
 
@@ -1971,71 +2031,5 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 [Data](articles/287b0d53.json)
 
 [Extended Data](ext_articles/287b0d53.ext.json)
-
----
-
-### Litro Gas Company to the Treasury 1.5 billion
-
-*2024-01-28 09:16:35* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-සමාගමෙන්-තවත්-බිලියන-1-5ක්-මහා-භාණ්ඩාගාරයට/11-407747) · `si`
-
-Litro Gas was handed over to the Head of Sri Lanka Insurance Corporation to provide Rs. 1.5 billion to the Treasury to provide Rs.
-
-The check has been officially handed over to the Presidential Advisor to the Presidential Advisor on National Security and Presidential Staff Head of the National Security Council to Sagala Ratnayake by the President of Litro Gas.Was on.
-
-Litro Gas Chairman, Chairman of Litro Gas, has been happy to increase the growth of President Ranil Wickremesinghe and the support of President Ranil Wickremesinghe and the support of Sagala Ratnayake's support is achieved.
-
-The Principal said that Litro was sent to the Treasury in 2023 alone in the Treasury.
-
-◼️
-
-[Data](articles/f6ef1d03.json)
-
-[Extended Data](ext_articles/f6ef1d03.ext.json)
-
----
-
-### Beliatte Murders: Another Suspect Nabbed in Hakmana
-
-*2024-01-28 09:10:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/beliatte-murders-another-suspect-nabbed-in-hakmana/) · `en`
-
-COLOMBO (News 1st); The investigation into the shocking Beliatte murders has yielded another arrest, with another uspect apprehended in Hakmana.
-
-Police identified the individual, a resident of Rathgama, as allegedly playing a crucial role in facilitating the crime.
-
-According to authorities, the suspect is believed to have assisted in transporting weapons utilized in the brutal attack that claimed five lives.
-
-His motorcycle, suspected to be the conveyance used for this purpose, was also seized during the arrest.
-
-This development comes on the heels of two recent arrests made in Galle.
-
-In a shocking incident that unfolded on the morning of the 22nd of January 2024, near the Beliatte entrance of the Southern Expressway, five individuals, including the leader of the Ape Janbala Party, Saman Perera, lost their lives in a targeted shooting.
-
-The assailants, armed with T-56 guns, ambushed the victims as they entered a local hotel in a Defender-type jeep.
-
-...
-
-[Data](articles/3f76fac0.json)
-
-[Extended Data](ext_articles/3f76fac0.ext.json)
-
----
-
-### Expect showers in East, Uva, Polonnaruwa, Matale, Nuwara-Eliya this evening
-
-*2024-01-28 08:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expect-showers-in-East-Uva-Polonnaruwa-Matale-Nuwara-Eliya-this-evening/108-275827) · `en`
-
-Colombo,  Jan 28 (Daily Mirror) - Showers will occur today in the Eastern and Uva Provinces and in the Polonnaruwa, Matale and Nuwara-Eliya districts, the Forecasting Division of the National Meteorological Centre said.
-
-They said a few showers may occur in the Anuradhapura, Mullaitivu and Hambantota districts, and showers will occur at a few places in the Western and Sabaragamuwa Provinces and in the Galle, Matara and Kandy districts after 2 p.m.
-
-Strong winds of about 40 kmph can be expected at times over the Northern, North-Central, Eastern, Central, Uva and North-Western Provinces and the Hambantota district.
-
-The public is requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/7bfc0a20.json)
-
-[Extended Data](ext_articles/7bfc0a20.ext.json)
 
 ---

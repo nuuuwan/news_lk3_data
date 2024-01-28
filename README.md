@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 07:17:07**
+As of **2024-01-28 07:39:34**
 
 ## Newspaper Stats
 
-*Scraped **2,961** Articles*
+*Scraped **2,964** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 170
 newsfirstlk | 171
 dailyftlk | 215
 adalk | 269
-adaderanasinhalalk | 289
+adaderanasinhalalk | 292
 virakesarilk | 305
 tamilmirrorlk | 376
 adaderanalk | 384
@@ -26,11 +26,53 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,960 (100.0%) of 2,961 articles have been extended.
+2,961 (99.9%) of 2,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### ජූනි අවසානයට පෙර අවසන් කරන බව ටිරාන් කියයි
+
+*2024-01-28 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192642) · `si`
+
+ලබන ජුනි මස අවසන් වීමට පෙර මෙරට පාතාල කණ්ඩායම් සහ මත්ද්‍රව්‍ය බෙදාහැරීමේ ජාලයන් සියල්ල ඉවත් කරන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+
+අමාත්‍යවරයා පෙන්වා දෙන්නේ, කුමන බලපෑම් එල්ල වුව ද යුක්තිය මෙහෙයුම නතර නොකරන බවය.
+
+මීගමුව ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින් මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා එම අදහස් පළ කළේය.
+
+එහි දී අදහස් දැක්වූ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සඳහන් කළේ, මේ වනවිට රට තුළ මත්ද්‍රව්‍ය මිල ශීඝ්‍ර ලෙස ඉහළ ගොස් ඇති බවය.
+
+මත්ද්‍රව්‍ය ජාවාරම්කරුවන්ගේ දේපොළ රාජසන්තක කිරීමේ කටයුතු කඩිනමින් සිදු කරන බව ද වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එහි දී සඳහන් කළේය.
+
+◼️
+
+[Data](articles/68fdac4b.json)
+
+---
+
+### සනත් නිශාන්තගේ අවසන් කටයුතු අද
+
+*2024-01-28 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192641) · `si`
+
+කටුනායක අධිවේගී මාර්ගයේ සිදු වූ රිය අනතුරකින් ජීවිතක්ෂයට පත් ජල සම්පාදන රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (28) පස්වරුවේ සිදු කිරීමට නියමිත ව තිබේ.
+
+ආරච්චිකට්ටුව ප්‍රදේශයේ පිහිටි රාජ්‍ය අමාත්‍යවරයාගේ නිවසේ දී අද දහවල් 01ට අවමංගල්‍ය සභාවේ කටයුතු ආරම්භ කිරීමට නියමිතයි.
+
+රාජ්‍ය අමාත්‍යවරයාගේ දේහය මේ වනවිට ආරච්චිකට්ටුව ප්‍රදේශයේ නිවස අසල පිහිටි තාවකාලික ශාලාවක තැන්පත් කර ඇති අතර අද අහවල් 01 දක්වා දේහයට අවසන් ගෞරව දැක්වීම සඳහා අවස්ථාව හිමි වේ.
+
+අවමංගල්‍ය සභාවේ කටයුතුවලින් අනතුරු ව දේහය රාජකදළුව කතෝලික සුසාන භූමිය වෙත පෙරහරකින් ගෙනගොස් භූමදානය කිරීමට නියමිතයි.
+
+පසුගිය 25 වැනි දින අලුයම කොළඹ - කටුනායක අධිවේගී මාර්ගයේ ධාවනය වූ කන්ටේනර් රථයක රාජ්‍ය අමාත්‍යවරයා ගමන් කළ ජීප් රථය ගැටීමෙන් සිදුවූ අනතුරින් සනත් නිශාන්ත රාජ්‍ය අමාත්‍යවරයා සහ ඔහුගේ ආරක්ෂක නිලධාරියා ජීවිතක්ෂයට පත් වූහ.
+
+රාජ්‍ය අමාත්‍යවරයාගේ දේහයට අවසන් ගෞරව දැක්වීම සඳහා ආගමික නායකයින්, දේශපාලඥයින් ඇතුළු පාක්ෂිකයින් විශාල පිරිසක් ඊයේ රාත්‍රියේත් පැමිණ සිටි බව 'අද දෙරණ' වාර්තාකරු සඳහන් කළේය.
+
+...
+
+[Data](articles/2d4a95d4.json)
+
+---
 
 ### Somali Pirates Target Sri Lankan Vessel North of Seychelles
 
@@ -45,6 +87,28 @@ Navy Spokesperson Captain Gayan Wickramasuriya stated that based on preliminary 
 ◼️
 
 [Data](articles/d7d6eef8.json)
+
+[Extended Data](ext_articles/d7d6eef8.ext.json)
+
+---
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-01-28 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192640) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අනුරාධපුර, මුලතිව් සහ හම්බන්තොට දිස්ත්‍රික්කවල වැසි ස්වල්පයක් ඇති විය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර සහ මහනුවර දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+උතුරු, උතුරු-මැද, නැගෙනහිර, මධ්‍යම, ඌව සහ වයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 40ක පමණ තරමක තද සුළං ඇතිවේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/2eaf7f8f.json)
 
 ---
 
@@ -1993,57 +2057,5 @@ Thus the red warrants were issued to four people named Ahmed Khalil Luqman Talib
 [Data](articles/9a71b6fc.json)
 
 [Extended Data](ext_articles/9a71b6fc.ext.json)
-
----
-
-### Decision of arrested drugs
-
-*2024-01-27 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192613) · `si`
-
-Commander of the Navy Vice Admiral Priyantha Perera has stressed that it is planned to be implemented to destroy drugs arrested by security forces.
-
-He said a building was being constructed with drugs destroyed in Wanathavilluwa.
-
-◼️
-
-[Data](articles/524a26e8.json)
-
-[Extended Data](ext_articles/524a26e8.ext.json)
-
----
-
-### Leopard threat in the hills
-
-*2024-01-27 08:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Leopard-threat-in-the-hills/108-275816) · `en`
-
-Bogawantalawa, Jan 27 (Daily Mirror) - People in the upcountry estates are living in constant fear of any possible danger to their lives from leopards frequenting in estates
-
-They pointed out that leopards hiding under the tea bushes posed a serious Colombo danger to the estate workers.they pointed out that in the latest incident, a tea plucker had been attacked by a leopard feeding on the carcass of a dog under a tea bush.
-
-In a similar incident a worker in Bridwell Estate in Bogawantalawa on her way to her workplace had been attacked by a leopard causing her serious injuries.
-
-Trade union representatives said the Wildlife authorities should have worked out an effective mechanism to protect the people from the threat of ill country leopards and also to protect them from being slain by the villagers by laying traps.
-
-...
-
-[Data](articles/6a917109.json)
-
-[Extended Data](ext_articles/6a917109.ext.json)
-
----
-
-### Political Landscape Reshapes as ‘New Alliance’ To Takes its First Steps
-
-*2024-01-27 07:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/political-landscape-reshapes-as-new-alliance-to-takes-its-first-steps/) · `en`
-
-COLOMBO (News 1st); The launch of a new political movement named the 'New Alliance' will take place at 2 PM today, in Ja-Ela
-
-The maiden rally of this new political movement will be presided over by Minister Susil Premajayantha, Trade Minister Nalin Fernando, Former Minister Anura Priyadarshana Yapa, Former Minister Piyankara Jayaratne, and the MP Nimal Lanza.
-
-◼️
-
-[Data](articles/2fc92d1a.json)
-
-[Extended Data](ext_articles/2fc92d1a.ext.json)
 
 ---

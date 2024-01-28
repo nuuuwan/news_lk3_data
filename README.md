@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 22:50:21**
+As of **2024-01-28 23:02:22**
 
 ## Newspaper Stats
 
-*Scraped **3,135** Articles*
+*Scraped **3,139** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ economynextcom | 172
 islandlk | 174
 newsfirstlk | 183
 dailyftlk | 215
-adalk | 287
-adaderanasinhalalk | 321
+adalk | 288
+adaderanasinhalalk | 324
 virakesarilk | 330
 tamilmirrorlk | 394
 adaderanalk | 409
@@ -26,11 +26,65 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,133 (99.9%) of 3,135 articles have been extended.
+3,135 (99.9%) of 3,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### ලොරෙන්සෝ පුතා 4 යාත්‍රාවට ඇත්තටම මොකද වුණේ ?
+
+*2024-01-28 22:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192675) · `si`
+
+සෝමාලියානු මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්ව ඇතැයි පැවසෙන ''ලොරෙන්සෝ පුතා 4'' නමැති යාත්‍රාව සම්බන්ධයෙන් මේ වනවිට තවත් තොරතුරු හෙළිවෙමින් පවතී.
+
+කෙසේ වෙතත් ධීවර දෙපාර්තමේන්තුව පවසන්නේ, ''ලොරෙන්සෝ පුතා 4'' නමැති අදාළ යාත්‍රාව මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්වූ ඊයේ (27) දහවල් එකේ පමණ සිට මේ දක්වා සියලු සන්නිවේදන කටයුතු බිඳවැටී ඇති බවය.
+
+"ලොරෙන්සෝ පුතා 4 " බහුදින ධීවර යාත්‍රාව දික්ඕවිට ධීවර වරායෙන් පසුගිය 12 වැනිදා සිය මංගල මුහුදු ගමනට පිවිස තිබුණේ ධීවරයින් 06 දෙනෙකු සමගිනි.
+
+එම යාත්‍රාව ගොඩබිමේ සිට නාවික සැතපුම් 1,160ක් දුරින් වූ අරාබි මුහුදු ප්‍රදේශයේදී සෝමාලියානු මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්ව ඇති බව ධීවර දෙපාර්තමේන්තුව ප්‍රකාශ කළේය.
+
+අරාබි මුහුදේ ධීවරයින් රැකියාවේ නිරත ප්‍රදේශයට ඊයේ එකවරම පැමිණි කිසියම් යාත්‍රාවක් "ලොරේන්සේ පුතා 04" යාත්‍රාව පසුපස හඹාවිත් ආයුධ සන්නද්ධ දෙදෙනෙකු ඊට බලහත්කාරයෙන් ඇතුළුවී අහසට වෙඩිතැබීමක් සිදුකර තිබේ.
+
+...
+
+[Data](articles/bcbe3414.json)
+
+---
+
+### උමා ඔයෙන් මෙගාවොට් 60ක් ජාතික විදුලිබල පද්ධතියට
+
+*2024-01-28 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192674) · `si`
+
+උමා ඔය ජල විදුලි ව්‍යාපෘතියේ පළමු අදියර ලෙස මෙගාවොට් 60ක විදුලි ධාරිතාවක් ජාතික විදුලිබල පද්ධතියට එක් කර තිබේ.
+
+විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා සඳහන් කළේ ඊයේ (27) පස්වරුවේ සිට එම විදුලි ධාරිතාව ජාතික පද්ධතියට එක් කළ බවය.
+
+උමා ඔය ජල විදුලි ව්‍යාපෘතිය මගින් මෙගාවොට් 120ක විදුලි ධාරිතාවක් උත්පාදනය කිරීමට කිරීමට නියමිත අතර ව්‍යාපෘතියේ දෙවන අදියර පෙබරවාරි මස මැද භාගයේ දී ජාතික පද්ධතියට එක් කිරීමට නියමිත බව සඳහන්ය.
+
+දේශපාලන ව්‍යාපාර සංවිධානය කළ විරෝධතා, කොවිඩ් වසංගතය හා ආර්ථික අර්බුදය යන හේතූන් මත ව්‍යාපෘතිය අවසන් කිරීම ප්‍රමාද වූ බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/049a0c1e.json)
+
+---
+
+### රන්භාණ්ඩ සොරකමට කොටුවූ සිසුවා ගැන අනාවරණයක්
+
+*2024-01-28 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192673) · `si`
+
+බෙලිඅත්ත නිහිලුව ප්‍රදේශයේ නිවසක සිදුවූ රණ්භාණ්ඩ සොරකමක් සම්බන්ධයන් 15 හැවිරිදි සිසුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+සිසුවාගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී අනාවරණය වී ඇත්තේ අසල්වැසි නිවසේ රන් භාණ්ඩ මෙන්ම, තම මිත්තණියගේ ගෙල බැඳි රන් මාලයද තමා විසින් කඩාගත් බවය.
+
+මේ අතර අදාළ මිත්තණිය මීට දින කිහිපයකට පෙර මියගොස් ඇති අතර එම මරණය ඝාතනයක්ද යන්න පිළිබඳව පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/3b0dd26d.json)
+
+---
 
 ### UN urges reversal of funding pause for Palestinian agency, promises staff accountability
 
@@ -46,6 +100,8 @@ At least nine countries, including top donors the U.S. and Germany, have paused 
 
 [Data](articles/9ac35a5e.json)
 
+[Extended Data](ext_articles/9ac35a5e.ext.json)
+
 ---
 
 ### Fatal van-lorry collision claims one life, injures five others
@@ -59,6 +115,8 @@ According to police, a van and a lorry had collided along the Sella-Kataragama r
 ◼️
 
 [Data](articles/4a88294a.json)
+
+[Extended Data](ext_articles/4a88294a.ext.json)
 
 ---
 
@@ -271,6 +329,24 @@ The remains of State Minister of Water Supply, Sanath Nishantha, who died in a c
 [Data](articles/c6512bcf.json)
 
 [Extended Data](ext_articles/c6512bcf.ext.json)
+
+---
+
+### විභාග වංචා සිදුකළ සිසුවා හා උපකාර කළ සරසවි සිසුවා රිමාන්ඩ්
+
+*2024-01-28 19:06:50* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-වංචා-සිදුකළ-සිසුවා-හා-උපකාර-කළ-සරසවි-සිසුවා-රිමාන්ඩ්/11-407761) · `si`
+
+මෙවර අපොස (උ.පෙළ) විභාගයට පෙනී සිටි පෞද්ගලික අයදුම්කරුවෙකුට උදව් උපකාර කළ අග්නිදිග විශ්වවිද්‍යාලයේ සිසුවෙකු හා විභාගයට පෙනී සිටි සිසුවා පෙබරවාරි (02දා) දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට මූතූර් මහේස්ත්‍රාත් තස්නීම් මොහොමඩ් පවුසාන් මහත්මිය පෙරේදා (27දා) නියම කළාය.
+
+සැකකාර පෞද්ගලික අයදුම්කරු ස්මාර්ට් ජංගම දුරකථනයක් භාවිත කරමින් තොරතුරු සංනිවේදන තාක්ෂණ විෂයේ දෙවැනි ප්‍රශ්න පත්‍රය ඡායාරූපගත කර වට්ස් ඇප් ඔස්සේ අග්නිදිග විශ්වවිද්‍යාලයේ සිසුවාට යවා පිළිතුරු ගෙන්වා ගෙන ඇති බවට පරීක්ෂණවලදී අනාවරණය වී තිබේ.
+
+සැකාකර පෞද්ගලික අයදුම්කරුට අමතරව මාතලේ ප්‍රදේශයේ පදිංචිකරුවෙකුටද විශ්වවිද්‍යාල සිසුවාගෙන් පිළිතුරු ලබා ගෙන ඇති බවට අනාවරණය වී ඇති බවත් එම සැකකරු අත් අඩංගුවට ගැනීමට පරීක්ෂණ පවත්වන බවද පොලීසිය මහේස්ත්‍රාත්වරිය හමුවේ පැවැසීය.
+
+විභාග ශාලාව තුළ සිදු වූ මෙම සිදුවීම  විභාග ශාලාධිපතිවරයා මුතූර්   විභාග කටයුතු භාර නියෝජ්‍ය අධ්‍යාපන අධ්‍යක්ෂ නවරත්නම් සයින්තන් මහතාට පැමිණිලි කර තිබුණි.
+
+...
+
+[Data](articles/7e196617.json)
 
 ---
 
@@ -1883,89 +1959,5 @@ The Sri Lanka Human Rights Commission has called for the right to seek the right
 [Data](articles/48eb8ac9.json)
 
 [Extended Data](ext_articles/48eb8ac9.ext.json)
-
----
-
-### 2 Cancellation of Special Govt. Minister
-
-*2024-01-28 11:34:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-விசேட-அரசிதழ்களை-ரத்து-செய்தார்-அமைச்சர்/175-332202) · `ta`
-
-Current Sports and Youth Affairs Minister Harin Fernando has canceled two special gazette issued by former Sports Minister Roshan Ranasinghe.
-
-Accordingly, the special gazette number 2342/48, released on July 28, 2023, will be canceled.
-
-In addition, the gazette notification of dissolving the interim committees, powers, work and obligations of the Sri Lanka Karate Federation and the Sri Lanka Motor Sports Association has also been canceled.
-
-According to the Constitution of the National Sports Associations or Federations, the officials who have been elected in the previous elections can be appointed before the council until their legal term is over.
-
-◼️
-
-[Data](articles/02b4e9d8.json)
-
-[Extended Data](ext_articles/02b4e9d8.ext.json)
-
----
-
-### The Minister canceled 2 Special Gazette
-
-*2024-01-28 11:34:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-விசேட-வர்த்தமானிகளை-ரத்து-செய்தார்-அமைச்சர்/175-332202) · `ta`
-
-Current Sports and Youth Affairs Minister Harin Fernando has canceled two special gazette issued by former Sports Minister Roshan Ranasinghe.
-
-Accordingly, the special gazette number 2342/48, released on July 28, 2023, will be canceled.
-
-In addition, the gazette notification of dissolving the interim committees, powers, work and obligations of the Sri Lanka Karate Federation and the Sri Lanka Motor Sports Association has also been canceled.
-
-According to the Constitution of the National Sports Associations or Federations, the officials who have been elected in the previous elections can be appointed before the council until their legal term is over.
-
-◼️
-
-[Data](articles/a5ec4e31.json)
-
-[Extended Data](ext_articles/a5ec4e31.ext.json)
-
----
-
-### North Korea fires cruise missiles off east coast, Seoul reports
-
-*2024-01-28 11:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/North-Korea-fires-cruise-missiles-off-east-coast-Seoul-reports/108-275833) · `en`
-
-North Korea, Jan 28 (BBC) - North Korea has fired several cruise missiles in waters off its east coast, South Korea's military says.
-
-In recent months the nuclear-armed communist state has tested missiles repeatedly, raising regional tension.
-
-Sunday's launch took place near the port of Sinpo. Neither the number nor type of missiles is clear yet.
-
-On Wednesday North Korea test fired a new strategic cruise missile called Pulhwasal-3-31, South Korea's Yonhap news agency says.
-
-Reporting the new launch, which took place at 08:00 (23:00 GMT Saturday), South Korea's Joint Chiefs of Staff (JCS) said "our military has been closely coordinating with the United States to monitor additional signs of North Korea's provocations".
-
-North Korean leader Kim Jong Un has been increasingly aggressive in his policy direction and rhetoric in recent months, ending several agreements aimed at peace-keeping and ramping up military action.
-
-...
-
-[Data](articles/ab9891d7.json)
-
-[Extended Data](ext_articles/ab9891d7.ext.json)
-
----
-
-### A few countries decide on Gaza
-
-*2024-01-28 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192653) · `si`
-
-The United Nations condemns the decision to stop the provision of assistance to the Gaza by saying he is supporting Hamas.
-
-The United Nations Office on Palestinian Refugees point out that these countries will be referred to again to reconsider the relevant decision.
-
-The United Nations has provided relief to about two-thirds of the entire population of Gaza on various countries.
-
-However, with the allegations of the activities of the Hamas Organization, nine British, including British, has been suspended.
-
-◼️
-
-[Data](articles/bcf680af.json)
-
-[Extended Data](ext_articles/bcf680af.ext.json)
 
 ---

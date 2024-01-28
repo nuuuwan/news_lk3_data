@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 06:56:19**
+As of **2024-01-28 07:17:07**
 
 ## Newspaper Stats
 
-*Scraped **2,960** Articles*
+*Scraped **2,961** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 53
 dbsjeyarajcom | 124
 islandlk | 159
 economynextcom | 170
-newsfirstlk | 170
+newsfirstlk | 171
 dailyftlk | 215
 adalk | 269
 adaderanasinhalalk | 289
@@ -26,23 +26,41 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,959 (100.0%) of 2,960 articles have been extended.
+2,960 (100.0%) of 2,961 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### சனத் நிஷாந்தவின் இறுதிக்கிரியை இன்று
+### Somali Pirates Target Sri Lankan Vessel North of Seychelles
+
+*2024-01-28 06:37:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/somali-pirates-target-sri-lankan-vessel-north-of-seychelles/) · `en`
+
+COLOMBO (News 1st); Sri Lankan authorities confirmed that a group of six fishermen have been abducted by Somali pirates in international waters north of Seychelles.
+
+The Sri Lankan Navy received information on Saturday (27) about the capture of the fishing vessel, which had set sail from Dikowita port recently.
+
+Navy Spokesperson Captain Gayan Wickramasuriya stated that based on preliminary reports, pirates intercepted the fishing vessel carrying six Sri Lankan fishermen in the Indian Ocean north of Seychelles
+
+◼️
+
+[Data](articles/d7d6eef8.json)
+
+---
+
+### Today is the funeral of Sanath Nishantha
 
 *2024-01-28 03:16:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-இறுதிக்கிரியை-இன்று/175-332196) · `ta`
 
-கொழும்பு – கட்டுநாயக்க அதிவேக வீதியில் இடம்பெற்ற வாகன விபத்தில் உயிரிழந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் இறுதிக்கிரியைகள் இன்று ராஜகலுவ ரோமன் கத்தோலிக்க மயானத்தில் இடம்பெறவுள்ளது.
+The funeral of the State Minister Sanath Nishantha, who died in a vehicle accident on the Colombo -Katunayake Expressway, will take place today at the Roman Catholic City of Rajagaluwa.
 
-இராஜாங்க அமைச்சர் சனத் நிசாந்தவின் உடல் புத்தளம் ஆராய்ச்சிக்கட்டுவையில் உள்ள அவரது கட்சி அலுவலகத்தில் பொது மக்களின் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது
+State Minister Sanath Nishantha's body has been placed in his party office at Puttalam research.
 
 ◼️
 
 [Data](articles/cbf9d3a8.json)
+
+[Extended Data](ext_articles/cbf9d3a8.ext.json)
 
 ---
 
@@ -2027,23 +2045,5 @@ The maiden rally of this new political movement will be presided over by Ministe
 [Data](articles/2fc92d1a.json)
 
 [Extended Data](ext_articles/2fc92d1a.ext.json)
-
----
-
-### Increase in sex crimes
-
-*2024-01-27 07:46:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192612) · `si`
-
-The Police Children and Women's Bureau has stated that there is an increase in the annual growth of sex.
-
-DIG Renuka Jayasundara said that 1,502 girls under the age of 18 were under the age of 18 years old last year.
-
-Senior Chibil Kumara Amarasinghe, Chairman of the National Institute of Child Care Authority, said that it is important to inform children of sex education.
-
-◼️
-
-[Data](articles/48a57c07.json)
-
-[Extended Data](ext_articles/48a57c07.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 17:52:39**
+As of **2024-01-28 18:07:07**
 
 ## Newspaper Stats
 
@@ -26,49 +26,55 @@ dailymirrorlk | 423
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,075 (99.8%) of 3,080 articles have been extended.
+3,080 (100.0%) of 3,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### குவாத்தமாலா : மக்கள் நலனா? நன்றிக்கடனா?
+### Guatemala: People's welfare?Thank you?
 
 *2024-01-28 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/174995) · `ta`
 
-மத்­திய அமெ­ரிக்கா நாடான குவாத்­த­மா­லாவில் நடை­பெற்ற அரசுத் தலைவர் தேர்­தலில் வெற்றி பெற்ற பெர்­னார்டோ அறி­வலோ பெரும் போராட்­டங்­களின் பின்னர் ஒரு வழி­யாகப் பதவி ஏற்­றி­ருக்­கின்றார். அவ­ரது பத­வி­யேற்பைத் தடுத்­து­விட இறுதி நிமிடம் வரை முயற்சி செய்த அவ­ரது அர­சியல் எதி­ரிகள் அமெ­ரிக்கா முதல் பல உலக நாடுகள் வழங்­கிய அழுத்­தங்­களின் பின்னர், தமது நிலைப்­பாட்டில் இருந்து பின்­வாங்கி பத­வி­யேற்­புக்கு அரை­ம­ன­தோடு சம்­மதம் வழங்­கி­யி­ருந்­தனர். அர­சி­ய­ல­மைப்பின் பிர­காரம், அவ­ரது பத­வி­யேற்பைத் தடுத்­து­விட முடி­யாத நிலையில் கழுத்­த­றுப்பு வேலை­களில் இறங்­கிய எதிர்க்கட்­சியும் அவர்­களின் பின்­ன­ணியில் உள்ள பெரு வணி­கர்­களும் அடி ­ப­ணியும் நிலை உரு­வா­கி­யி­ருந்­தது.
+Bernardo, who won the state presidential election in Central America's Guatemala, has taken over as a way after the great struggles. His political opponents, who tried until the final minute of his swearing -in, retreated from their position, after the pressure of the United States from the United States to the end of their position.. According to the Constitution, the opposition and the big business in the backdrop of their neck work, as he could not prevent his swearing in.
 
 ◼️
 
 [Data](articles/5b8fc5d4.json)
 
+[Extended Data](ext_articles/5b8fc5d4.ext.json)
+
 ---
 
-### பெண்களே  109 ஞாபகமா?
+### Women remember 109?
 
 *2024-01-28 17:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களே-109-ஞாபகமா/175-332230) · `ta`
 
-பல்வேறு  இலக்கங்கள் உங்களுக்கு ஞாபகத்தில் இருந்தாலும் 109 என்ற தொலைபேசி இலக்கத்தை மறந்துவிட்டாதீர்கள்.
+Even if you remember various digits, don't forget the phone number 109.
 
-பெண்களுக்கு எதிரான வன்கொடுமைகள் குறித்து புகார் அளிக்க தனி தொலைபேசி எண் அறிமுகப்படுத்தப்பட்டுள்ளது 109   தொலைபேசி இலக்கமே இவ்வாறு அறிமுகம் செய்யப்பட்டுள்ளது.
+A separate telephone number has been introduced to complain about the violence against women.
 
-இந்நிலையில், “நீதிச் செயற்பாட்டுடன் இணைந்து பெண்களுக்கு எதிரான வன்முறைகளை இல்லாதொழிக்கும் விசேட வேலைத்திட்டமொன்று அமுல்படுத்தப்படும்” என பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்துள்ளார்.
+In this context, "a special program to eliminate violence against women in conjunction with justice process will be implemented," said Public Security Minister Tran Ales.
 
 ◼️
 
 [Data](articles/76149082.json)
 
+[Extended Data](ext_articles/76149082.ext.json)
+
 ---
 
-### இந்­தி­யாவும் தமிழ்க் கட்­சி­களும்
+### India and Tamil parties
 
 *2024-01-28 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/174994) · `ta`
 
-இந்­தி­யா­விடம் கடன் வாங்­கு­வது வேறு. பொரு­ளா­தார நெருக்­க­டியின்போது 4 மில்­லியன் டொலர் கடனை இந்­தி­யா­விடம் இலங்கை அர­சாங்கம் பெற்­றி­ருக்­கி­றது. ஆனால், தேர்­தலை நடத்­து­வ­தற்­காக கடன் வாங்­கு­வது வேறு. அவ்­வாறு கடன் வாங்­கும்­போது நாட்டின் இறைமை மற்றும் சுதந்­திரம் பற்­றிய கேள்­விகள் எழும். தேர்­தலில் இந்­தி­யாவின் தலை­யீ­டுகள் இருப்­ப­தாக குற்­றச்­சாட்­டுகள் வரும். எனவே, மாகாண சபை தேர்­த­லுக்கு பகி­ரங்­க­மாக நிதியை வழங்கும் அள­வுக்கு இந்­தி­யா­வி­னாலும் செல்ல முடி­யாது. இலங்­கை­யி­னாலும் கேட்க முடி­யாது.
+Borrowing to India is different. The Sri Lankan government has received $ 4 million in debt during the economic crisis. But the loan is different to hold the election. When borrowed, questions arise on the country's sovereignty and independence. There will be allegations that India's interventions in the election. Therefore, India cannot go to the extent that the provincial council has publicly funded the election. Sri Lanka cannot hear.
 
 ◼️
 
 [Data](articles/5af403e1.json)
+
+[Extended Data](ext_articles/5af403e1.ext.json)
 
 ---
 
@@ -536,19 +542,23 @@ The Commissioner General of Rehabilitation Heet Hettiarachchi said that the cond
 
 ---
 
-### ජාත්‍යන්තරය මොනවා කිවුවත් ’යුක්තිය’ නවත්වන්නේ නෑ
+### The international community does not stop 'justice'
 
 *2024-01-28 13:15:48* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තරය-මොනවා-කිවුවත්-’යුක්තිය’-නවත්වන්නේ-නෑ/11-407753) · `si`
 
-"යුක්තිය " මෙහෙයුම වැඩපිළිවෙල ක්‍රියාත්මක නොවූයේ නම් ශ්‍රී ලංකාව චිකාගෝවක් වීමට ඉඩ තිබූ බව අමාත්‍ය ටිරාන් අලස් මහතා  ගම්පහ , නයිවලදී පැවසීය.
+Minister Tiran Alles said that if the "Justice 'operation was not implemented, Sri Lanka could have been a chicago.
 
-ගම්පහ පොලිස් කොට්ඨාසයේ පොලිස්ථාන 19 කට අයත් ප්‍රජා පොලිස් කමිටු 709 ක නියෝජිතයින් දැනුවත් කිරීමේ වැඩසටහනකදී  අමාත්‍යවරයා එසේ පැවසූ අතර වැඩි දුරටත් අදහස් දක්වමින් සදහන් කර සිටියේ , යුක්තිය මෙහෙයුමේ වැඩපිළිවෙල යටතේ ලබන ජූනි මස 30 වෙනි දින වනවිට මත් ද්‍රව්‍ය සහ පාතාලය මැඩලීමෙන් රටේ  විශාල වෙනසක් සිදුවන බවයි. ඒ සඳහා පොලීසිය විශාල ශක්තියත් ලබා දී ඇති බවද ඔහු සඳහන් කළේය.
+The Minister said so at a program to educate representatives of 7 Community Police Committees in the Gampaha Police Division in the Gampaha Police Division.. He added that the police have given great strength.
 
-එක්සත් ජාතීන්ගේ සංවිධානය හෝ ජාත්‍යන්තර මොනවා ප්‍රකාශ කළද මත් ද්‍රව්‍ය සහ පාතාලය මැඩලීම පිනිස දැනට ආරම්භ කොට ඇති " යුක්තිය  " මෙහෙයුම කිසි සේත්ම නතර නොකරන බව සදහන් කළ අමාත්‍යවරයා , ජාත්‍යන්තරයට උත්තර දීමට තමන් කාලය ගත නොකරන බවද කීය.
+The Minister said that the "Justice 'operation is not stopped to suppress drugs and underworld.
 
-...
+Acting Inspector Tennakoon is very appreciated by the Community Police Committees and the active distribution of new methods of community committees is a seventy-five percent due to the measures that have been taken to suppress drugs and underworld.. The intelligence agencies have commenced a special program from next month, and the intelligence agencies have commenced a special program.
+
+◼️
 
 [Data](articles/1ac78e01.json)
+
+[Extended Data](ext_articles/1ac78e01.ext.json)
 
 ---
 
@@ -713,6 +723,8 @@ President Ranil Wickremesinghe in addressing the International Customs Day Celeb
 ...
 
 [Data](articles/2d03b1f2.json)
+
+[Extended Data](ext_articles/2d03b1f2.ext.json)
 
 ---
 

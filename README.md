@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 07:39:34**
+As of **2024-01-28 07:52:18**
 
 ## Newspaper Stats
 
@@ -26,51 +26,57 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,961 (99.9%) of 2,964 articles have been extended.
+2,964 (100.0%) of 2,964 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### ජූනි අවසානයට පෙර අවසන් කරන බව ටිරාන් කියයි
+### Tiran says that before the end of June
 
 *2024-01-28 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192642) · `si`
 
-ලබන ජුනි මස අවසන් වීමට පෙර මෙරට පාතාල කණ්ඩායම් සහ මත්ද්‍රව්‍ය බෙදාහැරීමේ ජාලයන් සියල්ල ඉවත් කරන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+The Government Defense Minister Tiran Alles says that before the end of June, all Sri Lanka's underworld teams and drug delivery networks will be removed.
 
-අමාත්‍යවරයා පෙන්වා දෙන්නේ, කුමන බලපෑම් එල්ල වුව ද යුක්තිය මෙහෙයුම නතර නොකරන බවය.
+The Minister pointed out that justice is not stopped.
 
-මීගමුව ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින් මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා එම අදහස් පළ කළේය.
+Addressing a function in Negombo, Mr. Tiran Alles expressed these views.
 
-එහි දී අදහස් දැක්වූ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා සඳහන් කළේ, මේ වනවිට රට තුළ මත්ද්‍රව්‍ය මිල ශීඝ්‍ර ලෙස ඉහළ ගොස් ඇති බවය.
+Acting IGP Deshabandu Tennakoon stated that the price of drugs has increased in the country.
 
-මත්ද්‍රව්‍ය ජාවාරම්කරුවන්ගේ දේපොළ රාජසන්තක කිරීමේ කටයුතු කඩිනමින් සිදු කරන බව ද වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් මහතා එහි දී සඳහන් කළේය.
+Acting IGP Deshanayake Tennakoon stated that the acting of drug traffickers will be carried out soon.
 
 ◼️
 
 [Data](articles/68fdac4b.json)
 
+[Extended Data](ext_articles/68fdac4b.ext.json)
+
 ---
 
-### සනත් නිශාන්තගේ අවසන් කටයුතු අද
+### Last activities of Sanath Nishantha today
 
 *2024-01-28 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192641) · `si`
 
-කටුනායක අධිවේගී මාර්ගයේ සිදු වූ රිය අනතුරකින් ජීවිතක්ෂයට පත් ජල සම්පාදන රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු අද (28) පස්වරුවේ සිදු කිරීමට නියමිත ව තිබේ.
+The funeral of Hon. Sanath Nishantha's body is due to take place in an accident on the Katunayake Expressway today (28).
 
-ආරච්චිකට්ටුව ප්‍රදේශයේ පිහිටි රාජ්‍ය අමාත්‍යවරයාගේ නිවසේ දී අද දහවල් 01ට අවමංගල්‍ය සභාවේ කටයුතු ආරම්භ කිරීමට නියමිතයි.
+The funeral council will commence at 01 pm at the Arachchikattuwa home.
 
-රාජ්‍ය අමාත්‍යවරයාගේ දේහය මේ වනවිට ආරච්චිකට්ටුව ප්‍රදේශයේ නිවස අසල පිහිටි තාවකාලික ශාලාවක තැන්පත් කර ඇති අතර අද අහවල් 01 දක්වා දේහයට අවසන් ගෞරව දැක්වීම සඳහා අවස්ථාව හිමි වේ.
+The remains of the State Minister have been placed at a temporary hall near the house of the Arachchikattuwa and the last respects to the remains of the Arachchikattuwa.
 
-අවමංගල්‍ය සභාවේ කටයුතුවලින් අනතුරු ව දේහය රාජකදළුව කතෝලික සුසාන භූමිය වෙත පෙරහරකින් ගෙනගොස් භූමදානය කිරීමට නියමිතයි.
+The remains were taken to the Catholic Catholic Catholic Catholic Catholic Catholic Catholic Cathoikkoon.
 
-පසුගිය 25 වැනි දින අලුයම කොළඹ - කටුනායක අධිවේගී මාර්ගයේ ධාවනය වූ කන්ටේනර් රථයක රාජ්‍ය අමාත්‍යවරයා ගමන් කළ ජීප් රථය ගැටීමෙන් සිදුවූ අනතුරින් සනත් නිශාන්ත රාජ්‍ය අමාත්‍යවරයා සහ ඔහුගේ ආරක්ෂක නිලධාරියා ජීවිතක්ෂයට පත් වූහ.
+State Minister and his security guard were killed in the accident that the State Minister was traveling in the Colombo-Katunayake Expressway on the 25th of the Colombo-Katunayake Expressway.
 
-රාජ්‍ය අමාත්‍යවරයාගේ දේහයට අවසන් ගෞරව දැක්වීම සඳහා ආගමික නායකයින්, දේශපාලඥයින් ඇතුළු පාක්ෂිකයින් විශාල පිරිසක් ඊයේ රාත්‍රියේත් පැමිණ සිටි බව 'අද දෙරණ' වාර්තාකරු සඳහන් කළේය.
+The Ada Derana reporter stated that a large number of supporters, including religious leaders and politicians were present at the last respector of the State Minister.
 
-...
+The funeral of the defense officer who died in the accident was held last afternoon at the Kandy Headdeniya Commonwealth.
+
+◼️
 
 [Data](articles/2d4a95d4.json)
+
+[Extended Data](ext_articles/2d4a95d4.ext.json)
 
 ---
 
@@ -92,23 +98,25 @@ Navy Spokesperson Captain Gayan Wickramasuriya stated that based on preliminary 
 
 ---
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### Showers in several areas
 
 *2024-01-28 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192640) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති විය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorological Department says that there will be showers at times in the Eastern and Uva provinces and in the Polonnaruwa, Matale and Nuwara Eliya districts.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අනුරාධපුර, මුලතිව් සහ හම්බන්තොට දිස්ත්‍රික්කවල වැසි ස්වල්පයක් ඇති විය හැකි බවය.
+The department states that there will be a few showers in the Anuradhapura, Mullaitivu and Hambantota districts.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර සහ මහනුවර දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසු ස්ථාන ස්වල්පයක වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+Eastern Provinces in the Western and Sabaragamuwa Provincial and Galle, Matara and Kandy Districts. Showers or thundershowers will occur at several places after 2.00.
 
-උතුරු, උතුරු-මැද, නැගෙනහිර, මධ්‍යම, ඌව සහ වයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 40ක පමණ තරමක තද සුළං ඇතිවේ.
+From the Hambantota district, the North, North-Central, Eastern, Central, Uva and North Western provinces.. Strong winds are about 40.
 
-ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/2eaf7f8f.json)
+
+[Extended Data](ext_articles/2eaf7f8f.ext.json)
 
 ---
 

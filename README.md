@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 12:32:51**
+As of **2024-01-28 12:48:19**
 
 ## Newspaper Stats
 
-*Scraped **3,034** Articles*
+*Scraped **3,039** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,53 @@ adaderanasinhalalk | 303
 virakesarilk | 311
 tamilmirrorlk | 384
 adaderanalk | 393
-dailymirrorlk | 409
+dailymirrorlk | 414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,031 (99.9%) of 3,034 articles have been extended.
+3,039 (100.0%) of 3,039 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### Electoral bribery fine raised to Rs. 100,000
+
+*2024-01-28 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electoral-bribery-fine-raised-to-Rs-100-000/108-275834) · `en`
+
+Colombo, Jan 28 (Daily Mirror) - The government of Sri Lanka has decided to amplify the penalty for the offense of bribery aimed at influencing votes during an election.
+
+Accordingly, the fine, previously set at Rs. 500, has now been escalated to Rs 100,000.
+
+◼️
+
+[Data](articles/0310b77f.json)
+
+[Extended Data](ext_articles/0310b77f.ext.json)
+
+---
+
+### Issuing TIN not disrupted, necessary facilities will be provided to IRD: Minister
+
+*2024-01-28 11:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Issuing-TIN-not-disrupted-necessary-facilities-will-be-provided-to-IRD-Minister/108-275830) · `en`
+
+Ruwanwella, Jan 28 (Daily Mirror) - The issuing of the Taxpayer Identification Number (TIN) has not been interrupted or stopped, but necessary steps are being taken to prevent the obstacles and provide necessary facilities to the Inland Revenue Department (IRD), Finance State Minister Ranjith Siambalapitiya said.
+
+He made this comment while speaking to the media after a programme in the Ruwanwella area this morning, in response to questions regarding reports that the issuing of the TIN had been disrupted.
+
+The Minister said the government expects to reduce the amount of indirect taxes as much as possible and increase the amount of direct taxes.
+
+According to the number of citizens in the country, the number of existing tax files is insufficient, and steps were taken to open new tax files for 14 social groups that were identified as earning various incomes last year, the Minister said.
+
+...
+
+[Data](articles/5887b540.json)
+
+[Extended Data](ext_articles/5887b540.ext.json)
+
+---
 
 ### Wife is free if you buy a house
 
@@ -70,6 +106,8 @@ This adjustment seeks to provide additional support to scholarship awardees, ens
 
 [Data](articles/7ca74279.json)
 
+[Extended Data](ext_articles/7ca74279.ext.json)
+
 ---
 
 ### Interim committees appointed to two sports bodies dissolved
@@ -85,6 +123,8 @@ As such, in accordance with the Sports Act, No. 25 of 1973, both, the Sri Lanka 
 ◼️
 
 [Data](articles/d90a8d8a.json)
+
+[Extended Data](ext_articles/d90a8d8a.ext.json)
 
 ---
 
@@ -105,6 +145,30 @@ According to the Constitution of the National Sports Associations or Federations
 [Data](articles/a5ec4e31.json)
 
 [Extended Data](ext_articles/a5ec4e31.ext.json)
+
+---
+
+### North Korea fires cruise missiles off east coast, Seoul reports
+
+*2024-01-28 11:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/North-Korea-fires-cruise-missiles-off-east-coast-Seoul-reports/108-275833) · `en`
+
+North Korea, Jan 28 (BBC) - North Korea has fired several cruise missiles in waters off its east coast, South Korea's military says.
+
+In recent months the nuclear-armed communist state has tested missiles repeatedly, raising regional tension.
+
+Sunday's launch took place near the port of Sinpo. Neither the number nor type of missiles is clear yet.
+
+On Wednesday North Korea test fired a new strategic cruise missile called Pulhwasal-3-31, South Korea's Yonhap news agency says.
+
+Reporting the new launch, which took place at 08:00 (23:00 GMT Saturday), South Korea's Joint Chiefs of Staff (JCS) said "our military has been closely coordinating with the United States to monitor additional signs of North Korea's provocations".
+
+North Korean leader Kim Jong Un has been increasingly aggressive in his policy direction and rhetoric in recent months, ending several agreements aimed at peace-keeping and ramping up military action.
+
+...
+
+[Data](articles/ab9891d7.json)
+
+[Extended Data](ext_articles/ab9891d7.ext.json)
 
 ---
 
@@ -141,6 +205,26 @@ The Amnesty International has urged Sri Lanka to ensure that the Ceremony Backup
 [Data](articles/1562bed5.json)
 
 [Extended Data](ext_articles/1562bed5.ext.json)
+
+---
+
+### Enhanced scholarship allowance announced
+
+*2024-01-28 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Enhanced-scholarship-allowance-announced/108-275832) · `en`
+
+Colombo, Jan 28 (Daily Mirror) - The President's Fund, under the auspices of the President and the guidance of the Secretary to the President, announced the extension and enhancement of the scholarship programme for the year 2021/2022, the President Media Division (PMD) said.
+
+While issuing a statement they said this initiative aims to identify and support financially-challenged students across all provinces of Sri Lanka, ensuring they have the means to pursue their education without hindrance.
+
+In response to special requests from students, the President has decided to increase the existing monthly allowance of Rs. 5,000.00 to Rs. 6,000.00, effective February 2024.
+
+This adjustment seeks to provide additional support to scholarship awardees, ensuring their financial well-being and uninterrupted learning until they sit for the G.C.E A/L examination. So far, 10 monthly instalments have been paid out.
+
+...
+
+[Data](articles/2073e8a9.json)
+
+[Extended Data](ext_articles/2073e8a9.ext.json)
 
 ---
 
@@ -274,6 +358,8 @@ CMF is a multinational maritime partnership led by the U.S. from Bahrain, the ba
 
 [Data](articles/9913a547.json)
 
+[Extended Data](ext_articles/9913a547.ext.json)
+
 ---
 
 ### Deposits sent to trial
@@ -323,6 +409,26 @@ Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 [Data](articles/e03cb344.json)
 
 [Extended Data](ext_articles/e03cb344.ext.json)
+
+---
+
+### Tough decision taken to cancel two gazettes: Harin
+
+*2024-01-28 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tough-decision-taken-to-cancel-two-gazettes-Harin/108-275831) · `en`
+
+Colombo, Jan 28 (Daily Mirror) - Two special gazettes issued by former Sports Minister Roshan Ranasinghe have been cancelled by the current Sports and Youth Affairs Minister Harin Fernando.
+
+Accordingly, the special gazette number 2342/48 dated July 28, 2023, will be cancelled.
+
+Also, the gazette notification that disbanded the interim committees, the powers, functions, and duties of the Sri Lanka Karate Federation and the Sri Lanka Motor Sports Association has also been cancelled.
+
+According to the constitution of the National Sports Associations or Federations, the officers elected at the previous elections can be appointed before the board until their legal terms of office are over and a new election is held, Minister Fernando said.
+
+◼️
+
+[Data](articles/21be7564.json)
+
+[Extended Data](ext_articles/21be7564.ext.json)
 
 ---
 
@@ -1927,99 +2033,5 @@ He noted that Sri Lanka must “ensure whatever proposals we have exchanged are 
 [Data](articles/cdda79a7.json)
 
 [Extended Data](ext_articles/cdda79a7.ext.json)
-
----
-
-### Anuradha Jayakody's funeral will take place
-
-*2024-01-27 17:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192630) · `si`
-
-The funeral of his security officer Anuradha Jayakody died in accident with State Minister Sanath Nishantha.
-
-Meanwhile, police constable Anuradha Jayakody was promoted to the ratio.
-
-The Police Media Divisions stated that he has promoted the post of Police Sergeant to the post of Police Act on 25/93 Public Administration Circulars.
-
-Acting Insider Inspector has also taken steps to provide the officer's family at the house.
-
-◼️
-
-[Data](articles/ed4b6f21.json)
-
-[Extended Data](ext_articles/ed4b6f21.ext.json)
-
----
-
-### Sri Lanka defence sector to join tourism initiatives
-
-*2024-01-27 17:09:00* · [`economynextcom`](https://economynext.com/sri-lanka-defence-sector-to-join-tourism-initiatives-148870/) · `en`
-
-ECONOMYNEXT – Minister of Tourism Harin Fernando has met the heads of the armed forces and the police to discuss tourism projects.
-
-The forces will contribute to adding many new experiences to the tourism business, a statement by the Department of Government Information said after the meeting on Friday (26).
-
-These include the police ensuring the safety of tourists, the air force increasing domestic flights within the island, developing marine tourism with the participation of the navy, and initiating a life-saving programme with the participation of the army.
-
-Sri Lanka is eagerly focused on promoting tourism, a key foreign exchange source for the country, but lacks critical infrastructure and faces much red tape. However, the government has adopted an all hands on deck approach since of late.
-
-Although surrounded by the sea, the island neither has a domestic yatch culture, nor yacht based tourism activities like liveaboard diving cruises.
-
-...
-
-[Data](articles/c9f536d8.json)
-
-[Extended Data](ext_articles/c9f536d8.ext.json)
-
----
-
-### The turbulent brilliance of “Gia,” world’s first supermodel
-
-*2024-01-27 17:08:00* · [`islandlk`](http://island.lk/the-turbulent-brilliance-of-gia-worlds-first-supermodel/) · `en`
-
-From stardom to shadows, glamour, grit, and a runway tragedy
-
-It was the year 2019 and it was one of my habits to visit the local library near my hometown here in Canada whenever I got a chance because, it was one of the quieter places in the city. I remember entering its empty hallways wondering when might have been the last time that someone may have set foot in there because for some reason, though I always felt welcome, there was always a sense of cold and emptiness around the place; as if it has accepted its fate of being unrealized and unnoticed.
-
-During one of my visits, I was intrigued by a title of a book named “Thing of Beauty”, which at first seemed like a romance or some sort of a coming-of-age novel. But I was quite taken aback after carefully going through its faded brown pages with a taped back hardcover realizing it was a biography of “Gia Marie Carangi”, who was once dubbed one the most unstoppable forces in the fashion industry during the late ‘70s and early ‘80’s.
-
-...
-
-[Data](articles/81ffdf5b.json)
-
-[Extended Data](ext_articles/81ffdf5b.ext.json)
-
----
-
-### 74 year old woman dies
-
-*2024-01-27 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192629) · `si`
-
-She has been sexually abused at the post mortem examination of a 74-year-old woman who died.
-
-The 74-year-old woman living alone in a house was hospitalized after her neighbors were admitted to her home.
-
-The post mortem was revealed that she had been sexually abused.
-
-◼️
-
-[Data](articles/bf63ba87.json)
-
-[Extended Data](ext_articles/bf63ba87.ext.json)
-
----
-
-### Buddhists in Ancient Egypt?
-
-*2024-01-27 16:35:00* · [`islandlk`](http://island.lk/buddhists-in-ancient-egypt/) · `en`
-
-Researchers have discovered a two-foot-tall Buddha statue in Berenike, an ancient Egyptian port city on the Red Sea. The artifact is the first Buddha ever found west of Afghanistan, according to the New York Times Review of Books’ William Dalrymple. Made from Mediterranean marble, it provides new evidence of trade between ancient Rome and India.
-
-Based on stylistic details, the researchers think it was made in Alexandria around the second century C.E. A halo around the statue’s head is covered with rays of sun, “which indicates his radiant mind,” says the Egyptian Ministry of Tourism and Antiquities in a statement. Founded in the third century B.C.E., Berenike eventually became one of the largest ports in Roman-controlled Egypt, according to the antiquities ministry.
-
-...
-
-[Data](articles/9449663d.json)
-
-[Extended Data](ext_articles/9449663d.ext.json)
 
 ---

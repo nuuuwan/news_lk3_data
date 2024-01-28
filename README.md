@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 14:02:22**
+As of **2024-01-28 14:17:19**
 
 ## Newspaper Stats
 
-*Scraped **3,049** Articles*
+*Scraped **3,052** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 172
 islandlk | 174
-newsfirstlk | 181
+newsfirstlk | 182
 dailyftlk | 215
 adalk | 275
 adaderanasinhalalk | 306
-virakesarilk | 315
+virakesarilk | 317
 tamilmirrorlk | 385
 adaderanalk | 393
 dailymirrorlk | 414
@@ -26,11 +26,89 @@ dailymirrorlk | 414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,049 (100.0%) of 3,049 articles have been extended.
+3,049 (99.9%) of 3,052 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### கேப்பாப்பிலவில் இரு குடும்பங்கள் போராட்டம்! பொலிஸாரின் பொறுப்பற்ற செயற்பாடே காரணம்
+
+*2024-01-28 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174973) · `ta`
+
+கேப்பாப்பிலவு பகுதியில் வீட்டில் வசிப்பதற்கு பாதுகாப்பு இல்லை, பொலிஸார் நியாயமான  நீதியை பெற்றுக்கொடுக்கவில்லை என தெரிவித்து, தமக்கான நீதி வேண்டி இரு குடும்பங்கள் சனிக்கிழமை (27) போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+
+முல்லைத்தீவு கேப்பாப்பிலவு கிராமத்தில் சட்டவிரோத செயற்பாட்டில் ஈடுபட்டு வரும் அயல்வீட்டுக்காரருக்கும் கிராமத்தில் வசிக்கும் இரு குடும்பங்களுக்கும் இடையே தொடர்ச்சியாக வாக்குவாதம் இருந்து வந்தது.
+
+இந்நிலையிலேயே கேப்பாப்பிலவு மாதிரி கிராமம் பிள்ளையார் கோவிலுக்கு முன்பாக சனிக்கிழமை (27) மாலை 3 மணியில் இருந்து இரு குடும்பங்களை சேர்ந்த 12 பேர் போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+
+இந்த இரு குடும்பத்தினரும் போராட்டத்தில் ஈடுபட்டவேளை, வீட்டில் 14 வயதுடைய இரு சிறுவர்கள் தனிமையில் இருந்தபோது, பிரச்சினைக்குரிய அயல்வீட்டு குடும்பஸ்தர், குறித்த வீட்டினுள் சென்று போதைப்பொருளை வைத்துவிட்டு, பொலிஸாரை அழைத்து வந்ததை தொடர்ந்து, இரு சிறுவர்களும் கைது செய்யப்பட்டுள்ளனர்.
+
+...
+
+[Data](articles/35f55ae8.json)
+
+---
+
+### போதைப்பொருள் கடத்தல்காரர்களும் அனுமதிக்கப்படுவதே கந்தகாடு முகாம் பிரச்சினைகளுக்கு பிரதான காரணமாம்!
+
+*2024-01-28 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174984) · `ta`
+
+கந்தகாடு புனர்வாழ்வு முகாமில் தொடர்ச்சியாக இடம்பெற்று வரும் சம்பவங்களைக் கட்டுப்படுத்துவதற்கான அவசர வேலைத்திட்டம் அமுல்படுத்தப்பட்டு வருவதாக புனர்வாழ்வு ஆணையாளர் நாயகம் தர்ஷன ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+
+போதைப்பொருள் கடத்தல்காரர்களும் புனர்வாழ்வு நிலையத்தில் அனுமதிக்கப்படுவதே முரண்பாடுகளுக்கு பிரதான காரணம் என அவர் சுட்டிக்காட்டியுள்ளார்.
+
+ஜனவரி மாதத்தில் இரண்டு தடவைகள் கந்தகாடு புனர்வாழ்வு முகாமில் கைதிகளுக்கு இடையில் மோதல் சம்பவங்கள் பதிவாகியுள்ளன.
+
+தற்போது வரை நிலைமை கட்டுப்படுத்தப்பட்டுள்ளதாகவும் எனினும் இதற்கு நிரந்தர  தீர்வு காணப்பட வேண்டுமெனவும் அவர்  தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/3635d4fb.json)
+
+---
+
+### Members of the UN have been accused of attacking Hamas- many countries suspended financial aid
+
+*2024-01-28 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174975) · `ta`
+
+The world has suspended financial aid to the Palestinian Refugees for the attack on the seventh of October by Hamas.
+
+Eight countries, including Britain, have stopped financial assistance for Palestinian refugees.
+
+The UNRTAUA is mainly relying on the organization to survive more than two million people, said the head of the organization, Philippe Lazarini.
+
+It is shocking that the funds have been suspended on the basis of allegations against a small number of employees, he said.
+
+He added that these obstacles are inappropriate in the context of war migration in the region.
+
+◼️
+
+[Data](articles/3615bad7.json)
+
+[Extended Data](ext_articles/3615bad7.ext.json)
+
+---
+
+### 110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
+
+*2024-01-28 13:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/110-commitments-loom-as-sri-lanka-makes-strides-on-imf-bailout/) · `en`
+
+COLOMBO (News 1st); According to independent analysis from Verité Research Sri Lanka has met most of its initial commitments under its International Monetary Fund (IMF) bailout program, but concerns remain over delays in governance and transparency reforms
+
+The island nation, grappling with its worst economic crisis in decades, secured a crucial $2.9 billion loan from the IMF in March 2023.
+
+Verité Research, which tracks Sri Lanka's progress under the Extended Fund Facility (EFF) program via its online platform "IMF Tracker," reports that of the 73 commitments due by end-November 2023, 60 have been met, albeit with some delays.
+
+However, 13 commitments remain unfulfilled, raising concerns about Sri Lanka's commitment to crucial reforms.
+
+Five of these were irreversibly missed and cannot be carried forward, while eight have been deferred to the second phase of the program leading up to the next IMF review.
+
+...
+
+[Data](articles/84d2f7f1.json)
+
+---
 
 ### A speedy program to solve conflict in Kandakaduwa
 
@@ -110,28 +188,6 @@ Accordingly, with the increase in scholarships, from February 2024 to the GCE Ad
 
 ---
 
-### Members of the UN have been accused of attacking Hamas- many countries suspended financial aid
-
-*2024-01-28 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/174975) · `ta`
-
-The world has suspended financial aid to the Palestinian Refugees for the attack on the seventh of October by Hamas.
-
-Eight countries, including Britain, have stopped financial assistance for Palestinian refugees.
-
-The UNRTAUA is mainly relying on the organization to survive more than two million people, said the head of the organization, Philippe Lazarini.
-
-It is shocking that the funds have been suspended on the basis of allegations against a small number of employees, he said.
-
-He added that these obstacles are inappropriate in the context of war migration in the region.
-
-◼️
-
-[Data](articles/3615bad7.json)
-
-[Extended Data](ext_articles/3615bad7.ext.json)
-
----
-
 ### Increase in scholarship
 
 *2024-01-28 12:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-தொகை-அதிகரிப்பு/175-332204) · `ta`
@@ -173,6 +229,8 @@ The two fishing boats were seized by the MNDF's Northern Area Command Coast Guar
 According to MNDF, the two vessels are currently under the custody of the Coast Guard First Squadron's Coast Guard Ship Nooraddeen, docked at Haa Alif Filladhoo harbour. The two fishing boats will be brought to Male' City and handed over to the police.
 
 Illegal fishing by Indian and Sri Lankan fishing vessels is common in Maldivian waters.
+
+110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
 
 Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
@@ -576,9 +634,9 @@ The directive further discourages exceeding the pre-determined number of employe
 
 The State Minister highlighted the current surplus of development officers as a prime example of underutilized potential within the existing workforce.
 
-Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
+110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
 
-◼️
+...
 
 [Data](articles/e03cb344.json)
 
@@ -1276,6 +1334,8 @@ The vessel, which set sail from Dikovita port on January 12th, was hijacked in i
 
 Despite the communication breakdown,  Kahawatta assured the that "all measures are being taken" to secure the safe return of the fishermen.
 
+110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
+
 Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
 ◼️
@@ -1320,6 +1380,8 @@ The service was previously suspended due to various internal circumstances in Sr
 
 However, with renewed efforts and approval from the Indian government, the ferry's return opens up a new chapter in bilateral connectivity, and it will be possible to travel to India at a low cost.
 
+110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
+
 Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
 ◼️
@@ -1356,6 +1418,8 @@ Traffic is currently restricted to one lane, with vehicles travelling in both di
 
 According to the Director of Expressway Maintenance and Management Unit R.A.D. Kahatapitiya, crews are working to remove the overturned lorry and restore full access to the expressway as soon as possible.
 
+110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
+
 Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
 ◼️
@@ -1375,6 +1439,8 @@ COLOMBO (News 1st); The Public Utilities Commission (PUCSL) announced hat the pu
 This comes in addition to the ongoing written submission period, which ends on February 12th.
 
 The proposed electricity tariff revision proposal was submitted to the PUCSL by the Ceylon Electricity Board (CEB) in recent weeks.
+
+110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
 
 Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
@@ -1463,6 +1529,8 @@ COLOMBO (News 1st); Sri Lankan authorities confirmed that a group of six fisherm
 The Sri Lankan Navy received information on Saturday (27) about the capture of the fishing vessel, which had set sail from Dikowita port recently.
 
 Navy Spokesperson Captain Gayan Wickramasuriya stated that based on preliminary reports, pirates intercepted the fishing vessel carrying six Sri Lankan fishermen in the Indian Ocean north of Seychelles
+
+110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
 
 Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
@@ -1977,63 +2045,5 @@ Minister Nalin Fernando, Minister Susil Premajans and MP Priyankara Jayaratne jo
 [Data](articles/fb7cde24.json)
 
 [Extended Data](ext_articles/fb7cde24.ext.json)
-
----
-
-### Former Nilame arrested with former Nilame
-
-*2024-01-27 20:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192633) · `si`
-
-The UPFA, a person and his casualist Investigation Division has been arrested by the Illegal Fraud Division of the Illegal Asset Investigation Division.
-
-The man who had served as the Basnayake Nilame of the Weherahena Viharaya in 2021, the man was cheated with a Phiramyadkara Company.
-
-It is reported that he has stayed with its mistress in Pilimatalawa, Kandy after defrauding the money.
-
-800 lakhship deposit has been conducted in the name of the mistress.
-
-His casual wife was arrested on charges of investing cheating.
-
-The 39-year-old man and his casual wife was brought to the Illegal Summary Investigation Division in Narahenpita this afternoon.
-
-◼️
-
-[Data](articles/da52bda1.json)
-
-[Extended Data](ext_articles/da52bda1.ext.json)
-
----
-
-### Police awards Rs. 1.5 mn to MSD officer killed in Expressway accident
-
-*2024-01-27 19:35:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-awards-Rs-1-5-mn-to-MSD-officer-killed-in-Expressway-accident/108-275820) · `en`
-
-Kandy, Jan. 27 (Daily Mirror)- The police has offered a Rs. 1.5 million cash donation to the family of late State Minister Sanath Nishantha's security officer, Police Constable J.A.A. Jayakodi, who died in the accident on the Katunayake Expressway.
-
-Acting IGP Deshabandu Tennakoon, who visited the constable's residence in Hedeniya, Galagedara to pay his last respects today handed over the cheque for Rs. 1.5 million to the constable's wife.
-
-◼️
-
-[Data](articles/367aa8f6.json)
-
-[Extended Data](ext_articles/367aa8f6.ext.json)
-
----
-
-### India, Sri Lanka hopeful of early ETCA conclusion, working on Kochi-Colombo LNG pipeline
-
-*2024-01-27 19:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96777/india-sri-lanka-hopeful-of-early-etca-conclusion-working-on-kochi-colombo-lng-pipeline-) · `en`
-
-India has expressed hopes for the early conclusion of the Economic and Technology Cooperation Agreement (ETCA), which seeks to add to the existing free trade agreement with Sri Lanka, to pave the way to boost the island’s export potential.
-
-Indian High Commissioner to Sri Lanka, Mr. Santosh Jha, addressing an event held in Colombo, said: “We hope to enhance our economic partnership and enhance Sri Lanka’s export potential through early conclusion of the Economic and Technology Cooperation Agreement, just as the FTA opened new export opportunities for Sri Lanka to India, which now stands at more than 1 billion dollars.”
-
-The remarks came during an evening reception hosted by Mr. Jha at India House in Colombo on the occasion of 75th Republic Day of India on Friday (Jan.26).
-
-...
-
-[Data](articles/ab256253.json)
-
-[Extended Data](ext_articles/ab256253.ext.json)
 
 ---

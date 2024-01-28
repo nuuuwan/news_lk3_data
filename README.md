@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 03:02:32**
+As of **2024-01-29 03:17:14**
 
 ## Newspaper Stats
 
-*Scraped **3,151** Articles*
+*Scraped **3,152** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 223
 adalk | 288
 adaderanasinhalalk | 324
 virakesarilk | 330
-tamilmirrorlk | 394
+tamilmirrorlk | 395
 adaderanalk | 409
 dailymirrorlk | 430
 
@@ -26,11 +26,25 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,151 (100.0%) of 3,151 articles have been extended.
+3,151 (100.0%) of 3,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### செல்லக்கதிர்காமத்தில் விபத்து: ஒருவர் பலி
+
+*2024-01-29 02:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்லக்கதிர்காமத்தில்-விபத்து-ஒருவர்-பலி/175-332236) · `ta`
+
+வான் ஒன்றும் லொறியொன்றும் மோதியே இந்த விபத்து இடம்பெற்றுள்ளது என பொலிஸார் தெரிவித்துள்ளனர்.
+
+உயிரிழந்த நபர் வானில் பயணித்தவர் எனவும் வானில் பயணித்த மேலும் 4 பேர் காயமடைந்துள்ளனர் என்றும் பொலிஸார் தெரிவித்துள்ளனர். (a)
+
+◼️
+
+[Data](articles/10c2cefa.json)
+
+---
 
 ### Cost Accounting takes centre stage in Colombo
 
@@ -1941,23 +1955,5 @@ Accordingly, with the increase in scholarships, from February 2024 to the GCE Ad
 [Data](articles/2915758f.json)
 
 [Extended Data](ext_articles/2915758f.ext.json)
-
----
-
-### TNA. General Secretary PLEASE EDITION PANT
-
-*2024-01-28 12:50:56* · [`adalk`](https://www.ada.lk/breaking_news/ටී-එන්-ඒ--මහ-ලේකම්-තොරන-නිලවරණය-ගාල-‌ගෝට්ටියක්/11-407752) · `si`
-
-The Central Committee Meeting of the Central Committee of the Ministry of Tamil Committee including the General Secretary and the Executive Committee was completed in Trincomalee, and the Tamil National Alliance today (28) today (28) today due to one party that he would not accept them.The Kenda Leader MP S. S ෝ ably Dhamma was suspended to suspend the first public rally in Trincomalee with the participation of new leaders.
-
-Accordingly, Convenient Kishivanamo was appointed as the Senior Deputy Chairman as the Senior National Assembly General Secretary of the Tamil National Assembly.Mr. Kalay Arayanayandan, M. Ariyanayannendan, S. Sakinyan, S. Sahanki Raja, Ranjani Raja, Ranjanananaban, Rasena Raja, Rasena Raja, Rasymanakana Shaansa, Rasymanakana ShaansaIt was the time.
-
-The central committee member members are allowed to enter the event at the fullesting of the election and the guards of MPs who were not allowed to enter the guardians of Parliament.
-
-◼️
-
-[Data](articles/d1ad6062.json)
-
-[Extended Data](ext_articles/d1ad6062.ext.json)
 
 ---

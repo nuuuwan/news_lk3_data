@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 08:49:38**
+As of **2024-01-28 09:02:21**
 
 ## Newspaper Stats
 
-*Scraped **2,989** Articles*
+*Scraped **2,991** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 270
 adaderanasinhalalk | 295
 virakesarilk | 305
 tamilmirrorlk | 377
-adaderanalk | 384
+adaderanalk | 386
 dailymirrorlk | 406
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,988 (100.0%) of 2,989 articles have been extended.
+2,989 (99.9%) of 2,991 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### Icon of the Seas: World’s largest cruise ship sets sail
+
+*2024-01-28 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96783/icon-of-the-seas-worlds-largest-cruise-ship-sets-sail) · `en`
+
+(Reuters) - The world’s largest cruise ship is set for its maiden voyage on Saturday, but environmental groups are concerned that the liquefied natural gas-powered vessel - and other giant cruise liners to follow - will leak harmful methane into the atmosphere.
+
+Royal Caribbean International’s Icon of the Seas sets sail from Miami with capacity for 8,000 passengers across 20 decks, taking advantage of the surging popularity of cruises.
+
+The ship is built to run on liquefied natural gas (LNG), which burns more cleanly than traditional marine fuel but poses greater risks for methane emissions. Environmental groups say methane leakage from the ship’s engines is an unacceptable risk to the climate because of its short-term harmful effects.
+
+“It’s a step in the wrong direction,” said Bryan Comer, director of the Marine Program at the International Council on Clean Transportation (ICCT), an environmental policy think tank.
+
+...
+
+[Data](articles/f5137093.json)
+
+---
 
 ### Woman killed
 
@@ -61,6 +79,26 @@ Meanwhile, two motorbikes clash near the Mount Mary Junction of Borella - Baseli
 [Data](articles/70dd6578.json)
 
 [Extended Data](ext_articles/70dd6578.ext.json)
+
+---
+
+### Showers expected in parts of the island
+
+*2024-01-28 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96782/showers-expected-in-parts-of-the-island) · `en`
+
+The Meteorology Department says showers will occur at times in Eastern and Uva provinces and in Polonnaruwa, Matale and Nuwara-Eliya districts.
+
+A few showers may occur in Anuradhapura, Mullaitivu and Hambantota districts, it said.
+
+Showers or thundershowers will occur at few places in Western and Sabaragamuwa provinces and in Galle, Matara and Kandy districts after 2.00 p.m.
+
+Fairly strong winds about 40 kmph can be expected at times over the Northern, North-central, Eastern, Central, Uva and Northwestern provinces and Hambantota district.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/d0ff7daf.json)
 
 ---
 
@@ -1993,43 +2031,5 @@ Police, led by MHM Haseeb, in charge of the Akkaraipattu Police Station, who rus
 [Data](articles/34a601e5.json)
 
 [Extended Data](ext_articles/34a601e5.ext.json)
-
----
-
-### UN agency fires Gaza staff suspected of joining Oct.7 attacks on Israel
-
-*2024-01-27 10:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96763/un-agency-fires-gaza-staff-suspected-of-joining-oct7-attacks-on-israel) · `en`
-
-The United Nations agency for Palestinian refugees (UNRWA) said on Friday it had opened an investigation into several employees suspected of involvement in the Oct. 7 attacks in Israel by Hamas and that it had severed ties with those staff members.
-
-“The Israeli authorities have provided UNRWA with information about the alleged involvement of several UNRWA employees in the horrific attacks on Israel on October 7,” said Philippe Lazzarini, UNRWA Commissioner-General.
-
-“To protect the agency’s ability to deliver humanitarian assistance, I have taken the decision to immediately terminate the contracts of these staff members and launch an investigation in order to establish the truth without delay.”
-
-Lazzarini did not disclose the number of employees allegedly involved in the attacks, nor the nature of their alleged involvement. He said, however, that “any UNRWA employee who was involved in acts of terror” would be held accountable, including through criminal prosecution.
-
-...
-
-[Data](articles/05ba5a26.json)
-
-[Extended Data](ext_articles/05ba5a26.ext.json)
-
----
-
-### Massive cannabis tea
-
-*2024-01-27 10:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192617) · `si`
-
-The Army and the STF have been deployed to raid a large cannabis in the Yala forest reserve.
-
-The marijuana payments have been carried out by the Yala Insured Environment and raided 21,260 dried cannabis trees have been able to find 21,260 dried cannabis trees.
-
-The suspects had escaped at the time of the raid.
-
-◼️
-
-[Data](articles/bf9ece92.json)
-
-[Extended Data](ext_articles/bf9ece92.ext.json)
 
 ---

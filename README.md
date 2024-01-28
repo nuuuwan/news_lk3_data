@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 21:02:16**
+As of **2024-01-28 21:17:14**
 
 ## Newspaper Stats
 
@@ -26,47 +26,51 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,117 (99.7%) of 3,127 articles have been extended.
+3,127 (100.0%) of 3,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### කොදෙව් සුපිරි ක්‍රිකට් තරුව හැඬවූ සුපිරි ජය
+### Super win of West Indies
 
 *2024-01-28 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192670) · `si`
 
-ඔස්ට්‍රේලියාවට එරෙහිව කොදෙව් පිල ජයග්‍රහණය සනිටුහන් කළ අවස්ථාවේදී ක්‍රිකට් විස්තර විචාරයේ යෙදුණු හිටපු කොදෙව් සුපිරි පිතිකරු බ්‍රයන් ලාරාගේ නෙත් කඳුලින් තෙත්විය.
+When the West Indies won the victory against Australia, the former West Indies, who was committed cricket relief, wet the neoth tears of Lara.
 
-වසර 27කට පසු ඔස්ට්‍රේලියාවට එරෙහිව ඔස්ට්‍රේලියාවේදී ටෙස්ට් තරග ජයක් වාර්තා කිරීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම අද (28) සමත්වුණි.
+West Indies won the Test match today (28) in Australia after 27 years.
 
-ඒ බ්‍රිස්බේන් හිදි පැවැති දෙවන ටෙස්ට් තරගයෙන් ලකුණු 8ක තියුණු ජයක් වාර්තා කරමින්ය.
+In the Brisbane, British match was won by 8 runs.
 
 ◼️
 
 [Data](articles/329c6a78.json)
 
+[Extended Data](ext_articles/329c6a78.ext.json)
+
 ---
 
-### ගාලු ගිය ජනපති ගත් තීරණය
+### Decision for the Galle President
 
 *2024-01-28 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192669) · `si`
 
-එක් ආයතන ව්‍යුහයක් යටතේ ගාල්ල නගර සංවර්ධන සැලැස්ම කඩිනම් කරන්නැයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බලධාරීන්ට උපදෙස් ලබාදී තිබේ.
+President Ranil Wickremesinghe has instructed the authorities to accelerate the Galle city development plan under a structure.
 
-ඒ, ගාල්ල කොටුව සංවර්ධන කටයුතු පිළිබඳව සොයාබැලීමේ නිරීක්ෂණ චාරිකාවකට ඊයේ (27) එක්වෙමිනි.
+It was held yesterday (27) a tour of the Galle Fort's development work yesterday (27).
 
-එමෙන්ම ගාල්ල සංවර්ධන කටයුතු කඩිනම් කිරීම සඳහා විශේෂ කොමිසමක් පත් කිරීමට ද ජනාධිපතිවරයා එහිදී තීරණය කළ බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+The President also declared that the President also declared a special commission to accelerate Galle development activities.
 
-මේ අතර 2024 ගාලු සාහිත්‍ය උළෙල නැරඹීමට ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ එක්වුණි.
+Meanwhile, President Ranil Wickremesinghe was also present at the Galle Literary Festival of the Galle Literary Festival.
 
-ලොව පුරා කීර්තිමත් කතුවරුන්, සාහිත්‍යකරුවන්, මාධ්‍යවේදීන් සහ ප්‍රකාශකයන් එක්වන මෙරට පැවැත්වෙන ප්‍රධානම ජාත්‍යන්තර සාහිත්‍ය උළෙල වන ගාලු සාහිත්‍ය උළෙල මෙවර පැවැත්වෙන්නේ වසර කිහිපයකට පසුව වීම විශේෂත්වයකි.
+The Galle Literary Festival is the main international literary festival in Sri Lanka, which is held in Sri Lanka, which is held in Sri Lanka, which will be held in Sri Lanka, which is held in Sri Lanka, which is held in Sri Lanka to join in the country's country of renowned authors, literary, journalists, journalists and publishers.
 
-ජනවාරි 25 වනදා ආරම්භ වූ ගාලු සාහිත්‍ය උළෙල අදින් අවසන් වෙයි.
+The Galle Literary Festival, which began on January 25, will end up today.
 
 ◼️
 
 [Data](articles/c4be7548.json)
+
+[Extended Data](ext_articles/c4be7548.ext.json)
 
 ---
 
@@ -87,6 +91,8 @@ The deadline for compliance with this mandatory disclosure is fixed at March 31s
 ◼️
 
 [Data](articles/1c88b244.json)
+
+[Extended Data](ext_articles/1c88b244.ext.json)
 
 ---
 
@@ -164,35 +170,39 @@ The remains of State Minister of Water Supply, Sanath Nishantha, who died in a c
 
 ---
 
-### புதிய கூட்டணியில் இணைவதற்கு 28 கட்சிகள், 60 பாராளுமன்ற உறுப்பினர்கள் எம்முடன் பேச்சுவார்த்தை - நிமல் லான்சா
+### 28 parties, 60 MPs negotiate with us to join the new coalition - Nimal Lansa
 
 *2024-01-28 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175015) · `ta`
 
-புதிய கூட்டணியில் இணைவதற்காக 28க்கும் மேற்பட்ட கட்சிகளும், 60க்கும் மேற்பட்ட பாராளுமன்ற உறுப்பினர்களும் எம்முடன் பேச்சுவார்த்தை நடத்தி வருகின்றனர். ஜனநாயக ரீதியான அதிகாரத்தை, ஒரு தலைவரிடம் அன்றி ஒரு தலைமைத்துவ சபைக்கு வழங்கும் வேலைத்திட்டத்தை எமது கூட்டணி முன்னெடுக்கும் என, புதிய கூட்டணியின் ஸ்தாபகரான பாராளுமன்ற உறுப்பினர் நிமல் லான்சா தெரிவித்தார்.
+More than 28 parties and more than 60 MPs are in talks with us to join the new alliance. Nimal Lansa, the founder of the new coalition, said that our coalition will carry out a program of providing democratic authority to a leader, not a leader.
 
-புதிய கூட்டணியை கட்டியெழுப்பும் நோக்கில் சனிக்கிழமை (27) ஜா-எல நகரில் நடைபெற்ற முதலாவது மக்கள் சந்திப்பில் கலந்துகொண்டு உரையாற்றும்போதே நிமல் லான்சா மேற்கண்டவாறு தெரிவித்தார். அங்கு தொடர்ந்தும் உரையாற்றிய அவர்,
+Nimal Lansa said this while addressing the first public meeting in Ja-Ela on Saturday (27) to build a new alliance.. He continued to speak there,
 
-பெருமளவிலான எம்.பி.க்களையும், கட்சிகளையும் இணைத்து எதிர்காலத்தில் மிகப் பெரிய கூட்டணி உருவாக்கப்படும். வரலாற்றில் முதன்முறையாக கட்சி சின்னமோ, கட்சியோ இல்லாமல் ஒரு நிகழ்ச்சியை வெற்றி பெற செய்வதற்காக ஏராளமானோர் திரண்டுள்ளனர். தலைவரோ, தலைமைக் குழுவோ இல்லாமல் எமது அழைப்பை ஏற்று வந்துள்ள மக்களுக்கு எமது நன்றியை தெரிவித்துக் கொள்கிறோம்.
+The biggest alliance will be formed in the future by incorporating a large number of MPs and parties. For the first time in history, a large number of people gathered to win a show without a party or a party. We express our gratitude to the people who have accepted our invitation without the leader or the leadership committee.
 
 ...
 
 [Data](articles/95630fef.json)
 
+[Extended Data](ext_articles/95630fef.ext.json)
+
 ---
 
-### யுக்திய : உதவாத உத்தி
+### Urukh: The helpless strategy
 
 *2024-01-28 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175009) · `ta`
 
-கைப்பற்றப்பட்ட போதைப்பொருளுக்குப் பதிலாக வேறு பொருள்கள் மாற்றப்பட்டிருக்கிறது என்றால், அது அரசாங்க மற்றும் அதிகார மட்டத்தில் உள்ளவர்­களின் துணையுடன்தான் இடம்பெற்றிருக்க வேண்­டும்.
+If other materials have been replaced instead of the seized drug, it must be with the help of those who are in government and power.
 
-போதைப்பொருள் கடத்தலையும், பாதாள உலக  குற்­றங்களையும் ஒழிப்பது, அதிகார மட்டத்தில் நிலவு­கின்ற மோசடிகள், ஊழல்கள் ஒழிக்கப்பட்டால் தான் நடைமுறைச் சாத்தியமாகும்.
+The abolition of drug trafficking and the abolition of undergraduate crimes, the abolition of the scandals and corruption at the level of power is possible.
 
-மாறாக சிறு சிறு குற்றவாளிகளை பிடித்து சிறைச்­சாலைகளை நிரப்புவதன் மூலம் நாட்டை தூய்மைப்­படுத்திவிட முடியாது.
+Instead, the country cannot be cleaned by catching small criminals and filling prisons.
 
 ◼️
 
 [Data](articles/65af9185.json)
+
+[Extended Data](ext_articles/65af9185.ext.json)
 
 ---
 
@@ -210,31 +220,35 @@ Sports Minister Hareen Fernando has said that the International Cricket Council 
 
 ---
 
-### சிறீ­த­ரனின் முள்­கி­ரீடம்
+### Thorny
 
 *2024-01-28 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175008) · `ta`
 
-சிறீதரனின் வெற்றியை கொண்டாடுகின்றவர்களுக்கும் சரி, அதனை வரவேற்றிருக்கின்றவர்களுக்கும் சரி, சிறீதரனுக்கு கிடைத்திருக்கின்ற இந்த கிரீடம் ஒரு முள்கிரீடம் என்பது தெரியாமல் இருந்திருக்காது.
+This crown that Sreedharan has received is not known to be a thorns for those who celebrate Sreedharan's victory and to those who have been welcomed.
 
-ஏனென்றால் தமிழ் அரசுக் கட்சியின் தலைவரான பின்னர், அவர் கட்சிக்குள்ளேயும் வெளியேயும் அதிகளவு துணிச்சலுடனும் பொறுப்புடனும் தீர்க்கமாகவும் பணியாற்ற வேண்டியிருக்கும். அவ்வாறு செயற்படும்போது அவர் பகைமைகளை சந்திக்கும் நிலை வரும். எந்தளவு பொருத்தமானவர் என்பது தெரியவரும்.
+This is because after becoming the leader of the Tamil state party, he will have to work within the party and outside the party.. In doing so, he will meet enmity. You will know how appropriate it is.
 
 ◼️
 
 [Data](articles/ad3ad576.json)
 
+[Extended Data](ext_articles/ad3ad576.ext.json)
+
 ---
 
-### வெற்றி - தோல்வியை  தீர்மானித்தது எது?
+### Success - What did the failure determined?
 
 *2024-01-28 18:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175007) · `ta`
 
-மாவை சேனாதிராஜாவை விட ஆற்றல் உள்ளவர் என்ற வகையில் செயற்பட வேண்டும். அதற்காக கிடைக்கின்ற எல்லா சந்தர்ப்பங்களையும் சிறீதரன் பயன்படுத்திக்கொள்வார்.
+Maui should act as a person who has more energy than Senathirajah. Sreedharan will take advantage of all the opportunities available for it.
 
-சிறீதரனை எதிர்ப்பதற்காக சுமந்திரன் தமிழ்த் தேசியத்துக்கு எதிரான நிலைப்பாட்டை இன்னும்  வலுப்படுத்துவாரேயானால், அவர் மீதான எதிர்மறை விம்பம் இன்னும் இன்னும் வலுப்பெறும்.
+If Sumanthiran is still strengthening the anti -Tamil standpoint to oppose Sreedharan, the negative image of him will still be strengthened.
 
 ◼️
 
 [Data](articles/aa7a848a.json)
+
+[Extended Data](ext_articles/aa7a848a.ext.json)
 
 ---
 
@@ -252,15 +266,17 @@ The International Cricket Council (ICC) lifted the ban that was imposed on Sri L
 
 ---
 
-### அழுத்­தங்­க­ளுக்குப் பணி­யாத அரசு
+### State -to -work state
 
 *2024-01-28 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175005) · `ta`
 
-நிகழ்நிலை பாதுகாப்பு சட்டம் கொண்டுவரப்பட்டிருக்கிறது. இதன் பாதிப்பு முழுமையாக எதிர்வுகூறத்தக்க ஒன்று அல்ல. பயங்கரவாத தடைச் சட்டம் கொண்டுவரப்பட்டபோது அதன் பாதிப்பு எந்த அளவுக்கு முட்கணிப்பிட முடியாததாக இருந்ததோ அதேபோன்றுதான் நிகழ்நிலை பாதுகாப்புச் சட்டத்தின் விளைவுகளையும் காலப்போக்கில் தான் முழுமையாக கணிக்க முடியும்.
+Has been introduced by the Ceremony Protection Act. Its impact is not fully anticipated. Just as the impact of the Terrorism Act was introduced, the consequences of the real safety law could only be fully predicted.
 
 ◼️
 
 [Data](articles/9e578186.json)
+
+[Extended Data](ext_articles/9e578186.ext.json)
 
 ---
 
@@ -280,31 +296,35 @@ Rajakdaluwa was taken from the house of the State Minister in the Arachchikattuw
 
 ---
 
-### இஸ்ரேல் - அரே­பிய சர்­வா­தி­கா­ரி­களும் அமெ­ரிக்க - ஐரோப்­பிய ஏகா­தி­பத்­தி­யமும்
+### Israel - Arab dictators and American - European imperialism
 
 *2024-01-28 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175002) · `ta`
 
-அமெ­ரிக்க - ஐரோப்­பிய - இஸ்­ரே­லி­யர்­க­ளினால் காஸாவில் மேற்­கொள்­ளப்­பட்டு வரும் அழிவு தரும் செயற்­பா­டு­களும் பலஸ்­தீனர் மீதான இனப்­ப­டு­கொ­லையும் பொது மக்­க­ளி­டையே கோபக் கொந்­த­ளிப்பை ஏற்­ப­டுத்­தி­யுள்­ளன. அதே­வேளை இது தொடர்பில் அரே­பிய சர்­வா­தி­கா­ரி­களோ பெரிதும் அலட்­சிய மனோ­பா­வத்­து­ட­னேயே உள்­ளனர். இது அரே­பிய கொடுங்கோல் ஆட்­சி­யா­ளர்­களும் இஸ்­ரேலும் ஒரே அமெ­ரிக்க - ஐரோப்­பிய ஏகா­தி­பத்­தி­யத்தின் இரு­ வேறு பக்­கங்கள் என்­ப­தையே காட்டி நிற்­கி­றது.
+The extinct operations in Gaza by the US -European and Israelis and the genocide of Palestine have caused anger among the public.. At the same time, the Arab dictators are very negligent in this regard. It shows that the Arab tyrannical rulers and Israel are the same US -European imperialism.
 
 ◼️
 
 [Data](articles/b0a3bde4.json)
 
+[Extended Data](ext_articles/b0a3bde4.ext.json)
+
 ---
 
-### சீனக் கப்பலும் மாலைதீவும்
+### Chinese ship and the Maldives
 
 *2024-01-28 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175001) · `ta`
 
-சீன ஆய்வு கப்பல் விவகாரத்தில் இந்தியா விழிப்புடன் இருக்கிறது. சீன ஆய்வுக் கப்பல்கள் தொடர்பான சிக்கல் இந்தியாவுக்கு நிரந்தரமாக நீடிக்க போகிறது என்பதற்காக அறிகுறியாகவே இதனை கருத வேண்டும்.
+India is vigilant on Chinese Study Shipping. This should be considered as a sign that the problem of Chinese inspection ships is going to be a permanent for India.
 
-பிராந்தியத்தில் சீனாவின் ஆதிக்கம் வலுப்பெற்று வரும் சூழ்நிலையில் மாலைதீவுடன் ஏற்பட்டுள்ள முரண்பாடுகள் காரணமாக, இலங்கையை கவனமாக கையாள வேண்டிய பொறுப்பு இந்தியாவுக்கு இன்னும் அதிகரித்திருக்கிறது.
+Due to the conflicts with the Maldives in the face of China's domination in the region, India has increased the responsibility of carefully handling Sri Lanka.
 
-இந்தியா தன்னை சுற்றி பகைமைகளை வளர்த்துக் கொள்ள விரும்பவில்லை. அது பிற சக்திகளின் ஆதிக்கத்துக்கு வழிவகுத்துவிடும் என்று உறுதியாக நம்புகிறது.
+India does not want to develop enmity around itself. It is firmly believed that it will lead to the domination of other powers.
 
 ◼️
 
 [Data](articles/8da92073.json)
+
+[Extended Data](ext_articles/8da92073.ext.json)
 
 ---
 

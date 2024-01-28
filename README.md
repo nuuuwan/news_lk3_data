@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 00:47:05**
+As of **2024-01-29 01:02:26**
 
 ## Newspaper Stats
 
-*Scraped **3,142** Articles*
+*Scraped **3,146** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 125
 economynextcom | 174
 islandlk | 174
 newsfirstlk | 184
-dailyftlk | 215
+dailyftlk | 219
 adalk | 288
 adaderanasinhalalk | 324
 virakesarilk | 330
@@ -26,11 +26,75 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,142 (100.0%) of 3,142 articles have been extended.
+3,142 (99.9%) of 3,146 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-01-29 (Monday)
+
+### India rushes to aid SL in rescue of fisherman abducted by Somali pirates
+
+*2024-01-29 00:35:53* · [`dailyftlk`](https://www.ft.lk/news/India-rushes-to-aid-SL-in-rescue-of-fisherman-abducted-by-Somali-pirates/56-757869) · `en`
+
+The Sri Lanka Navy has announced that India has committed to aiding in the rescue of six Sri Lankan fishermen abducted by Somali pirates.
+
+Speaking to the media, Sri Lanka Navy Spokesman Captain Gayan Wickramasuriya said the Indian Navy had already sent a warship to investigate, while the Sri Lanka Navy was also preparing a vessel to travel to the area.
+
+The multiday fishing trawler identified as Lorenzo Putha-4, had departed from Dikowita port in Chilaw on 12 January and was hijacked in international waters north of Seychelles some 840 nautical miles southeast of the Somali capital Mogadishu, with six Sri Lankan fishermen believed to be on board.
+
+...
+
+[Data](articles/f50e211e.json)
+
+---
+
+### Govt. approves stringent penalties for offences
+
+*2024-01-29 00:35:12* · [`dailyftlk`](https://www.ft.lk/news/Govt-approves-stringent-penalties-for-offences/56-757868) · `en`
+
+The Government has decided to increase fines and prison terms associated with 68 offences outlined in the Penal Code. The decision involves a substantial increase from the earlier Rs. 100 fine for certain offences to an amount exceeding Rs. 1,000.
+
+The Cabinet of Ministers gave its nod to a draft amendment presented by Justice Minister Wijeyadasa Rajapakshe, paving the way for revised penalties. However, the amended fines and prison terms will not apply to offences committed before the regulations take effect.
+
+...
+
+[Data](articles/a59080dd.json)
+
+---
+
+### Special commission for Galle development
+
+*2024-01-29 00:18:16* · [`dailyftlk`](https://www.ft.lk/news/Special-commission-for-Galle-development/56-757867) · `en`
+
+President attends Galle Literary Festival; directs acceleration of Galle City Development Plan under unified organisational structure
+
+President Ranil Wickremesinghe has decided to establish a special commission to expedite the development of Galle.
+
+During an inspectional tour on Saturday, the President visited Galle city and the Galle Fort area, inspecting ongoing development activities.
+
+He expressed concern about the slow progress in relocating Government institutions and offices from Galle Fort and emphasised the need to accelerate development efforts.
+
+President Wickremesinghe highlighted the importance of integrating the Urban Development Authority (UDA), the Department of Archaeology and other institutions under a unified organisational structure for the Galle City Plan.
+
+...
+
+[Data](articles/410e9427.json)
+
+---
+
 ### 2024-01-28 (Sunday)
+
+### Parate rights of banks and supporting SME recovery
+
+*2024-01-28 23:46:06* · [`dailyftlk`](https://www.ft.lk/columns/Parate-rights-of-banks-and-supporting-SME-recovery/4-757859) · `en`
+
+SME associations want parate rights to be deferred for 12 months to give breathing space to the tourism sector and SMEs, largely they claim due to the unreasonable lending interest rates of 2022 and the pandemic. Whilst the bankers say they need to hold the whip of “Parate Rights,” SMEs say banks shouldn’t be allowed to crack it irresponsibly. What has happened in the recent past they say is irresponsible cracking of the whip.
+
+...
+
+[Data](articles/f9a9805c.json)
+
+---
 
 ### Three US soldiers killed, 25 injured in drone attack in Jordan
 
@@ -1891,87 +1955,5 @@ Accordingly, the fine, previously set at Rs. 500, has now been escalated to Rs 1
 [Data](articles/0310b77f.json)
 
 [Extended Data](ext_articles/0310b77f.ext.json)
-
----
-
-### Sri Lankan fishing boats seized in Maldives
-
-*2024-01-28 12:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/sri-lankan-fishing-boats-seized-in-maldives/) · `en`
-
-Two Sri Lankan fishing boats have been detained by the Maldives National Defence Force (MNDF) Coast Guard for allegedly fishing illegally within the Maldives' Exclusive Economic Zone (EEZ).
-
-The two fishing boats were seized by the MNDF's Northern Area Command Coast Guard First Squadron following a report received by the MNDF Coast Guard on January 25. One boat had seven crew members while the other had six crew members.
-
-According to MNDF, the two vessels are currently under the custody of the Coast Guard First Squadron's Coast Guard Ship Nooraddeen, docked at Haa Alif Filladhoo harbour. The two fishing boats will be brought to Male' City and handed over to the police.
-
-Illegal fishing by Indian and Sri Lankan fishing vessels is common in Maldivian waters.
-
-Three US soldiers killed, 25 injured in drone attack in Jordan
-
-Italian Jannik Sinner beats Daniil Medvedev in the Australian Open final to win his first Grand Slam title
-
-110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
-
-◼️
-
-[Data](articles/babff3c5.json)
-
-[Extended Data](ext_articles/babff3c5.ext.json)
-
----
-
-### The new southbroof chief
-
-*2024-01-28 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/174971) · `ta`
-
-Western foreign policy makers are viewed as an advantage of changing politics. At the G20 summit in New Delhi last year, an issue was brought about as a bridge for the South Publisher. This issue has arisen as to how the Chinese -American competition can be incorporated into the politics of the global powers.
-
-◼️
-
-[Data](articles/47dbebed.json)
-
-[Extended Data](ext_articles/47dbebed.ext.json)
-
----
-
-### Issuing TIN not disrupted, necessary facilities will be provided to IRD: Minister
-
-*2024-01-28 11:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Issuing-TIN-not-disrupted-necessary-facilities-will-be-provided-to-IRD-Minister/108-275830) · `en`
-
-Ruwanwella, Jan 28 (Daily Mirror) - The issuing of the Taxpayer Identification Number (TIN) has not been interrupted or stopped, but necessary steps are being taken to prevent the obstacles and provide necessary facilities to the Inland Revenue Department (IRD), Finance State Minister Ranjith Siambalapitiya said.
-
-He made this comment while speaking to the media after a programme in the Ruwanwella area this morning, in response to questions regarding reports that the issuing of the TIN had been disrupted.
-
-The Minister said the government expects to reduce the amount of indirect taxes as much as possible and increase the amount of direct taxes.
-
-According to the number of citizens in the country, the number of existing tax files is insufficient, and steps were taken to open new tax files for 14 social groups that were identified as earning various incomes last year, the Minister said.
-
-...
-
-[Data](articles/5887b540.json)
-
-[Extended Data](ext_articles/5887b540.ext.json)
-
----
-
-### Wife is free if you buy a house
-
-*2024-01-28 11:51:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வீடு-வாங்கினால்-மனைவி-இலவசம்/50-332203) · `ta`
-
-Companies handle different strategies to sell goods in today's modern world. The advertisement plays an important role. This means that companies are trying to attract people with exotic ads.
-
-The real estate sector has suffered a major decline in China. Thus many companies are publishing bizarre ads.
-
-A real estate company in Tiaigin, China, has also advertised differently to sell its homes. But it not only caught the attention of the people but also the government's attention.
-
-That is, the real estate company has advertised through social networks and posters that the wife is free if you buy a house. Shocked social activists complained to the government that the real estate company should take stern action. Subsequently, the government has ordered a fine of about Rs 3 lakh to the real estate.
-
-In a statement issued by the company, it was stated that their advertisement to buy homes and give it to your wife.
-
-◼️
-
-[Data](articles/8cfe7f9e.json)
-
-[Extended Data](ext_articles/8cfe7f9e.ext.json)
 
 ---

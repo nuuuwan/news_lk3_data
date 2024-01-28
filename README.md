@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 15:50:34**
+As of **2024-01-28 16:02:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 418
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,059 (99.8%) of 3,065 articles have been extended.
+3,065 (100.0%) of 3,065 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,23 +50,27 @@ The pirates had allowed the Sri Lankan fishermen captured to communicate with th
 
 [Data](articles/ab899d94.json)
 
+[Extended Data](ext_articles/ab899d94.ext.json)
+
 ---
 
-### பிரமிட்டில் ரூ.500 கோடி  மோசடி செய்தவருக்கு விளக்கமறியல்
+### Explanation for Rs 500 crore in pyramid
 
 *2024-01-28 15:07:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமிட்டில்-ரூ-500-கோடி-மோசடி-செய்தவருக்கு-விளக்கமறியல்/175-332228) · `ta`
 
-‘டிரேட்வின்’ எனும் பெயரில் பிரமிட் முறைமையின் ஊடாக வர்த்தக நடவடிக்கையை முன்னெடுத்து, அதில் பணத்தை வைப்பிலிடும் வைப்பாளர்களின் பணத்தில் 500 கோடி ரூபாவை மோசடி செய்தார என்றக் குற்றஞ்சாட்டில் குற்றப் புலனாய்வுத் திணைக்களத்தின் சட்டவிரோத சொத்துக்கள் தொடர்பான விசாரணைப் பிரிவின் வலையமைப்பு விசாரணைப் பிரிவினரால் ஒருவர்  கைது செய்யப்பட்டுள்ளார்.
+One person has been arrested by the network inquiry unit of the Criminal Investigation Department (CID) for allegedly defrauding Rs 500 crore in the money of deposits by the pyramid system in the name of Tradewin.
 
-கடந்த மூன்று வருடங்களாக தலைமறைவாக வாழ்ந்து வந்தவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார். பிலிமத்தலாவை பிரதேசத்தில் மறைந்திருந்த போதே இவர் கைது செய்யப்பட்டார் என்று அந்த வலையமைப்பின் விசாரணைப் பிரிவு அறிவித்துள்ளது.
+The man who has been in hiding for the past three years has been arrested. The network's inquiry unit has announced that he was arrested while he was hiding in the Pilimathalawa area.
 
-சந்தேகநபர் பட்டத்தாரி ஆசிரியராக இருந்துள்ளார். அத்துடன் தென் மாகாணத்தில் உள்ள பிரதான விஹாரை ஒன்றில் பஸ்நாயக்க நிலமேயாகவும் பணியாற்றியுள்ளார் என்பதும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+The suspect has been a graduate teacher. Investigations have also been found that Basnayaka has worked as a major Vihar in the Southern Province.
 
-கைது செய்யப்பட்ட தரிந்து ஈரோஸ் வீரசேகர கஹடகஸ்திகிலிய நீதவான் முன்னிலையில் ஞாயிற்றுக்கிழமை (28) ஆஜர்படுத்தப்பட்டார். அவரை   எதிர்வரும் 05 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கஹடகஸ்திகிலிய பதில் நீதவான்   திமுத்து உத்தரவிட்டுள்ளார்.
+The arrested Eros was produced before the Kahadagastikiliya Magistrate on Sunday (28). The Magistrate Timuthu has ordered Kahadagastikiliya to be kept in detention until the 05th of this month.
 
 ◼️
 
 [Data](articles/13eb2627.json)
+
+[Extended Data](ext_articles/13eb2627.ext.json)
 
 ---
 
@@ -108,6 +112,8 @@ Based on this situation, the JCT and the Eastern Container Terminal (ECT) have b
 
 [Data](articles/79d0ad11.json)
 
+[Extended Data](ext_articles/79d0ad11.ext.json)
+
 ---
 
 ### Special traffic plan in Galle Road from Tuesday due to Independence Day rehearsals
@@ -125,6 +131,8 @@ The closure of the above stretches of road is effective from 6 a.m. to 8.30 a.m.
 ◼️
 
 [Data](articles/3e5ffd8b.json)
+
+[Extended Data](ext_articles/3e5ffd8b.ext.json)
 
 ---
 
@@ -185,6 +193,8 @@ Also, the mobile phone of the State Minister's driver has also been taken into p
 ◼️
 
 [Data](articles/faf6c2ef.json)
+
+[Extended Data](ext_articles/faf6c2ef.ext.json)
 
 ---
 
@@ -303,6 +313,8 @@ Preparations for the 76th Independence Day celebration on February 4 are underwa
 ◼️
 
 [Data](articles/9c6dcfb7.json)
+
+[Extended Data](ext_articles/9c6dcfb7.ext.json)
 
 ---
 

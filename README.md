@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 08:32:43**
+As of **2024-01-28 08:49:38**
 
 ## Newspaper Stats
 
@@ -26,33 +26,41 @@ dailymirrorlk | 406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,981 (99.7%) of 2,989 articles have been extended.
+2,988 (100.0%) of 2,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### පොලිස් කාන්තාවක් ජීවිතක්ෂයට
+### Woman killed
 
 *2024-01-28 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192645) · `si`
 
-ප්‍රදේශ කිහිපයක සිදු වූ රිය අනතුරු තුනකින් පොලිස් කාන්තාවක්, තරුණයෙක් සහ තවත් කාන්තාවක් ජීවිතක්ෂයට පත් ව තිබේ.
+A policewoman, a young man and another woman has died in three areas of the area.
 
-මීරිගම - පස්යාල මාර්ගයේ දුමුන්නේගෙදර ප්‍රදේශයේ දී සිදු වූ යතුරපැදි අනතුරකින් පොලිස් නිලධාරිනියක් ජීවිතක්ෂයට පත් ව තිබේ.
+A police officer was killed in a motorcycle accident in the Mirigama road on the Mirigama road.
 
-මීරිගම දෙස සිට පස්යාල දෙසට ධාවනය වූ යතුරුපැදියක් එම දිශාවටම, ඊට ඉදිරියෙන් ධාවනය වූ තවත් යතුරුපැදියකට ඉස්සර කිරීමට යාමේ දී ප්‍රතිවිරුද්ධ දෙසින් පැමිණි කන්ටේනර් රථයකට ඉඩ ලබා දී නැවත වම් පැත්තට ගැනීමේ දී ඉදිරියෙන් ගිය යතුරුපැදියේ ගැටී ඇත.
+A motorbike running towards the Mirigama to the pasyala, which is in front of it, has collided with a container to the left and returned to the left.
 
-පසු ව යතුරුපැදිය මාර්ගයේ වැටී ඇති අතර, යතුරුපැදියේ ගමන් කළ පසුපැදිකාරිය ඉදිරියෙන් පැමණි කන්ටේනර් රථයට යට වී ඇත.
+The motorcycle has fallen on the motorcycle, and the background has been submerged from the front of the motorcycle.
 
-අනතුරින් බරපතළ තුවාල ලැබූ පසුපැදිකාරිය වතුපිටිවල රෝහලට ඇතුළත් කිරීමේ දී මිය ගොස් තිබේ.
+The victim was to be admitted to the Wathupitiwala Hospital for serious injuries.
 
-අනතුරින් මිය ගොස් ඇත්තේ, අඹේපුස්ස ප්‍රදේශයේ පදිංචි වරකාපොළ පොලිස් ස්ථානයට අනුයුක්ත 52 හැවිරිදි පොලිස් නිලධාරිනියකි.
+The deceased has been identified as 52-year-old police officer attached to the Warakapola Police Station from the Ambepussa area.
 
-මේ අතර, පුලස්තිපුර - තඹාල - ලංකාපුර අතුරු මාර්ගයේ තඹාල ප්‍රදේශයේ දී සිදු වූ රිය අනතුරකින් තරුණයෙක් ජීවිතක්ෂයට පත් ව තිබේ.
+Meanwhile, a youth has killed in an accident in the Thambala area on Palappipura-Puluwitura-Puluwithara and Lankapura.
+
+The accident has occurred when a motorcycle was on the direction in the direction.
+
+The victim was a 17 year old resident of the Algelilappura.
+
+Meanwhile, two motorbikes clash near the Mount Mary Junction of Borella - Baseline Road.
 
 ...
 
 [Data](articles/70dd6578.json)
+
+[Extended Data](ext_articles/70dd6578.ext.json)
 
 ---
 
@@ -1068,6 +1076,8 @@ During one of my visits, I was intrigued by a title of a book named “Thing of 
 
 [Data](articles/81ffdf5b.json)
 
+[Extended Data](ext_articles/81ffdf5b.ext.json)
+
 ---
 
 ### 74 year old woman dies
@@ -1099,6 +1109,8 @@ Based on stylistic details, the researchers think it was made in Alexandria arou
 ...
 
 [Data](articles/9449663d.json)
+
+[Extended Data](ext_articles/9449663d.ext.json)
 
 ---
 
@@ -1275,6 +1287,8 @@ Charles Sennett committed suicide a week after the killing, when he learnt he wa
 ...
 
 [Data](articles/a30fe6df.json)
+
+[Extended Data](ext_articles/a30fe6df.ext.json)
 
 ---
 

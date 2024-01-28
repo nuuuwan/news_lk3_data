@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 15:17:27**
+As of **2024-01-28 15:32:39**
 
 ## Newspaper Stats
 
-*Scraped **3,057** Articles*
+*Scraped **3,059** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,37 @@ dailyftlk | 215
 adalk | 278
 adaderanasinhalalk | 306
 virakesarilk | 317
-tamilmirrorlk | 386
-adaderanalk | 394
+tamilmirrorlk | 387
+adaderanalk | 395
 dailymirrorlk | 414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,057 (100.0%) of 3,057 articles have been extended.
+3,057 (99.9%) of 3,059 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### Drug traffickers behind recent incidents at Kandakadu rehab centre?
+
+*2024-01-28 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96793/drug-traffickers-behind-recent-incidents-at-kandakadu-rehab-centre) · `en`
+
+Rehabilitation Commissioner General Major General (Retd.) Darshana Hettiarachchi, has revealed that stricter and immediate measures are underway to curtail the frequent conflicts being reported from within the Kandakadu Treatment and Rehabilitation Centre.
+
+Hettiarachchi further explained that the admission of drug traffickers into the rehabilitation centre, resulting in drug peddling rackets within the Kandakadu Camp, has been identified as the main cause behind these frequent conflicts.
+
+He assured, however, that while the situation has been contained for now, a long-term solution is required for the issue.
+
+For this month alone, two incidents of such conflicts were reported from the Kandakadu Rehabilitation Centre, with a total of over 100 inmates having escaped from the facility.
+
+◼️
+
+[Data](articles/950a4294.json)
+
+---
 
 ### US sees signs of progress on deal to release hostages, bring temporary pause to Israel-Hamas war
 
@@ -1764,6 +1782,26 @@ As a result, vehicles traveling to Colombo have been announced to re -enter the 
 
 ---
 
+### கடற்கொள்ளையர்களால் இலங்கையின் மீன்பிடி படகு கடத்தல்
+
+*2024-01-28 00:32:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்கொள்ளையர்களால்-இலங்கையின்-மீன்பிடி-படகு-கடத்தல்/175-332193) · `ta`
+
+சோமாலிய கடற்கொள்ளையர்களால் இலங்கையின் நெடுநாள் மீன்பிடி படகொன்று கடத்தப்பட்டுள்ளதாக கடற்றொழில் திணைக்களம் தெரிவித்துள்ளது.
+
+அரபிக்கடலில் வைத்து  குறித்த படகு மீனவர்களுடன் கடத்தப்பட்டுள்ளதாக கடற்றொழில் திணைக்களத்தின் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார் என ஊடகம் ஒன்று செய்தி வெளியிட்டுள்ளது.
+
+கடந்த 12ஆம் திகதி சிலாபம், திக்கோவிட்ட மீன்பிடி துறைமுகத்திலிருந்து புறப்பட்ட நெடுநாள் மீன்பிடி படகில் இருந்த 06 மீனவர்களையும் சோமாலிய கடற்கொள்ளையர்கள் கடத்திச் சென்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+
+இலங்கை கடற்பரப்பில் இருந்து சுமார் 1160 கடல் மைல் தொலைவில் உள்ள கடல் பகுதியில் இந்த கடத்தல் இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+கடத்தப்பட்ட மீனவர்களை மீட்பதற்கு தேவையான நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் அந்த செய்தியில் தெரிவிக்கப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/6f3f698f.json)
+
+---
+
 ### Sri Lanka Insurance emerged winners at the ‘Great HR Quiz 2023’
 
 *2024-01-28 00:20:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-emerged-winners-at-the-great-hr-quiz-2023/) · `en`
@@ -2031,47 +2069,5 @@ He is a 30 year old and arrested in the Ratgama area in Galle.
 [Data](articles/cfad27c5.json)
 
 [Extended Data](ext_articles/cfad27c5.ext.json)
-
----
-
-### Fourth suspect arrested over Beliatta mass shooting
-
-*2024-01-27 21:23:00* · [`adaderanalk`](https://www.adaderana.lk/news/96778/fourth-suspect-arrested-over-beliatta-mass-shooting-) · `en`
-
-A 30-year-old was arrested on Friday (Jan.27) on suspicion of taking possession of the firearms after they were used in the mass shooting in Beliatta.
-
-According to the police, the arrest was made in the area of Rathgama, Galle.
-
-On Jan.23, a group of persons who had arrived in an SUV had opened fire at a white Defender near the Beliatta Interchange of the Southern Expressway.
-
-In the shooting, which took place between 8:30 a.m. and 8:40 a.m., four persons were killed at the scene. The other person who was inside the Defender was rushed to the Tangalle Hospital with critical gunshot wounds, however, he succumbed to injuries shortly after.
-
-Among the deceased was the leader of “Ape Jana Bala Pakshaya” (Our Power of People Party or OPPP) Saman Perera. The other four victims were identified as Sameera Madhusanka, Hasitha Chinsuka, Buddhika Rajapaksha, and Nalin Champika.
-
-Thus far, three suspects have been arrested in connection with the incident.
-
-...
-
-[Data](articles/f706c1a6.json)
-
-[Extended Data](ext_articles/f706c1a6.ext.json)
-
----
-
-### Sri Lankan fishing trawler reportedly hijacked by Somali pirates
-
-*2024-01-27 21:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-fishing-trawler-reportedly-hijacked-by-Somali-pirates/108-275821) · `en`
-
-Dikkowita, Jan 27 (Daily Mirror) - Somali pirates have reportedly hijacked a Sri Lankan multi-day fishing trawler with six fishermen aboard in the Arabian Sea.
-
-The trawler 'Lorenzo Putha 04' reportedly departed from the Dikkowita Fisheries Harbour on January 12.
-
-The abduction had occurred approximately 1,160 nautical miles away from the Sri Lankan coast.
-
-◼️
-
-[Data](articles/8fc51171.json)
-
-[Extended Data](ext_articles/8fc51171.ext.json)
 
 ---

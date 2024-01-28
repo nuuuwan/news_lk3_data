@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 20:48:43**
+As of **2024-01-28 21:02:16**
 
 ## Newspaper Stats
 
-*Scraped **3,117** Articles*
+*Scraped **3,127** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,79 @@ islandlk | 174
 newsfirstlk | 183
 dailyftlk | 215
 adalk | 285
-adaderanasinhalalk | 317
-virakesarilk | 323
+adaderanasinhalalk | 319
+virakesarilk | 330
 tamilmirrorlk | 394
 adaderanalk | 405
-dailymirrorlk | 429
+dailymirrorlk | 430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,115 (99.9%) of 3,117 articles have been extended.
+3,117 (99.7%) of 3,127 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### කොදෙව් සුපිරි ක්‍රිකට් තරුව හැඬවූ සුපිරි ජය
+
+*2024-01-28 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192670) · `si`
+
+ඔස්ට්‍රේලියාවට එරෙහිව කොදෙව් පිල ජයග්‍රහණය සනිටුහන් කළ අවස්ථාවේදී ක්‍රිකට් විස්තර විචාරයේ යෙදුණු හිටපු කොදෙව් සුපිරි පිතිකරු බ්‍රයන් ලාරාගේ නෙත් කඳුලින් තෙත්විය.
+
+වසර 27කට පසු ඔස්ට්‍රේලියාවට එරෙහිව ඔස්ට්‍රේලියාවේදී ටෙස්ට් තරග ජයක් වාර්තා කිරීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම අද (28) සමත්වුණි.
+
+ඒ බ්‍රිස්බේන් හිදි පැවැති දෙවන ටෙස්ට් තරගයෙන් ලකුණු 8ක තියුණු ජයක් වාර්තා කරමින්ය.
+
+◼️
+
+[Data](articles/329c6a78.json)
+
+---
+
+### ගාලු ගිය ජනපති ගත් තීරණය
+
+*2024-01-28 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192669) · `si`
+
+එක් ආයතන ව්‍යුහයක් යටතේ ගාල්ල නගර සංවර්ධන සැලැස්ම කඩිනම් කරන්නැයි ජනාධිපති රනිල් වික්‍රමසිංහ මහතා බලධාරීන්ට උපදෙස් ලබාදී තිබේ.
+
+ඒ, ගාල්ල කොටුව සංවර්ධන කටයුතු පිළිබඳව සොයාබැලීමේ නිරීක්ෂණ චාරිකාවකට ඊයේ (27) එක්වෙමිනි.
+
+එමෙන්ම ගාල්ල සංවර්ධන කටයුතු කඩිනම් කිරීම සඳහා විශේෂ කොමිසමක් පත් කිරීමට ද ජනාධිපතිවරයා එහිදී තීරණය කළ බව ජනාධිපති මාධ්‍ය අංශය නිවේදනය කළේය.
+
+මේ අතර 2024 ගාලු සාහිත්‍ය උළෙල නැරඹීමට ද ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඊයේ එක්වුණි.
+
+ලොව පුරා කීර්තිමත් කතුවරුන්, සාහිත්‍යකරුවන්, මාධ්‍යවේදීන් සහ ප්‍රකාශකයන් එක්වන මෙරට පැවැත්වෙන ප්‍රධානම ජාත්‍යන්තර සාහිත්‍ය උළෙල වන ගාලු සාහිත්‍ය උළෙල මෙවර පැවැත්වෙන්නේ වසර කිහිපයකට පසුව වීම විශේෂත්වයකි.
+
+ජනවාරි 25 වනදා ආරම්භ වූ ගාලු සාහිත්‍ය උළෙල අදින් අවසන් වෙයි.
+
+◼️
+
+[Data](articles/c4be7548.json)
+
+---
+
+### Politicians, media heads liable to submit asset declarations
+
+*2024-01-28 20:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Politicians-media-heads-liable-to-submit-asset-declarations/108-275845) · `en`
+
+Colombo, Jan 28 (Daily Mirror) -The Bribery or Corruption Allegation Investigation Commission has issued a stern directive, setting a deadline for the submission of asset declarations from various high-profile figures, including the President, the Prime Minister, public servants, and media heads.
+
+This move comes in accordance with the recently enacted Bribery or Corruption Allegations Act.
+
+Under the provisions of the new legislation, approximately 150,000 individuals, comprising politicians, public servants, and media leaders, are mandated to submit detailed asset and liability statements to the Bribery or Corruption Allegations Commission on an annual basis.
+
+The scope of the directive extends to individuals across thirty-one different sectors.
+
+The deadline for compliance with this mandatory disclosure is fixed at March 31st of each year, adding a sense of urgency to the process.
+
+◼️
+
+[Data](articles/1c88b244.json)
+
+---
 
 ### President to appoint special commission to expedite development of Galle
 
@@ -49,6 +107,8 @@ He also stressed the swift implementation of plans to promote tourism in the are
 ...
 
 [Data](articles/74617bbd.json)
+
+[Extended Data](ext_articles/74617bbd.ext.json)
 
 ---
 
@@ -69,6 +129,8 @@ Police further reported that the couple had been living a luxurious life by buyi
 ◼️
 
 [Data](articles/7412f51e.json)
+
+[Extended Data](ext_articles/7412f51e.ext.json)
 
 ---
 
@@ -102,6 +164,38 @@ The remains of State Minister of Water Supply, Sanath Nishantha, who died in a c
 
 ---
 
+### புதிய கூட்டணியில் இணைவதற்கு 28 கட்சிகள், 60 பாராளுமன்ற உறுப்பினர்கள் எம்முடன் பேச்சுவார்த்தை - நிமல் லான்சா
+
+*2024-01-28 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175015) · `ta`
+
+புதிய கூட்டணியில் இணைவதற்காக 28க்கும் மேற்பட்ட கட்சிகளும், 60க்கும் மேற்பட்ட பாராளுமன்ற உறுப்பினர்களும் எம்முடன் பேச்சுவார்த்தை நடத்தி வருகின்றனர். ஜனநாயக ரீதியான அதிகாரத்தை, ஒரு தலைவரிடம் அன்றி ஒரு தலைமைத்துவ சபைக்கு வழங்கும் வேலைத்திட்டத்தை எமது கூட்டணி முன்னெடுக்கும் என, புதிய கூட்டணியின் ஸ்தாபகரான பாராளுமன்ற உறுப்பினர் நிமல் லான்சா தெரிவித்தார்.
+
+புதிய கூட்டணியை கட்டியெழுப்பும் நோக்கில் சனிக்கிழமை (27) ஜா-எல நகரில் நடைபெற்ற முதலாவது மக்கள் சந்திப்பில் கலந்துகொண்டு உரையாற்றும்போதே நிமல் லான்சா மேற்கண்டவாறு தெரிவித்தார். அங்கு தொடர்ந்தும் உரையாற்றிய அவர்,
+
+பெருமளவிலான எம்.பி.க்களையும், கட்சிகளையும் இணைத்து எதிர்காலத்தில் மிகப் பெரிய கூட்டணி உருவாக்கப்படும். வரலாற்றில் முதன்முறையாக கட்சி சின்னமோ, கட்சியோ இல்லாமல் ஒரு நிகழ்ச்சியை வெற்றி பெற செய்வதற்காக ஏராளமானோர் திரண்டுள்ளனர். தலைவரோ, தலைமைக் குழுவோ இல்லாமல் எமது அழைப்பை ஏற்று வந்துள்ள மக்களுக்கு எமது நன்றியை தெரிவித்துக் கொள்கிறோம்.
+
+...
+
+[Data](articles/95630fef.json)
+
+---
+
+### யுக்திய : உதவாத உத்தி
+
+*2024-01-28 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175009) · `ta`
+
+கைப்பற்றப்பட்ட போதைப்பொருளுக்குப் பதிலாக வேறு பொருள்கள் மாற்றப்பட்டிருக்கிறது என்றால், அது அரசாங்க மற்றும் அதிகார மட்டத்தில் உள்ளவர்­களின் துணையுடன்தான் இடம்பெற்றிருக்க வேண்­டும்.
+
+போதைப்பொருள் கடத்தலையும், பாதாள உலக  குற்­றங்களையும் ஒழிப்பது, அதிகார மட்டத்தில் நிலவு­கின்ற மோசடிகள், ஊழல்கள் ஒழிக்கப்பட்டால் தான் நடைமுறைச் சாத்தியமாகும்.
+
+மாறாக சிறு சிறு குற்றவாளிகளை பிடித்து சிறைச்­சாலைகளை நிரப்புவதன் மூலம் நாட்டை தூய்மைப்­படுத்திவிட முடியாது.
+
+◼️
+
+[Data](articles/65af9185.json)
+
+---
+
 ### Destabilization
 
 *2024-01-28 19:01:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-விதிக்கப்பட்ட-தடை-நீக்கம்/175-332235) · `ta`
@@ -113,6 +207,34 @@ Sports Minister Hareen Fernando has said that the International Cricket Council 
 [Data](articles/9b4fd6ce.json)
 
 [Extended Data](ext_articles/9b4fd6ce.ext.json)
+
+---
+
+### சிறீ­த­ரனின் முள்­கி­ரீடம்
+
+*2024-01-28 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175008) · `ta`
+
+சிறீதரனின் வெற்றியை கொண்டாடுகின்றவர்களுக்கும் சரி, அதனை வரவேற்றிருக்கின்றவர்களுக்கும் சரி, சிறீதரனுக்கு கிடைத்திருக்கின்ற இந்த கிரீடம் ஒரு முள்கிரீடம் என்பது தெரியாமல் இருந்திருக்காது.
+
+ஏனென்றால் தமிழ் அரசுக் கட்சியின் தலைவரான பின்னர், அவர் கட்சிக்குள்ளேயும் வெளியேயும் அதிகளவு துணிச்சலுடனும் பொறுப்புடனும் தீர்க்கமாகவும் பணியாற்ற வேண்டியிருக்கும். அவ்வாறு செயற்படும்போது அவர் பகைமைகளை சந்திக்கும் நிலை வரும். எந்தளவு பொருத்தமானவர் என்பது தெரியவரும்.
+
+◼️
+
+[Data](articles/ad3ad576.json)
+
+---
+
+### வெற்றி - தோல்வியை  தீர்மானித்தது எது?
+
+*2024-01-28 18:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175007) · `ta`
+
+மாவை சேனாதிராஜாவை விட ஆற்றல் உள்ளவர் என்ற வகையில் செயற்பட வேண்டும். அதற்காக கிடைக்கின்ற எல்லா சந்தர்ப்பங்களையும் சிறீதரன் பயன்படுத்திக்கொள்வார்.
+
+சிறீதரனை எதிர்ப்பதற்காக சுமந்திரன் தமிழ்த் தேசியத்துக்கு எதிரான நிலைப்பாட்டை இன்னும்  வலுப்படுத்துவாரேயானால், அவர் மீதான எதிர்மறை விம்பம் இன்னும் இன்னும் வலுப்பெறும்.
+
+◼️
+
+[Data](articles/aa7a848a.json)
 
 ---
 
@@ -130,6 +252,18 @@ The International Cricket Council (ICC) lifted the ban that was imposed on Sri L
 
 ---
 
+### அழுத்­தங்­க­ளுக்குப் பணி­யாத அரசு
+
+*2024-01-28 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175005) · `ta`
+
+நிகழ்நிலை பாதுகாப்பு சட்டம் கொண்டுவரப்பட்டிருக்கிறது. இதன் பாதிப்பு முழுமையாக எதிர்வுகூறத்தக்க ஒன்று அல்ல. பயங்கரவாத தடைச் சட்டம் கொண்டுவரப்பட்டபோது அதன் பாதிப்பு எந்த அளவுக்கு முட்கணிப்பிட முடியாததாக இருந்ததோ அதேபோன்றுதான் நிகழ்நிலை பாதுகாப்புச் சட்டத்தின் விளைவுகளையும் காலப்போக்கில் தான் முழுமையாக கணிக்க முடியும்.
+
+◼️
+
+[Data](articles/9e578186.json)
+
+---
+
 ### Sanath Nishantha passes through the people
 
 *2024-01-28 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192668) · `si`
@@ -143,6 +277,34 @@ Rajakdaluwa was taken from the house of the State Minister in the Arachchikattuw
 [Data](articles/7d6bbe9d.json)
 
 [Extended Data](ext_articles/7d6bbe9d.ext.json)
+
+---
+
+### இஸ்ரேல் - அரே­பிய சர்­வா­தி­கா­ரி­களும் அமெ­ரிக்க - ஐரோப்­பிய ஏகா­தி­பத்­தி­யமும்
+
+*2024-01-28 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175002) · `ta`
+
+அமெ­ரிக்க - ஐரோப்­பிய - இஸ்­ரே­லி­யர்­க­ளினால் காஸாவில் மேற்­கொள்­ளப்­பட்டு வரும் அழிவு தரும் செயற்­பா­டு­களும் பலஸ்­தீனர் மீதான இனப்­ப­டு­கொ­லையும் பொது மக்­க­ளி­டையே கோபக் கொந்­த­ளிப்பை ஏற்­ப­டுத்­தி­யுள்­ளன. அதே­வேளை இது தொடர்பில் அரே­பிய சர்­வா­தி­கா­ரி­களோ பெரிதும் அலட்­சிய மனோ­பா­வத்­து­ட­னேயே உள்­ளனர். இது அரே­பிய கொடுங்கோல் ஆட்­சி­யா­ளர்­களும் இஸ்­ரேலும் ஒரே அமெ­ரிக்க - ஐரோப்­பிய ஏகா­தி­பத்­தி­யத்தின் இரு­ வேறு பக்­கங்கள் என்­ப­தையே காட்டி நிற்­கி­றது.
+
+◼️
+
+[Data](articles/b0a3bde4.json)
+
+---
+
+### சீனக் கப்பலும் மாலைதீவும்
+
+*2024-01-28 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175001) · `ta`
+
+சீன ஆய்வு கப்பல் விவகாரத்தில் இந்தியா விழிப்புடன் இருக்கிறது. சீன ஆய்வுக் கப்பல்கள் தொடர்பான சிக்கல் இந்தியாவுக்கு நிரந்தரமாக நீடிக்க போகிறது என்பதற்காக அறிகுறியாகவே இதனை கருத வேண்டும்.
+
+பிராந்தியத்தில் சீனாவின் ஆதிக்கம் வலுப்பெற்று வரும் சூழ்நிலையில் மாலைதீவுடன் ஏற்பட்டுள்ள முரண்பாடுகள் காரணமாக, இலங்கையை கவனமாக கையாள வேண்டிய பொறுப்பு இந்தியாவுக்கு இன்னும் அதிகரித்திருக்கிறது.
+
+இந்தியா தன்னை சுற்றி பகைமைகளை வளர்த்துக் கொள்ள விரும்பவில்லை. அது பிற சக்திகளின் ஆதிக்கத்துக்கு வழிவகுத்துவிடும் என்று உறுதியாக நம்புகிறது.
+
+◼️
+
+[Data](articles/8da92073.json)
 
 ---
 
@@ -1787,225 +1949,5 @@ By 2022, the number of railway tracks increased to 133;The department said that 
 [Data](articles/d223b48a.json)
 
 [Extended Data](ext_articles/d223b48a.ext.json)
-
----
-
-### Sri Lanka seeks assistance from Combined Maritime Forces to release fishermen hijacked by Somali pirates
-
-*2024-01-28 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96788/sri-lanka-seeks-assistance-from-combined-maritime-forces-to-release-fishermen-hijacked-by-somali-pirates-) · `en`
-
-Sri Lanka has sought assistance from the Combined Maritime Forces (CMF), the world’s largest maritime security partnership, to obtain the release of the Sri Lankan fishing trawler that was hijacked by Somali pirates along with its crew.
-
-Accordingly, the spokesman of the Sri Lanka Navy stated that assistance was sought from the Bahrain-based Combined Maritime Forces, engaged in counter-terrorism efforts, to retrieve the boat and the fishermen.
-
-On Saturday (27 Jan.) it was reported that the ‘Lorenzo Putha 4’ multi-day fishing trawler had been seized by Somali pirates, along with six crew members aboard.
-
-CMF is a multinational maritime partnership led by the U.S. from Bahrain, the base for the U.S. Navy Fifth Fleet. CMF has 39 members, including NATO and European states, regional countries and other nations.
-
-◼️
-
-[Data](articles/9913a547.json)
-
-[Extended Data](ext_articles/9913a547.ext.json)
-
----
-
-### Deposits sent to trial
-
-*2024-01-28 10:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிந்து-கொண்டிருந்த-சடலம்-விசாரணைக்கு-அனுப்பி-வைப்பு/175-332200) · `ta`
-
-A crematorium was taken out and sent to the Vatupittiwala Hospital for autopsy.
-
-RD Sirisoma Ranasinghe, 81, from Vayangoda, was staying at the elderly home in Mirigama.In this case, doctors announced that he had died of pneumonia fever and took steps to cremate the body.
-
-He was admitted to the Mirigama Resource Hospital and died of pneumonia fever, he died on the resolution of the doctors, police said.
-
-However, the elderly home has taken steps to cremate the body at the Mirigama Sudukkad, as the guardian responsible for his death has no response.
-
-In the meantime, a woman's relative has lodged a complaint with the Senior Superintendent of Gampaha, who has complained to the Senior Superintendent of Gampaha that the woman was suspected of being abused.
-
-A police team was summoned to the cremation of the cremation and sent to the Vatupitivala Hospital for autopsy.
-
-Further inquiries into the incident are being carried out by Meerigama Police Station Upul Hettiarachchi.
-
-◼️
-
-[Data](articles/e0d1e0b4.json)
-
-[Extended Data](ext_articles/e0d1e0b4.ext.json)
-
----
-
-### Government Prioritizes Redeployment Over New Hiring
-
-*2024-01-28 10:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/government-prioritizes-redeployment-over-new-hiring/) · `en`
-
-COLOMBO (News 1st); In a move aimed at optimizing government workforce management, the State Minister of Provincial Councils and Local Government has instructed institutions to prioritize redeployment of redundant or extra employees over new recruitment.
-
-State Minister Janaka Wakkambura, announced this directive, emphasizing the need for efficient utilization of existing personnel within the government sector.
-
-He instructed heads of institutions to actively identify vacant positions across government entities and refer suitable redundant employees for filling those vacancies.
-
-The directive further discourages exceeding the pre-determined number of employees for specific positions. This measure aims to streamline government staffing and ensure appropriate resource allocation.
-
-The State Minister highlighted the current surplus of development officers as a prime example of underutilized potential within the existing workforce.
-
-...
-
-[Data](articles/e03cb344.json)
-
-[Extended Data](ext_articles/e03cb344.ext.json)
-
----
-
-### Tough decision taken to cancel two gazettes: Harin
-
-*2024-01-28 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Tough-decision-taken-to-cancel-two-gazettes-Harin/108-275831) · `en`
-
-Colombo, Jan 28 (Daily Mirror) - Two special gazettes issued by former Sports Minister Roshan Ranasinghe have been cancelled by the current Sports and Youth Affairs Minister Harin Fernando.
-
-Accordingly, the special gazette number 2342/48 dated July 28, 2023, will be cancelled.
-
-Also, the gazette notification that disbanded the interim committees, the powers, functions, and duties of the Sri Lanka Karate Federation and the Sri Lanka Motor Sports Association has also been cancelled.
-
-According to the constitution of the National Sports Associations or Federations, the officers elected at the previous elections can be appointed before the board until their legal terms of office are over and a new election is held, Minister Fernando said.
-
-◼️
-
-[Data](articles/21be7564.json)
-
-[Extended Data](ext_articles/21be7564.ext.json)
-
----
-
-### Sanath Nishantha's death
-
-*2024-01-28 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174959) · `ta`
-
-Investigations are underway into another vehicle that has been involved in the vehicle of the Minister of State Sanathnishantha.
-
-The drivers of the two vehicles who were involved in the accident were ordered to investigate the matter and submit a report.
-
-The State Minister's vehicle and the container driver said that the vehicle was not focused by the lack of attention due to the lack of focus.
-
-Police said they had refused to take a third vehicle.
-
-The Minister of State was very busy.
-
-The minister attended the Australian day after parliamentary sessions and then went to Kurunegala.
-
-The container driver who was released on bail has said that he has noticed that the state minister's jeep has tried to overtake a car.
-
-He noted that the two men were going to the left, observing the fast.
-
-...
-
-[Data](articles/27f008db.json)
-
-[Extended Data](ext_articles/27f008db.ext.json)
-
----
-
-### Lorencso demands support to release 4
-
-*2024-01-28 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192651) · `si`
-
-The Sri Lanka Navy has requested the Joint Navy to exempt the Sri Lanka Traroler vessel to be abducted by Somali sea robbery.
-
-The vessel was abducted by Somali sea robbery at the Arabian Sea and had six staff members.
-
-◼️
-
-[Data](articles/3d6ef466.json)
-
-[Extended Data](ext_articles/3d6ef466.ext.json)
-
----
-
-### Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
-
-*2024-01-28 10:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/sri-lanka-asks-combined-maritime-forces-to-probe-hijacked-boat/) · `en`
-
-COLOMBO (News 1st); A Sri Lankan fishing vessel, "Lorenzo Putha 4," has been captured by Somali pirates in international waters near Seychelles.
-
-The Sri Lanka Navy has informed the Combined Maritime Forces (CMF) in Bahrain, a multinational naval partnership with 39 member countries dedicated to maritime security, to launch an investigation into the incident.
-
-Naval Spokesman Captain Gayan Wickramasuriya confirmed the notification to CMF and added that countries with advanced naval technology are also being briefed on the situation.
-
-Director General of Fisheries Susantha Kahawatta stated that all relevant Sri Lankan departments have been alerted and are closely monitoring the developments.
-
-The hijacking reportedly occurred after January 12th, when "Lorenzo Putha 4" set sail from the port of Dikovita. The details of the crew and their current condition remain unclear.
-
-...
-
-[Data](articles/c75ef8fb.json)
-
-[Extended Data](ext_articles/c75ef8fb.ext.json)
-
----
-
-### Increase in train derailments from 2000 to 2023
-
-*2024-01-28 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increase-in-train-derailments-from-2000-to-2023/108-275829) · `en`
-
-Colombo, Jan 28 (Daily Mirror) - There has been an increase in train derailments between 2000 to 2023, according to surveys conducted by the Railways Department.
-
-Accordingly, it has been revealed that train derailments in 2022 and 2023 have doubled compared to 2020 and 2021.
-
-There have been 98 train derailments in 2020, among which 54 have been in railway yards and another 44 on railway tracks.
-
-The number of train derailments in 2021 was 115. There have been 75 derailments on railway lines, and the remaining 40 have occurred in railway yards.
-
-By 2022, the number of train derailments had increased to 133; 94 of them have happened on railway tracks.
-
-Moreover, the department said trains had carried passengers at the time of each derailment
-
-◼️
-
-[Data](articles/22be5646.json)
-
-[Extended Data](ext_articles/22be5646.ext.json)
-
----
-
-### 13 fishermen arrested in Maldives
-
-*2024-01-28 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192650) · `si`
-
-Two fishing boats carrying Sri Lankan fishermen have been arrested by the Ceylon Coast Guard.
-
-Seven fishermen and six fishermen in the other boil have been arrested by the Coast Guard.
-
-Foreign media reports that the two vessels have placed the NOORADDEEN owned by the Coast Guard, anchored at Haa Aliff Filladhoo.
-
-Indian and Sri Lankan fishing vessels in the Maldives are illegally fishing.
-
-◼️
-
-[Data](articles/69b2d252.json)
-
-[Extended Data](ext_articles/69b2d252.ext.json)
-
----
-
-### The 'Aigan of the Cheese' began the first journey of the Titanic five times larger than
-
-*2024-01-28 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/174963) · `ta`
-
-Royal Caribbean has begun its first journey by the world's largest passenger luxury ship 'Icon of the Seas'.
-
-The Igan of the cheese ship will arrive around the Caribbean Islands for 7 days on its first trip.
-
-The 20 -based ship has 7 swimming pools, which are said to be enormously up to 7600 people.
-
-Essentially, interesting information is that the Agan of the cheese is five times larger than the Titanic.
-
-At the same time, environmental activists have also revealed shocking information that the ship is emitted from the ship.
-
-◼️
-
-[Data](articles/af55859c.json)
-
-[Extended Data](ext_articles/af55859c.ext.json)
 
 ---

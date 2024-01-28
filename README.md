@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 12:17:07**
+As of **2024-01-28 12:32:51**
 
 ## Newspaper Stats
 
-*Scraped **3,031** Articles*
+*Scraped **3,034** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,50 +19,92 @@ adalk | 274
 adaderanasinhalalk | 303
 virakesarilk | 311
 tamilmirrorlk | 384
-adaderanalk | 390
+adaderanalk | 393
 dailymirrorlk | 409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,026 (99.8%) of 3,031 articles have been extended.
+3,031 (99.9%) of 3,034 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### ’வீடு வாங்கினால் மனைவி இலவசம்’
+### Wife is free if you buy a house
 
 *2024-01-28 11:51:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வீடு-வாங்கினால்-மனைவி-இலவசம்/50-332203) · `ta`
 
-இன்றைய நவீன உலகில் பொருட்களை விற்பனை செய்ய நிறுவனங்கள் பல்வேறு உத்திகளை கையாளுகின்றன. அதில் விளம்பரம் முக்கிய பங்கு வகிக்கிறது. அதாவது கவர்ச்சியான விளம்பரங்கள் மூலம் மக்களை ஈர்க்கும் முயற்சியில் நிறுவனங்கள் ஈடுபடுகின்றன.
+Companies handle different strategies to sell goods in today's modern world. The advertisement plays an important role. This means that companies are trying to attract people with exotic ads.
 
-பொருளாதார நெருக்கடியில் சிக்கியுள்ள சீனாவில் ரியல் எஸ்டேட் துறை பெரும் சரிவைச் சந்தித்துள்ளது. இதனால் பல நிறுவனங்கள் விநோதமான விளம்பரங்களை வெளியிட்டு வருகின்றன.
+The real estate sector has suffered a major decline in China. Thus many companies are publishing bizarre ads.
 
-அந்தவகையில் சீனாவின் டிரையஜின் நகரில் உள்ள ஒரு ரியல் எஸ்டேட் நிறுவனமும் தனது வீடுகளை விற்பனை செய்ய வித்தியாசமாக விளம்பரம் செய்துள்ளது. ஆனால் அது மக்களின் கவனத்தை ஈர்த்தது மட்டுமின்றி அரசாங்கத்தின் கவனத்தையும் தன்பக்கம் இழுத்தது.
+A real estate company in Tiaigin, China, has also advertised differently to sell its homes. But it not only caught the attention of the people but also the government's attention.
 
-...
+That is, the real estate company has advertised through social networks and posters that the wife is free if you buy a house. Shocked social activists complained to the government that the real estate company should take stern action. Subsequently, the government has ordered a fine of about Rs 3 lakh to the real estate.
+
+In a statement issued by the company, it was stated that their advertisement to buy homes and give it to your wife.
+
+◼️
 
 [Data](articles/8cfe7f9e.json)
 
+[Extended Data](ext_articles/8cfe7f9e.ext.json)
+
 ---
 
-### 2 விசேட வர்த்தமானிகளை ரத்து செய்தார் அமைச்சர்
+### President’s Fund announces enhanced scholarship allowance
+
+*2024-01-28 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96790/presidents-fund-announces-enhanced-scholarship-allowance) · `en`
+
+The President’s Fund has announced the extension and enhancement of the scholarship program for the year 2021/2022, the President’s Media Division (PMD).
+
+This initiative aims to identify and support financially challenged students across all provinces of Sri Lanka, ensuring they have the means to pursue their education without hindrance.
+
+In response to special requests from students, the President has decided to increase the existing monthly allowance of Rs. 5,000.00 to Rs. 6,000.00, effective from February 2024.
+
+This adjustment seeks to provide additional support to scholarship awardees, ensuring their financial well-being and uninterrupted learning until they sit for the G.C.E A/L examination. So far, 10 monthly installments have been paid out.
+
+...
+
+[Data](articles/7ca74279.json)
+
+---
+
+### Interim committees appointed to two sports bodies dissolved
+
+*2024-01-28 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96789/interim-committees-appointed-to-two-sports-bodies-dissolved) · `en`
+
+The interim committees appointed for the Sri Lanka Karate-Do Federation and the Sri Lanka Automobile Sports (formerly Sri Lanka Association of Motor Sports) have been dissolved by way of a Gazette notification.
+
+As per the relevant Gazette notification was issued by Sports Minister Harin Fernando, the interim committees appointed to exercise powers, functions and duties of the aforementioned sports bodies were dissolved with immediate effect.
+
+As such, in accordance with the Sports Act, No. 25 of 1973, both, the Sri Lanka Karate-Do Federation and the Sri Lanka Automobile Sports are authorised to continue their activities with the officials or committee members elected in the previous election, until a re-election is held.
+
+◼️
+
+[Data](articles/d90a8d8a.json)
+
+---
+
+### The Minister canceled 2 Special Gazette
 
 *2024-01-28 11:34:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-விசேட-வர்த்தமானிகளை-ரத்து-செய்தார்-அமைச்சர்/175-332202) · `ta`
 
-முன்னாள் விளையாட்டுத்துறை அமைச்சர் ரொஷான் ரணசிங்கவினால் வெளியிடப்பட்ட இரண்டு விசேட வர்த்தமானிகளை தற்போதைய விளையாட்டு மற்றும் இளைஞர் விவகார அமைச்சர் ஹரின் பெர்னாண்டோ ரத்து செய்துள்ளார்.
+Current Sports and Youth Affairs Minister Harin Fernando has canceled two special gazette issued by former Sports Minister Roshan Ranasinghe.
 
-இதன்படி, 2023 ஆம் ஆண்டு ஜூலை 28 ஆம் திகதி வெளியிடப்பட்ட விசேட வர்த்தமானி இலக்கமான 2342/48 இரத்துச் செய்யப்படவுள்ளது.
+Accordingly, the special gazette number 2342/48, released on July 28, 2023, will be canceled.
 
-அத்துடன், இலங்கை கராத்தே சம்மேளனம் மற்றும் இலங்கை மோட்டார் விளையாட்டு சங்கத்தின் இடைக்கால குழுக்கள், அதிகாரங்கள், பணிகள் மற்றும் கடமைகளை கலைத்த வர்த்தமானி அறிவித்தலும் இரத்து செய்யப்பட்டுள்ளது.
+In addition, the gazette notification of dissolving the interim committees, powers, work and obligations of the Sri Lanka Karate Federation and the Sri Lanka Motor Sports Association has also been canceled.
 
-தேசிய விளையாட்டு சங்கங்கள் அல்லது சம்மேளனங்களின் அரசியலமைப்பின் பிரகாரம், முன்னைய தேர்தல்களில் தெரிவுசெய்யப்பட்ட அதிகாரிகள், அவர்களின் சட்டப்பூர்வ பதவிக்காலம் முடிந்து புதிய தேர்தல் நடத்தப்படும் வரையில், சபைக்கு முன்பாக நியமிக்கப்படலாம் என அமைச்சர் பெர்னாண்டோ தெரிவித்துள்ளார்.
+According to the Constitution of the National Sports Associations or Federations, the officials who have been elected in the previous elections can be appointed before the council until their legal term is over.
 
 ◼️
 
 [Data](articles/a5ec4e31.json)
+
+[Extended Data](ext_articles/a5ec4e31.ext.json)
 
 ---
 
@@ -194,23 +236,43 @@ By 2022, the number of railway tracks increased to 133;The department said that 
 
 ---
 
-### ரயில் தடம் புரளும் சம்பவங்கள் அதிகரிப்பு
+### Increase in railway track incidents
 
 *2024-01-28 11:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்-புரளும்-சம்பவங்கள்-அதிகரிப்பு/175-332201) · `ta`
 
-2000 ஆம் ஆண்டு முதல் 2023 ஆம் ஆண்டு வரையிலான காலப்பகுதியில் ரயில் தடம் புரளும் சம்பவங்களில் அதிகரிப்பு ஏற்பட்டுள்ளதாக ரயில்வே திணைக்களத்தினால் மேற்கொள்ளப்பட்ட ஆய்வுகள் தெரிவிக்கின்றன.
+According to studies conducted by the Railway Department, there has been an increase in railway tracks from 2000 to 2023.
 
-அதன்படி, 2020 மற்றும் 2021 ஆம் ஆண்டுகளுடன் ஒப்பிடுகையில் 2022 மற்றும் 2023 ஆம் ஆண்டுகளில் ரயில் தடம் புரளும் சம்பவங்கள்  இருமடங்காக அதிகரித்துள்ளது.
+Accordingly, the incidents of railway tracking have doubled in 2022 and 2023 compared to 2020 and 2021.
 
-2020 ஆம் ஆண்டில் 98 ரயில் தடம் புரண்டுள்ளது, அவற்றில் 54 ரயில்வே யார்டுகளிலும், மேலும் 44 ரயில் தண்டவாளங்களிலும் நடந்துள்ளன.
+The 98 train derailed by 2020, of which 54 railway yards and 44 railway tracks.
 
-2021 ஆம் ஆண்டில் ரயில் தடம் புரண்ட சம்பவங்களின் எண்ணிக்கை 115. மேலும் 75 ரயில் பாதைகளில் தடம் புரண்டது, மீதமுள்ள 40 ரயில் தண்டவாளங்களில் நடந்துள்ளது.
+The number of railway derails in 2021. More than 75 railway line derailed, the remaining 40 railroads took place.
 
-2022ல், ரயில் தடம் பிறழ்வுகளின் எண்ணிக்கை 133 ஆக அதிகரித்துள்ளது; அவற்றில் 94 ரயில் தண்டவாளத்தில் நடந்துள்ளன என திணைக்களம் தெரிவித்துள்ளது.
+By 2022, the number of railway tracks increased to 133;The department said that 94 of them were on the railway tracks.
 
 ◼️
 
 [Data](articles/d223b48a.json)
+
+[Extended Data](ext_articles/d223b48a.ext.json)
+
+---
+
+### Sri Lanka seeks assistance from Combined Maritime Forces to release fishermen hijacked by Somali pirates
+
+*2024-01-28 10:59:00* · [`adaderanalk`](https://www.adaderana.lk/news/96788/sri-lanka-seeks-assistance-from-combined-maritime-forces-to-release-fishermen-hijacked-by-somali-pirates-) · `en`
+
+Sri Lanka has sought assistance from the Combined Maritime Forces (CMF), the world’s largest maritime security partnership, to obtain the release of the Sri Lankan fishing trawler that was hijacked by Somali pirates along with its crew.
+
+Accordingly, the spokesman of the Sri Lanka Navy stated that assistance was sought from the Bahrain-based Combined Maritime Forces, engaged in counter-terrorism efforts, to retrieve the boat and the fishermen.
+
+On Saturday (27 Jan.) it was reported that the ‘Lorenzo Putha 4’ multi-day fishing trawler had been seized by Somali pirates, along with six crew members aboard.
+
+CMF is a multinational maritime partnership led by the U.S. from Bahrain, the base for the U.S. Navy Fifth Fleet. CMF has 39 members, including NATO and European states, regional countries and other nations.
+
+◼️
+
+[Data](articles/9913a547.json)
 
 ---
 
@@ -259,6 +321,8 @@ Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 ◼️
 
 [Data](articles/e03cb344.json)
+
+[Extended Data](ext_articles/e03cb344.ext.json)
 
 ---
 
@@ -544,19 +608,21 @@ Therefore, we are unaware of the target and their demand to hijack the multi-day
 
 ---
 
-### මහ මැතිවරණයක් තිබුණොත් වැඩිහිටියන්ගෙන් සියයට 39ක් ජවිපෙට
+### 39% of adults to JVP if there is a general election
 
 *2024-01-28 09:36:38* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයක්-තිබුණොත්-වැඩිහිටියන්ගෙන්-සියයට-39ක්-ජවිපෙට/11-407748) · `si`
 
-2023 වසරේ දෙසැම්බර් මස මහ මැතිවරණයක් පැවැත්වූයේ නම් වැඩිහිටියන්ගෙන් සියයට 39ක ඡන්ද ප්‍රතිශතයක් ලබමින් ජවිපෙ/ජාජවේ ඉදිරියෙන් පසුවන බව සෞඛ්‍ය ප්‍රතිපත්ති කේන්ද්‍රය නිකුත් කළ නවතම මත විමසුමක සඳහන් වෙයි.
+The latest inquiry issued by the Health Circular Point stated that 39 percent of the elders in December 2023.
 
-මෙම සමීක්ෂණය අනුව සමගි ජන බලවේගය සියයට 27ක් හා ශ්‍රී ලංකා පොදුජන පෙරමුණට සියයට 10ක ප්‍රතිශතකයක් පවතී.
+According to the survey, the reconciliation of the reconciliation is 27 percent and 10 percent of the Sri Lanka Front Front.
 
-එක්සත් ජාතික පක්ෂයට සියයට 6ක් හා ශ්‍රී ලංකා නිදහස් පක්ෂයට සියයට 2ක ප්‍රතිශතකයක් පවතී.
+There are 6% per cent of the UNP and the Sri Lanka Freedom Party.
 
 ◼️
 
 [Data](articles/2e8eeaec.json)
+
+[Extended Data](ext_articles/2e8eeaec.ext.json)
 
 ---
 
@@ -1955,65 +2021,5 @@ Based on stylistic details, the researchers think it was made in Alexandria arou
 [Data](articles/9449663d.json)
 
 [Extended Data](ext_articles/9449663d.ext.json)
-
----
-
-### Redolored fish that came to Sri Lanka in 98 containers
-
-*2024-01-27 16:23:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/98-கொள்கலன்களில்-இலங்கைக்கு-வந்த-அழுகிய-மீன்கள்/175-332179) · `ta`
-
-A group of government accounts has revealed that 98 containers of rotten fish have landed in the country from the ship traveling from Seychelles to Thailand.
-
-The group has also revealed that there is a Seman factory belonging to the Sri Lankan representative who brought the ship to Sri Lanka and did not know what happened to the 04 containers of the ship.
-
-However, the permit has been issued for fish waste, said the Import and Export Controller General DD Upulmali Premadilaka.
-
-The Chairman of the Committee, Lasantha Alagiyawana, said that all state institutions will be invited to investigate further inquiries on March 5.. Remble
-
-◼️
-
-[Data](articles/02dbbd6d.json)
-
-[Extended Data](ext_articles/02dbbd6d.ext.json)
-
----
-
-### Grama Niladhari Examination results released
-
-*2024-01-27 16:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192627) · `si`
-
-State Affairs State Minister Asoka Priyantha says that the 4,232 list of the interview was issued by the Department of Examinations for the post of Vacancies.
-
-The list of official website has published the official website www.mohaha.gov.lk
-
-According to the results of this examination, the recruitment for 2002 Grama Niladhari vacancies will be made.
-
-State Affairs Minister of Home Affairs Ashoka Priyantha added that according to the gazette notification, he will conduct expeditious interviews to the public service.
-
-The Department of Examinations held the Grama Niladhari exam to December 2, 2023.
-
-Grama Niladhahari Exam Interview SELEVED LIST20212023 by Poornima On Scribd
-
-◼️
-
-[Data](articles/b2300b29.json)
-
-[Extended Data](ext_articles/b2300b29.ext.json)
-
----
-
-### Couple arrested for scamming Rs. 5bn through pyramid scheme
-
-*2024-01-27 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96771/couple-arrested-for-scamming-rs-5bn-through-pyramid-scheme) · `en`
-
-A couple has been arrested on suspicion of defrauding people of Rs. 5 billion through a pyramid scheme.
-
-The arrest was made in Pilimathalawa area by the Illegal Assets and Property Investigation Unit.
-
-◼️
-
-[Data](articles/05ecc232.json)
-
-[Extended Data](ext_articles/05ecc232.ext.json)
 
 ---

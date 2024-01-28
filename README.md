@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 09:32:46**
+As of **2024-01-28 09:51:41**
 
 ## Newspaper Stats
 
-*Scraped **2,993** Articles*
+*Scraped **2,995** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ economynextcom | 170
 islandlk | 174
 newsfirstlk | 175
 dailyftlk | 215
-adalk | 270
+adalk | 271
 adaderanasinhalalk | 297
 virakesarilk | 305
 tamilmirrorlk | 377
-adaderanalk | 386
+adaderanalk | 387
 dailymirrorlk | 406
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,993 (100.0%) of 2,993 articles have been extended.
+2,993 (99.9%) of 2,995 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### Over 800 suspects arrested within 24 hours
+
+*2024-01-28 09:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96784/over-800-suspects-arrested-within-24-hours) · `en`
+
+A total of 803 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan. 28) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+According to the Ministry of Public Security, the narcotics taken into custody during this period include 212 grams of heroin, 101 grams of crystal methamphetamine (Ice) and 169 narcotic pills.
+
+◼️
+
+[Data](articles/287b0d53.json)
+
+---
 
 ### Sri Lanka - Australia match today
 
@@ -253,6 +267,20 @@ Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 [Data](articles/2acb85ea.json)
 
 [Extended Data](ext_articles/2acb85ea.ext.json)
+
+---
+
+### අද ප්‍ර දේශ කිහිපයකට වැසි
+
+*2024-01-28 07:19:21* · [`adalk`](https://www.ada.lk/breaking_news/අද-ප්‍ර-දේශ-කිහිපයකට-වැසි/11-407745) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොලොන්නරුව, මාතලේ හා නුවරඑළිය දිස්ික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+අනුරාධපුර, මුලතිව් හා හම්බන්තොට දිස්ත්‍රික්කවල වැසි ස්වල්පයක් ඇතිවිය හැකි බවත් බස්නාහිර හා සබරගමුව පළාත්වලත් ගාල්ල, මාතර හා මහනුවර දිස්ත්‍ර්ික්කවලත් පස්වරු පමණ පසු ස්ථාන ස්වේපයක වැසි හෝ ගුරුම් සහිත වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+
+◼️
+
+[Data](articles/2ca27d81.json)
 
 ---
 
@@ -2003,41 +2031,5 @@ Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 [Data](articles/f36b88d9.json)
 
 [Extended Data](ext_articles/f36b88d9.ext.json)
-
----
-
-### Jagath Priyantha Named to Replace Late Sanath Nishantha
-
-*2024-01-27 10:56:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/jagath-priyantha-named-to-replace-late-sanath-nishantha/) · `en`
-
-COLOMBO (News 1st); The Sri Lanka Podujan Peramuna is set to retain its Puttalam District seat in Parliament following the passing of State Minister Sanath Nishantha.
-
-District Secretary Sunanda Herath confirmed that Jagath Priyantha's name has been forwarded to the Election Commission as the replacement candidate.
-
-Election Commissioner General Saman Sri Ratnayake said that Priyantha's official appointment as Member of Parliament will be published in the Gazette shortly.
-
-Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
-
-◼️
-
-[Data](articles/0dc471ba.json)
-
-[Extended Data](ext_articles/0dc471ba.ext.json)
-
----
-
-### Car accident killed in three
-
-*2024-01-27 10:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192618) · `si`
-
-Three persons were killed in a car accident in Rajugedella main road on the Kurunegala-Giriulla main road.
-
-The accident had occurred when a lorry and three-wheeler collided with a three-wheeler.
-
-◼️
-
-[Data](articles/625652f2.json)
-
-[Extended Data](ext_articles/625652f2.ext.json)
 
 ---

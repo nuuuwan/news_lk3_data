@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 23:02:22**
+As of **2024-01-28 23:17:18**
 
 ## Newspaper Stats
 
@@ -26,63 +26,75 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,135 (99.9%) of 3,139 articles have been extended.
+3,139 (100.0%) of 3,139 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### ලොරෙන්සෝ පුතා 4 යාත්‍රාවට ඇත්තටම මොකද වුණේ ?
+### What happened to the 6 lorencho's son?
 
 *2024-01-28 22:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192675) · `si`
 
-සෝමාලියානු මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්ව ඇතැයි පැවසෙන ''ලොරෙන්සෝ පුතා 4'' නමැති යාත්‍රාව සම්බන්ධයෙන් මේ වනවිට තවත් තොරතුරු හෙළිවෙමින් පවතී.
+More information regarding the vessel, which is said to have been brought under the control of Somali pirates, is being revealed.
 
-කෙසේ වෙතත් ධීවර දෙපාර්තමේන්තුව පවසන්නේ, ''ලොරෙන්සෝ පුතා 4'' නමැති අදාළ යාත්‍රාව මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්වූ ඊයේ (27) දහවල් එකේ පමණ සිට මේ දක්වා සියලු සන්නිවේදන කටයුතු බිඳවැටී ඇති බවය.
+However, the Fisheries Department says
 
-"ලොරෙන්සෝ පුතා 4 " බහුදින ධීවර යාත්‍රාව දික්ඕවිට ධීවර වරායෙන් පසුගිය 12 වැනිදා සිය මංගල මුහුදු ගමනට පිවිස තිබුණේ ධීවරයින් 06 දෙනෙකු සමගිනි.
+The 'lorenchoday son 4 "was owned by six fishermen on the 12th of the Dickowita Fisheries Harbor.
 
-එම යාත්‍රාව ගොඩබිමේ සිට නාවික සැතපුම් 1,160ක් දුරින් වූ අරාබි මුහුදු ප්‍රදේශයේදී සෝමාලියානු මුහුදු කොල්ලකරුවන්ගේ ග්‍රහණයට ලක්ව ඇති බව ධීවර දෙපාර්තමේන්තුව ප්‍රකාශ කළේය.
+The vessel has been greeted by Somali pirates in the Arab Sea area, which was 1,160 nautical miles from land.
 
-අරාබි මුහුදේ ධීවරයින් රැකියාවේ නිරත ප්‍රදේශයට ඊයේ එකවරම පැමිණි කිසියම් යාත්‍රාවක් "ලොරේන්සේ පුතා 04" යාත්‍රාව පසුපස හඹාවිත් ආයුධ සන්නද්ධ දෙදෙනෙකු ඊට බලහත්කාරයෙන් ඇතුළුවී අහසට වෙඩිතැබීමක් සිදුකර තිබේ.
+Two armed armed armed vehicles were forcibly entered into the sky yesterday.
+
+At that time, two other multi-day fishing vessels belonging to the owner of the vessel have been sailed in the same area, eight of the fishermen and six fishermen of the other vessel.
+
+The fishermen who were on the 4 "lorenzo son 4" have been informed of their consolidated vessel and they had provided the message by the vessel, Francis Milroy Perera, the vessel.
+
+The communication work of the "lorenzo son 4" has collapsed and the Fisheries Department has taken measures to educate the Ministry of Foreign Affairs.
 
 ...
 
 [Data](articles/bcbe3414.json)
 
+[Extended Data](ext_articles/bcbe3414.ext.json)
+
 ---
 
-### උමා ඔයෙන් මෙගාවොට් 60ක් ජාතික විදුලිබල පද්ධතියට
+### 60 MW from Uma Oya to national grid
 
 *2024-01-28 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192674) · `si`
 
-උමා ඔය ජල විදුලි ව්‍යාපෘතියේ පළමු අදියර ලෙස මෙගාවොට් 60ක විදුලි ධාරිතාවක් ජාතික විදුලිබල පද්ධතියට එක් කර තිබේ.
+The first phase of the Uma Oya Hydroelectricity has added 60 MW to the national grid.
 
-විදුලි බල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා සඳහන් කළේ ඊයේ (27) පස්වරුවේ සිට එම විදුලි ධාරිතාව ජාතික පද්ධතියට එක් කළ බවය.
+The Minister of Power and Energy Kanchan Wijesekara said that the capacity of the strength was added to the national grid from yesterday afternoon.
 
-උමා ඔය ජල විදුලි ව්‍යාපෘතිය මගින් මෙගාවොට් 120ක විදුලි ධාරිතාවක් උත්පාදනය කිරීමට කිරීමට නියමිත අතර ව්‍යාපෘතියේ දෙවන අදියර පෙබරවාරි මස මැද භාගයේ දී ජාතික පද්ධතියට එක් කිරීමට නියමිත බව සඳහන්ය.
+The Uma Oya Hydro Power Project will be created to generate 120 MW of electricity and the second phase of the project is to be added to the national grid in mid-February.
 
-දේශපාලන ව්‍යාපාර සංවිධානය කළ විරෝධතා, කොවිඩ් වසංගතය හා ආර්ථික අර්බුදය යන හේතූන් මත ව්‍යාපෘතිය අවසන් කිරීම ප්‍රමාද වූ බව විදුලිබල හා බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා සඳහන් කළේය.
+Power and Energy Minister Kanchana Wijesekera said that the project was delayed due to the completion of the protests and economic crisis organized by political businesses.
 
 ◼️
 
 [Data](articles/049a0c1e.json)
 
+[Extended Data](ext_articles/049a0c1e.ext.json)
+
 ---
 
-### රන්භාණ්ඩ සොරකමට කොටුවූ සිසුවා ගැන අනාවරණයක්
+### Disclosure of the student arrested for theft
 
 *2024-01-28 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192673) · `si`
 
-බෙලිඅත්ත නිහිලුව ප්‍රදේශයේ නිවසක සිදුවූ රණ්භාණ්ඩ සොරකමක් සම්බන්ධයන් 15 හැවිරිදි සිසුවෙකු අත්අඩංගුවට ගෙන තිබේ.
+Beliatta has arrested 15-year-old steeringal role in a house in Sihileuwa area.
 
-සිසුවාගෙන් සිදුකළ ප්‍රශ්න කිරීමේදී අනාවරණය වී ඇත්තේ අසල්වැසි නිවසේ රන් භාණ්ඩ මෙන්ම, තම මිත්තණියගේ ගෙල බැඳි රන් මාලයද තමා විසින් කඩාගත් බවය.
+Questions made by the student were revealed that he was declined by the neighboring house, as well as the goldening gold necklace.
 
-මේ අතර අදාළ මිත්තණිය මීට දින කිහිපයකට පෙර මියගොස් ඇති අතර එම මරණය ඝාතනයක්ද යන්න පිළිබඳව පොලීසිය විමර්ශනයක් ආරම්භ කර තිබේ.
+Meanwhile, the grandmother has died a few days ago and the police had begun investigations.
 
 ◼️
 
 [Data](articles/3b0dd26d.json)
+
+[Extended Data](ext_articles/3b0dd26d.ext.json)
 
 ---
 
@@ -332,21 +344,25 @@ The remains of State Minister of Water Supply, Sanath Nishantha, who died in a c
 
 ---
 
-### විභාග වංචා සිදුකළ සිසුවා හා උපකාර කළ සරසවි සිසුවා රිමාන්ඩ්
+### University student who had helped the student who was conducting examination fraud
 
 *2024-01-28 19:06:50* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-වංචා-සිදුකළ-සිසුවා-හා-උපකාර-කළ-සරසවි-සිසුවා-රිමාන්ඩ්/11-407761) · `si`
 
-මෙවර අපොස (උ.පෙළ) විභාගයට පෙනී සිටි පෞද්ගලික අයදුම්කරුවෙකුට උදව් උපකාර කළ අග්නිදිග විශ්වවිද්‍යාලයේ සිසුවෙකු හා විභාගයට පෙනී සිටි සිසුවා පෙබරවාරි (02දා) දක්වා රක්ෂිත බන්ධනාගාරගත කිරීමට මූතූර් මහේස්ත්‍රාත් තස්නීම් මොහොමඩ් පවුසාන් මහත්මිය පෙරේදා (27දා) නියම කළාය.
+Muthaur Magistrate Tasneim Mohamed Pueven (27) presented the student of the Southeasi University to be remanded until February (02).
 
-සැකකාර පෞද්ගලික අයදුම්කරු ස්මාර්ට් ජංගම දුරකථනයක් භාවිත කරමින් තොරතුරු සංනිවේදන තාක්ෂණ විෂයේ දෙවැනි ප්‍රශ්න පත්‍රය ඡායාරූපගත කර වට්ස් ඇප් ඔස්සේ අග්නිදිග විශ්වවිද්‍යාලයේ සිසුවාට යවා පිළිතුරු ගෙන්වා ගෙන ඇති බවට පරීක්ෂණවලදී අනාවරණය වී තිබේ.
+Investigations have revealed that the suspected private applicant using a smartphone using a smartphone photographed the second question paper of the Communication Technology Tesy.
 
-සැකාකර පෞද්ගලික අයදුම්කරුට අමතරව මාතලේ ප්‍රදේශයේ පදිංචිකරුවෙකුටද විශ්වවිද්‍යාල සිසුවාගෙන් පිළිතුරු ලබා ගෙන ඇති බවට අනාවරණය වී ඇති බවත් එම සැකකරු අත් අඩංගුවට ගැනීමට පරීක්ෂණ පවත්වන බවද පොලීසිය මහේස්ත්‍රාත්වරිය හමුවේ පැවැසීය.
+The police also found that the university student also received the answers to a resident of Matale in addition to the private applicant.
 
-විභාග ශාලාව තුළ සිදු වූ මෙම සිදුවීම  විභාග ශාලාධිපතිවරයා මුතූර්   විභාග කටයුතු භාර නියෝජ්‍ය අධ්‍යාපන අධ්‍යක්ෂ නවරත්නම් සයින්තන් මහතාට පැමිණිලි කර තිබුණි.
+The incident during the examination hall lodged a complaint with Deputy Director of Education, Deputy Director of Education, Deputy Director of Education, Deputy Director of Education.
 
-...
+The Deputy Director of Education has then arrest the suspects after he had lodged a complaint with the Muttur Police.
+
+◼️
 
 [Data](articles/7e196617.json)
+
+[Extended Data](ext_articles/7e196617.ext.json)
 
 ---
 

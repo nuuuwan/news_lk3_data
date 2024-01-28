@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 01:49:10**
+As of **2024-01-29 02:02:39**
 
 ## Newspaper Stats
 
-*Scraped **3,149** Articles*
+*Scraped **3,151** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 125
 economynextcom | 174
 islandlk | 174
 newsfirstlk | 184
-dailyftlk | 221
+dailyftlk | 223
 adalk | 288
 adaderanasinhalalk | 324
 virakesarilk | 330
@@ -26,11 +26,43 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,149 (100.0%) of 3,149 articles have been extended.
+3,149 (99.9%) of 3,151 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### Cost Accounting takes centre stage in Colombo
+
+*2024-01-29 01:17:23* · [`dailyftlk`](https://www.ft.lk/business/Cost-Accounting-takes-centre-stage-in-Colombo/34-757879) · `en`
+
+International conference tackles cost and effect on industry and services to drive business performance
+
+In a landmark event to highlight the importance of “Cost Accounting”, the Institute of Certified Management Accountants of Sri Lanka (CMASL) and the Institute of Cost Accountants of India (ICAI) hosted a joint International Cost Conference on 20 January, 2024, titled «Cost and Effect on Industry and Services to Drive Business Performance».
+
+The conference brought together delegates from India, Pakistan, Bangladesh, the Maldives, and Sri Lanka, fostering cross-regional dialogue and knowledge exchange on a critical aspect of cost accounting and applicability of cost mechanisms through legal provisions.
+
+...
+
+[Data](articles/7d05dc67.json)
+
+---
+
+### Litro says growth trajectory to continue; gives Rs. 3 b dividend to Treasury
+
+*2024-01-29 01:12:40* · [`dailyftlk`](https://www.ft.lk/business/Litro-says-growth-trajectory-to-continue-gives-Rs-3-b-dividend-to-Treasury/34-757878) · `en`
+
+Litro Gas Lanka Ltd. has recently declared an impressive contribution of Rs. 3 billion in dividends to the Treasury through its primary shareholder, Sri Lanka Insurance Corporation. This consists of Rs. 1.5 billion made in October 2023 and another Rs. 1.5 billion paid on 26 January 2024.
+
+Litro said this noteworthy gesture comes at a crucial time when Sri Lanka is actively seeking to boost state revenue to attain stability in the aftermath of a pandemic followed by an economic downturn.
+
+Furthermore, Litro has demonstrated its commitment to national empowerment by also paying Rs. 2.6 billion in taxes and duties, solidifying its position as one of the few profitable state-owned enterprises. Despite facing challenges, including a shortage of foreign reserves that affected its supply chain, Litro swiftly resolved the issues.
+
+...
+
+[Data](articles/938420f1.json)
+
+---
 
 ### Marikkar reveals real reasons behind parliament prorogation
 
@@ -1923,53 +1955,5 @@ The central committee member members are allowed to enter the event at the fulle
 [Data](articles/d1ad6062.json)
 
 [Extended Data](ext_articles/d1ad6062.ext.json)
-
----
-
-### The rice is killed in the platter
-
-*2024-01-28 12:31:05* · [`adalk`](https://www.ada.lk/breaking_news/බත්-මුට්ටියෙන්-මරුවා-එයි/11-407751) · `si`
-
-Kalutara South Police say that a person is cooking an rice in a gas article, said Kalutara South Police said.
-
-The deceased have been identified as HA VKAgoda, Gampaha, a 60 shade.
-
-The deceased is said that the victim is in a sickness and is living alone.
-
-He said that the accident had occurred while heavywall a rice earlier in the gas point for lunch, police said.
-
-Police Inspector Ruwan Wijesinghe are conducting further investigations.
-
-◼️
-
-[Data](articles/e6066e57.json)
-
-[Extended Data](ext_articles/e6066e57.ext.json)
-
----
-
-### Red Sea crisis calls for Colombo Port
-
-*2024-01-28 12:16:42* · [`adalk`](https://www.ada.lk/breaking_news/රතු-මුහුදේ-අර්බුදයෙන්-කොළඹ-වරායට-ඉල්ලමක්/11-407750) · `si`
-
-Size of the Colombo Port has increased due to the crisis in the Middle East. Haruna Siripala de Silva, Minister of Ports and Aviation, was held at the Sri Lanka Ports Authority's Jayaratne Peripheral today.
-
-Due to the military situation in the Middle East, the ship firms have been tempted to bring their ships to the port of the Colombo port as a protected measures.
-
-For this reason, Anchorage facilities are built for 24 ships in the port of the day.
-
-In addition, it is reported that the ships will be waiting for an anchorage outside of the Port.
-
-The Jayaratne Women's Terminal (JCT) and Earth's Terminal (ECT) has been able to lead 100 ships in January.
-
-Five passenger vessels in addition to the containers have arrived at the Port of Colombo.
-
-In January alone, only 193,000 containers were conducted in 193,000, and the progress of 70%. In January, 554,000 contacts were conducted during the month of January.
-
-...
-
-[Data](articles/33120068.json)
-
-[Extended Data](ext_articles/33120068.ext.json)
 
 ---

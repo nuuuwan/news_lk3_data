@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 03:17:14**
+As of **2024-01-29 03:33:36**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,151 (100.0%) of 3,152 articles have been extended.
+3,152 (100.0%) of 3,152 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### செல்லக்கதிர்காமத்தில் விபத்து: ஒருவர் பலி
+### Accident
 
 *2024-01-29 02:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்லக்கதிர்காமத்தில்-விபத்து-ஒருவர்-பலி/175-332236) · `ta`
 
-வான் ஒன்றும் லொறியொன்றும் மோதியே இந்த விபத்து இடம்பெற்றுள்ளது என பொலிஸார் தெரிவித்துள்ளனர்.
+The accident occurred when a van and a lorry collided, police said.
 
-உயிரிழந்த நபர் வானில் பயணித்தவர் எனவும் வானில் பயணித்த மேலும் 4 பேர் காயமடைந்துள்ளனர் என்றும் பொலிஸார் தெரிவித்துள்ளனர். (a)
+The deceased person was traveling in the air and four others were injured in the sky, police said. (A)
 
 ◼️
 
 [Data](articles/10c2cefa.json)
+
+[Extended Data](ext_articles/10c2cefa.ext.json)
 
 ---
 

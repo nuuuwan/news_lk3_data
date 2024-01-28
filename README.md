@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 16:17:22**
+As of **2024-01-28 16:32:28**
 
 ## Newspaper Stats
 
-*Scraped **3,065** Articles*
+*Scraped **3,067** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adaderanasinhalalk | 306
 virakesarilk | 317
 tamilmirrorlk | 388
 adaderanalk | 396
-dailymirrorlk | 418
+dailymirrorlk | 420
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,065 (100.0%) of 3,065 articles have been extended.
+3,065 (99.9%) of 3,067 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### Unifying pre-school frameworks to align with national policy for optimal pre-childhood development
+
+*2024-01-28 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Unifying-pre-school-frameworks-to-align-with-national-policy-for-optimal-pre-childhood-development/108-275841) · `en`
+
+Colombo, Jan 28 (Daily Mirror) - Following the national education policy, the Education Ministry is aiming to implement a single framework for the pre-childhood development of children between the ages of three and five in all preschools currently in operation, Education Minister Susil Premajayantha said.
+
+He expressed these views at the inauguration of the training programme by the National Institute of Education under the leadership of the Ministry to provide formal training to untrained pre-school teachers according to the concept of the Education Minister.
+
+A total of 34,000 preschool teachers in 19,000 preschools in Sri Lanka are engaged in early childhood development. The Minister pointed out that among them, there are only 6,000 pre-school diploma holders who have received formal training.
+
+Many developed countries in the world pay special attention to early childhood development, but so far, proper attention has not been paid to early childhood development in Sri Lanka.
+
+...
+
+[Data](articles/8845deb5.json)
+
+---
+
+### Police tasked with eradicating drugs, underworld by June 30: Minister
+
+*2024-01-28 15:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-tasked-with-eradicating-drugs-underworld-by-June-30-Minister/108-275842) · `en`
+
+Colombo, Jan. 28 (Daily Mirror)- Police have been tasked with completely eradicating the underworld and narcotic drugs in the country by June 30, 2024, Public Security Minister Tiran Alles said.
+
+He said the "Yukthiya" operation to crack down on the underworld and narcotic drugs will not be stopped whoever attempts to disrupt it.
+
+"We launched the 'Yukthiya' operation to rescue the country from drugs and underworld activities. We planned this after studying the situation for a long time. A large number of drug dealers and criminals have been arrested by now, while some others are in hiding. We have given the target to the police to completely eradicate drugs and the underworld by June 30 this year. We request the public to provide information in their areas to the police without any fear or hesitation. We will act upon these information," he said.
+
+◼️
+
+[Data](articles/d0bda99a.json)
+
+---
 
 ### India to assist in rescue of Sri Lanka fishermen captured by Somali pirates
 
@@ -2041,39 +2075,5 @@ The money was awarded after the police constable was gone to the body.
 [Data](articles/4de619b7.json)
 
 [Extended Data](ext_articles/4de619b7.ext.json)
-
----
-
-### Young people who joked wildlaria
-
-*2024-01-27 22:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192639) · `si`
-
-We had a video of two youths who wreate the wildlife.
-
-Two youths who entered the flooding valley of Polonnaruwa have been harassed by a wildlife.
-
-There was a nearby man who was on the two young men who were chasing the two young men.
-
-◼️
-
-[Data](articles/e5700660.json)
-
-[Extended Data](ext_articles/e5700660.ext.json)
-
----
-
-### The odd way of the highway
-
-*2024-01-27 22:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192638) · `si`
-
-A video running a car in the opposite direction of the Colombo-Katunayake Expressway is circulated on social media.
-
-When contacted, the authorities of the Colombo-Katunayake Expressway said that immediate action would be taken.
-
-◼️
-
-[Data](articles/963374f0.json)
-
-[Extended Data](ext_articles/963374f0.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 09:51:41**
+As of **2024-01-28 10:02:37**
 
 ## Newspaper Stats
 
-*Scraped **2,995** Articles*
+*Scraped **2,997** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ economynextcom | 170
 islandlk | 174
 newsfirstlk | 175
 dailyftlk | 215
-adalk | 271
+adalk | 272
 adaderanasinhalalk | 297
 virakesarilk | 305
-tamilmirrorlk | 377
+tamilmirrorlk | 378
 adaderanalk | 387
 dailymirrorlk | 406
 
@@ -26,11 +26,31 @@ dailymirrorlk | 406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,993 (99.9%) of 2,995 articles have been extended.
+2,995 (99.9%) of 2,997 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### சில மாவட்டங்களில் அவ்வப்போது மழை பெய்யும்
+
+*2024-01-28 09:27:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-மாவட்டங்களில்-அவ்வப்போது-மழை-பெய்யும்/175-332198) · `ta`
+
+நாட்டில் கிழக்கு, ஊவா மாகாணங்களிலும் பொலன்னறுவை, மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக் கூடும்.
+
+அநுராதபுரம், முல்லைத்தீவு மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களில் சிறிதளவு மழை பெய்யக் கூடும் எனவும் தெரிவித்துள்ளது.
+
+மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை மற்றும் கண்டி மாவட்டங்களிலும் பிற்பகல் 2.00 மணிக்குப் பின்னர் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்.
+
+வடக்கு, வடமத்திய, கிழக்கு, மத்திய, ஊவா மற்றும் வடமேல் மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போது சுமார் 40 கிலோ மீற்றர் வேகத்தில் காற்று வீசக்கூடும்.
+
+இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய அபாயங்களைக் குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரியுள்ளது. R
+
+◼️
+
+[Data](articles/018f1e65.json)
+
+---
 
 ### Over 800 suspects arrested within 24 hours
 
@@ -43,6 +63,8 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 ◼️
 
 [Data](articles/287b0d53.json)
+
+[Extended Data](ext_articles/287b0d53.ext.json)
 
 ---
 
@@ -135,6 +157,18 @@ Meanwhile, two motorbikes clash near the Mount Mary Junction of Borella - Baseli
 [Data](articles/70dd6578.json)
 
 [Extended Data](ext_articles/70dd6578.ext.json)
+
+---
+
+### 76 වැනි නිදහස් දිනයට පෙරහුරු 30 දා ඇරඹෙයි
+
+*2024-01-28 08:04:35* · [`adalk`](https://www.ada.lk/breaking_news/76-වැනි-නිදහස්-දිනයට-පෙරහුරු-30-දා-ඇරඹෙයි/11-407746) · `si`
+
+2024.02.04 දිනට යෙදී ඇති 76 වැනි ජාතික නිදහස් දින උළෙලට අදාළ පෙරහුරු කටයුුතු එළැඹෙන 30 දි සිට ආරමභ කරන බව පොලිස් මූලස්ථානය පවසයි. ඒ අනුව අදාළ පෙරහුරු කටයුතු පෙබරවාරි මස 03 දා තෙක් පැවැත්වෙනු ඇත.  මෙම පෙරහුරු කටයුතු ගාලු මුවදොර පරිශ්‍රයේදී පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/12968da2.json)
 
 ---
 
@@ -270,17 +304,19 @@ Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
 ---
 
-### අද ප්‍ර දේශ කිහිපයකට වැසි
+### Showers in several lands today
 
 *2024-01-28 07:19:21* · [`adalk`](https://www.ada.lk/breaking_news/අද-ප්‍ර-දේශ-කිහිපයකට-වැසි/11-407745) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොලොන්නරුව, මාතලේ හා නුවරඑළිය දිස්ික්කවලත් විටින් විට වැසි ඇතිවන බව කාලගුණ විද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers will occur at times in the Eastern and Uva provinces, Polonnaruwa, Matale and Nuwara Eliya districts.
 
-අනුරාධපුර, මුලතිව් හා හම්බන්තොට දිස්ත්‍රික්කවල වැසි ස්වල්පයක් ඇතිවිය හැකි බවත් බස්නාහිර හා සබරගමුව පළාත්වලත් ගාල්ල, මාතර හා මහනුවර දිස්ත්‍ර්ික්කවලත් පස්වරු පමණ පසු ස්ථාන ස්වේපයක වැසි හෝ ගුරුම් සහිත වැසි ඇතිවන බවද එම දෙපාර්තමේන්තුව දන්වා සිටියි.
+The Department ofs the Western and Sabaragamuwa Districts will experience showers at several places in the Western and Sabaragamuwa Districts and around the Western and Sabaragamuwa Districts.
 
 ◼️
 
 [Data](articles/2ca27d81.json)
+
+[Extended Data](ext_articles/2ca27d81.ext.json)
 
 ---
 
@@ -1989,47 +2025,5 @@ The Trump had committed these unfaithful statements against the Geean Carol in 2
 [Data](articles/a132659f.json)
 
 [Extended Data](ext_articles/a132659f.ext.json)
-
----
-
-### In 36 cases, the MU's petition was heard Monday
-
-*2024-01-27 11:04:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/36-வழக்குகளில்-மு-காவின்-மனு-திங்கள்-விசாரணை/175-332172) · `ta`
-
-As 36 petitions have been filed in the Supreme Court against the new Terrorism Bill, which was introduced in Parliament on January 10,
-
-Sri Lanka Muslim Congress leader Rauf Hakeem and party secretary President Attorney Nizam Kariyapar arrived at the High Court on Friday (26).
-
-SC/SD/27/2014 filed by the Sri Lanka Muslim Congress. They will argue when the digit petition is taken up for hearing on Monday (29).
-
-The prosecution case is currently being carried out by the five -member panel headed by Chief Justice President Jayantha Jayasuriya.
-
-It has been pointed out by many parties that the new amendment is that the government has introduced various issues more dangerous than the existing Terrorism Act.. Remble
-
-◼️
-
-[Data](articles/b16345a8.json)
-
-[Extended Data](ext_articles/b16345a8.ext.json)
-
----
-
-### Three Killed, One Injured in Narammala Accident
-
-*2024-01-27 11:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/three-killed-one-injured-in-narammala-accident/) · `en`
-
-COLOMBO (News 1st); A tragic accident in Kivulgalla claimed the lives of three individuals and injured another in a collision between a three-wheeler and a truck.
-
-According to police reports, the incident occurred early this morning, with details surrounding the cause of the crash still under investigation.
-
-The deceased identified as residents of the Kelaniya area are exceeding 50 years of age.
-
-Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
-
-◼️
-
-[Data](articles/f36b88d9.json)
-
-[Extended Data](ext_articles/f36b88d9.ext.json)
 
 ---

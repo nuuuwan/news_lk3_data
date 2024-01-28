@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 13:02:15**
+As of **2024-01-28 13:17:18**
 
 ## Newspaper Stats
 
@@ -26,41 +26,45 @@ dailymirrorlk | 414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,039 (99.8%) of 3,045 articles have been extended.
+3,045 (100.0%) of 3,045 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### ஐநா அமைப்பின் உறுப்பினர்கள் ஹமாசுடன் இணைந்து தாக்குதலில் ஈடுபட்டதாக குற்றச்சாட்டு- நிதி உதவியை பல நாடுகள் இடைநிறுத்தின-
+### Members of the UN have been accused of attacking Hamas- many countries suspended financial aid
 
 *2024-01-28 12:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/174975) · `ta`
 
-ஹமாசின் ஒக்டோபர் ஏழாம் திகதி தாக்குதலிற்கு  பாலஸ்தீன அகதிகளிற்கான ஐநா அமைப்பு உதவியதாக தெரிவித்து அந்த அமைப்பிற்கான நிதி உதவியை உலகநாடுகள் இடைநிறுத்தியுள்ளன.
+The world has suspended financial aid to the Palestinian Refugees for the attack on the seventh of October by Hamas.
 
-பிரிட்டன் உட்பட எட்டு நாடுகள் பாலஸ்தீனத்தின அகதிகளுக்கான ஐநா அமைப்பிற்கான நிதி உதவியை நிறுத்தியுள்ளன.
+Eight countries, including Britain, have stopped financial assistance for Palestinian refugees.
 
-யுஎன்ஆர்டபில்யூஏ என்பது பிரதானமாக காசாவிற்கான மனிதாபிமான அமைப்பு இரண்டு மில்லியனிற்கும் மேற்பட்ட மக்கள் உயிர்வாழ்வதற்காக அந்த அமைப்பினை நம்பியிருக்கின்றனர் என அந்த அமைப்பின் தலைவர் பிலிப்பே லசாரினி தெரிவித்துள்ளார்.
+The UNRTAUA is mainly relying on the organization to survive more than two million people, said the head of the organization, Philippe Lazarini.
 
-சிறிய எண்ணிக்கையிலான பணியாளர்களிற்கு எதிரான குற்றச்சாட்டுகளை அடிப்படையாக வைத்து நிதி இடைநிறுத்தப்பட்டுள்ளமை அதிர்ச்சியளிக்கின்றது  என தெரிவித்துள்ள அவர் ஏற்கனவே குற்றச்சாட்டுகளின் அடிப்படையில் நாங்கள் சில பணியாளர்களை இடைநிறுத்தியுள்ளோம்  விசாரணைகள் தொடர்கின்றன எனவும் தெரிவித்துள்ளார்.
+It is shocking that the funds have been suspended on the basis of allegations against a small number of employees, he said.
 
-பிராந்தியத்தில் யுத்தம் இடம்பெயர்வு அரசியல் நெருக்கடிகள் காணப்படும் சூழ்நிலையில் இந்த தடைகள் பொருத்தமற்றவை எனவும் அவர் தெரிவித்துள்ளார்.
+He added that these obstacles are inappropriate in the context of war migration in the region.
 
 ◼️
 
 [Data](articles/3615bad7.json)
 
+[Extended Data](ext_articles/3615bad7.ext.json)
+
 ---
 
-### புலமைப்பரிசில் தொகை அதிகரிப்பு
+### Increase in scholarship
 
 *2024-01-28 12:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-தொகை-அதிகரிப்பு/175-332204) · `ta`
 
-2021 (2022) ஆம் ஆண்டில் க.பொ.த சாதாரண தரப் பரீட்சைக்கு முதன் முறையாக
+For the first time for the GCE Ordinary Level Examination in 2021 (2022)
 
 ◼️
 
 [Data](articles/5e92bcc3.json)
+
+[Extended Data](ext_articles/5e92bcc3.ext.json)
 
 ---
 
@@ -98,17 +102,21 @@ Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
 [Data](articles/babff3c5.json)
 
+[Extended Data](ext_articles/babff3c5.ext.json)
+
 ---
 
-### புதிய தென்பூகோள தலைமை
+### The new southbroof chief
 
 *2024-01-28 11:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/174971) · `ta`
 
-அர­சி­யலில் இடம்­பெறும் மாற்­றங்­களை தமக்கு சாத­க­மாக மாற்றி அமைத்துக்கொள்­வதில் மேலைத்­தேய வெளி­யு­ற­வுக்­ கொள்கை வகுப்­பா­ளர்கள் கைதேர்ந்­த­வர்­க­ளாக பார்க்­கப்­ப­டு­கின்­றனர். கடந்த வருடம் புது டில்­லியில் இடம்­பெற்ற ஜி20 மா­நாட்டில் தென்­பூ­கோள நாடு­க­ளுக்­கான பால­மாக இந்­தியா செய­லாற்றும் என்ற ஒரு விவ­காரம் கொண்டு வரப்­பட்­டது. இந்த விவ­காரம் பூகோள வல்­ல­ர­சு­க­ளுக்­கி­டை­யி­லான அர­சி­யலில் சீன - அமெ­ரிக்க போட்­டி­யுடன் எந்த வகையில் இணைக்­கப்­ப­டலாம் என்­பது ஒரு சிந்­த­னை­யாக எழுந்­துள்­ளது.
+Western foreign policy makers are viewed as an advantage of changing politics. At the G20 summit in New Delhi last year, an issue was brought about as a bridge for the South Publisher. This issue has arisen as to how the Chinese -American competition can be incorporated into the politics of the global powers.
 
 ◼️
 
 [Data](articles/47dbebed.json)
+
+[Extended Data](ext_articles/47dbebed.ext.json)
 
 ---
 
@@ -192,23 +200,27 @@ As such, in accordance with the Sports Act, No. 25 of 1973, both, the Sri Lanka 
 
 ---
 
-### பொதுமக்களின் உரிமைகளை கட்டுப்படுத்தும் அதிகாரங்களை பொலிஸாருக்கு வழங்கவேண்டாம் - பயங்கரவாத எதிர்ப்பு சட்டமூலம் குறித்து மனித உரிமை ஆணைக்குழு நீதியமைச்சருக்கு கடிதம்
+### Do not give the police the powers that control the rights of the public
 
 *2024-01-28 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174969) · `ta`
 
-உத்தேச பயங்கரவாத எதிர்ப்பு சட்டத்தின் மூலம் பொதுமக்களின் அடிப்படை உரிமைகளை கட்டுப்படுத்தும் அதிகாரங்களை பொலிஸாருக்கு வழங்கவேண்டாம் என இலங்கையின் மனித உரிமை ஆணைக்குழு வேண்டுகோள் விடுத்துள்ளது.
+The Sri Lanka Human Rights Commission has appealed to the police not to give the police the powers that control the fundamental rights of the public through the proposed anti -terrorism law.
 
-உத்தேச பயங்கரவாத எதிர்ப்பு சட்டமூலம் குறித்த தனது அவதானிப்புகள் குறித்து   இலங்கையின் மனித உரிமை ஆணைக்குழு நீதியமைச்சர் விஜயதாச ராஜபக்சவிற்கு கடிதமொன்றை எழுதியுள்ளது.
+The Human Rights Commission of Sri Lanka has written a letter to Justice Minister Vijayadasa Rajapaksa on its observations on the proposed Terrorism Bill.
 
-பயங்கரவாதகுற்றம் என்பதற்கான வரைவிலணக்கத்தை கணிசமான அளவில் குறைக்கவேண்டும் என இலங்கை மனித உரிமை ஆணைக்குழு வேண்டுகோள் விடுத்துள்ளது.
+The Human Rights Commission of Sri Lanka has appealed to a significant reduction in the definition of terrorism.
 
-அரசமைப்பில் தெரிவிக்கப்பட்டுள்ளபடி பயங்கரவாத குற்ற சந்தேகநபருக்கு எதிராக பிறப்பிக்கப்படும் தடுப்பு உத்தரவு நீதித்துறையின் கண்காணிப்பிற்கு உட்படுத்தப்படுவதை உறுதி செய்யவேண்டும் எனவும் மனித உரிமை ஆணைக்குழு பரிந்துரைத்துள்ளது.
+The Human Rights Commission has also recommended that the detention order issued against the terrorist crime suspect, as stated in the Constitution, should ensure that the judiciary is under the supervision of the judiciary.
 
-பயங்கரவாத குற்றச்செயல்கள் தொடர்பில் கைதுசெய்யப்பட்ட எந்த சந்தேகநபருக்கும் எந்த நேரத்திலும் பிணைவழங்கும் அதிகாரம் நீதிபதிகளிற்கு வழங்கப்படுவதை உறுதி செய்யவேண்டும் எனவும் மனித உரிமைகள் ஆணைக்குழு தெரிவித்துள்ளது.
+The Human Rights Commission said that any suspects arrested in connection with terrorist crimes should be given the power to be granted the judges at any time.
+
+The Sri Lanka Human Rights Commission has called for the right to seek the right to seek the aid of the law for every person who has been seized.
 
 ...
 
 [Data](articles/48eb8ac9.json)
+
+[Extended Data](ext_articles/48eb8ac9.ext.json)
 
 ---
 
@@ -708,21 +720,23 @@ Encouraging more donor suspensions, Israeli Foreign Minister Israel Katz said UN
 
 ---
 
-### උමාඔයෙන් මෙගා වොට් 120ක් දෙන දිනය කියයි
+### Uma will be given 120 mega watts
 
 *2024-01-28 10:04:17* · [`adalk`](https://www.ada.lk/breaking_news/උමාඔයෙන්-මෙගා-වොට්-120ක්-දෙන-දිනය-කියයි/11-407749) · `si`
 
-උමාඔය ව්‍යාපෘතිය යටතේ මෙගාවොට් 120ක විදුලි ධාරිතාවක් ලබන පෙබරවාරි මස 15 වැනිදා වන විට ජාතික විදුලි පද්ධතියට එකතු කිරීමට අපේක්ෂා කරන බව වාරිමාර්ග රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා පැවසීය.
+Irrigation State Minister Shashindra Rajapaksa said that a 120 MW of electricity will be added to the national gygrology under the Uma Oma Oya project.
 
-එසේම ජලය මත පාවෙන සූර්ය පැනල මගින් මෙගාවොට් 3077ක් ජාතික විදුලිබල පද්ධතියට එකතු කිරීමට අවශ්‍ය ජලාශ 31ක් දැනටමත් හඳුනාගෙන තිබෙන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+According to the State Minister, 31 reservoirs to add 3077 MW of Solar panels on the water have already been identified to add 3077 MW to the national grid.
 
-වාරිමාර්ග රාජ්‍ය අමාත්‍ය ශෂීන්ද්‍ර රාජපක්ෂ මහතා මෙම අදහස් පළ කළේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Irrigation State Shashindra Rajapaksa made these comments participating at a press conference held at the press conference at the Presidential Media Center.
 
-2024 වසරේ වාරිමාර්ග අමාත්‍යාංශයේ ප්‍රධාන කාර්යභාරය වශයෙන් ආහාර නිෂ්පාදනය ඉහළ නංවමින් ජාතික ආහාර සුරක්ෂිතතාවය උදෙසා උපරිම දායකත්වයක් ලබාදීමට අරමුණු කරගෙන තිබෙනවා. ඒ වගේම වාරිමාර්ග අමාත්‍යාංශයට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා මෙවර අයවැයෙන් රුපියල් මිලියන 23,413ක මුදලක් වෙන් කර තිබෙනවා. ඉන් රුපියල් මිලියන 6913ක් ජලාශ නඩත්තු කිරීමටත්, රුපියල් මිලියන 16500ක් මහා පරිමාණ වාරි ව්‍යාපෘතීන් වෙනුවෙනුත් වෙන් කර තිබෙනවා.
+2024 The main function of the Ministry of Irrigation Ministry is aimed at enhancement of food production, increasing the production of food safety. President Ranil Wickremesinghe has allocated Rs. 23,413 million from President Ranil Wickremesinghe to the Ministry of Irrigation. 6913 million has been reserved for the maintenance of reservoirs and allocated Rs. 16,500 million for large-scale irrigation projects.
 
 ...
 
 [Data](articles/a1c9c57e.json)
+
+[Extended Data](ext_articles/a1c9c57e.ext.json)
 
 ---
 

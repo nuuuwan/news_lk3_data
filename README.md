@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 01:17:25**
+As of **2024-01-29 01:32:33**
 
 ## Newspaper Stats
 
-*Scraped **3,148** Articles*
+*Scraped **3,149** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 42
+colombotelegraphcom | 43
 bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 174
@@ -26,7 +26,7 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,146 (99.9%) of 3,148 articles have been extended.
+3,148 (100.0%) of 3,149 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,8 @@ He noted that the Government has opted for proroguing parliament as it automatic
 ...
 
 [Data](articles/fd0f6aac.json)
+
+[Extended Data](ext_articles/fd0f6aac.ext.json)
 
 ---
 
@@ -137,6 +139,8 @@ Semiconductors are a promising industry and therefore the investors in the indus
 ...
 
 [Data](articles/27fcf4fe.json)
+
+[Extended Data](ext_articles/27fcf4fe.ext.json)
 
 ---
 
@@ -479,6 +483,16 @@ The activity-based manual provides examples and reflection on unsustainable prac
 [Data](articles/1f4238c0.json)
 
 [Extended Data](ext_articles/1f4238c0.ext.json)
+
+---
+
+### Chips Are Everywhere: But Can Sri Lanka Ride The Wave?
+
+*2024-01-28 19:33:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/chips-are-everywhere-but-can-sri-lanka-ride-the-wave/) · `en`
+
+...
+
+[Data](articles/64c6bd31.json)
 
 ---
 
@@ -1955,19 +1969,5 @@ In January alone, only 193,000 containers were conducted in 193,000, and the pro
 [Data](articles/33120068.json)
 
 [Extended Data](ext_articles/33120068.ext.json)
-
----
-
-### Increase in scholarship
-
-*2024-01-28 12:12:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புலமைப்பரிசில்-தொகை-அதிகரிப்பு/175-332204) · `ta`
-
-For the first time for the GCE Ordinary Level Examination in 2021 (2022)
-
-◼️
-
-[Data](articles/5e92bcc3.json)
-
-[Extended Data](ext_articles/5e92bcc3.ext.json)
 
 ---

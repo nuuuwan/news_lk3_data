@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 16:32:28**
+As of **2024-01-28 16:47:15**
 
 ## Newspaper Stats
 
-*Scraped **3,067** Articles*
+*Scraped **3,070** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ economynextcom | 172
 islandlk | 174
 newsfirstlk | 182
 dailyftlk | 215
-adalk | 278
-adaderanasinhalalk | 306
+adalk | 280
+adaderanasinhalalk | 307
 virakesarilk | 317
 tamilmirrorlk | 388
 adaderanalk | 396
@@ -26,7 +26,7 @@ dailymirrorlk | 420
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,065 (99.9%) of 3,067 articles have been extended.
+3,067 (99.9%) of 3,070 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,6 +48,8 @@ Many developed countries in the world pay special attention to early childhood d
 
 [Data](articles/8845deb5.json)
 
+[Extended Data](ext_articles/8845deb5.ext.json)
+
 ---
 
 ### Police tasked with eradicating drugs, underworld by June 30: Minister
@@ -63,6 +65,8 @@ He said the "Yukthiya" operation to crack down on the underworld and narcotic dr
 ◼️
 
 [Data](articles/d0bda99a.json)
+
+[Extended Data](ext_articles/d0bda99a.ext.json)
 
 ---
 
@@ -85,6 +89,34 @@ The pirates had allowed the Sri Lankan fishermen captured to communicate with th
 [Data](articles/ab899d94.json)
 
 [Extended Data](ext_articles/ab899d94.ext.json)
+
+---
+
+### ක්‍රිකට් ලෝකයම උඩුයටිකුරු කර අලුත් තරුව මෙන්න
+
+*2024-01-28 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192657) · `si`
+
+වත්මන් ටෙස්ට් ලෝක ශූර ඔස්ට්‍රේලියාවට එරෙහිව සුපිරි ජයක් වාර්තා කිරීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමත්ව තිබේ.
+
+එහිදී සුවිශේෂී පන්දු යැවීමක නිරත වූ කොදෙව් නවක ක්‍රීඩක Shamar Joseph පන්දුවාර 11.5කදී ලකුණු 68කට කඩුලු 7ක් දවාගනිමින් ජය කොදෙව්වන්ට හිමිකර දුන්නේය.
+
+සිය මංගල ටෙස්ට් තරගාවලිය සමග එක්ව සිටින Shamar Joseph මෙහිදී ඇඟිල්ලක ආබාධයක් සමග ක්‍රීඩා කරමින් මෙම දක්ෂතාවය දැක්වීම විශේෂ වෙයි.
+
+ඔහු සිය මංගල ටෙස්ට් තරගයේදී ද ප්‍රබල ඔස්ට්‍රේලියාවට එරෙහිව කඩුලු 5ක් දවාගෙන තිබුණේ ලකුණු 94කටය.
+
+ඒ අනුව ඔහු සිය මංගල ටෙස්ට් තරගාවලියේදී දවාගෙන ඇති කඩුලු සංඛ්‍යාව 13කි.
+
+මෙහිදී තරගයේ සිය පළමු ඉනිම සඳහා කොදෙව්වන් ලකුණු 311ක් රැස්කරගෙන තිබුණි.
+
+දෙවන ඉනිම ක්‍රීඩා කළ කොදෙව් කණ්ඩායම ලකුණු 193කදී සියලුදෙනා දැවී ගියේය.
+
+ටෙස්ට් තරගාවලියේ ජයග්‍රහණය සොයා දෙවන ඉනිම ක්‍රීඩා කිරීමට පිටියට පිවිසි ඔස්ට්‍රේලියාවේ සිහින Shamar Joseph විසින් සුනුවිසුණු කර දැමුවේ කිසිවෙකු නොසිතූ ලෙසටය.
+
+ඒ අනුව ඔහු තරගයේ වීරයා සහ තරගාවලියේ වීරයා යන සම්මාන ද්විත්වයම සිය නාමය ඉදිරියේ සටහන් කරගත්තේය.
+
+...
+
+[Data](articles/37070cde.json)
 
 ---
 
@@ -274,6 +306,22 @@ He said that the situation has been restricted till now, but a permanent solutio
 
 ---
 
+### සනත් නිශාන්ත අද අවසන් ගමන් යයි - ආරක්ෂාවට පොලීසියේ 380ක්
+
+*2024-01-28 13:47:52* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්ත-අද-අවසන්-ගමන්-යයි---ආරක්ෂාවට-පොලීසියේ-380ක්/11-407757) · `si`
+
+රිය අනතුරකින් මරණයට පත් ජලසම්පාදන රාජ්‍ය අමාත්‍ය සනත්නිශාන්ත පෙරේරා මහතාගේ අද 28 පැවත්වෙන අවමංගල්‍ය උත්සවයේ ආරක්ෂාවට වයඹ පළාතේ තොරාගත් පොලිස්ථාන වල පොලිස් නිළධාරීන් 380ක් යොදවා ඇති බව ආරච්චිකට්ටුවපොලීසිය පවසයි.
+
+ඉකුත් 25දින සිට ආරච්චිකට්ටුව පිහිටි රාජ්‍ය අමාත්‍යවරයාගේ කාර්යාල භූමියට ප්‍රභූවරැන් පක්ෂ විපක්ෂ නායකයින් ඇතුලුපාර්ලලිමේන්තු මැති ඇමතිවරුන් සහ විශාල ජනකායක් සහභාගී වන හෙයින් මෙන්ම 28දින අවමංගල්‍ය අත්සව දිනයේදී විශාලජනකායක් සහභාගී වීමට ඇති හෙයින් එම පිරිස් වල ආරක්ෂාව සඳහා යොදවා ඇති බව ආරක්ෂක අංශ සඳහන් කරයි.
+
+මෙම නිළධාරීන් සඳහා නවාතැන් පහසුකම් ආරච්චිකට්ටුව බංඩාරහේණ පාරේ පිහිටි සිව්චතුරශ්‍ර සුභාරංචි සභාවේ පිහිටි භූමිය සහ ගොඩනැගිලි භාවිතා කරඇති බව ආරක්ෂක අංශ පවසයි.
+
+◼️
+
+[Data](articles/1e2cf825.json)
+
+---
+
 ### Members of the UN have been accused of attacking Hamas- many countries suspended financial aid
 
 *2024-01-28 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174975) · `ta`
@@ -407,6 +455,20 @@ Accordingly, with the increase in scholarships, from February 2024 to the GCE Ad
 [Data](articles/2915758f.json)
 
 [Extended Data](ext_articles/2915758f.ext.json)
+
+---
+
+### ටී.එන්.ඒ. මහ ලේකම් තොරන නිලවරණය ගාල ‌ගෝට්ටියක්
+
+*2024-01-28 12:50:56* · [`adalk`](https://www.ada.lk/breaking_news/ටී-එන්-ඒ--මහ-ලේකම්-තොරන-නිලවරණය-ගාල-‌ගෝට්ටියක්/11-407752) · `si`
+
+දෙමල ජාතික සංධානයේ මහා ලේකම් ඇතුළු විධායක සභාව තෝරා ගැනීම සදහා ඊයේ (27දා) ත්‍රිකුණාමලයේ පැවැති මධ්‍යම කාරක සභා රැස්වීම් නිලවරණය ඉතා උණුසුම් හා කාල ගෝට්ටි මධ්‍යයේ අවසන්වු අතර පත්වු නිලධාරීන් තමන් පිළි නොගන්නා බව එක් පාර්ශවයක් පවසා කලහකාරි ලෙස හැසිරීම  නිසා අද (28) දෙමල ජාතික සංධානයේ නව නායකයන්ගේ සහභාගිත්වයෙන් ත්‍රිකුණාමලයේ පැවැත්විමට නියමිතව තිබු පලමු මහජන රැලිය අත්හිටුවීමට සංධාන නායක පාර්ලිමේන්තු මන්ත්‍රී එස්.ශ්‍රි ධරන් මහතා කටයුතු කලේය.
+
+මේ අනුව දෙමල ජාතික සංධානයේ මහා ලේකම් ලෙස සම්මුගම් කුගදාසන් මහතා පත්වු අතර ජ්‍යෙෂ්ඨ උප සභාපති ලෙස පාර්ලිමේන්තු මන්ත්‍රී සි.වි.කේ.සිවඥනම් මහතාත් භාණ්ඩාගාරික ලෙස හිටපු පාර්ලිමේන්තු මන්ත්‍රී කේ.සිවනේසන් මහතාත් පත්වුහ.උප සභාපතිවරැ ලෙස කේ.වි.තවරාසා,චල්ස් නිර්මලනාදන්,කලෙයි අර්සන්,එම් අරි⁣යනේන්ද්‍රන්,එස්.සත්‍යලිංගම් යන මහත්වරැ තේරිපත් වුහ.සම ලේකම්වරැ ලෙස එම්.ඒ.සුමන්තිරන්,එස් ශාන්තිනි,ශ්‍රි ස්කන්ධ රාජා,රංජනි කනකරාජා,කේ.සරවනබවන්, රාසමානික්‍යන් ශානක්කියන්,එම්.සිව මෝහන් යන මහත්ම මහත්මින් තේරිපත් වුහ.
+
+...
+
+[Data](articles/d1ad6062.json)
 
 ---
 
@@ -2015,65 +2077,5 @@ Presently, he is the Managing Director of SAR Shipping Ltd., SAR Maritime Ltd., 
 [Data](articles/b9910933.json)
 
 [Extended Data](ext_articles/b9910933.ext.json)
-
----
-
-### Aberdeen Holdings recognized with multiple awards in 2023
-
-*2024-01-28 00:19:00* · [`islandlk`](http://island.lk/aberdeen-holdings-recognized-with-multiple-awards-in-2023/) · `en`
-
-Aberdeen Holdings has been honored for its exceptional performance and growth momentum, with several of its subsidiaries receiving prestigious awards and titles throughout 2023.
-
-Expo Commodities, a subsidiary of Aberdeen Holdings, received three coveted accolades at the 31st NCE Awards by the National Chamber of Exports (NCE). Notably, Expo Commodities secured the overall Gold Award (Medium) in the Organic Products category, the Gold Award (Extra Large) in the Spices and Spices Based Products category, and the Bronze Award (Extra Large) in the Coconut and Coconut Products category.
-
-These awards reinforce Expo Commodities’ position as an industry leader in diverse export sectors, delivering top-quality spices and coconut products and driving innovation in the global marketplace while maintaining a strong focus on sustainability.
-
-...
-
-[Data](articles/fe788095.json)
-
-[Extended Data](ext_articles/fe788095.ext.json)
-
----
-
-### 2024-01-27 (Saturday)
-
-### Indian envoy lauds LIOC’s contribution to Sri Lanka’s economy
-
-*2024-01-27 22:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96781/indian-envoy-lauds-liocs-contribution-to-sri-lankas-economy) · `en`
-
-The Indian High Commissioner to Sri Lanka, Santosh Jha, attended an event of Indian Oil’s subsidiary in Sri Lanka, Lanka IOC (Indian Oil Corporation), on Saturday to extend the ‘Group term assurance plan’ through LIC Lanka.
-
-He lauded LIOC’s contribution to the economy and its service to society through various CSR activities.
-
-“High Commissioner @santjha attended the LIOC event to extend the ‘Group term assurance plan’ through LIC Lanka to its 1500 customer attendants across the island,” the High Commission of India in Colombo wrote on X.
-
-Lanka IOC is the only private oil company that operates retail petrol and diesel stations in Sri Lanka.
-
-On December 22, 2023, the Indian envoy to Sri Lanka, Santosh Jha, presented credentials to Sri Lankan President Ranil Wickremesinghe. He assumed the charge of the Indian High Commissioner to Sri Lanka on December 22.
-
-Earlier in September, Santosh Jha was appointed as India’s next High Commissioner to Sri Lanka.
-
-...
-
-[Data](articles/8305c04a.json)
-
-[Extended Data](ext_articles/8305c04a.ext.json)
-
----
-
-### MSD officer who died of Sanath Nishantha's fatal crash Rs. 15 lakhs
-
-*2024-01-27 22:20:54* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තගේ-මාරක-අනතුරින්-මිය-ගිය-MSD-නිලධාරියාට-රු--ලක්ෂ-15ක්/11-407744) · `si`
-
-The IGP has been given a sum of Rs.
-
-The money was awarded after the police constable was gone to the body.
-
-◼️
-
-[Data](articles/4de619b7.json)
-
-[Extended Data](ext_articles/4de619b7.ext.json)
 
 ---

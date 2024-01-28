@@ -1,16 +1,16 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 10:50:10**
+As of **2024-01-28 11:02:16**
 
 ## Newspaper Stats
 
-*Scraped **3,006** Articles*
+*Scraped **3,009** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 41
 bbccomsinhala | 53
-dbsjeyarajcom | 124
+dbsjeyarajcom | 125
 economynextcom | 170
 islandlk | 174
 newsfirstlk | 178
@@ -20,13 +20,13 @@ adaderanasinhalalk | 299
 virakesarilk | 305
 tamilmirrorlk | 379
 adaderanalk | 390
-dailymirrorlk | 406
+dailymirrorlk | 408
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,000 (99.8%) of 3,006 articles have been extended.
+3,006 (99.9%) of 3,009 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Meanwhile, Acting Inspector General of Police (IGP) Deshabandu Tennakoon, who wa
 
 [Data](articles/4ebc30df.json)
 
+[Extended Data](ext_articles/4ebc30df.ext.json)
+
 ---
 
 ### Sri Lankan fishing boats seized for illegal activity in Maldives’ EEZ
@@ -63,6 +65,8 @@ According to foreign media, the two fishing boats will be brought to Male City a
 ◼️
 
 [Data](articles/4004d43a.json)
+
+[Extended Data](ext_articles/4004d43a.ext.json)
 
 ---
 
@@ -83,6 +87,8 @@ Encouraging more donor suspensions, Israeli Foreign Minister Israel Katz said UN
 ...
 
 [Data](articles/c1892851.json)
+
+[Extended Data](ext_articles/c1892851.ext.json)
 
 ---
 
@@ -107,6 +113,8 @@ Investigations are currently underway to determine the status of five additional
 ...
 
 [Data](articles/690ec1ba.json)
+
+[Extended Data](ext_articles/690ec1ba.ext.json)
 
 ---
 
@@ -152,23 +160,43 @@ Further honoring Jayakodi's service, the late constable was posthumously promote
 
 [Data](articles/d934349a.json)
 
+[Extended Data](ext_articles/d934349a.ext.json)
+
 ---
 
-### பெண் பொலிஸ் அதிகாரியை பலியெடுத்த விபத்து
+### Lorenzo Putha 4 hijacked, still no contact, all communications on standby: Fisheries Department
+
+*2024-01-28 09:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Lorenzo-Putha-4-hijacked-still-no-contact-all-communications-on-standby-Fisheries-Department/155-275828) · `en`
+
+Colombo, Jan 28 (Daily Mirror) - Colombo Measures are being taken with the support of the Foreign Ministry and the Sri Lanka Navy to release the 'Lorenzo Putha 4' - a Sri Lankan multi-day fishing trawler which was hijacked by Somali pirates yesterday, Director General of the Fisheries and Aquatic Resources Department Susantha Kahawatta said.
+
+He said the Somali pirates who hijacked the multi-day trawler have not made any communication with the Fisheries Department or any other responsible government institutions.
+
+Therefore, we are unaware of the target and their demand to hijack the multi-day fishing trawler, Kahawatta said.
+
+...
+
+[Data](articles/436b3a2c.json)
+
+---
+
+### Accident
 
 *2024-01-28 09:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பொலிஸ்-அதிகாரியை-பலியெடுத்த-விபத்து/175-332199) · `ta`
 
-மீரிகம - பஸ்யால வீதியின் துமுன்னேகெதர பிரதேசத்தில் இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் பெண் பொலிஸ் உத்தியோகத்தர் உயிரிழந்துள்ளார்.
+Female police officer has died in a motorcycle accident in Tumunagedera area of Mirigama - Basyala Road.
 
-இதில், அம்பேபுஸ்ஸ பிரதேசத்தை சேர்ந்த வரகாபொல பொலிஸ் நிலையத்தில் கடமையாற்றும் 52 வயதுடைய பொலிஸ் உத்தியோகத்தரே உயிரிழந்துள்ளார்.
+The 52 -year -old police officer who is working at the Varakapola police station in Ambepussa has died.
 
-அவர் பயணித்த மோட்டார் சைக்கிள் வீதியை விட்டு விலகி பாரவூர்தியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+The accident occurred when he crashed into the motorcycle he was traveling in.
 
-விபத்தில் பலத்த காயங்களுக்குள்ளான பெண் பொலிஸ் அதிகாரி வட்டுபிட்டிவல வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது உயிரிழந்துள்ளார். R
+A woman who was severely injured in the accident. Remble
 
 ◼️
 
 [Data](articles/ab8f9002.json)
+
+[Extended Data](ext_articles/ab8f9002.ext.json)
 
 ---
 
@@ -253,6 +281,24 @@ The assailants, armed with T-56 guns, ambushed the victims as they entered a loc
 [Data](articles/3f76fac0.json)
 
 [Extended Data](ext_articles/3f76fac0.ext.json)
+
+---
+
+### Expect showers in East, Uva, Polonnaruwa, Matale, Nuwara-Eliya this evening
+
+*2024-01-28 08:48:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Expect-showers-in-East-Uva-Polonnaruwa-Matale-Nuwara-Eliya-this-evening/108-275827) · `en`
+
+Colombo,  Jan 28 (Daily Mirror) - Showers will occur today in the Eastern and Uva Provinces and in the Polonnaruwa, Matale and Nuwara-Eliya districts, the Forecasting Division of the National Meteorological Centre said.
+
+They said a few showers may occur in the Anuradhapura, Mullaitivu and Hambantota districts, and showers will occur at a few places in the Western and Sabaragamuwa Provinces and in the Galle, Matara and Kandy districts after 2 p.m.
+
+Strong winds of about 40 kmph can be expected at times over the Northern, North-Central, Eastern, Central, Uva and North-Western Provinces and the Hambantota district.
+
+The public is requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/7bfc0a20.json)
 
 ---
 
@@ -1226,6 +1272,20 @@ Authorities stated that action is taken to rescue the abducted fishermen.
 
 ---
 
+### The  Attack on ITAK Jaffna MP  Sivagnanam Shritharan  by “Unknown” Gunmen in Anuradhapura.
+
+*2024-01-27 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83507) · `en`
+
+The  media spotlight is focused to a great  extent on Jaffna District Parliamentarian Sivagnanam Shritharan these days. The 55 year old  former school principal has been elected as the president of Sri Lanka’s premier Tamil political party the Ilankai Thamil Arasuk Katchi(ITAK) known in English as the Federal Party(FP). Shritharan  has been  elected an MP  continuously since 2010.
+
+Shritharan contested the ITAK presidential elections on a pro-LTTE platform euphemistically described as “Thamizh Thesiyam” (Tamil Nationalism)The newly elected ITAK leader  demonstrated that he was a hawk in Tamil politics by paying obeisance at the LTTE cemetery in Kilinochchi. He also issued a statement  calling upon all Tamil nationalist parties to join him and realise the dreams of fallen LTTE fighters known as “Maaveerar”or great heroes.
+
+...
+
+[Data](articles/d857a29c.json)
+
+---
+
 ### The Independence Day Changes Changed Days
 
 *2024-01-27 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192631) · `si`
@@ -1975,63 +2035,5 @@ On January 26, 2010, he was arrested in connection with the death of his wife in
 [Data](articles/cffd5bbd.json)
 
 [Extended Data](ext_articles/cffd5bbd.ext.json)
-
----
-
-### Special traffic plan in Colombo for Independence Day ceremony
-
-*2024-01-27 12:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96767/special-traffic-plan-in-colombo-for-independence-day-ceremony) · `en`
-
-A special traffic plan will be implemented in a section of the Galle Road in view of the upcoming Independence Day ceremony.
-
-Accordingly, the stretch of Galle Road from Kollupitiya Junction - Galle Face and from Ceramic Junction - Galle Face will temporarily remain off limits for traffic until 04 February.
-
-The road closure is effective from 06.00 a.m. - 08.30 a.m. and 11.00 a.m. - 12.30 p.m. from 29 January to 02 February and again from 02.00 p.m. on 03 February until the conclusion of the Independence Day ceremony on 04 February, the Police said.
-
-◼️
-
-[Data](articles/eb6d8360.json)
-
-[Extended Data](ext_articles/eb6d8360.ext.json)
-
----
-
-### Geological political conflict
-
-*2024-01-27 12:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/174908) · `ta`
-
-The US Ambassador to Sri Lanka has condemned the Steam Protection Act while Russia has welcomed.
-
-Russian Ambassador to Sri Lanka, Eleven Jagyanarder, said that the issues include in the Ceremonial Security Act are a completely domestic issue.
-
-He said that Russia is closely observing the issues of the Sri Lankan Protection Bill.
-
-He said that the issues included in the Sri Lankan Protection Act are completely domestic and that foreigners interfere in domestic issues are an unacceptable issue.
-
-◼️
-
-[Data](articles/a3b9615a.json)
-
-[Extended Data](ext_articles/a3b9615a.ext.json)
-
----
-
-### Prices of vegetables in Nuwara Eliya
-
-*2024-01-27 12:31:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுவரெலியாவில்-உச்சம்-தொடும்-மரக்கறிகளின்-விலைகள்/175-332174) · `ta`
-
-The total price of vegetables added to carrots and top foods in the Nuwara Eliya Economic Center market has occurred.
-
-The hike in the Purchasing and Sale Price list issued by the Nuwara Eliya Economic Center office this morning (27).
-
-Accordingly, the total sales price is worth Rs 3,700, the Red Goa is Rs 3,700, the Pulkolin 4,000 rupees, the leaf 3,000 rupees and the Iberg.
-
-At the same time, the total sales price of vegetables that are being transported to the markets from Nuwara Eliya have been announced.
-
-◼️
-
-[Data](articles/d59fea9b.json)
-
-[Extended Data](ext_articles/d59fea9b.ext.json)
 
 ---

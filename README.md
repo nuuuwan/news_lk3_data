@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 23:32:52**
+As of **2024-01-28 23:50:57**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,139 (100.0%) of 3,140 articles have been extended.
+3,140 (100.0%) of 3,140 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ There are some 3,000 US soldiers stationed at various bases in Jordan, which bor
 ...
 
 [Data](articles/0604f055.json)
+
+[Extended Data](ext_articles/0604f055.ext.json)
 
 ---
 

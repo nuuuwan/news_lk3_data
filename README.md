@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 22:33:34**
+As of **2024-01-28 22:50:21**
 
 ## Newspaper Stats
 
-*Scraped **3,133** Articles*
+*Scraped **3,135** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,48 @@ adalk | 287
 adaderanasinhalalk | 321
 virakesarilk | 330
 tamilmirrorlk | 394
-adaderanalk | 407
+adaderanalk | 409
 dailymirrorlk | 430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,132 (100.0%) of 3,133 articles have been extended.
+3,133 (99.9%) of 3,135 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### UN urges reversal of funding pause for Palestinian agency, promises staff accountability
+
+*2024-01-28 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96809/un-urges-reversal-of-funding-pause-for-palestinian-agency-promises-staff-accountability) · `en`
+
+U.N. officials implored countries to reconsider a pause in funding for the U.N. agency for Palestinians on Sunday, vowing that any staff found to be involved in Hamas’ attack on Israel would be punished and warning that aid for some two million people in Gaza was at stake.
+
+At least nine countries, including top donors the U.S. and Germany, have paused funding for the U.N. refugee agency for Palestinians (UNRWA) following allegations by Israel that a dozen of its 13,000 staff in Gaza were involved in the Oct. 7 rampage.
+
+“While I understand their concerns – I was myself horrified by these accusations - I strongly appeal to the governments that have suspended their contributions to, at least, guarantee the continuity of UNRWA’s operations,” U.N. Secretary-General Antonio Guterres said on Sunday, vowing to hold to account “any U.N. employee involved in acts of terror”.
+
+...
+
+[Data](articles/9ac35a5e.json)
+
+---
+
+### Fatal van-lorry collision claims one life, injures five others
+
+*2024-01-28 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96808/fatal-van-lorry-collision-claims-one-life-injures-five-others-) · `en`
+
+One person was reported dead while five others have been admitted for medical treatment following an accident along the Sella-Kataragama road, police stated.
+
+According to police, a van and a lorry had collided along the Sella-Kataragama road this evening (28 Jan.).
+
+◼️
+
+[Data](articles/4a88294a.json)
+
+---
 
 ### Jagath Manuwarna wins ‘Best Director’ at Dhaka International Film Festival
 
@@ -52,17 +82,19 @@ The DIFF was held from 20 – 28 January, under the theme ‘Better Film, Better
 
 ---
 
-### කතරගම බිහිසුණු අනතුරක්
+### Kataragama terrible accident
 
 *2024-01-28 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192672) · `si`
 
-කතරගම-සෙල්ලකතරගම මාර්ගයේදී ලොරි රථයක් සහ වෑන් රථයක් ගැටීමෙන් සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+A lorry and a van collided with a lorry and a van at Kataragama.
 
-පොලීසිය වැඩිදුරටත් පැවසුවේ අනතුරින් තුවාල ලැබූ පුද්ගලයින් පිරිසක් රෝහල්ගතකර ඇති බවය.
+Police further stated that a group of people were injured in the accident.
 
 ◼️
 
 [Data](articles/ed5d877a.json)
+
+[Extended Data](ext_articles/ed5d877a.ext.json)
 
 ---
 
@@ -1935,41 +1967,5 @@ However, with the allegations of the activities of the Hamas Organization, nine 
 [Data](articles/bcf680af.json)
 
 [Extended Data](ext_articles/bcf680af.ext.json)
-
----
-
-### Ceremonial Backup Act is against democracy
-
-*2024-01-28 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/174964) · `ta`
-
-The passage of the Ceremony Bill Bill is a massive attack on Sri Lanka's human rights. This law is a new weapon that the government can use to suppress freedom of expression and to suppress disagreements.
-
-The Amnesty International has urged Sri Lanka to ensure that the Ceremony Backup Act is immediately repeated and the human rights of all in the country are honored.
-
-◼️
-
-[Data](articles/1562bed5.json)
-
-[Extended Data](ext_articles/1562bed5.ext.json)
-
----
-
-### Enhanced scholarship allowance announced
-
-*2024-01-28 11:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Enhanced-scholarship-allowance-announced/108-275832) · `en`
-
-Colombo, Jan 28 (Daily Mirror) - The President's Fund, under the auspices of the President and the guidance of the Secretary to the President, announced the extension and enhancement of the scholarship programme for the year 2021/2022, the President Media Division (PMD) said.
-
-While issuing a statement they said this initiative aims to identify and support financially-challenged students across all provinces of Sri Lanka, ensuring they have the means to pursue their education without hindrance.
-
-In response to special requests from students, the President has decided to increase the existing monthly allowance of Rs. 5,000.00 to Rs. 6,000.00, effective February 2024.
-
-This adjustment seeks to provide additional support to scholarship awardees, ensuring their financial well-being and uninterrupted learning until they sit for the G.C.E A/L examination. So far, 10 monthly instalments have been paid out.
-
-...
-
-[Data](articles/2073e8a9.json)
-
-[Extended Data](ext_articles/2073e8a9.ext.json)
 
 ---

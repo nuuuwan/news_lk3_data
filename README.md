@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 11:17:24**
+As of **2024-01-28 11:32:44**
 
 ## Newspaper Stats
 
-*Scraped **3,012** Articles*
+*Scraped **3,014** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,9 +13,9 @@ bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 170
 islandlk | 174
-newsfirstlk | 178
+newsfirstlk | 179
 dailyftlk | 215
-adalk | 272
+adalk | 273
 adaderanasinhalalk | 301
 virakesarilk | 305
 tamilmirrorlk | 379
@@ -26,23 +26,45 @@ dailymirrorlk | 409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,009 (99.9%) of 3,012 articles have been extended.
+3,012 (99.9%) of 3,014 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### ලොරෙන්සෝ පුතා 4 නිදහස් කර ගැනීම සඳහා සහාය ඉල්ලයි
+### Lorencso demands support to release 4
 
 *2024-01-28 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192651) · `si`
 
-සෝමාලියානු මුහුදු මංකොල්ලකරුවන් විසින් පැහැරගත් 'ලොරෙන්සෝ පුතා 4' ශ්‍රී ලංකා ට්‍රෝලර් යාත්‍රාව නිදහස් කර ගැනීම සඳහා ශ්‍රී ලංකා නාවික හමුදාව, බහරේනයේ ත්‍රස්ත මර්දන කටයුතුවල නිරත ඒකාබද්ධ නාවික හමුදාවේ සහාය ඉල්ලා තිබේ.
+The Sri Lanka Navy has requested the Joint Navy to exempt the Sri Lanka Traroler vessel to be abducted by Somali sea robbery.
 
-අරාබි මුහුදේ දී සෝමාලියානු මුහුදු මංකොල්ලකරුවන් විසින් මෙම යාත්‍රාව පැහැරගත් අතර, එහි කාර්‍ය මණ්ඩල සාමාජිකයන් 06 දෙනෙකු ද සිටි බව සඳහන් ය.
+The vessel was abducted by Somali sea robbery at the Arabian Sea and had six staff members.
 
 ◼️
 
 [Data](articles/3d6ef466.json)
+
+[Extended Data](ext_articles/3d6ef466.ext.json)
+
+---
+
+### Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
+
+*2024-01-28 10:42:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/sri-lanka-asks-combined-maritime-forces-to-probe-hijacked-boat/) · `en`
+
+COLOMBO (News 1st); A Sri Lankan fishing vessel, "Lorenzo Putha 4," has been captured by Somali pirates in international waters near Seychelles.
+
+The Sri Lanka Navy has informed the Combined Maritime Forces (CMF) in Bahrain, a multinational naval partnership with 39 member countries dedicated to maritime security, to launch an investigation into the incident.
+
+Naval Spokesman Captain Gayan Wickramasuriya confirmed the notification to CMF and added that countries with advanced naval technology are also being briefed on the situation.
+
+Director General of Fisheries Susantha Kahawatta stated that all relevant Sri Lankan departments have been alerted and are closely monitoring the developments.
+
+The hijacking reportedly occurred after January 12th, when "Lorenzo Putha 4" set sail from the port of Dikovita. The details of the crew and their current condition remain unclear.
+
+...
+
+[Data](articles/c75ef8fb.json)
 
 ---
 
@@ -66,23 +88,27 @@ Moreover, the department said trains had carried passengers at the time of each 
 
 [Data](articles/22be5646.json)
 
+[Extended Data](ext_articles/22be5646.ext.json)
+
 ---
 
-### ලාංකේය ධීවරයන් 13 දෙනෙකු මාලදිවයිනේ දී අත්අඩංගුවට
+### 13 fishermen arrested in Maldives
 
 *2024-01-28 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192650) · `si`
 
-මාලදිවයින් මුහුදු ප්‍රදේශයේ නීතිවිරෝධී ලෙස ධීවර කටයුතුවල යෙදුණු ශ්‍රී ලාංකික ධීවරයන් රැගත් ධීවර බෝට්ටු 02ක් එරට වෙරළාරක්ෂක බළකාය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+Two fishing boats carrying Sri Lankan fishermen have been arrested by the Ceylon Coast Guard.
 
-එම එක් යාත්‍රාවක සිටි ධීවරයන් හත් දෙනෙකු සහ අනෙක් යාත්‍රාවේ සිටි ධීවරයන් හය දෙනෙකු වෙරළාරක්ෂක බළකාය විසින් අත්අඩංගුවට ගෙන ඇත.
+Seven fishermen and six fishermen in the other boil have been arrested by the Coast Guard.
 
-මෙම යාත්‍රා දෙක දැනට 'Haa Alif Filladhoo' වරායේ නැංගුරම් ලා ඇති වෙරළාරක්ෂක බළකායට අයත් Nooraddeen නැව භාරයේ තබා ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+Foreign media reports that the two vessels have placed the NOORADDEEN owned by the Coast Guard, anchored at Haa Aliff Filladhoo.
 
-මාලදිවයින් මුහුදේ ඉන්දීය සහ ශ්‍රී ලංකා ධීවර යාත්‍රා නීතිවිරෝධී ලෙස මසුන් ඇල්ලීම බහුල ව දක්නට ලැබෙන තත්ත්වයකි.
+Indian and Sri Lankan fishing vessels in the Maldives are illegally fishing.
 
 ◼️
 
 [Data](articles/69b2d252.json)
+
+[Extended Data](ext_articles/69b2d252.ext.json)
 
 ---
 
@@ -311,6 +337,24 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 [Data](articles/287b0d53.json)
 
 [Extended Data](ext_articles/287b0d53.ext.json)
+
+---
+
+### ලිට්‍රෝ ගෑස් සමාගමෙන් තවත් බිලියන 1.5ක් මහා භාණ්ඩාගාරයට
+
+*2024-01-28 09:16:35* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-සමාගමෙන්-තවත්-බිලියන-1-5ක්-මහා-භාණ්ඩාගාරයට/11-407747) · `si`
+
+ලිට්‍රෝ ගෑස් සමාගමේ 2023 වසරේ ලාභයෙන් රුපියල් බිලියන 1.5ක මුදලක් රාජ්‍ය භාණ්ඩාගාරයට ලබා දීම සඳහා එම සමාගමේ මව් සමාගම වන ශ්‍රී ලංකා රක්ෂණ සංස්ථාවට භාරදීම ජනාධිපති කාර්යාලයේදී සිදු කෙරිණි.
+
+අදාළ චෙක්පත ලිට්‍රෝ ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා විසින් ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක මහතා වෙත නිල වශයෙන් භාර දුන් අතර, සාගල රත්නායක මහතා විසින් ශ්‍රී ලංකා රක්ෂණ සමාගමේ ප්‍රධාන මූල්‍ය නිලධාරීනී ශ්‍රියානි කුලසිංහ මහත්මිය වෙත එම චෙක් පත භාරදෙන ලදී.
+
+ආර්ථිකමය වශයෙන් රට අසීරු තත්ත්වයකට පත්ව සිටියදී වුවද ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ මගපෙන්වීමෙන් සහ සාගල රත්නායක මහතාගේ සහයෝගය මත ලිට්‍රෝ ගෑස් සමාගම ඉහළ වර්ධනයක් කරා ළඟා වී ඇති බවත් එහි ප්‍රතිලාභ නැවතත් රජයට ලබාදීමට හැකිවීම පිළිබඳව සතුටට පත්වන බවත් ලිට්‍රෝ ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා මෙහිදී සඳහන් කළේය.
+
+ලිට්‍රෝ සමාගම 2023 වසරේ පමණක් රුපියල් බිලියන 03ක් ලාභාංශ වශයෙන් මහා භාණ්ඩාගාරයට වෙත යොමු කර ඇති බවද මුදිත පිරිස් මහතා වැඩිදුරටත් පැවසීය.
+
+◼️
+
+[Data](articles/f6ef1d03.json)
 
 ---
 
@@ -544,6 +588,8 @@ The vessel, which set sail from Dikovita port on January 12th, was hijacked in i
 
 Despite the communication breakdown,  Kahawatta assured the that "all measures are being taken" to secure the safe return of the fishermen.
 
+Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
+
 Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
 ◼️
@@ -588,6 +634,8 @@ The service was previously suspended due to various internal circumstances in Sr
 
 However, with renewed efforts and approval from the Indian government, the ferry's return opens up a new chapter in bilateral connectivity, and it will be possible to travel to India at a low cost.
 
+Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
+
 Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
 ◼️
@@ -624,6 +672,8 @@ Traffic is currently restricted to one lane, with vehicles travelling in both di
 
 According to the Director of Expressway Maintenance and Management Unit R.A.D. Kahatapitiya, crews are working to remove the overturned lorry and restore full access to the expressway as soon as possible.
 
+Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
+
 Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
 ◼️
@@ -643,6 +693,8 @@ COLOMBO (News 1st); The Public Utilities Commission (PUCSL) announced hat the pu
 This comes in addition to the ongoing written submission period, which ends on February 12th.
 
 The proposed electricity tariff revision proposal was submitted to the PUCSL by the Ceylon Electricity Board (CEB) in recent weeks.
+
+Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
 Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
@@ -711,6 +763,8 @@ COLOMBO (News 1st); Sri Lankan authorities confirmed that a group of six fisherm
 The Sri Lankan Navy received information on Saturday (27) about the capture of the fishing vessel, which had set sail from Dikowita port recently.
 
 Navy Spokesperson Captain Gayan Wickramasuriya stated that based on preliminary reports, pirates intercepted the fishing vessel carrying six Sri Lankan fishermen in the Indian Ocean north of Seychelles
+
+Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
 Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
@@ -1987,45 +2041,5 @@ The suspect was present in 2008 as Maharagama Ratana Thera in 2008, since then h
 [Data](articles/0e928bd6.json)
 
 [Extended Data](ext_articles/0e928bd6.ext.json)
-
----
-
-### Is the genocide in Gaza?What is the main judgment given by the International Court of Justice?
-
-*2024-01-27 13:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/174913) · `ta`
-
-The International Court of Justice has ordered Israel to take measures to prevent the genocide of Gaza.
-
-The International Court of Justice has issued a petition filed by South Africa to claim Israeli genocide.
-
-Judge Jondonoku said Israel should take steps to prevent all the proceedings of the genocide.
-
-He has also ordered the prevention of Israeli soldiers to stop engaging in genocide.
-
-However, the court did not order Israeli to stop its military actions in Israeli Gaza, according to South Africa.
-
-The judges have revealed that the Palestinians are facing the danger of genocide, despite the fact that this is not the final decision of the court on Israel.
-
-◼️
-
-[Data](articles/25e0732b.json)
-
-[Extended Data](ext_articles/25e0732b.ext.json)
-
----
-
-### Special traffic plan in Colombo
-
-*2024-01-27 12:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192620) · `si`
-
-The vehicle police announced that a special traffic plan in Colombo will be implemented from the 29th to February 29th to February 29th.
-
-Speaking to a press conference held in the Police Media Division in the Police Media Division, DIG Indika Hapugoda was speaking.
-
-◼️
-
-[Data](articles/027eb806.json)
-
-[Extended Data](ext_articles/027eb806.ext.json)
 
 ---

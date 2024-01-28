@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 13:33:42**
+As of **2024-01-28 13:51:45**
 
 ## Newspaper Stats
 
-*Scraped **3,047** Articles*
+*Scraped **3,049** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 174
 newsfirstlk | 181
 dailyftlk | 215
 adalk | 275
-adaderanasinhalalk | 304
+adaderanasinhalalk | 306
 virakesarilk | 315
 tamilmirrorlk | 385
 adaderanalk | 393
@@ -26,43 +26,83 @@ dailymirrorlk | 414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,045 (99.9%) of 3,047 articles have been extended.
+3,047 (99.9%) of 3,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### හිංසනයන් දැනුම්දෙන්න ටිරාන්ගෙන් අංකයක්
+### කන්දකාඩුවේ ගැටුම් විසඳීමට කඩිනම් වැඩපිළිවෙළක්
+
+*2024-01-28 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192656) · `si`
+
+කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ නිරන්තරයෙන් හටගන්නා ගැටුම්කාරී සිදුවීම් පාලනය කිරීමට කඩිනම් වැඩපිළිවෙළක් ක්‍රියාත්මක කරන බව පුනරුත්ථාපන කොමසාරිස් ජනරාල් මේජර් ජෙනරාල් දර්ශන හෙට්ටිආරච්චි මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ, අදාළ ගැටුම්වලට ප්‍රධානතම හේතුව මත්ද්‍රව්‍ය ජාවාරම්කරුවන් ද පුනරුත්ථාපන මධ්‍යස්ථන වෙත ඇතුළත්ව සිටීම බවයි.
+
+ජනවාරි මාසය තුළ අවස්ථා දෙකක දී කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ රැඳවියන් අතර ගැටුම්කාරී සිදුවීම් වාර්තා විය.
+
+අදාළ තත්ත්වයන් මේ වන විට පාලනය කිරීමට හැකියාව ලැබී ඇති නමුත් මේ සඳහා දීර්ඝ කාලීන විසඳුමක් අවශ්‍ය වී ඇති බව පුනරුත්ථාපන කොමසාරිස් ජනරාල් මේජර් ජනරාල් දර්ශන හෙට්ටිආරච්චි මහතා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/da6c5321.json)
+
+---
+
+### ක්‍රිකට් තහනම ඉවත් වන ලකුණු
+
+*2024-01-28 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192655) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ශ්‍රී ලංකා ක්‍රිකට් වෙත පනවා තිබෙන තහනම ඉදිරි දින කිහිපය තුළ දී ඉවත් කරනු ඇතැයි තමන් විශ්වාස කරන බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+
+වත්තල දී මාධ්‍යය වෙත අදහස් දක්වමින් අමාත්‍යවරයා මේ බව සඳහන් කළේ ය.
+
+◼️
+
+[Data](articles/24ef79a8.json)
+
+---
+
+### Violence A Notification Tiran
 
 *2024-01-28 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192654) · `si`
 
-මෙරට කාන්තා හිංසනය තුරන් කිරීමේ විශේෂ වැඩපිළිවෙළක් යුක්තිය මෙහෙයුමට සමගාමී ව ක්‍රියාත්මක කරන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+According to the Minister of Defense Minister Tiran Alles, a special program to eliminate women's violence in Sri Lanka is implemented in line with the operation.
 
-අමාත්‍යවරයා මේ බව සඳහන් කළේ වේයන්ගොඩ පොලිස් වසමේ ප්‍රජා පොලිස් කමිටු සාමාජිකයින් දැනුවත් කිරීමේ අවස්ථාවට එක් වෙමිනි.
+The Minister made this observation at the time of awareness of the Community Police Committee members of the Veyangoda Police Division.
 
-මත්ද්‍රව්‍ය සහ පාතාල ක්‍රියාකාරකම් මැඩපැවැත්වීමේ යුක්තිය වැඩසටහනට සමගාමීව පැවැත්වෙන ප්‍රජා පොලිස් කමිටු සාමාජිකයින් දැනුම්වත් කිරීමේ තවත් අදියරක් වේයන්ගොඩ පොලිස් වසම කේන්ද්‍රකර ගනිමින් පැවැත්විණි.
+Another phase of the community police committee members in order to the celebration of the Narcotics and Underworld activities was held at the Veyangoda Police Division.
 
-ඒ, මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් සහ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් යන මහත්වරුන්ගේ ප්‍රධානත්වයෙනි.
+This is the main function of People's Defense Minister Tiran Alles and Acting Inspiry Tennakoon.
 
 ...
 
 [Data](articles/17a09309.json)
 
+[Extended Data](ext_articles/17a09309.ext.json)
+
 ---
 
-### ஜனாதிபதி நிதியத்தினால் வழங்கப்படும் புலமைப்பரிசில் தொகை அதிகரிப்பு!
+### Increase in scholarship amount paid by presidential funds!
 
 *2024-01-28 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174979) · `ta`
 
-2021 (2022) ஆம் ஆண்டில் க.பொ.த சாதாரண தரப் பரீட்சைக்கு முதன் முறையாக தோற்றி ஒரே தடவையில் சித்தியடைந்து 2024 ஆம் ஆண்டில் க.பொ.த உயர்தரப் பரீட்சைக்குத் தோற்றவுள்ள, பொருளாதார பிரச்சினைகளை எதிர்கொண்டுள்ள மாணவர்களுக்கு வழங்கப்படும் புலமைப்பரிசில் கொடுப்பனவை 2024 பெப்ரவரி மாதம் முதல் ஆயிரம் ரூபாவினால் அதிகரிக்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க பணிப்புரை விடுத்துள்ளார்.
+President Ranil Wickremesinghe to increase the GCE Ordinary Level Examination in 2021 (2022) to increase the GCE Advanced Level Examination in 2024 and to increase scholarships to the students who have been facing economic issues in 2024 to increase the GCE Advanced Level Examination in 2024.Released.
 
-மாணவ, மாணவிகளின் கோரிக்கை தொடர்பில் கவனம் செலுத்திய நிலையில் ஜனாதிபதி ரணில் விகரமசிங்க இந்த பணிப்புரையை விடுத்துள்ளார்.
+President Ranil Vikramasinghe has issued this directive as he focused on the demand of the student and the students.
 
-இலங்கையின் அனைத்துப் பகுதிகளிலும் வாழும், கற்கும் திறன் கொண்ட, ஆனால் பொருளாதாரச் சிரமங்களுள்ள  மாணவர்களை இனங்கண்டு அவர்களின் எதிர்காலத்தை   மேம்படுத்தும் வகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரையின் பிரகாரம் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவின் வழிகாட்டலின் கீழ் ஜனாதிபதி நிதியம் இந்த புலமைப்பரிசில் திட்டத்தை நடைமுறைப்படுத்துகிறது.
+The Presidential Fund is implementing the scholarship program under the guidance of President Ranil Wickremesinghe, who is capable of living, learned, but economic difficulties in all parts of Sri Lanka.
+
+Under the Scholarship Scheme for 2021/2022, the President's Fund has been paid a monthly payment of Rs.
+
+Accordingly, with the increase in scholarships, from February 2024 to the GCE Advanced Level Examination, a monthly scholarship will be given from the President's Fund in the first week every month.
 
 ...
 
 [Data](articles/2915758f.json)
+
+[Extended Data](ext_articles/2915758f.ext.json)
 
 ---
 
@@ -1991,49 +2031,5 @@ The remarks came during an evening reception hosted by Mr. Jha at India House in
 [Data](articles/ab256253.json)
 
 [Extended Data](ext_articles/ab256253.ext.json)
-
----
-
-### Somali pirates abduct Sri Lankan fishing trawler with 6 crew members
-
-*2024-01-27 18:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96776/-somali-pirates-abduct-sri-lankan-fishing-trawler-with-6-crew-members) · `en`
-
-A Sri Lankan multi-day fishing trawler, with 6 crew members aboard, has reportedly been abducted by Somali pirates, the Department of Fisheries confirmed.
-
-According to a spokesperson from the department, the fishing trawler, along with several Sri Lankan fishermen, had been kidnapped by the pirates in the Arabian Sea.
-
-The “Lorenzo Putha - 4” multi-day fishing trawler had set sail from Dikowita fishing harbor in Chilaw on January 12.
-
-The abduction has happened approximately 1,160 nautical miles away from the Sri Lankan maritime boundary.
-
-The authorities stated that necessary measures are being taken to rescue the abducted fishermen.
-
-◼️
-
-[Data](articles/5ea58d72.json)
-
-[Extended Data](ext_articles/5ea58d72.ext.json)
-
----
-
-### Information about the country's fishing vessel claimed by Somali pirates
-
-*2024-01-27 18:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192632) · `si`
-
-It is reported that the Somali pirate vessel was abducted by the Somali pirates in the country.
-
-A spokesperson of the Fisheries Department said that the vessel carrying fishermen was raped at the Arabian Sea.
-
-Somali pirates have been abducted from the Fisheries Yatchera and six fishermen in Chilaw and Dickowita fisheries harbor.
-
-It is reported that the abduction has been abducted at 1160 nautical miles away from the country.
-
-Authorities stated that action is taken to rescue the abducted fishermen.
-
-◼️
-
-[Data](articles/435cab19.json)
-
-[Extended Data](ext_articles/435cab19.ext.json)
 
 ---

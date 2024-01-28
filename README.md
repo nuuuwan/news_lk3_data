@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 18:50:26**
+As of **2024-01-28 19:02:23**
 
 ## Newspaper Stats
 
-*Scraped **3,091** Articles*
+*Scraped **3,099** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,10 +15,10 @@ economynextcom | 172
 islandlk | 174
 newsfirstlk | 183
 dailyftlk | 215
-adalk | 282
-adaderanasinhalalk | 312
+adalk | 283
+adaderanasinhalalk | 315
 virakesarilk | 321
-tamilmirrorlk | 389
+tamilmirrorlk | 393
 adaderanalk | 399
 dailymirrorlk | 424
 
@@ -26,11 +26,81 @@ dailymirrorlk | 424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,091 (100.0%) of 3,091 articles have been extended.
+3,091 (99.7%) of 3,099 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### இறுதி கிரியைகளுக்கு விசேட பொலிஸ் பாதுகாப்பு
+
+*2024-01-28 18:27:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதி-கிரியைகளுக்கு-விசேட-பொலிஸ்-பாதுகாப்பு/175-332234) · `ta`
+
+மறைந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்த பெரேராவின் இறுதி சடங்குகளின் போது பாதுகாப்பு வழங்குவதற்காக 380 பேர் கொண்ட விசேட பொலிஸ் குழுவொன்று ஈடுபடுத்தப்பட்டுள்ளது.
+
+இறுதிச் சடங்கில் அமைச்சர்கள், பாராளுமன்ற உறுப்பினர்கள், பிரமுகர்கள் உள்ளிட்ட ஏராளமானோர் கலந்துகொள்வார்கள் என எதிர்பார்க்கப்பட்டதால் அப்பகுதியில் பாதுகாப்பை பலப்படுத்த நடவடிக்கை எடுக்கப்பட்டதாக உயர் பொலிஸ் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+வடமேல் மாகாணத்தில் உள்ள பொலிஸ் நிலையங்களின் உத்தியோகத்தர்களை உள்ளடக்கிய பொலிஸ் குழு பாதுகாப்பில் ஈடுபடுவதாக அவர் கூறினார்.
+
+◼️
+
+[Data](articles/301517b6.json)
+
+---
+
+### චිත්‍රපට දුම්රිය පීලිපනී
+
+*2024-01-28 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192666) · `si`
+
+කොටගල හා හැටන් දුම්රිය ස්ථාන අතර දී විශේෂ දුම්රියක් පීලි පැනීම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ගමනාගමනයට බාධා එල්ලවී තිබේ.
+
+මෙලෙස පීලි පැනීමට ලක්ව ඇත්තේ විදෙස් රටක චිත්‍රපටයක් රූගත කිරීම සඳහා ලබා දී ඇති දුම්රියකි.
+
+විශේෂ අවසරයක් යටතේ අදාළ චිත්‍රපටය රූගත කිරීම සඳහා දුම්රිය දෙපාර්තමේන්තුව විසින් ජනවාරි 24 සිට 29 වනදා දක්වා මෙම මැදිරි 6ක විශේෂ දුම්රිය සපයා ඇත.
+
+කොටස් වශයෙන් සිදුකර ඇති අදාළ රූගත කිරීම් අවසන් කර අද කොළඹ බලා නැවත ධාවනය වෙමින් තිබියදී එම දුම්රිය මෙලෙස පීලි පැනීමකට ලක්ව තිබේ.
+
+◼️
+
+[Data](articles/dc62bc47.json)
+
+---
+
+### වඳින්න ගිය දේවාලේ ඉහේ කඩන් වැටුණු හැටි
+
+*2024-01-28 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192665) · `si`
+
+ඉන්දියාවේ කෝවිලක සිදුවූ අනතුරකින් කාන්තාවක් මියගොස් තවත් 17කට ආසන්න පිරිසක් තුවාල ලබා තිබේ.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ දිල්ලියේ Kalkaji නම් කෝවිලක මෙම අනතුර සිදුව ඇති බවය.
+
+එහිදී කෝවිලේ පැවති ආගමික ප්‍රසංගයක් අතරතුරදී එහි වේදිකාව බැතිමතුන් මතට කඩා වැටී මෙම අනතුර සිදුව තිබුණි.
+
+මේ අතර සිද්ධිය සම්බන්ධයෙන් පසුව විශේෂ විමර්ශනයක් ආරම්භ කර ඇති අතර එහිදී අනාවරණය වී ඇත්තේ මේ සඳහා නිසි අවසරයක් පවා ලබාගෙන නොමැති බවය.
+
+විදෙස් මාධ්‍ය වාර්තා කර ඇත්තේ මෙම ආගමික ප්‍රසංගය සඳහා ආසන්න වශයෙන් 1,600ක පමණ පිරිසක් එක්ව සිට ඇති බවය.
+
+◼️
+
+[Data](articles/8f7d3ce3.json)
+
+---
+
+### கூடாத உறவுக்கு ரூ.40,000 சம்பளம்: ‘படோவிட ஆஷா’ கைது
+
+*2024-01-28 18:06:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூடாத-உறவுக்கு-ரூ-40-000-சம்பளம்-படோவிட-ஆஷா-கைது/175-332232) · `ta`
+
+சிறைக்காவரின் பெயரில்,​ பொரலஸ்கமுவ பிரிவென வீதியில் உள்ள வீட்டுத்தொகுதியில் அதிசொகுசு வீடொன்றை வாடகை அடிப்படையில் பெற்று. சிறைக்காவலருடன் இணைந்து ஹெரோய்ன் போதைப்பொருளை விற்பனையில் ஈடுபட்ட பெருந்தொகை போதைப்பொருள் விற்பனையாளரான ‘படோவிட ஆஷா’ என்ற பெண் கைது செய்யப்பட்டுள்ளார் என பாணந்துறை வலன மத்திய ஊழல் எதிர்ப்பு செயலணி தெரிவித்துள்ளது.
+
+சந்தேகநபரான அந்த பெண்ணின் வீட்டிலிருந்து 5 இலட்சம் ரூபாய் பெறுமதியான 4054 மில்லிகிராம் ஹெரோய்ன் போதைப்பொருள், போதைப்பொருள் விற்பனைச் செய்ததன் ஊடாக திரட்டிய 40,700 ரூபாய் பணம் என்பன கைப்பற்றப்பட்டுள்ளன.
+
+டுபாயில் தலைமறைவாகியிருக்கும் பெரும் போதைப்பொருள் வர்த்தகத்தில் ஈடுபடும் ‘மர்வின் ஜனா’ என்பவரின் ஊடாக பெற்றுக்கொள்ளப்படும் போதைப்பொருளையே இப்பெண் விற்பனைச் செய்துவந்துள்ளார்.
+
+...
+
+[Data](articles/cbf99986.json)
+
+---
 
 ### Italian Jannik Sinner beats Daniil Medvedev in the Australian Open final to win his first Grand Slam title
 
@@ -74,11 +144,29 @@ Taking to ‘X’ (formerly Twitter), the Minister revealed that the first unit 
 
 ---
 
+### ලෝ ප්‍රකට සිතුවමට ප්‍රහාරයක්
+
+*2024-01-28 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192664) · `si`
+
+ලියනාඩෝ ඩාවින්චි අතින් සිත්තම් කෙරුණු ලෝ ප්‍රකට මෝනාලීසා සිතුවමට සුප් බඳුනකින් දමා ගසා තිබේ.
+
+ප්‍රංශයේ ලූවර් කෞතුකාගාරයේ ඇති සිතුවමට මෙම ප්‍රහාරය එල්ල කර තිබුණේ ආහාර සුරක්ෂිතතාව සම්බන්ධ වැකි පළකළ විරෝධතාකරුවන් දෙදෙනෙකි.
+
+ප්‍රංශ මාධ්‍ය වාර්තා කළේ වෙඩි නොවදින වීදුරු ආවරණයක ආරක්ෂාව ඇති නිසා සිතුවමට හානියක් විය නොහැකි බවය.
+
+16 වැනි සියවසට අයත් මේ සිතුවම ලොව වැඩිම ජන ප්‍රසාදයට ලක්වූ සිතුවම ලෙස සැළකෙයි.
+
+◼️
+
+[Data](articles/484b0afc.json)
+
+---
+
 ### Rail freight rates to increase from February
 
 *2024-01-28 18:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rail-freight-rates-to-increase-from-February/108-275846) · `en`
 
-A gazette notification was issued today by the Transport Ministry amending the transport charges of parcels, goods, livestock etc. via train with effect from February 1.
+A gazette notification was issued today by the Transport Ministry amending the transport charges of parcels, goods, livestock, etc. via train with effect from February 1.
 
 The amendments were made according to the Railways Ordinance (Chapter 200) with the concurrence of Finance Minister Bandula Gunawardana.
 
@@ -151,6 +239,28 @@ According to the Department, charges for railway freight services will be increa
 [Data](articles/1755e041.json)
 
 [Extended Data](ext_articles/1755e041.ext.json)
+
+---
+
+### டயகமவில் திடீரென குதித்தார் திகா
+
+*2024-01-28 17:36:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/டயகமவில்-திடீரென-குதித்தார்-திகா/76-332231) · `ta`
+
+நுவரெலியா மாவட்டத்தில் தலவாக்கலை- டயகம நகரில் ஞாயிற்றுக்கிழமை (28) பாரிய ஆர்ப்பாட்டம் முன்​னெடுக்கப்பட்டது.
+
+தோட்டத் தொழிலாளர்களின் சம்பள உயர்வைக் கோரி தமிழ் முற்போக்குக் கூட்டணி டயகம நகரில் ஆர்ப்பாட்டத்தில் ஈடுபட்டது.
+
+நாட்டில் தற்போதைய வாழ்க்கைச் செலவுக்கு ஏற்ப தோட்டத் தொழிலாளி ஒருவரின் நாளாந்த சம்பளத்தை அதிகரிக்குமாறு கோரி தமிழ் முற்போக்குக் கூட்டணியினர் டயகம நகரில் இன்று (28) பிற்பகல் ஆர்ப்பாட்டம் ஒன்றை நடத்தினர்.
+
+தமிழ் முற்போக்குக் கூட்டணியின் நுவரெலியா மாவட்ட பிரதித் தலைவரும் பாராளுமன்ற உறுப்பினருமான பி.ஏ.பழனி திகாம்பரம்,  பாராளுமன்ற உறுப்பினர் எஸ்.உதயகுமார் ஆகியோர் தலைமையில் இந்தப் போராட்டம் நடைபெற்றது.
+
+இந்த போராட்டத்தில் கருத்து தெரிவித்த  பழனி திகாம்பரம், தோட்ட தொழிலாளி ஒருவரின் நாளாந்த சம்பளத்தை 1,750 ரூபாயாக அதிகரிக்குமாறு ஜனாதிபதி ரணில் விக்கிரமசிங்க தோட்ட நிறுவனங்களுக்கு ஆலோசனை வழங்கிய போதும் இதுவரை சம்பளம் கிடைக்கவில்லை.
+
+நாட்டின் வாழ்க்கைச் செலவுக்கு ஏற்ப தோட்டத் தொழிலாளி ஒருவரின் நாளாந்த சம்பளம் இரண்டாயிரம் ரூபாவாக அதிகரிக்கப்பட வேண்டுமென  பழனி திகாம்பரம் தெரிவித்தார்.
+
+...
+
+[Data](articles/66d9b348.json)
 
 ---
 
@@ -488,6 +598,24 @@ The arrested Eros was produced before the Kahadagastikiliya Magistrate on Sunday
 
 ---
 
+### பிரமிட்டில் ரூ.500 கோடி  மோசடி; பஸ்நாயக்க, நடிகைக்கு விளக்கமறியல்
+
+*2024-01-28 15:07:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமிட்டில்-ரூ-500-கோடி-மோசடி-பஸ்நாயக்க-நடிகைக்கு-விளக்கமறியல்/175-332228) · `ta`
+
+‘டிரேட்வின்’ எனும் பெயரில் பிரமிட் முறைமையின் ஊடாக வர்த்தக நடவடிக்கையை முன்னெடுத்து, அதில் பணத்தை வைப்பிலிடும் வைப்பாளர்களின் பணத்தில் 500 கோடி ரூபாவை மோசடி செய்தார என்றக் குற்றஞ்சாட்டில் குற்றப் புலனாய்வுத் திணைக்களத்தின் சட்டவிரோத சொத்துக்கள் தொடர்பான விசாரணைப் பிரிவின் வலையமைப்பு விசாரணைப் பிரிவினரால் ஒருவர்  கைது செய்யப்பட்டுள்ளார்.
+
+கடந்த மூன்று வருடங்களாக தலைமறைவாக வாழ்ந்து வந்தவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார். பிலிமத்தலாவை பிரதேசத்தில் மறைந்திருந்த போதே இவர் கைது செய்யப்பட்டார் என்று அந்த வலையமைப்பின் விசாரணைப் பிரிவு அறிவித்துள்ளது.
+
+சந்தேகநபர் பட்டத்தாரி ஆசிரியராக இருந்துள்ளார். அத்துடன் தென் மாகாணத்தில் உள்ள பிரதான விஹாரை ஒன்றில் பஸ்நாயக்க நிலமேயாகவும் பணியாற்றியுள்ளார் என்பதும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+கைது செய்யப்பட்ட தரிந்து ஈரோஸ் வீரசேகர கஹடகஸ்திகிலிய நீதவான் முன்னிலையில் ஞாயிற்றுக்கிழமை (28) ஆஜர்படுத்தப்பட்டார். அவரை   எதிர்வரும் 05 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கஹடகஸ்திகிலிய பதில் நீதவான்   திமுத்து உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/b5fc4d7b.json)
+
+---
+
 ### Drug traffickers behind recent incidents at Kandakadu rehab centre?
 
 *2024-01-28 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96793/drug-traffickers-behind-recent-incidents-at-kandakadu-rehab-centre) · `en`
@@ -691,6 +819,20 @@ He added that these obstacles are inappropriate in the context of war migration 
 [Data](articles/3615bad7.json)
 
 [Extended Data](ext_articles/3615bad7.ext.json)
+
+---
+
+### ’’ ස්වාමීනී  ඔබතුමා ඉදිරියේ ඉන්නේ විත්තිකාරයෙක් වුණාට මගේ ඉදිරියේ ඉන්නේ මනාලයෙක්’’
+
+*2024-01-28 13:33:50* · [`adalk`](https://www.ada.lk/breaking_news/’’-ස්වාමීනී--ඔබතුමා-ඉදිරියේ-ඉන්නේ-විත්තිකාරයෙක්-වුණාට-මගේ-ඉදිරියේ-ඉන්නේ-මනාලයෙක්’’/11-407755) · `si`
+
+" ගරු ස්වාමීනී ඔබතුමා ඉදිරියේ පෙනී ඉන්නේ විත්තිකාරයෙක් වුණාට, මම පෙනී ඉන්නේ මනමාලයෙක් වෙනුවෙන්, මෙය සමාජ සංවේදී කාරණයක්  ස්වාමීනී , ඒ නිසා ගරු ස්වාමීනි මා  ගෞරවයෙන් ඉල්ලා සිටිනවා  අධිකරණයේ දැඩි අවධානය යොමු කර , සුදුසු ඇපයක් මත මේ විත්තිකරු  මුදා හරින්න කියලා."
+
+විත්ති කූඩුවේ සිටි පුද්ගලයෙක් වෙනුවෙන් නීතිඥ මහත්මයෙක් දැක්වූ අසාමාන්‍ය    කරුණු වලට පානදුර අධිකරණයේ අතිරේක  මහේස්ත්‍රාත් ලහිරු  ද  සිල්වා මහතාගේ දැඩි අවධානය වගේම  අධිකරණයේ එම මොහොතේ සිටි සැමගේම දැඩි අවධානය යොමු විය
+
+...
+
+[Data](articles/4e2c6180.json)
 
 ---
 
@@ -1895,177 +2037,5 @@ The public is requested to take adequate precautions to minimize damages caused 
 [Data](articles/7bfc0a20.json)
 
 [Extended Data](ext_articles/7bfc0a20.ext.json)
-
----
-
-### Sri Lanka - Australia match today
-
-*2024-01-28 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192647) · `si`
-
-Sri Lanka, the first round of the Under-19 World Cup, will be held today (28).
-
-The match will be played at 01.30 pm today with the Under-19 team.
-
-Sri Lanka, who compete in the 'C' category, is second in the second place in the category, while Australia is in its first place.
-
-◼️
-
-[Data](articles/def21f05.json)
-
-[Extended Data](ext_articles/def21f05.ext.json)
-
----
-
-### Icon of the Seas: World’s largest cruise ship sets sail
-
-*2024-01-28 08:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96783/icon-of-the-seas-worlds-largest-cruise-ship-sets-sail) · `en`
-
-(Reuters) - The world’s largest cruise ship is set for its maiden voyage on Saturday, but environmental groups are concerned that the liquefied natural gas-powered vessel - and other giant cruise liners to follow - will leak harmful methane into the atmosphere.
-
-Royal Caribbean International’s Icon of the Seas sets sail from Miami with capacity for 8,000 passengers across 20 decks, taking advantage of the surging popularity of cruises.
-
-The ship is built to run on liquefied natural gas (LNG), which burns more cleanly than traditional marine fuel but poses greater risks for methane emissions. Environmental groups say methane leakage from the ship’s engines is an unacceptable risk to the climate because of its short-term harmful effects.
-
-“It’s a step in the wrong direction,” said Bryan Comer, director of the Marine Program at the International Council on Clean Transportation (ICCT), an environmental policy think tank.
-
-...
-
-[Data](articles/f5137093.json)
-
-[Extended Data](ext_articles/f5137093.ext.json)
-
----
-
-### World's largest ship begins his wedding journey
-
-*2024-01-28 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192646) · `si`
-
-The world's largest tourist vessel, the world's largest tourist vessel, has begun his wedding journey.
-
-The vessel from Miami, USA, has commenced journey and will take their debate in the Carbian Islands for seven days.
-
-The ship owned by Royal Carbian consists of 365 meters and 20 stories, and it can travel to 7,600 passengers.
-
-It is reported that there are five swimming pools of this ship, which is five times the size of the Titanic.
-
-However, environmentalists have a warning that the ship has been warned by an adverse methane gas.
-
-◼️
-
-[Data](articles/acd2ca2f.json)
-
-[Extended Data](ext_articles/acd2ca2f.ext.json)
-
----
-
-### Woman killed
-
-*2024-01-28 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192645) · `si`
-
-A policewoman, a young man and another woman has died in three areas of the area.
-
-A police officer was killed in a motorcycle accident in the Mirigama road on the Mirigama road.
-
-A motorbike running towards the Mirigama to the pasyala, which is in front of it, has collided with a container to the left and returned to the left.
-
-The motorcycle has fallen on the motorcycle, and the background has been submerged from the front of the motorcycle.
-
-The victim was to be admitted to the Wathupitiwala Hospital for serious injuries.
-
-The deceased has been identified as 52-year-old police officer attached to the Warakapola Police Station from the Ambepussa area.
-
-Meanwhile, a youth has killed in an accident in the Thambala area on Palappipura-Puluwitura-Puluwithara and Lankapura.
-
-The accident has occurred when a motorcycle was on the direction in the direction.
-
-The victim was a 17 year old resident of the Algelilappura.
-
-Meanwhile, two motorbikes clash near the Mount Mary Junction of Borella - Baseline Road.
-
-...
-
-[Data](articles/70dd6578.json)
-
-[Extended Data](ext_articles/70dd6578.ext.json)
-
----
-
-### Rehaulence on 76th Independence Day
-
-*2024-01-28 08:04:35* · [`adalk`](https://www.ada.lk/breaking_news/76-වැනි-නිදහස්-දිනයට-පෙරහුරු-30-දා-ඇරඹෙයි/11-407746) · `si`
-
-Police Headquarters says that the 76th National Independence Day Festival of National Independence Day celebrations on 04.024. The rehearsal activities will be held until February 3.The rehearsal will be held at the Galle Face premises.
-
-◼️
-
-[Data](articles/12968da2.json)
-
-[Extended Data](ext_articles/12968da2.ext.json)
-
----
-
-### Showers expected in parts of the island
-
-*2024-01-28 08:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96782/showers-expected-in-parts-of-the-island) · `en`
-
-The Meteorology Department says showers will occur at times in Eastern and Uva provinces and in Polonnaruwa, Matale and Nuwara-Eliya districts.
-
-A few showers may occur in Anuradhapura, Mullaitivu and Hambantota districts, it said.
-
-Showers or thundershowers will occur at few places in Western and Sabaragamuwa provinces and in Galle, Matara and Kandy districts after 2.00 p.m.
-
-Fairly strong winds about 40 kmph can be expected at times over the Northern, North-central, Eastern, Central, Uva and Northwestern provinces and Hambantota district.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/d0ff7daf.json)
-
-[Extended Data](ext_articles/d0ff7daf.ext.json)
-
----
-
-### Icon of the Seas: World’s largest cruise ship sets sail from Miami
-
-*2024-01-28 07:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Icon-of-the-Seas-Worlds-largest-cruise-ship-sets-sail-from-Miami/108-275824) · `en`
-
-Miami, Jan 28 (BBC) - The world's largest cruise ship has set sail from Miami, Florida, on its maiden voyage, amid concerns about the vessel's methane emissions.
-
-The 365m-long (1,197 ft) Icon of the Seas has 20 decks and can house a maximum of 7,600 passengers. It is owned by Royal Caribbean Group.
-
-The vessel is going on a seven-day island-hopping voyage in the tropics.
-
-But environmentalists warn that the liquefied natural gas-powered ship will leak harmful methane into the air.
-
-"It's a step in the wrong direction," Bryan Comer, director of the Marine Programme at the International Council on Clean Transportation (ICCT), was quoted as saying by Reuters news agency.
-
-"We would estimate that using LNG as a marine fuel emits over 120% more life-cycle greenhouse gas emissions than marine gas oil," he said.
-
-Earlier this week, the ICCT released a report, arguing that methane emissions from LNG-fuelled ships were higher than current regulations assumed.
-
-...
-
-[Data](articles/a95d252e.json)
-
-[Extended Data](ext_articles/a95d252e.ext.json)
-
----
-
-### Notice of the expansion of the public service
-
-*2024-01-28 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192644) · `si`
-
-Health Minister Minister Ramesh Pathirana says that the public service cannot be expanded further.
-
-The Minister pointed out that Sri Lanka is the largest number of public servants in the world according to the population rate.
-
-Health Minister Ramesh Pathirana said this while participating at a function in Galle.
-
-◼️
-
-[Data](articles/3634dca6.json)
-
-[Extended Data](ext_articles/3634dca6.ext.json)
 
 ---

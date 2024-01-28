@@ -1,17 +1,17 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 00:32:32**
+As of **2024-01-29 00:47:05**
 
 ## Newspaper Stats
 
-*Scraped **3,140** Articles*
+*Scraped **3,142** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 42
 bbccomsinhala | 53
 dbsjeyarajcom | 125
-economynextcom | 172
+economynextcom | 174
 islandlk | 174
 newsfirstlk | 184
 dailyftlk | 215
@@ -26,7 +26,7 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,140 (100.0%) of 3,140 articles have been extended.
+3,142 (100.0%) of 3,142 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -292,6 +292,26 @@ The deadline for compliance with this mandatory disclosure is fixed at March 31s
 
 ---
 
+### Sri Lanka’s Uma Oya hydro plant first 60MW phase in operation
+
+*2024-01-28 19:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-uma-oya-hydro-plant-first-60mw-phase-in-operation-148887/) · `en`
+
+ECONOMYNEXT – The first 60 Mega Watt phase of a 120MW Uma Oya hydro power plant was made operational on January 27, Energy Minister Kanchana Wijesesekera has said.
+
+“First unit turbine of 60MW of the 120MW Uma Oya Hydro project was synchronized and connected to the National Grid successfully yesterday,” Minister Wijesekera said in a twitter.com message.
+
+“With the long delays due to the challenges of political protests against the project, covid pandemic & the financial crisis the project teams & officials have been able to successfully complete phase one & expects to connect the unit two turbine by mid February.”
+
+The Uma Oya multi-purpose project, which also involves irrigation for agriculture is built by Iran’s Farab engineering group.
+
+◼️
+
+[Data](articles/490776ed.json)
+
+[Extended Data](ext_articles/490776ed.ext.json)
+
+---
+
 ### President to appoint special commission to expedite development of Galle
 
 *2024-01-28 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96804/president-to-appoint-special-commission-to-expedite-development-of-galle) · `en`
@@ -333,6 +353,24 @@ Police further reported that the couple had been living a luxurious life by buyi
 [Data](articles/7412f51e.json)
 
 [Extended Data](ext_articles/7412f51e.ext.json)
+
+---
+
+### Introducing a Blue Curriculum Across BIMSTEC
+
+*2024-01-28 19:34:00* · [`economynextcom`](https://economynext.com/introducing-a-blue-curriculum-across-bimstec-148883/) · `en`
+
+ECONOMYNEXT – As the negative impacts of climate change continue to batter the world, a training manual for educators, launched on January 24th, aims to raise awareness of the importance of the Blue, Green and Brown environment amongst the young, and its interconnectedness within the South Asian region.
+
+Titled “Blue Curriculum for Life, Learning Journeys for Sustainability,” the manual is the outcome of a conference held in India in December 2023, for the Bay of Bengal Initiative for Multisectoral Technical and Economic Cooperation (BIMSTEC), member countries.  Both the conference and the training manual, which was launched virtually, during a Web Talk are joint initiatives of the Friedrich Naumann Foundation for Freedom South Asia and the Centre for Civil Society, Delhi.
+
+The activity-based manual provides examples and reflection on unsustainable practices which result in environmental destruction and aims to promote critical thinking among the young.
+
+...
+
+[Data](articles/1f4238c0.json)
+
+[Extended Data](ext_articles/1f4238c0.ext.json)
 
 ---
 
@@ -1935,43 +1973,5 @@ In a statement issued by the company, it was stated that their advertisement to 
 [Data](articles/8cfe7f9e.json)
 
 [Extended Data](ext_articles/8cfe7f9e.ext.json)
-
----
-
-### President’s Fund announces enhanced scholarship allowance
-
-*2024-01-28 11:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96790/presidents-fund-announces-enhanced-scholarship-allowance) · `en`
-
-The President’s Fund has announced the extension and enhancement of the scholarship program for the year 2021/2022, the President’s Media Division (PMD).
-
-This initiative aims to identify and support financially challenged students across all provinces of Sri Lanka, ensuring they have the means to pursue their education without hindrance.
-
-In response to special requests from students, the President has decided to increase the existing monthly allowance of Rs. 5,000.00 to Rs. 6,000.00, effective from February 2024.
-
-This adjustment seeks to provide additional support to scholarship awardees, ensuring their financial well-being and uninterrupted learning until they sit for the G.C.E A/L examination. So far, 10 monthly installments have been paid out.
-
-...
-
-[Data](articles/7ca74279.json)
-
-[Extended Data](ext_articles/7ca74279.ext.json)
-
----
-
-### Interim committees appointed to two sports bodies dissolved
-
-*2024-01-28 11:42:00* · [`adaderanalk`](https://www.adaderana.lk/news/96789/interim-committees-appointed-to-two-sports-bodies-dissolved) · `en`
-
-The interim committees appointed for the Sri Lanka Karate-Do Federation and the Sri Lanka Automobile Sports (formerly Sri Lanka Association of Motor Sports) have been dissolved by way of a Gazette notification.
-
-As per the relevant Gazette notification was issued by Sports Minister Harin Fernando, the interim committees appointed to exercise powers, functions and duties of the aforementioned sports bodies were dissolved with immediate effect.
-
-As such, in accordance with the Sports Act, No. 25 of 1973, both, the Sri Lanka Karate-Do Federation and the Sri Lanka Automobile Sports are authorised to continue their activities with the officials or committee members elected in the previous election, until a re-election is held.
-
-◼️
-
-[Data](articles/d90a8d8a.json)
-
-[Extended Data](ext_articles/d90a8d8a.ext.json)
 
 ---

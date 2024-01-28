@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 16:47:15**
+As of **2024-01-28 17:02:12**
 
 ## Newspaper Stats
 
-*Scraped **3,070** Articles*
+*Scraped **3,074** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,76 @@ newsfirstlk | 182
 dailyftlk | 215
 adalk | 280
 adaderanasinhalalk | 307
-virakesarilk | 317
+virakesarilk | 318
 tamilmirrorlk | 388
 adaderanalk | 396
-dailymirrorlk | 420
+dailymirrorlk | 423
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,067 (99.9%) of 3,070 articles have been extended.
+3,070 (99.9%) of 3,074 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### India-Sri Lanka passenger ferry service to begin on February 15
+
+*2024-01-28 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-passenger-ferry-service-to-begin-on-February-15/108-275839) · `en`
+
+Colombo, Jan 28 (Daily Mirror) - The passenger ferry service between India’s Nagapattinam and Kankesanthurai (KKS) in Jaffna will be initiated on February 15, the Ports, Shipping and Aviation Minister said.
+
+The Indian government has reportedly granted permission to resume services on 15 February, and hence the initial programmes to initiate the service have been completed.
+
+However, the official launch of the ferry service was held on October 20, 2023, with the ‘Cheriyapani’ passenger ferry arriving at the Kankesanthurai port, thus resuming the ferry service between the two countries after a 40-year hiatus.
+
+The inaugural voyage of the ‘Cheriyapani’ passenger ferry was commemorated with a plaque exchange.
+
+The ‘Cheriyapani’ is a high-speed vessel measuring 35 metres in length and 9.6 metres in beam, with a capacity to accommodate 150 passengers, and owned by the Shipping Corporation of India (SCI).
+
+...
+
+[Data](articles/b29cd837.json)
+
+---
+
+### Special police contingent deployed for Sanath Nishantha’s funeral
+
+*2024-01-28 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-police-contingent-deployed-for-Sanath-Nishanthas-funeral/108-275844) · `en`
+
+A special police contingent of 380 personnel has been deployed to provide ptotection during Late State Minister Sanath Nishantha Perera’s final rights.
+
+A senior police official said a large crowd including several ministers, parliamentarians and VIPs were expected to attend the funeral and that steps have been taken to enhance security in the area.
+
+He said the police contingent comprised officers from police stations in the North Western Province.
+
+◼️
+
+[Data](articles/39c9cbf0.json)
+
+---
+
+### Second term begins with 110 commitments ‘pending’ on Sri Lanka’s IMF programme: Verité Research
+
+*2024-01-28 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Second-term-begins-with-110-commitments-pending-on-Sri-Lankas-IMF-programme-Verité-Research/108-275843) · `en`
+
+Colombo, Jan. 28 (Daily Mirror)- The second term of the IMF review began with 110 commitments ‘pending’ on Sri Lanka’s IMF programme, with Sri Lanka and the IMF adding 75 new commitments to the programme, independent think-tank and research institution Verité Research said.
+
+The International Monetary Fund (IMF) has published its evaluation of Sri Lanka’s performance in the first phase or ‘first term’ of the ongoing Extended Fund Facility (EFF)
+
+programme, which commenced in March 2023, where Sri Lanka had ‘met’ 60 of the 73 commitments due by end November 2023, the Verité Research added.
+
+The Verité Research updated its ‘IMF Tracker’, based on all information available, including in the IMF evaluation titled ‘First Review Under the Extended Arrangement Under The Extended
+
+Fund Facility’ and Sri Lanka had ‘met’ (with some delays) 60 of the 73 commitments due by end November 2023.
+
+...
+
+[Data](articles/864e4787.json)
+
+---
 
 ### Unifying pre-school frameworks to align with national policy for optimal pre-childhood development
 
@@ -92,31 +148,55 @@ The pirates had allowed the Sri Lankan fishermen captured to communicate with th
 
 ---
 
-### ක්‍රිකට් ලෝකයම උඩුයටිකුරු කර අලුත් තරුව මෙන්න
+### மட்டக்களப்பு கொக்கட்டிச்சோலை படுகொலை: 37 ஆவது நினைவேந்தல் அனுஷ்டிப்பு!
+
+*2024-01-28 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/174989) · `ta`
+
+மட்டக்களப்பு கொக்கட்டிச்சோலையில் படுகொலை செய்யப்பட்டவர்களின் 37 ஆவது ஆண்டு நினைவேந்தல் இன்று ஞாயிற்றுக்கிழமை (28)  இடம்பெற்றது. இதன்போது மகிழடித்தீவில் அமைக்கப்பட்டுள்ள நினைவு தூபியில் தமிழ் தேசிய மக்கள் முன்னணி கட்சி உறுப்பினர்கள் சுடர் ஏற்றி இரண்டு நிமிட மௌன அஞ்சலி செலுத்தினர்.
+
+கடந்த 1987 ஆம் ஆண்டு ஜனவரி மாதம் 28 ஆம் திகதி கொக்கட்டிச்சோலை பிரதேசத்தை சுற்றிவளைத்த இராணுவத்தினர் அங்கிருந்த அப்பாவி பொதுமக்கள் 152 பேரை கைது செய்து துப்பாக்கியால் சுட்டு படுகொலை செய்தனர்.
+
+இந்த நிலையில் 37 ஆவது நினைவு தினத்தையிட்டு தமிழ் தேசிய மக்கள் முன்னணி வெல்லாவெளி அமைப்பாளர் குமாரசிங்கம் தலைமையில் கட்சி உறுப்பினர்கள்  உயிரிழந்தவர்களின் ஆத்ம சாந்தியடைய நினைவு தூபியில் சுடர் ஏற்றி இரண்டு நிமிட மௌன அஞ்சலி செலுத்தினர்.
+
+◼️
+
+[Data](articles/cf8c67e4.json)
+
+---
+
+### Here is the new star
 
 *2024-01-28 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192657) · `si`
 
-වත්මන් ටෙස්ට් ලෝක ශූර ඔස්ට්‍රේලියාවට එරෙහිව සුපිරි ජයක් වාර්තා කිරීමට බටහිර ඉන්දීය කොදෙව් කණ්ඩායම සමත්ව තිබේ.
+West Indies have been able to record the current Test World Championship against Australia.
 
-එහිදී සුවිශේෂී පන්දු යැවීමක නිරත වූ කොදෙව් නවක ක්‍රීඩක Shamar Joseph පන්දුවාර 11.5කදී ලකුණු 68කට කඩුලු 7ක් දවාගනිමින් ජය කොදෙව්වන්ට හිමිකර දුන්නේය.
+The West Indies were playing a new bowling Shamar Joseph to score 7 wickets for 68 runs in 11.5 runs.
 
-සිය මංගල ටෙස්ට් තරගාවලිය සමග එක්ව සිටින Shamar Joseph මෙහිදී ඇඟිල්ලක ආබාධයක් සමග ක්‍රීඩා කරමින් මෙම දක්ෂතාවය දැක්වීම විශේෂ වෙයි.
+Shamar Joseph is speaking with a grammatical disorder with his Mangala Test series.
 
-ඔහු සිය මංගල ටෙස්ට් තරගයේදී ද ප්‍රබල ඔස්ට්‍රේලියාවට එරෙහිව කඩුලු 5ක් දවාගෙන තිබුණේ ලකුණු 94කටය.
+He had also taken 5 wickets against Australia against Australia in his Mangala Test match.
 
-ඒ අනුව ඔහු සිය මංගල ටෙස්ට් තරගාවලියේදී දවාගෙන ඇති කඩුලු සංඛ්‍යාව 13කි.
+Accordingly, he had taken 13 wickets in their Mangala Test series.
 
-මෙහිදී තරගයේ සිය පළමු ඉනිම සඳහා කොදෙව්වන් ලකුණු 311ක් රැස්කරගෙන තිබුණි.
+The West Indies scored 311 runs for the first innings.
 
-දෙවන ඉනිම ක්‍රීඩා කළ කොදෙව් කණ්ඩායම ලකුණු 193කදී සියලුදෙනා දැවී ගියේය.
+The second innings were bowled out for 193 in 193.
 
-ටෙස්ට් තරගාවලියේ ජයග්‍රහණය සොයා දෙවන ඉනිම ක්‍රීඩා කිරීමට පිටියට පිවිසි ඔස්ට්‍රේලියාවේ සිහින Shamar Joseph විසින් සුනුවිසුණු කර දැමුවේ කිසිවෙකු නොසිතූ ලෙසටය.
+In search of winning the Test series, Australia's dream Shamar Joseph had not thought.
 
-ඒ අනුව ඔහු තරගයේ වීරයා සහ තරගාවලියේ වීරයා යන සම්මාන ද්විත්වයම සිය නාමය ඉදිරියේ සටහන් කරගත්තේය.
+Accordingly, he recorded both the hero and the hero of the tournament in front of his name.
+
+Steven Smith was unbeaten on a lonely struggle and scored 91 off 146 balls and 9 fours.
+
+Cricket critics predicted, and West Indies joined uses to add new players against the strong Australian team in this tournament.
+
+However, they have already answered the second Test match in 8 runs.
 
 ...
 
 [Data](articles/37070cde.json)
+
+[Extended Data](ext_articles/37070cde.ext.json)
 
 ---
 
@@ -306,19 +386,21 @@ He said that the situation has been restricted till now, but a permanent solutio
 
 ---
 
-### සනත් නිශාන්ත අද අවසන් ගමන් යයි - ආරක්ෂාවට පොලීසියේ 380ක්
+### Sanath Nishantha is on his last offices - 380 policemen
 
 *2024-01-28 13:47:52* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්ත-අද-අවසන්-ගමන්-යයි---ආරක්ෂාවට-පොලීසියේ-380ක්/11-407757) · `si`
 
-රිය අනතුරකින් මරණයට පත් ජලසම්පාදන රාජ්‍ය අමාත්‍ය සනත්නිශාන්ත පෙරේරා මහතාගේ අද 28 පැවත්වෙන අවමංගල්‍ය උත්සවයේ ආරක්ෂාවට වයඹ පළාතේ තොරාගත් පොලිස්ථාන වල පොලිස් නිළධාරීන් 380ක් යොදවා ඇති බව ආරච්චිකට්ටුවපොලීසිය පවසයි.
+380 police officers have been deployed at the North Western Province today, the Wayamba, who was killed in a car accident.
 
-ඉකුත් 25දින සිට ආරච්චිකට්ටුව පිහිටි රාජ්‍ය අමාත්‍යවරයාගේ කාර්යාල භූමියට ප්‍රභූවරැන් පක්ෂ විපක්ෂ නායකයින් ඇතුලුපාර්ලලිමේන්තු මැති ඇමතිවරුන් සහ විශාල ජනකායක් සහභාගී වන හෙයින් මෙන්ම 28දින අවමංගල්‍ය අත්සව දිනයේදී විශාලජනකායක් සහභාගී වීමට ඇති හෙයින් එම පිරිස් වල ආරක්ෂාව සඳහා යොදවා ඇති බව ආරක්ෂක අංශ සඳහන් කරයි.
+According to the security forces, the UNP members of the Arachchikattuwa's office premises and the 28th day of opposition leaders have participated in the 28th, as a large number of people participated in the 28th.
 
-මෙම නිළධාරීන් සඳහා නවාතැන් පහසුකම් ආරච්චිකට්ටුව බංඩාරහේණ පාරේ පිහිටි සිව්චතුරශ්‍ර සුභාරංචි සභාවේ පිහිටි භූමිය සහ ගොඩනැගිලි භාවිතා කරඇති බව ආරක්ෂක අංශ පවසයි.
+Accommodation for these officers are the land and buildings of the sixtest work greeting and buildings in Biddarahena Road, Arachchikattuwa.
 
 ◼️
 
 [Data](articles/1e2cf825.json)
+
+[Extended Data](ext_articles/1e2cf825.ext.json)
 
 ---
 
@@ -458,17 +540,21 @@ Accordingly, with the increase in scholarships, from February 2024 to the GCE Ad
 
 ---
 
-### ටී.එන්.ඒ. මහ ලේකම් තොරන නිලවරණය ගාල ‌ගෝට්ටියක්
+### TNA. General Secretary PLEASE EDITION PANT
 
 *2024-01-28 12:50:56* · [`adalk`](https://www.ada.lk/breaking_news/ටී-එන්-ඒ--මහ-ලේකම්-තොරන-නිලවරණය-ගාල-‌ගෝට්ටියක්/11-407752) · `si`
 
-දෙමල ජාතික සංධානයේ මහා ලේකම් ඇතුළු විධායක සභාව තෝරා ගැනීම සදහා ඊයේ (27දා) ත්‍රිකුණාමලයේ පැවැති මධ්‍යම කාරක සභා රැස්වීම් නිලවරණය ඉතා උණුසුම් හා කාල ගෝට්ටි මධ්‍යයේ අවසන්වු අතර පත්වු නිලධාරීන් තමන් පිළි නොගන්නා බව එක් පාර්ශවයක් පවසා කලහකාරි ලෙස හැසිරීම  නිසා අද (28) දෙමල ජාතික සංධානයේ නව නායකයන්ගේ සහභාගිත්වයෙන් ත්‍රිකුණාමලයේ පැවැත්විමට නියමිතව තිබු පලමු මහජන රැලිය අත්හිටුවීමට සංධාන නායක පාර්ලිමේන්තු මන්ත්‍රී එස්.ශ්‍රි ධරන් මහතා කටයුතු කලේය.
+The Central Committee Meeting of the Central Committee of the Ministry of Tamil Committee including the General Secretary and the Executive Committee was completed in Trincomalee, and the Tamil National Alliance today (28) today (28) today due to one party that he would not accept them.The Kenda Leader MP S. S ෝ ably Dhamma was suspended to suspend the first public rally in Trincomalee with the participation of new leaders.
 
-මේ අනුව දෙමල ජාතික සංධානයේ මහා ලේකම් ලෙස සම්මුගම් කුගදාසන් මහතා පත්වු අතර ජ්‍යෙෂ්ඨ උප සභාපති ලෙස පාර්ලිමේන්තු මන්ත්‍රී සි.වි.කේ.සිවඥනම් මහතාත් භාණ්ඩාගාරික ලෙස හිටපු පාර්ලිමේන්තු මන්ත්‍රී කේ.සිවනේසන් මහතාත් පත්වුහ.උප සභාපතිවරැ ලෙස කේ.වි.තවරාසා,චල්ස් නිර්මලනාදන්,කලෙයි අර්සන්,එම් අරි⁣යනේන්ද්‍රන්,එස්.සත්‍යලිංගම් යන මහත්වරැ තේරිපත් වුහ.සම ලේකම්වරැ ලෙස එම්.ඒ.සුමන්තිරන්,එස් ශාන්තිනි,ශ්‍රි ස්කන්ධ රාජා,රංජනි කනකරාජා,කේ.සරවනබවන්, රාසමානික්‍යන් ශානක්කියන්,එම්.සිව මෝහන් යන මහත්ම මහත්මින් තේරිපත් වුහ.
+Accordingly, Convenient Kishivanamo was appointed as the Senior Deputy Chairman as the Senior National Assembly General Secretary of the Tamil National Assembly.Mr. Kalay Arayanayandan, M. Ariyanayannendan, S. Sakinyan, S. Sahanki Raja, Ranjani Raja, Ranjanananaban, Rasena Raja, Rasena Raja, Rasymanakana Shaansa, Rasymanakana ShaansaIt was the time.
 
-...
+The central committee member members are allowed to enter the event at the fullesting of the election and the guards of MPs who were not allowed to enter the guardians of Parliament.
+
+◼️
 
 [Data](articles/d1ad6062.json)
+
+[Extended Data](ext_articles/d1ad6062.ext.json)
 
 ---
 
@@ -1997,85 +2083,5 @@ As a result, vehicles traveling to Colombo have been announced to re -enter the 
 [Data](articles/63e1aa9c.json)
 
 [Extended Data](ext_articles/63e1aa9c.ext.json)
-
----
-
-### Sri Lankan fishing boat smuggling by pirates
-
-*2024-01-28 00:32:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்கொள்ளையர்களால்-இலங்கையின்-மீன்பிடி-படகு-கடத்தல்/175-332193) · `ta`
-
-The Fisheries Department has said that a long -time fishing boat has been abducted by Somali pirates.
-
-A spokesman for the Fisheries Department has said that the boat has been abducted with fishermen in the Arabian Sea, according to a media report.
-
-Somali pirates have reportedly abducted six fishermen from the long -awaited fishing boat from Thikovitta fishing harbor in Chilaw on the 12th.
-
-It is reported that the smuggling took place in the sea, about 1160 nautical miles from the Sri Lankan waters.
-
-The necessary steps are being taken to rescue the abducted fishermen. Remble
-
-◼️
-
-[Data](articles/6f3f698f.json)
-
-[Extended Data](ext_articles/6f3f698f.ext.json)
-
----
-
-### Sri Lanka Insurance emerged winners at the ‘Great HR Quiz 2023’
-
-*2024-01-28 00:20:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-emerged-winners-at-the-great-hr-quiz-2023/) · `en`
-
-The HR team of Sri Lanka Insurance recently emerged winners at the Great HR Quiz 2023 in the Insurance, Finance and Investment category. The SLIC HR team was also able to secure an impressive 4th place overall out of the 65 companies participated at the quiz.
-
-The Great HR Quiz 2023 was organized by the Chartered Institute of Personnel Management (CIPM). It is the only quiz dedicated to HRM fraternity to uplift the knowledge and capacity of human resources professionals in Sri Lanka and the quiz covers all aspects of HR and general knowledge of participants.
-
-Sri Lanka Insurance emerges winner at the ‘Great HR Quiz 2023’
-
-Sri Lanka Insurance Achieves Milestone with ISO/IEC 27001:2013 Certification for Information Security Management
-
-Sri Lanka Insurance achieves milestone with ISO/IEC 27001: 2013 Certification for Information Security Management
-
-SLI to embark on new journey with segregation of its insurance business
-
-Sri Lanka Insurance celebrates a glorious 62 years of service
-
-...
-
-[Data](articles/c7f460c7.json)
-
-[Extended Data](ext_articles/c7f460c7.ext.json)
-
----
-
-### Thema Collection and Market Development Facility join to reduce their carbon emissions
-
-*2024-01-28 00:19:00* · [`islandlk`](http://island.lk/thema-collection-and-market-development-facility-join-to-reduce-their-carbon-emissions/) · `en`
-
-Taking a firm step in moving towards sustainable tourism, Thema Collection joined the Australian government’s funded plan of Market Development Facility (MDF) recently. A marked shift towards sustainable tourism is shown by the escalating impact on the environment affected by anthropogenic activities.
-
-Addressing the event Thema Collection, Director of Marketing & Business Development, Maxime Wickramasinghe, emphasizing the brand’s firm commitment to sustainability spoke of the numerous initiatives already underway, in their eco-friendly hotel chain with 12 unique properties across Sri Lanka. Further, he added the details of their strategic plan to both meticulously measure and reduce the carbon footprint throughout the entirety of the Thema chain.
-
-...
-
-[Data](articles/6c598e2b.json)
-
-[Extended Data](ext_articles/6c598e2b.ext.json)
-
----
-
-### Asia Capital Gets New MD
-
-*2024-01-28 00:19:00* · [`islandlk`](http://island.lk/asia-capital-gets-new-md/) · `en`
-
-Asia Capital PLC appoints Raju Radha as Managing Director. The appointment given was while he served as an independent Non-Executive Director of the company thus moving to a role of an Executive Director.
-
-Presently, he is the Managing Director of SAR Shipping Ltd., SAR Maritime Ltd., SAR Trading Ltd., and the Chief Operating Officer of Greenlanka Property Developer Ltd. He is also the founder of Radaan Media Works India Ltd, of which Radha was the founder director r of Radaan Talent Factory a joint venture with Capital Maharaja, as well.
-
-...
-
-[Data](articles/b9910933.json)
-
-[Extended Data](ext_articles/b9910933.ext.json)
 
 ---

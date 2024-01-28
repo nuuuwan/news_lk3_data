@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 14:32:58**
+As of **2024-01-28 14:49:07**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,052 (99.8%) of 3,057 articles have been extended.
+3,057 (100.0%) of 3,057 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -48,21 +48,27 @@ Israel and Hamas would then aim to work out details during the first 30 days of 
 
 [Data](articles/a7c2fa04.json)
 
+[Extended Data](ext_articles/a7c2fa04.ext.json)
+
 ---
 
-### ඒකක භාර ආයෝජකයන්ට ප්‍රථම වතාවට ඩිජිටල් ක්‍රමයට ගණුදෙනු පහසුකම් සැපයෙයි
+### Unit investors provide transaction transaction facilities for the first time
 
 *2024-01-28 13:51:20* · [`adalk`](https://www.ada.lk/breaking_news/ඒකක-භාර-ආයෝජකයන්ට-ප්‍රථම-වතාවට-ඩිජිටල්-ක්‍රමයට-ගණුදෙනු-පහසුකම්-සැපයෙයි/11-407758) · `si`
 
-ශ්‍රී ලංකාවේ පුරෝගාමී ආයෝජනය ආයතනයක් වන ෆස්ට් කැපිටල් හෝල්ඩිංග්ස් මෙරට මූල්‍ය සේවා ක්ෂේත්‍රෙය් සුවිශේෂී සන්ධිස්ථානයක් සනිටුහන් කරමින් %First Capital Money Plus Fund^ සේවාව හඳුන්වාදීමට නියමිතව තිබේ. ඒ අනුව එහි මූලියක දැනුවත් කිරීමේ වැඩසටහනක් පසුගියදා (24) දා කොළඹදී පැවැත්වුණි.
+Sri Lanka's pioneer investment institute, Fast Capital Honey Plus Fund ^ The service is due to be introduced. Accordingly, an awareness campaign was held in Colombo recently.
 
-ශ්‍රී ලංකාවේ ප්‍රථම වරට හඳුන්වාදෙන මෙම ක්‍රමය තුලින් ඒකක භාර ආයෝජන ගිණුම් සඳහා නිකුත්කරන EMV සක්‍රීය කාඩ්පත් හරහා ඩිජිටල් ක්‍රමයට මුදල් ලබාගැනීමට හා ගෙවීම් කිරීමට අවස්ථාව සැලසෙන අතර එමගින් ගිණුම් හිමියන්ට ගනුදෙනු කිරීම සඳහා නව ක්‍රම කිහිපයක්ද හිමිවෙයි.
+This method of Sri Lanka's first introduction, the digital system will allow the digital system through EMV active cards to the unit active cards, which are issued to the unit active cards and payments.
 
-තවද මෙම ක්‍රමවේදයේ ආරක්ෂාව හා විනිවිදභාවය තහවුරු කිරීම සඳහා භාරකාර සේවාව ලබාගැනීමට ෆස්ට් කැපිටල් විසින් HNB බැංකුව සමග අත්වැල් බැඳගැනීමට කටයුතු කර තිබේ. එමෙන්ම නව අරමුදල මගින් ඒකක භාර ගිණුම් හිමියන්ට EMV කාඩ්පත් ඔස්සේ පහසුවන් තම ආයෝජන වෙත පිවිසීමටද හැකියාව ලැබෙනු ඇත.
+Moreover, Fort Capital has joined hands with HNB Bank to obtain the security and transparency of this methodology. Also, the EMV cards can help Unit-charge account holders online to EMV cards online.
 
-...
+The New Unit Trust Fund, which is approved by the Sri Lanka Exchange and the Securities Commission, can access the investments in over 3,500 ATMs and the purchase of goods and services.. Fast Capital company says that investors can use their money more easily to use their money.
+
+◼️
 
 [Data](articles/664d6845.json)
+
+[Extended Data](ext_articles/664d6845.ext.json)
 
 ---
 
@@ -230,45 +236,51 @@ Accordingly, with the increase in scholarships, from February 2024 to the GCE Ad
 
 ---
 
-### බත් මුට්ටියෙන් මරුවා එයි
+### The rice is killed in the platter
 
 *2024-01-28 12:31:05* · [`adalk`](https://www.ada.lk/breaking_news/බත්-මුට්ටියෙන්-මරුවා-එයි/11-407751) · `si`
 
-ගෑස් ලිපකින් බත් මුට්ටියක් පිසිමින් සිටී පුද්ගලයකු  ලිපමත ඇදවැටී පිලිස්සී මියගොස් ඇති බව කළුතර දකුණ පොලිසිය පවසයි .
+Kalutara South Police say that a person is cooking an rice in a gas article, said Kalutara South Police said.
 
-මෙසේ මියගොස් ඇත්තේ කළුතර,  රෙමුණගොඩ ප්‍රදේශයේ පදිංචිව සිටී එච්.ඒ.කරුණාදාස නමැති 60 හැව්රිදි  පුද්ගලයකු බව පොලිසිය කීය.
+The deceased have been identified as HA VKAgoda, Gampaha, a 60 shade.
 
-මියගොස් ඇති තැනැත්තා කිසියම් රෝගී තත්ත්වයකින් පෙලී ඇති බවත්, නිවසේ තනිව ජීවත්ව සිට ඇති බවත් සදහන් වේ.
+The deceased is said that the victim is in a sickness and is living alone.
 
-ඔහු දිවා ආහාරය පිණිස බත් මුට්ටියක් ගෑස් ලිපමත තබා පිසීමින් සිටියදී අනතුර සිදුව ඇති බවත්, පිලිස්සී බරපතළ තුවාල ලබා සිටින අයුරු  අසල වත්තක රබර් කිරි කපන කාන්තාවක දැක ඇති බවත්  පොලිසිය කීය.
+He said that the accident had occurred while heavywall a rice earlier in the gas point for lunch, police said.
 
-මූලස්ථාන පොලිස් පරීක්ෂක රුවන් විජේසිංහ මහතාගේ උපදෙස් පරිදි අපරාධ අංශ ස්ථානාධිපති පොලිස් පරීක්ෂක ධම්ම්ක ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් පරීක්ෂණ පවත්වති.
+Police Inspector Ruwan Wijesinghe are conducting further investigations.
 
 ◼️
 
 [Data](articles/e6066e57.json)
 
+[Extended Data](ext_articles/e6066e57.ext.json)
+
 ---
 
-### රතු මුහුදේ අර්බුදයෙන් කොළඹ වරායට ඉල්ලමක්
+### Red Sea crisis calls for Colombo Port
 
 *2024-01-28 12:16:42* · [`adalk`](https://www.ada.lk/breaking_news/රතු-මුහුදේ-අර්බුදයෙන්-කොළඹ-වරායට-ඉල්ලමක්/11-407750) · `si`
 
-දැනට මැදපෙරදිග රතු මුහුද ආශ්‍රිතව ඇති වී තිබෙන අර්බුද තත්ත්වය හේතුවෙන් කොළඹ වරාය වෙත පැමිණෙන නෞකාවන් ප්‍රමාණය වැඩි වී ඇත.  එහෙයින්   බහලු මෙහෙයුම් ධාරිතාවය ඉහළ ගොස් ඇති අතර එම තත්ත්වය නිරීක්ෂණය කිරීමට වරාය නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා අද දින  ශ්‍රී ලංකා වරාය අධිකාරියේ ජයබහලු පර්යන්තයේ විශේෂ නිරික්ෂණ චාරිකාවක යෙදිණි.
+Size of the Colombo Port has increased due to the crisis in the Middle East. Haruna Siripala de Silva, Minister of Ports and Aviation, was held at the Sri Lanka Ports Authority's Jayaratne Peripheral today.
 
-මැදපෙරදිග කලාපයේ යුද තත්ත්වය හේතුවෙන් රතු මුහුද හරහා සූවස් ඇල ඔස්සේ යාත්‍රා කෙරෙන වෙළඳ නෞකාවන්ට සිදුව ඇති ත්‍රස්ත තර්ජන හේතුවෙන්  ආරක්ෂිත පියවරක් ලෙස සිය නෞකා  කොළඹ වරායට ගෙන්වා ගැනීමට  නෞකා සමාගම් පෙළඹී ඇත.
+Due to the military situation in the Middle East, the ship firms have been tempted to bring their ships to the port of the Colombo port as a protected measures.
 
-මෙම  හේතුව නිසා අද දවසේ වරාය තුළ නෞකා 24 ක් සඳහා නැංගුරම්පළ පහසුකම් සාදා ඇත.
+For this reason, Anchorage facilities are built for 24 ships in the port of the day.
 
-මීට අමතරව වරායෙන් පිටත නැංගුරම්පොළ බලාපොරොත්තුවෙන් නෞකා 10ක් පමණ පොරොත්තුව සිටින බව වාර්තා වෙයි.
+In addition, it is reported that the ships will be waiting for an anchorage outside of the Port.
 
-මෙම තත්ත්වය මත ජනවාරි මාසය තුලදී  නෞකා 100ක් පමණ මෙහෙයවීමට ජයබහලු පර්යන්තය(JCT) හා නැගෙනහිර බහලු පර්යන්තය (ECT) සමත්ව ඇත.
+The Jayaratne Women's Terminal (JCT) and Earth's Terminal (ECT) has been able to lead 100 ships in January.
 
-මෙම බහාලු නෞකාවන්ට අමතරව මගී නෞකා 05ක් ද කොළඹ වරායට පැමිණ ඇත.
+Five passenger vessels in addition to the containers have arrived at the Port of Colombo.
+
+In January alone, only 193,000 containers were conducted in 193,000, and the progress of 70%. In January, 554,000 contacts were conducted during the month of January.
 
 ...
 
 [Data](articles/33120068.json)
+
+[Extended Data](ext_articles/33120068.ext.json)
 
 ---
 
@@ -444,21 +456,23 @@ The Sri Lanka Human Rights Commission has called for the right to seek the right
 
 ---
 
-### 2 விசேட அரசிதழ்களை ரத்து செய்தார் அமைச்சர்
+### 2 Cancellation of Special Govt. Minister
 
 *2024-01-28 11:34:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-விசேட-அரசிதழ்களை-ரத்து-செய்தார்-அமைச்சர்/175-332202) · `ta`
 
-முன்னாள் விளையாட்டுத்துறை அமைச்சர் ரொஷான் ரணசிங்கவினால் வெளியிடப்பட்ட இரண்டு விசேட வர்த்தமானிகளை (அரசிதழ்) தற்போதைய விளையாட்டு மற்றும் இளைஞர் விவகார அமைச்சர் ஹரின் பெர்னாண்டோ ரத்து செய்துள்ளார்.
+Current Sports and Youth Affairs Minister Harin Fernando has canceled two special gazette issued by former Sports Minister Roshan Ranasinghe.
 
-இதன்படி, 2023 ஆம் ஆண்டு ஜூலை 28 ஆம் திகதி வெளியிடப்பட்ட விசேட வர்த்தமானி இலக்கமான 2342/48 இரத்துச் செய்யப்படவுள்ளது.
+Accordingly, the special gazette number 2342/48, released on July 28, 2023, will be canceled.
 
-அத்துடன், இலங்கை கராத்தே சம்மேளனம் மற்றும் இலங்கை மோட்டார் விளையாட்டு சங்கத்தின் இடைக்கால குழுக்கள், அதிகாரங்கள், பணிகள் மற்றும் கடமைகளை கலைத்த வர்த்தமானி அறிவித்தலும் இரத்து செய்யப்பட்டுள்ளது.
+In addition, the gazette notification of dissolving the interim committees, powers, work and obligations of the Sri Lanka Karate Federation and the Sri Lanka Motor Sports Association has also been canceled.
 
-தேசிய விளையாட்டு சங்கங்கள் அல்லது சம்மேளனங்களின் அரசியலமைப்பின் பிரகாரம், முன்னைய தேர்தல்களில் தெரிவுசெய்யப்பட்ட அதிகாரிகள், அவர்களின் சட்டப்பூர்வ பதவிக்காலம் முடிந்து புதிய தேர்தல் நடத்தப்படும் வரையில், சபைக்கு முன்பாக நியமிக்கப்படலாம் என அமைச்சர் பெர்னாண்டோ தெரிவித்துள்ளார்.
+According to the Constitution of the National Sports Associations or Federations, the officials who have been elected in the previous elections can be appointed before the council until their legal term is over.
 
 ◼️
 
 [Data](articles/02b4e9d8.json)
+
+[Extended Data](ext_articles/02b4e9d8.ext.json)
 
 ---
 

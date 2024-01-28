@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 06:18:14**
+As of **2024-01-28 06:56:19**
 
 ## Newspaper Stats
 
-*Scraped **2,959** Articles*
+*Scraped **2,960** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 215
 adalk | 269
 adaderanasinhalalk | 289
 virakesarilk | 305
-tamilmirrorlk | 375
+tamilmirrorlk | 376
 adaderanalk | 384
 dailymirrorlk | 405
 
@@ -26,11 +26,25 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,959 (100.0%) of 2,959 articles have been extended.
+2,959 (100.0%) of 2,960 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### சனத் நிஷாந்தவின் இறுதிக்கிரியை இன்று
+
+*2024-01-28 03:16:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-இறுதிக்கிரியை-இன்று/175-332196) · `ta`
+
+கொழும்பு – கட்டுநாயக்க அதிவேக வீதியில் இடம்பெற்ற வாகன விபத்தில் உயிரிழந்த இராஜாங்க அமைச்சர் சனத் நிஷாந்தவின் இறுதிக்கிரியைகள் இன்று ராஜகலுவ ரோமன் கத்தோலிக்க மயானத்தில் இடம்பெறவுள்ளது.
+
+இராஜாங்க அமைச்சர் சனத் நிசாந்தவின் உடல் புத்தளம் ஆராய்ச்சிக்கட்டுவையில் உள்ள அவரது கட்சி அலுவலகத்தில் பொது மக்களின் அஞ்சலிக்காக வைக்கப்பட்டுள்ளது
+
+◼️
+
+[Data](articles/cbf9d3a8.json)
+
+---
 
 ### Grama Niladhari results were released
 
@@ -2031,27 +2045,5 @@ Senior Chibil Kumara Amarasinghe, Chairman of the National Institute of Child Ca
 [Data](articles/48a57c07.json)
 
 [Extended Data](ext_articles/48a57c07.ext.json)
-
----
-
-### Bereaved family of Sanath Nishantha’s security officer receives Rs. 1.5mn
-
-*2024-01-27 07:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96759/bereaved-family-of-sanath-nishanthas-security-officer-receives-rs-15mn) · `en`
-
-Sri Lanka Police has provided a cash donation of Rs. 1.5 million to the bereaved family of the Police Constable, who died while on duty in the tragic crash along with State Minister Sanath Nishantha.
-
-The money was handed over to the family members by the Acting Inspector-General of Police (IGP) Deshabandu Tennakoon.
-
-Additionally, Police Constable Anuradha Jayakody, who was attached to the Ministerial Security Division (MSD), has been posthumously promoted to the rank of Sergeant.
-
-Following the fatal collision that took place around 2:00 a.m. on January 25 on the Colombo - Katunayake expressway, three injured people including State Minister Nishantha had been rushed to the Colombo North Teaching Hospital in Ragama. But, two of them – the lawmaker and his security officer – had succumbed to their injuries.
-
-At the time of the accident, the group had been returning from a wedding ceremony held at a hotel in Bandarawatta, Chilaw the previous night.
-
-◼️
-
-[Data](articles/572b8fce.json)
-
-[Extended Data](ext_articles/572b8fce.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 10:02:37**
+As of **2024-01-28 10:17:19**
 
 ## Newspaper Stats
 
-*Scraped **2,997** Articles*
+*Scraped **2,998** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 53
 dbsjeyarajcom | 124
 economynextcom | 170
 islandlk | 174
-newsfirstlk | 175
+newsfirstlk | 176
 dailyftlk | 215
 adalk | 272
 adaderanasinhalalk | 297
@@ -26,29 +26,31 @@ dailymirrorlk | 406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,995 (99.9%) of 2,997 articles have been extended.
+2,997 (100.0%) of 2,998 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### சில மாவட்டங்களில் அவ்வப்போது மழை பெய்யும்
+### Occasionally rains in some districts
 
 *2024-01-28 09:27:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-மாவட்டங்களில்-அவ்வப்போது-மழை-பெய்யும்/175-332198) · `ta`
 
-நாட்டில் கிழக்கு, ஊவா மாகாணங்களிலும் பொலன்னறுவை, மாத்தளை மற்றும் நுவரெலியா மாவட்டங்களிலும் அவ்வப்போது மழை பெய்யக் கூடும்.
+Rainfall is expected in the Eastern, Uva provinces, Polonnaruwa, Matale and Nuwara Eliya districts.
 
-அநுராதபுரம், முல்லைத்தீவு மற்றும் ஹம்பாந்தோட்டை மாவட்டங்களில் சிறிதளவு மழை பெய்யக் கூடும் எனவும் தெரிவித்துள்ளது.
+Rainfall is expected in the districts of Anuradhapura, Mullaitivu and Hambantota.
 
-மேல், சப்ரகமுவ மாகாணங்களிலும் காலி, மாத்தறை மற்றும் கண்டி மாவட்டங்களிலும் பிற்பகல் 2.00 மணிக்குப் பின்னர் சில இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யும்.
+Showers or thunderstorms will occur in some places after 2.00 pm in the Western, Sabaragamuwa provinces and Galle, Matara and Kandy districts.
 
-வடக்கு, வடமத்திய, கிழக்கு, மத்திய, ஊவா மற்றும் வடமேல் மாகாணங்களிலும் ஹம்பாந்தோட்டை மாவட்டத்திலும் அவ்வப்போது சுமார் 40 கிலோ மீற்றர் வேகத்தில் காற்று வீசக்கூடும்.
+Winds are likely to blow at speeds of 40 kilometers from time to time in the North, North Central, Eastern, Central, Uva and North Western Provinces and Hambantota district.
 
-இடியுடன் கூடிய மழையுடன் தற்காலிக பலத்த காற்று மற்றும் மின்னல் தாக்கங்களினால் ஏற்படக்கூடிய அபாயங்களைக் குறைப்பதற்கு தேவையான நடவடிக்கைகளை மேற்கொள்ளுமாறு வளிமண்டலவியல் திணைக்களம், பொது மக்களிடம் கோரியுள்ளது. R
+The Department of Meteorology has requested the public to take necessary steps to reduce the risks of temporary heavy winds and lightning strikes with thunderstorms.. Remble
 
 ◼️
 
 [Data](articles/018f1e65.json)
+
+[Extended Data](ext_articles/018f1e65.ext.json)
 
 ---
 
@@ -65,6 +67,30 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 [Data](articles/287b0d53.json)
 
 [Extended Data](ext_articles/287b0d53.ext.json)
+
+---
+
+### Beliatte Murders: Another Suspect Nabbed in Hakmana
+
+*2024-01-28 09:10:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/beliatte-murders-another-suspect-nabbed-in-hakmana/) · `en`
+
+COLOMBO (News 1st); The investigation into the shocking Beliatte murders has yielded another arrest, with another uspect apprehended in Hakmana.
+
+Police identified the individual, a resident of Rathgama, as allegedly playing a crucial role in facilitating the crime.
+
+According to authorities, the suspect is believed to have assisted in transporting weapons utilized in the brutal attack that claimed five lives.
+
+His motorcycle, suspected to be the conveyance used for this purpose, was also seized during the arrest.
+
+This development comes on the heels of two recent arrests made in Galle.
+
+In a shocking incident that unfolded on the morning of the 22nd of January 2024, near the Beliatte entrance of the Southern Expressway, five individuals, including the leader of the Ape Janbala Party, Saman Perera, lost their lives in a targeted shooting.
+
+The assailants, armed with T-56 guns, ambushed the victims as they entered a local hotel in a Defender-type jeep.
+
+...
+
+[Data](articles/3f76fac0.json)
 
 ---
 
@@ -160,15 +186,17 @@ Meanwhile, two motorbikes clash near the Mount Mary Junction of Borella - Baseli
 
 ---
 
-### 76 වැනි නිදහස් දිනයට පෙරහුරු 30 දා ඇරඹෙයි
+### Rehaulence on 76th Independence Day
 
 *2024-01-28 08:04:35* · [`adalk`](https://www.ada.lk/breaking_news/76-වැනි-නිදහස්-දිනයට-පෙරහුරු-30-දා-ඇරඹෙයි/11-407746) · `si`
 
-2024.02.04 දිනට යෙදී ඇති 76 වැනි ජාතික නිදහස් දින උළෙලට අදාළ පෙරහුරු කටයුුතු එළැඹෙන 30 දි සිට ආරමභ කරන බව පොලිස් මූලස්ථානය පවසයි. ඒ අනුව අදාළ පෙරහුරු කටයුතු පෙබරවාරි මස 03 දා තෙක් පැවැත්වෙනු ඇත.  මෙම පෙරහුරු කටයුතු ගාලු මුවදොර පරිශ්‍රයේදී පැවැත්වීමට නියමිතය.
+Police Headquarters says that the 76th National Independence Day Festival of National Independence Day celebrations on 04.024. The rehearsal activities will be held until February 3.The rehearsal will be held at the Galle Face premises.
 
 ◼️
 
 [Data](articles/12968da2.json)
+
+[Extended Data](ext_articles/12968da2.ext.json)
 
 ---
 
@@ -2007,23 +2035,5 @@ Three individuals were reported dead following a collision between a lorry and a
 [Data](articles/965ac04c.json)
 
 [Extended Data](ext_articles/965ac04c.ext.json)
-
----
-
-### The insulting Trump is mistaken to blaspheme
-
-*2024-01-27 11:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192619) · `si`
-
-US writer and journalist Egyan carole has been the right to pay $ 83 million to the loss of USA Carol.
-
-Foreign media reports that the order has been issued by a New York jury.
-
-The Trump had committed these unfaithful statements against the Geean Carol in 2019.
-
-◼️
-
-[Data](articles/a132659f.json)
-
-[Extended Data](ext_articles/a132659f.ext.json)
 
 ---

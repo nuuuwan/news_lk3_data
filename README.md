@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 08:02:22**
+As of **2024-01-28 08:17:20**
 
 ## Newspaper Stats
 
-*Scraped **2,983** Articles*
+*Scraped **2,988** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,57 +12,163 @@ colombotelegraphcom | 41
 bbccomsinhala | 53
 dbsjeyarajcom | 124
 economynextcom | 170
-newsfirstlk | 171
 islandlk | 174
+newsfirstlk | 175
 dailyftlk | 215
 adalk | 270
 adaderanasinhalalk | 294
 virakesarilk | 305
 tamilmirrorlk | 377
 adaderanalk | 384
-dailymirrorlk | 405
+dailymirrorlk | 406
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,964 (99.4%) of 2,983 articles have been extended.
+2,974 (99.5%) of 2,988 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### රාජ්‍ය සේවයේ ප්‍රසාරණය ගැන දැනුම්දීමක්
+### Icon of the Seas: World’s largest cruise ship sets sail from Miami
+
+*2024-01-28 07:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Icon-of-the-Seas-Worlds-largest-cruise-ship-sets-sail-from-Miami/108-275824) · `en`
+
+Miami, Jan 28 (BBC) - The world's largest cruise ship has set sail from Miami, Florida, on its maiden voyage, amid concerns about the vessel's methane emissions.
+
+The 365m-long (1,197 ft) Icon of the Seas has 20 decks and can house a maximum of 7,600 passengers. It is owned by Royal Caribbean Group.
+
+The vessel is going on a seven-day island-hopping voyage in the tropics.
+
+But environmentalists warn that the liquefied natural gas-powered ship will leak harmful methane into the air.
+
+"It's a step in the wrong direction," Bryan Comer, director of the Marine Programme at the International Council on Clean Transportation (ICCT), was quoted as saying by Reuters news agency.
+
+"We would estimate that using LNG as a marine fuel emits over 120% more life-cycle greenhouse gas emissions than marine gas oil," he said.
+
+Earlier this week, the ICCT released a report, arguing that methane emissions from LNG-fuelled ships were higher than current regulations assumed.
+
+...
+
+[Data](articles/a95d252e.json)
+
+---
+
+### Notice of the expansion of the public service
 
 *2024-01-28 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192644) · `si`
 
-‍රාජ්‍ය සේවය තවදුරටත් ප්‍රසාරණය කළ නොහැකි බව සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා පවසයි.
+Health Minister Minister Ramesh Pathirana says that the public service cannot be expanded further.
 
-අමාත්‍යවරයා පෙන්වා දෙන්නේ, ජන අනුපාතයට අනුව ලෝකයේ වැඩිම රාජ්‍ය සේවකයින් සංඛ්‍යාවක් සිටින රට ශ්‍රී ලංකාව බවයි.
+The Minister pointed out that Sri Lanka is the largest number of public servants in the world according to the population rate.
 
-ගාල්ල ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින් සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා මේ බව සදහන් කළේ ය.
+Health Minister Ramesh Pathirana said this while participating at a function in Galle.
 
 ◼️
 
 [Data](articles/3634dca6.json)
 
+[Extended Data](ext_articles/3634dca6.ext.json)
+
 ---
 
-### ලෝක ලාදුරු දිනය අද
+### Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
+
+*2024-01-28 07:37:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/sri-lanka-loses-communication-with-trawler-hijacked-by-somali-pirates/) · `en`
+
+COLOMBO (News 1st); The Department of Fisheries confirmed that communication with the Sri Lankan fishing vessel abducted by Somali pirates has been lost.
+
+Director General Susantha Kahawatta stated that the abducted crew, currently held on the Lorenzen 4, have not made any contact with Sri Lankan officials, and the abductors have not made any demands from the government.
+
+The vessel, which set sail from Dikovita port on January 12th, was hijacked in international waters north of Seychelles. Six Sri Lankan fishermen are believed to be on board.
+
+Despite the communication breakdown,  Kahawatta assured the that "all measures are being taken" to secure the safe return of the fishermen.
+
+Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
+
+◼️
+
+[Data](articles/64d82d69.json)
+
+---
+
+### World Ladu Day today
 
 *2024-01-28 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192643) · `si`
 
-සෑම වසරකම ජනවාරි මස අවසන් ඉරිදා දිනය ලෝක ලාදුරු දිනය ලෙස නම්කර ඇති අතර, ලෝකයේ රටවල් 120කින් පමණ වාර්ෂික ව ලාදුරු රෝගීන් වාර්තා වන බව සඳහන් ය.
+Each year, the last Sunday of January has been named as World Latience
 
-ශ්‍රී ලංකාව ද වාර්ෂිකව එම දිනය සැමරීම සිදු කරන අතර, ලාදුරු රෝගය සම්බන්ධයෙන් ජනතාව දැනුම්වත් කිරීම මෙහි ප්‍රධානතම අරමුණ බව ලාදුරු මර්දන ව්‍යාපාරයේ අධ්‍යක්ෂ විශේෂඥ වෛද්‍ය ප්‍රසාද් රණවීර මහතා පැවසීය.
+Dr. Prasad Ranaweera said the main objective of the Leprosy Campaign is the main objective of the Leprosy of the Leprosy.
 
-පෙර වර්ෂවලට සාපේක්ෂ ව පසුගිය වර්ෂයේ මෙරට තුළින් වාර්තා වූ ලාදුරු රෝගීන් සංඛ්‍යාවේ යම් වැඩි වීමක් පෙන්නුම් කරන බව ද විශේෂඥ වෛද්‍ය ප්‍රසාද් රණවීර මහතා සඳහන් කළේ ය.
+Specialist Dr. Prasad Ranaweera said that the number of leprosy patients reported in the country last year.
 
-ළමුන්ට ලාදුරු රෝගය වැළඳීම පාලනය කිරීම සඳහා විශේෂ වැඩපිළිවෙළක් සැලසුම් කර ඇති බව ලාදුරු මර්දන ව්‍යාපාරයේ අධ්‍යක්ෂ විශේෂඥ වෛද්‍ය ප්‍රසාද් රණවීර මහතා සඳහන් කළේය.
+Dr. Prasad Ranaweera said that a special program is scheduled to control leprosy.
 
 ◼️
 
 [Data](articles/5864c3fb.json)
+
+[Extended Data](ext_articles/5864c3fb.ext.json)
+
+---
+
+### Sri Lanka-India Ferry Link Set to Sail Again After 40 Years
+
+*2024-01-28 07:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/sri-lanka-india-ferry-link-set-to-sail-again-after-40-years/) · `en`
+
+COLOMBO (News 1st); Centuries-old maritime ties between Sri Lanka and India are set to be revived with the planned resumption of a passenger ferry service between the two nations.
+
+The Ministry of Ports, Shipping and Aviation confirmed that the service, operating from Kankasanthura in Sri Lanka to Nagapattinam in Tamil Nadu, India, will begin on February 15th, 2024.
+
+This marks a significant milestone after a four-decade hiatus in passenger ferry operations between the two countries.
+
+The service was previously suspended due to various internal circumstances in Sri Lanka.
+
+However, with renewed efforts and approval from the Indian government, the ferry's return opens up a new chapter in bilateral connectivity, and it will be possible to travel to India at a low cost.
+
+Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
+
+◼️
+
+[Data](articles/2acb85ea.json)
+
+---
+
+### Overturned Lorry Creates Bottleneck on Expressway
+
+*2024-01-28 07:19:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/overturned-lorry-creates-bottleneck-on-expressway/) · `en`
+
+COLOMBO (News 1st): Traffic on the Southern Expressway between Kokmaduwa and Godagama is currently restricted to one lane due to a lorry overturning last night.
+
+Traffic is currently restricted to one lane, with vehicles travelling in both directions using the same lane.
+
+According to the Director of Expressway Maintenance and Management Unit R.A.D. Kahatapitiya, crews are working to remove the overturned lorry and restore full access to the expressway as soon as possible.
+
+Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
+
+◼️
+
+[Data](articles/d715ba13.json)
+
+---
+
+### PUCSL Seeks Public Input on Electricity Cost Adjustments
+
+*2024-01-28 07:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/pucsl-seeks-public-input-on-electricity-cost-adjustments/) · `en`
+
+COLOMBO (News 1st); The Public Utilities Commission (PUCSL) announced hat the public will have the opportunity to provide verbal feedback on the proposed electricity tariff revisions from February 15th onwards.
+
+This comes in addition to the ongoing written submission period, which ends on February 12th.
+
+The proposed electricity tariff revision proposal was submitted to the PUCSL by the Ceylon Electricity Board (CEB) in recent weeks.
+
+Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
+
+◼️
+
+[Data](articles/57fcd1da.json)
 
 ---
 
@@ -164,19 +270,23 @@ The majority of the Sri Lankan population is fed up with the system of governmen
 
 [Data](articles/983df679.json)
 
+[Extended Data](ext_articles/983df679.ext.json)
+
 ---
 
-### மனைவி கொலை: கணவருக்கு மரணதண்டனை
+### Wife murder: death sentence for husband
 
 *2024-01-28 03:28:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவி-கொலை-கணவருக்கு-மரணதண்டனை/175-332197) · `ta`
 
-தனது மனைவியைத் தாக்கி மண்ணெண்ணெய் ஊற்றி தீயிட்டுக் கொலைசெய்த குற்றச்சாட்டில் கைது செய்யப்பட்ட கணவருக்கு மரணதண்டனை விதிக்கப்பட்டுள்ளது.
+A husband who was arrested for allegedly assaulting his wife and burning kerosene oil has been sentenced to death.
 
-2010 ஆம் ஆண்டு ஜனவரி மாதம் 26 ஆம் திகதி தனது மனைவியைத் தாக்கி அறையொன்றில் வைத்து மண்ணெண்ணெய் ஊற்றி தீ வைத்து கொழுத்தி கொலை செய்த சம்வம் தொடர்பில் இவர் கைது செய்யப்பட்டிருந்தார்.  (a)
+On January 26, 2010, he was arrested for allegedly assaulting his wife in a room and pouring kerosene oil in a room.(a)
 
 ◼️
 
 [Data](articles/96375f96.json)
+
+[Extended Data](ext_articles/96375f96.ext.json)
 
 ---
 
@@ -256,6 +366,8 @@ Sri Lanka Insurance celebrates a glorious 62 years of service
 
 [Data](articles/c7f460c7.json)
 
+[Extended Data](ext_articles/c7f460c7.ext.json)
+
 ---
 
 ### Thema Collection and Market Development Facility join to reduce their carbon emissions
@@ -270,6 +382,8 @@ Addressing the event Thema Collection, Director of Marketing & Business Developm
 
 [Data](articles/6c598e2b.json)
 
+[Extended Data](ext_articles/6c598e2b.ext.json)
+
 ---
 
 ### Asia Capital Gets New MD
@@ -283,6 +397,8 @@ Presently, he is the Managing Director of SAR Shipping Ltd., SAR Maritime Ltd., 
 ...
 
 [Data](articles/b9910933.json)
+
+[Extended Data](ext_articles/b9910933.ext.json)
 
 ---
 
@@ -299,6 +415,8 @@ These awards reinforce Expo Commodities’ position as an industry leader in div
 ...
 
 [Data](articles/fe788095.json)
+
+[Extended Data](ext_articles/fe788095.ext.json)
 
 ---
 
@@ -328,17 +446,19 @@ Earlier in September, Santosh Jha was appointed as India’s next High Commissio
 
 ---
 
-### සනත් නිශාන්තගේ මාරක අනතුරින් මිය ගිය MSD නිලධාරියාට රු. ලක්ෂ 15ක්
+### MSD officer who died of Sanath Nishantha's fatal crash Rs. 15 lakhs
 
 *2024-01-27 22:20:54* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තගේ-මාරක-අනතුරින්-මිය-ගිය-MSD-නිලධාරියාට-රු--ලක්ෂ-15ක්/11-407744) · `si`
 
-ඇමති සනත් නිශාන්ත මහතා සමග රිය අනතුරින් මිය ගිය ඇමති ආරක්ෂක අංශයේ නිලධාරියා වෙත රුපියල් ලක්ෂ 15ක මුදලක් ලබාදීමට වැඩ බලන පොලිස්පතිවරයා කටයුතු කර තිබේ.
+The IGP has been given a sum of Rs.
 
-පොලිස් කොස්තාපල්වරයාගේ නිවසට ගොස් දේහයට අවසන් ගෞරව දැක්වීමෙන් අනතුරුව මෙම මුදල් පිරිනමා තිබේ.
+The money was awarded after the police constable was gone to the body.
 
 ◼️
 
 [Data](articles/4de619b7.json)
+
+[Extended Data](ext_articles/4de619b7.ext.json)
 
 ---
 
@@ -547,6 +667,8 @@ My mother was the first genuine practitioner of community responsibility that I 
 ...
 
 [Data](articles/47a04276.json)
+
+[Extended Data](ext_articles/47a04276.ext.json)
 
 ---
 
@@ -1879,99 +2001,5 @@ Donald Trump has said that it will appeal against it. (Of)
 [Data](articles/401bd19d.json)
 
 [Extended Data](ext_articles/401bd19d.ext.json)
-
----
-
-### 12 -year -old boy abuse;Two arrests
-
-*2024-01-27 10:27:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-வயது-சிறுவன்-துஷ்பிரயோகம்-இருவர்-கைது/175-332169) · `ta`
-
-A young man and a 16 -year -old boy who had been abused by a 12 -year -old boy were arrested by Angala police yesterday.
-
-The victim has appealed to the police that the two suspects were sexually abused by two suspects while on the beach.
-
-When the young man abused him, the victim had confessed that the other boy had seen it.
-
-In this case, the two suspects have been arrested on the basis of a complaint made by the parents of the victim's boy. (Of)
-
-◼️
-
-[Data](articles/c9944693.json)
-
-[Extended Data](ext_articles/c9944693.ext.json)
-
----
-
-### WPL 2024: UP Warriorz Rope in Chamari Athapaththu
-
-*2024-01-27 10:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/wpl-2024-up-warriorz-rope-in-chamari-athapaththu/) · `en`
-
-UP Warriorz have named Sri Lanka skipper Chamari Athapaththu as a replacement for England fast-bowler Lauren Bell ahead of the 2024 season of the Women’s Premier League (WPL).
-
-English fast bowler Lauren Bell has withdrawn from the upcoming season of the Women’s Premier League 2024.
-
-Among the most powerful hitters in the game, Chamari has featured in over 120 T20Is for Sri Lanka. Known for her attacking batting and handy off-spin bowling, Athapaththu is the only Sri Lankan woman to have scored a century in T20Is.
-
-◼️
-
-[Data](articles/b4cd82ee.json)
-
-[Extended Data](ext_articles/b4cd82ee.ext.json)
-
----
-
-### Highway highway accidents;This is the reason
-
-*2024-01-27 10:21:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலை-விபத்துக்கள்-இதுதான்-காரணம்/175-332168) · `ta`
-
-Minister Bandula Gunawardena said that the main reason for accidents on the highway is that the drivers who do not comply with the rules.
-
-In this case, a special program will be implemented soon against drivers who violate the rules, he said.
-
-Meanwhile, he said that a program to fit the electric lighting on the highway from Katunayake to Colombo has now begun.
-
-◼️
-
-[Data](articles/0c1dac96.json)
-
-[Extended Data](ext_articles/0c1dac96.ext.json)
-
----
-
-### Increased sexual offenses in Sri Lanka
-
-*2024-01-27 10:19:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கையில்-அதிகரிக்கும்-பாலியல்-குற்றங்கள்/175-332167) · `ta`
-
-The Bureau of Police and Women's Bureau says that the year is increasing in sexual offenses in the country.
-
-Deputy Inspector General of Police Renuka Jayasundera has said that 1,502 girls under the age of 18 were raped last year alone.. (Of)
-
-◼️
-
-[Data](articles/bf6e3f1c.json)
-
-[Extended Data](ext_articles/bf6e3f1c.ext.json)
-
----
-
-### Another man arrested in connection with the release of the questionnaire
-
-*2024-01-27 10:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வினாத்தாள்-வெளியானமை-தொடர்பில்-மற்றுமொருவர்-கைது/175-332166) · `ta`
-
-Another man has been arrested in connection with the release of the Agricultural Science Questionnaire for the ongoing GCE A / L examination.
-
-A woman in charge of the examination hall has been arrested and produced before the Ampara Magistrate's Court.
-
-The Magistrate has ordered that the Magistrate's Trustee, the Hall and the first teacher who was first arrested and the first arrested teacher should be remanded until the second of February.
-
-It is reported that the Examination Hall in charge of the incident is serving as a teacher advisor at the Regional Education Office at the Regional Education Office.
-
-The Department of Examinations has stated that the Criminal Investigation Department is conducting further investigations. (Of)
-
-◼️
-
-[Data](articles/2bd5a8c4.json)
-
-[Extended Data](ext_articles/2bd5a8c4.ext.json)
 
 ---

@@ -1,36 +1,96 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 17:33:04**
+As of **2024-01-28 17:52:39**
 
 ## Newspaper Stats
 
-*Scraped **3,074** Articles*
+*Scraped **3,080** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 41
+colombotelegraphcom | 42
 bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 172
 islandlk | 174
 newsfirstlk | 182
 dailyftlk | 215
-adalk | 280
+adalk | 281
 adaderanasinhalalk | 307
-virakesarilk | 318
-tamilmirrorlk | 388
-adaderanalk | 396
+virakesarilk | 320
+tamilmirrorlk | 389
+adaderanalk | 397
 dailymirrorlk | 423
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,074 (100.0%) of 3,074 articles have been extended.
+3,075 (99.8%) of 3,080 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### குவாத்தமாலா : மக்கள் நலனா? நன்றிக்கடனா?
+
+*2024-01-28 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/174995) · `ta`
+
+மத்­திய அமெ­ரிக்கா நாடான குவாத்­த­மா­லாவில் நடை­பெற்ற அரசுத் தலைவர் தேர்­தலில் வெற்றி பெற்ற பெர்­னார்டோ அறி­வலோ பெரும் போராட்­டங்­களின் பின்னர் ஒரு வழி­யாகப் பதவி ஏற்­றி­ருக்­கின்றார். அவ­ரது பத­வி­யேற்பைத் தடுத்­து­விட இறுதி நிமிடம் வரை முயற்சி செய்த அவ­ரது அர­சியல் எதி­ரிகள் அமெ­ரிக்கா முதல் பல உலக நாடுகள் வழங்­கிய அழுத்­தங்­களின் பின்னர், தமது நிலைப்­பாட்டில் இருந்து பின்­வாங்கி பத­வி­யேற்­புக்கு அரை­ம­ன­தோடு சம்­மதம் வழங்­கி­யி­ருந்­தனர். அர­சி­ய­ல­மைப்பின் பிர­காரம், அவ­ரது பத­வி­யேற்பைத் தடுத்­து­விட முடி­யாத நிலையில் கழுத்­த­றுப்பு வேலை­களில் இறங்­கிய எதிர்க்கட்­சியும் அவர்­களின் பின்­ன­ணியில் உள்ள பெரு வணி­கர்­களும் அடி ­ப­ணியும் நிலை உரு­வா­கி­யி­ருந்­தது.
+
+◼️
+
+[Data](articles/5b8fc5d4.json)
+
+---
+
+### பெண்களே  109 ஞாபகமா?
+
+*2024-01-28 17:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களே-109-ஞாபகமா/175-332230) · `ta`
+
+பல்வேறு  இலக்கங்கள் உங்களுக்கு ஞாபகத்தில் இருந்தாலும் 109 என்ற தொலைபேசி இலக்கத்தை மறந்துவிட்டாதீர்கள்.
+
+பெண்களுக்கு எதிரான வன்கொடுமைகள் குறித்து புகார் அளிக்க தனி தொலைபேசி எண் அறிமுகப்படுத்தப்பட்டுள்ளது 109   தொலைபேசி இலக்கமே இவ்வாறு அறிமுகம் செய்யப்பட்டுள்ளது.
+
+இந்நிலையில், “நீதிச் செயற்பாட்டுடன் இணைந்து பெண்களுக்கு எதிரான வன்முறைகளை இல்லாதொழிக்கும் விசேட வேலைத்திட்டமொன்று அமுல்படுத்தப்படும்” என பொது பாதுகாப்பு அமைச்சர் டிரான் அலஸ் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/76149082.json)
+
+---
+
+### இந்­தி­யாவும் தமிழ்க் கட்­சி­களும்
+
+*2024-01-28 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/174994) · `ta`
+
+இந்­தி­யா­விடம் கடன் வாங்­கு­வது வேறு. பொரு­ளா­தார நெருக்­க­டியின்போது 4 மில்­லியன் டொலர் கடனை இந்­தி­யா­விடம் இலங்கை அர­சாங்கம் பெற்­றி­ருக்­கி­றது. ஆனால், தேர்­தலை நடத்­து­வ­தற்­காக கடன் வாங்­கு­வது வேறு. அவ்­வாறு கடன் வாங்­கும்­போது நாட்டின் இறைமை மற்றும் சுதந்­திரம் பற்­றிய கேள்­விகள் எழும். தேர்­தலில் இந்­தி­யாவின் தலை­யீ­டுகள் இருப்­ப­தாக குற்­றச்­சாட்­டுகள் வரும். எனவே, மாகாண சபை தேர்­த­லுக்கு பகி­ரங்­க­மாக நிதியை வழங்கும் அள­வுக்கு இந்­தி­யா­வி­னாலும் செல்ல முடி­யாது. இலங்­கை­யி­னாலும் கேட்க முடி­யாது.
+
+◼️
+
+[Data](articles/5af403e1.json)
+
+---
+
+### Minister Tiran on measures taken to curb harassment and violence against women
+
+*2024-01-28 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96796/minister-tiran-on-measures-taken-to-curb-harassment-and-violence-against-women) · `en`
+
+Sri Lanka’s Minister of Public Security Tiran Alles has revealed that a special programme will operate, in conjunction with the ongoing anti-drug operation ‘Yukthiya’, to eliminate sexual harassment and violence against women.
+
+The Minister made these remarks while addressing officers of the Weyangoda Police Division on Sunday (28 Jan.).
+
+Raising concerns about the increased incidents of harassment and abuse faced women and children including in public transport and on the streets, the Minister urged for those subjected to such incidents to inform the police via the ‘109’ hotline.
+
+“We will resolve the matter within 48 hours”, Alles assured.
+
+◼️
+
+[Data](articles/048f2787.json)
+
+[Extended Data](ext_articles/048f2787.ext.json)
+
+---
 
 ### India-Sri Lanka passenger ferry service to begin on February 15
 
@@ -476,6 +536,22 @@ The Commissioner General of Rehabilitation Heet Hettiarachchi said that the cond
 
 ---
 
+### ජාත්‍යන්තරය මොනවා කිවුවත් ’යුක්තිය’ නවත්වන්නේ නෑ
+
+*2024-01-28 13:15:48* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තරය-මොනවා-කිවුවත්-’යුක්තිය’-නවත්වන්නේ-නෑ/11-407753) · `si`
+
+"යුක්තිය " මෙහෙයුම වැඩපිළිවෙල ක්‍රියාත්මක නොවූයේ නම් ශ්‍රී ලංකාව චිකාගෝවක් වීමට ඉඩ තිබූ බව අමාත්‍ය ටිරාන් අලස් මහතා  ගම්පහ , නයිවලදී පැවසීය.
+
+ගම්පහ පොලිස් කොට්ඨාසයේ පොලිස්ථාන 19 කට අයත් ප්‍රජා පොලිස් කමිටු 709 ක නියෝජිතයින් දැනුවත් කිරීමේ වැඩසටහනකදී  අමාත්‍යවරයා එසේ පැවසූ අතර වැඩි දුරටත් අදහස් දක්වමින් සදහන් කර සිටියේ , යුක්තිය මෙහෙයුමේ වැඩපිළිවෙල යටතේ ලබන ජූනි මස 30 වෙනි දින වනවිට මත් ද්‍රව්‍ය සහ පාතාලය මැඩලීමෙන් රටේ  විශාල වෙනසක් සිදුවන බවයි. ඒ සඳහා පොලීසිය විශාල ශක්තියත් ලබා දී ඇති බවද ඔහු සඳහන් කළේය.
+
+එක්සත් ජාතීන්ගේ සංවිධානය හෝ ජාත්‍යන්තර මොනවා ප්‍රකාශ කළද මත් ද්‍රව්‍ය සහ පාතාලය මැඩලීම පිනිස දැනට ආරම්භ කොට ඇති " යුක්තිය  " මෙහෙයුම කිසි සේත්ම නතර නොකරන බව සදහන් කළ අමාත්‍යවරයා , ජාත්‍යන්තරයට උත්තර දීමට තමන් කාලය ගත නොකරන බවද කීය.
+
+...
+
+[Data](articles/1ac78e01.json)
+
+---
+
 ### Galle Face gearing up for 76th Independence Day
 
 *2024-01-28 13:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Galle-Face-gearing-up-for-76th-Independence-Day/110-275836) · `en`
@@ -625,6 +701,18 @@ For the first time for the GCE Ordinary Level Examination in 2021 (2022)
 [Data](articles/5e92bcc3.json)
 
 [Extended Data](ext_articles/5e92bcc3.ext.json)
+
+---
+
+### RW, IMF & The Economy
+
+*2024-01-28 12:04:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rw-imf-the-economy/) · `en`
+
+President Ranil Wickremesinghe in addressing the International Customs Day Celebrations had once again thrown the gauntlet at all political parties and challenged them to put forward a better and alternative agenda to the current IMF designed economic revival program. In that address, he obviously omitted to utter even one word about the extent of economic hardship endured by a vast majority of people as a result of implementing IMF recommendations. Because, like IMF, RW also believes that the hardship is short term pain worth enduring to achieve long term gain. But who gains at the cost of whose pain is left unsaid. This address, like several of his in recent months, was obviously driven by RW’s political desire to discredit the opposition before declaring the date for presidential poll to which he would be a contestant.
+
+...
+
+[Data](articles/2d03b1f2.json)
 
 ---
 
@@ -1985,111 +2073,5 @@ Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 [Data](articles/d7d6eef8.json)
 
 [Extended Data](ext_articles/d7d6eef8.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-01-28 06:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192640) · `si`
-
-The Meteorological Department says that there will be showers at times in the Eastern and Uva provinces and in the Polonnaruwa, Matale and Nuwara Eliya districts.
-
-The department states that there will be a few showers in the Anuradhapura, Mullaitivu and Hambantota districts.
-
-Eastern Provinces in the Western and Sabaragamuwa Provincial and Galle, Matara and Kandy Districts. Showers or thundershowers will occur at several places after 2.00.
-
-From the Hambantota district, the North, North-Central, Eastern, Central, Uva and North Western provinces.. Strong winds are about 40.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/2eaf7f8f.json)
-
-[Extended Data](ext_articles/2eaf7f8f.ext.json)
-
----
-
-### WHAT THE MAJORITY NEEDS AFTER THE NEXT ELECTION
-
-*2024-01-28 06:06:00* · [`islandlk`](http://island.lk/what-the-majority-needs-after-the-next-election/) · `en`
-
-The majority of the Sri Lankan population is fed up with the system of government that has been thrust upon them since 1978. The Executive Presidency, which JRJ thought would be a boon to this country has become a bane. And now his nephew has taken it a few steps further, trying to legalize various ways of curbing the freedom of the individual by trying to introduce new draconian laws.
-
-...
-
-[Data](articles/983df679.json)
-
-[Extended Data](ext_articles/983df679.ext.json)
-
----
-
-### Wife murder: death sentence for husband
-
-*2024-01-28 03:28:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவி-கொலை-கணவருக்கு-மரணதண்டனை/175-332197) · `ta`
-
-A husband who was arrested for allegedly assaulting his wife and burning kerosene oil has been sentenced to death.
-
-On January 26, 2010, he was arrested for allegedly assaulting his wife in a room and pouring kerosene oil in a room.(a)
-
-◼️
-
-[Data](articles/96375f96.json)
-
-[Extended Data](ext_articles/96375f96.ext.json)
-
----
-
-### Today is the funeral of Sanath Nishantha
-
-*2024-01-28 03:16:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-இறுதிக்கிரியை-இன்று/175-332196) · `ta`
-
-The funeral of the State Minister Sanath Nishantha, who died in a vehicle accident on the Colombo -Katunayake Expressway, will take place today at the Roman Catholic City of Rajagaluwa.
-
-State Minister Sanath Nishantha's body has been placed in his party office at Puttalam research.
-
-◼️
-
-[Data](articles/cbf9d3a8.json)
-
-[Extended Data](ext_articles/cbf9d3a8.ext.json)
-
----
-
-### Grama Niladhari results were released
-
-*2024-01-28 02:16:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கிராம-உத்தியோகத்தர்-பெறுபேறுகள்-வெளியாகின/175-332195) · `ta`
-
-The names of those who qualified for the interview have been released in the competitive examination held to fill the vacancies of 2,002 Grama Niladhari Officers.
-
-It is reported that 4 thousand 232 candidates have qualified for the competitive examination held on the second day of December last year to select Grama Niladhari.
-
-Minister of State for Home Affairs can visit the official website of the Ministry of Home Affairs, Asoka Priyantha said that those who are eligible for the interview.. (A)
-
-◼️
-
-[Data](articles/52ece667.json)
-
-[Extended Data](ext_articles/52ece667.ext.json)
-
----
-
-### Accident again on the highway highway
-
-*2024-01-28 00:34:26* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலையில்-மீண்டும்-விபத்து/175-332194) · `ta`
-
-A container palace on the southern highway has crashed and crashed.
-
-The accident took place today near the 118th kilometer of the Southern Highway.
-
-Traffic from Matara to Colombo has been blocked due to the accident.
-
-As a result, vehicles traveling to Colombo have been announced to re -enter the highway through Kokmadhuwa in Kodagam.. Remble
-
-◼️
-
-[Data](articles/63e1aa9c.json)
-
-[Extended Data](ext_articles/63e1aa9c.ext.json)
 
 ---

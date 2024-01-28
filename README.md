@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 07:52:18**
+As of **2024-01-28 08:02:22**
 
 ## Newspaper Stats
 
-*Scraped **2,964** Articles*
+*Scraped **2,983** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 41
 bbccomsinhala | 53
 dbsjeyarajcom | 124
-islandlk | 159
 economynextcom | 170
 newsfirstlk | 171
+islandlk | 174
 dailyftlk | 215
-adalk | 269
-adaderanasinhalalk | 292
+adalk | 270
+adaderanasinhalalk | 294
 virakesarilk | 305
-tamilmirrorlk | 376
+tamilmirrorlk | 377
 adaderanalk | 384
 dailymirrorlk | 405
 
@@ -26,11 +26,45 @@ dailymirrorlk | 405
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,964 (100.0%) of 2,964 articles have been extended.
+2,964 (99.4%) of 2,983 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### රාජ්‍ය සේවයේ ප්‍රසාරණය ගැන දැනුම්දීමක්
+
+*2024-01-28 07:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192644) · `si`
+
+‍රාජ්‍ය සේවය තවදුරටත් ප්‍රසාරණය කළ නොහැකි බව සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා පවසයි.
+
+අමාත්‍යවරයා පෙන්වා දෙන්නේ, ජන අනුපාතයට අනුව ලෝකයේ වැඩිම රාජ්‍ය සේවකයින් සංඛ්‍යාවක් සිටින රට ශ්‍රී ලංකාව බවයි.
+
+ගාල්ල ප්‍රදේශයේ පැවති උත්සවයකට එක්වෙමින් සෞඛ්‍ය අමාත්‍ය රමේෂ් පතිරණ මහතා මේ බව සදහන් කළේ ය.
+
+◼️
+
+[Data](articles/3634dca6.json)
+
+---
+
+### ලෝක ලාදුරු දිනය අද
+
+*2024-01-28 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192643) · `si`
+
+සෑම වසරකම ජනවාරි මස අවසන් ඉරිදා දිනය ලෝක ලාදුරු දිනය ලෙස නම්කර ඇති අතර, ලෝකයේ රටවල් 120කින් පමණ වාර්ෂික ව ලාදුරු රෝගීන් වාර්තා වන බව සඳහන් ය.
+
+ශ්‍රී ලංකාව ද වාර්ෂිකව එම දිනය සැමරීම සිදු කරන අතර, ලාදුරු රෝගය සම්බන්ධයෙන් ජනතාව දැනුම්වත් කිරීම මෙහි ප්‍රධානතම අරමුණ බව ලාදුරු මර්දන ව්‍යාපාරයේ අධ්‍යක්ෂ විශේෂඥ වෛද්‍ය ප්‍රසාද් රණවීර මහතා පැවසීය.
+
+පෙර වර්ෂවලට සාපේක්ෂ ව පසුගිය වර්ෂයේ මෙරට තුළින් වාර්තා වූ ලාදුරු රෝගීන් සංඛ්‍යාවේ යම් වැඩි වීමක් පෙන්නුම් කරන බව ද විශේෂඥ වෛද්‍ය ප්‍රසාද් රණවීර මහතා සඳහන් කළේ ය.
+
+ළමුන්ට ලාදුරු රෝගය වැළඳීම පාලනය කිරීම සඳහා විශේෂ වැඩපිළිවෙළක් සැලසුම් කර ඇති බව ලාදුරු මර්දන ව්‍යාපාරයේ අධ්‍යක්ෂ විශේෂඥ වෛද්‍ය ප්‍රසාද් රණවීර මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/5864c3fb.json)
+
+---
 
 ### Tiran says that before the end of June
 
@@ -120,6 +154,32 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
+### WHAT THE MAJORITY NEEDS AFTER THE NEXT ELECTION
+
+*2024-01-28 06:06:00* · [`islandlk`](http://island.lk/what-the-majority-needs-after-the-next-election/) · `en`
+
+The majority of the Sri Lankan population is fed up with the system of government that has been thrust upon them since 1978. The Executive Presidency, which JRJ thought would be a boon to this country has become a bane. And now his nephew has taken it a few steps further, trying to legalize various ways of curbing the freedom of the individual by trying to introduce new draconian laws.
+
+...
+
+[Data](articles/983df679.json)
+
+---
+
+### மனைவி கொலை: கணவருக்கு மரணதண்டனை
+
+*2024-01-28 03:28:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவி-கொலை-கணவருக்கு-மரணதண்டனை/175-332197) · `ta`
+
+தனது மனைவியைத் தாக்கி மண்ணெண்ணெய் ஊற்றி தீயிட்டுக் கொலைசெய்த குற்றச்சாட்டில் கைது செய்யப்பட்ட கணவருக்கு மரணதண்டனை விதிக்கப்பட்டுள்ளது.
+
+2010 ஆம் ஆண்டு ஜனவரி மாதம் 26 ஆம் திகதி தனது மனைவியைத் தாக்கி அறையொன்றில் வைத்து மண்ணெண்ணெய் ஊற்றி தீ வைத்து கொழுத்தி கொலை செய்த சம்வம் தொடர்பில் இவர் கைது செய்யப்பட்டிருந்தார்.  (a)
+
+◼️
+
+[Data](articles/96375f96.json)
+
+---
+
 ### Today is the funeral of Sanath Nishantha
 
 *2024-01-28 03:16:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சனத்-நிஷாந்தவின்-இறுதிக்கிரியை-இன்று/175-332196) · `ta`
@@ -174,6 +234,74 @@ As a result, vehicles traveling to Colombo have been announced to re -enter the 
 
 ---
 
+### Sri Lanka Insurance emerged winners at the ‘Great HR Quiz 2023’
+
+*2024-01-28 00:20:00* · [`islandlk`](http://island.lk/sri-lanka-insurance-emerged-winners-at-the-great-hr-quiz-2023/) · `en`
+
+The HR team of Sri Lanka Insurance recently emerged winners at the Great HR Quiz 2023 in the Insurance, Finance and Investment category. The SLIC HR team was also able to secure an impressive 4th place overall out of the 65 companies participated at the quiz.
+
+The Great HR Quiz 2023 was organized by the Chartered Institute of Personnel Management (CIPM). It is the only quiz dedicated to HRM fraternity to uplift the knowledge and capacity of human resources professionals in Sri Lanka and the quiz covers all aspects of HR and general knowledge of participants.
+
+Sri Lanka Insurance emerges winner at the ‘Great HR Quiz 2023’
+
+Sri Lanka Insurance Achieves Milestone with ISO/IEC 27001:2013 Certification for Information Security Management
+
+Sri Lanka Insurance achieves milestone with ISO/IEC 27001: 2013 Certification for Information Security Management
+
+SLI to embark on new journey with segregation of its insurance business
+
+Sri Lanka Insurance celebrates a glorious 62 years of service
+
+...
+
+[Data](articles/c7f460c7.json)
+
+---
+
+### Thema Collection and Market Development Facility join to reduce their carbon emissions
+
+*2024-01-28 00:19:00* · [`islandlk`](http://island.lk/thema-collection-and-market-development-facility-join-to-reduce-their-carbon-emissions/) · `en`
+
+Taking a firm step in moving towards sustainable tourism, Thema Collection joined the Australian government’s funded plan of Market Development Facility (MDF) recently. A marked shift towards sustainable tourism is shown by the escalating impact on the environment affected by anthropogenic activities.
+
+Addressing the event Thema Collection, Director of Marketing & Business Development, Maxime Wickramasinghe, emphasizing the brand’s firm commitment to sustainability spoke of the numerous initiatives already underway, in their eco-friendly hotel chain with 12 unique properties across Sri Lanka. Further, he added the details of their strategic plan to both meticulously measure and reduce the carbon footprint throughout the entirety of the Thema chain.
+
+...
+
+[Data](articles/6c598e2b.json)
+
+---
+
+### Asia Capital Gets New MD
+
+*2024-01-28 00:19:00* · [`islandlk`](http://island.lk/asia-capital-gets-new-md/) · `en`
+
+Asia Capital PLC appoints Raju Radha as Managing Director. The appointment given was while he served as an independent Non-Executive Director of the company thus moving to a role of an Executive Director.
+
+Presently, he is the Managing Director of SAR Shipping Ltd., SAR Maritime Ltd., SAR Trading Ltd., and the Chief Operating Officer of Greenlanka Property Developer Ltd. He is also the founder of Radaan Media Works India Ltd, of which Radha was the founder director r of Radaan Talent Factory a joint venture with Capital Maharaja, as well.
+
+...
+
+[Data](articles/b9910933.json)
+
+---
+
+### Aberdeen Holdings recognized with multiple awards in 2023
+
+*2024-01-28 00:19:00* · [`islandlk`](http://island.lk/aberdeen-holdings-recognized-with-multiple-awards-in-2023/) · `en`
+
+Aberdeen Holdings has been honored for its exceptional performance and growth momentum, with several of its subsidiaries receiving prestigious awards and titles throughout 2023.
+
+Expo Commodities, a subsidiary of Aberdeen Holdings, received three coveted accolades at the 31st NCE Awards by the National Chamber of Exports (NCE). Notably, Expo Commodities secured the overall Gold Award (Medium) in the Organic Products category, the Gold Award (Extra Large) in the Spices and Spices Based Products category, and the Bronze Award (Extra Large) in the Coconut and Coconut Products category.
+
+These awards reinforce Expo Commodities’ position as an industry leader in diverse export sectors, delivering top-quality spices and coconut products and driving innovation in the global marketplace while maintaining a strong focus on sustainability.
+
+...
+
+[Data](articles/fe788095.json)
+
+---
+
 ### 2024-01-27 (Saturday)
 
 ### Indian envoy lauds LIOC’s contribution to Sri Lanka’s economy
@@ -197,6 +325,20 @@ Earlier in September, Santosh Jha was appointed as India’s next High Commissio
 [Data](articles/8305c04a.json)
 
 [Extended Data](ext_articles/8305c04a.ext.json)
+
+---
+
+### සනත් නිශාන්තගේ මාරක අනතුරින් මිය ගිය MSD නිලධාරියාට රු. ලක්ෂ 15ක්
+
+*2024-01-27 22:20:54* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්තගේ-මාරක-අනතුරින්-මිය-ගිය-MSD-නිලධාරියාට-රු--ලක්ෂ-15ක්/11-407744) · `si`
+
+ඇමති සනත් නිශාන්ත මහතා සමග රිය අනතුරින් මිය ගිය ඇමති ආරක්ෂක අංශයේ නිලධාරියා වෙත රුපියල් ලක්ෂ 15ක මුදලක් ලබාදීමට වැඩ බලන පොලිස්පතිවරයා කටයුතු කර තිබේ.
+
+පොලිස් කොස්තාපල්වරයාගේ නිවසට ගොස් දේහයට අවසන් ගෞරව දැක්වීමෙන් අනතුරුව මෙම මුදල් පිරිනමා තිබේ.
+
+◼️
+
+[Data](articles/4de619b7.json)
 
 ---
 
@@ -394,6 +536,32 @@ The abduction had occurred approximately 1,160 nautical miles away from the Sri 
 
 ---
 
+### The Value of Goodness – employing business profits to help the needy
+
+*2024-01-27 21:13:00* · [`islandlk`](http://island.lk/the-value-of-goodness-employing-business-profits-to-help-the-needy/) · `en`
+
+he who refreshes will himself be refreshed Bible book of proverbs
+
+My mother was the first genuine practitioner of community responsibility that I knew. She had never heard of Corporate Social Responsibility but her faith, upbringing, and innate goodness commanded that she bear some accountability for her neighbours’ wellbeing. Her instinctive and visible generosity was of direct benefit, in many small ways, to the less advantaged in our village community of Pallansena. Ours was a family of moderate means and by no means affluent, but it is my view that sharing comes easily, and more naturally, to those of a modest background.
+
+...
+
+[Data](articles/47a04276.json)
+
+---
+
+### CPA critique of On Line Safety Bill
+
+*2024-01-27 21:13:00* · [`islandlk`](http://island.lk/cpa-critique-of-on-line-safety-bill/) · `en`
+
+On September 18, 2023, the Government of Sri Lanka published a Bill titled “Online Safety” and this was subsequently tabled in Parliament on October 3. The Bill aims to establish an Online Safety Commission with a range of powers, including the ability to direct persons and internet service providers to remove vaguely deJined “prohibited statements” from online platforms.
+
+...
+
+[Data](articles/6530d2fd.json)
+
+---
+
 ### Underworld and drug dealers are burden to the country - Tiran Alles
 
 *2024-01-27 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192635) · `si`
@@ -411,6 +579,20 @@ The Minister made these comments participating in the Negombo Divisional Police 
 [Data](articles/8e3f9c99.json)
 
 [Extended Data](ext_articles/8e3f9c99.ext.json)
+
+---
+
+### Back home working in Sri Lanka with WHO, ILO, World Bank and ICES
+
+*2024-01-27 20:47:00* · [`islandlk`](http://island.lk/back-home-working-in-sri-lanka-with-who-ilo-world-bank-and-ices/) · `en`
+
+(Excerpted from Memories that linger: My journey through the world of disability by Padmani Mendis)
+
+Although I had carried out assignments for all the WHO Regional Offices except the European Office quite early on in my journey, I had not really had the opportunity to work with WHO Colombo. That is until the year 2012 when the World Report on Disability was published jointly by WHO and the World Bank, a very significant event for disabled people worldwide. The Regional Office in New Delhi, for reasons best known to them, had selected Sri Lanka as a regional focal point for an official launch of the publication.
+
+...
+
+[Data](articles/99194b51.json)
 
 ---
 
@@ -712,6 +894,22 @@ Although surrounded by the sea, the island neither has a domestic yatch culture,
 
 ---
 
+### The turbulent brilliance of “Gia,” world’s first supermodel
+
+*2024-01-27 17:08:00* · [`islandlk`](http://island.lk/the-turbulent-brilliance-of-gia-worlds-first-supermodel/) · `en`
+
+From stardom to shadows, glamour, grit, and a runway tragedy
+
+It was the year 2019 and it was one of my habits to visit the local library near my hometown here in Canada whenever I got a chance because, it was one of the quieter places in the city. I remember entering its empty hallways wondering when might have been the last time that someone may have set foot in there because for some reason, though I always felt welcome, there was always a sense of cold and emptiness around the place; as if it has accepted its fate of being unrealized and unnoticed.
+
+During one of my visits, I was intrigued by a title of a book named “Thing of Beauty”, which at first seemed like a romance or some sort of a coming-of-age novel. But I was quite taken aback after carefully going through its faded brown pages with a taped back hardcover realizing it was a biography of “Gia Marie Carangi”, who was once dubbed one the most unstoppable forces in the fashion industry during the late ‘70s and early ‘80’s.
+
+...
+
+[Data](articles/81ffdf5b.json)
+
+---
+
 ### 74 year old woman dies
 
 *2024-01-27 16:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192629) · `si`
@@ -727,6 +925,20 @@ The post mortem was revealed that she had been sexually abused.
 [Data](articles/bf63ba87.json)
 
 [Extended Data](ext_articles/bf63ba87.ext.json)
+
+---
+
+### Buddhists in Ancient Egypt?
+
+*2024-01-27 16:35:00* · [`islandlk`](http://island.lk/buddhists-in-ancient-egypt/) · `en`
+
+Researchers have discovered a two-foot-tall Buddha statue in Berenike, an ancient Egyptian port city on the Red Sea. The artifact is the first Buddha ever found west of Afghanistan, according to the New York Times Review of Books’ William Dalrymple. Made from Mediterranean marble, it provides new evidence of trade between ancient Rome and India.
+
+Based on stylistic details, the researchers think it was made in Alexandria around the second century C.E. A halo around the statue’s head is covered with rays of sun, “which indicates his radiant mind,” says the Egyptian Ministry of Tourism and Antiquities in a statement. Founded in the third century B.C.E., Berenike eventually became one of the largest ports in Roman-controlled Egypt, according to the antiquities ministry.
+
+...
+
+[Data](articles/9449663d.json)
 
 ---
 
@@ -885,6 +1097,24 @@ It has been reported that the resolution has been reached by the essential food 
 [Data](articles/a6340e6c.json)
 
 [Extended Data](ext_articles/a6340e6c.ext.json)
+
+---
+
+### Death Row Controversy in the State of Alabama, USA
+
+*2024-01-27 15:29:00* · [`islandlk`](http://island.lk/death-row-controversy-in-the-state-of-alabama-usa/) · `en`
+
+The United States of America prides itself as the greatest nation in the world, the One Nation Under God (the Protestant Incarnation), the haven of peace and compassion. A thrice-blessed country where citizens are expected to live according to the sacred teachings of the Bible.
+
+The macabre case of Kenneth Smith seems to be completely at odds with these sanctimonious claims.
+
+Kenneth Eugene Smith, 58 years old, was convicted for the contract killing of Elizabeth Sennett of Colbert County, Alabama, 35 years ago. He was a part of a team hired by her husband, Charles Sennett, Sr. to commit the murder, which was carried out by stabbing Elizabeth to death at her Colbert County home in March 1988.
+
+Charles Sennett committed suicide a week after the killing, when he learnt he was a suspect in the murder. After over three decades of appeals, the others involved in the killing have either died in prison or been executed by lethal injection. Smith alone remains on death row, 35 years later.
+
+...
+
+[Data](articles/a30fe6df.json)
 
 ---
 
@@ -1743,327 +1973,5 @@ The Department of Examinations has stated that the Criminal Investigation Depart
 [Data](articles/2bd5a8c4.json)
 
 [Extended Data](ext_articles/2bd5a8c4.ext.json)
-
----
-
-### 818 arrested in 24 hours
-
-*2024-01-27 10:14:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/24-மணித்தியாலங்களில்-மேலும்-818-பேர்-கைது/175-332165) · `ta`
-
-818 suspects have been arrested under the strategy of 24 hours after the early hours of this morning (27).
-
-One of them has been detained and eight others have been recommended for rehabilitation.
-
-In addition, 159 grams of heroin, 112 grams of ice and 329 narcotics have been seized, the Ministry of Public Safety said.. (Of)
-
-◼️
-
-[Data](articles/635776ef.json)
-
-[Extended Data](ext_articles/635776ef.ext.json)
-
----
-
-### Sri Lanka to Power Up with Uma Oya Project: 120 MW Boost Expected Soon
-
-*2024-01-27 10:05:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/sri-lanka-to-power-up-with-uma-oya-project-120-mw-boost-expected-soon/) · `en`
-
-COLOMBO (News 1st); Sri Lanka's national electricity grid is set for a significant boost, with State Minister of Irrigation Shasheendra Rajapaksa announcing that the Uma Oya project is nearing completion and poised to inject 120 megawatts of capacity into the system as early as next month.
-
-The State Minister highlighted the Uma Oya project as one of several major multipurpose development initiatives currently underway under the Ministry of Irrigation.
-
-He noted that many of these projects, including Uma Oya, rely on foreign loan assistance for their construction and are nearing completion.
-
-The Umaoya project is not just about boosting the national grid; it also promises significant agricultural benefits.
-
-With the project's irrigation component coming online, an estimated 4,500 hectares of existing rice fields and 1,500 hectares of new land will receive water, significantly enhancing the country's agricultural output.
-
-...
-
-[Data](articles/98bbde1d.json)
-
-[Extended Data](ext_articles/98bbde1d.ext.json)
-
----
-
-### Half burnt body removed from crematorium for postmortem
-
-*2024-01-27 10:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Half-burnt-body-removed-from-crematorium-for-postmortem/108-275795) · `en`
-
-Gampaha, Han. 27 (Daily Mirror)- A body which was being cremated had been taken out and referred to JMO Wathupitiwala Hospital for postmortem examination.
-
-The deceased woman, R.D. Sirisoma Ranasinghe (81) of Veyangoda area was an inmate of a home for the aged in Mirigama. The doctors had declared that she had died of pneumonia and accordingly taken steps to cremate the body.
-
-Police said she had taken ill and admitted to Mirigama Base Hospital and died of pneumonia as decided by the doctors.
-
-However, when her guardian did not show any response to information on her death, the home for the aged had taken steps to cremate the body at the Mirigama crematorium.
-
-...
-
-[Data](articles/53b49bf7.json)
-
-[Extended Data](ext_articles/53b49bf7.ext.json)
-
----
-
-### Social Media and Approved Online Act
-
-*2024-01-27 09:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192616) · `si`
-
-There was a time when the bills came on. The conversation of the Bills, Ranil Wickremesinghe, the conversation of the bills came to the president.
-
-Anti-Terrorism Bill, Corruption Bill, Bill and Online Methods of Online Skills Bills. As these drafts were tabled in Parliament, the society caused serious turmoil in society.
-
-...
-
-[Data](articles/ab854688.json)
-
-[Extended Data](ext_articles/ab854688.ext.json)
-
----
-
-### Litro Gas contributes another Rs. 1.5 billion to Treasury
-
-*2024-01-27 09:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96762/litro-gas-contributes-another-rs-15-billion-to-treasury) · `en`
-
-Litro Gas Company’s profits for the year 2023, totalling Rs. 1.5 billion, was officially handed over to the Sri Lanka Insurance Corporation, the company’s parent entity, during a ceremony held at the Presidential Secretariat on Friday (Jan.26).
-
-Muditha Peiris, Chairman of Litro Gas Company, presented the cheque to Sagala Ratnayaka, the President’s Senior Adviser on National Security and Chief of Presidential Staff.
-
-Subsequently, Mr. Ratnayaka handed over the cheque to Sriyani Kulasinghe, the Chief Financial Officer of Sri Lanka Insurance Company.
-
-During the handover, Litro chairman acknowledged the significant growth achieved by the company, even in challenging economic times, attributing it to the guidance of President Ranil Wickremesinghe and the unwavering support of Mrs. Ratnayake.
-
-Additionally, Mr. Peiris highlighted that Litro Gas Company contributed Rs. 3 billion as dividends to the Treasury in the year 2023 alone.
-
-◼️
-
-[Data](articles/edf0cb61.json)
-
-[Extended Data](ext_articles/edf0cb61.ext.json)
-
----
-
-### Hubeur attacked by Adon Sea
-
-*2024-01-27 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192615) · `si`
-
-Houthi insurgents have launched an air strike on the sea of Eden in the Sea of Gulf.
-
-According to foreign reports, one of the items on the ship was a blast in a container, and the fire supplements were used to control it.
-
-The US has said that no casualties have been reported due to the attack, and all staff has been able to liberate.
-
-This is the latest assault on commercial shipping by the red sea and around the Red Sea and at that.
-
-The UK Marine Trade Operations (UK) has said that the attack has been attacked by 60 nautical miles from a southeast.
-
-◼️
-
-[Data](articles/e42eeebc.json)
-
-[Extended Data](ext_articles/e42eeebc.ext.json)
-
----
-
-### EC informed of MP seat left vacant after Sanath Nishantha’s death
-
-*2024-01-27 09:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96761/ec-informed-of-mp-seat-left-vacant-after-sanath-nishanthas-death) · `en`
-
-The Parliament has informed the Election Commission of the MP seat left vacant following the demise of State Minister Sanath Nishantha, who represented the Puttalam constituency.
-
-This was communicated in writing to the election body’s chairman on Friday (Jan.26).
-
-The Deputy Secretary General of Parliament has further mentioned that the notification was made in terms of Section 64(1) of the Parliamentary Elections Act No. 1 of 1981.
-
-State Minister Sanath Nishantha, 48, was killed in a fatal accident that took place on the Colombo - Katunayake expressway around 2:00 a.m. on Thursday (Jan.25). The car had crashed into the roadside barrier before rear-ending a moving container truck.
-
-Shortly after the collision, three critically injured people – State Minister Nishantha, his security officer and the driver – had been rushed to the Colombo North Teaching Hospital in Ragama. But the lawmaker and the security officer, a police constable named Jayakody had succumbed to injuries.
-
-...
-
-[Data](articles/3540b5c5.json)
-
-[Extended Data](ext_articles/3540b5c5.ext.json)
-
----
-
-### 818 suspects arrested
-
-*2024-01-27 09:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192614) · `si`
-
-818 suspects have been arrested under the operation of 24 hours of justice operation ended at 12.30 am today.
-
-It is reported that eight others have been sent to rehabilitation.
-
-The Ministry of Defense has announced that 159 grams of heroin, 112 g of ice and 329 drugs had been arrested.
-
-◼️
-
-[Data](articles/9bc41302.json)
-
-[Extended Data](ext_articles/9bc41302.ext.json)
-
----
-
-### 818 more suspects arrested under ongoing ‘Yukthiya’ operation
-
-*2024-01-27 09:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96760/818-more-suspects-arrested-under-ongoing-yukthiya-operation) · `en`
-
-A total of 818 more suspects have been arrested by the security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan.27) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-The police have secured detention orders on one arrestee for onward investigations, and sent 8 others to rehabilitation centres.
-
-Ministry of Public Security said the narcotics impounded during this 24-hour window include 159g of heroin, 112g of crystal methamphetamine (‘Ice’), and 329 narcotic pills.
-
-◼️
-
-[Data](articles/f2cc4685.json)
-
-[Extended Data](ext_articles/f2cc4685.ext.json)
-
----
-
-### Trump must pay $83.3m for defaming columnist
-
-*2024-01-27 08:36:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Trump-must-pay-83-3m-for-defaming-columnist/108-275818) · `en`
-
-BBC - A New York jury has decided Donald Trump should pay $83.3m (£65m) for defaming columnist E Jean Carroll in 2019 while he was US president.
-
-Mr Trump was previously found to have defamed Ms Carroll and to have sexually assaulted her in the 1990s.
-
-The jury's penalty in the civil trial is made up of $18.3m for compensatory damages and $65m in punitive damages.
-
-Mr Trump vowed to appeal, calling the case a witch hunt and the verdict "Absolutely ridiculous!"
-
-The compensatory damages are meant to account for the harm his comments did to her reputation and emotional wellbeing.
-
-The panel also had to come up with a punitive penalty intended to stop Mr Trump from continuing to speak out against her.
-
-It took the jury of seven men and two women less than three hours to reach a verdict on Friday afternoon.
-
-"This is a great victory for every woman who stands up when she's been knocked down, and a huge defeat for every bully who has tried to keep a woman down," Ms Carroll said in a statement.
-
-...
-
-[Data](articles/bb2d2eed.json)
-
-[Extended Data](ext_articles/bb2d2eed.ext.json)
-
----
-
-### 264 Individuals with Outstanding Warrants Arrested
-
-*2024-01-27 08:33:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/264-individuals-with-outstanding-warrants-arrested/) · `en`
-
-COLOMBO (News 1st); Sri Lanka Police have apprehended 818 suspects across the island nation in the past 24 hours.
-
-The operation, targeting a range of criminal activities, yielded significant results, including the capture of drug offenders, individuals with outstanding warrants, and wanted criminals.
-
-The operation's focus on drug trafficking paid off handsomely, with 554 suspects linked to drug offenses apprehended.
-
-Of the total arrests, 10 were identified as high-priority targets on the watchlists of both the Police Narcotics Bureau and the Police Special Bureau.
-
-Further investigation under detention orders is underway for one suspect, while eight identified drug addicts were directed towards rehabilitation programs.
-
-The crackdown also led to the seizure of a substantial quantity of illegal narcotics, including:
-
-The operation also netted 264 individuals with outstanding warrants, including 25 specifically related to drug offenses and 231 pertaining to other criminal activities.
-
-...
-
-[Data](articles/fc615a48.json)
-
-[Extended Data](ext_articles/fc615a48.ext.json)
-
----
-
-### Shipping in Edanwalakuda
-
-*2024-01-27 08:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/174888) · `ta`
-
-Its owner said that an oilplane was burnt in Edanwalakuda due to the attack of Haiti insurgents.
-
-The ship operated by Marlin Lua Hnta has caught fire due to a missile attack by the Holy Seth.
-
-US officials said that the anti -shiping missile oil ship has been rushed to aid for aid.
-
-Britain's Maritime Action Organization said the warships went to the ship.
-
-The British organization said that other ships should travel with caution and report on suspicion.
-
-◼️
-
-[Data](articles/bc24d56f.json)
-
-[Extended Data](ext_articles/bc24d56f.ext.json)
-
----
-
-### Sanath Nishantha’s Bodyguard Posthumously Promoted to Sergeant
-
-*2024-01-27 08:30:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/sanath-nishantha-s-bodyguard-posthumously-promoted-to-sergeant/) · `en`
-
-COLOMBO (News 1st): Sri Lanka Police has awarded Rs. 1.5 Million to the family of deceased police constable Anuradha Jayakodi, who tragically died while serving as the bodyguard of State Minister Sanath Nishantha.
-
-The Police Media Division confirmed that the financial assistance was presented by Acting Inspector General of Police Deshbandu Tennakoon.
-
-Further honoring Jayakodi's service, the late constable was posthumously promoted to the rank of sergeant yesterday (26).
-
-Jayakodi, a father of one, was only 43 years old at the time of his passing.
-
-Joining the police service in 2007, Jayakodi distinguished himself by serving in the VIP security service for the past five years, and served for the late Sanath Nishantha.
-
-A tragic accident on the Katunayake Expresswat claimed the lives of both State Minister Sanath Nishantha and Anuradha Jayakodi, leaving a void in the Sri Lankan government and police force.
-
-...
-
-[Data](articles/a0eb3399.json)
-
-[Extended Data](ext_articles/a0eb3399.ext.json)
-
----
-
-### Australia marks national day that stokes patriotism and anger
-
-*2024-01-27 08:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Australia-marks-national-day-that-stokes-patriotism-and-anger/108-275817) · `en`
-
-Sydney, Jan 27 (CNN) — “Australia Day is Dead!” Indigenous activist Gwenda Stanley chants into the loudspeaker, as a crowd of thousands breaks into applause.
-
-It’s Australia’s national day, but the crowd in central Sydney seethes in anger and cheers in solidarity with Indigenous Australians, many of whom view January 26 as nothing but the anniversary of their colonial dispossession, 236 years ago this Friday.
-
-“Australia is stolen land and we need to be united and firm in our resistance and sustain that resistance until justice is achieved under our terms,” protest organizer Lynda-June Coe, a Wiradjuri woman, told CNN.
-
-The Sydney crowd is diverse, and it’s replicated in Australian cities nationwide.
-
-Each year an increasing number of non-Indigenous Australians find it impossible to celebrate Australia Day, in the knowledge that many of their Indigenous fellow citizens treat it as a day of mourning.
-
-...
-
-[Data](articles/4c84939d.json)
-
-[Extended Data](ext_articles/4c84939d.ext.json)
-
----
-
-### Court issues Red notices for four alleged Al-Qaeda aides abroad
-
-*2024-01-27 08:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-issues-Red-notices-for-four-alleged-Al-Qaeda-aides-abroad/108-275796) · `en`
-
-Colombo, Jan. 27 (Daily Mirror)- Colombo Additional Magistrate Pasan Amarasinghe yesterday (26) ordered the issuance of a red warrant in English, ordering the arrest of four suspects who are said to be currently abroad for aiding and abetting the Al-Qaeda terrorist organization.
-
-The red notices have been issued on the request of the Terrorists Investigation Division (TID).
-
-The red warrants were issued against the father and son and two other people who are said to be residing in Kaleliya, Kalagedi Henawala areas and are currently residing in Australia and Syria.
-
-The TID has filed a case against 16 suspects in 2021 and issued red warrants to four of those suspects.
-
-Thus the red warrants were issued to four people named Ahmed Khalil Luqman Talib, Ahman Luqmand Haleen, Abdul Bahin Mohammad Lebbe and Mohammad Pahir Ripon who are said to be residents of Australia.
-
-◼️
-
-[Data](articles/9a71b6fc.json)
-
-[Extended Data](ext_articles/9a71b6fc.ext.json)
 
 ---

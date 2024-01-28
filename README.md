@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 13:51:45**
+As of **2024-01-28 14:02:22**
 
 ## Newspaper Stats
 
@@ -26,41 +26,45 @@ dailymirrorlk | 414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,047 (99.9%) of 3,049 articles have been extended.
+3,049 (100.0%) of 3,049 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### කන්දකාඩුවේ ගැටුම් විසඳීමට කඩිනම් වැඩපිළිවෙළක්
+### A speedy program to solve conflict in Kandakaduwa
 
 *2024-01-28 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192656) · `si`
 
-කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ නිරන්තරයෙන් හටගන්නා ගැටුම්කාරී සිදුවීම් පාලනය කිරීමට කඩිනම් වැඩපිළිවෙළක් ක්‍රියාත්මක කරන බව පුනරුත්ථාපන කොමසාරිස් ජනරාල් මේජර් ජෙනරාල් දර්ශන හෙට්ටිආරච්චි මහතා පවසයි.
+Commerce Commissioner General of Rehabilitation says that a pronouncement will be implemented to control the constant conflict incidents in the Kandakadu Rehabilitation Center.
 
-ඔහු පෙන්වා දෙන්නේ, අදාළ ගැටුම්වලට ප්‍රධානතම හේතුව මත්ද්‍රව්‍ය ජාවාරම්කරුවන් ද පුනරුත්ථාපන මධ්‍යස්ථන වෙත ඇතුළත්ව සිටීම බවයි.
+He points out that the main reason for the conflict is that the drug dealers are also included in rehabilitation centers.
 
-ජනවාරි මාසය තුළ අවස්ථා දෙකක දී කන්දකාඩු පුනරුත්ථාපන මධ්‍යස්ථානයේ රැඳවියන් අතර ගැටුම්කාරී සිදුවීම් වාර්තා විය.
+In the month of January, the inmates of the Kandakadu Rehabilitation Center were reported between the inmates of the Kandakadu Rehabilitation Center.
 
-අදාළ තත්ත්වයන් මේ වන විට පාලනය කිරීමට හැකියාව ලැබී ඇති නමුත් මේ සඳහා දීර්ඝ කාලීන විසඳුමක් අවශ්‍ය වී ඇති බව පුනරුත්ථාපන කොමසාරිස් ජනරාල් මේජර් ජනරාල් දර්ශන හෙට්ටිආරච්චි මහතා සඳහන් කරයි.
+The Commissioner General of Rehabilitation Heet Hettiarachchi said that the conditions have been able to control the situation, but the Commissioner General of Rehabilitation is required for a long term solution.
 
 ◼️
 
 [Data](articles/da6c5321.json)
 
+[Extended Data](ext_articles/da6c5321.ext.json)
+
 ---
 
-### ක්‍රිකට් තහනම ඉවත් වන ලකුණු
+### Signs of ban with cricket
 
 *2024-01-28 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192655) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ශ්‍රී ලංකා ක්‍රිකට් වෙත පනවා තිබෙන තහනම ඉදිරි දින කිහිපය තුළ දී ඉවත් කරනු ඇතැයි තමන් විශ්වාස කරන බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පවසයි.
+He believes that he believes that the International Cricket Council will be removed in the next few days, said Sports Minister Harin Fernando.
 
-වත්තල දී මාධ්‍යය වෙත අදහස් දක්වමින් අමාත්‍යවරයා මේ බව සඳහන් කළේ ය.
+Speaking to the media in Wattala, the minister made this statement.
 
 ◼️
 
 [Data](articles/24ef79a8.json)
+
+[Extended Data](ext_articles/24ef79a8.ext.json)
 
 ---
 

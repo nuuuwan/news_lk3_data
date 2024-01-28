@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 02:02:39**
+As of **2024-01-29 02:17:08**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,149 (99.9%) of 3,151 articles have been extended.
+3,151 (100.0%) of 3,151 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ The conference brought together delegates from India, Pakistan, Bangladesh, the 
 
 [Data](articles/7d05dc67.json)
 
+[Extended Data](ext_articles/7d05dc67.ext.json)
+
 ---
 
 ### Litro says growth trajectory to continue; gives Rs. 3 b dividend to Treasury
@@ -61,6 +63,8 @@ Furthermore, Litro has demonstrated its commitment to national empowerment by al
 ...
 
 [Data](articles/938420f1.json)
+
+[Extended Data](ext_articles/938420f1.ext.json)
 
 ---
 

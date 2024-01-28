@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 18:32:38**
+As of **2024-01-28 18:50:26**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,086 (99.8%) of 3,091 articles have been extended.
+3,091 (100.0%) of 3,091 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
 [Data](articles/641d654f.json)
 
+[Extended Data](ext_articles/641d654f.ext.json)
+
 ---
 
 ### Phase one of Uma Oya project completed – Minister
@@ -68,6 +70,8 @@ Taking to ‘X’ (formerly Twitter), the Minister revealed that the first unit 
 
 [Data](articles/0fff01dd.json)
 
+[Extended Data](ext_articles/0fff01dd.ext.json)
+
 ---
 
 ### Rail freight rates to increase from February
@@ -82,23 +86,27 @@ The amendments were made according to the Railways Ordinance (Chapter 200) with 
 
 [Data](articles/b7db14da.json)
 
+[Extended Data](ext_articles/b7db14da.ext.json)
+
 ---
 
-### இளைஞரைக் காணவில்லை ; தேடும் உறவினர்கள்
+### Missing the young man;Relatives looking for
 
 *2024-01-28 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175012) · `ta`
 
-யாழ்ப்பாணம் இணுவிலைச் சேர்ந்த 27 வயது  இளைஞர் ஒருவரைக் காணவில்லை என அவரது உறவினர்களால் சுன்னாகம் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+A complaint has been lodged at the Chunnakam police station by his relatives that a 27 -year -old youth from Jaffna is missing.
 
-கடந்த 26 ஆம் தேதி வியாழக்கிழமை முதல் குறித்த இளைஞன் காணாமல் போனதாக அவரது உறவினர்கள் முறைப்பாடு செய்துள்ளனர்.
+His relatives have complained that the young man has disappeared since Thursday 26th.
 
-இளைஞர் காணாமல் போன தினத்தில் மஞ்சள் நிற டீசேர்ட் மற்றும் கறுப்பு நிற அரைக்காற்சட்டை அணிந்திருந்ததாக இளைஞனின் உறவினர்கள் தெரிவிக்கின்றனர்.
+Relatives of the youth report that the young man was wearing a yellow teaser and a black half -man on the day of the disappearance of the youth.
 
-இவரைப் பற்றிய தகவல் அறிந்தாலோ அல்லது  இவரை எங்காவது கண்டாலோ சுன்னாகம் பொலிஸ் நிலையத்திற்கோ அல்லது  இளைஞரது உறவினர்களது தொலைபேசி இலக்கங்களான  077-2690673 அல்லது 077-6523229 அறிவிக்குமாறு  உறவினர்கள் கேட்டுக் கொண்டுள்ளனர்.
+Relatives have been asked to announce him to the Chunnakam Police Station or the telephone number 077-2690673 or 077-6523229.
 
 ◼️
 
 [Data](articles/6ed63ec3.json)
+
+[Extended Data](ext_articles/6ed63ec3.ext.json)
 
 ---
 
@@ -141,6 +149,8 @@ According to the Department, charges for railway freight services will be increa
 ◼️
 
 [Data](articles/1755e041.json)
+
+[Extended Data](ext_articles/1755e041.ext.json)
 
 ---
 

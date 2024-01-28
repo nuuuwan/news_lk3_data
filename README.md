@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 21:33:01**
+As of **2024-01-28 21:51:30**
 
 ## Newspaper Stats
 
-*Scraped **3,128** Articles*
+*Scraped **3,129** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,32 +19,54 @@ adalk | 285
 adaderanasinhalalk | 320
 virakesarilk | 330
 tamilmirrorlk | 394
-adaderanalk | 405
+adaderanalk | 406
 dailymirrorlk | 430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,127 (100.0%) of 3,128 articles have been extended.
+3,129 (100.0%) of 3,129 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### ඩකා සම්මාන උළෙලේ හොඳම අධ්‍යක්ෂණය ජගත් මනුවර්ණ
+### The best direction of the Dakka Awards is the global
 
 *2024-01-28 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192671) · `si`
 
-22 වන ඩකා අන්තර්ජාතික සිනමා සම්මාන උළෙලේ හොඳම අධ්‍යක්ෂණයට හිමි සම්මානය ජගත් මනුවර්ණ විසින් හිමිකරගෙන තිබේ.
+The 22nd, Jagath has won the best direction of the 22nd Dhaka International Film Awards.
 
-ජගත් මනුවර්ණ විසින් අධ්‍යක්ෂණය කළ රහස් කියන කඳු චිත්‍රපටය වෙනුවෙන් එම සම්මානය හිමිව ඇත.
+The award has been awarded for the secret mountain directed by the global streets.
 
-රහස් කියන කඳු චිත්‍රපටය ජගත් මනුවර්ණගේ කුළුඳුල් සිනමා නිර්මාණය වීම ද විශේෂත්වයකි.
+The secrets of the secrets is also a source of global film.
 
 ◼️
 
 [Data](articles/fa55e5e9.json)
+
+[Extended Data](ext_articles/fa55e5e9.ext.json)
+
+---
+
+### ICC confirms lifting of Sri Lanka’s suspension
+
+*2024-01-28 20:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96805/icc-confirms-lifting-of-sri-lankas-suspension) · `en`
+
+The International Cricket Council (ICC) has confirmed that the suspension imposed against Sri Lanka Cricket (SLC) has been lifted, with immediate effect.
+
+Issuing a statement in this regard on Sunday (28 Jan.), the ICC said “The ICC Board has been monitoring the situation since the suspension and are now satisfied that SLC are no longer in breach of membership obligations”.
+
+Earlier today, Sports Minister Harin Fernando announced that the ICC Had lifted its ban on Sri Lanka.
+
+On 10 November 2023, Sri Lanka Cricket (SLC) were suspended for violation of responsibilities as an ICC Member, in particular, “the requirement to manage its affairs autonomously and ensure that there is no government interference in the governance, regulation and/or administration of cricket in Sri Lanka.”
+
+...
+
+[Data](articles/f1d0abb1.json)
+
+[Extended Data](ext_articles/f1d0abb1.ext.json)
 
 ---
 
@@ -1941,27 +1963,5 @@ The car has been completely destroyed and the six personnel have died in the sam
 [Data](articles/4b587ceb.json)
 
 [Extended Data](ext_articles/4b587ceb.ext.json)
-
----
-
-### Increase in incidents of railway track
-
-*2024-01-28 11:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்-பிறழ்வு-சம்பவங்கள்-அதிகரிப்பு/175-332201) · `ta`
-
-According to studies conducted by the Railway Department, the railway derailment has increased from 2000 to 2023.
-
-Accordingly, the train derailment has doubled in 2022 and 2023 compared to 2020 and 2021.
-
-The 98 train derailed by 2020, of which 54 railway yards and 44 railway tracks.
-
-The number of railway derails in 2021. More than 75 railway line derailed, the remaining 40 railroads took place.
-
-By 2022, the number of railway tracks increased to 133;The department said that 94 of them were on the railway tracks.
-
-◼️
-
-[Data](articles/304b5e53.json)
-
-[Extended Data](ext_articles/304b5e53.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 01:02:26**
+As of **2024-01-29 01:17:25**
 
 ## Newspaper Stats
 
-*Scraped **3,146** Articles*
+*Scraped **3,148** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 125
 economynextcom | 174
 islandlk | 174
 newsfirstlk | 184
-dailyftlk | 219
+dailyftlk | 221
 adalk | 288
 adaderanasinhalalk | 324
 virakesarilk | 330
@@ -26,11 +26,33 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,142 (99.9%) of 3,146 articles have been extended.
+3,146 (99.9%) of 3,148 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### Marikkar reveals real reasons behind parliament prorogation
+
+*2024-01-29 00:41:06* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-reveals-real-reasons-behind-parliament-prorogation/56-757871) · `en`
+
+Says decision to prorogue parliament was an indirect attempt to oust CoPE Chairman
+
+Claims Govt. lacks courage to directly remove him from post despite many allegations against him
+
+Stresses Wickremesinghe will not be able to prolong his tenure as polls cannot be postponed any longer
+
+Vows to display where power of citizens lies on 30 January through mass demonstration organised by SJB
+
+SJB MP S.M. Marikkar asserted yesterday that President Ranil Wickremesinghe’s abrupt decision to prorogue parliament was an indirect attempt to oust the Chairman of the Committee On Public Enterprises, Ranjith Bandara due to allegations against him, suggesting that the Government lacked the courage to directly remove him from the post.
+
+He noted that the Government has opted for proroguing parliament as it automatically results in the cancellation of all committees, effectively removing Ranjith Bandara from his post without the need for direct action to strip him of the position.
+
+...
+
+[Data](articles/fd0f6aac.json)
+
+---
 
 ### India rushes to aid SL in rescue of fisherman abducted by Somali pirates
 
@@ -46,6 +68,8 @@ The multiday fishing trawler identified as Lorenzo Putha-4, had departed from Di
 
 [Data](articles/f50e211e.json)
 
+[Extended Data](ext_articles/f50e211e.ext.json)
+
 ---
 
 ### Govt. approves stringent penalties for offences
@@ -59,6 +83,8 @@ The Cabinet of Ministers gave its nod to a draft amendment presented by Justice 
 ...
 
 [Data](articles/a59080dd.json)
+
+[Extended Data](ext_articles/a59080dd.ext.json)
 
 ---
 
@@ -80,6 +106,8 @@ President Wickremesinghe highlighted the importance of integrating the Urban Dev
 
 [Data](articles/410e9427.json)
 
+[Extended Data](ext_articles/410e9427.ext.json)
+
 ---
 
 ### 2024-01-28 (Sunday)
@@ -93,6 +121,22 @@ SME associations want parate rights to be deferred for 12 months to give breathi
 ...
 
 [Data](articles/f9a9805c.json)
+
+[Extended Data](ext_articles/f9a9805c.ext.json)
+
+---
+
+### Chips are everywhere: But can Sri Lanka ride the wave?
+
+*2024-01-28 22:59:17* · [`dailyftlk`](https://www.ft.lk/columns/Chips-are-everywhere-But-can-Sri-Lanka-ride-the-wave/4-757848) · `en`
+
+It is in the interest of the country to take early action to ride this wave by being a collaborative partner of India which is moving fast to make itself a semiconductor country soon
+
+Semiconductors are a promising industry and therefore the investors in the industry have high expectations about its growth. If they compete with each other, it will be a ‘lose-lose’ situation. Hence, the chip makers should learn from those who have been successful in creating economic profit. In this case, identifying the profitable segments of the industry and seeking to take leadership in those areas will be the secret to learn. The leading players so far have invested massive amounts in Research and Development or R&D enabling them to come up with improved products and enjoy leadership in the area
+
+...
+
+[Data](articles/27fcf4fe.json)
 
 ---
 
@@ -1925,35 +1969,5 @@ For the first time for the GCE Ordinary Level Examination in 2021 (2022)
 [Data](articles/5e92bcc3.json)
 
 [Extended Data](ext_articles/5e92bcc3.ext.json)
-
----
-
-### RW, IMF & The Economy
-
-*2024-01-28 12:04:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/rw-imf-the-economy/) · `en`
-
-President Ranil Wickremesinghe in addressing the International Customs Day Celebrations had once again thrown the gauntlet at all political parties and challenged them to put forward a better and alternative agenda to the current IMF designed economic revival program. In that address, he obviously omitted to utter even one word about the extent of economic hardship endured by a vast majority of people as a result of implementing IMF recommendations. Because, like IMF, RW also believes that the hardship is short term pain worth enduring to achieve long term gain. But who gains at the cost of whose pain is left unsaid. This address, like several of his in recent months, was obviously driven by RW’s political desire to discredit the opposition before declaring the date for presidential poll to which he would be a contestant.
-
-...
-
-[Data](articles/2d03b1f2.json)
-
-[Extended Data](ext_articles/2d03b1f2.ext.json)
-
----
-
-### Electoral bribery fine raised to Rs. 100,000
-
-*2024-01-28 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Electoral-bribery-fine-raised-to-Rs-100-000/108-275834) · `en`
-
-Colombo, Jan 28 (Daily Mirror) - The government of Sri Lanka has decided to amplify the penalty for the offense of bribery aimed at influencing votes during an election.
-
-Accordingly, the fine, previously set at Rs. 500, has now been escalated to Rs 100,000.
-
-◼️
-
-[Data](articles/0310b77f.json)
-
-[Extended Data](ext_articles/0310b77f.ext.json)
 
 ---

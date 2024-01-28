@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 21:17:14**
+As of **2024-01-28 21:33:01**
 
 ## Newspaper Stats
 
-*Scraped **3,127** Articles*
+*Scraped **3,128** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 174
 newsfirstlk | 183
 dailyftlk | 215
 adalk | 285
-adaderanasinhalalk | 319
+adaderanasinhalalk | 320
 virakesarilk | 330
 tamilmirrorlk | 394
 adaderanalk | 405
@@ -26,11 +26,27 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,127 (100.0%) of 3,127 articles have been extended.
+3,127 (100.0%) of 3,128 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### ඩකා සම්මාන උළෙලේ හොඳම අධ්‍යක්ෂණය ජගත් මනුවර්ණ
+
+*2024-01-28 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192671) · `si`
+
+22 වන ඩකා අන්තර්ජාතික සිනමා සම්මාන උළෙලේ හොඳම අධ්‍යක්ෂණයට හිමි සම්මානය ජගත් මනුවර්ණ විසින් හිමිකරගෙන තිබේ.
+
+ජගත් මනුවර්ණ විසින් අධ්‍යක්ෂණය කළ රහස් කියන කඳු චිත්‍රපටය වෙනුවෙන් එම සම්මානය හිමිව ඇත.
+
+රහස් කියන කඳු චිත්‍රපටය ජගත් මනුවර්ණගේ කුළුඳුල් සිනමා නිර්මාණය වීම ද විශේෂත්වයකි.
+
+◼️
+
+[Data](articles/fa55e5e9.json)
+
+---
 
 ### Super win of West Indies
 
@@ -1947,27 +1963,5 @@ By 2022, the number of railway tracks increased to 133;The department said that 
 [Data](articles/304b5e53.json)
 
 [Extended Data](ext_articles/304b5e53.ext.json)
-
----
-
-### Increase in railway track incidents
-
-*2024-01-28 11:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்-புரளும்-சம்பவங்கள்-அதிகரிப்பு/175-332201) · `ta`
-
-According to studies conducted by the Railway Department, there has been an increase in railway tracks from 2000 to 2023.
-
-Accordingly, the incidents of railway tracking have doubled in 2022 and 2023 compared to 2020 and 2021.
-
-The 98 train derailed by 2020, of which 54 railway yards and 44 railway tracks.
-
-The number of railway derails in 2021. More than 75 railway line derailed, the remaining 40 railroads took place.
-
-By 2022, the number of railway tracks increased to 133;The department said that 94 of them were on the railway tracks.
-
-◼️
-
-[Data](articles/d223b48a.json)
-
-[Extended Data](ext_articles/d223b48a.ext.json)
 
 ---

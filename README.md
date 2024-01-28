@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 19:49:20**
+As of **2024-01-28 20:02:15**
 
 ## Newspaper Stats
 
-*Scraped **3,106** Articles*
+*Scraped **3,115** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,88 @@ economynextcom | 172
 islandlk | 174
 newsfirstlk | 183
 dailyftlk | 215
-adalk | 283
-adaderanasinhalalk | 316
+adalk | 285
+adaderanasinhalalk | 317
 virakesarilk | 323
-tamilmirrorlk | 393
+tamilmirrorlk | 394
 adaderanalk | 403
-dailymirrorlk | 424
+dailymirrorlk | 429
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,106 (100.0%) of 3,106 articles have been extended.
+3,107 (99.7%) of 3,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### ක්‍රිකට් තහනම ඉවතට
+
+*2024-01-28 19:20:26* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිකට්-තහනම-ඉවතට/11-407763) · `si`
+
+ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ශ්‍රී ලංකාව වෙත පනවා තිබූ තහනම වහාම ක්‍රියාත්මක වන පරිදි ඉවත්කිරීමට පියවර ගෙන තිබේ.
+
+ඊට අදාළ නිල නිවේදනය කඩිනමින් නිකුත් කරන බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා සිය X ගිණුමේ සටහනක් තබමින් පවසයි.
+
+◼️
+
+[Data](articles/f2fbb1cd.json)
+
+---
+
+### Final rites for late Sanath Nishantha at Rajakadalu
+
+*2024-01-28 19:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Final-rites-for-late-Sanath-Nishantha-at-Rajakadalu/110-275849) · `en`
+
+The remains of State Minister of Water Supply, Sanath Nishantha, who died in a car accident on the Colombo-Katunayake expressway, was cremated today (28) at the Roman Catholic Cemetery in Rajakadalu. Pix by Hiran Priyankara Jayasinghe
+
+◼️
+
+[Data](articles/c6512bcf.json)
+
+---
+
+### இலங்கைக்கு விதிக்கப்பட்ட தடை நீக்கம்
+
+*2024-01-28 19:01:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-விதிக்கப்பட்ட-தடை-நீக்கம்/175-332235) · `ta`
+
+இலங்கைக்கு விதிக்கப்பட்டிருந்த தடையை உடனடியாக அமுலுக்கு வரும் வகையில் சர்வதேச கிரிக்கட் பேரவை (ஐ.சி.சி.) நீக்கியுள்ளதாக விளையாட்டு அமைச்சர் ஹரீன் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/9b4fd6ce.json)
+
+---
+
+### ICC lifts ban on Sri Lanka with immediate effect
+
+*2024-01-28 18:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/ICC-lifts-ban-on-Sri-Lanka-with-immediate-effect/155-275848) · `en`
+
+The International Cricket Council (ICC) lifted the ban that was imposed on Sri Lanka with immediate effect, Sports Minister Harin Fernando said.
+
+◼️
+
+[Data](articles/1d9f44e8.json)
+
+---
+
+### Sanath Nishantha passes through the people
+
+*2024-01-28 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192668) · `si`
+
+The funeral of Hon. Sanath Nishantha's remains were held in an accident on the Katunayake Expressway this afternoon.
+
+Rajakdaluwa was taken from the house of the State Minister in the Arachchikattuwa to the Catholic Catholic Cemetery in the house.
+
+◼️
+
+[Data](articles/7d6bbe9d.json)
+
+[Extended Data](ext_articles/7d6bbe9d.ext.json)
+
+---
 
 ### ICC ban removed
 
@@ -79,6 +145,24 @@ The train had reportedly been plying back towards Colombo after completing a par
 [Data](articles/aa657b65.json)
 
 [Extended Data](ext_articles/aa657b65.ext.json)
+
+---
+
+### Train compartment hired for filming derails between Hatton and Kotagala
+
+*2024-01-28 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-compartment-hired-for-filming-derails-between-Hatton-and-Kotagala/108-275847) · `en`
+
+Kotagala, Jan 28 (Daily Mirror) - The observation compartment of the train hired for the filming of a foreign movie derailed between Hatton and Kotagala railway stations this evening, the Railways Department said.
+
+They said six compartments had been hired for filming purposes from January 24 to 29.
+
+The compartment derailed while on its way to Colombo after completing the filming of the train in parts, they said.
+
+Train services on the up-country line have been disrupted due to this derailment, the department said.
+
+◼️
+
+[Data](articles/b7dfe34d.json)
 
 ---
 
@@ -959,6 +1043,22 @@ He added that these obstacles are inappropriate in the context of war migration 
 [Data](articles/3615bad7.json)
 
 [Extended Data](ext_articles/3615bad7.ext.json)
+
+---
+
+### ඇල්ලට හොඳ කලක්
+
+*2024-01-28 13:39:41* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලට-හොඳ-කලක්/11-407756) · `si`
+
+ඇල්ල නගරයට මේ දිනවල විදේශීය සංචාරකයන් බහුලව පැමිණෙමින් සිටිති .
+
+මේ නිසාවෙන් කුලිරථ රියදුරන් ගේ, සංචාරක මගපෙන්වන්නන්ගෙ , හෝටල් හිමියන්ගේ , වෙළෙඳ ව්‍යාපාරික ප්‍රජාවගේ මෙන්ම ජනතාව ගේ ද අතමිට සරුවීමට පටන් ගෙන තිබේ .
+
+කොළඹ සිට බදුල්ල බලා ධාවනය වූ පොඩිමැනිකේ දුම්රියේන්  ඇල්ල නගරයට  විශාල විදේශීය සංචාරකයන් පිරිසක්  අද (28) පැමිණි අයුරුයි මේ'
+
+◼️
+
+[Data](articles/d2bacb42.json)
 
 ---
 
@@ -1891,155 +1991,5 @@ According to foreign media, the two fishing boats will be brought to Male City a
 [Data](articles/4004d43a.json)
 
 [Extended Data](ext_articles/4004d43a.ext.json)
-
----
-
-### More countries pause funds for UN Palestinian agency
-
-*2024-01-28 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96785/more-countries-pause-funds-for-un-palestinian-agency) · `en`
-
-Six European countries paused funding for the U.N. refugee agency for Palestinians (UNRWA) on Saturday, following allegations that some of its staff were involved in the Oct. 7 Hamas attacks on Israel.
-
-Britain, Germany, Italy, the Netherlands, Switzerland and Finland on Saturday joined the United States, Australia and Canada in pausing funding to the aid agency, a critical source of support for people in Gaza, after the allegations by Israel.
-
-“Palestinians in Gaza did not need this additional collective punishment,” Philippe Lazzarini, UNRWA commissioner-general, said on X. “This stains all of us.”
-
-The agency said on Friday it had opened an investigation into several employees and severed ties with those people.
-
-Encouraging more donor suspensions, Israeli Foreign Minister Israel Katz said UNRWA should be replaced once fighting in the enclave dies down and accused it of ties to Islamist militants in Gaza.
-
-...
-
-[Data](articles/c1892851.json)
-
-[Extended Data](ext_articles/c1892851.ext.json)
-
----
-
-### Uma will be given 120 mega watts
-
-*2024-01-28 10:04:17* · [`adalk`](https://www.ada.lk/breaking_news/උමාඔයෙන්-මෙගා-වොට්-120ක්-දෙන-දිනය-කියයි/11-407749) · `si`
-
-Irrigation State Minister Shashindra Rajapaksa said that a 120 MW of electricity will be added to the national gygrology under the Uma Oma Oya project.
-
-According to the State Minister, 31 reservoirs to add 3077 MW of Solar panels on the water have already been identified to add 3077 MW to the national grid.
-
-Irrigation State Shashindra Rajapaksa made these comments participating at a press conference held at the press conference at the Presidential Media Center.
-
-2024 The main function of the Ministry of Irrigation Ministry is aimed at enhancement of food production, increasing the production of food safety. President Ranil Wickremesinghe has allocated Rs. 23,413 million from President Ranil Wickremesinghe to the Ministry of Irrigation. 6913 million has been reserved for the maintenance of reservoirs and allocated Rs. 16,500 million for large-scale irrigation projects.
-
-...
-
-[Data](articles/a1c9c57e.json)
-
-[Extended Data](ext_articles/a1c9c57e.ext.json)
-
----
-
-### Operation Yukthiya Nets 803 Suspects in 24-Hour Sweep
-
-*2024-01-28 10:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/operation-yukthiya-nets-803-suspects-in-24-hour-sweep/) · `en`
-
-COLOMBO (News 1st); Sri Lankan authorities under Operation Yukthiya have apprehended a staggering 803 suspects within a 24-hour period.
-
-The sweeping operation, coordinated by the Ministry of Public Security, targeted individuals involved in drug trafficking, warrant offenses, and other criminal activities.
-
-Of the total arrested, 562 suspects were found to be actively engaged in drug-related offenses.
-
-Notably, 241 of these individuals had been identified by the Crimes Divisions as priority targets in their ongoing drug enforcement efforts.
-
-The Ministry further confirmed the arrest of 225 individuals with outstanding warrants.
-
-Security forces involved in the operation successfully seized a significant amount of illegal narcotics, including approximately 212 grams of heroin and 101 grams of methamphetamine (ice).
-
-Investigations are currently underway to determine the status of five additional individuals detained during the operation and held under detention orders.
-
-...
-
-[Data](articles/690ec1ba.json)
-
-[Extended Data](ext_articles/690ec1ba.ext.json)
-
----
-
-### Two gazettes canceled
-
-*2024-01-28 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192649) · `si`
-
-Sports Minister Harin Fernando has taken steps to dissolve the interim committees appointed to the Sri Lanka Karatra Do Conference and the Sri Lanka Motor Sports Association.
-
-July 28, July on the 28th of July last year, Roshan Ranasinghe was suspended by Roshan Ranasinghe and was suspended to be temporarily maintained by the work of the Association.
-
-The gazette, the suspension has been canceled by the Minister of Sports and has been handed over to the elected office bearers of the Karate Dro Conference.
-
-Roshan Ranasinghe has also taken steps to appoint a inter-discharge from August 09 last year.
-
-The present Sports Minister Harin Fernando has taken steps to cancel the relevant gazette notification and transfer the activities of the Association.
-
-◼️
-
-[Data](articles/5d984a93.json)
-
-[Extended Data](ext_articles/5d984a93.ext.json)
-
----
-
-### Sanath Nishantha To Be Laid to Rest Today (28)
-
-*2024-01-28 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/sanath-nishantha-to-be-laid-to-rest-today-28/) · `en`
-
-COLOMBO (News 1st); Following a tragic road accident earlier this week, the final rites of former State Minister Sanath Nishantha will take place today afternoon at Holy Family Church Rajakadaluwa.
-
-Public respects can be paid at Nishantha's residence in Arachchikattuwa until 2pm today, before the ceremony and burial.
-
-Nishantha tragically passed away earlier this week in a car accident near the 11th kilometer post on the Colombo-Katunayake expressway.
-
-His vehicle collided with a container truck traveling in the same direction, claiming the lives of Nishantha and his police constable bodyguard, Anuradha Jayakodi.
-
-Sri Lanka Police has awarded Rs. 1.5 Million to the family of deceased police constable Anuradha Jayakodi, who tragically died while serving as the bodyguard of State Minister Sanath Nishantha.
-
-Further honoring Jayakodi's service, the late constable was posthumously promoted to the rank of sergeant yesterday (26).
-
-...
-
-[Data](articles/d934349a.json)
-
-[Extended Data](ext_articles/d934349a.ext.json)
-
----
-
-### Lorenzo Putha 4 hijacked, still no contact, all communications on standby: Fisheries Department
-
-*2024-01-28 09:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Lorenzo-Putha-4-hijacked-still-no-contact-all-communications-on-standby-Fisheries-Department/155-275828) · `en`
-
-Colombo, Jan 28 (Daily Mirror) - Colombo Measures are being taken with the support of the Foreign Ministry and the Sri Lanka Navy to release the 'Lorenzo Putha 4' - a Sri Lankan multi-day fishing trawler which was hijacked by Somali pirates yesterday, Director General of the Fisheries and Aquatic Resources Department Susantha Kahawatta said.
-
-He said the Somali pirates who hijacked the multi-day trawler have not made any communication with the Fisheries Department or any other responsible government institutions.
-
-Therefore, we are unaware of the target and their demand to hijack the multi-day fishing trawler, Kahawatta said.
-
-...
-
-[Data](articles/436b3a2c.json)
-
-[Extended Data](ext_articles/436b3a2c.ext.json)
-
----
-
-### 39% of adults to JVP if there is a general election
-
-*2024-01-28 09:36:38* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයක්-තිබුණොත්-වැඩිහිටියන්ගෙන්-සියයට-39ක්-ජවිපෙට/11-407748) · `si`
-
-The latest inquiry issued by the Health Circular Point stated that 39 percent of the elders in December 2023.
-
-According to the survey, the reconciliation of the reconciliation is 27 percent and 10 percent of the Sri Lanka Front Front.
-
-There are 6% per cent of the UNP and the Sri Lanka Freedom Party.
-
-◼️
-
-[Data](articles/2e8eeaec.json)
-
-[Extended Data](ext_articles/2e8eeaec.ext.json)
 
 ---

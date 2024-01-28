@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 10:17:19**
+As of **2024-01-28 10:32:37**
 
 ## Newspaper Stats
 
-*Scraped **2,998** Articles*
+*Scraped **3,000** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 174
 newsfirstlk | 176
 dailyftlk | 215
 adalk | 272
-adaderanasinhalalk | 297
+adaderanasinhalalk | 299
 virakesarilk | 305
 tamilmirrorlk | 378
 adaderanalk | 387
@@ -26,11 +26,31 @@ dailymirrorlk | 406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,997 (100.0%) of 2,998 articles have been extended.
+2,998 (99.9%) of 3,000 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### ගැසට් 02ක් අවලංගු කෙරේ
+
+*2024-01-28 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192649) · `si`
+
+ශ්‍රී ලංකා කරාතේ දෝ සම්මේලනය සහ ශ්‍රී ලංකා මෝටර් රථ ක්‍රීඩා සංගමය සදහා පත්කර තිබූ අතුරු කමිටු විසුරුවා හැරීමට ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පියවර ගෙන තිබේ.
+
+පසුගිය වසරේ ජුලි මස 28 වැනි දින එවකට ක්‍රීඩා අමාත්‍යවරයා ලෙස කටයුතු කළ රොෂාන් රණසිංහ මහතා විසින් කරාතේ දෝ සම්මේලනයේ ලියාපදිංචිය අත්හිටුවා එම සංගමයේ කටයුතු තාවකාලිකව පවත්වාගෙන යාමට අතුරු කමිටුවක් පත්කරනු ලැබිණි.
+
+වත්මන් ක්‍රීඩා අමාත්‍යවරයා විසින් අදාළ අත්හිටුවීම සිදු කළ ගැසට් පත්‍රය අවලංගු කර ඇති අතර, කරාතේ දෝ සම්මේලනයේ කටයුතු මීට පෙර පැවති නිලවරණයෙන් තේරී පත්වූ නිලධාරී මණ්ඩලය වෙත පවරා තිබේ.
+
+ශ්‍රී ලංකා මෝටර් රථ ක්‍රීඩා සංගමයේ ලියාපදිංචිය ද පසුගිය වසරේ අගෝස්තු මස 09 වැනි දින තාවකාලික ව අත්හිටුවා අතුරු කමිටුවක් පත්කිරීමට රොෂාන් රණසිංහ මහතා විසින් කටයුතු කර තිබිණි.
+
+ඊට අදාළ ගැසට් නිවේදනය ද අවලංගු කර එම සංගමයේ කටයුතු ද පෙර පැවති නිලධාරී මණ්ඩලය වෙත පැවරීමට වත්මන් ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා විසින් පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/5d984a93.json)
+
+---
 
 ### Occasionally rains in some districts
 
@@ -51,6 +71,24 @@ The Department of Meteorology has requested the public to take necessary steps t
 [Data](articles/018f1e65.json)
 
 [Extended Data](ext_articles/018f1e65.ext.json)
+
+---
+
+### තවත් සැකකරුවන් 803 දෙනෙකු අත්අඩංගුවට
+
+*2024-01-28 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192648) · `si`
+
+දිවයින පුරා ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ අද (19) අලුයම අවසන් වූ පැය 24 තුළ සැකකරුවන් 803 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මෙහෙයුම්වල දී හෙරොයින් ග්‍රෑම් 212ක්, අයිස් ග්‍රෑම් 101ක් සහ මත්පෙති 169ක් පොලිස් භාරයට ගෙන ඇත.
+
+මීට අමතර ව අත්අඩංගුවට ගත් සැකකරුවන් අතරින් සැකකරුවන් 05 දෙනෙකුට රැඳවුම් නියෝග මත වැඩිදුර විමර්ශන සිදු කරයි.
+
+මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවෙකු පුනරුත්ථාපනය සඳහා යොමු කර ඇති බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/e31eb3a9.json)
 
 ---
 
@@ -91,6 +129,8 @@ The assailants, armed with T-56 guns, ambushed the victims as they entered a loc
 ...
 
 [Data](articles/3f76fac0.json)
+
+[Extended Data](ext_articles/3f76fac0.ext.json)
 
 ---
 
@@ -1999,41 +2039,5 @@ This development comes amidst heightened tensions at the Kankakadu Treatment Reh
 [Data](articles/96eee7a1.json)
 
 [Extended Data](ext_articles/96eee7a1.ext.json)
-
----
-
-### Kidney Sale for Drugs: Suspect Remanded in Sri Lanka
-
-*2024-01-27 11:18:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/kidney-sale-for-drugs-suspect-remanded-in-sri-lanka/) · `en`
-
-COLOMBO (News 1st); A shocking case of organ trafficking has come to light in Sri Lanka, with a 32-year-old man from the Kathankudi area being arrested for allegedly selling his kidney to purchase drugs.
-
-The suspect, whose name has not been released by authorities, was produced before the Batticaloa Magistrate's Court and remanded in custody.
-
-Adding a further layer of complexity to the case, police revealed that the suspect was also found in possession of ice, a highly addictive methamphetamine.
-
-According to police reports, the suspect had sold his kidney in Colombo sometime ago.
-
-Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
-
-◼️
-
-[Data](articles/63672dad.json)
-
-[Extended Data](ext_articles/63672dad.ext.json)
-
----
-
-### Three killed in accident on Kurunegala - Giriulla main road
-
-*2024-01-27 11:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96764/three-killed-in-accident-on-kurunegala-giriulla-main-road) · `en`
-
-Three individuals were reported dead following a collision between a lorry and a three-wheeler at Kiwulgalla on the Kurunegala-Giriulla main road this morning (Jan.27), the police said.
-
-◼️
-
-[Data](articles/965ac04c.json)
-
-[Extended Data](ext_articles/965ac04c.ext.json)
 
 ---

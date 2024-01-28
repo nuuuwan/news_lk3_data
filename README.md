@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 21:51:30**
+As of **2024-01-28 22:02:38**
 
 ## Newspaper Stats
 
-*Scraped **3,129** Articles*
+*Scraped **3,132** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,40 @@ economynextcom | 172
 islandlk | 174
 newsfirstlk | 183
 dailyftlk | 215
-adalk | 285
+adalk | 287
 adaderanasinhalalk | 320
 virakesarilk | 330
 tamilmirrorlk | 394
-adaderanalk | 406
+adaderanalk | 407
 dailymirrorlk | 430
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,129 (100.0%) of 3,129 articles have been extended.
+3,129 (99.9%) of 3,132 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### Jagath Manuwarna wins ‘Best Director’ at Dhaka International Film Festival
+
+*2024-01-28 21:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96806/jagath-manuwarna-wins-best-director-at-dhaka-international-film-festival-) · `en`
+
+Sri Lankan film director Jagath Manuwarna has won the prestigious award of ‘Best Director’ in the Asian Competition Section of the 22nd Dhaka International Film Festival (DIFF).
+
+Manuwarna won the title for his feature film directorial debut, ‘Whispering Mountains’ (Rahas Kiyana Kandu), which premiered at the Bright Future programme of the 2023 International Film Festival Rotterdam, where it won the NETPAC Awards for the best Asian feature film.
+
+The 87-minute film was also invited at the 28th Busan International Film Festival in October 2023.
+
+The DIFF was held from 20 – 28 January, under the theme ‘Better Film, Better Audience, and Better Society’, with a total of 253 movies being displayed at the festival.
+
+◼️
+
+[Data](articles/eafff8f8.json)
+
+---
 
 ### The best direction of the Dakka Awards is the global
 
@@ -274,6 +292,22 @@ This is because after becoming the leader of the Tamil state party, he will have
 
 ---
 
+### අවසාන රාජාසන කථාව කිරීමට පාර්ලිමේන්තුවේ වාරාවසාන කරයි
+
+*2024-01-28 18:59:34* · [`adalk`](https://www.ada.lk/breaking_news/අවසාන-රාජාසන-කථාව-කිරීමට-පාර්ලිමේන්තුවේ-වාරාවසාන-කරයි/11-407760) · `si`
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ජනාධිපති ලෙස සිදුකරන අවසාන රාජාසන කතාව සිදු කිරීමට සහ ඉවත් කිරීමට නොහැකි කෝප් සභාපතිවරයාව ඉවත් කිරීම යන කරුණු දෙක මුල් කරගනිමින් පාර්ලිමේන්තුව වාර අවසාන කළ බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා පැවසීය.
+
+කොළම විපක්ෂනායක කාර්යාලයේ අද (28දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+
+"මේ වන විට පාර්ලිමේන්තුව වාර අවසාන කරලා තියෙනවා. පුදුම ආණ්ඩුවක් මේක. වර්තමාන ජනාධිපතිවරයා ආවට පස්සේ කී වතාවක් පාර්ලිමේන්තුව වාරාවසාන කළාද කියලා දන්නේ නෑ. මේ පාර්ලිමේන්තුව හතර වතාවක් විතර වාරාවසාන කරලා තියෙනවා. මේ වතාවේ වාරාවසාන කරලා තියෙන්නේ හේතු දෙකක් උඩ.
+
+...
+
+[Data](articles/d298aa97.json)
+
+---
+
 ### Success - What did the failure determined?
 
 *2024-01-28 18:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175007) · `ta`
@@ -363,6 +397,24 @@ India does not want to develop enmity around itself. It is firmly believed that 
 [Data](articles/8da92073.json)
 
 [Extended Data](ext_articles/8da92073.ext.json)
+
+---
+
+### දුම්රිය පාර්සල් ප්‍රවාහන ගාස්තු ඉහළට
+
+*2024-01-28 18:52:27* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-පාර්සල්-ප්‍රවාහන-ගාස්තු-ඉහළට/11-407759) · `si`
+
+දුම්රියෙන් පාර්සල් සහ භාණ්ඩ ප්‍රවාහන ගාස්තු සියයට 80 කට අදික ප්‍රතිශතයකින් ඉහළ දැමූ බවත් එම ගාස්තු ඉහළ දැමීම ලබන පෙරවාරි මස 1 වැනිදා සිට ක්‍රියාතමක වන බවත් දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+පාර්සලයක් වෙනුවෙන් මීට පෙර අය කළ අවම ගාස්තුව රුපියල් 50 සිට රුපියල් 150 දක්වා ඉහළ දමා තිබේ.
+
+පාර්සලයේ වටිනාකම මත නව ගාස්තු ක්‍රමයක් හදුන්වා  දී ඇති අතර ඒ අනුව පාර්සල් සහ භාණ්ඩ ප්‍රවාහන ගාස්තු ද ඒවාට අදාළ අනෙකුත් රෙගුලාසි සඳහා වන ගාස්තු ද සංශෝධනය කළ බවත් දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+දුම්රිය දෙපාර්තමේන්තුව පාර්සල් ප්‍රවාහන කිරීමේදී මෙතෙක් ක්‍රියාත්මක කළ එම පාර්සලයේ බර අනුව ගාස්තු අයකිරීම වෙනුවට දුම්රිය ස්ථානට ඇති දුර පදනම් කර ගනිමින් ගාස්තු අය කර එම ගාස්තුව අනුව වැට් බදු පමණක් අය කර පාර්සලයේ ප්‍රවාහන ගාස්තුව අය කිරීමට තීරණය කර තිබේ.
+
+...
+
+[Data](articles/fb94aa80.json)
 
 ---
 
@@ -1911,57 +1963,5 @@ Foreign media reports that the two boats were seized on the 25th and are under t
 [Data](articles/fed1c5f1.json)
 
 [Extended Data](ext_articles/fed1c5f1.ext.json)
-
----
-
-### India does not intervene in the Tamil National Party (TNA) leader Sreedharan
-
-*2024-01-28 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/174962) · `ta`
-
-It is a contradiction in history that the race that is fighting for a liberation and the defeat of the war is thinking about its liberation and trying to keep them in oppression of the winning race.. But, a long journey that passes through those contradictory things that we will achieve a national liberation. We have seen many improvements in this long journey.. People are clearly. Have given us the order. There will definitely be changes in the future.
-
-◼️
-
-[Data](articles/3ae17165.json)
-
-[Extended Data](ext_articles/3ae17165.ext.json)
-
----
-
-### A student who was sitting with friends and chatting on the railway line collided with the train!
-
-*2024-01-28 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174965) · `ta`
-
-A 16 -year -old schoolgirl who was sitting with a group of friends on the railway track has been admitted to the Galle Karapitiya Teaching Hospital after being hit by a train near the Pusa railway station.
-
-A schoolgirl from Pusa Wellapatha area was injured in the accident.
-
-The student was hit by a train traveling from Galle to Aluthgama while sitting on the railway track with six of his friends.
-
-◼️
-
-[Data](articles/bc139eca.json)
-
-[Extended Data](ext_articles/bc139eca.ext.json)
-
----
-
-### Six killed in accident
-
-*2024-01-28 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192652) · `si`
-
-Six persons were killed in a car accident in the Tenkasi area in Tamil Nadu, India.
-
-The accident occurred this morning (28), Indian media reports.
-
-The accident occurred when a car and lorry collided with the face.
-
-The car has been completely destroyed and the six personnel have died in the same place.
-
-◼️
-
-[Data](articles/4b587ceb.json)
-
-[Extended Data](ext_articles/4b587ceb.ext.json)
 
 ---

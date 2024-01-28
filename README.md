@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 19:17:15**
+As of **2024-01-28 19:33:00**
 
 ## Newspaper Stats
 
-*Scraped **3,102** Articles*
+*Scraped **3,106** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,92 @@ adalk | 283
 adaderanasinhalalk | 316
 virakesarilk | 323
 tamilmirrorlk | 393
-adaderanalk | 399
+adaderanalk | 403
 dailymirrorlk | 424
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,099 (99.9%) of 3,102 articles have been extended.
+3,102 (99.9%) of 3,106 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### ICC තහනම ඉවතට
+### ICC ban removed
 
 *2024-01-28 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192667) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ශ්‍රී ලංකාව වෙත පනවා තිබූ තහනම වහාම ක්‍රියාත්මක වන පරිදි ඉවත්කිරීමට පියවර ගෙන තිබේ.
+Steps have been taken to remove the ban on Sri Lanka immediately after the International Cricket Council (ICC).
 
 ◼️
 
 [Data](articles/9e794332.json)
 
+[Extended Data](ext_articles/9e794332.ext.json)
+
 ---
 
-### ஜனாதிபதியை சந்தித்து ரகசியம் பேசிய எதிர்க்கட்சி எம்.பிக்கள்
+### ICC lifts suspension on Sri Lanka Cricket - Sports Minister
+
+*2024-01-28 18:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96802/icc-lifts-suspension-on-sri-lanka-cricket-sports-minister) · `en`
+
+The International Cricket Council (ICC) has lifted the ban imposed on Sri Lanka Cricket with immediate effect, Sports Minister Harin Fernando revealed.
+
+He said an official statement from the ICC will follow shortly.
+
+On 10 November, the ICC suspended SLC’s membership, with immediate effect, on the grounds that the governing body is in serious breach of its obligations as a Member, in particular, the requirement to manage its affairs autonomously and ensure that there is no government interference in the governance, regulation and/or administration of cricket in Sri Lanka.
+
+◼️
+
+[Data](articles/fc9c2b1f.json)
+
+---
+
+### Up-country services disrupted as train details
+
+*2024-01-28 18:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96801/up-country-services-disrupted-as-train-details) · `en`
+
+Railway operations along the up-country line have been disrupted after a special train derailed between the Kotagala and Hatton railway stations.
+
+According to the Sri Lanka Railways Department, the relevant train was one that had been provided for the production of an Indian film from 24 – 29 January.
+
+The train had reportedly been plying back towards Colombo after completing a part of the said production when the incident had occurred.
+
+◼️
+
+[Data](articles/aa657b65.json)
+
+---
+
+### Opposition MPs who met the president and spoke secret
 
 *2024-01-28 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175010) · `ta`
 
-நிகழ்­நிலை காப்புச் சட்ட மூலத்­துக்கு எதி­ராக இரு குழுக்கள் மாத்­தி­ரமே எதிர்ப்பை வெளி­யி­டு­கின்­றன. அவர்­களின் முத­லாவது குழு­வினர் ஊட­கங்­களில் பணி ­பு­ரிந்துகொண்டு சமூக வலைத்­த­ளங்­களை பயன்­ப­டுத்­து­ப­வர்கள். மற்றைய தரப்­பினர் எதிர்க்­கட்சி உறுப்­பி­னர்கள். 'இந்த சட்­டத்­தினால் பெண்கள் மற்றும் சிறு­வர்­களின் உரி­மைகள் பாது­காக்­கப்­படும் என்று உண்­மையில் இவர்­க­ளுக்குத் தெரியும். ஆனால் அர­சி­ய­லுக்­காக எதிர்ப்­பினை வெளி­யி­டு­கி­றார்கள்' என பாரா­ளு­மன்ற உறுப்­பினர் வஜிர அபே­வர்­தன ஜனா­தி­ப­திக்கு கூறினார்.
+Only two groups express opposition against the source. Their first group is working in the media and using social websites. Opposition members of the other side. 'They know the fact that this law will protect the rights of women and children. But they are protesting for politics, ”Parliamentarian Vajira Abeywardena told the president.
 
-...
+Responding to this, Parliamentarian Premnath C Tolwatta said, “More than 7 million boys and girls are sexually harassed by social media.. The purpose of this law is to stop this. But he does not understand why the opposition is opposed. "Opposition members who meet with the president are saying that despite the opposition outside," Minister Prasanna Ranatunga said.
+
+◼️
 
 [Data](articles/94cc2568.json)
 
+[Extended Data](ext_articles/94cc2568.ext.json)
+
 ---
 
-### இலங்கை தமிழ் அரசுக் கட்சித் தேர்தல் : கற்க வேண்டிய பாடங்கள்
+### Sri Lanka Tamil State Party Election: Lessons to Learn
 
 *2024-01-28 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/174998) · `ta`
 
-தமி­ழ­ரசுக் கட்­சி நூறு வீதம் அர­சி­ய­லையே செய்­கின்­றது. ஆயினும் அதனை மக்கள் பக்­கத்தில் நின்று, வெளிப்­ப­டை­யாக, ஒரு ஜன­நா­யக ரீதி­யான தோற்­றப்­பாட்­டுடன் செய்­வ­தாக தோன்­று­கி­றது. இத­னா­லேயே ஏனைய சிறு­பான்மைக் கட்­சி­களும் இவற்­றை­யெல்லாம் கற்றுக்கொள்ள வேண்டும் என்று வலி­யு­றுத்­தப்­ப­டு­கி­றது.
+The TNA is doing a hundred percent politics. However, it seems to be on the side of the people and seems to be openly, with a democratic appearance. This is why other minority parties are urged to learn all this.
 
 ◼️
 
 [Data](articles/752a7569.json)
+
+[Extended Data](ext_articles/752a7569.ext.json)
 
 ---
 
@@ -125,6 +165,46 @@ Foreign media has reported that approximately 1,600 people have been involved in
 [Data](articles/8f7d3ce3.json)
 
 [Extended Data](ext_articles/8f7d3ce3.ext.json)
+
+---
+
+### Late state minister Sanath Nishantha laid to rest
+
+*2024-01-28 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96800/late-state-minister-sanath-nishantha-laid-to-rest) · `en`
+
+The late State Minister Sanath Nishantha was laid to rest at the Rajakadalua Cemetery in Puttalam on Sunday evening (28 Jan.).
+
+Accordingly, the funeral service of the late State Minister, who was killed in an accident on the Katunayake Expressway, was held from 01:00 p.m. today, at his residence in Arachchikattuwa, following which he was buried at the Rajakadaluwa Cemetery.
+
+On 25 January, Sanath Nishantha’s vehicle had crashed against the roadside barrier on the Katunayake Expressway, after rear-ending a moving container truck at around 02:00 a.m., according to police.
+
+Following the fatal collision, three injured persons, including the State Minister, were rushed to the Colombo North Teaching Hospital in Ragama, but the lawmaker and his security guard, identified as a police constable named Jayakody, had later succumbed to their injuries.
+
+◼️
+
+[Data](articles/2578a9b7.json)
+
+---
+
+### Climate change activists aim soup at ‘Mona Lisa’ in Paris Louvre
+
+*2024-01-28 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96799/climate-change-activists-aim-soup-at-mona-lisa-in-paris-louvre) · `en`
+
+Two climate change activists hurled soup at the protective glass in front of the world-famous “Mona Lisa” painting in Paris’ Louvre museum on Sunday.
+
+Video footage showed two women flinging red soup at Leonard da Vinci’s masterpiece, to gasps from onlookers.
+
+“What is more important? Art or the right to have a healthy and sustainable food system?” shouted the activists, speaking in French. They had ducked under a security barrier to get as close as they could to the painting and were led away by Louvre security guards.
+
+The activists represented the French organisation “Riposte Alimentaire” (Food Response), which issued a statement saying the protest sought to highlight the need to protect the environment and sources of food.
+
+In recent years, many activists have targeted art to raise awareness about climate change.
+
+The glass in front of the “Mona Lisa” was smothered in cream in a protest in May 2022.
+
+...
+
+[Data](articles/a8ce9768.json)
 
 ---
 
@@ -1953,83 +2033,5 @@ There are 6% per cent of the UNP and the Sri Lanka Freedom Party.
 [Data](articles/2e8eeaec.json)
 
 [Extended Data](ext_articles/2e8eeaec.ext.json)
-
----
-
-### Accident
-
-*2024-01-28 09:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பொலிஸ்-அதிகாரியை-பலியெடுத்த-விபத்து/175-332199) · `ta`
-
-Female police officer has died in a motorcycle accident in Tumunagedera area of Mirigama - Basyala Road.
-
-The 52 -year -old police officer who is working at the Varakapola police station in Ambepussa has died.
-
-The accident occurred when he crashed into the motorcycle he was traveling in.
-
-A woman who was severely injured in the accident. Remble
-
-◼️
-
-[Data](articles/ab8f9002.json)
-
-[Extended Data](ext_articles/ab8f9002.ext.json)
-
----
-
-### Occasionally rains in some districts
-
-*2024-01-28 09:27:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சில-மாவட்டங்களில்-அவ்வப்போது-மழை-பெய்யும்/175-332198) · `ta`
-
-Rainfall is expected in the Eastern, Uva provinces, Polonnaruwa, Matale and Nuwara Eliya districts.
-
-Rainfall is expected in the districts of Anuradhapura, Mullaitivu and Hambantota.
-
-Showers or thunderstorms will occur in some places after 2.00 pm in the Western, Sabaragamuwa provinces and Galle, Matara and Kandy districts.
-
-Winds are likely to blow at speeds of 40 kilometers from time to time in the North, North Central, Eastern, Central, Uva and North Western Provinces and Hambantota district.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce the risks of temporary heavy winds and lightning strikes with thunderstorms.. Remble
-
-◼️
-
-[Data](articles/018f1e65.json)
-
-[Extended Data](ext_articles/018f1e65.ext.json)
-
----
-
-### 803 suspects arrested
-
-*2024-01-28 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192648) · `si`
-
-803 suspects have been arrested in the 24 hours of the end of justice operations island wide.
-
-The police seized 212 grams of heroin, 101 g of ice and 169 drugs.
-
-Five suspects are underway on detention orders from the suspects in addition.
-
-A drug addict has been sent to rehabilitation.
-
-◼️
-
-[Data](articles/e31eb3a9.json)
-
-[Extended Data](ext_articles/e31eb3a9.ext.json)
-
----
-
-### Over 800 suspects arrested within 24 hours
-
-*2024-01-28 09:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96784/over-800-suspects-arrested-within-24-hours) · `en`
-
-A total of 803 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan. 28) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-According to the Ministry of Public Security, the narcotics taken into custody during this period include 212 grams of heroin, 101 grams of crystal methamphetamine (Ice) and 169 narcotic pills.
-
-◼️
-
-[Data](articles/287b0d53.json)
-
-[Extended Data](ext_articles/287b0d53.ext.json)
 
 ---

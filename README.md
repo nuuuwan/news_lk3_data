@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 20:32:52**
+As of **2024-01-28 20:48:43**
 
 ## Newspaper Stats
 
-*Scraped **3,115** Articles*
+*Scraped **3,117** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,58 @@ adalk | 285
 adaderanasinhalalk | 317
 virakesarilk | 323
 tamilmirrorlk | 394
-adaderanalk | 403
+adaderanalk | 405
 dailymirrorlk | 429
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,115 (100.0%) of 3,115 articles have been extended.
+3,115 (99.9%) of 3,117 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### President to appoint special commission to expedite development of Galle
+
+*2024-01-28 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96804/president-to-appoint-special-commission-to-expedite-development-of-galle) · `en`
+
+President Ranil Wickremesinghe has decided to establish a special commission to expedite the development of Galle, the President’s Media Division (PMD) reported.
+
+During an inspectional tour on Saturday (27 Jan.), the President visited Galle City and the Galle Fort area, inspecting ongoing development activities.
+
+According to the PMD, he had expressed concern about the slow progress in relocating government institutions and offices from Galle Fort and thereby emphasized the need to accelerate development efforts.
+
+President Wickremesinghe highlighted the importance of integrating the Urban Development Authority (UDA), the Department of Archaeology and other institutions under a unified organizational structure for the Galle City Plan.
+
+He also stressed the swift implementation of plans to promote tourism in the area. Engaging in conversation with local and foreign tourists, the President visited nearby shops, discussing the views of shop owners regarding Galle Fort’s development.
+
+...
+
+[Data](articles/74617bbd.json)
+
+---
+
+### Couple arrested over Rs. 5 billion pyramid scheme remanded
+
+*2024-01-28 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96803/couple-arrested-over-rs-5-billion-pyramid-scheme-remanded-) · `en`
+
+The couple arrested on suspicion of defrauding several people to the tune of of Rs. 5 billion through a pyramid scheme, have been remanded until 05 February.
+
+The relevant order was issued by the Kahatagasdigiliya Magistrate’s Court when the case was taken up today (28 Jan.).
+
+The 39-year-old suspect and his mistress were arrested in Pilimathalawa, Kandy, by the Illegal Assets and Property Investigation Unit on Saturday (27 Jan.).
+
+According to police, he had been operating a pyramid-type financial institution under the name ‘TredWin Share’ in the Galenbindunuwewa area, while his mistress, with whom he had been residing within Pilimathalawa, was arrested on charges of investing the swindled funds.
+
+Police further reported that the couple had been living a luxurious life by buying real estate and vehicles using the ill-gotten money.
+
+◼️
+
+[Data](articles/7412f51e.json)
+
+---
 
 ### Cricket ban out
 
@@ -130,7 +170,9 @@ He said an official statement from the ICC will follow shortly.
 
 On 10 November, the ICC suspended SLC’s membership, with immediate effect, on the grounds that the governing body is in serious breach of its obligations as a Member, in particular, the requirement to manage its affairs autonomously and ensure that there is no government interference in the governance, regulation and/or administration of cricket in Sri Lanka.
 
-◼️
+Following a meeting of the ICC Board on 21 November, it was decided that Sri Lanka could continue to compete internationally both in bilateral cricket and ICC despite their suspension for breaching its obligations as a member in particular the requirement to manage its affairs autonomously and without government interference.
+
+...
 
 [Data](articles/fc9c2b1f.json)
 
@@ -1965,43 +2007,5 @@ At the same time, environmental activists have also revealed shocking informatio
 [Data](articles/af55859c.json)
 
 [Extended Data](ext_articles/af55859c.ext.json)
-
----
-
-### Organised crime, drug rackets will be eradicated by end of June - Minister
-
-*2024-01-28 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96787/organised-crime-drug-rackets-will-be-eradicated-by-end-of-june-minister-) · `en`
-
-Public Security Minster Tiran Alles has vowed to eradicate all organised crime syndicates and drug trafficking rackets in the country by the end of June this year.
-
-Speaking at an event in Negombo, Minister Alles emphasised that the ongoing country-wide anti-drug operation ‘Yukthiya’ will not be brought to a halt, regardless of any external pressures calling for the end of the special operation.
-
-Meanwhile, Acting Inspector General of Police (IGP) Deshabandu Tennakoon, who was also present at the event, revealed that the price of drugs being sold in Sri Lanka has hiked up exponentially, adding that prompt efforts are underway to confiscate all properties belonging to drug traffickers.
-
-◼️
-
-[Data](articles/4ebc30df.json)
-
-[Extended Data](ext_articles/4ebc30df.ext.json)
-
----
-
-### Sri Lankan fishing boats seized for illegal activity in Maldives’ EEZ
-
-*2024-01-28 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96786/sri-lankan-fishing-boats-seized-for-illegal-activity-in-maldives-eez) · `en`
-
-Two Sri Lankan fishing boats have been detained by the Maldives National Defence Force (MNDF) Coast Guard for allegedly fishing illegally within the Maldives’ Exclusive Economic Zone (EEZ).
-
-The two fishing boats were seized by the MNDF’s Northern Area Command Coast Guard First Squadron following a report received by the MNDF Coast Guard on 25 January. One boat had seven crew members while the other had six crew members, foreign media reported.
-
-According to the MNDF, the two vessels are currently under the custody of the Coast Guard First Squadron’s Coast Guard Ship Nooraddeen, docked at Haa Alif Filladhoo harbour.
-
-According to foreign media, the two fishing boats will be brought to Male City and subsequently handed over to the police.
-
-◼️
-
-[Data](articles/4004d43a.json)
-
-[Extended Data](ext_articles/4004d43a.ext.json)
 
 ---

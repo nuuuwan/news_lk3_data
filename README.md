@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 22:02:38**
+As of **2024-01-28 22:17:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,129 (99.9%) of 3,132 articles have been extended.
+3,132 (100.0%) of 3,132 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The DIFF was held from 20 – 28 January, under the theme ‘Better Film, Better
 ◼️
 
 [Data](articles/eafff8f8.json)
+
+[Extended Data](ext_articles/eafff8f8.ext.json)
 
 ---
 
@@ -292,19 +294,21 @@ This is because after becoming the leader of the Tamil state party, he will have
 
 ---
 
-### අවසාන රාජාසන කථාව කිරීමට පාර්ලිමේන්තුවේ වාරාවසාන කරයි
+### Parliament prevention in Parliament to speak lasting speech
 
 *2024-01-28 18:59:34* · [`adalk`](https://www.ada.lk/breaking_news/අවසාන-රාජාසන-කථාව-කිරීමට-පාර්ලිමේන්තුවේ-වාරාවසාන-කරයි/11-407760) · `si`
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මහතාට ජනාධිපති ලෙස සිදුකරන අවසාන රාජාසන කතාව සිදු කිරීමට සහ ඉවත් කිරීමට නොහැකි කෝප් සභාපතිවරයාව ඉවත් කිරීම යන කරුණු දෙක මුල් කරගනිමින් පාර්ලිමේන්තුව වාර අවසාන කළ බව සමගි ජන බලවේගයේ පාර්ලිමේන්තු මන්ත්‍රී එස්.එම්.මරික්කාර් මහතා පැවසීය.
+President SMarakar said that the final monsoonal chairman who could not carry out and remove the final monzrees of President Ranil Wickremesinghe has been completed and the number of COPE.
 
-කොළම විපක්ෂනායක කාර්යාලයේ අද (28දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් හෙතෙම මේ බව සඳහන් කළේය.
+He was speaking at a media briefing held at the Colombo Opposition Directing Office today (28).
 
-"මේ වන විට පාර්ලිමේන්තුව වාර අවසාන කරලා තියෙනවා. පුදුම ආණ්ඩුවක් මේක. වර්තමාන ජනාධිපතිවරයා ආවට පස්සේ කී වතාවක් පාර්ලිමේන්තුව වාරාවසාන කළාද කියලා දන්නේ නෑ. මේ පාර්ලිමේන්තුව හතර වතාවක් විතර වාරාවසාන කරලා තියෙනවා. මේ වතාවේ වාරාවසාන කරලා තියෙන්නේ හේතු දෙකක් උඩ.
+"The Parliament has already been completed by now. A wonderful government. I don't know how many times when the present President arrived, he would not know Parliament. This Parliament has about four times prevented. This time, this time was in disaster on two reasons.
 
 ...
 
 [Data](articles/d298aa97.json)
+
+[Extended Data](ext_articles/d298aa97.ext.json)
 
 ---
 
@@ -400,21 +404,29 @@ India does not want to develop enmity around itself. It is firmly believed that 
 
 ---
 
-### දුම්රිය පාර්සල් ප්‍රවාහන ගාස්තු ඉහළට
+### Railway parcel transport costs up
 
 *2024-01-28 18:52:27* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-පාර්සල්-ප්‍රවාහන-ගාස්තු-ඉහළට/11-407759) · `si`
 
-දුම්රියෙන් පාර්සල් සහ භාණ්ඩ ප්‍රවාහන ගාස්තු සියයට 80 කට අදික ප්‍රතිශතයකින් ඉහළ දැමූ බවත් එම ගාස්තු ඉහළ දැමීම ලබන පෙරවාරි මස 1 වැනිදා සිට ක්‍රියාතමක වන බවත් දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+The Railway Department states that parcels and freight transport rates were increased by 80% of the decrease in 80 percent.
 
-පාර්සලයක් වෙනුවෙන් මීට පෙර අය කළ අවම ගාස්තුව රුපියල් 50 සිට රුපියල් 150 දක්වා ඉහළ දමා තිබේ.
+The minimum fare previously charged for a parcel has been increased from Rs. 50 to Rs.
 
-පාර්සලයේ වටිනාකම මත නව ගාස්තු ක්‍රමයක් හදුන්වා  දී ඇති අතර ඒ අනුව පාර්සල් සහ භාණ්ඩ ප්‍රවාහන ගාස්තු ද ඒවාට අදාළ අනෙකුත් රෙගුලාසි සඳහා වන ගාස්තු ද සංශෝධනය කළ බවත් දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+The Railway Department states that a new fee is introduced on the value of the parcel, according to the Railway Department.
 
-දුම්රිය දෙපාර්තමේන්තුව පාර්සල් ප්‍රවාහන කිරීමේදී මෙතෙක් ක්‍රියාත්මක කළ එම පාර්සලයේ බර අනුව ගාස්තු අයකිරීම වෙනුවට දුම්රිය ස්ථානට ඇති දුර පදනම් කර ගනිමින් ගාස්තු අය කර එම ගාස්තුව අනුව වැට් බදු පමණක් අය කර පාර්සලයේ ප්‍රවාහන ගාස්තුව අය කිරීමට තීරණය කර තිබේ.
+The Railway Department has decided to charge the fees on the railway stations, based on the weight of the parcel, which will be charged by the heavy fees.
 
-...
+Arrangements have been taken to charge the value of the parcel during the transportation of parcels and another fee. Lottery ticket, medicine, tire, glass, glass, glass, electrical and electronic equipment charges a fee of 1.5 percent to 5,000 value.
+
+The value of the parcel was 2.25 percent to Rs.
+
+The value of these items charge a fee of 0.5 percent of the value of all other goods over 10,000 rupees.
+
+◼️
 
 [Data](articles/fb94aa80.json)
+
+[Extended Data](ext_articles/fb94aa80.ext.json)
 
 ---
 

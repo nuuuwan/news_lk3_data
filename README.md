@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 23:17:18**
+As of **2024-01-28 23:32:52**
 
 ## Newspaper Stats
 
-*Scraped **3,139** Articles*
+*Scraped **3,140** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 172
 islandlk | 174
-newsfirstlk | 183
+newsfirstlk | 184
 dailyftlk | 215
 adalk | 288
 adaderanasinhalalk | 324
@@ -26,11 +26,31 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,139 (100.0%) of 3,139 articles have been extended.
+3,139 (100.0%) of 3,140 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### Three US soldiers killed, 25 injured in drone attack in Jordan
+
+*2024-01-28 22:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/three-us-soldiers-killed-25-injured-in-drone-attack-in-jordan/) · `en`
+
+Colombo (News 1st) – In the first US military fatalities since the Gaza War began, three US troops have been killed and 25 injured in a drone attack on a US base in Jordan on Saturday night (27th), near the Syrian border, the US has announced.
+
+US President Joe Biden issued a statement blaming Iran-backed military groups operating in Syria and Iraq.
+
+“Today, America’s heart is heavy. Last night, three U.S. service members were killed—and many wounded—during an unmanned aerial drone attack on our forces stationed in northeast Jordan near the Syria border.  While we are still gathering the facts of this attack, we know it was carried out by radical Iran-backed militant groups operating in Syria and Iraq”, Biden said in a statement.
+
+He also warns of reprisals, adding: "And have no doubt – we will hold all those responsible to account at a time and in a manner our choosing."
+
+There are some 3,000 US soldiers stationed at various bases in Jordan, which borders Israel, Syria and Iraq.
+
+...
+
+[Data](articles/0604f055.json)
+
+---
 
 ### What happened to the 6 lorencho's son?
 
@@ -804,11 +824,11 @@ Italian fourth seed Sinner, 22, who knocked out 10-time champion Novak Djokovic 
 
 Third seed Medvedev, appearing in his sixth Grand Slam final, had been seeking his second major title.
 
+Three US soldiers killed, 25 injured in drone attack in Jordan
+
 Italian Jannik Sinner beats Daniil Medvedev in the Australian Open final to win his first Grand Slam title
 
 110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
-
-Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
 ◼️
 
@@ -1846,11 +1866,11 @@ According to MNDF, the two vessels are currently under the custody of the Coast 
 
 Illegal fishing by Indian and Sri Lankan fishing vessels is common in Maldivian waters.
 
+Three US soldiers killed, 25 injured in drone attack in Jordan
+
 Italian Jannik Sinner beats Daniil Medvedev in the Australian Open final to win his first Grand Slam title
 
 110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
-
-Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
 ◼️
 
@@ -1951,29 +1971,5 @@ As such, in accordance with the Sports Act, No. 25 of 1973, both, the Sri Lanka 
 [Data](articles/d90a8d8a.json)
 
 [Extended Data](ext_articles/d90a8d8a.ext.json)
-
----
-
-### Do not give the police the powers that control the rights of the public
-
-*2024-01-28 11:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/174969) · `ta`
-
-The Sri Lanka Human Rights Commission has appealed to the police not to give the police the powers that control the fundamental rights of the public through the proposed anti -terrorism law.
-
-The Human Rights Commission of Sri Lanka has written a letter to Justice Minister Vijayadasa Rajapaksa on its observations on the proposed Terrorism Bill.
-
-The Human Rights Commission of Sri Lanka has appealed to a significant reduction in the definition of terrorism.
-
-The Human Rights Commission has also recommended that the detention order issued against the terrorist crime suspect, as stated in the Constitution, should ensure that the judiciary is under the supervision of the judiciary.
-
-The Human Rights Commission said that any suspects arrested in connection with terrorist crimes should be given the power to be granted the judges at any time.
-
-The Sri Lanka Human Rights Commission has called for the right to seek the right to seek the aid of the law for every person who has been seized.
-
-...
-
-[Data](articles/48eb8ac9.json)
-
-[Extended Data](ext_articles/48eb8ac9.ext.json)
 
 ---

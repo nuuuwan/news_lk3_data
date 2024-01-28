@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 20:02:15**
+As of **2024-01-28 20:17:19**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 429
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,107 (99.7%) of 3,115 articles have been extended.
+3,115 (100.0%) of 3,115 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### ක්‍රිකට් තහනම ඉවතට
+### Cricket ban out
 
 *2024-01-28 19:20:26* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිකට්-තහනම-ඉවතට/11-407763) · `si`
 
-ජාත්‍යන්තර ක්‍රිකට් කවුන්සිලය විසින් ශ්‍රී ලංකාව වෙත පනවා තිබූ තහනම වහාම ක්‍රියාත්මක වන පරිදි ඉවත්කිරීමට පියවර ගෙන තිබේ.
+Steps have been taken to remove the ban on Sri Lanka immediately after the International Cricket Council (ICC).
 
-ඊට අදාළ නිල නිවේදනය කඩිනමින් නිකුත් කරන බව ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා සිය X ගිණුමේ සටහනක් තබමින් පවසයි.
+Minister of Sports Harin Fernando says that the relevant official announcement will be released soon.
 
 ◼️
 
 [Data](articles/f2fbb1cd.json)
+
+[Extended Data](ext_articles/f2fbb1cd.ext.json)
 
 ---
 
@@ -56,17 +58,21 @@ The remains of State Minister of Water Supply, Sanath Nishantha, who died in a c
 
 [Data](articles/c6512bcf.json)
 
+[Extended Data](ext_articles/c6512bcf.ext.json)
+
 ---
 
-### இலங்கைக்கு விதிக்கப்பட்ட தடை நீக்கம்
+### Destabilization
 
 *2024-01-28 19:01:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-விதிக்கப்பட்ட-தடை-நீக்கம்/175-332235) · `ta`
 
-இலங்கைக்கு விதிக்கப்பட்டிருந்த தடையை உடனடியாக அமுலுக்கு வரும் வகையில் சர்வதேச கிரிக்கட் பேரவை (ஐ.சி.சி.) நீக்கியுள்ளதாக விளையாட்டு அமைச்சர் ஹரீன் பெர்னாண்டோ தெரிவித்துள்ளார்.
+Sports Minister Hareen Fernando has said that the International Cricket Council (ICC) has been removed with the immediate implementation of the ban on Sri Lanka.
 
 ◼️
 
 [Data](articles/9b4fd6ce.json)
+
+[Extended Data](ext_articles/9b4fd6ce.ext.json)
 
 ---
 
@@ -79,6 +85,8 @@ The International Cricket Council (ICC) lifted the ban that was imposed on Sri L
 ◼️
 
 [Data](articles/1d9f44e8.json)
+
+[Extended Data](ext_articles/1d9f44e8.ext.json)
 
 ---
 
@@ -163,6 +171,8 @@ Train services on the up-country line have been disrupted due to this derailment
 ◼️
 
 [Data](articles/b7dfe34d.json)
+
+[Extended Data](ext_articles/b7dfe34d.ext.json)
 
 ---
 
@@ -1046,19 +1056,21 @@ He added that these obstacles are inappropriate in the context of war migration 
 
 ---
 
-### ඇල්ලට හොඳ කලක්
+### A good time for the falls
 
 *2024-01-28 13:39:41* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලට-හොඳ-කලක්/11-407756) · `si`
 
-ඇල්ල නගරයට මේ දිනවල විදේශීය සංචාරකයන් බහුලව පැමිණෙමින් සිටිති .
+Foreign tourist arrivals are being abundant in these days.
 
-මේ නිසාවෙන් කුලිරථ රියදුරන් ගේ, සංචාරක මගපෙන්වන්නන්ගෙ , හෝටල් හිමියන්ගේ , වෙළෙඳ ව්‍යාපාරික ප්‍රජාවගේ මෙන්ම ජනතාව ගේ ද අතමිට සරුවීමට පටන් ගෙන තිබේ .
+This is why it has begun to embrace it as well as the people of hotel owners, hotel owners, and the business community.
 
-කොළඹ සිට බදුල්ල බලා ධාවනය වූ පොඩිමැනිකේ දුම්රියේන්  ඇල්ල නගරයට  විශාල විදේශීය සංචාරකයන් පිරිසක්  අද (28) පැමිණි අයුරුයි මේ'
+A large number of foreign tourists visited the Podimanicians of Podimanaka, who was traveling from Colombo to Badulla today (28)
 
 ◼️
 
 [Data](articles/d2bacb42.json)
+
+[Extended Data](ext_articles/d2bacb42.ext.json)
 
 ---
 

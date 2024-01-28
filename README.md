@@ -1,23 +1,23 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 11:51:26**
+As of **2024-01-28 12:02:17**
 
 ## Newspaper Stats
 
-*Scraped **3,017** Articles*
+*Scraped **3,026** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 41
 bbccomsinhala | 53
 dbsjeyarajcom | 125
-economynextcom | 170
+economynextcom | 172
 islandlk | 174
 newsfirstlk | 179
 dailyftlk | 215
 adalk | 273
-adaderanasinhalalk | 302
-virakesarilk | 305
+adaderanasinhalalk | 303
+virakesarilk | 311
 tamilmirrorlk | 381
 adaderanalk | 390
 dailymirrorlk | 409
@@ -26,11 +26,97 @@ dailymirrorlk | 409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,017 (100.0%) of 3,017 articles have been extended.
+3,026 (100.0%) of 3,026 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### A few countries decide on Gaza
+
+*2024-01-28 11:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192653) · `si`
+
+The United Nations condemns the decision to stop the provision of assistance to the Gaza by saying he is supporting Hamas.
+
+The United Nations Office on Palestinian Refugees point out that these countries will be referred to again to reconsider the relevant decision.
+
+The United Nations has provided relief to about two-thirds of the entire population of Gaza on various countries.
+
+However, with the allegations of the activities of the Hamas Organization, nine British, including British, has been suspended.
+
+◼️
+
+[Data](articles/bcf680af.json)
+
+[Extended Data](ext_articles/bcf680af.ext.json)
+
+---
+
+### Ceremonial Backup Act is against democracy
+
+*2024-01-28 11:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/174964) · `ta`
+
+The passage of the Ceremony Bill Bill is a massive attack on Sri Lanka's human rights. This law is a new weapon that the government can use to suppress freedom of expression and to suppress disagreements.
+
+The Amnesty International has urged Sri Lanka to ensure that the Ceremony Backup Act is immediately repeated and the human rights of all in the country are honored.
+
+◼️
+
+[Data](articles/1562bed5.json)
+
+[Extended Data](ext_articles/1562bed5.ext.json)
+
+---
+
+### 2 fishing boats with 13 Sri Lankan fishermen seized by Maldives
+
+*2024-01-28 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/174968) · `ta`
+
+Two Sri Lankan fishing boats have been seized by the coastal security unit of the country.
+
+Thirteen fishermen found in these two fishing boats have been arrested by the Maldivian Coast Guard. The two fishing boats were seized on the 25th.
+
+Foreign media reports that the two boats were seized on the 25th and are under the control of the Coast Guard at the port called 'Ha Alif Fillardhu'.
+
+◼️
+
+[Data](articles/fed1c5f1.json)
+
+[Extended Data](ext_articles/fed1c5f1.ext.json)
+
+---
+
+### India does not intervene in the Tamil National Party (TNA) leader Sreedharan
+
+*2024-01-28 11:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/174962) · `ta`
+
+It is a contradiction in history that the race that is fighting for a liberation and the defeat of the war is thinking about its liberation and trying to keep them in oppression of the winning race.. But, a long journey that passes through those contradictory things that we will achieve a national liberation. We have seen many improvements in this long journey.. People are clearly. Have given us the order. There will definitely be changes in the future.
+
+◼️
+
+[Data](articles/3ae17165.json)
+
+[Extended Data](ext_articles/3ae17165.ext.json)
+
+---
+
+### A student who was sitting with friends and chatting on the railway line collided with the train!
+
+*2024-01-28 11:09:00* · [`virakesarilk`](https://www.virakesari.lk/article/174965) · `ta`
+
+A 16 -year -old schoolgirl who was sitting with a group of friends on the railway track has been admitted to the Galle Karapitiya Teaching Hospital after being hit by a train near the Pusa railway station.
+
+A schoolgirl from Pusa Wellapatha area was injured in the accident.
+
+The student was hit by a train traveling from Galle to Aluthgama while sitting on the railway track with six of his friends.
+
+◼️
+
+[Data](articles/bc139eca.json)
+
+[Extended Data](ext_articles/bc139eca.ext.json)
+
+---
 
 ### Six killed in accident
 
@@ -97,6 +183,34 @@ Further inquiries into the incident are being carried out by Meerigama Police St
 [Data](articles/e0d1e0b4.json)
 
 [Extended Data](ext_articles/e0d1e0b4.ext.json)
+
+---
+
+### Sanath Nishantha's death
+
+*2024-01-28 10:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/174959) · `ta`
+
+Investigations are underway into another vehicle that has been involved in the vehicle of the Minister of State Sanathnishantha.
+
+The drivers of the two vehicles who were involved in the accident were ordered to investigate the matter and submit a report.
+
+The State Minister's vehicle and the container driver said that the vehicle was not focused by the lack of attention due to the lack of focus.
+
+Police said they had refused to take a third vehicle.
+
+The Minister of State was very busy.
+
+The minister attended the Australian day after parliamentary sessions and then went to Kurunegala.
+
+The container driver who was released on bail has said that he has noticed that the state minister's jeep has tried to overtake a car.
+
+He noted that the two men were going to the left, observing the fast.
+
+...
+
+[Data](articles/27f008db.json)
+
+[Extended Data](ext_articles/27f008db.ext.json)
 
 ---
 
@@ -179,6 +293,28 @@ Indian and Sri Lankan fishing vessels in the Maldives are illegally fishing.
 [Data](articles/69b2d252.json)
 
 [Extended Data](ext_articles/69b2d252.ext.json)
+
+---
+
+### The 'Aigan of the Cheese' began the first journey of the Titanic five times larger than
+
+*2024-01-28 10:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/174963) · `ta`
+
+Royal Caribbean has begun its first journey by the world's largest passenger luxury ship 'Icon of the Seas'.
+
+The Igan of the cheese ship will arrive around the Caribbean Islands for 7 days on its first trip.
+
+The 20 -based ship has 7 swimming pools, which are said to be enormously up to 7600 people.
+
+Essentially, interesting information is that the Agan of the cheese is five times larger than the Titanic.
+
+At the same time, environmental activists have also revealed shocking information that the ship is emitted from the ship.
+
+◼️
+
+[Data](articles/af55859c.json)
+
+[Extended Data](ext_articles/af55859c.ext.json)
 
 ---
 
@@ -648,6 +784,28 @@ Health Minister Ramesh Pathirana said this while participating at a function in 
 
 ---
 
+### Sri Lanka hopes to issue first divestment RFP within a week
+
+*2024-01-28 07:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-hopes-to-issue-first-divestment-rfp-within-a-week-148879/) · `en`
+
+ECONOMYNEXT – Sri Lanka plans to issue to first request for proposal to divest government companies within a week, Director General of State Enterprises Reform Unit, Suresh Shah said.
+
+Sri Lanka has a two-stage bidding process where expressions of interest is called, and qualified investors are given request for proposal documents to make financial bids for SOEs.
+
+Lanka Hospitals, Hotel Developers and Canwill Holdings RFP issuance process is in advanced stages, Shah said.
+
+Expressions of interest for Sri Lanka Telecom has received interest from both Indian and Chinese companies, setting the stage for competition.
+
+India’s Reliance group and Gortune Holdings, a Chinese private equity group has put in bids.
+
+◼️
+
+[Data](articles/fa9a66ef.json)
+
+[Extended Data](ext_articles/fa9a66ef.ext.json)
+
+---
+
 ### Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
 *2024-01-28 07:37:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/sri-lanka-loses-communication-with-trawler-hijacked-by-somali-pirates/) · `en`
@@ -797,6 +955,26 @@ Acting IGP Deshanayake Tennakoon stated that the acting of drug traffickers will
 [Data](articles/68fdac4b.json)
 
 [Extended Data](ext_articles/68fdac4b.ext.json)
+
+---
+
+### Sri Lanka 120MW Uma Oya hydro plant to start on Feb 15
+
+*2024-01-28 07:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-120mw-uma-oya-hydro-plant-to-start-on-feb-15-148877/) · `en`
+
+ECONOMYNEXT- Sri Lanka plans to connect a 120 Mega Watt hydro power plant in Uma Oya (Uma River) to the national grid on February 15 State Minister for Irrigation, Shasheendra Rajapaksa said.
+
+“We finished this project in September last year,” Minister Rajapaksha told reporters at the President’s media centre.
+
+“We didn’t have trouble with the first turbine, we had trouble with the second.”
+
+The Uma Oya dam and tunnels were supposed to be completed in 2018 but due to various shortcomings it was delayed by 5 years, he said.
+
+◼️
+
+[Data](articles/d3937e7c.json)
+
+[Extended Data](ext_articles/d3937e7c.ext.json)
 
 ---
 
@@ -1853,193 +2031,5 @@ It has been reported that the resolution has been reached by the essential food 
 [Data](articles/a6340e6c.json)
 
 [Extended Data](ext_articles/a6340e6c.ext.json)
-
----
-
-### Death Row Controversy in the State of Alabama, USA
-
-*2024-01-27 15:29:00* · [`islandlk`](http://island.lk/death-row-controversy-in-the-state-of-alabama-usa/) · `en`
-
-The United States of America prides itself as the greatest nation in the world, the One Nation Under God (the Protestant Incarnation), the haven of peace and compassion. A thrice-blessed country where citizens are expected to live according to the sacred teachings of the Bible.
-
-The macabre case of Kenneth Smith seems to be completely at odds with these sanctimonious claims.
-
-Kenneth Eugene Smith, 58 years old, was convicted for the contract killing of Elizabeth Sennett of Colbert County, Alabama, 35 years ago. He was a part of a team hired by her husband, Charles Sennett, Sr. to commit the murder, which was carried out by stabbing Elizabeth to death at her Colbert County home in March 1988.
-
-Charles Sennett committed suicide a week after the killing, when he learnt he was a suspect in the murder. After over three decades of appeals, the others involved in the killing have either died in prison or been executed by lethal injection. Smith alone remains on death row, 35 years later.
-
-...
-
-[Data](articles/a30fe6df.json)
-
-[Extended Data](ext_articles/a30fe6df.ext.json)
-
----
-
-### Special Transport Plan in Colombo
-
-*2024-01-27 15:18:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-விசேட-போக்குவரத்து-திட்டம்/175-332177) · `ta`
-
-A special traffic plan will be implemented in a part of Galle Road to mark the upcoming Independence Day event.
-
-Accordingly, traffic has been temporarily blocked from the Kaluppitti junction of Galle Road to the Galle Face and the Galle Face from the Ceramic Junction.
-
-Accordingly, traffic has been temporarily prohibited through specific roads until February 04. Remble
-
-◼️
-
-[Data](articles/5fb9888b.json)
-
-[Extended Data](ext_articles/5fb9888b.ext.json)
-
----
-
-### A vehicle is robbed that the police stir
-
-*2024-01-27 15:12:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192624) · `si`
-
-Police headquarters said that a large number of people have been looting as police officers.
-
-Bingiriya Police have received a complaint that a three-wheeler has been plundered in the Padiwela area in Bingiriya.
-
-The complainant has told the police that one of two persons who were dressed in civilian clothes in the Padiwela area and asked the driver's license that they had been in Kuliyapitiya police.
-
-The suspects have said that the driver should go to the police that the driving license was not valid for driving the three-wheeler.
-
-Accordingly, the driver of the driver has been raised to a motorbike and the three-wheeler has drove the other suspect.
-
-The suspects were later abandoned by the driver and plundered the three-wheeler.
-
-The police said that the two suspects dressed in civilian clothes were not police officers.
-
-The Bingiriya Police have commenced investigations to arrest the suspects.
-
-...
-
-[Data](articles/8fcecd42.json)
-
-[Extended Data](ext_articles/8fcecd42.ext.json)
-
----
-
-### Chamari Women's IPL. The tournament opens
-
-*2024-01-27 14:48:17* · [`adalk`](https://www.ada.lk/sports/චමරිට-කාන්තා-අයි-පී-එල්--තරගාවලියේ-දොර-ඇරෙයි/9-407743) · `si`
-
-Sri Lanka women's cricket leader Chamari Atapattu has been summoned for the women's tournament in the Indian Premier League. Chamari Atapattu has been summoned to laurene bel, who represented Uththassa Voriors. Atapattu has contracted her basic price of Rs.
-
-"I hope to give my best to the team and help my team to help my team beyond the famous championship," Atapattu said.
-
-Sri Lanka Leader Atapattu WPL 2024 was not sold at auction. She scored 470 runs in 16 T20s last year.
-
-◼️
-
-[Data](articles/8de45afc.json)
-
-[Extended Data](ext_articles/8de45afc.ext.json)
-
----
-
-### Controversial new French immigration law promulgated by President Macron
-
-*2024-01-27 14:30:00* · [`adaderanalk`](https://www.adaderana.lk/news/96769/controversial-new-french-immigration-law-promulgated-by-president-macron) · `en`
-
-The administration of French President Emmanuel Macron published the formal text of a new immigration law in its Official Journal on Saturday, with the first instructions on applying the legislation already presented to officials.
-
-The law’s promulgation comes after France’s Constitutional Council censured 35 of its 86 articles, including contentious additions insisted on by the right, such as measures restricting access to social benefits and the introduction of immigration quotas.
-
-While the bill was seen as one of the signature reforms of Macron’s second term, some in his camp had baulked at the stricter version, with about a quarter of his allies in parliament voting against it or abstaining.
-
-The final text upheld by the council retains key elements initially desired by the government, with a large part of it dedicated to simplifying procedures for expelling delinquent foreigners -- one of the objectives of Interior Minister Gerard Darmanin.
-
-...
-
-[Data](articles/e51bc20a.json)
-
-[Extended Data](ext_articles/e51bc20a.ext.json)
-
----
-
-### 98 garbage containers in Thailand brought to Sri Lanka
-
-*2024-01-27 14:29:36* · [`adalk`](https://www.ada.lk/breaking_news/තායිලන්තය-එපා-කියූ-කුණු-මාළු-බහාලුම්-98ක්-ලංකාවට-ගෙනල්ලා/11-407742) · `si`
-
-An Imports and Export Control License has been issued to the land of Sri Lanka and the company to land on a ship's operating company for a product company for a manufacturing company.
-
-Although issuing imports from the Department of Import and Export Control, the committee worry about not a follow-up
-
-Collect and complete the database speedy database - Kopyr
-
-The Committee on the Department of Import and Export General of Sri Lanka has issued a license to the Sri Lankan customs for the production of organic fertilizer to land in Sri Lanka.
-
-It was revealed when the committee met with State Minister Lasantha Alagiyawanna yesterday (23). The Auditor General's Report and Performance for the financial year 2021 and 2022 was convened for the year 2021 and 2022.
-
-...
-
-[Data](articles/6ca5fc25.json)
-
-[Extended Data](ext_articles/6ca5fc25.ext.json)
-
----
-
-### The twins found after 19 years
-
-*2024-01-27 14:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192623) · `si`
-
-After birth, two twin sisters who stole the parents and sold two families who sold two families have been re-found in Jorgania.
-
-According to foreign reports, they have identified each other through a Tik Tok video.
-
-Details of a child racket of child racket in Georgia have also been revealed in decades of searching for their separation.
-
-◼️
-
-[Data](articles/fa26362a.json)
-
-[Extended Data](ext_articles/fa26362a.ext.json)
-
----
-
-### Three killed in three-wheeler-lorry collision
-
-*2024-01-27 14:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-killed-in-three-wheeler-lorry-collision/108-275819) · `en`
-
-Kurunegala, Jan. 27 (Daily Mirror)- Two men and a woman were killed after a three-wheeler they were travelling in collided head-on with a lorry at Kivulgalla in Narammala this morning, Police said.
-
-The driver of the three-wheeler, two women and a man who were critically injured were admitted to the Narammala Hospital where one man was pronouned dead on admission while the three-wheeler driver and a woman died after being admitted to the Kurunegala Hospital.
-
-The deceased are 50 and 53 years-old men and a 61-year-old woman from the Kelaniya and Wattala areas.
-
-The injured woman is receiving treatment at the Kurunegala Hospital.
-
-The driver of the lorry was arrested in connection with the accident.
-
-◼️
-
-[Data](articles/75d053f5.json)
-
-[Extended Data](ext_articles/75d053f5.ext.json)
-
----
-
-### Corpse floating in Nuwara Eliya
-
-*2024-01-27 14:04:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/நுவரெலியா-கிரகரி-வாவியில்-மிதக்கும்-சடலம்/76-332176) · `ta`
-
-Nuwara Eliya police said that a body was floated this morning (27) at the Grakari Wavi on the Nuwara Eliya - Badulla main road.
-
-Police have rushed to the scene on the basis of information provided to the police that a bodybuilder was floating in the Grakari Wavi.
-
-According to police, Raman Padmanathan is age (64).
-
-Police said the body would be recovered from the Vaavi after visiting the body of the Nuwara Eliya District Magistrate.
-
-Did he die in the Vavi?Police are conducting investigations into whether they were murdered and thrown into the vaigai.
-
-...
-
-[Data](articles/bd9e1a9d.json)
-
-[Extended Data](ext_articles/bd9e1a9d.ext.json)
 
 ---

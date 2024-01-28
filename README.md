@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 08:17:20**
+As of **2024-01-28 08:32:43**
 
 ## Newspaper Stats
 
-*Scraped **2,988** Articles*
+*Scraped **2,989** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 174
 newsfirstlk | 175
 dailyftlk | 215
 adalk | 270
-adaderanasinhalalk | 294
+adaderanasinhalalk | 295
 virakesarilk | 305
 tamilmirrorlk | 377
 adaderanalk | 384
@@ -26,11 +26,35 @@ dailymirrorlk | 406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,974 (99.5%) of 2,988 articles have been extended.
+2,981 (99.7%) of 2,989 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### පොලිස් කාන්තාවක් ජීවිතක්ෂයට
+
+*2024-01-28 08:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192645) · `si`
+
+ප්‍රදේශ කිහිපයක සිදු වූ රිය අනතුරු තුනකින් පොලිස් කාන්තාවක්, තරුණයෙක් සහ තවත් කාන්තාවක් ජීවිතක්ෂයට පත් ව තිබේ.
+
+මීරිගම - පස්යාල මාර්ගයේ දුමුන්නේගෙදර ප්‍රදේශයේ දී සිදු වූ යතුරපැදි අනතුරකින් පොලිස් නිලධාරිනියක් ජීවිතක්ෂයට පත් ව තිබේ.
+
+මීරිගම දෙස සිට පස්යාල දෙසට ධාවනය වූ යතුරුපැදියක් එම දිශාවටම, ඊට ඉදිරියෙන් ධාවනය වූ තවත් යතුරුපැදියකට ඉස්සර කිරීමට යාමේ දී ප්‍රතිවිරුද්ධ දෙසින් පැමිණි කන්ටේනර් රථයකට ඉඩ ලබා දී නැවත වම් පැත්තට ගැනීමේ දී ඉදිරියෙන් ගිය යතුරුපැදියේ ගැටී ඇත.
+
+පසු ව යතුරුපැදිය මාර්ගයේ වැටී ඇති අතර, යතුරුපැදියේ ගමන් කළ පසුපැදිකාරිය ඉදිරියෙන් පැමණි කන්ටේනර් රථයට යට වී ඇත.
+
+අනතුරින් බරපතළ තුවාල ලැබූ පසුපැදිකාරිය වතුපිටිවල රෝහලට ඇතුළත් කිරීමේ දී මිය ගොස් තිබේ.
+
+අනතුරින් මිය ගොස් ඇත්තේ, අඹේපුස්ස ප්‍රදේශයේ පදිංචි වරකාපොළ පොලිස් ස්ථානයට අනුයුක්ත 52 හැවිරිදි පොලිස් නිලධාරිනියකි.
+
+මේ අතර, පුලස්තිපුර - තඹාල - ලංකාපුර අතුරු මාර්ගයේ තඹාල ප්‍රදේශයේ දී සිදු වූ රිය අනතුරකින් තරුණයෙක් ජීවිතක්ෂයට පත් ව තිබේ.
+
+...
+
+[Data](articles/70dd6578.json)
+
+---
 
 ### Icon of the Seas: World’s largest cruise ship sets sail from Miami
 
@@ -53,6 +77,8 @@ Earlier this week, the ICCT released a report, arguing that methane emissions fr
 ...
 
 [Data](articles/a95d252e.json)
+
+[Extended Data](ext_articles/a95d252e.ext.json)
 
 ---
 
@@ -91,6 +117,8 @@ Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 ◼️
 
 [Data](articles/64d82d69.json)
+
+[Extended Data](ext_articles/64d82d69.ext.json)
 
 ---
 
@@ -134,6 +162,8 @@ Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
 [Data](articles/2acb85ea.json)
 
+[Extended Data](ext_articles/2acb85ea.ext.json)
+
 ---
 
 ### Overturned Lorry Creates Bottleneck on Expressway
@@ -152,6 +182,8 @@ Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
 [Data](articles/d715ba13.json)
 
+[Extended Data](ext_articles/d715ba13.ext.json)
+
 ---
 
 ### PUCSL Seeks Public Input on Electricity Cost Adjustments
@@ -169,6 +201,8 @@ Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 ◼️
 
 [Data](articles/57fcd1da.json)
+
+[Extended Data](ext_articles/57fcd1da.ext.json)
 
 ---
 
@@ -682,6 +716,8 @@ On September 18, 2023, the Government of Sri Lanka published a Bill titled “On
 
 [Data](articles/6530d2fd.json)
 
+[Extended Data](ext_articles/6530d2fd.ext.json)
+
 ---
 
 ### Underworld and drug dealers are burden to the country - Tiran Alles
@@ -715,6 +751,8 @@ Although I had carried out assignments for all the WHO Regional Offices except t
 ...
 
 [Data](articles/99194b51.json)
+
+[Extended Data](ext_articles/99194b51.ext.json)
 
 ---
 
@@ -1979,27 +2017,5 @@ The suspects had escaped at the time of the raid.
 [Data](articles/bf9ece92.json)
 
 [Extended Data](ext_articles/bf9ece92.ext.json)
-
----
-
-### Trump ordered to pay $ 83 million compensation
-
-*2024-01-27 10:39:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/83-மில்லியன்-டொலர்-நஷ்ட-ஈடு-வழங்க-ட்ரம்புக்கு-உத்தரவு/50-332170) · `ta`
-
-Former US President Donald Trump has been ordered to pay $ 83 million compensation in the case of a female journalist.
-
-Female journalist Jean Carol suits the New York Court for insulting her in public. In this case, $ 10 million was compensated.
-
-The New York court, which heard the case, has ordered Trump to pay $ 83 million compensation.
-
-The court has ordered a compensation of 8 times more than Jean Carol.
-
-Donald Trump has said that it will appeal against it. (Of)
-
-◼️
-
-[Data](articles/401bd19d.json)
-
-[Extended Data](ext_articles/401bd19d.ext.json)
 
 ---

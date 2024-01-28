@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 17:02:12**
+As of **2024-01-28 17:17:16**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 423
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,070 (99.9%) of 3,074 articles have been extended.
+3,074 (100.0%) of 3,074 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ The ‘Cheriyapani’ is a high-speed vessel measuring 35 metres in length and 9
 
 [Data](articles/b29cd837.json)
 
+[Extended Data](ext_articles/b29cd837.ext.json)
+
 ---
 
 ### Special police contingent deployed for Sanath Nishantha’s funeral
@@ -65,6 +67,8 @@ He said the police contingent comprised officers from police stations in the Nor
 ◼️
 
 [Data](articles/39c9cbf0.json)
+
+[Extended Data](ext_articles/39c9cbf0.ext.json)
 
 ---
 
@@ -85,6 +89,8 @@ Fund Facility’ and Sri Lanka had ‘met’ (with some delays) 60 of the 73 com
 ...
 
 [Data](articles/864e4787.json)
+
+[Extended Data](ext_articles/864e4787.ext.json)
 
 ---
 
@@ -148,19 +154,21 @@ The pirates had allowed the Sri Lankan fishermen captured to communicate with th
 
 ---
 
-### மட்டக்களப்பு கொக்கட்டிச்சோலை படுகொலை: 37 ஆவது நினைவேந்தல் அனுஷ்டிப்பு!
+### Batticaloa Kokkadicholai massacre: 37th commemoration
 
 *2024-01-28 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/174989) · `ta`
 
-மட்டக்களப்பு கொக்கட்டிச்சோலையில் படுகொலை செய்யப்பட்டவர்களின் 37 ஆவது ஆண்டு நினைவேந்தல் இன்று ஞாயிற்றுக்கிழமை (28)  இடம்பெற்றது. இதன்போது மகிழடித்தீவில் அமைக்கப்பட்டுள்ள நினைவு தூபியில் தமிழ் தேசிய மக்கள் முன்னணி கட்சி உறுப்பினர்கள் சுடர் ஏற்றி இரண்டு நிமிட மௌன அஞ்சலி செலுத்தினர்.
+The 37th anniversary of the assassinations at Kokkadicholai, Batticaloa took place today (28). Meanwhile, the Tamil National People's Front (TNA) hoisted the flame and paid a two -minute silent tribute to the memorial in Oddithi.
 
-கடந்த 1987 ஆம் ஆண்டு ஜனவரி மாதம் 28 ஆம் திகதி கொக்கட்டிச்சோலை பிரதேசத்தை சுற்றிவளைத்த இராணுவத்தினர் அங்கிருந்த அப்பாவி பொதுமக்கள் 152 பேரை கைது செய்து துப்பாக்கியால் சுட்டு படுகொலை செய்தனர்.
+On January 28, 1987, the soldiers surrounded the Kokkatticholai area and arrested 152 innocent civilians and shot dead.
 
-இந்த நிலையில் 37 ஆவது நினைவு தினத்தையிட்டு தமிழ் தேசிய மக்கள் முன்னணி வெல்லாவெளி அமைப்பாளர் குமாரசிங்கம் தலைமையில் கட்சி உறுப்பினர்கள்  உயிரிழந்தவர்களின் ஆத்ம சாந்தியடைய நினைவு தூபியில் சுடர் ஏற்றி இரண்டு நிமிட மௌன அஞ்சலி செலுத்தினர்.
+In this case, the Tamil National People's Front, Wellaveli organizer Kumarasingham, paid a two -minute silent tribute to the soul peace of the party.
 
 ◼️
 
 [Data](articles/cf8c67e4.json)
+
+[Extended Data](ext_articles/cf8c67e4.ext.json)
 
 ---
 

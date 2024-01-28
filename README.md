@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 14:49:07**
+As of **2024-01-28 15:02:21**
 
 ## Newspaper Stats
 
@@ -74,7 +74,7 @@ The New Unit Trust Fund, which is approved by the Sri Lanka Exchange and the Sec
 
 ### Two families struggle in Keppapila!The reason for the recklessness of the police
 
-*2024-01-28 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174973) · `ta`
+*2024-01-28 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174973) · `ta`
 
 Two families are engaged in a protest on Saturday (27) for their justice, saying that there is no security to live in the Keppapilavu area and that the police have not given fair justice.
 

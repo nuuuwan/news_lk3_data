@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 22:17:20**
+As of **2024-01-28 22:33:34**
 
 ## Newspaper Stats
 
-*Scraped **3,132** Articles*
+*Scraped **3,133** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 174
 newsfirstlk | 183
 dailyftlk | 215
 adalk | 287
-adaderanasinhalalk | 320
+adaderanasinhalalk | 321
 virakesarilk | 330
 tamilmirrorlk | 394
 adaderanalk | 407
@@ -26,7 +26,7 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,132 (100.0%) of 3,132 articles have been extended.
+3,132 (100.0%) of 3,133 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,20 @@ The DIFF was held from 20 – 28 January, under the theme ‘Better Film, Better
 [Data](articles/eafff8f8.json)
 
 [Extended Data](ext_articles/eafff8f8.ext.json)
+
+---
+
+### කතරගම බිහිසුණු අනතුරක්
+
+*2024-01-28 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192672) · `si`
+
+කතරගම-සෙල්ලකතරගම මාර්ගයේදී ලොරි රථයක් සහ වෑන් රථයක් ගැටීමෙන් සිදුවූ අනතුරකින් පුද්ගලයෙකු මියගොස් තිබේ.
+
+පොලීසිය වැඩිදුරටත් පැවසුවේ අනතුරින් තුවාල ලැබූ පුද්ගලයින් පිරිසක් රෝහල්ගතකර ඇති බවය.
+
+◼️
+
+[Data](articles/ed5d877a.json)
 
 ---
 
@@ -1957,23 +1971,5 @@ This adjustment seeks to provide additional support to scholarship awardees, ens
 [Data](articles/2073e8a9.json)
 
 [Extended Data](ext_articles/2073e8a9.ext.json)
-
----
-
-### 2 fishing boats with 13 Sri Lankan fishermen seized by Maldives
-
-*2024-01-28 11:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/174968) · `ta`
-
-Two Sri Lankan fishing boats have been seized by the coastal security unit of the country.
-
-Thirteen fishermen found in these two fishing boats have been arrested by the Maldivian Coast Guard. The two fishing boats were seized on the 25th.
-
-Foreign media reports that the two boats were seized on the 25th and are under the control of the Coast Guard at the port called 'Ha Alif Fillardhu'.
-
-◼️
-
-[Data](articles/fed1c5f1.json)
-
-[Extended Data](ext_articles/fed1c5f1.ext.json)
 
 ---

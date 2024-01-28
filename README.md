@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 13:17:18**
+As of **2024-01-28 13:33:42**
 
 ## Newspaper Stats
 
-*Scraped **3,045** Articles*
+*Scraped **3,047** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 174
 newsfirstlk | 181
 dailyftlk | 215
 adalk | 275
-adaderanasinhalalk | 303
-virakesarilk | 314
+adaderanasinhalalk | 304
+virakesarilk | 315
 tamilmirrorlk | 385
 adaderanalk | 393
 dailymirrorlk | 414
@@ -26,11 +26,45 @@ dailymirrorlk | 414
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,045 (100.0%) of 3,045 articles have been extended.
+3,045 (99.9%) of 3,047 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### හිංසනයන් දැනුම්දෙන්න ටිරාන්ගෙන් අංකයක්
+
+*2024-01-28 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192654) · `si`
+
+මෙරට කාන්තා හිංසනය තුරන් කිරීමේ විශේෂ වැඩපිළිවෙළක් යුක්තිය මෙහෙයුමට සමගාමී ව ක්‍රියාත්මක කරන බව මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් මහතා පවසයි.
+
+අමාත්‍යවරයා මේ බව සඳහන් කළේ වේයන්ගොඩ පොලිස් වසමේ ප්‍රජා පොලිස් කමිටු සාමාජිකයින් දැනුවත් කිරීමේ අවස්ථාවට එක් වෙමිනි.
+
+මත්ද්‍රව්‍ය සහ පාතාල ක්‍රියාකාරකම් මැඩපැවැත්වීමේ යුක්තිය වැඩසටහනට සමගාමීව පැවැත්වෙන ප්‍රජා පොලිස් කමිටු සාමාජිකයින් දැනුම්වත් කිරීමේ තවත් අදියරක් වේයන්ගොඩ පොලිස් වසම කේන්ද්‍රකර ගනිමින් පැවැත්විණි.
+
+ඒ, මහජන ආරක්ෂක අමාත්‍ය ටිරාන් අලස් සහ වැඩබලන පොලිස්පති දේශබන්දු තෙන්නකෝන් යන මහත්වරුන්ගේ ප්‍රධානත්වයෙනි.
+
+...
+
+[Data](articles/17a09309.json)
+
+---
+
+### ஜனாதிபதி நிதியத்தினால் வழங்கப்படும் புலமைப்பரிசில் தொகை அதிகரிப்பு!
+
+*2024-01-28 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174979) · `ta`
+
+2021 (2022) ஆம் ஆண்டில் க.பொ.த சாதாரண தரப் பரீட்சைக்கு முதன் முறையாக தோற்றி ஒரே தடவையில் சித்தியடைந்து 2024 ஆம் ஆண்டில் க.பொ.த உயர்தரப் பரீட்சைக்குத் தோற்றவுள்ள, பொருளாதார பிரச்சினைகளை எதிர்கொண்டுள்ள மாணவர்களுக்கு வழங்கப்படும் புலமைப்பரிசில் கொடுப்பனவை 2024 பெப்ரவரி மாதம் முதல் ஆயிரம் ரூபாவினால் அதிகரிக்குமாறு ஜனாதிபதி ரணில் விக்ரமசிங்க பணிப்புரை விடுத்துள்ளார்.
+
+மாணவ, மாணவிகளின் கோரிக்கை தொடர்பில் கவனம் செலுத்திய நிலையில் ஜனாதிபதி ரணில் விகரமசிங்க இந்த பணிப்புரையை விடுத்துள்ளார்.
+
+இலங்கையின் அனைத்துப் பகுதிகளிலும் வாழும், கற்கும் திறன் கொண்ட, ஆனால் பொருளாதாரச் சிரமங்களுள்ள  மாணவர்களை இனங்கண்டு அவர்களின் எதிர்காலத்தை   மேம்படுத்தும் வகையில் ஜனாதிபதி ரணில் விக்ரமசிங்கவின் பணிப்புரையின் பிரகாரம் ஜனாதிபதியின் செயலாளர் சமன் ஏக்கநாயக்கவின் வழிகாட்டலின் கீழ் ஜனாதிபதி நிதியம் இந்த புலமைப்பரிசில் திட்டத்தை நடைமுறைப்படுத்துகிறது.
+
+...
+
+[Data](articles/2915758f.json)
+
+---
 
 ### Members of the UN have been accused of attacking Hamas- many countries suspended financial aid
 
@@ -2001,35 +2035,5 @@ Authorities stated that action is taken to rescue the abducted fishermen.
 [Data](articles/435cab19.json)
 
 [Extended Data](ext_articles/435cab19.ext.json)
-
----
-
-### The  Attack on ITAK Jaffna MP  Sivagnanam Shritharan  by “Unknown” Gunmen in Anuradhapura.
-
-*2024-01-27 18:18:00* · [`dbsjeyarajcom`](https://dbsjeyaraj.com/dbsj/?p=83507) · `en`
-
-The  media spotlight is focused to a great  extent on Jaffna District Parliamentarian Sivagnanam Shritharan these days. The 55 year old  former school principal has been elected as the president of Sri Lanka’s premier Tamil political party the Ilankai Thamil Arasuk Katchi(ITAK) known in English as the Federal Party(FP). Shritharan  has been  elected an MP  continuously since 2010.
-
-Shritharan contested the ITAK presidential elections on a pro-LTTE platform euphemistically described as “Thamizh Thesiyam” (Tamil Nationalism)The newly elected ITAK leader  demonstrated that he was a hawk in Tamil politics by paying obeisance at the LTTE cemetery in Kilinochchi. He also issued a statement  calling upon all Tamil nationalist parties to join him and realise the dreams of fallen LTTE fighters known as “Maaveerar”or great heroes.
-
-...
-
-[Data](articles/d857a29c.json)
-
-[Extended Data](ext_articles/d857a29c.ext.json)
-
----
-
-### The Independence Day Changes Changed Days
-
-*2024-01-27 18:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192631) · `si`
-
-The police said in a new statement that the rehearsal of the Independence Day was to commence from January 29.
-
-◼️
-
-[Data](articles/3d90a8fe.json)
-
-[Extended Data](ext_articles/3d90a8fe.ext.json)
 
 ---

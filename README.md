@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 10:32:37**
+As of **2024-01-28 10:50:10**
 
 ## Newspaper Stats
 
-*Scraped **3,000** Articles*
+*Scraped **3,006** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,42 +13,162 @@ bbccomsinhala | 53
 dbsjeyarajcom | 124
 economynextcom | 170
 islandlk | 174
-newsfirstlk | 176
+newsfirstlk | 178
 dailyftlk | 215
 adalk | 272
 adaderanasinhalalk | 299
 virakesarilk | 305
-tamilmirrorlk | 378
-adaderanalk | 387
+tamilmirrorlk | 379
+adaderanalk | 390
 dailymirrorlk | 406
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,998 (99.9%) of 3,000 articles have been extended.
+3,000 (99.8%) of 3,006 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### ගැසට් 02ක් අවලංගු කෙරේ
+### Organised crime, drug rackets will be eradicated by end of June - Minister
+
+*2024-01-28 10:19:00* · [`adaderanalk`](https://www.adaderana.lk/news/96787/organised-crime-drug-rackets-will-be-eradicated-by-end-of-june-minister-) · `en`
+
+Public Security Minster Tiran Alles has vowed to eradicate all organised crime syndicates and drug trafficking rackets in the country by the end of June this year.
+
+Speaking at an event in Negombo, Minister Alles emphasised that the ongoing country-wide anti-drug operation ‘Yukthiya’ will not be brought to a halt, regardless of any external pressures calling for the end of the special operation.
+
+Meanwhile, Acting Inspector General of Police (IGP) Deshabandu Tennakoon, who was also present at the event, revealed that the price of drugs being sold in Sri Lanka has hiked up exponentially, adding that prompt efforts are underway to confiscate all properties belonging to drug traffickers.
+
+◼️
+
+[Data](articles/4ebc30df.json)
+
+---
+
+### Sri Lankan fishing boats seized for illegal activity in Maldives’ EEZ
+
+*2024-01-28 10:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96786/sri-lankan-fishing-boats-seized-for-illegal-activity-in-maldives-eez) · `en`
+
+Two Sri Lankan fishing boats have been detained by the Maldives National Defence Force (MNDF) Coast Guard for allegedly fishing illegally within the Maldives’ Exclusive Economic Zone (EEZ).
+
+The two fishing boats were seized by the MNDF’s Northern Area Command Coast Guard First Squadron following a report received by the MNDF Coast Guard on 25 January. One boat had seven crew members while the other had six crew members, foreign media reported.
+
+According to the MNDF, the two vessels are currently under the custody of the Coast Guard First Squadron’s Coast Guard Ship Nooraddeen, docked at Haa Alif Filladhoo harbour.
+
+According to foreign media, the two fishing boats will be brought to Male City and subsequently handed over to the police.
+
+◼️
+
+[Data](articles/4004d43a.json)
+
+---
+
+### More countries pause funds for UN Palestinian agency
+
+*2024-01-28 10:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96785/more-countries-pause-funds-for-un-palestinian-agency) · `en`
+
+Six European countries paused funding for the U.N. refugee agency for Palestinians (UNRWA) on Saturday, following allegations that some of its staff were involved in the Oct. 7 Hamas attacks on Israel.
+
+Britain, Germany, Italy, the Netherlands, Switzerland and Finland on Saturday joined the United States, Australia and Canada in pausing funding to the aid agency, a critical source of support for people in Gaza, after the allegations by Israel.
+
+“Palestinians in Gaza did not need this additional collective punishment,” Philippe Lazzarini, UNRWA commissioner-general, said on X. “This stains all of us.”
+
+The agency said on Friday it had opened an investigation into several employees and severed ties with those people.
+
+Encouraging more donor suspensions, Israeli Foreign Minister Israel Katz said UNRWA should be replaced once fighting in the enclave dies down and accused it of ties to Islamist militants in Gaza.
+
+...
+
+[Data](articles/c1892851.json)
+
+---
+
+### Operation Yukthiya Nets 803 Suspects in 24-Hour Sweep
+
+*2024-01-28 10:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/operation-yukthiya-nets-803-suspects-in-24-hour-sweep/) · `en`
+
+COLOMBO (News 1st); Sri Lankan authorities under Operation Yukthiya have apprehended a staggering 803 suspects within a 24-hour period.
+
+The sweeping operation, coordinated by the Ministry of Public Security, targeted individuals involved in drug trafficking, warrant offenses, and other criminal activities.
+
+Of the total arrested, 562 suspects were found to be actively engaged in drug-related offenses.
+
+Notably, 241 of these individuals had been identified by the Crimes Divisions as priority targets in their ongoing drug enforcement efforts.
+
+The Ministry further confirmed the arrest of 225 individuals with outstanding warrants.
+
+Security forces involved in the operation successfully seized a significant amount of illegal narcotics, including approximately 212 grams of heroin and 101 grams of methamphetamine (ice).
+
+Investigations are currently underway to determine the status of five additional individuals detained during the operation and held under detention orders.
+
+...
+
+[Data](articles/690ec1ba.json)
+
+---
+
+### Two gazettes canceled
 
 *2024-01-28 10:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192649) · `si`
 
-ශ්‍රී ලංකා කරාතේ දෝ සම්මේලනය සහ ශ්‍රී ලංකා මෝටර් රථ ක්‍රීඩා සංගමය සදහා පත්කර තිබූ අතුරු කමිටු විසුරුවා හැරීමට ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා පියවර ගෙන තිබේ.
+Sports Minister Harin Fernando has taken steps to dissolve the interim committees appointed to the Sri Lanka Karatra Do Conference and the Sri Lanka Motor Sports Association.
 
-පසුගිය වසරේ ජුලි මස 28 වැනි දින එවකට ක්‍රීඩා අමාත්‍යවරයා ලෙස කටයුතු කළ රොෂාන් රණසිංහ මහතා විසින් කරාතේ දෝ සම්මේලනයේ ලියාපදිංචිය අත්හිටුවා එම සංගමයේ කටයුතු තාවකාලිකව පවත්වාගෙන යාමට අතුරු කමිටුවක් පත්කරනු ලැබිණි.
+July 28, July on the 28th of July last year, Roshan Ranasinghe was suspended by Roshan Ranasinghe and was suspended to be temporarily maintained by the work of the Association.
 
-වත්මන් ක්‍රීඩා අමාත්‍යවරයා විසින් අදාළ අත්හිටුවීම සිදු කළ ගැසට් පත්‍රය අවලංගු කර ඇති අතර, කරාතේ දෝ සම්මේලනයේ කටයුතු මීට පෙර පැවති නිලවරණයෙන් තේරී පත්වූ නිලධාරී මණ්ඩලය වෙත පවරා තිබේ.
+The gazette, the suspension has been canceled by the Minister of Sports and has been handed over to the elected office bearers of the Karate Dro Conference.
 
-ශ්‍රී ලංකා මෝටර් රථ ක්‍රීඩා සංගමයේ ලියාපදිංචිය ද පසුගිය වසරේ අගෝස්තු මස 09 වැනි දින තාවකාලික ව අත්හිටුවා අතුරු කමිටුවක් පත්කිරීමට රොෂාන් රණසිංහ මහතා විසින් කටයුතු කර තිබිණි.
+Roshan Ranasinghe has also taken steps to appoint a inter-discharge from August 09 last year.
 
-ඊට අදාළ ගැසට් නිවේදනය ද අවලංගු කර එම සංගමයේ කටයුතු ද පෙර පැවති නිලධාරී මණ්ඩලය වෙත පැවරීමට වත්මන් ක්‍රීඩා අමාත්‍ය හරීන් ප්‍රනාන්දු මහතා විසින් පියවර ගෙන තිබේ.
+The present Sports Minister Harin Fernando has taken steps to cancel the relevant gazette notification and transfer the activities of the Association.
 
 ◼️
 
 [Data](articles/5d984a93.json)
+
+[Extended Data](ext_articles/5d984a93.ext.json)
+
+---
+
+### Sanath Nishantha To Be Laid to Rest Today (28)
+
+*2024-01-28 09:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/sanath-nishantha-to-be-laid-to-rest-today-28/) · `en`
+
+COLOMBO (News 1st); Following a tragic road accident earlier this week, the final rites of former State Minister Sanath Nishantha will take place today afternoon at Holy Family Church Rajakadaluwa.
+
+Public respects can be paid at Nishantha's residence in Arachchikattuwa until 2pm today, before the ceremony and burial.
+
+Nishantha tragically passed away earlier this week in a car accident near the 11th kilometer post on the Colombo-Katunayake expressway.
+
+His vehicle collided with a container truck traveling in the same direction, claiming the lives of Nishantha and his police constable bodyguard, Anuradha Jayakodi.
+
+Sri Lanka Police has awarded Rs. 1.5 Million to the family of deceased police constable Anuradha Jayakodi, who tragically died while serving as the bodyguard of State Minister Sanath Nishantha.
+
+Further honoring Jayakodi's service, the late constable was posthumously promoted to the rank of sergeant yesterday (26).
+
+...
+
+[Data](articles/d934349a.json)
+
+---
+
+### பெண் பொலிஸ் அதிகாரியை பலியெடுத்த விபத்து
+
+*2024-01-28 09:36:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்-பொலிஸ்-அதிகாரியை-பலியெடுத்த-விபத்து/175-332199) · `ta`
+
+மீரிகம - பஸ்யால வீதியின் துமுன்னேகெதர பிரதேசத்தில் இடம்பெற்ற மோட்டார் சைக்கிள் விபத்தில் பெண் பொலிஸ் உத்தியோகத்தர் உயிரிழந்துள்ளார்.
+
+இதில், அம்பேபுஸ்ஸ பிரதேசத்தை சேர்ந்த வரகாபொல பொலிஸ் நிலையத்தில் கடமையாற்றும் 52 வயதுடைய பொலிஸ் உத்தியோகத்தரே உயிரிழந்துள்ளார்.
+
+அவர் பயணித்த மோட்டார் சைக்கிள் வீதியை விட்டு விலகி பாரவூர்தியுடன் மோதியதில் இந்த விபத்து இடம்பெற்றுள்ளது.
+
+விபத்தில் பலத்த காயங்களுக்குள்ளான பெண் பொலிஸ் அதிகாரி வட்டுபிட்டிவல வைத்தியசாலையில் அனுமதிக்கப்பட்ட போது உயிரிழந்துள்ளார். R
+
+◼️
+
+[Data](articles/ab8f9002.json)
 
 ---
 
@@ -74,21 +194,23 @@ The Department of Meteorology has requested the public to take necessary steps t
 
 ---
 
-### තවත් සැකකරුවන් 803 දෙනෙකු අත්අඩංගුවට
+### 803 suspects arrested
 
 *2024-01-28 09:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192648) · `si`
 
-දිවයින පුරා ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ අද (19) අලුයම අවසන් වූ පැය 24 තුළ සැකකරුවන් 803 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+803 suspects have been arrested in the 24 hours of the end of justice operations island wide.
 
-මෙහෙයුම්වල දී හෙරොයින් ග්‍රෑම් 212ක්, අයිස් ග්‍රෑම් 101ක් සහ මත්පෙති 169ක් පොලිස් භාරයට ගෙන ඇත.
+The police seized 212 grams of heroin, 101 g of ice and 169 drugs.
 
-මීට අමතර ව අත්අඩංගුවට ගත් සැකකරුවන් අතරින් සැකකරුවන් 05 දෙනෙකුට රැඳවුම් නියෝග මත වැඩිදුර විමර්ශන සිදු කරයි.
+Five suspects are underway on detention orders from the suspects in addition.
 
-මත්ද්‍රව්‍යවලට ඇබ්බැහි වූවෙකු පුනරුත්ථාපනය සඳහා යොමු කර ඇති බව පොලීසිය පවසයි.
+A drug addict has been sent to rehabilitation.
 
 ◼️
 
 [Data](articles/e31eb3a9.json)
+
+[Extended Data](ext_articles/e31eb3a9.ext.json)
 
 ---
 
@@ -1911,133 +2033,5 @@ At the same time, the total sales price of vegetables that are being transported
 [Data](articles/d59fea9b.json)
 
 [Extended Data](ext_articles/d59fea9b.ext.json)
-
----
-
-### The woman who has cheated 6 crores in cheated on Canada jobs
-
-*2024-01-27 11:59:05* · [`adalk`](https://www.ada.lk/breaking_news/කැනඩා-රැකියා-පෙන්වා-කෝටි-6ක්-වංචාකළ-කත-කොටුවෙයි/11-407741) · `si`
-
-A woman who cheated for more than Rs.
-
-A woman residing in Wattala, Small Udanda Road, has been provided with Rs.. The woman said that it was not possible to provide a job after the money was paid.
-
-A 37-year-old unmarried woman has been arrested in accordance with the person who had been fraudulent. The Bureau has received 16 complaints against the complaint so far, according to the complaints, over Rs.. The woman has defrauded people from different parts of the island, and the people who engage in bank officials, lawyers, including banking officers and the advisors have been fraud.
-
-The suspect was produced before the Welisara Magistrate's Court yesterday (2024.2015) without a validity of the Bureau.
-
-◼️
-
-[Data](articles/4fe21a3f.json)
-
-[Extended Data](ext_articles/4fe21a3f.ext.json)
-
----
-
-### 8 people were injured in an accident
-
-*2024-01-27 11:52:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/திருகோணமலை/மற்றுமொரு-கோர-விபத்தில்-8-பேர்-படுகாயம்/75-332173) · `ta`
-
-Eight persons have been admitted to the Muttur Base Hospital after being injured in a vehicle accident in the Thanganagar area of the Trincomalee - Cherunuwara police division, Cherunuwara police said.
-
-The incident took place yesterday evening on the Trincomalee - Batticaloa main road.
-
-The incident occurred when tourists from Avisala to Trincomalee collided behind a parked lorry when they finished the tour.
-
-Seven people were injured in the van driver of the van who was traveling in the van and an assistant of a keb lorry that had been parked in front of it was injured.
-
-The victims are being treated at the Muttur Base Hospital and further investigations are being carried out by the Serunuwara police.. Remble
-
-◼️
-
-[Data](articles/da9b912b.json)
-
-[Extended Data](ext_articles/da9b912b.ext.json)
-
----
-
-### Drug destruction facility under construction in Wanathavilluwa
-
-*2024-01-27 11:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96766/drug-destruction-facility-under-construction-in-wanathavilluwa) · `en`
-
-Plans are afoot to execute the destruction of drugs seized by the security forces by the end of March, the Commander of the Navy Vice Admiral Priyantha Perera has emphasized.
-
-Furthermore, the Navy chief said that a building with all facilities required for drug destruction is under construction in the Wanathavilluwa area.
-
-◼️
-
-[Data](articles/ff16ec6b.json)
-
-[Extended Data](ext_articles/ff16ec6b.ext.json)
-
----
-
-### Sri Lanka’s Online Safety Bill: Russia Underscores Domestic Issue
-
-*2024-01-27 11:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/sri-lanka-s-online-safety-bill-russia-underscores-domestic-issue/) · `en`
-
-COLOMBO (News 1st); Following the recent passage of the Online Safety Bill through Sri Lanka's Parliament, Ambassador Levan Dzhagaryan of Russia has weighed in, emphasizing the legislation as an internal matter and calling for non-interference from foreign powers.
-
-Ambassador Dzhagaryan acknowledged the ongoing discussions surrounding the bill, both within Sri Lanka and among the international community.
-
-He stated that Russia following the situation with the Online Safety Bill in Sri Lanka, which has been adopted by the Parliamentary majority in all readings recently.
-
-He also said that Russia takes notice of all comments and reactions on this legislature both from the domestic political sphere and among the foreign powers accredited in this country."
-
-However, the Ambassador firmly asserted Sri Lanka's sovereign right to regulate its online sphere, adding that regulations of the online sphere are solely domestic issue of the Republic of Sri Lanka.
-
-...
-
-[Data](articles/8e33c5ee.json)
-
-[Extended Data](ext_articles/8e33c5ee.ext.json)
-
----
-
-### Exam centre chief arrested over 2023 A/L exam paper leak
-
-*2024-01-27 11:28:00* · [`adaderanalk`](https://www.adaderana.lk/news/96765/exam-centre-chief-arrested-over-2023-al-exam-paper-leak) · `en`
-
-The Criminal Investigations Department (CID) has arrested another individual on suspicion of his involvement in the incident of several questions of the 2023 G.C.E. Advanced Level examination’s Agricultural Science I & II question papers allegedly being leaked prior to the test.
-
-The arrested female suspect was the chief at the A/L examination centre established at the Moratuwa Maha Vidyalaya, the police said.
-
-Police mentioned that she served as a teacher advisor attached to the Piliyandala Zonal Education Office.
-
-Last week, the CID also arrested a 38-year-old man who had served as the peon of the female exam centre chief in question and a 52-year-old A/L Agricultural Science teacher of a popular government school in Ampara on suspicion of being involved in the incident.
-
-The three suspects have been remanded in custody until February 02, 2024, after being produced before the Ampara Magistrate’s Court.
-
-...
-
-[Data](articles/1c2fdc38.json)
-
-[Extended Data](ext_articles/1c2fdc38.ext.json)
-
----
-
-### Drug Traffickers Pose Challenge in Sri Lanka’s Rehabilitation Efforts
-
-*2024-01-27 11:20:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/drug-traffickers-pose-challenge-in-sri-lanka-s-rehabilitation-efforts/) · `en`
-
-COLOMBO (News 1st);  Sri Lanka's rehabilitation initiative faces a new obstacle, as authorities discover drug traffickers and criminals mingling among those referred for addiction treatment.
-
-Retired Major General Darshana Hettiarachchi who is the Commissioner General of Rehabilitation confirmed that stricter procedures will be implemented to filter individuals entering rehabilitation programs.
-
-Following the "Yukthiya Operation" that commenced in December 2023, over 300 individuals were sent for rehabilitation.
-
-However, intelligence revealed the presence of non-addicts, including drug traffickers and criminals, within the group.
-
-In response, Hettiarachchi announced a shift in strategy noting that moving forward not every person referred by the courts or police will be automatically admitted to rehabilitation.
-
-He said that officials will prioritize those with genuine addiction problems.
-
-This development comes amidst heightened tensions at the Kankakadu Treatment Rehabilitation Center.
-
-...
-
-[Data](articles/96eee7a1.json)
-
-[Extended Data](ext_articles/96eee7a1.ext.json)
 
 ---

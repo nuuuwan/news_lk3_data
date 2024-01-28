@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 14:17:19**
+As of **2024-01-28 14:32:58**
 
 ## Newspaper Stats
 
-*Scraped **3,052** Articles*
+*Scraped **3,057** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,56 +15,96 @@ economynextcom | 172
 islandlk | 174
 newsfirstlk | 182
 dailyftlk | 215
-adalk | 275
+adalk | 278
 adaderanasinhalalk | 306
 virakesarilk | 317
-tamilmirrorlk | 385
-adaderanalk | 393
+tamilmirrorlk | 386
+adaderanalk | 394
 dailymirrorlk | 414
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,049 (99.9%) of 3,052 articles have been extended.
+3,052 (99.8%) of 3,057 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### கேப்பாப்பிலவில் இரு குடும்பங்கள் போராட்டம்! பொலிஸாரின் பொறுப்பற்ற செயற்பாடே காரணம்
+### US sees signs of progress on deal to release hostages, bring temporary pause to Israel-Hamas war
 
-*2024-01-28 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174973) · `ta`
+*2024-01-28 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96792/us-sees-signs-of-progress-on-deal-to-release-hostages-bring-temporary-pause-to-israel-hamas-war) · `en`
 
-கேப்பாப்பிலவு பகுதியில் வீட்டில் வசிப்பதற்கு பாதுகாப்பு இல்லை, பொலிஸார் நியாயமான  நீதியை பெற்றுக்கொடுக்கவில்லை என தெரிவித்து, தமக்கான நீதி வேண்டி இரு குடும்பங்கள் சனிக்கிழமை (27) போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+U.S. negotiators are making progress on a potential agreement under which Israel would pause military operations against Hamas in Gaza for two months in exchange for the release of more than 100 hostages who were captured in the Oct. 7 attack on Israel, according to two senior administration officials.
 
-முல்லைத்தீவு கேப்பாப்பிலவு கிராமத்தில் சட்டவிரோத செயற்பாட்டில் ஈடுபட்டு வரும் அயல்வீட்டுக்காரருக்கும் கிராமத்தில் வசிக்கும் இரு குடும்பங்களுக்கும் இடையே தொடர்ச்சியாக வாக்குவாதம் இருந்து வந்தது.
+The officials, who requested anonymity to discuss the sensitive negotiations, said Saturday that emerging terms of the yet-to-be sealed deal would play out over two phases.
 
-இந்நிலையிலேயே கேப்பாப்பிலவு மாதிரி கிராமம் பிள்ளையார் கோவிலுக்கு முன்பாக சனிக்கிழமை (27) மாலை 3 மணியில் இருந்து இரு குடும்பங்களை சேர்ந்த 12 பேர் போராட்டத்தில் ஈடுபட்டுள்ளனர்.
+In the first phase, fighting would stop to allow for the remaining women, elderly and wounded hostages to be released by Hamas.
 
-இந்த இரு குடும்பத்தினரும் போராட்டத்தில் ஈடுபட்டவேளை, வீட்டில் 14 வயதுடைய இரு சிறுவர்கள் தனிமையில் இருந்தபோது, பிரச்சினைக்குரிய அயல்வீட்டு குடும்பஸ்தர், குறித்த வீட்டினுள் சென்று போதைப்பொருளை வைத்துவிட்டு, பொலிஸாரை அழைத்து வந்ததை தொடர்ந்து, இரு சிறுவர்களும் கைது செய்யப்பட்டுள்ளனர்.
+Israel and Hamas would then aim to work out details during the first 30 days of the pause for a second phase in which Israeli soldiers and civilian men would be released. The emerging deal also calls for Israel to allow more humanitarian aid into Gaza.
 
 ...
 
-[Data](articles/35f55ae8.json)
+[Data](articles/a7c2fa04.json)
 
 ---
 
-### போதைப்பொருள் கடத்தல்காரர்களும் அனுமதிக்கப்படுவதே கந்தகாடு முகாம் பிரச்சினைகளுக்கு பிரதான காரணமாம்!
+### ඒකක භාර ආයෝජකයන්ට ප්‍රථම වතාවට ඩිජිටල් ක්‍රමයට ගණුදෙනු පහසුකම් සැපයෙයි
+
+*2024-01-28 13:51:20* · [`adalk`](https://www.ada.lk/breaking_news/ඒකක-භාර-ආයෝජකයන්ට-ප්‍රථම-වතාවට-ඩිජිටල්-ක්‍රමයට-ගණුදෙනු-පහසුකම්-සැපයෙයි/11-407758) · `si`
+
+ශ්‍රී ලංකාවේ පුරෝගාමී ආයෝජනය ආයතනයක් වන ෆස්ට් කැපිටල් හෝල්ඩිංග්ස් මෙරට මූල්‍ය සේවා ක්ෂේත්‍රෙය් සුවිශේෂී සන්ධිස්ථානයක් සනිටුහන් කරමින් %First Capital Money Plus Fund^ සේවාව හඳුන්වාදීමට නියමිතව තිබේ. ඒ අනුව එහි මූලියක දැනුවත් කිරීමේ වැඩසටහනක් පසුගියදා (24) දා කොළඹදී පැවැත්වුණි.
+
+ශ්‍රී ලංකාවේ ප්‍රථම වරට හඳුන්වාදෙන මෙම ක්‍රමය තුලින් ඒකක භාර ආයෝජන ගිණුම් සඳහා නිකුත්කරන EMV සක්‍රීය කාඩ්පත් හරහා ඩිජිටල් ක්‍රමයට මුදල් ලබාගැනීමට හා ගෙවීම් කිරීමට අවස්ථාව සැලසෙන අතර එමගින් ගිණුම් හිමියන්ට ගනුදෙනු කිරීම සඳහා නව ක්‍රම කිහිපයක්ද හිමිවෙයි.
+
+තවද මෙම ක්‍රමවේදයේ ආරක්ෂාව හා විනිවිදභාවය තහවුරු කිරීම සඳහා භාරකාර සේවාව ලබාගැනීමට ෆස්ට් කැපිටල් විසින් HNB බැංකුව සමග අත්වැල් බැඳගැනීමට කටයුතු කර තිබේ. එමෙන්ම නව අරමුදල මගින් ඒකක භාර ගිණුම් හිමියන්ට EMV කාඩ්පත් ඔස්සේ පහසුවන් තම ආයෝජන වෙත පිවිසීමටද හැකියාව ලැබෙනු ඇත.
+
+...
+
+[Data](articles/664d6845.json)
+
+---
+
+### Two families struggle in Keppapila!The reason for the recklessness of the police
+
+*2024-01-28 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174973) · `ta`
+
+Two families are engaged in a protest on Saturday (27) for their justice, saying that there is no security to live in the Keppapilavu area and that the police have not given fair justice.
+
+There has been a continuous argument between a neighbor and two families living in the village who are engaged in illegal activities in Keppapilavu village in Mullaitivu.
+
+It is in this context that 12 people from two families from two families have been protesting in front of the Kappapilavu model village Pillaiyar Kovil on Saturday (27).
+
+While the two families were involved in the agitation, two boys were arrested after two boys in the house were lonely at home.
+
+There is no justification for the police to condemn the incident and lodge a complaint with the police.The two families are struggling to get justice in this regard and that they have no protection to be at home.
+
+◼️
+
+[Data](articles/35f55ae8.json)
+
+[Extended Data](ext_articles/35f55ae8.ext.json)
+
+---
+
+### The main reason for the Kandagadu camp problems is that drug traffickers are also allowed!
 
 *2024-01-28 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174984) · `ta`
 
-கந்தகாடு புனர்வாழ்வு முகாமில் தொடர்ச்சியாக இடம்பெற்று வரும் சம்பவங்களைக் கட்டுப்படுத்துவதற்கான அவசர வேலைத்திட்டம் அமுல்படுத்தப்பட்டு வருவதாக புனர்வாழ்வு ஆணையாளர் நாயகம் தர்ஷன ஹெட்டியாராச்சி தெரிவித்துள்ளார்.
+The Commissioner General of Rehabilitation Tarshana Hettiarachchi said that the emergency program to curb the ongoing incidents at the Kandagadu rehabilitation camp is being implemented.
 
-போதைப்பொருள் கடத்தல்காரர்களும் புனர்வாழ்வு நிலையத்தில் அனுமதிக்கப்படுவதே முரண்பாடுகளுக்கு பிரதான காரணம் என அவர் சுட்டிக்காட்டியுள்ளார்.
+He pointed out that the main reason for the contradictions is that drug traffickers are also admitted to the rehabilitation station.
 
-ஜனவரி மாதத்தில் இரண்டு தடவைகள் கந்தகாடு புனர்வாழ்வு முகாமில் கைதிகளுக்கு இடையில் மோதல் சம்பவங்கள் பதிவாகியுள்ளன.
+In January twice in the Kandagadu rehabilitation camp, there were incidents of clashes between prisoners.
 
-தற்போது வரை நிலைமை கட்டுப்படுத்தப்பட்டுள்ளதாகவும் எனினும் இதற்கு நிரந்தர  தீர்வு காணப்பட வேண்டுமெனவும் அவர்  தெரிவித்துள்ளார்.
+He said that the situation has been restricted till now, but a permanent solution should be found.
 
 ◼️
 
 [Data](articles/3635d4fb.json)
+
+[Extended Data](ext_articles/3635d4fb.ext.json)
 
 ---
 
@@ -107,6 +147,8 @@ Five of these were irreversibly missed and cannot be carried forward, while eigh
 ...
 
 [Data](articles/84d2f7f1.json)
+
+[Extended Data](ext_articles/84d2f7f1.ext.json)
 
 ---
 
@@ -185,6 +227,48 @@ Accordingly, with the increase in scholarships, from February 2024 to the GCE Ad
 [Data](articles/2915758f.json)
 
 [Extended Data](ext_articles/2915758f.ext.json)
+
+---
+
+### බත් මුට්ටියෙන් මරුවා එයි
+
+*2024-01-28 12:31:05* · [`adalk`](https://www.ada.lk/breaking_news/බත්-මුට්ටියෙන්-මරුවා-එයි/11-407751) · `si`
+
+ගෑස් ලිපකින් බත් මුට්ටියක් පිසිමින් සිටී පුද්ගලයකු  ලිපමත ඇදවැටී පිලිස්සී මියගොස් ඇති බව කළුතර දකුණ පොලිසිය පවසයි .
+
+මෙසේ මියගොස් ඇත්තේ කළුතර,  රෙමුණගොඩ ප්‍රදේශයේ පදිංචිව සිටී එච්.ඒ.කරුණාදාස නමැති 60 හැව්රිදි  පුද්ගලයකු බව පොලිසිය කීය.
+
+මියගොස් ඇති තැනැත්තා කිසියම් රෝගී තත්ත්වයකින් පෙලී ඇති බවත්, නිවසේ තනිව ජීවත්ව සිට ඇති බවත් සදහන් වේ.
+
+ඔහු දිවා ආහාරය පිණිස බත් මුට්ටියක් ගෑස් ලිපමත තබා පිසීමින් සිටියදී අනතුර සිදුව ඇති බවත්, පිලිස්සී බරපතළ තුවාල ලබා සිටින අයුරු  අසල වත්තක රබර් කිරි කපන කාන්තාවක දැක ඇති බවත්  පොලිසිය කීය.
+
+මූලස්ථාන පොලිස් පරීක්ෂක රුවන් විජේසිංහ මහතාගේ උපදෙස් පරිදි අපරාධ අංශ ස්ථානාධිපති පොලිස් පරීක්ෂක ධම්ම්ක ද සිල්වා මහතාගේ ප්‍රධානත්වයෙන් පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/e6066e57.json)
+
+---
+
+### රතු මුහුදේ අර්බුදයෙන් කොළඹ වරායට ඉල්ලමක්
+
+*2024-01-28 12:16:42* · [`adalk`](https://www.ada.lk/breaking_news/රතු-මුහුදේ-අර්බුදයෙන්-කොළඹ-වරායට-ඉල්ලමක්/11-407750) · `si`
+
+දැනට මැදපෙරදිග රතු මුහුද ආශ්‍රිතව ඇති වී තිබෙන අර්බුද තත්ත්වය හේතුවෙන් කොළඹ වරාය වෙත පැමිණෙන නෞකාවන් ප්‍රමාණය වැඩි වී ඇත.  එහෙයින්   බහලු මෙහෙයුම් ධාරිතාවය ඉහළ ගොස් ඇති අතර එම තත්ත්වය නිරීක්ෂණය කිරීමට වරාය නාවික හා ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා අද දින  ශ්‍රී ලංකා වරාය අධිකාරියේ ජයබහලු පර්යන්තයේ විශේෂ නිරික්ෂණ චාරිකාවක යෙදිණි.
+
+මැදපෙරදිග කලාපයේ යුද තත්ත්වය හේතුවෙන් රතු මුහුද හරහා සූවස් ඇල ඔස්සේ යාත්‍රා කෙරෙන වෙළඳ නෞකාවන්ට සිදුව ඇති ත්‍රස්ත තර්ජන හේතුවෙන්  ආරක්ෂිත පියවරක් ලෙස සිය නෞකා  කොළඹ වරායට ගෙන්වා ගැනීමට  නෞකා සමාගම් පෙළඹී ඇත.
+
+මෙම  හේතුව නිසා අද දවසේ වරාය තුළ නෞකා 24 ක් සඳහා නැංගුරම්පළ පහසුකම් සාදා ඇත.
+
+මීට අමතරව වරායෙන් පිටත නැංගුරම්පොළ බලාපොරොත්තුවෙන් නෞකා 10ක් පමණ පොරොත්තුව සිටින බව වාර්තා වෙයි.
+
+මෙම තත්ත්වය මත ජනවාරි මාසය තුලදී  නෞකා 100ක් පමණ මෙහෙයවීමට ජයබහලු පර්යන්තය(JCT) හා නැගෙනහිර බහලු පර්යන්තය (ECT) සමත්ව ඇත.
+
+මෙම බහාලු නෞකාවන්ට අමතරව මගී නෞකා 05ක් ද කොළඹ වරායට පැමිණ ඇත.
+
+...
+
+[Data](articles/33120068.json)
 
 ---
 
@@ -357,6 +441,24 @@ The Sri Lanka Human Rights Commission has called for the right to seek the right
 [Data](articles/48eb8ac9.json)
 
 [Extended Data](ext_articles/48eb8ac9.ext.json)
+
+---
+
+### 2 விசேட அரசிதழ்களை ரத்து செய்தார் அமைச்சர்
+
+*2024-01-28 11:34:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-விசேட-அரசிதழ்களை-ரத்து-செய்தார்-அமைச்சர்/175-332202) · `ta`
+
+முன்னாள் விளையாட்டுத்துறை அமைச்சர் ரொஷான் ரணசிங்கவினால் வெளியிடப்பட்ட இரண்டு விசேட வர்த்தமானிகளை (அரசிதழ்) தற்போதைய விளையாட்டு மற்றும் இளைஞர் விவகார அமைச்சர் ஹரின் பெர்னாண்டோ ரத்து செய்துள்ளார்.
+
+இதன்படி, 2023 ஆம் ஆண்டு ஜூலை 28 ஆம் திகதி வெளியிடப்பட்ட விசேட வர்த்தமானி இலக்கமான 2342/48 இரத்துச் செய்யப்படவுள்ளது.
+
+அத்துடன், இலங்கை கராத்தே சம்மேளனம் மற்றும் இலங்கை மோட்டார் விளையாட்டு சங்கத்தின் இடைக்கால குழுக்கள், அதிகாரங்கள், பணிகள் மற்றும் கடமைகளை கலைத்த வர்த்தமானி அறிவித்தலும் இரத்து செய்யப்பட்டுள்ளது.
+
+தேசிய விளையாட்டு சங்கங்கள் அல்லது சம்மேளனங்களின் அரசியலமைப்பின் பிரகாரம், முன்னைய தேர்தல்களில் தெரிவுசெய்யப்பட்ட அதிகாரிகள், அவர்களின் சட்டப்பூர்வ பதவிக்காலம் முடிந்து புதிய தேர்தல் நடத்தப்படும் வரையில், சபைக்கு முன்பாக நியமிக்கப்படலாம் என அமைச்சர் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/02b4e9d8.json)
 
 ---
 
@@ -1957,93 +2059,5 @@ The abduction had occurred approximately 1,160 nautical miles away from the Sri 
 [Data](articles/8fc51171.json)
 
 [Extended Data](ext_articles/8fc51171.ext.json)
-
----
-
-### The Value of Goodness – employing business profits to help the needy
-
-*2024-01-27 21:13:00* · [`islandlk`](http://island.lk/the-value-of-goodness-employing-business-profits-to-help-the-needy/) · `en`
-
-he who refreshes will himself be refreshed Bible book of proverbs
-
-My mother was the first genuine practitioner of community responsibility that I knew. She had never heard of Corporate Social Responsibility but her faith, upbringing, and innate goodness commanded that she bear some accountability for her neighbours’ wellbeing. Her instinctive and visible generosity was of direct benefit, in many small ways, to the less advantaged in our village community of Pallansena. Ours was a family of moderate means and by no means affluent, but it is my view that sharing comes easily, and more naturally, to those of a modest background.
-
-...
-
-[Data](articles/47a04276.json)
-
-[Extended Data](ext_articles/47a04276.ext.json)
-
----
-
-### CPA critique of On Line Safety Bill
-
-*2024-01-27 21:13:00* · [`islandlk`](http://island.lk/cpa-critique-of-on-line-safety-bill/) · `en`
-
-On September 18, 2023, the Government of Sri Lanka published a Bill titled “Online Safety” and this was subsequently tabled in Parliament on October 3. The Bill aims to establish an Online Safety Commission with a range of powers, including the ability to direct persons and internet service providers to remove vaguely deJined “prohibited statements” from online platforms.
-
-...
-
-[Data](articles/6530d2fd.json)
-
-[Extended Data](ext_articles/6530d2fd.ext.json)
-
----
-
-### Underworld and drug dealers are burden to the country - Tiran Alles
-
-*2024-01-27 21:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192635) · `si`
-
-The Minister of Defense Minister Tiran Alles stressed that even if the international pressure has influenced the operation.
-
-The Minister made these comments participating in the Negombo Divisional Police Commissioner General of Police Commissioners.
-
-"If there are Unifiome beds, you have to beat. Or no work from the uniform. Had to make up hard decisions. Because I gave it to my president. It was the case with Koddon's money, who begins justice and cleaning the country.. They leave them and attack us. The United Nations asked to stop justice. In our country, we are working in our own way to the international community. "
-
-"There are lawyers who speak in underworld cases. Looking for millions of millions. Anyway, the political is out of here. Tiran's aliens are telling. Underworld, drug dealers cannot be held. They a burden to this country. "
-
-...
-
-[Data](articles/8e3f9c99.json)
-
-[Extended Data](ext_articles/8e3f9c99.ext.json)
-
----
-
-### Back home working in Sri Lanka with WHO, ILO, World Bank and ICES
-
-*2024-01-27 20:47:00* · [`islandlk`](http://island.lk/back-home-working-in-sri-lanka-with-who-ilo-world-bank-and-ices/) · `en`
-
-(Excerpted from Memories that linger: My journey through the world of disability by Padmani Mendis)
-
-Although I had carried out assignments for all the WHO Regional Offices except the European Office quite early on in my journey, I had not really had the opportunity to work with WHO Colombo. That is until the year 2012 when the World Report on Disability was published jointly by WHO and the World Bank, a very significant event for disabled people worldwide. The Regional Office in New Delhi, for reasons best known to them, had selected Sri Lanka as a regional focal point for an official launch of the publication.
-
-...
-
-[Data](articles/99194b51.json)
-
-[Extended Data](ext_articles/99194b51.ext.json)
-
----
-
-### The New Alliance begins
-
-*2024-01-27 20:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192634) · `si`
-
-MP Nimal Lansa says that the highest number of political parties representing Parliament will build a new alliance.
-
-The New Alliance (UPFA) was nominated at the Mangala public rally held today (27).
-
-The massive rally to educate the public in Geneala today, supporting President Ranil Wickremesinghe in the next reputation.
-
-MP Nimal Lansa is the founder of the UPFA and is the leader Anura Priyadarshana Yapa.
-
-Minister Nalin Fernando, Minister Susil Premajans and MP Priyankara Jayaratne joined the rally.
-
-◼️
-
-[Data](articles/fb7cde24.json)
-
-[Extended Data](ext_articles/fb7cde24.ext.json)
 
 ---

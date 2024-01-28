@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 11:32:44**
+As of **2024-01-28 11:51:26**
 
 ## Newspaper Stats
 
-*Scraped **3,014** Articles*
+*Scraped **3,017** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 174
 newsfirstlk | 179
 dailyftlk | 215
 adalk | 273
-adaderanasinhalalk | 301
+adaderanasinhalalk | 302
 virakesarilk | 305
-tamilmirrorlk | 379
+tamilmirrorlk | 381
 adaderanalk | 390
 dailymirrorlk | 409
 
@@ -26,11 +26,79 @@ dailymirrorlk | 409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,012 (99.9%) of 3,014 articles have been extended.
+3,017 (100.0%) of 3,017 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### Six killed in accident
+
+*2024-01-28 11:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192652) · `si`
+
+Six persons were killed in a car accident in the Tenkasi area in Tamil Nadu, India.
+
+The accident occurred this morning (28), Indian media reports.
+
+The accident occurred when a car and lorry collided with the face.
+
+The car has been completely destroyed and the six personnel have died in the same place.
+
+◼️
+
+[Data](articles/4b587ceb.json)
+
+[Extended Data](ext_articles/4b587ceb.ext.json)
+
+---
+
+### Increase in incidents of railway track
+
+*2024-01-28 11:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்-பிறழ்வு-சம்பவங்கள்-அதிகரிப்பு/175-332201) · `ta`
+
+According to studies conducted by the Railway Department, the railway derailment has increased from 2000 to 2023.
+
+Accordingly, the train derailment has doubled in 2022 and 2023 compared to 2020 and 2021.
+
+The 98 train derailed by 2020, of which 54 railway yards and 44 railway tracks.
+
+The number of railway derails in 2021. More than 75 railway line derailed, the remaining 40 railroads took place.
+
+By 2022, the number of railway tracks increased to 133;The department said that 94 of them were on the railway tracks.
+
+◼️
+
+[Data](articles/304b5e53.json)
+
+[Extended Data](ext_articles/304b5e53.ext.json)
+
+---
+
+### Deposits sent to trial
+
+*2024-01-28 10:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிந்து-கொண்டிருந்த-சடலம்-விசாரணைக்கு-அனுப்பி-வைப்பு/175-332200) · `ta`
+
+A crematorium was taken out and sent to the Vatupittiwala Hospital for autopsy.
+
+RD Sirisoma Ranasinghe, 81, from Vayangoda, was staying at the elderly home in Mirigama.In this case, doctors announced that he had died of pneumonia fever and took steps to cremate the body.
+
+He was admitted to the Mirigama Resource Hospital and died of pneumonia fever, he died on the resolution of the doctors, police said.
+
+However, the elderly home has taken steps to cremate the body at the Mirigama Sudukkad, as the guardian responsible for his death has no response.
+
+In the meantime, a woman's relative has lodged a complaint with the Senior Superintendent of Gampaha, who has complained to the Senior Superintendent of Gampaha that the woman was suspected of being abused.
+
+A police team was summoned to the cremation of the cremation and sent to the Vatupitivala Hospital for autopsy.
+
+Further inquiries into the incident are being carried out by Meerigama Police Station Upul Hettiarachchi.
+
+◼️
+
+[Data](articles/e0d1e0b4.json)
+
+[Extended Data](ext_articles/e0d1e0b4.ext.json)
+
+---
 
 ### Lorencso demands support to release 4
 
@@ -65,6 +133,8 @@ The hijacking reportedly occurred after January 12th, when "Lorenzo Putha 4" set
 ...
 
 [Data](articles/c75ef8fb.json)
+
+[Extended Data](ext_articles/c75ef8fb.ext.json)
 
 ---
 
@@ -340,21 +410,23 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 
 ---
 
-### ලිට්‍රෝ ගෑස් සමාගමෙන් තවත් බිලියන 1.5ක් මහා භාණ්ඩාගාරයට
+### Litro Gas Company to the Treasury 1.5 billion
 
 *2024-01-28 09:16:35* · [`adalk`](https://www.ada.lk/breaking_news/ලිට්‍රෝ-ගෑස්-සමාගමෙන්-තවත්-බිලියන-1-5ක්-මහා-භාණ්ඩාගාරයට/11-407747) · `si`
 
-ලිට්‍රෝ ගෑස් සමාගමේ 2023 වසරේ ලාභයෙන් රුපියල් බිලියන 1.5ක මුදලක් රාජ්‍ය භාණ්ඩාගාරයට ලබා දීම සඳහා එම සමාගමේ මව් සමාගම වන ශ්‍රී ලංකා රක්ෂණ සංස්ථාවට භාරදීම ජනාධිපති කාර්යාලයේදී සිදු කෙරිණි.
+Litro Gas was handed over to the Head of Sri Lanka Insurance Corporation to provide Rs. 1.5 billion to the Treasury to provide Rs.
 
-අදාළ චෙක්පත ලිට්‍රෝ ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා විසින් ජාතික ආරක්ෂාව පිළිබඳ ජනාධිපති ජ්‍යෙෂ්ඨ උපදේශක හා ජනාධිපති කාර්ය මණ්ඩල ප්‍රධානි සාගල රත්නායක මහතා වෙත නිල වශයෙන් භාර දුන් අතර, සාගල රත්නායක මහතා විසින් ශ්‍රී ලංකා රක්ෂණ සමාගමේ ප්‍රධාන මූල්‍ය නිලධාරීනී ශ්‍රියානි කුලසිංහ මහත්මිය වෙත එම චෙක් පත භාරදෙන ලදී.
+The check has been officially handed over to the Presidential Advisor to the Presidential Advisor on National Security and Presidential Staff Head of the National Security Council to Sagala Ratnayake by the President of Litro Gas.Was on.
 
-ආර්ථිකමය වශයෙන් රට අසීරු තත්ත්වයකට පත්ව සිටියදී වුවද ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ මගපෙන්වීමෙන් සහ සාගල රත්නායක මහතාගේ සහයෝගය මත ලිට්‍රෝ ගෑස් සමාගම ඉහළ වර්ධනයක් කරා ළඟා වී ඇති බවත් එහි ප්‍රතිලාභ නැවතත් රජයට ලබාදීමට හැකිවීම පිළිබඳව සතුටට පත්වන බවත් ලිට්‍රෝ ගෑස් සමාගමේ සභාපති මුදිත පීරිස් මහතා මෙහිදී සඳහන් කළේය.
+Litro Gas Chairman, Chairman of Litro Gas, has been happy to increase the growth of President Ranil Wickremesinghe and the support of President Ranil Wickremesinghe and the support of Sagala Ratnayake's support is achieved.
 
-ලිට්‍රෝ සමාගම 2023 වසරේ පමණක් රුපියල් බිලියන 03ක් ලාභාංශ වශයෙන් මහා භාණ්ඩාගාරයට වෙත යොමු කර ඇති බවද මුදිත පිරිස් මහතා වැඩිදුරටත් පැවසීය.
+The Principal said that Litro was sent to the Treasury in 2023 alone in the Treasury.
 
 ◼️
 
 [Data](articles/f6ef1d03.json)
+
+[Extended Data](ext_articles/f6ef1d03.ext.json)
 
 ---
 
@@ -1969,77 +2041,5 @@ Did he die in the Vavi?Police are conducting investigations into whether they we
 [Data](articles/bd9e1a9d.json)
 
 [Extended Data](ext_articles/bd9e1a9d.ext.json)
-
----
-
-### Rubbish fish to the port of Colombo
-
-*2024-01-27 13:45:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192622) · `si`
-
-Seychelles to Thailand, 98 containers, which have spoken to Thailand, has been revealed in the Government Accounts Committee that the government's accounting was made to make organic fertilizer.
-
-It has further revealed that the Sri Lankan agency has had a factory and four containers in the ship that had spoiled fish in the ship.
-
-It is also reported that a license has been issued to the ship to land on the table.
-
-However, TT Abulmali Premathilaka, however, said that the license was issued to fish waste.
-
-The Chairman of the Public Accounting Committee Lasantha Alagiyawanna said that all state institutions of the government summoned all the government institutions on March 5.
-
-◼️
-
-[Data](articles/0d191a98.json)
-
-[Extended Data](ext_articles/0d191a98.ext.json)
-
----
-
-### Increase of leopards in the hill plantation areas: People in fear
-
-*2024-01-27 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/174912) · `ta`
-
-The public living in the hill plantation area is worried about the increase in leopards' mobility in the tea plantation areas and this has caused the plantation workers to live.
-
-While the victims have claimed that there were many incidents that had taken place in the tea plants and attacked them, a leopard that had recently died in a tea plant had been attacked by a tea worker.
-
-“A worker working in a garden in Bogawantalawa was attacked by a leopard and suffered seriously injuries.
-
-Wildlife officials should develop a better mechanism to protect the public from the attacks of leopards and prevent people from killing the leopards to protect themselves from the leopards. ”
-
-Also, a medical expert in the Randenigala Wildlife Veterinary Division said, “If workers see the leopards moving amidst the tea plants, you can try to scare the leopards loud and shout out.. But if they try to attack those leopards, they will attack humans.
-
-◼️
-
-[Data](articles/9df46fe1.json)
-
-[Extended Data](ext_articles/9df46fe1.ext.json)
-
----
-
-### Man arrested for nine warrants
-
-*2024-01-27 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192621) · `si`
-
-The Criminal Investigations Department (CID) has been arrested by the Criminal Investigations Department at a monks who had been in charge of fake gold items and 19 warrants.
-
-The person who appeared as a monk was at a meditation center in Avissawella.
-
-In 2003, 2004, a gold plated riding jewelry had a complaint with a person named Aluwiharare, a private bank. Aluwiharare.
-
-The complaint has been lodged with the relevant private bank, accordingly, has not received any information since 2008.
-
-The suspect is a person who was convicted of the Court of Court regarding 12 magistrate warrants, seven magistrate jurisdictors and four trips.
-
-It was then another group of people including the party and a group of LTTE cadres to investigate the missing suspect in 2008.
-
-Investigations have revealed that the suspect appeared as an ordained monk at Avissawella area.
-
-The suspect was present in 2008 as Maharagama Ratana Thera in 2008, since then he appeared at the meditation center.
-
-...
-
-[Data](articles/0e928bd6.json)
-
-[Extended Data](ext_articles/0e928bd6.ext.json)
 
 ---

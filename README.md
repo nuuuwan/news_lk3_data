@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 11:02:16**
+As of **2024-01-28 11:17:24**
 
 ## Newspaper Stats
 
-*Scraped **3,009** Articles*
+*Scraped **3,012** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,75 @@ islandlk | 174
 newsfirstlk | 178
 dailyftlk | 215
 adalk | 272
-adaderanasinhalalk | 299
+adaderanasinhalalk | 301
 virakesarilk | 305
 tamilmirrorlk | 379
 adaderanalk | 390
-dailymirrorlk | 408
+dailymirrorlk | 409
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,006 (99.9%) of 3,009 articles have been extended.
+3,009 (99.9%) of 3,012 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### ලොරෙන්සෝ පුතා 4 නිදහස් කර ගැනීම සඳහා සහාය ඉල්ලයි
+
+*2024-01-28 10:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192651) · `si`
+
+සෝමාලියානු මුහුදු මංකොල්ලකරුවන් විසින් පැහැරගත් 'ලොරෙන්සෝ පුතා 4' ශ්‍රී ලංකා ට්‍රෝලර් යාත්‍රාව නිදහස් කර ගැනීම සඳහා ශ්‍රී ලංකා නාවික හමුදාව, බහරේනයේ ත්‍රස්ත මර්දන කටයුතුවල නිරත ඒකාබද්ධ නාවික හමුදාවේ සහාය ඉල්ලා තිබේ.
+
+අරාබි මුහුදේ දී සෝමාලියානු මුහුදු මංකොල්ලකරුවන් විසින් මෙම යාත්‍රාව පැහැරගත් අතර, එහි කාර්‍ය මණ්ඩල සාමාජිකයන් 06 දෙනෙකු ද සිටි බව සඳහන් ය.
+
+◼️
+
+[Data](articles/3d6ef466.json)
+
+---
+
+### Increase in train derailments from 2000 to 2023
+
+*2024-01-28 10:33:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increase-in-train-derailments-from-2000-to-2023/108-275829) · `en`
+
+Colombo, Jan 28 (Daily Mirror) - There has been an increase in train derailments between 2000 to 2023, according to surveys conducted by the Railways Department.
+
+Accordingly, it has been revealed that train derailments in 2022 and 2023 have doubled compared to 2020 and 2021.
+
+There have been 98 train derailments in 2020, among which 54 have been in railway yards and another 44 on railway tracks.
+
+The number of train derailments in 2021 was 115. There have been 75 derailments on railway lines, and the remaining 40 have occurred in railway yards.
+
+By 2022, the number of train derailments had increased to 133; 94 of them have happened on railway tracks.
+
+Moreover, the department said trains had carried passengers at the time of each derailment
+
+◼️
+
+[Data](articles/22be5646.json)
+
+---
+
+### ලාංකේය ධීවරයන් 13 දෙනෙකු මාලදිවයිනේ දී අත්අඩංගුවට
+
+*2024-01-28 10:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192650) · `si`
+
+මාලදිවයින් මුහුදු ප්‍රදේශයේ නීතිවිරෝධී ලෙස ධීවර කටයුතුවල යෙදුණු ශ්‍රී ලාංකික ධීවරයන් රැගත් ධීවර බෝට්ටු 02ක් එරට වෙරළාරක්ෂක බළකාය මඟින් අත්අඩංගුවට ගෙන තිබේ.
+
+එම එක් යාත්‍රාවක සිටි ධීවරයන් හත් දෙනෙකු සහ අනෙක් යාත්‍රාවේ සිටි ධීවරයන් හය දෙනෙකු වෙරළාරක්ෂක බළකාය විසින් අත්අඩංගුවට ගෙන ඇත.
+
+මෙම යාත්‍රා දෙක දැනට 'Haa Alif Filladhoo' වරායේ නැංගුරම් ලා ඇති වෙරළාරක්ෂක බළකායට අයත් Nooraddeen නැව භාරයේ තබා ඇති බව විදෙස් මාධ්‍යය වාර්තා කරයි.
+
+මාලදිවයින් මුහුදේ ඉන්දීය සහ ශ්‍රී ලංකා ධීවර යාත්‍රා නීතිවිරෝධී ලෙස මසුන් ඇල්ලීම බහුල ව දක්නට ලැබෙන තත්ත්වයකි.
+
+◼️
+
+[Data](articles/69b2d252.json)
+
+---
 
 ### Organised crime, drug rackets will be eradicated by end of June - Minister
 
@@ -178,6 +232,8 @@ Therefore, we are unaware of the target and their demand to hijack the multi-day
 
 [Data](articles/436b3a2c.json)
 
+[Extended Data](ext_articles/436b3a2c.ext.json)
+
 ---
 
 ### Accident
@@ -299,6 +355,8 @@ The public is requested to take adequate precautions to minimize damages caused 
 ◼️
 
 [Data](articles/7bfc0a20.json)
+
+[Extended Data](ext_articles/7bfc0a20.ext.json)
 
 ---
 
@@ -1284,6 +1342,8 @@ Shritharan contested the ITAK presidential elections on a pro-LTTE platform euph
 
 [Data](articles/d857a29c.json)
 
+[Extended Data](ext_articles/d857a29c.ext.json)
+
 ---
 
 ### The Independence Day Changes Changed Days
@@ -1967,73 +2027,5 @@ Speaking to a press conference held in the Police Media Division in the Police M
 [Data](articles/027eb806.json)
 
 [Extended Data](ext_articles/027eb806.ext.json)
-
----
-
-### Did the UN for Balasatinam, then workers joined the attack with Hamas?Israel
-
-*2024-01-27 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/174911) · `ta`
-
-Australia has suspended funding for the organization following investigations into the UN employees of Palestine on the seventh of October Hamas.
-
-The Palestinian Refugees (UNA) has said that Israel has provided details that their organizations were involved in the attack on the seventh of October.
-
-Investigations have begun.
-
-The UN has not released the details of how many people in the attack against Israel and how many attackers were attacked.
-
-Australia has announced that it has suspended funding for the Palestinian Organization for Refugees, like Canada.
-
-The Australian Foreign Minister said that Australia is deeply concerned about these allegations.
-
-Australia has welcomed the suspension of certain employees.
-
-◼️
-
-[Data](articles/d39a12a4.json)
-
-[Extended Data](ext_articles/d39a12a4.ext.json)
-
----
-
-### Donald Trump ordered to pay $83.3mn for defaming writer E. Jean Carroll
-
-*2024-01-27 12:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96768/donald-trump-ordered-to-pay-833mn-for-defaming-writer-e-jean-carroll) · `en`
-
-A New York jury has decided Donald Trump should pay $83.3m (£65m) for defaming columnist E Jean Carroll in 2019 while he was US president.
-
-The penalty in the civil trial is made up of $18.3m for compensatory damages and $65m in punitive damages.
-
-Mr Trump was found in a previous civil case to have defamed Ms Carroll and sexually assaulted her in the 1990s.
-
-He vowed to appeal the latest ruling, calling the case a witch hunt and the verdict “Absolutely ridiculous!”
-
-The compensatory damages are meant to account for the harm that the jury found his comments had done to her reputation and emotional wellbeing.
-
-The panel also had to come up with a punitive penalty intended to stop Mr Trump from continuing to speak out against her.
-
-It took the jury of seven men and two women less than three hours to reach a verdict on Friday afternoon.
-
-...
-
-[Data](articles/2f3a2e07.json)
-
-[Extended Data](ext_articles/2f3a2e07.ext.json)
-
----
-
-### Husband sentenced to death
-
-*2024-01-27 12:40:16* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மனைவியை-உயிருடன்-தீ-வைத்து-எரித்த-கணவருக்கு-மரண-தண்டனை/175-332175) · `ta`
-
-A husband who was arrested for allegedly assaulting his wife and pouring kerosene oil has been sentenced to death.
-
-On January 26, 2010, he was arrested in connection with the death of his wife in a room.. Remble
-
-◼️
-
-[Data](articles/cffd5bbd.json)
-
-[Extended Data](ext_articles/cffd5bbd.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 18:19:21**
+As of **2024-01-28 18:32:38**
 
 ## Newspaper Stats
 
-*Scraped **3,086** Articles*
+*Scraped **3,091** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,48 +13,134 @@ bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 172
 islandlk | 174
-newsfirstlk | 182
+newsfirstlk | 183
 dailyftlk | 215
 adalk | 282
 adaderanasinhalalk | 312
-virakesarilk | 320
+virakesarilk | 321
 tamilmirrorlk | 389
-adaderanalk | 397
-dailymirrorlk | 423
+adaderanalk | 399
+dailymirrorlk | 424
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,080 (99.8%) of 3,086 articles have been extended.
+3,086 (99.8%) of 3,091 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
 
-### මූල්‍ය වංචාවට අත්අඩංගුවට ගත් යුවළ රිමාන්ඩ්
+### Italian Jannik Sinner beats Daniil Medvedev in the Australian Open final to win his first Grand Slam title
+
+*2024-01-28 18:06:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/italian-jannik-sinner-beats-daniil-medvedev-in-the-australian-open-final-to-win-his-first-grand-slam-title/) · `en`
+
+Colombo (News 1st) – Jannik Sinner beat Daniil Medvedev 3-6 3-6 6-4 6-4 6-3 to win the Australian Open men's singles title in Melbourne, coming back from two sets down.
+
+Italian fourth seed Sinner, 22, who knocked out 10-time champion Novak Djokovic in the semi-finals, was appearing in his first major final.
+
+Third seed Medvedev, appearing in his sixth Grand Slam final, had been seeking his second major title.
+
+Italian Jannik Sinner beats Daniil Medvedev in the Australian Open final to win his first Grand Slam title
+
+110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
+
+Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
+
+◼️
+
+[Data](articles/641d654f.json)
+
+---
+
+### Phase one of Uma Oya project completed – Minister
+
+*2024-01-28 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96798/phase-one-of-uma-oya-project-completed-minister-) · `en`
+
+Phase one of the Uma Oya project has been completed, with the first unit of the two-turbine hydro-project having been connected to the National Grid on Saturday (27 Jan.), Power and Energy Minister Kanchana Wijsekera revealed.
+
+Taking to ‘X’ (formerly Twitter), the Minister revealed that the first unit turbine of 60MW, of the 120MW Uma Oya hydro-project was completed yesterday, despite the extended delays caused due to various factors.
+
+“With the long delays due to the challenges of political protests against the project, covid pandemic & the financial crisis the project teams & officials have been able to successfully complete phase one”, the Minister said, adding that phase two of the project is expected to be completed by mid-February.
+
+◼️
+
+[Data](articles/0fff01dd.json)
+
+---
+
+### Rail freight rates to increase from February
+
+*2024-01-28 18:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rail-freight-rates-to-increase-from-February/108-275846) · `en`
+
+A gazette notification was issued today by the Transport Ministry amending the transport charges of parcels, goods, livestock etc. via train with effect from February 1.
+
+The amendments were made according to the Railways Ordinance (Chapter 200) with the concurrence of Finance Minister Bandula Gunawardana.
+
+◼️
+
+[Data](articles/b7db14da.json)
+
+---
+
+### இளைஞரைக் காணவில்லை ; தேடும் உறவினர்கள்
+
+*2024-01-28 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175012) · `ta`
+
+யாழ்ப்பாணம் இணுவிலைச் சேர்ந்த 27 வயது  இளைஞர் ஒருவரைக் காணவில்லை என அவரது உறவினர்களால் சுன்னாகம் பொலிஸ் நிலையத்தில் முறைப்பாடு செய்யப்பட்டுள்ளது.
+
+கடந்த 26 ஆம் தேதி வியாழக்கிழமை முதல் குறித்த இளைஞன் காணாமல் போனதாக அவரது உறவினர்கள் முறைப்பாடு செய்துள்ளனர்.
+
+இளைஞர் காணாமல் போன தினத்தில் மஞ்சள் நிற டீசேர்ட் மற்றும் கறுப்பு நிற அரைக்காற்சட்டை அணிந்திருந்ததாக இளைஞனின் உறவினர்கள் தெரிவிக்கின்றனர்.
+
+இவரைப் பற்றிய தகவல் அறிந்தாலோ அல்லது  இவரை எங்காவது கண்டாலோ சுன்னாகம் பொலிஸ் நிலையத்திற்கோ அல்லது  இளைஞரது உறவினர்களது தொலைபேசி இலக்கங்களான  077-2690673 அல்லது 077-6523229 அறிவிக்குமாறு  உறவினர்கள் கேட்டுக் கொண்டுள்ளனர்.
+
+◼️
+
+[Data](articles/6ed63ec3.json)
+
+---
+
+### Couple remanded for financial fraud
 
 *2024-01-28 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192663) · `si`
 
-ගලෙන්බිඳුනුවැව ප්‍රදේශයේ ජනතාවගෙන් රුපියල් කෝටි 500ක් වංචා කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් යුවළ රිමාන්ඩ් බන්ධනාගාර ගතකර තිබේ.
+The couple remanded for defraging the people of Galenbindunuwewa area.
 
-සැකකරු සහ සැකකාරිය අද (28) කහටගස්දිගිලිය වැඩබලන මහේස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කර ඇත.
+The suspect and the suspect been produced before the Kahatagasdigiliya Acting Magistrate today.
 
-එහිදී නියෝග කර ඇත්තේ ඔවුන් එළැඹෙන 5වනදා දක්වා රක්ෂිත බණ්ධනාගාරගත කිරීමටය.
+The order has been ordered to be remanded until the 5th.
 
-වැඩි පොලියක් ලබාදෙන බව පවසා ගලෙන්බිඳුනුවැව ප්‍රදේශයේ ජනතාවගෙන් රුපියල් කෝටි 500ක් වංචා කිරීම සම්බන්ධයෙන් පුද්ගලයෙකු හා ඔහුගේ අනියම් බිරිඳ නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයේ ජාලගත වංචා විමර්ශන ඒකකය මගින් අත්අඩංගුවට ගත්තේය.
+A person and his mistress of the Illegal Asset Investigation Division has been arrested by the Illegal Fraud Division in the Illegal Asset Investigation Division for defrauding a higher interest.
 
-එම පුද්ගලයා මුදල් වංචා කර ඇත්තේ ගලෙන්බිඳුනුවැව ප්‍රදේශයේ "ට්‍රෙඩ්වින් ෂෙයාර්" නම් පීරමීඩාකාර මූල්‍ය ආයතනයක් පවත්වාගෙන යමිනි.
+The man was cheated with a Phiramyadkara Financial Institution of Treadwinnuvuwewa area.
 
-මුදල් වංචා කිරීමෙන් පසු මහනුවර පිළිමතලාව ප්‍රදේශයේ සිය අනියම් බිරිඳ සමග රැඳී සිට ඇති ඔහු ජනතාවගෙන් වංචා කළ මුදලින් ඉඩකඩම්, වාහන මිලදීගෙන අධි සුඛෝපභෝගි ජීවිතයක් ගත කර ඇති බව වාර්තා වෙයි.
+It is reported that he has stayed with its mistress in Pilimatalawa, Kandy after defrauding the money.
 
-එසේම අනියම් බිරිඳගේ නමින් රුපියල් ලක්ෂ 80ක් ස්ථිර තැන්පතුවක්ද පවත්වාගෙන ගොස් තිබේ.
+800 lakhship deposit has been conducted in the name of the mistress.
 
-ඒ අනුව ඔහුගේ අනියම් බිරිඳ අත්අඩංගුවට ගැනුණේ වංචා කළ මුදල් ආයෝජනය කිරීමේ චෝදනාව මතය.
+His casual wife was arrested on charges of investing cheating.
 
 ◼️
 
 [Data](articles/e33ab4d4.json)
+
+[Extended Data](ext_articles/e33ab4d4.ext.json)
+
+---
+
+### Railway freight service charges to be increased
+
+*2024-01-28 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96797/railway-freight-service-charges-to-be-increased-) · `en`
+
+The charges for railway freight services are slated to be revised with effect from 01 February, the Sri Lanka Railways Department announced.
+
+According to the Department, charges for railway freight services will be increased, effective from the aforementioned date
+
+◼️
+
+[Data](articles/1755e041.json)
 
 ---
 
@@ -90,15 +176,17 @@ In this context, "a special program to eliminate violence against women in conju
 
 ---
 
-### දුම්රිය භාණ්ඩ ප්‍රවාහන ගාස්තු ඉහළට
+### Railway freight charge tariffs
 
 *2024-01-28 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192662) · `si`
 
-පෙබරවාරි මස 01 වනදා සිට ක්‍රියාත්මක වන පරිදි දුම්රිය භාණ්ඩ ප්‍රවාහන ගාස්තු ඉහළ දමමින් රජය විසින් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+The Government has issued a gazette notification by increasing the train services charges for effect from 1st February.
 
 ◼️
 
 [Data](articles/21e94f29.json)
+
+[Extended Data](ext_articles/21e94f29.ext.json)
 
 ---
 
@@ -136,55 +224,61 @@ Raising concerns about the increased incidents of harassment and abuse faced wom
 
 ---
 
-### ශ්‍රී ලංකාවෙන් ලැබුණු ඉලක්කය
+### Goal from Sri Lanka
 
 *2024-01-28 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192661) · `si`
 
-වයස අවුරුදු 19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඔස්ට්‍රේලියා කණ්ඩායමට එරෙහිව දැන් පැවැත්වෙන තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා 19න් පහළ කණ්ඩායම පන්දුවාර 50 අවසානයේ කඩුලු 9ක් දැවී ලකුණු 208ක් රැස්කරගත්තේය.
+The Sri Lanka Under-19 team scored 208 runs for the loss of 9 wickets at the end of 50 overs.
 
-එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ දිනුර කළුපහන හයේ පහර 3ක් සහ හතරේ පහර 6ක් සමග ලකුණු 64ක් රැස්කරගත්තේය.
+A premier innings scored 64 runs and 6 fours.
 
-Callum Vidler ලකුණු 28කට කඩුලු 3ක් දවාගත් අතර Mahli Beardman කඩුලු 2ක් දවාගත්තේය.
+Callum VIDLER took 3 wickets for 28 runs. Mahli beardman took 2 wickets.
 
 ◼️
 
 [Data](articles/34144297.json)
 
+[Extended Data](ext_articles/34144297.ext.json)
+
 ---
 
-### රාජ්‍ය අමාත්‍ය සනත් නිශාන්තගේ අවසන් කටයුතු ඇරඹෙයි
+### State Minister Sanath Nishantha's funeral begins
 
 *2024-01-28 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192660) · `si`
 
-කටුනායක අධිවේගී මාර්ගයේ සිදු වූ රිය අනතුරකින් ජීවිතක්ෂයට පත් ජල සම්පාදන රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+The funeral of Hon. Sanath Nishantha has commenced its bodies of water supply on an accident on the Katunayake Expressway.
 
-ආරච්චිකට්ටුව ප්‍රදේශයේ පිහිටි රාජ්‍ය අමාත්‍යවරයාගේ නිවසේ සිට දේහය රැගත් පෙරහැර රාජකදළුව කතෝලික සුසාන භූමිය වෙත ගමන් ආරම්භ කර තිබේ.
+Rajadhaduwa has commenced its road to the Catholic Catholic Catholic Catholic Catholic Catholic Cemetery.
 
 ◼️
 
 [Data](articles/a7d36007.json)
 
+[Extended Data](ext_articles/a7d36007.ext.json)
+
 ---
 
-### දුම්රිය හරස් මාර්ගයක් වැසෙයි
+### Railway crossing closes
 
 *2024-01-28 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192659) · `si`
 
-කැකිරාව - ගනේවල්පොළ මාර්ගයේ කැකිරාව සහ පළුගස්වැව දුම්රිය ස්ථාන අතර සැ. 118 දම්.54 දරණ ස්ථානයේ පිහිටි දුම්රිය හරස් මාර්ගයේ අලුත්වැඩියා කටයුත්තක් සිදුකිරීමට නියමිත බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+Kekirawa - Ganevipola road. The Railway Department says that the railway crossing is scheduled to be located at the 118 PM.
 
-ඒ හේතුවෙන් දින 02ක කාලයක් එම මාර්ගය හරහා වාහන ගමනාගමන කටයුතු තාවකාලිකව නවතා දැමීමට සිදුවන බවද එම දෙපාර්තමේන්තුව පැවසීය.
+He has temporarily stopped temporary by the road for two days for two days.
 
-නිවේදනයක් නිකුත් කරමින් දුම්රිය නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්. ජේ. ඉඳිපොලගේ මහතා පැවසුවේ එළඹෙන පෙබරවාරි මස 07 සහ 08 යන දිනයන්හිදී අදාළ මාර්ගය හරහා වාහන ගමනාගමනය තාවකාලිකව නවතා දැමීමට කටයුතු කරන බවය.
+Deputy General Manager of Railways. J. Venerable Mr. Yanapola said that the traffic will be temporarily stopped through the road.
 
-ඒ අනුව 07 වනදා පෙරවරු 7.00 සිට පෙරවරු 10.30 දක්වා අර්ධ වශයෙන්ද, පෙරවරු 10.30 සිට රාත්‍රී 10.30 දක්වා සම්පූර්ණ වශයෙන් වසා තබනු ඇත.
+Accordingly, on the 7:00 am to 10.30 am to 10.30 am and 10.30 am to 10.30am.
 
-එමෙන්ම 08 වනදා පෙරවරු 6.00 සිට රාත්‍රී 10.30 දක්වා අර්ධ වශයෙන්ද මාර්ගය වසා තැබෙනු ඇති බවද දුම්රිය දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Railway Department announces that the road will be closed from 6.00 am to 10.30 am.
 
-අර්ධ වශයෙන් වසා තැබෙන කාලය තුළ මෙහි වාහන ධාවනය කිරීමේදී වාහන හැසිරවීම සිදුකරන ලබන බවත් සම්පුර්ණ වශයෙන් වසා තැබෙන කාලය තුළ විකල්ල මාර්ග භාවිතා කරන ලෙසත් දුම්රිය දෙපාර්තමේන්තුව ඉල්ලීමක් කරයි.
+The Railway Department requests the handling of vehicles and use the vickula roads during the part of the partial closest period.
 
 ◼️
 
 [Data](articles/242d8a9b.json)
+
+[Extended Data](ext_articles/242d8a9b.ext.json)
 
 ---
 
@@ -590,25 +684,33 @@ He added that these obstacles are inappropriate in the context of war migration 
 
 ---
 
-### ඇල්ලේවැව ජලාශයේ ඉදිකිරීම් කඩිනම් කිරීමට උපදෙස්
+### Tips to accelerate construction of Ellawewa Reservoir
 
 *2024-01-28 13:25:34* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේවැව-ජලාශයේ-ඉදිකිරීම්-කඩිනම්-කිරීමට-උපදෙස්/11-407754) · `si`
 
-ඇඹිලිපිටිය,  ඇල්ලේවැව  ජලාශ යෝජනා ක්‍රමයේ සියළු ඉදිකිරීම් අවසන් කර ලබන වසරේ ජලය නිකුත් කිරීමට  පියවර ගන්නා බව වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ පවිත්‍රා වන්නිආරච්චි මහත්මිය ප්‍රකාශ කරයි.
+Minister of Irrigation, Wildlife and Forest Minister Pavithra Wanniarachchi said that all construction work of the Embilipitiya reservoir scheme will be completed next year will be completed next year.
 
-අමාත්‍ය වරිය මේ බව සඳහන් කළේ පසුගියදා ඇල්ලේවැව වාරි ව්‍යාපෘති පරිශ්‍රයේ නිරීක්ෂණ සංචාරයකට එක් වෙමිනි.
+The Minister made this observation on a surveillance tour of the Ellawewa irrigation premises recently.
 
-එහිදී අමාත්‍ය වරිය නිලධාරීන් ට  උපදෙස් ලබා දෙමින් කියා සිටියේ  ජලාශයේ ඉදිකිරීම්  වේගවත් කිරීම ට  පියවර ගන්නා ලෙසයි.
+The Minister instructed officials to take steps to accelerate the construction of the reservoir.
 
-ආර්ථික දුෂ්කරතාවයට පත්ව සිටින  ගොවි ජනතාව ට  නිසි කලට වේලාවට ජලය සැපයීම තුලින් ඔවුන්ගේ  වගා කටයුතු   සිදුකරගෙන යාමට  විශාල ශක්තිය ක්  වනු  ඇතිබව  ද  හෙතෙම කීවාය.
+He said that watering for the farmers who have been suffering from time to time.
 
-වලවේ ගඟේ අතු ගංගාවක්  වන එරාපෝරු ගඟේ  සිට,  කිතලබොක්ක අමුණ මගින්  ජලය   හරවා යවන කඩිගන්ආරුව ඇල හරස් කර මෙම ඇල්ලේවැව  ජලාශය නිර්මාණය  කෙරේ.
+The Elawewa Reservoir will be created by the Eraporu river, Kithabankula Amuna, from the Erotic River, the Kithalabookka anica.
 
-වාරිමාර්ග දෙපාර්තමේන්තුවේ පූර්ණ මෙහෙය වීම යටතේ 2021 වසරේ  ඉදිකිරීම් ආරම්භ  කළ ඇල්ලේ වැව  වාරි ව්‍යාපෘතිය සඳහා  ශ්‍රී ලංකා රජයේ අරමුදල් පමණක්  වැය  කරන අතර එම මුදල රුපියල් මිලියන 1532 කි.
+The Government of Sri Lanka is only Rs.
 
-...
+The main objective of the project is to maintain the continuous water supply of the Yala Mahasha for 1447 acres under Panamura and Hulandawa Oya business.
+
+The people of Ellawewa Reservoir to the people of Embilipitiya and Kolonna areas are expected to provide a sustainable solution to the project.
+
+It will also provide water for 350 acres of paddy lands.
+
+◼️
 
 [Data](articles/74b458fe.json)
+
+[Extended Data](ext_articles/74b458fe.ext.json)
 
 ---
 
@@ -867,6 +969,8 @@ The two fishing boats were seized by the MNDF's Northern Area Command Coast Guar
 According to MNDF, the two vessels are currently under the custody of the Coast Guard First Squadron's Coast Guard Ship Nooraddeen, docked at Haa Alif Filladhoo harbour. The two fishing boats will be brought to Male' City and handed over to the police.
 
 Illegal fishing by Indian and Sri Lankan fishing vessels is common in Maldivian waters.
+
+Italian Jannik Sinner beats Daniil Medvedev in the Australian Open final to win his first Grand Slam title
 
 110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
 
@@ -1291,8 +1395,6 @@ He instructed heads of institutions to actively identify vacant positions across
 The directive further discourages exceeding the pre-determined number of employees for specific positions. This measure aims to streamline government staffing and ensure appropriate resource allocation.
 
 The State Minister highlighted the current surplus of development officers as a prime example of underutilized potential within the existing workforce.
-
-110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
 
 ...
 
@@ -1955,113 +2057,5 @@ Health Minister Ramesh Pathirana said this while participating at a function in 
 [Data](articles/3634dca6.json)
 
 [Extended Data](ext_articles/3634dca6.ext.json)
-
----
-
-### Sri Lanka hopes to issue first divestment RFP within a week
-
-*2024-01-28 07:38:00* · [`economynextcom`](https://economynext.com/sri-lanka-hopes-to-issue-first-divestment-rfp-within-a-week-148879/) · `en`
-
-ECONOMYNEXT – Sri Lanka plans to issue to first request for proposal to divest government companies within a week, Director General of State Enterprises Reform Unit, Suresh Shah said.
-
-Sri Lanka has a two-stage bidding process where expressions of interest is called, and qualified investors are given request for proposal documents to make financial bids for SOEs.
-
-Lanka Hospitals, Hotel Developers and Canwill Holdings RFP issuance process is in advanced stages, Shah said.
-
-Expressions of interest for Sri Lanka Telecom has received interest from both Indian and Chinese companies, setting the stage for competition.
-
-India’s Reliance group and Gortune Holdings, a Chinese private equity group has put in bids.
-
-◼️
-
-[Data](articles/fa9a66ef.json)
-
-[Extended Data](ext_articles/fa9a66ef.ext.json)
-
----
-
-### Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
-
-*2024-01-28 07:37:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/sri-lanka-loses-communication-with-trawler-hijacked-by-somali-pirates/) · `en`
-
-COLOMBO (News 1st); The Department of Fisheries confirmed that communication with the Sri Lankan fishing vessel abducted by Somali pirates has been lost.
-
-Director General Susantha Kahawatta stated that the abducted crew, currently held on the Lorenzen 4, have not made any contact with Sri Lankan officials, and the abductors have not made any demands from the government.
-
-The vessel, which set sail from Dikovita port on January 12th, was hijacked in international waters north of Seychelles. Six Sri Lankan fishermen are believed to be on board.
-
-Despite the communication breakdown,  Kahawatta assured the that "all measures are being taken" to secure the safe return of the fishermen.
-
-110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
-
-Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
-
-◼️
-
-[Data](articles/64d82d69.json)
-
-[Extended Data](ext_articles/64d82d69.ext.json)
-
----
-
-### World Ladu Day today
-
-*2024-01-28 07:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192643) · `si`
-
-Each year, the last Sunday of January has been named as World Latience
-
-Dr. Prasad Ranaweera said the main objective of the Leprosy Campaign is the main objective of the Leprosy of the Leprosy.
-
-Specialist Dr. Prasad Ranaweera said that the number of leprosy patients reported in the country last year.
-
-Dr. Prasad Ranaweera said that a special program is scheduled to control leprosy.
-
-◼️
-
-[Data](articles/5864c3fb.json)
-
-[Extended Data](ext_articles/5864c3fb.ext.json)
-
----
-
-### Sri Lanka-India Ferry Link Set to Sail Again After 40 Years
-
-*2024-01-28 07:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/sri-lanka-india-ferry-link-set-to-sail-again-after-40-years/) · `en`
-
-COLOMBO (News 1st); Centuries-old maritime ties between Sri Lanka and India are set to be revived with the planned resumption of a passenger ferry service between the two nations.
-
-The Ministry of Ports, Shipping and Aviation confirmed that the service, operating from Kankasanthura in Sri Lanka to Nagapattinam in Tamil Nadu, India, will begin on February 15th, 2024.
-
-This marks a significant milestone after a four-decade hiatus in passenger ferry operations between the two countries.
-
-The service was previously suspended due to various internal circumstances in Sri Lanka.
-
-However, with renewed efforts and approval from the Indian government, the ferry's return opens up a new chapter in bilateral connectivity, and it will be possible to travel to India at a low cost.
-
-110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
-
-Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
-
-◼️
-
-[Data](articles/2acb85ea.json)
-
-[Extended Data](ext_articles/2acb85ea.ext.json)
-
----
-
-### Showers in several lands today
-
-*2024-01-28 07:19:21* · [`adalk`](https://www.ada.lk/breaking_news/අද-ප්‍ර-දේශ-කිහිපයකට-වැසි/11-407745) · `si`
-
-Showers will occur at times in the Eastern and Uva provinces, Polonnaruwa, Matale and Nuwara Eliya districts.
-
-The Department ofs the Western and Sabaragamuwa Districts will experience showers at several places in the Western and Sabaragamuwa Districts and around the Western and Sabaragamuwa Districts.
-
-◼️
-
-[Data](articles/2ca27d81.json)
-
-[Extended Data](ext_articles/2ca27d81.ext.json)
 
 ---

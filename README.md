@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 19:33:00**
+As of **2024-01-28 19:49:20**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 424
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,102 (99.9%) of 3,106 articles have been extended.
+3,106 (100.0%) of 3,106 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -60,6 +60,8 @@ On 10 November, the ICC suspended SLC’s membership, with immediate effect, on 
 
 [Data](articles/fc9c2b1f.json)
 
+[Extended Data](ext_articles/fc9c2b1f.ext.json)
+
 ---
 
 ### Up-country services disrupted as train details
@@ -75,6 +77,8 @@ The train had reportedly been plying back towards Colombo after completing a par
 ◼️
 
 [Data](articles/aa657b65.json)
+
+[Extended Data](ext_articles/aa657b65.ext.json)
 
 ---
 
@@ -184,6 +188,8 @@ Following the fatal collision, three injured persons, including the State Minist
 
 [Data](articles/2578a9b7.json)
 
+[Extended Data](ext_articles/2578a9b7.ext.json)
+
 ---
 
 ### Climate change activists aim soup at ‘Mona Lisa’ in Paris Louvre
@@ -205,6 +211,8 @@ The glass in front of the “Mona Lisa” was smothered in cream in a protest in
 ...
 
 [Data](articles/a8ce9768.json)
+
+[Extended Data](ext_articles/a8ce9768.ext.json)
 
 ---
 

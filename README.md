@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 09:02:21**
+As of **2024-01-28 09:17:05**
 
 ## Newspaper Stats
 
-*Scraped **2,991** Articles*
+*Scraped **2,993** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 174
 newsfirstlk | 175
 dailyftlk | 215
 adalk | 270
-adaderanasinhalalk | 295
+adaderanasinhalalk | 297
 virakesarilk | 305
 tamilmirrorlk | 377
 adaderanalk | 386
@@ -26,11 +26,29 @@ dailymirrorlk | 406
 
 Extensions include translations and NER (Named Entity Recognition).
 
-2,989 (99.9%) of 2,991 articles have been extended.
+2,993 (100.0%) of 2,993 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### Sri Lanka - Australia match today
+
+*2024-01-28 08:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192647) · `si`
+
+Sri Lanka, the first round of the Under-19 World Cup, will be held today (28).
+
+The match will be played at 01.30 pm today with the Under-19 team.
+
+Sri Lanka, who compete in the 'C' category, is second in the second place in the category, while Australia is in its first place.
+
+◼️
+
+[Data](articles/def21f05.json)
+
+[Extended Data](ext_articles/def21f05.ext.json)
+
+---
 
 ### Icon of the Seas: World’s largest cruise ship sets sail
 
@@ -47,6 +65,30 @@ The ship is built to run on liquefied natural gas (LNG), which burns more cleanl
 ...
 
 [Data](articles/f5137093.json)
+
+[Extended Data](ext_articles/f5137093.ext.json)
+
+---
+
+### World's largest ship begins his wedding journey
+
+*2024-01-28 08:07:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192646) · `si`
+
+The world's largest tourist vessel, the world's largest tourist vessel, has begun his wedding journey.
+
+The vessel from Miami, USA, has commenced journey and will take their debate in the Carbian Islands for seven days.
+
+The ship owned by Royal Carbian consists of 365 meters and 20 stories, and it can travel to 7,600 passengers.
+
+It is reported that there are five swimming pools of this ship, which is five times the size of the Titanic.
+
+However, environmentalists have a warning that the ship has been warned by an adverse methane gas.
+
+◼️
+
+[Data](articles/acd2ca2f.json)
+
+[Extended Data](ext_articles/acd2ca2f.ext.json)
 
 ---
 
@@ -99,6 +141,8 @@ The public is kindly requested to take adequate precautions to minimize damages 
 ◼️
 
 [Data](articles/d0ff7daf.json)
+
+[Extended Data](ext_articles/d0ff7daf.ext.json)
 
 ---
 
@@ -1987,49 +2031,5 @@ The accident had occurred when a lorry and three-wheeler collided with a three-w
 [Data](articles/625652f2.json)
 
 [Extended Data](ext_articles/625652f2.ext.json)
-
----
-
-### Online Safety Bill Heads for Legal Review
-
-*2024-01-27 10:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/27/online-safety-bill-heads-for-legal-review/) · `en`
-
-COLOMBO (News 1st): Following its passage in Parliament on January 24th, the controversial Online Safety Bill will undergo further legal scrutiny before being officially signed into law.
-
-Speaker Mahinda Yapa Abeywardena announced that the Attorney General's Department will investigate whether all amendments inserted during the legislative process were properly implemented as per Supreme Court directives.
-
-The Speaker assured that "every bill" undergoes such scrutiny by the Attorney General's office to ensure adherence to legal procedures and address any potential deficiencies.
-
-Additionally, a team of parliamentary officials will conduct a second review after receiving confirmation from the Attorney General. Only after these safeguards are met will the Speaker sign and finalize the bill.
-
-The bill's passage through Parliament itself was a closely contested affair.
-
-...
-
-[Data](articles/9eef587b.json)
-
-[Extended Data](ext_articles/9eef587b.ext.json)
-
----
-
-### 14 pound gold jewelery robbery
-
-*2024-01-27 10:50:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மட்டக்களப்பு/பட்டப்பகலில்-14-பவுண்-தங்க-நகைகள்-கொள்ளை/73-332171) · `ta`
-
-It has been reported that 14 pounds of gold jewelery have been robbed at a house in Akkaraipattu yesterday (26).
-
-On the day of the incident, the husband and wife, who are working in the hospital today, left her two children to the hospital.
-
-At the same time, the homeowner's sister took the two children to the workshop and then went to the house and sought the help of the neighbors that the house of the house had been broken.
-
-The owner of the house, however, confirmed that the jewelery in the house of the house had been robbed.
-
-Police, led by MHM Haseeb, in charge of the Akkaraipattu Police Station, who rushed to the scene, have launched an intensive investigation.. Remble
-
-◼️
-
-[Data](articles/34a601e5.json)
-
-[Extended Data](ext_articles/34a601e5.ext.json)
 
 ---

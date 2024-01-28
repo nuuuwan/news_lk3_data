@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 12:02:17**
+As of **2024-01-28 12:17:07**
 
 ## Newspaper Stats
 
-*Scraped **3,026** Articles*
+*Scraped **3,031** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,12 +13,12 @@ bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 172
 islandlk | 174
-newsfirstlk | 179
+newsfirstlk | 180
 dailyftlk | 215
-adalk | 273
+adalk | 274
 adaderanasinhalalk | 303
 virakesarilk | 311
-tamilmirrorlk | 381
+tamilmirrorlk | 384
 adaderanalk | 390
 dailymirrorlk | 409
 
@@ -26,11 +26,45 @@ dailymirrorlk | 409
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,026 (100.0%) of 3,026 articles have been extended.
+3,026 (99.8%) of 3,031 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### ’வீடு வாங்கினால் மனைவி இலவசம்’
+
+*2024-01-28 11:51:50* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/வீடு-வாங்கினால்-மனைவி-இலவசம்/50-332203) · `ta`
+
+இன்றைய நவீன உலகில் பொருட்களை விற்பனை செய்ய நிறுவனங்கள் பல்வேறு உத்திகளை கையாளுகின்றன. அதில் விளம்பரம் முக்கிய பங்கு வகிக்கிறது. அதாவது கவர்ச்சியான விளம்பரங்கள் மூலம் மக்களை ஈர்க்கும் முயற்சியில் நிறுவனங்கள் ஈடுபடுகின்றன.
+
+பொருளாதார நெருக்கடியில் சிக்கியுள்ள சீனாவில் ரியல் எஸ்டேட் துறை பெரும் சரிவைச் சந்தித்துள்ளது. இதனால் பல நிறுவனங்கள் விநோதமான விளம்பரங்களை வெளியிட்டு வருகின்றன.
+
+அந்தவகையில் சீனாவின் டிரையஜின் நகரில் உள்ள ஒரு ரியல் எஸ்டேட் நிறுவனமும் தனது வீடுகளை விற்பனை செய்ய வித்தியாசமாக விளம்பரம் செய்துள்ளது. ஆனால் அது மக்களின் கவனத்தை ஈர்த்தது மட்டுமின்றி அரசாங்கத்தின் கவனத்தையும் தன்பக்கம் இழுத்தது.
+
+...
+
+[Data](articles/8cfe7f9e.json)
+
+---
+
+### 2 விசேட வர்த்தமானிகளை ரத்து செய்தார் அமைச்சர்
+
+*2024-01-28 11:34:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2-விசேட-வர்த்தமானிகளை-ரத்து-செய்தார்-அமைச்சர்/175-332202) · `ta`
+
+முன்னாள் விளையாட்டுத்துறை அமைச்சர் ரொஷான் ரணசிங்கவினால் வெளியிடப்பட்ட இரண்டு விசேட வர்த்தமானிகளை தற்போதைய விளையாட்டு மற்றும் இளைஞர் விவகார அமைச்சர் ஹரின் பெர்னாண்டோ ரத்து செய்துள்ளார்.
+
+இதன்படி, 2023 ஆம் ஆண்டு ஜூலை 28 ஆம் திகதி வெளியிடப்பட்ட விசேட வர்த்தமானி இலக்கமான 2342/48 இரத்துச் செய்யப்படவுள்ளது.
+
+அத்துடன், இலங்கை கராத்தே சம்மேளனம் மற்றும் இலங்கை மோட்டார் விளையாட்டு சங்கத்தின் இடைக்கால குழுக்கள், அதிகாரங்கள், பணிகள் மற்றும் கடமைகளை கலைத்த வர்த்தமானி அறிவித்தலும் இரத்து செய்யப்பட்டுள்ளது.
+
+தேசிய விளையாட்டு சங்கங்கள் அல்லது சம்மேளனங்களின் அரசியலமைப்பின் பிரகாரம், முன்னைய தேர்தல்களில் தெரிவுசெய்யப்பட்ட அதிகாரிகள், அவர்களின் சட்டப்பூர்வ பதவிக்காலம் முடிந்து புதிய தேர்தல் நடத்தப்படும் வரையில், சபைக்கு முன்பாக நியமிக்கப்படலாம் என அமைச்சர் பெர்னாண்டோ தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a5ec4e31.json)
+
+---
 
 ### A few countries decide on Gaza
 
@@ -160,6 +194,26 @@ By 2022, the number of railway tracks increased to 133;The department said that 
 
 ---
 
+### ரயில் தடம் புரளும் சம்பவங்கள் அதிகரிப்பு
+
+*2024-01-28 11:03:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ரயில்-தடம்-புரளும்-சம்பவங்கள்-அதிகரிப்பு/175-332201) · `ta`
+
+2000 ஆம் ஆண்டு முதல் 2023 ஆம் ஆண்டு வரையிலான காலப்பகுதியில் ரயில் தடம் புரளும் சம்பவங்களில் அதிகரிப்பு ஏற்பட்டுள்ளதாக ரயில்வே திணைக்களத்தினால் மேற்கொள்ளப்பட்ட ஆய்வுகள் தெரிவிக்கின்றன.
+
+அதன்படி, 2020 மற்றும் 2021 ஆம் ஆண்டுகளுடன் ஒப்பிடுகையில் 2022 மற்றும் 2023 ஆம் ஆண்டுகளில் ரயில் தடம் புரளும் சம்பவங்கள்  இருமடங்காக அதிகரித்துள்ளது.
+
+2020 ஆம் ஆண்டில் 98 ரயில் தடம் புரண்டுள்ளது, அவற்றில் 54 ரயில்வே யார்டுகளிலும், மேலும் 44 ரயில் தண்டவாளங்களிலும் நடந்துள்ளன.
+
+2021 ஆம் ஆண்டில் ரயில் தடம் புரண்ட சம்பவங்களின் எண்ணிக்கை 115. மேலும் 75 ரயில் பாதைகளில் தடம் புரண்டது, மீதமுள்ள 40 ரயில் தண்டவாளங்களில் நடந்துள்ளது.
+
+2022ல், ரயில் தடம் பிறழ்வுகளின் எண்ணிக்கை 133 ஆக அதிகரித்துள்ளது; அவற்றில் 94 ரயில் தண்டவாளத்தில் நடந்துள்ளன என திணைக்களம் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/d223b48a.json)
+
+---
+
 ### Deposits sent to trial
 
 *2024-01-28 10:57:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எரிந்து-கொண்டிருந்த-சடலம்-விசாரணைக்கு-அனுப்பி-வைப்பு/175-332200) · `ta`
@@ -183,6 +237,28 @@ Further inquiries into the incident are being carried out by Meerigama Police St
 [Data](articles/e0d1e0b4.json)
 
 [Extended Data](ext_articles/e0d1e0b4.ext.json)
+
+---
+
+### Government Prioritizes Redeployment Over New Hiring
+
+*2024-01-28 10:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/government-prioritizes-redeployment-over-new-hiring/) · `en`
+
+COLOMBO (News 1st); In a move aimed at optimizing government workforce management, the State Minister of Provincial Councils and Local Government has instructed institutions to prioritize redeployment of redundant or extra employees over new recruitment.
+
+State Minister Janaka Wakkambura, announced this directive, emphasizing the need for efficient utilization of existing personnel within the government sector.
+
+He instructed heads of institutions to actively identify vacant positions across government entities and refer suitable redundant employees for filling those vacancies.
+
+The directive further discourages exceeding the pre-determined number of employees for specific positions. This measure aims to streamline government staffing and ensure appropriate resource allocation.
+
+The State Minister highlighted the current surplus of development officers as a prime example of underutilized potential within the existing workforce.
+
+Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
+
+◼️
+
+[Data](articles/e03cb344.json)
 
 ---
 
@@ -465,6 +541,22 @@ Therefore, we are unaware of the target and their demand to hijack the multi-day
 [Data](articles/436b3a2c.json)
 
 [Extended Data](ext_articles/436b3a2c.ext.json)
+
+---
+
+### මහ මැතිවරණයක් තිබුණොත් වැඩිහිටියන්ගෙන් සියයට 39ක් ජවිපෙට
+
+*2024-01-28 09:36:38* · [`adalk`](https://www.ada.lk/breaking_news/මහ-මැතිවරණයක්-තිබුණොත්-වැඩිහිටියන්ගෙන්-සියයට-39ක්-ජවිපෙට/11-407748) · `si`
+
+2023 වසරේ දෙසැම්බර් මස මහ මැතිවරණයක් පැවැත්වූයේ නම් වැඩිහිටියන්ගෙන් සියයට 39ක ඡන්ද ප්‍රතිශතයක් ලබමින් ජවිපෙ/ජාජවේ ඉදිරියෙන් පසුවන බව සෞඛ්‍ය ප්‍රතිපත්ති කේන්ද්‍රය නිකුත් කළ නවතම මත විමසුමක සඳහන් වෙයි.
+
+මෙම සමීක්ෂණය අනුව සමගි ජන බලවේගය සියයට 27ක් හා ශ්‍රී ලංකා පොදුජන පෙරමුණට සියයට 10ක ප්‍රතිශතකයක් පවතී.
+
+එක්සත් ජාතික පක්ෂයට සියයට 6ක් හා ශ්‍රී ලංකා නිදහස් පක්ෂයට සියයට 2ක ප්‍රතිශතකයක් පවතී.
+
+◼️
+
+[Data](articles/2e8eeaec.json)
 
 ---
 
@@ -820,8 +912,6 @@ Despite the communication breakdown,  Kahawatta assured the that "all measures 
 
 Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
-Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
-
 ◼️
 
 [Data](articles/64d82d69.json)
@@ -866,8 +956,6 @@ However, with renewed efforts and approval from the Indian government, the ferry
 
 Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
-Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
-
 ◼️
 
 [Data](articles/2acb85ea.json)
@@ -904,8 +992,6 @@ According to the Director of Expressway Maintenance and Management Unit R.A.D. K
 
 Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
 
-Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
-
 ◼️
 
 [Data](articles/d715ba13.json)
@@ -925,8 +1011,6 @@ This comes in addition to the ongoing written submission period, which ends on F
 The proposed electricity tariff revision proposal was submitted to the PUCSL by the Ceylon Electricity Board (CEB) in recent weeks.
 
 Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
-
-Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
 ◼️
 
@@ -1015,8 +1099,6 @@ The Sri Lankan Navy received information on Saturday (27) about the capture of t
 Navy Spokesperson Captain Gayan Wickramasuriya stated that based on preliminary reports, pirates intercepted the fishing vessel carrying six Sri Lankan fishermen in the Indian Ocean north of Seychelles
 
 Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
-
-Sri Lanka Loses Communication With Trawler Hijacked By Somali Pirates
 
 ◼️
 
@@ -1933,103 +2015,5 @@ The arrest was made in Pilimathalawa area by the Illegal Assets and Property Inv
 [Data](articles/05ecc232.json)
 
 [Extended Data](ext_articles/05ecc232.ext.json)
-
----
-
-### Fraudster and mistress arrested for scamming Rs. 5bn through pyramid scheme
-
-*2024-01-27 16:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96771/fraudster-and-mistress-arrested-for-scamming-rs-5bn-through-pyramid-scheme) · `en`
-
-A 39-year-old and his mistress have been arrested on suspicion of defrauding people of Rs. 5 billion through a pyramid scheme.
-
-The arrest was made in Pilimathalawa area by the Illegal Assets and Property Investigation Unit.
-
-The man had operated a pyramid-type financial institution called ‘TredWin Share’ in Galenbindunuwewa area.
-
-He had been staying with his mistress in Pilimathalawa, Kandy. According to investigating officers, the couple had been living a luxurious life by buying real estate and vehicles using the ill-gotten money.
-
-The mistress was arrested on charges of investing the money swindled from people.
-
-◼️
-
-[Data](articles/75246eef.json)
-
-[Extended Data](ext_articles/75246eef.ext.json)
-
----
-
-### Large cache of rotten fish unloaded at Colombo Port?
-
-*2024-01-27 15:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96770/large-cache-of-rotten-fish-unloaded-at-colombo-port) · `en`
-
-At a recent meeting, the Committee on Public Accounts (COPA) has heard that a ship sailing from Seychelles to Thailand had unloaded 98 containers carrying a large cache of rotten fish in Sri Lanka, claiming that the consignment was intended for organic fertilizer manufacturing.
-
-Additionally, the COPA has uncovered that the Sri Lankan agent of the said ship owns a fish cannery here and that 04 of the containers, which were unloaded from the ship, have gone missing.
-
-It is also reported that the ship had been permitted to unload the containers at the Colombo Port. However, the Import and Export Controller General Mrs.  Upulmalee Premathilaka claimed that the relevant permit was issued for fish waste.
-
-Meanwhile, the Chairman of the COPA, State Minister Lasantha Alagiyawanna assured that all government institutions related to the matter would be summoned before the committee on March 05, in order to investigate the incident further.
-
-◼️
-
-[Data](articles/b871f64e.json)
-
-[Extended Data](ext_articles/b871f64e.ext.json)
-
----
-
-### The suspect couple arrested for defrauding Rs 500 crores
-
-*2024-01-27 15:56:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192626) · `si`
-
-A couple has been arrested on suspicion of 500 rupees cash in the Phiroidi cash scheme.
-
-◼️
-
-[Data](articles/c8da0ad0.json)
-
-[Extended Data](ext_articles/c8da0ad0.ext.json)
-
----
-
-### Will the Online Bill Effective next week?
-
-*2024-01-27 15:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192625) · `si`
-
-Mr. Speaker Mahinda Yapa Abeywardena says he expects to sign a security system of online methods passed in parliament next two days.
-
-The Bill was passed in parliament on the 23rd of Parliament.
-
-However, it has not been implemented as the Speaker has not signed the Bill.
-
-Speaking further Mr. Speaker Mahinda Yapa Abeywardena said he said,
-
-"It's Monday or Tuesday. Sign up when. Not too late. "
-
-◼️
-
-[Data](articles/c56c373e.json)
-
-[Extended Data](ext_articles/c56c373e.ext.json)
-
----
-
-### Increase food prices for students
-
-*2024-01-27 15:42:30* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களுக்கான-உணவு-விலை-அதிகரிப்பு/175-332178) · `ta`
-
-The Ministry of Education has focused on increasing the current Rs.
-
-In a recent report, the Ministry of Education said in a statement that talks have been held in this regard and the representatives of the Finance Ministry have been discussed.
-
-The report also pointed out that the final decision on the matter will be taken next week.
-
-It has been reported that the resolution has been reached by the essential food items and that 100,000 school children are currently being provided with free lunch.. Remble
-
-◼️
-
-[Data](articles/a6340e6c.json)
-
-[Extended Data](ext_articles/a6340e6c.ext.json)
 
 ---

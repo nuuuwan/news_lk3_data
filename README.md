@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 15:32:39**
+As of **2024-01-28 15:50:34**
 
 ## Newspaper Stats
 
-*Scraped **3,059** Articles*
+*Scraped **3,065** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,57 @@ dailyftlk | 215
 adalk | 278
 adaderanasinhalalk | 306
 virakesarilk | 317
-tamilmirrorlk | 387
-adaderanalk | 395
-dailymirrorlk | 414
+tamilmirrorlk | 388
+adaderanalk | 396
+dailymirrorlk | 418
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,057 (99.9%) of 3,059 articles have been extended.
+3,059 (99.8%) of 3,065 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### India to assist in rescue of Sri Lanka fishermen captured by Somali pirates
+
+*2024-01-28 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96794/india-to-assist-in-rescue-of-sri-lanka-fishermen-captured-by-somali-pirates) · `en`
+
+India has pledged to assist in the rescue of six Sri Lankan fishermen captured by the Somali pirates, Sri Lanka Navy spokesman Gayan Wickremasuriya said on Sunday (28 Jan.).
+
+The multi-day fishing trawler Lorenzo Putha-4 set sail from Dikowita fishing harbour in Sri Lanka on 16 January.
+
+Wickremasuriya said the UN’s central maritime command was alerted by Sri Lanka on Saturday (27 Jan.) on the six fishermen and their trawler being captured by the Somali pirates 840 nautical miles southeast of Mogadishu, PTI reported
+
+He said India has pledged to assist Sri Lanka in the rescue of the fishermen.
+
+The pirates had allowed the Sri Lankan fishermen captured to communicate with the fisheries ministry, the state minister of fisheries Piyal Nishantha told reporters.
+
+◼️
+
+[Data](articles/ab899d94.json)
+
+---
+
+### பிரமிட்டில் ரூ.500 கோடி  மோசடி செய்தவருக்கு விளக்கமறியல்
+
+*2024-01-28 15:07:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமிட்டில்-ரூ-500-கோடி-மோசடி-செய்தவருக்கு-விளக்கமறியல்/175-332228) · `ta`
+
+‘டிரேட்வின்’ எனும் பெயரில் பிரமிட் முறைமையின் ஊடாக வர்த்தக நடவடிக்கையை முன்னெடுத்து, அதில் பணத்தை வைப்பிலிடும் வைப்பாளர்களின் பணத்தில் 500 கோடி ரூபாவை மோசடி செய்தார என்றக் குற்றஞ்சாட்டில் குற்றப் புலனாய்வுத் திணைக்களத்தின் சட்டவிரோத சொத்துக்கள் தொடர்பான விசாரணைப் பிரிவின் வலையமைப்பு விசாரணைப் பிரிவினரால் ஒருவர்  கைது செய்யப்பட்டுள்ளார்.
+
+கடந்த மூன்று வருடங்களாக தலைமறைவாக வாழ்ந்து வந்தவரே இவ்வாறு கைது செய்யப்பட்டுள்ளார். பிலிமத்தலாவை பிரதேசத்தில் மறைந்திருந்த போதே இவர் கைது செய்யப்பட்டார் என்று அந்த வலையமைப்பின் விசாரணைப் பிரிவு அறிவித்துள்ளது.
+
+சந்தேகநபர் பட்டத்தாரி ஆசிரியராக இருந்துள்ளார். அத்துடன் தென் மாகாணத்தில் உள்ள பிரதான விஹாரை ஒன்றில் பஸ்நாயக்க நிலமேயாகவும் பணியாற்றியுள்ளார் என்பதும் விசாரணைகளின் ஊடாக கண்டறியப்பட்டுள்ளது.
+
+கைது செய்யப்பட்ட தரிந்து ஈரோஸ் வீரசேகர கஹடகஸ்திகிலிய நீதவான் முன்னிலையில் ஞாயிற்றுக்கிழமை (28) ஆஜர்படுத்தப்பட்டார். அவரை   எதிர்வரும் 05 ஆம் திகதி வரை விளக்கமறியலில் வைக்குமாறு கஹடகஸ்திகிலிய பதில் நீதவான்   திமுத்து உத்தரவிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/13eb2627.json)
+
+---
 
 ### Drug traffickers behind recent incidents at Kandakadu rehab centre?
 
@@ -47,6 +85,46 @@ For this month alone, two incidents of such conflicts were reported from the Kan
 ◼️
 
 [Data](articles/950a4294.json)
+
+[Extended Data](ext_articles/950a4294.ext.json)
+
+---
+
+### Increase in cargo vessel arrivals in Colombo port due to crisis in Red Sea
+
+*2024-01-28 14:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increase-in-cargo-vessel-arrivals-in-Colombo-port-due-to-crisis-in-Red-Sea/108-275837) · `en`
+
+Colombo, Jan 28 (Daily Mirror) - The number of cargo vessels arriving at the Colombo port has increased, further increasing the container operation capacity, Ports, Shipping and Aviation Minister Nimal Siripala de Silva said.
+
+Undertaking a special inspection visit to the Container Terminal (JCT) of the Sri Lanka Ports Authority, he said the container operation capacity was increasing due to the current crisis in the Red Sea in the Middle East.
+
+Due to the war situation in the Middle East region, the shipping companies have been motivated to divert their ships to the Colombo port as a safety measure due to the terrorist threats to merchant ships sailing through the Suez Canal to the Red Sea.
+
+Therefore, berthing facilities for 24 ships have been made in the harbour today, and around 10 ships are awaiting anchorage outside the harbour.
+
+Based on this situation, the JCT and the Eastern Container Terminal (ECT) have been able to handle about 100 ships during January.
+
+...
+
+[Data](articles/79d0ad11.json)
+
+---
+
+### Special traffic plan in Galle Road from Tuesday due to Independence Day rehearsals
+
+*2024-01-28 14:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-traffic-plan-in-Galle-Road-from-Tuesday-due-to-Independence-Day-rehearsals/108-275840) · `en`
+
+Colombo, Jan 28 (Daily Mirror) - A special traffic plan will be implemented from Tuesday (30) in a section of Galle Road for the rehearsal of the upcoming 76th Independence Day ceremony, the Police Media Division said.
+
+They said the rehearsals will be held till February 3. Earlier, the rehearsals were scheduled to be held tomorrow (29).
+
+Accordingly, the stretch of Galle Road from Kollupitiya Junction to Galle Face and from Ceramic Junction to Galle Face will temporarily remain off-limits for traffic till February 4.
+
+The closure of the above stretches of road is effective from 6 a.m. to 8.30 a.m. and 11.00 a.m. to 12.30 p.m. from January 30 to February 3.
+
+◼️
+
+[Data](articles/3e5ffd8b.json)
 
 ---
 
@@ -87,6 +165,26 @@ The New Unit Trust Fund, which is approved by the Sri Lanka Exchange and the Sec
 [Data](articles/664d6845.json)
 
 [Extended Data](ext_articles/664d6845.ext.json)
+
+---
+
+### State Minister Sanath Nishantha’s funeral today
+
+*2024-01-28 13:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-Minister-Sanath-Nishanthas-funeral-today/108-275838) · `en`
+
+Colombo, Jan 28 (Daily Mirror) - The remains of State Minister of Water Supply, Sanath Nishantha, who died in a car accident on the Colombo-Katunayake expressway, will be cremated today (28) at the Roman Catholic Cemetery in Rajakadalu.
+
+His remains are placed in a temporary hall erected at his party office in the Arachchikattuwa area.
+
+From the time the remains were brought to the premises until now, a large number of politicians, friends and party members arrived to pay their last respects.
+
+Meanwhile, the last rites of the State Minister's security officer who died in the same car accident were performed yesterday (27) at the Kandy-Hadeniya-Maravanagoda Public Cemetery.
+
+Also, the mobile phone of the State Minister's driver has also been taken into police custody for investigations and Welisara Magistrate Thusitha Dhammika has ordered that he be remanded till February 5, after the Magistrate examined him. The driver is being treated at the Ragama Hospital.
+
+◼️
+
+[Data](articles/faf6c2ef.json)
 
 ---
 
@@ -193,6 +291,18 @@ The Commissioner General of Rehabilitation Heet Hettiarachchi said that the cond
 [Data](articles/da6c5321.json)
 
 [Extended Data](ext_articles/da6c5321.ext.json)
+
+---
+
+### Galle Face gearing up for 76th Independence Day
+
+*2024-01-28 13:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Galle-Face-gearing-up-for-76th-Independence-Day/110-275836) · `en`
+
+Preparations for the 76th Independence Day celebration on February 4 are underway with the construction of structures at Galle Face. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/9c6dcfb7.json)
 
 ---
 
@@ -1782,23 +1892,25 @@ As a result, vehicles traveling to Colombo have been announced to re -enter the 
 
 ---
 
-### கடற்கொள்ளையர்களால் இலங்கையின் மீன்பிடி படகு கடத்தல்
+### Sri Lankan fishing boat smuggling by pirates
 
 *2024-01-28 00:32:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்கொள்ளையர்களால்-இலங்கையின்-மீன்பிடி-படகு-கடத்தல்/175-332193) · `ta`
 
-சோமாலிய கடற்கொள்ளையர்களால் இலங்கையின் நெடுநாள் மீன்பிடி படகொன்று கடத்தப்பட்டுள்ளதாக கடற்றொழில் திணைக்களம் தெரிவித்துள்ளது.
+The Fisheries Department has said that a long -time fishing boat has been abducted by Somali pirates.
 
-அரபிக்கடலில் வைத்து  குறித்த படகு மீனவர்களுடன் கடத்தப்பட்டுள்ளதாக கடற்றொழில் திணைக்களத்தின் பேச்சாளர் ஒருவர் தெரிவித்துள்ளார் என ஊடகம் ஒன்று செய்தி வெளியிட்டுள்ளது.
+A spokesman for the Fisheries Department has said that the boat has been abducted with fishermen in the Arabian Sea, according to a media report.
 
-கடந்த 12ஆம் திகதி சிலாபம், திக்கோவிட்ட மீன்பிடி துறைமுகத்திலிருந்து புறப்பட்ட நெடுநாள் மீன்பிடி படகில் இருந்த 06 மீனவர்களையும் சோமாலிய கடற்கொள்ளையர்கள் கடத்திச் சென்றுள்ளதாக தெரிவிக்கப்படுகிறது.
+Somali pirates have reportedly abducted six fishermen from the long -awaited fishing boat from Thikovitta fishing harbor in Chilaw on the 12th.
 
-இலங்கை கடற்பரப்பில் இருந்து சுமார் 1160 கடல் மைல் தொலைவில் உள்ள கடல் பகுதியில் இந்த கடத்தல் இடம்பெற்றுள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that the smuggling took place in the sea, about 1160 nautical miles from the Sri Lankan waters.
 
-கடத்தப்பட்ட மீனவர்களை மீட்பதற்கு தேவையான நடவடிக்கைகள் மேற்கொள்ளப்பட்டு வருவதாகவும் அந்த செய்தியில் தெரிவிக்கப்பட்டுள்ளது. R
+The necessary steps are being taken to rescue the abducted fishermen. Remble
 
 ◼️
 
 [Data](articles/6f3f698f.json)
+
+[Extended Data](ext_articles/6f3f698f.ext.json)
 
 ---
 
@@ -1951,123 +2063,5 @@ When contacted, the authorities of the Colombo-Katunayake Expressway said that i
 [Data](articles/963374f0.json)
 
 [Extended Data](ext_articles/963374f0.ext.json)
-
----
-
-### ‘New Alliance’ kicks off inaugural public rally
-
-*2024-01-27 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96780/new-alliance-kicks-off-inaugural-public-rally) · `en`
-
-A new coalition named ‘New Alliance’, founded by MP Nimal Lanza, held its inaugural public rally in Ja-Ela on Saturday (Jan.27).
-
-Addressing the event, the parliamentarian vowed to form a new alliance by amalgamating the political parties with the highest number of members representing the parliament.
-
-‘New Alliance’ will back incumbent Ranil Wickremesinghe in the upcoming Presidential Election.
-
-MP Anura Priyadarshana Yapa serves as the operational leader of the coalition.
-
-The inaugural rally was joined by Ministers Nalin Fernando and Susil Premajayantha and MP Priyankara Jayaratne.
-
-◼️
-
-[Data](articles/475e65d1.json)
-
-[Extended Data](ext_articles/475e65d1.ext.json)
-
----
-
-### ‘New Alliance’ kicks off inaugural rally
-
-*2024-01-27 21:56:00* · [`adaderanalk`](https://www.adaderana.lk/news/96780/new-alliance-kicks-off-inaugural-rally) · `en`
-
-A new coalition named ‘New Alliance’, founded by MP Nimal Lanza, held its inaugural public rally in Ja-Ela on Saturday (Jan.27).
-
-Addressing the event, the parliamentarian vowed to form a new alliance by amalgamating the political parties with the highest number of members representing the parliament.
-
-‘New Alliance’ will back incumbent Ranil Wickremesinghe in the upcoming Presidential Election.
-
-MP Anura Priyadarshana Yapa serves as the operational leader of the coalition.
-
-The inaugural rally was joined by Ministers Nalin Fernando and Susil Premajayantha and MP Priyankara Jayaratne.
-
-◼️
-
-[Data](articles/4ca4fdb6.json)
-
-[Extended Data](ext_articles/4ca4fdb6.ext.json)
-
----
-
-### A lorry rolling on the Southern Expressway
-
-*2024-01-27 21:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192637) · `si`
-
-A lorry rolling on the Southern Expressway, a crash has reached.
-
-The accident occurred near the 118 kilometer post on the Southern Expressway.
-
-Vehicles traveling from Matara to Colombo has been hindered.
-
-As a result, vehicles traveling towards Colombo has been informed to be back on the Expressway through the Cocomet.
-
-◼️
-
-[Data](articles/64ad5f4e.json)
-
-[Extended Data](ext_articles/64ad5f4e.ext.json)
-
----
-
-### Lorry topples on Southern Expressway, disrupting traffic
-
-*2024-01-27 21:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96779/lorry-topples-on-southern-expressway-disrupting-traffic) · `en`
-
-Vehicular movement on the Southern Expressway towards Colombo has been disrupted by a toppled lorry, Ada Derana correspondent says.
-
-The incident took place between the Godagama and Kokmaduwa interchanges a short while ago.
-
-Accordingly, motorists heading to Colombo are urged to use the Kokmaduwa interchange until the stretch of the road is cleared and vehicular movement is restored.
-
-◼️
-
-[Data](articles/46457999.json)
-
-[Extended Data](ext_articles/46457999.ext.json)
-
----
-
-### Container truck topples on Southern Expressway, disrupting traffic
-
-*2024-01-27 21:31:00* · [`adaderanalk`](https://www.adaderana.lk/news/96779/container-truck-topples-on-southern-expressway-disrupting-traffic) · `en`
-
-Vehicular movement on the Southern Expressway towards Colombo has been disrupted by a toppled container truck, Ada Derana correspondent says.
-
-The incident took place between the Godagama and Kokmaduwa interchanges a short while ago.
-
-Accordingly, motorists heading to Colombo are urged to use the Kokmaduwa interchange until the stretch of the road is cleared and vehicular movement is restored.
-
-◼️
-
-[Data](articles/850a2cc4.json)
-
-[Extended Data](ext_articles/850a2cc4.ext.json)
-
----
-
-### Another suspect arrested for murder Beliatta
-
-*2024-01-27 21:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192636) · `si`
-
-Another suspect has been arrested in connection with the investigations into the killing of the Beliatta.
-
-The suspect has been suspected of the possession of the firearms used for the killings.
-
-He is a 30 year old and arrested in the Ratgama area in Galle.
-
-◼️
-
-[Data](articles/cfad27c5.json)
-
-[Extended Data](ext_articles/cfad27c5.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-28 18:07:07**
+As of **2024-01-28 18:19:21**
 
 ## Newspaper Stats
 
-*Scraped **3,080** Articles*
+*Scraped **3,086** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ economynextcom | 172
 islandlk | 174
 newsfirstlk | 182
 dailyftlk | 215
-adalk | 281
-adaderanasinhalalk | 307
+adalk | 282
+adaderanasinhalalk | 312
 virakesarilk | 320
 tamilmirrorlk | 389
 adaderanalk | 397
@@ -26,11 +26,37 @@ dailymirrorlk | 423
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,080 (100.0%) of 3,080 articles have been extended.
+3,080 (99.8%) of 3,086 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-28 (Sunday)
+
+### මූල්‍ය වංචාවට අත්අඩංගුවට ගත් යුවළ රිමාන්ඩ්
+
+*2024-01-28 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192663) · `si`
+
+ගලෙන්බිඳුනුවැව ප්‍රදේශයේ ජනතාවගෙන් රුපියල් කෝටි 500ක් වංචා කිරීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් යුවළ රිමාන්ඩ් බන්ධනාගාර ගතකර තිබේ.
+
+සැකකරු සහ සැකකාරිය අද (28) කහටගස්දිගිලිය වැඩබලන මහේස්ත්‍රාත්වරයා හමුවට ඉදිරිපත් කර ඇත.
+
+එහිදී නියෝග කර ඇත්තේ ඔවුන් එළැඹෙන 5වනදා දක්වා රක්ෂිත බණ්ධනාගාරගත කිරීමටය.
+
+වැඩි පොලියක් ලබාදෙන බව පවසා ගලෙන්බිඳුනුවැව ප්‍රදේශයේ ජනතාවගෙන් රුපියල් කෝටි 500ක් වංචා කිරීම සම්බන්ධයෙන් පුද්ගලයෙකු හා ඔහුගේ අනියම් බිරිඳ නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයේ ජාලගත වංචා විමර්ශන ඒකකය මගින් අත්අඩංගුවට ගත්තේය.
+
+එම පුද්ගලයා මුදල් වංචා කර ඇත්තේ ගලෙන්බිඳුනුවැව ප්‍රදේශයේ "ට්‍රෙඩ්වින් ෂෙයාර්" නම් පීරමීඩාකාර මූල්‍ය ආයතනයක් පවත්වාගෙන යමිනි.
+
+මුදල් වංචා කිරීමෙන් පසු මහනුවර පිළිමතලාව ප්‍රදේශයේ සිය අනියම් බිරිඳ සමග රැඳී සිට ඇති ඔහු ජනතාවගෙන් වංචා කළ මුදලින් ඉඩකඩම්, වාහන මිලදීගෙන අධි සුඛෝපභෝගි ජීවිතයක් ගත කර ඇති බව වාර්තා වෙයි.
+
+එසේම අනියම් බිරිඳගේ නමින් රුපියල් ලක්ෂ 80ක් ස්ථිර තැන්පතුවක්ද පවත්වාගෙන ගොස් තිබේ.
+
+ඒ අනුව ඔහුගේ අනියම් බිරිඳ අත්අඩංගුවට ගැනුණේ වංචා කළ මුදල් ආයෝජනය කිරීමේ චෝදනාව මතය.
+
+◼️
+
+[Data](articles/e33ab4d4.json)
+
+---
 
 ### Guatemala: People's welfare?Thank you?
 
@@ -61,6 +87,18 @@ In this context, "a special program to eliminate violence against women in conju
 [Data](articles/76149082.json)
 
 [Extended Data](ext_articles/76149082.ext.json)
+
+---
+
+### දුම්රිය භාණ්ඩ ප්‍රවාහන ගාස්තු ඉහළට
+
+*2024-01-28 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192662) · `si`
+
+පෙබරවාරි මස 01 වනදා සිට ක්‍රියාත්මක වන පරිදි දුම්රිය භාණ්ඩ ප්‍රවාහන ගාස්තු ඉහළ දමමින් රජය විසින් ගැසට් නිවේදනයක් නිකුත් කර තිබේ.
+
+◼️
+
+[Data](articles/21e94f29.json)
 
 ---
 
@@ -95,6 +133,58 @@ Raising concerns about the increased incidents of harassment and abuse faced wom
 [Data](articles/048f2787.json)
 
 [Extended Data](ext_articles/048f2787.ext.json)
+
+---
+
+### ශ්‍රී ලංකාවෙන් ලැබුණු ඉලක්කය
+
+*2024-01-28 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192661) · `si`
+
+වයස අවුරුදු 19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ ඔස්ට්‍රේලියා කණ්ඩායමට එරෙහිව දැන් පැවැත්වෙන තරගයේ ප්‍රථමයෙන් පන්දුවට පහරදුන් ශ්‍රී ලංකා 19න් පහළ කණ්ඩායම පන්දුවාර 50 අවසානයේ කඩුලු 9ක් දැවී ලකුණු 208ක් රැස්කරගත්තේය.
+
+එහිදී අගනා ඉනිමක් ක්‍රීඩා කළ දිනුර කළුපහන හයේ පහර 3ක් සහ හතරේ පහර 6ක් සමග ලකුණු 64ක් රැස්කරගත්තේය.
+
+Callum Vidler ලකුණු 28කට කඩුලු 3ක් දවාගත් අතර Mahli Beardman කඩුලු 2ක් දවාගත්තේය.
+
+◼️
+
+[Data](articles/34144297.json)
+
+---
+
+### රාජ්‍ය අමාත්‍ය සනත් නිශාන්තගේ අවසන් කටයුතු ඇරඹෙයි
+
+*2024-01-28 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192660) · `si`
+
+කටුනායක අධිවේගී මාර්ගයේ සිදු වූ රිය අනතුරකින් ජීවිතක්ෂයට පත් ජල සම්පාදන රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ දේහය පිළිබඳ අවසන් කටයුතු මේ වනවිට ආරම්භ වී තිබේ.
+
+ආරච්චිකට්ටුව ප්‍රදේශයේ පිහිටි රාජ්‍ය අමාත්‍යවරයාගේ නිවසේ සිට දේහය රැගත් පෙරහැර රාජකදළුව කතෝලික සුසාන භූමිය වෙත ගමන් ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/a7d36007.json)
+
+---
+
+### දුම්රිය හරස් මාර්ගයක් වැසෙයි
+
+*2024-01-28 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192659) · `si`
+
+කැකිරාව - ගනේවල්පොළ මාර්ගයේ කැකිරාව සහ පළුගස්වැව දුම්රිය ස්ථාන අතර සැ. 118 දම්.54 දරණ ස්ථානයේ පිහිටි දුම්රිය හරස් මාර්ගයේ අලුත්වැඩියා කටයුත්තක් සිදුකිරීමට නියමිත බව දුම්රිය දෙපාර්තමේන්තුව පවසයි.
+
+ඒ හේතුවෙන් දින 02ක කාලයක් එම මාර්ගය හරහා වාහන ගමනාගමන කටයුතු තාවකාලිකව නවතා දැමීමට සිදුවන බවද එම දෙපාර්තමේන්තුව පැවසීය.
+
+නිවේදනයක් නිකුත් කරමින් දුම්රිය නියෝජ්‍ය සාමාන්‍යාධිකාරී එන්. ජේ. ඉඳිපොලගේ මහතා පැවසුවේ එළඹෙන පෙබරවාරි මස 07 සහ 08 යන දිනයන්හිදී අදාළ මාර්ගය හරහා වාහන ගමනාගමනය තාවකාලිකව නවතා දැමීමට කටයුතු කරන බවය.
+
+ඒ අනුව 07 වනදා පෙරවරු 7.00 සිට පෙරවරු 10.30 දක්වා අර්ධ වශයෙන්ද, පෙරවරු 10.30 සිට රාත්‍රී 10.30 දක්වා සම්පූර්ණ වශයෙන් වසා තබනු ඇත.
+
+එමෙන්ම 08 වනදා පෙරවරු 6.00 සිට රාත්‍රී 10.30 දක්වා අර්ධ වශයෙන්ද මාර්ගය වසා තැබෙනු ඇති බවද දුම්රිය දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+අර්ධ වශයෙන් වසා තැබෙන කාලය තුළ මෙහි වාහන ධාවනය කිරීමේදී වාහන හැසිරවීම සිදුකරන ලබන බවත් සම්පුර්ණ වශයෙන් වසා තැබෙන කාලය තුළ විකල්ල මාර්ග භාවිතා කරන ලෙසත් දුම්රිය දෙපාර්තමේන්තුව ඉල්ලීමක් කරයි.
+
+◼️
+
+[Data](articles/242d8a9b.json)
 
 ---
 
@@ -497,6 +587,28 @@ He added that these obstacles are inappropriate in the context of war migration 
 [Data](articles/3615bad7.json)
 
 [Extended Data](ext_articles/3615bad7.ext.json)
+
+---
+
+### ඇල්ලේවැව ජලාශයේ ඉදිකිරීම් කඩිනම් කිරීමට උපදෙස්
+
+*2024-01-28 13:25:34* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේවැව-ජලාශයේ-ඉදිකිරීම්-කඩිනම්-කිරීමට-උපදෙස්/11-407754) · `si`
+
+ඇඹිලිපිටිය,  ඇල්ලේවැව  ජලාශ යෝජනා ක්‍රමයේ සියළු ඉදිකිරීම් අවසන් කර ලබන වසරේ ජලය නිකුත් කිරීමට  පියවර ගන්නා බව වාරිමාර්ග, වනජීවි සහ වන සංරක්ෂණ අමාත්‍ය නීතිඥ පවිත්‍රා වන්නිආරච්චි මහත්මිය ප්‍රකාශ කරයි.
+
+අමාත්‍ය වරිය මේ බව සඳහන් කළේ පසුගියදා ඇල්ලේවැව වාරි ව්‍යාපෘති පරිශ්‍රයේ නිරීක්ෂණ සංචාරයකට එක් වෙමිනි.
+
+එහිදී අමාත්‍ය වරිය නිලධාරීන් ට  උපදෙස් ලබා දෙමින් කියා සිටියේ  ජලාශයේ ඉදිකිරීම්  වේගවත් කිරීම ට  පියවර ගන්නා ලෙසයි.
+
+ආර්ථික දුෂ්කරතාවයට පත්ව සිටින  ගොවි ජනතාව ට  නිසි කලට වේලාවට ජලය සැපයීම තුලින් ඔවුන්ගේ  වගා කටයුතු   සිදුකරගෙන යාමට  විශාල ශක්තිය ක්  වනු  ඇතිබව  ද  හෙතෙම කීවාය.
+
+වලවේ ගඟේ අතු ගංගාවක්  වන එරාපෝරු ගඟේ  සිට,  කිතලබොක්ක අමුණ මගින්  ජලය   හරවා යවන කඩිගන්ආරුව ඇල හරස් කර මෙම ඇල්ලේවැව  ජලාශය නිර්මාණය  කෙරේ.
+
+වාරිමාර්ග දෙපාර්තමේන්තුවේ පූර්ණ මෙහෙය වීම යටතේ 2021 වසරේ  ඉදිකිරීම් ආරම්භ  කළ ඇල්ලේ වැව  වාරි ව්‍යාපෘතිය සඳහා  ශ්‍රී ලංකා රජයේ අරමුදල් පමණක්  වැය  කරන අතර එම මුදල රුපියල් මිලියන 1532 කි.
+
+...
+
+[Data](articles/74b458fe.json)
 
 ---
 
@@ -1951,139 +2063,5 @@ The Department ofs the Western and Sabaragamuwa Districts will experience shower
 [Data](articles/2ca27d81.json)
 
 [Extended Data](ext_articles/2ca27d81.ext.json)
-
----
-
-### Overturned Lorry Creates Bottleneck on Expressway
-
-*2024-01-28 07:19:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/overturned-lorry-creates-bottleneck-on-expressway/) · `en`
-
-COLOMBO (News 1st): Traffic on the Southern Expressway between Kokmaduwa and Godagama is currently restricted to one lane due to a lorry overturning last night.
-
-Traffic is currently restricted to one lane, with vehicles travelling in both directions using the same lane.
-
-According to the Director of Expressway Maintenance and Management Unit R.A.D. Kahatapitiya, crews are working to remove the overturned lorry and restore full access to the expressway as soon as possible.
-
-110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
-
-Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
-
-◼️
-
-[Data](articles/d715ba13.json)
-
-[Extended Data](ext_articles/d715ba13.ext.json)
-
----
-
-### PUCSL Seeks Public Input on Electricity Cost Adjustments
-
-*2024-01-28 07:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/pucsl-seeks-public-input-on-electricity-cost-adjustments/) · `en`
-
-COLOMBO (News 1st); The Public Utilities Commission (PUCSL) announced hat the public will have the opportunity to provide verbal feedback on the proposed electricity tariff revisions from February 15th onwards.
-
-This comes in addition to the ongoing written submission period, which ends on February 12th.
-
-The proposed electricity tariff revision proposal was submitted to the PUCSL by the Ceylon Electricity Board (CEB) in recent weeks.
-
-110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
-
-Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
-
-◼️
-
-[Data](articles/57fcd1da.json)
-
-[Extended Data](ext_articles/57fcd1da.ext.json)
-
----
-
-### Tiran says that before the end of June
-
-*2024-01-28 07:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192642) · `si`
-
-The Government Defense Minister Tiran Alles says that before the end of June, all Sri Lanka's underworld teams and drug delivery networks will be removed.
-
-The Minister pointed out that justice is not stopped.
-
-Addressing a function in Negombo, Mr. Tiran Alles expressed these views.
-
-Acting IGP Deshabandu Tennakoon stated that the price of drugs has increased in the country.
-
-Acting IGP Deshanayake Tennakoon stated that the acting of drug traffickers will be carried out soon.
-
-◼️
-
-[Data](articles/68fdac4b.json)
-
-[Extended Data](ext_articles/68fdac4b.ext.json)
-
----
-
-### Sri Lanka 120MW Uma Oya hydro plant to start on Feb 15
-
-*2024-01-28 07:01:00* · [`economynextcom`](https://economynext.com/sri-lanka-120mw-uma-oya-hydro-plant-to-start-on-feb-15-148877/) · `en`
-
-ECONOMYNEXT- Sri Lanka plans to connect a 120 Mega Watt hydro power plant in Uma Oya (Uma River) to the national grid on February 15 State Minister for Irrigation, Shasheendra Rajapaksa said.
-
-“We finished this project in September last year,” Minister Rajapaksha told reporters at the President’s media centre.
-
-“We didn’t have trouble with the first turbine, we had trouble with the second.”
-
-The Uma Oya dam and tunnels were supposed to be completed in 2018 but due to various shortcomings it was delayed by 5 years, he said.
-
-◼️
-
-[Data](articles/d3937e7c.json)
-
-[Extended Data](ext_articles/d3937e7c.ext.json)
-
----
-
-### Last activities of Sanath Nishantha today
-
-*2024-01-28 06:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192641) · `si`
-
-The funeral of Hon. Sanath Nishantha's body is due to take place in an accident on the Katunayake Expressway today (28).
-
-The funeral council will commence at 01 pm at the Arachchikattuwa home.
-
-The remains of the State Minister have been placed at a temporary hall near the house of the Arachchikattuwa and the last respects to the remains of the Arachchikattuwa.
-
-The remains were taken to the Catholic Catholic Catholic Catholic Catholic Catholic Catholic Cathoikkoon.
-
-State Minister and his security guard were killed in the accident that the State Minister was traveling in the Colombo-Katunayake Expressway on the 25th of the Colombo-Katunayake Expressway.
-
-The Ada Derana reporter stated that a large number of supporters, including religious leaders and politicians were present at the last respector of the State Minister.
-
-The funeral of the defense officer who died in the accident was held last afternoon at the Kandy Headdeniya Commonwealth.
-
-◼️
-
-[Data](articles/2d4a95d4.json)
-
-[Extended Data](ext_articles/2d4a95d4.ext.json)
-
----
-
-### Somali Pirates Target Sri Lankan Vessel North of Seychelles
-
-*2024-01-28 06:37:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/somali-pirates-target-sri-lankan-vessel-north-of-seychelles/) · `en`
-
-COLOMBO (News 1st); Sri Lankan authorities confirmed that a group of six fishermen have been abducted by Somali pirates in international waters north of Seychelles.
-
-The Sri Lankan Navy received information on Saturday (27) about the capture of the fishing vessel, which had set sail from Dikowita port recently.
-
-Navy Spokesperson Captain Gayan Wickramasuriya stated that based on preliminary reports, pirates intercepted the fishing vessel carrying six Sri Lankan fishermen in the Indian Ocean north of Seychelles
-
-110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
-
-Sri Lanka Asks Combined Maritime Forces To Probe Hijacked Boat
-
-◼️
-
-[Data](articles/d7d6eef8.json)
-
-[Extended Data](ext_articles/d7d6eef8.ext.json)
 
 ---

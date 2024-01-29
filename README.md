@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 18:51:19**
+As of **2024-01-29 19:02:20**
 
 ## Newspaper Stats
 
-*Scraped **3,325** Articles*
+*Scraped **3,326** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ economynextcom | 177
 islandlk | 185
 newsfirstlk | 203
 dailyftlk | 223
-adalk | 306
+adalk | 307
 adaderanasinhalalk | 353
 virakesarilk | 362
 tamilmirrorlk | 415
@@ -26,11 +26,41 @@ dailymirrorlk | 452
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,325 (100.0%) of 3,325 articles have been extended.
+3,326 (100.0%) of 3,326 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### Lorenzo son saves from Somali pirates
+
+*2024-01-29 18:07:24* · [`adalk`](https://www.ada.lk/breaking_news/ලොරෙන්සෝ-පුතා-සෝමාලියානු-මුහුදු-කොල්ලකරුවන්ගෙන්-බේරා-ගනියි/11-407781) · `si`
+
+The Sri Lanka Tsunnena, who was abducted by a group of Somali pirates, saved the morning of Seychelles and Air Forms of SLAF Tigers.
+
+The polymer boat, which belongs to a business vessel in Talwila, is rescued.
+
+The vessel had been abducted by Somali pirates on the 27th evening while he left the Dickowita Port and fishing in the Arabian Sea.
+
+The abducted Thandudulent vessel was also employed in a six-member work tradition including Skipper.
+
+The External Affairs Ministry and the Sri Lanka Navy have requested international support to save the vessel.
+
+Accordingly, the Navy Headquarters and the Ministry of External Affairs had launched a special operation to rescue the vessel abducted by the Somali pirates.
+
+The special operation was launched by air and sea, and two sales navigation and two helicopters were used.
+
+Navy spokesman Gayan Wickremasuriya said:
+
+"The Fisheries Departer briefed the Sri Lankan Navy that Somali pirates were abducted while working on the Arabian Sea.
+
+...
+
+[Data](articles/7a50157b.json)
+
+[Extended Data](ext_articles/7a50157b.ext.json)
+
+---
 
 ### Online Safety Bill will give rise to a fully local social media platform: Hirunika
 
@@ -2035,27 +2065,5 @@ The cause of the fire has not been uncovered yet and the Mawanella Police are co
 [Data](articles/2e30cd85.json)
 
 [Extended Data](ext_articles/2e30cd85.ext.json)
-
----
-
-### Carrot price up again
-
-*2024-01-29 10:08:01* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-මිල-ආයෙත්-ඉහළට/11-407770) · `si`
-
-Keppetipola, a specialized economic center, claimed that the stock of vegetables last week has increased in some extent last week.
-
-The stock of carrots of Keppetipola, which is the main economic center distributed throughout the country, has been increased from a kilogram of Rs. Rs.The vegetables have increased by Rs.
-
-The prices of vegetables have dropped to more economic centers last week due to the sale of paddy fields in Welimada, Keppetipola, Boralanda and Uva Paranagama.Sales are said.
-
-Keppetipola Specified Stock Price
-
-1400 - 1500, 1500, Beans 800 - 900, Leules 450 - 500 - 550 - 550-500, 20 - 500 - 550 - 550-500, fish chillies 700- 800, eggplant 500 - 500-600, 550 - 600, Leaf beets 550 - 600
-
-◼️
-
-[Data](articles/c248b7c3.json)
-
-[Extended Data](ext_articles/c248b7c3.ext.json)
 
 ---

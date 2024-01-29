@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 19:49:53**
+As of **2024-01-29 20:02:18**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 454
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,336 (100.0%) of 3,337 articles have been extended.
+3,337 (100.0%) of 3,337 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,8 @@ Ukraine says there was no risk of genocide in eastern Ukraine, where it had been
 ...
 
 [Data](articles/63d35004.json)
+
+[Extended Data](ext_articles/63d35004.ext.json)
 
 ---
 

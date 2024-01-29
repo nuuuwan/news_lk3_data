@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 22:17:02**
+As of **2024-01-29 22:33:06**
 
 ## Newspaper Stats
 
-*Scraped **3,353** Articles*
+*Scraped **3,359** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 203
 dailyftlk | 223
 adalk | 312
 adaderanasinhalalk | 357
-virakesarilk | 362
+virakesarilk | 368
 tamilmirrorlk | 422
 adaderanalk | 432
 dailymirrorlk | 456
@@ -26,31 +26,33 @@ dailymirrorlk | 456
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,352 (100.0%) of 3,353 articles have been extended.
+3,353 (99.8%) of 3,359 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### විශ්ව බුද්ධ සහ රොෂාන් මේනක එක්කෙනෙක් - අලුත්ම කතාව මෙන්න
+### Universal Buddha and Roshan is one of the latest story
 
 *2024-01-29 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192711) · `si`
 
-විශ්ව බුද්ධ නමින් තමන්ව හඳුන්වාගන්නා තැනැත්තා පිළිබඳව තවත් තොරතුරු රැසක් අද අධිකරණයේදී අනාවරණය වී තිබේ.
+There are many more information about the person who lists the universal Buddha today (UNP) in court today.
 
-එහිදී හෙළිවී ඇත්තේ 2022 ජනවාරි මාසයේ සිට 2023 දෙසැම්බර් දක්වා කාලය තුළ ඔහුගේ ගිණුමට රුපියල් ලක්ෂ 25කට ආසන්න මුදලක් තැන්පත් වී ඇති බවය.
+It was revealed that nearly Rs. 25 million has been deposited to his account from December 2023 to December 2023.
 
-එහෙත් "විශ්ව බුද්ධ" සම්බන්ධයෙන් විමර්ශන ආරම්භවීමට ආසන්න කාලයේ එම මුදල් සියල්ල ආපසු ලබාගෙන ඇති බවද හෙළිවී තිබේ.
+However, it has been revealed that all the money had been returned to the commencement of the investigation into the "universal Buddha".
 
-මේ අතර භික්ෂුභාවය මේ වනවිට අහෝසි කර ඇති බැවින් ඔහු තවදුරටත් භික්ෂුවක් ලෙස නොසැලකිය යුතු බව ශ්‍රී ලංකා රාමඤ්ඤ නිකාය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණය වෙත අද දැනුම්දී තිබේ.
+Meanwhile, the Sri Lanka Ramanya Seikaya has notified the Colombo Chief Magistrate's Court today that the monks have been abolished.
 
-සමාජ මාධ්‍ය ඔස්සේ බුදු දහමට අපහාසවන ආකාරයේ ප්‍රකාශ සිදුකළ බවට චෝදනා එල්ල වී සිටින විශ්ව බුද්ධ නමින් තමන්ව හඳුන්වාගන්නා රෝෂාන් මේනක රණසිංහ නැමැති තැනැත්තා සම්බන්ධයෙන් වූ නීති කෘත්‍යය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණයේදී අද යළි කැඳවනු ලැබීය.
+Roshan Menaman Ranasinghe, who is accused of the universal Buddha of Buddha, have been recalled today in the Colombo Chief Magistrate's Court today.
 
-එහිදි සැකකරු ඇප මත මුදාහැර සිටියදී ඇප කොන්දේසි කඩ කිරීම සම්බන්ධයෙන් ජ්‍යේෂ්ඨ නියෝජ්‍ය සොලිසිටර් ජනරාල් දිලීප පිරිස් මහතා අධිකරණයට ඉදිරිපත් කළා.
+Senior Deputy Deputy Solicitor General Dili Development was produced before the court when the suspect was released on bail.
 
 ...
 
 [Data](articles/3842b1a2.json)
+
+[Extended Data](ext_articles/3842b1a2.ext.json)
 
 ---
 
@@ -108,6 +110,22 @@ The Minister of Agriculture and Plantation Industry, Mr. Mahinda Amaraweera ment
 
 ---
 
+### சாந்தனின் தாயாரின் கடிதத்தை மேற்கோள்காட்டி தமிழக முதல்வருக்கு சிறீதரன் கடிதம் - சாந்தன் உள்ளிட்ட நால்வரையும் இலங்கைக்குஅனுப்பிவைக்க ஆவண செய்யவேண்டுகோள்
+
+*2024-01-29 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175107) · `ta`
+
+ராஜீவ் காந்தி கொலை வழக்கில் கைதுசெய்யப்பட்டு விடுதலை செய்யப்பட்டுள்ள இலங்கை தமிழர்களை விடுவிக்குமாறு தமிழக முதல்வர் மு.க.ஸ்டாலினுக்கு, சாந்தனின் தாயாரின் கோரிக்கைக் கடிதத்தை மேற்கோள்காட்டி நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன்  கடிதம் ஒன்றை அனுப்பிவைத்துள்ளார்.
+
+மறைந்த பாரதப்பிரதமர் ராஜீவ்காந்தி கொலை வழக்கில் கைதுசெய்யப்பட்டு 32 வருடங்கள் சிறைத்தண்டனையின் பின்னர் கடந்த 2022-11-11 அன்று இந்திய உச்சநீதிமன்றத்தால் விடுதலை செய்யப்பட்ட சாந்தன் அவர்களின் தாயாரால் எனக்கு சமர்ப்பிக்கப்பட்டுள்ள உருக்கம் நிறைந்த கோரிக்கை கடிதம் மீதான தங்களின் கரிசனையையும் கவனத்தையும் கோரிநிற்கின்றேன்.
+
+32 வருடகால சிறைத்தண்டனையின் பின்னர் நீதிமன்றத்தினால் விடுதலை செய்யப்பட்டு ஒருவருடம் கடந்துள்ள நிலையில்  அவ்வழக்கிலிருந்து விடுதலையான இலங்கை பிரஜைகளான சாந்தன் முருகன் ரொபேர்ட் பயஸ் ஜெயக்குமார் ஆகிய நால்வரையும் இலங்கைக்கு வரவழைப்பதற்கு மேற்கொள்ளப்பட்ட எந்த முயற்சிகளும் பலனளிக்காததால் இன்றுவரை அவர்கள் திருச்சி சிறப்புமுகாமில் தடுத்துவைக்கப்பட்டுள்ளனர் என்பதை கரிசனையோடு தெரிவித்துக்கொள்ளவிரும்புகின்றேன்.
+
+...
+
+[Data](articles/0e68086d.json)
+
+---
+
 ### Body of a soldier found in a pond of a pond
 
 *2024-01-29 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192710) · `si`
@@ -123,6 +141,26 @@ Horana Magistrate made the magisterial inquiry into the incident today (29).
 [Data](articles/7c46b083.json)
 
 [Extended Data](ext_articles/7c46b083.ext.json)
+
+---
+
+### ஐக்கிய மக்கள் சக்தியுடன் கைகோர்த்தார் ஜெனரல் தயா ரத்நாயக்க
+
+*2024-01-29 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175097) · `ta`
+
+யுத்தத்தை தோற்கடிப்பதற்கான மனிதாபிமான பணியை வழிநடத்திய, இலங்கை இராணுவத்தின் 20 ஆவது தளபதியான லெப்டினன் ஜெனரல் தயா ரத்நாயக்க திங்கட்கிழமை (29) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவைச் சந்தித்து ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டார்.
+
+இதனையடுத்து ஐக்கிய மக்கள் சக்தியின் பொதுக் கொள்கைகள் தொடர்பான சிரேஷ்ட ஆலோசகராக ஜெனரல் தயா ரத்நாயக்கவை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று நியமித்தார்.
+
+குருநாகல் மலியதேவ கல்லூரியின் பழைய மாணவரான இவர் 35 வருடங்களுக்கும் மேலாக (1980-2015) இலங்கை இலேசாயுத காலாட் படையணிக்கு தலைமை தாங்கி செயற்பட்டார்.
+
+இலங்கை துறைமுக அதிகார சபையின் தலைவராகவும், கோட்டாபய ராஜபக்ச ஜனாதிபதியின் அரசாங்கத்தில் கைத்தொழில் அமைச்சின் செயலாளராகவும் பணியாற்றியுள்ளார்.
+
+1980 இல் கடெற் பிரிவில் பங்காற்றி தனது இராணுவ வாழ்க்கையைத் தொடங்கிய அவர்,இலங்கை இராணுவ அகாடமியில் தனது அடிப்படைப் பயிற்சியை முடித்த பின்னர் 1981 இல் இலங்கை காலாட்படையின் இரண்டாவது லெப்டினன்டாக நியமிக்கப்பட்டார்.
+
+...
+
+[Data](articles/476f3a08.json)
 
 ---
 
@@ -147,6 +185,80 @@ We will charge a real estate tax in 2025. It's a very progressive step. Hope to 
 [Data](articles/024faa59.json)
 
 [Extended Data](ext_articles/024faa59.ext.json)
+
+---
+
+### இந்திய புலமைப்பரிசில் திட்டத்தில் மருத்துவம், சட்ட கற்கை நெறிகள் உள்ளடக்கப்படவில்லை
+
+*2024-01-29 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175100) · `ta`
+
+கொழும்பிலுள்ள இந்திய உயர் ஸ்தானிகராலயம், இலங்கைப் பிரஜைகளுக்கான முழு நிதியுதவியுடன் கூடிய சுமார் 200 புலமைப்பரிசில்களுக்கான விண்ணப்பங்களைக் கோரியுள்ளது. கடந்த வாரம் இது தொடர்பான அறிவித்தல் வெளியிடப்பட்டிருந்தது.
+
+எனினும் குறித்த புலமைப்பரிசில் திட்டங்களில் மருத்துவம், சட்டத்துறை, துணை மருத்துவம் (Paramedical), ஆடை வடிவமைப்பு (Fashion Design) ஆகிய கற்கை நெறிகள் உள்ளடக்கப்படவில்லை என அறிவிக்கப்பட்டுள்ளது.
+
+இந்திய கல்வி நிறுவனங்கள் மற்றும் பல்கலைக்கழகங்களில் பட்டப்படிப்பினைத் தொடர்வதற்காக இந்த புலமைப்பரிசில் வழங்கப்படவுள்ளது.
+
+அதற்கமைய 2024 - 2025 காலப்பகுதியில் பொறியியல், அறிவியல், வணிகம், பொருளாதாரம், வர்த்தகம், மனிதநேயம் மற்றும் கலை போன்ற பாடநெறிகளுக்கு நேரு நினைவு உதவித்தொகை திட்டத்தின் மூலமும், பொறியியல், அறிவியல் மற்றும் வேளாண்மைக்கு முன்னுரிமை அளிக்கும் முதுகலை பட்டப் படிப்புகளுக்கு மௌலானா ஆசாத் திட்டத்தின் ஊடாகவும் புலமைப்பரிசில் வழங்கப்படவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/2ddbed89.json)
+
+---
+
+### 'சுதந்திர தினம்' வடக்கு, கிழக்கில் கறுப்பு நாளாக பிரகடனம்
+
+*2024-01-29 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175101) · `ta`
+
+பிரித்தானியப் பேரரசின் காலனித்துவ நாடாக 133 வருடங்கள் இருந்த இலங்கையின் 76ஆவது சுதந்திர தினம் வடக்கு கிழக்கு மாகாணங்கள் முழுவதும் 'கறுப்பு தினம்'ஆக பிரகடனப்படுத்தப்பட்டுள்ளது.
+
+பெப்ரவரி 4 ஆம் திகதி கறுப்பு நாளாக பிரகடனப்படுத்தப்படுவதாக வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள் சங்கம் மற்றும் யாழ்ப்பாண பல்கலைக்கழக மாணவர் ஒன்றியம் ஆகியன அறிவித்துள்ளன.
+
+தமிழ் மக்களுக்கான நிரந்தர அரசியல் தீர்வுக்கான முன்னேற்றகரமான வேலைத்திட்டங்கள் எதுவும் முன்னெடுக்கப்படவில்லை என யாழ்ப்பாணப் பல்கலைக்கழக மாணவர் ஒன்றியத் தலைவர் கு.துவாகரன் குறிப்பிட்டுள்ளார்.
+
+"தமிழ் மக்களுக்கான உரிமைகள் மீறப்படுகின்றன. இருப்பு கேள்விக்குரியாகியுள்ளது. அச்சுறுத்தல்கள் தொடர்கின்றன. ஆட்சிகளும், ஆட்சியாளர்களும் மாறுகின்றார்கள். எனினும் தமிழ் மக்களுக்கான நிரந்தர அரசியல் தீர்வு என்பது இன்றுவரை முன்னேற்றகரமான வேலைத்திட்டங்களும் முன்னெடுக்கப்படவில்லை. அது வெறும் பேசுப்பொருளாக மாத்திரமே இருக்கின்றது. பெப்ரவரி ஆகவே வடக்கு, கிழக்கு தழுவிய கரிநாளாக பிரகடனப்படுத்துகின்றோம்." எனக் குறிப்பிட்டுள்ளார்.
+
+...
+
+[Data](articles/6421d1de.json)
+
+---
+
+### அரிசி இறக்குமதி செய்யப்படமாட்டாது  - அமைச்சர் மஹிந்த அமரவீர
+
+*2024-01-29 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175102) · `ta`
+
+அரிசி தேவையில் இலங்கை தன்னிறைவு பெற்றுள்ளதால், 2024இல் அரிசி இறக்குமதி செய்ய எதிர்பார்க்கவில்லை என கமத்தொழில் மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+
+2024 ஆம் ஆண்டில் இலங்கை தன்னிறைவடையும் வகையில், நெல், சோளம், உருளைக்கிழங்கு மற்றும் மிளகாய் பயிர்களுக்கு முன்னுரிமை வழங்க தீர்மானிக்கப்பட்டுள்ளதாகவும் அமைச்சர் குறிப்பிட்டார்.
+
+ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (29) நடைபெற்ற ஊடக சந்திப்பில் கருத்துத் தெரிவிக்கும்போதே  கமத்தொழில் மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர இவ்வாறு தெரிவித்தார்.
+
+“கமத்தொழில் மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சு என்ற வகையில், இந்த ஆண்டு விவசாயம் மற்றும் பெருந்தோட்டக் கைத்தொழில் அபிவிருத்திக்கான இலக்கு நோக்கிய வேலைத்திட்டத்தை ஆரம்பித்துள்ளோம்.
+
+2023 ஆம் ஆண்டில், நாட்டில் சிறு போகத்திலும் பெரும் போகத்திலும் உரங்களை கொள்வனவு செய்வதற்கு நிதி மானியங்களுக்காக சுமார் 22 பில்லியன் ரூபாவை செலவிட்டோம். அத்துடன் நெல் கொள்வனவு செய்வதற்கு அரசாங்கம் 13 பில்லியன் ரூபாவை செலவிட்டுள்ளது.
+
+...
+
+[Data](articles/80a6de2d.json)
+
+---
+
+### அனைத்தையும் புதிய மாற்றத்திற்குள்ளாக்கும் அரசியல் இயக்கம் அவசியம் – அநுர குமார
+
+*2024-01-29 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175104) · `ta`
+
+வெறுமனே ஆட்சி மாற்றத்தினால் எந்தவிதமான பயனும் கிடையாதென்பதும், இந்த நாட்டின் பொருளாதாரம், அரசியல் மற்றும் சமூகம் ஆகிய அனைத்துப் பிரிவுகளையும் ஒரே பிடியில் எடுத்து மாற்றத்திற்கு இலக்காக்குகின்ற புதிய அரசியல் இயக்கமொன்று அவசியமெனவும் தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க கூறினார்.
+
+கடந்த 27 ஆந் திகதி மாத்தறையில் நடாத்தப்பட்ட  மேற்படி மாவட்டத்தின் அதிட்டன (திடசங்கற்பம்) முப்படைக் கூட்டமைவின் மாநாட்டில் உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
+
+அரசியல் சூடுபிடித்துள்ளது. தேர்தல் அண்மித்திராத நிலையில் அரசியல் இவ்விதமாக சூடுபிடித்தமை இலங்கையில் ஒருபோதுமே நிலவவில்லை. அண்மைக்காலமாக இலங்கை மக்கள் அரசியல் ரீதியாக மிகவும் அதிகமாக விழிப்படைந்து வருகிறார்கள். விழிப்புணர்வடைந்த அரசியல் முனைப்புநிலையை அடைந்துவருகிறார்கள்.
+
+இந்த வருடத்தின் ஒக்டோபர் மாதம் இறுதியளவில் எமது நாட்டில் இருப்பது புதிய அரசாங்கமாகும், புதிய ஆட்சியாகும். அந்த புதிய அரசாங்கத்தை, புதிய ஆட்சியை தேசிய மக்கள் சக்தியினுடையதாக மாற்றிக்கொள்ள நாமனைவரும் முனைப்பாக பங்களித்துள்ளோம்.
+
+...
+
+[Data](articles/c05c014b.json)
 
 ---
 
@@ -1947,119 +2059,5 @@ Previously, US, Soviet Russia, China and India landed a plane on the Moon.
 [Data](articles/0cdaee26.json)
 
 [Extended Data](ext_articles/0cdaee26.ext.json)
-
----
-
-### Iran says that the US site is unrelated to Jordan
-
-*2024-01-29 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175041) · `ta`
-
-Iran has said that three US soldiers have been killed in a target of a US base in Jordan, while the attack has been related to the attack.
-
-The Iranian embassy for the UN has said that Iran has nothing to do with the attack on the US base.
-
-Iran said the attacks were echoing between US soldiers and opposition groups in the region.
-
-◼️
-
-[Data](articles/73475fdf.json)
-
-[Extended Data](ext_articles/73475fdf.ext.json)
-
----
-
-### Extension of the Period of footwear vouchers
-
-*2024-01-29 12:04:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதணி-வவுச்சர்களின்-காலம்-நீடிப்பு/175-332263) · `ta`
-
-The Ministry of Education said that the validity period of vouchers for school children has been extended till 17.02.2024.
-
-◼️
-
-[Data](articles/4fb67098.json)
-
-[Extended Data](ext_articles/4fb67098.ext.json)
-
----
-
-### Foreign film production reserved special trains
-
-*2024-01-29 12:02:29* · [`adalk`](https://www.ada.lk/picture_story/විදේශීය-චිත්‍රපට-නිශ්පාදකයෙක්-වෙන්කරගත්-විශේෂ-දුම්රිය-පීලි-පනියි/10-407772) · `si`
-
-The OIC of the Hatton Railway Station said that a special train traveling from Nanu Oya to Colombo Fort (28) at the Hatton Railway trip was restored from 2 days.
-
-The six compartments have been made by the manufacturer of the film to detriment a film in a foreign country.
-
-The railway counsel was taken several times in a train, where the train was running back to Colombo from Nanu Oya and Colombo.
-
-After the monetary train, the monetary train (29) was reconstructed and the traffic on the Kandyan railway line was restored.
-
-◼️
-
-[Data](articles/84272d17.json)
-
-[Extended Data](ext_articles/84272d17.ext.json)
-
----
-
-### Universal Buddha further remanded
-
-*2024-01-29 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192694) · `si`
-
-The case was recalled against Roshan Ranasinghe, who was arrested by the "Universal Buddha" and remanded in charge of the claims to be arrested.
-
-The President's Counsel appeared for the Ramana Sect of Sri Lanka was asked for the orders of the suspect as he was no longer a monk.
-
-The Colombo Chief Magistrate issued the bail of the suspect in connection with the case.
-
-◼️
-
-[Data](articles/5ac94777.json)
-
-[Extended Data](ext_articles/5ac94777.ext.json)
-
----
-
-### Another 836 suspects arrested under Operation ‘Yukthiya’
-
-*2024-01-29 11:56:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/another-836-suspects-arrested-under-operation-yukthiya/) · `en`
-
-COLOMBO (News 1st); Another 836 suspects have been arrested under Operation 'Yukthiya', during the past 24 hours.
-
-The Ministry of Public Security says 257 suspects who were on the list directed to the Crime Divisions were also among those arrested.
-
-Police seized 142g of heroin, 95g of ICE and 1kg of marijuana from the suspects' possession.
-
-Six of the suspects arrested on drug charges have been held under detention orders for further investigations.
-
-One person addicted to drugs has been directed for rehabilitation.
-
-Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
-
-◼️
-
-[Data](articles/b9992e1a.json)
-
-[Extended Data](ext_articles/b9992e1a.ext.json)
-
----
-
-### Action to find companies that charge consumers without registering the tax!
-
-*2024-01-29 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175040) · `ta`
-
-A senior official of the Department said that the Department of Personal Department was conducting raids to find companies that charge it from consumers without registering the tax.
-
-When businesses registered for taxes are engaged in business activities, it is imperative that they look at the consumer's view of the consumer.
-
-Customers can complain directly to the Commissioner of the Department of Labor regarding the non -functioning businesses.
-
-Meanwhile, he added that more complaints have been received and action has been taken in connection with them.
-
-◼️
-
-[Data](articles/ede7566d.json)
-
-[Extended Data](ext_articles/ede7566d.ext.json)
 
 ---

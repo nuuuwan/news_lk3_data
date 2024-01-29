@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 23:17:19**
+As of **2024-01-29 23:32:49**
 
 ## Newspaper Stats
 
-*Scraped **3,375** Articles*
+*Scraped **3,376** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,13 +20,13 @@ adaderanasinhalalk | 359
 virakesarilk | 368
 tamilmirrorlk | 423
 adaderanalk | 433
-dailymirrorlk | 458
+dailymirrorlk | 459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,373 (99.9%) of 3,375 articles have been extended.
+3,375 (100.0%) of 3,376 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,37 +50,59 @@ Police said Piyat Nikeshla was arrested on charges of disrupting the peace of th
 
 ---
 
-### මුදල් අමාත්‍යාංශය ගැන පාර්ලිමේන්තු කාරක සභාවල කනස්සල්ල
+### Worry in Parliamentary Selectings about the Ministry of Finance
 
 *2024-01-29 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192713) · `si`
 
-පවතින අර්බුදකාරී ආර්ථික වාතාවරණය සමනය කිරීමට මුදල් අමාත්‍යාංශය සහ ඊට අනුබද්ධ ආයතනවලට පැහැදිලි සැලැස්මක් නොමැතිවීම සම්බන්ධයෙන් පාර්ලිමේන්තුවේ කාරක සභා කිහිපයක සභාපතිවරු පසුගියදා සිය කනස්සල්ල පළකළහ.
+Chairperson of several Parliament comments recently expressed their concern for the Ministry of Finance and the lack of a clear arrangement to the Ministry of Finance and its affiliates to alleviate the existing crisis.
 
-ඒ මුදල් අමාත්‍යාංශය ඇතුළු ආයතන කිහිපයක් පසුගියදා කෝපා කමිටුව හමුවට කැඳවූ අවස්ථාවේදීය.
+Several institutions including the Ministry of Finance and several institutions were recently summoned to the Kopya Committee.
 
-මෙහිදී රජයේ ආදායම් වැඩි කිරීම සඳහා පාර්ලිමේන්තු කාරක සභා ගණනාවකින් ලබාදුන් නිර්දේශ ක්‍රියාත්මක කිරී‍ම ප්‍රමාදවීම සොයාබැලීම සඳහා මුදල් අමාත්‍යාංශය, දේශීය ආදායම් දෙපාර්තමේන්තුව, සුරාබදු දෙපාර්තමේන්තුව සහ ශ්‍රී ලංකා රේගුව යන ආයතනවල ප්‍රධානීන් ඇතුළු නිලධාරීන් රජයේ ගිණුම් පිළිබඳ කාරක සභාවට (කෝපා කමිටුව) කැඳවා තිබුණි.
+The Ministry of Inland Revenue Department, Department of Inland Revenue Department, Department of Inland Revenue Department and the Sri Lanka Customs, the Heads of the Department of Intension Department and the Sri Lanka Customs have been summoned to the Committee on Public Accounts.
 
-එහිදී අදහස් දක්වමින් ජාතික ආර්ථික හා භෞතික සැළසුම් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති මහින්දාන්ද අළුත්ගමගේ මහතා පෙන්වා දුන්නේ දේශීය ආදායම් පනත සංශෝධනය කිරීම සදහා දෙපාර්තමේන්තුවේ සහ අමාත්‍යාංශයේ මැදිහත්වීම ප්‍රමාණවත් නොවන බවය.
+Commenting on the occasion, the Chairman of the National Economic and Physical Planneerology of the National Economic and Physical Planneelectric Program pointed out that the intervention of the department and the Ministry are not inadequate to amend the Inland Revenue Act.
 
 ◼️
 
 [Data](articles/07d918fa.json)
 
+[Extended Data](ext_articles/07d918fa.ext.json)
+
 ---
 
-### නුවර පාර කැලණියෙන් අවහිර වෙයි
+### Kandy Road blooms bloom
 
 *2024-01-29 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192712) · `si`
 
-විරෝධතාවයක් හේතුවෙන් නුවර පාර කැලණිය විශ්වවිද්‍යාලය ඉදිරිපිටින් අවහිර වී තිබේ.
+Due to a protest, the Kandyan University has been blocked in front of the University of Kelaniya.
 
-පොලීසිය පැවසුවේ කැලණිය සරසවියේ සිසුන් පිරිසක් මෙලෙස විරෝධතාවයේ නිරතවන බවය.
+Police said that a group of students of Kelaniya University engaged in protest.
 
-මේ හේතුවෙන් කොළඹ - නුවර ප්‍රධාන මාර්ගයේ කැලණිය විශ්වවිද්‍යාලය ඉදිරිපිටින් නුවර දෙසට ගමන්කරන මංතීරුව මේ වනවිට සම්පූර්ණයෙන්ම අවහිර වී තිබේ.
+The lane towards the Kandy University of Kandy main road is completely blocked.
 
 ◼️
 
 [Data](articles/9bc97149.json)
+
+[Extended Data](ext_articles/9bc97149.ext.json)
+
+---
+
+### Some universities planning to invite presidential candidates to universities: Raghavan alleges
+
+*2024-01-29 22:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-universities-planning-to-invite-presidential-candidates-to-universities-Raghavan-alleges/108-275938) · `en`
+
+Colombo, Jan. 29 (Daily Mirror)-Some universities were planning to invite politicians and presidential candidates to universities and such moves should be stopped, State Minister of Higher Education Dr. Suren Raghavan said today.
+
+He told a news conference at the Government Information Department that politicizing of universities should be stopped.
+
+"I learnt that some universities are planning to invite politicians and presidential candidates to universities. This should be stopped. Please stop politicizing universities. Universities are meant for academic activities. Politics is discussed in that scope.However, it should not be partial. The senate and its academics should decide who should be invited to universities for events," he said.
+
+Referring to ragging in universities, he said some 82 complaints with regard to ragging have been received up to now from August last year since the establishment of the hotline 1997.
+
+...
+
+[Data](articles/e38e3831.json)
 
 ---
 
@@ -2057,29 +2079,5 @@ Meanwhile, the seventh suspect, a female student of the Sabaragamuwa University,
 [Data](articles/3520a7da.json)
 
 [Extended Data](ext_articles/3520a7da.ext.json)
-
----
-
-### University students arrested for new torture incident
-
-*2024-01-29 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192698) · `si`
-
-Students arrested for the student of the Sabaragamuwa University have released on bail.
-
-Our correspondent said they were released on personal bail of Rs.
-
-Six students and one student have been arrested in connection with incident.
-
-Police said that the students were arrested following a complaint with a complaint made to the 1997 centers in the 1997 centers.
-
-The arrested persons were the fourth-year students of the Faculty of Social Science and Language Education of the University.
-
-They were residents of Morawaka, Rukgahala, Imaduwa and Kithala, who is aged 23, 24 and 25 years.
-
-◼️
-
-[Data](articles/14b4d836.json)
-
-[Extended Data](ext_articles/14b4d836.ext.json)
 
 ---

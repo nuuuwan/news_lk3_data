@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 15:02:37**
+As of **2024-01-29 15:17:08**
 
 ## Newspaper Stats
 
-*Scraped **3,283** Articles*
+*Scraped **3,284** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,68 +19,92 @@ adalk | 300
 adaderanasinhalalk | 348
 virakesarilk | 353
 tamilmirrorlk | 410
-adaderanalk | 423
+adaderanalk | 424
 dailymirrorlk | 444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,280 (99.9%) of 3,283 articles have been extended.
+3,283 (100.0%) of 3,284 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### பண மோசடி வழக்கின் சந்தேக நபரான ஆசிரியர்  அநுராதபுரத்தில் கைது!
+### Teacher arrested for money laundering case
 
 *2024-01-29 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175066) · `ta`
 
-தற்போது நடைபெற்றுக் கொண்டிருக்கும் கல்விப் பொதுத் தராதர  உயர்தரப் பரீட்சைக்கு, பரீட்சை மண்டப  உதவி  மேற்பார்வையாளராக கடமையாற்றும் ஆசிரியர் ஒருவர்   கைது செய்யப்பட்டுள்ளார்.
+A teacher who works as the Assistant Supervisor of the Examination Hall has been arrested for the GCE Advanced Level Examination.
 
-பண மோசடி குறித்த  வழக்கு தொடர்பில் திறந்த பிடியாணை பிறப்பிக்கப்பட்ட நிலையில் அவர் கடமையில் இருக்கும்போதே  கைது செய்யப்பட்டதாக அநுராதபுரம் தலைமையக பொலிஸார் தெரிவித்தனர்.
+The Anuradhapura headquarters headquarters police said that he was arrested while he was on duty as he had been issued an open war on the case of money laundering.
 
-தம்புத்தேகம நீதிவான் நீதிமன்றில்  பண மோசடி வழக்கில் சந்தேக நபரான  இந்த ஆசிரியர் தொடர்ந்து நீதிமன்றத்தை தவிர்த்து வந்தமைக்காக திறந்த பிடியாணை பிறப்பிக்கப்பட்டிருந்ததாகவும் பொலிஸார் தெரிவித்தனர்.
+The police said that the suspect, the suspect in the case of money laundering in the Thambuttegama Magistrate's Court, had been issued an opening for the exclusion of the court.
 
 ◼️
 
 [Data](articles/c51977fe.json)
 
+[Extended Data](ext_articles/c51977fe.ext.json)
+
 ---
 
-### 2024 ෆිල්ම්ෆෙයාර් සම්මාන රාත්‍රිය
+### 2024 Filmfair Awards Night
 
 *2024-01-29 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192702) · `si`
 
-69 වැනි ෆිල්ම්ෆෙයාර් සම්මාන උළෙල ඊයේ (28) රාත්‍රියේ ඉන්දියාවේ ගුජරාට් හිදී අති උත්කර්ෂවත් ලෙස පැවැත්විය.
+The 69th Filmfair Awards ceremony was held at Gujarat at India last night.
 
-එහිදී 2023 වසරේ තිරගතවූ සිනමා පට සඳහා සම්මාන ප්‍රදානය කෙරුණු අතර උළෙලේ දී වැඩි ගෞරව දිනාගැනීමට සමත්වූයේ වික්‍රාන්ත් මෙසී ප්‍රධාන චරිත නිරූපණය කරන විදු විනෝද් චොප්රාගේ 'ටුවෙල්ත් ෆේල්' (12th Fail) සිනමාපටයයි.
+The awards were presented in the 2023 year and winning the main role of Messi, Vinwodha Fale, the '12th FAIL' (12th FAD) is the film.
 
-එම සිනමා පටය අධ්‍යක්ෂණය කළ විදු විනොද් චෝප්රා ට හොඳම අධ්‍යක්ෂණයට හිමි සම්මානය ද හිමි විය.
+Vidya Vinu Vinadhad Chopra, directed by the film, was the best direction of the best.
 
-සිනමා උළෙලේ හොඳම රංගන ශිල්පියාට හිමි සම්මානය "ඇනිමල්" සිනමාපටය සඳහා රන්බීර් කපූර් දිනාගත් අතර, එම කාණ්ඩයේම විචාරක සම්මානය දිනාගත්තේ වික්‍රාන්ත් මෙසී ය.
+The best performer at the Film Festival won Ranbir Karuror for the "Animble" film.
 
-මෙවර උලෙළේදී හොඳම රංගන ශිල්පිනියට හිමි සම්මාන "රොකී ඕර් රාණී කී ප්‍රේම් කහානී" හි රංගනය වෙනුවෙන් ආලියා බාත් දිනාගත්තාය.
+This year's awards winning awards winning awards winning "Rocky Or Kamani Prem 'won the act of' Kamani '.
 
 ◼️
 
 [Data](articles/855a2ee0.json)
 
+[Extended Data](ext_articles/855a2ee0.ext.json)
+
 ---
 
-### හෝටන් තැන්නේ මල්තුහින
+### Colombo Port sees surge in ship arrivals due to Red Sea crisis
+
+*2024-01-29 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96824/colombo-port-sees-surge-in-ship-arrivals-due-to-red-sea-crisis-) · `en`
+
+Sri Lanka’s Minister of Ports, Shipping and Aviation Nimal Siripala de Silva has stated that the recent increase in the number of ship arrivals at the Colombo Port is likely due to the Red Sea crisis.
+
+Accordingly, the Minister revealed that the number of ships docking at the Colombo Port has increased by 35% within the month of January, while container operations at the port have also increased by 72%.
+
+Minister Nimal Siripala de Silva made these remarks while attending a special inspection of the Jaya Container Terminal (JCT) of the Sri Lanka Ports Authority (SLPA).
+
+Commenting on the increase in ship arrivals recorded at the Colombo Port, however, State Minister of Foreign Affairs Tharaka Balasuriya claimed that he remains dissatisfied that this increase is likely attributed to the Red Sea crisis.
+
+◼️
+
+[Data](articles/5bcae780.json)
+
+---
+
+### Horton Poor
 
 *2024-01-29 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192701) · `si`
 
-මේ දිනවල ශ්‍රී ලංකාවේ කඳුකර දැඩි සීත කාලගුණික තත්ත්වයක් සහිත ප්‍රදේශ ආශ්‍රිතව උදෑසන කාලයේදී මල්තුහින තත්ත්වයන් දැකගත හැකියි.
+These days, the plightlessnesses are found in the mountainous cold weather conditions in Sri Lanka these days.
 
-මෙවැනි පසුබිමක පසුගිය දිනක නුවරඑළිය හෝටන් තැන්න ප්‍රදේශය ආශ්‍රිතව ඇතිවූ මල්තුහින තත්ත්වය කාගේත් අවධානයට ලක්විය.
+In this backdrop, the stimulation of the Nuwara Eliya Planna area was focused on every day.
 
-උදෑසන 6 සිට 8 දක්වා කාලසීමාව තුළදී සෙල්සියස් අංශක 3ක සීතලේ මෙලෙස හෝටන් තැන්න ප්‍රදේශය ආශ්‍රිතව පැවති මල්තුහින තත්ත්වය කැමරාවේ සටහන්ව තිබුණි.
+During the time of 6 to 8 am, the Generated position of the Hoton Plains area of 3 degrees Celsius was recorded in the cold 3 degrees cold.
 
 ◼️
 
 [Data](articles/fd6f5d0e.json)
+
+[Extended Data](ext_articles/fd6f5d0e.ext.json)
 
 ---
 
@@ -2067,27 +2091,5 @@ The US president has also reported that the attack has taken place in Jordan, wh
 [Data](articles/0714f1c5.json)
 
 [Extended Data](ext_articles/0714f1c5.ext.json)
-
----
-
-### The singer of the heart goes home
-
-*2024-01-29 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192681) · `si`
-
-Chamara Weerasinghe, who was righteous as the singer of the heart, was recovering from the Kalubowila Hospital.
-
-He was treated at the Kalubowila Hospital for nearly 40 days.
-
-Chamara Weerasinghe was admitted to the Kalubowila hospital due to embarrassment.
-
-Hospital sources revealed that he was underway to two surgeries in the throat and abdomen.
-
-Meanwhile, doctors are recommended that Mr. Chamara Weerasinghe recovered further relief.
-
-◼️
-
-[Data](articles/00f20b27.json)
-
-[Extended Data](ext_articles/00f20b27.ext.json)
 
 ---

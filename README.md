@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 20:17:09**
+As of **2024-01-29 20:32:47**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 455
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,337 (99.9%) of 3,339 articles have been extended.
+3,339 (100.0%) of 3,339 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -67,6 +67,8 @@ President’s Counsel is a professional rank and status conferred to the appoint
 ...
 
 [Data](articles/7964b467.json)
+
+[Extended Data](ext_articles/7964b467.ext.json)
 
 ---
 
@@ -174,21 +176,27 @@ Former parliamentarian Hirunika Premachandra, who attended the conference, said 
 
 ---
 
-### ශත 18ක හිඟ මුදලටත් විදුලිය විසන්ධි කරලා
+### Electricity has been disconnected to 18 cents
 
 *2024-01-29 18:26:42* · [`adalk`](https://www.ada.lk/breaking_news/ශත-18ක-හිඟ-මුදලටත්-විදුලිය-විසන්ධි-කරලා/11-407782) · `si`
 
-විදුලි බිලෙහි තිබූ ශත 18ක මුදලක් නොගෙවීම නිසා තම නිවසේ විදුලිය විසන්ධි කළ බව ගාල්ල, ගල්වඩුගොඩ පදිංචි විසුම් මාපලගම මහතා පවසයි.
+A resident of Galvadagoda, Galle, said that the electricity cut off in the house was disconnected due to the non-payment of 18 cents.
 
-මෙලෙස මාපලගම මහතාගේ නිවසේ විදුලිය විසන්ධි කර ඇත්තේ ගාල්ල නගරය සහ ඒ අවට ප්‍රදේශයට විදුලි සැපයුම් ලබාදෙන සීමාසහිත (ලංකා) විදුලි පුද්ගලික සමාගම (LECO) විසිනි.
+The electricity supply of Mrs. Mapalagama has been devised by the LECO (Lanka) Power Company (LECO).
 
-විසුම් මාපලගම මහතා පවසන්නේ, තමන් රුපියල් 6650.18ක් වූ විදුලි බිල්පත ගෙවීමට ලෙකෝ කාර්යාලයට ගිය අවස්ථාවේ දී ශත 18ක මුදලක් ගෙවිය යුතු දැයි විමසූ විට මුදල් අයකැමි සඳහන් කළේ එවැනි සුළු මුදලකට විදුලිය විසන්ධි නොකරන බැවින් එය නොගෙවීම ගැටලුවක් නොවන බවයි. රවුම් ගණනක් ගෙවන්න යැයි ද මුදල් අයකැමි පැවසීම නිසා රුපියල් 6650.00ක මුදලක් ගෙවා ඉතිරි වූ රුපියල් 0.18 ගෙවා නැත. ඔහු මෙම ගෙවීම සිදුකර ඇත්තේ 2023-12-19 වැනි දින දී ය.
+Dissum Mapalagama says that when he prompted 18 cents to pay Rs.. Payment of circular payments has not been paid Rs. 6650.00.. He made this payment on 2023-12-12.
 
-නමුත් දින කිහිපයකට පසු නිවසේ කිසිවකුත් නොමැති අවස්ථාවක දී සීමා සහිත (ලංකා) විදුලි පුද්ගලික සමාගම විසින් නිවසේ විදුලිය විසන්ධි කර දමා ගොස් තිබූ බව මාපලගම මහතා අප සමඟ කීවේය.
+But a few days later, Mr. Mapalagama said that the company had left the house (Ceylon) electric company had been disconnected by the electric company.
+
+It says that as he returned home after he returned home and that the electricity disconnection was left in front of the house and the additional cost of the electricity should be paid Rs.1.1.18.
+
+When he visited LECO's office in Richmond, Galle with all the documents he had paid bills. An officer had said there was no responsible man including electrical engineer. He said that he had not even had the telephone number that had to speak abuse at the spot.
 
 ...
 
 [Data](articles/aaab0b60.json)
+
+[Extended Data](ext_articles/aaab0b60.ext.json)
 
 ---
 

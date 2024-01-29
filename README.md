@@ -1,36 +1,122 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 14:32:44**
+As of **2024-01-29 14:49:55**
 
 ## Newspaper Stats
 
-*Scraped **3,272** Articles*
+*Scraped **3,280** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 43
-bbccomsinhala | 53
+bbccomsinhala | 54
 dbsjeyarajcom | 125
 economynextcom | 177
 islandlk | 185
 newsfirstlk | 198
 dailyftlk | 223
-adalk | 298
+adalk | 300
 adaderanasinhalalk | 346
 virakesarilk | 352
-tamilmirrorlk | 408
-adaderanalk | 421
-dailymirrorlk | 443
+tamilmirrorlk | 410
+adaderanalk | 423
+dailymirrorlk | 444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,272 (100.0%) of 3,272 articles have been extended.
+3,272 (99.8%) of 3,280 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### No new indirect taxes will be introduced – State Minister
+
+*2024-01-29 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96823/no-new-indirect-taxes-will-be-introduced-state-minister-) · `en`
+
+State Minister of Finance Ranjith Siyambalapitiya has stated that the government has no intentions to implement any new indirect taxes that would escalate the prices of goods.
+
+Speaking to the media in Kegalle on Monday (29 Jan.), Siyambalapitiya further assured that the state has no intention to further increase the current tax percentages, and is instead focused on increasing state revenue.
+
+Commenting further in this regard, the State Minister explained that the cost of goods will not increase as a result of a hike in indirect taxes any longer, and instead, will likely be affected by factors such as the demand and supply of goods.
+
+“We are working in a manner to increase state revenue, and resultantly reduce the percentage of indirect taxes, so that we can reduce the burden on the people”, Siyambalapitiya said.
+
+The State Minister also noted that a new property tax is slated to be introduced in 2025.
+
+...
+
+[Data](articles/e8ae4d86.json)
+
+---
+
+### ලොහාන් රත්වත්තේට යළිත් රාජ්‍ය අමාත්‍යධුරයක්
+
+*2024-01-29 14:11:21* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-රත්වත්තේට-යළිත්-රාජ්‍ය-අමාත්‍යධුරයක්/11-407778) · `si`
+
+වැවිලි කර්මාන්ත සහ මහවැලි සංවර්ධන රාජ්‍ය අමාත්‍යවරයා ලෙස ලොහාන් රත්වත්තේ මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ ජනාධිපති ලේකම් කාර්යාලයේ දී අද (29) දිවුරුම් දුන්නේය. මෙම අවස්ථාවට ජනාධිපති ලේකම් සමන් ඒකනායක මහතා ද එක්විය.
+
+◼️
+
+[Data](articles/16e85c30.json)
+
+---
+
+### புதிய வரி தொடர்பில் வெளியான அறிவிப்பு
+
+*2024-01-29 14:06:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/புதிய-வரி-தொடர்பில்-வெளியான-அறிவிப்பு/52-332269) · `ta`
+
+எதிர்காலத்தில் மறைமுக வரிகளை அறிமுகப்படுத்தவோ அல்லது வரி சதவீதத்தை அதிகரிக்கவோ அரசாங்கத்துக்கு எண்ணம் இல்லை என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார்.
+
+எனவே, மறைமுக வரி விதிப்பால் பொருட்களின் விலை உயராது என்றும், பொருட்களின் தேவை மற்றும் விநியோகத்தின் அடிப்படையில் பொருட்களின் விலை நிர்ணயிக்கப்படும் என்றும் நிதி இராஜாங்க அமைச்சர் கூறினார்.
+
+இதேவேளை, 2025ஆம் ஆண்டு புதிய சொத்து வரி அறிமுகப்படுத்தப்படும் என எதிர்பார்க்கப்படுவதாக அவர் குறிப்பிட்டார்.
+
+சொத்து வரி என்பது நேரடி வரி என்றும், அதிக சொத்து வைத்திருப்பவர்களிடம் இந்த வரி வசூலிக்கப்படும் என அவர் சுட்டிக்காட்டினார்.
+
+◼️
+
+[Data](articles/4c100549.json)
+
+---
+
+### Fishing boat hijacked by pirates: Sri Lankan diplomats in talks with Somali authorities
+
+*2024-01-29 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96822/fishing-boat-hijacked-by-pirates-sri-lankan-diplomats-in-talks-with-somali-authorities) · `en`
+
+“Sri Lanka’s diplomats are talking with Somali authorities trying to ascertain the whereabouts of a fishing vessel and its six crewmembers suspected of being abducted by Somali pirates two days ago,” officials said on January 29.
+
+The apparent abduction came two weeks after Sri Lanka said it would join a U.S.-led operation to protect merchant vessels sailing in the Red Sea against attacks by Yemen-based Houthi rebels.
+
+Other suspected hijackings in waters off Somalia have raised concern that Somali pirates have resumed activity, a decade after they caused chaos in international shipping.
+
+The hijacking of the Sri Lankan vessel occurred in international waters about 840 nautical miles (1,555 km) east of Somalia, 1,100 nautical miles (2,040 km) from Sri Lanka and north of Seychelles, according to Sri Lankan navy spokesman Capt. Gayan Wickramasuriya.
+
+“So far, we have no communication with them or no details on the whereabout of them,” he said.
+
+...
+
+[Data](articles/f7ec6143.json)
+
+---
+
+### பகிடிவதையில் ஈடுபட்ட மாணவர்களுக்கு பிணை
+
+*2024-01-29 14:02:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடிவதையில்-ஈடுபட்ட-மாணவர்களுக்கு-பிணை/175-332268) · `ta`
+
+சப்ரகமுவ பல்கலைக்கழகத்தில் மாணவி ஒருவரை பகிடிவதைக்கு உட்படுத்திய சம்பவம் தொடர்பில் கைது செய்யப்பட்ட மாணவர்கள் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+
+சந்தேக நபர்கள் இன்று (29) பிற்பகல் பலாங்கொடை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டதன் பின்னர் தலா ஒரு இலட்சம் ரூபாய் சரீரப் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+
+அந்தப் பல்கலைக்கழகத்தின் சமூக அறிவியல் மற்றும் மொழிக் கல்வி பீடத்தின் நான்காம் வருடத்தில் கல்வி கற்றுவரும் 23, 24 மற்றும் 25 வயதுடைய மாணவர்கள் குழுவொன்றே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/a76aa3ef.json)
+
+---
 
 ### Santhan at Trichy camp with worse restrictions than prisoners;-Family conditions are badly affected -family members who are unable to know
 
@@ -57,6 +143,46 @@ There is no direct connection between us and him. All the news that is currently
 [Data](articles/a87cd89d.json)
 
 [Extended Data](ext_articles/a87cd89d.ext.json)
+
+---
+
+### ලක්ෂ 65ක ණයක් තිබූ අපුර ඩිපෝව ලක්ෂ 650ක් ඉතිරි කරන තැනට පත්කළ ඩිපෝ අධිකාරී ඉල්ලා අස්වෙයි
+
+*2024-01-29 14:01:31* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-65ක-ණයක්-තිබූ-අපුර-ඩිපෝව-ලක්ෂ-650ක්-ඉතිරි-කරන-තැනට-පත්කළ-ඩිපෝ-අධිකාරී-ඉල්ලා-අස්වෙයි/11-407777) · `si`
+
+අධික ලෙස පාඩු ලබමින් තිබූ ශ්‍රී ලංකා ගමනා ගමන මණ්ඩලයට අයත්  අනුරාධපුර ඩිපෝවේ රුපියල් කෝටි ගණනක මුදල් ඉතිරියක් සහ තවත් විශේෂ සේවාවන් රැසක් ඉටු කරමින්  සිටි  අනුරාධපුර ඩිපෝ අධිකාරි, ටී. කළුආරච්චි මහතා සේවයෙන්  ඉල්ලා අස්ව තිබේ.
+
+රුපියල් ලක්ෂ 65 ණයක් සහිතව තිබූ ඩිපෝව එම ණය අවසන් කර, සේවකයන්ගේ 2018 වසරේ සිට තිබූ හිග වැටුප්, ගෙවීම් කප්පාදු කරන ලද අතිකාල   දීමනා පවා ගෙවීම් ආරම්භ කල ඒ මහතා  මෙවැනි ප්‍රවර්ධනයක් පෙන්නුම් කළේ 2020 වසරේ අනුරාධපුර ඩිපෝ අධිකාරිවරයා ලෙස වැඩ භාරගෙන වසර 4ක කාලය තුලදීය.
+
+තවද එම කාලය තුල රුපියල් කෝටි හය හමාරක පමණ මුදලක් ඩිපෝව සතුව ඉතුරු කිරීමටද හෙතෙම සමත් වූ අතර, රුපියල් ලක්ෂ දෙසීයක්  වැය කර සුඛෝපභෝගි බස් රථයක්ද ප්‍රථම වරට අනුරාධපුර ඩිපෝව මගින් කොළඹ දක්වා ධාවනය කරවීමට කටයුතු කළේය.
+
+විවිධ බස්රථ සේවා ආරම්භය මෙන්ම ශ්‍රී මහා බෝධි වන්දනා  සහ වට වන්දනා බස් රථ සේවා දෙකක්ද ආරම්භ කිරීමට දායක වූ  කළු ආරච්චි මහතා  සිදු කල සමාජ සේවා මෙහෙයන් අතර මෑතකදී බස් මගියෙකුගේ මුදල්  රුපියල් ලක්ෂ දහය සමඟ ලැප්ටොප් පරිගණකය අයිතිකරු සොයා නැවත  ලබා දීමද සමාජයේ දැඩි කතා බහට ලක්විය.
+
+...
+
+[Data](articles/28124ee3.json)
+
+---
+
+### Will defy all laws and begin another Aragalaya tomorrow: SJB
+
+*2024-01-29 13:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-defy-all-laws-and-begin-another-Aragalaya-tomorrow-SJB/108-275914) · `en`
+
+Colombo, Jan 29 (Daily Mirror) -  The Samagi Jana Balawegaya (SJB) will not take notice of any restrictions but will take to the streets tomorrow and fire the first shot towards overthrowing the present government, SJB General Secretary Ranjith Madduma Bandara said today.
+
+“The IGP or anyone else can impose any restriction but we will defy all laws and bring 50,000 people to Colombo tomorrow,” Madduma Bandara told a media briefing.
+
+“It was the SJB which pioneered the uprising in 2022 and we intend to do the same this time as well,” Madduma Banadara added.
+
+“We will not disclose where we will march towards now, but we will reveal it at the correct time tomorrow,” he added.
+
+Former MP Hirunika Premachandra who also participated in the briefing said the protest will be against suppressive legislations such as the Anti-Terrorism Bill, Online Safety Bill and increased taxes.
+
+“We will disclose where we are going  to surround at the right time,” she also said
+
+◼️
+
+[Data](articles/bb820fe1.json)
 
 ---
 
@@ -1758,6 +1884,26 @@ The reason is that the TNA leader appears to be the leader of the TNA and the le
 
 ---
 
+### කෝටි 600 බදු පැහැර හැර ඇති මත්පැන් සමාගම් 10 ක ලැයිස්තුවක් ශ්‍රේෂ්ඨාධිකරණයට
+
+*2024-01-29 07:56:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv29l0w6p77o) · `si`
+
+කෝටි 600 බදු පැහැර හැර ඇති මත්පැන් සමාගම් 10 ක ලැයිස්තුවක් ශ්‍රේෂ්ඨාධිකරණයට
+
+මෙරට  මත්පැන් නිෂ්පාදන සමාගම් 10 ක් රුපියල් කෝටි 678 කට අධික සුරා බදු මුදල් ප්‍රමාණයක් රජය වෙත ගෙවීම පැහැර හැර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය හමුවේ පෙත්සමක් ගොනු කොට තිබේ.
+
+රජය වෙත බදු ගෙවීම පැහැර හැර ඇති මත්පැන් නිෂ්පාදන සමාගම් 10 කින් එම බදු මුදල් අයකර ගැනීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා සංජය මහවත්ත ඇතුළු සමාජ ක්‍රියාකාරිකයින් පිරිසක් විසින් (ජනවාරි 26 වැනිදා) ඉදිරිපත් කර ඇති මූලික අයිතිවාසිකම් පෙත්සමක් තුළින් මේ බව ශ්‍රේෂ්ඨාධිකරණය හමුවේ ප්‍රකාශ කර ඇත.
+
+පෙත්සමේ සඳහන් වන ආකාරයට බදු ගෙවීම පැහැර හැර තිබෙන මත්පැන් නිෂ්පාදන සමාගම් මොනවාද?
+
+අදාළ පෙත්සමේ සඳහන් වන ආකාරයට රජය වෙත හිඟ බදු මුදල් ගෙවීම පැහැර හැර ඇති  මත්පැන් නිෂ්පාදන සමාගම් 10 ක් නම් කර තිබේ.
+
+...
+
+[Data](articles/ad3df43c.json)
+
+---
+
 ### Three US troops killed, up to 34 injured in Jordan drone strike linked to Iran
 
 *2024-01-29 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/96812/three-us-troops-killed-up-to-34-injured-in-jordan-drone-strike-linked-to-iran) · `en`
@@ -1925,173 +2071,5 @@ The fourth -year students of the Faculty of Social Science and Linguistics of th
 [Data](articles/5ca200ca.json)
 
 [Extended Data](ext_articles/5ca200ca.ext.json)
-
----
-
-### Excitement in Parliament; Video
-
-*2024-01-29 07:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-பரபரப்பு-காணொளி/175-332252) · `ta`
-
-The ruling party was involved in a confrontation with opposition MPs, and there was great confusion in the Maldives parliament on Sunday (28).
-
-The incident, which was alleged to have taken place during the important referendum for President Mohamed Muizu's Cabinet, became a riot of lawmakers from both sides.
-
-ކެނދިކުޅުދޫ ދާއިރާގެ މެމްބަރު ފައިގައި ހިފައި ހިފައި މެމްބަރު ޝަހީމް ވައްޓާލާ މަންޒަރު މަންޒަރު މަންޒަރު. އެމްޑީޕީ ދޫކޮށް ޕީއެންސީއާ ސަރުކާރުގެ މެމްބަރުން މަޖިލީހަށް ހުރަސް އެޅުމާއެކު ތަޅުމުގައި ހަމަނުޖެހުން އަންނަނީ ހިނގަމުން ހިނގަމުން ހިނގަމުން ހިނގަމުން ހިނގަމުން. pic.twitter.com/mnmzvYKsrO
-
-◼️
-
-[Data](articles/0b079a57.json)
-
-[Extended Data](ext_articles/0b079a57.ext.json)
-
----
-
-### Another life is billy to the sea
-
-*2024-01-29 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192680) · `si`
-
-In Mullaitivu, a person drowned with a seaside in the Puthumathalan area.
-
-Police say that the missing person yesterday (28) was in the area while they were with relatives.
-
-The victim is a 32 year old resident of Pudukuduirippu.
-
-The Navy, Police and the residents of the area were involved in searching for Aurouddan.
-
-◼️
-
-[Data](articles/6725d2a7.json)
-
-[Extended Data](ext_articles/6725d2a7.ext.json)
-
----
-
-### The box that went to the shoot was derailed
-
-*2024-01-29 07:18:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படப்பிடிப்பிற்கு-சென்ற-பெட்டி-தடம்-புரண்டது/175-332251) · `ta`
-
-The Railway Department said that the surveillance box of a rented train, which was rented for a foreign film, was derailed between Hatton and Kotagala railway stations this evening.
-
-They said six boxes were rented for shooting from January 24 to 29.
-
-Some part of the train finished the shoot and headed towards Colombo.
-
-The department said that the train services on the hill country have been blocked due to the derailment.
-
-◼️
-
-[Data](articles/2e41fbdf.json)
-
-[Extended Data](ext_articles/2e41fbdf.ext.json)
-
----
-
-### A sudden fire in Mawanella - 30 shops destroyed
-
-*2024-01-29 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192679) · `si`
-
-About 30 shops have been completely destroyed in a fire in front of the city of Mawanella yesterday (28).
-
-The police were immediately implemented by the Menawa Pradeshiya Sabha and the residents of the area.
-
-A large number of fruits and plastic products have been destroyed by fire.
-
-The cause of the fire is yet to be ascertained and Mawanella Police are conducting further investigations.
-
-◼️
-
-[Data](articles/0456b98e.json)
-
-[Extended Data](ext_articles/0456b98e.ext.json)
-
----
-
-### Six students of Sabaragamuwa Uni arrested for ragging female student
-
-*2024-01-29 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96811/six-students-of-sabaragamuwa-uni-arrested-for-ragging-female-student) · `en`
-
-UPDATE: A total of seven suspects, including a female student, have been arrested in connection with the incident, police reported.
-
-According to police, the female suspect has surrendered herself to the Samanalawewa Police this morning (29 Jan.).
-
-Six male students of the Sabaragamuwa University have been arrested by Samanalawewa Police for ragging a female student, the police media unit said.
-
-The suspects have been arrested following investigations carried out by Samanalawewa Police based on a complaint received by the ‘1997’ hotline on January 14.
-
-The arrested suspects are reportedly a group of fourth year students of the university’s Faculty of Social Sciences and Languages.
-
-They had been arrested yesterday (28) after arriving at the Samanalawewa Police Station.
-
-The arrestees are students aged 23, 24 and 25 while they are residents of Morawaka, Rukgahawila, Aluttarama, Imaduwa and Kithalawa areas.
-
-◼️
-
-[Data](articles/270f034f.json)
-
-[Extended Data](ext_articles/270f034f.ext.json)
-
----
-
-### Several spells of showers expected in parts of the island
-
-*2024-01-29 07:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96810/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
-
-The Department of Meteorology says showers will occur at times in Eastern and Uva provinces and in Polonnaruwa, Matale and Nuwara-Eliya districts.
-
-Several spells of showers may occur in Anuradhapura, Mullaitivu and Hambantota districts, it said.
-
-Showers or thundershowers will occur at several places in Western and Sabaragamuwa provinces and in Galle, Matara and Kandy districts after 2.00 p.m.
-
-Fairly strong winds about 40 kmph can be expected at times over the Central, Uva and Northwestern provinces and Hambantota district.
-
-The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
-
-◼️
-
-[Data](articles/0a3d7820.json)
-
-[Extended Data](ext_articles/0a3d7820.ext.json)
-
----
-
-### Determination of the date for submitting property details
-
-*2024-01-29 07:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்து-விபரங்களை-சமர்ப்பிப்பதற்கான-திகதி-நிர்ணயம்/175-332249) · `ta`
-
-The Bribery Corruption Commission has ordered the submission of the proclamation of the president, the prime minister, the public servants, the media leaders and many other prominent dignitaries.
-
-The action has been taken in accordance with the recent bribery or corruption allegations.
-
-Under the new legislation, about 150,000 people, including politicians, public servants and media leaders, must submit a comprehensive asset and responsible reports to the Commission for Bribery or Corruption.
-
-The timeline of complying with this compulsory expression is set on March 31 every year as a face referring to the immediate process.
-
-◼️
-
-[Data](articles/7c4b0a1f.json)
-
-[Extended Data](ext_articles/7c4b0a1f.ext.json)
-
----
-
-### Six students arrested for nuitarizing a university student
-
-*2024-01-29 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192678) · `si`
-
-Six students have been arrested in the same year regarding a new torment in Sabaragamuwa University student.
-
-The Hambarweath police station was arrested by the Samanalawewa police station on the 14th and the 14th.
-
-The suspects are students of the Faculty of Social Science and Language Education of the Sabaragamuwa University.
-
-They have been arrested after attending the Samanalawewa police station yesterday.
-
-The arrested students are residents of Morawaka, Rukgalama, Arakara, Ahamandura and Kithalawa areas.
-
-◼️
-
-[Data](articles/57aadaf0.json)
-
-[Extended Data](ext_articles/57aadaf0.ext.json)
 
 ---

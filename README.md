@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 18:32:59**
+As of **2024-01-29 18:51:19**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 452
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,319 (99.8%) of 3,325 articles have been extended.
+3,325 (100.0%) of 3,325 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ Colombo, Jan 29 (Daily Mirror) - The Online Safety Bill will give rise to a loca
 ◼️
 
 [Data](articles/a262b068.json)
+
+[Extended Data](ext_articles/a262b068.ext.json)
 
 ---
 
@@ -147,6 +149,8 @@ News 1st, has followed this story for two months, and received a chilling update
 ...
 
 [Data](articles/b4d04b29.json)
+
+[Extended Data](ext_articles/b4d04b29.ext.json)
 
 ---
 
@@ -980,25 +984,27 @@ Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
 
 ---
 
-### දොඹගොඩ යුධහමුදා කදවුරේ සෙබලාගේ සිරුර අඩි 20ක් ගැඹුර පොකුණක
+### Soldier's body at Armbagoda's base at a deep pond
 
 *2024-01-29 13:25:11* · [`adalk`](https://www.ada.lk/breaking_news/දොඹගොඩ-යුධහමුදා-කදවුරේ-සෙබලාගේ-සිරුර-අඩි-20ක්-ගැඹුර-පොකුණක/11-407776) · `si`
 
-හොරණ දොඹගොඩ යුධහමුදා කදවුරේ පොකුණක තිබී සෙබළෙකු ගේ මළසිරුරක් අද (29) උදෑසන හමුව ඇති බව අගුරුවාතොට පොලිසිය පවසයි .
+A soldier's body was found in a pond at a pond at the jembugoda warhead camp at a pond yesterday morning.
 
-මෙසේ මියගොස් ඇත්තේ ඇතිලිවැව ප්‍රදේශයේ පදිංචිව සිටී 7 වන යුධහමුදා යුධෝපකරණ බළකායට අයත් සාමාන්‍ය සෙබළ ඩබ්ලිව් එම් ටී ලක්ෂමන් නමැති 23 හැව්රිදි  අයෙකු ගේ බව පොලිසිය කීය.
+The deceased has been identified as the average soldier who was residing in the Uttiliwewa area.
 
-මියගොස් ඇති සෙබළා මුලතිව් හී පිහිටී 7 වන යුද්ධෝපකරණ බළකායට අයත් සෙබළෙකු වන අතර,  උපදේශක රාජකාරි සිදුකර ඇති බවත්  , පෙරේදා උදැසන  ශාරීරික අභ්‍යාස පෙලපාලියට පෙනී නොසීටී බැවින් සොයාබලා ඇතත් හමුව නොමැති බවත්, ඒ සම්බන්දයෙන් සෙබළාගේ නිවසද දැනුවත් කර ඇති බවත් යුධහමුදා මාධ්‍ය ප්‍රකාශක කාර්යාලය සදහන් කරයි.
+The victim is a soldier belonging to the 7th Troubleshood, which has been found in Mullaittivu and is not found in the area.
 
-සෙබළාගේ මළසිරුර අද  උදැසන කදවුරේ අඩි 20 කට ආසන්න ගැඹුරු  පොකුණක  තිබී හමුව ඇති බවත්, මළසිරුර හමුවන විට යට ඇදුම පමණක් ඇද සිට ඇති බවත් පොලිසිය කීය.
+The body of the soldier was found in a deep pond at nearly 20 feet deep, police said.
 
-පානදුර අපරාධ ස්ථාන පරීක්ෂණාගාර නිළධාරීන්ද ඊයේ උදැසන  පරීක්ෂණ සිදුකල බව පොලිසිය කීය.
+Panadura Criminal Laboratory Laboratory Laboratory Laboratory was investigated yesterday.
 
-ස්ථානාධිපති ප්‍රධාන  පොලිස් පරීක්ෂක ආනන්ද සිල්වා මහතාගේ උපදෙස් පරිදි අගුරුවාතොට පොලිසිය පරීක්ෂණ පවත්වති.
+Answerattota Police are conducting further investigations on the instructions of OIC Chief Inspector Ananda Silva.
 
 ◼️
 
 [Data](articles/09036dff.json)
+
+[Extended Data](ext_articles/09036dff.ext.json)
 
 ---
 
@@ -1124,6 +1130,8 @@ A small-scale entrepreneurs' protest was held today in the Maharagama town, dema
 
 [Data](articles/12ea21cc.json)
 
+[Extended Data](ext_articles/12ea21cc.ext.json)
+
 ---
 
 ### Thai Prime Minister to visit Sri Lanka, FTA to be signed
@@ -1198,17 +1206,19 @@ The US dollar purchasing price was 312.6759 and the sales price were 322.7716 ba
 
 ---
 
-### පාවහන් තිළිණ පත්වල කාලය දිගු කරයි
+### Shoes extend the time of gifts
 
 *2024-01-29 12:42:12* · [`adalk`](https://www.ada.lk/breaking_news/පාවහන්-තිළිණ-පත්වල-කාලය-දිගු-කරයි/11-407775) · `si`
 
-පාසල් සිසුන් වෙනුවෙන් රජය ලබා දුන් පාසල් පාවහන් තිළිණපත්වල වලංගු කාලය  දීර්ඝ කර ඇති බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of Education has extended the validity period of the school shoes that the government has given the government for school children.
 
-ඒ අනුව 2024. 02. 01 දින දක්වා මීට පෙර සටහන් කර තිබූ වලංගු කාලය  2024. 02. 17 දින දක්වා දීර්ඝ කර ඇති බව පාවහන් සැපයුම්කරුවන් හා ජනතාව වෙත අධ්‍යාපන අමාත්‍යාංශය දැනුම් දෙන බව එම නිවේදනයේ සඳහන් වෙයි.
+Accordingly, 2024. 02. Validity period from the previous year 2024. 02. The Ministry of Education states that the Ministry of Education will inform the researcher supplier and the public that has been extended until 17 days.
 
 ◼️
 
 [Data](articles/01831a6f.json)
+
+[Extended Data](ext_articles/01831a6f.ext.json)
 
 ---
 
@@ -1236,21 +1246,27 @@ Another committee opposes the decision taken by the leader of the TNA. So the Ta
 
 ---
 
-### පියාගේ ලිංගික අතවර ඉවසිය නොහැකි තැන 13 හැවැරිදි දියණිය තනිවම පොලීසියට ඇවිත්
+### Where the father's sexual abuse is unbearable 13 The daughter of the man came to the police
 
 *2024-01-29 12:33:50* · [`adalk`](https://www.ada.lk/breaking_news/පියාගේ-ලිංගික-අතවර-ඉවසිය-නොහැකි-තැන-13-හැවැරිදි-දියණිය-තනිවම-පොලීසියට-ඇවිත්/11-407774) · `si`
 
-වසර දෙකකට වැඩි කාලයක සිට තම පියාගෙන් සිදු වන ලිංගික හිර හැර ඉවසා ගැනීමට නොහැකි වූ වයස අවුරුදු 13 හැවිරිදි  දැරියක් තනිව පොලිසියට පැමිණ, ඒ සම්බන්ධයෙන්  පැමිණිල්ලක් ඉදිරිපත් කිරීමෙන් අනතුරුව ඊයේ (28දා) එම සැකකාර පියා අත්අඩංගුවට ගත් බව නොච්ච්යාගම  පොලිසිය පවසයි.
+The 13-year-old girl who was unable to take a complaint with his father for more than two years, a 13-year-old girl was arrested for his arrest yesterday (28) after a complaint.
 
-මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ නොචියාගම පොලිස් වසමේ පදිංචි 34 හැවිරිදි පෙදරේරුවෙකි.
+The arrested persons have been arrested by a 34 year old mason.
 
-දැරිය, තම මව , පියා සහ සිය සහෝදරයා සමගින් නිවසේ ජීවත්ව සිටින අතර, මීට වසර දෙකකට පමණ පෙර  (2021 වර්ෂයේ) සිට, තමන් හය වන වසරේ ඉගෙනුම ලබන කාලයේ සිට, මේ  දක්වා වරින් වර, නිවසේ කිසිවෙකුත් නොමැති අවස්ථාවලදී තමාට ලිංගික අතවර කරන බව දැරිය සිදු කල පැමිණිල්ලේ සඳහන්වේ.
+The girl is alive in home with his mother, father and his brother, from time to time, from time to time, the girl was sexually abusing him from time to time, from time to time to time, when none of his stay at homeThe complaint states:
 
-දිගින් දිගටම  පියාගෙන් සිදු වන කරදර ඉවසා ගැනීමට නොහැකිව  දැරිය  විසින් මේ පිළිබඳව  පියාගේ මවට දැනුම්දීමෙන් අනතුරුව, තමන් මිත්තණියගේ නිවසට රැගෙන ගිය බවත්, පසුව පෙරේදා යලිත් තමන්  මව පියා සිටින නිවසට රැගෙන යාමට සූදානම් වූ අවස්ථාවේදී මිත්තණියට හොරෙන් පොලිසියට පැමිණි  බව දැරිය සිදු කල ප්‍රකාශවල වැඩි දුරටත් සඳහන්වේ.
+After the girl who continued to tolerate the father's mother, he was taken to her father's mother and was later taken to her father's home and later returned to her mother, she came to the police to smugs to her mother..
 
-...
+The suspect was due to be produced in court and the girl was to be directed to a medical examination.
+
+The Child and Women's Bureau of Nochchiyagama Police are conducting further investigations.
+
+◼️
 
 [Data](articles/68d4b686.json)
+
+[Extended Data](ext_articles/68d4b686.ext.json)
 
 ---
 

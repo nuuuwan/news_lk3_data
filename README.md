@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 23:51:37**
+As of **2024-01-30 00:02:19**
 
 ## Newspaper Stats
 
-*Scraped **3,376** Articles*
+*Scraped **3,377** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 187
 newsfirstlk | 203
 dailyftlk | 223
 adalk | 312
-adaderanasinhalalk | 359
+adaderanasinhalalk | 360
 virakesarilk | 368
 tamilmirrorlk | 423
 adaderanalk | 433
@@ -26,11 +26,25 @@ dailymirrorlk | 459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,376 (100.0%) of 3,376 articles have been extended.
+3,376 (100.0%) of 3,377 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### කැලණියේ විරෝධයට පොලීසියෙන් ජල හා කඳුළු ගෑස්
+
+*2024-01-29 23:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192714) · `si`
+
+කැලණිය විශ්වවිද්‍යාලය අසළ පැවති සිසු විරෝධතාවය විසුරුවාහැරීමට පොලීසියෙන් ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ල කර තිබේ.
+
+මෙම විරෝධතාවය හේතුවෙන් කොළඹ - නුවර ප්‍රධාන මාර්ගයේ කැලණිය විශ්වවිද්‍යාලය ඉදිරිපිටින් නුවර දෙසට ගමන්කරන මංතීරුව සම්පූර්ණයෙන්ම අවහිර විය.
+
+◼️
+
+[Data](articles/c3fdd011.json)
+
+---
 
 ### Social activist Piyat Nikeshla arrested
 
@@ -2057,29 +2071,5 @@ However, Minister of Foreign Affairs Tharaka Balasuriya said that the increase i
 [Data](articles/8f7e785b.json)
 
 [Extended Data](ext_articles/8f7e785b.ext.json)
-
----
-
-### Sabaragamuwa Uni students arrested over ragging incident released on bail
-
-*2024-01-29 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96821/sabaragamuwa-uni-students-arrested-over-ragging-incident-released-on-bail) · `en`
-
-The seven students of the Sabaragamuwa University who were arrested for ragging a female student have been released on bail.
-
-As per the order issued by the Balangoda Magistrate’s Court when the case was taken up this morning (29 Jan.), the seven suspects were released on personal bails of Rs. 100,000 each.
-
-Initially, six male students of the Sabaragamuwa University were arrested by the Samanalawewa Police on Sunday evening (28 Jan.) for ragging a female student, according to police.
-
-The arrests were made following investigations carried out by the Samanalawewa Police based on a complaint received by the ‘1997’ hotline on 14 January.
-
-The arrested suspects, aged 23, 24 and 25, are reportedly a group of fourth year students of the university’s Faculty of Social Sciences and Languages.
-
-Meanwhile, the seventh suspect, a female student of the Sabaragamuwa University, had surrendered herself to the Samanalawewa Police this morning.
-
-◼️
-
-[Data](articles/3520a7da.json)
-
-[Extended Data](ext_articles/3520a7da.ext.json)
 
 ---

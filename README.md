@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 20:49:36**
+As of **2024-01-29 21:02:35**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 456
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,339 (99.8%) of 3,345 articles have been extended.
+3,345 (100.0%) of 3,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### පියත් නිකේෂල අත්අඩංගුවට
+### Piyage Sampasala arrested
 
 *2024-01-29 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192709) · `si`
 
-සමාජ මාධ්‍ය ක්‍රියාකාරී පියත් නිකේෂල මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Criminal Investigations Department has been arrested by the CID.
 
-සමාජ මාධ්‍ය නියාමන පනත යටතේ ගොනුකළ පැමිණිල්ලකට අනුව ප්‍රකාශයක් ලබාදීම සඳහා අද (29) ඔහු කොළඹ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණ ඇත.
+According to a complaint filed by the Social Media Regulatory Act, he has arrived at the Colombo CID today.
 
 ◼️
 
 [Data](articles/67ecd7ea.json)
+
+[Extended Data](ext_articles/67ecd7ea.ext.json)
 
 ---
 
@@ -64,47 +66,53 @@ Afghanistan's tour of Sri Lanka also includes three ODIs and as many T20Is, whic
 
 [Data](articles/d9e3cd31.json)
 
+[Extended Data](ext_articles/d9e3cd31.ext.json)
+
 ---
 
-### 10 வயது சிறுமியை துஷ்பிரயோகப்படுத்தியவருக்கு கடூழிய தண்டனை
+### A 10 -year -old girl abused him
 
 *2024-01-29 19:46:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-வயது-சிறுமியை-துஷ்பிரயோகப்படுத்தியவருக்கு-கடூழிய-தண்டனை/175-332295) · `ta`
 
-சகோதரனின் 10 வயதுடைய மகளை துஷ்பிரயோகத்திற்கு உட்படுத்திய சந்தேகநபருக்கு 50 ஆண்டுகள் கடூழிய சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+The suspect who abused the brother's 10 -year -old daughter has been sentenced to 50 years in prison.
 
-அத்துடன் பாதிக்கப்பட்ட சிறுமிக்கு 10 இலட்சம் ரூபாய் இழப்பீடு வழங்க வேண்டும் எனவும்  கண்டி மேல் நீதிமன்ற நீதிபதி தர்ஷிகா விமலசிறி இன்றைய தினம் உத்தரவிட்டுள்ளார்.
+Kandy High Court Judge Tarshika Wimalasiri today ordered the victim to pay Rs 10 lakh.
 
-அதனை செலுத்த தவறினால் குற்றவாளிக்கு மேலும் 2 ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்படும் எனவும் நீதிபதி அறிவித்துள்ளார்.
+The judge also announced that the accused will be sentenced to 2 years in prison for failing to pay.
 
-2018ஆம் ஆண்டு கண்டி - மஹாமுல்கம பகுதியில், குறித்த 10 வயதுடைய சிறுமியை அவர் பல தடவைகள் துஷ்பிரயோகத்திற்கு உட்படுத்தியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+It is reported that she has been abused several times in the Kandy -Mahamulgama area in 2018.
 
-இந்தநிலையில், 37 வயதுடைய குறித்த சந்தேகநபருக்கு எதிராக 3 வழக்குகளின் கீழ் சட்டமா அதிபரால் 2018ஆம் ஆண்டில் வழக்கு தொடுக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.. R
+In the meantime, the 37 -year -old suspect was sued by the Attorney General in 2018 under three cases.. Remble
 
 ◼️
 
 [Data](articles/74c6ee7c.json)
 
+[Extended Data](ext_articles/74c6ee7c.ext.json)
+
 ---
 
-### பொது இடத்தில் பொலிஸ் அதிகாரியை தாக்கிய பெண் கைது
+### Woman arrested for assaulting police officer in public
 
 *2024-01-29 19:31:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-இடத்தில்-பொலிஸ்-அதிகாரியை-தாக்கிய-பெண்-கைது/175-332294) · `ta`
 
-பொலிஸ் உத்தியோகத்தர் ஒருவரை தகாத வார்த்தைகளால் திட்டி பொலிஸ் உத்தியோகத்தரை தாக்க வந்த குற்றச்சாட்டில் பெண் ஒருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+A woman has been arrested by police for allegedly attacking a police officer by scolding a police officer.
 
-இவ்வாறு ​​கைது செய்யப்பட்டவர் அவுஸ்திரேலியாவில் வசிக்கும் இலங்கைப் பெண் என கந்தர பொலிஸார் தெரிவித்தனர்.
+The arrested person was a Sri Lankan woman living in Australia, Kandara police said.
 
-மாத்தறை தெவிநுவர பகுதியில் முச்சக்கரவண்டியில் பயணித்த பொலிஸ் உத்தியோகத்தர்கள் குழுவொன்று, தனது வாகனத்தின் பாதைக்கு இடையூறு விளைவித்ததாகக் கூறி குறித்த பெண் தான் பயணித்த வாகனத்தை நிறுத்தி பொலிஸ் உத்தியோகத்தருடன் வாக்குவாதத்தில் ஈடுபட்டுள்ளார்.
+A group of police officers traveling in the three -wheeler in the Matara area in Matara, claiming that the woman had disrupted her vehicle, was involved in an argument with the police officer.
 
-குறித்த பெண் பயணித்த சொகுசு ஜீப்பை கந்தர பொலிஸ் நிலையத்திற்கு அருகில் பொலிஸ் உத்தியோகத்தர்கள் தடுத்து நிறுத்தியுள்ளனர்.
+Police officers have stopped the luxury jeep that the female traveler traveled.
 
-அங்கு ஏற்பட்ட வாக்குவாதத்தின் போது, ​​குறித்த சந்தேக நபர் பொலிஸ் உத்தியோகத்தரின் மார்புப் பகுதியில் முழங்கையால் தாக்கியதால், குறித்த அதிகாரி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+During the argument, the suspect was admitted to the hospital as the suspect was hit by an elbow in the chest of the police officer.
 
-அதனையடுத்து, கந்தர பொலிஸார் சந்தேகநபரான பெண்ணைக் கைது செய்ததுடன், குறித்த ஜீப்பை பொலிஸ் காவலில் எடுத்துக்கொண்டனர். R
+Subsequently, Kandara police arrested the suspect and taken the jeep into police custody.. Remble
 
 ◼️
 
 [Data](articles/e19fc30f.json)
+
+[Extended Data](ext_articles/e19fc30f.ext.json)
 
 ---
 
@@ -148,21 +156,21 @@ President’s Counsel is a professional rank and status conferred to the appoint
 
 ---
 
-### නවීන්ට ’’දේශ කීර්ති ශ්‍රී ශාසනාභිමානී ’’ නාමය
+### Navees' 'Pattu Keerthi Sri Sasanawandyani'
 
 *2024-01-29 19:14:35* · [`adalk`](https://www.ada.lk/breaking_news/නවීන්ට-’’දේශ-කීර්ති-ශ්‍රී-ශාසනාභිමානී-’’-නාමය/11-407785) · `si`
 
-සබරගමුව පළාත් ආණ්ඩුකාර අධිනීතිඥ නවින් දිසානායක මහතා සම්බුද්ධ ශාසනයටත් මනුෂ්‍ය  සමාජයටත් කරන ලද සේවාව වෙනුවෙන් "දේශ කීර්ති ශ්‍රී ශාසනාභිමානී " යන ගෞරව නාමයෙන් පිදුම් ලැබීය.
+Governor of the Sabaragamuwa Province Navin Dissanayake was honored with the Sambuddha Sasana and the service of the human society.
 
-රාමඤ්ඤ මහා නිකායේ 161 වැනි අනුස්මරණ මහෝත්සවයදි මහාවිහාර වංශීක ශ්‍රී ලංකා රාමඤ්ඤ මහා නිකායේ අතිපූජ්‍ය මහානායක අග්ගමහා පණ්ඩිත අතිපූජ්‍ය මකූලෑවේ විමල මාහිමිපාණන් වහන්සේ ප්‍රධාන කාරක මහා සංඝ සභාව විසින් ඔහුට මෙම ගෞරව නාමය පිරිනමන ලදී.
+The Most Venerable Mahanayaka Panditha Punhaya, the Chief Prelate of the Mahenna Maha Nikaya was presented by the Chief Prelate of the Ramananayaka Maha Nikaya in the Ramanna Maha Nikaya.
 
-රත්නපුර දිස්ත්‍රික් ලේකම් කාර්යාලය දි  ශ්‍රී ලංකා රාමඤ්ඤ මහා නිකායේ අතිපූජ්‍ය මහානායක අග්ගමහා පණ්ඩිත අතිපූජ්‍ය මකූලෑවේ විමල මහානායක හිමිපාණන්ගේ සුරතින් මහා සංඝරත්නය හි ආශිර්වාද මැද මෙම නාමය පිරිනමන ලදි.
+The name was awarded the name in the Maha Sangha, the Most Venerable Mahanayaka Maha Nikaya at the District Secretariat of Ratnapura.
 
-මෙම 161 වැනි නිකාය දින සැමරුම සදහා හිටපු කතානායක කරු ජයසුරිය මැතිතුමා ,අමාත්‍ය පවිත්‍රා දේවී වන්නිආරච්චි ,හිටපු අමාත්‍ය පාර්ලිමේන්තු මන්ත්‍රී තලතා අතුකෝරළ ,පාර්ලිමේන්තු මන්ත්‍රී ගාමිණී වලේබොඩ ,පාර්ලිමේන්තු මන්ත්‍රී ජයන්ත සමරවීර ,සබරගමුව පළාත් ප්‍රධාන ලේකම් මහින්ද ස් වීරසූරිය ,රත්නපුර දිස්ත්‍රික් ලේකම් ඇතුළු ගිහි පැවැදි විශාල පිරිසක් සහභාගි විය.
-
-◼️
+...
 
 [Data](articles/6bf96f2d.json)
+
+[Extended Data](ext_articles/6bf96f2d.ext.json)
 
 ---
 
@@ -340,21 +348,23 @@ Sri Lanka Navy spokesman Captain Gayan Wickramasuriya says three Somali pirates 
 
 ---
 
-### අමෙරිකානු ඉහළ පෙළේ බලධාරින්ගේ මතයේ වෙනසක්
+### A change in the opinion of American high-level authorities
 
 *2024-01-29 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192708) · `si`
 
-ඊශ්‍රායලය වෙත ආයුධ සැපයීම ප්‍රමාද කිරීම කෙරෙහි අමෙරිකාවේ අවධානය යොමුව තිබේ.
+The United States has focused on delaying the supplying weapons to Israel.
 
-ඊශ්‍රායලයේ ඉල්ලීම මත ගාසා තීරයේ ප්‍රහාර සඳහා අමෙරිකාව විසින් මීට පෙර ආයුධ සපයා තිබුණි.
+In the request of Israel, the US had previously supplied arms before the attack on the Gaza.
 
-කෙසේවෙතත් ඊශ්‍රායලය ඉල්ලා සිටින අධිබල බෝම්බ සහ ගුවන් ආරක්ෂණ පද්ධතිය ඇතුළු ආයුධ සැපයීම ප්‍රමාද කිරීම හෝ අත්හිටුවීම සිදුකළ යුතු බවට අමෙරිකානු ඉහළ පෙළේ බලධාරින්ගේ අවධානය යොමුව ඇති බව වාර්තා වෙයි.
+However, it is reported that the American high level authorities have focused on delaying or suspension of arms, including high-arms and weapons demanding Israel.
 
-පලස්තීන වැසියන්ට මානුෂීය ආධාර සැපයීම සඳහා කොරිඩෝවක් විවෘත කරගැනීමට ඊශ්‍රායල බලධාරීන්ගේ අවධානය යොමුකරවීම අමෙරිකාවේ මෙම තීරණයේ අරමුණ වී ඇති බව විදෙස් මාධ්‍ය වාර්තා සඳහන් කරයි.
+The United States has decided to open a corridor to the Palestinian assistance to help the Palestinian aid to provide humanitarian aid.
 
 ◼️
 
 [Data](articles/db4c7b61.json)
+
+[Extended Data](ext_articles/db4c7b61.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 17:33:42**
+As of **2024-01-29 17:53:00**
 
 ## Newspaper Stats
 
-*Scraped **3,314** Articles*
+*Scraped **3,316** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,37 @@ islandlk | 185
 newsfirstlk | 202
 dailyftlk | 223
 adalk | 303
-adaderanasinhalalk | 350
+adaderanasinhalalk | 351
 virakesarilk | 362
 tamilmirrorlk | 414
 adaderanalk | 426
-dailymirrorlk | 449
+dailymirrorlk | 450
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,314 (100.0%) of 3,314 articles have been extended.
+3,315 (100.0%) of 3,316 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### CEB introduces new methods to pay electricity bills
+
+*2024-01-29 17:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-introduces-new-methods-to-pay-electricity-bills/108-275921) · `en`
+
+Colombo, Jan 29 (Daily Mirror) - The Ceylon Electricity Board (CEB) is working to introduce some new methods for consumers to pay their electricity bills, the board said while issuing a statement.
+
+Accordingly, the CEB has introduced the CEB Care app, online banking services, through the Sri Lanka Postal Department, through the CEB official website (ceb.lk), through bank KIOSK machines and supermarkets and through mCash.
+
+The CEB further said that consumers are requested to make their complaints by calling telephone number 1987 regarding problems arising in this regard.
+
+◼️
+
+[Data](articles/6cfc9bf6.json)
+
+---
 
 ### Suspect in Beliatte Murders Detained for 7 Days
 
@@ -199,6 +215,28 @@ He headed the infantry force of the Sri Lankan Army during the war against the L
 [Data](articles/46b7c767.json)
 
 [Extended Data](ext_articles/46b7c767.ext.json)
+
+---
+
+### Lorcenso son is released 04
+
+*2024-01-29 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192705) · `si`
+
+"Lorcenso Son 04" The Sri Lanka Navy has resigned by the Sri Lankan Navy.
+
+The Sri Lanka Navy stated that three pirates and Seychelles were taken into custody.
+
+The Navy has confirmed that the six fishermen in the fishermen were protesting.
+
+Accordingly, the fishing vessel is being taken to the capital of Seychelles, the Navy added.
+
+"Lorcenso Son Found" on the 12th of the June 4, "Lorcenso Son Found 4" Thamylian pirates had taken up the Somali pirates with six fishermen.
+
+◼️
+
+[Data](articles/fbfcacc6.json)
+
+[Extended Data](ext_articles/fbfcacc6.ext.json)
 
 ---
 
@@ -2017,45 +2055,5 @@ The Deputy Commissioner, who has expressed his displeasure with the police, has 
 [Data](articles/f89a1212.json)
 
 [Extended Data](ext_articles/f89a1212.ext.json)
-
----
-
-### Special commission for development of Galle
-
-*2024-01-29 09:48:30* · [`adalk`](https://www.ada.lk/uncategorized/ගාල්ල-සංවර්ධනයට-විශේෂ-කොමිසමක්/1-407768) · `si`
-
-President Ranil Wickremesinghe has decided to appoint a special commission to accelerate Galle development activities.
-
-President Ranil Wickremesinghe visited Galle and Galle Fort in Galle and Galle Fort area.
-
-The President emphasized the slowest nature of the Galle Fort and the Colombo Fort to be taken out of Galle Fort.
-
-President Ranil Wickremesinghe also explained the need to promote the promotional implementation of President Ranil Wickremesinghe, which pointed to the implementation of the Galle Town Development Plan to implement the Galle Town Development Plan.
-
-The President also consulted in a discussion with local and foreign tourists in the Galle Fort and went to a discussion near the negotiation with the Colombo Fort.
-
-Meanwhile, President Ranil Wickremesinghe was also present at the Galle Literary Festival in Galle Fort.
-
-...
-
-[Data](articles/fa59f99e.json)
-
-[Extended Data](ext_articles/fa59f99e.ext.json)
-
----
-
-### Six students arrested for boiling the new student of the Sabaraya
-
-*2024-01-29 09:39:21* · [`adalk`](https://www.ada.lk/breaking_news/සබරේ-නවක-සිසුවියට-නවක-වදය-දුන්-සිසුන්-6ක්-අත්අඩංගුවට/11-407767) · `si`
-
-Six senior students of the Sabaragamuwa University have arrested six senior students. The Samanala tank has been arrested following a complaint received by the 1977 hotline.
-
-The suspects are between 23-25 years old, aged 23-25 years old.
-
-◼️
-
-[Data](articles/13eb7846.json)
-
-[Extended Data](ext_articles/13eb7846.ext.json)
 
 ---

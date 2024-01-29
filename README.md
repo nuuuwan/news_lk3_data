@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 17:17:17**
+As of **2024-01-29 17:33:42**
 
 ## Newspaper Stats
 
@@ -126,7 +126,11 @@ UPDATE: Three sea pirates have been taken into custody by the Seychelles Navy, a
 
 Captain Gayan Wickramasuriya further revealed that the rescued Sri Lankan fishing trawler is currently being escorted to the Victoria Harbour in Seychelles.
 
-The Seychelles Coast Guard (SCG) has rescued the Sri Lankan fishing trawler, and its 6 crew members, which had been hijacked by sea pirates in the Arabian Sea, according to the Director General of the Fisheries Department.
+The Seychelles Coast Guard (SCG) has rescued the Sri Lankan fishing trawler, and its 6 crew members, which had been hijacked by sea pirates in the Arabian Sea, according to the Director General of the Fisheries Department.
+
+State Minster of Fisheries Piyal Nishantha also revealed that the pirates had allowed the Sri Lankan fishermen captured to communicate with the Ministry following the hijacking.
+
+Sri Lanka sought assistance from the Combined Maritime Forces (CMF), the world’s largest maritime security partnership, on Sunday (28 Jan.), to obtain the release of the fishing trawler and its crew, while India too, pledged to assist in the rescue.
 
 ◼️
 

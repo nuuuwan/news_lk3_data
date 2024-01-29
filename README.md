@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 02:02:29**
+As of **2024-01-30 02:32:45**
 
 ## Newspaper Stats
 
-*Scraped **3,392** Articles*
+*Scraped **3,395** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 43
+colombotelegraphcom | 46
 bbccomsinhala | 56
 dbsjeyarajcom | 125
 islandlk | 185
@@ -26,7 +26,7 @@ dailymirrorlk | 461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,382 (99.7%) of 3,392 articles have been extended.
+3,391 (99.9%) of 3,395 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ During a press conference at the Opposition Leader’s office over the weekend, 
 
 [Data](articles/8bfd8ee6.json)
 
+[Extended Data](ext_articles/8bfd8ee6.ext.json)
+
 ---
 
 ### Ex-Army Chief joins SJB
@@ -72,6 +74,8 @@ Ratnayake, an alum of Maliyadeva College, Kurunegala, commenced his military jou
 
 [Data](articles/881bb029.json)
 
+[Extended Data](ext_articles/881bb029.ext.json)
+
 ---
 
 ### Seychelles Coast Guard rescues lost fishing vessel ’’Lorenzo Putha 4’’ and Lankans in Arabian Sea
@@ -90,6 +94,8 @@ Consequently, the Sri Lanka Navy informed the joint maritime force, consisting o
 
 [Data](articles/f9973f04.json)
 
+[Extended Data](ext_articles/f9973f04.ext.json)
+
 ---
 
 ### USAID, CCC with SLEDB equip officers to boost regional SME exports
@@ -104,6 +110,8 @@ At an award ceremony on 18 January, SLEDB, USAID PARTNER and CCC, recognised the
 
 [Data](articles/6a582663.json)
 
+[Extended Data](ext_articles/6a582663.ext.json)
+
 ---
 
 ### B&N in exclusive channel partnership to market N9 World Technologies products in SL
@@ -117,6 +125,8 @@ Driven by a mutual dedication to innovation and sustainability, this partnership
 ...
 
 [Data](articles/c4c028ac.json)
+
+[Extended Data](ext_articles/c4c028ac.ext.json)
 
 ---
 
@@ -136,6 +146,8 @@ Jacob’s previous roles in support and sales have provided him with a deep unde
 
 [Data](articles/3f34ed7d.json)
 
+[Extended Data](ext_articles/3f34ed7d.ext.json)
+
 ---
 
 ### APTA business leaders and professionals initiate green business circle
@@ -150,6 +162,8 @@ The Asia-Pacific Trade Agreement Chamber of Commerce and Industry (APTA CCI) con
 
 [Data](articles/e02684fb.json)
 
+[Extended Data](ext_articles/e02684fb.ext.json)
+
 ---
 
 ### Is a “production economy” the solution?
@@ -163,6 +177,8 @@ Every few years, Sri Lanka’s weakness in manufacturing comes up as the cause o
 ...
 
 [Data](articles/ef2be76e.json)
+
+[Extended Data](ext_articles/ef2be76e.ext.json)
 
 ---
 
@@ -179,6 +195,8 @@ The Annual Meeting of the World Economic Forum for the year 2024 is held from 15
 ...
 
 [Data](articles/ad62759a.json)
+
+[Extended Data](ext_articles/ad62759a.ext.json)
 
 ---
 
@@ -820,6 +838,20 @@ Ukraine says there was no risk of genocide in eastern Ukraine, where it had been
 
 ---
 
+### Whispering Mountains; Revealing An Open Secret
+
+*2024-01-29 19:18:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/whispering-mountains-revealing-an-open-secret/) · `en`
+
+The fact that even though eyes are ours, we are supposed to see what is painted by them, has been reaffirmed by events recently occurred in Sri Lanka. When we see beyond it, we are at the risk of losing even our lives. This is an idea that I have to always tell myself once I see how hard and tactfully the rulers of this country are trying to paint that picture to be seen and praised by us as citizens.
+
+A good film, in my opinion, should be a combination of 50% from reality and another 50% from the imagination. When it’s closer to reality, it’s called a documentary, when it’s closer to the imagination, it’s called fiction. The film “Whispering Mountains” has made that platform where we can build our own imagination and criticism based on reality, as it keeps a good balance between reality and imagination.
+
+...
+
+[Data](articles/f5deaea1.json)
+
+---
+
 ### Ten President’s Counsels take silk
 
 *2024-01-29 19:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ten-Presidents-Counsels-take-silk/108-275922) · `en`
@@ -853,6 +885,30 @@ The name was awarded the name in the Maha Sangha, the Most Venerable Mahanayaka 
 [Data](articles/6bf96f2d.json)
 
 [Extended Data](ext_articles/6bf96f2d.ext.json)
+
+---
+
+### Legalizing Prostitution – A Response
+
+*2024-01-29 19:10:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/legalizing-prostitution-a-response/) · `en`
+
+I refer to the Front Page news report in the Daily News of 18th January 2024 under the heading “NPP Will Legalise Prostitution – Says Party Executive Member Samanmalee Gunasinghe” and express my views in response:
+
+...
+
+[Data](articles/421fabe3.json)
+
+---
+
+### Flight Of Human Capital – A Catastrophic Fait Accompli
+
+*2024-01-29 18:58:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/flight-of-human-capital-a-catastrophic-fait-accompli/) · `en`
+
+Sri Lanka (SL) is experiencing mass exodus of professionals and skilled manpower. The crippling economic crisis that has beleaguered the nation is driving many professionals and skilled individuals away towards greener pastures. As reported by the Ministry of Health, nearly 1000 Doctors have migrated during the period from May’22 to May’23. Many doctors, specialists, and heath care professionals are migrating and this situation is precipitating health security crisis for needy mainly dependent on public sector medical care.
+
+...
+
+[Data](articles/9cc70dcb.json)
 
 ---
 
@@ -1933,63 +1989,5 @@ This year's awards winning awards winning awards winning "Rocky Or Kamani Prem '
 [Data](articles/855a2ee0.json)
 
 [Extended Data](ext_articles/855a2ee0.ext.json)
-
----
-
-### Sri Lanka delegation in China discuss investment opportunities, export of water
-
-*2024-01-29 14:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-delegation-in-china-discuss-investment-opportunities-export-of-water-148968/) · `en`
-
-ECONOMYNEXT – A Sri Lankan delegation in China has met with Chinese businessmen to discuss ‘environmentally friendly investment programs’ in Sri Lanka.
-
-Minister of State for Sports and Youth Affairs Rohana Dissanayake visited China recently for a Sri Lanka-China trade investment program, the Department of Government Information said in a statement.
-
-Possibilities discussed were “the importation of electric cars, electric motorcycles and three-wheelers, light lorries based on the business environment for the purpose of government employees, or investments in starting factories for production in Sri Lanka,” the statement read.
-
-The introduction of modern machinery and farming equipment was also discussed, as cutting down production cost and increasing harvests was a problem for Sri Lankan farmers.
-
-...
-
-[Data](articles/2a9659ea.json)
-
-[Extended Data](ext_articles/2a9659ea.ext.json)
-
----
-
-### Colombo Port sees surge in ship arrivals due to Red Sea crisis
-
-*2024-01-29 14:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96824/colombo-port-sees-surge-in-ship-arrivals-due-to-red-sea-crisis-) · `en`
-
-Sri Lanka’s Minister of Ports, Shipping and Aviation Nimal Siripala de Silva has stated that the recent increase in the number of ship arrivals at the Colombo Port is likely due to the Red Sea crisis.
-
-Accordingly, the Minister revealed that the number of ships docking at the Colombo Port has increased by 35% within the month of January, while container operations at the port have also increased by 72%.
-
-Minister Nimal Siripala de Silva made these remarks while attending a special inspection of the Jaya Container Terminal (JCT) of the Sri Lanka Ports Authority (SLPA).
-
-Commenting on the increase in ship arrivals recorded at the Colombo Port, however, State Minister of Foreign Affairs Tharaka Balasuriya claimed that he remains dissatisfied that this increase is likely attributed to the Red Sea crisis.
-
-◼️
-
-[Data](articles/5bcae780.json)
-
-[Extended Data](ext_articles/5bcae780.ext.json)
-
----
-
-### Horton Poor
-
-*2024-01-29 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192701) · `si`
-
-These days, the plightlessnesses are found in the mountainous cold weather conditions in Sri Lanka these days.
-
-In this backdrop, the stimulation of the Nuwara Eliya Planna area was focused on every day.
-
-During the time of 6 to 8 am, the Generated position of the Hoton Plains area of 3 degrees Celsius was recorded in the cold 3 degrees cold.
-
-◼️
-
-[Data](articles/fd6f5d0e.json)
-
-[Extended Data](ext_articles/fd6f5d0e.ext.json)
 
 ---

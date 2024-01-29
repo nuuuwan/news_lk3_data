@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 16:48:13**
+As of **2024-01-29 17:02:35**
 
 ## Newspaper Stats
 
-*Scraped **3,307** Articles*
+*Scraped **3,314** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,50 +13,102 @@ bbccomsinhala | 55
 dbsjeyarajcom | 125
 economynextcom | 177
 islandlk | 185
-newsfirstlk | 200
+newsfirstlk | 202
 dailyftlk | 223
-adalk | 302
+adalk | 303
 adaderanasinhalalk | 350
 virakesarilk | 362
 tamilmirrorlk | 414
 adaderanalk | 426
-dailymirrorlk | 445
+dailymirrorlk | 449
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,303 (99.9%) of 3,307 articles have been extended.
+3,307 (99.8%) of 3,314 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### கிழக்குப் பல்கலையில் கொக்கட்டிச்சோலை படுகொலை நினைவேந்தல்!
+### Suspect in Beliatte Murders Detained for 7 Days
 
-*2024-01-29 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175077) · `ta`
+*2024-01-29 16:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/suspect-in-beliatte-murders-detained-for-7-days/) · `en`
 
-மட்டக்களப்பு கொக்கட்டிச்சோலையில் ஶ்ரீ லங்கா இராணுவத்தினால் 28.01.1987 ஆம் ஆண்டு சுட்டு படுகொலை செய்யப்பட்ட 83 அப்பாவி தமிழ் உறவுகளின் நினைவேந்தல் கிழக்குப் பல்கலைக்கழக தமிழ் மாணவர்களால்  பொங்கு தமிழ்த் தூபியில் முன்பாக ஈகைச்சுடரேற்றி முன்னெடுக்கப்பட்டது.
+COLOMBO (News 1st); Sri Lanka Police have launched an investigation into a 34-year-old man from Rathgama for allegedly aiding and abetting the assassination of five people in Beliatte, recently.
 
-கிழக்குப் பல்கலைகழகத்தின் அனைத்துப் பீட தமிழ் மாணவர்களினால் குறித்த நினைவேந்தல் முன்னெடுக்கப்பட்டமை குறிப்பிடத்தக்கது
+The suspect, who was apprehended in the Dodanduwa area on Saturday (27), is being held under a seven-day detention order, and is believed to have played a crucial role in transporting the murder weapons and assisting the main perpetrator.
+
+According to police reports, the suspect took two T56 firearms used in the killings from the main suspect and transported them from Akuressa to Karapitiya on a motorcycle.
+
+Police have also seized the motorcycle used in this operation, along with two mobile phones belonging to the suspect. He was handed over to the Beliatte police for further investigation.
+
+This latest arrest brings the total number of individuals detained in connection with the Beliatta murders to four.
+
+...
+
+[Data](articles/45cd98a6.json)
+
+---
+
+### Sri Lankan fishermen captured by Somali pirates rescued
+
+*2024-01-29 16:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-fishermen-captured-by-Somali-pirates-rescued/108-275919) · `en`
+
+Colombo, Jan 29 (daily Mirror) - The Seychelles Coast Guard (SCG) has rescued six Sri Lankan fishermen who were captured by Somali pirates along with their multi-day fishing trawler, said Navy spokesman Capt. Gayan Wickramasinghe.
+
+◼️
+
+[Data](articles/9a9d1eb8.json)
+
+---
+
+### Lawrenceo Buddha rescued from Somalia robbers!
+
+*2024-01-29 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175076) · `ta`
+
+Sri Lankan fishing boat. The Department of Seychelles has confirmed this, the department said.
+
+The fishing boat, which joined his virgin trip on the 12th, was seized by Somali pirates with 6 fishermen last Saturday.
+
+◼️
+
+[Data](articles/68ec48ed.json)
+
+[Extended Data](ext_articles/68ec48ed.ext.json)
+
+---
+
+### Kokkaticholai massacre in the East
+
+*2024-01-29 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175077) · `ta`
+
+83 innocent Tamil relations, which were shot dead by the Sri Lanka Army in Kokkadichola, Batticaloa, were carried out in front of the Tamil students of the Tamil Eastern University of Tamil Eastern University.
+
+It is noteworthy that the commemoration was carried out by all Tamil students of the Eastern University
 
 ◼️
 
 [Data](articles/2ff115dd.json)
 
+[Extended Data](ext_articles/2ff115dd.ext.json)
+
 ---
 
-### சோமாலியா கொள்ளையர்களிடமிருந்து மீட்கப்பட்ட லோரன்சோ புத்தா!
+### Maldives’ main Opposition to file impeachment motion against President Muizzu
 
-*2024-01-29 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175076) · `ta`
+*2024-01-29 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maldives-main-Opposition-to-file-impeachment-motion-against-President-Muizzu/108-275918) · `en`
 
-இலங்கை மீன்பிடிப் படகான லோரன்சோ புத்தா "சீஷெல்ஸ் கடலோர காவல்படையினரால் மீட்கப்பட்டுள்ளதாக கடற்றொழில் திணைக்களம் தெரிவித்துள்ளது. இதனை சீஷெல்ஸ் தூதரகம் உறுதிப்படுத்தியதாக திணைக்களம் குறிப்பிட்டுள்ளது.
+Colombo, Jan 29 (Maldives) -  The main opposition party of Maldives, Maldivian Democratic Party, which holds a majority in the Parliament, is set to file an impeachment motion against President Mohamed Muizzu, local media reported on Monday.
 
-கடந்த 12 ஆம் திகதி தனது கன்னிப் பயணத்தில் இணைந்த இந்த மீன்பிடிப் படகு கடந்த சனிக்கிழமை 6 மீனவர்களுடன் சோமாலிய கடற்கொள்ளையர்களால் கைப்பற்றப்பட்டிருந்தது.
+This comes a day after violence erupted in the Maldives Parliament as government MPs from the pro-government parties People’s National Congress (PNC) and Progressive Party of Maldives (PPM) disrupted proceedings and confronted the Speakers.
 
-◼️
+As per Maldives-based news portal Adhahdhu, a total of 34 members, comprising representatives from both the MDP and Democrats, have expressed their support for the motion to impeach the president.
 
-[Data](articles/68ec48ed.json)
+...
+
+[Data](articles/f7bfcc4b.json)
 
 ---
 
@@ -64,11 +116,37 @@ Extensions include translations and NER (Named Entity Recognition).
 
 *2024-01-29 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96826/sri-lankan-fishing-trawler-and-crew-hijacked-by-pirates-rescued) · `en`
 
+UPDATE: Three sea pirates have been taken into custody by the Seychelles Navy, according to the spokesman of the Sri Lanka Navy.
+
+Captain Gayan Wickramasuriya further revealed that the rescued Sri Lankan fishing trawler is currently being escorted to the Victoria Harbour in Seychelles.
+
 The Seychelles Coast Guard (SCG) has rescued the Sri Lankan fishing trawler, and its 6 crew members, which had been hijacked by sea pirates in the Arabian Sea, according to the Director General of the Fisheries Department.
 
 ◼️
 
 [Data](articles/7bbc05dc.json)
+
+[Extended Data](ext_articles/7bbc05dc.ext.json)
+
+---
+
+### Former Army Chief Daya Ratnayake Joins SJB
+
+*2024-01-29 16:09:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/former-army-chief-daya-ratnayake-joins-sjb/) · `en`
+
+COLOMBO (News 1st); Former Commander of the Sri Lanka Army, General Daya Ratnayake had joined with the Samagi Jana Balavegaya.
+
+General Ratnayake called on Opposition Leader Sajith Premadasa on Monday (29) and extended his support to the SJB.
+
+According to the Samagi Jana Balavegaya, General Daya Ratnayake was appointed as the SJBs Senior Advisor for State Policy by Sajith Premadasa.
+
+General Ratnayake was the 20th Commander of the Sri Lanka Army.
+
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
+
+◼️
+
+[Data](articles/85fac885.json)
 
 ---
 
@@ -89,6 +167,24 @@ Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th 
 ◼️
 
 [Data](articles/5a43823b.json)
+
+[Extended Data](ext_articles/5a43823b.ext.json)
+
+---
+
+### Former Army Commander Daya Ratnayake joins SJB
+
+*2024-01-29 16:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Army-Commander-Daya-Ratnayake-joins-SJB/108-275917) · `en`
+
+Colombo, Jan 29 (Daily Mirror) -  Former Army Commander General Daya Ratnayake has joined the Samagi Jana Balawegaya (SJB) and has been appointed as the party’s senior advisor on state affairs, the Opposition Leader’s office said.
+
+General Ratnayake obtained his membership and the party position from Leader of the Opposition Sajith Premadasa.
+
+He headed the infantry force of the Sri Lankan Army during the war against the LTTE and was responsible for rehabilitating ex-LTTE combatants.
+
+◼️
+
+[Data](articles/46b7c767.json)
 
 ---
 
@@ -350,6 +446,22 @@ As per the report, the estimated value of services exports for the period of Jan
 
 ---
 
+### Easter Sunday bombers are NPP associates: Nimal Lanza
+
+*2024-01-29 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Easter-Sunday-bombers-are-NPP-associates-Nimal-Lanza/108-275916) · `en`
+
+Colombo, Jan 29 (Daily Mirror) -  The terror group which carried out the Easter Sunday bomb attacks are associates of the National People’s Power (NPP) and had actually funded the Marxists, MP Nimal Lanza said over the weekend.
+
+“Ibrahim who was a key suspect in the Easter Sunday attacks was in the NPP national list. The father of one of the suicide bombers was also in the NPP national list. This group has funded the NPP with millions of rupees. Catholics in this country should remember this fact when casting their votes,” Lanza said during the inaugural rally of the new alliance that is in the making.
+
+“NPP leaders have not paid a single cent as taxes. They have not provided employment to a single youth, unlike us. This is because they don’t own any enterprises. They are not employed. However, they lead more comfortable lives than any one of us,” he said.
+
+◼️
+
+[Data](articles/b274677a.json)
+
+---
+
 ### 10 Indian fishermen arrested in Point Pedro Sea
 
 *2024-01-29 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175072) · `ta`
@@ -487,6 +599,22 @@ The State Minister also noted that a new property tax is slated to be introduced
 [Data](articles/e8ae4d86.json)
 
 [Extended Data](ext_articles/e8ae4d86.ext.json)
+
+---
+
+### කෝටිපතියන් 1212ක් බදු පැහැර හැරලා
+
+*2024-01-29 14:15:11* · [`adalk`](https://www.ada.lk/breaking_news/කෝටිපතියන්-1212ක්-බදු-පැහැර-හැරලා/11-407779) · `si`
+
+රටේ සුපිරි ධනවතුන් කෝටිපතියන් 1212ක් බදු පැහැර හැර ඇති මුත් සාමාන්‍ය ජනතාව වැට් බදු වැඩි කිරීම නිසා 30000කට වැඩි බදු මාසිකව ගෙවන බවත් මහජන සහ ලංකා බැංකුවෙන් ඇප නොමැතිව ණය ගත් සුපිරි කෝටිපති ආයතන ණය නොගෙවා රටට විශාල පාඩුවක් කර ගජමිතුර දේශපාලනඥයන් හරහා රටට වාසිදායක ගිවිසුම් සකස් කරමින් ණය පැහැර හරිමින් සිටින බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+එහෙත් පරාටේ නීතිය ගෙනවිත් ක්ෂුද්‍ර කුඩා හා මධ්‍ය පරිමාණ කර්මාන්ත කරුවන්ගේ පුද්ගලික දේපල වෙන්දේසි කරන බවත් මේ තත්ත්වය නතර කළ යුතු බවත් විපක්ෂ නායකවරයා වැඩිදුරටත් පැවසීය.
+
+රටේ ජනතාව මිනිමරු ත්‍රස්තවාදයෙන් මුදවා ඇස් ඉස් මස් ලේ රට දැය වෙනුවෙන් පූජා කර ත්‍රස්තවාදය මුලින් උපුටා දැමීමට ඉටුකළ දැවැන්ත අමරණීය සේවාව සමගි ජන බලවේගය කිසිදා අමතක නොකරන බවත් එසේ මුදවා ගත් රටේ නායකයෝ ක්‍රියාත්මක කළ ආර්ථික ත්‍රස්තවාදයෙන් මහබැංකු අරමුදල්වලට පිට් පොකට් ගැසු බවත් විපක්ෂ නායකවරයා පැවසීය.
+
+...
+
+[Data](articles/f4a77963.json)
 
 ---
 
@@ -1903,155 +2031,5 @@ The suspects are between 23-25 years old, aged 23-25 years old.
 [Data](articles/13eb7846.json)
 
 [Extended Data](ext_articles/13eb7846.ext.json)
-
----
-
-### The Serjeant-at-42 years of experience in the middle of the grenade attacks, mirystal attacks
-
-*2024-01-29 09:37:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxrky1z1p42o) · `si`
-
-There is no containing anything. Play Video, "Gregard Attacks," Difficulty in the Middle Year 35 years of Running Time, 42 Video Head, Once MPs, he took away the maceFailed to bear.
-
-The Serjeant-at-42 years of experience in the middle of the grenade attacks, mirystal attacks
-
-The uniformed officer of the official permission of the parliament is a weapon of a Lieutenant General's rank, the Senarandra Fernando is the Senarandi Narendra Fernando of 42 years of service.
-
-Once he was appointed as the Serjeant-at-Arms, MPs failed to bear their attempts to abduct the Mace at the highest number of times.
-
-He served a special role in the security of the Parliament during the miriskadu attack and the grenade attack.
-
-At the time of the struggle, he had to face many challenges when the Passover attack took place.
-
-The Indone Narendra Fernando in a discussion with BBC Sinhala service.
-
-He noted that this is the first time some facts proclaiming the media.
-
-◼️
-
-[Data](articles/6323c937.json)
-
-[Extended Data](ext_articles/6323c937.ext.json)
-
----
-
-### Govt. executive officers launch ‘sick leave’ trade union action
-
-*2024-01-29 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96814/govt-executive-officers-launch-sick-leave-trade-union-action-) · `en`
-
-All executive-grade government officers have launched a trade union action by reporting sick today (29), the Joint Committee of All-Island Executive Officers said.
-
-The Chairman of the joint committee H.L.A. Udayasiri stated that the relevant trade union action was launched based on several demands, and that a conference will be held with the participation of all executive-grade officers of the government sector today.
-
-“Today, the executive officers of the government, representing the joint committee, decided to enter into a trade union action, representing the island-wide and parallel services and departmental services. The executive officers representing the departmental services such as the Proprietorship Service, Education Administration Service, Ayurvedic Medical Service, and Surveying of the country, which are considered as the country-wide services, will meet in Colombo and hold a conference...”, he said.
-
-...
-
-[Data](articles/241b05e7.json)
-
-[Extended Data](ext_articles/241b05e7.ext.json)
-
----
-
-### 30 shops in Mawanella
-
-*2024-01-29 09:36:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவனல்லையில்-30-கடைகள்-எரிந்து-நாசம்/175-332256) · `ta`
-
-A fire broke out in front of the main bus station in Mawanella last night.
-
-The police, along with the fire brigade of the Mawanella Pradeshiya Sabha and the residents of the area, brought the fire under control.
-
-Many shops that sell fruits, jewelery and plastic products were destroyed in the fire.
-
-The cause of the fire has not yet been detected and the Mawanella police are conducting further investigations. Remble
-
-◼️
-
-[Data](articles/073f5b28.json)
-
-[Extended Data](ext_articles/073f5b28.ext.json)
-
----
-
-### Sri Lanka rupee opens at 317.50/90 to the US dollar
-
-*2024-01-29 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-317-50-90-to-the-us-dollar-148909/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 317.50/90 to the US dollar on Monday, from 317.50/80 the previous day, dealers said.
-
-A bond maturing on 01.02.2026 was quoted at 13.10/25 percent from 13.10/20 percent.
-
-A bond maturing on 15.03.2028 was quoted at 13.70/85 percent from 13.70/80 percent.
-
-The Colombo Stock Exchange opened up, the All Share Price Index was up 0.04 percent at 10,339, and the S&P SL20 was up 0.19 percent at 2,934. (Colombo/Jan29/2024)
-
-◼️
-
-[Data](articles/510d99fd.json)
-
-[Extended Data](ext_articles/510d99fd.ext.json)
-
----
-
-### 11 days of her infule, parents flect
-
-*2024-01-29 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192687) · `si`
-
-Attorney-at-Law Jayaseprama B.. Tennakoon sentenced to the Kurunegala headquarters police.
-
-While receiving treatment at the hospital's premature infant care unit, he was killed.
-
-The Acting Magistrate has directly issued the police after the child performed at the Kurunegala Teaching Hospital at Kurunegala Teaching Hospital.
-
-The mother born in a premature condition had left the child into the infant integrity unit and had left the hospital after a few days ago.
-
-In the meantime, the infant who was receiving treatment at the ICU.
-
-Acting Magistrate Tenakoon, acting to conduct a DNA testing to them to ensure the identity of the baby, to ensure the identity of the deceased Magistrate Tenakoon, was appointed to the police.
-
-The Acting Magistrate also addressed information that the baby's parents could escape from the country to inform the Bandaranaike International Airport.
-
-Police said that a young couple who a resident of Godawela suspects the parents of the infant.
-
-...
-
-[Data](articles/4cb0e621.json)
-
-[Extended Data](ext_articles/4cb0e621.ext.json)
-
----
-
-### Oman air to stop flights to Colombo
-
-*2024-01-29 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Oman-air-to-stop-flights-to-Colombo/108-275886) · `en`
-
-Muscat, Jan 29 (Times of Oman) -  As part of its ongoing transformation, which aims to improve the company’s overall financial performance and fortify its position in an increasingly competitive market, Oman Air has announced several strategic changes to its network.
-
-These include the addition of a new route, Sialkot, as well as the cancellation of operations to Islamabad, Lahore, Colombo and Chittagong. The airline will also be reducing frequencies to certain markets while increasing capacity to two current destinations (Lucknow and Thiruvananthapuram).
-
-In addition, three destinations will be operated on a seasonal basis: Trabzon during the summer season, and Zurich and Malé during winter.
-
-...
-
-[Data](articles/a0fc6d1e.json)
-
-[Extended Data](ext_articles/a0fc6d1e.ext.json)
-
----
-
-### Somali Navy Chief contacts EU Navy
-
-*2024-01-29 09:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Somali-Navy-Chief-contacts-EU-Navy/155-275882) · `en`
-
-Colombo, Jan 29 (Daily Mirror) - Somali Navy Abdi Warsame Osman has contacted the European Union Joint Operation Centre to secure the release of the Sri Lankans abducted by the Somali pirates, an official said.
-
-When contacted by Daily Mirror, Sri Lankan High Commissioner in Kenya Kana Kananathan said that he along with his colleague in Ethiopia is actively engaged in a close collaboration with the Navy Chief of Somalia to secure the safe release of Sri Lankan nationals who were abducted by Somali pirates.
-
-According to Mr. Kananathan, the Somali Navy Chief has informed the European Union Navy Joint Operation Centre through their Liaison Officer about the ongoing efforts to address the situation and ensure the safe return of the abducted Sri Lankans.
-
-...
-
-[Data](articles/f244f9c2.json)
-
-[Extended Data](ext_articles/f244f9c2.ext.json)
 
 ---

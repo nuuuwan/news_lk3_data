@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 08:32:58**
+As of **2024-01-29 08:50:35**
 
 ## Newspaper Stats
 
-*Scraped **3,183** Articles*
+*Scraped **3,188** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ economynextcom | 174
 newsfirstlk | 184
 islandlk | 185
 dailyftlk | 223
-adalk | 288
-adaderanasinhalalk | 329
+adalk | 290
+adaderanasinhalalk | 332
 virakesarilk | 333
 tamilmirrorlk | 401
 adaderanalk | 412
@@ -26,11 +26,85 @@ dailymirrorlk | 433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,179 (99.9%) of 3,183 articles have been extended.
+3,188 (100.0%) of 3,188 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### All executives of the public sector get sick today
+
+*2024-01-29 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192684) · `si`
+
+All Executive Officers of the Public Sector (CSE) has reportedly reported a trade union action today (29), according to the integrated committee of government executives.
+
+The Professional Advisor has been established based on several demands and has held a convention with the participation of all Executors today.
+
+"The government executive officers representing the Joint Committee of the Joint Committee on the Joint Committee and decided to enter the trade union measures representing the other island, departmental services and executives of the country.. Executives meet in Colombo and representing the scientific medical services, including the educational Administrative Service, including otherwide service in this country today.
+
+The Joint Committee of Government Executive Officers should be resolved expeditiously solutions to the unseisen vocational issues of the Executive Service.
+
+◼️
+
+[Data](articles/624530d2.json)
+
+[Extended Data](ext_articles/624530d2.ext.json)
+
+---
+
+### Dollar of dollar causes of upcountry
+
+*2024-01-29 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192683) · `si`
+
+It is reported that the train services to continue to take place in the Kandyan road have been reduced to the rice of the train decomposition and silbinda.
+
+The train derailment from Hatton to Badulla was very common and a train was derailed in the Hatton Siggimala Pyali.
+
+It is reported that the tracks and silpies used for this section have not been repaired in a long time.
+
+The train dealers and trains used in the installation of their nails and tracks should be imported from countries in the European region.
+
+It is said that credit letters have been opened to import these several years ago.
+
+However, the importations have delayed due to the coronary epidemic and the economic crisis and the economic crisis and the dollar reserves.
+
+The delay has been time to date, but no longer can bring the rails and the equipment due to the shortage of dollar reserves.
+
+Meanwhile, passengers have been transported by buses belonging to the Sri Lanka Transport Board at the time of their delegation.
+
+◼️
+
+[Data](articles/67c15abe.json)
+
+[Extended Data](ext_articles/67c15abe.ext.json)
+
+---
+
+### A strong decision about the coming elections
+
+*2024-01-29 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192682) · `si`
+
+Political critics point out that there will be a powerful factor to produce a government or to select a government in Tamil political parties and the support of the country's minorities in the coming elections.
+
+The minority baliary has increased to 31 percent in Sri Lanka.
+
+Political commentators also stated that the general election and the presidential election will depend on the way Tamil political parties will be supported.
+
+These conditions may be very different with the political leadership that is known to the North and East as well as the plantation.
+
+The support of the Ilangaitamil Auru Kachchi party and support of the Muslim parties will be the same.
+
+Sri Lanka's Sinhala political party leaders have also paid close attention to the victory of the Ilangai Thamil Arascaki.
+
+The reason is that the TNA leader appears to be the leader of the TNA and the leader of the Tamil National Alliance.
+
+◼️
+
+[Data](articles/eda39e18.json)
+
+[Extended Data](ext_articles/eda39e18.ext.json)
+
+---
 
 ### Three US troops killed, up to 34 injured in Jordan drone strike linked to Iran
 
@@ -49,6 +123,8 @@ Biden later asked for a moment of silence for the three killed service members d
 ...
 
 [Data](articles/047e6b6f.json)
+
+[Extended Data](ext_articles/047e6b6f.ext.json)
 
 ---
 
@@ -74,19 +150,21 @@ Meanwhile, doctors are recommended that Mr. Chamara Weerasinghe recovered furthe
 
 ---
 
-### நாட்டின் சில பகுதிகளில் இன்று மழை
+### Rain in some parts of the country today
 
 *2024-01-29 07:38:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-இன்று-மழை/175-332254) · `ta`
 
-நாட்டின் சில பகுதிகளில் இன்று மழையுடனான காலநிலை நிலவும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+The Department of Meteorology has forecast rainy weather in some parts of the country today.
 
-இதன்படி கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை, மாத்தளை மற்றும் நுவரெலியா ஆகிய மாவட்டங்களிலும் ஓரளவு மழை பெய்யக்கூடும் என தெரிவிக்கப்பட்டுள்ளது.
+Accordingly, there will be some rainfall in the Eastern and Uva Provinces and Polonnaruwa, Matale and Nuwara Eliya districts.
 
-அத்துடன், மேல் மற்றும் சபரகமுவ மாகாணங்களிலும் காலி, மாத்தறை மற்றும் கண்டி ஆகிய மாவட்டங்களிலும் பிற்பகல் 2 மணிக்கு பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது. (a)
+The Department of Meteorology has announced that rain or thunderstorms will occur at 2 pm in the Western and Sabaragamuwa Provinces and the districts of Galle, Matara and Kandy at 2 pm.. (A)
 
 ◼️
 
 [Data](articles/5c4eb458.json)
+
+[Extended Data](ext_articles/5c4eb458.ext.json)
 
 ---
 
@@ -118,35 +196,39 @@ The US president has also reported that the attack has taken place in Jordan, wh
 
 ---
 
-### பல்கலைக்கழக மாணவர்கள் 6 பேர் கைது
+### 6 university students arrested
 
 *2024-01-29 07:33:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மாணவர்கள்-6-பேர்-கைது/175-332253) · `ta`
 
-மாணவி ஒருவரை பகிடிவதைக்கு உள்ளாக்கியமை தொடர்பில் சபரகமுவ பல்கலைக்கழகத்தைச் சேர்ந்த 6 மாணவர்கள் கைதுசெய்யப்பட்டுள்ளனர் என பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+Six students from Sabaragamuwa University have been arrested for allegedly sharing a student, police media unit said.
 
-கடந்த 14 ஆம் திகதி சமனலவெவ பொலிஸாருக்கு  கிடைத்த முறைப்பாட்டுக்கமைய, மேற்கொள்ளப்பட்ட விசாரணைகளின்படி, குறித்த மாணவர்கள் நேற்றைய தினம் கைதுசெய்யப்பட்டுள்ளனர்.
+According to the complaint received by the Samanalawewa police on the 14th, the students were arrested yesterday.
 
-குறித்த பல்கலைக்கழகத்தின் சமூக விஞ்ஞானம் மற்றும் மொழியியல் கற்கை பீடத்தின் நான்காம் ஆண்டு மாணவர்களே இவ்வாறு கைதாகியுள்ளதாக பொலிஸ் ஊடகப் பிரிவு குறிப்பிட்டுள்ளது. (a)
+The fourth -year students of the Faculty of Social Science and Linguistics of the University have been arrested.. (A)
 
 ◼️
 
 [Data](articles/5ca200ca.json)
 
+[Extended Data](ext_articles/5ca200ca.ext.json)
+
 ---
 
-### பாராளுமன்றத்தில் பரபரப்பு;காணொளி
+### Excitement in Parliament; Video
 
 *2024-01-29 07:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-பரபரப்பு-காணொளி/175-332252) · `ta`
 
-ஆளும்கட்சியினர் எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர்களுடன் மோதலில் ஈடுபட்டதால், நேற்று (28) ஞாயிற்றுக்கிழமை மாலத்தீவு பாராளுமன்றத்தில் பெரும் குழப்பம் ஏற்பட்டது.
+The ruling party was involved in a confrontation with opposition MPs, and there was great confusion in the Maldives parliament on Sunday (28).
 
-ஜனாதிபதி மொஹமட் முய்ஸுவின் அமைச்சரவைக்கான முக்கியமான வாக்கெடுப்பின் போது நடந்ததாகக் கூறப்படும் இந்த சம்பவம், இரு தரப்பிலிருந்தும் சட்டமியற்றுபவர்கள் கடுமையான வார்த்தைகளை பரிமாறிக்கொண்டதுடன் கலவரமாக மாறியது.
+The incident, which was alleged to have taken place during the important referendum for President Mohamed Muizu's Cabinet, became a riot of lawmakers from both sides.
 
-ކެނދިކުޅުދޫ ދާއިރާގެ މެމްބަރު އީސާގެ ފައިގައި ހިފައި ކަނޑިތީމު މެމްބަރު ޝަހީމް ވައްޓާލާ މަންޒަރު. އެމްޑީޕީ ދޫކޮށް ޕީއެންސީއާ ގުޅުނު ސަރުކާރުގެ މެމްބަރުން މަޖިލީހަށް ހުރަސް އެޅުމާއެކު ތަޅުމުގައި ހަމަނުޖެހުން އަންނަނީ ހިނގަމުން. pic.twitter.com/mnmzvYKsrO
+ކެނދިކުޅުދޫ ދާއިރާގެ މެމްބަރު ފައިގައި ހިފައި ހިފައި މެމްބަރު ޝަހީމް ވައްޓާލާ މަންޒަރު މަންޒަރު މަންޒަރު. އެމްޑީޕީ ދޫކޮށް ޕީއެންސީއާ ސަރުކާރުގެ މެމްބަރުން މަޖިލީހަށް ހުރަސް އެޅުމާއެކު ތަޅުމުގައި ހަމަނުޖެހުން އަންނަނީ ހިނގަމުން ހިނގަމުން ހިނގަމުން ހިނގަމުން ހިނގަމުން. pic.twitter.com/mnmzvYKsrO
 
 ◼️
 
 [Data](articles/0b079a57.json)
+
+[Extended Data](ext_articles/0b079a57.ext.json)
 
 ---
 
@@ -597,6 +679,8 @@ Reforms to stay course with bets on elections: First Capital Research
 In response to the growing demand for flexible workspaces, WORX Coworking proudly announces the inauguration of its latest coworking facility situated at No. 14 Gower Street, Colombo 05. As a frontrunner in providing innovative workspace solutions, WORX Coworking continues to redefine the professional landscape by expanding its footprint in the city.
 
 Strategically situated in a convenient Colombo neighbourhood, the Gower Street location marks WORX Coworking’s 4th property, reflecting its commitment to catering to the diverse needs of professionals in Sri Lanka. The state-of-the-art facility is strategically positioned to meet the demands of a dynamic workforce seeking flexible, inspiring environments.
+
+India gearing up Central Bank Digital Currency for cross-border payments
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
@@ -1094,6 +1178,22 @@ The activity-based manual provides examples and reflection on unsustainable prac
 
 ### Cricket ban out
 
+*2024-01-28 19:20:26* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-තහනම-ඉවතට/9-407763) · `si`
+
+Steps have been taken to remove the ban on Sri Lanka immediately after the International Cricket Council (ICC).
+
+Minister of Sports Harin Fernando says that the relevant official announcement will be released soon.
+
+◼️
+
+[Data](articles/49ae6b8c.json)
+
+[Extended Data](ext_articles/49ae6b8c.ext.json)
+
+---
+
+### Cricket ban out
+
 *2024-01-28 19:20:26* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිකට්-තහනම-ඉවතට/11-407763) · `si`
 
 Steps have been taken to remove the ban on Sri Lanka immediately after the International Cricket Council (ICC).
@@ -1119,6 +1219,28 @@ The remains of State Minister of Water Supply, Sanath Nishantha, who died in a c
 [Data](articles/c6512bcf.json)
 
 [Extended Data](ext_articles/c6512bcf.ext.json)
+
+---
+
+### People have been intense over the government officials who serve the village
+
+*2024-01-28 19:10:05* · [`adalk`](https://www.ada.lk/breaking_news/ගමට-සේවය-සලසන-රාජ්‍ය-නිලධාරීන්-පිළිබඳව-ජනතාව-දැඩි-අතෘප්තියෙන්/11-407762) · `si`
+
+It is revealed that the people of the University of Peradeniya has been dissatisfied with the satisfaction of the public's satisfaction in public sector and satisfaction of the people of the public.
+
+The Survey, Economics and Strategic State of Economics and Strategies, Professor Malaka Ranathilaka, covering 22 districts of Sri Lanka, were conducted with 1000 citizens to cover 22 districts in Sri Lanka.
+
+Accordingly, they referred to the village, Grama Niladhari, Samurdhi Officers, Development Officers and Community Research Officers, 60% of the Grama Niladhari Research Officers.
+
+The professor said that 79% of Samurdhi officers and 79% of the community police officers and 80% of Agricultural Insurance Officers were not satisfied.
+
+The professor said that 47% of the Grama Niladhari, 79% of Samurdhi officers and 79% of the development officers, 79% of the development of agricultural police officers, 79% of the Agricultural Research Officers.
+
+...
+
+[Data](articles/00ae5eba.json)
+
+[Extended Data](ext_articles/00ae5eba.ext.json)
 
 ---
 
@@ -1815,103 +1937,5 @@ Raising concerns about the increased incidents of harassment and abuse faced wom
 [Data](articles/048f2787.json)
 
 [Extended Data](ext_articles/048f2787.ext.json)
-
----
-
-### Goal from Sri Lanka
-
-*2024-01-28 17:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192661) · `si`
-
-The Sri Lanka Under-19 team scored 208 runs for the loss of 9 wickets at the end of 50 overs.
-
-A premier innings scored 64 runs and 6 fours.
-
-Callum VIDLER took 3 wickets for 28 runs. Mahli beardman took 2 wickets.
-
-◼️
-
-[Data](articles/34144297.json)
-
-[Extended Data](ext_articles/34144297.ext.json)
-
----
-
-### State Minister Sanath Nishantha's funeral begins
-
-*2024-01-28 16:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192660) · `si`
-
-The funeral of Hon. Sanath Nishantha has commenced its bodies of water supply on an accident on the Katunayake Expressway.
-
-Rajadhaduwa has commenced its road to the Catholic Catholic Catholic Catholic Catholic Catholic Cemetery.
-
-◼️
-
-[Data](articles/a7d36007.json)
-
-[Extended Data](ext_articles/a7d36007.ext.json)
-
----
-
-### Railway crossing closes
-
-*2024-01-28 16:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192659) · `si`
-
-Kekirawa - Ganevipola road. The Railway Department says that the railway crossing is scheduled to be located at the 118 PM.
-
-He has temporarily stopped temporary by the road for two days for two days.
-
-Deputy General Manager of Railways. J. Venerable Mr. Yanapola said that the traffic will be temporarily stopped through the road.
-
-Accordingly, on the 7:00 am to 10.30 am to 10.30 am and 10.30 am to 10.30am.
-
-The Railway Department announces that the road will be closed from 6.00 am to 10.30 am.
-
-The Railway Department requests the handling of vehicles and use the vickula roads during the part of the partial closest period.
-
-◼️
-
-[Data](articles/242d8a9b.json)
-
-[Extended Data](ext_articles/242d8a9b.ext.json)
-
----
-
-### India-Sri Lanka passenger ferry service to begin on February 15
-
-*2024-01-28 16:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-passenger-ferry-service-to-begin-on-February-15/108-275839) · `en`
-
-Colombo, Jan 28 (Daily Mirror) - The passenger ferry service between India’s Nagapattinam and Kankesanthurai (KKS) in Jaffna will be initiated on February 15, the Ports, Shipping and Aviation Minister said.
-
-The Indian government has reportedly granted permission to resume services on 15 February, and hence the initial programmes to initiate the service have been completed.
-
-However, the official launch of the ferry service was held on October 20, 2023, with the ‘Cheriyapani’ passenger ferry arriving at the Kankesanthurai port, thus resuming the ferry service between the two countries after a 40-year hiatus.
-
-The inaugural voyage of the ‘Cheriyapani’ passenger ferry was commemorated with a plaque exchange.
-
-The ‘Cheriyapani’ is a high-speed vessel measuring 35 metres in length and 9.6 metres in beam, with a capacity to accommodate 150 passengers, and owned by the Shipping Corporation of India (SCI).
-
-...
-
-[Data](articles/b29cd837.json)
-
-[Extended Data](ext_articles/b29cd837.ext.json)
-
----
-
-### Special police contingent deployed for Sanath Nishantha’s funeral
-
-*2024-01-28 16:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-police-contingent-deployed-for-Sanath-Nishanthas-funeral/108-275844) · `en`
-
-A special police contingent of 380 personnel has been deployed to provide ptotection during Late State Minister Sanath Nishantha Perera’s final rights.
-
-A senior police official said a large crowd including several ministers, parliamentarians and VIPs were expected to attend the funeral and that steps have been taken to enhance security in the area.
-
-He said the police contingent comprised officers from police stations in the North Western Province.
-
-◼️
-
-[Data](articles/39c9cbf0.json)
-
-[Extended Data](ext_articles/39c9cbf0.ext.json)
 
 ---

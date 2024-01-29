@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 09:32:53**
+As of **2024-01-29 09:51:21**
 
 ## Newspaper Stats
 
-*Scraped **3,190** Articles*
+*Scraped **3,193** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,72 @@ islandlk | 185
 dailyftlk | 223
 adalk | 291
 adaderanasinhalalk | 333
-virakesarilk | 333
+virakesarilk | 335
 tamilmirrorlk | 401
-adaderanalk | 412
+adaderanalk | 413
 dailymirrorlk | 433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,189 (100.0%) of 3,190 articles have been extended.
+3,190 (99.9%) of 3,193 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### சம்மாந்துறையில் திருடப்பட்ட பெறுமதி வாய்ந்த மோட்டார் சைக்கிள் மீட்பு ;ஒருவர் கைது
+
+*2024-01-29 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175026) · `ta`
+
+சம்மாந்துறையில் திருடப்பட்ட பெறுமதி வாய்ந்த மோட்டார் சைக்கிள் மீட்கப்பட்டுள்ளதோடு, ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+
+சம்மாந்துறை பொலிஸ் பிரிவுக்குட்பட்ட பிரதேசத்தில் ஜனவரி மாதம் 14ம் திகதி  சுமார் 8 இலட்சத்திக்கும் மேல் பெறுமதி வாய்ந்த "Bajaj pulsar Ns 200" என்ற வகையான மோட்டார் சைக்கிள் திருடப்பட்டுள்ளதாக  சைக்கிள் உரிமையாளர் பொலிஸ் நிலையத்தில் 16ம் திகதி முறைப்பாடு  செய்யதாக சம்மாந்துறை பொலிஸார் தெரிவித்தார்.
+
+இதைத் தொடர்ந்து சம்மாந்துறை பொலிஸ் நிலைய பொறுப்பதிகாரி கே.டி.எஸ் ஜெயலத் அவர்களின் வழிகாட்டுதலில் பொலிஸ் நிலைய பெருங்குற்றப் பிரிவு பொறுப்பதிகாரி கே.சதீஸ்கர் தலைமையிலான குழுவினரின் விசாரணை நடவடிக்கைகளை மேற்கொண்ட போது அக்கரைப்பற்று பிரதேசத்தில் இருந்து மோட்டார்  பைக்கிளை நேற்று ஞாயிற்றுக்கிழமை (28) மீட்டதுடன்  திருட்டு சம்பவத்தில் தொடர்புடைய  சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/7321f8f2.json)
+
+---
+
+### ‘Yukthiya’ operation leads to arrest of 836 more suspects
+
+*2024-01-29 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96813/yukthiya-operation-leads-to-arrest-of-836-more-suspects) · `en`
+
+A total of 836 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan. 29) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Meanwhile, detention orders have been secured against six of the arrested individuals, while another person has been referred for rehabilitation, the Ministry of Public Security said.
+
+According to the Ministry of Public Security, the narcotics taken into custody during this period include 142 grams of heroin, 95 grams of crystal methamphetamine (Ice) and 1,650 narcotic pills.
+
+◼️
+
+[Data](articles/a3718349.json)
+
+---
+
+### மாணவியை பகிடிவதைக்குட்படுத்திய 6 பல்கலைக்கழக மாணவர்கள் கைது
+
+*2024-01-29 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175025) · `ta`
+
+சப்ரகமுவ பல்கலைக்கழகத்தில் கல்வி கற்கும் மாணவி ஒருவரை பகிடிவதைக்குட்படுத்திய 6 மாணவர்கள் சமனலவெவ பொலிஸாரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+கடந்த 14 ஆம் திகதியன்று '1997' என்ற தொலைபேசி இலக்கத்திற்கு கிடைத்த முறைப்பாட்டின் அடிப்படையில் சமனலவெவ பொலிஸார் மேற்கொண்ட விசாரணைகளையடுத்து சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+கைதுசெய்யப்பட்ட சந்தேகநபர்கள் பல்கலைக்கழகத்தின் சமூக விஞ்ஞானம் மற்றும் மொழிகள் பீடத்தின் நான்காம் வருட மாணவர்கள் எனத் தெரிய வந்துள்ளது.
+
+குறித்த மாணவர்கள் 6 பேரும் நேற்று ஞாயிற்றுக்கிழமை (28) சமனலவெவ பொலிஸ் நிலையத்திற்கு வருகை தந்தபோது அவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+மொரவக, ருக்கஹவில, அலுத்தாராம, இமதுவ மற்றும் கித்தலாவ ஆகிய பிரதேசங்களைச் சேர்ந்த 23, 24 மற்றும் 25 வயதுடைய மாணவர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/17279136.json)
+
+---
 
 ### Increase in accidents
 
@@ -100,21 +152,27 @@ Meanwhile, passengers have been transported by buses belonging to the Sri Lanka 
 
 ---
 
-### කහතුඩුව සේවා පියස ඉදිකිරීම දේශපාලඥයෙකුගේ මැදිහත්වීම මත නවතී
+### Construction of Kahathuduwa Service Piyasa
 
 *2024-01-29 08:00:25* · [`adalk`](https://www.ada.lk/breaking_news/කහතුඩුව-සේවා-පියස-ඉදිකිරීම-දේශපාලඥයෙකුගේ-මැදිහත්වීම-මත-නවතී/11-407764) · `si`
 
-දක්ෂිණ අධිවේගී මාර්ගයේ කිලෝමීටර් 8යි දශම 5 කහතුඩුව ප්‍රදේශයේ මීට වසර පහකට පෙර ඉදිකිරීමට පිඹුරුපත් සැකසූ විවේක සේවා මධ්‍යස්ථානය ප්‍රබලම දේශපාලඥයෙකුගේ මැදිහත්වීම මත අත්හිටුවා ඇතැයි මාර්ග සංවර්ධන අධිකාරියේ අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කරයි.
+Internal sources of the Road Development Authority (DMC) has been suspended on the intervention of the Southern Expressway in the Southern Expressway.
 
-එම ඉදිකිරීම් කටයුතු සඳහා එම ස්ථානයට ගොඩබා තිබෙන විශාල ගල් ගොඩවල් මේ වන විටත් දක්නට ලැබෙන බවත් ඒ මත වල් බිහිවෙමින් පවතින බවත් ආරංචි මාර්ග සඳහන් කරයි.ඊට හේතුව මේ වනවිට ක්‍රියාත්මක වැලිපැන්න සේවා පියස එම දේශපාලනඥයා යටතේ මෙහෙයවීම හේතුවෙන් බවද වැඩිදුරටත් දැනගන්නට ඇත.
+Sources say that the cause of the land is now on the ground, which is now being built under the politician.
 
-අධිවේගී මාර්ගය ආරම්භ කළ 2011 වසරේ සිට මේ දක්වා ගෙවුණු වසර 13 තුළ පුද්ගලයන් 100 කට ආසන්න ප්‍රමාණයක් මාරක රිය අනතුරුවලින් මිය ගොස් ඇතැයි පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+Nearly 100 people were killed in fatal accidents in the last 13 years since 2011, police sources said.
 
-එම මාරක රිය අනතුරුවලට බහුතරයක් හේතු වී ඇත්තේ රියදුරන්ට නින්ද යාම බවට පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+The majority of those fatal accidents have revealed that the drivers were sleeping in police investigations.
+
+Southern Expressway from Kottawa to Mattala 200 kilometers. 18 km of Hambantota tank. 26 km from Kottawa to Containegoda from Kottawa to Easpaiyagoda. 27 km from Peliyagoda to Katunayake road on the Colombo-Katunayake road. 40 km from Mirigama Kurunegala to Ykpitiya to Yakpitiya. The total distance of the highway consists of 4111 km. But the Welipenna service has only to rest for drivers to rest.
+
+An international standard of construction of a highway is a specialized knowledge in 25 kmSaid a high-ranking official.
 
 ...
 
 [Data](articles/2141ea24.json)
+
+[Extended Data](ext_articles/2141ea24.ext.json)
 
 ---
 
@@ -1895,51 +1953,5 @@ Palani Thikambaram said that the daily salary of a plantation worker should be i
 [Data](articles/66d9b348.json)
 
 [Extended Data](ext_articles/66d9b348.ext.json)
-
----
-
-### Guatemala: People's welfare?Thank you?
-
-*2024-01-28 17:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/174995) · `ta`
-
-Bernardo, who won the state presidential election in Central America's Guatemala, has taken over as a way after the great struggles. His political opponents, who tried until the final minute of his swearing -in, retreated from their position, after the pressure of the United States from the United States to the end of their position.. According to the Constitution, the opposition and the big business in the backdrop of their neck work, as he could not prevent his swearing in.
-
-◼️
-
-[Data](articles/5b8fc5d4.json)
-
-[Extended Data](ext_articles/5b8fc5d4.ext.json)
-
----
-
-### Women remember 109?
-
-*2024-01-28 17:25:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெண்களே-109-ஞாபகமா/175-332230) · `ta`
-
-Even if you remember various digits, don't forget the phone number 109.
-
-A separate telephone number has been introduced to complain about the violence against women.
-
-In this context, "a special program to eliminate violence against women in conjunction with justice process will be implemented," said Public Security Minister Tran Ales.
-
-◼️
-
-[Data](articles/76149082.json)
-
-[Extended Data](ext_articles/76149082.ext.json)
-
----
-
-### Railway freight charge tariffs
-
-*2024-01-28 17:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192662) · `si`
-
-The Government has issued a gazette notification by increasing the train services charges for effect from 1st February.
-
-◼️
-
-[Data](articles/21e94f29.json)
-
-[Extended Data](ext_articles/21e94f29.ext.json)
 
 ---

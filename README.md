@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 00:02:19**
+As of **2024-01-30 00:17:05**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,376 (100.0%) of 3,377 articles have been extended.
+3,377 (100.0%) of 3,377 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### කැලණියේ විරෝධයට පොලීසියෙන් ජල හා කඳුළු ගෑස්
+### Police protest in Kelaniya water and tear gas
 
 *2024-01-29 23:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192714) · `si`
 
-කැලණිය විශ්වවිද්‍යාලය අසළ පැවති සිසු විරෝධතාවය විසුරුවාහැරීමට පොලීසියෙන් ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ල කර තිබේ.
+Police have launched a gas and tear gas to disperse the student protest near the University of Kelaniya.
 
-මෙම විරෝධතාවය හේතුවෙන් කොළඹ - නුවර ප්‍රධාන මාර්ගයේ කැලණිය විශ්වවිද්‍යාලය ඉදිරිපිටින් නුවර දෙසට ගමන්කරන මංතීරුව සම්පූර්ණයෙන්ම අවහිර විය.
+Due to this protest, the lane towards Kandy was completely blocked in front of the University of Kelaniya.
 
 ◼️
 
 [Data](articles/c3fdd011.json)
+
+[Extended Data](ext_articles/c3fdd011.ext.json)
 
 ---
 

@@ -1,36 +1,90 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 15:50:57**
+As of **2024-01-29 16:02:33**
 
 ## Newspaper Stats
 
-*Scraped **3,286** Articles*
+*Scraped **3,291** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 43
-bbccomsinhala | 54
+bbccomsinhala | 55
 dbsjeyarajcom | 125
 economynextcom | 177
 islandlk | 185
 newsfirstlk | 198
 dailyftlk | 223
-adalk | 300
+adalk | 301
 adaderanasinhalalk | 348
-virakesarilk | 355
+virakesarilk | 357
 tamilmirrorlk | 410
-adaderanalk | 424
+adaderanalk | 425
 dailymirrorlk | 444
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,286 (100.0%) of 3,286 articles have been extended.
+3,286 (99.8%) of 3,291 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### எவர் கட்டுப்பாடு விதித்தாலும் நாளைவீதியில் இறங்குவோம் - ஐக்கிய மக்கள் சக்தி
+
+*2024-01-29 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175073) · `ta`
+
+அனைத்துகட்டுப்பாடுகளையும் மீறி  நாளை வீதியில் இறங்குவோம் என ஐக்கிய மக்கள் சக்தி தெரிவித்துள்ளது.
+
+நாளை வீதியில் இறங்கி தற்போதைய அரசாங்கத்தை அகற்றுவதற்கான ஆரம்ப நடவடிக்கைகளில் ஈடுபடுவோம் என ஐக்கிய மக்கள் சக்தியின் பொதுசெயலாளர் ரஞ்சித்மத்துமபண்டார தெரிவித்துள்ளார்.
+
+பொலிஸ்மா அதிபரும் வேறு எவரும் கட்டுப்பாடுகளை விதிக்கலாம் ஆனால் அனைத்து சட்டங்களையும் மீறி நாளை கொழும்பிற்கு 50,000 பேரைகொண்டுவருவோம் என அவர் தெரிவித்துள்ளார்.
+
+2022 ம் ஆண்டு நாங்களே மக்களின் எழுச்சியை ஆரம்பித்துவைத்தோம் இம்முறையும் அதனை செய்ய எண்ணியுள்ளோம் எனவும் அவர் தெரிவித்துள்ளார்.
+
+எங்கிருந்து பேரணியாக செல்வோம் என்பதை தற்போதைக்கு நாங்கள் அறிவிக்கமாட்டோம் நாளையே அறிவிப்போம் என ரஞ்சித்மத்துமபண்டார தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/ee88be49.json)
+
+---
+
+### Sri Lanka’s total exports reach USD 14.49 bn in 2023
+
+*2024-01-29 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/96825/sri-lankas-total-exports-reach-usd-1449-bn-in-2023-) · `en`
+
+Sri Lanka’s total exports for the year 2023 reached USD 14.49 billion, the Export Development Bank (ED) reported, adding that it is only a minor decline of 0.39% compared to 2022.
+
+In a report issued in this regard, the EDB revealed that Sri Lanka had recorded a total of USD 14.99 billion in exports for the year 2022, USD 3.08 billion higher than that earned last year.
+
+As per the report, the estimated value of services exports for the period of January to December 2023 was USD 3,080.9 million, increasing 63.1 % over the corresponding period in 2022, while cumulative merchandise exports during the period of January to December 2023 decreased by 9.54 % to USD 11,856.3 million compared to the corresponding period in 2022.
+
+◼️
+
+[Data](articles/6dcc9d66.json)
+
+---
+
+### பருத்தித்துறை கடலில் கைது செய்யப்பட்ட 10 இந்திய மீனவர்களும் நிபந்தனைகளுடன் விடுதலை!
+
+*2024-01-29 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175072) · `ta`
+
+யாழ்ப்பாணம் - பருத்தித்துறை கடற்பரப்பில் கைது செய்யப்பட்ட 10 இந்திய மீனவர்கள் இன்று திங்கட்கிழமை (29)  விடுதலை செய்யப்பட்டனர். பருத்தித்துறை நீதிவான் நீதிமன்றத்தில் இன்றையதினம் வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோதே அவர்கள் விடுதலை செய்யப்பட்டனர்.
+
+10 வருடங்களுக்கு ஒத்திவைக்கப்பட்ட 9 மாதங்கள் சிறை தண்டனை என்ற அடிப்படையில் அவர்கள் இவ்வாறு விடுதலை செய்யப்பட்டனர். மீனவர்களிடம் கைப்பற்றப்பட்ட படகினை அரச உடமையாக்குமாறு நீதிவான் உத்தரவிட்டார்.
+
+மீனவர்களிடையே கைப்பற்றப்பட்ட கைத்தொலைபேசி உள்ளிட்ட வேறு உடமைகளை மீள வழங்குமாறு நீதிவான் பொன்னுத்துரை கிருசாந்தன் உத்தரவிட்டார்.
+
+விடுதலை செய்யப்பட்ட 10 மீனவர்களையும் மிரிஹான முகாமிற்கு அனுப்பி, இந்தியாவிற்கு அனுப்பி வைக்க நடவடிக்கை எடுக்குமாறு நீதிவான் இன்று உத்தரவிட்டார்.
+
+...
+
+[Data](articles/a8a8c0ca.json)
+
+---
 
 ### Two persons arrested with drugs at children's sports event
 
@@ -1206,6 +1260,22 @@ With an increasing risk of military escalation in the region, U.S. officials wer
 
 ---
 
+### මාවුස්සාකැලේ හා කාස්ල්රී  ජල මට්ටම සීඝ්‍රයෙන් පහතට
+
+*2024-01-29 10:15:32* · [`adalk`](https://www.ada.lk/breaking_news/මාවුස්සාකැලේ-හා-කාස්ල්රී--ජල-මට්ටම-සීඝ්‍රයෙන්-පහතට/11-407771) · `si`
+
+මධ්‍යම කඳුකරයේ ජල පෝෂක ප්‍රදේශවලට දින 10 ක පමණ කාලයක් තිස්සේ පවතින දැඩි වියලි කාලගුණයත් සමග මාවුස්සාකැලේ හා කාසල්රී යන ජලාශවල ජල මට්ටම පිටාර මට්ටමේ සිට සීඝ්‍රයෙන් පහත බැස ඇත.
+
+මාවුස්සාකැලේ හා කාලස්රී යන ජලාශ වල ජල මට්ටම  අද (29) පෙරවරු 08.00  වන විට පිටාර මට්මේ සිට පිළිවෙලින් අඩි 11 ක් හා අඩි 05 ක් වශයෙන් පහත බැස ඇති බව එම ජලාශ භාර ඉංජිනේරුවෝ පැවසූහ.
+
+ජාතික ජලවිදුලිබල පද්ධතියට අයත්  ලක්ෂපාන ජලවිදුලිබලාගාර සංකීර්ණය යටතේ ඇති කැනියොන්, ලක්ෂපාන, නව ලක්ෂපාන, විමලසුරේන්ද්‍ර, පොල්පිටිය හා බ්‍රෝඩ්ලණ්ඩ් යන විදුලිබලාගාර සඳහා ප්‍රධාන වශයෙන් ජලය සැපයෙන්නේ මාවුස්සාකැලේ හා කාසල්රී යන ජලාශ දෙකෙනි.
+
+◼️
+
+[Data](articles/d2e6f8df.json)
+
+---
+
 ### Rajitha takes pro-government stand?
 
 *2024-01-29 10:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rajitha-takes-pro-government-stand/108-275906) · `en`
@@ -1523,6 +1593,28 @@ The suspects are between 23-25 years old, aged 23-25 years old.
 [Data](articles/13eb7846.json)
 
 [Extended Data](ext_articles/13eb7846.ext.json)
+
+---
+
+### ග්‍රෙනේඩ් ප්‍රහාර, මිරිස්කුඩු ප්‍රහාර මැද වසර 42ක අත්දැකීම් ගැන වේත්‍රධාරී BBCයට කියයි
+
+*2024-01-29 09:37:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxrky1z1p42o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "ග්‍රෙනේඩ් ප්‍රහාර, මිරිස්කුඩු ප්‍රහාර මැද වසර 42ක අත්දැකීම් ගැන වෙත්‍රධාරි BBCයට කියයි", ධාවන කාලය 35,5935:59වීඩියෝ ශීර්ෂ වැකිය, ඔහු වේත්‍රධාරී තනතුරට පත් වූ පසු මන්ත්‍රීවරු වැඩිම අවස්ථා ගණනක දී සෙංකෝලය පැහැර ගැනීමට ගත් උත්සාහයන් ව්‍යර්ථ කිරීමට මුහුණ දුන්නේය.
+
+ග්‍රෙනේඩ් ප්‍රහාර, මිරිස්කුඩු ප්‍රහාර මැද වසර 42ක අත්දැකීම් ගැන වේත්‍රධාරී BBCයට කියයි
+
+ලුතිනන් ජෙනරල්වරයෙකුගේ නිලයට සමාන නිලයක් දරණ, පාර්ලිමේන්තුවේ සභා ගර්භයට ආයුධයක් රැගෙන යෑමේ නිල අවසරය හිමි එකම නිලධාරියා වන වේත්‍රධාරී නරේන්ද්‍ර ප්‍රනාන්දු වසර 42ක සේවා කාලයක් ඇති පාර්ලිමේන්තුවේ ජ්‍යේෂ්ඨතම නිලධාරියා වේ.
+
+ඔහු වේත්‍රධාරී තනතුරට පත් වූ පසු මන්ත්‍රීවරු වැඩිම අවස්ථා ගණනක දී සෙංකෝලය පැහැර ගැනීමට ගත් උත්සාහයන් ව්‍යර්ථ කිරීමට මුහුණ දුන්නේය.
+
+මිරිස්කුඩු ප්‍රහාරය සහ ග්‍රෙනේඩ් ප්‍රහාරය සිදු වූ සමයේ පාර්ලිමේන්තුවේ ආරක්ෂාව සම්බන්ධයෙන් ඔහු විශේෂ කාර්යයක් ඉටු කළේය.
+
+අරගලය පැවතී අවස්ථාවේ පාර්ලිමේන්තුව ආරක්ෂා කර ගැනීමට සහ පාස්කු ප්‍රහාරය සිදු වූ අවස්ථාවේ බොහෝ අභියෝගයන්ට මුහුණ දීමට ඔහුට සිදු විය.
+
+...
+
+[Data](articles/6323c937.json)
 
 ---
 
@@ -1969,119 +2061,5 @@ Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th 
 [Data](articles/ce844753.json)
 
 [Extended Data](ext_articles/ce844753.ext.json)
-
----
-
-### Construction of Kahathuduwa Service Piyasa
-
-*2024-01-29 08:00:25* · [`adalk`](https://www.ada.lk/breaking_news/කහතුඩුව-සේවා-පියස-ඉදිකිරීම-දේශපාලඥයෙකුගේ-මැදිහත්වීම-මත-නවතී/11-407764) · `si`
-
-Internal sources of the Road Development Authority (DMC) has been suspended on the intervention of the Southern Expressway in the Southern Expressway.
-
-Sources say that the cause of the land is now on the ground, which is now being built under the politician.
-
-Nearly 100 people were killed in fatal accidents in the last 13 years since 2011, police sources said.
-
-The majority of those fatal accidents have revealed that the drivers were sleeping in police investigations.
-
-Southern Expressway from Kottawa to Mattala 200 kilometers. 18 km of Hambantota tank. 26 km from Kottawa to Containegoda from Kottawa to Easpaiyagoda. 27 km from Peliyagoda to Katunayake road on the Colombo-Katunayake road. 40 km from Mirigama Kurunegala to Ykpitiya to Yakpitiya. The total distance of the highway consists of 4111 km. But the Welipenna service has only to rest for drivers to rest.
-
-An international standard of construction of a highway is a specialized knowledge in 25 kmSaid a high-ranking official.
-
-...
-
-[Data](articles/2141ea24.json)
-
-[Extended Data](ext_articles/2141ea24.ext.json)
-
----
-
-### A strong decision about the coming elections
-
-*2024-01-29 07:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192682) · `si`
-
-Political critics point out that there will be a powerful factor to produce a government or to select a government in Tamil political parties and the support of the country's minorities in the coming elections.
-
-The minority baliary has increased to 31 percent in Sri Lanka.
-
-Political commentators also stated that the general election and the presidential election will depend on the way Tamil political parties will be supported.
-
-These conditions may be very different with the political leadership that is known to the North and East as well as the plantation.
-
-The support of the Ilangaitamil Auru Kachchi party and support of the Muslim parties will be the same.
-
-Sri Lanka's Sinhala political party leaders have also paid close attention to the victory of the Ilangai Thamil Arascaki.
-
-The reason is that the TNA leader appears to be the leader of the TNA and the leader of the Tamil National Alliance.
-
-◼️
-
-[Data](articles/eda39e18.json)
-
-[Extended Data](ext_articles/eda39e18.ext.json)
-
----
-
-### A list of liquor companies have ruined Rs. 600 million to Supreme Court
-
-*2024-01-29 07:56:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv29l0w6p77o) · `si`
-
-A list of liquor companies have ruined Rs. 600 million to Supreme Court
-
-The Supreme Court has filed a sum of Rs.
-
-The Supreme Court has stated in the Supreme Court through a fundamental rights petition filed by a group of other social activists, including the alcohol production of taxes (on January 26).
-
-According to the petition, what is alcohol production companies that have defaulted taxes?
-
-According to the relevant petition, 10 liquor companies have been named the government has despatched.
-
-The officials of the Department, the Commissioner General of Excise and the Secretary to the Ministry of Excise, the Secretary to the Ministry of Finance, the Finance Ministry Secretary Ranjith Siyambalapitiya, the Auditor General, the Auditor General and the deficit alcohol has been named the Auditor General and the Departments of the Department.
-
-...
-
-[Data](articles/ad3df43c.json)
-
-[Extended Data](ext_articles/ad3df43c.ext.json)
-
----
-
-### Three US troops killed, up to 34 injured in Jordan drone strike linked to Iran
-
-*2024-01-29 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/96812/three-us-troops-killed-up-to-34-injured-in-jordan-drone-strike-linked-to-iran) · `en`
-
-(Reuters) - Three U.S. service members were killed and dozens may be wounded after an unmanned aerial drone attack on U.S. forces stationed in northeastern Jordan near the Syrian border, President Joe Biden and U.S. officials said on Sunday.
-
-Biden blamed Iran-backed groups for the attack, the first deadly strike against U.S. forces since the Israel-Hamas war erupted in October and sent shock waves throughout the Middle East.
-
-“While we are still gathering the facts of this attack, we know it was carried out by radical Iran-backed militant groups operating in Syria and Iraq,” Biden said in a statement.
-
-“Have no doubt - we will hold all those responsible to account at a time and in a manner of our choosing,” he said.
-
-Biden later asked for a moment of silence for the three killed service members during a campaign event in South Carolina, adding, “We shall respond.”
-
-...
-
-[Data](articles/047e6b6f.json)
-
-[Extended Data](ext_articles/047e6b6f.ext.json)
-
----
-
-### Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
-
-*2024-01-29 07:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/sri-lankan-wins-best-director-award-at-22nd-dhaka-international-film-festival/) · `en`
-
-COLOMBO (News 1st); Sri Lankan film director Jagath Manuwarna Kodithuwakku has won the Best Director Award at the 22nd Dhaka International Film Festival, for the movie 'Whispering Mountains'.
-
-Jagath Manuwarna's "Whispering Mountains" has won several international awards in the past as well, including at the 52nd Rotterdam International Film Festival.
-
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
-
-◼️
-
-[Data](articles/846f8e03.json)
-
-[Extended Data](ext_articles/846f8e03.ext.json)
 
 ---

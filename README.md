@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 13:17:17**
+As of **2024-01-29 13:32:54**
 
 ## Newspaper Stats
 
-*Scraped **3,249** Articles*
+*Scraped **3,255** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 185
 newsfirstlk | 197
 dailyftlk | 223
 adalk | 291
-adaderanasinhalalk | 342
-virakesarilk | 347
+adaderanasinhalalk | 345
+virakesarilk | 350
 tamilmirrorlk | 406
 adaderanalk | 420
 dailymirrorlk | 440
@@ -26,11 +26,117 @@ dailymirrorlk | 440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,247 (99.9%) of 3,249 articles have been extended.
+3,249 (99.8%) of 3,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### නවක වධය සිදුවීමට අත්අඩංගුවට ගත් සරසවි සිසුන්ට ඇප
+
+*2024-01-29 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192698) · `si`
+
+සබරගමුව විශ්වවිද්‍යාලයේ සිසුවියකට නවක වධය ලබා දීමේ සිදුවීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් සිසුන් ඇප මත මුදාහැර තිබේ.
+
+අප වාර්තාකරු පැවසුවේ අද (29) දහවල් බලංගොඩ මහෙස්ත්‍රාත් අධිකරණය හමුවට සැකකරුවන් ඉදිරිපත් කිරීමෙන් අනතුරුව රුපියල් ලක්ෂය බැගින් වූ ශරීර ඇප මත ඔවුන් නිදහස කළ බවය.
+
+සිදුවීම සම්බන්ධයෙන් සිසුන් 06 දෙනෙකු සහ එක් සිසුවියක් අත්අඩංගුවට ගෙන තිබිණි.
+
+නවක වධය ලබාදීම සම්බන්ධයෙන් 1997 මධ්‍යස්ථානය වෙත ලද පැමිණිල්ලක් මත සිදුකළ විමර්ශනයකින් අනතුරුව අදාළ සිසුන් අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
+
+මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ එම විශ්වවිද්‍යාලයේ සමාජ විද්‍යා සහ භාෂා අධ්‍යාපන පීඨයේ සිව්වන වසරේ සිසුන් පිරිසකි.
+
+ඔවුන් අවුරුදු 23, 24 සහ 25 යන වයස් කාණ්ඩවල පසුවන මොරවක, රුක්ගහවිල, ඉමදුව හා කිතලව යන ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/14b4d836.json)
+
+---
+
+### Lohan Ratwatta
+
+*2024-01-29 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175034) · `ta`
+
+Lohan Ratwatte President Ranil Wickremesinghe was sworn in as the Minister of State for Plantation Industries and Mahaweli Development.
+
+The Presidential Media Division said that he was sworn in at the Presidential Secretariat.
+
+◼️
+
+[Data](articles/5b901c4b.json)
+
+[Extended Data](ext_articles/5b901c4b.ext.json)
+
+---
+
+### சோமாலிய கடற்கொள்ளையர்களால் கடத்தப்பட்ட இலங்கையர்களை மீட்க நடவடிக்கை !
+
+*2024-01-29 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175058) · `ta`
+
+சோமாலிய கடற்கொள்ளையர்களால் கடத்தப்பட்ட இலங்கையர்களை பாதுகாப்பாக விடுவிப்பதை உறுதி செய்வதற்காக கென்யாவிலுள்ள இலங்கைக்கான உயர் ஸ்தானிகர் கணனாதன் சோமாலிய கடற்படைத் தலைவருடன் பேச்சுக்களை மேற்கொள்ள நடவடிக்கை எடுத்துள்ளார்.
+
+சோமாலிய கடற்கொள்ளையர்களால் கடத்தப்பட்ட இலங்கையர்கள் குறித்த தகவல்களை பெற்று அவர்களை பாதுகாப்பாக மீட்க நடவடிக்கைகளை முன்னெடுத்து வருகின்றேன்.
+
+அவர்களை பாதுகாப்பாக விடுவிப்பதற்காக எத்தியோப்பியாவிலுள்ள எனது சகாவுடன் இணைந்து சோமாலிய கடற்படைத் தளபதி அட்மிரல் அப்திவர்சமே ஒஸ்மானுடன் பேச்சுக்களை முன்னெடுத்து நெருக்கமான ஒத்துழைப்பில் தீவிரமாக ஈடுபட்டு வருகின்றேன்.
+
+சோமாலிய கடற்படைத் தலைவர் அவர்களது தொடர்பு அதிகாரி மூலம்  ஐரோப்பிய ஒன்றிய கடற்படை கூட்டு நடவடிக்கை மையத்திற்கு (EU Navy JOC) நிலைமையை நிவர்த்தி செய்வதற்கும் கடத்தப்பட்ட இலங்கையர்களை பாதுகாப்பாக நாடு திரும்புவதை உறுதி செய்வதற்கும் மேற்கொள்ளப்பட்டு வரும் முயற்சிகள் குறித்து அறிவித்துள்ளார்.
+
+...
+
+[Data](articles/67f9a43c.json)
+
+---
+
+### இன்றைய நாணய மாற்று விகிதம்
+
+*2024-01-29 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175057) · `ta`
+
+இன்று திங்கட்கிழமை (ஜனவரி 29) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 312.6759 ஆகவும் விற்பனை விலை ரூபா 322.7716 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/4e0a67df.json)
+
+---
+
+### கூட்டமைப்பு மீண்டும் ஒற்றுமையாக வேண்டுமானால் தமிழரசுக்கட்சி வீட்டுச் சின்னத்தை விட்டுக் கொடுக்கலாம் – சித்தார்த்தன் யோசனை
+
+*2024-01-29 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175046) · `ta`
+
+தமிழ் தேசியக் கூட்டமைப்பு மீண்டும் ஒற்றுமையாக வேண்டுமானால் அது பதிவு செய்யப்பட்ட கட்சியாக வேண்டும் என தெரிவித்த புளொட் தலைவரும் பாராளுமன்ற உறுப்பினருமான தர்மலிங்கம் சித்தார்த்தன், தமிழ் அரசுக் கட்சி வீட்டுச் சின்னத்தை தமிழ் தேசிய கூட்டமைப்புக்கு விட்டுக்கொடுக்கலாம் என்றார்.
+
+இலங்கை தமிழ் அரசுக் கட்சி இரண்டு மூன்று பிளவாக உடைந்து இருக்கிறது என்றும் அவர்கள் ஒற்றுமையாகிய பின்னரே கூட்டமைப்பு ஒற்றுமை பற்றி பார்க்கலாம் என்றார்.
+
+கந்தரோடையில் உள்ள அவரது இல்லத்தில் ஞாயிற்றுக்கிழமை (28) ஊடகங்களுக்கு கருத்துத் தெரிவித்த போதே இதனை தெரிவித்தார்.
+
+அவர் மேலும் தெரிவிக்கையில், தமிழ் அரசுக் கட்சியின் தலைவர் தெரிவு செய்யப்பட்டுள்ளார். புதிய தலைவர் இன்னும் பதவியேற்கவில்லை. அதிலும் சிக்கல் ஒன்று காணப்படுகிறது. அதன் தேசிய மாநாடு ஒத்திவைக்கப்பட்டுள்ளது.
+
+அதை விட முக்கியமான விடயம் தமிழரசுக்கட்சிகள் இரண்டாக உடைந்து இருக்கிறது. அது இரண்டா, மூன்றாகவா என்று தெரியவில்லை ஆனால் உடைந்து இருக்கிறது.
+
+...
+
+[Data](articles/27608373.json)
+
+---
+
+### තායිලන්ත අග්‍රාමාත්‍යවරයා මෙරට සංචාරයක
+
+*2024-01-29 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192696) · `si`
+
+තායිලන්ත අග්‍රාමාත්‍ය Srettha Thavisin දෙදින නිල සංචාරයක් සඳහා ලබන මස මෙරටට පැමිණීමට නියමිතය.
+
+විදේශ කටයුතු අමාත්‍යංශය නිවේදනය කළේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ආරාධනයක් අනුව තවිසින් මහතා පෙබරවාරි 03 සිට 04 වනදා දක්වා මෙරට සංචාරය කිරීමට නියමිත බවයි.
+
+76 වැනි ශ්‍රී ලංකා නිදහස් දින සැමරුම් උත්සවයේ ආරාධිතයෙක් ලෙස ඔහු මෙරටට පැමිණෙයි.
+
+ඔහු එම සංචාරය තුළදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමග නිල සාකච්ඡාවක් පැවැත්වීමටත් ශ්‍රී ලංකා - තායිලන්ත නිදහස් වෙළෙඳ ගිවිසුම අත්සන් කිරීමේ අවස්ථාව ටද සහභාගී වීමටත් නියමිතය.
+
+◼️
+
+[Data](articles/f84776ce.json)
+
+---
 
 ### Former Prime Minister of New Zealand
 
@@ -96,6 +202,26 @@ Therefore, everyone should pay attention to avoid accidents on high -speed stree
 
 ---
 
+### ජපාන යානය අවදිවෙයි
+
+*2024-01-29 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192695) · `si`
+
+විදුලි සැපයුමෙහි ඇතිවූ දෝෂයක් හේතුවෙන් ක්‍රියාවිරහිතව තිබූ සඳට යැවූ ජපාන යානය නැවත ක්‍රියාත්මක වන බව ජපාන අභ්‍යවකාශ ගවේෂණ ඒජන්සිය පවසයි.
+
+ඊයේ (28) රාත්‍රියේ සිට සන්නිවේදන සම්බන්ධතා නැවත ආරම්භ වූ බව එම ඒජන්සිය නිවේදනය කළේය.
+
+එහි සූර්ය කෝෂ නැවතත් ක්‍රියාත්මක වීම ආරම්භ වී ඇති බව සඳහන් ය.
+
+එම සූර්ය කෝෂ සූර්යයා දෙසට යොමු වී නොතිබීම හේතුවෙන් එම යානයේ විදුලි සැපයුමට බාධා එල්ල විය (සූර්ය කෝෂ සඳහා සූර්ය එළිය යොමු නොවීම හේතුවෙන්).
+
+ඊට පෙර අමෙරිකාව, සෝවියට් රුසියාව, චීනය සහ ඉන්දියාව, සඳ මත යානයක් ගොඩ බැස්සවීමට සමත්විය.
+
+◼️
+
+[Data](articles/0cdaee26.json)
+
+---
+
 ### Iran says that the US site is unrelated to Jordan
 
 *2024-01-29 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175041) · `ta`
@@ -152,6 +278,8 @@ Malaysia’s former Finance Minister charged with corruption after Pandora Paper
 
 [Data](articles/b9992e1a.json)
 
+[Extended Data](ext_articles/b9992e1a.ext.json)
+
 ---
 
 ### Action to find companies that charge consumers without registering the tax!
@@ -189,6 +317,8 @@ Malaysia’s former Finance Minister charged with corruption after Pandora Paper
 ◼️
 
 [Data](articles/65e342fd.json)
+
+[Extended Data](ext_articles/65e342fd.ext.json)
 
 ---
 
@@ -519,22 +649,6 @@ He also urged the unresolved professional issues of state administrative service
 [Data](articles/06c8df80.json)
 
 [Extended Data](ext_articles/06c8df80.ext.json)
-
----
-
-### Lohan Ratwatta
-
-*2024-01-29 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175034) · `ta`
-
-Lohan Ratwatte President Ranil Wickremesinghe was sworn in as the Minister of State for Plantation Industries and Mahaweli Development.
-
-The Presidential Media Division said that he was sworn in at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/5b901c4b.json)
-
-[Extended Data](ext_articles/5b901c4b.ext.json)
 
 ---
 
@@ -1937,113 +2051,5 @@ Save my name, email, and website in this browser for the next time I comment.
 [Data](articles/70795b13.json)
 
 [Extended Data](ext_articles/70795b13.ext.json)
-
----
-
-### Alumex PLC concluded 2023 with multiple industry accolades
-
-*2024-01-28 23:29:00* · [`islandlk`](http://island.lk/alumex-plc-concluded-2023-with-multiple-industry-accolades/) · `en`
-
-Alumex PLC, a prominent player in the aluminium extrusion industry, capped off an exceptional 2023 with great successes, clinching over 14 awards in the past year, affirming their leadership in shaping Sri Lanka’s export landscape and commitment to governance, sustainability, and business excellence.
-
-At the 25th Presidential Export Awards 2023 Alumex received the coveted title of “Overall Emerging Exporter of the Year 2021/2022” and a merit award in the Light Engineering sector, testament to the company’s unwavering dedication to excellence. Alumex also won the Silver under the Machinery and Light Engineering Sector at the 31st NCE Exporter Awards.
-
-...
-
-[Data](articles/89d0ef45.json)
-
-[Extended Data](ext_articles/89d0ef45.ext.json)
-
----
-
-### AMW Epic Tyres unveils ‘strategic’ distributor agreement
-
-*2024-01-28 23:28:00* · [`islandlk`](http://island.lk/amw-epic-tyres-unveils-strategic-distributor-agreement/) · `en`
-
-AMW with a rich history spanning 75 years, marked a historic milestone with the recent signing of a Distributor Agreement of its Tyre Manufacturing and Distribution business arm. The signing, which took place at the Hilton, Colombo on the on 5th of January 2024, showcased AMW EPIC Tyres’s commitment to growth and innovation, positioning itself as a pioneer in the industry. Now a part of the esteemed Dubai-based conglomerate Al Futtaim Group, AMW Epic Tyres is set to redefine the tyre market with its signature blend of quality, Durability, and reliability.
-
-AMW Epic Tyres, known for its tireless pursuit of excellence, has become one of the leading local tyre manufacturers, specializing in Three-wheeler, Scooter and Motorcycle tyres. The brand stands out in the market, offering the best quality, premium tyres at competitive prices.
-
-Serendib Flour Mills celebrates Thai Pongal harvest with artistic flair
-
-AMW aiming at expanding operations in SL; strategic plans to unfold
-
-...
-
-[Data](articles/a38fe5fc.json)
-
-[Extended Data](ext_articles/a38fe5fc.ext.json)
-
----
-
-### Reforms to stay course with bets on elections: First Capital Research
-
-*2024-01-28 23:10:00* · [`islandlk`](http://island.lk/reforms-to-stay-course-with-bets-on-elections-first-capital-research/) · `en`
-
-Investment Strategy – Jan 2024 report released by First Capital Research says reforms will stay the course amid guesses and opinions on upcoming elections.”After announcing the rate cut in Nov-23, we expect the Central Bank of Sri Lanka (CBSL) to take a pause and maintain rates in the near future, paving way for market rates to adjust downward. However, CBSL plans on implementing a single policy rate window, we believe CBSL may implement it in the 1Q2024 via a rate cut to the SLF (standing lending facility ) reducing it to 9.0% to be in line with the SDF (standing deposit facility),” First Capital Research (FCR) says.
-
-“With the completion of external debt restructuring during 1H2024, we believe the overall yield curve is likely to drop below 13.5% and reach a range of 11.0%-13.5% in the short term and towards end of1H2024 to reach 10.0%-12.5%. AWPR may decline to 10.0%-12.0% by Jun-24 and rise again to 11.0%-13.0% by Dec-24.”
-
-...
-
-[Data](articles/b15e6749.json)
-
-[Extended Data](ext_articles/b15e6749.ext.json)
-
----
-
-### India gearing up Central Bank Digital Currency for cross-border payments
-
-*2024-01-28 23:09:00* · [`islandlk`](http://island.lk/india-gearing-up-central-bank-digital-currency-for-cross-border-payments/) · `en`
-
-Indian Finance Minister Nirmala Sitharaman has recently said that the Government of India and the Reserve Bank of India (RBI) are actively working to improve Central Bank Digital Currency (CBDC) for cross-border payments.
-
-“This development aims to expedite transactions at a reduced cost, making inward and outward remittances more affordable, she has said, according to The Economic Times.
-
-As per the latest official announcement, the Indian Interim Budget for the financial year 2024-2025 has been scheduled to take place on February 1, 2024. This budget is an important event in India’s economic calendar as it outlines the government’s revenue and expenditure plans for the upcoming financial year.
-
-...
-
-[Data](articles/76839053.json)
-
-[Extended Data](ext_articles/76839053.ext.json)
-
----
-
-### Chips are everywhere: But can Sri Lanka ride the wave?
-
-*2024-01-28 22:59:17* · [`dailyftlk`](https://www.ft.lk/columns/Chips-are-everywhere-But-can-Sri-Lanka-ride-the-wave/4-757848) · `en`
-
-It is in the interest of the country to take early action to ride this wave by being a collaborative partner of India which is moving fast to make itself a semiconductor country soon
-
-Semiconductors are a promising industry and therefore the investors in the industry have high expectations about its growth. If they compete with each other, it will be a ‘lose-lose’ situation. Hence, the chip makers should learn from those who have been successful in creating economic profit. In this case, identifying the profitable segments of the industry and seeking to take leadership in those areas will be the secret to learn. The leading players so far have invested massive amounts in Research and Development or R&D enabling them to come up with improved products and enjoy leadership in the area
-
-...
-
-[Data](articles/27fcf4fe.json)
-
-[Extended Data](ext_articles/27fcf4fe.ext.json)
-
----
-
-### Three US soldiers killed, 25 injured in drone attack in Jordan
-
-*2024-01-28 22:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/three-us-soldiers-killed-25-injured-in-drone-attack-in-jordan/) · `en`
-
-Colombo (News 1st) – In the first US military fatalities since the Gaza War began, three US troops have been killed and 25 injured in a drone attack on a US base in Jordan on Saturday night (27th), near the Syrian border, the US has announced.
-
-US President Joe Biden issued a statement blaming Iran-backed military groups operating in Syria and Iraq.
-
-“Today, America’s heart is heavy. Last night, three U.S. service members were killed—and many wounded—during an unmanned aerial drone attack on our forces stationed in northeast Jordan near the Syria border.  While we are still gathering the facts of this attack, we know it was carried out by radical Iran-backed militant groups operating in Syria and Iraq”, Biden said in a statement.
-
-He also warns of reprisals, adding: "And have no doubt – we will hold all those responsible to account at a time and in a manner our choosing."
-
-There are some 3,000 US soldiers stationed at various bases in Jordan, which borders Israel, Syria and Iraq.
-
-...
-
-[Data](articles/0604f055.json)
-
-[Extended Data](ext_articles/0604f055.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 12:48:42**
+As of **2024-01-29 13:02:18**
 
 ## Newspaper Stats
 
-*Scraped **3,245** Articles*
+*Scraped **3,247** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 195
 dailyftlk | 223
 adalk | 291
 adaderanasinhalalk | 342
-virakesarilk | 345
+virakesarilk | 347
 tamilmirrorlk | 406
 adaderanalk | 420
 dailymirrorlk | 440
@@ -26,11 +26,31 @@ dailymirrorlk | 440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,245 (100.0%) of 3,245 articles have been extended.
+3,245 (99.9%) of 3,247 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### ஐநா அமைப்பிற்கான நிதி இடை நிறுத்தும் காசா மக்களிற்கு எதிரான கூட்டுத்தண்டனை - நியுசிலாந்தின் முன்னாள் பிரதமர்
+
+*2024-01-29 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175054) · `ta`
+
+பாலஸ்தீன அகதிகளிற்கான ஐநாஅமைப்பிற்கான நிதிஉதவி இடைநிறுத்தத்தை அவுஸ்திரேலியா கைவிடவேண்டும் என்ற வேண்டுகோள்கள் வெளியாகியுள்ளன.
+
+யுஎன்ஆர்டபில்யூஏ அமைப்பின் உறுப்பினர்கள் ஹமாசுடன் இணைந்து இஸ்ரேலிற்கு எதிராக தாக்குதல்களை மேற்கொண்டனர் என வெளியாகியுள்ள குற்றச்சாட்டுகளை தொடர்ந்து அவுஸ்திரேலியா உட்பட 9 நாடுகள் அந்த அமைப்பிற்கான நிதிஉதவியை இடைநிறுத்தியுள்ளன.
+
+இந்த நடவடிக்கையால் பேரழிவு ஏற்படலாம்  என நியுசிலாந்தின் முன்னாள் பிரதமர் ஹெலென் கிளார்க் தெரிவித்துள்ளார்.
+
+காசாவின் மிகப்பெரிய சேவை வழங்குநராக பாலஸ்தீனிய அகதிகளிற்கான ஐநா அமைப்பு காணப்படுவதால் அந்த அமைப்பிற்கான நிதி நிறுத்தம் காரணமாக பேரழிவு ஏற்படலாம் என அவர் தெரிவித்துள்ளார்.
+
+ஐநா அமைப்பில் 13000 பேர் பணியாற்றுகின்றனர் ஆனால் 13 பேருக்கு எதிராகவே குற்றச்சாட்டுகள் முன்வைக்கப்பட்டுள்ளன என தெரிவித்துள்ள அவர் ஐநா அமைப்பிற்கான உதவியை நிறுத்தும் தீர்மானம் முற்றிலும் அளவுக்குமீறிய நடவடிக்கை எனவும் நியுசிலாந்தின் முன்னாள் பிரதமர் தெரிவித்துள்ளார்.
+
+...
+
+[Data](articles/87ab4e07.json)
+
+---
 
 ### Thai Prime Minister to visit Sri Lanka to sign FTA
 
@@ -49,6 +69,42 @@ The Free Trade Agreement will be signed by Phumtham Wechayachai, Deputy Prime Mi
 [Data](articles/6d0a4f5e.json)
 
 [Extended Data](ext_articles/6d0a4f5e.ext.json)
+
+---
+
+### அதிவேக வீதிகளில் விபத்துகள் அதிகரிப்பதற்கான காரணத்தை விளக்கும் வைத்தியர் சமிதா சிறிதுங்க!
+
+*2024-01-29 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175050) · `ta`
+
+நேரத்தை மீதப்படுத்துவதனைக் கருத்தில் கொண்டு அதிவேகமாக வாகனம் செலுத்துவதால் அதிவேக வீதிகளில்  விபத்துக்கள் அதிகரித்து வருவதாக சுகாதார அமைச்சின் தொற்று அல்லாத பிரிவின் விபத்து தடுப்பு மற்றும் முகாமைத்துவ பிரிவின் தலைவர்  டாக்டர் சமிதா சிறிதுங்க தெரிவித்துள்ளார்.
+
+மேலும் பாதுகாப்பற்ற முறையில் வாகனங்களைச் செலுத்துவதே இந்த விபத்துக்களுக்கு காரணம் எனவும் அவர் சுட்டிக்காட்டியுள்ளார்.
+
+2023 ஆம் ஆண்டுடன் ஒப்பிடுகையில் அதிவேக வீதிகளில் போக்குவரத்து விபத்துக்கள் ஒப்பீட்டளவில் அதிகரித்திருப்பதனை நாங்கள்  அவதானித்துள்ளோம்.
+
+எனவே, அதிவேக வீதிகளில் விபத்துக்களை தவிர்ப்பதற்காக அனைவரும் கவனம் செலுத்த வேண்டும் எனவும் விசேட வைத்திய நிபுணர் வைத்தியர் சமித்த சிறிதுங்க தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/55f2c90f.json)
+
+---
+
+### Iran says that the US site is unrelated to Jordan
+
+*2024-01-29 12:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175041) · `ta`
+
+Iran has said that three US soldiers have been killed in a target of a US base in Jordan, while the attack has been related to the attack.
+
+The Iranian embassy for the UN has said that Iran has nothing to do with the attack on the US base.
+
+Iran said the attacks were echoing between US soldiers and opposition groups in the region.
+
+◼️
+
+[Data](articles/73475fdf.json)
+
+[Extended Data](ext_articles/73475fdf.ext.json)
 
 ---
 
@@ -239,24 +295,6 @@ Sivagnanam Kanagamani (age 71) from Karanawai south of Jaffna has been recovered
 [Data](articles/7a6679a5.json)
 
 [Extended Data](ext_articles/7a6679a5.ext.json)
-
----
-
-### Iran says that the US site is unrelated to Jordan
-
-*2024-01-29 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175041) · `ta`
-
-Iran has said that three US soldiers have been killed in a target of a US base in Jordan, while the attack has been related to the attack.
-
-The Iranian embassy for the UN has said that Iran has nothing to do with the attack on the US base.
-
-Iran said the attacks were echoing between US soldiers and opposition groups in the region.
-
-◼️
-
-[Data](articles/73475fdf.json)
-
-[Extended Data](ext_articles/73475fdf.ext.json)
 
 ---
 
@@ -2009,41 +2047,5 @@ Power and Energy Minister Kanchana Wijesekera said that the project was delayed 
 [Data](articles/049a0c1e.json)
 
 [Extended Data](ext_articles/049a0c1e.ext.json)
-
----
-
-### Disclosure of the student arrested for theft
-
-*2024-01-28 22:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192673) · `si`
-
-Beliatta has arrested 15-year-old steeringal role in a house in Sihileuwa area.
-
-Questions made by the student were revealed that he was declined by the neighboring house, as well as the goldening gold necklace.
-
-Meanwhile, the grandmother has died a few days ago and the police had begun investigations.
-
-◼️
-
-[Data](articles/3b0dd26d.json)
-
-[Extended Data](ext_articles/3b0dd26d.ext.json)
-
----
-
-### UN urges reversal of funding pause for Palestinian agency, promises staff accountability
-
-*2024-01-28 22:08:00* · [`adaderanalk`](https://www.adaderana.lk/news/96809/un-urges-reversal-of-funding-pause-for-palestinian-agency-promises-staff-accountability) · `en`
-
-U.N. officials implored countries to reconsider a pause in funding for the U.N. agency for Palestinians on Sunday, vowing that any staff found to be involved in Hamas’ attack on Israel would be punished and warning that aid for some two million people in Gaza was at stake.
-
-At least nine countries, including top donors the U.S. and Germany, have paused funding for the U.N. refugee agency for Palestinians (UNRWA) following allegations by Israel that a dozen of its 13,000 staff in Gaza were involved in the Oct. 7 rampage.
-
-“While I understand their concerns – I was myself horrified by these accusations - I strongly appeal to the governments that have suspended their contributions to, at least, guarantee the continuity of UNRWA’s operations,” U.N. Secretary-General Antonio Guterres said on Sunday, vowing to hold to account “any U.N. employee involved in acts of terror”.
-
-...
-
-[Data](articles/9ac35a5e.json)
-
-[Extended Data](ext_articles/9ac35a5e.ext.json)
 
 ---

@@ -1,46 +1,112 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 11:33:05**
+As of **2024-01-29 11:51:54**
 
 ## Newspaper Stats
 
-*Scraped **3,214** Articles*
+*Scraped **3,230** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 43
 bbccomsinhala | 53
 dbsjeyarajcom | 125
-economynextcom | 174
+economynextcom | 177
 islandlk | 185
-newsfirstlk | 190
+newsfirstlk | 194
 dailyftlk | 223
 adalk | 291
-adaderanasinhalalk | 338
 virakesarilk | 338
+adaderanasinhalalk | 340
 tamilmirrorlk | 404
 adaderanalk | 417
-dailymirrorlk | 433
+dailymirrorlk | 440
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,212 (99.9%) of 3,214 articles have been extended.
+3,214 (99.5%) of 3,230 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### இராஜாங்க அமைச்சரானார் லொஹான்
+### පාසල් පාවහන් තිළිණපත්වල වලංගු කාලය දීර්ඝ කෙරේ
+
+*2024-01-29 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192692) · `si`
+
+පාසල් සිසුන් වෙනුවෙන් රජය ලබා දුන් පාසල් පාවහන් තිළිණපත්වල වලංගු කාලය දීර්ඝ කර ඇතැයි අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+ඒ අනුව පෙර පෙර සඳහන් කර තිබු 2024. 02. 01 දින දක්වා වූ කාලය 2024. 02. 17 දක්වා දීර්ඝ කර තිබේ.
+
+◼️
+
+[Data](articles/afdc9514.json)
+
+---
+
+### අලුත් බද්දක් ගැන ඉඟියක්
+
+*2024-01-29 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192691) · `si`
+
+ඉදිරියේ දී වක්‍ර බදු හඳුන්වා දීමට හෝ බදු ප්‍රතිශතයන් ඉහළ දැමීමට කිසිදු බලාපොරොත්තුවක් නොමැති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+
+කෑගල්ල ප්‍රදේශයේදී මාධ්‍ය වෙත අදහස් දක්වමින් මුදල් රාජ්‍ය අමාත්‍යවරයා පවසා සිටියේ, රාජ්‍ය ආදායම වර්ධනය කර ගැනීමට බලාපොරොත්තු වන බවය.
+
+වක්‍ර බදු හේතුවෙන් භාණ්ඩ මිල ඉහළ නොයන බවත් භාණ්ඩවල ඉල්ලුම සැපයුම මත භාණ්ඩ මිල තීරණය වන බවත් මුදල් රාජ්‍ය අමාත්‍යවරයා මෙහිදී පැවසීය.
+
+මේ අතර 2025 වසරේදී නව දේපොළ බද්දක් හඳුන්වාදීමට බලාපොරොත්තු වන බව ද මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා කියා සිටියේය.
+
+දේපොළ බද්ද සෘජු බද්දක් වන බවත් එම බද්ද ඉහළ දේපොළක් ඇති අයගෙන් අය කරගනු ලබන නිශ්චිත මුදලක් බවත් මුදල් රාජ්‍ය අමාත්‍යවරයා මෙහිදී සඳහන් කළේය.
+
+◼️
+
+[Data](articles/8f7d8d28.json)
+
+---
+
+### Lohan Ratwatte gets new portfolio
+
+*2024-01-29 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lohan-Ratwatte-gets-new-portfolio/108-275908) · `en`
+
+Colombo, Jan. 29 (Daily Mirror)- Lohan Ratwatte has been sworn in before President Ranil Wickremesinghe as the State Minister of Plantation Industries and Mahaweli Development at the Presidential Secretariat this morning, the President's Media Division (PMD) said.
+
+◼️
+
+[Data](articles/63288c6c.json)
+
+---
+
+### Lohan became Minister of State
 
 *2024-01-29 10:54:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சரானார்-லொஹான்/175-332260) · `ta`
 
-பெருந்தோட்ட கைத்தொழில் மற்றும் மகாவலி அபிவிருத்தி இராஜாங்க அமைச்சராக லொஹான் ரத்வத்த, ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டுள்ளார்.
+Lohan Ratwatta has been sworn in as the Minister of State for Plantation Industries and Mahaweli Development in the presence of President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/1fe0a684.json)
+
+[Extended Data](ext_articles/1fe0a684.ext.json)
+
+---
+
+### Crocodile threat looms at Wellawatte beach !
+
+*2024-01-29 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Crocodile-threat-looms-at-Wellawatte-beach/108-275907) · `en`
+
+Colombo, Jan. 29 (Daily Mirror)- Those who visit Wellawatte beach have been adviced to be vigilant after a crocodile was spotted in the sea recently.
+
+A warning sign was seen on the beach asking people to be vigilant.
+
+People are visiting the beach in numbers due to the school holidays according to police.
+
+Police life savers have been deployed to face any emergency situation.
+
+◼️
+
+[Data](articles/5aa5a773.json)
 
 ---
 
@@ -55,6 +121,8 @@ He was sworn in to the position at the Presidential Secretariat, a short while a
 ◼️
 
 [Data](articles/d159341f.json)
+
+[Extended Data](ext_articles/d159341f.ext.json)
 
 ---
 
@@ -89,6 +157,26 @@ With an increasing risk of military escalation in the region, U.S. officials wer
 [Data](articles/1a192705.json)
 
 [Extended Data](ext_articles/1a192705.ext.json)
+
+---
+
+### Rajitha takes pro-government stand?
+
+*2024-01-29 10:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rajitha-takes-pro-government-stand/108-275906) · `en`
+
+Colombo, Jan  29 (Daily Mirror) -  Samagi Jana Balawegaya (SJB) MP Rajitha Senaratne who seemed to have taken a pro-government stand said IMF will declare Sri Lanka as a state which had come out of bankruptcy next month.
+
+Speaking during a public meeting over the weekend, MP Senaratne said Sri Lanka is slated to become a nation which had come out of bankruptcy within the shortest time.
+
+"People in Greece toppled four governments after it went into bankruptcy. It took ten years to come out of bankruptcy. So did Argentina and Lebanon. However, our country is slated to become the nation to come out of bankruptcy within the shortest period. IMF is likely to declare Sri Lanka as a state with a recovered economy next month," the MP said.
+
+MP Senaratne however voted against the Online Safety Bill last week.
+
+He said that the SJB Leader was critical of the engagement that the government has and had recently pledged that a future government led by him will go for a fresh agreement with IMF.
+
+◼️
+
+[Data](articles/a5901e21.json)
 
 ---
 
@@ -169,6 +257,104 @@ Dinura Kalubahana scored 64 off 78 balls, including 6 pounds and 3 sixes.
 [Data](articles/e5f481da.json)
 
 [Extended Data](ext_articles/e5f481da.ext.json)
+
+---
+
+### Thai PM to witness signing of FTA with Sri Lanka
+
+*2024-01-29 10:05:00* · [`economynextcom`](https://economynext.com/thai-pm-to-witness-signing-of-fta-with-sri-lanka-148913/) · `en`
+
+ECONOMYNEXT – Prime Minister of Thailand Srettha Thavisin will visit Sri Lanka on Feburary 3 and 4 and will also witness the signing of a free trade agreement, the Foreign Ministry said.
+
+The agreement will be signed by Trade Minister Nalin Fernando on the Sri Lankan side and Deputy Prime Minister and Minister of Commerce Phumtham Wechayachai on the Thai said.
+
+Prime Minister Thavisin will be Guest of Honour at Sri Lanka’s Independence Day celebrations on February 4.
+
+The Sri Lanka – Thailand Free Trade Agreement (SLTFTA) is expected to boost trade and investment ties between the two countries and promote integration with ASEAN economies.
+
+The two countries will also renew the Air Services Agreement and conclude a Memorandum of Understanding between the Gem and Jewellery Research and Training Institute of Sri Lanka and The Gem and Jewelry Institute of Thailand.
+
+...
+
+[Data](articles/bec4b60d.json)
+
+---
+
+### Six students arrested over ragging incident at Sabaragamuwa University
+
+*2024-01-29 10:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/six-students-arrested-over-ragging-incident-at-sabaragamuwa-university/) · `en`
+
+COLOMBO (News 1st); Six university students have been arrested in connection with an incident of ragging a female student at the Sabaragamuwa University.
+
+Police say a group of fourth-year students of the Faculty of Social Sciences and Language Studies were arrested in connection with the incident following an investigation conducted by the Samanala Wewa Police, based on a complaint received via the 1997 hotline on the 14th of January.
+
+The arrested students are 23, 24, and 25-year-old residents of Morawaka, Ruggahawila, Imaduwa and Kitalawa.
+
+Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
+
+30 percent of children in Sri Lanka miss out on pre-school -Minister
+
+◼️
+
+[Data](articles/57022f4c.json)
+
+---
+
+### Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
+
+*2024-01-29 10:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/malaysia-s-former-finance-minister-charged-with-corruption-after-pandora-papers-probe/) · `en`
+
+Colombo (News 1st) – Malaysia's former Finance Minister Daim Zainuddin, a key ally of ex-prime minister Mahathir Mohamad, was on Monday (29th) charged with corruption after an investigation by the Malaysian Anti-Corruption Commission (MACC) into revelations from the Pandora Papers, Malaysian media reported.
+
+Zainuddin was charged with failing to declare his assets, which are said to include 38 companies, 25 properties and a fleet of luxury vehicles that include a Rolls Royce, three Mercedes Benzes, and a Jaguar. Last month the MACC seized a 60-storey building in Kuala Lumpur, the Ilham Tower.
+
+Zainuddin, who is 85, pleaded not guilty and was released on bail. If convicted, he faces up to five years in prison. He served as Finance Minister from 1984-91 and again from 1999-2001.
+
+Malaysia’s current PM Anwar Ibrahim, a bitter rival of Mahathir, has vowed to crack down on corruption, but has been accused of using anti-corruption laws against political rivals.
+
+...
+
+[Data](articles/bf90dc43.json)
+
+---
+
+### Thai PM to visit Sri Lanka this weekend
+
+*2024-01-29 10:00:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/thai-pm-to-visit-sri-lanka-this-weekend/) · `en`
+
+COLOMBO (News 1st); Thailand's Prime Minister Srettha Thavisin will engage in a two-day official visit to Sri Lanka from 3rd February, said the Department of Government Information.
+
+Earlier it was reported that, Thailand Prime Minister Srettha Thavisin will travel to Sri Lanka to sign a free trade agreement (FTA) in February following the latest round of talks between the two countries.
+
+Chotima Iemsawasdikul, the director-general of the Thai Commerce Ministry's Department of Trade Negotiations told the media that Sri Lanka hosted the ninth round of FTA negotiations with Thailand on Dec 18–20.
+
+FTA negotiations between the countries resumed in November after they were put on hold for four years due to the Covid-19 pandemic and ongoing restructuring of Sri Lanka's government agencies.
+
+...
+
+[Data](articles/35b4741d.json)
+
+---
+
+### 30 percent of children in Sri Lanka miss out on pre-school -Minister
+
+*2024-01-29 09:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/30-percent-of-children-in-sri-lanka-miss-out-on-pre-school-minister/) · `en`
+
+COLOMBO (News 1st); Minister of Education Dr. Susil Premajayantha said 30 percent of children who have reached the age of 4 years do not attend pre-school in Sri Lanka.
+
+The Education Minister said early childhood development is crucial for children.
+
+He stressed that much attention is paid globally to early childhood development adding however that it is not the case in Sri Lanka.
+
+The Minister says the government aims to ensure that all children who are four years of age attend pre-school, prior to being admitted to Grade 1, and will look to bring all pre-schools under one framework.
+
+Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
+
+30 percent of children in Sri Lanka miss out on pre-school -Minister
+
+◼️
+
+[Data](articles/8bfa1186.json)
 
 ---
 
@@ -270,6 +456,24 @@ The cause of the fire has not yet been detected and the Mawanella police are con
 
 ---
 
+### Sri Lanka rupee opens at 317.50/90 to the US dollar
+
+*2024-01-29 09:36:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-317-50-90-to-the-us-dollar-148909/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 317.50/90 to the US dollar on Monday, from 317.50/80 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 was quoted at 13.10/25 percent from 13.10/20 percent.
+
+A bond maturing on 15.03.2028 was quoted at 13.70/85 percent from 13.70/80 percent.
+
+The Colombo Stock Exchange opened up, the All Share Price Index was up 0.04 percent at 10,339, and the S&P SL20 was up 0.19 percent at 2,934. (Colombo/Jan29/2024)
+
+◼️
+
+[Data](articles/510d99fd.json)
+
+---
+
 ### 11 days of her infule, parents flect
 
 *2024-01-29 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192687) · `si`
@@ -298,6 +502,38 @@ Police said that a young couple who a resident of Godawela suspects the parents 
 
 ---
 
+### Oman air to stop flights to Colombo
+
+*2024-01-29 09:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Oman-air-to-stop-flights-to-Colombo/108-275886) · `en`
+
+Muscat, Jan 29 (Times of Oman) -  As part of its ongoing transformation, which aims to improve the company’s overall financial performance and fortify its position in an increasingly competitive market, Oman Air has announced several strategic changes to its network.
+
+These include the addition of a new route, Sialkot, as well as the cancellation of operations to Islamabad, Lahore, Colombo and Chittagong. The airline will also be reducing frequencies to certain markets while increasing capacity to two current destinations (Lucknow and Thiruvananthapuram).
+
+In addition, three destinations will be operated on a seasonal basis: Trabzon during the summer season, and Zurich and Malé during winter.
+
+...
+
+[Data](articles/a0fc6d1e.json)
+
+---
+
+### Somali Navy Chief contacts EU Navy
+
+*2024-01-29 09:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Somali-Navy-Chief-contacts-EU-Navy/155-275882) · `en`
+
+Colombo, Jan 29 (Daily Mirror) - Somali Navy Abdi Warsame Osman has contacted the European Union Joint Operation Centre to secure the release of the Sri Lankans abducted by the Somali pirates, an official said.
+
+When contacted by Daily Mirror, Sri Lankan High Commissioner in Kenya Kana Kananathan said that he along with his colleague in Ethiopia is actively engaged in a close collaboration with the Navy Chief of Somalia to secure the safe release of Sri Lankan nationals who were abducted by Somali pirates.
+
+According to Mr. Kananathan, the Somali Navy Chief has informed the European Union Navy Joint Operation Centre through their Liaison Officer about the ongoing efforts to address the situation and ensure the safe return of the abducted Sri Lankans.
+
+...
+
+[Data](articles/f244f9c2.json)
+
+---
+
 ### Valued motorcycle rescue stolen in Samanthurai; arrested
 
 *2024-01-29 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175026) · `ta`
@@ -313,6 +549,26 @@ Subsequently, under the guidance of the police officer KDS Jayalath, the police 
 [Data](articles/7321f8f2.json)
 
 [Extended Data](ext_articles/7321f8f2.ext.json)
+
+---
+
+### Six students at Sabaragamuwa University arrested for ragging female student
+
+*2024-01-29 09:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Six-students-at-Sabaragamuwa-University-arrested-for-ragging-female-student/108-275877) · `en`
+
+Balangoda, Jan 29 (Daily Mirror) - Six fourth year students of the Sabaragamuwa University have been arrested for ragging a female student.
+
+The Samanalaweva Police conducted an investigation following a complaint received on hotline 1997 and arrested the suspects.
+
+Police said the arrested students are from the Faculty of of Social Sciences and Languages of the Sabaragamuwa University.
+
+They were arrested yesterday (28) after being summoned to the Samanalawewa Police Station.
+
+The arrested students, aged 23, 24 and 25 years are residents of Morawaka, Rukgahawila, Aluhtarama, Imaduwa and Kithalawa and they will be produced before courts today.
+
+◼️
+
+[Data](articles/16d39956.json)
 
 ---
 
@@ -367,6 +623,24 @@ Students aged 23, 24 and 25 from Morawaga, Rukuhawa, Alutarama, Imamuwa and Kita
 [Data](articles/17279136.json)
 
 [Extended Data](ext_articles/17279136.ext.json)
+
+---
+
+### Chamara Weerasinghe discharged from hospital
+
+*2024-01-29 08:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chamara-Weerasinghe-discharged-from-hospital/108-275876) · `en`
+
+Colombo, Jan 29 (Daily Mirror) - Renowned vocalist Chamara Weerasinghe, who was receiving treatment at the Colombo South Teaching Hospital has recovered and been discharged from the hospital.
+
+Weerasinghe spent close to 40 days under medical care, initially having been admitted to the Kalubowila Hospital due to respiratory issues last month.
+
+Sources from the hospital said that he underwent two surgeries, addressing complications in both the throat and abdomen.
+
+Despite his recovery, doctors have advised Weerasinghe should continue to rest even though he has recovered.
+
+◼️
+
+[Data](articles/84139c35.json)
 
 ---
 
@@ -635,6 +909,28 @@ Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
 [Data](articles/846f8e03.json)
 
 [Extended Data](ext_articles/846f8e03.ext.json)
+
+---
+
+### Sri Lanka tax revenues up 56-pct, deficit up on interest in Nov 23
+
+*2024-01-29 07:49:00* · [`economynextcom`](https://economynext.com/sri-lanka-tax-revenues-up-56-pct-deficit-up-on-interest-in-nov-23-148891/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s tax revenues grew 56 percent to 2,512 billion rupees during the 11 months to November, with total revenues rising to 2,758 billion rupees, but the deficit surged with a spike in interest costs, official data shows.
+
+Monthly tax collections were 299 billion in November, data released by the central bank showed.
+
+Current spending surged to 4,292.8 billion rupees, up 46 percent, data released by the central bank showed as interest costs surged. Non-interest costs rose by a more moderate 14.5 percent.
+
+Interest costs which were 1,772 billion rupees up to October surged to 2,351 billion rupees by November 2023.
+
+Interest costs usually rise in the stabilization year in Sri Lanka after the central bank triggers a currency crisis by cutting rates with reverse repo injections to target inflation or growth or both.
+
+Sri Lanka began stabilization by allowing interest rates to rise in April 2022.
+
+...
+
+[Data](articles/ce06ea44.json)
 
 ---
 
@@ -1705,271 +2001,5 @@ The activity-based manual provides examples and reflection on unsustainable prac
 [Data](articles/64c6bd31.json)
 
 [Extended Data](ext_articles/64c6bd31.ext.json)
-
----
-
-### Cricket ban out
-
-*2024-01-28 19:20:26* · [`adalk`](https://www.ada.lk/sports/ක්‍රිකට්-තහනම-ඉවතට/9-407763) · `si`
-
-Steps have been taken to remove the ban on Sri Lanka immediately after the International Cricket Council (ICC).
-
-Minister of Sports Harin Fernando says that the relevant official announcement will be released soon.
-
-◼️
-
-[Data](articles/49ae6b8c.json)
-
-[Extended Data](ext_articles/49ae6b8c.ext.json)
-
----
-
-### Cricket ban out
-
-*2024-01-28 19:20:26* · [`adalk`](https://www.ada.lk/breaking_news/ක්‍රිකට්-තහනම-ඉවතට/11-407763) · `si`
-
-Steps have been taken to remove the ban on Sri Lanka immediately after the International Cricket Council (ICC).
-
-Minister of Sports Harin Fernando says that the relevant official announcement will be released soon.
-
-◼️
-
-[Data](articles/f2fbb1cd.json)
-
-[Extended Data](ext_articles/f2fbb1cd.ext.json)
-
----
-
-### Final rites for late Sanath Nishantha at Rajakadalu
-
-*2024-01-28 19:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Final-rites-for-late-Sanath-Nishantha-at-Rajakadalu/110-275849) · `en`
-
-The remains of State Minister of Water Supply, Sanath Nishantha, who died in a car accident on the Colombo-Katunayake expressway, was cremated today (28) at the Roman Catholic Cemetery in Rajakadalu. Pix by Hiran Priyankara Jayasinghe
-
-◼️
-
-[Data](articles/c6512bcf.json)
-
-[Extended Data](ext_articles/c6512bcf.ext.json)
-
----
-
-### People have been intense over the government officials who serve the village
-
-*2024-01-28 19:10:05* · [`adalk`](https://www.ada.lk/breaking_news/ගමට-සේවය-සලසන-රාජ්‍ය-නිලධාරීන්-පිළිබඳව-ජනතාව-දැඩි-අතෘප්තියෙන්/11-407762) · `si`
-
-It is revealed that the people of the University of Peradeniya has been dissatisfied with the satisfaction of the public's satisfaction in public sector and satisfaction of the people of the public.
-
-The Survey, Economics and Strategic State of Economics and Strategies, Professor Malaka Ranathilaka, covering 22 districts of Sri Lanka, were conducted with 1000 citizens to cover 22 districts in Sri Lanka.
-
-Accordingly, they referred to the village, Grama Niladhari, Samurdhi Officers, Development Officers and Community Research Officers, 60% of the Grama Niladhari Research Officers.
-
-The professor said that 79% of Samurdhi officers and 79% of the community police officers and 80% of Agricultural Insurance Officers were not satisfied.
-
-The professor said that 47% of the Grama Niladhari, 79% of Samurdhi officers and 79% of the development officers, 79% of the development of agricultural police officers, 79% of the Agricultural Research Officers.
-
-...
-
-[Data](articles/00ae5eba.json)
-
-[Extended Data](ext_articles/00ae5eba.ext.json)
-
----
-
-### University student who had helped the student who was conducting examination fraud
-
-*2024-01-28 19:06:50* · [`adalk`](https://www.ada.lk/breaking_news/විභාග-වංචා-සිදුකළ-සිසුවා-හා-උපකාර-කළ-සරසවි-සිසුවා-රිමාන්ඩ්/11-407761) · `si`
-
-Muthaur Magistrate Tasneim Mohamed Pueven (27) presented the student of the Southeasi University to be remanded until February (02).
-
-Investigations have revealed that the suspected private applicant using a smartphone using a smartphone photographed the second question paper of the Communication Technology Tesy.
-
-The police also found that the university student also received the answers to a resident of Matale in addition to the private applicant.
-
-The incident during the examination hall lodged a complaint with Deputy Director of Education, Deputy Director of Education, Deputy Director of Education, Deputy Director of Education.
-
-The Deputy Director of Education has then arrest the suspects after he had lodged a complaint with the Muttur Police.
-
-◼️
-
-[Data](articles/7e196617.json)
-
-[Extended Data](ext_articles/7e196617.ext.json)
-
----
-
-### 28 parties, 60 MPs negotiate with us to join the new coalition - Nimal Lansa
-
-*2024-01-28 19:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175015) · `ta`
-
-More than 28 parties and more than 60 MPs are in talks with us to join the new alliance. Nimal Lansa, the founder of the new coalition, said that our coalition will carry out a program of providing democratic authority to a leader, not a leader.
-
-Nimal Lansa said this while addressing the first public meeting in Ja-Ela on Saturday (27) to build a new alliance.. He continued to speak there,
-
-The biggest alliance will be formed in the future by incorporating a large number of MPs and parties. For the first time in history, a large number of people gathered to win a show without a party or a party. We express our gratitude to the people who have accepted our invitation without the leader or the leadership committee.
-
-...
-
-[Data](articles/95630fef.json)
-
-[Extended Data](ext_articles/95630fef.ext.json)
-
----
-
-### Urukh: The helpless strategy
-
-*2024-01-28 19:03:00* · [`virakesarilk`](https://www.virakesari.lk/article/175009) · `ta`
-
-If other materials have been replaced instead of the seized drug, it must be with the help of those who are in government and power.
-
-The abolition of drug trafficking and the abolition of undergraduate crimes, the abolition of the scandals and corruption at the level of power is possible.
-
-Instead, the country cannot be cleaned by catching small criminals and filling prisons.
-
-◼️
-
-[Data](articles/65af9185.json)
-
-[Extended Data](ext_articles/65af9185.ext.json)
-
----
-
-### Destabilization
-
-*2024-01-28 19:01:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கைக்கு-விதிக்கப்பட்ட-தடை-நீக்கம்/175-332235) · `ta`
-
-Sports Minister Hareen Fernando has said that the International Cricket Council (ICC) has been removed with the immediate implementation of the ban on Sri Lanka.
-
-◼️
-
-[Data](articles/9b4fd6ce.json)
-
-[Extended Data](ext_articles/9b4fd6ce.ext.json)
-
----
-
-### Thorny
-
-*2024-01-28 19:00:00* · [`virakesarilk`](https://www.virakesari.lk/article/175008) · `ta`
-
-This crown that Sreedharan has received is not known to be a thorns for those who celebrate Sreedharan's victory and to those who have been welcomed.
-
-This is because after becoming the leader of the Tamil state party, he will have to work within the party and outside the party.. In doing so, he will meet enmity. You will know how appropriate it is.
-
-◼️
-
-[Data](articles/ad3ad576.json)
-
-[Extended Data](ext_articles/ad3ad576.ext.json)
-
----
-
-### Parliament prevention in Parliament to speak lasting speech
-
-*2024-01-28 18:59:34* · [`adalk`](https://www.ada.lk/breaking_news/අවසාන-රාජාසන-කථාව-කිරීමට-පාර්ලිමේන්තුවේ-වාරාවසාන-කරයි/11-407760) · `si`
-
-President SMarakar said that the final monsoonal chairman who could not carry out and remove the final monzrees of President Ranil Wickremesinghe has been completed and the number of COPE.
-
-He was speaking at a media briefing held at the Colombo Opposition Directing Office today (28).
-
-"The Parliament has already been completed by now. A wonderful government. I don't know how many times when the present President arrived, he would not know Parliament. This Parliament has about four times prevented. This time, this time was in disaster on two reasons.
-
-...
-
-[Data](articles/d298aa97.json)
-
-[Extended Data](ext_articles/d298aa97.ext.json)
-
----
-
-### Success - What did the failure determined?
-
-*2024-01-28 18:58:00* · [`virakesarilk`](https://www.virakesari.lk/article/175007) · `ta`
-
-Maui should act as a person who has more energy than Senathirajah. Sreedharan will take advantage of all the opportunities available for it.
-
-If Sumanthiran is still strengthening the anti -Tamil standpoint to oppose Sreedharan, the negative image of him will still be strengthened.
-
-◼️
-
-[Data](articles/aa7a848a.json)
-
-[Extended Data](ext_articles/aa7a848a.ext.json)
-
----
-
-### ICC lifts ban on Sri Lanka with immediate effect
-
-*2024-01-28 18:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/ICC-lifts-ban-on-Sri-Lanka-with-immediate-effect/155-275848) · `en`
-
-The International Cricket Council (ICC) lifted the ban that was imposed on Sri Lanka with immediate effect, Sports Minister Harin Fernando said.
-
-◼️
-
-[Data](articles/1d9f44e8.json)
-
-[Extended Data](ext_articles/1d9f44e8.ext.json)
-
----
-
-### State -to -work state
-
-*2024-01-28 18:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175005) · `ta`
-
-Has been introduced by the Ceremony Protection Act. Its impact is not fully anticipated. Just as the impact of the Terrorism Act was introduced, the consequences of the real safety law could only be fully predicted.
-
-◼️
-
-[Data](articles/9e578186.json)
-
-[Extended Data](ext_articles/9e578186.ext.json)
-
----
-
-### Sanath Nishantha passes through the people
-
-*2024-01-28 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192668) · `si`
-
-The funeral of Hon. Sanath Nishantha's remains were held in an accident on the Katunayake Expressway this afternoon.
-
-Rajakdaluwa was taken from the house of the State Minister in the Arachchikattuwa to the Catholic Catholic Cemetery in the house.
-
-◼️
-
-[Data](articles/7d6bbe9d.json)
-
-[Extended Data](ext_articles/7d6bbe9d.ext.json)
-
----
-
-### Israel - Arab dictators and American - European imperialism
-
-*2024-01-28 18:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175002) · `ta`
-
-The extinct operations in Gaza by the US -European and Israelis and the genocide of Palestine have caused anger among the public.. At the same time, the Arab dictators are very negligent in this regard. It shows that the Arab tyrannical rulers and Israel are the same US -European imperialism.
-
-◼️
-
-[Data](articles/b0a3bde4.json)
-
-[Extended Data](ext_articles/b0a3bde4.ext.json)
-
----
-
-### Chinese ship and the Maldives
-
-*2024-01-28 18:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175001) · `ta`
-
-India is vigilant on Chinese Study Shipping. This should be considered as a sign that the problem of Chinese inspection ships is going to be a permanent for India.
-
-Due to the conflicts with the Maldives in the face of China's domination in the region, India has increased the responsibility of carefully handling Sri Lanka.
-
-India does not want to develop enmity around itself. It is firmly believed that it will lead to the domination of other powers.
-
-◼️
-
-[Data](articles/8da92073.json)
-
-[Extended Data](ext_articles/8da92073.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 01:17:16**
+As of **2024-01-30 01:33:00**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,378 (99.9%) of 3,380 articles have been extended.
+3,380 (100.0%) of 3,380 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,8 @@ Earlier, police reported that all traffic plying towards Kandy along the Colombo
 ◼️
 
 [Data](articles/5afe0852.json)
+
+[Extended Data](ext_articles/5afe0852.ext.json)
 
 ---
 
@@ -89,6 +91,8 @@ According to police, all traffic plying towards Kandy from Colombo has been bloc
 ◼️
 
 [Data](articles/5d7a0c52.json)
+
+[Extended Data](ext_articles/5d7a0c52.ext.json)
 
 ---
 

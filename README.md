@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 22:50:17**
+As of **2024-01-29 23:17:19**
 
 ## Newspaper Stats
 
-*Scraped **3,373** Articles*
+*Scraped **3,375** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ economynextcom | 187
 newsfirstlk | 203
 dailyftlk | 223
 adalk | 312
-adaderanasinhalalk | 357
+adaderanasinhalalk | 359
 virakesarilk | 368
 tamilmirrorlk | 423
 adaderanalk | 433
@@ -26,25 +26,61 @@ dailymirrorlk | 458
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,359 (99.6%) of 3,373 articles have been extended.
+3,373 (99.9%) of 3,375 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### சமூக செயற்பாட்டாளர் பியத் நிகேஷல கைது
+### Social activist Piyat Nikeshla arrested
 
 *2024-01-29 22:34:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-செயற்பாட்டாளர்-பியத்-நிகேஷல-கைது/175-332308) · `ta`
 
-சமூக செயற்பாட்டாளரான பியத் நிகேஷல குற்றப்புலனாய்வு திணைக்களத்தின் கணினி குற்ற விசாரணை பிரிவினால் இன்று(29) கைது செய்யப்பட்டார்.
+Social activist Piyat Nikeshla was arrested today by the Criminal Investigation Department of the Criminal Investigation Department.
 
-வாக்குமூலமொன்றை பெற்றுக்கொள்வதற்காக அவர் குற்றப்புலனாய்வு திணைக்களத்திற்கு அழைக்கப்பட்டிருந்ததுடன் வாக்குமூலம் பெறப்பட்டதன் பின்னர் கைது செய்யப்பட்டார்.
+He was summoned to the Criminal Investigation Department to obtain a affidavit and was arrested after his affidavit.
 
-பொதுமக்களின் அமைதியை சீர்குலைத்தமை, அரசாங்கத்தின் மீது பொதுமக்களுக்கு அதிருப்தியை ஏற்படுத்தியமை மற்றும் பொதுமக்களை ஆத்திரமடையச் செய்யும் வகையில் காணொளிகளை வெளியிட்டமை உள்ளிட்ட குற்றச்சாட்டுகளின் கீழ் பியத் நிகேஷல கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+Police said Piyat Nikeshla was arrested on charges of disrupting the peace of the public, the public dissatisfaction with the government and the publication of the public.
 
 ◼️
 
 [Data](articles/b04504a4.json)
+
+[Extended Data](ext_articles/b04504a4.ext.json)
+
+---
+
+### මුදල් අමාත්‍යාංශය ගැන පාර්ලිමේන්තු කාරක සභාවල කනස්සල්ල
+
+*2024-01-29 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192713) · `si`
+
+පවතින අර්බුදකාරී ආර්ථික වාතාවරණය සමනය කිරීමට මුදල් අමාත්‍යාංශය සහ ඊට අනුබද්ධ ආයතනවලට පැහැදිලි සැලැස්මක් නොමැතිවීම සම්බන්ධයෙන් පාර්ලිමේන්තුවේ කාරක සභා කිහිපයක සභාපතිවරු පසුගියදා සිය කනස්සල්ල පළකළහ.
+
+ඒ මුදල් අමාත්‍යාංශය ඇතුළු ආයතන කිහිපයක් පසුගියදා කෝපා කමිටුව හමුවට කැඳවූ අවස්ථාවේදීය.
+
+මෙහිදී රජයේ ආදායම් වැඩි කිරීම සඳහා පාර්ලිමේන්තු කාරක සභා ගණනාවකින් ලබාදුන් නිර්දේශ ක්‍රියාත්මක කිරී‍ම ප්‍රමාදවීම සොයාබැලීම සඳහා මුදල් අමාත්‍යාංශය, දේශීය ආදායම් දෙපාර්තමේන්තුව, සුරාබදු දෙපාර්තමේන්තුව සහ ශ්‍රී ලංකා රේගුව යන ආයතනවල ප්‍රධානීන් ඇතුළු නිලධාරීන් රජයේ ගිණුම් පිළිබඳ කාරක සභාවට (කෝපා කමිටුව) කැඳවා තිබුණි.
+
+එහිදී අදහස් දක්වමින් ජාතික ආර්ථික හා භෞතික සැළසුම් පිළිබඳ ආංශික අධීක්ෂණ කාරක සභාවේ සභාපති මහින්දාන්ද අළුත්ගමගේ මහතා පෙන්වා දුන්නේ දේශීය ආදායම් පනත සංශෝධනය කිරීම සදහා දෙපාර්තමේන්තුවේ සහ අමාත්‍යාංශයේ මැදිහත්වීම ප්‍රමාණවත් නොවන බවය.
+
+◼️
+
+[Data](articles/07d918fa.json)
+
+---
+
+### නුවර පාර කැලණියෙන් අවහිර වෙයි
+
+*2024-01-29 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192712) · `si`
+
+විරෝධතාවයක් හේතුවෙන් නුවර පාර කැලණිය විශ්වවිද්‍යාලය ඉදිරිපිටින් අවහිර වී තිබේ.
+
+පොලීසිය පැවසුවේ කැලණිය සරසවියේ සිසුන් පිරිසක් මෙලෙස විරෝධතාවයේ නිරතවන බවය.
+
+මේ හේතුවෙන් කොළඹ - නුවර ප්‍රධාන මාර්ගයේ කැලණිය විශ්වවිද්‍යාලය ඉදිරිපිටින් නුවර දෙසට ගමන්කරන මංතීරුව මේ වනවිට සම්පූර්ණයෙන්ම අවහිර වී තිබේ.
+
+◼️
+
+[Data](articles/9bc97149.json)
 
 ---
 
@@ -61,6 +97,8 @@ The Commission for Truth, Unity and Reconciliation in Sri Lanka Bill was publish
 ...
 
 [Data](articles/63ac2446.json)
+
+[Extended Data](ext_articles/63ac2446.ext.json)
 
 ---
 
@@ -79,6 +117,8 @@ National Consumer Front Chairman Asela Sampath requested that Trade Minister Ban
 ...
 
 [Data](articles/fddc73c3.json)
+
+[Extended Data](ext_articles/fddc73c3.ext.json)
 
 ---
 
@@ -153,6 +193,8 @@ Piyath Nikeshala was also arrested on June last year over the live streaming on 
 ◼️
 
 [Data](articles/938ca514.json)
+
+[Extended Data](ext_articles/938ca514.ext.json)
 
 ---
 
@@ -840,6 +882,8 @@ IMF senior mission chief Peter Breuer told reporters earlier this month that a r
 
 [Data](articles/4f17e102.json)
 
+[Extended Data](ext_articles/4f17e102.ext.json)
+
 ---
 
 ### Woman arrested for assaulting a police officer
@@ -890,6 +934,8 @@ A bond maturing on 01.07.2032 closed at 14.10/15 percent from 14.00/10 percent. 
 
 [Data](articles/15442ebb.json)
 
+[Extended Data](ext_articles/15442ebb.ext.json)
+
 ---
 
 ### CEB introduces new methods to pay electricity bills
@@ -939,6 +985,8 @@ Dissanayake, who leads both the NPP and the Marxist-Leninist Janatha Vimukthi Pe
 ...
 
 [Data](articles/961c85af.json)
+
+[Extended Data](ext_articles/961c85af.ext.json)
 
 ---
 
@@ -1002,6 +1050,8 @@ The December estimates are provisional and are associated with a margin of error
 
 [Data](articles/5ad28e0b.json)
 
+[Extended Data](ext_articles/5ad28e0b.ext.json)
+
 ---
 
 ### Sri Lankan fishermen captured by Somali pirates rescued
@@ -1059,6 +1109,8 @@ The banks industry and diversified financials attracted little to no interest.
 ◼️
 
 [Data](articles/8969707d.json)
+
+[Extended Data](ext_articles/8969707d.ext.json)
 
 ---
 
@@ -1156,6 +1208,8 @@ That exchange rate depreciation (the price of a US dollar measured in locally ma
 
 [Data](articles/feea0637.json)
 
+[Extended Data](ext_articles/feea0637.ext.json)
+
 ---
 
 ### Galle Face Closed for Independence Day Rehearsals
@@ -1237,6 +1291,8 @@ Siyambalapitiiya called the proposed wealth tax, to be introduced in 2025, “ve
 ...
 
 [Data](articles/6a36b498.json)
+
+[Extended Data](ext_articles/6a36b498.ext.json)
 
 ---
 
@@ -1611,6 +1667,8 @@ The introduction of modern machinery and farming equipment was also discussed, a
 ...
 
 [Data](articles/2a9659ea.json)
+
+[Extended Data](ext_articles/2a9659ea.ext.json)
 
 ---
 
@@ -2023,37 +2081,5 @@ They were residents of Morawaka, Rukgahala, Imaduwa and Kithala, who is aged 23,
 [Data](articles/14b4d836.json)
 
 [Extended Data](ext_articles/14b4d836.ext.json)
-
----
-
-### Abolish 'Parate Law'
-
-*2024-01-29 12:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Abolish-Parate-Law/110-275911) · `en`
-
-A small-scale entrepreneurs' protest was held today in the Maharagama town, demanding the government to abolish the 'Parate Law' that leads to the auction of public property and also to reduce the electricity bills. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/12ea21cc.json)
-
-[Extended Data](ext_articles/12ea21cc.ext.json)
-
----
-
-### Thai Prime Minister to visit Sri Lanka, FTA to be signed
-
-*2024-01-29 12:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thai-Prime-Minister-to-visit-Sri-Lanka-FTA-to-be-signed/108-275910) · `en`
-
-Colombo, Jan. 29 (Daily Mirror)- Prime Minister of Thailand Srettha Thavisin will undertake a two-day official visit to Sri Lanka from 03 to 04 February 2024 where he is scheduled to witness the signing of  the Sri Lanka-Thailand Free Trade Agreement (SLTFTA), the Ministry of Foreign Affairs said.
-
-The Prime Minister is to arrive in the country at the invitation of President Ranil Wickremesinghe and will participate at the ceremony to mark the 76th Anniversary of Independence of Sri Lanka as a Guest of Honour.
-
-"During the visit, the Thai Prime Minister is scheduled to hold official discussions with President Wickremesinghe and witness the signing of the historic Sri Lanka-Thailand Free Trade Agreement (SLTFTA). The Free Trade Agreement will be signed by Phumtham Wechayachai, Deputy Prime Minister and Minister of Commerce of Thailand and Nalin Fernando, Minister of Trade, Commerce and Food Security of Sri Lanka," the the Ministry of Foreign Affairs said in a statement.
-
-...
-
-[Data](articles/4d157afa.json)
-
-[Extended Data](ext_articles/4d157afa.ext.json)
 
 ---

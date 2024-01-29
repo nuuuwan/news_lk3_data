@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 14:17:09**
+As of **2024-01-29 14:32:44**
 
 ## Newspaper Stats
 
@@ -26,29 +26,37 @@ dailymirrorlk | 443
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,268 (99.9%) of 3,272 articles have been extended.
+3,272 (100.0%) of 3,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### கைதிகளை விட மோசமான கட்டுப்பாடுகளுடன் திருச்சி முகாமில் சாந்தன்; -உடல் நிலை மோசமாக பாதிப்பு -விபரங்களை அறியமுடியாமல் தவிக்கும் குடும்பத்தவர்கள்
+### Santhan at Trichy camp with worse restrictions than prisoners;-Family conditions are badly affected -family members who are unable to know
 
 *2024-01-29 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175045) · `ta`
 
-ராஜீவ்காந்தி கொலைவழக்கில் தண்டனை வழங்கப்பட்டு பின்னர் விடுதலையான சாந்தன் தொடர்ந்தும் திருச்சி விசேட முகாமில் தடுத்துவைக்கப்பட்டுள்ள நிலையில் அவரின் உடல்நிலை மோசமடைந்துள்ளதாக தகவல்கள் வெளியாகியுள்ளன
+According to reports, Rajiv Gandhi has been sentenced to death after his release and then released at the Trichy special camp.
 
-எனினும் அவரது உடல்நிலை குறித்து பூரணமான விபரம் எதுவும் கிடைக்கவில்லை என சாந்தனின் சகோதரர் மதிசுதா தெரிவித்தார்.
+However, Shantan's brother Mathisudha said that he had no full details of his health.
 
-வெளியே சமூகத்தை நம்ப வைக்கப்பட்டது போல அவர்களுக்கு சுதந்திரமான எந்த விடயங்களும் இல்லை கைதிகளை விட மோசமான கட்டுப்பாடுகளுடனேயே வைக்கப்பட்டுள்ளார்கள். என அவர் தெரிவித்தார்
+There is no free things as they believed in the outside community with worse restrictions than inmates. He said
 
-திருச்சி வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவுக்கு சேர்க்கப்பட்ட பின் அந்த அன்றே சென்னை ராஜீவ்காந்தி அரச மருத்துவமனையின் அவசர சிகிச்சைப் பிரிவில் சேர்க்கப்பட்டிருக்கிறார்.
+After being admitted to the Emergency Unit of the Trichy Hospital, he was admitted to the Emergency Department of the Rajiv Gandhi State Hospital in Chennai.
 
-முன்னர் சிறுநீரகம் மற்றும் ஈரலில் ஏற்பட்ட கோளறு எனக் கூறப்பட்டாலும் பின்னர் ஈரல் பாதிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+Previously, the kidneys and liver were said to have been affected by the liver.
+
+Only the lawyer is allowed to see. There is no free issues as they believe in the outside community.
+
+When did you finally contact - what did he say about his condition?
+
+There is no direct connection between us and him. All the news that is currently related to him is only the information provided by the lawyer who goes. They are not allowed to use the phone.
 
 ...
 
 [Data](articles/a87cd89d.json)
+
+[Extended Data](ext_articles/a87cd89d.ext.json)
 
 ---
 
@@ -63,6 +71,8 @@ Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th 
 ◼️
 
 [Data](articles/084d9a76.json)
+
+[Extended Data](ext_articles/084d9a76.ext.json)
 
 ---
 
@@ -108,23 +118,25 @@ Kataragama police are conducting further investigations on the instructions of S
 
 ---
 
-### කොළඹ වරායේ නැව් පිරෙයි
+### Colombo port will be filled
 
 *2024-01-29 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192700) · `si`
 
-රතු මුහුද ආශ්‍රිතව ඇතිවී තිබෙන අර්බුද තත්ත්වය හේතුවෙන් කොළඹ වරාය වෙත පැමිණෙන නෞකා සංඛ්‍යාව ඉහළ ගොස් තිබේ.
+The number of ships arriving at the Colombo Port has increased due to the crisis in the Red Sea.
 
-වරාය නාවික හා සිවිල් ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා ප්‍රකාශ කළේ ජනවාරි මාසය තුළ වරායට නෞකා පැමිණීම සියයට 35කින් ඉහළ ගොස් ඇති බවය.
+Harbor Naval and Civil Aviation Minister Nimal Siripala de Silva said that the fleet of shipping was up 35 percent in January.
 
-එමෙන්ම වරායේ බහාලුම් මෙහෙයුම් ද සියයට 72කින් පමණ ඉහළ ගොස් ඇති බව අමාත්‍යවරයා සඳහන් කළේය.
+The port container operations have also increased by 72 percent, he said.
 
-ශ්‍රී ලංකා වරාය අධිකාරියේ ජයබහලු පර්යන්තයේ විශේෂ නිරීක්ෂණ චාරිකාවකට එක්වෙමින් අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා ඒ බව ප්‍රකාශ කළේය.
+Addressing a special inspection tour of the Jayaweera Terminal of the Sri Lanka Ports Authority, Minister Nimal Siripala de Silva said that.
 
-කෙසේවුවද විදේශ කටයුතු පිළිබඳ රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා ප්‍රකාශ කළේ රතුමුහුදේ අර්බුදය හේතුවෙන් කොළඹ වරායේ ආදායම ඉහළ යාම පිළිබඳ සතුටට පත්විය නොහැකි බවය.
+However, Minister of Foreign Affairs Tharaka Balasuriya said that the increase in the increase in the Colombo port is impossible due to the condolences.
 
 ◼️
 
 [Data](articles/8f7e785b.json)
+
+[Extended Data](ext_articles/8f7e785b.ext.json)
 
 ---
 
@@ -1000,21 +1012,25 @@ The cause of the fire has not been uncovered yet and the Mawanella Police are co
 
 ---
 
-### කැරට් මිල ආයෙත් ඉහළට
+### Carrot price up again
 
 *2024-01-29 10:08:01* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-මිල-ආයෙත්-ඉහළට/11-407770) · `si`
 
-පසුගිය සතියේ යම් තරමකින් පහත වැටී තිබුණ එළවළු තොග මිල යලි ඉහල ගොස් ඇතැයි කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙළෙදුන් කියා සිටි.
+Keppetipola, a specialized economic center, claimed that the stock of vegetables last week has increased in some extent last week.
 
-උඩරට එළවළු වර්ග රට පුරා බෙදා හරින ප්‍රධානතම ආර්ථීක මධ්‍යස්ථානය වන කැප්පෙටිපොල විශේෂීත ආර්ථීක මධ්‍යෂ්ථානයේ කැරට් කිලෝවක තොග මිල පසුගිය සතියේ රුපියල් පන්සියයත් රුපියල් හත්සියයත් අතර මිලක පැවති අතර එම මිල මේ වන විට රුපියල් දහසත් එක්දහස් පන්සියයත් අතර දක්වා ඉහල ගොස් ඇති බවත් පසුගිය සතියේ පහත වැටී තිබු සෑම එළවළු වර්ගයක්ම මේ වන විට රුපියල් දෙසියත් හාරසියත් අතර මිලකින් ඉහල ගොස් ඇති බවත් වෙලෙදුන් කියා සිටී.
+The stock of carrots of Keppetipola, which is the main economic center distributed throughout the country, has been increased from a kilogram of Rs. Rs.The vegetables have increased by Rs.
 
-වැලිමඩ , කැප්පෙටිපොල , බෝගහකුඹුර , බොරලන්ද  සහ ඌව පරණගම ප්‍රාදේශවල කුඹුරු ඉඩම් වී වගාව සදහා සුදානම් කිරීමට සිදුවීම හේතුවෙන් ගොවින් ඒවායේ තිබු එලවළු වර්ග පසුගිය සතියේ වැඩිපුර ආර්ථික මධ්‍යස්ථාන වෙත ගෙන ඒම හේතුවෙන් එළවළු මිල පහත වැටුණු බවත් එම එළවළු අවසන් විමත් සමග නැවත මිල ඉහල යමින් ඇති බවයි වෙලෙදුන් කියා සිටින්නේ.
+The prices of vegetables have dropped to more economic centers last week due to the sale of paddy fields in Welimada, Keppetipola, Boralanda and Uva Paranagama.Sales are said.
 
-කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ එළවළු කිලෝවක මේ වන විට පවතින තොග මිල
+Keppetipola Specified Stock Price
 
-...
+1400 - 1500, 1500, Beans 800 - 900, Leules 450 - 500 - 550 - 550-500, 20 - 500 - 550 - 550-500, fish chillies 700- 800, eggplant 500 - 500-600, 550 - 600, Leaf beets 550 - 600
+
+◼️
 
 [Data](articles/c248b7c3.json)
+
+[Extended Data](ext_articles/c248b7c3.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 14:02:25**
+As of **2024-01-29 14:17:09**
 
 ## Newspaper Stats
 
-*Scraped **3,268** Articles*
+*Scraped **3,272** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 177
 islandlk | 185
-newsfirstlk | 197
+newsfirstlk | 198
 dailyftlk | 223
-adalk | 297
-adaderanasinhalalk | 345
-virakesarilk | 351
+adalk | 298
+adaderanasinhalalk | 346
+virakesarilk | 352
 tamilmirrorlk | 408
 adaderanalk | 421
 dailymirrorlk | 443
@@ -26,29 +26,65 @@ dailymirrorlk | 443
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,255 (99.6%) of 3,268 articles have been extended.
+3,268 (99.9%) of 3,272 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### ஜேர்மன் பிரஜையின் கைப்பையை திருடிய குற்றச்சாட்டில் இருவர் கைது
+### கைதிகளை விட மோசமான கட்டுப்பாடுகளுடன் திருச்சி முகாமில் சாந்தன்; -உடல் நிலை மோசமாக பாதிப்பு -விபரங்களை அறியமுடியாமல் தவிக்கும் குடும்பத்தவர்கள்
+
+*2024-01-29 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175045) · `ta`
+
+ராஜீவ்காந்தி கொலைவழக்கில் தண்டனை வழங்கப்பட்டு பின்னர் விடுதலையான சாந்தன் தொடர்ந்தும் திருச்சி விசேட முகாமில் தடுத்துவைக்கப்பட்டுள்ள நிலையில் அவரின் உடல்நிலை மோசமடைந்துள்ளதாக தகவல்கள் வெளியாகியுள்ளன
+
+எனினும் அவரது உடல்நிலை குறித்து பூரணமான விபரம் எதுவும் கிடைக்கவில்லை என சாந்தனின் சகோதரர் மதிசுதா தெரிவித்தார்.
+
+வெளியே சமூகத்தை நம்ப வைக்கப்பட்டது போல அவர்களுக்கு சுதந்திரமான எந்த விடயங்களும் இல்லை கைதிகளை விட மோசமான கட்டுப்பாடுகளுடனேயே வைக்கப்பட்டுள்ளார்கள். என அவர் தெரிவித்தார்
+
+திருச்சி வைத்தியசாலையின் அவசர சிகிச்சைப் பிரிவுக்கு சேர்க்கப்பட்ட பின் அந்த அன்றே சென்னை ராஜீவ்காந்தி அரச மருத்துவமனையின் அவசர சிகிச்சைப் பிரிவில் சேர்க்கப்பட்டிருக்கிறார்.
+
+முன்னர் சிறுநீரகம் மற்றும் ஈரலில் ஏற்பட்ட கோளறு எனக் கூறப்பட்டாலும் பின்னர் ஈரல் பாதிக்கப்பட்டுள்ளதாகத் தெரிவிக்கப்பட்டுள்ளது.
+
+...
+
+[Data](articles/a87cd89d.json)
+
+---
+
+### Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
+
+*2024-01-29 13:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/talk-of-the-town-the-key-to-sri-lanka-s-revival-amita-arudpragasam-29th-january-2024/) · `en`
+
+Talk of The Town | The Key to Sri Lanka's Revival | Amita Arudpragasam | 29th January 2024
+
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
+
+◼️
+
+[Data](articles/084d9a76.json)
+
+---
+
+### Two arrested for stealing German citizen's handbag
 
 *2024-01-29 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175061) · `ta`
 
-ஜேர்மன் நாட்டில் இருந்து யாழ்ப்பாணத்திற்கு வருகை தந்த பெண்ணொருவரின் கைப்பையை திருடிய குற்றச்சாட்டில் இருவர் கைது செய்யப்பட்டனர்.
+Two people have been arrested on charges of stealing a handbag from a woman who arrived in Jaffna from Germany.
 
-யாழ்ப்பாணம் சங்கானையைச் சேர்ந்த 28 வயது பெண் மற்றும் 21 வயது ஆண் சகோதரர்களே இவ்வாறு கைது செய்யப்பட்டனர்.
+The 28 -year -old woman and 21 -year -old male brothers from Jaffna were arrested.
 
-திருநெல்வேலி சந்தையில் பொருட்களை கொள்வனவு செய்ய வந்த வெளிநாட்டு பெண்ணின் கடவுச்சீட்டு உள்ளிட்ட முக்கிய ஆவணங்கள், 500 யூரோ, 20,000 ரூபாய் அடங்கிய கைப்பையே கைக்குழந்தையுடன் வந்த பெண்ணொருவரால் நூதனமான முறையில் அபகரிக்கப்பட்டது.
+The main documents, including a foreign woman's passport, who had come to buy goods in the Tirunelveli market, had been abused by a woman who had a handgun with a baby girl.
 
-திருட்டுச் சம்பவம் தொடர்பாக கோப்பாய் பொலிஸ் நிலையத்தில் வெளிநாட்டவரால் முறைப்பாடு பதிவு செய்யப்பட்டது.
+A complaint was lodged by a foreigner at the Kopay police station regarding the theft.
 
-கண்காணிப்பு கமராவின் உதவியுடன் பொலிஸாருக்கு கிடைத்த தகவலுக்கமைய யாழ்ப்பாண மாவட்ட பிராந்திய சிரேஸ்ட பொலிஸ் அத்தியட்சகருக்கு கீழ் இயங்கும் புலனாய்வு பிரிவினர் சந்தேக நபர்களை கைது செய்தனர்.
+Investigations were arrested by the Jaffna District Regional Senior Superintendent of Investigation, according to information received by the police with the help of the surveillance camera.
 
 ◼️
 
 [Data](articles/3602955d.json)
+
+[Extended Data](ext_articles/3602955d.ext.json)
 
 ---
 
@@ -67,6 +103,28 @@ Kataragama police are conducting further investigations on the instructions of S
 ◼️
 
 [Data](articles/4eadfc02.json)
+
+[Extended Data](ext_articles/4eadfc02.ext.json)
+
+---
+
+### කොළඹ වරායේ නැව් පිරෙයි
+
+*2024-01-29 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192700) · `si`
+
+රතු මුහුද ආශ්‍රිතව ඇතිවී තිබෙන අර්බුද තත්ත්වය හේතුවෙන් කොළඹ වරාය වෙත පැමිණෙන නෞකා සංඛ්‍යාව ඉහළ ගොස් තිබේ.
+
+වරාය නාවික හා සිවිල් ගුවන් සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා ප්‍රකාශ කළේ ජනවාරි මාසය තුළ වරායට නෞකා පැමිණීම සියයට 35කින් ඉහළ ගොස් ඇති බවය.
+
+එමෙන්ම වරායේ බහාලුම් මෙහෙයුම් ද සියයට 72කින් පමණ ඉහළ ගොස් ඇති බව අමාත්‍යවරයා සඳහන් කළේය.
+
+ශ්‍රී ලංකා වරාය අධිකාරියේ ජයබහලු පර්යන්තයේ විශේෂ නිරීක්ෂණ චාරිකාවකට එක්වෙමින් අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා ඒ බව ප්‍රකාශ කළේය.
+
+කෙසේවුවද විදේශ කටයුතු පිළිබඳ රාජ්‍ය අමාත්‍ය තාරක බාලසූරිය මහතා ප්‍රකාශ කළේ රතුමුහුදේ අර්බුදය හේතුවෙන් කොළඹ වරායේ ආදායම ඉහළ යාම පිළිබඳ සතුටට පත්විය නොහැකි බවය.
+
+◼️
+
+[Data](articles/8f7e785b.json)
 
 ---
 
@@ -89,6 +147,8 @@ Meanwhile, the seventh suspect, a female student of the Sabaragamuwa University,
 ◼️
 
 [Data](articles/3520a7da.json)
+
+[Extended Data](ext_articles/3520a7da.ext.json)
 
 ---
 
@@ -129,6 +189,8 @@ The Prime Minister is to arrive in the country at the invitation of President Ra
 ...
 
 [Data](articles/4d157afa.json)
+
+[Extended Data](ext_articles/4d157afa.ext.json)
 
 ---
 
@@ -334,33 +396,37 @@ Iran said the attacks were echoing between US soldiers and opposition groups in 
 
 ---
 
-### பாதணி வவுச்சர்களின்   காலம் நீடிப்பு
+### Extension of the Period of footwear vouchers
 
 *2024-01-29 12:04:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதணி-வவுச்சர்களின்-காலம்-நீடிப்பு/175-332263) · `ta`
 
-பாடசாலை மாணவர்களுக்காக அரசாங்கத்தினால் வழங்கப்பட்ட  பாதணிகளுக்கான வவுச்சர்கள் செல்லுபடியாகும் காலம் 17.02.2024 வரை நீடிக்கப்பட்டுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Education said that the validity period of vouchers for school children has been extended till 17.02.2024.
 
 ◼️
 
 [Data](articles/4fb67098.json)
 
+[Extended Data](ext_articles/4fb67098.ext.json)
+
 ---
 
-### විදේශීය චිත්‍රපට නිශ්පාදකයෙක් වෙන්කරගත් විශේෂ දුම්රිය පීලි පනියි
+### Foreign film production reserved special trains
 
 *2024-01-29 12:02:29* · [`adalk`](https://www.ada.lk/picture_story/විදේශීය-චිත්‍රපට-නිශ්පාදකයෙක්-වෙන්කරගත්-විශේෂ-දුම්රිය-පීලි-පනියි/10-407772) · `si`
 
-නානුඔය සිට කොළඹ කොටුව දක්වා ධාවනය වු විශේෂ දුම්රියක් හැටන් සිංගිමලේ දුම්රිය උමං මාර්ගය අසලදි  (28) දින පස්වරුවේ පිලි පැනිම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ඇණහිට තිබු ගමනා ගමන් කටයුතු (29) දින අලුයම 2 සිට යලි යථා තත්ත්වයට පත් කල බව හැටන් දුම්රිය ස්ථානයේ ස්ථානාධිපතිවරයා පැවසිය.
+The OIC of the Hatton Railway Station said that a special train traveling from Nanu Oya to Colombo Fort (28) at the Hatton Railway trip was restored from 2 days.
 
-විදේශිය රටක චිත්‍රපටයක් රුගත කිරිම සදහා එම චිත්‍රපටයේ නිෂ්පාදකවරයා විසින් දුම්රිය දෙපාර්තුමේන්තුවට මුදල් ගෙවා මැදිරි හයකින් සමන්විත මෙම දුම්රිය මේ මස (24-29) දින දක්වා ලබාගෙන තිබු දුම්රියක් බව සදහන්.
+The six compartments have been made by the manufacturer of the film to detriment a film in a foreign country.
 
-රුගත කිරිම් අවසන් කර (28) දින යලිත් එම දුම්රිය නානුඔය සිට කොළඹ දක්වා ධාවනය කරමින් සිටි අවස්තාවේ එම දුම්රියේ මැදිරියක රෝද කිහිපයක් හැටන් සහ කොටගල දුම්රිය ස්ථාන දෙක අතර පිහිටි 108 ¾ සැතපුම් කණුව අසලදි දුම්රිය පිලි පැනිමට ලක් වි තිබුණි.
+The railway counsel was taken several times in a train, where the train was running back to Colombo from Nanu Oya and Colombo.
 
-පිලි පැනිමට ලක් වු දුම්රියේ මැදිරිය යලි (29) දින අලුයම පිලිගත කිරිමෙන් අනතුරුව උඩරට දුම්රිය මාර්ගයේ ගමනා ගමනය යලි යථා තත්ත්වයට පත් කෙරිණ.
+After the monetary train, the monetary train (29) was reconstructed and the traffic on the Kandyan railway line was restored.
 
 ◼️
 
 [Data](articles/84272d17.json)
+
+[Extended Data](ext_articles/84272d17.ext.json)
 
 ---
 
@@ -396,7 +462,7 @@ Six of the suspects arrested on drug charges have been held under detention orde
 
 One person addicted to drugs has been directed for rehabilitation.
 
-Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
 
 ◼️
 
@@ -436,7 +502,7 @@ The union action was launched based on several demands including salary anomalie
 
 They are scheduled to hold a special conference and protest rally on Monday (29) afternoon.
 
-Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
 
 ◼️
 
@@ -512,6 +578,8 @@ The 87-minute cinematic masterpiece continued its journey, earning an invitation
 
 [Data](articles/a07d3f45.json)
 
+[Extended Data](ext_articles/a07d3f45.ext.json)
+
 ---
 
 ### Thai Prime Minister is coming to Sri Lanka
@@ -534,21 +602,23 @@ He is also participating in the signing of the Sri Lanka -Thailand Free Trade Ag
 
 ---
 
-### இலங்கை வருகிறார் தாய்லாந்து பிரதமர்
+### The Prime Minister of Thailand is coming to Sri Lanka
 
 *2024-01-29 11:38:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகிறார்-தாய்லாந்து-பிரதமர்/175-332262) · `ta`
 
-தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் எதிர்வரும் பெப்ரவரி மாதம் 3 ஆம் திகதி இலங்கைக்கு வருகைதரவுள்ளதாக வெளிவிவகார அமைச்சு அறிவித்துள்ளது.
+The Ministry of External Affairs has announced that it will visit Sri Lanka on February 3.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அழைப்பை ஏற்று நாட்டுக்கு வருகைதரவுள்ள அவர், இலங்கையின் 76 ஆவது சுதந்திர தின விழாவில் பிரதம அதிதியாக பங்கேற்க இரண்டு நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு வருவதாக தெரிவிக்கப்பட்டுள்ளது.
+He will visit the country on the occasion of President Ranil Wickremesinghe, who is on a two -day official visit to Sri Lanka's 76th Independence Day celebration.
 
-இந்த விஜயத்தின் போது, ஜனாதிபதி ரணில் விக்ரமசிங்க உள்ளிட்ட தரப்பினருடன் தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் கலந்துரையாடல்களை மேற்கொள்ளவுள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+During the visit, it is reported that the Prime Minister of Thailand Shreta Davis will hold discussions with President Ranil Wickremesinghe.
 
-அத்துடன் இலங்கை - தாய்லாந்து சுதந்திர வர்த்தக உடன்படிக்கையை கைச்சாத்திடும் நிகழ்விலும் அவர் பங்குபற்றவுள்ளதாகவும் வெளிவிவகார அமைச்சு தெரிவித்துள்ளது. R
+He is also participating in the signing of the Sri Lanka -Thailand Free Trade Agreement.. Remble
 
 ◼️
 
 [Data](articles/7ed9c671.json)
+
+[Extended Data](ext_articles/7ed9c671.ext.json)
 
 ---
 
@@ -582,9 +652,7 @@ COLOMBO (News 1st); Lohan Ratwatte has been sworn in as the State Minister of P
 
 The post of State Minister of Mahaweli Development was held previously by former Minister Roshan Ranasinghe, and the Ministerial post of Plantation Industries was held by Minister of Agriculture Mahinda Amaraweera.
 
-Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
-
-30 percent of children in Sri Lanka miss out on pre-school -Minister
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
 
 ◼️
 
@@ -932,6 +1000,24 @@ The cause of the fire has not been uncovered yet and the Mawanella Police are co
 
 ---
 
+### කැරට් මිල ආයෙත් ඉහළට
+
+*2024-01-29 10:08:01* · [`adalk`](https://www.ada.lk/breaking_news/කැරට්-මිල-ආයෙත්-ඉහළට/11-407770) · `si`
+
+පසුගිය සතියේ යම් තරමකින් පහත වැටී තිබුණ එළවළු තොග මිල යලි ඉහල ගොස් ඇතැයි කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ වෙළෙදුන් කියා සිටි.
+
+උඩරට එළවළු වර්ග රට පුරා බෙදා හරින ප්‍රධානතම ආර්ථීක මධ්‍යස්ථානය වන කැප්පෙටිපොල විශේෂීත ආර්ථීක මධ්‍යෂ්ථානයේ කැරට් කිලෝවක තොග මිල පසුගිය සතියේ රුපියල් පන්සියයත් රුපියල් හත්සියයත් අතර මිලක පැවති අතර එම මිල මේ වන විට රුපියල් දහසත් එක්දහස් පන්සියයත් අතර දක්වා ඉහල ගොස් ඇති බවත් පසුගිය සතියේ පහත වැටී තිබු සෑම එළවළු වර්ගයක්ම මේ වන විට රුපියල් දෙසියත් හාරසියත් අතර මිලකින් ඉහල ගොස් ඇති බවත් වෙලෙදුන් කියා සිටී.
+
+වැලිමඩ , කැප්පෙටිපොල , බෝගහකුඹුර , බොරලන්ද  සහ ඌව පරණගම ප්‍රාදේශවල කුඹුරු ඉඩම් වී වගාව සදහා සුදානම් කිරීමට සිදුවීම හේතුවෙන් ගොවින් ඒවායේ තිබු එලවළු වර්ග පසුගිය සතියේ වැඩිපුර ආර්ථික මධ්‍යස්ථාන වෙත ගෙන ඒම හේතුවෙන් එළවළු මිල පහත වැටුණු බවත් එම එළවළු අවසන් විමත් සමග නැවත මිල ඉහල යමින් ඇති බවයි වෙලෙදුන් කියා සිටින්නේ.
+
+කැප්පෙටිපොල විශේෂිත ආර්ථික මධ්‍යස්ථානයේ එළවළු කිලෝවක මේ වන විට පවතින තොග මිල
+
+...
+
+[Data](articles/c248b7c3.json)
+
+---
+
 ### Thai PM to witness signing of FTA with Sri Lanka
 
 *2024-01-29 10:05:00* · [`economynextcom`](https://economynext.com/thai-pm-to-witness-signing-of-fta-with-sri-lanka-148913/) · `en`
@@ -964,9 +1050,7 @@ Police say a group of fourth-year students of the Faculty of Social Sciences and
 
 The arrested students are 23, 24, and 25-year-old residents of Morawaka, Ruggahawila, Imaduwa and Kitalawa.
 
-Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
-
-30 percent of children in Sri Lanka miss out on pre-school -Minister
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
 
 ◼️
 
@@ -1028,9 +1112,7 @@ He stressed that much attention is paid globally to early childhood development 
 
 The Minister says the government aims to ensure that all children who are four years of age attend pre-school, prior to being admitted to Grade 1, and will look to bring all pre-schools under one framework.
 
-Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
-
-30 percent of children in Sri Lanka miss out on pre-school -Minister
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
 
 ◼️
 
@@ -1060,21 +1142,27 @@ It is the first time US soldiers have died in an attack on the Middle East after
 
 ---
 
-### ජනාධිපති අරමුදලෙන් පිරිනැමෙන ශිෂ්‍යත්ව මුදල ඉහළට
+### Scholarship money offered by the Presidential Fund
 
 *2024-01-29 09:52:08* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අරමුදලෙන්-පිරිනැමෙන-ශිෂ්‍යත්ව-මුදල-ඉහළට/11-407769) · `si`
 
-2021 (2022) වර්ෂයේදී පවත්වන ලද අ.පො.ස (සා.පෙළ) විභාගයට පළමු වරට පෙනී සිට විභාගය සමත්ව 2024 වර්ෂයේ දී අ.පො.ස (උසස් පෙළ) විභාගයට පෙනී සිටීමට නියමිත ආර්ථික දුෂ්කරතා ඇති සිසුන්ට ජනාධිපති අරමුදල මඟින් පිරිනමන ශිෂ්‍යත්ව දීමනාව 2024 පෙබරවාරි මස සිට රුපියල් දහසකින් වැඩි කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් දී තිබේ.
+Scholarship allowance offered by the Presidential Fund to sit for the GCE O / L examination in the year 2021 (2022)President Ranil Wickremesinghe has instructed to increase a thousand rupees from February, 2024.
 
-ශිෂ්‍ය ශිෂ්‍යාවන් විසින් කරන ලද ඉල්ලීම පිළිබඳ අවධානය යොමු කරමින් ජනාධිපතිවරයා විසින් මෙම උපදෙස් ලබා දී ඇත.
+The President has given this advice on the request made by the students.
 
-ශ්‍රී ලංකාවේ සෑම ප්‍රදේශයකම වෙසෙන ඉගෙනීමට දක්ෂ, නමුත් ආර්ථික දුෂ්කරතා ඇති දරු දැරියන් හඳුනාගෙන ඔවුන්ගේ ඉදිරි අනාගතය යහපත් කිරීමේ අරමුණින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් අනුව ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගේ මගපෙන්වීමෙන් ජනාධිපති අරමුදල විසින් ශිෂ්‍යත්ව ලබා ‍දීමේ වැඩසටහන ක්‍රියාත්මක කරනු ලබයි.
+The guidance of the Presidential Fund is implemented by the Presidential Fund by the Presidential Fund by President Ranil Wickremesinghe with the objective of learning to learn from all parts of Sri Lanka.
 
-2021/2022 වසරට අදාළව ශිෂ්‍යත්ව ප්‍රදානය කිරීමේ වැඩසටහන යටතේ ජනාධිපති අරමුදල විසින් ශිෂ්‍යත්වලාභීන්ට මේ වන විට මාසිකව රුපියල් 5,000ක දීමනාවක් ගෙවනු ලබන අතර මෙතෙක් මාසික වාරික 10ක් ගෙවා ඇත.
+Under the Scholarship Granting Program of the Year 2021/2022, the Presidential Fund is currently paid a monthly allowance of Rs. 5,000.
+
+Accordingly, with the increase in scholarship money, a monthly allowance of Rs.
+
+Also, the GCE Advanced Level of 2022/2023. 5000 students who passed the O / L above the GCE / Students. A monthly Rs.. The Presidential Fund also is working towards 6,000. Accordingly, the zonal level is being carried out at the zonal level, covering all provinces of Sri Lanka.
 
 ...
 
 [Data](articles/9c33bf96.json)
+
+[Extended Data](ext_articles/9c33bf96.ext.json)
 
 ---
 
@@ -1118,35 +1206,43 @@ The Deputy Commissioner, who has expressed his displeasure with the police, has 
 
 ---
 
-### ගාල්ල සංවර්ධනයට විශේෂ කොමිසමක්
+### Special commission for development of Galle
 
 *2024-01-29 09:48:30* · [`adalk`](https://www.ada.lk/uncategorized/ගාල්ල-සංවර්ධනයට-විශේෂ-කොමිසමක්/1-407768) · `si`
 
-ගාල්ල සංවර්ධන කටයුතු කඩිනම් කිරීම සඳහා විශේෂ කොමිසමක් පත් කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා තීරණය කර තිබේ.
+President Ranil Wickremesinghe has decided to appoint a special commission to accelerate Galle development activities.
 
-ගාල්ල සංවර්ධන කටයුතු පිළිබඳ සොයා බැලීමේ නිරීක්ෂණ චාරිකාවකට එක් වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගාල්ල නගරයේ සහ ගාල්ල කොටුව ප්‍රදේශය අවට සංචාරය කරමින් එහි සංවර්ධන කටයුතු පිළිබඳ සොයා බැලීය.
+President Ranil Wickremesinghe visited Galle and Galle Fort in Galle and Galle Fort area.
 
-ගාල්ල කොටුවේ පිහිටි රාජ්‍ය ආයතන සහ කාර්යාල ගාල්ල කොටුවෙන් පිටතට ගෙන ඒමේ ක්‍රියාවලියේ ඇති මන්දගාමී ස්වභාවය පිළිබඳ මෙහිදී අවධානය යොමු කළ ජනාධිපතිවරයා එම සංවර්ධන කටයුතු කඩිනම් කිරීමේ අවශ්‍යතාව නිලධාරීන්ට අවධාරණය කළේය.
+The President emphasized the slowest nature of the Galle Fort and the Colombo Fort to be taken out of Galle Fort.
 
-ගාල්ල නගර සංවර්ධන සැලැස්ම ක්‍රියාත්මක කිරීමේදී නාගරික සංවර්ධන අධිකාරිය, පුරාවිද්‍යා දෙපාර්තමේන්තුව හා අනෙකුත් සියලු ආයතන එක් ආයතනික ව්‍යුහයක් යටතේ ක්‍රියාත්මක වීමේ අවශ්‍යතාව පෙන්වා දුන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රදේශයේ සංචාරක ව්‍යාපාරය ප්‍රවර්ධනයට අවශ්‍ය සැලැසුම් කඩිනමින් ක්‍රියාත්මක කිරීමේ අවශ්‍යතාව ද පැහැදිළි කළේය.
+President Ranil Wickremesinghe also explained the need to promote the promotional implementation of President Ranil Wickremesinghe, which pointed to the implementation of the Galle Town Development Plan to implement the Galle Town Development Plan.
+
+The President also consulted in a discussion with local and foreign tourists in the Galle Fort and went to a discussion near the negotiation with the Colombo Fort.
+
+Meanwhile, President Ranil Wickremesinghe was also present at the Galle Literary Festival in Galle Fort.
 
 ...
 
 [Data](articles/fa59f99e.json)
 
+[Extended Data](ext_articles/fa59f99e.ext.json)
+
 ---
 
-### සබරේ නවක සිසුවියට නවක වදය දුන් සිසුන් 6ක් අත්අඩංගුවට
+### Six students arrested for boiling the new student of the Sabaraya
 
 *2024-01-29 09:39:21* · [`adalk`](https://www.ada.lk/breaking_news/සබරේ-නවක-සිසුවියට-නවක-වදය-දුන්-සිසුන්-6ක්-අත්අඩංගුවට/11-407767) · `si`
 
-සබරගමුව විශ්වවිද්‍යාලයේ නවක සිසුවියකට නවක වදය ලබාදුන් ඒම සරසවියේ ජ්‍යෙෂ්ඨ සිසුන් 6ක් අත්අඩංගුවට ගෙන තිබේ. 1977 යන ක්ෂණික ඇමතුම් අංකයට ලැබුණ ‌පැමිණිල්ලක් අනුව සමනල වැව පොලීසිය විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
+Six senior students of the Sabaragamuwa University have arrested six senior students. The Samanala tank has been arrested following a complaint received by the 1977 hotline.
 
-අත්අඩංගුවට ගත් සැකකරුවන් එම විශ්වවිද්‍යාලයේ සිවුවන වසරේ ඉගෙනුම  ලබන අවුරුදු 23-25 අතර වයස්වල පසුවන්නන් වෙයි.
+The suspects are between 23-25 years old, aged 23-25 years old.
 
 ◼️
 
 [Data](articles/13eb7846.json)
+
+[Extended Data](ext_articles/13eb7846.ext.json)
 
 ---
 
@@ -1344,17 +1440,21 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 
 ---
 
-### රු. කෝටි 3000ක ණයකින් මහනුවර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානයේ ඉදිකිරීම් අරඹයි
+### Rs. 3000 million labor launches multiple transport center construction
 
 *2024-01-29 09:04:09* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-3000ක-ණයකින්-මහනුවර-බහුවිධ-ප්‍රවාහන-මධ්‍යස්ථානයේ-ඉදිකිරීම්-අරඹයි/11-407766) · `si`
 
-රු. කෝටි 3000ක ලෝක බැංකු ණය ආධාර මත ක්‍රියාත්මක මහනුවර බහුවිධ ප්‍රවාහන පර්යන්න සංවර්ධන ව්‍යාපෘතියේ (KMTT - kandy multimodale transit terminal) ඉදිකිරීම් සමාරම්භය ප්‍රවාහන, මහාමාර්ග හා ජනමාධ්‍ය අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතාගේ සහ මධ්‍යම පළාත් ආණ්ඩුකාරවර නිතිඥ ලලිත් යු ගමගේ මහතාගේ  ප්‍රධානත්වයෙන් සිදු කෙරිණි
+Rs. The Kandy Multiple Transport Commission (KMDY Multimodale Transit) of the Kandy Bank Loan (KMTMODALE Transit) was held under the patronage of the Kandy Multimodale Transit Terminal.
 
-ජනාධිපති රනිල් වික්‍රමසිංහ මැතිතුමාගේ සංකල්පයකට අනුව ක්‍රියාත්මක විසල් මහනුවර සංවර්ධන වැඩසටහන යටතේ මෙම කටයුතු සිදු වන අතර   මෙම KMTT ව්‍යාපෘතියේ ප්‍රධාන පරමාර්ථය වන්නේ මහනුවර නගරයේ තැන් තැන්වල ස්ථාපිත කර ඇති තාවකාලික බස් රථ පර්යන්ත සියල්ලම මහනුවර දුම්රිය ස්ථානයට යාබදව පිහිටා ඇති පැරණි ගුඩ්ෂෙඩ් බස් රථ පර්යන්තයේදී එකම වහලක් යටට ගෙන එමින් පොදු ප්‍රවාහන සේවාවන් ලබා ගැනීම සඳහා මගින් අනවශ්‍ය ලෙස නගරයේ වීදි අතර ගමන් කිරීම අවම කිරීමය.
+The main objective of the KMTT project is being carried out under the main objective of the KMTT project at the same roof, located at the Kandyadway to the Kandy Campaign at Kandy.It is to reduce the travels between the streets of the city, to obtain public transport services.
+
+Passengers traveling to the Kandy General Hospital and the track of the flyy bridge, consolidating Sirimavo Bandaranaike Mawatha and William Gopallawa Mawatha, the flyover, passengers can easily travel in a short time. In addition, termination is an internal access road and the Glows flowing across the Goodzid Bus Stand.
 
 ...
 
 [Data](articles/fbd3ccf3.json)
+
+[Extended Data](ext_articles/fbd3ccf3.ext.json)
 
 ---
 
@@ -1400,21 +1500,25 @@ Despite his recovery, doctors have advised Weerasinghe should continue to rest e
 
 ---
 
-### නිදහස් උත්සවයේ ප්‍රධාන අමුත්තා ලෙස තායිලන්ත අගමැති එයි
+### Thai Prime Minister is as the chief guest of the Independence Day
 
 *2024-01-29 08:55:25* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-උත්සවයේ-ප්‍රධාන-අමුත්තා-ලෙස-තායිලන්ත-අගමැති-එයි/11-407765) · `si`
 
-තායිලන්ත අග්‍රාමාත්‍ය සේට්ඨා තවිසින් මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ඇරයුමෙන් 2024 පෙබරවාරි 03-04 යන දිනවල ශ්‍රී ලංකාවේ දෙදින නිල සංචාරයක නිරත වෙයි.  අග්‍රාමාත්‍යවරයා ශ්‍රී ලංකාවේ 76 වැනි නිදහස් සමරු උළෙලෙහි ගෞරවනීය ආරාධිතයා වශයෙන් සහභාගී වනු ඇත.
+Thai Prime Minister Desmah Samavi Tissue is on a two-day official visit to Sri Lanka on February 03-204 of President Ranil Wickremesinghe.The Prime Minister will participate in the 76th Independence Day of Sri Lanka.
 
-මෙම සංචාරය අතරතුරදී, තායි අග්‍රාමාත්‍යවරයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමඟ නිල සාකච්ඡා පැවැත්වීමට නියමිත අතර ශ්‍රී ලංකා- තායිලන්ත නිදහස් වෙළෙඳ ගිවිසුමට අත්සන් තැබීම නිරීක්ෂණය කිරීමටද නියමිතය.
+During the visit, the Thai Prime Minister is scheduled to hold official talks with President Ranil Wickremesinghe and is to monitor the Sri Lanka-Thailand agreement.
 
-තායිලන්තයේ නියෝජ්‍ය අග්‍රාමාත්‍ය සහ වාණිජ අමාත්‍ය ඵූම්තාම් වෙචයචායි සහ  ශ්‍රී ලංකාවේ වෙළෙඳ, වාණිජ හා ආහාර සුරක්ෂිතතා අමාත්‍ය නලින් ප්‍රනාන්දු යන මහත්වරුන් විසින් නිදහස් වෙළෙඳ ගිවිසුම අත්සන් තැබෙයි.
+The Free Trade Agreement signed by Deputy Prime Prime Minister and Commerce Minister of Commerce, Commerce, Commercial and Food Security Minister Nalin Fernando.
 
-දෙරට අතර වෙළෙඳ සහ ආයෝජන සබඳතා වර්ධනය කොට ශ්‍රී ලංකාව ආසියාන් රටවල ආර්ථික සමඟ තවත් දැඩි ලෙස සමෝධානය වීම ශ්‍රී ලංකා-තායිලන්ත නිදහස් වෙළෙඳ ගිවිසුමෙන් අපේක්ෂිතය.
+The Sri Lanka-Thailand Agreement is expected to increase trade and investment relations between the two countries.
+
+The two parties are expected to renew the current aviation agreement between the two countries and a Memorandum of Understanding between Thailand Menik and Jewelery Institute.
 
 ...
 
 [Data](articles/60671e3f.json)
+
+[Extended Data](ext_articles/60671e3f.ext.json)
 
 ---
 
@@ -1508,9 +1612,7 @@ Police said six people, including the driver of the van, were admitted to hospit
 
 Police added that the others were transferred to the Hambantota Hospital for further treatment.
 
-Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
-
-30 percent of children in Sri Lanka miss out on pre-school -Minister
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
 
 ◼️
 
@@ -1580,9 +1682,7 @@ The fire broke out in a row of clothes, plastic and fruit shops behind the bus s
 
 The fire was extinguished using fire engines belonging to the Mawanella Pradeshiya Sabha.
 
-Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
-
-30 percent of children in Sri Lanka miss out on pre-school -Minister
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
 
 ◼️
 
@@ -1672,9 +1772,7 @@ COLOMBO (News 1st); Sri Lankan film director Jagath Manuwarna Kodithuwakku has w
 
 Jagath Manuwarna's "Whispering Mountains" has won several international awards in the past as well, including at the 52nd Rotterdam International Film Festival.
 
-Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
-
-30 percent of children in Sri Lanka miss out on pre-school -Minister
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
 
 ◼️
 
@@ -1786,9 +1884,7 @@ Issuing a statement the ICC said SLC was suspended in November for being in seri
 
 The ICC statement added that the Board have been monitoring the situation since the suspension and are now satisfied that SLC are no longer in breach of membership obligations.
 
-Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
-
-30 percent of children in Sri Lanka miss out on pre-school -Minister
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
 
 ◼️
 
@@ -1981,75 +2077,5 @@ The arrested students are residents of Morawaka, Rukgalama, Arakara, Ahamandura 
 [Data](articles/57aadaf0.json)
 
 [Extended Data](ext_articles/57aadaf0.ext.json)
-
----
-
-### Showers in several areas
-
-*2024-01-29 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192676) · `si`
-
-Showers will occur at times in the Eastern and Uva provinces, Polonnaruwa, Matale and Nuwara Eliya districts.
-
-The department states that the Anuradhapura, Mullaitivu and Hambantota districts can occur.
-
-At the Western and Sabaragamuwa Province. Showers or thundershowers will occur at several places about 2.00.
-
-From the Hambantota district and occasionally, in the Hambantota district and in the Hambantota district.. The Department of Meteorology announces that there are about 40 feet of strong winds.
-
-The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/bae9a7cd.json)
-
-[Extended Data](ext_articles/bae9a7cd.ext.json)
-
----
-
-### Nawaloka Laboratory sets new healthcare standards with ISO 15189:2022 accreditation
-
-*2024-01-29 05:58:00* · [`islandlk`](http://island.lk/nawaloka-laboratory-sets-new-healthcare-standards-with-iso-151892022-accreditation/) · `en`
-
-Nawaloka Laboratory has announced its achievement as the first laboratory in the country to successfully elevated to the latest version of ISO 15189 accreditation, namely ISO 15189:2022. The surveillance was conducted by the Sri Lanka Accreditation Board who serves as the national authority responsible for upholding and maintaining the standards for clinical and testing laboratories across Sri Lanka. At the core of this accreditation lies a robust test scope covering a comprehensive range of 87 tests. These encompass pivotal domains such as Clinical Biochemistry, Chemical Pathology, Microbiology, Immunology, and Serology.
-
-...
-
-[Data](articles/c7aebeb6.json)
-
-[Extended Data](ext_articles/c7aebeb6.ext.json)
-
----
-
-### Horton and Arunachalam:  a Distinct Disparity in Significance
-
-*2024-01-29 04:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Horton-and-Arunachalam-a-Distinct-Disparity-in-Significance/172-275852) · `en`
-
-The Article titled ‘Choosing between Robert Wilmot Horton and Ponnambalam Arunachalam’ regarding the change of street name from Horton Place to Sir Ponnambalam Arunachalam Mawatha,’ which appeared on January 23rd, implies that both figures are equally important to Sri Lankans.
-
-The writer says, ‘…the change cannot take place without an acknowledgement of the contribution of Sir Robert Wilmot Horton to Ceylon.  Both Horton and Arunachalam contributed to Ceylon’s all-round development each in his own way and as per the opportunities available in their time. Sir Robert Wilmot Horton was Governor of Ceylon between 1831 and 1837, and Sir Ponnambalam Arunachalam, was a polymath, lawyer, educationist, public intellectual and political leader in the late nineteenth and early twentieth century…’
-
-...
-
-[Data](articles/85ff0812.json)
-
-[Extended Data](ext_articles/85ff0812.ext.json)
-
----
-
-### The Online Safety Act; For Whose Safety? - EDITORIAL
-
-*2024-01-29 04:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Online-Safety-Act-For-Whose-Safety-EDITORIAL/172-275851) · `en`
-
-On 18 September 2023, the government gazetted a draft bill to establish an Online Safety Act with defined powers and functions. It was tabled in the Parliament on the 3rd of October 2023. The Act sets out to establish an ‘Online Safety Commission’ consisting of five members appointed by the Executive President of the country, with specific objectives.
-
-According to a survey carried out by Verité Research, 56% of those surveyed said the Online Safety Act would curtail the freedom of those using social media.
-
-The legislation was passed in Parliament on the 24th of this month (January).
-
-...
-
-[Data](articles/6574d984.json)
-
-[Extended Data](ext_articles/6574d984.ext.json)
 
 ---

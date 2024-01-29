@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 05:36:53**
+As of **2024-01-29 05:55:42**
 
 ## Newspaper Stats
 
-*Scraped **3,152** Articles*
+*Scraped **3,162** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,7 +12,7 @@ colombotelegraphcom | 43
 bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 174
-islandlk | 174
+islandlk | 184
 newsfirstlk | 184
 dailyftlk | 223
 adalk | 288
@@ -26,7 +26,7 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,152 (100.0%) of 3,152 articles have been extended.
+3,152 (99.7%) of 3,162 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -177,6 +177,124 @@ SME associations want parate rights to be deferred for 12 months to give breathi
 [Data](articles/f9a9805c.json)
 
 [Extended Data](ext_articles/f9a9805c.ext.json)
+
+---
+
+### Serendib Flour Mills celebrates Thai Pongal harvest with artistic flair
+
+*2024-01-28 23:30:00* · [`islandlk`](http://island.lk/serendib-flour-mills-celebrates-thai-pongal-harvest-with-artistic-flair/) · `en`
+
+The Serendib Adhi Shakthi Kolam Competition, a showcase of artistic flair held during the Pongal celebrations was hosted by Serendib Flour Mills to illuminate the harvest festival, specifically across plantation communities.
+
+The event, a collaboration between Serendib Flour Mills and the Plantation Human Development Trust (PHDT) was themed ‘Celebrating Thai Pongal in the Plantation Sector’ and aimed to highlight the estate culture around the important Tamil harvest celebration marked by family, food, and festivities.
+
+The event took place at the Radella Cricket Club in Nuwaraeliya and the PHDT Training Center in Hatton. Over 200 women from estate-based organizations showcased their artistic talents by designing beautiful and colourful ‘Kolam’ floor art incorporating Serendib’s ‘Adi Shakthi’ brand name; Serendib Flour Mills new Fortified Wheat Flour has been formulated to meet the nutritional needs of estate communities.
+
+Reforms to stay course with bets on elections: First Capital Research
+
+...
+
+[Data](articles/b7e2742e.json)
+
+---
+
+### Southern Province Entrepreneur Awards recognizes ‘best innovative’ jewellery manufacturer
+
+*2024-01-28 23:30:00* · [`islandlk`](http://island.lk/southern-province-entrepreneur-awards-recognizes-best-innovative-jewellery-manufacturer/) · `en`
+
+Amila Gold House Private Limited, a leader in the manufacture and sale of fine jewellery in the Southern Province with a proud history of more than 25 years, was honoured as the Best Innovative Enterprise at the at the Southern Province Entrepreneur Awards 2023.
+
+The award ceremony organised by the Southern Provincial Chamber of Commerce and Industry in collaboration with the National Enterprise Development Authority (NEDA), with the aim of recognising and honouring entrepreneurs who have demonstrated excellence, was held under the patronage of the Minister of Industries Dr. Ramesh Pathirana. The award was received by Amila Gold House Private Limited Chairman, Amila Indunil de Silva. Amila Gold House was the first jewellery business to secure International Standards Organisation (ISO) 9001-2015 quality certifications in 2019.
+
+Samsung continues to lead digital signage market for 14 consecutive years
+
+Reforms to stay course with bets on elections: First Capital Research
+
+...
+
+[Data](articles/e6a4d015.json)
+
+---
+
+### WORX Coworking unveils its 4th property in Colombo
+
+*2024-01-28 23:29:00* · [`islandlk`](http://island.lk/worx-coworking-unveils-its-4th-property-in-colombo/) · `en`
+
+In response to the growing demand for flexible workspaces, WORX Coworking proudly announces the inauguration of its latest coworking facility situated at No. 14 Gower Street, Colombo 05. As a frontrunner in providing innovative workspace solutions, WORX Coworking continues to redefine the professional landscape by expanding its footprint in the city.
+
+Strategically situated in a convenient Colombo neighbourhood, the Gower Street location marks WORX Coworking’s 4th property, reflecting its commitment to catering to the diverse needs of professionals in Sri Lanka. The state-of-the-art facility is strategically positioned to meet the demands of a dynamic workforce seeking flexible, inspiring environments.
+
+India gearing up Central Bank Digital Currency for cross-border payments
+
+Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
+
+Save my name, email, and website in this browser for the next time I comment.
+
+◼️
+
+[Data](articles/70795b13.json)
+
+---
+
+### Alumex PLC concluded 2023 with multiple industry accolades
+
+*2024-01-28 23:29:00* · [`islandlk`](http://island.lk/alumex-plc-concluded-2023-with-multiple-industry-accolades/) · `en`
+
+Alumex PLC, a prominent player in the aluminium extrusion industry, capped off an exceptional 2023 with great successes, clinching over 14 awards in the past year, affirming their leadership in shaping Sri Lanka’s export landscape and commitment to governance, sustainability, and business excellence.
+
+At the 25th Presidential Export Awards 2023 Alumex received the coveted title of “Overall Emerging Exporter of the Year 2021/2022” and a merit award in the Light Engineering sector, testament to the company’s unwavering dedication to excellence. Alumex also won the Silver under the Machinery and Light Engineering Sector at the 31st NCE Exporter Awards.
+
+...
+
+[Data](articles/89d0ef45.json)
+
+---
+
+### AMW Epic Tyres unveils ‘strategic’ distributor agreement
+
+*2024-01-28 23:28:00* · [`islandlk`](http://island.lk/amw-epic-tyres-unveils-strategic-distributor-agreement/) · `en`
+
+AMW with a rich history spanning 75 years, marked a historic milestone with the recent signing of a Distributor Agreement of its Tyre Manufacturing and Distribution business arm. The signing, which took place at the Hilton, Colombo on the on 5th of January 2024, showcased AMW EPIC Tyres’s commitment to growth and innovation, positioning itself as a pioneer in the industry. Now a part of the esteemed Dubai-based conglomerate Al Futtaim Group, AMW Epic Tyres is set to redefine the tyre market with its signature blend of quality, Durability, and reliability.
+
+AMW Epic Tyres, known for its tireless pursuit of excellence, has become one of the leading local tyre manufacturers, specializing in Three-wheeler, Scooter and Motorcycle tyres. The brand stands out in the market, offering the best quality, premium tyres at competitive prices.
+
+Serendib Flour Mills celebrates Thai Pongal harvest with artistic flair
+
+AMW aiming at expanding operations in SL; strategic plans to unfold
+
+...
+
+[Data](articles/a38fe5fc.json)
+
+---
+
+### Reforms to stay course with bets on elections: First Capital Research
+
+*2024-01-28 23:10:00* · [`islandlk`](http://island.lk/reforms-to-stay-course-with-bets-on-elections-first-capital-research/) · `en`
+
+Investment Strategy – Jan 2024 report released by First Capital Research says reforms will stay the course amid guesses and opinions on upcoming elections.”After announcing the rate cut in Nov-23, we expect the Central Bank of Sri Lanka (CBSL) to take a pause and maintain rates in the near future, paving way for market rates to adjust downward. However, CBSL plans on implementing a single policy rate window, we believe CBSL may implement it in the 1Q2024 via a rate cut to the SLF (standing lending facility ) reducing it to 9.0% to be in line with the SDF (standing deposit facility),” First Capital Research (FCR) says.
+
+“With the completion of external debt restructuring during 1H2024, we believe the overall yield curve is likely to drop below 13.5% and reach a range of 11.0%-13.5% in the short term and towards end of1H2024 to reach 10.0%-12.5%. AWPR may decline to 10.0%-12.0% by Jun-24 and rise again to 11.0%-13.0% by Dec-24.”
+
+...
+
+[Data](articles/b15e6749.json)
+
+---
+
+### India gearing up Central Bank Digital Currency for cross-border payments
+
+*2024-01-28 23:09:00* · [`islandlk`](http://island.lk/india-gearing-up-central-bank-digital-currency-for-cross-border-payments/) · `en`
+
+Indian Finance Minister Nirmala Sitharaman has recently said that the Government of India and the Reserve Bank of India (RBI) are actively working to improve Central Bank Digital Currency (CBDC) for cross-border payments.
+
+“This development aims to expedite transactions at a reduced cost, making inward and outward remittances more affordable, she has said, according to The Economic Times.
+
+As per the latest official announcement, the Indian Interim Budget for the financial year 2024-2025 has been scheduled to take place on February 1, 2024. This budget is an important event in India’s economic calendar as it outlines the government’s revenue and expenditure plans for the upcoming financial year.
+
+...
+
+[Data](articles/76839053.json)
 
 ---
 
@@ -1823,139 +1941,5 @@ It will also provide water for 350 acres of paddy lands.
 [Data](articles/74b458fe.json)
 
 [Extended Data](ext_articles/74b458fe.ext.json)
-
----
-
-### 110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
-
-*2024-01-28 13:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/110-commitments-loom-as-sri-lanka-makes-strides-on-imf-bailout/) · `en`
-
-COLOMBO (News 1st); According to independent analysis from Verité Research Sri Lanka has met most of its initial commitments under its International Monetary Fund (IMF) bailout program, but concerns remain over delays in governance and transparency reforms
-
-The island nation, grappling with its worst economic crisis in decades, secured a crucial $2.9 billion loan from the IMF in March 2023.
-
-Verité Research, which tracks Sri Lanka's progress under the Extended Fund Facility (EFF) program via its online platform "IMF Tracker," reports that of the 73 commitments due by end-November 2023, 60 have been met, albeit with some delays.
-
-However, 13 commitments remain unfulfilled, raising concerns about Sri Lanka's commitment to crucial reforms.
-
-Five of these were irreversibly missed and cannot be carried forward, while eight have been deferred to the second phase of the program leading up to the next IMF review.
-
-...
-
-[Data](articles/84d2f7f1.json)
-
-[Extended Data](ext_articles/84d2f7f1.ext.json)
-
----
-
-### A speedy program to solve conflict in Kandakaduwa
-
-*2024-01-28 13:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192656) · `si`
-
-Commerce Commissioner General of Rehabilitation says that a pronouncement will be implemented to control the constant conflict incidents in the Kandakadu Rehabilitation Center.
-
-He points out that the main reason for the conflict is that the drug dealers are also included in rehabilitation centers.
-
-In the month of January, the inmates of the Kandakadu Rehabilitation Center were reported between the inmates of the Kandakadu Rehabilitation Center.
-
-The Commissioner General of Rehabilitation Heet Hettiarachchi said that the conditions have been able to control the situation, but the Commissioner General of Rehabilitation is required for a long term solution.
-
-◼️
-
-[Data](articles/da6c5321.json)
-
-[Extended Data](ext_articles/da6c5321.ext.json)
-
----
-
-### The international community does not stop 'justice'
-
-*2024-01-28 13:15:48* · [`adalk`](https://www.ada.lk/breaking_news/ජාත්‍යන්තරය-මොනවා-කිවුවත්-’යුක්තිය’-නවත්වන්නේ-නෑ/11-407753) · `si`
-
-Minister Tiran Alles said that if the "Justice 'operation was not implemented, Sri Lanka could have been a chicago.
-
-The Minister said so at a program to educate representatives of 7 Community Police Committees in the Gampaha Police Division in the Gampaha Police Division.. He added that the police have given great strength.
-
-The Minister said that the "Justice 'operation is not stopped to suppress drugs and underworld.
-
-Acting Inspector Tennakoon is very appreciated by the Community Police Committees and the active distribution of new methods of community committees is a seventy-five percent due to the measures that have been taken to suppress drugs and underworld.. The intelligence agencies have commenced a special program from next month, and the intelligence agencies have commenced a special program.
-
-◼️
-
-[Data](articles/1ac78e01.json)
-
-[Extended Data](ext_articles/1ac78e01.ext.json)
-
----
-
-### Galle Face gearing up for 76th Independence Day
-
-*2024-01-28 13:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Galle-Face-gearing-up-for-76th-Independence-Day/110-275836) · `en`
-
-Preparations for the 76th Independence Day celebration on February 4 are underway with the construction of structures at Galle Face. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/9c6dcfb7.json)
-
-[Extended Data](ext_articles/9c6dcfb7.ext.json)
-
----
-
-### Signs of ban with cricket
-
-*2024-01-28 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192655) · `si`
-
-He believes that he believes that the International Cricket Council will be removed in the next few days, said Sports Minister Harin Fernando.
-
-Speaking to the media in Wattala, the minister made this statement.
-
-◼️
-
-[Data](articles/24ef79a8.json)
-
-[Extended Data](ext_articles/24ef79a8.ext.json)
-
----
-
-### Violence A Notification Tiran
-
-*2024-01-28 13:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192654) · `si`
-
-According to the Minister of Defense Minister Tiran Alles, a special program to eliminate women's violence in Sri Lanka is implemented in line with the operation.
-
-The Minister made this observation at the time of awareness of the Community Police Committee members of the Veyangoda Police Division.
-
-Another phase of the community police committee members in order to the celebration of the Narcotics and Underworld activities was held at the Veyangoda Police Division.
-
-This is the main function of People's Defense Minister Tiran Alles and Acting Inspiry Tennakoon.
-
-...
-
-[Data](articles/17a09309.json)
-
-[Extended Data](ext_articles/17a09309.ext.json)
-
----
-
-### Increase in scholarship amount paid by presidential funds!
-
-*2024-01-28 12:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/174979) · `ta`
-
-President Ranil Wickremesinghe to increase the GCE Ordinary Level Examination in 2021 (2022) to increase the GCE Advanced Level Examination in 2024 and to increase scholarships to the students who have been facing economic issues in 2024 to increase the GCE Advanced Level Examination in 2024.Released.
-
-President Ranil Vikramasinghe has issued this directive as he focused on the demand of the student and the students.
-
-The Presidential Fund is implementing the scholarship program under the guidance of President Ranil Wickremesinghe, who is capable of living, learned, but economic difficulties in all parts of Sri Lanka.
-
-Under the Scholarship Scheme for 2021/2022, the President's Fund has been paid a monthly payment of Rs.
-
-Accordingly, with the increase in scholarships, from February 2024 to the GCE Advanced Level Examination, a monthly scholarship will be given from the President's Fund in the first week every month.
-
-...
-
-[Data](articles/2915758f.json)
-
-[Extended Data](ext_articles/2915758f.ext.json)
 
 ---

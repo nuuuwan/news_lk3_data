@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 11:02:14**
+As of **2024-01-29 11:17:15**
 
 ## Newspaper Stats
 
-*Scraped **3,211** Articles*
+*Scraped **3,212** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 185
 newsfirstlk | 190
 dailyftlk | 223
 adalk | 291
-adaderanasinhalalk | 337
+adaderanasinhalalk | 338
 virakesarilk | 338
 tamilmirrorlk | 403
 adaderanalk | 416
@@ -26,11 +26,23 @@ dailymirrorlk | 433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,211 (100.0%) of 3,211 articles have been extended.
+3,211 (100.0%) of 3,212 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### ලොහාන් රත්වත්තේ දිවුරුම් දෙයි
+
+*2024-01-29 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192690) · `si`
+
+වැවිලි කර්මාන්ත සහ මහවැලි සංවර්ධන රාජ්‍ය අමාත්‍යවරයා ලෙස ලොහාන් රත්වත්තේ මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ මීට සුළු වේලාවකට පෙර දිවුරුම් දී තිබේ.
+
+◼️
+
+[Data](articles/fd731105.json)
+
+---
 
 ### Biden says US ‘shall respond’ after drone strike by Iran-backed group kills 3 US troops in Jordan
 
@@ -1971,25 +1983,5 @@ Steps have been taken to remove the ban on Sri Lanka immediately after the Inter
 [Data](articles/9e794332.json)
 
 [Extended Data](ext_articles/9e794332.ext.json)
-
----
-
-### ICC lifts suspension on Sri Lanka Cricket - Sports Minister
-
-*2024-01-28 18:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96802/icc-lifts-suspension-on-sri-lanka-cricket-sports-minister) · `en`
-
-The International Cricket Council (ICC) has lifted the ban imposed on Sri Lanka Cricket with immediate effect, Sports Minister Harin Fernando revealed.
-
-He said an official statement from the ICC will follow shortly.
-
-On 10 November, the ICC suspended SLC’s membership, with immediate effect, on the grounds that the governing body is in serious breach of its obligations as a Member, in particular, the requirement to manage its affairs autonomously and ensure that there is no government interference in the governance, regulation and/or administration of cricket in Sri Lanka.
-
-Following a meeting of the ICC Board on 21 November, it was decided that Sri Lanka could continue to compete internationally both in bilateral cricket and ICC despite their suspension for breaching its obligations as a member in particular the requirement to manage its affairs autonomously and without government interference.
-
-...
-
-[Data](articles/fc9c2b1f.json)
-
-[Extended Data](ext_articles/fc9c2b1f.ext.json)
 
 ---

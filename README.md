@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 12:17:05**
+As of **2024-01-29 12:32:58**
 
 ## Newspaper Stats
 
-*Scraped **3,234** Articles*
+*Scraped **3,244** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,11 +13,11 @@ bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 177
 islandlk | 185
-newsfirstlk | 194
+newsfirstlk | 195
 dailyftlk | 223
 adalk | 291
-virakesarilk | 338
-adaderanasinhalalk | 340
+adaderanasinhalalk | 342
+virakesarilk | 345
 tamilmirrorlk | 406
 adaderanalk | 419
 dailymirrorlk | 440
@@ -26,11 +26,45 @@ dailymirrorlk | 440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,233 (100.0%) of 3,234 articles have been extended.
+3,234 (99.7%) of 3,244 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### විශ්ව බුද්ධ යළි රිමාන්ඩ්
+
+*2024-01-29 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192694) · `si`
+
+"විශ්ව බුද්ධ" නමින් පෙනී සිටිමින් බුදු දහමට අපහාස වන ආකාරයේ ප්‍රකාශ සිදුකිරීමේ චෝදනාව මත අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටින රොෂාන් රණසිංහ නැමැත්තා සම්බන්ධයෙන් වන නඩුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයේදී අද (29) යළි කැඳවනු ලැබීය.
+
+එහිදි ශ්‍රී ලංකා රාමඤඤා නිකාය වෙනුවෙන් අධිකරණයේ පෙනී සිටි ජනාධිපති නීතිඥවරයා ඉල්ලා සිටියේ, සැකකරුගේ උපසම්පදාව මේ වන විට අහෝසිකර ඇති බැවින් ඔහු තවදුරටත් හිමිනමක් ලෙස නොසලකන ලෙසය.
+
+මෙහිදි මෙම නඩුවට අදාළව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත්වරයා විසින් සැකකරුගේ ඇප අවලංගු නොකළ අතර නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණයේ පවතින නඩුවට අදාළව පෙබරවාරි 02 දක්වා ඔහු තවදුරටත් රක්ෂිත බන්ධනාගාරගත කළේය.
+
+◼️
+
+[Data](articles/5ac94777.json)
+
+---
+
+### வற் வரியை பதிவு செய்யாமல் நுகர்வோரிடமிருந்து வசூலிக்கும் நிறுவனங்களைக் கண்டறிய நடவடிக்கை!
+
+*2024-01-29 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175040) · `ta`
+
+வற் வரியைப் பதிவு செய்யாமல் அதனை நுகர்வோரிடமிருந்து வசூலிக்கும் நிறுவனங்களைக் கண்டறிய இறைவரி திணைக்களம்  சோதனையில் ஈடுபட்டுள்ளதாக திணைக்களத்தின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+
+வற் வரிக்காக பதிவு செய்யப்பட்ட வர்த்தக நிறுவனங்கள்  வியாபார நடவடிக்கைகளில் ஈடுபடும்போது, அவர்களின் வெற் பதிவு எண்ணை நுகர்வோரின் பார்வைக்குக் காண்பிக்க வேண்டியது கட்டாயமாகும்.
+
+இவ்வாறு செயற்படாத வர்த்தக நிறுவனங்கள் தொடர்பில் இறைவரித் திணைக்கள ஆணையாளருக்கு வாடிக்கையாளர்கள் நேரடியாகவே  முறைப்பாடு செய்யலாம்.
+
+இதேவேளை, இது தொடர்பில் அதிகளவான முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாகவும் அவவை தொடர்பில் நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் அவர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/ede7566d.json)
+
+---
 
 ### Oman Air suspends flights to Colombo
 
@@ -51,6 +85,32 @@ Additionally, Oman Air has introduced measures to optimise its schedule, startin
 ...
 
 [Data](articles/30058020.json)
+
+[Extended Data](ext_articles/30058020.ext.json)
+
+---
+
+### වල්ඌරාට තැබූ වෙඩිල්ල පියාට වදී
+
+*2024-01-29 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192693) · `si`
+
+දැදිගම ජයලත් කන්ද ප්‍රදේශයේ වල්ඌරන් දඩයමේ ගිය පිය පුතු දෙපල අතරින් පියා වෙඩිවැදී ජීවිතක්ෂයට පත්ව තිබේ.
+
+පොලීසිය පැවසුවේ, අත්වැරදීමකින් පුතා එල්ල කළ වෙඩි පහරින් පියා එලෙස මියගොස් ඇති බවය.
+
+අප වාර්තාකරු පැවසුවේ, ඊයේ (28) රාත්‍රියේ දඩයමේ ගොස් සිටිය දී මෙම ඛේදනීය සිදුවීම සිදුව ඇති බවය.
+
+පුතා එල්ල කළ වෙඩිල්ලෙන් පියාගේ හිසට බරපතළ තුවාල සිදුව ඇති අතර, පියා එම ස්ථානයේ දීම ජීවිතක්ෂයට පත්ව ඇත.
+
+එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, 47 හැවිරිදි ඩබ්ලිව් .සම්පත් නම් අයෙක් වන අතර වෙඩිතැබීම සිදුකර කර ඇත්තේ 17 හැවිරිදි ඔහුගේ පුත්‍රයා විසිනි.
+
+වල්ඌරන් කොටුකර ගැනීමට පියා සහ පුතා දෙපැත්තකින් ගොස් ඇති අතර, අනතුරුව පියා විදුලි පන්දම බිමට හරවා ලඳු කැලෑව අතරින් ගමන් කරමින් සිටිය දී පුතා ගිනිඅවිය ක්‍රියාත්මක කර තිබේ.
+
+පසුව තමා අතින් සිදුවු වැරැද්දෙන් පියා මියගොස් ඇතැයි දැනගත් පුතා ඥාතියෙක් සමග පොලීසියට පැමිණ භාරවී ඇති බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/9ff4de11.json)
 
 ---
 
@@ -96,6 +156,24 @@ The preliminary hearing of this case was held before the Thambuttegama Magistrat
 
 ---
 
+### Lohan gets new State Minister post
+
+*2024-01-29 11:34:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/lohan-gets-new-state-minister-post/) · `en`
+
+COLOMBO (News 1st); Lohan Ratwatte has been sworn in as the State Minister of Plantation Industries and Mahaweli Development in the presence of President Ranil Wickremesinghe.
+
+The post of State Minister of Mahaweli Development was held previously by former Minister Roshan Ranasinghe, and the Ministerial post of Plantation Industries was held by Minister of Agriculture Mahinda Amaraweera.
+
+Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
+
+30 percent of children in Sri Lanka miss out on pre-school -Minister
+
+◼️
+
+[Data](articles/149402ed.json)
+
+---
+
 ### Gazed recovery
 
 *2024-01-29 11:28:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொங்கிய-மனித-எலும்புக்கூடு-மீட்பு/76-332261) · `ta`
@@ -117,6 +195,100 @@ Police said the magistrate had been asked to investigate the place where the org
 [Data](articles/e619e65a.json)
 
 [Extended Data](ext_articles/e619e65a.ext.json)
+
+---
+
+### யாழில் தோட்ட கிணற்றில் இருந்து மூதாட்டி சடலமாக மீட்பு
+
+*2024-01-29 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175042) · `ta`
+
+வீட்டில் தனிமையில் வசித்து வந்த மூதாட்டி ஒருவர், வீட்டுக்கு அருகில் உள்ள தோட்ட கிணற்றில் இருந்து சடலமாக நேற்று ஞாயிற்றுக்கிழமை (28) மீட்கப்பட்டுள்ளார்.
+
+யாழ்ப்பாணம் கரணவாய் தெற்கை சேர்ந்த, சிவஞானம் கனகமணி (வயது 71)  என்பவரே சடலமாக மீட்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/7a6679a5.json)
+
+---
+
+### ஜோர்தானில் அமெரிக்க தளம் மீதுதாக்குதல்  - தொடர்பில்லை என்கின்றது ஈரான்
+
+*2024-01-29 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175041) · `ta`
+
+ஜோர்தானில் உள்ள அமெரிக்க தளத்தை இலக்குவைத்து மேற்கொள்ளப்பட்ட ஆளில்லாவிமானதாக்குதலில் மூன்று அமெரிக்க படையினர் கொல்லப்பட்டுள்ள அதேவேளை இந்த தாக்குதலுக்கும் தனக்கும் தொடர்பில்லை என ஈரான் தெரிவித்துள்ளது.
+
+அமெரிக்க தளத்தின் மீதான தாக்குதலிற்கும் ஈரானிற்கும் எந்த தொடர்பும் இல்லை என ஐநாவிற்கான ஈரானிய தூதரகம் தெரிவித்துள்ளது.
+
+பிராந்தியத்தில் அமெரிக்க படையினருக்கும் எதிர்ப்பு குழுவினருக்கும் இடையில் மோதல் காணப்படுகின்றது இதன் எதிரொலியே இந்த தாக்குதல்கள் என ஈரான் தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/73475fdf.json)
+
+---
+
+### முல்லைத்தீவில் பட்டத் திருவிழா : இளைஞனை விசாரணைக்குட்படுத்திய பொலிஸார்
+
+*2024-01-29 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175036) · `ta`
+
+இதன்போது, வித்தியாசமான வடிவில் பட்டங்களை உருவாக்கி  சிறுவர்கள் முதல் பெரியவர்கள் வரை பட்டம் ஏற்றி மகிழ்ந்திருந்தனர்.
+
+குறித்த பட்ட திருவிழாவில் முல்லைத்தீவினை சேர்ந்த இளைஞர் ஒருவர் பட்டத்தில் தமிழீழ வரைபடம், கார்த்திகை பூவின் பட அமைப்பில் உருவாக்கப்பட்ட பட்டத்தினை ஏற்றியுள்ளார்.
+
+இதனை தாம், அவதானித்தாக கூறி முல்லைத்தீவு பொலிஸார் அவ் இடத்திற்கு சென்று குறித்த இளைஞனை விசாரணைக்கு உட்படுத்தியுள்ளனர்.
+
+◼️
+
+[Data](articles/8823bd49.json)
+
+---
+
+### Sri Lanka's first defeat to Aussie in the World Cup under the age of 19
+
+*2024-01-29 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175030) · `ta`
+
+Sri Lanka's first defeat in the C team in South Africa was the UCC under -19 World Cup cricket tournament.
+
+Sri Lanka lost by 6 wickets in Kimberley on Sunday (28) against Australia.
+
+Sri Lanka failed to shine in the 3 league matches so far and scored a total of 208 runs (49.5 overs) in the match against Australia.
+
+In each match in Sri Lanka, someone gets more than 50 runs. The fact that the other people do not shine are impact on the Sri Lankan team.
+
+In the match against Australia, Dinura Kalubahana only captured half -centuries.
+
+The opening player, Pulindu Perera, did not shine in the field and lost the game in today's match.
+
+Team captain Sineet Jayawardena (16) and Subbun Vadugay (17) shared 47 runs with very relaxation.
+
+Ravishan de Silva continued to share 46 runs in the 4th wicket and 44 runs in the 5th wicket with Kamage.. But the trio lost by 66 runs.
+
+Ravishan de Silva scored 30 runs and Kamage scored 10 runs.
+
+Dinura Kalubahana scored 64 off 78 balls, including 6 pounds and 3 sixes.
+
+...
+
+[Data](articles/e5f481da.json)
+
+[Extended Data](ext_articles/e5f481da.ext.json)
+
+---
+
+### இலங்கையின் புதிய உண்மை ஐக்கிய நல்லிணக்க ஆணைக்குழு  நம்பகத்தன்மை மிக்கதாகயில்லை -சர்வதேச மனித உரிமை கண்காணிப்பகம்
+
+*2024-01-29 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175038) · `ta`
+
+போர்க்கால மனித உரிமைமீறல்களை துஸ்பிரயோங்களை விசாரிப்பதற்கான மற்றுமொரு அமைப்பை உருவாக்குவதற்கு இலங்கை அரசாங்கம்முன்வைத்துள்ள சட்டமானது முன்னைய தோல்வியுற்ற முயற்சிகளை பிரதிபலிப்பதாகவும் பாதிக்கப்பட்டவர்களின் தேவைகளை புறக்கணிப்பதாகவும் இலங்கையின் சர்வதேச கடப்பாடுகளை நிறைவேற்றாததாகவும் காணப்படுகின்றது  என சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+ஆயுதமோதல்கள் முடிவிற்கு வந்த 15 வருடங்களின் பின்னரும் இலங்கை பாதிக்கப்பட்டவர்களின் குடும்பத்தவர்களை  மௌனமாக்கும் ஒடுக்கும் நடவடிக்கைகளில் ஈடுபட்டுள்ளதாகவும் சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+
+2023 ம் ஆண்டு இடம்பெற்ற குறைந்தளவு கலந்தாலோசனைகளின் பின்னர் உண்மை ஐக்கியம் மற்றும் நல்லிணக்க ஆணைக்குழுவிற்கான சட்டமூலம் 2024 ஜனவரி 1ம் திகதி வெளியானது என தெரிவித்துள்ள சர்வதேச மனித உரிமை கண்காணிப்பகம் பிரிவினைவாத தமிழீழ விடுதலைப்புலிகளுடன் 1983 முதல் 2009 வரை இடம்பெற்ற உள்நாட்டு யுத்தத்தின் போது இடம்பெற்ற மனித உரிமை மீறல்கள் யுத்த குற்றங்களை விசாரணை செய்வதாக அரசாங்கம் உறுதிமொழி வழங்கியிருந்தது எனவும் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/3d84b4a8.json)
 
 ---
 
@@ -203,6 +375,40 @@ Police life savers have been deployed to face any emergency situation.
 [Data](articles/5aa5a773.json)
 
 [Extended Data](ext_articles/5aa5a773.ext.json)
+
+---
+
+### அரச நிர்வாக சேவை அதிகாரிகள் சுகவீன விடுமுறை போராட்டம்
+
+*2024-01-29 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175033) · `ta`
+
+அனைத்து அரச நிர்வாக சேவை அதிகாரிகளும் இன்று திங்கட்கிழமை (29) முதல்  சுகவீன விடுமுறை போராட்டத்தை ஆரம்பித்துள்ளனர்.
+
+பல கோரிக்கைகளை முன்வைத்து குறித்த தொழிற்சங்க நடவடிக்கை ஆரம்பிக்கப்பட்டுள்ளதாகவும், அனைத்து அரச நிர்வாக சேவை அதிகாரிகளின்  பங்குபற்றுதலுடன் இன்று  பேச்சுவார்த்தை  ஒன்று நடைபெறவுள்ளதாகவும் அரச நிர்வாக சேவை அதிகாரிகளின் ஒன்றிணைந்த கூட்டமைப்பின் தலைவர் எச்.ஏ.எல் உதயசிறி தெரிவித்துள்ளார்.
+
+இது குறித்து மேலும் கூறிய அரச நிர்வாக சேவை அதிகாரிகளின் ஒன்றிணைந்த கூட்டமைப்பின் தலைவர் எச்.ஏ.எல் உதயசிறி,
+
+“இன்று, கூட்டுக் குழுவைப் பிரதிநிதித்துவப்படுத்தும் அரசாங்கத்தின் நிறைவேற்று அதிகாரிகள், நாடளாவிய, இணையான சேவைகள் மற்றும் திணைக்கள சேவைகளைப் பிரதிநிதித்துவப்படுத்தும் தொழிற்சங்க நடவடிக்கையில் ஈடுபட தீர்மானித்துள்ளனர்.
+
+அரச ஆயுர்வேத வைத்திய அதிகாரிகளின் சங்கம், உள்நாட்டு இறைவரி தொழிற்சங்க ஒன்றியம், கல்வி நிர்வாக சேவை தொழிற்சங்க ஒன்றியம் உள்ளிட்ட  17 தொழிற்சங்கங்கள் இன்று கொழும்பில் ஒன்றுகூடி பேச்சுவார்த்தையை நடத்தவுள்ளன.
+
+...
+
+[Data](articles/06c8df80.json)
+
+---
+
+### லொஹான் ரத்வத்த இராஜாங்க அமைச்சராக பதவிப்பிரமாணம்
+
+*2024-01-29 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175034) · `ta`
+
+பெருந்தோட்ட கைத்தொழில் மற்றும் மகாவலி அபிவிருத்தி இராஜாங்க அமைச்சராக லொஹான் ரத்வத்த ஜனாதிபதி ரணில் விக்ரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+
+ஜனாதிபதி செயலகத்தில் வைத்து சற்று முன்னர் பதவிப்பிரமாணம் செய்துகொண்டதாக ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/5b901c4b.json)
 
 ---
 
@@ -323,38 +529,6 @@ The cause of the fire has not been uncovered yet and the Mawanella Police are co
 [Data](articles/2e30cd85.json)
 
 [Extended Data](ext_articles/2e30cd85.ext.json)
-
----
-
-### Sri Lanka's first defeat to Aussie in the World Cup under the age of 19
-
-*2024-01-29 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175030) · `ta`
-
-Sri Lanka's first defeat in the C team in South Africa was the UCC under -19 World Cup cricket tournament.
-
-Sri Lanka lost by 6 wickets in Kimberley on Sunday (28) against Australia.
-
-Sri Lanka failed to shine in the 3 league matches so far and scored a total of 208 runs (49.5 overs) in the match against Australia.
-
-In each match in Sri Lanka, someone gets more than 50 runs. The fact that the other people do not shine are impact on the Sri Lankan team.
-
-In the match against Australia, Dinura Kalubahana only captured half -centuries.
-
-The opening player, Pulindu Perera, did not shine in the field and lost the game in today's match.
-
-Team captain Sineet Jayawardena (16) and Subbun Vadugay (17) shared 47 runs with very relaxation.
-
-Ravishan de Silva continued to share 46 runs in the 4th wicket and 44 runs in the 5th wicket with Kamage.. But the trio lost by 66 runs.
-
-Ravishan de Silva scored 30 runs and Kamage scored 10 runs.
-
-Dinura Kalubahana scored 64 off 78 balls, including 6 pounds and 3 sixes.
-
-...
-
-[Data](articles/e5f481da.json)
-
-[Extended Data](ext_articles/e5f481da.ext.json)
 
 ---
 
@@ -852,9 +1026,9 @@ Police said six people, including the driver of the van, were admitted to hospit
 
 Police added that the others were transferred to the Hambantota Hospital for further treatment.
 
-Measures being taken to address issues related to tax registration
+Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
 
-Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
+30 percent of children in Sri Lanka miss out on pre-school -Minister
 
 ◼️
 
@@ -877,8 +1051,6 @@ During a review meeting held at the President's Office last week, permission was
 State Minister Siyambalapitiya said measures were taken to ensure the tax registration and related work will not be disrupted.
 
 He added that measures will be taken to issue the Taxpayer Identification Number using data collected by the Department for Registration of Persons and the Department of Motor Traffic.
-
-Measures being taken to address issues related to tax registration
 
 ...
 
@@ -926,9 +1098,9 @@ The fire broke out in a row of clothes, plastic and fruit shops behind the bus s
 
 The fire was extinguished using fire engines belonging to the Mawanella Pradeshiya Sabha.
 
-Measures being taken to address issues related to tax registration
+Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
 
-Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
+30 percent of children in Sri Lanka miss out on pre-school -Minister
 
 ◼️
 
@@ -1018,9 +1190,9 @@ COLOMBO (News 1st); Sri Lankan film director Jagath Manuwarna Kodithuwakku has w
 
 Jagath Manuwarna's "Whispering Mountains" has won several international awards in the past as well, including at the 52nd Rotterdam International Film Festival.
 
-Measures being taken to address issues related to tax registration
+Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
 
-Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
+30 percent of children in Sri Lanka miss out on pre-school -Minister
 
 ◼️
 
@@ -1132,9 +1304,9 @@ Issuing a statement the ICC said SLC was suspended in November for being in seri
 
 The ICC statement added that the Board have been monitoring the situation since the suspension and are now satisfied that SLC are no longer in breach of membership obligations.
 
-Measures being taken to address issues related to tax registration
+Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
 
-Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
+30 percent of children in Sri Lanka miss out on pre-school -Minister
 
 ◼️
 
@@ -1849,203 +2021,5 @@ The first meeting was held at the Central Executive Committee meeting for the po
 [Data](articles/a84b0e08.json)
 
 [Extended Data](ext_articles/a84b0e08.ext.json)
-
----
-
-### Disciplinary action against those involved in the melee during the TNA general meeting
-
-*2024-01-28 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175014) · `ta`
-
-During the first day session of the General Assembly of the 17th National Conference of the Sri Lanka Tamil National Party (TNA), the rhetoric over the post of positions ended.
-
-The new leader of the party, Sivagnanam Sreedharan, has announced that disciplinary action will be taken against all the members of the General Assembly involved in the incident.
-
-In particular, some senior members of the party's Trincomalee District General Assembly criticized it after the appointment of Shanmugam Kukadasan as general secretary.
-
-In particular, if they were accepted by the Central Committee, they asked questions as to why they were to be members of the General Assembly.
-
-In this situation, a group of Trincomalee district has attacked a logical group. Thus the melee was formed.
-
-It is noteworthy that the new leader Sreedharan had publicly announced that disciplinary action would be taken against all those involved in the incident, while other members had controlled the situation.
-
-◼️
-
-[Data](articles/1692757c.json)
-
-[Extended Data](ext_articles/1692757c.ext.json)
-
----
-
-### Fatal van-lorry collision claims one life, injures five others
-
-*2024-01-28 21:57:00* · [`adaderanalk`](https://www.adaderana.lk/news/96808/fatal-van-lorry-collision-claims-one-life-injures-five-others-) · `en`
-
-One person was reported dead while five others have been admitted for medical treatment following an accident along the Sella-Kataragama road, police stated.
-
-According to police, a van and a lorry had collided along the Sella-Kataragama road this evening (28 Jan.).
-
-◼️
-
-[Data](articles/4a88294a.json)
-
-[Extended Data](ext_articles/4a88294a.ext.json)
-
----
-
-### Jagath Manuwarna wins ‘Best Director’ at Dhaka International Film Festival
-
-*2024-01-28 21:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96806/jagath-manuwarna-wins-best-director-at-dhaka-international-film-festival-) · `en`
-
-Sri Lankan film director Jagath Manuwarna has won the prestigious award of ‘Best Director’ in the Asian Competition Section of the 22nd Dhaka International Film Festival (DIFF).
-
-Manuwarna won the title for his feature film directorial debut, ‘Whispering Mountains’ (Rahas Kiyana Kandu), which premiered at the Bright Future programme of the 2023 International Film Festival Rotterdam, where it won the NETPAC Awards for the best Asian feature film.
-
-The 87-minute film was also invited at the 28th Busan International Film Festival in October 2023.
-
-The DIFF was held from 20 – 28 January, under the theme ‘Better Film, Better Audience, and Better Society’, with a total of 253 movies being displayed at the festival.
-
-◼️
-
-[Data](articles/eafff8f8.json)
-
-[Extended Data](ext_articles/eafff8f8.ext.json)
-
----
-
-### Kataragama terrible accident
-
-*2024-01-28 21:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192672) · `si`
-
-A lorry and a van collided with a lorry and a van at Kataragama.
-
-Police further stated that a group of people were injured in the accident.
-
-◼️
-
-[Data](articles/ed5d877a.json)
-
-[Extended Data](ext_articles/ed5d877a.ext.json)
-
----
-
-### The best direction of the Dakka Awards is the global
-
-*2024-01-28 21:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192671) · `si`
-
-The 22nd, Jagath has won the best direction of the 22nd Dhaka International Film Awards.
-
-The award has been awarded for the secret mountain directed by the global streets.
-
-The secrets of the secrets is also a source of global film.
-
-◼️
-
-[Data](articles/fa55e5e9.json)
-
-[Extended Data](ext_articles/fa55e5e9.ext.json)
-
----
-
-### ICC confirms lifting of Sri Lanka’s suspension
-
-*2024-01-28 20:40:00* · [`adaderanalk`](https://www.adaderana.lk/news/96805/icc-confirms-lifting-of-sri-lankas-suspension) · `en`
-
-The International Cricket Council (ICC) has confirmed that the suspension imposed against Sri Lanka Cricket (SLC) has been lifted, with immediate effect.
-
-Issuing a statement in this regard on Sunday (28 Jan.), the ICC said “The ICC Board has been monitoring the situation since the suspension and are now satisfied that SLC are no longer in breach of membership obligations”.
-
-Earlier today, Sports Minister Harin Fernando announced that the ICC Had lifted its ban on Sri Lanka.
-
-On 10 November 2023, Sri Lanka Cricket (SLC) were suspended for violation of responsibilities as an ICC Member, in particular, “the requirement to manage its affairs autonomously and ensure that there is no government interference in the governance, regulation and/or administration of cricket in Sri Lanka.”
-
-...
-
-[Data](articles/f1d0abb1.json)
-
-[Extended Data](ext_articles/f1d0abb1.ext.json)
-
----
-
-### Super win of West Indies
-
-*2024-01-28 20:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192670) · `si`
-
-When the West Indies won the victory against Australia, the former West Indies, who was committed cricket relief, wet the neoth tears of Lara.
-
-West Indies won the Test match today (28) in Australia after 27 years.
-
-In the Brisbane, British match was won by 8 runs.
-
-◼️
-
-[Data](articles/329c6a78.json)
-
-[Extended Data](ext_articles/329c6a78.ext.json)
-
----
-
-### Decision for the Galle President
-
-*2024-01-28 20:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192669) · `si`
-
-President Ranil Wickremesinghe has instructed the authorities to accelerate the Galle city development plan under a structure.
-
-It was held yesterday (27) a tour of the Galle Fort's development work yesterday (27).
-
-The President also declared that the President also declared a special commission to accelerate Galle development activities.
-
-Meanwhile, President Ranil Wickremesinghe was also present at the Galle Literary Festival of the Galle Literary Festival.
-
-The Galle Literary Festival is the main international literary festival in Sri Lanka, which is held in Sri Lanka, which is held in Sri Lanka, which will be held in Sri Lanka, which is held in Sri Lanka, which is held in Sri Lanka to join in the country's country of renowned authors, literary, journalists, journalists and publishers.
-
-The Galle Literary Festival, which began on January 25, will end up today.
-
-◼️
-
-[Data](articles/c4be7548.json)
-
-[Extended Data](ext_articles/c4be7548.ext.json)
-
----
-
-### Politicians, media heads liable to submit asset declarations
-
-*2024-01-28 20:10:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Politicians-media-heads-liable-to-submit-asset-declarations/108-275845) · `en`
-
-Colombo, Jan 28 (Daily Mirror) -The Bribery or Corruption Allegation Investigation Commission has issued a stern directive, setting a deadline for the submission of asset declarations from various high-profile figures, including the President, the Prime Minister, public servants, and media heads.
-
-This move comes in accordance with the recently enacted Bribery or Corruption Allegations Act.
-
-Under the provisions of the new legislation, approximately 150,000 individuals, comprising politicians, public servants, and media leaders, are mandated to submit detailed asset and liability statements to the Bribery or Corruption Allegations Commission on an annual basis.
-
-The scope of the directive extends to individuals across thirty-one different sectors.
-
-The deadline for compliance with this mandatory disclosure is fixed at March 31st of each year, adding a sense of urgency to the process.
-
-◼️
-
-[Data](articles/1c88b244.json)
-
-[Extended Data](ext_articles/1c88b244.ext.json)
-
----
-
-### Sri Lanka’s Uma Oya hydro plant first 60MW phase in operation
-
-*2024-01-28 19:55:00* · [`economynextcom`](https://economynext.com/sri-lankas-uma-oya-hydro-plant-first-60mw-phase-in-operation-148887/) · `en`
-
-ECONOMYNEXT – The first 60 Mega Watt phase of a 120MW Uma Oya hydro power plant was made operational on January 27, Energy Minister Kanchana Wijesesekera has said.
-
-“First unit turbine of 60MW of the 120MW Uma Oya Hydro project was synchronized and connected to the National Grid successfully yesterday,” Minister Wijesekera said in a twitter.com message.
-
-“With the long delays due to the challenges of political protests against the project, covid pandemic & the financial crisis the project teams & officials have been able to successfully complete phase one & expects to connect the unit two turbine by mid February.”
-
-The Uma Oya multi-purpose project, which also involves irrigation for agriculture is built by Iran’s Farab engineering group.
-
-◼️
-
-[Data](articles/490776ed.json)
-
-[Extended Data](ext_articles/490776ed.ext.json)
 
 ---

@@ -1,36 +1,86 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 22:33:06**
+As of **2024-01-29 22:50:17**
 
 ## Newspaper Stats
 
-*Scraped **3,359** Articles*
+*Scraped **3,373** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 43
 bbccomsinhala | 56
 dbsjeyarajcom | 125
-economynextcom | 177
 islandlk | 185
+economynextcom | 187
 newsfirstlk | 203
 dailyftlk | 223
 adalk | 312
 adaderanasinhalalk | 357
 virakesarilk | 368
-tamilmirrorlk | 422
-adaderanalk | 432
-dailymirrorlk | 456
+tamilmirrorlk | 423
+adaderanalk | 433
+dailymirrorlk | 458
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,353 (99.8%) of 3,359 articles have been extended.
+3,359 (99.6%) of 3,373 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### சமூக செயற்பாட்டாளர் பியத் நிகேஷல கைது
+
+*2024-01-29 22:34:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-செயற்பாட்டாளர்-பியத்-நிகேஷல-கைது/175-332308) · `ta`
+
+சமூக செயற்பாட்டாளரான பியத் நிகேஷல குற்றப்புலனாய்வு திணைக்களத்தின் கணினி குற்ற விசாரணை பிரிவினால் இன்று(29) கைது செய்யப்பட்டார்.
+
+வாக்குமூலமொன்றை பெற்றுக்கொள்வதற்காக அவர் குற்றப்புலனாய்வு திணைக்களத்திற்கு அழைக்கப்பட்டிருந்ததுடன் வாக்குமூலம் பெறப்பட்டதன் பின்னர் கைது செய்யப்பட்டார்.
+
+பொதுமக்களின் அமைதியை சீர்குலைத்தமை, அரசாங்கத்தின் மீது பொதுமக்களுக்கு அதிருப்தியை ஏற்படுத்தியமை மற்றும் பொதுமக்களை ஆத்திரமடையச் செய்யும் வகையில் காணொளிகளை வெளியிட்டமை உள்ளிட்ட குற்றச்சாட்டுகளின் கீழ் பியத் நிகேஷல கைது செய்யப்பட்டதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/b04504a4.json)
+
+---
+
+### Sri Lanka’s new transitional justice process lacks credibility – HRW
+
+*2024-01-29 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96834/sri-lankas-new-transitional-justice-process-lacks-credibility-hrw) · `en`
+
+The Sri Lankan government’s proposed law to create another body to investigate wartime abuses replicates previous failed efforts, ignores the needs of victims, and falls far short of meeting Sri Lanka’s international legal obligations, Human Rights Watch said on Tuesday (29 Jan.).
+
+In a statement, the Human Rights Watch claimed that “Sri Lankan authorities continue to silence and repress families of victims and their communities 15 years after the armed conflict ended”.
+
+The Commission for Truth, Unity and Reconciliation in Sri Lanka Bill was published on January 1, 2024, following limited consultations in 2023 and government pledges to investigate human rights violations and war crimes committed during the 1983-2009 civil war with the separatist Liberation Tigers of Tamil Eelam (LTTE) and in its aftermath.
+
+...
+
+[Data](articles/63ac2446.json)
+
+---
+
+### National Consumer Front urges Minister for swift action on soaring vegetable prices before preparing for polls
+
+*2024-01-29 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-Consumer-Front-urges-Minister-for-swift-action-on-soaring-vegetable-prices-before-preparing-for-polls/108-275928) · `en`
+
+Colombo, Jan 29 (Daily Mirror) - Before preparing for the upcoming Presidential election meeting, the National Consumer Front (NCF) requested that Trade Minister Nalin Fernando promptly investigates into the unexpected rise in vegetable prices in the market.
+
+The Front said the prices of vegetables have increased in Dambulla and Nuwara Eliya, and therefore vegetables cannot be sold in the local market as the increase in prices have to be borne by consumers.
+
+According to the prices of the New Manning Market in Peliyagoda, the price of a kilogramme of carrot was Rs. 2,000. A kilo of green chillies, which was Rs. 800, has increased to Rs. 1,200, a kilo of Kekiri has increased to Rs. 300, and a kilo of pumpking has increased to Rs. 300.
+
+National Consumer Front Chairman Asela Sampath requested that Trade Minister Bandula Gunawardena investigate into the sudden price increase of vegetables in the local market and provide immediate solutions to control the prices.
+
+...
+
+[Data](articles/fddc73c3.json)
+
+---
 
 ### Universal Buddha and Roshan is one of the latest story
 
@@ -90,6 +140,22 @@ The accusations come after years of tensions between Israel and the agency known
 
 ---
 
+### Social media activist Piyath Nikeshala arrested by CID
+
+*2024-01-29 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Social-media-activist-Piyath-Nikeshala-arrested-by-CID/108-275927) · `en`
+
+Colombo, Jan 29 (Daily Mirror) - Social media activist Piyath Nikeshala has been arrested by the Criminal Investigation Department, police said.
+
+He was reportedly arrested after being summoned before the CID to obtain a statement over publishing a recorded telephone conversation between Public Security Minister Tiran Alles and another social media activist on his YouTube channel.
+
+Piyath Nikeshala was also arrested on June last year over the live streaming on social media of the incident of burning President Ranil Wickremesinghe's private residence in Colombo on July 09, 2022
+
+◼️
+
+[Data](articles/938ca514.json)
+
+---
+
 ### Country is self-sufficient in rice, no rice imports expected in 2024 – Minister
 
 *2024-01-29 21:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96831/country-is-self-sufficient-in-rice-no-rice-imports-expected-in-2024-minister-) · `en`
@@ -110,19 +176,23 @@ The Minister of Agriculture and Plantation Industry, Mr. Mahinda Amaraweera ment
 
 ---
 
-### சாந்தனின் தாயாரின் கடிதத்தை மேற்கோள்காட்டி தமிழக முதல்வருக்கு சிறீதரன் கடிதம் - சாந்தன் உள்ளிட்ட நால்வரையும் இலங்கைக்குஅனுப்பிவைக்க ஆவண செய்யவேண்டுகோள்
+### Sridharan's letter to the Chief Minister of Tamil Nadu, citing Shantan's mother's letter
 
 *2024-01-29 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175107) · `ta`
 
-ராஜீவ் காந்தி கொலை வழக்கில் கைதுசெய்யப்பட்டு விடுதலை செய்யப்பட்டுள்ள இலங்கை தமிழர்களை விடுவிக்குமாறு தமிழக முதல்வர் மு.க.ஸ்டாலினுக்கு, சாந்தனின் தாயாரின் கோரிக்கைக் கடிதத்தை மேற்கோள்காட்டி நாடாளுமன்ற உறுப்பினர் சிவஞானம் சிறீதரன்  கடிதம் ஒன்றை அனுப்பிவைத்துள்ளார்.
+Parliamentarian Sivagnanam Sreedharan has sent a letter to Tamil Nadu Chief Minister MK Stalin to release Santhan's mother's request to release the Sri Lankan Tamils who have been arrested and released in the Rajiv Gandhi assassination case.
 
-மறைந்த பாரதப்பிரதமர் ராஜீவ்காந்தி கொலை வழக்கில் கைதுசெய்யப்பட்டு 32 வருடங்கள் சிறைத்தண்டனையின் பின்னர் கடந்த 2022-11-11 அன்று இந்திய உச்சநீதிமன்றத்தால் விடுதலை செய்யப்பட்ட சாந்தன் அவர்களின் தாயாரால் எனக்கு சமர்ப்பிக்கப்பட்டுள்ள உருக்கம் நிறைந்த கோரிக்கை கடிதம் மீதான தங்களின் கரிசனையையும் கவனத்தையும் கோரிநிற்கின்றேன்.
+I am demanding their compassion and attention on the brutal request letter submitted by Shantan's mother, who was released by the Supreme Court of India on 2022-11-11 after his sentence of 32 years after his sentence and 32 years in prison.
 
-32 வருடகால சிறைத்தண்டனையின் பின்னர் நீதிமன்றத்தினால் விடுதலை செய்யப்பட்டு ஒருவருடம் கடந்துள்ள நிலையில்  அவ்வழக்கிலிருந்து விடுதலையான இலங்கை பிரஜைகளான சாந்தன் முருகன் ரொபேர்ட் பயஸ் ஜெயக்குமார் ஆகிய நால்வரையும் இலங்கைக்கு வரவழைப்பதற்கு மேற்கொள்ளப்பட்ட எந்த முயற்சிகளும் பலனளிக்காததால் இன்றுவரை அவர்கள் திருச்சி சிறப்புமுகாமில் தடுத்துவைக்கப்பட்டுள்ளனர் என்பதை கரிசனையோடு தெரிவித்துக்கொள்ளவிரும்புகின்றேன்.
+One year after the 32 -year prison sentence has been released by the court, the Sri Lankan citizens, Shantan Murugan Robert Bias Jayakumar, have been detained at Trichy specialist as they have not benefited from any effort to summon.
+
+In this case, Shantan, who has been severely affected by the kidney liver damage that can threaten the entire age of his youth and the entire age of old age, has now been admitted to the hospital.
 
 ...
 
 [Data](articles/0e68086d.json)
+
+[Extended Data](ext_articles/0e68086d.ext.json)
 
 ---
 
@@ -144,23 +214,29 @@ Horana Magistrate made the magisterial inquiry into the incident today (29).
 
 ---
 
-### ஐக்கிய மக்கள் சக்தியுடன் கைகோர்த்தார் ஜெனரல் தயா ரத்நாயக்க
+### General Daya Ratnayake joined hands with United People's Power
 
 *2024-01-29 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175097) · `ta`
 
-யுத்தத்தை தோற்கடிப்பதற்கான மனிதாபிமான பணியை வழிநடத்திய, இலங்கை இராணுவத்தின் 20 ஆவது தளபதியான லெப்டினன் ஜெனரல் தயா ரத்நாயக்க திங்கட்கிழமை (29) எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாசவைச் சந்தித்து ஐக்கிய மக்கள் சக்தியில் இணைந்து கொண்டார்.
+Lieutenant General Daya Ratnayake, the 20th Commander of the Sri Lanka Army, who led the humanitarian work to defeat the war, met with opposition leader Sajith Premadasa on Monday (29).
 
-இதனையடுத்து ஐக்கிய மக்கள் சக்தியின் பொதுக் கொள்கைகள் தொடர்பான சிரேஷ்ட ஆலோசகராக ஜெனரல் தயா ரத்நாயக்கவை எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச இன்று நியமித்தார்.
+Opposition Leader Sajith Premadasa today appointed General Daya Ratnayake as Senior Advisor to the General Policy of the United People's Power.
 
-குருநாகல் மலியதேவ கல்லூரியின் பழைய மாணவரான இவர் 35 வருடங்களுக்கும் மேலாக (1980-2015) இலங்கை இலேசாயுத காலாட் படையணிக்கு தலைமை தாங்கி செயற்பட்டார்.
+He was an alumnus of Maliyadeva College, Kurunegala for over 35 years (1980-2015).
 
-இலங்கை துறைமுக அதிகார சபையின் தலைவராகவும், கோட்டாபய ராஜபக்ச ஜனாதிபதியின் அரசாங்கத்தில் கைத்தொழில் அமைச்சின் செயலாளராகவும் பணியாற்றியுள்ளார்.
+Gotabhaya Rajapakse has served as the Secretary to the Ministry of Industry in the Government of the President of the Ports Authority.
 
-1980 இல் கடெற் பிரிவில் பங்காற்றி தனது இராணுவ வாழ்க்கையைத் தொடங்கிய அவர்,இலங்கை இராணுவ அகாடமியில் தனது அடிப்படைப் பயிற்சியை முடித்த பின்னர் 1981 இல் இலங்கை காலாட்படையின் இரண்டாவது லெப்டினன்டாக நியமிக்கப்பட்டார்.
+He started his military career in 1980 and was appointed the second Lieutenant of the Sri Lankan infantry in 1981 after completing his basic training at the Sri Lanka Army Academy.
+
+Later in the Commando Officers Course, the Infantry Young Officers completed the Armed Force Cooperation Study for the Course and Regiment.
+
+He also served as the Commissioner General of the Rehabilitation Bureau for rehabilitation of 12,000 former LTTE members.
 
 ...
 
 [Data](articles/476f3a08.json)
+
+[Extended Data](ext_articles/476f3a08.ext.json)
 
 ---
 
@@ -188,77 +264,87 @@ We will charge a real estate tax in 2025. It's a very progressive step. Hope to 
 
 ---
 
-### இந்திய புலமைப்பரிசில் திட்டத்தில் மருத்துவம், சட்ட கற்கை நெறிகள் உள்ளடக்கப்படவில்லை
+### Indian scholarship program does not include medicine and legal learning
 
 *2024-01-29 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175100) · `ta`
 
-கொழும்பிலுள்ள இந்திய உயர் ஸ்தானிகராலயம், இலங்கைப் பிரஜைகளுக்கான முழு நிதியுதவியுடன் கூடிய சுமார் 200 புலமைப்பரிசில்களுக்கான விண்ணப்பங்களைக் கோரியுள்ளது. கடந்த வாரம் இது தொடர்பான அறிவித்தல் வெளியிடப்பட்டிருந்தது.
+The Indian High Commission in Colombo has requested applications for about 200 scholarships with full funding for Sri Lankan citizens.. The announcement was made last week.
 
-எனினும் குறித்த புலமைப்பரிசில் திட்டங்களில் மருத்துவம், சட்டத்துறை, துணை மருத்துவம் (Paramedical), ஆடை வடிவமைப்பு (Fashion Design) ஆகிய கற்கை நெறிகள் உள்ளடக்கப்படவில்லை என அறிவிக்கப்பட்டுள்ளது.
+However, scholarship programs have not been announced that there are no medical, legal, paramedical and fashion design.
 
-இந்திய கல்வி நிறுவனங்கள் மற்றும் பல்கலைக்கழகங்களில் பட்டப்படிப்பினைத் தொடர்வதற்காக இந்த புலமைப்பரிசில் வழங்கப்படவுள்ளது.
+The scholarship will be awarded to continue graduation from Indian educational institutions and universities.
 
-அதற்கமைய 2024 - 2025 காலப்பகுதியில் பொறியியல், அறிவியல், வணிகம், பொருளாதாரம், வர்த்தகம், மனிதநேயம் மற்றும் கலை போன்ற பாடநெறிகளுக்கு நேரு நினைவு உதவித்தொகை திட்டத்தின் மூலமும், பொறியியல், அறிவியல் மற்றும் வேளாண்மைக்கு முன்னுரிமை அளிக்கும் முதுகலை பட்டப் படிப்புகளுக்கு மௌலானா ஆசாத் திட்டத்தின் ஊடாகவும் புலமைப்பரிசில் வழங்கப்படவுள்ளமை குறிப்பிடத்தக்கது.
+Accordingly, the scholarship will be awarded through the Nehru Memorial Scholarship Program for Engineering, Science, Commerce, Economics, Trade, Humanity and Arts from 2024 to 2025 and Moulana Azad Program for Masters Degree in Engineering, Science and Agriculture.
 
 ◼️
 
 [Data](articles/2ddbed89.json)
 
+[Extended Data](ext_articles/2ddbed89.ext.json)
+
 ---
 
-### 'சுதந்திர தினம்' வடக்கு, கிழக்கில் கறுப்பு நாளாக பிரகடனம்
+### 'Independence Day' declares black day in the North and East
 
 *2024-01-29 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175101) · `ta`
 
-பிரித்தானியப் பேரரசின் காலனித்துவ நாடாக 133 வருடங்கள் இருந்த இலங்கையின் 76ஆவது சுதந்திர தினம் வடக்கு கிழக்கு மாகாணங்கள் முழுவதும் 'கறுப்பு தினம்'ஆக பிரகடனப்படுத்தப்பட்டுள்ளது.
+Sri Lanka's 76th Independence Day, which was 133 years of the Colonial Country of the British Empire, has been declared as 'Black Day' throughout the North and East.
 
-பெப்ரவரி 4 ஆம் திகதி கறுப்பு நாளாக பிரகடனப்படுத்தப்படுவதாக வலிந்து காணாமல் ஆக்கப்பட்டவர்களின் உறவினர்கள் சங்கம் மற்றும் யாழ்ப்பாண பல்கலைக்கழக மாணவர் ஒன்றியம் ஆகியன அறிவித்துள்ளன.
+The Relatives Association of the Disappeared and the Jaffna University Students Union has announced that it will be declared a black day on February 4.
 
-தமிழ் மக்களுக்கான நிரந்தர அரசியல் தீர்வுக்கான முன்னேற்றகரமான வேலைத்திட்டங்கள் எதுவும் முன்னெடுக்கப்படவில்லை என யாழ்ப்பாணப் பல்கலைக்கழக மாணவர் ஒன்றியத் தலைவர் கு.துவாகரன் குறிப்பிட்டுள்ளார்.
+Jaffna University Student Union President Q. Dwagaran said that no progress programs have been carried out for a permanent political solution for the Tamil people.
 
-"தமிழ் மக்களுக்கான உரிமைகள் மீறப்படுகின்றன. இருப்பு கேள்விக்குரியாகியுள்ளது. அச்சுறுத்தல்கள் தொடர்கின்றன. ஆட்சிகளும், ஆட்சியாளர்களும் மாறுகின்றார்கள். எனினும் தமிழ் மக்களுக்கான நிரந்தர அரசியல் தீர்வு என்பது இன்றுவரை முன்னேற்றகரமான வேலைத்திட்டங்களும் முன்னெடுக்கப்படவில்லை. அது வெறும் பேசுப்பொருளாக மாத்திரமே இருக்கின்றது. பெப்ரவரி ஆகவே வடக்கு, கிழக்கு தழுவிய கரிநாளாக பிரகடனப்படுத்துகின்றோம்." எனக் குறிப்பிட்டுள்ளார்.
+“The rights of the Tamil people are violated. The existence has become questionable. Threats continue. The rulers and the rulers are changing. However, the permanent political solution for the Tamil people has not been carried out to date. It is just a meal. We are proclaiming the North and East as a black day. ”
+
+The student union leader further insisted that the Tamil people should continue to fight until the political solution is available.
 
 ...
 
 [Data](articles/6421d1de.json)
 
+[Extended Data](ext_articles/6421d1de.ext.json)
+
 ---
 
-### அரிசி இறக்குமதி செய்யப்படமாட்டாது  - அமைச்சர் மஹிந்த அமரவீர
+### Rice will not be imported - Minister Mahinda Amaraweera
 
 *2024-01-29 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175102) · `ta`
 
-அரிசி தேவையில் இலங்கை தன்னிறைவு பெற்றுள்ளதால், 2024இல் அரிசி இறக்குமதி செய்ய எதிர்பார்க்கவில்லை என கமத்தொழில் மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர தெரிவித்தார்.
+Minister of State for Industry and Plantation and Plantation Industries Mahinda Amaraweera said that Sri Lanka is self -sufficient in the need for rice and is not expected to import rice in 2024.
 
-2024 ஆம் ஆண்டில் இலங்கை தன்னிறைவடையும் வகையில், நெல், சோளம், உருளைக்கிழங்கு மற்றும் மிளகாய் பயிர்களுக்கு முன்னுரிமை வழங்க தீர்மானிக்கப்பட்டுள்ளதாகவும் அமைச்சர் குறிப்பிட்டார்.
+The Minister said that in 2024, Sri Lanka has decided to give priority to paddy, corn, potatoes and chilli crops.
 
-ஜனாதிபதி ஊடக மையத்தில் திங்கட்கிழமை (29) நடைபெற்ற ஊடக சந்திப்பில் கருத்துத் தெரிவிக்கும்போதே  கமத்தொழில் மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சர் மஹிந்த அமரவீர இவ்வாறு தெரிவித்தார்.
+Minister of Communication and Plantation Industries Mahinda Amaraweera made this statement while addressing a media briefing held at the Presidential Media Center on Monday (29).
 
-“கமத்தொழில் மற்றும் பெருந்தோட்டக் கைத்தொழில் அமைச்சு என்ற வகையில், இந்த ஆண்டு விவசாயம் மற்றும் பெருந்தோட்டக் கைத்தொழில் அபிவிருத்திக்கான இலக்கு நோக்கிய வேலைத்திட்டத்தை ஆரம்பித்துள்ளோம்.
+“As a Ministry of Communication and Plantation Industries, we have launched a program towards the target of agriculture and plantation industry this year.
 
-2023 ஆம் ஆண்டில், நாட்டில் சிறு போகத்திலும் பெரும் போகத்திலும் உரங்களை கொள்வனவு செய்வதற்கு நிதி மானியங்களுக்காக சுமார் 22 பில்லியன் ரூபாவை செலவிட்டோம். அத்துடன் நெல் கொள்வனவு செய்வதற்கு அரசாங்கம் 13 பில்லியன் ரூபாவை செலவிட்டுள்ளது.
+In 2023, we spent about 22 billion rupees for financial subsidies for buying fertilizers in the country and in the country.. The government has also spent 13 billion rupees for the purchase of paddy.
 
 ...
 
 [Data](articles/80a6de2d.json)
 
+[Extended Data](ext_articles/80a6de2d.ext.json)
+
 ---
 
-### அனைத்தையும் புதிய மாற்றத்திற்குள்ளாக்கும் அரசியல் இயக்கம் அவசியம் – அநுர குமார
+### The political movement that makes everything new - Anura Kumara
 
 *2024-01-29 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175104) · `ta`
 
-வெறுமனே ஆட்சி மாற்றத்தினால் எந்தவிதமான பயனும் கிடையாதென்பதும், இந்த நாட்டின் பொருளாதாரம், அரசியல் மற்றும் சமூகம் ஆகிய அனைத்துப் பிரிவுகளையும் ஒரே பிடியில் எடுத்து மாற்றத்திற்கு இலக்காக்குகின்ற புதிய அரசியல் இயக்கமொன்று அவசியமெனவும் தேசிய மக்கள் சக்தியின் தலைவர் அநுர குமார திசாநாயக்க கூறினார்.
+The leader of the National People's Power, Anura Kumara Dissanayake, said that there was no use of the regime change and that a new political movement that would take all sections of this country's economy, politics and society into one grip.
 
-கடந்த 27 ஆந் திகதி மாத்தறையில் நடாத்தப்பட்ட  மேற்படி மாவட்டத்தின் அதிட்டன (திடசங்கற்பம்) முப்படைக் கூட்டமைவின் மாநாட்டில் உரையாற்றுகையிலேயே அவர் இவ்வாறு குறிப்பிட்டார்.
+He was speaking at the conference of the Armed Forces Federation of Armed Forces in the district of Matara on the 27th of this month.
 
-அரசியல் சூடுபிடித்துள்ளது. தேர்தல் அண்மித்திராத நிலையில் அரசியல் இவ்விதமாக சூடுபிடித்தமை இலங்கையில் ஒருபோதுமே நிலவவில்லை. அண்மைக்காலமாக இலங்கை மக்கள் அரசியல் ரீதியாக மிகவும் அதிகமாக விழிப்படைந்து வருகிறார்கள். விழிப்புணர்வடைந்த அரசியல் முனைப்புநிலையை அடைந்துவருகிறார்கள்.
+Politics has been hot. In the wake of the election, politics has never existed in Sri Lanka. Recently, the Sri Lankan people are politically awake. They are reaching the awareness political initiative.
 
-இந்த வருடத்தின் ஒக்டோபர் மாதம் இறுதியளவில் எமது நாட்டில் இருப்பது புதிய அரசாங்கமாகும், புதிய ஆட்சியாகும். அந்த புதிய அரசாங்கத்தை, புதிய ஆட்சியை தேசிய மக்கள் சக்தியினுடையதாக மாற்றிக்கொள்ள நாமனைவரும் முனைப்பாக பங்களித்துள்ளோம்.
+In October this year, the end of our country is the new government, the new regime. We have also contributed to all of us to make that new government and the new regime a national power of the people.
 
 ...
 
 [Data](articles/c05c014b.json)
+
+[Extended Data](ext_articles/c05c014b.ext.json)
 
 ---
 
@@ -736,6 +822,26 @@ He has also served as a Chairman of the Sri Lanka Ports Authority as the Secreta
 
 ---
 
+### Sri Lanka not barred from transparent investment incentives by IMF deal: ex-BOI chief
+
+*2024-01-29 17:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-not-barred-from-transparent-investment-incentives-by-imf-deal-ex-boi-chief-149017/) · `en`
+
+ECONOMYNEXT – Sri Lanka is not barred from giving investment incentives if they are not discretionary and are based on transparent rules, Thilan Wijesinghe, an investment banker who was a former Chairman of the Board of Investment said.
+
+The International Monetary Fund has frowned on sweeping tax holidays running up to 20 to 25 years given under a Strategic Development Project (SDP) Act for undermining the revenue base and leaving the door open for corruption.
+
+Related Sri Lanka logistics centre with China gets 15-year tax holiday
+
+IMF senior mission chief Peter Breuer told reporters earlier this month that a recently gazetted tax incentive may not be approved by parliament.
+
+“On tax concession, so there is a commitment in the program to grant, to not grant any more tax concessions,” Breuer said.
+
+...
+
+[Data](articles/4f17e102.json)
+
+---
+
 ### Woman arrested for assaulting a police officer
 
 *2024-01-29 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192706) · `si`
@@ -759,6 +865,30 @@ The woman was produced before the court and the Gandara police are conducting fu
 [Data](articles/4b7dcfdf.json)
 
 [Extended Data](ext_articles/4b7dcfdf.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 317.75/90 to the US dollar
+
+*2024-01-29 17:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-317-75-90-to-the-us-dollar-149018/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 317.75/90 to the US dollar on Monday, from 317.50/80 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 closed stable at 13.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 13.40/60 percent from 13.45/60 percent.
+
+A bond maturing on 15.03.2028 closed at 13.65/75 percent from 13.70/80 percent.
+
+A bond maturing on 15.07.2029 closed at 13.85/95 percent from 13.95/14.00 percent.
+
+A bond maturing on 15.05.2030 closed stable at 13.90/14.00 percent.
+
+A bond maturing on 01.07.2032 closed at 14.10/15 percent from 14.00/10 percent. (Colombo/Jan29/2024)
+
+◼️
+
+[Data](articles/15442ebb.json)
 
 ---
 
@@ -793,6 +923,22 @@ During the event, a youth from Mullaitivu had taken a youth to the place where t
 [Data](articles/0d961f33.json)
 
 [Extended Data](ext_articles/0d961f33.ext.json)
+
+---
+
+### Sri Lanka former presidents CBK, Sirisena to back incumbent, claims AKD
+
+*2024-01-29 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-former-presidents-cbk-sirisena-to-back-incumbent-claims-akd-149008/) · `en`
+
+ECONOMYNEXT — Former presidents Chandrika Bandaranaike Kumaratunga and Maithripala Sirisena will express their support for incumbent President Ranil Wickremesinghe in the coming days, National People’s Power (NPP) leader Anura Kumara Dissanayake claimed.
+
+Speaking at a rally in Kalutara on Sunday January 28, Dissanayake suggested that establishment politicians who are nervous about the NPP’s rising popularity will set aside their perceived differences to defeat what he called the “progressive people’s movement” that will propel the NPP to victory at the polls.
+
+Dissanayake, who leads both the NPP and the Marxist-Leninist Janatha Vimukthi Peramuna (JVP) that effectively controls the NPP, said the leftist alliance has become the focal point of political debates and discussions on television.
+
+...
+
+[Data](articles/961c85af.json)
 
 ---
 
@@ -840,6 +986,24 @@ This latest arrest brings the total number of individuals detained in connection
 
 ---
 
+### Sri Lanka’s NPP on 39 pct of all adults, ahead of SJB, SLPP in December: poll
+
+*2024-01-29 16:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-on-39-pct-of-all-adults-ahead-of-sjb-slpp-in-december-poll-148978/) · `en`
+
+ECONOMYNEXT — Sri Lanka’s leftist National People’s Power (NPP) has maintained a lead over other political parties in December, a survey has found.
+
+According to a general election voting intention poll among Sri Lankan adults carried out by the Institute for Health Policy (IHP) for December 2023, the NPP was ahead of the main opposition Samagi Jana Balawegaya (SJB), the president’s United National Party (UNP) and the ruling Sri Lanka Podujana Peramuna (SLPP).
+
+Support for the SJB was at 27 percent in December while support for the SLPP was at 10 percent that month. Support for President Ranil Wickremesinghe’s UNP was at 6 percent.  The Ilankai Thamil Arasu Kachchi (ITAK), the main constituent party of the opposition Tamil National Alliance (TNA) and the Sri Lanka Muslim Congress (SLMC) enjoyed 3 percent each.
+
+The December estimates are provisional and are associated with a margin of error of 2.0–3.5 percent for the four leading parties.
+
+...
+
+[Data](articles/5ad28e0b.json)
+
+---
+
 ### Sri Lankan fishermen captured by Somali pirates rescued
 
 *2024-01-29 16:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-fishermen-captured-by-Somali-pirates-rescued/108-275919) · `en`
@@ -873,6 +1037,28 @@ The fishing boat, which joined his virgin trip on the 12th, was seized by Somali
 [Data](articles/68ec48ed.json)
 
 [Extended Data](ext_articles/68ec48ed.ext.json)
+
+---
+
+### Sri Lanka stocks close down, Dialog sees some interest
+
+*2024-01-29 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-dialog-sees-some-interest-148982/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed down again on Monday, data on its site showed. The market has been mostly down since the beginning of this year.
+
+The All Share Price Index was down 0.37 percent, or 38.44 points, at 10,297.
+
+The S&P SL20 index was also down 0.54 percent, or 15.71 points, at 2,913.
+
+Turnover was low at 590 million. Trading in John Keells Holdings Plc contributed the most (138mn) to the day’s turnover, and the share closed flat at 181.50.
+
+Other companies that saw buying interest were Dialog Axiata Plc (up at 9.00), The Lanka Hospitals Corporation Plc (up at 124.00) and JKH-owned Ceylon Cold Stores Plc (up at 42.00).
+
+The banks industry and diversified financials attracted little to no interest.
+
+◼️
+
+[Data](articles/8969707d.json)
 
 ---
 
@@ -954,6 +1140,24 @@ Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
 
 ---
 
+### Sri Lanka exports down 9.54-pct in 2023, rupee appreciates
+
+*2024-01-29 16:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-exports-down-9-54-pct-in-2023-rupee-appreciates-148979/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s merchandise exports fell 9.54 percent to 11,856 million US dollars in 2023, with December exports falling 11.5 percent, data from the state Export Development Board showed in a year that the rupee appreciated amid better monetary policy.
+
+The rupee appreciated from 363 to the US dollar in December 2022 to 323 by December 2023.
+
+In December, when exports fell 11.25 percent from a year earlier to 947.5 million US dollars, the rupee appreciated from 329 to 323 to the US dollar.
+
+That exchange rate depreciation (the price of a US dollar measured in locally made paper) is determined by exports,  imports or the trade deficit and is not a monetary phenomenon linked to the producer of the bad money  – the central bank – is an idea dating back to classical mercantilism of the 17th century.
+
+...
+
+[Data](articles/feea0637.json)
+
+---
+
 ### Galle Face Closed for Independence Day Rehearsals
 
 *2024-01-29 16:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/galle-face-closed-for-independence-day-rehearsals/) · `en`
@@ -1013,6 +1217,26 @@ Accordingly, the fishing vessel is being taken to the capital of Seychelles, the
 [Data](articles/fbfcacc6.json)
 
 [Extended Data](ext_articles/fbfcacc6.ext.json)
+
+---
+
+### No more indirect taxes on the cards in Sri Lanka: state minister
+
+*2024-01-29 15:54:00* · [`economynextcom`](https://economynext.com/no-more-indirect-taxes-on-the-cards-in-sri-lanka-state-minister-148975/) · `en`
+
+ECONOMYNEXT — Sri Lanka has no intention of introducing new indirect taxes or increasing existing indirect taxes, State Minister of Finance Ranjith Siyambalapitiya said, disputing claims that prices are set to increase again.
+
+“We do not intend to introduce more indirect taxes going forward. I must be very clear about that. There is no plan to increase percentages of existing indirect taxes either,” Siyambalapitiya said speaking to journalists.
+
+The state minister said the government is looking to expand the direct tax base so as to increase state revenue and facilitate a reduction in indirect taxes and the burden they place on consumers.
+
+“If anyone says prices are increasing once again due to indirect taxes, I don’t see any truth in that,” he said.
+
+Siyambalapitiiya called the proposed wealth tax, to be introduced in 2025, “very progressive”.
+
+...
+
+[Data](articles/6a36b498.json)
 
 ---
 
@@ -1369,6 +1593,24 @@ This year's awards winning awards winning awards winning "Rocky Or Kamani Prem '
 [Data](articles/855a2ee0.json)
 
 [Extended Data](ext_articles/855a2ee0.ext.json)
+
+---
+
+### Sri Lanka delegation in China discuss investment opportunities, export of water
+
+*2024-01-29 14:26:00* · [`economynextcom`](https://economynext.com/sri-lanka-delegation-in-china-discuss-investment-opportunities-export-of-water-148968/) · `en`
+
+ECONOMYNEXT – A Sri Lankan delegation in China has met with Chinese businessmen to discuss ‘environmentally friendly investment programs’ in Sri Lanka.
+
+Minister of State for Sports and Youth Affairs Rohana Dissanayake visited China recently for a Sri Lanka-China trade investment program, the Department of Government Information said in a statement.
+
+Possibilities discussed were “the importation of electric cars, electric motorcycles and three-wheelers, light lorries based on the business environment for the purpose of government employees, or investments in starting factories for production in Sri Lanka,” the statement read.
+
+The introduction of modern machinery and farming equipment was also discussed, as cutting down production cost and increasing harvests was a problem for Sri Lankan farmers.
+
+...
+
+[Data](articles/2a9659ea.json)
 
 ---
 
@@ -1813,251 +2055,5 @@ The Prime Minister is to arrive in the country at the invitation of President Ra
 [Data](articles/4d157afa.json)
 
 [Extended Data](ext_articles/4d157afa.ext.json)
-
----
-
-### Lohan Ratwatta
-
-*2024-01-29 12:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175034) · `ta`
-
-Lohan Ratwatte President Ranil Wickremesinghe was sworn in as the Minister of State for Plantation Industries and Mahaweli Development.
-
-The Presidential Media Division said that he was sworn in at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/5b901c4b.json)
-
-[Extended Data](ext_articles/5b901c4b.ext.json)
-
----
-
-### Action to rescue Sri Lankans abducted by Somali pirates
-
-*2024-01-29 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175058) · `ta`
-
-The High Commissioner of Sri Lanka in Kenya has taken steps to hold talks with the leader of the Somali Navy to ensure that Sri Lankans were safely released by Somali pirates.
-
-I am taking steps to secure information about Sri Lankans abducted by Somali pirates.
-
-Somali Naval Commander Admiral Abdiversame, along with my colleague in Ethiopia, is actively engaged in close cooperation with Osman.
-
-The Somali Naval Leader has announced the efforts of the European Union Naval Joint Center (EU Navy JOC) to address the situation and ensure the return of the abducted Sri Lankans safely.
-
-Joint efforts between Sri Lankan and Somali officials demonstrate the commitment to maritime security and the safety of individuals affected by pirates.
-
-The High Commissioner of Sri Lanka in Kenya Gananathan added that the Sri Lankan and Somalian governments are committed to resolving the issue and ensuring the well -being of the abducted Sri Lankans.
-
-◼️
-
-[Data](articles/67f9a43c.json)
-
-[Extended Data](ext_articles/67f9a43c.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-01-29 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175057) · `ta`
-
-The US dollar purchasing price was 312.6759 and the sales price were 322.7716 based on the Central Bank's currency exchange rate on Monday (January 29).
-
-◼️
-
-[Data](articles/4e0a67df.json)
-
-[Extended Data](ext_articles/4e0a67df.ext.json)
-
----
-
-### Shoes extend the time of gifts
-
-*2024-01-29 12:42:12* · [`adalk`](https://www.ada.lk/breaking_news/පාවහන්-තිළිණ-පත්වල-කාලය-දිගු-කරයි/11-407775) · `si`
-
-The Ministry of Education has extended the validity period of the school shoes that the government has given the government for school children.
-
-Accordingly, 2024. 02. Validity period from the previous year 2024. 02. The Ministry of Education states that the Ministry of Education will inform the researcher supplier and the public that has been extended until 17 days.
-
-◼️
-
-[Data](articles/01831a6f.json)
-
-[Extended Data](ext_articles/01831a6f.ext.json)
-
----
-
-### If the federation wants to unite again, the TNA can give up the house symbol - Siddharthan's idea
-
-*2024-01-29 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175046) · `ta`
-
-Plot leader and parliamentarian Dharmalingam Siddharthan said that if the TNA is united again, it should be a registered party, and the Tamil National Alliance (TNA) house symbol can be complied with the TNA.
-
-He said that the Sri Lankan Tamil state party was broken into two or three split and that they could only look at the unity of the federation after they were united.
-
-He was speaking to the media on Sunday (28) at his residence in Kandarodai.
-
-He added that the leader of the Tamil state party has been elected. The new leader has not yet taken office. There is one problem. Its national conference has been postponed.
-
-The most important thing is that the Tamil parties are broken in two. It does not know if it is second and three but broken.
-
-Another committee opposes the decision taken by the leader of the TNA. So the Tamil state party should unite. Only then will we look at the unity of other Tamil national parties.
-
-...
-
-[Data](articles/27608373.json)
-
-[Extended Data](ext_articles/27608373.ext.json)
-
----
-
-### Where the father's sexual abuse is unbearable 13 The daughter of the man came to the police
-
-*2024-01-29 12:33:50* · [`adalk`](https://www.ada.lk/breaking_news/පියාගේ-ලිංගික-අතවර-ඉවසිය-නොහැකි-තැන-13-හැවැරිදි-දියණිය-තනිවම-පොලීසියට-ඇවිත්/11-407774) · `si`
-
-The 13-year-old girl who was unable to take a complaint with his father for more than two years, a 13-year-old girl was arrested for his arrest yesterday (28) after a complaint.
-
-The arrested persons have been arrested by a 34 year old mason.
-
-The girl is alive in home with his mother, father and his brother, from time to time, from time to time, the girl was sexually abusing him from time to time, from time to time to time, when none of his stay at homeThe complaint states:
-
-After the girl who continued to tolerate the father's mother, he was taken to her father's mother and was later taken to her father's home and later returned to her mother, she came to the police to smugs to her mother..
-
-The suspect was due to be produced in court and the girl was to be directed to a medical examination.
-
-The Child and Women's Bureau of Nochchiyagama Police are conducting further investigations.
-
-◼️
-
-[Data](articles/68d4b686.json)
-
-[Extended Data](ext_articles/68d4b686.ext.json)
-
----
-
-### Prime Minister of Thailand visits Sri Lanka
-
-*2024-01-29 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192696) · `si`
-
-The Prime Minister of Thailand is due to arrive in Sri Lanka on a two-day official visit.
-
-The External Affairs Ministry announced the invitation of President Ranil Wickremesinghe's invitation to visit the Sri Lanka from 03 to 4 February.
-
-He arrives in Sri Lanka as an invite of the 76th Sri Lanka Independence Day celebrations.
-
-He will also participate in a official discussion with President Ranil Wickremesinghe with President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/f84776ce.json)
-
-[Extended Data](ext_articles/f84776ce.ext.json)
-
----
-
-### Engkk Keheliya's cabinet leaflets begins on drug fraud
-
-*2024-01-29 12:28:01* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-වංචාව-සම්බන්ධයෙන්-කෙහෙළියගේ-කැබිනට්-පත්‍රිකා-ගැන-විර්ශන-අරඹයි/11-407773) · `si`
-
-Investigations have commenced in relation to the Body of Health Minister Keheliya Rambukwella, Minister of Health, Keheliya Rambukwella, who was involved in the House of Health Minister Keheliya Rambukwella under the Indian Cabinet Scheme.
-
-The CID is generally used in the Secretariat of Keheliya Rambukwella and the other cabinet memorandum taken into the secretary transferator.
-
-CID sources said that the Criminal Police Abhorrently in the minister's Office of the Minister of Health, Keheliya Rambukwella, October 25, 2022 and December 05, 2022, there is no such honote.
-
-The complaint was received by the Deputy Solicitor Magistrate Lokinant Lakhatagama, a request to the CID, has been handed over to the Cabinet Memorandum of the complaint at the court when he was summoned in court.The Cabinet Sandesha is handed over to the CID.
-
-The CID has commenced investigations into the matter due to revealing that there is no such architecture in the cabinet memoirs.
-
-◼️
-
-[Data](articles/694f0192.json)
-
-[Extended Data](ext_articles/694f0192.ext.json)
-
----
-
-### Former Prime Minister of New Zealand
-
-*2024-01-29 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175054) · `ta`
-
-Australia has appealed to Australia to abandon the financial assistance for the UN for Palestinian refugees.
-
-Nine countries, including Australia, have suspended financial assistance for the organization following allegations that members of the UNRTAUA, along with Hamas, have launched attacks on Israel.
-
-Former New Zealand's former Prime Minister Helen Clarke said the move could cause disaster.
-
-He said the UN organization for Palestinian refugees as Gaza's largest service provider could cause disaster due to financial ceasefire for the organization.
-
-The United Nations has said that there are 13,000 people working in the UN but have been charged with 13 people, but the resolution of the UN's assistance is completely steadfast, New Zealand's former Prime Minister said.
-
-He also pointed out that nine of the accused have been sacked and one person has died.
-
-...
-
-[Data](articles/87ab4e07.json)
-
-[Extended Data](ext_articles/87ab4e07.ext.json)
-
----
-
-### Thai Prime Minister to visit Sri Lanka to sign FTA
-
-*2024-01-29 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96820/thai-prime-minister-to-visit-sri-lanka-to-sign-fta) · `en`
-
-The Prime Minister of Thailand, Srettha Thavisin will undertake a two-day official visit to Sri Lanka from 03 – 04 February 2024 at the invitation of President Ranil Wickremesinghe, the Ministry of Foreign Affairs said.
-
-The Thai Prime Minister will participate in the ceremony to mark the 76th Anniversary of the Independence of Sri Lanka as Guest of Honour.
-
-During the visit, the Thai Prime Minister is scheduled to have official discussions with President Wickremesinghe, and witness the signing of the historic Sri Lanka – Thailand Free Trade Agreement (SLTFTA), the Ministry of Foreign Affairs added.
-
-The Free Trade Agreement will be signed by Phumtham Wechayachai, Deputy Prime Minister and Minister of Commerce of Thailand and Nalin Fernando, Minister of Trade, Commerce and Food Security of Sri Lanka. The SLTFTA is expected to boost trade and investment ties between the two countries and promote deeper integration with ASEAN economies, the statement said.
-
-...
-
-[Data](articles/6d0a4f5e.json)
-
-[Extended Data](ext_articles/6d0a4f5e.ext.json)
-
----
-
-### Dr. Samitha Explains the cause of accidents on high -speed streets!
-
-*2024-01-29 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175050) · `ta`
-
-Dr. Samitha, head of the Non -Infectious Division of the Health Ministry, said that accidents are on the rise on high -speed roads due to the high speed driving over time.
-
-He also pointed out that the accident was the cause of the accident.
-
-We have observed that traffic accidents on high -speed streets have increased relatively compared to 2023.
-
-Therefore, everyone should pay attention to avoid accidents on high -speed streets, a specialist doctor's doctor Samitha said.
-
-◼️
-
-[Data](articles/55f2c90f.json)
-
-[Extended Data](ext_articles/55f2c90f.ext.json)
-
----
-
-### The Japanese plane is watching
-
-*2024-01-29 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192695) · `si`
-
-The Japanese Space Exploration Agency says that the Japanese plane that was detected to the moon was re-opened due to an error in the power supply.
-
-The agency announced that communication connections were resumed yesterday (28).
-
-It states that its solar cells have begun again.
-
-The solar panels were interrupted by the power supply of the plane (due to the solar cells).
-
-Previously, US, Soviet Russia, China and India landed a plane on the Moon.
-
-◼️
-
-[Data](articles/0cdaee26.json)
-
-[Extended Data](ext_articles/0cdaee26.ext.json)
 
 ---

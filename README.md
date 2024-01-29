@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 16:32:37**
+As of **2024-01-29 16:48:13**
 
 ## Newspaper Stats
 
-*Scraped **3,303** Articles*
+*Scraped **3,307** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,84 @@ bbccomsinhala | 55
 dbsjeyarajcom | 125
 economynextcom | 177
 islandlk | 185
-newsfirstlk | 199
+newsfirstlk | 200
 dailyftlk | 223
 adalk | 302
 adaderanasinhalalk | 350
-virakesarilk | 360
+virakesarilk | 362
 tamilmirrorlk | 414
-adaderanalk | 425
+adaderanalk | 426
 dailymirrorlk | 445
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,296 (99.8%) of 3,303 articles have been extended.
+3,303 (99.9%) of 3,307 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### கிழக்குப் பல்கலையில் கொக்கட்டிச்சோலை படுகொலை நினைவேந்தல்!
+
+*2024-01-29 16:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175077) · `ta`
+
+மட்டக்களப்பு கொக்கட்டிச்சோலையில் ஶ்ரீ லங்கா இராணுவத்தினால் 28.01.1987 ஆம் ஆண்டு சுட்டு படுகொலை செய்யப்பட்ட 83 அப்பாவி தமிழ் உறவுகளின் நினைவேந்தல் கிழக்குப் பல்கலைக்கழக தமிழ் மாணவர்களால்  பொங்கு தமிழ்த் தூபியில் முன்பாக ஈகைச்சுடரேற்றி முன்னெடுக்கப்பட்டது.
+
+கிழக்குப் பல்கலைகழகத்தின் அனைத்துப் பீட தமிழ் மாணவர்களினால் குறித்த நினைவேந்தல் முன்னெடுக்கப்பட்டமை குறிப்பிடத்தக்கது
+
+◼️
+
+[Data](articles/2ff115dd.json)
+
+---
+
+### சோமாலியா கொள்ளையர்களிடமிருந்து மீட்கப்பட்ட லோரன்சோ புத்தா!
+
+*2024-01-29 16:13:00* · [`virakesarilk`](https://www.virakesari.lk/article/175076) · `ta`
+
+இலங்கை மீன்பிடிப் படகான லோரன்சோ புத்தா "சீஷெல்ஸ் கடலோர காவல்படையினரால் மீட்கப்பட்டுள்ளதாக கடற்றொழில் திணைக்களம் தெரிவித்துள்ளது. இதனை சீஷெல்ஸ் தூதரகம் உறுதிப்படுத்தியதாக திணைக்களம் குறிப்பிட்டுள்ளது.
+
+கடந்த 12 ஆம் திகதி தனது கன்னிப் பயணத்தில் இணைந்த இந்த மீன்பிடிப் படகு கடந்த சனிக்கிழமை 6 மீனவர்களுடன் சோமாலிய கடற்கொள்ளையர்களால் கைப்பற்றப்பட்டிருந்தது.
+
+◼️
+
+[Data](articles/68ec48ed.json)
+
+---
+
+### Sri Lankan fishing trawler and crew hijacked by pirates rescued
+
+*2024-01-29 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96826/sri-lankan-fishing-trawler-and-crew-hijacked-by-pirates-rescued) · `en`
+
+The Seychelles Coast Guard (SCG) has rescued the Sri Lankan fishing trawler, and its 6 crew members, which had been hijacked by sea pirates in the Arabian Sea, according to the Director General of the Fisheries Department.
+
+◼️
+
+[Data](articles/7bbc05dc.json)
+
+---
+
+### Galle Face Closed for Independence Day Rehearsals
+
+*2024-01-29 16:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/galle-face-closed-for-independence-day-rehearsals/) · `en`
+
+COLOMBO (News 1st): A special traffic plan will be implemented around Galle Face from tomorrow to February 02 due to the Independence Day rehearsals.
+
+The relevant traffic plan will be in effect from 6 am to 8.30 am and from 11 am to 12.30 pm
+
+The road from Colpetty to Galle Face Roundabout and the Raod from Ceramic Junction to Galle Face Roundabout will be closed during the relevant periods.
+
+In addition, a special traffic plan will be in place in Colombo for Independence Day on the 4th
+
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
+
+◼️
+
+[Data](articles/5a43823b.json)
+
+---
 
 ### Notice to everyone in Colombo
 
@@ -48,35 +108,43 @@ The traffic plan is to be implemented on 6th to 4 pm and the free celebration of
 
 ---
 
-### சாந்தனின் உடல்நிலையை கருத்தில் கொண்டு அவரை குடும்பத்தினருடன் இணைப்பதற்கான நடவடிக்கைகளை இந்திய இலங்கை அரசாங்கங்கள் எடுக்கவேண்டும் - தமிழ்தேசிய மக்கள் முன்னணி
+### Sri Lankan governments should take steps to connect with his family in view of Shantan's health - Tamil National People's Front
 
 *2024-01-29 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175075) · `ta`
 
-சாந்தனின் உடல் நிலையை கருத்தில்கொண்டும் இந்த அவசர சூழ்நிலையை கருத்தில் கொண்டும் இந்திய அரசும் மத்திய அரசும் தமிழக அரசும் இலங்கை அரசும் உடனடியாக நடவடிக்கைகளை எடுக்கவேண்டும் என தமிழ்தேசிய மக்கள் முன்னணி வேண்டுகோள் விடுத்துள்ளது.
+The Tamil National Alliance (TNA) has requested that the Indian government, the central government, the Tamil Nadu government and the Sri Lankan government take immediate steps to consider Santhan's physical condition.
 
-முன்னாள் இந்திய பிரதமர் ராஜீவ்காந்தி கொலை வழக்கில் நீண்டகாலமாக சிறைத்தண்டனை அனுபவித்தவர்கள் இந்திய உச்சநீதிமன்றத்தால் விடுதலை செய்யப்பட்டபோதும் அவர்கள் சிறப்பு முகாமில் தடுத்துவைக்கப்பட்டு சிறைக்கைதிகள் போல தமது வாழ்வை அனுபவித்து வருகின்றார்கள்.இவர்களில் இலங்கையை சேர்ந்தவர்கள் தாங்கள் இலங்கைக்கு சென்று குடும்பத்தவர்களுடன் இணைந்து வாழகோரிக்கை விடுத்துள்ள போதிலும் இன்றுவரை அவர்களின் கோரிக்கைகள் நிறைவேற்றப்படவில்லை.
+Those who have long been jailed in the murder of former Indian Prime Minister Rajiv Gandhi have been released by the Supreme Court of India and are being detained in a special camp and enjoying their lives like prisoners.
 
-இந்த நிலையில் சாந்தன் குடும்பத்தினரின் வேண்டுகோளிற்கு இணங்க தமிழ்தேசிய மக்கள் முன்னணி மூன்றாம் திகதி இந்திய துணைத்தூதுவரை சந்தித்த இந்திய உயர்நீதிமன்றத்தினால் விடுதலை செய்யப்பட்டவர்கள் தங்கள் குடும்பத்துடன் இணைந்து வாழவழிசெய்யவேண்டும் என வேண்டுகோள் விடுத்திருந்தது.
+At the request of the Shantan family, the Tamil National People's Front (TNA), which met with the Indian Vice President on the third day, appealed to the Indian High Court to live with their families.
 
-...
+Shantan's health has deteriorated due to illness.
+
+Considering Santhan's physical condition, the Government of India, the Central Government and the Government of Tamil Nadu and the Government of Sri Lanka should take immediate steps to restore him from dangerous conditions and bring them to live with the families of Sri Lanka.We make the request.
+
+◼️
 
 [Data](articles/c1f78e71.json)
 
+[Extended Data](ext_articles/c1f78e71.ext.json)
+
 ---
 
-### நாளை கொழும்பில் எதிர்ப்பு பேரணி
+### Opposition rally in Colombo tomorrow
 
 *2024-01-29 15:52:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-கொழும்பில்-எதிர்ப்பு-பேரணி/175-332284) · `ta`
 
-பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி, நாளை (30) கொழும்பில் மாபெரும் கண்டன ஆரப்பாட்ட பேரணியை நடத்தவுள்ளதாக அறிவித்துள்ளது.
+The main opposition party, the United People's Power, has announced that it will hold a massive protest rally in Colombo tomorrow.
 
-வாழ்க்கைச் செலவு அதிகரிப்பு உட்பட பல பிரச்சினைகளை முன்னிறுத்தி அரசாங்கத்துக்கு எதிராக இந்த போராட்டம் முன்னெக்கப்படுவதாக பாராளுமன்ற உறுப்பினர்  எஸ்.எம் மரிக்கார் தெரிவித்துள்ளார்,
+Parliamentarian SM Marikar said that the struggle is being raised against the government on many issues, including the increase in cost of living.
 
-போராட்டம் மற்றும் பொதுக்கூட்டம் நடைபெறும் இடம் பின்னர் அறிவிக்கப்படும் என்றும் அவர் கூறினார்.
+He said the place where the protest and a public meeting would be held will be announced later.
 
 ◼️
 
 [Data](articles/a97930db.json)
+
+[Extended Data](ext_articles/a97930db.ext.json)
 
 ---
 
@@ -104,23 +172,27 @@ Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th 
 
 [Data](articles/2c299b04.json)
 
+[Extended Data](ext_articles/2c299b04.ext.json)
+
 ---
 
-### சஜித்துடன் இணைந்தார் ஜெனரல் தயா ரத்நாயக்க
+### General Daya Ratnayake joined Sajith
 
 *2024-01-29 15:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்தார்-ஜெனரல்-தயா-ரத்நாயக்க/175-332282) · `ta`
 
-ஓய்வுபெற்ற இலங்கை இராணுவ ஜெனரல் தயா ரத்நாயக்க, பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தியுடன் இணைந்துள்ளார்.
+Retired Sri Lankan Army General Daya Ratnayake has joined the main opposition party, United People's Power.
 
-இன்று ( 29) எதிர்க்கட்சி தலைவரான சஜித் பிரேமதாசவை சந்தித்ததன் பின்னர் ஓய்வுபெற்ற ஜெனரல் தனது ஆதரவை வழங்குவதாக அறிவித்துள்ளார்.
+The retired General has announced his support after meeting the opposition leader Sajith Premadasa today (29).
 
-இந்த சந்திப்பின் போது, சஜித் பிரேமதாச, ஐக்கிய மக்கள் சக்தியின் பொது கொள்கை தொடர்பான சிரேஷ்ட ஆலோசகராக தயா ரத்நாயக்கவை நியமித்தார்.
+During the meeting, Sajith Premadasa appointed Daya Ratnayake as senior adviser to the United People's Power Policy.
 
-முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷவின் அரசாங்கத்தின் கீழ், இலங்கை துறைமுக அதிகார சபையின் தலைவராகவும் கைத்தொழில் அமைச்சின் செயலாளராகவும் தயா ரத்நாயக்க பணியாற்றினார்.
+Under the government of former President Gotabhaya Rajapakse, Daya Ratnayake served as the Chairman of the Sri Lanka Ports Authority and the Secretary to the Ministry of Industry.
 
 ◼️
 
 [Data](articles/70702cdb.json)
+
+[Extended Data](ext_articles/70702cdb.ext.json)
 
 ---
 
@@ -144,35 +216,39 @@ The school administration, who has welcomed this function of the Eastern Governo
 
 ---
 
-### சிசிடிவியால் சிக்கிய 610 சாரதிகள்
+### 610 drivers caught by CCTV
 
 *2024-01-29 15:43:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிசிடிவியால்-சிக்கிய-610-சாரதிகள்/175-332280) · `ta`
 
-பொலிஸாரால் அறிமுகப்படுத்தப்பட்ட சிசிடிவி கண்காணிப்பு திட்டத்தின் கீழ் கடந்த வாரத்தில் போக்குவரத்து விதிமீறல்களுக்காக கிட்டத்தட்ட 610 சாரதிகள் இனங்காணப்பட்டுள்ளனர்.
+Over 610 drivers have been identified for traffic violations last week under the CCTV surveillance program introduced by the police.
 
-வீதி விதிகளை மீறும் வாகன சாரதிகளைக் கண்டறியும் CCTV வேலைத்திட்டம் பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தலைமையில் கடந்த திங்கட்கிழமை ( 22) கொழும்பில் ஆரம்பிக்கப்பட்டது.
+The CCTV program to detect motorists who violate road rules was launched in Colombo last Monday (22) under the patronage of Inspector General of Police Deshabandu Tennakoon.
 
-நேற்றிரவு முடிவடைந்த ஒரு வாரத்துக்குள், வீதி விதிகளை மீறிய 610 வாகன சராதிகளை பொலிஸார் அறிவுரை கூறி விடுவித்துள்ளனர்.
+Within a week of ending last night, police have advised 610 vehicles violating the rules of the road.
 
-எவ்வாறாயினும், 2024 பெப்ரவரி 01 ஆம் திகதி  முதல் போக்குவரத்து குற்றங்களுக்கு அபராதம் விதிக்கப்படும் என பொலிஸார் தெரிவித்தனர்.
+However, traffic crimes will be fined from 1 February 2024, police said.
 
 ◼️
 
 [Data](articles/b6e45bf0.json)
 
+[Extended Data](ext_articles/b6e45bf0.ext.json)
+
 ---
 
-### 2023 இல் ஏற்றுமதி வருவாய் 14.94 பில்லியன் டொலர்
+### Export revenue in 2023 $ 14.94 billion
 
 *2024-01-29 15:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2023-இல்-ஏற்றுமதி-வருவாய்-14-94-பில்லியன்-டொலர்/175-332279) · `ta`
 
-கடந்த வருடம் நாட்டின் மொத்த ஏற்றுமதி வருமானம் 14.94 பில்லியன் அமெரிக்க டொலர் என, ஏற்றுமதி அபிவிருத்திச் சபை தெரிவித்துள்ளது.
+Last year, the country's total exports income was US $ 14.94 billion, according to the Export Development Board.
 
-அத்துடன்ன, 2023 டிசெம்பர் மாதத்தில் இலங்கையின் பொருட்கள் ஏற்றுமதி 947.5 மில்லியன் அமெரிக்க டொலர் ஆகும்.
+In December 2023, Sri Lanka's exports were $ 947.5 million.
 
 ◼️
 
 [Data](articles/1c4970a4.json)
+
+[Extended Data](ext_articles/1c4970a4.ext.json)
 
 ---
 
@@ -559,6 +635,8 @@ Former MP Hirunika Premachandra who also participated in the briefing said the p
 ◼️
 
 [Data](articles/6c332996.json)
+
+[Extended Data](ext_articles/6c332996.ext.json)
 
 ---
 
@@ -1975,77 +2053,5 @@ According to Mr. Kananathan, the Somali Navy Chief has informed the European Uni
 [Data](articles/f244f9c2.json)
 
 [Extended Data](ext_articles/f244f9c2.ext.json)
-
----
-
-### Valued motorcycle rescue stolen in Samanthurai; arrested
-
-*2024-01-29 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175026) · `ta`
-
-A valuable motorcycle has been recovered and a man has been arrested.
-
-The bicycle owner has lodged a complaint at the police station on the 16th of January, the Bajaj Pulsar NS 200, worth more than 8 lakhs of a motorcycle in the area of the Samanthurai police division.
-
-Subsequently, under the guidance of the police officer KDS Jayalath, the police station, under the guidance of the police station, K. Satheeskar, a group of police, K. Satheeskar, rescued a motorbike from Akkaraipattu area on Sunday (28)..
-
-◼️
-
-[Data](articles/7321f8f2.json)
-
-[Extended Data](ext_articles/7321f8f2.ext.json)
-
----
-
-### Six students at Sabaragamuwa University arrested for ragging female student
-
-*2024-01-29 09:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Six-students-at-Sabaragamuwa-University-arrested-for-ragging-female-student/108-275877) · `en`
-
-Balangoda, Jan 29 (Daily Mirror) - Six fourth year students of the Sabaragamuwa University have been arrested for ragging a female student.
-
-The Samanalaweva Police conducted an investigation following a complaint received on hotline 1997 and arrested the suspects.
-
-Police said the arrested students are from the Faculty of of Social Sciences and Languages of the Sabaragamuwa University.
-
-They were arrested yesterday (28) after being summoned to the Samanalawewa Police Station.
-
-The arrested students, aged 23, 24 and 25 years are residents of Morawaka, Rukgahawila, Aluhtarama, Imaduwa and Kithalawa and they will be produced before courts today.
-
-◼️
-
-[Data](articles/16d39956.json)
-
-[Extended Data](ext_articles/16d39956.ext.json)
-
----
-
-### ‘Yukthiya’ operation leads to arrest of 836 more suspects
-
-*2024-01-29 09:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96813/yukthiya-operation-leads-to-arrest-of-836-more-suspects) · `en`
-
-A total of 836 more suspects have been arrested by Sri Lanka’s police and security forces personnel within a 24-hour window ending at 12.30 a.m. today (Jan. 29) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Meanwhile, detention orders have been secured against six of the arrested individuals, while another person has been referred for rehabilitation, the Ministry of Public Security said.
-
-According to the Ministry of Public Security, the narcotics taken into custody during this period include 142 grams of heroin, 95 grams of crystal methamphetamine (Ice) and 1,650 narcotic pills.
-
-◼️
-
-[Data](articles/a3718349.json)
-
-[Extended Data](ext_articles/a3718349.ext.json)
-
----
-
-### Justice is boxing
-
-*2024-01-29 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192686) · `si`
-
-836 suspects have been arrested in the 24-hour operations carried out by the Budget Special Drug Security today (29).
-
-◼️
-
-[Data](articles/948dee8f.json)
-
-[Extended Data](ext_articles/948dee8f.ext.json)
 
 ---

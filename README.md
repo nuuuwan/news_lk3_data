@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 07:51:53**
+As of **2024-01-29 08:02:21**
 
 ## Newspaper Stats
 
-*Scraped **3,175** Articles*
+*Scraped **3,176** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ islandlk | 185
 dailyftlk | 223
 adalk | 288
 adaderanasinhalalk | 326
-virakesarilk | 332
+virakesarilk | 333
 tamilmirrorlk | 398
 adaderanalk | 411
 dailymirrorlk | 433
@@ -26,11 +26,33 @@ dailymirrorlk | 433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,175 (100.0%) of 3,175 articles have been extended.
+3,175 (100.0%) of 3,176 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### மத்திய கிழக்கில் அமெரிக்க  இராணுவதளம் மீது ஆளில்லா விமான தாக்குதல் - மூனறு படையினர் பலி
+
+*2024-01-29 07:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175023) · `ta`
+
+சிரியா ஜோர்தான் எல்லையிலுள்ள அமெரிக்க இராணுவதளத்தின் மீது மேற்கொள்ளப்பட்ட ஆளில்லா விமானதாக்குதலில் மூன்நு அமெரிக்க படையினர் கொல்லப்பட்டுள்ளனர் பலர் காயமடைந்துள்ளனர்.
+
+ஒக்டோபர் ஏழாம் திகதி ஹமாஸ் மேற்கொண்ட தாக்குதலின் பின்னர் பிராந்தியத்தில் அமெரிக்க படையினர் கொல்லப்படுவது இதுவே முதல்தடவை
+
+ஈரான் ஆதரவு குழுக்களே இந்த தாக்குதலை மேற்கொண்டுள்ளன என தெரிவித்துள்ள அமெரிக்க ஜனாதிபதி நாங்க்ள பதிலடிகொடுப்போம் என தெரிவித்துள்ளார்.
+
+இந்த தாக்குதலிற்கு காரணமானவர்களை நாங்கள் தகுந்த தருணத்தில் உரிய விதத்தில் பொறுப்புக்கூறச்செய்வோம் என பைடன் தெரிவித்துள்ளார்.
+
+நேற்றிரவு நாங்கள் மத்தியகிழக்கில் மிகவும் சவாலான சூழ்நிலையை எதிர்கொண்டோம் மூன்று துணிச்சல் மிக்க ஆன்மாக்களை இழந்துள்ளோம் எனஅவர் தெரிவித்துள்ளார்.
+
+கொல்லப்பட்ட அமெரிக்க படையினரின் பெயர் விபரங்களை இன்னமும் வெளியிடாத  அதிகாரிகள் குடும்பத்தவர்களிற்கு தகவல்களை வழங்கும் நடவடிக்கைகளில் ஈடுபட்டுள்ளனர்.
+
+...
+
+[Data](articles/0714f1c5.json)
+
+---
 
 ### The box that went to the shoot was derailed
 
@@ -57,6 +79,14 @@ The department said that the train services on the hill country have been blocke
 *2024-01-29 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96811/six-students-of-sabaragamuwa-uni-arrested-for-ragging-female-student) · `en`
 
 Six male students of the Sabaragamuwa University have been arrested by Samanalawewa Police for ragging a female student, the police media unit said.
+
+The suspects have been arrested following investigations carried out by Samanalawewa Police based on a complaint received by the ‘1997’ hotline on January 14.
+
+The arrested suspects are reportedly a group of fourth year students of the university’s Faculty of Social Sciences and Languages.
+
+They had been arrested yesterday (28) after arriving at the Samanalawewa Police Station.
+
+The arrestees are students aged 23, 24 and 25 while they are residents of Morawaka, Rukgahawila, Aluttarama, Imaduwa and Kithalawa areas.
 
 ◼️
 
@@ -1903,25 +1933,5 @@ The arrested Eros was produced before the Kahadagastikiliya Magistrate on Sunday
 [Data](articles/13eb2627.json)
 
 [Extended Data](ext_articles/13eb2627.ext.json)
-
----
-
-### Rs 500 crore fraud in pyramid;Basnayake, actress
-
-*2024-01-28 15:07:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமிட்டில்-ரூ-500-கோடி-மோசடி-பஸ்நாயக்க-நடிகைக்கு-விளக்கமறியல்/175-332228) · `ta`
-
-One person has been arrested by the network inquiry unit of the Criminal Investigation Department (CID) for allegedly defrauding Rs 500 crore in the money of deposits by the pyramid system in the name of Tradewin.
-
-The man who has been in hiding for the past three years has been arrested. The network's inquiry unit has announced that he was arrested while he was hiding in the Pilimathalawa area.
-
-The suspect has been a graduate teacher. Investigations have also been found that Basnayaka has worked as a major Vihar in the Southern Province.
-
-The arrested Eros was produced before the Kahadagastikiliya Magistrate on Sunday (28). The Magistrate Timuthu has ordered Kahadagastikiliya to be kept in detention until the 05th of this month.
-
-◼️
-
-[Data](articles/b5fc4d7b.json)
-
-[Extended Data](ext_articles/b5fc4d7b.ext.json)
 
 ---

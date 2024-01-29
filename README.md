@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 13:02:18**
+As of **2024-01-29 13:17:17**
 
 ## Newspaper Stats
 
-*Scraped **3,247** Articles*
+*Scraped **3,249** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,7 +13,7 @@ bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 177
 islandlk | 185
-newsfirstlk | 195
+newsfirstlk | 197
 dailyftlk | 223
 adalk | 291
 adaderanasinhalalk | 342
@@ -26,29 +26,33 @@ dailymirrorlk | 440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,245 (99.9%) of 3,247 articles have been extended.
+3,247 (99.9%) of 3,249 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### ஐநா அமைப்பிற்கான நிதி இடை நிறுத்தும் காசா மக்களிற்கு எதிரான கூட்டுத்தண்டனை - நியுசிலாந்தின் முன்னாள் பிரதமர்
+### Former Prime Minister of New Zealand
 
 *2024-01-29 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175054) · `ta`
 
-பாலஸ்தீன அகதிகளிற்கான ஐநாஅமைப்பிற்கான நிதிஉதவி இடைநிறுத்தத்தை அவுஸ்திரேலியா கைவிடவேண்டும் என்ற வேண்டுகோள்கள் வெளியாகியுள்ளன.
+Australia has appealed to Australia to abandon the financial assistance for the UN for Palestinian refugees.
 
-யுஎன்ஆர்டபில்யூஏ அமைப்பின் உறுப்பினர்கள் ஹமாசுடன் இணைந்து இஸ்ரேலிற்கு எதிராக தாக்குதல்களை மேற்கொண்டனர் என வெளியாகியுள்ள குற்றச்சாட்டுகளை தொடர்ந்து அவுஸ்திரேலியா உட்பட 9 நாடுகள் அந்த அமைப்பிற்கான நிதிஉதவியை இடைநிறுத்தியுள்ளன.
+Nine countries, including Australia, have suspended financial assistance for the organization following allegations that members of the UNRTAUA, along with Hamas, have launched attacks on Israel.
 
-இந்த நடவடிக்கையால் பேரழிவு ஏற்படலாம்  என நியுசிலாந்தின் முன்னாள் பிரதமர் ஹெலென் கிளார்க் தெரிவித்துள்ளார்.
+Former New Zealand's former Prime Minister Helen Clarke said the move could cause disaster.
 
-காசாவின் மிகப்பெரிய சேவை வழங்குநராக பாலஸ்தீனிய அகதிகளிற்கான ஐநா அமைப்பு காணப்படுவதால் அந்த அமைப்பிற்கான நிதி நிறுத்தம் காரணமாக பேரழிவு ஏற்படலாம் என அவர் தெரிவித்துள்ளார்.
+He said the UN organization for Palestinian refugees as Gaza's largest service provider could cause disaster due to financial ceasefire for the organization.
 
-ஐநா அமைப்பில் 13000 பேர் பணியாற்றுகின்றனர் ஆனால் 13 பேருக்கு எதிராகவே குற்றச்சாட்டுகள் முன்வைக்கப்பட்டுள்ளன என தெரிவித்துள்ள அவர் ஐநா அமைப்பிற்கான உதவியை நிறுத்தும் தீர்மானம் முற்றிலும் அளவுக்குமீறிய நடவடிக்கை எனவும் நியுசிலாந்தின் முன்னாள் பிரதமர் தெரிவித்துள்ளார்.
+The United Nations has said that there are 13,000 people working in the UN but have been charged with 13 people, but the resolution of the UN's assistance is completely steadfast, New Zealand's former Prime Minister said.
+
+He also pointed out that nine of the accused have been sacked and one person has died.
 
 ...
 
 [Data](articles/87ab4e07.json)
+
+[Extended Data](ext_articles/87ab4e07.ext.json)
 
 ---
 
@@ -72,21 +76,23 @@ The Free Trade Agreement will be signed by Phumtham Wechayachai, Deputy Prime Mi
 
 ---
 
-### அதிவேக வீதிகளில் விபத்துகள் அதிகரிப்பதற்கான காரணத்தை விளக்கும் வைத்தியர் சமிதா சிறிதுங்க!
+### Dr. Samitha Explains the cause of accidents on high -speed streets!
 
 *2024-01-29 12:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175050) · `ta`
 
-நேரத்தை மீதப்படுத்துவதனைக் கருத்தில் கொண்டு அதிவேகமாக வாகனம் செலுத்துவதால் அதிவேக வீதிகளில்  விபத்துக்கள் அதிகரித்து வருவதாக சுகாதார அமைச்சின் தொற்று அல்லாத பிரிவின் விபத்து தடுப்பு மற்றும் முகாமைத்துவ பிரிவின் தலைவர்  டாக்டர் சமிதா சிறிதுங்க தெரிவித்துள்ளார்.
+Dr. Samitha, head of the Non -Infectious Division of the Health Ministry, said that accidents are on the rise on high -speed roads due to the high speed driving over time.
 
-மேலும் பாதுகாப்பற்ற முறையில் வாகனங்களைச் செலுத்துவதே இந்த விபத்துக்களுக்கு காரணம் எனவும் அவர் சுட்டிக்காட்டியுள்ளார்.
+He also pointed out that the accident was the cause of the accident.
 
-2023 ஆம் ஆண்டுடன் ஒப்பிடுகையில் அதிவேக வீதிகளில் போக்குவரத்து விபத்துக்கள் ஒப்பீட்டளவில் அதிகரித்திருப்பதனை நாங்கள்  அவதானித்துள்ளோம்.
+We have observed that traffic accidents on high -speed streets have increased relatively compared to 2023.
 
-எனவே, அதிவேக வீதிகளில் விபத்துக்களை தவிர்ப்பதற்காக அனைவரும் கவனம் செலுத்த வேண்டும் எனவும் விசேட வைத்திய நிபுணர் வைத்தியர் சமித்த சிறிதுங்க தெரிவித்துள்ளார்.
+Therefore, everyone should pay attention to avoid accidents on high -speed streets, a specialist doctor's doctor Samitha said.
 
 ◼️
 
 [Data](articles/55f2c90f.json)
+
+[Extended Data](ext_articles/55f2c90f.ext.json)
 
 ---
 
@@ -126,6 +132,28 @@ The Colombo Chief Magistrate issued the bail of the suspect in connection with t
 
 ---
 
+### Another 836 suspects arrested under Operation ‘Yukthiya’
+
+*2024-01-29 11:56:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/another-836-suspects-arrested-under-operation-yukthiya/) · `en`
+
+COLOMBO (News 1st); Another 836 suspects have been arrested under Operation 'Yukthiya', during the past 24 hours.
+
+The Ministry of Public Security says 257 suspects who were on the list directed to the Crime Divisions were also among those arrested.
+
+Police seized 142g of heroin, 95g of ICE and 1kg of marijuana from the suspects' possession.
+
+Six of the suspects arrested on drug charges have been held under detention orders for further investigations.
+
+One person addicted to drugs has been directed for rehabilitation.
+
+Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
+
+◼️
+
+[Data](articles/b9992e1a.json)
+
+---
+
 ### Action to find companies that charge consumers without registering the tax!
 
 *2024-01-29 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175040) · `ta`
@@ -143,6 +171,24 @@ Meanwhile, he added that more complaints have been received and action has been 
 [Data](articles/ede7566d.json)
 
 [Extended Data](ext_articles/ede7566d.ext.json)
+
+---
+
+### 18 government sector TUs launch sick leave campaign
+
+*2024-01-29 11:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/18-government-sector-tus-launch-sick-leave-campaign/) · `en`
+
+COLOMBO (News 1st); 18 trade unions of the government's executive level have launched a sick leave campaign on Monday (29).
+
+The union action was launched based on several demands including salary anomalies.
+
+They are scheduled to hold a special conference and protest rally on Monday (29) afternoon.
+
+Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
+
+◼️
+
+[Data](articles/65e342fd.json)
 
 ---
 
@@ -1999,53 +2045,5 @@ There are some 3,000 US soldiers stationed at various bases in Jordan, which bor
 [Data](articles/0604f055.json)
 
 [Extended Data](ext_articles/0604f055.ext.json)
-
----
-
-### What happened to the 6 lorencho's son?
-
-*2024-01-28 22:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192675) · `si`
-
-More information regarding the vessel, which is said to have been brought under the control of Somali pirates, is being revealed.
-
-However, the Fisheries Department says
-
-The 'lorenchoday son 4 "was owned by six fishermen on the 12th of the Dickowita Fisheries Harbor.
-
-The vessel has been greeted by Somali pirates in the Arab Sea area, which was 1,160 nautical miles from land.
-
-Two armed armed armed vehicles were forcibly entered into the sky yesterday.
-
-At that time, two other multi-day fishing vessels belonging to the owner of the vessel have been sailed in the same area, eight of the fishermen and six fishermen of the other vessel.
-
-The fishermen who were on the 4 "lorenzo son 4" have been informed of their consolidated vessel and they had provided the message by the vessel, Francis Milroy Perera, the vessel.
-
-The communication work of the "lorenzo son 4" has collapsed and the Fisheries Department has taken measures to educate the Ministry of Foreign Affairs.
-
-...
-
-[Data](articles/bcbe3414.json)
-
-[Extended Data](ext_articles/bcbe3414.ext.json)
-
----
-
-### 60 MW from Uma Oya to national grid
-
-*2024-01-28 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192674) · `si`
-
-The first phase of the Uma Oya Hydroelectricity has added 60 MW to the national grid.
-
-The Minister of Power and Energy Kanchan Wijesekara said that the capacity of the strength was added to the national grid from yesterday afternoon.
-
-The Uma Oya Hydro Power Project will be created to generate 120 MW of electricity and the second phase of the project is to be added to the national grid in mid-February.
-
-Power and Energy Minister Kanchana Wijesekera said that the project was delayed due to the completion of the protests and economic crisis organized by political businesses.
-
-◼️
-
-[Data](articles/049a0c1e.json)
-
-[Extended Data](ext_articles/049a0c1e.ext.json)
 
 ---

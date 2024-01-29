@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 17:02:35**
+As of **2024-01-29 17:17:17**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 449
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,307 (99.8%) of 3,314 articles have been extended.
+3,314 (100.0%) of 3,314 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -50,6 +50,8 @@ This latest arrest brings the total number of individuals detained in connection
 
 [Data](articles/45cd98a6.json)
 
+[Extended Data](ext_articles/45cd98a6.ext.json)
+
 ---
 
 ### Sri Lankan fishermen captured by Somali pirates rescued
@@ -61,6 +63,8 @@ Colombo, Jan 29 (daily Mirror) - The Seychelles Coast Guard (SCG) has rescued si
 ◼️
 
 [Data](articles/9a9d1eb8.json)
+
+[Extended Data](ext_articles/9a9d1eb8.ext.json)
 
 ---
 
@@ -110,6 +114,8 @@ As per Maldives-based news portal Adhahdhu, a total of 34 members, comprising re
 
 [Data](articles/f7bfcc4b.json)
 
+[Extended Data](ext_articles/f7bfcc4b.ext.json)
+
 ---
 
 ### Sri Lankan fishing trawler and crew hijacked by pirates rescued
@@ -148,6 +154,8 @@ Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th 
 
 [Data](articles/85fac885.json)
 
+[Extended Data](ext_articles/85fac885.ext.json)
+
 ---
 
 ### Galle Face Closed for Independence Day Rehearsals
@@ -185,6 +193,8 @@ He headed the infantry force of the Sri Lankan Army during the war against the L
 ◼️
 
 [Data](articles/46b7c767.json)
+
+[Extended Data](ext_articles/46b7c767.ext.json)
 
 ---
 
@@ -460,6 +470,8 @@ Colombo, Jan 29 (Daily Mirror) -  The terror group which carried out the Easter
 
 [Data](articles/b274677a.json)
 
+[Extended Data](ext_articles/b274677a.ext.json)
+
 ---
 
 ### 10 Indian fishermen arrested in Point Pedro Sea
@@ -602,19 +614,29 @@ The State Minister also noted that a new property tax is slated to be introduced
 
 ---
 
-### කෝටිපතියන් 1212ක් බදු පැහැර හැරලා
+### 1212 millionaires were evicted
 
 *2024-01-29 14:15:11* · [`adalk`](https://www.ada.lk/breaking_news/කෝටිපතියන්-1212ක්-බදු-පැහැර-හැරලා/11-407779) · `si`
 
-රටේ සුපිරි ධනවතුන් කෝටිපතියන් 1212ක් බදු පැහැර හැර ඇති මුත් සාමාන්‍ය ජනතාව වැට් බදු වැඩි කිරීම නිසා 30000කට වැඩි බදු මාසිකව ගෙවන බවත් මහජන සහ ලංකා බැංකුවෙන් ඇප නොමැතිව ණය ගත් සුපිරි කෝටිපති ආයතන ණය නොගෙවා රටට විශාල පාඩුවක් කර ගජමිතුර දේශපාලනඥයන් හරහා රටට වාසිදායක ගිවිසුම් සකස් කරමින් ණය පැහැර හරිමින් සිටින බවත් විපක්ෂ නායකවරයා පැවසීය.
+The country's super-rich has ruined 1212 millionaires due to the borrowings of VAT and the Gi-Genuine Bank of Debt.The Opposition Leader said.
 
-එහෙත් පරාටේ නීතිය ගෙනවිත් ක්ෂුද්‍ර කුඩා හා මධ්‍ය පරිමාණ කර්මාන්ත කරුවන්ගේ පුද්ගලික දේපල වෙන්දේසි කරන බවත් මේ තත්ත්වය නතර කළ යුතු බවත් විපක්ෂ නායකවරයා වැඩිදුරටත් පැවසීය.
+But the Opposition Leader added that the Parade law is brought to the private property of the small and medium scale industry.
 
-රටේ ජනතාව මිනිමරු ත්‍රස්තවාදයෙන් මුදවා ඇස් ඉස් මස් ලේ රට දැය වෙනුවෙන් පූජා කර ත්‍රස්තවාදය මුලින් උපුටා දැමීමට ඉටුකළ දැවැන්ත අමරණීය සේවාව සමගි ජන බලවේගය කිසිදා අමතක නොකරන බවත් එසේ මුදවා ගත් රටේ නායකයෝ ක්‍රියාත්මක කළ ආර්ථික ත්‍රස්තවාදයෙන් මහබැංකු අරමුදල්වලට පිට් පොකට් ගැසු බවත් විපක්ෂ නායකවරයා පැවසීය.
+The Opposition Leader said that the massive immortality of the people of the country would never forget the country's bodies for the country's bodies.
 
-...
+The Opposition Leader said that the country who lived from terrorism has been submerged from economic terrorism and the war heroes have a significant role in the corrupt destructive bribe.
+
+Opposition Leader Sajith Premadasa also said that the country needs a humanitarian operation once again.
+
+The Opposition Leader addressed the Ranaviru Conference held at the Kagale.
+
+The Opposition Leader said that due to the increase in tax burden to increase the tax burden to increase the country's tax burden and that the terrorists were fully recovered from the country.
+
+◼️
 
 [Data](articles/f4a77963.json)
+
+[Extended Data](ext_articles/f4a77963.ext.json)
 
 ---
 

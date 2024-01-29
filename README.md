@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 09:17:01**
+As of **2024-01-29 09:32:53**
 
 ## Newspaper Stats
 
-*Scraped **3,189** Articles*
+*Scraped **3,190** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ economynextcom | 174
 newsfirstlk | 184
 islandlk | 185
 dailyftlk | 223
-adalk | 290
+adalk | 291
 adaderanasinhalalk | 333
 virakesarilk | 333
 tamilmirrorlk | 401
@@ -26,27 +26,29 @@ dailymirrorlk | 433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,188 (100.0%) of 3,189 articles have been extended.
+3,189 (100.0%) of 3,190 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### අධිවේගී මාර්ග ආශ්‍රිතව සිදුවන අනතුරුවල වර්ධනයක්
+### Increase in accidents
 
 *2024-01-29 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192685) · `si`
 
-අධික වේගයකින් රිය පැදවීම හේතුවෙන් ප්‍රතික්‍රියා කළ හැකි කාලය අඩු වීම නිසා අධිවේගී මාර්ග ආශ්‍රිතව ඇති වන රිය අනතුරුවල වර්ධනක් පෙන්නුම් කරන බව සෞඛ්‍ය අමාත්‍යංශයේ බෝ නොවන ඒකකයේ අනතුරු නිවාරණය හා කළමනාකරණය පිළිබඳ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා පවසයි.
+Medical Society Head of the Ministry of Health, Special Association, Special Association, Special Association, Specialists Specialist Special Slitunga, Head of the Non-Based Collection of the Ministry of Health
 
-ඔහු පෙන්වා දෙන්නේ රිය පැදවීමේ අනාරක්ෂිතභාවය මෙම අනතුරුවලට හේතුවන බවය.
+He points out that the insecurity of driving is due to these accidents.
 
-"අපි විශේෂයෙන් දැක්කා අධිවේගී මාර්ගවල රථවාහන අනතුරුවල සාපේක්ෂව වැඩිවීමක් 2023 වසරත් එක්ක. එයට හේතුව පුද්ගලයින්ගේ රිය පැදවීමේ දී තිබෙන අනාරක්ෂිතභාවය. එයට හේතුව වාහනය අධික වේගයෙන් ගමන් කිරීම. මෙහි තිබෙන ප්‍රධානම හේතුව වන්නේ හදිසි අවස්ථාවක දී වාහනය නැවැත්වීමේ කාලය එහෙම නැතිනම් ප්‍රතික්‍රියා කරන කාලය අඩුවෙන්න පුළුවන්."
+"We have seen in particular with a relatively increase in traffic accidents in highways. The reason for that is the insecurity of people's driving. It is because the vehicle is on high speed. The main reason is that in an emergency, the time of stopping the vehicle, or the time may reduce the time. "
 
-අනතුරු වළක්වා ගැනීමට නම් සියලුදෙනා ඒ පිළිබඳව අවධානය යොමු කළ යුතු බව විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා සඳහන් කළේය.
+Avoidance to prevent everyone should focus on it, Specialist Samaithunga said.
 
 ◼️
 
 [Data](articles/42d01cbc.json)
+
+[Extended Data](ext_articles/42d01cbc.ext.json)
 
 ---
 
@@ -95,6 +97,24 @@ Meanwhile, passengers have been transported by buses belonging to the Sri Lanka 
 [Data](articles/67c15abe.json)
 
 [Extended Data](ext_articles/67c15abe.ext.json)
+
+---
+
+### කහතුඩුව සේවා පියස ඉදිකිරීම දේශපාලඥයෙකුගේ මැදිහත්වීම මත නවතී
+
+*2024-01-29 08:00:25* · [`adalk`](https://www.ada.lk/breaking_news/කහතුඩුව-සේවා-පියස-ඉදිකිරීම-දේශපාලඥයෙකුගේ-මැදිහත්වීම-මත-නවතී/11-407764) · `si`
+
+දක්ෂිණ අධිවේගී මාර්ගයේ කිලෝමීටර් 8යි දශම 5 කහතුඩුව ප්‍රදේශයේ මීට වසර පහකට පෙර ඉදිකිරීමට පිඹුරුපත් සැකසූ විවේක සේවා මධ්‍යස්ථානය ප්‍රබලම දේශපාලඥයෙකුගේ මැදිහත්වීම මත අත්හිටුවා ඇතැයි මාර්ග සංවර්ධන අධිකාරියේ අභ්‍යන්තර ආරංචි මාර්ග සඳහන් කරයි.
+
+එම ඉදිකිරීම් කටයුතු සඳහා එම ස්ථානයට ගොඩබා තිබෙන විශාල ගල් ගොඩවල් මේ වන විටත් දක්නට ලැබෙන බවත් ඒ මත වල් බිහිවෙමින් පවතින බවත් ආරංචි මාර්ග සඳහන් කරයි.ඊට හේතුව මේ වනවිට ක්‍රියාත්මක වැලිපැන්න සේවා පියස එම දේශපාලනඥයා යටතේ මෙහෙයවීම හේතුවෙන් බවද වැඩිදුරටත් දැනගන්නට ඇත.
+
+අධිවේගී මාර්ගය ආරම්භ කළ 2011 වසරේ සිට මේ දක්වා ගෙවුණු වසර 13 තුළ පුද්ගලයන් 100 කට ආසන්න ප්‍රමාණයක් මාරක රිය අනතුරුවලින් මිය ගොස් ඇතැයි පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+
+එම මාරක රිය අනතුරුවලට බහුතරයක් හේතු වී ඇත්තේ රියදුරන්ට නින්ද යාම බවට පොලිස් විමර්ශනවලදී අනාවරණය වී ඇත.
+
+...
+
+[Data](articles/2141ea24.json)
 
 ---
 
@@ -1921,19 +1941,5 @@ The Government has issued a gazette notification by increasing the train service
 [Data](articles/21e94f29.json)
 
 [Extended Data](ext_articles/21e94f29.ext.json)
-
----
-
-### India and Tamil parties
-
-*2024-01-28 17:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/174994) · `ta`
-
-Borrowing to India is different. The Sri Lankan government has received $ 4 million in debt during the economic crisis. But the loan is different to hold the election. When borrowed, questions arise on the country's sovereignty and independence. There will be allegations that India's interventions in the election. Therefore, India cannot go to the extent that the provincial council has publicly funded the election. Sri Lanka cannot hear.
-
-◼️
-
-[Data](articles/5af403e1.json)
-
-[Extended Data](ext_articles/5af403e1.ext.json)
 
 ---

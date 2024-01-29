@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 22:04:01**
+As of **2024-01-29 22:17:02**
 
 ## Newspaper Stats
 
-*Scraped **3,352** Articles*
+*Scraped **3,353** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 185
 newsfirstlk | 203
 dailyftlk | 223
 adalk | 312
-adaderanasinhalalk | 356
+adaderanasinhalalk | 357
 virakesarilk | 362
 tamilmirrorlk | 422
 adaderanalk | 432
@@ -26,11 +26,33 @@ dailymirrorlk | 456
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,352 (100.0%) of 3,352 articles have been extended.
+3,352 (100.0%) of 3,353 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### විශ්ව බුද්ධ සහ රොෂාන් මේනක එක්කෙනෙක් - අලුත්ම කතාව මෙන්න
+
+*2024-01-29 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192711) · `si`
+
+විශ්ව බුද්ධ නමින් තමන්ව හඳුන්වාගන්නා තැනැත්තා පිළිබඳව තවත් තොරතුරු රැසක් අද අධිකරණයේදී අනාවරණය වී තිබේ.
+
+එහිදී හෙළිවී ඇත්තේ 2022 ජනවාරි මාසයේ සිට 2023 දෙසැම්බර් දක්වා කාලය තුළ ඔහුගේ ගිණුමට රුපියල් ලක්ෂ 25කට ආසන්න මුදලක් තැන්පත් වී ඇති බවය.
+
+එහෙත් "විශ්ව බුද්ධ" සම්බන්ධයෙන් විමර්ශන ආරම්භවීමට ආසන්න කාලයේ එම මුදල් සියල්ල ආපසු ලබාගෙන ඇති බවද හෙළිවී තිබේ.
+
+මේ අතර භික්ෂුභාවය මේ වනවිට අහෝසි කර ඇති බැවින් ඔහු තවදුරටත් භික්ෂුවක් ලෙස නොසැලකිය යුතු බව ශ්‍රී ලංකා රාමඤ්ඤ නිකාය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණය වෙත අද දැනුම්දී තිබේ.
+
+සමාජ මාධ්‍ය ඔස්සේ බුදු දහමට අපහාසවන ආකාරයේ ප්‍රකාශ සිදුකළ බවට චෝදනා එල්ල වී සිටින විශ්ව බුද්ධ නමින් තමන්ව හඳුන්වාගන්නා රෝෂාන් මේනක රණසිංහ නැමැති තැනැත්තා සම්බන්ධයෙන් වූ නීති කෘත්‍යය කොළඹ ප්‍රධාන මහේස්ත්‍රාත් අධිකරණයේදී අද යළි කැඳවනු ලැබීය.
+
+එහිදි සැකකරු ඇප මත මුදාහැර සිටියදී ඇප කොන්දේසි කඩ කිරීම සම්බන්ධයෙන් ජ්‍යේෂ්ඨ නියෝජ්‍ය සොලිසිටර් ජනරාල් දිලීප පිරිස් මහතා අධිකරණයට ඉදිරිපත් කළා.
+
+...
+
+[Data](articles/3842b1a2.json)
+
+---
 
 ### Social activist Piyath Nikeshala arrested
 
@@ -2039,25 +2061,5 @@ Meanwhile, he added that more complaints have been received and action has been 
 [Data](articles/ede7566d.json)
 
 [Extended Data](ext_articles/ede7566d.ext.json)
-
----
-
-### 18 government sector TUs launch sick leave campaign
-
-*2024-01-29 11:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/18-government-sector-tus-launch-sick-leave-campaign/) · `en`
-
-COLOMBO (News 1st); 18 trade unions of the government's executive level have launched a sick leave campaign on Monday (29).
-
-The union action was launched based on several demands including salary anomalies.
-
-They are scheduled to hold a special conference and protest rally on Monday (29) afternoon.
-
-Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
-
-◼️
-
-[Data](articles/65e342fd.json)
-
-[Extended Data](ext_articles/65e342fd.ext.json)
 
 ---

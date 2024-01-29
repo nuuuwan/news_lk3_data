@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 18:08:20**
+As of **2024-01-29 18:20:00**
 
 ## Newspaper Stats
 
-*Scraped **3,316** Articles*
+*Scraped **3,319** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 185
 newsfirstlk | 202
 dailyftlk | 223
 adalk | 303
-adaderanasinhalalk | 351
+adaderanasinhalalk | 353
 virakesarilk | 362
-tamilmirrorlk | 414
+tamilmirrorlk | 415
 adaderanalk | 426
 dailymirrorlk | 450
 
@@ -26,11 +26,53 @@ dailymirrorlk | 450
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,316 (100.0%) of 3,316 articles have been extended.
+3,316 (99.9%) of 3,319 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### 'දයා' සමගි ජනබලවේගය සමග එක්වෙයි
+
+*2024-01-29 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192707) · `si`
+
+හිටපු යුද හමුදාපති ජෙනරාල් දයා රත්නායක මහතා සමගි ජනබලවේගය පක්ෂය සමග එක්ව තිබේ.
+
+අද (29) දිනයේ විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සමග පැවති හමුවකදී ඔහු එම පක්ෂය සමග එක්ව ඇත.
+
+ජෙනරාල් දයා රත්නායක මහතා සමගි ජනබලවේගයේ රාජ්‍ය ප්‍රතිපත්ති පිළිබඳ ජ්‍යේෂ්ඨ උපදේශකවරයෙකු ලෙස පත්කිරීමට ද විපක්ෂ නායකවරයා කටයුතු කර තිබේ.
+
+ඒ මහතා හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ රජයේ කර්මාන්ත අමාත්‍යංශ ලේකම්වරයා වශයෙන් ද ශ්‍රී ලංකා වරාය අධිකාරියේ සභාපතිවරයෙකු වශයෙන් ද කටයුතු කර ඇත.
+
+◼️
+
+[Data](articles/a17c0070.json)
+
+---
+
+### පොලිස් නිලධාරිනියකට පහරදුන් කාන්තාවක් අත්අඩංගුවට
+
+*2024-01-29 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192706) · `si`
+
+පොලිස් නිලධාරියෙකුට පරුෂ වචනයෙන් බැනවැදී පොලිස් කාන්තාවකට පහරදීමේ චෝදනාව යටතේ කාන්තාවක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+පොලීසිය පවසන්නේ මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ඔස්ට්‍රේලියාවේ පදිංචිව සිටින ශ්‍රී ලාංකික කාන්තාවක් බවය.
+
+මාතර දෙවිනුවර ඔරලෝසු කනුව ආසන්නයේදී ත්‍රිරෝද රථයක ගමන්කරමින් සිටි පොලිස් නිලධාරීන් පිරිසක් සිය රථයේ ගමන්මගට බාධා කළ බව පවසමින් එම කාන්තාව නිලධාරියෙකුට පරුෂ වචනයෙන් බැනවැදී තිබේ.
+
+පසුව අදාළ නිලධාරීන් විසින් කළ දැනුම්දීමකට අනුව ගන්දර පොලිස් ස්ථානය ආසන්නයේදී අදාළ කාන්තාව ගමන්කරමින් තිබූ සුඛෝපභෝගී ජීප් රථය පොලිස් නිලධාරීන් විසින් නවත්වාගෙන ඇත.
+
+එම අවස්ථාවේදී අදාළ සැකකාර කාන්තාව විසින් පොලිස් නිලධාරිනියකට කළ පහරදීමක් හේතුවෙන් අදාළ නිලධාරිනිය රෝහල්ගතකර ඇත.
+
+පසුව සැකකාර කාන්තාව ගන්දර පොලීසිය විසින් අත්අඩංගුවට ගෙන අදාළ ජීප් රථය ද පොලිස් භාරයට ගෙන ඇත.
+
+එම කාන්තාව අධිකරණය වෙත ඉදිරිපත් කර ඇති අතර ගන්දර පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/4b7dcfdf.json)
+
+---
 
 ### CEB introduces new methods to pay electricity bills
 
@@ -47,6 +89,20 @@ The CEB further said that consumers are requested to make their complaints by ca
 [Data](articles/6cfc9bf6.json)
 
 [Extended Data](ext_articles/6cfc9bf6.ext.json)
+
+---
+
+### பட்டத்தில் தமிழீழ வரைபடம் ;  இளைஞனிடம்  விசாரணை
+
+*2024-01-29 17:06:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டத்தில்-தமிழீழ-வரைபடம்-இளைஞனிடம்-விசாரணை/175-332288) · `ta`
+
+வருடாந்த பட்டத்திருவிழா ஆரம்பிக்கும் நிகழ்வாக முல்லைத்தீவு கடற்கரையில் திங்கட்கிழமை (28)   வித்தியாசமான வடிவில் பட்டங்களை உருவாக்கி  சிறுவர்கள் முதல் பெரியவர்கள் வரை பட்டம் ஏற்றி மகிழ்ந்திருந்துள்ளனர்.
+
+இந் நிகழ்வின் போது முல்லைத்தீவை சேர்ந்த இளைஞர் ஒருவர்  தமிழீழ வரைபடம் மற்றும்  கார்த்திகை பூ அமைப்பில் உருவாக்கப்பட்ட பட்டத்தினை ஏற்றியுள்ளதை அவதானித்த முல்லைத்தீவு பொலிஸார் அவ் இடத்திற்கு சென்று குறித்த இளைஞனை விசாரணைக்கு உட்படுத்தியுள்ளனர்.
+
+◼️
+
+[Data](articles/0d961f33.json)
 
 ---
 
@@ -1993,69 +2049,5 @@ It is the first time US soldiers have died in an attack on the Middle East after
 [Data](articles/039f9ef8.json)
 
 [Extended Data](ext_articles/039f9ef8.ext.json)
-
----
-
-### Scholarship money offered by the Presidential Fund
-
-*2024-01-29 09:52:08* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අරමුදලෙන්-පිරිනැමෙන-ශිෂ්‍යත්ව-මුදල-ඉහළට/11-407769) · `si`
-
-Scholarship allowance offered by the Presidential Fund to sit for the GCE O / L examination in the year 2021 (2022)President Ranil Wickremesinghe has instructed to increase a thousand rupees from February, 2024.
-
-The President has given this advice on the request made by the students.
-
-The guidance of the Presidential Fund is implemented by the Presidential Fund by the Presidential Fund by President Ranil Wickremesinghe with the objective of learning to learn from all parts of Sri Lanka.
-
-Under the Scholarship Granting Program of the Year 2021/2022, the Presidential Fund is currently paid a monthly allowance of Rs. 5,000.
-
-Accordingly, with the increase in scholarship money, a monthly allowance of Rs.
-
-Also, the GCE Advanced Level of 2022/2023. 5000 students who passed the O / L above the GCE / Students. A monthly Rs.. The Presidential Fund also is working towards 6,000. Accordingly, the zonal level is being carried out at the zonal level, covering all provinces of Sri Lanka.
-
-...
-
-[Data](articles/9c33bf96.json)
-
-[Extended Data](ext_articles/9c33bf96.ext.json)
-
----
-
-### A young family member who went to bathe in the Mullaitivu Matalan Sea
-
-*2024-01-29 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175027) · `ta`
-
-A young family member who went to bathe in the Mullaitivu Matalan sea has drowned.
-
-The 33 -year -old 10th Circle of Pudukkudiyiruppu, a young family member of the Mullaitivu Matalan Sea, has been beaten to the water.
-
-Others on the shore have observed that about 15 people, both male and women, were bathed in the sea.
-
-As a result of this, he was hit by a sea wave and disappeared.
-
-Subsequently, even though the fishermen and fishermen are searching for the person, there is a great deal of difficulty in searching for the sea wave.
-
-◼️
-
-[Data](articles/89dc220b.json)
-
-[Extended Data](ext_articles/89dc220b.ext.json)
-
----
-
-### Re -opening of the Church
-
-*2024-01-29 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175028) · `ta`
-
-The Kandy Alawatukoda Saman Church, which was sealed, has been reopened since Sunday (28).
-
-Deputy Commissioner of Buddhist Affairs, Anurutha Hema Bandara Alawatukoda, who was in the Kandy Buddhist Affairs Police, was arrested for the purpose of reopening for other duties, including the poojas of the Saman Church, which had been closed since the 23rd of this month, when the door of the church was broken and the house was broken.Police said they would have to take action.
-
-The Deputy Commissioner, who has expressed his displeasure with the police, has been announced to the Archaeological Department and the Basnayagam land has been smashed and opened in the presence of Pashana Udaya Bandara, Akurana Divisional Secretary Indika Abeysinghe and the Divisional Grama Niladhari.
-
-...
-
-[Data](articles/f89a1212.json)
-
-[Extended Data](ext_articles/f89a1212.ext.json)
 
 ---

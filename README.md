@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 06:16:12**
+As of **2024-01-29 06:53:35**
 
 ## Newspaper Stats
 
-*Scraped **3,162** Articles*
+*Scraped **3,164** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,11 +12,11 @@ colombotelegraphcom | 43
 bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 174
-islandlk | 184
 newsfirstlk | 184
+islandlk | 185
 dailyftlk | 223
 adalk | 288
-adaderanasinhalalk | 324
+adaderanasinhalalk | 325
 virakesarilk | 330
 tamilmirrorlk | 395
 adaderanalk | 409
@@ -26,11 +26,43 @@ dailymirrorlk | 430
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,152 (99.7%) of 3,162 articles have been extended.
+3,161 (99.9%) of 3,164 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### ප්‍රදේශ කිහිපයකට වැසි
+
+*2024-01-29 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192676) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අනුරාධපුර, මුලතිව් සහ හම්බන්තොට දිස්ත්‍රික්කවල වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
+
+බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර සහමහනුවර දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+මධ්‍යම, ඌවසහවයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 40 ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/bae9a7cd.json)
+
+---
+
+### Nawaloka Laboratory sets new healthcare standards with ISO 15189:2022 accreditation
+
+*2024-01-29 05:58:00* · [`islandlk`](http://island.lk/nawaloka-laboratory-sets-new-healthcare-standards-with-iso-151892022-accreditation/) · `en`
+
+Nawaloka Laboratory has announced its achievement as the first laboratory in the country to successfully elevated to the latest version of ISO 15189 accreditation, namely ISO 15189:2022. The surveillance was conducted by the Sri Lanka Accreditation Board who serves as the national authority responsible for upholding and maintaining the standards for clinical and testing laboratories across Sri Lanka. At the core of this accreditation lies a robust test scope covering a comprehensive range of 87 tests. These encompass pivotal domains such as Clinical Biochemistry, Chemical Pathology, Microbiology, Immunology, and Serology.
+
+...
+
+[Data](articles/c7aebeb6.json)
+
+---
 
 ### Accident
 
@@ -196,6 +228,8 @@ Reforms to stay course with bets on elections: First Capital Research
 
 [Data](articles/b7e2742e.json)
 
+[Extended Data](ext_articles/b7e2742e.ext.json)
+
 ---
 
 ### Southern Province Entrepreneur Awards recognizes ‘best innovative’ jewellery manufacturer
@@ -213,6 +247,8 @@ Reforms to stay course with bets on elections: First Capital Research
 ...
 
 [Data](articles/e6a4d015.json)
+
+[Extended Data](ext_articles/e6a4d015.ext.json)
 
 ---
 
@@ -234,6 +270,8 @@ Save my name, email, and website in this browser for the next time I comment.
 
 [Data](articles/70795b13.json)
 
+[Extended Data](ext_articles/70795b13.ext.json)
+
 ---
 
 ### Alumex PLC concluded 2023 with multiple industry accolades
@@ -247,6 +285,8 @@ At the 25th Presidential Export Awards 2023 Alumex received the coveted title of
 ...
 
 [Data](articles/89d0ef45.json)
+
+[Extended Data](ext_articles/89d0ef45.ext.json)
 
 ---
 
@@ -266,6 +306,8 @@ AMW aiming at expanding operations in SL; strategic plans to unfold
 
 [Data](articles/a38fe5fc.json)
 
+[Extended Data](ext_articles/a38fe5fc.ext.json)
+
 ---
 
 ### Reforms to stay course with bets on elections: First Capital Research
@@ -279,6 +321,8 @@ Investment Strategy – Jan 2024 report released by First Capital Research says 
 ...
 
 [Data](articles/b15e6749.json)
+
+[Extended Data](ext_articles/b15e6749.ext.json)
 
 ---
 
@@ -295,6 +339,8 @@ As per the latest official announcement, the Indian Interim Budget for the finan
 ...
 
 [Data](articles/76839053.json)
+
+[Extended Data](ext_articles/76839053.ext.json)
 
 ---
 
@@ -1889,57 +1935,5 @@ A large number of foreign tourists visited the Podimanicians of Podimanaka, who 
 [Data](articles/d2bacb42.json)
 
 [Extended Data](ext_articles/d2bacb42.ext.json)
-
----
-
-### "Lord, in your presence, is a bridegroom in front of me"
-
-*2024-01-28 13:33:50* · [`adalk`](https://www.ada.lk/breaking_news/’’-ස්වාමීනී--ඔබතුමා-ඉදිරියේ-ඉන්නේ-විත්තිකාරයෙක්-වුණාට-මගේ-ඉදිරියේ-ඉන්නේ-මනාලයෙක්’’/11-407755) · `si`
-
-"When a defendant was a so-called a lord, I am appearing for a bridon, and this is the close attention of the judiciary and release this accused."
-
-The Additional Magistrate Lahira De Silva, the UPFA, was the focus of the Supreme Court of Attorney at the same moment of the courts.
-
-Attorneys-to-courts sent a monk to be sentenced to the chain of the courts sent a monk to be sentenced to the 30th of this month.I bailed to a little child, saying: "I came to the police on the morning of the morning, sir, sir, sir, just remanded my friend today.
-
-Furthermore, the person who has been married to the law, the bridegroom has been married to the bride and parent in a hotel in the room where he has been returned to the bridegroom in Wadduwa.The lawyer also caught the appeal to the lawyer, as a result of the situation.
-
-Lord, he continually acknowledges to a man of the judiciary. But my servant is now a brideg. He has come to this case and the bride is in a hingam with the bride.
-
-...
-
-[Data](articles/4e2c6180.json)
-
-[Extended Data](ext_articles/4e2c6180.ext.json)
-
----
-
-### Tips to accelerate construction of Ellawewa Reservoir
-
-*2024-01-28 13:25:34* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලේවැව-ජලාශයේ-ඉදිකිරීම්-කඩිනම්-කිරීමට-උපදෙස්/11-407754) · `si`
-
-Minister of Irrigation, Wildlife and Forest Minister Pavithra Wanniarachchi said that all construction work of the Embilipitiya reservoir scheme will be completed next year will be completed next year.
-
-The Minister made this observation on a surveillance tour of the Ellawewa irrigation premises recently.
-
-The Minister instructed officials to take steps to accelerate the construction of the reservoir.
-
-He said that watering for the farmers who have been suffering from time to time.
-
-The Elawewa Reservoir will be created by the Eraporu river, Kithabankula Amuna, from the Erotic River, the Kithalabookka anica.
-
-The Government of Sri Lanka is only Rs.
-
-The main objective of the project is to maintain the continuous water supply of the Yala Mahasha for 1447 acres under Panamura and Hulandawa Oya business.
-
-The people of Ellawewa Reservoir to the people of Embilipitiya and Kolonna areas are expected to provide a sustainable solution to the project.
-
-It will also provide water for 350 acres of paddy lands.
-
-◼️
-
-[Data](articles/74b458fe.json)
-
-[Extended Data](ext_articles/74b458fe.ext.json)
 
 ---

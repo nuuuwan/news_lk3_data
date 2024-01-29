@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 01:33:00**
+As of **2024-01-30 01:50:24**
 
 ## Newspaper Stats
 
-*Scraped **3,380** Articles*
+*Scraped **3,382** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,15 +20,47 @@ adaderanasinhalalk | 360
 virakesarilk | 368
 tamilmirrorlk | 424
 adaderanalk | 435
-dailymirrorlk | 459
+dailymirrorlk | 461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,380 (100.0%) of 3,380 articles have been extended.
+3,382 (100.0%) of 3,382 articles have been extended.
 
 ## Latest 100 Articles 
+
+### 2024-01-30 (Tuesday)
+
+### “Yukthiya” Cannot Succeed without the Cooperation of the Masses
+
+*2024-01-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Yukthiya-Cannot-Succeed-without-the-Cooperation-of-the-Masses/172-275929) · `en`
+
+No law abiding person who wants a country free of crimes and the drug menace would belittle or discourage a campaign launched by the authorities to accomplish that purpose. In the same breath, on the very ground of being a law-abiding person, he/she would not like to see the campaign tarnished by possible or apparent personal agendas of anyone or any group and the highhanded activities of the personnel on the ground.
+
+...
+
+[Data](articles/b2aebc2f.json)
+
+[Extended Data](ext_articles/b2aebc2f.ext.json)
+
+---
+
+### The Contribution of Siam and Burma to Buddhism in Sri Lanka
+
+*2024-01-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Contribution-of-Siam-and-Burma-to-Buddhism-in-Sri-Lanka/172-275930) · `en`
+
+It is well known that monks from Siam and Burma (as Thailand and Myanmar were called earlier) helped stem a decline in the practice of Buddhism, and contributed to its democratization in Sri Lanka during certain periods in the island’s history.
+
+The circumstances which necessitated help from Siam and Burma, the process of securing such help, the role of the Dutch in it, and the  results of foreign involvement are vividly described by Auckland University sociologist Kitsiri Malalgoda in his book Buddhism in Sinhalese Society 1750-1900 (Tambapanni Academic Publishers, Colombo, 2023).
+
+...
+
+[Data](articles/b7c5b4de.json)
+
+[Extended Data](ext_articles/b7c5b4de.ext.json)
+
+---
 
 ### 2024-01-29 (Monday)
 
@@ -2017,45 +2049,5 @@ Former MP Hirunika Premachandra who also participated in the briefing said the p
 [Data](articles/bb820fe1.json)
 
 [Extended Data](ext_articles/bb820fe1.ext.json)
-
----
-
-### Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
-
-*2024-01-29 13:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/talk-of-the-town-the-key-to-sri-lanka-s-revival-amita-arudpragasam-29th-january-2024/) · `en`
-
-Talk of The Town | The Key to Sri Lanka's Revival | Amita Arudpragasam | 29th January 2024
-
-Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
-
-◼️
-
-[Data](articles/084d9a76.json)
-
-[Extended Data](ext_articles/084d9a76.ext.json)
-
----
-
-### Soldier's body at Armbagoda's base at a deep pond
-
-*2024-01-29 13:25:11* · [`adalk`](https://www.ada.lk/breaking_news/දොඹගොඩ-යුධහමුදා-කදවුරේ-සෙබලාගේ-සිරුර-අඩි-20ක්-ගැඹුර-පොකුණක/11-407776) · `si`
-
-A soldier's body was found in a pond at a pond at the jembugoda warhead camp at a pond yesterday morning.
-
-The deceased has been identified as the average soldier who was residing in the Uttiliwewa area.
-
-The victim is a soldier belonging to the 7th Troubleshood, which has been found in Mullaittivu and is not found in the area.
-
-The body of the soldier was found in a deep pond at nearly 20 feet deep, police said.
-
-Panadura Criminal Laboratory Laboratory Laboratory Laboratory was investigated yesterday.
-
-Answerattota Police are conducting further investigations on the instructions of OIC Chief Inspector Ananda Silva.
-
-◼️
-
-[Data](articles/09036dff.json)
-
-[Extended Data](ext_articles/09036dff.ext.json)
 
 ---

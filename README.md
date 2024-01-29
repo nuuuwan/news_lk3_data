@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 21:51:34**
+As of **2024-01-29 22:04:01**
 
 ## Newspaper Stats
 
-*Scraped **3,351** Articles*
+*Scraped **3,352** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 185
 newsfirstlk | 203
 dailyftlk | 223
 adalk | 312
-adaderanasinhalalk | 355
+adaderanasinhalalk | 356
 virakesarilk | 362
 tamilmirrorlk | 422
 adaderanalk | 432
@@ -26,7 +26,7 @@ dailymirrorlk | 456
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,350 (100.0%) of 3,351 articles have been extended.
+3,352 (100.0%) of 3,352 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -86,25 +86,45 @@ The Minister of Agriculture and Plantation Industry, Mr. Mahinda Amaraweera ment
 
 ---
 
-### 2025දී සුපිරි ධනවතුන්ට දේපළ බද්දක් පනවයි
+### Body of a soldier found in a pond of a pond
+
+*2024-01-29 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192710) · `si`
+
+The body of a soldier was found in a pond at a pond at a pond at a pond at a pond at a pond at a pond at a pond at a pond of the camp.
+
+The deceased has been identified as a 23 year old Tharindu Lakshan, a 23-year-old Tharindu Lakshan.
+
+Horana Magistrate made the magisterial inquiry into the incident today (29).
+
+◼️
+
+[Data](articles/7c46b083.json)
+
+[Extended Data](ext_articles/7c46b083.ext.json)
+
+---
+
+### In 2025 a tax levy on the super richest
 
 *2024-01-29 20:36:19* · [`adalk`](https://www.ada.lk/breaking_news/2025දී-සුපිරි-ධනවතුන්ට-දේපළ-බද්දක්-පනවයි/11-407791) · `si`
 
-නැවතත් අලුත් වක්‍ර බදු අය කිරීමට හෝ පවතින වක්‍ර බදුවල ප්‍රතිශත ඉහළ දැමීමට සූදානමක් නොමැති බවත් 2025 දී ප්‍රගිතිශීලි පියවරක් ලෙස දේපල බද්දක් අය කිරීමට කටයුතු කරන බවත් මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවැසීය.
+State Minister Ranjith Siyambalapitiya, Minister of Finance, said that a promotion tax would be taken to recover the percentage of new indirect taxes.
 
-"ජනතාවට අමාරුයි. ආර්ථික අර්බුදයක් පහුකරගෙන උඩට යද්දී අමාරුම අවස්ථාව තමයි මේ යන්නේ. රාජ්‍ය ආදායම වැඩි කරන්න අපිට විවිධ ආකාරයෙන් බදු අය කරන්න සිද්ධ වුණා. එහි බර දැරුවේ ජනතාව. ඔවුන්ට අපි ප්‍රණාමය පුද කරන්න ඕන. ඔවුන් ඉතාම අමාරුවෙන් මේ බර දැරුවා.
+"The people are hard. The hardest event is the hardest chance of passing a economic crisis. We had to levy taxes to increase state revenue. The people gained the weight. They want to give us delight. They burdened this weight.
 
-මින් ඉදිරියට අපි අලුතෙන් වක්‍ර බදු අයකරන්න බලාපොරෝත්තු වෙන්නේ නෑ. ආයේ වක්‍ර බදුවල ප්‍රතිශත වැඩි කරන්න බලාපොරොත්තුවකුත් නෑ.
+We will not be expecting the new indirect taxes. There is no expectation to increase the percentage of curves.
 
-අපි උත්සාහ කරන්නේ සෘජ බදු පදනම පුළුල් කරගෙන රාජ්‍ය ආදායම වැඩි කරන්න. වක්‍ර බදු අඩුකරන දවස ඉක්මන් කරන්න අපි කටයුතු කරනවා.
+We are trying to expand the direct tax basis and increase state revenue. We are trying to quickly hurry indirect tax deduction day.
 
-වක්‍ර බදු නිසා බඩු මිල ඉහළ යනව කියන එකේ සත්‍යතාවක් නෑ. ඉල්ලුම වැඩි වුණාම, සැපයුම අඩුවුණාම බඩු මිලට බලපෑම් ඇතිවෙනවා.
+There is no truth to say that indirect taxes go rise. When the demand is increased, the supply of goods will be effective when the supply is reduced.
 
-අපි 2025 දී දේපල බද්දක් අය කරන්න කටයුතු කරනවා. ඒක ඉතාම ප්‍රගතිශීලී පියවරක්. ඉතාම ඉහළ දේපළක් තියෙන අයගෙන් නිශ්චිත බදු මුදලක් අයකරන්න බලාපොරොත්තු වෙනවා.
+We will charge a real estate tax in 2025. It's a very progressive step. Hope to charge a specific tax from those who have very high property.
 
 ...
 
 [Data](articles/024faa59.json)
+
+[Extended Data](ext_articles/024faa59.ext.json)
 
 ---
 
@@ -2039,29 +2059,5 @@ Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
 [Data](articles/65e342fd.json)
 
 [Extended Data](ext_articles/65e342fd.ext.json)
-
----
-
-### Oman Air suspends flights to Colombo
-
-*2024-01-29 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96819/oman-air-suspends-flights-to-colombo) · `en`
-
-State-owned Oman Air will cancel flights to some South Asian cities as part of its ongoing transformation programme.
-
-The move aims to improve the overall financial performance and strengthen its position in an ever-growing competitive market, the airline said in a statement.
-
-Flights to Islamabad and Lahore in Pakistan, Colombo in Sri Lanka and Chittagong in Bangladesh will be cancelled.
-
-However, the airline will add a new route to Sialkot in Pakistan and increase capacity to two current destinations in India – Lucknow, Uttar Pradesh, and Thiruvananthapuram, Kerala.
-
-In addition, three destinations will be operated on a seasonal basis. Flights will be operated to Trabzon in Turkey during the summer, while service will be launched to Zurich in Switzerland and Malé, the capital of Maldives, during winter.
-
-Additionally, Oman Air has introduced measures to optimise its schedule, starting this summer.
-
-...
-
-[Data](articles/30058020.json)
-
-[Extended Data](ext_articles/30058020.ext.json)
 
 ---

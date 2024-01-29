@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 21:17:20**
+As of **2024-01-29 21:33:09**
 
 ## Newspaper Stats
 
-*Scraped **3,345** Articles*
+*Scraped **3,350** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,86 @@ economynextcom | 177
 islandlk | 185
 newsfirstlk | 203
 dailyftlk | 223
-adalk | 309
+adalk | 311
 adaderanasinhalalk | 355
 virakesarilk | 362
 tamilmirrorlk | 422
-adaderanalk | 429
+adaderanalk | 432
 dailymirrorlk | 456
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,345 (100.0%) of 3,345 articles have been extended.
+3,345 (99.9%) of 3,350 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### Social activist Piyath Nikeshala arrested
+
+*2024-01-29 21:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96833/social-activist-piyath-nikeshala-arrested) · `en`
+
+Social activist Piyath Nikeshala was arrested by the Criminal Investigations Department (CID) on Monday evening (29 Jan.), when he had arrived to record a statement.
+
+According to police, Nikeshala had arrived at the Computer Crimes Division of the CID to record a statement in connection with a complaint filed under the Social Media Regulation Act.
+
+◼️
+
+[Data](articles/04554305.json)
+
+---
+
+### Document spells out allegations against 12 UN employees Israel says participated in Hamas attack
+
+*2024-01-29 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96832/document-spells-out-allegations-against-12-un-employees-israel-says-participated-in-hamas-attack) · `en`
+
+An Israeli document obtained Monday spelled out allegations against a dozen U.N. employees the country says participated in Hamas’ Oct. 7 assault — claiming seven stormed into Israeli territory, including two who participated in kidnappings.
+
+The allegations against staffers with the U.N. agency for Palestinian refugees prompted Western countries to freeze funds vital for the body, which is a lifeline for desperate Palestinians in Gaza. The U.N. fired nine of the 12 accused workers and condemned “the abhorrent alleged acts” of staff members.
+
+The accusations come after years of tensions between Israel and the agency known as UNRWA over its work in Gaza, where it employs roughly 13,000 people.
+
+...
+
+[Data](articles/96125d6e.json)
+
+---
+
+### Country is self-sufficient in rice, no rice imports expected in 2024 – Minister
+
+*2024-01-29 21:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96831/country-is-self-sufficient-in-rice-no-rice-imports-expected-in-2024-minister-) · `en`
+
+In a significant milestone for Sri Lanka’s agricultural sector, Minister of Agriculture and Plantation Industries Mahinda Amaraweera has announced that the country is now self-sufficient in rice production.
+
+This means that Sri Lanka is not expected to import any rice in 2024, the President’s Media Division (PMD) reported.
+
+This achievement is the result of years of dedicated efforts by farmers and government initiatives to boost domestic rice production. It not only bodes well for the nation’s food security but also represents a critical step towards reducing reliance on foreign imports and strengthening the agricultural sector.
+
+The Minister of Agriculture and Plantation Industry, Mr. Mahinda Amaraweera mentioned this while joining a press briefing held at the Presidential Media Centre (PMC) on the theme ‘Collective Path to a Stable Country’ today (29).
+
+...
+
+[Data](articles/6a5e686f.json)
+
+---
+
+### චාමර රෝහලෙන් පිටව යයි
+
+*2024-01-29 20:18:57* · [`adalk`](https://www.ada.lk/breaking_news/චාමර-රෝහලෙන්-පිටව-යයි/11-407790) · `si`
+
+දකුණු කොළඹ ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටි ජනප්‍රිය ගායන ශිල්පී චාමර වීරසිංහ මහතා සුවය ලබා රෝහලෙන් පිටව ගොස් තිබේ.
+
+චාමර වීරසිංහ මහතා දින 40 කට ආසන්න කාලයක් වෛද්‍ය ප්‍රතිකාර යටතේ ගත කළ අතර පසුගිය මාසයේදී ඔහු කලුබෝවිල රෝහල වෙත ඇතුළත් කරනු ලැබුවේ ශ්වසන අපහසුතාවයක් හේතුවෙනි.
+
+ඔහු ශල්‍යකර්ම දෙකකට භාජනය කර ඇති අතර සුවය ලැබුවද තවදුරටත් විවේකයෙන් සිටිය යුතු බවට වෛද්‍යවරුන් උපදෙස් දී ඇත.
+
+◼️
+
+[Data](articles/8f573644.json)
+
+---
 
 ### Piyage Sampasala arrested
 
@@ -113,6 +177,26 @@ Subsequently, Kandara police arrested the suspect and taken the jeep into police
 [Data](articles/e19fc30f.json)
 
 [Extended Data](ext_articles/e19fc30f.ext.json)
+
+---
+
+### සහලින් ස්වයංපෝෂිතයි සහල් ආනයනය කරන්නේ නෑ
+
+*2024-01-29 19:20:17* · [`adalk`](https://www.ada.lk/breaking_news/සහලින්-ස්වයංපෝෂිතයි-සහල්-ආනයනය-කරන්නේ-නෑ/11-407786) · `si`
+
+රට සහලින් ස්වයංපෝෂිත බැවින් 2024 වසර තුළ සහල් ආනයනය කිරීමට බලාපොරොත්තු නොවන බව කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා පැවසීය.
+
+එසේම 2024 වර්ෂයේදී වී, බඩ ඉරිඟු, අර්තාපල් සහ මිරිස් යන බෝග ජාතික අවශ්‍යතාවයේ ඉලක්කයට ළඟා වීම සඳහා ප්‍රමුඛත්වය දී කටයුතු කිරීමට තීරණය කර තිබෙන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+
+කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (29) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක් වූ කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා මෙසේ ද පැවසීය.
+
+"2023 වසරේ මෙරට යල සහ මහ කන්නවල පොහොර මිලදී ගැනීම සඳහා මූල්‍ය සහනාධාර වෙනුවෙන් රුපියල් බිලියන 22ක ප්‍රමාණයක් අප වැය කළා. ඒ වගේම වී මිලදී ගැනීම සඳහා ද රජය විසින් රුපියල් බිලියන 13ක මුදලක් වැය කළා.
+
+...
+
+[Data](articles/86d32947.json)
 
 ---
 
@@ -1973,105 +2057,5 @@ It is reported that the son has come to the police with a relative who has come 
 [Data](articles/9ff4de11.json)
 
 [Extended Data](ext_articles/9ff4de11.ext.json)
-
----
-
-### Sri Lankan filmmaker clinches Best Director Award at Dhaka International Film Festival
-
-*2024-01-29 11:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-filmmaker-clinches-Best-Director-Award-at-Dhaka-International-Film-Festival/108-275909) · `en`
-
-Dhaka, Jan 29 -  Sri Lankan film director Jagath Manuwarna has clinched the esteemed 'Best Director' award in Asian Competition Section of the 22nd Dhaka International Film Festival (DIFF).
-
-Manuwarna's stellar victory is attributed to his feature film directorial debut, 'Whispering Mountains' (Rahas Kiyana Kandu), which first dazzled audiences at the Bright Future programme of the 2023 International Film Festival Rotterdam.
-
-The film not only premiered there but also secured the NETPAC Awards for the best Asian feature film, marking a notable recognition for the director's exceptional storytelling prowess.
-
-The 87-minute cinematic masterpiece continued its journey, earning an invitation to the prestigious 28th Busan International Film Festival in October 2023, further solidifying its standing on the global cinematic stage.
-
-◼️
-
-[Data](articles/a07d3f45.json)
-
-[Extended Data](ext_articles/a07d3f45.ext.json)
-
----
-
-### Thai Prime Minister is coming to Sri Lanka
-
-*2024-01-29 11:38:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகின்றார்-தாய்லாந்து-பிரதமர்/175-332262) · `ta`
-
-The Ministry of External Affairs has announced that it will visit Sri Lanka on February 3.
-
-He will visit the country on the occasion of President Ranil Wickremesinghe, who is on a two -day official visit to Sri Lanka's 76th Independence Day celebration.
-
-During the visit, it is reported that the Prime Minister of Thailand Shreta Davis will hold discussions with President Ranil Wickremesinghe.
-
-He is also participating in the signing of the Sri Lanka -Thailand Free Trade Agreement.. Remble
-
-◼️
-
-[Data](articles/4a374886.json)
-
-[Extended Data](ext_articles/4a374886.ext.json)
-
----
-
-### The Prime Minister of Thailand is coming to Sri Lanka
-
-*2024-01-29 11:38:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகிறார்-தாய்லாந்து-பிரதமர்/175-332262) · `ta`
-
-The Ministry of External Affairs has announced that it will visit Sri Lanka on February 3.
-
-He will visit the country on the occasion of President Ranil Wickremesinghe, who is on a two -day official visit to Sri Lanka's 76th Independence Day celebration.
-
-During the visit, it is reported that the Prime Minister of Thailand Shreta Davis will hold discussions with President Ranil Wickremesinghe.
-
-He is also participating in the signing of the Sri Lanka -Thailand Free Trade Agreement.. Remble
-
-◼️
-
-[Data](articles/7ed9c671.json)
-
-[Extended Data](ext_articles/7ed9c671.ext.json)
-
----
-
-### Man found guilty of brutal murder of wife sentenced to death after 14 years
-
-*2024-01-29 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96818/man-found-guilty-of-brutal-murder-of-wife-sentenced-to-death-after-14-years) · `en`
-
-A person has been sentenced to death after being found guilty over an incident of causing serious injuries to his wife, a mother-of-two, by assaulting her and setting her on fire after dousing her with kerosene inside a room of their house.
-
-This order was issued by the North Central Provincial High Court Judge Manoj Thalgodapitiya.
-
-The Attorney General had filed indictments against the accused before Anuradhapura High Court as per Section 296 of the Penal Code, charging him with assault and causing serious injuries which led to death by setting his wife on fire after dousing her with kerosene in the Thammennawa area on 26 January, 2010.
-
-Issuing the verdict, the judge stated that the prosecution had been able to prove the allegations against the accused beyond reasonable doubt.
-
-The preliminary hearing of this case was held before the Thambuttegama Magistrate’s Court and later referred to the Anuradhapura High Court for further hearing after filing of the indictments by the Attorney General.
-
-...
-
-[Data](articles/c2697f0d.json)
-
-[Extended Data](ext_articles/c2697f0d.ext.json)
-
----
-
-### Lohan gets new State Minister post
-
-*2024-01-29 11:34:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/lohan-gets-new-state-minister-post/) · `en`
-
-COLOMBO (News 1st); Lohan Ratwatte has been sworn in as the State Minister of Plantation Industries and Mahaweli Development in the presence of President Ranil Wickremesinghe.
-
-The post of State Minister of Mahaweli Development was held previously by former Minister Roshan Ranasinghe, and the Ministerial post of Plantation Industries was held by Minister of Agriculture Mahinda Amaraweera.
-
-Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
-
-◼️
-
-[Data](articles/149402ed.json)
-
-[Extended Data](ext_articles/149402ed.ext.json)
 
 ---

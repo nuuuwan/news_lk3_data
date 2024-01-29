@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 10:02:21**
+As of **2024-01-29 10:17:22**
 
 ## Newspaper Stats
 
-*Scraped **3,195** Articles*
+*Scraped **3,203** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,13 +12,13 @@ colombotelegraphcom | 43
 bbccomsinhala | 53
 dbsjeyarajcom | 125
 economynextcom | 174
-newsfirstlk | 184
 islandlk | 185
+newsfirstlk | 190
 dailyftlk | 223
 adalk | 291
 adaderanasinhalalk | 335
 virakesarilk | 335
-tamilmirrorlk | 401
+tamilmirrorlk | 403
 adaderanalk | 413
 dailymirrorlk | 433
 
@@ -26,11 +26,29 @@ dailymirrorlk | 433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,195 (100.0%) of 3,195 articles have been extended.
+3,195 (99.8%) of 3,203 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### மாவனல்லையில் 30 கடைகள் எரிந்து நாசம்
+
+*2024-01-29 09:36:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவனல்லையில்-30-கடைகள்-எரிந்து-நாசம்/175-332256) · `ta`
+
+மாவனல்லை நகரின் பிரதான பஸ் நிலையத்திற்கு முன்பாக நேற்று (28) இரவு திடீரென தீ விபத்து ஏற்பட்டுள்ளது.
+
+விரைந்து செயல்பட்ட பொலிஸார், மாவனல்லை பிரதேச சபையின் தீயணைப்பு பிரிவு மற்றும் பிரதேசவாசிகள் இணைந்து தீயை கட்டுப்பாட்டுக்குள் கொண்டுவந்தனர்.
+
+பழங்கள், நகைகள் மற்றும் பிளாஸ்டிக் பொருட்களின் விற்பனை செய்யும் பல கடைகள் இந்த தீயில் எரிந்து நாசமானது.
+
+தீ விபத்துக்கான காரணம் இதுவரையில் கண்டறியப்படவில்லை என்பதுடன், மாவனெல்ல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/073f5b28.json)
+
+---
 
 ### 11 days of her infule, parents flect
 
@@ -132,6 +150,24 @@ Students aged 23, 24 and 25 from Morawaga, Rukuhawa, Alutarama, Imamuwa and Kita
 
 ---
 
+### Negotiations with Somali Navy to free Sri Lankan fishermen
+
+*2024-01-29 08:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/negotiations-with-somali-navy-to-free-sri-lankan-fishermen/) · `en`
+
+COLOMBO (News 1st); The Sri Lanka High Commission in Kenya said negotiations are ongoing with the Somali Navy for the safe release of the fishermen of 'Lorenzo Putha 04', who were abducted by Somali pirates.
+
+Sri Lankan High Commissioner to Kenya V. Kananathan said the High Commission along with the Sri Lankan Mission in Ethiopia is actively engaged in a close collaboration with the Navy Chief of Somalia Admiral Abdiwarsame Osman to secure the safe release of the Sri Lankan nationals.
+
+The High Commission said the latest information as per the Somali Navy Chief Admiral Osman is that he has informed the European Union Navy Joint Operations Center (EU Navy JOC) through their Liaison Officer about the ongoing efforts to address the situation and ensure the safe return of the abducted Sri Lankans.
+
+He said the collaborative efforts between the Sri Lankan and Somali authorities demonstrate a commitment to maritime security and the safety of individuals affected by acts of piracy.
+
+...
+
+[Data](articles/9122241f.json)
+
+---
+
 ### Increase in accidents
 
 *2024-01-29 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192685) · `si`
@@ -152,6 +188,22 @@ Avoidance to prevent everyone should focus on it, Specialist Samaithunga said.
 
 ---
 
+### 17 தொழிற்சங்கங்கள் இன்று தொழிற்சங்க நடவடிக்கை
+
+*2024-01-29 08:14:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/17-தொழிற்சங்கங்கள்-இன்று-தொழிற்சங்க-நடவடிக்கை/175-332255) · `ta`
+
+அரச நிறைவேற்று அதிகாரி சேவை பிரிவை சேர்ந்த அதிகாரிகள் இன்றைய தினம் சுகயீன விடுமுறையை அறிவித்து தொழிற்சங்க நடவடிக்கையில் ஈடுபட தீர்மானித்துள்ளனர்.
+
+சம்பள முரண்பாடுகளை தீர்த்தல், அடிப்படை வேதனத்தை உயர்த்துதல் மற்றும் அதிகரித்துள்ள வரிச்சுமையை குறைத்தல் உள்ளிட்ட பல கோரிக்கைகளை முன்வைத்து இந்த தொழிற்சங்க நடவடிக்கையை முன்னெடுக்கவுள்ளதாக ஒன்றிணைந்த அரச நிறைவேற்று அதிகாரிகளின் கூட்டமைப்பு தெரிவித்துள்ளது.
+
+இதன்படி அரச பொறியியலாளர் சங்கம், ஆயுர்வேத உத்தியோகத்தர் சங்கம், கால்நடை வைத்திய அதிகாரிகள் சங்கம், கட்டட நிபுணர்கள் சங்கம், உள்நாட்டு வருமானவரி தொழிற்சங்க ஒன்றியம், கணக்காளர் சேவைகள் சங்கம் உட்பட 17 தொழிற்சங்கங்கள் குறித்த தொழிற்சங்க நடவடிக்கையில் இணையவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/ae27ac1c.json)
+
+---
+
 ### All executives of the public sector get sick today
 
 *2024-01-29 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192684) · `si`
@@ -169,6 +221,50 @@ The Joint Committee of Government Executive Officers should be resolved expediti
 [Data](articles/624530d2.json)
 
 [Extended Data](ext_articles/624530d2.ext.json)
+
+---
+
+### One dead, five injured in an accident in Sella Kataragama
+
+*2024-01-29 08:09:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/one-dead-five-injured-in-an-accident-in-sella-kataragama/) · `en`
+
+COLOMBO (News 1st); One person has died and five others have sustained injuries when a van met with an accident in Sella Kataragama.
+
+Police said the van driving towards Kataragama from Sella Kataragama collided with a motorcycle parked near the road, two trees and a truck.
+
+Police said six people, including the driver of the van, were admitted to hospital, and one of them succumbed to injuries.
+
+Police added that the others were transferred to the Hambantota Hospital for further treatment.
+
+Measures being taken to address issues related to tax registration
+
+Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
+
+◼️
+
+[Data](articles/98fcde41.json)
+
+---
+
+### Measures being taken to address issues related to tax registration
+
+*2024-01-29 08:06:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/measures-being-taken-to-address-issues-related-to-tax-registration/) · `en`
+
+COLOMBO (News 1st); State Minister of Finance Ranjith Siyambalapitiya said although measures have been taken to provide a Taxpayer Identification Number (TIN) for all citizens above 18 years of age, several issues have been identified in this regard.
+
+The State Minister said the lack of equipment and human resources at the Inland Revenue Department are among the identified issues.
+
+During a review meeting held at the President's Office last week, permission was granted to hire personnel for the Inland Revenue Department and to hire university graduates as trainees with a fair payment, as a solution to these issues.
+
+State Minister Siyambalapitiya said measures were taken to ensure the tax registration and related work will not be disrupted.
+
+He added that measures will be taken to issue the Taxpayer Identification Number using data collected by the Department for Registration of Persons and the Department of Motor Traffic.
+
+Measures being taken to address issues related to tax registration
+
+...
+
+[Data](articles/ebac600b.json)
 
 ---
 
@@ -197,6 +293,26 @@ Meanwhile, passengers have been transported by buses belonging to the Sri Lanka 
 [Data](articles/67c15abe.json)
 
 [Extended Data](ext_articles/67c15abe.ext.json)
+
+---
+
+### Fire destroys around 30 shops in Mawanella town
+
+*2024-01-29 08:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/fire-destroys-around-30-shops-in-mawanella-town/) · `en`
+
+COLOMBO (News 1st); A fire broke out in a row of shops in Mawanella town on Sunday (28) night.
+
+The fire broke out in a row of clothes, plastic and fruit shops behind the bus stand in Mawanella town.
+
+The fire was extinguished using fire engines belonging to the Mawanella Pradeshiya Sabha.
+
+Measures being taken to address issues related to tax registration
+
+Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
+
+◼️
+
+[Data](articles/ce844753.json)
 
 ---
 
@@ -272,6 +388,24 @@ Biden later asked for a moment of silence for the three killed service members d
 
 ---
 
+### Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
+
+*2024-01-29 07:54:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/sri-lankan-wins-best-director-award-at-22nd-dhaka-international-film-festival/) · `en`
+
+COLOMBO (News 1st); Sri Lankan film director Jagath Manuwarna Kodithuwakku has won the Best Director Award at the 22nd Dhaka International Film Festival, for the movie 'Whispering Mountains'.
+
+Jagath Manuwarna's "Whispering Mountains" has won several international awards in the past as well, including at the 52nd Rotterdam International Film Festival.
+
+Measures being taken to address issues related to tax registration
+
+Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
+
+◼️
+
+[Data](articles/846f8e03.json)
+
+---
+
 ### The singer of the heart goes home
 
 *2024-01-29 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192681) · `si`
@@ -309,6 +443,26 @@ The Department of Meteorology has announced that rain or thunderstorms will occu
 [Data](articles/5c4eb458.json)
 
 [Extended Data](ext_articles/5c4eb458.ext.json)
+
+---
+
+### ICC lifts ban imposed on Sri Lanka Cricket
+
+*2024-01-29 07:37:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/icc-lifts-ban-imposed-on-sri-lanka-cricket/) · `en`
+
+COLOMBO (News 1st); The International Cricket Council (ICC) Board has lifted the suspension of Sri Lanka Cricket (SLC) with immediate effect.
+
+Issuing a statement the ICC said SLC was suspended in November for being in serious breach of its obligations as an ICC Member, in particular, the requirement to manage its affairs autonomously and ensure that there is no government interference in the governance, regulation and / or administration of cricket in Sri Lanka.
+
+The ICC statement added that the Board have been monitoring the situation since the suspension and are now satisfied that SLC are no longer in breach of membership obligations.
+
+Measures being taken to address issues related to tax registration
+
+Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
+
+◼️
+
+[Data](articles/16d2d7b3.json)
 
 ---
 
@@ -1791,175 +1945,5 @@ Following the fatal collision, three injured persons, including the State Minist
 [Data](articles/2578a9b7.json)
 
 [Extended Data](ext_articles/2578a9b7.ext.json)
-
----
-
-### Climate change activists aim soup at ‘Mona Lisa’ in Paris Louvre
-
-*2024-01-28 18:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96799/climate-change-activists-aim-soup-at-mona-lisa-in-paris-louvre) · `en`
-
-Two climate change activists hurled soup at the protective glass in front of the world-famous “Mona Lisa” painting in Paris’ Louvre museum on Sunday.
-
-Video footage showed two women flinging red soup at Leonard da Vinci’s masterpiece, to gasps from onlookers.
-
-“What is more important? Art or the right to have a healthy and sustainable food system?” shouted the activists, speaking in French. They had ducked under a security barrier to get as close as they could to the painting and were led away by Louvre security guards.
-
-The activists represented the French organisation “Riposte Alimentaire” (Food Response), which issued a statement saying the protest sought to highlight the need to protect the environment and sources of food.
-
-In recent years, many activists have targeted art to raise awareness about climate change.
-
-The glass in front of the “Mona Lisa” was smothered in cream in a protest in May 2022.
-
-...
-
-[Data](articles/a8ce9768.json)
-
-[Extended Data](ext_articles/a8ce9768.ext.json)
-
----
-
-### Rs.
-
-*2024-01-28 18:06:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கூடாத-உறவுக்கு-ரூ-40-000-சம்பளம்-படோவிட-ஆஷா-கைது/175-332232) · `ta`
-
-In the name of the prisoner, the house of the Boraleskamuwa section on the road on the road. A woman named Badovitta Asha, a large -scale drug dealer, has been arrested in connection with the sale of heroin with the prisoner, according to the Panadura Central Anti -Central Anti -Central Anti -Central Anti -Central Anti -Central Anti -Central Act.
-
-4054 milligrams of heroin, worth Rs 5 lakhs from the suspect's house, and Rs.
-
-The woman sells the drug obtained through Marvin Jana, who is engaged in a huge drug trade in Dubai.
-
-While the woman was in prison, there was a relationship with the prisoner who was on duty.. After leaving jail, he rented a house in the name of the prisoner. Investigations have revealed that the woman pays 40 thousand rupees a month to the prison police.
-
-◼️
-
-[Data](articles/cbf99986.json)
-
-[Extended Data](ext_articles/cbf99986.ext.json)
-
----
-
-### Italian Jannik Sinner beats Daniil Medvedev in the Australian Open final to win his first Grand Slam title
-
-*2024-01-28 18:06:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/28/italian-jannik-sinner-beats-daniil-medvedev-in-the-australian-open-final-to-win-his-first-grand-slam-title/) · `en`
-
-Colombo (News 1st) – Jannik Sinner beat Daniil Medvedev 3-6 3-6 6-4 6-4 6-3 to win the Australian Open men's singles title in Melbourne, coming back from two sets down.
-
-Italian fourth seed Sinner, 22, who knocked out 10-time champion Novak Djokovic in the semi-finals, was appearing in his first major final.
-
-Third seed Medvedev, appearing in his sixth Grand Slam final, had been seeking his second major title.
-
-Three US soldiers killed, 25 injured in drone attack in Jordan
-
-Italian Jannik Sinner beats Daniil Medvedev in the Australian Open final to win his first Grand Slam title
-
-110 Commitments Loom as Sri Lanka Makes Strides on IMF Bailout
-
-◼️
-
-[Data](articles/641d654f.json)
-
-[Extended Data](ext_articles/641d654f.ext.json)
-
----
-
-### Phase one of Uma Oya project completed – Minister
-
-*2024-01-28 18:05:00* · [`adaderanalk`](https://www.adaderana.lk/news/96798/phase-one-of-uma-oya-project-completed-minister-) · `en`
-
-Phase one of the Uma Oya project has been completed, with the first unit of the two-turbine hydro-project having been connected to the National Grid on Saturday (27 Jan.), Power and Energy Minister Kanchana Wijsekera revealed.
-
-Taking to ‘X’ (formerly Twitter), the Minister revealed that the first unit turbine of 60MW, of the 120MW Uma Oya hydro-project was completed yesterday, despite the extended delays caused due to various factors.
-
-“With the long delays due to the challenges of political protests against the project, covid pandemic & the financial crisis the project teams & officials have been able to successfully complete phase one”, the Minister said, adding that phase two of the project is expected to be completed by mid-February.
-
-◼️
-
-[Data](articles/0fff01dd.json)
-
-[Extended Data](ext_articles/0fff01dd.ext.json)
-
----
-
-### Attack on the world famous
-
-*2024-01-28 18:03:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192664) · `si`
-
-Lonoado Dawinchi painted the wooden temple painting has been thrown into a bowl of soup.
-
-The painting at the French French Museum has launched two of the two protesters who expressed food security.
-
-The French media reported that the security of a bulletproof glass cover cannot be harmed.
-
-The 16th century painting is considered the most popular painting of the world.
-
-◼️
-
-[Data](articles/484b0afc.json)
-
-[Extended Data](ext_articles/484b0afc.ext.json)
-
----
-
-### Rail freight rates to increase from February
-
-*2024-01-28 18:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rail-freight-rates-to-increase-from-February/108-275846) · `en`
-
-A gazette notification was issued today by the Transport Ministry amending the transport charges of parcels, goods, livestock, etc. via train with effect from February 1.
-
-The amendments were made according to the Railways Ordinance (Chapter 200) with the concurrence of Finance Minister Bandula Gunawardana.
-
-◼️
-
-[Data](articles/b7db14da.json)
-
-[Extended Data](ext_articles/b7db14da.ext.json)
-
----
-
-### Missing the young man;Relatives looking for
-
-*2024-01-28 17:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175012) · `ta`
-
-A complaint has been lodged at the Chunnakam police station by his relatives that a 27 -year -old youth from Jaffna is missing.
-
-His relatives have complained that the young man has disappeared since Thursday 26th.
-
-Relatives of the youth report that the young man was wearing a yellow teaser and a black half -man on the day of the disappearance of the youth.
-
-Relatives have been asked to announce him to the Chunnakam Police Station or the telephone number 077-2690673 or 077-6523229.
-
-◼️
-
-[Data](articles/6ed63ec3.json)
-
-[Extended Data](ext_articles/6ed63ec3.ext.json)
-
----
-
-### Couple remanded for financial fraud
-
-*2024-01-28 17:50:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192663) · `si`
-
-The couple remanded for defraging the people of Galenbindunuwewa area.
-
-The suspect and the suspect been produced before the Kahatagasdigiliya Acting Magistrate today.
-
-The order has been ordered to be remanded until the 5th.
-
-A person and his mistress of the Illegal Asset Investigation Division has been arrested by the Illegal Fraud Division in the Illegal Asset Investigation Division for defrauding a higher interest.
-
-The man was cheated with a Phiramyadkara Financial Institution of Treadwinnuvuwewa area.
-
-It is reported that he has stayed with its mistress in Pilimatalawa, Kandy after defrauding the money.
-
-800 lakhship deposit has been conducted in the name of the mistress.
-
-His casual wife was arrested on charges of investing cheating.
-
-◼️
-
-[Data](articles/e33ab4d4.json)
-
-[Extended Data](ext_articles/e33ab4d4.ext.json)
 
 ---

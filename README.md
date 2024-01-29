@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 01:50:24**
+As of **2024-01-30 02:02:29**
 
 ## Newspaper Stats
 
-*Scraped **3,382** Articles*
+*Scraped **3,392** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 125
 islandlk | 185
 economynextcom | 187
 newsfirstlk | 203
-dailyftlk | 223
+dailyftlk | 233
 adalk | 312
 adaderanasinhalalk | 360
 virakesarilk | 368
@@ -26,11 +26,161 @@ dailymirrorlk | 461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,382 (100.0%) of 3,382 articles have been extended.
+3,382 (99.7%) of 3,392 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### SJB not prepared to form national Govt. – Mujibur
+
+*2024-01-30 00:39:12* · [`dailyftlk`](https://www.ft.lk/news/SJB-not-prepared-to-form-national-Govt-Mujibur/56-757919) · `en`
+
+Says any party with sound judgement will not form a national Govt. with group which bankrupted country
+
+Accuses Govt. of attempting to attract Opposition MPs to join its fold
+
+Claims under the guise of forming a national consensus Govt. is attempting to direct public opposition against it with Opposition
+
+Says Govt. and President, lacking a mandate, are employing various tactics to stay in power
+
+Samagi Jana Balawegaya (SJB) Deputy General Secretary Mujibur Rahman said the party is unwilling to enter into a national Government with the present administration which bankrupted the country, asserting that anyone with sound judgement would refrain from taking such a course of action.
+
+During a press conference at the Opposition Leader’s office over the weekend, Rahman noted that the Government is trying to attract Opposition MPs and, under the guise of the term “national consensus,” share the public’s opposition against the Government with the Opposition.
+
+...
+
+[Data](articles/8bfd8ee6.json)
+
+---
+
+### Ex-Army Chief joins SJB
+
+*2024-01-30 00:38:34* · [`dailyftlk`](https://www.ft.lk/news/Ex-Army-Chief-joins-SJB/56-757918) · `en`
+
+Former Army Commander General R.M. Daya Ratnayake met with Samagi Jana Balawegaya (SJB) leader Sajith Premadasa yesterday and extended his support to the main opposition party.
+
+Ratnayake served as the Commander of the Sri Lanka Army from 2013 to 2015.
+
+Following his retirement from the army, he served as the Chairman of the Sri Lanka Ports Authority and Secretary to the Ministry of Industries under the Government of former President Gotabaya Rajapaksa.
+
+The party announced that Premadasa has now appointed Ratnayake as a senior advisor to the SJB on State affairs.
+
+Ratnayake, an alum of Maliyadeva College, Kurunegala, commenced his military journey as an officer cadet in 1980. He received his commission as a second lieutenant in 1981 in the Sri Lanka Light Infantry. During the armed conflict, he held significant roles in the operations for the Liberation of Vakare and Thoppigala. On 1 August 2013, he assumed the position of the 20th Commander of the Sri Lanka Army.
+
+◼️
+
+[Data](articles/881bb029.json)
+
+---
+
+### Seychelles Coast Guard rescues lost fishing vessel ’’Lorenzo Putha 4’’ and Lankans in Arabian Sea
+
+*2024-01-30 00:37:37* · [`dailyftlk`](https://www.ft.lk/news/Seychelles-Coast-Guard-rescues-lost-fishing-vessel-Lorenzo-Putha-4-and-Lankans-in-Arabian-Sea/56-757917) · `en`
+
+The Government said yesterday it received notification that the vessel "Lorenzo Putha 4," previously lost in the Arabian Sea, has been successfully rescued by the Seychelles Coast Guard.
+
+The Seychelles Navy officially communicated this information to the Chief of Presidential Staff and Senior Advisor to the President on National Security  Sagala Ratnayaka.
+
+The multi-day fishing vessel "Lorenzo Putha 4" commenced its maiden voyage from the Dikovita fishing harbour on 12 January carrying six fishermen. According to the Department of Fisheries, the vessel was hijacked by Somali pirates in the Arabian Sea, approximately 1,160 nautical miles from land.
+
+Consequently, the Sri Lanka Navy informed the joint maritime force, consisting of 40 countries located in Bahrain, to investigate the missing vessel. The Seychelles Coast Guard initiated a special operation to locate the "Lorenzo Putha 4," successfully finding the vessel in the possession of Somali pirates.
+
+...
+
+[Data](articles/f9973f04.json)
+
+---
+
+### USAID, CCC with SLEDB equip officers to boost regional SME exports
+
+*2024-01-30 00:36:51* · [`dailyftlk`](https://www.ft.lk/business/USAID-CCC-with-SLEDB-equip-officers-to-boost-regional-SME-exports/34-757916) · `en`
+
+The United States Agency for International Development (USAID)’s Partnership for Accelerating Results in Trade, National Expenditure, and Revenue (PARTNER) activity, with the Ceylon Chamber of Commerce (CCC), have completed an on-the-job coaching program for 50 Development Officers (DOs) attached to the Sri Lanka Export Development Board (SLEDB).
+
+At an award ceremony on 18 January, SLEDB, USAID PARTNER and CCC, recognised the officers for completion of the coaching program, which included a three-day residential program followed by a one-month “self-coaching program” guided by experienced master coaches. The coaching prepared the officers to mentor other DOs attached to the SLEDB tasked with uplifting the export potential of regional small and medium enterprises (SMEs) in Sri Lanka.
+
+...
+
+[Data](articles/6a582663.json)
+
+---
+
+### B&N in exclusive channel partnership to market N9 World Technologies products in SL
+
+*2024-01-30 00:36:07* · [`dailyftlk`](https://www.ft.lk/business/B-N-in-exclusive-channel-partnership-to-market-N9-World-Technologies-products-in-SL/34-757915) · `en`
+
+B&N has successfully obtained an exclusive channel partnership to distribute and market products from N9 World Technologies (N9) in Sri Lanka, establishing a robust alliance poised to reshape the textile industry standards.
+
+Driven by a mutual dedication to innovation and sustainability, this partnership pledges to provide unparalleled value to customers and stakeholders in both the Sri Lankan and Bangladeshi textile manufacturing sectors.
+
+...
+
+[Data](articles/c4c028ac.json)
+
+---
+
+### Exterminators appoints globally recognised digital pest technologist to Board
+
+*2024-01-30 00:35:57* · [`dailyftlk`](https://www.ft.lk/business/Exterminators-appoints-globally-recognised-digital-pest-technologist-to-Board/34-757914) · `en`
+
+Exterminators PLC has announced the appointment of globally recognised digital pest technologist Jacob Carel Laubscher as an ‘Independent Director’, effective 24 January.
+
+The company said this decision reflects its commitment to staying at the forefront of technological advancements in the pest management industry and ensuring the highest level of expertise in its leadership team.
+
+Jacob brings a wealth of knowledge and expertise to our organisation. His background in mechatronics and IT engineering, coupled with his specialisation in AI-powered digital pest management platforms in Europe, America, and Asia, makes him a valuable addition to our team.
+
+Jacob’s previous roles in support and sales have provided him with a deep understanding of the international pest management landscape and the rapidly evolving technology within the field. He has over 13 years of experience in the global pest management software industry and digital platforms.
+
+...
+
+[Data](articles/3f34ed7d.json)
+
+---
+
+### APTA business leaders and professionals initiate green business circle
+
+*2024-01-30 00:34:55* · [`dailyftlk`](https://www.ft.lk/business/APTA-business-leaders-and-professionals-initiate-green-business-circle/34-757913) · `en`
+
+Key speakers of the First Asia-Pacific Business Cooperation and Development Forum
+
+The Asia-Pacific Trade Agreement Chamber of Commerce and Industry (APTA CCI) conducted the First Asia-Pacific Business Cooperation and Development Forum in Chengdu, China under the theme of “Advancing economic globalisation in the Asia-Pacific and building a green economic circle in the Asia-Pacific.
+
+...
+
+[Data](articles/e02684fb.json)
+
+---
+
+### Is a “production economy” the solution?
+
+*2024-01-30 00:07:59* · [`dailyftlk`](https://www.ft.lk/columns/Is-a-production-economy-the-solution/4-757912) · `en`
+
+Is the Government capable of identifying what we should produce for export? Isn’t it better to leave that to the entrepreneurs? What can the Government do? Remove whatever barriers enterprises face. If information gaps exist, help bridge them. But in many cases the most helpful thing Government can do is to improve infrastructure services
+
+Every few years, Sri Lanka’s weakness in manufacturing comes up as the cause of our economic malaise. Economic growth through services is not real, they argue. In the most recent iteration, the slogan is that of a production economy, code for manufacturing.
+
+...
+
+[Data](articles/ef2be76e.json)
+
+---
+
+### Politics without substance or substance without politics? People have a choice
+
+*2024-01-30 00:05:16* · [`dailyftlk`](https://www.ft.lk/columns/Politics-without-substance-or-substance-without-politics-People-have-a-choice/4-757910) · `en`
+
+It will be interesting to make an assessment of what Sri Lankan leaders have been demonstrating vis a vis the ideals and objectives of the World Economic Forum
+
+Sri Lankans need to be told the truth by all political parties. Their credibility will hinge on this. Solutions to address this truth might be different, but they need to be based on the true situation the country is in. What is the true situation? It is that the country is in debt to the hilt, its current GDP growth would not allow it to repay the debts, and if they are not honoured, the country will not be able to borrow any more even for development work, let alone for consumption
+
+The Annual Meeting of the World Economic Forum for the year 2024 is held from 15-19 January in Davos, Switzerland, under the theme ‘Rebuilding Trust’. It aims to restore collective agency, and reinforce the fundamental principles of transparency, consistency, and accountability among leaders.
+
+...
+
+[Data](articles/ad62759a.json)
+
+---
 
 ### “Yukthiya” Cannot Succeed without the Cooperation of the Masses
 
@@ -109,6 +259,20 @@ Due to this, the Kandy road has been completely blocked in front of Kelaniya Uni
 [Data](articles/3bc01f83.json)
 
 [Extended Data](ext_articles/3bc01f83.ext.json)
+
+---
+
+### A crisis of confidence
+
+*2024-01-29 22:46:22* · [`dailyftlk`](https://www.ft.lk/columns/A-crisis-of-confidence/4-757888) · `en`
+
+The hills are alive in Davos, with the sounds of failure. Conversations used to be about taking advantage of the global playing field that US presidents and their allies were seeking to build after World War II and after the end of the Cold War. Companies now, and countries themselves, are seeking to understand how to ameliorate the risks of a new, emerging, seemingly chaotic world order.
+
+Yes, it was recently that time of year, as corporate chieftains, policy makers, NGO “warriors”, so-called journalists and self-styled intellectuals went invading the Swiss Alps for the 54th annual meeting of the World Economic Forum. Their anthem was “rebuilding trust.” After devastating trust on so many fronts this was a bold aspiration.
+
+...
+
+[Data](articles/61b7d88a.json)
 
 ---
 
@@ -1827,227 +1991,5 @@ During the time of 6 to 8 am, the Generated position of the Hoton Plains area of
 [Data](articles/fd6f5d0e.json)
 
 [Extended Data](ext_articles/fd6f5d0e.ext.json)
-
----
-
-### No new indirect taxes will be introduced – State Minister
-
-*2024-01-29 14:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96823/no-new-indirect-taxes-will-be-introduced-state-minister-) · `en`
-
-State Minister of Finance Ranjith Siyambalapitiya has stated that the government has no intentions to implement any new indirect taxes that would escalate the prices of goods.
-
-Speaking to the media in Kegalle on Monday (29 Jan.), Siyambalapitiya further assured that the state has no intention to further increase the current tax percentages, and is instead focused on increasing state revenue.
-
-Commenting further in this regard, the State Minister explained that the cost of goods will not increase as a result of a hike in indirect taxes any longer, and instead, will likely be affected by factors such as the demand and supply of goods.
-
-“We are working in a manner to increase state revenue, and resultantly reduce the percentage of indirect taxes, so that we can reduce the burden on the people”, Siyambalapitiya said.
-
-The State Minister also noted that a new property tax is slated to be introduced in 2025.
-
-...
-
-[Data](articles/e8ae4d86.json)
-
-[Extended Data](ext_articles/e8ae4d86.ext.json)
-
----
-
-### 1212 millionaires were evicted
-
-*2024-01-29 14:15:11* · [`adalk`](https://www.ada.lk/breaking_news/කෝටිපතියන්-1212ක්-බදු-පැහැර-හැරලා/11-407779) · `si`
-
-The country's super-rich has ruined 1212 millionaires due to the borrowings of VAT and the Gi-Genuine Bank of Debt.The Opposition Leader said.
-
-But the Opposition Leader added that the Parade law is brought to the private property of the small and medium scale industry.
-
-The Opposition Leader said that the massive immortality of the people of the country would never forget the country's bodies for the country's bodies.
-
-The Opposition Leader said that the country who lived from terrorism has been submerged from economic terrorism and the war heroes have a significant role in the corrupt destructive bribe.
-
-Opposition Leader Sajith Premadasa also said that the country needs a humanitarian operation once again.
-
-The Opposition Leader addressed the Ranaviru Conference held at the Kagale.
-
-The Opposition Leader said that due to the increase in tax burden to increase the tax burden to increase the country's tax burden and that the terrorists were fully recovered from the country.
-
-◼️
-
-[Data](articles/f4a77963.json)
-
-[Extended Data](ext_articles/f4a77963.ext.json)
-
----
-
-### Minister of State for Lohan Ratwatte
-
-*2024-01-29 14:11:21* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-රත්වත්තේට-යළිත්-රාජ්‍ය-අමාත්‍යධුරයක්/11-407778) · `si`
-
-Lohan Ratwatte as the State Minister of Plantation and Mahaweli Development in the Presidential Secretariat today (29) at the Presidential Secretariat before President Ranil Wickremesinghe. Presidential Secretary Saman Ekanayake was also present on the occasion.
-
-◼️
-
-[Data](articles/16e85c30.json)
-
-[Extended Data](ext_articles/16e85c30.ext.json)
-
----
-
-### Notice of new tax
-
-*2024-01-29 14:06:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/புதிய-வரி-தொடர்பில்-வெளியான-அறிவிப்பு/52-332269) · `ta`
-
-Finance Minister Ranjith Siyambalapitiya said the government had no intention of introducing indirect taxes in the future or increasing the tax percentage.
-
-The Minister of Finance said that the cost of goods would not rise due to indirect taxation and the price of goods would be determined based on the demand and distribution of goods.
-
-Meanwhile, he said that the new property tax is expected to be introduced by 2025.
-
-He pointed out that the property tax is direct tax and that the tax will be charged to the higher property holders.
-
-◼️
-
-[Data](articles/4c100549.json)
-
-[Extended Data](ext_articles/4c100549.ext.json)
-
----
-
-### Fishing boat hijacked by pirates: Sri Lankan diplomats in talks with Somali authorities
-
-*2024-01-29 14:04:00* · [`adaderanalk`](https://www.adaderana.lk/news/96822/fishing-boat-hijacked-by-pirates-sri-lankan-diplomats-in-talks-with-somali-authorities) · `en`
-
-“Sri Lanka’s diplomats are talking with Somali authorities trying to ascertain the whereabouts of a fishing vessel and its six crewmembers suspected of being abducted by Somali pirates two days ago,” officials said on January 29.
-
-The apparent abduction came two weeks after Sri Lanka said it would join a U.S.-led operation to protect merchant vessels sailing in the Red Sea against attacks by Yemen-based Houthi rebels.
-
-Other suspected hijackings in waters off Somalia have raised concern that Somali pirates have resumed activity, a decade after they caused chaos in international shipping.
-
-The hijacking of the Sri Lankan vessel occurred in international waters about 840 nautical miles (1,555 km) east of Somalia, 1,100 nautical miles (2,040 km) from Sri Lanka and north of Seychelles, according to Sri Lankan navy spokesman Capt. Gayan Wickramasuriya.
-
-“So far, we have no communication with them or no details on the whereabout of them,” he said.
-
-...
-
-[Data](articles/f7ec6143.json)
-
-[Extended Data](ext_articles/f7ec6143.ext.json)
-
----
-
-### Bail for students involved in sharing
-
-*2024-01-29 14:02:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடிவதையில்-ஈடுபட்ட-மாணவர்களுக்கு-பிணை/175-332268) · `ta`
-
-Students arrested in connection with the sharing of a student at Sabaragamuwa University have been released on bail.
-
-The suspects have been released on bail of Rs.
-
-A group of students aged 23, 24 and 25, who are educated in the fourth year of the Faculty of Social Science and Linguistics of the University, have been arrested.
-
-◼️
-
-[Data](articles/a76aa3ef.json)
-
-[Extended Data](ext_articles/a76aa3ef.ext.json)
-
----
-
-### Santhan at Trichy camp with worse restrictions than prisoners;-Family conditions are badly affected -family members who are unable to know
-
-*2024-01-29 14:02:00* · [`virakesarilk`](https://www.virakesari.lk/article/175045) · `ta`
-
-According to reports, Rajiv Gandhi has been sentenced to death after his release and then released at the Trichy special camp.
-
-However, Shantan's brother Mathisudha said that he had no full details of his health.
-
-There is no free things as they believed in the outside community with worse restrictions than inmates. He said
-
-After being admitted to the Emergency Unit of the Trichy Hospital, he was admitted to the Emergency Department of the Rajiv Gandhi State Hospital in Chennai.
-
-Previously, the kidneys and liver were said to have been affected by the liver.
-
-Only the lawyer is allowed to see. There is no free issues as they believe in the outside community.
-
-When did you finally contact - what did he say about his condition?
-
-There is no direct connection between us and him. All the news that is currently related to him is only the information provided by the lawyer who goes. They are not allowed to use the phone.
-
-...
-
-[Data](articles/a87cd89d.json)
-
-[Extended Data](ext_articles/a87cd89d.ext.json)
-
----
-
-### Depot Superintendent resigns 650 lakhs loans
-
-*2024-01-29 14:01:31* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-65ක-ණයක්-තිබූ-අපුර-ඩිපෝව-ලක්ෂ-650ක්-ඉතිරි-කරන-තැනට-පත්කළ-ඩිපෝ-අධිකාරී-ඉල්ලා-අස්වෙයි/11-407777) · `si`
-
-Anuradhapura depots, Anuradhapura Depot Sucretion of Anuradhapura Depot and many special services from the Sri Lanka Transport Board (SLT). Kaluarachchi has resigned from service.
-
-The Depot with a loan of Rs.
-
-He was also able to save the depot about Rs.
-
-A recent bus passenger operations have recently commenced two varieties of buses and the Sri Maha Bodhi pilgrimage and round bus services and the money passenger operations have been redeemed by the owner.
-
-In this four-year, the Rajarata Divisional tournament had been placed before the Anuradhapura Depot, the first place in the Rajarata Divisional Secretariat.
-
-As a personal reason, Ts. the ti-past-week resigned T. Kaluarachchi's full program period is twenty-four years.
-
-◼️
-
-[Data](articles/28124ee3.json)
-
-[Extended Data](ext_articles/28124ee3.ext.json)
-
----
-
-### Will defy all laws and begin another Aragalaya tomorrow: SJB
-
-*2024-01-29 13:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Will-defy-all-laws-and-begin-another-Aragalaya-tomorrow-SJB/155-275914) · `en`
-
-Colombo, Jan 29 (Daily Mirror) -  The Samagi Jana Balawegaya (SJB) will not take notice of any restrictions but will take to the streets tomorrow and fire the first shot towards overthrowing the present government, SJB General Secretary Ranjith Madduma Bandara said today.
-
-“The IGP or anyone else can impose any restriction but we will defy all laws and bring 50,000 people to Colombo tomorrow,” Madduma Bandara told a media briefing.
-
-“It was the SJB which pioneered the uprising in 2022 and we intend to do the same this time as well,” Madduma Banadara added.
-
-“We will not disclose where we will march towards now, but we will reveal it at the correct time tomorrow,” he added.
-
-Former MP Hirunika Premachandra who also participated in the briefing said the protest will be against suppressive legislations such as the Anti-Terrorism Bill, Online Safety Bill and increased taxes.
-
-“We will disclose where we are going  to surround at the right time,” she also said
-
-◼️
-
-[Data](articles/6c332996.json)
-
-[Extended Data](ext_articles/6c332996.ext.json)
-
----
-
-### Will defy all laws and begin another Aragalaya tomorrow: SJB
-
-*2024-01-29 13:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-defy-all-laws-and-begin-another-Aragalaya-tomorrow-SJB/108-275914) · `en`
-
-Colombo, Jan 29 (Daily Mirror) -  The Samagi Jana Balawegaya (SJB) will not take notice of any restrictions but will take to the streets tomorrow and fire the first shot towards overthrowing the present government, SJB General Secretary Ranjith Madduma Bandara said today.
-
-“The IGP or anyone else can impose any restriction but we will defy all laws and bring 50,000 people to Colombo tomorrow,” Madduma Bandara told a media briefing.
-
-“It was the SJB which pioneered the uprising in 2022 and we intend to do the same this time as well,” Madduma Banadara added.
-
-“We will not disclose where we will march towards now, but we will reveal it at the correct time tomorrow,” he added.
-
-Former MP Hirunika Premachandra who also participated in the briefing said the protest will be against suppressive legislations such as the Anti-Terrorism Bill, Online Safety Bill and increased taxes.
-
-“We will disclose where we are going  to surround at the right time,” she also said
-
-◼️
-
-[Data](articles/bb820fe1.json)
-
-[Extended Data](ext_articles/bb820fe1.ext.json)
 
 ---

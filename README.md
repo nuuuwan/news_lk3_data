@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 20:32:47**
+As of **2024-01-29 20:49:36**
 
 ## Newspaper Stats
 
-*Scraped **3,339** Articles*
+*Scraped **3,345** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,98 @@ economynextcom | 177
 islandlk | 185
 newsfirstlk | 203
 dailyftlk | 223
-adalk | 308
-adaderanasinhalalk | 353
+adalk | 309
+adaderanasinhalalk | 355
 virakesarilk | 362
-tamilmirrorlk | 420
+tamilmirrorlk | 422
 adaderanalk | 429
-dailymirrorlk | 455
+dailymirrorlk | 456
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,339 (100.0%) of 3,339 articles have been extended.
+3,339 (99.8%) of 3,345 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### පියත් නිකේෂල අත්අඩංගුවට
+
+*2024-01-29 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192709) · `si`
+
+සමාජ මාධ්‍ය ක්‍රියාකාරී පියත් නිකේෂල මහතා අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+සමාජ මාධ්‍ය නියාමන පනත යටතේ ගොනුකළ පැමිණිල්ලකට අනුව ප්‍රකාශයක් ලබාදීම සඳහා අද (29) ඔහු කොළඹ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව වෙත පැමිණ ඇත.
+
+◼️
+
+[Data](articles/67ecd7ea.json)
+
+---
+
+### Afghanistan name four uncapped players in squad for Sri Lanka
+
+*2024-01-29 20:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-name-four-uncapped-players-in-squad-for-Sri-Lanka/108-275926) · `en`
+
+Colombo, Jan 29 (ICC) - Senior Afghanistan spinner Rashid Khan will miss the one-off Test match against Sri Lanka as he continues to recover from a back surgery. Qais Ahmed, whose only Test came five years ago, has been named in the squad in place of Rashid.
+
+There are also four uncapped players in the squad, namely Noor Ali Zadran, Zia-ur-Rehman, Mohammad Ishaq and Naveed Zadran.
+
+Noor Ali, related to Mujeeb ur Rahman and Ibrahim Zadran, is the most experienced of the four with 74 international caps to his name in ODIs and T20Is. The 35-year-old is yet to make his Test debut. He, however, made his ODI debut as early as 2009, in Afghanistan's first ever ODI.
+
+Afghanistan's last Test came in June 2023, when they lost to Bangladesh by a huge margin. This will be their eighth Test match.
+
+Afghanistan's tour of Sri Lanka also includes three ODIs and as many T20Is, which follow the one-off Test.
+
+...
+
+[Data](articles/d9e3cd31.json)
+
+---
+
+### 10 வயது சிறுமியை துஷ்பிரயோகப்படுத்தியவருக்கு கடூழிய தண்டனை
+
+*2024-01-29 19:46:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-வயது-சிறுமியை-துஷ்பிரயோகப்படுத்தியவருக்கு-கடூழிய-தண்டனை/175-332295) · `ta`
+
+சகோதரனின் 10 வயதுடைய மகளை துஷ்பிரயோகத்திற்கு உட்படுத்திய சந்தேகநபருக்கு 50 ஆண்டுகள் கடூழிய சிறைத்தண்டனை விதிக்கப்பட்டுள்ளது.
+
+அத்துடன் பாதிக்கப்பட்ட சிறுமிக்கு 10 இலட்சம் ரூபாய் இழப்பீடு வழங்க வேண்டும் எனவும்  கண்டி மேல் நீதிமன்ற நீதிபதி தர்ஷிகா விமலசிறி இன்றைய தினம் உத்தரவிட்டுள்ளார்.
+
+அதனை செலுத்த தவறினால் குற்றவாளிக்கு மேலும் 2 ஆண்டுகள் சிறைத்தண்டனை விதிக்கப்படும் எனவும் நீதிபதி அறிவித்துள்ளார்.
+
+2018ஆம் ஆண்டு கண்டி - மஹாமுல்கம பகுதியில், குறித்த 10 வயதுடைய சிறுமியை அவர் பல தடவைகள் துஷ்பிரயோகத்திற்கு உட்படுத்தியுள்ளதாக தெரிவிக்கப்படுகின்றது.
+
+இந்தநிலையில், 37 வயதுடைய குறித்த சந்தேகநபருக்கு எதிராக 3 வழக்குகளின் கீழ் சட்டமா அதிபரால் 2018ஆம் ஆண்டில் வழக்கு தொடுக்கப்பட்டிருந்தமை குறிப்பிடத்தக்கது.. R
+
+◼️
+
+[Data](articles/74c6ee7c.json)
+
+---
+
+### பொது இடத்தில் பொலிஸ் அதிகாரியை தாக்கிய பெண் கைது
+
+*2024-01-29 19:31:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-இடத்தில்-பொலிஸ்-அதிகாரியை-தாக்கிய-பெண்-கைது/175-332294) · `ta`
+
+பொலிஸ் உத்தியோகத்தர் ஒருவரை தகாத வார்த்தைகளால் திட்டி பொலிஸ் உத்தியோகத்தரை தாக்க வந்த குற்றச்சாட்டில் பெண் ஒருவர் பொலிஸாரால் கைது செய்யப்பட்டுள்ளார்.
+
+இவ்வாறு ​​கைது செய்யப்பட்டவர் அவுஸ்திரேலியாவில் வசிக்கும் இலங்கைப் பெண் என கந்தர பொலிஸார் தெரிவித்தனர்.
+
+மாத்தறை தெவிநுவர பகுதியில் முச்சக்கரவண்டியில் பயணித்த பொலிஸ் உத்தியோகத்தர்கள் குழுவொன்று, தனது வாகனத்தின் பாதைக்கு இடையூறு விளைவித்ததாகக் கூறி குறித்த பெண் தான் பயணித்த வாகனத்தை நிறுத்தி பொலிஸ் உத்தியோகத்தருடன் வாக்குவாதத்தில் ஈடுபட்டுள்ளார்.
+
+குறித்த பெண் பயணித்த சொகுசு ஜீப்பை கந்தர பொலிஸ் நிலையத்திற்கு அருகில் பொலிஸ் உத்தியோகத்தர்கள் தடுத்து நிறுத்தியுள்ளனர்.
+
+அங்கு ஏற்பட்ட வாக்குவாதத்தின் போது, ​​குறித்த சந்தேக நபர் பொலிஸ் உத்தியோகத்தரின் மார்புப் பகுதியில் முழங்கையால் தாக்கியதால், குறித்த அதிகாரி வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+அதனையடுத்து, கந்தர பொலிஸார் சந்தேகநபரான பெண்ணைக் கைது செய்ததுடன், குறித்த ஜீப்பை பொலிஸ் காவலில் எடுத்துக்கொண்டனர். R
+
+◼️
+
+[Data](articles/e19fc30f.json)
+
+---
 
 ### ICJ to rule on jurisdiction in Russia-Ukraine genocide case
 
@@ -69,6 +145,24 @@ President’s Counsel is a professional rank and status conferred to the appoint
 [Data](articles/7964b467.json)
 
 [Extended Data](ext_articles/7964b467.ext.json)
+
+---
+
+### නවීන්ට ’’දේශ කීර්ති ශ්‍රී ශාසනාභිමානී ’’ නාමය
+
+*2024-01-29 19:14:35* · [`adalk`](https://www.ada.lk/breaking_news/නවීන්ට-’’දේශ-කීර්ති-ශ්‍රී-ශාසනාභිමානී-’’-නාමය/11-407785) · `si`
+
+සබරගමුව පළාත් ආණ්ඩුකාර අධිනීතිඥ නවින් දිසානායක මහතා සම්බුද්ධ ශාසනයටත් මනුෂ්‍ය  සමාජයටත් කරන ලද සේවාව වෙනුවෙන් "දේශ කීර්ති ශ්‍රී ශාසනාභිමානී " යන ගෞරව නාමයෙන් පිදුම් ලැබීය.
+
+රාමඤ්ඤ මහා නිකායේ 161 වැනි අනුස්මරණ මහෝත්සවයදි මහාවිහාර වංශීක ශ්‍රී ලංකා රාමඤ්ඤ මහා නිකායේ අතිපූජ්‍ය මහානායක අග්ගමහා පණ්ඩිත අතිපූජ්‍ය මකූලෑවේ විමල මාහිමිපාණන් වහන්සේ ප්‍රධාන කාරක මහා සංඝ සභාව විසින් ඔහුට මෙම ගෞරව නාමය පිරිනමන ලදී.
+
+රත්නපුර දිස්ත්‍රික් ලේකම් කාර්යාලය දි  ශ්‍රී ලංකා රාමඤ්ඤ මහා නිකායේ අතිපූජ්‍ය මහානායක අග්ගමහා පණ්ඩිත අතිපූජ්‍ය මකූලෑවේ විමල මහානායක හිමිපාණන්ගේ සුරතින් මහා සංඝරත්නය හි ආශිර්වාද මැද මෙම නාමය පිරිනමන ලදි.
+
+මෙම 161 වැනි නිකාය දින සැමරුම සදහා හිටපු කතානායක කරු ජයසුරිය මැතිතුමා ,අමාත්‍ය පවිත්‍රා දේවී වන්නිආරච්චි ,හිටපු අමාත්‍ය පාර්ලිමේන්තු මන්ත්‍රී තලතා අතුකෝරළ ,පාර්ලිමේන්තු මන්ත්‍රී ගාමිණී වලේබොඩ ,පාර්ලිමේන්තු මන්ත්‍රී ජයන්ත සමරවීර ,සබරගමුව පළාත් ප්‍රධාන ලේකම් මහින්ද ස් වීරසූරිය ,රත්නපුර දිස්ත්‍රික් ලේකම් ඇතුළු ගිහි පැවැදි විශාල පිරිසක් සහභාගි විය.
+
+◼️
+
+[Data](articles/6bf96f2d.json)
 
 ---
 
@@ -243,6 +337,24 @@ Sri Lanka Navy spokesman Captain Gayan Wickramasuriya says three Somali pirates 
 [Data](articles/01364836.json)
 
 [Extended Data](ext_articles/01364836.ext.json)
+
+---
+
+### අමෙරිකානු ඉහළ පෙළේ බලධාරින්ගේ මතයේ වෙනසක්
+
+*2024-01-29 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192708) · `si`
+
+ඊශ්‍රායලය වෙත ආයුධ සැපයීම ප්‍රමාද කිරීම කෙරෙහි අමෙරිකාවේ අවධානය යොමුව තිබේ.
+
+ඊශ්‍රායලයේ ඉල්ලීම මත ගාසා තීරයේ ප්‍රහාර සඳහා අමෙරිකාව විසින් මීට පෙර ආයුධ සපයා තිබුණි.
+
+කෙසේවෙතත් ඊශ්‍රායලය ඉල්ලා සිටින අධිබල බෝම්බ සහ ගුවන් ආරක්ෂණ පද්ධතිය ඇතුළු ආයුධ සැපයීම ප්‍රමාද කිරීම හෝ අත්හිටුවීම සිදුකළ යුතු බවට අමෙරිකානු ඉහළ පෙළේ බලධාරින්ගේ අවධානය යොමුව ඇති බව වාර්තා වෙයි.
+
+පලස්තීන වැසියන්ට මානුෂීය ආධාර සැපයීම සඳහා කොරිඩෝවක් විවෘත කරගැනීමට ඊශ්‍රායල බලධාරීන්ගේ අවධානය යොමුකරවීම අමෙරිකාවේ මෙම තීරණයේ අරමුණ වී ඇති බව විදෙස් මාධ්‍ය වාර්තා සඳහන් කරයි.
+
+◼️
+
+[Data](articles/db4c7b61.json)
 
 ---
 
@@ -1951,145 +2063,5 @@ Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
 [Data](articles/149402ed.json)
 
 [Extended Data](ext_articles/149402ed.ext.json)
-
----
-
-### Gazed recovery
-
-*2024-01-29 11:28:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொங்கிய-மனித-எலும்புக்கூடு-மீட்பு/76-332261) · `ta`
-
-The body parts of the person suspected of hanging in the Kohovila Kirikalpotha forest in Badulla have been found on Sunday afternoon, Kandegadera police said.
-
-The 40 -year -old man who is suspected of strangling her has been identified as Dinesh Ratnayake, a resident of Soranathota, Kedikahathanna and Kohovila, has been identified.
-
-When a man from the area went into the jungle on the 28th, the police said that Kandegaderatha police had reported to the police who had been hanged in a tree.
-
-Police said that the deceased went out of the house on September 19, claiming to go to work and had no information from the family.
-
-Police investigations have revealed that a part of the wire built to dry the clothes of the house was used to strangle.
-
-Police said the magistrate had been asked to investigate the place where the organs were found.
-
-◼️
-
-[Data](articles/e619e65a.json)
-
-[Extended Data](ext_articles/e619e65a.ext.json)
-
----
-
-### Recovery from garden well in Jaffna
-
-*2024-01-29 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175042) · `ta`
-
-A grandmother, who lives alone in the house, has been recovered from a garden well near the house on Sunday (28).
-
-Sivagnanam Kanagamani (age 71) from Karanawai south of Jaffna has been recovered.
-
-◼️
-
-[Data](articles/7a6679a5.json)
-
-[Extended Data](ext_articles/7a6679a5.ext.json)
-
----
-
-### Graduation Festival in Mullaithivu: Police investigated young man
-
-*2024-01-29 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175036) · `ta`
-
-During this time, the children were entertained from children to adults.
-
-A young man from Mullaitivu has loaded the title of Tamil Eelam Map and Karthika Poo's image system.
-
-The Mullaitivu police have gone to the spot and have investigated the youth.
-
-◼️
-
-[Data](articles/8823bd49.json)
-
-[Extended Data](ext_articles/8823bd49.ext.json)
-
----
-
-### Sri Lanka's first defeat to Aussie in the World Cup under the age of 19
-
-*2024-01-29 11:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175030) · `ta`
-
-Sri Lanka's first defeat in the C team in South Africa was the UCC under -19 World Cup cricket tournament.
-
-Sri Lanka lost by 6 wickets in Kimberley on Sunday (28) against Australia.
-
-Sri Lanka failed to shine in the 3 league matches so far and scored a total of 208 runs (49.5 overs) in the match against Australia.
-
-In each match in Sri Lanka, someone gets more than 50 runs. The fact that the other people do not shine are impact on the Sri Lankan team.
-
-In the match against Australia, Dinura Kalubahana only captured half -centuries.
-
-The opening player, Pulindu Perera, did not shine in the field and lost the game in today's match.
-
-Team captain Sineet Jayawardena (16) and Subbun Vadugay (17) shared 47 runs with very relaxation.
-
-Ravishan de Silva continued to share 46 runs in the 4th wicket and 44 runs in the 5th wicket with Kamage.. But the trio lost by 66 runs.
-
-Ravishan de Silva scored 30 runs and Kamage scored 10 runs.
-
-Dinura Kalubahana scored 64 off 78 balls, including 6 pounds and 3 sixes.
-
-...
-
-[Data](articles/e5f481da.json)
-
-[Extended Data](ext_articles/e5f481da.ext.json)
-
----
-
-### 'Lorenzo son 4': Six Sri Lankan fishermen rescued
-
-*2024-01-29 11:11:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjmd1g8znv2o) · `si`
-
-'Lorenzo son 4': Six Sri Lankan fishermen rescued
-
-The owner owner, Francis Milroy Perera, the owner of the vessel and the six Sri Lankan fishermen who were abducted in the Arabian sea told BBC.
-
-He said that Seychelles security forces were saved by the vessel and fishermen.
-
-He also said that he was informed of the Fisheries Director General.
-
-The owner of 'lorenzo' said the owner said that he had spoken to the staff of the vessel a little while ago.
-
-He added that they were raging and the vessel was taken to Seychelles.
-
-Six Sri Lankan fishermen were abducted on the afternoon on the 27th.
-
-The owner of Lormenc 4, "Lorenzo 4" owner owner Francis Milroy Perera told BBC Sinhala.
-
-The vessel was on January 12 at Dickowita Fisheries Harbor.
-
-"I've plundered my multi-day fishing vessel from Iran.. At that morning, I spoke with six former people in the boat.
-
-...
-
-[Data](articles/b9ce887d.json)
-
-[Extended Data](ext_articles/b9ce887d.ext.json)
-
----
-
-### Sri Lanka's new fact United Reconciliation Commission is not credible -International Human Rights Watch
-
-*2024-01-29 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175038) · `ta`
-
-The International Human Rights Watch has said that the Sri Lankan government's legislation to create another organization to investigate wartime human rights violations is reflected in previous failure, ignoring the needs of the victims and not fulfilling the international obligations of Sri Lanka.
-
-The International Human Rights Watch has said that even after the end of the armed forces, Sri Lanka is engaged in silence and suppressing the families of the victims.
-
-The government has pledged to investigate war crimes crimes during the Civil War 1983 to 2009 civil war with the International Human Rights Watch, which has been released on January 1, 2024, after the minimum consultation in 2023.
-
-...
-
-[Data](articles/3d84b4a8.json)
-
-[Extended Data](ext_articles/3d84b4a8.ext.json)
 
 ---

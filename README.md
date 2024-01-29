@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 12:02:17**
+As of **2024-01-29 12:17:05**
 
 ## Newspaper Stats
 
-*Scraped **3,233** Articles*
+*Scraped **3,234** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,58 @@ adalk | 291
 virakesarilk | 338
 adaderanasinhalalk | 340
 tamilmirrorlk | 406
-adaderanalk | 418
+adaderanalk | 419
 dailymirrorlk | 440
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,230 (99.9%) of 3,233 articles have been extended.
+3,233 (100.0%) of 3,234 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### இலங்கை வருகின்றார் தாய்லாந்து பிரதமர்
+### Oman Air suspends flights to Colombo
+
+*2024-01-29 11:48:00* · [`adaderanalk`](https://www.adaderana.lk/news/96819/oman-air-suspends-flights-to-colombo) · `en`
+
+State-owned Oman Air will cancel flights to some South Asian cities as part of its ongoing transformation programme.
+
+The move aims to improve the overall financial performance and strengthen its position in an ever-growing competitive market, the airline said in a statement.
+
+Flights to Islamabad and Lahore in Pakistan, Colombo in Sri Lanka and Chittagong in Bangladesh will be cancelled.
+
+However, the airline will add a new route to Sialkot in Pakistan and increase capacity to two current destinations in India – Lucknow, Uttar Pradesh, and Thiruvananthapuram, Kerala.
+
+In addition, three destinations will be operated on a seasonal basis. Flights will be operated to Trabzon in Turkey during the summer, while service will be launched to Zurich in Switzerland and Malé, the capital of Maldives, during winter.
+
+Additionally, Oman Air has introduced measures to optimise its schedule, starting this summer.
+
+...
+
+[Data](articles/30058020.json)
+
+---
+
+### Thai Prime Minister is coming to Sri Lanka
 
 *2024-01-29 11:38:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகின்றார்-தாய்லாந்து-பிரதமர்/175-332262) · `ta`
 
-தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் எதிர்வரும் பெப்ரவரி மாதம் 3 ஆம் திகதி இலங்கைக்கு வருகைதரவுள்ளதாக வெளிவிவகார அமைச்சு அறிவித்துள்ளது.
+The Ministry of External Affairs has announced that it will visit Sri Lanka on February 3.
 
-ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அழைப்பை ஏற்று நாட்டுக்கு வருகைதரவுள்ள அவர், இலங்கையின் 76 ஆவது சுதந்திர தின விழாவில் பிரதம அதிதியாக பங்கேற்க இரண்டு நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு வருவதாக தெரிவிக்கப்பட்டுள்ளது.
+He will visit the country on the occasion of President Ranil Wickremesinghe, who is on a two -day official visit to Sri Lanka's 76th Independence Day celebration.
 
-இந்த விஜயத்தின் போது, ஜனாதிபதி ரணில் விக்ரமசிங்க உள்ளிட்ட தரப்பினருடன் தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் கலந்துரையாடல்களை மேற்கொள்ளவுள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+During the visit, it is reported that the Prime Minister of Thailand Shreta Davis will hold discussions with President Ranil Wickremesinghe.
 
-அத்துடன் இலங்கை - தாய்லாந்து சுதந்திர வர்த்தக உடன்படிக்கையை கைச்சாத்திடும் நிகழ்விலும் அவர் பங்குபற்றவுள்ளதாகவும் வெளிவிவகார அமைச்சு தெரிவித்துள்ளது. R
+He is also participating in the signing of the Sri Lanka -Thailand Free Trade Agreement.. Remble
 
 ◼️
 
 [Data](articles/4a374886.json)
+
+[Extended Data](ext_articles/4a374886.ext.json)
 
 ---
 
@@ -68,25 +92,31 @@ The preliminary hearing of this case was held before the Thambuttegama Magistrat
 
 [Data](articles/c2697f0d.json)
 
+[Extended Data](ext_articles/c2697f0d.ext.json)
+
 ---
 
-### தொங்கிய  மனித எலும்புக்கூடு மீட்பு
+### Gazed recovery
 
 *2024-01-29 11:28:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொங்கிய-மனித-எலும்புக்கூடு-மீட்பு/76-332261) · `ta`
 
-பதுளை கொஹோவில கிரிகல்பொத்த காட்டில் தூக்கில் தொங்கியதாக சந்தேகிக்கப்படும் நபரின் உடல் பாகங்கள் ஞாயிற்றுக்கிழமை (28) பிற்பகல் கண்டெடுக்கப்பட்டுள்ளதாக கந்தேகெதர பொலிஸார் தெரிவித்தனர்.
+The body parts of the person suspected of hanging in the Kohovila Kirikalpotha forest in Badulla have been found on Sunday afternoon, Kandegadera police said.
 
-கழுத்தை நெரித்து இறந்ததாக சந்தேகிக்கப்படும் 40 வயதுடைய நபர், சொரனாதோட்டை, கெடிகஹதன்ன, கொஹோவிலவில் வசிக்கும்   தினேஷ் ரத்நாயக்க என அடையாளம் காணப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+The 40 -year -old man who is suspected of strangling her has been identified as Dinesh Ratnayake, a resident of Soranathota, Kedikahathanna and Kohovila, has been identified.
 
-கடந்த 28ஆம் திகதி மதியம் அந்த பகுதியை சேர்ந்த நபர் ஒருவர் காட்டுப்பகுதிக்குள் சென்ற போது மரத்தில் சடலம் ஒன்றின் பாகங்கள் தூக்கில் தொங்குவதை கண்டு கந்தேகெதர பொலிஸாருக்கு தகவல் வழங்கியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+When a man from the area went into the jungle on the 28th, the police said that Kandegaderatha police had reported to the police who had been hanged in a tree.
 
-இறந்தவர் கடந்த செப்டம்பர் மாதம் 19ம் திகதி வேலைக்கு செல்வதாக கூறி துணிப்பையுடன் வீட்டை விட்டு வெளியே சென்றதாகவும் அதன் பிறகு குடும்பத்தினரிடம் இருந்து எந்த தகவலும் இல்லை என்றும் பொலிஸார் தெரிவித்தனர்.
+Police said that the deceased went out of the house on September 19, claiming to go to work and had no information from the family.
 
-வீட்டின் துணிகளை காய வைப்பதற்காக கட்டப்பட்டிருந்த கம்பியின் ஒரு பகுதியே கழுத்தை நெரிப்பதற்க  பயன்படுத்தியமை பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
+Police investigations have revealed that a part of the wire built to dry the clothes of the house was used to strangle.
 
-...
+Police said the magistrate had been asked to investigate the place where the organs were found.
+
+◼️
 
 [Data](articles/e619e65a.json)
+
+[Extended Data](ext_articles/e619e65a.ext.json)
 
 ---
 
@@ -2017,27 +2047,5 @@ The Uma Oya multi-purpose project, which also involves irrigation for agricultur
 [Data](articles/490776ed.json)
 
 [Extended Data](ext_articles/490776ed.ext.json)
-
----
-
-### President to appoint special commission to expedite development of Galle
-
-*2024-01-28 19:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96804/president-to-appoint-special-commission-to-expedite-development-of-galle) · `en`
-
-President Ranil Wickremesinghe has decided to establish a special commission to expedite the development of Galle, the President’s Media Division (PMD) reported.
-
-During an inspectional tour on Saturday (27 Jan.), the President visited Galle City and the Galle Fort area, inspecting ongoing development activities.
-
-According to the PMD, he had expressed concern about the slow progress in relocating government institutions and offices from Galle Fort and thereby emphasized the need to accelerate development efforts.
-
-President Wickremesinghe highlighted the importance of integrating the Urban Development Authority (UDA), the Department of Archaeology and other institutions under a unified organizational structure for the Galle City Plan.
-
-He also stressed the swift implementation of plans to promote tourism in the area. Engaging in conversation with local and foreign tourists, the President visited nearby shops, discussing the views of shop owners regarding Galle Fort’s development.
-
-...
-
-[Data](articles/74617bbd.json)
-
-[Extended Data](ext_articles/74617bbd.ext.json)
 
 ---

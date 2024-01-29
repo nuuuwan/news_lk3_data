@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 19:02:20**
+As of **2024-01-29 19:17:19**
 
 ## Newspaper Stats
 
-*Scraped **3,326** Articles*
+*Scraped **3,334** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 43
-bbccomsinhala | 55
+bbccomsinhala | 56
 dbsjeyarajcom | 125
 economynextcom | 177
 islandlk | 185
@@ -18,19 +18,149 @@ dailyftlk | 223
 adalk | 307
 adaderanasinhalalk | 353
 virakesarilk | 362
-tamilmirrorlk | 415
-adaderanalk | 426
+tamilmirrorlk | 420
+adaderanalk | 428
 dailymirrorlk | 452
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,326 (100.0%) of 3,326 articles have been extended.
+3,326 (99.8%) of 3,334 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### ”எப்படியிருக்குமென கற்பனை செய்து பாருங்கள்”
+
+*2024-01-29 18:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எப்படியிருக்குமென-கற்பனை-செய்து-பாருங்கள்/175-332293) · `ta`
+
+சட்டம் நடைமுறைக்கு வந்தவுடன் அனைத்து வெளிநாட்டு இணைய சேவை வழங்குநர்களும் இந்நாட்டு சேவையிலிருந்து வெளியேற வாய்ப்புள்ளதால், ஒன்லைன் பாதுகாப்பு சட்டமூலம் உள்ளூர் சமூக ஊடக தளத்திற்கு தகவல்களை பரப்புவதற்கு வழிவகுக்கும் என்று முன்னாள் பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திர தெரிவித்துள்ளார்.
+
+"பேஸ்புக் மற்றும் எக்ஸ் போன்ற சர்வதேச சேவை வழங்குநர்களுக்கு இலங்கையை விட்டு வெளியேறுவது ஒரு சிறிய விடயம் " என்று அவர் ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+
+அனைத்து வெளிநாட்டு சேவை வழங்குனர்களும் இலங்கையில் செயற்படுவதை நிறுத்தினால், சீனாவைப் போன்று இலங்கையும் தனது சொந்த தளத்தை உருவாக்க வேண்டியிருக்கும் என அவர் மேலும் தெரிவித்தார்.
+
+"உலகம் முழுவதும் என்ன நடக்கிறது என்பதை அறிந்துகொள்ள உங்கள் தொலைபேசி மூலம் Facebook, Instagram அல்லது X இல் உள்நுழைய முடியாவிட்டால் நீங்கள் எவ்வாறு உணருவீர்கள் என்று கற்பனை செய்து பாருங்கள்," என்று அவர் அப்போது கேள்வி எழுப்பினார்.
+
+◼️
+
+[Data](articles/25385cbe.json)
+
+---
+
+### Hijacked fishing trawler: Seychelles presidency confirms vessel and crew rescued
+
+*2024-01-29 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/96829/hijacked-fishing-trawler-seychelles-presidency-confirms-vessel-and-crew-rescued) · `en`
+
+Seychelles President Wavel Ramkalawan’s office has confirmed that “Seychelles forces have freed a Sri Lankan vessel hijacked by armed Somali pirates”.
+
+Issuing a statement, the presidency said, “Seychellois special military forces boarded the boat with utmost courage to take complete control of the vessel and rescue our Sri Lankan brothers,” the presidency said in a statement”.
+
+The operation was led by the Seychelles Defence Forces (SDF), together with the Seychelles Coast Guard, after the SDF had been alerted by Sri Lanka about the hijacking.
+
+“According to the SDF, they were alerted by Sri Lanka of the hijacking and deployed a rescue mission by patrol ship Topaz. The mission is still ongoing”, Seychelles media reported, adding that the fishing trawler ‘Lorenzo Putha 4’, is due to be brought to the Port of Victoria on Tuesday (29 Jan.).
+
+President Wavel Ramkalawan, congratulated the Special Forces and Coast Guard team on a well executed and successful mission.
+
+...
+
+[Data](articles/f42b8da9.json)
+
+---
+
+### ஈஸ்டர் ஞாயிறு தாக்குதல் தொடர்பில் அதிர்ச்சித் தகவல்
+
+*2024-01-29 18:42:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-ஞாயிறு-தாக்குதல்-தொடர்பில்-அதிர்ச்சித்-தகவல்/175-332292) · `ta`
+
+ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதலை நடத்திய பயங்கரவாதக் குழு தேசிய மக்கள் சக்தியின் (NPP) கூட்டாளிகள் என்றும் உண்மையில் மார்க்சிஸ்டுகளுக்கு நிதி வழங்கியவர்கள் என்றும் பாராளுமன்ற உறுப்பினர் நிமல் லான்சா தெரிவித்துள்ளார்.
+
+“ஈஸ்டர் ஞாயிறு தாக்குதல்களில் முக்கிய சந்தேக நபரான இப்ராஹிம், NPP தேசிய பட்டியலில் இருந்தார். தற்கொலை குண்டுதாரிகளில் ஒருவரின் தந்தையும் NPP தேசியப் பட்டியலில் இருந்தார். இந்த குழு மில்லியன் கணக்கான ரூபாய்களை NPP க்கு நிதியளித்துள்ளது.
+
+இந்த நாட்டில் உள்ள கத்தோலிக்கர்கள் வாக்களிக்கும் போது இந்த உண்மையை நினைவில் கொள்ள வேண்டும், ”என்று லான்சா புதிய கூட்டணியின் தொடக்க பேரணியின் போது கூறினார்.
+
+“என்பிபி தலைவர்கள் ஒரு சதவீதம் கூட வரி செலுத்தவில்லை. எங்களைப் போல் ஒரு இளைஞருக்குக்கூட அவர்கள் வேலை வழங்கவில்லை. இதற்குக் காரணம், அவர்களுக்குச் சொந்தமாக எந்த நிறுவனங்களும் இல்லை. அவர்கள் வேலையில் இல்லை. இருப்பினும், அவர்கள் எங்களில் எவரையும் விட வசதியான வாழ்க்கையை நடத்துகிறார்கள், ”என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/0b1ba8be.json)
+
+---
+
+### Former Army Commander Daya Ratnayake joins SJB
+
+*2024-01-29 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96828/former-army-commander-daya-ratnayake-joins-sjb) · `en`
+
+Former Army Commander Gen. (Retd.) Daya Ratnayake has joined the main opposition party, the Samagi Jana Balawegaya (SJB).
+
+The Retired General called on SJB Leader and Opposition Leader Sajith Premadasa on Monday (29 Jan.), and was appointed as a Senior Advisor for Public Policy to the political party.
+
+Having started his military career as a cadet in 1980, General Ratnayake was appointed as the 20th Commander of the Sri Lanka Army on 01 August 2013, and has received several accolades throughout his military career, including the prestigious ‘Rana Wickrama Padakkama’, the ‘Rana Sura Padakkama’, ‘Uttama Seva Padakkama’ and the ‘Desha Putra Sammanaya’.
+
+◼️
+
+[Data](articles/b8a0a002.json)
+
+---
+
+### அடுத்த ’அரகலய’வை நாளை ஆரம்பிப்போம்;SJB
+
+*2024-01-29 18:36:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-அரகலய-வை-நாளை-ஆரம்பிப்போம்-SJB/175-332291) · `ta`
+
+ஐக்கிய மக்கள் சக்தி  (SJB) எந்தவொரு கட்டுப்பாடுகளையும் கவனத்தில் கொள்ளாது, நாளை வீதியில் இறங்கி தற்போதைய அரசாங்கத்தை கவிழ்ப்பதற்கான முதல் கட்ட நடவடிக்கையை எடுக்கும் என்று SJB பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார இன்று தெரிவித்தார்.
+
+"ஐஜிபி அல்லது வேறு எவரும் எந்த தடையையும் விதிக்கலாம் ஆனால் நாங்கள் அனைத்து சட்டங்களையும் மீறி நாளை 50,000 பேரை கொழும்புக்கு அழைத்து வருவோம்" என மத்தும பண்டார ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+
+"2022 எழுச்சிக்கு முன்னோடியாக இருந்தது SJB தான், இம்முறையும் அதையே செய்ய நாங்கள் உத்தேசித்துள்ளோம்" என்று மத்தும மேலும் கூறினார்.
+
+"நாங்கள் இப்போது எங்கு அணிவகுத்துச் செல்வோம் என்ற செய்தியை நாங்கள் வெளியிட மாட்டோம், ஆனால் நாளை சரியான நேரத்தில் அதை வெளிப்படுத்துவோம்," என்று அவர் கூறினார்.
+
+இந்த மாநாட்டில் கலந்து கொண்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திர, பயங்கரவாத எதிர்ப்பு சட்டமூலம், இணையவழி பாதுகாப்பு சட்டமூலம் மற்றும் வரி அதிகரிப்பு போன்ற அடக்குமுறை சட்டங்களுக்கு எதிராக இந்த போராட்டம் நடத்தப்படும் என தெரிவித்தார்.
+
+...
+
+[Data](articles/2857894d.json)
+
+---
+
+### 18 சதம் நிலுவைக்கு மின் இணைப்பு துண்டிப்பு
+
+*2024-01-29 18:24:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/18-சதம்-நிலுவைக்கு-மின்-இணைப்பு-துண்டிப்பு/175-332290) · `ta`
+
+மின் கட்டண பட்டியலில் நி​லுவையில் இருந்த 18 சதத்தை செலுத்தாமையால் மின்னிணைப்பு துண்டிக்கப்பட்ட சம்பவமொன்று தெற்கில் இடம்பெற்றுள்ளது.
+
+காலி கல்வடுகொடவைச் சேர்ந்த  விசும் மாபலகம என்பவரின் வீட்டின் மின்னிணைப்பே இவ்வாறு துண்டிக்கப்பட்டுள்ளது.
+
+காலி நகருக்கும் அதனைச் சுற்றியுள்ள பகுதிகளுக்கும் மின்சாரம் வழங்கும் (Lanka) Electricity Private Company Limited (LECO) நிறுவனத்தினால்  மாபலகமவின் வீட்டில் மின்சாரம் துண்டிக்கப்பட்டுள்ளது.
+
+6650 ரூபாய் 18 சதமாக  இருந்த மின்கட்டணத்தை கட்ட லெகோ அலுவலகத்திற்குச் சென்றபோது 18 சதத்தை கட்ட வேண்டுமா எனக் கேட்டபோது, ​​மின்சாரம் இருப்பதால் அதைச் செலுத்தாமல் இருப்பது பிரச்சினையில்லை என்று காசாளர் கூறியதாக  விசும் மாபலகம கூறுகிறார்.
+
+ரூ.6650  செலுத்தப்பட்டு மீதமுள்ள  18 சதம் செலுத்தப்படவில்லை. இந்த கட்டணத்தை 19-12-2023 அன்று   செலுத்தியுள்ளார்.
+
+ஆனால், சில நாட்களுக்குப் பிறகு வீட்டில் யாரும் இல்லாத நேரத்தில், (Lanka) Electricity Private Company Limited (LECO) ஊழியர்கள் வீட்டுக்கு வந்து மின்சாரத்தை துண்டித்துவிட்டதாக மாபலகம  கூறினார்.
+
+...
+
+[Data](articles/f2b599e2.json)
+
+---
+
+### கொள்ளையர்களால் கடத்தப்பட்ட இலங்கை மீனவர்கள் மீட்பு
+
+*2024-01-29 18:23:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொள்ளையர்களால்-கடத்தப்பட்ட-இலங்கை-மீனவர்கள்-மீட்பு/175-332289) · `ta`
+
+சோமாலிய கடல் கொள்ளையர்களால் கடத்தப்பட்ட 6 இலங்கை மீனவர்களும் அவர்களது படகும் மீட்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+
+சீசெல்ஸ் கடலோர காவல்படை மற்றும் இலங்கை கடற்படையினர் ஒன்றிணைந்து மேற்கொண்ட நடவடிக்கையின் அடிப்படையில், அவர்கள் மீட்கப்பட்டுள்ளதாக இலங்கை கடற்படை தெரிவித்துள்ளது.
+
+குறித்த நடவடிக்கையின் போது மூன்று சோமாலிய கடற்கொள்ளையர்கள் சீசெல்ஸ் கடலோர காவல்படையினால் கைது செய்யப்பட்டுள்ளதாக இலங்கை கடற்படை பேச்சாளர் கப்டன் கயான் விக்ரமசூரிய தெரிவித்துள்ளார். R
+
+◼️
+
+[Data](articles/01364836.json)
+
+---
 
 ### Lorenzo son saves from Somali pirates
 
@@ -1802,6 +1932,32 @@ Dinura Kalubahana scored 64 off 78 balls, including 6 pounds and 3 sixes.
 
 ---
 
+### ‘ලොරෙන්සෝ  පුතා 4’: ශ්‍රී ලාංකික ධීවරයින් 6 දෙනා බේරා ගැනෙයි
+
+*2024-01-29 11:11:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjmd1g8znv2o) · `si`
+
+‘ලොරෙන්සෝ  පුතා 4’: ශ්‍රී ලාංකික ධීවරයින් 6 දෙනා බේරා ගැනෙයි
+
+අරාබි මුහුදේදී පැහැර ගැනීමට ලක්වූ ‘ලොරෙන්සෝ  පුතා 4’ යාත්‍රාව සහ ශ්‍රී ලාංකික ධීවරයින් 6 දෙනා නිරුපද්‍රිතව බේරා ගෙන ඇතැයි යාත්‍රාවේ හිමිකරු වන ෆ්‍රැන්සිස්  මිල්රෝයි පෙරේරා බීබීසී සිංහල වෙත පැවසීය.
+
+ඔහු කියා සිටියේ සීෂෙල්ස් ආරක්ෂක අංශ විසින් යාත්‍රාව සහ ධීවරයින් පිරිස බේරා ගෙන ඇති බවය.
+
+ධීවර අධ්‍යක්ෂ ජනරාල්වරයා විසින් තමන්ට ඒබව දැනුම් දුන් බවද ඔහු කියා සිටියේය.
+
+‘ලොරෙන්සෝ  පුතා 4’ හිමිකරු පැවසුවේ යාත්‍රාවේ සිටි සිටින කාර්ය මණ්ඩල සමාජිකයින් සමග මීට ටික වේලාවකට පෙර තමන් කතා කළ බවය.
+
+ඔවුන් සුවෙන් පසුවන බවත් යාත්‍රාව සීෂෙල්ස් වෙත රැගෙන යමින් ඇති බවත් ඔහු සඳහන් කළේය.
+
+‘ලොරෙන්සෝ  පුතා 4’ බහුදින ධීවර යාත්‍රාව සමග  ශ්‍රී ලංකික ධීවරයන්  හයදෙනෙකු  පසුගිය 27 වැනි දින දහවල් පැහැර ගැනීමට ලක්විය.
+
+ඉරානයට අයත් අඩි හැටක් පමණ දිග යාත්‍රාවකින් පැමිණි තිදෙනෙකු මේ කොල්ලය සිදු කර ඇති බව දැනුම් දුන් බව ‘ලොරෙන්සෝ  4’ බහුදින ධීවර යාත්‍රාවේ  හිමිකරු ෆ්‍රැන්සිස්  මිල්රෝයි පෙරේරා බීබීසී සිංහල වෙත පැවසීය.
+
+...
+
+[Data](articles/b9ce887d.json)
+
+---
+
 ### Sri Lanka's new fact United Reconciliation Commission is not credible -International Human Rights Watch
 
 *2024-01-29 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175038) · `ta`
@@ -1903,167 +2059,5 @@ Police life savers have been deployed to face any emergency situation.
 [Data](articles/5aa5a773.json)
 
 [Extended Data](ext_articles/5aa5a773.ext.json)
-
----
-
-### Public Administrative Service Officers Surprise Struggle Struggle
-
-*2024-01-29 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175033) · `ta`
-
-All state administrative service officials have launched a sick holiday struggle from Monday (29).
-
-HAL Udayasiri, President of the Joint Federation of Public Administration Service Officers, said that the union action has been launched on several demands and that a meeting will be held today with the participation of all public administration service officials.
-
-Commenting on this, HAL Udayasiri, President of the Joint Federation of Public Administrative Service Officers, said,
-
-“Today, the government's executive officers representing the joint committee have decided to engage in union action representing nationwide, parallel services and departmental services.
-
-17 trade unions, including the State Ayurvedic Medical Officers' Association, the Internal Real Estate Trade Union and the Education Administrative Service Trade Union, will hold a meeting in Colombo today.
-
-He also urged the unresolved professional issues of state administrative service officials.
-
-◼️
-
-[Data](articles/06c8df80.json)
-
-[Extended Data](ext_articles/06c8df80.ext.json)
-
----
-
-### New State Minister of Plantation Industries and Mahaweli Development appointed
-
-*2024-01-29 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96817/new-state-minister-of-plantation-industries-and-mahaweli-development-appointed-) · `en`
-
-Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Lohan Ratwatte has been officially sworn in as the new State Minister of Plantation Industries and Mahaweli Development in the presence of President Ranil Wickremesinghe.
-
-The swearing-in ceremony was held at the Presidential Secretariat this morning (29) and attended by President’s Secretary Mr. Saman Ekanayake according to the President’s Media Division (PMD).
-
-◼️
-
-[Data](articles/d159341f.json)
-
-[Extended Data](ext_articles/d159341f.ext.json)
-
----
-
-### Lohan sworn in Ratwatte
-
-*2024-01-29 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192690) · `si`
-
-The State Minister of Plantation and Mahaweli Development has been sworn in before President Ranil Wickremesinghe before President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/fd731105.json)
-
-[Extended Data](ext_articles/fd731105.ext.json)
-
----
-
-### Biden says US ‘shall respond’ after drone strike by Iran-backed group kills 3 US troops in Jordan
-
-*2024-01-29 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96816/biden-says-us-shall-respond-after-drone-strike-by-iran-backed-group-kills-3-us-troops-in-jordan) · `en`
-
-President Joe Biden said Sunday that the U.S. “shall respond” after three American troops were killed and dozens more were injured in an overnight drone strike in northeast Jordan near the Syrian border. Biden blamed Iran-backed militias for the first U.S. fatalities after months of strikes by such groups against American forces across the Middle East since the start of the Israel-Hamas war.
-
-Biden, who was traveling in South Carolina, asked for a moment of silence during an appearance at a Baptist church’s banquet hall.
-
-“We had a tough day last night in the Middle East. We lost three brave souls in an attack on one of our bases,” he said. After the moment of silence, Biden added, “and we shall respond.”
-
-With an increasing risk of military escalation in the region, U.S. officials were working to conclusively identify the precise group responsible for the attack, but they have assessed that one of several Iranian-backed groups was behind it.
-
-...
-
-[Data](articles/1a192705.json)
-
-[Extended Data](ext_articles/1a192705.ext.json)
-
----
-
-### Mawussakele and Caselry water level dropped rapidly
-
-*2024-01-29 10:15:32* · [`adalk`](https://www.ada.lk/breaking_news/මාවුස්සාකැලේ-හා-කාස්ල්රී--ජල-මට්ටම-සීඝ්‍රයෙන්-පහතට/11-407771) · `si`
-
-The water level of Mawaskele and Castlere reservoirs have dropped to 10 days with severe dry areas in the central hills.
-
-The water level in Mawasakale and Carsuri reservoirs, the engineers in charge of the reservoirs were 11.00 am and 5 feet of 5 feet respectively.
-
-The main water supply for Canon, Laxapana, New Laxapana, New Laxapana, Wimalasupana, Poland and Baselland, is mainly supplied mainly for the National Hydro-Paladeshiya System complex.
-
-◼️
-
-[Data](articles/d2e6f8df.json)
-
-[Extended Data](ext_articles/d2e6f8df.ext.json)
-
----
-
-### Rajitha takes pro-government stand?
-
-*2024-01-29 10:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Rajitha-takes-pro-government-stand/108-275906) · `en`
-
-Colombo, Jan  29 (Daily Mirror) -  Samagi Jana Balawegaya (SJB) MP Rajitha Senaratne who seemed to have taken a pro-government stand said IMF will declare Sri Lanka as a state which had come out of bankruptcy next month.
-
-Speaking during a public meeting over the weekend, MP Senaratne said Sri Lanka is slated to become a nation which had come out of bankruptcy within the shortest time.
-
-"People in Greece toppled four governments after it went into bankruptcy. It took ten years to come out of bankruptcy. So did Argentina and Lebanon. However, our country is slated to become the nation to come out of bankruptcy within the shortest period. IMF is likely to declare Sri Lanka as a state with a recovered economy next month," the MP said.
-
-MP Senaratne however voted against the Online Safety Bill last week.
-
-He said that the SJB Leader was critical of the engagement that the government has and had recently pledged that a future government led by him will go for a fresh agreement with IMF.
-
-◼️
-
-[Data](articles/a5901e21.json)
-
-[Extended Data](ext_articles/a5901e21.ext.json)
-
----
-
-### Death sentence for her husband who killed his wife 14 years later
-
-*2024-01-29 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192689) · `si`
-
-The wife of a mother of two was handed down and pushed into a room and pour kerosene and burned kerosene and set fire to the body
-
-North Central Provincial High Court Judge Manoj Thalgodapitiya, the Mahajaj Thalipitiya, was sentenced to death in the Anuradhapura High Court regarding a murder of death.
-
-The death was sentenced to a resident of Turmannawa, Udayahawewa in the Thamgahawewa, Utarawewa in the Udahawewa.
-
-The Attorney General has been indicted in the Anuradhapura High Court against the accused by the Thamma of the Penalty Code by the Thammna of the Thammna, the 26th of January 2010.There was.
-
-High Court Judge Manoj Talgodapitiya stated that the accused was sentenced to death
-
-The complaint fair has been able to prove allegations against the defendant to be charged with fair suspicion.
-
-Thambuththegama Magistrate's Court was in the courts of the non-vesseling of the law. The Attorney General's Attorney General
-
-The indictment was filed to the Anuradhapura High Court for further hearing.
-
-...
-
-[Data](articles/a4236961.json)
-
-[Extended Data](ext_articles/a4236961.ext.json)
-
----
-
-### Nearly 30 shops gutted in massive fire at Mawanella
-
-*2024-01-29 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96815/nearly-30-shops-gutted-in-massive-fire-at-mawanella) · `en`
-
-At least 30 shops in the Mawanella town have been completely destroyed in a fire that broke out last night (28) in front of the main bus stand in Mawanella.
-
-The police together with firefighters from the fire brigade of the Mawanella Pradehsiya Sabha and local residents had managed to extinguish the flames.
-
-However, several shops selling fruits, textiles and plastic goods have reportedly been destroyed in the fire.
-
-The cause of the fire has not been uncovered yet and the Mawanella Police are conducting further investigations regarding the incident.
-
-◼️
-
-[Data](articles/2e30cd85.json)
-
-[Extended Data](ext_articles/2e30cd85.ext.json)
 
 ---

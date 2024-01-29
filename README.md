@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 19:17:19**
+As of **2024-01-29 19:32:46**
 
 ## Newspaper Stats
 
-*Scraped **3,334** Articles*
+*Scraped **3,336** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,35 @@ adaderanasinhalalk | 353
 virakesarilk | 362
 tamilmirrorlk | 420
 adaderanalk | 428
-dailymirrorlk | 452
+dailymirrorlk | 454
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,326 (99.8%) of 3,334 articles have been extended.
+3,334 (99.9%) of 3,336 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### ”எப்படியிருக்குமென கற்பனை செய்து பாருங்கள்”
+### "Imagine how it would be"
 
 *2024-01-29 18:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எப்படியிருக்குமென-கற்பனை-செய்து-பாருங்கள்/175-332293) · `ta`
 
-சட்டம் நடைமுறைக்கு வந்தவுடன் அனைத்து வெளிநாட்டு இணைய சேவை வழங்குநர்களும் இந்நாட்டு சேவையிலிருந்து வெளியேற வாய்ப்புள்ளதால், ஒன்லைன் பாதுகாப்பு சட்டமூலம் உள்ளூர் சமூக ஊடக தளத்திற்கு தகவல்களை பரப்புவதற்கு வழிவகுக்கும் என்று முன்னாள் பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திர தெரிவித்துள்ளார்.
+Former parliamentarian Hirunika Premachandra has said that all foreign internet service providers are likely to leave the country when the law is implemented and spread the online security Bill to the local social media site.
 
-"பேஸ்புக் மற்றும் எக்ஸ் போன்ற சர்வதேச சேவை வழங்குநர்களுக்கு இலங்கையை விட்டு வெளியேறுவது ஒரு சிறிய விடயம் " என்று அவர் ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+"It is a little more than for leaving Sri Lanka for international service providers like Facebook and X," he said at a media briefing.
 
-அனைத்து வெளிநாட்டு சேவை வழங்குனர்களும் இலங்கையில் செயற்படுவதை நிறுத்தினால், சீனாவைப் போன்று இலங்கையும் தனது சொந்த தளத்தை உருவாக்க வேண்டியிருக்கும் என அவர் மேலும் தெரிவித்தார்.
+He added that if all foreign service providers stop working in Sri Lanka, Sri Lanka would have to create its own site like China.
 
-"உலகம் முழுவதும் என்ன நடக்கிறது என்பதை அறிந்துகொள்ள உங்கள் தொலைபேசி மூலம் Facebook, Instagram அல்லது X இல் உள்நுழைய முடியாவிட்டால் நீங்கள் எவ்வாறு உணருவீர்கள் என்று கற்பனை செய்து பாருங்கள்," என்று அவர் அப்போது கேள்வி எழுப்பினார்.
+"Imagine how you feel if you can't log in to Facebook, Instagram or X by your phone to find out what is happening all over the world," he questioned.
 
 ◼️
 
 [Data](articles/25385cbe.json)
+
+[Extended Data](ext_articles/25385cbe.ext.json)
 
 ---
 
@@ -68,23 +70,27 @@ President Wavel Ramkalawan, congratulated the Special Forces and Coast Guard tea
 
 [Data](articles/f42b8da9.json)
 
+[Extended Data](ext_articles/f42b8da9.ext.json)
+
 ---
 
-### ஈஸ்டர் ஞாயிறு தாக்குதல் தொடர்பில் அதிர்ச்சித் தகவல்
+### Shock information about Easter Sunday attack
 
 *2024-01-29 18:42:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-ஞாயிறு-தாக்குதல்-தொடர்பில்-அதிர்ச்சித்-தகவல்/175-332292) · `ta`
 
-ஈஸ்டர் ஞாயிறு குண்டுத் தாக்குதலை நடத்திய பயங்கரவாதக் குழு தேசிய மக்கள் சக்தியின் (NPP) கூட்டாளிகள் என்றும் உண்மையில் மார்க்சிஸ்டுகளுக்கு நிதி வழங்கியவர்கள் என்றும் பாராளுமன்ற உறுப்பினர் நிமல் லான்சா தெரிவித்துள்ளார்.
+Parliamentarian Nimal Lansa said that the terrorist group that carried out an Easter Sunday bombing was the National People's Power (NPP) partners and actually funded the Marxists.
 
-“ஈஸ்டர் ஞாயிறு தாக்குதல்களில் முக்கிய சந்தேக நபரான இப்ராஹிம், NPP தேசிய பட்டியலில் இருந்தார். தற்கொலை குண்டுதாரிகளில் ஒருவரின் தந்தையும் NPP தேசியப் பட்டியலில் இருந்தார். இந்த குழு மில்லியன் கணக்கான ரூபாய்களை NPP க்கு நிதியளித்துள்ளது.
+“Ibrahim, the main suspect in the Easter Sunday attacks, was on the NPP national list.The father of one of the suicide bombers was also on the NPP national list.The group has funded millions of rupees to the NPP.
 
-இந்த நாட்டில் உள்ள கத்தோலிக்கர்கள் வாக்களிக்கும் போது இந்த உண்மையை நினைவில் கொள்ள வேண்டும், ”என்று லான்சா புதிய கூட்டணியின் தொடக்க பேரணியின் போது கூறினார்.
+This fact must be remembered when the Catholics in this country vote, ”said Lansa during the opening rally of the new alliance.
 
-“என்பிபி தலைவர்கள் ஒரு சதவீதம் கூட வரி செலுத்தவில்லை. எங்களைப் போல் ஒரு இளைஞருக்குக்கூட அவர்கள் வேலை வழங்கவில்லை. இதற்குக் காரணம், அவர்களுக்குச் சொந்தமாக எந்த நிறுவனங்களும் இல்லை. அவர்கள் வேலையில் இல்லை. இருப்பினும், அவர்கள் எங்களில் எவரையும் விட வசதியான வாழ்க்கையை நடத்துகிறார்கள், ”என்று அவர் கூறினார்.
+“NPP leaders did not pay a percentage of taxes.They don't even work for a young man like us.This is because they do not own any companies.They are not at work.However, they live a comfortable life than any of us, ”he said.
 
 ◼️
 
 [Data](articles/0b1ba8be.json)
+
+[Extended Data](ext_articles/0b1ba8be.ext.json)
 
 ---
 
@@ -102,63 +108,101 @@ Having started his military career as a cadet in 1980, General Ratnayake was app
 
 [Data](articles/b8a0a002.json)
 
+[Extended Data](ext_articles/b8a0a002.ext.json)
+
 ---
 
-### அடுத்த ’அரகலய’வை நாளை ஆரம்பிப்போம்;SJB
+### The next number will start tomorrow; SJB
 
 *2024-01-29 18:36:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-அரகலய-வை-நாளை-ஆரம்பிப்போம்-SJB/175-332291) · `ta`
 
-ஐக்கிய மக்கள் சக்தி  (SJB) எந்தவொரு கட்டுப்பாடுகளையும் கவனத்தில் கொள்ளாது, நாளை வீதியில் இறங்கி தற்போதைய அரசாங்கத்தை கவிழ்ப்பதற்கான முதல் கட்ட நடவடிக்கையை எடுக்கும் என்று SJB பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார இன்று தெரிவித்தார்.
+SJB General Secretary Ranjith Mathuma Bandara today said that the United People's Power (SJB) will take no restrictions on the road tomorrow and take the first step to topple the current government.
 
-"ஐஜிபி அல்லது வேறு எவரும் எந்த தடையையும் விதிக்கலாம் ஆனால் நாங்கள் அனைத்து சட்டங்களையும் மீறி நாளை 50,000 பேரை கொழும்புக்கு அழைத்து வருவோம்" என மத்தும பண்டார ஊடகவியலாளர் சந்திப்பில் தெரிவித்தார்.
+"IGP or anyone else can impose any obstacle but we will bring 50,000 people to Colombo tomorrow," he said at a media briefing.
 
-"2022 எழுச்சிக்கு முன்னோடியாக இருந்தது SJB தான், இம்முறையும் அதையே செய்ய நாங்கள் உத்தேசித்துள்ளோம்" என்று மத்தும மேலும் கூறினார்.
+"SJB was the forerunner of the 2022 uprising. We intend to do the same time this time," Mathuma added.
 
-"நாங்கள் இப்போது எங்கு அணிவகுத்துச் செல்வோம் என்ற செய்தியை நாங்கள் வெளியிட மாட்டோம், ஆனால் நாளை சரியான நேரத்தில் அதை வெளிப்படுத்துவோம்," என்று அவர் கூறினார்.
+"We will not publish the news of where we will march now, but we will reveal it at the right time tomorrow," he said.
 
-இந்த மாநாட்டில் கலந்து கொண்ட முன்னாள் பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமச்சந்திர, பயங்கரவாத எதிர்ப்பு சட்டமூலம், இணையவழி பாதுகாப்பு சட்டமூலம் மற்றும் வரி அதிகரிப்பு போன்ற அடக்குமுறை சட்டங்களுக்கு எதிராக இந்த போராட்டம் நடத்தப்படும் என தெரிவித்தார்.
+Former parliamentarian Hirunika Premachandra, who attended the conference, said the protest would be held against the anti -terrorism Bill, the e -mail protection Bill and the tax increase.
 
-...
+"We will reveal where we are going to be around at the right time," he said.
+
+◼️
 
 [Data](articles/2857894d.json)
 
+[Extended Data](ext_articles/2857894d.ext.json)
+
 ---
 
-### 18 சதம் நிலுவைக்கு மின் இணைப்பு துண்டிப்பு
+### Electricity disconnect 18 per cent outstanding
 
 *2024-01-29 18:24:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/18-சதம்-நிலுவைக்கு-மின்-இணைப்பு-துண்டிப்பு/175-332290) · `ta`
 
-மின் கட்டண பட்டியலில் நி​லுவையில் இருந்த 18 சதத்தை செலுத்தாமையால் மின்னிணைப்பு துண்டிக்கப்பட்ட சம்பவமொன்று தெற்கில் இடம்பெற்றுள்ளது.
+An incident in the south has taken place due to the lack of 18 percent of the electricity tariff list.
 
-காலி கல்வடுகொடவைச் சேர்ந்த  விசும் மாபலகம என்பவரின் வீட்டின் மின்னிணைப்பே இவ்வாறு துண்டிக்கப்பட்டுள்ளது.
+This has been cut off by the house of the house of Visum Mapalakama, a resident of Galle Education.
 
-காலி நகருக்கும் அதனைச் சுற்றியுள்ள பகுதிகளுக்கும் மின்சாரம் வழங்கும் (Lanka) Electricity Private Company Limited (LECO) நிறுவனத்தினால்  மாபலகமவின் வீட்டில் மின்சாரம் துண்டிக்கப்பட்டுள்ளது.
+Electricity Electricity Private Company Limited (LCO) has been cut off at Mabalagama's home.
 
-6650 ரூபாய் 18 சதமாக  இருந்த மின்கட்டணத்தை கட்ட லெகோ அலுவலகத்திற்குச் சென்றபோது 18 சதத்தை கட்ட வேண்டுமா எனக் கேட்டபோது, ​​மின்சாரம் இருப்பதால் அதைச் செலுத்தாமல் இருப்பது பிரச்சினையில்லை என்று காசாளர் கூறியதாக  விசும் மாபலகம கூறுகிறார்.
+When he went to the Lego office to build the electricity at Rs.
 
-ரூ.6650  செலுத்தப்பட்டு மீதமுள்ள  18 சதம் செலுத்தப்படவில்லை. இந்த கட்டணத்தை 19-12-2023 அன்று   செலுத்தியுள்ளார்.
+Rs. 6650 and the remaining 18 per cent was not paid. This fee has been paid on 19-12-2023.
 
-ஆனால், சில நாட்களுக்குப் பிறகு வீட்டில் யாரும் இல்லாத நேரத்தில், (Lanka) Electricity Private Company Limited (LECO) ஊழியர்கள் வீட்டுக்கு வந்து மின்சாரத்தை துண்டித்துவிட்டதாக மாபலகம  கூறினார்.
+But after a few days, when there was no one in the house, the Electricity Private Company Limited (Leco) staff came home and cut off electricity.
+
+Upon arrival at home a few hours later, it was stated that the power cut had been placed in front of the house, and the additional fee would be paid Rs 1,231 and the 18 percent pending pending.
+
+When he went to the office of the Electricity Private Company Limited (LeCO) office in Galle Richmond Hill with all the documents he paid for this, he received no clear answer.
 
 ...
 
 [Data](articles/f2b599e2.json)
 
+[Extended Data](ext_articles/f2b599e2.ext.json)
+
 ---
 
-### கொள்ளையர்களால் கடத்தப்பட்ட இலங்கை மீனவர்கள் மீட்பு
+### Sri Lankan fishermen rescued by robbers
 
 *2024-01-29 18:23:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொள்ளையர்களால்-கடத்தப்பட்ட-இலங்கை-மீனவர்கள்-மீட்பு/175-332289) · `ta`
 
-சோமாலிய கடல் கொள்ளையர்களால் கடத்தப்பட்ட 6 இலங்கை மீனவர்களும் அவர்களது படகும் மீட்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது.
+Six Sri Lankan fishermen and their boat have been rescued by Somali sea robbers.
 
-சீசெல்ஸ் கடலோர காவல்படை மற்றும் இலங்கை கடற்படையினர் ஒன்றிணைந்து மேற்கொண்ட நடவடிக்கையின் அடிப்படையில், அவர்கள் மீட்கப்பட்டுள்ளதாக இலங்கை கடற்படை தெரிவித்துள்ளது.
+The Sri Lankan navy said that they have been rescued on the basis of a united operation by the Seychelles Coast Guard and the Sri Lankan Navy.
 
-குறித்த நடவடிக்கையின் போது மூன்று சோமாலிய கடற்கொள்ளையர்கள் சீசெல்ஸ் கடலோர காவல்படையினால் கைது செய்யப்பட்டுள்ளதாக இலங்கை கடற்படை பேச்சாளர் கப்டன் கயான் விக்ரமசூரிய தெரிவித்துள்ளார். R
+Sri Lanka Navy spokesman Captain Gayan Wickramasuriya says three Somali pirates have been arrested by the Seychelles Coast Guard during the operation.. Remble
 
 ◼️
 
 [Data](articles/01364836.json)
+
+[Extended Data](ext_articles/01364836.ext.json)
+
+---
+
+### Resolve state workers' salary anomalies
+
+*2024-01-29 18:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Resolve-state-workers-salary-anomalies/110-275924) · `en`
+
+The Government Alliance Executive Committee today held a protest in front of the Public Administration and Management Ministry, demanding the government to resolve the state workers' salary anomalies and remove the administration mafia of the state service. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/62d3f889.json)
+
+---
+
+### Local, foreign government representatives meet
+
+*2024-01-29 18:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Local-foreign-government-representatives-meet/110-275923) · `en`
+
+The Second Diplomatic Buddhist Convention of the Sri Lankan Bhikkhu Association in Europe today held a meeting of local and foreign government representatives at the Bandaranaike Memorial International Conference Hall (BMICH). The event was sponsored and hosted by the Sri Lankan Ministry of Foreign Affairs. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/8d7200d6.json)
 
 ---
 
@@ -1932,29 +1976,35 @@ Dinura Kalubahana scored 64 off 78 balls, including 6 pounds and 3 sixes.
 
 ---
 
-### ‘ලොරෙන්සෝ  පුතා 4’: ශ්‍රී ලාංකික ධීවරයින් 6 දෙනා බේරා ගැනෙයි
+### 'Lorenzo son 4': Six Sri Lankan fishermen rescued
 
 *2024-01-29 11:11:21* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cjmd1g8znv2o) · `si`
 
-‘ලොරෙන්සෝ  පුතා 4’: ශ්‍රී ලාංකික ධීවරයින් 6 දෙනා බේරා ගැනෙයි
+'Lorenzo son 4': Six Sri Lankan fishermen rescued
 
-අරාබි මුහුදේදී පැහැර ගැනීමට ලක්වූ ‘ලොරෙන්සෝ  පුතා 4’ යාත්‍රාව සහ ශ්‍රී ලාංකික ධීවරයින් 6 දෙනා නිරුපද්‍රිතව බේරා ගෙන ඇතැයි යාත්‍රාවේ හිමිකරු වන ෆ්‍රැන්සිස්  මිල්රෝයි පෙරේරා බීබීසී සිංහල වෙත පැවසීය.
+The owner owner, Francis Milroy Perera, the owner of the vessel and the six Sri Lankan fishermen who were abducted in the Arabian sea told BBC.
 
-ඔහු කියා සිටියේ සීෂෙල්ස් ආරක්ෂක අංශ විසින් යාත්‍රාව සහ ධීවරයින් පිරිස බේරා ගෙන ඇති බවය.
+He said that Seychelles security forces were saved by the vessel and fishermen.
 
-ධීවර අධ්‍යක්ෂ ජනරාල්වරයා විසින් තමන්ට ඒබව දැනුම් දුන් බවද ඔහු කියා සිටියේය.
+He also said that he was informed of the Fisheries Director General.
 
-‘ලොරෙන්සෝ  පුතා 4’ හිමිකරු පැවසුවේ යාත්‍රාවේ සිටි සිටින කාර්ය මණ්ඩල සමාජිකයින් සමග මීට ටික වේලාවකට පෙර තමන් කතා කළ බවය.
+The owner of 'lorenzo' said the owner said that he had spoken to the staff of the vessel a little while ago.
 
-ඔවුන් සුවෙන් පසුවන බවත් යාත්‍රාව සීෂෙල්ස් වෙත රැගෙන යමින් ඇති බවත් ඔහු සඳහන් කළේය.
+He added that they were raging and the vessel was taken to Seychelles.
 
-‘ලොරෙන්සෝ  පුතා 4’ බහුදින ධීවර යාත්‍රාව සමග  ශ්‍රී ලංකික ධීවරයන්  හයදෙනෙකු  පසුගිය 27 වැනි දින දහවල් පැහැර ගැනීමට ලක්විය.
+Six Sri Lankan fishermen were abducted on the afternoon on the 27th.
 
-ඉරානයට අයත් අඩි හැටක් පමණ දිග යාත්‍රාවකින් පැමිණි තිදෙනෙකු මේ කොල්ලය සිදු කර ඇති බව දැනුම් දුන් බව ‘ලොරෙන්සෝ  4’ බහුදින ධීවර යාත්‍රාවේ  හිමිකරු ෆ්‍රැන්සිස්  මිල්රෝයි පෙරේරා බීබීසී සිංහල වෙත පැවසීය.
+The owner of Lormenc 4, "Lorenzo 4" owner owner Francis Milroy Perera told BBC Sinhala.
+
+The vessel was on January 12 at Dickowita Fisheries Harbor.
+
+"I've plundered my multi-day fishing vessel from Iran.. At that morning, I spoke with six former people in the boat.
 
 ...
 
 [Data](articles/b9ce887d.json)
+
+[Extended Data](ext_articles/b9ce887d.ext.json)
 
 ---
 
@@ -2025,39 +2075,5 @@ Colombo, Jan. 29 (Daily Mirror)- Lohan Ratwatte has been sworn in before Preside
 [Data](articles/63288c6c.json)
 
 [Extended Data](ext_articles/63288c6c.ext.json)
-
----
-
-### Lohan became Minister of State
-
-*2024-01-29 10:54:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சரானார்-லொஹான்/175-332260) · `ta`
-
-Lohan Ratwatta has been sworn in as the Minister of State for Plantation Industries and Mahaweli Development in the presence of President Ranil Wickremesinghe.
-
-◼️
-
-[Data](articles/1fe0a684.json)
-
-[Extended Data](ext_articles/1fe0a684.ext.json)
-
----
-
-### Crocodile threat looms at Wellawatte beach !
-
-*2024-01-29 10:54:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Crocodile-threat-looms-at-Wellawatte-beach/108-275907) · `en`
-
-Colombo, Jan. 29 (Daily Mirror)- Those who visit Wellawatte beach have been adviced to be vigilant after a crocodile was spotted in the sea recently.
-
-A warning sign was seen on the beach asking people to be vigilant.
-
-People are visiting the beach in numbers due to the school holidays according to police.
-
-Police life savers have been deployed to face any emergency situation.
-
-◼️
-
-[Data](articles/5aa5a773.json)
-
-[Extended Data](ext_articles/5aa5a773.ext.json)
 
 ---

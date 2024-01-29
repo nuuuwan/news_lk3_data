@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 08:02:21**
+As of **2024-01-29 08:17:04**
 
 ## Newspaper Stats
 
-*Scraped **3,176** Articles*
+*Scraped **3,179** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ newsfirstlk | 184
 islandlk | 185
 dailyftlk | 223
 adalk | 288
-adaderanasinhalalk | 326
+adaderanasinhalalk | 329
 virakesarilk | 333
 tamilmirrorlk | 398
 adaderanalk | 411
@@ -26,31 +26,75 @@ dailymirrorlk | 433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,175 (100.0%) of 3,176 articles have been extended.
+3,176 (99.9%) of 3,179 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### மத்திய கிழக்கில் அமெரிக்க  இராணுவதளம் மீது ஆளில்லா விமான தாக்குதல் - மூனறு படையினர் பலி
+### හදවතේ ගායකයා ගෙදර යයි
+
+*2024-01-29 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192681) · `si`
+
+හදවතේ ගායකයා ලෙස මහත් ජනාදරයට පත් වූ ගායන ශිල්පී චාමර වීරසිංහ මහතා සුවය ලබා කළුබෝවිල රෝහලෙන් පිටව ගොස් තිබේ.
+
+දින 40කට ආසන්න කාලයක් ඔහු කළුබෝවිල රෝහලේ නේවාසිකව ප්‍රතිකාර ලැබුවේය.
+
+චාමර වීරසිංහ මහතා කළුබෝවිල රෝහලට ඇතුළත් කෙරුණේ ස්වසන අපහසුතාවයක් හේතුවෙනි.
+
+එහිදී ඔහු උගුරේ සහ උදරයේ සැත්කම් දෙකකට භාජනය කෙරුණු බව රෝහල් ආරංචි මාර්ග අනාවරණය කළේය.
+
+මේ අතර චාමර වීරසිංහ මහතා සුවය ලැබුවද තවදුරටත් විවේකයෙන් පසුවිය යුතු බවට වෛද්‍යවරු නිර්දේශ කර තිබේ.
+
+◼️
+
+[Data](articles/00f20b27.json)
+
+---
+
+### Unmanned air strikes on US military in the Middle East
 
 *2024-01-29 07:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175023) · `ta`
 
-சிரியா ஜோர்தான் எல்லையிலுள்ள அமெரிக்க இராணுவதளத்தின் மீது மேற்கொள்ளப்பட்ட ஆளில்லா விமானதாக்குதலில் மூன்நு அமெரிக்க படையினர் கொல்லப்பட்டுள்ளனர் பலர் காயமடைந்துள்ளனர்.
+Moon Nunnu US soldiers have been killed in an unmanned air strike on the US military on the Syrian Jordan border.
 
-ஒக்டோபர் ஏழாம் திகதி ஹமாஸ் மேற்கொண்ட தாக்குதலின் பின்னர் பிராந்தியத்தில் அமெரிக்க படையினர் கொல்லப்படுவது இதுவே முதல்தடவை
+This is the first time US soldiers were killed in the region after the Hamas attack on the seventh of October
 
-ஈரான் ஆதரவு குழுக்களே இந்த தாக்குதலை மேற்கொண்டுள்ளன என தெரிவித்துள்ள அமெரிக்க ஜனாதிபதி நாங்க்ள பதிலடிகொடுப்போம் என தெரிவித்துள்ளார்.
+US President Nangla said that the Iranian -backed groups have carried out the attack.
 
-இந்த தாக்குதலிற்கு காரணமானவர்களை நாங்கள் தகுந்த தருணத்தில் உரிய விதத்தில் பொறுப்புக்கூறச்செய்வோம் என பைடன் தெரிவித்துள்ளார்.
+"We will be responsible for those responsible for the attack," said Bidan.
 
-நேற்றிரவு நாங்கள் மத்தியகிழக்கில் மிகவும் சவாலான சூழ்நிலையை எதிர்கொண்டோம் மூன்று துணிச்சல் மிக்க ஆன்மாக்களை இழந்துள்ளோம் எனஅவர் தெரிவித்துள்ளார்.
+We have faced the most challenging situation in the Middle East last night, we have lost three brave souls, he said.
 
-கொல்லப்பட்ட அமெரிக்க படையினரின் பெயர் விபரங்களை இன்னமும் வெளியிடாத  அதிகாரிகள் குடும்பத்தவர்களிற்கு தகவல்களை வழங்கும் நடவடிக்கைகளில் ஈடுபட்டுள்ளனர்.
+Officials who have not yet released the names of the killed US soldiers are engaged in providing information to the family.
 
-...
+US officials said that 34 soldiers were raised on the basis of brain injuries and some of the injured have been evicted from the camp for further treatment.
+
+The US president has also reported that the attack has taken place in Jordan, while the attack has taken place within the Siria.
+
+◼️
 
 [Data](articles/0714f1c5.json)
+
+[Extended Data](ext_articles/0714f1c5.ext.json)
+
+---
+
+### තවත් ජීවිතයක් මුහුදට බිලි
+
+*2024-01-29 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192680) · `si`
+
+මුලතිවු, පුදුමාතලන් ප්‍රදේශයේදී මුහුදු වෙරළේ පිරිසක් සමග දිය නාමින් සිටි පුද්ගලයෙකු දියේ ගිලී ඇතුරුදන් වී තිබේ.
+
+පොලීසිය පවසන්නේ, ඊයේ (28) අතුරුදන් වූ පුද්ගලයා ඥාතීන් පිරිසක් සමග පුදුමාතලන් ප්‍රදේශයේදී මුහුදු වෙරළේ දිය නෑමට ගොස් සිටියදී මෙම අනතුරට මුහුණ දී ඇති බවය.
+
+දියේ ගිලී අතුරුදන් වූ පුද්ගලයා 10 කොටස, පුදුකුඩිඉරිප්පු ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකි.
+
+නාවික හමුදාව, පොලීසිය හා ප්‍රදේශවාසීන් එක්ව ඇතුරුදන් වූ අය සෙවීමේ කටයුතුවල නිරතව සිටි බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/6725d2a7.json)
 
 ---
 
@@ -71,6 +115,24 @@ The department said that the train services on the hill country have been blocke
 [Data](articles/2e41fbdf.json)
 
 [Extended Data](ext_articles/2e41fbdf.ext.json)
+
+---
+
+### මාවනැල්ලේ හදිසි ගින්නක් - කඩ 30ක් විනාශයි
+
+*2024-01-29 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192679) · `si`
+
+මාවනැල්ල නගරයේ ප්‍රධාන බස්නැවතුම් පොළ ඉදිරිපිට කඩ පෙළක ඊයේ (28) රාත්‍රියේ ඇති වූ ගින්නකින් වෙළෙඳසැල් 30ක් පමණ සම්පූර්ණයෙන්ම විනාශ වී තිබේ.
+
+වහා ක්‍රියාත්මක වූ පොලීසිය මාවනැල්ල ප්‍රාදේශීය සභාවේ ගිනි නිවීමේ ඒකකය හා ප්‍රදේශවාසීන් එක්ව ගින්න මැඩ පවත්වා ඇත.
+
+ගින්නෙන් පලතුරු, රෙදිපිළි සහ ප්ලාස්ටික් භාණ්ඩ තිබූ කඩ රැසක් විනාශ වී තිබේ.
+
+ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර මාවනැල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+
+◼️
+
+[Data](articles/0456b98e.json)
 
 ---
 
@@ -1859,79 +1921,5 @@ The pirates had allowed the Sri Lankan fishermen captured to communicate with th
 [Data](articles/ab899d94.json)
 
 [Extended Data](ext_articles/ab899d94.ext.json)
-
----
-
-### Batticaloa Kokkadicholai massacre: 37th commemoration
-
-*2024-01-28 15:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/174989) · `ta`
-
-The 37th anniversary of the assassinations at Kokkadicholai, Batticaloa took place today (28). Meanwhile, the Tamil National People's Front (TNA) hoisted the flame and paid a two -minute silent tribute to the memorial in Oddithi.
-
-On January 28, 1987, the soldiers surrounded the Kokkatticholai area and arrested 152 innocent civilians and shot dead.
-
-In this case, the Tamil National People's Front, Wellaveli organizer Kumarasingham, paid a two -minute silent tribute to the soul peace of the party.
-
-◼️
-
-[Data](articles/cf8c67e4.json)
-
-[Extended Data](ext_articles/cf8c67e4.ext.json)
-
----
-
-### Here is the new star
-
-*2024-01-28 15:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192657) · `si`
-
-West Indies have been able to record the current Test World Championship against Australia.
-
-The West Indies were playing a new bowling Shamar Joseph to score 7 wickets for 68 runs in 11.5 runs.
-
-Shamar Joseph is speaking with a grammatical disorder with his Mangala Test series.
-
-He had also taken 5 wickets against Australia against Australia in his Mangala Test match.
-
-Accordingly, he had taken 13 wickets in their Mangala Test series.
-
-The West Indies scored 311 runs for the first innings.
-
-The second innings were bowled out for 193 in 193.
-
-In search of winning the Test series, Australia's dream Shamar Joseph had not thought.
-
-Accordingly, he recorded both the hero and the hero of the tournament in front of his name.
-
-Steven Smith was unbeaten on a lonely struggle and scored 91 off 146 balls and 9 fours.
-
-Cricket critics predicted, and West Indies joined uses to add new players against the strong Australian team in this tournament.
-
-However, they have already answered the second Test match in 8 runs.
-
-...
-
-[Data](articles/37070cde.json)
-
-[Extended Data](ext_articles/37070cde.ext.json)
-
----
-
-### Explanation for Rs 500 crore in pyramid
-
-*2024-01-28 15:07:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பிரமிட்டில்-ரூ-500-கோடி-மோசடி-செய்தவருக்கு-விளக்கமறியல்/175-332228) · `ta`
-
-One person has been arrested by the network inquiry unit of the Criminal Investigation Department (CID) for allegedly defrauding Rs 500 crore in the money of deposits by the pyramid system in the name of Tradewin.
-
-The man who has been in hiding for the past three years has been arrested. The network's inquiry unit has announced that he was arrested while he was hiding in the Pilimathalawa area.
-
-The suspect has been a graduate teacher. Investigations have also been found that Basnayaka has worked as a major Vihar in the Southern Province.
-
-The arrested Eros was produced before the Kahadagastikiliya Magistrate on Sunday (28). The Magistrate Timuthu has ordered Kahadagastikiliya to be kept in detention until the 05th of this month.
-
-◼️
-
-[Data](articles/13eb2627.json)
-
-[Extended Data](ext_articles/13eb2627.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 13:51:33**
+As of **2024-01-29 14:02:25**
 
 ## Newspaper Stats
 
-*Scraped **3,255** Articles*
+*Scraped **3,268** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,82 @@ economynextcom | 177
 islandlk | 185
 newsfirstlk | 197
 dailyftlk | 223
-adalk | 291
+adalk | 297
 adaderanasinhalalk | 345
-virakesarilk | 350
-tamilmirrorlk | 406
-adaderanalk | 420
-dailymirrorlk | 440
+virakesarilk | 351
+tamilmirrorlk | 408
+adaderanalk | 421
+dailymirrorlk | 443
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,255 (100.0%) of 3,255 articles have been extended.
+3,255 (99.6%) of 3,268 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### ஜேர்மன் பிரஜையின் கைப்பையை திருடிய குற்றச்சாட்டில் இருவர் கைது
+
+*2024-01-29 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175061) · `ta`
+
+ஜேர்மன் நாட்டில் இருந்து யாழ்ப்பாணத்திற்கு வருகை தந்த பெண்ணொருவரின் கைப்பையை திருடிய குற்றச்சாட்டில் இருவர் கைது செய்யப்பட்டனர்.
+
+யாழ்ப்பாணம் சங்கானையைச் சேர்ந்த 28 வயது பெண் மற்றும் 21 வயது ஆண் சகோதரர்களே இவ்வாறு கைது செய்யப்பட்டனர்.
+
+திருநெல்வேலி சந்தையில் பொருட்களை கொள்வனவு செய்ய வந்த வெளிநாட்டு பெண்ணின் கடவுச்சீட்டு உள்ளிட்ட முக்கிய ஆவணங்கள், 500 யூரோ, 20,000 ரூபாய் அடங்கிய கைப்பையே கைக்குழந்தையுடன் வந்த பெண்ணொருவரால் நூதனமான முறையில் அபகரிக்கப்பட்டது.
+
+திருட்டுச் சம்பவம் தொடர்பாக கோப்பாய் பொலிஸ் நிலையத்தில் வெளிநாட்டவரால் முறைப்பாடு பதிவு செய்யப்பட்டது.
+
+கண்காணிப்பு கமராவின் உதவியுடன் பொலிஸாருக்கு கிடைத்த தகவலுக்கமைய யாழ்ப்பாண மாவட்ட பிராந்திய சிரேஸ்ட பொலிஸ் அத்தியட்சகருக்கு கீழ் இயங்கும் புலனாய்வு பிரிவினர் சந்தேக நபர்களை கைது செய்தனர்.
+
+◼️
+
+[Data](articles/3602955d.json)
+
+---
+
+### Two killed in accident at Sella Kataragama
+
+*2024-01-29 13:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-in-accident-at-Sella-Kataragama/108-275913) · `en`
+
+Kataragama, Jan 29 (Daily Mirror) - Two young men died and four others were seriously injured in an accident at Passarayaya in Sella Kataragama when the van they were travelling in ran out of control due to excessive speed and collided againt two motorcycles and a lorry parked by the roadside and subsequently crashed on to a tree.
+
+The deceased were identified as Dishan Kavinda Ranasinghe (26)  and Chanaka Lakshan (26) of Kataragama New Town.
+
+Two critically injured were admitted to the Hambantota General Hospital.
+
+Kataragama police are conducting further investigations on the instructions of SSP Tangalla K.B. Kirthiratne.
+
+◼️
+
+[Data](articles/4eadfc02.json)
+
+---
+
+### Sabaragamuwa Uni students arrested over ragging incident released on bail
+
+*2024-01-29 13:11:00* · [`adaderanalk`](https://www.adaderana.lk/news/96821/sabaragamuwa-uni-students-arrested-over-ragging-incident-released-on-bail) · `en`
+
+The seven students of the Sabaragamuwa University who were arrested for ragging a female student have been released on bail.
+
+As per the order issued by the Balangoda Magistrate’s Court when the case was taken up this morning (29 Jan.), the seven suspects were released on personal bails of Rs. 100,000 each.
+
+Initially, six male students of the Sabaragamuwa University were arrested by the Samanalawewa Police on Sunday evening (28 Jan.) for ragging a female student, according to police.
+
+The arrests were made following investigations carried out by the Samanalawewa Police based on a complaint received by the ‘1997’ hotline on 14 January.
+
+The arrested suspects, aged 23, 24 and 25, are reportedly a group of fourth year students of the university’s Faculty of Social Sciences and Languages.
+
+Meanwhile, the seventh suspect, a female student of the Sabaragamuwa University, had surrendered herself to the Samanalawewa Police this morning.
+
+◼️
+
+[Data](articles/3520a7da.json)
+
+---
 
 ### University students arrested for new torture incident
 
@@ -53,6 +113,22 @@ They were residents of Morawaka, Rukgahala, Imaduwa and Kithala, who is aged 23,
 [Data](articles/14b4d836.json)
 
 [Extended Data](ext_articles/14b4d836.ext.json)
+
+---
+
+### Thai Prime Minister to visit Sri Lanka, FTA to be signed
+
+*2024-01-29 12:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thai-Prime-Minister-to-visit-Sri-Lanka-FTA-to-be-signed/108-275910) · `en`
+
+Colombo, Jan. 29 (Daily Mirror)- Prime Minister of Thailand Srettha Thavisin will undertake a two-day official visit to Sri Lanka from 03 to 04 February 2024 where he is scheduled to witness the signing of  the Sri Lanka-Thailand Free Trade Agreement (SLTFTA), the Ministry of Foreign Affairs said.
+
+The Prime Minister is to arrive in the country at the invitation of President Ranil Wickremesinghe and will participate at the ceremony to mark the 76th Anniversary of Independence of Sri Lanka as a Guest of Honour.
+
+"During the visit, the Thai Prime Minister is scheduled to hold official discussions with President Wickremesinghe and witness the signing of the historic Sri Lanka-Thailand Free Trade Agreement (SLTFTA). The Free Trade Agreement will be signed by Phumtham Wechayachai, Deputy Prime Minister and Minister of Commerce of Thailand and Nalin Fernando, Minister of Trade, Commerce and Food Security of Sri Lanka," the the Ministry of Foreign Affairs said in a statement.
+
+...
+
+[Data](articles/4d157afa.json)
 
 ---
 
@@ -258,6 +334,36 @@ Iran said the attacks were echoing between US soldiers and opposition groups in 
 
 ---
 
+### பாதணி வவுச்சர்களின்   காலம் நீடிப்பு
+
+*2024-01-29 12:04:36* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாதணி-வவுச்சர்களின்-காலம்-நீடிப்பு/175-332263) · `ta`
+
+பாடசாலை மாணவர்களுக்காக அரசாங்கத்தினால் வழங்கப்பட்ட  பாதணிகளுக்கான வவுச்சர்கள் செல்லுபடியாகும் காலம் 17.02.2024 வரை நீடிக்கப்பட்டுள்ளதாக கல்வி அமைச்சு தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/4fb67098.json)
+
+---
+
+### විදේශීය චිත්‍රපට නිශ්පාදකයෙක් වෙන්කරගත් විශේෂ දුම්රිය පීලි පනියි
+
+*2024-01-29 12:02:29* · [`adalk`](https://www.ada.lk/picture_story/විදේශීය-චිත්‍රපට-නිශ්පාදකයෙක්-වෙන්කරගත්-විශේෂ-දුම්රිය-පීලි-පනියි/10-407772) · `si`
+
+නානුඔය සිට කොළඹ කොටුව දක්වා ධාවනය වු විශේෂ දුම්රියක් හැටන් සිංගිමලේ දුම්රිය උමං මාර්ගය අසලදි  (28) දින පස්වරුවේ පිලි පැනිම හේතුවෙන් උඩරට දුම්රිය මාර්ගයේ ඇණහිට තිබු ගමනා ගමන් කටයුතු (29) දින අලුයම 2 සිට යලි යථා තත්ත්වයට පත් කල බව හැටන් දුම්රිය ස්ථානයේ ස්ථානාධිපතිවරයා පැවසිය.
+
+විදේශිය රටක චිත්‍රපටයක් රුගත කිරිම සදහා එම චිත්‍රපටයේ නිෂ්පාදකවරයා විසින් දුම්රිය දෙපාර්තුමේන්තුවට මුදල් ගෙවා මැදිරි හයකින් සමන්විත මෙම දුම්රිය මේ මස (24-29) දින දක්වා ලබාගෙන තිබු දුම්රියක් බව සදහන්.
+
+රුගත කිරිම් අවසන් කර (28) දින යලිත් එම දුම්රිය නානුඔය සිට කොළඹ දක්වා ධාවනය කරමින් සිටි අවස්තාවේ එම දුම්රියේ මැදිරියක රෝද කිහිපයක් හැටන් සහ කොටගල දුම්රිය ස්ථාන දෙක අතර පිහිටි 108 ¾ සැතපුම් කණුව අසලදි දුම්රිය පිලි පැනිමට ලක් වි තිබුණි.
+
+පිලි පැනිමට ලක් වු දුම්රියේ මැදිරිය යලි (29) දින අලුයම පිලිගත කිරිමෙන් අනතුරුව උඩරට දුම්රිය මාර්ගයේ ගමනා ගමනය යලි යථා තත්ත්වයට පත් කෙරිණ.
+
+◼️
+
+[Data](articles/84272d17.json)
+
+---
+
 ### Universal Buddha further remanded
 
 *2024-01-29 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192694) · `si`
@@ -390,6 +496,24 @@ It is reported that the son has come to the police with a relative who has come 
 
 ---
 
+### Sri Lankan filmmaker clinches Best Director Award at Dhaka International Film Festival
+
+*2024-01-29 11:44:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-filmmaker-clinches-Best-Director-Award-at-Dhaka-International-Film-Festival/108-275909) · `en`
+
+Dhaka, Jan 29 -  Sri Lankan film director Jagath Manuwarna has clinched the esteemed 'Best Director' award in Asian Competition Section of the 22nd Dhaka International Film Festival (DIFF).
+
+Manuwarna's stellar victory is attributed to his feature film directorial debut, 'Whispering Mountains' (Rahas Kiyana Kandu), which first dazzled audiences at the Bright Future programme of the 2023 International Film Festival Rotterdam.
+
+The film not only premiered there but also secured the NETPAC Awards for the best Asian feature film, marking a notable recognition for the director's exceptional storytelling prowess.
+
+The 87-minute cinematic masterpiece continued its journey, earning an invitation to the prestigious 28th Busan International Film Festival in October 2023, further solidifying its standing on the global cinematic stage.
+
+◼️
+
+[Data](articles/a07d3f45.json)
+
+---
+
 ### Thai Prime Minister is coming to Sri Lanka
 
 *2024-01-29 11:38:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகின்றார்-தாய்லாந்து-பிரதமர்/175-332262) · `ta`
@@ -407,6 +531,24 @@ He is also participating in the signing of the Sri Lanka -Thailand Free Trade Ag
 [Data](articles/4a374886.json)
 
 [Extended Data](ext_articles/4a374886.ext.json)
+
+---
+
+### இலங்கை வருகிறார் தாய்லாந்து பிரதமர்
+
+*2024-01-29 11:38:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகிறார்-தாய்லாந்து-பிரதமர்/175-332262) · `ta`
+
+தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் எதிர்வரும் பெப்ரவரி மாதம் 3 ஆம் திகதி இலங்கைக்கு வருகைதரவுள்ளதாக வெளிவிவகார அமைச்சு அறிவித்துள்ளது.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அழைப்பை ஏற்று நாட்டுக்கு வருகைதரவுள்ள அவர், இலங்கையின் 76 ஆவது சுதந்திர தின விழாவில் பிரதம அதிதியாக பங்கேற்க இரண்டு நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு வருவதாக தெரிவிக்கப்பட்டுள்ளது.
+
+இந்த விஜயத்தின் போது, ஜனாதிபதி ரணில் விக்ரமசிங்க உள்ளிட்ட தரப்பினருடன் தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் கலந்துரையாடல்களை மேற்கொள்ளவுள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+
+அத்துடன் இலங்கை - தாய்லாந்து சுதந்திர வர்த்தக உடன்படிக்கையை கைச்சாத்திடும் நிகழ்விலும் அவர் பங்குபற்றவுள்ளதாகவும் வெளிவிவகார அமைச்சு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/7ed9c671.json)
 
 ---
 
@@ -674,9 +816,9 @@ He also urged the unresolved professional issues of state administrative service
 
 *2024-01-29 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96817/new-state-minister-of-plantation-industries-and-mahaweli-development-appointed-) · `en`
 
-Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Lohan Ratwatte has been sworn in as the new State Minister of Plantation Industries and Mahaweli Development before President Ranil Wickremesinghe.
+Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Lohan Ratwatte has been officially sworn in as the new State Minister of Plantation Industries and Mahaweli Development in the presence of President Ranil Wickremesinghe.
 
-He was sworn in to the position at the Presidential Secretariat, a short while ago, according to the President’s Media Division (PMD).
+The swearing-in ceremony was held at the Presidential Secretariat this morning (29) and attended by President’s Secretary Mr. Saman Ekanayake according to the President’s Media Division (PMD).
 
 ◼️
 
@@ -918,6 +1060,24 @@ It is the first time US soldiers have died in an attack on the Middle East after
 
 ---
 
+### ජනාධිපති අරමුදලෙන් පිරිනැමෙන ශිෂ්‍යත්ව මුදල ඉහළට
+
+*2024-01-29 09:52:08* · [`adalk`](https://www.ada.lk/breaking_news/ජනාධිපති-අරමුදලෙන්-පිරිනැමෙන-ශිෂ්‍යත්ව-මුදල-ඉහළට/11-407769) · `si`
+
+2021 (2022) වර්ෂයේදී පවත්වන ලද අ.පො.ස (සා.පෙළ) විභාගයට පළමු වරට පෙනී සිට විභාගය සමත්ව 2024 වර්ෂයේ දී අ.පො.ස (උසස් පෙළ) විභාගයට පෙනී සිටීමට නියමිත ආර්ථික දුෂ්කරතා ඇති සිසුන්ට ජනාධිපති අරමුදල මඟින් පිරිනමන ශිෂ්‍යත්ව දීමනාව 2024 පෙබරවාරි මස සිට රුපියල් දහසකින් වැඩි කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා උපදෙස් දී තිබේ.
+
+ශිෂ්‍ය ශිෂ්‍යාවන් විසින් කරන ලද ඉල්ලීම පිළිබඳ අවධානය යොමු කරමින් ජනාධිපතිවරයා විසින් මෙම උපදෙස් ලබා දී ඇත.
+
+ශ්‍රී ලංකාවේ සෑම ප්‍රදේශයකම වෙසෙන ඉගෙනීමට දක්ෂ, නමුත් ආර්ථික දුෂ්කරතා ඇති දරු දැරියන් හඳුනාගෙන ඔවුන්ගේ ඉදිරි අනාගතය යහපත් කිරීමේ අරමුණින් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ උපදෙස් අනුව ජනාධිපති ලේකම් සමන් ඒකනායක මහතාගේ මගපෙන්වීමෙන් ජනාධිපති අරමුදල විසින් ශිෂ්‍යත්ව ලබා ‍දීමේ වැඩසටහන ක්‍රියාත්මක කරනු ලබයි.
+
+2021/2022 වසරට අදාළව ශිෂ්‍යත්ව ප්‍රදානය කිරීමේ වැඩසටහන යටතේ ජනාධිපති අරමුදල විසින් ශිෂ්‍යත්වලාභීන්ට මේ වන විට මාසිකව රුපියල් 5,000ක දීමනාවක් ගෙවනු ලබන අතර මෙතෙක් මාසික වාරික 10ක් ගෙවා ඇත.
+
+...
+
+[Data](articles/9c33bf96.json)
+
+---
+
 ### A young family member who went to bathe in the Mullaitivu Matalan Sea
 
 *2024-01-29 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175027) · `ta`
@@ -955,6 +1115,38 @@ The Deputy Commissioner, who has expressed his displeasure with the police, has 
 [Data](articles/f89a1212.json)
 
 [Extended Data](ext_articles/f89a1212.ext.json)
+
+---
+
+### ගාල්ල සංවර්ධනයට විශේෂ කොමිසමක්
+
+*2024-01-29 09:48:30* · [`adalk`](https://www.ada.lk/uncategorized/ගාල්ල-සංවර්ධනයට-විශේෂ-කොමිසමක්/1-407768) · `si`
+
+ගාල්ල සංවර්ධන කටයුතු කඩිනම් කිරීම සඳහා විශේෂ කොමිසමක් පත් කිරීමට ජනාධිපති රනිල් වික්‍රමසිංහ මහතා තීරණය කර තිබේ.
+
+ගාල්ල සංවර්ධන කටයුතු පිළිබඳ සොයා බැලීමේ නිරීක්ෂණ චාරිකාවකට එක් වූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ගාල්ල නගරයේ සහ ගාල්ල කොටුව ප්‍රදේශය අවට සංචාරය කරමින් එහි සංවර්ධන කටයුතු පිළිබඳ සොයා බැලීය.
+
+ගාල්ල කොටුවේ පිහිටි රාජ්‍ය ආයතන සහ කාර්යාල ගාල්ල කොටුවෙන් පිටතට ගෙන ඒමේ ක්‍රියාවලියේ ඇති මන්දගාමී ස්වභාවය පිළිබඳ මෙහිදී අවධානය යොමු කළ ජනාධිපතිවරයා එම සංවර්ධන කටයුතු කඩිනම් කිරීමේ අවශ්‍යතාව නිලධාරීන්ට අවධාරණය කළේය.
+
+ගාල්ල නගර සංවර්ධන සැලැස්ම ක්‍රියාත්මක කිරීමේදී නාගරික සංවර්ධන අධිකාරිය, පුරාවිද්‍යා දෙපාර්තමේන්තුව හා අනෙකුත් සියලු ආයතන එක් ආයතනික ව්‍යුහයක් යටතේ ක්‍රියාත්මක වීමේ අවශ්‍යතාව පෙන්වා දුන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ප්‍රදේශයේ සංචාරක ව්‍යාපාරය ප්‍රවර්ධනයට අවශ්‍ය සැලැසුම් කඩිනමින් ක්‍රියාත්මක කිරීමේ අවශ්‍යතාව ද පැහැදිළි කළේය.
+
+...
+
+[Data](articles/fa59f99e.json)
+
+---
+
+### සබරේ නවක සිසුවියට නවක වදය දුන් සිසුන් 6ක් අත්අඩංගුවට
+
+*2024-01-29 09:39:21* · [`adalk`](https://www.ada.lk/breaking_news/සබරේ-නවක-සිසුවියට-නවක-වදය-දුන්-සිසුන්-6ක්-අත්අඩංගුවට/11-407767) · `si`
+
+සබරගමුව විශ්වවිද්‍යාලයේ නවක සිසුවියකට නවක වදය ලබාදුන් ඒම සරසවියේ ජ්‍යෙෂ්ඨ සිසුන් 6ක් අත්අඩංගුවට ගෙන තිබේ. 1977 යන ක්ෂණික ඇමතුම් අංකයට ලැබුණ ‌පැමිණිල්ලක් අනුව සමනල වැව පොලීසිය විසින් මෙම අත්අඩංගුවට ගැනීම සිදුකර තිබේ.
+
+අත්අඩංගුවට ගත් සැකකරුවන් එම විශ්වවිද්‍යාලයේ සිවුවන වසරේ ඉගෙනුම  ලබන අවුරුදු 23-25 අතර වයස්වල පසුවන්නන් වෙයි.
+
+◼️
+
+[Data](articles/13eb7846.json)
 
 ---
 
@@ -1152,6 +1344,20 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 
 ---
 
+### රු. කෝටි 3000ක ණයකින් මහනුවර බහුවිධ ප්‍රවාහන මධ්‍යස්ථානයේ ඉදිකිරීම් අරඹයි
+
+*2024-01-29 09:04:09* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-3000ක-ණයකින්-මහනුවර-බහුවිධ-ප්‍රවාහන-මධ්‍යස්ථානයේ-ඉදිකිරීම්-අරඹයි/11-407766) · `si`
+
+රු. කෝටි 3000ක ලෝක බැංකු ණය ආධාර මත ක්‍රියාත්මක මහනුවර බහුවිධ ප්‍රවාහන පර්යන්න සංවර්ධන ව්‍යාපෘතියේ (KMTT - kandy multimodale transit terminal) ඉදිකිරීම් සමාරම්භය ප්‍රවාහන, මහාමාර්ග හා ජනමාධ්‍ය අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන මහතාගේ සහ මධ්‍යම පළාත් ආණ්ඩුකාරවර නිතිඥ ලලිත් යු ගමගේ මහතාගේ  ප්‍රධානත්වයෙන් සිදු කෙරිණි
+
+ජනාධිපති රනිල් වික්‍රමසිංහ මැතිතුමාගේ සංකල්පයකට අනුව ක්‍රියාත්මක විසල් මහනුවර සංවර්ධන වැඩසටහන යටතේ මෙම කටයුතු සිදු වන අතර   මෙම KMTT ව්‍යාපෘතියේ ප්‍රධාන පරමාර්ථය වන්නේ මහනුවර නගරයේ තැන් තැන්වල ස්ථාපිත කර ඇති තාවකාලික බස් රථ පර්යන්ත සියල්ලම මහනුවර දුම්රිය ස්ථානයට යාබදව පිහිටා ඇති පැරණි ගුඩ්ෂෙඩ් බස් රථ පර්යන්තයේදී එකම වහලක් යටට ගෙන එමින් පොදු ප්‍රවාහන සේවාවන් ලබා ගැනීම සඳහා මගින් අනවශ්‍ය ලෙස නගරයේ වීදි අතර ගමන් කිරීම අවම කිරීමය.
+
+...
+
+[Data](articles/fbd3ccf3.json)
+
+---
+
 ### 6 university students arrested for sharing a student
 
 *2024-01-29 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175025) · `ta`
@@ -1191,6 +1397,24 @@ Despite his recovery, doctors have advised Weerasinghe should continue to rest e
 [Data](articles/84139c35.json)
 
 [Extended Data](ext_articles/84139c35.ext.json)
+
+---
+
+### නිදහස් උත්සවයේ ප්‍රධාන අමුත්තා ලෙස තායිලන්ත අගමැති එයි
+
+*2024-01-29 08:55:25* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-උත්සවයේ-ප්‍රධාන-අමුත්තා-ලෙස-තායිලන්ත-අගමැති-එයි/11-407765) · `si`
+
+තායිලන්ත අග්‍රාමාත්‍ය සේට්ඨා තවිසින් මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ඇරයුමෙන් 2024 පෙබරවාරි 03-04 යන දිනවල ශ්‍රී ලංකාවේ දෙදින නිල සංචාරයක නිරත වෙයි.  අග්‍රාමාත්‍යවරයා ශ්‍රී ලංකාවේ 76 වැනි නිදහස් සමරු උළෙලෙහි ගෞරවනීය ආරාධිතයා වශයෙන් සහභාගී වනු ඇත.
+
+මෙම සංචාරය අතරතුරදී, තායි අග්‍රාමාත්‍යවරයා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමඟ නිල සාකච්ඡා පැවැත්වීමට නියමිත අතර ශ්‍රී ලංකා- තායිලන්ත නිදහස් වෙළෙඳ ගිවිසුමට අත්සන් තැබීම නිරීක්ෂණය කිරීමටද නියමිතය.
+
+තායිලන්තයේ නියෝජ්‍ය අග්‍රාමාත්‍ය සහ වාණිජ අමාත්‍ය ඵූම්තාම් වෙචයචායි සහ  ශ්‍රී ලංකාවේ වෙළෙඳ, වාණිජ හා ආහාර සුරක්ෂිතතා අමාත්‍ය නලින් ප්‍රනාන්දු යන මහත්වරුන් විසින් නිදහස් වෙළෙඳ ගිවිසුම අත්සන් තැබෙයි.
+
+දෙරට අතර වෙළෙඳ සහ ආයෝජන සබඳතා වර්ධනය කොට ශ්‍රී ලංකාව ආසියාන් රටවල ආර්ථික සමඟ තවත් දැඩි ලෙස සමෝධානය වීම ශ්‍රී ලංකා-තායිලන්ත නිදහස් වෙළෙඳ ගිවිසුමෙන් අපේක්ෂිතය.
+
+...
+
+[Data](articles/60671e3f.json)
 
 ---
 
@@ -1674,6 +1898,10 @@ The cause of the fire is yet to be ascertained and Mawanella Police are conducti
 
 *2024-01-29 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96811/six-students-of-sabaragamuwa-uni-arrested-for-ragging-female-student) · `en`
 
+UPDATE: A total of seven suspects, including a female student, have been arrested in connection with the incident, police reported.
+
+According to police, the female suspect has surrendered herself to the Samanalawewa Police this morning (29 Jan.).
+
 Six male students of the Sabaragamuwa University have been arrested by Samanalawewa Police for ragging a female student, the police media unit said.
 
 The suspects have been arrested following investigations carried out by Samanalawewa Police based on a complaint received by the ‘1997’ hotline on January 14.
@@ -1823,251 +2051,5 @@ The legislation was passed in Parliament on the 24th of this month (January).
 [Data](articles/6574d984.json)
 
 [Extended Data](ext_articles/6574d984.ext.json)
-
----
-
-### Decoding Complexity: Implementing Systems Thinking in Decision-Making
-
-*2024-01-29 03:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Decoding-Complexity-Implementing-Systems-Thinking-in-Decision-Making/172-275850) · `en`
-
-Systems thinking has been an academic school of thought used in engineering, policy-making and more recently adapted by businesses to ensure the products and services are considering the ‘systems’ that they operate within.
-
-Further, it is a holistic approach to understanding and solving complex problems by considering the inter-relationships and the inter-dependencies within a system. When it comes to decision-making, a systems-thinking mindset can be highly beneficial.
-
-Despite strong interest, the relationship between systems thinking and complex decision-making has received consideration. With the use of a skill set called systems thinking, one can hope to better understand the deep roots of these complex behaviours to better predictions and ultimately adjust their outcomes.
-
-...
-
-[Data](articles/bec7d7fe.json)
-
-[Extended Data](ext_articles/bec7d7fe.ext.json)
-
----
-
-### Indo -Sri Lanka Boat Service begins next month
-
-*2024-01-29 02:28:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-இலங்கை-படகு-சேவை-அடுத்த-மாதம்-ஆரம்பம்/175-332237) · `ta`
-
-India and Sri Lanka are scheduled to resume their passenger ferry service from the 15th of this month.
-
-The Ministry of Ports, Shipping and Airlines said that the Government of India has obtained permission for this.
-
-Due to the North -East monsoon rains, it was decided to temporarily stop this shipping service on October 20. (A)
-
-◼️
-
-[Data](articles/7f3153fc.json)
-
-[Extended Data](ext_articles/7f3153fc.ext.json)
-
----
-
-### Accident
-
-*2024-01-29 02:12:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/செல்லக்கதிர்காமத்தில்-விபத்து-ஒருவர்-பலி/175-332236) · `ta`
-
-The accident occurred when a van and a lorry collided, police said.
-
-The deceased person was traveling in the air and four others were injured in the sky, police said. (A)
-
-◼️
-
-[Data](articles/10c2cefa.json)
-
-[Extended Data](ext_articles/10c2cefa.ext.json)
-
----
-
-### Cost Accounting takes centre stage in Colombo
-
-*2024-01-29 01:17:23* · [`dailyftlk`](https://www.ft.lk/business/Cost-Accounting-takes-centre-stage-in-Colombo/34-757879) · `en`
-
-International conference tackles cost and effect on industry and services to drive business performance
-
-In a landmark event to highlight the importance of “Cost Accounting”, the Institute of Certified Management Accountants of Sri Lanka (CMASL) and the Institute of Cost Accountants of India (ICAI) hosted a joint International Cost Conference on 20 January, 2024, titled «Cost and Effect on Industry and Services to Drive Business Performance».
-
-The conference brought together delegates from India, Pakistan, Bangladesh, the Maldives, and Sri Lanka, fostering cross-regional dialogue and knowledge exchange on a critical aspect of cost accounting and applicability of cost mechanisms through legal provisions.
-
-...
-
-[Data](articles/7d05dc67.json)
-
-[Extended Data](ext_articles/7d05dc67.ext.json)
-
----
-
-### Litro says growth trajectory to continue; gives Rs. 3 b dividend to Treasury
-
-*2024-01-29 01:12:40* · [`dailyftlk`](https://www.ft.lk/business/Litro-says-growth-trajectory-to-continue-gives-Rs-3-b-dividend-to-Treasury/34-757878) · `en`
-
-Litro Gas Lanka Ltd. has recently declared an impressive contribution of Rs. 3 billion in dividends to the Treasury through its primary shareholder, Sri Lanka Insurance Corporation. This consists of Rs. 1.5 billion made in October 2023 and another Rs. 1.5 billion paid on 26 January 2024.
-
-Litro said this noteworthy gesture comes at a crucial time when Sri Lanka is actively seeking to boost state revenue to attain stability in the aftermath of a pandemic followed by an economic downturn.
-
-Furthermore, Litro has demonstrated its commitment to national empowerment by also paying Rs. 2.6 billion in taxes and duties, solidifying its position as one of the few profitable state-owned enterprises. Despite facing challenges, including a shortage of foreign reserves that affected its supply chain, Litro swiftly resolved the issues.
-
-...
-
-[Data](articles/938420f1.json)
-
-[Extended Data](ext_articles/938420f1.ext.json)
-
----
-
-### Marikkar reveals real reasons behind parliament prorogation
-
-*2024-01-29 00:41:06* · [`dailyftlk`](https://www.ft.lk/news/Marikkar-reveals-real-reasons-behind-parliament-prorogation/56-757871) · `en`
-
-Says decision to prorogue parliament was an indirect attempt to oust CoPE Chairman
-
-Claims Govt. lacks courage to directly remove him from post despite many allegations against him
-
-Stresses Wickremesinghe will not be able to prolong his tenure as polls cannot be postponed any longer
-
-Vows to display where power of citizens lies on 30 January through mass demonstration organised by SJB
-
-SJB MP S.M. Marikkar asserted yesterday that President Ranil Wickremesinghe’s abrupt decision to prorogue parliament was an indirect attempt to oust the Chairman of the Committee On Public Enterprises, Ranjith Bandara due to allegations against him, suggesting that the Government lacked the courage to directly remove him from the post.
-
-He noted that the Government has opted for proroguing parliament as it automatically results in the cancellation of all committees, effectively removing Ranjith Bandara from his post without the need for direct action to strip him of the position.
-
-...
-
-[Data](articles/fd0f6aac.json)
-
-[Extended Data](ext_articles/fd0f6aac.ext.json)
-
----
-
-### India rushes to aid SL in rescue of fisherman abducted by Somali pirates
-
-*2024-01-29 00:35:53* · [`dailyftlk`](https://www.ft.lk/news/India-rushes-to-aid-SL-in-rescue-of-fisherman-abducted-by-Somali-pirates/56-757869) · `en`
-
-The Sri Lanka Navy has announced that India has committed to aiding in the rescue of six Sri Lankan fishermen abducted by Somali pirates.
-
-Speaking to the media, Sri Lanka Navy Spokesman Captain Gayan Wickramasuriya said the Indian Navy had already sent a warship to investigate, while the Sri Lanka Navy was also preparing a vessel to travel to the area.
-
-The multiday fishing trawler identified as Lorenzo Putha-4, had departed from Dikowita port in Chilaw on 12 January and was hijacked in international waters north of Seychelles some 840 nautical miles southeast of the Somali capital Mogadishu, with six Sri Lankan fishermen believed to be on board.
-
-...
-
-[Data](articles/f50e211e.json)
-
-[Extended Data](ext_articles/f50e211e.ext.json)
-
----
-
-### Govt. approves stringent penalties for offences
-
-*2024-01-29 00:35:12* · [`dailyftlk`](https://www.ft.lk/news/Govt-approves-stringent-penalties-for-offences/56-757868) · `en`
-
-The Government has decided to increase fines and prison terms associated with 68 offences outlined in the Penal Code. The decision involves a substantial increase from the earlier Rs. 100 fine for certain offences to an amount exceeding Rs. 1,000.
-
-The Cabinet of Ministers gave its nod to a draft amendment presented by Justice Minister Wijeyadasa Rajapakshe, paving the way for revised penalties. However, the amended fines and prison terms will not apply to offences committed before the regulations take effect.
-
-...
-
-[Data](articles/a59080dd.json)
-
-[Extended Data](ext_articles/a59080dd.ext.json)
-
----
-
-### Special commission for Galle development
-
-*2024-01-29 00:18:16* · [`dailyftlk`](https://www.ft.lk/news/Special-commission-for-Galle-development/56-757867) · `en`
-
-President attends Galle Literary Festival; directs acceleration of Galle City Development Plan under unified organisational structure
-
-President Ranil Wickremesinghe has decided to establish a special commission to expedite the development of Galle.
-
-During an inspectional tour on Saturday, the President visited Galle city and the Galle Fort area, inspecting ongoing development activities.
-
-He expressed concern about the slow progress in relocating Government institutions and offices from Galle Fort and emphasised the need to accelerate development efforts.
-
-President Wickremesinghe highlighted the importance of integrating the Urban Development Authority (UDA), the Department of Archaeology and other institutions under a unified organisational structure for the Galle City Plan.
-
-...
-
-[Data](articles/410e9427.json)
-
-[Extended Data](ext_articles/410e9427.ext.json)
-
----
-
-### 2024-01-28 (Sunday)
-
-### Parate rights of banks and supporting SME recovery
-
-*2024-01-28 23:46:06* · [`dailyftlk`](https://www.ft.lk/columns/Parate-rights-of-banks-and-supporting-SME-recovery/4-757859) · `en`
-
-SME associations want parate rights to be deferred for 12 months to give breathing space to the tourism sector and SMEs, largely they claim due to the unreasonable lending interest rates of 2022 and the pandemic. Whilst the bankers say they need to hold the whip of “Parate Rights,” SMEs say banks shouldn’t be allowed to crack it irresponsibly. What has happened in the recent past they say is irresponsible cracking of the whip.
-
-...
-
-[Data](articles/f9a9805c.json)
-
-[Extended Data](ext_articles/f9a9805c.ext.json)
-
----
-
-### Serendib Flour Mills celebrates Thai Pongal harvest with artistic flair
-
-*2024-01-28 23:30:00* · [`islandlk`](http://island.lk/serendib-flour-mills-celebrates-thai-pongal-harvest-with-artistic-flair/) · `en`
-
-The Serendib Adhi Shakthi Kolam Competition, a showcase of artistic flair held during the Pongal celebrations was hosted by Serendib Flour Mills to illuminate the harvest festival, specifically across plantation communities.
-
-The event, a collaboration between Serendib Flour Mills and the Plantation Human Development Trust (PHDT) was themed ‘Celebrating Thai Pongal in the Plantation Sector’ and aimed to highlight the estate culture around the important Tamil harvest celebration marked by family, food, and festivities.
-
-The event took place at the Radella Cricket Club in Nuwaraeliya and the PHDT Training Center in Hatton. Over 200 women from estate-based organizations showcased their artistic talents by designing beautiful and colourful ‘Kolam’ floor art incorporating Serendib’s ‘Adi Shakthi’ brand name; Serendib Flour Mills new Fortified Wheat Flour has been formulated to meet the nutritional needs of estate communities.
-
-Reforms to stay course with bets on elections: First Capital Research
-
-...
-
-[Data](articles/b7e2742e.json)
-
-[Extended Data](ext_articles/b7e2742e.ext.json)
-
----
-
-### Southern Province Entrepreneur Awards recognizes ‘best innovative’ jewellery manufacturer
-
-*2024-01-28 23:30:00* · [`islandlk`](http://island.lk/southern-province-entrepreneur-awards-recognizes-best-innovative-jewellery-manufacturer/) · `en`
-
-Amila Gold House Private Limited, a leader in the manufacture and sale of fine jewellery in the Southern Province with a proud history of more than 25 years, was honoured as the Best Innovative Enterprise at the at the Southern Province Entrepreneur Awards 2023.
-
-The award ceremony organised by the Southern Provincial Chamber of Commerce and Industry in collaboration with the National Enterprise Development Authority (NEDA), with the aim of recognising and honouring entrepreneurs who have demonstrated excellence, was held under the patronage of the Minister of Industries Dr. Ramesh Pathirana. The award was received by Amila Gold House Private Limited Chairman, Amila Indunil de Silva. Amila Gold House was the first jewellery business to secure International Standards Organisation (ISO) 9001-2015 quality certifications in 2019.
-
-Samsung continues to lead digital signage market for 14 consecutive years
-
-Reforms to stay course with bets on elections: First Capital Research
-
-...
-
-[Data](articles/e6a4d015.json)
-
-[Extended Data](ext_articles/e6a4d015.ext.json)
-
----
-
-### WORX Coworking unveils its 4th property in Colombo
-
-*2024-01-28 23:29:00* · [`islandlk`](http://island.lk/worx-coworking-unveils-its-4th-property-in-colombo/) · `en`
-
-In response to the growing demand for flexible workspaces, WORX Coworking proudly announces the inauguration of its latest coworking facility situated at No. 14 Gower Street, Colombo 05. As a frontrunner in providing innovative workspace solutions, WORX Coworking continues to redefine the professional landscape by expanding its footprint in the city.
-
-Strategically situated in a convenient Colombo neighbourhood, the Gower Street location marks WORX Coworking’s 4th property, reflecting its commitment to catering to the diverse needs of professionals in Sri Lanka. The state-of-the-art facility is strategically positioned to meet the demands of a dynamic workforce seeking flexible, inspiring environments.
-
-India gearing up Central Bank Digital Currency for cross-border payments
-
-Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
-
-Save my name, email, and website in this browser for the next time I comment.
-
-◼️
-
-[Data](articles/70795b13.json)
-
-[Extended Data](ext_articles/70795b13.ext.json)
 
 ---

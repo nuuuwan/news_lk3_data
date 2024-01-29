@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 12:32:58**
+As of **2024-01-29 12:48:42**
 
 ## Newspaper Stats
 
-*Scraped **3,244** Articles*
+*Scraped **3,245** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,50 +19,74 @@ adalk | 291
 adaderanasinhalalk | 342
 virakesarilk | 345
 tamilmirrorlk | 406
-adaderanalk | 419
+adaderanalk | 420
 dailymirrorlk | 440
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,234 (99.7%) of 3,244 articles have been extended.
+3,245 (100.0%) of 3,245 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### විශ්ව බුද්ධ යළි රිමාන්ඩ්
+### Thai Prime Minister to visit Sri Lanka to sign FTA
+
+*2024-01-29 12:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96820/thai-prime-minister-to-visit-sri-lanka-to-sign-fta) · `en`
+
+The Prime Minister of Thailand, Srettha Thavisin will undertake a two-day official visit to Sri Lanka from 03 – 04 February 2024 at the invitation of President Ranil Wickremesinghe, the Ministry of Foreign Affairs said.
+
+The Thai Prime Minister will participate in the ceremony to mark the 76th Anniversary of the Independence of Sri Lanka as Guest of Honour.
+
+During the visit, the Thai Prime Minister is scheduled to have official discussions with President Wickremesinghe, and witness the signing of the historic Sri Lanka – Thailand Free Trade Agreement (SLTFTA), the Ministry of Foreign Affairs added.
+
+The Free Trade Agreement will be signed by Phumtham Wechayachai, Deputy Prime Minister and Minister of Commerce of Thailand and Nalin Fernando, Minister of Trade, Commerce and Food Security of Sri Lanka. The SLTFTA is expected to boost trade and investment ties between the two countries and promote deeper integration with ASEAN economies, the statement said.
+
+...
+
+[Data](articles/6d0a4f5e.json)
+
+[Extended Data](ext_articles/6d0a4f5e.ext.json)
+
+---
+
+### Universal Buddha further remanded
 
 *2024-01-29 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192694) · `si`
 
-"විශ්ව බුද්ධ" නමින් පෙනී සිටිමින් බුදු දහමට අපහාස වන ආකාරයේ ප්‍රකාශ සිදුකිරීමේ චෝදනාව මත අත්අඩංගුවට ගෙන රක්ෂිත බන්ධනාගාරගත කර සිටින රොෂාන් රණසිංහ නැමැත්තා සම්බන්ධයෙන් වන නඩුව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණයේදී අද (29) යළි කැඳවනු ලැබීය.
+The case was recalled against Roshan Ranasinghe, who was arrested by the "Universal Buddha" and remanded in charge of the claims to be arrested.
 
-එහිදි ශ්‍රී ලංකා රාමඤඤා නිකාය වෙනුවෙන් අධිකරණයේ පෙනී සිටි ජනාධිපති නීතිඥවරයා ඉල්ලා සිටියේ, සැකකරුගේ උපසම්පදාව මේ වන විට අහෝසිකර ඇති බැවින් ඔහු තවදුරටත් හිමිනමක් ලෙස නොසලකන ලෙසය.
+The President's Counsel appeared for the Ramana Sect of Sri Lanka was asked for the orders of the suspect as he was no longer a monk.
 
-මෙහිදි මෙම නඩුවට අදාළව කොළඹ ප්‍රධාන මහෙස්ත්‍රාත්වරයා විසින් සැකකරුගේ ඇප අවලංගු නොකළ අතර නුගේගොඩ මහෙස්ත්‍රාත් අධිකරණයේ පවතින නඩුවට අදාළව පෙබරවාරි 02 දක්වා ඔහු තවදුරටත් රක්ෂිත බන්ධනාගාරගත කළේය.
+The Colombo Chief Magistrate issued the bail of the suspect in connection with the case.
 
 ◼️
 
 [Data](articles/5ac94777.json)
 
+[Extended Data](ext_articles/5ac94777.ext.json)
+
 ---
 
-### வற் வரியை பதிவு செய்யாமல் நுகர்வோரிடமிருந்து வசூலிக்கும் நிறுவனங்களைக் கண்டறிய நடவடிக்கை!
+### Action to find companies that charge consumers without registering the tax!
 
 *2024-01-29 11:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175040) · `ta`
 
-வற் வரியைப் பதிவு செய்யாமல் அதனை நுகர்வோரிடமிருந்து வசூலிக்கும் நிறுவனங்களைக் கண்டறிய இறைவரி திணைக்களம்  சோதனையில் ஈடுபட்டுள்ளதாக திணைக்களத்தின் உயர் அதிகாரி ஒருவர் தெரிவித்தார்.
+A senior official of the Department said that the Department of Personal Department was conducting raids to find companies that charge it from consumers without registering the tax.
 
-வற் வரிக்காக பதிவு செய்யப்பட்ட வர்த்தக நிறுவனங்கள்  வியாபார நடவடிக்கைகளில் ஈடுபடும்போது, அவர்களின் வெற் பதிவு எண்ணை நுகர்வோரின் பார்வைக்குக் காண்பிக்க வேண்டியது கட்டாயமாகும்.
+When businesses registered for taxes are engaged in business activities, it is imperative that they look at the consumer's view of the consumer.
 
-இவ்வாறு செயற்படாத வர்த்தக நிறுவனங்கள் தொடர்பில் இறைவரித் திணைக்கள ஆணையாளருக்கு வாடிக்கையாளர்கள் நேரடியாகவே  முறைப்பாடு செய்யலாம்.
+Customers can complain directly to the Commissioner of the Department of Labor regarding the non -functioning businesses.
 
-இதேவேளை, இது தொடர்பில் அதிகளவான முறைப்பாடுகள் கிடைக்கப்பெற்றுள்ளதாகவும் அவவை தொடர்பில் நடவடிக்கை எடுக்கப்பட்டுள்ளதாகவும் அவர் மேலும் கூறினார்.
+Meanwhile, he added that more complaints have been received and action has been taken in connection with them.
 
 ◼️
 
 [Data](articles/ede7566d.json)
+
+[Extended Data](ext_articles/ede7566d.ext.json)
 
 ---
 
@@ -90,27 +114,29 @@ Additionally, Oman Air has introduced measures to optimise its schedule, startin
 
 ---
 
-### වල්ඌරාට තැබූ වෙඩිල්ල පියාට වදී
+### Lady Wedilla, who was placed on the father
 
 *2024-01-29 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192693) · `si`
 
-දැදිගම ජයලත් කන්ද ප්‍රදේශයේ වල්ඌරන් දඩයමේ ගිය පිය පුතු දෙපල අතරින් පියා වෙඩිවැදී ජීවිතක්ෂයට පත්ව තිබේ.
+The father was shooting out of the two father-sons of the wildest hunt in Jayalath Mount, Dedigama.
 
-පොලීසිය පැවසුවේ, අත්වැරදීමකින් පුතා එල්ල කළ වෙඩි පහරින් පියා එලෙස මියගොස් ඇති බවය.
+According to the police, the father had been shot dead by a mistake.
 
-අප වාර්තාකරු පැවසුවේ, ඊයේ (28) රාත්‍රියේ දඩයමේ ගොස් සිටිය දී මෙම ඛේදනීය සිදුවීම සිදුව ඇති බවය.
+Our correspondent said that the tragedy had taken place yesterday (28).
 
-පුතා එල්ල කළ වෙඩිල්ලෙන් පියාගේ හිසට බරපතළ තුවාල සිදුව ඇති අතර, පියා එම ස්ථානයේ දීම ජීවිතක්ෂයට පත්ව ඇත.
+Father's head has been seriously injured in the son's shopping and the father died.
 
-එලෙස ජීවිතක්ෂයට පත්ව ඇත්තේ, 47 හැවිරිදි ඩබ්ලිව් .සම්පත් නම් අයෙක් වන අතර වෙඩිතැබීම සිදුකර කර ඇත්තේ 17 හැවිරිදි ඔහුගේ පුත්‍රයා විසිනි.
+The victim was 47-year-old W.W.
 
-වල්ඌරන් කොටුකර ගැනීමට පියා සහ පුතා දෙපැත්තකින් ගොස් ඇති අතර, අනතුරුව පියා විදුලි පන්දම බිමට හරවා ලඳු කැලෑව අතරින් ගමන් කරමින් සිටිය දී පුතා ගිනිඅවිය ක්‍රියාත්මක කර තිබේ.
+The father and her son had gone to a group of two sides, while the father was turning into a thumb, was heading the torch.
 
-පසුව තමා අතින් සිදුවු වැරැද්දෙන් පියා මියගොස් ඇතැයි දැනගත් පුතා ඥාතියෙක් සමග පොලීසියට පැමිණ භාරවී ඇති බව වාර්තා වේ.
+It is reported that the son has come to the police with a relative who has come to death in his hand of his mistake.
 
 ◼️
 
 [Data](articles/9ff4de11.json)
+
+[Extended Data](ext_articles/9ff4de11.ext.json)
 
 ---
 
@@ -172,6 +198,8 @@ Malaysia’s former Finance Minister charged with corruption after Pandora Paper
 
 [Data](articles/149402ed.json)
 
+[Extended Data](ext_articles/149402ed.ext.json)
+
 ---
 
 ### Gazed recovery
@@ -198,49 +226,55 @@ Police said the magistrate had been asked to investigate the place where the org
 
 ---
 
-### யாழில் தோட்ட கிணற்றில் இருந்து மூதாட்டி சடலமாக மீட்பு
+### Recovery from garden well in Jaffna
 
 *2024-01-29 11:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175042) · `ta`
 
-வீட்டில் தனிமையில் வசித்து வந்த மூதாட்டி ஒருவர், வீட்டுக்கு அருகில் உள்ள தோட்ட கிணற்றில் இருந்து சடலமாக நேற்று ஞாயிற்றுக்கிழமை (28) மீட்கப்பட்டுள்ளார்.
+A grandmother, who lives alone in the house, has been recovered from a garden well near the house on Sunday (28).
 
-யாழ்ப்பாணம் கரணவாய் தெற்கை சேர்ந்த, சிவஞானம் கனகமணி (வயது 71)  என்பவரே சடலமாக மீட்கப்பட்டுள்ளார்.
+Sivagnanam Kanagamani (age 71) from Karanawai south of Jaffna has been recovered.
 
 ◼️
 
 [Data](articles/7a6679a5.json)
 
+[Extended Data](ext_articles/7a6679a5.ext.json)
+
 ---
 
-### ஜோர்தானில் அமெரிக்க தளம் மீதுதாக்குதல்  - தொடர்பில்லை என்கின்றது ஈரான்
+### Iran says that the US site is unrelated to Jordan
 
 *2024-01-29 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175041) · `ta`
 
-ஜோர்தானில் உள்ள அமெரிக்க தளத்தை இலக்குவைத்து மேற்கொள்ளப்பட்ட ஆளில்லாவிமானதாக்குதலில் மூன்று அமெரிக்க படையினர் கொல்லப்பட்டுள்ள அதேவேளை இந்த தாக்குதலுக்கும் தனக்கும் தொடர்பில்லை என ஈரான் தெரிவித்துள்ளது.
+Iran has said that three US soldiers have been killed in a target of a US base in Jordan, while the attack has been related to the attack.
 
-அமெரிக்க தளத்தின் மீதான தாக்குதலிற்கும் ஈரானிற்கும் எந்த தொடர்பும் இல்லை என ஐநாவிற்கான ஈரானிய தூதரகம் தெரிவித்துள்ளது.
+The Iranian embassy for the UN has said that Iran has nothing to do with the attack on the US base.
 
-பிராந்தியத்தில் அமெரிக்க படையினருக்கும் எதிர்ப்பு குழுவினருக்கும் இடையில் மோதல் காணப்படுகின்றது இதன் எதிரொலியே இந்த தாக்குதல்கள் என ஈரான் தெரிவித்துள்ளது.
+Iran said the attacks were echoing between US soldiers and opposition groups in the region.
 
 ◼️
 
 [Data](articles/73475fdf.json)
 
+[Extended Data](ext_articles/73475fdf.ext.json)
+
 ---
 
-### முல்லைத்தீவில் பட்டத் திருவிழா : இளைஞனை விசாரணைக்குட்படுத்திய பொலிஸார்
+### Graduation Festival in Mullaithivu: Police investigated young man
 
 *2024-01-29 11:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175036) · `ta`
 
-இதன்போது, வித்தியாசமான வடிவில் பட்டங்களை உருவாக்கி  சிறுவர்கள் முதல் பெரியவர்கள் வரை பட்டம் ஏற்றி மகிழ்ந்திருந்தனர்.
+During this time, the children were entertained from children to adults.
 
-குறித்த பட்ட திருவிழாவில் முல்லைத்தீவினை சேர்ந்த இளைஞர் ஒருவர் பட்டத்தில் தமிழீழ வரைபடம், கார்த்திகை பூவின் பட அமைப்பில் உருவாக்கப்பட்ட பட்டத்தினை ஏற்றியுள்ளார்.
+A young man from Mullaitivu has loaded the title of Tamil Eelam Map and Karthika Poo's image system.
 
-இதனை தாம், அவதானித்தாக கூறி முல்லைத்தீவு பொலிஸார் அவ் இடத்திற்கு சென்று குறித்த இளைஞனை விசாரணைக்கு உட்படுத்தியுள்ளனர்.
+The Mullaitivu police have gone to the spot and have investigated the youth.
 
 ◼️
 
 [Data](articles/8823bd49.json)
+
+[Extended Data](ext_articles/8823bd49.ext.json)
 
 ---
 
@@ -276,19 +310,21 @@ Dinura Kalubahana scored 64 off 78 balls, including 6 pounds and 3 sixes.
 
 ---
 
-### இலங்கையின் புதிய உண்மை ஐக்கிய நல்லிணக்க ஆணைக்குழு  நம்பகத்தன்மை மிக்கதாகயில்லை -சர்வதேச மனித உரிமை கண்காணிப்பகம்
+### Sri Lanka's new fact United Reconciliation Commission is not credible -International Human Rights Watch
 
 *2024-01-29 11:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175038) · `ta`
 
-போர்க்கால மனித உரிமைமீறல்களை துஸ்பிரயோங்களை விசாரிப்பதற்கான மற்றுமொரு அமைப்பை உருவாக்குவதற்கு இலங்கை அரசாங்கம்முன்வைத்துள்ள சட்டமானது முன்னைய தோல்வியுற்ற முயற்சிகளை பிரதிபலிப்பதாகவும் பாதிக்கப்பட்டவர்களின் தேவைகளை புறக்கணிப்பதாகவும் இலங்கையின் சர்வதேச கடப்பாடுகளை நிறைவேற்றாததாகவும் காணப்படுகின்றது  என சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+The International Human Rights Watch has said that the Sri Lankan government's legislation to create another organization to investigate wartime human rights violations is reflected in previous failure, ignoring the needs of the victims and not fulfilling the international obligations of Sri Lanka.
 
-ஆயுதமோதல்கள் முடிவிற்கு வந்த 15 வருடங்களின் பின்னரும் இலங்கை பாதிக்கப்பட்டவர்களின் குடும்பத்தவர்களை  மௌனமாக்கும் ஒடுக்கும் நடவடிக்கைகளில் ஈடுபட்டுள்ளதாகவும் சர்வதேச மனித உரிமை கண்காணிப்பகம் தெரிவித்துள்ளது.
+The International Human Rights Watch has said that even after the end of the armed forces, Sri Lanka is engaged in silence and suppressing the families of the victims.
 
-2023 ம் ஆண்டு இடம்பெற்ற குறைந்தளவு கலந்தாலோசனைகளின் பின்னர் உண்மை ஐக்கியம் மற்றும் நல்லிணக்க ஆணைக்குழுவிற்கான சட்டமூலம் 2024 ஜனவரி 1ம் திகதி வெளியானது என தெரிவித்துள்ள சர்வதேச மனித உரிமை கண்காணிப்பகம் பிரிவினைவாத தமிழீழ விடுதலைப்புலிகளுடன் 1983 முதல் 2009 வரை இடம்பெற்ற உள்நாட்டு யுத்தத்தின் போது இடம்பெற்ற மனித உரிமை மீறல்கள் யுத்த குற்றங்களை விசாரணை செய்வதாக அரசாங்கம் உறுதிமொழி வழங்கியிருந்தது எனவும் தெரிவித்துள்ளது.
+The government has pledged to investigate war crimes crimes during the Civil War 1983 to 2009 civil war with the International Human Rights Watch, which has been released on January 1, 2024, after the minimum consultation in 2023.
 
 ...
 
 [Data](articles/3d84b4a8.json)
+
+[Extended Data](ext_articles/3d84b4a8.ext.json)
 
 ---
 
@@ -378,37 +414,43 @@ Police life savers have been deployed to face any emergency situation.
 
 ---
 
-### அரச நிர்வாக சேவை அதிகாரிகள் சுகவீன விடுமுறை போராட்டம்
+### Public Administrative Service Officers Surprise Struggle Struggle
 
 *2024-01-29 10:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175033) · `ta`
 
-அனைத்து அரச நிர்வாக சேவை அதிகாரிகளும் இன்று திங்கட்கிழமை (29) முதல்  சுகவீன விடுமுறை போராட்டத்தை ஆரம்பித்துள்ளனர்.
+All state administrative service officials have launched a sick holiday struggle from Monday (29).
 
-பல கோரிக்கைகளை முன்வைத்து குறித்த தொழிற்சங்க நடவடிக்கை ஆரம்பிக்கப்பட்டுள்ளதாகவும், அனைத்து அரச நிர்வாக சேவை அதிகாரிகளின்  பங்குபற்றுதலுடன் இன்று  பேச்சுவார்த்தை  ஒன்று நடைபெறவுள்ளதாகவும் அரச நிர்வாக சேவை அதிகாரிகளின் ஒன்றிணைந்த கூட்டமைப்பின் தலைவர் எச்.ஏ.எல் உதயசிறி தெரிவித்துள்ளார்.
+HAL Udayasiri, President of the Joint Federation of Public Administration Service Officers, said that the union action has been launched on several demands and that a meeting will be held today with the participation of all public administration service officials.
 
-இது குறித்து மேலும் கூறிய அரச நிர்வாக சேவை அதிகாரிகளின் ஒன்றிணைந்த கூட்டமைப்பின் தலைவர் எச்.ஏ.எல் உதயசிறி,
+Commenting on this, HAL Udayasiri, President of the Joint Federation of Public Administrative Service Officers, said,
 
-“இன்று, கூட்டுக் குழுவைப் பிரதிநிதித்துவப்படுத்தும் அரசாங்கத்தின் நிறைவேற்று அதிகாரிகள், நாடளாவிய, இணையான சேவைகள் மற்றும் திணைக்கள சேவைகளைப் பிரதிநிதித்துவப்படுத்தும் தொழிற்சங்க நடவடிக்கையில் ஈடுபட தீர்மானித்துள்ளனர்.
+“Today, the government's executive officers representing the joint committee have decided to engage in union action representing nationwide, parallel services and departmental services.
 
-அரச ஆயுர்வேத வைத்திய அதிகாரிகளின் சங்கம், உள்நாட்டு இறைவரி தொழிற்சங்க ஒன்றியம், கல்வி நிர்வாக சேவை தொழிற்சங்க ஒன்றியம் உள்ளிட்ட  17 தொழிற்சங்கங்கள் இன்று கொழும்பில் ஒன்றுகூடி பேச்சுவார்த்தையை நடத்தவுள்ளன.
+17 trade unions, including the State Ayurvedic Medical Officers' Association, the Internal Real Estate Trade Union and the Education Administrative Service Trade Union, will hold a meeting in Colombo today.
 
-...
+He also urged the unresolved professional issues of state administrative service officials.
+
+◼️
 
 [Data](articles/06c8df80.json)
 
+[Extended Data](ext_articles/06c8df80.ext.json)
+
 ---
 
-### லொஹான் ரத்வத்த இராஜாங்க அமைச்சராக பதவிப்பிரமாணம்
+### Lohan Ratwatta
 
 *2024-01-29 10:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175034) · `ta`
 
-பெருந்தோட்ட கைத்தொழில் மற்றும் மகாவலி அபிவிருத்தி இராஜாங்க அமைச்சராக லொஹான் ரத்வத்த ஜனாதிபதி ரணில் விக்ரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டார்.
+Lohan Ratwatte President Ranil Wickremesinghe was sworn in as the Minister of State for Plantation Industries and Mahaweli Development.
 
-ஜனாதிபதி செயலகத்தில் வைத்து சற்று முன்னர் பதவிப்பிரமாணம் செய்துகொண்டதாக ஜனாதிபதி ஊடகப்பிரிவு தெரிவித்துள்ளது.
+The Presidential Media Division said that he was sworn in at the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/5b901c4b.json)
+
+[Extended Data](ext_articles/5b901c4b.ext.json)
 
 ---
 
@@ -2003,23 +2045,5 @@ At least nine countries, including top donors the U.S. and Germany, have paused 
 [Data](articles/9ac35a5e.json)
 
 [Extended Data](ext_articles/9ac35a5e.ext.json)
-
----
-
-### The election of the General Secretary of the Sri Lankan TNA cannot be accepted;Members of the Model, Ampara and Tirumalai request to hold a referendum
-
-*2024-01-28 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175013) · `ta`
-
-The majority of the General Assembly in the Batticaloa, Ampara and Trincomalee districts has called for a referendum to be re -elected to the post.
-
-The Central Executive Committee Meeting of the Sri Lanka Tamil National Alliance (TNA) and the first day of the 17th National Convention General Assembly meeting were held on Saturday (27) at a private hotel in Uppuwel, Trincomalee.
-
-The first meeting was held at the Central Executive Committee meeting for the post of General Secretary. In the past, Ariyanethran proposed Srinasan. Subsequently, Kulanayagam demanded him to give him the position. Later, Sumanthiran said he would want the post of General Secretary even though the new leader said he would be the senior vice president.
-
-...
-
-[Data](articles/a84b0e08.json)
-
-[Extended Data](ext_articles/a84b0e08.ext.json)
 
 ---

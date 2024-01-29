@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 10:32:50**
+As of **2024-01-29 10:50:32**
 
 ## Newspaper Stats
 
-*Scraped **3,204** Articles*
+*Scraped **3,208** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 185
 newsfirstlk | 190
 dailyftlk | 223
 adalk | 291
-virakesarilk | 335
-adaderanasinhalalk | 336
+adaderanasinhalalk | 337
+virakesarilk | 338
 tamilmirrorlk | 403
 adaderanalk | 413
 dailymirrorlk | 433
@@ -26,27 +26,129 @@ dailymirrorlk | 433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,203 (100.0%) of 3,204 articles have been extended.
+3,208 (100.0%) of 3,208 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### සිරියානු හමුදා කඳවුරකට ඩ්‍රෝන ප්‍රහාරයක්
+### Death sentence for her husband who killed his wife 14 years later
+
+*2024-01-29 10:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192689) · `si`
+
+The wife of a mother of two was handed down and pushed into a room and pour kerosene and burned kerosene and set fire to the body
+
+North Central Provincial High Court Judge Manoj Thalgodapitiya, the Mahajaj Thalipitiya, was sentenced to death in the Anuradhapura High Court regarding a murder of death.
+
+The death was sentenced to a resident of Turmannawa, Udayahawewa in the Thamgahawewa, Utarawewa in the Udahawewa.
+
+The Attorney General has been indicted in the Anuradhapura High Court against the accused by the Thamma of the Penalty Code by the Thammna of the Thammna, the 26th of January 2010.There was.
+
+High Court Judge Manoj Talgodapitiya stated that the accused was sentenced to death
+
+The complaint fair has been able to prove allegations against the defendant to be charged with fair suspicion.
+
+Thambuththegama Magistrate's Court was in the courts of the non-vesseling of the law. The Attorney General's Attorney General
+
+The indictment was filed to the Anuradhapura High Court for further hearing.
+
+...
+
+[Data](articles/a4236961.json)
+
+[Extended Data](ext_articles/a4236961.ext.json)
+
+---
+
+### Sri Lanka's first defeat to Aussie in the World Cup under the age of 19
+
+*2024-01-29 10:08:00* · [`virakesarilk`](https://www.virakesari.lk/article/175030) · `ta`
+
+Sri Lanka's first defeat in the C team in South Africa was the UCC under -19 World Cup cricket tournament.
+
+Sri Lanka lost by 6 wickets in Kimberley on Sunday (28) against Australia.
+
+Sri Lanka failed to shine in the 3 league matches so far and scored a total of 208 runs (49.5 overs) in the match against Australia.
+
+In each match in Sri Lanka, someone gets more than 50 runs. The fact that the other people do not shine are impact on the Sri Lankan team.
+
+In the match against Australia, Dinura Kalubahana only captured half -centuries.
+
+The opening player, Pulindu Perera, did not shine in the field and lost the game in today's match.
+
+Team captain Sineet Jayawardena (16) and Subbun Vadugay (17) shared 47 runs with very relaxation.
+
+Ravishan de Silva continued to share 46 runs in the 4th wicket and 44 runs in the 5th wicket with Kamage.. But the trio lost by 66 runs.
+
+Ravishan de Silva scored 30 runs and Kamage scored 10 runs.
+
+Dinura Kalubahana scored 64 off 78 balls, including 6 pounds and 3 sixes.
+
+...
+
+[Data](articles/e5f481da.json)
+
+[Extended Data](ext_articles/e5f481da.ext.json)
+
+---
+
+### Drone attack on Syrian army base
 
 *2024-01-29 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192688) · `si`
 
-සිරියාවේ දී එල්ල වූ ඩ්‍රෝන ප්‍රහාරයෙකින් අමෙරිකානු සෙබළුන් තිදෙනෙකු මියගොස් තිබේ.
+Three US soldiers were killed in a drone attack in Syria.
 
-සිරියානු හමුදා කඳවුරක් ඉලක්ක කර ගනිමින් අදාළ ‍ඩ්‍රෝන ප්‍රහාරය එල්ල වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Foreign media reports that the drone attack targeting a Syrian army base.
 
-ජාත්‍යන්තර ආරක්ෂක වැඩපිළිවෙළ යටතේ යොදවා සිටි අමෙරිකානු සෙබළුන් කිහිපදෙනෙකු ද එම කඳවුරේ රැඳී සිට ඇති බව සඳහන්ය.
+A few American soldiers deployed under the International Security Program have also been staying in the camp.
 
-ඊශ්‍රායල හමාස් ගැටුම් ආරම්භ වීමෙන් අනතුරුව මැදපෙරදිග සන්නද්ධ කණ්ඩායමක් විසින් එල්ල කළ ප්‍රහාරයකින් අමෙරිකානු සෙබළුන් මිය ගිය පළමු අවස්ථාව මෙය වන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+It is the first time US soldiers have died in an attack on the Middle East after the commencement of Israeli Hamas.
 
 ◼️
 
 [Data](articles/039f9ef8.json)
+
+[Extended Data](ext_articles/039f9ef8.ext.json)
+
+---
+
+### A young family member who went to bathe in the Mullaitivu Matalan Sea
+
+*2024-01-29 09:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/175027) · `ta`
+
+A young family member who went to bathe in the Mullaitivu Matalan sea has drowned.
+
+The 33 -year -old 10th Circle of Pudukkudiyiruppu, a young family member of the Mullaitivu Matalan Sea, has been beaten to the water.
+
+Others on the shore have observed that about 15 people, both male and women, were bathed in the sea.
+
+As a result of this, he was hit by a sea wave and disappeared.
+
+Subsequently, even though the fishermen and fishermen are searching for the person, there is a great deal of difficulty in searching for the sea wave.
+
+◼️
+
+[Data](articles/89dc220b.json)
+
+[Extended Data](ext_articles/89dc220b.ext.json)
+
+---
+
+### Re -opening of the Church
+
+*2024-01-29 09:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175028) · `ta`
+
+The Kandy Alawatukoda Saman Church, which was sealed, has been reopened since Sunday (28).
+
+Deputy Commissioner of Buddhist Affairs, Anurutha Hema Bandara Alawatukoda, who was in the Kandy Buddhist Affairs Police, was arrested for the purpose of reopening for other duties, including the poojas of the Saman Church, which had been closed since the 23rd of this month, when the door of the church was broken and the house was broken.Police said they would have to take action.
+
+The Deputy Commissioner, who has expressed his displeasure with the police, has been announced to the Archaeological Department and the Basnayagam land has been smashed and opened in the presence of Pashana Udaya Bandara, Akurana Divisional Secretary Indika Abeysinghe and the Divisional Grama Niladhari.
+
+...
+
+[Data](articles/f89a1212.json)
+
+[Extended Data](ext_articles/f89a1212.ext.json)
 
 ---
 
@@ -100,7 +202,7 @@ Police said that a young couple who a resident of Godawela suspects the parents 
 
 ### Valued motorcycle rescue stolen in Samanthurai; arrested
 
-*2024-01-29 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175026) · `ta`
+*2024-01-29 09:21:00* · [`virakesarilk`](https://www.virakesari.lk/article/175026) · `ta`
 
 A valuable motorcycle has been recovered and a man has been arrested.
 
@@ -438,6 +540,34 @@ Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
 
 ---
 
+### Unmanned air strikes on US military in the Middle East
+
+*2024-01-29 07:47:00* · [`virakesarilk`](https://www.virakesari.lk/article/175023) · `ta`
+
+Moon Nunnu US soldiers have been killed in an unmanned air strike on the US military on the Syrian Jordan border.
+
+This is the first time US soldiers were killed in the region after the Hamas attack on the seventh of October
+
+US President Nangla said that the Iranian -backed groups have carried out the attack.
+
+"We will be responsible for those responsible for the attack," said Bidan.
+
+We have faced the most challenging situation in the Middle East last night, we have lost three brave souls, he said.
+
+Officials who have not yet released the names of the killed US soldiers are engaged in providing information to the family.
+
+US officials said that 34 soldiers were raised on the basis of brain injuries and some of the injured have been evicted from the camp for further treatment.
+
+The US president has also reported that the attack has taken place in Jordan, while the attack has taken place within the Siria.
+
+◼️
+
+[Data](articles/0714f1c5.json)
+
+[Extended Data](ext_articles/0714f1c5.ext.json)
+
+---
+
 ### The singer of the heart goes home
 
 *2024-01-29 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192681) · `si`
@@ -497,34 +627,6 @@ Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
 [Data](articles/16d2d7b3.json)
 
 [Extended Data](ext_articles/16d2d7b3.ext.json)
-
----
-
-### Unmanned air strikes on US military in the Middle East
-
-*2024-01-29 07:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175023) · `ta`
-
-Moon Nunnu US soldiers have been killed in an unmanned air strike on the US military on the Syrian Jordan border.
-
-This is the first time US soldiers were killed in the region after the Hamas attack on the seventh of October
-
-US President Nangla said that the Iranian -backed groups have carried out the attack.
-
-"We will be responsible for those responsible for the attack," said Bidan.
-
-We have faced the most challenging situation in the Middle East last night, we have lost three brave souls, he said.
-
-Officials who have not yet released the names of the killed US soldiers are engaged in providing information to the family.
-
-US officials said that 34 soldiers were raised on the basis of brain injuries and some of the injured have been evicted from the camp for further treatment.
-
-The US president has also reported that the attack has taken place in Jordan, while the attack has taken place within the Siria.
-
-◼️
-
-[Data](articles/0714f1c5.json)
-
-[Extended Data](ext_articles/0714f1c5.ext.json)
 
 ---
 
@@ -1885,79 +1987,5 @@ Responding to this, Parliamentarian Premnath C Tolwatta said, “More than 7 mil
 [Data](articles/94cc2568.json)
 
 [Extended Data](ext_articles/94cc2568.ext.json)
-
----
-
-### Sri Lanka Tamil State Party Election: Lessons to Learn
-
-*2024-01-28 18:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/174998) · `ta`
-
-The TNA is doing a hundred percent politics. However, it seems to be on the side of the people and seems to be openly, with a democratic appearance. This is why other minority parties are urged to learn all this.
-
-◼️
-
-[Data](articles/752a7569.json)
-
-[Extended Data](ext_articles/752a7569.ext.json)
-
----
-
-### Special police protection for funerals
-
-*2024-01-28 18:27:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இறுதி-கிரியைகளுக்கு-விசேட-பொலிஸ்-பாதுகாப்பு/175-332234) · `ta`
-
-A special police team of 380 people has been deployed to provide security during the funeral of the late State Minister Sanath Nishantha Perera.
-
-A senior police official said that steps were taken to strengthen security in the area as a large number of ministers, parliamentarians and dignitaries were expected to attend the funeral.
-
-He said that the police team, which includes officers of police stations in the North Western Province, was involved in security.
-
-◼️
-
-[Data](articles/301517b6.json)
-
-[Extended Data](ext_articles/301517b6.ext.json)
-
----
-
-### Film Railway Plips
-
-*2024-01-28 18:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192666) · `si`
-
-Traffic train was derailed in Kotagala and Hatton railway stations.
-
-The delegation was a train given to shoot a film in a foreign country.
-
-The Railway Department provides a special train from January 24 to 29, the Railway Department to shoot the film under special permission.
-
-The train has been derailed when the filming has been completed and traveling to Colombo today.
-
-◼️
-
-[Data](articles/dc62bc47.json)
-
-[Extended Data](ext_articles/dc62bc47.ext.json)
-
----
-
-### How to fell in the line of monk
-
-*2024-01-28 18:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192665) · `si`
-
-Nearly 17 others suffered injuries in an accident in Kovil, India.
-
-Foreign media reports that the accident had occurred at Delkaji Kovil.
-
-The accident had occurred during a religious concert held at the Kovil.
-
-Meanwhile, a special investigation has been launched in connection with the incident and has not received any proper permission.
-
-Foreign media has reported that approximately 1,600 people have been involved in this religious concert.
-
-◼️
-
-[Data](articles/8f7d3ce3.json)
-
-[Extended Data](ext_articles/8f7d3ce3.ext.json)
 
 ---

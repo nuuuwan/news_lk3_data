@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 09:02:39**
+As of **2024-01-29 09:17:01**
 
 ## Newspaper Stats
 
-*Scraped **3,188** Articles*
+*Scraped **3,189** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ newsfirstlk | 184
 islandlk | 185
 dailyftlk | 223
 adalk | 290
-adaderanasinhalalk | 332
+adaderanasinhalalk | 333
 virakesarilk | 333
 tamilmirrorlk | 401
 adaderanalk | 412
@@ -26,11 +26,29 @@ dailymirrorlk | 433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,188 (100.0%) of 3,188 articles have been extended.
+3,188 (100.0%) of 3,189 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### අධිවේගී මාර්ග ආශ්‍රිතව සිදුවන අනතුරුවල වර්ධනයක්
+
+*2024-01-29 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192685) · `si`
+
+අධික වේගයකින් රිය පැදවීම හේතුවෙන් ප්‍රතික්‍රියා කළ හැකි කාලය අඩු වීම නිසා අධිවේගී මාර්ග ආශ්‍රිතව ඇති වන රිය අනතුරුවල වර්ධනක් පෙන්නුම් කරන බව සෞඛ්‍ය අමාත්‍යංශයේ බෝ නොවන ඒකකයේ අනතුරු නිවාරණය හා කළමනාකරණය පිළිබඳ අංශ ප්‍රධානී විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා පවසයි.
+
+ඔහු පෙන්වා දෙන්නේ රිය පැදවීමේ අනාරක්ෂිතභාවය මෙම අනතුරුවලට හේතුවන බවය.
+
+"අපි විශේෂයෙන් දැක්කා අධිවේගී මාර්ගවල රථවාහන අනතුරුවල සාපේක්ෂව වැඩිවීමක් 2023 වසරත් එක්ක. එයට හේතුව පුද්ගලයින්ගේ රිය පැදවීමේ දී තිබෙන අනාරක්ෂිතභාවය. එයට හේතුව වාහනය අධික වේගයෙන් ගමන් කිරීම. මෙහි තිබෙන ප්‍රධානම හේතුව වන්නේ හදිසි අවස්ථාවක දී වාහනය නැවැත්වීමේ කාලය එහෙම නැතිනම් ප්‍රතික්‍රියා කරන කාලය අඩුවෙන්න පුළුවන්."
+
+අනතුරු වළක්වා ගැනීමට නම් සියලුදෙනා ඒ පිළිබඳව අවධානය යොමු කළ යුතු බව විශේෂඥ වෛද්‍ය සමිත සිරිතුංග මහතා සඳහන් කළේය.
+
+◼️
+
+[Data](articles/42d01cbc.json)
+
+---
 
 ### All executives of the public sector get sick today
 
@@ -1917,25 +1935,5 @@ Borrowing to India is different. The Sri Lankan government has received $ 4 mill
 [Data](articles/5af403e1.json)
 
 [Extended Data](ext_articles/5af403e1.ext.json)
-
----
-
-### Minister Tiran on measures taken to curb harassment and violence against women
-
-*2024-01-28 17:18:00* · [`adaderanalk`](https://www.adaderana.lk/news/96796/minister-tiran-on-measures-taken-to-curb-harassment-and-violence-against-women) · `en`
-
-Sri Lanka’s Minister of Public Security Tiran Alles has revealed that a special programme will operate, in conjunction with the ongoing anti-drug operation ‘Yukthiya’, to eliminate sexual harassment and violence against women.
-
-The Minister made these remarks while addressing officers of the Weyangoda Police Division on Sunday (28 Jan.).
-
-Raising concerns about the increased incidents of harassment and abuse faced women and children including in public transport and on the streets, the Minister urged for those subjected to such incidents to inform the police via the ‘109’ hotline.
-
-“We will resolve the matter within 48 hours”, Alles assured.
-
-◼️
-
-[Data](articles/048f2787.json)
-
-[Extended Data](ext_articles/048f2787.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 08:17:04**
+As of **2024-01-29 08:32:58**
 
 ## Newspaper Stats
 
-*Scraped **3,179** Articles*
+*Scraped **3,183** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,37 +18,75 @@ dailyftlk | 223
 adalk | 288
 adaderanasinhalalk | 329
 virakesarilk | 333
-tamilmirrorlk | 398
-adaderanalk | 411
+tamilmirrorlk | 401
+adaderanalk | 412
 dailymirrorlk | 433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,176 (99.9%) of 3,179 articles have been extended.
+3,179 (99.9%) of 3,183 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### හදවතේ ගායකයා ගෙදර යයි
+### Three US troops killed, up to 34 injured in Jordan drone strike linked to Iran
+
+*2024-01-29 07:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/96812/three-us-troops-killed-up-to-34-injured-in-jordan-drone-strike-linked-to-iran) · `en`
+
+(Reuters) - Three U.S. service members were killed and dozens may be wounded after an unmanned aerial drone attack on U.S. forces stationed in northeastern Jordan near the Syrian border, President Joe Biden and U.S. officials said on Sunday.
+
+Biden blamed Iran-backed groups for the attack, the first deadly strike against U.S. forces since the Israel-Hamas war erupted in October and sent shock waves throughout the Middle East.
+
+“While we are still gathering the facts of this attack, we know it was carried out by radical Iran-backed militant groups operating in Syria and Iraq,” Biden said in a statement.
+
+“Have no doubt - we will hold all those responsible to account at a time and in a manner of our choosing,” he said.
+
+Biden later asked for a moment of silence for the three killed service members during a campaign event in South Carolina, adding, “We shall respond.”
+
+...
+
+[Data](articles/047e6b6f.json)
+
+---
+
+### The singer of the heart goes home
 
 *2024-01-29 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192681) · `si`
 
-හදවතේ ගායකයා ලෙස මහත් ජනාදරයට පත් වූ ගායන ශිල්පී චාමර වීරසිංහ මහතා සුවය ලබා කළුබෝවිල රෝහලෙන් පිටව ගොස් තිබේ.
+Chamara Weerasinghe, who was righteous as the singer of the heart, was recovering from the Kalubowila Hospital.
 
-දින 40කට ආසන්න කාලයක් ඔහු කළුබෝවිල රෝහලේ නේවාසිකව ප්‍රතිකාර ලැබුවේය.
+He was treated at the Kalubowila Hospital for nearly 40 days.
 
-චාමර වීරසිංහ මහතා කළුබෝවිල රෝහලට ඇතුළත් කෙරුණේ ස්වසන අපහසුතාවයක් හේතුවෙනි.
+Chamara Weerasinghe was admitted to the Kalubowila hospital due to embarrassment.
 
-එහිදී ඔහු උගුරේ සහ උදරයේ සැත්කම් දෙකකට භාජනය කෙරුණු බව රෝහල් ආරංචි මාර්ග අනාවරණය කළේය.
+Hospital sources revealed that he was underway to two surgeries in the throat and abdomen.
 
-මේ අතර චාමර වීරසිංහ මහතා සුවය ලැබුවද තවදුරටත් විවේකයෙන් පසුවිය යුතු බවට වෛද්‍යවරු නිර්දේශ කර තිබේ.
+Meanwhile, doctors are recommended that Mr. Chamara Weerasinghe recovered further relief.
 
 ◼️
 
 [Data](articles/00f20b27.json)
+
+[Extended Data](ext_articles/00f20b27.ext.json)
+
+---
+
+### நாட்டின் சில பகுதிகளில் இன்று மழை
+
+*2024-01-29 07:38:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-இன்று-மழை/175-332254) · `ta`
+
+நாட்டின் சில பகுதிகளில் இன்று மழையுடனான காலநிலை நிலவும் என வளிமண்டலவியல் திணைக்களம் எதிர்வு கூறியுள்ளது.
+
+இதன்படி கிழக்கு மற்றும் ஊவா மாகாணங்களிலும் பொலன்னறுவை, மாத்தளை மற்றும் நுவரெலியா ஆகிய மாவட்டங்களிலும் ஓரளவு மழை பெய்யக்கூடும் என தெரிவிக்கப்பட்டுள்ளது.
+
+அத்துடன், மேல் மற்றும் சபரகமுவ மாகாணங்களிலும் காலி, மாத்தறை மற்றும் கண்டி ஆகிய மாவட்டங்களிலும் பிற்பகல் 2 மணிக்கு பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும் என வளிமண்டலவியல் திணைக்களம் அறிவித்துள்ளது. (a)
+
+◼️
+
+[Data](articles/5c4eb458.json)
 
 ---
 
@@ -80,21 +118,55 @@ The US president has also reported that the attack has taken place in Jordan, wh
 
 ---
 
-### තවත් ජීවිතයක් මුහුදට බිලි
+### பல்கலைக்கழக மாணவர்கள் 6 பேர் கைது
+
+*2024-01-29 07:33:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மாணவர்கள்-6-பேர்-கைது/175-332253) · `ta`
+
+மாணவி ஒருவரை பகிடிவதைக்கு உள்ளாக்கியமை தொடர்பில் சபரகமுவ பல்கலைக்கழகத்தைச் சேர்ந்த 6 மாணவர்கள் கைதுசெய்யப்பட்டுள்ளனர் என பொலிஸ் ஊடகப்பிரிவு தெரிவித்துள்ளது.
+
+கடந்த 14 ஆம் திகதி சமனலவெவ பொலிஸாருக்கு  கிடைத்த முறைப்பாட்டுக்கமைய, மேற்கொள்ளப்பட்ட விசாரணைகளின்படி, குறித்த மாணவர்கள் நேற்றைய தினம் கைதுசெய்யப்பட்டுள்ளனர்.
+
+குறித்த பல்கலைக்கழகத்தின் சமூக விஞ்ஞானம் மற்றும் மொழியியல் கற்கை பீடத்தின் நான்காம் ஆண்டு மாணவர்களே இவ்வாறு கைதாகியுள்ளதாக பொலிஸ் ஊடகப் பிரிவு குறிப்பிட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/5ca200ca.json)
+
+---
+
+### பாராளுமன்றத்தில் பரபரப்பு;காணொளி
+
+*2024-01-29 07:30:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றத்தில்-பரபரப்பு-காணொளி/175-332252) · `ta`
+
+ஆளும்கட்சியினர் எதிர்க்கட்சி பாராளுமன்ற உறுப்பினர்களுடன் மோதலில் ஈடுபட்டதால், நேற்று (28) ஞாயிற்றுக்கிழமை மாலத்தீவு பாராளுமன்றத்தில் பெரும் குழப்பம் ஏற்பட்டது.
+
+ஜனாதிபதி மொஹமட் முய்ஸுவின் அமைச்சரவைக்கான முக்கியமான வாக்கெடுப்பின் போது நடந்ததாகக் கூறப்படும் இந்த சம்பவம், இரு தரப்பிலிருந்தும் சட்டமியற்றுபவர்கள் கடுமையான வார்த்தைகளை பரிமாறிக்கொண்டதுடன் கலவரமாக மாறியது.
+
+ކެނދިކުޅުދޫ ދާއިރާގެ މެމްބަރު އީސާގެ ފައިގައި ހިފައި ކަނޑިތީމު މެމްބަރު ޝަހީމް ވައްޓާލާ މަންޒަރު. އެމްޑީޕީ ދޫކޮށް ޕީއެންސީއާ ގުޅުނު ސަރުކާރުގެ މެމްބަރުން މަޖިލީހަށް ހުރަސް އެޅުމާއެކު ތަޅުމުގައި ހަމަނުޖެހުން އަންނަނީ ހިނގަމުން. pic.twitter.com/mnmzvYKsrO
+
+◼️
+
+[Data](articles/0b079a57.json)
+
+---
+
+### Another life is billy to the sea
 
 *2024-01-29 07:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192680) · `si`
 
-මුලතිවු, පුදුමාතලන් ප්‍රදේශයේදී මුහුදු වෙරළේ පිරිසක් සමග දිය නාමින් සිටි පුද්ගලයෙකු දියේ ගිලී ඇතුරුදන් වී තිබේ.
+In Mullaitivu, a person drowned with a seaside in the Puthumathalan area.
 
-පොලීසිය පවසන්නේ, ඊයේ (28) අතුරුදන් වූ පුද්ගලයා ඥාතීන් පිරිසක් සමග පුදුමාතලන් ප්‍රදේශයේදී මුහුදු වෙරළේ දිය නෑමට ගොස් සිටියදී මෙම අනතුරට මුහුණ දී ඇති බවය.
+Police say that the missing person yesterday (28) was in the area while they were with relatives.
 
-දියේ ගිලී අතුරුදන් වූ පුද්ගලයා 10 කොටස, පුදුකුඩිඉරිප්පු ප්‍රදේශයේ පදිංචි 32 හැවිරිදි පුද්ගලයෙකි.
+The victim is a 32 year old resident of Pudukuduirippu.
 
-නාවික හමුදාව, පොලීසිය හා ප්‍රදේශවාසීන් එක්ව ඇතුරුදන් වූ අය සෙවීමේ කටයුතුවල නිරතව සිටි බව පොලීසිය පවසයි.
+The Navy, Police and the residents of the area were involved in searching for Aurouddan.
 
 ◼️
 
 [Data](articles/6725d2a7.json)
+
+[Extended Data](ext_articles/6725d2a7.ext.json)
 
 ---
 
@@ -118,21 +190,23 @@ The department said that the train services on the hill country have been blocke
 
 ---
 
-### මාවනැල්ලේ හදිසි ගින්නක් - කඩ 30ක් විනාශයි
+### A sudden fire in Mawanella - 30 shops destroyed
 
 *2024-01-29 07:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192679) · `si`
 
-මාවනැල්ල නගරයේ ප්‍රධාන බස්නැවතුම් පොළ ඉදිරිපිට කඩ පෙළක ඊයේ (28) රාත්‍රියේ ඇති වූ ගින්නකින් වෙළෙඳසැල් 30ක් පමණ සම්පූර්ණයෙන්ම විනාශ වී තිබේ.
+About 30 shops have been completely destroyed in a fire in front of the city of Mawanella yesterday (28).
 
-වහා ක්‍රියාත්මක වූ පොලීසිය මාවනැල්ල ප්‍රාදේශීය සභාවේ ගිනි නිවීමේ ඒකකය හා ප්‍රදේශවාසීන් එක්ව ගින්න මැඩ පවත්වා ඇත.
+The police were immediately implemented by the Menawa Pradeshiya Sabha and the residents of the area.
 
-ගින්නෙන් පලතුරු, රෙදිපිළි සහ ප්ලාස්ටික් භාණ්ඩ තිබූ කඩ රැසක් විනාශ වී තිබේ.
+A large number of fruits and plastic products have been destroyed by fire.
 
-ගින්නට හේතුව මෙතෙක් අනාවරණය වී නොමැති අතර මාවනැල්ල පොලීසිය වැඩිදුර විමර්ශන සිදුකරයි.
+The cause of the fire is yet to be ascertained and Mawanella Police are conducting further investigations.
 
 ◼️
 
 [Data](articles/0456b98e.json)
+
+[Extended Data](ext_articles/0456b98e.ext.json)
 
 ---
 
@@ -1839,87 +1913,5 @@ He said the police contingent comprised officers from police stations in the Nor
 [Data](articles/39c9cbf0.json)
 
 [Extended Data](ext_articles/39c9cbf0.ext.json)
-
----
-
-### Second term begins with 110 commitments ‘pending’ on Sri Lanka’s IMF programme: Verité Research
-
-*2024-01-28 16:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Second-term-begins-with-110-commitments-pending-on-Sri-Lankas-IMF-programme-Verité-Research/108-275843) · `en`
-
-Colombo, Jan. 28 (Daily Mirror)- The second term of the IMF review began with 110 commitments ‘pending’ on Sri Lanka’s IMF programme, with Sri Lanka and the IMF adding 75 new commitments to the programme, independent think-tank and research institution Verité Research said.
-
-The International Monetary Fund (IMF) has published its evaluation of Sri Lanka’s performance in the first phase or ‘first term’ of the ongoing Extended Fund Facility (EFF)
-
-programme, which commenced in March 2023, where Sri Lanka had ‘met’ 60 of the 73 commitments due by end November 2023, the Verité Research added.
-
-The Verité Research updated its ‘IMF Tracker’, based on all information available, including in the IMF evaluation titled ‘First Review Under the Extended Arrangement Under The Extended
-
-Fund Facility’ and Sri Lanka had ‘met’ (with some delays) 60 of the 73 commitments due by end November 2023.
-
-...
-
-[Data](articles/864e4787.json)
-
-[Extended Data](ext_articles/864e4787.ext.json)
-
----
-
-### Unifying pre-school frameworks to align with national policy for optimal pre-childhood development
-
-*2024-01-28 15:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Unifying-pre-school-frameworks-to-align-with-national-policy-for-optimal-pre-childhood-development/108-275841) · `en`
-
-Colombo, Jan 28 (Daily Mirror) - Following the national education policy, the Education Ministry is aiming to implement a single framework for the pre-childhood development of children between the ages of three and five in all preschools currently in operation, Education Minister Susil Premajayantha said.
-
-He expressed these views at the inauguration of the training programme by the National Institute of Education under the leadership of the Ministry to provide formal training to untrained pre-school teachers according to the concept of the Education Minister.
-
-A total of 34,000 preschool teachers in 19,000 preschools in Sri Lanka are engaged in early childhood development. The Minister pointed out that among them, there are only 6,000 pre-school diploma holders who have received formal training.
-
-Many developed countries in the world pay special attention to early childhood development, but so far, proper attention has not been paid to early childhood development in Sri Lanka.
-
-...
-
-[Data](articles/8845deb5.json)
-
-[Extended Data](ext_articles/8845deb5.ext.json)
-
----
-
-### Police tasked with eradicating drugs, underworld by June 30: Minister
-
-*2024-01-28 15:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-tasked-with-eradicating-drugs-underworld-by-June-30-Minister/108-275842) · `en`
-
-Colombo, Jan. 28 (Daily Mirror)- Police have been tasked with completely eradicating the underworld and narcotic drugs in the country by June 30, 2024, Public Security Minister Tiran Alles said.
-
-He said the "Yukthiya" operation to crack down on the underworld and narcotic drugs will not be stopped whoever attempts to disrupt it.
-
-"We launched the 'Yukthiya' operation to rescue the country from drugs and underworld activities. We planned this after studying the situation for a long time. A large number of drug dealers and criminals have been arrested by now, while some others are in hiding. We have given the target to the police to completely eradicate drugs and the underworld by June 30 this year. We request the public to provide information in their areas to the police without any fear or hesitation. We will act upon these information," he said.
-
-◼️
-
-[Data](articles/d0bda99a.json)
-
-[Extended Data](ext_articles/d0bda99a.ext.json)
-
----
-
-### India to assist in rescue of Sri Lanka fishermen captured by Somali pirates
-
-*2024-01-28 15:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96794/india-to-assist-in-rescue-of-sri-lanka-fishermen-captured-by-somali-pirates) · `en`
-
-India has pledged to assist in the rescue of six Sri Lankan fishermen captured by the Somali pirates, Sri Lanka Navy spokesman Gayan Wickremasuriya said on Sunday (28 Jan.).
-
-The multi-day fishing trawler Lorenzo Putha-4 set sail from Dikowita fishing harbour in Sri Lanka on 16 January.
-
-Wickremasuriya said the UN’s central maritime command was alerted by Sri Lanka on Saturday (27 Jan.) on the six fishermen and their trawler being captured by the Somali pirates 840 nautical miles southeast of Mogadishu, PTI reported
-
-He said India has pledged to assist Sri Lanka in the rescue of the fishermen.
-
-The pirates had allowed the Sri Lankan fishermen captured to communicate with the fisheries ministry, the state minister of fisheries Piyal Nishantha told reporters.
-
-◼️
-
-[Data](articles/ab899d94.json)
-
-[Extended Data](ext_articles/ab899d94.ext.json)
 
 ---

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 13:32:54**
+As of **2024-01-29 13:51:33**
 
 ## Newspaper Stats
 
@@ -26,31 +26,33 @@ dailymirrorlk | 440
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,249 (99.8%) of 3,255 articles have been extended.
+3,255 (100.0%) of 3,255 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### නවක වධය සිදුවීමට අත්අඩංගුවට ගත් සරසවි සිසුන්ට ඇප
+### University students arrested for new torture incident
 
 *2024-01-29 13:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192698) · `si`
 
-සබරගමුව විශ්වවිද්‍යාලයේ සිසුවියකට නවක වධය ලබා දීමේ සිදුවීම සම්බන්ධයෙන් අත්අඩංගුවට ගත් සිසුන් ඇප මත මුදාහැර තිබේ.
+Students arrested for the student of the Sabaragamuwa University have released on bail.
 
-අප වාර්තාකරු පැවසුවේ අද (29) දහවල් බලංගොඩ මහෙස්ත්‍රාත් අධිකරණය හමුවට සැකකරුවන් ඉදිරිපත් කිරීමෙන් අනතුරුව රුපියල් ලක්ෂය බැගින් වූ ශරීර ඇප මත ඔවුන් නිදහස කළ බවය.
+Our correspondent said they were released on personal bail of Rs.
 
-සිදුවීම සම්බන්ධයෙන් සිසුන් 06 දෙනෙකු සහ එක් සිසුවියක් අත්අඩංගුවට ගෙන තිබිණි.
+Six students and one student have been arrested in connection with incident.
 
-නවක වධය ලබාදීම සම්බන්ධයෙන් 1997 මධ්‍යස්ථානය වෙත ලද පැමිණිල්ලක් මත සිදුකළ විමර්ශනයකින් අනතුරුව අදාළ සිසුන් අත්අඩංගුවට ගත් බව පොලීසිය පැවසුවේය.
+Police said that the students were arrested following a complaint with a complaint made to the 1997 centers in the 1997 centers.
 
-මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ එම විශ්වවිද්‍යාලයේ සමාජ විද්‍යා සහ භාෂා අධ්‍යාපන පීඨයේ සිව්වන වසරේ සිසුන් පිරිසකි.
+The arrested persons were the fourth-year students of the Faculty of Social Science and Language Education of the University.
 
-ඔවුන් අවුරුදු 23, 24 සහ 25 යන වයස් කාණ්ඩවල පසුවන මොරවක, රුක්ගහවිල, ඉමදුව හා කිතලව යන ප්‍රදේශවල පදිංචිකරුවන් බව පොලීසිය පැවසීය.
+They were residents of Morawaka, Rukgahala, Imaduwa and Kithala, who is aged 23, 24 and 25 years.
 
 ◼️
 
 [Data](articles/14b4d836.json)
+
+[Extended Data](ext_articles/14b4d836.ext.json)
 
 ---
 
@@ -70,71 +72,85 @@ The Presidential Media Division said that he was sworn in at the Presidential Se
 
 ---
 
-### சோமாலிய கடற்கொள்ளையர்களால் கடத்தப்பட்ட இலங்கையர்களை மீட்க நடவடிக்கை !
+### Action to rescue Sri Lankans abducted by Somali pirates
 
 *2024-01-29 12:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175058) · `ta`
 
-சோமாலிய கடற்கொள்ளையர்களால் கடத்தப்பட்ட இலங்கையர்களை பாதுகாப்பாக விடுவிப்பதை உறுதி செய்வதற்காக கென்யாவிலுள்ள இலங்கைக்கான உயர் ஸ்தானிகர் கணனாதன் சோமாலிய கடற்படைத் தலைவருடன் பேச்சுக்களை மேற்கொள்ள நடவடிக்கை எடுத்துள்ளார்.
+The High Commissioner of Sri Lanka in Kenya has taken steps to hold talks with the leader of the Somali Navy to ensure that Sri Lankans were safely released by Somali pirates.
 
-சோமாலிய கடற்கொள்ளையர்களால் கடத்தப்பட்ட இலங்கையர்கள் குறித்த தகவல்களை பெற்று அவர்களை பாதுகாப்பாக மீட்க நடவடிக்கைகளை முன்னெடுத்து வருகின்றேன்.
+I am taking steps to secure information about Sri Lankans abducted by Somali pirates.
 
-அவர்களை பாதுகாப்பாக விடுவிப்பதற்காக எத்தியோப்பியாவிலுள்ள எனது சகாவுடன் இணைந்து சோமாலிய கடற்படைத் தளபதி அட்மிரல் அப்திவர்சமே ஒஸ்மானுடன் பேச்சுக்களை முன்னெடுத்து நெருக்கமான ஒத்துழைப்பில் தீவிரமாக ஈடுபட்டு வருகின்றேன்.
+Somali Naval Commander Admiral Abdiversame, along with my colleague in Ethiopia, is actively engaged in close cooperation with Osman.
 
-சோமாலிய கடற்படைத் தலைவர் அவர்களது தொடர்பு அதிகாரி மூலம்  ஐரோப்பிய ஒன்றிய கடற்படை கூட்டு நடவடிக்கை மையத்திற்கு (EU Navy JOC) நிலைமையை நிவர்த்தி செய்வதற்கும் கடத்தப்பட்ட இலங்கையர்களை பாதுகாப்பாக நாடு திரும்புவதை உறுதி செய்வதற்கும் மேற்கொள்ளப்பட்டு வரும் முயற்சிகள் குறித்து அறிவித்துள்ளார்.
+The Somali Naval Leader has announced the efforts of the European Union Naval Joint Center (EU Navy JOC) to address the situation and ensure the return of the abducted Sri Lankans safely.
 
-...
+Joint efforts between Sri Lankan and Somali officials demonstrate the commitment to maritime security and the safety of individuals affected by pirates.
+
+The High Commissioner of Sri Lanka in Kenya Gananathan added that the Sri Lankan and Somalian governments are committed to resolving the issue and ensuring the well -being of the abducted Sri Lankans.
+
+◼️
 
 [Data](articles/67f9a43c.json)
 
+[Extended Data](ext_articles/67f9a43c.ext.json)
+
 ---
 
-### இன்றைய நாணய மாற்று விகிதம்
+### Today's currency exchange rate
 
 *2024-01-29 12:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175057) · `ta`
 
-இன்று திங்கட்கிழமை (ஜனவரி 29) மத்திய வங்கி வெளியிட்டுள்ள நாணயமாற்று  விகிதத்தின் அடிப்படையில் அமெரிக்க டொலரின் கொள்வனவு விலை ரூபா 312.6759 ஆகவும் விற்பனை விலை ரூபா 322.7716 ஆகவும் பதிவாகியுள்ளமை குறிப்பிடத்தக்கது.
+The US dollar purchasing price was 312.6759 and the sales price were 322.7716 based on the Central Bank's currency exchange rate on Monday (January 29).
 
 ◼️
 
 [Data](articles/4e0a67df.json)
 
+[Extended Data](ext_articles/4e0a67df.ext.json)
+
 ---
 
-### கூட்டமைப்பு மீண்டும் ஒற்றுமையாக வேண்டுமானால் தமிழரசுக்கட்சி வீட்டுச் சின்னத்தை விட்டுக் கொடுக்கலாம் – சித்தார்த்தன் யோசனை
+### If the federation wants to unite again, the TNA can give up the house symbol - Siddharthan's idea
 
 *2024-01-29 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175046) · `ta`
 
-தமிழ் தேசியக் கூட்டமைப்பு மீண்டும் ஒற்றுமையாக வேண்டுமானால் அது பதிவு செய்யப்பட்ட கட்சியாக வேண்டும் என தெரிவித்த புளொட் தலைவரும் பாராளுமன்ற உறுப்பினருமான தர்மலிங்கம் சித்தார்த்தன், தமிழ் அரசுக் கட்சி வீட்டுச் சின்னத்தை தமிழ் தேசிய கூட்டமைப்புக்கு விட்டுக்கொடுக்கலாம் என்றார்.
+Plot leader and parliamentarian Dharmalingam Siddharthan said that if the TNA is united again, it should be a registered party, and the Tamil National Alliance (TNA) house symbol can be complied with the TNA.
 
-இலங்கை தமிழ் அரசுக் கட்சி இரண்டு மூன்று பிளவாக உடைந்து இருக்கிறது என்றும் அவர்கள் ஒற்றுமையாகிய பின்னரே கூட்டமைப்பு ஒற்றுமை பற்றி பார்க்கலாம் என்றார்.
+He said that the Sri Lankan Tamil state party was broken into two or three split and that they could only look at the unity of the federation after they were united.
 
-கந்தரோடையில் உள்ள அவரது இல்லத்தில் ஞாயிற்றுக்கிழமை (28) ஊடகங்களுக்கு கருத்துத் தெரிவித்த போதே இதனை தெரிவித்தார்.
+He was speaking to the media on Sunday (28) at his residence in Kandarodai.
 
-அவர் மேலும் தெரிவிக்கையில், தமிழ் அரசுக் கட்சியின் தலைவர் தெரிவு செய்யப்பட்டுள்ளார். புதிய தலைவர் இன்னும் பதவியேற்கவில்லை. அதிலும் சிக்கல் ஒன்று காணப்படுகிறது. அதன் தேசிய மாநாடு ஒத்திவைக்கப்பட்டுள்ளது.
+He added that the leader of the Tamil state party has been elected. The new leader has not yet taken office. There is one problem. Its national conference has been postponed.
 
-அதை விட முக்கியமான விடயம் தமிழரசுக்கட்சிகள் இரண்டாக உடைந்து இருக்கிறது. அது இரண்டா, மூன்றாகவா என்று தெரியவில்லை ஆனால் உடைந்து இருக்கிறது.
+The most important thing is that the Tamil parties are broken in two. It does not know if it is second and three but broken.
+
+Another committee opposes the decision taken by the leader of the TNA. So the Tamil state party should unite. Only then will we look at the unity of other Tamil national parties.
 
 ...
 
 [Data](articles/27608373.json)
 
+[Extended Data](ext_articles/27608373.ext.json)
+
 ---
 
-### තායිලන්ත අග්‍රාමාත්‍යවරයා මෙරට සංචාරයක
+### Prime Minister of Thailand visits Sri Lanka
 
 *2024-01-29 12:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192696) · `si`
 
-තායිලන්ත අග්‍රාමාත්‍ය Srettha Thavisin දෙදින නිල සංචාරයක් සඳහා ලබන මස මෙරටට පැමිණීමට නියමිතය.
+The Prime Minister of Thailand is due to arrive in Sri Lanka on a two-day official visit.
 
-විදේශ කටයුතු අමාත්‍යංශය නිවේදනය කළේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ආරාධනයක් අනුව තවිසින් මහතා පෙබරවාරි 03 සිට 04 වනදා දක්වා මෙරට සංචාරය කිරීමට නියමිත බවයි.
+The External Affairs Ministry announced the invitation of President Ranil Wickremesinghe's invitation to visit the Sri Lanka from 03 to 4 February.
 
-76 වැනි ශ්‍රී ලංකා නිදහස් දින සැමරුම් උත්සවයේ ආරාධිතයෙක් ලෙස ඔහු මෙරටට පැමිණෙයි.
+He arrives in Sri Lanka as an invite of the 76th Sri Lanka Independence Day celebrations.
 
-ඔහු එම සංචාරය තුළදී ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සමග නිල සාකච්ඡාවක් පැවැත්වීමටත් ශ්‍රී ලංකා - තායිලන්ත නිදහස් වෙළෙඳ ගිවිසුම අත්සන් කිරීමේ අවස්ථාව ටද සහභාගී වීමටත් නියමිතය.
+He will also participate in a official discussion with President Ranil Wickremesinghe with President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/f84776ce.json)
+
+[Extended Data](ext_articles/f84776ce.ext.json)
 
 ---
 
@@ -202,23 +218,25 @@ Therefore, everyone should pay attention to avoid accidents on high -speed stree
 
 ---
 
-### ජපාන යානය අවදිවෙයි
+### The Japanese plane is watching
 
 *2024-01-29 12:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192695) · `si`
 
-විදුලි සැපයුමෙහි ඇතිවූ දෝෂයක් හේතුවෙන් ක්‍රියාවිරහිතව තිබූ සඳට යැවූ ජපාන යානය නැවත ක්‍රියාත්මක වන බව ජපාන අභ්‍යවකාශ ගවේෂණ ඒජන්සිය පවසයි.
+The Japanese Space Exploration Agency says that the Japanese plane that was detected to the moon was re-opened due to an error in the power supply.
 
-ඊයේ (28) රාත්‍රියේ සිට සන්නිවේදන සම්බන්ධතා නැවත ආරම්භ වූ බව එම ඒජන්සිය නිවේදනය කළේය.
+The agency announced that communication connections were resumed yesterday (28).
 
-එහි සූර්ය කෝෂ නැවතත් ක්‍රියාත්මක වීම ආරම්භ වී ඇති බව සඳහන් ය.
+It states that its solar cells have begun again.
 
-එම සූර්ය කෝෂ සූර්යයා දෙසට යොමු වී නොතිබීම හේතුවෙන් එම යානයේ විදුලි සැපයුමට බාධා එල්ල විය (සූර්ය කෝෂ සඳහා සූර්ය එළිය යොමු නොවීම හේතුවෙන්).
+The solar panels were interrupted by the power supply of the plane (due to the solar cells).
 
-ඊට පෙර අමෙරිකාව, සෝවියට් රුසියාව, චීනය සහ ඉන්දියාව, සඳ මත යානයක් ගොඩ බැස්සවීමට සමත්විය.
+Previously, US, Soviet Russia, China and India landed a plane on the Moon.
 
 ◼️
 
 [Data](articles/0cdaee26.json)
+
+[Extended Data](ext_articles/0cdaee26.ext.json)
 
 ---
 

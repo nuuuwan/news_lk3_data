@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 10:17:22**
+As of **2024-01-29 10:32:50**
 
 ## Newspaper Stats
 
-*Scraped **3,203** Articles*
+*Scraped **3,204** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 185
 newsfirstlk | 190
 dailyftlk | 223
 adalk | 291
-adaderanasinhalalk | 335
 virakesarilk | 335
+adaderanasinhalalk | 336
 tamilmirrorlk | 403
 adaderanalk | 413
 dailymirrorlk | 433
@@ -26,27 +26,47 @@ dailymirrorlk | 433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,195 (99.8%) of 3,203 articles have been extended.
+3,203 (100.0%) of 3,204 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### மாவனல்லையில் 30 கடைகள் எரிந்து நாசம்
+### සිරියානු හමුදා කඳවුරකට ඩ්‍රෝන ප්‍රහාරයක්
+
+*2024-01-29 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192688) · `si`
+
+සිරියාවේ දී එල්ල වූ ඩ්‍රෝන ප්‍රහාරයෙකින් අමෙරිකානු සෙබළුන් තිදෙනෙකු මියගොස් තිබේ.
+
+සිරියානු හමුදා කඳවුරක් ඉලක්ක කර ගනිමින් අදාළ ‍ඩ්‍රෝන ප්‍රහාරය එල්ල වී ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+ජාත්‍යන්තර ආරක්ෂක වැඩපිළිවෙළ යටතේ යොදවා සිටි අමෙරිකානු සෙබළුන් කිහිපදෙනෙකු ද එම කඳවුරේ රැඳී සිට ඇති බව සඳහන්ය.
+
+ඊශ්‍රායල හමාස් ගැටුම් ආරම්භ වීමෙන් අනතුරුව මැදපෙරදිග සන්නද්ධ කණ්ඩායමක් විසින් එල්ල කළ ප්‍රහාරයකින් අමෙරිකානු සෙබළුන් මිය ගිය පළමු අවස්ථාව මෙය වන බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+
+◼️
+
+[Data](articles/039f9ef8.json)
+
+---
+
+### 30 shops in Mawanella
 
 *2024-01-29 09:36:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாவனல்லையில்-30-கடைகள்-எரிந்து-நாசம்/175-332256) · `ta`
 
-மாவனல்லை நகரின் பிரதான பஸ் நிலையத்திற்கு முன்பாக நேற்று (28) இரவு திடீரென தீ விபத்து ஏற்பட்டுள்ளது.
+A fire broke out in front of the main bus station in Mawanella last night.
 
-விரைந்து செயல்பட்ட பொலிஸார், மாவனல்லை பிரதேச சபையின் தீயணைப்பு பிரிவு மற்றும் பிரதேசவாசிகள் இணைந்து தீயை கட்டுப்பாட்டுக்குள் கொண்டுவந்தனர்.
+The police, along with the fire brigade of the Mawanella Pradeshiya Sabha and the residents of the area, brought the fire under control.
 
-பழங்கள், நகைகள் மற்றும் பிளாஸ்டிக் பொருட்களின் விற்பனை செய்யும் பல கடைகள் இந்த தீயில் எரிந்து நாசமானது.
+Many shops that sell fruits, jewelery and plastic products were destroyed in the fire.
 
-தீ விபத்துக்கான காரணம் இதுவரையில் கண்டறியப்படவில்லை என்பதுடன், மாவனெல்ல பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். R
+The cause of the fire has not yet been detected and the Mawanella police are conducting further investigations. Remble
 
 ◼️
 
 [Data](articles/073f5b28.json)
+
+[Extended Data](ext_articles/073f5b28.ext.json)
 
 ---
 
@@ -166,6 +186,8 @@ He said the collaborative efforts between the Sri Lankan and Somali authorities 
 
 [Data](articles/9122241f.json)
 
+[Extended Data](ext_articles/9122241f.ext.json)
+
 ---
 
 ### Increase in accidents
@@ -188,19 +210,21 @@ Avoidance to prevent everyone should focus on it, Specialist Samaithunga said.
 
 ---
 
-### 17 தொழிற்சங்கங்கள் இன்று தொழிற்சங்க நடவடிக்கை
+### 17 trade unions today union action
 
 *2024-01-29 08:14:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/17-தொழிற்சங்கங்கள்-இன்று-தொழிற்சங்க-நடவடிக்கை/175-332255) · `ta`
 
-அரச நிறைவேற்று அதிகாரி சேவை பிரிவை சேர்ந்த அதிகாரிகள் இன்றைய தினம் சுகயீன விடுமுறையை அறிவித்து தொழிற்சங்க நடவடிக்கையில் ஈடுபட தீர்மானித்துள்ளனர்.
+Officials of the State Executive Service Division have decided to announce the sickness holiday today and engage in trade union action.
 
-சம்பள முரண்பாடுகளை தீர்த்தல், அடிப்படை வேதனத்தை உயர்த்துதல் மற்றும் அதிகரித்துள்ள வரிச்சுமையை குறைத்தல் உள்ளிட்ட பல கோரிக்கைகளை முன்வைத்து இந்த தொழிற்சங்க நடவடிக்கையை முன்னெடுக்கவுள்ளதாக ஒன்றிணைந்த அரச நிறைவேற்று அதிகாரிகளின் கூட்டமைப்பு தெரிவித்துள்ளது.
+The united state executive officials said that the trade union action would be carried out on a number of demands, including resolving salary conflicts, raising basic pain and reducing the increased tax burden.
 
-இதன்படி அரச பொறியியலாளர் சங்கம், ஆயுர்வேத உத்தியோகத்தர் சங்கம், கால்நடை வைத்திய அதிகாரிகள் சங்கம், கட்டட நிபுணர்கள் சங்கம், உள்நாட்டு வருமானவரி தொழிற்சங்க ஒன்றியம், கணக்காளர் சேவைகள் சங்கம் உட்பட 17 தொழிற்சங்கங்கள் குறித்த தொழிற்சங்க நடவடிக்கையில் இணையவுள்ளதாக தெரிவிக்கப்பட்டுள்ளது. (a)
+Accordingly, 17 trade unions, including the State Engineers Association, Ayurvedic Officers Association, Veterinary Officers Association, Building Experts Association, Internal Income Tax Trade Union Union, Accountant Services Association will join the union action.. (A)
 
 ◼️
 
 [Data](articles/ae27ac1c.json)
+
+[Extended Data](ext_articles/ae27ac1c.ext.json)
 
 ---
 
@@ -244,6 +268,8 @@ Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
 
 [Data](articles/98fcde41.json)
 
+[Extended Data](ext_articles/98fcde41.ext.json)
+
 ---
 
 ### Measures being taken to address issues related to tax registration
@@ -265,6 +291,8 @@ Measures being taken to address issues related to tax registration
 ...
 
 [Data](articles/ebac600b.json)
+
+[Extended Data](ext_articles/ebac600b.ext.json)
 
 ---
 
@@ -313,6 +341,8 @@ Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
 ◼️
 
 [Data](articles/ce844753.json)
+
+[Extended Data](ext_articles/ce844753.ext.json)
 
 ---
 
@@ -404,6 +434,8 @@ Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
 
 [Data](articles/846f8e03.json)
 
+[Extended Data](ext_articles/846f8e03.ext.json)
+
 ---
 
 ### The singer of the heart goes home
@@ -463,6 +495,8 @@ Sri Lankan wins Best Director Award at 22nd Dhaka International Film Festival
 ◼️
 
 [Data](articles/16d2d7b3.json)
+
+[Extended Data](ext_articles/16d2d7b3.ext.json)
 
 ---
 
@@ -1925,25 +1959,5 @@ Foreign media has reported that approximately 1,600 people have been involved in
 [Data](articles/8f7d3ce3.json)
 
 [Extended Data](ext_articles/8f7d3ce3.ext.json)
-
----
-
-### Late state minister Sanath Nishantha laid to rest
-
-*2024-01-28 18:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96800/late-state-minister-sanath-nishantha-laid-to-rest) · `en`
-
-The late State Minister Sanath Nishantha was laid to rest at the Rajakadalua Cemetery in Puttalam on Sunday evening (28 Jan.).
-
-Accordingly, the funeral service of the late State Minister, who was killed in an accident on the Katunayake Expressway, was held from 01:00 p.m. today, at his residence in Arachchikattuwa, following which he was buried at the Rajakadaluwa Cemetery.
-
-On 25 January, Sanath Nishantha’s vehicle had crashed against the roadside barrier on the Katunayake Expressway, after rear-ending a moving container truck at around 02:00 a.m., according to police.
-
-Following the fatal collision, three injured persons, including the State Minister, were rushed to the Colombo North Teaching Hospital in Ragama, but the lawmaker and his security guard, identified as a police constable named Jayakody, had later succumbed to their injuries.
-
-◼️
-
-[Data](articles/2578a9b7.json)
-
-[Extended Data](ext_articles/2578a9b7.ext.json)
 
 ---

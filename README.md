@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 11:51:54**
+As of **2024-01-29 12:02:17**
 
 ## Newspaper Stats
 
-*Scraped **3,230** Articles*
+*Scraped **3,233** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,51 +18,113 @@ dailyftlk | 223
 adalk | 291
 virakesarilk | 338
 adaderanasinhalalk | 340
-tamilmirrorlk | 404
-adaderanalk | 417
+tamilmirrorlk | 406
+adaderanalk | 418
 dailymirrorlk | 440
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,214 (99.5%) of 3,230 articles have been extended.
+3,230 (99.9%) of 3,233 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### පාසල් පාවහන් තිළිණපත්වල වලංගු කාලය දීර්ඝ කෙරේ
+### இலங்கை வருகின்றார் தாய்லாந்து பிரதமர்
+
+*2024-01-29 11:38:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வருகின்றார்-தாய்லாந்து-பிரதமர்/175-332262) · `ta`
+
+தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் எதிர்வரும் பெப்ரவரி மாதம் 3 ஆம் திகதி இலங்கைக்கு வருகைதரவுள்ளதாக வெளிவிவகார அமைச்சு அறிவித்துள்ளது.
+
+ஜனாதிபதி ரணில் விக்ரமசிங்கவின் அழைப்பை ஏற்று நாட்டுக்கு வருகைதரவுள்ள அவர், இலங்கையின் 76 ஆவது சுதந்திர தின விழாவில் பிரதம அதிதியாக பங்கேற்க இரண்டு நாள் உத்தியோகபூர்வ விஜயம் மேற்கொண்டு வருவதாக தெரிவிக்கப்பட்டுள்ளது.
+
+இந்த விஜயத்தின் போது, ஜனாதிபதி ரணில் விக்ரமசிங்க உள்ளிட்ட தரப்பினருடன் தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் கலந்துரையாடல்களை மேற்கொள்ளவுள்ளதாக குறிப்பிடப்பட்டுள்ளது.
+
+அத்துடன் இலங்கை - தாய்லாந்து சுதந்திர வர்த்தக உடன்படிக்கையை கைச்சாத்திடும் நிகழ்விலும் அவர் பங்குபற்றவுள்ளதாகவும் வெளிவிவகார அமைச்சு தெரிவித்துள்ளது. R
+
+◼️
+
+[Data](articles/4a374886.json)
+
+---
+
+### Man found guilty of brutal murder of wife sentenced to death after 14 years
+
+*2024-01-29 11:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96818/man-found-guilty-of-brutal-murder-of-wife-sentenced-to-death-after-14-years) · `en`
+
+A person has been sentenced to death after being found guilty over an incident of causing serious injuries to his wife, a mother-of-two, by assaulting her and setting her on fire after dousing her with kerosene inside a room of their house.
+
+This order was issued by the North Central Provincial High Court Judge Manoj Thalgodapitiya.
+
+The Attorney General had filed indictments against the accused before Anuradhapura High Court as per Section 296 of the Penal Code, charging him with assault and causing serious injuries which led to death by setting his wife on fire after dousing her with kerosene in the Thammennawa area on 26 January, 2010.
+
+Issuing the verdict, the judge stated that the prosecution had been able to prove the allegations against the accused beyond reasonable doubt.
+
+The preliminary hearing of this case was held before the Thambuttegama Magistrate’s Court and later referred to the Anuradhapura High Court for further hearing after filing of the indictments by the Attorney General.
+
+...
+
+[Data](articles/c2697f0d.json)
+
+---
+
+### தொங்கிய  மனித எலும்புக்கூடு மீட்பு
+
+*2024-01-29 11:28:17* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தொங்கிய-மனித-எலும்புக்கூடு-மீட்பு/76-332261) · `ta`
+
+பதுளை கொஹோவில கிரிகல்பொத்த காட்டில் தூக்கில் தொங்கியதாக சந்தேகிக்கப்படும் நபரின் உடல் பாகங்கள் ஞாயிற்றுக்கிழமை (28) பிற்பகல் கண்டெடுக்கப்பட்டுள்ளதாக கந்தேகெதர பொலிஸார் தெரிவித்தனர்.
+
+கழுத்தை நெரித்து இறந்ததாக சந்தேகிக்கப்படும் 40 வயதுடைய நபர், சொரனாதோட்டை, கெடிகஹதன்ன, கொஹோவிலவில் வசிக்கும்   தினேஷ் ரத்நாயக்க என அடையாளம் காணப்பட்டுள்ளதாகவும் பொலிஸார் தெரிவித்தனர்.
+
+கடந்த 28ஆம் திகதி மதியம் அந்த பகுதியை சேர்ந்த நபர் ஒருவர் காட்டுப்பகுதிக்குள் சென்ற போது மரத்தில் சடலம் ஒன்றின் பாகங்கள் தூக்கில் தொங்குவதை கண்டு கந்தேகெதர பொலிஸாருக்கு தகவல் வழங்கியுள்ளதாக பொலிஸார் தெரிவித்தனர்.
+
+இறந்தவர் கடந்த செப்டம்பர் மாதம் 19ம் திகதி வேலைக்கு செல்வதாக கூறி துணிப்பையுடன் வீட்டை விட்டு வெளியே சென்றதாகவும் அதன் பிறகு குடும்பத்தினரிடம் இருந்து எந்த தகவலும் இல்லை என்றும் பொலிஸார் தெரிவித்தனர்.
+
+வீட்டின் துணிகளை காய வைப்பதற்காக கட்டப்பட்டிருந்த கம்பியின் ஒரு பகுதியே கழுத்தை நெரிப்பதற்க  பயன்படுத்தியமை பொலிஸ் விசாரணைகளில் தெரியவந்துள்ளது.
+
+...
+
+[Data](articles/e619e65a.json)
+
+---
+
+### Schoolwear Supplementary Cards extended
 
 *2024-01-29 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192692) · `si`
 
-පාසල් සිසුන් වෙනුවෙන් රජය ලබා දුන් පාසල් පාවහන් තිළිණපත්වල වලංගු කාලය දීර්ඝ කර ඇතැයි අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of Education has announced that the validity of the school shoes that the government has given to school children has been extended.
 
-ඒ අනුව පෙර පෙර සඳහන් කර තිබු 2024. 02. 01 දින දක්වා වූ කාලය 2024. 02. 17 දක්වා දීර්ඝ කර තිබේ.
+Accordingly, the previous previous previous previous. 02. The period from 0124. 02. Extended to 17.
 
 ◼️
 
 [Data](articles/afdc9514.json)
 
+[Extended Data](ext_articles/afdc9514.ext.json)
+
 ---
 
-### අලුත් බද්දක් ගැන ඉඟියක්
+### A hint of a new tax
 
 *2024-01-29 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192691) · `si`
 
-ඉදිරියේ දී වක්‍ර බදු හඳුන්වා දීමට හෝ බදු ප්‍රතිශතයන් ඉහළ දැමීමට කිසිදු බලාපොරොත්තුවක් නොමැති බව මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පවසයි.
+State Minister Ranjith Siyambalapitiya says that there is no hope to introduce indirect taxes or increase taxes in the future.
 
-කෑගල්ල ප්‍රදේශයේදී මාධ්‍ය වෙත අදහස් දක්වමින් මුදල් රාජ්‍ය අමාත්‍යවරයා පවසා සිටියේ, රාජ්‍ය ආදායම වර්ධනය කර ගැනීමට බලාපොරොත්තු වන බවය.
+Speaking to the media in Kegalle, the public minister said that the government revenue is expected to be developed.
 
-වක්‍ර බදු හේතුවෙන් භාණ්ඩ මිල ඉහළ නොයන බවත් භාණ්ඩවල ඉල්ලුම සැපයුම මත භාණ්ඩ මිල තීරණය වන බවත් මුදල් රාජ්‍ය අමාත්‍යවරයා මෙහිදී පැවසීය.
+The State Minister said that the prices of goods will not increase due to indirect taxes and the price of goods will be decided on the supply of goods.
 
-මේ අතර 2025 වසරේදී නව දේපොළ බද්දක් හඳුන්වාදීමට බලාපොරොත්තු වන බව ද මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා කියා සිටියේය.
+Meanwhile, Minister of Finance Ranjith Siyambalapitiya stated that he is expected to introduce a new real estate tax in 2025.
 
-දේපොළ බද්ද සෘජු බද්දක් වන බවත් එම බද්ද ඉහළ දේපොළක් ඇති අයගෙන් අය කරගනු ලබන නිශ්චිත මුදලක් බවත් මුදල් රාජ්‍ය අමාත්‍යවරයා මෙහිදී සඳහන් කළේය.
+The State Minister stated that the real estate tax is a direct tax and that the tax is a specific amount of money.
 
 ◼️
 
 [Data](articles/8f7d8d28.json)
+
+[Extended Data](ext_articles/8f7d8d28.ext.json)
 
 ---
 
@@ -75,6 +137,8 @@ Colombo, Jan. 29 (Daily Mirror)- Lohan Ratwatte has been sworn in before Preside
 ◼️
 
 [Data](articles/63288c6c.json)
+
+[Extended Data](ext_articles/63288c6c.ext.json)
 
 ---
 
@@ -107,6 +171,8 @@ Police life savers have been deployed to face any emergency situation.
 ◼️
 
 [Data](articles/5aa5a773.json)
+
+[Extended Data](ext_articles/5aa5a773.ext.json)
 
 ---
 
@@ -177,6 +243,8 @@ He said that the SJB Leader was critical of the engagement that the government h
 ◼️
 
 [Data](articles/a5901e21.json)
+
+[Extended Data](ext_articles/a5901e21.ext.json)
 
 ---
 
@@ -278,6 +346,8 @@ The two countries will also renew the Air Services Agreement and conclude a Memo
 
 [Data](articles/bec4b60d.json)
 
+[Extended Data](ext_articles/bec4b60d.ext.json)
+
 ---
 
 ### Six students arrested over ragging incident at Sabaragamuwa University
@@ -298,6 +368,8 @@ Malaysia’s former Finance Minister charged with corruption after Pandora Paper
 
 [Data](articles/57022f4c.json)
 
+[Extended Data](ext_articles/57022f4c.ext.json)
+
 ---
 
 ### Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
@@ -316,6 +388,8 @@ Malaysia’s current PM Anwar Ibrahim, a bitter rival of Mahathir, has vowed to 
 
 [Data](articles/bf90dc43.json)
 
+[Extended Data](ext_articles/bf90dc43.ext.json)
+
 ---
 
 ### Thai PM to visit Sri Lanka this weekend
@@ -333,6 +407,8 @@ FTA negotiations between the countries resumed in November after they were put o
 ...
 
 [Data](articles/35b4741d.json)
+
+[Extended Data](ext_articles/35b4741d.ext.json)
 
 ---
 
@@ -355,6 +431,8 @@ Malaysia’s former Finance Minister charged with corruption after Pandora Paper
 ◼️
 
 [Data](articles/8bfa1186.json)
+
+[Extended Data](ext_articles/8bfa1186.ext.json)
 
 ---
 
@@ -472,6 +550,8 @@ The Colombo Stock Exchange opened up, the All Share Price Index was up 0.04 perc
 
 [Data](articles/510d99fd.json)
 
+[Extended Data](ext_articles/510d99fd.ext.json)
+
 ---
 
 ### 11 days of her infule, parents flect
@@ -516,6 +596,8 @@ In addition, three destinations will be operated on a seasonal basis: Trabzon du
 
 [Data](articles/a0fc6d1e.json)
 
+[Extended Data](ext_articles/a0fc6d1e.ext.json)
+
 ---
 
 ### Somali Navy Chief contacts EU Navy
@@ -531,6 +613,8 @@ According to Mr. Kananathan, the Somali Navy Chief has informed the European Uni
 ...
 
 [Data](articles/f244f9c2.json)
+
+[Extended Data](ext_articles/f244f9c2.ext.json)
 
 ---
 
@@ -569,6 +653,8 @@ The arrested students, aged 23, 24 and 25 years are residents of Morawaka, Rukga
 ◼️
 
 [Data](articles/16d39956.json)
+
+[Extended Data](ext_articles/16d39956.ext.json)
 
 ---
 
@@ -641,6 +727,8 @@ Despite his recovery, doctors have advised Weerasinghe should continue to rest e
 ◼️
 
 [Data](articles/84139c35.json)
+
+[Extended Data](ext_articles/84139c35.ext.json)
 
 ---
 
@@ -931,6 +1019,8 @@ Sri Lanka began stabilization by allowing interest rates to rise in April 2022.
 ...
 
 [Data](articles/ce06ea44.json)
+
+[Extended Data](ext_articles/ce06ea44.ext.json)
 
 ---
 
@@ -1949,57 +2039,5 @@ He also stressed the swift implementation of plans to promote tourism in the are
 [Data](articles/74617bbd.json)
 
 [Extended Data](ext_articles/74617bbd.ext.json)
-
----
-
-### Couple arrested over Rs. 5 billion pyramid scheme remanded
-
-*2024-01-28 19:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96803/couple-arrested-over-rs-5-billion-pyramid-scheme-remanded-) · `en`
-
-The couple arrested on suspicion of defrauding several people to the tune of of Rs. 5 billion through a pyramid scheme, have been remanded until 05 February.
-
-The relevant order was issued by the Kahatagasdigiliya Magistrate’s Court when the case was taken up today (28 Jan.).
-
-The 39-year-old suspect and his mistress were arrested in Pilimathalawa, Kandy, by the Illegal Assets and Property Investigation Unit on Saturday (27 Jan.).
-
-According to police, he had been operating a pyramid-type financial institution under the name ‘TredWin Share’ in the Galenbindunuwewa area, while his mistress, with whom he had been residing within Pilimathalawa, was arrested on charges of investing the swindled funds.
-
-Police further reported that the couple had been living a luxurious life by buying real estate and vehicles using the ill-gotten money.
-
-◼️
-
-[Data](articles/7412f51e.json)
-
-[Extended Data](ext_articles/7412f51e.ext.json)
-
----
-
-### Introducing a Blue Curriculum Across BIMSTEC
-
-*2024-01-28 19:34:00* · [`economynextcom`](https://economynext.com/introducing-a-blue-curriculum-across-bimstec-148883/) · `en`
-
-ECONOMYNEXT – As the negative impacts of climate change continue to batter the world, a training manual for educators, launched on January 24th, aims to raise awareness of the importance of the Blue, Green and Brown environment amongst the young, and its interconnectedness within the South Asian region.
-
-Titled “Blue Curriculum for Life, Learning Journeys for Sustainability,” the manual is the outcome of a conference held in India in December 2023, for the Bay of Bengal Initiative for Multisectoral Technical and Economic Cooperation (BIMSTEC), member countries.  Both the conference and the training manual, which was launched virtually, during a Web Talk are joint initiatives of the Friedrich Naumann Foundation for Freedom South Asia and the Centre for Civil Society, Delhi.
-
-The activity-based manual provides examples and reflection on unsustainable practices which result in environmental destruction and aims to promote critical thinking among the young.
-
-...
-
-[Data](articles/1f4238c0.json)
-
-[Extended Data](ext_articles/1f4238c0.ext.json)
-
----
-
-### Chips Are Everywhere: But Can Sri Lanka Ride The Wave?
-
-*2024-01-28 19:33:42* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/chips-are-everywhere-but-can-sri-lanka-ride-the-wave/) · `en`
-
-...
-
-[Data](articles/64c6bd31.json)
-
-[Extended Data](ext_articles/64c6bd31.ext.json)
 
 ---

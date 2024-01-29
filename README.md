@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 14:49:55**
+As of **2024-01-29 15:02:37**
 
 ## Newspaper Stats
 
-*Scraped **3,280** Articles*
+*Scraped **3,283** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 185
 newsfirstlk | 198
 dailyftlk | 223
 adalk | 300
-adaderanasinhalalk | 346
-virakesarilk | 352
+adaderanasinhalalk | 348
+virakesarilk | 353
 tamilmirrorlk | 410
 adaderanalk | 423
 dailymirrorlk | 444
@@ -26,11 +26,63 @@ dailymirrorlk | 444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,272 (99.8%) of 3,280 articles have been extended.
+3,280 (99.9%) of 3,283 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### பண மோசடி வழக்கின் சந்தேக நபரான ஆசிரியர்  அநுராதபுரத்தில் கைது!
+
+*2024-01-29 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175066) · `ta`
+
+தற்போது நடைபெற்றுக் கொண்டிருக்கும் கல்விப் பொதுத் தராதர  உயர்தரப் பரீட்சைக்கு, பரீட்சை மண்டப  உதவி  மேற்பார்வையாளராக கடமையாற்றும் ஆசிரியர் ஒருவர்   கைது செய்யப்பட்டுள்ளார்.
+
+பண மோசடி குறித்த  வழக்கு தொடர்பில் திறந்த பிடியாணை பிறப்பிக்கப்பட்ட நிலையில் அவர் கடமையில் இருக்கும்போதே  கைது செய்யப்பட்டதாக அநுராதபுரம் தலைமையக பொலிஸார் தெரிவித்தனர்.
+
+தம்புத்தேகம நீதிவான் நீதிமன்றில்  பண மோசடி வழக்கில் சந்தேக நபரான  இந்த ஆசிரியர் தொடர்ந்து நீதிமன்றத்தை தவிர்த்து வந்தமைக்காக திறந்த பிடியாணை பிறப்பிக்கப்பட்டிருந்ததாகவும் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/c51977fe.json)
+
+---
+
+### 2024 ෆිල්ම්ෆෙයාර් සම්මාන රාත්‍රිය
+
+*2024-01-29 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192702) · `si`
+
+69 වැනි ෆිල්ම්ෆෙයාර් සම්මාන උළෙල ඊයේ (28) රාත්‍රියේ ඉන්දියාවේ ගුජරාට් හිදී අති උත්කර්ෂවත් ලෙස පැවැත්විය.
+
+එහිදී 2023 වසරේ තිරගතවූ සිනමා පට සඳහා සම්මාන ප්‍රදානය කෙරුණු අතර උළෙලේ දී වැඩි ගෞරව දිනාගැනීමට සමත්වූයේ වික්‍රාන්ත් මෙසී ප්‍රධාන චරිත නිරූපණය කරන විදු විනෝද් චොප්රාගේ 'ටුවෙල්ත් ෆේල්' (12th Fail) සිනමාපටයයි.
+
+එම සිනමා පටය අධ්‍යක්ෂණය කළ විදු විනොද් චෝප්රා ට හොඳම අධ්‍යක්ෂණයට හිමි සම්මානය ද හිමි විය.
+
+සිනමා උළෙලේ හොඳම රංගන ශිල්පියාට හිමි සම්මානය "ඇනිමල්" සිනමාපටය සඳහා රන්බීර් කපූර් දිනාගත් අතර, එම කාණ්ඩයේම විචාරක සම්මානය දිනාගත්තේ වික්‍රාන්ත් මෙසී ය.
+
+මෙවර උලෙළේදී හොඳම රංගන ශිල්පිනියට හිමි සම්මාන "රොකී ඕර් රාණී කී ප්‍රේම් කහානී" හි රංගනය වෙනුවෙන් ආලියා බාත් දිනාගත්තාය.
+
+◼️
+
+[Data](articles/855a2ee0.json)
+
+---
+
+### හෝටන් තැන්නේ මල්තුහින
+
+*2024-01-29 14:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192701) · `si`
+
+මේ දිනවල ශ්‍රී ලංකාවේ කඳුකර දැඩි සීත කාලගුණික තත්ත්වයක් සහිත ප්‍රදේශ ආශ්‍රිතව උදෑසන කාලයේදී මල්තුහින තත්ත්වයන් දැකගත හැකියි.
+
+මෙවැනි පසුබිමක පසුගිය දිනක නුවරඑළිය හෝටන් තැන්න ප්‍රදේශය ආශ්‍රිතව ඇතිවූ මල්තුහින තත්ත්වය කාගේත් අවධානයට ලක්විය.
+
+උදෑසන 6 සිට 8 දක්වා කාලසීමාව තුළදී සෙල්සියස් අංශක 3ක සීතලේ මෙලෙස හෝටන් තැන්න ප්‍රදේශය ආශ්‍රිතව පැවති මල්තුහින තත්ත්වය කැමරාවේ සටහන්ව තිබුණි.
+
+◼️
+
+[Data](articles/fd6f5d0e.json)
+
+---
 
 ### No new indirect taxes will be introduced – State Minister
 
@@ -50,35 +102,41 @@ The State Minister also noted that a new property tax is slated to be introduced
 
 [Data](articles/e8ae4d86.json)
 
+[Extended Data](ext_articles/e8ae4d86.ext.json)
+
 ---
 
-### ලොහාන් රත්වත්තේට යළිත් රාජ්‍ය අමාත්‍යධුරයක්
+### Minister of State for Lohan Ratwatte
 
 *2024-01-29 14:11:21* · [`adalk`](https://www.ada.lk/breaking_news/ලොහාන්-රත්වත්තේට-යළිත්-රාජ්‍ය-අමාත්‍යධුරයක්/11-407778) · `si`
 
-වැවිලි කර්මාන්ත සහ මහවැලි සංවර්ධන රාජ්‍ය අමාත්‍යවරයා ලෙස ලොහාන් රත්වත්තේ මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ ජනාධිපති ලේකම් කාර්යාලයේ දී අද (29) දිවුරුම් දුන්නේය. මෙම අවස්ථාවට ජනාධිපති ලේකම් සමන් ඒකනායක මහතා ද එක්විය.
+Lohan Ratwatte as the State Minister of Plantation and Mahaweli Development in the Presidential Secretariat today (29) at the Presidential Secretariat before President Ranil Wickremesinghe. Presidential Secretary Saman Ekanayake was also present on the occasion.
 
 ◼️
 
 [Data](articles/16e85c30.json)
 
+[Extended Data](ext_articles/16e85c30.ext.json)
+
 ---
 
-### புதிய வரி தொடர்பில் வெளியான அறிவிப்பு
+### Notice of new tax
 
 *2024-01-29 14:06:38* · [`tamilmirrorlk`](https://www.tamilmirror.lk/video/புதிய-வரி-தொடர்பில்-வெளியான-அறிவிப்பு/52-332269) · `ta`
 
-எதிர்காலத்தில் மறைமுக வரிகளை அறிமுகப்படுத்தவோ அல்லது வரி சதவீதத்தை அதிகரிக்கவோ அரசாங்கத்துக்கு எண்ணம் இல்லை என நிதி இராஜாங்க அமைச்சர் ரஞ்சித் சியம்பலாபிட்டிய தெரிவித்தார்.
+Finance Minister Ranjith Siyambalapitiya said the government had no intention of introducing indirect taxes in the future or increasing the tax percentage.
 
-எனவே, மறைமுக வரி விதிப்பால் பொருட்களின் விலை உயராது என்றும், பொருட்களின் தேவை மற்றும் விநியோகத்தின் அடிப்படையில் பொருட்களின் விலை நிர்ணயிக்கப்படும் என்றும் நிதி இராஜாங்க அமைச்சர் கூறினார்.
+The Minister of Finance said that the cost of goods would not rise due to indirect taxation and the price of goods would be determined based on the demand and distribution of goods.
 
-இதேவேளை, 2025ஆம் ஆண்டு புதிய சொத்து வரி அறிமுகப்படுத்தப்படும் என எதிர்பார்க்கப்படுவதாக அவர் குறிப்பிட்டார்.
+Meanwhile, he said that the new property tax is expected to be introduced by 2025.
 
-சொத்து வரி என்பது நேரடி வரி என்றும், அதிக சொத்து வைத்திருப்பவர்களிடம் இந்த வரி வசூலிக்கப்படும் என அவர் சுட்டிக்காட்டினார்.
+He pointed out that the property tax is direct tax and that the tax will be charged to the higher property holders.
 
 ◼️
 
 [Data](articles/4c100549.json)
+
+[Extended Data](ext_articles/4c100549.ext.json)
 
 ---
 
@@ -100,21 +158,25 @@ The hijacking of the Sri Lankan vessel occurred in international waters about 84
 
 [Data](articles/f7ec6143.json)
 
+[Extended Data](ext_articles/f7ec6143.ext.json)
+
 ---
 
-### பகிடிவதையில் ஈடுபட்ட மாணவர்களுக்கு பிணை
+### Bail for students involved in sharing
 
 *2024-01-29 14:02:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடிவதையில்-ஈடுபட்ட-மாணவர்களுக்கு-பிணை/175-332268) · `ta`
 
-சப்ரகமுவ பல்கலைக்கழகத்தில் மாணவி ஒருவரை பகிடிவதைக்கு உட்படுத்திய சம்பவம் தொடர்பில் கைது செய்யப்பட்ட மாணவர்கள் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+Students arrested in connection with the sharing of a student at Sabaragamuwa University have been released on bail.
 
-சந்தேக நபர்கள் இன்று (29) பிற்பகல் பலாங்கொடை நீதவான் நீதிமன்றில் ஆஜர்படுத்தப்பட்டதன் பின்னர் தலா ஒரு இலட்சம் ரூபாய் சரீரப் பிணையில் விடுவிக்கப்பட்டுள்ளனர்.
+The suspects have been released on bail of Rs.
 
-அந்தப் பல்கலைக்கழகத்தின் சமூக அறிவியல் மற்றும் மொழிக் கல்வி பீடத்தின் நான்காம் வருடத்தில் கல்வி கற்றுவரும் 23, 24 மற்றும் 25 வயதுடைய மாணவர்கள் குழுவொன்றே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+A group of students aged 23, 24 and 25, who are educated in the fourth year of the Faculty of Social Science and Linguistics of the University, have been arrested.
 
 ◼️
 
 [Data](articles/a76aa3ef.json)
+
+[Extended Data](ext_articles/a76aa3ef.ext.json)
 
 ---
 
@@ -146,21 +208,27 @@ There is no direct connection between us and him. All the news that is currently
 
 ---
 
-### ලක්ෂ 65ක ණයක් තිබූ අපුර ඩිපෝව ලක්ෂ 650ක් ඉතිරි කරන තැනට පත්කළ ඩිපෝ අධිකාරී ඉල්ලා අස්වෙයි
+### Depot Superintendent resigns 650 lakhs loans
 
 *2024-01-29 14:01:31* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-65ක-ණයක්-තිබූ-අපුර-ඩිපෝව-ලක්ෂ-650ක්-ඉතිරි-කරන-තැනට-පත්කළ-ඩිපෝ-අධිකාරී-ඉල්ලා-අස්වෙයි/11-407777) · `si`
 
-අධික ලෙස පාඩු ලබමින් තිබූ ශ්‍රී ලංකා ගමනා ගමන මණ්ඩලයට අයත්  අනුරාධපුර ඩිපෝවේ රුපියල් කෝටි ගණනක මුදල් ඉතිරියක් සහ තවත් විශේෂ සේවාවන් රැසක් ඉටු කරමින්  සිටි  අනුරාධපුර ඩිපෝ අධිකාරි, ටී. කළුආරච්චි මහතා සේවයෙන්  ඉල්ලා අස්ව තිබේ.
+Anuradhapura depots, Anuradhapura Depot Sucretion of Anuradhapura Depot and many special services from the Sri Lanka Transport Board (SLT). Kaluarachchi has resigned from service.
 
-රුපියල් ලක්ෂ 65 ණයක් සහිතව තිබූ ඩිපෝව එම ණය අවසන් කර, සේවකයන්ගේ 2018 වසරේ සිට තිබූ හිග වැටුප්, ගෙවීම් කප්පාදු කරන ලද අතිකාල   දීමනා පවා ගෙවීම් ආරම්භ කල ඒ මහතා  මෙවැනි ප්‍රවර්ධනයක් පෙන්නුම් කළේ 2020 වසරේ අනුරාධපුර ඩිපෝ අධිකාරිවරයා ලෙස වැඩ භාරගෙන වසර 4ක කාලය තුලදීය.
+The Depot with a loan of Rs.
 
-තවද එම කාලය තුල රුපියල් කෝටි හය හමාරක පමණ මුදලක් ඩිපෝව සතුව ඉතුරු කිරීමටද හෙතෙම සමත් වූ අතර, රුපියල් ලක්ෂ දෙසීයක්  වැය කර සුඛෝපභෝගි බස් රථයක්ද ප්‍රථම වරට අනුරාධපුර ඩිපෝව මගින් කොළඹ දක්වා ධාවනය කරවීමට කටයුතු කළේය.
+He was also able to save the depot about Rs.
 
-විවිධ බස්රථ සේවා ආරම්භය මෙන්ම ශ්‍රී මහා බෝධි වන්දනා  සහ වට වන්දනා බස් රථ සේවා දෙකක්ද ආරම්භ කිරීමට දායක වූ  කළු ආරච්චි මහතා  සිදු කල සමාජ සේවා මෙහෙයන් අතර මෑතකදී බස් මගියෙකුගේ මුදල්  රුපියල් ලක්ෂ දහය සමඟ ලැප්ටොප් පරිගණකය අයිතිකරු සොයා නැවත  ලබා දීමද සමාජයේ දැඩි කතා බහට ලක්විය.
+A recent bus passenger operations have recently commenced two varieties of buses and the Sri Maha Bodhi pilgrimage and round bus services and the money passenger operations have been redeemed by the owner.
 
-...
+In this four-year, the Rajarata Divisional tournament had been placed before the Anuradhapura Depot, the first place in the Rajarata Divisional Secretariat.
+
+As a personal reason, Ts. the ti-past-week resigned T. Kaluarachchi's full program period is twenty-four years.
+
+◼️
 
 [Data](articles/28124ee3.json)
+
+[Extended Data](ext_articles/28124ee3.ext.json)
 
 ---
 
@@ -183,6 +251,8 @@ Former MP Hirunika Premachandra who also participated in the briefing said the p
 ◼️
 
 [Data](articles/bb820fe1.json)
+
+[Extended Data](ext_articles/bb820fe1.ext.json)
 
 ---
 
@@ -1884,23 +1954,27 @@ The reason is that the TNA leader appears to be the leader of the TNA and the le
 
 ---
 
-### කෝටි 600 බදු පැහැර හැර ඇති මත්පැන් සමාගම් 10 ක ලැයිස්තුවක් ශ්‍රේෂ්ඨාධිකරණයට
+### A list of liquor companies have ruined Rs. 600 million to Supreme Court
 
 *2024-01-29 07:56:28* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cv29l0w6p77o) · `si`
 
-කෝටි 600 බදු පැහැර හැර ඇති මත්පැන් සමාගම් 10 ක ලැයිස්තුවක් ශ්‍රේෂ්ඨාධිකරණයට
+A list of liquor companies have ruined Rs. 600 million to Supreme Court
 
-මෙරට  මත්පැන් නිෂ්පාදන සමාගම් 10 ක් රුපියල් කෝටි 678 කට අධික සුරා බදු මුදල් ප්‍රමාණයක් රජය වෙත ගෙවීම පැහැර හැර ඇතැයි ශ්‍රේෂ්ඨාධිකරණය හමුවේ පෙත්සමක් ගොනු කොට තිබේ.
+The Supreme Court has filed a sum of Rs.
 
-රජය වෙත බදු ගෙවීම පැහැර හැර ඇති මත්පැන් නිෂ්පාදන සමාගම් 10 කින් එම බදු මුදල් අයකර ගැනීමේ නියෝගයක් නිකුත් කරන ලෙස ඉල්ලා සංජය මහවත්ත ඇතුළු සමාජ ක්‍රියාකාරිකයින් පිරිසක් විසින් (ජනවාරි 26 වැනිදා) ඉදිරිපත් කර ඇති මූලික අයිතිවාසිකම් පෙත්සමක් තුළින් මේ බව ශ්‍රේෂ්ඨාධිකරණය හමුවේ ප්‍රකාශ කර ඇත.
+The Supreme Court has stated in the Supreme Court through a fundamental rights petition filed by a group of other social activists, including the alcohol production of taxes (on January 26).
 
-පෙත්සමේ සඳහන් වන ආකාරයට බදු ගෙවීම පැහැර හැර තිබෙන මත්පැන් නිෂ්පාදන සමාගම් මොනවාද?
+According to the petition, what is alcohol production companies that have defaulted taxes?
 
-අදාළ පෙත්සමේ සඳහන් වන ආකාරයට රජය වෙත හිඟ බදු මුදල් ගෙවීම පැහැර හැර ඇති  මත්පැන් නිෂ්පාදන සමාගම් 10 ක් නම් කර තිබේ.
+According to the relevant petition, 10 liquor companies have been named the government has despatched.
+
+The officials of the Department, the Commissioner General of Excise and the Secretary to the Ministry of Excise, the Secretary to the Ministry of Finance, the Finance Ministry Secretary Ranjith Siyambalapitiya, the Auditor General, the Auditor General and the deficit alcohol has been named the Auditor General and the Departments of the Department.
 
 ...
 
 [Data](articles/ad3df43c.json)
+
+[Extended Data](ext_articles/ad3df43c.ext.json)
 
 ---
 
@@ -2015,61 +2089,5 @@ Meanwhile, doctors are recommended that Mr. Chamara Weerasinghe recovered furthe
 [Data](articles/00f20b27.json)
 
 [Extended Data](ext_articles/00f20b27.ext.json)
-
----
-
-### Rain in some parts of the country today
-
-*2024-01-29 07:38:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாட்டின்-சில-பகுதிகளில்-இன்று-மழை/175-332254) · `ta`
-
-The Department of Meteorology has forecast rainy weather in some parts of the country today.
-
-Accordingly, there will be some rainfall in the Eastern and Uva Provinces and Polonnaruwa, Matale and Nuwara Eliya districts.
-
-The Department of Meteorology has announced that rain or thunderstorms will occur at 2 pm in the Western and Sabaragamuwa Provinces and the districts of Galle, Matara and Kandy at 2 pm.. (A)
-
-◼️
-
-[Data](articles/5c4eb458.json)
-
-[Extended Data](ext_articles/5c4eb458.ext.json)
-
----
-
-### ICC lifts ban imposed on Sri Lanka Cricket
-
-*2024-01-29 07:37:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/icc-lifts-ban-imposed-on-sri-lanka-cricket/) · `en`
-
-COLOMBO (News 1st); The International Cricket Council (ICC) Board has lifted the suspension of Sri Lanka Cricket (SLC) with immediate effect.
-
-Issuing a statement the ICC said SLC was suspended in November for being in serious breach of its obligations as an ICC Member, in particular, the requirement to manage its affairs autonomously and ensure that there is no government interference in the governance, regulation and / or administration of cricket in Sri Lanka.
-
-The ICC statement added that the Board have been monitoring the situation since the suspension and are now satisfied that SLC are no longer in breach of membership obligations.
-
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
-
-◼️
-
-[Data](articles/16d2d7b3.json)
-
-[Extended Data](ext_articles/16d2d7b3.ext.json)
-
----
-
-### 6 university students arrested
-
-*2024-01-29 07:33:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பல்கலைக்கழக-மாணவர்கள்-6-பேர்-கைது/175-332253) · `ta`
-
-Six students from Sabaragamuwa University have been arrested for allegedly sharing a student, police media unit said.
-
-According to the complaint received by the Samanalawewa police on the 14th, the students were arrested yesterday.
-
-The fourth -year students of the Faculty of Social Science and Linguistics of the University have been arrested.. (A)
-
-◼️
-
-[Data](articles/5ca200ca.json)
-
-[Extended Data](ext_articles/5ca200ca.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 01:02:20**
+As of **2024-01-30 01:17:16**
 
 ## Newspaper Stats
 
-*Scraped **3,378** Articles*
+*Scraped **3,380** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,32 @@ adalk | 312
 adaderanasinhalalk | 360
 virakesarilk | 368
 tamilmirrorlk | 424
-adaderanalk | 433
+adaderanalk | 435
 dailymirrorlk | 459
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,377 (100.0%) of 3,378 articles have been extended.
+3,378 (99.9%) of 3,380 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### Police fire tear gas at protest near Kelaniya University
+
+*2024-01-29 23:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/96836/police-fire-tear-gas-at-protest-near-kelaniya-university) · `en`
+
+Police have fired tear gas and water cannons in an attempt to disperse a group of protesting students near the Kelaniya University.
+
+Earlier, police reported that all traffic plying towards Kandy along the Colombo – Kandy main road was blocked due to a protest staged by students of the Kelaniya University.
+
+◼️
+
+[Data](articles/5afe0852.json)
+
+---
 
 ### Police protest in Kelaniya water and tear gas
 
@@ -48,17 +62,33 @@ Due to this protest, the lane towards Kandy was completely blocked in front of t
 
 ---
 
-### மாணவர்களின் திடீர் ஆர்ப்பாட்டத்தால் போக்குவரத்து பாதிப்பு
+### Traffic impacts by students' sudden demonstration
 
 *2024-01-29 22:53:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களின்-திடீர்-ஆர்ப்பாட்டத்தால்-போக்குவரத்து-பாதிப்பு/175-332309) · `ta`
 
-களனி பல்கலைக்கழக மாணவர்கள் குழுவொன்றின் ஆர்ப்பாட்டம் காரணமாக களனி பல்கலைக்கழகத்திற்கு முன்பாக கண்டி வீதி தடைப்பட்டுள்ளது.
+The Kandy Street has been banned in front of the University of Kelaniya due to a group of students of the University of Kelaniya.
 
-இதன் காரணமாக கொழும்பு - கண்டி பிரதான வீதியின்  களனி பல்கலைக்கழகத்திற்கு முன்பாக கண்டி நோக்கிய  வீதி முற்றாக தடைப்பட்டுள்ளது. R
+Due to this, the Kandy road has been completely blocked in front of Kelaniya University of Colombo -Kandy main road.. Remble
 
 ◼️
 
 [Data](articles/3bc01f83.json)
+
+[Extended Data](ext_articles/3bc01f83.ext.json)
+
+---
+
+### Traffic blocked on Colombo–Kandy road due to student protest
+
+*2024-01-29 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96835/traffic-blocked-on-colombokandy-road-due-to-student-protest-) · `en`
+
+Traffic has been blocked along the Colombo – Kandy road, due to a protest staged by a group of students of the Kelaniya University.
+
+According to police, all traffic plying towards Kandy from Colombo has been blocked near the Kelaniya University due to the protest.
+
+◼️
+
+[Data](articles/5d7a0c52.json)
 
 ---
 
@@ -2023,47 +2053,5 @@ Answerattota Police are conducting further investigations on the instructions of
 [Data](articles/09036dff.json)
 
 [Extended Data](ext_articles/09036dff.ext.json)
-
----
-
-### Two arrested for stealing German citizen's handbag
-
-*2024-01-29 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175061) · `ta`
-
-Two people have been arrested on charges of stealing a handbag from a woman who arrived in Jaffna from Germany.
-
-The 28 -year -old woman and 21 -year -old male brothers from Jaffna were arrested.
-
-The main documents, including a foreign woman's passport, who had come to buy goods in the Tirunelveli market, had been abused by a woman who had a handgun with a baby girl.
-
-A complaint was lodged by a foreigner at the Kopay police station regarding the theft.
-
-Investigations were arrested by the Jaffna District Regional Senior Superintendent of Investigation, according to information received by the police with the help of the surveillance camera.
-
-◼️
-
-[Data](articles/3602955d.json)
-
-[Extended Data](ext_articles/3602955d.ext.json)
-
----
-
-### Two killed in accident at Sella Kataragama
-
-*2024-01-29 13:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-killed-in-accident-at-Sella-Kataragama/108-275913) · `en`
-
-Kataragama, Jan 29 (Daily Mirror) - Two young men died and four others were seriously injured in an accident at Passarayaya in Sella Kataragama when the van they were travelling in ran out of control due to excessive speed and collided againt two motorcycles and a lorry parked by the roadside and subsequently crashed on to a tree.
-
-The deceased were identified as Dishan Kavinda Ranasinghe (26)  and Chanaka Lakshan (26) of Kataragama New Town.
-
-Two critically injured were admitted to the Hambantota General Hospital.
-
-Kataragama police are conducting further investigations on the instructions of SSP Tangalla K.B. Kirthiratne.
-
-◼️
-
-[Data](articles/4eadfc02.json)
-
-[Extended Data](ext_articles/4eadfc02.ext.json)
 
 ---

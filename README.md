@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 16:02:33**
+As of **2024-01-29 16:17:24**
 
 ## Newspaper Stats
 
-*Scraped **3,291** Articles*
+*Scraped **3,296** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ economynextcom | 177
 islandlk | 185
 newsfirstlk | 198
 dailyftlk | 223
-adalk | 301
-adaderanasinhalalk | 348
-virakesarilk | 357
+adalk | 302
+adaderanasinhalalk | 350
+virakesarilk | 359
 tamilmirrorlk | 410
 adaderanalk | 425
 dailymirrorlk | 444
@@ -26,87 +26,63 @@ dailymirrorlk | 444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,286 (99.8%) of 3,291 articles have been extended.
+3,291 (99.8%) of 3,296 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### எவர் கட்டுப்பாடு விதித்தாலும் நாளைவீதியில் இறங்குவோம் - ஐக்கிய மக்கள் சக்தி
+### කොළඹට එන සියලුදෙනාට දැනුම්දීමක්
 
-*2024-01-29 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175073) · `ta`
+*2024-01-29 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192704) · `si`
 
-அனைத்துகட்டுப்பாடுகளையும் மீறி  நாளை வீதியில் இறங்குவோம் என ஐக்கிய மக்கள் சக்தி தெரிவித்துள்ளது.
+76 වන ජාතික නිදහස් දින උත්සවය හා එහි පෙරහුරු පැවැත්වෙන දිනයන්හිදී කොළඹ නගරය ආශ්‍රිතව විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක වන බව පොලීසිය පවසයි.
 
-நாளை வீதியில் இறங்கி தற்போதைய அரசாங்கத்தை அகற்றுவதற்கான ஆரம்ப நடவடிக்கைகளில் ஈடுபடுவோம் என ஐக்கிய மக்கள் சக்தியின் பொதுசெயலாளர் ரஞ்சித்மத்துமபண்டார தெரிவித்துள்ளார்.
-
-பொலிஸ்மா அதிபரும் வேறு எவரும் கட்டுப்பாடுகளை விதிக்கலாம் ஆனால் அனைத்து சட்டங்களையும் மீறி நாளை கொழும்பிற்கு 50,000 பேரைகொண்டுவருவோம் என அவர் தெரிவித்துள்ளார்.
-
-2022 ம் ஆண்டு நாங்களே மக்களின் எழுச்சியை ஆரம்பித்துவைத்தோம் இம்முறையும் அதனை செய்ய எண்ணியுள்ளோம் எனவும் அவர் தெரிவித்துள்ளார்.
-
-எங்கிருந்து பேரணியாக செல்வோம் என்பதை தற்போதைக்கு நாங்கள் அறிவிக்கமாட்டோம் நாளையே அறிவிப்போம் என ரஞ்சித்மத்துமபண்டார தெரிவித்துள்ளார்.
+ඒ අනුව පෙරහුරු පැවැත්වෙන දිනවල පෙරවරු 6 සිට දහවල් 12 දක්වා සහ නිදහස් සැමරුම වෙනුවෙන් 03 වනදා පස්වරු 2 සිට 04 වනදා නිදහස් සැමරුම අවසන් වනතුරු ක්‍රියාත්මක වන රථවාහන සැලැස්ම පහතින්.
 
 ◼️
 
-[Data](articles/ee88be49.json)
+[Data](articles/2f122253.json)
 
 ---
 
-### Sri Lanka’s total exports reach USD 14.49 bn in 2023
+### ஸ்ரீ சண்முகா இந்து மகளிர் கல்லூரியின் காணிப்பிரச்சினைக்குத் தீர்வை பெற்றுக்கொடுத்த கிழக்கு ஆளுநர் செந்தில் தொண்டமான்!
 
-*2024-01-29 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/96825/sri-lankas-total-exports-reach-usd-1449-bn-in-2023-) · `en`
+*2024-01-29 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175071) · `ta`
 
-Sri Lanka’s total exports for the year 2023 reached USD 14.49 billion, the Export Development Bank (ED) reported, adding that it is only a minor decline of 0.39% compared to 2022.
+திருகோணமலை ஸ்ரீ சண்முகா இந்து மகளிர் கல்லூரி 100 வருட வரலாறு கொண்டது. அக்கல்லூரியில் நீண்டகாலமாக நிலவிவந்த காணி பிரச்சினைக்கு கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் தீர்வை பெற்றுக்கொடுத்துள்ளார்.
 
-In a report issued in this regard, the EDB revealed that Sri Lanka had recorded a total of USD 14.99 billion in exports for the year 2022, USD 3.08 billion higher than that earned last year.
+ஸ்ரீ சண்முகா இந்து மகளிர் கல்லூரியில் கடந்த பத்து வருடங்களாக காணிப் பிரச்சினை நிலவி வருகிறது. இதுதொடர்பில் கடந்தகாலங்களில் பாடசாலை நிர்வாகம் பல தரப்பினரிடம் தீர்வை பெற்றுக்கொள்ள முற்பட்டுள்ள போதிலும் அது சாத்தியப்படவில்லை.
 
-As per the report, the estimated value of services exports for the period of January to December 2023 was USD 3,080.9 million, increasing 63.1 % over the corresponding period in 2022, while cumulative merchandise exports during the period of January to December 2023 decreased by 9.54 % to USD 11,856.3 million compared to the corresponding period in 2022.
+இந்நிலையில், கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானின் கவனத்துக்கு இந்த விடயம் கொண்டுவரப்பட்டதை தொடர்ந்து இதற்கு 30 வருட குத்தகைக்கு புதிய காணியை பெற்றுக்கொடுத்துள்ளதுடன், 30 வருடத்துக்கான குத்தகை தொகையையும்  வழங்க ஏற்பாடு  செய்துள்ளார்.
 
-◼️
-
-[Data](articles/6dcc9d66.json)
-
----
-
-### பருத்தித்துறை கடலில் கைது செய்யப்பட்ட 10 இந்திய மீனவர்களும் நிபந்தனைகளுடன் விடுதலை!
-
-*2024-01-29 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175072) · `ta`
-
-யாழ்ப்பாணம் - பருத்தித்துறை கடற்பரப்பில் கைது செய்யப்பட்ட 10 இந்திய மீனவர்கள் இன்று திங்கட்கிழமை (29)  விடுதலை செய்யப்பட்டனர். பருத்தித்துறை நீதிவான் நீதிமன்றத்தில் இன்றையதினம் வழக்கு விசாரணைக்கு எடுத்துக்கொள்ளப்பட்டபோதே அவர்கள் விடுதலை செய்யப்பட்டனர்.
-
-10 வருடங்களுக்கு ஒத்திவைக்கப்பட்ட 9 மாதங்கள் சிறை தண்டனை என்ற அடிப்படையில் அவர்கள் இவ்வாறு விடுதலை செய்யப்பட்டனர். மீனவர்களிடம் கைப்பற்றப்பட்ட படகினை அரச உடமையாக்குமாறு நீதிவான் உத்தரவிட்டார்.
-
-மீனவர்களிடையே கைப்பற்றப்பட்ட கைத்தொலைபேசி உள்ளிட்ட வேறு உடமைகளை மீள வழங்குமாறு நீதிவான் பொன்னுத்துரை கிருசாந்தன் உத்தரவிட்டார்.
-
-விடுதலை செய்யப்பட்ட 10 மீனவர்களையும் மிரிஹான முகாமிற்கு அனுப்பி, இந்தியாவிற்கு அனுப்பி வைக்க நடவடிக்கை எடுக்குமாறு நீதிவான் இன்று உத்தரவிட்டார்.
+கிழக்கு ஆளுநரின் இந்த செயல்பாட்டை வரவேற்றுள்ள பாடசாலை நிர்வாகம், பழைய மாணவர்கள் மற்றும் பெற்றோர்கள், அவருக்கு வாழ்த்துகளையும் பாராட்டுகளையும் தெரிவித்துள்ளனர்.
 
 ...
 
-[Data](articles/a8a8c0ca.json)
+[Data](articles/314b0cda.json)
 
 ---
 
-### Two persons arrested with drugs at children's sports event
+### தாய்லாந்து பிரதமர் இலங்கைக்கு விஜயம்
 
-*2024-01-29 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175069) · `ta`
+*2024-01-29 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175064) · `ta`
 
-Two youths have been arrested at the Manipay Sellamuthu Playground in Jaffna, with drugs for a children's sports event (Carnivel).
+ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அழைப்பின் பேரில் தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் இரண்டு நாள் உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு எதிர்வரும் பெப்ரவரி மாதம் 03 ஆம் திகதி  நாட்டிற்கு வருகை தரவுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
 
-Police searched two youths who were suspicious at the stadium.
+இலங்கையின் 76வது சுதந்திர தினத்தை முன்னிட்டு நடைபெறும் விழாவில் அதிதியாக தாய்லாந்து பிரதமர் பங்கேற்கவுள்ளார்.
 
-During that time, they have recovered a sum of cannabis from their possession. They were subsequently arrested and detained at the Manipay police station.
+இந்த விஜயத்தின் போது, தாய்லாந்து பிரதமர், ஜனாதிபதி விக்கிரமசிங்கவுடன் உத்தியோகபூர்வ கலந்துரையாடல்களை மேற்கொள்வதுடன், வரலாற்று சிறப்புமிக்க இலங்கை - தாய்லாந்து சுதந்திர வர்த்தக உடன்படிக்கையில் (SLTFTA) கைச்சாத்திடவுள்ளதாக வெளிவிவகார அமைச்சு மேலும் தெரிவித்துள்ளது.
 
 ◼️
 
-[Data](articles/07863765.json)
-
-[Extended Data](ext_articles/07863765.ext.json)
+[Data](articles/8239b882.json)
 
 ---
 
 ### Jobit's weakness is ineffective - Trump in campaigns
 
-*2024-01-29 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175068) · `ta`
+*2024-01-29 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/175068) · `ta`
 
 Former President Donald Trump, who plays the argument that US President Joe Biden is weak and ineffective, has said that the situation is overblott abroad and at home.
 
@@ -125,6 +101,100 @@ He said that if I was in the White House, the current wars would have never been
 [Data](articles/072e9406.json)
 
 [Extended Data](ext_articles/072e9406.ext.json)
+
+---
+
+### 2023 අපනයන ආදායම ඩොලර් බි 14.94යි
+
+*2024-01-29 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192703) · `si`
+
+පසුගිය වසරේ මෙරට සමස්ත අපනයන ආදායම අමෙරිකානු ඩොලර් බිලියන 14.94ක් බව අපනයන සංවර්ධන මණ්ඩලය පවසයි.
+
+2023 වසරේ දෙසැම්බර් මාසයේදී ශ්‍රී ලංකාවේ භාණ්ඩ අපනයනය අමෙරිකානු ඩොලර් මිලියන 947.5 ක් බවද එහි සඳහන්.
+
+◼️
+
+[Data](articles/33ab690d.json)
+
+---
+
+### Whoever imposes control we will get down tomorrow - United People's Power
+
+*2024-01-29 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175073) · `ta`
+
+The United People's Power has said that we will go down the streets tomorrow despite all the control.
+
+United People's Power General Secretary Ranjithmathumapandara said that we will take the preliminary steps to get down the road tomorrow and remove the current government.
+
+The Inspector General of Police may also impose restrictions but will take 50,000 people to Colombo tomorrow despite all laws.
+
+"We started the uprising of the people in 2022," he said.
+
+Ranjithmathumapandara said that we will not announce where we will go from now on.
+
+◼️
+
+[Data](articles/ee88be49.json)
+
+[Extended Data](ext_articles/ee88be49.ext.json)
+
+---
+
+### Sri Lanka’s total exports reach USD 14.49 bn in 2023
+
+*2024-01-29 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/96825/sri-lankas-total-exports-reach-usd-1449-bn-in-2023-) · `en`
+
+Sri Lanka’s total exports for the year 2023 reached USD 14.49 billion, the Export Development Bank (ED) reported, adding that it is only a minor decline of 0.39% compared to 2022.
+
+In a report issued in this regard, the EDB revealed that Sri Lanka had recorded a total of USD 14.99 billion in exports for the year 2022, USD 3.08 billion higher than that earned last year.
+
+As per the report, the estimated value of services exports for the period of January to December 2023 was USD 3,080.9 million, increasing 63.1 % over the corresponding period in 2022, while cumulative merchandise exports during the period of January to December 2023 decreased by 9.54 % to USD 11,856.3 million compared to the corresponding period in 2022.
+
+◼️
+
+[Data](articles/6dcc9d66.json)
+
+[Extended Data](ext_articles/6dcc9d66.ext.json)
+
+---
+
+### 10 Indian fishermen arrested in Point Pedro Sea
+
+*2024-01-29 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175072) · `ta`
+
+10 Indian fishermen arrested in Jaffna -Point Pedro Sea. They were acquitted when the case was taken up for hearing at the Point Pedro Magistrate's Court today.
+
+They were released on the basis of a 9 -month prison sentence for 10 years. The magistrate ordered the fishermen to be seized by the fishermen.
+
+Krisanthan has ordered Justice Ponnuthurai to restore other belongings, including a mobile phone seized among fishermen.
+
+The magistrate today ordered that the 10 fishermen who were released to the Mirihana camp and sent it to India.
+
+They were arrested on January 14 on charges of fishing in the Sri Lankan waters.. Meanwhile, the first suspect, the owner of the boat, was ordered to send an invitation through the Justice Department. The case for the boat owner is set to be installed on October 24.
+
+◼️
+
+[Data](articles/a8a8c0ca.json)
+
+[Extended Data](ext_articles/a8a8c0ca.ext.json)
+
+---
+
+### Two persons arrested with drugs at children's sports event
+
+*2024-01-29 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175069) · `ta`
+
+Two youths have been arrested at the Manipay Sellamuthu Playground in Jaffna, with drugs for a children's sports event (Carnivel).
+
+Police searched two youths who were suspicious at the stadium.
+
+During that time, they have recovered a sum of cannabis from their possession. They were subsequently arrested and detained at the Manipay police station.
+
+◼️
+
+[Data](articles/07863765.json)
+
+[Extended Data](ext_articles/07863765.ext.json)
 
 ---
 
@@ -619,6 +689,22 @@ He will also participate in a official discussion with President Ranil Wickremes
 [Data](articles/f84776ce.json)
 
 [Extended Data](ext_articles/f84776ce.ext.json)
+
+---
+
+### ඖෂධ වංචාව සම්බන්ධයෙන් කෙහෙළියගේ කැබිනට් පත්‍රිකා ගැන විර්ශන අරඹයි
+
+*2024-01-29 12:28:01* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-වංචාව-සම්බන්ධයෙන්-කෙහෙළියගේ-කැබිනට්-පත්‍රිකා-ගැන-විර්ශන-අරඹයි/11-407773) · `si`
+
+ඉතාම හදිසි කටයුත්තක් වශයෙන් ඉන්දියාණු ණය යෝජනා ක්‍රමය යටතේ මෙරටට ඖෂධ ගෙන්වීමේ සිද්ධියට අදාළව විමර්ශන පවත්වන රහස් පොලිස් නිලධාරීන් විසින් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ අමාත්‍ය කාර්යාලයේ තිබී බාරයට ගත් කැබිනට් සංදේශවල කිසිඳු කාර්්‍ය සටහනක් ඇතුලත් නොවීම සම්බන්ධයෙන් විමර්ශන ආරම්භ කර ඇත.
+
+කෙහෙළිය රඹුක්වැල්ල මහතාගේ කාර්යාලයේ තිබී රහස් පොලිස් බාරයට ගත් අනෙකුත් කැබිනට් සංදේශ අඩංගු ලිපි ගොනුවල සාමාන්‍ය අන්දමට කාර්්‍ය සටහන් යොදා ඇතත් බාල බෙහෙත් ගණුදෙණුවට අදාළ කැබිනට් සංදේශ අඩංගු ලිපි ගොනුවල කිසිඳු කාර්්‍ය සටහනක් නොමැති වීම සම්බන්ධයෙන් විමතියට පත් රහස් පොලිස් නිලධාරීහු මෙම් සම්බන්ධයෙන් විමර්ශන ආරම්භ කර ඇත.
+
+හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ අමාත්‍ය කාර්යාලයේ තිබී රහස් පොලිස් බාරයට ගත් 2022 මැයි 30” 2022 සැප්තැම්බර් 27” 2022 ඔක්තෝම්බර් 25 සහ 2022 දෙසැම්බර් 05 වැනිදාතමින් යුත් කැබිනට් සංදේශ අඩංගු ලිපි ගොනුවල කිසිඳු කාර්්‍ය සටහනක් නොමැති බවද රහස් පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+
+...
+
+[Data](articles/694f0192.json)
 
 ---
 
@@ -1260,19 +1346,21 @@ With an increasing risk of military escalation in the region, U.S. officials wer
 
 ---
 
-### මාවුස්සාකැලේ හා කාස්ල්රී  ජල මට්ටම සීඝ්‍රයෙන් පහතට
+### Mawussakele and Caselry water level dropped rapidly
 
 *2024-01-29 10:15:32* · [`adalk`](https://www.ada.lk/breaking_news/මාවුස්සාකැලේ-හා-කාස්ල්රී--ජල-මට්ටම-සීඝ්‍රයෙන්-පහතට/11-407771) · `si`
 
-මධ්‍යම කඳුකරයේ ජල පෝෂක ප්‍රදේශවලට දින 10 ක පමණ කාලයක් තිස්සේ පවතින දැඩි වියලි කාලගුණයත් සමග මාවුස්සාකැලේ හා කාසල්රී යන ජලාශවල ජල මට්ටම පිටාර මට්ටමේ සිට සීඝ්‍රයෙන් පහත බැස ඇත.
+The water level of Mawaskele and Castlere reservoirs have dropped to 10 days with severe dry areas in the central hills.
 
-මාවුස්සාකැලේ හා කාලස්රී යන ජලාශ වල ජල මට්ටම  අද (29) පෙරවරු 08.00  වන විට පිටාර මට්මේ සිට පිළිවෙලින් අඩි 11 ක් හා අඩි 05 ක් වශයෙන් පහත බැස ඇති බව එම ජලාශ භාර ඉංජිනේරුවෝ පැවසූහ.
+The water level in Mawasakale and Carsuri reservoirs, the engineers in charge of the reservoirs were 11.00 am and 5 feet of 5 feet respectively.
 
-ජාතික ජලවිදුලිබල පද්ධතියට අයත්  ලක්ෂපාන ජලවිදුලිබලාගාර සංකීර්ණය යටතේ ඇති කැනියොන්, ලක්ෂපාන, නව ලක්ෂපාන, විමලසුරේන්ද්‍ර, පොල්පිටිය හා බ්‍රෝඩ්ලණ්ඩ් යන විදුලිබලාගාර සඳහා ප්‍රධාන වශයෙන් ජලය සැපයෙන්නේ මාවුස්සාකැලේ හා කාසල්රී යන ජලාශ දෙකෙනි.
+The main water supply for Canon, Laxapana, New Laxapana, New Laxapana, Wimalasupana, Poland and Baselland, is mainly supplied mainly for the National Hydro-Paladeshiya System complex.
 
 ◼️
 
 [Data](articles/d2e6f8df.json)
+
+[Extended Data](ext_articles/d2e6f8df.ext.json)
 
 ---
 
@@ -1596,25 +1684,31 @@ The suspects are between 23-25 years old, aged 23-25 years old.
 
 ---
 
-### ග්‍රෙනේඩ් ප්‍රහාර, මිරිස්කුඩු ප්‍රහාර මැද වසර 42ක අත්දැකීම් ගැන වේත්‍රධාරී BBCයට කියයි
+### The Serjeant-at-42 years of experience in the middle of the grenade attacks, mirystal attacks
 
 *2024-01-29 09:37:48* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxrky1z1p42o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "ග්‍රෙනේඩ් ප්‍රහාර, මිරිස්කුඩු ප්‍රහාර මැද වසර 42ක අත්දැකීම් ගැන වෙත්‍රධාරි BBCයට කියයි", ධාවන කාලය 35,5935:59වීඩියෝ ශීර්ෂ වැකිය, ඔහු වේත්‍රධාරී තනතුරට පත් වූ පසු මන්ත්‍රීවරු වැඩිම අවස්ථා ගණනක දී සෙංකෝලය පැහැර ගැනීමට ගත් උත්සාහයන් ව්‍යර්ථ කිරීමට මුහුණ දුන්නේය.
+There is no containing anything. Play Video, "Gregard Attacks," Difficulty in the Middle Year 35 years of Running Time, 42 Video Head, Once MPs, he took away the maceFailed to bear.
 
-ග්‍රෙනේඩ් ප්‍රහාර, මිරිස්කුඩු ප්‍රහාර මැද වසර 42ක අත්දැකීම් ගැන වේත්‍රධාරී BBCයට කියයි
+The Serjeant-at-42 years of experience in the middle of the grenade attacks, mirystal attacks
 
-ලුතිනන් ජෙනරල්වරයෙකුගේ නිලයට සමාන නිලයක් දරණ, පාර්ලිමේන්තුවේ සභා ගර්භයට ආයුධයක් රැගෙන යෑමේ නිල අවසරය හිමි එකම නිලධාරියා වන වේත්‍රධාරී නරේන්ද්‍ර ප්‍රනාන්දු වසර 42ක සේවා කාලයක් ඇති පාර්ලිමේන්තුවේ ජ්‍යේෂ්ඨතම නිලධාරියා වේ.
+The uniformed officer of the official permission of the parliament is a weapon of a Lieutenant General's rank, the Senarandra Fernando is the Senarandi Narendra Fernando of 42 years of service.
 
-ඔහු වේත්‍රධාරී තනතුරට පත් වූ පසු මන්ත්‍රීවරු වැඩිම අවස්ථා ගණනක දී සෙංකෝලය පැහැර ගැනීමට ගත් උත්සාහයන් ව්‍යර්ථ කිරීමට මුහුණ දුන්නේය.
+Once he was appointed as the Serjeant-at-Arms, MPs failed to bear their attempts to abduct the Mace at the highest number of times.
 
-මිරිස්කුඩු ප්‍රහාරය සහ ග්‍රෙනේඩ් ප්‍රහාරය සිදු වූ සමයේ පාර්ලිමේන්තුවේ ආරක්ෂාව සම්බන්ධයෙන් ඔහු විශේෂ කාර්යයක් ඉටු කළේය.
+He served a special role in the security of the Parliament during the miriskadu attack and the grenade attack.
 
-අරගලය පැවතී අවස්ථාවේ පාර්ලිමේන්තුව ආරක්ෂා කර ගැනීමට සහ පාස්කු ප්‍රහාරය සිදු වූ අවස්ථාවේ බොහෝ අභියෝගයන්ට මුහුණ දීමට ඔහුට සිදු විය.
+At the time of the struggle, he had to face many challenges when the Passover attack took place.
 
-...
+The Indone Narendra Fernando in a discussion with BBC Sinhala service.
+
+He noted that this is the first time some facts proclaiming the media.
+
+◼️
 
 [Data](articles/6323c937.json)
+
+[Extended Data](ext_articles/6323c937.ext.json)
 
 ---
 
@@ -1949,117 +2043,5 @@ Accordingly, 17 trade unions, including the State Engineers Association, Ayurved
 [Data](articles/ae27ac1c.json)
 
 [Extended Data](ext_articles/ae27ac1c.ext.json)
-
----
-
-### All executives of the public sector get sick today
-
-*2024-01-29 08:10:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192684) · `si`
-
-All Executive Officers of the Public Sector (CSE) has reportedly reported a trade union action today (29), according to the integrated committee of government executives.
-
-The Professional Advisor has been established based on several demands and has held a convention with the participation of all Executors today.
-
-"The government executive officers representing the Joint Committee of the Joint Committee on the Joint Committee and decided to enter the trade union measures representing the other island, departmental services and executives of the country.. Executives meet in Colombo and representing the scientific medical services, including the educational Administrative Service, including otherwide service in this country today.
-
-The Joint Committee of Government Executive Officers should be resolved expeditiously solutions to the unseisen vocational issues of the Executive Service.
-
-◼️
-
-[Data](articles/624530d2.json)
-
-[Extended Data](ext_articles/624530d2.ext.json)
-
----
-
-### One dead, five injured in an accident in Sella Kataragama
-
-*2024-01-29 08:09:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/one-dead-five-injured-in-an-accident-in-sella-kataragama/) · `en`
-
-COLOMBO (News 1st); One person has died and five others have sustained injuries when a van met with an accident in Sella Kataragama.
-
-Police said the van driving towards Kataragama from Sella Kataragama collided with a motorcycle parked near the road, two trees and a truck.
-
-Police said six people, including the driver of the van, were admitted to hospital, and one of them succumbed to injuries.
-
-Police added that the others were transferred to the Hambantota Hospital for further treatment.
-
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
-
-◼️
-
-[Data](articles/98fcde41.json)
-
-[Extended Data](ext_articles/98fcde41.ext.json)
-
----
-
-### Measures being taken to address issues related to tax registration
-
-*2024-01-29 08:06:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/measures-being-taken-to-address-issues-related-to-tax-registration/) · `en`
-
-COLOMBO (News 1st); State Minister of Finance Ranjith Siyambalapitiya said although measures have been taken to provide a Taxpayer Identification Number (TIN) for all citizens above 18 years of age, several issues have been identified in this regard.
-
-The State Minister said the lack of equipment and human resources at the Inland Revenue Department are among the identified issues.
-
-During a review meeting held at the President's Office last week, permission was granted to hire personnel for the Inland Revenue Department and to hire university graduates as trainees with a fair payment, as a solution to these issues.
-
-State Minister Siyambalapitiya said measures were taken to ensure the tax registration and related work will not be disrupted.
-
-He added that measures will be taken to issue the Taxpayer Identification Number using data collected by the Department for Registration of Persons and the Department of Motor Traffic.
-
-...
-
-[Data](articles/ebac600b.json)
-
-[Extended Data](ext_articles/ebac600b.ext.json)
-
----
-
-### Dollar of dollar causes of upcountry
-
-*2024-01-29 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192683) · `si`
-
-It is reported that the train services to continue to take place in the Kandyan road have been reduced to the rice of the train decomposition and silbinda.
-
-The train derailment from Hatton to Badulla was very common and a train was derailed in the Hatton Siggimala Pyali.
-
-It is reported that the tracks and silpies used for this section have not been repaired in a long time.
-
-The train dealers and trains used in the installation of their nails and tracks should be imported from countries in the European region.
-
-It is said that credit letters have been opened to import these several years ago.
-
-However, the importations have delayed due to the coronary epidemic and the economic crisis and the economic crisis and the dollar reserves.
-
-The delay has been time to date, but no longer can bring the rails and the equipment due to the shortage of dollar reserves.
-
-Meanwhile, passengers have been transported by buses belonging to the Sri Lanka Transport Board at the time of their delegation.
-
-◼️
-
-[Data](articles/67c15abe.json)
-
-[Extended Data](ext_articles/67c15abe.ext.json)
-
----
-
-### Fire destroys around 30 shops in Mawanella town
-
-*2024-01-29 08:03:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/fire-destroys-around-30-shops-in-mawanella-town/) · `en`
-
-COLOMBO (News 1st); A fire broke out in a row of shops in Mawanella town on Sunday (28) night.
-
-The fire broke out in a row of clothes, plastic and fruit shops behind the bus stand in Mawanella town.
-
-The fire was extinguished using fire engines belonging to the Mawanella Pradeshiya Sabha.
-
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
-
-◼️
-
-[Data](articles/ce844753.json)
-
-[Extended Data](ext_articles/ce844753.ext.json)
 
 ---

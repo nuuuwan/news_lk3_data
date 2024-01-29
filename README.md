@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 10:50:32**
+As of **2024-01-29 11:02:14**
 
 ## Newspaper Stats
 
-*Scraped **3,208** Articles*
+*Scraped **3,211** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 291
 adaderanasinhalalk | 337
 virakesarilk | 338
 tamilmirrorlk | 403
-adaderanalk | 413
+adaderanalk | 416
 dailymirrorlk | 433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,208 (100.0%) of 3,208 articles have been extended.
+3,211 (100.0%) of 3,211 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### Biden says US ‘shall respond’ after drone strike by Iran-backed group kills 3 US troops in Jordan
+
+*2024-01-29 10:25:00* · [`adaderanalk`](https://www.adaderana.lk/news/96816/biden-says-us-shall-respond-after-drone-strike-by-iran-backed-group-kills-3-us-troops-in-jordan) · `en`
+
+President Joe Biden said Sunday that the U.S. “shall respond” after three American troops were killed and dozens more were injured in an overnight drone strike in northeast Jordan near the Syrian border. Biden blamed Iran-backed militias for the first U.S. fatalities after months of strikes by such groups against American forces across the Middle East since the start of the Israel-Hamas war.
+
+Biden, who was traveling in South Carolina, asked for a moment of silence during an appearance at a Baptist church’s banquet hall.
+
+“We had a tough day last night in the Middle East. We lost three brave souls in an attack on one of our bases,” he said. After the moment of silence, Biden added, “and we shall respond.”
+
+With an increasing risk of military escalation in the region, U.S. officials were working to conclusively identify the precise group responsible for the attack, but they have assessed that one of several Iranian-backed groups was behind it.
+
+...
+
+[Data](articles/1a192705.json)
+
+[Extended Data](ext_articles/1a192705.ext.json)
+
+---
 
 ### Death sentence for her husband who killed his wife 14 years later
 
@@ -57,6 +77,26 @@ The indictment was filed to the Anuradhapura High Court for further hearing.
 [Data](articles/a4236961.json)
 
 [Extended Data](ext_articles/a4236961.ext.json)
+
+---
+
+### Nearly 30 shops gutted in massive fire at Mawanella
+
+*2024-01-29 10:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96815/nearly-30-shops-gutted-in-massive-fire-at-mawanella) · `en`
+
+At least 30 shops in the Mawanella town have been completely destroyed in a fire that broke out last night (28) in front of the main bus stand in Mawanella.
+
+The police together with firefighters from the fire brigade of the Mawanella Pradehsiya Sabha and local residents had managed to extinguish the flames.
+
+However, several shops selling fruits, textiles and plastic goods have reportedly been destroyed in the fire.
+
+The cause of the fire has not been uncovered yet and the Mawanella Police are conducting further investigations regarding the incident.
+
+◼️
+
+[Data](articles/2e30cd85.json)
+
+[Extended Data](ext_articles/2e30cd85.ext.json)
 
 ---
 
@@ -149,6 +189,24 @@ The Deputy Commissioner, who has expressed his displeasure with the police, has 
 [Data](articles/f89a1212.json)
 
 [Extended Data](ext_articles/f89a1212.ext.json)
+
+---
+
+### Govt. executive officers launch ‘sick leave’ trade union action
+
+*2024-01-29 09:37:00* · [`adaderanalk`](https://www.adaderana.lk/news/96814/govt-executive-officers-launch-sick-leave-trade-union-action-) · `en`
+
+All executive-grade government officers have launched a trade union action by reporting sick today (29), the Joint Committee of All-Island Executive Officers said.
+
+The Chairman of the joint committee H.L.A. Udayasiri stated that the relevant trade union action was launched based on several demands, and that a conference will be held with the participation of all executive-grade officers of the government sector today.
+
+“Today, the executive officers of the government, representing the joint committee, decided to enter into a trade union action, representing the island-wide and parallel services and departmental services. The executive officers representing the departmental services such as the Proprietorship Service, Education Administration Service, Ayurvedic Medical Service, and Surveying of the country, which are considered as the country-wide services, will meet in Colombo and hold a conference...”, he said.
+
+...
+
+[Data](articles/241b05e7.json)
+
+[Extended Data](ext_articles/241b05e7.ext.json)
 
 ---
 
@@ -1933,59 +1991,5 @@ Following a meeting of the ICC Board on 21 November, it was decided that Sri Lan
 [Data](articles/fc9c2b1f.json)
 
 [Extended Data](ext_articles/fc9c2b1f.ext.json)
-
----
-
-### Up-country services disrupted as train details
-
-*2024-01-28 18:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96801/up-country-services-disrupted-as-train-details) · `en`
-
-Railway operations along the up-country line have been disrupted after a special train derailed between the Kotagala and Hatton railway stations.
-
-According to the Sri Lanka Railways Department, the relevant train was one that had been provided for the production of an Indian film from 24 – 29 January.
-
-The train had reportedly been plying back towards Colombo after completing a part of the said production when the incident had occurred.
-
-◼️
-
-[Data](articles/aa657b65.json)
-
-[Extended Data](ext_articles/aa657b65.ext.json)
-
----
-
-### Train compartment hired for filming derails between Hatton and Kotagala
-
-*2024-01-28 18:39:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Train-compartment-hired-for-filming-derails-between-Hatton-and-Kotagala/108-275847) · `en`
-
-Kotagala, Jan 28 (Daily Mirror) - The observation compartment of the train hired for the filming of a foreign movie derailed between Hatton and Kotagala railway stations this evening, the Railways Department said.
-
-They said six compartments had been hired for filming purposes from January 24 to 29.
-
-The compartment derailed while on its way to Colombo after completing the filming of the train in parts, they said.
-
-Train services on the up-country line have been disrupted due to this derailment, the department said.
-
-◼️
-
-[Data](articles/b7dfe34d.json)
-
-[Extended Data](ext_articles/b7dfe34d.ext.json)
-
----
-
-### Opposition MPs who met the president and spoke secret
-
-*2024-01-28 18:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175010) · `ta`
-
-Only two groups express opposition against the source. Their first group is working in the media and using social websites. Opposition members of the other side. 'They know the fact that this law will protect the rights of women and children. But they are protesting for politics, ”Parliamentarian Vajira Abeywardena told the president.
-
-Responding to this, Parliamentarian Premnath C Tolwatta said, “More than 7 million boys and girls are sexually harassed by social media.. The purpose of this law is to stop this. But he does not understand why the opposition is opposed. "Opposition members who meet with the president are saying that despite the opposition outside," Minister Prasanna Ranatunga said.
-
-◼️
-
-[Data](articles/94cc2568.json)
-
-[Extended Data](ext_articles/94cc2568.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 00:47:12**
+As of **2024-01-30 01:02:20**
 
 ## Newspaper Stats
 
-*Scraped **3,377** Articles*
+*Scraped **3,378** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 223
 adalk | 312
 adaderanasinhalalk | 360
 virakesarilk | 368
-tamilmirrorlk | 423
+tamilmirrorlk | 424
 adaderanalk | 433
 dailymirrorlk | 459
 
@@ -26,7 +26,7 @@ dailymirrorlk | 459
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,377 (100.0%) of 3,377 articles have been extended.
+3,377 (100.0%) of 3,378 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,20 @@ Due to this protest, the lane towards Kandy was completely blocked in front of t
 [Data](articles/c3fdd011.json)
 
 [Extended Data](ext_articles/c3fdd011.ext.json)
+
+---
+
+### மாணவர்களின் திடீர் ஆர்ப்பாட்டத்தால் போக்குவரத்து பாதிப்பு
+
+*2024-01-29 22:53:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களின்-திடீர்-ஆர்ப்பாட்டத்தால்-போக்குவரத்து-பாதிப்பு/175-332309) · `ta`
+
+களனி பல்கலைக்கழக மாணவர்கள் குழுவொன்றின் ஆர்ப்பாட்டம் காரணமாக களனி பல்கலைக்கழகத்திற்கு முன்பாக கண்டி வீதி தடைப்பட்டுள்ளது.
+
+இதன் காரணமாக கொழும்பு - கண்டி பிரதான வீதியின்  களனி பல்கலைக்கழகத்திற்கு முன்பாக கண்டி நோக்கிய  வீதி முற்றாக தடைப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/3bc01f83.json)
 
 ---
 
@@ -2051,27 +2065,5 @@ Kataragama police are conducting further investigations on the instructions of S
 [Data](articles/4eadfc02.json)
 
 [Extended Data](ext_articles/4eadfc02.ext.json)
-
----
-
-### Colombo port will be filled
-
-*2024-01-29 13:19:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192700) · `si`
-
-The number of ships arriving at the Colombo Port has increased due to the crisis in the Red Sea.
-
-Harbor Naval and Civil Aviation Minister Nimal Siripala de Silva said that the fleet of shipping was up 35 percent in January.
-
-The port container operations have also increased by 72 percent, he said.
-
-Addressing a special inspection tour of the Jayaweera Terminal of the Sri Lanka Ports Authority, Minister Nimal Siripala de Silva said that.
-
-However, Minister of Foreign Affairs Tharaka Balasuriya said that the increase in the increase in the Colombo port is impossible due to the condolences.
-
-◼️
-
-[Data](articles/8f7e785b.json)
-
-[Extended Data](ext_articles/8f7e785b.ext.json)
 
 ---

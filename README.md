@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 15:32:48**
+As of **2024-01-29 15:50:57**
 
 ## Newspaper Stats
 
@@ -26,45 +26,51 @@ dailymirrorlk | 444
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,284 (99.9%) of 3,286 articles have been extended.
+3,286 (100.0%) of 3,286 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### சிறுவர்களின் விளையாட்டு நிகழ்வில் போதைப்பொருளுடன் இருவர் கைது
+### Two persons arrested with drugs at children's sports event
 
 *2024-01-29 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175069) · `ta`
 
-யாழ்ப்பாணம் மானிப்பாய் செல்லமுத்து விளையாட்டு மைதானத்தில்,  இடம்பெற்று வரும் சிறுவர்களுக்கான விளையாட்டு நிகழ்வில் (கார்னிவேல்) போதைப்பொருட்களுடன் இரு இளைஞர்கள் கைது செய்யப்பட்டுள்ளனர்.
+Two youths have been arrested at the Manipay Sellamuthu Playground in Jaffna, with drugs for a children's sports event (Carnivel).
 
-மைதானத்தில் சந்தேகத்திற்கு இடமான முறையில் நடமாடிய இரு இளைஞர்களை அங்கு கடமையில் ஈடுபட்டிருந்த பொலிஸார் சோதனையிட்டனர்.
+Police searched two youths who were suspicious at the stadium.
 
-அதன் போது , அவர்களின் உடைமையில் இருந்து ஒரு தொகை கஞ்சாவை மீட்டுள்ளனர். அதனை அடுத்து அவர்களை கைது செய்து மானிப்பாய் பொலிஸ் நிலையத்தில் தடுத்து வைத்து விசாரணைகளை முன்னெடுத்துள்ளனர்.
+During that time, they have recovered a sum of cannabis from their possession. They were subsequently arrested and detained at the Manipay police station.
 
 ◼️
 
 [Data](articles/07863765.json)
 
+[Extended Data](ext_articles/07863765.ext.json)
+
 ---
 
-### ஜோபைடன் பலவீனமானவர் திறமையற்றவர் - பிரச்சாரங்களில் டிரம்ப்  - அமெரிக்க பயங்கரவாத  தாக்குதல்களை எதிர்கொள்வதாகவும் தெரிவிப்பு
+### Jobit's weakness is ineffective - Trump in campaigns
 
 *2024-01-29 14:51:00* · [`virakesarilk`](https://www.virakesari.lk/article/175068) · `ta`
 
-அமெரிக்க ஜனாதிபதி ஜோ பைடன் பலவீனமானவர் திறமையற்றவர் என்ற வாதத்தை முன்வைத்துவரும் முன்னாள் ஜனாதிபதி டொனால்ட் டிரம்ப் வெளிநாடுகளிலும் உள்நாட்டிலும் நிலைமை அமெரிக்காவின் கட்டுப்பாட்டை மீறி செல்கின்றது எனவும் தெரிவித்துவருகின்றார்.
+Former President Donald Trump, who plays the argument that US President Joe Biden is weak and ineffective, has said that the situation is overblott abroad and at home.
 
-நெவெஸ்டாவில் ஆற்றிய உரையில் பைடனின் எல்லை கொள்கைகளை டிரம்ப் கடுமையாக சாடியுள்ளார்.இதன் காரணமாக எந்நேரத்திலும் தேசிய பாதுகாப்பு பேரழிவொன்று இடம்பெறலாம் என டிரம்ப் தெரிவி;த்துள்ளார்.
+In his speech in Nevesta, Trump has strongly criticized Baidon's border policies.
 
-கடந்த மூன்று வருடங்களில் இடம்பெற்ற விடயங்களால் அமெரிக்காவில் பாரிய பயங்கரவாத தாக்குதலி;ற்கான ஆபத்துள்ளது பல தாக்குதல்கள் இடம்பெறலாம் எனவும்  டிரம்ப் எச்சரித்துள்ளார்.
+Trump has also warned that many attacks in the United States are likely to be in danger of a massive terrorist attack in the United States.
 
-இதேவேளை மத்திய கிழக்கில் மூன்று அமெரி;க்க படையினர் கொல்லப்பட்ட விடயத்தையும் முன்னாள் ஜனாதிபதி தனக்கு சாதகமாக பயன்படுத்த முயல்கின்றார்.
+At the same time, the former president is trying to take advantage of the killing of three US soldiers in the Middle East.
 
-இதற்கான காரணம் பைடன் என குற்றம்சாட்டியுள்ள டிரம்ப் பைடனின் போதிய வலிமையின்மையே இதற்கு காரணம் என அவர் தெரிவித்துள்ளார்.
+The reason for this is the reason for Trump Baiton, who has accused Bidan of the inadequate strength, he said.
 
-...
+He said that if I was in the White House, the current wars would have never been held, he said, "There will be peace around the world but we are currently standing on the brink of third World War.
+
+◼️
 
 [Data](articles/072e9406.json)
+
+[Extended Data](ext_articles/072e9406.ext.json)
 
 ---
 

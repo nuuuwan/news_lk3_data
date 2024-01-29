@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 21:33:09**
+As of **2024-01-29 21:51:34**
 
 ## Newspaper Stats
 
-*Scraped **3,350** Articles*
+*Scraped **3,351** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ economynextcom | 177
 islandlk | 185
 newsfirstlk | 203
 dailyftlk | 223
-adalk | 311
+adalk | 312
 adaderanasinhalalk | 355
 virakesarilk | 362
 tamilmirrorlk | 422
@@ -26,7 +26,7 @@ dailymirrorlk | 456
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,345 (99.9%) of 3,350 articles have been extended.
+3,350 (100.0%) of 3,351 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ According to police, Nikeshala had arrived at the Computer Crimes Division of th
 
 [Data](articles/04554305.json)
 
+[Extended Data](ext_articles/04554305.ext.json)
+
 ---
 
 ### Document spells out allegations against 12 UN employees Israel says participated in Hamas attack
@@ -59,6 +61,8 @@ The accusations come after years of tensions between Israel and the agency known
 ...
 
 [Data](articles/96125d6e.json)
+
+[Extended Data](ext_articles/96125d6e.ext.json)
 
 ---
 
@@ -78,21 +82,47 @@ The Minister of Agriculture and Plantation Industry, Mr. Mahinda Amaraweera ment
 
 [Data](articles/6a5e686f.json)
 
+[Extended Data](ext_articles/6a5e686f.ext.json)
+
 ---
 
-### චාමර රෝහලෙන් පිටව යයි
+### 2025දී සුපිරි ධනවතුන්ට දේපළ බද්දක් පනවයි
+
+*2024-01-29 20:36:19* · [`adalk`](https://www.ada.lk/breaking_news/2025දී-සුපිරි-ධනවතුන්ට-දේපළ-බද්දක්-පනවයි/11-407791) · `si`
+
+නැවතත් අලුත් වක්‍ර බදු අය කිරීමට හෝ පවතින වක්‍ර බදුවල ප්‍රතිශත ඉහළ දැමීමට සූදානමක් නොමැති බවත් 2025 දී ප්‍රගිතිශීලි පියවරක් ලෙස දේපල බද්දක් අය කිරීමට කටයුතු කරන බවත් මුදල් රාජ්‍ය අමාත්‍ය රංජිත් සියඹලාපිටිය මහතා පැවැසීය.
+
+"ජනතාවට අමාරුයි. ආර්ථික අර්බුදයක් පහුකරගෙන උඩට යද්දී අමාරුම අවස්ථාව තමයි මේ යන්නේ. රාජ්‍ය ආදායම වැඩි කරන්න අපිට විවිධ ආකාරයෙන් බදු අය කරන්න සිද්ධ වුණා. එහි බර දැරුවේ ජනතාව. ඔවුන්ට අපි ප්‍රණාමය පුද කරන්න ඕන. ඔවුන් ඉතාම අමාරුවෙන් මේ බර දැරුවා.
+
+මින් ඉදිරියට අපි අලුතෙන් වක්‍ර බදු අයකරන්න බලාපොරෝත්තු වෙන්නේ නෑ. ආයේ වක්‍ර බදුවල ප්‍රතිශත වැඩි කරන්න බලාපොරොත්තුවකුත් නෑ.
+
+අපි උත්සාහ කරන්නේ සෘජ බදු පදනම පුළුල් කරගෙන රාජ්‍ය ආදායම වැඩි කරන්න. වක්‍ර බදු අඩුකරන දවස ඉක්මන් කරන්න අපි කටයුතු කරනවා.
+
+වක්‍ර බදු නිසා බඩු මිල ඉහළ යනව කියන එකේ සත්‍යතාවක් නෑ. ඉල්ලුම වැඩි වුණාම, සැපයුම අඩුවුණාම බඩු මිලට බලපෑම් ඇතිවෙනවා.
+
+අපි 2025 දී දේපල බද්දක් අය කරන්න කටයුතු කරනවා. ඒක ඉතාම ප්‍රගතිශීලී පියවරක්. ඉතාම ඉහළ දේපළක් තියෙන අයගෙන් නිශ්චිත බදු මුදලක් අයකරන්න බලාපොරොත්තු වෙනවා.
+
+...
+
+[Data](articles/024faa59.json)
+
+---
+
+### Chamara Hospital leaves
 
 *2024-01-29 20:18:57* · [`adalk`](https://www.ada.lk/breaking_news/චාමර-රෝහලෙන්-පිටව-යයි/11-407790) · `si`
 
-දකුණු කොළඹ ශික්ෂණ රෝහලේ ප්‍රතිකාර ලබමින් සිටි ජනප්‍රිය ගායන ශිල්පී චාමර වීරසිංහ මහතා සුවය ලබා රෝහලෙන් පිටව ගොස් තිබේ.
+Popular singer Chamara Weerasinghe who was receiving treatment at the Colombo South Teaching Hospital has recovered and left the hospital.
 
-චාමර වීරසිංහ මහතා දින 40 කට ආසන්න කාලයක් වෛද්‍ය ප්‍රතිකාර යටතේ ගත කළ අතර පසුගිය මාසයේදී ඔහු කලුබෝවිල රෝහල වෙත ඇතුළත් කරනු ලැබුවේ ශ්වසන අපහසුතාවයක් හේතුවෙනි.
+Chamara Weerasinghe spent 40 days under medical treatment for almost 40 days and he was admitted to the Kalubowila hospital in the area last month.
 
-ඔහු ශල්‍යකර්ම දෙකකට භාජනය කර ඇති අතර සුවය ලැබුවද තවදුරටත් විවේකයෙන් සිටිය යුතු බවට වෛද්‍යවරුන් උපදෙස් දී ඇත.
+He has been instructed to two surgeries and is well-received by doctors.
 
 ◼️
 
 [Data](articles/8f573644.json)
+
+[Extended Data](ext_articles/8f573644.ext.json)
 
 ---
 
@@ -180,23 +210,25 @@ Subsequently, Kandara police arrested the suspect and taken the jeep into police
 
 ---
 
-### සහලින් ස්වයංපෝෂිතයි සහල් ආනයනය කරන්නේ නෑ
+### Self-sufficient rice is not imported
 
 *2024-01-29 19:20:17* · [`adalk`](https://www.ada.lk/breaking_news/සහලින්-ස්වයංපෝෂිතයි-සහල්-ආනයනය-කරන්නේ-නෑ/11-407786) · `si`
 
-රට සහලින් ස්වයංපෝෂිත බැවින් 2024 වසර තුළ සහල් ආනයනය කිරීමට බලාපොරොත්තු නොවන බව කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා පැවසීය.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that the rice is not expected to import rice in 2024 as the country is self sufficient.
 
-එසේම 2024 වර්ෂයේදී වී, බඩ ඉරිඟු, අර්තාපල් සහ මිරිස් යන බෝග ජාතික අවශ්‍යතාවයේ ඉලක්කයට ළඟා වීම සඳහා ප්‍රමුඛත්වය දී කටයුතු කිරීමට තීරණය කර තිබෙන බව ද අමාත්‍යවරයා සඳහන් කළේය.
+The Minister also said that the crops of paddy, maize, potatoes and chillies have been decided to reach the target of the national requirement.
 
-කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (29) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera made this statement participating at a press conference held at the Presidential Media Center today (29).
 
-එහිදී වැඩිදුරටත් අදහස් දැක් වූ කෘෂිකර්ම සහ වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා මෙසේ ද පැවසීය.
+Minister of Agriculture and Plantation Industries Mahinda Amaraweera said:
 
-"2023 වසරේ මෙරට යල සහ මහ කන්නවල පොහොර මිලදී ගැනීම සඳහා මූල්‍ය සහනාධාර වෙනුවෙන් රුපියල් බිලියන 22ක ප්‍රමාණයක් අප වැය කළා. ඒ වගේම වී මිලදී ගැනීම සඳහා ද රජය විසින් රුපියල් බිලියන 13ක මුදලක් වැය කළා.
+"We have spent Rs. 22 billion to the purchasing of fertilizers in Sri Lanka in 2023. The government also spent Rs. 13 billion for purchasing the paddy.
 
 ...
 
 [Data](articles/86d32947.json)
+
+[Extended Data](ext_articles/86d32947.ext.json)
 
 ---
 
@@ -2031,31 +2063,5 @@ Additionally, Oman Air has introduced measures to optimise its schedule, startin
 [Data](articles/30058020.json)
 
 [Extended Data](ext_articles/30058020.ext.json)
-
----
-
-### Lady Wedilla, who was placed on the father
-
-*2024-01-29 11:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192693) · `si`
-
-The father was shooting out of the two father-sons of the wildest hunt in Jayalath Mount, Dedigama.
-
-According to the police, the father had been shot dead by a mistake.
-
-Our correspondent said that the tragedy had taken place yesterday (28).
-
-Father's head has been seriously injured in the son's shopping and the father died.
-
-The victim was 47-year-old W.W.
-
-The father and her son had gone to a group of two sides, while the father was turning into a thumb, was heading the torch.
-
-It is reported that the son has come to the police with a relative who has come to death in his hand of his mistake.
-
-◼️
-
-[Data](articles/9ff4de11.json)
-
-[Extended Data](ext_articles/9ff4de11.ext.json)
 
 ---

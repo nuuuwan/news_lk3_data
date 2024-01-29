@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 11:17:15**
+As of **2024-01-29 11:33:05**
 
 ## Newspaper Stats
 
-*Scraped **3,212** Articles*
+*Scraped **3,214** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,29 +18,57 @@ dailyftlk | 223
 adalk | 291
 adaderanasinhalalk | 338
 virakesarilk | 338
-tamilmirrorlk | 403
-adaderanalk | 416
+tamilmirrorlk | 404
+adaderanalk | 417
 dailymirrorlk | 433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,211 (100.0%) of 3,212 articles have been extended.
+3,212 (99.9%) of 3,214 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### ලොහාන් රත්වත්තේ දිවුරුම් දෙයි
+### இராஜாங்க அமைச்சரானார் லொஹான்
+
+*2024-01-29 10:54:09* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இராஜாங்க-அமைச்சரானார்-லொஹான்/175-332260) · `ta`
+
+பெருந்தோட்ட கைத்தொழில் மற்றும் மகாவலி அபிவிருத்தி இராஜாங்க அமைச்சராக லொஹான் ரத்வத்த, ஜனாதிபதி ரணில் விக்கிரமசிங்க முன்னிலையில் பதவிப்பிரமாணம் செய்துகொண்டுள்ளார்.
+
+◼️
+
+[Data](articles/1fe0a684.json)
+
+---
+
+### New State Minister of Plantation Industries and Mahaweli Development appointed
+
+*2024-01-29 10:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96817/new-state-minister-of-plantation-industries-and-mahaweli-development-appointed-) · `en`
+
+Sri Lanka Podujana Peramuna (SLPP) Parliamentarian Lohan Ratwatte has been sworn in as the new State Minister of Plantation Industries and Mahaweli Development before President Ranil Wickremesinghe.
+
+He was sworn in to the position at the Presidential Secretariat, a short while ago, according to the President’s Media Division (PMD).
+
+◼️
+
+[Data](articles/d159341f.json)
+
+---
+
+### Lohan sworn in Ratwatte
 
 *2024-01-29 10:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192690) · `si`
 
-වැවිලි කර්මාන්ත සහ මහවැලි සංවර්ධන රාජ්‍ය අමාත්‍යවරයා ලෙස ලොහාන් රත්වත්තේ මහතා ජනාධිපති රනිල් වික්‍රමසිංහ මහතා ඉදිරියේ මීට සුළු වේලාවකට පෙර දිවුරුම් දී තිබේ.
+The State Minister of Plantation and Mahaweli Development has been sworn in before President Ranil Wickremesinghe before President Ranil Wickremesinghe.
 
 ◼️
 
 [Data](articles/fd731105.json)
+
+[Extended Data](ext_articles/fd731105.ext.json)
 
 ---
 
@@ -1943,45 +1971,5 @@ India does not want to develop enmity around itself. It is firmly believed that 
 [Data](articles/8da92073.json)
 
 [Extended Data](ext_articles/8da92073.ext.json)
-
----
-
-### Railway parcel transport costs up
-
-*2024-01-28 18:52:27* · [`adalk`](https://www.ada.lk/breaking_news/දුම්රිය-පාර්සල්-ප්‍රවාහන-ගාස්තු-ඉහළට/11-407759) · `si`
-
-The Railway Department states that parcels and freight transport rates were increased by 80% of the decrease in 80 percent.
-
-The minimum fare previously charged for a parcel has been increased from Rs. 50 to Rs.
-
-The Railway Department states that a new fee is introduced on the value of the parcel, according to the Railway Department.
-
-The Railway Department has decided to charge the fees on the railway stations, based on the weight of the parcel, which will be charged by the heavy fees.
-
-Arrangements have been taken to charge the value of the parcel during the transportation of parcels and another fee. Lottery ticket, medicine, tire, glass, glass, glass, electrical and electronic equipment charges a fee of 1.5 percent to 5,000 value.
-
-The value of the parcel was 2.25 percent to Rs.
-
-The value of these items charge a fee of 0.5 percent of the value of all other goods over 10,000 rupees.
-
-◼️
-
-[Data](articles/fb94aa80.json)
-
-[Extended Data](ext_articles/fb94aa80.ext.json)
-
----
-
-### ICC ban removed
-
-*2024-01-28 18:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192667) · `si`
-
-Steps have been taken to remove the ban on Sri Lanka immediately after the International Cricket Council (ICC).
-
-◼️
-
-[Data](articles/9e794332.json)
-
-[Extended Data](ext_articles/9e794332.ext.json)
 
 ---

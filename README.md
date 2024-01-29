@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 20:02:18**
+As of **2024-01-29 20:17:09**
 
 ## Newspaper Stats
 
-*Scraped **3,337** Articles*
+*Scraped **3,339** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ economynextcom | 177
 islandlk | 185
 newsfirstlk | 203
 dailyftlk | 223
-adalk | 307
+adalk | 308
 adaderanasinhalalk | 353
 virakesarilk | 362
 tamilmirrorlk | 420
 adaderanalk | 429
-dailymirrorlk | 454
+dailymirrorlk | 455
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,337 (100.0%) of 3,337 articles have been extended.
+3,337 (99.9%) of 3,339 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -51,6 +51,22 @@ Ukraine says there was no risk of genocide in eastern Ukraine, where it had been
 [Data](articles/63d35004.json)
 
 [Extended Data](ext_articles/63d35004.ext.json)
+
+---
+
+### Ten President’s Counsels take silk
+
+*2024-01-29 19:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ten-Presidents-Counsels-take-silk/108-275922) · `en`
+
+Colombo, Jan 29 (Daily Mirror) - Ten senior attorneys took their oaths as President’s Counsel (PC) at a ceremonial sitting of the Supreme Court.
+
+Chamantha Weerakoon, Dr. Asanga Gunawansa, Mohamed Adamaly, Harsha Fernando, Dr. Sivaji Felix, Faisza Markar, Kaushalya Nawaratne, Upul Kumarapperuma, Viran Corea and Eraj de Silva took their oaths as President's Counsel before Chief Justice Jayantha Jayasuriya PC and the judges of apex courts, Colombo High Courts, Colombo District Courts and Colombo Chief Magistrate’s Courts.
+
+President’s Counsel is a professional rank and status conferred to the appointee by the President under Article 33 (cc) of the Constitution. According to the constitutional provision, attorneys-at-law who have reached eminence in the profession and have maintained high standards of conduct and professional rectitude are appointed as President’s Counsel by the President.
+
+...
+
+[Data](articles/7964b467.json)
 
 ---
 
@@ -155,6 +171,24 @@ Former parliamentarian Hirunika Premachandra, who attended the conference, said 
 [Data](articles/2857894d.json)
 
 [Extended Data](ext_articles/2857894d.ext.json)
+
+---
+
+### ශත 18ක හිඟ මුදලටත් විදුලිය විසන්ධි කරලා
+
+*2024-01-29 18:26:42* · [`adalk`](https://www.ada.lk/breaking_news/ශත-18ක-හිඟ-මුදලටත්-විදුලිය-විසන්ධි-කරලා/11-407782) · `si`
+
+විදුලි බිලෙහි තිබූ ශත 18ක මුදලක් නොගෙවීම නිසා තම නිවසේ විදුලිය විසන්ධි කළ බව ගාල්ල, ගල්වඩුගොඩ පදිංචි විසුම් මාපලගම මහතා පවසයි.
+
+මෙලෙස මාපලගම මහතාගේ නිවසේ විදුලිය විසන්ධි කර ඇත්තේ ගාල්ල නගරය සහ ඒ අවට ප්‍රදේශයට විදුලි සැපයුම් ලබාදෙන සීමාසහිත (ලංකා) විදුලි පුද්ගලික සමාගම (LECO) විසිනි.
+
+විසුම් මාපලගම මහතා පවසන්නේ, තමන් රුපියල් 6650.18ක් වූ විදුලි බිල්පත ගෙවීමට ලෙකෝ කාර්යාලයට ගිය අවස්ථාවේ දී ශත 18ක මුදලක් ගෙවිය යුතු දැයි විමසූ විට මුදල් අයකැමි සඳහන් කළේ එවැනි සුළු මුදලකට විදුලිය විසන්ධි නොකරන බැවින් එය නොගෙවීම ගැටලුවක් නොවන බවයි. රවුම් ගණනක් ගෙවන්න යැයි ද මුදල් අයකැමි පැවසීම නිසා රුපියල් 6650.00ක මුදලක් ගෙවා ඉතිරි වූ රුපියල් 0.18 ගෙවා නැත. ඔහු මෙම ගෙවීම සිදුකර ඇත්තේ 2023-12-19 වැනි දින දී ය.
+
+නමුත් දින කිහිපයකට පසු නිවසේ කිසිවකුත් නොමැති අවස්ථාවක දී සීමා සහිත (ලංකා) විදුලි පුද්ගලික සමාගම විසින් නිවසේ විදුලිය විසන්ධි කර දමා ගොස් තිබූ බව මාපලගම මහතා අප සමඟ කීවේය.
+
+...
+
+[Data](articles/aaab0b60.json)
 
 ---
 
@@ -2049,43 +2083,5 @@ The government has pledged to investigate war crimes crimes during the Civil War
 [Data](articles/3d84b4a8.json)
 
 [Extended Data](ext_articles/3d84b4a8.ext.json)
-
----
-
-### Schoolwear Supplementary Cards extended
-
-*2024-01-29 11:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192692) · `si`
-
-The Ministry of Education has announced that the validity of the school shoes that the government has given to school children has been extended.
-
-Accordingly, the previous previous previous previous. 02. The period from 0124. 02. Extended to 17.
-
-◼️
-
-[Data](articles/afdc9514.json)
-
-[Extended Data](ext_articles/afdc9514.ext.json)
-
----
-
-### A hint of a new tax
-
-*2024-01-29 11:09:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192691) · `si`
-
-State Minister Ranjith Siyambalapitiya says that there is no hope to introduce indirect taxes or increase taxes in the future.
-
-Speaking to the media in Kegalle, the public minister said that the government revenue is expected to be developed.
-
-The State Minister said that the prices of goods will not increase due to indirect taxes and the price of goods will be decided on the supply of goods.
-
-Meanwhile, Minister of Finance Ranjith Siyambalapitiya stated that he is expected to introduce a new real estate tax in 2025.
-
-The State Minister stated that the real estate tax is a direct tax and that the tax is a specific amount of money.
-
-◼️
-
-[Data](articles/8f7d8d28.json)
-
-[Extended Data](ext_articles/8f7d8d28.ext.json)
 
 ---

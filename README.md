@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 18:20:00**
+As of **2024-01-29 18:32:59**
 
 ## Newspaper Stats
 
-*Scraped **3,319** Articles*
+*Scraped **3,325** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,64 +13,86 @@ bbccomsinhala | 55
 dbsjeyarajcom | 125
 economynextcom | 177
 islandlk | 185
-newsfirstlk | 202
+newsfirstlk | 203
 dailyftlk | 223
-adalk | 303
+adalk | 306
 adaderanasinhalalk | 353
 virakesarilk | 362
 tamilmirrorlk | 415
 adaderanalk | 426
-dailymirrorlk | 450
+dailymirrorlk | 452
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,316 (99.9%) of 3,319 articles have been extended.
+3,319 (99.8%) of 3,325 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### 'දයා' සමගි ජනබලවේගය සමග එක්වෙයි
+### Online Safety Bill will give rise to a fully local social media platform: Hirunika
+
+*2024-01-29 18:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-will-give-rise-to-a-fully-local-social-media-platform-Hirunika/108-275920) · `en`
+
+Colombo, Jan 29 (Daily Mirror) - The Online Safety Bill will give rise to a local social media platform to disseminate information as all foreign online service providers are likely to leave the country once the legislation comes into effect, former MP Hirunika Premachandra said.
+
+“It is just a simple task for the international service providers such as Facebook and X to leave Sri Lanka,” Ms. Premachandra told a media briefing.
+
+“Sri Lanka will have to develop its own platform like China if all foreign service providers stop operations in Sri Lanka,” she added.
+
+“Just imagine what you would feel if you are unable to log onto Facebook, Instagram or X through your phone to be aware of what is happening around the world,” she questioned.
+
+◼️
+
+[Data](articles/a262b068.json)
+
+---
+
+### Daya joins 'Daya'
 
 *2024-01-29 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192707) · `si`
 
-හිටපු යුද හමුදාපති ජෙනරාල් දයා රත්නායක මහතා සමගි ජනබලවේගය පක්ෂය සමග එක්ව තිබේ.
+Former Army Commander General Daya Ratnayake has joined the party with the party.
 
-අද (29) දිනයේ විපක්ෂ නායක සජිත් ප්‍රේමදාස මහතා සමග පැවති හමුවකදී ඔහු එම පක්ෂය සමග එක්ව ඇත.
+At a meeting with Opposition Leader Sajith Premadasa, he was associated with the party this party.
 
-ජෙනරාල් දයා රත්නායක මහතා සමගි ජනබලවේගයේ රාජ්‍ය ප්‍රතිපත්ති පිළිබඳ ජ්‍යේෂ්ඨ උපදේශකවරයෙකු ලෙස පත්කිරීමට ද විපක්ෂ නායකවරයා කටයුතු කර තිබේ.
+The Leader of the Opposition has also appointed Mr. Daya Ratnayake to appoint a senior advisor to the country's policies.
 
-ඒ මහතා හිටපු ජනාධිපති ගෝඨාභය රාජපක්ෂ මහතාගේ රජයේ කර්මාන්ත අමාත්‍යංශ ලේකම්වරයා වශයෙන් ද ශ්‍රී ලංකා වරාය අධිකාරියේ සභාපතිවරයෙකු වශයෙන් ද කටයුතු කර ඇත.
+He has also served as a Chairman of the Sri Lanka Ports Authority as the Secretary to the Government of Sri Lanka.
 
 ◼️
 
 [Data](articles/a17c0070.json)
 
+[Extended Data](ext_articles/a17c0070.ext.json)
+
 ---
 
-### පොලිස් නිලධාරිනියකට පහරදුන් කාන්තාවක් අත්අඩංගුවට
+### Woman arrested for assaulting a police officer
 
 *2024-01-29 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192706) · `si`
 
-පොලිස් නිලධාරියෙකුට පරුෂ වචනයෙන් බැනවැදී පොලිස් කාන්තාවකට පහරදීමේ චෝදනාව යටතේ කාන්තාවක් පොලීසිය විසින් අත්අඩංගුවට ගෙන තිබේ.
+A woman has been arrested by the police on charges of assaulting a police officer in a police officer.
 
-පොලීසිය පවසන්නේ මෙලෙස අත්අඩංගුවට ගෙන ඇත්තේ ඔස්ට්‍රේලියාවේ පදිංචිව සිටින ශ්‍රී ලාංකික කාන්තාවක් බවය.
+The police said that a Sri Lankan woman residing in Australia.
 
-මාතර දෙවිනුවර ඔරලෝසු කනුව ආසන්නයේදී ත්‍රිරෝද රථයක ගමන්කරමින් සිටි පොලිස් නිලධාරීන් පිරිසක් සිය රථයේ ගමන්මගට බාධා කළ බව පවසමින් එම කාන්තාව නිලධාරියෙකුට පරුෂ වචනයෙන් බැනවැදී තිබේ.
+The woman was bound by a police officer saying that a group of police officers who were traveling in a three-wheeler near the Devinuwara Clock in Matara.
 
-පසුව අදාළ නිලධාරීන් විසින් කළ දැනුම්දීමකට අනුව ගන්දර පොලිස් ස්ථානය ආසන්නයේදී අදාළ කාන්තාව ගමන්කරමින් තිබූ සුඛෝපභෝගී ජීප් රථය පොලිස් නිලධාරීන් විසින් නවත්වාගෙන ඇත.
+The luxury jeep that the woman was near the Gandara police station afterward was stopped by the police.
 
-එම අවස්ථාවේදී අදාළ සැකකාර කාන්තාව විසින් පොලිස් නිලධාරිනියකට කළ පහරදීමක් හේතුවෙන් අදාළ නිලධාරිනිය රෝහල්ගතකර ඇත.
+The suspect has been hospitalized due to an attack on a police officer at the time.
 
-පසුව සැකකාර කාන්තාව ගන්දර පොලීසිය විසින් අත්අඩංගුවට ගෙන අදාළ ජීප් රථය ද පොලිස් භාරයට ගෙන ඇත.
+The suspect was arrested by the suspect and arrested the relevant jeep.
 
-එම කාන්තාව අධිකරණය වෙත ඉදිරිපත් කර ඇති අතර ගන්දර පොලීසිය සිද්ධිය සම්බන්ධයෙන් වැඩිදුර විමර්ශන සිදුකරයි.
+The woman was produced before the court and the Gandara police are conducting further investigations.
 
 ◼️
 
 [Data](articles/4b7dcfdf.json)
+
+[Extended Data](ext_articles/4b7dcfdf.ext.json)
 
 ---
 
@@ -92,17 +114,39 @@ The CEB further said that consumers are requested to make their complaints by ca
 
 ---
 
-### பட்டத்தில் தமிழீழ வரைபடம் ;  இளைஞனிடம்  விசாரணை
+### Map of Tamil Eelam;Trial to the youth
 
 *2024-01-29 17:06:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டத்தில்-தமிழீழ-வரைபடம்-இளைஞனிடம்-விசாரணை/175-332288) · `ta`
 
-வருடாந்த பட்டத்திருவிழா ஆரம்பிக்கும் நிகழ்வாக முல்லைத்தீவு கடற்கரையில் திங்கட்கிழமை (28)   வித்தியாசமான வடிவில் பட்டங்களை உருவாக்கி  சிறுவர்கள் முதல் பெரியவர்கள் வரை பட்டம் ஏற்றி மகிழ்ந்திருந்துள்ளனர்.
+As a beginning of the annual graduation festival, the Mullaitivu beach has made a different form of titles on Monday (28) and enjoyed graduation from children to adults.
 
-இந் நிகழ்வின் போது முல்லைத்தீவை சேர்ந்த இளைஞர் ஒருவர்  தமிழீழ வரைபடம் மற்றும்  கார்த்திகை பூ அமைப்பில் உருவாக்கப்பட்ட பட்டத்தினை ஏற்றியுள்ளதை அவதானித்த முல்லைத்தீவு பொலிஸார் அவ் இடத்திற்கு சென்று குறித்த இளைஞனை விசாரணைக்கு உட்படுத்தியுள்ளனர்.
+During the event, a youth from Mullaitivu had taken a youth to the place where the Mullaitivu police had gone to the place of the Tamil Eelam Map and the title of the Tamil Eelam Map and the Carnatic Flower Organization.
 
 ◼️
 
 [Data](articles/0d961f33.json)
+
+[Extended Data](ext_articles/0d961f33.ext.json)
+
+---
+
+### Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
+
+*2024-01-29 16:47:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/sri-lankan-youth-trapped-in-myanmar-cyberhell-cry-for-rescue/) · `en`
+
+COLOMBO (News 1st): Desperate pleas from families echo through the nation as 56 Sri Lankan youth remain trapped in a harrowing ordeal – held captive in cybercrime camps run by terrorist groups in remote Myanmar.
+
+Lured by promises of IT jobs in Thailand, these young people now face forced labor, abuse, and psychological trauma under the control of Chinese underworld groups and local terrorist organizations.
+
+Today (29), distraught parents visited the Ministry of Foreign Affairs, urging immediate intervention to secure their children's release.
+
+"The pressure is mounting," pleaded the father of one captive youth. "Our children are mentally broken, subjected to escalating torture and inhumane conditions. We beg the government to send a delegation and bring them home."
+
+News 1st, has followed this story for two months, and received a chilling update from a young woman trapped in the camps.
+
+...
+
+[Data](articles/b4d04b29.json)
 
 ---
 
@@ -132,9 +176,15 @@ This latest arrest brings the total number of individuals detained in connection
 
 *2024-01-29 16:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-fishermen-captured-by-Somali-pirates-rescued/108-275919) · `en`
 
-Colombo, Jan 29 (daily Mirror) - The Seychelles Coast Guard (SCG) has rescued six Sri Lankan fishermen who were captured by Somali pirates along with their multi-day fishing trawler, said Navy spokesman Capt. Gayan Wickramasinghe.
+Colombo, Jan 29 (daily Mirror) - The Seychelles Coast Guard (SCG) had rescued six Sri Lankan fishermen who were captured by Somali pirates, along with their multi-day fishing trawler, Navy spokesman Captain Gayan Wickramasinghe said today.
 
-◼️
+The Sri Lanka Navy had informed the Combined Marine Corps-Seychelles Coast Guard (SCG) regarding the incident.
+
+"We kept in continuous touch with the SCG, gave them the information they needed and coordinated with them. As a result of this coordination, the SCG conducted a special operation after informing us. After the operation, SCG officials managed to rescue the Sri Lankan multi-day fishing trawler 'Lorenzo Putha 4', including the six fishermen," he said.
+
+The spokesman said the SCG managed to arrest three Somali pirates, and that they are taking them to the capital of Seychelles.
+
+...
 
 [Data](articles/9a9d1eb8.json)
 
@@ -226,7 +276,7 @@ According to the Samagi Jana Balavegaya, General Daya Ratnayake was appointed as
 
 General Ratnayake was the 20th Commander of the Sri Lanka Army.
 
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
+Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
 
 ◼️
 
@@ -248,7 +298,7 @@ The road from Colpetty to Galle Face Roundabout and the Raod from Ceramic Juncti
 
 In addition, a special traffic plan will be in place in Colombo for Independence Day on the 4th
 
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
+Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
 
 ◼️
 
@@ -372,7 +422,7 @@ The 'Lorenzo Putha 4' vessel had set out to sea from the Dikowita Fisheries Harb
 
 The crew comprised six fishermen from Marawila, Chilaw, and three of them are from the same family.
 
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
+Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
 
 ◼️
 
@@ -920,13 +970,35 @@ Former MP Hirunika Premachandra who also participated in the briefing said the p
 
 Talk of The Town | The Key to Sri Lanka's Revival | Amita Arudpragasam | 29th January 2024
 
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
+Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
 
 ◼️
 
 [Data](articles/084d9a76.json)
 
 [Extended Data](ext_articles/084d9a76.ext.json)
+
+---
+
+### දොඹගොඩ යුධහමුදා කදවුරේ සෙබලාගේ සිරුර අඩි 20ක් ගැඹුර පොකුණක
+
+*2024-01-29 13:25:11* · [`adalk`](https://www.ada.lk/breaking_news/දොඹගොඩ-යුධහමුදා-කදවුරේ-සෙබලාගේ-සිරුර-අඩි-20ක්-ගැඹුර-පොකුණක/11-407776) · `si`
+
+හොරණ දොඹගොඩ යුධහමුදා කදවුරේ පොකුණක තිබී සෙබළෙකු ගේ මළසිරුරක් අද (29) උදෑසන හමුව ඇති බව අගුරුවාතොට පොලිසිය පවසයි .
+
+මෙසේ මියගොස් ඇත්තේ ඇතිලිවැව ප්‍රදේශයේ පදිංචිව සිටී 7 වන යුධහමුදා යුධෝපකරණ බළකායට අයත් සාමාන්‍ය සෙබළ ඩබ්ලිව් එම් ටී ලක්ෂමන් නමැති 23 හැව්රිදි  අයෙකු ගේ බව පොලිසිය කීය.
+
+මියගොස් ඇති සෙබළා මුලතිව් හී පිහිටී 7 වන යුද්ධෝපකරණ බළකායට අයත් සෙබළෙකු වන අතර,  උපදේශක රාජකාරි සිදුකර ඇති බවත්  , පෙරේදා උදැසන  ශාරීරික අභ්‍යාස පෙලපාලියට පෙනී නොසීටී බැවින් සොයාබලා ඇතත් හමුව නොමැති බවත්, ඒ සම්බන්දයෙන් සෙබළාගේ නිවසද දැනුවත් කර ඇති බවත් යුධහමුදා මාධ්‍ය ප්‍රකාශක කාර්යාලය සදහන් කරයි.
+
+සෙබළාගේ මළසිරුර අද  උදැසන කදවුරේ අඩි 20 කට ආසන්න ගැඹුරු  පොකුණක  තිබී හමුව ඇති බවත්, මළසිරුර හමුවන විට යට ඇදුම පමණක් ඇද සිට ඇති බවත් පොලිසිය කීය.
+
+පානදුර අපරාධ ස්ථාන පරීක්ෂණාගාර නිළධාරීන්ද ඊයේ උදැසන  පරීක්ෂණ සිදුකල බව පොලිසිය කීය.
+
+ස්ථානාධිපති ප්‍රධාන  පොලිස් පරීක්ෂක ආනන්ද සිල්වා මහතාගේ උපදෙස් පරිදි අගුරුවාතොට පොලිසිය පරීක්ෂණ පවත්වති.
+
+◼️
+
+[Data](articles/09036dff.json)
 
 ---
 
@@ -1042,6 +1114,18 @@ They were residents of Morawaka, Rukgahala, Imaduwa and Kithala, who is aged 23,
 
 ---
 
+### Abolish 'Parate Law'
+
+*2024-01-29 12:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Abolish-Parate-Law/110-275911) · `en`
+
+A small-scale entrepreneurs' protest was held today in the Maharagama town, demanding the government to abolish the 'Parate Law' that leads to the auction of public property and also to reduce the electricity bills. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/12ea21cc.json)
+
+---
+
 ### Thai Prime Minister to visit Sri Lanka, FTA to be signed
 
 *2024-01-29 12:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Thai-Prime-Minister-to-visit-Sri-Lanka-FTA-to-be-signed/108-275910) · `en`
@@ -1114,6 +1198,20 @@ The US dollar purchasing price was 312.6759 and the sales price were 322.7716 ba
 
 ---
 
+### පාවහන් තිළිණ පත්වල කාලය දිගු කරයි
+
+*2024-01-29 12:42:12* · [`adalk`](https://www.ada.lk/breaking_news/පාවහන්-තිළිණ-පත්වල-කාලය-දිගු-කරයි/11-407775) · `si`
+
+පාසල් සිසුන් වෙනුවෙන් රජය ලබා දුන් පාසල් පාවහන් තිළිණපත්වල වලංගු කාලය  දීර්ඝ කර ඇති බව අධ්‍යාපන අමාත්‍යාංශය නිවේදනය කරයි.
+
+ඒ අනුව 2024. 02. 01 දින දක්වා මීට පෙර සටහන් කර තිබූ වලංගු කාලය  2024. 02. 17 දින දක්වා දීර්ඝ කර ඇති බව පාවහන් සැපයුම්කරුවන් හා ජනතාව වෙත අධ්‍යාපන අමාත්‍යාංශය දැනුම් දෙන බව එම නිවේදනයේ සඳහන් වෙයි.
+
+◼️
+
+[Data](articles/01831a6f.json)
+
+---
+
 ### If the federation wants to unite again, the TNA can give up the house symbol - Siddharthan's idea
 
 *2024-01-29 12:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175046) · `ta`
@@ -1135,6 +1233,24 @@ Another committee opposes the decision taken by the leader of the TNA. So the Ta
 [Data](articles/27608373.json)
 
 [Extended Data](ext_articles/27608373.ext.json)
+
+---
+
+### පියාගේ ලිංගික අතවර ඉවසිය නොහැකි තැන 13 හැවැරිදි දියණිය තනිවම පොලීසියට ඇවිත්
+
+*2024-01-29 12:33:50* · [`adalk`](https://www.ada.lk/breaking_news/පියාගේ-ලිංගික-අතවර-ඉවසිය-නොහැකි-තැන-13-හැවැරිදි-දියණිය-තනිවම-පොලීසියට-ඇවිත්/11-407774) · `si`
+
+වසර දෙකකට වැඩි කාලයක සිට තම පියාගෙන් සිදු වන ලිංගික හිර හැර ඉවසා ගැනීමට නොහැකි වූ වයස අවුරුදු 13 හැවිරිදි  දැරියක් තනිව පොලිසියට පැමිණ, ඒ සම්බන්ධයෙන්  පැමිණිල්ලක් ඉදිරිපත් කිරීමෙන් අනතුරුව ඊයේ (28දා) එම සැකකාර පියා අත්අඩංගුවට ගත් බව නොච්ච්යාගම  පොලිසිය පවසයි.
+
+මෙලෙස අත්අඩංගුවට පත්ව ඇත්තේ නොචියාගම පොලිස් වසමේ පදිංචි 34 හැවිරිදි පෙදරේරුවෙකි.
+
+දැරිය, තම මව , පියා සහ සිය සහෝදරයා සමගින් නිවසේ ජීවත්ව සිටින අතර, මීට වසර දෙකකට පමණ පෙර  (2021 වර්ෂයේ) සිට, තමන් හය වන වසරේ ඉගෙනුම ලබන කාලයේ සිට, මේ  දක්වා වරින් වර, නිවසේ කිසිවෙකුත් නොමැති අවස්ථාවලදී තමාට ලිංගික අතවර කරන බව දැරිය සිදු කල පැමිණිල්ලේ සඳහන්වේ.
+
+දිගින් දිගටම  පියාගෙන් සිදු වන කරදර ඉවසා ගැනීමට නොහැකිව  දැරිය  විසින් මේ පිළිබඳව  පියාගේ මවට දැනුම්දීමෙන් අනතුරුව, තමන් මිත්තණියගේ නිවසට රැගෙන ගිය බවත්, පසුව පෙරේදා යලිත් තමන්  මව පියා සිටින නිවසට රැගෙන යාමට සූදානම් වූ අවස්ථාවේදී මිත්තණියට හොරෙන් පොලිසියට පැමිණි  බව දැරිය සිදු කල ප්‍රකාශවල වැඩි දුරටත් සඳහන්වේ.
+
+...
+
+[Data](articles/68d4b686.json)
 
 ---
 
@@ -1350,7 +1466,7 @@ Six of the suspects arrested on drug charges have been held under detention orde
 
 One person addicted to drugs has been directed for rehabilitation.
 
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
+Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
 
 ◼️
 
@@ -1390,7 +1506,7 @@ The union action was launched based on several demands including salary anomalie
 
 They are scheduled to hold a special conference and protest rally on Monday (29) afternoon.
 
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
+Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
 
 ◼️
 
@@ -1540,7 +1656,7 @@ COLOMBO (News 1st); Lohan Ratwatte has been sworn in as the State Minister of P
 
 The post of State Minister of Mahaweli Development was held previously by former Minister Roshan Ranasinghe, and the Ministerial post of Plantation Industries was held by Minister of Agriculture Mahinda Amaraweera.
 
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
+Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
 
 ◼️
 
@@ -1925,129 +2041,5 @@ Keppetipola Specified Stock Price
 [Data](articles/c248b7c3.json)
 
 [Extended Data](ext_articles/c248b7c3.ext.json)
-
----
-
-### Thai PM to witness signing of FTA with Sri Lanka
-
-*2024-01-29 10:05:00* · [`economynextcom`](https://economynext.com/thai-pm-to-witness-signing-of-fta-with-sri-lanka-148913/) · `en`
-
-ECONOMYNEXT – Prime Minister of Thailand Srettha Thavisin will visit Sri Lanka on Feburary 3 and 4 and will also witness the signing of a free trade agreement, the Foreign Ministry said.
-
-The agreement will be signed by Trade Minister Nalin Fernando on the Sri Lankan side and Deputy Prime Minister and Minister of Commerce Phumtham Wechayachai on the Thai said.
-
-Prime Minister Thavisin will be Guest of Honour at Sri Lanka’s Independence Day celebrations on February 4.
-
-The Sri Lanka – Thailand Free Trade Agreement (SLTFTA) is expected to boost trade and investment ties between the two countries and promote integration with ASEAN economies.
-
-The two countries will also renew the Air Services Agreement and conclude a Memorandum of Understanding between the Gem and Jewellery Research and Training Institute of Sri Lanka and The Gem and Jewelry Institute of Thailand.
-
-...
-
-[Data](articles/bec4b60d.json)
-
-[Extended Data](ext_articles/bec4b60d.ext.json)
-
----
-
-### Six students arrested over ragging incident at Sabaragamuwa University
-
-*2024-01-29 10:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/six-students-arrested-over-ragging-incident-at-sabaragamuwa-university/) · `en`
-
-COLOMBO (News 1st); Six university students have been arrested in connection with an incident of ragging a female student at the Sabaragamuwa University.
-
-Police say a group of fourth-year students of the Faculty of Social Sciences and Language Studies were arrested in connection with the incident following an investigation conducted by the Samanala Wewa Police, based on a complaint received via the 1997 hotline on the 14th of January.
-
-The arrested students are 23, 24, and 25-year-old residents of Morawaka, Ruggahawila, Imaduwa and Kitalawa.
-
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
-
-◼️
-
-[Data](articles/57022f4c.json)
-
-[Extended Data](ext_articles/57022f4c.ext.json)
-
----
-
-### Malaysia’s former Finance Minister charged with corruption after Pandora Papers probe
-
-*2024-01-29 10:01:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/malaysia-s-former-finance-minister-charged-with-corruption-after-pandora-papers-probe/) · `en`
-
-Colombo (News 1st) – Malaysia's former Finance Minister Daim Zainuddin, a key ally of ex-prime minister Mahathir Mohamad, was on Monday (29th) charged with corruption after an investigation by the Malaysian Anti-Corruption Commission (MACC) into revelations from the Pandora Papers, Malaysian media reported.
-
-Zainuddin was charged with failing to declare his assets, which are said to include 38 companies, 25 properties and a fleet of luxury vehicles that include a Rolls Royce, three Mercedes Benzes, and a Jaguar. Last month the MACC seized a 60-storey building in Kuala Lumpur, the Ilham Tower.
-
-Zainuddin, who is 85, pleaded not guilty and was released on bail. If convicted, he faces up to five years in prison. He served as Finance Minister from 1984-91 and again from 1999-2001.
-
-Malaysia’s current PM Anwar Ibrahim, a bitter rival of Mahathir, has vowed to crack down on corruption, but has been accused of using anti-corruption laws against political rivals.
-
-...
-
-[Data](articles/bf90dc43.json)
-
-[Extended Data](ext_articles/bf90dc43.ext.json)
-
----
-
-### Thai PM to visit Sri Lanka this weekend
-
-*2024-01-29 10:00:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/thai-pm-to-visit-sri-lanka-this-weekend/) · `en`
-
-COLOMBO (News 1st); Thailand's Prime Minister Srettha Thavisin will engage in a two-day official visit to Sri Lanka from 3rd February, said the Department of Government Information.
-
-Earlier it was reported that, Thailand Prime Minister Srettha Thavisin will travel to Sri Lanka to sign a free trade agreement (FTA) in February following the latest round of talks between the two countries.
-
-Chotima Iemsawasdikul, the director-general of the Thai Commerce Ministry's Department of Trade Negotiations told the media that Sri Lanka hosted the ninth round of FTA negotiations with Thailand on Dec 18–20.
-
-FTA negotiations between the countries resumed in November after they were put on hold for four years due to the Covid-19 pandemic and ongoing restructuring of Sri Lanka's government agencies.
-
-...
-
-[Data](articles/35b4741d.json)
-
-[Extended Data](ext_articles/35b4741d.ext.json)
-
----
-
-### 30 percent of children in Sri Lanka miss out on pre-school -Minister
-
-*2024-01-29 09:59:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/30-percent-of-children-in-sri-lanka-miss-out-on-pre-school-minister/) · `en`
-
-COLOMBO (News 1st); Minister of Education Dr. Susil Premajayantha said 30 percent of children who have reached the age of 4 years do not attend pre-school in Sri Lanka.
-
-The Education Minister said early childhood development is crucial for children.
-
-He stressed that much attention is paid globally to early childhood development adding however that it is not the case in Sri Lanka.
-
-The Minister says the government aims to ensure that all children who are four years of age attend pre-school, prior to being admitted to Grade 1, and will look to bring all pre-schools under one framework.
-
-Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
-
-◼️
-
-[Data](articles/8bfa1186.json)
-
-[Extended Data](ext_articles/8bfa1186.ext.json)
-
----
-
-### Drone attack on Syrian army base
-
-*2024-01-29 09:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192688) · `si`
-
-Three US soldiers were killed in a drone attack in Syria.
-
-Foreign media reports that the drone attack targeting a Syrian army base.
-
-A few American soldiers deployed under the International Security Program have also been staying in the camp.
-
-It is the first time US soldiers have died in an attack on the Middle East after the commencement of Israeli Hamas.
-
-◼️
-
-[Data](articles/039f9ef8.json)
-
-[Extended Data](ext_articles/039f9ef8.ext.json)
 
 ---

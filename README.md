@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 19:32:46**
+As of **2024-01-29 19:49:53**
 
 ## Newspaper Stats
 
-*Scraped **3,336** Articles*
+*Scraped **3,337** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 307
 adaderanasinhalalk | 353
 virakesarilk | 362
 tamilmirrorlk | 420
-adaderanalk | 428
+adaderanalk | 429
 dailymirrorlk | 454
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,334 (99.9%) of 3,336 articles have been extended.
+3,336 (100.0%) of 3,337 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
+
+### ICJ to rule on jurisdiction in Russia-Ukraine genocide case
+
+*2024-01-29 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96830/icj-to-rule-on-jurisdiction-in-russia-ukraine-genocide-case) · `en`
+
+The United Nations’ highest court will rule on Friday whether it will hear a case in which Ukraine has accused Russia of violating international law by saying its invasion was launched to stop an alleged genocide.
+
+Ukraine brought the case at the International Court of Justice (ICJ), also known as the World Court, days after Russian President Vladimir Putin ordered tens of thousands of troops into Ukraine on Feb. 24, 2022.
+
+In hearings in September, lawyers for Moscow urged judges to throw out the case, saying Kyiv’s legal arguments were flawed. The ICJ on Monday said a ruling on Russia’s objections to the court’s jurisdiction will be handed down on Friday.
+
+Kyiv says Russia is breaching the 1948 Genocide Convention by saying the invasion was justified to stop an alleged genocide of Russian speakers in eastern Ukraine.
+
+Ukraine says there was no risk of genocide in eastern Ukraine, where it had been fighting Russian-backed forces since 2014.
+
+...
+
+[Data](articles/63d35004.json)
+
+---
 
 ### "Imagine how it would be"
 
@@ -192,6 +212,8 @@ The Government Alliance Executive Committee today held a protest in front of the
 
 [Data](articles/62d3f889.json)
 
+[Extended Data](ext_articles/62d3f889.ext.json)
+
 ---
 
 ### Local, foreign government representatives meet
@@ -203,6 +225,8 @@ The Second Diplomatic Buddhist Convention of the Sri Lankan Bhikkhu Association 
 ◼️
 
 [Data](articles/8d7200d6.json)
+
+[Extended Data](ext_articles/8d7200d6.ext.json)
 
 ---
 
@@ -2061,19 +2085,5 @@ The State Minister stated that the real estate tax is a direct tax and that the 
 [Data](articles/8f7d8d28.json)
 
 [Extended Data](ext_articles/8f7d8d28.ext.json)
-
----
-
-### Lohan Ratwatte gets new portfolio
-
-*2024-01-29 11:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lohan-Ratwatte-gets-new-portfolio/108-275908) · `en`
-
-Colombo, Jan. 29 (Daily Mirror)- Lohan Ratwatte has been sworn in before President Ranil Wickremesinghe as the State Minister of Plantation Industries and Mahaweli Development at the Presidential Secretariat this morning, the President's Media Division (PMD) said.
-
-◼️
-
-[Data](articles/63288c6c.json)
-
-[Extended Data](ext_articles/63288c6c.ext.json)
 
 ---

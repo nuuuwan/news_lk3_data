@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 16:17:24**
+As of **2024-01-29 16:32:37**
 
 ## Newspaper Stats
 
-*Scraped **3,296** Articles*
+*Scraped **3,303** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,70 +13,184 @@ bbccomsinhala | 55
 dbsjeyarajcom | 125
 economynextcom | 177
 islandlk | 185
-newsfirstlk | 198
+newsfirstlk | 199
 dailyftlk | 223
 adalk | 302
 adaderanasinhalalk | 350
-virakesarilk | 359
-tamilmirrorlk | 410
+virakesarilk | 360
+tamilmirrorlk | 414
 adaderanalk | 425
-dailymirrorlk | 444
+dailymirrorlk | 445
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,291 (99.8%) of 3,296 articles have been extended.
+3,296 (99.8%) of 3,303 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### කොළඹට එන සියලුදෙනාට දැනුම්දීමක්
+### Notice to everyone in Colombo
 
 *2024-01-29 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192704) · `si`
 
-76 වන ජාතික නිදහස් දින උත්සවය හා එහි පෙරහුරු පැවැත්වෙන දිනයන්හිදී කොළඹ නගරය ආශ්‍රිතව විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක වන බව පොලීසිය පවසයි.
+A special traffic plan in Colombo town will be operated along the 76th Independence Day Ceremony and its rehearsals.
 
-ඒ අනුව පෙරහුරු පැවැත්වෙන දිනවල පෙරවරු 6 සිට දහවල් 12 දක්වා සහ නිදහස් සැමරුම වෙනුවෙන් 03 වනදා පස්වරු 2 සිට 04 වනදා නිදහස් සැමරුම අවසන් වනතුරු ක්‍රියාත්මක වන රථවාහන සැලැස්ම පහතින්.
+The traffic plan is to be implemented on 6th to 4 pm and the free celebration of the Independence Day celebrations on the 4th to 12 noon.
 
 ◼️
 
 [Data](articles/2f122253.json)
 
+[Extended Data](ext_articles/2f122253.ext.json)
+
 ---
 
-### ஸ்ரீ சண்முகா இந்து மகளிர் கல்லூரியின் காணிப்பிரச்சினைக்குத் தீர்வை பெற்றுக்கொடுத்த கிழக்கு ஆளுநர் செந்தில் தொண்டமான்!
+### சாந்தனின் உடல்நிலையை கருத்தில் கொண்டு அவரை குடும்பத்தினருடன் இணைப்பதற்கான நடவடிக்கைகளை இந்திய இலங்கை அரசாங்கங்கள் எடுக்கவேண்டும் - தமிழ்தேசிய மக்கள் முன்னணி
+
+*2024-01-29 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175075) · `ta`
+
+சாந்தனின் உடல் நிலையை கருத்தில்கொண்டும் இந்த அவசர சூழ்நிலையை கருத்தில் கொண்டும் இந்திய அரசும் மத்திய அரசும் தமிழக அரசும் இலங்கை அரசும் உடனடியாக நடவடிக்கைகளை எடுக்கவேண்டும் என தமிழ்தேசிய மக்கள் முன்னணி வேண்டுகோள் விடுத்துள்ளது.
+
+முன்னாள் இந்திய பிரதமர் ராஜீவ்காந்தி கொலை வழக்கில் நீண்டகாலமாக சிறைத்தண்டனை அனுபவித்தவர்கள் இந்திய உச்சநீதிமன்றத்தால் விடுதலை செய்யப்பட்டபோதும் அவர்கள் சிறப்பு முகாமில் தடுத்துவைக்கப்பட்டு சிறைக்கைதிகள் போல தமது வாழ்வை அனுபவித்து வருகின்றார்கள்.இவர்களில் இலங்கையை சேர்ந்தவர்கள் தாங்கள் இலங்கைக்கு சென்று குடும்பத்தவர்களுடன் இணைந்து வாழகோரிக்கை விடுத்துள்ள போதிலும் இன்றுவரை அவர்களின் கோரிக்கைகள் நிறைவேற்றப்படவில்லை.
+
+இந்த நிலையில் சாந்தன் குடும்பத்தினரின் வேண்டுகோளிற்கு இணங்க தமிழ்தேசிய மக்கள் முன்னணி மூன்றாம் திகதி இந்திய துணைத்தூதுவரை சந்தித்த இந்திய உயர்நீதிமன்றத்தினால் விடுதலை செய்யப்பட்டவர்கள் தங்கள் குடும்பத்துடன் இணைந்து வாழவழிசெய்யவேண்டும் என வேண்டுகோள் விடுத்திருந்தது.
+
+...
+
+[Data](articles/c1f78e71.json)
+
+---
+
+### நாளை கொழும்பில் எதிர்ப்பு பேரணி
+
+*2024-01-29 15:52:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-கொழும்பில்-எதிர்ப்பு-பேரணி/175-332284) · `ta`
+
+பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தி, நாளை (30) கொழும்பில் மாபெரும் கண்டன ஆரப்பாட்ட பேரணியை நடத்தவுள்ளதாக அறிவித்துள்ளது.
+
+வாழ்க்கைச் செலவு அதிகரிப்பு உட்பட பல பிரச்சினைகளை முன்னிறுத்தி அரசாங்கத்துக்கு எதிராக இந்த போராட்டம் முன்னெக்கப்படுவதாக பாராளுமன்ற உறுப்பினர்  எஸ்.எம் மரிக்கார் தெரிவித்துள்ளார்,
+
+போராட்டம் மற்றும் பொதுக்கூட்டம் நடைபெறும் இடம் பின்னர் அறிவிக்கப்படும் என்றும் அவர் கூறினார்.
+
+◼️
+
+[Data](articles/a97930db.json)
+
+---
+
+### BREAKING: Sri Lankan Fishermen Freed from Armed Group
+
+*2024-01-29 15:51:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/breaking-sri-lankan-fishermen-freed-from-armed-group/) · `en`
+
+COLOMBO (News 1st); Six Sri Lankan fishermen who were reportedly captured and detained by an armed group have been rescued.
+
+This was confirmed to News 1st by the Sri Lanka Navy, and the fishermen had set out to sea aboard the vessel named 'Lorenzo Putha 4'.
+
+The Navy Spokesperson said that the rescued Sri Lankan fishermen are being escorted to the capital of Seychelles.
+
+The Security Forces of Seychelles carried out a rescue operation following the intervention made by the Sri Lanka Navy.
+
+The Sri Lanka Navy noted that three members of the armed group had surrendered to the Seychelles Security Forces.
+
+The 'Lorenzo Putha 4' vessel had set out to sea from the Dikowita Fisheries Harbour on the 12th of January, marking its maiden voyage.
+
+The crew comprised six fishermen from Marawila, Chilaw, and three of them are from the same family.
+
+Talk of The Town | The Key to Sri Lanka’s Revival | Amita Arudpragasam | 29th January 2024
+
+◼️
+
+[Data](articles/2c299b04.json)
+
+---
+
+### சஜித்துடன் இணைந்தார் ஜெனரல் தயா ரத்நாயக்க
+
+*2024-01-29 15:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்தார்-ஜெனரல்-தயா-ரத்நாயக்க/175-332282) · `ta`
+
+ஓய்வுபெற்ற இலங்கை இராணுவ ஜெனரல் தயா ரத்நாயக்க, பிரதான எதிர்க்கட்சியான ஐக்கிய மக்கள் சக்தியுடன் இணைந்துள்ளார்.
+
+இன்று ( 29) எதிர்க்கட்சி தலைவரான சஜித் பிரேமதாசவை சந்தித்ததன் பின்னர் ஓய்வுபெற்ற ஜெனரல் தனது ஆதரவை வழங்குவதாக அறிவித்துள்ளார்.
+
+இந்த சந்திப்பின் போது, சஜித் பிரேமதாச, ஐக்கிய மக்கள் சக்தியின் பொது கொள்கை தொடர்பான சிரேஷ்ட ஆலோசகராக தயா ரத்நாயக்கவை நியமித்தார்.
+
+முன்னாள் ஜனாதிபதி கோட்டாபய ராஜபக்ஷவின் அரசாங்கத்தின் கீழ், இலங்கை துறைமுக அதிகார சபையின் தலைவராகவும் கைத்தொழில் அமைச்சின் செயலாளராகவும் தயா ரத்நாயக்க பணியாற்றினார்.
+
+◼️
+
+[Data](articles/70702cdb.json)
+
+---
+
+### Eastern Governor Senthil Thondaman who has resolved the land issue of Sri Shanmuga Hindu Ladies College!
 
 *2024-01-29 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175071) · `ta`
 
-திருகோணமலை ஸ்ரீ சண்முகா இந்து மகளிர் கல்லூரி 100 வருட வரலாறு கொண்டது. அக்கல்லூரியில் நீண்டகாலமாக நிலவிவந்த காணி பிரச்சினைக்கு கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமான் தீர்வை பெற்றுக்கொடுத்துள்ளார்.
+Sri Shanmuga Hindu Women's College, Trincomalee has a 100 year history. Eastern Province Governor Senthil Thondaman has given a solution to the long -standing land issue in the college.
 
-ஸ்ரீ சண்முகா இந்து மகளிர் கல்லூரியில் கடந்த பத்து வருடங்களாக காணிப் பிரச்சினை நிலவி வருகிறது. இதுதொடர்பில் கடந்தகாலங்களில் பாடசாலை நிர்வாகம் பல தரப்பினரிடம் தீர்வை பெற்றுக்கொள்ள முற்பட்டுள்ள போதிலும் அது சாத்தியப்படவில்லை.
+Sri Shanmuga Hindu Women's College has been on land issue for the past ten years. In this regard, the school administration has sought to find a solution to many sides, but it is not possible.
 
-இந்நிலையில், கிழக்கு மாகாண ஆளுநர் செந்தில் தொண்டமானின் கவனத்துக்கு இந்த விடயம் கொண்டுவரப்பட்டதை தொடர்ந்து இதற்கு 30 வருட குத்தகைக்கு புதிய காணியை பெற்றுக்கொடுத்துள்ளதுடன், 30 வருடத்துக்கான குத்தகை தொகையையும்  வழங்க ஏற்பாடு  செய்துள்ளார்.
+In this backdrop, the Eastern Province Governor Senthil Thondaman has issued a new land for a 30 -year lease and has arranged for a 30 -year lease.
 
-கிழக்கு ஆளுநரின் இந்த செயல்பாட்டை வரவேற்றுள்ள பாடசாலை நிர்வாகம், பழைய மாணவர்கள் மற்றும் பெற்றோர்கள், அவருக்கு வாழ்த்துகளையும் பாராட்டுகளையும் தெரிவித்துள்ளனர்.
+The school administration, who has welcomed this function of the Eastern Governor, congratulated him and congratulations to him.
 
 ...
 
 [Data](articles/314b0cda.json)
 
+[Extended Data](ext_articles/314b0cda.ext.json)
+
 ---
 
-### தாய்லாந்து பிரதமர் இலங்கைக்கு விஜயம்
+### சிசிடிவியால் சிக்கிய 610 சாரதிகள்
+
+*2024-01-29 15:43:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிசிடிவியால்-சிக்கிய-610-சாரதிகள்/175-332280) · `ta`
+
+பொலிஸாரால் அறிமுகப்படுத்தப்பட்ட சிசிடிவி கண்காணிப்பு திட்டத்தின் கீழ் கடந்த வாரத்தில் போக்குவரத்து விதிமீறல்களுக்காக கிட்டத்தட்ட 610 சாரதிகள் இனங்காணப்பட்டுள்ளனர்.
+
+வீதி விதிகளை மீறும் வாகன சாரதிகளைக் கண்டறியும் CCTV வேலைத்திட்டம் பதில் பொலிஸ் மா அதிபர் தேசபந்து தென்னகோன் தலைமையில் கடந்த திங்கட்கிழமை ( 22) கொழும்பில் ஆரம்பிக்கப்பட்டது.
+
+நேற்றிரவு முடிவடைந்த ஒரு வாரத்துக்குள், வீதி விதிகளை மீறிய 610 வாகன சராதிகளை பொலிஸார் அறிவுரை கூறி விடுவித்துள்ளனர்.
+
+எவ்வாறாயினும், 2024 பெப்ரவரி 01 ஆம் திகதி  முதல் போக்குவரத்து குற்றங்களுக்கு அபராதம் விதிக்கப்படும் என பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/b6e45bf0.json)
+
+---
+
+### 2023 இல் ஏற்றுமதி வருவாய் 14.94 பில்லியன் டொலர்
+
+*2024-01-29 15:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2023-இல்-ஏற்றுமதி-வருவாய்-14-94-பில்லியன்-டொலர்/175-332279) · `ta`
+
+கடந்த வருடம் நாட்டின் மொத்த ஏற்றுமதி வருமானம் 14.94 பில்லியன் அமெரிக்க டொலர் என, ஏற்றுமதி அபிவிருத்திச் சபை தெரிவித்துள்ளது.
+
+அத்துடன்ன, 2023 டிசெம்பர் மாதத்தில் இலங்கையின் பொருட்கள் ஏற்றுமதி 947.5 மில்லியன் அமெரிக்க டொலர் ஆகும்.
+
+◼️
+
+[Data](articles/1c4970a4.json)
+
+---
+
+### Thailand's Prime Minister visits Sri Lanka
 
 *2024-01-29 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175064) · `ta`
 
-ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் அழைப்பின் பேரில் தாய்லாந்து பிரதமர் ஸ்ரேத்தா தவிசின் இரண்டு நாள் உத்தியோகபூர்வ விஜயத்தை மேற்கொண்டு எதிர்வரும் பெப்ரவரி மாதம் 03 ஆம் திகதி  நாட்டிற்கு வருகை தரவுள்ளதாக வெளிவிவகார அமைச்சு தெரிவித்துள்ளது.
+At the invitation of President Ranil Wickremesinghe, Thailand Prime Minister Shreta Davis will visit the country on February 3, the Foreign Ministry said.
 
-இலங்கையின் 76வது சுதந்திர தினத்தை முன்னிட்டு நடைபெறும் விழாவில் அதிதியாக தாய்லாந்து பிரதமர் பங்கேற்கவுள்ளார்.
+The Prime Minister of Thailand will be the guest at the ceremony on the 76th Independence Day of Sri Lanka.
 
-இந்த விஜயத்தின் போது, தாய்லாந்து பிரதமர், ஜனாதிபதி விக்கிரமசிங்கவுடன் உத்தியோகபூர்வ கலந்துரையாடல்களை மேற்கொள்வதுடன், வரலாற்று சிறப்புமிக்க இலங்கை - தாய்லாந்து சுதந்திர வர்த்தக உடன்படிக்கையில் (SLTFTA) கைச்சாத்திடவுள்ளதாக வெளிவிவகார அமைச்சு மேலும் தெரிவித்துள்ளது.
+During the visit, the Prime Minister of Thailand will hold official discussions with President Wickremesinghe and sign the historic Sri Lanka -Thailand Free Trade Agreement (SLTFTA).
 
 ◼️
 
 [Data](articles/8239b882.json)
+
+[Extended Data](ext_articles/8239b882.ext.json)
 
 ---
 
@@ -104,17 +218,19 @@ He said that if I was in the White House, the current wars would have never been
 
 ---
 
-### 2023 අපනයන ආදායම ඩොලර් බි 14.94යි
+### 2023 Export Income dollars bolk 14.94
 
 *2024-01-29 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192703) · `si`
 
-පසුගිය වසරේ මෙරට සමස්ත අපනයන ආදායම අමෙරිකානු ඩොලර් බිලියන 14.94ක් බව අපනයන සංවර්ධන මණ්ඩලය පවසයි.
+The export earnings of the country was $ 14.94 billion last year, the Export Development Board said.
 
-2023 වසරේ දෙසැම්බර් මාසයේදී ශ්‍රී ලංකාවේ භාණ්ඩ අපනයනය අමෙරිකානු ඩොලර් මිලියන 947.5 ක් බවද එහි සඳහන්.
+The exports of goods in Sri Lanka is $ 947.5 million in December 2023.
 
 ◼️
 
 [Data](articles/33ab690d.json)
+
+[Extended Data](ext_articles/33ab690d.ext.json)
 
 ---
 
@@ -426,6 +542,28 @@ As a personal reason, Ts. the ti-past-week resigned T. Kaluarachchi's full progr
 
 ### Will defy all laws and begin another Aragalaya tomorrow: SJB
 
+*2024-01-29 13:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Will-defy-all-laws-and-begin-another-Aragalaya-tomorrow-SJB/155-275914) · `en`
+
+Colombo, Jan 29 (Daily Mirror) -  The Samagi Jana Balawegaya (SJB) will not take notice of any restrictions but will take to the streets tomorrow and fire the first shot towards overthrowing the present government, SJB General Secretary Ranjith Madduma Bandara said today.
+
+“The IGP or anyone else can impose any restriction but we will defy all laws and bring 50,000 people to Colombo tomorrow,” Madduma Bandara told a media briefing.
+
+“It was the SJB which pioneered the uprising in 2022 and we intend to do the same this time as well,” Madduma Banadara added.
+
+“We will not disclose where we will march towards now, but we will reveal it at the correct time tomorrow,” he added.
+
+Former MP Hirunika Premachandra who also participated in the briefing said the protest will be against suppressive legislations such as the Anti-Terrorism Bill, Online Safety Bill and increased taxes.
+
+“We will disclose where we are going  to surround at the right time,” she also said
+
+◼️
+
+[Data](articles/6c332996.json)
+
+---
+
+### Will defy all laws and begin another Aragalaya tomorrow: SJB
+
 *2024-01-29 13:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Will-defy-all-laws-and-begin-another-Aragalaya-tomorrow-SJB/108-275914) · `en`
 
 Colombo, Jan 29 (Daily Mirror) -  The Samagi Jana Balawegaya (SJB) will not take notice of any restrictions but will take to the streets tomorrow and fire the first shot towards overthrowing the present government, SJB General Secretary Ranjith Madduma Bandara said today.
@@ -692,19 +830,25 @@ He will also participate in a official discussion with President Ranil Wickremes
 
 ---
 
-### ඖෂධ වංචාව සම්බන්ධයෙන් කෙහෙළියගේ කැබිනට් පත්‍රිකා ගැන විර්ශන අරඹයි
+### Engkk Keheliya's cabinet leaflets begins on drug fraud
 
 *2024-01-29 12:28:01* · [`adalk`](https://www.ada.lk/breaking_news/ඖෂධ-වංචාව-සම්බන්ධයෙන්-කෙහෙළියගේ-කැබිනට්-පත්‍රිකා-ගැන-විර්ශන-අරඹයි/11-407773) · `si`
 
-ඉතාම හදිසි කටයුත්තක් වශයෙන් ඉන්දියාණු ණය යෝජනා ක්‍රමය යටතේ මෙරටට ඖෂධ ගෙන්වීමේ සිද්ධියට අදාළව විමර්ශන පවත්වන රහස් පොලිස් නිලධාරීන් විසින් හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ අමාත්‍ය කාර්යාලයේ තිබී බාරයට ගත් කැබිනට් සංදේශවල කිසිඳු කාර්්‍ය සටහනක් ඇතුලත් නොවීම සම්බන්ධයෙන් විමර්ශන ආරම්භ කර ඇත.
+Investigations have commenced in relation to the Body of Health Minister Keheliya Rambukwella, Minister of Health, Keheliya Rambukwella, who was involved in the House of Health Minister Keheliya Rambukwella under the Indian Cabinet Scheme.
 
-කෙහෙළිය රඹුක්වැල්ල මහතාගේ කාර්යාලයේ තිබී රහස් පොලිස් බාරයට ගත් අනෙකුත් කැබිනට් සංදේශ අඩංගු ලිපි ගොනුවල සාමාන්‍ය අන්දමට කාර්්‍ය සටහන් යොදා ඇතත් බාල බෙහෙත් ගණුදෙණුවට අදාළ කැබිනට් සංදේශ අඩංගු ලිපි ගොනුවල කිසිඳු කාර්්‍ය සටහනක් නොමැති වීම සම්බන්ධයෙන් විමතියට පත් රහස් පොලිස් නිලධාරීහු මෙම් සම්බන්ධයෙන් විමර්ශන ආරම්භ කර ඇත.
+The CID is generally used in the Secretariat of Keheliya Rambukwella and the other cabinet memorandum taken into the secretary transferator.
 
-හිටපු සෞඛ්‍ය අමාත්‍ය කෙහෙළිය රඹුක්වැල්ල මහතාගේ අමාත්‍ය කාර්යාලයේ තිබී රහස් පොලිස් බාරයට ගත් 2022 මැයි 30” 2022 සැප්තැම්බර් 27” 2022 ඔක්තෝම්බර් 25 සහ 2022 දෙසැම්බර් 05 වැනිදාතමින් යුත් කැබිනට් සංදේශ අඩංගු ලිපි ගොනුවල කිසිඳු කාර්්‍ය සටහනක් නොමැති බවද රහස් පොලිස් ආරංචි මාර්ග සඳහන් කරයි.
+CID sources said that the Criminal Police Abhorrently in the minister's Office of the Minister of Health, Keheliya Rambukwella, October 25, 2022 and December 05, 2022, there is no such honote.
 
-...
+The complaint was received by the Deputy Solicitor Magistrate Lokinant Lakhatagama, a request to the CID, has been handed over to the Cabinet Memorandum of the complaint at the court when he was summoned in court.The Cabinet Sandesha is handed over to the CID.
+
+The CID has commenced investigations into the matter due to revealing that there is no such architecture in the cabinet memoirs.
+
+◼️
 
 [Data](articles/694f0192.json)
+
+[Extended Data](ext_articles/694f0192.ext.json)
 
 ---
 
@@ -1903,145 +2047,5 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 [Data](articles/948dee8f.json)
 
 [Extended Data](ext_articles/948dee8f.ext.json)
-
----
-
-### Rs. 3000 million labor launches multiple transport center construction
-
-*2024-01-29 09:04:09* · [`adalk`](https://www.ada.lk/breaking_news/රු--කෝටි-3000ක-ණයකින්-මහනුවර-බහුවිධ-ප්‍රවාහන-මධ්‍යස්ථානයේ-ඉදිකිරීම්-අරඹයි/11-407766) · `si`
-
-Rs. The Kandy Multiple Transport Commission (KMDY Multimodale Transit) of the Kandy Bank Loan (KMTMODALE Transit) was held under the patronage of the Kandy Multimodale Transit Terminal.
-
-The main objective of the KMTT project is being carried out under the main objective of the KMTT project at the same roof, located at the Kandyadway to the Kandy Campaign at Kandy.It is to reduce the travels between the streets of the city, to obtain public transport services.
-
-Passengers traveling to the Kandy General Hospital and the track of the flyy bridge, consolidating Sirimavo Bandaranaike Mawatha and William Gopallawa Mawatha, the flyover, passengers can easily travel in a short time. In addition, termination is an internal access road and the Glows flowing across the Goodzid Bus Stand.
-
-...
-
-[Data](articles/fbd3ccf3.json)
-
-[Extended Data](ext_articles/fbd3ccf3.ext.json)
-
----
-
-### 6 university students arrested for sharing a student
-
-*2024-01-29 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175025) · `ta`
-
-Six students have been arrested by the Samanalawewa police for sharing an educated student at the University of Sabaragamuwa.
-
-The suspects have been arrested following an investigation by the Samanalawewa police on the basis of a complaint received by the telephone number '1997' on the 14th.
-
-The arrested suspects have been identified as the fourth -year students of the University's Social Sciences and Languages Faculty.
-
-The six students were arrested on Sunday (28) when they visited the Samanalawewa police station.
-
-Students aged 23, 24 and 25 from Morawaga, Rukuhawa, Alutarama, Imamuwa and Kitalawa have been arrested.
-
-◼️
-
-[Data](articles/17279136.json)
-
-[Extended Data](ext_articles/17279136.ext.json)
-
----
-
-### Chamara Weerasinghe discharged from hospital
-
-*2024-01-29 08:58:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chamara-Weerasinghe-discharged-from-hospital/108-275876) · `en`
-
-Colombo, Jan 29 (Daily Mirror) - Renowned vocalist Chamara Weerasinghe, who was receiving treatment at the Colombo South Teaching Hospital has recovered and been discharged from the hospital.
-
-Weerasinghe spent close to 40 days under medical care, initially having been admitted to the Kalubowila Hospital due to respiratory issues last month.
-
-Sources from the hospital said that he underwent two surgeries, addressing complications in both the throat and abdomen.
-
-Despite his recovery, doctors have advised Weerasinghe should continue to rest even though he has recovered.
-
-◼️
-
-[Data](articles/84139c35.json)
-
-[Extended Data](ext_articles/84139c35.ext.json)
-
----
-
-### Thai Prime Minister is as the chief guest of the Independence Day
-
-*2024-01-29 08:55:25* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-උත්සවයේ-ප්‍රධාන-අමුත්තා-ලෙස-තායිලන්ත-අගමැති-එයි/11-407765) · `si`
-
-Thai Prime Minister Desmah Samavi Tissue is on a two-day official visit to Sri Lanka on February 03-204 of President Ranil Wickremesinghe.The Prime Minister will participate in the 76th Independence Day of Sri Lanka.
-
-During the visit, the Thai Prime Minister is scheduled to hold official talks with President Ranil Wickremesinghe and is to monitor the Sri Lanka-Thailand agreement.
-
-The Free Trade Agreement signed by Deputy Prime Prime Minister and Commerce Minister of Commerce, Commerce, Commercial and Food Security Minister Nalin Fernando.
-
-The Sri Lanka-Thailand Agreement is expected to increase trade and investment relations between the two countries.
-
-The two parties are expected to renew the current aviation agreement between the two countries and a Memorandum of Understanding between Thailand Menik and Jewelery Institute.
-
-...
-
-[Data](articles/60671e3f.json)
-
-[Extended Data](ext_articles/60671e3f.ext.json)
-
----
-
-### Negotiations with Somali Navy to free Sri Lankan fishermen
-
-*2024-01-29 08:32:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/negotiations-with-somali-navy-to-free-sri-lankan-fishermen/) · `en`
-
-COLOMBO (News 1st); The Sri Lanka High Commission in Kenya said negotiations are ongoing with the Somali Navy for the safe release of the fishermen of 'Lorenzo Putha 04', who were abducted by Somali pirates.
-
-Sri Lankan High Commissioner to Kenya V. Kananathan said the High Commission along with the Sri Lankan Mission in Ethiopia is actively engaged in a close collaboration with the Navy Chief of Somalia Admiral Abdiwarsame Osman to secure the safe release of the Sri Lankan nationals.
-
-The High Commission said the latest information as per the Somali Navy Chief Admiral Osman is that he has informed the European Union Navy Joint Operations Center (EU Navy JOC) through their Liaison Officer about the ongoing efforts to address the situation and ensure the safe return of the abducted Sri Lankans.
-
-He said the collaborative efforts between the Sri Lankan and Somali authorities demonstrate a commitment to maritime security and the safety of individuals affected by acts of piracy.
-
-...
-
-[Data](articles/9122241f.json)
-
-[Extended Data](ext_articles/9122241f.ext.json)
-
----
-
-### Increase in accidents
-
-*2024-01-29 08:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192685) · `si`
-
-Medical Society Head of the Ministry of Health, Special Association, Special Association, Special Association, Specialists Specialist Special Slitunga, Head of the Non-Based Collection of the Ministry of Health
-
-He points out that the insecurity of driving is due to these accidents.
-
-"We have seen in particular with a relatively increase in traffic accidents in highways. The reason for that is the insecurity of people's driving. It is because the vehicle is on high speed. The main reason is that in an emergency, the time of stopping the vehicle, or the time may reduce the time. "
-
-Avoidance to prevent everyone should focus on it, Specialist Samaithunga said.
-
-◼️
-
-[Data](articles/42d01cbc.json)
-
-[Extended Data](ext_articles/42d01cbc.ext.json)
-
----
-
-### 17 trade unions today union action
-
-*2024-01-29 08:14:32* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/17-தொழிற்சங்கங்கள்-இன்று-தொழிற்சங்க-நடவடிக்கை/175-332255) · `ta`
-
-Officials of the State Executive Service Division have decided to announce the sickness holiday today and engage in trade union action.
-
-The united state executive officials said that the trade union action would be carried out on a number of demands, including resolving salary conflicts, raising basic pain and reducing the increased tax burden.
-
-Accordingly, 17 trade unions, including the State Engineers Association, Ayurvedic Officers Association, Veterinary Officers Association, Building Experts Association, Internal Income Tax Trade Union Union, Accountant Services Association will join the union action.. (A)
-
-◼️
-
-[Data](articles/ae27ac1c.json)
-
-[Extended Data](ext_articles/ae27ac1c.ext.json)
 
 ---

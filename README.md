@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 06:53:35**
+As of **2024-01-29 07:16:00**
 
 ## Newspaper Stats
 
-*Scraped **3,164** Articles*
+*Scraped **3,170** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,39 +16,61 @@ newsfirstlk | 184
 islandlk | 185
 dailyftlk | 223
 adalk | 288
-adaderanasinhalalk | 325
-virakesarilk | 330
-tamilmirrorlk | 395
+adaderanasinhalalk | 326
+virakesarilk | 331
+tamilmirrorlk | 396
 adaderanalk | 409
-dailymirrorlk | 430
+dailymirrorlk | 433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,161 (99.9%) of 3,164 articles have been extended.
+3,164 (99.8%) of 3,170 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### ප්‍රදේශ කිහිපයකට වැසි
+### සරසවි සිසුවියකට නවක වධය දුන් සිසුන් 6ක් අත්අඩංගුවට
+
+*2024-01-29 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192678) · `si`
+
+සබරගමුව විශ්වවිද්‍යාල සිසුවියකට නවක වධය ලබාදීමක් සම්බන්ධයෙන් එම විශ්වවිද්‍යාලයේ 04 වන වසරේ සිසුන් 06 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+
+මේ සම්බන්ධයෙන් පසුගිය 14 වනදා 1997 දුරකථන මධ්‍යස්ථානය වෙත ලද පැමිණිලක් මත සමනලවැව පොලිස් ස්ථානය විසින් විමර්ශනයක් සිදුකර එම සැකකරුවන් අත්අඩංගුවට ගෙන තිබිණි.
+
+එම සැකකාර සිසුන් සබරගමුව විශ්වවිද්‍යාලයේ සමාජ විද්‍යා හා භාෂා අධ්‍යාපන පීඨයේ සිසුන් පිරිසක් බව පොලීසිය පවසයි.
+
+ඔවුන් ඊයේ (28) සමනලවැව පොලිස් ස්ථානයට පැමිණිමෙන් පසු අත්අඩංගුවට ගෙන ඇත.
+
+අත්අඩංගුවට ගත් සිසුන් අවුරුදු 23, 24 සහ 25 වයස්වල පසුවන මොරවක, රුක්ගහවිල, අළුත්තරම, ඉමදුව හා කිතලව ප්‍රදේශයවල පදිංචිකරුවන් බව පොලීසිය සඳහන් කරයි.
+
+◼️
+
+[Data](articles/57aadaf0.json)
+
+---
+
+### Showers in several areas
 
 *2024-01-29 06:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192676) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+Showers will occur at times in the Eastern and Uva provinces, Polonnaruwa, Matale and Nuwara Eliya districts.
 
-එම දෙපාර්තමේන්තුව සඳහන් කරන්නේ, අනුරාධපුර, මුලතිව් සහ හම්බන්තොට දිස්ත්‍රික්කවල වැසි වාර කිහිපයක් ඇති විය හැකි බවය.
+The department states that the Anuradhapura, Mullaitivu and Hambantota districts can occur.
 
-බස්නාහිර සහ සබරගමුව පළාත්වලත් ගාල්ල, මාතර සහමහනුවර දිස්ත්‍රික්කවලත් ප.ව. 2.00න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+At the Western and Sabaragamuwa Province. Showers or thundershowers will occur at several places about 2.00.
 
-මධ්‍යම, ඌවසහවයඹ පළාත්වලත් හම්බන්තොට දිස්ත්‍රික්කයේත් විටින් විට හමන පැ.කි.මී. 40 ක පමණ තරමක තද සුළං ඇතිවිය හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+From the Hambantota district and occasionally, in the Hambantota district and in the Hambantota district.. The Department of Meteorology announces that there are about 40 feet of strong winds.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/bae9a7cd.json)
+
+[Extended Data](ext_articles/bae9a7cd.ext.json)
 
 ---
 
@@ -61,6 +83,70 @@ Nawaloka Laboratory has announced its achievement as the first laboratory in the
 ...
 
 [Data](articles/c7aebeb6.json)
+
+[Extended Data](ext_articles/c7aebeb6.ext.json)
+
+---
+
+### Horton and Arunachalam:  a Distinct Disparity in Significance
+
+*2024-01-29 04:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Horton-and-Arunachalam-a-Distinct-Disparity-in-Significance/172-275852) · `en`
+
+The Article titled ‘Choosing between Robert Wilmot Horton and Ponnambalam Arunachalam’ regarding the change of street name from Horton Place to Sir Ponnambalam Arunachalam Mawatha,’ which appeared on January 23rd, implies that both figures are equally important to Sri Lankans.
+
+The writer says, ‘…the change cannot take place without an acknowledgement of the contribution of Sir Robert Wilmot Horton to Ceylon.  Both Horton and Arunachalam contributed to Ceylon’s all-round development each in his own way and as per the opportunities available in their time. Sir Robert Wilmot Horton was Governor of Ceylon between 1831 and 1837, and Sir Ponnambalam Arunachalam, was a polymath, lawyer, educationist, public intellectual and political leader in the late nineteenth and early twentieth century…’
+
+...
+
+[Data](articles/85ff0812.json)
+
+---
+
+### The Online Safety Act; For Whose Safety? - EDITORIAL
+
+*2024-01-29 04:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Online-Safety-Act-For-Whose-Safety-EDITORIAL/172-275851) · `en`
+
+On 18 September 2023, the government gazetted a draft bill to establish an Online Safety Act with defined powers and functions. It was tabled in the Parliament on the 3rd of October 2023. The Act sets out to establish an ‘Online Safety Commission’ consisting of five members appointed by the Executive President of the country, with specific objectives.
+
+According to a survey carried out by Verité Research, 56% of those surveyed said the Online Safety Act would curtail the freedom of those using social media.
+
+The legislation was passed in Parliament on the 24th of this month (January).
+
+...
+
+[Data](articles/6574d984.json)
+
+---
+
+### Decoding Complexity: Implementing Systems Thinking in Decision-Making
+
+*2024-01-29 03:57:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Decoding-Complexity-Implementing-Systems-Thinking-in-Decision-Making/172-275850) · `en`
+
+Systems thinking has been an academic school of thought used in engineering, policy-making and more recently adapted by businesses to ensure the products and services are considering the ‘systems’ that they operate within.
+
+Further, it is a holistic approach to understanding and solving complex problems by considering the inter-relationships and the inter-dependencies within a system. When it comes to decision-making, a systems-thinking mindset can be highly beneficial.
+
+Despite strong interest, the relationship between systems thinking and complex decision-making has received consideration. With the use of a skill set called systems thinking, one can hope to better understand the deep roots of these complex behaviours to better predictions and ultimately adjust their outcomes.
+
+...
+
+[Data](articles/bec7d7fe.json)
+
+---
+
+### இந்திய - இலங்கை படகு சேவை அடுத்த மாதம் ஆரம்பம்
+
+*2024-01-29 02:28:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-இலங்கை-படகு-சேவை-அடுத்த-மாதம்-ஆரம்பம்/175-332237) · `ta`
+
+இந்தியா - இலங்கை இடையிலான பயணிகள் படகு சேவையை எதிர்வரும் 15 ஆம் திகதி முதல் மீண்டும் ஆரம்பிக்க திட்டமிடப்பட்டுள்ளது.
+
+இதற்கு இந்திய அரசின் அனுமதி கிடைத்துள்ளதாக துறைமுகங்கள், கப்பல் துறை மற்றும் விமான சேவைகள் அமைச்சு தெரிவித்துள்ளது.
+
+வட கிழக்கு பருவ மழையின் காரணமாக, இந்த  கப்பல் சேவையை ஒக்டோபர் 20 ஆம் திகதியுடன் தற்காலிகமாக நிறுத்துவதற்கு தீர்மானிக்கப்பட்டிருந்தது. (a)
+
+◼️
+
+[Data](articles/7f3153fc.json)
 
 ---
 
@@ -259,8 +345,6 @@ Reforms to stay course with bets on elections: First Capital Research
 In response to the growing demand for flexible workspaces, WORX Coworking proudly announces the inauguration of its latest coworking facility situated at No. 14 Gower Street, Colombo 05. As a frontrunner in providing innovative workspace solutions, WORX Coworking continues to redefine the professional landscape by expanding its footprint in the city.
 
 Strategically situated in a convenient Colombo neighbourhood, the Gower Street location marks WORX Coworking’s 4th property, reflecting its commitment to catering to the diverse needs of professionals in Sri Lanka. The state-of-the-art facility is strategically positioned to meet the demands of a dynamic workforce seeking flexible, inspiring environments.
-
-India gearing up Central Bank Digital Currency for cross-border payments
 
 Leave a Reply Cancel replyYour email address will not be published. Required fields are marked *Comment Name *
 
@@ -463,6 +547,26 @@ At least nine countries, including top donors the U.S. and Germany, have paused 
 [Data](articles/9ac35a5e.json)
 
 [Extended Data](ext_articles/9ac35a5e.ext.json)
+
+---
+
+### தமிழரசுக் கட்சியின் பொதுச்சபை கூட்டத்தின் போது கைகலப்பில் ஈடுபட்டோர் மீது ஒழுக்காற்று நடவடிக்கை
+
+*2024-01-28 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175014) · `ta`
+
+இலங்கைத் தமிழரசுக்கட்சியின் 17ஆவது தேசிய மாநாட்டின் பொதுச்சபைக் கூட்டத்தின் முதலாவது நாள் அமர்வின்போது பதவிநிலைத் தெரிவுகள் தொடர்பில் ஏற்பட்ட வாய்த்தக்கம் கைகலப்பில் முடிந்துள்ளது.
+
+இந்த சம்பவத்துடன் தொடர்புடைய அனைத்து பொதுச்சபை உறுப்பினர்கள் மீதும் ஒழுக்காற்று நடவடிக்கைகள் எடுக்கப்படவுள்ளதாக கட்சியின் புதிய தலைவர் சிவஞானம் சிறீதரன் அறிவித்துள்ளார்.
+
+குறிப்பாக, பொதுச்செயலாளராக சண்முகம் குகதாசன் நியமிக்கப்பட்டதை அடுத்து கட்சியின் திருகோணமலை மாவட்ட பொதுச்சபையின் சிரேஷ்ட உறுப்பினர்கள் சிலர் அதனை கடுமையாக விமர்சித்தார்கள்.
+
+விசேடமாக மத்திய குழுவில் தீர்மானத்தினை எடுத்ததன் பின்னர் அதனை அப்படியே ஏற்றுக்கொள்வதாக இருந்தால் பொதுச்சபையில் உறுப்பினர்களாக இருக்க வேண்டியதன் அவசியம் என்னவென்று கேள்விகளைத் தொடுத்தனர்.
+
+இந்த நிலைமையில், வாய்த்தர்க்கம் கடுமையானதில் திருகோணமலை மாவட்டத்தின் ஒரு குழுவினர் தர்க்கம் செய்த குழுவினர் மீது தாக்குதலை நடத்தியுள்ளனர். இதனால் கைகலப்பு உருவாகியிருந்தது.
+
+...
+
+[Data](articles/1692757c.json)
 
 ---
 
@@ -1813,127 +1917,5 @@ The New Unit Trust Fund, which is approved by the Sri Lanka Exchange and the Sec
 [Data](articles/664d6845.json)
 
 [Extended Data](ext_articles/664d6845.ext.json)
-
----
-
-### State Minister Sanath Nishantha’s funeral today
-
-*2024-01-28 13:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/State-Minister-Sanath-Nishanthas-funeral-today/108-275838) · `en`
-
-Colombo, Jan 28 (Daily Mirror) - The remains of State Minister of Water Supply, Sanath Nishantha, who died in a car accident on the Colombo-Katunayake expressway, will be cremated today (28) at the Roman Catholic Cemetery in Rajakadalu.
-
-His remains are placed in a temporary hall erected at his party office in the Arachchikattuwa area.
-
-From the time the remains were brought to the premises until now, a large number of politicians, friends and party members arrived to pay their last respects.
-
-Meanwhile, the last rites of the State Minister's security officer who died in the same car accident were performed yesterday (27) at the Kandy-Hadeniya-Maravanagoda Public Cemetery.
-
-Also, the mobile phone of the State Minister's driver has also been taken into police custody for investigations and Welisara Magistrate Thusitha Dhammika has ordered that he be remanded till February 5, after the Magistrate examined him. The driver is being treated at the Ragama Hospital.
-
-◼️
-
-[Data](articles/faf6c2ef.json)
-
-[Extended Data](ext_articles/faf6c2ef.ext.json)
-
----
-
-### Two families struggle in Keppapila!The reason for the recklessness of the police
-
-*2024-01-28 13:50:00* · [`virakesarilk`](https://www.virakesari.lk/article/174973) · `ta`
-
-Two families are engaged in a protest on Saturday (27) for their justice, saying that there is no security to live in the Keppapilavu area and that the police have not given fair justice.
-
-There has been a continuous argument between a neighbor and two families living in the village who are engaged in illegal activities in Keppapilavu village in Mullaitivu.
-
-It is in this context that 12 people from two families from two families have been protesting in front of the Kappapilavu model village Pillaiyar Kovil on Saturday (27).
-
-While the two families were involved in the agitation, two boys were arrested after two boys in the house were lonely at home.
-
-There is no justification for the police to condemn the incident and lodge a complaint with the police.The two families are struggling to get justice in this regard and that they have no protection to be at home.
-
-◼️
-
-[Data](articles/35f55ae8.json)
-
-[Extended Data](ext_articles/35f55ae8.ext.json)
-
----
-
-### The main reason for the Kandagadu camp problems is that drug traffickers are also allowed!
-
-*2024-01-28 13:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/174984) · `ta`
-
-The Commissioner General of Rehabilitation Tarshana Hettiarachchi said that the emergency program to curb the ongoing incidents at the Kandagadu rehabilitation camp is being implemented.
-
-He pointed out that the main reason for the contradictions is that drug traffickers are also admitted to the rehabilitation station.
-
-In January twice in the Kandagadu rehabilitation camp, there were incidents of clashes between prisoners.
-
-He said that the situation has been restricted till now, but a permanent solution should be found.
-
-◼️
-
-[Data](articles/3635d4fb.json)
-
-[Extended Data](ext_articles/3635d4fb.ext.json)
-
----
-
-### Sanath Nishantha is on his last offices - 380 policemen
-
-*2024-01-28 13:47:52* · [`adalk`](https://www.ada.lk/breaking_news/සනත්-නිශාන්ත-අද-අවසන්-ගමන්-යයි---ආරක්ෂාවට-පොලීසියේ-380ක්/11-407757) · `si`
-
-380 police officers have been deployed at the North Western Province today, the Wayamba, who was killed in a car accident.
-
-According to the security forces, the UNP members of the Arachchikattuwa's office premises and the 28th day of opposition leaders have participated in the 28th, as a large number of people participated in the 28th.
-
-Accommodation for these officers are the land and buildings of the sixtest work greeting and buildings in Biddarahena Road, Arachchikattuwa.
-
-◼️
-
-[Data](articles/1e2cf825.json)
-
-[Extended Data](ext_articles/1e2cf825.ext.json)
-
----
-
-### Members of the UN have been accused of attacking Hamas- many countries suspended financial aid
-
-*2024-01-28 13:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/174975) · `ta`
-
-The world has suspended financial aid to the Palestinian Refugees for the attack on the seventh of October by Hamas.
-
-Eight countries, including Britain, have stopped financial assistance for Palestinian refugees.
-
-The UNRTAUA is mainly relying on the organization to survive more than two million people, said the head of the organization, Philippe Lazarini.
-
-It is shocking that the funds have been suspended on the basis of allegations against a small number of employees, he said.
-
-He added that these obstacles are inappropriate in the context of war migration in the region.
-
-◼️
-
-[Data](articles/3615bad7.json)
-
-[Extended Data](ext_articles/3615bad7.ext.json)
-
----
-
-### A good time for the falls
-
-*2024-01-28 13:39:41* · [`adalk`](https://www.ada.lk/breaking_news/ඇල්ලට-හොඳ-කලක්/11-407756) · `si`
-
-Foreign tourist arrivals are being abundant in these days.
-
-This is why it has begun to embrace it as well as the people of hotel owners, hotel owners, and the business community.
-
-A large number of foreign tourists visited the Podimanicians of Podimanaka, who was traveling from Colombo to Badulla today (28)
-
-◼️
-
-[Data](articles/d2bacb42.json)
-
-[Extended Data](ext_articles/d2bacb42.ext.json)
 
 ---

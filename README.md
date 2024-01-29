@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 07:16:00**
+As of **2024-01-29 07:51:53**
 
 ## Newspaper Stats
 
-*Scraped **3,170** Articles*
+*Scraped **3,175** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,38 +17,116 @@ islandlk | 185
 dailyftlk | 223
 adalk | 288
 adaderanasinhalalk | 326
-virakesarilk | 331
-tamilmirrorlk | 396
-adaderanalk | 409
+virakesarilk | 332
+tamilmirrorlk | 398
+adaderanalk | 411
 dailymirrorlk | 433
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,164 (99.8%) of 3,170 articles have been extended.
+3,175 (100.0%) of 3,175 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### සරසවි සිසුවියකට නවක වධය දුන් සිසුන් 6ක් අත්අඩංගුවට
+### The box that went to the shoot was derailed
+
+*2024-01-29 07:18:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/படப்பிடிப்பிற்கு-சென்ற-பெட்டி-தடம்-புரண்டது/175-332251) · `ta`
+
+The Railway Department said that the surveillance box of a rented train, which was rented for a foreign film, was derailed between Hatton and Kotagala railway stations this evening.
+
+They said six boxes were rented for shooting from January 24 to 29.
+
+Some part of the train finished the shoot and headed towards Colombo.
+
+The department said that the train services on the hill country have been blocked due to the derailment.
+
+◼️
+
+[Data](articles/2e41fbdf.json)
+
+[Extended Data](ext_articles/2e41fbdf.ext.json)
+
+---
+
+### Six students of Sabaragamuwa Uni arrested for ragging female student
+
+*2024-01-29 07:16:00* · [`adaderanalk`](https://www.adaderana.lk/news/96811/six-students-of-sabaragamuwa-uni-arrested-for-ragging-female-student) · `en`
+
+Six male students of the Sabaragamuwa University have been arrested by Samanalawewa Police for ragging a female student, the police media unit said.
+
+◼️
+
+[Data](articles/270f034f.json)
+
+[Extended Data](ext_articles/270f034f.ext.json)
+
+---
+
+### Several spells of showers expected in parts of the island
+
+*2024-01-29 07:13:00* · [`adaderanalk`](https://www.adaderana.lk/news/96810/several-spells-of-showers-expected-in-parts-of-the-island) · `en`
+
+The Department of Meteorology says showers will occur at times in Eastern and Uva provinces and in Polonnaruwa, Matale and Nuwara-Eliya districts.
+
+Several spells of showers may occur in Anuradhapura, Mullaitivu and Hambantota districts, it said.
+
+Showers or thundershowers will occur at several places in Western and Sabaragamuwa provinces and in Galle, Matara and Kandy districts after 2.00 p.m.
+
+Fairly strong winds about 40 kmph can be expected at times over the Central, Uva and Northwestern provinces and Hambantota district.
+
+The public is kindly requested to take adequate precautions to minimize damages caused by temporary localized strong winds and lightning during thundershowers.
+
+◼️
+
+[Data](articles/0a3d7820.json)
+
+[Extended Data](ext_articles/0a3d7820.ext.json)
+
+---
+
+### Determination of the date for submitting property details
+
+*2024-01-29 07:11:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சொத்து-விபரங்களை-சமர்ப்பிப்பதற்கான-திகதி-நிர்ணயம்/175-332249) · `ta`
+
+The Bribery Corruption Commission has ordered the submission of the proclamation of the president, the prime minister, the public servants, the media leaders and many other prominent dignitaries.
+
+The action has been taken in accordance with the recent bribery or corruption allegations.
+
+Under the new legislation, about 150,000 people, including politicians, public servants and media leaders, must submit a comprehensive asset and responsible reports to the Commission for Bribery or Corruption.
+
+The timeline of complying with this compulsory expression is set on March 31 every year as a face referring to the immediate process.
+
+◼️
+
+[Data](articles/7c4b0a1f.json)
+
+[Extended Data](ext_articles/7c4b0a1f.ext.json)
+
+---
+
+### Six students arrested for nuitarizing a university student
 
 *2024-01-29 06:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192678) · `si`
 
-සබරගමුව විශ්වවිද්‍යාල සිසුවියකට නවක වධය ලබාදීමක් සම්බන්ධයෙන් එම විශ්වවිද්‍යාලයේ 04 වන වසරේ සිසුන් 06 දෙනෙකු අත්අඩංගුවට ගෙන තිබේ.
+Six students have been arrested in the same year regarding a new torment in Sabaragamuwa University student.
 
-මේ සම්බන්ධයෙන් පසුගිය 14 වනදා 1997 දුරකථන මධ්‍යස්ථානය වෙත ලද පැමිණිලක් මත සමනලවැව පොලිස් ස්ථානය විසින් විමර්ශනයක් සිදුකර එම සැකකරුවන් අත්අඩංගුවට ගෙන තිබිණි.
+The Hambarweath police station was arrested by the Samanalawewa police station on the 14th and the 14th.
 
-එම සැකකාර සිසුන් සබරගමුව විශ්වවිද්‍යාලයේ සමාජ විද්‍යා හා භාෂා අධ්‍යාපන පීඨයේ සිසුන් පිරිසක් බව පොලීසිය පවසයි.
+The suspects are students of the Faculty of Social Science and Language Education of the Sabaragamuwa University.
 
-ඔවුන් ඊයේ (28) සමනලවැව පොලිස් ස්ථානයට පැමිණිමෙන් පසු අත්අඩංගුවට ගෙන ඇත.
+They have been arrested after attending the Samanalawewa police station yesterday.
 
-අත්අඩංගුවට ගත් සිසුන් අවුරුදු 23, 24 සහ 25 වයස්වල පසුවන මොරවක, රුක්ගහවිල, අළුත්තරම, ඉමදුව හා කිතලව ප්‍රදේශයවල පදිංචිකරුවන් බව පොලීසිය සඳහන් කරයි.
+The arrested students are residents of Morawaka, Rukgalama, Arakara, Ahamandura and Kithalawa areas.
 
 ◼️
 
 [Data](articles/57aadaf0.json)
+
+[Extended Data](ext_articles/57aadaf0.ext.json)
 
 ---
 
@@ -100,6 +178,8 @@ The writer says, ‘…the change cannot take place without an acknowledgement o
 
 [Data](articles/85ff0812.json)
 
+[Extended Data](ext_articles/85ff0812.ext.json)
+
 ---
 
 ### The Online Safety Act; For Whose Safety? - EDITORIAL
@@ -115,6 +195,8 @@ The legislation was passed in Parliament on the 24th of this month (January).
 ...
 
 [Data](articles/6574d984.json)
+
+[Extended Data](ext_articles/6574d984.ext.json)
 
 ---
 
@@ -132,21 +214,25 @@ Despite strong interest, the relationship between systems thinking and complex d
 
 [Data](articles/bec7d7fe.json)
 
+[Extended Data](ext_articles/bec7d7fe.ext.json)
+
 ---
 
-### இந்திய - இலங்கை படகு சேவை அடுத்த மாதம் ஆரம்பம்
+### Indo -Sri Lanka Boat Service begins next month
 
 *2024-01-29 02:28:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இந்திய-இலங்கை-படகு-சேவை-அடுத்த-மாதம்-ஆரம்பம்/175-332237) · `ta`
 
-இந்தியா - இலங்கை இடையிலான பயணிகள் படகு சேவையை எதிர்வரும் 15 ஆம் திகதி முதல் மீண்டும் ஆரம்பிக்க திட்டமிடப்பட்டுள்ளது.
+India and Sri Lanka are scheduled to resume their passenger ferry service from the 15th of this month.
 
-இதற்கு இந்திய அரசின் அனுமதி கிடைத்துள்ளதாக துறைமுகங்கள், கப்பல் துறை மற்றும் விமான சேவைகள் அமைச்சு தெரிவித்துள்ளது.
+The Ministry of Ports, Shipping and Airlines said that the Government of India has obtained permission for this.
 
-வட கிழக்கு பருவ மழையின் காரணமாக, இந்த  கப்பல் சேவையை ஒக்டோபர் 20 ஆம் திகதியுடன் தற்காலிகமாக நிறுத்துவதற்கு தீர்மானிக்கப்பட்டிருந்தது. (a)
+Due to the North -East monsoon rains, it was decided to temporarily stop this shipping service on October 20. (A)
 
 ◼️
 
 [Data](articles/7f3153fc.json)
+
+[Extended Data](ext_articles/7f3153fc.ext.json)
 
 ---
 
@@ -550,23 +636,45 @@ At least nine countries, including top donors the U.S. and Germany, have paused 
 
 ---
 
-### தமிழரசுக் கட்சியின் பொதுச்சபை கூட்டத்தின் போது கைகலப்பில் ஈடுபட்டோர் மீது ஒழுக்காற்று நடவடிக்கை
+### The election of the General Secretary of the Sri Lankan TNA cannot be accepted;Members of the Model, Ampara and Tirumalai request to hold a referendum
 
-*2024-01-28 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175014) · `ta`
+*2024-01-28 22:01:00* · [`virakesarilk`](https://www.virakesari.lk/article/175013) · `ta`
 
-இலங்கைத் தமிழரசுக்கட்சியின் 17ஆவது தேசிய மாநாட்டின் பொதுச்சபைக் கூட்டத்தின் முதலாவது நாள் அமர்வின்போது பதவிநிலைத் தெரிவுகள் தொடர்பில் ஏற்பட்ட வாய்த்தக்கம் கைகலப்பில் முடிந்துள்ளது.
+The majority of the General Assembly in the Batticaloa, Ampara and Trincomalee districts has called for a referendum to be re -elected to the post.
 
-இந்த சம்பவத்துடன் தொடர்புடைய அனைத்து பொதுச்சபை உறுப்பினர்கள் மீதும் ஒழுக்காற்று நடவடிக்கைகள் எடுக்கப்படவுள்ளதாக கட்சியின் புதிய தலைவர் சிவஞானம் சிறீதரன் அறிவித்துள்ளார்.
+The Central Executive Committee Meeting of the Sri Lanka Tamil National Alliance (TNA) and the first day of the 17th National Convention General Assembly meeting were held on Saturday (27) at a private hotel in Uppuwel, Trincomalee.
 
-குறிப்பாக, பொதுச்செயலாளராக சண்முகம் குகதாசன் நியமிக்கப்பட்டதை அடுத்து கட்சியின் திருகோணமலை மாவட்ட பொதுச்சபையின் சிரேஷ்ட உறுப்பினர்கள் சிலர் அதனை கடுமையாக விமர்சித்தார்கள்.
-
-விசேடமாக மத்திய குழுவில் தீர்மானத்தினை எடுத்ததன் பின்னர் அதனை அப்படியே ஏற்றுக்கொள்வதாக இருந்தால் பொதுச்சபையில் உறுப்பினர்களாக இருக்க வேண்டியதன் அவசியம் என்னவென்று கேள்விகளைத் தொடுத்தனர்.
-
-இந்த நிலைமையில், வாய்த்தர்க்கம் கடுமையானதில் திருகோணமலை மாவட்டத்தின் ஒரு குழுவினர் தர்க்கம் செய்த குழுவினர் மீது தாக்குதலை நடத்தியுள்ளனர். இதனால் கைகலப்பு உருவாகியிருந்தது.
+The first meeting was held at the Central Executive Committee meeting for the post of General Secretary. In the past, Ariyanethran proposed Srinasan. Subsequently, Kulanayagam demanded him to give him the position. Later, Sumanthiran said he would want the post of General Secretary even though the new leader said he would be the senior vice president.
 
 ...
 
+[Data](articles/a84b0e08.json)
+
+[Extended Data](ext_articles/a84b0e08.ext.json)
+
+---
+
+### Disciplinary action against those involved in the melee during the TNA general meeting
+
+*2024-01-28 21:59:00* · [`virakesarilk`](https://www.virakesari.lk/article/175014) · `ta`
+
+During the first day session of the General Assembly of the 17th National Conference of the Sri Lanka Tamil National Party (TNA), the rhetoric over the post of positions ended.
+
+The new leader of the party, Sivagnanam Sreedharan, has announced that disciplinary action will be taken against all the members of the General Assembly involved in the incident.
+
+In particular, some senior members of the party's Trincomalee District General Assembly criticized it after the appointment of Shanmugam Kukadasan as general secretary.
+
+In particular, if they were accepted by the Central Committee, they asked questions as to why they were to be members of the General Assembly.
+
+In this situation, a group of Trincomalee district has attacked a logical group. Thus the melee was formed.
+
+It is noteworthy that the new leader Sreedharan had publicly announced that disciplinary action would be taken against all those involved in the incident, while other members had controlled the situation.
+
+◼️
+
 [Data](articles/1692757c.json)
+
+[Extended Data](ext_articles/1692757c.ext.json)
 
 ---
 
@@ -1815,107 +1923,5 @@ The arrested Eros was produced before the Kahadagastikiliya Magistrate on Sunday
 [Data](articles/b5fc4d7b.json)
 
 [Extended Data](ext_articles/b5fc4d7b.ext.json)
-
----
-
-### Drug traffickers behind recent incidents at Kandakadu rehab centre?
-
-*2024-01-28 14:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96793/drug-traffickers-behind-recent-incidents-at-kandakadu-rehab-centre) · `en`
-
-Rehabilitation Commissioner General Major General (Retd.) Darshana Hettiarachchi, has revealed that stricter and immediate measures are underway to curtail the frequent conflicts being reported from within the Kandakadu Treatment and Rehabilitation Centre.
-
-Hettiarachchi further explained that the admission of drug traffickers into the rehabilitation centre, resulting in drug peddling rackets within the Kandakadu Camp, has been identified as the main cause behind these frequent conflicts.
-
-He assured, however, that while the situation has been contained for now, a long-term solution is required for the issue.
-
-For this month alone, two incidents of such conflicts were reported from the Kandakadu Rehabilitation Centre, with a total of over 100 inmates having escaped from the facility.
-
-◼️
-
-[Data](articles/950a4294.json)
-
-[Extended Data](ext_articles/950a4294.ext.json)
-
----
-
-### Increase in cargo vessel arrivals in Colombo port due to crisis in Red Sea
-
-*2024-01-28 14:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Increase-in-cargo-vessel-arrivals-in-Colombo-port-due-to-crisis-in-Red-Sea/108-275837) · `en`
-
-Colombo, Jan 28 (Daily Mirror) - The number of cargo vessels arriving at the Colombo port has increased, further increasing the container operation capacity, Ports, Shipping and Aviation Minister Nimal Siripala de Silva said.
-
-Undertaking a special inspection visit to the Container Terminal (JCT) of the Sri Lanka Ports Authority, he said the container operation capacity was increasing due to the current crisis in the Red Sea in the Middle East.
-
-Due to the war situation in the Middle East region, the shipping companies have been motivated to divert their ships to the Colombo port as a safety measure due to the terrorist threats to merchant ships sailing through the Suez Canal to the Red Sea.
-
-Therefore, berthing facilities for 24 ships have been made in the harbour today, and around 10 ships are awaiting anchorage outside the harbour.
-
-Based on this situation, the JCT and the Eastern Container Terminal (ECT) have been able to handle about 100 ships during January.
-
-...
-
-[Data](articles/79d0ad11.json)
-
-[Extended Data](ext_articles/79d0ad11.ext.json)
-
----
-
-### Special traffic plan in Galle Road from Tuesday due to Independence Day rehearsals
-
-*2024-01-28 14:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Special-traffic-plan-in-Galle-Road-from-Tuesday-due-to-Independence-Day-rehearsals/108-275840) · `en`
-
-Colombo, Jan 28 (Daily Mirror) - A special traffic plan will be implemented from Tuesday (30) in a section of Galle Road for the rehearsal of the upcoming 76th Independence Day ceremony, the Police Media Division said.
-
-They said the rehearsals will be held till February 3. Earlier, the rehearsals were scheduled to be held tomorrow (29).
-
-Accordingly, the stretch of Galle Road from Kollupitiya Junction to Galle Face and from Ceramic Junction to Galle Face will temporarily remain off-limits for traffic till February 4.
-
-The closure of the above stretches of road is effective from 6 a.m. to 8.30 a.m. and 11.00 a.m. to 12.30 p.m. from January 30 to February 3.
-
-◼️
-
-[Data](articles/3e5ffd8b.json)
-
-[Extended Data](ext_articles/3e5ffd8b.ext.json)
-
----
-
-### US sees signs of progress on deal to release hostages, bring temporary pause to Israel-Hamas war
-
-*2024-01-28 14:07:00* · [`adaderanalk`](https://www.adaderana.lk/news/96792/us-sees-signs-of-progress-on-deal-to-release-hostages-bring-temporary-pause-to-israel-hamas-war) · `en`
-
-U.S. negotiators are making progress on a potential agreement under which Israel would pause military operations against Hamas in Gaza for two months in exchange for the release of more than 100 hostages who were captured in the Oct. 7 attack on Israel, according to two senior administration officials.
-
-The officials, who requested anonymity to discuss the sensitive negotiations, said Saturday that emerging terms of the yet-to-be sealed deal would play out over two phases.
-
-In the first phase, fighting would stop to allow for the remaining women, elderly and wounded hostages to be released by Hamas.
-
-Israel and Hamas would then aim to work out details during the first 30 days of the pause for a second phase in which Israeli soldiers and civilian men would be released. The emerging deal also calls for Israel to allow more humanitarian aid into Gaza.
-
-...
-
-[Data](articles/a7c2fa04.json)
-
-[Extended Data](ext_articles/a7c2fa04.ext.json)
-
----
-
-### Unit investors provide transaction transaction facilities for the first time
-
-*2024-01-28 13:51:20* · [`adalk`](https://www.ada.lk/breaking_news/ඒකක-භාර-ආයෝජකයන්ට-ප්‍රථම-වතාවට-ඩිජිටල්-ක්‍රමයට-ගණුදෙනු-පහසුකම්-සැපයෙයි/11-407758) · `si`
-
-Sri Lanka's pioneer investment institute, Fast Capital Honey Plus Fund ^ The service is due to be introduced. Accordingly, an awareness campaign was held in Colombo recently.
-
-This method of Sri Lanka's first introduction, the digital system will allow the digital system through EMV active cards to the unit active cards, which are issued to the unit active cards and payments.
-
-Moreover, Fort Capital has joined hands with HNB Bank to obtain the security and transparency of this methodology. Also, the EMV cards can help Unit-charge account holders online to EMV cards online.
-
-The New Unit Trust Fund, which is approved by the Sri Lanka Exchange and the Securities Commission, can access the investments in over 3,500 ATMs and the purchase of goods and services.. Fast Capital company says that investors can use their money more easily to use their money.
-
-◼️
-
-[Data](articles/664d6845.json)
-
-[Extended Data](ext_articles/664d6845.ext.json)
 
 ---

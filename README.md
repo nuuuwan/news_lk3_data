@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-29 09:51:21**
+As of **2024-01-29 10:02:21**
 
 ## Newspaper Stats
 
-*Scraped **3,193** Articles*
+*Scraped **3,195** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ newsfirstlk | 184
 islandlk | 185
 dailyftlk | 223
 adalk | 291
-adaderanasinhalalk | 333
+adaderanasinhalalk | 335
 virakesarilk | 335
 tamilmirrorlk | 401
 adaderanalk | 413
@@ -26,25 +26,55 @@ dailymirrorlk | 433
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,190 (99.9%) of 3,193 articles have been extended.
+3,195 (100.0%) of 3,195 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-29 (Monday)
 
-### சம்மாந்துறையில் திருடப்பட்ட பெறுமதி வாய்ந்த மோட்டார் சைக்கிள் மீட்பு ;ஒருவர் கைது
+### 11 days of her infule, parents flect
+
+*2024-01-29 09:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192687) · `si`
+
+Attorney-at-Law Jayaseprama B.. Tennakoon sentenced to the Kurunegala headquarters police.
+
+While receiving treatment at the hospital's premature infant care unit, he was killed.
+
+The Acting Magistrate has directly issued the police after the child performed at the Kurunegala Teaching Hospital at Kurunegala Teaching Hospital.
+
+The mother born in a premature condition had left the child into the infant integrity unit and had left the hospital after a few days ago.
+
+In the meantime, the infant who was receiving treatment at the ICU.
+
+Acting Magistrate Tenakoon, acting to conduct a DNA testing to them to ensure the identity of the baby, to ensure the identity of the deceased Magistrate Tenakoon, was appointed to the police.
+
+The Acting Magistrate also addressed information that the baby's parents could escape from the country to inform the Bandaranaike International Airport.
+
+Police said that a young couple who a resident of Godawela suspects the parents of the infant.
+
+...
+
+[Data](articles/4cb0e621.json)
+
+[Extended Data](ext_articles/4cb0e621.ext.json)
+
+---
+
+### Valued motorcycle rescue stolen in Samanthurai; arrested
 
 *2024-01-29 09:14:00* · [`virakesarilk`](https://www.virakesari.lk/article/175026) · `ta`
 
-சம்மாந்துறையில் திருடப்பட்ட பெறுமதி வாய்ந்த மோட்டார் சைக்கிள் மீட்கப்பட்டுள்ளதோடு, ஒருவர் கைது செய்யப்பட்டுள்ளார்.
+A valuable motorcycle has been recovered and a man has been arrested.
 
-சம்மாந்துறை பொலிஸ் பிரிவுக்குட்பட்ட பிரதேசத்தில் ஜனவரி மாதம் 14ம் திகதி  சுமார் 8 இலட்சத்திக்கும் மேல் பெறுமதி வாய்ந்த "Bajaj pulsar Ns 200" என்ற வகையான மோட்டார் சைக்கிள் திருடப்பட்டுள்ளதாக  சைக்கிள் உரிமையாளர் பொலிஸ் நிலையத்தில் 16ம் திகதி முறைப்பாடு  செய்யதாக சம்மாந்துறை பொலிஸார் தெரிவித்தார்.
+The bicycle owner has lodged a complaint at the police station on the 16th of January, the Bajaj Pulsar NS 200, worth more than 8 lakhs of a motorcycle in the area of the Samanthurai police division.
 
-இதைத் தொடர்ந்து சம்மாந்துறை பொலிஸ் நிலைய பொறுப்பதிகாரி கே.டி.எஸ் ஜெயலத் அவர்களின் வழிகாட்டுதலில் பொலிஸ் நிலைய பெருங்குற்றப் பிரிவு பொறுப்பதிகாரி கே.சதீஸ்கர் தலைமையிலான குழுவினரின் விசாரணை நடவடிக்கைகளை மேற்கொண்ட போது அக்கரைப்பற்று பிரதேசத்தில் இருந்து மோட்டார்  பைக்கிளை நேற்று ஞாயிற்றுக்கிழமை (28) மீட்டதுடன்  திருட்டு சம்பவத்தில் தொடர்புடைய  சந்தேக நபர் ஒருவர் கைது செய்யப்பட்டுள்ளதாக பொலிஸார் மேலும் தெரிவித்தனர்.
+Subsequently, under the guidance of the police officer KDS Jayalath, the police station, under the guidance of the police station, K. Satheeskar, a group of police, K. Satheeskar, rescued a motorbike from Akkaraipattu area on Sunday (28)..
 
 ◼️
 
 [Data](articles/7321f8f2.json)
+
+[Extended Data](ext_articles/7321f8f2.ext.json)
 
 ---
 
@@ -62,25 +92,43 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 
 [Data](articles/a3718349.json)
 
+[Extended Data](ext_articles/a3718349.ext.json)
+
 ---
 
-### மாணவியை பகிடிவதைக்குட்படுத்திய 6 பல்கலைக்கழக மாணவர்கள் கைது
+### Justice is boxing
+
+*2024-01-29 09:06:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192686) · `si`
+
+836 suspects have been arrested in the 24-hour operations carried out by the Budget Special Drug Security today (29).
+
+◼️
+
+[Data](articles/948dee8f.json)
+
+[Extended Data](ext_articles/948dee8f.ext.json)
+
+---
+
+### 6 university students arrested for sharing a student
 
 *2024-01-29 09:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175025) · `ta`
 
-சப்ரகமுவ பல்கலைக்கழகத்தில் கல்வி கற்கும் மாணவி ஒருவரை பகிடிவதைக்குட்படுத்திய 6 மாணவர்கள் சமனலவெவ பொலிஸாரால் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+Six students have been arrested by the Samanalawewa police for sharing an educated student at the University of Sabaragamuwa.
 
-கடந்த 14 ஆம் திகதியன்று '1997' என்ற தொலைபேசி இலக்கத்திற்கு கிடைத்த முறைப்பாட்டின் அடிப்படையில் சமனலவெவ பொலிஸார் மேற்கொண்ட விசாரணைகளையடுத்து சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+The suspects have been arrested following an investigation by the Samanalawewa police on the basis of a complaint received by the telephone number '1997' on the 14th.
 
-கைதுசெய்யப்பட்ட சந்தேகநபர்கள் பல்கலைக்கழகத்தின் சமூக விஞ்ஞானம் மற்றும் மொழிகள் பீடத்தின் நான்காம் வருட மாணவர்கள் எனத் தெரிய வந்துள்ளது.
+The arrested suspects have been identified as the fourth -year students of the University's Social Sciences and Languages Faculty.
 
-குறித்த மாணவர்கள் 6 பேரும் நேற்று ஞாயிற்றுக்கிழமை (28) சமனலவெவ பொலிஸ் நிலையத்திற்கு வருகை தந்தபோது அவர்கள் கைது செய்யப்பட்டுள்ளனர்.
+The six students were arrested on Sunday (28) when they visited the Samanalawewa police station.
 
-மொரவக, ருக்கஹவில, அலுத்தாராம, இமதுவ மற்றும் கித்தலாவ ஆகிய பிரதேசங்களைச் சேர்ந்த 23, 24 மற்றும் 25 வயதுடைய மாணவர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+Students aged 23, 24 and 25 from Morawaga, Rukuhawa, Alutarama, Imamuwa and Kitalawa have been arrested.
 
 ◼️
 
 [Data](articles/17279136.json)
+
+[Extended Data](ext_articles/17279136.ext.json)
 
 ---
 
@@ -1913,45 +1961,5 @@ His casual wife was arrested on charges of investing cheating.
 [Data](articles/e33ab4d4.json)
 
 [Extended Data](ext_articles/e33ab4d4.ext.json)
-
----
-
-### Railway freight service charges to be increased
-
-*2024-01-28 17:44:00* · [`adaderanalk`](https://www.adaderana.lk/news/96797/railway-freight-service-charges-to-be-increased-) · `en`
-
-The charges for railway freight services are slated to be revised with effect from 01 February, the Sri Lanka Railways Department announced.
-
-According to the Department, charges for railway freight services will be increased, effective from the aforementioned date
-
-◼️
-
-[Data](articles/1755e041.json)
-
-[Extended Data](ext_articles/1755e041.ext.json)
-
----
-
-### Suddenly jumped in Diagama
-
-*2024-01-28 17:36:02* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/டயகமவில்-திடீரென-குதித்தார்-திகா/76-332231) · `ta`
-
-A massive demonstration was held on Sunday (28) in Diyagama, Thalawakalai district in Nuwara Eliya district.
-
-The Tamil Progressive Alliance staged a protest in Diagama, demanding the salary of plantation workers.
-
-The Tamil Progressive Alliance staged a demonstration in Diyagama this afternoon demanding the increase in the day -to -day salary of a plantation worker in accordance with the current cost of living in the country.
-
-The protest was led by Nuwara Eliya District Deputy Leader of the Tamil Progressive Alliance and Member of Parliament BA Palani Thikambaram and Member of Parliament S. Udayakumar.
-
-Commenting on the protest, Palani Thikambaram said that the plantation worker's day -to -day salary was increased by Rs 1,750, but the salary has not yet been paid.
-
-Palani Thikambaram said that the daily salary of a plantation worker should be increased to two thousand rupees according to the cost of living.
-
-...
-
-[Data](articles/66d9b348.json)
-
-[Extended Data](ext_articles/66d9b348.ext.json)
 
 ---

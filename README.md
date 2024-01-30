@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 10:32:54**
+As of **2024-01-30 10:50:20**
 
 ## Newspaper Stats
 
-*Scraped **3,444** Articles*
+*Scraped **3,445** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 196
 newsfirstlk | 203
 dailyftlk | 233
 adalk | 313
-virakesarilk | 371
+virakesarilk | 372
 adaderanasinhalalk | 372
 tamilmirrorlk | 437
 adaderanalk | 440
@@ -26,83 +26,109 @@ dailymirrorlk | 464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,429 (99.6%) of 3,444 articles have been extended.
+3,444 (100.0%) of 3,445 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### සනත් නිශාන්තගේ බිරිඳ දේශපාලනයට?
+### மன்னாரில் 31 ஆயிரம் போதை மாத்திரைகளுடன் இளைஞர் கைது
+
+*2024-01-30 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175115) · `ta`
+
+மன்னார் பொலிஸ் பிரிவுக்குட்பட்ட செளத்பார் பகுதியில் கைவிடப்பட்ட அட்டை பண்ணை ஒன்றில் இருந்து 31 ஆயிரம் போதை மாத்திரைகளுடன் இளைஞர் ஒருவர் திங்கட்கிழமை (29) மாலை கைது செய்யப்பட்டுள்ளார்.
+
+மன்னார் பொலிஸ் குற்ற புலனாய்வு பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் பிரகாரம் மன்னார் பொலிஸ் அத்தியட்சகர் சந்திரபாலவின்  பணிப்புரைக்கு அமைவாக பொலிஸ் அத்தியட்சகர் ஹாரத்தின்  ஆலோசனையின் பெயரில் மன்னார் பொலிஸ் குற்றத்தடுப்பு புலனாய்வு பிரிவின் பொறுப்பதிகாரி சில்வா தலைமையிலான குழுவினர்  செளத்பார் பகுதியில் மேற்கொண்ட சுற்றிவளைப்பின் போது 31 ஆயிரம்  போதை மாத்திரைகளுடன் இளைஞர் ஒருவரை கைது செய்துள்ளனர்.
+
+இந்நிலையில் அவர்களிடம் மேற்கொண்ட விசாரணைகளின் அடிப்படையில் செளத்பார் பகுதியில் போதை மாத்திரைகள் விற்க முற்பட்ட இளைஞர் ஒருவர்  திங்கட்கிழமை மாலை  கைது செய்யப்பட்டிருந்தார்.
+
+குறித்த இளைஞனிடன் மேற்கொண்ட விசாரணையின் அடிப்படையில் செளத்பார் புகையிரத நிலைய பகுதி அருகில் கைவிடப்பட்ட அட்டை பண்ணை கொட்டில் ஒன்றிலே சூட்சுமமான முறையில் புதைத்து வைக்கப்பட்டிருந்த 31 ஆயிரம் போதை மாத்திரைகள் கைப்பற்றப்பட்டது
+
+...
+
+[Data](articles/88b65e6c.json)
+
+---
+
+### Sanath Nishantha's wife in politics?
 
 *2024-01-30 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192727) · `si`
 
-දේශපාලනයට පිවිසීම සඳහා තමාගේ බලාපොරොත්තුවක් නොමැති වූවද තම ස්වාමිපුරුෂයාගෙන් හිස් වූ දේශපාලන නායකත්වය භාරගන්නැයි පුත්තලමේ ජනතාව මෙන්ම පක්ෂයෙන්ද ඉල්ලීමක් කරන්නේ නම් ඉදිරියේදී ඇතැම් විට තමා ඒ පිළිබඳව සලකා බැලීමට ඉඩ තිබෙන බව අභාවප්‍රාප්ත අමාත්‍ය සනත් නිශාන්ත මහතාගේ බිරිඳ සඳහන් කළාය.
+The wife of the late Minister Sanath Nishantha said that if he had no hope to enter politics, he was asked to accept the empty political leadership of her husband.
 
-අධිවේගයේ පසුගිය දා සිදුවු රිය අනතුරෙන් මරණයට පත් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ ආරක්ෂක නිලධාරී පොලිස් සැරයන් අනුරාධ ජයකොඩි මහතාගේ නිවසට පැමිණ, එම පවුලේ ඥාතීන්ට ශෝකය පළ කළ අවස්ථාවේ දී මාධ්‍යවේදීන් හමුවේ නීතිඥ  චමරි ප්‍රියංකා පෙරේරා මහත්මිය මේ බව සඳහන් කර තිබේ.
+Attorney-at-Law Chamari Priyanka Perera, the resident of the police serving as the expaganda accident had come to the house of Hon.
 
-"මගේ මහත්මයා පුත්තලම් දිස්ත්‍රික්කයට වගේම රටේ ජනතාවටත් විශාල සේවයක් කළා. එතුමාගෙන් පිළිසරණක් පතා ආ අයෙක් කවදාක්වත් හිස් අතින් ඇරියේ නෑ. එයාට වූ විපත මටත් දරුවන්ටත් අදහාගන්න බෑ. හරියට හීනයක් දැක්කා වගේ. මගේ ස්වාමියාගේ මරණයේ උණුසුම යන්නත් ප්‍රථමයෙන් ඇතැම් මාධ්‍ය පළ කරලා තියෙනවා, මම දේශපාලනයට එනවා කියලා. ඒ කිසිම කෙනෙක් මගෙන් අහලා නෙවෙයි එහෙම ප්‍රවෘත්ති පළ කරලා තියෙන්නේ. මම කිසිම මාධ්‍යයකට මේ දක්වා ප්‍රකාශයක් කරලා නෑ මම දේශපාලනයට එනවා කියලා.
+"My firm served in the Puttalam District and the people of the country. Someone who had for helping him never opened empty-handed. I and my children cannot believe. Just like a dream. Even before the warmth of my master's death, some media has been posted before I'm coming into politics. None of them heard of me that. I have not made a statement to any media to date I'm coming to politics.
 
 ...
 
 [Data](articles/a5a163c8.json)
 
+[Extended Data](ext_articles/a5a163c8.ext.json)
+
 ---
 
-### ඇෆ්ගන් ක්‍රිකට් පිල දිවයිනට
+### Afghan to arrive in the island
 
 *2024-01-30 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192726) · `si`
 
-තරග සංචාරයක් සඳහා ඇෆ්ගනිස්තාන ජාතික කණ්ඩායම අද (30) දිවයිනට පැමිණීමට නියමිතය.
+The Afghanistan national team is due to arrive in Sri Lanka today (30) for a tour.
 
-ඒ අනුව ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර ක්‍රිකට් තරගාවලිය අනිද්දා (01) දිනෙන් ආරම්භ වීමට නියමිතය.
+Accordingly, the Cricket Tournament between Sri Lanka and Afghanistan will commence (01).
 
-ඔවුන් මෙම තරග සංචාරය තුළදී ටෙස්ට් තරගයක්, එක්දින තරග 03ක් සහ පන්දුවාර විස්සයි විස්ස තරග 03කට සහභාගී වීමට නියමිතය.
+They will be playing three ODIs and three Twenty20 matches.
 
-ටෙස්ට් තරගය අනිද්දා සිට කොළඹ එස්.එස්.සී ක්‍රීඩාංගණයේදී පැවැත්වෙන අතර තරග 03කින් සමන්විත එක්දින තරගාවලිය පෙබරවාරි මස 09 වනදා ආරම්භ වීමට නියමිතය.
+The Test match will be held at the SSC grounds in Colombo
 
-කෙසේවෙතත් එක්දින තරග මීට පෙර කොළඹ දී පැවැත්වීමට සැලසුම් කර තිබුණ ද එම තරග මහනුවරදී පැවැත්වීමට පසුව තීරණය කර ඇත.
+However, the ODIs have been planned to be held in Colombo but decided to hold back in Kandy.
 
-මේ අතර වසර කිහිපයකට පසුව පන්දුවාර විස්සයි විස්ස තරග තුනම දඹුල්ල ක්‍රීඩාංගණයේ දී පැවැත්වීමට නියමිතය.
+A few years later, all Twenty20 Twenty20 matches will be held at the Dambulla Stadium.
 
 ◼️
 
 [Data](articles/9296f6a0.json)
 
+[Extended Data](ext_articles/9296f6a0.ext.json)
+
 ---
 
-### சுகாதார ஊழியர்கள் மீண்டும் பணி புறக்கணிப்பு
+### Health workers are back to work
 
 *2024-01-30 09:49:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்கள்-மீண்டும்-பணி-புறக்கணிப்பு/175-332323) · `ta`
 
-தமது பிரச்சினைகளுக்கு பேச்சுவார்த்தை மூலம் தீர்வு காணப்படாவிட்டால் எதிர்வரும் பெப்ரவரி மாதம் முதலாம் திகதி வேலைநிறுத்தப் போராட்டத்தில் ஈடுபடவுள்ளதாக சுகாதார தொழிற்சங்கங்கள் தெரிவித்துள்ளன.
+Health trade unions have said that if their problems are not resolved by negotiations, they will go on strike on the first of February.
 
-சுகாதார ஊழியர்களுக்கு கொடுப்பனவு வழங்குவது தொடர்பில், ஜனாதிபதி நாடு திரும்பியவுடன் கலந்துரையாடல் நடத்தப்படும் என அறிவித்த போதிலும் இதுவரையில் அதற்காக சந்தர்ப்பம் வழங்கப்படவில்லை என சுகாதார ஊழியர்கள் குறிப்பிட்டுள்ளனர்.
+The health workers have stated that the President has announced that the President has announced that the President will hold a discussion after returning to the country on the issue of payments to health workers.
 
-இதன் காரணமாக கொழும்பை சூழவுள்ள வைத்தியசாலைகளுக்கு முன்பாக இன்றைய தினம் எதிர்ப்பு நடவடிக்கைகளை முன்னெடுக்கவும் தொழிற்சங்கங்கள் தீர்மானித்துள்ளன.
+As a result, the unions have decided to carry out protests today in front of hospitals surrounding Colombo.
 
 ◼️
 
 [Data](articles/0ca96b05.json)
 
+[Extended Data](ext_articles/0ca96b05.ext.json)
+
 ---
 
-### வவுனியா நகரில் பெண்ணின் சடலம் மீட்பு
+### Woman's body recovery in Vavuniya
 
 *2024-01-30 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175112) · `ta`
 
-வவுனியா குருமன்காடு காளி கோவில் வீதியில் உள்ள வீடொன்றின் கிணற்றிலிருந்து பெண் ஒருவரின் சடலம் இன்று செவ்வாய்க்கிழமை (30) காலை மீட்கப்பட்டுள்ளது.
+The body of a woman has been recovered from a well of a house on Kurumankadu Kali Temple Road, Vavuniya.
 
-வவுனியா காளி கோவில் வீதியில் உள்ள வீடொன்றின் கிணற்றில் 29 வயதுடைய ஜெனிற்றா என்ற இளம் குடும்ப பெண் சடலமாக மீட்கப்பட்டுள்ளார்.
+29 -year -old Jenita, a young family woman, has been recovered in a well of a house on Kali Temple Road in Vavuniya.
 
-குறித்த பெண்ணின் கணவர் வெளிநாட்டில் வசித்து வருவதாகவும் இந்நிலையில் கணவருடைய குடும்பத்தினருடன் தனது 7 வயது மகனுடன் வசித்து வந்த நிலையிலேயே இச்சம்பவம் இடம்பெற்றுள்ளது.
+The incident took place when the woman's husband was living abroad and living with her husband's family with her 7 -year -old son.
 
-இதேவேளை குறித்த பெண் கடந்த வாரமும் தனது மகனுடன் கிணற்றில் வீழ்ந்து தற்கொலைக்கு முயன்றதாகவும் சத்தம் கேட்டு அயலவர்கள் மீட்டெடுத்தனர் என்பதும் குறிப்பிடத்தக்கது.
+Meanwhile, the woman fell into the well with her son last week and attempted suicide and the neighbors recovered the noise.
 
-குறித்த சம்பவம் தொடர்பான மரணவிசாரணையை திடீர் மரண விசாரணை அதிகாரி சுரேந்திர சேகரன் மேற்கொண்டு வருவதுடன் வவுனியா பொலிஸாரும் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+Surendra Sekaran is conducting the death toll on the incident and the Vavuniya police are conducting further investigations.
 
 ◼️
 
 [Data](articles/6bab2cdb.json)
+
+[Extended Data](ext_articles/6bab2cdb.ext.json)
 
 ---
 
@@ -124,21 +150,23 @@ Meanwhile, a series of protests are planned to be staged in front of hospitals i
 
 ---
 
-### 31,000 போதை மாத்திரைகள்; 868 சந்தேக நபர்கள் கைது
+### 31,000 drug pills;868 suspects arrested
 
 *2024-01-30 09:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/31-000-போதை-மாத்திரைகள்-868-சந்தேக-நபர்கள்-கைது/175-332322) · `ta`
 
-நாடு தழுவிய ரீதியில் மேற்கொள்ளப்பட்டு வரும் போதைப்பொருள் எதிர்ப்பு நடவடிக்கையான ‘யுக்திய’ நடவடிக்கையின் ஒரு பகுதியாக இன்று (30) அதிகாலை 12.30 மணியுடன் முடிவடைந்த 24 மணித்தியாலங்களுக்குள் மேலும் 868 சந்தேக நபர்கள் இலங்கையின் பொலிஸ் மற்றும் பாதுகாப்புப் படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+A further 868 suspects have been arrested by the Sri Lankan police and security forces within 24 hours of the end of the nationwide anti -narcotics operation at 12.30 am today.
 
-கைது செய்யப்பட்டவர்களில் 3 பேருக்கு எதிராக தடுப்புக் காவல் உத்தரவு பெறப்பட்டுள்ளது, மேலும் 5 பேர் புனர்வாழ்வு மையங்களுக்கு அனுப்பப்பட்டதாக பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+Three of the arrested persons have been issued a detention order, and five have been sent to rehabilitation centers, the Public Security Ministry said.
 
-இந்த காலப்பகுதியில் கைது செய்யப்பட்ட போதைப் பொருட்களில் 120 கிராம் ஹெரோயின், 98 ஐஸ் மற்றும் 31,611 போதை மாத்திரைகள் உள்ளடங்குவதாக அமைச்சு தெரிவித்துள்ளது. மேலும், 123 கிலோகிராம் கஞ்சா மற்றும் 9,708 கஞ்சா செடிகளும் பறிமுதல் செய்யப்பட்டன.
+Drugs arrested during this period include 120 grams of heroin, 98 ice and 31,611 narcotics pills.. In addition, 123 kilograms of cannabis and 9,708 cannabis were seized.
 
-இந்த 24 மணி நேரத்தில் கைது செய்யப்பட்ட நபர்களில் 527 போதைப்பொருள் சந்தேக நபர்கள் உள்ளடங்குவதாக பொலிஸார் தெரிவித்தனர்.
+Of the 527 persons arrested in these 24 hours, police said that they were involved in drug suspects.
 
 ◼️
 
 [Data](articles/79856911.json)
+
+[Extended Data](ext_articles/79856911.ext.json)
 
 ---
 
@@ -218,21 +246,23 @@ The rehearsals were initially scheduled to commence on Monday (Jan.29), however,
 
 ---
 
-### விசேட தகவலால் வவுனியாவில் சிக்கிய பெண்
+### Woman trapped in Vavuniya by special information
 
 *2024-01-30 08:45:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/விசேட-தகவலால்-வவுனியாவில்-சிக்கிய-பெண்/72-332321) · `ta`
 
-வவுனியா, வைரவபுளியங்குளம் பகுதியில் வைத்து ஐஸ் போதைப் பொருளுடன் பெண் ஒருவர் விசேட அதிரடிப்படையினரால் நேற்று  (29) கைது செய்யப்பட்டுள்ளார்.
+A woman was arrested yesterday (29) by a special Task Force with ice drugs in Vairavapuliyankulam, Vavuniya.
 
-வவுனியா - வேப்பங்குளம் பகுதியில் வசிக்கும் பெண் ஒருவர் ஐஸ் போதைப் பொருளை விற்று வருவதாக மடுக்கந்தை பகுதியில் நிலை கொண்டுள்ள விசேட அதிரடிப் படையினருக்கு விசேட தகவல் கிடைத்துள்ளது.
+Special information has been received by a woman living in the Vavuniya - Veppankulam area.
 
-இதையடுத்து , குறித்த பெண் வேப்பங்குளம் பகுதியில் இருந்து வவுனியா நகரப் பகுதி நோக்கி ஐஸ் போதைப் பொருளுடன் மோட்டர் சைக்கிளில் வந்த நிலையில் வைரவபுளியங்குளம், புகையிரத நிலைய வீதியில் வைத்து விசேட அதிரடிப்படையினர் குறித்த பெண்ணை வழிமறித்து சோதனை செய்த போது ஐஸ் போதைப் பொருள் மீட்கப்பட்டதுடன், குறித்த பெண்ணை கைது செய்து வவுனியா பொலிஸாரிடம் ஒப்படைத்தனர்.
+Subsequently, the woman was rushed to the Vavuniya city area from Veppankulam to the Vavuniya city area with a motorcycle bicycle.
 
-கைது செய்யப்பட்ட பெண் வேப்பங்குளம் பகுதியைச் சேர்ந்த 40 வயதுடையவராவார். மேலதிக விசாரணைகளின் பின் குறித்த பெண்ணை நீதிமன்றில் முற்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளதாக தெரிவித்தனர். R
+The arrested woman is a 40 -year -old from Veppankulam area. After further investigations, the police said that the woman had taken steps to appear in court.. Remble
 
 ◼️
 
 [Data](articles/d5f2d9ea.json)
+
+[Extended Data](ext_articles/d5f2d9ea.ext.json)
 
 ---
 
@@ -254,39 +284,43 @@ The trade union measures have also been taken to implement protests in Colombo t
 
 ---
 
-### ஐவர் சுட்டுக்கொலை; இரு பெண்களும் சிக்கினர்
+### Five killing;Both women were trapped
 
 *2024-01-30 08:38:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐவர்-சுட்டுக்கொலை-இரு-பெண்களும்-சிக்கினர்/175-332320) · `ta`
 
-பெலியத்த பொலிஸ் பிரிவில் தெற்கு அதிவேக வீதி நுழைவாயிலுக்கு அருகில் ஐந்து பேர் சுட்டுக் கொல்லப்பட்ட சம்பவம் தொடர்பில் இரண்டு பெண்கள் கைது செய்யப்பட்டுள்ளனர்.
+Two women have been arrested in connection with the shooting of five people near the Southern Expressway.
 
-ரத்கம பிரதேசத்தில் ஹக்மன பொலிஸ் நிலைய அதிகாரிகள் குழுவினால் நேற்று (29) காலை மேற்கொள்ளப்பட்ட நடவடிக்கையின் போது குறித்த இரு பெண்களும் கைது செய்யப்பட்டுள்ளனர்.
+Two women have been arrested during a meeting of Hakmana Police Station officials in Ratgama area yesterday morning.
 
-கைது செய்யப்பட்டவர்கள் புஸ்ஸ பிரதேசத்தைச் சேர்ந்த 23 மற்றும் 33 வயதுடையவர்கள் என பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+The arrested persons are aged 23 and 33, from Pussa, the police media unit said.
 
-துப்பாக்கிச்சூட்டுக்கு பயன்படுத்தப்பட்ட இரண்டு துப்பாக்கிகளும் குறித்த இரு பெண்களில் ஒருவருக்கு சொந்தமான மோட்டார் சைக்கிளில் கராப்பிட்டிய பிரதேசத்தில் இருந்து புஸ்ஸ பகுதிக்கு கொண்டு செல்லப்பட்டுள்ளதாக விசாரணையின் போது தெரியவந்துள்ளது.
+Investigations revealed that one of the two women belonging to the shooting was taken from Karapitiya area to Pussa.
 
 ◼️
 
 [Data](articles/11af428a.json)
 
+[Extended Data](ext_articles/11af428a.ext.json)
+
 ---
 
-### நிர்வாக கட்டிடத்தை முற்றுகையிட்ட மாணவர்கள்
+### Students who blocked the administrative building
 
 *2024-01-30 08:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாக-கட்டிடத்தை-முற்றுகையிட்ட-மாணவர்கள்/175-332319) · `ta`
 
-பல கோரிக்கைகளை முன்வைத்து களனி பல்கலைக்கழக மாணவர்கள் நேற்று (29) இரவு பல்கலைக்கழகத்திற்கு அருகில் ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தனர்.
+Students of the University of Kelaniya staged a protest near the university last night (29).
 
-இதையடுத்து, பொலிஸார் நீர்த்தாரை மற்றும் கண்ணீர் புகை தாக்குதலை மேற்கொண்டு போராட்டத்தைக் கலைத்தனர்.
+Subsequently, the police carried out a water and tear gas attack and dispersed the protest.
 
-இந்த போராட்டம் காரணமாக களனி பல்கலைக்கழகத்திற்கு முன்பாக கொழும்பில் இருந்து கண்டி செல்லும் பிரதான வீதி முற்றாக தடைப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+Due to this struggle, the main road from Colombo to Kandy in front of the University of Kelaniya has been completely blocked.
 
-இந்த நிலையில், தற்போது களனி பல்கலைக்கழகத்தில் சுமார் 350 மாணவர்கள் அடங்கிய குழுவொன்று பல்கலைக்கழக நிர்வாக கட்டிடத்தை முற்றுகையிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+It is reported that a group of about 350 students at the University of Kelaniya are currently protesting against the university administration building.. Remble
 
 ◼️
 
 [Data](articles/9ce637af.json)
+
+[Extended Data](ext_articles/9ce637af.ext.json)
 
 ---
 
@@ -442,35 +476,41 @@ The lane was completely blocked in front of the University of Kelaniya on the Co
 
 ---
 
-### நவம்பரில் மாத்திரம் 69.6 பில்லியன் பணம் அச்சிடப்பட்டுள்ளது
+### 69.6 billion money was printed in November alone
 
 *2024-01-30 07:39:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நவம்பரில்-மாத்திரம்-69-6-பில்லியன்-பணம்-அச்சிடப்பட்டுள்ளது/175-332318) · `ta`
 
-2023 நவம்பர் மாதத்தில் இலங்கை மத்திய வங்கியானது 69.6 பில்லியன் பணம் அச்சிட்டுள்ளது.
+In November 2023, the Central Bank of Sri Lanka printed 69.6 billion.
 
-ஜனவரி முதல் நவம்பர் வரையில் ரூ. 639.4 பில்லியன் ரூபாய் பணத்தை கடந்த வருடம் மத்திய வங்கி அச்சிட்டுள்ளதாக மத்திய வங்கி தெரிவித்துள்ளது.
+From January to November Rs. Rs.. The Central Bank said the central bank had printed Rs 639.4 billion last year.
 
 ◼️
 
 [Data](articles/b0041912.json)
 
+[Extended Data](ext_articles/b0041912.ext.json)
+
 ---
 
-### ”மரக்கறி விலை உயர்வை கட்டுப்படுத்த நடவடிக்கை எடுக்கவும்”
+### “Take steps to control the hike in vegetable prices”
 
 *2024-01-30 07:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கறி-விலை-உயர்வை-கட்டுப்படுத்த-நடவடிக்கை-எடுக்கவும்/175-332317) · `ta`
 
-எதிர்வரும் ஜனாதிபதித் தேர்தல் கூட்டத்திற்கு தயாராகும் முன்னர், சந்தையில் மரக்கறி விலைகள் எதிர்பாராத வகையில் அதிகரித்துள்ளமை தொடர்பில் வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ உடனடியாக விசாரணைகளை மேற்கொள்ளுமாறு தேசிய நுகர்வோர் முன்னணி (NCF) கோரிக்கை விடுத்துள்ளது.
+The National Consumer Front (NCF) has called for the immediate inquiry into the immediate inquiry into the unexpected rise in the market prices in the market before the upcoming presidential election.
 
-தம்புள்ளை மற்றும் நுவரெலியாவில் மரக்கறிகளின் விலைகள் அதிகரித்துள்ளதாகவும், எனவே இந்த விலை அதிகரிப்பை நுகர்வோர் சுமக்க வேண்டியிருப்பதால் உள்ளூர் சந்தையில் மரக்கறிகளை விற்பனை செய்ய முடியாது எனவும் முன்னணி தெரிவித்துள்ளது.
+The leading said that the prices of vegetables in Dambulla and Nuwara Eliya have increased and therefore the consumers have to carry this increase in the local market.
 
-பேலியகொட புதிய மெனிங் சந்தையின் விலையின்படி ஒரு கிலோகிராம் கரட்டின் விலை ரூ. 2,000. ரூ. 800 ஆக இருந்த ஒரு கிலோ பச்சை மிளகாய், 1,200 ஆக உயர்ந்துள்ளது.  பூசணி 1 கிலோகிராம் ரூ. 300 ஆகும்.
+According to the price of the new mening market in Peliyagoda, a kilogram of bear is Rs.2,000.To a Rs.One kilogram of green chilli, which was 800, rose to 1,200.Pumpkin 1 kilogram of Rs.300.
 
-தேசிய நுகர்வோர் முன்னணியின் தலைவர் அசேல சம்பத், உள்ளூர் சந்தையில் மரக்கறிகளின் திடீர் விலை அதிகரிப்பு தொடர்பில் வர்த்தக அமைச்சர் ஆராய்ந்து விலையை கட்டுப்படுத்த உடனடி தீர்வுகளை வழங்குமாறு கோரிக்கை விடுத்துள்ளார்.
+National Consumer Front leader Asela Sampath has urged the Commerce Minister to investigate the sudden increase in vegetable prices in the local market and provide immediate solutions to control the price.
+
+Asela Sampath asked the consumer to stop the purchase of vegetables at high prices and asked the merchants to stop bringing vegetables for at least a week to overcome the mafia.
 
 ...
 
 [Data](articles/bcfd9f1d.json)
+
+[Extended Data](ext_articles/bcfd9f1d.ext.json)
 
 ---
 
@@ -500,21 +540,23 @@ DIG Indika Hapugoda said:
 
 ---
 
-### ”அரசியல்வாதிகளை பல்கலைக்கழகங்களுக்கு அழைக்க கூடாது”
+### “Don't invite politicians to universities”
 
 *2024-01-30 07:25:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்வாதிகளை-பல்கலைக்கழகங்களுக்கு-அழைக்க-கூடாது/175-332316) · `ta`
 
-அரசியல்வாதிகள் மற்றும் ஜனாதிபதி வேட்பாளர்களை பல்கலைக்கழகங்களுக்கு அழைக்க சில பல்கலைக்கழகங்கள் திட்டமிட்டுள்ளதாகவும், அத்தகைய நடவடிக்கைகள் நிறுத்தப்பட வேண்டும் எனவும் உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன் தெரிவித்துள்ளார்.
+Higher Education Minister Dr. Suren Raghavan said that some universities are planning to invite politicians and presidential candidates to universities and such activities should be stopped.
 
-பல்கலைக்கழகங்களை அரசியலாக்குவதை நிறுத்த வேண்டும் என அரசாங்க தகவல் திணைக்களத்தில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் அவர் தெரிவித்தார்.
+At a media briefing held at the Government Information Department, he said that universities should stop politicizing.
 
-"சில பல்கலைக்கழகங்கள் அரசியல்வாதிகள் மற்றும் ஜனாதிபதி வேட்பாளர்களை பல்கலைக்கழகங்களுக்கு அழைக்க திட்டமிட்டுள்ளதாக நான் அறிந்தேன். இது நிறுத்தப்பட வேண்டும். தயவு செய்து பல்கலைக்கழகங்களை அரசியலாக்குவதை நிறுத்துங்கள். பல்கலைக்கழகங்கள் கல்வி நடவடிக்கைகளுக்காகவே உள்ளன.
+“I learned that some universities are planning to invite politicians and presidential candidates to universities. This is to be stopped. Please stop politicizing universities. Universities are for educational activities.
 
-அரசியல் என்பது அங்கு விவாதிக்கப்படுகிறது. இருப்பினும், அது பாரபட்சமாக இருக்கக்கூடாது. நிகழ்வுகளுக்கு யார் பல்கலைக்கழகங்களுக்கு அழைக்கப்பட வேண்டும் என்பதை செனட் மற்றும் அதன் கல்வியாளர்கள் தீர்மானிக்க வேண்டும்," என்று அவர் கூறினார்.
+Politics is discussed there. However, it should not be prejudiced. Senate and its academics must decide who should be invited to universities for events, ”he said.
 
 ◼️
 
 [Data](articles/a9171a63.json)
+
+[Extended Data](ext_articles/a9171a63.ext.json)
 
 ---
 
@@ -622,69 +664,77 @@ The immigration officials at the Bandaranaike International Airport (BIA) depart
 
 ---
 
-### கடற்றொழிலுக்கு சென்ற இளைஞரைக் காணவில்லை
+### Missing the young man who went to the fisheries
 
 *2024-01-30 04:41:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்றொழிலுக்கு-சென்ற-இளைஞரைக்-காணவில்லை/175-332315) · `ta`
 
-இந்த சம்பவத்தில் அப்பகுதியைச் சேர்ந்த ஜோசப் மக்சிமஸ் சுரேஷ்குமார் (வயது 32) என்ற இளைஞரே காணாமல் போயுள்ளார்.
+Joseph Mazimas Suresh Kumar (age 32) from the area has disappeared.
 
-கடலில் படகில் தங்கி தொழிலில் ஈடுபட்ட நிலையில், இரவு மூவரும் படகினுள் நித்திரைக்குச் சென்றுள்ளனர். காலையில் எழுந்து பார்த்தபோது அதில் இருந்த இளைஞன் காணாமல் போயுள்ளார்.
+While staying in the sea, three men went to sleep at night. When he got up in the morning, the young man in it disappeared.
 
-இளைஞர் காணாமல்போன விடயம் தொடர்பில் கடற்றொழில் நீரியல் வளத்துறை, பொலிஸார், கடற்படையினர் உள்ளிட்ட தரப்பினருக்கு அறிவிக்கப்பட்டுள்ளது. (a)
+Fisheries and Aquatic Resources Department, Police and Navy. (A)
 
 ◼️
 
 [Data](articles/cdc75986.json)
 
+[Extended Data](ext_articles/cdc75986.ext.json)
+
 ---
 
-### நுளம்பு வலை இறுகியதால் சிறுவன் பலி
+### The boy kills the web
 
 *2024-01-30 04:36:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுளம்பு-வலை-இறுகியதால்-சிறுவன்-பலி/175-332314) · `ta`
 
-புத்தளம் - வில்லுவ வத்தை பகுதியில் நுளம்பு வலை நூல் இறுகி சிறுவன் ஒருவர் உயிரிழந்துள்ளார்.
+A boy has died after tightening the web web.
 
-புத்தளம் - அநுராதபுரம் வீதியில் உள்ள வில்லுவ வத்தை பகுதியைச் சேர்ந்த மல்லவ ஆராச்சிலாகே உபேக்ஸ் தீபமால் எனும் 12 வயது சிறுவனே இவ்வாறு உயிரிழந்துள்ளார் எனப் பொலிஸார் தெரிவித்தனர்.
+The deceased, a 12 -year -old boy, a 12 -year -old boy named Uppaq Deepamal, a 12 -year -old boy from Villauva Vattai area on Puttalam - Anuradhapura road, has died.
 
-குறித்த சிறுவன் நேற்று முன்தினம் இரவு வீட்டில் உள்ள கட்டிலில் விளையாடிக் கொண்டிருந்த போது , அங்கு தொங்கிக் கொண்டிருந்த நுளம்பு வலையொன்றின் நூல் பகுதி சிறுவனின் கழுத்தில் இறுக்கியாதாகத் தெரிவிக்கப்படுகிறது.
+While the boy was playing at the cot in the house last night, the thread of the mosquito net, which was hanging there, was reported to be tightened on the boy's neck.
 
-விளையாடிக் கொண்டிருந்த சிறுவனின் சத்தமில்லாததை அவதானித்த பெற்றோர்கள் , வீட்டின் படுக்கை அறைக்குச் சென்று பார்த்த போது அங்கு சிறுவன் கழுத்து இறுகி கிடப்பதை பார்த்து உடனடியாக உறவினர்கள், அயலவர்களின் உதவியோடு புத்தளம் தள வைத்தியசாலைக்கு சிறுவனைக் கொண்டு சென்றனர்.
+The parents, who noticed the boy's noise, went to the bedroom of the house and immediately took the boy to the Puttalam Base Hospital with the help of relatives and neighbors.
 
-இந்த சம்பவம் தொடர்பில் புத்தளம் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். (a)
+Puttalam police are conducting further investigations into the incident. (A)
 
 ◼️
 
 [Data](articles/6804c0cb.json)
 
+[Extended Data](ext_articles/6804c0cb.ext.json)
+
 ---
 
-### முல்லை இளைஞரின் சடலம் ஒதுங்கியது
+### The corpse of the Mullaiter youth is left
 
 *2024-01-30 04:29:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லை-இளைஞரின்-சடலம்-ஒதுங்கியது/175-332312) · `ta`
 
-முல்லைத்தீவு - மாத்தளன் கடலில் நேற்று முன்தினம் குளிக்கப் போன சமயம் காணாமல் போன குடும்பஸ்தரின் சடலம் நேற்றுப் பிற்பகல் முல்லைதீவு சாலை கடற்கரை பகுதியில் கரை ஒதுங்கி உள்ளது.
+The body of a missing family member was on the shore of the Mullaitivu road yesterday afternoon when the Mullaitivu - Matalan was bathed yesterday.
 
-புதுக்குடியிருப்பு, பத்தாம் வட்டாரத்தைச் சேர்ந்த இராசதுரை கஸ்தூரன் என்ற 33 வயதுடைய குடும்பஸ்தர் ஒருவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+A 33 -year -old family member, Rasadurai Kasturan, from the tenth region of Pudukkudiyiruppu, has been recovered.
 
 ◼️
 
 [Data](articles/0d56aae4.json)
 
+[Extended Data](ext_articles/0d56aae4.ext.json)
+
 ---
 
-### கொழும்பில் இன்று போராட்டம்
+### Struggle in Colombo today
 
 *2024-01-30 04:23:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இன்று-போராட்டம்/175-332311) · `ta`
 
-ஐக்கிய மக்கள் சக்தி இன்று கொழும்பில் மாபெரும் கண்டன ஊர்வலம் மற்றும் பொதுக் கூட்டம் ஆகியவற்றை நடத்தவுள்ளதாக அறிவித்துள்ளது.
+The United People's Power has announced that it will hold a massive protest and a public meeting in Colombo today.
 
-அரசாங்கத்திற்கு எதிராக நடத்தப்படும் இந்தப் போராட்டத்தில் 50 ஆயிரம் பேர் திரள்வர் என்று அக்கட்சி அறிவித்துள்ளது.
+The party has announced that 50 thousand people will gather in the struggle against the government.
 
-இலங்கையில் வாழ்க்கைச் செலவு அதிகரிப்பு உட்பட பல பிரச்சினைகளை முன்னிறுத்தி இந்தப் போராட்டம் நடத்தப்படுகின்றது. (a)
+The struggle is being carried out on a number of issues, including the increase in cost of living in Sri Lanka. (A)
 
 ◼️
 
 [Data](articles/c36c095d.json)
+
+[Extended Data](ext_articles/c36c095d.ext.json)
 
 ---
 
@@ -1929,19 +1979,5 @@ The Government Alliance Executive Committee today held a protest in front of the
 [Data](articles/62d3f889.json)
 
 [Extended Data](ext_articles/62d3f889.ext.json)
-
----
-
-### Local, foreign government representatives meet
-
-*2024-01-29 18:09:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Local-foreign-government-representatives-meet/110-275923) · `en`
-
-The Second Diplomatic Buddhist Convention of the Sri Lankan Bhikkhu Association in Europe today held a meeting of local and foreign government representatives at the Bandaranaike Memorial International Conference Hall (BMICH). The event was sponsored and hosted by the Sri Lankan Ministry of Foreign Affairs. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/8d7200d6.json)
-
-[Extended Data](ext_articles/8d7200d6.ext.json)
 
 ---

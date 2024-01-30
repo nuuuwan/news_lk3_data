@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 18:32:41**
+As of **2024-01-30 18:50:55**
 
 ## Newspaper Stats
 
-*Scraped **3,587** Articles*
+*Scraped **3,590** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,49 @@ islandlk | 198
 newsfirstlk | 216
 dailyftlk | 233
 adalk | 326
-adaderanasinhalalk | 395
 virakesarilk | 395
+adaderanasinhalalk | 396
 tamilmirrorlk | 454
 adaderanalk | 459
-dailymirrorlk | 485
+dailymirrorlk | 487
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,579 (99.8%) of 3,587 articles have been extended.
+3,587 (99.9%) of 3,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### முஜிபுர் ரஹ்மான் பாதிப்பு: சஜித் பார்வையிட்டார்.
+### සජිත් ජාතික රෝහලට
+
+*2024-01-30 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192753) · `si`
+
+සමගි ජන බලවේගය කොළඹදී සංවිධානය කළ විරෝධතාවය අතරතුරදී තුවාල ලබා රෝහල්ගතකර පුද්ගලයින්ගේ සුවදුක් බැලීම සඳහා විපක්ෂනායක සජිත් ප්‍රේමදාස කොළඹ ජාතික රෝහල වෙත පැමිණියේය.
+
+විරෝධතාවය අතරතුරදී ඇතිවූ අසනීප තත්ත්වයක් හේතුවෙන් හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබුර් රහුමාන් මහතාද රෝහල්ගතකර තිබුණි.
+
+◼️
+
+[Data](articles/f01fe5ba.json)
+
+---
+
+### Mujibur Rahman Victim: Sajith visited.
 
 *2024-01-30 18:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஜிபுர்-ரஹ்மான்-பாதிப்பு-சஜித்-பார்வையிட்டார்/175-332362) · `ta`
 
-“மாற்றத்தை ஏற்படுத்தும் வருடம் - 2024'' எனும் தொனிப்பொருளில் ஐக்கிய மக்கள் சக்தி இன்று (30) பிற்பகல் கொழும்பு விகாரமகாதேவி பூங்கா அருகில் முன்னெடுத்த எதிர்ப்புப் பேரணியில் கலந்து கொண்ட முன்னாள் பாராளுமன்ற உறுப்பினரும், ஐக்கிய மக்கள் சக்தியின் பிரதி பொதுச் செயலாளருமான முஜிபுர் ரஹ்மான்  பொலிஸாரினால் மேற்கொள்ளப்பட்ட கண்ணீர்ப்புகை, நீர்த்தாரை பிரயோகத்தினால் பாதிக்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+The United People's Power, a former parliamentarian and deputy general secretary of the United People's Power, who attended a protest rally near the Vikramagadevi Park in Colombo this afternoon, under the theme "Change - 2024" has been admitted to the hospital.
 
-பேரணியை தொடர்ந்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச நலம் விசாரிக்க சென்றமை குறிப்பிடத்தக்கது.
+Following the rally, opposition leader Sajith Premadasa went to inquire.
 
 ◼️
 
 [Data](articles/3a8c79af.json)
+
+[Extended Data](ext_articles/3a8c79af.ext.json)
 
 ---
 
@@ -62,27 +78,55 @@ The Minister said a discussion was held with experts in the field and relevant i
 
 [Data](articles/77d20fb7.json)
 
+[Extended Data](ext_articles/77d20fb7.ext.json)
+
 ---
 
-### බිහිසුණු ඩ්‍රෝන ප්‍රහාරයත් සමග කරළියට ආ කටේබ් හිස්බුල්ලා
+### Minimum speed limit on expressways soon: Bandula
+
+*2024-01-30 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Minimum-speed-limit-on-expressways-soon-Bandula/155-275992) · `en`
+
+Colombo, Jan. 30 (Daily Mirror)- Steps are being taken to impose a minimum speed limit on expressways as accidents are caused due to slow-moving vehicles, Transport Minister Bandula Gunawardana said today.
+
+He told the weekly Cabinet briefing that even though the maximum speed limit is imposed as 100 kmph, no minimum speed has been imposed yet.
+
+He said most accidents are caused when overtaking slow moving vehicles and it is important to set a minimum speed limit to prevent such accidents.
+
+The Minister said a discussion was held with experts in the field and relevant institutions such as the police regarding the accidents on expressways and that new rules and regulations will be published in a gazette notification within two weeks.
+
+◼️
+
+[Data](articles/b79ff656.json)
+
+---
+
+### Eyebullah, who came to the forest with the horrific drone attack
 
 *2024-01-30 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192752) · `si`
 
-ජෝර්දාන - සිරියා දේශසීමාව ආසන්නයේ ස්ථානගතව සිටි අමෙරිකානු හමුදා කණ්ඩායමක එල්ල කළ ඩ්‍රෝන ප්‍රහාරයෙන් මියගිය භටයින් තිදෙනාගේ නම් අද අමෙරිකානු බලධාරීන් විසින් මාධ්‍ය ට නිකුත් කළේය.
+The three troops who were killed in a civilized US military border was issued by the American authorities to the media today.
 
-ඔවුන් නැවතී සිටි නිවස්නයට එල්ල කර තිබූ එම ප්‍රහාරයෙන් මියගොස් තිබුණේ සැරයන් විලියම් ජෙරෝම් රිවර්ස් (46), කෙනඩි ලෙඩොන් සැන්ඩරස් (24) සහ බ්‍රෙන්නා ඇලෙක් සොන්ද්‍රීයා මොෆෙට් (23) ය.
+The attack was killed in the attack that they had stayed in the attack.
 
-මේ අතර, පෙන්ටගනයේ ප්‍රකාශිකා සබ්‍රිනා සිං සඳහන් කළේ ටවර් - 22 කඳවුරට ප්‍රහාරය එල්ල කළ කණ්ඩායම බොහෝදුරට කටේබ් හිස්බුල්ලා විය හැකි බවයි.
+Meanwhile, Pentagon's Pressukia Sabhrina Singh said that the group attacked with Tower - 22 camps that the group attacked the camp.
 
-කටේබ් හිස්බුල්ලා 2005 වසරේ ඉරාකය, අමෙරිකානු හමුදා විසින් ආක්‍රමණයත් සමග බිහිවූ ඉරානයේ සහාය ලබන ඉරාක සන්නද්ධ කණ්ඩායමකි.
+An Iraqi armed group that was born with Iraq, 2005 with the invasion by Iraq, 2005 with the invasion by American troops.
 
-ඔවුන් මේ වනවිට ඉරාකයේ සන්නද්ධ කණ්ඩායම් අතර ප්‍රබලතම කණ්ඩායම ලෙස සැලකෙන අතර, මෑතකදී මැදපෙරදිග අමෙරිකානු හමුදා වෙත එල්ල වූ ප්‍රහාරවලින් වැඩි ප්‍රමාණයක් කටේබ් හිස්බුල්ලා විසින් එල්ල කරන්නට ඇති බව සැලකෙයි.
+They are considered the strongest group among armed groups in Iraq, and the most recent attacks on the Middle East has been launched by Katabibullah.
 
-ඉරාන සහ ඉරාක පුරවැසිභාවය හිමි ‘අබු මහදි අල් - මුහන්දිස්' නමැති ෂියා සන්නද්ධ නායකයා විසින් මෙම සන්නද්ධ කණ්ඩායම මෙහෙයවනු ලැබීය.
+The armed group was conducted by the Armed Leader of Abu Oya and Iraqi Citizenship.
+
+However, Katabhab Hezbollah leader was also killed in a drone strike to the Baghdad International Airport.
+
+But they occasionally strike attacks that armed group will continue.
+
+Katuwa Hezbollah named the United States in 2009 as a terrorist organization.
 
 ...
 
 [Data](articles/2d92182d.json)
+
+[Extended Data](ext_articles/2d92182d.ext.json)
 
 ---
 
@@ -110,41 +154,51 @@ Another armed group, Palestinian Islamic Jihad, said two of those killed were it
 
 ---
 
-### රෝහලක් තුළට ම ගොස් ඊශ්‍රායල SF භටයින් සිදුකළ බිහිසුණු මෙහෙයුම
+### The terrible mission that the Israeli sf troops conducted in a hospital
 
 *2024-01-30 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192751) · `si`
 
-පලස්තීන සිවිල් වැසියන්ට සිදුවන ජීවිත හානි සම්බන්ධයෙන් ජාත්‍යන්තර අධිකරණය නියෝගයක් ලබා දුන්න ද ගාසා තීරයේ මෙහෙයුම්වලින් මිය යන සංඛ්‍යාව තවදුරටත් ඉහළයමින් තිබෙන බව වාර්තා වෙයි.
+The International Court of Justice has also been given an order on the rise of the Palestinian civilian casualties, reports say.
 
-පලස්තීන සෞඛ්‍ය බලධාරීන් ප්‍රකාශ කරන්නේ පසුගිය ඔක්තෝබර් 07 වැනිදායින් පසු මේ දක්වා ගාසා තීරයට එල්ල කරන ඊශ්‍රායල ප්‍රහාරවලින් පලස්තීනුවන් 26,637ක් ජීවිතක්ෂයට පත්වී ඇති අතර තුවාල ලැබූ සංඛ්‍යාව 65,387කි.
+Palestinian health authorities have claimed 26,637 Palestinians from Gaza to date after the October 7.
 
-මේ අතර "ගාසා සිටි" කලාපයට තුන් පැත්තකින් ඇතුළු වූ ඊශ්‍රායල හමුදා එහි පලස්තීනුවන්ට ඉවත්වන ලෙස දැනුම්දී ඇති බව සඳහන් ය.
+Meanwhile, Israeli soldiers who have been informed from the "Gaza 'zone have been asked to quit the Palestinians.
 
-උතුරුදිග ගාසා තීරයේ පිහිටි "ගාසා සිටි" වෙතින් ඊශ්‍රායල හමුදා මීට පෙර ඉවත්වුවද දැන් නැවතත් ඔවුන් එහි පැමිණ ඇත්තේ හමාස් සංවිධානය යළි ක්‍රියාකාරී වී ඇති බව පවසමිනි.
+Although Israeli troops had previously left before the "Gaza" in the north Gaza, they were now returning there.
 
-ඊශ්‍රායලය මෙලෙස කෙටි කාලයක් තුළ ඉවත්වන ලෙස පලස්තීනුවන්ට දැනුම්දීම ඔවුන්ට අතිශය දුෂ්කර අත්දැකීමක් වී ඇති බව ජගත් සංවිධානය පවසයි.
+They have been an extreme experience to inform the Palestinians to leave Israel with a short period of time.
 
-පසුගිය දෙසැම්බර් 1 වනදා සිට මිලියන 1.38ක් පලස්තීනුවන්ට තමන් සිටින ප්‍රදේශවලින් ඉවත්වන ලෙස දැනුම්දී ඇති අතර ඉන් 700,000ක් පමණ තාවකාලික කඳවුරු 161ක රඳවා ඇති බව එක්සත් ජාතීන්ගේ මානුෂීය කටයුතු කාර්යාලය සඳහන් කළේය.
+According to December 1, the Palestinians have been asked to leave their area from 161 million temporary camps, the UN Humanitarian Affairs
+
+Meanwhile, Israeli Special Army soldiers murdered by the Israeli Special Pistols, including the Nurses and civilians who were infected as the doctors and civilians in the Palestinian West.
+
+Israel says that three of Hamas armed members who were ready for an attack were killed by their commandos.
 
 ...
 
 [Data](articles/8f2ebd4d.json)
 
+[Extended Data](ext_articles/8f2ebd4d.ext.json)
+
 ---
 
-### ஊழல் மிகுந்த நாடுகள் பட்டியலில் இலங்கைக்கு 115-வது இடம்
+### Sri Lanka is ranked 115th in the list of corrupt countries
 
 *2024-01-30 17:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஊழல்-மிகுந்த-நாடுகள்-பட்டியலில்-இலங்கைக்கு-115-வது-இடம்/50-332361) · `ta`
 
-உலகில் ஊழல் மிகுந்த நாடுகள் கொண்ட பட்டியலை அரசு சாரா அமைப்பான 'டிரான்ஸ்பரன்சி இன்டர்நேஷனல்' என்ற அமைப்பு வெளியிட்டு வருகிறது. உலகில் உள்ள 180 நாடுகளில் இந்த அமைப்பு ஆய்வு மேற்கொண்டு வரிசைப்படுத்துகிறது. நிர்வாக வெளிப்படைத்தன்மை, இலஞ்சம், ஊழல் மற்றும் முறைகேடுகள் போன்றவற்றை காரணிகளாக கொண்டு ஆய்வு மேற்கொள்ளப்படுகிறது.
+'Transparency International', a non -governmental organization, is publishing a list of corrupt countries in the world.. The organization is conducting and sorting in 180 countries in the world. The study is carried out as factors such as administrative transparency, bribery, corruption and irregularities.
 
-இந்த காரணிகளின் அடிப்படையில் 100-க்கு 100 மதிப்பெண்கள் பெறும் நாடு ஊழலற்ற நாடு என்ற வகையில் தரவரிசைப் பட்டியலில் முதலிடம் வழங்கப்படுகிறது. பூஜ்ய (0) மதிப்பெண் பெறும் நாடு ஊழல் மிகுந்த நாடாக குறிப்பிடப்படுகிறது.
+Based on these factors, the country with 100 marks out of 100 is a corrupt country.. The country that receives zero (0) marks is referred to as a corrupt country.
 
-அவ்வகையில் இந்த ஆண்டுக்கான தரவரிசை பட்டியலை டிரான்ஸ்பரன்சி இன்டர்நேஷனல் வெளியிட்டுள்ளது. மொத்தம் உள்ள 180 நாடுகளில் எந்த நாடும் 100-க்கு 100 மதிப்பெண் பெறவில்லை. அதாவது உலகம் முழுவதும் ஊழல் இருப்பதை இந்த பட்டியல் காட்டுகிறது. 90 மதிப்பெண் பெற்ற டென்மார்க் ஊழல் மிகவும் குறைந்த நாடாக முதலிடத்தை பிடித்துள்ளது. 87 மதிப்பெண்களுடன் பின்லாந்து 2-ம் இடத்தையும், 85 மதிப்பெண்களுடன் நியூசிலாந்து 3-ம் இடத்தையும் பிடித்துள்ளன.
+Transparency International has released the ranking list for this year. No country scored 100 out of 180 countries in total. This list shows that corruption all over the world. Denmark scandal, which scored 90 score, tops the highest country. Finland with 87 marks and New Zealand 3rd with 85 marks.
+
+India, which was 85th last year, behind 93rd this year. With 40 marks last year, this year has scored 39 marks. Similarly, Kazakhstan, Lesotho and the Maldives have shared 93rd with India with 39 marks.
 
 ...
 
 [Data](articles/60b93a41.json)
+
+[Extended Data](ext_articles/60b93a41.ext.json)
 
 ---
 
@@ -201,6 +255,8 @@ A navy statement said that the ship had responded to a distress message on 28 Ja
 ...
 
 [Data](articles/dabbc79a.json)
+
+[Extended Data](ext_articles/dabbc79a.ext.json)
 
 ---
 
@@ -854,21 +910,23 @@ In addition, the court order prohibits Opposition Leader Sajith Premadasa and ot
 
 ---
 
-### ජනවාරි පළමු දින 28ට සංචාරකයන් 189 574ක් ඇවිත්
+### 189 574 tourists arrived at the first 28 days of January
 
 *2024-01-30 13:50:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-පළමු-දින-28ට-සංචාරකයන්-189-574ක්-ඇවිත්/11-407801) · `si`
 
-2024 ජනවාරි මාසයේ පළමු දින 28ක කාලය තුළ ශ්‍රී ලංකාවට සංචාරකන් 189 574ක් පැමිණ තිබේ. 2023 වසරේ ජනවාරි මාසය තුළදීම ශ්‍රී ලංකාවට පැමිණ තිබුණ සංචාරකයන් සංඛ්‍යාව 102545කි.
+189 574 tourists arrived in Sri Lanka in January 2024. The number of tourist arrivals arriving in Sri Lanka during January of 2023 was 102545.
 
-ජනවාරි මාසයේ පළමු දින 28 තුළ මෙරටට වැඩිම සංචාරකයින් පිරිසක් පැමිණ ඇති දිනය වන්නේ ජනවාරි 15 දායි. ඒදින ශ්‍රි ලංකාවට සංචාරකයින් සංඛ්‍යාව 8,541 කි පැමිණ තිබේ.
+The highest number of tourist arrivals arrived in Sri Lanka in the first 28 days of January. 8,541 tourists arrived in Sri Lanka.
 
-ජනවාරි මාසයේදී ශ්‍රී ලංකාවට වැඩිම සංචාරකයන් පිරිසක් පැමිණ තිබුණේ ඉන්දියාවෙන් වන අතර එම අතර එම අගය 31920කි.
+Sri Lanka has come to Sri Lanka in January, and it was 31920.
 
-මීට අමතරව රුසියාවෙන් සංචාරකයින් 28,159ක්, එක්සත් රාජධානියෙන් 15,252 ක්, ජර්මනියෙන් 12,340ක්, ලෙස වැඩි වශයෙන් සංචාරකයින් මෙරටට පැමිණ ඇත.
+In addition, 28,159 tourists from Russia, 15,252 from the UK and 12,340 from Germany, tourists arrived in Sri Lanka.
 
 ◼️
 
 [Data](articles/dcf75b6d.json)
+
+[Extended Data](ext_articles/dcf75b6d.ext.json)
 
 ---
 
@@ -1004,21 +1062,23 @@ After completing the visit, Pakistan's Saif ship will leave Sri Lanka on the fir
 
 ---
 
-### අඛණ්ඩව සිවුවැනි වසරටත් වැඩිම වාහන අලෙවියක් කළ සමාගම බවට ටොයෝටා පත්වෙයි
+### Toyota is the most consecutive year of vehicles
 
 *2024-01-30 13:29:48* · [`adalk`](https://www.ada.lk/breaking_news/අඛණ්ඩව-සිවුවැනි-වසරටත්-වැඩිම-වාහන-අලෙවියක්-කළ-සමාගම-බවට-ටොයෝටා-පත්වෙයි/11-407800) · `si`
 
-තම සමාගම් සමූහය 2023 දීද ලෝකයේ වැඩිම වාහන ඒකක ගණනක් අලෙවි කළ සමාගම බවට අඛණ්ඩව සිව්වැනි වසරටත් පෙරමුණ ගෙන ඇති බව ජපානයේ ප්‍රමුඛ පෙලේ වාහන නිෂ්පාදන සමාගමක් වන ටොයෝටා සමාගම පවසයි.
+In 2023, the JVP's leader vehicle manufacturing company, Toyota, says that in 2023, the largest fortnings were the company that sold the highest number of auto units.
 
-ටොයෝටා සමාගම 2023 වසරේදී ලොව පුරා මෝටර් වාහන ඒකක මිලියන 11.23ක් අලෙවි කර තිබේ. ටොයෝටා සමාගම යටතේ පවතින ඩයිහට්සු මෝටර් සමාගම සහ ට්‍රක් රථ නිෂ්පාදක හිනෝ සමාගම විසින්  නිපදවා අලෙවි කළ මෝටර් වාහන ඒකක ප්‍රමාණයද මෙම අගයට ඇතුළත් කර තිබේ.
+Toyota has sold 11.23 million motor vehicle units worldwide in 2023. The amount of motor vehicle units that have been produced by the Dayhatu Motor Company under Toyota and the truck manufacturer Hdo has been included in this value.
 
-2022 වසර හා සැසදීමේදී ටොයෝටා සමාගම් සමූහයේ වාහන ඒකක අලෙවිය සියයට 7.2කින් ඉහළ ගොස් තිබේ. ජර්මනියේ වොක්ස් වැගන් සමාගම වාහන ඒකක මිලියන 9.24ක් අලෙවි කර ලෝකයේ දෙවැනි ස්ථානයට පත්ව තිබේ.
+Toyota Group's autumn sales increased by 7.2 per cent. The Vox Wagon of Germany has been marketed in the world by selling 9.24 million auto units.
 
-ටොයෝටා සමාගම මීට පෙර වසරකදි අලෙවි කළ ඉහළම මෝටර් වාහන ඒකක ගණන වූයේ 2019 වසරේදී අලෙවි කළ වාහන ඒකක මිලියන 10.74යි.
+The highest number of motor vehicle units sold in 2019 was 10.74 million units sold in 2019.
 
 ◼️
 
 [Data](articles/e1e1eb73.json)
+
+[Extended Data](ext_articles/e1e1eb73.ext.json)
 
 ---
 
@@ -1927,45 +1987,5 @@ Most US soldiers have been killed in the current attack after 13 US soldiers wer
 [Data](articles/7c3af846.json)
 
 [Extended Data](ext_articles/7c3af846.ext.json)
-
----
-
-### Court order for the rally
-
-*2024-01-30 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192731) · `si`
-
-Court has issued a court order to the folk of the reconciliation to be held in Colombo today (30).
-
-Accordingly, the leader of the party Sajith Premadasa, party secretary Ranjith Madduma Bandara, Central Organizer Munibar Rahaman, Madi Colombo Organizer Upsara Amarasinghe and Samagi Colombo Magistrate's Court OrderHave been developed.
-
-Accordingly, the respondents and their followers are prohibited from the Maliwatta Road, Milvawatta Road, Milton Perera Mawatha and Jumma Junction through Jumma Mawatha and Jumma Junction.
-
-◼️
-
-[Data](articles/1baf184e.json)
-
-[Extended Data](ext_articles/1baf184e.ext.json)
-
----
-
-### The body of a family member who was thrown by a wave in the Mullaitivu Matalan Sea
-
-*2024-01-30 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175118) · `ta`
-
-The body of a young family member who was drowned in the Mullaitivu Matalan Sea was on Monday (29).
-
-The family of the Mullaitivu Matalan area yesterday evening, the family of the family was drowned in the sea with the family.
-
-Following the incident, the body of a family member was found on the coast of the road yesterday evening.
-
-The death of a young family member of Rasadurai Kasturan, a new residence of the 33 -year -old area of the 33 -year -old.
-
-Mullaitivu District Judge Dharmalingam Pradeepan had ordered the relatives to be handed over to the relatives after the autopsy.
-
-◼️
-
-[Data](articles/a16f6dd4.json)
-
-[Extended Data](ext_articles/a16f6dd4.ext.json)
 
 ---

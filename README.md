@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 12:32:55**
+As of **2024-01-30 12:49:41**
 
 ## Newspaper Stats
 
-*Scraped **3,476** Articles*
+*Scraped **3,477** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 211
 dailyftlk | 233
 adalk | 313
 virakesarilk | 372
-adaderanasinhalalk | 378
+adaderanasinhalalk | 379
 tamilmirrorlk | 440
 adaderanalk | 445
 dailymirrorlk | 471
@@ -26,11 +26,25 @@ dailymirrorlk | 471
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,476 (100.0%) of 3,476 articles have been extended.
+3,476 (100.0%) of 3,477 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### සජබ විරෝධතාකරුවන්ට තවත් වාරණයක්
+
+*2024-01-30 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192735) · `si`
+
+සමගි ජන බලවේගයේ විරෝධතා රැළියට සහභාගී වන පිරිසට මුදල් අමාත්‍යාංශයට සහ ජනාධිපති ලේකම් කර්යලයට ඇතුළුවීම වළක්වාලමින් කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණයෙන් වාරණ නියොගයක් නිකුත් කර
+
+සමගි ජන බලවේගය අද (30) දින කොළඹදී  විරෝධතා පා ගමනක් සහ රැළියක් පැවැත්වීමට සූදානම් ව සිටියි.
+
+◼️
+
+[Data](articles/1e426617.json)
+
+---
 
 ### Cabinet press conference
 
@@ -1991,23 +2005,5 @@ In this case, Shantan, who has been severely affected by the kidney liver damage
 [Data](articles/0e68086d.json)
 
 [Extended Data](ext_articles/0e68086d.ext.json)
-
----
-
-### Body of a soldier found in a pond of a pond
-
-*2024-01-29 20:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192710) · `si`
-
-The body of a soldier was found in a pond at a pond at a pond at a pond at a pond at a pond at a pond at a pond at a pond of the camp.
-
-The deceased has been identified as a 23 year old Tharindu Lakshan, a 23-year-old Tharindu Lakshan.
-
-Horana Magistrate made the magisterial inquiry into the incident today (29).
-
-◼️
-
-[Data](articles/7c46b083.json)
-
-[Extended Data](ext_articles/7c46b083.ext.json)
 
 ---

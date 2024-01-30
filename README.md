@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 08:17:16**
+As of **2024-01-30 08:32:41**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,412 (99.9%) of 3,414 articles have been extended.
+3,414 (100.0%) of 3,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### කැලණි සරසවි සිසුන් පරිපාලන ගොඩනැගිල්ල වටකරයි
+### Kelaniya University students round the administration building
 
 *2024-01-30 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192720) · `si`
 
-කැලණිය විශ්වවිද්‍යාලයේ සිසුන් 350ක පමණ පිරිසක් මේ වනවිට විශ්වවිද්‍යාල පරිපාලන ගොඩනැගිල්ල වටකරමින් විරෝධයක නිරත වන බව වාර්තා වේ.
+It is reported that about 350 students of the University of Kelaniya have been protesting around the university administration building.
 
-ශිෂ්‍ය ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් සිසුන් ඊයේ (29) රාත්‍රියේ ද විශ්වවිද්‍යාලය අසල විරෝධතාවයක නිරතවූ අතර, විරෝධතාවය විසුරුවාහැරීමට පොලීසියෙන් ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ල කර තිබිණි.
+Students were protesting near the University of the University last night, taking advanced at the University of the University last night, while the police had launched a gas and tear gas to disperse the protest.
 
-මෙම විරෝධතාවය හේතුවෙන් කොළඹ - නුවර ප්‍රධාන මාර්ගයේ කැලණිය විශ්වවිද්‍යාලය ඉදිරිපිටින් නුවර දෙසට ගමන්කරන මංතීරුව සම්පූර්ණයෙන්ම අවහිර වුණි.
+The lane was completely blocked in front of the University of Kelaniya on the Colombo-Kandy main road due to the protest.
 
 ◼️
 
 [Data](articles/6bed823d.json)
+
+[Extended Data](ext_articles/6bed823d.ext.json)
 
 ---
 
@@ -964,19 +966,23 @@ According to a complaint filed by the Social Media Regulatory Act, he has arrive
 
 ---
 
-### විමල බුද්ධි ලෙස පෙනී සිටි රොෂාන්ට ඇප
+### Roshan appeared as intelligence
 
 *2024-01-29 20:00:16* · [`adalk`](https://www.ada.lk/breaking_news/විමල-බුද්ධි-ලෙස-පෙනී-සිටි-රොෂාන්ට-ඇප/11-407788) · `si`
 
-සුනඛයෙකුට සිවුරක් පොරවා බුදු දහමට නිගා වන අන්දමේ ”ටික් ටොක්” වීඩියෝ අන්තර්ජාලයට මුදා හැරිය බව කියන රත්නපුරේ විමල බුද්ධි නොහොත් ”විශ්ව බුද්ධි මුනි” නමින් පෙනී සිටි රොෂාන් රණසිංහට නමැත්තාට තරයේ අවවාද කළ කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා පෙර ඇප මත සැකකරු මුදා හැරීමට අද (29දා) නියම කළේය.
+Colombo Chief Magistrate Prasanna Alwis was asserted on prior guarantee that the 'LTTE intelligence was released to the Internet of a dog that a dog was released to Buddhism.Onion (29) appointed.
 
-බුදු දහමට, සංඝයා වහන්සේලාට නිගා වන වීඩියෝ දර්ශන අන්තර්ජාලයට මුදාහරිනු ලැබුවහොත් හෝ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කරන විමර්ශන කටයුතු විවේචනය කරන ආකාරයේ ප්‍රකාශ කරනු ලැබුවහොත් ඇප අවලංගු කර යළි රක්ෂිත බන්ධනාගාර ගත කරන බව පවසමින් සැකකරුට ඇප නියම කරමින් මහේස්ත්‍රාත්වරයා තරයේ අවවාද කළේය.
+The magistrate insolve the suspect, saying that the videos of the Criminal Investigations of the Criminal Investigations or criticizing the investigation into the criminal investigations.
 
-පැමිණිල්ල වෙනුවෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ස්ථානාධිපති එස්.කේ.සේනාරත්න මහතා සමඟ පෙනී සිටි එහි පරිගණක අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක එරන්ද තිබ්බොටුවාව මහතා සිද්ධියට අදාළව කරනු ලැබු විමර්ශන වල ප්‍රගතිය දැක්වෙන වාර්තාවක් අධිකරණයට ඉදිරිපත් කළේය.බෞද්ධ ආගමට අපහාස කිරීම සම්බන්ධයෙන් සැකකරුට එරෙහි පැමිණිල්ල කැඳවනු ලැබු අවස්ථාවේදී සැකකරු අධිකරණයේ පෙනී සිටියේය.
+The OIC of the Criminal Investigation Department (CID) OIC Inspector Eranda Vitbotuwawa was called for the complaint against the suspect in connection with the contempt of the incident regarding the complaint with the complaint.The suspect appeared in court.
+
+Senior Deputy Solicitor General Dileepa Peiris, who appeared with the Criminal Investigation Department officials on behalf of the complaint, he said it was using it as a terminal condition and released the slanderous videos.
 
 ...
 
 [Data](articles/ffea7afd.json)
+
+[Extended Data](ext_articles/ffea7afd.ext.json)
 
 ---
 

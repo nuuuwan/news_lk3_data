@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 01:49:53**
+As of **2024-01-31 02:02:22**
 
 ## Newspaper Stats
 
-*Scraped **3,647** Articles*
+*Scraped **3,649** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,51 @@ adaderanasinhalalk | 405
 virakesarilk | 405
 tamilmirrorlk | 461
 adaderanalk | 467
-dailymirrorlk | 497
+dailymirrorlk | 499
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,647 (100.0%) of 3,647 articles have been extended.
+3,647 (99.9%) of 3,649 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### 76 Years of Independence - Looking Back in Retrospect - EDITORIAL
+
+*2024-01-31 01:19:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/76-Years-of-Independence-Looking-Back-in-Retrospect-EDITORIAL/172-276017) · `en`
+
+Sunday, 4th February will mark 76 years since our country gained independence from the British. Unlike India and Pakistan, we Lankans did not suffer a bloody struggle to free ourselves from direct colonial rule. Whether this was good is debatable.
+
+For one, we Lankans’ did not unite as men and women of one country to overthrow the yoke of imperialism. To this day we remain Sinhala, Tamil, Muslim and Burgher first. Being Sri Lankan often takes second place to our individual race, creed and religion.
+
+Most times we lose sight of the fact that the Veddah community (Lankan aborigines) are in fact the original citizens of our motherland.
+
+But there are many things we as citizens of Lanka can be proud of.
+
+We gave the world its first female Prime Minister. But, according to the World Economic Forum, Sri Lanka ranks 55th in the world when it comes to the gender equality gap and 30th in political participation. Today in a Parliament of 225 members, only 23 are female!
+
+...
+
+[Data](articles/488841fe.json)
+
+---
+
+### Sanath Nishantha and the Cheapness of Politics in Our Times
+
+*2024-01-31 01:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Sanath-Nishantha-and-the-Cheapness-of-Politics-in-Our-Times/172-276016) · `en`
+
+State Minister Sanath Nishantha Perera, at his death, upsurged another bout of deep political polarization in the country - a trait he personified in his political life. Some quarters in social media celebrated his death. “What a great day to wake up to…” said one poster in the Sri Lankan X (formerly Twitter). Fake news and doctored imagery amplified that rancour: A photo widely shared on social media platforms was revealed as an old imagery of the public in Borella celebrating the resignation of Nishantha’s political patron, Mahinda Rajapaksa, in 2022.
+
+Public anger at the system can obscure a bigger picture of an assortment of defects that led to the economic and political decay of the country. Subpar individuals in politics are only part of the problem; the bigger malady is the destructive economic and social policies their governments followed to keep their constituencies satiated for the time being.
+
+...
+
+[Data](articles/5c1212c7.json)
+
+---
 
 ### Two foreigners who came to Sri Lanka dies
 
@@ -2015,39 +2049,5 @@ Two of them contained in the videos of a high building in Colombo.
 [Data](articles/bf5ab7af.json)
 
 [Extended Data](ext_articles/bf5ab7af.ext.json)
-
----
-
-### Sri Lanka to seek private investor for Mannar Island wind plant
-
-*2024-01-30 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-private-investor-for-mannar-island-wind-plant-149123/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved a proposal to seek private investment on a built operate own (BOO) basis to build a power plant with six wind turbines at a wind farm in Mannar Island, Minister Bandula Gunawardana said.
-
-Sri Lanka was originally planning to build the turbines with a 47 million US dollar loan from the Asian Development Bank.
-
-“Asian Development Bank funds cannot be used until the government’s foreign debt restructuring program is completed,” Cabinet spokesman Minister Bandula Gunawardena told reporters Tuesday.
-
-“Accordingly the Cabinet of Ministers approved the proposal to implement the project on a BOO basis with private sector investors selected on a competitive basis with an operational period of 20 years.”
-
-There have been concerns raised about giving projects to build renewable plants without competitive bidding. (Colombo/Jan30/2024)
-
-◼️
-
-[Data](articles/087d7c15.json)
-
-[Extended Data](ext_articles/087d7c15.ext.json)
-
----
-
-### Action Notification
-
-*2024-01-30 13:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-குறித்து-அதிரடி-அறிவிப்பு/175-332340) · `ta`
-
-◼️
-
-[Data](articles/73e6763a.json)
-
-[Extended Data](ext_articles/73e6763a.ext.json)
 
 ---

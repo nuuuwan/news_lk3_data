@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 19:17:04**
+As of **2024-01-30 19:32:45**
 
 ## Newspaper Stats
 
-*Scraped **3,591** Articles*
+*Scraped **3,593** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 216
 dailyftlk | 233
 adalk | 326
 virakesarilk | 395
-adaderanasinhalalk | 396
+adaderanasinhalalk | 398
 tamilmirrorlk | 454
 adaderanalk | 459
 dailymirrorlk | 488
@@ -26,11 +26,49 @@ dailymirrorlk | 488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,590 (100.0%) of 3,591 articles have been extended.
+3,591 (99.9%) of 3,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### බිහිසුණු රිය අනතුරකින් විදේශිකයින් දෙදෙනෙකු මරුට
+
+*2024-01-30 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192755) · `si`
+
+ගාල්ල මාතර ප්‍රධාන මාර්ගයේදී යතුරුපැදියක් සහ බස් රථයක් ගැටීමෙන් යතුරුපැදියේ ගමන්කළ විදෙස් ජාතිකයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+
+◼️
+
+[Data](articles/ad26ec1f.json)
+
+---
+
+### නවසීලන්ත යොවුන් ක්‍රිකට් ක්‍රීඩකයින් වැඩ්ඩන් කරන අපේ අයිවන්
+
+*2024-01-30 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192754) · `si`
+
+මෙවර යොවුන් ලෝක කුසලාන ක්‍රිකට් තරගාවලිය මේ වනවිට දකුණු අප්‍රිකාවේ පැවැත්වෙයි.
+
+කුඩා කාලයේදී ක්‍රිකට් ක්‍රීඩාවට වැඩි ඇල්මක් නොදැක්වූ ඔස්කා ජැක්සන් සිය ක්‍රිකට් අතීතය ගැන මාධ්‍ය ට හෙළිකර තිබුණි.
+
+එහිදී ඔහු පවසා තිබුණේ 2015දී වෙලිංටන් ක්‍රීඩා පිටියක පැවති තරගයකදී මාටින් ගප්ටිල් පන්දුවට පහරදෙන ආකාරය දැක ක්‍රිකට් ක්‍රීඩාවට ආශාවක් ඇතිවූ බවයි.
+
+ඔහුට මෙතෙක් දුර පැමිණීමට උදව් කළ ශ්‍රී ලාංකිකයෙක් ගැන ද ඔහු විශේෂයෙන් සඳහන් කර තිබුණි.
+
+ඒ අයිවන් තිසේරා නම් කොළඹ බ්ලූම්ෆීල්ඩ් ක්‍රීඩා සමාජයේ හිටපු ක්‍රීඩකයෙකි.
+
+"අයිවන් කියන්නේ මගේ පුහුණුකරු. බොහෝ වෙලාවට ඔහු තමයි මට තනි පුහුණු සැසි කළේ. මට මානසිකව සහ තාක්ෂණික ශක්තිය ලබා දුන්නේ ඔහු..."
+
+වෙලිංටන් ක්‍රිකට් පාසලේ යොවුන් පුහුණුකරු ලෙස කටයුතු කළ අයිවන් වසර 15කට පසුව 2022 වසරේදී එම තනතුරට සමුදුන්නේය.
+
+මෙහි වැදගත් කරුණ වන්නේ බොහෝ ක්‍රිකට් ක්‍රීඩකයින්ට තමන් තරු වූ විට තම කුඩා කාලයේ පුහුණුකරුවන් අමතක වී යන කලක නවසීලන්ත නායකයා සිය පුහුණුකරු ගැන හැමවිටම ඉහළින් කතා කිරීමය.
+
+◼️
+
+[Data](articles/2834b568.json)
+
+---
 
 ### SJB protest tear-gassed...
 
@@ -41,6 +79,8 @@ Police used water cannons and tear gas to disperse Samagi Jana Bala Wegaya (SJB)
 ◼️
 
 [Data](articles/daf5c4f6.json)
+
+[Extended Data](ext_articles/daf5c4f6.ext.json)
 
 ---
 
@@ -1935,47 +1975,5 @@ United People's Power Secretary Ranjith Mathuma Bandara has said that the protes
 [Data](articles/e5ac2b16.json)
 
 [Extended Data](ext_articles/e5ac2b16.ext.json)
-
----
-
-### Anti-Terrorism Bill: Petition hearing enters day three
-
-*2024-01-30 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96844/anti-terrorism-bill-petition-hearing-enters-day-three) · `en`
-
-A five-member Supreme Court judge bench commenced hearing the petitions filed against the government’s new Anti-Terrorism Bill for the third day straight.
-
-Chief Justice Jayantha Jayasuriya and Justices Vijith Malalgoda, A.H.M.D. Nawaz, Shiran Gunaratne and Arjuna Obeysekera sat for the petition hearing which initially got underway on January 26. Legal counsels of the petitioners are continuing to present submissions.
-
-A total of 31 petitions have been put forward against the proposed legislation which seeks to replace the controversial Prevention of Terrorism Act (PTA).
-
-Among the petitioners are His Eminence Malcolm Cardinal Ranjith, General Secretary of Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara, National People’s Power (NPP) MP Vijitha Herath, Centre for Policy Alternatives (CPA), Socialist Youth Union (SYU), Duminda Nagamuwa of Frontline Socialist Party (FSP) and the Ceylon Teachers’ Union (CTU).
-
-...
-
-[Data](articles/0afabcee.json)
-
-[Extended Data](ext_articles/0afabcee.ext.json)
-
----
-
-### Court order issued against planned SJB rally
-
-*2024-01-30 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96843/court-order-issued-against-planned-sjb-rally) · `en`
-
-A court order was issued on Tuesday (30 Jan.), preventing the Samagi Jana Balawegaya (SJB) from inconveniencing the public during its political rally due to be held later today.
-
-The relevant order was issued by the Colombo Chief Magistrate against SJB Leader Sajith Premadasa, SJB General Secretary MP Ranjith Madduma Bandara, former MP Mujibur Rahman and several others.
-
-As per the court order, the respondents are prevented from inconveniencing the public and pedestrians in several areas within the Maligawatte police area.
-
-The SJB is scheduled to hold a political rally this afternoon, marking the launch of party leader Sajith Premadasa’s presidential campaign themed ‘Wenasak Hadana Wasarak’ (‘A year for change’).
-
-All SJB leaders, together with its allies, are expected to participate in the rally.
-
-◼️
-
-[Data](articles/58936420.json)
-
-[Extended Data](ext_articles/58936420.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 08:49:52**
+As of **2024-01-30 09:02:15**
 
 ## Newspaper Stats
 
-*Scraped **3,416** Articles*
+*Scraped **3,418** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 196
 newsfirstlk | 203
 dailyftlk | 233
 adalk | 313
-adaderanasinhalalk | 365
+adaderanasinhalalk | 367
 virakesarilk | 369
 tamilmirrorlk | 425
 adaderanalk | 437
@@ -26,11 +26,61 @@ dailymirrorlk | 461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,414 (99.9%) of 3,416 articles have been extended.
+3,418 (100.0%) of 3,418 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### Announcement on A / L Agrology question paper
+
+*2024-01-30 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192722) · `si`
+
+A / L Agricultural Accessibility to the New Telephone Ministry The Department of Examinations says that the approval is available to sit for the new examination.
+
+The ticket has already been issued for the exams candidates and the ticket could be obtained only if it is not received.
+
+However, the Department of Examinations also stated that if the new question paper stands for the examination for the invalidation.
+
+The Department of Examinations has taken steps to revocate the question paper with information that the A / L worksper have been exited.
+
+Accordingly, the Department has taken steps to hold the first month as a special examination.
+
+The second part of the agrovada question will be held from 01.30th to 11.40 day.
+
+The commissioner Amit Jayasundara said that further information can be obtained from the Department of Examinations.
+
+◼️
+
+[Data](articles/8e270f4f.json)
+
+[Extended Data](ext_articles/8e270f4f.ext.json)
+
+---
+
+### Maithri is noticeable to Mahinda as the post of Prime Minister
+
+*2024-01-30 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192721) · `si`
+
+The Supreme Court has granted permission to hear a basic human rights petition filed by President Maithripala Sirisena who served as the Prime Minister of Good Governance in 2018.
+
+Former President Maithripala Sirisena, former Prime Minister Mahinda Rajapaksa, who was named as respondents to appear in court, has been ordered to be released.
+
+After considering the petition, the S. The order has issued the order by a three-member judiciary panel of the three-member judges with Turai Raja and Kumuduni Wickremasinghe and Aetu Weeweleyers.
+
+The petition was then taken to the examination on 23rd September, and the court had presented the petition by the petitioner, Male Herath, a social activist.
+
+The petitioner says President Maithripala Sirisena has been removed as the Prime Minister of President Maithripala Sirisena on October 26, 2018.
+
+Subsequently, Mahinda Rajapaksa was appointed to the post.
+
+...
+
+[Data](articles/a198715a.json)
+
+[Extended Data](ext_articles/a198715a.ext.json)
+
+---
 
 ### Students surround administrative building of Kelaniya Uni
 
@@ -43,6 +93,8 @@ The students had also held a protest blocking the Colombo-Kandy road last night 
 ◼️
 
 [Data](articles/92077e60.json)
+
+[Extended Data](ext_articles/92077e60.ext.json)
 
 ---
 
@@ -63,6 +115,8 @@ On Jan.23, a group of persons who had arrived in an SUV had opened fire at a whi
 ...
 
 [Data](articles/6dc9dbdd.json)
+
+[Extended Data](ext_articles/6dc9dbdd.ext.json)
 
 ---
 
@@ -1949,45 +2003,5 @@ The traffic plan is to be implemented on 6th to 4 pm and the free celebration of
 [Data](articles/2f122253.json)
 
 [Extended Data](ext_articles/2f122253.ext.json)
-
----
-
-### Sri Lankan governments should take steps to connect with his family in view of Shantan's health - Tamil National People's Front
-
-*2024-01-29 15:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175075) · `ta`
-
-The Tamil National Alliance (TNA) has requested that the Indian government, the central government, the Tamil Nadu government and the Sri Lankan government take immediate steps to consider Santhan's physical condition.
-
-Those who have long been jailed in the murder of former Indian Prime Minister Rajiv Gandhi have been released by the Supreme Court of India and are being detained in a special camp and enjoying their lives like prisoners.
-
-At the request of the Shantan family, the Tamil National People's Front (TNA), which met with the Indian Vice President on the third day, appealed to the Indian High Court to live with their families.
-
-Shantan's health has deteriorated due to illness.
-
-Considering Santhan's physical condition, the Government of India, the Central Government and the Government of Tamil Nadu and the Government of Sri Lanka should take immediate steps to restore him from dangerous conditions and bring them to live with the families of Sri Lanka.We make the request.
-
-◼️
-
-[Data](articles/c1f78e71.json)
-
-[Extended Data](ext_articles/c1f78e71.ext.json)
-
----
-
-### Opposition rally in Colombo tomorrow
-
-*2024-01-29 15:52:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நாளை-கொழும்பில்-எதிர்ப்பு-பேரணி/175-332284) · `ta`
-
-The main opposition party, the United People's Power, has announced that it will hold a massive protest rally in Colombo tomorrow.
-
-Parliamentarian SM Marikar said that the struggle is being raised against the government on many issues, including the increase in cost of living.
-
-He said the place where the protest and a public meeting would be held will be announced later.
-
-◼️
-
-[Data](articles/a97930db.json)
-
-[Extended Data](ext_articles/a97930db.ext.json)
 
 ---

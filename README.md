@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 20:50:28**
+As of **2024-01-30 21:02:15**
 
 ## Newspaper Stats
 
-*Scraped **3,608** Articles*
+*Scraped **3,616** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,37 +16,95 @@ islandlk | 198
 newsfirstlk | 216
 dailyftlk | 233
 adalk | 330
-virakesarilk | 395
-adaderanasinhalalk | 398
+adaderanasinhalalk | 399
+virakesarilk | 401
 tamilmirrorlk | 459
 adaderanalk | 463
-dailymirrorlk | 489
+dailymirrorlk | 490
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,603 (99.9%) of 3,608 articles have been extended.
+3,608 (99.8%) of 3,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### தேர்தலை நடத்த அரசாங்கத்திற்கு முதுகெலும்பு இல்லை - சஜித்
+### கொழும்பில் இடம்பெற்ற ஐக்கிய மக்கள் சக்தியின் எதிர்ப்பு போராட்டம் !
+
+*2024-01-30 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175185) · `ta`
+
+அரசாங்கத்தின் செயற்பாடுகளுக்கு எதிர்ப்பு தெரிவித்து ஐக்கிய மக்கள் சக்தி முன்னெடுத்த எதிர்ப்பு போராட்டம் செவ்வாய்க்கிழமை (30)  பகல் கொழும்பு விகாரமாதேவி பூங்கா சுற்றுவட்டத்தில் இடம்பெற்றது.
+
+''மாற்றத்தை ஏற்படுத்தும் வருடம் - 2024'' எனும் தொனிப்பொருளில் ஐக்கிய மக்கள் சக்தி இன்று செவ்வாய்க்கிழமை (30) பிற்பகல் கொழும்பில் முன்னெடுத்த எதிர்ப்புப் பேரணி மீது பொலிஸார் நீர்த்தாரை மற்றும் கண்ணீர்ப்புகை பிரயோகம் மேற்கொண்டனர்.
+
+வெட் வரி உள்ளிட்ட மக்கள் எதிர்கொண்டு வரும் பல்வேறு பிரச்சினைகளுக்குரிய தீர்வை வழங்குமாறு அரசாங்கத்தை வலியுறுத்தி இந்த எதிர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
+
+ஐக்கிய மக்கள் சக்தியின் எதிர்ப்பு பேரணியில் கலந்துகொள்வதற்காக நாட்டின் பல்வேறு பகுதிகளிலிருந்தும் கட்சியின் ஆதரவாளர்கள் கொழும்பிற்கு வருகை தந்திருந்தனர்.
+
+கொழும்பு விகாரமகாதேவி பூங்கா அருகில் இந்த எதிர்ப்பு பேரணி ஆரம்பமானது. எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் இந்த பேரணி ஆரம்பமாகி முதல் 15 நிமிடங்களுக்குள்ளால் ஆர்ப்பாட்டத்தின் மீது கண்ணீர்ப்புகையும்,நீர்த்தாரைப் பிரயோகமும் இடம்பெற்றது.
+
+...
+
+[Data](articles/a16bc9d3.json)
+
+---
+
+### සුපිරි ආරම්භක පිතිකරු දැඩි සත්කාර ඒකකයට
+
+*2024-01-30 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192756) · `si`
+
+ඉන්දීය සුපිරි ක්‍රිකට් ක්‍රීඩක Mayank Agarwal එරට රෝහලක දැඩි සත්කාර ඒකකයකට ඇතුළත් කර ඇති බව විදෙස් මාධ්‍ය වර්තා කරයි.
+
+එම වාර්තා වැඩිදුරටත් පවසන්නේ ගුවන් ගමනකදී ඇතිවූ තත්ත්වයක් මත ඔහුව මෙලෙස Agartala හි රෝහලක දැඩි සත්කාර ඒකකයට ඇතුළත් කර ඇති බවය.
+
+රෝහල් ආරංචි මාර්ග උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කරන්නේ ඔහු මේ වනවිට මුඛයේ සහ උගුරේ ඇතිවූ අපහසුතාවයකින් පෙළෙන බවය.
+
+◼️
+
+[Data](articles/49d0f546.json)
+
+---
+
+### Policemen and protesters injured during SJB protest
+
+*2024-01-30 20:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Policemen-and-protesters-injured-during-SJB-protest/108-275996) · `en`
+
+Colombo, Jan. 30 (Daily Mirror)- Police Spokesman Nihal Thalduwa today confirmed that few policemen were injured in today’s protest while Samagi Jana Balawegaya (SJB) also said some of its partymen were also injured and hospitalized.
+
+“There were some policemen injured in the commotion but I am still to receive a report in protest,” Mr. Thalduwa said.
+
+SJB General Secretary Ranjith Madduma Bandara said around five party supporters including former MP Mujibur Rahaman was injured and hospitalized. However sources at the Accident Ward of the Colombo National Hospital said no politician was admitted to the hospital.
+
+◼️
+
+[Data](articles/b4b55f5a.json)
+
+---
+
+### The government has no backbone to hold elections - Sajith
 
 *2024-01-30 19:40:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-நடத்த-அரசாங்கத்திற்கு-முதுகெலும்பு-இல்லை-சஜித்/175-332367) · `ta`
 
-அரசாங்கத்திற்கு எதிராக ஐக்கிய மக்கள் சக்தியினால் முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தில் கலந்துகொண்ட எதிர்க்கட்சித் தலைவர் தலைவர் சஜித் பிரேமதாச கொழும்பு விகாரமகாதேவி பூங்கா பிரதான நுழைவாயில் முன்பாக ஊடகங்களுக்கு கருத்து வெளியிட்டுள்ளார்.
+Opposition leader Sajith Premadasa, who participated in a demonstration by the United People's Power against the government, has commented to the media in front of the main gateway to the Vikramagadevi Park in Colombo.
 
-“தேர்தல் மூலமே நாம் ஆட்சிக்கு வருவோம். தற்போதைய அரசாங்கத்திற்கு முதுகெலும்பு இல்லை. அவ்வாறு முதுகெலும்பு இருந்தால் தேர்தல் ஒன்றை நடத்துங்கள். எங்களிடம் டீல் இல்லை.
+“We will come to power through the election. The current government does not have the backbone. If the backbone does, hold an election.We have no deal.
 
-நீதிமன்ற தடையுத்தரவு பிறப்பித்த பாதைகளில் நாங்கள் பேரணி நடத்தவில்லை.நாம் சட்டத்தை மீறி செயற்படவில்லை.வேறு எதுவும் எங்களுக்கு வேண்டாம்,எங்களுக்குத் தேர்தலே வேண்டும்.
+We are not rally on the paths of court ban. We have not violated the law.
 
-அரசியல் ரீதியிலான டீல்கள் மூலம் அன்றி மக்கள் அனுமதியுடனயே ஆட்சிக்கு வருவோம்.மக்கள் ஆசிர்வாத்தின் ஊடாகவே நாம் ஆட்சிக்கு வருவோம் என்பதை இந்த ரணில் ராஜபக்ச அரசாங்கத்திடம் கூறுகிறோம்.
+We will come to power with the permission of the people, not by political deals.
+
+Ranil Rajapakse government is afraid of people flooding. This is a cowardly government. It is a government without the spinal cord. Fearing the people, some of the Ranil Rajapaksa government's handcuffs went to court this morning and demanded ban on some areas.
+
+But we went, we marched in the middle of the street, not in violation of the law. We did not violate the law. We did not violate the law.
 
 ...
 
 [Data](articles/a30dfac3.json)
+
+[Extended Data](ext_articles/a30dfac3.ext.json)
 
 ---
 
@@ -114,21 +172,25 @@ The SJB held a protest march against the conduct of the government, with the par
 
 ---
 
-### මාලදිවයින සහ ශ්‍රී ලංකාව අතර  ගිලන් ගුවන් ප්‍රවාහන සේවාවක්
+### Ambulance service between the Maldives and Sri Lanka
 
 *2024-01-30 18:57:15* · [`adalk`](https://www.ada.lk/breaking_news/මාලදිවයින-සහ-ශ්‍රී-ලංකාව-අතර--ගිලන්-ගුවන්-ප්‍රවාහන-සේවාවක්/11-407804) · `si`
 
-මාලදිවයිනේ ප්‍රවාහන සහ ගුවන් සේවා අමාත්‍ය කපිතාන්  මොහොමඩ් අමීන්( Capt. Mohamed Ameen) මහතා සහ වරාය නාවික හා ගුවන්සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා අතර විශේෂ සාකච්චාවක් අද ( 30 ) දින පෙරවරුවේ අමාත්‍ය කාර්යාලයේදී පැවැත්විණ.
+Captain Mohammed Amimad (CAPT), Maldives, Transport and Aviation Services (CAPT). A special discussion was held between the Mohamed Ameen and Minister Nimal Siripala de Silva today (30) this morning.
 
-මාලදිවයිනේ වෙසෙන ජනතාවට සිදු  වන හදිසි අනතුරු සහ රෝගාතුර වීම් හේතුවෙන් ප්‍රතිකාර ලබා ගැනීමට ශ්‍රි ලංකාවට කඩිනමින් පැමිණීමට අවශ්‍ය ගිලන් ගුවන් ප්‍රවාහන සේවාවක් ආරම්භ කිරීම පිලිබඳව මෙහිදී සාකච්චා කරන ලදී.
+The people of the Maldives have discussed the cause of the ambulance transport service to Sri Lanka to be treated due to injuries and illnesses.
 
-මාලදිවයින ගුවන්සේවා අමාත්‍යවරයා කියා සිටියේ මේ දක්වා මාලදිවයින් වැසියන් හදිසි ප්‍රතිකාර ලබා ගැනීමට ඉන්දියාවට රැගෙන ගිය බවත්,  එහෙත් ශ්‍රි ලංකාවේ හදිසි ප්‍රතිකාර කටයුතු වල ගුණාත්මකභාවය සැලකිල්ලට ගනිමින් ඉදිරියේදී එවැනි රෝගීන් ශ්‍රි ලංකාවේ රෝහල් වලට  ප්‍රතිකාර සඳහා එවීමට මාලදිවයින් රජය තීරණය කර ඇති බවයි.
+The Maldivian Aviation Minister said that the Maldives had taken into India to take immediate treatment, but the Maldives has decided to send them to the hospital in Sri Lanka.
 
-මෙම වැඩපිලිවෙල පිලිබඳව අමාත්‍යවරුන් දීර්ඝ වශයෙන් සාකච්චා කල අතර පලමු අදියර යටතේ මාලදිවයින  සිට කටුනායක ගුවන්තොටුපල අතර මෙම ගිලන් ගුවන් ප්‍රවාහන සේවාව ලබන මාර්තු මස 01 දා සිට ආරම්භ කීරීමට තීරණය කරන ලදී.
+Ministers discussed at length from the Katunayake airport to the Katunayake Airport, from the Maldives from the Maldives and Katunayake Airport on March 1.
 
-...
+Minister Nimal Siripala de Silva was given to the authorities of the airport and the Civil Aviation Authoror to establish a special unit at the Katunayake Airport.Adached to S. Therachandra. It was decided to start a similar service between the Ratmalana Airport and the Malaysia.
+
+◼️
 
 [Data](articles/0ce6b415.json)
+
+[Extended Data](ext_articles/0ce6b415.ext.json)
 
 ---
 
@@ -164,39 +226,43 @@ Recognizing the potential of international opportunities, Pasqual mentioned abou
 
 ---
 
-### அமைச்சுகளுக்கு வாகன  அனுமதி
+### Vehicle permit to ministries
 
 *2024-01-30 18:51:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சுகளுக்கு-வாகன-அனுமதி/175-332366) · `ta`
 
-துறைமுகங்கள், கப்பல் மற்றும் விமானப் போக்குவரத்து அமைச்சு மற்றும் கல்வி அமைச்சுக்கான வாகனங்களை இறக்குமதி செய்வதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+The Cabinet has approved the importation of vehicles for the Ministry of Ports, Shipment and Aviation and Education.
 
-அந்நியச் செலாவணி சந்தையில் ஏற்படும் அழுத்தத்தைக் குறைப்பதன் பொருட்டு கட்டுமான வாகனங்கள் மற்றும் அம்புலன்ஸ்கள் தவிர மோட்டார் வாகனங்களின் இறக்குமதியை அரசாங்கம் தற்காலிகமாக நிறுத்தி வைத்துள்ளது.
+The government has temporarily suspended the import of motor vehicles except construction vehicles and ambulances to reduce the pressure on the foreign exchange market.
 
-எவ்வாறாயினும், வாகனங்களை இறக்குமதி செய்வதற்கு துறைமுகங்கள், கப்பல் மற்றும் விமானப் போக்குவரத்து மற்றும் கல்வி அமைச்சுக்கள் நிதியமைச்சிடம் சமர்ப்பித்த கோரிக்கைகளுக்கு கடந்த ஆண்டு டிசம்பர் மாதம் அமைச்சரவை அங்கீகாரம் வழங்கியது.
+However, in December last year, the Cabinet approved the requests of the ports, shipping, air transport and education ministries to import vehicles.
 
 ◼️
 
 [Data](articles/fc1081a8.json)
 
+[Extended Data](ext_articles/fc1081a8.ext.json)
+
 ---
 
-### තවත් 10000කට ජපන් රැකියා දොර ඇරෙයි
+### Another 10000 operations opens Japanese job door
 
 *2024-01-30 18:50:56* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-10000කට-ජපන්-රැකියා-දොර-ඇරෙයි/11-407803) · `si`
 
-“අලුත් ගමක් අලුත් රටක් ව්‍යවසායක රාජ්‍යයක්” යන සංකල්පය යටතේ දිළිඳු සහ අන්ත දිළිඳු පවුල් අතරින් ලක්ෂ 12ක් සවිබල ගැන්වීමට අපේක්ෂා කරන බව සමාජ සවිබලගැන්වීම් රාජ්‍ය අමාත්‍ය අනුප පස්කුවල් මහතා පැවසීය.
+State Minister, State Minister (Colombo-Lankapuvath) Under the concept of a new village, a new country entrepreneurship "," State Minister (Colombow)
 
-එසේම ජපන් භාෂා ප්‍රවීණතා විභාගය සමත්වූවන් 10,000ක් විදේශගත කිරීම සිදු කරන බව ද තවත් විදේශ රැකියා ලක්ෂයක් මෙම වසරේ ලබාදීමට සැලසුම් කරන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+The public minister said that 10,000 persons who were able to abroad the Japanese Language Proficiency Examination and another 100,000 foreign employment will be provided this year.
 
-සමාජ සවිබලගැන්වීම් රාජ්‍ය අමාත්‍ය අනුප පස්කුවල් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (30) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+Social Empowerment of State Minister Forever Minister Pasiyasulle made this statement participating at a press conference held at the Presidential Media Center today (30) at the Presidential Media Center.
 
-එහිදී වැඩිදුරටත් අදහස් දැක් වූ සමාජ සවිබලගැන්වීම් රාජ්‍ය අමාත්‍ය අනුප පස්කුවල් මහතා මෙසේ ද පැවසීය,
+State Minister further said, "State Minister further said:
 
-මෙම වසරේ අපට තිබෙන ප්‍රධානම කාර්යය වන්නේ, අස්වැසුම නම් වූ සමාජ ආරක්ෂණ ක්‍රමවේදය ලක්ෂ විස්සක් වන ප්‍රතිලාභීන්ට ලබාදීමයි. “අලුත් ගමක් අලුත් රටක් ව්‍යවසායක රාජ්‍යයක්” යන සංකල්පය යටතේ දිළිඳු සහ අන්ත දිළිඳු පවුල් අතරින් ලක්ෂ 12ක් සවිබල ගැන්වීමට ද අපේක්ෂා කරනවා. එයින් ලක්ෂ 03ක් සවිබල ගැන්වීම මෙම වසර තුළ සිදු කරනවා.
+The main function of this year is to give the beneficiaries of the Social Security Methodology, which is twenty million. Under the concept of a new village new country, a new country entrepreneur, "is also expected to empower the poverty and extreme poverty families. This year, three million will be empowered this year.
 
 ...
 
 [Data](articles/19e5f341.json)
+
+[Extended Data](ext_articles/19e5f341.ext.json)
 
 ---
 
@@ -516,6 +582,24 @@ India, which was 85th last year, behind 93rd this year. With 40 marks last year,
 
 ---
 
+### வறுமையில் உள்ள 12 இலட்சம் குடும்பங்களை வலுவூட்ட எதிர்பார்ப்பு!  - அனுப பஸ்குவல்
+
+*2024-01-30 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175177) · `ta`
+
+புதிய கிராமம், புதிய நாடு, தொழில் முனைவு அரசு என்ற கருத்தின் கீழ், வறுமையில் உள்ள 12 இலட்சம் குடும்பங்களை வலுவூட்ட எதிர்பார்த்துள்ளதாக இராஜாங்க அமைச்சர் அனுப பஸ்குவல் தெரிவித்தார்.
+
+ஜப்பான் மொழித் திறன் பரீட்சையில் சித்தியடைந்த 10,000 பேர் வெளிநாடுகளுக்கு அனுப்பப்படவுள்ளதாகவும், மேலும் 100,000 பேருக்கு வெளிநாட்டு வேலை வாய்ப்புகளை இவ்வருடம் வழங்கத் திட்டமிடப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டுள்ளார்.
+
+ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (30) நடைபெற்ற ஊடக சந்திப்பில் கருத்துத் தெரிவிக்கும்போதே  சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பஸ்குவல் இவ்வாறு தெரிவித்தார்.
+
+இங்கு மேலும் கருத்துத் தெரிவித்த இராஜாங்க அமைச்சர் அனுப பஸ்குவல், இருபது இலட்சம் பயனாளிகளுக்கு அஸ்வெசும என்ற சமூகப் பாதுகாப்பு நிவாரணத்தை வழங்குவதே இந்த ஆண்டு எமது முக்கியப் பணியாகும். " புதிய கிராமம், புதிய நாடு, தொழில் முனைவு அரசு " என்ற கருத்தின் கீழ், வறுமையில் உள்ள  12 இலட்சம் குடும்பங்களை வலுவூட்டவும் எதிர்பார்க்கப்படுகிறது. இந்த வருடம் அதில் 3 இலட்சம் பேரை வலுவூட்டும் வேலைத்திட்டங்கள் முன்னெடுக்கப்படவுள்ளன.
+
+...
+
+[Data](articles/a20383db.json)
+
+---
+
 ### Former MP Mujibur Rahman hospitalised during SJB protest
 
 *2024-01-30 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96859/former-mp-mujibur-rahman-hospitalised-during-sjb-protest) · `en`
@@ -533,6 +617,22 @@ Earlier today, the SJB held a protest march against the conduct of the governmen
 [Data](articles/7b81d2a5.json)
 
 [Extended Data](ext_articles/7b81d2a5.ext.json)
+
+---
+
+### கேப்பாபிலவில் தீர்வுகளின்றி 4 ஆவது நாளாக தொடரும் இரு குடும்பங்களின் போராட்டம்!
+
+*2024-01-30 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175173) · `ta`
+
+கேப்பாப்பிலவு பகுதியில் வீட்டில் வசிப்பதற்கு பாதுகாப்பு இல்லை, பொலிஸார் நியாயமான நீதியை பெற்றுக்கொடுக்கவில்லை என கோரி நீதிவேண்டி இரு குடும்பங்கள் நான்காவது நாளாக தொடர்ச்சியாக  போராட்டத்தில் ஈடுபட்டு வருகின்றன.
+
+முல்லைத்தீவு கேப்பாபிலவு கிராமத்தில் சட்டவிரோத செயற்பாட்டில் ஈடுபட்டுவரும் அயல் வீட்டு குடும்பஸ்தரினால் குறித்த கிராமத்தில் வசிக்கும் இரு குடும்பங்களுக்கும் தொடர்ச்சியாக வாக்குவாதம் இருந்து வந்த நிலையில் அது தொடர்பாக பொலிஸாருக்கு முறைப்பாடு வழங்கப்பட்டும் எவ்வித நடவடிக்கைகளும் இதுவரை எடுக்கப்படவில்லை. இந்நிலையிலேயே கேப்பாபிலவு மாதிரி கிராமம் பிள்ளையார் கோவிலுக்கு முன்பாக நான்கு நாட்களாக தொடர்ச்சியான முறையில் இரு குடும்பங்களை சேர்ந்த 12 பேர் போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+
+இன்றையநாள் நான்காவது நாளாக தொடரும் இவர்களின் போராட்டத்தினை குறித்த பகுதி கிராம அலுவலரோ, பொலிஸாரோ கண்டுகொள்ளவில்லை. இதுவரை குறித்த போராட்டத்திற்கான நீதி கிடைக்காததனால் இரு குடும்பங்களும் வீட்டிற்கு செல்ல முடியாமலும், வீட்டில் இருக்க பாதுகாப்பற்ற நிலையிலும் வீதியிலேயே இருக்கின்றனர்.
+
+...
+
+[Data](articles/e6f7849d.json)
 
 ---
 
@@ -576,6 +676,26 @@ A navy statement said that the ship had responded to a distress message on 28 Ja
 
 ---
 
+### மருத்துவ பணியாளர்கள் போல ஜெனின் மருத்துவமனைக்குள் நுழைந்து இஸ்ரேலிய படையினர் தாக்குதல் - மூவர் பலி
+
+*2024-01-30 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175175) · `ta`
+
+மருத்துவமனை பணியாளர்கள் போல உடையணிந்த இஸ்ரேலிய படையினர் மேற்குகரையில் மருத்துவமனையொன்றிற்குள் நுழைந்து மூவரை சுட்டுக்கொன்றுள்ளனர்.
+
+மேற்குகரையின் ஜெனின் நகரில் உள்ள இபின் சின மருத்துவமனைக்குள் மருத்துவர்கள் மருத்துவ பணியாளர்கள் போல நுழைந்த இஸ்ரேலிய படையினர் மூன்று பாலஸ்தீனிய இளைஞர்களை சுட்டுக்கொன்றனர் என இஸ்ரேலிய பாலஸ்தீன தகவல்கள் தெரிவித்துள்ளன.
+
+தாதிமார்கள் ஹிஜாப்அணிந்த பெண்கள் மருத்துவர்கள் போல உடையணிந்த இஸ்ரேலிய விசேட படைப்பிரிவினர் மருத்துவமனைக்குள் நுழைவதை சிசிடிவி காட்சிகள் காண்பித்துள்ளன.
+
+மருத்துவமனைகள் நுழைந்த இஸ்ரேலிய படையினர் பின்னர் ஒவ்வொருவராக மூன்றாவது தளத்திற்கு சென்று இரண்டு இளைஞர்களை கொலை செய்தனர் என மருத்துவமனைக்குள் காணப்பட்டவர்களை மேற்கோள்காட்டி பாலஸ்தீன அரச செய்தி முகவர் அமைப்பு தெரிவித்துள்ளது.
+
+ஹமாஸ் மற்றும் இஸ்லாமிய ஜிகாத் அமைப்பை சேர்ந்தவர்களே கொல்லப்பட்டுள்ளனர் என இஸ்ரேல் தெரிவித்துள்ளது இஸ்ரேலிய அமைச்சர் ஒருவர் இந்த நடவடிக்கையை பாராட்டியுள்ளார்.
+
+...
+
+[Data](articles/cc6d975b.json)
+
+---
+
 ### ‘Aswesuma’ scheme to continue with several revisions
 
 *2024-01-30 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96858/aswesuma-scheme-to-continue-with-several-revisions) · `en`
@@ -609,6 +729,20 @@ Police have repeatedly launched a water and tear gas attack near the Colombo Pub
 [Data](articles/233b9186.json)
 
 [Extended Data](ext_articles/233b9186.ext.json)
+
+---
+
+### அட்டன் டிக்கோயா நகர சபைக்குள்ளேயே இந்த நிலைமை..!
+
+*2024-01-30 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175141) · `ta`
+
+நகரமெங்கும் கழிவுகள் அற்புறப்படுத்தாமல் தேங்கியிருந்தால் அது  இலங்கையில் அட்டன் டிக்கோயா நகர சபைக்குட்பட்ட  பிரதேசமாகத்தான் இருக்கும் என்பது அனைவரும் அறிந்த விடயம். கழிவுகளை அற்புறப்படுத்துவதற்கோ அல்லது அவற்றை கொண்டு சேர்ப்பதற்கோ இன்னும் ஒரு இடம் தெரிவு செய்யப்படாமல் இலங்கையில் இருக்கும் ஒரே நகர சபை அட்டன் டிக்கோயா நகரசபையாகும்.
+
+நகரங்கள் மற்றும் அதையண்டிய குடியிருப்புப் பிரதேசங்களில் தான் இந்த நிலைமைகள் என்றால் நகரசபைக்குள்ளேயே குப்பை கூழங்கள் நிரம்பித்தான் உள்ளன. மேலே காணப்படும் மலசல கூடமானது அட்டன் டிக்கோயா நகரசபைக்குள்ளே அமைந்திருக்கின்றது. நகர சபை மண்டபத்தை நிகழ்வுகளுக்காக பயன்படுத்துபவர்கள் பாவிக்கும் மலசல கூடங்களாகும். இந்த மண்டபத்தை உபயோகிக்க ஒரு தொகை கட்டணத்தை நகர சபை அறவிடுகின்றது. ஆனால் மலசல கூடம் இப்படித்தான் உள்ளது.
+
+...
+
+[Data](articles/61895bbd.json)
 
 ---
 
@@ -745,6 +879,22 @@ Accordingly, the Cabinet of Ministers yesterday approved the proposal submitted 
 [Data](articles/1e5fca70.json)
 
 [Extended Data](ext_articles/1e5fca70.ext.json)
+
+---
+
+### ஹம்பாந்தோட்டை துறைமுகக் கட்டுமானத்தின் போது அகற்றப்பட்ட கருங்கற்களை ஏற்றுமதி செய்ய தீர்மானம்!
+
+*2024-01-30 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175160) · `ta`
+
+ஹம்பாந்தோட்டை மாகம்புர துறைமுகக் கட்டுமானத்தின் போது அகற்றப்பட்டுள்ள கருங்கல் தொகையை துரிதமாக ஏற்றுமதி செய்வதற்குத் தேவையான படிமுறைகளை மேற்கொள்வதற்கான அனுமதியை வழங்குவதற்கும், ஒரு மில்லியன் மெட்ரிக்தொன் கருங்கல் தொகையை ஏற்றுமதி செய்வதற்கான இயலுமை மற்றும் பொருத்தப்பாடு தொடர்பான விடயங்களை ஆராய்ந்து விதந்துரையுடன் கூடிய அறிக்கையொன்றை சமர்ப்பிப்பதற்காக குழுவொன்றை நியமிப்பதற்கும் அமைச்சரவை தீர்மானித்துள்ளது.
+
+நாட்டில் தற்போது கட்டுமான அபிவிருத்திகளுக்குத் தேவையான கருங்கல் தேவை ஒப்பீட்டு ரீதியில் குறைந்த மட்டத்தில் காணப்படுவதால் கருங்கல் அகழ்வு தொழிற்துறையில் ஈடுபடுகின்ற அகழ்வோர் மற்றும் அதனுடன் தொடர்புடைய சமூகத்தவர்களின் வாழ்வாதார வழிகள் மோசமாகப் பாதிக்கப்பட்டுள்ளன.
+
+இந்நிலைமையைக் கருத்தில் கொண்டு மட்டுப்படுத்தப்பட்ட நிலைமையின் கீழ் கருங்கல் ஏற்றுமதி மூலம் இலங்கைக்கு வெளிநாட்டு செலாவணியை ஈட்டுகின்ற வேலைத்திட்டமொன்றை குறுகிய காலத்தில் நடைமுறைப்படுத்தல் பொருத்தமானதெனக் கண்டறியப்பட்டுள்ளது.
+
+...
+
+[Data](articles/f9defe77.json)
 
 ---
 
@@ -1642,25 +1792,27 @@ I had not guided the husband's political affairs, but his private secretary had 
 
 ---
 
-### 'රට පාලනය කරන රනිල් රාජපක්ෂ ආණ්ඩුවට වැඩි කල් යන්න බැහැ'
+### 'Ranil Rajapaksa Controlleging the Government'
 
 *2024-01-30 13:12:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cevrkygz1jgo) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "'රට පාලනය කරන රනිල් රාජපක්ෂ ආණ්ඩුවට වැඩි කල් යන්න බැහැ'", ධාවන කාලය 2,3002:30වීඩියෝ ශීර්ෂ වැකිය, 'රට පාලනය කරන රනිල් රාජපක්ෂ ආණ්ඩුවට වැඩි කල් යන්න බැහැ'
+There is nothing here. Play Video, "" Ranil Rajapaksa, who rules the country, can't long to go to the government. "
 
-ආණ්ඩුවට එරෙහිව සමගි ජන බලවේගය අද (ජනවාරි 30) කොළඹ දී පැවත් වූ විරෝධතාවයට පොලීසිය ජල හා කඳුළු ගෑස් ප්‍රහාර එල්ල කර විසුරුවා හරින ලදී.
+Police force against the government today (Jan. 30) and the police were dispersed and dismissed.
 
-විරෝධතාකරුවන් විහාරමහදේවී උද්‍යානය අසල සිට කොල්ලුපිටිය දෙසට ගමන් කිරීමට උත්සාහ කිරීමේ දී මෙම ප්‍රහාරය එල්ල විය.
+The attack was launched in attempting to move the protesters from Viharamahadevi Gardens to Kollupitiya.
 
-'වෙනසක් හදන වසරක් 2024' තේමාව මුල් කරගෙන විපක්ෂ නායක සජිත් ප්‍රේමදාසගේ ප්‍රධානත්වයෙන් විරෝධතාවය පැවති අතර ඔවුන්ට විසිර යන ලෙස පොලීසිය නියෝග කළ ද ඔවුහු එය නොතකා ආණ්ඩුවට විරෝධය පළ කළහ.
+The 'Leader of the Opposition Sajith Premadasa was protesting with the theme of a year' '2024', but they opposed the government regardless of the police.
 
-මෙම විරෝධතාව පාලනය කිරීමට පොලිසිය මාළිගාකන්ද සහ කොටුව මහේස්ත්‍රාත් අධිකරණ වෙතින් ආඥා ලබා ගෙන තිබිණි.
+The police had obtained orders from the Maligakanda and Fort Magistrate Judicial to control the protest.
 
-මාළිගාකන්ද අධිකරණය නිකුත් කළ නියෝගයේ දැක්වුණේ මාර්ග අවහිරවන ලෙස විරෝධතා සිදු කිරීම තහනම් කළ ද සිය භාෂණයේ නිදහස භාවිත කිරීම උදෙසා කිසිඳු බාධාවක් සිදු නොකරමින් පී.ඩී සිරිසේන ක්‍රීඩාංගනය හා හයිඩ් පාර්ක් පිටිය වෙන්කර තැබීමටත්, එම ක්‍රීඩාංගන තුළ විරෝධතාවයක් දැක්වීමට බාධාවක් නොවන බවය.
+In the Maligakanda Court order, the PD Sirisena Stadium and the Hyde Park Ground, not obstructing the freedom of his speech, is not obstructing any protest in the stadium.
 
 ...
 
 [Data](articles/30c0189f.json)
+
+[Extended Data](ext_articles/30c0189f.ext.json)
 
 ---
 
@@ -1837,157 +1989,5 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 [Data](articles/797609d0.json)
 
 [Extended Data](ext_articles/797609d0.ext.json)
-
----
-
-### Tick Tok Talk Motor Bikes Running from hospital
-
-*2024-01-30 12:31:26* · [`adalk`](https://www.ada.lk/breaking_news/ටික්-ටොක්-යතුරු-පැදි-ධාවනය-රෝහලින්-නවතී/11-407797) · `si`
-
-Two youth who operated the motorbikes in the Koralaiwela area in Horana to put tick tox.
-
-Two youths have been arrested by the police with three motorbikes with the incident and one young man fled with a motorcycle.
-
-Five youths from Talangama, a motorbike on four motorbikes, and the two motorbikes traveling towards Horana to reach the Horana.Police said.
-
-The arrested youth will be produced before the Horana Magistrate's Court under the dangers.
-
-◼️
-
-[Data](articles/b11dee5c.json)
-
-[Extended Data](ext_articles/b11dee5c.ext.json)
-
----
-
-### Continue People's Support for National People's Power -IHP's poll
-
-*2024-01-30 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/175136) · `ta`
-
-A poll revealed that in December 2023, the national people's power was more supportive than other parties.
-
-This is revealed in a poll made by those who are eligible to vote for the purpose of voting in the Institute of Police.
-
-39 percent of the national people's power has expressed their support.
-
-The poll has revealed that the six -member support for President Ranil Wickremesinghe's United National Party and the Sri Lanka PA is ten percent support.
-
-The poll has revealed that the support of the national people's power has increased since 2022, the United People's Power has also increased its support but the increase in support in the recession said.
-
-The United National Party (UNP) has said that the United National Party's support for the United National Party continues to decline since 2022.
-
-◼️
-
-[Data](articles/92cf9558.json)
-
-[Extended Data](ext_articles/92cf9558.ext.json)
-
----
-
-### The compartments of many trains involved in the service have been removed!
-
-*2024-01-30 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175133) · `ta`
-
-In particular, the Railway Department said that several scenes of trains derailed on the hill track have been deleted.
-
-Railway General Manager HMKW Bandara said that 2 boxes have been removed from the service in 4 visuals.
-
-◼️
-
-[Data](articles/85dff6b2.json)
-
-[Extended Data](ext_articles/85dff6b2.ext.json)
-
----
-
-### Willing to enter politics on behalf of Sanath Nishantha: Spouse
-
-*2024-01-30 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Willing-to-enter-politics-on-behalf-of-Sanath-Nishantha-Spouse/108-275977) · `en`
-
-Attorney-at-Law Chamari Priyanka Perera, the spouse of the late former Water Supply State Minister Sanath Nishantha, expressed her willingness to fill the void left by her husband's demise
-
-She said the decsion will depend on the request of the Puttalam district people or the party leaders.
-
-She made her statement after visiting the residence of Anuradha Jayakodi, the security officer of the former state minister who died in a car accident recently.
-
-"My husband did great service to the Puttalam district as well as to the people of the country. No one who sought help from him was ever turned away empty-handed. My children and I cannot believe what happened to him, and it is still like a dream. Even before my husband's death, some media have announced that I would join politics. No one has asked me when publishing such news. I have not made any statements to any media so far saying that I am joining politics," she said.
-
-...
-
-[Data](articles/a5550f2a.json)
-
-[Extended Data](ext_articles/a5550f2a.ext.json)
-
----
-
-### Willing to fill Sanath Nishantha’s vacant seat: Spouse
-
-*2024-01-30 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Willing-to-fill-Sanath-Nishanthas-vacant-seat-Spouse/108-275977) · `en`
-
-Spouse of late former Water Supply State Minister Sanath Nishantha, advocate Chamari Priyanka Perera said she is willing to consider the vacant seat of her husband only if the people of Puttalam district or the party request to do so.
-
-She made her statement after visiting the residence of Anuradha Jayakodi, the security officer of the former state minister who died in a car accident recently.
-
-"My husband did great service to the Puttalam district as well as to the people of the country. No one who sought help from him was ever turned away empty-handed. My children and I cannot believe what happened to him, and it is still like a dream. Even before my husband's death, some media have announced that I would join politics. No one has asked me when publishing such news. I have not made any statements to any media so far saying that I am joining politics," she said.
-
-...
-
-[Data](articles/eee17f41.json)
-
-[Extended Data](ext_articles/eee17f41.ext.json)
-
----
-
-### Unexpected underworld member
-
-*2024-01-30 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192736) · `si`
-
-A police officers conducted a police officers in the area to arrest an underworld in Kalutara this morning.
-
-Police said he had a T-56 rifle, two magazines, two magazines, 28 bullets, seven grenade, seven grenades of the country.
-
-◼️
-
-[Data](articles/0b07c625.json)
-
-[Extended Data](ext_articles/0b07c625.ext.json)
-
----
-
-### Jaffna Bodhana Medical Waste Fuel from March
-
-*2024-01-30 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175127) · `ta`
-
-The Director of Jaffna Hospital, Jaffna Hospital, Jaffna Hospital. Sathya Murthy said.
-
-The United Nations Development Project is being erected with a sum of Rs.. Its work has reached its completion.
-
-The Director said that the fire will begin to work from next March.
-
-◼️
-
-[Data](articles/d82f4de9.json)
-
-[Extended Data](ext_articles/d82f4de9.ext.json)
-
----
-
-### Several ways to pay CEB bills
-
-*2024-01-30 12:21:20* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-විදුලි-බිල්පත්-ගෙවීමට-ක්‍රම-කිහිපයක්/11-407796) · `si`
-
-The Ceylon Electricity Board (CEB) has introduced several methodologies to pay their electrical bills.
-
-Accordingly, by the CEBCare mobile app, the CEB, CEB and Bank KIOSS, Kales, Supermarkets and MCash, Kolles, Kolles, and MCash through any Sri Lankan post office.Have been introduced.
-
-I also informed the CEB calling for 1987 to arise and problems with electricity bills.
-
-The Ceylon Electricity Board (CEB) has requested the consumers to contribute to a continuous power supply using any of the above methods.
-
-◼️
-
-[Data](articles/c685f91f.json)
-
-[Extended Data](ext_articles/c685f91f.ext.json)
 
 ---

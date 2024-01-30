@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 17:17:22**
+As of **2024-01-30 17:33:36**
 
 ## Newspaper Stats
 
-*Scraped **3,575** Articles*
+*Scraped **3,577** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 198
 newsfirstlk | 216
 dailyftlk | 233
 adalk | 324
-adaderanasinhalalk | 391
+adaderanasinhalalk | 393
 virakesarilk | 395
 tamilmirrorlk | 452
 adaderanalk | 457
@@ -26,11 +26,25 @@ dailymirrorlk | 483
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,567 (99.8%) of 3,575 articles have been extended.
+3,577 (100.0%) of 3,577 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### Mujuour Rahman hospitalized
+
+*2024-01-30 17:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192750) · `si`
+
+Former MP Muniburi Rahman has been injured and admitted to the Colombo National Hospital.
+
+◼️
+
+[Data](articles/21daf686.json)
+
+[Extended Data](ext_articles/21daf686.ext.json)
+
+---
 
 ### ‘Aswesuma’ scheme to continue with several revisions
 
@@ -48,19 +62,23 @@ The President has furnished the proposal in his capacity as the Minister of Fina
 
 [Data](articles/2e9ae29b.json)
 
+[Extended Data](ext_articles/2e9ae29b.ext.json)
+
 ---
 
-### ஆர்ப்பாட்டத்தில் ஒருவர் படுகாயம்
+### One person injured in demonstration
 
 *2024-01-30 16:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டத்தில்-ஒருவர்-படுகாயம்/175-332355) · `ta`
 
-ஐக்கிய மக்கள் சக்தியினரால் முன்னெடுக்கப்பட்ட ஆர்ப்பாட்ட பேரணியின் போது காயமடைந்த ஒருவர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A man who was injured during a demonstration rally carried out by the United People's Power has been admitted to the Colombo National Hospital.
 
-ஆர்ப்பாட்ட பேரணியை கலைப்பதற்காக கொழும்பு பொது நூலகத்திற்கு அருகாமையில் பொலிஸார் பல முறை நீர்த்தாரை மற்றும் கண்ணீர் புகை தாக்குதலை நடத்தினர்.
+Police have repeatedly launched a water and tear gas attack near the Colombo Public Library to dissolve the demonstration.
 
 ◼️
 
 [Data](articles/233b9186.json)
+
+[Extended Data](ext_articles/233b9186.ext.json)
 
 ---
 
@@ -77,6 +95,24 @@ It is known that the police used water and tears near the Colombo Public Library
 [Data](articles/81a08ef9.json)
 
 [Extended Data](ext_articles/81a08ef9.ext.json)
+
+---
+
+### A greetings to young people who dream of japanese
+
+*2024-01-30 16:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192749) · `si`
+
+Social empowerment of State Minister Pasadawal says that the necessary steps will be taken to empower 300,000 of the revenue beneficiaries this year.
+
+He added that the beneficiaries are ready to send Japanese language proficiency and send them to foreign employment.
+
+He was speaking at a press conference held at the Presidential Media Center.
+
+◼️
+
+[Data](articles/f544d980.json)
+
+[Extended Data](ext_articles/f544d980.ext.json)
 
 ---
 
@@ -290,6 +326,8 @@ Police used water cannons and tear gas to disperse Samagi Jana Bala Wegaya (SJB)
 
 [Data](articles/6c957538.json)
 
+[Extended Data](ext_articles/6c957538.ext.json)
+
 ---
 
 ### Police fire tear gas at SJB’s protest march
@@ -392,6 +430,8 @@ Khan has repeatedly denied the charge, saying the document contained evidence th
 
 [Data](articles/2b092705.json)
 
+[Extended Data](ext_articles/2b092705.ext.json)
+
 ---
 
 ### Colombo strict traffic jams
@@ -417,6 +457,8 @@ Colombo, Jan 30 (Daily Mirror) - Heavy security has been provided around the Vih
 ◼️
 
 [Data](articles/81d26f05.json)
+
+[Extended Data](ext_articles/81d26f05.ext.json)
 
 ---
 
@@ -487,6 +529,8 @@ All health workers, including nurses and Public Health Inspectors (PHIs) attache
 ◼️
 
 [Data](articles/fd12b671.json)
+
+[Extended Data](ext_articles/fd12b671.ext.json)
 
 ---
 
@@ -1264,6 +1308,8 @@ She made her statement after visiting the residence of Anuradha Jayakodi, the se
 
 [Data](articles/a5550f2a.json)
 
+[Extended Data](ext_articles/a5550f2a.ext.json)
+
 ---
 
 ### Willing to fill Sanath Nishantha’s vacant seat: Spouse
@@ -1937,45 +1983,5 @@ The Attorney General had indicted him for rape and causing serious abnormal sex 
 [Data](articles/4485f99e.json)
 
 [Extended Data](ext_articles/4485f99e.ext.json)
-
----
-
-### People and the party can consider engaging in politics if they wish: Sanath Nishantha's wife!
-
-*2024-01-30 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175120) · `ta`
-
-The wife of the late State Minister Sanath Nishantha has said that even if she does not have the intention of entering politics, the Puttalam people and the party can consider it in the future if they require them to accept the vacant post due to her husband's death.
-
-Attorney -at -Law Samari Priyanka Perera, who went to the home of the security officer of the Minister of Police Sanath Nishantha, who died in a recent road accident, made this statement in the presence of journalists.
-
-My husband served the Puttalam district and the people of the country.He said that no one who was looking for him had returned empty -handed.
-
-◼️
-
-[Data](articles/06080469.json)
-
-[Extended Data](ext_articles/06080469.ext.json)
-
----
-
-### Court Blocks Opposition’s Protest Route in Colombo
-
-*2024-01-30 10:49:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/court-blocks-opposition-s-protest-route-in-colombo/) · `en`
-
-COLOMBO (News 1st); The Colombo No. 04 Magistrate L. Manjula issued a court order today prohibiting opposition leader Sajith Premadasa, Samagi Jana Balawegaya general secretary Ranjith Madduma Bandara, and others from hindering traffic on several streets in the Maligawatta police jurisdiction.
-
-The court order specifically bans blocking activities on Sangharaja Mawatha via Pradeepa Mawatha, Saddharma Mawatha, Jayantha Virasekara Mawatha, Milton Perera Mawatha, and Jumma Junction from the Maligawatte Muslim Burial Grouns.
-
-Sri Lanka's main opposition party, Samagi Jana Balawegaya (SJB), is gearing up for a significant protest in Colombo today (30).
-
-The party aims to pressure the government into addressing pressing issues faced by the Sri Lankan people.
-
-SJB General Secretary and Member of Parliament, Ranjith Madduma Bandara, announced that the protest will commence at 1:30 pm from two separate locations: Hyde Park and Panchikawatta in Colombo.
-
-...
-
-[Data](articles/76e3d835.json)
-
-[Extended Data](ext_articles/76e3d835.ext.json)
 
 ---

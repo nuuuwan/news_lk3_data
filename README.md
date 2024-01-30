@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 09:17:12**
+As of **2024-01-30 09:32:44**
 
 ## Newspaper Stats
 
@@ -26,55 +26,61 @@ dailymirrorlk | 461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,418 (99.9%) of 3,421 articles have been extended.
+3,421 (100.0%) of 3,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### යුක්තිය මෙහෙයුමෙන් තවත් 868ක් අත්අඩංගුවට
+### Another 868 arrested with justice operation
 
 *2024-01-30 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192725) · `si`
 
-දිවයින පුරා ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ අද (30) අලුයම අවසන් වූ ගතවු පැය 24 තුළ සැකකරුවන් 868 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+Police have arrested 868 suspects in the last 24 hours in the country today (30).
 
 ◼️
 
 [Data](articles/d79529fa.json)
 
+[Extended Data](ext_articles/d79529fa.ext.json)
+
 ---
 
-### සෞඛ්‍ය සේවකයින් යළි වර්ජනයකට
+### Health workers into strike
 
 *2024-01-30 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192724) · `si`
 
-සාකච්ඡා මඟින් තම ගැටලුවලට විසඳුම් ලබා නොදෙන්නේනම් පෙබරවාරි මස පළමුවනදා සිට වර්ජන ක්‍රියාමාර්ගවලට එළඹෙන බව සෞඛ්‍ය වෘත්තීය සමිති පවසයි.
+Health Trade Unions says that if they do not solve their problems through negotiations, the health unions states that strike action will be taken from the first one in February.
 
-සෞඛ්‍ය සේවකයින්ට දීමනා ලබාදීම සම්බන්ධයෙන් ජනාධිපතිවරයා විදෙස් ගතව සිට යළි මෙරටට පැමිණි විගස සාකච්ඡාවක් ලබාදෙන බවට ප්‍රකාශ කළ ද එය මේ දක්වාත් ලබා දී නොමැති බව සෞඛ්‍ය සේවකයින් සඳහන් කළේය.
+Health workers have stated that it has not been given to a discussion when the President will be given abroad and will be given as soon as the President is abroad.
 
-මේ හේතුවෙන් අද දිනයේ කොළඹ අවට පිහිටි රෝහල් ඉදිරිපිට විරෝධතා ක්‍රියාමාර්ග ක්‍රියාත්මක කිරීමට ද වෘත්තීය සමිති පියවර ගෙන තිබේ.
+The trade union measures have also been taken to implement protests in Colombo today.
 
 ◼️
 
 [Data](articles/9ffb6827.json)
 
+[Extended Data](ext_articles/9ffb6827.ext.json)
+
 ---
 
-### සජබය ජනපති සටන අරඹයි
+### President launches President's fight
 
 *2024-01-30 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192723) · `si`
 
-"වෙනසක් හදන වසරක්" තේමාව යටතේ විපක්ෂයේ ජනාධිපතිවරණ සටන කොළඹින් ආරම්භ කිරීමට සමගි ජන බලවේගය පියවර ගෙන තිබේ.
+Under the theme of a "year of change," has taken steps to commence the opposition presidential election campaign in Colombo.
 
-ඒ අනුව අද (30) දිනයේ විශාල ජනරැළියක් කොළඹදී පවත්වන බව සමගි ජනබලවේගය සඳහන් කළේය.
+Accordingly, a large number of people will be held today (30) in Colombo.
 
-දිවයිනම ආවරණය වන පරිදි සමගි ජන බලවේගයේ ආධාරකරුවන්ට මෙම රැළියට සහභාගී වන ලෙස ඔවුන් දැනුම් දී තිබේ.
+They have been informed to attend the rally to the supporters of the island covering the island.
 
-එමෙන්ම පක්ෂයේ සියලු නායකයින් මෙම රැළියට සහභාගී වන බව සමගි ජනබලවේගය සඳහන් කළේය.
+Also, all the leaders of the party participate in the rally.
 
 ◼️
 
 [Data](articles/6092ba9e.json)
+
+[Extended Data](ext_articles/6092ba9e.ext.json)
 
 ---
 

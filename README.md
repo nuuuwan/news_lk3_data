@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 01:02:22**
+As of **2024-01-31 01:17:12**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 497
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,646 (100.0%) of 3,647 articles have been extended.
+3,647 (100.0%) of 3,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### இலங்கை வந்த இரு வெளிநாட்டவர்கள் உடல் நசுங்கி மரணம்
+### Two foreigners who came to Sri Lanka dies
 
 *2024-01-31 00:19:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வந்த-இரு-வெளிநாட்டவர்கள்-உடல்-நசுங்கி-மரணம்/175-332381) · `ta`
 
-காலி - மாத்தறை பிரதான வீதியில் மிதிகம பகுதியில் மோட்டார் சைக்கிள் ஒன்றும், பஸ் ஒன்றும் மோதியதில் மோட்டார் சைக்கிளில் பயணித்த வெளிநாட்டு பிரஜைகள் இருவர் உயிரிழந்தனர்.
+Two foreign citizens on a motorbike were killed when a motorcycle and a bus collided with a motorcycle on the Galle - Matara main road.
 
-இரண்டு வெளிநாட்டு சுற்றுலாப் பயணிகளும் மோட்டார் சைக்கிளில் பயணித்துக் கொண்டிருந்த போது மாத்தறையிலிருந்து கொழும்பு நோக்கிச் சென்று கொண்டிருந்த பஸ்ஸுடன் மோதியதில் இருவரும் சம்பவ இடத்திலேயே பலியாகியுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+Two foreign tourists collided with a bus traveling from Matara to Colombo while traveling on a motorbike, reports say.
 
-பேருந்தின் சாரதி கைது செய்யப்பட்டுள்ள நிலையில், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை மிதிகம பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+The driver of the bus has been arrested and further investigations into the incident are being carried out by Mithigama police. Remble
 
 ◼️
 
 [Data](articles/7d9704d3.json)
+
+[Extended Data](ext_articles/7d9704d3.ext.json)
 
 ---
 

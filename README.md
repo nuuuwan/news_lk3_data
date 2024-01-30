@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 07:53:17**
+As of **2024-01-30 08:02:28**
 
 ## Newspaper Stats
 
-*Scraped **3,407** Articles*
+*Scraped **3,412** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 196
 newsfirstlk | 203
 dailyftlk | 233
 adalk | 312
-adaderanasinhalalk | 360
-virakesarilk | 368
+adaderanasinhalalk | 364
+virakesarilk | 369
 tamilmirrorlk | 425
 adaderanalk | 435
 dailymirrorlk | 461
@@ -26,11 +26,91 @@ dailymirrorlk | 461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,396 (99.7%) of 3,407 articles have been extended.
+3,407 (99.9%) of 3,412 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### නිදහස් දින පෙරහුරු වෙනුවෙන් කොළඹ විශේෂ රථ වාහන සැලැස්මක්
+
+*2024-01-30 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192719) · `si`
+
+76 වන නිදහස් දින උළෙළේ පෙරහුරු වැඩසටහන හේතුවෙන් අද (30) දිනයේ සිට කොළඹ ප්‍රදේශයේ වාහන ගමනාගමනය සීමා කරන බව පොලීසීය පවසයි.
+
+අද සිට පෙබරවාරි මස 03 වන දින දක්වා අවස්ථා කිහිපයකදී මාර්ග වසා තැබීම් සහ සීමාකිරීම් සිදුකරන බව පොලීසිය සඳහන් කළේය.
+
+නිදහස් උළෙල පැවැත්වෙන ගාලු මුවදොර පිටිය ආශ්‍රිතව එම රථ වාහන සැලැස්ම ක්‍රියාත්මක වේ.
+
+පුහුණුවීම් කටයුතු සිදුකරනු ලබන අද සිට පෙබරවාරි මස 02වන දින දක්වා පෙරවරු 06 සිට දහවල් 12 දක්වාත් පෙබරවාරි මස 03 වන දින පස්වරු 02 සිට පෙබරවාරි මස 04 වන දින උත්සවය අවසන් වන වේලාව දක්වාත් එම විශේෂ රථ වාහන සැලැස්ම ක්‍රියාත්මක කෙරෙනු ඇත.
+
+මේ සම්බන්ධයෙන් වැඩිදුරටත් අදහස් දක්වන මාර්ග ආරක්ෂාව හා රථවාහන පාලන දිශාව භාර නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා,
+
+...
+
+[Data](articles/c5a6f671.json)
+
+---
+
+### අමරවීර සහ තිලංග ඉල්ලා අස්වීමට කැමැත්තෙන්
+
+*2024-01-30 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192718) · `si`
+
+එක්සත් ජනතා සන්ධානයේ මහලේකම් ධුරයෙන් මහින්ද අමරවීර මහතා සහ තිලංග සුමතිපාල යන මහත්වරුන් ඉවත් වීමට තීරණය කර තිබේ.
+
+ඒ අනුව ඔවුන් අද (30) උදෑසන එම ධුරවලින් ඉවත් වනු ඇති බව වාර්තා වේ.
+
+පොදුජන එක්සත් පෙරමුණේ කෘත්‍යාධිකාරී මණ්ඩල රැස්වීමක් ඊයේ (29) පස්වරුවේ හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් රැස්වුණි.
+
+එහිදී එම පක්ෂයේ සලකුණ ලෙස පුටුව ලකුණෙන් පුළුල් සන්ධානයක් නිර්මාණය කිරීමට තීරණය වී තිබේ.
+
+ඒ අනුව ව්‍යවස්ථා සංශෝධනයක් සිදුකර නව නිලධාරී මණ්ඩලයක් පත්කර ගැනීමට ද තීරණය කළ බව හිටපු ජනාධිපතිවරයා සඳහන් කළේය.
+
+මේ සම්බන්ධයෙන් සාකච්ඡාව අවසන් වීමෙන් අනතුරුව අදහස් දැක්වූ ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා,
+
+...
+
+[Data](articles/66072f68.json)
+
+---
+
+### බෙලිඅත්තේ පංච පුද්ගල ඝාතනයට සැකකාරියන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-01-30 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192717) · `si`
+
+බෙලිඅත්ත පොලිස් වසමේ දක්ෂිණ අධිවේගී මාර්ග පිවිසුම ආසන්නයේ දී පුද්ගලයින් පස්දෙනෙක් වෙඩිතබා ඝාතනය කිරීමේ සිදුවීමට සැකකාරියන් දෙදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+
+ඊයේ (29) උදෑසන හක්මණ පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් රත්ගම ප්‍රදේශයේ සිදුකළ මෙහෙයුමකින් අනතුරුව මෙම කාන්තාවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත.
+
+පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ, එලෙස අත්අඩංගුවට ගෙන ඇත්තේ අවුරුදු 23ක් හා 33ක් වන බූස්ස ප්‍රදේශයේ පදිංචිකරුවන් බවය.
+
+අපරාධය සිදුකිරීමට යොදාගත් ගිනිඅවි දෙක අපරාධය සිදුකිරීමෙන් පසු මෙම එක් සැකකාරියකට අයත් යතුරුපැදියකින් කරාපිටිය ප්‍රදේශයේ සිට බූස්ස ප්‍රදේශයට ප්‍රවාහනය කර ඇති බවට සිදුකළ විමර්ශනයේ දී අනාවරණය වී තිබිණි.
+
+◼️
+
+[Data](articles/621aaa06.json)
+
+---
+
+### කාලගුණයේ වෙනසක්
+
+*2024-01-30 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192715) · `si`
+
+නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මුලතිව්, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+
+අනුරාධපුර සහ හම්බන්තොට දිස්ත්‍රික්කවල වැසි වාර කිහිපයක් ඇති විය හැක.
+
+බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර සහ මහනුවර දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+
+බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වල ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැක.
+
+ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තදසුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට අවධාරණය කරයි.
+
+◼️
+
+[Data](articles/8a19f83b.json)
+
+---
 
 ### 12 years in prison for sharing
 
@@ -348,6 +428,8 @@ Visa (NYSE: V), the global leader in digital payments, today announced the launc
 
 [Data](articles/b7a7ad23.json)
 
+[Extended Data](ext_articles/b7a7ad23.ext.json)
+
 ---
 
 ### 44 authors, 23 sessions across 2 cities, the 1st edition of HSBC Ceylon Literary & Arts Festival
@@ -364,6 +446,8 @@ The festival centers around a creative platform highlighting the cultural essenc
 
 [Data](articles/1f8911c4.json)
 
+[Extended Data](ext_articles/1f8911c4.ext.json)
+
 ---
 
 ### Expolanka Holdings ‘demonstrates resilience’ in Q1 FY24
@@ -377,6 +461,8 @@ The release adds: ‘The large foreign earnings portfolio and foreign asset base
 ...
 
 [Data](articles/de8a8f8d.json)
+
+[Extended Data](ext_articles/de8a8f8d.ext.json)
 
 ---
 
@@ -392,6 +478,8 @@ The Hydromax water pump boasts a powerful and quiet induction motor, 100% copper
 
 [Data](articles/23a4554f.json)
 
+[Extended Data](ext_articles/23a4554f.ext.json)
+
 ---
 
 ### Debt restructuring issues continue to hamper share trading
@@ -405,6 +493,8 @@ Both indices moved downwards. The All- Share Price Index went down by 38.4 point
 ...
 
 [Data](articles/240be999.json)
+
+[Extended Data](ext_articles/240be999.ext.json)
 
 ---
 
@@ -653,6 +743,22 @@ Horana Magistrate made the magisterial inquiry into the incident today (29).
 [Data](articles/7c46b083.json)
 
 [Extended Data](ext_articles/7c46b083.ext.json)
+
+---
+
+### நிகழ்நிலை காப்புச்சட்ட மூலத்தால் சீனாவைப் போன்ற நிலைமையே ஏற்படும் - ஹிருணிகா
+
+*2024-01-29 20:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175098) · `ta`
+
+நிகழ்நிலை காப்பு சட்டத்துக்கு எதிர்ப்பினைத் தெரிவித்து சமூக வலைத்தள நிறுவனங்கள், கூகுள் மற்றும் யாஹூ போன்ற நிறுவனங்கள் இலங்கைக்கு சேவை வழங்குவதிலிருந்து விலகினால் சீனாவைப் போன்ற நிலைமையே எமக்கும் ஏற்படும் என முன்னாள் பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமசந்திர தெரிவித்தார்.
+
+கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் திங்கட்கிழமை (29) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+
+அரசாங்கத்தினால் நிறைவேற்றப்பட்டுள்ள நிகழ்நிலை காப்பு சட்டத்துக்கு எதிர்ப்பினைத் தெரிவித்து சமூக வலைத்தள நிறுவனங்கள், கூகுள் மற்றும் யாஹூ போன்ற நிறுவனங்கள் இலங்கைக்கு சேவை வழங்குவதிலிருந்து விலகினால் என்னவாகும் என்பதை சிந்தித்துப் பார்க்க வேண்டும். சீனாவைப் போன்ற நிலைமையே இலங்கையிலும் ஏற்படவுள்ளது.
+
+...
+
+[Data](articles/249aa007.json)
 
 ---
 
@@ -1881,101 +1987,5 @@ However, traffic crimes will be fined from 1 February 2024, police said.
 [Data](articles/b6e45bf0.json)
 
 [Extended Data](ext_articles/b6e45bf0.ext.json)
-
----
-
-### Export revenue in 2023 $ 14.94 billion
-
-*2024-01-29 15:38:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/2023-இல்-ஏற்றுமதி-வருவாய்-14-94-பில்லியன்-டொலர்/175-332279) · `ta`
-
-Last year, the country's total exports income was US $ 14.94 billion, according to the Export Development Board.
-
-In December 2023, Sri Lanka's exports were $ 947.5 million.
-
-◼️
-
-[Data](articles/1c4970a4.json)
-
-[Extended Data](ext_articles/1c4970a4.ext.json)
-
----
-
-### Thailand's Prime Minister visits Sri Lanka
-
-*2024-01-29 15:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175064) · `ta`
-
-At the invitation of President Ranil Wickremesinghe, Thailand Prime Minister Shreta Davis will visit the country on February 3, the Foreign Ministry said.
-
-The Prime Minister of Thailand will be the guest at the ceremony on the 76th Independence Day of Sri Lanka.
-
-During the visit, the Prime Minister of Thailand will hold official discussions with President Wickremesinghe and sign the historic Sri Lanka -Thailand Free Trade Agreement (SLTFTA).
-
-◼️
-
-[Data](articles/8239b882.json)
-
-[Extended Data](ext_articles/8239b882.ext.json)
-
----
-
-### Jobit's weakness is ineffective - Trump in campaigns
-
-*2024-01-29 15:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/175068) · `ta`
-
-Former President Donald Trump, who plays the argument that US President Joe Biden is weak and ineffective, has said that the situation is overblott abroad and at home.
-
-In his speech in Nevesta, Trump has strongly criticized Baidon's border policies.
-
-Trump has also warned that many attacks in the United States are likely to be in danger of a massive terrorist attack in the United States.
-
-At the same time, the former president is trying to take advantage of the killing of three US soldiers in the Middle East.
-
-The reason for this is the reason for Trump Baiton, who has accused Bidan of the inadequate strength, he said.
-
-He said that if I was in the White House, the current wars would have never been held, he said, "There will be peace around the world but we are currently standing on the brink of third World War.
-
-◼️
-
-[Data](articles/072e9406.json)
-
-[Extended Data](ext_articles/072e9406.ext.json)
-
----
-
-### 2023 Export Income dollars bolk 14.94
-
-*2024-01-29 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192703) · `si`
-
-The export earnings of the country was $ 14.94 billion last year, the Export Development Board said.
-
-The exports of goods in Sri Lanka is $ 947.5 million in December 2023.
-
-◼️
-
-[Data](articles/33ab690d.json)
-
-[Extended Data](ext_articles/33ab690d.ext.json)
-
----
-
-### Whoever imposes control we will get down tomorrow - United People's Power
-
-*2024-01-29 15:18:00* · [`virakesarilk`](https://www.virakesari.lk/article/175073) · `ta`
-
-The United People's Power has said that we will go down the streets tomorrow despite all the control.
-
-United People's Power General Secretary Ranjithmathumapandara said that we will take the preliminary steps to get down the road tomorrow and remove the current government.
-
-The Inspector General of Police may also impose restrictions but will take 50,000 people to Colombo tomorrow despite all laws.
-
-"We started the uprising of the people in 2022," he said.
-
-Ranjithmathumapandara said that we will not announce where we will go from now on.
-
-◼️
-
-[Data](articles/ee88be49.json)
-
-[Extended Data](ext_articles/ee88be49.ext.json)
 
 ---

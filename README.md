@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 18:50:55**
+As of **2024-01-30 19:02:41**
 
 ## Newspaper Stats
 
@@ -26,23 +26,25 @@ dailymirrorlk | 487
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,587 (99.9%) of 3,590 articles have been extended.
+3,590 (100.0%) of 3,590 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### සජිත් ජාතික රෝහලට
+### Sajith national hospital
 
 *2024-01-30 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192753) · `si`
 
-සමගි ජන බලවේගය කොළඹදී සංවිධානය කළ විරෝධතාවය අතරතුරදී තුවාල ලබා රෝහල්ගතකර පුද්ගලයින්ගේ සුවදුක් බැලීම සඳහා විපක්ෂනායක සජිත් ප්‍රේමදාස කොළඹ ජාතික රෝහල වෙත පැමිණියේය.
+Opposition Leader Sajith Premadasa arrived at the Colombo National Hospital to hospital with injuries during the protest organized in Colombo.
 
-විරෝධතාවය අතරතුරදී ඇතිවූ අසනීප තත්ත්වයක් හේතුවෙන් හිටපු පාර්ලිමේන්තු මන්ත්‍රී මුජිබුර් රහුමාන් මහතාද රෝහල්ගතකර තිබුණි.
+Former Parliamentarian Mujibur Rahman was also hospitalized due to illness.
 
 ◼️
 
 [Data](articles/f01fe5ba.json)
+
+[Extended Data](ext_articles/f01fe5ba.ext.json)
 
 ---
 
@@ -97,6 +99,8 @@ The Minister said a discussion was held with experts in the field and relevant i
 ◼️
 
 [Data](articles/b79ff656.json)
+
+[Extended Data](ext_articles/b79ff656.ext.json)
 
 ---
 

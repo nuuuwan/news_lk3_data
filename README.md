@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 16:17:26**
+As of **2024-01-30 16:32:49**
 
 ## Newspaper Stats
 
-*Scraped **3,547** Articles*
+*Scraped **3,553** Articles*
 
 newspaper | n
 --- | ---:
@@ -13,24 +13,42 @@ bbccomsinhala | 60
 dbsjeyarajcom | 127
 economynextcom | 193
 islandlk | 197
-newsfirstlk | 211
+newsfirstlk | 216
 dailyftlk | 233
 adalk | 323
 adaderanasinhalalk | 387
 virakesarilk | 390
 tamilmirrorlk | 448
-adaderanalk | 454
+adaderanalk | 455
 dailymirrorlk | 478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,546 (100.0%) of 3,547 articles have been extended.
+3,547 (99.8%) of 3,553 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### Sri Lanka, Thailand to sign bilateral aviation agreement
+
+*2024-01-30 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96856/sri-lanka-thailand-to-sign-bilateral-aviation-agreement-) · `en`
+
+Sri Lanka and Thailand are expected to sign a bilateral aviation services agreement during the upcoming visit of Thai Prime Minister, Srettha Thavisin to Colombo.
+
+Approval had been granted by the Cabinet of Ministers at their meeting held on 19th June 2018 to sign a bilateral aviation services agreement between Sri Lanka and Thailand.
+
+Later on, clearance of the Attorney General as well as the concurrence of the Ministry a Foreign Affairs have been granted for the aviation service agreement prepared including the revisions furnished from the Thailand side.
+
+Accordingly, the Cabinet of Ministers yesterday approved the proposal submitted by Sri Lanka’s Minister of Ports, Shipping, and Aviation Services to sign the proposed bilateral Aviation Agreement.
+
+...
+
+[Data](articles/1e5fca70.json)
+
+---
 
 ### Bill & Melinda Gates Foundation to provide policy support to President’s Office
 
@@ -45,6 +63,30 @@ As such, an Executive Committee consisting of senior officials will be appointed
 ...
 
 [Data](articles/6c358f2d.json)
+
+[Extended Data](ext_articles/6c358f2d.ext.json)
+
+---
+
+### Tear Gas and Water Cannons Used to Break Up SJB Rally
+
+*2024-01-30 15:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/tear-gas-and-water-cannons-used-to-break-up-sjb-rally/) · `en`
+
+COLOMBO (News 1st); Sri Lanka's Police fired tear gas and water cannons to disperse an opposition-led protest in Colombo.
+
+The protest was organized by the main opposition bloc, the Samagi Jana Balavegaya, against the government of President Ranil Wickremesinghe.
+
+Sri Lankan courts have issued a series of orders restricting protests planned by the opposition Samagi Jana Balawegaya in Colombo (30).
+
+The Maligakanda Magistrate's Court prohibited blocking roads within its jurisdiction from noon today until 10 am tomorrow.
+
+However, it designated the P. D. Sirisena Grounds and Hyde Park ground as safe spaces for protests, citing that there will be no restriction in exercising the freedom of speech.
+
+At the same time, the Fort Magistrate's Court also issued an order against Opposition Leader Sajith Premadasa and others from the SJB preventing them from entering into several roads in the Fort and Kompanna Veediya police jurisdictions.
+
+...
+
+[Data](articles/0f808ef5.json)
 
 ---
 
@@ -141,6 +183,32 @@ The journey of Colombo has commenced the protest march in Colombo.
 [Data](articles/30634924.json)
 
 [Extended Data](ext_articles/30634924.ext.json)
+
+---
+
+### UPDATE: Unexpected Gusts Lead to Paratrooper Entanglement
+
+*2024-01-30 14:14:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/update-unexpected-gusts-lead-to-paratrooper-entanglement/) · `en`
+
+COLOMBO (News 1st); Four paratroopers from SL Army and SLAF were injured this morning (30), during rehearsals for the National Independence Day celebrations at Galle Face Green.
+
+The Sri Lanka Air Force said that the accident has occurred due to a rare and unexpected change in wind direction.
+
+The four paratroopers have sustained minor injuries, and are receiving treatment at NHSL & Army Hospital.
+
+Earlier, Major General Rasika Kumara, the military media spokesman, said three paratroopers were injured in the incident occurred when parachutes of the skydivers entangled.
+
+He said that two skydivers managed to make an emergency landing on the roof of a nearby building, while the other landed on Galle Face Green.
+
+All personnel were promptly taken to the nearest hospital for medical evaluation.
+
+PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Entering Certain Roads
+
+Imran Khan sentenced to 10 years in jail for leaking state secrets
+
+◼️
+
+[Data](articles/2e43e9fe.json)
 
 ---
 
@@ -253,6 +321,26 @@ There have been concerns raised about giving projects to build renewable plants 
 [Data](articles/73e6763a.json)
 
 [Extended Data](ext_articles/73e6763a.ext.json)
+
+---
+
+### PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Entering Certain Roads
+
+*2024-01-30 13:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/pd-sirisena-grounds-hyde-park-open-for-protests-as-court-blocks-sjb-from-entering-certain-roads/) · `en`
+
+COLOMBO (News 1st); Sri Lankan courts have issued a series of orders restricting protests planned by the opposition Samagi Jana Balawegaya in Colombo (30).
+
+The Maligakanda Magistrate's Court prohibited blocking roads within its jurisdiction from noon today until 10 am tomorrow.
+
+However, it designated the P. D. Sirisena Grounds and Hyde Park ground as safe spaces for protests, citing that there will be no restriction in exercising the freedom of speech.
+
+At the same time, the Fort Magistrate's Court also issued an order against Opposition Leader Sajith Premadasa and others from the SJB preventing them from entering into several roads in the Fort and Kompanna Veediya police jurisdictions.
+
+In addition, the court order prohibits Opposition Leader Sajith Premadasa and others from the SJB from entering the Finance Ministry, President's Office, President's House, and the Central Bank of Sri Lanka.
+
+...
+
+[Data](articles/be3251b5.json)
 
 ---
 
@@ -472,6 +560,28 @@ In addition, the Professor pointed out that the Ayurvedic Department should be o
 
 ---
 
+### Imran Khan sentenced to 10 years in jail for leaking state secrets
+
+*2024-01-30 13:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/imran-khan-sentenced-to-10-years-in-jail-for-leaking-state-secrets/) · `en`
+
+Colombo (News 1st) – A Pakistani court handed former Prime Minister Imran Khan a 10-year jail term on Tuesday (30th) for leaking state secrets, Pakistani media reported.
+
+It is his second conviction in recent months and comes just 10 days before the country's general election. Former foreign minister Shah Mehmood Qureshi was also sentenced to 10 years.
+
+The case pertains to allegations that Khan had made public the contents of a secret cable sent by the country's ambassador in Washington to the government in Islamabad.
+
+Khan was previously sentenced to three years in a corruption case. While his jail term was suspended as he challenged the corruption conviction, it has already ruled him out of the country's general elections which are scheduled for next week.
+
+Khan has been fighting dozens of cases since he was ousted from power in a parliamentary vote of no confidence in 2022.
+
+PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Entering Certain Roads
+
+...
+
+[Data](articles/24aa7fd7.json)
+
+---
+
 ### Independence Day Rehearsal: 4 Parasood soldiers injured: Two people fell on phase!
 
 *2024-01-30 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175135) · `ta`
@@ -679,6 +789,28 @@ At the same time, the police have obtained the orders of the Magistrate to condu
 [Data](articles/9c1d8684.json)
 
 [Extended Data](ext_articles/9c1d8684.ext.json)
+
+---
+
+### Pakistan War Ship PNS Saif Arrives in Colombo
+
+*2024-01-30 12:45:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/pakistan-war-ship-pns-saif-arrives-in-colombo/) · `en`
+
+COLOMBO (News 1st); The Pakistan Naval Ship (PNS) Saif arrived at the port of Colombo on a formal visit this morning (30th January 2024). The visiting ship was welcomed by the Sri Lanka Navy in compliance with naval traditions.
+
+PNS Saif is a 123m long Sword Class Frigate commanded by Captain Muhammad Ali. Meanwhile, she is manned by a crew of 276.
+
+The Commanding Officer of the ship is also expected to call on the Commander Western Naval Area. During the ship’s stay in Colombo, its crew members will visit some of the tourist attractions of the country.
+
+Concluding the visit, PNS Saif will leave the island on 01st February and conduct a Passage Exercise (PASSEX) with a ship of the Sri Lanka Navy in Colombo seas, on her departure.
+
+Over the weekend, HMS SPEY of the Royal Navy arrived at the port of Colombo.
+
+HMS Spey is a 90.5m long Offshore Patrol Vessel (OPV) which is manned by a crew of 56.
+
+...
+
+[Data](articles/48da8779.json)
 
 ---
 
@@ -1058,9 +1190,9 @@ All three personnel were promptly taken to the nearest hospital for medical eval
 
 While one has been admitted to the army hospital for further observation, the other two were admitted to the Colombo National Hospital.
 
-(VIDEO) Three Injured in Sri Lanka Parachute Mishap, Emergency Landings at Galle Face
+PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Entering Certain Roads
 
-Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
+Imran Khan sentenced to 10 years in jail for leaking state secrets
 
 ◼️
 
@@ -1262,9 +1394,9 @@ Their parachutes unexpectedly became entangled shortly after deployment, causing
 
 Both skydivers were immediately rushed to a nearby hospital where they are receiving treatment for their injuries.
 
-(VIDEO) Three Injured in Sri Lanka Parachute Mishap, Emergency Landings at Galle Face
+PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Entering Certain Roads
 
-Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
+Imran Khan sentenced to 10 years in jail for leaking state secrets
 
 ◼️
 
@@ -1782,9 +1914,9 @@ In a statement, Wickramaratne emphasized the importance of timely submission, st
 
 This report, which will be published alongside the annual financial statement reports, is scheduled for issuance before May 31.
 
-(VIDEO) Three Injured in Sri Lanka Parachute Mishap, Emergency Landings at Galle Face
+PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Entering Certain Roads
 
-Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
+Imran Khan sentenced to 10 years in jail for leaking state secrets
 
 ◼️
 
@@ -1885,135 +2017,5 @@ Due to this struggle, the main road from Colombo to Kandy in front of the Univer
 [Data](articles/a5672600.json)
 
 [Extended Data](ext_articles/a5672600.ext.json)
-
----
-
-### Operation Yukthiya Nets 868 Suspects in 24-Hour Sweep
-
-*2024-01-30 09:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/operation-yukthiya-nets-868-suspects-in-24-hour-sweep/) · `en`
-
-COLOMBO (News 1st);  Sri Lanka's Operation Yukthiya continues to crack down on crime, with authorities apprehending 868 suspects in the past 24 hours.
-
-The Ministry of Public Security reported significant progress, particularly in tackling drug offenses and apprehending wanted individuals.
-
-536 suspects, the majority of those arrested, were apprehended for drug-related offenses.
-
-Authorities seized substantial quantities of illegal narcotics, including 120 grams of heroin, 98 grams of methamphetamine (ice), and 123 kilograms of cannabis (ganja).
-
-Further investigations are underway on the detention orders of 3 suspects involved in drug cases.
-
-332 suspects were on the list sent to the criminal divisions, indicating successful apprehension of wanted individuals.
-
-(VIDEO) Three Injured in Sri Lanka Parachute Mishap, Emergency Landings at Galle Face
-
-Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
-
-◼️
-
-[Data](articles/771f8405.json)
-
-[Extended Data](ext_articles/771f8405.ext.json)
-
----
-
-### Kelaniya University Students Hold Ground After Tense Night
-
-*2024-01-30 09:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/kelaniya-university-students-hold-ground-after-tense-night/) · `en`
-
-COLOMBO (News 1st); Following a clash with police last night and ongoing occupation of the university administration building, Kelaniya University students have been offered a direct dialogue with the Vice-Chancellor to address their concerns.
-
-University administration confirmed the offer, stating that a discussion regarding student issues is scheduled for 1 pm.
-
-However, students remain inside the administration building for the time being.
-
-Campus security is informed and monitoring the situation, said the university administration.
-
-The tension stems from students protesting the President's planned visit to Kelaniya University today.
-
-Last night, Inter-University Student's Federation blocked the Kandy-bound lane of the Colombo-Kandy main road in protest, prompting police intervention.
-
-The students eventually dispersed after tear gas and water cannons were deployed.
-
-(VIDEO) Three Injured in Sri Lanka Parachute Mishap, Emergency Landings at Galle Face
-
-...
-
-[Data](articles/4ad87e28.json)
-
-[Extended Data](ext_articles/4ad87e28.ext.json)
-
----
-
-### Two women arrested for killing five murders in Beliwatta
-
-*2024-01-30 09:13:22* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්තේ-පංච-පුද්ගල-ඝාතනයට-කාන්තාවන්-දෙදෙනෙක්-අත්අඩංගුවට/11-407792) · `si`
-
-Police say five suspects were arrested yesterday at the Beliatta Police Division in the Southern Expressway in the Beliatta Police Division.
-
-The two women were arrested following a team of officers from the police station in the Ratgama yesterday morning.The arrested persons were residents of the Boossa area in Boossa area and after the crime was taken to the crime, police said.
-
-◼️
-
-[Data](articles/a709c0ff.json)
-
-[Extended Data](ext_articles/a709c0ff.ext.json)
-
----
-
-### Over 31,000 narcotic pills seized ‘Yukthiya’ operation
-
-*2024-01-30 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96840/over-31000-narcotic-pills-seized-yukthiya-operation) · `en`
-
-A total of 868 more suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours ending at 12.30 a.m. today (Jan. 30) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Detention orders have been secured against 3 of the arrestees, while another 5 were referred to rehabilitation centres, the Ministry of Public Security said.
-
-According to the ministry, the narcotics taken into custody during this period include 120g of heroin, 98 grams of crystal methamphetamine (Ice) and 31,611 narcotic pills. Additionally, 123kg of cannabis and 9,708 cannabis plants too were impounded.
-
-The police said 527 drug suspects were among the individuals arrested during this 24-hour window.
-
-◼️
-
-[Data](articles/36ad7498.json)
-
-[Extended Data](ext_articles/36ad7498.ext.json)
-
----
-
-### Over 31,000 narcotic pills seized during ‘Yukthiya’ operation
-
-*2024-01-30 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96840/over-31000-narcotic-pills-seized-during-yukthiya-operation) · `en`
-
-A total of 868 more suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours ending at 12.30 a.m. today (Jan. 30) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
-
-Detention orders have been secured against 3 of the arrestees, while another 5 were referred to rehabilitation centres, the Ministry of Public Security said.
-
-According to the ministry, the narcotics taken into custody during this period include 120g of heroin, 98 grams of crystal methamphetamine (Ice) and 31,611 narcotic pills. Additionally, 123kg of cannabis and 9,708 cannabis plants too were impounded.
-
-The police said 527 drug suspects were among the individuals arrested during this 24-hour window.
-
-◼️
-
-[Data](articles/ec3263e0.json)
-
-[Extended Data](ext_articles/ec3263e0.ext.json)
-
----
-
-### The Parrist Crash between the rehearsal of the free day
-
-*2024-01-30 09:06:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxw7renkmy9o) · `si`
-
-It contains nothing. Play Video
-
-Four members of the Air Force and Army were injured in a rehearsal of Parrizut crash between a rehearsal in Colombo, Galle Face today (Jan. 30).
-
-The accident occurred due to the changing the wind direction and the parries had taken a minor injuries, the Air Force Spokesman said.
-
-◼️
-
-[Data](articles/f960ad4c.json)
-
-[Extended Data](ext_articles/f960ad4c.ext.json)
 
 ---

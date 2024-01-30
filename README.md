@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 21:32:44**
+As of **2024-01-30 21:51:38**
 
 ## Newspaper Stats
 
-*Scraped **3,617** Articles*
+*Scraped **3,618** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,36 @@ adalk | 331
 adaderanasinhalalk | 399
 virakesarilk | 401
 tamilmirrorlk | 459
-adaderanalk | 463
+adaderanalk | 464
 dailymirrorlk | 490
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,616 (100.0%) of 3,617 articles have been extended.
+3,618 (100.0%) of 3,618 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### Sri Lanka donates Ceylon Tea consignment to Palestinians in Gaza Strip
+
+*2024-01-30 21:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96865/sri-lanka-donates-ceylon-tea-consignment-to-palestinians-in-gaza-strip-) · `en`
+
+Sri Lanka’s Foreign Affairs Ministry has made arrangements to donate a consignment of Ceylon Tea to the people of Palestine in the Gaza Strip as a token of humanitarian assistance symbolizing the island’s unwavering support and solidarity with the people of Palestine.
+
+The donation was received by the Ambassador of Palestine to Sri Lanka, Zuhair Hamdallah Zaid, from the Acting Minister of Foreign Affairs, Tharaka Balasuriya in the presence of Secretary of Foreign Affairs Aruni Wijewardane on Monday (Jan.29) at the Foreign Affairs Ministry.
+
+The Colombo-based Ambassadors of Saudi Arabia, Egypt and Iran as well as Diplomats from Iraq, Kuwait, Qatar, Oman, Libya and UAE also graced the occasion.
+
+...
+
+[Data](articles/0a417d99.json)
+
+[Extended Data](ext_articles/0a417d99.ext.json)
+
+---
 
 ### Opposition to the United People's Power in Colombo
 
@@ -180,19 +198,23 @@ The SJB held a protest march against the conduct of the government, with the par
 
 ---
 
-### රිටොක්සි මැප් බාල බෙහෙත් වංචාව ගැනත් පරීක්ෂණ අරඹයි
+### Ritoxi maps launches investigation into younger medication fraud
 
 *2024-01-30 19:05:06* · [`adalk`](https://www.ada.lk/breaking_news/රිටොක්සි-මැප්-බාල-බෙහෙත්-වංචාව-ගැනත්-පරීක්ෂණ-අරඹයි/11-407805) · `si`
 
-ඉන්දියානු ණය යෝජනා ක්‍රමය යටතේ ව්‍යාජ ලේඛන සකස් කර පිළිකා රෝගීන් සඳහා භාවිතා කරන ‘රිටොක්සි මැප්’ නමැති ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් ආනයනය කර දිවයිනේ රජයේ රෝහල්වලට බෙදා හැරීම මඟින් රුපියල් කෝටි 11ක වංචාවක් කළැයි කියන සිද්ධිය සම්බන්ධයෙන් අල්ලස් කොමිසම විමර්ශනයක් ආරම්භ කර ඇත.
+The Bribery Commission has launched an investigation into the 'Ritukcy Map' to the government hospitals in the country.
 
-ප්‍රමිතියෙන් තොර ‘රිටොක්සි මැප්’ ප්‍රතිදේහ එන්නත් ලබා දීමෙන් පිළිකා රෝගී ජීවීත අනාරක්‍ෂිත තත්වයකට පත් කිරීම සම්බන්ධයෙන්ද අල්ලස් කොමිසම විමර්ශන ආරම්භ කර ඇත.
+The Bribery Commission also commenced investigations into the formation of cancer insecurity by giving substandard rituki maps.
 
-ඉන්දියානු ණය යෝජනා ක්‍රමය යටතේ දුන් ණය මුදල් වලින් ව්‍යාජ ලේඛන සකස් කොට පිළිකා රෝගී්න් සඳහා භාවිතා කරන ‘රිටොක්සි මැප්’ නමැති එන්නත් වෙනුවට ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් ආනයනය කර දිවයිනපුරා රජයේ රෝහල්වලට බෙදා හැරීම මඟින් රුපියල් කෝටි ගණනක වංචාවක් කිරීම සහ රෝගී ජීවීත අනාරක්‍ෂිත තත්වයකට පත් කිරීම සම්බන්ධයෙන් විමර්ශනයක් කරන්නැයි ඉල්ලමින් ‘අල්ලස දූෂණය හා නාස්තියට එරෙහි පුරවැසි බළය’ සංවිධානයේ සභාපති ජාමුනි කමන්ත තුෂාර මහතා කළ පැමිණීල්ලකට අනුව අල්ලස් කොමිසම මෙම විමර්ශනය ආරම්භ කර ඇත.
+In the Indian Loan Scheme, the release of Rs.According to a complaint, the Bribery Commission has commenced this investigation according to a complaint by the President of the Citizenship Brigade and Citizenship Bureau of Bribery and Waste.
+
+"Phosphate" breast - vaccinated by the 'A hospitals' to the public hospitals and the distribution of 'Emimunologin' used for neurosuglobin.Deputy Solicanda Magistrate Magistrate Magistrate Magistrate Magistrate Magistrate Lakhandanda Magistrate Lakminanda Magistrate Lakminanda Magistrate Lokamani Weerasinghe has revealed that the antibodies of 'Ritukcy Map' used for stomachs.
 
 ...
 
 [Data](articles/d5d98188.json)
+
+[Extended Data](ext_articles/d5d98188.ext.json)
 
 ---
 
@@ -1991,25 +2013,5 @@ HMS Spey is a 90.5m long Offshore Patrol Vessel (OPV) which is manned by a crew 
 [Data](articles/48da8779.json)
 
 [Extended Data](ext_articles/48da8779.ext.json)
-
----
-
-### Second court order issued against SJB rally, barring entrance to parts of Colombo
-
-*2024-01-30 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96848/second-court-order-issued-against-sjb-rally-barring-entrance-to-parts-of-colombo) · `en`
-
-Another court order was issued this morning (30 Jan.), preventing the Samagi Jana Balawegaya (SJB) supporters from entering parts of Colombo during its political rally due to be held later today.
-
-The relevant order was issued by the Colombo Fort Magistrate’s Court against the political party.
-
-As per the court order, the SJB rally from entering several areas in Colombo, including the Finance Ministry, the Presidential Secretariat, President’s House and Galle Face Green this evening.
-
-Earlier today, the Colombo Chief Magistrate issued an order against SJB Leader Sajith Premadasa, SJB General Secretary Ranjith Madduma Bandara, former MP Mujibur Rahman and several others, barring them from inconveniencing the public and pedestrians in parts of the Maligawatte police area during the planned political rally.
-
-◼️
-
-[Data](articles/e9838448.json)
-
-[Extended Data](ext_articles/e9838448.ext.json)
 
 ---

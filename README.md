@@ -1,22 +1,22 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 14:17:16**
+As of **2024-01-30 14:32:54**
 
 ## Newspaper Stats
 
-*Scraped **3,513** Articles*
+*Scraped **3,522** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 46
 bbccomsinhala | 58
 dbsjeyarajcom | 125
-economynextcom | 188
+economynextcom | 193
 islandlk | 196
 newsfirstlk | 211
 dailyftlk | 233
 adalk | 321
-adaderanasinhalalk | 381
+adaderanasinhalalk | 385
 virakesarilk | 388
 tamilmirrorlk | 444
 adaderanalk | 451
@@ -26,11 +26,81 @@ dailymirrorlk | 471
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,513 (100.0%) of 3,513 articles have been extended.
+3,513 (99.7%) of 3,522 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### අනතුරට ලක්වූ පැරෂුට් භටයින්ගේ තත්ත්වය
+
+*2024-01-30 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192741) · `si`
+
+නිදහස් සැමරුම් උත්සවයේ පුහුණුවීම් කටයුතු අතරතුර අනතුරට පත්වූ පැරෂුට්කරුවන්ගේ තත්ත්වය බරපතළ නොවන බව ගුවන් හමුදාව පවසයි.
+
+අද (30) පෙරවරුවේ නිදහස් දින පෙරහුරුව සඳහා සහභාගී වූ ආරක්ෂක අංශ සාමාජිකයින් සිව්දෙනෙකු පැරෂුට් සංදර්ශනයේ පෙරහුරුව අතරතුරදී බිමට ඇදවැටී රෝහල් ගත කළේය.
+
+අනතුරෙන් යුද හමුදාවේ පැරෂුට්කරුවන් දෙදෙනෙකු සහ ගුවන් හමුදාවේ පැරෂුට්කරුවන් දෙදෙනෙකු තුවාල ලබා තිබේ.
+
+ඔවුන්ගෙන් දෙදෙනෙකු කොළඹ පිහිටි උස් ගොඩනැගිල්ලක් මතට වැටෙන අයුරු වීඩියෝවල සඳහන්ව තිබුණි.
+
+◼️
+
+[Data](articles/bf5ab7af.json)
+
+---
+
+### Sri Lanka to seek private investor for Mannar Island wind plant
+
+*2024-01-30 14:00:00* · [`economynextcom`](https://economynext.com/sri-lanka-to-seek-private-investor-for-mannar-island-wind-plant-149123/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet of ministers has approved a proposal to seek private investment on a built operate own (BOO) basis to build a power plant with six wind turbines at a wind farm in Mannar Island, Minister Bandula Gunawardana said.
+
+Sri Lanka was originally planning to build the turbines with a 47 million US dollar loan from the Asian Development Bank.
+
+“Asian Development Bank funds cannot be used until the government’s foreign debt restructuring program is completed,” Cabinet spokesman Minister Bandula Gunawardena told reporters Tuesday.
+
+“Accordingly the Cabinet of Ministers approved the proposal to implement the project on a BOO basis with private sector investors selected on a competitive basis with an operational period of 20 years.”
+
+There have been concerns raised about giving projects to build renewable plants without competitive bidding. (Colombo/Jan30/2024)
+
+◼️
+
+[Data](articles/087d7c15.json)
+
+---
+
+### Bill and Melinda Gates Foundation to partner with Sri Lanka president’s office
+
+*2024-01-30 13:42:00* · [`economynextcom`](https://economynext.com/bill-and-melinda-gates-foundation-to-partner-with-sri-lanka-presidents-office-149110/) · `en`
+
+ECONOMYNEXT – Global Health Strategies, by the Bill and Melinda Gates Foundation, and its local partner Connect to Care Organization, are to establish a Program Support Unit within the President’s Office, Cabinet spokesman Bandula Gunawardena said.
+
+The Cabinet of Ministers approved the move after taking “into consideration the policy support proposed to be provided by Bill and Melinda Gates Foundation to the Presidential Secretariat,” Gunawardena said at the press briefing to announce Cabinet decisions on Tuesday.
+
+The President’s Office provides “guidance on policy issues and monitoring government programs,” Gunawardena said, and “maintains coordination with a number of multi-stakeholder organizations such as International Monetary Fund’s Comprehensive Funding Facility, World Bank’s Development Policy Operational Program, Asian Development Bank’s Policy Assistance Programs, etc and interacts with various public and private sector stakeholders.”
+
+...
+
+[Data](articles/c8ea7948.json)
+
+---
+
+### ඉම්රාන් ඛාන්ට වසර 10ක සිරදඬුවමක්
+
+*2024-01-30 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192740) · `si`
+
+රාජ්‍ය රහස් හෙළිකිරීමේ චෝදනාව මත පාකිස්තානයේ හිටපු අග්‍රාමාත්‍ය ඉම්රාන් ඛාන්ට වසර 10ක සිරදඬුවමක් ලබාදී තිබේ.
+
+2022 වසරේ දී දූෂණ චෝදනාවකට වැරදිකරු වූ ඉම්රාන් ඛාන් මේ වනවිට බන්ධනාගාරගත කර සිටී.
+
+එල්ල වූ චෝදනා සම්බන්ධයෙන් අදහස් දක්වමින් ඉම්රාන් ඛාන් පවසා ඇත්තේ, එම චෝදනා දේශපාලන කරුණු මත එල්ල කර ඇති බවය.
+
+◼️
+
+[Data](articles/fd0f73d9.json)
+
+---
 
 ### Today's currency exchange rate
 
@@ -87,6 +157,48 @@ After completing the visit, Pakistan's Saif ship will leave Sri Lanka on the fir
 [Data](articles/153cbc26.json)
 
 [Extended Data](ext_articles/153cbc26.ext.json)
+
+---
+
+### අත්පා සෙලවිය නොහැකි පුද්ගලයින්ට මස්ක් ගෙන් චිප් එකක්
+
+*2024-01-30 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192739) · `si`
+
+අත් පා සෙලවිය නොහැකි රෝගවලින් පෙළෙන පුද්ගලයින්ට තම සිතිවිලි භාවිත කරමින් භාණ්ඩ පරිහරණය කිරීමේ හැකියාව ලබාදෙන නව තාක්ෂණික ක්‍රමවේදයක් ඊලොන් මස්ක්ගේ නියුරාලින්ක් සමාගම අත්හදාබලමින් සිටී.
+
+රැහැන් රහිත 'චිප්' එකක් මිනිස් මොළයට සාර්ථකව සවි කිරීමට එම සමාගම සමත්ව ඇත්තේ එහි නවතම පියවර ලෙසය.
+
+එම සමාගම, මෙවන් මස්තිෂ්ක චිපය මිනිසෙකු යොදාගෙන අත්හදා බලා ඇත්තේ පළමුවරටය.
+
+චිපය සවිකළ පුද්ගලයා මේ වනවිට යහපත් සෞඛ්‍ය තත්ත්වයෙන් පසුවන බව බලධාරීන් තහවුරු කර ඇති බව වාර්තා වේ.
+
+මිනිස් හිසකෙස්වලටත් වඩා සියුම් නම්‍යශීලී කෙඳි 64ක්, මිනිස් සිරුරේ චලන පාලනය කරන මොළයේ කොටස මත සවි කිරීම මෙහිදී සිදුවන අතර ඉන් මිනිසාගේ මොළය පරිගණකයට සම්බන්ධ කෙරෙන බව වාර්තා වේ.
+
+මිනිසුන්ට ඇතිවිය හැකි සංකීර්ණ ස්නායු රෝගාබාධවලදී සහාය වීමේ අරමුණින් නිපදවූ මෙය නිෂ්පාදනය ටෙලිපති ලෙස නම් කර තිබේ.
+
+මෙම තාක්ෂණය මිනිසුන් යොදාගෙන අත්හදා බැලීමේ අවසරය මැයි මාසයේදී එම සමාගමට හිමිවූයේ වසර 6ක් තිස්සේ ගත් ප්‍රයත්නයකින් අනතුරුවය.
+
+◼️
+
+[Data](articles/0765e432.json)
+
+---
+
+### සජබ විරෝධයට තවත් අධිකරණයකින් නියෝගයක්
+
+*2024-01-30 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192738) · `si`
+
+අද (30) දහවල් පැවැත්වීමට නියමිත සමගි ජන බලවේගයේ මහජන රැළිය සඳහා මාළිඟාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් නියෝගයක් නිකුත් කර තිබේ.
+
+ඒ අනුව රැළියට සහභාගී වන පිරිසට ඩීන්ස් පාර, ටී.බී. ජයා මාවත, ටෙක්නිකල් හන්දිය ඇතුළු ප්‍රදේශ කිහිපයකට ඇතුළු වීම තහනම් වේ.
+
+සමගි ජන බලවේගයේ නායක, සජිත් ප්‍රේමදාස මහතා ඇතුළු 16 දෙනෙකු සහ විරෝධතාවයට සහභාගී වන 500කට අධික තවත් අය මෙහි වගඋත්තරකරුවන් ලෙස නම් කර සිටී.
+
+කෙසේ වෙතත් අදාළ විරෝධතාකරුවන්ට සිය භාෂණයේ නිදහස භාවිත කිරීම උදෙසා කිසිදු බාධාවක් සිදුනොකරමින් ඔවුන්ගේ මතයන් ප්‍රකාශ කිරීම සඳහා අධිකරණය බලප්‍රදේශයට අයත් පී.ඩී සිරිසේන ක්‍රීඩාංගණය හා හයිඩ්පාක් පිටිය සුරක්ෂිත ලෙස ඔවුන් වෙනුවෙන් වෙන් කොට තැබීමටත් එම පිටි තුළ විරෝධතා දැක්වීමට බාධාවක් සිදුනොවුන ඇති බවත් ඒ සඳහා අවසර ලබාදෙන බවත් මාළිඟාකන්ද මහෙස්ත්‍රාත් ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මිය නියෝග කර තිබේ.
+
+◼️
+
+[Data](articles/c32d0bbb.json)
 
 ---
 
@@ -495,6 +607,26 @@ The four paratroopers reportedly suffered minor injuries after their parachutes 
 [Data](articles/5dc5cc91.json)
 
 [Extended Data](ext_articles/5dc5cc91.ext.json)
+
+---
+
+### Sri Lanka services exports rise to US$3.0bn in 2023: EDB
+
+*2024-01-30 11:42:00* · [`economynextcom`](https://economynext.com/sri-lanka-services-exports-rise-to-us3-0bn-in-2023-edb-149108/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s services exports are estimated to have risen 63 percent from a year ago to 3.09 billon in 2023, the island’s Export Development Board said.
+
+The services exports estimated by EDB is made up of ICT/BPM, construction, financial services and transport and logistics.
+
+Goods exports were 11,856 million US dollars, down 9.54 percent from 13,106 million last year.
+
+Goods and services exports were 14.94 billion US dollars, up 0.39 percent from a year earlier.
+
+Sri Lanka also gets remittances which are exports of labour. (Colombo/Jan29/2023)
+
+◼️
+
+[Data](articles/fd6f657e.json)
 
 ---
 
@@ -1112,6 +1244,30 @@ Attorney-at-Law Chamari Priyanka Perera, the resident of the police serving as t
 
 ---
 
+### Sri Lanka rupee opens at 317.50/70 to the US dollar
+
+*2024-01-30 09:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-317-50-70-to-the-us-dollar-149077/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee opened at 317.50/70 to the US dollar on Tuesday, from 317.75/90 the previous day, dealers said.
+
+The central bank has been running broadly deflationary policy, allowing the rupee to appreciate and the central bank to buy dollars.
+
+The central bank can determine the level to which the rupee appreciates by the floor rate is buys (a strong side convertibility undertaking).
+
+Sri Lanka also saw a surge in imports in December ahead of tax increases.
+
+A bond maturing on 01.08.2026 was quoted at 13.15/25 percent.
+
+A bond maturing on 01.07.2028 was quoted at 13.55/65 percent.
+
+The Colombo Stock Exchange opened up; The All Share Price Index was up 0.09 percent at 10,306. And the S&P SL20 was up 0.25 percent at 2,920. (Colombo/Jan30/2024)
+
+◼️
+
+[Data](articles/6d93ed7e.json)
+
+---
+
 ### Afghan to arrive in the island
 
 *2024-01-30 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192726) · `si`
@@ -1600,6 +1756,24 @@ The commissioner Amit Jayasundara said that further information can be obtained 
 
 ---
 
+### Sri Lanka’s trade barriers, denied economic freedoms seen driving corruption
+
+*2024-01-30 08:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-trade-barriers-denied-economic-freedoms-seen-driving-corruption-149058/) · `en`
+
+ECONOMYNEXT – Sri Lanka economic and trade freedoms denied to the public by the state is a key driver of corruption in the island, which is a trend seen across countries, a Canada based researcher has said.
+
+Sri Lanka ranks among the bottom of the 165 countries ranked annually by Fraser Institute dropping 12 places to 116 in the latest compilation which is based on 2021 data.
+
+Many analysts have pointed out that Sri Lanka no longer has an ‘open economy’ as import duties, and para tariffs, as well as import licensing progressively worsened over the past 15 years.
+
+“Out of 165 jurisdictions we measure, Sri Lanka comes in at 156, right down at the bottom,” Fred McMahon Resident Fellow at Fraser Institute told an economic forum organized by Colombo-based Advocata Institute.
+
+...
+
+[Data](articles/40ec0cc4.json)
+
+---
+
 ### Maithri is noticeable to Mahinda as the post of Prime Minister
 
 *2024-01-30 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192721) · `si`
@@ -1853,187 +2027,5 @@ The Department of Meteorology emphasizes the people to take necessary action to 
 [Data](articles/8a19f83b.json)
 
 [Extended Data](ext_articles/8a19f83b.ext.json)
-
----
-
-### Power disconnected due to non-payment of 18 cents
-
-*2024-01-30 06:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Power-disconnected-due-to-non-payment-of-18-cents/108-275959) · `en`
-
-The electricity supply to a residence in Galvadugoda, Galle was abruptly cut off due to non-payment of a mere 18 cents in the electricity bill. The resident, Visum Mapalagama, said that Lanka Electricity Private Company Limited (LECO), the electricity provider for the city of Galle and its surroundings, had disconnected his house’s electricity supply.
-
-Mapalagama recounted his visit to the LECO office to settle his electricity bill, which amounted to 6650.18 rupees. Curious about the 18 cents, he inquired with the cashier, who assured him that such a small amount would not result in a power disconnection. Consequently, Mapalagama paid Rs. 6650.00, leaving the remaining 18 cents unpaid.
-
-To his dismay, a few days later, Mapalagama discovered that LECO had disconnected the electricity supply to his house. A power cut notice was left behind, stating that a reconnection would require an additional fee of Rs. 1,231, along with the outstanding amount of 18 cents.
-
-...
-
-[Data](articles/e2491c1a.json)
-
-[Extended Data](ext_articles/e2491c1a.ext.json)
-
----
-
-### Car accidents: What is the fatal speed that can cause damage to human life?
-
-*2024-01-30 05:19:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckkvddn2rl5o) · `si`
-
-Car accidents: What is the fatal speed that can cause damage to human life?
-
-In Sri Lanka, the society was a large number of vehicles to run high fast and the deadly accidents.
-
-One of the main events was caused by the State Minister Sanath Nishantha and his security officer from an accident on Colombo-Katunayake Expressway on January 25.
-
-Another bus accident on the Southern Expressway, another accident on the Southern Expressway, was killed in another day after the accident occurred.
-
-On January 27, three people were killed in an accident caused by a three-wheeler in Narammala.
-
-The BBC Sinhala served persons with expertise were inquired by specialized knowledge of expertise on the issues of drivers as well as the attention of ordinary people.
-
-Many drivers have emerged in society if the vehicle is trying to drive the vehicle to the maximum speed shown in the speed of the vehicle they run.
-
-...
-
-[Data](articles/c60f0758.json)
-
-[Extended Data](ext_articles/c60f0758.ext.json)
-
----
-
-### Passenger with fake Italian visa stopped at BIA
-
-*2024-01-30 05:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Passenger-with-fake-Italian-visa-stopped-at-BIA/108-275958) · `en`
-
-Colombo, Jan 30 (Daily Mirror) - The Immigration and Emigration Department yesterday asked the local travelers to be extremely cautious of bogus travel agents who would arrange fake foreign visas or travel documents for exorbitant rates, following such a passenger with a fake Italian visa was intercepted at the airport.
-
-The immigration authorities requested from the public to be watchful when paying large sums of money to agents to get their travel documents done as they could easily be deceived by the fraudsters.
-
-If a traveler is doubtful about the authenticity of their visa or any other travel document they could simply check it with the respective embassy or foreign mission of the country they intend to visit.
-
-The immigration officials at the Bandaranaike International Airport (BIA) departure terminal were tipped off about a suspicious passenger bound for Oman on Sunday morning.
-
-...
-
-[Data](articles/023f2e5d.json)
-
-[Extended Data](ext_articles/023f2e5d.ext.json)
-
----
-
-### Passenger with fake Italian visa stopped at BIA: over line
-
-*2024-01-30 05:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Passenger-with-fake-Italian-visa-stopped-at-BIA-over-line/108-275958) · `en`
-
-Colombo, Jan 30 (Daily Mirror) - The Immigration and Emigration Department yesterday asked the local travelers to be extremely cautious of bogus travel agents who would arrange fake foreign visas or travel documents for exorbitant rates, following such a passenger with a fake Italian visa was intercepted at the airport.
-
-The immigration authorities requested from the public to be watchful when paying large sums of money to agents to get their travel documents done as they could easily be deceived by the fraudsters.
-
-If a traveler is doubtful about the authenticity of their visa or any other travel document they could simply check it with the respective embassy or foreign mission of the country they intend to visit.
-
-The immigration officials at the Bandaranaike International Airport (BIA) departure terminal were tipped off about a suspicious passenger bound for Oman on Sunday morning.
-
-...
-
-[Data](articles/ac07fae5.json)
-
-[Extended Data](ext_articles/ac07fae5.ext.json)
-
----
-
-### Missing the young man who went to the fisheries
-
-*2024-01-30 04:41:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்றொழிலுக்கு-சென்ற-இளைஞரைக்-காணவில்லை/175-332315) · `ta`
-
-Joseph Mazimas Suresh Kumar (age 32) from the area has disappeared.
-
-While staying in the sea, three men went to sleep at night. When he got up in the morning, the young man in it disappeared.
-
-Fisheries and Aquatic Resources Department, Police and Navy. (A)
-
-◼️
-
-[Data](articles/cdc75986.json)
-
-[Extended Data](ext_articles/cdc75986.ext.json)
-
----
-
-### The boy kills the web
-
-*2024-01-30 04:36:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுளம்பு-வலை-இறுகியதால்-சிறுவன்-பலி/175-332314) · `ta`
-
-A boy has died after tightening the web web.
-
-The deceased, a 12 -year -old boy, a 12 -year -old boy named Uppaq Deepamal, a 12 -year -old boy from Villauva Vattai area on Puttalam - Anuradhapura road, has died.
-
-While the boy was playing at the cot in the house last night, the thread of the mosquito net, which was hanging there, was reported to be tightened on the boy's neck.
-
-The parents, who noticed the boy's noise, went to the bedroom of the house and immediately took the boy to the Puttalam Base Hospital with the help of relatives and neighbors.
-
-Puttalam police are conducting further investigations into the incident. (A)
-
-◼️
-
-[Data](articles/6804c0cb.json)
-
-[Extended Data](ext_articles/6804c0cb.ext.json)
-
----
-
-### The corpse of the Mullaiter youth is left
-
-*2024-01-30 04:29:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லை-இளைஞரின்-சடலம்-ஒதுங்கியது/175-332312) · `ta`
-
-The body of a missing family member was on the shore of the Mullaitivu road yesterday afternoon when the Mullaitivu - Matalan was bathed yesterday.
-
-A 33 -year -old family member, Rasadurai Kasturan, from the tenth region of Pudukkudiyiruppu, has been recovered.
-
-◼️
-
-[Data](articles/0d56aae4.json)
-
-[Extended Data](ext_articles/0d56aae4.ext.json)
-
----
-
-### Struggle in Colombo today
-
-*2024-01-30 04:23:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இன்று-போராட்டம்/175-332311) · `ta`
-
-The United People's Power has announced that it will hold a massive protest and a public meeting in Colombo today.
-
-The party has announced that 50 thousand people will gather in the struggle against the government.
-
-The struggle is being carried out on a number of issues, including the increase in cost of living in Sri Lanka. (A)
-
-◼️
-
-[Data](articles/c36c095d.json)
-
-[Extended Data](ext_articles/c36c095d.ext.json)
-
----
-
-### 12 years in prison for sharing
-
-*2024-01-30 04:21:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடிவதைக்கு-12-ஆண்டுகள்-சிறைத்-தண்டனை/175-332310) · `ta`
-
-Higher Education Minister Suren Raghavan has said that if the crimes relating to sharing are proven, there are legal arrangements for a suspect to be sentenced to 12 years in prison.
-
-He was speaking at a press conference held at the Government Information Department yesterday.
-
-“Legal attention will be paid to the dissemination of new students who are being admitted to universities.
-
-More than 80 complaints made in the past year cannot be considered related to sharing.
-
-At the same time, complaints relating to sharing are likely to be sentenced to about 12 years in prison.
-
-Therefore, university students should use the freedom given to them and act in the future of the future. ”(A)
-
-◼️
-
-[Data](articles/181d863e.json)
-
-[Extended Data](ext_articles/181d863e.ext.json)
 
 ---

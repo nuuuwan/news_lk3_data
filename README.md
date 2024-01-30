@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 02:02:22**
+As of **2024-01-31 02:17:19**
 
 ## Newspaper Stats
 
-*Scraped **3,649** Articles*
+*Scraped **3,651** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 127
 islandlk | 198
 economynextcom | 200
 newsfirstlk | 216
-dailyftlk | 233
+dailyftlk | 235
 adalk | 331
 adaderanasinhalalk | 405
 virakesarilk | 405
@@ -26,11 +26,37 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,647 (99.9%) of 3,649 articles have been extended.
+3,649 (99.9%) of 3,651 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### “Thugs, death and decency” in a society with a feudal mindset
+
+*2024-01-31 01:51:08* · [`dailyftlk`](https://www.ft.lk/columns/Thugs-death-and-decency-in-a-society-with-a-feudal-mindset/4-757943) · `en`
+
+On last poya holiday, the first full moon this new year 2024, I was woken up pretty early in the morning by the tinkle of a WhatsApp message on my mobile phone. One from an expatriate Sinhala-Buddhist patriot, an old-time pal of mine. It was a hurried short message. His excitement and joy no less ingrained. “Macho, Good news for all…did you hear it? That mad thug from Puttalam had died in an accident on Katunayake Expressway… Just past midnight” read his message.
+
+His excitement and joy were no less indecent and vulgar than the man he called a “mad thug”. Many things ran through my mind with that message and made me sit at the computer instead of getting back to sleep again. A short response in Sinhala, perhaps the first on State Minister Sanath Nishantha’s tragic death was thus shared with some of my contacts on WhatsApp. Here in English is the first part of it as entry to an explanatory note on “thugs, death and decency”.
+
+...
+
+[Data](articles/22c70721.json)
+
+---
+
+### RW, IMF and the economy
+
+*2024-01-31 01:45:25* · [`dailyftlk`](https://www.ft.lk/columns/RW-IMF-and-the-economy/4-757942) · `en`
+
+President Ranil Wickremesinghe addressing the International Customs Day celebrations had once again thrown the gauntlet at all political parties and challenged them to put forward a better and alternative agenda to the current IMF designed economic revival program. In his address, he obviously omitted to utter even one word about the extent of economic hardship endured by a vast majority of the people as a result of implementing IMF recommendations.  Since, like the IMF, RW also believes the hardship is a short term pain worth enduring to achieve long term gain.  But, who gains at the cost of whose pain is left unsaid. This address, like several of his in recent months, was obviously driven by RW’s political desire to discredit the Opposition before declaring the date for the Presidential poll at which he would be a contestant.
+
+...
+
+[Data](articles/75083a34.json)
+
+---
 
 ### 76 Years of Independence - Looking Back in Retrospect - EDITORIAL
 
@@ -50,6 +76,8 @@ We gave the world its first female Prime Minister. But, according to the World E
 
 [Data](articles/488841fe.json)
 
+[Extended Data](ext_articles/488841fe.ext.json)
+
 ---
 
 ### Sanath Nishantha and the Cheapness of Politics in Our Times
@@ -63,6 +91,8 @@ Public anger at the system can obscure a bigger picture of an assortment of defe
 ...
 
 [Data](articles/5c1212c7.json)
+
+[Extended Data](ext_articles/5c1212c7.ext.json)
 
 ---
 
@@ -2013,41 +2043,5 @@ The court has issued an interim injunction for three years in prison in the priz
 [Data](articles/5bf4e85c.json)
 
 [Extended Data](ext_articles/5bf4e85c.ext.json)
-
----
-
-### Holidays to the stock market next Monday
-
-*2024-01-30 14:04:46* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-සඳුදා-කොටස්-වෙළඳපොලට-නිවාඩු/11-407802) · `si`
-
-The next February 5 has been announced as a stock market holiday.
-
-Since February 4, February 5, the stock market has been published as an additional holiday on Monday, February 5.
-
-◼️
-
-[Data](articles/2df2dd4c.json)
-
-[Extended Data](ext_articles/2df2dd4c.ext.json)
-
----
-
-### Status of Parachute Troops
-
-*2024-01-30 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192741) · `si`
-
-The Parashiots of the Independence Day trainage are not serious.
-
-Four security personnel who participated in the Independence Day rehearsal today (30) took the area during the patronage of the parachute show.
-
-Two army personnel and two Air Force parastords were injured in the accident.
-
-Two of them contained in the videos of a high building in Colombo.
-
-◼️
-
-[Data](articles/bf5ab7af.json)
-
-[Extended Data](ext_articles/bf5ab7af.ext.json)
 
 ---

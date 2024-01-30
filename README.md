@@ -1,36 +1,72 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 09:32:44**
+As of **2024-01-30 09:51:18**
 
 ## Newspaper Stats
 
-*Scraped **3,421** Articles*
+*Scraped **3,428** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 46
 bbccomsinhala | 56
 dbsjeyarajcom | 125
-economynextcom | 187
+economynextcom | 188
 islandlk | 196
 newsfirstlk | 203
 dailyftlk | 233
 adalk | 313
-virakesarilk | 369
+virakesarilk | 370
 adaderanasinhalalk | 370
 tamilmirrorlk | 425
-adaderanalk | 437
-dailymirrorlk | 461
+adaderanalk | 439
+dailymirrorlk | 464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,421 (100.0%) of 3,421 articles have been extended.
+3,421 (99.8%) of 3,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### களனி பல்கலைக்கழகத்தின் நிர்வாகக் கட்டிடம் மாணவர்களால் முற்றுகை
+
+*2024-01-30 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175109) · `ta`
+
+களனி பல்கலைக்கழகத்தில் சுமார் 350 மாணவர்கள் அடங்கிய குழுவினர் நிர்வாக கட்டிடத்தை முற்றுகையிட்டுள்ளதுடன் உள்ளே நுழைந்து எதிர்ப்பு நடவடிக்கையில் ஈடுபட்டுள்ளனர்.
+
+ஜனாதிபதி ரணில்  விக்ரமசிங்க களனி பல்கலைக்கழகத்திற்கு விஜயம் மேற்கொள்வதற்கு எதிர்ப்பு தெரிவித்தே குறித்த ஆர்ப்பாட்டம் நேற்றிரவு மேற்கொள்ளப்பட்டது.
+
+இவேதவேளை, நேற்றிரவு (29) கொழும்பு-கண்டி வீதியை மறித்து மாணவர்கள் போராட்டம் நடத்தியிருந்த நிலையில், அவர்களை கலைக்க பொலிஸார் கண்ணீர் புகை மற்றும் நீர்த்தாரை பிரயோகம் மேற்கொண்டுள்ளனர்.
+
+இந்த போராட்டம் காரணமாக களனி பல்கலைக்கழகத்திற்கு முன்பாக கொழும்பில் இருந்து கண்டி செல்லும் பிரதான வீதி முற்றாக தடைப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a5672600.json)
+
+---
+
+### Over 31,000 narcotic pills seized ‘Yukthiya’ operation
+
+*2024-01-30 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96840/over-31000-narcotic-pills-seized-yukthiya-operation) · `en`
+
+A total of 868 more suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours ending at 12.30 a.m. today (Jan. 30) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Detention orders have been secured against 3 of the arrestees, while another 5 were referred to rehabilitation centres, the Ministry of Public Security said.
+
+According to the ministry, the narcotics taken into custody during this period include 120g of heroin, 98 grams of crystal methamphetamine (Ice) and 31,611 narcotic pills. Additionally, 123kg of cannabis and 9,708 cannabis plants too were impounded.
+
+The police said 527 drug suspects were among the individuals arrested during this 24-hour window.
+
+◼️
+
+[Data](articles/36ad7498.json)
+
+---
 
 ### Another 868 arrested with justice operation
 
@@ -43,6 +79,26 @@ Police have arrested 868 suspects in the last 24 hours in the country today (30)
 [Data](articles/d79529fa.json)
 
 [Extended Data](ext_articles/d79529fa.ext.json)
+
+---
+
+### Special traffic plan in place as Independence Day ceremony rehearsals begin
+
+*2024-01-30 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96839/special-traffic-plan-in-place-as-independence-day-ceremony-rehearsals-begin) · `en`
+
+Rehearsals for the 76th Independence Day ceremony commenced today (Jan.30) and will continue until February 03 at the Galle Face Green.
+
+As such, a special traffic plan is in place on a stretch of the Galle Road in view of the upcoming event.
+
+The Galle Road will temporarily remain closed from Kollupitiya Junction - Galle Face and from Ceramic Junction - Galle Face from 6 a.m. - 8.30 a.m. and 11 a.m. - 12.30 p.m. until Friday (Feb.02).
+
+The aforementioned section of Galle Road will once again be off limits for traffic starting at 2 p.m. on 03 February until the conclusion of the Independence Day ceremony on 04 February.
+
+The rehearsals were initially scheduled to commence on Monday (Jan.29), however, it was later pushed back by a day.
+
+◼️
+
+[Data](articles/8f2dc5e8.json)
 
 ---
 
@@ -131,6 +187,26 @@ Subsequently, Mahinda Rajapaksa was appointed to the post.
 [Data](articles/a198715a.json)
 
 [Extended Data](ext_articles/a198715a.ext.json)
+
+---
+
+### Colombo University makes history with new anti-aging drug
+
+*2024-01-30 08:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Colombo-University-makes-history-with-new-anti-aging-drug/155-275957) · `en`
+
+Colombo, Jan 30 (Daily Mirror) - A scientific think-tank from the University of Colombo is in the process of launching an anti-aging nutraceutical capsule for the first time in Sri Lanka.
+
+Speaking to Daily Mirror, Prof. Sameera R. Samarakoon from the Institute of Biochemistry, Molecular Biology and Biotechnology at the University of Colombo, who is also the head of the team said the capsule had been made from natural ingredients; nevertheless, the nature of the ingredients can’t be declared at the moment.
+
+The professor also said that after long-term research, the drug is in the final stage of launch.
+
+“It will be launched within the next few months probably in four months,” he said.
+
+“These type of anti-aging drugs are quite popular in the world market and some imported products are also available in Sri Lanka; however, they are sold at exorbitant prices,” he added.
+
+...
+
+[Data](articles/f4a36565.json)
 
 ---
 
@@ -279,6 +355,40 @@ The Department of Meteorology emphasizes the people to take necessary action to 
 [Data](articles/8a19f83b.json)
 
 [Extended Data](ext_articles/8a19f83b.ext.json)
+
+---
+
+### Power disconnected due to non-payment of 18 cents
+
+*2024-01-30 06:11:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Power-disconnected-due-to-non-payment-of-18-cents/108-275959) · `en`
+
+The electricity supply to a residence in Galvadugoda, Galle was abruptly cut off due to non-payment of a mere 18 cents in the electricity bill. The resident, Visum Mapalagama, said that Lanka Electricity Private Company Limited (LECO), the electricity provider for the city of Galle and its surroundings, had disconnected his house’s electricity supply.
+
+Mapalagama recounted his visit to the LECO office to settle his electricity bill, which amounted to 6650.18 rupees. Curious about the 18 cents, he inquired with the cashier, who assured him that such a small amount would not result in a power disconnection. Consequently, Mapalagama paid Rs. 6650.00, leaving the remaining 18 cents unpaid.
+
+To his dismay, a few days later, Mapalagama discovered that LECO had disconnected the electricity supply to his house. A power cut notice was left behind, stating that a reconnection would require an additional fee of Rs. 1,231, along with the outstanding amount of 18 cents.
+
+...
+
+[Data](articles/e2491c1a.json)
+
+---
+
+### Passenger with fake Italian visa stopped at BIA: over line
+
+*2024-01-30 05:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Passenger-with-fake-Italian-visa-stopped-at-BIA-over-line/108-275958) · `en`
+
+Colombo, Jan 30 (Daily Mirror) - The Immigration and Emigration Department yesterday asked the local travelers to be extremely cautious of bogus travel agents who would arrange fake foreign visas or travel documents for exorbitant rates, following such a passenger with a fake Italian visa was intercepted at the airport.
+
+The immigration authorities requested from the public to be watchful when paying large sums of money to agents to get their travel documents done as they could easily be deceived by the fraudsters.
+
+If a traveler is doubtful about the authenticity of their visa or any other travel document they could simply check it with the respective embassy or foreign mission of the country they intend to visit.
+
+The immigration officials at the Bandaranaike International Airport (BIA) departure terminal were tipped off about a suspicious passenger bound for Oman on Sunday morning.
+
+...
+
+[Data](articles/ac07fae5.json)
 
 ---
 
@@ -1873,127 +1983,5 @@ It is noteworthy that the commemoration was carried out by all Tamil students of
 [Data](articles/2ff115dd.json)
 
 [Extended Data](ext_articles/2ff115dd.ext.json)
-
----
-
-### Maldives’ main Opposition to file impeachment motion against President Muizzu
-
-*2024-01-29 16:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Maldives-main-Opposition-to-file-impeachment-motion-against-President-Muizzu/108-275918) · `en`
-
-Colombo, Jan 29 (Maldives) -  The main opposition party of Maldives, Maldivian Democratic Party, which holds a majority in the Parliament, is set to file an impeachment motion against President Mohamed Muizzu, local media reported on Monday.
-
-This comes a day after violence erupted in the Maldives Parliament as government MPs from the pro-government parties People’s National Congress (PNC) and Progressive Party of Maldives (PPM) disrupted proceedings and confronted the Speakers.
-
-As per Maldives-based news portal Adhahdhu, a total of 34 members, comprising representatives from both the MDP and Democrats, have expressed their support for the motion to impeach the president.
-
-...
-
-[Data](articles/f7bfcc4b.json)
-
-[Extended Data](ext_articles/f7bfcc4b.ext.json)
-
----
-
-### Sri Lankan fishing trawler and crew hijacked by pirates rescued
-
-*2024-01-29 16:09:00* · [`adaderanalk`](https://www.adaderana.lk/news/96826/sri-lankan-fishing-trawler-and-crew-hijacked-by-pirates-rescued) · `en`
-
-UPDATE: Three sea pirates have been taken into custody by the Seychelles Navy, according to the spokesman of the Sri Lanka Navy.
-
-Captain Gayan Wickramasuriya further revealed that the rescued Sri Lankan fishing trawler is currently being escorted to the Victoria Harbour in Seychelles.
-
-The Seychelles Coast Guard (SCG) has rescued the Sri Lankan fishing trawler, and its 6 crew members, which had been hijacked by sea pirates in the Arabian Sea, according to the Director General of the Fisheries Department.
-
-State Minster of Fisheries Piyal Nishantha also revealed that the pirates had allowed the Sri Lankan fishermen captured to communicate with the Ministry following the hijacking.
-
-Sri Lanka sought assistance from the Combined Maritime Forces (CMF), the world’s largest maritime security partnership, on Sunday (28 Jan.), to obtain the release of the fishing trawler and its crew, while India too, pledged to assist in the rescue.
-
-◼️
-
-[Data](articles/7bbc05dc.json)
-
-[Extended Data](ext_articles/7bbc05dc.ext.json)
-
----
-
-### Former Army Chief Daya Ratnayake Joins SJB
-
-*2024-01-29 16:09:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/former-army-chief-daya-ratnayake-joins-sjb/) · `en`
-
-COLOMBO (News 1st); Former Commander of the Sri Lanka Army, General Daya Ratnayake had joined with the Samagi Jana Balavegaya.
-
-General Ratnayake called on Opposition Leader Sajith Premadasa on Monday (29) and extended his support to the SJB.
-
-According to the Samagi Jana Balavegaya, General Daya Ratnayake was appointed as the SJBs Senior Advisor for State Policy by Sajith Premadasa.
-
-General Ratnayake was the 20th Commander of the Sri Lanka Army.
-
-Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
-
-◼️
-
-[Data](articles/85fac885.json)
-
-[Extended Data](ext_articles/85fac885.ext.json)
-
----
-
-### Sri Lanka exports down 9.54-pct in 2023, rupee appreciates
-
-*2024-01-29 16:04:00* · [`economynextcom`](https://economynext.com/sri-lanka-exports-down-9-54-pct-in-2023-rupee-appreciates-148979/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s merchandise exports fell 9.54 percent to 11,856 million US dollars in 2023, with December exports falling 11.5 percent, data from the state Export Development Board showed in a year that the rupee appreciated amid better monetary policy.
-
-The rupee appreciated from 363 to the US dollar in December 2022 to 323 by December 2023.
-
-In December, when exports fell 11.25 percent from a year earlier to 947.5 million US dollars, the rupee appreciated from 329 to 323 to the US dollar.
-
-That exchange rate depreciation (the price of a US dollar measured in locally made paper) is determined by exports,  imports or the trade deficit and is not a monetary phenomenon linked to the producer of the bad money  – the central bank – is an idea dating back to classical mercantilism of the 17th century.
-
-...
-
-[Data](articles/feea0637.json)
-
-[Extended Data](ext_articles/feea0637.ext.json)
-
----
-
-### Galle Face Closed for Independence Day Rehearsals
-
-*2024-01-29 16:02:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/galle-face-closed-for-independence-day-rehearsals/) · `en`
-
-COLOMBO (News 1st): A special traffic plan will be implemented around Galle Face from tomorrow to February 02 due to the Independence Day rehearsals.
-
-The relevant traffic plan will be in effect from 6 am to 8.30 am and from 11 am to 12.30 pm
-
-The road from Colpetty to Galle Face Roundabout and the Raod from Ceramic Junction to Galle Face Roundabout will be closed during the relevant periods.
-
-In addition, a special traffic plan will be in place in Colombo for Independence Day on the 4th
-
-Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
-
-◼️
-
-[Data](articles/5a43823b.json)
-
-[Extended Data](ext_articles/5a43823b.ext.json)
-
----
-
-### Former Army Commander Daya Ratnayake joins SJB
-
-*2024-01-29 16:01:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Former-Army-Commander-Daya-Ratnayake-joins-SJB/108-275917) · `en`
-
-Colombo, Jan 29 (Daily Mirror) -  Former Army Commander General Daya Ratnayake has joined the Samagi Jana Balawegaya (SJB) and has been appointed as the party’s senior advisor on state affairs, the Opposition Leader’s office said.
-
-General Ratnayake obtained his membership and the party position from Leader of the Opposition Sajith Premadasa.
-
-He headed the infantry force of the Sri Lankan Army during the war against the LTTE and was responsible for rehabilitating ex-LTTE combatants.
-
-◼️
-
-[Data](articles/46b7c767.json)
-
-[Extended Data](ext_articles/46b7c767.ext.json)
 
 ---

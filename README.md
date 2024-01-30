@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 10:02:26**
+As of **2024-01-30 10:17:15**
 
 ## Newspaper Stats
 
-*Scraped **3,428** Articles*
+*Scraped **3,429** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,34 @@ adalk | 313
 virakesarilk | 370
 adaderanasinhalalk | 370
 tamilmirrorlk | 425
-adaderanalk | 439
+adaderanalk | 440
 dailymirrorlk | 464
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,428 (100.0%) of 3,428 articles have been extended.
+3,428 (100.0%) of 3,429 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### Health sector workers to resort to another strike
+
+*2024-01-30 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96841/health-sector-workers-to-resort-to-another-strike) · `en`
+
+Health sector trade unions have decided to resort to another strike action starting February 01, if the government fails to address their issues.
+
+Although the President had promised to hold talks with them regarding the allowances, soon after returning from his recent official overseas tour, the health workers said they have yet to meet with the Head of State for discussions.
+
+Meanwhile, a series of protests are planned to be staged in front of hospitals in and around Colombo today.
+
+◼️
+
+[Data](articles/38c5efd7.json)
+
+---
 
 ### Students Siege of Administrative Building of Kelaniya University
 
@@ -225,6 +241,10 @@ The professor also said that after long-term research, the drug is in the final 
 A group of around 350 students have reportedly surrounded the administrative building of the Kelaniya University.
 
 The students had also held a protest blocking the Colombo-Kandy road last night (29) while police had resorted to using tear gas and water cannons in an attempt to disperse them.
+
+The anti-government demonstration also disrupted the vehicular movement along the Colombo - Kandy main road.
+
+It had been launched over several demands including a hike in ‘Mahapola’ scholarship payments.
 
 ◼️
 
@@ -1979,21 +1999,5 @@ The banks industry and diversified financials attracted little to no interest.
 [Data](articles/8969707d.json)
 
 [Extended Data](ext_articles/8969707d.ext.json)
-
----
-
-### Kokkaticholai massacre in the East
-
-*2024-01-29 16:17:00* · [`virakesarilk`](https://www.virakesari.lk/article/175077) · `ta`
-
-83 innocent Tamil relations, which were shot dead by the Sri Lanka Army in Kokkadichola, Batticaloa, were carried out in front of the Tamil students of the Tamil Eastern University of Tamil Eastern University.
-
-It is noteworthy that the commemoration was carried out by all Tamil students of the Eastern University
-
-◼️
-
-[Data](articles/2ff115dd.json)
-
-[Extended Data](ext_articles/2ff115dd.ext.json)
 
 ---

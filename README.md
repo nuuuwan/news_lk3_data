@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 03:17:20**
+As of **2024-01-31 03:32:49**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,653 (100.0%) of 3,654 articles have been extended.
+3,654 (100.0%) of 3,654 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### ’12 லட்சம் குடும்பங்களை வலுவூட்ட எதிர்பார்ப்பு’
+### Expectation to strengthen families
 
 *2024-01-31 02:49:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-லட்சம்-குடும்பங்களை-வலுவூட்ட-எதிர்பார்ப்பு/175-332382) · `ta`
 
-புதிய கிராமம், புதிய நாடு, தொழில் முனைவு அரசு என்ற கருத்தின் கீழ், வறுமையில் உள்ள 12 இலட்சம் குடும்பங்களை வலுவூட்ட எதிர்பார்த்துள்ளதாக சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பஸ்குவல் தெரிவித்தார்.
+The Minister of Social Empowerment Anupa Paskal said that under the concept of the new village, the new country and the entrepreneurship government, 12 lakh families in poverty are looking forward to strengthening.
 
-ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடக சந்திப்பில் கருத்துத் தெரிவிக்கும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+He said this while addressing a media briefing held at the Presidential Media Center yesterday.
 
-20 லட்சம் பயனாளிகளுக்கு அஸ்வெசும என்ற சமூகப் பாதுகாப்பு நிவாரணத்தை வழங்குவதே இந்த ஆண்டு எமது முக்கியப் பணியாகும். 'புதிய கிராமம், புதிய நாடு, தொழில் முனைவு அரசு' என்ற கருத்தின் கீழ், வறுமையில் உள்ள  12 லட்சம் குடும்பங்களை வலுவூட்டவும் எதிர்பார்க்கப்படுகிறது. இந்த வருடம் அதில் 3 லட்சம் பேரை வலுவூட்டும் வேலைத்திட்டங்கள் முன்னெடுக்கப்படவுள்ளன.
+Our main task this year is to provide the social security relief of Aswesum to 20 lakh beneficiaries. Under the concept of 'New Village, New Country, Entrepreneurship Government', it is expected to strengthen 12 lakh families in poverty.. This year, there will be a program to strengthen 3 lakh people.
 
 ...
 
 [Data](articles/27c97f09.json)
+
+[Extended Data](ext_articles/27c97f09.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 11:17:15**
+As of **2024-01-30 11:33:02**
 
 ## Newspaper Stats
 
-*Scraped **3,452** Articles*
+*Scraped **3,454** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 203
 dailyftlk | 233
 adalk | 313
 virakesarilk | 372
-adaderanasinhalalk | 373
+adaderanasinhalalk | 375
 tamilmirrorlk | 440
 adaderanalk | 440
 dailymirrorlk | 467
@@ -26,29 +26,69 @@ dailymirrorlk | 467
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,446 (99.8%) of 3,452 articles have been extended.
+3,452 (99.9%) of 3,454 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### மோனா லிசா ஓவியம் மீது  சூப் வீசிய பெண்கள்
+### ටොයෝටා සමාගමෙන් පෙරළියක්
 
-*2024-01-30 10:41:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மோனா-லிசா-ஓவியம்-மீது-சூப்-வீசிய-பெண்கள்/50-332327) · `ta`
+*2024-01-30 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192730) · `si`
 
-16-ம் நூற்றாண்டில் ஓவியர் லியோனார்டோ டா வின்சியால் வரையப்பட்ட புகழ்பெற்ற மோனா லிசா ஓவியம் பிரான்ஸின் தலைநகர், பாரிசில் உள்ள லூவ்ரே அருங்காட்சியகத்தில் வைக்கப்பட்டு இருந்தது.
+පිට පිට සිව් වැනි වසරටත් ලොව වැඩිම මෝටර් වාහන ගණනක් අලෙවිකළ සමාගම බවට පත්වීමට ටොයෝටා මෝටර් සමාගම සමත්වී තිබේ.
 
-இந்நிலையில், உலக புகழ்பெற்ற மோனா லிசா ஓவியத்தின் மீது பெண் போராட்டக்காரர்கள் சூப்பை ஊற்றியுள்ளனர்.
+එම සමාගම පසුගිය වසරේදී (2023) වාහන මිලියන 11.2ක් අලෙවිකර ඇති බව වාර්තා විය.
 
-துப்பாக்கி குண்டுகள் துளைக்காத கண்ணாடிக்கு பின்னால் பத்திரமாக மோனா லிசா ஓவியம் வைக்கப்பட்டு இருப்பதால் இந்த சம்பவத்தால் பாதிப்புகள் எதுவும் ஏற்படவில்லை என அருங்காட்சியகம் தெரிவித்துள்ளது.
+එසේම පසුගිය වසරේදී ඔවුන්ගේ අලෙවි ආදායම 7.2%කින් වර්ධනය වී තිබුණි.
 
-இந்த சம்பவம் தொடர்பாக வெளியான வீடியோவில் உணவு அக்கறை என்ற எழுத்துகள் பொறிக்கப்பட்ட ஆடை அணிந்து வந்த இரண்டு பெண்கள் ஓவியத்தின் மீது சூப் ஊற்றியுள்ளனர்.
+ජර්මනියේ වොක්ස්වැගන් සමුහය දෙවැනි ස්ථානයට පත්ව ඇත්තේ වාහන මිලියන 9.2ක් අලෙවි කිරීමෙනි.
 
-மேலும், தாக்குதலுக்கு பிறகு ஓவியத்தின் முன் நின்று கொண்டு 'ஆரோக்கியமான மற்றும் நிலையான உணவு' உரிமை வேண்டும் என்றும், நமது விவசாய முறை நோய்வாய்ப்பட்டு விட்டது என்றும் தெரிவித்துள்ளனர். தாக்குதல் நடந்தவுடன் அருங்காட்சியக பொறுப்பாளர்கள் ஓவியத்தை கருப்பு துணி கொண்டு மூடினர்.
+◼️
+
+[Data](articles/7a3e082c.json)
+
+---
+
+### ත්‍රස්ත විරෝධි පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගය අදත්
+
+*2024-01-30 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192729) · `si`
+
+රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන ත්‍රස්ත විරෝධී පනත් කෙටුම්පතට එරෙහිව ගොනුකර තිබෙන පෙත්සම් විභාගය අද (30) ශ්‍රේෂ්ඨාධිකරණය හමුවේ තුන්වන දිනටත් ආරම්භ වුණි.
+
+අගවිනිසුරු ජයන්ත ජයසූරිය, විජිත් මළල්ගොඩ, ඒ. එච්.එම්.ඩී. නවාස්, ශිරාන් ගුණරත්න සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ පෙත්සම් විභාගය පැවැත්වේ.
+
+අද දින පෙත්සම් විභාගය ආරම්භ වූ අවස්ථාවේදී පෙත්සම්කාර පාර්ශවයේ නීතිඥවරු විසින් කරුණු ඉදිරිපත් කිරීම තව දුරටත් සිදුකරනු ලබයි.
+
+ත්‍රස්ත විරෝධී පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි යැයි තීන්දු කරන ලෙස ඉල්ලා මේ වන විට ශ්‍රේෂ්ඨාධිකරණය හමුවේ පෙත්සම් 31ක්  ගොනුකර තිබේ.
 
 ...
 
+[Data](articles/c9d4b627.json)
+
+---
+
+### Mona Lisa Women Throwing Soup on Painting
+
+*2024-01-30 10:41:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மோனா-லிசா-ஓவியம்-மீது-சூப்-வீசிய-பெண்கள்/50-332327) · `ta`
+
+In the 16th century, the famous Mona Lisa painting, painted by painter Leonardo da Vinci, was placed at the Louvray Museum in Paris, the capital of France.
+
+In this case, female protesters have poured soup on the world -renowned Mona Lisa.
+
+The museum said the Mona Lisa had been painted behind the pierced mirror, which had not been affected by the incident.
+
+In the video released on the incident, two women wearing dressing dresses poured soup on the sketch.
+
+In addition, they said that after the attack, they have the right to 'healthy and stable food' and that our agricultural system is sick.. After the attack, the museum trustees covered the painting with black cloth.
+
+It is noteworthy that the famous Mona Lisa painting painted by painter Leonardo da Vinci has been damaged and once stolen once.
+
+◼️
+
 [Data](articles/b9cfc30d.json)
+
+[Extended Data](ext_articles/b9cfc30d.ext.json)
 
 ---
 
@@ -68,21 +108,25 @@ The fare of a Mahendra Maxi and Tata vehicle for four hours has been increased f
 
 [Data](articles/0cba4eeb.json)
 
+[Extended Data](ext_articles/0cba4eeb.ext.json)
+
 ---
 
-### 9 மதுபான உற்பத்தி நிறுவனங்களுக்கு எச்சரிக்கை
+### 9 Warning for Liquor Manufacturing Companies
 
 *2024-01-30 10:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-மதுபான-உற்பத்தி-நிறுவனங்களுக்கு-எச்சரிக்கை/175-332325) · `ta`
 
-வற் வரியை செலுத்தாமல் தொடர்ச்சியாக வரி ஏய்ப்பு செய்யும் ஒன்பது மதுபான உற்பத்தி நிறுவனங்களுக்கு நிலுவைத் தொகையை உடனடியாக வழங்குமாறு அறிவிக்கப்பட்டுள்ளதாக கலால் ஆணையாளர் எம்.ஜே.குணசிறி தெரிவித்துள்ளார்.
+The Commissioner of Excise MJ Gunasiri said that the amount of arrears has been announced to nine liquor manufacturers who have consistently taxed without paying the tax.
 
-மேலும், குறித்த நிறுவனங்களிடமிருந்து ரூ.720 கோடி பெறப்படும் எனவும், இந்த நிலுவைத் தொகையை உடனடியாக வசூலிக்க நடவடிக்கை எடுக்கப்படும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+It has also been reported that Rs 720 crore will be received from the companies and action will be taken to collect the amount immediately.
 
-இதற்கமைய, வரி செலுத்தாத இரண்டு நிறுவனங்கள் மீது ஏற்கனவே வழக்குத் தொடரப்பட்டுள்ளதாகவும்  கலால் திணைக்களம் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+According to the Department of Excise, the two non -taxing companies have already filed a case.
 
 ◼️
 
 [Data](articles/8026a091.json)
+
+[Extended Data](ext_articles/8026a091.ext.json)
 
 ---
 
@@ -106,23 +150,25 @@ The Ceylon Electricity Board (Ceylon Electricity Board) is informed to refer to 
 
 ---
 
-### ஆப்கானிஸ்தான் கிரிக்கெட் அணி இலங்கைக்கு
+### Afghanistan cricket team to Sri Lanka
 
 *2024-01-30 10:26:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆப்கானிஸ்தான்-கிரிக்கெட்-அணி-இலங்கைக்கு/44-332324) · `ta`
 
-அதன்படி, இலங்கை மற்றும் ஆப்கானிஸ்தான் அணிகளுக்கு இடையிலான கிரிக்கெட் போட்டி நாளை மறுநாள் (01) ஆரம்பமாகவுள்ளது.
+Accordingly, the cricket match between Sri Lanka and Afghanistan will begin tomorrow (01).
 
-இந்த சுற்றுப்பயணத்தில் அவர்கள் ஒரு டெஸ்ட் போட்டி, 03 ஒரு நாள் போட்டிகள் மற்றும் 03 T20 போட்டிகளில் பங்கேற்க உள்ளனர்.
+They will take part in a Test match, 03 ODIs and 03 T20 matches.
 
-இந்த டெஸ்ட் போட்டி கொழும்பு SSC மைதானத்தில் நாளை மறுநாள் முதல் நடைபெறவுள்ளதுடன் 03 போட்டிகள் கொண்ட ஒரு நாள் தொடர் எதிர்வரும் பெப்ரவரி 09 ஆம் திகதி ஆரம்பமாகவுள்ளது.
+The Test match will be held at the SSC Ground in Colombo from the next day and the three -match one -day series will begin on February 9.
 
-எவ்வாறாயினும், ஒரு நாள் போட்டிகளை கொழும்பில் நடத்துவதற்கு முன்னதாக திட்டமிடப்பட்டிருந்த போதிலும், பின்னர் போட்டிகளை கண்டியில் நடத்த தீர்மானிக்கப்பட்டது.
+However, although it was planned to be held in Colombo, it was later decided to hold the matches in Kandy.
 
-அத்துடன், சில வருடங்களின் பின்னர் மூன்று T20 போட்டிகளும் தம்புள்ளை மைதானத்தில் நடைபெறவுள்ளன.
+In addition, three T20 matches will be held at Dambulla Ground a few years later.
 
 ◼️
 
 [Data](articles/dee02ca4.json)
+
+[Extended Data](ext_articles/dee02ca4.ext.json)
 
 ---
 
@@ -283,6 +329,8 @@ India has been consistent that a solution to what is called ‘Tamil national qu
 ...
 
 [Data](articles/cdcae55d.json)
+
+[Extended Data](ext_articles/cdcae55d.ext.json)
 
 ---
 
@@ -775,6 +823,8 @@ The immigration officials at the Bandaranaike International Airport (BIA) depart
 ...
 
 [Data](articles/023f2e5d.json)
+
+[Extended Data](ext_articles/023f2e5d.ext.json)
 
 ---
 
@@ -1925,47 +1975,5 @@ He added that if all foreign service providers stop working in Sri Lanka, Sri La
 [Data](articles/25385cbe.json)
 
 [Extended Data](ext_articles/25385cbe.ext.json)
-
----
-
-### Hijacked fishing trawler: Seychelles presidency confirms vessel and crew rescued
-
-*2024-01-29 18:45:00* · [`adaderanalk`](https://www.adaderana.lk/news/96829/hijacked-fishing-trawler-seychelles-presidency-confirms-vessel-and-crew-rescued) · `en`
-
-Seychelles President Wavel Ramkalawan’s office has confirmed that “Seychelles forces have freed a Sri Lankan vessel hijacked by armed Somali pirates”.
-
-Issuing a statement, the presidency said, “Seychellois special military forces boarded the boat with utmost courage to take complete control of the vessel and rescue our Sri Lankan brothers,” the presidency said in a statement”.
-
-The operation was led by the Seychelles Defence Forces (SDF), together with the Seychelles Coast Guard, after the SDF had been alerted by Sri Lanka about the hijacking.
-
-“According to the SDF, they were alerted by Sri Lanka of the hijacking and deployed a rescue mission by patrol ship Topaz. The mission is still ongoing”, Seychelles media reported, adding that the fishing trawler ‘Lorenzo Putha 4’, is due to be brought to the Port of Victoria on Tuesday (29 Jan.).
-
-President Wavel Ramkalawan, congratulated the Special Forces and Coast Guard team on a well executed and successful mission.
-
-...
-
-[Data](articles/f42b8da9.json)
-
-[Extended Data](ext_articles/f42b8da9.ext.json)
-
----
-
-### Shock information about Easter Sunday attack
-
-*2024-01-29 18:42:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஈஸ்டர்-ஞாயிறு-தாக்குதல்-தொடர்பில்-அதிர்ச்சித்-தகவல்/175-332292) · `ta`
-
-Parliamentarian Nimal Lansa said that the terrorist group that carried out an Easter Sunday bombing was the National People's Power (NPP) partners and actually funded the Marxists.
-
-“Ibrahim, the main suspect in the Easter Sunday attacks, was on the NPP national list.The father of one of the suicide bombers was also on the NPP national list.The group has funded millions of rupees to the NPP.
-
-This fact must be remembered when the Catholics in this country vote, ”said Lansa during the opening rally of the new alliance.
-
-“NPP leaders did not pay a percentage of taxes.They don't even work for a young man like us.This is because they do not own any companies.They are not at work.However, they live a comfortable life than any of us, ”he said.
-
-◼️
-
-[Data](articles/0b1ba8be.json)
-
-[Extended Data](ext_articles/0b1ba8be.ext.json)
 
 ---

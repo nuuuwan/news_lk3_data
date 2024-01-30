@@ -1,24 +1,24 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 20:32:54**
+As of **2024-01-30 20:50:28**
 
 ## Newspaper Stats
 
-*Scraped **3,603** Articles*
+*Scraped **3,608** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 46
-bbccomsinhala | 60
+bbccomsinhala | 61
 dbsjeyarajcom | 127
 economynextcom | 193
 islandlk | 198
 newsfirstlk | 216
 dailyftlk | 233
-adalk | 328
+adalk | 330
 virakesarilk | 395
 adaderanasinhalalk | 398
-tamilmirrorlk | 457
+tamilmirrorlk | 459
 adaderanalk | 463
 dailymirrorlk | 489
 
@@ -26,11 +26,29 @@ dailymirrorlk | 489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,603 (100.0%) of 3,603 articles have been extended.
+3,603 (99.9%) of 3,608 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### தேர்தலை நடத்த அரசாங்கத்திற்கு முதுகெலும்பு இல்லை - சஜித்
+
+*2024-01-30 19:40:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/தேர்தலை-நடத்த-அரசாங்கத்திற்கு-முதுகெலும்பு-இல்லை-சஜித்/175-332367) · `ta`
+
+அரசாங்கத்திற்கு எதிராக ஐக்கிய மக்கள் சக்தியினால் முன்னெடுக்கப்பட்ட ஆர்ப்பாட்டத்தில் கலந்துகொண்ட எதிர்க்கட்சித் தலைவர் தலைவர் சஜித் பிரேமதாச கொழும்பு விகாரமகாதேவி பூங்கா பிரதான நுழைவாயில் முன்பாக ஊடகங்களுக்கு கருத்து வெளியிட்டுள்ளார்.
+
+“தேர்தல் மூலமே நாம் ஆட்சிக்கு வருவோம். தற்போதைய அரசாங்கத்திற்கு முதுகெலும்பு இல்லை. அவ்வாறு முதுகெலும்பு இருந்தால் தேர்தல் ஒன்றை நடத்துங்கள். எங்களிடம் டீல் இல்லை.
+
+நீதிமன்ற தடையுத்தரவு பிறப்பித்த பாதைகளில் நாங்கள் பேரணி நடத்தவில்லை.நாம் சட்டத்தை மீறி செயற்படவில்லை.வேறு எதுவும் எங்களுக்கு வேண்டாம்,எங்களுக்குத் தேர்தலே வேண்டும்.
+
+அரசியல் ரீதியிலான டீல்கள் மூலம் அன்றி மக்கள் அனுமதியுடனயே ஆட்சிக்கு வருவோம்.மக்கள் ஆசிர்வாத்தின் ஊடாகவே நாம் ஆட்சிக்கு வருவோம் என்பதை இந்த ரணில் ராஜபக்ச அரசாங்கத்திடம் கூறுகிறோம்.
+
+...
+
+[Data](articles/a30dfac3.json)
+
+---
 
 ### Two foreigners killed in bus-motorcycle collision
 
@@ -96,6 +114,24 @@ The SJB held a protest march against the conduct of the government, with the par
 
 ---
 
+### මාලදිවයින සහ ශ්‍රී ලංකාව අතර  ගිලන් ගුවන් ප්‍රවාහන සේවාවක්
+
+*2024-01-30 18:57:15* · [`adalk`](https://www.ada.lk/breaking_news/මාලදිවයින-සහ-ශ්‍රී-ලංකාව-අතර--ගිලන්-ගුවන්-ප්‍රවාහන-සේවාවක්/11-407804) · `si`
+
+මාලදිවයිනේ ප්‍රවාහන සහ ගුවන් සේවා අමාත්‍ය කපිතාන්  මොහොමඩ් අමීන්( Capt. Mohamed Ameen) මහතා සහ වරාය නාවික හා ගුවන්සේවා අමාත්‍ය නිමල් සිරිපාල ද සිල්වා මහතා අතර විශේෂ සාකච්චාවක් අද ( 30 ) දින පෙරවරුවේ අමාත්‍ය කාර්යාලයේදී පැවැත්විණ.
+
+මාලදිවයිනේ වෙසෙන ජනතාවට සිදු  වන හදිසි අනතුරු සහ රෝගාතුර වීම් හේතුවෙන් ප්‍රතිකාර ලබා ගැනීමට ශ්‍රි ලංකාවට කඩිනමින් පැමිණීමට අවශ්‍ය ගිලන් ගුවන් ප්‍රවාහන සේවාවක් ආරම්භ කිරීම පිලිබඳව මෙහිදී සාකච්චා කරන ලදී.
+
+මාලදිවයින ගුවන්සේවා අමාත්‍යවරයා කියා සිටියේ මේ දක්වා මාලදිවයින් වැසියන් හදිසි ප්‍රතිකාර ලබා ගැනීමට ඉන්දියාවට රැගෙන ගිය බවත්,  එහෙත් ශ්‍රි ලංකාවේ හදිසි ප්‍රතිකාර කටයුතු වල ගුණාත්මකභාවය සැලකිල්ලට ගනිමින් ඉදිරියේදී එවැනි රෝගීන් ශ්‍රි ලංකාවේ රෝහල් වලට  ප්‍රතිකාර සඳහා එවීමට මාලදිවයින් රජය තීරණය කර ඇති බවයි.
+
+මෙම වැඩපිලිවෙල පිලිබඳව අමාත්‍යවරුන් දීර්ඝ වශයෙන් සාකච්චා කල අතර පලමු අදියර යටතේ මාලදිවයින  සිට කටුනායක ගුවන්තොටුපල අතර මෙම ගිලන් ගුවන් ප්‍රවාහන සේවාව ලබන මාර්තු මස 01 දා සිට ආරම්භ කීරීමට තීරණය කරන ලදී.
+
+...
+
+[Data](articles/0ce6b415.json)
+
+---
+
 ### Two foreigners die in a terrible accident
 
 *2024-01-30 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192755) · `si`
@@ -125,6 +161,42 @@ Recognizing the potential of international opportunities, Pasqual mentioned abou
 [Data](articles/85c08f77.json)
 
 [Extended Data](ext_articles/85c08f77.ext.json)
+
+---
+
+### அமைச்சுகளுக்கு வாகன  அனுமதி
+
+*2024-01-30 18:51:43* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அமைச்சுகளுக்கு-வாகன-அனுமதி/175-332366) · `ta`
+
+துறைமுகங்கள், கப்பல் மற்றும் விமானப் போக்குவரத்து அமைச்சு மற்றும் கல்வி அமைச்சுக்கான வாகனங்களை இறக்குமதி செய்வதற்கு அமைச்சரவை அங்கீகாரம் வழங்கியுள்ளது.
+
+அந்நியச் செலாவணி சந்தையில் ஏற்படும் அழுத்தத்தைக் குறைப்பதன் பொருட்டு கட்டுமான வாகனங்கள் மற்றும் அம்புலன்ஸ்கள் தவிர மோட்டார் வாகனங்களின் இறக்குமதியை அரசாங்கம் தற்காலிகமாக நிறுத்தி வைத்துள்ளது.
+
+எவ்வாறாயினும், வாகனங்களை இறக்குமதி செய்வதற்கு துறைமுகங்கள், கப்பல் மற்றும் விமானப் போக்குவரத்து மற்றும் கல்வி அமைச்சுக்கள் நிதியமைச்சிடம் சமர்ப்பித்த கோரிக்கைகளுக்கு கடந்த ஆண்டு டிசம்பர் மாதம் அமைச்சரவை அங்கீகாரம் வழங்கியது.
+
+◼️
+
+[Data](articles/fc1081a8.json)
+
+---
+
+### තවත් 10000කට ජපන් රැකියා දොර ඇරෙයි
+
+*2024-01-30 18:50:56* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-10000කට-ජපන්-රැකියා-දොර-ඇරෙයි/11-407803) · `si`
+
+“අලුත් ගමක් අලුත් රටක් ව්‍යවසායක රාජ්‍යයක්” යන සංකල්පය යටතේ දිළිඳු සහ අන්ත දිළිඳු පවුල් අතරින් ලක්ෂ 12ක් සවිබල ගැන්වීමට අපේක්ෂා කරන බව සමාජ සවිබලගැන්වීම් රාජ්‍ය අමාත්‍ය අනුප පස්කුවල් මහතා පැවසීය.
+
+එසේම ජපන් භාෂා ප්‍රවීණතා විභාගය සමත්වූවන් 10,000ක් විදේශගත කිරීම සිදු කරන බව ද තවත් විදේශ රැකියා ලක්ෂයක් මෙම වසරේ ලබාදීමට සැලසුම් කරන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+සමාජ සවිබලගැන්වීම් රාජ්‍ය අමාත්‍ය අනුප පස්කුවල් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (30) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක් වූ සමාජ සවිබලගැන්වීම් රාජ්‍ය අමාත්‍ය අනුප පස්කුවල් මහතා මෙසේ ද පැවසීය,
+
+මෙම වසරේ අපට තිබෙන ප්‍රධානම කාර්යය වන්නේ, අස්වැසුම නම් වූ සමාජ ආරක්ෂණ ක්‍රමවේදය ලක්ෂ විස්සක් වන ප්‍රතිලාභීන්ට ලබාදීමයි. “අලුත් ගමක් අලුත් රටක් ව්‍යවසායක රාජ්‍යයක්” යන සංකල්පය යටතේ දිළිඳු සහ අන්ත දිළිඳු පවුල් අතරින් ලක්ෂ 12ක් සවිබල ගැන්වීමට ද අපේක්ෂා කරනවා. එයින් ලක්ෂ 03ක් සවිබල ගැන්වීම මෙම වසර තුළ සිදු කරනවා.
+
+...
+
+[Data](articles/19e5f341.json)
 
 ---
 
@@ -1570,6 +1642,28 @@ I had not guided the husband's political affairs, but his private secretary had 
 
 ---
 
+### 'රට පාලනය කරන රනිල් රාජපක්ෂ ආණ්ඩුවට වැඩි කල් යන්න බැහැ'
+
+*2024-01-30 13:12:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cevrkygz1jgo) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "'රට පාලනය කරන රනිල් රාජපක්ෂ ආණ්ඩුවට වැඩි කල් යන්න බැහැ'", ධාවන කාලය 2,3002:30වීඩියෝ ශීර්ෂ වැකිය, 'රට පාලනය කරන රනිල් රාජපක්ෂ ආණ්ඩුවට වැඩි කල් යන්න බැහැ'
+
+ආණ්ඩුවට එරෙහිව සමගි ජන බලවේගය අද (ජනවාරි 30) කොළඹ දී පැවත් වූ විරෝධතාවයට පොලීසිය ජල හා කඳුළු ගෑස් ප්‍රහාර එල්ල කර විසුරුවා හරින ලදී.
+
+විරෝධතාකරුවන් විහාරමහදේවී උද්‍යානය අසල සිට කොල්ලුපිටිය දෙසට ගමන් කිරීමට උත්සාහ කිරීමේ දී මෙම ප්‍රහාරය එල්ල විය.
+
+'වෙනසක් හදන වසරක් 2024' තේමාව මුල් කරගෙන විපක්ෂ නායක සජිත් ප්‍රේමදාසගේ ප්‍රධානත්වයෙන් විරෝධතාවය පැවති අතර ඔවුන්ට විසිර යන ලෙස පොලීසිය නියෝග කළ ද ඔවුහු එය නොතකා ආණ්ඩුවට විරෝධය පළ කළහ.
+
+මෙම විරෝධතාව පාලනය කිරීමට පොලිසිය මාළිගාකන්ද සහ කොටුව මහේස්ත්‍රාත් අධිකරණ වෙතින් ආඥා ලබා ගෙන තිබිණි.
+
+මාළිගාකන්ද අධිකරණය නිකුත් කළ නියෝගයේ දැක්වුණේ මාර්ග අවහිරවන ලෙස විරෝධතා සිදු කිරීම තහනම් කළ ද සිය භාෂණයේ නිදහස භාවිත කිරීම උදෙසා කිසිඳු බාධාවක් සිදු නොකරමින් පී.ඩී සිරිසේන ක්‍රීඩාංගනය හා හයිඩ් පාර්ක් පිටිය වෙන්කර තැබීමටත්, එම ක්‍රීඩාංගන තුළ විරෝධතාවයක් දැක්වීමට බාධාවක් නොවන බවය.
+
+...
+
+[Data](articles/30c0189f.json)
+
+---
+
 ### Option to fill Nishantha's vacuum: Wife
 
 *2024-01-30 13:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிஷாந்தவின்-வெற்றிடத்தை-நிரப்ப-விருப்பம்-மனைவி/175-332338) · `ta`
@@ -1895,101 +1989,5 @@ The Ceylon Electricity Board (CEB) has requested the consumers to contribute to 
 [Data](articles/c685f91f.json)
 
 [Extended Data](ext_articles/c685f91f.ext.json)
-
----
-
-### More censorship to protesters
-
-*2024-01-30 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192735) · `si`
-
-Colombo Fort Magistrate Court issues a block of injunctions from the Colombo Fort Magistrate
-
-The reconciliation power is preparing to hold a protest and a rally in Colombo today (30).
-
-◼️
-
-[Data](articles/1e426617.json)
-
-[Extended Data](ext_articles/1e426617.ext.json)
-
----
-
-### Recovering Rashid to miss Afghanistan’s first-ever Sri Lanka Test
-
-*2024-01-30 12:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Recovering-Rashid-to-miss-Afghanistans-first-ever-Sri-Lanka-Test/108-275976) · `en`
-
-Kabul, Jan 30 (AFP) - Ace spinner Rashid Khan will miss Afghanistan's first-ever Test against Sri Lanka next month, selectors announced Monday, as he continues to recover from a back surgery.
-
-The 25-year-old is Afghanistan's highest Test wicket-taker -- with 34 in five matches --  and has been an integral part of the team in all formats of the game.
-
-"Rashid Khan continues to recover from the back surgery and is set to miss the one-off Test against Sri Lanka," the Afghanistan Cricket Board (ACB) said in a statement.
-
-Another leg-spinning bowling all-rounder, Qais Ahmad, has been included in the squad as Rashid's replacement.
-
-Hashmatullah Shahidi will lead the squad, which also has Noor Ali Zadran and Naveed Zadran.
-
-Afghanistan will also play three one-day internationals and as many Twenty20s on the tour, for which squads will be announced later.
-
-Since being granted Test status in 2018, Afghanistan has played seven Tests, winning three and losing the other four.
-
-...
-
-[Data](articles/80ec35c2.json)
-
-[Extended Data](ext_articles/80ec35c2.ext.json)
-
----
-
-### SJB will go ahead with protest defying court order: Madduma Bandara
-
-*2024-01-30 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-will-go-ahead-with-protest-defying-court-order-Madduma-Bandara/108-275975) · `en`
-
-Colombo, Jan 30 (Daily Mirror) - The Samagi Jana Balawegaya (SJB) will go ahead with the protest defying the stay order issued by the magistrate's courts a shortwhile ago, its General Secretary Ranjith Madduma Bandara said.
-
-“We will not follow court orders which are undemocratic,” he told the Daily Mirror.
-
-The protest is to begin near the Vihara Mahadevi Park at 1.30 pm today.
-
-◼️
-
-[Data](articles/9b9dd302.json)
-
-[Extended Data](ext_articles/9b9dd302.ext.json)
-
----
-
-### Ivar, including Sajith
-
-*2024-01-30 12:07:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-உள்ளிட்ட-ஐவருக்கு-தடை/175-332335) · `ta`
-
-United People's Power Leader Sajith Premadasa, Secretary of the Power, Ranjith Mathuma Bandara, United People's Power Central Colombo Organizer Mujibur Rahman, United People's Power Central Colombo Organizer Absara Amarasinghe, members of the United People's Power and female activists have been issued.
-
-The Maligawatte Police Station has received information that a protest rally will be held from the Muslim center in the Maligawatte Police Division.
-
-The ban was issued following the brought to the notice of the Colombo Magistrate's Court.
-
-The court has ordered the court to prevent the travelers from traveling, causing disruption to pedestrians, interruptions, and disrupting main roads.
-
-◼️
-
-[Data](articles/7e644523.json)
-
-[Extended Data](ext_articles/7e644523.ext.json)
-
----
-
-### Court issues order on SJB protest
-
-*2024-01-30 12:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-issues-order-on-SJB-protest/108-275974) · `en`
-
-Colombo, Jan 30 (Daily Mirror) - The Colombo Magistrate's Court issued an order prohibiting Samagi Jana Balawegaya (SJB) leader Sajith Premadasa and several others from conducting protests that inconvenience the public and disrupt traffic by blocking roads in Maligawatta today.
-
-The Officer-in-Charge (OIC) of the Maligawatta Police informed court on plans by a group associated with a political party to initiate a protest march near the Muslim cemetery in Maligawatta and requested an order to prevent the protest.
-
-...
-
-[Data](articles/b2371f0e.json)
-
-[Extended Data](ext_articles/b2371f0e.ext.json)
 
 ---

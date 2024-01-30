@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 16:48:29**
+As of **2024-01-30 17:02:21**
 
 ## Newspaper Stats
 
-*Scraped **3,558** Articles*
+*Scraped **3,567** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,53 @@ islandlk | 197
 newsfirstlk | 216
 dailyftlk | 233
 adalk | 324
-virakesarilk | 390
 adaderanasinhalalk | 391
-tamilmirrorlk | 448
-adaderanalk | 455
+virakesarilk | 395
+tamilmirrorlk | 451
+adaderanalk | 456
 dailymirrorlk | 478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,558 (100.0%) of 3,558 articles have been extended.
+3,558 (99.7%) of 3,567 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### ஐக்கிய மக்கள் சக்தியின் எதிர்ப்பு பேரணியின் போது காயமடைந்தவர் வைத்தியசாலையில் அனுமதி!
+
+*2024-01-30 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175170) · `ta`
+
+கொழும்பில் இன்று செவ்வாய்க்கிழமை (30)  நடைபெறும்   ஐக்கிய மக்கள் சக்தியின் எதிர்ப்பு பேரணியின்போது காயமடைந்த ஒருவர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+ஆர்ப்பாட்ட பேரணியை கலைப்பதற்காக கொழும்பு பொது நூலகத்துக்கு அருகில் பொலிஸார்  நீர் மற்றும் கண்ணீர் புகைப் பிரயோகம் மேற்கொண்டமை தெரிந்ததே.
+
+◼️
+
+[Data](articles/81a08ef9.json)
+
+---
+
+### Person injured during SJB protest in Colombo hospitalized
+
+*2024-01-30 16:17:00* · [`adaderanalk`](https://www.adaderana.lk/news/96857/person-injured-during-sjb-protest-in-colombo-hospitalized-) · `en`
+
+An individual has been admitted to the Colombo National Hospital after reportedly sustaining injuries during the protest march staged by the Samagi Jana Balawegaya (SJB) on Tuesday (30 Jan.).
+
+According to the hospital’s Director of Accident Services, the person had sustained injuries when police had fired tear gas and water cannons near the Public Library in Colombo, in an attempt to disperse the SJB protesters.
+
+Attended by Opposition Leader Sajith Premadasa, SJB MPs and party supporters, the agitation was organized by the main opposition in protest of the conduct of the government.
+
+Earlier today, three court orders were issued ahead of the SJB’s protest march, barring the demonstrators from entering certain locations in Colombo including the Finance Ministry, the Presidential Secretariat, the President’s House and Galle Face Green.
+
+...
+
+[Data](articles/9d5641ba.json)
+
+---
 
 ### Shooting in London
 
@@ -70,6 +102,24 @@ Police and tear gas were attacked by the police near the Colombo Public Library 
 
 ---
 
+### நீதிமன்றத்தினால் பரிந்துரைக்கப்பட்ட திருத்தங்கள் வழிகாட்டுதல்களை  உள்வாங்காத நிகழ்நிலை பாதுகாப்பு சட்ட மூலத்திற்கு அனுமதிவழங்கவேண்டாம் - சபாநாயகருக்கு ஊடக அமைப்புகளும் தொழிற்சங்கங்களும் கூட்டாக கடிதம்
+
+*2024-01-30 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175167) · `ta`
+
+உயர்நீதிமன்றத்தினால் சபாநாயகருக்கு அனுப்பப்பட்ட உத்தரவுகள் வழிகாட்டுதல்கள் நிகழ்நிலை சட்டமூலத்திற்குள் உள்வாங்கப்படுவதை உறுதி செய்யும் வரை அந்த சட்டமூலத்திற்கு சபாநாயகர்  அங்கீகாரம் வழங்ககூடாது என ஊடக அமைப்புகளும் தொழிற்சங்கங்களும் கூட்டாக வேண்டுகோள் விடுத்துள்ளன.
+
+கருத்துசுதந்திரத்திற்கு பெரும் ஆபத்தை ஏற்படுத்தக்கூடியது என நாங்கள் கருதும்  நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை முற்றாக நிராகரிக்கவேண்டும் என சிவில் சமூக செயற்பாட்டாளர்களாகிய நாங்கள் கருதுகின்றோம்.
+
+இலங்கையின் இறைமைக்கு உரித்துடையவர்களாகிய நாங்கள் ஜனவரி 24ம் திகதி இந்த சட்டமூலம் இந்த விடயத்துடன் தொடர்புபட்டவர்களுடன் எந்த வித கலந்துரையாடல்களும் இன்றி நீதிமன்றத்தின் வழிகாட்டுதல்களை புறக்கணித்து நாடாளுமன்றத்தில் நிறைவேற்றப்பட்டமைக்கு கடும் எதிர்ப்பை தெரிவிக்கின்றோம்.
+
+நீதிமன்றத்தின் வழிகாட்டுதல்கள் திருத்தங்களை உரிய முறையில் உள்வாங்காமல் நாடாளுமன்றத்தில் சட்டமூலம் விவாதிக்கப்பட்டது நிறைவேற்றப்பட்டது என எதிர்கட்சி நாடாளுமன்ற உறுப்பினர்கள் சுட்டிக்காட்டியுள்ளனர்.
+
+...
+
+[Data](articles/64b33dc9.json)
+
+---
+
 ### Sri Lanka, Thailand to sign bilateral aviation agreement
 
 *2024-01-30 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96856/sri-lanka-thailand-to-sign-bilateral-aviation-agreement-) · `en`
@@ -90,6 +140,20 @@ Accordingly, the Cabinet of Ministers yesterday approved the proposal submitted 
 
 ---
 
+### ஐக்கிய மக்கள் சக்தியின் பேரணி மீது நீர்த்தாரை மற்றும் கண்ணீர்ப்புகை பிரயோகம்
+
+*2024-01-30 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175165) · `ta`
+
+கொழும்பில் பொது நூலகத்திற்கு அருகில் அரசாங்கத்திற்கு எதிராக  ஐக்கிய மக்கள் சக்தி முன்னெடுத்த ஆர்ப்பாட்டத்தை கலைக்க பொலிஸார் நீர்த்தாரை  மற்றும் கண்ணீர் புகை குண்டுகளை பிரயோகித்துள்ளனர்.
+
+இதேவேளை, போராட்டம் ஆரம்பிக்கப்பட்ட விஹார மகாதேவி பூங்காவைச் சுற்றி பொலிஸாரால் பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/a368d83f.json)
+
+---
+
 ### Bill & Melinda Gates Foundation to provide policy support to President’s Office
 
 *2024-01-30 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96855/bill-melinda-gates-foundation-to-provide-policy-support-to-presidents-office) · `en`
@@ -105,6 +169,22 @@ As such, an Executive Committee consisting of senior officials will be appointed
 [Data](articles/6c358f2d.json)
 
 [Extended Data](ext_articles/6c358f2d.ext.json)
+
+---
+
+### அடுத்துவரும் படைக்கலச் சேவிதருக்கு சம்பிரதாயபூர்வமாக செங்கோல் மற்றும் வாள் கையளிக்கப்பட்டது
+
+*2024-01-30 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175159) · `ta`
+
+பாராளுமன்றத்தின் 7 வது படைக்கலச் சேவிதராக குஷான் சம்பத் ஜயரத்ன   நாளை (31) பணிகளைப் பொறுப்பேற்கவுள்ளார். இன்று முதல் அமுலுக்கு வரும் வகையில் சேவையில் இருந்து ஓய்வுப் பெறவுள்ள படைக்கலச் சேவிதர் நரேந்திர பெர்னாந்து,செங்கோல்,படைக்கலச் சேவிதரின் வாள் ஆகியவற்றை புதிய படைக்கல சேவிதருக்கு கையளித்துள்ளார்.
+
+ஓய்வுபெறும் பாராளுமன்றப் படைக்கலச் சேவிதர் நரேந்திர பெர்னாந்து அவர்களினால் புதிய படைக்கலச் சேவிதர் குஷான் சம்பத் ஜயரத்னவுக்கு சம்பிரதாயபூர்வமாக செங்கோல் மற்றும் படைக்கலச் சேவிதரின் வாள் கையளிக்கும் நிகழ்வு    இன்று பாராளுமன்ற சபை மண்டபத்தின் வெள்ளிக் கதவுக்கு அருகில் இடம்பெற்றது.
+
+பாராளுமன்றத்தின் படைக்கலச் சேவிதர் நரேந்திர பெர்னாந்து அவர்கள் 42 வருடங்கள் பாராளுமன்றத்தில் சேவையாற்றி ஓய்வுபெறவுள்ளதால் அடுத்துவரும் படைக்கலச் சேவிதருக்கு செங்கோல் மற்றும் படைக்கலச் சேவிதரின் வாள் இவ்வாறு சம்பிரதாயபூர்வமாக வழங்கி வைக்கப்பட்டது.
+
+...
+
+[Data](articles/6e0bfe6c.json)
 
 ---
 
@@ -188,6 +268,26 @@ The police stabbed the Colombo Public Library near the Colombo Public Library at
 
 ---
 
+### நுவரெலியாவிற்கு வரும் அதிக வெளிச்சம், ஒலி எழுப்பும் பஸ்களால் மக்கள் அவதி
+
+*2024-01-30 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175155) · `ta`
+
+நுவரெலியாவை பார்வையிட வரும் அதிகளவான வெளிச்சம் மற்றும் சத்தம்  பஸ்களால் பொதுமக்கள் மற்றும் சாரதிகள் பெரும் அவதிக்குள்ளாகி வருவதாக அவர்கள் குற்றம் சுமத்துகின்றனர்.
+
+இந்த நாட்களில் நீண்ட விடுமுறை என்பதால் நுவரெலியா நகருக்கு சுற்றுலா வரும் ஏராளமான பஸ்கள் மோட்டார் வாகன விதிமுறைகளுக்கு மாறாக பஸ் முழுவதும் பிரகாசமான விளக்குகளினால் அலங்கரிக்கப்பட்டதன் காரணமாக மற்றும் அதிக ஒலி எழுப்பும் ஒலிபெருக்கிகள் மூலம் மாபெரும் சப்தங்கள் உடன் பாடல்கள் ஒளிபரக்கப்படுகின்றது.
+
+இதன் காரணத்தினால் நுவரெலியா நகரை சுற்றியுள்ள பகுதிகளில் பொதுமக்கள் மற்றும் வாகன ஓட்டிகள் கடும் சிரமத்திற்கு ஆளாவதாக புகார் தெரிவிக்கின்றனர்.
+
+மேலும் நுவரெலியாவிற்கு வரும் வாகனங்கள் தொடர்பில் விசாரணை நடத்தி சட்டத்தை மீறி அலங்கரிக்கப்பட்ட வாகனங்களின் உரிமையாளர்கள் மற்றும் சாரதிகளுக்கு எதிராக சட்டத்தை அமுல்படுத்துவது அவசியம் எனவும் பொதுமக்கள் கோரிக்கை விடுக்கின்றனர்.
+
+பொதுமக்களின் குற்றச்சாட்டுக்கள் தொடர்பில் நுவரெலியா தலைமையக பிரதான பொலிஸ் பரிசோதகர் பிரேமலால் ஹெட்டியாராச்சியிடம் நாம் கேட்டதற்கு பதிலளித்த அவர்,
+
+...
+
+[Data](articles/efdb4e21.json)
+
+---
+
 ### Heavy traffic in Colombo due to SJB protest march
 
 *2024-01-30 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96853/heavy-traffic-in-colombo-due-to-sjb-protest-march) · `en`
@@ -245,6 +345,24 @@ National Housing Development Authority Chairman Rajeev Suriyarachchi said the fo
 [Data](articles/1ec529c5.json)
 
 [Extended Data](ext_articles/1ec529c5.ext.json)
+
+---
+
+### பரீட்சைகள் திணைக்களத்தின் அறிவிப்பு
+
+*2024-01-30 14:35:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகள்-திணைக்களத்தின்-அறிவிப்பு/175-332348) · `ta`
+
+பரீட்சை வினாத்தாள்கள் வெளியானதால் இரத்துச் செய்யப்பட்ட உயர்தர விவசாய விஞ்ஞானப் பரீட்சைக்குத் தோற்றவுள்ள பரீட்சார்த்திகள் அதற்கான அனுமதி அட்டையை www.doenets.lk என்ற இணையத்தளத்திற்குச் சென்று பெற்றுக் கொள்ள முடியும் என பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+
+பரீட்சார்த்திகளுக்கு ஏற்கனவே அனுமதி அட்டைகள் வழங்கப்பட்டுள்ளதாகவும், அது கிடைக்காத பட்சத்தில் இணையத்தளத்திற்கு சென்று அனுமதி அட்டையை பெற்றுக்கொள்ள முடியும் எனவும் திணைக்களம் தெரிவித்துள்ளது.
+
+மேலும் இரத்து செய்யப்பட்ட வினாத்தாளுக்கு தேர்வான அதே மையத்தில் புதிய வினாத்தாளுக்கு விண்ணப்பித்தால் புதிய நுழைவுச்சீட்டு தேவையில்லை என்றும் தேர்வுத்துறை தெரிவித்துள்ளது.
+
+இதற்கமைய, வேளாண் அறிவியல் தாள்கள் பெப்ரவரி 1ம் திகதியும், இரண்டாம் பகுதி காலை 8.30 மணி முதல் 11.40 மணி வரையும், முதல் பகுதி மதியம் 1.00 மணி முதல் 3.00 மணி வரையும் நடைபெறவுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/10c874bd.json)
 
 ---
 
@@ -1152,6 +1270,24 @@ The protest is to begin near the Vihara Mahadevi Park at 1.30 pm today.
 
 ---
 
+### சஜித் உள்ளிட்ட ஐவருக்கு தடை
+
+*2024-01-30 12:07:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-உள்ளிட்ட-ஐவருக்கு-தடை/175-332335) · `ta`
+
+ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாஸ, அந்த சக்தியின் செயலாளரான பாராளுமன்ற உறுப்பினர் ரஞ்சித் மத்தும பண்டார, ஐக்கிய மக்கள் சக்தியின் மத்திய கொழும்பு ஏற்பாட்டாளர் முஜிபுர் ரஹ்மான், ஐக்கிய மக்கள் சக்தியின் மத்திய கொழும்பு அமைப்பாளர் அப்சரா அமரசிங்க, ஐக்கிய மக்கள் சக்தியின் உறுப்பினர்கள் மற்றும் பெண் செயற்பாட்டாளர்களுக்கே இவ்வாறு தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+
+மாளிகாவத்தை பொலிஸ் பிரிவில் முஸ்லிம் மையவாடிக்கு அருகில் இருந்து எதிர்ப்பு பேரணி நடத்தப்படவிருப்பதாக மாளிகாவத்தை பொலிஸ் நிலைய பொறுப்பதிகாரிக்கு தகவல் கிடைத்துள்ளது.
+
+இதுதொடர்பில் கொழும்பு நீதவான் நீதிமன்றத்தின் கவனத்துக்கு கொண்டு வரப்பட்டதை அடுத்தே இந்த தடையுத்தரவு பிறப்பிக்கப்பட்டது.
+
+மேலே குறிப்பிடப்பட்டவர்கள் வீதிகளை பாவிப்போருக்கு இடையூறுகளை ஏற்படுத்தல், பாதசாரிகளுக்கு இடையூறுகளை ஏற்படுத்தல், இடைஞ்சல்களை ஏற்படுத்தல், மற்றும் பிரதான வீதிகளுக்கு இடையூறு ஏற்படுத்தும் வகையில் பயணிப்பதற்கு தடைவிதித்தே நீதிமன்றத்தால் கட்டளை பிறப்பிக்கப்பட்டுள்ளது.
+
+◼️
+
+[Data](articles/7e644523.json)
+
+---
+
 ### Court issues order on SJB protest
 
 *2024-01-30 12:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-issues-order-on-SJB-protest/108-275974) · `en`
@@ -1317,6 +1453,22 @@ The Sri Lankan Police Department is seen as the most involved in bribery activit
 [Data](articles/8d810601.json)
 
 [Extended Data](ext_articles/8d810601.ext.json)
+
+---
+
+### ஐ.ம.ச கொழும்பில் எதிர்ப்பு ஆர்ப்பாட்டம் ஆரம்பம்: காணொளி
+
+*2024-01-30 11:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-கொழும்பில்-எதிர்ப்பு-ஆர்ப்பாட்டம்-ஆரம்பம்-காணொளி/175-332333) · `ta`
+
+ஐக்கிய மக்கள் சக்தி இன்றைய தினம் (30) கொழும்பில் எதிர்ப்பு ஆர்ப்பாட்டமொன்றை முன்னெடுத்துள்ளது.
+
+மக்கள் எதிர்கொள்ளும் பிரச்சினைகளுக்கு தீர்வு வழங்குமாறு அரசாங்கத்தை வலியுறுத்தி குறித்த எதிர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+
+கொழும்பு ஹைட் பார்க் மைதானம் மற்றும் பஞ்சிகாவத்தையில் இன்று(30) பிற்பகல் 2.00 க்கு எதிர்ப்பு ஆர்ப்பாட்டம் ஆரம்பமாகியுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1adb8821.json)
 
 ---
 
@@ -1839,193 +1991,5 @@ In addition, three T20 matches will be held at Dambulla Ground a few years later
 [Data](articles/dee02ca4.json)
 
 [Extended Data](ext_articles/dee02ca4.ext.json)
-
----
-
-### Youth arrested with 31 thousand drugs in Mannar
-
-*2024-01-30 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175115) · `ta`
-
-A youth has been arrested on Monday evening (29) evening with 31 thousand drug pills from a cardholder in the Chaudpar area of the Mannar Police Division.
-
-According to the confidential information received by the Mannar Police Criminal Investigation Division, the Mannar Police Superintendent Chandrapala has arrested a group of 31 thousand narcotics in the area led by the Mannar Police Crime Investigation Division in the consultation of the Superintendent of Police Hara.
-
-Based on their inquiries, a youth was arrested on Monday evening for attempting to sell drug pills in Saudbar.
-
-Based on an inquiry with the youth, 31 thousand drug pills were seized in a sophisticated card at a suttapar railway station near the Saudpar railway station area.
-
-The Mannar police are conducting further investigations at the Mannar Police Station for further investigations.
-
-◼️
-
-[Data](articles/88b65e6c.json)
-
-[Extended Data](ext_articles/88b65e6c.ext.json)
-
----
-
-### Sanath Nishantha's wife in politics?
-
-*2024-01-30 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192727) · `si`
-
-The wife of the late Minister Sanath Nishantha said that if he had no hope to enter politics, he was asked to accept the empty political leadership of her husband.
-
-Attorney-at-Law Chamari Priyanka Perera, the resident of the police serving as the expaganda accident had come to the house of Hon.
-
-"My firm served in the Puttalam District and the people of the country. Someone who had for helping him never opened empty-handed. I and my children cannot believe. Just like a dream. Even before the warmth of my master's death, some media has been posted before I'm coming into politics. None of them heard of me that. I have not made a statement to any media to date I'm coming to politics.
-
-...
-
-[Data](articles/a5a163c8.json)
-
-[Extended Data](ext_articles/a5a163c8.ext.json)
-
----
-
-### Sri Lanka rupee opens at 317.50/70 to the US dollar
-
-*2024-01-30 09:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-opens-at-317-50-70-to-the-us-dollar-149077/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee opened at 317.50/70 to the US dollar on Tuesday, from 317.75/90 the previous day, dealers said.
-
-The central bank has been running broadly deflationary policy, allowing the rupee to appreciate and the central bank to buy dollars.
-
-The central bank can determine the level to which the rupee appreciates by the floor rate is buys (a strong side convertibility undertaking).
-
-Sri Lanka also saw a surge in imports in December ahead of tax increases.
-
-A bond maturing on 01.08.2026 was quoted at 13.15/25 percent.
-
-A bond maturing on 01.07.2028 was quoted at 13.55/65 percent.
-
-The Colombo Stock Exchange opened up; The All Share Price Index was up 0.09 percent at 10,306. And the S&P SL20 was up 0.25 percent at 2,920. (Colombo/Jan30/2024)
-
-◼️
-
-[Data](articles/6d93ed7e.json)
-
-[Extended Data](ext_articles/6d93ed7e.ext.json)
-
----
-
-### Afghan to arrive in the island
-
-*2024-01-30 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192726) · `si`
-
-The Afghanistan national team is due to arrive in Sri Lanka today (30) for a tour.
-
-Accordingly, the Cricket Tournament between Sri Lanka and Afghanistan will commence (01).
-
-They will be playing three ODIs and three Twenty20 matches.
-
-The Test match will be held at the SSC grounds in Colombo
-
-However, the ODIs have been planned to be held in Colombo but decided to hold back in Kandy.
-
-A few years later, all Twenty20 Twenty20 matches will be held at the Dambulla Stadium.
-
-◼️
-
-[Data](articles/9296f6a0.json)
-
-[Extended Data](ext_articles/9296f6a0.ext.json)
-
----
-
-### Health workers are back to work
-
-*2024-01-30 09:49:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்கள்-மீண்டும்-பணி-புறக்கணிப்பு/175-332323) · `ta`
-
-Health trade unions have said that if their problems are not resolved by negotiations, they will go on strike on the first of February.
-
-The health workers have stated that the President has announced that the President has announced that the President will hold a discussion after returning to the country on the issue of payments to health workers.
-
-As a result, the unions have decided to carry out protests today in front of hospitals surrounding Colombo.
-
-◼️
-
-[Data](articles/0ca96b05.json)
-
-[Extended Data](ext_articles/0ca96b05.ext.json)
-
----
-
-### Special traffic plan in Colombo due to Independence Day
-
-*2024-01-30 09:49:00* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පෙරහුරුව-නිසා-කොළඹ-විශේෂ-රථවාහන-සැලැස්මක්/11-407794) · `si`
-
-The rehearsal before the 76th Independence Festival will commence from today (30). According to the police, a special traffic plan will be implemented in Colombo until the next day.
-
-Accordingly, the traffic plan is as follows from 6.00 am to 12:00 pm to the rehearsals from 6.00 pm to 12:00 pm and the free ceremony.
-
-◼️
-
-[Data](articles/7989e260.json)
-
-[Extended Data](ext_articles/7989e260.ext.json)
-
----
-
-### Woman's body recovery in Vavuniya
-
-*2024-01-30 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175112) · `ta`
-
-The body of a woman has been recovered from a well of a house on Kurumankadu Kali Temple Road, Vavuniya.
-
-29 -year -old Jenita, a young family woman, has been recovered in a well of a house on Kali Temple Road in Vavuniya.
-
-The incident took place when the woman's husband was living abroad and living with her husband's family with her 7 -year -old son.
-
-Meanwhile, the woman fell into the well with her son last week and attempted suicide and the neighbors recovered the noise.
-
-Surendra Sekaran is conducting the death toll on the incident and the Vavuniya police are conducting further investigations.
-
-◼️
-
-[Data](articles/6bab2cdb.json)
-
-[Extended Data](ext_articles/6bab2cdb.ext.json)
-
----
-
-### Health sector workers to resort to another strike
-
-*2024-01-30 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96841/health-sector-workers-to-resort-to-another-strike) · `en`
-
-Health sector employees’ trade unions have decided to resort to another strike action starting February 01, if the government fails to address their issues.
-
-Although the President had promised to hold talks with them regarding the allowances, soon after returning from his recent official overseas tour, the health workers said they have yet to meet with the Head of State for discussions.
-
-Meanwhile, a series of protests is planned to be staged in front of hospitals in and around Colombo today.
-
-On January 08, the Cabinet of Ministers gave the approval to President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
-
-...
-
-[Data](articles/38c5efd7.json)
-
-[Extended Data](ext_articles/38c5efd7.ext.json)
-
----
-
-### Government Agencies Must Submit Annual Financials Before Feb 28.
-
-*2024-01-30 09:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/government-agencies-must-submit-annual-financials-before-feb-28/) · `en`
-
-COLOMBO (News 1st); All government agencies are required to submit their annual financial statements on or before February 28, announced Auditor General W. P. C. Wickramaratne.
-
-In a statement, Wickramaratne emphasized the importance of timely submission, stating that it allows for "three months of thorough audit activities" before the release of the Auditor General's summary report.
-
-This report, which will be published alongside the annual financial statement reports, is scheduled for issuance before May 31.
-
-PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Entering Certain Roads
-
-Imran Khan sentenced to 10 years in jail for leaking state secrets
-
-◼️
-
-[Data](articles/7f4a00b7.json)
-
-[Extended Data](ext_articles/7f4a00b7.ext.json)
 
 ---

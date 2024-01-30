@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 21:02:15**
+As of **2024-01-30 21:17:20**
 
 ## Newspaper Stats
 
@@ -26,45 +26,51 @@ dailymirrorlk | 490
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,608 (99.8%) of 3,616 articles have been extended.
+3,616 (100.0%) of 3,616 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### கொழும்பில் இடம்பெற்ற ஐக்கிய மக்கள் சக்தியின் எதிர்ப்பு போராட்டம் !
+### Opposition to the United People's Power in Colombo
 
 *2024-01-30 20:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175185) · `ta`
 
-அரசாங்கத்தின் செயற்பாடுகளுக்கு எதிர்ப்பு தெரிவித்து ஐக்கிய மக்கள் சக்தி முன்னெடுத்த எதிர்ப்பு போராட்டம் செவ்வாய்க்கிழமை (30)  பகல் கொழும்பு விகாரமாதேவி பூங்கா சுற்றுவட்டத்தில் இடம்பெற்றது.
+The protests by the United People's Power in protest of the government's activities took place on Tuesday (30) in the Vikramadevi Park in Colombo.
 
-''மாற்றத்தை ஏற்படுத்தும் வருடம் - 2024'' எனும் தொனிப்பொருளில் ஐக்கிய மக்கள் சக்தி இன்று செவ்வாய்க்கிழமை (30) பிற்பகல் கொழும்பில் முன்னெடுத்த எதிர்ப்புப் பேரணி மீது பொலிஸார் நீர்த்தாரை மற்றும் கண்ணீர்ப்புகை பிரயோகம் மேற்கொண்டனர்.
+The United People's Power, under the theme "The Year of Change - 2024", police staged a reservoir and tear gas on a protest rally in Colombo on Tuesday afternoon.
 
-வெட் வரி உள்ளிட்ட மக்கள் எதிர்கொண்டு வரும் பல்வேறு பிரச்சினைகளுக்குரிய தீர்வை வழங்குமாறு அரசாங்கத்தை வலியுறுத்தி இந்த எதிர்ப்பு போராட்டம் முன்னெடுக்கப்பட்டது.
+The protest was launched demanding the government to provide a solution to various issues facing people, including the Wet Tax.
 
-ஐக்கிய மக்கள் சக்தியின் எதிர்ப்பு பேரணியில் கலந்துகொள்வதற்காக நாட்டின் பல்வேறு பகுதிகளிலிருந்தும் கட்சியின் ஆதரவாளர்கள் கொழும்பிற்கு வருகை தந்திருந்தனர்.
+Party supporters from different parts of the country visited Colombo to attend the United People's Power rally.
 
-கொழும்பு விகாரமகாதேவி பூங்கா அருகில் இந்த எதிர்ப்பு பேரணி ஆரம்பமானது. எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச தலைமையில் இந்த பேரணி ஆரம்பமாகி முதல் 15 நிமிடங்களுக்குள்ளால் ஆர்ப்பாட்டத்தின் மீது கண்ணீர்ப்புகையும்,நீர்த்தாரைப் பிரயோகமும் இடம்பெற்றது.
+The protest rally started near Vikramagadevi Park in Colombo. The rally began under the leadership of opposition leader Sajith Premadasa and the first 15 minutes of the demonstration took place on the demonstration.
+
+Opposition leader Sajith Premadasa delivered a speech in front of the main entrance of the Vikramagadevi Park in Colombo, with supporters of the rally and party parliamentarians.
 
 ...
 
 [Data](articles/a16bc9d3.json)
 
+[Extended Data](ext_articles/a16bc9d3.ext.json)
+
 ---
 
-### සුපිරි ආරම්භක පිතිකරු දැඩි සත්කාර ඒකකයට
+### Super starter batsman to the intensive care unit
 
 *2024-01-30 20:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192756) · `si`
 
-ඉන්දීය සුපිරි ක්‍රිකට් ක්‍රීඩක Mayank Agarwal එරට රෝහලක දැඩි සත්කාර ඒකකයකට ඇතුළත් කර ඇති බව විදෙස් මාධ්‍ය වර්තා කරයි.
+Indian cricketer in Sri Lanka has entered a hospital in a hospital in a hospital in a hospital.
 
-එම වාර්තා වැඩිදුරටත් පවසන්නේ ගුවන් ගමනකදී ඇතිවූ තත්ත්වයක් මත ඔහුව මෙලෙස Agartala හි රෝහලක දැඩි සත්කාර ඒකකයට ඇතුළත් කර ඇති බවය.
+These reports further emphasize that he was included in the ICU of a hospital at AGartala's hospital.
 
-රෝහල් ආරංචි මාර්ග උපුටා දක්වමින් විදෙස් මාධ්‍ය වාර්තා කරන්නේ ඔහු මේ වනවිට මුඛයේ සහ උගුරේ ඇතිවූ අපහසුතාවයකින් පෙළෙන බවය.
+Hospital sources, foreign media reports that he is currently suffering from the mouth and sore.
 
 ◼️
 
 [Data](articles/49d0f546.json)
+
+[Extended Data](ext_articles/49d0f546.ext.json)
 
 ---
 
@@ -81,6 +87,8 @@ SJB General Secretary Ranjith Madduma Bandara said around five party supporters 
 ◼️
 
 [Data](articles/b4b55f5a.json)
+
+[Extended Data](ext_articles/b4b55f5a.ext.json)
 
 ---
 
@@ -582,21 +590,23 @@ India, which was 85th last year, behind 93rd this year. With 40 marks last year,
 
 ---
 
-### வறுமையில் உள்ள 12 இலட்சம் குடும்பங்களை வலுவூட்ட எதிர்பார்ப்பு!  - அனுப பஸ்குவல்
+### Expectation to strengthen 12 lakh families in poverty!- Anupa Bascol
 
 *2024-01-30 17:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175177) · `ta`
 
-புதிய கிராமம், புதிய நாடு, தொழில் முனைவு அரசு என்ற கருத்தின் கீழ், வறுமையில் உள்ள 12 இலட்சம் குடும்பங்களை வலுவூட்ட எதிர்பார்த்துள்ளதாக இராஜாங்க அமைச்சர் அனுப பஸ்குவல் தெரிவித்தார்.
+The Minister of State Anupa Baskwal said that under the concept of the new village, the new country and the entrepreneurship government, 12 lakh families in poverty are looking forward to strengthening.
 
-ஜப்பான் மொழித் திறன் பரீட்சையில் சித்தியடைந்த 10,000 பேர் வெளிநாடுகளுக்கு அனுப்பப்படவுள்ளதாகவும், மேலும் 100,000 பேருக்கு வெளிநாட்டு வேலை வாய்ப்புகளை இவ்வருடம் வழங்கத் திட்டமிடப்பட்டுள்ளதாகவும் இராஜாங்க அமைச்சர் குறிப்பிட்டுள்ளார்.
+The Minister of State has stated that 10,000 people who have passed the Japanese Language Examination will be sent abroad and 100,000 people are planning to provide foreign employment this year.
 
-ஜனாதிபதி ஊடக மையத்தில் செவ்வாய்க்கிழமை (30) நடைபெற்ற ஊடக சந்திப்பில் கருத்துத் தெரிவிக்கும்போதே  சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பஸ்குவல் இவ்வாறு தெரிவித்தார்.
+Minister of Social Empowerment Anupa Paskwal said this while addressing a media briefing held at the Presidential Media Center on Tuesday (30).
 
-இங்கு மேலும் கருத்துத் தெரிவித்த இராஜாங்க அமைச்சர் அனுப பஸ்குவல், இருபது இலட்சம் பயனாளிகளுக்கு அஸ்வெசும என்ற சமூகப் பாதுகாப்பு நிவாரணத்தை வழங்குவதே இந்த ஆண்டு எமது முக்கியப் பணியாகும். " புதிய கிராமம், புதிய நாடு, தொழில் முனைவு அரசு " என்ற கருத்தின் கீழ், வறுமையில் உள்ள  12 இலட்சம் குடும்பங்களை வலுவூட்டவும் எதிர்பார்க்கப்படுகிறது. இந்த வருடம் அதில் 3 இலட்சம் பேரை வலுவூட்டும் வேலைத்திட்டங்கள் முன்னெடுக்கப்படவுள்ளன.
+Speaking further, Minister of State for Social Security This year is to provide Social Security Relief to Twenty million beneficiaries of Asvezuma.. Under the concept of "New Village, New Country, Entrepreneurship Government", it is expected to strengthen 12 lakh families in poverty.. This year, there will be a program to strengthen 3 lakh people.
 
 ...
 
 [Data](articles/a20383db.json)
+
+[Extended Data](ext_articles/a20383db.ext.json)
 
 ---
 
@@ -620,19 +630,21 @@ Earlier today, the SJB held a protest march against the conduct of the governmen
 
 ---
 
-### கேப்பாபிலவில் தீர்வுகளின்றி 4 ஆவது நாளாக தொடரும் இரு குடும்பங்களின் போராட்டம்!
+### The struggle of the two families that will continue for the 4th day without solutions in Keppapila!
 
 *2024-01-30 17:10:00* · [`virakesarilk`](https://www.virakesari.lk/article/175173) · `ta`
 
-கேப்பாப்பிலவு பகுதியில் வீட்டில் வசிப்பதற்கு பாதுகாப்பு இல்லை, பொலிஸார் நியாயமான நீதியை பெற்றுக்கொடுக்கவில்லை என கோரி நீதிவேண்டி இரு குடும்பங்கள் நான்காவது நாளாக தொடர்ச்சியாக  போராட்டத்தில் ஈடுபட்டு வருகின்றன.
+The two families have been continuously struggling for the fourth day, demanding that the police do not have legitimate justice for living at home in Keppapilavu.
 
-முல்லைத்தீவு கேப்பாபிலவு கிராமத்தில் சட்டவிரோத செயற்பாட்டில் ஈடுபட்டுவரும் அயல் வீட்டு குடும்பஸ்தரினால் குறித்த கிராமத்தில் வசிக்கும் இரு குடும்பங்களுக்கும் தொடர்ச்சியாக வாக்குவாதம் இருந்து வந்த நிலையில் அது தொடர்பாக பொலிஸாருக்கு முறைப்பாடு வழங்கப்பட்டும் எவ்வித நடவடிக்கைகளும் இதுவரை எடுக்கப்படவில்லை. இந்நிலையிலேயே கேப்பாபிலவு மாதிரி கிராமம் பிள்ளையார் கோவிலுக்கு முன்பாக நான்கு நாட்களாக தொடர்ச்சியான முறையில் இரு குடும்பங்களை சேர்ந்த 12 பேர் போராட்டத்தில் ஈடுபட்டு வருகின்றனர்.
+The two families living in the village in the village of Keppapilavu, Mullaitivu, who are engaged in illegal activities in the village, have continued to argue with the police.. It is in this context that 12 people from two families have been protesting for four days in front of the Kappapilavu model village Pillaiyar temple.
 
-இன்றையநாள் நான்காவது நாளாக தொடரும் இவர்களின் போராட்டத்தினை குறித்த பகுதி கிராம அலுவலரோ, பொலிஸாரோ கண்டுகொள்ளவில்லை. இதுவரை குறித்த போராட்டத்திற்கான நீதி கிடைக்காததனால் இரு குடும்பங்களும் வீட்டிற்கு செல்ல முடியாமலும், வீட்டில் இருக்க பாதுகாப்பற்ற நிலையிலும் வீதியிலேயே இருக்கின்றனர்.
+Neither the Grama Niladhari nor the police have not recognized their struggle for today's fourth day. Since there is no justice for the struggle so far, the two families are unable to go home and are on the streets.
 
 ...
 
 [Data](articles/e6f7849d.json)
+
+[Extended Data](ext_articles/e6f7849d.ext.json)
 
 ---
 
@@ -676,23 +688,29 @@ A navy statement said that the ship had responded to a distress message on 28 Ja
 
 ---
 
-### மருத்துவ பணியாளர்கள் போல ஜெனின் மருத்துவமனைக்குள் நுழைந்து இஸ்ரேலிய படையினர் தாக்குதல் - மூவர் பலி
+### Israeli soldiers attack Jenin hospital as medical staff
 
 *2024-01-30 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175175) · `ta`
 
-மருத்துவமனை பணியாளர்கள் போல உடையணிந்த இஸ்ரேலிய படையினர் மேற்குகரையில் மருத்துவமனையொன்றிற்குள் நுழைந்து மூவரை சுட்டுக்கொன்றுள்ளனர்.
+The Israeli soldiers dressed like hospital staff have entered a hospital on the western bank and shot dead three men.
 
-மேற்குகரையின் ஜெனின் நகரில் உள்ள இபின் சின மருத்துவமனைக்குள் மருத்துவர்கள் மருத்துவ பணியாளர்கள் போல நுழைந்த இஸ்ரேலிய படையினர் மூன்று பாலஸ்தீனிய இளைஞர்களை சுட்டுக்கொன்றனர் என இஸ்ரேலிய பாலஸ்தீன தகவல்கள் தெரிவித்துள்ளன.
+Israeli Palestinian sources say that Israeli soldiers entered the Ibn Sina Hospital in Jenin, West Center, where doctors entered like medical staff.
 
-தாதிமார்கள் ஹிஜாப்அணிந்த பெண்கள் மருத்துவர்கள் போல உடையணிந்த இஸ்ரேலிய விசேட படைப்பிரிவினர் மருத்துவமனைக்குள் நுழைவதை சிசிடிவி காட்சிகள் காண்பித்துள்ளன.
+CCTV footage has shown that the Israeli Special Forces who dressed like women who are hijabed, as doctors, enter the hospital.
 
-மருத்துவமனைகள் நுழைந்த இஸ்ரேலிய படையினர் பின்னர் ஒவ்வொருவராக மூன்றாவது தளத்திற்கு சென்று இரண்டு இளைஞர்களை கொலை செய்தனர் என மருத்துவமனைக்குள் காணப்பட்டவர்களை மேற்கோள்காட்டி பாலஸ்தீன அரச செய்தி முகவர் அமைப்பு தெரிவித்துள்ளது.
+The Palestinian State News Agency said that Israeli soldiers who entered the hospitals later went to the third floor and killed two youths.
 
-ஹமாஸ் மற்றும் இஸ்லாமிய ஜிகாத் அமைப்பை சேர்ந்தவர்களே கொல்லப்பட்டுள்ளனர் என இஸ்ரேல் தெரிவித்துள்ளது இஸ்ரேலிய அமைச்சர் ஒருவர் இந்த நடவடிக்கையை பாராட்டியுள்ளார்.
+Israeli minister has praised the move that the Hamas and the Islamic Jihad have been killed.
 
-...
+Israel said that Mohammed Jalane, who was recently hidden in a hospital, was killed in promoting significant terrorist activities.
+
+Israel has reported that Mohammed al -Gajawi and his brother from Jenin Battalion, who were involved in a number of attacks on Israeli soldiers, were killed.
+
+◼️
 
 [Data](articles/cc6d975b.json)
+
+[Extended Data](ext_articles/cc6d975b.ext.json)
 
 ---
 
@@ -732,17 +750,23 @@ Police have repeatedly launched a water and tear gas attack near the Colombo Pub
 
 ---
 
-### அட்டன் டிக்கோயா நகர சபைக்குள்ளேயே இந்த நிலைமை..!
+### This is the situation within the Attan Dikoya City Council ..!
 
 *2024-01-30 16:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175141) · `ta`
 
-நகரமெங்கும் கழிவுகள் அற்புறப்படுத்தாமல் தேங்கியிருந்தால் அது  இலங்கையில் அட்டன் டிக்கோயா நகர சபைக்குட்பட்ட  பிரதேசமாகத்தான் இருக்கும் என்பது அனைவரும் அறிந்த விடயம். கழிவுகளை அற்புறப்படுத்துவதற்கோ அல்லது அவற்றை கொண்டு சேர்ப்பதற்கோ இன்னும் ஒரு இடம் தெரிவு செய்யப்படாமல் இலங்கையில் இருக்கும் ஒரே நகர சபை அட்டன் டிக்கோயா நகரசபையாகும்.
+It is well known that if the waste is stagnant all over the city, it will be the area of Attan Tikoya Urban Council in Sri Lanka. Attan Dikoya is the only city council in Sri Lanka to choose a place to make the waste or bring them down.
 
-நகரங்கள் மற்றும் அதையண்டிய குடியிருப்புப் பிரதேசங்களில் தான் இந்த நிலைமைகள் என்றால் நகரசபைக்குள்ளேயே குப்பை கூழங்கள் நிரம்பித்தான் உள்ளன. மேலே காணப்படும் மலசல கூடமானது அட்டன் டிக்கோயா நகரசபைக்குள்ளே அமைந்திருக்கின்றது. நகர சபை மண்டபத்தை நிகழ்வுகளுக்காக பயன்படுத்துபவர்கள் பாவிக்கும் மலசல கூடங்களாகும். இந்த மண்டபத்தை உபயோகிக்க ஒரு தொகை கட்டணத்தை நகர சபை அறவிடுகின்றது. ஆனால் மலசல கூடம் இப்படித்தான் உள்ளது.
+If these conditions are in cities and its residential areas, the municipality is filled with garbage.. The sewage above is located within the Attan Dikoya Municipality. City Council Hall. The city council charges a sum of money to use this hall. But this is the case with the toilet.
+
+Because of this, many will end up events in two or three hours. Similarly, the rear of the municipality has long been laid out and removed. There is only one health examiner in the municipality. Within the building he works. It is not known how he does not know this.
+
+This is a good example of how the City Council Health Division keeps its building, which advises city traders and residential areas to keep the environment clean.
 
 ...
 
 [Data](articles/61895bbd.json)
+
+[Extended Data](ext_articles/61895bbd.ext.json)
 
 ---
 
@@ -882,19 +906,23 @@ Accordingly, the Cabinet of Ministers yesterday approved the proposal submitted 
 
 ---
 
-### ஹம்பாந்தோட்டை துறைமுகக் கட்டுமானத்தின் போது அகற்றப்பட்ட கருங்கற்களை ஏற்றுமதி செய்ய தீர்மானம்!
+### Resolution to export the removed granite during the Hambantota port construction!
 
 *2024-01-30 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175160) · `ta`
 
-ஹம்பாந்தோட்டை மாகம்புர துறைமுகக் கட்டுமானத்தின் போது அகற்றப்பட்டுள்ள கருங்கல் தொகையை துரிதமாக ஏற்றுமதி செய்வதற்குத் தேவையான படிமுறைகளை மேற்கொள்வதற்கான அனுமதியை வழங்குவதற்கும், ஒரு மில்லியன் மெட்ரிக்தொன் கருங்கல் தொகையை ஏற்றுமதி செய்வதற்கான இயலுமை மற்றும் பொருத்தப்பாடு தொடர்பான விடயங்களை ஆராய்ந்து விதந்துரையுடன் கூடிய அறிக்கையொன்றை சமர்ப்பிப்பதற்காக குழுவொன்றை நியமிப்பதற்கும் அமைச்சரவை தீர்மானித்துள்ளது.
+The Cabinet has decided to appoint a committee to submit a report with a report with a report on the export and relevant issues of exporting the amount of one million matricthon granite.
 
-நாட்டில் தற்போது கட்டுமான அபிவிருத்திகளுக்குத் தேவையான கருங்கல் தேவை ஒப்பீட்டு ரீதியில் குறைந்த மட்டத்தில் காணப்படுவதால் கருங்கல் அகழ்வு தொழிற்துறையில் ஈடுபடுகின்ற அகழ்வோர் மற்றும் அதனுடன் தொடர்புடைய சமூகத்தவர்களின் வாழ்வாதார வழிகள் மோசமாகப் பாதிக்கப்பட்டுள்ளன.
+Currently the need for construction developments in the country is at low levels at low levels, as the livelihoods of the excavation industry and its associated communities are badly affected.
 
-இந்நிலைமையைக் கருத்தில் கொண்டு மட்டுப்படுத்தப்பட்ட நிலைமையின் கீழ் கருங்கல் ஏற்றுமதி மூலம் இலங்கைக்கு வெளிநாட்டு செலாவணியை ஈட்டுகின்ற வேலைத்திட்டமொன்றை குறுகிய காலத்தில் நடைமுறைப்படுத்தல் பொருத்தமானதெனக் கண்டறியப்பட்டுள்ளது.
+Considering this situation, it has been found that in a short period of implementation of a program that has earned a foreign exchange program to Sri Lanka through granite exports under a limited situation.
+
+The amount of granite has been removed during the construction of the Hambantota Magampura port, which is currently being concentrated in the port city and in the new hospital complex in the Hambantota new hospital.
 
 ...
 
 [Data](articles/f9defe77.json)
+
+[Extended Data](ext_articles/f9defe77.ext.json)
 
 ---
 

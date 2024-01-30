@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 14:32:54**
+As of **2024-01-30 14:49:54**
 
 ## Newspaper Stats
 
-*Scraped **3,522** Articles*
+*Scraped **3,533** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,35 +18,89 @@ dailyftlk | 233
 adalk | 321
 adaderanasinhalalk | 385
 virakesarilk | 388
-tamilmirrorlk | 444
+tamilmirrorlk | 448
 adaderanalk | 451
-dailymirrorlk | 471
+dailymirrorlk | 478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,513 (99.7%) of 3,522 articles have been extended.
+3,522 (99.7%) of 3,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### අනතුරට ලක්වූ පැරෂුට් භටයින්ගේ තත්ත්වය
+### விடத்தல் தீவு கடற்கரையில் 5 மீனவர்கள் கைது
+
+*2024-01-30 14:09:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடத்தல்-தீவு-கடற்கரையில்-5-மீனவர்கள்-கைது/175-332345) · `ta`
+
+மாந்தை மேற்கு பிரதேச  செயலாளர் பிரிவில் உள்ள விடத்தல் தீவு கடற்கரையில்,  தடை செய்யப்பட்ட இழுவை மடியை பயன்படுத்தி கடற்றொழிலில் ஈடுபட்ட 5 மீனவர்கள் கைது செய்யப்பட்டுள்ளதோடு  அவர்கள் பயன்படுத்திய இழுவை படகும் மீட்கப்பட்டுள்ளது.
+
+கைதானவர்கள் விடத்தல் தீவு மக்கள் மற்றும் கடற்றொழில் திணைக்கள உத்தியோகத்தர்களால் திங்கட்கிழமை (29) இரவு கைது செய்யப்பட்டுள்ளனர்.
+
+இதற்கமைய, கைது செய்யப்பட்டவர்கள் எருக்கலம்பிட்டி மற்றும்  உப்புக்குளம் பகுதியை சேர்ந்தவர்கள் என தெரியவந்துள்ளது.
+
+இந்த நிலையில் விடத்தல் தீவு இறங்கு துறையில் இழுவை படகு நிறுத்தப்பட்டுள்ளதோடு, மேலதிக நடவடிக்கைக்காக 5 மீனவர்கள் மன்னார் கடற்றொழில் திணைக்கள அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/84b6cdaf.json)
+
+---
+
+### பாராளுமன்றில் பாலியல் சேஷ்டை:  மூவர் கைது
+
+*2024-01-30 14:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றில்-பாலியல்-சேஷ்டை-மூவர்-கைது/175-332344) · `ta`
+
+இரண்டு அழகான பணிப்பெண்கள் பாலியல் வன்கொடுமைக்கு உட்படுத்தப்பட்ட சம்பவம் தொடர்பில் பாராளுமன்றத்தின் வீட்டு பராமரிப்பு திணைக்களத்தின் மூன்று இளநிலை ஊழியர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் சிறுவர் மற்றும் பெண்கள் பணியகம் தெரிவித்துள்ளது.
+
+இந்த விடயம் தொடர்பில் அந்த பணியகத்தின் அதிகாரிகள் அண்மையில் பாராளுமன்ற வளாகத்திற்கு சென்று விசாரணைகளை மேற்கொண்டுள்ளனர்.
+
+பாலியல் துன்புறுத்தல் சம்பவம் தொடர்பாக பாராளுமன்ற உதவி நிர்வாகி உட்பட இருவர் இடைநீக்கம் செய்யப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/1224a2c7.json)
+
+---
+
+### இம்ரான் கானுக்கு 10 ஆண்டுகள் சிறை
+
+*2024-01-30 14:05:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இம்ரான்-கானுக்கு-10-ஆண்டுகள்-சிறை/50-332343) · `ta`
+
+பாகிஸ்தான் முன்னாள் பிரதமரும், முன்னாள் கிரிக்கெட் வீரருமான இம்ரான் கான், பாகிஸ்தான் தெஹ்ரிக்-இ-இன்சாப் (பிடிஐ) கட்சித் தலைவராக உள்ளார். 71 வயதான இம்ரான் கான், 2018 முதல் ஏப்ரல் 2022, வரையிலான காலகட்டத்தில் பாகிஸ்தானின் பிரதமராக பதவி வகித்தார்.
+
+இந்நிலையில் அவர் மீது, அரசு ரகசியங்களை கசியவிட்ட குற்றச்சாட்டு உட்பட பல்வேறு குற்றச்சாட்டுகள் உள்ளன. அரசு ரகசியங்களை கசியவிட்ட குற்றச்சாட்டில் கடந்த மாதம் இம்ரானுக்கு நீதிமன்றம் பிணை வழங்கியிருந்தது
+
+இந்த வழக்கில் செவ்வாய்க்கிழமை (300 இம்ரான் கான் மற்றும் அவரது தெஹ்ரிக்-இ-இன்சாப் கட்சியின் துணை தலைவர் குரேஷிக்கும் தலா 10 ஆண்டுகள் சிறை தண்டனை விதித்து அந்நாட்டின் சிறப்பு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+
+ஏற்கனவே பரிசுப்பொருள் வழக்கில் விதிக்கப்பட்ட 3 ஆண்டுகள் சிறைக்கு நீதிமன்றம் இடைக்கால தடை விதித்துள்ளது குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/5bf4e85c.json)
+
+---
+
+### Status of Parachute Troops
 
 *2024-01-30 14:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192741) · `si`
 
-නිදහස් සැමරුම් උත්සවයේ පුහුණුවීම් කටයුතු අතරතුර අනතුරට පත්වූ පැරෂුට්කරුවන්ගේ තත්ත්වය බරපතළ නොවන බව ගුවන් හමුදාව පවසයි.
+The Parashiots of the Independence Day trainage are not serious.
 
-අද (30) පෙරවරුවේ නිදහස් දින පෙරහුරුව සඳහා සහභාගී වූ ආරක්ෂක අංශ සාමාජිකයින් සිව්දෙනෙකු පැරෂුට් සංදර්ශනයේ පෙරහුරුව අතරතුරදී බිමට ඇදවැටී රෝහල් ගත කළේය.
+Four security personnel who participated in the Independence Day rehearsal today (30) took the area during the patronage of the parachute show.
 
-අනතුරෙන් යුද හමුදාවේ පැරෂුට්කරුවන් දෙදෙනෙකු සහ ගුවන් හමුදාවේ පැරෂුට්කරුවන් දෙදෙනෙකු තුවාල ලබා තිබේ.
+Two army personnel and two Air Force parastords were injured in the accident.
 
-ඔවුන්ගෙන් දෙදෙනෙකු කොළඹ පිහිටි උස් ගොඩනැගිල්ලක් මතට වැටෙන අයුරු වීඩියෝවල සඳහන්ව තිබුණි.
+Two of them contained in the videos of a high building in Colombo.
 
 ◼️
 
 [Data](articles/bf5ab7af.json)
+
+[Extended Data](ext_articles/bf5ab7af.ext.json)
 
 ---
 
@@ -68,6 +122,36 @@ There have been concerns raised about giving projects to build renewable plants 
 
 [Data](articles/087d7c15.json)
 
+[Extended Data](ext_articles/087d7c15.ext.json)
+
+---
+
+### அஸ்வெசும குறித்து அதிரடி அறிவிப்பு
+
+*2024-01-30 13:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-குறித்து-அதிரடி-அறிவிப்பு/175-332340) · `ta`
+
+◼️
+
+[Data](articles/73e6763a.json)
+
+---
+
+### Three Parliament employees arrested in for molesting female staff member
+
+*2024-01-30 13:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-Parliament-employees-arrested-in-for-molesting-female-staff-member/108-275980) · `en`
+
+Colombo, Jan 30 (Daily Mirror) - A group of employees were arrested today by the police attached to the Women's and Children's Bureau for allegedly abusing a fellow female staff member.
+
+Serjeant-at-Arms Narendra Fernando told the Daily Mirror that the staff members were arrested a short while ago.
+
+“We have already interdicted these staff members as they were found guilty during an inquiry,” he said.
+
+He said there is no necessity for the police to seek the approval of the Speaker before arresting a staff member as in the case of an MP.
+
+◼️
+
+[Data](articles/b51c45d0.json)
+
 ---
 
 ### Bill and Melinda Gates Foundation to partner with Sri Lanka president’s office
@@ -84,21 +168,25 @@ The President’s Office provides “guidance on policy issues and monitoring go
 
 [Data](articles/c8ea7948.json)
 
+[Extended Data](ext_articles/c8ea7948.ext.json)
+
 ---
 
-### ඉම්රාන් ඛාන්ට වසර 10ක සිරදඬුවමක්
+### Imran Khan 10 years in prison
 
 *2024-01-30 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192740) · `si`
 
-රාජ්‍ය රහස් හෙළිකිරීමේ චෝදනාව මත පාකිස්තානයේ හිටපු අග්‍රාමාත්‍ය ඉම්රාන් ඛාන්ට වසර 10ක සිරදඬුවමක් ලබාදී තිබේ.
+Former Prime Minister Imran Khan has been sentenced to 10 years in prison on the absurdition of state secrets.
 
-2022 වසරේ දී දූෂණ චෝදනාවකට වැරදිකරු වූ ඉම්රාන් ඛාන් මේ වනවිට බන්ධනාගාරගත කර සිටී.
+Imran Khan, who was convicted of corruption in 2022, has been remanded.
 
-එල්ල වූ චෝදනා සම්බන්ධයෙන් අදහස් දක්වමින් ඉම්රාන් ඛාන් පවසා ඇත්තේ, එම චෝදනා දේශපාලන කරුණු මත එල්ල කර ඇති බවය.
+Imran Khan has said that Imran had said that the allegations had been launched on political matters.
 
 ◼️
 
 [Data](articles/fd0f73d9.json)
+
+[Extended Data](ext_articles/fd0f73d9.ext.json)
 
 ---
 
@@ -160,45 +248,49 @@ After completing the visit, Pakistan's Saif ship will leave Sri Lanka on the fir
 
 ---
 
-### අත්පා සෙලවිය නොහැකි පුද්ගලයින්ට මස්ක් ගෙන් චිප් එකක්
+### A chip from the meat for people unable to uncover
 
 *2024-01-30 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192739) · `si`
 
-අත් පා සෙලවිය නොහැකි රෝගවලින් පෙළෙන පුද්ගලයින්ට තම සිතිවිලි භාවිත කරමින් භාණ්ඩ පරිහරණය කිරීමේ හැකියාව ලබාදෙන නව තාක්ෂණික ක්‍රමවේදයක් ඊලොන් මස්ක්ගේ නියුරාලින්ක් සමාගම අත්හදාබලමින් සිටී.
+Eelren Musk's Neurasc's Neuranc's Neurelink is a new technique that provides a new techniques to use his own thoughts with unwilling diseases.
 
-රැහැන් රහිත 'චිප්' එකක් මිනිස් මොළයට සාර්ථකව සවි කිරීමට එම සමාගම සමත්ව ඇත්තේ එහි නවතම පියවර ලෙසය.
+The company has been able to fix a wireless 'chip' successfully.
 
-එම සමාගම, මෙවන් මස්තිෂ්ක චිපය මිනිසෙකු යොදාගෙන අත්හදා බලා ඇත්තේ පළමුවරටය.
+The company has tried this money by a man and the first time.
 
-චිපය සවිකළ පුද්ගලයා මේ වනවිට යහපත් සෞඛ්‍ය තත්ත්වයෙන් පසුවන බව බලධාරීන් තහවුරු කර ඇති බව වාර්තා වේ.
+Authorities have confirmed that the person who installed the chip is in good health.
 
-මිනිස් හිසකෙස්වලටත් වඩා සියුම් නම්‍යශීලී කෙඳි 64ක්, මිනිස් සිරුරේ චලන පාලනය කරන මොළයේ කොටස මත සවි කිරීම මෙහිදී සිදුවන අතර ඉන් මිනිසාගේ මොළය පරිගණකයට සම්බන්ධ කෙරෙන බව වාර්තා වේ.
+It is reported that 64 subtle fibers, which are more subtle fiber than human hair, and the brain controlled by the brain controlling the human body, is connected to the computer.
 
-මිනිසුන්ට ඇතිවිය හැකි සංකීර්ණ ස්නායු රෝගාබාධවලදී සහාය වීමේ අරමුණින් නිපදවූ මෙය නිෂ්පාදනය ටෙලිපති ලෙස නම් කර තිබේ.
+The production of this is a telephone that made to assist people at complex neurological illnesses.
 
-මෙම තාක්ෂණය මිනිසුන් යොදාගෙන අත්හදා බැලීමේ අවසරය මැයි මාසයේදී එම සමාගමට හිමිවූයේ වසර 6ක් තිස්සේ ගත් ප්‍රයත්නයකින් අනතුරුවය.
+The company was able to use the technical experiment with the permission of people in May.
 
 ◼️
 
 [Data](articles/0765e432.json)
 
+[Extended Data](ext_articles/0765e432.ext.json)
+
 ---
 
-### සජබ විරෝධයට තවත් අධිකරණයකින් නියෝගයක්
+### Another court order against education
 
 *2024-01-30 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192738) · `si`
 
-අද (30) දහවල් පැවැත්වීමට නියමිත සමගි ජන බලවේගයේ මහජන රැළිය සඳහා මාළිඟාකන්ද මහෙස්ත්‍රාත් අධිකරණය විසින් නියෝගයක් නිකුත් කර තිබේ.
+The Aduldandanda Magistrate's Court has issued an order for the public rally of the existing proposal today (30).
 
-ඒ අනුව රැළියට සහභාගී වන පිරිසට ඩීන්ස් පාර, ටී.බී. ජයා මාවත, ටෙක්නිකල් හන්දිය ඇතුළු ප්‍රදේශ කිහිපයකට ඇතුළු වීම තහනම් වේ.
+Accordingly, Deans Road, TB to attend the rally. Including several areas including Jayya Mawatha, Technical Junction is prohibited.
 
-සමගි ජන බලවේගයේ නායක, සජිත් ප්‍රේමදාස මහතා ඇතුළු 16 දෙනෙකු සහ විරෝධතාවයට සහභාගී වන 500කට අධික තවත් අය මෙහි වගඋත්තරකරුවන් ලෙස නම් කර සිටී.
+The respondents are designated as the respondents, leader of the prospect of honor, 16 and 16 participants participating in the protest.
 
-කෙසේ වෙතත් අදාළ විරෝධතාකරුවන්ට සිය භාෂණයේ නිදහස භාවිත කිරීම උදෙසා කිසිදු බාධාවක් සිදුනොකරමින් ඔවුන්ගේ මතයන් ප්‍රකාශ කිරීම සඳහා අධිකරණය බලප්‍රදේශයට අයත් පී.ඩී සිරිසේන ක්‍රීඩාංගණය හා හයිඩ්පාක් පිටිය සුරක්ෂිත ලෙස ඔවුන් වෙනුවෙන් වෙන් කොට තැබීමටත් එම පිටි තුළ විරෝධතා දැක්වීමට බාධාවක් සිදුනොවුන ඇති බවත් ඒ සඳහා අවසර ලබාදෙන බවත් මාළිඟාකන්ද මහෙස්ත්‍රාත් ලෝචනී අබේවික්‍රම වීරසිංහ මහත්මිය නියෝග කර තිබේ.
+However, the protesters do not obtain their views to use their vibrans to use their vibrans and have not been able to secure their opinions and protest in the flour.Adaplakanda Magistrate Luchanika Abeywickrama Weerasinghe has been ordered.
 
 ◼️
 
 [Data](articles/c32d0bbb.json)
+
+[Extended Data](ext_articles/c32d0bbb.ext.json)
 
 ---
 
@@ -388,6 +480,18 @@ The Police Women's and Children's Bureau has been arrested by the Police Women's
 
 ---
 
+### Mid-air mishap
+
+*2024-01-30 12:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Mid-air-mishap/110-275978) · `en`
+
+Sri Lankan Military personnel take part in a rehearsal for the Independence Day parade in Colombo today and during the rehearsal, four paratroopers were injured when their parachutes became entangled and failed to open in mid-air. Pix by Pradeep Pathirana
+
+◼️
+
+[Data](articles/23b1ee7e.json)
+
+---
+
 ### Three junior staffers of parliament arrested over abuse allegations
 
 *2024-01-30 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96849/three-junior-staffers-of-parliament-arrested-over-abuse-allegations) · `en`
@@ -508,6 +612,22 @@ Railway General Manager HMKW Bandara said that 2 boxes have been removed from th
 
 ---
 
+### Willing to fill Sanath Nishantha’s vacant seat: Spouse
+
+*2024-01-30 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Willing-to-fill-Sanath-Nishanthas-vacant-seat-Spouse/108-275977) · `en`
+
+Spouse of late former Water Supply State Minister Sanath Nishantha, advocate Chamari Priyanka Perera said she is willing to consider the vacant seat of her husband only if the people of Puttalam district or the party request to do so.
+
+She made her statement after visiting the residence of Anuradha Jayakodi, the security officer of the former state minister who died in a car accident recently.
+
+"My husband did great service to the Puttalam district as well as to the people of the country. No one who sought help from him was ever turned away empty-handed. My children and I cannot believe what happened to him, and it is still like a dream. Even before my husband's death, some media have announced that I would join politics. No one has asked me when publishing such news. I have not made any statements to any media so far saying that I am joining politics," she said.
+
+...
+
+[Data](articles/eee17f41.json)
+
+---
+
 ### Unexpected underworld member
 
 *2024-01-30 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192736) · `si`
@@ -555,6 +675,60 @@ The reconciliation power is preparing to hold a protest and a rally in Colombo t
 [Data](articles/1e426617.json)
 
 [Extended Data](ext_articles/1e426617.ext.json)
+
+---
+
+### Recovering Rashid to miss Afghanistan’s first-ever Sri Lanka Test
+
+*2024-01-30 12:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Recovering-Rashid-to-miss-Afghanistans-first-ever-Sri-Lanka-Test/108-275976) · `en`
+
+Kabul, Jan 30 (AFP) - Ace spinner Rashid Khan will miss Afghanistan's first-ever Test against Sri Lanka next month, selectors announced Monday, as he continues to recover from a back surgery.
+
+The 25-year-old is Afghanistan's highest Test wicket-taker -- with 34 in five matches --  and has been an integral part of the team in all formats of the game.
+
+"Rashid Khan continues to recover from the back surgery and is set to miss the one-off Test against Sri Lanka," the Afghanistan Cricket Board (ACB) said in a statement.
+
+Another leg-spinning bowling all-rounder, Qais Ahmad, has been included in the squad as Rashid's replacement.
+
+Hashmatullah Shahidi will lead the squad, which also has Noor Ali Zadran and Naveed Zadran.
+
+Afghanistan will also play three one-day internationals and as many Twenty20s on the tour, for which squads will be announced later.
+
+Since being granted Test status in 2018, Afghanistan has played seven Tests, winning three and losing the other four.
+
+...
+
+[Data](articles/80ec35c2.json)
+
+---
+
+### SJB will go ahead with protest defying court order: Madduma Bandara
+
+*2024-01-30 12:08:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/SJB-will-go-ahead-with-protest-defying-court-order-Madduma-Bandara/108-275975) · `en`
+
+Colombo, Jan 30 (Daily Mirror) - The Samagi Jana Balawegaya (SJB) will go ahead with the protest defying the stay order issued by the magistrate's courts a shortwhile ago, its General Secretary Ranjith Madduma Bandara said.
+
+“We will not follow court orders which are undemocratic,” he told the Daily Mirror.
+
+The protest is to begin near the Vihara Mahadevi Park at 1.30 pm today.
+
+◼️
+
+[Data](articles/9b9dd302.json)
+
+---
+
+### Court issues order on SJB protest
+
+*2024-01-30 12:05:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Court-issues-order-on-SJB-protest/108-275974) · `en`
+
+Colombo, Jan 30 (Daily Mirror) - The Colombo Magistrate's Court issued an order prohibiting Samagi Jana Balawegaya (SJB) leader Sajith Premadasa and several others from conducting protests that inconvenience the public and disrupt traffic by blocking roads in Maligawatta today.
+
+The Officer-in-Charge (OIC) of the Maligawatta Police informed court on plans by a group associated with a political party to initiate a protest march near the Muslim cemetery in Maligawatta and requested an order to prevent the protest.
+
+...
+
+[Data](articles/b2371f0e.json)
 
 ---
 
@@ -627,6 +801,8 @@ Sri Lanka also gets remittances which are exports of labour. (Colombo/Jan29/2023
 ◼️
 
 [Data](articles/fd6f657e.json)
+
+[Extended Data](ext_articles/fd6f657e.ext.json)
 
 ---
 
@@ -827,6 +1003,26 @@ Mullaitivu District Judge Dharmalingam Pradeepan had ordered the relatives to be
 [Data](articles/a16f6dd4.json)
 
 [Extended Data](ext_articles/a16f6dd4.ext.json)
+
+---
+
+### Update: Paratroopers injured during Independence Day rehearsals
+
+*2024-01-30 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Paratroopers-injured-during-Independence-Day-rehearsals/108-275965) · `en`
+
+Colombo, Jan 30 (Daily Mirror) - At least four paratroopers were injured when their parachutes failed to open properly during the Independence Day rehearsals being held at Galle Face Green.
+
+Army Spokesman Major General K.A.N. Rasika Kumara said two paratroopers landed on a building when their parachutes failed to open.
+
+It was reported that during a parachute rehearsal, two parachutes collided in the sky, resulting in an accident.
+
+Two paratroopers from the Sri Lanka Air Force and two paratroopers from the Army sustained injuries in the incident.
+
+According to hospital sources, two Sri Lanka Air Force (SLAF) paratroopers have been admitted to the Colombo National Hospital and are presently undergoing medical tests.
+
+◼️
+
+[Data](articles/56818886.json)
 
 ---
 
@@ -1265,6 +1461,8 @@ The Colombo Stock Exchange opened up; The All Share Price Index was up 0.09 perc
 ◼️
 
 [Data](articles/6d93ed7e.json)
+
+[Extended Data](ext_articles/6d93ed7e.ext.json)
 
 ---
 
@@ -1772,6 +1970,8 @@ Many analysts have pointed out that Sri Lanka no longer has an ‘open economy�
 
 [Data](articles/40ec0cc4.json)
 
+[Extended Data](ext_articles/40ec0cc4.ext.json)
+
 ---
 
 ### Maithri is noticeable to Mahinda as the post of Prime Minister
@@ -1795,237 +1995,5 @@ Subsequently, Mahinda Rajapaksa was appointed to the post.
 [Data](articles/a198715a.json)
 
 [Extended Data](ext_articles/a198715a.ext.json)
-
----
-
-### Colombo University makes history with new anti-aging drug
-
-*2024-01-30 08:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Colombo-University-makes-history-with-new-anti-aging-drug/155-275957) · `en`
-
-Colombo, Jan 30 (Daily Mirror) - A scientific think-tank from the University of Colombo is in the process of launching an anti-aging nutraceutical capsule for the first time in Sri Lanka.
-
-Speaking to Daily Mirror, Prof. Sameera R. Samarakoon from the Institute of Biochemistry, Molecular Biology and Biotechnology at the University of Colombo, who is also the head of the team said the capsule had been made from natural ingredients; nevertheless, the nature of the ingredients can’t be declared at the moment.
-
-The professor also said that after long-term research, the drug is in the final stage of launch.
-
-“It will be launched within the next few months probably in four months,” he said.
-
-“These type of anti-aging drugs are quite popular in the world market and some imported products are also available in Sri Lanka; however, they are sold at exorbitant prices,” he added.
-
-...
-
-[Data](articles/f4a36565.json)
-
-[Extended Data](ext_articles/f4a36565.ext.json)
-
----
-
-### Students surround administrative building of Kelaniya Uni
-
-*2024-01-30 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96838/students-surround-administrative-building-of-kelaniya-uni) · `en`
-
-A group of around 350 students have reportedly surrounded the administrative building of the Kelaniya University.
-
-The students had also held a protest blocking the Colombo-Kandy road last night (29) while police had resorted to using tear gas and water cannons in an attempt to disperse them.
-
-The anti-government demonstration also disrupted the vehicular movement along the Colombo - Kandy main road.
-
-It had been launched over several demands including a hike in ‘Mahapola’ scholarship payments.
-
-◼️
-
-[Data](articles/92077e60.json)
-
-[Extended Data](ext_articles/92077e60.ext.json)
-
----
-
-### Beliatta shooting: Two women arrested for aiding and abetting
-
-*2024-01-30 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96837/beliatta-shooting-two-women-arrested-for-aiding-and-abetting) · `en`
-
-Two more suspects, both females, have been arrested from the Rathgama area for allegedly aiding and abetting the suspects involved in the recent killing of five persons at Beliatta, police said.
-
-The two women were arrested following an operation carried out by a team of officers from the Hakmana Police Station in the Rathgama area yesterday morning (29).
-
-The Police Media Unit said the arrested suspects are aged 23 and 33 while they are residents of Boossa.
-
-Investigations have uncovered that the two firearms used in the shooting incident had been transported from Karapitiya to Boossa in a motorcycle belonging to one of these suspects after the crime was committed.
-
-On Jan.23, a group of persons who had arrived in an SUV had opened fire at a white Defender near the Beliatta Interchange of the Southern Expressway.
-
-...
-
-[Data](articles/6dc9dbdd.json)
-
-[Extended Data](ext_articles/6dc9dbdd.ext.json)
-
----
-
-### Kelaniya University students round the administration building
-
-*2024-01-30 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192720) · `si`
-
-It is reported that about 350 students of the University of Kelaniya have been protesting around the university administration building.
-
-Students were protesting near the University of the University last night, taking advanced at the University of the University last night, while the police had launched a gas and tear gas to disperse the protest.
-
-The lane was completely blocked in front of the University of Kelaniya on the Colombo-Kandy main road due to the protest.
-
-◼️
-
-[Data](articles/6bed823d.json)
-
-[Extended Data](ext_articles/6bed823d.ext.json)
-
----
-
-### 69.6 billion money was printed in November alone
-
-*2024-01-30 07:39:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நவம்பரில்-மாத்திரம்-69-6-பில்லியன்-பணம்-அச்சிடப்பட்டுள்ளது/175-332318) · `ta`
-
-In November 2023, the Central Bank of Sri Lanka printed 69.6 billion.
-
-From January to November Rs. Rs.. The Central Bank said the central bank had printed Rs 639.4 billion last year.
-
-◼️
-
-[Data](articles/b0041912.json)
-
-[Extended Data](ext_articles/b0041912.ext.json)
-
----
-
-### “Take steps to control the hike in vegetable prices”
-
-*2024-01-30 07:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கறி-விலை-உயர்வை-கட்டுப்படுத்த-நடவடிக்கை-எடுக்கவும்/175-332317) · `ta`
-
-The National Consumer Front (NCF) has called for the immediate inquiry into the immediate inquiry into the unexpected rise in the market prices in the market before the upcoming presidential election.
-
-The leading said that the prices of vegetables in Dambulla and Nuwara Eliya have increased and therefore the consumers have to carry this increase in the local market.
-
-According to the price of the new mening market in Peliyagoda, a kilogram of bear is Rs.2,000.To a Rs.One kilogram of green chilli, which was 800, rose to 1,200.Pumpkin 1 kilogram of Rs.300.
-
-National Consumer Front leader Asela Sampath has urged the Commerce Minister to investigate the sudden increase in vegetable prices in the local market and provide immediate solutions to control the price.
-
-Asela Sampath asked the consumer to stop the purchase of vegetables at high prices and asked the merchants to stop bringing vegetables for at least a week to overcome the mafia.
-
-...
-
-[Data](articles/bcfd9f1d.json)
-
-[Extended Data](ext_articles/bcfd9f1d.ext.json)
-
----
-
-### Special traffic plan in Colombo for Independence Day
-
-*2024-01-30 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192719) · `si`
-
-Police said that traffic in Colombo is restricted to Colombo today (30) due to the 76th Independence Day.
-
-Road closed and restrictions will be closed on several occasions to February 3, police said.
-
-The vehicle plan is being implemented in the Galle Face Green.
-
-The special traffic plan will be implemented from 6am to February 3 to February 3 to February 3, from 6am to February 3.
-
-DIG Indika Hapugoda, DIG in charge of the road safety and traffic infection, further comments.
-
-"Vessel to enter Colombo from Kollupitiya. Also, a vehicle restriction involvement from Ceramic junction in Colombo. The first rehearsal is held from 6 am to 8.30 am. As soon as it is done, all closed routes will be opened and the second rehearsal begins at 11. Accordingly, roads are closed to 12.30. On February 3, the festival site will be closed to this festival. "
-
-DIG Indika Hapugoda said:
-
-◼️
-
-[Data](articles/c5a6f671.json)
-
-[Extended Data](ext_articles/c5a6f671.ext.json)
-
----
-
-### “Don't invite politicians to universities”
-
-*2024-01-30 07:25:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்வாதிகளை-பல்கலைக்கழகங்களுக்கு-அழைக்க-கூடாது/175-332316) · `ta`
-
-Higher Education Minister Dr. Suren Raghavan said that some universities are planning to invite politicians and presidential candidates to universities and such activities should be stopped.
-
-At a media briefing held at the Government Information Department, he said that universities should stop politicizing.
-
-“I learned that some universities are planning to invite politicians and presidential candidates to universities. This is to be stopped. Please stop politicizing universities. Universities are for educational activities.
-
-Politics is discussed there. However, it should not be prejudiced. Senate and its academics must decide who should be invited to universities for events, ”he said.
-
-◼️
-
-[Data](articles/a9171a63.json)
-
-[Extended Data](ext_articles/a9171a63.ext.json)
-
----
-
-### Amaraweera and Thilanga willing to resign
-
-*2024-01-30 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192718) · `si`
-
-Mr. Mahinda Amaraweera and Thilanga Sumathipala have decided to leave the US Secretary of the UPFA.
-
-Accordingly, they will leave those riots today (30).
-
-The Working Committee meeting of the United Front was presented under the patronage of former President Maithripala Sirisena yesterday (29).
-
-It has been decided to create a wide alliance from the chair's sign as a sign of the party.
-
-Accordingly, a constitutional amendment has been made to appoint a new office staff to appoint a new office staff.
-
-The Sri Lanka Freedom Party Chairman Maithripala Sirisena, the Chairman of the Sri Lanka Freedom Party (SLFP) commented on the incident,
-
-...
-
-[Data](articles/66072f68.json)
-
-[Extended Data](ext_articles/66072f68.ext.json)
-
----
-
-### Two suspects arrested for murder in Beliwatta
-
-*2024-01-30 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192717) · `si`
-
-Two suspects have been arrested for shooting near the Southern Expressway in Beliatta.
-
-The two women were arrested by the Hakmana Police Station at the Hakama Police Station yesterday morning.
-
-The police media division said that such were residents of the Boossa area for 23 and 33.
-
-The two firearms used to commit the crime was revealed in the investigation from a motorcycle belonging to the Boossa area from the Karapitiya area.
-
-◼️
-
-[Data](articles/621aaa06.json)
-
-[Extended Data](ext_articles/621aaa06.ext.json)
-
----
-
-### A change in the weather
-
-*2024-01-30 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192715) · `si`
-
-The Meteorology Department says that there will be showers at times in the Eastern and Uva provinces, Polonnaruwa, Mullaitivu, Matale and Nuwara Eliya districts.
-
-Several spells of showers in the Anuradhapura and Hambantota districts.
-
-In the Western, Sabaragamuwa and North Western provinces, in Galle, Matara and Kandy districts. Showers or thundershowers will occur at several times after 2.
-
-Some locations in the Western, Sabaragamuwa and Central provinces. Heavy rains can occur about 75 times.
-
-The Department of Meteorology emphasizes the people to take necessary action to reduce accidents and lightning accidents with thunderstorms.
-
-◼️
-
-[Data](articles/8a19f83b.json)
-
-[Extended Data](ext_articles/8a19f83b.ext.json)
 
 ---

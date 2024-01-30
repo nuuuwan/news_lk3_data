@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 00:17:22**
+As of **2024-01-31 00:32:30**
 
 ## Newspaper Stats
 
-*Scraped **3,644** Articles*
+*Scraped **3,646** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,53 @@ dailyftlk | 233
 adalk | 331
 adaderanasinhalalk | 405
 virakesarilk | 405
-tamilmirrorlk | 459
-adaderanalk | 466
+tamilmirrorlk | 460
+adaderanalk | 467
 dailymirrorlk | 497
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,644 (100.0%) of 3,644 articles have been extended.
+3,644 (99.9%) of 3,646 articles have been extended.
 
 ## Latest 100 Articles 
 
+### 2024-01-31 (Wednesday)
+
+### பொலிஸ் அதிகாரிகள் மீது சரமாரியாக தாக்குதல்
+
+*2024-01-31 00:15:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பொலிஸ்-அதிகாரிகள்-மீது-சரமாரியாக-தாக்குதல்/71-332380) · `ta`
+
+ஆனைக்கோட்டை சந்தி மற்றும் குளப்பிட்டி சந்திக்கு இடைப்பட்ட பகுதியில் நேற்று முன்தினம் (29) இரவு குறித்த சம்பவம் இடம்பெற்றுள்ளது.
+
+வீதியில் சந்தேகத்திற்கிடமான முறையில் குழுவாக நின்றவர்களை சோதனையிட இரண்டு பொலிஸ் உத்தியோகத்தர்கள் முயன்ற போதே பொலிஸார் மீது தாக்குதல் நடத்தப்பட்டுள்ளது.
+
+தாக்குதலுக்குள்ளான மானிப்பாய் பொலிஸ் நிலையத்தைச் சேர்ந்த இரு பொலிஸ் உத்தியோகத்தர்களும் சங்கானை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+
+◼️
+
+[Data](articles/de26c35a.json)
+
+---
+
 ### 2024-01-30 (Tuesday)
+
+### Speaker urged not to endorse Online Safety Bill without verifying full adherence to SC directives
+
+*2024-01-30 23:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96868/speaker-urged-not-to-endorse-online-safety-bill-without-verifying-full-adherence-to-sc-directives) · `en`
+
+Media and civil society groups have urged Speaker of Parliament Mahinda Yapa Abeywardena not to endorse the recently passed controversial Online Safety Bill without verifying whether the Supreme Court’s directives are fully adhered to.
+
+In a letter jointly addressed to the Speaker, the Media, Civil Society and Trade Union Collective to Rise against Oppressive Laws noted that the proposed legislation which ‘completely endangers the freedom of expression’ should be rejected outright.
+
+Expressing its strong objections to the ‘hasty passage’ of the Bill on January 24 in the parliament, sans discussion with any stakeholder, and ignoring the directives of the Supreme Court.
+
+...
+
+[Data](articles/4c7fa2f4.json)
+
+---
 
 ### Wedderburn shines in West Indies U19’s win
 
@@ -2015,43 +2049,5 @@ In addition, the court order prohibits Opposition Leader Sajith Premadasa and ot
 [Data](articles/be3251b5.json)
 
 [Extended Data](ext_articles/be3251b5.ext.json)
-
----
-
-### 189 574 tourists arrived at the first 28 days of January
-
-*2024-01-30 13:50:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-පළමු-දින-28ට-සංචාරකයන්-189-574ක්-ඇවිත්/11-407801) · `si`
-
-189 574 tourists arrived in Sri Lanka in January 2024. The number of tourist arrivals arriving in Sri Lanka during January of 2023 was 102545.
-
-The highest number of tourist arrivals arrived in Sri Lanka in the first 28 days of January. 8,541 tourists arrived in Sri Lanka.
-
-Sri Lanka has come to Sri Lanka in January, and it was 31920.
-
-In addition, 28,159 tourists from Russia, 15,252 from the UK and 12,340 from Germany, tourists arrived in Sri Lanka.
-
-◼️
-
-[Data](articles/dcf75b6d.json)
-
-[Extended Data](ext_articles/dcf75b6d.ext.json)
-
----
-
-### Harakatta related court interim order extended!
-
-*2024-01-30 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175151) · `ta`
-
-The interim injunction has been extended to Nandun Chintaka Wickramaratne, a Harakkutta, which is under the detention of the Criminal Investigation Department, and the court has been asked to obtain permission from the present detention.
-
-The Court of Appeal on Tuesday (30) ordered the interim order to be extended till March 15.
-
-Moreover, the court has also ordered that the petition be filed by February 22.The hearing of the petition was adjourned to March 15.
-
-◼️
-
-[Data](articles/0535e711.json)
-
-[Extended Data](ext_articles/0535e711.ext.json)
 
 ---

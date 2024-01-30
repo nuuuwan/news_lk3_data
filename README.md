@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 18:20:00**
+As of **2024-01-30 18:32:41**
 
 ## Newspaper Stats
 
-*Scraped **3,579** Articles*
+*Scraped **3,587** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,76 @@ economynextcom | 193
 islandlk | 198
 newsfirstlk | 216
 dailyftlk | 233
-adalk | 324
-adaderanasinhalalk | 393
+adalk | 326
+adaderanasinhalalk | 395
 virakesarilk | 395
-tamilmirrorlk | 452
+tamilmirrorlk | 454
 adaderanalk | 459
-dailymirrorlk | 483
+dailymirrorlk | 485
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,577 (99.9%) of 3,579 articles have been extended.
+3,579 (99.8%) of 3,587 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### முஜிபுர் ரஹ்மான் பாதிப்பு: சஜித் பார்வையிட்டார்.
+
+*2024-01-30 18:09:41* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முஜிபுர்-ரஹ்மான்-பாதிப்பு-சஜித்-பார்வையிட்டார்/175-332362) · `ta`
+
+“மாற்றத்தை ஏற்படுத்தும் வருடம் - 2024'' எனும் தொனிப்பொருளில் ஐக்கிய மக்கள் சக்தி இன்று (30) பிற்பகல் கொழும்பு விகாரமகாதேவி பூங்கா அருகில் முன்னெடுத்த எதிர்ப்புப் பேரணியில் கலந்து கொண்ட முன்னாள் பாராளுமன்ற உறுப்பினரும், ஐக்கிய மக்கள் சக்தியின் பிரதி பொதுச் செயலாளருமான முஜிபுர் ரஹ்மான்  பொலிஸாரினால் மேற்கொள்ளப்பட்ட கண்ணீர்ப்புகை, நீர்த்தாரை பிரயோகத்தினால் பாதிக்கப்பட்டு வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+பேரணியை தொடர்ந்து எதிர்க்கட்சித் தலைவர் சஜித் பிரேமதாச நலம் விசாரிக்க சென்றமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/3a8c79af.json)
+
+---
+
+### Minimum speed limit on expressways soon: Bandula
+
+*2024-01-30 17:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Minimum-speed-limit-on-expressways-soon-Bandula/108-275992) · `en`
+
+Colombo, Jan. 30 (Daily Mirror)- Steps are being taken to impose a minimum speed limit on expressways as accidents are caused due to slow-moving vehicles, Transport Minister Bandula Gunawardana said today.
+
+He told the weekly Cabinet briefing that even though the maximum speed limit is imposed as 100 kmph, no minimum speed has been imposed yet.
+
+He said most accidents are caused when overtaking slow moving vehicles and it is important to set a minimum speed limit to prevent such accidents.
+
+The Minister said a discussion was held with experts in the field and relevant institutions such as the police regarding the accidents on expressways and that new rules and regulations will be published in a gazette notification within two weeks.
+
+◼️
+
+[Data](articles/77d20fb7.json)
+
+---
+
+### බිහිසුණු ඩ්‍රෝන ප්‍රහාරයත් සමග කරළියට ආ කටේබ් හිස්බුල්ලා
+
+*2024-01-30 17:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192752) · `si`
+
+ජෝර්දාන - සිරියා දේශසීමාව ආසන්නයේ ස්ථානගතව සිටි අමෙරිකානු හමුදා කණ්ඩායමක එල්ල කළ ඩ්‍රෝන ප්‍රහාරයෙන් මියගිය භටයින් තිදෙනාගේ නම් අද අමෙරිකානු බලධාරීන් විසින් මාධ්‍ය ට නිකුත් කළේය.
+
+ඔවුන් නැවතී සිටි නිවස්නයට එල්ල කර තිබූ එම ප්‍රහාරයෙන් මියගොස් තිබුණේ සැරයන් විලියම් ජෙරෝම් රිවර්ස් (46), කෙනඩි ලෙඩොන් සැන්ඩරස් (24) සහ බ්‍රෙන්නා ඇලෙක් සොන්ද්‍රීයා මොෆෙට් (23) ය.
+
+මේ අතර, පෙන්ටගනයේ ප්‍රකාශිකා සබ්‍රිනා සිං සඳහන් කළේ ටවර් - 22 කඳවුරට ප්‍රහාරය එල්ල කළ කණ්ඩායම බොහෝදුරට කටේබ් හිස්බුල්ලා විය හැකි බවයි.
+
+කටේබ් හිස්බුල්ලා 2005 වසරේ ඉරාකය, අමෙරිකානු හමුදා විසින් ආක්‍රමණයත් සමග බිහිවූ ඉරානයේ සහාය ලබන ඉරාක සන්නද්ධ කණ්ඩායමකි.
+
+ඔවුන් මේ වනවිට ඉරාකයේ සන්නද්ධ කණ්ඩායම් අතර ප්‍රබලතම කණ්ඩායම ලෙස සැලකෙන අතර, මෑතකදී මැදපෙරදිග අමෙරිකානු හමුදා වෙත එල්ල වූ ප්‍රහාරවලින් වැඩි ප්‍රමාණයක් කටේබ් හිස්බුල්ලා විසින් එල්ල කරන්නට ඇති බව සැලකෙයි.
+
+ඉරාන සහ ඉරාක පුරවැසිභාවය හිමි ‘අබු මහදි අල් - මුහන්දිස්' නමැති ෂියා සන්නද්ධ නායකයා විසින් මෙම සන්නද්ධ කණ්ඩායම මෙහෙයවනු ලැබීය.
+
+...
+
+[Data](articles/2d92182d.json)
+
+---
 
 ### Israeli forces kill three Palestinian militants in West Bank hospital raid
 
@@ -52,6 +106,46 @@ Another armed group, Palestinian Islamic Jihad, said two of those killed were it
 
 [Data](articles/2674df0a.json)
 
+[Extended Data](ext_articles/2674df0a.ext.json)
+
+---
+
+### රෝහලක් තුළට ම ගොස් ඊශ්‍රායල SF භටයින් සිදුකළ බිහිසුණු මෙහෙයුම
+
+*2024-01-30 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192751) · `si`
+
+පලස්තීන සිවිල් වැසියන්ට සිදුවන ජීවිත හානි සම්බන්ධයෙන් ජාත්‍යන්තර අධිකරණය නියෝගයක් ලබා දුන්න ද ගාසා තීරයේ මෙහෙයුම්වලින් මිය යන සංඛ්‍යාව තවදුරටත් ඉහළයමින් තිබෙන බව වාර්තා වෙයි.
+
+පලස්තීන සෞඛ්‍ය බලධාරීන් ප්‍රකාශ කරන්නේ පසුගිය ඔක්තෝබර් 07 වැනිදායින් පසු මේ දක්වා ගාසා තීරයට එල්ල කරන ඊශ්‍රායල ප්‍රහාරවලින් පලස්තීනුවන් 26,637ක් ජීවිතක්ෂයට පත්වී ඇති අතර තුවාල ලැබූ සංඛ්‍යාව 65,387කි.
+
+මේ අතර "ගාසා සිටි" කලාපයට තුන් පැත්තකින් ඇතුළු වූ ඊශ්‍රායල හමුදා එහි පලස්තීනුවන්ට ඉවත්වන ලෙස දැනුම්දී ඇති බව සඳහන් ය.
+
+උතුරුදිග ගාසා තීරයේ පිහිටි "ගාසා සිටි" වෙතින් ඊශ්‍රායල හමුදා මීට පෙර ඉවත්වුවද දැන් නැවතත් ඔවුන් එහි පැමිණ ඇත්තේ හමාස් සංවිධානය යළි ක්‍රියාකාරී වී ඇති බව පවසමිනි.
+
+ඊශ්‍රායලය මෙලෙස කෙටි කාලයක් තුළ ඉවත්වන ලෙස පලස්තීනුවන්ට දැනුම්දීම ඔවුන්ට අතිශය දුෂ්කර අත්දැකීමක් වී ඇති බව ජගත් සංවිධානය පවසයි.
+
+පසුගිය දෙසැම්බර් 1 වනදා සිට මිලියන 1.38ක් පලස්තීනුවන්ට තමන් සිටින ප්‍රදේශවලින් ඉවත්වන ලෙස දැනුම්දී ඇති අතර ඉන් 700,000ක් පමණ තාවකාලික කඳවුරු 161ක රඳවා ඇති බව එක්සත් ජාතීන්ගේ මානුෂීය කටයුතු කාර්යාලය සඳහන් කළේය.
+
+...
+
+[Data](articles/8f2ebd4d.json)
+
+---
+
+### ஊழல் மிகுந்த நாடுகள் பட்டியலில் இலங்கைக்கு 115-வது இடம்
+
+*2024-01-30 17:36:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/ஊழல்-மிகுந்த-நாடுகள்-பட்டியலில்-இலங்கைக்கு-115-வது-இடம்/50-332361) · `ta`
+
+உலகில் ஊழல் மிகுந்த நாடுகள் கொண்ட பட்டியலை அரசு சாரா அமைப்பான 'டிரான்ஸ்பரன்சி இன்டர்நேஷனல்' என்ற அமைப்பு வெளியிட்டு வருகிறது. உலகில் உள்ள 180 நாடுகளில் இந்த அமைப்பு ஆய்வு மேற்கொண்டு வரிசைப்படுத்துகிறது. நிர்வாக வெளிப்படைத்தன்மை, இலஞ்சம், ஊழல் மற்றும் முறைகேடுகள் போன்றவற்றை காரணிகளாக கொண்டு ஆய்வு மேற்கொள்ளப்படுகிறது.
+
+இந்த காரணிகளின் அடிப்படையில் 100-க்கு 100 மதிப்பெண்கள் பெறும் நாடு ஊழலற்ற நாடு என்ற வகையில் தரவரிசைப் பட்டியலில் முதலிடம் வழங்கப்படுகிறது. பூஜ்ய (0) மதிப்பெண் பெறும் நாடு ஊழல் மிகுந்த நாடாக குறிப்பிடப்படுகிறது.
+
+அவ்வகையில் இந்த ஆண்டுக்கான தரவரிசை பட்டியலை டிரான்ஸ்பரன்சி இன்டர்நேஷனல் வெளியிட்டுள்ளது. மொத்தம் உள்ள 180 நாடுகளில் எந்த நாடும் 100-க்கு 100 மதிப்பெண் பெறவில்லை. அதாவது உலகம் முழுவதும் ஊழல் இருப்பதை இந்த பட்டியல் காட்டுகிறது. 90 மதிப்பெண் பெற்ற டென்மார்க் ஊழல் மிகவும் குறைந்த நாடாக முதலிடத்தை பிடித்துள்ளது. 87 மதிப்பெண்களுடன் பின்லாந்து 2-ம் இடத்தையும், 85 மதிப்பெண்களுடன் நியூசிலாந்து 3-ம் இடத்தையும் பிடித்துள்ளன.
+
+...
+
+[Data](articles/60b93a41.json)
+
 ---
 
 ### Former MP Mujibur Rahman hospitalised during SJB protest
@@ -68,6 +162,8 @@ Earlier today, the SJB held a protest march against the conduct of the governmen
 
 [Data](articles/7b81d2a5.json)
 
+[Extended Data](ext_articles/7b81d2a5.ext.json)
+
 ---
 
 ### Mujuour Rahman hospitalized
@@ -81,6 +177,30 @@ Former MP Muniburi Rahman has been injured and admitted to the Colombo National 
 [Data](articles/21daf686.json)
 
 [Extended Data](ext_articles/21daf686.ext.json)
+
+---
+
+### India navy rescues Pakistani sailors from pirates
+
+*2024-01-30 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/India-navy-rescues-Pakistani-sailors-from-pirates/108-275990) · `en`
+
+Somalia, Jan 30 (BBC) -  Indian naval forces have rescued 19 Pakistani sailors after their fishing vessel was hijacked by pirates off Somalia's coast.
+
+This was the second rescue operation in 36 hours by Indian warship INS Sumitra.
+
+Hours earlier, the ship had rescued the 17-member Iranian crew of a vessel which was also hijacked by pirates, the navy said.
+
+India's navy has responded to several distress calls from vessels and sailors over the past few weeks.
+
+Recent attacks on vessels off Somalia's coast have triggered concerns that pirates could be becoming active again in the region.
+
+INS Sumitra has been deployed for maritime security operations along the east coast of Somalia and Gulf of Aden.
+
+A navy statement said that the ship had responded to a distress message on 28 January and intercepted an Iranian-flagged vessel. Naval officers then "coerce[d] the pirates for safe release of crew along with the boat", according to a post on X (formerly Twitter).
+
+...
+
+[Data](articles/dabbc79a.json)
 
 ---
 
@@ -734,6 +854,24 @@ In addition, the court order prohibits Opposition Leader Sajith Premadasa and ot
 
 ---
 
+### ජනවාරි පළමු දින 28ට සංචාරකයන් 189 574ක් ඇවිත්
+
+*2024-01-30 13:50:37* · [`adalk`](https://www.ada.lk/breaking_news/ජනවාරි-පළමු-දින-28ට-සංචාරකයන්-189-574ක්-ඇවිත්/11-407801) · `si`
+
+2024 ජනවාරි මාසයේ පළමු දින 28ක කාලය තුළ ශ්‍රී ලංකාවට සංචාරකන් 189 574ක් පැමිණ තිබේ. 2023 වසරේ ජනවාරි මාසය තුළදීම ශ්‍රී ලංකාවට පැමිණ තිබුණ සංචාරකයන් සංඛ්‍යාව 102545කි.
+
+ජනවාරි මාසයේ පළමු දින 28 තුළ මෙරටට වැඩිම සංචාරකයින් පිරිසක් පැමිණ ඇති දිනය වන්නේ ජනවාරි 15 දායි. ඒදින ශ්‍රි ලංකාවට සංචාරකයින් සංඛ්‍යාව 8,541 කි පැමිණ තිබේ.
+
+ජනවාරි මාසයේදී ශ්‍රී ලංකාවට වැඩිම සංචාරකයන් පිරිසක් පැමිණ තිබුණේ ඉන්දියාවෙන් වන අතර එම අතර එම අගය 31920කි.
+
+මීට අමතරව රුසියාවෙන් සංචාරකයින් 28,159ක්, එක්සත් රාජධානියෙන් 15,252 ක්, ජර්මනියෙන් 12,340ක්, ලෙස වැඩි වශයෙන් සංචාරකයින් මෙරටට පැමිණ ඇත.
+
+◼️
+
+[Data](articles/dcf75b6d.json)
+
+---
+
 ### Harakatta related court interim order extended!
 
 *2024-01-30 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175151) · `ta`
@@ -863,6 +1001,24 @@ After completing the visit, Pakistan's Saif ship will leave Sri Lanka on the fir
 [Data](articles/153cbc26.json)
 
 [Extended Data](ext_articles/153cbc26.ext.json)
+
+---
+
+### අඛණ්ඩව සිවුවැනි වසරටත් වැඩිම වාහන අලෙවියක් කළ සමාගම බවට ටොයෝටා පත්වෙයි
+
+*2024-01-30 13:29:48* · [`adalk`](https://www.ada.lk/breaking_news/අඛණ්ඩව-සිවුවැනි-වසරටත්-වැඩිම-වාහන-අලෙවියක්-කළ-සමාගම-බවට-ටොයෝටා-පත්වෙයි/11-407800) · `si`
+
+තම සමාගම් සමූහය 2023 දීද ලෝකයේ වැඩිම වාහන ඒකක ගණනක් අලෙවි කළ සමාගම බවට අඛණ්ඩව සිව්වැනි වසරටත් පෙරමුණ ගෙන ඇති බව ජපානයේ ප්‍රමුඛ පෙලේ වාහන නිෂ්පාදන සමාගමක් වන ටොයෝටා සමාගම පවසයි.
+
+ටොයෝටා සමාගම 2023 වසරේදී ලොව පුරා මෝටර් වාහන ඒකක මිලියන 11.23ක් අලෙවි කර තිබේ. ටොයෝටා සමාගම යටතේ පවතින ඩයිහට්සු මෝටර් සමාගම සහ ට්‍රක් රථ නිෂ්පාදක හිනෝ සමාගම විසින්  නිපදවා අලෙවි කළ මෝටර් වාහන ඒකක ප්‍රමාණයද මෙම අගයට ඇතුළත් කර තිබේ.
+
+2022 වසර හා සැසදීමේදී ටොයෝටා සමාගම් සමූහයේ වාහන ඒකක අලෙවිය සියයට 7.2කින් ඉහළ ගොස් තිබේ. ජර්මනියේ වොක්ස් වැගන් සමාගම වාහන ඒකක මිලියන 9.24ක් අලෙවි කර ලෝකයේ දෙවැනි ස්ථානයට පත්ව තිබේ.
+
+ටොයෝටා සමාගම මීට පෙර වසරකදි අලෙවි කළ ඉහළම මෝටර් වාහන ඒකක ගණන වූයේ 2019 වසරේදී අලෙවි කළ වාහන ඒකක මිලියන 10.74යි.
+
+◼️
+
+[Data](articles/e1e1eb73.json)
 
 ---
 
@@ -1811,169 +1967,5 @@ Mullaitivu District Judge Dharmalingam Pradeepan had ordered the relatives to be
 [Data](articles/a16f6dd4.json)
 
 [Extended Data](ext_articles/a16f6dd4.ext.json)
-
----
-
-### Update: Paratroopers injured during Independence Day rehearsals
-
-*2024-01-30 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Update-Paratroopers-injured-during-Independence-Day-rehearsals/108-275965) · `en`
-
-Colombo, Jan 30 (Daily Mirror) - At least four paratroopers were injured when their parachutes failed to open properly during the Independence Day rehearsals being held at Galle Face Green.
-
-Army Spokesman Major General K.A.N. Rasika Kumara said two paratroopers landed on a building when their parachutes failed to open.
-
-It was reported that during a parachute rehearsal, two parachutes collided in the sky, resulting in an accident.
-
-Two paratroopers from the Sri Lanka Air Force and two paratroopers from the Army sustained injuries in the incident.
-
-According to hospital sources, two Sri Lanka Air Force (SLAF) paratroopers have been admitted to the Colombo National Hospital and are presently undergoing medical tests.
-
-◼️
-
-[Data](articles/56818886.json)
-
-[Extended Data](ext_articles/56818886.ext.json)
-
----
-
-### Paratrooper injured, two others land on building during Independence Day rehearsals
-
-*2024-01-30 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Paratrooper-injured-two-others-land-on-building-during-Independence-Day-rehearsals/108-275965) · `en`
-
-Colombo, Jan 30 (Daily Mirror) - A paratrooper was injured and two others landed on a building when their parachutes failed to open properly during the Independence Day rehearsals being held at Galle Face Green.
-
-Army Spokesman Major General K.A.N. Rasika Kumara said one paratrooper has been hospitalized, while efforts are underway to rescue the other two troopers.
-
-◼️
-
-[Data](articles/c00770ef.json)
-
-[Extended Data](ext_articles/c00770ef.ext.json)
-
----
-
-### (VIDEO) Military Skydivers Injured in Parachute Mishap
-
-*2024-01-30 11:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/video-military-skydivers-injured-in-parachute-mishap/) · `en`
-
-COLOMBO (News 1st); Two Sri Lankan military skydivers were injured today after their parachutes became entangled mid-air, causing them to crash land in Colombo.
-
-The incident occurred during rehearsals for the upcoming 76th Independence Day celebrations scheduled for February 4th.
-
-According to reports, he skydivers were part of a team performing a demonstration jump over Galle Face Green, a popular coastal park in Colombo.
-
-Their parachutes unexpectedly became entangled shortly after deployment, causing them to lose control and descend rapidly.
-
-Both skydivers were immediately rushed to a nearby hospital where they are receiving treatment for their injuries.
-
-PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Entering Certain Roads
-
-Imran Khan sentenced to 10 years in jail for leaking state secrets
-
-◼️
-
-[Data](articles/20333316.json)
-
-[Extended Data](ext_articles/20333316.ext.json)
-
----
-
-### Elon Musk’s Neuralink implants brain chip in first human
-
-*2024-01-30 11:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elon-Musks-Neuralink-implants-brain-chip-in-first-human/108-275964) · `en`
-
-Jan 30 (Reuters) - The first human patient has received an implant from brain-chip startup Neuralink on Sunday and is recovering well, the company's billionaire founder Elon Musk said.
-
-"Initial results show promising neuron spike detection," Musk said in a post on the social media platform X on Monday.
-
-Spikes are activity by neurons, which the National Institute of Health describes as cells that use electrical and chemical signals to send information around the brain and to the body.
-
-The U.S. Food and Drug Administration had given the company clearance last year to conduct its first trial to test its implant on humans, a critical milestone in the startup's ambitions to help patients overcome paralysis and a host of neurological conditions.
-
-In September, Neuralink said it received approval for recruitment for the human trial.
-
-...
-
-[Data](articles/1f26d97a.json)
-
-[Extended Data](ext_articles/1f26d97a.ext.json)
-
----
-
-### Late State Minister Sanath Nishantha’s wife to enter politics?
-
-*2024-01-30 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96842/late-state-minister-sanath-nishanthas-wife-to-enter-politics) · `en`
-
-The wife of late State Minister Sanath Nishantha says she would consider embarking on a political career to fill the void left by her recently deceased husband if a request is made.
-
-Attorney-at-Law Chamari Priyanka made these remarks while speaking to the media after visiting the bereaved family of the late lawmaker’s security officer who died in the fatal expressway accident on January 25.
-
-State Minister Sanath Nishantha and Constable Anuradha Jayakody suffered tragic deaths in a crash which took place in the early hours of January 25 on the Colombo - Katunayake expressway. Although the duo had been rushed to the Colombo North Teaching Hospital in Ragama, both were pronounced dead shortly after. The driver of the vehicle, however, survived the accident.
-
-...
-
-[Data](articles/2bc1a7ec.json)
-
-[Extended Data](ext_articles/2bc1a7ec.ext.json)
-
----
-
-### Toyota flips from the company
-
-*2024-01-30 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192730) · `si`
-
-Toyota Motor Company has been able to become the company's most motor vehicle vehicles in the world for the fourth year of the world.
-
-It was reported that the company had sold 11.2 million vehicles last year (2023).
-
-Last year, their sales revenues grew 7.2%.
-
-The Volkswage Group of Germany has been placed second with the sale of 9.2 million vehicles.
-
-◼️
-
-[Data](articles/7a3e082c.json)
-
-[Extended Data](ext_articles/7a3e082c.ext.json)
-
----
-
-### United People's Shakti - Ambika Sakthunanathan has appointed a consultant who denies war crimes
-
-*2024-01-30 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175121) · `ta`
-
-Former Commissioner of Human Rights Commission of Sri Lanka, Ambika Sakthunanathan, has criticized Twitter on Twitter that the United Nations has appointed a united power consultant as a consultant for war crimes.
-
-Ambika Sakthunanathan says that the party has appointed a person who denies the war crimes of the United People's Power and the use of the term "humanitarian actions" and that the party does not have war crimes during Sri Lanka's civil war, and that no one has to be held accountable.
-
-He added that all parties in South Sri Lanka have the same position on this issue.
-
-◼️
-
-[Data](articles/6cea6200.json)
-
-[Extended Data](ext_articles/6cea6200.ext.json)
-
----
-
-### Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
-
-*2024-01-30 10:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/hyde-park-panchikawatte-are-starting-points-for-sjb-s-big-colombo-protest/) · `en`
-
-COLOMBO (News 1st); Sri Lanka's main opposition party, Samagi Jana Balawegaya (SJB), is gearing up for a significant protest in Colombo today (30).
-
-The party aims to pressure the government into addressing pressing issues faced by the Sri Lankan people.
-
-SJB General Secretary and Member of Parliament, Ranjith Madduma Bandara, announced that the protest will commence at 1:30 pm from two separate locations: Hyde Park and Panchikawatta in Colombo.
-
-The two groups are expected to converge at a prominent location in the city, though the exact destination remains to be confirmed.
-
-In a significant development, the Colombo No. 04 Magistrate L. Manjula issued a court order today prohibiting opposition leader Sajith Premadasa, Samagi Jana Balawegaya general secretary Ranjith Madduma Bandara, and others from hindering traffic on several streets in the Maligawatta police jurisdiction.
-
-...
-
-[Data](articles/05f439bb.json)
-
-[Extended Data](ext_articles/05f439bb.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 08:32:41**
+As of **2024-01-30 08:49:52**
 
 ## Newspaper Stats
 
-*Scraped **3,414** Articles*
+*Scraped **3,416** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,52 @@ adalk | 313
 adaderanasinhalalk | 365
 virakesarilk | 369
 tamilmirrorlk | 425
-adaderanalk | 435
+adaderanalk | 437
 dailymirrorlk | 461
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,414 (100.0%) of 3,414 articles have been extended.
+3,414 (99.9%) of 3,416 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### Students surround administrative building of Kelaniya Uni
+
+*2024-01-30 07:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96838/students-surround-administrative-building-of-kelaniya-uni) · `en`
+
+A group of around 350 students have reportedly surrounded the administrative building of the Kelaniya University.
+
+The students had also held a protest blocking the Colombo-Kandy road last night (29) while police had resorted to using tear gas and water cannons in an attempt to disperse them.
+
+◼️
+
+[Data](articles/92077e60.json)
+
+---
+
+### Beliatta shooting: Two women arrested for aiding and abetting
+
+*2024-01-30 07:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96837/beliatta-shooting-two-women-arrested-for-aiding-and-abetting) · `en`
+
+Two more suspects, both females, have been arrested from the Rathgama area for allegedly aiding and abetting the suspects involved in the recent killing of five persons at Beliatta, police said.
+
+The two women were arrested following an operation carried out by a team of officers from the Hakmana Police Station in the Rathgama area yesterday morning (29).
+
+The Police Media Unit said the arrested suspects are aged 23 and 33 while they are residents of Boossa.
+
+Investigations have uncovered that the two firearms used in the shooting incident had been transported from Karapitiya to Boossa in a motorcycle belonging to one of these suspects after the crime was committed.
+
+On Jan.23, a group of persons who had arrived in an SUV had opened fire at a white Defender near the Beliatta Interchange of the Southern Expressway.
+
+...
+
+[Data](articles/6dc9dbdd.json)
+
+---
 
 ### Kelaniya University students round the administration building
 
@@ -1955,53 +1989,5 @@ He said the place where the protest and a public meeting would be held will be a
 [Data](articles/a97930db.json)
 
 [Extended Data](ext_articles/a97930db.ext.json)
-
----
-
-### BREAKING: Sri Lankan Fishermen Freed from Armed Group
-
-*2024-01-29 15:51:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/breaking-sri-lankan-fishermen-freed-from-armed-group/) · `en`
-
-COLOMBO (News 1st); Six Sri Lankan fishermen who were reportedly captured and detained by an armed group have been rescued.
-
-This was confirmed to News 1st by the Sri Lanka Navy, and the fishermen had set out to sea aboard the vessel named 'Lorenzo Putha 4'.
-
-The Navy Spokesperson said that the rescued Sri Lankan fishermen are being escorted to the capital of Seychelles.
-
-The Security Forces of Seychelles carried out a rescue operation following the intervention made by the Sri Lanka Navy.
-
-The Sri Lanka Navy noted that three members of the armed group had surrendered to the Seychelles Security Forces.
-
-The 'Lorenzo Putha 4' vessel had set out to sea from the Dikowita Fisheries Harbour on the 12th of January, marking its maiden voyage.
-
-The crew comprised six fishermen from Marawila, Chilaw, and three of them are from the same family.
-
-Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
-
-◼️
-
-[Data](articles/2c299b04.json)
-
-[Extended Data](ext_articles/2c299b04.ext.json)
-
----
-
-### General Daya Ratnayake joined Sajith
-
-*2024-01-29 15:46:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்துடன்-இணைந்தார்-ஜெனரல்-தயா-ரத்நாயக்க/175-332282) · `ta`
-
-Retired Sri Lankan Army General Daya Ratnayake has joined the main opposition party, United People's Power.
-
-The retired General has announced his support after meeting the opposition leader Sajith Premadasa today (29).
-
-During the meeting, Sajith Premadasa appointed Daya Ratnayake as senior adviser to the United People's Power Policy.
-
-Under the government of former President Gotabhaya Rajapakse, Daya Ratnayake served as the Chairman of the Sri Lanka Ports Authority and the Secretary to the Ministry of Industry.
-
-◼️
-
-[Data](articles/70702cdb.json)
-
-[Extended Data](ext_articles/70702cdb.ext.json)
 
 ---

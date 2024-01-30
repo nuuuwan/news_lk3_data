@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 19:50:09**
+As of **2024-01-30 20:02:18**
 
 ## Newspaper Stats
 
-*Scraped **3,593** Articles*
+*Scraped **3,599** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,18 +15,18 @@ economynextcom | 193
 islandlk | 198
 newsfirstlk | 216
 dailyftlk | 233
-adalk | 326
+adalk | 328
 virakesarilk | 395
 adaderanasinhalalk | 398
-tamilmirrorlk | 454
+tamilmirrorlk | 457
 adaderanalk | 459
-dailymirrorlk | 488
+dailymirrorlk | 489
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,593 (100.0%) of 3,593 articles have been extended.
+3,593 (99.8%) of 3,599 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -43,6 +43,60 @@ Two foreign people were killed in a motorcycle while collision with a motorcycle
 [Data](articles/ad26ec1f.json)
 
 [Extended Data](ext_articles/ad26ec1f.ext.json)
+
+---
+
+### තවත් 10000කට ජපන් භාෂා දොර ඇරෙයි
+
+*2024-01-30 18:50:56* · [`adalk`](https://www.ada.lk/breaking_news/තවත්-10000කට-ජපන්-භාෂා-දොර-ඇරෙයි/11-407803) · `si`
+
+“අලුත් ගමක් අලුත් රටක් ව්‍යවසායක රාජ්‍යයක්” යන සංකල්පය යටතේ දිළිඳු සහ අන්ත දිළිඳු පවුල් අතරින් ලක්ෂ 12ක් සවිබල ගැන්වීමට අපේක්ෂා කරන බව සමාජ සවිබලගැන්වීම් රාජ්‍ය අමාත්‍ය අනුප පස්කුවල් මහතා පැවසීය.
+
+එසේම ජපන් භාෂා ප්‍රවීණතා විභාගය සමත්වූවන් 10,000ක් විදේශගත කිරීම සිදු කරන බව ද තවත් විදේශ රැකියා ලක්ෂයක් මෙම වසරේ ලබාදීමට සැලසුම් කරන බව ද රාජ්‍ය අමාත්‍යවරයා සඳහන් කළේය.
+
+සමාජ සවිබලගැන්වීම් රාජ්‍ය අමාත්‍ය අනුප පස්කුවල් මහතා මේ බව සඳහන් කර සිටියේ ‘ස්ථාවර රටකට සැවොම එක මඟකට’ මැයෙන් අද (30) ජනාධිපති මාධ්‍ය කේන්ද්‍රයේ පැවති ප්‍රවෘත්ති සාකච්ඡාවට එක්වෙමිනි.
+
+එහිදී වැඩිදුරටත් අදහස් දැක් වූ සමාජ සවිබලගැන්වීම් රාජ්‍ය අමාත්‍ය අනුප පස්කුවල් මහතා මෙසේ ද පැවසීය,
+
+මෙම වසරේ අපට තිබෙන ප්‍රධානම කාර්යය වන්නේ, අස්වැසුම නම් වූ සමාජ ආරක්ෂණ ක්‍රමවේදය ලක්ෂ විස්සක් වන ප්‍රතිලාභීන්ට ලබාදීමයි. “අලුත් ගමක් අලුත් රටක් ව්‍යවසායක රාජ්‍යයක්” යන සංකල්පය යටතේ දිළිඳු සහ අන්ත දිළිඳු පවුල් අතරින් ලක්ෂ 12ක් සවිබල ගැන්වීමට ද අපේක්ෂා කරනවා. එයින් ලක්ෂ 03ක් සවිබල ගැන්වීම මෙම වසර තුළ සිදු කරනවා.
+
+...
+
+[Data](articles/b4f7f1a9.json)
+
+---
+
+### Air ambulance service between Maldives-Sri Lanka to begin on March 01
+
+*2024-01-30 18:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Air-ambulance-service-between-Maldives-Sri-Lanka-to-begin-on-March-01/108-275991) · `en`
+
+Colombo, Jan 30 (Daily Mirror) - An air ambulance service between the Maldives and the Bandaranaike International Airport (BIA) will start on March 1 this year as part of Phase I of the programme, Ports, Shipping and Aviation Minister Nimal Siripala de Silva said.
+
+The announcement was made following a special meeting between the Maldives Transport and Aviation Services Minister Capt. Mohamed Ameen and Minister Nimal Siripala de Silva at the Ministry office today with the aim of initiating an air ambulance service between the two countries.
+
+The service will enable Maldivian citizens to arrive promptly in Sri Lanka for urgent medical treatment in cases of accidents, illnesses and other health emergencies. Previously, Maldivian citizens were transported to India for emergency medical care.
+
+...
+
+[Data](articles/d0aa9cf4.json)
+
+---
+
+### அதிவேக நெடுஞ்சாலைகளில்  குறைந்தபட்ச வேக வரம்பு;பந்துல
+
+*2024-01-30 18:44:03* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலைகளில்-குறைந்தபட்ச-வேக-வரம்பு-பந்துல/175-332365) · `ta`
+
+மெதுவாக செல்லும் வாகனங்களால் விபத்துக்கள் ஏற்படுவதால் அதிவேக நெடுஞ்சாலைகளில் குறைந்தபட்ச வேக வரம்புகளை விதிக்க நடவடிக்கை எடுக்கப்பட்டு வருவதாக போக்குவரத்து அமைச்சர் பந்துல குணவர்தன இன்று தெரிவித்தார்.
+
+அதிகபட்ச வேக வரம்பு மணிக்கு 100 கிலோமீட்டர் என விதிக்கப்பட்டிருந்தாலும், குறைந்தபட்ச வேகம் இன்னும் விதிக்கப்படவில்லை என்று வாராந்த அமைச்சரவை முடிவுகளை அறிவிக்கும்   ஊடகவியலாளர் சந்திப்பில் கூறினார்.
+
+மெதுவாக செல்லும் வாகனங்களை முந்திச் செல்லும்போது பெரும்பாலான விபத்துகள் ஏற்படுவதாகவும், இதுபோன்ற விபத்துகளைத் தடுக்க குறைந்தபட்ச வேக வரம்பை நிர்ணயிப்பது முக்கியம் என்றும் அவர் கூறினார்.
+
+அதிவேக நெடுஞ்சாலைகளில் ஏற்படும் விபத்துக்கள் தொடர்பாக துறைசார் நிபுணர்கள் மற்றும் பொலிஸ் போன்ற தொடர்புடைய நிறுவனங்களுடன் கலந்துரையாடல் நடத்தப்பட்டதாகவும், புதிய விதிகள் மற்றும் விதிமுறைகள் இரண்டு வாரங்களுக்குள் வர்த்தமானி அறிவித்தலில் வெளியிடப்படும் என்றும் அமைச்சர் மேலும் கூறினார்.
+
+◼️
+
+[Data](articles/6ca983d6.json)
 
 ---
 
@@ -88,6 +142,22 @@ Police used water cannons and tear gas to disperse Samagi Jana Bala Wegaya (SJB)
 
 ---
 
+### மின்கட்டணம் செலுத்துவோருக்கு விஷேட செய்தி
+
+*2024-01-30 18:25:23* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மின்கட்டணம்-செலுத்துவோருக்கு-விஷேட-செய்தி/175-332364) · `ta`
+
+மின்சார பாவனையாளர்கள் புதிய தொழில்நுட்பத்திற்கு ஏற்றவாறு மின்சார கட்டணத்தை செலுத்துவதற்கான பல வழிமுறைகளை இலங்கை மின்சார சபை அறிமுகப்படுத்தியுள்ளது.
+
+அதன்படி, CEBCare மொபைல் செயலி ஊடாகவும், இணைய வங்கிச் சேவைகள் ஊடாகவும், CEB இணையத்தளத்தின் ஊடாகவும், தபால் அலுவலகம், CEB மற்றும் வங்கி KIOSK இயந்திரங்கள், Cargills, Keel's போன்ற பல்பொருள் அங்காடிகள் மற்றும் mCash மூலமாகவும் மின் கட்டணங்களைச் செலுத்தும் வசதி பாவனையாளர்களுக்கு ஏற்படுத்தி கொடுக்கப்பட்டுள்ளது.
+
+மின்சார கட்டணங்கள் தொடர்பில் எழும் பிரச்சினைகள் தொடர்பில் மின்சார சபை அழைப்பு நிலைய இலக்கமான 1987 இற்கு  அறிவிக்குமாறு கோரப்பட்டுள்ளது. R
+
+◼️
+
+[Data](articles/26f6c44c.json)
+
+---
+
 ### Sajith national hospital
 
 *2024-01-30 18:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192753) · `si`
@@ -101,6 +171,26 @@ Former Parliamentarian Mujibur Rahman was also hospitalized due to illness.
 [Data](articles/f01fe5ba.json)
 
 [Extended Data](ext_articles/f01fe5ba.ext.json)
+
+---
+
+### அழகான இரு பெண்களிடம் பாலியல் சேஷ்டை: மூவருக்கும் பிணை
+
+*2024-01-30 18:19:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அழகான-இரு-பெண்களிடம்-பாலியல்-சேஷ்டை-மூவருக்கும்-பிணை/175-332363) · `ta`
+
+இரண்டு அழகான பணிப்பெண்கள் பாலியல் வன்கொடுமைக்கு உட்படுத்தப்பட்ட சம்பவம் தொடர்பில் கைது செய்யப்பட்ட, பாராளுமன்றத்தின் வீட்டு பராமரிப்பு திணைக்களத்தின் மூன்று இளநிலை ஊழியர்களும் பிணையில் விடுவிக்கப்பட்டனர்.
+
+பாராளுமன்ற  கனிஷ்ட ஊழியர் மூவரையும் தலா ஒரு இலட்சம் ரூபா பெறுமதியான இரண்டு சரீரப் பிணைகளில் விடுவிக்குமாறு கடுவல நீதவான் சனிமா விஜேபண்டார செவ்வாய்க்கிழமை (30) உத்தரவிட்டுள்ளார்.
+
+பொலிஸ் சிறுவர் மற்றும் மகளிர் பணியகத்தின் விசாரணையின் பின்னர், பாராளுமன்றத்தில் பணியாற்றிய இளைய ஊழியர்களான மூவர் சந்தேகத்தின் பேரில் செவ்வாய்க்கிழமை (30) கைது செய்யப்பட்டனர்.
+
+கடந்த 2022ஆம் ஆண்டு பாலியல் துன்புறுத்தல் நடந்ததாகவும், பாலியல் துன்புறுத்தல் நடந்து சுமார் ஒரு வருடத்திற்குப் பிறகு இது தொடர்பான முறைப்பாடு பொலிஸாரிடம் அளிக்கப்பட்டதாகவும் நீதிமன்றத்தில் தெரிவிக்கப்பட்டது.
+
+எவ்வாறாயினும், சம்பவம் தொடர்பில் மேலதிக விசாரணைகளை மேற்கொண்டு நீதிமன்றில் அறிக்கை சமர்ப்பிக்குமாறு பொலிஸ் சிறுவர் மற்றும் மகளிர் பணியகத்துக்கு நீதவான் உத்தரவிட்டார்.
+
+◼️
+
+[Data](articles/a17824cb.json)
 
 ---
 
@@ -891,6 +981,20 @@ The court has issued an interim injunction for three years in prison in the priz
 [Data](articles/5bf4e85c.json)
 
 [Extended Data](ext_articles/5bf4e85c.ext.json)
+
+---
+
+### ලබන සඳුදා කොටස් වෙළඳපොලට නිවාඩු
+
+*2024-01-30 14:04:46* · [`adalk`](https://www.ada.lk/breaking_news/ලබන-සඳුදා-කොටස්-වෙළඳපොලට-නිවාඩු/11-407802) · `si`
+
+එළඹෙන පෙබරවාරි 05 වෙනි සඳුදා දිනය කොළඹ කොටස් වෙළෙඳපොළ නිවාඩු දිනයක් ලෙසින් ප්‍රකාශයට පත් කර තිබේ.
+
+නිදහස් දිනය යෙදී ඇති පෙබරවාරි 04 වන දින ඉරිදා දිනයක් වන බැවින් මෙලෙස පෙබරවාරි 05 වන සඳුදා දිනය කොටස් වෙළෙඳපොළ අතිරේක නිවාඩු දිනයක් ලෙසින් ප්‍රකාශයට පත් කර ඇත.
+
+◼️
+
+[Data](articles/2df2dd4c.json)
 
 ---
 
@@ -1869,115 +1973,5 @@ Sri Lanka also gets remittances which are exports of labour. (Colombo/Jan29/2023
 [Data](articles/fd6f657e.json)
 
 [Extended Data](ext_articles/fd6f657e.ext.json)
-
----
-
-### Parachute danger in free rehearsal
-
-*2024-01-30 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192733) · `si`
-
-Four security personnel who participated in the independent rehearsal day have been taken to the ground during the patronage of the parachute show.
-
-Two parachutes took place in the sky during the parachute rehearsal and two parachutemen and two Parachutes were in danger.
-
-◼️
-
-[Data](articles/6aa5fc56.json)
-
-[Extended Data](ext_articles/6aa5fc56.ext.json)
-
----
-
-### CEB makes bill payments more convenient
-
-*2024-01-30 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96845/ceb-makes-bill-payments-more-convenient-) · `en`
-
-The Ceylon Electricity Board (CEB) has introduced several new methods for consumers to pay their electricity bills in a more efficient manner.
-
-As such, CEB consumers are now able to pay their bills via the CEBCare mobile app, the official CEB website, online banking services, CEB or bank kiosk machines or at any post office, or through mCash at any Cargills or Keells supermarkets.
-
-Issuing a statement, the CEB urged consumers to dial the ‘1987’ CEB hotline in relation to any issues that may arise when settling their bills.
-
-◼️
-
-[Data](articles/ba168a87.json)
-
-[Extended Data](ext_articles/ba168a87.ext.json)
-
----
-
-### (VIDEO) Three Injured in Sri Lanka Parachute Mishap, Emergency Landings at Galle Face
-
-*2024-01-30 11:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/video-three-injured-in-sri-lanka-parachute-mishap-emergency-landings-at-galle-face/) · `en`
-
-COLOMBO (News 1st): Independence Day celebrations in Sri Lanka were marred as parachutes collided during rehearsals at Galle Face Green, forcing three military personnel to make emergency landings.
-
-According to Major General Rasika Kumara, the military media spokesman, the incident occurred when parachutes of the skydivers entangled.
-
-He said that two skydivers managed to make an emergency landing on the roof of a nearby building, while the other landed on Galle Face Green.
-
-All three personnel were promptly taken to the nearest hospital for medical evaluation.
-
-While one has been admitted to the army hospital for further observation, the other two were admitted to the Colombo National Hospital.
-
-PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Entering Certain Roads
-
-Imran Khan sentenced to 10 years in jail for leaking state secrets
-
-◼️
-
-[Data](articles/35c6c31d.json)
-
-[Extended Data](ext_articles/35c6c31d.ext.json)
-
----
-
-### Police in Sri Lanka's list of corrupt corruption: MPs in second place ..!
-
-*2024-01-30 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175124) · `ta`
-
-The Sri Lankan Police Department is seen as the most involved in bribery activities in Sri Lanka, according to a study at Peradeniya University.. It is not surprising that the people who have been involved in the high service to protect the country's law and order.. Similarly. They are elected by the people and are a member of Parliament who are many concessions. It has been pointed out that they are corrupt. These issues have been revealed based on information that two professors of the University of Peradeniya University of Economics have accumulated on the Internet.
-
-◼️
-
-[Data](articles/8d810601.json)
-
-[Extended Data](ext_articles/8d810601.ext.json)
-
----
-
-### Opposition demonstration in Colombo: Video
-
-*2024-01-30 11:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-கொழும்பில்-எதிர்ப்பு-ஆர்ப்பாட்டம்-ஆரம்பம்-காணொளி/175-332333) · `ta`
-
-The United People's Power has staged a protest in Colombo today (30).
-
-A protest has been launched demanding the government to address the problems faced by the people.
-
-The protests have begun at the Hyde Park Ground in Colombo and Panjikawatte today (30) at 2.00 pm.
-
-◼️
-
-[Data](articles/1adb8821.json)
-
-[Extended Data](ext_articles/1adb8821.ext.json)
-
----
-
-### Opposition demonstration in Colombo
-
-*2024-01-30 11:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-கொழும்பில்-எதிர்ப்பு-ஆர்ப்பாட்டம்/175-332333) · `ta`
-
-The United People's Power will launch a protest in Colombo today (30).
-
-A protest will be held on the urging the government to address the problems faced by the people.
-
-United People's Power Secretary Ranjith Mathuma Bandara has said that the protest will commence at 1.30 pm today at the Hyde Park Ground in Colombo and Panjikawatte.
-
-◼️
-
-[Data](articles/e5ac2b16.json)
-
-[Extended Data](ext_articles/e5ac2b16.ext.json)
 
 ---

@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 15:17:15**
+As of **2024-01-30 15:33:03**
 
 ## Newspaper Stats
 
-*Scraped **3,539** Articles*
+*Scraped **3,542** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 46
-bbccomsinhala | 59
+bbccomsinhala | 60
 dbsjeyarajcom | 127
 economynextcom | 193
 islandlk | 197
@@ -17,7 +17,7 @@ newsfirstlk | 211
 dailyftlk | 233
 adalk | 322
 adaderanasinhalalk | 385
-virakesarilk | 388
+virakesarilk | 390
 tamilmirrorlk | 448
 adaderanalk | 452
 dailymirrorlk | 478
@@ -26,7 +26,7 @@ dailymirrorlk | 478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,533 (99.8%) of 3,539 articles have been extended.
+3,539 (99.9%) of 3,542 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -41,6 +41,26 @@ Traffic congestion is reported in Town Hall, Colombo, due to a protest march org
 ◼️
 
 [Data](articles/118d9f6e.json)
+
+[Extended Data](ext_articles/118d9f6e.ext.json)
+
+---
+
+### ஓய்வுபெற்ற அதிகாரிகள் சிலரின் செயற்பாடுகளின் விளைவுகள் எங்கள் தலைகளின் மீது சுமத்தப்பட்டுள்ளன - தேசிய வீடமைப்பு அபிவிருத்தி அதிகாரசபை தலைவர்
+
+*2024-01-30 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175150) · `ta`
+
+தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையினால் முன்னெடுக்கப்படும் அனைத்து அபிவிருத்தித் திட்டங்களையும் நடைமுறைப்படுத்துவதற்கு முன்னர் மாவட்ட ஒருங்கிணைப்புக் குழுக்களின் அனுமதியைப் பெறுவது கட்டாயம் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+
+இதுபோன்ற செயல்களைச் செய்வதன் மூலம் திட்டங்களை நிறைவேற்றுவதில் உள்ள சிக்கல்களைத் தவிர்க்கலாம் என்று அவர் வலியுறுத்துகிறார்.
+
+பத்தரமுல்ல வோட்டர்ஸ் எட்ஜ் நிறுவனத்தில் திங்கட்கிழமை (29) நடைபெற்ற தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையின் மாவட்ட முகாமையாளர்கள் மாநாட்டில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே அமைச்சர் பிரசன்ன ரணதுங்க மேற்கண்டவாறு தெரிவித்தார்.
+
+இதில் தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையின் அனைத்து மாவட்ட முகாமையாளர்கள் மற்றும் உயர் அதிகாரிகள் கலந்துகொண்டனர்.
+
+...
+
+[Data](articles/1ec529c5.json)
 
 ---
 
@@ -153,6 +173,22 @@ There have been concerns raised about giving projects to build renewable plants 
 [Data](articles/73e6763a.json)
 
 [Extended Data](ext_articles/73e6763a.ext.json)
+
+---
+
+### ஹரக்கட்டா  தொடர்பான நீதிமன்ற இடைக்கால உத்தரவு நீடிக்கப்பட்டது!
+
+*2024-01-30 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175151) · `ta`
+
+குற்றப் புலனாய்வுத் திணைக்களத்தின் தடுப்புக் காவலில் உள்ள  ஹரக்கட்ட எனப்படும் நந்துன் சிந்தக விக்ரமரத்னவை, தற்போது தடுத்து வைக்கப்பட்டுள்ள இடத்திலிருந்து வேறு இடத்துக்கு  அழைத்துச் செல்வதாயின்  நீதிமன்றத்துக்கு அறிவித்து அனுமதி பெற வேண்டும் என்ற இடைக்கால தடை உத்தரவு நீடிக்கப்பட்டுள்ளது.
+
+குறித்த இடைக்கால உத்தரவை மார்ச் 15 ஆம் திகதி வரை நீடிக்குமாறு மேன்முறையீட்டு நீதிமன்றம் இன்று செவ்வாய்க்கிழமை (30) உத்தரவிட்டுள்ளது.
+
+மேலும், மனு தொடர்பான ஆட்சேபனைகள் இருந்தால் பெப்ரவரி 22ஆம் திகதிக்குள்  தாக்கல் செய்யுமாறும் நீதிமன்றம் உத்தரவிட்டுள்ளது.  மனு மீதான விசாரணை மார்ச் 15 ஆம்  திகதிக்கு ஒத்திவைக்கப்பட்டது.
+
+◼️
+
+[Data](articles/0535e711.json)
 
 ---
 
@@ -698,21 +734,23 @@ The Director said that the fire will begin to work from next March.
 
 ---
 
-### ලංවිම විදුලි බිල්පත් ගෙවීමට ක්‍රම කිහිපයක්
+### Several ways to pay CEB bills
 
 *2024-01-30 12:21:20* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-විදුලි-බිල්පත්-ගෙවීමට-ක්‍රම-කිහිපයක්/11-407796) · `si`
 
-ලංකා විදුලිබල මණ්ඩලය විදුලි පාරිභෝගිකයන්ට සිය විදුලි බිල්පත් ගෙවීම සඳහා ක්‍රමවේදයන් කිහිපයක් හඳුන්වා දී ඇත.
+The Ceylon Electricity Board (CEB) has introduced several methodologies to pay their electrical bills.
 
-ඒ අනුව, CEBCare මොබයිල් ඇප්එක මඟින්, ඔන්ලයින් බැංකු සේවා මඟින්, ලංවිම වෙබ් අඩවිය ඔස්සේ, ඕනෑම ශ්‍රී ලංකා තැපැල් කාර්යාලයක් මඟින්, ලංවිම සහ බැංකු KIOSK යන්ත්‍ර මඟින්, කාගීල්ස්, කීල්ස් ආදී සුපිරි වෙළඳසැල් වලින් මෙන්ම mCash මඟින් ද විදුලි බිලපත් ගෙවීමේ පහසුකම් රැසක් පාරිභෝගියන් වෙත හඳුන්වා දී ඇත.
+Accordingly, by the CEBCare mobile app, the CEB, CEB and Bank KIOSS, Kales, Supermarkets and MCash, Kolles, Kolles, and MCash through any Sri Lankan post office.Have been introduced.
 
-එමෙන්ම විදුලි බිල්පත් සම්බන්ධයෙන් පැනනැගෙන ගැටළු පිළිබඳව ලංවිම ඇමතුම් මධ්‍යස්ථාන අංකය වන 1987 වෙත යොමු කරන ලෙස කාරුණිකව දන්වා සිටිමි.
+I also informed the CEB calling for 1987 to arise and problems with electricity bills.
 
-ඉහත ඕනෑම ක්‍රමවේදයක් භාවිතා කරමින් ලංවිම විදුලි බිල්පත් නිසි කලට ගෙවමින් අඛණ්ඩ විදුලි සැපයුමකට දායක වන ලෙස ලංකා විදුලිබල මණ්ඩලය පාරිභෝගික ජනතාවගෙන් ඉල්ලා සිටි.
+The Ceylon Electricity Board (CEB) has requested the consumers to contribute to a continuous power supply using any of the above methods.
 
 ◼️
 
 [Data](articles/c685f91f.json)
+
+[Extended Data](ext_articles/c685f91f.ext.json)
 
 ---
 
@@ -1856,6 +1894,22 @@ The police said 527 drug suspects were among the individuals arrested during thi
 
 ---
 
+### නිදහස් දිනයේ පෙරහුරුව අතර සිදු වූ පැරිෂුට් අනතුර
+
+*2024-01-30 09:06:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxw7renkmy9o) · `si`
+
+මෙහි කිසිවක් අඩංගු නැත.Play video, "නිදහස් දිනයේ පෙරහුරුව අතර සිදු වූ පැරිෂුට් අනතුර", ධාවන කාලය 0,4500:45වීඩියෝ ශීර්ෂ වැකිය, නිදහස් දිනයේ පෙරහුරුව අතර සිදු වූ පැරිෂුට් අනතුර
+
+කොළඹ, ගාලු මුවදොර අද (ජනවාරි 30) පැවති නිදහස් දිනයේ පෙරහුරුවක් අතර සිදු වූ පැරිෂුට් අනතුරකින් ගුවන් හමුදාවේ සහ යුධ හමුදාවේ සාමාජිකයෝ සිව් දෙනෙකු තුවාල ලැබූහ.
+
+සුළං දිශාව වෙනස් වීම නිසා පැරිෂුට් පැටලීමෙන් මේ අනතුර සිදු වූ අතර පැරිෂුට් භටයින් සුළු තුවාල ලබා ඇතැයි ගුවන් හමුදා මාධ්‍ය ප්‍රකාශකවරයා පවසයි.
+
+◼️
+
+[Data](articles/f960ad4c.json)
+
+---
+
 ### Another 868 arrested with justice operation
 
 *2024-01-30 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192725) · `si`
@@ -1947,71 +2001,5 @@ Investigations revealed that one of the two women belonging to the shooting was 
 [Data](articles/11af428a.json)
 
 [Extended Data](ext_articles/11af428a.ext.json)
-
----
-
-### Students who blocked the administrative building
-
-*2024-01-30 08:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாக-கட்டிடத்தை-முற்றுகையிட்ட-மாணவர்கள்/175-332319) · `ta`
-
-Students of the University of Kelaniya staged a protest near the university last night (29).
-
-Subsequently, the police carried out a water and tear gas attack and dispersed the protest.
-
-Due to this struggle, the main road from Colombo to Kandy in front of the University of Kelaniya has been completely blocked.
-
-It is reported that a group of about 350 students at the University of Kelaniya are currently protesting against the university administration building.. Remble
-
-◼️
-
-[Data](articles/9ce637af.json)
-
-[Extended Data](ext_articles/9ce637af.ext.json)
-
----
-
-### President launches President's fight
-
-*2024-01-30 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192723) · `si`
-
-Under the theme of a "year of change," has taken steps to commence the opposition presidential election campaign in Colombo.
-
-Accordingly, a large number of people will be held today (30) in Colombo.
-
-They have been informed to attend the rally to the supporters of the island covering the island.
-
-Also, all the leaders of the party participate in the rally.
-
-◼️
-
-[Data](articles/6092ba9e.json)
-
-[Extended Data](ext_articles/6092ba9e.ext.json)
-
----
-
-### Announcement on A / L Agrology question paper
-
-*2024-01-30 08:32:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192722) · `si`
-
-A / L Agricultural Accessibility to the New Telephone Ministry The Department of Examinations says that the approval is available to sit for the new examination.
-
-The ticket has already been issued for the exams candidates and the ticket could be obtained only if it is not received.
-
-However, the Department of Examinations also stated that if the new question paper stands for the examination for the invalidation.
-
-The Department of Examinations has taken steps to revocate the question paper with information that the A / L worksper have been exited.
-
-Accordingly, the Department has taken steps to hold the first month as a special examination.
-
-The second part of the agrovada question will be held from 01.30th to 11.40 day.
-
-The commissioner Amit Jayasundara said that further information can be obtained from the Department of Examinations.
-
-◼️
-
-[Data](articles/8e270f4f.json)
-
-[Extended Data](ext_articles/8e270f4f.ext.json)
 
 ---

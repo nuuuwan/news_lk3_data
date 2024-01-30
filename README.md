@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 05:02:21**
+As of **2024-01-31 05:17:15**
 
 ## Newspaper Stats
 
-*Scraped **3,659** Articles*
+*Scraped **3,660** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 46
+colombotelegraphcom | 47
 bbccomsinhala | 61
 dbsjeyarajcom | 127
 islandlk | 198
@@ -26,7 +26,7 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,659 (100.0%) of 3,659 articles have been extended.
+3,659 (100.0%) of 3,660 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -299,6 +299,20 @@ Expressing its strong objections to the ‘hasty passage’ of the Bill on Janua
 [Data](articles/4c7fa2f4.json)
 
 [Extended Data](ext_articles/4c7fa2f4.ext.json)
+
+---
+
+### Trump’s Vanishing Odyssey
+
+*2024-01-30 23:19:40* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/trumps-vanishing-odyssey/) · `en`
+
+“A man who has been through bitter experiences and traveled far enjoys even his sufferings after a time.” ~Homer – Odyssey
+
+No US President, former or incumbent, has suffered the humiliation that Donald Trump, the 47th President of the United States of America, is going through now. As per Associated Press report dated May 9, 2023, ‘A jury, consisting of six men and three women, found Donald Trump liable on Tuesday (May 9) for sexually abusing advice columnist E. Jean Carroll in 1996, awarding her $5 million in a judgment that could haunt the former president as he campaigns to regain the White House’. It was further reported thus: The verdict was split: ‘Jurors rejected Carroll’s claim that she was raped, finding Trump responsible for a lesser degree of sexual abuse. The judgment adds to Trump’s legal woes and offers vindication to Carroll, whose allegations had been mocked and dismissed by Trump for years’.
+
+...
+
+[Data](articles/e2915e77.json)
 
 ---
 
@@ -2013,29 +2027,5 @@ Colombo, Jan 30 (Daily Mirror) - Heavy security has been provided around the Vih
 [Data](articles/81d26f05.json)
 
 [Extended Data](ext_articles/81d26f05.ext.json)
-
----
-
-### The consequences of some of the retired officials have been imposed on our heads - the Chairman of the National Housing Development Authority
-
-*2024-01-30 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175150) · `ta`
-
-Urban Development and Housing Minister Prasanna Ranatunga said that it is mandatory to obtain the permission of the District Coordinating Committees before implementing all the development projects carried out by the National Housing Development Authority.
-
-He emphasizes that by performing such activities, the problems in accomplishing projects can be avoided.
-
-Minister Prasanna Ranatunga made this statement while attending the District Managers Conference of the National Housing Development Authority held at the Voters Edge on Monday (29).
-
-All district managers and top officials of the National Housing Development Authority were present.
-
-The workshop was organized to review the progress of the National Housing Development Authority at the district level last year and discuss the goals and housing projects of the National Housing Development Authority this year.
-
-National Housing Development Authority Chairman Rajeev Suriyarachchi said the following.
-
-...
-
-[Data](articles/1ec529c5.json)
-
-[Extended Data](ext_articles/1ec529c5.ext.json)
 
 ---

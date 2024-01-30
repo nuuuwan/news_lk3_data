@@ -1,36 +1,62 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 12:02:28**
+As of **2024-01-30 12:17:23**
 
 ## Newspaper Stats
 
-*Scraped **3,459** Articles*
+*Scraped **3,476** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 46
-bbccomsinhala | 56
+bbccomsinhala | 58
 dbsjeyarajcom | 125
 economynextcom | 188
 islandlk | 196
-newsfirstlk | 203
+newsfirstlk | 211
 dailyftlk | 233
 adalk | 313
 virakesarilk | 372
-adaderanasinhalalk | 375
+adaderanasinhalalk | 378
 tamilmirrorlk | 440
 adaderanalk | 445
-dailymirrorlk | 467
+dailymirrorlk | 471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,459 (100.0%) of 3,459 articles have been extended.
+3,459 (99.5%) of 3,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### කැබිනට් මාධ්‍ය හමුව
+
+*2024-01-30 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192734) · `si`
+
+අමාත්‍ය මණ්ඩල තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව මේ වන විට ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ දී ආරම්භ කර තිබේ.
+
+◼️
+
+[Data](articles/9e41a01b.json)
+
+---
+
+### නිදහස් පෙරහුරුවේ දී පැරෂුට් අනතුරක්
+
+*2024-01-30 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192733) · `si`
+
+නිදහස් දින පෙරහුරුව සඳහා සහභාගී වූ ආරක්ෂක අංශ සාමාජිකයින් සිව්දෙනෙකු පැරෂුට් සංදර්ශනයේ පෙරහුරුව අතරතුරදී බිමට ඇදවැටී රෝහල් ගතකර තිබේ.
+
+පැරෂුට් පෙරහුරුව අතරතුර ඉහළ අහසේදී පැරෂුට් දෙකක් එකිනෙක පැටලී අනතුර සිදුව ඇති අතර අනතුරට ලක්ව ඇත්තේ ශ්‍රී ලංකා ගුවන් හමුදාවේ පැරෂුට් භටයින් දෙදෙනෙක් සහ යුද හමුදාවේ පැරෂුට් භටයින් දෙදෙනෙක් බව වාර්තා වේ.
+
+◼️
+
+[Data](articles/6aa5fc56.json)
+
+---
 
 ### CEB makes bill payments more convenient
 
@@ -47,6 +73,30 @@ Issuing a statement, the CEB urged consumers to dial the ‘1987’ CEB hotline 
 [Data](articles/ba168a87.json)
 
 [Extended Data](ext_articles/ba168a87.ext.json)
+
+---
+
+### (VIDEO) Three Injured in Sri Lanka Parachute Mishap, Emergency Landings at Galle Face
+
+*2024-01-30 11:35:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/video-three-injured-in-sri-lanka-parachute-mishap-emergency-landings-at-galle-face/) · `en`
+
+COLOMBO (News 1st): Independence Day celebrations in Sri Lanka were marred as parachutes collided during rehearsals at Galle Face Green, forcing three military personnel to make emergency landings.
+
+According to Major General Rasika Kumara, the military media spokesman, the incident occurred when parachutes of the skydivers entangled.
+
+He said that two skydivers managed to make an emergency landing on the roof of a nearby building, while the other landed on Galle Face Green.
+
+All three personnel were promptly taken to the nearest hospital for medical evaluation.
+
+While one has been admitted to the army hospital for further observation, the other two were admitted to the Colombo National Hospital.
+
+(VIDEO) Three Injured in Sri Lanka Parachute Mishap, Emergency Landings at Galle Face
+
+Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
+
+◼️
+
+[Data](articles/35c6c31d.json)
 
 ---
 
@@ -92,6 +142,80 @@ All SJB leaders, together with its allies, are expected to participate in the ra
 
 ---
 
+### සජබ රැළියට අධිකරණ නියෝගයක්
+
+*2024-01-30 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192731) · `si`
+
+අද (30) දින කොළඹදී පැවැත්වීමට නියමිතව තිබූ සමගි ජන බලවේගයේ ජන රැළියට අධිකරණයෙන් නියෝගයක් නිකුත් කර තිබේ.
+
+ඒ අනුව එම පක්ෂයේ නායක සජිත් ප්‍රේමදාස, පක්ෂ ලේකම් රංජිත් මද්දුම බණ්ඩාර, මැද කොළඹ ප්‍රධාන සංවිධායක මුජිබර් රහුමාන්, මැද කොළඹ සංවිධායක අප්සරා අමරසිංහ, සමගි ජන බලවේග ක්‍රියාකාරී සමාජිකයින් සහ ක්‍රියාකාරී කාන්තා සංවිධාන ඇතුළු රැළියට සහභාගී වන සියලු සාමාජිකයින් වෙත කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය විසින් අදාළ නියෝගය නික්තු කර ඇත.
+
+ඒ අනුව ඉහත වගඋත්තරකරුවන්ට හා ඔවුන්ගේ අනුගාමිකයින්ට මාලිගාවත්ත පොලිස් වසමේ මුස්ලිම් කනත්ත අසල සිට ප්‍රදිපා මාවත, ජයන්ත වීරසේකර මාවත, මිල්ටන් පෙරේරා මාවත හා ජුම්මා හන්දිය හරහා සංඝරාජ වටරවුම ඔස්සේ සංඝරාජ මාවත භාවිත කරන පුද්ගලයින්ට අවහිර වන ලෙස ගමන් කිරීම තහනම් වේ.
+
+◼️
+
+[Data](articles/1baf184e.json)
+
+---
+
+### Paratrooper injured, two others land on building during Independence Day rehearsals
+
+*2024-01-30 11:17:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Paratrooper-injured-two-others-land-on-building-during-Independence-Day-rehearsals/108-275965) · `en`
+
+Colombo, Jan 30 (Daily Mirror) - A paratrooper was injured and two others landed on a building when their parachutes failed to open properly during the Independence Day rehearsals being held at Galle Face Green.
+
+Army Spokesman Major General K.A.N. Rasika Kumara said one paratrooper has been hospitalized, while efforts are underway to rescue the other two troopers.
+
+◼️
+
+[Data](articles/c00770ef.json)
+
+---
+
+### (VIDEO) Military Skydivers Injured in Parachute Mishap
+
+*2024-01-30 11:08:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/video-military-skydivers-injured-in-parachute-mishap/) · `en`
+
+COLOMBO (News 1st); Two Sri Lankan military skydivers were injured today after their parachutes became entangled mid-air, causing them to crash land in Colombo.
+
+The incident occurred during rehearsals for the upcoming 76th Independence Day celebrations scheduled for February 4th.
+
+According to reports, he skydivers were part of a team performing a demonstration jump over Galle Face Green, a popular coastal park in Colombo.
+
+Their parachutes unexpectedly became entangled shortly after deployment, causing them to lose control and descend rapidly.
+
+Both skydivers were immediately rushed to a nearby hospital where they are receiving treatment for their injuries.
+
+(VIDEO) Three Injured in Sri Lanka Parachute Mishap, Emergency Landings at Galle Face
+
+Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
+
+◼️
+
+[Data](articles/20333316.json)
+
+---
+
+### Elon Musk’s Neuralink implants brain chip in first human
+
+*2024-01-30 11:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Elon-Musks-Neuralink-implants-brain-chip-in-first-human/108-275964) · `en`
+
+Jan 30 (Reuters) - The first human patient has received an implant from brain-chip startup Neuralink on Sunday and is recovering well, the company's billionaire founder Elon Musk said.
+
+"Initial results show promising neuron spike detection," Musk said in a post on the social media platform X on Monday.
+
+Spikes are activity by neurons, which the National Institute of Health describes as cells that use electrical and chemical signals to send information around the brain and to the body.
+
+The U.S. Food and Drug Administration had given the company clearance last year to conduct its first trial to test its implant on humans, a critical milestone in the startup's ambitions to help patients overcome paralysis and a host of neurological conditions.
+
+In September, Neuralink said it received approval for recruitment for the human trial.
+
+...
+
+[Data](articles/1f26d97a.json)
+
+---
+
 ### Late State Minister Sanath Nishantha’s wife to enter politics?
 
 *2024-01-30 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96842/late-state-minister-sanath-nishanthas-wife-to-enter-politics) · `en`
@@ -127,6 +251,88 @@ The Volkswage Group of Germany has been placed second with the sale of 9.2 milli
 [Data](articles/7a3e082c.json)
 
 [Extended Data](ext_articles/7a3e082c.ext.json)
+
+---
+
+### Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
+
+*2024-01-30 10:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/hyde-park-panchikawatte-are-starting-points-for-sjb-s-big-colombo-protest/) · `en`
+
+COLOMBO (News 1st); Sri Lanka's main opposition party, Samagi Jana Balawegaya (SJB), is gearing up for a significant protest in Colombo today (30).
+
+The party aims to pressure the government into addressing pressing issues faced by the Sri Lankan people.
+
+SJB General Secretary and Member of Parliament, Ranjith Madduma Bandara, announced that the protest will commence at 1:30 pm from two separate locations: Hyde Park and Panchikawatta in Colombo.
+
+The two groups are expected to converge at a prominent location in the city, though the exact destination remains to be confirmed.
+
+In a significant development, the Colombo No. 04 Magistrate L. Manjula issued a court order today prohibiting opposition leader Sajith Premadasa, Samagi Jana Balawegaya general secretary Ranjith Madduma Bandara, and others from hindering traffic on several streets in the Maligawatta police jurisdiction.
+
+...
+
+[Data](articles/05f439bb.json)
+
+---
+
+### Two women arrested for aiding Beliatta shootings
+
+*2024-01-30 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-women-arrested-for-aiding-Beliatta-shootings/108-275963) · `en`
+
+Hakmana, Jan 30 (Daily Mirror) - Two woman have been arrested on charges of aiding and abetting those involved in the recent shooting incident in Beliatta where five persons were killed.
+
+Police said the suspects were arrested at Rathgama by the Hakmana Police.
+
+Investigations have revealed that after the incident the firearms used in the shooting had been transported from Karapitiya to Boossa on a motorcycle belonging to one of the suspects.
+
+The suspects, aged 23 and 33 were identified as residents of Boossa.
+
+On Jan. 23, a group of persons who had arrived in a jeep had opened fire at a white Defender near the Beliatta Interchange of the Southern Expressway killing five persons, including the leader of the Ape Jana Bala Party Saman Perera.
+
+Earlier, the police arrested four persons in connection with the shooting.
+
+◼️
+
+[Data](articles/cd5d9f99.json)
+
+---
+
+### 50-year rigorous imprisonment for rape, grave sexual abuse of brother’s daughter
+
+*2024-01-30 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/50-year-rigorous-imprisonment-for-rape-grave-sexual-abuse-of-brothers-daughter/108-275962) · `en`
+
+Kandy, Jan 30 (Daily Mirror) - An accused who stood indicted with rape and grave sexual abuse of his younger brother’s ten-year-old daughter was found guilty and sentenced to 50 years of rigorous imprisonment by Kandy High Court Judge W. Darshika Wimalasiri.
+
+The judge sentenced the accused, who stood indicted under three counts, for 20 years rigorous imprisonment under the first two counts each and ten years rigorous imprisonment under the third, amounting to an aggregate of 50 years. The judge ordered that the sentences be served concurrently in 20 years.
+
+He was fined Rs.15,000 under each count and ordered to pay Rs. 01 million as compensation to the victim and sentenced to a further six months imprisonment in default of the fines and two years imprisonment in default of the compensation payment
+
+The accused was a resident of Mahamulgama in Kandy and the elder brother of the victim’s father.
+
+The Attorney General had indicted him for rape and causing serious abnormal sex abuse.
+
+...
+
+[Data](articles/4485f99e.json)
+
+---
+
+### Court Blocks Opposition’s Protest Route in Colombo
+
+*2024-01-30 10:49:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/court-blocks-opposition-s-protest-route-in-colombo/) · `en`
+
+COLOMBO (News 1st); The Colombo No. 04 Magistrate L. Manjula issued a court order today prohibiting opposition leader Sajith Premadasa, Samagi Jana Balawegaya general secretary Ranjith Madduma Bandara, and others from hindering traffic on several streets in the Maligawatta police jurisdiction.
+
+The court order specifically bans blocking activities on Sangharaja Mawatha via Pradeepa Mawatha, Saddharma Mawatha, Jayantha Virasekara Mawatha, Milton Perera Mawatha, and Jumma Junction from the Maligawatte Muslim Burial Grouns.
+
+Sri Lanka's main opposition party, Samagi Jana Balawegaya (SJB), is gearing up for a significant protest in Colombo today (30).
+
+The party aims to pressure the government into addressing pressing issues faced by the Sri Lankan people.
+
+SJB General Secretary and Member of Parliament, Ranjith Madduma Bandara, announced that the protest will commence at 1:30 pm from two separate locations: Hyde Park and Panchikawatta in Colombo.
+
+...
+
+[Data](articles/76e3d835.json)
 
 ---
 
@@ -380,6 +586,26 @@ On January 08, the Cabinet of Ministers gave the approval to President Ranil Wi
 
 ---
 
+### Government Agencies Must Submit Annual Financials Before Feb 28.
+
+*2024-01-30 09:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/government-agencies-must-submit-annual-financials-before-feb-28/) · `en`
+
+COLOMBO (News 1st); All government agencies are required to submit their annual financial statements on or before February 28, announced Auditor General W. P. C. Wickramaratne.
+
+In a statement, Wickramaratne emphasized the importance of timely submission, stating that it allows for "three months of thorough audit activities" before the release of the Auditor General's summary report.
+
+This report, which will be published alongside the annual financial statement reports, is scheduled for issuance before May 31.
+
+(VIDEO) Three Injured in Sri Lanka Parachute Mishap, Emergency Landings at Galle Face
+
+Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
+
+◼️
+
+[Data](articles/7f4a00b7.json)
+
+---
+
 ### 31,000 drug pills;868 suspects arrested
 
 *2024-01-30 09:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/31-000-போதை-மாத்திரைகள்-868-சந்தேக-நபர்கள்-கைது/175-332322) · `ta`
@@ -418,6 +644,24 @@ India has been consistent that a solution to what is called ‘Tamil national qu
 
 ---
 
+### Police Arrest Two Women in Connection with Beliatte Quintuple Murder
+
+*2024-01-30 09:34:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/police-arrest-two-women-in-connection-with-beliatte-quintuple-murder/) · `en`
+
+COLOMBO (News 1st); Sri Lankan authorities have apprehended two women suspected of aiding and abetting in the brutal murders of five individuals in Beliatte last week. The gruesome crime sent shockwaves through the southern town, and the latest arrests mark progress in the ongoing investigation.
+
+Sri Lankan police apprehended the two suspects, aged 23 and 33, in the coastal town of Rathgama, located approximately 80 kilometers south of Colombo.
+
+According to police reports, one of the women's motorcycles was used to transport the two murder weapons from Karapitiya to a location in Boossa.
+
+Moreover, Sri Lanka Police launched an investigation into a 34-year-old man from Rathgama for allegedly aiding and abetting the assassination of five people in Beliatte, recently.
+
+...
+
+[Data](articles/e142595c.json)
+
+---
+
 ### Students Siege of Administrative Building of Kelaniya University
 
 *2024-01-30 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175109) · `ta`
@@ -435,6 +679,58 @@ Due to this struggle, the main road from Colombo to Kandy in front of the Univer
 [Data](articles/a5672600.json)
 
 [Extended Data](ext_articles/a5672600.ext.json)
+
+---
+
+### Operation Yukthiya Nets 868 Suspects in 24-Hour Sweep
+
+*2024-01-30 09:27:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/operation-yukthiya-nets-868-suspects-in-24-hour-sweep/) · `en`
+
+COLOMBO (News 1st);  Sri Lanka's Operation Yukthiya continues to crack down on crime, with authorities apprehending 868 suspects in the past 24 hours.
+
+The Ministry of Public Security reported significant progress, particularly in tackling drug offenses and apprehending wanted individuals.
+
+536 suspects, the majority of those arrested, were apprehended for drug-related offenses.
+
+Authorities seized substantial quantities of illegal narcotics, including 120 grams of heroin, 98 grams of methamphetamine (ice), and 123 kilograms of cannabis (ganja).
+
+Further investigations are underway on the detention orders of 3 suspects involved in drug cases.
+
+332 suspects were on the list sent to the criminal divisions, indicating successful apprehension of wanted individuals.
+
+(VIDEO) Three Injured in Sri Lanka Parachute Mishap, Emergency Landings at Galle Face
+
+Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
+
+◼️
+
+[Data](articles/771f8405.json)
+
+---
+
+### Kelaniya University Students Hold Ground After Tense Night
+
+*2024-01-30 09:23:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/kelaniya-university-students-hold-ground-after-tense-night/) · `en`
+
+COLOMBO (News 1st); Following a clash with police last night and ongoing occupation of the university administration building, Kelaniya University students have been offered a direct dialogue with the Vice-Chancellor to address their concerns.
+
+University administration confirmed the offer, stating that a discussion regarding student issues is scheduled for 1 pm.
+
+However, students remain inside the administration building for the time being.
+
+Campus security is informed and monitoring the situation, said the university administration.
+
+The tension stems from students protesting the President's planned visit to Kelaniya University today.
+
+Last night, Inter-University Student's Federation blocked the Kandy-bound lane of the Colombo-Kandy main road in protest, prompting police intervention.
+
+The students eventually dispersed after tear gas and water cannons were deployed.
+
+(VIDEO) Three Injured in Sri Lanka Parachute Mishap, Emergency Landings at Galle Face
+
+...
+
+[Data](articles/4ad87e28.json)
 
 ---
 
@@ -909,6 +1205,30 @@ To his dismay, a few days later, Mapalagama discovered that LECO had disconnecte
 [Data](articles/e2491c1a.json)
 
 [Extended Data](ext_articles/e2491c1a.ext.json)
+
+---
+
+### රිය අනතුරු: මිනිස් ජිවිතයකට හානියක් සිදුවිය හැකි මාරක වේගය කොපමණද ?
+
+*2024-01-30 05:19:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckkvddn2rl5o) · `si`
+
+රිය අනතුරු: මිනිස් ජිවිතයකට හානියක් සිදුවිය හැකි මාරක වේගය කොපමණද ?
+
+වාහන අධික වේගයෙන් ධාවනය කිරීම සහ මාරක රිය අනතුරු සම්බන්ධයෙන් පසුගිය දිනවලදී මෙරට සමාජය තුළ විශාල කතාබහක් විය.
+
+එයට හේතු වූ එක් ප්‍රධාන සිදුවීමක්  වුයේ පසුගිය ජනවාරි මස 25 වෙනිදා කොළඹ - කටුනායක අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත සහ ඔහුගේ ආරක්ෂක නිලධාරියා ජිවිතක්ෂයට පත්වීමේ සිදුවීමයි.
+
+එම අනතුර සිදු වී දිනකට පසුව එනම් පසුගිය ජනවාරි මස 26 වෙනිදා දක්ෂිණ අධිවේගී මාර්ගයේ දී සිදු වූ තවත් රිය අනතුරකින් ඕස්ට්‍රේලියානු ජාතිකයෙකු ජිවිතක්ෂයට පත්විය.
+
+එමෙන්ම ඉකුත් ජනවාරි මස 27 වෙනිදා නාරම්මල ප්‍රදේශයේ දී ත්‍රිරෝද රථයක් ලොරියක ගැටීමෙන් සිදුවූ රිය අනතුරකින් පුද්ගලයින්  තිදෙනෙකු ජිවිතක්ෂයට පත්විය.
+
+රිය අනතුරු සම්බන්ධයෙන් රියැදුරන් මෙන්ම සාමාන්‍ය ජනතාවගේ අවධානයට ලක්විය යුතු කරුණු පිළිබඳ බීබීසී සිංහල සේවය විසින් විශේෂඥ දැනුම සහිත පුද්ගලයින්ගෙන් තොරතුරු විමසීමක් සිදුකරන ලදී.
+
+බොහෝ රියැදුරන් තමන් ධාවනය කරන වාහනයේ තිබෙන වේග මාපකයේ පෙන්වා තිබෙන උපරිම වේගයට වාහනය ධාවනය කිරීමට උත්සුක වනවාදැයි ප්‍රශ්නාර්ථයක් සමාජයේ මතුව ඇත.
+
+...
+
+[Data](articles/c60f0758.json)
 
 ---
 
@@ -1657,343 +1977,5 @@ Horana Magistrate made the magisterial inquiry into the incident today (29).
 [Data](articles/7c46b083.json)
 
 [Extended Data](ext_articles/7c46b083.ext.json)
-
----
-
-### China will be like the source of the Faculty Backup Act - Hirunika
-
-*2024-01-29 20:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175098) · `ta`
-
-Former parliamentarian Hirunika Premachandra said that if social networking companies, Google and Yahoo can withdraw from serving Sri Lanka in opposition to the Celebration Act, we will have a situation like China.
-
-He further stated at a press conference held at the Opposition Leader's Office in Colombo on Monday (29).
-
-Social networking companies, Google and Yahoo should be able to think about what it will happen to Sri Lanka from providing service to Sri Lanka. Sri Lanka is like China.
-
-So young people should come forward to voice their voice against this. In the future, the younger generation will suffer greatly. The law is already in effect in the country regarding social websites. So there is no need to implement any new laws.
-
-Those arrested for allegedly reproaching religions including Buddhist Buddha are madmen. So it is a matter of not necessarily the mainstream of the main media. All of this is a drama that is being staged in the government's plan.
-
-...
-
-[Data](articles/249aa007.json)
-
-[Extended Data](ext_articles/249aa007.ext.json)
-
----
-
-### General Daya Ratnayake joined hands with United People's Power
-
-*2024-01-29 20:38:00* · [`virakesarilk`](https://www.virakesari.lk/article/175097) · `ta`
-
-Lieutenant General Daya Ratnayake, the 20th Commander of the Sri Lanka Army, who led the humanitarian work to defeat the war, met with opposition leader Sajith Premadasa on Monday (29).
-
-Opposition Leader Sajith Premadasa today appointed General Daya Ratnayake as Senior Advisor to the General Policy of the United People's Power.
-
-He was an alumnus of Maliyadeva College, Kurunegala for over 35 years (1980-2015).
-
-Gotabhaya Rajapakse has served as the Secretary to the Ministry of Industry in the Government of the President of the Ports Authority.
-
-He started his military career in 1980 and was appointed the second Lieutenant of the Sri Lankan infantry in 1981 after completing his basic training at the Sri Lanka Army Academy.
-
-Later in the Commando Officers Course, the Infantry Young Officers completed the Armed Force Cooperation Study for the Course and Regiment.
-
-He also served as the Commissioner General of the Rehabilitation Bureau for rehabilitation of 12,000 former LTTE members.
-
-...
-
-[Data](articles/476f3a08.json)
-
-[Extended Data](ext_articles/476f3a08.ext.json)
-
----
-
-### In 2025 a tax levy on the super richest
-
-*2024-01-29 20:36:19* · [`adalk`](https://www.ada.lk/breaking_news/2025දී-සුපිරි-ධනවතුන්ට-දේපළ-බද්දක්-පනවයි/11-407791) · `si`
-
-State Minister Ranjith Siyambalapitiya, Minister of Finance, said that a promotion tax would be taken to recover the percentage of new indirect taxes.
-
-"The people are hard. The hardest event is the hardest chance of passing a economic crisis. We had to levy taxes to increase state revenue. The people gained the weight. They want to give us delight. They burdened this weight.
-
-We will not be expecting the new indirect taxes. There is no expectation to increase the percentage of curves.
-
-We are trying to expand the direct tax basis and increase state revenue. We are trying to quickly hurry indirect tax deduction day.
-
-There is no truth to say that indirect taxes go rise. When the demand is increased, the supply of goods will be effective when the supply is reduced.
-
-We will charge a real estate tax in 2025. It's a very progressive step. Hope to charge a specific tax from those who have very high property.
-
-...
-
-[Data](articles/024faa59.json)
-
-[Extended Data](ext_articles/024faa59.ext.json)
-
----
-
-### Indian scholarship program does not include medicine and legal learning
-
-*2024-01-29 20:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175100) · `ta`
-
-The Indian High Commission in Colombo has requested applications for about 200 scholarships with full funding for Sri Lankan citizens.. The announcement was made last week.
-
-However, scholarship programs have not been announced that there are no medical, legal, paramedical and fashion design.
-
-The scholarship will be awarded to continue graduation from Indian educational institutions and universities.
-
-Accordingly, the scholarship will be awarded through the Nehru Memorial Scholarship Program for Engineering, Science, Commerce, Economics, Trade, Humanity and Arts from 2024 to 2025 and Moulana Azad Program for Masters Degree in Engineering, Science and Agriculture.
-
-◼️
-
-[Data](articles/2ddbed89.json)
-
-[Extended Data](ext_articles/2ddbed89.ext.json)
-
----
-
-### 'Independence Day' declares black day in the North and East
-
-*2024-01-29 20:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175101) · `ta`
-
-Sri Lanka's 76th Independence Day, which was 133 years of the Colonial Country of the British Empire, has been declared as 'Black Day' throughout the North and East.
-
-The Relatives Association of the Disappeared and the Jaffna University Students Union has announced that it will be declared a black day on February 4.
-
-Jaffna University Student Union President Q. Dwagaran said that no progress programs have been carried out for a permanent political solution for the Tamil people.
-
-“The rights of the Tamil people are violated. The existence has become questionable. Threats continue. The rulers and the rulers are changing. However, the permanent political solution for the Tamil people has not been carried out to date. It is just a meal. We are proclaiming the North and East as a black day. ”
-
-The student union leader further insisted that the Tamil people should continue to fight until the political solution is available.
-
-...
-
-[Data](articles/6421d1de.json)
-
-[Extended Data](ext_articles/6421d1de.ext.json)
-
----
-
-### Rice will not be imported - Minister Mahinda Amaraweera
-
-*2024-01-29 20:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175102) · `ta`
-
-Minister of State for Industry and Plantation and Plantation Industries Mahinda Amaraweera said that Sri Lanka is self -sufficient in the need for rice and is not expected to import rice in 2024.
-
-The Minister said that in 2024, Sri Lanka has decided to give priority to paddy, corn, potatoes and chilli crops.
-
-Minister of Communication and Plantation Industries Mahinda Amaraweera made this statement while addressing a media briefing held at the Presidential Media Center on Monday (29).
-
-“As a Ministry of Communication and Plantation Industries, we have launched a program towards the target of agriculture and plantation industry this year.
-
-In 2023, we spent about 22 billion rupees for financial subsidies for buying fertilizers in the country and in the country.. The government has also spent 13 billion rupees for the purchase of paddy.
-
-...
-
-[Data](articles/80a6de2d.json)
-
-[Extended Data](ext_articles/80a6de2d.ext.json)
-
----
-
-### The political movement that makes everything new - Anura Kumara
-
-*2024-01-29 20:30:00* · [`virakesarilk`](https://www.virakesari.lk/article/175104) · `ta`
-
-The leader of the National People's Power, Anura Kumara Dissanayake, said that there was no use of the regime change and that a new political movement that would take all sections of this country's economy, politics and society into one grip.
-
-He was speaking at the conference of the Armed Forces Federation of Armed Forces in the district of Matara on the 27th of this month.
-
-Politics has been hot. In the wake of the election, politics has never existed in Sri Lanka. Recently, the Sri Lankan people are politically awake. They are reaching the awareness political initiative.
-
-In October this year, the end of our country is the new government, the new regime. We have also contributed to all of us to make that new government and the new regime a national power of the people.
-
-...
-
-[Data](articles/c05c014b.json)
-
-[Extended Data](ext_articles/c05c014b.ext.json)
-
----
-
-### Chamara Hospital leaves
-
-*2024-01-29 20:18:57* · [`adalk`](https://www.ada.lk/breaking_news/චාමර-රෝහලෙන්-පිටව-යයි/11-407790) · `si`
-
-Popular singer Chamara Weerasinghe who was receiving treatment at the Colombo South Teaching Hospital has recovered and left the hospital.
-
-Chamara Weerasinghe spent 40 days under medical treatment for almost 40 days and he was admitted to the Kalubowila hospital in the area last month.
-
-He has been instructed to two surgeries and is well-received by doctors.
-
-◼️
-
-[Data](articles/8f573644.json)
-
-[Extended Data](ext_articles/8f573644.ext.json)
-
----
-
-### Piyage Sampasala arrested
-
-*2024-01-29 20:02:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192709) · `si`
-
-The Criminal Investigations Department has been arrested by the CID.
-
-According to a complaint filed by the Social Media Regulatory Act, he has arrived at the Colombo CID today.
-
-◼️
-
-[Data](articles/67ecd7ea.json)
-
-[Extended Data](ext_articles/67ecd7ea.ext.json)
-
----
-
-### Roshan appeared as intelligence
-
-*2024-01-29 20:00:16* · [`adalk`](https://www.ada.lk/breaking_news/විමල-බුද්ධි-ලෙස-පෙනී-සිටි-රොෂාන්ට-ඇප/11-407788) · `si`
-
-Colombo Chief Magistrate Prasanna Alwis was asserted on prior guarantee that the 'LTTE intelligence was released to the Internet of a dog that a dog was released to Buddhism.Onion (29) appointed.
-
-The magistrate insolve the suspect, saying that the videos of the Criminal Investigations of the Criminal Investigations or criticizing the investigation into the criminal investigations.
-
-The OIC of the Criminal Investigation Department (CID) OIC Inspector Eranda Vitbotuwawa was called for the complaint against the suspect in connection with the contempt of the incident regarding the complaint with the complaint.The suspect appeared in court.
-
-Senior Deputy Solicitor General Dileepa Peiris, who appeared with the Criminal Investigation Department officials on behalf of the complaint, he said it was using it as a terminal condition and released the slanderous videos.
-
-...
-
-[Data](articles/ffea7afd.json)
-
-[Extended Data](ext_articles/ffea7afd.ext.json)
-
----
-
-### Afghanistan name four uncapped players in squad for Sri Lanka
-
-*2024-01-29 20:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-name-four-uncapped-players-in-squad-for-Sri-Lanka/108-275926) · `en`
-
-Colombo, Jan 29 (ICC) - Senior Afghanistan spinner Rashid Khan will miss the one-off Test match against Sri Lanka as he continues to recover from a back surgery. Qais Ahmed, whose only Test came five years ago, has been named in the squad in place of Rashid.
-
-There are also four uncapped players in the squad, namely Noor Ali Zadran, Zia-ur-Rehman, Mohammad Ishaq and Naveed Zadran.
-
-Noor Ali, related to Mujeeb ur Rahman and Ibrahim Zadran, is the most experienced of the four with 74 international caps to his name in ODIs and T20Is. The 35-year-old is yet to make his Test debut. He, however, made his ODI debut as early as 2009, in Afghanistan's first ever ODI.
-
-Afghanistan's last Test came in June 2023, when they lost to Bangladesh by a huge margin. This will be their eighth Test match.
-
-Afghanistan's tour of Sri Lanka also includes three ODIs and as many T20Is, which follow the one-off Test.
-
-...
-
-[Data](articles/d9e3cd31.json)
-
-[Extended Data](ext_articles/d9e3cd31.ext.json)
-
----
-
-### A 10 -year -old girl abused him
-
-*2024-01-29 19:46:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-வயது-சிறுமியை-துஷ்பிரயோகப்படுத்தியவருக்கு-கடூழிய-தண்டனை/175-332295) · `ta`
-
-The suspect who abused the brother's 10 -year -old daughter has been sentenced to 50 years in prison.
-
-Kandy High Court Judge Tarshika Wimalasiri today ordered the victim to pay Rs 10 lakh.
-
-The judge also announced that the accused will be sentenced to 2 years in prison for failing to pay.
-
-It is reported that she has been abused several times in the Kandy -Mahamulgama area in 2018.
-
-In the meantime, the 37 -year -old suspect was sued by the Attorney General in 2018 under three cases.. Remble
-
-◼️
-
-[Data](articles/74c6ee7c.json)
-
-[Extended Data](ext_articles/74c6ee7c.ext.json)
-
----
-
-### Woman arrested for assaulting police officer in public
-
-*2024-01-29 19:31:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பொது-இடத்தில்-பொலிஸ்-அதிகாரியை-தாக்கிய-பெண்-கைது/175-332294) · `ta`
-
-A woman has been arrested by police for allegedly attacking a police officer by scolding a police officer.
-
-The arrested person was a Sri Lankan woman living in Australia, Kandara police said.
-
-A group of police officers traveling in the three -wheeler in the Matara area in Matara, claiming that the woman had disrupted her vehicle, was involved in an argument with the police officer.
-
-Police officers have stopped the luxury jeep that the female traveler traveled.
-
-During the argument, the suspect was admitted to the hospital as the suspect was hit by an elbow in the chest of the police officer.
-
-Subsequently, Kandara police arrested the suspect and taken the jeep into police custody.. Remble
-
-◼️
-
-[Data](articles/e19fc30f.json)
-
-[Extended Data](ext_articles/e19fc30f.ext.json)
-
----
-
-### Self-sufficient rice is not imported
-
-*2024-01-29 19:20:17* · [`adalk`](https://www.ada.lk/breaking_news/සහලින්-ස්වයංපෝෂිතයි-සහල්-ආනයනය-කරන්නේ-නෑ/11-407786) · `si`
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera said that the rice is not expected to import rice in 2024 as the country is self sufficient.
-
-The Minister also said that the crops of paddy, maize, potatoes and chillies have been decided to reach the target of the national requirement.
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera made this statement participating at a press conference held at the Presidential Media Center today (29).
-
-Minister of Agriculture and Plantation Industries Mahinda Amaraweera said:
-
-"We have spent Rs. 22 billion to the purchasing of fertilizers in Sri Lanka in 2023. The government also spent Rs. 13 billion for purchasing the paddy.
-
-...
-
-[Data](articles/86d32947.json)
-
-[Extended Data](ext_articles/86d32947.ext.json)
-
----
-
-### ICJ to rule on jurisdiction in Russia-Ukraine genocide case
-
-*2024-01-29 19:20:00* · [`adaderanalk`](https://www.adaderana.lk/news/96830/icj-to-rule-on-jurisdiction-in-russia-ukraine-genocide-case) · `en`
-
-The United Nations’ highest court will rule on Friday whether it will hear a case in which Ukraine has accused Russia of violating international law by saying its invasion was launched to stop an alleged genocide.
-
-Ukraine brought the case at the International Court of Justice (ICJ), also known as the World Court, days after Russian President Vladimir Putin ordered tens of thousands of troops into Ukraine on Feb. 24, 2022.
-
-In hearings in September, lawyers for Moscow urged judges to throw out the case, saying Kyiv’s legal arguments were flawed. The ICJ on Monday said a ruling on Russia’s objections to the court’s jurisdiction will be handed down on Friday.
-
-Kyiv says Russia is breaching the 1948 Genocide Convention by saying the invasion was justified to stop an alleged genocide of Russian speakers in eastern Ukraine.
-
-Ukraine says there was no risk of genocide in eastern Ukraine, where it had been fighting Russian-backed forces since 2014.
-
-...
-
-[Data](articles/63d35004.json)
-
-[Extended Data](ext_articles/63d35004.ext.json)
-
----
-
-### Whispering Mountains; Revealing An Open Secret
-
-*2024-01-29 19:18:58* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/whispering-mountains-revealing-an-open-secret/) · `en`
-
-The fact that even though eyes are ours, we are supposed to see what is painted by them, has been reaffirmed by events recently occurred in Sri Lanka. When we see beyond it, we are at the risk of losing even our lives. This is an idea that I have to always tell myself once I see how hard and tactfully the rulers of this country are trying to paint that picture to be seen and praised by us as citizens.
-
-A good film, in my opinion, should be a combination of 50% from reality and another 50% from the imagination. When it’s closer to reality, it’s called a documentary, when it’s closer to the imagination, it’s called fiction. The film “Whispering Mountains” has made that platform where we can build our own imagination and criticism based on reality, as it keeps a good balance between reality and imagination.
-
-...
-
-[Data](articles/f5deaea1.json)
-
-[Extended Data](ext_articles/f5deaea1.ext.json)
 
 ---

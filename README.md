@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 09:02:15**
+As of **2024-01-30 09:17:12**
 
 ## Newspaper Stats
 
-*Scraped **3,418** Articles*
+*Scraped **3,421** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 196
 newsfirstlk | 203
 dailyftlk | 233
 adalk | 313
-adaderanasinhalalk | 367
 virakesarilk | 369
+adaderanasinhalalk | 370
 tamilmirrorlk | 425
 adaderanalk | 437
 dailymirrorlk | 461
@@ -26,11 +26,57 @@ dailymirrorlk | 461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,418 (100.0%) of 3,418 articles have been extended.
+3,418 (99.9%) of 3,421 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### යුක්තිය මෙහෙයුමෙන් තවත් 868ක් අත්අඩංගුවට
+
+*2024-01-30 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192725) · `si`
+
+දිවයින පුරා ක්‍රියාත්මක යුක්තිය මෙහෙයුම යටතේ අද (30) අලුයම අවසන් වූ ගතවු පැය 24 තුළ සැකකරුවන් 868 දෙනෙකු අත්අඩංගුවට ගත් බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/d79529fa.json)
+
+---
+
+### සෞඛ්‍ය සේවකයින් යළි වර්ජනයකට
+
+*2024-01-30 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192724) · `si`
+
+සාකච්ඡා මඟින් තම ගැටලුවලට විසඳුම් ලබා නොදෙන්නේනම් පෙබරවාරි මස පළමුවනදා සිට වර්ජන ක්‍රියාමාර්ගවලට එළඹෙන බව සෞඛ්‍ය වෘත්තීය සමිති පවසයි.
+
+සෞඛ්‍ය සේවකයින්ට දීමනා ලබාදීම සම්බන්ධයෙන් ජනාධිපතිවරයා විදෙස් ගතව සිට යළි මෙරටට පැමිණි විගස සාකච්ඡාවක් ලබාදෙන බවට ප්‍රකාශ කළ ද එය මේ දක්වාත් ලබා දී නොමැති බව සෞඛ්‍ය සේවකයින් සඳහන් කළේය.
+
+මේ හේතුවෙන් අද දිනයේ කොළඹ අවට පිහිටි රෝහල් ඉදිරිපිට විරෝධතා ක්‍රියාමාර්ග ක්‍රියාත්මක කිරීමට ද වෘත්තීය සමිති පියවර ගෙන තිබේ.
+
+◼️
+
+[Data](articles/9ffb6827.json)
+
+---
+
+### සජබය ජනපති සටන අරඹයි
+
+*2024-01-30 08:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192723) · `si`
+
+"වෙනසක් හදන වසරක්" තේමාව යටතේ විපක්ෂයේ ජනාධිපතිවරණ සටන කොළඹින් ආරම්භ කිරීමට සමගි ජන බලවේගය පියවර ගෙන තිබේ.
+
+ඒ අනුව අද (30) දිනයේ විශාල ජනරැළියක් කොළඹදී පවත්වන බව සමගි ජනබලවේගය සඳහන් කළේය.
+
+දිවයිනම ආවරණය වන පරිදි සමගි ජන බලවේගයේ ආධාරකරුවන්ට මෙම රැළියට සහභාගී වන ලෙස ඔවුන් දැනුම් දී තිබේ.
+
+එමෙන්ම පක්ෂයේ සියලු නායකයින් මෙම රැළියට සහභාගී වන බව සමගි ජනබලවේගය සඳහන් කළේය.
+
+◼️
+
+[Data](articles/6092ba9e.json)
+
+---
 
 ### Announcement on A / L Agrology question paper
 
@@ -1943,65 +1989,5 @@ He headed the infantry force of the Sri Lankan Army during the war against the L
 [Data](articles/46b7c767.json)
 
 [Extended Data](ext_articles/46b7c767.ext.json)
-
----
-
-### Lorcenso son is released 04
-
-*2024-01-29 15:58:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192705) · `si`
-
-"Lorcenso Son 04" The Sri Lanka Navy has resigned by the Sri Lankan Navy.
-
-The Sri Lanka Navy stated that three pirates and Seychelles were taken into custody.
-
-The Navy has confirmed that the six fishermen in the fishermen were protesting.
-
-Accordingly, the fishing vessel is being taken to the capital of Seychelles, the Navy added.
-
-"Lorcenso Son Found" on the 12th of the June 4, "Lorcenso Son Found 4" Thamylian pirates had taken up the Somali pirates with six fishermen.
-
-◼️
-
-[Data](articles/fbfcacc6.json)
-
-[Extended Data](ext_articles/fbfcacc6.ext.json)
-
----
-
-### No more indirect taxes on the cards in Sri Lanka: state minister
-
-*2024-01-29 15:54:00* · [`economynextcom`](https://economynext.com/no-more-indirect-taxes-on-the-cards-in-sri-lanka-state-minister-148975/) · `en`
-
-ECONOMYNEXT — Sri Lanka has no intention of introducing new indirect taxes or increasing existing indirect taxes, State Minister of Finance Ranjith Siyambalapitiya said, disputing claims that prices are set to increase again.
-
-“We do not intend to introduce more indirect taxes going forward. I must be very clear about that. There is no plan to increase percentages of existing indirect taxes either,” Siyambalapitiya said speaking to journalists.
-
-The state minister said the government is looking to expand the direct tax base so as to increase state revenue and facilitate a reduction in indirect taxes and the burden they place on consumers.
-
-“If anyone says prices are increasing once again due to indirect taxes, I don’t see any truth in that,” he said.
-
-Siyambalapitiiya called the proposed wealth tax, to be introduced in 2025, “very progressive”.
-
-...
-
-[Data](articles/6a36b498.json)
-
-[Extended Data](ext_articles/6a36b498.ext.json)
-
----
-
-### Notice to everyone in Colombo
-
-*2024-01-29 15:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192704) · `si`
-
-A special traffic plan in Colombo town will be operated along the 76th Independence Day Ceremony and its rehearsals.
-
-The traffic plan is to be implemented on 6th to 4 pm and the free celebration of the Independence Day celebrations on the 4th to 12 noon.
-
-◼️
-
-[Data](articles/2f122253.json)
-
-[Extended Data](ext_articles/2f122253.ext.json)
 
 ---

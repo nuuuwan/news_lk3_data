@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 04:17:21**
+As of **2024-01-31 04:32:57**
 
 ## Newspaper Stats
 
-*Scraped **3,655** Articles*
+*Scraped **3,659** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 127
 islandlk | 198
 economynextcom | 200
 newsfirstlk | 216
-dailyftlk | 238
+dailyftlk | 242
 adalk | 331
 adaderanasinhalalk | 405
 virakesarilk | 405
@@ -26,11 +26,75 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,655 (100.0%) of 3,655 articles have been extended.
+3,655 (99.9%) of 3,659 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Sajith Premadasa accuses Govt. of cowardice amidst crackdown on SJB protest
+
+*2024-01-31 04:00:42* · [`dailyftlk`](https://www.ft.lk/news/Sajith-Premadasa-accuses-Govt-of-cowardice-amidst-crackdown-on-SJB-protest/56-757968) · `en`
+
+Police immediately cracks down on protest march which began around 1.30 p.m. from Vihara Maha Devi Park
+
+SJB leader claims Govt. is afraid of Sri Lankan citizens and are a group of cowards
+
+Calls crackdown illegal as court orders did not prevent a protest march near Vihara Maha Devi Park
+
+Claims attack symbolises state terrorism, brutality and suppression in Sri Lanka
+
+Declares that in 2024 SJB would overcome Govt. efforts to subdue people through violence solely through power of citizens
+
+The Government deployed the military and the Police to parts of Colombo yesterday as scores of Samagi Jana Balawegaya (SJB) supporters led by party leaders converged in the city for an anti-Government demonstration. The Police almost immediately cracked down on the protest march which began around 1.30 p.m. from the Vihara Maha Devi park and proceeded to fire water cannons and tear gas to break up the demonstration.
+
+...
+
+[Data](articles/2d8e874b.json)
+
+---
+
+### Three Parliament staffers arrested over sexual abuse allegations
+
+*2024-01-31 03:58:37* · [`dailyftlk`](https://www.ft.lk/news/Three-Parliament-staffers-arrested-over-sexual-abuse-allegations/56-757967) · `en`
+
+Three junior staff members employed at the Parliament were arrested by the Police yesterday in connection to allegations of abusing and harassing two female staffers in the housekeeping department of the institution.
+
+The arrests were carried out by investigators from the Sri Lanka Police Bureau for the Prevention of Abuse of Children and Women. This action followed the internal inquiry conducted by a committee led by Secretary General of Parliament Kushani Anusha Rohanadeera, who subsequently informed Acting IGP Deshabandu Tennekoon about their findings based on the advice received from the Attorney General. Following directives from the Acting IGP, the Bureau had investigated the incident. Subsequently, the two initial suspects were arrested, and based on statements obtained from them, a third suspect was also apprehended. The trio was brought before the Kaduwela Magistrates Court yesterday.
+
+...
+
+[Data](articles/bb5ffd5a.json)
+
+---
+
+### Court orders damages in historic ruling over defamatory SM post
+
+*2024-01-31 03:58:10* · [`dailyftlk`](https://www.ft.lk/news/Court-orders-damages-in-historic-ruling-over-defamatory-SM-post/56-757966) · `en`
+
+In a ground-breaking ruling, the Avissawella District Court granted damages to a medical practitioner, identified as dental surgeon Dr. Lakmal Kulasekara, on Monday after it determined that a social media post about the doctor, published by the defendant Sonali C. Jayasekara, was defamatory and false.
+
+According to the plaintiff, it was claimed that on 14 June 2021, Jayasekara posted a defamatory statement on the social media platform Facebook suggesting that the plaintiff had unethically charged fees from Jayasekara’s niece for a treatment conducted on 26 October 2019, at a private hospital in Colombo.
+
+...
+
+[Data](articles/3a5d38b8.json)
+
+---
+
+### Adani Power achieves higher standards of excellence in 3Q FY24
+
+*2024-01-31 03:52:49* · [`dailyftlk`](https://www.ft.lk/business/Adani-Power-achieves-higher-standards-of-excellence-in-3Q-FY24/34-757965) · `en`
+
+Consolidated power sale volume at 21.5 Billion Units (BU) in Q3 FY24, up by 82% from 11.8 BU in Q3 FY23 due to improved power demand and larger installed capacity
+
+Adani Power Ltd., (APL), a part of Adani portfolio companies, recently announced the financial results for the third quarter ended at 31 December 2023.
+
+...
+
+[Data](articles/9b16dd49.json)
+
+---
 
 ### Expectation to strengthen families
 
@@ -1965,75 +2029,5 @@ National Housing Development Authority Chairman Rajeev Suriyarachchi said the fo
 [Data](articles/1ec529c5.json)
 
 [Extended Data](ext_articles/1ec529c5.ext.json)
-
----
-
-### Notification of the Department of Examinations
-
-*2024-01-30 14:35:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகள்-திணைக்களத்தின்-அறிவிப்பு/175-332348) · `ta`
-
-Examinations have said that examiners who appear for the high -quality agricultural science exams that have been canceled due to the release of the Examination Questionnaire can get the approval card at www.doenets.lk, the Department of Examinations said.
-
-The examiners have already issued permit cards and if it is not available, the department said.
-
-The selection department also said that if the new questionnaire applied for the new questionnaire, the new ticket is not required.
-
-Accordingly, the Agricultural Science Papers will be held on February 1, the second part will be held from 8.30 am to 11.40 pm and the first part will be held from 1.00 pm to 3.00 pm.
-
-◼️
-
-[Data](articles/10c874bd.json)
-
-[Extended Data](ext_articles/10c874bd.ext.json)
-
----
-
-### Protection of Unity Society - Live broadcast
-
-*2024-01-30 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192742) · `si`
-
-The journey of Colombo has commenced the protest march in Colombo.
-
-◼️
-
-[Data](articles/30634924.json)
-
-[Extended Data](ext_articles/30634924.ext.json)
-
----
-
-### Demanding allowances...
-
-*2024-01-30 14:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Demanding-allowances/110-275982) · `en`
-
-All health workers, including nurses and Public Health Inspectors (PHIs) attached to the government service, held a protest march from the National Hospital Colombo to the Health Ministry, demanding that the government fulfill economic justice and provide accommodation to all health workers. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/fd12b671.json)
-
-[Extended Data](ext_articles/fd12b671.ext.json)
-
----
-
-### Sri Lanka mulls exporting Hambantota port rocks
-
-*2024-01-30 14:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulls-exporting-hambantota-port-rocks-149141/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s cabinet had given the nod to appoint a committee which will look into the feasibility of exporting up to a million tonnes of granite including a stockpile of rocks dug up when building the Hambantota port, Minister Bandula Gunawardana said.
-
-The rocks are now piled up in the port premises near the administration building and by the Hambantota New Hospital, he said.
-
-“A committee will be appointed to study the possibility of exporting one million metric tons of granite,” Cabinet Spokesperson, Bandula Gunawardena said.
-
-The exports will be carried out under the supervision of Sri Lanka’s Geological Survery and Mines Bureau.
-
-Sri Lanka’s construction industry is also in depressed condition amid an economic crisis and 50,000 and livelihoods of 50,000 workers in the quarry sector have been hit and there is reduced domestic demand according to a cabinet proposal submitted by Environment Minister Keheliya Rambukwelle, he said.
-
-...
-
-[Data](articles/c621433b.json)
-
-[Extended Data](ext_articles/c621433b.ext.json)
 
 ---

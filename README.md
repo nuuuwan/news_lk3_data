@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 22:32:49**
+As of **2024-01-30 22:50:18**
 
 ## Newspaper Stats
 
-*Scraped **3,624** Articles*
+*Scraped **3,626** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,33 +20,59 @@ virakesarilk | 401
 adaderanasinhalalk | 402
 tamilmirrorlk | 459
 adaderanalk | 464
-dailymirrorlk | 493
+dailymirrorlk | 495
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,623 (100.0%) of 3,624 articles have been extended.
+3,626 (100.0%) of 3,626 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### වැට් අඩුකරන්නැයි ඉල්ලුවාට වැඩක් නෑ - බන්දුල
+### Suspended prison sentences for Indian fishermen for poaching in Sri Lanka waters
+
+*2024-01-30 21:59:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Suspended-prison-sentences-for-Indian-fishermen-for-poaching-in-Sri-Lanka-waters/108-276001) · `en`
+
+Jan 30 -  Ten Indian fishermen were sentenced to a two-year suspended prison term by a Sri Lankan court for poaching in the island nation's waters.
+
+The magistrate in Point Pedro in the northern Jaffna peninsula on Monday also ordered the owner of the trawler to be present at the court on October 24 when the case will be next heard.
+
+The ‘two-year prison term suspended for five years’ means that the fishermen don’t go to jail actually but the sentence is suspended after five years.
+
+The fishermen, arrested by the Sri Lanka Navy on December 23, have attended the Point Pedro court three times.
+
+The magistrate Ponnuthurai Krishanth ordered the police to return their personal belongings seized by the Navy.
+
+The fishermen sentenced to suspended jail terms would be sent to the immigration detention centre in Colombo’s suburb of Mirihana until formalities could be conducted to repatriate them.
+
+...
+
+[Data](articles/1e01feec.json)
+
+[Extended Data](ext_articles/1e01feec.ext.json)
+
+---
+
+### No use to demand the reduction of VAT - Bandula
 
 *2024-01-30 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192759) · `si`
 
-වැට් බදු අඩුකරන ලෙස බලකරමින් පාරේ විරෝධතා පැවැත්වීම නිෂ්ඵල ක්‍රියාවක් බවත්, විරෝධය දක්වන කණ්ඩායම් එසේ නොකොට සුදුසු වෙනත් විකල්ප ඉදිරිපත් කළ යුතු බවත් කැබිනට් මාධ්‍ය ප්‍රකාශක අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පෙන්වා දෙයි.
+Cabinet spokesman Minister Bandula Gunawardena pointed out that protests on the road should be reduced to reduce VAT deductions and the protests should be submitted without any such option.
 
-අද කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාවේදී අමාත්‍යවරයා පැවසුවේ ජනතාවගෙන් අයකරන බදු යොදාගන්නේ රාජ්‍ය සේවක වැටුප් ඇතුළු අත්‍යවශ්‍ය දීමනා සහ වියදම් පියවාගැනීම සඳහා පමණක් බවය.
+At the press briefing of the cabinet decisions today, the Minister said that taxes are only used to cover essential allowances and expenses, including public servants.
 
-එහිදී වැඩිදුරටත් අදහස් දැක්වූ කැබිනට් මාධ්‍ය ප්‍රකාශක අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන,
+Speaking further Cabinet Media Spokesperson Minister Dr. Bandula Gunawardena,
 
-"වැට් අඩු කරලා වැටුප් නැතුව ජීවත්වෙන්න පුළුවන්ද? විශ්‍රාම වැටුප් නැතුව ජීවත්වෙන්න පුළුවන්ද? සමෘද්ධි,අස්වැසුම නැතුව ජීවත්වෙන්න පුළුවන්ද? ගත්ත ණය පොලී ගෙවන්නේ නැතුව ඉන්න පුළුවන්ද? ගතවූ වර්ෂයේ භාණ්ඩාගාරයට ලැබුණේ ට්‍රිලියන තුනයි ට්‍රිලියන 13ක් වියදම් කරලා තියෙනවා එතකොට ට්‍රිලියන 10ක් හොයාගෙන තියෙන්නේ ණයට රුපියල් 5000 ගාණේ අවුරුදු 100ක් ඉතිරි කළොත් ඉතුරු කරන්න පුළුවන් මිලියන හයයි බිලියනයක් ඉතුරු කරන්න අවුරුදු දහසය දාහක් ගතවනවා ට්‍රිලියන 10ක් ණයට ගත්තා කිව්වම අර්බුදය ගැන හිතාගන්න"
+"Can you die without pensions? Can you live without a till three trillion?Save six million years to save six hundred and a billion thousands of years to save the six thousand thousand years after lending 10 trillion people, thinking about the crisis "
 
 ◼️
 
 [Data](articles/49b05d68.json)
+
+[Extended Data](ext_articles/49b05d68.ext.json)
 
 ---
 
@@ -69,6 +95,26 @@ Investigations have revealed that the monk had taken measures to be presented to
 [Data](articles/17687b23.json)
 
 [Extended Data](ext_articles/17687b23.ext.json)
+
+---
+
+### Two foreigners killed in accident at Midigama
+
+*2024-01-30 21:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-foreigners-killed-in-accident-at-Midigama/108-276000) · `en`
+
+Matara, Jan. 30 (Daily Mirror)- Two foreigners were killed after a mortorbike they were riding on collided with a bus and a lorry at Gurubebila, Midigama on the Matara-Colombo road this afternoon, police said.
+
+The mortorbike heading towards Colombo from Matara had hit a bus and toppled over when trying to overtake and had hit another lorry travelling on the opposite direction.
+
+The rider had died on the spot while the pillion rider had died after being admitted to the Walana Hospital.
+
+The drivers of the bus and the lorry were arrested in connection with the accident.
+
+◼️
+
+[Data](articles/9f318085.json)
+
+[Extended Data](ext_articles/9f318085.ext.json)
 
 ---
 
@@ -1973,49 +2019,5 @@ I had not guided the husband's political affairs, but his private secretary had 
 [Data](articles/5eebb298.json)
 
 [Extended Data](ext_articles/5eebb298.ext.json)
-
----
-
-### 'Ranil Rajapaksa Controlleging the Government'
-
-*2024-01-30 13:12:52* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cevrkygz1jgo) · `si`
-
-There is nothing here. Play Video, "" Ranil Rajapaksa, who rules the country, can't long to go to the government. "
-
-Police force against the government today (Jan. 30) and the police were dispersed and dismissed.
-
-The attack was launched in attempting to move the protesters from Viharamahadevi Gardens to Kollupitiya.
-
-The 'Leader of the Opposition Sajith Premadasa was protesting with the theme of a year' '2024', but they opposed the government regardless of the police.
-
-The police had obtained orders from the Maligakanda and Fort Magistrate Judicial to control the protest.
-
-In the Maligakanda Court order, the PD Sirisena Stadium and the Hyde Park Ground, not obstructing the freedom of his speech, is not obstructing any protest in the stadium.
-
-...
-
-[Data](articles/30c0189f.json)
-
-[Extended Data](ext_articles/30c0189f.ext.json)
-
----
-
-### Option to fill Nishantha's vacuum: Wife
-
-*2024-01-30 13:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிஷாந்தவின்-வெற்றிடத்தை-நிரப்ப-விருப்பம்-மனைவி/175-332338) · `ta`
-
-Attorney -at -law Samari Priyanka Perera, the wife of the late former Water Supply Minister Sanath Nishantha, said that the people or the party of the Puttalam district are ready to consider the vacuum of her husband.
-
-He said this when he went to the residence of Anuradha Jayakody, the security officer of the former Minister of State who died in a recent vehicle accident.
-
-“My husband has served the Puttalam district and the people of the country. Anyone who asked him for help was not sent back empty -handed. I could not believe what happened to him, before my husband died, some media announced that I would come to politics. No one asked me when publishing such news.. Said.
-
-"Even if I managed half of my husband's political affairs and acting as his personal secretary, I do not believe that I will come to politics. But the party leadership asked me to accept the post of Puttalam, the people and the people of the country.You have to think, ”he said.
-
-◼️
-
-[Data](articles/3691d8a1.json)
-
-[Extended Data](ext_articles/3691d8a1.ext.json)
 
 ---

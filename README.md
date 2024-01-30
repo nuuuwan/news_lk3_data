@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 15:51:28**
+As of **2024-01-30 16:02:59**
 
 ## Newspaper Stats
 
-*Scraped **3,544** Articles*
+*Scraped **3,546** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,22 +15,36 @@ economynextcom | 193
 islandlk | 197
 newsfirstlk | 211
 dailyftlk | 233
-adalk | 322
+adalk | 323
 adaderanasinhalalk | 387
 virakesarilk | 390
 tamilmirrorlk | 448
-adaderanalk | 452
+adaderanalk | 453
 dailymirrorlk | 478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,544 (100.0%) of 3,544 articles have been extended.
+3,546 (100.0%) of 3,546 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### Police fire tear gas at SJB’s protest march
+
+*2024-01-30 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96854/police-fire-tear-gas-at-sjbs-protest-march) · `en`
+
+The police have fired tear gas and used water cannons to disperse the Samagi Jana Balawegaya (SJB) protesters in Colombo this afternoon (Jan.30).
+
+◼️
+
+[Data](articles/7494aeb5.json)
+
+[Extended Data](ext_articles/7494aeb5.ext.json)
+
+---
 
 ### Heavy traffic in Colombo due to SJB protest march
 
@@ -678,6 +692,26 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 
 ---
 
+### Tick Tok Talk Motor Bikes Running from hospital
+
+*2024-01-30 12:31:26* · [`adalk`](https://www.ada.lk/breaking_news/ටික්-ටොක්-යතුරු-පැදි-ධාවනය-රෝහලින්-නවතී/11-407797) · `si`
+
+Two youth who operated the motorbikes in the Koralaiwela area in Horana to put tick tox.
+
+Two youths have been arrested by the police with three motorbikes with the incident and one young man fled with a motorcycle.
+
+Five youths from Talangama, a motorbike on four motorbikes, and the two motorbikes traveling towards Horana to reach the Horana.Police said.
+
+The arrested youth will be produced before the Horana Magistrate's Court under the dangers.
+
+◼️
+
+[Data](articles/b11dee5c.json)
+
+[Extended Data](ext_articles/b11dee5c.ext.json)
+
+---
+
 ### Continue People's Support for National People's Power -IHP's poll
 
 *2024-01-30 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/175136) · `ta`
@@ -904,11 +938,15 @@ Military Speaker Major General KAN. Fan Kumara said that one of the Parasood pla
 
 *2024-01-30 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96846/four-paratroopers-injured-in-accident-during-independence-day-rehearsals) · `en`
 
-Four paratroopers have suffered minor injuries during Independence Day rehearsals this morning, Ada Derana learns.
+Four Sri Lankan military paratroopers have suffered minor injuries due to a mid-air accident during Independence Day rehearsals this morning (30), Ada Derana learns.
 
-According to Sri Lanka Air Force (SLAF) spokesman Group Captain Dushan Wijesinghe, two paratroopers belonged to the SLAF, while the other two were attached to the Sri Lanka Army.
+According to Sri Lanka Air Force (SLAF) spokesman Group Captain Dushan Wijesinghe, two paratroopers belong to the SLAF, while the other two are attached to the Sri Lanka Army.
 
-The four paratroopers reportedly suffered minor injuries after their parachutes had gotten entangled mid-air, while landing during the ongoing Independence Day rehearsals which commenced earlier today.
+The four paratroopers reportedly suffered minor injuries after their parachutes had gotten entangled mid-air near the Galle Face Green, while landing, during the ongoing Independence Day rehearsals which commenced earlier today.
+
+According to the SLAF spokesman, the accident had occurred due to a rare and unexpected change in wind direction.
+
+He further added that the injured paratroopers are receiving treatment at the National Hospital of Sri Lanka (NHSL) and the Army Hospital in Colombo.
 
 ◼️
 
@@ -1959,47 +1997,5 @@ Police have arrested 868 suspects in the last 24 hours in the country today (30)
 [Data](articles/d79529fa.json)
 
 [Extended Data](ext_articles/d79529fa.ext.json)
-
----
-
-### Special traffic plan in place as Independence Day ceremony rehearsals begin
-
-*2024-01-30 08:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96839/special-traffic-plan-in-place-as-independence-day-ceremony-rehearsals-begin) · `en`
-
-Rehearsals for the 76th Independence Day ceremony commenced today (Jan.30) and will continue until February 03 at the Galle Face Green.
-
-As such, a special traffic plan is in place on a stretch of the Galle Road in view of the upcoming event.
-
-The Galle Road will temporarily remain closed from Kollupitiya Junction - Galle Face and from Ceramic Junction - Galle Face from 6 a.m. - 8.30 a.m. and 11 a.m. - 12.30 p.m. until Friday (Feb.02).
-
-The aforementioned section of Galle Road will once again be off limits for traffic starting at 2 p.m. on 03 February until the conclusion of the Independence Day ceremony on 04 February.
-
-The rehearsals were initially scheduled to commence on Monday (Jan.29), however, it was later pushed back by a day.
-
-◼️
-
-[Data](articles/8f2dc5e8.json)
-
-[Extended Data](ext_articles/8f2dc5e8.ext.json)
-
----
-
-### Woman trapped in Vavuniya by special information
-
-*2024-01-30 08:45:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/விசேட-தகவலால்-வவுனியாவில்-சிக்கிய-பெண்/72-332321) · `ta`
-
-A woman was arrested yesterday (29) by a special Task Force with ice drugs in Vairavapuliyankulam, Vavuniya.
-
-Special information has been received by a woman living in the Vavuniya - Veppankulam area.
-
-Subsequently, the woman was rushed to the Vavuniya city area from Veppankulam to the Vavuniya city area with a motorcycle bicycle.
-
-The arrested woman is a 40 -year -old from Veppankulam area. After further investigations, the police said that the woman had taken steps to appear in court.. Remble
-
-◼️
-
-[Data](articles/d5f2d9ea.json)
-
-[Extended Data](ext_articles/d5f2d9ea.ext.json)
 
 ---

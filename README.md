@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 16:02:59**
+As of **2024-01-30 16:17:26**
 
 ## Newspaper Stats
 
-*Scraped **3,546** Articles*
+*Scraped **3,547** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,24 +19,48 @@ adalk | 323
 adaderanasinhalalk | 387
 virakesarilk | 390
 tamilmirrorlk | 448
-adaderanalk | 453
+adaderanalk | 454
 dailymirrorlk | 478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,546 (100.0%) of 3,546 articles have been extended.
+3,546 (100.0%) of 3,547 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### Bill & Melinda Gates Foundation to provide policy support to President’s Office
+
+*2024-01-30 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96855/bill-melinda-gates-foundation-to-provide-policy-support-to-presidents-office) · `en`
+
+The Bill and Melinda Gates Foundation, one of the world’s largest charitable foundations, has agreed to establish a Program Support Unit to support the Office of the President of Sri Lanka.
+
+Accordingly, Global Health Strategies, an international organization established by the Bill and Melinda Gates Foundation, and its local partner Connect to Care Organization, have agreed to establish a Program Support Unit to support the President’s Office in relation to these programs and to act as partners providing active contributions to the Government of Sri Lanka.
+
+As such, an Executive Committee consisting of senior officials will be appointed to ensure proper coordination for the proper implementation of the various programs being implemented by the Bill and Melinda Gates Foundation.
+
+...
+
+[Data](articles/6c358f2d.json)
+
+---
 
 ### Police fire tear gas at SJB’s protest march
 
 *2024-01-30 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96854/police-fire-tear-gas-at-sjbs-protest-march) · `en`
 
 The police have fired tear gas and used water cannons to disperse the Samagi Jana Balawegaya (SJB) protesters in Colombo this afternoon (Jan.30).
+
+Joined by Opposition Leader Sajith Premadasa, SJB MPs and supporters, it was organized by the main opposition in protest of the conduct of the government.
+
+Earlier today, three court orders were issued ahead of the SJB’s protest march, barring the demonstrators from entering certain locations in Colombo including the Finance Ministry, the Presidential Secretariat, the President’s House and Galle Face Green.
+
+They are also banned from causing inconveniences to motorists and pedestrians travelling along Dean’s Road, Lipton Roundabout, Maradana Junction, T.B. Jayah Mawatha, Olcott Mawatha, the Technical Junction and other areas in Colombo this evening.
+
+A court order further read that the protesters are, however, allowed to use the P.D. Sirisena Ground and Hyde Park to stage their demonstration.
 
 ◼️
 
@@ -50,7 +74,15 @@ The police have fired tear gas and used water cannons to disperse the Samagi Jan
 
 *2024-01-30 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96853/heavy-traffic-in-colombo-due-to-sjb-protest-march) · `en`
 
-Traffic congestion is reported in Town Hall, Colombo, due to a protest march organized by the Samagi Jana Balawegaya (SJB), Ada Derana correspondent says.
+Traffic congestion is reported in Town Hall, Colombo, due to a protest march by the Samagi Jana Balawegaya (SJB), Ada Derana correspondent says.
+
+Joined by Opposition Leader Sajith Premadasa, SJB MPs and supporters, it was organized in protest of the conduct of the government.
+
+Earlier today, three court orders were issued ahead of the SJB’s protest march, barring the demonstrators from entering certain locations in Colombo including the Finance Ministry, the Presidential Secretariat, the President’s House and Galle Face Green.
+
+They are also banned from causing inconveniences to motorists and pedestrians travelling along Dean’s Road, Lipton Roundabout, Maradana Junction, T.B. Jayah Mawatha, Olcott Mawatha, the Technical Junction and other areas in Colombo this evening.
+
+A court order further read that the protesters are, however, allowed to use the P.D. Sirisena Ground and Hyde Park to stage their demonstration.
 
 ◼️
 
@@ -1983,19 +2015,5 @@ The accident occurred due to the changing the wind direction and the parries had
 [Data](articles/f960ad4c.json)
 
 [Extended Data](ext_articles/f960ad4c.ext.json)
-
----
-
-### Another 868 arrested with justice operation
-
-*2024-01-30 08:49:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192725) · `si`
-
-Police have arrested 868 suspects in the last 24 hours in the country today (30).
-
-◼️
-
-[Data](articles/d79529fa.json)
-
-[Extended Data](ext_articles/d79529fa.ext.json)
 
 ---

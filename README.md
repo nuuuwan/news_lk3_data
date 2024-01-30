@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 22:04:02**
+As of **2024-01-30 22:17:09**
 
 ## Newspaper Stats
 
-*Scraped **3,618** Articles*
+*Scraped **3,623** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,21 +16,77 @@ islandlk | 198
 newsfirstlk | 216
 dailyftlk | 233
 adalk | 331
-adaderanasinhalalk | 399
+adaderanasinhalalk | 401
 virakesarilk | 401
 tamilmirrorlk | 459
 adaderanalk | 464
-dailymirrorlk | 490
+dailymirrorlk | 493
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,618 (100.0%) of 3,618 articles have been extended.
+3,618 (99.9%) of 3,623 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### මූල්‍ය වංචාවට ඇල්ලූ යුවළ ගැන තවත් තොරතුරු
+
+*2024-01-30 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192758) · `si`
+
+ගලෙන්බිඳුණුවැව ප්‍රදේශයේ පිරමිඩාකාර මූල්‍ය ආයතනයක් පවත්වාගෙන යමින් රුපියල් කෝටි 500කට අධික මුදලක් වංචාකළ සැකකාර යුවළ පිළිබඳව පොලිසිය තවත් කරුණු රැසක් අනාවරණය කරගෙන තිබේ.
+
+නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයේ ජාලගත වංචා විමර්ශන ඒකකය පැවසුවේ, 2021 වසරේදී  දකුණු පළාතේ ප්‍රධාන විහාරස්ථානයක බස්නායක නිලමේ ධුරයක් අදාළ සැකකරුට ලබාදී ඇත්තේ විහාරාධිපති හිමි සමග පැවති පෞද්ගලික හිතවත්කමක් මත බවට අනාවරණවූ බවය.
+
+නාරාහේන්පිට ඉඩමක ඔප්පුවක් සම්බන්ධයෙන් පැවති ආරවුලක් නිරවුල් කරගැනීම සඳහා 2021 වසරේදී අදාළ සැකකරු එම හිමිනමට රුපියල් ලක්ෂ 160ක් ලබා දී තිබේ.
+
+ප්‍රබල දේශපාලනඥයෙකු සමග සබඳතා ඇති එම හිමිනම අදාළ ඉඩම විකිණීමට කටයුතු කරන බව සැකකරුට පවසා ඇති අතර, ඔහුට යළි ලබාදී ඇත්තේ රුපියල් ලක්ෂ 80ක් පමණි.
+
+අදාළ හිඟ මුදලට හිලව්වන ලෙස එම විහාරස්ථානයේ බස්නායක නිලමේ ධුරය සැකකරුට පිරිනැමීමට හිමිනම කටයුතු කර ඇති බවටද විමර්ශනවලදී කරුණු අනාවරණවී තිබේ.
+
+◼️
+
+[Data](articles/17687b23.json)
+
+---
+
+### රටම කැලඹුණු පැරෂුට් අනතුරට හේතුව එළියට
+
+*2024-01-30 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192757) · `si`
+
+76 වැනි නිදහස් සමරුවේ පැරෂුට් සංදර්ශනයේ පෙරහුරුවට එක්ව සිටියදී පැරෂුට් භටයන් සිව්දෙනෙකු අනතුරට ලක්ව ඇති හේතුව අනපේක්ෂිත සුළං ප්‍රවාහයක් බව ආරක්ෂක අමාත්‍යාංශය පවසයි.
+
+ආරක්ෂක අමාත්‍යාංශයේ මාධ්‍ය අධ්‍යක්ෂක හා මාධ්‍ය ප්‍රකාශක කර්නල් නලින් හේරත් මහතා මේ බව පවසයි.
+
+මෙම අනපේක්ෂිත අනතුරට මුහුණදුන් ගුවන් හමුදා භටයන් වන්නේ සැරයන් MDSS වීරියගල්ල සහ සැරයන් RHPK හේමසිංහ දෙදෙනාය.
+
+එහිදි සැරයන් MDSS වීරියගල්ල නිලධාරීයා පැරෂුට් පැනීම් 531ක් ද සැරයන්  RHPK හේමසිංහ නිලධාරියා පැරෂුට් පැනිම් 370ක් සිදුකර ඇති බවයි ගුවන් හමුදාව ප්‍රකාශ කරයි.
+
+මේජර් ධම්මික රත්නපාල සහ මාණ්ඩලික සැරයන් එල්.ආර්.එන්. බණ්ඩාර යන භටයින් ශ්‍රී ලංකා යුද්ධ හමුදා විශේෂ බලකා සාමාජිකයින්ය.
+
+එහිදි මේජර් ධම්මික රත්නපාල නිලධාරීයා පැරෂුට් පැනීම් 126ක්ද ක සැරයන් එල්.ආර්.එන්. බණ්ඩාර නිලධාරීයා පැරෂුට් පැනිම් 298ක් සිදුකර ඇති බවයි යුද හමුදාව ප්‍රකාශ කරයි.
+
+ගුවන් හමුදා සාමාජිකයින් දෙදෙනාගේ පැරෂුට් උඩු ගුවනේදී එකිනෙක පැටලී ඔවුන් දෙදෙනා ඇදවැටෙන්නේ කොළඹ ෂැංග්‍රිලා හෝටලයේ වහල මහත පිහිටි වායුසමීකරණ පද්ධතිය මතටය.
+
+...
+
+[Data](articles/0f5ce0b1.json)
+
+---
+
+### Checking on injured paratroopers’ conditions...
+
+*2024-01-30 21:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Checking-on-injured-paratroopers-conditions/110-275998) · `en`
+
+Chief of Defence Staff General Shavendra Silva visited the National Hospital and the Army Hospital to assess the condition of the paratroopers who were injured when their parachutes failed to open properly during the Independence Day rehearsals held at Galle Face Green this morning.
+
+◼️
+
+[Data](articles/0391bdc4.json)
+
+---
 
 ### Sri Lanka donates Ceylon Tea consignment to Palestinians in Gaza Strip
 
@@ -47,6 +103,22 @@ The Colombo-based Ambassadors of Saudi Arabia, Egypt and Iran as well as Diploma
 [Data](articles/0a417d99.json)
 
 [Extended Data](ext_articles/0a417d99.ext.json)
+
+---
+
+### Are Hasaranga and Theekshana Sri Lanka’s Greatest Ever Spin Twins?
+
+*2024-01-30 21:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Are-Hasaranga-and-Theekshana-Sri-Lankas-Greatest-Ever-Spin-Twins/108-275995) · `en`
+
+Jan. 30 (Daily Mirror) - Muttiah Muralitharan has earned the right to be called the greatest spinner of all-times. Some Aussies might not agree with that statement, but statistically, no one even gets close to the magician spinner, and should English fast bowler James Anderson retire from Test cricket before turning 50, there is a good chance that the famous 800 remains iconic.
+
+Muralitharan was a member of Sri Lanka Word Cup winning team in 1996. The off-spinner was also part of the national team which finished runners-up in 2007, 2009 and 2011. During his illustrious career, it’s fair to say he shouldered Sri Lankan cricket; particularly the bowling department.
+
+Perhaps that would have been one of the reasons why he didn’t have a spin twin for a longer period of time. After Muralitharan, the best spinner Sri Lanka has produced, would be left arm spinner Rangana Hearth, but for some reason these two didn’t play together for many games.
+
+...
+
+[Data](articles/8302d562.json)
 
 ---
 
@@ -89,6 +161,22 @@ Hospital sources, foreign media reports that he is currently suffering from the 
 [Data](articles/49d0f546.json)
 
 [Extended Data](ext_articles/49d0f546.ext.json)
+
+---
+
+### Concerns sparked over alleged letter from Sabaragamuwa medical students
+
+*2024-01-30 20:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Concerns-sparked-over-alleged-letter-from-Sabaragamuwa-medical-students/108-275997) · `en`
+
+Colombo, Jan 30 (Daily Mirror) -  Allegations have surfaced regarding a letter purportedly written by students of the Sabaragamuwa Medical Faculty on the MOU signed between the Ministry of Health, UGC and University, stirring controversy and suspicion within academic circles.
+
+The letter, which addresses crucial matters pertaining to the establishment of professorial units and student training, has been called into question for its authenticity and content accuracy.
+
+“The letter is not done by students. Based on content, certain words and technical details, it is obvious that prominent individuals in the SLMC and few academics who wish the students to be sent to other faculties have done this to sabotage the measures taken by the Ministry of Health and Higher Education Authorities to resolve the issue. Further, some content in the letter is not factually correct," stated concerned sources familiar with the situation.
+
+...
+
+[Data](articles/9f52e458.json)
 
 ---
 
@@ -1915,103 +2003,5 @@ The SLAF Parazetty tubes and two Army parachutemen were also injured.
 [Data](articles/fc300d80.json)
 
 [Extended Data](ext_articles/fc300d80.ext.json)
-
----
-
-### Three parliamentarian arrested for abuse
-
-*2024-01-30 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192737) · `si`
-
-The Police Women's and Children's Bureau has been arrested by the Police Women's and Children's Bureau.
-
-◼️
-
-[Data](articles/12b6c594.json)
-
-[Extended Data](ext_articles/12b6c594.ext.json)
-
----
-
-### Mid-air mishap
-
-*2024-01-30 12:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Mid-air-mishap/110-275978) · `en`
-
-Sri Lankan Military personnel take part in a rehearsal for the Independence Day parade in Colombo today and during the rehearsal, four paratroopers were injured when their parachutes became entangled and failed to open in mid-air. Pix by Pradeep Pathirana
-
-◼️
-
-[Data](articles/23b1ee7e.json)
-
-[Extended Data](ext_articles/23b1ee7e.ext.json)
-
----
-
-### Three junior staffers of parliament arrested over abuse allegations
-
-*2024-01-30 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96849/three-junior-staffers-of-parliament-arrested-over-abuse-allegations) · `en`
-
-Three junior staff members of parliament have been arrested by the Child and Women’s Bureau of Police over abuse allegations.
-
-The three suspects are accused of abusing two female staff members.
-
-Meanwhile, in August 2023, a three-member committee initiated an internal investigation into the complaints on allegations of sexual abuse of the female employees of the parliament’s Catering and Housekeeping Department.
-
-The committee was appointed in response to a question raised by MP Rohini Kumari Wijerathna during a parliamentary session. The committee was chaired by Secretary-General of Parliament Kushani Anusha Rohanadeera.
-
-The parliamentarian had raised the matter in the parliament referring to media reports of the female housekeeping staffers of the parliament being sexually abused by other officials.
-
-◼️
-
-[Data](articles/3652229a.json)
-
-[Extended Data](ext_articles/3652229a.ext.json)
-
----
-
-### Suspect arrested for selling drugs via WhatsApp in Nuwara Eliya
-
-*2024-01-30 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175140) · `ta`
-
-Nuwara Eliya Police have arrested a suspect for selling drugs by WhatsApp in Nuwara Eliya.
-
-An auto driver was arrested by Nuwara Eliya Police on Sunday night (28) night. The Nuwara Eliya District Magistrate has issued an order on Monday evening to investigate the suspect in police custody until Friday the 2nd.
-
-The suspect was identified as a resident of Vajrapura village (29).
-
-The three -wheeler driver (28) has been arrested in a roundup by a police team led by Premalal Hattiyarachchi, Chief Inspector of the Nuwara Eliya Police Headquarters.
-
-Police have seized 05 grams and 100 milligrams of drugs and an expensive mobile phone from the suspect.
-
-At the same time, the police have obtained the orders of the Magistrate to conduct further inquiries into the police custody to obtain further information through the suspect.
-
-◼️
-
-[Data](articles/9c1d8684.json)
-
-[Extended Data](ext_articles/9c1d8684.ext.json)
-
----
-
-### Pakistan War Ship PNS Saif Arrives in Colombo
-
-*2024-01-30 12:45:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/pakistan-war-ship-pns-saif-arrives-in-colombo/) · `en`
-
-COLOMBO (News 1st); The Pakistan Naval Ship (PNS) Saif arrived at the port of Colombo on a formal visit this morning (30th January 2024). The visiting ship was welcomed by the Sri Lanka Navy in compliance with naval traditions.
-
-PNS Saif is a 123m long Sword Class Frigate commanded by Captain Muhammad Ali. Meanwhile, she is manned by a crew of 276.
-
-The Commanding Officer of the ship is also expected to call on the Commander Western Naval Area. During the ship’s stay in Colombo, its crew members will visit some of the tourist attractions of the country.
-
-Concluding the visit, PNS Saif will leave the island on 01st February and conduct a Passage Exercise (PASSEX) with a ship of the Sri Lanka Navy in Colombo seas, on her departure.
-
-Over the weekend, HMS SPEY of the Royal Navy arrived at the port of Colombo.
-
-HMS Spey is a 90.5m long Offshore Patrol Vessel (OPV) which is manned by a crew of 56.
-
-...
-
-[Data](articles/48da8779.json)
-
-[Extended Data](ext_articles/48da8779.ext.json)
 
 ---

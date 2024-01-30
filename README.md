@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 03:02:22**
+As of **2024-01-31 03:17:20**
 
 ## Newspaper Stats
 
-*Scraped **3,653** Articles*
+*Scraped **3,654** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 237
 adalk | 331
 adaderanasinhalalk | 405
 virakesarilk | 405
-tamilmirrorlk | 461
+tamilmirrorlk | 462
 adaderanalk | 467
 dailymirrorlk | 499
 
@@ -26,11 +26,27 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,651 (99.9%) of 3,653 articles have been extended.
+3,653 (100.0%) of 3,654 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### ’12 லட்சம் குடும்பங்களை வலுவூட்ட எதிர்பார்ப்பு’
+
+*2024-01-31 02:49:37* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/12-லட்சம்-குடும்பங்களை-வலுவூட்ட-எதிர்பார்ப்பு/175-332382) · `ta`
+
+புதிய கிராமம், புதிய நாடு, தொழில் முனைவு அரசு என்ற கருத்தின் கீழ், வறுமையில் உள்ள 12 இலட்சம் குடும்பங்களை வலுவூட்ட எதிர்பார்த்துள்ளதாக சமூக வலுவூட்டல் இராஜாங்க அமைச்சர் அனுப பஸ்குவல் தெரிவித்தார்.
+
+ஜனாதிபதி ஊடக மையத்தில் நேற்று நடைபெற்ற ஊடக சந்திப்பில் கருத்துத் தெரிவிக்கும்போதே அவர் மேற்கண்டவாறு தெரிவித்தார்.
+
+20 லட்சம் பயனாளிகளுக்கு அஸ்வெசும என்ற சமூகப் பாதுகாப்பு நிவாரணத்தை வழங்குவதே இந்த ஆண்டு எமது முக்கியப் பணியாகும். 'புதிய கிராமம், புதிய நாடு, தொழில் முனைவு அரசு' என்ற கருத்தின் கீழ், வறுமையில் உள்ள  12 லட்சம் குடும்பங்களை வலுவூட்டவும் எதிர்பார்க்கப்படுகிறது. இந்த வருடம் அதில் 3 லட்சம் பேரை வலுவூட்டும் வேலைத்திட்டங்கள் முன்னெடுக்கப்படவுள்ளன.
+
+...
+
+[Data](articles/27c97f09.json)
+
+---
 
 ### Social Media Influencers: Transforming the fashion industry
 
@@ -47,6 +63,8 @@ Yet, in the fiercely competitive realm of branded fashion, the key to success li
 ...
 
 [Data](articles/7d43e5a8.json)
+
+[Extended Data](ext_articles/7d43e5a8.ext.json)
 
 ---
 
@@ -65,6 +83,8 @@ Sri Lankan authorities continue to silence and repress families of victims and t
 ...
 
 [Data](articles/f033fbd1.json)
+
+[Extended Data](ext_articles/f033fbd1.ext.json)
 
 ---
 
@@ -2025,25 +2045,5 @@ Imran Khan sentenced to 10 years in jail for leaking state secrets
 [Data](articles/2e43e9fe.json)
 
 [Extended Data](ext_articles/2e43e9fe.ext.json)
-
----
-
-### 5 fishermen arrested on the coast of Vidal Island
-
-*2024-01-30 14:09:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடத்தல்-தீவு-கடற்கரையில்-5-மீனவர்கள்-கைது/175-332345) · `ta`
-
-Five fishermen have been arrested for using a banned drag lap at the Vidal Island beach in the Manthai West Divisional Secretariat Division.
-
-The detainees were arrested on Monday night by the officials of the Fisheries Department and the Fisheries Department.
-
-Accordingly, the arrested persons belonged to the Erukkalampitti and Uppukkulam area.
-
-It is noteworthy that the drag boat has been halted in the field of Vitamal Island and 5 fishermen have been handed over to the Mannar Fisheries Department officials for further action.
-
-◼️
-
-[Data](articles/84b6cdaf.json)
-
-[Extended Data](ext_articles/84b6cdaf.ext.json)
 
 ---

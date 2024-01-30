@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 12:49:41**
+As of **2024-01-30 13:02:19**
 
 ## Newspaper Stats
 
-*Scraped **3,477** Articles*
+*Scraped **3,489** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,109 @@ islandlk | 196
 newsfirstlk | 211
 dailyftlk | 233
 adalk | 313
-virakesarilk | 372
 adaderanasinhalalk | 379
-tamilmirrorlk | 440
-adaderanalk | 445
+virakesarilk | 380
+tamilmirrorlk | 442
+adaderanalk | 447
 dailymirrorlk | 471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,476 (100.0%) of 3,477 articles have been extended.
+3,477 (99.7%) of 3,489 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### සජබ විරෝධතාකරුවන්ට තවත් වාරණයක්
+### சுதந்திர தின ஒத்திகை : 4 பராசூட் வீரர்கள் காயம் : இருவர் கட்டத்தின் மீது வீழ்ந்தனர் !
+
+*2024-01-30 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175135) · `ta`
+
+காலி முகத்திடலில் இடம்பெற்றுவரும் சுதந்திர தின ஒத்திகையின் போது பராசூட்கள் சரியாக விரியாததால் 4 பராசூட் வீரர்கள் கீழே விழுந்து காயமடைந்துள்ளனர்.
+
+பராசூட் வீரர் இருவர்  கீழே வீழந்து  காயமடைந்ததுடன் மேலும் இருவர் கட்டிடத்தின் மீது வீழ்ந்துள்ளனர்.
+
+இராணுவப் பேச்சாளர் மேஜர் ஜெனரல் கே.ஏ.என். ரசிக  குமார இது தொடர்பில்  தெரிவிக்கையில்,
+
+இந்தச் சம்பவத்தில் காயடமடைந்த வீரர்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும், இதில் இரு வீரர்கள் இலங்கை விமானப்படையைச் சேர்ந்தவர்கள் எனவும், ஏனைய இருவரும் இலங்கை இராணுவத்தைச் சேர்ந்தவர்கள் எனவும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/cf86875a.json)
+
+---
+
+### Operation ‘Yukthiya’: Underworld figure arrested with weapons & ammo
+
+*2024-01-30 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96847/operation-yukthiya-underworld-figure-arrested-with-weapons-ammo) · `en`
+
+A notorious underworld figure was arrested on Tuesday (30 Jan.), while in possession of a cache of weapons, police reported.
+
+According to police, the arrest was made during the ongoing anti-drug operation ‘Yukthiya’.
+
+Accordingly, the suspect was taken into custody while in possession of a T-56 firearm, two magazines, 28 rounds of ammunition, an air rifle, seven swords and two locally-made hand grenades, police said.
+
+A total of 868 suspects were arrested by security forces personnel within 24 hours ending at 12:30 a.m. today, during the ongoing operation ‘Yukthiya’.
+
+According to the Ministry of Public Security, the narcotics taken into custody during this period include 120g of heroin, 98 grams of crystal methamphetamine (Ice) and 31,611 narcotic pills. Additionally, 123kg of cannabis and 9,708 cannabis plants too were impounded.
+
+◼️
+
+[Data](articles/797609d0.json)
+
+---
+
+### தேசிய மக்கள் சக்திக்கே தொடர்ந்தும் மக்கள் ஆதரவு -ஐஎச்பியின் கருத்துக்கணிப்பு
+
+*2024-01-30 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/175136) · `ta`
+
+2023 டிசம்பரில் தேசிய மக்கள் சக்திக்கு ஏனைய கட்சிகளை விட அதிகளவு ஆதரவு காணப்பட்டமை கருத்துக்கணிப்பொன்றின் மூலம் தெரியவந்துள்ளது.
+
+இன்ஸ்டியுட் ஒவ்ஹெல்;த் பொலிசி என்ற நிறுவனம் தேர்தலில் வாக்களிக்கும் நோக்கம் குறித்து வாக்களிக்க தகுதிபெற்றவர்கள் மத்தியில் மேற்கொண்ட கருத்துக்கணிப்பின் மூலம் இது தெரியவந்துள்ளது.
+
+தேசிய மக்கள் சக்திக்கு 39 வீதமானவர்கள் தங்கள் ஆதரவை வெளியிட்டுள்ளனர் ஐக்கிய மக்கள்சக்திக்கு 27 வீதமானவர்கள் தங்கள் ஆதரவை வெளியிட்டுள்ளனர்.
+
+ஜனாதிபதி ரணில்விக்கிரமசிங்கவின்  ஐக்கியதேசிய கட்சியிக்கு ஆறுவீத ஆதரவும ஸ்ரீலங்கா பொதுஜனபெரமுனவிற்கு பத்து வீத ஆதரவும் காணப்படுவதை கருத்துக்கணிப்பு வெளிப்படுத்தியுள்ளது.
+
+தேசிய மக்கள் சக்திக்கான ஆதரவு 2022 முதல் அதிகரித்து வருவதை இந்த கருத்துக்கணிப்பு புலப்படுத்துகின்றது ஐக்கிய மக்கள் சக்தியும் தனது ஆதரவை அதிகரித்துள்ளது ஆனால் மந்தகதியில் இந்த ஆதரவு அதிகரிப்பு காணப்படுகி;ன்றதுஎன  கருத்துக்கணிப்பினை மேற்கொண்ட அமைப்பு தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/92cf9558.json)
+
+---
+
+### மார்ச் முதல் யாழ்.போதனா மருத்துவ கழிவு எரியூட்டி இயங்கும் - பணிப்பாளர் வைத்தியர் சத்தியமூர்த்தி
+
+*2024-01-30 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175127) · `ta`
+
+யாழ்ப்பாணம் போதனா வைத்தியசாலை மருத்துவ கழிவுகளை எரியூட்டுவதற்கான எரியூட்டி எதிர்வரும் மார்ச் மாதம் முதல் ஆரம்பமாகும் என யாழ்.போதனா வைத்தியசாலை பணிப்பாளர் த. சத்திய மூர்த்தி தெரிவித்துள்ளார்.
+
+வைத்தியசாலை மருத்துவ கழிவுகளை எரியூட்ட கோம்பயன் மணல் மயானத்தில், ஐக்கிய நாடுகள் அபிவிருத்தி செயற்திட்டத்தின் 40 மில்லியன் ரூபாய் நிதி பங்களிப்பில் எரியூட்டி நிர்மாணிக்கப்பட்டு வருகிறது. அதன் பணிகள் பூர்த்தியாகும் நிலையை அடைந்துள்ளது.
+
+எதிர்வரும் வரும் மார்ச் மாதம் முதல் எரியூட்டி தொழிற்பட தொடங்கும் என பணிப்பாளர் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/d82f4de9.json)
+
+---
+
+### More censorship to protesters
 
 *2024-01-30 12:15:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192735) · `si`
 
-සමගි ජන බලවේගයේ විරෝධතා රැළියට සහභාගී වන පිරිසට මුදල් අමාත්‍යාංශයට සහ ජනාධිපති ලේකම් කර්යලයට ඇතුළුවීම වළක්වාලමින් කොළඹ කොටුව මහෙස්ත්‍රාත් අධිකරණයෙන් වාරණ නියොගයක් නිකුත් කර
+Colombo Fort Magistrate Court issues a block of injunctions from the Colombo Fort Magistrate
 
-සමගි ජන බලවේගය අද (30) දින කොළඹදී  විරෝධතා පා ගමනක් සහ රැළියක් පැවැත්වීමට සූදානම් ව සිටියි.
+The reconciliation power is preparing to hold a protest and a rally in Colombo today (30).
 
 ◼️
 
 [Data](articles/1e426617.json)
+
+[Extended Data](ext_articles/1e426617.ext.json)
 
 ---
 
@@ -57,6 +133,40 @@ A press conference to inform the Cabinet decisions has been launched in the Info
 [Data](articles/9e41a01b.json)
 
 [Extended Data](ext_articles/9e41a01b.ext.json)
+
+---
+
+### மிதவைக்குடை வீரர் காயம்: இருவர் கட்டடத்தில் இறங்கினர்
+
+*2024-01-30 11:53:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிதவைக்குடை-வீரர்-காயம்-இருவர்-கட்டடத்தில்-இறங்கினர்/175-332334) · `ta`
+
+இலங்கையின் 76 ஆவது சுதந்திர தினத்தின் பிரதான வைபவம்,  கொழும்பு காலி முகத்திடலில் நடத்துவதற்கான ஏற்பாடுகள் முன்னெடுக்கப்பட்டுள்ளன.
+
+இதற்கான ஒத்திகைகள் இன்றும் முன்னெடுக்கப்பட்டன. காலி முகத்திடல் வீதி, பொதுப்போக்குவரத்துக்கு முற்றாக தடைச்செய்யப்பட்டு, ஒத்திகைகள் இடம்பெறுகின்றன.
+
+இந்நிலையில், ஒத்திகையில் பங்கேற்றிருந்த மிதவைக்குடை (பராசூட்) வீரர்களில் ஒருவர், பராசூட்டில் இருந்து இறங்கும் போது காயங்களுக்கு உள்ளாகியுள்ளார்.
+
+இராணுவப் பேச்சாளர் மேஜர் ஜெனரல் கே.ஏ.என். ரசிக குமார தெரிவிக்கையில் பராசூட் வீரர்களில் ஒருவர்  ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும், ஏனைய இரு படையினரை மீட்பதற்கான முயற்சிகள் மேற்கொள்ளப்பட்டு வருவதாகவும் தெரிவித்தார்.
+
+◼️
+
+[Data](articles/aa946af8.json)
+
+---
+
+### Four paratroopers injured in accident during Independence Day rehearsals
+
+*2024-01-30 11:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96846/four-paratroopers-injured-in-accident-during-independence-day-rehearsals) · `en`
+
+Four paratroopers have suffered minor injuries during Independence Day rehearsals this morning, Ada Derana learns.
+
+According to Sri Lanka Air Force (SLAF) spokesman Group Captain Dushan Wijesinghe, two paratroopers belonged to the SLAF, while the other two were attached to the Sri Lanka Army.
+
+The four paratroopers reportedly suffered minor injuries after their parachutes had gotten entangled mid-air, while landing during the ongoing Independence Day rehearsals which commenced earlier today.
+
+◼️
+
+[Data](articles/5dc5cc91.json)
 
 ---
 
@@ -120,6 +230,34 @@ Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
 
 ---
 
+### இலங்கையில் ஊழலில் ஈடுபடுபவர்களின் பட்டியலில் முதலிடத்தில் பொலிஸார் : இரண்டாமிடத்தில் எம்.பி.க்கள்..!
+
+*2024-01-30 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175124) · `ta`
+
+இலங்கையில் அதிகம் இலஞ்ச ஊழல் நடவடிக்கைகளில் ஈடுபடும் பிரிவாக இலங்கை பொலிஸ் துறை காணப்படுவதாக பேராதனை பல்கலைக்கழக ஆய்வொன்று  கூறுகின்றது. நாட்டின் சட்டம் ஒழுங்கை காக்கும் உயரிய சேவையில் ஈடுபட்டுள்ள இத்துறையினர் இதில் முதலிடத்தைப் பிடித்திருப்பது ஆச்சரியமான விடயமல்ல என்றும் சுட்டிக்காட்டப்பட்டுள்ளது. அதே போன்று அதிக ஊழலில்  ஈடுபடுவர்களில் இரண்டாமிடத்தை நாடாளுமன்ற உறுப்பினர்கள் பெற்றுள்ளனர். மக்களால் தெரிவு செய்யப்பட்டு நாடாளுமன்றில் அங்கம் வகிக்கும் இவர்கள் பல சலுகைகளையும் பெறும் நபர்களாக உள்ளனர். அப்படியிருந்தும் அவர்கள்  ஊழல் நிறைந்தவர்களாகவே உள்ளதாக  சுட்டிக்காட்டப்பட்டுள்ளது. பேராதனை பல்கலைக்கழக பொருளியல் துறை பேராசிரியர்கள் இருவர் இணைய வழியில் ஐந்நூறு பேரிடம் திரட்டிய தகவல்களில் அடிப்படையில் இந்த விடயங்கள் வெளிப்பட்டுள்ளன.
+
+◼️
+
+[Data](articles/8d810601.json)
+
+---
+
+### ஐ.ம.ச கொழும்பில் எதிர்ப்பு ஆர்ப்பாட்டம்
+
+*2024-01-30 11:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-கொழும்பில்-எதிர்ப்பு-ஆர்ப்பாட்டம்/175-332333) · `ta`
+
+ஐக்கிய மக்கள் சக்தி இன்றைய தினம் (30) கொழும்பில் எதிர்ப்பு ஆர்ப்பாட்டமொன்றை முன்னெடுக்கவுள்ளது.
+
+மக்கள் எதிர்கொள்ளும் பிரச்சினைகளுக்கு தீர்வு வழங்குமாறு அரசாங்கத்தை வலியுறுத்தி குறித்த எதிர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்படவுள்ளது.
+
+கொழும்பு ஹைட் பார்க் மைதானம் மற்றும் பஞ்சிகாவத்தையில் இன்று(30) பிற்பகல் 1.30 க்கு எதிர்ப்பு ஆர்ப்பாட்டம் ஆரம்பமாகவுள்ளதாக ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/e5ac2b16.json)
+
+---
+
 ### Anti-Terrorism Bill: Petition hearing enters day three
 
 *2024-01-30 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96844/anti-terrorism-bill-petition-hearing-enters-day-three) · `en`
@@ -162,6 +300,24 @@ All SJB leaders, together with its allies, are expected to participate in the ra
 
 ---
 
+### ஜோர்தான் தாக்குதலிற்கு பின்னர் கடும் அழுத்தத்தில் பைடன் - பதில் தாக்குதல் மிகவும் உக்கிரமானதாக காணப்படும் - சிஎன்என்
+
+*2024-01-30 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175126) · `ta`
+
+ஜோர்தானில்  உள்ள அமெரிக்க தளம் மீது மேற்கொள்ளப்பட்ட ஆளில்லா விமானதாக்குதலிற்கான அமெரிக்காவின் பதிலடி முன்னர் ஒருபோதும் இல்லாத அளவிற்கு உக்கிரமானதாகயிருக்கலாம் என சிஎன்என் செய்தி வெளியிட்டுள்ளது.
+
+ஈராக் சிரியா மீது அமெரிக்கா முன்னர் மேற்கொண்ட தாக்குதலை விட  இம்முறை இடம்பெறவுள்ள தாக்குதல் உக்கிரமானதாகயிருக்கலாம் என அதிகாரியொருவர் தெரிவித்துள்ளார்.
+
+எனினும் பென்டகனும் வெள்ளை மாளிகையும் இதுவரை தங்கள் திட்டங்களை வெளிவிடவில்லை இது குறித்து எச்சரிக்கையுடன் உள்ளன எனவும் சிஎன்என் தெரிவித்துள்ளது.
+
+ஜோபைடன்  மத்திய கிழக்கில் உள்ள அமெரிக்க தளங்கள் மீதான தாக்குதல்களை நிறுத்துவதற்காக பதில் நடவடிக்கையில் ஈடுபடவேண்டும் என்ற கடும் அழுத்தத்திற்குள்ளாகியுள்ளார் - ஒக்டோபர் ஏழாம் திகதிக்கு பின்னர் ஈராக் சிரியாவில் உள்ள அமெரிக்க தளங்கள் மீது ஈரான் சார்பு குழுக்கள் 160 தடவைகளிற்கு மேல் தாக்குதல்களை மேற்கொண்டுள்ளன  எனவும் சிஎன்என் தெரிவித்துள்ளது.
+
+...
+
+[Data](articles/7c3af846.json)
+
+---
+
 ### Court order for the rally
 
 *2024-01-30 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192731) · `si`
@@ -177,6 +333,26 @@ Accordingly, the respondents and their followers are prohibited from the Maliwat
 [Data](articles/1baf184e.json)
 
 [Extended Data](ext_articles/1baf184e.ext.json)
+
+---
+
+### முல்லைத்தீவு மாத்தளன் கடலில் அலையால் அள்ளுண்டுசெல்லப்பட்ட குடும்பஸ்தரின் சடலம் மீட்பு குடும்பஸ்தரின் சடலம்  மீட்பு
+
+*2024-01-30 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175118) · `ta`
+
+முல்லைத்தீவு மாத்தளன் கடலில் நீராடச் சென்ற இளம் குடும்பஸ்தரின் சடலம் நேற்று திங்கட்கிழமை (29) சாலை கடற்பகுதியில் கரையொதுங்கியுள்ளது.
+
+முல்லைத்தீவு மாத்தளன் பகுதி கடற்கரையில் நேற்றையதினம் மாலை குடும்பத்தினருடன் கடலில் நீராடிக்கொண்டிருந்த வேளை குறித்த குடும்பஸ்தர் அலையால் அள்ளுண்டு செல்லப்பட்டு நீரில் மாயமாகியிருந்தார்.
+
+இந்த சம்பவத்தினை தொடர்ந்து தேடுதல் நடாத்தியும் சடலம் கண்டுபிடிக்கமுடியாத நிலையில் நேற்றைய தினம் மாலை குறித்த குடும்பஸ்தரின் சடலம்  சாலை கடற்கரைப்பகுதியில் கரையொதுங்கியுள்ளது.
+
+குறித்த சம்பவத்தில் 33 அகவையுடைய 10 ஆம் வட்டாரம் புதிய குடியிருப்பினை சேர்ந்த இராசதுரை கஸ்தூரன் என்ற இளம் குடும்பஸ்தரே இவ்வாறு உயிரிழந்துள்ளார்.
+
+சம்பவ இடத்திற்கு சென்று விசாரணைகளை ஆரம்பித்த முல்லைத்தீவு மாவட்ட நீதிபதி தர்மலிங்கம் பிரதீபன் பிரேத பரிசோதனையினை மேற்கொண்ட பின்னர் உறவினர்களிடம் ஒப்படைக்க உத்தரவிட்டிருந்தார்.
+
+◼️
+
+[Data](articles/a16f6dd4.json)
 
 ---
 
@@ -282,6 +458,22 @@ The Volkswage Group of Germany has been placed second with the sale of 9.2 milli
 
 ---
 
+### யுத்த குற்றங்கள் இடம்பெற்றதை  மறுக்கும் ஒருவரை ஆலோசகராக நியமித்துள்ள ஐக்கிய மக்கள் சக்தி - அம்பிகா சற்குணநாதன் கடும் விசனம்
+
+*2024-01-30 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175121) · `ta`
+
+யுத்த குற்றங்கள் இடம்பெற்றதை  மறுக்கும் ஒருவரை ஆலோசகராக ஐக்கியமக்கள் சக்தி நியமித்துள்ளமை குறித்துலெப்டினன் ஜெனரல் தயா ரத்நாயக்க) இலங்கை மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன் டுவிட்டரில் கடும் விமர்சனத்தை முன்வைத்துள்ளார்.
+
+ஐக்கிய மக்கள் சக்தி யுத்த குற்றங்கள் இடம்பெற்றதை மறுக்கும் ஒருவரை ஆலோசகராக நியமித்துள்ளதுடன்  மனிதாபிமான நடவடிக்கைகள் என்ற பதத்தை பயன்படுத்தியிருப்பது இலங்கையின் உள்நாட்டு யுத்தத்தின் போது யுத்த குற்றங்கள் இடம்பெறவி;ல்லை எனவும் எவரையும் பொறுப்புக்கூறலிற்கு உட்படுத்த வேண்டியதில்லை எனவும்  அந்த கட்சி கருதுவதை வெளிப்படுத்தியுள்ளது என அம்பிகா சற்குணநாதன் தெரிவித்துள்ளார்
+
+தென்னிலங்கையின் அனைத்து கட்சிகளும் இந்த விடயத்தில் ஒரே மாதிரியான நிலைப்பாட்டை கொண்டுள்ளன எனவும் அவர் குறிப்பிட்டுள்ளார்.
+
+◼️
+
+[Data](articles/6cea6200.json)
+
+---
+
 ### Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
 
 *2024-01-30 10:55:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/hyde-park-panchikawatte-are-starting-points-for-sjb-s-big-colombo-protest/) · `en`
@@ -347,6 +539,22 @@ The Attorney General had indicted him for rape and causing serious abnormal sex 
 [Data](articles/4485f99e.json)
 
 [Extended Data](ext_articles/4485f99e.ext.json)
+
+---
+
+### மக்களும் கட்சியும் விரும்பினால் அரசியலில் ஈடுபடுவது தொடர்பில் பரிசீலிக்கலாம் :  சனத் நிஷாந்தவின் மனைவி!
+
+*2024-01-30 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175120) · `ta`
+
+தமக்கு அரசியலில் பிரவேசிக்கும் நோக்கம்  இல்லையென்றாலும், தனது கணவரின் மறைவினால் வெற்றிடமாகியுள்ள  பதவியை ஏற்குமாறு புத்தளம் மக்களும் கட்சியும் தம்மிடம் கோரிக்கை விடுத்தால் எதிர்காலத்தில் அது குறித்து பரிசீலிக்கலாம் என மறைந்த இராஜாங்க  அமைச்சர் சனத் நிஷாந்தவின் மனைவி தெரிவித்துள்ளார்.
+
+அண்மையில் அதிக வீதியில் இடம்பெற்ற வாகன விபத்தில் உயிரிழந்த இராஜாங்க அமைச்சர்  சனத் நிஷாந்தவின் பாதுகாப்பு உத்தியோகத்தர் பொலிஸ் சார்ஜன்ட் அநுராதா ஜயக்கொடியின் வீட்டுக்குச் சென்ற சட்டத்தரணி சாமரி பிரியங்கா பெரேரா,  ஊடகவியலாளர்கள் முன்னிலையில் இதனைக் குறிப்பிட்டுள்ளார்.
+
+எனது கணவர்  புத்தளம் மாவட்டத்துக்கும்  நாட்டு மக்களுக்கும் பெரும் சேவையாற்றினார்.  அவரைத் தேடி வந்த எவரும் வெறுங்கையுடன் திரும்பியதில்லை என்றும் அவர் தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/06080469.json)
 
 ---
 
@@ -500,7 +708,7 @@ In addition, three T20 matches will be held at Dambulla Ground a few years later
 
 ### Youth arrested with 31 thousand drugs in Mannar
 
-*2024-01-30 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175115) · `ta`
+*2024-01-30 10:11:00* · [`virakesarilk`](https://www.virakesari.lk/article/175115) · `ta`
 
 A youth has been arrested on Monday evening (29) evening with 31 thousand drug pills from a cardholder in the Chaudpar area of the Mannar Police Division.
 
@@ -1775,235 +1983,5 @@ Both indices moved downwards. The All- Share Price Index went down by 38.4 point
 [Data](articles/240be999.json)
 
 [Extended Data](ext_articles/240be999.ext.json)
-
----
-
-### Social activist Piyat Nikeshla arrested
-
-*2024-01-29 22:34:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சமூக-செயற்பாட்டாளர்-பியத்-நிகேஷல-கைது/175-332308) · `ta`
-
-Social activist Piyat Nikeshla was arrested today by the Criminal Investigation Department of the Criminal Investigation Department.
-
-He was summoned to the Criminal Investigation Department to obtain a affidavit and was arrested after his affidavit.
-
-Police said Piyat Nikeshla was arrested on charges of disrupting the peace of the public, the public dissatisfaction with the government and the publication of the public.
-
-◼️
-
-[Data](articles/b04504a4.json)
-
-[Extended Data](ext_articles/b04504a4.ext.json)
-
----
-
-### Worry in Parliamentary Selectings about the Ministry of Finance
-
-*2024-01-29 22:31:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192713) · `si`
-
-Chairperson of several Parliament comments recently expressed their concern for the Ministry of Finance and the lack of a clear arrangement to the Ministry of Finance and its affiliates to alleviate the existing crisis.
-
-Several institutions including the Ministry of Finance and several institutions were recently summoned to the Kopya Committee.
-
-The Ministry of Inland Revenue Department, Department of Inland Revenue Department, Department of Inland Revenue Department and the Sri Lanka Customs, the Heads of the Department of Intension Department and the Sri Lanka Customs have been summoned to the Committee on Public Accounts.
-
-Commenting on the occasion, the Chairman of the National Economic and Physical Planneerology of the National Economic and Physical Planneelectric Program pointed out that the intervention of the department and the Ministry are not inadequate to amend the Inland Revenue Act.
-
-◼️
-
-[Data](articles/07d918fa.json)
-
-[Extended Data](ext_articles/07d918fa.ext.json)
-
----
-
-### Kandy Road blooms bloom
-
-*2024-01-29 22:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192712) · `si`
-
-Due to a protest, the Kandyan University has been blocked in front of the University of Kelaniya.
-
-Police said that a group of students of Kelaniya University engaged in protest.
-
-The lane towards the Kandy University of Kandy main road is completely blocked.
-
-◼️
-
-[Data](articles/9bc97149.json)
-
-[Extended Data](ext_articles/9bc97149.ext.json)
-
----
-
-### Some universities planning to invite presidential candidates to universities: Raghavan alleges
-
-*2024-01-29 22:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Some-universities-planning-to-invite-presidential-candidates-to-universities-Raghavan-alleges/108-275938) · `en`
-
-Colombo, Jan. 29 (Daily Mirror)-Some universities were planning to invite politicians and presidential candidates to universities and such moves should be stopped, State Minister of Higher Education Dr. Suren Raghavan said today.
-
-He told a news conference at the Government Information Department that politicizing of universities should be stopped.
-
-"I learnt that some universities are planning to invite politicians and presidential candidates to universities. This should be stopped. Please stop politicizing universities. Universities are meant for academic activities. Politics is discussed in that scope.However, it should not be partial. The senate and its academics should decide who should be invited to universities for events," he said.
-
-Referring to ragging in universities, he said some 82 complaints with regard to ragging have been received up to now from August last year since the establishment of the hotline 1997.
-
-...
-
-[Data](articles/e38e3831.json)
-
-[Extended Data](ext_articles/e38e3831.ext.json)
-
----
-
-### Sri Lanka’s new transitional justice process lacks credibility – HRW
-
-*2024-01-29 22:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96834/sri-lankas-new-transitional-justice-process-lacks-credibility-hrw) · `en`
-
-The Sri Lankan government’s proposed law to create another body to investigate wartime abuses replicates previous failed efforts, ignores the needs of victims, and falls far short of meeting Sri Lanka’s international legal obligations, Human Rights Watch said on Tuesday (29 Jan.).
-
-In a statement, the Human Rights Watch claimed that “Sri Lankan authorities continue to silence and repress families of victims and their communities 15 years after the armed conflict ended”.
-
-The Commission for Truth, Unity and Reconciliation in Sri Lanka Bill was published on January 1, 2024, following limited consultations in 2023 and government pledges to investigate human rights violations and war crimes committed during the 1983-2009 civil war with the separatist Liberation Tigers of Tamil Eelam (LTTE) and in its aftermath.
-
-...
-
-[Data](articles/63ac2446.json)
-
-[Extended Data](ext_articles/63ac2446.ext.json)
-
----
-
-### National Consumer Front urges Minister for swift action on soaring vegetable prices before preparing for polls
-
-*2024-01-29 22:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/National-Consumer-Front-urges-Minister-for-swift-action-on-soaring-vegetable-prices-before-preparing-for-polls/108-275928) · `en`
-
-Colombo, Jan 29 (Daily Mirror) - Before preparing for the upcoming Presidential election meeting, the National Consumer Front (NCF) requested that Trade Minister Nalin Fernando promptly investigates into the unexpected rise in vegetable prices in the market.
-
-The Front said the prices of vegetables have increased in Dambulla and Nuwara Eliya, and therefore vegetables cannot be sold in the local market as the increase in prices have to be borne by consumers.
-
-According to the prices of the New Manning Market in Peliyagoda, the price of a kilogramme of carrot was Rs. 2,000. A kilo of green chillies, which was Rs. 800, has increased to Rs. 1,200, a kilo of Kekiri has increased to Rs. 300, and a kilo of pumpking has increased to Rs. 300.
-
-National Consumer Front Chairman Asela Sampath requested that Trade Minister Bandula Gunawardena investigate into the sudden price increase of vegetables in the local market and provide immediate solutions to control the prices.
-
-...
-
-[Data](articles/fddc73c3.json)
-
-[Extended Data](ext_articles/fddc73c3.ext.json)
-
----
-
-### Universal Buddha and Roshan is one of the latest story
-
-*2024-01-29 21:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192711) · `si`
-
-There are many more information about the person who lists the universal Buddha today (UNP) in court today.
-
-It was revealed that nearly Rs. 25 million has been deposited to his account from December 2023 to December 2023.
-
-However, it has been revealed that all the money had been returned to the commencement of the investigation into the "universal Buddha".
-
-Meanwhile, the Sri Lanka Ramanya Seikaya has notified the Colombo Chief Magistrate's Court today that the monks have been abolished.
-
-Roshan Menaman Ranasinghe, who is accused of the universal Buddha of Buddha, have been recalled today in the Colombo Chief Magistrate's Court today.
-
-Senior Deputy Deputy Solicitor General Dili Development was produced before the court when the suspect was released on bail.
-
-...
-
-[Data](articles/3842b1a2.json)
-
-[Extended Data](ext_articles/3842b1a2.ext.json)
-
----
-
-### Social activist Piyath Nikeshala arrested
-
-*2024-01-29 21:06:00* · [`adaderanalk`](https://www.adaderana.lk/news/96833/social-activist-piyath-nikeshala-arrested) · `en`
-
-Social activist Piyath Nikeshala was arrested by the Criminal Investigations Department (CID) on Monday evening (29 Jan.), when he had arrived to record a statement.
-
-According to police, Nikeshala had arrived at the Computer Crimes Division of the CID to record a statement in connection with a complaint filed under the Social Media Regulation Act.
-
-◼️
-
-[Data](articles/04554305.json)
-
-[Extended Data](ext_articles/04554305.ext.json)
-
----
-
-### Document spells out allegations against 12 UN employees Israel says participated in Hamas attack
-
-*2024-01-29 21:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96832/document-spells-out-allegations-against-12-un-employees-israel-says-participated-in-hamas-attack) · `en`
-
-An Israeli document obtained Monday spelled out allegations against a dozen U.N. employees the country says participated in Hamas’ Oct. 7 assault — claiming seven stormed into Israeli territory, including two who participated in kidnappings.
-
-The allegations against staffers with the U.N. agency for Palestinian refugees prompted Western countries to freeze funds vital for the body, which is a lifeline for desperate Palestinians in Gaza. The U.N. fired nine of the 12 accused workers and condemned “the abhorrent alleged acts” of staff members.
-
-The accusations come after years of tensions between Israel and the agency known as UNRWA over its work in Gaza, where it employs roughly 13,000 people.
-
-...
-
-[Data](articles/96125d6e.json)
-
-[Extended Data](ext_articles/96125d6e.ext.json)
-
----
-
-### Social media activist Piyath Nikeshala arrested by CID
-
-*2024-01-29 21:02:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Social-media-activist-Piyath-Nikeshala-arrested-by-CID/108-275927) · `en`
-
-Colombo, Jan 29 (Daily Mirror) - Social media activist Piyath Nikeshala has been arrested by the Criminal Investigation Department, police said.
-
-He was reportedly arrested after being summoned before the CID to obtain a statement over publishing a recorded telephone conversation between Public Security Minister Tiran Alles and another social media activist on his YouTube channel.
-
-Piyath Nikeshala was also arrested on June last year over the live streaming on social media of the incident of burning President Ranil Wickremesinghe's private residence in Colombo on July 09, 2022
-
-◼️
-
-[Data](articles/938ca514.json)
-
-[Extended Data](ext_articles/938ca514.ext.json)
-
----
-
-### Country is self-sufficient in rice, no rice imports expected in 2024 – Minister
-
-*2024-01-29 21:00:00* · [`adaderanalk`](https://www.adaderana.lk/news/96831/country-is-self-sufficient-in-rice-no-rice-imports-expected-in-2024-minister-) · `en`
-
-In a significant milestone for Sri Lanka’s agricultural sector, Minister of Agriculture and Plantation Industries Mahinda Amaraweera has announced that the country is now self-sufficient in rice production.
-
-This means that Sri Lanka is not expected to import any rice in 2024, the President’s Media Division (PMD) reported.
-
-This achievement is the result of years of dedicated efforts by farmers and government initiatives to boost domestic rice production. It not only bodes well for the nation’s food security but also represents a critical step towards reducing reliance on foreign imports and strengthening the agricultural sector.
-
-The Minister of Agriculture and Plantation Industry, Mr. Mahinda Amaraweera mentioned this while joining a press briefing held at the Presidential Media Centre (PMC) on the theme ‘Collective Path to a Stable Country’ today (29).
-
-...
-
-[Data](articles/6a5e686f.json)
-
-[Extended Data](ext_articles/6a5e686f.ext.json)
-
----
-
-### Sridharan's letter to the Chief Minister of Tamil Nadu, citing Shantan's mother's letter
-
-*2024-01-29 20:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175107) · `ta`
-
-Parliamentarian Sivagnanam Sreedharan has sent a letter to Tamil Nadu Chief Minister MK Stalin to release Santhan's mother's request to release the Sri Lankan Tamils who have been arrested and released in the Rajiv Gandhi assassination case.
-
-I am demanding their compassion and attention on the brutal request letter submitted by Shantan's mother, who was released by the Supreme Court of India on 2022-11-11 after his sentence of 32 years after his sentence and 32 years in prison.
-
-One year after the 32 -year prison sentence has been released by the court, the Sri Lankan citizens, Shantan Murugan Robert Bias Jayakumar, have been detained at Trichy specialist as they have not benefited from any effort to summon.
-
-In this case, Shantan, who has been severely affected by the kidney liver damage that can threaten the entire age of his youth and the entire age of old age, has now been admitted to the hospital.
-
-...
-
-[Data](articles/0e68086d.json)
-
-[Extended Data](ext_articles/0e68086d.ext.json)
 
 ---

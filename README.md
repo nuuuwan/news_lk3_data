@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 16:32:49**
+As of **2024-01-30 16:48:29**
 
 ## Newspaper Stats
 
-*Scraped **3,553** Articles*
+*Scraped **3,558** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ economynextcom | 193
 islandlk | 197
 newsfirstlk | 216
 dailyftlk | 233
-adalk | 323
-adaderanasinhalalk | 387
+adalk | 324
 virakesarilk | 390
+adaderanasinhalalk | 391
 tamilmirrorlk | 448
 adaderanalk | 455
 dailymirrorlk | 478
@@ -26,11 +26,49 @@ dailymirrorlk | 478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,547 (99.8%) of 3,553 articles have been extended.
+3,558 (100.0%) of 3,558 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### Shooting in London
+
+*2024-01-30 16:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192748) · `si`
+
+South London Police have taken steps to shoot a person who was forcible for a person with a device such as a bows.
+
+International media says the person who died of the shooting was about 30 years old.
+
+A police team had gone to the scene following a call for the Police Emergency Service that an armed person in South London is trying to enter the armed person in South London.
+
+The man had threatened the victims of violence.
+
+Accordingly, the suspect had gone to the house and the police had been shot.
+
+◼️
+
+[Data](articles/0173eb11.json)
+
+[Extended Data](ext_articles/0173eb11.ext.json)
+
+---
+
+### One person was injured during protest
+
+*2024-01-30 16:01:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192747) · `si`
+
+A person who was injured have been admitted to the Colombo National Hospital during the protest march in Colombo.
+
+Police and tear gas were attacked by the police near the Colombo Public Library to dissolve the protest march.
+
+◼️
+
+[Data](articles/eacd01e3.json)
+
+[Extended Data](ext_articles/eacd01e3.ext.json)
+
+---
 
 ### Sri Lanka, Thailand to sign bilateral aviation agreement
 
@@ -47,6 +85,8 @@ Accordingly, the Cabinet of Ministers yesterday approved the proposal submitted 
 ...
 
 [Data](articles/1e5fca70.json)
+
+[Extended Data](ext_articles/1e5fca70.ext.json)
 
 ---
 
@@ -65,6 +105,24 @@ As such, an Executive Committee consisting of senior officials will be appointed
 [Data](articles/6c358f2d.json)
 
 [Extended Data](ext_articles/6c358f2d.ext.json)
+
+---
+
+### Health service professional unions make a decision
+
+*2024-01-30 15:35:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192746) · `si`
+
+Several health care trade unions have been protesting in front of the Ministry of Health today (30).
+
+The protest has held the protest demanding the government doctors to give them the Dat allowance.
+
+The co-convener of the Alliance General Convener of the Co-convener of the Co-convener of the Co-convener of the Co-convener of the UPFA.
+
+◼️
+
+[Data](articles/cb271dae.json)
+
+[Extended Data](ext_articles/cb271dae.ext.json)
 
 ---
 
@@ -88,6 +146,8 @@ At the same time, the Fort Magistrate's Court also issued an order against Oppos
 
 [Data](articles/0f808ef5.json)
 
+[Extended Data](ext_articles/0f808ef5.ext.json)
+
 ---
 
 ### Police fire tear gas at SJB’s protest march
@@ -109,6 +169,22 @@ A court order further read that the protesters are, however, allowed to use the 
 [Data](articles/7494aeb5.json)
 
 [Extended Data](ext_articles/7494aeb5.ext.json)
+
+---
+
+### Water and tear gas attacks on Sajith's flock
+
+*2024-01-30 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192745) · `si`
+
+Police fired water and tear gas to dissolve protest march in harmony community.
+
+The police stabbed the Colombo Public Library near the Colombo Public Library at the Colombo Public Library near the Colombo Municipal Council.
+
+◼️
+
+[Data](articles/8fb4392e.json)
+
+[Extended Data](ext_articles/8fb4392e.ext.json)
 
 ---
 
@@ -209,6 +285,8 @@ Imran Khan sentenced to 10 years in jail for leaking state secrets
 ◼️
 
 [Data](articles/2e43e9fe.json)
+
+[Extended Data](ext_articles/2e43e9fe.ext.json)
 
 ---
 
@@ -341,6 +419,8 @@ In addition, the court order prohibits Opposition Leader Sajith Premadasa and ot
 ...
 
 [Data](articles/be3251b5.json)
+
+[Extended Data](ext_articles/be3251b5.ext.json)
 
 ---
 
@@ -580,6 +660,8 @@ PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Enteri
 
 [Data](articles/24aa7fd7.json)
 
+[Extended Data](ext_articles/24aa7fd7.ext.json)
+
 ---
 
 ### Independence Day Rehearsal: 4 Parasood soldiers injured: Two people fell on phase!
@@ -679,6 +761,26 @@ Therefore, the Cabinet has approved the proposal submitted by the Minister of Po
 [Data](articles/0ebd891b.json)
 
 [Extended Data](ext_articles/0ebd891b.ext.json)
+
+---
+
+### If you make a request, you will consider politics - Sanath Nishantha's wife
+
+*2024-01-30 13:13:10* · [`adalk`](https://www.ada.lk/breaking_news/ඉල්ලීමක්-කළොත්-දේශපාලනයට-ඒම-ගැන-සලකා-බලනවා---සනත්-නිශාන්තගේ-බිරිඳ-කියයි/11-407799) · `si`
+
+The late Minister of State Minister Sanath Nishantha, the wife of Hon.
+
+The security officer of the security officers of the State Minister Sanath Nishantha was killed in the accident in the Expressway and came to journalists when he was grieving the family.. She is a lawyer from profession.
+
+"Before going to my master's death, some media has been posted before I am coming into politics. None of them heard of me that. I have not made a statement to any media to date I'm coming to politics.
+
+I had not guided the husband's political affairs, but his private secretary had never been able to come to politics. There is no such hope too. But if the people of Puttalam, the people of Puttalam and the leadership of the people of the Puttalam, and the party leadership will have to think about it.
+
+...
+
+[Data](articles/5eebb298.json)
+
+[Extended Data](ext_articles/5eebb298.ext.json)
 
 ---
 
@@ -811,6 +913,8 @@ HMS Spey is a 90.5m long Offshore Patrol Vessel (OPV) which is manned by a crew 
 ...
 
 [Data](articles/48da8779.json)
+
+[Extended Data](ext_articles/48da8779.ext.json)
 
 ---
 
@@ -1923,99 +2027,5 @@ Imran Khan sentenced to 10 years in jail for leaking state secrets
 [Data](articles/7f4a00b7.json)
 
 [Extended Data](ext_articles/7f4a00b7.ext.json)
-
----
-
-### 31,000 drug pills;868 suspects arrested
-
-*2024-01-30 09:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/31-000-போதை-மாத்திரைகள்-868-சந்தேக-நபர்கள்-கைது/175-332322) · `ta`
-
-A further 868 suspects have been arrested by the Sri Lankan police and security forces within 24 hours of the end of the nationwide anti -narcotics operation at 12.30 am today.
-
-Three of the arrested persons have been issued a detention order, and five have been sent to rehabilitation centers, the Public Security Ministry said.
-
-Drugs arrested during this period include 120 grams of heroin, 98 ice and 31,611 narcotics pills.. In addition, 123 kilograms of cannabis and 9,708 cannabis were seized.
-
-Of the 527 persons arrested in these 24 hours, police said that they were involved in drug suspects.
-
-◼️
-
-[Data](articles/79856911.json)
-
-[Extended Data](ext_articles/79856911.ext.json)
-
----
-
-### Indian High Commissioner calls for Tamil parties to have unified stance on political rights
-
-*2024-01-30 09:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-High-Commissioner-calls-for-Tamil-parties-to-have-unified-stance-on-political-rights/108-275961) · `en`
-
-Colombo, Jan 30 (Daily Mirror) - New Indian High Commissioner Santosh Jha, in his maiden interaction with the representatives of the mainstream Tamil parties in the north recently, is reported to have emphasized the need for them to have a unified position on their collective demand for a political solution.
-
-However, Tamil National People’s Front (TNPF) led by MP Gajendrakumar Ponnambalam defied it and said his party could not align with other Tamil parties on this matter.
-
-India has been consistent that a solution to what is called ‘Tamil national question’ should be implemented based on the 13th Amendment to the Constitution introduced consequent to the 1987 Indo-Lanka Accord.
-
-...
-
-[Data](articles/cdcae55d.json)
-
-[Extended Data](ext_articles/cdcae55d.ext.json)
-
----
-
-### Police Arrest Two Women in Connection with Beliatte Quintuple Murder
-
-*2024-01-30 09:34:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/police-arrest-two-women-in-connection-with-beliatte-quintuple-murder/) · `en`
-
-COLOMBO (News 1st); Sri Lankan authorities have apprehended two women suspected of aiding and abetting in the brutal murders of five individuals in Beliatte last week. The gruesome crime sent shockwaves through the southern town, and the latest arrests mark progress in the ongoing investigation.
-
-Sri Lankan police apprehended the two suspects, aged 23 and 33, in the coastal town of Rathgama, located approximately 80 kilometers south of Colombo.
-
-According to police reports, one of the women's motorcycles was used to transport the two murder weapons from Karapitiya to a location in Boossa.
-
-Moreover, Sri Lanka Police launched an investigation into a 34-year-old man from Rathgama for allegedly aiding and abetting the assassination of five people in Beliatte, recently.
-
-...
-
-[Data](articles/e142595c.json)
-
-[Extended Data](ext_articles/e142595c.ext.json)
-
----
-
-### If there was a presidential presidential election in December, 50 percent
-
-*2024-01-30 09:33:01* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බරයේ-ජනපතිවරණයක්-තිබුණේ-නම්-අනුරට-සියයට-50ක්/11-407793) · `si`
-
-According to estimates on the presidential election intention regarding the December 2023, the National Front Leader Anura Kumara Dissanayake, the Leader of the Front Anura Kumara Dissanayake is ahead of 50 percent of the elders.
-
-On the survey, Opposition Leader Sajith Premadasa and President Ranil Wickremesinghe and the Candidate of the Sri Lanka Ranil Wickremesinghe have an 8 percent population.
-
-◼️
-
-[Data](articles/efc18303.json)
-
-[Extended Data](ext_articles/efc18303.ext.json)
-
----
-
-### Students Siege of Administrative Building of Kelaniya University
-
-*2024-01-30 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175109) · `ta`
-
-About 350 students at the University of Kelaniya have blocked the administrative building and are engaged in protests.
-
-The demonstration was held last night in protest of President Ranil Wickremesinghe's visit to Kelaniya University.
-
-As the students were protesting over the Colombo-Kandi road last night (29), the police were using tear gas and water to dissolve them.
-
-Due to this struggle, the main road from Colombo to Kandy in front of the University of Kelaniya has been completely blocked.
-
-◼️
-
-[Data](articles/a5672600.json)
-
-[Extended Data](ext_articles/a5672600.ext.json)
 
 ---

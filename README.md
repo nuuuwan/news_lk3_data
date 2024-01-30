@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 23:32:55**
+As of **2024-01-30 23:51:43**
 
 ## Newspaper Stats
 
-*Scraped **3,636** Articles*
+*Scraped **3,637** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,14 +19,14 @@ adalk | 331
 adaderanasinhalalk | 405
 virakesarilk | 405
 tamilmirrorlk | 459
-adaderanalk | 465
+adaderanalk | 466
 dailymirrorlk | 497
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,630 (99.8%) of 3,636 articles have been extended.
+3,635 (99.9%) of 3,637 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,30 @@ The West Indies U19 in their run chase saw openers skipper Stephan Pascal and St
 ...
 
 [Data](articles/8564077d.json)
+
+[Extended Data](ext_articles/8564077d.ext.json)
+
+---
+
+### Preparation of 10,000 land deeds finalized for “Urumaya” program’s initial stage
+
+*2024-01-30 22:47:00* · [`adaderanalk`](https://www.adaderana.lk/news/96867/preparation-of-10000-land-deeds-finalized-for-urumaya-programs-initial-stage) · `en`
+
+The preparation of the initial stage of the “Urumaya” program, involving the distribution of 10,000 land deeds, has been finalized, the President’s Media Division (PMD) says.
+
+The Ministry of Tourism and Lands has announced the commencement of the “Urumaya” Freehold Deed Program, aiming to grant land ownership to deserving individuals.
+
+H.M.B.P. Herath, the Secretary of the Ministry, confirmed that necessary steps have been taken to dispatch these freehold deeds to the relevant District Secretariats.
+
+This progress was disclosed during an online discussion held on Tuesday (Jan.30), involving officials from the Presidential Secretariat, District Secretaries, and Divisional Secretaries.
+
+The “Urumaya” program marks a significant step towards addressing land ownership issues in Sri Lanka. With 10, 000 freehold deeds set for distribution in the first phase alone; the program holds the potential to positively impact a considerable number of lives.
+
+...
+
+[Data](articles/7cd485b5.json)
+
+[Extended Data](ext_articles/7cd485b5.ext.json)
 
 ---
 
@@ -102,53 +126,63 @@ Concluding the visit, PNS SAIF will leave the island on February 01 and conduct 
 
 ---
 
-### உலக விவகாரங்களை அனுகுவதில் முக்கிய பாத்திரமாக உருவெடுத்திருக்கும் சவூதி அரேபியா
+### Saudi Arabia, which has emerged as a major role in global affairs
 
 *2024-01-30 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175180) · `ta`
 
-2023ஆம் ஆண்டின் தொடக்கத்திலிருந்து அரசியல் சீரமைப்புகளை செய்து, கனிசமான உலகளாவிய உச்சிமாநாடுகள் மற்றும் அதி முக்கிய நிகழ்வுகளுக்கு தலைமை தாங்கி நடாத்தி வருவதிலிருந்து சவூதி அரேபியா உலக அரசியல் அரங்கில் ஒரு முக்கிய இராஜதந்திர கதாப்பாத்திரமாக உருவெடுத்துள்ளமை யாவரும் அறிந்ததே.
+It is well known that Saudi Arabia has emerged as a major diplomatic role in the World Politics Forum since the beginning of 2023, which has been leading political alignment and leading the global summit and major events.
 
-சர்வதேச இராஜதந்திர விவகாரங்களில் சவூதி அடைந்துள்ள இந்த குறிப்பிடத்தக்க உயர் நிலையானது சவூதியின் வளர்ந்து வரும் பூகோள அரசியல் செல்வாக்கிற்கு ஒரு சான்றாக இருப்பது மட்டுமல்லாது, அதன் வெளியுறவுக் கொள்கைகள் மற்றும் அணுகுமுறைகளில் புதியதொரு மறுமலர்ச்சியையும் அடையாளம் காட்டியுள்ளது.
+This significant high standard of international diplomatic issues has not only a testament to the growing global political influence but also a new revival in its foreign policies and approaches.
 
-கடந்த ஆண்டுகளில் தோன்றிய பிராந்திய மற்றும் சர்வதேச அரசியல், பொருளாதாரம் சார் மற்றும் இதர சிக்கல்களை சீர்செய்யும் நோக்கில் சவூதி அரேபியா அர்ப்பணிப்புடனும் வேகமாகவும் செயற்பட்டு வந்ததோடு, சர்வதேச நெருக்கடிகளை நிர்வகித்தல் மற்றும் பல்வேறு வகையான உலகளாவிய பிரச்சினைகளின் போது பல பேச்சுவார்த்தைகளை தொடங்கி நடாத்துவதிலும் அதன் ஆர்வத்தை வெளிப்படுத்தியமை அரசியலை ஆராயும் எவரும் மறுக்கமுடியாத நிதர்சன உண்மையாக இருக்கிறது.
+Saudi Arabia has been rapidly committed to dedicating regional and international politics, economic and other issues that have emerged in the past years, and the politics of the politics of managing international crises and launching its interest in various kinds of global issues.
 
 ...
 
 [Data](articles/0f4665ba.json)
 
+[Extended Data](ext_articles/0f4665ba.ext.json)
+
 ---
 
-### பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்ட ஒரு தலைவருக்கு ஆதரவளிப்பது அனைவரினதும் கடமையும் பொறுப்புமாகும் - பிரசன்ன ரணதுங்க
+### It is the duty and responsibility of everyone to support a leader who rescued the country from the economic crisis - Prasanna Ranatunga
 
 *2024-01-30 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175181) · `ta`
 
-பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்ட ஒரு தலைவருக்கு எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஆதரவளிப்பது அனைவரினதும் கடமையும் பொறுப்பும் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க வலியுறுத்துகின்றார்.
+Minister of Urban Development and Housing Prasanna Ranatunga urges a leader in the upcoming presidential election to support a leader in the economic crisis.
 
-இது தொடர்பில் ஸ்ரீலங்கா பொதுஜன பெரமுன விரைவில் இறுதித் தீர்மானத்திற்கு வரும் என அவர் சுட்டிக்காட்டியுள்ளார்.
+He pointed out that the Sri Lanka PA will soon be a final decision.
 
-பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்டெடுத்த தலைவருடன் தொடர்ந்து செல்வதா அல்லது கட்சியில் இருந்து வேறு வேட்பாளரை முன்வைப்பதா என்பதை மொட்டுக் கட்சி எதிர்காலத்தில் தீர்மானிக்கும் எனவும் அந்த முடிவின் மூலம் மொட்டுவில் உள்ள பலரும் கட்சியின் செயற்பாடுகளை அவர்களின் தனிப்பட்ட கருத்துப்படி முன்னெடுப்பதா இல்லையா என தீர்மானிப்பார்கள் எனவும் அமைச்சர் சுட்டிக்காட்டியுள்ளார்.
+The Minister pointed out that the party will continue to go with the leader who has recovered the country from the economic crisis or to present the party from the party in the future and that many will decide whether or not the party's activities will be carried out in their personal opinion.
 
-மினுவாங்கொடை உள்ளூராட்சி சபைக்குட்பட்ட 2000 பாடசாலை மாணவர்களுக்கு செவ்வாய்க்கிழமை (30) பிரதேச சபை நிதியில் இருந்து பாடசாலை புத்தகங்கள் வழங்கும் வைபவத்தில் கலந்து கொண்டு அதன் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+The Minister said this while responding to questions raised by journalists after participating in the ceremony from the Pradeshiya Sabha Fund on Tuesday (30).
+
+Responding to reports from journalists regarding the news that former President Maithripala Sirisena will form a new alliance, the Minister said that the helicopter was going to happen.
+
+Here are the questions asked by the Minister and the Minister's answers:
 
 ...
 
 [Data](articles/d9400dcb.json)
 
+[Extended Data](ext_articles/d9400dcb.ext.json)
+
 ---
 
-### சர்வதேச ரீதியாக செயற்படுதல் காலத்தின் கட்டாயமாகும் - செந்தில் தொண்டமான்
+### International acting is a compulsion of the period- Senthil Thondaman
 
 *2024-01-30 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175183) · `ta`
 
-ஆசியாவின் மிகப்பழமை வாய்ந்த தொழிற்சங்கம் என போற்றப்படும் இலங்கை தொழிலாளர் காங்கரஸின் தலைவர் , கிழக்கு மாகாண ஆளுநர்  என்ற அடைமொழிகளோடு வலம் வரும் செந்தில் தொண்டமானின் அண்மைக்கால நகர்வுகள் அவரை சர்வதேச மட்டத்தில் பேச வைத்துள்ளன. கிழக்கு மாகாணத்தில் அவர்  நடத்திய காட்டிய பிரமாண்டமான பொங்கல் விழா, தமிழக மற்றும் வெளிநாடுகளில் இடம்பெறும் நிகழ்வுகளுக்காக சிறப்பு அதிதியாக அழைக்கப்படல், தமிழகத்தில் அகதிகளாக வாழ்ந்து வரும் வடக்கு கிழக்கு மக்களுக்கு இலங்கை அரசாங்கத்துடன் இணைந்து கடவுச்சீட்டுக்களைப் பெற்றுக்கொடுத்தமை, மலையக மக்களின் இருநூறு வருட பூர்த்தியை முன்னிட்டு டெல்லியில் இடம்பெற்ற முத்திரை வெளியீட்டில் கலந்து கொண்டமை,  போன்ற விடயங்களைக் கூறலாம்.
+The recent moves of Senthil Thondaman, who is known as the leader of the Sri Lankan Workers Congress and the Governor of the Eastern Province, is known as the oldest union of Asia as the oldest union.. The biggest Pongal Festival he showed in the Eastern Province, the special guests for events in Tamil Nadu and abroad, the people of the North and East in Tamil Nadu have giving passports with the Government of Sri Lanka, and participating in the release of the hill country in the wake of the two hundred years of the hill country.
 
-மலையக சமூகம் தேசிய நீரோட்டத்தில் இணைத்துக்கொள்ளப்பட தேசிய மட்டத்தில் பேசப்படும், செயலாற்றும்  ஒரு தலைவர் தேவை என்ற கடந்த கால கோரிக்கைகளுக்கு வழிசமைக்குமுகமாக தலைமைத்துவ பண்புகளுடனும் துடிப்புடனும் வலம் வரும் அவருடனான நேர்காணல் இங்கு தரப்படுகின்றது.
+The interview with him, who is in the vicinity of leadership and vibration, is here, with the leadership and vibrant leaders of the past demand that the upcountry community is spoken of at the national level.
 
-கேள்வி:  தமிழ் உலகம் திரும்பிப்பார்க்க வைத்த  கிழக்கில் இடம்பெற்ற பிரமாண்ட பொங்கல் விழாவைப்பற்றி?
+Question: What about the great Pongal festival in the East to return the Tamil world?
 
 ...
 
 [Data](articles/39adf9df.json)
+
+[Extended Data](ext_articles/39adf9df.ext.json)
 
 ---
 
@@ -1989,31 +2023,5 @@ The highest number of motor vehicle units sold in 2019 was 10.74 million units s
 [Data](articles/e1e1eb73.json)
 
 [Extended Data](ext_articles/e1e1eb73.ext.json)
-
----
-
-### A chip from the meat for people unable to uncover
-
-*2024-01-30 13:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192739) · `si`
-
-Eelren Musk's Neurasc's Neuranc's Neurelink is a new technique that provides a new techniques to use his own thoughts with unwilling diseases.
-
-The company has been able to fix a wireless 'chip' successfully.
-
-The company has tried this money by a man and the first time.
-
-Authorities have confirmed that the person who installed the chip is in good health.
-
-It is reported that 64 subtle fibers, which are more subtle fiber than human hair, and the brain controlled by the brain controlling the human body, is connected to the computer.
-
-The production of this is a telephone that made to assist people at complex neurological illnesses.
-
-The company was able to use the technical experiment with the permission of people in May.
-
-◼️
-
-[Data](articles/0765e432.json)
-
-[Extended Data](ext_articles/0765e432.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 17:02:21**
+As of **2024-01-30 17:17:22**
 
 ## Newspaper Stats
 
-*Scraped **3,567** Articles*
+*Scraped **3,575** Articles*
 
 newspaper | n
 --- | ---:
@@ -12,37 +12,71 @@ colombotelegraphcom | 46
 bbccomsinhala | 60
 dbsjeyarajcom | 127
 economynextcom | 193
-islandlk | 197
+islandlk | 198
 newsfirstlk | 216
 dailyftlk | 233
 adalk | 324
 adaderanasinhalalk | 391
 virakesarilk | 395
-tamilmirrorlk | 451
-adaderanalk | 456
-dailymirrorlk | 478
+tamilmirrorlk | 452
+adaderanalk | 457
+dailymirrorlk | 483
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,558 (99.7%) of 3,567 articles have been extended.
+3,567 (99.8%) of 3,575 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### ஐக்கிய மக்கள் சக்தியின் எதிர்ப்பு பேரணியின் போது காயமடைந்தவர் வைத்தியசாலையில் அனுமதி!
+### ‘Aswesuma’ scheme to continue with several revisions
+
+*2024-01-30 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96858/aswesuma-scheme-to-continue-with-several-revisions) · `en`
+
+The Cabinet of Ministers has green-lighted a proposal seeking to continue the ‘Aswesuma’ scheme for welfare benefits payments with several new amendments.
+
+The President has furnished the proposal in his capacity as the Minister of Finance, Economic Stability and National Policies.
+
+• Extending the valid period for the vulnerable social group among the social groups qualified for ‘Aswesuma’ benefits as from 01 April to 31 December 2024, and the valid period for the transitional social group (of those income deteriorated temporarily due to economic crisis) among the social groups qualified for ‘Aswesuma’ benefits as from 01 January 2024 to 31 December 2024.
+
+• Amalgamating the existing vulnerable social group and transitional social group and considering 800,000 families as a vulnerable group with effect from 01 January 2024 and payment of an allowance of Rs. 5,000/- with effect from that date until 31 December 2024.
+
+...
+
+[Data](articles/2e9ae29b.json)
+
+---
+
+### ஆர்ப்பாட்டத்தில் ஒருவர் படுகாயம்
+
+*2024-01-30 16:49:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஆர்ப்பாட்டத்தில்-ஒருவர்-படுகாயம்/175-332355) · `ta`
+
+ஐக்கிய மக்கள் சக்தியினரால் முன்னெடுக்கப்பட்ட ஆர்ப்பாட்ட பேரணியின் போது காயமடைந்த ஒருவர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+
+ஆர்ப்பாட்ட பேரணியை கலைப்பதற்காக கொழும்பு பொது நூலகத்திற்கு அருகாமையில் பொலிஸார் பல முறை நீர்த்தாரை மற்றும் கண்ணீர் புகை தாக்குதலை நடத்தினர்.
+
+◼️
+
+[Data](articles/233b9186.json)
+
+---
+
+### The injured during the United People's Power rally
 
 *2024-01-30 16:25:00* · [`virakesarilk`](https://www.virakesari.lk/article/175170) · `ta`
 
-கொழும்பில் இன்று செவ்வாய்க்கிழமை (30)  நடைபெறும்   ஐக்கிய மக்கள் சக்தியின் எதிர்ப்பு பேரணியின்போது காயமடைந்த ஒருவர் கொழும்பு தேசிய வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A person who was injured during a United People's Power rally in Colombo today (30) has been admitted to the Colombo National Hospital.
 
-ஆர்ப்பாட்ட பேரணியை கலைப்பதற்காக கொழும்பு பொது நூலகத்துக்கு அருகில் பொலிஸார்  நீர் மற்றும் கண்ணீர் புகைப் பிரயோகம் மேற்கொண்டமை தெரிந்ததே.
+It is known that the police used water and tears near the Colombo Public Library to dissolve the demonstration.
 
 ◼️
 
 [Data](articles/81a08ef9.json)
+
+[Extended Data](ext_articles/81a08ef9.ext.json)
 
 ---
 
@@ -61,6 +95,8 @@ Earlier today, three court orders were issued ahead of the SJB’s protest march
 ...
 
 [Data](articles/9d5641ba.json)
+
+[Extended Data](ext_articles/9d5641ba.ext.json)
 
 ---
 
@@ -102,21 +138,27 @@ Police and tear gas were attacked by the police near the Colombo Public Library 
 
 ---
 
-### நீதிமன்றத்தினால் பரிந்துரைக்கப்பட்ட திருத்தங்கள் வழிகாட்டுதல்களை  உள்வாங்காத நிகழ்நிலை பாதுகாப்பு சட்ட மூலத்திற்கு அனுமதிவழங்கவேண்டாம் - சபாநாயகருக்கு ஊடக அமைப்புகளும் தொழிற்சங்கங்களும் கூட்டாக கடிதம்
+### Do not allow the Consumer Safety Act to not be admitted to the Amendments of the Court - Media organizations and trade unions jointly letter to the Speaker
 
 *2024-01-30 15:57:00* · [`virakesarilk`](https://www.virakesari.lk/article/175167) · `ta`
 
-உயர்நீதிமன்றத்தினால் சபாநாயகருக்கு அனுப்பப்பட்ட உத்தரவுகள் வழிகாட்டுதல்கள் நிகழ்நிலை சட்டமூலத்திற்குள் உள்வாங்கப்படுவதை உறுதி செய்யும் வரை அந்த சட்டமூலத்திற்கு சபாநாயகர்  அங்கீகாரம் வழங்ககூடாது என ஊடக அமைப்புகளும் தொழிற்சங்கங்களும் கூட்டாக வேண்டுகோள் விடுத்துள்ளன.
+Media organizations and trade unions have jointly appealed to the Speaker not to grant the Speaker's approval to the Bill until the guidelines of the orders sent to the Speaker by the High Court are confirmed.
 
-கருத்துசுதந்திரத்திற்கு பெரும் ஆபத்தை ஏற்படுத்தக்கூடியது என நாங்கள் கருதும்  நிகழ்நிலை பாதுகாப்பு சட்டமூலத்தை முற்றாக நிராகரிக்கவேண்டும் என சிவில் சமூக செயற்பாட்டாளர்களாகிய நாங்கள் கருதுகின்றோம்.
+As civil society activists, we think that we should completely reject the Foundation Protection Bill, which we think we can be a major danger to expression.
 
-இலங்கையின் இறைமைக்கு உரித்துடையவர்களாகிய நாங்கள் ஜனவரி 24ம் திகதி இந்த சட்டமூலம் இந்த விடயத்துடன் தொடர்புபட்டவர்களுடன் எந்த வித கலந்துரையாடல்களும் இன்றி நீதிமன்றத்தின் வழிகாட்டுதல்களை புறக்கணித்து நாடாளுமன்றத்தில் நிறைவேற்றப்பட்டமைக்கு கடும் எதிர்ப்பை தெரிவிக்கின்றோம்.
+We, who belong to the sovereignty of Sri Lanka, on January 24, ignore the guidelines of the court without any discussion with those involved in this issue and express strong opposition to the passage of Parliament.
 
-நீதிமன்றத்தின் வழிகாட்டுதல்கள் திருத்தங்களை உரிய முறையில் உள்வாங்காமல் நாடாளுமன்றத்தில் சட்டமூலம் விவாதிக்கப்பட்டது நிறைவேற்றப்பட்டது என எதிர்கட்சி நாடாளுமன்ற உறுப்பினர்கள் சுட்டிக்காட்டியுள்ளனர்.
+Opposition MPs have pointed out that the legislation was passed in Parliament without the proper recruitment of the court guidelines.
+
+The court had given guidance following the filing of more than 45 basic violation petitions against the copy of the Bill.
+
+If the opposition parties are correct, it is the act of deducting the sovereignty of the people and thereby considering the contempt of court.
 
 ...
 
 [Data](articles/64b33dc9.json)
+
+[Extended Data](ext_articles/64b33dc9.ext.json)
 
 ---
 
@@ -140,17 +182,19 @@ Accordingly, the Cabinet of Ministers yesterday approved the proposal submitted 
 
 ---
 
-### ஐக்கிய மக்கள் சக்தியின் பேரணி மீது நீர்த்தாரை மற்றும் கண்ணீர்ப்புகை பிரயோகம்
+### Use of water and tear gas on the United People's Power rally
 
 *2024-01-30 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175165) · `ta`
 
-கொழும்பில் பொது நூலகத்திற்கு அருகில் அரசாங்கத்திற்கு எதிராக  ஐக்கிய மக்கள் சக்தி முன்னெடுத்த ஆர்ப்பாட்டத்தை கலைக்க பொலிஸார் நீர்த்தாரை  மற்றும் கண்ணீர் புகை குண்டுகளை பிரயோகித்துள்ளனர்.
+Police have used water and tear gas bombs to dissolve the United People's Power protest against the government near the public library in Colombo.
 
-இதேவேளை, போராட்டம் ஆரம்பிக்கப்பட்ட விஹார மகாதேவி பூங்காவைச் சுற்றி பொலிஸாரால் பாதுகாப்பு பலப்படுத்தப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+At the same time, the security of the police has been strengthened by the police around the Vihara Mahadevi Park which started the protest.
 
 ◼️
 
 [Data](articles/a368d83f.json)
+
+[Extended Data](ext_articles/a368d83f.ext.json)
 
 ---
 
@@ -172,19 +216,25 @@ As such, an Executive Committee consisting of senior officials will be appointed
 
 ---
 
-### அடுத்துவரும் படைக்கலச் சேவிதருக்கு சம்பிரதாயபூர்வமாக செங்கோல் மற்றும் வாள் கையளிக்கப்பட்டது
+### The scepter and the sword were formally handed over to the next army service
 
 *2024-01-30 15:37:00* · [`virakesarilk`](https://www.virakesari.lk/article/175159) · `ta`
 
-பாராளுமன்றத்தின் 7 வது படைக்கலச் சேவிதராக குஷான் சம்பத் ஜயரத்ன   நாளை (31) பணிகளைப் பொறுப்பேற்கவுள்ளார். இன்று முதல் அமுலுக்கு வரும் வகையில் சேவையில் இருந்து ஓய்வுப் பெறவுள்ள படைக்கலச் சேவிதர் நரேந்திர பெர்னாந்து,செங்கோல்,படைக்கலச் சேவிதரின் வாள் ஆகியவற்றை புதிய படைக்கல சேவிதருக்கு கையளித்துள்ளார்.
+Kushan Sampath Jayaratne will take charge of tomorrow (31) as the 7th Corps of Parliament. Narendra Fernando, who is retiring from the service from today, has handed over the sword of the scepter and the sword of the army.
 
-ஓய்வுபெறும் பாராளுமன்றப் படைக்கலச் சேவிதர் நரேந்திர பெர்னாந்து அவர்களினால் புதிய படைக்கலச் சேவிதர் குஷான் சம்பத் ஜயரத்னவுக்கு சம்பிரதாயபூர்வமாக செங்கோல் மற்றும் படைக்கலச் சேவிதரின் வாள் கையளிக்கும் நிகழ்வு    இன்று பாராளுமன்ற சபை மண்டபத்தின் வெள்ளிக் கதவுக்கு அருகில் இடம்பெற்றது.
+The ceremony of the Scepter and the Squadrons of Service and the Service of the Service of the Parliamentary Hall was held today near the silver door of the Parliamentary Hall.
 
-பாராளுமன்றத்தின் படைக்கலச் சேவிதர் நரேந்திர பெர்னாந்து அவர்கள் 42 வருடங்கள் பாராளுமன்றத்தில் சேவையாற்றி ஓய்வுபெறவுள்ளதால் அடுத்துவரும் படைக்கலச் சேவிதருக்கு செங்கோல் மற்றும் படைக்கலச் சேவிதரின் வாள் இவ்வாறு சம்பிரதாயபூர்வமாக வழங்கி வைக்கப்பட்டது.
+The sword of the scepter and the army servant was formally supplied to the next Army Service, as he retired in Parliament for 42 years.
 
-...
+Narendra Fernando, the 6th Army of Parliament, has served as the Service Service from 2018. Kushan Sampath Jayaratne will take over tomorrow (31) as the 7th Corps of Parliament.
+
+Parliamentary Secretary General Kushani Rohanadeera, Deputy Secretary General of Parliament Saminda Kularatne and heads of Parliament's Department and Parliamentary officials were present.
+
+◼️
 
 [Data](articles/6e0bfe6c.json)
+
+[Extended Data](ext_articles/6e0bfe6c.ext.json)
 
 ---
 
@@ -230,6 +280,18 @@ At the same time, the Fort Magistrate's Court also issued an order against Oppos
 
 ---
 
+### Water cannons, tear gas fired to disperse SJB protestors
+
+*2024-01-30 15:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Water-cannons-tear-gas-fired-to-disperse-SJB-protestors/108-275985) · `en`
+
+Police used water cannons and tear gas to disperse Samagi Jana Bala Wegaya (SJB) protestors near the public library in Colombo a short while ago.
+
+◼️
+
+[Data](articles/6c957538.json)
+
+---
+
 ### Police fire tear gas at SJB’s protest march
 
 *2024-01-30 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96854/police-fire-tear-gas-at-sjbs-protest-march) · `en`
@@ -268,23 +330,27 @@ The police stabbed the Colombo Public Library near the Colombo Public Library at
 
 ---
 
-### நுவரெலியாவிற்கு வரும் அதிக வெளிச்சம், ஒலி எழுப்பும் பஸ்களால் மக்கள் அவதி
+### People are suffering from the highlights of Nuwara Eliya
 
 *2024-01-30 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175155) · `ta`
 
-நுவரெலியாவை பார்வையிட வரும் அதிகளவான வெளிச்சம் மற்றும் சத்தம்  பஸ்களால் பொதுமக்கள் மற்றும் சாரதிகள் பெரும் அவதிக்குள்ளாகி வருவதாக அவர்கள் குற்றம் சுமத்துகின்றனர்.
+They accuse the public and drivers of being greatly affected by the highlights and noise buses that come to visit Nuwara Eliya.
 
-இந்த நாட்களில் நீண்ட விடுமுறை என்பதால் நுவரெலியா நகருக்கு சுற்றுலா வரும் ஏராளமான பஸ்கள் மோட்டார் வாகன விதிமுறைகளுக்கு மாறாக பஸ் முழுவதும் பிரகாசமான விளக்குகளினால் அலங்கரிக்கப்பட்டதன் காரணமாக மற்றும் அதிக ஒலி எழுப்பும் ஒலிபெருக்கிகள் மூலம் மாபெரும் சப்தங்கள் உடன் பாடல்கள் ஒளிபரக்கப்படுகின்றது.
+Since the long holiday is a long holiday, many buses that tour Nuwara Eliya are aired with great sounds, as well as bright lights and high -sounding loudspeakers, contrary to motor vehicle regulations.
 
-இதன் காரணத்தினால் நுவரெலியா நகரை சுற்றியுள்ள பகுதிகளில் பொதுமக்கள் மற்றும் வாகன ஓட்டிகள் கடும் சிரமத்திற்கு ஆளாவதாக புகார் தெரிவிக்கின்றனர்.
+Due to this, public and motorists in the surrounding city of Nuwara Eliya are complaining that they are in great difficulty.
 
-மேலும் நுவரெலியாவிற்கு வரும் வாகனங்கள் தொடர்பில் விசாரணை நடத்தி சட்டத்தை மீறி அலங்கரிக்கப்பட்ட வாகனங்களின் உரிமையாளர்கள் மற்றும் சாரதிகளுக்கு எதிராக சட்டத்தை அமுல்படுத்துவது அவசியம் எனவும் பொதுமக்கள் கோரிக்கை விடுக்கின்றனர்.
+The public is also demanding that the law be implemented against the owners and drivers of decorated vehicles in violation of the law.
 
-பொதுமக்களின் குற்றச்சாட்டுக்கள் தொடர்பில் நுவரெலியா தலைமையக பிரதான பொலிஸ் பரிசோதகர் பிரேமலால் ஹெட்டியாராச்சியிடம் நாம் கேட்டதற்கு பதிலளித்த அவர்,
+Responding to the hearing of the Nuwara Eliya Headquarters Chief Inspector Premalal Hettiarachchi regarding the allegations of the public
 
-...
+The Chief Inspector of the Nuwara Eliya Police Headquarters said that the buses coming to Nuwara Eliya will be investigated as to whether decorative arrangements and loudspeakers are installed.
+
+◼️
 
 [Data](articles/efdb4e21.json)
+
+[Extended Data](ext_articles/efdb4e21.ext.json)
 
 ---
 
@@ -310,6 +376,24 @@ A court order further read that the protesters are, however, allowed to use the 
 
 ---
 
+### Pakistan ex-PM Imran Khan, top aide get 10-year jail in state secrets case
+
+*2024-01-30 14:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Pakistan-ex-PM-Imran-Khan-top-aide-get-10-year-jail-in-state-secrets-case/107-275984) · `en`
+
+Islamabad, Jan 30 (Al Jazeera) - A Pakistan court has sentenced former Prime Minister Imran Khan and his close aide, former Foreign Minister Shah Mahmood Qureshi, to 10 years in jail in a case related to the leaking of state secrets.
+
+The special court set up in a prison in Rawalpindi on Tuesday announced the sentence in the so-called cypher case, which pertains to a diplomatic cable that Khan claims proves his allegation that his removal from power in 2022 was a conspiracy.
+
+The court established under the Official Secrets Act found Khan guilty of misusing the confidential cable sent by a former Pakistani ambassador to the United States.
+
+Khan has repeatedly denied the charge, saying the document contained evidence that his removal as prime minister was a plot hatched by his political opponents and the powerful military, with help from the US administration. Washington and the Pakistani army reject the accusation.
+
+...
+
+[Data](articles/2b092705.json)
+
+---
+
 ### Colombo strict traffic jams
 
 *2024-01-30 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192743) · `si`
@@ -321,6 +405,18 @@ A major roads in the Colombo Municipal Council have occurred due to a protest ma
 [Data](articles/9d8aad9d.json)
 
 [Extended Data](ext_articles/9d8aad9d.ext.json)
+
+---
+
+### Heavy security in Colombo
+
+*2024-01-30 14:45:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Heavy-security-in-Colombo/108-275983) · `en`
+
+Colombo, Jan 30 (Daily Mirror) - Heavy security has been provided around the Vihara Mahadevi Park, where the Samagi Jana Balawegaya (SJB) protest is about to begin, police said.
+
+◼️
+
+[Data](articles/81d26f05.json)
 
 ---
 
@@ -348,21 +444,23 @@ National Housing Development Authority Chairman Rajeev Suriyarachchi said the fo
 
 ---
 
-### பரீட்சைகள் திணைக்களத்தின் அறிவிப்பு
+### Notification of the Department of Examinations
 
 *2024-01-30 14:35:12* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பரீட்சைகள்-திணைக்களத்தின்-அறிவிப்பு/175-332348) · `ta`
 
-பரீட்சை வினாத்தாள்கள் வெளியானதால் இரத்துச் செய்யப்பட்ட உயர்தர விவசாய விஞ்ஞானப் பரீட்சைக்குத் தோற்றவுள்ள பரீட்சார்த்திகள் அதற்கான அனுமதி அட்டையை www.doenets.lk என்ற இணையத்தளத்திற்குச் சென்று பெற்றுக் கொள்ள முடியும் என பரீட்சைகள் திணைக்களம் தெரிவித்துள்ளது.
+Examinations have said that examiners who appear for the high -quality agricultural science exams that have been canceled due to the release of the Examination Questionnaire can get the approval card at www.doenets.lk, the Department of Examinations said.
 
-பரீட்சார்த்திகளுக்கு ஏற்கனவே அனுமதி அட்டைகள் வழங்கப்பட்டுள்ளதாகவும், அது கிடைக்காத பட்சத்தில் இணையத்தளத்திற்கு சென்று அனுமதி அட்டையை பெற்றுக்கொள்ள முடியும் எனவும் திணைக்களம் தெரிவித்துள்ளது.
+The examiners have already issued permit cards and if it is not available, the department said.
 
-மேலும் இரத்து செய்யப்பட்ட வினாத்தாளுக்கு தேர்வான அதே மையத்தில் புதிய வினாத்தாளுக்கு விண்ணப்பித்தால் புதிய நுழைவுச்சீட்டு தேவையில்லை என்றும் தேர்வுத்துறை தெரிவித்துள்ளது.
+The selection department also said that if the new questionnaire applied for the new questionnaire, the new ticket is not required.
 
-இதற்கமைய, வேளாண் அறிவியல் தாள்கள் பெப்ரவரி 1ம் திகதியும், இரண்டாம் பகுதி காலை 8.30 மணி முதல் 11.40 மணி வரையும், முதல் பகுதி மதியம் 1.00 மணி முதல் 3.00 மணி வரையும் நடைபெறவுள்ளமை குறிப்பிடத்தக்கது.
+Accordingly, the Agricultural Science Papers will be held on February 1, the second part will be held from 8.30 am to 11.40 pm and the first part will be held from 1.00 pm to 3.00 pm.
 
 ◼️
 
 [Data](articles/10c874bd.json)
+
+[Extended Data](ext_articles/10c874bd.ext.json)
 
 ---
 
@@ -377,6 +475,18 @@ The journey of Colombo has commenced the protest march in Colombo.
 [Data](articles/30634924.json)
 
 [Extended Data](ext_articles/30634924.ext.json)
+
+---
+
+### Demanding allowances...
+
+*2024-01-30 14:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Demanding-allowances/110-275982) · `en`
+
+All health workers, including nurses and Public Health Inspectors (PHIs) attached to the government service, held a protest march from the National Hospital Colombo to the Health Ministry, demanding that the government fulfill economic justice and provide accommodation to all health workers. Pix by Nisal Baduge
+
+◼️
+
+[Data](articles/fd12b671.json)
 
 ---
 
@@ -1138,6 +1248,24 @@ Railway General Manager HMKW Bandara said that 2 boxes have been removed from th
 
 ---
 
+### Willing to enter politics on behalf of Sanath Nishantha: Spouse
+
+*2024-01-30 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Willing-to-enter-politics-on-behalf-of-Sanath-Nishantha-Spouse/108-275977) · `en`
+
+Attorney-at-Law Chamari Priyanka Perera, the spouse of the late former Water Supply State Minister Sanath Nishantha, expressed her willingness to fill the void left by her husband's demise
+
+She said the decsion will depend on the request of the Puttalam district people or the party leaders.
+
+She made her statement after visiting the residence of Anuradha Jayakodi, the security officer of the former state minister who died in a car accident recently.
+
+"My husband did great service to the Puttalam district as well as to the people of the country. No one who sought help from him was ever turned away empty-handed. My children and I cannot believe what happened to him, and it is still like a dream. Even before my husband's death, some media have announced that I would join politics. No one has asked me when publishing such news. I have not made any statements to any media so far saying that I am joining politics," she said.
+
+...
+
+[Data](articles/a5550f2a.json)
+
+---
+
 ### Willing to fill Sanath Nishantha’s vacant seat: Spouse
 
 *2024-01-30 12:27:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Willing-to-fill-Sanath-Nishanthas-vacant-seat-Spouse/108-275977) · `en`
@@ -1270,21 +1398,23 @@ The protest is to begin near the Vihara Mahadevi Park at 1.30 pm today.
 
 ---
 
-### சஜித் உள்ளிட்ட ஐவருக்கு தடை
+### Ivar, including Sajith
 
 *2024-01-30 12:07:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சஜித்-உள்ளிட்ட-ஐவருக்கு-தடை/175-332335) · `ta`
 
-ஐக்கிய மக்கள் சக்தியின் தலைவர் சஜித் பிரேமதாஸ, அந்த சக்தியின் செயலாளரான பாராளுமன்ற உறுப்பினர் ரஞ்சித் மத்தும பண்டார, ஐக்கிய மக்கள் சக்தியின் மத்திய கொழும்பு ஏற்பாட்டாளர் முஜிபுர் ரஹ்மான், ஐக்கிய மக்கள் சக்தியின் மத்திய கொழும்பு அமைப்பாளர் அப்சரா அமரசிங்க, ஐக்கிய மக்கள் சக்தியின் உறுப்பினர்கள் மற்றும் பெண் செயற்பாட்டாளர்களுக்கே இவ்வாறு தடையுத்தரவு பிறப்பிக்கப்பட்டுள்ளது.
+United People's Power Leader Sajith Premadasa, Secretary of the Power, Ranjith Mathuma Bandara, United People's Power Central Colombo Organizer Mujibur Rahman, United People's Power Central Colombo Organizer Absara Amarasinghe, members of the United People's Power and female activists have been issued.
 
-மாளிகாவத்தை பொலிஸ் பிரிவில் முஸ்லிம் மையவாடிக்கு அருகில் இருந்து எதிர்ப்பு பேரணி நடத்தப்படவிருப்பதாக மாளிகாவத்தை பொலிஸ் நிலைய பொறுப்பதிகாரிக்கு தகவல் கிடைத்துள்ளது.
+The Maligawatte Police Station has received information that a protest rally will be held from the Muslim center in the Maligawatte Police Division.
 
-இதுதொடர்பில் கொழும்பு நீதவான் நீதிமன்றத்தின் கவனத்துக்கு கொண்டு வரப்பட்டதை அடுத்தே இந்த தடையுத்தரவு பிறப்பிக்கப்பட்டது.
+The ban was issued following the brought to the notice of the Colombo Magistrate's Court.
 
-மேலே குறிப்பிடப்பட்டவர்கள் வீதிகளை பாவிப்போருக்கு இடையூறுகளை ஏற்படுத்தல், பாதசாரிகளுக்கு இடையூறுகளை ஏற்படுத்தல், இடைஞ்சல்களை ஏற்படுத்தல், மற்றும் பிரதான வீதிகளுக்கு இடையூறு ஏற்படுத்தும் வகையில் பயணிப்பதற்கு தடைவிதித்தே நீதிமன்றத்தால் கட்டளை பிறப்பிக்கப்பட்டுள்ளது.
+The court has ordered the court to prevent the travelers from traveling, causing disruption to pedestrians, interruptions, and disrupting main roads.
 
 ◼️
 
 [Data](articles/7e644523.json)
+
+[Extended Data](ext_articles/7e644523.ext.json)
 
 ---
 
@@ -1456,19 +1586,21 @@ The Sri Lankan Police Department is seen as the most involved in bribery activit
 
 ---
 
-### ஐ.ம.ச கொழும்பில் எதிர்ப்பு ஆர்ப்பாட்டம் ஆரம்பம்: காணொளி
+### Opposition demonstration in Colombo: Video
 
 *2024-01-30 11:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-கொழும்பில்-எதிர்ப்பு-ஆர்ப்பாட்டம்-ஆரம்பம்-காணொளி/175-332333) · `ta`
 
-ஐக்கிய மக்கள் சக்தி இன்றைய தினம் (30) கொழும்பில் எதிர்ப்பு ஆர்ப்பாட்டமொன்றை முன்னெடுத்துள்ளது.
+The United People's Power has staged a protest in Colombo today (30).
 
-மக்கள் எதிர்கொள்ளும் பிரச்சினைகளுக்கு தீர்வு வழங்குமாறு அரசாங்கத்தை வலியுறுத்தி குறித்த எதிர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்பட்டுள்ளது.
+A protest has been launched demanding the government to address the problems faced by the people.
 
-கொழும்பு ஹைட் பார்க் மைதானம் மற்றும் பஞ்சிகாவத்தையில் இன்று(30) பிற்பகல் 2.00 க்கு எதிர்ப்பு ஆர்ப்பாட்டம் ஆரம்பமாகியுள்ளமை குறிப்பிடத்தக்கது.
+The protests have begun at the Hyde Park Ground in Colombo and Panjikawatte today (30) at 2.00 pm.
 
 ◼️
 
 [Data](articles/1adb8821.json)
+
+[Extended Data](ext_articles/1adb8821.ext.json)
 
 ---
 
@@ -1845,151 +1977,5 @@ SJB General Secretary and Member of Parliament, Ranjith Madduma Bandara, announc
 [Data](articles/76e3d835.json)
 
 [Extended Data](ext_articles/76e3d835.ext.json)
-
----
-
-### Petition against the terrorist bill today
-
-*2024-01-30 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192729) · `si`
-
-The petition filed against the anti-Terrorism Bill, which was presented by the government, began in the Supreme Court today (30).
-
-Chief Justice Jayantha Jayasuriya, Vijith Balaltota, A. HMD. The petition examination will be held in front of the Festival Supreme Court Judge Benchi, accompanied Nawaz, Shiran Gunaratne and Arjuna Obeysekere.
-
-Attorneyers at the petitioner's lawyers will further submit the issues when the petition begins today.
-
-The Supreme Court has already filed 31 petitions in the Supreme Court asking to decide to decide that some clauses in the terrorism bill is contrary to the Constitution.
-
-Kadin's Supreme Malcolm Ranjith, Secretary to the General Secretary of the Sri Lanka Muslim Congress, Sri Lanka Muslim Congress, Sri Lanka Professional Secretary Duminda Nagamuwa, Sri Lanka Trade Policy AssociationThese petitions have been filed by the Ceylon Teachers Union and several others. The Attorney General has been nominated as respondent in the petitions.
-
-...
-
-[Data](articles/c9d4b627.json)
-
-[Extended Data](ext_articles/c9d4b627.ext.json)
-
----
-
-### Mona Lisa Women Throwing Soup on Painting
-
-*2024-01-30 10:41:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மோனா-லிசா-ஓவியம்-மீது-சூப்-வீசிய-பெண்கள்/50-332327) · `ta`
-
-In the 16th century, the famous Mona Lisa painting, painted by painter Leonardo da Vinci, was placed at the Louvray Museum in Paris, the capital of France.
-
-In this case, female protesters have poured soup on the world -renowned Mona Lisa.
-
-The museum said the Mona Lisa had been painted behind the pierced mirror, which had not been affected by the incident.
-
-In the video released on the incident, two women wearing dressing dresses poured soup on the sketch.
-
-In addition, they said that after the attack, they have the right to 'healthy and stable food' and that our agricultural system is sick.. After the attack, the museum trustees covered the painting with black cloth.
-
-It is noteworthy that the famous Mona Lisa painting painted by painter Leonardo da Vinci has been damaged and once stolen once.
-
-◼️
-
-[Data](articles/b9cfc30d.json)
-
-[Extended Data](ext_articles/b9cfc30d.ext.json)
-
----
-
-### Plan to remove the pedestrian merchants in Kandy
-
-*2024-01-30 10:39:17* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-පදික-වෙළඳුන්-ඉවත්-කිරීමට-සැලසුමක්/11-407795) · `si`
-
-Governor Lalith, Central Province Governor Lalith Untays to identify alternative locations in Kandy. Mr. Gamage instructed the relevant officials on 29th.
-
-The Governor offered this advice at the meeting of unauthorized trading and paved traditions in Kandy.
-
-The Governor added that if a construction or contrary to a construct, there is a number of issues that have many issues and the problems that have many problems, these questions will be substantially in the face of economic crisisIt is important that it is important to take matters with solutions and not prejudice any parties.
-
-Several trade union representatives commented that their traders had a great deal of influence on their trading, but he said he had faced many problems.It is to make appeals to appeals and to take further action.
-
-◼️
-
-[Data](articles/797a16e3.json)
-
-[Extended Data](ext_articles/797a16e3.ext.json)
-
----
-
-### Yala, Bundala safari jeep fares to be increased from February 1: Association
-
-*2024-01-30 10:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yala-Bundala-safari-jeep-fares-to-be-increased-from-February-1-Association/108-275960) · `en`
-
-Colombo, Jan 30 (Daily Mirror) - The Yala Safari Jeep Association has decided to increase the fare of the Yala and Bundala safari jeeps from February 1, Association President Ajith Priyantha said.
-
-He told the Daily Mirror that all safari jeep fares will be increased by Rs. 2,000 due to an increase in prices of fuel and spare parts after the imposition of the new 18 percent Value Added Tax (VAT).
-
-Accordingly, the fare for a four-hour trip in a Toyota Hilux and Mitsubishi used for safari jeeps has been increased from Rs. 13,000 to Rs. 15,000. The daily fare has been increased from Rs. 28,000 to Rs. 30,000, he said.
-
-The fare of a Mahendra Maxi and Tata vehicle for four hours has been increased from Rs. 11,000 to Rs. 13,000, and the fare of a day trip has been increased from Rs. 26,000 to Rs. 28,000.
-
-...
-
-[Data](articles/0cba4eeb.json)
-
-[Extended Data](ext_articles/0cba4eeb.ext.json)
-
----
-
-### 9 Warning for Liquor Manufacturing Companies
-
-*2024-01-30 10:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-மதுபான-உற்பத்தி-நிறுவனங்களுக்கு-எச்சரிக்கை/175-332325) · `ta`
-
-The Commissioner of Excise MJ Gunasiri said that the amount of arrears has been announced to nine liquor manufacturers who have consistently taxed without paying the tax.
-
-It has also been reported that Rs 720 crore will be received from the companies and action will be taken to collect the amount immediately.
-
-According to the Department of Excise, the two non -taxing companies have already filed a case.
-
-◼️
-
-[Data](articles/8026a091.json)
-
-[Extended Data](ext_articles/8026a091.ext.json)
-
----
-
-### An informed of electricity payments about bill payments
-
-*2024-01-30 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192728) · `si`
-
-The Ceylon Electricity Board (CEB) has been adapted to new technology and introduced many methods to pay their electrical bills.
-
-The Ceylon Electricity Board (CEB) has said that the Ceylon Electricity Board (CEB) has made it more efficient.
-
-Accordingly, by the CEBCare mobile app, online banking services, the CEB and Bank KIOSS, the CEB and Bank KIOSS, and MCASH receives the electricity card payment facility.
-
-The Ceylon Electricity Board (Ceylon Electricity Board) is informed to refer to the CEB call center 1987 regarding electricity bills.
-
-◼️
-
-[Data](articles/bf1e872f.json)
-
-[Extended Data](ext_articles/bf1e872f.ext.json)
-
----
-
-### Afghanistan cricket team to Sri Lanka
-
-*2024-01-30 10:26:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆப்கானிஸ்தான்-கிரிக்கெட்-அணி-இலங்கைக்கு/44-332324) · `ta`
-
-Accordingly, the cricket match between Sri Lanka and Afghanistan will begin tomorrow (01).
-
-They will take part in a Test match, 03 ODIs and 03 T20 matches.
-
-The Test match will be held at the SSC Ground in Colombo from the next day and the three -match one -day series will begin on February 9.
-
-However, although it was planned to be held in Colombo, it was later decided to hold the matches in Kandy.
-
-In addition, three T20 matches will be held at Dambulla Ground a few years later.
-
-◼️
-
-[Data](articles/dee02ca4.json)
-
-[Extended Data](ext_articles/dee02ca4.ext.json)
 
 ---

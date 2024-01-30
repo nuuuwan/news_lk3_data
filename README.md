@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 00:32:30**
+As of **2024-01-31 00:47:00**
 
 ## Newspaper Stats
 
@@ -26,25 +26,27 @@ dailymirrorlk | 497
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,644 (99.9%) of 3,646 articles have been extended.
+3,646 (100.0%) of 3,646 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### பொலிஸ் அதிகாரிகள் மீது சரமாரியாக தாக்குதல்
+### Strip attack on police officers
 
 *2024-01-31 00:15:27* · [`tamilmirrorlk`](https://www.tamilmirror.lk/யாழ்ப்பாணம்/பொலிஸ்-அதிகாரிகள்-மீது-சரமாரியாக-தாக்குதல்/71-332380) · `ta`
 
-ஆனைக்கோட்டை சந்தி மற்றும் குளப்பிட்டி சந்திக்கு இடைப்பட்ட பகுதியில் நேற்று முன்தினம் (29) இரவு குறித்த சம்பவம் இடம்பெற்றுள்ளது.
+The incident took place last night (29) night between Anikkottai junction and Kulapitti junction.
 
-வீதியில் சந்தேகத்திற்கிடமான முறையில் குழுவாக நின்றவர்களை சோதனையிட இரண்டு பொலிஸ் உத்தியோகத்தர்கள் முயன்ற போதே பொலிஸார் மீது தாக்குதல் நடத்தப்பட்டுள்ளது.
+Police have attacked the police when two police officers tried to check the suspicious groups on the road.
 
-தாக்குதலுக்குள்ளான மானிப்பாய் பொலிஸ் நிலையத்தைச் சேர்ந்த இரு பொலிஸ் உத்தியோகத்தர்களும் சங்கானை வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளனர்.
+Two police officers from the Manipay police station, who were attacked, have been admitted to the Sanganna Hospital.
 
 ◼️
 
 [Data](articles/de26c35a.json)
+
+[Extended Data](ext_articles/de26c35a.ext.json)
 
 ---
 
@@ -63,6 +65,8 @@ Expressing its strong objections to the ‘hasty passage’ of the Bill on Janua
 ...
 
 [Data](articles/4c7fa2f4.json)
+
+[Extended Data](ext_articles/4c7fa2f4.ext.json)
 
 ---
 

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 13:51:30**
+As of **2024-01-30 14:02:20**
 
 ## Newspaper Stats
 
-*Scraped **3,501** Articles*
+*Scraped **3,513** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,33 +16,247 @@ islandlk | 196
 newsfirstlk | 211
 dailyftlk | 233
 adalk | 321
-virakesarilk | 380
 adaderanasinhalalk | 381
-tamilmirrorlk | 442
-adaderanalk | 449
+virakesarilk | 388
+tamilmirrorlk | 444
+adaderanalk | 451
 dailymirrorlk | 471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,493 (99.8%) of 3,501 articles have been extended.
+3,513 (100.0%) of 3,513 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### පැරෂුට් ක්‍රියාත්මක නොවීමෙන් භටයින් සිවුදෙනෙකුට තුවාල
+### Today's currency exchange rate
+
+*2024-01-30 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175149) · `ta`
+
+The US dollar purchasing price was 312.8180 and the sales price were Rs 322.7398 based on the Central Bank's coinage rate on Tuesday (January 30).
+
+◼️
+
+[Data](articles/af79e2f5.json)
+
+[Extended Data](ext_articles/af79e2f5.ext.json)
+
+---
+
+### Ex-Pakistan PM Imran Khan gets 10-year jail term for leaking state secrets
+
+*2024-01-30 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96851/ex-pakistan-pm-imran-khan-gets-10-year-jail-term-for-leaking-state-secrets) · `en`
+
+A Pakistan court handed former Prime Minister Imran Khan a 10-year jail term on Tuesday for leaking state secrets, the former premier’s media team said.
+
+The case pertains to allegations that Khan had shared contents of a secret cable sent by the country’s ambassador in Washington to the government in Islamabad.
+
+Khan’s party, the Pakistan Tehreek-e-Insaf (PTI), said both Khan and former foreign minister Shah Mehmood Qureshi had been sentenced to 10 years each by a special court.
+
+It said the party would challenge the decision and called it a "sham case".
+
+◼️
+
+[Data](articles/03892894.json)
+
+[Extended Data](ext_articles/03892894.ext.json)
+
+---
+
+### Pakistani naval ship arrived in Sri Lanka
+
+*2024-01-30 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175148) · `ta`
+
+Pakistan's naval ship Saif arrived at the Port of Colombo on Tuesday (30).
+
+The Pakistani ship arrived in the port was welcomed by the Sri Lankan navy in accordance with naval traditions.
+
+Saif is a 123 -meter warship, which is managed by a group of 276, led by Captain Muhammad Ali.
+
+When the ship is in the port of Colombo, its employees will go to some tourist destinations in the country.
+
+After completing the visit, Pakistan's Saif ship will leave Sri Lanka on the first February 1st and will be trained in the Colombo Sea with the Sri Lankan Navy ship.
+
+◼️
+
+[Data](articles/153cbc26.json)
+
+[Extended Data](ext_articles/153cbc26.ext.json)
+
+---
+
+### SJB’s planned rally slapped with yet another court order
+
+*2024-01-30 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96850/sjbs-planned-rally-slapped-with-yet-another-court-order) · `en`
+
+The anti-government protest march planned to be staged by the Samagi Jana Balawegaya (SJB) in Colombo this afternoon has been slapped with yet another court order.
+
+This is the third court order issued against the main opposition’s rally.
+
+It was delivered by Maligakanda Maligakanda Magistrate’s Court, barring the SJB protesters from inconveniencing the motorists and the pedestrians travelling along the Dean’s Road, T.B. Jayah Mawatha, the Technical Junction and other areas in Colombo this evening.
+
+◼️
+
+[Data](articles/919e4ae0.json)
+
+[Extended Data](ext_articles/919e4ae0.ext.json)
+
+---
+
+### Adult detection
+
+*2024-01-30 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175129) · `ta`
+
+Professor Sameera R Samarakoon, a scientist at the Biology, Molecular Biology and Biology Technology Institute of Colombo University, said the drug was made with natural ingredients.
+
+After long -term research, the professor said that the drug product is in the final stage.
+
+In addition, the Professor pointed out that the Ayurvedic Department should be obtained from the Ayurvedic Department as the drug has been prepared according to a traditional method.
+
+◼️
+
+[Data](articles/de2a8f59.json)
+
+[Extended Data](ext_articles/de2a8f59.ext.json)
+
+---
+
+### Independence Day Rehearsal: 4 Parasood soldiers injured: Two people fell on phase!
+
+*2024-01-30 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175135) · `ta`
+
+During the Independence Day rehearsal in the Galle Face, 4 Parasood soldiers fell down and were injured.
+
+Two Parasood players fell down and were injured and two more fell on the building.
+
+Military Speaker Major General KAN. Fan Kumara said in this regard,
+
+He said that the wounded soldiers were admitted to the hospital, and the two players were from the Sri Lanka Air Force and the other two were from the Sri Lankan army.
+
+◼️
+
+[Data](articles/cf86875a.json)
+
+[Extended Data](ext_articles/cf86875a.ext.json)
+
+---
+
+### Two women abuse: three parliamentary staff arrested
+
+*2024-01-30 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175146) · `ta`
+
+Three of the junior workers who have been obligated in Parliament have been arrested by the Police Women and Children's Bureau on Tuesday (30).
+
+They have been arrested on charges of abusing two female employees.
+
+◼️
+
+[Data](articles/8bf13980.json)
+
+[Extended Data](ext_articles/8bf13980.ext.json)
+
+---
+
+### People's difficulty with postpartum buses
+
+*2024-01-30 13:16:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தோரண-பஸ்களால்-மக்கள்-சிரமம்/76-332339) · `ta`
+
+Other motorists and residents of Nuwara Eliya have accused the drivers of Nuwara Eliya that they are very difficult for the most light shapes and noise fiery buses.
+
+During the weekend holidays, a large number of buses traveling to Nuwara Eliya, in violation of motor vehicle regulations, bright light forms across the bus, loud sounds, louds and loudspeakers, and are conducting a show across Nuwara Eliya.. Patients, civilians and motorists living in the city and surrounding areas of Nuwara Eliya are greatly inconvenienced.
+
+The public is demanding that the Nuwara Eliya traffic police investigate the vehicles coming to Nuwara Eliya and take steps to implement the law against the owners and drivers of decorated vehicles in violation of the law.
+
+...
+
+[Data](articles/52c2893a.json)
+
+[Extended Data](ext_articles/52c2893a.ext.json)
+
+---
+
+### Chip in the human brain;Elon Muskin
+
+*2024-01-30 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175143) · `ta`
+
+Elon Muskin Nearoling has begun testing the chip'i in the human brain, which creates the inter-brain connection to the brain and the computer to enable the thoughts designed by the company.
+
+The US Food and Drugs Control Administration last year has been admitted to the neuroling humans to be tested.
+
+Nearoling had carried out this test with monkeys a few years ago. Currently, the first man is fitted with the test.
+
+Elon Musk has officially announced this. Mask noted that the test was launched last Sunday and the person who was fitted with the chip was healthy.
+
+In addition, Elon Mask noted that the first medical report of the person undergoing the test showed his neuron spikes positive symptoms.
+
+Mask said the name of the first product of neeroling was telepathy. This telephone equipment is designed to control the phone and the system through thoughts.
+
+Elon Musk has also announced that the equipment will be provided for the use of those who have lost their hands and leg organs.
+
+...
+
+[Data](articles/d2f023ef.json)
+
+[Extended Data](ext_articles/d2f023ef.ext.json)
+
+---
+
+### Cabinet approval to implement wind power project on Mannar Island
+
+*2024-01-30 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175145) · `ta`
+
+The Cabinet has approved the proposal submitted by Minister of Power and Power and Power Kanjana Wijesekara to implement the wind power project on the Mannar Island.
+
+At the Cabinet meeting held on 26.10.10.10.10.10.10.10.10.10.10.10.100.100.1010, 20.10.2010.Annar is the Cabinet of Ministers to implement a project to enhance the power supply by constructing 6 wind power machines under the Asian Development Bank Fund to implement a wind power station on Mannar Island.
+
+However, it is impossible to use the Asian Development Bank fund until the government's foreign credit reprimand program is implemented.
+
+Therefore, the Cabinet has approved the proposal submitted by the Minister of Power and Power in order to implement the project by the investors of the private sector selected under competitively selected private sector under the construction, exercise and implementation of the 20 -year period.
+
+◼️
+
+[Data](articles/0ebd891b.json)
+
+[Extended Data](ext_articles/0ebd891b.ext.json)
+
+---
+
+### Option to fill Nishantha's vacuum: Wife
+
+*2024-01-30 13:07:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிஷாந்தவின்-வெற்றிடத்தை-நிரப்ப-விருப்பம்-மனைவி/175-332338) · `ta`
+
+Attorney -at -law Samari Priyanka Perera, the wife of the late former Water Supply Minister Sanath Nishantha, said that the people or the party of the Puttalam district are ready to consider the vacuum of her husband.
+
+He said this when he went to the residence of Anuradha Jayakody, the security officer of the former Minister of State who died in a recent vehicle accident.
+
+“My husband has served the Puttalam district and the people of the country. Anyone who asked him for help was not sent back empty -handed. I could not believe what happened to him, before my husband died, some media announced that I would come to politics. No one asked me when publishing such news.. Said.
+
+"Even if I managed half of my husband's political affairs and acting as his personal secretary, I do not believe that I will come to politics. But the party leadership asked me to accept the post of Puttalam, the people and the people of the country.You have to think, ”he said.
+
+◼️
+
+[Data](articles/3691d8a1.json)
+
+[Extended Data](ext_articles/3691d8a1.ext.json)
+
+---
+
+### Four persons injured without taking Parachute
 
 *2024-01-30 12:57:29* · [`adalk`](https://www.ada.lk/breaking_news/පැරෂුට්-ක්‍රියාත්මක-නොවීමෙන්-භටයින්-සිවුදෙනෙකුට-තුවාල/11-407798) · `si`
 
-76 වැනි නිදහස් සැමරුම වෙනුවෙන් ගාලුමුවදොර පිටියේ පැවැත්වෙන පැරශුට් පෙරහුරුවේදි  පැරශුට්  නිසි පරිදි ක්‍රියාත්මක නොවීම හේතුවෙන් පැරශුට් භටයන් සිවු දෙනෙක් තුවාල ලබා රෝහල් ගත කර තිබේ.
+Four students were injured in the area due to the absence of proper implementation of the pastus rehearsals in the Galle Face Celebrity to the 76th Independence Day.
 
-මෙසේ සුළු තුවාල ලබා ඇත්තේ ගුවන් හමුදා පැරශුට් බටයන් දෙදෙනෙකු හා යුද හමුදා පැරෂුට් භටයන් දෙදෙනෙකි.
+The SLAF Parazetty tubes and two Army parachutemen were also injured.
 
 ◼️
 
 [Data](articles/fc300d80.json)
+
+[Extended Data](ext_articles/fc300d80.ext.json)
 
 ---
 
@@ -74,6 +288,30 @@ Three junior staff members of parliament have been arrested by the Child and Wom
 
 ---
 
+### Suspect arrested for selling drugs via WhatsApp in Nuwara Eliya
+
+*2024-01-30 12:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175140) · `ta`
+
+Nuwara Eliya Police have arrested a suspect for selling drugs by WhatsApp in Nuwara Eliya.
+
+An auto driver was arrested by Nuwara Eliya Police on Sunday night (28) night. The Nuwara Eliya District Magistrate has issued an order on Monday evening to investigate the suspect in police custody until Friday the 2nd.
+
+The suspect was identified as a resident of Vajrapura village (29).
+
+The three -wheeler driver (28) has been arrested in a roundup by a police team led by Premalal Hattiyarachchi, Chief Inspector of the Nuwara Eliya Police Headquarters.
+
+Police have seized 05 grams and 100 milligrams of drugs and an expensive mobile phone from the suspect.
+
+At the same time, the police have obtained the orders of the Magistrate to conduct further inquiries into the police custody to obtain further information through the suspect.
+
+◼️
+
+[Data](articles/9c1d8684.json)
+
+[Extended Data](ext_articles/9c1d8684.ext.json)
+
+---
+
 ### Second court order issued against SJB rally, barring entrance to parts of Colombo
 
 *2024-01-30 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96848/second-court-order-issued-against-sjb-rally-barring-entrance-to-parts-of-colombo) · `en`
@@ -91,26 +329,6 @@ Earlier today, the Colombo Chief Magistrate issued an order against SJB Leader S
 [Data](articles/e9838448.json)
 
 [Extended Data](ext_articles/e9838448.ext.json)
-
----
-
-### Independence Day Rehearsal: 4 Parasood soldiers injured: Two people fell on phase!
-
-*2024-01-30 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175135) · `ta`
-
-During the Independence Day rehearsal in the Galle Face, 4 Parasood soldiers fell down and were injured.
-
-Two Parasood players fell down and were injured and two more fell on the building.
-
-Military Speaker Major General KAN. Fan Kumara said in this regard,
-
-He said that the wounded soldiers were admitted to the hospital, and the two players were from the Sri Lanka Air Force and the other two were from the Sri Lankan army.
-
-◼️
-
-[Data](articles/cf86875a.json)
-
-[Extended Data](ext_articles/cf86875a.ext.json)
 
 ---
 
@@ -157,6 +375,22 @@ The United National Party (UNP) has said that the United National Party's suppor
 [Data](articles/92cf9558.json)
 
 [Extended Data](ext_articles/92cf9558.ext.json)
+
+---
+
+### The compartments of many trains involved in the service have been removed!
+
+*2024-01-30 12:28:00* · [`virakesarilk`](https://www.virakesari.lk/article/175133) · `ta`
+
+In particular, the Railway Department said that several scenes of trains derailed on the hill track have been deleted.
+
+Railway General Manager HMKW Bandara said that 2 boxes have been removed from the service in 4 visuals.
+
+◼️
+
+[Data](articles/85dff6b2.json)
+
+[Extended Data](ext_articles/85dff6b2.ext.json)
 
 ---
 
@@ -736,19 +970,23 @@ It is noteworthy that the famous Mona Lisa painting painted by painter Leonardo 
 
 ---
 
-### මහනුවර පදික වෙළඳුන් ඉවත් කිරීමට සැලසුමක්
+### Plan to remove the pedestrian merchants in Kandy
 
 *2024-01-30 10:39:17* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-පදික-වෙළඳුන්-ඉවත්-කිරීමට-සැලසුමක්/11-407795) · `si`
 
-මහනුවර නගරයේ පදික වෙළදාම් සිදු කරන වෙළෙදුන්ට විකල්ප ස්ථාන හදුනාගෙන ඒ සදහා අවශ්‍ය පියවර ගන්නා ලෙසත් කාල පමාව නිසා ගැටලු රැසක් මේ වන විට පැන නැගි ඇති බවත් ඒ සදහා කඩිනම් විසදුම් සොයන ලෙස මධ්‍යම පළාත් ආණ්ඩුකාර නිතිඥ ලලිත් යු. ගමගේ මහතා අදාළ නිලධාරින්ට 29දා උපදෙස් ලබා දුන්නේය.
+Governor Lalith, Central Province Governor Lalith Untays to identify alternative locations in Kandy. Mr. Gamage instructed the relevant officials on 29th.
 
-ආණ්ඩුකාරවරයා මෙම උපදෙස් ලබා දුන්නේ “මහනුවර නගරයේ අනවසර වෙළදාම් සහ පදික වෙළදාම් පාලනය “පිළීබදව ආණ්ඩුකාර කාර්යාලයේදි පැවති රැස්විමට සහභාගි වෙමිනි.
+The Governor offered this advice at the meeting of unauthorized trading and paved traditions in Kandy.
 
-වැඩිදුරටත් අදහස් දැක්වු ආණ්ඩුකාරවරයා කියා සිටියේ යම් ඉදිකිරිමක් හෝ නිතියට පටහැනිව යම් ක්‍රියාවක් සිදු කරන්නේ නම් ඒ මොහතේම ඒවා නැවැත්විමට කටයුතු කළ යුතු බවත් ඒසේ නොවි පසුව විසදුම් සෙවිමේ දැ ගැටලු රැසක් මතුවන බවය.වෙළද ප්‍රජාවට ද යම් ගැටලු රැසක් ඇති බවත් පවතින ආර්ථික අර්බුද හමුවේ මෙම ප්‍රශ්න සියුම්ව විසදුම් සෙවිය යුතු බවත් කිසිදු පාර්ශ්වකට අගතියක් නොවන පරිදි අදාළ කටයුතු සිදු කිරිම වැදගත් බවය.
+The Governor added that if a construction or contrary to a construct, there is a number of issues that have many issues and the problems that have many problems, these questions will be substantially in the face of economic crisisIt is important that it is important to take matters with solutions and not prejudice any parties.
 
-...
+Several trade union representatives commented that their traders had a great deal of influence on their trading, but he said he had faced many problems.It is to make appeals to appeals and to take further action.
+
+◼️
 
 [Data](articles/797a16e3.json)
+
+[Extended Data](ext_articles/797a16e3.ext.json)
 
 ---
 
@@ -914,17 +1152,19 @@ As a result, the unions have decided to carry out protests today in front of hos
 
 ---
 
-### නිදහස් පෙරහුරුව නිසා කොළඹ විශේෂ රථවාහන සැලැස්මක්
+### Special traffic plan in Colombo due to Independence Day
 
 *2024-01-30 09:49:00* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පෙරහුරුව-නිසා-කොළඹ-විශේෂ-රථවාහන-සැලැස්මක්/11-407794) · `si`
 
-76 වැනි ජාතික නිදහස් උත්සවයට පෙරාතුව පැවැත්වෙන පෙරහුරු අද (30දා) සිට ආරම්භ කිරීමට නියමිතය. ඒ අනුව අද දිනයේ සිට එළැඹෙන 3 දා තෙක් කොළඹ අවට විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක කරන බව පොලීසිය පවසයි.
+The rehearsal before the 76th Independence Festival will commence from today (30). According to the police, a special traffic plan will be implemented in Colombo until the next day.
 
-මේ අනුව පෙරහුරු සඳහා පෙරවරු 6.00 සිට දහවල් 12.00 දක්වා ත් 03 දා පස්වරු 2.00 සිට 04 දා පැවැත්වෙන නිදහස් උත්සවය අවමන් වන තෙක් ක්‍රියාත්මක රථවාහන සැලැස්ම පහත පරිදි වෙයි.
+Accordingly, the traffic plan is as follows from 6.00 am to 12:00 pm to the rehearsals from 6.00 pm to 12:00 pm and the free ceremony.
 
 ◼️
 
 [Data](articles/7989e260.json)
+
+[Extended Data](ext_articles/7989e260.ext.json)
 
 ---
 
@@ -1050,17 +1290,19 @@ Moreover, Sri Lanka Police launched an investigation into a 34-year-old man from
 
 ---
 
-### දෙසැම්බරයේ ජනපතිවරණයක් තිබුණේ නම් අනුරට සියයට 50ක්
+### If there was a presidential presidential election in December, 50 percent
 
 *2024-01-30 09:33:01* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බරයේ-ජනපතිවරණයක්-තිබුණේ-නම්-අනුරට-සියයට-50ක්/11-407793) · `si`
 
-2023 දෙසැම්බර් මාසයට අදාළව ජනාධිපතිවරණ ඡන්ද අභිප්‍රාය මත ඇස්තමේන්තු අනුව ජාතික ජන බලවේගය/ජනතා විමුකිති පෙරමුණේ නායක අනුර කුමාර දිසානායක මහතාට වැඩිහිටියන්ගෙන් සියයට 50ක ප්‍රතිශතයක් සහායක් ලබමින් ඉදිරියෙන් පසුවෙන බව සෞඛ්‍ය ප්‍රතිපත්ති ආයතනය කළ සමීක්ෂණයක දැක්වෙයි.
+According to estimates on the presidential election intention regarding the December 2023, the National Front Leader Anura Kumara Dissanayake, the Leader of the Front Anura Kumara Dissanayake is ahead of 50 percent of the elders.
 
-මෙම සමීක්ෂණය අනුව විපක්ෂනායක සජිත්‌ ප්‍රේමදාස මහටතට සියයට 33ක්, ජනපති රනිල් වික්‍රමසිංහ මහතාට සියයට 9 හා ශ්‍රී ලංකා පොදුජන ‌පෙරමුණෙන් ඉදිරිපත් කරන අපේක්ෂකයාට සියයට 8ක ප්‍රතිශතාත්මක අගයක් පවතී.
+On the survey, Opposition Leader Sajith Premadasa and President Ranil Wickremesinghe and the Candidate of the Sri Lanka Ranil Wickremesinghe have an 8 percent population.
 
 ◼️
 
 [Data](articles/efc18303.json)
+
+[Extended Data](ext_articles/efc18303.ext.json)
 
 ---
 
@@ -1140,17 +1382,19 @@ The students eventually dispersed after tear gas and water cannons were deployed
 
 ---
 
-### බෙලිඅත්තේ පංච පුද්ගල ඝාතනයට කාන්තාවන් දෙදෙනෙක් අත්අඩංගුවට
+### Two women arrested for killing five murders in Beliwatta
 
 *2024-01-30 09:13:22* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්තේ-පංච-පුද්ගල-ඝාතනයට-කාන්තාවන්-දෙදෙනෙක්-අත්අඩංගුවට/11-407792) · `si`
 
-බෙලිඅත්ත පොලිස් වසමේ දක්ෂිණ අධිවේගී මාර්ග පිවිසුම ආසන්නයේ දී පුද්ගලයින් පස්දෙනෙක් වෙඩිතබා ඝාතනය කිරීමේ සිදුවීමට සැකකාරියන් දෙදෙනෙක්  ඊයේ(29)  අත්අඩංගුවට ගෙන ඇති බව පොලීසියෙන් කියයි.
+Police say five suspects were arrested yesterday at the Beliatta Police Division in the Southern Expressway in the Beliatta Police Division.
 
-ඊයේ උදෑසන පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් රත්ගම ප්‍රදේශයේ සිදුකළ මෙහෙයුමකින් අනතුරුව මෙම කාන්තාවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත.  අත්අඩංගුවට ගෙන ඇත්තේ අවුරුදු 23ක් හා 33ක් වන බූස්ස ප්‍රදේශයේ පදිංචිකරුවන් බවත්, අපරාධය සිදුකිරීමට යොදාගත් ගිනිඅවි දෙක අපරාධය සිදුකිරීමෙන් පසු මෙම එක් සැකකාරියකට අයත් යතුරුපැදියකින් කරාපිටිය ප්‍රදේශයේ සිට බූස්ස ප්‍රදේශයට ප්‍රවාහනය කර ඇති බවට සිදුකළ විමර්ශනයේ දී අනාවරණය වූ බව පොලීසිය පවසයි.
+The two women were arrested following a team of officers from the police station in the Ratgama yesterday morning.The arrested persons were residents of the Boossa area in Boossa area and after the crime was taken to the crime, police said.
 
 ◼️
 
 [Data](articles/a709c0ff.json)
+
+[Extended Data](ext_articles/a709c0ff.ext.json)
 
 ---
 
@@ -1789,221 +2033,5 @@ Therefore, university students should use the freedom given to them and act in t
 [Data](articles/181d863e.json)
 
 [Extended Data](ext_articles/181d863e.ext.json)
-
----
-
-### SJB not prepared to form national Govt. – Mujibur
-
-*2024-01-30 00:39:12* · [`dailyftlk`](https://www.ft.lk/news/SJB-not-prepared-to-form-national-Govt-Mujibur/56-757919) · `en`
-
-Says any party with sound judgement will not form a national Govt. with group which bankrupted country
-
-Accuses Govt. of attempting to attract Opposition MPs to join its fold
-
-Claims under the guise of forming a national consensus Govt. is attempting to direct public opposition against it with Opposition
-
-Says Govt. and President, lacking a mandate, are employing various tactics to stay in power
-
-Samagi Jana Balawegaya (SJB) Deputy General Secretary Mujibur Rahman said the party is unwilling to enter into a national Government with the present administration which bankrupted the country, asserting that anyone with sound judgement would refrain from taking such a course of action.
-
-During a press conference at the Opposition Leader’s office over the weekend, Rahman noted that the Government is trying to attract Opposition MPs and, under the guise of the term “national consensus,” share the public’s opposition against the Government with the Opposition.
-
-...
-
-[Data](articles/8bfd8ee6.json)
-
-[Extended Data](ext_articles/8bfd8ee6.ext.json)
-
----
-
-### Ex-Army Chief joins SJB
-
-*2024-01-30 00:38:34* · [`dailyftlk`](https://www.ft.lk/news/Ex-Army-Chief-joins-SJB/56-757918) · `en`
-
-Former Army Commander General R.M. Daya Ratnayake met with Samagi Jana Balawegaya (SJB) leader Sajith Premadasa yesterday and extended his support to the main opposition party.
-
-Ratnayake served as the Commander of the Sri Lanka Army from 2013 to 2015.
-
-Following his retirement from the army, he served as the Chairman of the Sri Lanka Ports Authority and Secretary to the Ministry of Industries under the Government of former President Gotabaya Rajapaksa.
-
-The party announced that Premadasa has now appointed Ratnayake as a senior advisor to the SJB on State affairs.
-
-Ratnayake, an alum of Maliyadeva College, Kurunegala, commenced his military journey as an officer cadet in 1980. He received his commission as a second lieutenant in 1981 in the Sri Lanka Light Infantry. During the armed conflict, he held significant roles in the operations for the Liberation of Vakare and Thoppigala. On 1 August 2013, he assumed the position of the 20th Commander of the Sri Lanka Army.
-
-◼️
-
-[Data](articles/881bb029.json)
-
-[Extended Data](ext_articles/881bb029.ext.json)
-
----
-
-### Seychelles Coast Guard rescues lost fishing vessel ’’Lorenzo Putha 4’’ and Lankans in Arabian Sea
-
-*2024-01-30 00:37:37* · [`dailyftlk`](https://www.ft.lk/news/Seychelles-Coast-Guard-rescues-lost-fishing-vessel-Lorenzo-Putha-4-and-Lankans-in-Arabian-Sea/56-757917) · `en`
-
-The Government said yesterday it received notification that the vessel "Lorenzo Putha 4," previously lost in the Arabian Sea, has been successfully rescued by the Seychelles Coast Guard.
-
-The Seychelles Navy officially communicated this information to the Chief of Presidential Staff and Senior Advisor to the President on National Security  Sagala Ratnayaka.
-
-The multi-day fishing vessel "Lorenzo Putha 4" commenced its maiden voyage from the Dikovita fishing harbour on 12 January carrying six fishermen. According to the Department of Fisheries, the vessel was hijacked by Somali pirates in the Arabian Sea, approximately 1,160 nautical miles from land.
-
-Consequently, the Sri Lanka Navy informed the joint maritime force, consisting of 40 countries located in Bahrain, to investigate the missing vessel. The Seychelles Coast Guard initiated a special operation to locate the "Lorenzo Putha 4," successfully finding the vessel in the possession of Somali pirates.
-
-...
-
-[Data](articles/f9973f04.json)
-
-[Extended Data](ext_articles/f9973f04.ext.json)
-
----
-
-### USAID, CCC with SLEDB equip officers to boost regional SME exports
-
-*2024-01-30 00:36:51* · [`dailyftlk`](https://www.ft.lk/business/USAID-CCC-with-SLEDB-equip-officers-to-boost-regional-SME-exports/34-757916) · `en`
-
-The United States Agency for International Development (USAID)’s Partnership for Accelerating Results in Trade, National Expenditure, and Revenue (PARTNER) activity, with the Ceylon Chamber of Commerce (CCC), have completed an on-the-job coaching program for 50 Development Officers (DOs) attached to the Sri Lanka Export Development Board (SLEDB).
-
-At an award ceremony on 18 January, SLEDB, USAID PARTNER and CCC, recognised the officers for completion of the coaching program, which included a three-day residential program followed by a one-month “self-coaching program” guided by experienced master coaches. The coaching prepared the officers to mentor other DOs attached to the SLEDB tasked with uplifting the export potential of regional small and medium enterprises (SMEs) in Sri Lanka.
-
-...
-
-[Data](articles/6a582663.json)
-
-[Extended Data](ext_articles/6a582663.ext.json)
-
----
-
-### B&N in exclusive channel partnership to market N9 World Technologies products in SL
-
-*2024-01-30 00:36:07* · [`dailyftlk`](https://www.ft.lk/business/B-N-in-exclusive-channel-partnership-to-market-N9-World-Technologies-products-in-SL/34-757915) · `en`
-
-B&N has successfully obtained an exclusive channel partnership to distribute and market products from N9 World Technologies (N9) in Sri Lanka, establishing a robust alliance poised to reshape the textile industry standards.
-
-Driven by a mutual dedication to innovation and sustainability, this partnership pledges to provide unparalleled value to customers and stakeholders in both the Sri Lankan and Bangladeshi textile manufacturing sectors.
-
-...
-
-[Data](articles/c4c028ac.json)
-
-[Extended Data](ext_articles/c4c028ac.ext.json)
-
----
-
-### Exterminators appoints globally recognised digital pest technologist to Board
-
-*2024-01-30 00:35:57* · [`dailyftlk`](https://www.ft.lk/business/Exterminators-appoints-globally-recognised-digital-pest-technologist-to-Board/34-757914) · `en`
-
-Exterminators PLC has announced the appointment of globally recognised digital pest technologist Jacob Carel Laubscher as an ‘Independent Director’, effective 24 January.
-
-The company said this decision reflects its commitment to staying at the forefront of technological advancements in the pest management industry and ensuring the highest level of expertise in its leadership team.
-
-Jacob brings a wealth of knowledge and expertise to our organisation. His background in mechatronics and IT engineering, coupled with his specialisation in AI-powered digital pest management platforms in Europe, America, and Asia, makes him a valuable addition to our team.
-
-Jacob’s previous roles in support and sales have provided him with a deep understanding of the international pest management landscape and the rapidly evolving technology within the field. He has over 13 years of experience in the global pest management software industry and digital platforms.
-
-...
-
-[Data](articles/3f34ed7d.json)
-
-[Extended Data](ext_articles/3f34ed7d.ext.json)
-
----
-
-### APTA business leaders and professionals initiate green business circle
-
-*2024-01-30 00:34:55* · [`dailyftlk`](https://www.ft.lk/business/APTA-business-leaders-and-professionals-initiate-green-business-circle/34-757913) · `en`
-
-Key speakers of the First Asia-Pacific Business Cooperation and Development Forum
-
-The Asia-Pacific Trade Agreement Chamber of Commerce and Industry (APTA CCI) conducted the First Asia-Pacific Business Cooperation and Development Forum in Chengdu, China under the theme of “Advancing economic globalisation in the Asia-Pacific and building a green economic circle in the Asia-Pacific.
-
-...
-
-[Data](articles/e02684fb.json)
-
-[Extended Data](ext_articles/e02684fb.ext.json)
-
----
-
-### Is a “production economy” the solution?
-
-*2024-01-30 00:07:59* · [`dailyftlk`](https://www.ft.lk/columns/Is-a-production-economy-the-solution/4-757912) · `en`
-
-Is the Government capable of identifying what we should produce for export? Isn’t it better to leave that to the entrepreneurs? What can the Government do? Remove whatever barriers enterprises face. If information gaps exist, help bridge them. But in many cases the most helpful thing Government can do is to improve infrastructure services
-
-Every few years, Sri Lanka’s weakness in manufacturing comes up as the cause of our economic malaise. Economic growth through services is not real, they argue. In the most recent iteration, the slogan is that of a production economy, code for manufacturing.
-
-...
-
-[Data](articles/ef2be76e.json)
-
-[Extended Data](ext_articles/ef2be76e.ext.json)
-
----
-
-### Politics without substance or substance without politics? People have a choice
-
-*2024-01-30 00:05:16* · [`dailyftlk`](https://www.ft.lk/columns/Politics-without-substance-or-substance-without-politics-People-have-a-choice/4-757910) · `en`
-
-It will be interesting to make an assessment of what Sri Lankan leaders have been demonstrating vis a vis the ideals and objectives of the World Economic Forum
-
-Sri Lankans need to be told the truth by all political parties. Their credibility will hinge on this. Solutions to address this truth might be different, but they need to be based on the true situation the country is in. What is the true situation? It is that the country is in debt to the hilt, its current GDP growth would not allow it to repay the debts, and if they are not honoured, the country will not be able to borrow any more even for development work, let alone for consumption
-
-The Annual Meeting of the World Economic Forum for the year 2024 is held from 15-19 January in Davos, Switzerland, under the theme ‘Rebuilding Trust’. It aims to restore collective agency, and reinforce the fundamental principles of transparency, consistency, and accountability among leaders.
-
-...
-
-[Data](articles/ad62759a.json)
-
-[Extended Data](ext_articles/ad62759a.ext.json)
-
----
-
-### “Yukthiya” Cannot Succeed without the Cooperation of the Masses
-
-*2024-01-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/Yukthiya-Cannot-Succeed-without-the-Cooperation-of-the-Masses/172-275929) · `en`
-
-No law abiding person who wants a country free of crimes and the drug menace would belittle or discourage a campaign launched by the authorities to accomplish that purpose. In the same breath, on the very ground of being a law-abiding person, he/she would not like to see the campaign tarnished by possible or apparent personal agendas of anyone or any group and the highhanded activities of the personnel on the ground.
-
-...
-
-[Data](articles/b2aebc2f.json)
-
-[Extended Data](ext_articles/b2aebc2f.ext.json)
-
----
-
-### The Contribution of Siam and Burma to Buddhism in Sri Lanka
-
-*2024-01-30 00:00:00* · [`dailymirrorlk`](https://www.dailymirror.lk/opinion/The-Contribution-of-Siam-and-Burma-to-Buddhism-in-Sri-Lanka/172-275930) · `en`
-
-It is well known that monks from Siam and Burma (as Thailand and Myanmar were called earlier) helped stem a decline in the practice of Buddhism, and contributed to its democratization in Sri Lanka during certain periods in the island’s history.
-
-The circumstances which necessitated help from Siam and Burma, the process of securing such help, the role of the Dutch in it, and the  results of foreign involvement are vividly described by Auckland University sociologist Kitsiri Malalgoda in his book Buddhism in Sinhalese Society 1750-1900 (Tambapanni Academic Publishers, Colombo, 2023).
-
-...
-
-[Data](articles/b7c5b4de.json)
-
-[Extended Data](ext_articles/b7c5b4de.ext.json)
-
----
-
-### 2024-01-29 (Monday)
-
-### Police fire tear gas at protest near Kelaniya University
-
-*2024-01-29 23:55:00* · [`adaderanalk`](https://www.adaderana.lk/news/96836/police-fire-tear-gas-at-protest-near-kelaniya-university) · `en`
-
-Police have fired tear gas and water cannons in an attempt to disperse a group of protesting students near the Kelaniya University.
-
-Earlier, police reported that all traffic plying towards Kandy along the Colombo – Kandy main road was blocked due to a protest staged by students of the Kelaniya University.
-
-◼️
-
-[Data](articles/5afe0852.json)
-
-[Extended Data](ext_articles/5afe0852.ext.json)
 
 ---

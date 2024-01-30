@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 03:32:49**
+As of **2024-01-31 03:50:04**
 
 ## Newspaper Stats
 
-*Scraped **3,654** Articles*
+*Scraped **3,655** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 127
 islandlk | 198
 economynextcom | 200
 newsfirstlk | 216
-dailyftlk | 237
+dailyftlk | 238
 adalk | 331
 adaderanasinhalalk | 405
 virakesarilk | 405
@@ -26,7 +26,7 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,654 (100.0%) of 3,654 articles have been extended.
+3,654 (100.0%) of 3,655 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,20 @@ Our main task this year is to provide the social security relief of Aswesum to 2
 [Data](articles/27c97f09.json)
 
 [Extended Data](ext_articles/27c97f09.ext.json)
+
+---
+
+### Musing on innovation
+
+*2024-01-31 02:40:56* · [`dailyftlk`](https://www.ft.lk/columns/Musing-on-innovation/4-757951) · `en`
+
+Your operations need to be sustainable by design, not as an afterthought, nor as projects with which to score points on award schemes. Indeed, today sustainable value alone is sufficient justification for innovation due to climate scare, and to young people who grew up wanting to change the world now being wage-earners with spending and policy-making power
+
+In entrepreneurial contexts, innovation is generally seen as a development team producing a prototype product that offers enhanced value, that manufacturing and marketing teams will take to a market of customers who can perceive and pay for the changed or enhanced proposition, ideally before the competition does. Admitting that there are situations where such simple strategies work, a holistic outlook and the application of novel concepts could help businesses generate winning products within a structured process, with more stakeholders in mind than only the consumer.
+
+...
+
+[Data](articles/9fb3c6bd.json)
 
 ---
 
@@ -2019,33 +2033,5 @@ Sri Lanka’s construction industry is also in depressed condition amid an econo
 [Data](articles/c621433b.json)
 
 [Extended Data](ext_articles/c621433b.ext.json)
-
----
-
-### UPDATE: Unexpected Gusts Lead to Paratrooper Entanglement
-
-*2024-01-30 14:14:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/update-unexpected-gusts-lead-to-paratrooper-entanglement/) · `en`
-
-COLOMBO (News 1st); Four paratroopers from SL Army and SLAF were injured this morning (30), during rehearsals for the National Independence Day celebrations at Galle Face Green.
-
-The Sri Lanka Air Force said that the accident has occurred due to a rare and unexpected change in wind direction.
-
-The four paratroopers have sustained minor injuries, and are receiving treatment at NHSL & Army Hospital.
-
-Earlier, Major General Rasika Kumara, the military media spokesman, said three paratroopers were injured in the incident occurred when parachutes of the skydivers entangled.
-
-He said that two skydivers managed to make an emergency landing on the roof of a nearby building, while the other landed on Galle Face Green.
-
-All personnel were promptly taken to the nearest hospital for medical evaluation.
-
-PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Entering Certain Roads
-
-Imran Khan sentenced to 10 years in jail for leaking state secrets
-
-◼️
-
-[Data](articles/2e43e9fe.json)
-
-[Extended Data](ext_articles/2e43e9fe.ext.json)
 
 ---

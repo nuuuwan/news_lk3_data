@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 12:17:23**
+As of **2024-01-30 12:32:55**
 
 ## Newspaper Stats
 
@@ -26,35 +26,39 @@ dailymirrorlk | 471
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,459 (99.5%) of 3,476 articles have been extended.
+3,476 (100.0%) of 3,476 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### කැබිනට් මාධ්‍ය හමුව
+### Cabinet press conference
 
 *2024-01-30 11:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192734) · `si`
 
-අමාත්‍ය මණ්ඩල තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාව මේ වන විට ප්‍රවෘත්ති දෙපාර්තමේන්තුවේ දී ආරම්භ කර තිබේ.
+A press conference to inform the Cabinet decisions has been launched in the Information Department.
 
 ◼️
 
 [Data](articles/9e41a01b.json)
 
+[Extended Data](ext_articles/9e41a01b.ext.json)
+
 ---
 
-### නිදහස් පෙරහුරුවේ දී පැරෂුට් අනතුරක්
+### Parachute danger in free rehearsal
 
 *2024-01-30 11:41:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192733) · `si`
 
-නිදහස් දින පෙරහුරුව සඳහා සහභාගී වූ ආරක්ෂක අංශ සාමාජිකයින් සිව්දෙනෙකු පැරෂුට් සංදර්ශනයේ පෙරහුරුව අතරතුරදී බිමට ඇදවැටී රෝහල් ගතකර තිබේ.
+Four security personnel who participated in the independent rehearsal day have been taken to the ground during the patronage of the parachute show.
 
-පැරෂුට් පෙරහුරුව අතරතුර ඉහළ අහසේදී පැරෂුට් දෙකක් එකිනෙක පැටලී අනතුර සිදුව ඇති අතර අනතුරට ලක්ව ඇත්තේ ශ්‍රී ලංකා ගුවන් හමුදාවේ පැරෂුට් භටයින් දෙදෙනෙක් සහ යුද හමුදාවේ පැරෂුට් භටයින් දෙදෙනෙක් බව වාර්තා වේ.
+Two parachutes took place in the sky during the parachute rehearsal and two parachutemen and two Parachutes were in danger.
 
 ◼️
 
 [Data](articles/6aa5fc56.json)
+
+[Extended Data](ext_articles/6aa5fc56.ext.json)
 
 ---
 
@@ -97,6 +101,8 @@ Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
 ◼️
 
 [Data](articles/35c6c31d.json)
+
+[Extended Data](ext_articles/35c6c31d.ext.json)
 
 ---
 
@@ -142,19 +148,21 @@ All SJB leaders, together with its allies, are expected to participate in the ra
 
 ---
 
-### සජබ රැළියට අධිකරණ නියෝගයක්
+### Court order for the rally
 
 *2024-01-30 11:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192731) · `si`
 
-අද (30) දින කොළඹදී පැවැත්වීමට නියමිතව තිබූ සමගි ජන බලවේගයේ ජන රැළියට අධිකරණයෙන් නියෝගයක් නිකුත් කර තිබේ.
+Court has issued a court order to the folk of the reconciliation to be held in Colombo today (30).
 
-ඒ අනුව එම පක්ෂයේ නායක සජිත් ප්‍රේමදාස, පක්ෂ ලේකම් රංජිත් මද්දුම බණ්ඩාර, මැද කොළඹ ප්‍රධාන සංවිධායක මුජිබර් රහුමාන්, මැද කොළඹ සංවිධායක අප්සරා අමරසිංහ, සමගි ජන බලවේග ක්‍රියාකාරී සමාජිකයින් සහ ක්‍රියාකාරී කාන්තා සංවිධාන ඇතුළු රැළියට සහභාගී වන සියලු සාමාජිකයින් වෙත කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් අධිකරණය විසින් අදාළ නියෝගය නික්තු කර ඇත.
+Accordingly, the leader of the party Sajith Premadasa, party secretary Ranjith Madduma Bandara, Central Organizer Munibar Rahaman, Madi Colombo Organizer Upsara Amarasinghe and Samagi Colombo Magistrate's Court OrderHave been developed.
 
-ඒ අනුව ඉහත වගඋත්තරකරුවන්ට හා ඔවුන්ගේ අනුගාමිකයින්ට මාලිගාවත්ත පොලිස් වසමේ මුස්ලිම් කනත්ත අසල සිට ප්‍රදිපා මාවත, ජයන්ත වීරසේකර මාවත, මිල්ටන් පෙරේරා මාවත හා ජුම්මා හන්දිය හරහා සංඝරාජ වටරවුම ඔස්සේ සංඝරාජ මාවත භාවිත කරන පුද්ගලයින්ට අවහිර වන ලෙස ගමන් කිරීම තහනම් වේ.
+Accordingly, the respondents and their followers are prohibited from the Maliwatta Road, Milvawatta Road, Milton Perera Mawatha and Jumma Junction through Jumma Mawatha and Jumma Junction.
 
 ◼️
 
 [Data](articles/1baf184e.json)
+
+[Extended Data](ext_articles/1baf184e.ext.json)
 
 ---
 
@@ -169,6 +177,8 @@ Army Spokesman Major General K.A.N. Rasika Kumara said one paratrooper has been 
 ◼️
 
 [Data](articles/c00770ef.json)
+
+[Extended Data](ext_articles/c00770ef.ext.json)
 
 ---
 
@@ -194,6 +204,8 @@ Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
 
 [Data](articles/20333316.json)
 
+[Extended Data](ext_articles/20333316.ext.json)
+
 ---
 
 ### Elon Musk’s Neuralink implants brain chip in first human
@@ -213,6 +225,8 @@ In September, Neuralink said it received approval for recruitment for the human 
 ...
 
 [Data](articles/1f26d97a.json)
+
+[Extended Data](ext_articles/1f26d97a.ext.json)
 
 ---
 
@@ -272,6 +286,8 @@ In a significant development, the Colombo No. 04 Magistrate L. Manjula issued a 
 
 [Data](articles/05f439bb.json)
 
+[Extended Data](ext_articles/05f439bb.ext.json)
+
 ---
 
 ### Two women arrested for aiding Beliatta shootings
@@ -294,6 +310,8 @@ Earlier, the police arrested four persons in connection with the shooting.
 
 [Data](articles/cd5d9f99.json)
 
+[Extended Data](ext_articles/cd5d9f99.ext.json)
+
 ---
 
 ### 50-year rigorous imprisonment for rape, grave sexual abuse of brother’s daughter
@@ -314,6 +332,8 @@ The Attorney General had indicted him for rape and causing serious abnormal sex 
 
 [Data](articles/4485f99e.json)
 
+[Extended Data](ext_articles/4485f99e.ext.json)
+
 ---
 
 ### Court Blocks Opposition’s Protest Route in Colombo
@@ -333,6 +353,8 @@ SJB General Secretary and Member of Parliament, Ranjith Madduma Bandara, announc
 ...
 
 [Data](articles/76e3d835.json)
+
+[Extended Data](ext_articles/76e3d835.ext.json)
 
 ---
 
@@ -604,6 +626,8 @@ Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
 
 [Data](articles/7f4a00b7.json)
 
+[Extended Data](ext_articles/7f4a00b7.ext.json)
+
 ---
 
 ### 31,000 drug pills;868 suspects arrested
@@ -660,6 +684,8 @@ Moreover, Sri Lanka Police launched an investigation into a 34-year-old man from
 
 [Data](articles/e142595c.json)
 
+[Extended Data](ext_articles/e142595c.ext.json)
+
 ---
 
 ### Students Siege of Administrative Building of Kelaniya University
@@ -706,6 +732,8 @@ Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
 
 [Data](articles/771f8405.json)
 
+[Extended Data](ext_articles/771f8405.ext.json)
+
 ---
 
 ### Kelaniya University Students Hold Ground After Tense Night
@@ -731,6 +759,8 @@ The students eventually dispersed after tear gas and water cannons were deployed
 ...
 
 [Data](articles/4ad87e28.json)
+
+[Extended Data](ext_articles/4ad87e28.ext.json)
 
 ---
 
@@ -1208,27 +1238,29 @@ To his dismay, a few days later, Mapalagama discovered that LECO had disconnecte
 
 ---
 
-### රිය අනතුරු: මිනිස් ජිවිතයකට හානියක් සිදුවිය හැකි මාරක වේගය කොපමණද ?
+### Car accidents: What is the fatal speed that can cause damage to human life?
 
 *2024-01-30 05:19:12* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/ckkvddn2rl5o) · `si`
 
-රිය අනතුරු: මිනිස් ජිවිතයකට හානියක් සිදුවිය හැකි මාරක වේගය කොපමණද ?
+Car accidents: What is the fatal speed that can cause damage to human life?
 
-වාහන අධික වේගයෙන් ධාවනය කිරීම සහ මාරක රිය අනතුරු සම්බන්ධයෙන් පසුගිය දිනවලදී මෙරට සමාජය තුළ විශාල කතාබහක් විය.
+In Sri Lanka, the society was a large number of vehicles to run high fast and the deadly accidents.
 
-එයට හේතු වූ එක් ප්‍රධාන සිදුවීමක්  වුයේ පසුගිය ජනවාරි මස 25 වෙනිදා කොළඹ - කටුනායක අධිවේගී මාර්ගයේ සිදුවූ රිය අනතුරකින් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත සහ ඔහුගේ ආරක්ෂක නිලධාරියා ජිවිතක්ෂයට පත්වීමේ සිදුවීමයි.
+One of the main events was caused by the State Minister Sanath Nishantha and his security officer from an accident on Colombo-Katunayake Expressway on January 25.
 
-එම අනතුර සිදු වී දිනකට පසුව එනම් පසුගිය ජනවාරි මස 26 වෙනිදා දක්ෂිණ අධිවේගී මාර්ගයේ දී සිදු වූ තවත් රිය අනතුරකින් ඕස්ට්‍රේලියානු ජාතිකයෙකු ජිවිතක්ෂයට පත්විය.
+Another bus accident on the Southern Expressway, another accident on the Southern Expressway, was killed in another day after the accident occurred.
 
-එමෙන්ම ඉකුත් ජනවාරි මස 27 වෙනිදා නාරම්මල ප්‍රදේශයේ දී ත්‍රිරෝද රථයක් ලොරියක ගැටීමෙන් සිදුවූ රිය අනතුරකින් පුද්ගලයින්  තිදෙනෙකු ජිවිතක්ෂයට පත්විය.
+On January 27, three people were killed in an accident caused by a three-wheeler in Narammala.
 
-රිය අනතුරු සම්බන්ධයෙන් රියැදුරන් මෙන්ම සාමාන්‍ය ජනතාවගේ අවධානයට ලක්විය යුතු කරුණු පිළිබඳ බීබීසී සිංහල සේවය විසින් විශේෂඥ දැනුම සහිත පුද්ගලයින්ගෙන් තොරතුරු විමසීමක් සිදුකරන ලදී.
+The BBC Sinhala served persons with expertise were inquired by specialized knowledge of expertise on the issues of drivers as well as the attention of ordinary people.
 
-බොහෝ රියැදුරන් තමන් ධාවනය කරන වාහනයේ තිබෙන වේග මාපකයේ පෙන්වා තිබෙන උපරිම වේගයට වාහනය ධාවනය කිරීමට උත්සුක වනවාදැයි ප්‍රශ්නාර්ථයක් සමාජයේ මතුව ඇත.
+Many drivers have emerged in society if the vehicle is trying to drive the vehicle to the maximum speed shown in the speed of the vehicle they run.
 
 ...
 
 [Data](articles/c60f0758.json)
+
+[Extended Data](ext_articles/c60f0758.ext.json)
 
 ---
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 20:17:23**
+As of **2024-01-30 20:32:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 489
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,599 (99.9%) of 3,603 articles have been extended.
+3,603 (100.0%) of 3,603 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -45,6 +45,8 @@ The driver of the bus has reportedly been taken into custody while Midigama Poli
 ◼️
 
 [Data](articles/55cc4ae2.json)
+
+[Extended Data](ext_articles/55cc4ae2.ext.json)
 
 ---
 
@@ -70,6 +72,8 @@ Police found during the investigation that eight of the 15 convicts were directl
 
 [Data](articles/ee8c55a5.json)
 
+[Extended Data](ext_articles/ee8c55a5.ext.json)
+
 ---
 
 ### Sajith visits Colombo National Hospital after SJB protest
@@ -87,6 +91,8 @@ The SJB held a protest march against the conduct of the government, with the par
 ◼️
 
 [Data](articles/af7a48a3.json)
+
+[Extended Data](ext_articles/af7a48a3.ext.json)
 
 ---
 
@@ -117,6 +123,8 @@ Recognizing the potential of international opportunities, Pasqual mentioned abou
 ...
 
 [Data](articles/85c08f77.json)
+
+[Extended Data](ext_articles/85c08f77.ext.json)
 
 ---
 
@@ -443,6 +451,8 @@ India, which was 85th last year, behind 93rd this year. With 40 marks last year,
 Former Parliamentarian Mujibur Rahman was reportedly rushed to the Colombo National Hospital after falling ill during the protest march staged by the Samagi Jana Balawegaya (SJB) this afternoon (30 Jan.).
 
 SJB MP Harsha de Silva stated that Rahman has been rushed to the Emergency Unit of the hospital.
+
+In a post on X (formerly Twitter), MP de Silva stated that Rahman had suffered “breathing difficulties caused by strong tear gas attack”.
 
 Earlier today, the SJB held a protest march against the conduct of the government, with the participation of Opposition Leader Sajith Premadasa and other leaders and allies of the political party.
 

@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 09:51:18**
+As of **2024-01-30 10:02:26**
 
 ## Newspaper Stats
 
@@ -26,27 +26,29 @@ dailymirrorlk | 464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,421 (99.8%) of 3,428 articles have been extended.
+3,428 (100.0%) of 3,428 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### களனி பல்கலைக்கழகத்தின் நிர்வாகக் கட்டிடம் மாணவர்களால் முற்றுகை
+### Students Siege of Administrative Building of Kelaniya University
 
 *2024-01-30 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175109) · `ta`
 
-களனி பல்கலைக்கழகத்தில் சுமார் 350 மாணவர்கள் அடங்கிய குழுவினர் நிர்வாக கட்டிடத்தை முற்றுகையிட்டுள்ளதுடன் உள்ளே நுழைந்து எதிர்ப்பு நடவடிக்கையில் ஈடுபட்டுள்ளனர்.
+About 350 students at the University of Kelaniya have blocked the administrative building and are engaged in protests.
 
-ஜனாதிபதி ரணில்  விக்ரமசிங்க களனி பல்கலைக்கழகத்திற்கு விஜயம் மேற்கொள்வதற்கு எதிர்ப்பு தெரிவித்தே குறித்த ஆர்ப்பாட்டம் நேற்றிரவு மேற்கொள்ளப்பட்டது.
+The demonstration was held last night in protest of President Ranil Wickremesinghe's visit to Kelaniya University.
 
-இவேதவேளை, நேற்றிரவு (29) கொழும்பு-கண்டி வீதியை மறித்து மாணவர்கள் போராட்டம் நடத்தியிருந்த நிலையில், அவர்களை கலைக்க பொலிஸார் கண்ணீர் புகை மற்றும் நீர்த்தாரை பிரயோகம் மேற்கொண்டுள்ளனர்.
+As the students were protesting over the Colombo-Kandi road last night (29), the police were using tear gas and water to dissolve them.
 
-இந்த போராட்டம் காரணமாக களனி பல்கலைக்கழகத்திற்கு முன்பாக கொழும்பில் இருந்து கண்டி செல்லும் பிரதான வீதி முற்றாக தடைப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+Due to this struggle, the main road from Colombo to Kandy in front of the University of Kelaniya has been completely blocked.
 
 ◼️
 
 [Data](articles/a5672600.json)
+
+[Extended Data](ext_articles/a5672600.ext.json)
 
 ---
 
@@ -65,6 +67,8 @@ The police said 527 drug suspects were among the individuals arrested during thi
 ◼️
 
 [Data](articles/36ad7498.json)
+
+[Extended Data](ext_articles/36ad7498.ext.json)
 
 ---
 
@@ -99,6 +103,8 @@ The rehearsals were initially scheduled to commence on Monday (Jan.29), however,
 ◼️
 
 [Data](articles/8f2dc5e8.json)
+
+[Extended Data](ext_articles/8f2dc5e8.ext.json)
 
 ---
 
@@ -207,6 +213,8 @@ The professor also said that after long-term research, the drug is in the final 
 ...
 
 [Data](articles/f4a36565.json)
+
+[Extended Data](ext_articles/f4a36565.ext.json)
 
 ---
 
@@ -372,6 +380,8 @@ To his dismay, a few days later, Mapalagama discovered that LECO had disconnecte
 
 [Data](articles/e2491c1a.json)
 
+[Extended Data](ext_articles/e2491c1a.ext.json)
+
 ---
 
 ### Passenger with fake Italian visa stopped at BIA: over line
@@ -389,6 +399,8 @@ The immigration officials at the Bandaranaike International Airport (BIA) depart
 ...
 
 [Data](articles/ac07fae5.json)
+
+[Extended Data](ext_articles/ac07fae5.ext.json)
 
 ---
 

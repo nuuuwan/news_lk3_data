@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 10:50:20**
+As of **2024-01-30 11:02:36**
 
 ## Newspaper Stats
 
-*Scraped **3,445** Articles*
+*Scraped **3,446** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 203
 dailyftlk | 233
 adalk | 313
 virakesarilk | 372
-adaderanasinhalalk | 372
+adaderanasinhalalk | 373
 tamilmirrorlk | 437
 adaderanalk | 440
 dailymirrorlk | 464
@@ -26,27 +26,51 @@ dailymirrorlk | 464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,444 (100.0%) of 3,445 articles have been extended.
+3,446 (100.0%) of 3,446 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### மன்னாரில் 31 ஆயிரம் போதை மாத்திரைகளுடன் இளைஞர் கைது
+### An informed of electricity payments about bill payments
+
+*2024-01-30 10:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192728) · `si`
+
+The Ceylon Electricity Board (CEB) has been adapted to new technology and introduced many methods to pay their electrical bills.
+
+The Ceylon Electricity Board (CEB) has said that the Ceylon Electricity Board (CEB) has made it more efficient.
+
+Accordingly, by the CEBCare mobile app, online banking services, the CEB and Bank KIOSS, the CEB and Bank KIOSS, and MCASH receives the electricity card payment facility.
+
+The Ceylon Electricity Board (Ceylon Electricity Board) is informed to refer to the CEB call center 1987 regarding electricity bills.
+
+◼️
+
+[Data](articles/bf1e872f.json)
+
+[Extended Data](ext_articles/bf1e872f.ext.json)
+
+---
+
+### Youth arrested with 31 thousand drugs in Mannar
 
 *2024-01-30 10:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175115) · `ta`
 
-மன்னார் பொலிஸ் பிரிவுக்குட்பட்ட செளத்பார் பகுதியில் கைவிடப்பட்ட அட்டை பண்ணை ஒன்றில் இருந்து 31 ஆயிரம் போதை மாத்திரைகளுடன் இளைஞர் ஒருவர் திங்கட்கிழமை (29) மாலை கைது செய்யப்பட்டுள்ளார்.
+A youth has been arrested on Monday evening (29) evening with 31 thousand drug pills from a cardholder in the Chaudpar area of the Mannar Police Division.
 
-மன்னார் பொலிஸ் குற்ற புலனாய்வு பிரிவினருக்கு கிடைக்கப்பெற்ற இரகசிய தகவலின் பிரகாரம் மன்னார் பொலிஸ் அத்தியட்சகர் சந்திரபாலவின்  பணிப்புரைக்கு அமைவாக பொலிஸ் அத்தியட்சகர் ஹாரத்தின்  ஆலோசனையின் பெயரில் மன்னார் பொலிஸ் குற்றத்தடுப்பு புலனாய்வு பிரிவின் பொறுப்பதிகாரி சில்வா தலைமையிலான குழுவினர்  செளத்பார் பகுதியில் மேற்கொண்ட சுற்றிவளைப்பின் போது 31 ஆயிரம்  போதை மாத்திரைகளுடன் இளைஞர் ஒருவரை கைது செய்துள்ளனர்.
+According to the confidential information received by the Mannar Police Criminal Investigation Division, the Mannar Police Superintendent Chandrapala has arrested a group of 31 thousand narcotics in the area led by the Mannar Police Crime Investigation Division in the consultation of the Superintendent of Police Hara.
 
-இந்நிலையில் அவர்களிடம் மேற்கொண்ட விசாரணைகளின் அடிப்படையில் செளத்பார் பகுதியில் போதை மாத்திரைகள் விற்க முற்பட்ட இளைஞர் ஒருவர்  திங்கட்கிழமை மாலை  கைது செய்யப்பட்டிருந்தார்.
+Based on their inquiries, a youth was arrested on Monday evening for attempting to sell drug pills in Saudbar.
 
-குறித்த இளைஞனிடன் மேற்கொண்ட விசாரணையின் அடிப்படையில் செளத்பார் புகையிரத நிலைய பகுதி அருகில் கைவிடப்பட்ட அட்டை பண்ணை கொட்டில் ஒன்றிலே சூட்சுமமான முறையில் புதைத்து வைக்கப்பட்டிருந்த 31 ஆயிரம் போதை மாத்திரைகள் கைப்பற்றப்பட்டது
+Based on an inquiry with the youth, 31 thousand drug pills were seized in a sophisticated card at a suttapar railway station near the Saudpar railway station area.
 
-...
+The Mannar police are conducting further investigations at the Mannar Police Station for further investigations.
+
+◼️
 
 [Data](articles/88b65e6c.json)
+
+[Extended Data](ext_articles/88b65e6c.ext.json)
 
 ---
 
@@ -1965,19 +1989,5 @@ The United States has decided to open a corridor to the Palestinian assistance t
 [Data](articles/db4c7b61.json)
 
 [Extended Data](ext_articles/db4c7b61.ext.json)
-
----
-
-### Resolve state workers' salary anomalies
-
-*2024-01-29 18:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/Resolve-state-workers-salary-anomalies/110-275924) · `en`
-
-The Government Alliance Executive Committee today held a protest in front of the Public Administration and Management Ministry, demanding the government to resolve the state workers' salary anomalies and remove the administration mafia of the state service. Pix by Nisal Baduge
-
-◼️
-
-[Data](articles/62d3f889.json)
-
-[Extended Data](ext_articles/62d3f889.ext.json)
 
 ---

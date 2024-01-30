@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 02:49:17**
+As of **2024-01-31 03:02:22**
 
 ## Newspaper Stats
 
-*Scraped **3,651** Articles*
+*Scraped **3,653** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,7 +14,7 @@ dbsjeyarajcom | 127
 islandlk | 198
 economynextcom | 200
 newsfirstlk | 216
-dailyftlk | 235
+dailyftlk | 237
 adalk | 331
 adaderanasinhalalk | 405
 virakesarilk | 405
@@ -26,19 +26,55 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,651 (100.0%) of 3,651 articles have been extended.
+3,651 (99.9%) of 3,653 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
+### Social Media Influencers: Transforming the fashion industry
+
+*2024-01-31 02:31:05* · [`dailyftlk`](https://www.ft.lk/opinion/Social-Media-Influencers-Transforming-the-fashion-industry/14-757950) · `en`
+
+In the ever-evolving world of fashion, a seismic shift is taking place. The rise of social media influencers (SMIs) is rewriting the rules of the branded fashion retail business, reshaping the way consumers engage with iconic brands such as, Giorgio Armani, Victoria’s Secret, Gucci, and Ralph Lauren.
+
+The vast scale of this transformation can be highlighted as follows:
+
+Fashion, as one of the world’s most enduring industries, has undergone a remarkable transformation, largely fuelled by the fourth industrial revolution. Its contribution to the global gross domestic product remains substantial.
+
+Yet, in the fiercely competitive realm of branded fashion, the key to success lies in how consumers perceive a product. Traditional marketing practices have given way to digital strategies, with SMIs taking centre stage in delivering brand messages and cultivating customer loyalty. This is further underscored by world trends on social media usage.
+
+...
+
+[Data](articles/7d43e5a8.json)
+
+---
+
+### Sri Lanka’s new transitional justice process lacks credibility: Human Rights Watch
+
+*2024-01-31 01:57:12* · [`dailyftlk`](https://www.ft.lk/opinion/Sri-Lanka-s-new-transitional-justice-process-lacks-credibility-Human-Rights-Watch/14-757945) · `en`
+
+Sri Lankan authorities continue to silence and repress families of victims and their communities 15 years after the armed conflict ended – Pic by Shehan Gunasekara
+
+Says UN Human Rights Council engagement remains vital to ensure justice for atrocity crimes
+
+The Human Rights Watch said on Monday that the Sri Lankan Government’s proposed law to create another body to investigate war-time abuses replicates previous failed efforts, ignores the needs of victims, and falls far short of meeting Sri Lanka’s international legal obligations.
+
+Sri Lankan authorities continue to silence and repress families of victims and their communities 15 years after the armed conflict ended.
+
+...
+
+[Data](articles/f033fbd1.json)
+
+---
+
 ### “Thugs, death and decency” in a society with a feudal mindset
 
 *2024-01-31 01:51:08* · [`dailyftlk`](https://www.ft.lk/columns/Thugs-death-and-decency-in-a-society-with-a-feudal-mindset/4-757943) · `en`
 
-On last poya holiday, the first full moon this new year 2024, I was woken up pretty early in the morning by the tinkle of a WhatsApp message on my mobile phone. One from an expatriate Sinhala-Buddhist patriot, an old-time pal of mine. It was a hurried short message. His excitement and joy no less ingrained. “Macho, Good news for all…did you hear it? That mad thug from Puttalam had died in an accident on Katunayake Expressway… Just past midnight” read his message.
+Despite the anger spat with hatred in most uncivilised language in social media platforms, how the voter selects candidates for preference voting does not change at elections – Pic by Shehan Gunasekara
 
-His excitement and joy were no less indecent and vulgar than the man he called a “mad thug”. Many things ran through my mind with that message and made me sit at the computer instead of getting back to sleep again. A short response in Sinhala, perhaps the first on State Minister Sanath Nishantha’s tragic death was thus shared with some of my contacts on WhatsApp. Here in English is the first part of it as entry to an explanatory note on “thugs, death and decency”.
+On last poya holiday, the first full moon this new year 2024, I was woken up pretty early in the morning by the tinkle of a WhatsApp message on my mobile phone. One from an expatriate Sinhala-Buddhist patriot, an old-time pal of mine. It was a hurried short message. His excitement and joy no less ingrained. “Macho, Good news for all…did you hear it? That mad thug from Puttalam had died in an accident on Katunayake Expressway… Just past midnight” read his message.
 
 ...
 
@@ -52,7 +88,7 @@ His excitement and joy were no less indecent and vulgar than the man he called a
 
 *2024-01-31 01:45:25* · [`dailyftlk`](https://www.ft.lk/columns/RW-IMF-and-the-economy/4-757942) · `en`
 
-President Ranil Wickremesinghe addressing the International Customs Day celebrations had once again thrown the gauntlet at all political parties and challenged them to put forward a better and alternative agenda to the current IMF designed economic revival program. In his address, he obviously omitted to utter even one word about the extent of economic hardship endured by a vast majority of the people as a result of implementing IMF recommendations.  Since, like the IMF, RW also believes the hardship is a short term pain worth enduring to achieve long term gain.  But, who gains at the cost of whose pain is left unsaid. This address, like several of his in recent months, was obviously driven by RW’s political desire to discredit the Opposition before declaring the date for the Presidential poll at which he would be a contestant.
+In fact, AKD is providing a theoretical framework and practical direction to realise the aspirations of a new generation of voters that rose in revolt with an aragalaya demanding “system change” and “No 225”. RW, who stood to benefit from that revolt, betrayed that generation by ending the aragalaya with brute force, and is now taking all precautions to protect himself and the old order he represents through repressive legislations such as, the PTA and OSB
 
 ...
 
@@ -2009,43 +2045,5 @@ It is noteworthy that the drag boat has been halted in the field of Vitamal Isla
 [Data](articles/84b6cdaf.json)
 
 [Extended Data](ext_articles/84b6cdaf.ext.json)
-
----
-
-### Sexuality in Parliament: Three arrested
-
-*2024-01-30 14:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றில்-பாலியல்-சேஷ்டை-மூவர்-கைது/175-332344) · `ta`
-
-Three junior workers of Parliament's Home Care Department have been arrested in connection with the incident of two beautiful maids being raped, according to the Bureau of Police.
-
-Officials of the Bureau have recently visited the Parliamentary Complex and are investigating the matter.
-
-Two persons, including a parliamentary assistant administrator, have been suspended in connection with the sexual harassment incident.
-
-◼️
-
-[Data](articles/1224a2c7.json)
-
-[Extended Data](ext_articles/1224a2c7.ext.json)
-
----
-
-### 10 years in prison for Imran Khan
-
-*2024-01-30 14:05:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இம்ரான்-கானுக்கு-10-ஆண்டுகள்-சிறை/50-332343) · `ta`
-
-Imran Khan, former Pakistani prime minister and former cricketer, is the leader of Pakistan Tehrik-e-Insaf (PDI). Imran Khan, 71, was the prime minister of Pakistan from 2018 to April 2022.
-
-In this case, there are various allegations, including the allegation that the government has leaned secrets. Last month, the court granted bail to Imran on charges of leaking government secrets
-
-The country's special court on Tuesday (300 Imran Khan and his Tehrik-e-Insaf party) were sentenced to 10 years in prison.
-
-The court has issued an interim injunction for three years in prison in the prize.
-
-◼️
-
-[Data](articles/5bf4e85c.json)
-
-[Extended Data](ext_articles/5bf4e85c.ext.json)
 
 ---

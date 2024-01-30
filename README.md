@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 15:33:03**
+As of **2024-01-30 15:51:28**
 
 ## Newspaper Stats
 
-*Scraped **3,542** Articles*
+*Scraped **3,544** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,7 +16,7 @@ islandlk | 197
 newsfirstlk | 211
 dailyftlk | 233
 adalk | 322
-adaderanasinhalalk | 385
+adaderanasinhalalk | 387
 virakesarilk | 390
 tamilmirrorlk | 448
 adaderanalk | 452
@@ -26,7 +26,7 @@ dailymirrorlk | 478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,539 (99.9%) of 3,542 articles have been extended.
+3,544 (100.0%) of 3,544 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,21 +46,55 @@ Traffic congestion is reported in Town Hall, Colombo, due to a protest march org
 
 ---
 
-### ஓய்வுபெற்ற அதிகாரிகள் சிலரின் செயற்பாடுகளின் விளைவுகள் எங்கள் தலைகளின் மீது சுமத்தப்பட்டுள்ளன - தேசிய வீடமைப்பு அபிவிருத்தி அதிகாரசபை தலைவர்
+### Colombo strict traffic jams
+
+*2024-01-30 14:52:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192743) · `si`
+
+A major roads in the Colombo Municipal Council have occurred due to a protest march.
+
+◼️
+
+[Data](articles/9d8aad9d.json)
+
+[Extended Data](ext_articles/9d8aad9d.ext.json)
+
+---
+
+### The consequences of some of the retired officials have been imposed on our heads - the Chairman of the National Housing Development Authority
 
 *2024-01-30 14:42:00* · [`virakesarilk`](https://www.virakesari.lk/article/175150) · `ta`
 
-தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையினால் முன்னெடுக்கப்படும் அனைத்து அபிவிருத்தித் திட்டங்களையும் நடைமுறைப்படுத்துவதற்கு முன்னர் மாவட்ட ஒருங்கிணைப்புக் குழுக்களின் அனுமதியைப் பெறுவது கட்டாயம் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க தெரிவித்துள்ளார்.
+Urban Development and Housing Minister Prasanna Ranatunga said that it is mandatory to obtain the permission of the District Coordinating Committees before implementing all the development projects carried out by the National Housing Development Authority.
 
-இதுபோன்ற செயல்களைச் செய்வதன் மூலம் திட்டங்களை நிறைவேற்றுவதில் உள்ள சிக்கல்களைத் தவிர்க்கலாம் என்று அவர் வலியுறுத்துகிறார்.
+He emphasizes that by performing such activities, the problems in accomplishing projects can be avoided.
 
-பத்தரமுல்ல வோட்டர்ஸ் எட்ஜ் நிறுவனத்தில் திங்கட்கிழமை (29) நடைபெற்ற தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையின் மாவட்ட முகாமையாளர்கள் மாநாட்டில் கலந்துகொண்டு கருத்து தெரிவிக்கும் போதே அமைச்சர் பிரசன்ன ரணதுங்க மேற்கண்டவாறு தெரிவித்தார்.
+Minister Prasanna Ranatunga made this statement while attending the District Managers Conference of the National Housing Development Authority held at the Voters Edge on Monday (29).
 
-இதில் தேசிய வீடமைப்பு அபிவிருத்தி அதிகார சபையின் அனைத்து மாவட்ட முகாமையாளர்கள் மற்றும் உயர் அதிகாரிகள் கலந்துகொண்டனர்.
+All district managers and top officials of the National Housing Development Authority were present.
+
+The workshop was organized to review the progress of the National Housing Development Authority at the district level last year and discuss the goals and housing projects of the National Housing Development Authority this year.
+
+National Housing Development Authority Chairman Rajeev Suriyarachchi said the following.
 
 ...
 
 [Data](articles/1ec529c5.json)
+
+[Extended Data](ext_articles/1ec529c5.ext.json)
+
+---
+
+### Protection of Unity Society - Live broadcast
+
+*2024-01-30 14:34:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192742) · `si`
+
+The journey of Colombo has commenced the protest march in Colombo.
+
+◼️
+
+[Data](articles/30634924.json)
+
+[Extended Data](ext_articles/30634924.ext.json)
 
 ---
 
@@ -176,19 +210,21 @@ There have been concerns raised about giving projects to build renewable plants 
 
 ---
 
-### ஹரக்கட்டா  தொடர்பான நீதிமன்ற இடைக்கால உத்தரவு நீடிக்கப்பட்டது!
+### Harakatta related court interim order extended!
 
 *2024-01-30 13:43:00* · [`virakesarilk`](https://www.virakesari.lk/article/175151) · `ta`
 
-குற்றப் புலனாய்வுத் திணைக்களத்தின் தடுப்புக் காவலில் உள்ள  ஹரக்கட்ட எனப்படும் நந்துன் சிந்தக விக்ரமரத்னவை, தற்போது தடுத்து வைக்கப்பட்டுள்ள இடத்திலிருந்து வேறு இடத்துக்கு  அழைத்துச் செல்வதாயின்  நீதிமன்றத்துக்கு அறிவித்து அனுமதி பெற வேண்டும் என்ற இடைக்கால தடை உத்தரவு நீடிக்கப்பட்டுள்ளது.
+The interim injunction has been extended to Nandun Chintaka Wickramaratne, a Harakkutta, which is under the detention of the Criminal Investigation Department, and the court has been asked to obtain permission from the present detention.
 
-குறித்த இடைக்கால உத்தரவை மார்ச் 15 ஆம் திகதி வரை நீடிக்குமாறு மேன்முறையீட்டு நீதிமன்றம் இன்று செவ்வாய்க்கிழமை (30) உத்தரவிட்டுள்ளது.
+The Court of Appeal on Tuesday (30) ordered the interim order to be extended till March 15.
 
-மேலும், மனு தொடர்பான ஆட்சேபனைகள் இருந்தால் பெப்ரவரி 22ஆம் திகதிக்குள்  தாக்கல் செய்யுமாறும் நீதிமன்றம் உத்தரவிட்டுள்ளது.  மனு மீதான விசாரணை மார்ச் 15 ஆம்  திகதிக்கு ஒத்திவைக்கப்பட்டது.
+Moreover, the court has also ordered that the petition be filed by February 22.The hearing of the petition was adjourned to March 15.
 
 ◼️
 
 [Data](articles/0535e711.json)
+
+[Extended Data](ext_articles/0535e711.ext.json)
 
 ---
 
@@ -1894,19 +1930,21 @@ The police said 527 drug suspects were among the individuals arrested during thi
 
 ---
 
-### නිදහස් දිනයේ පෙරහුරුව අතර සිදු වූ පැරිෂුට් අනතුර
+### The Parrist Crash between the rehearsal of the free day
 
 *2024-01-30 09:06:30* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cxw7renkmy9o) · `si`
 
-මෙහි කිසිවක් අඩංගු නැත.Play video, "නිදහස් දිනයේ පෙරහුරුව අතර සිදු වූ පැරිෂුට් අනතුර", ධාවන කාලය 0,4500:45වීඩියෝ ශීර්ෂ වැකිය, නිදහස් දිනයේ පෙරහුරුව අතර සිදු වූ පැරිෂුට් අනතුර
+It contains nothing. Play Video
 
-කොළඹ, ගාලු මුවදොර අද (ජනවාරි 30) පැවති නිදහස් දිනයේ පෙරහුරුවක් අතර සිදු වූ පැරිෂුට් අනතුරකින් ගුවන් හමුදාවේ සහ යුධ හමුදාවේ සාමාජිකයෝ සිව් දෙනෙකු තුවාල ලැබූහ.
+Four members of the Air Force and Army were injured in a rehearsal of Parrizut crash between a rehearsal in Colombo, Galle Face today (Jan. 30).
 
-සුළං දිශාව වෙනස් වීම නිසා පැරිෂුට් පැටලීමෙන් මේ අනතුර සිදු වූ අතර පැරිෂුට් භටයින් සුළු තුවාල ලබා ඇතැයි ගුවන් හමුදා මාධ්‍ය ප්‍රකාශකවරයා පවසයි.
+The accident occurred due to the changing the wind direction and the parries had taken a minor injuries, the Air Force Spokesman said.
 
 ◼️
 
 [Data](articles/f960ad4c.json)
+
+[Extended Data](ext_articles/f960ad4c.ext.json)
 
 ---
 
@@ -1963,43 +2001,5 @@ The arrested woman is a 40 -year -old from Veppankulam area. After further inves
 [Data](articles/d5f2d9ea.json)
 
 [Extended Data](ext_articles/d5f2d9ea.ext.json)
-
----
-
-### Health workers into strike
-
-*2024-01-30 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192724) · `si`
-
-Health Trade Unions says that if they do not solve their problems through negotiations, the health unions states that strike action will be taken from the first one in February.
-
-Health workers have stated that it has not been given to a discussion when the President will be given abroad and will be given as soon as the President is abroad.
-
-The trade union measures have also been taken to implement protests in Colombo today.
-
-◼️
-
-[Data](articles/9ffb6827.json)
-
-[Extended Data](ext_articles/9ffb6827.ext.json)
-
----
-
-### Five killing;Both women were trapped
-
-*2024-01-30 08:38:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐவர்-சுட்டுக்கொலை-இரு-பெண்களும்-சிக்கினர்/175-332320) · `ta`
-
-Two women have been arrested in connection with the shooting of five people near the Southern Expressway.
-
-Two women have been arrested during a meeting of Hakmana Police Station officials in Ratgama area yesterday morning.
-
-The arrested persons are aged 23 and 33, from Pussa, the police media unit said.
-
-Investigations revealed that one of the two women belonging to the shooting was taken from Karapitiya area to Pussa.
-
-◼️
-
-[Data](articles/11af428a.json)
-
-[Extended Data](ext_articles/11af428a.ext.json)
 
 ---

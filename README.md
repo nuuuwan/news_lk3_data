@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 03:50:04**
+As of **2024-01-31 04:02:24**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,654 (100.0%) of 3,655 articles have been extended.
+3,655 (100.0%) of 3,655 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -61,6 +61,8 @@ In entrepreneurial contexts, innovation is generally seen as a development team 
 ...
 
 [Data](articles/9fb3c6bd.json)
+
+[Extended Data](ext_articles/9fb3c6bd.ext.json)
 
 ---
 

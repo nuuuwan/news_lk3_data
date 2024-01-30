@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 18:08:06**
+As of **2024-01-30 18:20:00**
 
 ## Newspaper Stats
 
-*Scraped **3,577** Articles*
+*Scraped **3,579** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,56 @@ adalk | 324
 adaderanasinhalalk | 393
 virakesarilk | 395
 tamilmirrorlk | 452
-adaderanalk | 457
+adaderanalk | 459
 dailymirrorlk | 483
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,577 (100.0%) of 3,577 articles have been extended.
+3,577 (99.9%) of 3,579 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### Israeli forces kill three Palestinian militants in West Bank hospital raid
+
+*2024-01-30 17:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96860/israeli-forces-kill-three-palestinian-militants-in-west-bank-hospital-raid) · `en`
+
+Israeli forces have killed three militants inside a hospital in Jenin, in the occupied West Bank.
+
+CCTV footage showed members of an undercover unit disguised as medics and other civilians making their way through a corridor with rifles raised.
+
+The Israeli military said the militants were hiding in the hospital, and that one was about to carry out an attack.
+
+The Palestinian Authority’s ministry of health accused Israel of carrying out a “new massacre inside hospitals”.
+
+Hamas, an armed Palestinian Islamist group which is fighting a war with Israel in Gaza triggered by its unprecedented attacks on Israel on 7 October, said the Israeli forces had “executed three fighters”, including one of its members
+
+Another armed group, Palestinian Islamic Jihad, said two of those killed were its members and were brothers. It added that one of them had been receiving treatment at the hospital.
+
+...
+
+[Data](articles/2674df0a.json)
+
+---
+
+### Former MP Mujibur Rahman hospitalised during SJB protest
+
+*2024-01-30 17:21:00* · [`adaderanalk`](https://www.adaderana.lk/news/96859/former-mp-mujibur-rahman-hospitalised-during-sjb-protest) · `en`
+
+Former Parliamentarian Mujibur Rahman was reportedly rushed to the Colombo National Hospital after falling ill during the protest march staged by the Samagi Jana Balawegaya (SJB) this afternoon (30 Jan.).
+
+SJB MP Harsha de Silva stated that Rahman has been rushed to the Emergency Unit of the hospital.
+
+Earlier today, the SJB held a protest march against the conduct of the government, with the participation of Opposition Leader Sajith Premadasa and other leaders and allies of the political party.
+
+◼️
+
+[Data](articles/7b81d2a5.json)
+
+---
 
 ### Mujuour Rahman hospitalized
 
@@ -1937,51 +1975,5 @@ In a significant development, the Colombo No. 04 Magistrate L. Manjula issued a 
 [Data](articles/05f439bb.json)
 
 [Extended Data](ext_articles/05f439bb.ext.json)
-
----
-
-### Two women arrested for aiding Beliatta shootings
-
-*2024-01-30 10:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-women-arrested-for-aiding-Beliatta-shootings/108-275963) · `en`
-
-Hakmana, Jan 30 (Daily Mirror) - Two woman have been arrested on charges of aiding and abetting those involved in the recent shooting incident in Beliatta where five persons were killed.
-
-Police said the suspects were arrested at Rathgama by the Hakmana Police.
-
-Investigations have revealed that after the incident the firearms used in the shooting had been transported from Karapitiya to Boossa on a motorcycle belonging to one of the suspects.
-
-The suspects, aged 23 and 33 were identified as residents of Boossa.
-
-On Jan. 23, a group of persons who had arrived in a jeep had opened fire at a white Defender near the Beliatta Interchange of the Southern Expressway killing five persons, including the leader of the Ape Jana Bala Party Saman Perera.
-
-Earlier, the police arrested four persons in connection with the shooting.
-
-◼️
-
-[Data](articles/cd5d9f99.json)
-
-[Extended Data](ext_articles/cd5d9f99.ext.json)
-
----
-
-### 50-year rigorous imprisonment for rape, grave sexual abuse of brother’s daughter
-
-*2024-01-30 10:53:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/50-year-rigorous-imprisonment-for-rape-grave-sexual-abuse-of-brothers-daughter/108-275962) · `en`
-
-Kandy, Jan 30 (Daily Mirror) - An accused who stood indicted with rape and grave sexual abuse of his younger brother’s ten-year-old daughter was found guilty and sentenced to 50 years of rigorous imprisonment by Kandy High Court Judge W. Darshika Wimalasiri.
-
-The judge sentenced the accused, who stood indicted under three counts, for 20 years rigorous imprisonment under the first two counts each and ten years rigorous imprisonment under the third, amounting to an aggregate of 50 years. The judge ordered that the sentences be served concurrently in 20 years.
-
-He was fined Rs.15,000 under each count and ordered to pay Rs. 01 million as compensation to the victim and sentenced to a further six months imprisonment in default of the fines and two years imprisonment in default of the compensation payment
-
-The accused was a resident of Mahamulgama in Kandy and the elder brother of the victim’s father.
-
-The Attorney General had indicted him for rape and causing serious abnormal sex abuse.
-
-...
-
-[Data](articles/4485f99e.json)
-
-[Extended Data](ext_articles/4485f99e.ext.json)
 
 ---

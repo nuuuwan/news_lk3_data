@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 00:47:00**
+As of **2024-01-31 01:02:22**
 
 ## Newspaper Stats
 
-*Scraped **3,646** Articles*
+*Scraped **3,647** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 233
 adalk | 331
 adaderanasinhalalk | 405
 virakesarilk | 405
-tamilmirrorlk | 460
+tamilmirrorlk | 461
 adaderanalk | 467
 dailymirrorlk | 497
 
@@ -26,11 +26,27 @@ dailymirrorlk | 497
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,646 (100.0%) of 3,646 articles have been extended.
+3,646 (100.0%) of 3,647 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### இலங்கை வந்த இரு வெளிநாட்டவர்கள் உடல் நசுங்கி மரணம்
+
+*2024-01-31 00:19:28* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இலங்கை-வந்த-இரு-வெளிநாட்டவர்கள்-உடல்-நசுங்கி-மரணம்/175-332381) · `ta`
+
+காலி - மாத்தறை பிரதான வீதியில் மிதிகம பகுதியில் மோட்டார் சைக்கிள் ஒன்றும், பஸ் ஒன்றும் மோதியதில் மோட்டார் சைக்கிளில் பயணித்த வெளிநாட்டு பிரஜைகள் இருவர் உயிரிழந்தனர்.
+
+இரண்டு வெளிநாட்டு சுற்றுலாப் பயணிகளும் மோட்டார் சைக்கிளில் பயணித்துக் கொண்டிருந்த போது மாத்தறையிலிருந்து கொழும்பு நோக்கிச் சென்று கொண்டிருந்த பஸ்ஸுடன் மோதியதில் இருவரும் சம்பவ இடத்திலேயே பலியாகியுள்ளதாக தகவல்கள் தெரிவிக்கின்றன.
+
+பேருந்தின் சாரதி கைது செய்யப்பட்டுள்ள நிலையில், சம்பவம் தொடர்பான மேலதிக விசாரணைகளை மிதிகம பொலிஸார் மேற்கொண்டு வருகின்றனர். R
+
+◼️
+
+[Data](articles/7d9704d3.json)
+
+---
 
 ### Strip attack on police officers
 
@@ -2031,27 +2047,5 @@ There have been concerns raised about giving projects to build renewable plants 
 [Data](articles/73e6763a.json)
 
 [Extended Data](ext_articles/73e6763a.ext.json)
-
----
-
-### PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Entering Certain Roads
-
-*2024-01-30 13:52:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/pd-sirisena-grounds-hyde-park-open-for-protests-as-court-blocks-sjb-from-entering-certain-roads/) · `en`
-
-COLOMBO (News 1st); Sri Lankan courts have issued a series of orders restricting protests planned by the opposition Samagi Jana Balawegaya in Colombo (30).
-
-The Maligakanda Magistrate's Court prohibited blocking roads within its jurisdiction from noon today until 10 am tomorrow.
-
-However, it designated the P. D. Sirisena Grounds and Hyde Park ground as safe spaces for protests, citing that there will be no restriction in exercising the freedom of speech.
-
-At the same time, the Fort Magistrate's Court also issued an order against Opposition Leader Sajith Premadasa and others from the SJB preventing them from entering into several roads in the Fort and Kompanna Veediya police jurisdictions.
-
-In addition, the court order prohibits Opposition Leader Sajith Premadasa and others from the SJB from entering the Finance Ministry, President's Office, President's House, and the Central Bank of Sri Lanka.
-
-...
-
-[Data](articles/be3251b5.json)
-
-[Extended Data](ext_articles/be3251b5.ext.json)
 
 ---

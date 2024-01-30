@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 08:02:28**
+As of **2024-01-30 08:17:16**
 
 ## Newspaper Stats
 
-*Scraped **3,412** Articles*
+*Scraped **3,414** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,8 +15,8 @@ economynextcom | 187
 islandlk | 196
 newsfirstlk | 203
 dailyftlk | 233
-adalk | 312
-adaderanasinhalalk | 364
+adalk | 313
+adaderanasinhalalk | 365
 virakesarilk | 369
 tamilmirrorlk | 425
 adaderanalk | 435
@@ -26,89 +26,117 @@ dailymirrorlk | 461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,407 (99.9%) of 3,412 articles have been extended.
+3,412 (99.9%) of 3,414 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### නිදහස් දින පෙරහුරු වෙනුවෙන් කොළඹ විශේෂ රථ වාහන සැලැස්මක්
+### කැලණි සරසවි සිසුන් පරිපාලන ගොඩනැගිල්ල වටකරයි
 
-*2024-01-30 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192719) · `si`
+*2024-01-30 07:44:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192720) · `si`
 
-76 වන නිදහස් දින උළෙළේ පෙරහුරු වැඩසටහන හේතුවෙන් අද (30) දිනයේ සිට කොළඹ ප්‍රදේශයේ වාහන ගමනාගමනය සීමා කරන බව පොලීසීය පවසයි.
+කැලණිය විශ්වවිද්‍යාලයේ සිසුන් 350ක පමණ පිරිසක් මේ වනවිට විශ්වවිද්‍යාල පරිපාලන ගොඩනැගිල්ල වටකරමින් විරෝධයක නිරත වන බව වාර්තා වේ.
 
-අද සිට පෙබරවාරි මස 03 වන දින දක්වා අවස්ථා කිහිපයකදී මාර්ග වසා තැබීම් සහ සීමාකිරීම් සිදුකරන බව පොලීසිය සඳහන් කළේය.
+ශිෂ්‍ය ඉල්ලීම් කිහිපයක් මුල්කර ගනිමින් සිසුන් ඊයේ (29) රාත්‍රියේ ද විශ්වවිද්‍යාලය අසල විරෝධතාවයක නිරතවූ අතර, විරෝධතාවය විසුරුවාහැරීමට පොලීසියෙන් ජල හා කඳුළු ගෑස් ප්‍රහාරයක් එල්ල කර තිබිණි.
 
-නිදහස් උළෙල පැවැත්වෙන ගාලු මුවදොර පිටිය ආශ්‍රිතව එම රථ වාහන සැලැස්ම ක්‍රියාත්මක වේ.
+මෙම විරෝධතාවය හේතුවෙන් කොළඹ - නුවර ප්‍රධාන මාර්ගයේ කැලණිය විශ්වවිද්‍යාලය ඉදිරිපිටින් නුවර දෙසට ගමන්කරන මංතීරුව සම්පූර්ණයෙන්ම අවහිර වුණි.
 
-පුහුණුවීම් කටයුතු සිදුකරනු ලබන අද සිට පෙබරවාරි මස 02වන දින දක්වා පෙරවරු 06 සිට දහවල් 12 දක්වාත් පෙබරවාරි මස 03 වන දින පස්වරු 02 සිට පෙබරවාරි මස 04 වන දින උත්සවය අවසන් වන වේලාව දක්වාත් එම විශේෂ රථ වාහන සැලැස්ම ක්‍රියාත්මක කෙරෙනු ඇත.
+◼️
 
-මේ සම්බන්ධයෙන් වැඩිදුරටත් අදහස් දක්වන මාර්ග ආරක්ෂාව හා රථවාහන පාලන දිශාව භාර නියෝජ්‍ය පොලිස්පති ඉන්දික හපුගොඩ මහතා,
-
-...
-
-[Data](articles/c5a6f671.json)
+[Data](articles/6bed823d.json)
 
 ---
 
-### අමරවීර සහ තිලංග ඉල්ලා අස්වීමට කැමැත්තෙන්
+### Special traffic plan in Colombo for Independence Day
+
+*2024-01-30 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192719) · `si`
+
+Police said that traffic in Colombo is restricted to Colombo today (30) due to the 76th Independence Day.
+
+Road closed and restrictions will be closed on several occasions to February 3, police said.
+
+The vehicle plan is being implemented in the Galle Face Green.
+
+The special traffic plan will be implemented from 6am to February 3 to February 3 to February 3, from 6am to February 3.
+
+DIG Indika Hapugoda, DIG in charge of the road safety and traffic infection, further comments.
+
+"Vessel to enter Colombo from Kollupitiya. Also, a vehicle restriction involvement from Ceramic junction in Colombo. The first rehearsal is held from 6 am to 8.30 am. As soon as it is done, all closed routes will be opened and the second rehearsal begins at 11. Accordingly, roads are closed to 12.30. On February 3, the festival site will be closed to this festival. "
+
+DIG Indika Hapugoda said:
+
+◼️
+
+[Data](articles/c5a6f671.json)
+
+[Extended Data](ext_articles/c5a6f671.ext.json)
+
+---
+
+### Amaraweera and Thilanga willing to resign
 
 *2024-01-30 07:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192718) · `si`
 
-එක්සත් ජනතා සන්ධානයේ මහලේකම් ධුරයෙන් මහින්ද අමරවීර මහතා සහ තිලංග සුමතිපාල යන මහත්වරුන් ඉවත් වීමට තීරණය කර තිබේ.
+Mr. Mahinda Amaraweera and Thilanga Sumathipala have decided to leave the US Secretary of the UPFA.
 
-ඒ අනුව ඔවුන් අද (30) උදෑසන එම ධුරවලින් ඉවත් වනු ඇති බව වාර්තා වේ.
+Accordingly, they will leave those riots today (30).
 
-පොදුජන එක්සත් පෙරමුණේ කෘත්‍යාධිකාරී මණ්ඩල රැස්වීමක් ඊයේ (29) පස්වරුවේ හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතාගේ ප්‍රධානත්වයෙන් රැස්වුණි.
+The Working Committee meeting of the United Front was presented under the patronage of former President Maithripala Sirisena yesterday (29).
 
-එහිදී එම පක්ෂයේ සලකුණ ලෙස පුටුව ලකුණෙන් පුළුල් සන්ධානයක් නිර්මාණය කිරීමට තීරණය වී තිබේ.
+It has been decided to create a wide alliance from the chair's sign as a sign of the party.
 
-ඒ අනුව ව්‍යවස්ථා සංශෝධනයක් සිදුකර නව නිලධාරී මණ්ඩලයක් පත්කර ගැනීමට ද තීරණය කළ බව හිටපු ජනාධිපතිවරයා සඳහන් කළේය.
+Accordingly, a constitutional amendment has been made to appoint a new office staff to appoint a new office staff.
 
-මේ සම්බන්ධයෙන් සාකච්ඡාව අවසන් වීමෙන් අනතුරුව අදහස් දැක්වූ ශ්‍රී ලංකා නිදහස් පක්ෂයේ සභාපති හිටපු ජනාධිපති මෛත්‍රීපාල සිරිසේන මහතා,
+The Sri Lanka Freedom Party Chairman Maithripala Sirisena, the Chairman of the Sri Lanka Freedom Party (SLFP) commented on the incident,
 
 ...
 
 [Data](articles/66072f68.json)
 
+[Extended Data](ext_articles/66072f68.ext.json)
+
 ---
 
-### බෙලිඅත්තේ පංච පුද්ගල ඝාතනයට සැකකාරියන් දෙදෙනෙක් අත්අඩංගුවට
+### Two suspects arrested for murder in Beliwatta
 
 *2024-01-30 06:42:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192717) · `si`
 
-බෙලිඅත්ත පොලිස් වසමේ දක්ෂිණ අධිවේගී මාර්ග පිවිසුම ආසන්නයේ දී පුද්ගලයින් පස්දෙනෙක් වෙඩිතබා ඝාතනය කිරීමේ සිදුවීමට සැකකාරියන් දෙදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+Two suspects have been arrested for shooting near the Southern Expressway in Beliatta.
 
-ඊයේ (29) උදෑසන හක්මණ පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් රත්ගම ප්‍රදේශයේ සිදුකළ මෙහෙයුමකින් අනතුරුව මෙම කාන්තාවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත.
+The two women were arrested by the Hakmana Police Station at the Hakama Police Station yesterday morning.
 
-පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ, එලෙස අත්අඩංගුවට ගෙන ඇත්තේ අවුරුදු 23ක් හා 33ක් වන බූස්ස ප්‍රදේශයේ පදිංචිකරුවන් බවය.
+The police media division said that such were residents of the Boossa area for 23 and 33.
 
-අපරාධය සිදුකිරීමට යොදාගත් ගිනිඅවි දෙක අපරාධය සිදුකිරීමෙන් පසු මෙම එක් සැකකාරියකට අයත් යතුරුපැදියකින් කරාපිටිය ප්‍රදේශයේ සිට බූස්ස ප්‍රදේශයට ප්‍රවාහනය කර ඇති බවට සිදුකළ විමර්ශනයේ දී අනාවරණය වී තිබිණි.
+The two firearms used to commit the crime was revealed in the investigation from a motorcycle belonging to the Boossa area from the Karapitiya area.
 
 ◼️
 
 [Data](articles/621aaa06.json)
 
+[Extended Data](ext_articles/621aaa06.ext.json)
+
 ---
 
-### කාලගුණයේ වෙනසක්
+### A change in the weather
 
 *2024-01-30 06:21:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192715) · `si`
 
-නැගෙනහිර සහ ඌව පළාත්වලත් පොළොන්නරුව, මුලතිව්, මාතලේ සහ නුවරඑළිය දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇති වන බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව පවසයි.
+The Meteorology Department says that there will be showers at times in the Eastern and Uva provinces, Polonnaruwa, Mullaitivu, Matale and Nuwara Eliya districts.
 
-අනුරාධපුර සහ හම්බන්තොට දිස්ත්‍රික්කවල වැසි වාර කිහිපයක් ඇති විය හැක.
+Several spells of showers in the Anuradhapura and Hambantota districts.
 
-බස්නාහිර, සබරගමුව සහ වයඹ පළාත්වලත් ගාල්ල, මාතර සහ මහනුවර දිස්ත්‍රික්කවලත් ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇතිවේ.
+In the Western, Sabaragamuwa and North Western provinces, in Galle, Matara and Kandy districts. Showers or thundershowers will occur at several times after 2.
 
-බස්නාහිර, සබරගමුව සහ මධ්‍යම පළාත්වල ඇතැම් ස්ථානවල මි.මී. 75ක පමණ තරමක තද වැසි ඇතිවිය හැක.
+Some locations in the Western, Sabaragamuwa and Central provinces. Heavy rains can occur about 75 times.
 
-ගිගුරුම් සහිත වැසි සමග ඇතිවිය හැකි තාවකාලික තදසුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කරගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවට අවධාරණය කරයි.
+The Department of Meteorology emphasizes the people to take necessary action to reduce accidents and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/8a19f83b.json)
+
+[Extended Data](ext_articles/8a19f83b.ext.json)
 
 ---
 
@@ -746,19 +774,25 @@ Horana Magistrate made the magisterial inquiry into the incident today (29).
 
 ---
 
-### நிகழ்நிலை காப்புச்சட்ட மூலத்தால் சீனாவைப் போன்ற நிலைமையே ஏற்படும் - ஹிருணிகா
+### China will be like the source of the Faculty Backup Act - Hirunika
 
 *2024-01-29 20:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175098) · `ta`
 
-நிகழ்நிலை காப்பு சட்டத்துக்கு எதிர்ப்பினைத் தெரிவித்து சமூக வலைத்தள நிறுவனங்கள், கூகுள் மற்றும் யாஹூ போன்ற நிறுவனங்கள் இலங்கைக்கு சேவை வழங்குவதிலிருந்து விலகினால் சீனாவைப் போன்ற நிலைமையே எமக்கும் ஏற்படும் என முன்னாள் பாராளுமன்ற உறுப்பினர் ஹிருணிகா பிரேமசந்திர தெரிவித்தார்.
+Former parliamentarian Hirunika Premachandra said that if social networking companies, Google and Yahoo can withdraw from serving Sri Lanka in opposition to the Celebration Act, we will have a situation like China.
 
-கொழும்பிலுள்ள எதிர்க்கட்சி தலைவர் அலுவலகத்தில் திங்கட்கிழமை (29) இடம்பெற்ற ஊடகவியலாளர் மாநாட்டில் இதனைத் தெரிவித்த அவர் மேலும் குறிப்பிடுகையில்,
+He further stated at a press conference held at the Opposition Leader's Office in Colombo on Monday (29).
 
-அரசாங்கத்தினால் நிறைவேற்றப்பட்டுள்ள நிகழ்நிலை காப்பு சட்டத்துக்கு எதிர்ப்பினைத் தெரிவித்து சமூக வலைத்தள நிறுவனங்கள், கூகுள் மற்றும் யாஹூ போன்ற நிறுவனங்கள் இலங்கைக்கு சேவை வழங்குவதிலிருந்து விலகினால் என்னவாகும் என்பதை சிந்தித்துப் பார்க்க வேண்டும். சீனாவைப் போன்ற நிலைமையே இலங்கையிலும் ஏற்படவுள்ளது.
+Social networking companies, Google and Yahoo should be able to think about what it will happen to Sri Lanka from providing service to Sri Lanka. Sri Lanka is like China.
+
+So young people should come forward to voice their voice against this. In the future, the younger generation will suffer greatly. The law is already in effect in the country regarding social websites. So there is no need to implement any new laws.
+
+Those arrested for allegedly reproaching religions including Buddhist Buddha are madmen. So it is a matter of not necessarily the mainstream of the main media. All of this is a drama that is being staged in the government's plan.
 
 ...
 
 [Data](articles/249aa007.json)
+
+[Extended Data](ext_articles/249aa007.ext.json)
 
 ---
 
@@ -927,6 +961,22 @@ According to a complaint filed by the Social Media Regulatory Act, he has arrive
 [Data](articles/67ecd7ea.json)
 
 [Extended Data](ext_articles/67ecd7ea.ext.json)
+
+---
+
+### විමල බුද්ධි ලෙස පෙනී සිටි රොෂාන්ට ඇප
+
+*2024-01-29 20:00:16* · [`adalk`](https://www.ada.lk/breaking_news/විමල-බුද්ධි-ලෙස-පෙනී-සිටි-රොෂාන්ට-ඇප/11-407788) · `si`
+
+සුනඛයෙකුට සිවුරක් පොරවා බුදු දහමට නිගා වන අන්දමේ ”ටික් ටොක්” වීඩියෝ අන්තර්ජාලයට මුදා හැරිය බව කියන රත්නපුරේ විමල බුද්ධි නොහොත් ”විශ්ව බුද්ධි මුනි” නමින් පෙනී සිටි රොෂාන් රණසිංහට නමැත්තාට තරයේ අවවාද කළ කොළඹ ප්‍රධාන මහේස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා පෙර ඇප මත සැකකරු මුදා හැරීමට අද (29දා) නියම කළේය.
+
+බුදු දහමට, සංඝයා වහන්සේලාට නිගා වන වීඩියෝ දර්ශන අන්තර්ජාලයට මුදාහරිනු ලැබුවහොත් හෝ අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව කරන විමර්ශන කටයුතු විවේචනය කරන ආකාරයේ ප්‍රකාශ කරනු ලැබුවහොත් ඇප අවලංගු කර යළි රක්ෂිත බන්ධනාගාර ගත කරන බව පවසමින් සැකකරුට ඇප නියම කරමින් මහේස්ත්‍රාත්වරයා තරයේ අවවාද කළේය.
+
+පැමිණිල්ල වෙනුවෙන් අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුවේ ස්ථානාධිපති එස්.කේ.සේනාරත්න මහතා සමඟ පෙනී සිටි එහි පරිගණක අපරාධ විමර්ශන අංශයේ ස්ථානාධිපති පොලිස් පරීක්ෂක එරන්ද තිබ්බොටුවාව මහතා සිද්ධියට අදාළව කරනු ලැබු විමර්ශන වල ප්‍රගතිය දැක්වෙන වාර්තාවක් අධිකරණයට ඉදිරිපත් කළේය.බෞද්ධ ආගමට අපහාස කිරීම සම්බන්ධයෙන් සැකකරුට එරෙහි පැමිණිල්ල කැඳවනු ලැබු අවස්ථාවේදී සැකකරු අධිකරණයේ පෙනී සිටියේය.
+
+...
+
+[Data](articles/ffea7afd.json)
 
 ---
 
@@ -1947,45 +1997,5 @@ Under the government of former President Gotabhaya Rajapakse, Daya Ratnayake ser
 [Data](articles/70702cdb.json)
 
 [Extended Data](ext_articles/70702cdb.ext.json)
-
----
-
-### Eastern Governor Senthil Thondaman who has resolved the land issue of Sri Shanmuga Hindu Ladies College!
-
-*2024-01-29 15:44:00* · [`virakesarilk`](https://www.virakesari.lk/article/175071) · `ta`
-
-Sri Shanmuga Hindu Women's College, Trincomalee has a 100 year history. Eastern Province Governor Senthil Thondaman has given a solution to the long -standing land issue in the college.
-
-Sri Shanmuga Hindu Women's College has been on land issue for the past ten years. In this regard, the school administration has sought to find a solution to many sides, but it is not possible.
-
-In this backdrop, the Eastern Province Governor Senthil Thondaman has issued a new land for a 30 -year lease and has arranged for a 30 -year lease.
-
-The school administration, who has welcomed this function of the Eastern Governor, congratulated him and congratulations to him.
-
-...
-
-[Data](articles/314b0cda.json)
-
-[Extended Data](ext_articles/314b0cda.ext.json)
-
----
-
-### 610 drivers caught by CCTV
-
-*2024-01-29 15:43:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சிசிடிவியால்-சிக்கிய-610-சாரதிகள்/175-332280) · `ta`
-
-Over 610 drivers have been identified for traffic violations last week under the CCTV surveillance program introduced by the police.
-
-The CCTV program to detect motorists who violate road rules was launched in Colombo last Monday (22) under the patronage of Inspector General of Police Deshabandu Tennakoon.
-
-Within a week of ending last night, police have advised 610 vehicles violating the rules of the road.
-
-However, traffic crimes will be fined from 1 February 2024, police said.
-
-◼️
-
-[Data](articles/b6e45bf0.json)
-
-[Extended Data](ext_articles/b6e45bf0.ext.json)
 
 ---

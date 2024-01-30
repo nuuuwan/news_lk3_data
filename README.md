@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 07:15:45**
+As of **2024-01-30 07:31:01**
 
 ## Newspaper Stats
 
-*Scraped **3,396** Articles*
+*Scraped **3,407** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 46
 bbccomsinhala | 56
 dbsjeyarajcom | 125
-islandlk | 185
 economynextcom | 187
+islandlk | 196
 newsfirstlk | 203
 dailyftlk | 233
 adalk | 312
@@ -26,7 +26,7 @@ dailymirrorlk | 461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,396 (100.0%) of 3,396 articles have been extended.
+3,396 (99.7%) of 3,407 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -333,6 +333,78 @@ According to police, all traffic plying towards Kandy from Colombo has been bloc
 [Data](articles/5d7a0c52.json)
 
 [Extended Data](ext_articles/5d7a0c52.ext.json)
+
+---
+
+### Visa Accelerator Program 2024 now open for applications from Fintechs in Sri Lanka
+
+*2024-01-29 22:46:00* · [`islandlk`](http://island.lk/visa-accelerator-program-2024-now-open-for-applications-from-fintechs-in-sri-lanka/) · `en`
+
+The fourth edition of the program invites applications from growth-stage startups to solve payments and commerce challenges of tomorrow
+
+Visa (NYSE: V), the global leader in digital payments, today announced the launch of the fourth edition of Visa Accelerator Program with an open call for applications. The initiative aims to enable startups in Sri Lanka to unlock growth potential by collaborating with Visa’s payments experts. The 2024 edition focuses on new opportunity areas – Artificial Intelligence (AI), Global Money Movement and Loyalty of the Future, with an emphasis on areas like Digital Acceptance for Micro, Small and Medium Businesses (MSMBs) and Embedded Finance.
+
+...
+
+[Data](articles/b7a7ad23.json)
+
+---
+
+### 44 authors, 23 sessions across 2 cities, the 1st edition of HSBC Ceylon Literary & Arts Festival
+
+*2024-01-29 22:45:00* · [`islandlk`](http://island.lk/44-authors-23-sessions-across-2-cities-the-1st-edition-of-hsbc-ceylon-literary-arts-festival/) · `en`
+
+Kandy and Colombo play host to the new creative platform, 8th–12th February
+
+The first edition of HSBC Ceylon Literary & Arts Festival (CLF) is scheduled to unfold in the picturesque city of Kandy on February 8th, followed by a vibrant continuation in Colombo on February 10th. Both cities, renowned for their rich heritage and cultural vibrancy, will serve as the perfect hosts for this literary and artistic celebration.
+
+The festival centers around a creative platform highlighting the cultural essence of Sri Lanka, placing a primary emphasis on Literature, complemented by Art, Music, and Films. A pivotal objective of the festival management is to broaden exposure and knowledge among the youth and children. To this end, a Children’s Festival and Creative Writing Workshop have been organized, featuring the participation of 13 schools. This initiative is aimed at laying the groundwork for the future, with the intention of expanding and enriching these endeavors with each successive edition.
+
+...
+
+[Data](articles/1f8911c4.json)
+
+---
+
+### Expolanka Holdings ‘demonstrates resilience’ in Q1 FY24
+
+*2024-01-29 22:43:00* · [`islandlk`](http://island.lk/expolanka-holdings-demonstrates-resilience-in-q1-fy24-2/) · `en`
+
+Expolanka Holdings PLC, reporting financial results for the first quarter of the 2024 financial year, that ended June 30, 2023, remained steadfast in consolidating performance and pursuing its long-term strategy. During the quarter under review, Expolanka Holdings demonstrated incredible resilience, with a revenue of Rs. 55.5 Bn and a Gross Profit of Rs. 11.2 Bn, despite persisting challenges posed by market disruptions, volatility, and uncertainty, an Expolanka press release said.
+
+The release adds: ‘The large foreign earnings portfolio and foreign asset base of the group was again negatively impacted by the appreciation of the Sri Lanka Rupee which resulted in the group recording an exchange loss of Rs. 973 Mn for the quarter.
+
+...
+
+[Data](articles/de8a8f8d.json)
+
+---
+
+### St. Anthony’s Hardware launches HYDROMAX: high-quality water pumps
+
+*2024-01-29 22:41:00* · [`islandlk`](http://island.lk/st-anthonys-hardware-launches-hydromax-high-quality-water-pumps/) · `en`
+
+St. Anthony’s Hardware (Pvt) Ltd, a trusted name in the construction industry introduced the Hydromax water pump. This new addition aims to address the existing gap in the market for affordable, high-quality and reliable water pumps.
+
+The Hydromax water pump boasts a powerful and quiet induction motor, 100% copper winding, corrosion-resistant impeller, and carbon and ceramic water seals, all crafted using cutting-edge European technology. The product has undergone stringent lab testing that confirmed a 100% success rate across all functions of the water pump, providing the assurance needed for a confident product launch. Hydromax pumps have a higher head max (M) and max flow (Lts/min) than most of the established players in the market.
+
+...
+
+[Data](articles/23a4554f.json)
+
+---
+
+### Debt restructuring issues continue to hamper share trading
+
+*2024-01-29 22:37:00* · [`islandlk`](http://island.lk/debt-restructuring-issues-continue-to-hamper-share-trading/) · `en`
+
+Stock market trading lacked lustre yesterday as the market witnessed huge selling pressure. Apparently, the absence of a proper process for 2024 with regard to the external debt restructuring exercise, particularly for sovereign bond holders, caused a dip in the market, analysts said.
+
+Both indices moved downwards. The All- Share Price Index went down by 38.4 points, while the S and P SL20 declined by 17.17 points. Turnover amounted to Rs 590 million without any crossings.
+
+...
+
+[Data](articles/240be999.json)
 
 ---
 
@@ -1905,99 +1977,5 @@ Ranjithmathumapandara said that we will not announce where we will go from now o
 [Data](articles/ee88be49.json)
 
 [Extended Data](ext_articles/ee88be49.ext.json)
-
----
-
-### Sri Lanka’s total exports reach USD 14.49 bn in 2023
-
-*2024-01-29 15:15:00* · [`adaderanalk`](https://www.adaderana.lk/news/96825/sri-lankas-total-exports-reach-usd-1449-bn-in-2023-) · `en`
-
-Sri Lanka’s total exports for the year 2023 reached USD 14.49 billion, the Export Development Bank (ED) reported, adding that it is only a minor decline of 0.39% compared to 2022.
-
-In a report issued in this regard, the EDB revealed that Sri Lanka had recorded a total of USD 14.99 billion in exports for the year 2022, USD 3.08 billion higher than that earned last year.
-
-As per the report, the estimated value of services exports for the period of January to December 2023 was USD 3,080.9 million, increasing 63.1 % over the corresponding period in 2022, while cumulative merchandise exports during the period of January to December 2023 decreased by 9.54 % to USD 11,856.3 million compared to the corresponding period in 2022.
-
-◼️
-
-[Data](articles/6dcc9d66.json)
-
-[Extended Data](ext_articles/6dcc9d66.ext.json)
-
----
-
-### Easter Sunday bombers are NPP associates: Nimal Lanza
-
-*2024-01-29 15:12:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Easter-Sunday-bombers-are-NPP-associates-Nimal-Lanza/108-275916) · `en`
-
-Colombo, Jan 29 (Daily Mirror) -  The terror group which carried out the Easter Sunday bomb attacks are associates of the National People’s Power (NPP) and had actually funded the Marxists, MP Nimal Lanza said over the weekend.
-
-“Ibrahim who was a key suspect in the Easter Sunday attacks was in the NPP national list. The father of one of the suicide bombers was also in the NPP national list. This group has funded the NPP with millions of rupees. Catholics in this country should remember this fact when casting their votes,” Lanza said during the inaugural rally of the new alliance that is in the making.
-
-“NPP leaders have not paid a single cent as taxes. They have not provided employment to a single youth, unlike us. This is because they don’t own any enterprises. They are not employed. However, they lead more comfortable lives than any one of us,” he said.
-
-◼️
-
-[Data](articles/b274677a.json)
-
-[Extended Data](ext_articles/b274677a.ext.json)
-
----
-
-### 10 Indian fishermen arrested in Point Pedro Sea
-
-*2024-01-29 15:05:00* · [`virakesarilk`](https://www.virakesari.lk/article/175072) · `ta`
-
-10 Indian fishermen arrested in Jaffna -Point Pedro Sea. They were acquitted when the case was taken up for hearing at the Point Pedro Magistrate's Court today.
-
-They were released on the basis of a 9 -month prison sentence for 10 years. The magistrate ordered the fishermen to be seized by the fishermen.
-
-Krisanthan has ordered Justice Ponnuthurai to restore other belongings, including a mobile phone seized among fishermen.
-
-The magistrate today ordered that the 10 fishermen who were released to the Mirihana camp and sent it to India.
-
-They were arrested on January 14 on charges of fishing in the Sri Lankan waters.. Meanwhile, the first suspect, the owner of the boat, was ordered to send an invitation through the Justice Department. The case for the boat owner is set to be installed on October 24.
-
-◼️
-
-[Data](articles/a8a8c0ca.json)
-
-[Extended Data](ext_articles/a8a8c0ca.ext.json)
-
----
-
-### Two persons arrested with drugs at children's sports event
-
-*2024-01-29 14:53:00* · [`virakesarilk`](https://www.virakesari.lk/article/175069) · `ta`
-
-Two youths have been arrested at the Manipay Sellamuthu Playground in Jaffna, with drugs for a children's sports event (Carnivel).
-
-Police searched two youths who were suspicious at the stadium.
-
-During that time, they have recovered a sum of cannabis from their possession. They were subsequently arrested and detained at the Manipay police station.
-
-◼️
-
-[Data](articles/07863765.json)
-
-[Extended Data](ext_articles/07863765.ext.json)
-
----
-
-### Teacher arrested for money laundering case
-
-*2024-01-29 14:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175066) · `ta`
-
-A teacher who works as the Assistant Supervisor of the Examination Hall has been arrested for the GCE Advanced Level Examination.
-
-The Anuradhapura headquarters headquarters police said that he was arrested while he was on duty as he had been issued an open war on the case of money laundering.
-
-The police said that the suspect, the suspect in the case of money laundering in the Thambuttegama Magistrate's Court, had been issued an opening for the exclusion of the court.
-
-◼️
-
-[Data](articles/c51977fe.json)
-
-[Extended Data](ext_articles/c51977fe.ext.json)
 
 ---

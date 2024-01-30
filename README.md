@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 02:17:19**
+As of **2024-01-31 02:32:54**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,649 (99.9%) of 3,651 articles have been extended.
+3,651 (100.0%) of 3,651 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -44,6 +44,8 @@ His excitement and joy were no less indecent and vulgar than the man he called a
 
 [Data](articles/22c70721.json)
 
+[Extended Data](ext_articles/22c70721.ext.json)
+
 ---
 
 ### RW, IMF and the economy
@@ -55,6 +57,8 @@ President Ranil Wickremesinghe addressing the International Customs Day celebrat
 ...
 
 [Data](articles/75083a34.json)
+
+[Extended Data](ext_articles/75083a34.ext.json)
 
 ---
 

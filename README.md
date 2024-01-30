@@ -1,36 +1,48 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 15:02:22**
+As of **2024-01-30 15:17:15**
 
 ## Newspaper Stats
 
-*Scraped **3,533** Articles*
+*Scraped **3,539** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 46
-bbccomsinhala | 58
-dbsjeyarajcom | 125
+bbccomsinhala | 59
+dbsjeyarajcom | 127
 economynextcom | 193
-islandlk | 196
+islandlk | 197
 newsfirstlk | 211
 dailyftlk | 233
-adalk | 321
+adalk | 322
 adaderanasinhalalk | 385
 virakesarilk | 388
 tamilmirrorlk | 448
-adaderanalk | 451
+adaderanalk | 452
 dailymirrorlk | 478
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,533 (100.0%) of 3,533 articles have been extended.
+3,533 (99.8%) of 3,539 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### Heavy traffic in Colombo due to SJB protest march
+
+*2024-01-30 14:52:00* · [`adaderanalk`](https://www.adaderana.lk/news/96853/heavy-traffic-in-colombo-due-to-sjb-protest-march) · `en`
+
+Traffic congestion is reported in Town Hall, Colombo, due to a protest march organized by the Samagi Jana Balawegaya (SJB), Ada Derana correspondent says.
+
+◼️
+
+[Data](articles/118d9f6e.json)
+
+---
 
 ### 5 fishermen arrested on the coast of Vidal Island
 
@@ -308,13 +320,15 @@ However, the protesters do not obtain their views to use their vibrans to use th
 
 *2024-01-30 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96850/sjbs-planned-rally-slapped-with-yet-another-court-order) · `en`
 
-The anti-government protest march planned to be staged by the Samagi Jana Balawegaya (SJB) in Colombo this afternoon has been slapped with yet another court order.
+The anti-government protest march organized by the Samagi Jana Balawegaya (SJB) to be staged in Colombo this afternoon has been slapped with yet another court order.
 
-This is the third court order issued against the main opposition’s rally.
+This is the third court order imposed on the main opposition’s planned rally.
 
-It was delivered by Maligakanda Maligakanda Magistrate’s Court, barring the SJB protesters from inconveniencing the motorists and the pedestrians travelling along the Dean’s Road, T.B. Jayah Mawatha, the Technical Junction and other areas in Colombo this evening.
+It was delivered by Maligakanda Maligakanda Magistrate’s Court against 16 SJB members including Opposition Leader Sajith Premadasa, MP Ranjith Madduma Bandara, MP S.M. Marikkar, MP Kabir Hashim, former MP Mujibur Rahman, MP Harshana Rajakaruna, MP Sarath Fonseka, MP Tissa Attanayake, MP Lakshman Kiriella, MP Hesha Vithanage, MP Kavinda Jayawardena, former MP Hirunika Premachandra and around 500 supporters, after taking into account a request made by the OIC of Maradana Police.
 
-◼️
+The protesters are barred from causing inconveniences to motorists and pedestrians travelling along Dean’s Road, Lipton Roundabout, Maradana Junction, T.B. Jayah Mawatha, Olcott Mawatha, the Technical Junction and other areas in Colombo this evening.
+
+...
 
 [Data](articles/919e4ae0.json)
 
@@ -508,7 +522,15 @@ Sri Lankan Military personnel take part in a rehearsal for the Independence Day 
 
 *2024-01-30 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96849/three-junior-staffers-of-parliament-arrested-over-abuse-allegations) · `en`
 
-Three junior staff members of parliament have been arrested by the Child and Women’s Bureau of Police for allegedly abusing two female staff members.
+Three junior staff members of parliament have been arrested by the Child and Women’s Bureau of Police over abuse allegations.
+
+The three suspects are accused of abusing two female staff members.
+
+Meanwhile, in August 2023, a three-member committee initiated an internal investigation into the complaints on allegations of sexual abuse of the female employees of the parliament’s Catering and Housekeeping Department.
+
+The committee was appointed in response to a question raised by MP Rohini Kumari Wijerathna during a parliamentary session. The committee was chaired by Secretary-General of Parliament Kushani Anusha Rohanadeera.
+
+The parliamentarian had raised the matter in the parliament referring to media reports of the female housekeeping staffers of the parliament being sexually abused by other officials.
 
 ◼️
 
@@ -673,6 +695,24 @@ The Director said that the fire will begin to work from next March.
 [Data](articles/d82f4de9.json)
 
 [Extended Data](ext_articles/d82f4de9.ext.json)
+
+---
+
+### ලංවිම විදුලි බිල්පත් ගෙවීමට ක්‍රම කිහිපයක්
+
+*2024-01-30 12:21:20* · [`adalk`](https://www.ada.lk/breaking_news/ලංවිම-විදුලි-බිල්පත්-ගෙවීමට-ක්‍රම-කිහිපයක්/11-407796) · `si`
+
+ලංකා විදුලිබල මණ්ඩලය විදුලි පාරිභෝගිකයන්ට සිය විදුලි බිල්පත් ගෙවීම සඳහා ක්‍රමවේදයන් කිහිපයක් හඳුන්වා දී ඇත.
+
+ඒ අනුව, CEBCare මොබයිල් ඇප්එක මඟින්, ඔන්ලයින් බැංකු සේවා මඟින්, ලංවිම වෙබ් අඩවිය ඔස්සේ, ඕනෑම ශ්‍රී ලංකා තැපැල් කාර්යාලයක් මඟින්, ලංවිම සහ බැංකු KIOSK යන්ත්‍ර මඟින්, කාගීල්ස්, කීල්ස් ආදී සුපිරි වෙළඳසැල් වලින් මෙන්ම mCash මඟින් ද විදුලි බිලපත් ගෙවීමේ පහසුකම් රැසක් පාරිභෝගියන් වෙත හඳුන්වා දී ඇත.
+
+එමෙන්ම විදුලි බිල්පත් සම්බන්ධයෙන් පැනනැගෙන ගැටළු පිළිබඳව ලංවිම ඇමතුම් මධ්‍යස්ථාන අංකය වන 1987 වෙත යොමු කරන ලෙස කාරුණිකව දන්වා සිටිමි.
+
+ඉහත ඕනෑම ක්‍රමවේදයක් භාවිතා කරමින් ලංවිම විදුලි බිල්පත් නිසි කලට ගෙවමින් අඛණ්ඩ විදුලි සැපයුමකට දායක වන ලෙස ලංකා විදුලිබල මණ්ඩලය පාරිභෝගික ජනතාවගෙන් ඉල්ලා සිටි.
+
+◼️
+
+[Data](articles/c685f91f.json)
 
 ---
 
@@ -1973,49 +2013,5 @@ The commissioner Amit Jayasundara said that further information can be obtained 
 [Data](articles/8e270f4f.json)
 
 [Extended Data](ext_articles/8e270f4f.ext.json)
-
----
-
-### Sri Lanka’s trade barriers, denied economic freedoms seen driving corruption
-
-*2024-01-30 08:28:00* · [`economynextcom`](https://economynext.com/sri-lankas-trade-barriers-denied-economic-freedoms-seen-driving-corruption-149058/) · `en`
-
-ECONOMYNEXT – Sri Lanka economic and trade freedoms denied to the public by the state is a key driver of corruption in the island, which is a trend seen across countries, a Canada based researcher has said.
-
-Sri Lanka ranks among the bottom of the 165 countries ranked annually by Fraser Institute dropping 12 places to 116 in the latest compilation which is based on 2021 data.
-
-Many analysts have pointed out that Sri Lanka no longer has an ‘open economy’ as import duties, and para tariffs, as well as import licensing progressively worsened over the past 15 years.
-
-“Out of 165 jurisdictions we measure, Sri Lanka comes in at 156, right down at the bottom,” Fred McMahon Resident Fellow at Fraser Institute told an economic forum organized by Colombo-based Advocata Institute.
-
-...
-
-[Data](articles/40ec0cc4.json)
-
-[Extended Data](ext_articles/40ec0cc4.ext.json)
-
----
-
-### Maithri is noticeable to Mahinda as the post of Prime Minister
-
-*2024-01-30 08:04:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192721) · `si`
-
-The Supreme Court has granted permission to hear a basic human rights petition filed by President Maithripala Sirisena who served as the Prime Minister of Good Governance in 2018.
-
-Former President Maithripala Sirisena, former Prime Minister Mahinda Rajapaksa, who was named as respondents to appear in court, has been ordered to be released.
-
-After considering the petition, the S. The order has issued the order by a three-member judiciary panel of the three-member judges with Turai Raja and Kumuduni Wickremasinghe and Aetu Weeweleyers.
-
-The petition was then taken to the examination on 23rd September, and the court had presented the petition by the petitioner, Male Herath, a social activist.
-
-The petitioner says President Maithripala Sirisena has been removed as the Prime Minister of President Maithripala Sirisena on October 26, 2018.
-
-Subsequently, Mahinda Rajapaksa was appointed to the post.
-
-...
-
-[Data](articles/a198715a.json)
-
-[Extended Data](ext_articles/a198715a.ext.json)
 
 ---

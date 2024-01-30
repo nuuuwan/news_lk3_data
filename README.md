@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 11:33:02**
+As of **2024-01-30 11:51:50**
 
 ## Newspaper Stats
 
-*Scraped **3,454** Articles*
+*Scraped **3,459** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,52 +19,130 @@ adalk | 313
 virakesarilk | 372
 adaderanasinhalalk | 375
 tamilmirrorlk | 440
-adaderanalk | 440
+adaderanalk | 445
 dailymirrorlk | 467
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,452 (99.9%) of 3,454 articles have been extended.
+3,456 (99.9%) of 3,459 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### ටොයෝටා සමාගමෙන් පෙරළියක්
+### CEB makes bill payments more convenient
+
+*2024-01-30 11:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96845/ceb-makes-bill-payments-more-convenient-) · `en`
+
+The Ceylon Electricity Board (CEB) has introduced several new methods for consumers to pay their electricity bills in a more efficient manner.
+
+As such, CEB consumers are now able to pay their bills via the CEBCare mobile app, the official CEB website, online banking services, CEB or bank kiosk machines or at any post office, or through mCash at any Cargills or Keells supermarkets.
+
+Issuing a statement, the CEB urged consumers to dial the ‘1987’ CEB hotline in relation to any issues that may arise when settling their bills.
+
+◼️
+
+[Data](articles/ba168a87.json)
+
+---
+
+### Anti-Terrorism Bill: Petition hearing enters day three
+
+*2024-01-30 11:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96844/anti-terrorism-bill-petition-hearing-enters-day-three) · `en`
+
+A five-member Supreme Court judge bench commenced hearing the petitions filed against the government’s new Anti-Terrorism Bill for the third day straight.
+
+Chief Justice Jayantha Jayasuriya and Justices Vijith Malalgoda, A.H.M.D. Nawaz, Shiran Gunaratne and Arjuna Obeysekera sat for the petition hearing which initially got underway on January 26. Legal counsels of the petitioners are continuing to present submissions.
+
+A total of 31 petitions have been put forward against the proposed legislation which seeks to replace the controversial Prevention of Terrorism Act (PTA).
+
+Among the petitioners are His Eminence Malcolm Cardinal Ranjith, General Secretary of Samagi Jana Balawegaya (SJB) Ranjith Madduma Bandara, National People’s Power (NPP) MP Vijitha Herath, Centre for Policy Alternatives (CPA), Socialist Youth Union (SYU), Duminda Nagamuwa of Frontline Socialist Party (FSP) and the Ceylon Teachers’ Union (CTU).
+
+...
+
+[Data](articles/0afabcee.json)
+
+---
+
+### Court order issued against planned SJB rally
+
+*2024-01-30 11:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96843/court-order-issued-against-planned-sjb-rally) · `en`
+
+A court order was issued on Tuesday (30 Jan.), preventing the Samagi Jana Balawegaya (SJB) from inconveniencing the public during its political rally due to be held later today.
+
+The relevant order was issued by the Colombo Chief Magistrate against SJB Leader Sajith Premadasa, SJB General Secretary MP Ranjith Madduma Bandara, former MP Mujibur Rahman and several others.
+
+As per the court order, the respondents are prevented from inconveniencing the public and pedestrians in several areas within the Maligawatte police area.
+
+The SJB is scheduled to hold a political rally this afternoon, marking the launch of party leader Sajith Premadasa’s presidential campaign themed ‘Wenasak Hadana Wasarak’ (‘A year for change’).
+
+All SJB leaders, together with its allies, are expected to participate in the rally.
+
+◼️
+
+[Data](articles/58936420.json)
+
+---
+
+### Late State Minister Sanath Nishantha’s wife to enter politics?
+
+*2024-01-30 11:03:00* · [`adaderanalk`](https://www.adaderana.lk/news/96842/late-state-minister-sanath-nishanthas-wife-to-enter-politics) · `en`
+
+The wife of late State Minister Sanath Nishantha says she would consider embarking on a political career to fill the void left by her recently deceased husband if a request is made.
+
+Attorney-at-Law Chamari Priyanka made these remarks while speaking to the media after visiting the bereaved family of the late lawmaker’s security officer who died in the fatal expressway accident on January 25.
+
+State Minister Sanath Nishantha and Constable Anuradha Jayakody suffered tragic deaths in a crash which took place in the early hours of January 25 on the Colombo - Katunayake expressway. Although the duo had been rushed to the Colombo North Teaching Hospital in Ragama, both were pronounced dead shortly after. The driver of the vehicle, however, survived the accident.
+
+...
+
+[Data](articles/2bc1a7ec.json)
+
+[Extended Data](ext_articles/2bc1a7ec.ext.json)
+
+---
+
+### Toyota flips from the company
 
 *2024-01-30 10:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192730) · `si`
 
-පිට පිට සිව් වැනි වසරටත් ලොව වැඩිම මෝටර් වාහන ගණනක් අලෙවිකළ සමාගම බවට පත්වීමට ටොයෝටා මෝටර් සමාගම සමත්වී තිබේ.
+Toyota Motor Company has been able to become the company's most motor vehicle vehicles in the world for the fourth year of the world.
 
-එම සමාගම පසුගිය වසරේදී (2023) වාහන මිලියන 11.2ක් අලෙවිකර ඇති බව වාර්තා විය.
+It was reported that the company had sold 11.2 million vehicles last year (2023).
 
-එසේම පසුගිය වසරේදී ඔවුන්ගේ අලෙවි ආදායම 7.2%කින් වර්ධනය වී තිබුණි.
+Last year, their sales revenues grew 7.2%.
 
-ජර්මනියේ වොක්ස්වැගන් සමුහය දෙවැනි ස්ථානයට පත්ව ඇත්තේ වාහන මිලියන 9.2ක් අලෙවි කිරීමෙනි.
+The Volkswage Group of Germany has been placed second with the sale of 9.2 million vehicles.
 
 ◼️
 
 [Data](articles/7a3e082c.json)
 
+[Extended Data](ext_articles/7a3e082c.ext.json)
+
 ---
 
-### ත්‍රස්ත විරෝධි පනත් කෙටුම්පතට එරෙහි පෙත්සම් විභාගය අදත්
+### Petition against the terrorist bill today
 
 *2024-01-30 10:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192729) · `si`
 
-රජය විසින් පාර්ලිමේන්තුවට ඉදිරිපත් කර තිබෙන ත්‍රස්ත විරෝධී පනත් කෙටුම්පතට එරෙහිව ගොනුකර තිබෙන පෙත්සම් විභාගය අද (30) ශ්‍රේෂ්ඨාධිකරණය හමුවේ තුන්වන දිනටත් ආරම්භ වුණි.
+The petition filed against the anti-Terrorism Bill, which was presented by the government, began in the Supreme Court today (30).
 
-අගවිනිසුරු ජයන්ත ජයසූරිය, විජිත් මළල්ගොඩ, ඒ. එච්.එම්.ඩී. නවාස්, ශිරාන් ගුණරත්න සහ අර්ජුන ඔබේසේකර යන මහත්වරුන්ගෙන් සමන්විත පංච පුද්ගල ශ්‍රේෂ්ඨාධිකරණ විනිසුරු මඩුල්ල ඉදිරියේ පෙත්සම් විභාගය පැවැත්වේ.
+Chief Justice Jayantha Jayasuriya, Vijith Balaltota, A. HMD. The petition examination will be held in front of the Festival Supreme Court Judge Benchi, accompanied Nawaz, Shiran Gunaratne and Arjuna Obeysekere.
 
-අද දින පෙත්සම් විභාගය ආරම්භ වූ අවස්ථාවේදී පෙත්සම්කාර පාර්ශවයේ නීතිඥවරු විසින් කරුණු ඉදිරිපත් කිරීම තව දුරටත් සිදුකරනු ලබයි.
+Attorneyers at the petitioner's lawyers will further submit the issues when the petition begins today.
 
-ත්‍රස්ත විරෝධී පනත් කෙටුම්පතේ ඇතැම් වගන්ති ආණ්ඩුක්‍රම ව්‍යවස්ථාවට පටහැනි යැයි තීන්දු කරන ලෙස ඉල්ලා මේ වන විට ශ්‍රේෂ්ඨාධිකරණය හමුවේ පෙත්සම් 31ක්  ගොනුකර තිබේ.
+The Supreme Court has already filed 31 petitions in the Supreme Court asking to decide to decide that some clauses in the terrorism bill is contrary to the Constitution.
+
+Kadin's Supreme Malcolm Ranjith, Secretary to the General Secretary of the Sri Lanka Muslim Congress, Sri Lanka Muslim Congress, Sri Lanka Professional Secretary Duminda Nagamuwa, Sri Lanka Trade Policy AssociationThese petitions have been filed by the Ceylon Teachers Union and several others. The Attorney General has been nominated as respondent in the petitions.
 
 ...
 
 [Data](articles/c9d4b627.json)
+
+[Extended Data](ext_articles/c9d4b627.ext.json)
 
 ---
 
@@ -371,6 +449,26 @@ The police said 527 drug suspects were among the individuals arrested during thi
 [Data](articles/36ad7498.json)
 
 [Extended Data](ext_articles/36ad7498.ext.json)
+
+---
+
+### Over 31,000 narcotic pills seized during ‘Yukthiya’ operation
+
+*2024-01-30 09:12:00* · [`adaderanalk`](https://www.adaderana.lk/news/96840/over-31000-narcotic-pills-seized-during-yukthiya-operation) · `en`
+
+A total of 868 more suspects have been arrested by Sri Lanka’s police and security forces personnel within 24 hours ending at 12.30 a.m. today (Jan. 30) as part of the ongoing countrywide anti-drug operation ‘Yukthiya’.
+
+Detention orders have been secured against 3 of the arrestees, while another 5 were referred to rehabilitation centres, the Ministry of Public Security said.
+
+According to the ministry, the narcotics taken into custody during this period include 120g of heroin, 98 grams of crystal methamphetamine (Ice) and 31,611 narcotic pills. Additionally, 123kg of cannabis and 9,708 cannabis plants too were impounded.
+
+The police said 527 drug suspects were among the individuals arrested during this 24-hour window.
+
+◼️
+
+[Data](articles/ec3263e0.json)
+
+[Extended Data](ext_articles/ec3263e0.ext.json)
 
 ---
 
@@ -1891,89 +1989,5 @@ A good film, in my opinion, should be a combination of 50% from reality and anot
 [Data](articles/f5deaea1.json)
 
 [Extended Data](ext_articles/f5deaea1.ext.json)
-
----
-
-### Ten President’s Counsels take silk
-
-*2024-01-29 19:15:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Ten-Presidents-Counsels-take-silk/108-275922) · `en`
-
-Colombo, Jan 29 (Daily Mirror) - Ten senior attorneys took their oaths as President’s Counsel (PC) at a ceremonial sitting of the Supreme Court.
-
-Chamantha Weerakoon, Dr. Asanga Gunawansa, Mohamed Adamaly, Harsha Fernando, Dr. Sivaji Felix, Faisza Markar, Kaushalya Nawaratne, Upul Kumarapperuma, Viran Corea and Eraj de Silva took their oaths as President's Counsel before Chief Justice Jayantha Jayasuriya PC and the judges of apex courts, Colombo High Courts, Colombo District Courts and Colombo Chief Magistrate’s Courts.
-
-President’s Counsel is a professional rank and status conferred to the appointee by the President under Article 33 (cc) of the Constitution. According to the constitutional provision, attorneys-at-law who have reached eminence in the profession and have maintained high standards of conduct and professional rectitude are appointed as President’s Counsel by the President.
-
-...
-
-[Data](articles/7964b467.json)
-
-[Extended Data](ext_articles/7964b467.ext.json)
-
----
-
-### Navees' 'Pattu Keerthi Sri Sasanawandyani'
-
-*2024-01-29 19:14:35* · [`adalk`](https://www.ada.lk/breaking_news/නවීන්ට-’’දේශ-කීර්ති-ශ්‍රී-ශාසනාභිමානී-’’-නාමය/11-407785) · `si`
-
-Governor of the Sabaragamuwa Province Navin Dissanayake was honored with the Sambuddha Sasana and the service of the human society.
-
-The Most Venerable Mahanayaka Panditha Punhaya, the Chief Prelate of the Mahenna Maha Nikaya was presented by the Chief Prelate of the Ramananayaka Maha Nikaya in the Ramanna Maha Nikaya.
-
-The name was awarded the name in the Maha Sangha, the Most Venerable Mahanayaka Maha Nikaya at the District Secretariat of Ratnapura.
-
-...
-
-[Data](articles/6bf96f2d.json)
-
-[Extended Data](ext_articles/6bf96f2d.ext.json)
-
----
-
-### Legalizing Prostitution – A Response
-
-*2024-01-29 19:10:27* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/legalizing-prostitution-a-response/) · `en`
-
-I refer to the Front Page news report in the Daily News of 18th January 2024 under the heading “NPP Will Legalise Prostitution – Says Party Executive Member Samanmalee Gunasinghe” and express my views in response:
-
-...
-
-[Data](articles/421fabe3.json)
-
-[Extended Data](ext_articles/421fabe3.ext.json)
-
----
-
-### Flight Of Human Capital – A Catastrophic Fait Accompli
-
-*2024-01-29 18:58:21* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/flight-of-human-capital-a-catastrophic-fait-accompli/) · `en`
-
-Sri Lanka (SL) is experiencing mass exodus of professionals and skilled manpower. The crippling economic crisis that has beleaguered the nation is driving many professionals and skilled individuals away towards greener pastures. As reported by the Ministry of Health, nearly 1000 Doctors have migrated during the period from May’22 to May’23. Many doctors, specialists, and heath care professionals are migrating and this situation is precipitating health security crisis for needy mainly dependent on public sector medical care.
-
-...
-
-[Data](articles/9cc70dcb.json)
-
-[Extended Data](ext_articles/9cc70dcb.ext.json)
-
----
-
-### "Imagine how it would be"
-
-*2024-01-29 18:50:59* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/எப்படியிருக்குமென-கற்பனை-செய்து-பாருங்கள்/175-332293) · `ta`
-
-Former parliamentarian Hirunika Premachandra has said that all foreign internet service providers are likely to leave the country when the law is implemented and spread the online security Bill to the local social media site.
-
-"It is a little more than for leaving Sri Lanka for international service providers like Facebook and X," he said at a media briefing.
-
-He added that if all foreign service providers stop working in Sri Lanka, Sri Lanka would have to create its own site like China.
-
-"Imagine how you feel if you can't log in to Facebook, Instagram or X by your phone to find out what is happening all over the world," he questioned.
-
-◼️
-
-[Data](articles/25385cbe.json)
-
-[Extended Data](ext_articles/25385cbe.ext.json)
 
 ---

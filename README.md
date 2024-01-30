@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 14:49:54**
+As of **2024-01-30 15:02:22**
 
 ## Newspaper Stats
 
@@ -26,61 +26,67 @@ dailymirrorlk | 478
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,522 (99.7%) of 3,533 articles have been extended.
+3,533 (100.0%) of 3,533 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### விடத்தல் தீவு கடற்கரையில் 5 மீனவர்கள் கைது
+### 5 fishermen arrested on the coast of Vidal Island
 
 *2024-01-30 14:09:48* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/விடத்தல்-தீவு-கடற்கரையில்-5-மீனவர்கள்-கைது/175-332345) · `ta`
 
-மாந்தை மேற்கு பிரதேச  செயலாளர் பிரிவில் உள்ள விடத்தல் தீவு கடற்கரையில்,  தடை செய்யப்பட்ட இழுவை மடியை பயன்படுத்தி கடற்றொழிலில் ஈடுபட்ட 5 மீனவர்கள் கைது செய்யப்பட்டுள்ளதோடு  அவர்கள் பயன்படுத்திய இழுவை படகும் மீட்கப்பட்டுள்ளது.
+Five fishermen have been arrested for using a banned drag lap at the Vidal Island beach in the Manthai West Divisional Secretariat Division.
 
-கைதானவர்கள் விடத்தல் தீவு மக்கள் மற்றும் கடற்றொழில் திணைக்கள உத்தியோகத்தர்களால் திங்கட்கிழமை (29) இரவு கைது செய்யப்பட்டுள்ளனர்.
+The detainees were arrested on Monday night by the officials of the Fisheries Department and the Fisheries Department.
 
-இதற்கமைய, கைது செய்யப்பட்டவர்கள் எருக்கலம்பிட்டி மற்றும்  உப்புக்குளம் பகுதியை சேர்ந்தவர்கள் என தெரியவந்துள்ளது.
+Accordingly, the arrested persons belonged to the Erukkalampitti and Uppukkulam area.
 
-இந்த நிலையில் விடத்தல் தீவு இறங்கு துறையில் இழுவை படகு நிறுத்தப்பட்டுள்ளதோடு, மேலதிக நடவடிக்கைக்காக 5 மீனவர்கள் மன்னார் கடற்றொழில் திணைக்கள அதிகாரிகளிடம் ஒப்படைக்கப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+It is noteworthy that the drag boat has been halted in the field of Vitamal Island and 5 fishermen have been handed over to the Mannar Fisheries Department officials for further action.
 
 ◼️
 
 [Data](articles/84b6cdaf.json)
 
+[Extended Data](ext_articles/84b6cdaf.ext.json)
+
 ---
 
-### பாராளுமன்றில் பாலியல் சேஷ்டை:  மூவர் கைது
+### Sexuality in Parliament: Three arrested
 
 *2024-01-30 14:08:10* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பாராளுமன்றில்-பாலியல்-சேஷ்டை-மூவர்-கைது/175-332344) · `ta`
 
-இரண்டு அழகான பணிப்பெண்கள் பாலியல் வன்கொடுமைக்கு உட்படுத்தப்பட்ட சம்பவம் தொடர்பில் பாராளுமன்றத்தின் வீட்டு பராமரிப்பு திணைக்களத்தின் மூன்று இளநிலை ஊழியர்கள் கைது செய்யப்பட்டுள்ளதாக பொலிஸ் சிறுவர் மற்றும் பெண்கள் பணியகம் தெரிவித்துள்ளது.
+Three junior workers of Parliament's Home Care Department have been arrested in connection with the incident of two beautiful maids being raped, according to the Bureau of Police.
 
-இந்த விடயம் தொடர்பில் அந்த பணியகத்தின் அதிகாரிகள் அண்மையில் பாராளுமன்ற வளாகத்திற்கு சென்று விசாரணைகளை மேற்கொண்டுள்ளனர்.
+Officials of the Bureau have recently visited the Parliamentary Complex and are investigating the matter.
 
-பாலியல் துன்புறுத்தல் சம்பவம் தொடர்பாக பாராளுமன்ற உதவி நிர்வாகி உட்பட இருவர் இடைநீக்கம் செய்யப்பட்டுள்ளனர்.
+Two persons, including a parliamentary assistant administrator, have been suspended in connection with the sexual harassment incident.
 
 ◼️
 
 [Data](articles/1224a2c7.json)
 
+[Extended Data](ext_articles/1224a2c7.ext.json)
+
 ---
 
-### இம்ரான் கானுக்கு 10 ஆண்டுகள் சிறை
+### 10 years in prison for Imran Khan
 
 *2024-01-30 14:05:31* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இம்ரான்-கானுக்கு-10-ஆண்டுகள்-சிறை/50-332343) · `ta`
 
-பாகிஸ்தான் முன்னாள் பிரதமரும், முன்னாள் கிரிக்கெட் வீரருமான இம்ரான் கான், பாகிஸ்தான் தெஹ்ரிக்-இ-இன்சாப் (பிடிஐ) கட்சித் தலைவராக உள்ளார். 71 வயதான இம்ரான் கான், 2018 முதல் ஏப்ரல் 2022, வரையிலான காலகட்டத்தில் பாகிஸ்தானின் பிரதமராக பதவி வகித்தார்.
+Imran Khan, former Pakistani prime minister and former cricketer, is the leader of Pakistan Tehrik-e-Insaf (PDI). Imran Khan, 71, was the prime minister of Pakistan from 2018 to April 2022.
 
-இந்நிலையில் அவர் மீது, அரசு ரகசியங்களை கசியவிட்ட குற்றச்சாட்டு உட்பட பல்வேறு குற்றச்சாட்டுகள் உள்ளன. அரசு ரகசியங்களை கசியவிட்ட குற்றச்சாட்டில் கடந்த மாதம் இம்ரானுக்கு நீதிமன்றம் பிணை வழங்கியிருந்தது
+In this case, there are various allegations, including the allegation that the government has leaned secrets. Last month, the court granted bail to Imran on charges of leaking government secrets
 
-இந்த வழக்கில் செவ்வாய்க்கிழமை (300 இம்ரான் கான் மற்றும் அவரது தெஹ்ரிக்-இ-இன்சாப் கட்சியின் துணை தலைவர் குரேஷிக்கும் தலா 10 ஆண்டுகள் சிறை தண்டனை விதித்து அந்நாட்டின் சிறப்பு நீதிமன்றம் உத்தரவிட்டுள்ளது.
+The country's special court on Tuesday (300 Imran Khan and his Tehrik-e-Insaf party) were sentenced to 10 years in prison.
 
-ஏற்கனவே பரிசுப்பொருள் வழக்கில் விதிக்கப்பட்ட 3 ஆண்டுகள் சிறைக்கு நீதிமன்றம் இடைக்கால தடை விதித்துள்ளது குறிப்பிடத்தக்கது.
+The court has issued an interim injunction for three years in prison in the prize.
 
 ◼️
 
 [Data](articles/5bf4e85c.json)
+
+[Extended Data](ext_articles/5bf4e85c.ext.json)
 
 ---
 
@@ -126,13 +132,15 @@ There have been concerns raised about giving projects to build renewable plants 
 
 ---
 
-### அஸ்வெசும குறித்து அதிரடி அறிவிப்பு
+### Action Notification
 
 *2024-01-30 13:53:29* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அஸ்வெசும-குறித்து-அதிரடி-அறிவிப்பு/175-332340) · `ta`
 
 ◼️
 
 [Data](articles/73e6763a.json)
+
+[Extended Data](ext_articles/73e6763a.ext.json)
 
 ---
 
@@ -151,6 +159,8 @@ He said there is no necessity for the police to seek the approval of the Speaker
 ◼️
 
 [Data](articles/b51c45d0.json)
+
+[Extended Data](ext_articles/b51c45d0.ext.json)
 
 ---
 
@@ -490,6 +500,8 @@ Sri Lankan Military personnel take part in a rehearsal for the Independence Day 
 
 [Data](articles/23b1ee7e.json)
 
+[Extended Data](ext_articles/23b1ee7e.ext.json)
+
 ---
 
 ### Three junior staffers of parliament arrested over abuse allegations
@@ -626,6 +638,8 @@ She made her statement after visiting the residence of Anuradha Jayakodi, the se
 
 [Data](articles/eee17f41.json)
 
+[Extended Data](ext_articles/eee17f41.ext.json)
+
 ---
 
 ### Unexpected underworld member
@@ -700,6 +714,8 @@ Since being granted Test status in 2018, Afghanistan has played seven Tests, win
 
 [Data](articles/80ec35c2.json)
 
+[Extended Data](ext_articles/80ec35c2.ext.json)
+
 ---
 
 ### SJB will go ahead with protest defying court order: Madduma Bandara
@@ -716,6 +732,8 @@ The protest is to begin near the Vihara Mahadevi Park at 1.30 pm today.
 
 [Data](articles/9b9dd302.json)
 
+[Extended Data](ext_articles/9b9dd302.ext.json)
+
 ---
 
 ### Court issues order on SJB protest
@@ -729,6 +747,8 @@ The Officer-in-Charge (OIC) of the Maligawatta Police informed court on plans by
 ...
 
 [Data](articles/b2371f0e.json)
+
+[Extended Data](ext_articles/b2371f0e.ext.json)
 
 ---
 
@@ -1023,6 +1043,8 @@ According to hospital sources, two Sri Lanka Air Force (SLAF) paratroopers have 
 ◼️
 
 [Data](articles/56818886.json)
+
+[Extended Data](ext_articles/56818886.ext.json)
 
 ---
 

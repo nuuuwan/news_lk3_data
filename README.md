@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 14:02:20**
+As of **2024-01-30 14:17:16**
 
 ## Newspaper Stats
 
@@ -50,15 +50,17 @@ The US dollar purchasing price was 312.8180 and the sales price were Rs 322.7398
 
 *2024-01-30 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96851/ex-pakistan-pm-imran-khan-gets-10-year-jail-term-for-leaking-state-secrets) · `en`
 
-A Pakistan court handed former Prime Minister Imran Khan a 10-year jail term on Tuesday for leaking state secrets, the former premier’s media team said.
+A Pakistan court handed former Prime Minister Imran Khan a 10-year jail term on Tuesday for leaking state secrets, the former premier’s media team said, his second conviction in recent months and just 10 days before the country’s general election.
 
-The case pertains to allegations that Khan had shared contents of a secret cable sent by the country’s ambassador in Washington to the government in Islamabad.
+The case pertains to allegations that Khan had made public contents of a secret cable sent by the country’s ambassador in Washington to the government in Islamabad.
 
 Khan’s party, the Pakistan Tehreek-e-Insaf (PTI), said both Khan and former foreign minister Shah Mehmood Qureshi had been sentenced to 10 years each by a special court.
 
-It said the party would challenge the decision and called it a "sham case".
+It said the party would challenge the decision and called it a “sham case”.
 
-◼️
+“We don’t accept this illegal decision,” Khan’s lawyer Naeem Panjutha posted on social media platform X, formerly Twitter.
+
+...
 
 [Data](articles/03892894.json)
 
@@ -68,7 +70,7 @@ It said the party would challenge the decision and called it a "sham case".
 
 ### Pakistani naval ship arrived in Sri Lanka
 
-*2024-01-30 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175148) · `ta`
+*2024-01-30 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175148) · `ta`
 
 Pakistan's naval ship Saif arrived at the Port of Colombo on Tuesday (30).
 

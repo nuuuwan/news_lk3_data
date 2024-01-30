@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 19:32:45**
+As of **2024-01-30 19:50:09**
 
 ## Newspaper Stats
 
@@ -26,47 +26,51 @@ dailymirrorlk | 488
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,591 (99.9%) of 3,593 articles have been extended.
+3,593 (100.0%) of 3,593 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### බිහිසුණු රිය අනතුරකින් විදේශිකයින් දෙදෙනෙකු මරුට
+### Two foreigners die in a terrible accident
 
 *2024-01-30 18:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192755) · `si`
 
-ගාල්ල මාතර ප්‍රධාන මාර්ගයේදී යතුරුපැදියක් සහ බස් රථයක් ගැටීමෙන් යතුරුපැදියේ ගමන්කළ විදෙස් ජාතිකයින් දෙදෙනෙකු ජීවිතක්ෂයට පත්ව තිබේ.
+Two foreign people were killed in a motorcycle while collision with a motorcycle while collision with a bus on the Galle Matara main road.
 
 ◼️
 
 [Data](articles/ad26ec1f.json)
 
+[Extended Data](ext_articles/ad26ec1f.ext.json)
+
 ---
 
-### නවසීලන්ත යොවුන් ක්‍රිකට් ක්‍රීඩකයින් වැඩ්ඩන් කරන අපේ අයිවන්
+### Our Ivan, who will wide New Zealand and New Zealand Youth Players
 
 *2024-01-30 18:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192754) · `si`
 
-මෙවර යොවුන් ලෝක කුසලාන ක්‍රිකට් තරගාවලිය මේ වනවිට දකුණු අප්‍රිකාවේ පැවැත්වෙයි.
+This time the Youth World Cup will be held in South Africa.
 
-කුඩා කාලයේදී ක්‍රිකට් ක්‍රීඩාවට වැඩි ඇල්මක් නොදැක්වූ ඔස්කා ජැක්සන් සිය ක්‍රිකට් අතීතය ගැන මාධ්‍ය ට හෙළිකර තිබුණි.
+Oscar Jackson, who did not have more love for cricket, had revealed to the media about its cricket past.
 
-එහිදී ඔහු පවසා තිබුණේ 2015දී වෙලිංටන් ක්‍රීඩා පිටියක පැවති තරගයකදී මාටින් ගප්ටිල් පන්දුවට පහරදෙන ආකාරය දැක ක්‍රිකට් ක්‍රීඩාවට ආශාවක් ඇතිවූ බවයි.
+He said that Martin saw the guther batting in 2015 and that cricket was emerged.
 
-ඔහුට මෙතෙක් දුර පැමිණීමට උදව් කළ ශ්‍රී ලාංකිකයෙක් ගැන ද ඔහු විශේෂයෙන් සඳහන් කර තිබුණි.
+He also specifically mentioned a Sri Lankan who helped him to come far.
 
-ඒ අයිවන් තිසේරා නම් කොළඹ බ්ලූම්ෆීල්ඩ් ක්‍රීඩා සමාජයේ හිටපු ක්‍රීඩකයෙකි.
+It is Ivan Tissera is a former player in Bloomfield Sports Club.
 
-"අයිවන් කියන්නේ මගේ පුහුණුකරු. බොහෝ වෙලාවට ඔහු තමයි මට තනි පුහුණු සැසි කළේ. මට මානසිකව සහ තාක්ෂණික ශක්තිය ලබා දුන්නේ ඔහු..."
+"Ivan is my coach. Often he was the one who sees me single training. He gave me mentally and technology energy he ... "
 
-වෙලිංටන් ක්‍රිකට් පාසලේ යොවුන් පුහුණුකරු ලෙස කටයුතු කළ අයිවන් වසර 15කට පසුව 2022 වසරේදී එම තනතුරට සමුදුන්නේය.
+Ivan, who served as a youth trainer of the Wellington cricket school, was soared in 2022 years later.
 
-මෙහි වැදගත් කරුණ වන්නේ බොහෝ ක්‍රිකට් ක්‍රීඩකයින්ට තමන් තරු වූ විට තම කුඩා කාලයේ පුහුණුකරුවන් අමතක වී යන කලක නවසීලන්ත නායකයා සිය පුහුණුකරු ගැන හැමවිටම ඉහළින් කතා කිරීමය.
+What is important
 
 ◼️
 
 [Data](articles/2834b568.json)
+
+[Extended Data](ext_articles/2834b568.ext.json)
 
 ---
 

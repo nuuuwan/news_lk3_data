@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 11:02:36**
+As of **2024-01-30 11:17:15**
 
 ## Newspaper Stats
 
-*Scraped **3,446** Articles*
+*Scraped **3,452** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,73 @@ dailyftlk | 233
 adalk | 313
 virakesarilk | 372
 adaderanasinhalalk | 373
-tamilmirrorlk | 437
+tamilmirrorlk | 440
 adaderanalk | 440
-dailymirrorlk | 464
+dailymirrorlk | 467
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,446 (100.0%) of 3,446 articles have been extended.
+3,446 (99.8%) of 3,452 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### மோனா லிசா ஓவியம் மீது  சூப் வீசிய பெண்கள்
+
+*2024-01-30 10:41:25* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மோனா-லிசா-ஓவியம்-மீது-சூப்-வீசிய-பெண்கள்/50-332327) · `ta`
+
+16-ம் நூற்றாண்டில் ஓவியர் லியோனார்டோ டா வின்சியால் வரையப்பட்ட புகழ்பெற்ற மோனா லிசா ஓவியம் பிரான்ஸின் தலைநகர், பாரிசில் உள்ள லூவ்ரே அருங்காட்சியகத்தில் வைக்கப்பட்டு இருந்தது.
+
+இந்நிலையில், உலக புகழ்பெற்ற மோனா லிசா ஓவியத்தின் மீது பெண் போராட்டக்காரர்கள் சூப்பை ஊற்றியுள்ளனர்.
+
+துப்பாக்கி குண்டுகள் துளைக்காத கண்ணாடிக்கு பின்னால் பத்திரமாக மோனா லிசா ஓவியம் வைக்கப்பட்டு இருப்பதால் இந்த சம்பவத்தால் பாதிப்புகள் எதுவும் ஏற்படவில்லை என அருங்காட்சியகம் தெரிவித்துள்ளது.
+
+இந்த சம்பவம் தொடர்பாக வெளியான வீடியோவில் உணவு அக்கறை என்ற எழுத்துகள் பொறிக்கப்பட்ட ஆடை அணிந்து வந்த இரண்டு பெண்கள் ஓவியத்தின் மீது சூப் ஊற்றியுள்ளனர்.
+
+மேலும், தாக்குதலுக்கு பிறகு ஓவியத்தின் முன் நின்று கொண்டு 'ஆரோக்கியமான மற்றும் நிலையான உணவு' உரிமை வேண்டும் என்றும், நமது விவசாய முறை நோய்வாய்ப்பட்டு விட்டது என்றும் தெரிவித்துள்ளனர். தாக்குதல் நடந்தவுடன் அருங்காட்சியக பொறுப்பாளர்கள் ஓவியத்தை கருப்பு துணி கொண்டு மூடினர்.
+
+...
+
+[Data](articles/b9cfc30d.json)
+
+---
+
+### Yala, Bundala safari jeep fares to be increased from February 1: Association
+
+*2024-01-30 10:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yala-Bundala-safari-jeep-fares-to-be-increased-from-February-1-Association/108-275960) · `en`
+
+Colombo, Jan 30 (Daily Mirror) - The Yala Safari Jeep Association has decided to increase the fare of the Yala and Bundala safari jeeps from February 1, Association President Ajith Priyantha said.
+
+He told the Daily Mirror that all safari jeep fares will be increased by Rs. 2,000 due to an increase in prices of fuel and spare parts after the imposition of the new 18 percent Value Added Tax (VAT).
+
+Accordingly, the fare for a four-hour trip in a Toyota Hilux and Mitsubishi used for safari jeeps has been increased from Rs. 13,000 to Rs. 15,000. The daily fare has been increased from Rs. 28,000 to Rs. 30,000, he said.
+
+The fare of a Mahendra Maxi and Tata vehicle for four hours has been increased from Rs. 11,000 to Rs. 13,000, and the fare of a day trip has been increased from Rs. 26,000 to Rs. 28,000.
+
+...
+
+[Data](articles/0cba4eeb.json)
+
+---
+
+### 9 மதுபான உற்பத்தி நிறுவனங்களுக்கு எச்சரிக்கை
+
+*2024-01-30 10:28:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/9-மதுபான-உற்பத்தி-நிறுவனங்களுக்கு-எச்சரிக்கை/175-332325) · `ta`
+
+வற் வரியை செலுத்தாமல் தொடர்ச்சியாக வரி ஏய்ப்பு செய்யும் ஒன்பது மதுபான உற்பத்தி நிறுவனங்களுக்கு நிலுவைத் தொகையை உடனடியாக வழங்குமாறு அறிவிக்கப்பட்டுள்ளதாக கலால் ஆணையாளர் எம்.ஜே.குணசிறி தெரிவித்துள்ளார்.
+
+மேலும், குறித்த நிறுவனங்களிடமிருந்து ரூ.720 கோடி பெறப்படும் எனவும், இந்த நிலுவைத் தொகையை உடனடியாக வசூலிக்க நடவடிக்கை எடுக்கப்படும் எனவும் தெரிவிக்கப்பட்டுள்ளது.
+
+இதற்கமைய, வரி செலுத்தாத இரண்டு நிறுவனங்கள் மீது ஏற்கனவே வழக்குத் தொடரப்பட்டுள்ளதாகவும்  கலால் திணைக்களம் தெரிவித்துள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/8026a091.json)
+
+---
 
 ### An informed of electricity payments about bill payments
 
@@ -49,6 +103,26 @@ The Ceylon Electricity Board (Ceylon Electricity Board) is informed to refer to 
 [Data](articles/bf1e872f.json)
 
 [Extended Data](ext_articles/bf1e872f.ext.json)
+
+---
+
+### ஆப்கானிஸ்தான் கிரிக்கெட் அணி இலங்கைக்கு
+
+*2024-01-30 10:26:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/பிரதான-விளையாட்டு/ஆப்கானிஸ்தான்-கிரிக்கெட்-அணி-இலங்கைக்கு/44-332324) · `ta`
+
+அதன்படி, இலங்கை மற்றும் ஆப்கானிஸ்தான் அணிகளுக்கு இடையிலான கிரிக்கெட் போட்டி நாளை மறுநாள் (01) ஆரம்பமாகவுள்ளது.
+
+இந்த சுற்றுப்பயணத்தில் அவர்கள் ஒரு டெஸ்ட் போட்டி, 03 ஒரு நாள் போட்டிகள் மற்றும் 03 T20 போட்டிகளில் பங்கேற்க உள்ளனர்.
+
+இந்த டெஸ்ட் போட்டி கொழும்பு SSC மைதானத்தில் நாளை மறுநாள் முதல் நடைபெறவுள்ளதுடன் 03 போட்டிகள் கொண்ட ஒரு நாள் தொடர் எதிர்வரும் பெப்ரவரி 09 ஆம் திகதி ஆரம்பமாகவுள்ளது.
+
+எவ்வாறாயினும், ஒரு நாள் போட்டிகளை கொழும்பில் நடத்துவதற்கு முன்னதாக திட்டமிடப்பட்டிருந்த போதிலும், பின்னர் போட்டிகளை கண்டியில் நடத்த தீர்மானிக்கப்பட்டது.
+
+அத்துடன், சில வருடங்களின் பின்னர் மூன்று T20 போட்டிகளும் தம்புள்ளை மைதானத்தில் நடைபெறவுள்ளன.
+
+◼️
+
+[Data](articles/dee02ca4.json)
 
 ---
 
@@ -160,13 +234,15 @@ Surendra Sekaran is conducting the death toll on the incident and the Vavuniya p
 
 *2024-01-30 09:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96841/health-sector-workers-to-resort-to-another-strike) · `en`
 
-Health sector trade unions have decided to resort to another strike action starting February 01, if the government fails to address their issues.
+Health sector employees’ trade unions have decided to resort to another strike action starting February 01, if the government fails to address their issues.
 
 Although the President had promised to hold talks with them regarding the allowances, soon after returning from his recent official overseas tour, the health workers said they have yet to meet with the Head of State for discussions.
 
-Meanwhile, a series of protests are planned to be staged in front of hospitals in and around Colombo today.
+Meanwhile, a series of protests is planned to be staged in front of hospitals in and around Colombo today.
 
-◼️
+On January 08, the Cabinet of Ministers gave the approval to President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
+
+...
 
 [Data](articles/38c5efd7.json)
 
@@ -191,6 +267,22 @@ Of the 527 persons arrested in these 24 hours, police said that they were involv
 [Data](articles/79856911.json)
 
 [Extended Data](ext_articles/79856911.ext.json)
+
+---
+
+### Indian High Commissioner calls for Tamil parties to have unified stance on political rights
+
+*2024-01-30 09:34:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Indian-High-Commissioner-calls-for-Tamil-parties-to-have-unified-stance-on-political-rights/108-275961) · `en`
+
+Colombo, Jan 30 (Daily Mirror) - New Indian High Commissioner Santosh Jha, in his maiden interaction with the representatives of the mainstream Tamil parties in the north recently, is reported to have emphasized the need for them to have a unified position on their collective demand for a political solution.
+
+However, Tamil National People’s Front (TNPF) led by MP Gajendrakumar Ponnambalam defied it and said his party could not align with other Tamil parties on this matter.
+
+India has been consistent that a solution to what is called ‘Tamil national question’ should be implemented based on the 13th Amendment to the Constitution introduced consequent to the 1987 Indo-Lanka Accord.
+
+...
+
+[Data](articles/cdcae55d.json)
 
 ---
 
@@ -665,6 +757,24 @@ To his dismay, a few days later, Mapalagama discovered that LECO had disconnecte
 [Data](articles/e2491c1a.json)
 
 [Extended Data](ext_articles/e2491c1a.ext.json)
+
+---
+
+### Passenger with fake Italian visa stopped at BIA
+
+*2024-01-30 05:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Passenger-with-fake-Italian-visa-stopped-at-BIA/108-275958) · `en`
+
+Colombo, Jan 30 (Daily Mirror) - The Immigration and Emigration Department yesterday asked the local travelers to be extremely cautious of bogus travel agents who would arrange fake foreign visas or travel documents for exorbitant rates, following such a passenger with a fake Italian visa was intercepted at the airport.
+
+The immigration authorities requested from the public to be watchful when paying large sums of money to agents to get their travel documents done as they could easily be deceived by the fraudsters.
+
+If a traveler is doubtful about the authenticity of their visa or any other travel document they could simply check it with the respective embassy or foreign mission of the country they intend to visit.
+
+The immigration officials at the Bandaranaike International Airport (BIA) departure terminal were tipped off about a suspicious passenger bound for Oman on Sunday morning.
+
+...
+
+[Data](articles/023f2e5d.json)
 
 ---
 
@@ -1857,137 +1967,5 @@ This fact must be remembered when the Catholics in this country vote, ”said La
 [Data](articles/0b1ba8be.json)
 
 [Extended Data](ext_articles/0b1ba8be.ext.json)
-
----
-
-### Former Army Commander Daya Ratnayake joins SJB
-
-*2024-01-29 18:39:00* · [`adaderanalk`](https://www.adaderana.lk/news/96828/former-army-commander-daya-ratnayake-joins-sjb) · `en`
-
-Former Army Commander Gen. (Retd.) Daya Ratnayake has joined the main opposition party, the Samagi Jana Balawegaya (SJB).
-
-The Retired General called on SJB Leader and Opposition Leader Sajith Premadasa on Monday (29 Jan.), and was appointed as a Senior Advisor for Public Policy to the political party.
-
-Having started his military career as a cadet in 1980, General Ratnayake was appointed as the 20th Commander of the Sri Lanka Army on 01 August 2013, and has received several accolades throughout his military career, including the prestigious ‘Rana Wickrama Padakkama’, the ‘Rana Sura Padakkama’, ‘Uttama Seva Padakkama’ and the ‘Desha Putra Sammanaya’.
-
-◼️
-
-[Data](articles/b8a0a002.json)
-
-[Extended Data](ext_articles/b8a0a002.ext.json)
-
----
-
-### The next number will start tomorrow; SJB
-
-*2024-01-29 18:36:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அடுத்த-அரகலய-வை-நாளை-ஆரம்பிப்போம்-SJB/175-332291) · `ta`
-
-SJB General Secretary Ranjith Mathuma Bandara today said that the United People's Power (SJB) will take no restrictions on the road tomorrow and take the first step to topple the current government.
-
-"IGP or anyone else can impose any obstacle but we will bring 50,000 people to Colombo tomorrow," he said at a media briefing.
-
-"SJB was the forerunner of the 2022 uprising. We intend to do the same time this time," Mathuma added.
-
-"We will not publish the news of where we will march now, but we will reveal it at the right time tomorrow," he said.
-
-Former parliamentarian Hirunika Premachandra, who attended the conference, said the protest would be held against the anti -terrorism Bill, the e -mail protection Bill and the tax increase.
-
-"We will reveal where we are going to be around at the right time," he said.
-
-◼️
-
-[Data](articles/2857894d.json)
-
-[Extended Data](ext_articles/2857894d.ext.json)
-
----
-
-### Electricity has been disconnected to 18 cents
-
-*2024-01-29 18:26:42* · [`adalk`](https://www.ada.lk/breaking_news/ශත-18ක-හිඟ-මුදලටත්-විදුලිය-විසන්ධි-කරලා/11-407782) · `si`
-
-A resident of Galvadagoda, Galle, said that the electricity cut off in the house was disconnected due to the non-payment of 18 cents.
-
-The electricity supply of Mrs. Mapalagama has been devised by the LECO (Lanka) Power Company (LECO).
-
-Dissum Mapalagama says that when he prompted 18 cents to pay Rs.. Payment of circular payments has not been paid Rs. 6650.00.. He made this payment on 2023-12-12.
-
-But a few days later, Mr. Mapalagama said that the company had left the house (Ceylon) electric company had been disconnected by the electric company.
-
-It says that as he returned home after he returned home and that the electricity disconnection was left in front of the house and the additional cost of the electricity should be paid Rs.1.1.18.
-
-When he visited LECO's office in Richmond, Galle with all the documents he had paid bills. An officer had said there was no responsible man including electrical engineer. He said that he had not even had the telephone number that had to speak abuse at the spot.
-
-...
-
-[Data](articles/aaab0b60.json)
-
-[Extended Data](ext_articles/aaab0b60.ext.json)
-
----
-
-### Electricity disconnect 18 per cent outstanding
-
-*2024-01-29 18:24:51* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/18-சதம்-நிலுவைக்கு-மின்-இணைப்பு-துண்டிப்பு/175-332290) · `ta`
-
-An incident in the south has taken place due to the lack of 18 percent of the electricity tariff list.
-
-This has been cut off by the house of the house of Visum Mapalakama, a resident of Galle Education.
-
-Electricity Electricity Private Company Limited (LCO) has been cut off at Mabalagama's home.
-
-When he went to the Lego office to build the electricity at Rs.
-
-Rs. 6650 and the remaining 18 per cent was not paid. This fee has been paid on 19-12-2023.
-
-But after a few days, when there was no one in the house, the Electricity Private Company Limited (Leco) staff came home and cut off electricity.
-
-Upon arrival at home a few hours later, it was stated that the power cut had been placed in front of the house, and the additional fee would be paid Rs 1,231 and the 18 percent pending pending.
-
-When he went to the office of the Electricity Private Company Limited (LeCO) office in Galle Richmond Hill with all the documents he paid for this, he received no clear answer.
-
-...
-
-[Data](articles/f2b599e2.json)
-
-[Extended Data](ext_articles/f2b599e2.ext.json)
-
----
-
-### Sri Lankan fishermen rescued by robbers
-
-*2024-01-29 18:23:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொள்ளையர்களால்-கடத்தப்பட்ட-இலங்கை-மீனவர்கள்-மீட்பு/175-332289) · `ta`
-
-Six Sri Lankan fishermen and their boat have been rescued by Somali sea robbers.
-
-The Sri Lankan navy said that they have been rescued on the basis of a united operation by the Seychelles Coast Guard and the Sri Lankan Navy.
-
-Sri Lanka Navy spokesman Captain Gayan Wickramasuriya says three Somali pirates have been arrested by the Seychelles Coast Guard during the operation.. Remble
-
-◼️
-
-[Data](articles/01364836.json)
-
-[Extended Data](ext_articles/01364836.ext.json)
-
----
-
-### A change in the opinion of American high-level authorities
-
-*2024-01-29 18:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192708) · `si`
-
-The United States has focused on delaying the supplying weapons to Israel.
-
-In the request of Israel, the US had previously supplied arms before the attack on the Gaza.
-
-However, it is reported that the American high level authorities have focused on delaying or suspension of arms, including high-arms and weapons demanding Israel.
-
-The United States has decided to open a corridor to the Palestinian assistance to help the Palestinian aid to provide humanitarian aid.
-
-◼️
-
-[Data](articles/db4c7b61.json)
-
-[Extended Data](ext_articles/db4c7b61.ext.json)
 
 ---

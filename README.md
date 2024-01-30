@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 19:02:41**
+As of **2024-01-30 19:17:04**
 
 ## Newspaper Stats
 
-*Scraped **3,590** Articles*
+*Scraped **3,591** Articles*
 
 newspaper | n
 --- | ---:
@@ -20,17 +20,29 @@ virakesarilk | 395
 adaderanasinhalalk | 396
 tamilmirrorlk | 454
 adaderanalk | 459
-dailymirrorlk | 487
+dailymirrorlk | 488
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,590 (100.0%) of 3,590 articles have been extended.
+3,590 (100.0%) of 3,591 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### SJB protest tear-gassed...
+
+*2024-01-30 18:28:00* · [`dailymirrorlk`](https://www.dailymirror.lk/caption-story/SJB-protest-tear-gassed/110-275993) · `en`
+
+Police used water cannons and tear gas to disperse Samagi Jana Bala Wegaya (SJB) protestors near the public library in Colombo. Pix by Pradeep Dilruskshana
+
+◼️
+
+[Data](articles/daf5c4f6.json)
+
+---
 
 ### Sajith national hospital
 
@@ -1965,31 +1977,5 @@ All SJB leaders, together with its allies, are expected to participate in the ra
 [Data](articles/58936420.json)
 
 [Extended Data](ext_articles/58936420.ext.json)
-
----
-
-### Bitton under heavy pressure after Jordan attack
-
-*2024-01-30 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175126) · `ta`
-
-CNN has reported that the United States's retaliation for unmanned air strikes on the US base in Jordan may have never been fierce.
-
-The official said the attack on Iraq could be more intense than the US attack on Syria.
-
-However, the Pentagon and the White House have not yet released their plans, CNN said.
-
-CNN also said that Iranian groups have launched 160 attacks on US bases in Syria in Iraq after the seventh of October to stop the attack on US bases in the Middle East.
-
-CNN said many Republican MPs have requested that Iran be attacked to report the most clear news.
-
-CNN said Joe Bidan was a major challenge to how to respond to the flax and the flames that killed the most US soldiers after the seventh of October.
-
-Most US soldiers have been killed in the current attack after 13 US soldiers were killed in the attack in Abegate when US soldiers left Afghanistan.
-
-◼️
-
-[Data](articles/7c3af846.json)
-
-[Extended Data](ext_articles/7c3af846.ext.json)
 
 ---

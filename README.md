@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 13:32:47**
+As of **2024-01-30 13:51:30**
 
 ## Newspaper Stats
 
-*Scraped **3,493** Articles*
+*Scraped **3,501** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ economynextcom | 188
 islandlk | 196
 newsfirstlk | 211
 dailyftlk | 233
-adalk | 313
+adalk | 321
 virakesarilk | 380
 adaderanasinhalalk | 381
 tamilmirrorlk | 442
@@ -26,21 +26,37 @@ dailymirrorlk | 471
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,491 (99.9%) of 3,493 articles have been extended.
+3,493 (99.8%) of 3,501 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### අපයෝජන සිදුවීමකට පාර්ලිමේන්තු කනිෂ්ඨ සේවකයින් තිදෙනෙක්ට අත්අඩංගුවට
+### පැරෂුට් ක්‍රියාත්මක නොවීමෙන් භටයින් සිවුදෙනෙකුට තුවාල
+
+*2024-01-30 12:57:29* · [`adalk`](https://www.ada.lk/breaking_news/පැරෂුට්-ක්‍රියාත්මක-නොවීමෙන්-භටයින්-සිවුදෙනෙකුට-තුවාල/11-407798) · `si`
+
+76 වැනි නිදහස් සැමරුම වෙනුවෙන් ගාලුමුවදොර පිටියේ පැවැත්වෙන පැරශුට් පෙරහුරුවේදි  පැරශුට්  නිසි පරිදි ක්‍රියාත්මක නොවීම හේතුවෙන් පැරශුට් භටයන් සිවු දෙනෙක් තුවාල ලබා රෝහල් ගත කර තිබේ.
+
+මෙසේ සුළු තුවාල ලබා ඇත්තේ ගුවන් හමුදා පැරශුට් බටයන් දෙදෙනෙකු හා යුද හමුදා පැරෂුට් භටයන් දෙදෙනෙකි.
+
+◼️
+
+[Data](articles/fc300d80.json)
+
+---
+
+### Three parliamentarian arrested for abuse
 
 *2024-01-30 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192737) · `si`
 
-පාර්ලිමේන්තු සේවක මණ්ඩලයේ කනිෂ්ඨ සේවකයින් තිදෙනෙක් පොලිස් කාන්තා හා ළමා කාර්යාංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+The Police Women's and Children's Bureau has been arrested by the Police Women's and Children's Bureau.
 
 ◼️
 
 [Data](articles/12b6c594.json)
+
+[Extended Data](ext_articles/12b6c594.ext.json)
 
 ---
 
@@ -144,17 +160,19 @@ The United National Party (UNP) has said that the United National Party's suppor
 
 ---
 
-### අනපේක්ෂිත ලෙස කොටුවූ පාතාල සාමාජිකයා
+### Unexpected underworld member
 
 *2024-01-30 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192736) · `si`
 
-අද (30) උදෑසන කළුතර ප්‍රදේශයේදී පාතාල සාමාජිකයෙක් ව අත්අඩංගුවට ගැනීමට යුක්තිය මෙහෙයුමේ නිරත පොලිස් නිලධාරීන් කණ්ඩායමක් සමත් විය.
+A police officers conducted a police officers in the area to arrest an underworld in Kalutara this morning.
 
-ඔහු සතුව තිබී T-56 ගිනි අවියක්, මැගසීන් 02ක්, උණ්ඩ 28ක්, වායු රයිෆලයක්, කඩු 07ක්, සහ මෙරට නිෂ්පාදිත අත්බෝම්බ 02ක් හමුවූ බව පොලීසිය පැවසීය.
+Police said he had a T-56 rifle, two magazines, two magazines, 28 bullets, seven grenade, seven grenades of the country.
 
 ◼️
 
 [Data](articles/0b07c625.json)
+
+[Extended Data](ext_articles/0b07c625.ext.json)
 
 ---
 
@@ -718,6 +736,22 @@ It is noteworthy that the famous Mona Lisa painting painted by painter Leonardo 
 
 ---
 
+### මහනුවර පදික වෙළඳුන් ඉවත් කිරීමට සැලසුමක්
+
+*2024-01-30 10:39:17* · [`adalk`](https://www.ada.lk/breaking_news/මහනුවර-පදික-වෙළඳුන්-ඉවත්-කිරීමට-සැලසුමක්/11-407795) · `si`
+
+මහනුවර නගරයේ පදික වෙළදාම් සිදු කරන වෙළෙදුන්ට විකල්ප ස්ථාන හදුනාගෙන ඒ සදහා අවශ්‍ය පියවර ගන්නා ලෙසත් කාල පමාව නිසා ගැටලු රැසක් මේ වන විට පැන නැගි ඇති බවත් ඒ සදහා කඩිනම් විසදුම් සොයන ලෙස මධ්‍යම පළාත් ආණ්ඩුකාර නිතිඥ ලලිත් යු. ගමගේ මහතා අදාළ නිලධාරින්ට 29දා උපදෙස් ලබා දුන්නේය.
+
+ආණ්ඩුකාරවරයා මෙම උපදෙස් ලබා දුන්නේ “මහනුවර නගරයේ අනවසර වෙළදාම් සහ පදික වෙළදාම් පාලනය “පිළීබදව ආණ්ඩුකාර කාර්යාලයේදි පැවති රැස්විමට සහභාගි වෙමිනි.
+
+වැඩිදුරටත් අදහස් දැක්වු ආණ්ඩුකාරවරයා කියා සිටියේ යම් ඉදිකිරිමක් හෝ නිතියට පටහැනිව යම් ක්‍රියාවක් සිදු කරන්නේ නම් ඒ මොහතේම ඒවා නැවැත්විමට කටයුතු කළ යුතු බවත් ඒසේ නොවි පසුව විසදුම් සෙවිමේ දැ ගැටලු රැසක් මතුවන බවය.වෙළද ප්‍රජාවට ද යම් ගැටලු රැසක් ඇති බවත් පවතින ආර්ථික අර්බුද හමුවේ මෙම ප්‍රශ්න සියුම්ව විසදුම් සෙවිය යුතු බවත් කිසිදු පාර්ශ්වකට අගතියක් නොවන පරිදි අදාළ කටයුතු සිදු කිරිම වැදගත් බවය.
+
+...
+
+[Data](articles/797a16e3.json)
+
+---
+
 ### Yala, Bundala safari jeep fares to be increased from February 1: Association
 
 *2024-01-30 10:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Yala-Bundala-safari-jeep-fares-to-be-increased-from-February-1-Association/108-275960) · `en`
@@ -880,6 +914,20 @@ As a result, the unions have decided to carry out protests today in front of hos
 
 ---
 
+### නිදහස් පෙරහුරුව නිසා කොළඹ විශේෂ රථවාහන සැලැස්මක්
+
+*2024-01-30 09:49:00* · [`adalk`](https://www.ada.lk/breaking_news/නිදහස්-පෙරහුරුව-නිසා-කොළඹ-විශේෂ-රථවාහන-සැලැස්මක්/11-407794) · `si`
+
+76 වැනි ජාතික නිදහස් උත්සවයට පෙරාතුව පැවැත්වෙන පෙරහුරු අද (30දා) සිට ආරම්භ කිරීමට නියමිතය. ඒ අනුව අද දිනයේ සිට එළැඹෙන 3 දා තෙක් කොළඹ අවට විශේෂ රථවාහන සැලැස්මක් ක්‍රියාත්මක කරන බව පොලීසිය පවසයි.
+
+මේ අනුව පෙරහුරු සඳහා පෙරවරු 6.00 සිට දහවල් 12.00 දක්වා ත් 03 දා පස්වරු 2.00 සිට 04 දා පැවැත්වෙන නිදහස් උත්සවය අවමන් වන තෙක් ක්‍රියාත්මක රථවාහන සැලැස්ම පහත පරිදි වෙයි.
+
+◼️
+
+[Data](articles/7989e260.json)
+
+---
+
 ### Woman's body recovery in Vavuniya
 
 *2024-01-30 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175112) · `ta`
@@ -1002,6 +1050,20 @@ Moreover, Sri Lanka Police launched an investigation into a 34-year-old man from
 
 ---
 
+### දෙසැම්බරයේ ජනපතිවරණයක් තිබුණේ නම් අනුරට සියයට 50ක්
+
+*2024-01-30 09:33:01* · [`adalk`](https://www.ada.lk/breaking_news/දෙසැම්බරයේ-ජනපතිවරණයක්-තිබුණේ-නම්-අනුරට-සියයට-50ක්/11-407793) · `si`
+
+2023 දෙසැම්බර් මාසයට අදාළව ජනාධිපතිවරණ ඡන්ද අභිප්‍රාය මත ඇස්තමේන්තු අනුව ජාතික ජන බලවේගය/ජනතා විමුකිති පෙරමුණේ නායක අනුර කුමාර දිසානායක මහතාට වැඩිහිටියන්ගෙන් සියයට 50ක ප්‍රතිශතයක් සහායක් ලබමින් ඉදිරියෙන් පසුවෙන බව සෞඛ්‍ය ප්‍රතිපත්ති ආයතනය කළ සමීක්ෂණයක දැක්වෙයි.
+
+මෙම සමීක්ෂණය අනුව විපක්ෂනායක සජිත්‌ ප්‍රේමදාස මහටතට සියයට 33ක්, ජනපති රනිල් වික්‍රමසිංහ මහතාට සියයට 9 හා ශ්‍රී ලංකා පොදුජන ‌පෙරමුණෙන් ඉදිරිපත් කරන අපේක්ෂකයාට සියයට 8ක ප්‍රතිශතාත්මක අගයක් පවතී.
+
+◼️
+
+[Data](articles/efc18303.json)
+
+---
+
 ### Students Siege of Administrative Building of Kelaniya University
 
 *2024-01-30 09:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175109) · `ta`
@@ -1075,6 +1137,20 @@ The students eventually dispersed after tear gas and water cannons were deployed
 [Data](articles/4ad87e28.json)
 
 [Extended Data](ext_articles/4ad87e28.ext.json)
+
+---
+
+### බෙලිඅත්තේ පංච පුද්ගල ඝාතනයට කාන්තාවන් දෙදෙනෙක් අත්අඩංගුවට
+
+*2024-01-30 09:13:22* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්තේ-පංච-පුද්ගල-ඝාතනයට-කාන්තාවන්-දෙදෙනෙක්-අත්අඩංගුවට/11-407792) · `si`
+
+බෙලිඅත්ත පොලිස් වසමේ දක්ෂිණ අධිවේගී මාර්ග පිවිසුම ආසන්නයේ දී පුද්ගලයින් පස්දෙනෙක් වෙඩිතබා ඝාතනය කිරීමේ සිදුවීමට සැකකාරියන් දෙදෙනෙක්  ඊයේ(29)  අත්අඩංගුවට ගෙන ඇති බව පොලීසියෙන් කියයි.
+
+ඊයේ උදෑසන පොලිස් ස්ථානයේ නිලධාරීන් කණ්ඩායමක් රත්ගම ප්‍රදේශයේ සිදුකළ මෙහෙයුමකින් අනතුරුව මෙම කාන්තාවන් දෙදෙනා අත්අඩංගුවට ගෙන ඇත.  අත්අඩංගුවට ගෙන ඇත්තේ අවුරුදු 23ක් හා 33ක් වන බූස්ස ප්‍රදේශයේ පදිංචිකරුවන් බවත්, අපරාධය සිදුකිරීමට යොදාගත් ගිනිඅවි දෙක අපරාධය සිදුකිරීමෙන් පසු මෙම එක් සැකකාරියකට අයත් යතුරුපැදියකින් කරාපිටිය ප්‍රදේශයේ සිට බූස්ස ප්‍රදේශයට ප්‍රවාහනය කර ඇති බවට සිදුකළ විමර්ශනයේ දී අනාවරණය වූ බව පොලීසිය පවසයි.
+
+◼️
+
+[Data](articles/a709c0ff.json)
 
 ---
 
@@ -1929,85 +2005,5 @@ Earlier, police reported that all traffic plying towards Kandy along the Colombo
 [Data](articles/5afe0852.json)
 
 [Extended Data](ext_articles/5afe0852.ext.json)
-
----
-
-### Police protest in Kelaniya water and tear gas
-
-*2024-01-29 23:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192714) · `si`
-
-Police have launched a gas and tear gas to disperse the student protest near the University of Kelaniya.
-
-Due to this protest, the lane towards Kandy was completely blocked in front of the University of Kelaniya.
-
-◼️
-
-[Data](articles/c3fdd011.json)
-
-[Extended Data](ext_articles/c3fdd011.ext.json)
-
----
-
-### Traffic impacts by students' sudden demonstration
-
-*2024-01-29 22:53:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மாணவர்களின்-திடீர்-ஆர்ப்பாட்டத்தால்-போக்குவரத்து-பாதிப்பு/175-332309) · `ta`
-
-The Kandy Street has been banned in front of the University of Kelaniya due to a group of students of the University of Kelaniya.
-
-Due to this, the Kandy road has been completely blocked in front of Kelaniya University of Colombo -Kandy main road.. Remble
-
-◼️
-
-[Data](articles/3bc01f83.json)
-
-[Extended Data](ext_articles/3bc01f83.ext.json)
-
----
-
-### A crisis of confidence
-
-*2024-01-29 22:46:22* · [`dailyftlk`](https://www.ft.lk/columns/A-crisis-of-confidence/4-757888) · `en`
-
-The hills are alive in Davos, with the sounds of failure. Conversations used to be about taking advantage of the global playing field that US presidents and their allies were seeking to build after World War II and after the end of the Cold War. Companies now, and countries themselves, are seeking to understand how to ameliorate the risks of a new, emerging, seemingly chaotic world order.
-
-Yes, it was recently that time of year, as corporate chieftains, policy makers, NGO “warriors”, so-called journalists and self-styled intellectuals went invading the Swiss Alps for the 54th annual meeting of the World Economic Forum. Their anthem was “rebuilding trust.” After devastating trust on so many fronts this was a bold aspiration.
-
-...
-
-[Data](articles/61b7d88a.json)
-
-[Extended Data](ext_articles/61b7d88a.ext.json)
-
----
-
-### Traffic blocked on Colombo–Kandy road due to student protest
-
-*2024-01-29 22:46:00* · [`adaderanalk`](https://www.adaderana.lk/news/96835/traffic-blocked-on-colombokandy-road-due-to-student-protest-) · `en`
-
-Traffic has been blocked along the Colombo – Kandy road, due to a protest staged by a group of students of the Kelaniya University.
-
-According to police, all traffic plying towards Kandy from Colombo has been blocked near the Kelaniya University due to the protest.
-
-◼️
-
-[Data](articles/5d7a0c52.json)
-
-[Extended Data](ext_articles/5d7a0c52.ext.json)
-
----
-
-### Visa Accelerator Program 2024 now open for applications from Fintechs in Sri Lanka
-
-*2024-01-29 22:46:00* · [`islandlk`](http://island.lk/visa-accelerator-program-2024-now-open-for-applications-from-fintechs-in-sri-lanka/) · `en`
-
-The fourth edition of the program invites applications from growth-stage startups to solve payments and commerce challenges of tomorrow
-
-Visa (NYSE: V), the global leader in digital payments, today announced the launch of the fourth edition of Visa Accelerator Program with an open call for applications. The initiative aims to enable startups in Sri Lanka to unlock growth potential by collaborating with Visa’s payments experts. The 2024 edition focuses on new opportunity areas – Artificial Intelligence (AI), Global Money Movement and Loyalty of the Future, with an emphasis on areas like Digital Acceptance for Micro, Small and Medium Businesses (MSMBs) and Embedded Finance.
-
-...
-
-[Data](articles/b7a7ad23.json)
-
-[Extended Data](ext_articles/b7a7ad23.ext.json)
 
 ---

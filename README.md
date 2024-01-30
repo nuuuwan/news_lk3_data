@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 22:50:18**
+As of **2024-01-30 23:02:26**
 
 ## Newspaper Stats
 
-*Scraped **3,626** Articles*
+*Scraped **3,627** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,18 +19,38 @@ adalk | 331
 virakesarilk | 401
 adaderanasinhalalk | 402
 tamilmirrorlk | 459
-adaderanalk | 464
+adaderanalk | 465
 dailymirrorlk | 495
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,626 (100.0%) of 3,626 articles have been extended.
+3,626 (100.0%) of 3,627 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### Pakistani naval ship SAIF docks at Colombo Port
+
+*2024-01-30 22:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96866/pakistani-naval-ship-saif-docks-at-colombo-port) · `en`
+
+The Pakistan Naval Ship (PNS) SAIF arrived at the port of Colombo on a formal visit this morning (Jan.30). The visiting ship was welcomed by the Sri Lanka Navy in compliance with naval traditions.
+
+PNS SAIF is a 123m-long Sword Class Frigate commanded by Captain Muhammad Ali. It is manned by a crew of 276.
+
+The Commanding Officer of the ship is also expected to call on the Commander Western Naval Area.
+
+During the ship’s stay in Colombo, its crew members will visit some of the tourist attractions of the country, Sri Lanka Navy said.
+
+Concluding the visit, PNS SAIF will leave the island on February 01 and conduct a Passage Exercise (PASSEX) with a ship of the Sri Lanka Navy in Colombo seas, on her departure.
+
+◼️
+
+[Data](articles/722b2be0.json)
+
+---
 
 ### Suspended prison sentences for Indian fishermen for poaching in Sri Lanka waters
 
@@ -1999,25 +2019,5 @@ Therefore, the Cabinet has approved the proposal submitted by the Minister of Po
 [Data](articles/0ebd891b.json)
 
 [Extended Data](ext_articles/0ebd891b.ext.json)
-
----
-
-### If you make a request, you will consider politics - Sanath Nishantha's wife
-
-*2024-01-30 13:13:10* · [`adalk`](https://www.ada.lk/breaking_news/ඉල්ලීමක්-කළොත්-දේශපාලනයට-ඒම-ගැන-සලකා-බලනවා---සනත්-නිශාන්තගේ-බිරිඳ-කියයි/11-407799) · `si`
-
-The late Minister of State Minister Sanath Nishantha, the wife of Hon.
-
-The security officer of the security officers of the State Minister Sanath Nishantha was killed in the accident in the Expressway and came to journalists when he was grieving the family.. She is a lawyer from profession.
-
-"Before going to my master's death, some media has been posted before I am coming into politics. None of them heard of me that. I have not made a statement to any media to date I'm coming to politics.
-
-I had not guided the husband's political affairs, but his private secretary had never been able to come to politics. There is no such hope too. But if the people of Puttalam, the people of Puttalam and the leadership of the people of the Puttalam, and the party leadership will have to think about it.
-
-...
-
-[Data](articles/5eebb298.json)
-
-[Extended Data](ext_articles/5eebb298.ext.json)
 
 ---

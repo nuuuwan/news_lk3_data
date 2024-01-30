@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 23:17:02**
+As of **2024-01-30 23:32:55**
 
 ## Newspaper Stats
 
-*Scraped **3,630** Articles*
+*Scraped **3,636** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,43 +16,67 @@ islandlk | 198
 newsfirstlk | 216
 dailyftlk | 233
 adalk | 331
-virakesarilk | 401
 adaderanasinhalalk | 405
+virakesarilk | 405
 tamilmirrorlk | 459
 adaderanalk | 465
-dailymirrorlk | 495
+dailymirrorlk | 497
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,627 (99.9%) of 3,630 articles have been extended.
+3,630 (99.8%) of 3,636 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### කොදෙව් යොවුන් කණ්ඩායමට ජය
+### Wedderburn shines in West Indies U19’s win
 
-*2024-01-30 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192762) · `si`
+*2024-01-30 22:51:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Wedderburn-shines-in-West-Indies-U19s-win/108-276002) · `en`
 
-වයස අවුරුදු 19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි හය දෙනාගේ වටයේ සහභාගී වූ පළමු තරගයේදීම පරාජයේ අමිහිරි අත්දැකීම විඳගන්නට ශ්‍රී ලංකා කණ්ඩායමට සිදුවුණි.
+Jan. 30 (Daily Mirror) - Steve Wedderburn shone in West Indies U19’s three-wicket win against the Sri Lanka U19 in the ICC U19 World Cup Super Sixes encounter played at the Diamond Oval ground in Kimberley, South Africa.
 
-ඒ තියුණු සටනකින් පසුව බටහිර ඉන්දීය කොදෙව් කණ්ඩායම තරගය කඩුලු තුනකින් ජය ගැනීමත් සමගය.
+West Indies U19 helped by Wedderburn though making steady progress in their run chase underwent some anxious moments in the latter stages of the innings and was guided by Nathan Sealy who made an unbeaten 27 and Tarrique Edward who together shared an unbroken 26 runs stand for the eighth wicket to pull off a thrilling win with three balls to spare.
 
-තරගයේ කාසියේ වාසිය දිනා ප්‍රථමයෙන් පන්දුවට පහරදීම සඳහා පිටියට පිවිසි ශ්‍රී ලංකා යොවුන් කණ්ඩායමේ මුල්පෙළ පිතිකරුවන්ට මූලික වටයේ තරග තුනේදී මෙන්ම අද තරගයේදීත් ශ්‍රී ලංකාවට සාර්ථක ආරම්භයක් ලබාදීමට නොහැකිවිය..
-
-මූලික වටයේදී මෙන්ම අදත් ශ්‍රී ලංකා කණ්ඩායමේ ගෞරවය ආරක්ෂා කිරීමට සමත් වූයේ දිනුර කළුපහන ඇතුළු මැදපෙළ පිතිකරුවන් පිරිසය.
-
-දිනුර කළුපහන මෙවර 19න් පහළ ලෝක කුසලාන තරගාවලියේදී වාර්තා කළ තුන්වන අර්ධ ශතකයත් සමගින් පන්දු 83කදී ලකුණු 53ක් රැස්කළේය.
-
-දිනුරට අනගි සහයක් ලබාදුන් මල්ෂ තරුපති පන්දු 38කදී හතරේ පහර 7ක් සමගින් රැස්කරගත් ලකුණු සංඛ්‍යාව 42කි.
-
-ඒ අනුව ශ්‍රී ලංකා යොවුන් කණ්ඩායම නියමිත පන්දුවාර 50දී සියලුදෙනා දැවී ලකුණු 231ක් රැස් කිරීමට සමත්විය.
+The West Indies U19 in their run chase saw openers skipper Stephan Pascal and Steve Wedderburn giving them a sedate start of 48 runs in 49 balls before being separated with the dismissal of skipper Pascal who made 33 in 26 balls with five boundaries and a six.
 
 ...
 
+[Data](articles/8564077d.json)
+
+---
+
+### West Indies tend to win
+
+*2024-01-30 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192762) · `si`
+
+The Sri Lankan team had suffered a bitter experience in the first six World Cup in the Under 19 World Cup.
+
+After that battle, the West Indies won three wickets.
+
+Sri Lanka has not been able to provide a successful start to Sri Lanka in three main round of the Sri Lanka Youth Group's Network Ratings.
+
+The Kaduran batsmen, including Dinura Kaluwana, was able to protect the country's dignity in the preliminary round as well as today.
+
+Dinura Bathoba scored 53 runs off 83 balls with a third half century in 83 balls with a third half century.
+
+Malushikara Thirst was 42 runs in 38 balls with seven fours.
+
+Accordingly, the Sri Lanka Youth Group scored 231 runs for the loss of 231 in 50 overs.
+
+West Indies team scored 149 runs for the loss of 4 wickets.
+
+Sri Lanka bowlers leading to the winter bowlers have scored 3 wickets, but it was not sufficient to win.
+
+Accordingly, West Indies temple passed over 49 overs and scored seven wickets in 3 overs.
+
+◼️
+
 [Data](articles/2a5a6eaa.json)
+
+[Extended Data](ext_articles/2a5a6eaa.ext.json)
 
 ---
 
@@ -78,41 +102,131 @@ Concluding the visit, PNS SAIF will leave the island on February 01 and conduct 
 
 ---
 
-### ප්‍රාදේශීය දේශපාලනඥයෙක් ව ඝාතනය කළ ඉන්දීය ජාතිකයින් පිරිසක් පෝරකය ට
+### உலக விவகாரங்களை அனுகுவதில் முக்கிய பாத்திரமாக உருவெடுத்திருக்கும் சவூதி அரேபியா
+
+*2024-01-30 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175180) · `ta`
+
+2023ஆம் ஆண்டின் தொடக்கத்திலிருந்து அரசியல் சீரமைப்புகளை செய்து, கனிசமான உலகளாவிய உச்சிமாநாடுகள் மற்றும் அதி முக்கிய நிகழ்வுகளுக்கு தலைமை தாங்கி நடாத்தி வருவதிலிருந்து சவூதி அரேபியா உலக அரசியல் அரங்கில் ஒரு முக்கிய இராஜதந்திர கதாப்பாத்திரமாக உருவெடுத்துள்ளமை யாவரும் அறிந்ததே.
+
+சர்வதேச இராஜதந்திர விவகாரங்களில் சவூதி அடைந்துள்ள இந்த குறிப்பிடத்தக்க உயர் நிலையானது சவூதியின் வளர்ந்து வரும் பூகோள அரசியல் செல்வாக்கிற்கு ஒரு சான்றாக இருப்பது மட்டுமல்லாது, அதன் வெளியுறவுக் கொள்கைகள் மற்றும் அணுகுமுறைகளில் புதியதொரு மறுமலர்ச்சியையும் அடையாளம் காட்டியுள்ளது.
+
+கடந்த ஆண்டுகளில் தோன்றிய பிராந்திய மற்றும் சர்வதேச அரசியல், பொருளாதாரம் சார் மற்றும் இதர சிக்கல்களை சீர்செய்யும் நோக்கில் சவூதி அரேபியா அர்ப்பணிப்புடனும் வேகமாகவும் செயற்பட்டு வந்ததோடு, சர்வதேச நெருக்கடிகளை நிர்வகித்தல் மற்றும் பல்வேறு வகையான உலகளாவிய பிரச்சினைகளின் போது பல பேச்சுவார்த்தைகளை தொடங்கி நடாத்துவதிலும் அதன் ஆர்வத்தை வெளிப்படுத்தியமை அரசியலை ஆராயும் எவரும் மறுக்கமுடியாத நிதர்சன உண்மையாக இருக்கிறது.
+
+...
+
+[Data](articles/0f4665ba.json)
+
+---
+
+### பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்ட ஒரு தலைவருக்கு ஆதரவளிப்பது அனைவரினதும் கடமையும் பொறுப்புமாகும் - பிரசன்ன ரணதுங்க
+
+*2024-01-30 22:33:00* · [`virakesarilk`](https://www.virakesari.lk/article/175181) · `ta`
+
+பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்ட ஒரு தலைவருக்கு எதிர்வரும் ஜனாதிபதித் தேர்தலில் ஆதரவளிப்பது அனைவரினதும் கடமையும் பொறுப்பும் என நகர அபிவிருத்தி மற்றும் வீடமைப்பு அமைச்சர் பிரசன்ன ரணதுங்க வலியுறுத்துகின்றார்.
+
+இது தொடர்பில் ஸ்ரீலங்கா பொதுஜன பெரமுன விரைவில் இறுதித் தீர்மானத்திற்கு வரும் என அவர் சுட்டிக்காட்டியுள்ளார்.
+
+பொருளாதார நெருக்கடியில் இருந்து நாட்டை மீட்டெடுத்த தலைவருடன் தொடர்ந்து செல்வதா அல்லது கட்சியில் இருந்து வேறு வேட்பாளரை முன்வைப்பதா என்பதை மொட்டுக் கட்சி எதிர்காலத்தில் தீர்மானிக்கும் எனவும் அந்த முடிவின் மூலம் மொட்டுவில் உள்ள பலரும் கட்சியின் செயற்பாடுகளை அவர்களின் தனிப்பட்ட கருத்துப்படி முன்னெடுப்பதா இல்லையா என தீர்மானிப்பார்கள் எனவும் அமைச்சர் சுட்டிக்காட்டியுள்ளார்.
+
+மினுவாங்கொடை உள்ளூராட்சி சபைக்குட்பட்ட 2000 பாடசாலை மாணவர்களுக்கு செவ்வாய்க்கிழமை (30) பிரதேச சபை நிதியில் இருந்து பாடசாலை புத்தகங்கள் வழங்கும் வைபவத்தில் கலந்து கொண்டு அதன் பின்னர் ஊடகவியலாளர்கள் எழுப்பிய கேள்விகளுக்கு பதிலளிக்கும் போதே அமைச்சர் மேற்கண்டவாறு தெரிவித்தார்.
+
+...
+
+[Data](articles/d9400dcb.json)
+
+---
+
+### சர்வதேச ரீதியாக செயற்படுதல் காலத்தின் கட்டாயமாகும் - செந்தில் தொண்டமான்
+
+*2024-01-30 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175183) · `ta`
+
+ஆசியாவின் மிகப்பழமை வாய்ந்த தொழிற்சங்கம் என போற்றப்படும் இலங்கை தொழிலாளர் காங்கரஸின் தலைவர் , கிழக்கு மாகாண ஆளுநர்  என்ற அடைமொழிகளோடு வலம் வரும் செந்தில் தொண்டமானின் அண்மைக்கால நகர்வுகள் அவரை சர்வதேச மட்டத்தில் பேச வைத்துள்ளன. கிழக்கு மாகாணத்தில் அவர்  நடத்திய காட்டிய பிரமாண்டமான பொங்கல் விழா, தமிழக மற்றும் வெளிநாடுகளில் இடம்பெறும் நிகழ்வுகளுக்காக சிறப்பு அதிதியாக அழைக்கப்படல், தமிழகத்தில் அகதிகளாக வாழ்ந்து வரும் வடக்கு கிழக்கு மக்களுக்கு இலங்கை அரசாங்கத்துடன் இணைந்து கடவுச்சீட்டுக்களைப் பெற்றுக்கொடுத்தமை, மலையக மக்களின் இருநூறு வருட பூர்த்தியை முன்னிட்டு டெல்லியில் இடம்பெற்ற முத்திரை வெளியீட்டில் கலந்து கொண்டமை,  போன்ற விடயங்களைக் கூறலாம்.
+
+மலையக சமூகம் தேசிய நீரோட்டத்தில் இணைத்துக்கொள்ளப்பட தேசிய மட்டத்தில் பேசப்படும், செயலாற்றும்  ஒரு தலைவர் தேவை என்ற கடந்த கால கோரிக்கைகளுக்கு வழிசமைக்குமுகமாக தலைமைத்துவ பண்புகளுடனும் துடிப்புடனும் வலம் வரும் அவருடனான நேர்காணல் இங்கு தரப்படுகின்றது.
+
+கேள்வி:  தமிழ் உலகம் திரும்பிப்பார்க்க வைத்த  கிழக்கில் இடம்பெற்ற பிரமாண்ட பொங்கல் விழாவைப்பற்றி?
+
+...
+
+[Data](articles/39adf9df.json)
+
+---
+
+### தாய் மொழியில் கற்கும் உரிமை மறுக்கப்படும் கம்பஹா மாவட்ட தமிழ் மாணவர் சமூகம்
+
+*2024-01-30 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175182) · `ta`
+
+1948ஆம் ஆண்டு அனைத்துலக மனித உரிமை பிரகடனத்தில் அனைவருக்கும் தாய் மொழியில் கற்கும் உரிமை இருப்பதாகவே தெரிவிக்கப்பட்டுள்ளது. ஆனால் இதற்கு விதிவிலக்காக இலங்கையின் சில...
+
+◼️
+
+[Data](articles/cde71fa1.json)
+
+---
+
+### Govt. aiming to provide 100,000 additional foreign jobs this year: State Minister
+
+*2024-01-30 22:20:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Govt-aiming-to-provide-100-000-additional-foreign-jobs-this-year-State-Minister/108-275999) · `en`
+
+Colombo, Jan. 30 (Daily Mirror)- Enhancing the access to foreign jobs and cater to a wider range of opportunities, the government was aiming to provide 100,000 additional foreign jobs for Sri Lankan citizens this year, State Minister of Social Empowerment Anupa Pasqual said today.
+
+He said during a press briefing held at the Presidential Media Centre (PMC) on the theme 'Collective Path to a Stable Country' today that recognizing the potential of international opportunities, plans were afoot to send 10,000 individuals proficient in Japanese to secure jobs abroad.
+
+This initiative leverages existing language skills to open doors to lucrative employment options in a new market.
+
+"This ambitious target underscores the commitment to investing in skills development and training programmes, ensuring Sri Lanka's workforce is prepared for the demands of the global market," the State Minister explained.
+
+...
+
+[Data](articles/5d8f33a1.json)
+
+---
+
+### A group of Indian nationals killed in a local politician
 
 *2024-01-30 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192761) · `si`
 
-2021 වසරේදී ඉන්දියාවේ කේරළ ප්‍රාන්තයේදී ප්‍රාදේශීය දේශපාලනඥයෙක් ඝාතනය කළ බවට චෝදනා එල්ලවූ 15 දෙනෙකුට මරණීය දණ්ඩනය නියම කිරීමට එහි අධිකරණයක් අද (30) තීන්දු කළේය.
+In 2021, a court corrected a court that 15 persons were sentenced to death in Kerala state.
 
-ඉන්දීය මාධ්‍ය වාර්තා සඳහන් කළේ පාලක භාරතීය ජනතා පක්ෂයේ ප්‍රාදේශීය නායකයෙක් ඝාතනය කළ බවට එම පුද්ගලයින් වැරදිකරුවන් වී ඇති බවයි.
+Indian media reports said that the people were guilty of killing a local leader of the Bharatiya Janata Party.
 
-රංජිත් ශ්‍රීනිවාසන් නම් එම ප්‍රාදේශීය නායකයාව ඔහුගේ මව, බිරිඳ සහ දියණිය බලා සිටියදී කපාකොටා ඝාතනය කර තිබුණි.
+The local leader was killed while his mother, wife and daughter was aimed at his mother, wife and daughter.
 
-"Popular Front of India" නම් මුස්ලිම් කණ්ඩායමක සාමාජිකයන් විසින් පළි ගැනීමක් ලෙස  ශ්‍රීනිවාසන් ව මරා දමා තිබූ බව මාධ්‍ය වාර්තාවල දැක්වෙයි.
+According to press reports, Sri Lanka had been killed as a reputation of a Muslim group named "Popular Front of India".
 
-ආන්දෝලනාත්මක පිරිසක් ලෙස සැලකෙන එම කණ්ඩායම 2022දී ඉන්දීය බලධාරීන් විසින් තහනම් කළේය.
+The team was considered a controversial group in 2022 by Indian authorities.
 
 ◼️
 
 [Data](articles/f7e694ce.json)
 
+[Extended Data](ext_articles/f7e694ce.ext.json)
+
 ---
 
-### රාජ්‍ය පරිපාලන අමාත්‍යාංශයේ රැකියා පෙන්නා මුදල් ගැරූ ධම්මික අත්අඩංගුවට
+### Dhammika arrested by the Ministry of Public Administration
 
 *2024-01-30 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192760) · `si`
 
-රාජ්‍ය පරිපාලන අමාත්‍යාංශයේ රැකියා ලබාදෙන බව පවසා රැකියා අපේක්ෂිත පුද්ගලයන් 14 දෙනෙකුගෙන් රුපියල් ලක්ෂ 42ක් වංචා සහගතව ලබාගෙන සාවද්‍ය ලෙස පරිහරණය කරන ලදැයි කියන සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවකු පෙබරවාරි මස 13 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා අද (30) නියෝග කළේය.
+Colombo Chief Magistrate Prasanna Alwis today (30) ordered to be remanded by the Secretary to the Ministry of Public Administration.Did.
 
-අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන සිටි ගනේමුල්ල ප්‍රදේශයේ පදිංචි හසිත ධම්මික නමැති පුද්ගලයකු එසේ රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+A man named Hasitha Dhammika, who was arrested by the Criminal Investigation Department, has been remanded.
 
-රාජ්‍ය පරිපාලන අමාත්‍යාංශයේ රැකියා ලබාදෙන බව පවසා මොහු රැකියා අපේක්ෂිත පුද්ගලයන් 14 දෙනෙකුට ලිපි යවා ඇත්තේ එම අමාත්‍යාංශයේ ලිපි ශීර්ෂ ව්‍යාජ ලෙස සකස් කරමින් බවද CID ය අධිකරණයට දැන්වීය.
+He had sent letters to 14 job heads for 14 job heads from the Ministry of Public Administration and the CID.
 
-2021 වසරේ දෙසැම්බර් මාසයේදී මොහු එම ලිපි යවා ඇති බවත් අදාළ රැකියා අපේක්ෂකයින් එම ලිපි රැගෙන එම අමාත්‍යාංශය වෙත ගිය අවස්ථාවේදී වංචාව හෙළිව ඇති බවද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණය හමුවේ පැවසීය.
+The Criminal Investigations Department (CID) Rajapaksa said that the fraud was revealed when he had been sent letters and had taken the letters to the Ministry in December 2021.
 
-...
+The suspect was arrested following a complaint with the Secretary to the Ministry of Criminal Investigation Department.
+
+The suspect had taken money from employment candidates across the job candidates through a person.
+
+The Department further stated that the statement from the person and will further investigate the incident.
+
+◼️
 
 [Data](articles/0013c115.json)
+
+[Extended Data](ext_articles/0013c115.ext.json)
 
 ---
 
@@ -1901,123 +2015,5 @@ The company was able to use the technical experiment with the permission of peop
 [Data](articles/0765e432.json)
 
 [Extended Data](ext_articles/0765e432.ext.json)
-
----
-
-### Another court order against education
-
-*2024-01-30 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192738) · `si`
-
-The Aduldandanda Magistrate's Court has issued an order for the public rally of the existing proposal today (30).
-
-Accordingly, Deans Road, TB to attend the rally. Including several areas including Jayya Mawatha, Technical Junction is prohibited.
-
-The respondents are designated as the respondents, leader of the prospect of honor, 16 and 16 participants participating in the protest.
-
-However, the protesters do not obtain their views to use their vibrans to use their vibrans and have not been able to secure their opinions and protest in the flour.Adaplakanda Magistrate Luchanika Abeywickrama Weerasinghe has been ordered.
-
-◼️
-
-[Data](articles/c32d0bbb.json)
-
-[Extended Data](ext_articles/c32d0bbb.ext.json)
-
----
-
-### SJB’s planned rally slapped with yet another court order
-
-*2024-01-30 13:26:00* · [`adaderanalk`](https://www.adaderana.lk/news/96850/sjbs-planned-rally-slapped-with-yet-another-court-order) · `en`
-
-The anti-government protest march organized by the Samagi Jana Balawegaya (SJB) to be staged in Colombo this afternoon has been slapped with yet another court order.
-
-This is the third court order imposed on the main opposition’s planned rally.
-
-It was delivered by Maligakanda Maligakanda Magistrate’s Court against 16 SJB members including Opposition Leader Sajith Premadasa, MP Ranjith Madduma Bandara, MP S.M. Marikkar, MP Kabir Hashim, former MP Mujibur Rahman, MP Harshana Rajakaruna, MP Sarath Fonseka, MP Tissa Attanayake, MP Lakshman Kiriella, MP Hesha Vithanage, MP Kavinda Jayawardena, former MP Hirunika Premachandra and around 500 supporters, after taking into account a request made by the OIC of Maradana Police.
-
-The protesters are barred from causing inconveniences to motorists and pedestrians travelling along Dean’s Road, Lipton Roundabout, Maradana Junction, T.B. Jayah Mawatha, Olcott Mawatha, the Technical Junction and other areas in Colombo this evening.
-
-...
-
-[Data](articles/919e4ae0.json)
-
-[Extended Data](ext_articles/919e4ae0.ext.json)
-
----
-
-### Adult detection
-
-*2024-01-30 13:26:00* · [`virakesarilk`](https://www.virakesari.lk/article/175129) · `ta`
-
-Professor Sameera R Samarakoon, a scientist at the Biology, Molecular Biology and Biology Technology Institute of Colombo University, said the drug was made with natural ingredients.
-
-After long -term research, the professor said that the drug product is in the final stage.
-
-In addition, the Professor pointed out that the Ayurvedic Department should be obtained from the Ayurvedic Department as the drug has been prepared according to a traditional method.
-
-◼️
-
-[Data](articles/de2a8f59.json)
-
-[Extended Data](ext_articles/de2a8f59.ext.json)
-
----
-
-### Imran Khan sentenced to 10 years in jail for leaking state secrets
-
-*2024-01-30 13:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/imran-khan-sentenced-to-10-years-in-jail-for-leaking-state-secrets/) · `en`
-
-Colombo (News 1st) – A Pakistani court handed former Prime Minister Imran Khan a 10-year jail term on Tuesday (30th) for leaking state secrets, Pakistani media reported.
-
-It is his second conviction in recent months and comes just 10 days before the country's general election. Former foreign minister Shah Mehmood Qureshi was also sentenced to 10 years.
-
-The case pertains to allegations that Khan had made public the contents of a secret cable sent by the country's ambassador in Washington to the government in Islamabad.
-
-Khan was previously sentenced to three years in a corruption case. While his jail term was suspended as he challenged the corruption conviction, it has already ruled him out of the country's general elections which are scheduled for next week.
-
-Khan has been fighting dozens of cases since he was ousted from power in a parliamentary vote of no confidence in 2022.
-
-PD Sirisena Grounds, Hyde Park Open for Protests as Court Blocks SJB from Entering Certain Roads
-
-...
-
-[Data](articles/24aa7fd7.json)
-
-[Extended Data](ext_articles/24aa7fd7.ext.json)
-
----
-
-### Independence Day Rehearsal: 4 Parasood soldiers injured: Two people fell on phase!
-
-*2024-01-30 13:24:00* · [`virakesarilk`](https://www.virakesari.lk/article/175135) · `ta`
-
-During the Independence Day rehearsal in the Galle Face, 4 Parasood soldiers fell down and were injured.
-
-Two Parasood players fell down and were injured and two more fell on the building.
-
-Military Speaker Major General KAN. Fan Kumara said in this regard,
-
-He said that the wounded soldiers were admitted to the hospital, and the two players were from the Sri Lanka Air Force and the other two were from the Sri Lankan army.
-
-◼️
-
-[Data](articles/cf86875a.json)
-
-[Extended Data](ext_articles/cf86875a.ext.json)
-
----
-
-### Two women abuse: three parliamentary staff arrested
-
-*2024-01-30 13:20:00* · [`virakesarilk`](https://www.virakesari.lk/article/175146) · `ta`
-
-Three of the junior workers who have been obligated in Parliament have been arrested by the Police Women and Children's Bureau on Tuesday (30).
-
-They have been arrested on charges of abusing two female employees.
-
-◼️
-
-[Data](articles/8bf13980.json)
-
-[Extended Data](ext_articles/8bf13980.ext.json)
 
 ---

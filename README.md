@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 05:55:17**
+As of **2024-01-30 06:16:21**
 
 ## Newspaper Stats
 
-*Scraped **3,395** Articles*
+*Scraped **3,396** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 233
 adalk | 312
 adaderanasinhalalk | 360
 virakesarilk | 368
-tamilmirrorlk | 424
+tamilmirrorlk | 425
 adaderanalk | 435
 dailymirrorlk | 461
 
@@ -26,11 +26,33 @@ dailymirrorlk | 461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,395 (100.0%) of 3,395 articles have been extended.
+3,395 (100.0%) of 3,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### ’பகிடிவதைக்கு 12 ஆண்டுகள் சிறைத் தண்டனை’
+
+*2024-01-30 04:21:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடிவதைக்கு-12-ஆண்டுகள்-சிறைத்-தண்டனை/175-332310) · `ta`
+
+பகிடிவதைகள் தொடர்பான குற்றங்கள் நிரூபிக்கப்பட்டால், சந்தேகநபர் ஒருவருக்கு சுமார் 12 ஆண்டுகள் வரை சிறைத் தண்டனை வழங்குவதற்கான சட்ட ஏற்பாடுகள் உள்ளன என்று  உயர்கல்வி இராஜாங்க அமைச்சர் சுரேன் ராகவன் தெரிவித்துள்ளார்.
+
+அரசாங்க தகவல் திணைக்களத்தில் நேற்று இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கும்போதே அவர் இவ்வாறு குறிப்பிட்டுள்ளார்.
+
+" பல்கலைக்கழகங்களுக்கு உள்வாங்கப்படும் புதிய மாணவர்களை இலக்கு வைத்து புரியப்படும் பகிடிவதைகள் தொடர்பில் சட்டரீதியான கவனம் செலுத்தப்படும்.
+
+கடந்த வருடத்தில் கிடைக்கப்பெற்ற 80 இற்கும் மேற்பட்ட  முறைப்பாடுகள் பகிடிவதையுடன் தொடர்புடையனவாக கருத முடியாது.
+
+அதேநேரம், பகிடிவதை தொடர்பான முறைப்பாடுகளுக்கு சுமார் 12 ஆண்டுகள் வரை சிறைத் தண்டனை வழங்கப்படக்கூடிய வாய்ப்புகள் உள்ளன.
+
+எனவே, பல்கலைக்கழக மாணவர்கள் தமக்கு வழங்கப்பட்டுள்ள சுதந்திரத்தை உரிய வகையில் பயன்படுத்த வேண்டும் என்பதுடன் எதிர்கால நலனை சிந்தித்து செயற்பட வேண்டும்." - என்றார்.  (a)
+
+◼️
+
+[Data](articles/181d863e.json)
+
+---
 
 ### SJB not prepared to form national Govt. – Mujibur
 
@@ -1975,27 +1997,5 @@ The police said that the suspect, the suspect in the case of money laundering in
 [Data](articles/c51977fe.json)
 
 [Extended Data](ext_articles/c51977fe.ext.json)
-
----
-
-### 2024 Filmfair Awards Night
-
-*2024-01-29 14:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192702) · `si`
-
-The 69th Filmfair Awards ceremony was held at Gujarat at India last night.
-
-The awards were presented in the 2023 year and winning the main role of Messi, Vinwodha Fale, the '12th FAIL' (12th FAD) is the film.
-
-Vidya Vinu Vinadhad Chopra, directed by the film, was the best direction of the best.
-
-The best performer at the Film Festival won Ranbir Karuror for the "Animble" film.
-
-This year's awards winning awards winning awards winning "Rocky Or Kamani Prem 'won the act of' Kamani '.
-
-◼️
-
-[Data](articles/855a2ee0.json)
-
-[Extended Data](ext_articles/855a2ee0.ext.json)
 
 ---

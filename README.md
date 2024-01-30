@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 11:51:50**
+As of **2024-01-30 12:02:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 467
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,456 (99.9%) of 3,459 articles have been extended.
+3,459 (100.0%) of 3,459 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -46,6 +46,8 @@ Issuing a statement, the CEB urged consumers to dial the ‘1987’ CEB hotline 
 
 [Data](articles/ba168a87.json)
 
+[Extended Data](ext_articles/ba168a87.ext.json)
+
 ---
 
 ### Anti-Terrorism Bill: Petition hearing enters day three
@@ -63,6 +65,8 @@ Among the petitioners are His Eminence Malcolm Cardinal Ranjith, General Secreta
 ...
 
 [Data](articles/0afabcee.json)
+
+[Extended Data](ext_articles/0afabcee.ext.json)
 
 ---
 
@@ -83,6 +87,8 @@ All SJB leaders, together with its allies, are expected to participate in the ra
 ◼️
 
 [Data](articles/58936420.json)
+
+[Extended Data](ext_articles/58936420.ext.json)
 
 ---
 

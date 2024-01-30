@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 22:17:09**
+As of **2024-01-30 22:32:49**
 
 ## Newspaper Stats
 
-*Scraped **3,623** Articles*
+*Scraped **3,624** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 198
 newsfirstlk | 216
 dailyftlk | 233
 adalk | 331
-adaderanasinhalalk | 401
 virakesarilk | 401
+adaderanasinhalalk | 402
 tamilmirrorlk | 459
 adaderanalk | 464
 dailymirrorlk | 493
@@ -26,53 +26,77 @@ dailymirrorlk | 493
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,618 (99.9%) of 3,623 articles have been extended.
+3,623 (100.0%) of 3,624 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### මූල්‍ය වංචාවට ඇල්ලූ යුවළ ගැන තවත් තොරතුරු
+### වැට් අඩුකරන්නැයි ඉල්ලුවාට වැඩක් නෑ - බන්දුල
+
+*2024-01-30 21:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192759) · `si`
+
+වැට් බදු අඩුකරන ලෙස බලකරමින් පාරේ විරෝධතා පැවැත්වීම නිෂ්ඵල ක්‍රියාවක් බවත්, විරෝධය දක්වන කණ්ඩායම් එසේ නොකොට සුදුසු වෙනත් විකල්ප ඉදිරිපත් කළ යුතු බවත් කැබිනට් මාධ්‍ය ප්‍රකාශක අමාත්‍ය බන්දුල ගුණවර්ධන මහතා පෙන්වා දෙයි.
+
+අද කැබිනට් තීරණ දැනුම්දීමේ ප්‍රවෘත්ති සාකච්ඡාවේදී අමාත්‍යවරයා පැවසුවේ ජනතාවගෙන් අයකරන බදු යොදාගන්නේ රාජ්‍ය සේවක වැටුප් ඇතුළු අත්‍යවශ්‍ය දීමනා සහ වියදම් පියවාගැනීම සඳහා පමණක් බවය.
+
+එහිදී වැඩිදුරටත් අදහස් දැක්වූ කැබිනට් මාධ්‍ය ප්‍රකාශක අමාත්‍ය ආචාර්ය බන්දුල ගුණවර්ධන,
+
+"වැට් අඩු කරලා වැටුප් නැතුව ජීවත්වෙන්න පුළුවන්ද? විශ්‍රාම වැටුප් නැතුව ජීවත්වෙන්න පුළුවන්ද? සමෘද්ධි,අස්වැසුම නැතුව ජීවත්වෙන්න පුළුවන්ද? ගත්ත ණය පොලී ගෙවන්නේ නැතුව ඉන්න පුළුවන්ද? ගතවූ වර්ෂයේ භාණ්ඩාගාරයට ලැබුණේ ට්‍රිලියන තුනයි ට්‍රිලියන 13ක් වියදම් කරලා තියෙනවා එතකොට ට්‍රිලියන 10ක් හොයාගෙන තියෙන්නේ ණයට රුපියල් 5000 ගාණේ අවුරුදු 100ක් ඉතිරි කළොත් ඉතුරු කරන්න පුළුවන් මිලියන හයයි බිලියනයක් ඉතුරු කරන්න අවුරුදු දහසය දාහක් ගතවනවා ට්‍රිලියන 10ක් ණයට ගත්තා කිව්වම අර්බුදය ගැන හිතාගන්න"
+
+◼️
+
+[Data](articles/49b05d68.json)
+
+---
+
+### More information about couple who took to financial fraud
 
 *2024-01-30 21:51:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192758) · `si`
 
-ගලෙන්බිඳුණුවැව ප්‍රදේශයේ පිරමිඩාකාර මූල්‍ය ආයතනයක් පවත්වාගෙන යමින් රුපියල් කෝටි 500කට අධික මුදලක් වංචාකළ සැකකාර යුවළ පිළිබඳව පොලිසිය තවත් කරුණු රැසක් අනාවරණය කරගෙන තිබේ.
+Police have also revealed several other facts about the suspect, who was released on a pyramid financial institution in Galenbindunuwewa.
 
-නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයේ ජාලගත වංචා විමර්ශන ඒකකය පැවසුවේ, 2021 වසරේදී  දකුණු පළාතේ ප්‍රධාන විහාරස්ථානයක බස්නායක නිලමේ ධුරයක් අදාළ සැකකරුට ලබාදී ඇත්තේ විහාරාධිපති හිමි සමග පැවති පෞද්ගලික හිතවත්කමක් මත බවට අනාවරණවූ බවය.
+The Illegal Asset Investigation Division said that the JVP was given a bus to the suspect in a major temple in the Southern Province in the Southern Province in 2021.
 
-නාරාහේන්පිට ඉඩමක ඔප්පුවක් සම්බන්ධයෙන් පැවති ආරවුලක් නිරවුල් කරගැනීම සඳහා 2021 වසරේදී අදාළ සැකකරු එම හිමිනමට රුපියල් ලක්ෂ 160ක් ලබා දී තිබේ.
+The suspect has been given Rs.
 
-ප්‍රබල දේශපාලනඥයෙකු සමග සබඳතා ඇති එම හිමිනම අදාළ ඉඩම විකිණීමට කටයුතු කරන බව සැකකරුට පවසා ඇති අතර, ඔහුට යළි ලබාදී ඇත්තේ රුපියල් ලක්ෂ 80ක් පමණි.
+The suspect has told the suspect that the land is being sold with a strong politician, and only Rs.
 
-අදාළ හිඟ මුදලට හිලව්වන ලෙස එම විහාරස්ථානයේ බස්නායක නිලමේ ධුරය සැකකරුට පිරිනැමීමට හිමිනම කටයුතු කර ඇති බවටද විමර්ශනවලදී කරුණු අනාවරණවී තිබේ.
+Investigations have revealed that the monk had taken measures to be presented to the suspect in the temple to the suspect in the temple.
 
 ◼️
 
 [Data](articles/17687b23.json)
 
+[Extended Data](ext_articles/17687b23.ext.json)
+
 ---
 
-### රටම කැලඹුණු පැරෂුට් අනතුරට හේතුව එළියට
+### The cause of the most turbulent parachute crash is out
 
 *2024-01-30 21:33:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192757) · `si`
 
-76 වැනි නිදහස් සමරුවේ පැරෂුට් සංදර්ශනයේ පෙරහුරුවට එක්ව සිටියදී පැරෂුට් භටයන් සිව්දෙනෙකු අනතුරට ලක්ව ඇති හේතුව අනපේක්ෂිත සුළං ප්‍රවාහයක් බව ආරක්ෂක අමාත්‍යාංශය පවසයි.
+The Ministry of Defense states that four parachute troops were killed in the parachute shot of the 76th Independence Day.
 
-ආරක්ෂක අමාත්‍යාංශයේ මාධ්‍ය අධ්‍යක්ෂක හා මාධ්‍ය ප්‍රකාශක කර්නල් නලින් හේරත් මහතා මේ බව පවසයි.
+Defense Director, Media Director and Colonel Nalin Herath said this.
 
-මෙම අනපේක්ෂිත අනතුරට මුහුණදුන් ගුවන් හමුදා භටයන් වන්නේ සැරයන් MDSS වීරියගල්ල සහ සැරයන් RHPK හේමසිංහ දෙදෙනාය.
+Air Force troops are the two Sergeant MDSS Stagalla and Sergeant RHPK Hemasinghe.
 
-එහිදි සැරයන් MDSS වීරියගල්ල නිලධාරීයා පැරෂුට් පැනීම් 531ක් ද සැරයන්  RHPK හේමසිංහ නිලධාරියා පැරෂුට් පැනිම් 370ක් සිදුකර ඇති බවයි ගුවන් හමුදාව ප්‍රකාශ කරයි.
+The Air Force states that Sergeant MDSS Street has committed 531 parachute jumps and 370 parachute seats.
 
-මේජර් ධම්මික රත්නපාල සහ මාණ්ඩලික සැරයන් එල්.ආර්.එන්. බණ්ඩාර යන භටයින් ශ්‍රී ලංකා යුද්ධ හමුදා විශේෂ බලකා සාමාජිකයින්ය.
+Major Dhammika Ratnapala and Staff Sergeant LRG. Bandaraists are the Sri Lanka Army Special Forces Members.
 
-එහිදි මේජර් ධම්මික රත්නපාල නිලධාරීයා පැරෂුට් පැනීම් 126ක්ද ක සැරයන් එල්.ආර්.එන්. බණ්ඩාර නිලධාරීයා පැරෂුට් පැනිම් 298ක් සිදුකර ඇති බවයි යුද හමුදාව ප්‍රකාශ කරයි.
+Major Dhammika Ratnapala's official of the 126 parachute jumps are breen. The Army says that 298 Parachute seats have been conducted.
 
-ගුවන් හමුදා සාමාජිකයින් දෙදෙනාගේ පැරෂුට් උඩු ගුවනේදී එකිනෙක පැටලී ඔවුන් දෙදෙනා ඇදවැටෙන්නේ කොළඹ ෂැංග්‍රිලා හෝටලයේ වහල මහත පිහිටි වායුසමීකරණ පද්ධතිය මතටය.
+The two Air Force members have stumbled on each other in the upstairs of the Parachuts of the Colombo.
+
+It is reported that the parachute of one of the soldiers who have been injured in the military cards have been admitted to another parachute, and he was able to adjust 300 feet [300 feet).
 
 ...
 
 [Data](articles/0f5ce0b1.json)
+
+[Extended Data](ext_articles/0f5ce0b1.ext.json)
 
 ---
 
@@ -85,6 +109,8 @@ Chief of Defence Staff General Shavendra Silva visited the National Hospital and
 ◼️
 
 [Data](articles/0391bdc4.json)
+
+[Extended Data](ext_articles/0391bdc4.ext.json)
 
 ---
 
@@ -119,6 +145,8 @@ Perhaps that would have been one of the reasons why he didn’t have a spin twin
 ...
 
 [Data](articles/8302d562.json)
+
+[Extended Data](ext_articles/8302d562.ext.json)
 
 ---
 
@@ -177,6 +205,8 @@ The letter, which addresses crucial matters pertaining to the establishment of p
 ...
 
 [Data](articles/9f52e458.json)
+
+[Extended Data](ext_articles/9f52e458.ext.json)
 
 ---
 
@@ -1987,21 +2017,5 @@ He said this when he went to the residence of Anuradha Jayakody, the security of
 [Data](articles/3691d8a1.json)
 
 [Extended Data](ext_articles/3691d8a1.ext.json)
-
----
-
-### Four persons injured without taking Parachute
-
-*2024-01-30 12:57:29* · [`adalk`](https://www.ada.lk/breaking_news/පැරෂුට්-ක්‍රියාත්මක-නොවීමෙන්-භටයින්-සිවුදෙනෙකුට-තුවාල/11-407798) · `si`
-
-Four students were injured in the area due to the absence of proper implementation of the pastus rehearsals in the Galle Face Celebrity to the 76th Independence Day.
-
-The SLAF Parazetty tubes and two Army parachutemen were also injured.
-
-◼️
-
-[Data](articles/fc300d80.json)
-
-[Extended Data](ext_articles/fc300d80.ext.json)
 
 ---

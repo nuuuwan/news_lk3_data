@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 13:17:15**
+As of **2024-01-30 13:32:47**
 
 ## Newspaper Stats
 
-*Scraped **3,491** Articles*
+*Scraped **3,493** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 196
 newsfirstlk | 211
 dailyftlk | 233
 adalk | 313
-adaderanasinhalalk | 379
 virakesarilk | 380
+adaderanasinhalalk | 381
 tamilmirrorlk | 442
 adaderanalk | 449
 dailymirrorlk | 471
@@ -26,11 +26,23 @@ dailymirrorlk | 471
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,489 (99.9%) of 3,491 articles have been extended.
+3,491 (99.9%) of 3,493 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### අපයෝජන සිදුවීමකට පාර්ලිමේන්තු කනිෂ්ඨ සේවකයින් තිදෙනෙක්ට අත්අඩංගුවට
+
+*2024-01-30 12:55:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192737) · `si`
+
+පාර්ලිමේන්තු සේවක මණ්ඩලයේ කනිෂ්ඨ සේවකයින් තිදෙනෙක් පොලිස් කාන්තා හා ළමා කාර්යාංශය විසින් අත්අඩංගුවට ගෙන තිබේ.
+
+◼️
+
+[Data](articles/12b6c594.json)
+
+---
 
 ### Three junior staffers of parliament arrested over abuse allegations
 
@@ -41,6 +53,8 @@ Three junior staff members of parliament have been arrested by the Child and Wom
 ◼️
 
 [Data](articles/3652229a.json)
+
+[Extended Data](ext_articles/3652229a.ext.json)
 
 ---
 
@@ -59,6 +73,8 @@ Earlier today, the Colombo Chief Magistrate issued an order against SJB Leader S
 ◼️
 
 [Data](articles/e9838448.json)
+
+[Extended Data](ext_articles/e9838448.ext.json)
 
 ---
 
@@ -125,6 +141,20 @@ The United National Party (UNP) has said that the United National Party's suppor
 [Data](articles/92cf9558.json)
 
 [Extended Data](ext_articles/92cf9558.ext.json)
+
+---
+
+### අනපේක්ෂිත ලෙස කොටුවූ පාතාල සාමාජිකයා
+
+*2024-01-30 12:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192736) · `si`
+
+අද (30) උදෑසන කළුතර ප්‍රදේශයේදී පාතාල සාමාජිකයෙක් ව අත්අඩංගුවට ගැනීමට යුක්තිය මෙහෙයුමේ නිරත පොලිස් නිලධාරීන් කණ්ඩායමක් සමත් විය.
+
+ඔහු සතුව තිබී T-56 ගිනි අවියක්, මැගසීන් 02ක්, උණ්ඩ 28ක්, වායු රයිෆලයක්, කඩු 07ක්, සහ මෙරට නිෂ්පාදිත අත්බෝම්බ 02ක් හමුවූ බව පොලීසිය පැවසීය.
+
+◼️
+
+[Data](articles/0b07c625.json)
 
 ---
 
@@ -1979,39 +2009,5 @@ Visa (NYSE: V), the global leader in digital payments, today announced the launc
 [Data](articles/b7a7ad23.json)
 
 [Extended Data](ext_articles/b7a7ad23.ext.json)
-
----
-
-### 44 authors, 23 sessions across 2 cities, the 1st edition of HSBC Ceylon Literary & Arts Festival
-
-*2024-01-29 22:45:00* · [`islandlk`](http://island.lk/44-authors-23-sessions-across-2-cities-the-1st-edition-of-hsbc-ceylon-literary-arts-festival/) · `en`
-
-Kandy and Colombo play host to the new creative platform, 8th–12th February
-
-The first edition of HSBC Ceylon Literary & Arts Festival (CLF) is scheduled to unfold in the picturesque city of Kandy on February 8th, followed by a vibrant continuation in Colombo on February 10th. Both cities, renowned for their rich heritage and cultural vibrancy, will serve as the perfect hosts for this literary and artistic celebration.
-
-The festival centers around a creative platform highlighting the cultural essence of Sri Lanka, placing a primary emphasis on Literature, complemented by Art, Music, and Films. A pivotal objective of the festival management is to broaden exposure and knowledge among the youth and children. To this end, a Children’s Festival and Creative Writing Workshop have been organized, featuring the participation of 13 schools. This initiative is aimed at laying the groundwork for the future, with the intention of expanding and enriching these endeavors with each successive edition.
-
-...
-
-[Data](articles/1f8911c4.json)
-
-[Extended Data](ext_articles/1f8911c4.ext.json)
-
----
-
-### Expolanka Holdings ‘demonstrates resilience’ in Q1 FY24
-
-*2024-01-29 22:43:00* · [`islandlk`](http://island.lk/expolanka-holdings-demonstrates-resilience-in-q1-fy24-2/) · `en`
-
-Expolanka Holdings PLC, reporting financial results for the first quarter of the 2024 financial year, that ended June 30, 2023, remained steadfast in consolidating performance and pursuing its long-term strategy. During the quarter under review, Expolanka Holdings demonstrated incredible resilience, with a revenue of Rs. 55.5 Bn and a Gross Profit of Rs. 11.2 Bn, despite persisting challenges posed by market disruptions, volatility, and uncertainty, an Expolanka press release said.
-
-The release adds: ‘The large foreign earnings portfolio and foreign asset base of the group was again negatively impacted by the appreciation of the Sri Lanka Rupee which resulted in the group recording an exchange loss of Rs. 973 Mn for the quarter.
-
-...
-
-[Data](articles/de8a8f8d.json)
-
-[Extended Data](ext_articles/de8a8f8d.ext.json)
 
 ---

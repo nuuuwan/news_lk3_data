@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 06:16:21**
+As of **2024-01-30 06:53:17**
 
 ## Newspaper Stats
 
@@ -26,31 +26,33 @@ dailymirrorlk | 461
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,395 (100.0%) of 3,396 articles have been extended.
+3,396 (100.0%) of 3,396 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### ’பகிடிவதைக்கு 12 ஆண்டுகள் சிறைத் தண்டனை’
+### 12 years in prison for sharing
 
 *2024-01-30 04:21:04* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பகிடிவதைக்கு-12-ஆண்டுகள்-சிறைத்-தண்டனை/175-332310) · `ta`
 
-பகிடிவதைகள் தொடர்பான குற்றங்கள் நிரூபிக்கப்பட்டால், சந்தேகநபர் ஒருவருக்கு சுமார் 12 ஆண்டுகள் வரை சிறைத் தண்டனை வழங்குவதற்கான சட்ட ஏற்பாடுகள் உள்ளன என்று  உயர்கல்வி இராஜாங்க அமைச்சர் சுரேன் ராகவன் தெரிவித்துள்ளார்.
+Higher Education Minister Suren Raghavan has said that if the crimes relating to sharing are proven, there are legal arrangements for a suspect to be sentenced to 12 years in prison.
 
-அரசாங்க தகவல் திணைக்களத்தில் நேற்று இடம்பெற்ற செய்தியாளர் சந்திப்பில் கலந்துகொண்டு கருத்து தெரிவிக்கும்போதே அவர் இவ்வாறு குறிப்பிட்டுள்ளார்.
+He was speaking at a press conference held at the Government Information Department yesterday.
 
-" பல்கலைக்கழகங்களுக்கு உள்வாங்கப்படும் புதிய மாணவர்களை இலக்கு வைத்து புரியப்படும் பகிடிவதைகள் தொடர்பில் சட்டரீதியான கவனம் செலுத்தப்படும்.
+“Legal attention will be paid to the dissemination of new students who are being admitted to universities.
 
-கடந்த வருடத்தில் கிடைக்கப்பெற்ற 80 இற்கும் மேற்பட்ட  முறைப்பாடுகள் பகிடிவதையுடன் தொடர்புடையனவாக கருத முடியாது.
+More than 80 complaints made in the past year cannot be considered related to sharing.
 
-அதேநேரம், பகிடிவதை தொடர்பான முறைப்பாடுகளுக்கு சுமார் 12 ஆண்டுகள் வரை சிறைத் தண்டனை வழங்கப்படக்கூடிய வாய்ப்புகள் உள்ளன.
+At the same time, complaints relating to sharing are likely to be sentenced to about 12 years in prison.
 
-எனவே, பல்கலைக்கழக மாணவர்கள் தமக்கு வழங்கப்பட்டுள்ள சுதந்திரத்தை உரிய வகையில் பயன்படுத்த வேண்டும் என்பதுடன் எதிர்கால நலனை சிந்தித்து செயற்பட வேண்டும்." - என்றார்.  (a)
+Therefore, university students should use the freedom given to them and act in the future of the future. ”(A)
 
 ◼️
 
 [Data](articles/181d863e.json)
+
+[Extended Data](ext_articles/181d863e.ext.json)
 
 ---
 

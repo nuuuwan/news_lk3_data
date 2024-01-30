@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 04:32:57**
+As of **2024-01-31 04:50:28**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,655 (99.9%) of 3,659 articles have been extended.
+3,659 (100.0%) of 3,659 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -52,6 +52,8 @@ The Government deployed the military and the Police to parts of Colombo yesterda
 
 [Data](articles/2d8e874b.json)
 
+[Extended Data](ext_articles/2d8e874b.ext.json)
+
 ---
 
 ### Three Parliament staffers arrested over sexual abuse allegations
@@ -65,6 +67,8 @@ The arrests were carried out by investigators from the Sri Lanka Police Bureau f
 ...
 
 [Data](articles/bb5ffd5a.json)
+
+[Extended Data](ext_articles/bb5ffd5a.ext.json)
 
 ---
 
@@ -80,6 +84,8 @@ According to the plaintiff, it was claimed that on 14 June 2021, Jayasekara post
 
 [Data](articles/3a5d38b8.json)
 
+[Extended Data](ext_articles/3a5d38b8.ext.json)
+
 ---
 
 ### Adani Power achieves higher standards of excellence in 3Q FY24
@@ -93,6 +99,8 @@ Adani Power Ltd., (APL), a part of Adani portfolio companies, recently announced
 ...
 
 [Data](articles/9b16dd49.json)
+
+[Extended Data](ext_articles/9b16dd49.ext.json)
 
 ---
 

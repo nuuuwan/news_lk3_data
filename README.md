@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 21:17:20**
+As of **2024-01-30 21:32:44**
 
 ## Newspaper Stats
 
-*Scraped **3,616** Articles*
+*Scraped **3,617** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,7 +15,7 @@ economynextcom | 193
 islandlk | 198
 newsfirstlk | 216
 dailyftlk | 233
-adalk | 330
+adalk | 331
 adaderanasinhalalk | 399
 virakesarilk | 401
 tamilmirrorlk | 459
@@ -26,7 +26,7 @@ dailymirrorlk | 490
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,616 (100.0%) of 3,616 articles have been extended.
+3,616 (100.0%) of 3,617 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -177,6 +177,22 @@ The SJB held a protest march against the conduct of the government, with the par
 [Data](articles/af7a48a3.json)
 
 [Extended Data](ext_articles/af7a48a3.ext.json)
+
+---
+
+### රිටොක්සි මැප් බාල බෙහෙත් වංචාව ගැනත් පරීක්ෂණ අරඹයි
+
+*2024-01-30 19:05:06* · [`adalk`](https://www.ada.lk/breaking_news/රිටොක්සි-මැප්-බාල-බෙහෙත්-වංචාව-ගැනත්-පරීක්ෂණ-අරඹයි/11-407805) · `si`
+
+ඉන්දියානු ණය යෝජනා ක්‍රමය යටතේ ව්‍යාජ ලේඛන සකස් කර පිළිකා රෝගීන් සඳහා භාවිතා කරන ‘රිටොක්සි මැප්’ නමැති ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් ආනයනය කර දිවයිනේ රජයේ රෝහල්වලට බෙදා හැරීම මඟින් රුපියල් කෝටි 11ක වංචාවක් කළැයි කියන සිද්ධිය සම්බන්ධයෙන් අල්ලස් කොමිසම විමර්ශනයක් ආරම්භ කර ඇත.
+
+ප්‍රමිතියෙන් තොර ‘රිටොක්සි මැප්’ ප්‍රතිදේහ එන්නත් ලබා දීමෙන් පිළිකා රෝගී ජීවීත අනාරක්‍ෂිත තත්වයකට පත් කිරීම සම්බන්ධයෙන්ද අල්ලස් කොමිසම විමර්ශන ආරම්භ කර ඇත.
+
+ඉන්දියානු ණය යෝජනා ක්‍රමය යටතේ දුන් ණය මුදල් වලින් ව්‍යාජ ලේඛන සකස් කොට පිළිකා රෝගී්න් සඳහා භාවිතා කරන ‘රිටොක්සි මැප්’ නමැති එන්නත් වෙනුවට ප්‍රමිතියෙන් තොර ප්‍රතිදේහ එන්නත් ආනයනය කර දිවයිනපුරා රජයේ රෝහල්වලට බෙදා හැරීම මඟින් රුපියල් කෝටි ගණනක වංචාවක් කිරීම සහ රෝගී ජීවීත අනාරක්‍ෂිත තත්වයකට පත් කිරීම සම්බන්ධයෙන් විමර්ශනයක් කරන්නැයි ඉල්ලමින් ‘අල්ලස දූෂණය හා නාස්තියට එරෙහි පුරවැසි බළය’ සංවිධානයේ සභාපති ජාමුනි කමන්ත තුෂාර මහතා කළ පැමිණීල්ලකට අනුව අල්ලස් කොමිසම මෙම විමර්ශනය ආරම්භ කර ඇත.
+
+...
+
+[Data](articles/d5d98188.json)
 
 ---
 
@@ -1995,27 +2011,5 @@ Earlier today, the Colombo Chief Magistrate issued an order against SJB Leader S
 [Data](articles/e9838448.json)
 
 [Extended Data](ext_articles/e9838448.ext.json)
-
----
-
-### Operation ‘Yukthiya’: Underworld figure arrested with weapons & ammo
-
-*2024-01-30 12:35:00* · [`adaderanalk`](https://www.adaderana.lk/news/96847/operation-yukthiya-underworld-figure-arrested-with-weapons-ammo) · `en`
-
-A notorious underworld figure was arrested on Tuesday (30 Jan.), while in possession of a cache of weapons, police reported.
-
-According to police, the arrest was made during the ongoing anti-drug operation ‘Yukthiya’.
-
-Accordingly, the suspect was taken into custody while in possession of a T-56 firearm, two magazines, 28 rounds of ammunition, an air rifle, seven swords and two locally-made hand grenades, police said.
-
-A total of 868 suspects were arrested by security forces personnel within 24 hours ending at 12:30 a.m. today, during the ongoing operation ‘Yukthiya’.
-
-According to the Ministry of Public Security, the narcotics taken into custody during this period include 120g of heroin, 98 grams of crystal methamphetamine (Ice) and 31,611 narcotic pills. Additionally, 123kg of cannabis and 9,708 cannabis plants too were impounded.
-
-◼️
-
-[Data](articles/797609d0.json)
-
-[Extended Data](ext_articles/797609d0.ext.json)
 
 ---

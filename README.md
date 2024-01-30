@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 10:17:15**
+As of **2024-01-30 10:32:54**
 
 ## Newspaper Stats
 
-*Scraped **3,429** Articles*
+*Scraped **3,444** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 196
 newsfirstlk | 203
 dailyftlk | 233
 adalk | 313
-virakesarilk | 370
-adaderanasinhalalk | 370
-tamilmirrorlk | 425
+virakesarilk | 371
+adaderanasinhalalk | 372
+tamilmirrorlk | 437
 adaderanalk | 440
 dailymirrorlk | 464
 
@@ -26,11 +26,85 @@ dailymirrorlk | 464
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,428 (100.0%) of 3,429 articles have been extended.
+3,429 (99.6%) of 3,444 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### සනත් නිශාන්තගේ බිරිඳ දේශපාලනයට?
+
+*2024-01-30 10:05:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192727) · `si`
+
+දේශපාලනයට පිවිසීම සඳහා තමාගේ බලාපොරොත්තුවක් නොමැති වූවද තම ස්වාමිපුරුෂයාගෙන් හිස් වූ දේශපාලන නායකත්වය භාරගන්නැයි පුත්තලමේ ජනතාව මෙන්ම පක්ෂයෙන්ද ඉල්ලීමක් කරන්නේ නම් ඉදිරියේදී ඇතැම් විට තමා ඒ පිළිබඳව සලකා බැලීමට ඉඩ තිබෙන බව අභාවප්‍රාප්ත අමාත්‍ය සනත් නිශාන්ත මහතාගේ බිරිඳ සඳහන් කළාය.
+
+අධිවේගයේ පසුගිය දා සිදුවු රිය අනතුරෙන් මරණයට පත් රාජ්‍ය අමාත්‍ය සනත් නිශාන්ත මහතාගේ ආරක්ෂක නිලධාරී පොලිස් සැරයන් අනුරාධ ජයකොඩි මහතාගේ නිවසට පැමිණ, එම පවුලේ ඥාතීන්ට ශෝකය පළ කළ අවස්ථාවේ දී මාධ්‍යවේදීන් හමුවේ නීතිඥ  චමරි ප්‍රියංකා පෙරේරා මහත්මිය මේ බව සඳහන් කර තිබේ.
+
+"මගේ මහත්මයා පුත්තලම් දිස්ත්‍රික්කයට වගේම රටේ ජනතාවටත් විශාල සේවයක් කළා. එතුමාගෙන් පිළිසරණක් පතා ආ අයෙක් කවදාක්වත් හිස් අතින් ඇරියේ නෑ. එයාට වූ විපත මටත් දරුවන්ටත් අදහාගන්න බෑ. හරියට හීනයක් දැක්කා වගේ. මගේ ස්වාමියාගේ මරණයේ උණුසුම යන්නත් ප්‍රථමයෙන් ඇතැම් මාධ්‍ය පළ කරලා තියෙනවා, මම දේශපාලනයට එනවා කියලා. ඒ කිසිම කෙනෙක් මගෙන් අහලා නෙවෙයි එහෙම ප්‍රවෘත්ති පළ කරලා තියෙන්නේ. මම කිසිම මාධ්‍යයකට මේ දක්වා ප්‍රකාශයක් කරලා නෑ මම දේශපාලනයට එනවා කියලා.
+
+...
+
+[Data](articles/a5a163c8.json)
+
+---
+
+### ඇෆ්ගන් ක්‍රිකට් පිල දිවයිනට
+
+*2024-01-30 09:54:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192726) · `si`
+
+තරග සංචාරයක් සඳහා ඇෆ්ගනිස්තාන ජාතික කණ්ඩායම අද (30) දිවයිනට පැමිණීමට නියමිතය.
+
+ඒ අනුව ශ්‍රී ලංකාව සහ ඇෆ්ගනිස්තානය අතර ක්‍රිකට් තරගාවලිය අනිද්දා (01) දිනෙන් ආරම්භ වීමට නියමිතය.
+
+ඔවුන් මෙම තරග සංචාරය තුළදී ටෙස්ට් තරගයක්, එක්දින තරග 03ක් සහ පන්දුවාර විස්සයි විස්ස තරග 03කට සහභාගී වීමට නියමිතය.
+
+ටෙස්ට් තරගය අනිද්දා සිට කොළඹ එස්.එස්.සී ක්‍රීඩාංගණයේදී පැවැත්වෙන අතර තරග 03කින් සමන්විත එක්දින තරගාවලිය පෙබරවාරි මස 09 වනදා ආරම්භ වීමට නියමිතය.
+
+කෙසේවෙතත් එක්දින තරග මීට පෙර කොළඹ දී පැවැත්වීමට සැලසුම් කර තිබුණ ද එම තරග මහනුවරදී පැවැත්වීමට පසුව තීරණය කර ඇත.
+
+මේ අතර වසර කිහිපයකට පසුව පන්දුවාර විස්සයි විස්ස තරග තුනම දඹුල්ල ක්‍රීඩාංගණයේ දී පැවැත්වීමට නියමිතය.
+
+◼️
+
+[Data](articles/9296f6a0.json)
+
+---
+
+### சுகாதார ஊழியர்கள் மீண்டும் பணி புறக்கணிப்பு
+
+*2024-01-30 09:49:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/சுகாதார-ஊழியர்கள்-மீண்டும்-பணி-புறக்கணிப்பு/175-332323) · `ta`
+
+தமது பிரச்சினைகளுக்கு பேச்சுவார்த்தை மூலம் தீர்வு காணப்படாவிட்டால் எதிர்வரும் பெப்ரவரி மாதம் முதலாம் திகதி வேலைநிறுத்தப் போராட்டத்தில் ஈடுபடவுள்ளதாக சுகாதார தொழிற்சங்கங்கள் தெரிவித்துள்ளன.
+
+சுகாதார ஊழியர்களுக்கு கொடுப்பனவு வழங்குவது தொடர்பில், ஜனாதிபதி நாடு திரும்பியவுடன் கலந்துரையாடல் நடத்தப்படும் என அறிவித்த போதிலும் இதுவரையில் அதற்காக சந்தர்ப்பம் வழங்கப்படவில்லை என சுகாதார ஊழியர்கள் குறிப்பிட்டுள்ளனர்.
+
+இதன் காரணமாக கொழும்பை சூழவுள்ள வைத்தியசாலைகளுக்கு முன்பாக இன்றைய தினம் எதிர்ப்பு நடவடிக்கைகளை முன்னெடுக்கவும் தொழிற்சங்கங்கள் தீர்மானித்துள்ளன.
+
+◼️
+
+[Data](articles/0ca96b05.json)
+
+---
+
+### வவுனியா நகரில் பெண்ணின் சடலம் மீட்பு
+
+*2024-01-30 09:46:00* · [`virakesarilk`](https://www.virakesari.lk/article/175112) · `ta`
+
+வவுனியா குருமன்காடு காளி கோவில் வீதியில் உள்ள வீடொன்றின் கிணற்றிலிருந்து பெண் ஒருவரின் சடலம் இன்று செவ்வாய்க்கிழமை (30) காலை மீட்கப்பட்டுள்ளது.
+
+வவுனியா காளி கோவில் வீதியில் உள்ள வீடொன்றின் கிணற்றில் 29 வயதுடைய ஜெனிற்றா என்ற இளம் குடும்ப பெண் சடலமாக மீட்கப்பட்டுள்ளார்.
+
+குறித்த பெண்ணின் கணவர் வெளிநாட்டில் வசித்து வருவதாகவும் இந்நிலையில் கணவருடைய குடும்பத்தினருடன் தனது 7 வயது மகனுடன் வசித்து வந்த நிலையிலேயே இச்சம்பவம் இடம்பெற்றுள்ளது.
+
+இதேவேளை குறித்த பெண் கடந்த வாரமும் தனது மகனுடன் கிணற்றில் வீழ்ந்து தற்கொலைக்கு முயன்றதாகவும் சத்தம் கேட்டு அயலவர்கள் மீட்டெடுத்தனர் என்பதும் குறிப்பிடத்தக்கது.
+
+குறித்த சம்பவம் தொடர்பான மரணவிசாரணையை திடீர் மரண விசாரணை அதிகாரி சுரேந்திர சேகரன் மேற்கொண்டு வருவதுடன் வவுனியா பொலிஸாரும் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர்.
+
+◼️
+
+[Data](articles/6bab2cdb.json)
+
+---
 
 ### Health sector workers to resort to another strike
 
@@ -45,6 +119,26 @@ Meanwhile, a series of protests are planned to be staged in front of hospitals i
 ◼️
 
 [Data](articles/38c5efd7.json)
+
+[Extended Data](ext_articles/38c5efd7.ext.json)
+
+---
+
+### 31,000 போதை மாத்திரைகள்; 868 சந்தேக நபர்கள் கைது
+
+*2024-01-30 09:36:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/31-000-போதை-மாத்திரைகள்-868-சந்தேக-நபர்கள்-கைது/175-332322) · `ta`
+
+நாடு தழுவிய ரீதியில் மேற்கொள்ளப்பட்டு வரும் போதைப்பொருள் எதிர்ப்பு நடவடிக்கையான ‘யுக்திய’ நடவடிக்கையின் ஒரு பகுதியாக இன்று (30) அதிகாலை 12.30 மணியுடன் முடிவடைந்த 24 மணித்தியாலங்களுக்குள் மேலும் 868 சந்தேக நபர்கள் இலங்கையின் பொலிஸ் மற்றும் பாதுகாப்புப் படையினரால் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்களில் 3 பேருக்கு எதிராக தடுப்புக் காவல் உத்தரவு பெறப்பட்டுள்ளது, மேலும் 5 பேர் புனர்வாழ்வு மையங்களுக்கு அனுப்பப்பட்டதாக பொது பாதுகாப்பு அமைச்சு தெரிவித்துள்ளது.
+
+இந்த காலப்பகுதியில் கைது செய்யப்பட்ட போதைப் பொருட்களில் 120 கிராம் ஹெரோயின், 98 ஐஸ் மற்றும் 31,611 போதை மாத்திரைகள் உள்ளடங்குவதாக அமைச்சு தெரிவித்துள்ளது. மேலும், 123 கிலோகிராம் கஞ்சா மற்றும் 9,708 கஞ்சா செடிகளும் பறிமுதல் செய்யப்பட்டன.
+
+இந்த 24 மணி நேரத்தில் கைது செய்யப்பட்ட நபர்களில் 527 போதைப்பொருள் சந்தேக நபர்கள் உள்ளடங்குவதாக பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/79856911.json)
 
 ---
 
@@ -124,6 +218,24 @@ The rehearsals were initially scheduled to commence on Monday (Jan.29), however,
 
 ---
 
+### விசேட தகவலால் வவுனியாவில் சிக்கிய பெண்
+
+*2024-01-30 08:45:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/வன்னி/விசேட-தகவலால்-வவுனியாவில்-சிக்கிய-பெண்/72-332321) · `ta`
+
+வவுனியா, வைரவபுளியங்குளம் பகுதியில் வைத்து ஐஸ் போதைப் பொருளுடன் பெண் ஒருவர் விசேட அதிரடிப்படையினரால் நேற்று  (29) கைது செய்யப்பட்டுள்ளார்.
+
+வவுனியா - வேப்பங்குளம் பகுதியில் வசிக்கும் பெண் ஒருவர் ஐஸ் போதைப் பொருளை விற்று வருவதாக மடுக்கந்தை பகுதியில் நிலை கொண்டுள்ள விசேட அதிரடிப் படையினருக்கு விசேட தகவல் கிடைத்துள்ளது.
+
+இதையடுத்து , குறித்த பெண் வேப்பங்குளம் பகுதியில் இருந்து வவுனியா நகரப் பகுதி நோக்கி ஐஸ் போதைப் பொருளுடன் மோட்டர் சைக்கிளில் வந்த நிலையில் வைரவபுளியங்குளம், புகையிரத நிலைய வீதியில் வைத்து விசேட அதிரடிப்படையினர் குறித்த பெண்ணை வழிமறித்து சோதனை செய்த போது ஐஸ் போதைப் பொருள் மீட்கப்பட்டதுடன், குறித்த பெண்ணை கைது செய்து வவுனியா பொலிஸாரிடம் ஒப்படைத்தனர்.
+
+கைது செய்யப்பட்ட பெண் வேப்பங்குளம் பகுதியைச் சேர்ந்த 40 வயதுடையவராவார். மேலதிக விசாரணைகளின் பின் குறித்த பெண்ணை நீதிமன்றில் முற்படுத்த பொலிஸார் நடவடிக்கை எடுத்துள்ளதாக தெரிவித்தனர். R
+
+◼️
+
+[Data](articles/d5f2d9ea.json)
+
+---
+
 ### Health workers into strike
 
 *2024-01-30 08:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192724) · `si`
@@ -139,6 +251,42 @@ The trade union measures have also been taken to implement protests in Colombo t
 [Data](articles/9ffb6827.json)
 
 [Extended Data](ext_articles/9ffb6827.ext.json)
+
+---
+
+### ஐவர் சுட்டுக்கொலை; இரு பெண்களும் சிக்கினர்
+
+*2024-01-30 08:38:40* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐவர்-சுட்டுக்கொலை-இரு-பெண்களும்-சிக்கினர்/175-332320) · `ta`
+
+பெலியத்த பொலிஸ் பிரிவில் தெற்கு அதிவேக வீதி நுழைவாயிலுக்கு அருகில் ஐந்து பேர் சுட்டுக் கொல்லப்பட்ட சம்பவம் தொடர்பில் இரண்டு பெண்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+ரத்கம பிரதேசத்தில் ஹக்மன பொலிஸ் நிலைய அதிகாரிகள் குழுவினால் நேற்று (29) காலை மேற்கொள்ளப்பட்ட நடவடிக்கையின் போது குறித்த இரு பெண்களும் கைது செய்யப்பட்டுள்ளனர்.
+
+கைது செய்யப்பட்டவர்கள் புஸ்ஸ பிரதேசத்தைச் சேர்ந்த 23 மற்றும் 33 வயதுடையவர்கள் என பொலிஸ் ஊடகப் பிரிவு தெரிவித்துள்ளது.
+
+துப்பாக்கிச்சூட்டுக்கு பயன்படுத்தப்பட்ட இரண்டு துப்பாக்கிகளும் குறித்த இரு பெண்களில் ஒருவருக்கு சொந்தமான மோட்டார் சைக்கிளில் கராப்பிட்டிய பிரதேசத்தில் இருந்து புஸ்ஸ பகுதிக்கு கொண்டு செல்லப்பட்டுள்ளதாக விசாரணையின் போது தெரியவந்துள்ளது.
+
+◼️
+
+[Data](articles/11af428a.json)
+
+---
+
+### நிர்வாக கட்டிடத்தை முற்றுகையிட்ட மாணவர்கள்
+
+*2024-01-30 08:35:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிர்வாக-கட்டிடத்தை-முற்றுகையிட்ட-மாணவர்கள்/175-332319) · `ta`
+
+பல கோரிக்கைகளை முன்வைத்து களனி பல்கலைக்கழக மாணவர்கள் நேற்று (29) இரவு பல்கலைக்கழகத்திற்கு அருகில் ஆர்ப்பாட்டத்தில் ஈடுபட்டிருந்தனர்.
+
+இதையடுத்து, பொலிஸார் நீர்த்தாரை மற்றும் கண்ணீர் புகை தாக்குதலை மேற்கொண்டு போராட்டத்தைக் கலைத்தனர்.
+
+இந்த போராட்டம் காரணமாக களனி பல்கலைக்கழகத்திற்கு முன்பாக கொழும்பில் இருந்து கண்டி செல்லும் பிரதான வீதி முற்றாக தடைப்பட்டிருந்தமை குறிப்பிடத்தக்கது.
+
+இந்த நிலையில், தற்போது களனி பல்கலைக்கழகத்தில் சுமார் 350 மாணவர்கள் அடங்கிய குழுவொன்று பல்கலைக்கழக நிர்வாக கட்டிடத்தை முற்றுகையிட்டு ஆர்ப்பாட்டத்தில் ஈடுபட்டுள்ளதாக தெரிவிக்கப்படுகின்றது. R
+
+◼️
+
+[Data](articles/9ce637af.json)
 
 ---
 
@@ -294,6 +442,38 @@ The lane was completely blocked in front of the University of Kelaniya on the Co
 
 ---
 
+### நவம்பரில் மாத்திரம் 69.6 பில்லியன் பணம் அச்சிடப்பட்டுள்ளது
+
+*2024-01-30 07:39:55* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நவம்பரில்-மாத்திரம்-69-6-பில்லியன்-பணம்-அச்சிடப்பட்டுள்ளது/175-332318) · `ta`
+
+2023 நவம்பர் மாதத்தில் இலங்கை மத்திய வங்கியானது 69.6 பில்லியன் பணம் அச்சிட்டுள்ளது.
+
+ஜனவரி முதல் நவம்பர் வரையில் ரூ. 639.4 பில்லியன் ரூபாய் பணத்தை கடந்த வருடம் மத்திய வங்கி அச்சிட்டுள்ளதாக மத்திய வங்கி தெரிவித்துள்ளது.
+
+◼️
+
+[Data](articles/b0041912.json)
+
+---
+
+### ”மரக்கறி விலை உயர்வை கட்டுப்படுத்த நடவடிக்கை எடுக்கவும்”
+
+*2024-01-30 07:31:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மரக்கறி-விலை-உயர்வை-கட்டுப்படுத்த-நடவடிக்கை-எடுக்கவும்/175-332317) · `ta`
+
+எதிர்வரும் ஜனாதிபதித் தேர்தல் கூட்டத்திற்கு தயாராகும் முன்னர், சந்தையில் மரக்கறி விலைகள் எதிர்பாராத வகையில் அதிகரித்துள்ளமை தொடர்பில் வர்த்தக அமைச்சர் நளின் பெர்னாண்டோ உடனடியாக விசாரணைகளை மேற்கொள்ளுமாறு தேசிய நுகர்வோர் முன்னணி (NCF) கோரிக்கை விடுத்துள்ளது.
+
+தம்புள்ளை மற்றும் நுவரெலியாவில் மரக்கறிகளின் விலைகள் அதிகரித்துள்ளதாகவும், எனவே இந்த விலை அதிகரிப்பை நுகர்வோர் சுமக்க வேண்டியிருப்பதால் உள்ளூர் சந்தையில் மரக்கறிகளை விற்பனை செய்ய முடியாது எனவும் முன்னணி தெரிவித்துள்ளது.
+
+பேலியகொட புதிய மெனிங் சந்தையின் விலையின்படி ஒரு கிலோகிராம் கரட்டின் விலை ரூ. 2,000. ரூ. 800 ஆக இருந்த ஒரு கிலோ பச்சை மிளகாய், 1,200 ஆக உயர்ந்துள்ளது.  பூசணி 1 கிலோகிராம் ரூ. 300 ஆகும்.
+
+தேசிய நுகர்வோர் முன்னணியின் தலைவர் அசேல சம்பத், உள்ளூர் சந்தையில் மரக்கறிகளின் திடீர் விலை அதிகரிப்பு தொடர்பில் வர்த்தக அமைச்சர் ஆராய்ந்து விலையை கட்டுப்படுத்த உடனடி தீர்வுகளை வழங்குமாறு கோரிக்கை விடுத்துள்ளார்.
+
+...
+
+[Data](articles/bcfd9f1d.json)
+
+---
+
 ### Special traffic plan in Colombo for Independence Day
 
 *2024-01-30 07:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192719) · `si`
@@ -317,6 +497,24 @@ DIG Indika Hapugoda said:
 [Data](articles/c5a6f671.json)
 
 [Extended Data](ext_articles/c5a6f671.ext.json)
+
+---
+
+### ”அரசியல்வாதிகளை பல்கலைக்கழகங்களுக்கு அழைக்க கூடாது”
+
+*2024-01-30 07:25:22* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அரசியல்வாதிகளை-பல்கலைக்கழகங்களுக்கு-அழைக்க-கூடாது/175-332316) · `ta`
+
+அரசியல்வாதிகள் மற்றும் ஜனாதிபதி வேட்பாளர்களை பல்கலைக்கழகங்களுக்கு அழைக்க சில பல்கலைக்கழகங்கள் திட்டமிட்டுள்ளதாகவும், அத்தகைய நடவடிக்கைகள் நிறுத்தப்பட வேண்டும் எனவும் உயர்கல்வி இராஜாங்க அமைச்சர் கலாநிதி சுரேன் ராகவன் தெரிவித்துள்ளார்.
+
+பல்கலைக்கழகங்களை அரசியலாக்குவதை நிறுத்த வேண்டும் என அரசாங்க தகவல் திணைக்களத்தில் இடம்பெற்ற ஊடகவியலாளர் சந்திப்பில் அவர் தெரிவித்தார்.
+
+"சில பல்கலைக்கழகங்கள் அரசியல்வாதிகள் மற்றும் ஜனாதிபதி வேட்பாளர்களை பல்கலைக்கழகங்களுக்கு அழைக்க திட்டமிட்டுள்ளதாக நான் அறிந்தேன். இது நிறுத்தப்பட வேண்டும். தயவு செய்து பல்கலைக்கழகங்களை அரசியலாக்குவதை நிறுத்துங்கள். பல்கலைக்கழகங்கள் கல்வி நடவடிக்கைகளுக்காகவே உள்ளன.
+
+அரசியல் என்பது அங்கு விவாதிக்கப்படுகிறது. இருப்பினும், அது பாரபட்சமாக இருக்கக்கூடாது. நிகழ்வுகளுக்கு யார் பல்கலைக்கழகங்களுக்கு அழைக்கப்பட வேண்டும் என்பதை செனட் மற்றும் அதன் கல்வியாளர்கள் தீர்மானிக்க வேண்டும்," என்று அவர் கூறினார்.
+
+◼️
+
+[Data](articles/a9171a63.json)
 
 ---
 
@@ -421,6 +619,72 @@ The immigration officials at the Bandaranaike International Airport (BIA) depart
 [Data](articles/ac07fae5.json)
 
 [Extended Data](ext_articles/ac07fae5.ext.json)
+
+---
+
+### கடற்றொழிலுக்கு சென்ற இளைஞரைக் காணவில்லை
+
+*2024-01-30 04:41:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடற்றொழிலுக்கு-சென்ற-இளைஞரைக்-காணவில்லை/175-332315) · `ta`
+
+இந்த சம்பவத்தில் அப்பகுதியைச் சேர்ந்த ஜோசப் மக்சிமஸ் சுரேஷ்குமார் (வயது 32) என்ற இளைஞரே காணாமல் போயுள்ளார்.
+
+கடலில் படகில் தங்கி தொழிலில் ஈடுபட்ட நிலையில், இரவு மூவரும் படகினுள் நித்திரைக்குச் சென்றுள்ளனர். காலையில் எழுந்து பார்த்தபோது அதில் இருந்த இளைஞன் காணாமல் போயுள்ளார்.
+
+இளைஞர் காணாமல்போன விடயம் தொடர்பில் கடற்றொழில் நீரியல் வளத்துறை, பொலிஸார், கடற்படையினர் உள்ளிட்ட தரப்பினருக்கு அறிவிக்கப்பட்டுள்ளது. (a)
+
+◼️
+
+[Data](articles/cdc75986.json)
+
+---
+
+### நுளம்பு வலை இறுகியதால் சிறுவன் பலி
+
+*2024-01-30 04:36:08* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நுளம்பு-வலை-இறுகியதால்-சிறுவன்-பலி/175-332314) · `ta`
+
+புத்தளம் - வில்லுவ வத்தை பகுதியில் நுளம்பு வலை நூல் இறுகி சிறுவன் ஒருவர் உயிரிழந்துள்ளார்.
+
+புத்தளம் - அநுராதபுரம் வீதியில் உள்ள வில்லுவ வத்தை பகுதியைச் சேர்ந்த மல்லவ ஆராச்சிலாகே உபேக்ஸ் தீபமால் எனும் 12 வயது சிறுவனே இவ்வாறு உயிரிழந்துள்ளார் எனப் பொலிஸார் தெரிவித்தனர்.
+
+குறித்த சிறுவன் நேற்று முன்தினம் இரவு வீட்டில் உள்ள கட்டிலில் விளையாடிக் கொண்டிருந்த போது , அங்கு தொங்கிக் கொண்டிருந்த நுளம்பு வலையொன்றின் நூல் பகுதி சிறுவனின் கழுத்தில் இறுக்கியாதாகத் தெரிவிக்கப்படுகிறது.
+
+விளையாடிக் கொண்டிருந்த சிறுவனின் சத்தமில்லாததை அவதானித்த பெற்றோர்கள் , வீட்டின் படுக்கை அறைக்குச் சென்று பார்த்த போது அங்கு சிறுவன் கழுத்து இறுகி கிடப்பதை பார்த்து உடனடியாக உறவினர்கள், அயலவர்களின் உதவியோடு புத்தளம் தள வைத்தியசாலைக்கு சிறுவனைக் கொண்டு சென்றனர்.
+
+இந்த சம்பவம் தொடர்பில் புத்தளம் பொலிஸார் மேலதிக விசாரணைகளை மேற்கொண்டு வருகின்றனர். (a)
+
+◼️
+
+[Data](articles/6804c0cb.json)
+
+---
+
+### முல்லை இளைஞரின் சடலம் ஒதுங்கியது
+
+*2024-01-30 04:29:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/முல்லை-இளைஞரின்-சடலம்-ஒதுங்கியது/175-332312) · `ta`
+
+முல்லைத்தீவு - மாத்தளன் கடலில் நேற்று முன்தினம் குளிக்கப் போன சமயம் காணாமல் போன குடும்பஸ்தரின் சடலம் நேற்றுப் பிற்பகல் முல்லைதீவு சாலை கடற்கரை பகுதியில் கரை ஒதுங்கி உள்ளது.
+
+புதுக்குடியிருப்பு, பத்தாம் வட்டாரத்தைச் சேர்ந்த இராசதுரை கஸ்தூரன் என்ற 33 வயதுடைய குடும்பஸ்தர் ஒருவரே இவ்வாறு சடலமாக மீட்கப்பட்டுள்ளார்.
+
+◼️
+
+[Data](articles/0d56aae4.json)
+
+---
+
+### கொழும்பில் இன்று போராட்டம்
+
+*2024-01-30 04:23:47* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கொழும்பில்-இன்று-போராட்டம்/175-332311) · `ta`
+
+ஐக்கிய மக்கள் சக்தி இன்று கொழும்பில் மாபெரும் கண்டன ஊர்வலம் மற்றும் பொதுக் கூட்டம் ஆகியவற்றை நடத்தவுள்ளதாக அறிவித்துள்ளது.
+
+அரசாங்கத்திற்கு எதிராக நடத்தப்படும் இந்தப் போராட்டத்தில் 50 ஆயிரம் பேர் திரள்வர் என்று அக்கட்சி அறிவித்துள்ளது.
+
+இலங்கையில் வாழ்க்கைச் செலவு அதிகரிப்பு உட்பட பல பிரச்சினைகளை முன்னிறுத்தி இந்தப் போராட்டம் நடத்தப்படுகின்றது. (a)
+
+◼️
+
+[Data](articles/c36c095d.json)
 
 ---
 
@@ -1679,325 +1943,5 @@ The Second Diplomatic Buddhist Convention of the Sri Lankan Bhikkhu Association 
 [Data](articles/8d7200d6.json)
 
 [Extended Data](ext_articles/8d7200d6.ext.json)
-
----
-
-### Lorenzo son saves from Somali pirates
-
-*2024-01-29 18:07:24* · [`adalk`](https://www.ada.lk/breaking_news/ලොරෙන්සෝ-පුතා-සෝමාලියානු-මුහුදු-කොල්ලකරුවන්ගෙන්-බේරා-ගනියි/11-407781) · `si`
-
-The Sri Lanka Tsunnena, who was abducted by a group of Somali pirates, saved the morning of Seychelles and Air Forms of SLAF Tigers.
-
-The polymer boat, which belongs to a business vessel in Talwila, is rescued.
-
-The vessel had been abducted by Somali pirates on the 27th evening while he left the Dickowita Port and fishing in the Arabian Sea.
-
-The abducted Thandudulent vessel was also employed in a six-member work tradition including Skipper.
-
-The External Affairs Ministry and the Sri Lanka Navy have requested international support to save the vessel.
-
-Accordingly, the Navy Headquarters and the Ministry of External Affairs had launched a special operation to rescue the vessel abducted by the Somali pirates.
-
-The special operation was launched by air and sea, and two sales navigation and two helicopters were used.
-
-Navy spokesman Gayan Wickremasuriya said:
-
-"The Fisheries Departer briefed the Sri Lankan Navy that Somali pirates were abducted while working on the Arabian Sea.
-
-...
-
-[Data](articles/7a50157b.json)
-
-[Extended Data](ext_articles/7a50157b.ext.json)
-
----
-
-### Online Safety Bill will give rise to a fully local social media platform: Hirunika
-
-*2024-01-29 18:06:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Online-Safety-Bill-will-give-rise-to-a-fully-local-social-media-platform-Hirunika/108-275920) · `en`
-
-Colombo, Jan 29 (Daily Mirror) - The Online Safety Bill will give rise to a local social media platform to disseminate information as all foreign online service providers are likely to leave the country once the legislation comes into effect, former MP Hirunika Premachandra said.
-
-“It is just a simple task for the international service providers such as Facebook and X to leave Sri Lanka,” Ms. Premachandra told a media briefing.
-
-“Sri Lanka will have to develop its own platform like China if all foreign service providers stop operations in Sri Lanka,” she added.
-
-“Just imagine what you would feel if you are unable to log onto Facebook, Instagram or X through your phone to be aware of what is happening around the world,” she questioned.
-
-◼️
-
-[Data](articles/a262b068.json)
-
-[Extended Data](ext_articles/a262b068.ext.json)
-
----
-
-### Daya joins 'Daya'
-
-*2024-01-29 17:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192707) · `si`
-
-Former Army Commander General Daya Ratnayake has joined the party with the party.
-
-At a meeting with Opposition Leader Sajith Premadasa, he was associated with the party this party.
-
-The Leader of the Opposition has also appointed Mr. Daya Ratnayake to appoint a senior advisor to the country's policies.
-
-He has also served as a Chairman of the Sri Lanka Ports Authority as the Secretary to the Government of Sri Lanka.
-
-◼️
-
-[Data](articles/a17c0070.json)
-
-[Extended Data](ext_articles/a17c0070.ext.json)
-
----
-
-### Sri Lanka not barred from transparent investment incentives by IMF deal: ex-BOI chief
-
-*2024-01-29 17:33:00* · [`economynextcom`](https://economynext.com/sri-lanka-not-barred-from-transparent-investment-incentives-by-imf-deal-ex-boi-chief-149017/) · `en`
-
-ECONOMYNEXT – Sri Lanka is not barred from giving investment incentives if they are not discretionary and are based on transparent rules, Thilan Wijesinghe, an investment banker who was a former Chairman of the Board of Investment said.
-
-The International Monetary Fund has frowned on sweeping tax holidays running up to 20 to 25 years given under a Strategic Development Project (SDP) Act for undermining the revenue base and leaving the door open for corruption.
-
-Related Sri Lanka logistics centre with China gets 15-year tax holiday
-
-IMF senior mission chief Peter Breuer told reporters earlier this month that a recently gazetted tax incentive may not be approved by parliament.
-
-“On tax concession, so there is a commitment in the program to grant, to not grant any more tax concessions,” Breuer said.
-
-...
-
-[Data](articles/4f17e102.json)
-
-[Extended Data](ext_articles/4f17e102.ext.json)
-
----
-
-### Woman arrested for assaulting a police officer
-
-*2024-01-29 17:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192706) · `si`
-
-A woman has been arrested by the police on charges of assaulting a police officer in a police officer.
-
-The police said that a Sri Lankan woman residing in Australia.
-
-The woman was bound by a police officer saying that a group of police officers who were traveling in a three-wheeler near the Devinuwara Clock in Matara.
-
-The luxury jeep that the woman was near the Gandara police station afterward was stopped by the police.
-
-The suspect has been hospitalized due to an attack on a police officer at the time.
-
-The suspect was arrested by the suspect and arrested the relevant jeep.
-
-The woman was produced before the court and the Gandara police are conducting further investigations.
-
-◼️
-
-[Data](articles/4b7dcfdf.json)
-
-[Extended Data](ext_articles/4b7dcfdf.ext.json)
-
----
-
-### Sri Lanka rupee closes at 317.75/90 to the US dollar
-
-*2024-01-29 17:22:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-317-75-90-to-the-us-dollar-149018/) · `en`
-
-ECONOMYNEXT – Sri Lanka’s rupee closed at 317.75/90 to the US dollar on Monday, from 317.50/80 the previous day, dealers said.
-
-A bond maturing on 01.02.2026 closed stable at 13.10/20 percent.
-
-A bond maturing on 15.09.2027 closed at 13.40/60 percent from 13.45/60 percent.
-
-A bond maturing on 15.03.2028 closed at 13.65/75 percent from 13.70/80 percent.
-
-A bond maturing on 15.07.2029 closed at 13.85/95 percent from 13.95/14.00 percent.
-
-A bond maturing on 15.05.2030 closed stable at 13.90/14.00 percent.
-
-A bond maturing on 01.07.2032 closed at 14.10/15 percent from 14.00/10 percent. (Colombo/Jan29/2024)
-
-◼️
-
-[Data](articles/15442ebb.json)
-
-[Extended Data](ext_articles/15442ebb.ext.json)
-
----
-
-### CEB introduces new methods to pay electricity bills
-
-*2024-01-29 17:07:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CEB-introduces-new-methods-to-pay-electricity-bills/108-275921) · `en`
-
-Colombo, Jan 29 (Daily Mirror) - The Ceylon Electricity Board (CEB) is working to introduce some new methods for consumers to pay their electricity bills, the board said while issuing a statement.
-
-Accordingly, the CEB has introduced the CEB Care app, online banking services, through the Sri Lanka Postal Department, through the CEB official website (ceb.lk), through bank KIOSK machines and supermarkets and through mCash.
-
-The CEB further said that consumers are requested to make their complaints by calling telephone number 1987 regarding problems arising in this regard.
-
-◼️
-
-[Data](articles/6cfc9bf6.json)
-
-[Extended Data](ext_articles/6cfc9bf6.ext.json)
-
----
-
-### Map of Tamil Eelam;Trial to the youth
-
-*2024-01-29 17:06:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பட்டத்தில்-தமிழீழ-வரைபடம்-இளைஞனிடம்-விசாரணை/175-332288) · `ta`
-
-As a beginning of the annual graduation festival, the Mullaitivu beach has made a different form of titles on Monday (28) and enjoyed graduation from children to adults.
-
-During the event, a youth from Mullaitivu had taken a youth to the place where the Mullaitivu police had gone to the place of the Tamil Eelam Map and the title of the Tamil Eelam Map and the Carnatic Flower Organization.
-
-◼️
-
-[Data](articles/0d961f33.json)
-
-[Extended Data](ext_articles/0d961f33.ext.json)
-
----
-
-### Sri Lanka former presidents CBK, Sirisena to back incumbent, claims AKD
-
-*2024-01-29 16:56:00* · [`economynextcom`](https://economynext.com/sri-lanka-former-presidents-cbk-sirisena-to-back-incumbent-claims-akd-149008/) · `en`
-
-ECONOMYNEXT — Former presidents Chandrika Bandaranaike Kumaratunga and Maithripala Sirisena will express their support for incumbent President Ranil Wickremesinghe in the coming days, National People’s Power (NPP) leader Anura Kumara Dissanayake claimed.
-
-Speaking at a rally in Kalutara on Sunday January 28, Dissanayake suggested that establishment politicians who are nervous about the NPP’s rising popularity will set aside their perceived differences to defeat what he called the “progressive people’s movement” that will propel the NPP to victory at the polls.
-
-Dissanayake, who leads both the NPP and the Marxist-Leninist Janatha Vimukthi Peramuna (JVP) that effectively controls the NPP, said the leftist alliance has become the focal point of political debates and discussions on television.
-
-...
-
-[Data](articles/961c85af.json)
-
-[Extended Data](ext_articles/961c85af.ext.json)
-
----
-
-### Sri Lankan Youth Trapped in Myanmar Cyberhell Cry for Rescue
-
-*2024-01-29 16:47:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/sri-lankan-youth-trapped-in-myanmar-cyberhell-cry-for-rescue/) · `en`
-
-COLOMBO (News 1st): Desperate pleas from families echo through the nation as 56 Sri Lankan youth remain trapped in a harrowing ordeal – held captive in cybercrime camps run by terrorist groups in remote Myanmar.
-
-Lured by promises of IT jobs in Thailand, these young people now face forced labor, abuse, and psychological trauma under the control of Chinese underworld groups and local terrorist organizations.
-
-Today (29), distraught parents visited the Ministry of Foreign Affairs, urging immediate intervention to secure their children's release.
-
-"The pressure is mounting," pleaded the father of one captive youth. "Our children are mentally broken, subjected to escalating torture and inhumane conditions. We beg the government to send a delegation and bring them home."
-
-News 1st, has followed this story for two months, and received a chilling update from a young woman trapped in the camps.
-
-...
-
-[Data](articles/b4d04b29.json)
-
-[Extended Data](ext_articles/b4d04b29.ext.json)
-
----
-
-### Suspect in Beliatte Murders Detained for 7 Days
-
-*2024-01-29 16:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/29/suspect-in-beliatte-murders-detained-for-7-days/) · `en`
-
-COLOMBO (News 1st); Sri Lanka Police have launched an investigation into a 34-year-old man from Rathgama for allegedly aiding and abetting the assassination of five people in Beliatte, recently.
-
-The suspect, who was apprehended in the Dodanduwa area on Saturday (27), is being held under a seven-day detention order, and is believed to have played a crucial role in transporting the murder weapons and assisting the main perpetrator.
-
-According to police reports, the suspect took two T56 firearms used in the killings from the main suspect and transported them from Akuressa to Karapitiya on a motorcycle.
-
-Police have also seized the motorcycle used in this operation, along with two mobile phones belonging to the suspect. He was handed over to the Beliatte police for further investigation.
-
-This latest arrest brings the total number of individuals detained in connection with the Beliatta murders to four.
-
-...
-
-[Data](articles/45cd98a6.json)
-
-[Extended Data](ext_articles/45cd98a6.ext.json)
-
----
-
-### Sri Lanka’s NPP on 39 pct of all adults, ahead of SJB, SLPP in December: poll
-
-*2024-01-29 16:24:00* · [`economynextcom`](https://economynext.com/sri-lankas-npp-on-39-pct-of-all-adults-ahead-of-sjb-slpp-in-december-poll-148978/) · `en`
-
-ECONOMYNEXT — Sri Lanka’s leftist National People’s Power (NPP) has maintained a lead over other political parties in December, a survey has found.
-
-According to a general election voting intention poll among Sri Lankan adults carried out by the Institute for Health Policy (IHP) for December 2023, the NPP was ahead of the main opposition Samagi Jana Balawegaya (SJB), the president’s United National Party (UNP) and the ruling Sri Lanka Podujana Peramuna (SLPP).
-
-Support for the SJB was at 27 percent in December while support for the SLPP was at 10 percent that month. Support for President Ranil Wickremesinghe’s UNP was at 6 percent.  The Ilankai Thamil Arasu Kachchi (ITAK), the main constituent party of the opposition Tamil National Alliance (TNA) and the Sri Lanka Muslim Congress (SLMC) enjoyed 3 percent each.
-
-The December estimates are provisional and are associated with a margin of error of 2.0–3.5 percent for the four leading parties.
-
-...
-
-[Data](articles/5ad28e0b.json)
-
-[Extended Data](ext_articles/5ad28e0b.ext.json)
-
----
-
-### Sri Lankan fishermen captured by Somali pirates rescued
-
-*2024-01-29 16:23:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-fishermen-captured-by-Somali-pirates-rescued/108-275919) · `en`
-
-Colombo, Jan 29 (daily Mirror) - The Seychelles Coast Guard (SCG) had rescued six Sri Lankan fishermen who were captured by Somali pirates, along with their multi-day fishing trawler, Navy spokesman Captain Gayan Wickramasinghe said today.
-
-The Sri Lanka Navy had informed the Combined Marine Corps-Seychelles Coast Guard (SCG) regarding the incident.
-
-"We kept in continuous touch with the SCG, gave them the information they needed and coordinated with them. As a result of this coordination, the SCG conducted a special operation after informing us. After the operation, SCG officials managed to rescue the Sri Lankan multi-day fishing trawler 'Lorenzo Putha 4', including the six fishermen," he said.
-
-The spokesman said the SCG managed to arrest three Somali pirates, and that they are taking them to the capital of Seychelles.
-
-...
-
-[Data](articles/9a9d1eb8.json)
-
-[Extended Data](ext_articles/9a9d1eb8.ext.json)
-
----
-
-### Lawrenceo Buddha rescued from Somalia robbers!
-
-*2024-01-29 16:22:00* · [`virakesarilk`](https://www.virakesari.lk/article/175076) · `ta`
-
-Sri Lankan fishing boat. The Department of Seychelles has confirmed this, the department said.
-
-The fishing boat, which joined his virgin trip on the 12th, was seized by Somali pirates with 6 fishermen last Saturday.
-
-◼️
-
-[Data](articles/68ec48ed.json)
-
-[Extended Data](ext_articles/68ec48ed.ext.json)
-
----
-
-### Sri Lanka stocks close down, Dialog sees some interest
-
-*2024-01-29 16:18:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-down-dialog-sees-some-interest-148982/) · `en`
-
-ECONOMYNEXT – The Colombo Stock Exchange closed down again on Monday, data on its site showed. The market has been mostly down since the beginning of this year.
-
-The All Share Price Index was down 0.37 percent, or 38.44 points, at 10,297.
-
-The S&P SL20 index was also down 0.54 percent, or 15.71 points, at 2,913.
-
-Turnover was low at 590 million. Trading in John Keells Holdings Plc contributed the most (138mn) to the day’s turnover, and the share closed flat at 181.50.
-
-Other companies that saw buying interest were Dialog Axiata Plc (up at 9.00), The Lanka Hospitals Corporation Plc (up at 124.00) and JKH-owned Ceylon Cold Stores Plc (up at 42.00).
-
-The banks industry and diversified financials attracted little to no interest.
-
-◼️
-
-[Data](articles/8969707d.json)
-
-[Extended Data](ext_articles/8969707d.ext.json)
 
 ---

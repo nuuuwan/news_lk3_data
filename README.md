@@ -1,18 +1,18 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 23:51:43**
+As of **2024-01-31 00:02:20**
 
 ## Newspaper Stats
 
-*Scraped **3,637** Articles*
+*Scraped **3,644** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 46
 bbccomsinhala | 61
 dbsjeyarajcom | 127
-economynextcom | 193
 islandlk | 198
+economynextcom | 200
 newsfirstlk | 216
 dailyftlk | 233
 adalk | 331
@@ -26,7 +26,7 @@ dailymirrorlk | 497
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,635 (99.9%) of 3,637 articles have been extended.
+3,644 (100.0%) of 3,644 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -186,15 +186,17 @@ Question: What about the great Pongal festival in the East to return the Tamil w
 
 ---
 
-### தாய் மொழியில் கற்கும் உரிமை மறுக்கப்படும் கம்பஹா மாவட்ட தமிழ் மாணவர் சமூகம்
+### Gampaha District Tamil Student Society
 
 *2024-01-30 22:32:00* · [`virakesarilk`](https://www.virakesari.lk/article/175182) · `ta`
 
-1948ஆம் ஆண்டு அனைத்துலக மனித உரிமை பிரகடனத்தில் அனைவருக்கும் தாய் மொழியில் கற்கும் உரிமை இருப்பதாகவே தெரிவிக்கப்பட்டுள்ளது. ஆனால் இதற்கு விதிவிலக்காக இலங்கையின் சில...
+In the 1948 International Human Rights Declaration, everyone has the right to learn in the mother tongue. But the exception is some of Sri Lanka's ...
 
 ◼️
 
 [Data](articles/cde71fa1.json)
+
+[Extended Data](ext_articles/cde71fa1.ext.json)
 
 ---
 
@@ -213,6 +215,8 @@ This initiative leverages existing language skills to open doors to lucrative em
 ...
 
 [Data](articles/5d8f33a1.json)
+
+[Extended Data](ext_articles/5d8f33a1.ext.json)
 
 ---
 
@@ -976,6 +980,56 @@ Another armed group, Palestinian Islamic Jihad, said two of those killed were it
 
 ---
 
+### Sri Lanka Telecom, chairman, directors resign
+
+*2024-01-30 17:45:00* · [`economynextcom`](https://economynext.com/sri-lanka-telecom-chairman-directors-resign-149223/) · `en`
+
+ECONOMYNEXT – Sri Lanka Telecom Chairman Reyaz Mihular and three have resigned, the company said in stock exchange filings without giving reasons.
+
+Lalith Seneviratne, Ranjith Rubasinghe have resigned with effect from January 29 and K A Vimalenthirarajah from January 30, the filing said.
+
+Sri Lanka’s Daily FT newspaper reported earlier in the week that Mihular and other directors were asked to resign by the government which is the controlling shareholder.
+
+The report said Mihular was asked to withdraw a case filed by Mobitel, against a merger of Airtel and Dialog, during a meeting with President Ranil Wickremesinghe.
+
+Mihular had said it was a board decision which was based on the interests of the company and the request will be conveyed
+
+SLT confirmed to the Colombo Stock Exchange that the firm had been copied a letter from the Secretary to the President to the Treasury Secretary on reconstituting its board.
+
+...
+
+[Data](articles/96f7b6e2.json)
+
+[Extended Data](ext_articles/96f7b6e2.ext.json)
+
+---
+
+### Sri Lanka rupee closes at 316.90/317.05 to the US dollar
+
+*2024-01-30 17:43:00* · [`economynextcom`](https://economynext.com/sri-lanka-rupee-closes-at-316-90-317-05-to-the-us-dollar-149216/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s rupee closed at 316.90/317.05  to the US dollar on Tuesday, from 317.75/90 the previous day, dealers said.
+
+A bond maturing on 01.02.2026 closed down at 12.85/95 percent from 13.10/20 percent.
+
+A bond maturing on 15.09.2027 closed at 13.15/25 percent from 13.40/60 percent.
+
+A bond maturing on 15.03.2028 closed at 13.45/55 percent from 13.65/75 percent.
+
+A bond maturing on 15.07.2029 closed at 13.60/80 percent from 13.85/95 percent.
+
+A bond maturing on 15.05.2030 closed at 13.60/80 percent from 13.90/14.00 percent.
+
+A bond maturing on 01.07.2032 closed at 13.70/90 percent from 14.10/15 percent. (Colombo/Jan30/2024)
+
+◼️
+
+[Data](articles/b88255a3.json)
+
+[Extended Data](ext_articles/b88255a3.ext.json)
+
+---
+
 ### The terrible mission that the Israeli sf troops conducted in a hospital
 
 *2024-01-30 17:40:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192751) · `si`
@@ -1122,6 +1176,32 @@ A navy statement said that the ship had responded to a distress message on 28 Ja
 
 ---
 
+### Sri Lanka stocks close up, turnover tops 1bn
+
+*2024-01-30 16:58:00* · [`economynextcom`](https://economynext.com/sri-lanka-stocks-close-up-turnover-tops-1bn-149210/) · `en`
+
+ECONOMYNEXT – The Colombo Stock Exchange closed up on Tuesday, data on its site showed.
+
+The All Share Price Index was up 0.08 percent, or 7.77 points, at 10,305.
+
+The S&P SL20 index was down 0.50 percent, or 14.65 points, at 2,898.
+
+Turnover topped 1 billion. Trades in Sampath Bank Plc (198mn) and Dialog Axiata Plc (158mn) contributed the most to the day’s turnover.
+
+Shares of Sampath Bank Plc closed down at 68.00, while shares of Dialog Axiata Plc closed flat at 9.00.
+
+Other companies that saw buying interest were Aitken Spence Plc (up at 115.00), Ceylon Tobacco Company Plc (up at 1,019.00) and Lanka IOC Plc (up at 102.00).
+
+There was a net foreign outflow of 82 million. (Colombo/Jan30/2024).
+
+◼️
+
+[Data](articles/593b373c.json)
+
+[Extended Data](ext_articles/593b373c.ext.json)
+
+---
+
 ### Israeli soldiers attack Jenin hospital as medical staff
 
 *2024-01-30 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175175) · `ta`
@@ -1201,6 +1281,48 @@ This is a good example of how the City Council Health Division keeps its buildin
 [Data](articles/61895bbd.json)
 
 [Extended Data](ext_articles/61895bbd.ext.json)
+
+---
+
+### USAID program prevents plastic entering ocean around Sri Lanka
+
+*2024-01-30 16:34:00* · [`economynextcom`](https://economynext.com/usaid-program-prevents-plastic-entering-ocean-around-sri-lanka-149169/) · `en`
+
+ECONOMYNEXT – A 1.2 million dollar program by the United States Agency for International Development (USAID) helped prevent over 4,600 metric tons of plastic from entering the ocean around Sri Lanka, USAID said.
+
+The Clean Cities, Blue Ocean (CCBO) program launched in Sri Lanka in 2021 sought to address ocean plastic pollution.
+
+USAID “partnered with local organizations to design and pilot innovative, economically viable, and environmentally sustainable solutions to address each step in the waste value chain, providing technical assistance and grants totaling more than 1.2 million US dollars (Rs 382.8 million),” it said in a statement.
+
+As a result of these partnerships, 625,000 Sri Lankans benefitted from improved solid waste services, and communities around Colombo, Galle, and Jaffna have adopted sustainable practices that promote increased reuse and transformation of waste products into new items, USAID said.
+
+...
+
+[Data](articles/429c88b5.json)
+
+[Extended Data](ext_articles/429c88b5.ext.json)
+
+---
+
+### Sri Lanka main opposition SJB protest tear-gassed as elections loom
+
+*2024-01-30 16:27:00* · [`economynextcom`](https://economynext.com/sri-lanka-main-opposition-sjb-protest-tear-gassed-as-elections-loom-149171/) · `en`
+
+ECONOMYNEXT – A street protest by Sri Lanka’s main opposition Samagi Jana Balawegaya in the capital Colombo was tear gassed and water cannoned by police, live television footage showed as the country prepares for elections later in the year.
+
+The SJB is protesting economic hardships coming from a currency collapse after macro-economists deployed extreme policy involving steep rate with printed money and tax cuts.
+
+President Ranil Wickremesinghe has reversed the tax cuts and imposed progressive taxes in addition to value added tax to try to pay for a bloated public sector and reduce the deficit.
+
+The protests come as the measures are having and effect and the central bank has kept the exchange rate stable, with deflationary policy, allowing economic activity to resume.
+
+“He cannot have democracy in opposition and behave like a dictator in office,” a visibly angry opposition legislator Harsha de Silva, told Sri Lanka’s Newsfirst live coverage of the protest and police action.
+
+...
+
+[Data](articles/44a24e1a.json)
+
+[Extended Data](ext_articles/44a24e1a.ext.json)
 
 ---
 
@@ -1431,6 +1553,26 @@ The co-convener of the Alliance General Convener of the Co-convener of the Co-co
 [Data](articles/cb271dae.json)
 
 [Extended Data](ext_articles/cb271dae.ext.json)
+
+---
+
+### Sri Lanka sends tea to Palestine
+
+*2024-01-30 15:32:00* · [`economynextcom`](https://economynext.com/sri-lanka-sends-tea-to-palestine-149164/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s Ministry of Foreign Affairs donated a consignment of Ceylon Tea to the people of Palestine in the Gaza Strip as “a token of humanitarian assistance symbolizing Sri Lanka’s unwavering support and solidarity with the people of Palestine,” it said.
+
+“Tea, deeply rooted in our culture, is a gesture of comfort and strength. Sri Lanka extends our support to the people of Palestine, hoping that this contribution brings solace and strength during moments of crisis. Sri Lanka stands in solidarity with Palestine during these difficult times,” State Minister of Foreign Affairs Tharaka Balasuriya said on X.
+
+The donation was received by the Ambassador of Palestine to Sri Lanka, Zuhair Hamdallah Zaid who expressed appreciation for the goodwill gesture.
+
+Colombo-based ambassadors of Saudi Arabia, Egypt and Iran as well as diplomats from Iraq, Kuwait, Qatar, Oman, Libya and UAE were also present, the ministry said.
+
+...
+
+[Data](articles/d16a1a31.json)
+
+[Extended Data](ext_articles/d16a1a31.ext.json)
 
 ---
 
@@ -1676,6 +1818,28 @@ All health workers, including nurses and Public Health Inspectors (PHIs) attache
 
 ---
 
+### Sri Lanka mulls exporting Hambantota port rocks
+
+*2024-01-30 14:16:00* · [`economynextcom`](https://economynext.com/sri-lanka-mulls-exporting-hambantota-port-rocks-149141/) · `en`
+
+ECONOMYNEXT – Sri Lanka’s cabinet had given the nod to appoint a committee which will look into the feasibility of exporting up to a million tonnes of granite including a stockpile of rocks dug up when building the Hambantota port, Minister Bandula Gunawardana said.
+
+The rocks are now piled up in the port premises near the administration building and by the Hambantota New Hospital, he said.
+
+“A committee will be appointed to study the possibility of exporting one million metric tons of granite,” Cabinet Spokesperson, Bandula Gunawardena said.
+
+The exports will be carried out under the supervision of Sri Lanka’s Geological Survery and Mines Bureau.
+
+Sri Lanka’s construction industry is also in depressed condition amid an economic crisis and 50,000 and livelihoods of 50,000 workers in the quarry sector have been hit and there is reduced domestic demand according to a cabinet proposal submitted by Environment Minister Keheliya Rambukwelle, he said.
+
+...
+
+[Data](articles/c621433b.json)
+
+[Extended Data](ext_articles/c621433b.ext.json)
+
+---
+
 ### UPDATE: Unexpected Gusts Lead to Paratrooper Entanglement
 
 *2024-01-30 14:14:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/update-unexpected-gusts-lead-to-paratrooper-entanglement/) · `en`
@@ -1889,139 +2053,5 @@ Moreover, the court has also ordered that the petition be filed by February 22.T
 [Data](articles/0535e711.json)
 
 [Extended Data](ext_articles/0535e711.ext.json)
-
----
-
-### Three Parliament employees arrested in for molesting female staff member
-
-*2024-01-30 13:43:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-Parliament-employees-arrested-in-for-molesting-female-staff-member/108-275980) · `en`
-
-Colombo, Jan 30 (Daily Mirror) - A group of employees were arrested today by the police attached to the Women's and Children's Bureau for allegedly abusing a fellow female staff member.
-
-Serjeant-at-Arms Narendra Fernando told the Daily Mirror that the staff members were arrested a short while ago.
-
-“We have already interdicted these staff members as they were found guilty during an inquiry,” he said.
-
-He said there is no necessity for the police to seek the approval of the Speaker before arresting a staff member as in the case of an MP.
-
-◼️
-
-[Data](articles/b51c45d0.json)
-
-[Extended Data](ext_articles/b51c45d0.ext.json)
-
----
-
-### Bill and Melinda Gates Foundation to partner with Sri Lanka president’s office
-
-*2024-01-30 13:42:00* · [`economynextcom`](https://economynext.com/bill-and-melinda-gates-foundation-to-partner-with-sri-lanka-presidents-office-149110/) · `en`
-
-ECONOMYNEXT – Global Health Strategies, by the Bill and Melinda Gates Foundation, and its local partner Connect to Care Organization, are to establish a Program Support Unit within the President’s Office, Cabinet spokesman Bandula Gunawardena said.
-
-The Cabinet of Ministers approved the move after taking “into consideration the policy support proposed to be provided by Bill and Melinda Gates Foundation to the Presidential Secretariat,” Gunawardena said at the press briefing to announce Cabinet decisions on Tuesday.
-
-The President’s Office provides “guidance on policy issues and monitoring government programs,” Gunawardena said, and “maintains coordination with a number of multi-stakeholder organizations such as International Monetary Fund’s Comprehensive Funding Facility, World Bank’s Development Policy Operational Program, Asian Development Bank’s Policy Assistance Programs, etc and interacts with various public and private sector stakeholders.”
-
-...
-
-[Data](articles/c8ea7948.json)
-
-[Extended Data](ext_articles/c8ea7948.ext.json)
-
----
-
-### Imran Khan 10 years in prison
-
-*2024-01-30 13:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192740) · `si`
-
-Former Prime Minister Imran Khan has been sentenced to 10 years in prison on the absurdition of state secrets.
-
-Imran Khan, who was convicted of corruption in 2022, has been remanded.
-
-Imran Khan has said that Imran had said that the allegations had been launched on political matters.
-
-◼️
-
-[Data](articles/fd0f73d9.json)
-
-[Extended Data](ext_articles/fd0f73d9.ext.json)
-
----
-
-### Today's currency exchange rate
-
-*2024-01-30 13:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175149) · `ta`
-
-The US dollar purchasing price was 312.8180 and the sales price were Rs 322.7398 based on the Central Bank's coinage rate on Tuesday (January 30).
-
-◼️
-
-[Data](articles/af79e2f5.json)
-
-[Extended Data](ext_articles/af79e2f5.ext.json)
-
----
-
-### Ex-Pakistan PM Imran Khan gets 10-year jail term for leaking state secrets
-
-*2024-01-30 13:33:00* · [`adaderanalk`](https://www.adaderana.lk/news/96851/ex-pakistan-pm-imran-khan-gets-10-year-jail-term-for-leaking-state-secrets) · `en`
-
-A Pakistan court handed former Prime Minister Imran Khan a 10-year jail term on Tuesday for leaking state secrets, the former premier’s media team said, his second conviction in recent months and just 10 days before the country’s general election.
-
-The case pertains to allegations that Khan had made public contents of a secret cable sent by the country’s ambassador in Washington to the government in Islamabad.
-
-Khan’s party, the Pakistan Tehreek-e-Insaf (PTI), said both Khan and former foreign minister Shah Mehmood Qureshi had been sentenced to 10 years each by a special court.
-
-It said the party would challenge the decision and called it a “sham case”.
-
-“We don’t accept this illegal decision,” Khan’s lawyer Naeem Panjutha posted on social media platform X, formerly Twitter.
-
-...
-
-[Data](articles/03892894.json)
-
-[Extended Data](ext_articles/03892894.ext.json)
-
----
-
-### Pakistani naval ship arrived in Sri Lanka
-
-*2024-01-30 13:31:00* · [`virakesarilk`](https://www.virakesari.lk/article/175148) · `ta`
-
-Pakistan's naval ship Saif arrived at the Port of Colombo on Tuesday (30).
-
-The Pakistani ship arrived in the port was welcomed by the Sri Lankan navy in accordance with naval traditions.
-
-Saif is a 123 -meter warship, which is managed by a group of 276, led by Captain Muhammad Ali.
-
-When the ship is in the port of Colombo, its employees will go to some tourist destinations in the country.
-
-After completing the visit, Pakistan's Saif ship will leave Sri Lanka on the first February 1st and will be trained in the Colombo Sea with the Sri Lankan Navy ship.
-
-◼️
-
-[Data](articles/153cbc26.json)
-
-[Extended Data](ext_articles/153cbc26.ext.json)
-
----
-
-### Toyota is the most consecutive year of vehicles
-
-*2024-01-30 13:29:48* · [`adalk`](https://www.ada.lk/breaking_news/අඛණ්ඩව-සිවුවැනි-වසරටත්-වැඩිම-වාහන-අලෙවියක්-කළ-සමාගම-බවට-ටොයෝටා-පත්වෙයි/11-407800) · `si`
-
-In 2023, the JVP's leader vehicle manufacturing company, Toyota, says that in 2023, the largest fortnings were the company that sold the highest number of auto units.
-
-Toyota has sold 11.23 million motor vehicle units worldwide in 2023. The amount of motor vehicle units that have been produced by the Dayhatu Motor Company under Toyota and the truck manufacturer Hdo has been included in this value.
-
-Toyota Group's autumn sales increased by 7.2 per cent. The Vox Wagon of Germany has been marketed in the world by selling 9.24 million auto units.
-
-The highest number of motor vehicle units sold in 2019 was 10.74 million units sold in 2019.
-
-◼️
-
-[Data](articles/e1e1eb73.json)
-
-[Extended Data](ext_articles/e1e1eb73.ext.json)
 
 ---

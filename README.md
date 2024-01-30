@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 23:02:26**
+As of **2024-01-30 23:17:02**
 
 ## Newspaper Stats
 
-*Scraped **3,627** Articles*
+*Scraped **3,630** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 216
 dailyftlk | 233
 adalk | 331
 virakesarilk | 401
-adaderanasinhalalk | 402
+adaderanasinhalalk | 405
 tamilmirrorlk | 459
 adaderanalk | 465
 dailymirrorlk | 495
@@ -26,11 +26,35 @@ dailymirrorlk | 495
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,626 (100.0%) of 3,627 articles have been extended.
+3,627 (99.9%) of 3,630 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
+
+### කොදෙව් යොවුන් කණ්ඩායමට ජය
+
+*2024-01-30 22:43:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192762) · `si`
+
+වයස අවුරුදු 19න් පහළ ලෝක කුසලාන ක්‍රිකට් තරගාවලියේ සුපිරි හය දෙනාගේ වටයේ සහභාගී වූ පළමු තරගයේදීම පරාජයේ අමිහිරි අත්දැකීම විඳගන්නට ශ්‍රී ලංකා කණ්ඩායමට සිදුවුණි.
+
+ඒ තියුණු සටනකින් පසුව බටහිර ඉන්දීය කොදෙව් කණ්ඩායම තරගය කඩුලු තුනකින් ජය ගැනීමත් සමගය.
+
+තරගයේ කාසියේ වාසිය දිනා ප්‍රථමයෙන් පන්දුවට පහරදීම සඳහා පිටියට පිවිසි ශ්‍රී ලංකා යොවුන් කණ්ඩායමේ මුල්පෙළ පිතිකරුවන්ට මූලික වටයේ තරග තුනේදී මෙන්ම අද තරගයේදීත් ශ්‍රී ලංකාවට සාර්ථක ආරම්භයක් ලබාදීමට නොහැකිවිය..
+
+මූලික වටයේදී මෙන්ම අදත් ශ්‍රී ලංකා කණ්ඩායමේ ගෞරවය ආරක්ෂා කිරීමට සමත් වූයේ දිනුර කළුපහන ඇතුළු මැදපෙළ පිතිකරුවන් පිරිසය.
+
+දිනුර කළුපහන මෙවර 19න් පහළ ලෝක කුසලාන තරගාවලියේදී වාර්තා කළ තුන්වන අර්ධ ශතකයත් සමගින් පන්දු 83කදී ලකුණු 53ක් රැස්කළේය.
+
+දිනුරට අනගි සහයක් ලබාදුන් මල්ෂ තරුපති පන්දු 38කදී හතරේ පහර 7ක් සමගින් රැස්කරගත් ලකුණු සංඛ්‍යාව 42කි.
+
+ඒ අනුව ශ්‍රී ලංකා යොවුන් කණ්ඩායම නියමිත පන්දුවාර 50දී සියලුදෙනා දැවී ලකුණු 231ක් රැස් කිරීමට සමත්විය.
+
+...
+
+[Data](articles/2a5a6eaa.json)
+
+---
 
 ### Pakistani naval ship SAIF docks at Colombo Port
 
@@ -49,6 +73,46 @@ Concluding the visit, PNS SAIF will leave the island on February 01 and conduct 
 ◼️
 
 [Data](articles/722b2be0.json)
+
+[Extended Data](ext_articles/722b2be0.ext.json)
+
+---
+
+### ප්‍රාදේශීය දේශපාලනඥයෙක් ව ඝාතනය කළ ඉන්දීය ජාතිකයින් පිරිසක් පෝරකය ට
+
+*2024-01-30 22:18:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192761) · `si`
+
+2021 වසරේදී ඉන්දියාවේ කේරළ ප්‍රාන්තයේදී ප්‍රාදේශීය දේශපාලනඥයෙක් ඝාතනය කළ බවට චෝදනා එල්ලවූ 15 දෙනෙකුට මරණීය දණ්ඩනය නියම කිරීමට එහි අධිකරණයක් අද (30) තීන්දු කළේය.
+
+ඉන්දීය මාධ්‍ය වාර්තා සඳහන් කළේ පාලක භාරතීය ජනතා පක්ෂයේ ප්‍රාදේශීය නායකයෙක් ඝාතනය කළ බවට එම පුද්ගලයින් වැරදිකරුවන් වී ඇති බවයි.
+
+රංජිත් ශ්‍රීනිවාසන් නම් එම ප්‍රාදේශීය නායකයාව ඔහුගේ මව, බිරිඳ සහ දියණිය බලා සිටියදී කපාකොටා ඝාතනය කර තිබුණි.
+
+"Popular Front of India" නම් මුස්ලිම් කණ්ඩායමක සාමාජිකයන් විසින් පළි ගැනීමක් ලෙස  ශ්‍රීනිවාසන් ව මරා දමා තිබූ බව මාධ්‍ය වාර්තාවල දැක්වෙයි.
+
+ආන්දෝලනාත්මක පිරිසක් ලෙස සැලකෙන එම කණ්ඩායම 2022දී ඉන්දීය බලධාරීන් විසින් තහනම් කළේය.
+
+◼️
+
+[Data](articles/f7e694ce.json)
+
+---
+
+### රාජ්‍ය පරිපාලන අමාත්‍යාංශයේ රැකියා පෙන්නා මුදල් ගැරූ ධම්මික අත්අඩංගුවට
+
+*2024-01-30 22:11:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192760) · `si`
+
+රාජ්‍ය පරිපාලන අමාත්‍යාංශයේ රැකියා ලබාදෙන බව පවසා රැකියා අපේක්ෂිත පුද්ගලයන් 14 දෙනෙකුගෙන් රුපියල් ලක්ෂ 42ක් වංචා සහගතව ලබාගෙන සාවද්‍ය ලෙස පරිහරණය කරන ලදැයි කියන සිද්ධියක් සම්බන්ධයෙන් අත්අඩංගුවට ගත් සැකකරුවකු පෙබරවාරි මස 13 වනදා දක්වා රක්ෂිත බන්ධනාගාර ගත කරන ලෙස කොළඹ ප්‍රධාන මහෙස්ත්‍රාත් ප්‍රසන්න අල්විස් මහතා අද (30) නියෝග කළේය.
+
+අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව මගින් අත්අඩංගුවට ගෙන සිටි ගනේමුල්ල ප්‍රදේශයේ පදිංචි හසිත ධම්මික නමැති පුද්ගලයකු එසේ රක්ෂිත බන්ධනාගාරගත කර තිබේ.
+
+රාජ්‍ය පරිපාලන අමාත්‍යාංශයේ රැකියා ලබාදෙන බව පවසා මොහු රැකියා අපේක්ෂිත පුද්ගලයන් 14 දෙනෙකුට ලිපි යවා ඇත්තේ එම අමාත්‍යාංශයේ ලිපි ශීර්ෂ ව්‍යාජ ලෙස සකස් කරමින් බවද CID ය අධිකරණයට දැන්වීය.
+
+2021 වසරේ දෙසැම්බර් මාසයේදී මොහු එම ලිපි යවා ඇති බවත් අදාළ රැකියා අපේක්ෂකයින් එම ලිපි රැගෙන එම අමාත්‍යාංශය වෙත ගිය අවස්ථාවේදී වංචාව හෙළිව ඇති බවද අපරාධ පරීක්ෂණ දෙපාර්තමේන්තුව අධිකරණය හමුවේ පැවසීය.
+
+...
+
+[Data](articles/0013c115.json)
 
 ---
 
@@ -1955,69 +2019,5 @@ They have been arrested on charges of abusing two female employees.
 [Data](articles/8bf13980.json)
 
 [Extended Data](ext_articles/8bf13980.ext.json)
-
----
-
-### People's difficulty with postpartum buses
-
-*2024-01-30 13:16:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/தோரண-பஸ்களால்-மக்கள்-சிரமம்/76-332339) · `ta`
-
-Other motorists and residents of Nuwara Eliya have accused the drivers of Nuwara Eliya that they are very difficult for the most light shapes and noise fiery buses.
-
-During the weekend holidays, a large number of buses traveling to Nuwara Eliya, in violation of motor vehicle regulations, bright light forms across the bus, loud sounds, louds and loudspeakers, and are conducting a show across Nuwara Eliya.. Patients, civilians and motorists living in the city and surrounding areas of Nuwara Eliya are greatly inconvenienced.
-
-The public is demanding that the Nuwara Eliya traffic police investigate the vehicles coming to Nuwara Eliya and take steps to implement the law against the owners and drivers of decorated vehicles in violation of the law.
-
-...
-
-[Data](articles/52c2893a.json)
-
-[Extended Data](ext_articles/52c2893a.ext.json)
-
----
-
-### Chip in the human brain;Elon Muskin
-
-*2024-01-30 13:16:00* · [`virakesarilk`](https://www.virakesari.lk/article/175143) · `ta`
-
-Elon Muskin Nearoling has begun testing the chip'i in the human brain, which creates the inter-brain connection to the brain and the computer to enable the thoughts designed by the company.
-
-The US Food and Drugs Control Administration last year has been admitted to the neuroling humans to be tested.
-
-Nearoling had carried out this test with monkeys a few years ago. Currently, the first man is fitted with the test.
-
-Elon Musk has officially announced this. Mask noted that the test was launched last Sunday and the person who was fitted with the chip was healthy.
-
-In addition, Elon Mask noted that the first medical report of the person undergoing the test showed his neuron spikes positive symptoms.
-
-Mask said the name of the first product of neeroling was telepathy. This telephone equipment is designed to control the phone and the system through thoughts.
-
-Elon Musk has also announced that the equipment will be provided for the use of those who have lost their hands and leg organs.
-
-...
-
-[Data](articles/d2f023ef.json)
-
-[Extended Data](ext_articles/d2f023ef.ext.json)
-
----
-
-### Cabinet approval to implement wind power project on Mannar Island
-
-*2024-01-30 13:15:00* · [`virakesarilk`](https://www.virakesari.lk/article/175145) · `ta`
-
-The Cabinet has approved the proposal submitted by Minister of Power and Power and Power Kanjana Wijesekara to implement the wind power project on the Mannar Island.
-
-At the Cabinet meeting held on 26.10.10.10.10.10.10.10.10.10.10.10.100.100.1010, 20.10.2010.Annar is the Cabinet of Ministers to implement a project to enhance the power supply by constructing 6 wind power machines under the Asian Development Bank Fund to implement a wind power station on Mannar Island.
-
-However, it is impossible to use the Asian Development Bank fund until the government's foreign credit reprimand program is implemented.
-
-Therefore, the Cabinet has approved the proposal submitted by the Minister of Power and Power in order to implement the project by the investors of the private sector selected under competitively selected private sector under the construction, exercise and implementation of the 20 -year period.
-
-◼️
-
-[Data](articles/0ebd891b.json)
-
-[Extended Data](ext_articles/0ebd891b.ext.json)
 
 ---

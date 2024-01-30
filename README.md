@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-30 13:02:19**
+As of **2024-01-30 13:17:15**
 
 ## Newspaper Stats
 
-*Scraped **3,489** Articles*
+*Scraped **3,491** Articles*
 
 newspaper | n
 --- | ---:
@@ -19,34 +19,66 @@ adalk | 313
 adaderanasinhalalk | 379
 virakesarilk | 380
 tamilmirrorlk | 442
-adaderanalk | 447
+adaderanalk | 449
 dailymirrorlk | 471
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,477 (99.7%) of 3,489 articles have been extended.
+3,489 (99.9%) of 3,491 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-30 (Tuesday)
 
-### சுதந்திர தின ஒத்திகை : 4 பராசூட் வீரர்கள் காயம் : இருவர் கட்டத்தின் மீது வீழ்ந்தனர் !
+### Three junior staffers of parliament arrested over abuse allegations
+
+*2024-01-30 12:50:00* · [`adaderanalk`](https://www.adaderana.lk/news/96849/three-junior-staffers-of-parliament-arrested-over-abuse-allegations) · `en`
+
+Three junior staff members of parliament have been arrested by the Child and Women’s Bureau of Police for allegedly abusing two female staff members.
+
+◼️
+
+[Data](articles/3652229a.json)
+
+---
+
+### Second court order issued against SJB rally, barring entrance to parts of Colombo
+
+*2024-01-30 12:43:00* · [`adaderanalk`](https://www.adaderana.lk/news/96848/second-court-order-issued-against-sjb-rally-barring-entrance-to-parts-of-colombo) · `en`
+
+Another court order was issued this morning (30 Jan.), preventing the Samagi Jana Balawegaya (SJB) supporters from entering parts of Colombo during its political rally due to be held later today.
+
+The relevant order was issued by the Colombo Fort Magistrate’s Court against the political party.
+
+As per the court order, the SJB rally from entering several areas in Colombo, including the Finance Ministry, the Presidential Secretariat, President’s House and Galle Face Green this evening.
+
+Earlier today, the Colombo Chief Magistrate issued an order against SJB Leader Sajith Premadasa, SJB General Secretary Ranjith Madduma Bandara, former MP Mujibur Rahman and several others, barring them from inconveniencing the public and pedestrians in parts of the Maligawatte police area during the planned political rally.
+
+◼️
+
+[Data](articles/e9838448.json)
+
+---
+
+### Independence Day Rehearsal: 4 Parasood soldiers injured: Two people fell on phase!
 
 *2024-01-30 12:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175135) · `ta`
 
-காலி முகத்திடலில் இடம்பெற்றுவரும் சுதந்திர தின ஒத்திகையின் போது பராசூட்கள் சரியாக விரியாததால் 4 பராசூட் வீரர்கள் கீழே விழுந்து காயமடைந்துள்ளனர்.
+During the Independence Day rehearsal in the Galle Face, 4 Parasood soldiers fell down and were injured.
 
-பராசூட் வீரர் இருவர்  கீழே வீழந்து  காயமடைந்ததுடன் மேலும் இருவர் கட்டிடத்தின் மீது வீழ்ந்துள்ளனர்.
+Two Parasood players fell down and were injured and two more fell on the building.
 
-இராணுவப் பேச்சாளர் மேஜர் ஜெனரல் கே.ஏ.என். ரசிக  குமார இது தொடர்பில்  தெரிவிக்கையில்,
+Military Speaker Major General KAN. Fan Kumara said in this regard,
 
-இந்தச் சம்பவத்தில் காயடமடைந்த வீரர்கள் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும், இதில் இரு வீரர்கள் இலங்கை விமானப்படையைச் சேர்ந்தவர்கள் எனவும், ஏனைய இருவரும் இலங்கை இராணுவத்தைச் சேர்ந்தவர்கள் எனவும் தெரிவித்தார்.
+He said that the wounded soldiers were admitted to the hospital, and the two players were from the Sri Lanka Air Force and the other two were from the Sri Lankan army.
 
 ◼️
 
 [Data](articles/cf86875a.json)
+
+[Extended Data](ext_articles/cf86875a.ext.json)
 
 ---
 
@@ -68,41 +100,49 @@ According to the Ministry of Public Security, the narcotics taken into custody d
 
 [Data](articles/797609d0.json)
 
+[Extended Data](ext_articles/797609d0.ext.json)
+
 ---
 
-### தேசிய மக்கள் சக்திக்கே தொடர்ந்தும் மக்கள் ஆதரவு -ஐஎச்பியின் கருத்துக்கணிப்பு
+### Continue People's Support for National People's Power -IHP's poll
 
 *2024-01-30 12:29:00* · [`virakesarilk`](https://www.virakesari.lk/article/175136) · `ta`
 
-2023 டிசம்பரில் தேசிய மக்கள் சக்திக்கு ஏனைய கட்சிகளை விட அதிகளவு ஆதரவு காணப்பட்டமை கருத்துக்கணிப்பொன்றின் மூலம் தெரியவந்துள்ளது.
+A poll revealed that in December 2023, the national people's power was more supportive than other parties.
 
-இன்ஸ்டியுட் ஒவ்ஹெல்;த் பொலிசி என்ற நிறுவனம் தேர்தலில் வாக்களிக்கும் நோக்கம் குறித்து வாக்களிக்க தகுதிபெற்றவர்கள் மத்தியில் மேற்கொண்ட கருத்துக்கணிப்பின் மூலம் இது தெரியவந்துள்ளது.
+This is revealed in a poll made by those who are eligible to vote for the purpose of voting in the Institute of Police.
 
-தேசிய மக்கள் சக்திக்கு 39 வீதமானவர்கள் தங்கள் ஆதரவை வெளியிட்டுள்ளனர் ஐக்கிய மக்கள்சக்திக்கு 27 வீதமானவர்கள் தங்கள் ஆதரவை வெளியிட்டுள்ளனர்.
+39 percent of the national people's power has expressed their support.
 
-ஜனாதிபதி ரணில்விக்கிரமசிங்கவின்  ஐக்கியதேசிய கட்சியிக்கு ஆறுவீத ஆதரவும ஸ்ரீலங்கா பொதுஜனபெரமுனவிற்கு பத்து வீத ஆதரவும் காணப்படுவதை கருத்துக்கணிப்பு வெளிப்படுத்தியுள்ளது.
+The poll has revealed that the six -member support for President Ranil Wickremesinghe's United National Party and the Sri Lanka PA is ten percent support.
 
-தேசிய மக்கள் சக்திக்கான ஆதரவு 2022 முதல் அதிகரித்து வருவதை இந்த கருத்துக்கணிப்பு புலப்படுத்துகின்றது ஐக்கிய மக்கள் சக்தியும் தனது ஆதரவை அதிகரித்துள்ளது ஆனால் மந்தகதியில் இந்த ஆதரவு அதிகரிப்பு காணப்படுகி;ன்றதுஎன  கருத்துக்கணிப்பினை மேற்கொண்ட அமைப்பு தெரிவித்துள்ளது.
+The poll has revealed that the support of the national people's power has increased since 2022, the United People's Power has also increased its support but the increase in support in the recession said.
 
-...
+The United National Party (UNP) has said that the United National Party's support for the United National Party continues to decline since 2022.
+
+◼️
 
 [Data](articles/92cf9558.json)
 
+[Extended Data](ext_articles/92cf9558.ext.json)
+
 ---
 
-### மார்ச் முதல் யாழ்.போதனா மருத்துவ கழிவு எரியூட்டி இயங்கும் - பணிப்பாளர் வைத்தியர் சத்தியமூர்த்தி
+### Jaffna Bodhana Medical Waste Fuel from March
 
 *2024-01-30 12:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175127) · `ta`
 
-யாழ்ப்பாணம் போதனா வைத்தியசாலை மருத்துவ கழிவுகளை எரியூட்டுவதற்கான எரியூட்டி எதிர்வரும் மார்ச் மாதம் முதல் ஆரம்பமாகும் என யாழ்.போதனா வைத்தியசாலை பணிப்பாளர் த. சத்திய மூர்த்தி தெரிவித்துள்ளார்.
+The Director of Jaffna Hospital, Jaffna Hospital, Jaffna Hospital. Sathya Murthy said.
 
-வைத்தியசாலை மருத்துவ கழிவுகளை எரியூட்ட கோம்பயன் மணல் மயானத்தில், ஐக்கிய நாடுகள் அபிவிருத்தி செயற்திட்டத்தின் 40 மில்லியன் ரூபாய் நிதி பங்களிப்பில் எரியூட்டி நிர்மாணிக்கப்பட்டு வருகிறது. அதன் பணிகள் பூர்த்தியாகும் நிலையை அடைந்துள்ளது.
+The United Nations Development Project is being erected with a sum of Rs.. Its work has reached its completion.
 
-எதிர்வரும் வரும் மார்ச் மாதம் முதல் எரியூட்டி தொழிற்பட தொடங்கும் என பணிப்பாளர் தெரிவித்தார்.
+The Director said that the fire will begin to work from next March.
 
 ◼️
 
 [Data](articles/d82f4de9.json)
+
+[Extended Data](ext_articles/d82f4de9.ext.json)
 
 ---
 
@@ -136,21 +176,23 @@ A press conference to inform the Cabinet decisions has been launched in the Info
 
 ---
 
-### மிதவைக்குடை வீரர் காயம்: இருவர் கட்டடத்தில் இறங்கினர்
+### Flood player injury: Two people landed in the building
 
 *2024-01-30 11:53:01* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மிதவைக்குடை-வீரர்-காயம்-இருவர்-கட்டடத்தில்-இறங்கினர்/175-332334) · `ta`
 
-இலங்கையின் 76 ஆவது சுதந்திர தினத்தின் பிரதான வைபவம்,  கொழும்பு காலி முகத்திடலில் நடத்துவதற்கான ஏற்பாடுகள் முன்னெடுக்கப்பட்டுள்ளன.
+Arrangements have been made to hold the main ceremony of Sri Lanka's 76th Independence Day at the Galle Face of Colombo.
 
-இதற்கான ஒத்திகைகள் இன்றும் முன்னெடுக்கப்பட்டன. காலி முகத்திடல் வீதி, பொதுப்போக்குவரத்துக்கு முற்றாக தடைச்செய்யப்பட்டு, ஒத்திகைகள் இடம்பெறுகின்றன.
+The rehearsals for this were carried out today. The Galle Facial Road is completely restricted to public transport and rehearsals.
 
-இந்நிலையில், ஒத்திகையில் பங்கேற்றிருந்த மிதவைக்குடை (பராசூட்) வீரர்களில் ஒருவர், பராசூட்டில் இருந்து இறங்கும் போது காயங்களுக்கு உள்ளாகியுள்ளார்.
+In this case, one of the Parasood (Parasood) players who participated in the rehearsal, suffered injuries while descending from Parasood.
 
-இராணுவப் பேச்சாளர் மேஜர் ஜெனரல் கே.ஏ.என். ரசிக குமார தெரிவிக்கையில் பராசூட் வீரர்களில் ஒருவர்  ஒருவர் வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளதாகவும், ஏனைய இரு படையினரை மீட்பதற்கான முயற்சிகள் மேற்கொள்ளப்பட்டு வருவதாகவும் தெரிவித்தார்.
+Military Speaker Major General KAN. Fan Kumara said that one of the Parasood players has been admitted to the hospital and that the other two soldiers are being rescued.
 
 ◼️
 
 [Data](articles/aa946af8.json)
+
+[Extended Data](ext_articles/aa946af8.ext.json)
 
 ---
 
@@ -167,6 +209,8 @@ The four paratroopers reportedly suffered minor injuries after their parachutes 
 ◼️
 
 [Data](articles/5dc5cc91.json)
+
+[Extended Data](ext_articles/5dc5cc91.ext.json)
 
 ---
 
@@ -230,31 +274,35 @@ Hyde Park, Panchikawatte Are Starting Points for SJB’s Big Colombo Protest
 
 ---
 
-### இலங்கையில் ஊழலில் ஈடுபடுபவர்களின் பட்டியலில் முதலிடத்தில் பொலிஸார் : இரண்டாமிடத்தில் எம்.பி.க்கள்..!
+### Police in Sri Lanka's list of corrupt corruption: MPs in second place ..!
 
 *2024-01-30 11:35:00* · [`virakesarilk`](https://www.virakesari.lk/article/175124) · `ta`
 
-இலங்கையில் அதிகம் இலஞ்ச ஊழல் நடவடிக்கைகளில் ஈடுபடும் பிரிவாக இலங்கை பொலிஸ் துறை காணப்படுவதாக பேராதனை பல்கலைக்கழக ஆய்வொன்று  கூறுகின்றது. நாட்டின் சட்டம் ஒழுங்கை காக்கும் உயரிய சேவையில் ஈடுபட்டுள்ள இத்துறையினர் இதில் முதலிடத்தைப் பிடித்திருப்பது ஆச்சரியமான விடயமல்ல என்றும் சுட்டிக்காட்டப்பட்டுள்ளது. அதே போன்று அதிக ஊழலில்  ஈடுபடுவர்களில் இரண்டாமிடத்தை நாடாளுமன்ற உறுப்பினர்கள் பெற்றுள்ளனர். மக்களால் தெரிவு செய்யப்பட்டு நாடாளுமன்றில் அங்கம் வகிக்கும் இவர்கள் பல சலுகைகளையும் பெறும் நபர்களாக உள்ளனர். அப்படியிருந்தும் அவர்கள்  ஊழல் நிறைந்தவர்களாகவே உள்ளதாக  சுட்டிக்காட்டப்பட்டுள்ளது. பேராதனை பல்கலைக்கழக பொருளியல் துறை பேராசிரியர்கள் இருவர் இணைய வழியில் ஐந்நூறு பேரிடம் திரட்டிய தகவல்களில் அடிப்படையில் இந்த விடயங்கள் வெளிப்பட்டுள்ளன.
+The Sri Lankan Police Department is seen as the most involved in bribery activities in Sri Lanka, according to a study at Peradeniya University.. It is not surprising that the people who have been involved in the high service to protect the country's law and order.. Similarly. They are elected by the people and are a member of Parliament who are many concessions. It has been pointed out that they are corrupt. These issues have been revealed based on information that two professors of the University of Peradeniya University of Economics have accumulated on the Internet.
 
 ◼️
 
 [Data](articles/8d810601.json)
 
+[Extended Data](ext_articles/8d810601.ext.json)
+
 ---
 
-### ஐ.ம.ச கொழும்பில் எதிர்ப்பு ஆர்ப்பாட்டம்
+### Opposition demonstration in Colombo
 
 *2024-01-30 11:33:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஐ-ம-ச-கொழும்பில்-எதிர்ப்பு-ஆர்ப்பாட்டம்/175-332333) · `ta`
 
-ஐக்கிய மக்கள் சக்தி இன்றைய தினம் (30) கொழும்பில் எதிர்ப்பு ஆர்ப்பாட்டமொன்றை முன்னெடுக்கவுள்ளது.
+The United People's Power will launch a protest in Colombo today (30).
 
-மக்கள் எதிர்கொள்ளும் பிரச்சினைகளுக்கு தீர்வு வழங்குமாறு அரசாங்கத்தை வலியுறுத்தி குறித்த எதிர்ப்பு ஆர்ப்பாட்டம் முன்னெடுக்கப்படவுள்ளது.
+A protest will be held on the urging the government to address the problems faced by the people.
 
-கொழும்பு ஹைட் பார்க் மைதானம் மற்றும் பஞ்சிகாவத்தையில் இன்று(30) பிற்பகல் 1.30 க்கு எதிர்ப்பு ஆர்ப்பாட்டம் ஆரம்பமாகவுள்ளதாக ஐக்கிய மக்கள் சக்தியின் பொதுச் செயலாளர் ரஞ்சித் மத்தும பண்டார தெரிவித்துள்ளார்.
+United People's Power Secretary Ranjith Mathuma Bandara has said that the protest will commence at 1.30 pm today at the Hyde Park Ground in Colombo and Panjikawatte.
 
 ◼️
 
 [Data](articles/e5ac2b16.json)
+
+[Extended Data](ext_articles/e5ac2b16.ext.json)
 
 ---
 
@@ -300,21 +348,29 @@ All SJB leaders, together with its allies, are expected to participate in the ra
 
 ---
 
-### ஜோர்தான் தாக்குதலிற்கு பின்னர் கடும் அழுத்தத்தில் பைடன் - பதில் தாக்குதல் மிகவும் உக்கிரமானதாக காணப்படும் - சிஎன்என்
+### Bitton under heavy pressure after Jordan attack
 
 *2024-01-30 11:23:00* · [`virakesarilk`](https://www.virakesari.lk/article/175126) · `ta`
 
-ஜோர்தானில்  உள்ள அமெரிக்க தளம் மீது மேற்கொள்ளப்பட்ட ஆளில்லா விமானதாக்குதலிற்கான அமெரிக்காவின் பதிலடி முன்னர் ஒருபோதும் இல்லாத அளவிற்கு உக்கிரமானதாகயிருக்கலாம் என சிஎன்என் செய்தி வெளியிட்டுள்ளது.
+CNN has reported that the United States's retaliation for unmanned air strikes on the US base in Jordan may have never been fierce.
 
-ஈராக் சிரியா மீது அமெரிக்கா முன்னர் மேற்கொண்ட தாக்குதலை விட  இம்முறை இடம்பெறவுள்ள தாக்குதல் உக்கிரமானதாகயிருக்கலாம் என அதிகாரியொருவர் தெரிவித்துள்ளார்.
+The official said the attack on Iraq could be more intense than the US attack on Syria.
 
-எனினும் பென்டகனும் வெள்ளை மாளிகையும் இதுவரை தங்கள் திட்டங்களை வெளிவிடவில்லை இது குறித்து எச்சரிக்கையுடன் உள்ளன எனவும் சிஎன்என் தெரிவித்துள்ளது.
+However, the Pentagon and the White House have not yet released their plans, CNN said.
 
-ஜோபைடன்  மத்திய கிழக்கில் உள்ள அமெரிக்க தளங்கள் மீதான தாக்குதல்களை நிறுத்துவதற்காக பதில் நடவடிக்கையில் ஈடுபடவேண்டும் என்ற கடும் அழுத்தத்திற்குள்ளாகியுள்ளார் - ஒக்டோபர் ஏழாம் திகதிக்கு பின்னர் ஈராக் சிரியாவில் உள்ள அமெரிக்க தளங்கள் மீது ஈரான் சார்பு குழுக்கள் 160 தடவைகளிற்கு மேல் தாக்குதல்களை மேற்கொண்டுள்ளன  எனவும் சிஎன்என் தெரிவித்துள்ளது.
+CNN also said that Iranian groups have launched 160 attacks on US bases in Syria in Iraq after the seventh of October to stop the attack on US bases in the Middle East.
 
-...
+CNN said many Republican MPs have requested that Iran be attacked to report the most clear news.
+
+CNN said Joe Bidan was a major challenge to how to respond to the flax and the flames that killed the most US soldiers after the seventh of October.
+
+Most US soldiers have been killed in the current attack after 13 US soldiers were killed in the attack in Abegate when US soldiers left Afghanistan.
+
+◼️
 
 [Data](articles/7c3af846.json)
+
+[Extended Data](ext_articles/7c3af846.ext.json)
 
 ---
 
@@ -336,23 +392,25 @@ Accordingly, the respondents and their followers are prohibited from the Maliwat
 
 ---
 
-### முல்லைத்தீவு மாத்தளன் கடலில் அலையால் அள்ளுண்டுசெல்லப்பட்ட குடும்பஸ்தரின் சடலம் மீட்பு குடும்பஸ்தரின் சடலம்  மீட்பு
+### The body of a family member who was thrown by a wave in the Mullaitivu Matalan Sea
 
 *2024-01-30 11:19:00* · [`virakesarilk`](https://www.virakesari.lk/article/175118) · `ta`
 
-முல்லைத்தீவு மாத்தளன் கடலில் நீராடச் சென்ற இளம் குடும்பஸ்தரின் சடலம் நேற்று திங்கட்கிழமை (29) சாலை கடற்பகுதியில் கரையொதுங்கியுள்ளது.
+The body of a young family member who was drowned in the Mullaitivu Matalan Sea was on Monday (29).
 
-முல்லைத்தீவு மாத்தளன் பகுதி கடற்கரையில் நேற்றையதினம் மாலை குடும்பத்தினருடன் கடலில் நீராடிக்கொண்டிருந்த வேளை குறித்த குடும்பஸ்தர் அலையால் அள்ளுண்டு செல்லப்பட்டு நீரில் மாயமாகியிருந்தார்.
+The family of the Mullaitivu Matalan area yesterday evening, the family of the family was drowned in the sea with the family.
 
-இந்த சம்பவத்தினை தொடர்ந்து தேடுதல் நடாத்தியும் சடலம் கண்டுபிடிக்கமுடியாத நிலையில் நேற்றைய தினம் மாலை குறித்த குடும்பஸ்தரின் சடலம்  சாலை கடற்கரைப்பகுதியில் கரையொதுங்கியுள்ளது.
+Following the incident, the body of a family member was found on the coast of the road yesterday evening.
 
-குறித்த சம்பவத்தில் 33 அகவையுடைய 10 ஆம் வட்டாரம் புதிய குடியிருப்பினை சேர்ந்த இராசதுரை கஸ்தூரன் என்ற இளம் குடும்பஸ்தரே இவ்வாறு உயிரிழந்துள்ளார்.
+The death of a young family member of Rasadurai Kasturan, a new residence of the 33 -year -old area of the 33 -year -old.
 
-சம்பவ இடத்திற்கு சென்று விசாரணைகளை ஆரம்பித்த முல்லைத்தீவு மாவட்ட நீதிபதி தர்மலிங்கம் பிரதீபன் பிரேத பரிசோதனையினை மேற்கொண்ட பின்னர் உறவினர்களிடம் ஒப்படைக்க உத்தரவிட்டிருந்தார்.
+Mullaitivu District Judge Dharmalingam Pradeepan had ordered the relatives to be handed over to the relatives after the autopsy.
 
 ◼️
 
 [Data](articles/a16f6dd4.json)
+
+[Extended Data](ext_articles/a16f6dd4.ext.json)
 
 ---
 
@@ -458,19 +516,21 @@ The Volkswage Group of Germany has been placed second with the sale of 9.2 milli
 
 ---
 
-### யுத்த குற்றங்கள் இடம்பெற்றதை  மறுக்கும் ஒருவரை ஆலோசகராக நியமித்துள்ள ஐக்கிய மக்கள் சக்தி - அம்பிகா சற்குணநாதன் கடும் விசனம்
+### United People's Shakti - Ambika Sakthunanathan has appointed a consultant who denies war crimes
 
 *2024-01-30 10:56:00* · [`virakesarilk`](https://www.virakesari.lk/article/175121) · `ta`
 
-யுத்த குற்றங்கள் இடம்பெற்றதை  மறுக்கும் ஒருவரை ஆலோசகராக ஐக்கியமக்கள் சக்தி நியமித்துள்ளமை குறித்துலெப்டினன் ஜெனரல் தயா ரத்நாயக்க) இலங்கை மனித உரிமை ஆணைக்குழுவின் முன்னாள் ஆணையாளர் அம்பிகா சற்குணநாதன் டுவிட்டரில் கடும் விமர்சனத்தை முன்வைத்துள்ளார்.
+Former Commissioner of Human Rights Commission of Sri Lanka, Ambika Sakthunanathan, has criticized Twitter on Twitter that the United Nations has appointed a united power consultant as a consultant for war crimes.
 
-ஐக்கிய மக்கள் சக்தி யுத்த குற்றங்கள் இடம்பெற்றதை மறுக்கும் ஒருவரை ஆலோசகராக நியமித்துள்ளதுடன்  மனிதாபிமான நடவடிக்கைகள் என்ற பதத்தை பயன்படுத்தியிருப்பது இலங்கையின் உள்நாட்டு யுத்தத்தின் போது யுத்த குற்றங்கள் இடம்பெறவி;ல்லை எனவும் எவரையும் பொறுப்புக்கூறலிற்கு உட்படுத்த வேண்டியதில்லை எனவும்  அந்த கட்சி கருதுவதை வெளிப்படுத்தியுள்ளது என அம்பிகா சற்குணநாதன் தெரிவித்துள்ளார்
+Ambika Sakthunanathan says that the party has appointed a person who denies the war crimes of the United People's Power and the use of the term "humanitarian actions" and that the party does not have war crimes during Sri Lanka's civil war, and that no one has to be held accountable.
 
-தென்னிலங்கையின் அனைத்து கட்சிகளும் இந்த விடயத்தில் ஒரே மாதிரியான நிலைப்பாட்டை கொண்டுள்ளன எனவும் அவர் குறிப்பிட்டுள்ளார்.
+He added that all parties in South Sri Lanka have the same position on this issue.
 
 ◼️
 
 [Data](articles/6cea6200.json)
+
+[Extended Data](ext_articles/6cea6200.ext.json)
 
 ---
 
@@ -542,19 +602,21 @@ The Attorney General had indicted him for rape and causing serious abnormal sex 
 
 ---
 
-### மக்களும் கட்சியும் விரும்பினால் அரசியலில் ஈடுபடுவது தொடர்பில் பரிசீலிக்கலாம் :  சனத் நிஷாந்தவின் மனைவி!
+### People and the party can consider engaging in politics if they wish: Sanath Nishantha's wife!
 
 *2024-01-30 10:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175120) · `ta`
 
-தமக்கு அரசியலில் பிரவேசிக்கும் நோக்கம்  இல்லையென்றாலும், தனது கணவரின் மறைவினால் வெற்றிடமாகியுள்ள  பதவியை ஏற்குமாறு புத்தளம் மக்களும் கட்சியும் தம்மிடம் கோரிக்கை விடுத்தால் எதிர்காலத்தில் அது குறித்து பரிசீலிக்கலாம் என மறைந்த இராஜாங்க  அமைச்சர் சனத் நிஷாந்தவின் மனைவி தெரிவித்துள்ளார்.
+The wife of the late State Minister Sanath Nishantha has said that even if she does not have the intention of entering politics, the Puttalam people and the party can consider it in the future if they require them to accept the vacant post due to her husband's death.
 
-அண்மையில் அதிக வீதியில் இடம்பெற்ற வாகன விபத்தில் உயிரிழந்த இராஜாங்க அமைச்சர்  சனத் நிஷாந்தவின் பாதுகாப்பு உத்தியோகத்தர் பொலிஸ் சார்ஜன்ட் அநுராதா ஜயக்கொடியின் வீட்டுக்குச் சென்ற சட்டத்தரணி சாமரி பிரியங்கா பெரேரா,  ஊடகவியலாளர்கள் முன்னிலையில் இதனைக் குறிப்பிட்டுள்ளார்.
+Attorney -at -Law Samari Priyanka Perera, who went to the home of the security officer of the Minister of Police Sanath Nishantha, who died in a recent road accident, made this statement in the presence of journalists.
 
-எனது கணவர்  புத்தளம் மாவட்டத்துக்கும்  நாட்டு மக்களுக்கும் பெரும் சேவையாற்றினார்.  அவரைத் தேடி வந்த எவரும் வெறுங்கையுடன் திரும்பியதில்லை என்றும் அவர் தெரிவித்துள்ளார்.
+My husband served the Puttalam district and the people of the country.He said that no one who was looking for him had returned empty -handed.
 
 ◼️
 
 [Data](articles/06080469.json)
+
+[Extended Data](ext_articles/06080469.ext.json)
 
 ---
 
@@ -1951,37 +2013,5 @@ The release adds: ‘The large foreign earnings portfolio and foreign asset base
 [Data](articles/de8a8f8d.json)
 
 [Extended Data](ext_articles/de8a8f8d.ext.json)
-
----
-
-### St. Anthony’s Hardware launches HYDROMAX: high-quality water pumps
-
-*2024-01-29 22:41:00* · [`islandlk`](http://island.lk/st-anthonys-hardware-launches-hydromax-high-quality-water-pumps/) · `en`
-
-St. Anthony’s Hardware (Pvt) Ltd, a trusted name in the construction industry introduced the Hydromax water pump. This new addition aims to address the existing gap in the market for affordable, high-quality and reliable water pumps.
-
-The Hydromax water pump boasts a powerful and quiet induction motor, 100% copper winding, corrosion-resistant impeller, and carbon and ceramic water seals, all crafted using cutting-edge European technology. The product has undergone stringent lab testing that confirmed a 100% success rate across all functions of the water pump, providing the assurance needed for a confident product launch. Hydromax pumps have a higher head max (M) and max flow (Lts/min) than most of the established players in the market.
-
-...
-
-[Data](articles/23a4554f.json)
-
-[Extended Data](ext_articles/23a4554f.ext.json)
-
----
-
-### Debt restructuring issues continue to hamper share trading
-
-*2024-01-29 22:37:00* · [`islandlk`](http://island.lk/debt-restructuring-issues-continue-to-hamper-share-trading/) · `en`
-
-Stock market trading lacked lustre yesterday as the market witnessed huge selling pressure. Apparently, the absence of a proper process for 2024 with regard to the external debt restructuring exercise, particularly for sovereign bond holders, caused a dip in the market, analysts said.
-
-Both indices moved downwards. The All- Share Price Index went down by 38.4 points, while the S and P SL20 declined by 17.17 points. Turnover amounted to Rs 590 million without any crossings.
-
-...
-
-[Data](articles/240be999.json)
-
-[Extended Data](ext_articles/240be999.ext.json)
 
 ---

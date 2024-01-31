@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 21:51:30**
+As of **2024-01-31 22:03:19**
 
 ## Newspaper Stats
 
-*Scraped **3,924** Articles*
+*Scraped **3,927** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,20 +17,60 @@ dailyftlk | 243
 newsfirstlk | 247
 adalk | 349
 virakesarilk | 440
-adaderanasinhalalk | 450
+adaderanasinhalalk | 452
 adaderanalk | 495
-tamilmirrorlk | 501
+tamilmirrorlk | 502
 dailymirrorlk | 534
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,924 (100.0%) of 3,924 articles have been extended.
+3,927 (100.0%) of 3,927 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Fuel prices will change from midnight today
+
+*2024-01-31 21:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192812) · `si`
+
+The Ceylon Petroleum Corporation has decided to revise the fuel prices to be operated from midnight today.
+
+Accordingly, the 92 petrol has decided to increase the 92 rupees and the new price is Rs. 371.
+
+The price of Lanka white diesel has been increased by Rs. 363.
+
+Lanka kerosene price has been increased by Rs 262.
+
+Meanwhile, the price of a liter of 40 Octane 85 octane 85 Octane 85 Octane Uro 4 has been reduced by Rs. 456.
+
+The price of a liter of Lanka Super Diesel 4 of Sri Lanka has also reduced the price of 4 rupees.
+
+◼️
+
+[Data](articles/7a6b9985.json)
+
+[Extended Data](ext_articles/7a6b9985.ext.json)
+
+---
+
+### The fee for the passport has doubled
+
+*2024-01-31 21:17:20* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கடவுச்சீட்டுக்கான-கட்டணம்-இரு-மடங்காக-உயர்ந்தது/175-332441) · `ta`
+
+The Department of Immigration and Emigration has issued a report that the fares for the passport have been increased from February 1.
+
+According to the Immigration and Emigration Controller, the fee for issuing passports under normal service will be increased from Rs 5,000 to Rs 10,000.
+
+◼️
+
+[Data](articles/ae0a1ca8.json)
+
+[Extended Data](ext_articles/ae0a1ca8.ext.json)
+
+---
 
 ### New Serjeant-at-Arms of Parliament appointed
 
@@ -355,6 +395,26 @@ The National Geographic recently announced their picks for ‘BEST OF THE WORLD 
 [Data](articles/1653280d.json)
 
 [Extended Data](ext_articles/1653280d.ext.json)
+
+---
+
+### Narammala Police officer remanded again
+
+*2024-01-31 19:37:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192810) · `si`
+
+The police officer who was arrested regarding Narammala shooting incident has been produced before the Narammala Mahamatha Magistrate today (31).
+
+He was ordered to be remanded until January 31.
+
+The Kuliyapitiya Criminal Investigation Unit is conducting further investigations.
+
+A lorry was chased by a lorry and stopped the lorry, the Tarifker of the Truris Inspector was shot dead by the lorry driver.
+
+◼️
+
+[Data](articles/47117e04.json)
+
+[Extended Data](ext_articles/47117e04.ext.json)
 
 ---
 
@@ -1987,69 +2047,5 @@ This order was issued when the relevant petitions filed by Attorney-at-Law Priya
 [Data](articles/b8452319.json)
 
 [Extended Data](ext_articles/b8452319.ext.json)
-
----
-
-### A person arrested for steal thousands of ⁣Tjc mangoes worth Rs.
-
-*2024-01-31 15:10:21* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-දොළහක්-වටිනා-⁣TJC-අඹ-ගෙඩි-දාහක්-සොරකම්-කළ-පුද්ගලයෙකු-අත්අඩංගුවට/11-407823) · `si`
-
-Tissawala in stone police, TJC exceeded Rs.. A person was arrested on suspicion that 6000 kg of mangoes were stolen.
-
-The suspect was arrested following a complaint lodged with a complaint lodged at the Perawatta, Deepthigama, Galkadawala.
-
-The victim is a resident of the Ilippunge area, Ihalapattuwa.
-
-The complaint states that the father was taken into custody and had been adopted by the father of his father and was adopted by the father of his father and was adopted by the father of her father.
-
-The complaint has been identified as the father was found in the event of a time when his father was hospitalized and later saw the value of mango.
-
-The suspect was to be produced before the Anuradhapura Magistrate's Court today (31).A group of officers of the Alapetuwa police officers arrested the suspect.
-
-◼️
-
-[Data](articles/717a5c67.json)
-
-[Extended Data](ext_articles/717a5c67.ext.json)
-
----
-
-### Biyat Nikeshla released on bail
-
-*2024-01-31 15:09:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பியத்-நிகேஷல-பிணையில்-விடுதலை/175-332416) · `ta`
-
-The court today (31) ordered the release of the arrested social activist Piyat Nikeshla on bail.
-
-Social activist Piyath Nikeshla was arrested on Monday (29) by the Criminal Investigation Division of the Criminal Investigation Department.
-
-Police said they had arrested Piyat Nikeshla on charges of disrupting the peace of the public, the public dissatisfaction with the government, and the publication of the public.
-
-◼️
-
-[Data](articles/703f1a36.json)
-
-[Extended Data](ext_articles/703f1a36.ext.json)
-
----
-
-### 5 fishermen arrested for fishing using banned traction lap
-
-*2024-01-31 15:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175239) · `ta`
-
-Five fishermen have been arrested for using a banned traction lap at the Vidal Island beach in the Manthai West Divisional Secretariat Division.
-
-It has been revealed that the arrested persons are from Erukkalampitti and Uppukkulam.
-
-Fishermen were arrested on Monday night (29) by the Department of Fisheries and Fisheries Department.
-
-In this case, the fishermen and nets have been handed over to the Mannar Fisheries Department officials for further action.
-
-Officials of the Mannar District Fisheries Department will be produced before the Mannar Court for further action after investigations.
-
-◼️
-
-[Data](articles/c80908a3.json)
-
-[Extended Data](ext_articles/c80908a3.ext.json)
 
 ---

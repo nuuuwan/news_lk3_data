@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 07:15:50**
+As of **2024-01-31 07:31:18**
 
 ## Newspaper Stats
 
@@ -26,31 +26,33 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,670 (99.9%) of 3,672 articles have been extended.
+3,672 (100.0%) of 3,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
+### Showers over 75mm
 
 *2024-01-31 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192763) · `si`
 
-දිවයිනේ බොහෝ ප්‍රදේශවල උදෑසන කාලයේදී වලාකුළු සහිත අහසක් අපේක්ෂා කළ හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+The Department of Meteorology announces that in many parts of the island, the Department of Meteorology announces the cloudy sky.
 
-නැගෙනහිර, ඌවසහ උතුරු මැද පළාත්වලත් මුලතිව් සහ මාතලේ දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවේ.
+Showers will occur at times in the Eastern, Ugawasa North Central provinces in Mullaitivu and Matale districts.
 
-දිවයිනේ සෙසු ප්‍රදේශවල ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+At the rest of the island. Showers or thundershowers will occur at several times after 2.
 
-ඌව, සබරගමුව සහ මධ්‍යම පළාත්වලත් අම්පාර දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 75 ක පමණ තරමක තද වැසි ඇතිවිය හැක.
+In some places in the Uva, Sabaragamuwa and Central provinces, mm.. Heavy rains can occur about 75 times.
 
-මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+In some places, in some places in the Central, Sabaragamuwa and Uva provinces, are expected in the Galle and Matara districts.
 
-ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+The Department of Meteorology has requested the public to take necessary steps to reduce temporary winds and lightning accidents with thunderstorms.
 
 ◼️
 
 [Data](articles/7853722b.json)
+
+[Extended Data](ext_articles/7853722b.ext.json)
 
 ---
 
@@ -126,19 +128,21 @@ Adani Power Ltd., (APL), a part of Adani portfolio companies, recently announced
 
 ---
 
-### 10 ஆயிரம் காணி உறுதிகளை வழங்க நடவடிக்கை
+### Action to provide 10 thousand land confirmations
 
 *2024-01-31 03:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ஆயிரம்-காணி-உறுதிகளை-வழங்க-நடவடிக்கை/175-332383) · `ta`
 
-மக்களின் காணி உரிமையை உறுதிப்படுத்தும் வகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக்கருவிற்கமைய, 'உரித்து' வேலைத்திட்டத்தின் கீழ் 10 ஆயிரம் காணி உறுதிப் பத்திரங்கள் வழங்குவதற்கான ஏற்பாடுகள் பூர்த்தி செய்யப்பட்டுள்ளன.
+According to President Ranil Wickremesinghe's concept to ensure the people's land rights, arrangements have been made to issue 10 thousand land guarantees under the 'Urithu' program.
 
-மேற்படி காணி உறுதிப் பத்திரங்கள் தற்போதும் பிரதேச செயலகங்களுக்கு அனுப்பி வைக்கப்பட்டுள்ளன என சுற்றுலா மற்றும் காணி அமைச்சின் செயலாளர் எச்.எம்.பீ.பீ ஹேரத் தெரிவித்துள்ளார்.
+The Ministry of Tourism and Lands, HMPP Herath, said that these land guarantees have been sent to the Divisional Secretariats.
 
-ஜனாதிபதி செயலகத்தின் அதிகாரிகள், மாவட்டச் செயலாளர்கள், பிரதேச செயலாளர்களுடன் நேற்று தொழில்நுட்ப முறைமையினூடாக இடம்பெற்ற கலந்துரையாடலில் மேற்படி விடயம் குறிப்பிடப்பட்டது. (a)
+This was stated in a discussion held yesterday with the Presidential Secretariat, District Secretaries and Divisional Secretaries through the Technical System. (A)
 
 ◼️
 
 [Data](articles/e81ada0b.json)
+
+[Extended Data](ext_articles/e81ada0b.ext.json)
 
 ---
 

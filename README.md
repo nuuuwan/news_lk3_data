@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 17:17:12**
+As of **2024-01-31 17:33:22**
 
 ## Newspaper Stats
 
-*Scraped **3,837** Articles*
+*Scraped **3,840** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,19 +18,51 @@ dailyftlk | 243
 adalk | 343
 adaderanasinhalalk | 435
 virakesarilk | 437
-adaderanalk | 486
-tamilmirrorlk | 492
+adaderanalk | 487
+tamilmirrorlk | 494
 dailymirrorlk | 518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,837 (100.0%) of 3,837 articles have been extended.
+3,837 (99.9%) of 3,840 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Health sector trade unions to launch strike tomorrow
+
+*2024-01-31 16:53:00* · [`adaderanalk`](https://www.adaderana.lk/news/96890/health-sector-trade-unions-to-launch-strike-tomorrow) · `en`
+
+At least 72 health sector trade unions, excluding doctors’ unions, will launch an island-wide strike from 6.30 a.m. tomorrow (01 February), demanding the Disturbance, Availability and Transport (DAT) allowance.
+
+Although the President had promised to hold talks with them regarding the allowances, soon after returning from his recent official overseas tour, the health workers said they have yet to meet with the Head of State for discussions.
+
+On January 08, the Cabinet of Ministers gave the approval to President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
+
+...
+
+[Data](articles/ef314c6e.json)
+
+---
+
+### ஹட்டன் மாணவன் தன் உயிரை மாய்த்தான்
+
+*2024-01-31 16:52:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-மாணவன்-தன்-உயிரை-மாய்த்தான்/76-332433) · `ta`
+
+ஹட்டன் பொலிஸ் பிரிவிற்குட்பட்ட லெதண்டி தோட்டத்தின் மார்ல்பரோ பகுதியில் வசித்து வந்த 15 வயதுடைய பாடசாலை மாணவரொருவர் தனது வீட்டில் உயிரை மாய்த்துக்கொண்டார்.
+
+ஹட்டன் வலயக் கல்வி அலுவலகத்தின் கீழ் இயங்கும் ஹட்டன் பிரதேசத்திலுள்ள பாடசாலையொன்றில் 10ஆம் ஆண்டில் கல்வி கற்கும் ஆர்.கோபி ஹர்ஷன் என்ற பாடசாலை மாணவனே தன் உயிரை மாய்த்துக்கொண்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதேவேளை, உயிரிழந்த மாணவணின் சடலம் பிரேத பரிசோதனைக்காக டிக்கோயா ஆரம்ப வைத்தியசாலையின் சட்ட வைத்தியரிடம் அனுப்பி வைக்கப்பட்டுள்ளதுடன், என சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொண்டுள்ளதாக ஹட்டன் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/ad3ecd33.json)
+
+---
 
 ### Amid row with India, Maldives turns to Sri Lanka for medical evacuation support
 
@@ -61,6 +93,24 @@ Police have fired tear gas and water cannons near the Peradeniya Rest House in a
 [Data](articles/7c6ba019.json)
 
 [Extended Data](ext_articles/7c6ba019.ext.json)
+
+---
+
+### மலேசியாவின் 17-வது மன்னராக சுல்தான் இஸ்கந்தர்
+
+*2024-01-31 16:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மலேசியாவின்-17-வது-மன்னராக-சுல்தான்-இஸ்கந்தர்/50-332432) · `ta`
+
+மலேசியா நாட்டின் அதிகாரப்பூர்வமாக பிரதமர் இருந்தாலும், அங்கு இன்னும் மன்னர் அதிகாரம் நீடித்து வருகிறது. இந்நிலையில், தற்போது சுல்தான் இப்ராஹிம் இஸ்கந்தர் மலேசியாவின் 17வது மன்னராக பொறுப்பேற்றுக்கொண்டுள்ளார்.
+
+இந்நிலையில், இவரும் இவரது குடும்பமும் சிங்கப்பூரில் தொலைத்தொடர்பு உள்ளிட்ட பல்வேறு நிறுவனங்களில் முதலீடுகளை கொண்டிருக்கிறது. இதன் மதிப்பு ரூ.47 ஆயிரம் கோடி என தெரிவிக்கப்பட்டுள்ளது.
+
+மலாய்-பிரிட்டிஷ் வம்சாவளியைச் சேர்ந்த சுல்தான் இப்ராஹிம், மலேசியாவில் தனியார் இராணுவம் ஒன்றையும் வழிநடத்துகிறார்.
+
+இந்தநிலையில், தான் பதவியேற்றுக்கொண்டது குறித்து கூறிய அவர், "நான் அரசாங்கத்தை ஆதரிப்பேன், ஆனால் அவர்கள் தவறாக ஏதாவது செய்கிறார்கள் என்று நினைத்தால் அது குறித்து எச்சரிப்பேன்" என்று கூறியுள்ளார். சமீபத்திய ஆண்டுகளில் நடைபெற்ற தேர்தலில் பெறும்பான்மை இல்லாத பாராளுமன்றம் அமைந்தது. எனவே புதிய பிரதமரை தேர்ந்தெடுக்க மன்னரின் தலையீடு தேவைப்பட்டது. என தெரிவித்துள்ளார்.
+
+◼️
+
+[Data](articles/a1c1c3f9.json)
 
 ---
 
@@ -1957,67 +2007,5 @@ The demonstration took place in front of the Viharamadevi Park and the police, i
 [Data](articles/bdc2ca94.json)
 
 [Extended Data](ext_articles/bdc2ca94.ext.json)
-
----
-
-### Daily Mirror News Editor injured during SJB protest
-
-*2024-01-31 11:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Daily-Mirror-News-Editor-injured-during-SJB-protest/155-276034) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - Yohan Perera, the News Editor of the Daily Mirror, sustained injuries yesterday during the Samagi Jana Balawegaya (SJB) protest when he was struck by a tear gas canister.
-
-The demonstration took place in front of the Viharamadevi Park and the police, in accordance with a court order, blocked the road, restricting the protestors from exceeding their designated limits.
-
-◼️
-
-[Data](articles/e03e65c0.json)
-
-[Extended Data](ext_articles/e03e65c0.ext.json)
-
----
-
-### American fighter plane collapses
-
-*2024-01-31 11:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192776) · `si`
-
-Foreign media reports that an American fighter plane crashed at the South Korean west sea, foreign media reports.
-
-This is the second time in recent times in South Korea, a F-16 fighter plane.
-
-At the time of the collapse of the plane, the pilot had come out of it and the South Korean Settlement Team were able to save about an hour later.
-
-The US Air Force used two camps on the South Korean west coast.
-
-In December, a F-16 plane crashed and then rescued its pilot.
-
-◼️
-
-[Data](articles/62a76090.json)
-
-[Extended Data](ext_articles/62a76090.ext.json)
-
----
-
-### Pakistan’s Imran Khan, wife sentenced to 14 years
-
-*2024-01-31 11:13:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/pakistan-s-imran-khan-wife-sentenced-to-14-years/) · `en`
-
-Pakistan’s former Prime Minister Imran Khan and his wife Bushra Bibi have been sentenced to 14 years in jail in a case related to illegal selling of state gifts.
-
-The sentencing by an anti-graft court in Islamabad on Wednesday comes a day after Khan was handed a 10-year jail term in another case in which he was convicted of revealing state secrets, and a week before national elections.
-
-Khan was also handed a three-year prison sentence in August by another court for selling gifts worth more than 140 million rupees ($501,000) in state possession and received during his 2018-2022 premiership.
-
-The sentence was later suspended but Khan remains behind bars in connection with other cases. He has said that he legally purchased the items.
-
-Government officials have alleged Khan’s aides sold the gifts in Dubai.
-
-Sri Lankan Expressway to See New Rules and Minimum Speed Limits
-
-◼️
-
-[Data](articles/dc60120e.json)
-
-[Extended Data](ext_articles/dc60120e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 22:49:49**
+As of **2024-01-31 23:02:15**
 
 ## Newspaper Stats
 
-*Scraped **3,934** Articles*
+*Scraped **3,935** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 243
 newsfirstlk | 247
 adalk | 349
 virakesarilk | 440
-adaderanasinhalalk | 452
+adaderanasinhalalk | 453
 adaderanalk | 496
 tamilmirrorlk | 502
 dailymirrorlk | 540
@@ -26,11 +26,33 @@ dailymirrorlk | 540
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,934 (100.0%) of 3,934 articles have been extended.
+3,934 (100.0%) of 3,935 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### ආධුනික නීතිඥවරයෙකුට අමානුෂික ප්‍රහාරයක්
+
+*2024-01-31 22:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192813) · `si`
+
+ආධුනික නීතිඥවරයෙකුට මහමගදී පහරදුන් තවත් නීතිඥවරුන් සහ නීතිඥවරියන් ඇතුළු 5 දෙනෙකු අද අධිකරණය විසින් ඇප මත මුදාහැර තිබේ.
+
+සැකකරුවන් අධිකරණය හමුවට ඉදිරිපත් කිරීමෙන් අනතුරුව අත්තනගල්ල මහෙස්ත්‍රාත් මංජුල කරුණාරත්න මහතා නියෝග කර ඇත්තේ රුපියල් ලක්ෂය බැගින් වූ ශරීර ඇප මත ඔවුන්ව මුදාහරින ලෙසටය.
+
+සැකකරුවන් විසින් මෙලෙස පහරදී ඇත්තේ නිට්ටඹුව ප්‍රදේශයේ පදිංචිව සිටින තරුණ නීතිඥවරයෙකුට බව පොලීසිය පවසයි.
+
+මූලික විමර්ශනවලදී හෙළිවී ඇත්තේ පහරකෑමට ලක්ව ඇති ආධුනික නීතිඥවරයා සහ ජ්‍යේෂ්ඨ නීතිඥවරියක් අතර බහින් බස්වීමක් සිදුව ඇති බවය.
+
+අනතුරුව වෙනත් ජ්‍යේෂ්ඨ නීතිඥවරයෙකු අත්තනගල්ල මහෙස්ත්‍රාත් අධිකරණය වෙත පැමිණ පහරකෑමට ලක්ව ඇති තරුණ නීතිඥවරයා කළගෙඩිහේන ප්‍රදේශයට කැඳවාගෙන ගොස් තිබේ.
+
+අනතුරුව බහින්බස්වීම සිදුවූ ජ්‍යේෂ්ඨ නීතිඥවරියගේ නිවස ආසන්නයේදී අදාළ සැකකාර නීතිඥවරුන් සහ නීතිඥවරියන් ඇතුළු පිරිසක් තමන්ට පහරදුන් බව තරුණ නීතිඥවරයා පවසා ඇත.
+
+...
+
+[Data](articles/b87a8735.json)
+
+---
 
 ### Immunoglobulin scandal: Keheliya asks for alternative date from CID
 
@@ -2043,23 +2065,5 @@ In addition, Poland said Poland had said that 4 US $ 3.75 billion to buy tanks a
 [Data](articles/3fc25127.json)
 
 [Extended Data](ext_articles/3fc25127.ext.json)
-
----
-
-### Prices of fruit
-
-*2024-01-31 15:39:58* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/மரக்கறிக்கு-எதிராக-எகிறும்-பழங்களின்-விலை/76-332422) · `ta`
-
-The price of vegetables has increased over the past few days in the country. Fruits, retailers and consumers report that all kinds of fruit prices in Nuwara Eliya have risen against vegetable prices.
-
-In addition, the cost of fruit has not increased the cost of fruit due to the increase in the cost of production due to the increase in tax, and the prices of fruit have increased due to the increase in the cost of imports over the past months.
-
-Accordingly, the price of 1 kg of Nelly has increased at 1200 rupees, 1 kg of red grapes at Rs.
-
-◼️
-
-[Data](articles/6ae43fa4.json)
-
-[Extended Data](ext_articles/6ae43fa4.ext.json)
 
 ---

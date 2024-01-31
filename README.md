@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 09:33:05**
+As of **2024-01-31 09:51:28**
 
 ## Newspaper Stats
 
@@ -26,43 +26,47 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,688 (99.9%) of 3,690 articles have been extended.
+3,690 (100.0%) of 3,690 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### සනත් නිශාන්ත වෙනුවට ජගත් ප්‍රියංකර පාර්ලිමේන්තුවට
+### Jagath Priyankara to be replaced by Sanath Nishantha
 
 *2024-01-31 08:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192772) · `si`
 
-අභාවප්‍රාප්ත සනත් නිශාන්ත මහතාගෙන් පුරප්පාඩු වූ මන්ත්‍රී ධුරය වෙනුවෙන් ඇල්. කේ. ජගත් ප්‍රියංකර මහතා පාර්ලිමේන්තුවට තෝරා පත්කර තිබේ.
+Allegations of Sanath Nishantha's late Sanath Nishantha. K. Jagath Priyankara has been elected to Parliament.
 
-ඊට අදාළ ගැසට් නිවේදනය ඊයේ ප්‍රකාශයට පත්කර ඇති අතර, පාර්ලිමේන්තු මහලේකම් වරයා විසින් මැතිවරණ කොමිෂන් සභාව වෙත මේ බව දැනුම් දී ඇත.
+The gazette notification has been announced yesterday and the Secretary General of Parliament has informed the Elections Commission.
 
 ◼️
 
 [Data](articles/2000b1c8.json)
 
+[Extended Data](ext_articles/2000b1c8.ext.json)
+
 ---
 
-### එ ජා ලෝක ආහාර හා කෘෂිකර්ම සංවිධානයේ නියෝජිත පිරිසක් දිවයිනට
+### A delegation of the National Food and Agriculture Organization to the island
 
 *2024-01-31 08:53:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192771) · `si`
 
-එක්සත් ජාතින්ගේ ලෝක ආහාර හා කෘෂිකර්ම සංවිධානයේ 37 වන ආසියා පැසිපික් කලාපීය සමුළුවේ සංවිධාන කටයුතු නිරීක්ෂණය කිරීම සඳහා කලාපීය ප්‍රධාන කාර්යාලයේ නියෝජිතයින් පිරිසක් දිවයිනට පැමිණ තිබේ.
+Representatives of the Regional Head Office has arrived in Sri Lanka to monitor the organizations of the 37th Asia Pacific Conference of the United Nations World Food and Agriculture Organization.
 
-අදාළ සමුළුව පෙබරවාරි මස 19 සිට 22 දක්වා කොළඹ දී පැවැත්වීමට කටයුතු යොදා ඇති බව කෘෂිකර්ම අමාත්‍යංශය සඳහන් කළේය.
+The Ministry of Agriculture stated that the conference will be held from 19th February to 22.
 
-එහි සංවිධාන කටයුතු පිළිබඳ සොයා බැලීම සඳහා ආසියා පැසිපික් කලාපීය ප්‍රධාන කාර්යාලයේ නිලධාරින් පිරිසක් දිවයිනට පැමිණ ඇති අතර ඔවුන් කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍ය මහින්ද අමරවීර මහතා හමුවී සාකච්ඡා පවත්වා තිබේ.
+A group of officers of the Asian Pacific Head Office has arrived in the island Mahinda Amaraweera to look into the organization.
 
-එහි සම්පූර්ණ සංවිධාන කටයුතු කෘෂිකර්ම හා වැවිලි කර්මාන්ත අමාත්‍යාංශය හා එක්සත් ජාතින්ගේ ආහාර කෘෂිකර්ම සංවිධානයේ ශ්‍රී ලංකා කාර්යාලය විසින් මෙහෙයවනු ලබන බව සඳහන්ය.
+The total organizations are being operated by the Ministry of Agriculture and Plantation Industries and by the Sri Lanka Office of the United Nations.
 
-ආසියා හා පැසිපික් කලාපයේ රටවල් 42ක නියෝජිතයින් 200කට ආසන්න පිරිසක් මෙම සමුළුවට සහභාගි වීමට නියමිත අතර කෘෂිකර්ම අමාත්‍යවරුන් 40 දෙනෙකු ද ඊට ඇතුළත් බවයි කෘෂිකර්ම අමාත්‍යංශය පැවසුවේය.
+Nearly 200 recipients of 42 representatives of 42 countries in the Asia and Pacific region are to attend the summit.
 
 ◼️
 
 [Data](articles/436f04f8.json)
+
+[Extended Data](ext_articles/436f04f8.ext.json)
 
 ---
 

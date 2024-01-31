@@ -1,15 +1,15 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 18:20:18**
+As of **2024-01-31 18:32:40**
 
 ## Newspaper Stats
 
-*Scraped **3,858** Articles*
+*Scraped **3,860** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 47
-bbccomsinhala | 61
+bbccomsinhala | 62
 dbsjeyarajcom | 129
 economynextcom | 203
 islandlk | 208
@@ -19,54 +19,58 @@ adalk | 344
 virakesarilk | 440
 adaderanasinhalalk | 444
 adaderanalk | 487
-tamilmirrorlk | 494
+tamilmirrorlk | 495
 dailymirrorlk | 518
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,856 (99.9%) of 3,858 articles have been extended.
+3,858 (99.9%) of 3,860 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### දෙමටගොඩ රුවන්ගේ බිරිඳ පුත්‍රයා සහ සහෝදරිය අත්අඩංගුවට
+### Son and sister arrested for Dematagoda
 
 *2024-01-31 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192804) · `si`
 
-මරණ දඬුවම නියමවී සිටින දෙමටගොඩ චමින්දගේ සොහොයුරා වන දෙමටගොඩ රුවන්ගේ බිරිඳ, පුත්‍රයා සහ සහෝදරිය නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයෙන් අද (31) අත්අඩංගුවට ගෙන තිබේ.
+Dematagoda Ruwan's wife, Dematagoda Ruwan's wife, son of Dematagoda, was arrested by the illegal assignment division of Dematagoda, who is sentenced to death.
 
-ඒ, රුවන් චමිල ප්‍රසන්න නොහොත් දෙමටගොඩ රුවන් මත්ද්‍රව්‍ය ජාවාරම් සහ සංවිධානාත්මක අපරාධ සිදුකර නීතිවිරෝධීව රුපියල් ලක්ෂ 1,000කට අධික වටිනාකමින් යුතු දේපොළ ඔවුන් තිදෙනාගේ නම්වලින් මිලදීගෙන තිබීම හේතුවෙනි.
+That is why Ruwan Chamila Prasanna, Dematagoda Ruwan, Dematagoda Ruwan, Demotaging, has been purchased from the names of the three million rupees.
 
-මෙලෙස අත්අඩංගුවට ගැනුණු 27 හැවිරිදි තරිඳු මධුෂංක නැමති රුවන්ගේ පුත්‍රයා ප්‍රබල දේශපාලන පක්ෂයක කුප්පියාවත්ත ආසන සංවිධායක ලෙස කටයුතු කරයි.
+The son of Ruwanu Madushanka, who was arrested, serves as the Kuppiyawatta electoral organizer of a powerful political party.
 
-ශානිකා ලක්මිණි නැමති දෙමටගොඩ රුවන්ගේ බිරිඳ 45 හැවිරිදි වියෙහි පසුවන අතර, සමන්ති නිර්මලා නැමති දෙමටගොඩ රුවන්ගේ සහෝදරිය 48 හැවිරිදි වියෙහි පසුවෙයි.
+Shanana Ruwan's wife, Dematagoda, was a 45-year-old, Dematagoda, Dematagoda, Dematagoda, a 48 year old.
 
 ◼️
 
 [Data](articles/07f039d8.json)
 
+[Extended Data](ext_articles/07f039d8.ext.json)
+
 ---
 
-### කොන්ක්‍රීට් කණුවක් කඩාවැටී 10 හැවිරිදි දරුවෙක් මරුට
+### 10-year-old child dies after collapsing
 
 *2024-01-31 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192803) · `si`
 
-මොණරාගල දොඹගහවෙල ප්‍රදේශයේ නිවසකදී සිදුවූ අවාසනාවන්ත අනතුරකින් 10 හැවිරිදි වියේ පසුවූ කුඩා දරුවෙකු මියගොස් තිබේ.
+A 10-year-old child was killed in a unfortunate accident at a house in Moneragala in Dombagahawela area.
 
-අදාළ නිවසේ කොන්ක්‍රීට් කණු දෙකක් අතර බැඳ තිබූ ඔන්චිල්ලාවක සෙල්ලම් කරමින් සිටියදී ඉන් එක් කණුවක් කඩා වැටී මෙම අනතුර සිදුව තිබුණි.
+The accident had occurred while playing on on onncillas that were tied to two concrete pillars in the house.
 
-එම කොන්ක්‍රීට් කණුව පපුව මතට වැටිමෙන් බරපතළ තුවාල ලැබූ දරුවා අවාසනාවන්ත ලෙස මියගොස් ඇත.
+The child who was seriously injured in the fall on chest was unfortunate.
 
-මෙම දරුවා අම්බලන්තොට රිදීගම ප්‍රදේශයේ පදිංචි අතර අනතුර සිදුවූ නිවසේ තිබූ ඥාති නිවසේ කොටහළු මංගල උත්සවයක් හේතුවෙන් එහි පැමිණ සිටියදී මෙම අනතුරට මුහුණපා තිබේ.
+The child residing in Ridigama, Ambalantota, Ambalini, a cousin at the house of the accident, the accident had taken place.
 
-මොණරාගල රෝහලේදී පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීමෙන් අනතුරුව දේහය අම්බලන්තොට ප්‍රදේශයේ පිහිටි දරුවාගේ නිවස වෙත ගෙනගොස් ඇත.
+After the post mortem examination at the Moneragala hospital, the remains were taken to the child of the child in Ambalantota.
 
 ◼️
 
 [Data](articles/cb955c53.json)
+
+[Extended Data](ext_articles/cb955c53.ext.json)
 
 ---
 
@@ -166,13 +170,33 @@ At least 72 health sector trade unions, excluding doctors’ unions, will launch
 
 Although the President had promised to hold talks with them regarding the allowances, soon after returning from his recent official overseas tour, the health workers said they have yet to meet with the Head of State for discussions.
 
-On January 08, the Cabinet of Ministers gave the approval to President Ranil Wickremesinghe’s proposal to double the DAT allowance paid to government doctors, raising it from Rs. 35,000 to Rs. 70,000.
+However, the All Ceylon Nurses’ Union has decided not to join the strike action to be launched jointly with over 72 health sector trade unions on Thursday.
+
+The members of the union stated this, after meeting the Chief Prelate (Mahanayake Thero) of the Malwathu Chapter regarding the current situation of the health sector.
+
+Commenting further regarding the matter, the All Ceylon Nurses’ Union alleged that this decision was taken since the planned strike action is a conspiracy by the government.
 
 ...
 
 [Data](articles/ef314c6e.json)
 
 [Extended Data](ext_articles/ef314c6e.ext.json)
+
+---
+
+### ஹட்டன் மாணவன் தன்னுயிரை மாய்த்தான்
+
+*2024-01-31 16:52:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-மாணவன்-தன்னுயிரை-மாய்த்தான்/76-332433) · `ta`
+
+ஹட்டன் பொலிஸ் பிரிவிற்குட்பட்ட லெதண்டி தோட்டத்தின் மார்ல்பரோ பகுதியில் வசித்து வந்த 15 வயதுடைய பாடசாலை மாணவரொருவர் தனது வீட்டில் உயிரை மாய்த்துக்கொண்டார்.
+
+ஹட்டன் வலயக் கல்வி அலுவலகத்தின் கீழ் இயங்கும் ஹட்டன் பிரதேசத்திலுள்ள பாடசாலையொன்றில் 10ஆம் ஆண்டில் கல்வி கற்கும் ஆர்.கோபி ஹர்ஷன் என்ற பாடசாலை மாணவனே தன் உயிரை மாய்த்துக்கொண்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+
+இதேவேளை, உயிரிழந்த மாணவணின் சடலம் பிரேத பரிசோதனைக்காக டிக்கோயா ஆரம்ப வைத்தியசாலையின் சட்ட வைத்தியரிடம் அனுப்பி வைக்கப்பட்டுள்ளதுடன், என சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொண்டுள்ளதாக ஹட்டன் பொலிஸார் தெரிவித்தனர்.
+
+◼️
+
+[Data](articles/2ca13bc5.json)
 
 ---
 
@@ -307,6 +331,8 @@ Maldivian Minister of Transport and Civil Aviation Mohamed Ameen met his Sri Lan
 *2024-01-31 16:36:00* · [`adaderanalk`](https://www.adaderana.lk/news/96888/police-fire-tear-gas-at-protesting-students-in-peradeniya) · `en`
 
 Police have fired tear gas and water cannons near the Peradeniya Rest House in attempts to disperse a group of protesting students from the University of Peradeniya.
+
+The Students’ Union of the Peradeniya University staged a protest march this afternoon (31 Jan.), over several demands including the reduction of the Value Added Tax (VAT), to stop all kinds of student repression, to immediately resolve all issues related to academic welfare and to expand opportunities for free education.
 
 ◼️
 
@@ -1988,6 +2014,30 @@ He added that India provided assistance to Sri Lanka immediately, fifty -time th
 
 ---
 
+### 'යුක්තිය මෙහෙයුම': 'මෙයින් සිදුවන්නේ අපි හැමෝම අනාරක්ෂිත වීමයි'
+
+*2024-01-31 12:03:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd10y174rd4o) · `si`
+
+මෙරට තුළ ක්‍රියාත්මක සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාවාරම් මැඩලීම සඳහා පොලිසිය විසින් ඉකුත් දෙසැම්බර් 17 වැනිදා සිට ආරම්භ කළ යුක්තියේ මෙහෙයුම අද (ජනවාරි 31 වැනිදා) වන විට දින 46ක් පුරා ක්‍රියාත්මක වෙමින් පවතී.
+
+අපරාධ සහ මත්ද්‍රව්‍ය මැඩලීමේ මෙහෙයුමේදී දෛනිකව අවම වශයෙන් සැකකරුවන් 700 කට අධික පිරිසක් අත්අඩංගුවට ගැනීමට පොලිසිය කටයුතු කරන බව මහජන ආරක්ෂක අමාත්‍යංශය නිකුත් කරන නිවේදන මගින් පෙනී යයි.
+
+මෙම අපරාධ මැඩලීමේ මෙහෙයුම ආරම්භ වූ කාලසීමාවේ සිට මේ දක්වා වෙඩි තැබිමේ සිද්ධි කිහිපයක්ද වාර්තා විය.
+
+ඉන් එක් වෙඩි තැබීමකින් පුද්ගලයින් 5 දෙනෙකු ජීවිතක්ෂයට පත්වීම සමාජය තුළ විශාල කතාබහට ලක්වන සිදුවීමක් විය.
+
+‘යුක්තිය’මෙහෙයුමේ ඉලක්කය කුමක් ද ?පූජ්‍ය කළපළුවාවේ ධම්මරතන හිමි ඝාතනය: මෙතෙක් අප දන්නේ මොනවාද?
+
+ඉකුත් දෙසැම්බර් මස 17 වැනිදා සිට ජනවාරි මස 30 වැනිදා දක්වා වාර්තා වූ වෙඩි තැබීමේ සිදුවීම් පිළිබඳව බීබීසී සිංහල විසින් සොයා බැලීමක් සිදුකරන ලදී.
+
+එහිදී අනාවරණය වුයේ ගතවූ කාල සීමාව තුළදී වෙඩි තැබීමේ සිදුවීම් 14ක් වාර්තා වී ඇති බවය.
+
+...
+
+[Data](articles/051d86bf.json)
+
+---
+
 ### China’s threat to India would come from Sri Lanka, Rajya Sabha member
 
 *2024-01-31 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chinas-threat-to-India-would-come-from-Sri-Lanka-Rajya-Sabha-member/108-276038) · `en`
@@ -2003,37 +2053,5 @@ A statement from the party said that he also drew Mr. Rajnath Singh’s attentio
 [Data](articles/15de4b57.json)
 
 [Extended Data](ext_articles/15de4b57.ext.json)
-
----
-
-### New State Minister of Irrigation and Water Resources Management appointed
-
-*2024-01-31 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96879/new-state-minister-of-irrigation-and-water-resources-management-appointed) · `en`
-
-MP Shasheendra Rajapaksa has been sworn in as the State Minister for Irrigation and Water Resources Management before President Ranil Wickremesinghe.
-
-The swearing-in ceremony was held at the Presidential Secretariat this morning (Jan. 31), according to the President’s Media Division (PMD).
-
-◼️
-
-[Data](articles/3a28f334.json)
-
-[Extended Data](ext_articles/3a28f334.ext.json)
-
----
-
-### Another responsibility to Shasheendra
-
-*2024-01-31 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192779) · `si`
-
-Shashindra Rajapaksa sworn in as the State Minister of Irrigation and Water Resources Management.
-
-The Presidential Media Unit said that the swearing in was carried out at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/c383d844.json)
-
-[Extended Data](ext_articles/c383d844.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 10:32:51**
+As of **2024-01-31 10:50:21**
 
 ## Newspaper Stats
 
-*Scraped **3,692** Articles*
+*Scraped **3,695** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,8 +17,8 @@ newsfirstlk | 216
 dailyftlk | 243
 adalk | 331
 virakesarilk | 408
-adaderanasinhalalk | 415
-tamilmirrorlk | 468
+adaderanasinhalalk | 416
+tamilmirrorlk | 470
 adaderanalk | 470
 dailymirrorlk | 499
 
@@ -26,11 +26,49 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,692 (100.0%) of 3,692 articles have been extended.
+3,695 (100.0%) of 3,695 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Release
+
+*2024-01-31 09:48:18* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வெளியானது-விசேட-வர்த்தமானி-அறிவித்தல்/175-332390) · `ta`
+
+LK to the post of Member of Parliament Sanath Nishantha, who died in the accident. Jagath Priyankara has been selected.
+
+Meanwhile, the wife of the late State Minister Sanath Nishantha, Samari Priyanka Perera, said that if she requested to accept the vacuum of her husband's death, it could be considered in the future.. Remble
+
+◼️
+
+[Data](articles/6856fafe.json)
+
+[Extended Data](ext_articles/6856fafe.ext.json)
+
+---
+
+### Justice is boxing
+
+*2024-01-31 09:29:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192774) · `si`
+
+729 suspects have been arrested in the 24 hours of the 24-hour operations throughout the country under the operation of justice.
+
+The Ministry of Defense said that 230 suspects were arrested in the list of drug misconduct and the list of criminal sections.
+
+The security forces have taken 146 grams of heroin, including 119 lies, and 119 g of ice.
+
+The Ministry of Defense stated that four suspects have been retained for rehabilitation and four drug addicts have been sent to rehabilitation.
+
+Among the 230 suspects in the list of the criminal sections, 204 suspended suspects and non-drug errors have been arrested in connection with the Narcotics and non-drug errors.
+
+◼️
+
+[Data](articles/ba1ca44d.json)
+
+[Extended Data](ext_articles/ba1ca44d.ext.json)
+
+---
 
 ### Jagath Priyankara to fill Sanath Nishantha’s MP seat
 
@@ -49,6 +87,28 @@ Following the fatal collision, three persons including State Minister Nishantha 
 [Data](articles/87deae1b.json)
 
 [Extended Data](ext_articles/87deae1b.ext.json)
+
+---
+
+### Firing in Puttalam;One injury
+
+*2024-01-31 09:23:06* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/புத்தளத்தில்-துப்பாக்கிச்சூடு-ஒருவர்-காயம்/175-332389) · `ta`
+
+A shooting incident took place last night in the Buddha Pisces village in the Puttalam -Karuwalakaswewa police division.
+
+A 40 -year -old man from Pavattamaduwa has been injured and admitted to the Puttalam Hospital, police media unit said.
+
+It has been revealed that the injured man was in secret with a woman and another person involved in the investigation had carried out the shooting.
+
+He is currently fleeing the area as the man who fired the shooting was identified.
+
+Further investigations to arrest the suspect are being carried out by the Karuwalakaswewa police.R
+
+◼️
+
+[Data](articles/53eead61.json)
+
+[Extended Data](ext_articles/53eead61.ext.json)
 
 ---
 
@@ -1997,71 +2057,5 @@ There was a net foreign outflow of 82 million. (Colombo/Jan30/2024).
 [Data](articles/593b373c.json)
 
 [Extended Data](ext_articles/593b373c.ext.json)
-
----
-
-### Current improvements fail if the plans are not implemented - Harsha de Silva
-
-*2024-01-30 16:55:00* · [`virakesarilk`](https://www.virakesari.lk/article/175171) · `ta`
-
-The country's 'financial discipline' has been stabilized following the recommendations of the International Monetary Fund. The country became bankrupt because of financial discipline improperly implemented. After a massive struggle, the economy has become equal.
-
-United People's Power MP Dr. Harsha de Silva said the current improvements would fail if the plans for sustainable economic stabilization were not implemented.
-
-Inflation is the largest enemy of the ordinary citizen. As the money reached 70 per cent. He added that the central bank and the government have signed a policy agreement to establish inflation for the next three years.
-
-Speaking at a conference held at the Bandaranaike Memorial International Conference on the evening of Monday (29), the Advakata Economic Research Institute said this while addressing a conference held under the theme "Economic Independence Future".
-
-...
-
-[Data](articles/24fc0954.json)
-
-[Extended Data](ext_articles/24fc0954.ext.json)
-
----
-
-### Israeli soldiers attack Jenin hospital as medical staff
-
-*2024-01-30 16:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175175) · `ta`
-
-The Israeli soldiers dressed like hospital staff have entered a hospital on the western bank and shot dead three men.
-
-Israeli Palestinian sources say that Israeli soldiers entered the Ibn Sina Hospital in Jenin, West Center, where doctors entered like medical staff.
-
-CCTV footage has shown that the Israeli Special Forces who dressed like women who are hijabed, as doctors, enter the hospital.
-
-The Palestinian State News Agency said that Israeli soldiers who entered the hospitals later went to the third floor and killed two youths.
-
-Israeli minister has praised the move that the Hamas and the Islamic Jihad have been killed.
-
-Israel said that Mohammed Jalane, who was recently hidden in a hospital, was killed in promoting significant terrorist activities.
-
-Israel has reported that Mohammed al -Gajawi and his brother from Jenin Battalion, who were involved in a number of attacks on Israeli soldiers, were killed.
-
-◼️
-
-[Data](articles/cc6d975b.json)
-
-[Extended Data](ext_articles/cc6d975b.ext.json)
-
----
-
-### ‘Aswesuma’ scheme to continue with several revisions
-
-*2024-01-30 16:51:00* · [`adaderanalk`](https://www.adaderana.lk/news/96858/aswesuma-scheme-to-continue-with-several-revisions) · `en`
-
-The Cabinet of Ministers has green-lighted a proposal seeking to continue the ‘Aswesuma’ scheme for welfare benefits payments with several new amendments.
-
-The President has furnished the proposal in his capacity as the Minister of Finance, Economic Stability and National Policies.
-
-• Extending the valid period for the vulnerable social group among the social groups qualified for ‘Aswesuma’ benefits as from 01 April to 31 December 2024, and the valid period for the transitional social group (of those income deteriorated temporarily due to economic crisis) among the social groups qualified for ‘Aswesuma’ benefits as from 01 January 2024 to 31 December 2024.
-
-• Amalgamating the existing vulnerable social group and transitional social group and considering 800,000 families as a vulnerable group with effect from 01 January 2024 and payment of an allowance of Rs. 5,000/- with effect from that date until 31 December 2024.
-
-...
-
-[Data](articles/2e9ae29b.json)
-
-[Extended Data](ext_articles/2e9ae29b.ext.json)
 
 ---

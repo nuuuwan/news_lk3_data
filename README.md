@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 12:33:50**
+As of **2024-01-31 12:48:59**
 
 ## Newspaper Stats
 
-*Scraped **3,740** Articles*
+*Scraped **3,741** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 243
 adalk | 336
 virakesarilk | 414
 adaderanasinhalalk | 421
-adaderanalk | 477
+adaderanalk | 478
 tamilmirrorlk | 478
 dailymirrorlk | 502
 
@@ -26,23 +26,41 @@ dailymirrorlk | 502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,737 (99.9%) of 3,740 articles have been extended.
+3,741 (100.0%) of 3,741 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### ශෂීන්ද්‍රට තවත් වගකීමක්
+### New State Minister of Irrigation and Water Resources Management appointed
+
+*2024-01-31 12:02:00* · [`adaderanalk`](https://www.adaderana.lk/news/96879/new-state-minister-of-irrigation-and-water-resources-management-appointed) · `en`
+
+MP Shasheendra Rajapaksa has been sworn in as the State Minister for Irrigation and Water Resources Management before President Ranil Wickremesinghe.
+
+The swearing-in ceremony was held at the Presidential Secretariat this morning (Jan. 31), according to the President’s Media Division (PMD).
+
+◼️
+
+[Data](articles/3a28f334.json)
+
+[Extended Data](ext_articles/3a28f334.ext.json)
+
+---
+
+### Another responsibility to Shasheendra
 
 *2024-01-31 11:57:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192779) · `si`
 
-ශෂීන්ද්‍ර රාජපක්ෂ මහතා වාරිමාර්ග සහ ජලසම්පත් කළමනාකරණ රාජ්‍ය අමාත්‍යවරයා වශයෙන් ජනාධිපතිවරයා ඉදිරියේ දිවුරුම් දී තිබේ.
+Shashindra Rajapaksa sworn in as the State Minister of Irrigation and Water Resources Management.
 
-ජනාධිපති මාධ්‍ය ඒකකය සඳහන් කළේ, ජනාධිපති ලේකම් කාර්යාලයේ දී එම දිවුරුම් දීම සිදුකළ බවය.
+The Presidential Media Unit said that the swearing in was carried out at the Presidential Secretariat.
 
 ◼️
 
 [Data](articles/c383d844.json)
+
+[Extended Data](ext_articles/c383d844.ext.json)
 
 ---
 
@@ -796,19 +814,21 @@ It is noteworthy that the youth arrested on charges of wearing a tiger logo last
 
 ---
 
-### බෙලිඅත්ත පංච පුද්ගල ඝාතනයට තවත් තිදෙනෙක් අල්ලයි
+### Three LTTE cadres arrested for murder of Beliatta
 
 *2024-01-31 09:23:33* · [`adalk`](https://www.ada.lk/breaking_news/බෙලිඅත්ත-පංච-පුද්ගල-ඝාතනයට-තවත්-තිදෙනෙක්-අල්ලයි/11-407814) · `si`
 
-බෙලිඅත්ත පොලිස් වසමේ සිදු කළ පංච පුද්ගල ඝාතනයට ආධාර දුන් සැකකරුවන් තවත් සැකකරුවන් තිදෙනෙක් අත්අඩංගුවට ගෙන තිබේ.
+The suspects have been arrested for suspects in Beliatta police domain.
 
-මෙයින් සැකකරුවන් දෙදෙනෙක් හුංගම පොලිස් වසමේ දී හුංගම පොලිස් ස්ථානය විසින්  අත්අඩංගුවට ගෙන ඇති අතර මාතර කොට්ඨාසයේ සිදුකළ විමර්ශනවලට අනුව මාතර පොලිස් වසමේ දී  තවත්අ සැකකරුවෙක් අත්අඩංගුවට ගෙන තිබේ.
+Two suspects have been arrested by the Hungama Police Station in the Hungama Police Division. Investigations carried out in the Matara Divisional Secretariat have arrested another suspect in the Matara Police Division.
 
-මෙම සැකකරුවන් වයස අවුරුදු 28,42,58 පසුවන මීගමුව,අලවුව සහ බූස්ස ප්‍රදේශවල පදිංචිකරුවන් බවත්  ඝාතනයට යොදාගත් ටී 56 වර්ගයේ ගිනි අවි බැහැරකිරීම සම්බන්ධව සහ අපරාධය සිදුකිරීමේ දී මුදල් ගනුදෙනු කිරීමෙට අදාළව සැකකරුවන් අත්අඩංගුවට ගෙන තිබේ.
+The suspects were residents of Negombo, Elappuwa and Boossa areas, which were aged at 28,42,58, and the suspension of T-56 firearms used in the murder.
 
 ◼️
 
 [Data](articles/c563ec29.json)
+
+[Extended Data](ext_articles/c563ec29.ext.json)
 
 ---
 
@@ -850,21 +870,23 @@ The name of Jagath Priyankara has been put forward in the last general election.
 
 ---
 
-### තබ්බෝවේ වෙඩි තැබිමකින් පුද්ගලයෙකුට තුවාල
+### A person injured in Tabbowa shooting
 
 *2024-01-31 09:17:07* · [`adalk`](https://www.ada.lk/breaking_news/තබ්බෝවේ-වෙඩි-තැබිමකින්-පුද්ගලයෙකුට-තුවාල/11-407813) · `si`
 
-කරුවලගස්වැව තබ්බෝව ධීවර ගම්මානය ප්‍රදේශයේදී 30 දින රාත්‍රී සිදුවී ඇති වෙඩි තැබීමකින් තුවාල ලැබූ පුද්ගලයෙකු ප්‍රතිකාර සඳහා පුත්තලම මූලික රෝහලට ඇතුළත්කර ඇතැයි කරුවලගස්වැව පොලීසිය කියයි.
+Karuwalagaswewa Police said that a person was injured in a shooting at the Karuwalagahawewa Tabbowow Fisheries Village.
 
-වෙඩි වැදීමෙන් තුවාල ලබා ඇත්තේ තබ්බෝව පාවට්ටාමඩුව ප්‍රදේශයේ පදිංචිකරුවෙකු බව පැවසෙන ජයන්ත රෝහණ නැමති වයස අවුරුදු 40ක් පමණ වන  පුද්ගලයෙකි.
+The shooting was also injured as Jayantha Rohana, who is a 40 year old, claiming that Tabbowa is a resident of Patotamama.
 
-සිද්ධියට අදාළ සැකකරු වෙඩි තැබීමෙන් පසුව පළාගොස් ඇති බවත් ඔහු හා සිද්ධියට අදාළ ගිනි අවිය අත් අඩංගුවට ගැනීමට මෙහෙයුමක් සිදුකරගෙන බවත් පොලීසිය සදහන් කළේය.
+A mission was carried out to arrest the firearm after the suspect was shot.
 
-එසේම මෙම වෙඩි තැබීමට හේතුව අනාවරණකර ගැනීම සදහාද විමර්ශන සිදුකෙරෙ‍ෙ බවත් පොලීසිය පැවසීය.
+The police said that the investigation is also being investigated to disclosure the cause of the shooting.
 
 ◼️
 
 [Data](articles/c3245de3.json)
+
+[Extended Data](ext_articles/c3245de3.ext.json)
 
 ---
 
@@ -1999,25 +2021,5 @@ Investigations have revealed that the monk had taken measures to be presented to
 [Data](articles/17687b23.json)
 
 [Extended Data](ext_articles/17687b23.ext.json)
-
----
-
-### Two foreigners killed in accident at Midigama
-
-*2024-01-30 21:40:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Two-foreigners-killed-in-accident-at-Midigama/108-276000) · `en`
-
-Matara, Jan. 30 (Daily Mirror)- Two foreigners were killed after a mortorbike they were riding on collided with a bus and a lorry at Gurubebila, Midigama on the Matara-Colombo road this afternoon, police said.
-
-The mortorbike heading towards Colombo from Matara had hit a bus and toppled over when trying to overtake and had hit another lorry travelling on the opposite direction.
-
-The rider had died on the spot while the pillion rider had died after being admitted to the Walana Hospital.
-
-The drivers of the bus and the lorry were arrested in connection with the accident.
-
-◼️
-
-[Data](articles/9f318085.json)
-
-[Extended Data](ext_articles/9f318085.ext.json)
 
 ---

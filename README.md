@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 07:31:18**
+As of **2024-01-31 07:51:59**
 
 ## Newspaper Stats
 
-*Scraped **3,672** Articles*
+*Scraped **3,674** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,8 +16,8 @@ islandlk | 207
 newsfirstlk | 216
 dailyftlk | 242
 adalk | 331
-adaderanasinhalalk | 406
 virakesarilk | 406
+adaderanasinhalalk | 408
 tamilmirrorlk | 463
 adaderanalk | 467
 dailymirrorlk | 499
@@ -26,11 +26,61 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,672 (100.0%) of 3,672 articles have been extended.
+3,674 (100.0%) of 3,674 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Army Commander goes to see Parachute
+
+*2024-01-31 07:17:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192766) · `si`
+
+Army Commander Lieutenant General Vikiage has gone to the Army Hospital for consultation of the army officer and soldier who was injured in the accident in parachute training.
+
+The Army Commander also found the treatment of their treatment and the following treatment has been organized with medical officers.
+
+The Army Commander has expressed gratitude to the Medical staff of the Army Hospital, the Army Commander has been given the best treatment.
+
+The Ministry of Defense states that four parachute troops joined the parachute show in the 76th Independence Day were due to an unexpected wind flow.
+
+Defense Director, Media Director and Colonel Nalin Herath said this.
+
+Air Force troops are the two Sergeant MDSS Stagalla and Sergeant RHPK Hemasinghe.
+
+The Air Force stated that the Sergeant MDSS Street Purpose Officer, 531 parachute jumps and 370 parachute jumps have been conducted.
+
+Major Dhammika Ratnapala and Staff Sergeant LRG. Bandaraists are the Sri Lanka Army Special Forces Members.
+
+...
+
+[Data](articles/014c6fc5.json)
+
+[Extended Data](ext_articles/014c6fc5.ext.json)
+
+---
+
+### Three arrested for murder in Beliwatta
+
+*2024-01-31 07:00:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192765) · `si`
+
+Three suspects have been arrested for supporting the murder of the Beliatta.
+
+Two suspects have been arrested by the Hungama Police Officers and the Matara Division Criminal Investigation Division has arrested another suspect in Matara.
+
+The arrested persons were residents of Negombo, Alawwa and Boossa, who were aged 28, 42 and 58 years.
+
+They were arrested in connection with the disposal of T-56 rifles in the murder and committing crimes.
+
+Beliatta Police are conducting further investigations and two women were arrested for transporting firearms for previous assassions.
+
+◼️
+
+[Data](articles/6798ae4c.json)
+
+[Extended Data](ext_articles/6798ae4c.ext.json)
+
+---
 
 ### Showers over 75mm
 
@@ -1997,41 +2047,5 @@ At the same time, the Fort Magistrate's Court also issued an order against Oppos
 [Data](articles/0f808ef5.json)
 
 [Extended Data](ext_articles/0f808ef5.ext.json)
-
----
-
-### Water cannons, tear gas fired to disperse SJB protestors
-
-*2024-01-30 15:24:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Water-cannons-tear-gas-fired-to-disperse-SJB-protestors/108-275985) · `en`
-
-Police used water cannons and tear gas to disperse Samagi Jana Bala Wegaya (SJB) protestors near the public library in Colombo a short while ago.
-
-◼️
-
-[Data](articles/6c957538.json)
-
-[Extended Data](ext_articles/6c957538.ext.json)
-
----
-
-### Police fire tear gas at SJB’s protest march
-
-*2024-01-30 15:24:00* · [`adaderanalk`](https://www.adaderana.lk/news/96854/police-fire-tear-gas-at-sjbs-protest-march) · `en`
-
-The police have fired tear gas and used water cannons to disperse the Samagi Jana Balawegaya (SJB) protesters in Colombo this afternoon (Jan.30).
-
-Joined by Opposition Leader Sajith Premadasa, SJB MPs and supporters, it was organized by the main opposition in protest of the conduct of the government.
-
-Earlier today, three court orders were issued ahead of the SJB’s protest march, barring the demonstrators from entering certain locations in Colombo including the Finance Ministry, the Presidential Secretariat, the President’s House and Galle Face Green.
-
-They are also banned from causing inconveniences to motorists and pedestrians travelling along Dean’s Road, Lipton Roundabout, Maradana Junction, T.B. Jayah Mawatha, Olcott Mawatha, the Technical Junction and other areas in Colombo this evening.
-
-A court order further read that the protesters are, however, allowed to use the P.D. Sirisena Ground and Hyde Park to stage their demonstration.
-
-◼️
-
-[Data](articles/7494aeb5.json)
-
-[Extended Data](ext_articles/7494aeb5.ext.json)
 
 ---

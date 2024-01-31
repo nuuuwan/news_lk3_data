@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 00:17:38**
+As of **2024-02-01 00:32:37**
 
 ## Newspaper Stats
 
@@ -26,7 +26,7 @@ dailymirrorlk | 542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,943 (100.0%) of 3,944 articles have been extended.
+3,944 (100.0%) of 3,944 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -47,6 +47,8 @@ The Ceylon Petroleum Corporation (CEYPETCO) and Lanka IOC had also announced rev
 ◼️
 
 [Data](articles/67fca6d9.json)
+
+[Extended Data](ext_articles/67fca6d9.ext.json)
 
 ---
 

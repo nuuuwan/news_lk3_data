@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 08:32:47**
+As of **2024-01-31 08:50:06**
 
 ## Newspaper Stats
 
-*Scraped **3,678** Articles*
+*Scraped **3,682** Articles*
 
 newspaper | n
 --- | ---:
@@ -18,7 +18,7 @@ dailyftlk | 242
 adalk | 331
 virakesarilk | 406
 adaderanasinhalalk | 410
-tamilmirrorlk | 463
+tamilmirrorlk | 467
 adaderanalk | 469
 dailymirrorlk | 499
 
@@ -26,7 +26,7 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,676 (99.9%) of 3,678 articles have been extended.
+3,678 (99.9%) of 3,682 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -56,6 +56,26 @@ The government plans to grant free deeds for Rs. 20 million under this program.
 
 ---
 
+### பெலியத்த கொலை சம்பவம்;மூவர் கைது
+
+*2024-01-31 07:42:11* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/பெலியத்த-கொலை-சம்பவம்-மூவர்-கைது/175-332388) · `ta`
+
+பெலியத்தையில் ஐந்து பேர் படுகொலை செய்யப்பட்ட சம்பவத்திற்கு உதவிய மேலும் மூன்று சந்தேகநபர்கள் கைது செய்யப்பட்டுள்ளனர்.
+
+ஹூங்கம பொலிஸ் நிலைய அதிகாரிகளினால் இரண்டு சந்தேகநபர்கள் கைதுசெய்யப்பட்டதுடன், அன்றைய தினம் மாத்தறை குற்றப் புலனாய்வுப் பிரிவின் அதிகாரிகள் மேலும் ஒரு சந்தேக நபரை மாத்தறையில் வைத்து கைது செய்தனர்.
+
+நீர்கொழும்பு, அலவ்வ மற்றும் புஸ்ஸ ஆகிய பகுதிகளை சேர்ந்த 28, 42 மற்றும் 58 வயதுடையவர்களே இவ்வாறு கைது செய்யப்பட்டுள்ளனர்.
+
+இந்த சந்தேக நபர்கள், படுகொலை செய்வதற்கு பயன்படுத்தப்பட்ட T-56 துப்பாக்கிகளை அப்புறப்படுத்தியதற்காகவும், குற்றச் செயல்களின் போது பணப் பரிவர்த்தனைகளை மேற்கொண்டதற்காகவும் கைது செய்யப்பட்டுள்ளனர்.
+
+இது தொடர்பான மேலதிக விசாரணைகளை பெலியத்தை பொலிஸார் மேற்கொண்டு வருவதுடன், கொலைகளுக்காக துப்பாக்கிகளை கொண்டு சென்ற குற்றத்திற்காக முன்னதாக இரண்டு பெண்களும் கைது செய்யப்பட்டுள்ளமை குறிப்பிடத்தக்கது.
+
+◼️
+
+[Data](articles/1bc18403.json)
+
+---
+
 ### Three more suspects arrested over Beliatta shooting
 
 *2024-01-31 07:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96870/three-more-suspects-arrested-over-beliatta-shooting) · `en`
@@ -73,6 +93,8 @@ Investigations have uncovered that the two firearms used in the shooting inciden
 ...
 
 [Data](articles/f3295979.json)
+
+[Extended Data](ext_articles/f3295979.ext.json)
 
 ---
 
@@ -96,6 +118,28 @@ The shooting has been identified and he has fled the area.
 
 ---
 
+### இடியுடன் கூடிய மழை குறித்த அறிவிப்பு
+
+*2024-01-31 07:28:39* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/இடியுடன்-கூடிய-மழை-குறித்த-அறிவிப்பு/175-332387) · `ta`
+
+நாட்டின் பெரும்பாலான பகுதிகளில் காலை வேளையில்  வானம் முகில் சூழ்ந்து காணப்படுமென வளிமண்டலவியல் திணைக்களம் தெரிவித்துள்ளது.
+
+கிழக்கு, வடமத்திய மற்றும் ஊவா மாகாணங்களிலும் அத்துடன் முல்லைத்தீவு மற்றும்  மாத்தளை மாவட்டங்களிலும் அடிக்கடி  மழை பெய்யக்கூடும்.
+
+நாட்டின் ஏனைய பிரதேசங்களின் பல இடங்களில்  பிற்பகல் இரண்டு மணிக்குப் பின்னர் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடிய வாய்ப்புக் காணப்படுகின்றது.
+
+மத்திய, சப்ரகமுவ மற்றும் ஊவா  மாகாணங்களின் சில இடங்களிலும் அத்துடன் அம்பாறை மாவட்டத்தின் சில இடங்களிலும்  மில்லிமீற்றர் வரையிலான ஓரளவு பலத்த மழை பெய்யலாம் என எதிர்பார்க்கப்படுகிறது.
+
+மத்திய, சப்ரகமுவ மற்றும் ஊவா மாகாணங்களின் சில இடங்களிலும் அத்துடன் காலி மற்றும் மாத்தறை மாவட்டங்களிலும்  காலை வேளையில் பனிமூட்டம் காணப்படும்.
+
+முல்லைத்தீவு  தொடக்கம் திருகோணமலை, மட்டக்களப்பு ஊடாக ஹம்பாந்தோட்டை வரையான கரையோரத்திற்கு அப்பால் உள்ள கடல் பிராந்தியங்களின் பல இடங்களில் மழை அல்லது இடியுடன் கூடிய மழை பெய்யக்கூடும்.
+
+...
+
+[Data](articles/6eb76036.json)
+
+---
+
 ### Fairly heavy showers expected in parts of the island
 
 *2024-01-31 07:27:00* · [`adaderanalk`](https://www.adaderana.lk/news/96869/fairly-heavy-showers-expected-in-parts-of-the-island) · `en`
@@ -115,6 +159,8 @@ The public is kindly requested to take adequate precautions to minimize damages 
 ◼️
 
 [Data](articles/fa49220e.json)
+
+[Extended Data](ext_articles/fa49220e.ext.json)
 
 ---
 
@@ -261,6 +307,36 @@ Adani Power Ltd., (APL), a part of Adani portfolio companies, recently announced
 [Data](articles/9b16dd49.json)
 
 [Extended Data](ext_articles/9b16dd49.ext.json)
+
+---
+
+### கத்திக் குத்தில் ஒருவர் பலி
+
+*2024-01-31 03:10:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/கத்திக்-குத்தில்-ஒருவர்-பலி/175-332385) · `ta`
+
+யாழ்ப்பாணம் - சுன்னாகம் பகுதியில் நேற்று இருவரிடையே ஏற்பட்ட வாய்த்தர்க்கம் கொலையில் முடிவடைந்துள்ளது.
+
+சுன்னாகம், கந்தரோடைப் பகுதியைச் சேர்ந்த சந்திரநாதன் கோபிராஜ் (வயது 36) என்பவரே உயிரிழந்துள்ளார்.
+
+உயிரிழந்த நபருக்கும் மற்றைய நபருக்கும் இடையில் ஏற்பட்ட வாய்த்தர்க்கம் முற்றி கத்திக் குத்து நடத்தப்பட்டது. கத்திக் குத்துக்கு இலக்காகியவர் யாழ்ப்பாணம் போதனா வைத்தியசாலைக்குக் கொண்டு செல்லப்பட்ட நிலையில் உயிரிழந்துள்ளார். (a)
+
+◼️
+
+[Data](articles/346ebd45.json)
+
+---
+
+### நிதி அறிக்கையை சமர்ப்பிக்குமாறு அறிவிப்பு
+
+*2024-01-31 03:06:42* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/நிதி-அறிக்கையை-சமர்ப்பிக்குமாறு-அறிவிப்பு/175-332384) · `ta`
+
+நாட்டின் அனைத்து அரச நிறுவனங்களும் எதிர்வரும் பெப்ரவரி 28 ஆம் திகதி அல்லது அதற்கு முன்னதாக தமது வருடாந்த நிதி அறிக்கையை சமர்ப்பிக்க வேண்டும் என கணக்காய்வாளர் நாயகம் தெரிவித்துள்ளார்.
+
+அதன் பின்னர் வருடாந்த நிதி அறிக்கையுடன் வெளியிடப்படவுள்ள கணக்காய்வாளரின் சாராம்ச அறிக்கையை மேற்படி நிறுவனங்களுக்கு விநியோகிக்கப்படவுள்ளதாக கணக்காய்வாளர் நாயகம் டபிள்யூ.பி.சி. விக்ரமரத்ன குறிப்பிட்டுள்ளார். (a)
+
+◼️
+
+[Data](articles/7e950ce1.json)
 
 ---
 
@@ -1975,79 +2051,5 @@ If the opposition parties are correct, it is the act of deducting the sovereignt
 [Data](articles/64b33dc9.json)
 
 [Extended Data](ext_articles/64b33dc9.ext.json)
-
----
-
-### Sri Lanka, Thailand to sign bilateral aviation agreement
-
-*2024-01-30 15:54:00* · [`adaderanalk`](https://www.adaderana.lk/news/96856/sri-lanka-thailand-to-sign-bilateral-aviation-agreement-) · `en`
-
-Sri Lanka and Thailand are expected to sign a bilateral aviation services agreement during the upcoming visit of Thai Prime Minister, Srettha Thavisin to Colombo.
-
-Approval had been granted by the Cabinet of Ministers at their meeting held on 19th June 2018 to sign a bilateral aviation services agreement between Sri Lanka and Thailand.
-
-Later on, clearance of the Attorney General as well as the concurrence of the Ministry a Foreign Affairs have been granted for the aviation service agreement prepared including the revisions furnished from the Thailand side.
-
-Accordingly, the Cabinet of Ministers yesterday approved the proposal submitted by Sri Lanka’s Minister of Ports, Shipping, and Aviation Services to sign the proposed bilateral Aviation Agreement.
-
-...
-
-[Data](articles/1e5fca70.json)
-
-[Extended Data](ext_articles/1e5fca70.ext.json)
-
----
-
-### Resolution to export the removed granite during the Hambantota port construction!
-
-*2024-01-30 15:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175160) · `ta`
-
-The Cabinet has decided to appoint a committee to submit a report with a report with a report on the export and relevant issues of exporting the amount of one million matricthon granite.
-
-Currently the need for construction developments in the country is at low levels at low levels, as the livelihoods of the excavation industry and its associated communities are badly affected.
-
-Considering this situation, it has been found that in a short period of implementation of a program that has earned a foreign exchange program to Sri Lanka through granite exports under a limited situation.
-
-The amount of granite has been removed during the construction of the Hambantota Magampura port, which is currently being concentrated in the port city and in the new hospital complex in the Hambantota new hospital.
-
-...
-
-[Data](articles/f9defe77.json)
-
-[Extended Data](ext_articles/f9defe77.ext.json)
-
----
-
-### Use of water and tear gas on the United People's Power rally
-
-*2024-01-30 15:48:00* · [`virakesarilk`](https://www.virakesari.lk/article/175165) · `ta`
-
-Police have used water and tear gas bombs to dissolve the United People's Power protest against the government near the public library in Colombo.
-
-At the same time, the security of the police has been strengthened by the police around the Vihara Mahadevi Park which started the protest.
-
-◼️
-
-[Data](articles/a368d83f.json)
-
-[Extended Data](ext_articles/a368d83f.ext.json)
-
----
-
-### Bill & Melinda Gates Foundation to provide policy support to President’s Office
-
-*2024-01-30 15:41:00* · [`adaderanalk`](https://www.adaderana.lk/news/96855/bill-melinda-gates-foundation-to-provide-policy-support-to-presidents-office) · `en`
-
-The Bill and Melinda Gates Foundation, one of the world’s largest charitable foundations, has agreed to establish a Program Support Unit to support the Office of the President of Sri Lanka.
-
-Accordingly, Global Health Strategies, an international organization established by the Bill and Melinda Gates Foundation, and its local partner Connect to Care Organization, have agreed to establish a Program Support Unit to support the President’s Office in relation to these programs and to act as partners providing active contributions to the Government of Sri Lanka.
-
-As such, an Executive Committee consisting of senior officials will be appointed to ensure proper coordination for the proper implementation of the various programs being implemented by the Bill and Melinda Gates Foundation.
-
-...
-
-[Data](articles/6c358f2d.json)
-
-[Extended Data](ext_articles/6c358f2d.ext.json)
 
 ---

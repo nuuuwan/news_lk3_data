@@ -1,36 +1,52 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 18:32:40**
+As of **2024-01-31 18:50:38**
 
 ## Newspaper Stats
 
-*Scraped **3,860** Articles*
+*Scraped **3,870** Articles*
 
 newspaper | n
 --- | ---:
 colombotelegraphcom | 47
 bbccomsinhala | 62
-dbsjeyarajcom | 129
+dbsjeyarajcom | 130
 economynextcom | 203
 islandlk | 208
-newsfirstlk | 240
+newsfirstlk | 241
 dailyftlk | 243
-adalk | 344
+adalk | 345
 virakesarilk | 440
-adaderanasinhalalk | 444
+adaderanasinhalalk | 445
 adaderanalk | 487
 tamilmirrorlk | 495
-dailymirrorlk | 518
+dailymirrorlk | 524
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,858 (99.9%) of 3,860 articles have been extended.
+3,860 (99.7%) of 3,870 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### රජයෙන් අලුත්ම පහසු ගෙවීමේ ක්‍රමයක්
+
+*2024-01-31 18:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192805) · `si`
+
+ඉදිරියේදී විදුලි පාරිභෝගිකයින් සඳහා පහසු ගෙවීමේ ක්‍රමයක් හඳුන්වාදෙන බව විදුලිබල සහ බලශක්ති අමාත්‍ය කංචන විජේසේකර මහතා පවසයි.
+
+විදුලි බල මණ්ඩලය, ලංකා ඛනිජ තෙල් නීතිගත සංස්ථා නිලධාරීන් සමග ඊයේ පැවති සාකච්ඡාවකදී මේ පිළිබඳව අවධානය යොමුවූ බවය.
+
+සිය X ගිණුමේ සටහනක් තබමින් අමාත්‍යවරයා වැඩිදුරටත් පෙන්වාදෙන්නේ ඉදිරියේදී විදුලි පාරිභෝගිකයින් වෙත තවත් සේවා කිහිපයක් හඳුන්වාදෙන බවය.
+
+◼️
+
+[Data](articles/05d1b0b6.json)
+
+---
 
 ### Son and sister arrested for Dematagoda
 
@@ -71,6 +87,40 @@ After the post mortem examination at the Moneragala hospital, the remains were t
 [Data](articles/cb955c53.json)
 
 [Extended Data](ext_articles/cb955c53.ext.json)
+
+---
+
+### Influential writer and former Sunday Observer editor passes away
+
+*2024-01-31 17:46:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Influential-writer-and-former-Sunday-Observer-editor-passes-away/108-276054) · `en`
+
+H.L.D. Mahindapala, the former Editor in Chief of the Sunday Observer and Observer (Daily) and veteran journalist passed away at a private hospital on Tuesday at the age of 93.
+
+Don Mahindapala, who belonged to a different era in journalism shared the limelight with legendary figures in the newspapers, such as Denzil Pieris, Clarence Fernando etc. in those spacious days of the 50s.
+
+He migrated to Australia in the early 70s when he had already risen to be News Editor of the Daily News.
+
+While in Melbourne, he took to writing and commentating on Sri Lankan affairs in his spare time while he worked for an Australian government concern in a bureaucratic capacity. His opinions on Sri Lankan affairs were sought after and highly regarded by both Australians and other followers of sub-continental affairs, and Sri Lankans abroad.
+
+In 1990 he took up the job of Editor in Chief, Sunday Observer.
+
+...
+
+[Data](articles/5e161031.json)
+
+---
+
+### Informed, Civilized Society Key to Economic Development – President
+
+*2024-01-31 17:41:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/informed-civilized-society-key-to-economic-development-president/) · `en`
+
+(PMD) President Ranil Wickremesinghe emphasized that the foundation of a nation’s economy lies in fostering an enlightened and cultured society. He made these remarks during the inauguration of the new building complex at the Kelaniya University Postgraduate Institute of Pali and Buddhist Studies this morning (31).
+
+The President underscored Sri Lanka’s pivotal role as the heart of Theravada Buddhism, expressing the nation’s duty to delve deeper into the Dharma and share its wisdom globally. Highlighting plans for the future, he announced the intention to establish a research institute dedicated to Theravada Buddhism, recognizing the potential of such institutions to propagate the teachings and strengthen ties between Buddhist nations.
+
+...
+
+[Data](articles/2f5b92be.json)
 
 ---
 
@@ -121,6 +171,38 @@ In this exercise, a special warfare in Taiwan was entered into the plane.
 [Data](articles/8bb24bda.json)
 
 [Extended Data](ext_articles/8bb24bda.ext.json)
+
+---
+
+### BCCI Secretary Jay Shah reappointed as ACC Chairman for third consecutive term
+
+*2024-01-31 17:04:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/BCCI-Secretary-Jay-Shah-reappointed-as-ACC-Chairman-for-third-consecutive-term/108-276052) · `en`
+
+Jan. 31 (IND) - The Annual General Meeting (AGM) of the Asian Cricket Council (ACC) took place over the course of two days in Bali. During the meeting, it has been decided unanimously that Jay Shah who is also the BCCI Secretary will continue at the top post of ACC.
+
+The Secretary of Board of Control for Cricket in India (BCCI) has been reappointed as the Chairman of the Asian Cricket Council (ACC). The decision was taken at the AGM of the ACC that took place in Bali even as Shah will serve at the top position for the third consecutive time. His extension was proposed by the Sri Lanka Cricket president Shammi Silva and all the members of the ACC unanimously backed his proposal during the meeting.
+
+...
+
+[Data](articles/480b5131.json)
+
+---
+
+### Toyota recalls 50k US vehicles over potential airbag explosion
+
+*2024-01-31 17:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Toyota-recalls-50k-US-vehicles-over-potential-airbag-explosion/108-276051) · `en`
+
+WASHINGTON (Reuters) -Toyota Motor recently said it is urging the owners of 50,000 older U.S. vehicles to get immediate recall repairs because an air bag inflator could explode and potentially kill motorists.
+
+The Japanese automaker said the "Do Not Drive" advisory covers some 2003-2004 model year Corolla, 2003-2004 Corolla Matrix, and 2004-2005 RAV4s with Takata air bag inflators.
+
+More than 30 deaths worldwide, including 26 U.S. deaths, and hundreds of injuries in various automakers' vehicles since 2009 are linked to Takata air bag inflators that can explode, unleashing metal shrapnel inside cars and trucks.
+
+Over the last decade, more than 67 million Takata air bag inflators have been recalled in the United States by more than 20 automakers, and more than 100 million inflators worldwide, in the biggest auto safety callback in history.
+
+...
+
+[Data](articles/aa3608ac.json)
 
 ---
 
@@ -184,19 +266,21 @@ Commenting further regarding the matter, the All Ceylon Nurses’ Union alleged 
 
 ---
 
-### ஹட்டன் மாணவன் தன்னுயிரை மாய்த்தான்
+### Hatton student
 
 *2024-01-31 16:52:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-மாணவன்-தன்னுயிரை-மாய்த்தான்/76-332433) · `ta`
 
-ஹட்டன் பொலிஸ் பிரிவிற்குட்பட்ட லெதண்டி தோட்டத்தின் மார்ல்பரோ பகுதியில் வசித்து வந்த 15 வயதுடைய பாடசாலை மாணவரொருவர் தனது வீட்டில் உயிரை மாய்த்துக்கொண்டார்.
+A 15 -year -old schoolgirl who lived in the Marlborough area of the Lentandi estate, which belongs to the Hatton Police Division, died at his home.
 
-ஹட்டன் வலயக் கல்வி அலுவலகத்தின் கீழ் இயங்கும் ஹட்டன் பிரதேசத்திலுள்ள பாடசாலையொன்றில் 10ஆம் ஆண்டில் கல்வி கற்கும் ஆர்.கோபி ஹர்ஷன் என்ற பாடசாலை மாணவனே தன் உயிரை மாய்த்துக்கொண்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police said that a school student named R. Gopi Harshan, who is studying in the 10th school in a school in Hatton, which runs under the Hatton Zonal Education Office, has lost his life.
 
-இதேவேளை, உயிரிழந்த மாணவணின் சடலம் பிரேத பரிசோதனைக்காக டிக்கோயா ஆரம்ப வைத்தியசாலையின் சட்ட வைத்தியரிடம் அனுப்பி வைக்கப்பட்டுள்ளதுடன், என சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொண்டுள்ளதாக ஹட்டன் பொலிஸார் தெரிவித்தனர்.
+Meanwhile, Hatton police said that the body of the deceased student has been sent to the Dikoya Primary Hospital for an autopsy and is investigating the incident.
 
 ◼️
 
 [Data](articles/2ca13bc5.json)
+
+[Extended Data](ext_articles/2ca13bc5.ext.json)
 
 ---
 
@@ -308,6 +392,20 @@ He added that he would expect to strengthen the education of Sri Lanka as needed
 
 ---
 
+### CID to grill Keheliya today
+
+*2024-01-31 16:42:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/CID-to-grill-Keheliya-today/108-276048) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - Former Health Minister Keheliya Rambukwella has been summoned before the Criminal Investigation Department (CID) for a statement to be recorded today regarding the import of substandard Immunoglobulin injections, a highly placed authoritative source told the Daily Mirror.
+
+According to the source, Rambukwella, who is also the Environment Minister, has confirmed that he will appear before the CID within the day. The CID recorded a statement from him earlier too.
+
+◼️
+
+[Data](articles/256153da.json)
+
+---
+
 ### Amid row with India, Maldives turns to Sri Lanka for medical evacuation support
 
 *2024-01-31 16:38:00* · [`adaderanalk`](https://www.adaderana.lk/news/96889/amid-row-with-india-maldives-turns-to-sri-lanka-for-medical-evacuation-support) · `en`
@@ -415,6 +513,22 @@ Kushan Sampath Jayaratne worked in the Sri Lanka Navy from 1994 to 2007. He had 
 [Data](articles/64d79700.json)
 
 [Extended Data](ext_articles/64d79700.ext.json)
+
+---
+
+### Gammanpila’s travel ban temporarily lifted to read PhD
+
+*2024-01-31 16:31:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Gammanpilas-travel-ban-temporarily-lifted-to-read-PhD/108-276047) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - The Colombo High Court today permitted Parliamentarian Udaya Gammanpila to travel China to read for his PhD.
+
+Former Minister Gammanpila whose passport was impounded by Court for allegedly misappropriating Rs. 20 million following the alleged fraudulent share transaction that had taken place in 2000, sought the Colombo High Court’s permission to temporarily lift his travel ban.
+
+Court was informed that Gammanpila is expecting to travel to China occasionally to read for a PhD.
+
+◼️
+
+[Data](articles/7d64d64b.json)
 
 ---
 
@@ -727,6 +841,22 @@ Dhananjaya de Silva will lead the 16-man squad against Afghanistan. The one-off 
 [Data](articles/ba6eb04d.json)
 
 [Extended Data](ext_articles/ba6eb04d.ext.json)
+
+---
+
+### 2023දී අවුරුදු 18ට අඩු ගැබිණියන් 167ක්
+
+*2024-01-31 15:43:03* · [`adalk`](https://www.ada.lk/breaking_news/2023දී-අවුරුදු-18ට-අඩු-ගැබිණියන්-167ක්/11-407824) · `si`
+
+2023 වර්ෂයේ දී අවුරුදු 18ට වඩා අඩු ගැබිණියන් 167 ක් වාර්තා වී තිබෙන බව කාන්තා හා ළමා කටයුතු රාජ්‍ය අමාත්‍ය ගීතා කුමාරසිංහ මහත්මිය පැවසීය.
+
+එමෙන්ම එම වර්ෂයේදී අවුරුදු 18 අඩු ළමා අපරාධ 1,502ක්ද, කැමැත්ත ඇතිව ස්ත්‍රී දූෂණ 1,163ක්ද, බලහත්කාරකම් ලෙස සිදු වූ ස්ත්‍රී දූෂණ 339ක්ද වාර්තා වී ඇති බව සිය අමාත්‍යාංශයේ අද (31දා) පැවති මාධ්‍ය හමුවකට එක්වෙමින් අමාත්‍යවරිය මේ බව සඳහන් කළාය.
+
+"මැතක සිට අපේ රටේ කාන්තාවන්ට එරෙහිව දූෂණ සහ ඝාතන රැල්ලක් ඇති වෙමින් පවතිනවා. මෙය ඉතා භයානක තත්වයක්. මේ හේතුව නිසා කාන්තාවන් සහ දරුවන් විශාල ප්‍රමාණයක් මියගොස් තිබෙනවා. පසුගිය වර්ෂයේ දී අවුරුදු 18ට අඩු ළමා අපරාධ 1502 ක් වාර්තා වී තිබෙනවා. එසේම කැමැත්ත ඇතිව  ස්ත්‍රී දූෂණ සිදු වීම්  1163 ක් වාර්තා වී තිබෙනවා. එසේම කැමැත්ත නොමැතිව බලහත්කාරකම් ලෙස සිදු වූ ස්ත්‍රී දූෂණ ගණන 339 ක් වී තිබෙනවා. එහි භයානකම තත්වය අවුරුදු 18 ට අඩු ළමා ගැබ් ගැනීම් 167 ක් වාර්තා වී තිබීම.
+
+...
+
+[Data](articles/d2d064a4.json)
 
 ---
 
@@ -1646,6 +1776,26 @@ He went on to suggest that by embracing Ratnayake, the SJB risks aligning itself
 
 ---
 
+### Sarath Fonseka slams Sajith Premadasa over alliance with Daya Ratnayake
+
+*2024-01-31 12:55:00* · [`dailymirrorlk`](https://www.dailymirror.lk/top-story/Sarath-Fonseka-slams-Sajith-Premadasa-over-alliance-with-Daya-Ratnayake/155-276042) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - In the wake of Samagi Jana Balawegaya (SJB) leader Sajith Premadasa accepting the support of former Army Commander (Retired) General Daya Ratnayake, Field Marshal Sarath Fonseka expressed his strong displeasure over the move.
+
+Field Marshal Sarath Fonseka made these remarks during his participation in the protest organized by the SJB in Colombo yesterday.
+
+Sarath Fonseka disclosed Ratnayake's significant involvement in his imprisonment back in 2010 under the administration of former President Mahinda Rajapaksa.
+
+Expressing his concerns, Fonseka emphasized that Ratnayake's allegiance to the SJB, particularly given his past affiliations, raises questions about the party's direction and principles.
+
+He went on to suggest that by embracing Ratnayake, the SJB risks aligning itself with the former President, implying a compromise of its political stance.
+
+...
+
+[Data](articles/eb1eb31f.json)
+
+---
+
 ### Two foreigners killed in accident
 
 *2024-01-31 12:54:00* · [`virakesarilk`](https://www.virakesari.lk/article/175229) · `ta`
@@ -1871,187 +2021,5 @@ The suspect working at the Ampara Department of Labor has received bribery, the 
 [Data](articles/ef5fc020.json)
 
 [Extended Data](ext_articles/ef5fc020.ext.json)
-
----
-
-### Jacqueline fell into Fernandes on the money of others
-
-*2024-01-31 12:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192781) · `si`
-
-The Indian police have revealed that the Sri Lankan origin of the origin of Sri Lankan origin, Jacked Fernande and Sukalin Farnendas owned by crimes owned by crimes.
-
-She always had concealed the money exchanges and the investigation into the "Enforcement Division" had been informed of the Delhi Magistrate.
-
-Sukh Chandraka, which is said to be the boyfriend at the time, was imprisoned on the Indian rupees in cash laundering allegations and is a defendant of the case.
-
-◼️
-
-[Data](articles/da325b11.json)
-
-[Extended Data](ext_articles/da325b11.ext.json)
-
----
-
-### 14 years in prison for Imran Khan and his wife
-
-*2024-01-31 12:15:13* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/இம்ரான்கானுக்கும்-மனைவிக்கும்-14-ஆண்டுகள்-சிறை/50-332406) · `ta`
-
-Former Prime Minister Imran Khan. He was the leader of the Pakistan Tekrik-e-Inspiration Party from 2018 to 2022. Imran Khan and his wife Bushra PP alleged that the prizes received from foreign leaders and dignitaries were sold to the government without handing over the property.. The allegations of corruption were involved in corruption without handing over the gifts in the state treasury Toshakana.
-
-Similarly, various cases have been filed against Imran Khan alleging that the secrets of the state have been leaked and the violence against the removal of the prime minister.. In this, Imran Khan has been arrested and imprisoned in Rawalpindi.
-
-Meanwhile, a court on Tuesday (30) ordered Imran Khan to be sentenced to 10 years in prison in the case of leak the secrets of the state during his tenure.
-
-...
-
-[Data](articles/56e1d489.json)
-
-[Extended Data](ext_articles/56e1d489.ext.json)
-
----
-
-### Shasheendra Rajapaksa sworn in as state minister
-
-*2024-01-31 12:13:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Shasheendra-Rajapaksa-sworn-in-as-state-minister/108-276039) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - Shasheendra Rajapaksa has been sworn in as the State Minister for Irrigation and Water Resources Management before President Ranil Wickremesinghe a short while ago at the Presidential Secretariat.
-
-◼️
-
-[Data](articles/0cc6f25b.json)
-
-[Extended Data](ext_articles/0cc6f25b.ext.json)
-
----
-
-### Youth killed in police custody
-
-*2024-01-31 12:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192780) · `si`
-
-The villagers were protesting in front of the Anuradhapura police stating that the suspect was suspected of death.
-
-The youth and two other youths have been arrested by the youth and two other youths in the Anuradhapura Headquarters Police.
-
-Their relatives were later coming to the police and provided the youths and returned home.
-
-Relatives have been informed of a telephone call yesterday afternoon, along with the sudden sickness, and the youth was admitted to the Anuradhapura Teaching Hospital and arrive at the hospital soon.
-
-According to the notice, the relatives say they were able to see the dead youth.
-
-The deceased has been identified as the dead man was suddenly ill, the police said.
-
-However, the relatives of the dead youth say that this death is suspicious.
-
-The deceased has been identified as a 22 year old resident of the second step in Anuradhapura.
-
-The mother of the deceased youth abroad and has been alive under the care of grandguna and the success.
-
-◼️
-
-[Data](articles/3f0f8a8b.json)
-
-[Extended Data](ext_articles/3f0f8a8b.ext.json)
-
----
-
-### New post for Shasindra
-
-*2024-01-31 12:12:07* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/ஷசீந்திரவுக்கு-புதிய-பதவி/175-332405) · `ta`
-
-Shasheendra Rajapakse has been sworn in as the Minister of Irrigation and Water Resources Management in the presence of President Ranil Wickremesinghe.
-
-The President's Media Unit said that the swearing -in of the Presidential Secretariat took place today.
-
-◼️
-
-[Data](articles/3f2ab9e5.json)
-
-[Extended Data](ext_articles/3f2ab9e5.ext.json)
-
----
-
-### Army Commander visited the soldiers who were injured in the accident
-
-*2024-01-31 12:06:00* · [`virakesarilk`](https://www.virakesari.lk/article/175219) · `ta`
-
-Army Commander Lieutenant General Vikki visited the Colombo Army Hospital on Tuesday (January 30) to inquire into the welfare of the officer and the soldier who was injured during the 76th Independence Day parade at the Galle Face at Galle.
-
-The army commander, who regretted the injuries during the open air flow, spoke to the officer and the soldier separately and expressed his grief and inquired about the treatments they would be given.
-
-The Army Commander met with medical officers at the hospital and promised to heal quickly, emphasizing the importance of providing the highest quality treatment to the wounded soldiers.
-
-◼️
-
-[Data](articles/b682da98.json)
-
-[Extended Data](ext_articles/b682da98.ext.json)
-
----
-
-### Travel abroad?Go to Sri Lanka - Jaishankar Advice to Indians
-
-*2024-01-31 12:04:00* · [`virakesarilk`](https://www.virakesari.lk/article/175218) · `ta`
-
-If you want to travel, go to Sri Lanka.
-
-In his speech, the Indian External Affairs Minister has pointed out the assistance provided by India when the Sri Lankan economic criticism is faced and that these assistance has made a major contributor to the favorable sentiments of India among Indians.
-
-My advice for you is that if you want to travel abroad, please go to Sri Lanka.
-
-Jaishankar said that the ordinary civilians in Sri Lanka are very high and praised India.
-
-I visited Sri Lanka. I have seen the fuels directly. I have observed the deficit of food essentials.
-
-India provided $ 4.5 billion worth of assistance to Sri Lanka, they have long negotiated with the International Monetary Fund for a long time.
-
-He added that India provided assistance to Sri Lanka immediately, fifty -time than the IMF.
-
-◼️
-
-[Data](articles/05531355.json)
-
-[Extended Data](ext_articles/05531355.ext.json)
-
----
-
-### 'යුක්තිය මෙහෙයුම': 'මෙයින් සිදුවන්නේ අපි හැමෝම අනාරක්ෂිත වීමයි'
-
-*2024-01-31 12:03:23* · [`bbccomsinhala`](https://www.bbc.com/sinhala/articles/cd10y174rd4o) · `si`
-
-මෙරට තුළ ක්‍රියාත්මක සංවිධානාත්මක අපරාධ සහ මත්ද්‍රව්‍ය ජාවාරම් මැඩලීම සඳහා පොලිසිය විසින් ඉකුත් දෙසැම්බර් 17 වැනිදා සිට ආරම්භ කළ යුක්තියේ මෙහෙයුම අද (ජනවාරි 31 වැනිදා) වන විට දින 46ක් පුරා ක්‍රියාත්මක වෙමින් පවතී.
-
-අපරාධ සහ මත්ද්‍රව්‍ය මැඩලීමේ මෙහෙයුමේදී දෛනිකව අවම වශයෙන් සැකකරුවන් 700 කට අධික පිරිසක් අත්අඩංගුවට ගැනීමට පොලිසිය කටයුතු කරන බව මහජන ආරක්ෂක අමාත්‍යංශය නිකුත් කරන නිවේදන මගින් පෙනී යයි.
-
-මෙම අපරාධ මැඩලීමේ මෙහෙයුම ආරම්භ වූ කාලසීමාවේ සිට මේ දක්වා වෙඩි තැබිමේ සිද්ධි කිහිපයක්ද වාර්තා විය.
-
-ඉන් එක් වෙඩි තැබීමකින් පුද්ගලයින් 5 දෙනෙකු ජීවිතක්ෂයට පත්වීම සමාජය තුළ විශාල කතාබහට ලක්වන සිදුවීමක් විය.
-
-‘යුක්තිය’මෙහෙයුමේ ඉලක්කය කුමක් ද ?පූජ්‍ය කළපළුවාවේ ධම්මරතන හිමි ඝාතනය: මෙතෙක් අප දන්නේ මොනවාද?
-
-ඉකුත් දෙසැම්බර් මස 17 වැනිදා සිට ජනවාරි මස 30 වැනිදා දක්වා වාර්තා වූ වෙඩි තැබීමේ සිදුවීම් පිළිබඳව බීබීසී සිංහල විසින් සොයා බැලීමක් සිදුකරන ලදී.
-
-එහිදී අනාවරණය වුයේ ගතවූ කාල සීමාව තුළදී වෙඩි තැබීමේ සිදුවීම් 14ක් වාර්තා වී ඇති බවය.
-
-...
-
-[Data](articles/051d86bf.json)
-
----
-
-### China’s threat to India would come from Sri Lanka, Rajya Sabha member
-
-*2024-01-31 12:03:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Chinas-threat-to-India-would-come-from-Sri-Lanka-Rajya-Sabha-member/108-276038) · `en`
-
-India, Jan 31 (The Hindu) - India’s MDMK general secretary and Rajya Sabha member Vaiko on Tuesday urged the Indian government to handle its relationship with Sri Lanka, considering the threat posed by China’s entry into the island nation.
-
-Addressing an all-party meeting chaired by Defence Minister Rajnath Singh in New Delhi, Mr. Vaiko said China had constructed a port in Hambantota and the Indian government should realise that the threat to the country from China would emerge first from the south.
-
-A statement from the party said that he also drew Mr. Rajnath Singh’s attention to the alleged attack on Tamil fishermen by the Sri Lankan Navy, claiming that “over 800 fishermen had been killed so far” and there was no protection to their lives and belongings. He also used the occasion to launch an attack on Tamil Nadu Governor R.N. Ravi, accusing him of “blabbering on one issue or another.”
-
-...
-
-[Data](articles/15de4b57.json)
-
-[Extended Data](ext_articles/15de4b57.ext.json)
 
 ---

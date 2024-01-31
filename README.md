@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 18:08:38**
+As of **2024-01-31 18:20:18**
 
 ## Newspaper Stats
 
-*Scraped **3,856** Articles*
+*Scraped **3,858** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 240
 dailyftlk | 243
 adalk | 344
 virakesarilk | 440
-adaderanasinhalalk | 442
+adaderanasinhalalk | 444
 adaderanalk | 487
 tamilmirrorlk | 494
 dailymirrorlk | 518
@@ -26,11 +26,49 @@ dailymirrorlk | 518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,856 (100.0%) of 3,856 articles have been extended.
+3,856 (99.9%) of 3,858 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### දෙමටගොඩ රුවන්ගේ බිරිඳ පුත්‍රයා සහ සහෝදරිය අත්අඩංගුවට
+
+*2024-01-31 17:48:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192804) · `si`
+
+මරණ දඬුවම නියමවී සිටින දෙමටගොඩ චමින්දගේ සොහොයුරා වන දෙමටගොඩ රුවන්ගේ බිරිඳ, පුත්‍රයා සහ සහෝදරිය නීතිවිරෝධී වත්කම් විමර්ශන කොට්ඨාසයෙන් අද (31) අත්අඩංගුවට ගෙන තිබේ.
+
+ඒ, රුවන් චමිල ප්‍රසන්න නොහොත් දෙමටගොඩ රුවන් මත්ද්‍රව්‍ය ජාවාරම් සහ සංවිධානාත්මක අපරාධ සිදුකර නීතිවිරෝධීව රුපියල් ලක්ෂ 1,000කට අධික වටිනාකමින් යුතු දේපොළ ඔවුන් තිදෙනාගේ නම්වලින් මිලදීගෙන තිබීම හේතුවෙනි.
+
+මෙලෙස අත්අඩංගුවට ගැනුණු 27 හැවිරිදි තරිඳු මධුෂංක නැමති රුවන්ගේ පුත්‍රයා ප්‍රබල දේශපාලන පක්ෂයක කුප්පියාවත්ත ආසන සංවිධායක ලෙස කටයුතු කරයි.
+
+ශානිකා ලක්මිණි නැමති දෙමටගොඩ රුවන්ගේ බිරිඳ 45 හැවිරිදි වියෙහි පසුවන අතර, සමන්ති නිර්මලා නැමති දෙමටගොඩ රුවන්ගේ සහෝදරිය 48 හැවිරිදි වියෙහි පසුවෙයි.
+
+◼️
+
+[Data](articles/07f039d8.json)
+
+---
+
+### කොන්ක්‍රීට් කණුවක් කඩාවැටී 10 හැවිරිදි දරුවෙක් මරුට
+
+*2024-01-31 17:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192803) · `si`
+
+මොණරාගල දොඹගහවෙල ප්‍රදේශයේ නිවසකදී සිදුවූ අවාසනාවන්ත අනතුරකින් 10 හැවිරිදි වියේ පසුවූ කුඩා දරුවෙකු මියගොස් තිබේ.
+
+අදාළ නිවසේ කොන්ක්‍රීට් කණු දෙකක් අතර බැඳ තිබූ ඔන්චිල්ලාවක සෙල්ලම් කරමින් සිටියදී ඉන් එක් කණුවක් කඩා වැටී මෙම අනතුර සිදුව තිබුණි.
+
+එම කොන්ක්‍රීට් කණුව පපුව මතට වැටිමෙන් බරපතළ තුවාල ලැබූ දරුවා අවාසනාවන්ත ලෙස මියගොස් ඇත.
+
+මෙම දරුවා අම්බලන්තොට රිදීගම ප්‍රදේශයේ පදිංචි අතර අනතුර සිදුවූ නිවසේ තිබූ ඥාති නිවසේ කොටහළු මංගල උත්සවයක් හේතුවෙන් එහි පැමිණ සිටියදී මෙම අනතුරට මුහුණපා තිබේ.
+
+මොණරාගල රෝහලේදී පශ්චාත් මරණ පරීක්ෂණය සිදුකිරීමෙන් අනතුරුව දේහය අම්බලන්තොට ප්‍රදේශයේ පිහිටි දරුවාගේ නිවස වෙත ගෙනගොස් ඇත.
+
+◼️
+
+[Data](articles/cb955c53.json)
+
+---
 
 ### If not controlled the atom bomb - President
 
@@ -1997,47 +2035,5 @@ The Presidential Media Unit said that the swearing in was carried out at the Pre
 [Data](articles/c383d844.json)
 
 [Extended Data](ext_articles/c383d844.ext.json)
-
----
-
-### Imran Khan, wife sentenced to 14 years in state gifts case
-
-*2024-01-31 11:52:00* · [`dailymirrorlk`](https://www.dailymirror.lk/international/Imran-Khan-wife-sentenced-to-14-years-in-state-gifts-case/107-276037) · `en`
-
-Jan 31 - Pakistan’s former Prime Minister Imran Khan and his wife Bushra Bibi have been sentenced to 14 years in jail in a case related to illegal selling of state gifts.
-
-An accountability court – which deals with corruption cases – in Rawalpindi on Wednesday also ruled that the couple would be ineligible to contest for a public office for 10 years while also slapping a fine of 757 million rupees ($2.7m).
-
-The sentencing came a day after Khan was given a 10-year prison term for revealing state secrets. It was not immediately clear if the sentences were to run consecutively or concurrently.
-
-Khan was handed a three-year prison sentence in August for selling gifts worth more than 140 million rupees ($501,000) he received when he was the prime minister from 2018 to April 2022.
-
-Though he secured bail, he remained in jail facing trial in other cases.
-
-The convictions against arguably Pakistan’s most popular politician came a week before the general elections to be held on February 8.
-
-...
-
-[Data](articles/114abf6f.json)
-
-[Extended Data](ext_articles/114abf6f.ext.json)
-
----
-
-### A new people's uprising that brings a good dream of the future is essential - Anura Kumara Dissanayake
-
-*2024-01-31 11:52:00* · [`virakesarilk`](https://www.virakesari.lk/article/175216) · `ta`
-
-All sectors must be replaced by new purposes. A new social change is needed.It is not just the action of an individual or political party to make that change. National People's Power Leader Anura Kumara Dissanayake said that all people should get up in one breath and act with a firm solid.
-
-Anurakumara Dissanayake said this while addressing the recent National People's Power of the National People's Power.
-
-When we look at the news we see the stories they tell us about. They are the ones who say what we are going to do under our rule. They are the ones who come from the International Monetary Fund and talk to us. Their amazement and fear are clearly clear.
-
-...
-
-[Data](articles/3d6f575e.json)
-
-[Extended Data](ext_articles/3d6f575e.ext.json)
 
 ---

@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 17:33:22**
+As of **2024-01-31 17:52:59**
 
 ## Newspaper Stats
 
-*Scraped **3,840** Articles*
+*Scraped **3,846** Articles*
 
 newspaper | n
 --- | ---:
@@ -15,9 +15,9 @@ economynextcom | 203
 islandlk | 208
 newsfirstlk | 235
 dailyftlk | 243
-adalk | 343
-adaderanasinhalalk | 435
+adalk | 344
 virakesarilk | 437
+adaderanasinhalalk | 440
 adaderanalk | 487
 tamilmirrorlk | 494
 dailymirrorlk | 518
@@ -26,11 +26,27 @@ dailymirrorlk | 518
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,837 (99.9%) of 3,840 articles have been extended.
+3,846 (100.0%) of 3,846 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### Health aspects of tomorrow
+
+*2024-01-31 16:59:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192800) · `si`
+
+72 health secular trade unions will launch a strike tomorrow (01) at the country's wide strike tomorrow.
+
+Seven health sector trade unions, except doctors, is planning to continue in the strike tomorrow at 6.30 am tomorrow.
+
+◼️
+
+[Data](articles/c9fc6595.json)
+
+[Extended Data](ext_articles/c9fc6595.ext.json)
+
+---
 
 ### Health sector trade unions to launch strike tomorrow
 
@@ -46,21 +62,45 @@ On January 08, the Cabinet of Ministers gave the approval to President Ranil Wic
 
 [Data](articles/ef314c6e.json)
 
+[Extended Data](ext_articles/ef314c6e.ext.json)
+
 ---
 
-### ஹட்டன் மாணவன் தன் உயிரை மாய்த்தான்
+### Hatton student died his life
 
 *2024-01-31 16:52:00* · [`tamilmirrorlk`](https://www.tamilmirror.lk/மலையகம்/ஹட்டன்-மாணவன்-தன்-உயிரை-மாய்த்தான்/76-332433) · `ta`
 
-ஹட்டன் பொலிஸ் பிரிவிற்குட்பட்ட லெதண்டி தோட்டத்தின் மார்ல்பரோ பகுதியில் வசித்து வந்த 15 வயதுடைய பாடசாலை மாணவரொருவர் தனது வீட்டில் உயிரை மாய்த்துக்கொண்டார்.
+A 15 -year -old schoolgirl who lived in the Marlborough area of the Lentandi estate, which belongs to the Hatton Police Division, died at his home.
 
-ஹட்டன் வலயக் கல்வி அலுவலகத்தின் கீழ் இயங்கும் ஹட்டன் பிரதேசத்திலுள்ள பாடசாலையொன்றில் 10ஆம் ஆண்டில் கல்வி கற்கும் ஆர்.கோபி ஹர்ஷன் என்ற பாடசாலை மாணவனே தன் உயிரை மாய்த்துக்கொண்டதாக பொலிஸார் தெரிவித்துள்ளனர்.
+Police said that a school student named R. Gopi Harshan, who is studying in the 10th school in a school in Hatton, which runs under the Hatton Zonal Education Office, has lost his life.
 
-இதேவேளை, உயிரிழந்த மாணவணின் சடலம் பிரேத பரிசோதனைக்காக டிக்கோயா ஆரம்ப வைத்தியசாலையின் சட்ட வைத்தியரிடம் அனுப்பி வைக்கப்பட்டுள்ளதுடன், என சம்பவம் தொடர்பில் விசாரணைகளை மேற்கொண்டுள்ளதாக ஹட்டன் பொலிஸார் தெரிவித்தனர்.
+Meanwhile, Hatton police said that the body of the deceased student has been sent to the lawyer of the Dikoya Primary Hospital for autopsy.
 
 ◼️
 
 [Data](articles/ad3ecd33.json)
+
+[Extended Data](ext_articles/ad3ecd33.ext.json)
+
+---
+
+### Petition against the tear gas
+
+*2024-01-31 16:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192799) · `si`
+
+The Secretary General of Parliamentarian Ranjith Madduma Bandara said that he would file a fundamental rights petition against the protest of the protester gas and water attack.
+
+He points out that the petition is filed against police officers who ordered police officers who were ordered to be respected to the police officers who were ordered to be respected to the verdicipation of tear gas and water attacks in spite of the court order.
+
+Speaking at a media briefing held at the Opposition Leader's Office today (31), MP Ranjith Madduma Bandara said this.
+
+Ranjith Madduma Bandara says that Ranil Wickremesinghe did not give orders to the protests organized by the JVP to the protests organized by the JVP.
+
+◼️
+
+[Data](articles/c59a0dd8.json)
+
+[Extended Data](ext_articles/c59a0dd8.ext.json)
 
 ---
 
@@ -96,21 +136,39 @@ Police have fired tear gas and water cannons near the Peradeniya Rest House in a
 
 ---
 
-### மலேசியாவின் 17-வது மன்னராக சுல்தான் இஸ்கந்தர்
+### Police tear gas to a student protest
+
+*2024-01-31 16:36:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192798) · `si`
+
+Police have launched a tear gas to disperse a student protest at the University of Peradeniya.
+
+The police have been attacked near the Peradeniya River.
+
+◼️
+
+[Data](articles/e24b3119.json)
+
+[Extended Data](ext_articles/e24b3119.ext.json)
+
+---
+
+### Sultan Iskandar as the 17th king of Malaysia
 
 *2024-01-31 16:34:54* · [`tamilmirrorlk`](https://www.tamilmirror.lk/உலக-செய்திகள்/மலேசியாவின்-17-வது-மன்னராக-சுல்தான்-இஸ்கந்தர்/50-332432) · `ta`
 
-மலேசியா நாட்டின் அதிகாரப்பூர்வமாக பிரதமர் இருந்தாலும், அங்கு இன்னும் மன்னர் அதிகாரம் நீடித்து வருகிறது. இந்நிலையில், தற்போது சுல்தான் இப்ராஹிம் இஸ்கந்தர் மலேசியாவின் 17வது மன்னராக பொறுப்பேற்றுக்கொண்டுள்ளார்.
+Although the Prime Minister of Malaysia is still prolonged. At this juncture, Sultan Ibrahim Iskandar is now the 17th king of Malaysia.
 
-இந்நிலையில், இவரும் இவரது குடும்பமும் சிங்கப்பூரில் தொலைத்தொடர்பு உள்ளிட்ட பல்வேறு நிறுவனங்களில் முதலீடுகளை கொண்டிருக்கிறது. இதன் மதிப்பு ரூ.47 ஆயிரம் கோடி என தெரிவிக்கப்பட்டுள்ளது.
+In this case, he and his family have investments in various companies, including telecommunications in Singapore.. It is worth Rs 47,000 crore.
 
-மலாய்-பிரிட்டிஷ் வம்சாவளியைச் சேர்ந்த சுல்தான் இப்ராஹிம், மலேசியாவில் தனியார் இராணுவம் ஒன்றையும் வழிநடத்துகிறார்.
+Sultan Ibrahim, a Malay-British descent, also leads a private military in Malaysia.
 
-இந்தநிலையில், தான் பதவியேற்றுக்கொண்டது குறித்து கூறிய அவர், "நான் அரசாங்கத்தை ஆதரிப்பேன், ஆனால் அவர்கள் தவறாக ஏதாவது செய்கிறார்கள் என்று நினைத்தால் அது குறித்து எச்சரிப்பேன்" என்று கூறியுள்ளார். சமீபத்திய ஆண்டுகளில் நடைபெற்ற தேர்தலில் பெறும்பான்மை இல்லாத பாராளுமன்றம் அமைந்தது. எனவே புதிய பிரதமரை தேர்ந்தெடுக்க மன்னரின் தலையீடு தேவைப்பட்டது. என தெரிவித்துள்ளார்.
+In this case, he said, "I will support the government, but I will warn it if they think they are doing something wrong.". In recent years, the elections have not been received by a parliament. So the king's intervention was needed to choose the new prime minister. Said.
 
 ◼️
 
 [Data](articles/a1c1c3f9.json)
+
+[Extended Data](ext_articles/a1c1c3f9.ext.json)
 
 ---
 
@@ -131,6 +189,48 @@ Kushan Sampath Jayaratne worked in the Sri Lanka Navy from 1994 to 2007. He had 
 [Data](articles/64d79700.json)
 
 [Extended Data](ext_articles/64d79700.ext.json)
+
+---
+
+### All Ceylon Nursing Association resigns from strike
+
+*2024-01-31 16:28:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192797) · `si`
+
+The All Ceylon Nurses Union says his union is not one for the strike for the health sector tomorrow.
+
+The members of the union said to the media after the general captain of the Malwatte side of the health sector.
+
+The All Ceylon Nurses Union said that the strike was a government conspiracy and decided to leave.
+
+However, the All Ceylon Nurses Union says that if the authorities have been informed of their demands and requested the authorities to take a proper answer.
+
+◼️
+
+[Data](articles/992937ab.json)
+
+[Extended Data](ext_articles/992937ab.ext.json)
+
+---
+
+### Bribery case against Keheliya postponed
+
+*2024-01-31 16:25:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192796) · `si`
+
+The Colombo High Court today ordered the basic protest against the bribery commission.
+
+The case was called before Colombo High Court Judge Thatawatte today.
+
+Attorneys who appeared for the defendant raised the preliminary protests in order to raise basic objections and to refute it.
+
+After considering the initial objections, the court ordered that its order was declared on February 16.
+
+Death was accused of March 15 and 150,000 rupees applicable to his private mobile phone at Keheliya Rambukwella on April 15 and April 15The case has been filed by the Bribery Commission.
+
+◼️
+
+[Data](articles/2c7108b5.json)
+
+[Extended Data](ext_articles/2c7108b5.ext.json)
 
 ---
 
@@ -487,6 +587,30 @@ This order was issued when the relevant petitions filed by Attorney-at-Law Priya
 [Data](articles/b8452319.json)
 
 [Extended Data](ext_articles/b8452319.ext.json)
+
+---
+
+### A person arrested for steal thousands of ⁣Tjc mangoes worth Rs.
+
+*2024-01-31 15:10:21* · [`adalk`](https://www.ada.lk/breaking_news/ලක්ෂ-දොළහක්-වටිනා-⁣TJC-අඹ-ගෙඩි-දාහක්-සොරකම්-කළ-පුද්ගලයෙකු-අත්අඩංගුවට/11-407823) · `si`
+
+Tissawala in stone police, TJC exceeded Rs.. A person was arrested on suspicion that 6000 kg of mangoes were stolen.
+
+The suspect was arrested following a complaint lodged with a complaint lodged at the Perawatta, Deepthigama, Galkadawala.
+
+The victim is a resident of the Ilippunge area, Ihalapattuwa.
+
+The complaint states that the father was taken into custody and had been adopted by the father of his father and was adopted by the father of his father and was adopted by the father of her father.
+
+The complaint has been identified as the father was found in the event of a time when his father was hospitalized and later saw the value of mango.
+
+The suspect was to be produced before the Anuradhapura Magistrate's Court today (31).A group of officers of the Alapetuwa police officers arrested the suspect.
+
+◼️
+
+[Data](articles/717a5c67.json)
+
+[Extended Data](ext_articles/717a5c67.ext.json)
 
 ---
 
@@ -1899,113 +2023,5 @@ Will the party's national organizer, Basil Rajapaksa, is abroad, will be the par
 [Data](articles/86f8739d.json)
 
 [Extended Data](ext_articles/86f8739d.ext.json)
-
----
-
-### Afghanistan cricket team arrives in Sri Lanka
-
-*2024-01-31 11:26:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Afghanistan-cricket-team-arrives-in-Sri-Lanka/108-276036) · `en`
-
-Colombo, Jan. 31 (Daily Mirror) - The Afghanistan cricket team has arrived in Sri Lanka last night for an all-format series.
-
-They are scheduled to compete in a Test match and three one-day matches, followed by three T20I matches against the Sri Lankan team.
-
-The Test match to commence on February 2 at the SSC and will be freely accessible to the public.
-
-◼️
-
-[Data](articles/c745798b.json)
-
-[Extended Data](ext_articles/c745798b.ext.json)
-
----
-
-### Imran Khan and wife is in prison
-
-*2024-01-31 11:23:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192777) · `si`
-
-The international media reports that former Pakistan's Pakistan, Pakistan, and his wife, Bushra, has been sentenced to one in prison.
-
-Accordingly, the Pakistan court has ordered the two year prison sentence in prison.
-
-The allegation of state secrets have been sentenced to 10 years in prison yesterday (30) against Imran.
-
-In 2022, Imran was removed from the post of Prime Minister in 2022 and last year was sentenced to three years in prison.
-
-◼️
-
-[Data](articles/71e564a3.json)
-
-[Extended Data](ext_articles/71e564a3.ext.json)
-
----
-
-### Pakistan’s former PM Imran Khan sentenced to 14 years in prison for corruption
-
-*2024-01-31 11:22:00* · [`adaderanalk`](https://www.adaderana.lk/news/96877/pakistans-former-pm-imran-khan-sentenced-to-14-years-in-prison-for-corruption) · `en`
-
-A Pakistani court on Wednesday sentenced former Prime Minister Imran Khan and his wife to 14 years in prison for corruption, a day after another special court convicted Khan for leaking state secrets and gave him a 10-year prison sentence.
-
-Khan and his wife are accused of retaining and selling state gifts when the former premier was in power.
-
-The court also disqualified Khan for years from holding any public office ahead of Feb. 8 parliamentary elections.
-
-◼️
-
-[Data](articles/83d464ac.json)
-
-[Extended Data](ext_articles/83d464ac.ext.json)
-
----
-
-### Arrest
-
-*2024-01-31 11:16:57* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/வங்கிக்குள்-நுழைந்தவர்-கைது/175-332397) · `ta`
-
-Beruwala police have arrested a man who had entered the bank for damaging the Beruwala and Regional Development Bank.
-
-The incident took place at around 3.45 am on Wednesday (31) when a person who broke glass windows inside the Beruwala Divisional Secretariat was broken into glass windows.
-
-The Beruwala police, who started investigating the matter, have arrested the suspect at 6.30 am on Wednesday (31) and are conducting further investigations.
-
-◼️
-
-[Data](articles/1981b09a.json)
-
-[Extended Data](ext_articles/1981b09a.ext.json)
-
----
-
-### What is it?Be new;Amazed driver
-
-*2024-01-31 11:16:35* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/என்னாடா-இது-புதுசா-இருக்கு-வியந்துபோன-புது-சாரதி/175-332396) · `ta`
-
-R. Suranga Senavaratne from Eppawala Yagalegama says that the driver's license has been sent by the Motor Vehicle Department without specifying the vehicle for the driver's license for light vehicles and motorcycles.
-
-The driver's licensing was sent by the Department of Motor Vehicle by the Department of Motor Vehicles
-
-Upon seeing it, the new driver's license sent by the Department of Motor Vehicle could be seen that no vehicle segment was shown that he was allowed to drive. In that category, only the point of the point.
-
-◼️
-
-[Data](articles/e6ef93d9.json)
-
-[Extended Data](ext_articles/e6ef93d9.ext.json)
-
----
-
-### Daily Mirror News Editor injured during SJB protest
-
-*2024-01-31 11:14:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Daily-Mirror-News-Editor-injured-during-SJB-protest/108-276034) · `en`
-
-Colombo, Jan 31 (Daily Mirror) - Yohan Perera, the News Editor of the Daily Mirror, sustained injuries yesterday during the Samagi Jana Balawegaya (SJB) protest when he was struck by a tear gas canister.
-
-The demonstration took place in front of the Viharamadevi Park and the police, in accordance with a court order, blocked the road, restricting the protestors from exceeding their designated limits.
-
-◼️
-
-[Data](articles/bdc2ca94.json)
-
-[Extended Data](ext_articles/bdc2ca94.ext.json)
 
 ---

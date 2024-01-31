@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 00:32:37**
+As of **2024-02-01 00:47:17**
 
 ## Newspaper Stats
 
-*Scraped **3,944** Articles*
+*Scraped **3,945** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ dailyftlk | 243
 newsfirstlk | 247
 adalk | 350
 virakesarilk | 440
-adaderanasinhalalk | 454
+adaderanasinhalalk | 455
 adaderanalk | 498
 tamilmirrorlk | 502
 dailymirrorlk | 542
@@ -26,7 +26,7 @@ dailymirrorlk | 542
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,944 (100.0%) of 3,944 articles have been extended.
+3,945 (100.0%) of 3,945 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -49,6 +49,28 @@ The Ceylon Petroleum Corporation (CEYPETCO) and Lanka IOC had also announced rev
 [Data](articles/67fca6d9.json)
 
 [Extended Data](ext_articles/67fca6d9.ext.json)
+
+---
+
+### Syhoppuk fuel prices will change
+
+*2024-01-31 23:08:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192815) · `si`
+
+Sinaperic has been amended by the company to operate from midnight today.
+
+Accordingly, the company has increased the price of a liter of Octane 92 fuel by Rs. 368.
+
+The price of a liter of the auto diesel has also been increased by Rs. 360.
+
+Meanwhile, Siainope has dropped the price of an Octane 95 fuel
+
+The price of a liter of Super diesel has been reduced by Rs. 768.
+
+◼️
+
+[Data](articles/1960ef32.json)
+
+[Extended Data](ext_articles/1960ef32.ext.json)
 
 ---
 
@@ -2031,33 +2053,5 @@ The Chairman of the National Housing Development Authority Rajeev Suriyarachchi 
 [Data](articles/71ee3354.json)
 
 [Extended Data](ext_articles/71ee3354.ext.json)
-
----
-
-### Sri Lanka Police Under Scrutiny After Custody Death
-
-*2024-01-31 16:04:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/sri-lanka-police-under-scrutiny-after-custody-death/) · `en`
-
-COLOMBO (News 1st); Sri Lanka Police has opened an investigation into the death of a 22-year-old suspect who died while in police custody on Tuesday, January 30th.
-
-The suspect was arrested Anuradhapura Range Criminal Investigation Division and the investigation is led by an Assistant Superintendent of Police.
-
-According to a senior police official, the suspect, a known drug user, fell ill while detained in a police cell and later passed away at the Anuradhapura Teaching Hospital.
-
-The cause of death remains unclear, and the post-mortem examination report is expected to reveal crucial details.
-
-"The official stated that any potential police involvement will be fully investigated.
-
-The incident occurred shortly after the suspect's arrest, along with three others, at a residence in the Anuradhapura.
-
-Police reported finding approximately 80 milligrams of heroin at the location.
-
-Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
-
-◼️
-
-[Data](articles/2a4f3990.json)
-
-[Extended Data](ext_articles/2a4f3990.ext.json)
 
 ---

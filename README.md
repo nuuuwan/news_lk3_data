@@ -1,6 +1,6 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 14:32:43**
+As of **2024-01-31 14:49:19**
 
 ## Newspaper Stats
 
@@ -26,49 +26,53 @@ dailymirrorlk | 502
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,772 (99.8%) of 3,780 articles have been extended.
+3,780 (100.0%) of 3,780 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### மன்னாரில் இரு மோட்டார் சைக்கிள்கள் மோதி விபத்து ; இளம் தாய் காயம்
+### Two motorcycles collide in Mannar;Young mother wound
 
 *2024-01-31 13:49:00* · [`virakesarilk`](https://www.virakesari.lk/article/175235) · `ta`
 
-மன்னார் நானாட்டான் பகுதியில் பஸ் நிலையத்தின் முன்பாக உள்ள பிரதான வீதியில் இன்று புதன்கிழமை (31) நண்பகல் 12 மணியளவில் இரு மோட்டார் சைக்கிள்கள் மோதி விபத்துக்குள்ளாகியுள்ளது.
+Two motorcycles crashed into the main road in front of the bus station in Mannar at around 12 noon today.
 
-குறித்த விபத்தில் இளம் தாய் ஒருவர் காயமடைந்து நானாட்டான் பிரதேச வைத்தியசாலையில் அனுமதிக்கப்பட்டுள்ளார்.
+A young mother was injured and admitted to Nanatan Divisional Hospital.
 
-குறித்த விபத்தில் காயமடைந்த இளம் தாய் நானாட்டான் அச்சங்குளம் கிராமத்தை பிறப்பிடமாகவும்  அரிப்பு துறையில்  வசிப்பவர் என்று தெரிய வருகிறது.
+It is reported that the young mother who was injured in the accident is a native of Achangulam village.
 
-அரிப்புத்துறை பகுதியிலிருந்து வங்காலை நோக்கி ஆண் ஒருவர் செலுத்தி வந்த மோட்டார் சைக்கிளும் நாட்டான் பஸ் தரிப்பிடத்தில் இருந்து அரிப்பு துறை நோக்கி குழந்தை ஒன்றுடன் குறித்த இளம் தாய் பயணித்த மோட்டார் சைக்கிளும் மோதி விபத்துக்குள்ளாகியது.
+A motorcycle rushed to Bengal from the Euriputhurai area and a motorcycle traveling from the Natan bus station to the erosion department crashed into the crash.
 
-குறித்த விபத்தில் தாய் காயங்களுக்கு உள்ளாகிய போதும் குழந்தை காயம் எதுவுமின்றி தெய்வாதீனமாக காப்பாற்றப்பட்டுள்ளார்.
+Even though the mother suffered injuries in the accident, the child has been saved without any injury.
 
-காயமடைந்த தாய் மற்றும் மகள் இருவரும் அருகில் உள்ள நானாட்டான் பிரதேச வைத்தியசாலைக்கு கொண்டு செல்லப்பட்டமை குறிப்பிடத்தக்கது.
+The injured mother and daughter were taken to a nearby Nanattan area hospital.
 
 ◼️
 
 [Data](articles/886d29b2.json)
 
+[Extended Data](ext_articles/886d29b2.ext.json)
+
 ---
 
-### මැලේසියාවේ නව රජු  දිවුරුම් දෙයි
+### New king of Malaysia sworn in
 
 *2024-01-31 13:47:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192787) · `si`
 
-මැලේසියාවේ නව රජු ලෙස ජොහෝර්හි පාලක සුල්තාන් ඊබ්‍රාහිම් ඉස්කන්දාර් (Sultan Ibrahim Sultan Iskandar) දිවුරුම් දී තිබේ.
+As the new king of Malaysia, Johojo has sworn in the sworn in of the ruling Sultarhan Ibrahim Sultan iskandar.
 
-ඒ අනුව ඔහු මැලේසියාවේ 17 වන රජු ලෙස රාජ්‍යත්වයට පත්ව ඇති බව විදෙස් මාධ්‍ය වාර්තා කළේය.
+Accordingly, he has become the 17th king of Malaysia, foreign media reports said.
 
-රාජ්‍යත්වයට පත් වීමට අදාළ උත්සවය අද (31) පවත්වා ඇති අතර ඒ සඳහා මැලේසියානු අග්‍රාමාත්‍ය අන්වර් ඊබ්‍රාහිම් ඇතුළු පිරිසක් එක්ව තිබේ.
+The ceremony was held today (31) and Malaysian Prime Minister Anwar Ibrahim has participated in this program.
 
-සුල්තාන් ඊබ්‍රාහිම් ඉස්කන්දාර් මැලේසියාවේ දකුණු ප්‍රාන්තයෙන් රාජ්‍යත්වයට පත්වු දෙවන පාලකයා බව විදෙස් වාර්තා වැඩිදුරටත් සඳහන් කළේය.
+According to foreign reports, the second ruler of the state of state in the South State of Mercezar Malaysia.
 
 ◼️
 
 [Data](articles/fffb150f.json)
+
+[Extended Data](ext_articles/fffb150f.ext.json)
 
 ---
 
@@ -92,85 +96,99 @@ The Finance Ministry’s State-Owned Enterprise Restructuring Unit (SRU) state t
 
 ---
 
-### විරෝධය නොතකා ජනපති කැලණිය සරසවියට
+### President to promote protest
 
 *2024-01-31 13:27:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192786) · `si`
 
-ඒ කැලණිය විශ්වවිද්‍යාලයේ පාලි හා බෞද්ධ අධ්‍යයන ආයතනයේ නව ගොඩනැඟිලි පරිශ්‍රය විවෘත කිරීම වෙනුවෙන් පැවති උත්සවයට සහභාගී වීම සඳහාය.
+It was to attend the opening of the new building premises at the University of Kelaniya and the Institute of Pali and Buddhist Studies.
 
-ඒ අනුව නව ගොඩනැගිලි පරිශ්‍රය අද (31) පෙරවරුවේ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා විසින් විවෘත කර තිබේ.
+Accordingly, the new building premises has been opened by President Ranil Wickremesinghe this morning.
 
-ජනාධිපතිවරයාගේ පැමිණීමට විරෝධය පළ කරමින් කැලණිය විශ්වවිද්‍යාලයේ සිසුන් විරෝධතාවක නිරත වු අතර පෙරේදා රාත්‍රීයේ ඔවුන් කොළඹ - මහනුවර ප්‍රධාන මාර්ගය අවහිර කරමින් සිදුකළ විරෝධතාවය විසුරුවා හැරීමට පොලීසියට කඳුළු ගෑස් ප්‍රහාර එල්ල කිරීමට සිදුවුණි.
+The police had to attack the police to dissolve the protest by blocking the Colombo-Kandy main road in the Colombo-Kandy road on Monday night.
 
-කෙසේවෙතත් අනතුරුව සිසුන් එම ස්ථානයෙන් විසිර ගියද ඔවුන් ඊයේ සවස් වන තුරුම විශ්වවිද්‍යාල පරිපාලන ගොඩනැගිල්ලකට කිසිදු පාර්ශවයකට ඇතුළු වීමට ඉඩ ලබානොදී විරෝධතාවක නිරතව සිටියේය.
+However, the students were then scattered from the site, but they were not allowed to enter any parties to enter any parties until the evening.
 
 ◼️
 
 [Data](articles/373318bf.json)
 
+[Extended Data](ext_articles/373318bf.ext.json)
+
 ---
 
-### ஒரு கையால் ராஜபக்சர்களை அணைத்தபடி மறுகையால் எம்மை அழைக்காதீர்கள் - புதிய கூட்டணிகள் பற்றி மனோ
+### Do not call us by turning off the Rajapaksas with one hand - Mano about new alliances
 
 *2024-01-31 13:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175227) · `ta`
 
-ஒரு கையால் ராஜபக்சர்களை அணைத்தபடி மறுகையால் எம்மை அழைக்காதீர்கள் - புதிய கூட்டணிகள் பற்றி மனோராஜபக்சர்களின் அட்டூழியங்களை மன்னிக்க நாம் தயார் இல்லை. ஆகவே ஒரு கையால் ராஜபக்சர்களை கட்டி அணைத்தப்படி மறுகையால் எம்மை சுட்டி அழைக்க வேண்டாம். நாம் இன்று இருக்கும் இடத்தில் செளக்கியமாக இருக்கிறோம் என தமிழ் முற்போக்கு கூட்டணி தலைவரும், கொழும்பு மாவட்ட நாடாளுமன்ற உறுப்பினருமான மனோ கணேசன் தெரிவித்தார்.
+Do not invite us by turning off the Rajapaksas with one hand - we are not prepared to forgive the atrocities of the Manorajapaksas about the new alliances.So do not call us by hugging the Rajapaksas with one hand. Tamil Progressive Alliance leader and Colombo district parliamentarian Mano Ganesan said that we are very good at the place today.
 
-நாட்டில் உருவாகிவரும் புதிய கூட்டணிகளிடமிருந்து தமது அணியை நோக்கி வரும் அழைப்புகள் பற்றி,  தென்கொழும்பு கட்சி அலுவலகத்தில் நடத்திய ஊடக சந்திப்பில் மனோ எம்பி மேலும் கூறியுள்ளதாவது,
+At a press conference held at the Southern Province, Mano MP said that the calls from the new coalitions in the country to his team.
 
-கோட்டாபய ராஜபக்ச போனாலும், அவரது பாவத்தின் நிழல் போகவில்லை. சட்டப்படி கோட்டாபய ராஜபக்ச 16ம் திகதி நவம்பர் 2019 தேர்தலில் பெற்ற மக்கள் ஆணையுடன்தான் இந்த அரசு நடக்கிறது. அந்த பாவத்தில் எமக்கு பங்கு வேண்டாம்
+Even though Gotabhaya Rajapaksa is gone, the shadow of his sin does not go away. According to the law, Gotabhaya Rajapaksa was held with the People's Commission to receive the November 2019 election on the 16th.. We don't share in that sin
+
+When the new coalition friends who had been announced on the first day yesterday spoke to me, I said something clear. I told us not to call us by hugging the Rajapaksas with one hand. We are today, and we are at the United People's Alliance.
 
 ...
 
 [Data](articles/ed4f68c4.json)
 
+[Extended Data](ext_articles/ed4f68c4.ext.json)
+
 ---
 
-### ශ්‍රී ලංකා ක්‍රිකට් සංචිතය නම් කෙරේ
+### SLC squad named
 
 *2024-01-31 13:24:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192785) · `si`
 
-ඇෆ්ගනිස්තානය සමග සිකුරාදා ආරම්භ වීමට නියමිත ටෙස්ට් තරගය සඳහා ක්‍රීඩකයින් 16 දෙනෙකුගෙන් සමන්විත ශ්‍රී ලංකා සංචිතය නම් කර තිබේ.
+The Sri Lankan squad of 16 players have been named for Afghanistan.
 
-ශ්‍රී ලංකා ක්‍රිකට් ආයතනය පැවසුවේ, එම සංචිතය සඳහා ක්‍රීඩා අමාත්‍යවරයාගේ අනුමැතිය ලැබුණු බවය.
+Sri Lanka Cricket said that the approval of the Minister of Sports was given to the same squad.
 
 ◼️
 
 [Data](articles/edaf70db.json)
 
+[Extended Data](ext_articles/edaf70db.ext.json)
+
 ---
 
-### ටෙලිකොම් කොටස් ලබාගැනීමට චීන - ඉන්දියා සමාගම් දෙකක්
+### Two Chinese - Indian Companies to obtain Telecom Shares
 
 *2024-01-31 13:20:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192784) · `si`
 
-ශ්‍රී ලංකා ටෙලිකොම් හි රජය සතු බහුතර කොටස් ලබාගැනීම සඳහා මේ වනවිට චීන සහ ඉන්දියානු සමාගම් දෙකක් සුදුසුකම් ලබාඇති බව මුදල්, ආර්ථික ස්ථායීකරණ සහ ජාතික ප්‍රතිපත්ති අමාත්‍යාංශය නිවේදනය කරයි.
+The Ministry of Finance, Economic Stabilization and National Policies Antiate that two Chinese and Indian companies are eligible to obtain the majority of the majority of Chinese parts of Sri Lanka Telecom.
 
-ඒ චීනයේ ගෝටියුන් ඉන්ටර්නැෂනල් ඉන්වෙස්ට්මන්ට් හෝල්ඩිංග්ස් සහ ඉන්දියාවේ ජියෝ ප්ලැට්ෆෝර්ම් යන සමාගම් දෙක ය.
+It was the two companies in China Gotun International Investment Holdings and Gio Platfarm in India.
 
-ශ්‍රී ලංකා ටෙලිකොම් ආයතනයේ රජය සතු 50.23% කොටස් විකුණා දැමීම අවශ්‍ය පියවර ගනිමින් තිබේ.
+The government owned 50.23% of the government's government owned 50.23% shares is being taken.
 
-ටෙලිකොම් ආයතනයේ බහුතර කොටස් මිලදී ගැනීම සඳහා ඉන්දියාවේ ජියෝ ප්ලැට්ෆෝර්ම් සමාගම සහ චීනයේ ගෝටියුන් ඉන්ටර්නැෂනල් ඉන්වෙස්ට්මන්ට් හෝල්ඩිංග්ස් සමාගම සහ එක්සත් රාජධානියේ ලයිකා සමූහයට අයත් පෙට්ටිගෝ කොමර්සියෝ ඉන්ටර්නැෂනල් සමාගම ඉදිරිපත් වී සිටියේය.
+In order to purchase major parts of Telecom, the Giotun International Investment Holdings and Petigo Commerce Commissioner of the UK's Lyric Group in the UK was also present.
 
-එහෙත් මුදල් අමාත්‍යාංශයේ විශේෂ ව්‍යාපෘති කමිටුව සහ කැබිනට් මණ්ඩලය පත්කළ විශේෂ සාකච්ඡා කමිටුව ටෙලිකොම් මිලදි ගැනීම සඳහා පූර්ව සුදුසුකම් සහිත තරගකාරී සමාගම් ලෙස ජියෝ ප්ලැට්ෆෝර්ම් සමාගම සහ චීනයේ ගෝටියුන් ඉන්ටර්නැෂනල් ඉන්වෙස්ට්මන්ට් හෝල්ඩිංග්ස් සමාගම තෝරාගෙන තිබේ.
+However, the Special Project Committee of the Ministry of Finance and the Special discussion committee appointed by the Cabinet and the Cabinet appointment has been selected as pre-qualified companies.
 
-ජියෝ ප්ලැට්ෆෝර්ම් සමාගම අයත්වන්නේ ඉන්දියාවේ ප්‍රකෝටිපති ව්‍යාපාරික මුකේෂ් අම්බානිගේ රිලායන්ස් ව්‍යපාරයට ය.
+Geo Potiform begins the billionaire Business Mukh Ambani's Rilaay.
+
+The asset of the Geo Platphamorm is currently around US $ 107 billion.
 
 ...
 
 [Data](articles/79e65b98.json)
 
+[Extended Data](ext_articles/79e65b98.ext.json)
+
 ---
 
-### රාජගිරියේ බිළිඳු මළසිරුරක්
+### Body of Rajagiriya
 
 *2024-01-31 13:13:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192783) · `si`
 
-මළසිරුර තිබූ ස්ථානයේ නවතා තිබුණු කාර් රථයක ලේ පැල්ලම්ද දක්නට ලැබෙන බව වාර්තා වෙයි.
+It is reported that a car parked at the spot is found in the spot.
 
 ◼️
 
 [Data](articles/73e8f209.json)
+
+[Extended Data](ext_articles/73e8f209.ext.json)
 
 ---
 
@@ -1266,21 +1284,27 @@ The order of rotation among the sultans was originally determined by seniority, 
 
 ---
 
-### උරුමය යටතේ ඔප්පු 10000ක් සකස් කර අවසන්
+### 10000 deeds under heritage completed
 
 *2024-01-31 10:17:31* · [`adalk`](https://www.ada.lk/breaking_news/උරුමය-යටතේ-ඔප්පු-10000ක්-සකස්-කර-අවසන්/11-407818) · `si`
 
-ජනතාවගේ ඉඩම් අයිතිය සුරක්ෂිත කිරීම වෙනුවෙන් ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ සංකල්පය මත ක්‍රියාත්මක කරන උරුමය වැඩසටහනේ පළමු අදියර යටතේ ලබාදීමට නියමිත නිදහස් ඔප්පු දස දහස මේ වන විට සකස් කර අවසන්ව ඇතැයි සංචාරක හා ඉඩම් අමාත්‍යාංශය සඳහන් කරයි.
+The Ministry of Travel and Lands states that the proposals of the heritage program implemented by President Ranil Wickremesinghe to ensure the land ownership of the people.
 
-එම සින්නක්කර ඔප්පු මේ වනවිට දිස්ත්‍රික් ලේකම් කාර්යාලවලට යොමු කිරීමට පියවර ගෙන ඇති බව ද සංචාරක හා ඉඩම් අමාත්‍යාංශයේ ලේකම් ඒච්. ඒම්.බී.පී. හේරත් මහතා පැවසීය.
+The Secretary of the Ministry of Tourism and Land ACH have been sent to the District Secretariats at present.. Umble. Herath said.
 
-ජනාධිපති කාර්යාලයේ නිලධාරීන්, දිස්ත්‍රික් ලේකම්වරුන් හා ප්‍රාදේශිය ලේකම්වරුන් සමඟ මාර්ගගත ක්‍රමය ඔස්සේ ඊයේ (30) පැවැති සාකච්ඡාවකදී මෙම කරුණු අනාවරණය විය.
+This was revealed at a meeting held yesterday (30) at an online system of the Presidential Secretariat, District Secretaries and Divisional Secretaries.
 
-උරුමය වැඩසටහනේ පළමු අදියර යටතේ ඔප්පු දස දහසක් ප්‍රදානය කිරීමේ ජාතික උත්සවය ජනාධිපති රනිල් වික්‍රමසිංහ මහතාගේ ප්‍රධානත්වයෙන් රන්ගිරි දඹුලු ක්‍රීඩාංගණයේදී ලබන පෙබරවාරි 05 වැනිදා පැවැත්වේ.
+President Ranil Wickremesinghe will be held on February 5 at the National Festival of President Ranil Wickremesinghe at the National Festival of the Heritage Program
+
+The Presidential Office has instructed the District Secretariat to facilitate the District Secretariat and provide facilities to the District Secretariats.
+
+The government plans to grant free deeds for Rs. 20 million under heritage program.
 
 ...
 
 [Data](articles/3009ec73.json)
+
+[Extended Data](ext_articles/3009ec73.ext.json)
 
 ---
 

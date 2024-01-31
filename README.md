@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 06:53:53**
+As of **2024-01-31 07:15:50**
 
 ## Newspaper Stats
 
-*Scraped **3,670** Articles*
+*Scraped **3,672** Articles*
 
 newspaper | n
 --- | ---:
@@ -16,9 +16,9 @@ islandlk | 207
 newsfirstlk | 216
 dailyftlk | 242
 adalk | 331
-adaderanasinhalalk | 405
+adaderanasinhalalk | 406
 virakesarilk | 406
-tamilmirrorlk | 462
+tamilmirrorlk | 463
 adaderanalk | 467
 dailymirrorlk | 499
 
@@ -26,11 +26,33 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,660 (99.7%) of 3,670 articles have been extended.
+3,670 (99.9%) of 3,672 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### ප්‍රදේශ කිහිපයකට මි.මී 75 ඉක්මවූ වැසි
+
+*2024-01-31 06:26:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192763) · `si`
+
+දිවයිනේ බොහෝ ප්‍රදේශවල උදෑසන කාලයේදී වලාකුළු සහිත අහසක් අපේක්ෂා කළ හැකි බව කාලගුණවිද්‍යා දෙපාර්තමේන්තුව නිවේදනය කරයි.
+
+නැගෙනහිර, ඌවසහ උතුරු මැද පළාත්වලත් මුලතිව් සහ මාතලේ දිස්ත්‍රික්කවලත් විටින් විට වැසි ඇතිවේ.
+
+දිවයිනේ සෙසු ප්‍රදේශවල ප.ව. 2න් පමණ පසු තැනින් තැන වැසි හෝ ගිගුරුම් සහිත වැසි ඇති වේ.
+
+ඌව, සබරගමුව සහ මධ්‍යම පළාත්වලත් අම්පාර දිස්ත්‍රික්කයේත් ඇතැම් ස්ථානවල මි.මී. 75 ක පමණ තරමක තද වැසි ඇතිවිය හැක.
+
+මධ්‍යම, සබරගමුව සහ ඌව පළාත්වලත් ගාල්ල සහ මාතර දිස්ත්‍රික්කවලත් ඇතැම් ස්ථානවල උදෑසන කාලයේදී මීදුම් සහිත තත්ත්වයක් අපේක්ෂා කෙරේ.
+
+ගිගුරුම් සහිත වැසි සමග ඇති විය හැකි තාවකාලික තද සුළංවලින් සහ අකුණු මඟින් සිදුවන අනතුරු අවම කර ගැනීමට අවශ්‍ය පියවර ගන්නා ලෙස කාලගුණවිද්‍යා දෙපාර්තමේන්තුව ජනතාවගෙන් ඉල්ලා සිටී.
+
+◼️
+
+[Data](articles/7853722b.json)
+
+---
 
 ### Sajith Premadasa accuses Govt. of cowardice amidst crackdown on SJB protest
 
@@ -101,6 +123,22 @@ Adani Power Ltd., (APL), a part of Adani portfolio companies, recently announced
 [Data](articles/9b16dd49.json)
 
 [Extended Data](ext_articles/9b16dd49.ext.json)
+
+---
+
+### 10 ஆயிரம் காணி உறுதிகளை வழங்க நடவடிக்கை
+
+*2024-01-31 03:02:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/10-ஆயிரம்-காணி-உறுதிகளை-வழங்க-நடவடிக்கை/175-332383) · `ta`
+
+மக்களின் காணி உரிமையை உறுதிப்படுத்தும் வகையில் ஜனாதிபதி ரணில் விக்கிரமசிங்கவின் எண்ணக்கருவிற்கமைய, 'உரித்து' வேலைத்திட்டத்தின் கீழ் 10 ஆயிரம் காணி உறுதிப் பத்திரங்கள் வழங்குவதற்கான ஏற்பாடுகள் பூர்த்தி செய்யப்பட்டுள்ளன.
+
+மேற்படி காணி உறுதிப் பத்திரங்கள் தற்போதும் பிரதேச செயலகங்களுக்கு அனுப்பி வைக்கப்பட்டுள்ளன என சுற்றுலா மற்றும் காணி அமைச்சின் செயலாளர் எச்.எம்.பீ.பீ ஹேரத் தெரிவித்துள்ளார்.
+
+ஜனாதிபதி செயலகத்தின் அதிகாரிகள், மாவட்டச் செயலாளர்கள், பிரதேச செயலாளர்களுடன் நேற்று தொழில்நுட்ப முறைமையினூடாக இடம்பெற்ற கலந்துரையாடலில் மேற்படி விடயம் குறிப்பிடப்பட்டது. (a)
+
+◼️
+
+[Data](articles/e81ada0b.json)
 
 ---
 
@@ -332,6 +370,8 @@ Global trade faced challenges due to tightening monetary policies, high inflatio
 
 [Data](articles/4b2ca366.json)
 
+[Extended Data](ext_articles/4b2ca366.ext.json)
+
 ---
 
 ### Partnering for success: Kingslake and Omega Line’s path to manufacturing excellence
@@ -345,6 +385,8 @@ From the very beginning, Kingslake’s solutions became an integral part of Omeg
 ...
 
 [Data](articles/53d3721a.json)
+
+[Extended Data](ext_articles/53d3721a.ext.json)
 
 ---
 
@@ -361,6 +403,8 @@ The All Share Price Index went down by 2.58 points and S and P SL20 declined by 
 ...
 
 [Data](articles/e24ccb62.json)
+
+[Extended Data](ext_articles/e24ccb62.ext.json)
 
 ---
 
@@ -532,19 +576,23 @@ In the 1948 International Human Rights Declaration, everyone has the right to le
 
 ---
 
-### எனது விசாரணைக்குழுவின் அறிக்கைக்கு அமையவே பாராளுமன்ற ஊழியர்களின் கைது இடம்பெற்றது - பாராளுமன்ற செயலாளர் நாயகம் குஷானி ரோஹணதீர
+### The arrest of parliamentary employees was held in accordance with the report of my inquiry - Parliamentary Secretary General Kushani Rohanadeera
 
 *2024-01-30 22:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175186) · `ta`
 
-என்னால் நியமிககப்பட்ட குழு அறிக்கை சட்டமா அதிபருக்கு அனுப்பிவைக்கப்பட்டதால், அவரின் ஆலாேசனையின் பிரகாரம் பொலிஸ் மா அதிபருக்கு அனுப்பி அதன் பிரகாரம் பொலிஸ் சிறுவர் மற்றும் மகளிர் பணியகத்தினால் மேற்கொள்ளப்பட்ட விசாரனைக்கு அமையவே பாராளுமன்ற ஊழியர்கள் 3பேர் கைது செய்யப்பட்டுள்ளனர் என பாராளுமன்ற செயலாளர் நாயகம்  குஷானி ரோஹணதீர தெரிவித்துள்ளார்.
+Since my appointed committee report was sent to the Attorney General, three parliamentary employees have been arrested in accordance with the Police Children's and Women's Bureau, according to her, according to her Alake, said Parliamentary Secretary General Kushani Rohanadeera.
 
-பாராளுமன்றத்தின் வீட்டு பராமரிப்பு பிரிவை்சேர்ந்த 2பெண் ஊழியர்களுக்கு பாலியல் தொந்தரவு மேற்கொண்ட சம்பவம் தொடர்பில் அதன் சிரேஷ்ட ஊழியர் 3பேர் கைது செய்யப்பட்டுள்ளதாக வெளிவந்திருக்கும் செய்தி தொட்ர்பில் அவர் விடுத்துள்ள அறிக்கையிலேயே இவ்வாறு தெரிவிக்கப்பட்டுள்ளது.
+In a statement issued by a news report, three senior employees have been arrested in connection with the sexual harassment of two female employees from Parliament's Home Care Unit.
 
-நான் பாராளுமன்றத்தின் பொதுச் செயலாளராக நியமிக்கப்பட்டதன் பின்னர், 2022ஆம் ஆண்டிலும் அதற்கு முன்னரும் பாராளுமன்றத்தின் வீட்டுப் பராமரிப்புத் துறையில் பல பெண்கள் துன்புறுத்தப்பட்டதாகக் கூறப்படும் பல சம்பவங்கள் குறித்து எனக்கு அறிவிக்கப்பட்டதுடன் அதன் பிரகாரம், சபாநாயகரின் ஆலாேசனையின் கீழ் இது தொடர்பாக மேலதிக விசாரணை மேற்கொள்ள
+After I was appointed General Secretary of Parliament, many of the incidents that were reportedly harassed by many women in the House of Home Affairs of Parliament and before 2022 were informed and further investigations under the Speaker's Alarge.
+
+The Committee's report was received last week and it was sent to the Attorney General to get an additional article on it.. The Aranyan Attorney General had issued its report to the initial complaint on the incident.
 
 ...
 
 [Data](articles/7b5fe669.json)
+
+[Extended Data](ext_articles/7b5fe669.ext.json)
 
 ---
 
@@ -1981,45 +2029,5 @@ A court order further read that the protesters are, however, allowed to use the 
 [Data](articles/7494aeb5.json)
 
 [Extended Data](ext_articles/7494aeb5.ext.json)
-
----
-
-### Water and tear gas attacks on Sajith's flock
-
-*2024-01-30 15:22:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192745) · `si`
-
-Police fired water and tear gas to dissolve protest march in harmony community.
-
-The police stabbed the Colombo Public Library near the Colombo Public Library at the Colombo Public Library near the Colombo Municipal Council.
-
-◼️
-
-[Data](articles/8fb4392e.json)
-
-[Extended Data](ext_articles/8fb4392e.ext.json)
-
----
-
-### People are suffering from the highlights of Nuwara Eliya
-
-*2024-01-30 15:12:00* · [`virakesarilk`](https://www.virakesari.lk/article/175155) · `ta`
-
-They accuse the public and drivers of being greatly affected by the highlights and noise buses that come to visit Nuwara Eliya.
-
-Since the long holiday is a long holiday, many buses that tour Nuwara Eliya are aired with great sounds, as well as bright lights and high -sounding loudspeakers, contrary to motor vehicle regulations.
-
-Due to this, public and motorists in the surrounding city of Nuwara Eliya are complaining that they are in great difficulty.
-
-The public is also demanding that the law be implemented against the owners and drivers of decorated vehicles in violation of the law.
-
-Responding to the hearing of the Nuwara Eliya Headquarters Chief Inspector Premalal Hettiarachchi regarding the allegations of the public
-
-The Chief Inspector of the Nuwara Eliya Police Headquarters said that the buses coming to Nuwara Eliya will be investigated as to whether decorative arrangements and loudspeakers are installed.
-
-◼️
-
-[Data](articles/efdb4e21.json)
-
-[Extended Data](ext_articles/efdb4e21.ext.json)
 
 ---

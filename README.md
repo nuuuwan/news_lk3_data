@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 07:51:59**
+As of **2024-01-31 08:02:21**
 
 ## Newspaper Stats
 
-*Scraped **3,674** Articles*
+*Scraped **3,675** Articles*
 
 newspaper | n
 --- | ---:
@@ -17,7 +17,7 @@ newsfirstlk | 216
 dailyftlk | 242
 adalk | 331
 virakesarilk | 406
-adaderanasinhalalk | 408
+adaderanasinhalalk | 409
 tamilmirrorlk | 463
 adaderanalk | 467
 dailymirrorlk | 499
@@ -26,11 +26,29 @@ dailymirrorlk | 499
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,674 (100.0%) of 3,674 articles have been extended.
+3,674 (100.0%) of 3,675 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
+
+### තවත් වෙඩිතැබීමක්
+
+*2024-01-31 07:30:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192767) · `si`
+
+කරුවලගස්වැව පොලිස් වසමේ බුද්ධි ධීවර ගම්මානය ප්‍රදේශයේ දී වෙඩිතැබීමක් සිදුකර තිබේ.
+
+පොලිස් මාධ්‍ය කොට්ඨාසය සඳහන් කළේ, ඊයේ (30) රාත්‍රීයේ අදාළ වෙඩිතැබීම සිදුකර ඇති අතර ඉන් තුවාල ලැබූ පුද්ගලයෙක් මේ වනවිට පුත්තලම රෝහලට ඇතුළත් කර ඇති බවය.
+
+තුවාලකරු කාන්තාවක් සමග අනියම් ප්‍රේම සම්බන්ධතාවයක් පවත්වා ඇති අතර, එම කාන්තාව සමග ප්‍රේම සම්බන්ධතාවයක් පැවැත්වූ වෙනත් පුද්ගලයෙකු විසින් බෝර 12 ගිනිඅවියකින් මෙම වෙඩිතැබීම සිදුකර ඇති බවට විමර්ශනවලදී අනාවරණය වී තිබේ.
+
+වෙඩිතැබීම සිදුකළ පුද්ගලයා හඳුනාගෙන ඇති අතර, ඔහු මේ වනවිට ප්‍රදේශයෙන් පළාගොස් ඇත.
+
+◼️
+
+[Data](articles/38c16682.json)
+
+---
 
 ### Army Commander goes to see Parachute
 
@@ -2023,29 +2041,5 @@ Colombo-based ambassadors of Saudi Arabia, Egypt and Iran as well as diplomats f
 [Data](articles/d16a1a31.json)
 
 [Extended Data](ext_articles/d16a1a31.ext.json)
-
----
-
-### Tear Gas and Water Cannons Used to Break Up SJB Rally
-
-*2024-01-30 15:25:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/30/tear-gas-and-water-cannons-used-to-break-up-sjb-rally/) · `en`
-
-COLOMBO (News 1st); Sri Lanka's Police fired tear gas and water cannons to disperse an opposition-led protest in Colombo.
-
-The protest was organized by the main opposition bloc, the Samagi Jana Balavegaya, against the government of President Ranil Wickremesinghe.
-
-Sri Lankan courts have issued a series of orders restricting protests planned by the opposition Samagi Jana Balawegaya in Colombo (30).
-
-The Maligakanda Magistrate's Court prohibited blocking roads within its jurisdiction from noon today until 10 am tomorrow.
-
-However, it designated the P. D. Sirisena Grounds and Hyde Park ground as safe spaces for protests, citing that there will be no restriction in exercising the freedom of speech.
-
-At the same time, the Fort Magistrate's Court also issued an order against Opposition Leader Sajith Premadasa and others from the SJB preventing them from entering into several roads in the Fort and Kompanna Veediya police jurisdictions.
-
-...
-
-[Data](articles/0f808ef5.json)
-
-[Extended Data](ext_articles/0f808ef5.ext.json)
 
 ---

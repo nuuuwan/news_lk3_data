@@ -1,14 +1,14 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-02-01 02:33:02**
+As of **2024-02-01 02:49:28**
 
 ## Newspaper Stats
 
-*Scraped **3,949** Articles*
+*Scraped **3,950** Articles*
 
 newspaper | n
 --- | ---:
-colombotelegraphcom | 47
+colombotelegraphcom | 48
 bbccomsinhala | 62
 dbsjeyarajcom | 130
 islandlk | 208
@@ -26,7 +26,7 @@ dailymirrorlk | 545
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,949 (100.0%) of 3,949 articles have been extended.
+3,949 (100.0%) of 3,950 articles have been extended.
 
 ## Latest 100 Articles 
 
@@ -599,6 +599,18 @@ Meanwhile, Former Health Minister Keheliya Rambukwella issued a statement this a
 [Data](articles/7250d223.json)
 
 [Extended Data](ext_articles/7250d223.ext.json)
+
+---
+
+### In Tamil Nadu BJP Has Crossed The Rubicon
+
+*2024-01-31 20:16:55* · [`colombotelegraphcom`](https://www.colombotelegraph.com/index.php/in-tamil-nadu-bjp-has-crossed-the-rubicon/) · `en`
+
+Annamalai the state President of Tamil Nadu together with the BJP were over the hump by end November 2023. As December closed, both leader and the party have crossed the Rubicon. Two regional parties with a substantial presence in the state, have already declared their allegiance to the winning formation – BJP. Two other leaders are on the verge of announcing their popular support. With such crystallization, the national party and the state leader are now in a clear comfortable zone for three more months of electioneering.
+
+...
+
+[Data](articles/04843e09.json)
 
 ---
 
@@ -2039,25 +2051,5 @@ The body has been handed over to the Jaffna Bodhana Hospital for anatomical exam
 [Data](articles/5672206b.json)
 
 [Extended Data](ext_articles/5672206b.ext.json)
-
----
-
-### Show if hitting - Iran
-
-*2024-01-31 16:14:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192795) · `si`
-
-Iran warns that the US will respond to threats.
-
-Heran's Revolutionary Security Forces, Hoseyan Salami said.
-
-Jordani - 3 soldiers were killed in a drone attack on a US military base in Syria and President Joe Biden said that Iran was involved in Iran.
-
-"We hear the threats of US officials. We'd like to say they already checked us. We know each other well. No threat to any of those threats will not be discarded ... ".
-
-◼️
-
-[Data](articles/c7fa9b4c.json)
-
-[Extended Data](ext_articles/c7fa9b4c.ext.json)
 
 ---

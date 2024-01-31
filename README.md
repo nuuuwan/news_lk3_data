@@ -1,10 +1,10 @@
 # Newspaper Articles from Sri Lanka :sri_lanka:
 
-As of **2024-01-31 20:50:01**
+As of **2024-01-31 21:02:25**
 
 ## Newspaper Stats
 
-*Scraped **3,912** Articles*
+*Scraped **3,921** Articles*
 
 newspaper | n
 --- | ---:
@@ -14,35 +14,147 @@ dbsjeyarajcom | 130
 islandlk | 208
 economynextcom | 218
 dailyftlk | 243
-newsfirstlk | 244
-adalk | 347
+newsfirstlk | 247
+adalk | 349
 virakesarilk | 440
 adaderanasinhalalk | 450
 adaderanalk | 493
 tamilmirrorlk | 501
-dailymirrorlk | 529
+dailymirrorlk | 533
 
 ## Data Extension Stats
 
 Extensions include translations and NER (Named Entity Recognition).
 
-3,908 (99.9%) of 3,912 articles have been extended.
+3,912 (99.8%) of 3,921 articles have been extended.
 
 ## Latest 100 Articles 
 
 ### 2024-01-31 (Wednesday)
 
-### තවත් ගාස්තුවක් ඉහළට
+### Sri Lankan crew rescued by Seychelles Coast Guard arrive on Mahe
+
+*2024-01-31 20:47:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Sri-Lankan-crew-rescued-by-Seychelles-Coast-Guard-arrive-on-Mahe/108-276065) · `en`
+
+Seychelles, Jan. 31 (seychelles News Agency) Six Sri Lankan fishermen, who were rescued by the Seychelles Coast Guard after being held hostage by Somali pirates who were also arrested, arrived on the Seychelles' main island of Mahe on Wednesday morning.
+
+The director for operations at the Seychelles Coast Guard, Major Hans Radegonde, told reporters that they received reports that piracy had started again in the region since late last year.
+
+"Now we are noticing that piracy is becoming more frequent than last year and the area where they are operating is closer to Seychelles waters. Our operation remains the same as it was. We've always been on alert; we've never let our guard down," he said.
+
+Radegonde clarified that they received word about the incident from the Sri Lankan Navy on Saturday and the operation to free the hostages took place on Monday after the vessel entered the Seychelles Exclusive Economic Zone, which is 1.4 million square kilometres.
+
+...
+
+[Data](articles/800dac6d.json)
+
+---
+
+### Lotus Tower rewards 50,000th foreign visitor
+
+*2024-01-31 20:38:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Lotus-Tower-rewards-50-000th-foreign-visitor/108-276057) · `en`
+
+Colombo, Jan 31 (Daily Mirror) - The Colombo Lotus Tower Management Company (Private) Limited said today that they had recorded the arrival of the 50,000th foreign visitor since the day it opened to the public on September 15, 2022.
+
+Given the vital role tourism plays in the country's economy, the Colombo Lotus Tower is dedicated to positioning itself as a pivotal force in fostering the expansion of the tourism industry.
+
+In celebration of this momentous occasion, the 50,000th visitor was rewarded with an exquisite gift hamper.
+
+◼️
+
+[Data](articles/c4f5747c.json)
+
+---
+
+### Pekoe Trail Among 20 Best travel adventures for 2024
+
+*2024-01-31 20:36:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/pekoe-trail-among-20-best-travel-adventures-for-2024/) · `en`
+
+COLOMBO (News 1st); National Geographic, a global authority in travel and exploration, has recently released its prestigious annual guide, "BEST OF THE WORLD 2024," highlighting the most captivating and distinctive travel experiences for the upcoming year.
+
+Among the esteemed selection, the Pekoe Trail in Sri Lanka has secured a coveted spot in the "Top 20 Travel Experiences" category, ranking at number 16.
+
+The Pekoe Trail, spanning 300 kilometers and comprising 22 stages, has garnered international attention as a world-class, nature-based experience in Sri Lanka's tea country. Notably, this recognition comes at a time when Sri Lanka is poised to attract a new segment of international tourists seeking wellness and nature-centric travel experiences.
+
+National Geographic announced their picks for BEST OF THE WORLD 2024, the brand’s annual guide of the most exciting, meaningful, and one-of-a-kind travel experiences for 2024.
+
+...
+
+[Data](articles/634d12ae.json)
+
+---
+
+### Three weightlifters for Asian Continental Meet
+
+*2024-01-31 20:30:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Three-weightlifters-for-Asian-Continental-Meet/108-276061) · `en`
+
+Colombo, Jan. 31 (Daily Mirror) - Sri Lanka will field a three-member squad for the Asian Weightlifting Continental Championship, which will be held from February 3 to 10 at the Yunusabad Sports Complex in Tashkent, Uzbekistan.
+
+The event is conducted by the Asian Weightlifting Federation and all three Sri Lankan weightlifters are hoping to qualify for the Paris Olympic Games later this year.
+
+Over 100 competitors are set to participate in this championship. Two international-level weightlifters Hansani Gomes (49kg) and Chathurika Priyanthi (87kg) will compete in the Women’s category while Indika Dissanayaka (73kg) will participate in the Men’s category, National Coach R. B. Wickramasinghe revealed.
+
+The Asian Weightlifting Continental Championship is the penultimate qualifying event for the Paris Olympic Games and the final qualifying event will be the IWF World Cup from March 31 to April 11 in Phuket, Thailand.
+
+...
+
+[Data](articles/ec2c17fc.json)
+
+---
+
+### Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
+
+*2024-01-31 20:24:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/police-detains-10-protesters-at-cid-headquarters-while-demanding-keheliya-s-arrest/) · `en`
+
+COLOMBO (News 1st); Ten protesters, eight men and two women, were arrested today outside the Criminal Investigation Department (CID) headquarters in Colombo.
+
+The group had been demonstrating since morning, demanding the arrest of former Health Minister Keheliya Rambukwella for his alleged involvement in a recent drug procurement scandal.
+
+Police spokesperson DIG Nihal Talduwa confirmed the arrests and stated that despite repeated warnings and attempts to disperse the gathering peacefully, the protesters continued their sit-in protest, prompting police intervention.
+
+Meanwhile, Former Health Minister Keheliya Rambukwella issued a statement this afternoon acknowledging the summons from the CID but claiming his inability to present himself due to conflicting commitments.
+
+...
+
+[Data](articles/7250d223.json)
+
+---
+
+### Another fee is up
 
 *2024-01-31 20:16:00* · [`adaderanasinhalalk`](http://sinhala.adaderana.lk/news/192811) · `si`
 
-පෙබරවාරි මස 01 වනදා සිට ක්‍රියාත්මක වන පරිදි විදේශ ගමන් බලපත්‍ර ගාස්තුව ඉහළ දමා තිබේ.
+The passport fee has been increased with effect from 1st February.
 
-ඒ අනුව මාර්ගගත සහ මාර්ගගත නොවන සාමාන්‍ය සේවා ගාස්තුව රුපියල් 5000 සිට රුපියල් 10,000ක් දක්වා සංශෝධනය කර තිබේ.
+Accordingly, online and non-online average service charge has been revised from Rs 5000 to Rs. 10,000.
 
 ◼️
 
 [Data](articles/ee81a9c0.json)
+
+[Extended Data](ext_articles/ee81a9c0.ext.json)
+
+---
+
+### Fonseka Calls New SJB Member “Shameless”
+
+*2024-01-31 20:12:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/fonseka-calls-new-sjb-member-shameless/) · `en`
+
+COLOMBO (News 1st); Samagi Jana Balavegaya Chairman Field Marshal Sarath Fonseka  launched a scathing attack on former Army Commander Daya Rathnayake, who joined the SJB earlier this week.
+
+"The Samagi Jana Balawegaya was built on sacrifice, not to be tarnished by the decisions of a few," declared Fonseka in a fiery address.
+
+He expressed strong reservations about Rathnayake's past and suitability for the party, calling him "shameless" and questioning his motives.
+
+Fonseka revealed his disapproval of the decision at the highest levels, stating that he had "strongly criticized" the move to both the party leader and the general secretary.
+
+Fonseka likened Rathnayake's inclusion to a slippery slope, fearing it could pave the way for accepting other controversial figures like former President Gotabaya Rajapaksa or ex-Central Bank Governor Ajith Nivard Cabraal.
+
+He emphasized the importance of adhering to principles and selecting members with "untainted pasts and good reputations."
+
+...
+
+[Data](articles/0e3edb77.json)
 
 ---
 
@@ -67,6 +179,26 @@ A considerable number of its MPs have left the party at various points, citing v
 ...
 
 [Data](articles/063a1304.json)
+
+[Extended Data](ext_articles/063a1304.ext.json)
+
+---
+
+### Police Constable awarded Rs. 2 million against arbitrary arrest by police
+
+*2024-01-31 19:56:00* · [`dailymirrorlk`](https://www.dailymirror.lk/breaking-news/Police-Constable-awarded-Rs-2-million-against-arbitrary-arrest-by-police/108-276063) · `en`
+
+Colombo, Jan. 31 (Daily Mirror)- The Supreme Court awarded Rs.2 million against the four police officers attached to the Kosgoda Police Station, as compensation for subjecting to arbitrary arrest of a police constable and his wife.
+
+While holding that four policemen, including the OIC of the Kosgoda Police Station have violated the Fundamental Rights of the Police Constable in terms of Articles 12(1),13(1) and 14(1)(g) of the Constitution, the Supreme Court observed that the Sri Lanka Police have been vested with the duty of maintaining the law and that they are the guardians of public safety.
+
+The Supreme Court further observed that the facts and circumstances of this case raise the question of who guards the guards.
+
+The Supreme Court held that the compensation should be paid by the four policemen out of their personal funds. The State is directed to pay a sum of Rs. 25,000 each to the petitioner and his wife.
+
+...
+
+[Data](articles/a53100fd.json)
 
 ---
 
@@ -98,9 +230,13 @@ Rambukwella's defense presented initial objections to the indictment, and Colomb
 
 Minister Keheliya Rambukwella and former State Printing Corporation Chairman Jayampathi Bandara Heinkenda have been charged by the Bribery Commission under the Bribery Act, over the alleged misuse of public funds.
 
+Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
+
 ◼️
 
 [Data](articles/9c5c2fe4.json)
+
+[Extended Data](ext_articles/9c5c2fe4.ext.json)
 
 ---
 
@@ -112,9 +248,13 @@ COLOMBO (News 1st); The Department of Immigration and Emigration of Sri Lanka an
 
 The new fee for both online and offline applications will be Rs. 10,000, representing an increase from Rs. 5,000.
 
+Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
+
 ◼️
 
 [Data](articles/60d3fc92.json)
+
+[Extended Data](ext_articles/60d3fc92.ext.json)
 
 ---
 
@@ -622,6 +762,26 @@ Civil society organizations have said it has a ‘chilling effect’ on free spe
 
 ---
 
+### ජීවිත අරගලය ජය ගැනීමට බුදුන් වහන්සේගේ ධර්මය ඉතාම වැදගත්
+
+*2024-01-31 17:44:21* · [`adalk`](https://www.ada.lk/breaking_news/ජීවිත-අරගලය-ජය-ගැනීමට-බුදුන්-වහන්සේගේ-ධර්මය-ඉතාම-වැදගත්/11-407829) · `si`
+
+දැනුම්වත් සහ ශිෂ්ඨ සම්පන්න සමාජයක් තුළින් රටක ආර්ථිකය ගොඩනැගිය හැකි බව ජනාධිපති රනිල් වික්‍රමසිංහ මහතා පැවසීය.
+
+ජනාධිපතිවරයා මේ බව සඳහන් කර සිටියේ කැලණිය විශ්ව විද්‍යාලයේ පාලි හා බෞද්ධ අධ්‍යයන පශ්චාත් උපාධි ආයතනයේ නව ගොඩනැගිලි සංකීර්ණය විවෘත කිරීමේ අවස්ථාවට අද (31) පෙරවරුවේ එක් වෙමිනි.
+
+ජීවිත අරගලය ජය ගැනීම සඳහා බුදුන් වහන්සේ දේශනා කළ ධර්මය ඉතාම වැදගත් වන අතර එම ධර්මය වඩා ගැඹුරින් අධ්‍යයනය කර ලෝකයට ගෙන යාම සඳහා ථෙරවාදි බුදු දහමේ කේන්ද්‍රස්ථානය වන ශ්‍රී ලංකාවට මහඟු වගකීමක් පැවරී තිබෙන බව ද ජනාධිපතිවරයා මෙහිදී පෙන්වා දුන්නේය.
+
+ථෙරවාදි බුදු දහම පිළිබඳ පර්යේෂණ ආයතනයක් ස්ථාපිත කිරීමට ඉදිරියේදී කටයුතු කරන බවත්, ථෙරවාදි බුදු දහම ලෝකයට ගෙන යාමට මෙන්ම බෞද්ධ රටවල් අතර සබඳතා ශක්තිමත් කර ගැනීමට මෙවැනි බෞද්ධ ආයතනවලට විශාල හැකියාවක් තිබෙන බවත් ජනාධිපතිවරයා පෙන්වා දුන්නේය.
+
+තාක්ෂණ යුගයට අවශ්‍ය පරිදි ශ්‍රී ලංකාවේ අධ්‍යාපනය ශක්තිමත් කිරීමට සැලසුම් කර ඇති බවද පැවසූ ජනාධිපති රනිල් වික්‍රමසිංහ මහතා සෑම විශ්වවිද්‍යාලයකම කෘතිම බුද්ධිය පිළිබඳ පාඨමාලා ආරම්භ කිරීමට පියවර ගන්නා බවද සඳහන් කළේය.
+
+...
+
+[Data](articles/5b5745c1.json)
+
+---
+
 ### Informed, Civilized Society Key to Economic Development – President
 
 *2024-01-31 17:41:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/informed-civilized-society-key-to-economic-development-president/) · `en`
@@ -827,6 +987,22 @@ Commenting further regarding the matter, the All Ceylon Nurses’ Union alleged 
 [Data](articles/ef314c6e.json)
 
 [Extended Data](ext_articles/ef314c6e.ext.json)
+
+---
+
+### ටෙලිකෝම් කොටස් මිලදී ගන්න චීන හා ඉන්දීය සමාගම් දෙකක්
+
+*2024-01-31 16:52:18* · [`adalk`](https://www.ada.lk/breaking_news/ටෙලිකෝම්-කොටස්-මිලදී-ගන්න-චීන-හා-ඉන්දීය-සමාගම්-දෙකක්/11-407828) · `si`
+
+ශ්‍රී ලංකා ටෙලිකොම් හි රජය සතු සියයට 50.23ක බහුතර කොටස් ලබාගැනීම සඳහා මේ වනවිට චීන සහ ඉන්දියානු සමාගම් දෙකක් සුදුසුකම් ලබා තිබේ.
+
+ඒ චීනයේ ගෝටියුන් ඉන්ටර්නැෂනල් ඉන්වෙස්ට්මන්ට් හෝල්ඩිංග්ස් සහ ඉන්දියාවේ ජියෝ ප්ලැට්ෆෝර්ම් යන සමාගම් දෙක ය. කොටස් මිලදී ගැනීම සඳහා ලයිකා සමූහයද ඉදිරිපත්ව සිටියේය.
+
+කෙසේ වෙතත් අවසන් වරට ඉන්දීය හා චීන සමාගම් ද්විත්වය තෝරාගෙන තිබේ.  ජියෝ සමාගම ඉන්දීය ප්‍ර කෝටිපති ව්‍යාපාරික මුකේෂ් අම්බානිට අයත් වෙයි.
+
+◼️
+
+[Data](articles/8c1626e5.json)
 
 ---
 
@@ -1382,6 +1558,8 @@ The incident occurred shortly after the suspect's arrest, along with three other
 
 Police reported finding approximately 80 milligrams of heroin at the location.
 
+Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
+
 ◼️
 
 [Data](articles/2a4f3990.json)
@@ -1470,7 +1648,7 @@ The privatization of SriLankan Airlines is a crucial element of the government's
 
 The national carrier has faced significant financial difficulties in recent years, prompting the government to explore various options to ensure its sustainability and long-term viability.
 
-◼️
+...
 
 [Data](articles/476d997b.json)
 
@@ -1531,6 +1709,8 @@ Not only that. Spent more than five of us. These won't stop us. The other is the
 COLOMBO (News 1st); Sri Lanka Cricket announced the squad for Afghanistan Test that will be played in Colombo, starting this weekend.
 
 Dhananjaya de Silva will lead the 16-man squad against Afghanistan. The one-off Test between the two sides takes place between 2 and 6 February at the Colombo SSC.
+
+Police Detains 10 Protesters at CID Headquarters While Demanding Keheliya’s Arrest
 
 ◼️
 
@@ -1861,177 +2041,5 @@ The petitions were presented by the Sri Lanka Judicial Officers Association and 
 [Data](articles/8882f938.json)
 
 [Extended Data](ext_articles/8882f938.ext.json)
-
----
-
-### The police left out of the parade?
-
-*2024-01-31 14:45:52* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அணிவகுப்பில்-இருந்து-வெளியேறிய-பொலிஸார்/175-332415) · `ta`
-
-It is reported that the police and the Special Task Force (STF) have been suddenly withdrawn from the rehearsal for the Independence Day event.
-
-It is reported that both police and police special squad forces have withdrawn from the final training this morning and the incident has led to the evacuation of the police cavalry teams.
-
-However, when the Minister of Public Safety Tran Ales and the Inspector General of Police, Deshabandu Tenkoon were raised in this regard, no such decision was taken.
-
-◼️
-
-[Data](articles/fdd2f807.json)
-
-[Extended Data](ext_articles/fdd2f807.ext.json)
-
----
-
-### Speaker endorses certificate on two Bills
-
-*2024-01-31 14:40:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/speaker-endorses-certificate-on-two-bills/) · `en`
-
-COLOMBO (News 1st); Mahinda Yapa Abeywardana, Speaker of Parliament today (31) endorsed the certificate on the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Bill and the Notaries (Amendment) Bill which were passed in Parliament recently.
-
-Accordingly, the said Bills will come into effect as the Recognition and Enforcement of International Settlement Agreements Resulting from Mediation Act No.5 of 2024 and the Notaries (Amendment) Act No.6 of 2024.
-
-◼️
-
-[Data](articles/5bc0d71f.json)
-
-[Extended Data](ext_articles/5bc0d71f.ext.json)
-
----
-
-### Shasheendra Rajapaksa sworn in as Minister of Irrigation and Water Supply
-
-*2024-01-31 14:39:00* · [`virakesarilk`](https://www.virakesari.lk/article/175223) · `ta`
-
-Shasheendra Rajapakse was sworn in as the Minister of Irrigation and Water Supply and was sworn in at the Presidential Secretariat in the presence of President Ranil Wickremesinghe.
-
-It is noteworthy that Shasheendra Rajapaksa has now been given the post of Minister of State for Minister of State for Irrigation and Water Supply and Water Supply.
-
-◼️
-
-[Data](articles/8a4f80f6.json)
-
-[Extended Data](ext_articles/8a4f80f6.ext.json)
-
----
-
-### Namal reveals who pressured Mahinda resignation
-
-*2024-01-31 14:38:55* · [`adalk`](https://www.ada.lk/breaking_news/මහින්දට-ඉල්ලා-අස්වෙන්න-බලපෑම්-කළ-අය-නාමල්-හෙළි-කරයි/11-407821) · `si`
-
-Namal Rajapaksa, MP, MP Namal Rajapaksa said that the Sri Lanka Cran's Front has come to a newest thinking.
-
-Retaining the questions hearing journalists today, Namal Rajapaksa said
-
-"There are a large number of alliances with the Sri Lanka Public Front. Several parties met Nelum Mawatha, General Filling Head office. We discussed the challenges that we face in the future and how to face the future.
-
-We also made it possible for the people of the country as a party to face and economic problems and as a party and the opinion of how we use. And we also discussed how the general future front and the fried trade union movement should be modernized. We also discussed the modernization of the trade unions in the tenure of the Ten Commemoration and in the future.
-
-...
-
-[Data](articles/1371fd45.json)
-
-[Extended Data](ext_articles/1371fd45.ext.json)
-
----
-
-### A group of representatives of the United Nations Food and Agricultural Organization visits the country
-
-*2024-01-31 14:36:00* · [`virakesarilk`](https://www.virakesari.lk/article/175232) · `ta`
-
-A team of representatives of the Regional Office of the United Nations Food and Agriculture Organization has visited the country.
-
-The Committee has arrived to oversee the preliminary measures of the 37th session of the Asia Pacific Regional Conference (APRC) to be held in the country.
-
-The conference will be held in Colombo from February 19 to 22, the Ministry of Agriculture said.
-
-Representatives of the Regional Office of the United Nations Food and Agriculture Organization have met Agriculture Minister Mahinda Amaraweera and discussed.
-
-The main objective of the Asian Pacific Regional Conference is to discuss the challenges and priorities of food and agriculture for the Agricultural Ministers and top officials of the 46 member states in the Asia Pacific region and promote regional coordination.
-
-In addition, the state of food and agriculture in the region, the change of agricultural food systems, and the solutions for small farmers and family farmers will be focused.
-
-◼️
-
-[Data](articles/46e022b9.json)
-
-[Extended Data](ext_articles/46e022b9.ext.json)
-
----
-
-### Can't fly on the highway anymore!
-
-*2024-01-31 14:35:44* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/அதிவேக-நெடுஞ்சாலையில்-இனி-பறக்க-முடியாது/175-332414) · `ta`
-
-Transport Minister Bandula Gunawardena said the minimum speed limit for vehicles on the highways will be fixed.
-
-He said the gazette containing the rules, including the new speed bail, will be released next week.
-
-The Minister added that new laws will be prepared to prioritize everyone's life safety through the common law without individual differences.
-
-◼️
-
-[Data](articles/bbd7d2a4.json)
-
-[Extended Data](ext_articles/bbd7d2a4.ext.json)
-
----
-
-### President Ranil visits Kelaniya University amid protests
-
-*2024-01-31 14:27:00* · [`virakesarilk`](https://www.virakesari.lk/article/175237) · `ta`
-
-He made this visit to attend the opening of the new building complex of the Bali and Buddhist Studies Institute of Kelaniya University.
-
-Accordingly, the new building complex was opened today (31st) by President Ranil Wickremesinghe.
-
-Meanwhile, students of Kelaniya University staged a protest against the president's arrival and police threw tear gas to dissolve the protest by crossing the main road in Colombo.
-
-However, even though the students dispersed, they staged a demonstration till yesterday evening (31) without allowing any parties to enter the university administration building.
-
-◼️
-
-[Data](articles/20dada38.json)
-
-[Extended Data](ext_articles/20dada38.ext.json)
-
----
-
-### Wind farm project
-
-*2024-01-31 14:26:33* · [`tamilmirrorlk`](https://www.tamilmirror.lk/செய்திகள்/மீண்டுமொரு-காற்றாலை-திட்டம்/175-332413) · `ta`
-
-The aim is to increase power generation by installing six additional turbots at a cost of US $ 47 million under the Asian Development Bank Fund.. Has been reported.
-
-The government's aim is to implement this scheme by private sector investors, and the government plans to carry out the construction of the power plant related to the twenty -year operational period.. The government has decided to seek private investment in the project, as the Asian Development Bank of India cannot use funds until the government's foreign debt restructuring scheme is implemented.
-
-◼️
-
-[Data](articles/16cc2724.json)
-
-[Extended Data](ext_articles/16cc2724.ext.json)
-
----
-
-### Special Traffic Plan for Independence Day Rehearsals
-
-*2024-01-31 14:26:00* · [`newsfirstlk`](https://www.newsfirst.lk/2024/01/31/special-traffic-plan-for-independence-day-rehearsals/) · `en`
-
-COLOMBO (News 1st); Commuters in Colombo should be prepared for temporary traffic disruptions until Saturday (3), as the city gears up for Independence Day rehearsals.
-
-Sri Lanka Police have implemented a special traffic plan around Galle Face to facilitate the smooth flow of vehicles during rehearsals.
-
-The special traffic plan is in effect from 6:00 AM to 8:30 AM and again from 11:00 AM to 12:30 PM.
-
-The following roads will be closed during the aforementioned periods:
-
-Khan Clock Tower Roundabout to Main Street, and YMBA Roundabout
-
-A separate traffic plan will be in place for Independence Day itself on February 4th.
-
-◼️
-
-[Data](articles/72370bbb.json)
-
-[Extended Data](ext_articles/72370bbb.ext.json)
 
 ---
